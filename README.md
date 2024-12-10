@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 10:02:11**
+As of **2024-12-10 11:26:39**
 
 ## Newspaper Stats
 
-*Scraped **59,385** Articles*
+*Scraped **59,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,311 @@ islandlk | 3,584
 economynextcom | 3,607
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,629
-adaderanalk | 7,219
-tamilmirrorlk | 8,474
-virakesarilk | 9,744
-adaderanasinhalalk | 10,264
+adalk | 5,632
+adaderanalk | 7,222
+tamilmirrorlk | 8,478
+virakesarilk | 9,750
+adaderanasinhalalk | 10,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,365 (100.0%) of 59,385 articles have been extended.
+59,383 (100.0%) of 59,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### 36 மணித்தியாலங்களில் வானிலையில் ஏற்படவுள்ள மாற்றம்
+
+*2024-12-10 11:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணித்தியாலங்களில்-வானிலையில்-ஏற்படவுள்ள-மாற்றம்/175-348520) · `ta`
+
+எதிர்வரும் 36 மணித்தியாலங்களுக்கு வடக்கு, வடமத்திய மற்றும் கிழக்கு மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், தென்கிழக்கு வங்காள விரிகுடா கடற்பரப்பில் உருவாகிய குறைந்த காற்றழுத்த மண்டலம் மேலும் வலுவடைந்து எதிர்வரும் 11 ஆம் திகதியளவில் இலங்கை - தமிழக கடற்பரப்பை அடையும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அதேவேளை, மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+தென்மேற்கு வங்காள விரிகுடாவின் கடற்பகுதிகளில் நிலைகொண்டுள்ள காற்றழுத்த தாழ்வு மண்டலமானது தொடர்ந்தும் நீடிப்பதனால் மீனவர்கள் மற்றும் கடல்சார் பணியாளர்கள் குறித்த பகுதிகளுக்குச் செல்ல வேண்டாம் என எச்சரிக்கப்பட்டுள்ளனர்.
+
+இதன்படி, குறித்த கடற்பகுதிகளில் காற்றானது 60 கிலோமீற்றர் வரையான வேகத்தில் அதிகரித்து வீசக்கூடுமென எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/2dc58d44.json)
+
+---
+
+### Constable in intoxication;Wound on the lip of the sergeant
+
+*2024-12-10 10:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போதையில்-வந்த-கான்ஸ்டபிள்-சார்ஜென்ட்டின்-மேல்-உதடு-காயம்/76-348519) · `ta`
+
+Police constable intoxicated, assaulted sergeant. Incident occurred during exams. Constable arrested, hospitalized.
+
+🟩
+
+The incident took place on Monday (09) that a police constable who had been assigned to the GCE Advanced Level Examinations at the Ambilipitiya Presidential School had come to the bar and assaulted a police sergeant.
+
+The police constable has been arrested in connection with the Ambilipitiya Police Division and has been admitted to the hospital for treatment.
+
+◼️
+
+[Data](articles/6ee070a8.json)
+
+[Extended Data](ext_articles/6ee070a8.ext.json)
+
+---
+
+### Constable in intoxication;Wound on the lip of the sergeant
+
+*2024-12-10 10:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/போதையில்-கான்ஸ்டபிள்-சார்ஜென்ட்டின்-உதட்டில்-காயம்/76-348519) · `ta`
+
+Police constable intoxicated, assaults sergeant. Incident occurred during exams. Constable arrested, hospitalized.
+
+🟩
+
+The incident took place on Monday (09) that a police constable who had been assigned to the GCE Advanced Level Examinations at the Ambilipitiya Presidential School came to a liquor bar and assaulted a police sergeant.
+
+The police constable has been arrested in connection with the Ambilipitiya Police Division and has been admitted to the hospital for treatment.
+
+◼️
+
+[Data](articles/844248b6.json)
+
+[Extended Data](ext_articles/844248b6.ext.json)
+
+---
+
+### Police Constable arrested for acting abnormally while intoxicated
+
+*2024-12-10 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/200857) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Police constable arrested for assault after intoxication incident at Embilipitiya presidential college.
+
+🟩
+
+Embilipitiya police said that a police constable was arrested on Monday (9), who allegedly assaulted a police sergeant in the presidential college in Embilipitiya, Embilipitiya, Ratnapura.
+
+◼️
+
+[Data](articles/c9479ace.json)
+
+[Extended Data](ext_articles/c9479ace.ext.json)
+
+---
+
+### A change in the fishermen receiving the kerosene subsidy
+
+*2024-12-10 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204222) · `si`
+
+Fishermen receive kerosene subsidy extended 5 months. Cabinet approves measure to support fishing industry during economic crisis. Subsidy rate not specified.
+
+🟩
+
+Cabinet approval has been granted to the next five months for the fishermen's kerosene subsidy for the fishermen.
+
+Addressing Cabinet Media, Media Spokesperson, Health and Mass Media Spokesperson Dr. Nalinda Jayatissa said that this decision was taken to facilitate the fishermen to obtain the same subsidy to the fishermen today (10).
+
+Meanwhile, the Diesel subsidy of Rs.
+
+The government has provided a subsidy of Delaya and Kerosene subsidy to provide relief to fishermen due to the economic crisis of the economic crisis.
+
+The subsidy was provided with a liter of diesel at Rs.
+
+Cabinet approval has been approved by the Minister of Fisheries and Aquatic Resources as per the shortcomings identified as the subsidy was implemented.
+
+◼️
+
+[Data](articles/d9cf97fc.json)
+
+[Extended Data](ext_articles/d9cf97fc.ext.json)
+
+---
+
+### Food Policy and Safety Committee approved
+
+*2024-12-10 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204221) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Food Policy & Safety Committee approved. Measures: Ensure 3-month food buffer, prioritize private sector involvement, implement safety protocols. Cabinet approves establishment of "Food Policy & Safety to the Public Office" under Presidential Secretariat.
+
+🟩
+
+Cabinet approval has been approved by several proposals, including all manufactured food production in the country.
+
+These measures are expected to be taken under the establishment of the Food Policy and Safety Committee.
+
+Accordingly, maintaining adequate essential food buffer items for at least three months has been decided to maintain a database of food stocks.
+
+Priority work has been identified as prominence and implementing a productive program with the participation of the private sector, consignment, stock and retail trade.
+
+Accordingly, the Cabinet approval has been granted to establish the "Food Policy and Safety to the Public Office" under the Presidential Secretariat.
+
+◼️
+
+[Data](articles/e01b4735.json)
+
+[Extended Data](ext_articles/e01b4735.ext.json)
+
+---
+
+### Here is the decision taken by the Cabinet about the suspension of the Pradesh law
+
+*2024-12-10 10:28:03* · [`adalk`](https://www.ada.lk/breaking_news/පරාටේ-නීතිය-අත්හිටුවීම-ගැන-කැබිනට්-මණ්ඩලය-ගත්-තීරණය-මෙන්න/11-413551) · `si`
+
+Cabinet suspends Parata law implementation until March 31st, previously set to end Dec 15th.
+
+🟩
+
+Cabinet spokesperson Minister Nalinda Jayatissa said that the Cabinet was approved by the Cabinet to suspend the implementation of the Parata law implemented by the banks.
+
+He was speaking at a media briefing of the Cabinet Decision.
+
+Previously, the Parata law decided to suspend the law until December 15, and the law has been approved by the suspension until March 31st.
+
+◼️
+
+[Data](articles/740162f3.json)
+
+[Extended Data](ext_articles/740162f3.ext.json)
+
+---
+
+### Kapila, the shock of the US to Udayanga
+
+*2024-12-10 10:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கபில-உதயங்கவிற்கு-அமெரிக்கா-கொடுத்த-அதிர்ச்சி/175-348518) · `ta`
+
+US imposes sanctions on ex-Sri Lankan ambassadors Kapila Chandrasena & Udayanga Weeratunga for alleged financial fraud & corruption related to aircraft purchases. Restrictions bar entry for themselves & family members under Section 7031(c) of the US Foreign Affairs Act.
+
+🟩
+
+The US State Department has imposed restrictions and visa restrictions on former Sri Lanka Ambassador Kapila Chandrasena and former Sri Lankan Ambassador to Russia, Udayanga Weeratunga.
+
+Under the 7031 (C) string of the US Foreign Ministry, the names of the two and their family members are forbidden to enter the country as the names of the two sides are publicly made.
+
+It is reported that these restrictions have been imposed on financial frauds against them.
+
+Under this, Kapila Chandrasena, former chief executive officer of SriLankan Airlines, has been accused of bribing Airbus aircraft to buy more than market value.
+
+Russian Ambassador Udayanga Weeratunga has imposed sanctions on charges of implementing the corruption plan for the Sri Lanka Air Force purchasing airplanes. Remble
+
+◼️
+
+[Data](articles/007590ed.json)
+
+[Extended Data](ext_articles/007590ed.ext.json)
+
+---
+
+### Cabinet approval to issue a new digital driving license
+
+*2024-12-10 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204220) · `si`
+
+Cabinet approves new digital driving license to replace current one. Government will adopt international best practices for data sharing between agencies. Proposal submitted by Transport Ministry.
+
+🟩
+
+Cabinet approval has been granted to introduce a new digital driving license to replace the currently driving license.
+
+The Cabinet has decided to implement the methodology followed by the Digital License.
+
+The government will identify the appropriate digital driver's license in the world, which facilitates a number of countries in the world, which facilitates a data transfer of data between the relevant agencies.The Information Department of the news is pretending.
+
+Accordingly, the Digital Dri-License is due to introduce the proposals submitted by the Transport, Highways, Ports and Civil Aviation.
+
+◼️
+
+[Data](articles/62793ac7.json)
+
+[Extended Data](ext_articles/62793ac7.ext.json)
+
+---
+
+### Two arrested with Valamburi Sangam
+
+*2024-12-10 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200856) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Two men, ages 31 & 32, arrested in Weligampitiya for selling 18 lakhs. Raid conducted by Ja-Ela police based on tip-off. Further investigations ongoing."
+
+🟩
+
+Two suspects have been arrested on Monday (09) with two Valamburi associations who were ready to sell 18 lakhs in the Weligampitiya area, which belongs to the Ja -Ela Police Division, Jha -Ela Ella police said.
+
+The suspects have been arrested during the raid carried out on the basis of information received by the Ja -Ela police station.
+
+The arrested suspects are 31 and 32 years old from the Kobegane area.
+
+Further investigations are being carried out by the Ja -Ela police.
+
+◼️
+
+[Data](articles/62cfc516.json)
+
+[Extended Data](ext_articles/62cfc516.ext.json)
+
+---
+
+### දූෂණය සහ වංචාව අඩු නොවුණොත් ලබන වසරේදී සැමරුම් උත්සව එපා
+
+*2024-12-10 10:05:49* · [`adalk`](https://www.ada.lk/breaking_news/දූෂණය-සහ-වංචාව-අඩු-නොවුණොත්-ලබන-වසරේදී-සැමරුම්-උත්සව-එපා/11-413549) · `si`
+
+ශ්‍රී ලංකාව  අල්ලස දූෂණය අවම රාජ්‍යයක් බවට පත් කිරීමට  සියලු දෙනා  කැපවෙමු
+
+2024 ජනවරම යනු වංචා දූෂණය පිටුදැකීම වෙනුවෙන් ලබා දුන් ජනවරමක්
+
+අල්ලස්  හෝ දූෂණ කොමිසම 2021 වසරේ  පැවරූ නඩු 69න් 40ක්  2022 වසරේ පැවරූ නඩු 89 න් නඩු 45ඉල්ලා අස්කර ගැනීමට හේතු ජනතාවට හෙළි කළ යුතුයි
+
+ශ්‍රී ලංකාවේ නීතිය මෙතෙක් මකුළුදැලක් ලෙස ක්‍රියාත්මක වී පොඩි සතුන් එම දැලට හසුවුණා. ලොකු සතුන් මකුළුදැල බිඳ ගෙන ගියා
+
+ශ්‍රී ලංකාව යළි ගොඩනැගීමට නම් රාජ්‍ය පද්ධතියම නව ප්‍රතිෂ්ඨාපනය කළ යුතුයි
+
+කොපමණ නීති සම්පාදනය කළත්, කොපමණ ආයතන ගොඩනැගුවත් ඒවා හොබ වන පුද්ගලයින් නිසියාකාරයට ක්‍රියාත්මක නොවන්නේ නම් පුරවැසියාට සාධාරණය ඉටු නොවන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.
+
+ජනතාව විසින් උත්පාදනය කර ඇති බලය භාවිත කර ජනතාවට යුක්තිය ඉටු නොකරන්නේ නම් එම බලය ඵලක් නොවන බව ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ , "2024 ජාත්‍යන්තර දූෂණ විරෝධී දින ජාතික සැමරුම"   වෙනුවෙන්  බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ ඊයේ (09) පැවැති උත්සවයේදීය.
+
+...
+
+[Data](articles/9e9e6fcb.json)
+
+---
+
+### Yall. District Parliamentarian Ramanathan Archana against Jaffna. Complaint to the police
+
+*2024-12-10 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200854) · `ta`
+
+Ramanathan Archana enters Jaffna Hospital unauthorized. Police lodge complaint. Earlier, Mannar Hospital director filed similar complaint during her time as doctor. Investigation ongoing after pregnant woman's death at Mannar Hospital.
+
+🟩
+
+Yall. District Parliamentarian Ramanathan Archana against Jaffna. Police said that a complaint has been lodged with the police.
+
+Parliamentarian Ramanathan Archana has entered into the Jaffna Hospital without permission and the hospital administration has been involved in disrupting the activities of the hospital.. The complaint has been lodged at the police station, police said.
+
+Earlier, when Ramanathan was working as a doctor, the Mannar Hospital Director had lodged a complaint with the Mannar Hospital that the hospital was disrupted.
+
+Investigations into the death of a pregnant woman at the Mannar Hospital a few months ago, Ramanathan Archana has reportedly entered the Mannar Hospital without permission.
+
+◼️
+
+[Data](articles/f2275d02.json)
+
+[Extended Data](ext_articles/f2275d02.ext.json)
+
+---
 
 ### Sri Lanka rupee opens stronger at 290.30/40 to dollar, bonds down
 
@@ -55,6 +345,48 @@ The central bank has announced auctions of Rs. 206,000 million Treasury bills on
 ◼️
 
 [Data](articles/60bc4405.json)
+
+[Extended Data](ext_articles/60bc4405.ext.json)
+
+---
+
+### ලක්ෂ 50කට අධික විදේශීය මත්පැන් බෝතල් තොගයක් රේගු භාරයට
+
+*2024-12-10 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204219) · `si`
+
+ගම්පහ සුරාබදු කාර්යාලයේ නිලධාරීන් සිදුකළ වැටලීමකදී නීතිවිරෝධීව ගබඩා කර තිබූ විදේශීය මත්පැන් බෝතල් තොගයක් සොයාගෙන තිබේ.
+
+සුරාබදු නිලධාරීන් පැවසුවේ, එහි වටිනාකම රුපියල් ලක්ෂ 50කට අධික බවය.
+
+සුරාබදු කොමසාරිස් ජෙනරාල්වරයාට ලැබුණු පැමිණිල්ලක් මත එම වැටලීම සිදුකළේ බොරැල්ලේ පිහිටි පෞද්ගලික ආයතනයකයි.
+
+එහිදී ගම්පහ සුරාබදු කාර්යාලයේ නිලධාරීන් එම ආයතනයේ ගබඩා කර තිබූ විදේශීය මත්පැන් බෝතල් 173ක් සොයාගෙන තිබේ.
+
+ඒ සමඟ කොළඹ පදිංචි වයස අවුරුදු 35ක පුද්ගලයකු අත්අඩංගුවට ගත් බව සුරාබදු නිලධාරීන් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/a940fb00.json)
+
+---
+
+### Former CCD Director to be produced before court today
+
+*2024-12-10 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104125/former-ccd-director-to-be-produced-before-court-today) · `en`
+
+The former Director of the Colombo Crimes Division (CCD), ASP Nevil Silva, who was arrested by the Criminal Investigations Department (CID) yesterday, is scheduled to be produced before court today (10).
+
+He was arrested at the Police Field Force Headquarters, the police said.
+
+The CID had launched an investigation based on a complaint received claiming that ASP Silva had allegedly acted in a manner that was partial towards a complainant when investigating a case filed with the CCD in August 2023.
+
+It has been confirmed that during this investigation, ASP Silva had aided and abetted in an incident of abduction and wrongful confinement.
+
+Accordingly, the arrested CCD Director is scheduled to be produced before the Ratnapura Magistrate’s Court today (10).
+
+◼️
+
+[Data](articles/12639c67.json)
 
 ---
 
@@ -85,6 +417,82 @@ The two parties who are in Section 7031 (c) of the American Department of Americ
 [Data](articles/32952b76.json)
 
 [Extended Data](ext_articles/32952b76.ext.json)
+
+---
+
+### US sanctions Kapila Chandrasena and Udayanga Weeratunga over corruption
+
+*2024-12-10 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104124/us-sanctions-kapila-chandrasena-and-udayanga-weeratunga-over-corruption) · `en`
+
+The United States has imposed sanctions on the former CEO of SriLankan Airlines Kapila Chandrasena and former Sri Lankan Ambassador to Russia Udayanga Weeratunga, along with their immediate family members, for their involvement in “significant corruption”.
+
+The U.S. State Department announced a slew of sanctions on Monday to mark International Anti-Corruption Day and the eve of Human Rights Day, targeting individuals from multiple countries.
+
+Accordingly, the US Department of State has designated 14 individuals, including immediate family members, from countries around the world for significant corruption and one individual for gross violations of human rights, pursuant to Section 7031(c) of the Department’s annual appropriations act, rendering them ineligible for entry into the United States.
+
+...
+
+[Data](articles/33f4f8f5.json)
+
+---
+
+### US sanctions Kapila Chandrasena and Udayanga Weeratunga over corruption
+
+*2024-12-10 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104124/us-sanctions-kapila-chandrasena-and-udayanga-weeratunga) · `en`
+
+The United States has imposed sanctions on the former CEO of SriLankan Airlines Kapila Chandrasena and former Sri Lankan Ambassador to Russia Udayanga Weeratunga, along with their immediate family members, for their involvement in “significant corruption”.
+
+The U.S. State Department announced a slew of sanctions on Monday to mark International Anti-Corruption Day and the eve of Human Rights Day, targeting individuals from multiple countries.
+
+Accordingly, the US Department of State has designated 14 individuals, including immediate family members, from countries around the world for significant corruption and one individual for gross violations of human rights, pursuant to Section 7031(c) of the Department’s annual appropriations act, rendering them ineligible for entry into the United States.
+
+...
+
+[Data](articles/6a095c67.json)
+
+[Extended Data](ext_articles/6a095c67.ext.json)
+
+---
+
+### Gazette Release Determine the price of imported rice
+
+*2024-12-10 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200853) · `ta`
+
+Here's a summary of the Gazette Release in 200 characters:
+
+
+
+"Imported rice prices fixed: Green rice (210 Rs), Naturisi (220 Rs), Samba (230 Rs). Highest gazette released to set maximum retail prices."
+
+🟩
+
+The highest gazette has been released to fix the maximum retail price for imported rice.
+
+Accordingly, the price of green rice is 210 rupees, Naturisi is priced at 220 rupees and Samba rice is priced at 230 rupees.
+
+◼️
+
+[Data](articles/c425d7ba.json)
+
+[Extended Data](ext_articles/c425d7ba.ext.json)
+
+---
+
+### What is the way to disrupt the impediment that crosses the provincial council elections?
+
+*2024-12-10 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200852) · `ta`
+
+Simultaneous local & provincial council elections reduce costs. Holding separate polls increases expenses. Combining them saves resources.
+
+🟩
+
+Local government elections and provincial council elections simultaneously reduce costs to significantly. The cost is high when both elections are held separately.
+
+◼️
+
+[Data](articles/8d0202ee.json)
+
+[Extended Data](ext_articles/8d0202ee.ext.json)
 
 ---
 
@@ -126,6 +534,8 @@ The President noted the performance of the Commission to Investigate Allegations
 
 [Data](articles/bfedb582.json)
 
+[Extended Data](ext_articles/bfedb582.ext.json)
+
 ---
 
 ### Complaint filed with Jaffna police against MP Archchuna Ramanathan
@@ -154,43 +564,59 @@ Accordingly, he had reportedly entered the Mannar Hospital and obstructed an inv
 
 ---
 
-### 2024 සා පෙළ විභාග අපේක්ෂකයින්ට නිවේදනයක්
+### Announcement to the GCE Ordinary Examination candidates 2024
 
 *2024-12-10 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204216) · `si`
 
-2024 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගයේ අයඳුම්පත් කැ﻿ඳවීම අද (10) දිනෙන් අවසන් වන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+GCE Ordinary Level exam 2024: Applications close tonight at midnight. Exam on Nov 30th. Submit online before 12 AM for school/private candidates. No late submissions accepted.
 
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසුවේ, අද මධ්‍යම රාත්‍රී 12න් පසු අයදුම්පත් භාරගැනීමේ කටයුතු අවසන් කෙරෙන බවය.
+🟩
 
-මාර්ගගත ක්‍රමවේදය ඔස්සේ විභාගය සඳහා අයදුම් කිරීම සඳහා විභාග අපේක්ෂකයින් හට පසුගිය නොවැම්බර් 5 වන දා සිට 30 වනදා තෙක් කාලය ලබාදී තිබුණි.
+The Department of Examinations said that the applications of the GCE Ordinary Level examination will be completed today (10).
 
-මේ සම්බන්ධයෙන් වැඩිදුරටත් පැහැදිලි කරන විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා,
+Commissioner General of Examinations Amitith Jayasundara said that applications will be completed since 12 midnight today.
 
-"මම සියලූම අපේක්ෂකයින්ගෙන් ඉල්ලා සිටිනවා පාසල් අපේක්ෂකයින්ගෙන් හා පෞද්ගලික අපේක්ෂකයින්ගෙන් අද දිනය ඇතුළත තමන්ගේ අයඳුම්පත් යොමු කරන්න. මොකද කිසිදු හේතුවක් නිසා අද දින මධ්‍යම රාත්‍රී 12න් පසුව අයඳුම්පත්‍ර භාරගැනීමට අවස්ථාවක් ලැබෙන්නේ නෑ. ඒ නිසා මම තදින්ම අවධාරණය කරනවා මේ විභාගයට පෙනී සිටීමට අපේක්ෂා කරන යම් අයෙක් වේනම් රාත්‍රී 12ට පෙර ඔබගේ අයඳුම්පත මාර්ගගත ආකාරයට ඉදිරිපත් කළ යුතුයි. එය විභාග දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට පිවිසීමෙන් සම්පුර්ණ කිරීමට අවස්ථාව සලසා දී තිබෙනවා."
+Examination candidates have been given the time for the examination on the 30th of November to 30th November.
+
+Amit Jayasundara further experiments,
+
+"I urge all candidates from school candidates and private candidates in today's day. Because there is no opportunity to accept the applications after 12 midnight today. So I strongly emphasize that if someone intends to sit for this examination, your application should be submitted online before 12 pm. It has provided the opportunity to complete the Examination Department's official website. "
 
 ◼️
 
 [Data](articles/d5bbdf40.json)
 
+[Extended Data](ext_articles/d5bbdf40.ext.json)
+
 ---
 
-### යතුරුපැදිය දුම්රියේ ගැටී තරුණයෙක් මරුට - අයෙකුට බරපතළයි
+### Youth dies after falling on motorbike train -
 
 *2024-12-10 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204215) · `si`
 
-හලාවත, වට්ටක්කල්ලිය දුම්රිය හරස් මාර්ගයේ දී යතුරුපැදියක් දුම්රියේ ගැටී සිදුවු අනතුරකින් එක් තරුණයකු ජීවිතක්ෂයට පත්ව තිබේ.
+Youth dies after falling off motorbike during train collision at Vattakalliya railway crossing, Chilaw. Injured youth in ICU. Deceased identified as Shashendra Perera. Residents claim poor railway crossing implementation led to accident. Post-mortem scheduled today.
 
-එම අනතුරින් බරපතළ තුවාල ලැබු තවත් තරුණයෙකු දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, හලාවත, වට්ටක්කල්ලිය ප්‍රදේශයේ පදිංචිව සිටි දිනුක ශෂේන්ද්‍ර පෙරේරා නැමති 18 හැවිරිදි තරුණයෙකි.
+One youth has killed a motorbike at the Vattakalliya railway crossing Chilaw.
 
-අනතුරින් මරණයට පත්වු තරුණයාගේ මව, පියා හා සොහොයුරන් දෙදෙනා මාස කිහිපයකට පෙර අමෙරිකාවේ පදිංචියට ගොස් ඇති බවත් දිනුක එහි රැගෙන යාමට නොහැකි වී ඇත්තේ ඔහු වෙනුවෙන් සකසා තිබු ලියකියවිලිවල තිබු ගැටලු හේතුවෙන් බවත් එය නිවැරදි විමේන් පසු ඔහුද ඇමරිකා යාමට සුදානමින් සිටි බව වාර්තා වේ.
+Another youth who was injured in the accident are being treated in the ICU.
 
-අනතුරින් බරපතළ තුවාල ලබා මේ වන විට හලාවත මහ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටින පසිඳු තේත්මික ප්‍රනාන්දු 20 හැවිරිදි තරුණයෙක් වන අතර, ඔහුද රැකියාවක් සඳහා විදෙස් ගත විමට සුදානමින් අදාළ ලියකියවිලි සකසා අවසන්ව අදාළ වීසා ලැබෙන තුරු ලංකාවේ රැඳි සිට ඇති බව වාර්තා වේ.
+The deceased has been identified as Shashendra Perera, a resident of Vatkalkalliya, Chilaw.
+
+It is reported that the mother of the youth, father and brother, had gone to America a few months ago and was not able to take it in the United States.
+
+A 20-year-old manner is currently receiving treatment at the Chilaw General Hospital in the Chilaw General Hospital.
+
+However, residents allege that the officers of the Railway Signal Maintenance Unit had attempted to adjust the same due to the lack of proper implementation of the Canalizlla railway crossing.
+
+When the motorcycle collided with the train, the elderly person was stationed as the watchman, the two-wheeler and a motorbike had come to the railway and a motorbike that the two youths were inserted into the railway track..
 
 ...
 
 [Data](articles/840cebe4.json)
+
+[Extended Data](ext_articles/840cebe4.ext.json)
 
 ---
 
@@ -209,6 +635,8 @@ Netanyahu was indicted in 2019 in three cases involving gifts from millionaire f
 ...
 
 [Data](articles/7fd09fd7.json)
+
+[Extended Data](ext_articles/7fd09fd7.ext.json)
 
 ---
 
@@ -357,6 +785,26 @@ RelatedSriLankan Airline exec’s wife offered US$16mn bribe for Airbus deal: Co
 ...
 
 [Data](articles/c6f8e747.json)
+
+---
+
+### உதயங்க வீரதுங்க - கபிலசந்திரசேனவிற்கு அமெரிக்கா பயணத்தடை – ஊழலில் ஈடுபட்டதாக குற்றச்சாட்டு
+
+*2024-12-10 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200850) · `ta`
+
+ரஸ்யாவிற்கான முன்னாள் இலங்கை தூதுவர் உதயங்க வீரதுங்கவும் ஸ்ரீலங்கன் எயர்லைன்சின் முன்னாள் பிரதம நிறைவேற்று அதிகாரி கபிலசந்திரசேனவும்  குறிப்பிடத்தக்க ஊழலில் ஈடுபட்டனர் என தெரிவித்துள்ள அமெரிக்க இராஜாங்க திணைக்களம் இவர்கள் அமெரிக்காவிற்குள் நுழைவதற்கு பயணத்தடை விதித்துள்ளது.
+
+ஊழலிற்கு எதிரான சர்வதேச தினம் மற்றும் சர்வதேச மனித உரிமை தினத்தை முன்னிட்டு உலகில் ஊழல் .மனித உரிமை மீறல்களில் ஈடுபட்டவர்களை பொறுப்புக்கூறலிற்கு உட்படுத்துவதற்கான நடவடிக்கைகளை அமெரிக்கா எடுக்கின்றது.
+
+குறிப்பிடத்தக்க ஊழல் ,பாரிய மனித உரிமை மீறல்களில் ஈடுபட்டார்கள் என 14 பேர் மற்றும் அவர்களது குடும்ப உறுப்பினர்களை அமெரிக்கா இது தொடர்பிலான பட்டியலில் இணைத்துக்கொண்டுள்ளது.
+
+அமெரிக்க இராஜாங்க திணைக்களத்தின் வெளிநாட்டு செயல்பாடுகள் மற்றும் தொடர்புடைய சட்டங்கள் ஒதுக்கீட்டு சட்டத்தின் பிரிவு 7031 சியின் படி இவர்கள் அமெரிக்காவிற்குள் நுழைவதற்கு தகுதியற்றவர்கள்.
+
+மேலும் குடிவரவு குடியகல்வு சட்டத்தின் கீழ் பல கொள்கைகளிற்கு இணங்க மேலும் பலரிற்கு விசா கட்டுப்பாடுகளை விதிப்பதற்கான நடவடிக்கைகள் குறித்தும் அமெரிக்கா ஆராய்கின்றது.
+
+...
+
+[Data](articles/f4c288ee.json)
 
 ---
 
@@ -1792,6 +2240,24 @@ He has been arrested in connection with abduction and misbehavior.
 
 ---
 
+### නත්තල් හා අවුරුදු සමයට කේක් මිල අඩු කරන්න බෑ
+
+*2024-12-09 18:21:21* · [`adalk`](https://www.ada.lk/breaking_news/නත්තල්-හා-අවුරුදු-සමයට-කේක්-මිල-අඩු-කරන්න-බෑ/11-413544) · `si`
+
+නත්තල් සහ අලුත් අවුරුදු සමය වෙනුවෙන් කේක් මිල අඩු  කිරීමට නොහැකි බව සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන් .කේ. ජයවර්ධන මහතා පවසයි.
+
+කේක් නිෂ්පාදනයට අවශ්‍ය අමුද්‍රව්‍යවල පවතින අධික මිල සහ බදු හේතුවෙන් කේක් නිෂ්පාදනයේදී විශාල පිරිවැයක් දැරීමට සිදු වී ඇතැයි ඔහු කියා සිටි  .
+
+විශේෂයෙන් මාගරින්  තිරිඟු පිටි, බිත්තර, ඇතුළු කේක් නිෂ්පාදනය සඳහා අවශ්‍ය අමු ද්‍රව්‍යවල මිල අඩු කිරීම සිදුකළේ නම් කේක් ඇතුළු බේකරි නිෂ්පාදනවල මිලද ජනතාවට දැනෙන මිලකින් අඩු කිරීමට හැකියාවක් තිබූ බවද  හෙතෙම කීය.
+
+මෙම තත්ත්වයන් පිළිබඳව සාකච්ඡා කිරීමට තම සංගමය නව රජයේ වෙළඳ අමාත්‍යවරයාගෙන් අවස්ථාවක් ඉල්ලා සිටියද  ඒ සඳහා අවස්ථාවක් නොලැබුණු බවද ඔහු පැවසීය.
+
+...
+
+[Data](articles/e7bbab66.json)
+
+---
+
 ### Former CCD Director arrested by CID
 
 *2024-12-09 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104115/former-ccd-director-arrested-by-cid) · `en`
@@ -1803,481 +2269,5 @@ The former Director of the Colombo Crimes Division (CCD), ASP Nevil Silva has be
 [Data](articles/fd9427c4.json)
 
 [Extended Data](ext_articles/fd9427c4.ext.json)
-
----
-
-### ලංකාවේ පාසල් සිසු සිසුවියන්ට චීනයෙන් දෙන ලොකුම තෑග්ග
-
-*2024-12-09 18:13:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පාසල්-සිසු-සිසුවියන්ට-චීනයෙන්-දෙන-ලොකුම-තෑග්ග/11-413543) · `si`
-
-2025 වර්ෂය සඳහා චීන රජයෙන් ප්‍රදානය කරනු ලබන පාසල් නිලඇඳුම් රෙදි අද (10දා) මෙරටට ලැබීමට නියමිතය. එම නිලඇඳුම් රෙදි භාරදීම අද පෙරවරු 11.00ට කොළඹ වරායේ ජාත්‍යන්තර බහාලුම් පර්යන්තයේදී සිදුකෙරේ.
-
-චීන රජය විසින් ලබන වසර සඳහා මෙරටට පාසල් සිසුන් සඳහා අවශ්‍ය නිලඇඳුම් රෙදි පරිත්‍යාග කරන බව නිවේදනය කළේය.
-
-◼️
-
-[Data](articles/cb31c90c.json)
-
----
-
-### Over 80-pct of Sri Lanka’s PE candidates compile expense report after EC warning
-
-*2024-12-09 18:12:00* · [`economynextcom`](https://economynext.com/over-80-pct-of-sri-lankas-pe-candidates-compile-expense-report-after-ec-warning-193151/) · `en`
-
-ECONOMYNEXT – More than 80 percent of the candidates who contested in Sri Lanka’s parliamentary polls have submitted their mandatory campaign income and expenditure reports before the deadline, the island nation’s Election Commission (EC) data showed.
-
-The EC last week warned the candidates and political parties to file their expense report to explain their campaign financing before the end of November 06.
-
-Out of the total 8,361 candidates, 88.6 percent or 7,412 have submitted their reports to the Election Commission before the deadline, the Commission said in a statement on Monday (09).
-
-Out of a total 690 political parties and independent groups, only 71.4 percent (493) and out of 527 named national list members, 82.4 percent (434) submitted their reports, the EC said.
-
-The EC warned of legal action for the candidates who fail to fulfil the obligation and possibly of losing their opportunity in contesting at local government or provincial council polls.
-
-...
-
-[Data](articles/868df593.json)
-
-[Extended Data](ext_articles/868df593.ext.json)
-
----
-
-### ஜே.வி.பி.யின் தாபகத் தலைவர் றோஹண விஜேவீர கொலையை அநுராவின் அரசாங்கம் விசாரணை செய்யுமா?
-
-*2024-12-09 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85186) · `en`
-
-ஜனதா விமுக்தி பெரமுனவை  ( ஜே.வி.பி.)  பொறுத்தவரை, நவம்பர் 13 பெரும் முக்கியத்துவம் வாய்ந்த ஒரு தினமாகும். ஜே.வி.பி.யின் வசீகரமிக்க தாபகத் தலைவர் றோஹண விஜேவீர 1989 நவம்பர் 13 ஆம் திகதி தான் கொலை  செய்யப்பட்டார். 1994 ஆம் ஆண்டில் இருந்து ஜே.வி.பி. விஜேவீரவையும் 1971 கிளர்ச்சியிலும்   1987 — 89 கிளர்ச்சியிலும் உயிரிழந்த ஆயிரக்கணக்கான அதன் உறுப்பினர்களையும் நினைவுகூருவதற்கு வருடாந்தம் ஒரு நிகழ்வை ஏற்பாடு செய்துவருகிறது. தியாகிகளை நினைவு கூருவதற்கு  வழமையாக நவம்பர் 13 ஆம் திகதி உரைகளினதும் கீதங்களினதும் ஒரு கலவையாக  நடைபெறும்  நிகழ்வு ” இல் மகா விரு சமாறுவ ” என்று அழைக்கப்படுகிறது.
-
-...
-
-[Data](articles/09b1f721.json)
-
-[Extended Data](ext_articles/09b1f721.ext.json)
-
----
-
-### “Allow farmers to use guns”
-
-*2024-12-09 17:58:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகள்-துப்பாக்கிகளைப்-பயன்படுத்த-அனுமதிக்க-வேண்டும்/175-348502) · `ta`
-
-N
-
-🟩
-
-United People's Power (SJB) Parliamentarian Nalin Bandara Jayamaha has said that the Minister of Agriculture KD Lalkanta should introduce new laws to take action against landlords and farmers to take action against animals that destroy crops.
-
-"Legal arrangements should be made to allow them to be shot without damage to various animals that destroy crops," said parliamentarian Jayamaha today.
-
-"I was ridiculed when I proposed that guns should be given to farmers and landlords to drive animals. Deputy Minister Namal Karunaratne made fun of me when I brought the motion during the election campaign.
-
-However, Minister Lalgantha proposed that people should take action against the animals that destroy crops.
-
-The Minister should implement this by introducing the legal provisions for people to use guns to chase animals, ”he added.
-
-◼️
-
-[Data](articles/f2edab36.json)
-
-[Extended Data](ext_articles/f2edab36.ext.json)
-
----
-
-### President's revelation
-
-*2024-12-09 17:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204202) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake speaks out against corruption, stating it's used to maintain power. He emphasizes rebuilding the entire system rather than just restructuring agencies. The Pres. highlights recent punishments but notes public trust in justice remains low.
-
-🟩
-
-President Anura Kumara Dissanayake says that the fraud and corruption is committed to suppressing corruption depending on the powers.
-
-The President made this statement participating at the anti-corruption National Commemoration Program.
-
-The President added that the legal offenses do not have the result if the responsibility and the duty of the power is done properly.
-
-The International Corruption National Celebration was held under the patronage of the President at the Bandaranaike Memorial International Conference Hall today (12).
-
-The theme of that program was "Example of a Proud Nation,".
-
-...
-
-[Data](articles/8b682230.json)
-
-[Extended Data](ext_articles/8b682230.ext.json)
-
----
-
-### Suspects remanded at Arabic Sea with drug
-
-*2024-12-09 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204200) · `si`
-
-Colombo Magistrate's Court remands 11 suspects for transporting over 355kg of ice from Arabian Sea. Further investigation requested. Remand extended until 17th. Suspects allegedly used 30 fertilizer bags for transport.
-
-🟩
-
-The Colombo Magistrate's Court ordered the 11 milestones with more than 355 kg of ice cast in the Arabian sea.
-
-The suspects were produced before the Colombo Additional Magistrate Harshana Kekuna today (09).
-
-The officials of the Bureau were also asked to remand further investigations into the incident and the suspects were to be remanded.
-
-Magistrate accepted the request to be remanded until the 17th of this month.
-
-Investigations revealed that the suspects were transported by the suspects in 30 fertilizer shoulder.
-
-◼️
-
-[Data](articles/6bd2aee1.json)
-
-[Extended Data](ext_articles/6bd2aee1.ext.json)
-
----
-
-### 1802 in two months to Israel
-
-*2024-12-09 17:38:54* · [`adalk`](https://www.ada.lk/breaking_news/මාස-දෙකක්-තුළදී-1802-ක්-ඊශ්‍රායලයට/11-413542) · `si`
-
-Israel-Sri Lanka agreement 4531 (28/11/2011). 1802 Sri Lankans employed in Israel Construction Division by February 2024. Bureau reports 1802 persons to work abroad in January 2025. Employment opportunities detected, fraud cases warned. Contact Information Bureau at 1989 for details.
-
-🟩
-
-It is said that the agreement between Israel and Sri Lanka were 4531, which was 28,14.11.2011.The number of abroad is employed in the Israeli Construction Division established in February 2024.
-
-The Bureau says that 1802 persons are due to go abroad within January and 2025 this year. The Information Bureau has detected only the jobs of the jobs, texts and crooking the employment of employment, to provide employment opportunities to provide employment opportunities and pursuit from what workplaces employed..
-
-The Bureau of Foreign Employment also informs the public to take action to regulate such fraudulent acts and go to such frauds.
-
-The Bureau requests the 1989 Telephone Number of the Information Bureau of such persons.
-
-◼️
-
-[Data](articles/5eeefd0f.json)
-
-[Extended Data](ext_articles/5eeefd0f.ext.json)
-
----
-
-### CTU calls on govt. to address payment discrepancies for A/L examination duties
-
-*2024-12-09 17:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104114/ctu-calls-on-govt-to-address-payment-discrepancies-for-al-examination-duties) · `en`
-
-The Ceylon Teachers’ Union (CTU) has called on the government to ensure proper payment of allowances for principals and teachers assigned to the 2024 G.C.E. Advanced Level (A/L) examination duties.
-
-Speaking at a press conference, CTU General Secretary Joseph Stalin highlighted confusion caused by recent circulars issued by the Commissioner General of Examinations regarding transportation allowances for examination staff.
-
-“The Advanced Level Examination is being conducted these days. A new issue has arisen regarding the examination staff due two letters issued by the Examination Commissioner,” he added.
-
-According to Stalin, the first letter, dated November 11, indicated that staff traveling more than 10 kilometers to an exam center would receive a transportation allowance of Rs. 1,000. However, a subsequent letter issued on December 12 announced significant reductions in these allowances.
-
-...
-
-[Data](articles/2c2ebf30.json)
-
-[Extended Data](ext_articles/2c2ebf30.ext.json)
-
----
-
-### Fake doctor arrested for selling rented luxury vehicles at high prices
-
-*2024-12-09 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/200827) · `ta`
-
-Fake doctor arrested for selling rented luxury cars at inflated prices. Seized two vehicles: BMW & KDH. Sold fake docs for KDH to businessman for Rs 1 crore. Also produced fake BMW docs rented from Mulleria, sold to accountant in Piliyandala.
-
-🟩
-
-A fake doctor has been arrested by the Nugegoda Police Criminal Investigation Division for producing fake documents for rented luxury vehicles.
-
-Two luxury vehicles, BMW and KDH, have been seized by the suspect.
-
-Police investigations have revealed that the suspect had prepared fake documents for a KDH luxury vehicle from a car rental company in Kottawa area and sold it to a businessman in Mirigama for Rs 1 crore.
-
-In addition, the police investigation revealed that it had produced fake documents for a BMW luxury vehicle which was rented from a car rental company in Mulleria and sold it to an accountant in Piliyandala for Rs.
-
-◼️
-
-[Data](articles/614cd39c.json)
-
-[Extended Data](ext_articles/614cd39c.ext.json)
-
----
-
-### The US continues to support strengthening parliamentary democracy - US representatives report to Sabanagar
-
-*2024-12-09 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/200828) · `ta`
-
-US delegation meets Sri Lankan Speaker, discusses strengthening parliamentary democracy and development cooperation.
-
-🟩
-
-The delegation, including the Assistant Secretary of State for the South and Central Asian Affairs Bureau of the United States, met Speaker Asoka Ranwala.
-
-The top US delegation headed by Donald Lu, the Assistant Secretary of State for South and Central Asian Affairs Bureau of the United States, met the Speaker on Friday, December 6.
-
-The delegation was comprised of the Group, including Anjali Kaur, Assistant Assistant Administrator of the United States International Development Agency (USAID), and Robert Kaproth, Assistant Assistant Secretary of Asia, the US Treasury Department.
-
-It was discussed on the continued taking of the public's decree on accountability, transparency and all -of -the -art regime.
-
-The Speaker thanked the United States' International Development Agency and continued to cooperate with Sri Lanka and pointed out that the relationship between the people and the parliament through various projects was able to strengthen the relationship between the people and the parliament.
-
-...
-
-[Data](articles/69ab7efd.json)
-
-[Extended Data](ext_articles/69ab7efd.ext.json)
-
----
-
-### Sri Lanka seeks US assistance in renewable energy sector amid review of India’s Adani deal
-
-*2024-12-09 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-us-assistance-in-renewable-energy-sector-amid-review-of-indias-adani-deal-193129/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new Energy Minister Kumara Jayakody has sought assistance from the United States to develop the renewable energy sector in the island nation, his Ministry said in a statement.
-
-The move comes after President Anura Kumara Dissanayake’s government has promised to review India’s Adani renewable energy deal following some top officials of the Indian company indicted on multiple counts of fraud
-
-Minister Jayakody sought assistance on Monday (09) when he met the U.S. Ambassador Julie Chung to discuss the “ways to enhance cooperation in the power sector between the two countries”.
-
-“The Ambassador said that the U.S. government is also ready to provide technical and other assistance to Sri Lanka’s power sector,” the Energy Ministry said in the statement.
-
-“Minister of Energy Eng. Kumara Jayakodi explained the new government’s energy policy and vision for energy and expressed his expectation of the US government’s support for the renewable energy sector in the country.”
-
-...
-
-[Data](articles/71744033.json)
-
-[Extended Data](ext_articles/71744033.ext.json)
-
----
-
-### 81,715,811 loss of Rs. 81,715,811 frauds
-
-*2024-12-09 17:26:14* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ඉතිරිකිරීමේ-බැංකුවේ-වංචා-107-කින්-රුපියල්-81-715-811-ක-පාඩුවක්/11-413541) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Audit Office reveals massive fraud at banks: Rs. 81,715,811 loss due to card scams, ATM thefts, and mortgage robberies. 3,730,000 affected. Bank staff implicated. No insurance coverage. Audit recommends stricter branch controls to prevent future frauds.
-
-🟩
-
-3,730,000 in the role of the roofs of the Telerers
-
-The National Audit office reveals that the bank had a loss of Rs.
-
-The audit point out that the loss of losses in the cards of the National Savings Bank and the largest bank branches island-wide.
-
-Cashing of mortgage and cash out cash, cash with savings vouchers and cash in cash utilizing money, using money, cash with automatic vouchers and accumulating cash in cash, using cash and chest money from ATMs from ATMs.The Audit Report has revealed that these cashiers and other external parties have been fraud by the staff and other external parties of cheating.
-
-The audit report reveals that the use of natural telear machines at Rs.
-
-The bank audits has been informed that the courts have filed a case against the recovery of 41,489,139 applications for these frauds.
-
-Task members of the Bank were carried out by the Bank's staff.Audit has shown that 60%.
-
-...
-
-[Data](articles/df5a37b6.json)
-
-[Extended Data](ext_articles/df5a37b6.ext.json)
-
----
-
-### Arrested for selling Mawa Drugs in Nuwara Eliya
-
-*2024-12-09 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/200814) · `ta`
-
-Man arrested for selling Mawa drugs in Nuwara Eliya. Police seized 4kg of drugs from shop near Victoria Park. Suspect, 28-year-old from Nanuoya, appeared in court. Arrest made based on illegal drug sale tip-off.
-
-🟩
-
-Nuwara Eliya police said that a man who sold Mawa drugs was arrested at a shop in front of the Victoria Park in front of the Victoria Park on the main road of Nuwara Eliya on Sunday night.
-
-Police have seized 4 kg of 200g of mawa drugs hidden in the shop from the suspect.
-
-The suspect is a 28 -year -old from Nanuoya, and he has been produced before the Nuwara Eliya District Magistrate's Court today (09).
-
-The police said that the suspect had been arrested following the confidential information that had been obtained illegally selling drugs.
-
-◼️
-
-[Data](articles/f0d7d2fe.json)
-
-[Extended Data](ext_articles/f0d7d2fe.ext.json)
-
----
-
-### Lacis released on bail
-
-*2024-12-09 17:10:32* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ලැසීට-ඇප/11-413540) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Lacis released on bail. Humanadii, MP Julyhandi, and Dissanith Madusanka Night ordered by Balapitiya Magistrate Road. Armyhami Janith Madusanka de Silva remanded for heroin possession. Bail granted after High Court order. Special police protection requested but denied.
-
-🟩
-
-Humanadii and MP Julyhandi and Dissanith Madusanka Night, ordered by Balapitiya Magistrate Rd was released on bail today (9).
-
-The Magistrate today ordered the Meeting of Armamai Janith Janith Janith Madusanka to address the completion of Rs.
-
-Armyhami Janith Madusanka de Silva was remanded for a number of accusations including the possession of two grams of heroin in 2017.
-
-After the report of the police were sent to the Analyst, the amount of drug was sent to the Balapitiya Magistrate's Court after the report was sent to the Analyst's report.
-
-The High Court ordered that the case should be bailed to bail the case.
-
-According to the event (9) at the courts of the Balapitiya Magistrate's Court, he was asked to be bailed to the suspect.
-
-The Attorneyers who sat for a small number of cashier were bail to be bailed to the Base Assembly and the Southern Provincial representation would be issued to the IGP to provide a special police protection to him.
-
-...
-
-[Data](articles/5359165f.json)
-
-[Extended Data](ext_articles/5359165f.ext.json)
-
----
-
-### Ranil is more than Ranil - Sri Lanka PA
-
-*2024-12-09 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200799) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake faces criticism over IMF deal. Promised to exit but now says quitting would worsen economic crisis. His government accepted all IMF conditions, differing from predecessor Ranil Wickremesinghe's approach. Public questions his election campaign promises on economic recovery.
-
-🟩
-
-President Anura Kumara Dissanayake has been submitted than former President Ranil Wickremesinghe in the IMF's extended project.
-
-There are huge differences between the promises and the practical administration of President Anura Kumara Dissanayake on the election platforms. The National People's Power Government has come to power criticizing the administration of the past governments.
-
-President Anura Kumara Dissanayake promised the people of the country to quit the project with the International Monetary Fund. But after coming to power, he notes that the economic crisis will be intensified if he quit the work of the Monetary Fund. If so, he has misled the people of the country.
-
-President Anura Kumara Dissanayake has suffered more than former President Ranil Wickremesinghe on the issue of extended project with the Monetary Fund. The government fully accepts the conditions without any refusal to all the conditions proposed by the Monetary Fund.
-
-...
-
-[Data](articles/6d8890e8.json)
-
-[Extended Data](ext_articles/6d8890e8.ext.json)
-
----
-
-### Sri Lanka Air Force in the Central African Republic
-
-*2024-12-09 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200787) · `ta`
-
-Sri Lanka Air Force contributes to UN peacekeeping in Central African Republic. 108 personnel deployed for various tasks including transport, medical support, and parachute operations. 92-member delegation returns after completing mission.
-
-🟩
-
-UN in Central African Republic. 108 members of the Sri Lanka Air Force Helicopter Regiment departed from the Katunayake Bandaranaike International Airport to the Central African Republic for peacekeeping.
-
-The Sri Lanka Air Force has been actively contributed to peacekeeping activities since 2014 and a team of the Sri Lanka Air Force Helicopter Brigade has been appointed for peacekeeping.
-
-The group is contributing to many special tasks including transport, VIP transport, food/goods transport, domestic airlines, unloading cargo through parachute and medical team transport.
-
-It is also worth noting that 92 Air Force delegation, who had traveled to the UN peacekeeping work in the Central African Republic, arrived again after the end of their service.
-
-Air Force officers and family members were present at the International Airport.
-
-◼️
-
-[Data](articles/b1fc87f6.json)
-
-[Extended Data](ext_articles/b1fc87f6.ext.json)
-
----
-
-### ANANDA COOMARASWAMY: HIS CONTRIBUTION TO UNDERSTANDING ART
-
-*2024-12-09 16:56:00* · [`islandlk`](http://island.lk/ananda-coomaraswamy-his-contrbution-to-understanding-art/) · `en`
-
-Dr. Ananda Kentish Coomaaswamy was not an Indian by birth but in his writings he showed more than any scholar of his time that he had a wider understanding of the cultural heritage of India than most. He was the only child of Sir Muthu Coomaraswamy and English mother Elizabeth Clay Beeby, and he was born at Rhineland Place in Kollupitiya, on August 22, 1871.
-
-His father Sir Muthu Coomaraswamy was the first non-Christian to be called to the English Bar and the first Asian Knighted by Queen Victoria, was a popular figure among the socialites in London and he also enjoyed the company of Lord Palmerston, Lord Tennyson and Benjamin Disraeli who portrayed him as Kusinara in one of his novels.
-
-...
-
-[Data](articles/88abae56.json)
-
-[Extended Data](ext_articles/88abae56.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.30/45 to dollar, bonds up
-
-*2024-12-09 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-30-45-to-dollar-bonds-up-193110/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.30/45 to the US dollar on Monday from 290.40/48 to the US dollar on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 9.50/65 percent, up from 9.45/50 percent.
-
-A bond maturing on 15.10.2027 closed at 10.15/25 percent, up from 10.10/20 percent.
-
-A bond maturing on 15.09.2029 closed at 10.90/11.00 percent, up from 10.80/90 percent.
-
-A bond maturing on 15.05.2030 closed at 11.25/40 percent, up from 11.00/20 percent. (Colombo/Dec9/2024)
-
-◼️
-
-[Data](articles/a53b8acc.json)
-
-[Extended Data](ext_articles/a53b8acc.ext.json)
-
----
-
-### Ceylon Teachers Union alleges that the exams have been reduced
-
-*2024-12-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204199) · `si`
-
-Ceylon Teachers Union accuses government of reducing exam allowances. Union demands payment for principals and teachers' duties. Confusion over transport allowances reduction sparks controversy.
-
-🟩
-
-The Ceylon Teachers Union calls on the government to pay the allowances to be paid to principals and teachers who are duties.
-
-The General Secretary Joseph Stalin said that the Commissioner of Examinations yesterday (08) a circular issued a confusion of transport allowances to the Commissioner of Examinations yesterday.
-
-...
-
-[Data](articles/90c9efad.json)
-
-[Extended Data](ext_articles/90c9efad.ext.json)
-
----
-
-### Tense
-
-*2024-12-09 16:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிடியாணை-பிறப்பிக்கப்பட்டவரை-பிடித்ததால்-பதற்றம்/175-348488) · `ta`
-
-Tense situation in Vavuniya: Police arrest man near court, two others detained for confusion.
-
-🟩
-
-The tense situation in the area was on Monday evening (09) after police arrested a man who had been arrested in Vavuniya.
-
-The incident took place on the main road in front of the Vavuniya Court. When it comes to the incident,
-
-Vavuniya police folded him that a person who had been issued a court of court was standing there. There was a tense situation in the area.
-
-However, the arrested person was taken to the police station. Meanwhile, two more people have been arrested by the Vavuniya police on charges of being confused and confused.
-
-◼️
-
-[Data](articles/c8e65f62.json)
-
-[Extended Data](ext_articles/c8e65f62.ext.json)
 
 ---

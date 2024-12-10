@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 09:43:05**
+As of **2024-12-10 10:02:11**
 
 ## Newspaper Stats
 
-*Scraped **59,381** Articles*
+*Scraped **59,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 602
 bbccomsinhala | 620
 islandlk | 3,584
-economynextcom | 3,603
+economynextcom | 3,607
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,629
@@ -26,45 +26,105 @@ adaderanasinhalalk | 10,264
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,362 (100.0%) of 59,381 articles have been extended.
+59,365 (100.0%) of 59,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### උදයංගට සහ කපිල චන්ද්‍රසේනට අමෙරිකාවෙන් සම්බාධක
+### Sri Lanka rupee opens stronger at 290.30/40 to dollar, bonds down
+
+*2024-12-10 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-30-40-to-dollar-bonds-down-193176/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.30/40 to the US dollar on Tuesday from 290.30/45 to the US dollar on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.10.2027 was quoted at 10.00/10 percent, down from 10.15/25 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.38/43 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.45/55 percent, down from 10.55/70 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.85/90 percent, down from 10.90/11.00 percent.
+
+In equities, the All Share Price Index was up 0.38 percent or 52.20 points, at 13,770.
+
+The more liquid S&P SL20 was up 0.41 percent, or 16.92 points, at 4,107.
+
+The central bank has announced auctions of Rs. 206,000 million Treasury bills on Wednesday, and 132,500 million Treasury Bonds on Thursday. (Colombo/Dec10/2024)
+
+◼️
+
+[Data](articles/60bc4405.json)
+
+---
+
+### US sanctions in Udayanga and Kapila Chandrasana
 
 *2024-12-10 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204218) · `si`
 
-ශ්‍රීලංකන් ගුවන් සේවයේ හිටපු ප්‍රධාන විධායක නිලධාරී කපිල චන්ද්‍රසේනට සහ රුසියාවේ හිටපු ශ්‍රී ලංකා තානාපති උදයංග වීරතුංගට අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුව මඟින් සම්බාධක සහ වීසා සීමා පනවා තිබේ.
+Here's a summary in 200 characters:
 
-ඒ ඔවුන් සිදුකළ බවට සැලකෙන ඇති මූල්‍ය වංචා සිදුවීම් සම්බන්ධයෙනි.
 
-මේ යටතේ ශ්‍රීලංකන් ගුවන් සේවයේ හිටපු ප්‍රධාන විධායක නිලධාරී කපිල චන්ද්‍රසේන එයාර්බස් ගුවන් යානා මිලට ගැනීමේදී වෙළෙඳපොළ වටිනාකමට වැඩි අගයකට ඒවා මිලදී ගැනීම සඳහා අල්ලස් ගත් බවට චෝදනා එල්ල වී තිබේ.
 
-හිටපු රුසියානු තානාපති උදයංග වීරතුංගට එරෙහි සම්බාධක පනවා ඇත්තේ ශ්‍රී ලංකා ගුවන් හමුදාවට මිග් ගුවන් යානා මිලදී ගැනීමේ දූෂිත වැඩපිළිවෙළක් ක්‍රියාත්මක කළ බවට එල්ලවන චෝදනා යටතේය.
+US sanctions hit two Sri Lankans: Former airline CEO Kapila Chandrasena and ex-Ambassador Udayanga Weeratunga. Accused of financial fraud and bribery. Banned from entering the US under Section 7031(c) of the American Department of State.
 
-අමෙරිකානු රාජ්‍ය දෙපාර්තමේන්තුවේ 7031(c)වගන්තිය යටතේ මොවුන් දෙදෙනාට සහ ඔවුන්ගේ පවුලේ සාමාජිකයින්ට යන දෙපාර්ශවයේම නම් ප්‍රසිද්ධ කර ඇති අතර, ඔවුන්ට එරටට ඇතුළුවීම තහනම් කර තිබේ.
+🟩
+
+Former SriLankan Airlines CEO Kapila Chandrasena and former Sri Lankan Ambassador to Russia's Ambassador to Russia's Ambassador to Russia's Ambassador to Sri Lanka's Ambassador to Sri Lanka's Ambassador to Sri Lanka's Ambassador has been restricted by US State Department.
+
+It is with regard to financial fraud incidents that have been considered.
+
+Former SriLankan Airlines Airlines Airbus, SriLankan Airlines has been accused of bribing the market value for the purchase of Airabus.
+
+The Sri Lanka Air Force has imposed sanctions against former Russian Ambassador Udayanga Weeratunga.
+
+The two parties who are in Section 7031 (c) of the American Department of America have been published in section 7031 (c), and they have banned enterriction to enter.
 
 ◼️
 
 [Data](articles/32952b76.json)
 
+[Extended Data](ext_articles/32952b76.ext.json)
+
 ---
 
-### මදුරන්කුලියේ සැකකටයුතු මරණයක්
+### Madurankuliya suspect
 
 *2024-12-10 08:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204217) · `si`
 
-මදුරන්කුලිය පොලිස් වසමේ වජිරවත්ත මාර්ගයට හැරෙන හන්දිය අසල පිහිටි බස් නැවතුම්පොළක සැකකටයුතු ලෙස මියගිය පුද්ගලයෙකුගේ සිරුරක් සොයාගෙන තිබේ.
+Body found at Madurankuliya bus station. Police investigating death near Vajirawatta road. Case filed at local police station.
 
-මදුරන්කුලිය පොලිස් ස්ථානයට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයකින් අනාවරණය වී ඇත්තේ, මෙම මරණය අද (10) අළුයම සිදුව ඇති බවය.
+🟩
 
-මරණය සිදු වූ ආකාරය සම්බන්ධයෙන් මෙතෙක් තොරතුරු අනාවරණය වී නොමැති අතර, මරණකරු රාත්‍රී කාලයේ හිතවතුන් පිරිසක් සමග මත්පැන් පානය කර ඇති බවට තොරතුරු අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The body of a person who was killed in a bus station located near the Vajirawatta road in Madurankuliya has been found.
+
+A investigation was lodged on a complaint lodged with the Madurankuliya police station revealed that the death was held today (10).
+
+The police say that information has been revealed to the death of death, police said.
 
 ◼️
 
 [Data](articles/8078fad3.json)
+
+[Extended Data](ext_articles/8078fad3.ext.json)
+
+---
+
+### Sri Lanka leader asks anti-graft body to explain withdrawal of corruption cases
+
+*2024-12-10 08:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-asks-anti-graft-body-to-explain-withdrawal-of-corruption-cases-193173/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has stressed the need to explain the reasons behind why the island nation’s anti-graft body withdrew 85 corruption cases in two years during the previous regime.
+
+Dissanayake made these comments during International Anti-Corruption Day National Celebration which was held in Colombo on Monday (09) under the theme, “Uniting with Youth against Corruption: Shaping tomorrow’s Integrity.”
+
+His Marxists-leaning Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) won both Presidential and Parliamentary elections with pledges of eliminating corruption while punishing those responsible for past misappropriations of public funds.
+
+The President noted the performance of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) and said that 69 corruption cases were filed in 2021, but 40 were later withdrawn.
+
+...
+
+[Data](articles/bfedb582.json)
 
 ---
 
@@ -89,6 +149,8 @@ Accordingly, he had reportedly entered the Mannar Hospital and obstructed an inv
 ◼️
 
 [Data](articles/f3e7c76f.json)
+
+[Extended Data](ext_articles/f3e7c76f.ext.json)
 
 ---
 
@@ -276,6 +338,28 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 
 ---
 
+### US sanctions Udayana Weeratunga, Kapila Chandrasena over Sri Lanka MiG, Airbus deals
+
+*2024-12-10 06:52:00* · [`economynextcom`](https://economynext.com/us-sanctions-udayana-weeratunga-kapila-chandrasena-over-sri-lanka-mig-airbus-deals-193153/) · `en`
+
+ECONOMYNEXT – The US State Department has targeted 14 individual along with Sri Lanka’s ex-envoy to Russia, Udayanga Weeratunga and former Sri Lankan Airlines chief executive Kapila Chandrasena.
+
+“Chandrasena accepted a bribe while serving in his capacity as Sri Lankan Airlines CEO in exchange for ensuring Sri Lanka purchased Airbus aircraft for over market value,” a statement said.
+
+Weeratunga was named over a MiG aircraft deal for the Sri Lanka Air Force.
+
+“As part of this action, his immediate family members are also designated,” the statement said.
+
+Sri Lanka had also ordered the arrest of Chandrasena after a British inquiry in to bribery over Airbus deals.
+
+RelatedSriLankan Airline exec’s wife offered US$16mn bribe for Airbus deal: Court filing
+
+...
+
+[Data](articles/c6f8e747.json)
+
+---
+
 ### දේශීය සහ ආනයනික සහල් සඳහා උපරිම මිලක් - ගැසට්ටුව එළියට
 
 *2024-12-10 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204210) · `si`
@@ -297,6 +381,28 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/83ec0806.json)
+
+---
+
+### Sri Lanka forex reserves marginally down in November, CB buys US$374mn
+
+*2024-12-10 06:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-forex-reserves-marginally-down-in-november-cb-buys-us374mn-193166/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross official reserves fell marginally to 6,462 million dollars by the end of November 2024, from 6,472 dollars a month earlier, central bank data shows.
+
+Gross official reserves include balances of the Treasury. Reserves may go down due to debt repayment by the central bank or Treasury.
+
+The central bank borrowed reserves including through swaps to target the policy rate with printed money in the past and has been settling them over the past year after buying dollars using deflationary policy with market rates.
+
+In November the central bank bought 374 million US dollars from banks, data showed.
+
+Concerns have been raised over recent cash injected through domestic operations (open market operations) at a time when money is already created over international operations, to closely target a policy rate with excess liquidity.
+
+In order to maintain external stability, build reserves or repay debt compatible interest rates are needed to balance domestic credit.
+
+...
+
+[Data](articles/e6d8acc8.json)
 
 ---
 
@@ -2173,107 +2279,5 @@ However, the arrested person was taken to the police station. Meanwhile, two mor
 [Data](articles/c8e65f62.json)
 
 [Extended Data](ext_articles/c8e65f62.ext.json)
-
----
-
-### The many faceted character of Sirimavo Bandaranaike
-
-*2024-12-09 16:37:00* · [`islandlk`](http://island.lk/the-many-faceted-character-of-sirimavo-bandaranaike/) · `en`
-
-Prime Minister and Minister of Defence and External Affairs (July 1960 — August 1965)
-
-(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
-
-Working with S W R D Bandaranaike in the 1956-1959 period had given me the opportunity of appreciating the many-faceted character of Sirimavo Bandaranaike. She was a devoted mother to her three children, ran her very busy and sometimes even chaotic household with a firm hand and had developed an understanding with her husband which allowed him to engage in his political pursuits with minimum interference.
-
-...
-
-[Data](articles/ac7ecf91.json)
-
-[Extended Data](ext_articles/ac7ecf91.ext.json)
-
----
-
-### Remain new gadget
-
-*2024-12-09 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204198) · `si`
-
-New gadget helps protect crops from wildlife in Kegalle district. Device emits sound to scare away animals like monkeys and elephants. Temporary solution to crop damage issues.
-
-🟩
-
-Crop cultivations suffers from many parts of the island due to animal damage.
-
-The raids, monkey, stalks, and wild elephants are also presented among the cultivated animals.
-
-The people in the district is helpless as the people in the Kegalle district cannot save their crops.
-
-A team of Ananda Deeasagas and a young engine has been able to introduce a temporary solution.
-
-The device expelled recently in the Wagolulla area.
-
-"When it comes to Rillive. Later, this is sending a little mine with a sound. It feels. And not coming to reach near. The alleviation of this will be transferred from time to time. Or furnace and get used to it. This is the one to get rid of them. "
-
-◼️
-
-[Data](articles/892c70b0.json)
-
-[Extended Data](ext_articles/892c70b0.ext.json)
-
----
-
-### Member Gajendra Kumar's accident killed
-
-*2024-12-09 16:20:24* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-ගජේන්ද්‍ර-කුමාර්ගේ-රියෙ-ගැටුණ-යාචක-කාන්තාව-මරුට/11-413539) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Accident involving Jaffna MP Gajendra Kumar Ponnambalam: Woman (60s) dies in luxury jeep crash near Wennappuwa. Driver & vehicle detained. Investigations ongoing.
-
-🟩
-
-Wennappuwa Police say that a woman has died in a luxury jeep that was heading by Jaffna District MP Gajendra Kumar Ponnambalam.
-
-The deceased has been identified as between 60 and 70 years old, police said.
-
-The accident had occurred when the TNA, UNP MP Gajendra Kumar Ponnambalam was traveling from Colombo to Jaffna.
-
-The accident had the beggars in the Bolawatta area in Wennappuwa, and the woman who was seriously injured had been rushed to the Marawila Hospital, but it is said.
-
-At the time of the accident, the MP has traveled in the luxury jeep.
-
-The jeep and the driver was arrested by the Wennappuwa Police and produced before the Marawila Magistrate's Court regarding the accident.
-
-Tilina Hettiarachchi and other officials are conducting investigations.
-
-◼️
-
-[Data](articles/e5ebff83.json)
-
-[Extended Data](ext_articles/e5ebff83.ext.json)
-
----
-
-### US support for the growth of the energy sector
-
-*2024-12-09 16:08:41* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-ක්ෂේත්‍රයේ-වර්ධනයට-ඇමෙරිකාවේ-සහාය/11-413538) · `si`
-
-US supports Sri Lanka's energy sector growth: US Ambassador offers technical assistance; Energy Minister Kumara Jayakody discusses new government energy policy cooperation.
-
-🟩
-
-US ambassadors in Sri Lanka Julie. Chang (julie j. Cungs, Minister of Energy Minister Kumara Jayakody met Minister of Energy Minister yesterday (09).. The objective of the meeting was to join the Minister of Energy to the new government energy and the program of developing the cooperation of the energy sector between the two countries.
-
-The US Ambassador stated that the US government is willing to provide technical and other assistance to the development of the energy sector in Sri Lanka.
-
-Energy Minister Kumara Jayakody explained that the new government energy policy and energy appears to be supported by the US government with the support of the new government.
-
-...
-
-[Data](articles/944122a9.json)
-
-[Extended Data](ext_articles/944122a9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 10:02:11**
+As of **2024-12-10 10:28:18**
 
 ## Newspaper Stats
 
-*Scraped **59,385** Articles*
+*Scraped **59,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 3,607
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,629
-adaderanalk | 7,219
+adaderanalk | 7,220
 tamilmirrorlk | 8,474
-virakesarilk | 9,744
+virakesarilk | 9,749
 adaderanasinhalalk | 10,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,365 (100.0%) of 59,385 articles have been extended.
+59,369 (100.0%) of 59,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Two arrested with Valamburi Sangam
+
+*2024-12-10 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200856) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Two men, ages 31 & 32, arrested in Weligampitiya for selling 18 lakhs. Raid conducted by Ja-Ela police based on tip-off. Further investigations ongoing."
+
+🟩
+
+Two suspects have been arrested on Monday (09) with two Valamburi associations who were ready to sell 18 lakhs in the Weligampitiya area, which belongs to the Ja -Ela Police Division, Jha -Ela Ella police said.
+
+The suspects have been arrested during the raid carried out on the basis of information received by the Ja -Ela police station.
+
+The arrested suspects are 31 and 32 years old from the Kobegane area.
+
+Further investigations are being carried out by the Ja -Ela police.
+
+◼️
+
+[Data](articles/62cfc516.json)
+
+[Extended Data](ext_articles/62cfc516.ext.json)
+
+---
+
+### Yall. District Parliamentarian Ramanathan Archana against Jaffna. Complaint to the police
+
+*2024-12-10 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/200854) · `ta`
+
+Ramanathan Archana enters Jaffna Hospital unauthorized. Police lodge complaint. Earlier, Mannar Hospital director filed similar complaint during her time as doctor. Investigation ongoing after pregnant woman's death at Mannar Hospital.
+
+🟩
+
+Yall. District Parliamentarian Ramanathan Archana against Jaffna. Police said that a complaint has been lodged with the police.
+
+Parliamentarian Ramanathan Archana has entered into the Jaffna Hospital without permission and the hospital administration has been involved in disrupting the activities of the hospital.. The complaint has been lodged at the police station, police said.
+
+Earlier, when Ramanathan was working as a doctor, the Mannar Hospital Director had lodged a complaint with the Mannar Hospital that the hospital was disrupted.
+
+Investigations into the death of a pregnant woman at the Mannar Hospital a few months ago, Ramanathan Archana has reportedly entered the Mannar Hospital without permission.
+
+◼️
+
+[Data](articles/f2275d02.json)
+
+[Extended Data](ext_articles/f2275d02.ext.json)
+
+---
 
 ### Sri Lanka rupee opens stronger at 290.30/40 to dollar, bonds down
 
@@ -55,6 +107,8 @@ The central bank has announced auctions of Rs. 206,000 million Treasury bills on
 ◼️
 
 [Data](articles/60bc4405.json)
+
+[Extended Data](ext_articles/60bc4405.ext.json)
 
 ---
 
@@ -85,6 +139,50 @@ The two parties who are in Section 7031 (c) of the American Department of Americ
 [Data](articles/32952b76.json)
 
 [Extended Data](ext_articles/32952b76.ext.json)
+
+---
+
+### US sanctions Kapila Chandrasena and Udayanga Weeratunga over corruption
+
+*2024-12-10 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104124/us-sanctions-kapila-chandrasena-and-udayanga-weeratunga) · `en`
+
+The United States has imposed sanctions on the former CEO of SriLankan Airlines Kapila Chandrasena and former Sri Lankan Ambassador to Russia Udayanga Weeratunga, along with their immediate family members, for their involvement in “significant corruption”.
+
+The U.S. State Department announced a slew of sanctions on Monday to mark International Anti-Corruption Day and the eve of Human Rights Day, targeting individuals from multiple countries.
+
+Accordingly, the US Department of State has designated 14 individuals, including immediate family members, from countries around the world for significant corruption and one individual for gross violations of human rights, pursuant to Section 7031(c) of the Department’s annual appropriations act, rendering them ineligible for entry into the United States.
+
+...
+
+[Data](articles/6a095c67.json)
+
+[Extended Data](ext_articles/6a095c67.ext.json)
+
+---
+
+### இறக்குமதி அரிசிக்கான விலையை நிர்ணயித்து வர்த்தமானி வெளியீடு
+
+*2024-12-10 09:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/200853) · `ta`
+
+இறக்குமதி செய்யப்படும் அரிசிக்கான அதிகபட்ச சில்லறை விலையை நிர்ணயித்து அதிவிசேட வர்த்தமானி வெளியீடப்பட்டுள்ளது.
+
+அதன்படி, பச்சை அரிசி ஒரு கிலோவின் விலை 210 ரூபாவாகவும் நாட்டரிசி ஒரு கிலோவின் விலை 220 ரூபாவாகவும் சம்பா அரிசி ஒரு கிலோவின் விலை 230 ரூபாவாகவும் நிர்ணயித்து அதிவிசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c425d7ba.json)
+
+---
+
+### மாகாணசபை தேர்தல்களை நடத்துவதற்கு குறுக்கே நிற்கும்  முட்டுக்கட்டையை தகர்க்க வழி என்ன ?
+
+*2024-12-10 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200852) · `ta`
+
+உள்ளூராட்சி தேர்தல்களையும் மாகாணசபை தேர்தல்களையும் ஒரே நேரத்தில் நடத்துவதனால்  செலவினங்களை கணிசமானளவுக்கு குறைக்கும். இரு தேர்தல்களையும் தனித்தனியாக நடத்தும்போது செலவினம் அதிகமாகும்.
+
+◼️
+
+[Data](articles/8d0202ee.json)
 
 ---
 
@@ -357,6 +455,26 @@ RelatedSriLankan Airline exec’s wife offered US$16mn bribe for Airbus deal: Co
 ...
 
 [Data](articles/c6f8e747.json)
+
+---
+
+### உதயங்க வீரதுங்க - கபிலசந்திரசேனவிற்கு அமெரிக்கா பயணத்தடை – ஊழலில் ஈடுபட்டதாக குற்றச்சாட்டு
+
+*2024-12-10 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/200850) · `ta`
+
+ரஸ்யாவிற்கான முன்னாள் இலங்கை தூதுவர் உதயங்க வீரதுங்கவும் ஸ்ரீலங்கன் எயர்லைன்சின் முன்னாள் பிரதம நிறைவேற்று அதிகாரி கபிலசந்திரசேனவும்  குறிப்பிடத்தக்க ஊழலில் ஈடுபட்டனர் என தெரிவித்துள்ள அமெரிக்க இராஜாங்க திணைக்களம் இவர்கள் அமெரிக்காவிற்குள் நுழைவதற்கு பயணத்தடை விதித்துள்ளது.
+
+ஊழலிற்கு எதிரான சர்வதேச தினம் மற்றும் சர்வதேச மனித உரிமை தினத்தை முன்னிட்டு உலகில் ஊழல் .மனித உரிமை மீறல்களில் ஈடுபட்டவர்களை பொறுப்புக்கூறலிற்கு உட்படுத்துவதற்கான நடவடிக்கைகளை அமெரிக்கா எடுக்கின்றது.
+
+குறிப்பிடத்தக்க ஊழல் ,பாரிய மனித உரிமை மீறல்களில் ஈடுபட்டார்கள் என 14 பேர் மற்றும் அவர்களது குடும்ப உறுப்பினர்களை அமெரிக்கா இது தொடர்பிலான பட்டியலில் இணைத்துக்கொண்டுள்ளது.
+
+அமெரிக்க இராஜாங்க திணைக்களத்தின் வெளிநாட்டு செயல்பாடுகள் மற்றும் தொடர்புடைய சட்டங்கள் ஒதுக்கீட்டு சட்டத்தின் பிரிவு 7031 சியின் படி இவர்கள் அமெரிக்காவிற்குள் நுழைவதற்கு தகுதியற்றவர்கள்.
+
+மேலும் குடிவரவு குடியகல்வு சட்டத்தின் கீழ் பல கொள்கைகளிற்கு இணங்க மேலும் பலரிற்கு விசா கட்டுப்பாடுகளை விதிப்பதற்கான நடவடிக்கைகள் குறித்தும் அமெரிக்கா ஆராய்கின்றது.
+
+...
+
+[Data](articles/f4c288ee.json)
 
 ---
 
@@ -2143,141 +2261,5 @@ The Attorneyers who sat for a small number of cashier were bail to be bailed to 
 [Data](articles/5359165f.json)
 
 [Extended Data](ext_articles/5359165f.ext.json)
-
----
-
-### Ranil is more than Ranil - Sri Lanka PA
-
-*2024-12-09 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/200799) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake faces criticism over IMF deal. Promised to exit but now says quitting would worsen economic crisis. His government accepted all IMF conditions, differing from predecessor Ranil Wickremesinghe's approach. Public questions his election campaign promises on economic recovery.
-
-🟩
-
-President Anura Kumara Dissanayake has been submitted than former President Ranil Wickremesinghe in the IMF's extended project.
-
-There are huge differences between the promises and the practical administration of President Anura Kumara Dissanayake on the election platforms. The National People's Power Government has come to power criticizing the administration of the past governments.
-
-President Anura Kumara Dissanayake promised the people of the country to quit the project with the International Monetary Fund. But after coming to power, he notes that the economic crisis will be intensified if he quit the work of the Monetary Fund. If so, he has misled the people of the country.
-
-President Anura Kumara Dissanayake has suffered more than former President Ranil Wickremesinghe on the issue of extended project with the Monetary Fund. The government fully accepts the conditions without any refusal to all the conditions proposed by the Monetary Fund.
-
-...
-
-[Data](articles/6d8890e8.json)
-
-[Extended Data](ext_articles/6d8890e8.ext.json)
-
----
-
-### Sri Lanka Air Force in the Central African Republic
-
-*2024-12-09 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200787) · `ta`
-
-Sri Lanka Air Force contributes to UN peacekeeping in Central African Republic. 108 personnel deployed for various tasks including transport, medical support, and parachute operations. 92-member delegation returns after completing mission.
-
-🟩
-
-UN in Central African Republic. 108 members of the Sri Lanka Air Force Helicopter Regiment departed from the Katunayake Bandaranaike International Airport to the Central African Republic for peacekeeping.
-
-The Sri Lanka Air Force has been actively contributed to peacekeeping activities since 2014 and a team of the Sri Lanka Air Force Helicopter Brigade has been appointed for peacekeeping.
-
-The group is contributing to many special tasks including transport, VIP transport, food/goods transport, domestic airlines, unloading cargo through parachute and medical team transport.
-
-It is also worth noting that 92 Air Force delegation, who had traveled to the UN peacekeeping work in the Central African Republic, arrived again after the end of their service.
-
-Air Force officers and family members were present at the International Airport.
-
-◼️
-
-[Data](articles/b1fc87f6.json)
-
-[Extended Data](ext_articles/b1fc87f6.ext.json)
-
----
-
-### ANANDA COOMARASWAMY: HIS CONTRIBUTION TO UNDERSTANDING ART
-
-*2024-12-09 16:56:00* · [`islandlk`](http://island.lk/ananda-coomaraswamy-his-contrbution-to-understanding-art/) · `en`
-
-Dr. Ananda Kentish Coomaaswamy was not an Indian by birth but in his writings he showed more than any scholar of his time that he had a wider understanding of the cultural heritage of India than most. He was the only child of Sir Muthu Coomaraswamy and English mother Elizabeth Clay Beeby, and he was born at Rhineland Place in Kollupitiya, on August 22, 1871.
-
-His father Sir Muthu Coomaraswamy was the first non-Christian to be called to the English Bar and the first Asian Knighted by Queen Victoria, was a popular figure among the socialites in London and he also enjoyed the company of Lord Palmerston, Lord Tennyson and Benjamin Disraeli who portrayed him as Kusinara in one of his novels.
-
-...
-
-[Data](articles/88abae56.json)
-
-[Extended Data](ext_articles/88abae56.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.30/45 to dollar, bonds up
-
-*2024-12-09 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-30-45-to-dollar-bonds-up-193110/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.30/45 to the US dollar on Monday from 290.40/48 to the US dollar on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 9.50/65 percent, up from 9.45/50 percent.
-
-A bond maturing on 15.10.2027 closed at 10.15/25 percent, up from 10.10/20 percent.
-
-A bond maturing on 15.09.2029 closed at 10.90/11.00 percent, up from 10.80/90 percent.
-
-A bond maturing on 15.05.2030 closed at 11.25/40 percent, up from 11.00/20 percent. (Colombo/Dec9/2024)
-
-◼️
-
-[Data](articles/a53b8acc.json)
-
-[Extended Data](ext_articles/a53b8acc.ext.json)
-
----
-
-### Ceylon Teachers Union alleges that the exams have been reduced
-
-*2024-12-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204199) · `si`
-
-Ceylon Teachers Union accuses government of reducing exam allowances. Union demands payment for principals and teachers' duties. Confusion over transport allowances reduction sparks controversy.
-
-🟩
-
-The Ceylon Teachers Union calls on the government to pay the allowances to be paid to principals and teachers who are duties.
-
-The General Secretary Joseph Stalin said that the Commissioner of Examinations yesterday (08) a circular issued a confusion of transport allowances to the Commissioner of Examinations yesterday.
-
-...
-
-[Data](articles/90c9efad.json)
-
-[Extended Data](ext_articles/90c9efad.ext.json)
-
----
-
-### Tense
-
-*2024-12-09 16:38:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிடியாணை-பிறப்பிக்கப்பட்டவரை-பிடித்ததால்-பதற்றம்/175-348488) · `ta`
-
-Tense situation in Vavuniya: Police arrest man near court, two others detained for confusion.
-
-🟩
-
-The tense situation in the area was on Monday evening (09) after police arrested a man who had been arrested in Vavuniya.
-
-The incident took place on the main road in front of the Vavuniya Court. When it comes to the incident,
-
-Vavuniya police folded him that a person who had been issued a court of court was standing there. There was a tense situation in the area.
-
-However, the arrested person was taken to the police station. Meanwhile, two more people have been arrested by the Vavuniya police on charges of being confused and confused.
-
-◼️
-
-[Data](articles/c8e65f62.json)
-
-[Extended Data](ext_articles/c8e65f62.ext.json)
 
 ---

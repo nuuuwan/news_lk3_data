@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 14:43:08**
+As of **2024-12-10 15:02:16**
 
 ## Newspaper Stats
 
-*Scraped **59,444** Articles*
+*Scraped **59,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,637
-adaderanalk | 7,234
+adaderanalk | 7,237
 tamilmirrorlk | 8,485
 virakesarilk | 9,755
 adaderanasinhalalk | 10,273
@@ -26,25 +26,89 @@ adaderanasinhalalk | 10,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,404 (99.9%) of 59,444 articles have been extended.
+59,408 (99.9%) of 59,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
 
-### புதிய செயலாளர் நியமனம்
+### Eight suspects of ‘Club Wasantha’ murder granted bail
+
+*2024-12-10 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104140/eight-suspects-of-club-wasantha-murder-granted-bail-) · `en`
+
+Eight suspects, who were arrested and remanded in custody in connection with the murder of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, have been granted bail by Homagama High Court today (10).
+
+Accordingly, the 08 individuals were ordered to be released on two surety bails and Rs. 100,000 each, and under strict conditions, Ada Derana reporter said.
+
+Furthermore, the Homagama High Court judge, who imposed overseas travel bans on all eight suspects, also ordered them to hand over their passports to the court and to appear before Athurugiriya Police Station every Sunday.
+
+Police had arrested 18 individuals including a woman and a former Western Provincial Councillor, in connection with the shooting incident.
+
+The shocking shooting incident had occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya on July 08.
+
+...
+
+[Data](articles/30036256.json)
+
+---
+
+### CAA launches special raids to enforce new price limits for rice
+
+*2024-12-10 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104139/caa-launches-special-raids-to-enforce-new-price-limits-for-rice) · `en`
+
+The Consumer Affairs Authority (CAA) says that raids will be carried out from today (10) to identify the traders selling rice at prices higher than the maximum retail and wholesale price recently set by the government.
+
+CAA Chairman Hemantha Samarakoon stated that the decision was taken in accordance with the gazette notification issued yesterday (09), which specifies the new maximum retail and wholesale prices for rice.
+
+He emphasized that legal action will be taken against anyone found violating these new price regulations.
+
+He also urged traders, producers, wholesalers, and consumers to adhere to the announced rice prices.
+
+“If there is any irregularity or sale of rice at an excessive price, you can complain about it to the Consumer Affairs Authority via the hotline 1977. You can also complain to the Consumer Affairs Authority’s district offices and the head office,” CAA Chairman said.
+
+◼️
+
+[Data](articles/ee4d4e7e.json)
+
+---
+
+### New Secretary Appointment
 
 *2024-12-10 14:18:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்-நியமனம்/175-348529) · `ta`
 
-சுகாதார மற்றும் ஊடக அமைச்சின் புதிய செயலாளராக டொக்டர் அனில் ஜசிங்க நியமிக்கப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்கவினால் இந்த நியமனம் வழங்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
 
-உத்தியோகபூர்வ நியமனக் கடிதம் திரு. ஜசிங்கவிடம் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் இன்று ஜனாதிபதி செயலகத்தில் வைத்து கையளிக்கப்பட்டது.
+
+Dr. Anil Jasinghe named new Health & Media Minister Secretary. Appointed by President Anura Kumara Dissanayake. Official letter handed to Presidential Secretariat by Dr. Nandika Sanath Kumanayake.
+
+🟩
+
+Dr. Anil Jasinghe has been appointed as the new Secretary of the Ministry of Health and Media.
+
+The appointment was made by President Anura Kumara Dissanayake, the Presidential Media Unit said.
+
+The official appointment letter Mr.. Jasinghe was handed over to the Presidential Secretariat today by the President's Secretary Dr. Nandika Sanath Kumanayake.
 
 ◼️
 
 [Data](articles/b59fd03b.json)
+
+[Extended Data](ext_articles/b59fd03b.ext.json)
+
+---
+
+### Dr. Anil Jasinghe appointed Secretary to Ministry of Health and Media
+
+*2024-12-10 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104138/dr-anil-jasinghe-appointed-secretary-to-ministry-of-health-and-media) · `en`
+
+Dr. Anil Jasinghe has been appointed as the new Secretary to the Ministry of Health and Media by President Anura Kumara Dissanayake.
+
+The appointment letter was handed over to Dr. Jasinghe today (10) at the Presidential Secretariat, the President’s Media Division (PMD) said.
+
+◼️
+
+[Data](articles/90f7d90a.json)
 
 ---
 
@@ -80,31 +144,43 @@ Our relationships are the ones who have disappeared!They are not missing. Today,
 
 ---
 
-### LANKA T10 තරගාවලිය හෙටින් ඇරඹේ
+### Lanka T10 tournament begins tomorrow
 
 *2024-12-10 13:34:13* · [`adalk`](https://www.ada.lk/breaking_news/LANKA-T10-තරගාවලිය-හෙටින්-ඇරඹේ/11-413555) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පළමු වරට සංවිධානය කරනු ලබන T10 තරගාවලිය හෙට(11දා) සිට ආරම්භ වේ.
+Sri Lanka Cricket's inaugural T10 tournament starts tomorrow (11). 21 matches in preliminary round, 3 daily.
 
-මූලික වටයේ තරග 21ක් පැවැත්වීමට නියමිත අතර, සෑම දිනයකම තරග 3 බැගින් පැවැත්වීමට කටයුතු යොදා තිබේ.
+🟩
+
+Sri Lanka Cricket first organizes T10s to begin tomorrow (11).
+
+21 matches will be held in the preliminary round, and 3 matches will be held every day.
 
 ◼️
 
 [Data](articles/d7f6c833.json)
 
+[Extended Data](ext_articles/d7f6c833.ext.json)
+
 ---
 
-### ජනපති ලබන සතියේ ඉන්දියාවට
+### President to visit India next week
 
 *2024-12-10 13:12:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලබන-සතියේ-ඉන්දියාවට/11-413554) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා ලබන 15 වැනිදා සිට 17 වැනිදා දක්වා ඉන්දියාවේ නිළ සංචාරයක නිරත වන බව කැබිනට් ප්‍රකාශන අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Pres. Anura Kumara Dissanayake visits India 15-17th. First trip since becoming Prez.
 
-මෙය අනුර කුමාර දිසානායක මහතා ජනාධිපති ධුරයට පත්වීමෙන් පසුව සිදු කරනු ලබන පළමු නිළ සංචාරයවේ.
+🟩
+
+Minister of Cabinet publications Nalinda Jayatissa said President Anura Kumara Dissanayake will visit India from the 15th to 17th.
+
+This is the first to do this after Anura Kumara Dissanayake is appointed president.
 
 ◼️
 
 [Data](articles/0e1c74dd.json)
+
+[Extended Data](ext_articles/0e1c74dd.ext.json)
 
 ---
 
@@ -383,6 +459,8 @@ In addition to the presidential residences, the official residences of several h
 ...
 
 [Data](articles/ad6041ee.json)
+
+[Extended Data](ext_articles/ad6041ee.ext.json)
 
 ---
 
@@ -2141,79 +2219,5 @@ The system, which was seen as two amendments per year, was increased to 4 by Ran
 [Data](articles/866151d9.json)
 
 [Extended Data](ext_articles/866151d9.ext.json)
-
----
-
-### Human Rights Day: Relationships of Missing MissingThe new government has no progressive moves
-
-*2024-12-10 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200845) · `ta`
-
-Summarized in 200 characters: "Relatives protest Human Rights Day Kilinochchi missing persons no progress new government"
-
-🟩
-
-Relatives of the missing persons in the North and Eastern Provinces will launch a special protest in Kilinochchi today (10) to mark the Human Rights Day.
-
-Relatives of the North and Eastern Provinces who have been engaged in a series of struggle for more than 2500 days from 2017 to reveal what happened to their loved ones who have disappeared during the three decades of war and the last war.
-
-As a result of this, the Secretary of the Human Rights Day, the Human Rights Day, will be carried out in front of the Association of Relations of the Missing Relations in Kilinochchi today, while the Secretary of the North and the 8 districts of the North and East has staged protests.
-
-He then said that the United Nations would put pressure on the government to carry out moves to make moves that could bring about the confidence that they would find a solution to the affairs of the missing persons.
-
-...
-
-[Data](articles/84c753a2.json)
-
-[Extended Data](ext_articles/84c753a2.ext.json)
-
----
-
-### Police arrested a man who was issued a BT order;Two more arrested for confusion
-
-*2024-12-10 01:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/200844) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Police arrest man with BT order near Vavuniya Court. Two others detained for confusion. Incident causes local disturbance.
-
-🟩
-
-There was a confusion in the area as police arrested a man who had been issued a PD in Vavuniya.
-
-The incident took place in front of the Vavuniya Court. As soon as the incident is revealed;
-
-The Vavuniya police, who observed a person who had been issued by the court, stood up to him.. There was confusion in the area.
-
-The arrested person was then taken to the police station. Meanwhile, two more people have been arrested by the Vavuniya police, saying they were confused by the telephone in the area.
-
-◼️
-
-[Data](articles/57eecd78.json)
-
-[Extended Data](ext_articles/57eecd78.ext.json)
-
----
-
-### Tipper folding caught in sand smuggling in Jaffna
-
-*2024-12-10 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/200843) · `ta`
-
-Tipper caught smuggling sand in Jaffna. STF pursued based on intel. Driver arrested, handed to Chavakachcheri police. Case to be presented in court after investigation.
-
-🟩
-
-The Special Task Force chased the tipper involved in sand smuggling on the basis of confidential information received by the Special Task Force (STF) that sand was being smuggled from the Point Pedro.
-
-When the tipper was escaped by the tipper Kodikamam, the driver was folded with the tipper on the road when the tipper was fleeing.
-
-He has been handed over to the Chavakachcheri police station. The Chavakachcheri police are taking steps to bring him to the Chavakachcheri court after further inquiries.
-
-◼️
-
-[Data](articles/44cdadd1.json)
-
-[Extended Data](ext_articles/44cdadd1.ext.json)
 
 ---

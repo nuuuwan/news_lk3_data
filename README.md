@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 12:29:59**
+As of **2024-12-10 13:02:46**
 
 ## Newspaper Stats
 
-*Scraped **59,424** Articles*
+*Scraped **59,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,146 @@ economynextcom | 3,610
 dailyftlk | 4,098
 dailymirrorlk | 4,733
 adalk | 5,634
-adaderanalk | 7,228
-tamilmirrorlk | 8,481
-virakesarilk | 9,750
-adaderanasinhalalk | 10,272
+adaderanalk | 7,232
+tamilmirrorlk | 8,483
+virakesarilk | 9,755
+adaderanasinhalalk | 10,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,387 (99.9%) of 59,424 articles have been extended.
+59,394 (99.9%) of 59,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
+
+### Speaker will make ‘responsible’ statement soon on doctorate controversy - Minister
+
+*2024-12-10 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104135/speaker-will-make-responsible-statement-soon-on-doctorate-controversy-minister) · `en`
+
+Speaker of the Parliament Asoka Ranwala will soon make a ‘responsible’ statement regarding the recent controversies related to his doctorate, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
+
+Responding to a question raised by a journalist during the Cabinet press conference held today (10), Dr. Jayatissa expressed that certain parties had even questioned about his own PhD as well.
+
+Furthermore, the Cabinet Spokesman mentioned that the government will arrive at a decision regarding the matter after the Speaker reports on his qualifications to the relevant authorities.
+
+“I will make a statement on what decision the government will take if the claims are true as well as if the claims are false”, he added.
+
+Various reports were circulated on social media over the doctorate of Speaker Ashoka Ranwala recently, and the controversy was seen escalated, with the Sri Lanka Parliament website recently removing the title “Dr.” from his profile in the members’ directory.
+
+◼️
+
+[Data](articles/5e1eef8c.json)
+
+---
+
+### හිටපු ජනපතිගේ ලිපියට අමාත්‍ය නලින්දගෙන් පිළිතුරු
+
+*2024-12-10 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204227) · `si`
+
+මත්පැන් සමාගම්වලින් එකතුවිය යුතු බදු බිලියන 7කට ආසන්න ප්‍රමාණයක් තිබෙන බවත්, එම බදු අයකර ගැනීමට රජය කටයුතු කරමින් සිටින බව කැබිනට් මාධ්‍ය ප්‍රකාශක, අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කිසිදු මත්පැන් බලපත්‍රයක් නියමිත ක්‍රමවේදයෙන් බැහැරව කිසිවකුට පිනට ලබා දී නොමැති බව සඳහන් කරමින් ඒ මහතාගේ කාර්යාලය ඊයේ (9) නිකුත්කළ නිවේදනයට ප්‍රතිචාර දක්වමින් ඔහු මේ බව පැවසීය.
+
+රනිල් වික්‍රමසිංහ මහතාගේ කාර්යාලය නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වූයේ මත්පැන් බලපත්‍ර ලබාදීම මගින් රජය රුපියල් බිලියන 3කට වැඩි ආදායමක් උපයාගත් බවයි.
+
+"රනිල් වික්‍රමසිංහ හිටපු ජනාධිපතිවරයා කිව්වා අවුරුද්දකට බාර් ලයිසන් 250ක් 300ක් දීලා ඒකෙන් ලැබෙන බදුවලින් අමද්‍යප ව්‍යාපාරය ශක්තිමත් කරන්න බලාපොරොත්තුව තිබ්බේ කියලා. මේ රටේ ජනතාවගේ බදු මුදල්වලින් තමන්ගේ විශ්‍රාම ජීවිතය ගතකරන පුද්ගලයෙක් මේ ආකාරයට ඉතාම උපහාසයෙන් යුතුව අදහස් ප්‍රකාශ කිරීම ගැලපෙන්නේ නෑ.
+
+...
+
+[Data](articles/d0d9ef6f.json)
+
+---
+
+### வீட்டில் சளிக்கு சிகிச்சை பெற்று வந்த 3 மாதக் குழந்தை உயிரிழப்பு !
+
+*2024-12-10 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200877) · `ta`
+
+சளித் தொல்லையால் வீட்டில் சிகிச்சை பெற்று வந்த 3 மாத குழந்தை உயிரிழந்துள்ளதாக மாரவில பொலிஸார் தெரிவித்தனர்.
+
+புத்தளம், தெமட்டபிட்டிய, தம்மிக்ககம பகுதியைச் சேர்ந்த 3 மாத பெண் குழந்தையே உயிரிழந்துள்ளது.
+
+உயிரிழந்த குழந்தையின் பெற்றோர் தென்னந்தும்புத் தொழிற்சாலை ஒன்றில் பணிபுரிந்து வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்நிலையில், குழந்தை சளித் தொல்லை காரணமாக நீண்ட நாட்களாக வீட்டில் சிகிச்சை பெற்று வந்துள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+சம்பவ தினத்தன்று, குழந்தை பெற்றோருடன் வீட்டின் மாடியில் உறங்கிக் கொண்டிருந்துள்ள நிலையில் குழந்தையின் மூக்கில் இருந்து இரத்தம் மற்றும் பால் என்பன கசிந்துள்ளதாக பொலிஸ் விசாரணையில் மேலும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/9d901121.json)
+
+---
+
+### ”இந்த பிரச்சினையை உணர்வுபூர்வமாக கையாள வேண்டும்”
+
+*2024-12-10 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-பிரச்சினையை-உணர்வுபூர்வமாக-கையாள-வேண்டும்/175-348525) · `ta`
+
+காட்டு விலங்குகள் பயிர்களை அழிப்பதில் இருந்து பாதுகாக்க நீண்ட கால, விஞ்ஞான மற்றும் நிலையான தீர்வை முன்னெடுப்பதற்கான நடவடிக்கைகள் சுற்றாடல் அமைச்சு மற்றும் தொழில்நுட்பம் மற்றும் ஆராய்ச்சி அமைச்சினால் முன்னெடுக்கப்பட்டு வருவதாக அமைச்சரவைப் பேச்சாளரும் அமைச்சருமான நலிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், இந்த பிரச்சினையை உணர்வுபூர்வமாக கையாள வேண்டும் என்றார். புள்ளிவிவரங்களின்படி, சில விலங்கு இனங்களின் தொகை கணிசமாக அதிகரித்துள்ளது, இது மக்களுக்கும் அவர்களின் பயிர்களுக்கும் அன்றாட வாழ்க்கையை முன்னெடுப்பதில் சவாலை ஏற்படுத்துகிறது.
+
+மக்களின் வாழ்வாதாரம், வன விலங்குகளின் உயிர்கள் மற்றும் சுற்றுச்சூழலைப் பாதுகாக்க அரசாங்கம் தற்போது சமமான அணுகுமுறையை நடைமுறைப்படுத்துகிறது என்றும் அவர் கூறினார்.
+
+சுற்றுச்சூழல் ஆர்வலர்கள் மற்றும் அரசு சாரா நிறுவனங்கள் தங்கள் பயிர்களை சேதப்படுத்தும் விலங்குகளுக்கு எதிராக நடவடிக்கை எடுக்க மக்களை அனுமதிப்பது குறித்து தங்கள் கருத்துக்களைக் கூற உரிமை உண்டு. இருப்பினும், நிலையான தீர்வுகளை கண்டறிய விவாதங்கள் அவசியம்.
+
+...
+
+[Data](articles/8323c8b4.json)
+
+---
+
+### இலங்கையை அதிர்ச்சிக்குள்ளாகிய  விமான விபத்து - 191 பேருடன் டச் மார்ட்டின் எயார் விழுந்து நொருங்கி ஐம்பது வருடங்கள்
+
+*2024-12-10 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200883) · `ta`
+
+இலங்கையர்களின் நினைவுகளிலிருந்து என்றும் அகலாத டச்மார்ட்டின் Dutch Martinair DC8    விமான விபத்து நிகழ்ந்து டிசம்பர் நான்காம் திகதியுடன் ஐம்பது வருடங்களாகியுள்ளது.
+
+இந்தோனேசியாவின் சுரபயா சர்வதேச விமானநிலையத்திலிருந்து புறப்பட்ட இந்த விமானம் நோர்ட்டன் பிரிட்ஜின் ஏழு கன்னிமலையில்  மோதி விழுந்துநொருங்கியது.
+
+மக்காவிற்கு சென்றுகொண்டிருந்த யாத்திரிகர்கள் உட்பட 191 பேர் பயணித்துக்கொண்டிருந்த அந்த விமானம் கடும் காடுகள் மத்தியில் காணப்பட்ட மலையில் மோதி விபத்துக்குள்ளானது.விமானத்தின் சிதைவுகள் காணப்பட்ட பகுதியில்  பயணிகளின் உடல்களும் உடமைகளும் சிதறிக்கிடந்தன.
+
+கடல்மைலிற்கு 36000 மீற்றர் மேலே பறந்துகொண்டிருந்த விமானத்தில் தொழில்நுட்ப கோளாறு ஏற்பட்டதை தொடர்ந்து விமானி விமானத்தை கொழும்பு விமானநிலையத்தில் தரையிறக்குவதற்கு அனுமதியை கோரினார்.சிவில் விமானப்போக்குவரத்து அதிகாரிகளின் உத்தரவின்படி விமானி விமானத்தை 4000 மீற்றருக்கு கீழே கொண்டுவந்தார் என குற்றச்சாட்டுகள் வெளியாகியிருந்தன.
+
+...
+
+[Data](articles/4a22e3f5.json)
+
+---
+
+### Sri Lanka secures USD 50 million loan from OPEC Fund for economic recovery
+
+*2024-12-10 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104134/sri-lanka-secures-usd-50-million-loan-from-opec-fund-for-economic-recovery) · `en`
+
+The Government of Sri Lanka has submitted a request to the OPEC Fund for International Development to secure funds to finance Sri Lanka’s Comprehensive Reform Agenda, in line with the Extended Fund Facility (EFF) implemented with the assistance of the International Monetary Fund (IMF).
+
+The institution has agreed to provide a loan of USD 50 million as a policy-based loan, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said this morning (10).
+
+Meanwhile, the IMF has also confirmed that the loan is in line with the parameters of the EFF program in Sri Lanka.
+
+Accordingly, the proposal submitted by the President, in his capacity as the Minister of Finance, Planning and Economic Development, to enter into a Loan Agreement with the OPEC Fund for International Development to obtain the said loan has received the Cabinet approval.
+
+◼️
+
+[Data](articles/d7580e2a.json)
+
+---
+
+### வர்த்தமானி அறிவித்தல் வெளியீடு
+
+*2024-12-10 12:18:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-அறிவித்தல்-வெளியீடு/175-348524) · `ta`
+
+உள்ளூர் அரிசி வகைகளுக்கான அதிகபட்ச சில்லறை மற்றும் மொத்த விலைகளைக் குறிப்பிடும் வர்த்தமானி அறிவித்தல் (2414/02) நுகர்வோர் விவகார அதிகாரசபையால் (CAA) நேற்று வெளியிடப்பட்டது.
+
+வர்த்தமானி வெளியிடப்பட்டதைத் தொடர்ந்து, எந்த உற்பத்தியாளர், தயாரிப்பாளர், விநியோகத்தர் அல்லது வர்த்தகர், கீழே பட்டியலிடப்பட்டுள்ள உள்ளூர் அரிசி வகைகளை நிர்ணயிக்கப்பட்ட அதிகபட்ச விலைக்கு அதிகமாக விற்கவோ, வழங்கவோ, காட்சிப்படுத்தவோ அல்லது விற்பனைக்கு வழங்கவோ கூடாது என CAA உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/2f2eeb93.json)
+
+---
 
 ### Sri Lanka to get $50M IMF deal-linked policy loan from OPEC Fund
 
@@ -47,6 +173,8 @@ Japan, which used to co-finance IMF programs after previous currency crises, cou
 ◼️
 
 [Data](articles/0f20a76f.json)
+
+[Extended Data](ext_articles/0f20a76f.ext.json)
 
 ---
 
@@ -66,23 +194,83 @@ Until a new digital driving license is introduces in place of the currently used
 
 [Data](articles/725ae74a.json)
 
+[Extended Data](ext_articles/725ae74a.ext.json)
+
 ---
 
-### වැඩි මිලට සහල් විකුණන වෙළෙඳුන් සොයා අද සිට වැටලීම්
+### Govt plans economic utilization of presidential residences and VIP homes
+
+*2024-12-10 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104133/govt-plans-economic-utilization-of-presidential-residences-and-vip-homes) · `en`
+
+The Cabinet of Ministers has greenlighted a proposal to introduce a suitable mechanism for the utilization of bungalows, ‘Visumpaya’ and presidential residences in various areas across the island, which are maintained under the administration of the Ministry of Public Administration, in an economically beneficial manner.
+
+Currently, there are 50 government bungalows established around Colombo 05 and 07, in addition to the presidential residences located in Colombo, Kandy, Nuwara Eliya, Mahiyanganaya, Anuradhapura, Kataragama, Jaffna, Embilipitiya and Bentota which are maintained under the administration of the Presidential Secretariat.
+
+However, except for the presidential residences in Colombo and Kandy, the other houses are not used regularly.
+
+In addition to the presidential residences, the official residences of several heads of state are also administered by the Urban Development Authority (UDA).
+
+...
+
+[Data](articles/ad6041ee.json)
+
+---
+
+### Sri Lanka eyes self-sufficiency in food production
+
+*2024-12-10 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104132/sri-lanka-eyes-self-sufficiency-in-food-production) · `en`
+
+Several proposals related to the production of all food items that can be produced in the country, have received the approval of the Cabinet of Ministers.
+
+Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that these measures are expected to be taken under the ‘Food Policy and Security Committee’.
+
+Accordingly, it has been decided to maintain a buffer stock of essential food items sufficient for at least 03 months and to maintain a database of food stocks available in the country.
+
+Furthermore, the preparation and implementation of an effective program with the participation of the private sector for the activities that contribute to food security, such as production, storage, distribution, wholesale and retail trade, have been identified as priority tasks, Dr. Jayatissa added.
+
+...
+
+[Data](articles/e7cb7202.json)
+
+---
+
+### Raids from today to find traders selling rice at higher prices
 
 *2024-12-10 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204226) · `si`
 
-රජය විසින් නිකුත් කළ උපරිම මිල ඉක්මවා සහල් විකුණන වෙළෙඳුන් සොයා අද (10) සිට වැටලීම් සිදුකරන බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+Consumer Affairs Authority conducts raids on rice traders selling above maximum price. Chairman requests merchants to adhere to legal rice prices. Complaints can be filed via hotline 1977 or district offices.
 
-එම අධිකාරියේ සභාපති, හේමන්ත සමරකෝන් මහතා සඳහන් කළේ, ඊයේ (09) දිනයේ දී සහල් සඳහා නියම කෙරුණු උපරිම මිල ඇතුළත් ගැසට් නිවේදනය අනුව එම තීරණය ගත් බවය.
+🟩
 
-නව සහල් මිල ප්‍රකාශයට පත් කර ඇති පසුබිමක එම සහල් මිල ඉක්මවා සහල් අලෙවි කරන ඕනෑම අයෙකුට එරෙහි නීතියානුකූලව කටයුතු කරන බව ද ඒ මහතා කියා සිටියේය.
+The Consumer Affairs Authority (CAA) says that the raids are being carried out from today's maximum price.
 
-"ඒ නිසා මම කාරුණිකව ඉල්ලා සිටිනවා, වෙළෙඳ ප්‍රජාවගෙන්, නිෂ්පාදකයින්ගෙන් හා තොග වෙළෙඳන්ගෙන් වගේම පාරිභෝගිකයින්ගෙන් අප විසින් ප්‍රසිද්ධියට පත්කළ තියෙන මිල අනුව තමන්ගේ සහල් ප්‍රමාණය මිලදී ගන්න. කිසියම් හෝ අකටයුත්තක් හෝ අධික මිලකට සහල් විකිණීමක් සිදුවන්නේ නම් ඒ ගැන පාරිභෝගික අධිකාරියේ 1977 අංකයට පැමිණිලි කළ හැකියි. ඒ වගේම පාරිභෝගික අධිකාරියේ දිස්ත්‍රික් කාර්යාලවලට හා ප්‍රධාන කාර්යාලයට පැමිණිලි කළ හැකියි."
+The Chairman of the Authority, Hemantha Samarakoon said that the decision was taken in terms of the maximum price for rice yesterday (09).
+
+He said that the rice prices published by a new rice price is legal against anyone who sells the rice at the price.
+
+"So I am kindly asking, as well as the merchant community, manufacturers, and wholesale businesses, and buy your rice. If a sales of rice is happening at a particular or amount of rice, a complaint can be lodged with the 1977 of the Consumer Affairs Authority. Also, the Consumer Affairs Authority's District Offices can be lodged to the Head Office. "
 
 ◼️
 
 [Data](articles/aaaca881.json)
+
+[Extended Data](ext_articles/aaaca881.ext.json)
+
+---
+
+### ஜனாதிபதி தலைமையில் கல்வி அமைச்சின் செலவுத் தலைப்பு தொடர்பான கலந்துரையாடல்
+
+*2024-12-10 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/200873) · `ta`
+
+கல்வி அமைச்சின் செலவுத் தொடர்பான ஆரம்ப கலந்துரையாடல்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் ஆரம்பிக்கப்பட்டுள்ளன.
+
+அதன் ஒரு அங்கமாக கல்வி அமைச்சின் செலவுத் தலைப்பு தொடர்பிலான வரவு செலவு திட்ட யோசனைகள் குறித்த கலந்துரையாடல் இன்று செவ்வாய்க்கிழமை (10) முற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+கல்வி, உயர்கல்வி, தொழில் கல்வி அமைச்சர் மற்றும் பிரதமர் ஹரினி அமரசூரிய,கல்வி,  உயர்கல்வி, தொழில் கல்வி பிரதி அமைச்சர் வைத்தியர் மதுர செனவிரத்ன, ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, நிதி அமைச்சின் செயலாளர் மஹிந்த சிறிவர்தன, கல்வி அமைச்சின் செயலாளர் நாலக்க கலுவெவ உட்பட அமைச்சுக்களின் அதிகாரிகள் பலர் இதன்போது கலந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d01064b4.json)
 
 ---
 
@@ -106,39 +294,75 @@ Minister of Foreign Affairs Vijitha Herath had previously stated that Dissanayak
 
 [Data](articles/678e1f56.json)
 
+[Extended Data](ext_articles/678e1f56.ext.json)
+
 ---
 
-### இந்தியா செல்கின்றார் ஜனாதிபதி
+### The President is going to India
 
 *2024-12-10 11:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-செல்கின்றார்-ஜனாதிபதி/175-348523) · `ta`
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்க எதிர்வரும் 15ஆம் திகதி முதல் 17ஆம் திகதி வரை இந்தியாவிற்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொள்ளவுள்ளதாக அமைச்சரவை ஊடகப் பேச்சாளர், அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+Here's a summary in 200 characters:
 
-அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் கலந்து கொண்ட போதே இதை குறிப்பிட்டார்.
 
-இதேவேளை, இந்த விஜயத்தில் ஜனாதிபதியுடன் வெளிவிவகார அமைச்சர் மற்றும் பிரதி நிதியமைச்சர் ஆகியோரும் பங்குபற்றவுள்ளதாக அமைச்சரவை பேச்சாளர் குறிப்பிட்டுள்ளார். R
+
+Pres. Anura Kumara Dissanayake visits India 15-17th. Cabinet Spokesman Nalinda Jayadissa announced. External Affairs & Deputy Finance Ministers join. Visit details:
+
+🟩
+
+President Anura Kumara Dissanayake will make an official visit to India from the 15th to the 17th of this month, Cabinet Media Spokesperson and Minister Nalinda Jayadissa said.
+
+He said this while attending a press conference announcing the Cabinet decisions.
+
+Meanwhile, the Minister of External Affairs and the Deputy Finance Minister will also participate in the visit, the Cabinet spokesman said that the visit will be participated in the visit.. Remble
 
 ◼️
 
 [Data](articles/0d9b3ee1.json)
 
+[Extended Data](ext_articles/0d9b3ee1.ext.json)
+
 ---
 
-### சபாநாயகருக்கு எதிராக எடுக்கும் நடவடிக்கை என்ன?
+### பொலிஸ் உத்தரவை மீறி தப்பிச் சென்ற கார் மீது துப்பாக்கிப் பிரயோகம் !
+
+*2024-12-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200860) · `ta`
+
+கடுவலை, ஹேவாகம பிரதேசத்தில் வீதியில் பயணித்த நபரொருவரை மோதி தப்பி செல்ல முயன்ற கார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக கடுவலை  பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸ் அதிகாரிகள் குழுவொன்று குறித்த காரை நிறுத்துமாறு காரின் சாரதிக்கு உத்தரவிட்டுள்ளனர்.
+
+இதன்போது, காரில் பயணித்த சந்தேக நபர்கள்  பொலிஸ் உத்தரவையும் மீறி அங்கிருந்து தப்பிச ்செல்ல முயன்றதால் பொலிஸார் கார் மீது இரு தடவைகள் துப்பாக்கிப் பிரயோகம் மேற்கொண்டுள்ளனர்.
+
+ஆனாலும் சந்தேக நபர்கள் காரை நிறுத்தாமல் அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/de317fb4.json)
+
+---
+
+### What is the action taken against the Speaker?
 
 *2024-12-10 11:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-எடுக்கும்-நடவடிக்கை-என்ன/175-348522) · `ta`
 
-சபாநாயகர் கலாநிதி அசோக ரன்வல தனது கலாநிதி பட்டம் தொடர்பாக வெளிவரும் பல்வேறு கருத்துகள் தொடர்பில் இன்னும் சில நாட்களில் அறிக்கை வெளியிடுவார் என அமைச்சரவைப் பேச்சாளர் டொக்டர் நலிந்த ஜயதிஸ்ஸ இன்று தெரிவித்தார்.
+Speaker Asoka Ranwala faces scrutiny over doctorate claims. Cabinet spokesperson Dr. Nalinda Jayadissa states that action will be determined after Speaker's statement. Review of qualifications pending verification of allegations. Former Election Commissioner Mahinda Deshapriya challenges Speaker to prove credentials. Decision on next steps to be announced.
 
-சபாநாயகரின் கலாநிதி பட்டம் தொடர்பான செய்திகள் உண்மையாக இருந்தால் அவருக்கு எதிராக என்ன நடவடிக்கை எடுக்கப்படும் என்ற கேள்விக்கு பதிலளித்த அமைச்சர், சபாநாயகரின் அறிக்கைக்குப் பின்னர் அது குறித்து அறிவிக்கப்படும் என்றார்.
+🟩
 
-“சபாநாயகர் தகுதிகள் குறித்து அறிக்கை வெளியிட்ட பிறகு பரிசீலிப்போம்.அறிக்கைகள் உண்மையாக இருந்தால் எடுக்க வேண்டிய முடிவையும், பொய்யாக இருந்தால் எடுக்க வேண்டிய முடிவையும் சொல்கிறேன் " என்றார்.
+Cabinet spokesman Dr. Nalinda Jayadissa today said that Speaker Dr. Asoka Ranwala will report on various comments on his doctorate.
 
-சபாநாயகர் அசோக ரன்வலவின் கலாநிதி பட்டம் தொடர்பாக சமூக ஊடகங்களில் பல்வேறு தகவல்கள் பரவி வருவதுடன், தேர்தல்கள் ஆணைக்குழுவின் முன்னாள் தலைவர் மஹிந்த தேசப்பிரியவும் தற்போதைய சபாநாயகரிடம் கலாநிதி பட்டம் இருப்பது உண்மையென்றால் அதனை நிரூபித்து காட்டுமாறு அண்மையில் சபாநாயகருக்கு சவால் விடுத்திருந்தமையும் குறிப்பிடத்தக்கது.
+Responding to the question of what action would be taken against the Speaker's doctorate, the Minister said that it would be announced after the Speaker's statement.
+
+"We will review the Speaker's qualifications after the report. I will tell you the decision to make if the reports are true and the decision to make if it is false."
+
+Various information has been spreading on social media about the doctor of Speaker Ashoka Ranwala and the former Chairman of the Elections Commission, Mahinda Deshapriya, has recently challenged the Speaker to prove it to prove it.
 
 ◼️
 
 [Data](articles/444b8f14.json)
+
+[Extended Data](ext_articles/444b8f14.ext.json)
 
 ---
 
@@ -169,6 +393,18 @@ Deshapriya also urged the national people to take power if the Speaker did not r
 [Data](articles/95b6d432.json)
 
 [Extended Data](ext_articles/95b6d432.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-12-10 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200867) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (10 ) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின்  கொள்வனவு விலை 286.0210 ரூபாவாகவும் விற்பனை விலை 294.6338 ரூபாவாகவும் பதிவாகியுள்ளமை  குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a86fcf5d.json)
 
 ---
 
@@ -245,6 +481,8 @@ Accordingly, the following appointments and attachments have been approved as pe
 ...
 
 [Data](articles/bc6b907e.json)
+
+[Extended Data](ext_articles/bc6b907e.ext.json)
 
 ---
 
@@ -1945,253 +2183,5 @@ The function, which is essential to carry out the above tasks, has been able to 
 [Data](articles/40a0db4f.json)
 
 [Extended Data](ext_articles/40a0db4f.ext.json)
-
----
-
-### Massive political maneuver in the context of rice shortages;Minister Wasantha Samarasinghe
-
-*2024-12-10 00:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/200838) · `ta`
-
-Samarasinghe: Rice shortage causes political maneuvering. Government buys paddy directly from farmers to address shortage, ensuring no crisis for rice manufacturers.
-
-🟩
-
-Minister of Business, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe said that all parties who defeated the elections together to make the government a crisis.
-
-There is a massive political maneuver in the context of rice shortage. He also said that all maneuvers will be defeated through the law. He mentioned the above when asked about the shortage of essential food products, including rice and coconut.
-
-He said that steps have been taken to address the shortage of rice. He added that it is not our intention to make rice manufacturers crisis or question their industry.
-
-The state structure has been paid to the government structure to buy paddy directly from the farmers and make them rice.
-
-◼️
-
-[Data](articles/6c6d8a43.json)
-
-[Extended Data](ext_articles/6c6d8a43.ext.json)
-
----
-
-### 2024-12-09 (Monday)
-
-### Holiday experience with ‘Christmas Forever’
-
-*2024-12-09 23:37:00* · [`islandlk`](http://island.lk/holiday-experience-with-christmas-forever/) · `en`
-
-Yes, the holiday season is here, so get ready to groove into the festive activities, especially with the JJ Twins’ innovative Christmas album, ‘Christmas Forever.’
-
-The album contains six original R&B-infused tracks that blend Soulful harmonies, Funky beats, Heartfelt lyrics, and a Fresh Holiday Sound.
-
-According to the JJ Twins, ‘Christmas Forever’ is not your typical holiday album. It’s a vibrant, contemporary take on the season, infused with the Twins’ signature style, they say.
-
-The tracks are ‘Christmas Forever’, ‘All I Want Is You This Christmas’, ‘Fell In Love On Christmas Eve’, ‘Home For Christmas’, ‘Joy To The World’ and ‘You & I’.
-
-The twins also mentioned that by purchasing a CD it would help them invest in their future music projects.
-
-...
-
-[Data](articles/4e33a9f1.json)
-
-[Extended Data](ext_articles/4e33a9f1.ext.json)
-
----
-
-### NDB Investment Bank wins Euromoney Award for the 13th consecutive year.
-
-*2024-12-09 23:29:00* · [`islandlk`](http://island.lk/ndb-investment-bank-wins-euromoney-award-for-the-13th-consecutive-year/) · `en`
-
-NDBIB Team from left to right: Darshan Perera – CEO |NDB Investment Bank, Kaushini Laksumanage – COO | NDB Investment Bank and Senaka Kakiriwaragodage – CEO | NDB Capital Holdings Ltd
-
-NDB Investment Bank (NDBIB) has once again been recognized as the “Best Investment Bank in Sri Lanka” by Euromoney Magazine at the Euromoney Awards for Excellence 2024. This milestone marks the 13th consecutive year NDBIB has been honoured with this prestigious award, reaffirming the company’s sustained excellence and undisputed leadership in Sri Lanka’s investment banking landscape. NDBIB remains the only investment bank in Sri Lanka to have secured this award despite an increasingly competitive environment.
-
-...
-
-[Data](articles/0c83803f.json)
-
-[Extended Data](ext_articles/0c83803f.ext.json)
-
----
-
-### Data, AI, and Sri Lanka’s future: What challenges must be overcome for a smarter tomorrow?
-
-*2024-12-09 23:29:00* · [`islandlk`](http://island.lk/data-ai-and-sri-lankas-future-what-challenges-must-be-overcome-for-a-smarter-tomorrow/) · `en`
-
-Unlocking Data for Artificial Intelligence in Sri Lanka: LIRNEasia hosts exclusive forum in Colombo
-
-LIRNEasia hosted a forum on December 7, 2024, titled “Unlocking Data for Artificial Intelligence in Sri Lanka” at the ITC Ratnadipa Hotel, Colombo. The event brought together AI experts, data scientists, policymakers, and industry leaders to explore practical ways to leverage data and artificial intelligence for informed decision-making and meaningful societal and organizational impact.
-
-The session featured several examples of successful and unsuccessful data projects from around the world, offering insights into practical challenges, best practices for initiating data projects, and the importance of addressing ethical concerns and trade-offs in data and AI initiatives.
-
-...
-
-[Data](articles/a98a1dad.json)
-
-[Extended Data](ext_articles/a98a1dad.ext.json)
-
----
-
-### Sri Lankan appointed Vice President, Global Rural Tourism Council
-
-*2024-12-09 23:27:00* · [`islandlk`](http://island.lk/sri-lankan-appointed-vice-president-global-rural-tourism-council/) · `en`
-
-The World Council of Rural Organization driving the global agenda where a typical visitor experiences nature based activities in a village, agriculture, rural lifestyle/ culture and sightseeing has appointed marketing professional and Former Tourism Chairman Dr Rohantha Athukorala as the Vice President of the World Rural Tourism Council( WRTC). Dr Gan Yongfu the Secretary General World Rural Tourism said ‘ We need a person who has value chain development experience linked to brand development which includes export marketing and we are delighted to have Dr Athukorala do this task for the South Asian Region’.
-
-When a majority of households in a country is challenged by the rising cost of living, Rural Tourism has been adopted in many parts of the world as a strategy to drip down the benefits of Tourism at a village level said Dr Athukorala. South Asian countries must adopt this best practice, especially in Sri Lanka he voiced.
-
-...
-
-[Data](articles/4c864704.json)
-
-[Extended Data](ext_articles/4c864704.ext.json)
-
----
-
-### Lower interest rate regime sustains stock market’s positive trend
-
-*2024-12-09 23:25:00* · [`islandlk`](http://island.lk/lower-interest-rate-regime-sustains-stock-markets-positive-trend/) · `en`
-
-Stock market activities were extremely positive yesterday due to the growing lower interest rate regime in the country. This has given some impetus to local and foreign interests in the stock market, market analysts said.
-
-Amid those developments, banking and financial, manufacturing, hotel and plantation sectors were performing well. All Share Price Index was up by 125.3 points while S and P SL20 rose by 32.1 points. Turnover stood at Rs 4.4 billion with eight crossings.
-
-...
-
-[Data](articles/decba914.json)
-
-[Extended Data](ext_articles/decba914.ext.json)
-
----
-
-### US emphasizes commitment to assist Sri Lanka’s energy future
-
-*2024-12-09 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104119/us-emphasizes-commitment-to-assist-sri-lankas-energy-future) · `en`
-
-The United States Ambassador to Sri Lanka, Julie Chung has emphasized commitment to assist Sri Lanka’ s energy future as well as the collaboration for climate adaptation, energy transition, and agricultural sustainability in the country.
-
-During a meeting with Sri Lanka’ s Minister of Energy Kumara Jayakody, the US Ambassador has discussed Sri Lanka’ s energy future and the US-Sri Lanka shared commitment to affordability, sustainability, and security.
-
-Posting on ‘ X’  (formerly Twitter), Ambassador Chung said: “Through USAID Sri Lanka, we’ re proud to support Sri Lankan partners driving climate adaptation in agriculture, fisheries, and tourism, advancing waste management, and fostering innovation with circular economy initiatives and green finance—building a greener, stronger future together.”
-
-...
-
-[Data](articles/b3e92236.json)
-
-[Extended Data](ext_articles/b3e92236.ext.json)
-
----
-
-### Candidates who did not report income expenditure
-
-*2024-12-09 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204207) · `si`
-
-Summary: 1,042 candidates received income expenditure reports out of 7,412 required. No reports from 690 parties/individuals contesting the parliamentary election.
-
-🟩
-
-The Elections Commission says that 1,042 candidates have come forward to receive income expenditure reports.
-
-Accordingly, the Elections Commission (EPL) said that only 7,412 candidates have been given to the due date.
-
-In the 690 parties and independent groups contesting for the parliamentary election, there were no income expenditure.
-
-The number of people who came forward to the last parliamentary elections were given to the presentation of income tax reports to the political parties and independent groups.
-
-◼️
-
-[Data](articles/6c01c186.json)
-
-[Extended Data](ext_articles/6c01c186.ext.json)
-
----
-
-### Complaint against doctor Archana
-
-*2024-12-09 21:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அர்ச்சுனாவுக்கு-எதிராக-முறைப்பாடு/175-348508) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna MP Archana Ramanathan faces complaint from hospital director Dr. T. Sathiyamurthy alleging disruption at Jaffna Bodhana Hospital. Complaint filed with police, citing interference with medical staff work.
-
-🟩
-
-Jaffna MP Archana Ramanathan has lodged a complaint against Jaffna MP Archana Ramanathan for allegedly disrupting the Jaffna Bodhana Hospital.
-
-The complaint filed by the Director of the Hospital Dr. T. Sathiyamurthy said the MP's behavior interferes with the work of medical staff.
-
-The hospital administration has lodged a complaint with the Jaffna police regarding the incident, police said.
-
-◼️
-
-[Data](articles/f0e2be5a.json)
-
-[Extended Data](ext_articles/f0e2be5a.ext.json)
-
----
-
-### Ranil announced from Bar Licens
-
-*2024-12-09 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204206) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former Pres. Ranil Wickremesinghe denies issuing alcohol licenses worth over Rs. 3 billion. Claims licenses were used as political bribes during economic crisis. Government earned Rs. 3.1 billion in excise revenue in first 9 months of the year. Cabinet has authority to grant or revoke revenue permits.
-
-🟩
-
-The office said that former President Ranil Wickremesinghe has not given any alcohol license and has not given any alcohol license that the government has earned over Rs. 3 billion.
-
-The announcement was issued to respondents that Ranil Wickremesinghe has issued alcohol licenses as political bribes.
-
-The President has issued an excise license at a time when the country was economically collapsed by the excise licenses.
-
-The statement stated that the government has earned an income earning Rs. 3.1 billion in the first nine months of this year.
-
-The former presidential office also states that the procedure followed by the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter from the letter of the Excise.
-
-The announcement further shows that the Cabinet has the power to carry out or abolish the formal revenue permits.
-
-◼️
-
-[Data](articles/f7e8894e.json)
-
-[Extended Data](ext_articles/f7e8894e.ext.json)
-
----
-
-### No liquor licenses were issued as bribes: Ex-President Ranil responds to allegations
-
-*2024-12-09 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104118/no-liquor-licenses-were-issued-as-bribes-ex-president-ranil-responds-to-allegations) · `en`
-
-Former President Ranil Wickremesinghe’s office has issued a statement, claiming that the former President did not issue any liquor licenses in violation of the rules and regulations of the Excise Department.
-
-The statement further highlighted that the government has received a revenue of over Rs. 3.1 billion during the first nine months of this year through the new liquor licenses issued during Wickremesinghe’s tenure as the President.
-
-The statement pointed out that the legitimacy of the procedure followed in granting the liquor licenses was verified through the recommendations made in the letter forwarded by the Election Commission to the Commissioner General of Excise on the 19 August 2024.
-
-It further highlights that the incumbent Cabinet of Ministers has the power to renew or revoke these “formal revenue-generating” liquor licenses.
-
-...
-
-[Data](articles/70276fe0.json)
-
-[Extended Data](ext_articles/70276fe0.ext.json)
-
----
-
-### Sweet and Sour Election Results for Ilankai Thamil Arasuk Katchi(ITAK).: On Top in Batticaloa but Down in Jaffna.
-
-*2024-12-09 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85181) · `en`
-
-“Mata Allanda Bariwune,Madakkalappuwa vitharai” (I was unable to capture only Batticaloa)  were the words with which  President Anura Kumara Dissanayake smilingly greeted “Mattakkalappu”MP Shanakiyan Rajaputhiran Rasamanickam in Parliament on 21st November. The president was mingling with the  parliamentarians at the inaugural session of the tenth parliament. Anura was of course alluding to the  November 14  parliamentary election in which the AKD led  JVP-NPP came first in all  electoral districts of Sri Lanka except  Batticaloa. That eastern district went to the Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP).The ITAK won three of the five seats in B’caloa. The other two seats went to the National People’s Power(NPP) and Sri Lanka Muslim Congress(SLMC)respectively
-
-...
-
-[Data](articles/32712fb1.json)
-
-[Extended Data](ext_articles/32712fb1.ext.json)
 
 ---

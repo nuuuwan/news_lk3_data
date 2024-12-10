@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-10 23:14:32**
+As of **2024-12-10 21:43:07**
 
 ## Newspaper Stats
 
-*Scraped **59,523** Articles*
+*Scraped **59,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,123 +16,21 @@ islandlk | 3,585
 economynextcom | 3,618
 dailyftlk | 4,098
 dailymirrorlk | 4,733
-adalk | 5,649
-adaderanalk | 7,246
-tamilmirrorlk | 8,494
-virakesarilk | 9,776
-adaderanasinhalalk | 10,289
+adalk | 5,647
+adaderanalk | 7,244
+tamilmirrorlk | 8,493
+virakesarilk | 9,775
+adaderanasinhalalk | 10,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,468 (99.9%) of 59,523 articles have been extended.
+59,456 (99.9%) of 59,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-10 (Tuesday)
-
-### ஒபெக் நிதியத்துடன் உடன்படிக்கை: அமைச்சரவை அனுமதி
-
-*2024-12-10 22:42:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒபெக்-நிதியத்துடன்-உடன்படிக்கை-அமைச்சரவை-அனுமதி/175-348558) · `ta`
-
-சர்வதேச அபிவிருத்திக்கான ஒபெக் நிதியத்துடன் கடன் உடன்படிக்கையை மேற்கொள்வதற்கு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
-
-சர்வதேச நாணய நிதியத்தின் ஒத்துழைப்புடன் அமுல்படுத்தப்படும் விரிவாக்கப்பட்ட நிதிவசதி திட்டத்துக்கு இணையாக இலங்கையில் மறுசீரமைப்பு முன்னெடுக்கப்பட்டு வருகிறது.
-
-இந்த  திட்டத்துக்கு நிதியளிப்பதற்காக இலங்கை அரசாங்கத்தினால் சர்வதேச அபிவிருத்திக்கான ஒபெக் நிதியத்திடம் கோரிக்கை சமர்ப்பிக்கப்பட்டுள்ளது.
-
-அதற்கமைய, கொள்கை அடிப்படையிலான கடன் திட்டத்தின் கீழ் 50 மில்லியன் அமெரிக்க டொலர் நிதியை வழங்குவதற்குக் அந்த  நிறுவனம் இணக்கம் வெளியிட்டுள்ளது.
-
-அதன்படி, இந்த  கடன் தொகையைப் பெறுவதற்கான உடன்படிக்கைகளை மேற்கொள்வதற்கு நிதியமைச்சர் என்ற வகையில் ஜனாதிபதி சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. (a)
-
-◼️
-
-[Data](articles/978aa294.json)
-
----
-
-### Speaker vows to respond to doctorate controversy at right time
-
-*2024-12-10 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104151/speaker-vows-to-respond-to-doctorate-controversy-at-right-time) · `en`
-
-A controversy has emerged regarding the doctorate allegedly held by the Speaker of Parliament Asoka Ranwala, with opposition parties demanding clarification on whether he genuinely holds a PhD.
-
-They have called on the government to clarify and dispel growing public suspicion surrounding the matter.
-
-The Speaker reportedly used the title “Dr.” in his introductions prior to contesting the general elections. Following his election as Speaker, his name was listed as Dr. Asoka Ranwala on the official website of the Parliament of Sri Lanka.
-
-However, the issue gained attention when university professors and other individuals questioned on social media whether the Speaker’s doctorate was legally granted or recognized.
-
-Adding to the speculation, doubts have been raised about the removal of the title “Dr.” from his name on the Parliament’s website.
-
-Responding to an inquiry made by Ada Derana, Speaker Asoka Ranwala stated that he would address the allegations at the appropriate time.
-
-◼️
-
-[Data](articles/fc0d98ff.json)
-
-[Extended Data](ext_articles/fc0d98ff.ext.json)
-
----
-
-### STF officers refute
-
-*2024-12-10 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204246) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-STF officers cleared of wrongdoing by Balapitiya Magistrate's Court. Incident involved firearm display near Guru Prints School. Suspect shot dead by STF on October 11, 2022. Case adjourned until December 10, 2023.
-
-🟩
-
-Balapitiya Magistrate's Court today dismissed the allegations to the Special Task Force today (10) regarding the police Task Force today.
-
-The shooting was accused when he went to show a firearm in the forestry near the Guru Prints near the Guru Prints Guru School Stadium.
-
-On October 11, 2022, a suspect was arrested on October 12, 2022, to shoot a three-class driver in front of the head of star-class.
-
-It was reported that the STF had attempted to shoot the firearr to the STF personnel to show a firearm in the incident.
-
-The suspect was taken to the Balapitiya Base Hospital with the injured by STF officials.
-
-The deceased has been identified as a 26 year old resident of the Thanamalwila area.
-
-The relatives of the Police Special Task Inspector Inspector Inspector Colombo have been shot dead by the relatives of the Police Special Task Force who was killed while he was pending in the Balapitiya High Court.
-
-...
-
-[Data](articles/13fe3550.json)
-
-[Extended Data](ext_articles/13fe3550.ext.json)
-
----
-
-### Sri Lanka’s new govt should deliver on promise to protect rights – UN
-
-*2024-12-10 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104150/sri-lankas-new-govt-should-deliver-on-promise-to-protect-rights-un-) · `en`
-
-The United Nations Resident Coordinator in Sri Lanka, Marc-André Franche, has expressed hope that the commitment expressed by the new government to protect human rights will be substantial and not merely a spectacle.
-
-Speaking during the national commemoration of International Human Rights Day, Franche also expressed satisfaction with the government’s pledges regarding the protection of human rights.
-
-The Human Rights Commission of Sri Lanka (HRCSL) marked International Human Rights Day with a ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) today, under the theme, “Our Rights, Our Future, Right Now.”
-
-Accordingly, the Chairman of the Human Rights Commission of Sri Lanka, L.T.B. Dehideniya, shared the following details during the ceremony.
-
-“Today, the Human Rights Commission of Sri Lanka will officially launch these publications:
-
-The Status of Manpower Workers: A Study of the Katunayake and Biyagama Free Trade Zones.
-
-...
-
-[Data](articles/c6c54a31.json)
-
-[Extended Data](ext_articles/c6c54a31.ext.json)
-
----
 
 ### Derana is a special award
 
@@ -416,61 +314,21 @@ In addition, the concentration was also focused on the importance of creating an
 
 ---
 
-### 46,000 dengue patients this year
-
-*2024-12-10 18:36:32* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඩෙංගු-රෝගීන්-46000ක්/11-413569) · `si`
-
-Dengue cases surge: 46k reported, 23 deaths. Western Province accounts for most cases. Colombo district reports 11,737 cases, 25.2% of total. Health sector warns of ongoing threat.
-
-🟩
-
-46,546 dengue patients have been reported from January 1 this year (10th).. Of these patients, 20,009 were reported from the Western Province, as a percentage of the entire patients.
-
-The total number of dengue patients reported this year 11,737 dengue patients have been reported from the Colombo district, 25.2% of the total patients.
-
-The health sector points out that 5,759 patients have been reported from the Kalutara district during the past year.
-
-5,099 patients have been reported from the Northern Province, and 4,674 patients have been reported from the Central Province.. 4,645 patients have been reported from the Sabaragamuwa Province, with 10% as a percentage.
-
-2,971 patients have been reported from the North Western Province, with 3,618 patients in the Southern Province.
-
-3,178 dengue patients in November, 3,769 patients were 3,769 in July, 3,769 cases in July.During the month, 2,647 patients were reported during the month of April and Rs.
-
-...
-
-[Data](articles/7518a3ee.json)
-
-[Extended Data](ext_articles/7518a3ee.ext.json)
-
----
-
-### The government has a responsibility to solve the shortage of rice - United Rice Manufacturers Association
+### அரிசி தட்டுப்பாட்டுக்கு உடன் தீர்வுகாண வேண்டிய பொறுப்பு அரசாங்கத்துக்குண்டு - ஐக்கிய அரிசி உற்பத்தியாளர் சங்கம்
 
 *2024-12-10 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200920) · `ta`
 
-Here's a summary of 200 characters:
+அரிசிக்கான கட்டுப்பாட்டு விலை தொடர்பில் வெளியிடப்பட்டுள்ள வர்த்தமானி அறிவித்தலை இரத்துச் செய்து,  அரிசி உற்பத்தியாளர்களுக்கு மாத்திரம் மொத்த விலையை நிர்ணயித்து மீண்டும் வர்த்தமானி அறிவித்தலை வெளியிட வேண்டும். இல்லையேல் சந்தையில் மீண்டும் நெருக்கடி ஏற்படும் ஐக்கிய அரிசி உற்பத்தியாளர் சங்கத்தின் தலைவர் முதித பெரேரா தெரிவித்தார்.
 
+கொழும்பில் உள்ள  ஐக்கிய அரிசி உற்பத்தியாளர் சங்கத்தின் காரியாலயத்தில் செவ்வாய்க்கிழமை (10)  நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
+சந்தையில் நிலவும் அரிசி தட்டுப்பாட்டுக்கு உடன் தீர்வு காண வேண்டிய பொறுப்பு அரசாங்கத்துக்கு உண்டு. அரிசியின் மொத்த மற்றும் சில்லறை விலை நிர்ணயிக்கப்பட்டு வர்த்தமானி அறிவித்தல் பிரசுரிக்கப்பட்டுள்ளது. மொத்த மற்றும் சில்லறை விலை நிர்ணயம் பிரச்சினைக்குரியதாக உள்ளது.
 
-United Rice Manufacturers Association calls for cancellation of rice price control. They demand the government solve the shortage by allowing manufacturers to set prices. Current controls are seen as ineffective and potentially harmful to businesses.
-
-🟩
-
-The Gazette Notification issued on the Control Price for Rice should be canceled and the rice manufacturers must set the total price and re -publish the Gazette Notification again.. Otherwise, the President of the United Rice Manufacturers Association, Muditha Perera, said.
-
-He made this statement during a media briefing held at the United Rice Manufacturers Association's office in Colombo on Tuesday (10).
-
-The government has a responsibility to solve the rice shortage in the market. The total and retail price of the rice is fixed and the gazette notification is published. Total and retail pricing is problematic.
-
-It is noteworthy that a few state officials are acting in a way that the President has paid attention to the problems.. Therefore, the President should be concerned about this.
-
-The current published gazette is found to be cigarette. 225 rupees to buy rice for a total price and sell them for 225 rupees. Total traders will be able to quit business activities by this resolution.
+பிரச்சினைகளுக்கு தீர்வு காண்பதற்கு ஜனாதிபதி அவதானம் செலுத்தியுள்ள நிலையில் எடுக்கப்படும் தீர்மானங்களை நெருக்கடிக்குள்ளாக்கும் வகையில் ஒருசில அரச அதிகாரிகள் செயற்படுவது அவதானத்துக்குரியது. ஆகவே இவ்விடயம் தொடர்பில் ஜனாதிபதி அவதானத்துடன் செயற்பட வேண்டும்.
 
 ...
 
 [Data](articles/bb33518d.json)
-
-[Extended Data](ext_articles/bb33518d.ext.json)
 
 ---
 
@@ -600,33 +458,23 @@ It is noteworthy that the first and second seats have already arrived in Sri Lan
 
 ---
 
-### No unidentified fever in Jaffna, 3 days have died for two days
+### යාපනයේ හඳුනා නොගත් උණ රෝගයක්,  දින දෙකට 03 ක් මිය ගිහින්
 
 *2024-12-10 17:38:22* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-හඳුනා-නොගත්-උණ-රෝගයක්---දින-දෙකට-03-ක්-මිය-ගිහින්/11-413566) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+හදීසි උණරෝගයක් වැළඳීම හේතුවෙන් යාපනය ශීක්ෂණ රෝහලේ ප්‍රතිකාර ලැබූ  රෝගීන්ගෙන් තුන් දෙනෙකු දින දෙකක් තුල මියයාම සම්බන්ධයෙන් අද (10) සිට පරීක්ෂණයක් ආරම්භ කොට ඇති බවට යාපනය රෝහල් අධ්‍යක්ෂක ටී. සත්‍යමූර්ති මහතා පවසා සිටියේය.
 
+යාපනය ශීක්ෂණ රෝහලේ අධ්‍යක්ෂ ටී.සත්‍යමූර්ති මහතා ප්‍රකාශ කලේ එලෙස මියගිය පුද්ගලයින්ගේ  ශරීර කොටස් කීපයක් වැඩිදුර පරීක්ෂණ සදහා කොළඹට යවා ඇති බවයි.
 
+උණ රෝගය වැළදීම නිසා මෙලෙස පුද්ගලයින් රෝහල් ගතව සිටියදී මියගොස් ඇතත් එම උණ රෝගය නිශ්චය වශයෙන් මෙතෙක් හදුණා ගැනීමට පෙර ඔවුන් මියගොස් තිබීම නිසා රෝහලේ වෛද්‍යවරු බරපතල ප්‍රශ්නයකට මුහුණ් පා ඇත.
 
-Fever outbreak in Jaffna: 3 deaths reported. Patients died after recovery from fever. Bodies sent to Colombo for investigation. Hospital facing challenges due to unexpected deaths. Director urges flu and cough patients to get tested immediately.
+යාපනයේ පේදුරුතුඩුව ප්‍රදේශයේ වයස අවුරුදු  42 ක පුද්ගලයෙකු හා නාවට්කුලි ප්‍රදේශයේ වයස අවුරුදු  32 ක පුද්ගලයෙකු මෙන්ම කිළිනොච්චිය රෝහලෙන් යාපනය ශීක්ෂණ රෝහල වෙත මාරු කල වයස අවුරුදු 28 ක පුද්ගලයෙකු මෙලෙස මිය ගොස් තිබේ.
 
-🟩
-
-Three of patients who were receiving treatment at the Jaffna Survey Hospital today (10) has been launched today (10) in connection with the death of two days in two days.. Mr. Aharthmanulhi said.
-
-Director of the Jaffna Hospital T.thumurti said that several bodies of the deceased have been sent to Colombo for further investigations.
-
-Although the fever has been killed, the victims have died when the fever was deceased, but the doctors of the hospital had faced a serious problem due to the death of the fever.
-
-A 42-year-old man, 32, a 32-year-old man, a 32-year-old man, and the Kilinochchi hospital was transferred to the Jaffna Teaching Hospital.
-
-The Director of the Jaffna Hospital, Flu and coughing patients immediately went to the Public Hospital to take a blood sample test immediately.
+යාපනය ශීක්ෂණ රෝහලේ අධ්‍යක්ෂවරයා වැඩිදුරටත් සදහන් කලේ උණ හා කැස්ස වැළදී ඇති රෝගීන් වහාම ළගම පිහිටි රජයේ රෝහල වෙත ගොස් රුධිර සාම්පල පරීක්ෂාවක් සිදු කර ගැනීම ඉතා වැදගත් බවටයි.
 
 ◼️
 
 [Data](articles/af6279ce.json)
-
-[Extended Data](ext_articles/af6279ce.ext.json)
 
 ---
 
@@ -650,169 +498,95 @@ The Development Officers engaged in the demonstration demanding that they be mad
 
 ---
 
-### Final Announcement on Construction Amendment in January: Public Use the Commission
+### ஜனவரியில் மின்கட்டண திருத்தம் தொடர்பில் இறுதி அறிவிப்பு : பொதுப்பயன்பாடுகள் ஆணைக்குழு
 
 *2024-12-10 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200922) · `ta`
 
-Ceylon Electricity Board announces electricity tariff revision review by end-January. Public input sought before final decision. Existing power supply to continue unchanged for 6 months. Hydroelectricity accounts for 56% of total power generation.
+மின் கட்டண திருத்தம் தொடர்பில் இலங்கை மின்சார சபை முன்வைத்த பரிந்துரைகள் மீளாய்வு செய்யப்படுவதுடன், மின் கட்டண திருத்தம் தொடர்பான இறுதி தீர்மானம் எதிர்வரும் ஜனவரி மாதம் மூன்றாம் வாரமளவில் அறிவிக்கப்படும் என இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழு அறிவித்துள்ளது.
 
-🟩
+மின் கட்டண திருத்தம் தொடர்பில் வினவிய போது இலங்கை மின்சார சபையின் பணிப்பாளர் மற்றும் தொடர்பாடல் அதிகாரி ஜயநாத் ஹேரத் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-The Ceylon Electricity Board (CEB )'s recommendations on the Electricity tariff revision will be reviewed and the final decision on the electricity tariff revision will be announced by the third week of January.
+மின் கட்டண  திருத்தம் குறித்து இலங்கை மின்சார சபை முன்வைத்துள்ள பரிந்துரைகளை முழுமையாக பரிசீலனை செய்து வருகிறோம். மின்னுற்பத்தி தொடர்பில் வழங்கப்பட்டுள்ள தரவுகளை மீள்பரிசீலனை செய்யுமாறு வலியுறுத்தியுள்ளோம்.
 
-The Director of the Ceylon Electricity Board and Communication Officer Jayanath Herath said the above.
-
-We are fully reviewing the recommendations made by the Ceylon Electricity Board on the Electricity Tax Corporation. We have urged the retrieval of the data provided in connection with the power supply.
-
-Department experts and public aspirations will be requested in connection with the correctional correction. Following this, a resolution will be announced in the third week of January in the next January.
-
-The Electricity Board has recommended to the Public Utilities Commission that the existing power supply should continue for the next six months without any change.
+மின்கட்டண திருத்தம் தொடர்பில் துறைசார் நிபுணர்கள் மற்றும் பொதுமக்களின் அபிலாசைகள் கோரப்படும். இதனைத் தொடர்ந்து மின்கட்டண திருத்தம் தொடர்பில் எதிர்வரும் ஜனவரி மாதம் மூன்றாம் வாரத்தில் உறுதியான தீர்மானம் அறிவிக்கப்படும் என்றார்.
 
 ...
 
 [Data](articles/9b067d2e.json)
 
-[Extended Data](ext_articles/9b067d2e.ext.json)
-
 ---
 
-### Professor Deepika Udagama is happy with the understanding of the people after the 'Arakalaya' struggle
-
-*2024-12-10 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200924) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Professor Deepika Udagama praises public understanding post-Arakalaya struggle. She emphasizes democracy's foundation on human rights and citizens' role in protecting them. Udagama highlights the importance of social and economic rights in the constitution and calls for increased awareness through civic education.
-
-🟩
-
-People, who have been the ideology of human rights being imposed on us by the West, have realized that democracy is based on human rights after the 'Arakalaya' struggle in 2022, especially in 2022.. Professor Deepika Udagama, a former member of the Sri Lanka Human Rights Commission and the Leader of the University of Peradeniya, said that the government has the responsibility to ensure the rights of the rights.
-
-A special event was organized by the Sri Lanka Human Rights Commission at the Bandaranaike Memorial International Conference Hall in Colombo to commemorate the International Human Rights Day on Tuesday (10).. Deepika Udagama said this as the chief guest at the event.
-
-At the beginning of the speech, he expressed his happiness and congratulations on receiving the 'A' quality of the Human Rights Commission, and pointed out that the priority of the Human Rights Commission on the standardization is essential to the nations and the nations.
-
-...
-
-[Data](articles/7f171fba.json)
-
-[Extended Data](ext_articles/7f171fba.ext.json)
-
----
-
-### Chinese Ambassador confirmed that it will cooperate with all sectors of the country
+### நாட்டின் அனைத்து துறைகளுக்கும் ஒத்துழைப்பை வழங்கவுள்ளதாக சீனjத் தூதுவர் உறுதி
 
 *2024-12-10 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/200927) · `ta`
 
-Chinese Ambassador confirms cooperation across Sri Lanka's sectors, emphasizing support for healthcare. Strong friendship between China and Sri Lanka continues, with China offering full assistance to overcome challenges. Chinese Navy Hospital Ship arrives soon, bringing medical experts to treat patients. Health Minister Bandaranaike expresses gratitude for past contributions, including Colombo National Drugs Division Building and Polonnaruwa Special Hospital. Future health sector advancement proposals discussed during meeting.
+இலங்கை மற்றும் சீன அரசுக்கிடையில் நீண்டகாலமாக நிலவிவரும் நட்புறவு மிகவும் வலுவான நட்புறவாகும். சீன அரசாங்கத்தின் ஒத்துழைப்பை சுகாதாரத் துறைக்கு மாத்திரமின்றி இந்நாட்டின் அனைத்து துறைகளுக்கும் வழங்கி வருகிறோம். எதிர்வரும் காலங்களிலும் அனைத்து துறைகளுக்கும் எமது பூரண ஆதரவை வழங்க தயாராக உள்ளதாக இலங்கைக்கான சீன தூதுவர் கீ.ஷென்ஹொங் (Qi Zhenhong) சுகாதார அமைச்சரிடம் உறுதியளித்தார்.
 
-🟩
+சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் நளிந்த ஜயதிஸ்ஸ மற்றும் இலங்கைக்கான இந்திய தூதுவர் கீ.ஷென்ஹொங் (Qi Zhenhong) ஆகியோருக்கிடையில் சுகாதார அமைச்சில் நேற்று திங்கட்கிழமை (09)ஆம் திகதி இடம்பெற்ற உத்தியோகபூர்வ சந்திப்பின் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
 
-The long -standing friendship between Sri Lanka and the Chinese government is a very strong friendship. We are providing the cooperation of the Chinese government to all sectors of the country but to the Health Department. Chinese Ambassador to Sri Lanka, Qi Zhenhong, assured the Minister of Health that we are ready to provide our full support to all sectors in the coming years.
-
-He made this statement during an official meeting held at the Ministry of Health on Monday (09) between the Minister of Health and Media Media Nalinda Jayatissa and Indian Ambassador to Sri Lanka, Qi Zhenhong.
-
-The long -standing friendship between Sri Lanka and the Chinese government is a very strong friendship. We are providing the cooperation of the Chinese government to all sectors of the country but to the Health Department.
+இலங்கை மற்றும் சீன அரசுக்கிடையில் நீண்டகாலமாக நிலவிவரும் நட்புறவு மிகவும் வலுவான நட்புறவாகும். சீன அரசாங்கத்தின் ஒத்துழைப்பை சுகாதாரத் துறைக்கு மாத்திரமின்றி இந்நாட்டின் அனைத்து துறைகளுக்கும் வழங்கி வருகிறோம்.
 
 ...
 
 [Data](articles/65859745.json)
 
-[Extended Data](ext_articles/65859745.ext.json)
-
 ---
 
-### Awareness rally to win the rights of young people in Mannar
+### மன்னாரில் இளையோரின் உரிமைகளை வென்றெடுக்க விழிப்புணர்வு ஊர்வலம்
 
 *2024-12-10 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200926) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+சர்வதேச மனித உரிமைகள் தினத்தையொட்டி இன்றைய தினம் செவ்வாய்க்கிழமை (10) காலை 11 மணியளவில் மன்னார் சமூக பொருளாதார மேம்பாட்டுக்கான நிறுவனம் (மெசிடோ) ஏற்பாட்டில் இளையோர்களை ஒன்றிணைத்து விழிப்புணர்வு ஊர்வலம் இடம் பெற்றது.
 
+இளையோர்களின் உரிமைகளை வென்றெடுக்கும் வகையில் குரல் கொடுக்கும் முகமாக குறித்த ஊர்வலம் இடம் பெற்றது.
 
+மன்னார் பஜார் பகுதியில் மக்களை கவனயீர்க்கும் வகையில் மேற்கத்தேய இசை வாத்தியம் முன்னெடுக்கப்பட்டது.
 
-Awareness rally for youth rights in Mannar on Int'l Human Rights Day. Procession from Mannar Bazaar to police station, led by human rights activists and civil society reps. Western music played to raise awareness.
+மன்னார் பஜார் பகுதியில் இருந்து குறித்த விழிப்புணர்வு ஊர்வலம் ஆரம்பமாகி மன்னார் பொலிஸ் நிலைய வீதியூடாக சென்று மீண்டும் மன்னார் பஸ் நிலையத்தை வந்தடைந்தது.
 
-🟩
-
-The International Human Rights Day was held at 11 am on Tuesday (10) at 11 am.
-
-The procession took place in the face of the voice of the youth to win the rights of young people.
-
-Western music was carried out in the Mannar Bazaar area.
-
-Awareness procession started from the Mannar Bazaar area and went through the Mannar police station and returned to the Mannar bus station.
-
-Human rights activists, civil society representatives, youth and girls were present at the event chaired by Yatsan Bigrato, Chairman of the Mannar Social Economic Development Institute.
+மன்னார் சமூக பொருளாதார மேம்பாட்டுக்கான நிறுவனத்தின் தலைவர் யாட்சன் பிகிராடோ தலைமையில் இடம்பெற்ற குறித்த நிகழ்வில் மனித உரிமை செயற்பாட்டாளர்கள்,சிவில் சமூக பிரதிநிதிகள்,இளைஞர்,யுவதிகள் என பலர் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/f9d0e779.json)
 
-[Extended Data](ext_articles/f9d0e779.ext.json)
-
 ---
 
-### Heavy decisions at District Coordinating Committee meeting
+### බදුල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමේදී දැඩි තීරණ රැසක්
 
 *2024-12-10 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204240) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+හාලිඇල උනුගොල්ල බංගලාවක් හිටපු පාර්ලිමේන්තු මන්ත්‍රී වඩිවේල් සුරේෂ් මහතා අල්ලාගෙන ඇති බවත් ඔහුව ඉන් වහාම ඉවත් කරන ලෙසට උනුගල්ල වතු පාලනාධිකාරියට දැනුම්දුන් බවත් අමාත්‍ය සමන්ත විද්‍යාරත්න මහතා පැවසීය.
 
+වැවිලි සහ ප්‍රජා යටිතල පහසුකම් අමාත්‍යා සමන්ත විද්‍යාරත්න මහතා මේ බව සඳහන් කළේ අද (10) පැවැති බදුල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමේදීය.
 
+වඩිවේල් සුරේෂ් මහතාව ඉවත් නොකර අසාධාරණ ලෙස කටයුතු කළහොත් වතු සමාගම සමග ඇති ගිවිසුම් අවලංගු කරන බවට ද  අමාත්‍ය සමන්ත විද්‍යාරත්න මහතා අනතුරු ඇඟවීය.
 
-District Coordinating Committee meeting: Minister Samantha Vidyaratne discusses land reforms, cancels agreements, suspends distribution, and orders investigations due to alleged injustices and political interference.
+පසුගිය කාලයේ දික්වැල්ල වත්තේ බංගලාවක නැගෙනහිර පළාත් හිටපු ආණ්ඩුකාර සෙන්දිල් තොන්ඩමන් මහතා අවුරුදු 13ක් බලහත්කාරයෙන් පදිංචිව සිටි බවත් අමාත්‍යවරයා අවධාරණය කළේය.
 
-🟩
+ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාව සතු බදුල්ල දිස්ත්‍රික්කයේ ඉඩම් බෙදාදීම වහාම ක්‍රියාත්මක වනපරිදි තාවකාලිකව අත්හිටුවීමට ද මෙහිදී තීරණය කෙරුණි.
 
-Minister Samantha Vidyaratne said that the Umunululi Adwarded Manager was informed to remove him in Haliela and that he immediately was asked to remove him.
-
-The Ministry of Plantation and Community Infrastructure Samsonantha Vidyaratne was speaking at the Badulla District Coordinating Committee meeting held today (10).
-
-Minister Samantha Vidyratne warned that the agreement with the estate company would be canceled if they were unfair without removing the Vadiwale Suresh without removing unfair.
-
-The Minister emphasized that former Governor Sandil Thondaman was forcibly residents of former Governor, Eastern Province in the recent past.
-
-The distribution of lands in the Badulla District of the Land Reforms Commission also decided to suspend the immediate effect.
-
-This is also the first district coordinating committee meeting in the country after the current government was to power.
-
-Speaking
+වත්මන් රජය බලයට පත්වීමෙන් පසු පැවැත්වූ දිවයිනේ ප්‍රථම දිස්ත්‍රික් සම්බන්ධීකරන කමිටු රැස්වීමද මෙය වෙයි.
 
 ...
 
 [Data](articles/a2b68778.json)
 
-[Extended Data](ext_articles/a2b68778.ext.json)
-
 ---
 
-### If you sell essential food items, including rice, report to the telephone number 1977!
+### அரிசி உள்ளிட்ட அத்தியாவசிய உணவுப் பொருட்களை அதிக விலைக்கு விற்றால் 1977 என்ற தொலைபேசி இலக்கத்திற்கு அறிவியுங்கள் !
 
 *2024-12-10 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200928) · `ta`
 
-Here's a summary of 200 characters:
+அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயிக்கப்பட்டு வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது. குறித்த விலைக்கு மாறாக அதிக விலைக்கு அரிசியை விற்பனை செய்யும் நபர்களுக்கு எதிராக கடும் சட்ட  நடவடிக்கை எடுக்கப்படும். அரிசி உட்பட அத்தியாவசிய உணவுப் பொருட்களை அதிக விலைக்கு விற்பனை செய்பவர்கள் தொடர்பில் பொதுமக்கள் 1977 என்ற தொலைபேசி இலக்கத்தின் ஊடாக முறைப்பாடளிக்கலாம் என நுகர்வோர் அதிகார சபையின் பணிப்பாளர் ஹேமந்த சமரகோன் தெரிவித்தார்.
 
+நுகர்வோர் அதிகார சபையின் காரியாலயத்தில் செவ்வாய்க்கிழமை (10) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-
-Rice price control implemented. Gazette notification issued. High sellers face strict action. Public can report to 1977. Testing of rice mills underway. Avoid overbuying due to potential shortages. Steps taken for uninterrupted supply during festivals. Report smuggling to local authorities.
-
-🟩
-
-Control pricing for rice has been fixed and the gazette notification has been released. Strict legal action will be taken against persons who sell rice at high prices. The Director of the Consumer Affairs Authority Hemantha Samarakoon said that the public can lodge a complaint with the telephone number 1977 regarding the high prices of essential food items, including rice.
-
-He was speaking at a media briefing held at the Consumer Affairs Authority's office on Tuesday (10).
-
-Control pricing for rice has been fixed and the gazette notification has been released. We have expanded the process of testing rice mills across the country. Rice manufacturers must provide full cooperation for these testing activities.
-
-Control pricing for rice has been fixed and the Gazette Notification has been published. Rice must be sold at the total and retail price as a fixed price. Strict action will be taken against those who sell rice at a higher price rather than the control price.
+அரிசிக்கான கட்டுப்பாட்டு விலை நிர்ணயிக்கப்பட்டு வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது. நாடளாவிய ரீதியில் உள்ள அரிசி ஆலைகளை சோதனை செய்யும் நடவடிக்கைகளை விரிவுப்படுத்தியுள்ளோம். அரிசி உற்பத்தியாளர்கள் இந்த சோதனை நடவடிக்கைகளுக்கு முழுமையான ஒத்துழைப்பு வழங்க வேண்டும்.
 
 ...
 
 [Data](articles/48f5d5ce.json)
-
-[Extended Data](ext_articles/48f5d5ce.ext.json)
 
 ---
 
@@ -865,22 +639,6 @@ Control pricing for rice has been fixed and the Gazette Notification has been pu
 ...
 
 [Data](articles/a9a3ae58.json)
-
----
-
-### ශ්‍රී පාද වන්දනාවේදී පොලිතීන් ප්ලාස්ටික් රැගෙන එන්න එපා
-
-*2024-12-10 17:11:49* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවේදී-පොලිතීන්-ප්ලාස්ටික්-රැගෙන-එන්න-එපා/11-413564) · `si`
-
-ශ්‍රී පාදය වන්දනා කිරීම සඳහා යාමේදී පොලිතීන් ප්ලාස්ටික් ඇතුළු කසළ එම ප්‍රදේශයට බැහැර කිරීමෙන් වැළකී සිටින ලෙස මධ්‍යම පරිසර අධිකාරිය ශ්‍රී පාදය වන්දනා කිරීම සඳහා පැමිණෙන බැතිමතුන්ගෙන් ඉල්ලා සිටියි.
-
-මෙවර ශ්‍රී පාද වන්දනා සමය 2024 දෙසැම්බර් මස 14 වන දිනට යෙදෙන උඳුවප් පුර පසළොස්වක පොහෝ දිනයෙන් ආරම්භ වන අතර 2025 වර්ෂයේ වෙසක් පුර පසළොස්වක පොහෝ දිනයෙන් අවසන් වේ. සාමාන්‍යයෙන් බැතිමත්හු විශාල සංඛ්‍යාවක් ශ්‍රී පාදය කරුණා කිරීම සඳහා මෙම කාල සීමාවේ දී ශ්‍රී පාදස්ථානය වෙත පැමිණෙති. ශ්‍රී පාදස්ථානය පිහිටා තිබෙන්නේ සමනල ස්වභාව රක්ෂිතයෙහි ය.
-
-යුනෙස්කෝ සංවිධානය 2010 වර්ෂයේ දී ලෝක උරුමයක් ලෙස නම් කර ඇති මෙම ස්වභාව රක්ෂිතය ඉතා සංවේදී පරිසර කළාපයක් ලෙස හඳුනාගෙන ඇත. ශ්‍රී ලංකාවට ආවේණික ශාක වැඩී තිබෙන මෙම අභය භූමියෙහි ශ්‍රී ලංකාවට ආවේණික සත්තු ද වාසය කරති. ශ්‍රී ලංකාවේ ප්‍රධාන ගංගා ආරම්භවන ජල මූලාශ්‍ර සමනල ස්වභාව රක්ෂිතයෙන් ආරම්භ වේ.
-
-...
-
-[Data](articles/55cf849c.json)
 
 ---
 
@@ -2389,5 +2147,167 @@ Meanwhile, the Minister of External Affairs and the Deputy Finance Minister will
 [Data](articles/0d9b3ee1.json)
 
 [Extended Data](ext_articles/0d9b3ee1.ext.json)
+
+---
+
+### பொலிஸ் உத்தரவை மீறி தப்பிச் சென்ற கார் மீது துப்பாக்கிப் பிரயோகம் !
+
+*2024-12-10 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200860) · `ta`
+
+கடுவலை, ஹேவாகம பிரதேசத்தில் வீதியில் பயணித்த நபரொருவரை மோதி தப்பி செல்ல முயன்ற கார் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக கடுவலை  பொலிஸார் தெரிவித்தனர்.
+
+இதனையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிஸ் அதிகாரிகள் குழுவொன்று குறித்த காரை நிறுத்துமாறு காரின் சாரதிக்கு உத்தரவிட்டுள்ளனர்.
+
+இதன்போது, காரில் பயணித்த சந்தேக நபர்கள்  பொலிஸ் உத்தரவையும் மீறி அங்கிருந்து தப்பிச ்செல்ல முயன்றதால் பொலிஸார் கார் மீது இரு தடவைகள் துப்பாக்கிப் பிரயோகம் மேற்கொண்டுள்ளனர்.
+
+ஆனாலும் சந்தேக நபர்கள் காரை நிறுத்தாமல் அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/de317fb4.json)
+
+---
+
+### What is the action taken against the Speaker?
+
+*2024-12-10 11:40:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-எடுக்கும்-நடவடிக்கை-என்ன/175-348522) · `ta`
+
+Speaker Asoka Ranwala faces scrutiny over doctorate claims. Cabinet spokesperson Dr. Nalinda Jayadissa states that action will be determined after Speaker's statement. Review of qualifications pending verification of allegations. Former Election Commissioner Mahinda Deshapriya challenges Speaker to prove credentials. Decision on next steps to be announced.
+
+🟩
+
+Cabinet spokesman Dr. Nalinda Jayadissa today said that Speaker Dr. Asoka Ranwala will report on various comments on his doctorate.
+
+Responding to the question of what action would be taken against the Speaker's doctorate, the Minister said that it would be announced after the Speaker's statement.
+
+"We will review the Speaker's qualifications after the report. I will tell you the decision to make if the reports are true and the decision to make if it is false."
+
+Various information has been spreading on social media about the doctor of Speaker Ashoka Ranwala and the former Chairman of the Elections Commission, Mahinda Deshapriya, has recently challenged the Speaker to prove it to prove it.
+
+◼️
+
+[Data](articles/444b8f14.json)
+
+[Extended Data](ext_articles/444b8f14.ext.json)
+
+---
+
+### Speaker of the Speaker
+
+*2024-12-10 11:26:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகரின்-கலாநிதி-பட்டம்-இணையத்தில்-இருந்து-நீக்கம்/175-348521) · `ta`
+
+Sri Lanka Speaker Ashoka Ranwala's educational qualifications disputed. Website removes "Dr." title. Former Election Commissioner challenges doctorate claim. Cabinet spokesperson promises response to allegations.
+
+🟩
+
+Amidst allegations of Speaker Ashoka Ranwala's educational qualification, the Sri Lankan parliamentary website has removed the term 'kalanidhi' from his profile.
+
+Previously, it was referred to as 'Dr.' Azoka Ranwala, and now his name appears to be the Ashoka Ranwala MP, which raises further doubts about whether he is legal.
+
+From the profile of the Speaker. 'It has been reported that the website has been renewed within the last 24 hours to remove the title of 'Dr.'.
+
+However, archived versions and Google search results will still show the topic, while it cannot be added to the current profile.
+
+The controversy erupted after social media enthusiasts questioned their credentials on their Facebook, which led to general calls for accountability.
+
+Former Elections Commission Chairman Mahinda Deshapriya has also challenged the Speaker's doctorate to prove the title.
+
+Deshapriya also urged the national people to take power if the Speaker did not respond.
+
+...
+
+[Data](articles/95b6d432.json)
+
+[Extended Data](ext_articles/95b6d432.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-12-10 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200867) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (10 ) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின்  கொள்வனவு விலை 286.0210 ரூபாவாகவும் விற்பனை விலை 294.6338 ரூபாவாகவும் பதிவாகியுள்ளமை  குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a86fcf5d.json)
+
+---
+
+### Change in the weather in 36 hours
+
+*2024-12-10 11:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணித்தியாலங்களில்-வானிலையில்-ஏற்படவுள்ள-மாற்றம்/175-348520) · `ta`
+
+Weather alert: Rain/thunderstorms forecasted for Northern, Central, Eastern Provinces & Galle/Matara districts within 36 hours. Heavy rainfall (75mm) expected in Western & Sabaragamuwa provinces. Strong winds (up to 60km/h) in Southwest Bengal Bay. Snowfall predicted in Central, Sabaragamuwa, South, Uva, Upper & North Western provinces. Public advised to take precautions against heavy winds and lightning.
+
+🟩
+
+It has been announced that rain or thunderstorms are expected in the Northern, North Central and Eastern Provinces and Galle and Matara districts for the next 36 hours.
+
+In addition, the Department of Meteorology has predicted that the low winds in the southeastern Bengal bay waters will reach the Sri Lankan -Tamil Nadu waters by the 11th.
+
+Meanwhile, 75 mm of heavy rainfall is expected in some places in the Western and Sabaragamuwa provinces and Galle and Matara districts.
+
+Fishermen and maritime employees have been warned not to go to areas as the windmill is still in the seas of the Southwest Bengal Bay.
+
+Accordingly, the winds in the seas are likely to increase at speeds of up to 60 kilometers.
+
+The Central, Sabaragamuwa, South, Uva, Upper and North Western provinces are expected to be snowy in the morning.
+
+The Department of Meteorology has advised the public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
+
+◼️
+
+[Data](articles/2dc58d44.json)
+
+[Extended Data](ext_articles/2dc58d44.ext.json)
+
+---
+
+### Cabinet spokesman's answer in Speaker's Teaching
+
+*2024-12-10 11:11:14* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගේ-ආචාර්ය-උපාධිය-ගැන-කැබිනට්-ප්‍රකාශකගේ-පිළිතුර/11-413552) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Speaker Asoka Ranwala's PhD status unclear. Cabinet Spokesperson Nalinda Jayatissa promises explanation soon. Doctorate details missing from official records.
+
+🟩
+
+Cabinet Spokesperson Minister Nalinda Jayatissa said that he will give an answer in the next few days to the problem with Speaker Asoka Ranwala.
+
+He was responding to a question referred to a question referred to at a media briefing held today (10).
+
+Q. There was talk of the last days regarding the Speaker's PhD. Nothing has been submitted to the doctorate for any parties. Dr. The Do Dr. has been removed at the Parliamentary Web site at present. What is the real situation of this doctorate?
+
+A. The Speaker makes a clear statement in this regard.
+
+◼️
+
+[Data](articles/fe88549e.json)
+
+[Extended Data](ext_articles/fe88549e.ext.json)
+
+---
+
+### New appointments for key positions in departments under Finance Ministry
+
+*2024-12-10 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104130/new-appointments-for-key-positions-in-departments-under-finance-ministry) · `en`
+
+The Cabinet of Ministers has approved several appointments for Senior Management in the departments affiliated with the Ministry of Finance, Planning and Economic Development.
+
+Accordingly, the following appointments and attachments have been approved as per the proposals submitted by the President Anura Kumara Dissanayake as the Minister of Finance, Planning and Economic Development:
+
+1. The appointment of M.K. Pradeep Kumara, a Special Grade Officer of the Sri Lanka Administrative Service, serving as the Additional Director General of the Comptroller General’s Office, to the vacant post of Director General of the Department of Trade and Investment Policy.
+
+2. The appointment of P.M.K. Hettiarachchi, a Grade 1 Officer of the Sri Lanka Planning Service, serving as a Director of the Department of Development Finance, as the Acting Director General of the Department of Development Finance on a full-time basis.
+
+...
+
+[Data](articles/bc6b907e.json)
+
+[Extended Data](ext_articles/bc6b907e.ext.json)
 
 ---

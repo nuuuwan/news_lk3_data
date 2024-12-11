@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 16:28:15**
+As of **2024-12-11 17:00:46**
 
 ## Newspaper Stats
 
-*Scraped **59,618** Articles*
+*Scraped **59,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 604
 bbccomsinhala | 622
 islandlk | 3,595
-economynextcom | 3,627
+economynextcom | 3,631
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,661
-adaderanalk | 7,261
-tamilmirrorlk | 8,512
+adalk | 5,662
+adaderanalk | 7,262
+tamilmirrorlk | 8,513
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
 
@@ -26,11 +26,127 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,595 (100.0%) of 59,618 articles have been extended.
+59,597 (100.0%) of 59,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### Sri Lanka rupee closes stronger at 290.25/30 to dollar, bonds down
+
+*2024-12-11 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-25-30-to-dollar-bonds-down-193648/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.25/30 to the US dollar on Wednesday from 290.30/35 to the US dollar on Tuesday, dealers said, while bond yields continued to decline.
+
+A bond maturing on 15.12.2026 closed at 9.35/50 percent, down from 9.40/50 percent.
+
+A bond maturing on 15.10.2027 closed at 9.85/10.00 percent, down from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2029 closed at 10.75/90 percent, down from 10.80/95 percent.
+
+A bond maturing on 01.05.2031 closed at 11.25/40 percent. (Colombo/Dec11/2024)
+
+◼️
+
+[Data](articles/cf57a87f.json)
+
+---
+
+### Sri Lanka stocks close up, JKH sees interest
+
+*2024-12-11 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-sees-interest-193640/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI kept edging up further to close up 0.80 percent, or 110.13 points, at 13,885; while the more liquid S&P SL20 Index closed up 0.73 percent, or 29.87 points, at 4,143.
+
+Turnover was 6 billion. Major contributing sectors were capital goods (Rs1.7bn), and diversified financials sectors (Rs898mn).
+
+John Keells Holdings contributed over 1 million rupees to the turnover, and the share closed up at 21.20.
+
+Top positive contributors to the ASPI were Ceylon Beverage Holdings (up at 2,848.25), LOLOC Holdings (up at 536.25), Sampath Bank (up at 102.75), Melstacorp (up at 108.00), and John Keells Holdings (up at 21.00).
+
+There was foreign net outflow of 393 million rupees. (Colombo/Dec11/2024)
+
+◼️
+
+[Data](articles/2fb608de.json)
+
+---
+
+### ’’அவரிடமிருந்து விலகி இருப்பது நல்லது’’
+
+*2024-12-11 16:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரிடமிருந்து-விலகி-இருப்பது-நல்லது/175-348589) · `ta`
+
+பாராளுமன்ற சபாநாயகர் அசோக சபுமல் ரன்வலவின் கல்வித் தகுதிகளின் நம்பகத்தன்மை தொடர்பில் அதிகரித்து வரும் குற்றச்சாட்டுகளுக்கு மத்தியில், அவருடனான தொடர்புகளை இராஜதந்திர சமூகம் தற்காலிகமாக இடைநிறுத்த வேண்டுமென ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) யாழ் மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+
+சமீபத்தில் நடந்து முடிந்த பாராளுமன்றத் தேர்தலுக்கான பிரச்சாரத்தின் போது "கலாநிதி" என்ற பட்டத்தைப் பயன்படுத்தி ரன்வல தனது நற்சான்றிதழ்களை தவறாக சித்தரித்தார் என ஒரு காசிலிங்கம் விசனம் தெரிவித்தார்.
+
+சபாநாயகர் முனைவர் பட்டம் பெறக்கூடாது என்று குற்றச்சாட்டுகள் எழுந்துள்ளன, இது அவரது நேர்மை மற்றும் பொறுப்புக்கூறல் குறித்து கேள்விகளை எழுப்புகிறது.
+
+"போலித் தகுதிகளை சித்தரித்த சபாநாயகர் ஒருவர் இலங்கையில் இருப்பது ஏற்றுக்கொள்ள முடியாதது" என்று காசிலிங்கம் கூறினார். "இந்த வெளிப்படையான மோசடிக்கு பொதுமக்களுக்கு விளக்கம் வழங்க வேண்டும்" என்றார்.
+
+...
+
+[Data](articles/ad24c901.json)
+
+---
+
+### Sri Lanka sells Rs206bn in treasury bills, yields down across maturities
+
+*2024-12-11 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs206bn-in-treasury-bills-yields-down-across-maturities-193631/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 206 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield was down 4 basis points 8.69 percent, with all offered 76 billion rupees of bills sold.
+
+The 6-month yield was down 6 basis points at 8.8 percent, with all offered 90 billion rupees of bills sold.
+
+The 12-month bills was down 1 basis point at 9.07 percent, with all offered 40 billion rupees of bills sold.
+
+All three maturities were offered on tap after the auction. (Colombo/Dec11/2024)
+
+◼️
+
+[Data](articles/f937f82c.json)
+
+[Extended Data](ext_articles/f937f82c.ext.json)
+
+---
+
+### දික්වැල්ලගේ තරග තහනම අවසන්
+
+*2024-12-11 15:45:16* · [`adalk`](https://www.ada.lk/sports/දික්වැල්ලගේ-තරග-තහනම-අවසන්/9-413581) · `si`
+
+මත්ද්‍රව්‍ය භාවිත කිරිමේ චෝදනාවට වරදකරු වී වසර තුනක ක්‍රිකට් තහනමක් පනවා තිබූ ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ලගේ එම තහනම අවසන් කිරීමට ක්‍රිකට් ආයතනය කටයුතු කර තිබේ.
+
+අදාළ තරග තහනම සම්බන්ධයෙන් ඔහු යොමුකළ අභියාචනාවක් අනුව මෙම තීරණය ගෙන තිබේ. එහිදී දික්වැල්ලට පැනවූ වසර තුනක ක්‍රිකට් තහනම මාස තුනක් දක්වා අඩුකර තිබේ.
+
+ඒ අනුව සැප්තැම්බරයේදී ඔහුට ක්‍රිකට් තහනමක් පනවා තිබූ අතර මාස තුනක් එය ක්‍රියාත්මක වීම හේතුවෙන් දික්වැල්ලට පනවා තිබූ තරග තහනම ඉවත් වෙනු ඇත.
+
+ඒ අනුව ඔහුට සියලුම ආකාරයෙන් ක්‍රිකට් ක්‍රීඩා කිරීමට අවස්ථාව ලැබෙයි. මෙවර ශ්‍රී ලංකා ප්‍රිමියර් ලීග ක්‍රිකට් තරගාවලියේදී ගාලු කණ්ඩායමේ නායකයා වශයෙන් කටයුතු කළ දික්වැල්ලගෙල් ලබාගත් මුත්‍රා සාම්පලවල ඔහු කොකේන් මත්ද්‍රව්‍ය භාවිත කර තිබූ බවට තහවුරු විය.
+
+◼️
+
+[Data](articles/c0a890e8.json)
+
+---
+
+### Person arrested with narcotics worth Rs. 130 million in Kahathuduwa
+
+*2024-12-11 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104167/person-arrested-with-narcotics-worth-rs-130-million-in-kahathuduwa) · `en`
+
+The Police Special Task Force (STF) has arrested a person while in possession of a stock of narcotics in Kahathuduwa.
+
+The Police said that the person was in possession of 05 kilograms of heroin, 1.6 kilograms of ‘Ice’ drugs (Crystal Methamphetamine) and 800 pills of Ecstasy at the time of his arrest.
+
+The street value of the seized drugs is believed to around Rs. 130 million, according to police.
+
+◼️
+
+[Data](articles/6b6935ab.json)
+
+---
 
 ### If this is gone, it will not be milk in January first
 
@@ -57,6 +173,28 @@ Oh we don't have the names of our villages. There is a very stronghold of the in
 [Data](articles/d420a12c.json)
 
 [Extended Data](ext_articles/d420a12c.ext.json)
+
+---
+
+### Sri Lanka to miss 2024 tourist arrival target; eyes over $3bn annual revenue
+
+*2024-12-11 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-miss-2024-tourist-arrival-target-eyes-over-3bn-annual-revenue-193591/) · `en`
+
+ECONOMYNEXT – Sri Lanka is likely to miss its 2023 target of 2.3 million tourist arrivals despite a pick up in the numbers in the current tourism season, with the island nation likely to reach over $3 billion earnings from tourism, official data showed.
+
+The island nation has received 1.85 million tourists up to December 8 this year, compared to 1.49 million last year.
+
+Industry stakeholders said Sri Lanka will not be able to attract another 450,000 tourists in the last 23 days of the month.
+
+Tourism is seen as the key catalyst for Sri Lanka’s recovery from an unprecedented economic crisis and bankruptcy declared in 2022.
+
+The island is popular for nature with beaches and tropical climate, with most European and Western tourists choosing it as the key destination during their winter season falling from November to February.
+
+...
+
+[Data](articles/c57f9438.json)
+
+[Extended Data](ext_articles/c57f9438.ext.json)
 
 ---
 
@@ -2167,169 +2305,5 @@ According to the Minister of Agriculture, Livestock, Land and Irrigation to prov
 [Data](articles/c50c2eef.json)
 
 [Extended Data](ext_articles/c50c2eef.ext.json)
-
----
-
-### Sri Lanka praises US State Dept for sanction against Rajapaksa allies
-
-*2024-12-10 18:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-praises-us-state-dept-for-sanction-against-rajapaksa-allies-193382/) · `en`
-
-ECONOMYNEXT – Sri Lanka government has given a thump up for the U.S. State Department for imposing sanctions on two of Sri Lanka’s for president Mahinda Rajapaksa’s allies – ex-envoy to Russia Udayanga Weeratunga and former Sri Lankan Airline’s chief executive Kapila Chandrasena.
-
-Both officials served under former leader President Rajapaksa’s two terms from 20o5-2015.  The MiG aircraft deal goes back to Rajapaksa’s first term when the country was fighting the final phase of a 26-year war, while the airbus deal took place in Rajapaksa’s second term.
-
-The US State Department said Chandrasena accepted a bribe while serving in his capacity as Sri Lankan Airlines CEO in exchange for ensuring Sri Lanka purchased Airbus aircraft above the market value while Weeratunga was named over the MiG aircraft deal for the Sri Lanka Air Force.
-
-The sanction covers both two individuals and their immediate family members.
-
-...
-
-[Data](articles/d21af5a2.json)
-
-[Extended Data](ext_articles/d21af5a2.ext.json)
-
----
-
-### Shooting on car that collided with a woman
-
-*2024-12-10 18:46:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-மோதவந்த-கார்-மீது-துப்பாக்கிச்-சூடு/175-348555) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Car shooting incident: Police opened fire on a vehicle near Kaduwela police station after a woman reported being pursued on a motorcycle. The car escaped despite shots fired. Investigations ongoing."
-
-🟩
-
-Police have fired a car near the Kaduwela police station this morning (10).
-
-A woman has telephoned the Kaduwela police station and said that she was on a motorcycle and followed her to kill her.
-
-On the advice of the police station officer, the police officer in charge of the night duty and the police officer at the main gate were ready to stop the car, which was ready to stop the car on the back of the motorcycle.
-
-At the time, an officer at the police station fired at the car, but the car escaped.
-
-Several investigations are involved in the arrest of car and driver. Remble
-
-◼️
-
-[Data](articles/fe89c2c4.json)
-
-[Extended Data](ext_articles/fe89c2c4.ext.json)
-
----
-
-### බීමත් රියදුරන් අත්අඩංගුවට ගන්නා පොලිස් නිලධාරීන්ට ගෙවිය යුතු ත්‍යාග මුදල් කිසිවක් 2023දී ගෙවා නෑ
-
-*2024-12-10 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්-රියදුරන්-අත්අඩංගුවට-ගන්නා-පොලිස්-නිලධාරීන්ට-ගෙවිය-යුතු-ත්‍යාග-මුදල්-කිසිවක්-2023දී-ගෙවා-නෑ/11-413570) · `si`
-
-බීමත් රියදුරන් අත් අඩංගුවට ගන්නා පොලිස් නිලධාරීන්ට එක් අත් අඩංගුවට ගැනීමක් වෙනුවෙන් රුපියල් 2,500 ක ත්‍යාග මුදලක් පොලිස් ත්‍යාග අරමුදල විසින් ගෙවිය යුතු වුවත් 2023 වර්ෂයේදී එම ත්‍යාග මුදල් කිසිවක් ගෙවා නොමැති බව ජාතික විගණන කාර්යාලය විසින් 2023 වර්ෂයට අදාළව කරන ලද විගණන පරීක්ෂාවේදී තහවුරු වී තිබේ.
-
-අහඹු ලෙස පොලිස් ස්ථාන 18 ක් යොදා ගෙන සිදු කරන ලද මෙම පරීක්ෂණයේදී එම පොලිස් ස්ථාන 18 මගින් 2023 වර්ෂයේදී බීමත් රියදුරන් 5449 ක් අත් අඩංගුවට ගෙන තිබෙන බවත්, ඒ අනුව පොලිස් ත්‍යාග අරමුදල ඔවුන්ට නොගෙවන ලද මුදල රුපියල් 13,622,500ක් බවත් අදාළ විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
-
-2018 අංක 19 දරන ජාතික විගණන පනත සහ 1971 අංක 38 දරන මුදල් පනත අනුව 2023.12.31 දක්වා පොලිස් ත්‍යාග අරමුදලේ කටයුතු සම්බන්ධයෙන් ජාතික විගණන මහ ලේකම් කාර්යාලය මගින් සිදු කරන ලද විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සඳහන් වේ.
-
-...
-
-[Data](articles/6590af20.json)
-
----
-
-### Actor Dulquer Salman's Samudrakani's' Mr.. Gem 'image preview
-
-*2024-12-10 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/200904) · `ta`
-
-Dulquer Salman congratulates Samudrakani on his new film "Gem". Directed by Nanda Periyasamy, it features a talented cast including Bharathiraja and Ananya. Music by Vishal Chandrasekhar, produced by GP Rekha Ravikumar and others. Released this month, it focuses on human emotions and nature.
-
-🟩
-
-Samudrakani, one of the best character actors of the Tamil film industry, is the hero of the story 'Mr.. The preview of the movie 'Gemikam' has been released. Ban Indian star Dulquer Salman posted a hat -trick success through the film 'Lucky Bhaskar' and congratulated Samudrakani and the film crew.
-
-Directed by Director Nanda Periyasamy. Samudrakani, Bharathiraja, Ananya, Thambi Ramaiah, Nasser, Chinni Jayant, Vadivakarasi, Karunakaran, Sulil Kumar, Crazy, Chandru, Sams, Sriman. M.. Vishal Chandrasekhar has composed the film, which has been recorded by Sukumar.
-
-The film has been produced by GP Rekha Ravikumar, Sinda Gopalakrishna Reddy and Raja Senthil on behalf of GBR Cinemas.
-
-The film has been released this month. The mountain is a biological work of the gem living in the mountainous region, and the scenes are emotionally and focusing on humanity.
-
-◼️
-
-[Data](articles/5a4d6f00.json)
-
-[Extended Data](ext_articles/5a4d6f00.ext.json)
-
----
-
-### அடுத்த வருடம் கடுமையான மருந்து தட்டுப்பாடு ஏற்படலாம் - மருத்துவ மற்றும் சிவில் உரிமைகளுக்கான சங்கம் எச்சரிக்கை விடுப்பு !
-
-*2024-12-10 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200917) · `ta`
-
-அடுத்த வருடத்துக்கு தேவையான மருந்து கொள்வனவு இவ்வருடத்தின் மூன்றாம் காலாண்டுக்குள் நிறைவு பெற்றிருப்பது அவசியம். எனினும் சுகாதார அமைச்சு இது குறித்து ஆர்வம் செலுத்தாமையினால் அடுத்த வருடம் பொதுமக்கள் கடுமையான மருந்து தட்டுப்பாட்டை எதிர்க்கொள்ள வேண்டியேற்படலாம்  என மருத்துவ மற்றும் சிவில் உரிமைகளுக்கான சங்கத்தின் தலைவர் விசேட வைத்திய நிபுணர் சமல் சஞ்சீவ எச்சரித்துள்ளார்.
-
-அடுத்த வருடத்துக்குள்ள நாட்டில் அத்தியாவசிய மருந்துகளுக்கு தட்டுப்பாடு ஏற்படலாம். மருந்துகளை கொள்வனவு செய்வதற்கான ஆவணங்கள் உரிய நேரத்தில் சமர்ப்பிக்கப்படாமையால் இவ்வாறான நெருக்கடி  உருவாகக் கூடிய நிலை ஏற்பட்டுள்ளது. ஹீமோபிலியா நோயாளர்களுக்கு குருதி வெளியேற்றத்தைக் கட்டுப்படுத்துவதற்காக வழங்கப்படும் எட்டாவது காரணி என அழைப்படும் மருந்துகளுக்கு தட்டுப்பாடு  ஏற்பட்டுள்ளது. இதனால் ஹீமோபிலியா நோயாளர்களுக்கு சிறு கீறல் ஏற்பட்டலும் அதிக இரத்தப்போக்கு ஏற்பட வாய்ப்புள்ளது.
-
-...
-
-[Data](articles/57aaa209.json)
-
----
-
-### UAE calls for President Anura to address the World Government Conference
-
-*2024-12-10 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200918) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-UAE invites SL President Anura to address World Government Conference in Feb 2025. Meeting discusses online governance, corruption, investment, tech, renewable energy, and strengthening bilateral ties.
-
-🟩
-
-The Ambassador to Sri Lanka of the United Arab Emirates, Nasir Alameri, met Speaker of the Parliament of Sri Lanka Ashoka Ranwala on Monday (09) for honor.
-
-The President of Sri Lanka pointed out to the Hon'ble Speaker that the President of the United Arab Emirates would invite Sri Lankan President Anura Kumara Dissanayake to address the World Government Conference to be held in February 2025.
-
-He added that Indian Prime Minister Narendra Modi had addressed the World Government Conference in 2024 and that he would like to address the Sri Lankan president at a conference on next year.
-
-The meeting also discussed that the transfer of government service to the online system was the best way to fight corruption.
-
-The Ambassador pointed out that the United Arab Emirates is ready to share their expertise with Sri Lanka.
-
-In addition, the concentration was also focused on the importance of creating an transparent and impressive investment practice.
-
-...
-
-[Data](articles/924ba183.json)
-
-[Extended Data](ext_articles/924ba183.ext.json)
-
----
-
-### 46,000 dengue patients this year
-
-*2024-12-10 18:36:32* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-ඩෙංගු-රෝගීන්-46000ක්/11-413569) · `si`
-
-Dengue cases surge: 46k reported, 23 deaths. Western Province accounts for most cases. Colombo district reports 11,737 cases, 25.2% of total. Health sector warns of ongoing threat.
-
-🟩
-
-46,546 dengue patients have been reported from January 1 this year (10th).. Of these patients, 20,009 were reported from the Western Province, as a percentage of the entire patients.
-
-The total number of dengue patients reported this year 11,737 dengue patients have been reported from the Colombo district, 25.2% of the total patients.
-
-The health sector points out that 5,759 patients have been reported from the Kalutara district during the past year.
-
-5,099 patients have been reported from the Northern Province, and 4,674 patients have been reported from the Central Province.. 4,645 patients have been reported from the Sabaragamuwa Province, with 10% as a percentage.
-
-2,971 patients have been reported from the North Western Province, with 3,618 patients in the Southern Province.
-
-3,178 dengue patients in November, 3,769 patients were 3,769 in July, 3,769 cases in July.During the month, 2,647 patients were reported during the month of April and Rs.
-
-...
-
-[Data](articles/7518a3ee.json)
-
-[Extended Data](ext_articles/7518a3ee.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 17:00:46**
+As of **2024-12-11 17:12:09**
 
 ## Newspaper Stats
 
-*Scraped **59,625** Articles*
+*Scraped **59,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 604
 bbccomsinhala | 622
 islandlk | 3,595
-economynextcom | 3,631
+economynextcom | 3,632
 dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,662
-adaderanalk | 7,262
+adaderanalk | 7,263
 tamilmirrorlk | 8,513
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,597 (100.0%) of 59,625 articles have been extended.
+59,597 (99.9%) of 59,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### Sri Lanka Kandyan king palace renovated by US cultural preservation fund
+
+*2024-12-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-kandyan-king-palace-renovated-by-us-cultural-preservation-fund-193620/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Kandyan Kings’ Palace and Archaeology Museum located within the Temple of the Tooth Relic complex was restored with a 265,000 dollar (77 million rupee) grant from the US Ambassadors Fund for Cultural Preservation (AFCP).
+
+It was a joint project by the US Embassy in Sri Lanka, the Ministry of Culture and Department of Archaeology.
+
+Initiated in 2021, the project was carried out in two phases. During the first phase, efforts were focused on conserving the historic infrastructure of the Kings’ Palace and improving accessibility for visitors with disabilities.
+
+The second phase upgraded the Archeology Museum’s displays and facilities, creating a more engaging and educational experience for visitors while preserving Sri Lanka’s rich cultural heritage.
+
+...
+
+[Data](articles/ea92daf0.json)
+
+---
 
 ### Sri Lanka rupee closes stronger at 290.25/30 to dollar, bonds down
 
@@ -111,6 +129,24 @@ All three maturities were offered on tap after the auction. (Colombo/Dec11/2024)
 [Data](articles/f937f82c.json)
 
 [Extended Data](ext_articles/f937f82c.ext.json)
+
+---
+
+### Death toll rises as unidentified fever spreads in Jaffna
+
+*2024-12-11 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104168/death-toll-rises-as-unidentified-fever-spreads-in-jaffna) · `en`
+
+The death toll from the unidentified fever spreading in Jaffna has risen to five, according to the Jaffna Hospital Director Dr. T. Sathyamoorthy.
+
+Speaking at a media briefing, Dr. Sathyamoorthy confirmed that the deceased, aged between 20 and 65, succumbed to the fever and respiratory complications. While the illness is suspected to be leptospirosis, commonly known as rat fever, he stated that blood samples have been sent to Colombo for further testing to confirm the diagnosis.
+
+At a separate media briefing held at the Health Promotion Bureau today (11), Dr. Kumudu Weerakoon from the Epidemiology Unit of the Ministry of Health emphasized that detailed investigations are underway to identify the exact nature of the disease.
+
+Health authorities continue to monitor the situation closely, with measures being taken to contain the spread of the illness and provide necessary medical care to affected individuals.
+
+◼️
+
+[Data](articles/3f1d2b3e.json)
 
 ---
 
@@ -2245,65 +2281,5 @@ When Ada Derana asked for Ada Assok Rankedoka today, he said that he responded t
 [Data](articles/9b679992.json)
 
 [Extended Data](ext_articles/9b679992.ext.json)
-
----
-
-### US sanctions in Kapila and Ageon
-
-*2024-12-10 19:12:45* · [`adalk`](https://www.ada.lk/breaking_news/කපිලට-සහ-උදයංගට--ඇමෙරිකාවෙන්-සම්බාධක/11-413572) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-US sanctions target SriLankan Airlines CEO & Russian ambassador. Aimed at preventing fraud & human rights violations. Also affects individuals from North Macedonia, Indonesia, Russia, Syria, Yemen, West Bank. US entry prohibited for sanctioned individuals and their families.
-
-🟩
-
-The US State Department announced the sanctions on the former Chief Executive Officer of SriLankan Airlines and Sri Lankan Ambassador to Russia's Ambassador to Russia.
-
-It is reported that the US has imposed the sanctions on the anti-international corruption day and human rights day. The suspects were taken as a responsibility of accountability to prevent global frauds and human rights violations.
-
-Among them were the CEO of Kapila Chandrasena as the Chief Executive Officer of SriLankan Airlines.
-
-Sri Lanka Ambassador to Russia, Udayanga Weeratunga, said that sanctions have come to the Sri Lanka Air Force.
-
-In addition to the two, the US State Department imposes sanctions by the US State Department.The group includes northern Macedonia, Indonesia, Russia, Syria, Yemen and the West Bank and their families.
-
-The US State Department says that these sanctions and members of their nearest families will be prohibited from entering the United States.
-
-◼️
-
-[Data](articles/bc26c5a2.json)
-
-[Extended Data](ext_articles/bc26c5a2.ext.json)
-
----
-
-### A database of food stocks
-
-*2024-12-10 19:02:21* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-තොග-පිළිබඳ-දත්ත-පද්ධතියක්/11-413571) · `si`
-
-Food stock database: President establishes committee for affordable, quality food. Maintains 3-month buffer stocks. Private sector involvement in production, storage, and distribution. Ministry provides policy guidelines for food security and nutrition.
-
-🟩
-
-The President's proposal was approved by the President to establish the Food Policy and Safety Committee to provide the minimum food and quality affordable price of each citizen.
-
-President Anura Kumara Dissanayake presented national food and nutrition security and providing the food policy and safety affairs of every citizen.The proposal was approved by the Cabinet.
-
-Maintaining adequate essential food buffer stocks for at least 3 months
-
-Production, storage, distribution, wholesale and retail trade that contributes to food security
-
-Develop and implement effective programs with the participation of the private sector in the activities
-
-According to the Minister of Agriculture, Livestock, Land and Irrigation to provide policy, commerce, commercial, food safety and Co-operative Development to provide policy guidelines on the participation of food security and nourishment.The committee is established with the members of the Secretaries including the Secretary to the Department.
-
-◼️
-
-[Data](articles/c50c2eef.json)
-
-[Extended Data](ext_articles/c50c2eef.ext.json)
 
 ---

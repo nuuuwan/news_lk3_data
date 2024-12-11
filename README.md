@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 23:43:25**
+As of **2024-12-12 01:26:52**
 
 ## Newspaper Stats
 
-*Scraped **59,687** Articles*
+*Scraped **59,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
 tamilmirrorlk | 8,519
-virakesarilk | 9,796
+virakesarilk | 9,797
 adaderanasinhalalk | 10,321
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,657 (99.9%) of 59,687 articles have been extended.
+59,674 (100.0%) of 59,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -543,6 +543,36 @@ Even if you work from morning to evening, a few salary is available to plantatio
 [Data](articles/2aeeb9b7.json)
 
 [Extended Data](ext_articles/2aeeb9b7.ext.json)
+
+---
+
+### It is necessary to restore institutions built on the basis of democratic principles;The letter to the president
+
+*2024-12-11 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201009) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Restore democratic institutions. Abolition of sectoral supervisory committees in 9th parliament criticized. Oppn's oversight role crucial. Departmental committees contributed to country's welfare. Analyze successful models. Protect democracy and people's trust.
+
+🟩
+
+It is unfortunate that the deliberate abolition of sectoral supervisory committees in the ninth parliament, which received a two -thirds majority, is unfortunate, said Karu Jayasuriya, adviser to the National Movement for Social Justice.
+
+He said this in a letter sent to President Anura Kumara Dissanayake to protect the organizations and principles built on the basis of democratic doctrines by the Janatha Vimukthi Peramuna (JVP), the country's civil society and the opposition parties.
+
+Sri Lanka made Sri Lanka proud to protect the attitude of democratic principles in post -independence history.
+
+We have protected it despite various setbacks. We expect that the policies will be further protected and upgraded by the new government for democracy and the future of the country.
+
+The opposition has a massive oversight duty in the regime that admire democracy. Accordingly, in the 8th Parliament, the Opposition was given the responsibility of honoring the principles of 2015-12020.
+
+...
+
+[Data](articles/32f16b35.json)
+
+[Extended Data](ext_articles/32f16b35.ext.json)
 
 ---
 
@@ -1870,19 +1900,35 @@ Countries experience foreign exchange shortages when reserve collecting central 
 
 ---
 
-### පළාත් පාලන ඡන්ද විමසීමට අදාළ පෙත්සම කැඳවීමට නියෝග
+### Orders to be called for Local Government Elections
 
 *2024-12-11 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204267) · `si`
 
-නව තරුණ ඡන්දදායකයන්ට ඡන්දය ප්‍රකාශ කිරීමට හැකිවන පරිදි 2024 වසරේ ඡන්දහිමි නාම ලේඛනය උපයෝගී කරගනිමින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට හැකිවන පරිදි නීති සංශෝධන සිදුකරන ලෙස අමාත්‍ය මණ්ඩලය විසින් නීති කෙටුම්පත් දෙපාර්තමේන්තුවට උපදෙස් දී ඇතැයි නීතිපතිවරයා අද (11) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+Here's a summary of the text in approximately 200 characters:
 
-2024 වසරේ ඡන්ද හිමි නාමලේඛනය උපයෝගී කරගනිමින් පළාත් පාලන ඡන්ද විමසීම පවත්වන ලෙස නියෝගයක් නිකුත් කරන්නයි ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා විසින් මෙම දැනුම්දීම සිදුකළේය.
 
-මෙම පෙත්සම අද අගවිනිසුරු මුර්දු ප්‍රනාන්දු, අර්ජුන ඔබේසේකර සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඬුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+Supreme Court orders local government elections. Attorney General informs Legal Draftsman to prepare election orders for 2024. Cabinet cancels nominations, accepts new ones. Petitioner seeks release of council results in all three languages. Election Commission informed about the orders.
+
+🟩
+
+The Attorney General also informed the Supreme Court today to ensure the Legal Draftsman (11th).
+
+The innroad was made by Deputy Solicitor General Nirmalan Vigneswaran, who appeared on behalf of the Attorney General to issue a fundamental rights petition asking for a local government election.
+
+The petition was called before the Supreme Court Judge Bench, Arjuna Obeysekere and Priyantha Fernando.
+
+The Deputy Solicitor General stated that the Cabinet of Ministers had informed the Legal Draft Departments to use the vocabulary regions of the year 2024 to be able to vote in the year 2024.
+
+He added that the Cabinet has instructed the Cabinet that the Cabinet has been instructed to cancel the nominations and accepts new nominations.
+
+President's Counsel Ali Sabri appearing on behalf of the petitioner, this was a very important lawsuit of the people, and asked to release the council in three languages ​​in all three languages.
 
 ...
 
 [Data](articles/3f55eb36.json)
+
+[Extended Data](ext_articles/3f55eb36.ext.json)
 
 ---
 
@@ -1910,21 +1956,33 @@ The opening ceremony of the Lanka T10 is scheduled to commence at 2.45 pm today.
 
 ---
 
-### ජාති ආගම් බේදයකින් තොරව ජනතාව එකමුතු කිරීම වැදගත් - ජුලි චන්ග්
+### It is important to unite the masses without race religion - July Chang
 
 *2024-12-11 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204266) · `si`
 
-ජාති ආගම් බේදයකින් තොරව ජනතාව එකමුතු කිරීම වැදගත් බව මෙරට අමෙරිකානු තානාපතිනි ජූලි චන්ග් මහත්මිය පැවසුවාය.
+Here's a summary of 200 characters:
 
-මහනුවර මහනගර සභාවේ ඩී.එස්.සේනානායක අනුස්මරණ මහජන පුස්තකාලයට අනුබද්ධ, අමෙරිකානු තොරතුරු පියස පිහිටුවා වසර 20ක් සැපිරීම නිමිත්තෙන් වූ උත්සවයක් ඊයේ (10) මහනුවරදී  පැවැත්වුණි.
 
-එහි ප්‍රධාන ආරාධිතයා වුයේ මෙරට අමෙරිකානු තානාපතිනි ජුලි චන්ග් මහත්මියයි.
 
-"අපට අසන්නට ලැබුණා නව ජනාධිපති අනුර කුමාර දිසානායක එක්සත්භාවය ගැන කතා කළා. ඔබේ ජනාධිපතිවරයා ප්‍රකාශ කළා මේ රටේ වර්ගවාදයට හෝ අන්තවාදයට කිසිඳු ඉඩක් නොමැති බව. ඔබේ සියලු විෂමතාවන් සහ විවිධත්වය සැමරිය යුතු කාරණයක්. එමඟින් සියල්ලන්ම සාමකාමී එක් ජන ප්‍රජාවක් බවට පත්වේවී.
+US Ambassador July Chang emphasizes unity without race or religion in Sri Lanka. He promotes English as a unifying language and highlights a youth forum connecting South Asian countries.
+
+🟩
+
+In Sri Lanka, US Ambassador to America Chang, July Chang, said that it is important to unite the masses without race.
+
+A ceremony was held at Kandy yesterday (10) at the Kandy Municipal Council of the Kandy Municipal Council.
+
+The chief guest was the US Ambassador to Sri Lanka, July Chang.
+
+"We heard New President Anura Kumara Dissanayake talking about unity. Your president said there was no room for racism or extremism in this country. A matter of all your disparities and diversity should celebrate. And all of them become one peaceful.
+
+I am proud to be able to have the ability to 'American Corner' to join the vision by adding communities. It is not important that your background, language, religion, economic level, you a woman and a man or who. What is important is to unite the masses. In 2019, we were conducted the first Youth Forum representing the Youth Text throughout Sri Lanka.. English language has become the media that connects each other.
 
 ...
 
 [Data](articles/71890501.json)
+
+[Extended Data](ext_articles/71890501.ext.json)
 
 ---
 
@@ -1974,43 +2032,67 @@ The other National List MP seat had been filled by former minister Ravi Karunana
 
 ---
 
-### சிரியாவின் அசாத்தின் நிலவறைக்குள்...! - சித்திரவதை மற்றும் சொல்ல முடியாத கொடுமைக்கான ஆதாரங்கள் - என்.பி.சி
+### In Syria's Azad's dungeon ...!- Sources of torture and unprecedented cruelty - NBC
 
 *2024-12-11 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200982) · `ta`
 
-சிரிய தலைநகரின் புறநகர் பகுதியில் - நீண்ட கால சர்வாதிகாரியின் பிடியிலிருந்து நாடு விடுபடுவதற்கு குறித்த நம்பிக்கைகளின் மத்தியில் அசாத் அரசாங்கத்தின் கொடுமைகள் குறித்து வெளிவரும் தகவல்கள் குழப்பத்தை ஏற்படுத்துபவையாக காணப்பட்டன.
+Here's a summary of the text in approximately 200 characters:
 
-கண்ணிற்கு தெரியாத ஆழத்தில் காணாமல்போய்விட்டதாக, அவர்கள் கருதும் தங்கள் அன்புக்குரியவர்கள் உயிருடன் இருக்கின்றார்கள் என்பதற்கான அடையாளங்கள் ஏதாவது உள்ளதா என்பதை அறிவதற்காககவே அவர்கள் அந்த சிறைச்சாலைக்கு சென்றுகொண்டிருந்தனர்.
 
-மனித உரிமை மீறல்களிற்கு பெயர் போன  அந்த சிறைச்சாலை தரிசு பாலை நிலங்களில் காணப்படுகின்றது.
 
-சைட்னயா சிறைச்சாலை என்பது மனிதகொலைக்கூடாரம் என பெயரிடப்பட்ட சிரிய கொன்கீரிட் கட்டிடங்களின் நிலவறையாகும்.
+Syria's Sidenaya Prison: Torture, human rights violations under Assad regime. Public searches for loved ones amid rumors of secret detention. Evidence of cruel practices found, including iron crushing devices and metal poles used for torture.
 
-என்பிசி செவ்வாய்கிழமை அங்கு சென்றபோது சிறைச்சாலையில் மிகவும் காட்டுமிராண்டிதனமான சூழல் காணப்பட்டமைக்கான தடயங்களையும் தங்கள் நேசத்திற்குரியவர்களை தேடும் மக்களின் இயலாமையையும் கண்ணுற்றது.
+🟩
 
-அசாத்தின் 50 வருட ஆட்சிக்காலத்தின் போது சைட்னயா போன்ற சிறைக்கூடங்களை ஆயுதமேந்திய படையினர் பாதுகாத்தனர், உள்ளே சென்றவர்கள் வெளியே வரவில்லை என்பதை உறுதி செய்தனர்.
+In the suburbs of the Syrian capital - the information about the atrocities of the Assad government was confused amid the hopes of the country to free the country from the clutches of the long -term dictator.
+
+They were going to the prison to know if there were signs that their loved ones were still alive as they had disappeared at an invisible depth.
+
+The prison, which is known for its human rights violations, is found in the barren lands.
+
+The Sidenaya Prison is a dungeon of Syrian Konkirid buildings named the human being.
+
+When the NBC went there on Tuesday, the most barbaric environment in the prison was seen as the traces of the people who were looking for their loved ones.
+
+During the 50 -year reign of Assad, armed forces protected prisons such as Sidenaya, confirming that those who went inside did not come out.
+
+Human rights organizations say that the prison was used to prevent the public and torture thousands of Syrian people.
+
+Sitnaya's mouth is overflowing with hundreds of cars.
 
 ...
 
 [Data](articles/628d3eac.json)
 
+[Extended Data](ext_articles/628d3eac.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයක ධීවරයින්ට අනතුරු ඇඟවීමක්
+### A warning to fishermen in several areas
 
 *2024-12-11 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204265) · `si`
 
-පුත්තලම සිට මන්නාරම සහ කන්කසන්තුරය හරහා මුලතිව් දක්වා වෙරළට ඔබ්බෙන් වන ගැඹුරු සහ නොගැඹුරු මුහුදු ප්‍රදේශවල ධීවරයින්ට අද (11) දිනයේ  ධීවර සහ නාවික කටයුතුවලින් වැළකී සිටින ලෙස කාලගුණවිද්‍යා දෙපාර්තුමේන්තුව ඉල්ලා සිටියි.
+Warning: Fishermen avoid areas from Puttalam to Mullaitivu, Mannar, Kankasanthurai due to low pressure system. Rough seas expected, heavy rainfall possible in Northern, Eastern, North-Central, and North-Western provinces.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ සක්‍රීය වි ඇති අඩු පීඩන කලාපය තවදුරටත් පවතින බැවින් එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඔ දෙසට ගමන් කරමින් ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළගා වීමට බොහෝ දුරට ඉඩ පවතින බවය.
+🟩
 
-ත්‍රිකුණාමලය කන්කසන්තුරය සහ මන්නාරම හරහා පුත්තලම දක්වා වන මුහුදු ප්‍රදේශවල විටින් විට වැසි ඇති විය හැකි බවත් තිකුණාමලය සිට කන්කසන්තුරය සහ කොළඹ හරහා ගාල්ල දක්වා වන මුහුදු ප්‍රදේශවල සුළග ඊසාන සිට වයඔ දක්වා දිශාවලින් හමන සුළගේ වේගය පැයට කිලෝ මීටර් 30 – 40 පමණ වන බවත් එම නිවේදනයේ සඳහන් වේ.
+The Department of Meteorology demands the fishermen in the area from Puttalam to Mullaitivu to Mannar and Kankasanthurai.
 
-මේ අතර ත්‍රිකුණාමලය සිට කන්කසන්තුරය හරහා පුත්තලම දක්වා වන මුහුදු ප්‍රදේවල වේගය ක්ෂණිකව පැයට කිලෝමීටර් 50 -60 දක්වා ද වර්ධනය විය හැකි බවත් එම නිවේදනයේ දක්වා තිබේ.
+In a statement, the department said that the low pressure zone of the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Sri Lanka is most likely to reach the Thamilnadu coast.
 
-...
+Tens of 30 to 40 km from the sea areas off the sea areas off the Trincomalee Kankesanthurai and Mannar..
+
+Meanwhile, the prompt increase in the sea from Trincomalee via Kankesanthurai can also increase to 50-kilometers per hour.
+
+Therefore, the Met Department (Met Department) said that the sea areas from Puttalam to Mullaittivu to Mullaittivu from Puttalam to Mannar and Kankasanthurai.
+
+As a result, the sea areas can be temporarily rough and due to the impact of this system, and the Northern Province, the North Central, Eastern and North Western provinces.. Heavy showers that have more than 100 can occur.
+
+◼️
 
 [Data](articles/7008bc56.json)
+
+[Extended Data](ext_articles/7008bc56.ext.json)
 
 ---
 
@@ -2054,67 +2136,97 @@ Furthermore, the panel has mentioned that this decision balances the player’s 
 
 ---
 
-### දික්වැල්ලගේ ක්‍රිකට් තහනම ගැන තීරණයක්
+### Decision regarding Dickwella's cricket ban
 
 *2024-12-11 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204263) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ලට පනවා තිබූ වසර 03ක ක්‍රිකට් තහනම මාස 3 දක්වා අඩු කර තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව අද (11) සිට ඔහුට සියලුම ආකාරයේ ක්‍රිකට් ක්‍රීඩා කිරීමට සුදුසුකම් ලැබේ.
 
-නිමා වූ ලංකා ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී තහනම් උත්තේජක ලබාගත් බවට ඔහුට එරෙහිව චෝදනා එල්ල වී තිබුණි.
 
-ශ්‍රී ලංකා තහනම් උත්තේජක මර්දන නියෝජිතායතනය (SLADA) විසින් සිදුකරනු ලැබූ පරීක්ෂණයේදී මේ බව අනාවරණය වීමත් සමග නිරෝෂන් දික්වැල්ලට නැවත දැනුම්දෙන තුරු සියලුම ක්‍රිකට් තරග තහනම් කිරීමට බලධාරීන් පියවර ගත්තේය.
+Dickwella's 3-year cricket ban reduced to 3 months. Eligible to play all cricket from today. Accused of receiving banned stimulants during Lanka Premier League. SLADA investigation ongoing. Dickwella appeals through lawyers Ranil Premathilaka and Suminda Perera.
 
-එම තහනමට එරෙහිව දික්වැල්ල සිය නීතිඥවරුන් මඟින් අභියාචනයක් ඉදිරිපත් කළේය.
+🟩
 
-නීතිඥ සුමින්ද පෙරේරා සමග ජ්‍යෙෂ්ඨ නීතිඥ රනිල් ප්‍රේමතිලක නිරෝෂන් දික්වැල්ල වෙනුවෙන් පෙනී සිටියහ.
+Sri Lanka's cricketer's cricketer has reduced cricket ban for three years to 3 months.
+
+Accordingly, he is eligible to play all kinds of cricket from today (11).
+
+He was accused of receiving banned stimulants at the conclusion of the Lanka Premier League.
+
+The authorities have taken steps to ban all cricket matches until the investigation made by the Sri Lanka banned stimulation repressive agency (SLADA).
+
+Dikwella appealed to his lawyers against the ban.
+
+Senior Attorney-at-Law Ranil Prematthilaka representing the Dickwella, Senior Attorney at Law Suminda Perera.
 
 ◼️
 
 [Data](articles/a07eaf87.json)
 
+[Extended Data](ext_articles/a07eaf87.ext.json)
+
 ---
 
-### ශිෂ්‍යත්ව විභාගයට අදාළ පෙත්සම් විභාගය කල්යයි
+### Petitions pertaining to scholarship examination is postponed
 
 *2024-12-11 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204261) · `si`
 
-මෑතකදී අවසන් වූ 5 වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රයේ ප්‍රශ්න තුනක් කලින් පිටවීම හේතුවෙන් ප්‍රශ්න පත්‍රය සඳහා යළි විභාගය පවත්වන ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකර ඇති පෙත්සම්වලට අදාළ විභාගය මේ මස 16 වනදා දක්වා කල්තැබීමට ශ්‍රේෂ්ඨාධිකරණය අද නියම කළේය.
+Here's a summary in 200 characters:
 
-මෙම පෙත්සම් අද (11) එස්. තුරෙයි රාජා සහ ශිරාන් ගුණරත්න යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
 
-එහිදී ත්‍රිපුද්ගල විනිසුරු මඩුල්ල නිසියාකාරව සම්පූර්ණ වී නොමැති හෙයින් පෙත්සම් විභාගය ලබන 16 වනදා දක්වා කල් තබන බව විනිසුරු මඩුල්ල නියෝග කළේය.
 
-අදාළ විභාගයට ඉදිරිපත් වූ සිසු සිසුවියන් හා ඔවුන්ගේ දෙමව්පියන් පිරිසක් විසින් මෙම පෙත්සම් තුන ඉදිරිපත් කර තිබුණි.
+Supreme Court postpones scholarship exam. New date set for January 16. Petition hearing adjourned. Students and parents present. Attorney General informed about three specific issues.
 
-මෙම පෙත්සම ඉකුත්දා කැඳවූ අවස්ථාවේදී නීතිපතිවරයා අධිකරණයට දැනුම් දුන්නේ කලින් පිටවූ ප්‍රශ්න බව කියන ප්‍රශ්න තුන ඇතුළත් පළමු ප්‍රශ්න පත්‍රය සඳහා යළි විභාගයක් නොපැවැත්වීමට අමාත්‍ය මණ්ඩලය විසින් නිර්දේශ කර තිබෙන බවය.
+🟩
 
-...
+The Supreme Court today (Supreme Court) prescribed the examination until the 16th of the first question paper of the Year 5 scholarship examination.
+
+These petitions will today (11). The panel of judges called on Turai Raja and Shiran Gunaratne.
+
+The Bench ordered that the petition he will be adjourned on the 16th of this month.
+
+The students and their parents were presented by the students who were contesting the examination.
+
+When the petition was taken out recently, the Attorney General was also recommended by the Cabinet of the Cabinet of the Cabinet of the Cabinet of the three questions that have been exited.
+
+The Attorney General has also been informed by the Cabinet of Ministers for the three student students who have come forward for the three issues that have been exited.
+
+◼️
 
 [Data](articles/0fd637e1.json)
 
+[Extended Data](ext_articles/0fd637e1.ext.json)
+
 ---
 
-### ජාතික ලැයිස්තු මන්ත්‍රී ධූරයෙන් සිලින්ඩරය ගිනි ගනී
+### The cylinder is on fire from national lists
 
 *2024-12-11 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204262) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීධුරය සඳහා මැතිවරණ කොමිසමට ඉදිරිපත් කළ බව කියන නිතීඥ ෆයිසර් මුස්තාපා මහතාගේ නම සම්බන්ධයෙන් එම පක්ෂය තුළ අර්බුකාරී වාතාවරණයක් හටගෙන තිබේ.
+Cylinder fire: National List dispute in New Democratic Front. SLFP proposes Faizer Mustapha. Two national lists won. Ravi Karunanayake appointment considered.
 
-එහි හවුල්කාර පක්ෂ පවසන්නේ ඒ සම්බන්ධයෙන් ඔවුන් සමග සාකච්ඡා කර නොමැති බවය.
+🟩
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී රමේෂ් පතිරණ මහතාගෙන් "අද දෙරණ" කළ විමසීමක දී ඔහු සඳහන් කළේ, එම ජාතික ලැයිස්තු මන්ත්‍රී ධුරයට පත්කිරීම සඳහා සියලුදෙනාගේ එකඟතාවය හිමිවුයේ හිටපු අමාත්‍ය කංචන විජේසේකර මහතාට බවය.
+The party has criso in the party regarding the name of the National Listing Commission in the New Democratic Front.
 
-කෙසේවෙතත් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ හවුල්කාර පක්ෂයක් වන ශ්‍රී ලංකා නිදහස් පක්ෂය විසින් නිතීඥ ෆයිසර් මුස්තාපා මහතාගේ නම ද ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා යෝජනා කර තිබුණි.
+The partners partners say that they have not been discussed with them.
 
-පසුගිය දා අවසන් වු මහ මැතිවරණ ප්‍රතිඵලයට අනුව ගෑස් සිලින්ඩරය ලකුණින් තරග කළ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකක් හිමිකර ගත්තේය.
+Former Parliamentarian Ramesh Pathirana, "Ada Derana" stated that everyone's agreement was held to be the agreement to be appointed as the national list.
 
-මින් එක් ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් සඳහා රවී කරුණානායක මහතා පත් කිරීමට පක්ෂ ලේකම්වරිය පියවර ගත් අතර අනෙක් මන්ත්‍රී ධුරය සඳහා අයෙකු පත් කිරීම සම්බන්ධයෙන් විවිධ මත ගැටුම් නිර්මාණය වී තිබුණි.
+However, the New Democratic Front Partner Partner (SLFP), the Sri Lanka Freedom Party (SLFP), proposed the name of lawyer Faizer Mustapha.
 
-...
+The new Democratic Front contesting the margin of the Gas Cylinder, according to the results of the recent election, won two national lists.
+
+The party secretary was taken to appoint Ravi Karunanayake for a national listing of the national list.
+
+President's lawyer Faizer Mustafa had previously served as a Member of Parliament and he had several ministers.
+
+◼️
 
 [Data](articles/ece49173.json)
+
+[Extended Data](ext_articles/ece49173.ext.json)
 
 ---
 
@@ -2448,46 +2560,50 @@ Minister Jayatissa was responding to a question on advertisements by vehicle imp
 
 ---
 
-### சர்வதேச சமூகத்திடமிருந்து ஆதரவை பெறுதல்
+### Obtaining support from the international community
 
 *2024-12-11 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200964) · `ta`
 
-கடந்த கால ஊழல் மற்றும் ஊதாரித்தனத்தின் விளைவாக பொருளாதார வளங்கள் இல்லாமல் இருப்பதே தற்போதைய தருணத்தில் அரசாங்கத்தின் வெற்றிக்கு இருக்கின்ற பிரதான நிர்ப்பந்த நிலையாகும். மிலெனியம் சவால் கோர்ப்பரேசனின் கீழ் நாட்டின் வீதி மற்றும் போக்குவரத்து கட்டமைப்பை மேம்படுத்துவதற்கு அமெரிக்கா வழங்க முன்வந்த 450 மில்லியன் டொலர்கள் நன்கொடையையும் இலகு ரயில் போக்குவரத்து முறையை அயைப்பதற்கு குறைந்த வட்டி வீதத்தில் ஜப்பான் வழங்க முன்வந்த 1.2 பில்லியன் டொலர்களையும் கடனுதவியையும் ஜனாதிபதி கோட்டாபய ராஜபக்சவின் கீழான முன்னைய அரசாங்கம் நிராகரிக்கத் தீர்மானித்தற்கான காரண அடிப்படையை விளங்கிக்கொள்ள முடியாமல் இருக்கிறது.
+Here's a 200-character summary:
+
+
+
+International aid boosts economy: US $450M for roads/transport; Japan offers $1.2B low-interest loans. Government seeks support due to past corruption and financial struggles.
+
+🟩
+
+The main compulsion of the government in the current moment is the lack of economic resources as a result of past corruption and inferiority. Under the Millenium Challenge Corporation, the United States has donated $ 450 million to improve the country's road and transport structure, and a low -interest railway system to reject Japan's $ 1.2 billion and loans at a lower interest rate to reject the previous government under President Gotabhaya Rajapakse.
 
 ◼️
 
 [Data](articles/3792bafc.json)
 
+[Extended Data](ext_articles/3792bafc.ext.json)
+
 ---
 
-### ශ්‍රී පාද වාරයේදි ප්ලාස්ටික් වතුර බෝතල් හා දුම්කොළ මිශ්‍ර සුරුට්ටු තහනම්
+### Plastic water bottles and tobacco cyclors banned in Sri PEPA
 
 *2024-12-11 11:15:28* · [`adalk`](https://www.ada.lk/religion/ශ්‍රී-පාද-වාරයේදි-ප්ලාස්ටික්-වතුර-බෝතල්-හා-දුම්කොළ-මිශ්‍ර-සුරුට්ටු-තහනම්/4-413575) · `si`
 
-උදුවප් පුන් පොහෝයෙන් ආරම්භ වන මෙවර ශ්‍රිපාද වන්දනා සමය තුළදි නල්ලතන්නිය සිට ශ්‍රිපාද උඩ මළුව දක්වා ප්ලාස්ටික් වතුර බෝතල් දුම්කොළ මිශ්‍ර සුරුට්ටු අලෙවි කිරිම හා රැගෙන යාම සපුරා තහනම් කිරිමට පියවර ගෙන ඇති බව නුවරඑළිය දිස්ත්‍රික් ලේකම් නන්දන ගලබඩ මහතා පවසයි.
+Sri Lanka bans plastic water bottles, tobacco cyclors. Restrictions on sales and carrying during Shippy Pilgrimage. Government agencies and organizations discuss alternatives. Safety measures implemented for devotees.
 
-ශ්‍රිපාදස්ථානාධිපති ඌව විශ්වවිද්‍යාලයේ උප කුලපති සඹරගමුව හා රත්නපුර දිසා ප්‍රධාන සංඝනායක ත්‍රිපිටකාචාර්ය බෙන්ගමුවේ ධම්මදින්න නායක හිමියන්ගේ ප්‍රධානත්වයේ මෙවර ශ්‍රිපාද වන්දනාව පිලිබදව රාජ්‍ය ආයතන හා ස්වේච්චා සංවිධාන සමග පැවති සම්බන්ධිකරණ කමිටු රැස්විමකදි මෙම තිරණය ගත් බව නන්දන ගලබඩ මහතා පැවසිය.
+🟩
 
-මේ පිලිබදව වැඩි දුරටත් අදහස් දැක්වු නන්දන ගලබඩ මහතා  හැටන් නල්ලතන්නිය මාර්ගයේ ශ්‍රිපාදය වන්දනා කිරිමට පැමිනෙන බැතිමතුන්ගේ පානිය ජල අවශ්‍යතාවයන් මේ වන විට සපුරා ඇති බැවින් ප්ලාස්ටික් ජල බෝතල රැගෙන යාමට අවශ්‍ය නොවන බවත් එම තත්වයන් මත ප්ලාස්ටික් ජල බෝතල රැගෙන යාම තහනම් කර ඇති බවත්ය.
+The Shippy Pilgrimage from Nallathaniya to the Shipping Courts from Nallatuniya to the Shipping Courts, Nuwara Eliya District Secretary Nandana, has been prohibited to sell and carry plastic crops.
 
-...
+Nandana Galabada, Nandana, Sangaragamuwa and Voluchase organizations at the leading leader of the President of the Uva University of Uva University of Uva University of Uva has been summoned at a meeting with government agencies and voluntary organizations.
 
-[Data](articles/d43400c6.json)
+Speaking further Mr. Nandana Galabada has been met by the Hatton Galabada, the drinking water requirement of the Hatton Nallatuniya road, is not necessary to carry plastic water bottles.
 
----
+He said that the drinking water required by the Sri Dhamma Suubyadu Uda Welfare Foundation has been provided to the SLFP to the Sri Bhibra Uda Maliya during this pilgrimage.
 
-### ශිවාජිලිංගම් රෝහල්ගත කෙරේ
-
-*2024-12-11 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204258) · `si`
-
-අසනීප තත්ත්වයක් හේතුවෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී එම්. කේ. ශිවාජිලිංගම් මහතා කොළඹ පෞද්ගලික රෝහලක දැඩි සත්කාර ඒකකයකට ඇතුළත් කොට ඇති බව ඥාතීහූ පවසති.
-
-දෙමළ ජාතික පක්ෂයේ ප්‍රධාන ලේකම් ධූරය දරන ශිවාජිලිංගම් මහතා පසුගිය සමයේ ගත් දේශපාලන තීන්දු තීරණ හේතුවෙන් ජනතාව අතර ප්‍රසිද්ධියට පත්විණ.
-
-දෙමළ ජාතික සන්ධානය නියෝජනය කරමින් 2004 වසරේ පාර්ලිමේන්තුවට තේරී පත්වු ඒ මහතා, පසුගිය දා උතුරේ මහවිරු සැමරුම් පවත්වමින් කේක් කැපීමේ සිදුවීම රට තුළ මහත් කතාබහට ලක්වුණි.
+Mr. Nandana Galabada has taken steps to implement a Special Defense Plan for the safety of all devotees on pilgrims.
 
 ◼️
 
-[Data](articles/25036cb2.json)
+[Data](articles/d43400c6.json)
+
+[Extended Data](ext_articles/d43400c6.ext.json)
 
 ---

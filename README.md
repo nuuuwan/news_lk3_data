@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 20:44:30**
+As of **2024-12-11 21:01:52**
 
 ## Newspaper Stats
 
-*Scraped **59,673** Articles*
+*Scraped **59,675** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
-colombotelegraphcom | 604
+colombotelegraphcom | 605
 bbccomsinhala | 623
 islandlk | 3,595
 economynextcom | 3,633
 dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,667
-adaderanalk | 7,268
+adaderanalk | 7,269
 tamilmirrorlk | 8,518
 virakesarilk | 9,793
 adaderanasinhalalk | 10,317
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,635 (99.9%) of 59,673 articles have been extended.
+59,635 (99.9%) of 59,675 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,24 @@ He added that he said that Speaker Askey Ranwala is presented with the truth abo
 [Data](articles/6a5f2892.json)
 
 [Extended Data](ext_articles/6a5f2892.ext.json)
+
+---
+
+### 116 officers removed from ex-President Mahinda’s security detail?
+
+*2024-12-11 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104174/116-officers-removed-from-ex-president-mahindas-security-detail) · `en`
+
+Attorney-at-Law Manoj Gamage has claimed that the incumbent government has taken steps to significantly reduce the security detail of former President Mahinda Rajapaksa.
+
+Speaking at a press briefing held at the Sri Lanka Podujana Peramuna Policy Center today (11), Gamage revealed that the Deputy Inspector General of Police (DIG) in charge of human resource management had notified the security division of the former President through an official letter yesterday (10).
+
+According to Gamage, a total of 116 security personnel from the former President’s security detail have reportedly been withdrawn, including officers with specialized experience in VIP security.
+
+He expressed concern over this decision, emphasizing that it could pose a significant security risk, given the presence of groups that still follow the ideology of the slain leader of the Liberation Tigers of Tamil Eelam (LTTE), Velupillai Prabhakaran.
+
+...
+
+[Data](articles/adef1613.json)
 
 ---
 
@@ -1218,6 +1236,18 @@ In November last year, the US International Development Finance Corporation (US 
 
 ---
 
+### NPP Should Avoid Cracks In Its ‘Inclusive Governance Policy’!
+
+*2024-12-11 15:17:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/npp-should-avoid-cracks-in-its-inclusive-governance-policy/) · `en`
+
+‘National People’s Power (NPP) remains committed to forming a Government that represents all communities, despite facing what it describes as baseless accusations regarding its policies’ stressed the then Presidential candidate AKD, speaking to the media following a meeting with the All-Ceylon Jamiyyathul Ulama,  emphasising the importance of unity and coexistence among Sri Lanka’s diverse communities. He stated, ‘The NPP is dedicated to ensuring social harmony and safeguarding the cultural diversity of Sri Lanka under its future Government,”, expressing confidence that the Party’s policies would foster inclusivity and mutual respect among all ethnic and religious groups. Our vision for the country includes the active participation of every community in shaping a prosperous and peaceful future.’
+
+...
+
+[Data](articles/1fcba79f.json)
+
+---
+
 ### I am the Sri Lankan Entrepreneur 2024 award from COYLE
 
 *2024-12-11 15:00:00* · [`economynextcom`](https://economynext.com/i-am-the-sri-lankan-entrepreneur-2024-award-from-coyle-193521/) · `en`
@@ -2351,51 +2381,5 @@ A woman in the house had left the Buddha lamp and the police suspect that it was
 ◼️
 
 [Data](articles/9af27d2f.json)
-
----
-
-### Change at the age of doctors to retire?
-
-*2024-12-11 09:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்கள்-ஓய்வுபெறும்-வயதில்-மாற்றம்/175-348564) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka: Ministry extends doctor retirement age to 63. Decision made after considering doctor demands and service needs. Attorney General received directive; action next week.
-
-🟩
-
-The Ministry of Public Administration has said that steps are being taken to extend the retirement age to 63.
-
-The Secretary to the Ministry Aloha Bandara said that the Attorney General has received a directive in this regard and the relevant action will be taken next week.
-
-The Secretary said that the government had taken the decision to consider the demands and service requirements received from the doctors.. Remble
-
-◼️
-
-[Data](articles/19853dbc.json)
-
-[Extended Data](ext_articles/19853dbc.ext.json)
-
----
-
-### Insurance regulation in Sri Lanka ‘developing with limited transparency’: Fitch Ratings
-
-*2024-12-11 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104157/insurance-regulation-in-sri-lanka-developing-with-limited-transparency-fitch-ratings) · `en`
-
-Sri Lanka’s regulatory environment for the insurance sector is regarded as “developing with limited transparency,” according to Fitch Ratings.
-
-In a report, Fitch cited the Insurance Regulatory Commission of Sri Lanka which oversees domestic insurers.
-
-It introduced a risk-based capital (RBC) regime in 2015, which was fully adopted by insurers in 2016. The regime required insurers to maintain a minimum RBC ratio of 120%, and those with a ratio below 160% are required to submit a plan to improve their capitalisation levels.
-
-The commission also enforces the segregation of life and non-life insurance businesses and requires all insurers to list on the local stock exchange to enhance transparency. However, exemptions are provided to insurers whose parent companies are listed on a recognised stock exchange.
-
-...
-
-[Data](articles/68f2084b.json)
-
-[Extended Data](ext_articles/68f2084b.ext.json)
 
 ---

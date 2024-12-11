@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 04:42:42**
+As of **2024-12-12 05:01:22**
 
 ## Newspaper Stats
 
-*Scraped **59,690** Articles*
+*Scraped **59,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 606
 bbccomsinhala | 623
 islandlk | 3,595
 economynextcom | 3,633
-dailyftlk | 4,111
+dailyftlk | 4,117
 dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
@@ -26,11 +26,111 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,690 (100.0%) of 59,690 articles have been extended.
+59,690 (100.0%) of 59,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### NPP’s fabricated stories risk turning into political joke: Charitha
+
+*2024-12-12 04:53:05* · [`dailyftlk`](https://www.ft.lk/news/NPP-s-fabricated-stories-risk-turning-into-political-joke-Charitha/56-770395) · `en`
+
+Accuses NPP Govt. of mishandling governance and focusing on trivial, self-created issues
+
+Criticises Govt. for transforming minor matters into major political points
+
+Warns NPP’s current approach risks becoming a political joke in long term
+
+Former MP Charitha Herath delivered a sharp critique of the National People’s Power (NPP) Government during a media briefing held at the Samagi Jana Balawegaya (SJB) head office in Pita Kotte yesterday.
+
+Addressing the gathering, Herath accused the NPP Government of mishandling governance and prioritising trivial issues. “The Government is currently in a quagmire of its own making,” he remarked, asserting that the challenges faced by the NPP stem from self-created “trivial issues” rather than those inherited from previous administrations.
+
+...
+
+[Data](articles/03edd68f.json)
+
+---
+
+### Liberal Youth Movement urges Govt. inquiry into academic qualification concerns of Speaker
+
+*2024-12-12 04:51:39* · [`dailyftlk`](https://www.ft.lk/news/Liberal-Youth-Movement-urges-Govt-inquiry-into-academic-qualification-concerns-of-Speaker/56-770394) · `en`
+
+The Liberal Youth Movement yesterday expressed its deep concern over allegations questioning the authenticity of the academic qualifications presented by Speaker Ashoka Ranwala prior to elections and during Parliamentary proceedings.
+
+“These concerns have sparked significant public debate and raised serious doubts about the integrity of information shared by leaders with the electorate,” said the Liberal Youth Movement’s Co-Convener Namini Panditha in a statement.
+
+While academic qualifications are not mandatory for holding the position of a Member of Parliament or Speaker, such titles carry weight and are often used to influence voters and enhance political credibility. Misrepresentation of credentials undermines public trust and tarnishes the democratic process.
+
+...
+
+[Data](articles/6e02e02a.json)
+
+---
+
+### Preliminary Budget 2025 discussions begin under President’s leadership
+
+*2024-12-12 04:50:32* · [`dailyftlk`](https://www.ft.lk/news/Preliminary-Budget-2025-discussions-begin-under-President-s-leadership/56-770393) · `en`
+
+The groundwork for the 2025 Budget has commenced at the Ministry level, with President Anura Kumara Dissanayake leading the initial discussions.
+
+These preliminary meetings, which began on Tuesday and continued yesterday, aim to outline expenditure priorities for the upcoming fiscal year.
+
+On Tuesday, the discussions at the Presidential Secretariat focused on Budget proposals for the Ministries of Health, Mass Media, Agriculture, Livestock, Lands and Irrigation. Yesterday, attention turned to the Rural Development, Social Security and Community Empowerment Ministry as well as the Transport, Highways, Ports and Civil Aviation Ministry.
+
+The discussions marked the start of a critical phase in the new administration’s fiscal planning as it seeks to address pressing national priorities whilst ensuring efficient resource allocation for 2015.
+
+...
+
+[Data](articles/2c00942f.json)
+
+---
+
+### Sri Lanka and Switzerland consolidate enduring ties with two high-level visits
+
+*2024-12-12 04:49:29* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Switzerland-consolidate-enduring-ties-withtwo-high-level-visits/56-770392) · `en`
+
+Foreign Minister, Vijitha Herath, had a cordial meeting with Assistant State Secretary and Swiss Federal Department of Foreign Affairs Peace and Human Rights Division Head Ambassador Tim Enderlin, during his recent visit to Sri Lanka.
+
+The discussion centred on promoting national unity and reconciliation in the country. The Foreign Minister reiterated the Government’s commitment to building one national identity for all Sri Lankans and requested Swiss support for strengthening initiatives such as dialogue and capacity building for attaining sustainable peace and inclusive development. The Swiss side affirmed its continuous support to further strengthen the relations in key areas of mutual interests.
+
+...
+
+[Data](articles/6a2e2129.json)
+
+---
+
+### COYLE launches ‘I AM the Sri Lankan Entrepreneur’ awards scheme
+
+*2024-12-12 04:43:50* · [`dailyftlk`](https://www.ft.lk/business/COYLE-launches-I-AM-the-Sri-Lankan-Entrepreneur-awards-scheme/34-770391) · `en`
+
+From left: Association of HR Professionals Sri Lanka President Roshan Kulasuriya, AICPA and CIMA Country Manager Zahara Ansary, Kelaniya University Central Business Incubator Head Dr. Srinath Dissanayake, Sri Lanka Standards Institution Director General Dr. Siddhika Senaratne, COYLE Organising Committee Member Jayamal Gunaratne, COYLE Vice Chairman Suren Chandraratna, COYLE Chairman Thushira Raddella, Senior Vice Chairman Manjula Wijesundera, Past Chairman Rohitha Silva, Member Ruwan Edirisinghe, and CIM Sri Lanka and Maldives Country Head Onalie Dissanayake – Pic by Sameera Wijesinghe
+
+The Chamber of Young Lankan Entrepreneurs (COYLE) this week unveiled ‘I AM the Sri Lankan Entrepreneur 2024’, a prestigious awards evening dedicated to celebrating and empowering the country’s most remarkable entrepreneurs.
+
+Taking place on 5 March 2025, this landmark event will honour those whose bold vision and innovation have driven Sri Lanka’s industries forward.
+
+...
+
+[Data](articles/743e39d0.json)
+
+---
+
+### Shan Meemanage wins award for innovation in shellfish farming and exports from Sri Lanka
+
+*2024-12-12 04:42:38* · [`dailyftlk`](https://www.ft.lk/business/Shan-Meemanage-wins-award-for-innovation-in-shellfish-farming-and-exports-from-Sri-Lanka/34-770390) · `en`
+
+Tropical Shellfish Ltd., established in 2015 by Shan Meemanage – a distinguished leader in Sri Lanka’s seafood export industry – has been named the winner of the ‘Most Innovative Shellfish Farming and Export Company of the Year – Asia Award 2024’ by the Business World International Organisation.
+
+The awards ceremony, which will be held in Bangkok, Thailand on 25 January 2025, celebrates Meemanage’s exceptional contributions to sustainable aquaculture and innovative practices that have revolutionised the seafood export industry in Asia.
+
+The award will be granted by Thailand Prime Minister Paetongtarn Shinawatra and the occasion will be graced by King of Thailand Vajiralongkorn.
+
+...
+
+[Data](articles/4593eb52.json)
+
+---
 
 ### Rural Development Ministry Expenditure Title Discussion
 
@@ -2447,161 +2547,5 @@ Recently, he was at the center of national attention following a controversial a
 [Data](articles/4f05e4f1.json)
 
 [Extended Data](ext_articles/4f05e4f1.ext.json)
-
----
-
-### Adani Group, which recovered the request for financial assistance
-
-*2024-12-11 11:37:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியுதவிக்கான-கோரிக்கையை-மீளப்-பெற்ற-அதானி-குழுமம்/175-348574) · `ta`
-
-Adani Group secures funding for Colombo Port project after recovering from US International Development Corporation. The company will now finance the development internally. This move comes amid bribery allegations against the group in a US court.
-
-🟩
-
-India's Adani Group has recovered the demand for funding to the US International Development Corporation for the Western Terminal Development Program of the Colombo Port.
-
-The United States International Development Corporation announced last year that it would provide US $ 553 million funded by the group's request to the Colombo Port Western Terminal Development Project with the participation of the Adani Group.
-
-In this case, the Adani Group has recovered the request. Accordingly, the Adani Group has announced that it will fund the Colombo West terminal project through internal fund raising.
-
-Meanwhile, India's Adani Group has recovered the demand for the US's funding for the US, with bribery allegations against the Adani Group in the US court.R
-
-◼️
-
-[Data](articles/0e276ff4.json)
-
-[Extended Data](ext_articles/0e276ff4.ext.json)
-
----
-
-### Solutions to the estate housing problem - plans
-
-*2024-12-11 11:37:07* · [`adalk`](https://www.ada.lk/breaking_news/වතුකර-නිවාස-ගැටළුවට-විසඳුම්---සැලසුම්/11-413577) · `si`
-
-Estate housing solutions: Plans for apartments, including up to 5 complexes approved by National Building Research Organization. Land from plantation reserves used for elderly housing.
-
-🟩
-
-Planting to construct apartment, the Ministry of Plantation and Community Infrastructure said.
-
-It is further learned that plans are being studied with a number of apartment complexes, less than 6 apartment complexes in accordance with the approval of the National Building Research Organization approval.. Since the construction of individual housing, the land in the plantation reserves has been resolved largely as an elderly solution.
-
-◼️
-
-[Data](articles/7df4048d.json)
-
-[Extended Data](ext_articles/7df4048d.ext.json)
-
----
-
-### Unidentified fever in Jaffna
-
-*2024-12-11 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204260) · `si`
-
-Fever outbreak in Jaffna: Ministry investigates unidentified illness. Symptoms include high fever, muscle pain, and bleeding. Most affected: farmers, flood workers, and water cultivators. Ministry offers free antibiotics to those at risk.
-
-🟩
-
-The Epidemiology Unit of the Ministry of Health is investigating that a non-detected fever is spreading in Jaffna district.
-
-She was speaking at a press conference held at the Health Promotion Bureau today (11) regarding the risk of the rat fever.
-
-She said that the fever and respiratory disagreements were reported in these areas and investigations are being conducted by the samples of the fever.
-
-She added that more than 9,000 leap patients were reported in the country in 2023 and about 200 patients were killed.
-
-She also said that during the past year, she has increased compared to the previous year.
-
-She said that farmers, floods, floods, and water related employees in mud and water cultivation, floods, paddy fields, other duties, and water-related workers are the most vulnerable to the fever.
-
-She pointed out that there could be symptoms of strict fever, severe muscles, roughness, bleeding, bleeding, inability, and the reduction in the urine.
-
-...
-
-[Data](articles/df850d69.json)
-
-[Extended Data](ext_articles/df850d69.ext.json)
-
----
-
-### Dhananinjaya's assessment of batsmen
-
-*2024-12-11 11:26:01* · [`adalk`](https://www.ada.lk/sports/පිතිකරුවන්-ගැන-ධනංජයගේ-තක්සේරුව/9-413576) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dhananjaya De Silva spoke at Katunayake airport about Sri Lanka's Test team performance in South Africa. He mentioned upcoming matches in Sri Lanka and the team's departure from Dubai.
-
-🟩
-
-Sri Lanka Test team Dhananjaya Dananjaya Dananjaya De Silva said at the Katunayake airport this morning.
-
-He was speaking to the media at the Katunayake airport after returning to Sri Lanka after the two Tests in South Africa.
-
-Speaking further Dhananjatha de Silva said that his group played his team in South Africa.
-
-He said that Sri Lanka would arrive in Sri Lanka for two matches in the future and had been hoped.
-
-Sri Lanka Test team at 8.22 am on 08.22 am on Dubai from Dubai to Emirates Airport.
-
-◼️
-
-[Data](articles/5daec6fb.json)
-
-[Extended Data](ext_articles/5daec6fb.ext.json)
-
----
-
-### Inairi US Harbor Project says no
-
-*2024-12-11 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204259) · `si`
-
-Colombo harbor projects face setbacks: Inari US Harbor says no, Avil group exits loan, US Attorney General investigates bribery, Western terminal development continues with internal funds, Suphani Port abandons $553m loan, Indian media reports valuable capital reserves deployed, Rajapakse Group develops West Terminal despite uncertainty.
-
-🟩
-
-The Avil group has left the loan agreement with US port terminal at the Colombo harbor.
-
-The US Attorney General's Department is in the background of bribery and corruption against Gautam Company.
-
-However, the development activities of the Western terminal will be able to use their internal capital reserves.
-
-The Suphani Port and Special Economic Zone Company said that the US port terminal was abandoned by US $ 553 million loan agreement with the development of the Colombo harbor.
-
-Indian media reports say that the invaluable capital reserves are due to deploy their internal capital reserves for the Colombo West International Terminal Project.
-
-The Rajapakse Group has been placed in the company's company to develop the West Terminal of the Colombo harbor.
-
-The project was reached last year to contribute to the project.
-
-...
-
-[Data](articles/af8529e3.json)
-
-[Extended Data](ext_articles/af8529e3.ext.json)
-
----
-
-### Sri Lanka to announce vehicle import relaxation ‘under certain limits’
-
-*2024-12-11 11:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-vehicle-import-relaxation-under-certain-limits-193479/) · `en`
-
-ECONOYMEXT – Sri Lanka will soon make an announcement on relaxing vehicle imports, subject to certain constraints, Minister Nalinda Jayatissa said.
-
-“The decision on vehicle imports was made after taking into account the economic situation, our economic targets, our reserves and with the close supervision of the Ministry of Finance,” Minister Jayatissa told reporter in Colombo Tuesday.
-
-“The relaxation of vehicle imports should be to be understood in the context of those limits. Do not give various messages and mislead the public.
-
-“Which vehicles will be allowed to be imported will be announced by the finance ministry soon. I am again saying against that import controls will be relaxed under some limits (yam-yam see-ma va-la-ta ya-tath-va).”
-
-Minister Jayatissa was responding to a question on advertisements by vehicle importers and deposits collected.
-
-...
-
-[Data](articles/89215e4b.json)
-
-[Extended Data](ext_articles/89215e4b.ext.json)
 
 ---

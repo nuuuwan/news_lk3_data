@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 15:14:21**
+As of **2024-12-11 15:42:59**
 
 ## Newspaper Stats
 
-*Scraped **59,614** Articles*
+*Scraped **59,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,595
 economynextcom | 3,627
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,659
-adaderanalk | 7,260
-tamilmirrorlk | 8,511
+adalk | 5,660
+adaderanalk | 7,261
+tamilmirrorlk | 8,512
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,586 (100.0%) of 59,614 articles have been extended.
+59,588 (100.0%) of 59,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### கொழும்பு துறைமுக திட்டம்: அமெரிக்க நிதியுதவியை  ஏற்க அதானி  மறுப்பு
+
+*2024-12-11 15:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-துறைமுக-திட்டம்-அமெரிக்க-நிதியுதவியை-ஏற்க-அதானி-மறுப்பு/175-348585) · `ta`
+
+இலங்கையின் கொழும்பு துறைமுகத்தில் புதிய முனையம் அமைத்து வரும் அதானி நிறுவனத்துக்கு அமெரிக்க நிறுவனம் நிதி உதவி அளிக்க ஒப்புக்கொண்டிருந்த நிலையில் அந்த நிதியுதவி தேவையில்லை என அதானி நிறுவனம் தெரிவித்துள்ளது.
+
+கொழும்பு துறைகத்தில், கொழும்பு மேற்கு சர்வதேச முனையம் (CWIT) எனப்படும் ஆழ்கடல் கொள்கலன் முனையத்தின் வளர்ச்சி, கட்டுமானம் மற்றும் இயக்கத்துக்கான பணிகள் மேற்கொள்ளப்பட்டு வருகின்றன. அதானி போர்ட்ஸ், இலங்கை கூட்டு நிறுவனமான ஜோன் கீல்ஸ் ஹோல்டிங்ஸ் பிஎல்சி மற்றும் இலங்கை துறைமுக அதிகாரசபை (SLPA) ஆகியவற்றின் கூட்டமைப்பினால் CWIT உருவாக்கப்பட்டு வருகிறது.
+
+இத்திட்டத்துக்கு அமெரிக்காவின் இன்டர்நேஷனல் டெவலப்மென்ட் ஃபைனான்ஸ் கார்ப்பரேஷன் (US IDFC) 553 மில்லியன் டொலர் கடன் உதவி வழங்க கடந்த ஆண்டு நவம்பரில் ஒப்புக்கொண்டது. இந்நிலையில், அமெரிக்க நிறுவனத்துடனான கடன் ஒப்பந்தத்தில் இருந்து அதானி குழுமம் வெளியேறியுள்ளது.
+
+...
+
+[Data](articles/3ba58261.json)
+
+---
 
 ### I am the Sri Lankan Entrepreneur 2024 award from COYLE
 
@@ -51,6 +67,42 @@ Applications are now open and can be downloaded from the COYLE website. Entries 
 ...
 
 [Data](articles/b9df6c0c.json)
+
+[Extended Data](ext_articles/b9df6c0c.ext.json)
+
+---
+
+### PUCSL’s final decision on electricity tariff revision on Jan. 17
+
+*2024-12-11 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104166/pucsls-final-decision-on-electricity-tariff-revision-on-jan-17) · `en`
+
+The final decision of the Public Utilities Commission of Sri Lanka (PUCSL) on the proposed electricity tariff revisions will be announced on 17 January 2025, the PUCSL announced.
+
+Meanwhile, the PUCSL also said that the public consultation regarding the proposed tariff revision is scheduled to get underway from 17 December 2024.
+
+Accordingly, the general public are allowed to submit their opinions regarding the matter virtually or in writing before January 08, 2024.
+
+Post – Public Consultation on electricity tariff, Public Utilities Commission of Sri Lanka, BOC Corporate Tower, Colombo 03
+
+On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months.
+
+...
+
+[Data](articles/433db035.json)
+
+---
+
+### යාපනය දිස්ත්‍රික්කයේ හඳුනා නොගත් උණ රෝගී තත්ත්වයක්
+
+*2024-12-11 14:30:50* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රික්කයේ-හඳුනා-නොගත්-උණ-රෝගී-තත්ත්වයක්/11-413579) · `si`
+
+යාපනය දිස්ත්‍රික්කයේ හඳුනා නොගත් උණ රෝගී තත්ත්වයක් පැතිර යන බව වසංගත රෝග විද්‍යා අංශයේ වෛද්‍ය කුමුදු වීරකෝන් මහත්මිය පැවසීය.
+
+කොළඹ අද (11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඇය මේ බව සඳහන් කළාය.
+
+◼️
+
+[Data](articles/5c5d3256.json)
 
 ---
 
@@ -161,6 +213,8 @@ Countries experience foreign exchange shortages when reserve collecting central 
 ...
 
 [Data](articles/bcf9841e.json)
+
+[Extended Data](ext_articles/bcf9841e.ext.json)
 
 ---
 
@@ -2249,81 +2303,5 @@ The current published gazette is found to be cigarette. 225 rupees to buy rice f
 [Data](articles/bb33518d.json)
 
 [Extended Data](ext_articles/bb33518d.ext.json)
-
----
-
-### Increasingly violence against girls - Northern Governor's concern
-
-*2024-12-10 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200935) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Northern Governor expresses concern over increasing violence against girls. Calls for women to report incidents and urges action against perpetrators. Petition handed over at event attended by officials and activists.
-
-🟩
-
-Under the auspices of the Northern Provincial Women's Affairs, Rehabilitation, Social Services, Cooperative, Distribution and Industry, with the support of the Ministry of Entrepreneurship Development and Commerce Commerce, the 16 -day event on the 16 -day event on the 16th day of the event on the occasion of violence against women and children.The Northern Province Chief Secretary's Office Auditorium was held on Tuesday (10).
-
-The Governor said this while participating as the chief guest at the event.
-
-The governor, asking for women to come forward to make complaints at any site, should raise a wide range of awareness.
-
-The governor pointed out that even though women complained about the violence in the state departments, the governor pointed out that it would be impossible to take action against those involved.
-
-In her speech, the Governor of the Northern Province congratulated Mrs. Kalachelvi, an activist from the Mullaitivu district, who expressed his experience at the event.
-
-...
-
-[Data](articles/8db3b5d7.json)
-
-[Extended Data](ext_articles/8db3b5d7.ext.json)
-
----
-
-### Prime Minister of Syria
-
-*2024-12-10 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204241) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Mohammed Al-Busheer named interim PM of Syria. Former rebel leader replaces Bashar al-Assad after he stepped down.
-
-🟩
-
-International media reports that Mohammed Al-Busheer has been appointed as the Interim Prime Minister of Syria.
-
-He was the head of the government ruled by the rebels.
-
-Bashar al-Assad, who was president of Syria (08) last Sunday, lived from his post and escaped.
-
-◼️
-
-[Data](articles/0444f79d.json)
-
-[Extended Data](ext_articles/0444f79d.ext.json)
-
----
-
-### මිල ඉහළ යාමත් සමග සහල් තොග වැඩි වැඩියෙන් වෙළඳපොළට
-
-*2024-12-10 18:29:06* · [`adalk`](https://www.ada.lk/breaking_news/මිල-ඉහළ-යාමත්-සමග-සහල්-තොග-වැඩි-වැඩියෙන්-වෙළඳපොළට/11-413568) · `si`
-
-සහල් මිල ඉහළ දැමීමත් සමග ඊයේ(10දා)  දිනයේදී බොහෝ ප්‍ර දේශවලට විශාල ලෙස සහල් තොග ලැබුණු බව ව්‍යාපාරිකයෝ සඳහන් කරති.
-
-මේ අනුව පෙරේදා රාත්‍රියේ පාරිභෝගික කටයුතු අධිකාරිය විසින් නිකුත් කළ ගැසට් නිවේදනයේ සඳහන් පාලන මිලට අනුව ඊයේ සහල් අලෙවි කිරීමට  කටයුතු කළ බවද එම පිරිස් පෙන්වා දෙති.
-
-සහල් මිල ඉහළ දැමීමත් සමග පසුගිය දිනවල ඇතැම්  ප්‍රදේශවල පැවැති සහල් හිඟය අවසන් වී තිබෙන අතර ඇතැම් වෙළෙඳුන් විසින් එක් පාරිභෝගිකයෙකුට සහල් ලබා දීමේදී සහල් කිලෝ 03 ක් හෝ 05ක් වශයෙන් සීමා කර ලබා දීමත් ඊයේ දිනය වන විට අවසන් වී ඇත.
-
-මේ අනුව නව සහල් මිලට අනුව තමන්ට අවශ්‍ය තරම්  සහල් මිලදී ගැනිමේ අවස්ථාව ජනතාවට හිමි ව තිබේ.  ආනයනික සහල් මේ සතියෙහි පැමිණීමත් සමග යම් ප්‍රදේශයක තවදුරටත් සහල් හිඟයක් පවතිනවා නම් එයද අවසන් වන බව ව්‍යපාරිකයෝ පෙන්වා දෙති.
-
-මේ මස 07 වැනි දා නිෂ්පාදිත දිනය සඳහන් නාඩු හා සම්බා සහල් කිලෝ 05 බෑග්වල සඳහන් මිලට වඩා රුපියල් පනහක් වැඩියෙන් ඇතැම් ව්‍යපාරිකයන් ඊයේ අයකර ගත් බව පාරිභෝගිකයෝ සඳහන් කරති.
-
-...
-
-[Data](articles/e676f924.json)
 
 ---

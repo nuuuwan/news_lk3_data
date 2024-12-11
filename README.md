@@ -1,52 +1,360 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 10:43:01**
+As of **2024-12-11 11:43:37**
 
 ## Newspaper Stats
 
-*Scraped **59,573** Articles*
+*Scraped **59,589** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
-colombotelegraphcom | 603
+colombotelegraphcom | 604
 bbccomsinhala | 622
 islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,653
-adaderanalk | 7,252
-tamilmirrorlk | 8,500
-virakesarilk | 9,778
-adaderanasinhalalk | 10,294
+adalk | 5,654
+adaderanalk | 7,253
+tamilmirrorlk | 8,504
+virakesarilk | 9,781
+adaderanasinhalalk | 10,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,557 (100.0%) of 59,573 articles have been extended.
+59,567 (100.0%) of 59,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### ”சபாநாயகர் உடனடியாக இராஜினாமா செய்ய வேண்டும்”
+### நிதியுதவிக்கான கோரிக்கையை மீளப் பெற்ற அதானி குழுமம்
+
+*2024-12-11 11:37:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியுதவிக்கான-கோரிக்கையை-மீளப்-பெற்ற-அதானி-குழுமம்/175-348574) · `ta`
+
+கொழும்பு துறைமுகத்தின் மேற்கு முனைய அபிவிருத்தி திட்டத்துக்காக அமெரிக்காவின் சர்வதேச அபிவிருத்தி கூட்டுத்தாபனத்திடம் முன்வைத்த நிதியுதவிக்கான கோரிக்கையை இந்தியாவின் அதானி குழுமம் மீளப் பெற்றுள்ளது.
+
+அதானி குழுமத்தின் பங்களிப்புடன் முன்னெடுக்கப்படும் கொழும்பு துறைமுக மேற்கு முனைய அபிவிருத்தி திட்டத்திற்கு, அந்த குழுமத்தின் கோரிக்கைக்கு அமைய 553 மில்லியன் அமெரிக்க டொலர் நிதியுதவி வழங்குவதாக அமெரிக்காவின் சர்வதேச அபிவிருத்தி கூட்டுத்தாபனம் கடந்த ஆண்டு அறிவித்திருந்தது.
+
+இந்தநிலையில், குறித்த கோரிக்கையை அதானி குழுமம் மீளப் பெற்றுள்ளது. அதற்கமைய, கொழும்பு மேற்கு முனையத் திட்டத்துக்காக உள் நிதி திரட்டல்கள் மூலம் நிதியளிப்பதாக அதானி குழுமம் அறிவித்துள்ளது.
+
+இதேவேளை, அமெரிக்க நீதிமன்றத்தில் அதானி குழுமத்திற்கு எதிராக லஞ்ச குற்றச்சாட்டுகள் முன்வைக்கப்பட்டுள்ள நிலையில், அமெரிக்காவிடம் முன்வைத்த நிதியுதவிக்கான கோரிக்கையை இந்தியாவின் அதானி குழுமம் மீளப் பெற்றுள்ளமை குறிப்பிடத்தக்கது.  R
+
+◼️
+
+[Data](articles/0e276ff4.json)
+
+---
+
+### යාපනයේ හඳුනානොගත් උණ රෝගයක්
+
+*2024-12-11 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204260) · `si`
+
+යාපනය දිස්ත්‍රික්කයේ හඳුනා නොගත් උණ රෝගී තත්ත්වයක් පැතිර යන අතර මෙම රෝගී තත්ත්වය මී උණ රෝගී තත්ත්වයද යන්න තහවුරු කර ගැනීම සඳහා පරීක්ෂණ පැවැත්වෙන බව සෞඛ්‍ය අමාත්‍යංශයේ වසංගත රෝග විද්‍යා අංශයේ වෛද්‍ය කුමුදු වීරකෝන් මහත්මිය පවසයි.
+
+මී උණ රෝගය වැඩි වශයෙන් පැතිරයාමේ අවදානම සම්බන්ධව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ අද (11) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඇය මේ බව පැවසීය.
+
+උණ, සහ ශ්වසන අපහසුතා එම ප්‍රදේශ තුලින් වාර්තා වී ඇති බවත් මේ වන විට අදාළ උණ රෝගීන්ගේ සාම්පල ලබා ගනිමින් පරීක්ෂණ පවත්වන බවත් ඇය පැවසුවාය.
+
+එමෙන්ම පසුගිය 2023 වසරේ දිවයින පුරා මී උණ රෝගීන් 9,000කට අධික පිරිසක් වාර්තා වූ බවත් ඉන් රෝගීන් 200කට ආසන්න ප්‍රමාණයක් මරණයට බවත් ඇය පැවසුවාය.
+
+එමෙන්ම මේ වසරේ ගතවූ කාල සීමාව තුළ රෝගීන් වාර්තා වීම පෙර වසරට සාපේක්ෂව ඉහළ ගොස් ඇති බවත් ඇය මෙහිදී පැවසුවාය.
+
+...
+
+[Data](articles/df850d69.json)
+
+---
+
+### කොළඹ වරාය ව්‍යාපෘතියට අදානි අමෙරිකාවෙන් ඩොලර් එපා කියයි
+
+*2024-12-11 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204259) · `si`
+
+කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය සඳහා අදානි සමූහය අමරිකාව සමග ඇතිකර ගත් ඩොලර් මිලියන 553ක ණය ගිවිසුමෙන් ඉවත් වී තිබේ.
+
+ඒ අදානි සමූහයේ නිර්මාතෘ ගෞතම් අදානිට එරෙහිව අමරිකානු නීතිපති දෙපාර්තමේන්තුව අල්ලස් හා දූෂණ චෝදනා ගොනුකර ඇති පසුබිමකයි.
+
+කෙසේ වෙතත් බටහිර පර්යන්තයේ සංවර්ධන කටයුතු අදානි සමූහය සිය අභ්‍යන්තර ප්‍රාග්ධන සංචිත යොදවා සිදුකිරීමට නියමිතය.
+
+කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය කිරීමේ ව්‍යාපෘතිය සඳහා අමරිකානු ජාත්‍යන්තර සංවර්ධන මූල්‍ය සංස්ථාව විසින් අපේක්ෂා කල අමරිකානු ඩොලර් මිලියන 553ක ණය ගිවිසුම අත්හැර දැමූ බව අදානි වරාය හා විශේෂ ආර්ථික කලාප සමාගම පවසයි.
+
+ඉන්දීය මාධ්‍ය වාර්තා පවසන්නේ ඒ අනුව කොළඹ බටහිර ජාත්‍යන්තර පර්යන්තය ව්‍යාපෘතිය සඳහා අදානි සමූහය සිය අභ්‍යන්තර ප්‍රාග්ධන සංචිත යෙදවීමට නියමිත බවය.
+
+කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය කිරීම සඳහා පිහිටවනු ලැබූ සමාගමේ බහුතර කොටස් අදානි සමූහයට හිමිව තිබේ.
+
+එම ව්‍යාපෘතිය සඳහා අමරිකාව මූල්‍ය දායකත්වය දැක්වීම සඳහා පසුගිය වසරේදී ගිවිසුමකට එළැඹුණි.
+
+...
+
+[Data](articles/af8529e3.json)
+
+---
+
+### சர்வதேச சமூகத்திடமிருந்து ஆதரவை பெறுதல்
+
+*2024-12-11 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200964) · `ta`
+
+கடந்த கால ஊழல் மற்றும் ஊதாரித்தனத்தின் விளைவாக பொருளாதார வளங்கள் இல்லாமல் இருப்பதே தற்போதைய தருணத்தில் அரசாங்கத்தின் வெற்றிக்கு இருக்கின்ற பிரதான நிர்ப்பந்த நிலையாகும். மிலெனியம் சவால் கோர்ப்பரேசனின் கீழ் நாட்டின் வீதி மற்றும் போக்குவரத்து கட்டமைப்பை மேம்படுத்துவதற்கு அமெரிக்கா வழங்க முன்வந்த 450 மில்லியன் டொலர்கள் நன்கொடையையும் இலகு ரயில் போக்குவரத்து முறையை அயைப்பதற்கு குறைந்த வட்டி வீதத்தில் ஜப்பான் வழங்க முன்வந்த 1.2 பில்லியன் டொலர்களையும் கடனுதவியையும் ஜனாதிபதி கோட்டாபய ராஜபக்சவின் கீழான முன்னைய அரசாங்கம் நிராகரிக்கத் தீர்மானித்தற்கான காரண அடிப்படையை விளங்கிக்கொள்ள முடியாமல் இருக்கிறது.
+
+◼️
+
+[Data](articles/3792bafc.json)
+
+---
+
+### ශිවාජිලිංගම් රෝහල්ගත කෙරේ
+
+*2024-12-11 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204258) · `si`
+
+අසනීප තත්ත්වයක් හේතුවෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී එම්. කේ. ශිවාජිලිංගම් මහතා කොළඹ පෞද්ගලික රෝහලක දැඩි සත්කාර ඒකකයකට ඇතුළත් කොට ඇති බව ඥාතීහූ පවසති.
+
+දෙමළ ජාතික පක්ෂයේ ප්‍රධාන ලේකම් ධූරය දරන ශිවාජිලිංගම් මහතා පසුගිය සමයේ ගත් දේශපාලන තීන්දු තීරණ හේතුවෙන් ජනතාව අතර ප්‍රසිද්ධියට පත්විණ.
+
+දෙමළ ජාතික සන්ධානය නියෝජනය කරමින් 2004 වසරේ පාර්ලිමේන්තුවට තේරී පත්වු ඒ මහතා, පසුගිය දා උතුරේ මහවිරු සැමරුම් පවත්වමින් කේක් කැපීමේ සිදුවීම රට තුළ මහත් කතාබහට ලක්වුණි.
+
+◼️
+
+[Data](articles/25036cb2.json)
+
+---
+
+### Police have also deceased the suspect's disguise
+
+*2024-12-11 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204257) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Suspect impersonating police arrested with ice drugs. Seized 10mg during Mulleriyawa-Kelanimulla arrest. Allegedly called police station for release. Linked to Delgoda robbery. Another suspect from Piliyandala arrested for supporting robbery.
+
+🟩
+
+A suspect has been arrested with ice drugs to pretending to be a police officer and rescue suspect.
+
+The suspect was arrested on the 6th in the Mulleriyawa and Kelanimulla area.
+
+At the time of the arrest of the suspect, he had seized 10 milligrams of ice narcotics.
+
+A suspect who was arrested by the Mulleriyawa police station on the 01st yesterday had telephoned the OIC of the Mulleriyawa OIC to be released.
+
+It has been revealed that the Minister of Mulleyas OIC not to investigate the telephone call.
+
+The suspects were revealed that the suspect had taken place in court in the courtyard and mortgaged a robbery in Delgoda, Delgoda, Delgoda, Delgoda.
+
+Another suspect who supported the robbery was arrested by the Mulleriyawa Police Station yesterday (10).
+
+The suspect is a resident of Piliyandala, aged 53.
+
+It has been revealed that the suspect had taken place in three robbery in the incident.
+
+◼️
+
+[Data](articles/b19923d1.json)
+
+[Extended Data](ext_articles/b19923d1.ext.json)
+
+---
+
+### 100th Anniversary of Diplomatic Relations
+
+*2024-12-11 11:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திர-உறவுகளின்-100-வது-ஆண்டு-நிறைவு-விழா/175-348571) · `ta`
+
+Sri Lanka-Iraq diplomatic ties celebrated. Opposition leader Sajith Premadasa attends reception at Grand Hotel Colombo. Event marks 100 years of bilateral relations.
+
+🟩
+
+Opposition Leader Sajith Premadasa was the chief guest at a reception organized by the Iraqi Embassy in Colombo on Tuesday (10) at the Grand Hotel in Colombo on the 100th anniversary of diplomatic relations between Sri Lanka and Iraq.
+
+Ambassador to the Republic of Iraq. A.. A number of political dignitaries participated in the event, which was held at the invitation of Al-Emin.
+
+◼️
+
+[Data](articles/4713febc.json)
+
+[Extended Data](ext_articles/4713febc.ext.json)
+
+---
+
+### “Removal of oppressive laws, including terrorism law” - UN Office
+
+*2024-12-11 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200955) · `ta`
+
+UN Office calls for removal of oppressive laws including terrorism law. North South Brotherhood protests in Colombo demand abolition of repressive acts and political prisoner release.
+
+🟩
+
+The North and South Brotherhood, which fought in front of the UN office in Colombo on the International Human Rights Day, urged the immediate abolition of repression laws, including the Terrorism Act.
+
+On Tuesday (10), the North and Southern Brotherhood was organized in front of the United Nations Office in Colombo to express human rights.
+
+Participants in this struggle 'Delete the Terrorism Act', 'Delete the Ceremonial Backup Act', 'to ensure the right to survive', 'immediately release political prisoners', 'Provide justice for justice', 'Provide justice to the victims of the life of the Missing Sunday'.- The Ranil government has been involved in a protest, carrying out the words written by the government, 'Lack of the Laws of the Ranil' and 'the rights of the Dalpatum community'.
+
+Commenting on the struggle, Attorney -at -Law Srinath Perera, the coordinator of the North and South Brotherhood, said that the struggle was aimed at expressing human rights concern in the country.
+
+...
+
+[Data](articles/fb721a89.json)
+
+[Extended Data](ext_articles/fb721a89.ext.json)
+
+---
+
+### "Jerome is not the pastor of the Catholic Church"
+
+*2024-12-11 10:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெரோம்-கத்தோலிக்க-திருச்சபையின்-போதகர்-அல்ல/175-348567) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Catholic Church denies Pastor Jerome Fernando as its leader. Bishops' Council warns against misinformation about his status. No official apostolic proof exists for him within the Church."
+
+🟩
+
+Pastor Jerome Fernando was not the pastor of the Catholic Church and therefore the Catholic Bishops Council in Sri Lanka yesterday (10) had made it clear that the Catholic Church should not be fooled.
+
+Jerome Fernando is not a Catholic bishop, who has no official apostle proof in the Catholic Church, so we are urging Catholic believers not to deceive such information.
+
+◼️
+
+[Data](articles/1305348c.json)
+
+[Extended Data](ext_articles/1305348c.ext.json)
+
+---
+
+### The killings in the place
+
+*2024-12-11 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204256) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Double homicide reported: Jaela (45yo) & Lacketa (44yo). Sharp objects used. Suspects fleeing. Investigations ongoing."
+
+🟩
+
+Two human murders have taken place in two places in the island.
+
+In the Jaela, a heated argument was attacked with a sharp object.
+
+The victim was a 45 year old resident of Walapane.
+
+When a heated in the break in the rest room, a heated argument was detected when they were farming.
+
+The suspect had fled the area and the Jappara Police are conducting further investigations.
+
+Meanwhile, a woman has been assaulted by a woman with a sharp weapon in the Lacketa area of ​​the Laggala Police Division.
+
+The murder had been attacked by the husband with a sharp instrument by the husband of disturbing a family dispute.
+
+The deceased has been identified as a 44 year old resident of Narangamuwa, Luckala.
+
+The remains are placed at the Laggala hospital morgue and the suspect was arrested and the Laggala police are conducting further investigations.
+
+◼️
+
+[Data](articles/19930322.json)
+
+[Extended Data](ext_articles/19930322.ext.json)
+
+---
+
+### “The Speaker must resign immediately”
 
 *2024-12-11 10:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-உடனடியாக-இராஜினாமா-செய்ய-வேண்டும்/175-348566) · `ta`
 
-சபாநாயகர் அசோக ரன்வல ஜப்பானில் உள்ள வசேடா பல்கலைக்கழகத்தில் ஒருபோதும் அதன் மாணவராக இருந்ததில்லை என உறுதிப்படுத்தப்பட்டதாகக் கூறிய ஐக்கிய தேசியக் கட்சி, போலி முனைவர் பட்டம் என்பது ஆசியாவிலேயே மிகப் பழமையான பாராளுமன்றத்தையும் இந்த ஒட்டுமொத்த தேசத்தையும் அவமதிக்கும் செயலாகும் என்று தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-“இலங்கையின் பாராளுமன்றம் ஆசியாவிலேயே முதன்மையானது மற்றும் முழு உலகமும் அதில் என்ன நடக்கிறது என்பதை உன்னிப்பாக அவதானித்து வருகிறது. எனவே இலங்கை சபாநாயகர் தமக்கு கலாநிதி பட்டம் இருப்பதாக பொய்யாக கூறுவது நாட்டை அவமதிக்கும் செயலாகும்.
 
-அதன் பிரகாரம் அவர் உடனடியாக தனது பதவியை இராஜினாமா செய்ய வேண்டும் என முன்னாள் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள கட்சியின் சார்பில் அவசரமாக நடாத்தப்பட்ட ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
 
-கம்பஹா மாவட்டத்தில் தேர்தலின் போது NPP யினால் அச்சிடப்பட்டு விநியோகிக்கப்பட்ட தேர்தல் துண்டுப் பிரசுரங்கள் சபாநாயகர் ஜப்பான் வசேடா பல்கலைக்கழகத்தில் முதுகலைப் படிப்பைப் பின்பற்றியதாக கூறியுள்ளதாக திருமதி அத்துகோரள தெரிவித்தார்.
+"UNP demands Speaker's immediate resignation over fake Japanese PhD. Party claims deception of voters in Gampaha district. Questions integrity of other NPP MPs' credentials."
+
+🟩
+
+The United National Party (UNP), which has confirmed that he has never been a student at the University of Wasada, Japan, has said that the fake doctoral degree is an act of contempt of Asia and the entire nation.
+
+“The Parliament of Sri Lanka is the first in Asia and the whole world is watching what is happening in it. Therefore, it is an insult to the country that the Speaker of Sri Lanka has a doctor's degree.
+
+Former parliamentarian Dalada Athukorala said at a media briefing held on behalf of the party that he should resign immediately.
+
+Mrs. Atukorala said that the election leaflets printed and distributed by NPP during the election in Gampaha district had adopted a postgraduate study at the University of Japan, Japan.
+
+Accordingly, the people of the Gampaha district and voters in the entire country have been deceived.
 
 ...
 
 [Data](articles/4dcfd61e.json)
+
+[Extended Data](ext_articles/4dcfd61e.ext.json)
+
+---
+
+### S Korea ex-minister linked to martial law move attempts to take his life
+
+*2024-12-11 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104158/s-korea-ex-minister-linked-to-martial-law-move-attempts-to-take-his-life) · `en`
+
+South Korea’s former defence minister Kim Yong-hyun, who claimed responsibility for the president’s failed attempt to place the country under martial law last week, has tried to take his own life, an official said.
+
+Authorities found him while making the attempt in his detention centre on Tuesday night, Shin Yong-hae, the justice ministry’s correctional agency chief, told lawmakers.
+
+In the wake of Yoon’s shock martial law order, Kim resigned last week along with other top presidential staff.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+◼️
+
+[Data](articles/f4d3efed.json)
+
+[Extended Data](ext_articles/f4d3efed.ext.json)
+
+---
+
+### Fire breaks out in Wadduwa
+
+*2024-12-11 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204255) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Fire erupted in Wadduwa, spreading quickly. Residents contained it collectively. No property damage reported. Police suspect Buddha lamp caused the fire after being knocked over.
+
+🟩
+
+The fire was spreading the fire and the residents of the area controlled it together.
+
+However, the fire has not been damaged by the fire, police said.
+
+A woman in the house had left the Buddha lamp and the police suspect that it was toppled and burned it.
+
+◼️
+
+[Data](articles/32859f2b.json)
+
+[Extended Data](ext_articles/32859f2b.ext.json)
+
+---
+
+### பயங்கரவாத தடைச்சட்டம், நிகழ்நிலை காப்புச் சட்டம் என்பன தொடர்பில் அவசியமான அடுத்தக்கட்ட நடவடிக்கைகள் முன்னெடுக்கப்பட வேண்டும் - நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர்
+
+*2024-12-11 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200953) · `ta`
+
+பயங்கரவாத தடைச்சட்டம், நிகழ்நிலை காப்புச் சட்டம் என்பன தொடர்பில் அவசியமான அடுத்தக்கட்ட நடவடிக்கைகள் முன்னெடுக்கப்பட வேண்டும் என தான் வலுவாக நம்புவதாக தெரிவித்துள்ள நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் ஹர்ஷன நாணயக்கார, தாம் பெரும்பான்மை ஆணையை பெற்றிருப்பதை காரணம் காட்டி தன்னிச்சையாக செயற்பட மாட்டோம் எனவும், சகல தரப்பினரதும் ஆலோசனைகளை பெற்று முன்னகர்வோம் எனவும் குறிப்பிட்டார்.
+
+சர்வதேச மனித உரிமைகள் தினத்தை முன்னிட்டு 'சர்வஜன நீதி' அமைப்பினால் நேற்று செவ்வாய்க்கிழமை (10) கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்த கலந்துரையாடலில் பங்கேற்று உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+பலஸ்தீனத்துக்கும், இலங்கைக்கும் இடையில் நீண்டகால நல்லுறவு காணப்படுகிறது. ஆகவே பலஸ்தீன விவகாரத்தில் உணர்வுபூர்வமாகவே செயற்படுவோம். நாடு என்ற ரீதியில் பலஸ்தீன மக்களுக்கு குரல் கொடுப்போம்.
+
+...
+
+[Data](articles/2dc603cb.json)
 
 ---
 
@@ -111,6 +419,20 @@ The strikes reportedly destroyed naval vessels, anti-aircraft systems, and weapo
 [Data](articles/6376f31a.json)
 
 [Extended Data](ext_articles/6376f31a.ext.json)
+
+---
+
+### அரிசியை அதிக விலைக்கு விற்ற 50 பேர் சிக்கினர்
+
+*2024-12-11 09:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியை-அதிக-விலைக்கு-விற்ற-50-பேர்-சிக்கினர்/150-348562) · `ta`
+
+கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்த 50 கடைகளுக்கு எதிராக நேற்று (10) நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+
+கட்டுப்பாட்டு விலைக்கு அப்பால் அரிசியை விற்பனை செய்பவர்களை கைது செய்யும் நடவடிக்கையும், இருப்புக்களை மறைத்து வைத்திருப்பவர்களை கைது செய்யும் நடவடிக்கையும் இன்று (11) முதல் விஸ்தரிக்கப்படவுள்ளதாக அதன் பணிப்பாளர் அசேல பண்டார குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/c3c63a81.json)
 
 ---
 
@@ -351,6 +673,22 @@ The government's arrangement should be taken to remove the 18 percent VAT expedi
 [Data](articles/a480e117.json)
 
 [Extended Data](ext_articles/a480e117.ext.json)
+
+---
+
+### උතුරට මිලි මිටර් 100 ඉක්මවූ වැසි
+
+*2024-12-11 07:51:12* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-මිලි-මිටර්-100-ඉක්මවූ-වැසි/11-413573) · `si`
+
+නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍ර දේශයේ පවතින අඩු පිඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට ගමන් කරමින් ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් ඉන්දියාවේ තමිල්සනාඩු වෙරළ වෙත ළගාවිමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+උතුරු, උතුරු මැද, නැහෙනහිර හා වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවත් උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව දන්වයි.
+
+සෙසු ප්‍ර දේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/b42ad96a.json)
 
 ---
 
@@ -624,6 +962,18 @@ Sri Lanka taxes rice at 65000 rupee tax per tonne or around 222 US dollars a ton
 
 ---
 
+### Should The NPP Include A Muslim In The Cabinet Of Ministers?
+
+*2024-12-11 04:55:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-npp-include-a-muslim-in-the-cabinet-of-ministers/) · `en`
+
+Resentment has been growing among the sizable portion of the Muslim community as a result of the NPP government‘s failure to appoint a Muslim to the cabinet, and it appears that demanding a ministerial portfolio specifically designated for the Muslim community in Sri Lanka is reasonable from both a representation standpoint and historical context. It means it is not just any portfolio but the ministry that can lessen the historic problems facing the Muslim community. For example, the Ministry of Muslim Religious, Cultural Affairs, and National Integration and Communal Harmony. A dedicated minister could focus on issues pertinent to the Muslim community, such as Islamic education, Islamic economic development, Muslim cultural preservation, and inter-community relations with and between Christians, Buddhists, and other religious groups that might otherwise be overlooked in broader governmental agendas.
+
+...
+
+[Data](articles/50af4b7d.json)
+
+---
+
 ### Food Policy and Safety Committee to boost national food security
 
 *2024-12-11 04:26:48* · [`dailyftlk`](https://www.ft.lk/news/Food-Policy-and-Safety-Committee-to-boost-national-food-security/56-770336) · `en`
@@ -800,6 +1150,8 @@ Stop Child Cruelty Trust (SCCT) and Child Protection Alliance (CPA) comprising t
 
 [Data](articles/a5671d29.json)
 
+[Extended Data](ext_articles/a5671d29.ext.json)
+
 ---
 
 ### E.B. Creasy Solar secures sustainable energy for S. Thomas’ College with a solar grid-tied system
@@ -813,6 +1165,8 @@ Backed by 146-year legacy, E.B. Creasy Solar’s technology guarantees high retu
 ...
 
 [Data](articles/ed240d89.json)
+
+[Extended Data](ext_articles/ed240d89.ext.json)
 
 ---
 
@@ -2045,363 +2399,5 @@ However, the presidential houses other than the presidential houses in Colombo a
 [Data](articles/4a9d96a2.json)
 
 [Extended Data](ext_articles/4a9d96a2.ext.json)
-
----
-
-### President chairs discussion on Education Ministry’s expenditure
-
-*2024-12-10 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104145/president-chairs-discussion-on-education-ministrys-expenditure-) · `en`
-
-Preliminary discussions at the ministerial level for the preparation of the 2025 Budget proposal have commenced under the leadership of President Anura Kumara Dissanayake.
-
-As part of this process, a discussion on budget proposals related to the expenditure heads of the Ministry of Education was held this morning (10) at the Presidential Secretariat in Colombo, the President’s Media Division said.
-
-The meeting was attended by Prime Minister Dr. Harini Amarasuriya who is also the Minister of Education, Higher Education and Vocational Training; Deputy Minister of Education and Higher Education Dr. Madhura Seneviratne; Secretary to the President Dr. Nandika Sanath Kumanayake; Secretary to the Ministry of Finance Mahinda Siriwardena; and Secretary to the Ministry of Education Nalaka Kaluwawa, along with several senior officials from the respective ministries.
-
-◼️
-
-[Data](articles/871fac26.json)
-
-[Extended Data](ext_articles/871fac26.ext.json)
-
----
-
-### Minister issues scathing response to Ranil’s statement on liquor licenses
-
-*2024-12-10 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104144/minister-issues-scathing-response-to-ranils-statement-on-liquor-licenses) · `en`
-
-The Cabinet Media Spokesperson, Minister Dr. Nalinda Jayatissa, announced that liquor companies owe nearly Rs. 7 billion in taxes, and that the government is taking measures to recover the outstanding dues.
-
-Dr. Jayatissa’s comments came in response to the statement issued by former President Ranil Wickremesinghe’s office on December 09. The statement claimed that Wickremesinghe had not granted any liquor licenses outside the prescribed procedure and emphasized that the government had generated over Rs. 3 billion in revenue by granting liquor licenses.
-
-Addressing the matter today, Minister Jayatissa stated: “Former President Ranil Wickremesinghe said that he hoped to strengthen the temperance movement by issuing 250 to 300 liquor licenses per year and using the taxes generated from them. It is not appropriate for a person who spends his retirement life on the public tax money to express his views in such a sarcastic manner.”
-
-...
-
-[Data](articles/af747e3f.json)
-
-[Extended Data](ext_articles/af747e3f.ext.json)
-
----
-
-### A New Digital Driving License
-
-*2024-12-10 16:25:08* · [`adalk`](https://www.ada.lk/breaking_news/නව-ඩිජිටල්-රියදුරු-බලපත්‍රයක්/11-413559) · `si`
-
-New digital driving license replaces paper one. Government implements current process until digital rollout. Technology allows global data sharing. Proposal from Transport Minister leads to introduction.
-
-🟩
-
-The Cabinet has decided to take necessary steps to introduce a new digital driving license to replace the currently driving license.
-
-The Cabinet of Ministers has also decided to implement the procedure followed in issuing driving licenses until the Digital License is issued.
-
-The government has identified the suitability of issuing a digital driver's license in the world, which facilitates a data transfer of a database of the world, with a new technology as a beverage.
-
-Accordingly, the digital driver's license is due to be introduced to take into account the proposals made by the Transport, Highways, Ports and Civil Aviation Minister.
-
-◼️
-
-[Data](articles/6150a8ff.json)
-
-[Extended Data](ext_articles/6150a8ff.ext.json)
-
----
-
-### The import of vehicles is allowed to limit
-
-*2024-12-10 16:20:35* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනයට-අවසර-දෙන්නේ-සීමාවන්ට-යටත්වයි/11-413558) · `si`
-
-Vehicle imports limited by Cabinet decision, says Health Minister Nalinda Jayatissa. Import permits subject to economic conditions and national reserves.
-
-🟩
-
-Cabinet spokesman, Health and Mass Media Dr. Nalinda Jayatissa says that the authorization grant is subject to certain limits.
-
-The Minister said that the importation of vehicles will be allowed to import permits subject to limits and said, "said the ministries.
-
-The Minister was responding to a question raised by a journalist at a media briefing to inform the Cabinet decisions at the Government Information Department today.
-
-The decision to import vehicles was made by the economic status, economic goals and the reserves of the country under a very close eye on the country's reserves as well as the Finance Ministry.
-
-The Minister emphasized that doing things that are misleading and embarrassed in this regard.
-
-◼️
-
-[Data](articles/026293a6.json)
-
-[Extended Data](ext_articles/026293a6.ext.json)
-
----
-
-### Increasing foreign and domestic tourists
-
-*2024-12-10 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/200888) · `ta`
-
-Sri Lanka sees surge in tourism: 23,958 visitors in first 4 days of Dec, including 4,418 Russians, 4,317 Indians, and 1,592 Brits. Domestic and foreign tourists flock popular sites like parks and waterfalls, straining local infrastructure and services.
-
-🟩
-
-The Tourism Development Authority said that 23,958 tourists arrived in Sri Lanka in the first four days of December.
-
-The Tourism Development Authority said that 4,418 people from Russia, 4,317 from India and 1,592 from Britain arrived in Sri Lanka in December.
-
-The number of tourists visiting the country continues to rise, with domestic and foreign tourists from various parts of the country to invade.
-
-Due to the arrival of more tourists to the area, there is a situation where vehicles cannot move on the main streets in the evening.
-
-Tourists visit the park, Ravana Ella Falls and Star Hotels, causing rented motorists, tour guides, hotel owners, traders and businessmen.
-
-More tourists enjoy enjoying adventures and plenty of things full. The bridge with 9 arches in this area is the most attractive feature of tourists.
-
-◼️
-
-[Data](articles/530070e3.json)
-
-[Extended Data](ext_articles/530070e3.ext.json)
-
----
-
-### Walking of fishermen in Mullaitivu!
-
-*2024-12-10 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/200871) · `ta`
-
-Fishermen march Mullaitivu demand rights stop Indian occupation ban fishing wind power project
-
-🟩
-
-A walk on Tuesday (10) in Mullaitivu under the theme of "We will dedicate us to a decent life by winning the rights of the fishermen community," on Tuesday (10).
-
-The walk, which started in front of the Mullaitivu Fisheries Department, was held up to the Karaituraipattu Pradeshiya Sabha Cultural Hall in Mullaitivu.
-
-Those involved in the walk were raised to make a number of demands, including stopping the Indian drag occupation, implementing the fisheries, implementation of the fisheries, the complete ban on legal fishing, controlling of heavy sand excavation, the suspension of the environmental farming projects and the ban on wind power project.
-
-Representatives and fishermen from 16 districts of the National Fisheries Cooperation Movement were also present.
-
-◼️
-
-[Data](articles/56833492.json)
-
-[Extended Data](ext_articles/56833492.ext.json)
-
----
-
-### Sri Lanka stocks close up, driven by diversified financials
-
-*2024-12-10 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-diversified-financials-193335/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader ASPI kept rising to close up 0.41 percent, or 56.21 points, at 13,774; while the more liquid S&P SL20 Index closed up 0.55 percent, or 22.50 points, at 4,113.
-
-Turnover was 4.3 billion. Major contributing sectors were diversified financials sectors (Rs955mn), and capital goods (Rs890mn).
-
-Market was moving upward due to expectations, market participants have said, with positive momentum continuing ahead of the expected lift of the vehicle import ban.
-
-Companies with exposure to the automotive market saw local investor interest.
-
-Top positive contributors to the ASPI were LOLC Holdings (up at 513.75), Browns Investments (up at 6.40), John Keells Holdings (up at 21.00), LOLC Finance (up at 6.70), and Ceylon Tobacco (up at 1,316.75).
-
-Abans Plc said its issue of 3 million debentures at hundred rupees each to raise 300 million was oversubscribed. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/fe28e680.json)
-
-[Extended Data](ext_articles/fe28e680.ext.json)
-
----
-
-### A young man who falls off a motorcycle
-
-*2024-12-10 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200869) · `ta`
-
-Motorcycle crash kills 23-year-old in Puttalam. Son fell off while riding pillion. Father arrested. Police investigating fleeing vehicle.
-
-🟩
-
-A young man in Puttalam has crashed into a motorcycle when he crashed into a motorcycle and died on the spot.
-
-The accident took place on Monday night (09) at the Andanganni area of ​​the forest.
-
-Police said the 23 -year -old is from the Kalpitiya Kurinjipitiya area.
-
-Father and son have gone on a motorbike. The son who was sitting behind him had fallen into a mistake and the vehicle was involved in the accident.. The young man died on the spot.
-
-The body of the deceased has been placed in the funeral room at the Puttalam Hospital and the father has been arrested by the police.
-
-The foam police said they were investigating the vehicle that had escaped after the accident.
-
-◼️
-
-[Data](articles/e3740900.json)
-
-[Extended Data](ext_articles/e3740900.ext.json)
-
----
-
-### 2025 Negotiations for Budget
-
-*2024-12-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204237) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2025 Budget Talks Begin: President Anura Kumara Dissanayake initiates budget preparation. Discussion on Ministry of Education proposals led by Prime Minister Harini Amarasuriya and officials."
-
-🟩
-
-President Anura Kumara Dissanayake has begun to prepare the year 2025 budget.
-
-Accordingly, a discussion on the budget proposals of the Ministry of Education was held this morning, said the Presidential Media Unit.
-
-Prime Minister Dr. Harini Amarasuriya and high officials of the Ministry have joined the discussion for the discussion.
-
-◼️
-
-[Data](articles/2199d685.json)
-
-[Extended Data](ext_articles/2199d685.ext.json)
-
----
-
-### Moratorium on implementation of parate law by banks extended till 31st March 2025
-
-*2024-12-10 16:11:00* · [`islandlk`](http://island.lk/moratorium-on-implementation-of-parate-law-by-banks-extended-till-31st-march-2025/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by  the President, in his capacity as the Minister of  Finance, Planning, and Economic Development, to extend the moratorium on implementation of parate law until 31-03-2025 and to prepare a multi-dimensional mechanism to solve this issue with the active contribution of all the parties including, Central Bank of Sri Lanka, government and private banks and other government institutions.
-
-The economic crisis encountered by Sri Lanka during the previous 04 years has severely affected the small and medium sector entrepreneurs, and it has been reported that difficulties have arisen in settling the loans obtained from banks.
-
-...
-
-[Data](articles/ce239ec6.json)
-
----
-
-### Digital Driver's License: Notification of Ministry
-
-*2024-12-10 16:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-சாரதி-அனுமதிப்-பத்திரம்-அமைச்சின்-அறிவிப்பு/175-348534) · `ta`
-
-New digital driver's licenses approved, current system continues until rollout. Government adopts international best practices for digital ID technology. Implementation planned based on transport minister's recommendations.
-
-🟩
-
-The Cabinet has approved the immediate introduction of the new digital driver's license instead of the driver's licensees.
-
-A panel of ministers has also decided to continue the current system until the digital driver's license is issued.
-
-According to the new technology that facilitates data, the government will recognize the appropriateness of providing a digital driver's license used in many countries of the world.
-
-Accordingly, this digital driver's license is to be introduced soon, considering the ideas put forward by the Minister of Transport, Highways, Ports and Civil Airlines.
-
-◼️
-
-[Data](articles/6911eb6d.json)
-
-[Extended Data](ext_articles/6911eb6d.ext.json)
-
----
-
-### Faizer Mustafa became a member of the National List
-
-*2024-12-10 16:02:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியல்-உறுப்பினரானார்-பைசர்-முஸ்தபா/175-348533) · `ta`
-
-Faizer Mustafa joins National List. Sharmila Perera of National Democratic Front submits his name. Election Commission informed. Majority alliance support cited.
-
-🟩
-
-Sharmila Perera, general secretary of the National Democratic Front, said that the new Democratic Front (NDF) has submitted the name of Faizer Mustafa as his national list Member.
-
-He told the Daily Mirror that Mustafa's name had been submitted to the Election Commission, as the voice of the majority of alliance members who contested the gas cylinder symbol in the general election had to be listened to.
-
-◼️
-
-[Data](articles/98b04c2c.json)
-
-[Extended Data](ext_articles/98b04c2c.ext.json)
-
----
-
-### Indian support for Sri Lanka’s Karaingar boatyard
-
-*2024-12-10 15:59:00* · [`economynextcom`](https://economynext.com/indian-support-for-sri-lankas-karaingar-boatyard-193310/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers have approved the signing of an agreement which will see India providing financial aid to renovate the Karainagar boatyard, Health and Media Minister Nalinda Jayatissa said.
-
-“The grant will be used to renovate the Karainagar boatyard,” Jayatissa told reporters. The grant will finance renovations of the boatyard and provide office equipment.
-
-Cey-Nor Foundation Ltd manufactures fiberglass boats at Karainagar boatyard. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/669a4ead.json)
-
-[Extended Data](ext_articles/669a4ead.ext.json)
-
----
-
-### 6 hours of water cut
-
-*2024-12-10 15:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மணித்தியால-நீர்-வெட்டு/175-348532) · `ta`
-
-Colombo areas 12, 13, 14, 15 face 6-hour water outage. Affected zones: waterfront. Duration: 9 PM to 3 AM.
-
-🟩
-
-The Water Supply and Drainage Board said that 6 hours of water cut will be implemented in some parts of Colombo.
-
-Accordingly, the waterfront will be implemented in Colombo 12, 13,14 and 15 tonight from 9 pm to three o'clock in the morning.
-
-◼️
-
-[Data](articles/965be125.json)
-
-[Extended Data](ext_articles/965be125.ext.json)
-
----
-
-### Book industry renews call for exemption from VAT, citing serious concerns
-
-*2024-12-10 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104143/book-industry-renews-call-for-exemption-from-vat-citing-serious-concerns) · `en`
-
-Sri Lanka’s book industry has renewed its call for books to be exempt from tax, with four industry bodies submitting a proposal to the new government for inclusion in the next national budget.
-
-Urging the government to consider the financial as well as social ramifications of taxing sources of knowledge and learning, these associations representing publishers, writers, retailers, importers and exporters have called for books to be returned to the list of items exempt from tax, as was the case before January 1, 2024.
-
-In their proposal, the four associations pointed out that with all inputs for the publishing industry with the exception of local labour being imported, Sri Lanka’s book industry is already taxed at 33.045%, and the imposition of a value-added tax (VAT) of 18% at the point of sale has made books unaffordable to many, and is putting small-scale publishers out of business.
-
-...
-
-[Data](articles/b191e718.json)
-
-[Extended Data](ext_articles/b191e718.ext.json)
-
----
-
-### A woman shoots a car attempted cars
-
-*2024-12-10 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204236) · `si`
-
-A woman called Kaduwela Police, claiming her life was threatened by a car. She was hospitalized under police protection. Investigations are ongoing to arrest the car and its driver.
-
-🟩
-
-A woman has telephoned the Kaduwela Police Station on 10.12.2012 and said that he is on a motorbike and a car is coming to the Kaduwela Police Station and kill him.
-
-The function of the police minister and the main entrance of the police minister had been admitted to the police officer and tried to stop the OIC of the OIC.
-
-The prestigious officer of the police minister has shot the car, but the car has fled.
-
-The 38-year-old woman has been hospitalized under police protection.
-
-Several investigations teams are operating in the arrest of the car and driver.
-
-◼️
-
-[Data](articles/c7d33d6c.json)
-
-[Extended Data](ext_articles/c7d33d6c.ext.json)
 
 ---

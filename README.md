@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 09:19:49**
+As of **2024-12-11 09:31:06**
 
 ## Newspaper Stats
 
-*Scraped **59,563** Articles*
+*Scraped **59,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,43 @@ islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,651
+adalk | 5,652
 adaderanalk | 7,248
 tamilmirrorlk | 8,498
 virakesarilk | 9,778
-adaderanasinhalalk | 10,292
+adaderanasinhalalk | 10,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,542 (100.0%) of 59,563 articles have been extended.
+59,546 (100.0%) of 59,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### அரிசியை அதிக விலைக்கு விற்ற 50 பேர் சிக்கினர்
+### 50 people trapped in selling rice at high prices
 
 *2024-12-11 09:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-அதிக-விலைக்கு-விற்ற-50-பேர்-சிக்கினர்/175-348562) · `ta`
 
-கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்த 50 கடைகளுக்கு எதிராக நேற்று (10) நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+Here's a summary in 200 characters:
 
-கட்டுப்பாட்டு விலைக்கு அப்பால் அரிசியை விற்பனை செய்பவர்களை கைது செய்யும் நடவடிக்கையும், இருப்புக்களை மறைத்து வைத்திருப்பவர்களை கைது செய்யும் நடவடிக்கையும் இன்று (11) முதல் விஸ்தரிக்கப்படவுள்ளதாக அதன் பணிப்பாளர் அசேல பண்டார குறிப்பிட்டார். R
+
+
+Consumer Affairs Authority takes action against 50 stores selling rice above control price. Director Asela Bandara vows to expand arrests of price violators and reserve concealers from today onwards.
+
+🟩
+
+The Consumer Affairs Authority said that action has been taken yesterday (10) against the 50 stores that sold the rice at a higher price than the control price.
+
+Its Director Asela Bandara said that the arrest of those who sell rice beyond the control price and the arrest of those who concealed the reserves will be expanded from today (11).. Remble
 
 ◼️
 
 [Data](articles/f160dcf8.json)
+
+[Extended Data](ext_articles/f160dcf8.ext.json)
 
 ---
 
@@ -63,6 +73,26 @@ A central bank auction of Rs. 206,000 million Treasury bills was ongoing. It ann
 ◼️
 
 [Data](articles/4aa79ed5.json)
+
+[Extended Data](ext_articles/4aa79ed5.ext.json)
+
+---
+
+### අහුංගල්ල මුහුදේ දී විදේශිකයින් දෙදෙනෙක් දිය වැලකට හසුවෙයි
+
+*2024-12-11 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204253) · `si`
+
+අහුංගල්ල පොලිස් වසමේ මුහුදේ දිය නාමින් සිටි විදේශිය ජාතික පිරිමි පුද්ගලයෙකු හා කාන්තාවක් දිය වැලකට හසුව ගසාගෙන ගොස් තිබේ.
+
+ඊයේ (10) දහවල් කාලයේ මෙම අනතුර සිදුව ඇති අතර, එම ස්ථානයේ රාජකාරී යෙදී සිටි පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් විදෙස් යුවළ බේරාගෙන කඩිනමින් ප්‍රතිකාර ලබාදී ඇත.
+
+අනතුරින් දිවි බේරාගත් විදෙස් තරුණයා අවුරුදු 29ක් වන රුමේනියානු ජාතිකයෙක් වන අතර, කාන්තාව අවුරුදු 30ක් වන චීන ජාතිකයෙකි.
+
+අහුංගල්ල පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරනු ලබන පොලිස් ජීවිතාරක්ෂක ඒකකයේ පොලිස් කොස්තාපල් 29896 ලසන්න, පොලිස් කොස්තාපල් 19342 සංගීත හා පොලිස් කොස්තාපල් 103992 දුලංජය යන නිලධාරීන් විසින් මෙම දිවි බේරා ගැනීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/8f3aa7e3.json)
 
 ---
 
@@ -88,6 +118,20 @@ The development comes hours before the main liberal opposition Democratic Party 
 
 ---
 
+### ජලාශ පිරී ඇති අවස්ථාවක පෞද්ගලික බලාගාරවලින් විදුලිය ලබා ගෙන ඇති බවට චෝදනා
+
+*2024-12-11 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204252) · `si`
+
+ජල විදුලි බලාගාර ආශ්‍රිත ජලාශවල ජලය උපරිම මට්ටමින් පවතින අවස්ථාවක පෞද්ගලික තාප බලාගාරවලින් විදුලිය මිලදී ගැනීමක් සිදුව ඇති බව ලංකා විදුලි බලමණ්ඩලයේ තාක්ෂණික ඉංජිනේරු හා අධිකාරි සංගමය පවසයි.
+
+එම සංගමයේ උප සභාපති නන්දන උදයකුමාර මහතා සඳහන් කළේ, මෙවැනි කටයුතු සිදුවන්නේ කාගේ අවශ්‍යතාව මතද යන්න සොයා බැලීමක් කලයුතු බවය.
+
+...
+
+[Data](articles/20fcea44.json)
+
+---
+
 ### Heavy showers expected in parts of the island
 
 *2024-12-11 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104152/heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -105,6 +149,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/332a9a25.json)
+
+[Extended Data](ext_articles/332a9a25.ext.json)
 
 ---
 
@@ -235,6 +281,8 @@ After charges were filed in the US including against Adani officials for mislead
 ◼️
 
 [Data](articles/7c3b76b2.json)
+
+[Extended Data](ext_articles/7c3b76b2.ext.json)
 
 ---
 
@@ -1151,6 +1199,26 @@ Bashar al-Assad, who was president of Syria (08) last Sunday, lived from his pos
 [Data](articles/0444f79d.json)
 
 [Extended Data](ext_articles/0444f79d.ext.json)
+
+---
+
+### මිල ඉහළ යාමත් සමග සහල් තොග වැඩි වැඩියෙන් වෙළඳපොළට
+
+*2024-12-10 18:29:06* · [`adalk`](https://www.ada.lk/breaking_news/මිල-ඉහළ-යාමත්-සමග-සහල්-තොග-වැඩි-වැඩියෙන්-වෙළඳපොළට/11-413568) · `si`
+
+සහල් මිල ඉහළ දැමීමත් සමග ඊයේ(10දා)  දිනයේදී බොහෝ ප්‍ර දේශවලට විශාල ලෙස සහල් තොග ලැබුණු බව ව්‍යාපාරිකයෝ සඳහන් කරති.
+
+මේ අනුව පෙරේදා රාත්‍රියේ පාරිභෝගික කටයුතු අධිකාරිය විසින් නිකුත් කළ ගැසට් නිවේදනයේ සඳහන් පාලන මිලට අනුව ඊයේ සහල් අලෙවි කිරීමට  කටයුතු කළ බවද එම පිරිස් පෙන්වා දෙති.
+
+සහල් මිල ඉහළ දැමීමත් සමග පසුගිය දිනවල ඇතැම්  ප්‍රදේශවල පැවැති සහල් හිඟය අවසන් වී තිබෙන අතර ඇතැම් වෙළෙඳුන් විසින් එක් පාරිභෝගිකයෙකුට සහල් ලබා දීමේදී සහල් කිලෝ 03 ක් හෝ 05ක් වශයෙන් සීමා කර ලබා දීමත් ඊයේ දිනය වන විට අවසන් වී ඇත.
+
+මේ අනුව නව සහල් මිලට අනුව තමන්ට අවශ්‍ය තරම්  සහල් මිලදී ගැනිමේ අවස්ථාව ජනතාවට හිමි ව තිබේ.  ආනයනික සහල් මේ සතියෙහි පැමිණීමත් සමග යම් ප්‍රදේශයක තවදුරටත් සහල් හිඟයක් පවතිනවා නම් එයද අවසන් වන බව ව්‍යපාරිකයෝ පෙන්වා දෙති.
+
+මේ මස 07 වැනි දා නිෂ්පාදිත දිනය සඳහන් නාඩු හා සම්බා සහල් කිලෝ 05 බෑග්වල සඳහන් මිලට වඩා රුපියල් පනහක් වැඩියෙන් ඇතැම් ව්‍යපාරිකයන් ඊයේ අයකර ගත් බව පාරිභෝගිකයෝ සඳහන් කරති.
+
+...
+
+[Data](articles/e676f924.json)
 
 ---
 
@@ -2333,89 +2401,5 @@ The other National List MP seat had been filled by former minister Ravi Karunana
 [Data](articles/c3814e8b.json)
 
 [Extended Data](ext_articles/c3814e8b.ext.json)
-
----
-
-### Sean Vikram's 'Heroic Tira Suran- Part 2'
-
-*2024-12-10 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200899) · `ta`
-
-Here's a 200-character summary of Sean Vikram's 'Heroic Tira Suran- Part 2':
-
-
-
-"Veera Deera Suran, Part 2" releases with Kali as hero. Directed by S.U. Arun Kumar, stars J.Surya, Suraj Venjaramudu. Music by V.Prakash Kumar. Expected January release. Fans await after 'Thangalan' underperformance.
-
-🟩
-
-The film 'Veera Deera Suran, Part 2', which plays the role of Kali as Kali as the hero of the story, has been released.. Within a short period of time, the revolution has been visited by over five million viewers.
-
-Director S.. U. Arun Kumar's upcoming film 'Veera Thea Suran - Part 2'. J.. Surya, Suraj Venjaramudu, Dushara Vijayan, Siddique and many others have acted.
-
-The film has been recorded by Theni Eswar. V.. Prakash Kumar has composed the music. H.. R. Producer Riya Shibu is produced on behalf of Pictures.
-
-The shooting of the film 'Veera Thira Suran Bhart 2' is nearing completion and the post -shooting technical work is underway.. The film will be released in January next year. With all the commercial features in the scenes, the expectation of the film has increased.
-
-Meanwhile, the expectation of the film has increased among fans as the film 'Thangalan' starring Seyan Vikram has not been a major commercial success.
-
-◼️
-
-[Data](articles/5ebd3f7b.json)
-
-[Extended Data](ext_articles/5ebd3f7b.ext.json)
-
----
-
-### Former CCD Director remanded
-
-*2024-12-10 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104141/former-ccd-director-remanded) · `en`
-
-The former Director of the Colombo Crimes Division (CCD), ASP Neville Silva has been ordered to be remanded in custody until December 13 after he was produced before the Ratnapura Magistrate’s Court today (10).
-
-The former CCD Director was arrested by the Criminal Investigations Department (CID) on Monday (09).
-
-The CID had launched an investigation based on a complaint received claiming that ASP Silva had allegedly acted in a manner that was partial towards a complainant when investigating a case filed with the CCD in August 2023.
-
-It has been confirmed that during this investigation, ASP Silva had aided and abetted in an incident of abduction and wrongful confinement.
-
-◼️
-
-[Data](articles/bc078702.json)
-
-[Extended Data](ext_articles/bc078702.ext.json)
-
----
-
-### Club Wasantha murder suspects arrested
-
-*2024-12-10 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204232) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Eight suspects in Club Wasantha murder case granted Rs. 100,000 bail each. Judge orders passports surrendered. Businessman killed at tattoo center opening. Additional suspect named witness. Attorneys represent five suspects.
-
-🟩
-
-Homagama High Court Judge Mohamed Irden today (10) ordered eight suspects in Club Wasantha murder.
-
-The eight suspects were paid a cash bail of Rs. 100,000 each.
-
-The judge also ordered the passport to the passport to the courts and signed the passports of the suspects to the passports of the suspects to the passport to the courts.
-
-The business was shot dead at the opening of a Tattoe Center in Athurugiriya on July 8.
-
-Nayana Vasul Wijeratne was also killed and the suspects were arrested and remanded in connection with the assistance of the murder.
-
-State Counsel Shakthi Jagodarachchi informed the Attorney General's Department informed the court that these suspects are expected to be named in this case as witnesses.
-
-Attorney at Law Nuwan Jayawardena appeared for the suspects for the suspects of 03,04,05,06,07.
-
-◼️
-
-[Data](articles/003d381e.json)
-
-[Extended Data](ext_articles/003d381e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 13:43:41**
+As of **2024-12-11 14:17:23**
 
 ## Newspaper Stats
 
-*Scraped **59,601** Articles*
+*Scraped **59,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,657
+adalk | 5,658
 adaderanalk | 7,258
-tamilmirrorlk | 8,508
+tamilmirrorlk | 8,511
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,575 (100.0%) of 59,601 articles have been extended.
+59,582 (100.0%) of 59,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### 24 மணிநேரத்தில் இருவர் கொலை
+
+*2024-12-11 14:01:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-இருவர்-கொலை/175-348582) · `ta`
+
+இன்று (11)  காலை 6 மணியுடன் முடிவடைந்த 24 மணித்தியாலங்களில் இருவேறு  பிரதேசங்களில் இருவர் கொல்லப்பட்டுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு அறிவித்துள்ளது.
+
+ஜா-எல கடையொன்றில் 45 வயதுடைய நபர் ஒருவர் கூரிய ஆயுதத்தால், செவ்வாய்க்கிழமை (10) தாக்கப்பட்டதில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடைக்குள் சக ஊழியருடன் மது அருந்தியதாகவும் இதன்போது ஏற்பட்ட  வாக்குவாதம் முற்றி, மற்றைய ஊழியர் கூரிய ஆயுத்தால் தாக்கியுள்ளார் என்று பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+பலத்த காயங்களுடன் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார். சந்தேகநபர்,  பிரதேசத்தை விட்டு தப்பிச் சென்றுவிட்டார். அவரை கைது செய்வதற்கான விசாரணைகளை ஜா-எல பொலிஸார் ஆரம்பித்துள்ளனர்.
+
+இதேவேளை, லக்கல பிரதேசத்தில்  44 வயதுடைய பெண் ஒருவர் கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் படுகாயமடைந்த நிலையில், செவ்வாய்க்கிழமை (10)  உயிரிழந்துள்ளார்.
+
+குடும்ப தகராறு காரணமாக குறித்த பெண் அவரது கணவரால் தாக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்ட லக்கல பொலிஸார்   சந்தேக நபரை கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/37006a39.json)
+
+---
+
+### Gem arrest
+
+*2024-12-11 13:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரத்தினக்கல்-அகழ்ந்த-அறுவர்-கைது/76-348581) · `ta`
+
+Gem arrest: 6 suspects caught illegally mining gems in Hatton's Dikoya Canal. Equipment seized. Suspects aged 25-40 from Ratnapura, Kahawatte, Balangoda, Hatton, Tikoya. To be presented to Hatton Magistrate's Court.
+
+🟩
+
+Officials of the Hatton Police Anti -Corruption Unit have arrested six suspects who illegally excavated gems without permission.
+
+Hatton has been arrested in the Dikoya Canal, which flows from Hatton to Casalry Reservoir. They have also seized some of the equipment used for excavation.
+
+Hatton police have arrested the suspects after receiving information that some people were illegally excavated in the Tikoya Canal behind the Dikoya-Vanaraja Tea Factory.
+
+Officials said that the suspects were between the ages of 25-40, from the age of 25-40 in Ratnapura, Kahawatte, Balangoda, Hatton and Tikoya and the arrested suspects would be presented to the Hatton Magistrate's Court.
+
+◼️
+
+[Data](articles/766d7415.json)
+
+[Extended Data](ext_articles/766d7415.ext.json)
+
+---
 
 ### Tensions within NDF over National List MP appointment
 
@@ -49,6 +97,8 @@ The other National List MP seat had been filled by former minister Ravi Karunana
 ...
 
 [Data](articles/d087f479.json)
+
+[Extended Data](ext_articles/d087f479.ext.json)
 
 ---
 
@@ -69,6 +119,8 @@ Furthermore, the panel has mentioned that this decision balances the player’s 
 ...
 
 [Data](articles/96296e77.json)
+
+[Extended Data](ext_articles/96296e77.ext.json)
 
 ---
 
@@ -91,6 +143,40 @@ It is noteworthy that it was admitted to a private hospital in Colombo and is be
 [Data](articles/29224e1f.json)
 
 [Extended Data](ext_articles/29224e1f.ext.json)
+
+---
+
+### Attempt to commit suicide
+
+*2024-12-11 12:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலைக்கு-முயற்சி/50-348578) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former Defense Minister Kim Yang Huen, arrested for recommending South Korea's Emergency Military Act, attempted suicide in jail. Guards intervened after he tried to take his own life. This incident occurred amid controversy over the Act's implementation and political tensions between ruling and opposition parties.
+
+🟩
+
+Former Defense Minister Kim Yang Huen, who has been arrested for recommending the Emergency Military Act in South Korea, has tried to make his life in the jail.
+
+With the recently enacted Emergency Military Act in South Korea. Former security Sanchak Kim Yang Huen was arrested on Sunday on charges of making the recommendation to President Yun Suk Iol.
+
+It has been reported in the media that Kim Yang Huoon was present at the court where the Emergency military regime was implemented.
+
+South Korean officer Shin Yong Hey Hey Ha Ki Ha Ki said on Wednesday that the guards stopped Kim Yang, who tried to live in jail.
+
+This information has been stirred by Justice Minister Park Sung J, who has confirmed the South Korea parliamentary meeting.
+
+The ruling party boycotted the referendum on Saturday against the dismissal of the Opposition against Yun Sukh Iol in Parliament.
+
+The main opposition Democratic Party has stated that it will be re -launched in Parliament on Saturday.
+
+◼️
+
+[Data](articles/6e951ce4.json)
+
+[Extended Data](ext_articles/6e951ce4.ext.json)
 
 ---
 
@@ -165,6 +251,8 @@ Health officials are collecting samples from these individuals to confirm the ex
 ...
 
 [Data](articles/4d2e1621.json)
+
+[Extended Data](ext_articles/4d2e1621.ext.json)
 
 ---
 
@@ -284,27 +372,63 @@ She pointed out that there could be symptoms of strict fever, severe muscles, ro
 
 ---
 
-### කොළඹ වරාය ව්‍යාපෘතියට අදානි අමෙරිකාවෙන් ඩොලර් එපා කියයි
+### Dhananinjaya's assessment of batsmen
+
+*2024-12-11 11:26:01* · [`adalk`](https://www.ada.lk/sports/පිතිකරුවන්-ගැන-ධනංජයගේ-තක්සේරුව/9-413576) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dhananjaya De Silva spoke at Katunayake airport about Sri Lanka's Test team performance in South Africa. He mentioned upcoming matches in Sri Lanka and the team's departure from Dubai.
+
+🟩
+
+Sri Lanka Test team Dhananjaya Dananjaya Dananjaya De Silva said at the Katunayake airport this morning.
+
+He was speaking to the media at the Katunayake airport after returning to Sri Lanka after the two Tests in South Africa.
+
+Speaking further Dhananjatha de Silva said that his group played his team in South Africa.
+
+He said that Sri Lanka would arrive in Sri Lanka for two matches in the future and had been hoped.
+
+Sri Lanka Test team at 8.22 am on 08.22 am on Dubai from Dubai to Emirates Airport.
+
+◼️
+
+[Data](articles/5daec6fb.json)
+
+[Extended Data](ext_articles/5daec6fb.ext.json)
+
+---
+
+### Inairi US Harbor Project says no
 
 *2024-12-11 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204259) · `si`
 
-කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය සඳහා අදානි සමූහය අමරිකාව සමග ඇතිකර ගත් ඩොලර් මිලියන 553ක ණය ගිවිසුමෙන් ඉවත් වී තිබේ.
+Colombo harbor projects face setbacks: Inari US Harbor says no, Avil group exits loan, US Attorney General investigates bribery, Western terminal development continues with internal funds, Suphani Port abandons $553m loan, Indian media reports valuable capital reserves deployed, Rajapakse Group develops West Terminal despite uncertainty.
 
-ඒ අදානි සමූහයේ නිර්මාතෘ ගෞතම් අදානිට එරෙහිව අමරිකානු නීතිපති දෙපාර්තමේන්තුව අල්ලස් හා දූෂණ චෝදනා ගොනුකර ඇති පසුබිමකයි.
+🟩
 
-කෙසේ වෙතත් බටහිර පර්යන්තයේ සංවර්ධන කටයුතු අදානි සමූහය සිය අභ්‍යන්තර ප්‍රාග්ධන සංචිත යොදවා සිදුකිරීමට නියමිතය.
+The Avil group has left the loan agreement with US port terminal at the Colombo harbor.
 
-කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය කිරීමේ ව්‍යාපෘතිය සඳහා අමරිකානු ජාත්‍යන්තර සංවර්ධන මූල්‍ය සංස්ථාව විසින් අපේක්ෂා කල අමරිකානු ඩොලර් මිලියන 553ක ණය ගිවිසුම අත්හැර දැමූ බව අදානි වරාය හා විශේෂ ආර්ථික කලාප සමාගම පවසයි.
+The US Attorney General's Department is in the background of bribery and corruption against Gautam Company.
 
-ඉන්දීය මාධ්‍ය වාර්තා පවසන්නේ ඒ අනුව කොළඹ බටහිර ජාත්‍යන්තර පර්යන්තය ව්‍යාපෘතිය සඳහා අදානි සමූහය සිය අභ්‍යන්තර ප්‍රාග්ධන සංචිත යෙදවීමට නියමිත බවය.
+However, the development activities of the Western terminal will be able to use their internal capital reserves.
 
-කොළඹ වරායේ බටහිර පර්යන්තය සංවර්ධනය කිරීම සඳහා පිහිටවනු ලැබූ සමාගමේ බහුතර කොටස් අදානි සමූහයට හිමිව තිබේ.
+The Suphani Port and Special Economic Zone Company said that the US port terminal was abandoned by US $ 553 million loan agreement with the development of the Colombo harbor.
 
-එම ව්‍යාපෘතිය සඳහා අමරිකාව මූල්‍ය දායකත්වය දැක්වීම සඳහා පසුගිය වසරේදී ගිවිසුමකට එළැඹුණි.
+Indian media reports say that the invaluable capital reserves are due to deploy their internal capital reserves for the Colombo West International Terminal Project.
+
+The Rajapakse Group has been placed in the company's company to develop the West Terminal of the Colombo harbor.
+
+The project was reached last year to contribute to the project.
 
 ...
 
 [Data](articles/af8529e3.json)
+
+[Extended Data](ext_articles/af8529e3.ext.json)
 
 ---
 
@@ -2233,125 +2357,5 @@ The long -standing friendship between Sri Lanka and the Chinese government is a 
 [Data](articles/65859745.json)
 
 [Extended Data](ext_articles/65859745.ext.json)
-
----
-
-### Awareness rally to win the rights of young people in Mannar
-
-*2024-12-10 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/200926) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Awareness rally for youth rights in Mannar on Int'l Human Rights Day. Procession from Mannar Bazaar to police station, led by human rights activists and civil society reps. Western music played to raise awareness.
-
-🟩
-
-The International Human Rights Day was held at 11 am on Tuesday (10) at 11 am.
-
-The procession took place in the face of the voice of the youth to win the rights of young people.
-
-Western music was carried out in the Mannar Bazaar area.
-
-Awareness procession started from the Mannar Bazaar area and went through the Mannar police station and returned to the Mannar bus station.
-
-Human rights activists, civil society representatives, youth and girls were present at the event chaired by Yatsan Bigrato, Chairman of the Mannar Social Economic Development Institute.
-
-◼️
-
-[Data](articles/f9d0e779.json)
-
-[Extended Data](ext_articles/f9d0e779.ext.json)
-
----
-
-### Heavy decisions at District Coordinating Committee meeting
-
-*2024-12-10 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204240) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-District Coordinating Committee meeting: Minister Samantha Vidyaratne discusses land reforms, cancels agreements, suspends distribution, and orders investigations due to alleged injustices and political interference.
-
-🟩
-
-Minister Samantha Vidyaratne said that the Umunululi Adwarded Manager was informed to remove him in Haliela and that he immediately was asked to remove him.
-
-The Ministry of Plantation and Community Infrastructure Samsonantha Vidyaratne was speaking at the Badulla District Coordinating Committee meeting held today (10).
-
-Minister Samantha Vidyratne warned that the agreement with the estate company would be canceled if they were unfair without removing the Vadiwale Suresh without removing unfair.
-
-The Minister emphasized that former Governor Sandil Thondaman was forcibly residents of former Governor, Eastern Province in the recent past.
-
-The distribution of lands in the Badulla District of the Land Reforms Commission also decided to suspend the immediate effect.
-
-This is also the first district coordinating committee meeting in the country after the current government was to power.
-
-Speaking
-
-...
-
-[Data](articles/a2b68778.json)
-
-[Extended Data](ext_articles/a2b68778.ext.json)
-
----
-
-### If you sell essential food items, including rice, report to the telephone number 1977!
-
-*2024-12-10 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200928) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rice price control implemented. Gazette notification issued. High sellers face strict action. Public can report to 1977. Testing of rice mills underway. Avoid overbuying due to potential shortages. Steps taken for uninterrupted supply during festivals. Report smuggling to local authorities.
-
-🟩
-
-Control pricing for rice has been fixed and the gazette notification has been released. Strict legal action will be taken against persons who sell rice at high prices. The Director of the Consumer Affairs Authority Hemantha Samarakoon said that the public can lodge a complaint with the telephone number 1977 regarding the high prices of essential food items, including rice.
-
-He was speaking at a media briefing held at the Consumer Affairs Authority's office on Tuesday (10).
-
-Control pricing for rice has been fixed and the gazette notification has been released. We have expanded the process of testing rice mills across the country. Rice manufacturers must provide full cooperation for these testing activities.
-
-Control pricing for rice has been fixed and the Gazette Notification has been published. Rice must be sold at the total and retail price as a fixed price. Strict action will be taken against those who sell rice at a higher price rather than the control price.
-
-...
-
-[Data](articles/48f5d5ce.json)
-
-[Extended Data](ext_articles/48f5d5ce.ext.json)
-
----
-
-### The Ministry of Finance will announce the importation of vehicle imports soon: No fake campaigns - government
-
-*2024-12-10 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200930) · `ta`
-
-Ministry of Finance to announce vehicle import rules soon. Fake campaigns about imports causing confusion. Decision made after economic review. Types of allowed vehicles to be specified.
-
-🟩
-
-Fake campaigns are being carried out to make people discomfort regarding vehicle imports. The Ministry of Finance will soon announce which types of vehicles can be imported. Cabinet spokesman Nalinda Jayatissa said that they will be given permission with the definitions.
-
-He further stated that at a press conference announcing the Cabinet decisions held on Tuesday (10).
-
-The decision on vehicle imports was taken only after a deep review of the economic situation in the country, our economic target and stockpile.
-
-This was based on a resolution to relax the restrictions imposed on vehicle imports.
-
-So we urge you not to share fake information in this regard and not to make people discomfort.
-
-However, the importation of vehicle imports is granted in definitions. The Ministry of Finance will soon announce which types of vehicles can be imported
-
-◼️
-
-[Data](articles/2e13d77b.json)
-
-[Extended Data](ext_articles/2e13d77b.ext.json)
 
 ---

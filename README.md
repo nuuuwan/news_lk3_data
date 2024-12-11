@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 07:31:24**
+As of **2024-12-11 08:09:35**
 
 ## Newspaper Stats
 
-*Scraped **59,553** Articles*
+*Scraped **59,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,83 @@ adalk | 5,650
 adaderanalk | 7,246
 tamilmirrorlk | 8,496
 virakesarilk | 9,778
-adaderanasinhalalk | 10,291
+adaderanasinhalalk | 10,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,532 (100.0%) of 59,553 articles have been extended.
+59,534 (100.0%) of 59,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### මෙරට ළමුන් ගැන අමෙරිකානු ආයතනයක් කළ හෙළිදරව්ව සොයා බලන්නැයි අධිකරණයෙන් නියෝග
+### සියයට 18 වැට් බද්ද හේතුවෙන් පොත් කර්මාන්තය අර්බුදයක
+
+*2024-12-11 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204251) · `si`
+
+පොත් ප්‍රකාශනය සඳහා පනවා ඇති සියයට 18ක වැට් බද්ද කඩිනමින් ඉවත් කිරීම සඳහා ආණුඩුව පියවර ගතයුතු බව ශ්‍රී ලංකා පොත් ප්‍රකාශකයින්ගේ සංගමය පවසයි.
+
+◼️
+
+[Data](articles/a480e117.json)
+
+---
+
+### Court orders revelation of the US revelation of the children of Sri Lanka
 
 *2024-12-11 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204250) · `si`
 
-මෙරට බාලවයස්කාර දරුවන් සම්බන්ධ අසභ්‍ය වීඩියෝ දර්ශන හා ඡායාරූප කිසියම් පිරිසක් විසින් අන්තර්ජාලය ඔස්සේ මුදා හරින බවට ඇමරිකාවේ "නෙක්මැක්" ආයතනය හෙළි කරගෙන ඇති තොරතුරු සම්බන්ධයෙන් වහා විමර්ශනයක් පවත්වා අධිකරණයට කරුණු වාර්තා කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය පොලිස් ළමා හා කාන්තා කාර්යාංශයට නියෝග කර තිබේ.
+Sri Lanka court orders probe into online child porn involving US company.
 
-සිද්ධිය සම්බන්ධයෙන් පොලිස් ළමා හා කාන්තා කාර්යාංශය දැක්වූ කරුණු සලකා බලමින් කොළඹ අතිරේක මහෙස්ත්‍රාත් කේමින්ද පෙරේරා මහතා මෙම නියෝගය ලබා දුන්නේය.
+🟩
 
-එම කාර්යාංශය සිද්ධිය සම්බන්ධයෙන් කරුණු දක්වමින් අධිකරණය හමුවේ කියා සිටියේ, ඇමරිකාවේ පිහිටි මෙම "නෙක්මැක්" නැමති අන්තර්ජාල ආයතනය ලෝකයේ රටවල් අටක සාමාජිකයන් ලෙස බැඳී ඇති බවය.
+The Colombo Magistrate's Court has ordered the Police Bureau of the Colombo Magistrate's Court to hold an investigation into information on the Internet that a group of porn videos and photographs relating to the Internet.
 
-එහි සාමාජිකත්වය ලබාගෙන ඇති රටවල්වල දරුවන්ට අදාළ අසභ්‍ය වීඩියෝ දර්ශන හා ඡායාරූප අන්තර්ජාලය ඔස්සේ මුදාහැරීම සම්බන්ධයෙන් එම ආයතනය නිරන්තරයෙන් සොයා බැලීම් කටයුතු සිදුකරන බව සඳහන්ය.
+Colombo Additional Magistrate Kamin Damada Perera issued the order considering the Police Children's and Women's Bureau.
+
+The Bureau said that this Bureau was in court, "Nackumak," in the United States, is bound to eight countries in the world.
+
+It is said that the company is constantly investigating the children's release of pornographic videos and photographs on the Internet on the Internet.
+
+The officials representing the officer informed the Bureau that observed videos and photographs of Sri Lankan children have been released through any computer device that they have been released through any computer device.
+
+The Bureau has informed the court that many similar complaints have been received by the incident.
 
 ...
 
 [Data](articles/b2f1e85f.json)
 
+[Extended Data](ext_articles/b2f1e85f.ext.json)
+
 ---
 
-### குறைந்த காற்றழுத்த மண்டலத்தால் பலத்த மழைவீழ்ச்சி
+### Heavy rainfall
 
 *2024-12-11 07:11:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-மண்டலத்தால்-பலத்த-மழைவீழ்ச்சி/175-348560) · `ta`
 
-தென்கிழக்கு வங்காள விரிகுடா கடற்பரப்பில் உருவாகிய குறைந்த காற்றழுத்த மண்டலம், அடுத்த 24 மணித்தியாலங்களில் மேற்கு - வடமேற்குத் திசையில் நகர்ந்து இலங்கையின் வடக்கு கடற்கரைக்கு அருகில் தமிழக கடற்கரையை நெருங்க வாய்ப்பு உள்ளதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Heavy rainfall warning: Southeastern Bengal Bay low-lying areas to move west-northwest in 24 hours. Rainfall expected in Northern, Eastern, and North Western provinces. Heavy rainfall (>100mm) forecasted in Northern Province. Thunderstorms possible elsewhere. Snowfall anticipated in Central, Sabaragamuwa, South, Uva, and North Western Provinces. Public advised to prepare for strong winds and lightning.
 
-வடக்கு, வடமத்திய, கிழக்கு மற்றும் வடமேல் மாகாணங்களில் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மேலும், வடக்கு மாகாணத்தில் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology has predicted that the low -lying zone in the southeastern Bengal bay waters is likely to move in the west and northwest in the west -northwest in the next 24 hours.
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall is expected in the Northern, North Central, Eastern and North Western provinces.
 
-அதேவேளை, மத்திய, சப்ரகமுவ, தென், ஊவா,மேல் மற்றும் வடமேல் மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+In addition, heavy rainfall is expected for more than 100 mm in some places in the Northern Province.
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தைக் குறைப்பதற்குப் பொதுமக்கள் தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+At the same time, the Central, Sabaragamuwa, South, Uva, Upper and North Western Provinces are expected to be snowful in the morning.
+
+The Department of Meteorology has advised the public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. (A)
 
 ◼️
 
 [Data](articles/724b2b2c.json)
+
+[Extended Data](ext_articles/724b2b2c.ext.json)
 
 ---
 
@@ -2391,29 +2419,5 @@ The appointment letter was handed over to the President's Office by Dr. Sanath N
 [Data](articles/3fd2d44c.json)
 
 [Extended Data](ext_articles/3fd2d44c.ext.json)
-
----
-
-### Allu Arjun's 'Pushpa 2'
-
-*2024-12-10 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200894) · `ta`
-
-"Pushpa 2" sets new records: ₹829 crore in 4 days, likely to cross ₹1000 crore mark. Mixed reviews but increasing collections. First Indian film to reach ₹800 crore faster than many Hindi films.
-
-🟩
-
-'Pushpa 2' starring Allu Arjun, who is the leading star actor of the Telugu film industry, has set a new record of Rs 829 crore in the first four days of release.
-
-Allu Arjun -Rashmika Mantana, Bhagat Basil -Akiyor played the role of director Sukumar directed 'Pushpa 2'. The film was released on the 5th of December at the film mansions worldwide. Although mixed reviews of the film have been released, the collections are continuing to increase.
-
-The film has set a new record of Rs 294 crore on the first day of the film, the second day is Rs 449 crore, the third day is Rs 621 crore and the fourth day 829 crores.
-
-The film has set a new record in the Indian film industry so far. This means that the Indian film, which grosses Rs 500 crore, has grossed 800 crores as fast as the film, which has grossed over Rs 86 crore in the Hindi film industry.
-
-...
-
-[Data](articles/bf4a25e1.json)
-
-[Extended Data](ext_articles/bf4a25e1.ext.json)
 
 ---

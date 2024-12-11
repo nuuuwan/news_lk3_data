@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 06:18:35**
+As of **2024-12-11 07:31:24**
 
 ## Newspaper Stats
 
-*Scraped **59,545** Articles*
+*Scraped **59,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,147 @@ colombotelegraphcom | 603
 bbccomsinhala | 621
 islandlk | 3,595
 economynextcom | 3,618
-dailyftlk | 4,107
+dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,650
 adaderanalk | 7,246
-tamilmirrorlk | 8,495
-virakesarilk | 9,777
-adaderanasinhalalk | 10,289
+tamilmirrorlk | 8,496
+virakesarilk | 9,778
+adaderanasinhalalk | 10,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,530 (100.0%) of 59,545 articles have been extended.
+59,532 (100.0%) of 59,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### මෙරට ළමුන් ගැන අමෙරිකානු ආයතනයක් කළ හෙළිදරව්ව සොයා බලන්නැයි අධිකරණයෙන් නියෝග
+
+*2024-12-11 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204250) · `si`
+
+මෙරට බාලවයස්කාර දරුවන් සම්බන්ධ අසභ්‍ය වීඩියෝ දර්ශන හා ඡායාරූප කිසියම් පිරිසක් විසින් අන්තර්ජාලය ඔස්සේ මුදා හරින බවට ඇමරිකාවේ "නෙක්මැක්" ආයතනය හෙළි කරගෙන ඇති තොරතුරු සම්බන්ධයෙන් වහා විමර්ශනයක් පවත්වා අධිකරණයට කරුණු වාර්තා කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය පොලිස් ළමා හා කාන්තා කාර්යාංශයට නියෝග කර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් පොලිස් ළමා හා කාන්තා කාර්යාංශය දැක්වූ කරුණු සලකා බලමින් කොළඹ අතිරේක මහෙස්ත්‍රාත් කේමින්ද පෙරේරා මහතා මෙම නියෝගය ලබා දුන්නේය.
+
+එම කාර්යාංශය සිද්ධිය සම්බන්ධයෙන් කරුණු දක්වමින් අධිකරණය හමුවේ කියා සිටියේ, ඇමරිකාවේ පිහිටි මෙම "නෙක්මැක්" නැමති අන්තර්ජාල ආයතනය ලෝකයේ රටවල් අටක සාමාජිකයන් ලෙස බැඳී ඇති බවය.
+
+එහි සාමාජිකත්වය ලබාගෙන ඇති රටවල්වල දරුවන්ට අදාළ අසභ්‍ය වීඩියෝ දර්ශන හා ඡායාරූප අන්තර්ජාලය ඔස්සේ මුදාහැරීම සම්බන්ධයෙන් එම ආයතනය නිරන්තරයෙන් සොයා බැලීම් කටයුතු සිදුකරන බව සඳහන්ය.
+
+...
+
+[Data](articles/b2f1e85f.json)
+
+---
+
+### குறைந்த காற்றழுத்த மண்டலத்தால் பலத்த மழைவீழ்ச்சி
+
+*2024-12-11 07:11:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-மண்டலத்தால்-பலத்த-மழைவீழ்ச்சி/175-348560) · `ta`
+
+தென்கிழக்கு வங்காள விரிகுடா கடற்பரப்பில் உருவாகிய குறைந்த காற்றழுத்த மண்டலம், அடுத்த 24 மணித்தியாலங்களில் மேற்கு - வடமேற்குத் திசையில் நகர்ந்து இலங்கையின் வடக்கு கடற்கரைக்கு அருகில் தமிழக கடற்கரையை நெருங்க வாய்ப்பு உள்ளதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+வடக்கு, வடமத்திய, கிழக்கு மற்றும் வடமேல் மாகாணங்களில் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேலும், வடக்கு மாகாணத்தில் சில இடங்களில் 100 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+அதேவேளை, மத்திய, சப்ரகமுவ, தென், ஊவா,மேல் மற்றும் வடமேல் மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தைக் குறைப்பதற்குப் பொதுமக்கள் தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/724b2b2c.json)
+
+---
+
+### අඩුපීඩන කලාපය උතුරු වෙරළ ආසන්නයේ - මි.මී 100 ඉක්මවූ තද වැසි
+
+*2024-12-11 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204248) · `si`
+
+නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අඩුපීඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට ගමන් කරමින් ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇත.
+
+උතුරු,උතුරු මැද, නැගෙනහිර සහ වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ. උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+සෙසු ප්‍රදේශවල  සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම, සබරගමුව, දකුණ, ඌව, බස්නාහිර සහ වයඹ පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/59cf835d.json)
+
+---
+
+### Distinguished corporate leader Sujeewa Mudalige awarded honorary doctorate at NSBM Convocation Week 2024
+
+*2024-12-11 06:10:52* · [`dailyftlk`](https://www.ft.lk/business/Distinguished-corporate-leader-Sujeewa-Mudalige-awarded-honorary-doctorate-at-NSBM-Convocation-Week-2024/34-770356) · `en`
+
+Distinguished Chartered Accountant and corporate leader Sujeewa Mudalige, was awarded an honorary doctorate by the University of Plymouth, UK, during the NSBM Convocation Week 2024.
+
+Mudalige is a celebrated figure in Sri Lanka’s accounting and business sectors with a career spanning over 35 years. A Chartered Accountant since 1991, he is a fellow of leading professional bodies, including ICASL, CIMA-UK, ACCA-UK, and CPA Australia. His illustrious career includes 25 years at PwC, where he served seven years as Managing Partner and CEO until 2023.
+
+His influence extends globally, having held prestigious roles such as President of the Confederation of Asia and Pacific Accountants (CAPA) and Member of the International Accounting Education Standards Board. Nationally, he has contributed to financial governance, serving on regulatory bodies like the SEC, NMRA, and BoI while spearheading initiatives in digital banking and blockchain.
+
+...
+
+[Data](articles/707a21f7.json)
+
+[Extended Data](ext_articles/707a21f7.ext.json)
+
+---
+
+### Cabinet approves $ 200 m ADB loan for power sector
+
+*2024-12-11 06:09:29* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-200-m-ADB-loan-for-power-sector/34-770355) · `en`
+
+Cabinet of Ministers at their meeting on Monday approved the signing of a security agreement with the Asian Development Bank (ADB) to secure a $ 200 million loan aimed at strengthening and modernising the country’s electricity transmission system.
+
+The funding provided under the ADB’s initiative to enhance trust in the country’s electricity system, will be disbursed as two separate loans – $ 150 million to the Ceylon Electricity Board (CEB) and $ 50 million to Lanka Electricity Company (LECO).
+
+Both loans will be issued with a Treasury guarantee to ensure secure repayment.
+
+The proposal was initially approved during the Cabinet meeting held on 2 September 2024 by the previous regime.
+
+The project seeks to address critical issues in electricity transmission network, focusing on modernisations and enhanced reliability.
+
+◼️
+
+[Data](articles/1ee184a9.json)
+
+---
+
+### Greenlect to launch SLFRS-aligned ESG Reporting Platform
+
+*2024-12-11 06:09:15* · [`dailyftlk`](https://www.ft.lk/business/Greenlect-to-launch-SLFRS-aligned-ESG-Reporting-Platform/34-770354) · `en`
+
+Greenlect ESG Consulting Pte Ltd, an ESG consultancy headquartered in Singapore, will launch its highly customizable ESG Reporting Platform in January 2025. Designed for Sri Lankan companies preparing for mandatory ESG reporting under SLFRS S1 and S2 standards from 2025, the platform aims to simplify the compliance process by streamlining data collection and reporting.
+
+...
+
+[Data](articles/cc534b40.json)
+
+---
+
+### Luminex PLC gets contract to increase capacity of public water treatment plant in Horana EPZ
+
+*2024-12-11 06:09:01* · [`dailyftlk`](https://www.ft.lk/business/Luminex-PLC-gets-contract-to-increase-capacity-of-public-water-treatment-plant-in-Horana-EPZ/34-770353) · `en`
+
+Luminex PLC has been awarded the contract to increase the capacity of the public water treatment plant in the Horana Export Processing Zone.
+
+Cabinet of Ministers on Monday approved the proposal by President Anura Kumara Dissanayake to award the contract after bids were called following the National Competitive Procurement Procedure. Of the 11 bids submitted, Luminex selected following recommendations of the Procurement Committee appointed by the Cabinet of Ministers. On 5 June 2023, under the previous regime the Cabinet approved to increase the capacity of the Public Water Treatment Plant in the Horana Export Processing Zone through utilisation of funds of the Sri Lanka Board of Investment (BOI).
+
+◼️
+
+[Data](articles/3bd1f26c.json)
+
+---
 
 ### House of Cards: Sri Lanka’s sovereign bond fiasco and precarious balancing act of Central Bank
 
@@ -43,6 +167,8 @@ The Central Bank (CBSL) Governor’s sanguine assurances about Sri Lanka’s deb
 ...
 
 [Data](articles/aea5d05c.json)
+
+[Extended Data](ext_articles/aea5d05c.ext.json)
 
 ---
 
@@ -645,6 +771,20 @@ The film has been released this month. The mountain is a biological work of the 
 [Data](articles/5a4d6f00.json)
 
 [Extended Data](ext_articles/5a4d6f00.ext.json)
+
+---
+
+### அடுத்த வருடம் கடுமையான மருந்து தட்டுப்பாடு ஏற்படலாம் - மருத்துவ மற்றும் சிவில் உரிமைகளுக்கான சங்கம் எச்சரிக்கை விடுப்பு !
+
+*2024-12-10 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/200917) · `ta`
+
+அடுத்த வருடத்துக்கு தேவையான மருந்து கொள்வனவு இவ்வருடத்தின் மூன்றாம் காலாண்டுக்குள் நிறைவு பெற்றிருப்பது அவசியம். எனினும் சுகாதார அமைச்சு இது குறித்து ஆர்வம் செலுத்தாமையினால் அடுத்த வருடம் பொதுமக்கள் கடுமையான மருந்து தட்டுப்பாட்டை எதிர்க்கொள்ள வேண்டியேற்படலாம்  என மருத்துவ மற்றும் சிவில் உரிமைகளுக்கான சங்கத்தின் தலைவர் விசேட வைத்திய நிபுணர் சமல் சஞ்சீவ எச்சரித்துள்ளார்.
+
+அடுத்த வருடத்துக்குள்ள நாட்டில் அத்தியாவசிய மருந்துகளுக்கு தட்டுப்பாடு ஏற்படலாம். மருந்துகளை கொள்வனவு செய்வதற்கான ஆவணங்கள் உரிய நேரத்தில் சமர்ப்பிக்கப்படாமையால் இவ்வாறான நெருக்கடி  உருவாகக் கூடிய நிலை ஏற்பட்டுள்ளது. ஹீமோபிலியா நோயாளர்களுக்கு குருதி வெளியேற்றத்தைக் கட்டுப்படுத்துவதற்காக வழங்கப்படும் எட்டாவது காரணி என அழைப்படும் மருந்துகளுக்கு தட்டுப்பாடு  ஏற்பட்டுள்ளது. இதனால் ஹீமோபிலியா நோயாளர்களுக்கு சிறு கீறல் ஏற்பட்டலும் அதிக இரத்தப்போக்கு ஏற்பட வாய்ப்புள்ளது.
+
+...
+
+[Data](articles/57aaa209.json)
 
 ---
 
@@ -2275,187 +2415,5 @@ The film has set a new record in the Indian film industry so far. This means tha
 [Data](articles/bf4a25e1.json)
 
 [Extended Data](ext_articles/bf4a25e1.ext.json)
-
----
-
-### Sri Lanka to get 22 hardly used locomotives from India
-
-*2024-12-10 14:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-22-hardly-used-locomotives-from-india-193230/) · `en`
-
-ECONOMYNEXT – Sri Lanka Railways will receive 22 ALCO diesel engines from India as a grant, Health and Media Minister Nalinda Jayatissa said.
-
-“India will gift 20 slightly used M10 locomotive engines and 2 additional engines for obtaining spare parts for them,” Cabinet spokesman Jayatissa said.
-
-RITES, formerly known as Rail India Technical and Economic Service Engineering Service Limited, had made an unsolicited proposal to provide maintenance services for the locomotives over a five-year period, a cabinet statement said.
-
-However, a committee appointed to study this proposal by the previous government has said that Sri Lanka Railways has the capacity to maintain the locomotives. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/d66d74c6.json)
-
-[Extended Data](ext_articles/d66d74c6.ext.json)
-
----
-
-### Dr. Anil Jasinghe appointed Secretary to Ministry of Health and Media
-
-*2024-12-10 13:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104138/dr-anil-jasinghe-appointed-secretary-to-ministry-of-health-and-media) · `en`
-
-Dr. Anil Jasinghe has been appointed as the new Secretary to the Ministry of Health and Media by President Anura Kumara Dissanayake.
-
-The appointment letter was handed over to Dr. Jasinghe today (10) at the Presidential Secretariat, the President’s Media Division (PMD) said.
-
-Dr. Anil Jasinghe had previously served as the Director-General of Health Services from December 2017 to August 2020 and played an immense part in the country’s battle against the COVID-19 pandemic. He was later appointed as the Secretary to the Ministry of Environment.
-
-He also previously served as the Director of the Colombo South Teaching Hospital (2009-2012) and Director of the National Hospital of Sri Lanka (2012-2017).
-
-◼️
-
-[Data](articles/90f7d90a.json)
-
-[Extended Data](ext_articles/90f7d90a.ext.json)
-
----
-
-### Struggle to ask for justice
-
-*2024-12-10 13:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/தீச்சட்டி-ஏந்தி-நீதி-கேட்டு-போராட்டம்/46-348527) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Protesters demand justice on Intl Human Rights Day. Rally in Vavuniya highlights disappearances & lack of rights for Eelam Tamils. Seeking UN intervention due to loss of faith in domestic mechanisms."
-
-🟩
-
-On the 10th of December, the International Human Rights Day, a protest march in Vavuniya staged a rally in Vavuniya.
-
-The rally, which began in front of the Kandaswamy Temple in Vavuniya, ended at the old bus station.
-
-The world is celebrated today (10) as the International Human Rights Day. The international and the international are not seen as human beings as they abandoned Eelam Tamils
-
-No rights were granted. Will we get international justice?We are struggling on this day with the question
-
-In the absence of confidence in the domestic mechanism, we are seeking an international justice mechanism under the United Nations under the United Nations International Charter.
-
-Our relationships are the ones who have disappeared!They are not missing. Today, Sri Lanka ranks first in the international rank in the missing session.
-
-...
-
-[Data](articles/29bc47e4.json)
-
-[Extended Data](ext_articles/29bc47e4.ext.json)
-
----
-
-### Lanka T10 tournament begins tomorrow
-
-*2024-12-10 13:34:13* · [`adalk`](https://www.ada.lk/breaking_news/LANKA-T10-තරගාවලිය-හෙටින්-ඇරඹේ/11-413555) · `si`
-
-Sri Lanka Cricket's inaugural T10 tournament starts tomorrow (11). 21 matches in preliminary round, 3 daily.
-
-🟩
-
-Sri Lanka Cricket first organizes T10s to begin tomorrow (11).
-
-21 matches will be held in the preliminary round, and 3 matches will be held every day.
-
-◼️
-
-[Data](articles/d7f6c833.json)
-
-[Extended Data](ext_articles/d7f6c833.ext.json)
-
----
-
-### Specialist Dr. Anil Jasinghe holds a post of Secretary
-
-*2024-12-10 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204229) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Anil Jasinghe appointed Secretary to Ministry of Health & Mass Media by President Anura Kumara Dissanayake. Appointment letter presented to Presidential Secretariat.
-
-🟩
-
-Dr. Anil Jasinghe has been appointed as the new Secretary to the Ministry of Health and Mass Media by President Anura Kumara Dissanayake.
-
-The relevant appointment letter was presented to the Presidential Secretary to the Presidential Secretary to the Presidential Secretariat this afternoon.
-
-◼️
-
-[Data](articles/bfb45513.json)
-
-[Extended Data](ext_articles/bfb45513.ext.json)
-
----
-
-### President to visit India next week
-
-*2024-12-10 13:12:46* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලබන-සතියේ-ඉන්දියාවට/11-413554) · `si`
-
-Pres. Anura Kumara Dissanayake visits India 15-17th. First trip since becoming Prez.
-
-🟩
-
-Minister of Cabinet publications Nalinda Jayatissa said President Anura Kumara Dissanayake will visit India from the 15th to 17th.
-
-This is the first to do this after Anura Kumara Dissanayake is appointed president.
-
-◼️
-
-[Data](articles/0e1c74dd.json)
-
-[Extended Data](ext_articles/0e1c74dd.ext.json)
-
----
-
-### Sri Lanka to revise draft bill on stolen asset recovery
-
-*2024-12-10 13:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-revise-draft-bill-on-stolen-asset-recovery-116510/) · `en`
-
-ECONOMYNEXT – Sri Lanka will revise its draft Proceeds of Crime bill, Health and Media Minister Nalinda Jayatissa said.
-
-The International Monetary Fund had made several observations on the draft bill, which was gazetted in August by the previous government, a cabinet statement said.
-
-The then Justice Minister had appointed a committee headed by a supreme court judge to study these observations.
-
-The committee recommended several provisions be incorporated into the draft bill.
-
-“The bill will include provisions for prohibiting keeping assets earned through crime, profiting from illegal activities, and the seizure of assets earned through crime,” Jayatissa told reporters.
-
-The legal draftsman will now amend the draft bill to include these provisions. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/c8be13f6.json)
-
-[Extended Data](ext_articles/c8be13f6.ext.json)
-
----
-
-### Illegally stored foreign liquor worth over Rs. 50 mln seized in Borella
-
-*2024-12-10 13:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104137/illegally-stored-foreign-liquor-worth-over-rs-50-mln-seized-in-borella-) · `en`
-
-A stock of illegally stored foreign liquor bottles worth over Rs. 50 million has been discovered during a raid conducted by the officers of the Excise Office in Gampaha.
-
-The raid was carried out at a private institution in Borella following a complaint received by the Commissioner General of Excise.
-
-During the raid, the Gampaha Excise officers discovered 173 bottles of foreign liquor stored in an illegal manner at the location in question.
-
-Excise officials stated that a 35-year-old man from Colombo was arrested during the raid.
-
-The suspect is scheduled to be produced before the Maligakanda Magistrate’s Court today (10).
-
-◼️
-
-[Data](articles/2b1bc345.json)
-
-[Extended Data](ext_articles/2b1bc345.ext.json)
 
 ---

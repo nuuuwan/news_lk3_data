@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 19:03:27**
+As of **2024-12-11 19:17:20**
 
 ## Newspaper Stats
 
-*Scraped **59,662** Articles*
+*Scraped **59,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,595
 economynextcom | 3,633
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,664
+adalk | 5,665
 adaderanalk | 7,268
-tamilmirrorlk | 8,514
-virakesarilk | 9,791
+tamilmirrorlk | 8,515
+virakesarilk | 9,793
 adaderanasinhalalk | 10,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,616 (99.9%) of 59,662 articles have been extended.
+59,618 (99.9%) of 59,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### யாழில் மர்ம காய்ச்சலால் உயிரிழந்தவர்களின் எண்ணிக்கை உயர்வு
+
+*2024-12-11 19:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மர்ம-காய்ச்சலால்-உயிரிழந்தவர்களின்-எண்ணிக்கை-உயர்வு/71-348592) · `ta`
+
+யாழ்ப்பாணத்தில் பரவி வரும் இனந்தெரியாத காய்ச்சலால் உயிரிழந்தவர்களின் எண்ணிக்கை ஐந்தாக அதிகரித்துள்ளதாக யாழ் வைத்தியசாலை பணிப்பாளர் வைத்தியர் டி.சத்தியமூர்த்தி ஊடகவியலாளர் சந்திப்பின் போது உறுதிப்படுத்தியுள்ளார்.
+
+உயிரிழந்தவர்கள் 20 முதல் 65 வயதுக்குட்பட்ட, காய்ச்சல் மற்றும் சுவாச சிக்கல்களால் பாதிக்கப்பட்டவர்களாவர்.
+
+இந்த நோய் பொதுவாக எலிக்காய்ச்சல் எனப்படும் லெப்டோஸ்பிரோசிஸ் என சந்தேகிக்கப்படுவதாக வைத்தியர் சத்தியமூர்த்தி தெரிவித்தார், ஆனால் இரத்த மாதிரிகள் மேலதிக ஆய்வுக்காக கொழும்புக்கு அனுப்பப்பட்டுள்ளதால் உறுதிப்படுத்தல் நிலுவையில் உள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e620a557.json)
+
+---
 
 ### The Sri Lanka-New Zealand cricket tournament will be informed
 
@@ -214,37 +230,81 @@ We are talking about women and women in this movie. We have written the story fo
 
 ---
 
-### சுகாதார, வெகுசன ஊடகத்துறை மீதான மக்கள் நம்பிக்கையை கட்டியெழுப்புவது அவசியம் - அனில் ஜாசிங்க
+### It is necessary to build people's confidence in health and mass media - Anil Jasinghe
 
 *2024-12-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201006) · `ta`
 
-சுகாதார மற்றும் வெகுசன ஊடகத்  துறை மீது மக்கள் வைத்திருந்த நம்பிக்கை நலிவுற்றுள்ளது. ஆகையால் இவ்விருத்துறைகள் மீதான மக்கள் நம்பிக்கையை மீள கட்டியெழுப்புவது மிக அவசியம் என சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் செயலாளர் விசேட வைத்திய நிபுணர் அனில் ஜாசிங்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் செயளாலராக நியமிக்கப்பட்டுள்ள வைத்தியர் அனில் ஜாசிங்க  புதன்கிழமை சுகாதார அமைச்சில் உத்தியோகப்பூர்வமாக தனது கடமைகளை பொறுப்பேற்றுக் கொண்டார்.
 
-இதன்போது சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ  உள்ளிட்ட அமைச்சின் அதிகாரிகள் பிரசன்னமாகியிருந்தனர்.
 
-ஐந்து வருடங்களுக்கு பிறகு மீள சுகாதார அமைச்சில் அங்கம் வகிக்க கிடைத்ததை எண்ணி மகிழ்ச்சியடைகிறேன். நம்பிக்கை என்பது பொதுவாக சிலரிடம் இருக்கும் சிலரிடம் இருக்காது.
+Rebuilding public trust in health and media crucial: Anil Jasinghe. As Health & Media Ministry Secretary, he vows to restore confidence through fair services and expert leadership. Challenges ahead, but commitment to progress remains strong.
 
-நம்பிக்கை என்பது அரிய வகை இரத்தினம் போன்றது. அவ்வாறான நம்பிக்கையை வென்றெடுப்பதற்காக, நெருக்கடிக்கு முகங்கொடுத்துள்ள மக்களுக்கு நியாயமான மனிதாபிமானத்துடன் கூடிய சேவையை வழங்க சுகாதார அமைச்சரின் வழிகாட்டலுடன் நடவடிக்கைகளை முன்னெடுக்க எதிர்பார்த்துள்ளோம்.
+🟩
+
+People's confidence in the health and mass media industry. Therefore, it is essential to rebuild people's confidence in these sectors, said Anil Jasinghe, Secretary of the Ministry of Health and Media, said.
+
+Dr. Anil Jasinghe, who has been appointed as the Secretary of the Ministry of Health and Mass Media, officially assumed his duties at the Health Ministry on Wednesday.
+
+Officials of the Ministry of Health and Media Media, including Dr. Nalinda Jayatissa, were present.
+
+Five years later, I am happy to think that I got a member of the Ministry of Health. Faith is not usually some of the people who have.
+
+Hope is like a rare type of gem. In order to win such confidence, we are looking forward to carrying out action with the guidance of the Minister of Health to provide a fair humanitarian service to the people who face the crisis.
+
+We will make a change of expected people with the Senior and Experted Officers of the Ministry of Health.
 
 ...
 
 [Data](articles/459a31cf.json)
 
+[Extended Data](ext_articles/459a31cf.ext.json)
+
 ---
 
-### சீன இராணுவ விஞ்ஞான அகடமி ஆய்வாளர்கள் மற்றும் பாத்பைன்டர் பவுன்டேஷன் பிரதிநிதிகள் சந்திப்பு
+### எலிக்காய்ச்சலால் பாதிப்புற்றவர்களின் எண்ணிக்கை 10 ஆயிரமாக அதிகரிப்பு
 
-*2024-12-11 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201003) · `ta`
+*2024-12-11 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201002) · `ta`
 
-நாட்டுக்கு வருகைதந்திருக்கும் பெய்ஜிங்கின் இராணுவ விஞ்ஞான அகடமியின் ஆய்வாளர்களுக்கும் பாத்பைன்டர் பவுன்டேஷன் அமைப்பின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பு அண்மையில் பேலியகொடவில் அமைந்திருக்கும் அவ்வமைப்பின் தலைமையகத்தில் நடைபெற்றது.
+நாடளாவிய ரீதியில்  இவ்வருடத்தின் இதுவரையான காலப்பகுதியில் மாத்திரம் சுமார் 10 ஆயிரத்துக்கும் அண்ணளவான நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
 
-பாத்பைன்டர் பவுன்டேஷன் அமைப்புடனான தொடர்புகளை வலுப்படுத்துவதுடன், இருதரப்பினருக்கும் நன்மையளிக்கக்கூடிய விடயங்கள் குறித்துக் கலந்துரையாடும் நோக்கில் இலங்கைக்கு வருகைதந்திருக்கும் பெய்ஜிங் இராணுவ சட்டக்கட்டமைப்பு கற்கைகள் நிறுவனத்தைப் பிரதிநிதித்துவப்படுத்தி இயங்கிவரும் இராணுவ விஞ்ஞான அகடமியின் பிரதிநிதிகள், இலங்கையும் சீனாவும் ஒன்றிணைந்து பணியாற்றுவதற்கு ஏதுவான புதிய வாய்ப்புக்கள் தொடர்பில் விரிவாக ஆராய்ந்தனர்.
+நிலவிவரும் மழையுடன் கூடிய காலநிலை மற்றும் பெரும்போக நெற்செய்கை ஆரம்பிக்கப்பட்டுள்ள நிலையில் அடையாளம் காணப்படும் நோயாளர்களின் எண்ணிக்கை மேலும் அதிகரிக்க வாய்ப்புள்ளதாக தொற்று நோய் பிரிவின் விசேட வைத்திய நிபுணர் குமுது வீரகோன்ன் தெரிவித்தார்.
+
+எலிக்காய்ச்சல் பரவல் குறித்து புதன்கிழமை (11) சுகாதார மேம்பாட்டுப் பணியகத்தின் ஏற்பாடு செய்யப்பட்ட விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு தெரிவித்தார்,
+
+கடந்த வருடம் மாத்திரம் நாடளாவிய ரீதியில் எலிக்காய்ச்சலால் பாதிப்புற்ற 9 ஆயிரம் பேர் அடையாளங்காணப்பட்டுள்ளதுடன் 200 பேர் உயிரிழந்தும் உள்ளனர். இரத்தினபுரி, குருநாகல், காலி, மாத்தறை, கொழும்பு ஆகிய மாவட்டங்களிலேயே அதிக நோயாளர்கள் கண்டறியப்பட்டுள்ளனர்.
+
+10 தொடக்கம் 12 மாவட்டங்கள் அதி உயர் அபாயம் மிக்க பகுதிகளாக அடையாளப்படுத்தப்பட்டுள்ளன. இவ்வருடத்தின் இதுவரையான காலப்பகுதியில் மாத்திரம் சுமார் 10 ஆயிரத்துக்கும் அண்ணளவான நோயாளர்கள் அடையாளங்காணப்பட்டுள்ளனர்.
 
 ...
 
+[Data](articles/ec6b1a51.json)
+
+---
+
+### Meeting Chinese Army Science Academy Inspectors and Representatives of Batfire Foundation
+
+*2024-12-11 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201003) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Beijing Army Science Academy reps met Batfire Foundation reps in Peliyagoda. Discussed strengthening ties, Chinese-Sri Lankan relations, security sector regulations, military law comparisons, and diplomatic policy approaches.
+
+🟩
+
+A meeting between Beijing's Army Science Academy and representatives of the Batfire Foundation Organization was recently held at the headquarters in Peliyagoda.
+
+Representatives of the Military Science Academy, representing the Beijing Military Law Studies Institute in Sri Lanka, have extended the new opportunities to strengthen relations with the Builder Foundation and discuss the benefits of both sides.
+
+During the meeting, a variety of important issues were discussed in detail, including a Zone, the Chinese -Sri Lankan relationship, the security sector regulations of the two countries, the comparison of the military law and the Pathpine Foundation, and the approaches to the establishment of a successful diplomatic policy system.
+
+◼️
+
 [Data](articles/1828cc05.json)
+
+[Extended Data](ext_articles/1828cc05.ext.json)
 
 ---
 
@@ -404,6 +464,22 @@ Overall, the report said the economy will likely contract 1% in annual terms in 
 
 ---
 
+### பைசர் முஸ்தபாவின் நியமனம் தொடர்பில் பங்காளிக் கட்சிகளுக்கு அறிவிக்கப்படவில்லை - வஜிர அபேவர்தன
+
+*2024-12-11 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200978) · `ta`
+
+புதிய ஜனநாயக முன்னிணியின் தேசிய பட்டியல் உறுப்பினர்களை நியமிக்கும் அதிகாரம் அதன் செயலாளருக்கு கிடையாது. பைசர் முஸ்தபாவின் நியமனம் தொடர்பில் பங்காளி கட்சிகளுக்கும் அறிவிக்கப்படவில்லை. இது தொடர்பில் விரைவில் உரிய நடவடிக்கை எடுக்கப்படும் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+சமையல் எரிவாயு சின்னத்தில் பொதுத் தேர்தலில் போட்டியிடுவதற்கு தீர்மானிக்கப்பட்ட சந்தர்ப்பத்தில் பங்காளி கட்சி தலைவர்களுக்கிடையில் இணக்கப்பாடொன்று எட்டப்பட்டது. அதற்கமைய புதிய ஜனநாயக முன்னணி என்ற கட்சியுடன் ஒப்பந்தமும் கையெழுத்திடவும் தீர்மானிக்கப்பட்டது.
+
+இந்த கூட்டணியின் செயலாளராக ஷர்மிலா பெரேராவிடம் குறித்த இணக்கப்பாட்டுடன் கூடிய ஒப்பந்தம் ஒப்படைக்கப்பட்டது. இன்றுவரை குறித்த ஒப்பந்தத்தின் பிரதிகள் எந்தவொரு பங்காளி கட்சிக்கும் வழங்கப்படவில்லை. அதேபோன்று ஒப்பந்தத்தை சமர்ப்பிக்கவும் இன்னும் நடவடிக்கை எடுக்கப்படவில்லை.
+
+...
+
+[Data](articles/d2b1d85f.json)
+
+---
+
 ### Sri Lanka Kandyan king palace renovated by US cultural preservation fund
 
 *2024-12-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-kandyan-king-palace-renovated-by-us-cultural-preservation-fund-193620/) · `en`
@@ -421,6 +497,24 @@ The second phase upgraded the Archeology Museum’s displays and facilities, cre
 [Data](articles/ea92daf0.json)
 
 [Extended Data](ext_articles/ea92daf0.ext.json)
+
+---
+
+### ලංකා කම්කරු කොන්ග්‍රසය ප්‍රතිසංවිධානය කිරිමට යයි
+
+*2024-12-11 16:56:31* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොන්ග්‍රසය-ප්‍රතිසංවිධානය-කිරිමට-යයි/11-413584) · `si`
+
+ලංකා කම්කරු කොන්ග්‍රසය ප්‍රතිසංවිධානය කර ඉදිරියේදි පැවැත්වෙන පළාත් පාලන මැතිවරණයේදි පළාත් පාලන ආයතනවල බලය ලංකා කම්කරු කොන්ග්‍රසය සතු කර ගැනිමට ජාතික සභාව (11) දින තිරණය කල බව එම පක්ෂයේ ජෙෂ්ඨ උප සභාපති කනපති කනගරාජ් මහතා පැවසිය.
+
+කනපති කනගරාජ් මහතා ඒ බැව් කියා සිටියේ එම පක්ෂයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා සහ මහ ලේකම් නුවරඑලිය දිස්ත්‍රික් පා.ම ජිවන් තොණ්ඩමන් මහතාගේ ප්‍රධානත්වයෙන් (11) දින හැටන් කොටගල ලංකා කම්කරු කොන්ග්‍රස් මුලස්ථානයේ පැවති ජාතික සභාවේ ගත් තිරණ සම්බන්ධයෙන් මාධ්‍ය දැනුවත් කරමිණි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැක් වු කනපති කනගරාජ් මහතා කියා සිටියේ තම පක්ෂය ලබන වසරේ ජනවාරි මස ප්‍රතිසංවිධාන කටයුතු සිදු කරන බවත්, එහිදි පක්ෂ නායකත්වය හැර අනෙකුත් නිලයන් වෙනස් කර ඒ සදහා තරුණ කණ්ඩායම් පත් කර, එම කණ්ඩායම් වල අදහස් ලබා ගනිමින් ලංකා කම්කරු කොන්ග්‍රසය යලිත් ශක්තිමත් කරන බවයි.
+
+ජිවන් තොණ්ඩමන් මහතා වතුකරයේ ජනතාවට හිමිකම් ඔප්පු ලබාදිමේ වැඩසටහනක් දියත් කර තිබු බවත්, එම වැඩසටහන වත්මන් රජය මගින්ද සිදු කිරිම සම්බන්ධයෙන් රජයට සහය දක්වන බවයි කනපති කනගරාජ් මහතා කියා සිටියේ.
+
+...
+
+[Data](articles/5bd1400e.json)
 
 ---
 
@@ -2147,107 +2241,5 @@ Sri Lankan conglomerate John Keells Holdings owns 34% of the terminal and the re
 [Data](articles/7745a31d.json)
 
 [Extended Data](ext_articles/7745a31d.ext.json)
-
----
-
-### South Korean police search President Yoon’s office over martial law imposition, reports say
-
-*2024-12-11 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104153/south-korean-police-search-president-yoons-office-over-martial-law-imposition-reports-say) · `en`
-
-Yonhap news agency says police are searching President Yoon Suk Yeol’s office.
-
-Yonhap says the search is happening on Wednesday over Yoon’s Dec. 3 martial law declaration.
-
-The reported search happens as the country’s main law enforcement institutions are focusing on finding whether Yoon and others involved in the Dec. 3 martial law imposition committed rebellion.
-
-South Korea’s two highest police officers have been detained to be investigated for their roles in enforcing President Yoon Suk Yeol’s short-lived martial law decree last week, police said Wednesday.
-
-The development comes hours before the main liberal opposition Democratic Party submits a new motion to impeach Yoon as the country’s main law enforcement institutions expand their investigation into whether the president’s declaration amounted to rebellion. The first impeachment attempt failed last Saturday when the ruling party boycotted the vote. The Democratic Party said it aims to put the new motion to a vote on Saturday.
-
-...
-
-[Data](articles/14c70d47.json)
-
-[Extended Data](ext_articles/14c70d47.ext.json)
-
----
-
-### In the event of filled with reservoirs, electricity has been obtained from private power plants
-
-*2024-12-11 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204252) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Ceylon Electricity Board: Reservoirs full, hydroelectric power at max. Coal plant operates below capacity. Purchased electricity from private thermal plants due to insufficient hydro power generation.
-
-🟩
-
-The Ceylon Electricity Board of Engineering and Superintecess Association says that the water supply of electricity has been purchased at the maximum level of water in the reservoirs associates.
-
-The Association's Deputy Chairman Nandana Udayakumara said that such activities should be a search for whose requirements.
-
-"In the recent past, we have just got rain. The reservoir associates of our hydroelectric power plants was completely filled with. Also at the Norochcholai Power Plant has already taken a coal stock with coal. But last week's electricity board data has two-thirds of the Norochcholai coal power plant. One of those machines is operating at low capacity without running out of the maximum capacity. Accordingly, electricity has been purchased from private thermal power plants. When the hydro power plants can be implemented at the maximum capacity environment, whose knowledge could be implemented at the maximum capacity of the Norochcholai. "
-
-◼️
-
-[Data](articles/20fcea44.json)
-
-[Extended Data](ext_articles/20fcea44.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-12-11 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104152/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the low-pressure area over the southwest Bay of Bengal is very likely to continue to move west-northwestwards towards the Tamil Nadu coast close to Northern Sri Lanka during the next 24 hours.
-
-Showers or thundershowers will occur at times in Northern, North-central, Eastern and North-western provinces. Heavy showers above 100mm are likely at some places in Northern province.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night, it added.
-
-Misty conditions can be expected in Central, Sabaragamuwa, Southern, Uva, Western and North-western provinces during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/332a9a25.json)
-
-[Extended Data](ext_articles/332a9a25.ext.json)
-
----
-
-### Another person dies in Jaffna
-
-*2024-12-11 08:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காய்ச்சலால்-யாழில்-மேலும்-ஒருவர்-உயிரிழப்பு/175-348561) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Death toll rises in Jaffna: Mysterious fever claims another victim. Health officials warn of escalating danger as cases spread.
-
-🟩
-
-One person died on Tuesday due to a mysterious fever that has been spreading for the past few days in Jaffna district.. The health department has warned that the situation is becoming dangerous day by day.
-
-The mother of a child who had been caught by the fever for five days died yesterday without treatment.
-
-Yall. The deceased is Suresh Kumar Ranjita (33 years old) from Odkarai, a college road belonging to the Point Pedro Police Division.
-
-He was taking Panadol pills following a fever symptom on Friday 6th. He visited the Point Pedro Base Hospital on Monday after the fever did not stop. He is fed up there.
-
-He is immediately in Jaffna. He was transferred to the Teaching Hospital yesterday morning and died on Tuesday morning.
-
-The woman's respiratory tract has been severely affected and she may have had a fever or a rat fever.. However, the health department said that he died of the disease only after receiving test reports from Colombo.. (A)
-
-◼️
-
-[Data](articles/19f2f7ec.json)
-
-[Extended Data](ext_articles/19f2f7ec.ext.json)
 
 ---

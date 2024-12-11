@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 22:02:33**
+As of **2024-12-11 22:31:44**
 
 ## Newspaper Stats
 
-*Scraped **59,681** Articles*
+*Scraped **59,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,73 @@ islandlk | 3,595
 economynextcom | 3,633
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,668
+adalk | 5,669
 adaderanalk | 7,269
-tamilmirrorlk | 8,518
-virakesarilk | 9,795
+tamilmirrorlk | 8,519
+virakesarilk | 9,796
 adaderanasinhalalk | 10,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,640 (99.9%) of 59,681 articles have been extended.
+59,648 (99.9%) of 59,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### විරෝධය මැද පොලිස් නිලධාරීන්ට තුවාල සිදුකළේ කවුද ?
+### The biggest change in the weather in the 24th hour
+
+*2024-12-11 21:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலத்தில்-வானிலையில்-ஏற்படவுள்ள-மிகப்பெரிய-மாற்றம்/175-348597) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Southwest Bengal Bay low-lying zone persists 24 hours. Expected to move toward Tamil Nadu. Rain/thunderstorms forecasted for Northern, North Central, Eastern Provinces. Heavy rainfall (>75mm) anticipated in Northern Province areas. Central, Sabaragamuwa, Southern, Uva, Western Provinces also expect rain/storms.
+
+🟩
+
+The Department of Meteorology has predicted that the low -lying low -lying zone in the Southwest Bengal Bay will last for the next 24 hours.
+
+It has been predicted that the low -lying zone may move towards Tamil Nadu in the western northwestern direction.
+
+Accordingly, rain or thunderstorms are expected in the Northern, North Central and Eastern Provinces.
+
+The Department of Meteorology has said that more than 75 millimeters of rainfall is expected in some parts of the Northern Province.
+
+The Department of Meteorology has forecast rain or thunderstorms in the Central, Sabaragamuwa, South, Uva and Western provinces. Remble
+
+◼️
+
+[Data](articles/67a00616.json)
+
+[Extended Data](ext_articles/67a00616.ext.json)
+
+---
+
+### Who injured police officers in the face of protest?
 
 *2024-12-11 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204283) · `si`
 
-බත්තරමුල්ල, ඉසුරුපාය ඉදිරිපිට පැවැත්වූ විරෝධතාවය අතරතුර තියුණු ආයුධයකින් කපා පොලිස් නිලධාරීන් තිදෙනෙකුට තුවාල සිදු කළැයි කියන සිද්ධිය සම්බන්ධයෙන් පොලීසියෙන් පැහැදිලි කිරීමක් සිදුකර තිබේ.
+Clashes between protesters and police resulted in officers being injured. Police claim use of weapons, deny involvement of military intelligence. Investigation ongoing. Soldier arrested in connection with incident.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය නිකුත් කළ නිවේදනයේ දැක්වෙන්නේ, යුද හමුදා බුද්ධි අංශ නිලධාරියෙකු විසින් මෙම තුවාල සිදුකළ බවට කිසිදු තොරතුරක් අනාවරණය වී නොමැති බවය.
+🟩
 
-එසේ තිබියදී, අධිකරණයේ එදින පෙනී සිටි නිලධාරියා මෙවැනි කරුණු දැක්වීමක් සිදුකළා ද යන්න පිළිබඳව වැඩබලන පොලිස්පතිවරයාගේ නියමයෙන් පොලිස් විශේෂ විමර්ශන ඒකකය මගින් විමර්ශනයක් ආරම්භ කර ඇති බවද දැනුම්දෙයි.
+Police have made a clarification in the incident, clashes with a sharp weapon, claimed by a sharp weapon during the protest in front of Isurupa.
 
-ගුරු පත්වීම් ඉල්ලා පාසල් සංවර්ධන නිලධාරීන් පිරිසක් පසුගිය 2 වනදා බත්තරමුල්ල, ඉසුරුපාය අධ්‍යාපන අමාත්‍යංශය ඉදිරිපිට පැවැත්වූ විරෝධතාවයේදී තියුණු ආයුධයකින් කපා පොලිස් නිලධාරීන් තිදෙනෙකුට තුවාල සිදු කළැයි කියන පුද්ගලයා යුද හමුදා බුද්ධි අංශ නිලධාරියෙකු බවට සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇතැයි තලංගම පොලීසිය කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දුන් බවට මාධ්‍ය වාර්තාකර තිබූ පුවත සම්බන්ධයෙන් පැහැදිලි කරමින් මෙම නිවේදනය සිදුකර තිබේ.
+The discrimination was issued in the police media division that no information has been revealed by an army intelligence officer.
+
+Despite this, the acting IGP has initiated an investigation by the acting IGP regarding whether the officer appearing on that day was a statement.
+
+Talangama Police have informed the court that investigations have revealed that a soldier was arrested in front of the Ministry of Education in front of the Ministry of Education in front of the Ministry of Education on the 2th in front of the Ministry of Education.The announcement has been made by explaining the news.
 
 ◼️
 
 [Data](articles/81cd63ab.json)
+
+[Extended Data](ext_articles/81cd63ab.ext.json)
 
 ---
 
@@ -360,6 +396,36 @@ President Anura Kumara Dissanayake is expected to leave China soon. During the v
 
 ---
 
+### Never did not say that animals harming cultivation should be killed
+
+*2024-12-11 17:46:20* · [`adalk`](https://www.ada.lk/breaking_news/වගාවට-හානි-කරන-සතුන්-ඝාතනය-කළ-යුතු-යැයි-කිසිම-අවස්ථාවක-කීවේ-නෑ/11-413589) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Minister Lal Kantha: No call to kill animals harming crops. Supports farmer orgs to protect fields. Proposes air rifles & training to reduce damage. 1555 farmer groups in Kandy district to submit proposals.
+
+🟩
+
+It is important that they have no declared that they should kill the farmers that harm the farmers who are harming the cultivation of the farmers.. Says Lal Kantha.
+
+The Minister emphasized that today (11) speaking at the media after the first district coordinating committees of the present government today (11).
+
+He further stated that a unit of farmer organizations registered under the Department of Agrarian Services has decided to establish every Grama Seva Division to reduce the crop damage caused by wild animals.
+
+The Minister said that the units of the village could be determined if the air rifles are provided to minimize the cultivated damage to the farmers.. The Minister emphasized that short-term solutions should be reached until the long-term solutions to cultivated damage.
+
+The Minister said that the number of farmers must provide knowledge and training to the farmers to protect cultivated territories.
+
+...
+
+[Data](articles/2a57b67e.json)
+
+[Extended Data](ext_articles/2a57b67e.ext.json)
+
+---
+
 ### A program for plantation workers in the budget will be implemented - Kalachelvi
 
 *2024-12-11 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201012) · `ta`
@@ -414,21 +480,61 @@ A rally was held on Wednesday (11) from the Colombo Fort Railway Station to the 
 
 ---
 
-### රිලා ගැටලුව විසඳීමට නියමු ව්‍යාපෘතියක් මාතලෙන්
+### Pilot project to solve the problem
 
 *2024-12-11 17:39:15* · [`adalk`](https://www.ada.lk/breaking_news/රිලා-ගැටලුව-විසඳීමට-නියමු-ව්‍යාපෘතියක්-මාතලෙන්/11-413588) · `si`
 
-රට තුළ විශාල ව්‍යසනයක් බවට පත්ව ඇති රිලා උවදුර තුරන් කිරීම සඳහා ස්ථීරසාර විසඳුමක් ලෙස රිලවුන් වන්ද්‍යාකරණය  කිරීමේ නියමු ව්‍යාපෘතිය මාතලෙන් ආරම්භ කරන බව ආගමික කටයුතු බුද්ධ ශාසන හා සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය දිස්ත්‍රික් සංවර්ධන කමිටු සභාපති ගමගෙදර දිසානායක මහතා පවසයි.
+Here's a summary in 200 characters:
 
-දිසානායක මහතා මහතා එසේ ප්‍රකාශ කරනු ලැබුවේ අද (11) වන දින පැවතිමාතලේ දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමට සහභාගි වෙමින්ය.
 
-මෙම නියම ව්‍යාපෘතිය  සඳහා රුපියල් මිලියන 4.5 ක මුදලක් කෘෂිකර්ම අමාත්‍යාංශය මගින් වෙන්කර ඇති අතර ඒ සඳහා පශු වෛද්‍යවරුන්ගේ සහාය ලබා ගැනීම සිදු කරනු ලබන අතර ආරම්භ කරනු ලබන මෙම නියමු ව්‍යාපෘතිය ඉදිරියේදී රට පුරා ක්‍රියාත්මක කිරීමට නියමිත බව නියෝජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
 
-මාතලේ දිස්ත්‍රික්කය තුළින්  උගුල් කූඩු යොදා අල්ලා ගනු ලබන රිලවුන් ගිරිතලේ සත්ව සුරැකුම් මධ්‍යස්ථානය වෙත රැගෙන ගොස් වන්ද්‍යාකරණ කටයුතු කර නැවත එම අල්ලා ගත් ප්‍රදේශයට ගෙනවිත් දැමීමට නියමිතය.
+Ministry allocates funds for pilot project. Deputy Minister Dhamma Dissanayake discusses plan at meeting. Rhilavan caught using trap nests in Matale district. To be relocated to Giritale Language Center.
+
+🟩
+
+Deputy Minister of Buddha Sasana and Cultural Affairs, Dhamma Dissanayake, Hon.
+
+Mr. Dissanayake was speaking at the District Coordinating Committee meeting today (11).
+
+The Ministry of Agriculture has allocated Rs. 4.5 million for this purpose.
+
+Rhilavan, who is caught using trap nests from the Matale district, is to be taken to the Giritale of the Language Center and brought to the captured area.
 
 ◼️
 
 [Data](articles/d3cfa8ad.json)
+
+[Extended Data](ext_articles/d3cfa8ad.ext.json)
+
+---
+
+### Investigation into the dismissal of Ashoka Ranwala's doctorate
+
+*2024-12-11 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201001) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Investigation into Ashoka Ranwala's doctorate dismissal. Opposition demands public disclosure or resignation. Speaker claims two doctoral degrees. Parliament removes "Dr." title from official website. Opposition urges transparency or stepping down.
+
+🟩
+
+It is reported that the Investigation of the House of Commons in Parliament has been carried out in Parliament regarding the abolition of the doctorate of Speaker Ashoka Ranwala at the Kovil.
+
+Speaker Ashoka Ranwala must make the certificate of his doctor's degree publicly to the people, or accept the mistake and resign honorably.
+
+Opposition members have expressed fierce opposition that the Speaker, the third citizen of the country, should act as an excellent example for the entire population.
+
+Former Chairman of the Elections Commission Mahinda Deshapriya in his official home book last week, the Speaker must make the details of his doctorate.. Otherwise resign, 'he uploaded.
+
+Similarly, a few greetings and civil organizations who had come to power in the national popular power were challenging the Speaker's doctorate and questioning on their official social media.
+
+...
+
+[Data](articles/75c3d650.json)
+
+[Extended Data](ext_articles/75c3d650.ext.json)
 
 ---
 
@@ -1152,19 +1258,29 @@ All three maturities were offered on tap after the auction. (Colombo/Dec11/2024)
 
 ---
 
-### බටහිර පර්යන්තයට ඇමෙරිකාවේ ණය එපා යැයි අදානි සමූහය කියයි
+### The Vives Group says the Western terminal is not US debt
 
 *2024-12-11 16:24:38* · [`adalk`](https://www.ada.lk/breaking_news/බටහිර-පර්යන්තයට-ඇමෙරිකාවේ-ණය-එපා-යැයි-අදානි-සමූහය-කියයි/11-413583) · `si`
 
-ප්‍රකෝටිපති ගෞතම් අදානිගේ සභාපතිත්වයෙන් යුත් අදානි වරාය හා විශේෂ ආර්ථික කළාප සමාගම අද නිවේදනය කළේ තම සමාගම ශ්‍රී ලංකාවේ කොළඹ වරාය බටහිර පර්යන්තය සංවර්ධනය කිරීමේ ව්‍යාපෘතිය වෙනුවෙන් ඇමෙරිකාවේ ණය මුදල් ලබා නොගැනීමට තීරණය කළ බවයි. මේ අනුව අදාළ ව්‍යාපෘතිය වෙනුවෙන් අවශ්‍ය අරමුදල් සමාගම සතු අභ්‍යන්තර මුදල් යොදවන බවද සමාගම නිවේදනය කරයි.
+Here's a summary in 200 characters:
 
-ඇමෙරිකාව විසින් ගෞතම් අදානිට අල්ලස් හා දූෂණ චෝදනා ගොනු කිරීමට විරෝධය දැක්වීමක් ලෙස සමාගම මෙම තීරණය ගෙන තිබේ. ඇමෙරිකානු ණය අරමුදල් යොදා නොගත්තත් බටහිර පර්යන්තයේ ඉදිකිරීම් සාර්ථකව ඉදිරියට ගමන් කරන බවත් ලබන වසරේ මුල් භාගයේදී එම ව්‍යාපෘතිය ජනතා අයිතියට පැවැරීමට කටයුතු කරන බවත් සමාගම නිවේදනය කරයි.
 
-‍ව්‍යාපෘතිය වෙනුවෙන් අදානි සමූහය"එක්සත් ජනපද ජාත්‍යන්තර සංවර්ධන මූල්‍ය සංස්ථාවෙන් (DFC) මූල්‍යකරණය සඳහා වූ ඉල්ලීමක් 2023 වසරේදී ඉදිරිපත් කර තිබූණත් මේ වන විට එම ඉල්ලීම ඉවත් කරගත් සමාගම නිවේදනය කරයි.
+
+Rajapaksa Port group rejects US debt for Colombo Port West Terminal. Citing corruption allegations, they'll use alternative funding. Project to proceed without US loan, opening Q1 2024.
+
+🟩
+
+The Rajapaksa Port and Special Economic Zones, chaired by Billionaire Aporie, the Minister of Revival announced that his company decided not to get the US debt for the development of the Colombo Port West Terminal in Sri Lanka. The company announced that the company's funds have been deployed for the project.
+
+The company has taken this decision as the Gautam Prisoners to file bribery and corruption by America. The company announces that the construction of the Western terminal will continue to move forward the use of US loan funds, but the project will continue to be opened to the public in the first half of next year.
+
+The project for the project, "the US International Development Finance Corporation (DFC) has been submitted in 2023, but the company announces the removal of the request.
 
 ...
 
 [Data](articles/a64f10e1.json)
+
+[Extended Data](ext_articles/a64f10e1.ext.json)
 
 ---
 
@@ -1188,25 +1304,33 @@ Health authorities continue to monitor the situation closely, with measures bein
 
 ---
 
-### Onmax DT නඩුව කල්යයි
+### Onmax dt case postponed
 
 *2024-12-11 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204272) · `si`
 
-Onmax DT පිරමීඩ ආයෝජන ක්‍රමයේ මුදල් ආයෝජනයන් සිදුකොට මුදල් අහිමි වූ තැන්පත්කරුවන් විසින් මේ දක්වා පැමිණිලි 2,017 ක් ඉදිරිපත් කර ඇති බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දී තිබේ.
+ONMAX DT pyramid scheme case: CID informs court of Rs. 2.96 billion loss; 865 victims identified; 9 suspects arrested; 3 more sought internationally; 31 properties seized; repayment plan ordered by Magistrate.
 
-ඒ අනුව ඔවුන්ට අහිමි වී තිබෙන මුදල රුපියල් බිලියන 2.96 ක් ලෙසද ගණන් බලා තිබේ.
+🟩
 
-මෙම පැමිණිල්ල අද (11) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබු අවස්ථාවේදී අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් අධිකරණය හමුවේ කරුණු දක්වමින් මේ බව පැවසීය.
+The Criminal Investigation Department (CID) has informed the Colombo Magistrate's Court that the ONMAX DT is investing in investing investments in the pyramid investment system.
 
-නිලධාරීන් එහිදී පෙන්වා දී ඇත්තේ ඉකුත් නඩු දිනයේ සිට මේ දක්වා අදාළ ආයෝජනය ක්‍රමයේ මුදල් තැන්පත් කර,  මුදල් අහිමි වූ පුද්ගලයින් 865 දෙනෙකු විසින් මෙම පැමිණිලි ඉදිරිපත් කර ඇති බවත් තවදුරටත් පැමිණිලි ලැබෙමින් පවතින බවත්ය.
+Accordingly, they have lost Rs. 2.96 billion.
 
-එම අවස්ථාවේ දී අදාළ සමාගමේ අධ්‍යක්ෂවරු ඇතුළු සැකකරුවන් නවදෙනෙකු  අධිකරණය ඉදිරියේ පෙනී සිටියේය.
+The complaint was summoned before Colombo Chief Magistrate Thilina Gamage today (11), said the officials of the CID.
 
-මේ අතර, තවත් සැකකරුවන් තිදෙනෙකු මේ වනවිට විදේශගතව සිටින අතර ඔවුන් අත්අඩංගුවට ගන්නා ලෙස දන්වමින් අධිකරණය විසින් විවෘත වරෙන්තු නිකුත් කර තිබේ.
+The officials were pointed out that 865 persons have been deployed by 865 persons who have lost their money have been submitted by 865 persons who have lost their money.
+
+At that time, nine suspects including directors and the suspects appear before the court.
+
+Meanwhile, three more suspects have been abroad and have been opened by the Court as to the arrest.
+
+The officers of the Criminal Investigations Department (CID), the officials of the Criminal Investigations Department (CID) said that the investigations of the Criminal Investigations Department (CID) have been investigated by the Criminal Investigation Department (CID).
 
 ...
 
 [Data](articles/182295f7.json)
+
+[Extended Data](ext_articles/182295f7.ext.json)
 
 ---
 
@@ -1234,21 +1358,27 @@ The Ceylon Electricity Board (CEB) has commenced public views on the amendment o
 
 ---
 
-### දික්වැල්ලගේ තරග තහනම අවසන්
+### Ban was completed by Dikwella's match
 
 *2024-12-11 15:45:16* · [`adalk`](https://www.ada.lk/sports/දික්වැල්ලගේ-තරග-තහනම-අවසන්/9-413581) · `si`
 
-මත්ද්‍රව්‍ය භාවිත කිරිමේ චෝදනාවට වරදකරු වී වසර තුනක ක්‍රිකට් තහනමක් පනවා තිබූ ක්‍රිකට් ක්‍රීඩක නිරෝෂන් දික්වැල්ලගේ එම තහනම අවසන් කිරීමට ක්‍රිකට් ආයතනය කටයුතු කර තිබේ.
+Niroshan Dickwella's ban reduced from 3 years to 3 months after appeal. Ban implemented in September. He'll participate in Sri Lanka Premier League as cricket captain.
 
-අදාළ තරග තහනම සම්බන්ධයෙන් ඔහු යොමුකළ අභියාචනාවක් අනුව මෙම තීරණය ගෙන තිබේ. එහිදී දික්වැල්ලට පැනවූ වසර තුනක ක්‍රිකට් තහනම මාස තුනක් දක්වා අඩුකර තිබේ.
+🟩
 
-ඒ අනුව සැප්තැම්බරයේදී ඔහුට ක්‍රිකට් තහනමක් පනවා තිබූ අතර මාස තුනක් එය ක්‍රියාත්මක වීම හේතුවෙන් දික්වැල්ලට පනවා තිබූ තරග තහනම ඉවත් වෙනු ඇත.
+Cricketer Niroshan Dickwella's ban has acted in a three-year cricketer, Niroshan Dickwella's ban.
 
-ඒ අනුව ඔහුට සියලුම ආකාරයෙන් ක්‍රිකට් ක්‍රීඩා කිරීමට අවස්ථාව ලැබෙයි. මෙවර ශ්‍රී ලංකා ප්‍රිමියර් ලීග ක්‍රිකට් තරගාවලියේදී ගාලු කණ්ඩායමේ නායකයා වශයෙන් කටයුතු කළ දික්වැල්ලගෙල් ලබාගත් මුත්‍රා සාම්පලවල ඔහු කොකේන් මත්ද්‍රව්‍ය භාවිත කර තිබූ බවට තහවුරු විය.
+This decision has been taken in accordance with the appeal of the match against the ban. The three-year cricket ban on the Dickwella has been reduced to three months.
+
+Accordingly, he had banned cricket in September, and the ban on Dickwella will withdraw due to its implementation.
+
+Accordingly, he will play cricket playing. In the Sri Lanka Premier League Cricket captain, he was confirmed that he had used the drug.
 
 ◼️
 
 [Data](articles/c0a890e8.json)
+
+[Extended Data](ext_articles/c0a890e8.ext.json)
 
 ---
 
@@ -2313,91 +2443,5 @@ Ambassador to the Republic of Iraq. A.. A number of political dignitaries partic
 [Data](articles/4713febc.json)
 
 [Extended Data](ext_articles/4713febc.ext.json)
-
----
-
-### “Removal of oppressive laws, including terrorism law” - UN Office
-
-*2024-12-11 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200955) · `ta`
-
-UN Office calls for removal of oppressive laws including terrorism law. North South Brotherhood protests in Colombo demand abolition of repressive acts and political prisoner release.
-
-🟩
-
-The North and South Brotherhood, which fought in front of the UN office in Colombo on the International Human Rights Day, urged the immediate abolition of repression laws, including the Terrorism Act.
-
-On Tuesday (10), the North and Southern Brotherhood was organized in front of the United Nations Office in Colombo to express human rights.
-
-Participants in this struggle 'Delete the Terrorism Act', 'Delete the Ceremonial Backup Act', 'to ensure the right to survive', 'immediately release political prisoners', 'Provide justice for justice', 'Provide justice to the victims of the life of the Missing Sunday'.- The Ranil government has been involved in a protest, carrying out the words written by the government, 'Lack of the Laws of the Ranil' and 'the rights of the Dalpatum community'.
-
-Commenting on the struggle, Attorney -at -Law Srinath Perera, the coordinator of the North and South Brotherhood, said that the struggle was aimed at expressing human rights concern in the country.
-
-...
-
-[Data](articles/fb721a89.json)
-
-[Extended Data](ext_articles/fb721a89.ext.json)
-
----
-
-### "Jerome is not the pastor of the Catholic Church"
-
-*2024-12-11 10:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெரோம்-கத்தோலிக்க-திருச்சபையின்-போதகர்-அல்ல/175-348567) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Catholic Church denies Pastor Jerome Fernando as its leader. Bishops' Council warns against misinformation about his status. No official apostolic proof exists for him within the Church."
-
-🟩
-
-Pastor Jerome Fernando was not the pastor of the Catholic Church and therefore the Catholic Bishops Council in Sri Lanka yesterday (10) had made it clear that the Catholic Church should not be fooled.
-
-Jerome Fernando is not a Catholic bishop, who has no official apostle proof in the Catholic Church, so we are urging Catholic believers not to deceive such information.
-
-◼️
-
-[Data](articles/1305348c.json)
-
-[Extended Data](ext_articles/1305348c.ext.json)
-
----
-
-### The killings in the place
-
-*2024-12-11 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204256) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Double homicide reported: Jaela (45yo) & Lacketa (44yo). Sharp objects used. Suspects fleeing. Investigations ongoing."
-
-🟩
-
-Two human murders have taken place in two places in the island.
-
-In the Jaela, a heated argument was attacked with a sharp object.
-
-The victim was a 45 year old resident of Walapane.
-
-When a heated in the break in the rest room, a heated argument was detected when they were farming.
-
-The suspect had fled the area and the Jappara Police are conducting further investigations.
-
-Meanwhile, a woman has been assaulted by a woman with a sharp weapon in the Lacketa area of ​​the Laggala Police Division.
-
-The murder had been attacked by the husband with a sharp instrument by the husband of disturbing a family dispute.
-
-The deceased has been identified as a 44 year old resident of Narangamuwa, Luckala.
-
-The remains are placed at the Laggala hospital morgue and the suspect was arrested and the Laggala police are conducting further investigations.
-
-◼️
-
-[Data](articles/19930322.json)
-
-[Extended Data](ext_articles/19930322.ext.json)
 
 ---

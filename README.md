@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 17:12:09**
+As of **2024-12-11 17:44:16**
 
 ## Newspaper Stats
 
-*Scraped **59,627** Articles*
+*Scraped **59,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,595
 economynextcom | 3,632
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,662
-adaderanalk | 7,263
-tamilmirrorlk | 8,513
+adalk | 5,663
+adaderanalk | 7,268
+tamilmirrorlk | 8,514
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
 
@@ -26,11 +26,101 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,597 (99.9%) of 59,627 articles have been extended.
+59,606 (100.0%) of 59,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### Gazette issued declaring Faiszer Musthapha as National List MP
+
+*2024-12-11 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104173/gazette-issued-declaring-faiszer-musthapha-as-national-list-mp) · `en`
+
+The Election Commission of Sri Lanka has issued a Gazette notification confirming that Faiszer Musthapha has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the 2024 General Election under the ‘Gas Cylinder’ symbol.
+
+On Tuesday (10), it was reported that the New Democratic Front (NDF) has nominated Musthapha for the remaining National List seat out of the two won by the party in Parliament.
+
+However, a dispute has emerged within the New Democratic Front (NDF) concerning the nomination of Faiszer Musthapha for a National List MP position with the coalition partners alleging that this decision has been made without consulting them.
+
+The NDF, which contested under the ‘gas cylinder’ symbol in the 2024 general elections, secured two National List seats.
+
+The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, also under somewhat controversial circumstances.
+
+◼️
+
+[Data](articles/5ad9a3f3.json)
+
+[Extended Data](ext_articles/5ad9a3f3.ext.json)
+
+---
+
+### Pettah wholesale shops raided over inflated rice prices
+
+*2024-12-11 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104172/pettah-wholesale-shops-raided-over-inflated-rice-prices) · `en`
+
+The officers of the Consumer Affairs Authority (CAA) carried out a series of inspections at rice wholesale shops on Fifth Cross Street, Pettah, today (11).
+
+The operation followed complaints alleging unethical practices, including hoarding of rice stocks.
+
+During the inspection, legal action has been taken against a shop found selling rice at inflated prices, violating consumer protection laws.
+
+Further investigations have been initiated into other violations, including the failure to display price tags and the sale of expired rice.
+
+◼️
+
+[Data](articles/f99d09e5.json)
+
+[Extended Data](ext_articles/f99d09e5.ext.json)
+
+---
+
+### Electricity Tax Correction Consultations will start on the 17th
+
+*2024-12-11 17:05:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்த-ஆலோசனைகள்-17-ஆம்-திகதி-தொடங்கும்/175-348590) · `ta`
+
+Public consultations on electricity tax correction start Dec 17. CEB proposes no changes to current rates until mid-2025. Submit written comments by Jan 8, 2025.
+
+🟩
+
+The PUCSL (PUCSL) has announced that public consultations on the six -month power tariff revision for the six -month period from January to June 2025 will begin on December 17.
+
+The Ceylon Electricity Board (CEB) has proposed to retain the existing electricity bill without any change in the scheduled for the first half of 2025.
+
+PUCSL's permanent employees are presented on CEB's proposals and recommendations and the general public is asked to submit their opinions and suggestions.
+
+Written comments and recommendations on public consultation can be submitted by the following media before January 8, 2025: Email -info@pucsl.gov.lk,
+
+Or you can send the Sri Lanka Public Utilities Commission, BOC Business Tower, site 6, St. Michael Street, Colombo 3.
+
+◼️
+
+[Data](articles/0a7cf162.json)
+
+[Extended Data](ext_articles/0a7cf162.ext.json)
+
+---
+
+### Myanmar’s economy set to contract as floods and fighting take heavy toll, the World Bank says
+
+*2024-12-11 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104171/myanmars-economy-set-to-contract-as-floods-and-fighting-take-heavy-toll-the-world-bank-says) · `en`
+
+Myanmar’s economy is forecast to contract this year, the World Bank said Wednesday, as flooding and fighting take a severe toll nearly four years after the military ousted its elected government headed by Aung San Suu Kyi.
+
+In an update issued Wednesday, the bank said about a fifth of all built structures and a tenth of Myanmar’s roads had been damaged by widespread flooding during heavy monsoon rains and a typhoon that swept through the country in September. About 2 million people were left homeless, the report said.
+
+Meanwhile, fighting between the military and opposition forces remains fierce in some parts of the country, disrupting farming and manufacturing.
+
+“The level and intensity of armed conflict remains high, severely affecting lives and livelihoods, disrupting production and supply chains, and heightening uncertainty around the economic outlook,” it said.
+
+Overall, the report said the economy will likely contract 1% in annual terms in the April-March fiscal year.
+
+...
+
+[Data](articles/a8130ba6.json)
+
+[Extended Data](ext_articles/a8130ba6.ext.json)
+
+---
 
 ### Sri Lanka Kandyan king palace renovated by US cultural preservation fund
 
@@ -47,6 +137,8 @@ The second phase upgraded the Archeology Museum’s displays and facilities, cre
 ...
 
 [Data](articles/ea92daf0.json)
+
+[Extended Data](ext_articles/ea92daf0.ext.json)
 
 ---
 
@@ -67,6 +159,8 @@ A bond maturing on 01.05.2031 closed at 11.25/40 percent. (Colombo/Dec11/2024)
 ◼️
 
 [Data](articles/cf57a87f.json)
+
+[Extended Data](ext_articles/cf57a87f.ext.json)
 
 ---
 
@@ -90,23 +184,67 @@ There was foreign net outflow of 393 million rupees. (Colombo/Dec11/2024)
 
 [Data](articles/2fb608de.json)
 
+[Extended Data](ext_articles/2fb608de.ext.json)
+
 ---
 
-### ’’அவரிடமிருந்து விலகி இருப்பது நல்லது’’
+### It is good to stay away from him
 
 *2024-12-11 16:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரிடமிருந்து-விலகி-இருப்பது-நல்லது/175-348589) · `ta`
 
-பாராளுமன்ற சபாநாயகர் அசோக சபுமல் ரன்வலவின் கல்வித் தகுதிகளின் நம்பகத்தன்மை தொடர்பில் அதிகரித்து வரும் குற்றச்சாட்டுகளுக்கு மத்தியில், அவருடனான தொடர்புகளை இராஜதந்திர சமூகம் தற்காலிகமாக இடைநிறுத்த வேண்டுமென ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) யாழ் மாவட்ட அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+Sri Lanka SLPP calls for suspension of diplomatic ties with MP over fake degree claims
 
-சமீபத்தில் நடந்து முடிந்த பாராளுமன்றத் தேர்தலுக்கான பிரச்சாரத்தின் போது "கலாநிதி" என்ற பட்டத்தைப் பயன்படுத்தி ரன்வல தனது நற்சான்றிதழ்களை தவறாக சித்தரித்தார் என ஒரு காசிலிங்கம் விசனம் தெரிவித்தார்.
+🟩
 
-சபாநாயகர் முனைவர் பட்டம் பெறக்கூடாது என்று குற்றச்சாட்டுகள் எழுந்துள்ளன, இது அவரது நேர்மை மற்றும் பொறுப்புக்கூறல் குறித்து கேள்விகளை எழுப்புகிறது.
+The Sri Lanka PA (SLPP) Jaffna District Organizer Geetanath Kasilingam has said that the diplomatic community should temporarily suspend his contacts amid increasing allegations of the credibility of the educational qualifications of Parliament Ashoka Sabumal Ranwala.
 
-"போலித் தகுதிகளை சித்தரித்த சபாநாயகர் ஒருவர் இலங்கையில் இருப்பது ஏற்றுக்கொள்ள முடியாதது" என்று காசிலிங்கம் கூறினார். "இந்த வெளிப்படையான மோசடிக்கு பொதுமக்களுக்கு விளக்கம் வழங்க வேண்டும்" என்றார்.
+During the recently concluded parliamentary elections, Ranwala had misrepresented his credentials by using the title "Doctor".
+
+There have been accusations that the Speaker should not graduate from doctorate, which raises questions about his honesty and accountability.
+
+"It is unacceptable to be a Speaker who portrayed fake qualifications," Kasilingam said. "The public should be interpreted on this obvious scam."
+
+Kasilingam asked President Dissanayake to begin an immediate inquiry into the matter. He emphasized the importance of transparency and urged the authorities to quickly solve these issues to maintain the credibility of the parliamentary organization of Sri Lanka.
 
 ...
 
 [Data](articles/ad24c901.json)
+
+[Extended Data](ext_articles/ad24c901.ext.json)
+
+---
+
+### 20-year-old arrested with over 2kg of ‘Ice’
+
+*2024-12-11 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104170/20-year-old-arrested-with-over-2kg-of-ice-) · `en`
+
+Police have arrested a suspect who was in the possession of 2 kilograms and 100 grams of ‘Ice’ drugs (Crystal Methamphetamine) in the Wanathamulla area of the Borella police division today (11).
+
+The arrest has been carried out based on a tip-off received by a group of officers attached to Borella Police.
+
+The suspect who was taken into custody during the raid has been identified as a 20-year-old resident of Mulleriyawa, the police said.
+
+◼️
+
+[Data](articles/ef77d48f.json)
+
+---
+
+### CID ordered to develop program to reimburse ‘Onmax DT’ depositors
+
+*2024-12-11 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104169/cid-ordered-to-develop-program-to-reimburse-onmax-dt-depositors) · `en`
+
+The Criminal Investigation Department (CID) has reported to the Colombo Magistrate’s Court that a total of 2,017 complaints have been filed by depositors who claim to have been cheated out of their money after investing in ‘Onmax DT,’ a private firm alleged to have been operating a pyramid scheme.
+
+According to the CID, the total estimated financial losses incurred by the complainants amounts to around Rs. 2.96 billion.
+
+During a hearing before Colombo Chief Magistrate Thilina Gamage today (11), CID officials disclosed that a total of 865 new complaints have been received since the last hearing, and that additional complaints continue to be received.
+
+Nine suspects, including the directors of Onmax DT, appeared before the court for the hearing. The CID further informed the court that three other suspects remain overseas, and open warrants have been issued for their arrest.
+
+...
+
+[Data](articles/d09852dc.json)
 
 ---
 
@@ -147,6 +285,22 @@ Health authorities continue to monitor the situation closely, with measures bein
 ◼️
 
 [Data](articles/3f1d2b3e.json)
+
+[Extended Data](ext_articles/3f1d2b3e.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය ගැන කොමිෂමේ තීන්දුව ජන. 17දා
+
+*2024-12-11 15:59:40* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-කොමිෂමේ-තීන්දුව-ජන--17දා/11-413582) · `si`
+
+ලංකා විදුලිබල මණ්ඩලය විසින් ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ මහජන උපයෝගීතා කොමිෂන් සභාවේ අවසන් තීරණය 2025 ජනවාරි 17 වනදා ගන්නා බව එම කොමිසම නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+2025 ජනවාරි සිට ජුනි දක්වා මාස 6ක කාලය සඳහා ලංකා විදුලි බල මණ්ඩලය ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ මහජන අදහස් විමසීම 2025 දෙසැම්බර් 17 වන දින සිට ආරම්භ කරන බවය.
+
+◼️
+
+[Data](articles/76ce91f0.json)
 
 ---
 
@@ -2083,203 +2237,5 @@ Accordingly, the Cabinet has approved the proposal submitted by the President as
 [Data](articles/978aa294.json)
 
 [Extended Data](ext_articles/978aa294.ext.json)
-
----
-
-### Speaker vows to respond to doctorate controversy at right time
-
-*2024-12-10 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104151/speaker-vows-to-respond-to-doctorate-controversy-at-right-time) · `en`
-
-A controversy has emerged regarding the doctorate allegedly held by the Speaker of Parliament Asoka Ranwala, with opposition parties demanding clarification on whether he genuinely holds a PhD.
-
-They have called on the government to clarify and dispel growing public suspicion surrounding the matter.
-
-The Speaker reportedly used the title “Dr.” in his introductions prior to contesting the general elections. Following his election as Speaker, his name was listed as Dr. Asoka Ranwala on the official website of the Parliament of Sri Lanka.
-
-However, the issue gained attention when university professors and other individuals questioned on social media whether the Speaker’s doctorate was legally granted or recognized.
-
-Adding to the speculation, doubts have been raised about the removal of the title “Dr.” from his name on the Parliament’s website.
-
-Responding to an inquiry made by Ada Derana, Speaker Asoka Ranwala stated that he would address the allegations at the appropriate time.
-
-◼️
-
-[Data](articles/fc0d98ff.json)
-
-[Extended Data](ext_articles/fc0d98ff.ext.json)
-
----
-
-### STF officers refute
-
-*2024-12-10 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204246) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-STF officers cleared of wrongdoing by Balapitiya Magistrate's Court. Incident involved firearm display near Guru Prints School. Suspect shot dead by STF on October 11, 2022. Case adjourned until December 10, 2023.
-
-🟩
-
-Balapitiya Magistrate's Court today dismissed the allegations to the Special Task Force today (10) regarding the police Task Force today.
-
-The shooting was accused when he went to show a firearm in the forestry near the Guru Prints near the Guru Prints Guru School Stadium.
-
-On October 11, 2022, a suspect was arrested on October 12, 2022, to shoot a three-class driver in front of the head of star-class.
-
-It was reported that the STF had attempted to shoot the firearr to the STF personnel to show a firearm in the incident.
-
-The suspect was taken to the Balapitiya Base Hospital with the injured by STF officials.
-
-The deceased has been identified as a 26 year old resident of the Thanamalwila area.
-
-The relatives of the Police Special Task Inspector Inspector Inspector Colombo have been shot dead by the relatives of the Police Special Task Force who was killed while he was pending in the Balapitiya High Court.
-
-...
-
-[Data](articles/13fe3550.json)
-
-[Extended Data](ext_articles/13fe3550.ext.json)
-
----
-
-### Sri Lanka’s new govt should deliver on promise to protect rights – UN
-
-*2024-12-10 20:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104150/sri-lankas-new-govt-should-deliver-on-promise-to-protect-rights-un-) · `en`
-
-The United Nations Resident Coordinator in Sri Lanka, Marc-André Franche, has expressed hope that the commitment expressed by the new government to protect human rights will be substantial and not merely a spectacle.
-
-Speaking during the national commemoration of International Human Rights Day, Franche also expressed satisfaction with the government’s pledges regarding the protection of human rights.
-
-The Human Rights Commission of Sri Lanka (HRCSL) marked International Human Rights Day with a ceremony at the Bandaranaike Memorial International Conference Hall (BMICH) today, under the theme, “Our Rights, Our Future, Right Now.”
-
-Accordingly, the Chairman of the Human Rights Commission of Sri Lanka, L.T.B. Dehideniya, shared the following details during the ceremony.
-
-“Today, the Human Rights Commission of Sri Lanka will officially launch these publications:
-
-The Status of Manpower Workers: A Study of the Katunayake and Biyagama Free Trade Zones.
-
-...
-
-[Data](articles/c6c54a31.json)
-
-[Extended Data](ext_articles/c6c54a31.ext.json)
-
----
-
-### Derana is a special award
-
-*2024-12-10 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204244) · `si`
-
-Derana wins special award at SLIM Brand Excellence ceremony. Media network recognized for outstanding contributions to Sri Lankan brand category.
-
-🟩
-
-The TV Derana was awarded again a great award that serves a wide range of efforts and enjoying their knowledge and enjoyment.
-
-The awards ceremony, organizing the SLIM Brand Excellence, organized by SLIM, is held recently.
-
-The foremost awards ceremony of the Sri Lankan brand is held this year.
-
-More than 200 Sri Lankan brands joined the local brand at several categories.
-
-Ada Derana, the YEAR, the special assessment award was awarded the Special Assessment Award in the Year Branch Category.
-
-It is also a special award for a media network at the awards ceremony.
-
-Like today, we are ready to preserve our belongings and to take the new and close to you.
-
-◼️
-
-[Data](articles/28a2f39f.json)
-
-[Extended Data](ext_articles/28a2f39f.ext.json)
-
----
-
-### Vadivel Suresh
-
-*2024-12-10 19:56:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடிவேல்-சுரேஷை-உடனடியாக-வௌியேற்றுமாறு-அதிரடி-உத்தரவு/175-348557) · `ta`
-
-Samantha Vidyaratne warns Vadivel Suresh to vacate Hali Ela Unkolla Bungalow. Threatens cancellation if he doesn't comply. Meeting focuses on housing for landslide-displaced plantation workers.
-
-🟩
-
-Minister Samantha Vidyaratne has said that former MP Vadivel Suresh has occupied the Hali Ela Unkolla Bungalow and has informed him to the Unakkola estate management to immediately flee him.
-
-Plantation and Social Infrastructure Minister Samantha Vidyaratne made this statement at the Badulla District Coordinating Committee meeting held today (10).
-
-Minister Samantha Vidyaratne has warned that Vadivel Suresh will be canceled if he does not get out of the there and acts unjustly.
-
-This is the first district coordinating committee meeting held across the country after the current government came to power.
-
-Meanwhile, Minister Samantha Vidyaratne said that it has been decided to provide Rs 28 lakhs of rupees each to construct houses for the displaced plantation people due to landslides.
-
-It is reported that all the unprecedented officials were invited to the meeting and that they all attended the event.. Remble
-
-◼️
-
-[Data](articles/1ecc15eb.json)
-
-[Extended Data](ext_articles/1ecc15eb.ext.json)
-
----
-
-### General election votes must be re -counted
-
-*2024-12-10 19:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தல்-வாக்குகள்-மீள-எண்ணப்பட-வேண்டும்/175-348556) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National Congress leader Ataullah petitions Election Commission about vote recount in Digamadulla electoral district. Claims voter rights denied, results manipulated. Threatens legal action if votes not recounted.
-
-🟩
-
-The National Congress leader and former minister of the Digamadulla electoral district in the last general election. Ataullah, today, officially handed over a petition containing complaints of the Human Rights Commission of Sri Lanka to visit the Kalmunai Regional Office today.
-
-The petition included a number of issues that include many moves and disturbances that were targeted as the National Congress leader during the last election during the last election.
-
-In the ongoing parliamentary elections, the voters' rights in the Digamadulla electoral district were systematically denied and votes were counted, he said.
-
-...
-
-[Data](articles/52ba37c2.json)
-
-[Extended Data](ext_articles/52ba37c2.ext.json)
-
----
-
-### Speaker responds to a doctorate
-
-*2024-12-10 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204242) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Controversy surrounds Speaker's doctoral degree claim. Opposition questions legitimacy, citing lack of recognition. Government urged to address public doubts. Speaker denies allegations, stating he will respond appropriately.
-
-🟩
-
-There is a controversial conversation in society regarding the doctorate in the society.
-
-Opposition parties point out that the Speaker should verify that he has a doctoral degree and the government should cast this social doubt.
-
-Prior to his contesting to the general election, Speaker's Communications were used as a chariot in his introduction, as he was appointed as the Speaker.
-
-However, the debate in the society was created by the fact that there was no recognized doctorized doctorate that he was not legally repassial.
-
-Along with the removal of the lecturer in the parliament website and his name, various parties suspect.
-
-When Ada Derana asked for Ada Assok Rankedoka today, he said that he responded to these allegations at the right time.
-
-◼️
-
-[Data](articles/9b679992.json)
-
-[Extended Data](ext_articles/9b679992.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 05:12:27**
+As of **2024-12-11 05:51:38**
 
 ## Newspaper Stats
 
-*Scraped **59,534** Articles*
+*Scraped **59,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 603
 bbccomsinhala | 621
 islandlk | 3,588
 economynextcom | 3,618
-dailyftlk | 4,103
+dailyftlk | 4,105
 dailymirrorlk | 4,733
 adalk | 5,650
 adaderanalk | 7,246
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,528 (100.0%) of 59,534 articles have been extended.
+59,530 (100.0%) of 59,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### ‘AKD Govt. continues IMF agreement ignoring people’s mandate’
+
+*2024-12-11 05:43:12* · [`dailyftlk`](https://www.ft.lk/opinion/AKD-Govt-continues-IMF-agreement-ignoring-people-s-mandate/14-770340) · `en`
+
+Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando chairs a meeting with the IMF Staff delegation in November as part of the third review of the $ 3 billion Extended Fund Facility program – File photo
+
+Following is the full text of Opposition Leader Sajith Premadasa’s speech in Parliament last week on Sri Lanka’s international debt negotiations
+
+“A Prosperous Country, A Beautiful Life” – the current Government’s policy statement – I am prepared to point out that the moment this Government came to power, they violated their electoral mandate and betrayed the people’s rights. In the same manner, fully agreeing to the International Monetary Fund’s (IMF) program can be considered the largest betrayal in recent times.
+
+On page 105 of the ‘Prosperous Country, Beautiful Life’ policy document, there is an alternative debt sustainability analysis through which the NPP Government claims it would implement the understandings reached with the IMF.
+
+...
+
+[Data](articles/e373fdfb.json)
+
+---
+
+### Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
+
+*2024-12-11 05:39:01* · [`dailyftlk`](https://www.ft.lk/business/Lion-Brewery-commissions-Sri-Lanka-s-first-innovation-centre-for-craft-brews/34-770337) · `en`
+
+From left: Lion Brewery (Ceylon) Chief Supply Chain Officer Thusith Gunawarnasuriya, Director Mano Selvanathan, and CEO Rajiv Meewakkala inaugurate the Lion Innovation Centre, the first-of-its-kind facility in Sri Lanka
+
+Strategic move enables company to increase exports and strengthen presence of Sri Lankan craftsmanship on the global stage
+
+Lion Brewery makes Rs. 305 b tax contribution in past 6 months
+
+Lion Brewery (Ceylon) PLC recently commissioned Sri Lanka’s first Innovation Centre dedicated to the research and development for craft and specialty brews targeting export markets, which is also a BOI-approved project.
+
+This initiative is the latest milestone in Lion Brewery’s continuous journey in brewing innovation and is poised to further the presence of Sri Lankan brews on the global stage.
+
+...
+
+[Data](articles/15cfb51b.json)
+
+---
 
 ### Food Policy and Safety Committee to boost national food security
 
@@ -2491,49 +2529,5 @@ Accordingly, the proposal submitted by the President, in his capacity as the Min
 [Data](articles/d7580e2a.json)
 
 [Extended Data](ext_articles/d7580e2a.ext.json)
-
----
-
-### Gazette Notification Release
-
-*2024-12-10 12:18:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-அறிவித்தல்-வெளியீடு/175-348524) · `ta`
-
-Here's a summary of the Gazette Notification in 200 characters:
-
-
-
-"CAA releases Gazette 2414/02 setting max retail/wholesale prices for local rice varieties. Prohibits selling, providing, displaying listed local rice types."
-
-🟩
-
-The Gazette Notification (2414/02), which refers to the maximum retail and wholesale prices for local rice varieties, was released yesterday by the Consumer Affairs Authority (CAA).
-
-Following the release of the gazette, the CAA has ordered that any manufacturer, manufacturer, distributor or trader should not sell, provide, display, or sell the local rice types listed below.
-
-◼️
-
-[Data](articles/2f2eeb93.json)
-
-[Extended Data](ext_articles/2f2eeb93.ext.json)
-
----
-
-### Sri Lanka to get $50M IMF deal-linked policy loan from OPEC Fund
-
-*2024-12-10 12:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-50m-imf-deal-linked-policy-loan-from-opec-fund-193192/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved signing an agreement for a $50 million policy based loan from the OPEC Fund for International Corporation, according to a statement by the Department of Government Information
-
-The loan is linked to financing coming in parallel with the Extended Fund Facility of the International Monetary Fund, the statement said
-
-Sri Lanka has so far got policy-based loans linked to the IMF program from the World Bank and Asian Development Bank.
-
-Japan, which used to co-finance IMF programs after previous currency crises, could not give new loans until the a bilateral debt restructuring was complete. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/0f20a76f.json)
-
-[Extended Data](ext_articles/0f20a76f.ext.json)
 
 ---

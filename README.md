@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 13:01:38**
+As of **2024-12-11 13:12:48**
 
 ## Newspaper Stats
 
-*Scraped **59,599** Articles*
+*Scraped **59,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,657
-adaderanalk | 7,256
+adaderanalk | 7,257
 tamilmirrorlk | 8,508
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,575 (100.0%) of 59,599 articles have been extended.
+59,575 (100.0%) of 59,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### Niroshan Dickwella’s ban reduced, eligible to play cricket again
+
+*2024-12-11 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104162/niroshan-dickwellas-ban-reduced-eligible-to-play-cricket-again-) · `en`
+
+Sri Lankan cricketer Niroshan Dickwella’s ban has been significantly reduced from three years to three months.
+
+Accordingly, this makes him eligible to play all forms of cricket effective from today.
+
+Attorney-at-Law Suminda Perera with Senior Attorney-at-Law Ranil Prematilake appeared for Niroshan Dickwella.
+
+◼️
+
+[Data](articles/96296e77.json)
+
+---
 
 ### Sivajilingam is allowed in intensive care unit
 
@@ -2343,31 +2359,5 @@ Commenting on this, Sri Lanka Book Publishers Association President Samantha
 [Data](articles/19044cf7.json)
 
 [Extended Data](ext_articles/19044cf7.ext.json)
-
----
-
-### Rice manufacturers must engage in sales activities in the Gazette - Ministry of Commerce and Commerce
-
-*2024-12-10 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200933) · `ta`
-
-Sri Lanka: Rice shortage addressed with Indian imports. Government plans to import 70,000 metric tons. 20,000 tons expected soon. Rice manufacturers must engage in sales activities as per Gazette notification.
-
-🟩
-
-The amount of rice imported from India will reach the country within two days. The Ministry of Commerce, Commerce, Food Security and Co -operative Development has stated that the rice market should be distributed to the market.
-
-Rice manufacturers must engage in sales activities in accordance with the gazette that has been released and released. Rice importers must also engage in distribution activities in accordance with this control price.
-
-Minister of Commerce, Commerce, Food Security and Co -operative Development Wasantha Samarasinghe said the amount of rice imported from India will reach the country within a few days.
-
-Essential food importers have said that a 10,000 metric ton of rice shipped from the port of Tuticorin, India, near the port of Colombo.
-
-As the government has decided to temporarily import 70 thousand metric tonnes of rice from India as a solution to the rice shortage in the market, it has also temporarily eliminated the definitions of rice imports.
-
-...
-
-[Data](articles/a9a3ae58.json)
-
-[Extended Data](ext_articles/a9a3ae58.ext.json)
 
 ---

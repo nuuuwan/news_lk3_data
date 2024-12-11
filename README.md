@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 03:26:28**
+As of **2024-12-12 02:03:15**
 
 ## Newspaper Stats
 
-*Scraped **59,690** Articles*
+*Scraped **59,689** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
-tamilmirrorlk | 8,520
+tamilmirrorlk | 8,519
 virakesarilk | 9,797
 adaderanasinhalalk | 10,321
 
@@ -26,37 +26,9 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,688 (100.0%) of 59,690 articles have been extended.
+59,677 (100.0%) of 59,689 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-12 (Thursday)
-
-### Rural Development Ministry Expenditure Title Discussion
-
-*2024-12-12 02:23:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராமிய-அபிவிருத்தி-அமைச்சின்-செலவுத்-தலைப்பு-கலந்துரையாடல்/175-348598) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet discusses 2025 budget under President Anura Kumara Dissanayake. Focus on Ministry of Rural Development's expenditure recommendations at Presidential Office meeting.
-
-🟩
-
-Preliminary discussions at the Cabinet level to prepare the budget for 2025 have been launched under the leadership of President Anura Kumara Dissanayake.
-
-As part of this, a discussion on budget recommendations on the expenditure headline of the Ministry of Rural Development, Social Security and Social Development was held yesterday (11) at the Presidential Office.
-
-Minister of Rural Development, Social Security and Social Reinforcement. (A)
-
-◼️
-
-[Data](articles/2d86334e.json)
-
-[Extended Data](ext_articles/2d86334e.ext.json)
-
----
 
 ### 2024-12-11 (Wednesday)
 
@@ -2603,5 +2575,27 @@ Minister Jayatissa was responding to a question on advertisements by vehicle imp
 [Data](articles/89215e4b.json)
 
 [Extended Data](ext_articles/89215e4b.ext.json)
+
+---
+
+### Obtaining support from the international community
+
+*2024-12-11 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200964) · `ta`
+
+Here's a 200-character summary:
+
+
+
+International aid boosts economy: US $450M for roads/transport; Japan offers $1.2B low-interest loans. Government seeks support due to past corruption and financial struggles.
+
+🟩
+
+The main compulsion of the government in the current moment is the lack of economic resources as a result of past corruption and inferiority. Under the Millenium Challenge Corporation, the United States has donated $ 450 million to improve the country's road and transport structure, and a low -interest railway system to reject Japan's $ 1.2 billion and loans at a lower interest rate to reject the previous government under President Gotabhaya Rajapakse.
+
+◼️
+
+[Data](articles/3792bafc.json)
+
+[Extended Data](ext_articles/3792bafc.ext.json)
 
 ---

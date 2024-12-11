@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 12:45:00**
+As of **2024-12-11 13:01:38**
 
 ## Newspaper Stats
 
-*Scraped **59,597** Articles*
+*Scraped **59,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,656
-adaderanalk | 7,255
+adalk | 5,657
+adaderanalk | 7,256
 tamilmirrorlk | 8,508
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,575 (100.0%) of 59,597 articles have been extended.
+59,575 (100.0%) of 59,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,24 @@ A foreigner who survived the accident is a 29 -year -old Romanian citizen and a 
 [Data](articles/e8abd87e.json)
 
 [Extended Data](ext_articles/e8abd87e.ext.json)
+
+---
+
+### Unidentified fever spreads in Jaffna
+
+*2024-12-11 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104161/unidentified-fever-spreads-in-jaffna) · `en`
+
+The Epidemiology Unit of the Ministry of Health says that an unidentified fever is spreading in the Jaffna District, raising concerns among health authorities.
+
+The health authorities have launched investigations to determine the nature of the disease, with preliminary tests underway to assess whether it is related to leptospirosis, commonly known as ‘rat fever’.
+
+Dr. Kumudu Weerakoon of the Epidemiology Unit addressed the issue at a media briefing held at the Health Promotion Bureau today (11). She explained that patients in the affected areas are presenting with fever and respiratory issues.
+
+Health officials are collecting samples from these individuals to confirm the exact cause of the illness, Dr. Weerakoon added.
+
+...
+
+[Data](articles/4d2e1621.json)
 
 ---
 
@@ -259,6 +277,22 @@ She pointed out that there could be symptoms of strict fever, severe muscles, ro
 ◼️
 
 [Data](articles/3792bafc.json)
+
+---
+
+### ශ්‍රී පාද වාරයේදි ප්ලාස්ටික් වතුර බෝතල් හා දුම්කොළ මිශ්‍ර සුරුට්ටු තහනම්
+
+*2024-12-11 11:15:28* · [`adalk`](https://www.ada.lk/religion/ශ්‍රී-පාද-වාරයේදි-ප්ලාස්ටික්-වතුර-බෝතල්-හා-දුම්කොළ-මිශ්‍ර-සුරුට්ටු-තහනම්/4-413575) · `si`
+
+උදුවප් පුන් පොහෝයෙන් ආරම්භ වන මෙවර ශ්‍රිපාද වන්දනා සමය තුළදි නල්ලතන්නිය සිට ශ්‍රිපාද උඩ මළුව දක්වා ප්ලාස්ටික් වතුර බෝතල් දුම්කොළ මිශ්‍ර සුරුට්ටු අලෙවි කිරිම හා රැගෙන යාම සපුරා තහනම් කිරිමට පියවර ගෙන ඇති බව නුවරඑළිය දිස්ත්‍රික් ලේකම් නන්දන ගලබඩ මහතා පවසයි.
+
+ශ්‍රිපාදස්ථානාධිපති ඌව විශ්වවිද්‍යාලයේ උප කුලපති සඹරගමුව හා රත්නපුර දිසා ප්‍රධාන සංඝනායක ත්‍රිපිටකාචාර්ය බෙන්ගමුවේ ධම්මදින්න නායක හිමියන්ගේ ප්‍රධානත්වයේ මෙවර ශ්‍රිපාද වන්දනාව පිලිබදව රාජ්‍ය ආයතන හා ස්වේච්චා සංවිධාන සමග පැවති සම්බන්ධිකරණ කමිටු රැස්විමකදි මෙම තිරණය ගත් බව නන්දන ගලබඩ මහතා පැවසිය.
+
+මේ පිලිබදව වැඩි දුරටත් අදහස් දැක්වු නන්දන ගලබඩ මහතා  හැටන් නල්ලතන්නිය මාර්ගයේ ශ්‍රිපාදය වන්දනා කිරිමට පැමිනෙන බැතිමතුන්ගේ පානිය ජල අවශ්‍යතාවයන් මේ වන විට සපුරා ඇති බැවින් ප්ලාස්ටික් ජල බෝතල රැගෙන යාමට අවශ්‍ය නොවන බවත් එම තත්වයන් මත ප්ලාස්ටික් ජල බෝතල රැගෙන යාම තහනම් කර ඇති බවත්ය.
+
+...
+
+[Data](articles/d43400c6.json)
 
 ---
 
@@ -2335,55 +2369,5 @@ As the government has decided to temporarily import 70 thousand metric tonnes of
 [Data](articles/a9a3ae58.json)
 
 [Extended Data](ext_articles/a9a3ae58.ext.json)
-
----
-
-### Don't bring polythene plastic at Sri Pada pilgrimage
-
-*2024-12-10 17:11:49* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවේදී-පොලිතීන්-ප්ලාස්ටික්-රැගෙන-එන්න-එපා/11-413564) · `si`
-
-Sri Pada pilgrimage: Avoid polythene plastic. CEA warns. Protect butterfly nature reserve. Collective responsibility. Garbage disposal centers set up.
-
-🟩
-
-The Central Environmental Authority calls for pilgrims to worship the Sri Pada, to avoid the pilgrimage to the Sri Pada.
-
-This year's Sri Pada pilgrimage will commence on the full moon day of December 14, 2024 and ends with the full moon day of Vesak in 2025. Generally, large numbers of devotees visit Sri Pada for the mercy of Sri Pada. Sri pattern is located on the butterfly nature reserve.
-
-The nature reserve has been identified as a very sensitive environmental zone in 2010, UNESCO. Sri Lanka dwells on this sanctuary endangered plant. The main rivers of Sri Lanka begins with the butterfly nature reserve.
-
-It is our duty and responsibility to preserve this sensitive environmental region. The exclusion of polythene plastic or garbage is damaged by the exclusive biodiversity of this sensible environmental region. Similarly, the water sources are contaminated. The waste is also discredited by water sources and to be unclean throughout the country, and eventually joins the ocean.
-
-...
-
-[Data](articles/55cf849c.json)
-
-[Extended Data](ext_articles/55cf849c.ext.json)
-
----
-
-### The government must build their confidence in its: the UN. Residency Fund Mark Andrew French
-
-*2024-12-10 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/200934) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-UN Resident Coordinator Mark Andrew French emphasizes strengthening rule of law & protecting human rights in Sri Lanka. He commends govt efforts but urges continued action to fulfill obligations & promote economic growth.
-
-🟩
-
-The United Nations Resident Mark Andrew French French, the United Nations, said that strengthening the rule of law in the country and ensuring that it was not worth it is not easy.
-
-A special event was organized by the Sri Lanka Human Rights Commission at the Bandaranaike Memorial International Conference Hall in Colombo to commemorate the introduction of the International Human Rights Day on Tuesday (10).. He said this while attending the event.
-
-The United Nations Residents, who expressed its appreciation for the re -acquisition of 'A' and the United Nations Colombo Branch Office in collaboration with the United Nations Colombo Branch Office, urged the United Nations to commemorate the creation of the International Human Rights Declaration.
-
-...
-
-[Data](articles/5334b6db.json)
-
-[Extended Data](ext_articles/5334b6db.ext.json)
 
 ---

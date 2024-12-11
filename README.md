@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 09:42:57**
+As of **2024-12-11 09:31:06**
 
 ## Newspaper Stats
 
-*Scraped **59,567** Articles*
+*Scraped **59,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,652
 adaderanalk | 7,248
-tamilmirrorlk | 8,499
+tamilmirrorlk | 8,498
 virakesarilk | 9,778
 adaderanasinhalalk | 10,294
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 10,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,548 (100.0%) of 59,567 articles have been extended.
+59,546 (100.0%) of 59,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
-
-### வைத்தியர்கள் ஓய்வுபெறும் வயதில் மாற்றம்?
-
-*2024-12-11 09:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்கள்-ஓய்வுபெறும்-வயதில்-மாற்றம்/175-348564) · `ta`
-
-வைத்தியர்கள் ஓய்வு பெறும் வயதை 63 ஆக நீட்டிக்க நடவடிக்கை எடுத்து வருவதாக பொது நிர்வாக அமைச்சு தெரிவித்துள்ளது.
-
-இது தொடர்பில் சட்டமா அதிபருக்கு பணிப்புரை கிடைத்துள்ளதாகவும் அது தொடர்பான நடவடிக்கைகள் அடுத்த வாரம் மேற்கொள்ளப்படும் எனவும் அமைச்சின் செயலாளர் அலோக பண்டார தெரிவித்துள்ளார்.
-
-வைத்தியர்களிடம் இருந்து பெறப்பட்ட கோரிக்கைகள் மற்றும் சேவை தேவைகளை கருத்திற்கொண்டு அரசாங்கம் இந்த தீர்மானத்தை எடுத்துள்ளதாகவும் செயலாளர் குறிப்பிட்டார். R
-
-◼️
-
-[Data](articles/19853dbc.json)
-
----
 
 ### 50 people trapped in selling rice at high prices
 
@@ -94,27 +78,21 @@ A central bank auction of Rs. 206,000 million Treasury bills was ongoing. It ann
 
 ---
 
-### Two foreigners fall into a stream at Ahungalla Sea
+### අහුංගල්ල මුහුදේ දී විදේශිකයින් දෙදෙනෙක් දිය වැලකට හසුවෙයි
 
 *2024-12-11 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204253) · `si`
 
-Two foreigners fell into a stream at Ahungalla Sea. A 29-year-old Romanian man and a 30-year-old Chinese woman were rescued by police officers on August 10th.
+අහුංගල්ල පොලිස් වසමේ මුහුදේ දිය නාමින් සිටි විදේශිය ජාතික පිරිමි පුද්ගලයෙකු හා කාන්තාවක් දිය වැලකට හසුව ගසාගෙන ගොස් තිබේ.
 
-🟩
+ඊයේ (10) දහවල් කාලයේ මෙම අනතුර සිදුව ඇති අතර, එම ස්ථානයේ රාජකාරී යෙදී සිටි පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් විදෙස් යුවළ බේරාගෙන කඩිනමින් ප්‍රතිකාර ලබාදී ඇත.
 
-Foreign national male and a woman were under the streams of the sea in the Ahungalla police division.
+අනතුරින් දිවි බේරාගත් විදෙස් තරුණයා අවුරුදු 29ක් වන රුමේනියානු ජාතිකයෙක් වන අතර, කාන්තාව අවුරුදු 30ක් වන චීන ජාතිකයෙකි.
 
-The accident had occurred yesterday (10), and the duties were given to the foreign couple expedited.
-
-The victim was a 29 year old Romanian, and the woman is a 30 year old Chinese.
-
-The survival of 29896 police protest to the Ahungalla police station, police constable, 19342 music and police constable, were rescue.
+අහුංගල්ල පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරනු ලබන පොලිස් ජීවිතාරක්ෂක ඒකකයේ පොලිස් කොස්තාපල් 29896 ලසන්න, පොලිස් කොස්තාපල් 19342 සංගීත හා පොලිස් කොස්තාපල් 103992 දුලංජය යන නිලධාරීන් විසින් මෙම දිවි බේරා ගැනීම සිදුකර ඇත.
 
 ◼️
 
 [Data](articles/8f3aa7e3.json)
-
-[Extended Data](ext_articles/8f3aa7e3.ext.json)
 
 ---
 
@@ -140,29 +118,17 @@ The development comes hours before the main liberal opposition Democratic Party 
 
 ---
 
-### In the event of filled with reservoirs, electricity has been obtained from private power plants
+### ජලාශ පිරී ඇති අවස්ථාවක පෞද්ගලික බලාගාරවලින් විදුලිය ලබා ගෙන ඇති බවට චෝදනා
 
 *2024-12-11 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204252) · `si`
 
-Here's a summary in 200 characters:
+ජල විදුලි බලාගාර ආශ්‍රිත ජලාශවල ජලය උපරිම මට්ටමින් පවතින අවස්ථාවක පෞද්ගලික තාප බලාගාරවලින් විදුලිය මිලදී ගැනීමක් සිදුව ඇති බව ලංකා විදුලි බලමණ්ඩලයේ තාක්ෂණික ඉංජිනේරු හා අධිකාරි සංගමය පවසයි.
 
+එම සංගමයේ උප සභාපති නන්දන උදයකුමාර මහතා සඳහන් කළේ, මෙවැනි කටයුතු සිදුවන්නේ කාගේ අවශ්‍යතාව මතද යන්න සොයා බැලීමක් කලයුතු බවය.
 
-
-Ceylon Electricity Board: Reservoirs full, hydroelectric power at max. Coal plant operates below capacity. Purchased electricity from private thermal plants due to insufficient hydro power generation.
-
-🟩
-
-The Ceylon Electricity Board of Engineering and Superintecess Association says that the water supply of electricity has been purchased at the maximum level of water in the reservoirs associates.
-
-The Association's Deputy Chairman Nandana Udayakumara said that such activities should be a search for whose requirements.
-
-"In the recent past, we have just got rain. The reservoir associates of our hydroelectric power plants was completely filled with. Also at the Norochcholai Power Plant has already taken a coal stock with coal. But last week's electricity board data has two-thirds of the Norochcholai coal power plant. One of those machines is operating at low capacity without running out of the maximum capacity. Accordingly, electricity has been purchased from private thermal power plants. When the hydro power plants can be implemented at the maximum capacity environment, whose knowledge could be implemented at the maximum capacity of the Norochcholai. "
-
-◼️
+...
 
 [Data](articles/20fcea44.json)
-
-[Extended Data](ext_articles/20fcea44.ext.json)
 
 ---
 
@@ -2413,5 +2379,27 @@ Investigations have proved to support a dilapidated and abuse of the abduction a
 [Data](articles/1aab831a.json)
 
 [Extended Data](ext_articles/1aab831a.ext.json)
+
+---
+
+### Faiszer Musthapha to be appointed NDF National List MP
+
+*2024-12-10 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104142/faiszer-musthapha-to-be-appointed-ndf-national-list-mp) · `en`
+
+The New Democratic Front (NDF) has informed the Election Commission that Faiszer Musthapha has been nominated to be appointed as a Member of Parliament through its National List, party sources said.
+
+President’s Counsel Faiszer Musthapha, a senior lawyer and politician, had previously served as the Minister of Sports and Provincial Councils and Local Government.
+
+According to the results of the 2024 General Election, the New Democratic Front, which contested under the symbol of the ‘Gas Cylinder’, won three parliamentary seats and two National List seats.
+
+The New Democratic Front was formed by the United National Party (UNP), the Sri Lanka Freedom Party (SLFP) and the ‘Podujana Eksath Nidahas Peramuna’ to contest the election.
+
+The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, under somewhat controversial circumstances.
+
+...
+
+[Data](articles/c3814e8b.json)
+
+[Extended Data](ext_articles/c3814e8b.ext.json)
 
 ---

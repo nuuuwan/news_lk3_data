@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 12:18:35**
+As of **2024-12-11 12:29:57**
 
 ## Newspaper Stats
 
-*Scraped **59,596** Articles*
+*Scraped **59,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,656
 adaderanalk | 7,255
-tamilmirrorlk | 8,507
+tamilmirrorlk | 8,508
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,569 (100.0%) of 59,596 articles have been extended.
+59,569 (100.0%) of 59,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### தீவிர சிகிச்சைப் பிரிவில் சிவாஜிலிங்கம் அனுமதி
+
+*2024-12-11 12:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீவிர-சிகிச்சைப்-பிரிவில்-சிவாஜிலிங்கம்-அனுமதி/175-348580) · `ta`
+
+சுகயீனம் காரணமாக முன்னாள் பாராளுமன்ற உறுப்பினர் எம். கே. சிவாஜிலிங்கம் கொழும்பில் உள்ள தனியார் வைத்தியசாலையில் தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டுள்ளதாக உறவினர்கள் தெரிவித்துள்ளனர்.
+
+தமிழ்த் தேசியக் கட்சியின் பொதுச்செயலாளரான சிவாஜிலிங்கம் கொழும்புக்கு மருத்துவ பரிசோனைக்காகச் சென்றிருந்த நிலையில் திடீரென உடல் நிலை பாதிப்புக்குள்ளானார்.
+
+இதனை அடுத்து கொழும்பில் அமைந்துள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்டு தீவிர சிகிச்சைப் பிரிவில் பிரிவில் சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/29224e1f.json)
+
+---
 
 ### முன்னாள் அமைச்சர் தற்கொலை முயற்சி
 
@@ -2327,35 +2343,5 @@ The United Nations Residents, who expressed its appreciation for the re -acquisi
 [Data](articles/5334b6db.json)
 
 [Extended Data](ext_articles/5334b6db.ext.json)
-
----
-
-### The promised school uniforms recover from China
-
-*2024-12-10 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204239) · `si`
-
-Sri Lanka receives school uniforms from China. PM Harandi Amarasuriya and Chinese Ambassador attend ceremony. 5.2 billion rupees worth of uniforms for 10,096 schools and 822 Pirivenas. Local fabric used since 2021 due to COVID-19 economic impact. China purchases 70% locally for 2023 uniforms.
-
-🟩
-
-School uniforms were officially given to Sri Lanka today (10).
-
-Prime Minister Harandi Amarasuriya, as well as Chinese Ambassador to the Ministry of Education, were also present.
-
-The Chinese Ambassador is awarded to Sri Lanka's school children for about Rs. 5.2 billion worth of cloths worth Rs. 5.2 billion.
-
-These uniforms will be provided with 10,096 schools and 822 approved Pirivenas.
-
-The uniformed cloth was continued by the Ministry of Education since 1992 and vouchers were provided to obtain school uniforms from 2015 to 2020.
-
-Uniforms for school children have been produced from local fabric manufacturers again since 2021.
-
-However, the economic situation faced by the COVID-19 epidemic, the People's Republic of China for 2023, the People's Republic purchased 70% of the uniform purposes from local.
-
-◼️
-
-[Data](articles/51c3eb05.json)
-
-[Extended Data](ext_articles/51c3eb05.ext.json)
 
 ---

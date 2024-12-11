@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 23:01:13**
+As of **2024-12-11 23:26:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,651 (99.9%) of 59,687 articles have been extended.
+59,655 (99.9%) of 59,687 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,8 @@ They were arrested under sections of Foreigners Act 1946 and Passport Act 1947.
 ◼️
 
 [Data](articles/3150e718.json)
+
+[Extended Data](ext_articles/3150e718.ext.json)
 
 ---
 
@@ -348,23 +350,35 @@ Dr. Satyamoorthy said the disease is usually suspected to be a leptospirosis, kn
 
 ---
 
-### බෝංචි, අමු මිරිස් හා මාළු මිරිස් කිලෝවක සිල්ලර මිල රු. 1000ක් දක්වා ඉහළට
+### Retail of a kilo of beans, green chillies and fish chillies is Rs. Up to 1000
 
 *2024-12-11 18:32:59* · [`adalk`](https://www.ada.lk/breaking_news/බෝංචි--අමු-මිරිස්-හා-මාළු-මිරිස්-කිලෝවක-සිල්ලර-මිල-රු--1000ක්-දක්වා-ඉහළට/11-413593) · `si`
 
-ඇතැම් ප්‍රදේශවල බෝංචි, අමු මිරිස් හා මාළු මිරිස් කිලෝවක සිල්ලර මිල රුපියල් නවසීයත් රුපියල් දහසත් අතර මිලක් ගෙන තිබේ.
+Here's a summary in 200 characters:
 
-ලොකු ලූනු කිලෝවක සිල්ලර මිල රුපියල් හාරසීය දක්වාත් බිත්තරයක මිල රුපියල් 44 දක්වාත් කුකුළු මස්( දවසේ) කිලෝවක මිල රුපියල් 1400 දක්වාත් ඉහළ ගොස් ඇත.
 
-කරවිල හා තුඹ කරවිල කිලෝවක සිල්ලර මිල  රුපියල් 600 දක්වා  ඉහළ ගොස් තිබෙන අතර  දඹල, මෑකරල්,වැටකොලු, නෝකෝල්, තක්කාලි, ලීක්ස්, වම්බටු හා බීට් කිලෝවක සිල්ලර මිල රුපියල් 400 ත් රුපියල් 450 ත් දක්වාත් ඉහළ ගොස් තිබේ.
 
-පතෝල, රාබු,  කැරට්,බණ්ඩක්කා හා වට්ටක්කා කිලෝවක සිල්ලර මිල රුපියල් 300 ත් රුපියල් 350 ත් අතර මිලක් දක්වා ඉහළ ගොස් ඇත.
+Food prices surge: Beans (Rs. 550/kg), onions (Rs. 44/kg), vegetables (Rs. 300-450/kg). Coconut oil (Rs. 200/liter) and red onions (Rs. 800/bottle) see significant increases.
 
-ආර්ථික මධ්‍යස්ථානය තුළදී ඊයේ බෝංචි කිලෝවක තොග මිල රුපියල් 550 ක් විය. අමුමිරිස් කිලෝවක තොග මිල රුපියල් 700 ක්,  මාළු මිරිස් කිලෝවක තොග මිල රුපියල් 800ක්, රතු ගෝවා කිලෝවක තොග මිල රුපියල් 550 ක් හා ලොකු ලූනු කිලෝවක තොග මිල රුපියල් 400 ක් ලෙස අලෙවි වී ඇත.
+🟩
 
-...
+In some areas, the retail price of a kilo of beans, green chillies and fish prices have been purchased between Rs.
+
+The retail price of a kilogram of big onions has increased to Rs. 44 per Rs. 44 to Rs.
+
+The retail price of a kilogram of kilogram of kilowala and fences, Markalal, fence, tomatoes, tomatoes, leeks, leeks, leeks, leeks, leeks, leeks, and beets have risen to Rs. 400 and Rs. 450.
+
+Retail price of prices and a kilo of kilograms of buil, radish, carrots, okra, and pumpkin have risen to Rs. 300 and Rs. 350.
+
+At the economic center, the bulk of beans were Rs. 550. Amairis, a kilo of stock of Rs.
+
+In addition, a coconut oil in some areas have risen to Rs. 200 million and a bottle of red onion has risen to Rs. 800 compared to Rs.
+
+◼️
 
 [Data](articles/f1849091.json)
+
+[Extended Data](ext_articles/f1849091.ext.json)
 
 ---
 
@@ -1496,27 +1510,37 @@ Meanwhile, a suspect in possession of two ice drugs and 100 milligrams have been
 
 ---
 
-### යාපනයේ හඳුනානොගත් උණ රෝගයෙන් මිය ගිය පිරිස ඉහළට
+### Death from unidentified fever in Jaffna
 
 *2024-12-11 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204270) · `si`
 
-යාපනය ප්‍රදේශයේ හඳුනානොගත් උණ රෝගයෙන් මියගොස් ඇති පිරිස ඉහළ ගොස් තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව මේ වන විට මියගොස් ඇති සංඛ්‍යාව 5ක් දක්වා ඉහළ ගොස් ඇතැයි යාපනය රෝහල් අධ්‍යක්ෂ වෛද්‍ය ටි.සත්‍යමූර්ති මහතා පැවසීය.
 
-ඊයේ (10) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පැවසුවේ උණ සහ ශ්වසන අපහසුතා හේතුවෙන් මෙම රෝගීන් පිරිස ජීවිතක්ෂයට පත්වූ බවය.
 
-රෝහල් අධ්‍යක්ෂවරයා පැවසුවේ අදාළ රෝගය මී උණ බවට සැක කරන නමුත් ඒ සම්බන්ධව අවසන් නිගමනයන් සඳහා අදාළ රෝගීන්ගේ රුධිර සාම්පල කොළඹට යවා ඇතැයි බවය.
+"Jaffna: 5 deaths reported due to unidentified fever. Hospital director suspects rat fever but awaiting confirmation from Colombo. Investigations ongoing."
 
-මින් පෙර මෙම උණ රෝගයෙන් පුද්ගලයින් 3 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබුණි.
+🟩
 
-මේ අතර අද සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවැති මාධ්‍ය හමුවේද මේ සම්බන්ධව කරුණු අනාවරණය විය.
+The deceased has been identified in Jaffna.
 
-එම මාධ්‍ය හමුවට එක්වූ වසංගත රෝග විද්‍යා අංශයේ වෛද්‍ය කුමුදු වීරකෝන් මහත්මිය පැවසුවේ මෙම රෝගී තත්ත්වය මී උණ රෝගී තත්ත්වයද යන්න සම්බන්ධව පරීක්ෂණ පැවැත්වෙනු ඇති බවය.
+Accordingly, the number of dead has risen to 5, the Director of Jaffna Dr. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. TellMoThiri.
+
+Addressing a media briefing held yesterday (10), he said that the patients were killed due to fever and respiratory discomfort.
+
+The hospital director said that the disease was suspected to be rat fever, but that the conclusions had been sent to Colombo to Colombo.
+
+Three people were killed in this fever due to this fever.
+
+Meanwhile, the matter was revealed in the press conference held at the Health Promotion Bureau today.
+
+The Epidemiology Unit of the Epidemiology Unit said that investigations will be conducted in connection with the condition of the disease as a fever.
 
 ◼️
 
 [Data](articles/a4732a32.json)
+
+[Extended Data](ext_articles/a4732a32.ext.json)
 
 ---
 
@@ -1603,6 +1627,8 @@ In November last year, the US International Development Finance Corporation (US 
 ...
 
 [Data](articles/1fcba79f.json)
+
+[Extended Data](ext_articles/1fcba79f.ext.json)
 
 ---
 

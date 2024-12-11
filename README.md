@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 05:01:22**
+As of **2024-12-12 05:12:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,690 (100.0%) of 59,696 articles have been extended.
+59,691 (100.0%) of 59,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Addressing the gathering, Herath accused the NPP Government of mishandling gover
 ...
 
 [Data](articles/03edd68f.json)
+
+[Extended Data](ext_articles/03edd68f.ext.json)
 
 ---
 

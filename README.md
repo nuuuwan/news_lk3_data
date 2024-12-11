@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 13:26:33**
+As of **2024-12-11 13:43:41**
 
 ## Newspaper Stats
 
-*Scraped **59,600** Articles*
+*Scraped **59,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,657
-adaderanalk | 7,257
+adaderanalk | 7,258
 tamilmirrorlk | 8,508
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
@@ -26,23 +26,47 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,575 (100.0%) of 59,600 articles have been extended.
+59,575 (100.0%) of 59,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
+### Tensions within NDF over National List MP appointment
+
+*2024-12-11 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104163/tensions-within-ndf-over-national-list-mp-appointment-) · `en`
+
+Another dispute has emerged within the New Democratic Front (NDF) concerning the nomination of Faiszer Musthapha for a National List MP position with the coalition partners alleging that this decision has been made without consulting them.
+
+When inquired by Ada Derana, former Parliamentarian Ramesh Pathirana stated that there was unanimous agreement to appoint former Minister Kanchana Wijesekera to the remaining National List MP position.
+
+However, the Sri Lanka Freedom Party (SLFP), a key partner in the NDF, had proposed Faiszer Musthapha’s name for the position.
+
+The NDF, which contested under the ‘gas cylinder’ symbol in the 2024 general elections, secured two National List seats.
+
+The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, also under somewhat controversial circumstances.
+
+...
+
+[Data](articles/d087f479.json)
+
+---
+
 ### Niroshan Dickwella’s ban reduced, eligible to play cricket again
 
 *2024-12-11 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104162/niroshan-dickwellas-ban-reduced-eligible-to-play-cricket-again-) · `en`
 
-Sri Lankan cricketer Niroshan Dickwella’s ban has been significantly reduced from three years to three months.
+Sri Lankan cricketer Niroshan Dickwella’s ban from playing any form of cricket has been significantly reduced from three years to three months.
 
-Accordingly, this makes him eligible to play all forms of cricket effective from today.
+Accordingly, this makes him eligible to play all forms of cricket effective from today (11).
 
-Attorney-at-Law Suminda Perera with Senior Attorney-at-Law Ranil Prematilake appeared for Niroshan Dickwella.
+After the consideration of an appeal made by Dickwella, the appeal panel has declared that as per the medical evidence it is clearly established that the player has consumed a substance of abuse out-of-competition and that it is unrelated to sports performance.
 
-◼️
+Accordingly, the panel has stated that therefore, they are of the view that the player Niroshan Dickwella’s 3 years ineligibility period imposed by the disciplinary panel, should be reduced to 3 months ineligibility period, commencing from 13 August 2024.
+
+Furthermore, the panel has mentioned that this decision balances the player’s right to fair consideration with the principles of anti-doping, ensuring fairness while maintaining the integrity of sport.
+
+...
 
 [Data](articles/96296e77.json)
 
@@ -2329,35 +2353,5 @@ However, the importation of vehicle imports is granted in definitions. The Minis
 [Data](articles/2e13d77b.json)
 
 [Extended Data](ext_articles/2e13d77b.ext.json)
-
----
-
-### Emphasize the removal of 18 percent value added tax imposed on the book industry in Sri Lanka!
-
-*2024-12-10 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/200932) · `ta`
-
-Here's a summary of 200 characters emphasizing the removal of the 18% VAT on the book industry in Sri Lanka:
-
-
-
-Remove 18% VAT on books: Associations urge govt action. Industry faces 33.04% total tax burden. Higher prices reduce sales 30%. Small publishers struggle. Government should act to support literacy and publishing sector.
-
-🟩
-
-The Sri Lanka Biblical Publications Association, the Sri Lanka Book Import and Exports Association, the All Ceylon Writers Association, the Government of Sri Lanka should pay its attention to the immediate removal of the 18 per cent value added tax (tax) imposed on the book industry in Sri Lanka.All four associations jointly emphasize the government.
-
-It pointed out that these associations have proposed a proposal to the newly -ruled government on this issue and that the book is levied only in Sri Lanka in Sri Lanka only in Sri Lanka and that the bouquet rate is charged in other SAARC countries.
-
-In addition, it was emphasized that the government's need to consider the financial and social changes caused by taxation on the capital of knowledge and learning.
-
-The above was stated during a media briefing at the Sri Sampudva Jayanthi Center auditorium in Colombo.
-
-Commenting on this, Sri Lanka Book Publishers Association President Samantha
-
-...
-
-[Data](articles/19044cf7.json)
-
-[Extended Data](ext_articles/19044cf7.ext.json)
 
 ---

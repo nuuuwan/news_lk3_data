@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 15:42:59**
+As of **2024-12-11 16:28:15**
 
 ## Newspaper Stats
 
-*Scraped **59,617** Articles*
+*Scraped **59,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,595
 economynextcom | 3,627
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,660
+adalk | 5,661
 adaderanalk | 7,261
 tamilmirrorlk | 8,512
 virakesarilk | 9,781
@@ -26,25 +26,61 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,588 (100.0%) of 59,617 articles have been extended.
+59,595 (100.0%) of 59,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### கொழும்பு துறைமுக திட்டம்: அமெரிக்க நிதியுதவியை  ஏற்க அதானி  மறுப்பு
+### If this is gone, it will not be milk in January first
+
+*2024-12-11 15:34:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙහෙම-ගියොත්-ජනවාරි-පළමුවැනිදාට-කිරිබත්-කන්න-වෙන්නේ-නෑ/11-413580) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka: Rice shortage looms due to price controls. Government intervention needed to prevent food scarcity in January 2024.
+
+🟩
+
+National Customer Front Leader Asela Sampath said that the poor people will lose a place to eat some rice to eat on the first day of January next year.
+
+Mr. Asela said that the rice mafia was more intensified through the government's rice gazette.
+
+"Today we have no rice to buy control of our villages. Control prices escape and sells rice in the villages of villages. Those people have nothing to do. The prices they receive will be sold in the villagers in the villagers. Today, where is 230 rupees.
+
+Oh we don't have the names of our villages. There is a very stronghold of the innocent village shops to sell rice at control price. This round should have a proper structure. If the government does not intervene to control the price of rice, we will not be able to eat the first month of January this year. "
+
+◼️
+
+[Data](articles/d420a12c.json)
+
+[Extended Data](ext_articles/d420a12c.ext.json)
+
+---
+
+### Colombo Port Project: Adani refuses to accept US funding
 
 *2024-12-11 15:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-துறைமுக-திட்டம்-அமெரிக்க-நிதியுதவியை-ஏற்க-அதானி-மறுப்பு/175-348585) · `ta`
 
-இலங்கையின் கொழும்பு துறைமுகத்தில் புதிய முனையம் அமைத்து வரும் அதானி நிறுவனத்துக்கு அமெரிக்க நிறுவனம் நிதி உதவி அளிக்க ஒப்புக்கொண்டிருந்த நிலையில் அந்த நிதியுதவி தேவையில்லை என அதானி நிறுவனம் தெரிவித்துள்ளது.
+Adani rejects US funding for Colombo Port project due to compliance issues and bribery allegations.
 
-கொழும்பு துறைகத்தில், கொழும்பு மேற்கு சர்வதேச முனையம் (CWIT) எனப்படும் ஆழ்கடல் கொள்கலன் முனையத்தின் வளர்ச்சி, கட்டுமானம் மற்றும் இயக்கத்துக்கான பணிகள் மேற்கொள்ளப்பட்டு வருகின்றன. அதானி போர்ட்ஸ், இலங்கை கூட்டு நிறுவனமான ஜோன் கீல்ஸ் ஹோல்டிங்ஸ் பிஎல்சி மற்றும் இலங்கை துறைமுக அதிகாரசபை (SLPA) ஆகியவற்றின் கூட்டமைப்பினால் CWIT உருவாக்கப்பட்டு வருகிறது.
+🟩
 
-இத்திட்டத்துக்கு அமெரிக்காவின் இன்டர்நேஷனல் டெவலப்மென்ட் ஃபைனான்ஸ் கார்ப்பரேஷன் (US IDFC) 553 மில்லியன் டொலர் கடன் உதவி வழங்க கடந்த ஆண்டு நவம்பரில் ஒப்புக்கொண்டது. இந்நிலையில், அமெரிக்க நிறுவனத்துடனான கடன் ஒப்பந்தத்தில் இருந்து அதானி குழுமம் வெளியேறியுள்ளது.
+Adani has said that the US company has agreed to provide financial assistance to Adani, which is setting up a new terminal at the port of Colombo, Sri Lanka.
+
+In the Colombo sector, the development, construction and movement of the deep sea container terminal known as the Colombo West International Terminal (CWIT). The CWIT is being formed by the Federation of Adani Ports, Sri Lankan joint venture, John Keells Holdings PLC and the Sri Lanka Port Authority (SLPA).
+
+In November last year, the US International Development Finance Corporation (US IDFC) agreed to provide $ 553 million loan assistance to the project.. In this case, the Adani Group has left the loan agreement with the US company.
+
+“The project will be funded by the company's internal fundraising and capital management plan. We have withdrawn our request for funding from the International Development Finance Corporation. ”Has been reported.
 
 ...
 
 [Data](articles/3ba58261.json)
+
+[Extended Data](ext_articles/3ba58261.ext.json)
 
 ---
 
@@ -90,19 +126,31 @@ On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tar
 
 [Data](articles/433db035.json)
 
+[Extended Data](ext_articles/433db035.ext.json)
+
 ---
 
-### යාපනය දිස්ත්‍රික්කයේ හඳුනා නොගත් උණ රෝගී තත්ත්වයක්
+### Unidentified fever in Jaffna district
 
 *2024-12-11 14:30:50* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රික්කයේ-හඳුනා-නොගත්-උණ-රෝගී-තත්ත්වයක්/11-413579) · `si`
 
-යාපනය දිස්ත්‍රික්කයේ හඳුනා නොගත් උණ රෝගී තත්ත්වයක් පැතිර යන බව වසංගත රෝග විද්‍යා අංශයේ වෛද්‍ය කුමුදු වීරකෝන් මහත්මිය පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-කොළඹ අද (11දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඇය මේ බව සඳහන් කළාය.
+
+
+"Undetected fever spreads in Jaffna: Dr. Kumhu Weerakoon reports at Colombo press conference."
+
+🟩
+
+Ms. Dr. Kumhu Weerakoon said that a non-detected fever is spreading in Jaffna District.
+
+She was speaking at a media briefing held in Colombo today (11).
 
 ◼️
 
 [Data](articles/5c5d3256.json)
+
+[Extended Data](ext_articles/5c5d3256.ext.json)
 
 ---
 
@@ -218,21 +266,27 @@ Countries experience foreign exchange shortages when reserve collecting central 
 
 ---
 
-### LANKA T10 තරගාවලිය අදින් ඇර​​​​ඹේ - අද දිනයේ තරග තුනක්
+### Lanka T10 tournament is open today
 
 *2024-12-11 13:44:27* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-තරගාවලිය-අදින්-ඇර​​​​ඹේ---අද-දිනයේ-තරග-තුනක්/9-413578) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පළමුවරට සංවිධානය කරනු ලබන LANKA T10 තරගාවලිය අදි (11දා) ආරම්භ වේ.
+Lanka T10: SLC's inaugural tournament begins today. Hambantota Bangla Tigers face off at 4pm. Nuwara Eliya Kings vs Colombo Jaguers at undisclosed time. Opening ceremony starts at 2:45pm.
 
-ඒ අනුව පළමු තරගය ලෙස ජැෆ්නා ටයිටන්ස් කණ්ඩායම සහ හම්බන්තොට බංග්ලා ටයිගර්ස් කණ්ඩායම තරග වැදීමට නියමිත අතර, එම තරගය පස්වරු 4ට ආරම්භ වීමට නියමිතව ඇත.
+🟩
 
-දෙවැනි තරගය අද නුවරඑළිය කිංග්ස් කණ්ඩායම සහ කලම්බෝ ජගුවර්ස් කණ්ඩායම අතර පස්වරු 6.15ටත්, තෙවැනි තරගය කැන්ඩි බෝල්ට් කණ්ඩායම සහ ගෝල් මාර්වල්ස් කණ්ඩායම අතර තරගය පස්වරු 08.30ටත් ආරම්භ කිරීමට කටයුතු යොදා තිබේ.
+Sri Lanka Cricket (SLC) is the first time Lanka T10 tournament.
 
-මේ අතර, LANKA T10 තරගාවලියේ සමාරම්භක උත්සවය අද පස්වරු 2.45ට ආරම්භ කිරීමට නියමිතව ඇත.
+Accordingly, the first match is the first match and the Hambantota Bangla Taigers are scheduled to contest at 4 pm.
+
+The second match will be held at the Nuwara Eliya Kings and Colombo Jaguers, between the Colombo Kings and Colombo Junners.
+
+The opening ceremony of the Lanka T10 is scheduled to commence at 2.45 pm today.
 
 ◼️
 
 [Data](articles/f50d5296.json)
+
+[Extended Data](ext_articles/f50d5296.ext.json)
 
 ---
 
@@ -295,6 +349,8 @@ The facility will finance post-completion activities of ADB-financed projects, f
 ...
 
 [Data](articles/e5bf2d0d.json)
+
+[Extended Data](ext_articles/e5bf2d0d.ext.json)
 
 ---
 
@@ -645,6 +701,8 @@ Minister Jayatissa was responding to a question on advertisements by vehicle imp
 ...
 
 [Data](articles/89215e4b.json)
+
+[Extended Data](ext_articles/89215e4b.ext.json)
 
 ---
 
@@ -2273,35 +2331,5 @@ The health sector points out that 5,759 patients have been reported from the Kal
 [Data](articles/7518a3ee.json)
 
 [Extended Data](ext_articles/7518a3ee.ext.json)
-
----
-
-### The government has a responsibility to solve the shortage of rice - United Rice Manufacturers Association
-
-*2024-12-10 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/200920) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-United Rice Manufacturers Association calls for cancellation of rice price control. They demand the government solve the shortage by allowing manufacturers to set prices. Current controls are seen as ineffective and potentially harmful to businesses.
-
-🟩
-
-The Gazette Notification issued on the Control Price for Rice should be canceled and the rice manufacturers must set the total price and re -publish the Gazette Notification again.. Otherwise, the President of the United Rice Manufacturers Association, Muditha Perera, said.
-
-He made this statement during a media briefing held at the United Rice Manufacturers Association's office in Colombo on Tuesday (10).
-
-The government has a responsibility to solve the rice shortage in the market. The total and retail price of the rice is fixed and the gazette notification is published. Total and retail pricing is problematic.
-
-It is noteworthy that a few state officials are acting in a way that the President has paid attention to the problems.. Therefore, the President should be concerned about this.
-
-The current published gazette is found to be cigarette. 225 rupees to buy rice for a total price and sell them for 225 rupees. Total traders will be able to quit business activities by this resolution.
-
-...
-
-[Data](articles/bb33518d.json)
-
-[Extended Data](ext_articles/bb33518d.ext.json)
 
 ---

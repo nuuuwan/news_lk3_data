@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 09:31:06**
+As of **2024-12-11 10:43:01**
 
 ## Newspaper Stats
 
-*Scraped **59,566** Articles*
+*Scraped **59,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,652
-adaderanalk | 7,248
-tamilmirrorlk | 8,498
+adalk | 5,653
+adaderanalk | 7,252
+tamilmirrorlk | 8,500
 virakesarilk | 9,778
 adaderanasinhalalk | 10,294
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 10,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,546 (100.0%) of 59,566 articles have been extended.
+59,557 (100.0%) of 59,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### ”சபாநாயகர் உடனடியாக இராஜினாமா செய்ய வேண்டும்”
+
+*2024-12-11 10:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-உடனடியாக-இராஜினாமா-செய்ய-வேண்டும்/175-348566) · `ta`
+
+சபாநாயகர் அசோக ரன்வல ஜப்பானில் உள்ள வசேடா பல்கலைக்கழகத்தில் ஒருபோதும் அதன் மாணவராக இருந்ததில்லை என உறுதிப்படுத்தப்பட்டதாகக் கூறிய ஐக்கிய தேசியக் கட்சி, போலி முனைவர் பட்டம் என்பது ஆசியாவிலேயே மிகப் பழமையான பாராளுமன்றத்தையும் இந்த ஒட்டுமொத்த தேசத்தையும் அவமதிக்கும் செயலாகும் என்று தெரிவித்துள்ளது.
+
+“இலங்கையின் பாராளுமன்றம் ஆசியாவிலேயே முதன்மையானது மற்றும் முழு உலகமும் அதில் என்ன நடக்கிறது என்பதை உன்னிப்பாக அவதானித்து வருகிறது. எனவே இலங்கை சபாநாயகர் தமக்கு கலாநிதி பட்டம் இருப்பதாக பொய்யாக கூறுவது நாட்டை அவமதிக்கும் செயலாகும்.
+
+அதன் பிரகாரம் அவர் உடனடியாக தனது பதவியை இராஜினாமா செய்ய வேண்டும் என முன்னாள் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள கட்சியின் சார்பில் அவசரமாக நடாத்தப்பட்ட ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+கம்பஹா மாவட்டத்தில் தேர்தலின் போது NPP யினால் அச்சிடப்பட்டு விநியோகிக்கப்பட்ட தேர்தல் துண்டுப் பிரசுரங்கள் சபாநாயகர் ஜப்பான் வசேடா பல்கலைக்கழகத்தில் முதுகலைப் படிப்பைப் பின்பற்றியதாக கூறியுள்ளதாக திருமதி அத்துகோரள தெரிவித்தார்.
+
+...
+
+[Data](articles/4dcfd61e.json)
+
+---
+
+### Change at the age of doctors to retire?
+
+*2024-12-11 09:33:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்கள்-ஓய்வுபெறும்-வயதில்-மாற்றம்/175-348564) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka: Ministry extends doctor retirement age to 63. Decision made after considering doctor demands and service needs. Attorney General received directive; action next week.
+
+🟩
+
+The Ministry of Public Administration has said that steps are being taken to extend the retirement age to 63.
+
+The Secretary to the Ministry Aloha Bandara said that the Attorney General has received a directive in this regard and the relevant action will be taken next week.
+
+The Secretary said that the government had taken the decision to consider the demands and service requirements received from the doctors.. Remble
+
+◼️
+
+[Data](articles/19853dbc.json)
+
+[Extended Data](ext_articles/19853dbc.ext.json)
+
+---
+
+### Insurance regulation in Sri Lanka ‘developing with limited transparency’: Fitch Ratings
+
+*2024-12-11 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104157/insurance-regulation-in-sri-lanka-developing-with-limited-transparency-fitch-ratings) · `en`
+
+Sri Lanka’s regulatory environment for the insurance sector is regarded as “developing with limited transparency,” according to Fitch Ratings.
+
+In a report, Fitch cited the Insurance Regulatory Commission of Sri Lanka which oversees domestic insurers.
+
+It introduced a risk-based capital (RBC) regime in 2015, which was fully adopted by insurers in 2016. The regime required insurers to maintain a minimum RBC ratio of 120%, and those with a ratio below 160% are required to submit a plan to improve their capitalisation levels.
+
+The commission also enforces the segregation of life and non-life insurance businesses and requires all insurers to list on the local stock exchange to enhance transparency. However, exemptions are provided to insurers whose parent companies are listed on a recognised stock exchange.
+
+...
+
+[Data](articles/68f2084b.json)
+
+[Extended Data](ext_articles/68f2084b.ext.json)
+
+---
+
+### Israel targets Syria: 480 strikes in 48 hours after Assad’s ouster
+
+*2024-12-11 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104156/israel-targets-syria-480-strikes-in-48-hours-after-assads-ouster) · `en`
+
+The Israeli military announced on Tuesday that it conducted approximately 480 airstrikes over the past 48 hours, targeting key military installations across Syria. This escalation comes days after the removal of President Bashar al-Assad from power.
+
+“Within the last 48 hours, the IDF (Israel Defense Forces) struck most of the strategic weapons stockpiles in Syria, preventing them from falling into the hands of terrorist elements,” the Israeli military said.
+
+The strikes reportedly destroyed naval vessels, anti-aircraft systems, and weapons production sites across major cities, including Damascus, Homs, Tartus, Latakia, and Palmyra.
+
+...
+
+[Data](articles/6376f31a.json)
+
+[Extended Data](ext_articles/6376f31a.ext.json)
+
+---
 
 ### 50 people trapped in selling rice at high prices
 
@@ -56,6 +138,24 @@ Its Director Asela Bandara said that the arrest of those who sell rice beyond th
 
 ---
 
+### CEB purchased thermal power despite surplus hydro and coal reserves?
+
+*2024-12-11 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104155/ceb-purchased-thermal-power-despite-surplus-hydro-and-coal-reserves) · `en`
+
+The Technical Engineers and Supervisors Association of the Ceylon Electricity Board (CEB) allege that the state-owned electricity provider has procured electricity from private thermal power plants, even as reservoir levels associated with hydro-power plants are at their maximum as a result of recent heavy rainfall.
+
+Speaking on the matter, the association’s Vice President, Nandana Udayakumara, called for an investigation into the decision, questioning whose interests are being served by such actions.
+
+“We have had significant rainfall recently, sufficient to fill the reservoirs powering our hydro-power plants. Additionally, the Norochcholai coal power plant currently has sufficient coal stocks to operate at full capacity,” Udayakumara said.
+
+...
+
+[Data](articles/69c3e4ec.json)
+
+[Extended Data](ext_articles/69c3e4ec.ext.json)
+
+---
+
 ### Sri Lanka rupee opens stronger at 290.25/30 to dollar, bonds steady
 
 *2024-12-11 09:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-25-30-to-dollar-bonds-steady-193438/) · `en`
@@ -68,7 +168,11 @@ A bond maturing on 15.02.2028 was quoted at 10.35/45 percent.
 
 A bond maturing on 15.09.2029 was quoted at 10.85/92 percent, from 10.80/95 percent.
 
-A central bank auction of Rs. 206,000 million Treasury bills was ongoing. It announced an auction of 132,500 million Treasury Bonds to be held on Thursday. (Colombo/Dec11/2024)
+A central bank auction of Rs. 206,000 million Treasury bills was ongoing. An auction of 132,500 million Treasury Bonds is to be held on Thursday.
+
+In equities, the All Share Price Index was up 0.28 percent or 39.19 points, at 13,814.
+
+The more liquid S&P SL20 was up 0.43 percent, or 17.65 points, at 4,131.
 
 ◼️
 
@@ -78,21 +182,51 @@ A central bank auction of Rs. 206,000 million Treasury bills was ongoing. It ann
 
 ---
 
-### අහුංගල්ල මුහුදේ දී විදේශිකයින් දෙදෙනෙක් දිය වැලකට හසුවෙයි
+### Two foreigners fall into a stream at Ahungalla Sea
 
 *2024-12-11 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204253) · `si`
 
-අහුංගල්ල පොලිස් වසමේ මුහුදේ දිය නාමින් සිටි විදේශිය ජාතික පිරිමි පුද්ගලයෙකු හා කාන්තාවක් දිය වැලකට හසුව ගසාගෙන ගොස් තිබේ.
+Two foreigners fell into a stream at Ahungalla Sea. A 29-year-old Romanian man and a 30-year-old Chinese woman were rescued by police officers on August 10th.
 
-ඊයේ (10) දහවල් කාලයේ මෙම අනතුර සිදුව ඇති අතර, එම ස්ථානයේ රාජකාරී යෙදී සිටි පොලිස් ජීවිතාරක්ෂක නිලධාරීන් විසින් විදෙස් යුවළ බේරාගෙන කඩිනමින් ප්‍රතිකාර ලබාදී ඇත.
+🟩
 
-අනතුරින් දිවි බේරාගත් විදෙස් තරුණයා අවුරුදු 29ක් වන රුමේනියානු ජාතිකයෙක් වන අතර, කාන්තාව අවුරුදු 30ක් වන චීන ජාතිකයෙකි.
+Foreign national male and a woman were under the streams of the sea in the Ahungalla police division.
 
-අහුංගල්ල පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරනු ලබන පොලිස් ජීවිතාරක්ෂක ඒකකයේ පොලිස් කොස්තාපල් 29896 ලසන්න, පොලිස් කොස්තාපල් 19342 සංගීත හා පොලිස් කොස්තාපල් 103992 දුලංජය යන නිලධාරීන් විසින් මෙම දිවි බේරා ගැනීම සිදුකර ඇත.
+The accident had occurred yesterday (10), and the duties were given to the foreign couple expedited.
+
+The victim was a 29 year old Romanian, and the woman is a 30 year old Chinese.
+
+The survival of 29896 police protest to the Ahungalla police station, police constable, 19342 music and police constable, were rescue.
 
 ◼️
 
 [Data](articles/8f3aa7e3.json)
+
+[Extended Data](ext_articles/8f3aa7e3.ext.json)
+
+---
+
+### Adani Ports withdraws DFC funding request for Colombo port project
+
+*2024-12-11 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104154/adani-ports-withdraws-dfc-funding-request-for-colombo-port-project) · `en`
+
+India’s Adani Ports and Special Economic Zone Ltd said on Tuesday it would finance its Colombo port terminal project through internal accruals and a capital management plan, withdrawing its request for funding from the US International Development Finance Corp (DFC).
+
+DFC last year said it would provide $553 million in financing for the port terminal project, which is partly owned by the Adani Group.
+
+The company, however, said the Colombo West International Terminal project is progressing well and is on track for commissioning by early 2025.
+
+DFC did not immediately respond to a Reuters request for comment.
+
+Ports-to-edible oils Adani Group, controlled by Indian billionaire Gautam Adani, holds a 51% stake in the west container terminal of the port, which also has a terminal run by China Merchants Port Holdings Co Ltd.
+
+Sri Lankan conglomerate John Keells Holdings owns 34% of the terminal and the rest is held by the state-run Sri Lanka Ports Authority.
+
+...
+
+[Data](articles/7745a31d.json)
+
+[Extended Data](ext_articles/7745a31d.ext.json)
 
 ---
 
@@ -118,17 +252,29 @@ The development comes hours before the main liberal opposition Democratic Party 
 
 ---
 
-### ජලාශ පිරී ඇති අවස්ථාවක පෞද්ගලික බලාගාරවලින් විදුලිය ලබා ගෙන ඇති බවට චෝදනා
+### In the event of filled with reservoirs, electricity has been obtained from private power plants
 
 *2024-12-11 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204252) · `si`
 
-ජල විදුලි බලාගාර ආශ්‍රිත ජලාශවල ජලය උපරිම මට්ටමින් පවතින අවස්ථාවක පෞද්ගලික තාප බලාගාරවලින් විදුලිය මිලදී ගැනීමක් සිදුව ඇති බව ලංකා විදුලි බලමණ්ඩලයේ තාක්ෂණික ඉංජිනේරු හා අධිකාරි සංගමය පවසයි.
+Here's a summary in 200 characters:
 
-එම සංගමයේ උප සභාපති නන්දන උදයකුමාර මහතා සඳහන් කළේ, මෙවැනි කටයුතු සිදුවන්නේ කාගේ අවශ්‍යතාව මතද යන්න සොයා බැලීමක් කලයුතු බවය.
 
-...
+
+Ceylon Electricity Board: Reservoirs full, hydroelectric power at max. Coal plant operates below capacity. Purchased electricity from private thermal plants due to insufficient hydro power generation.
+
+🟩
+
+The Ceylon Electricity Board of Engineering and Superintecess Association says that the water supply of electricity has been purchased at the maximum level of water in the reservoirs associates.
+
+The Association's Deputy Chairman Nandana Udayakumara said that such activities should be a search for whose requirements.
+
+"In the recent past, we have just got rain. The reservoir associates of our hydroelectric power plants was completely filled with. Also at the Norochcholai Power Plant has already taken a coal stock with coal. But last week's electricity board data has two-thirds of the Norochcholai coal power plant. One of those machines is operating at low capacity without running out of the maximum capacity. Accordingly, electricity has been purchased from private thermal power plants. When the hydro power plants can be implemented at the maximum capacity environment, whose knowledge could be implemented at the maximum capacity of the Norochcholai. "
+
+◼️
 
 [Data](articles/20fcea44.json)
+
+[Extended Data](ext_articles/20fcea44.ext.json)
 
 ---
 
@@ -432,6 +578,8 @@ On page 105 of the ‘Prosperous Country, Beautiful Life’ policy document, the
 
 [Data](articles/e373fdfb.json)
 
+[Extended Data](ext_articles/e373fdfb.ext.json)
+
 ---
 
 ### Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
@@ -452,6 +600,8 @@ This initiative is the latest milestone in Lion Brewery’s continuous journey i
 
 [Data](articles/15cfb51b.json)
 
+[Extended Data](ext_articles/15cfb51b.ext.json)
+
 ---
 
 ### Sri Lanka sets up food security committee amid $220 rice tax, import licensing
@@ -469,6 +619,8 @@ Sri Lanka taxes rice at 65000 rupee tax per tonne or around 222 US dollars a ton
 ...
 
 [Data](articles/8eca6f26.json)
+
+[Extended Data](ext_articles/8eca6f26.ext.json)
 
 ---
 
@@ -574,25 +726,37 @@ While the steps to promptly introduce a new digital driving licence in place of 
 
 ---
 
-### දියෙගෝ ගාර්සියා: රහසිගත රැඳවුම් කඳවුරක සිටි ශ්‍රී ලාංකික මවකගේ කතාව
+### Diaogo Garcia: The story of a Sri Lankan mother at a secret detention camp
 
 *2024-12-11 01:32:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2ygy9greno) · `si`
 
-දියෙගෝ ගාර්සියා: රහසිගත රැඳවුම් කඳවුරක සිටි ශ්‍රී ලාංකික මවකගේ කතාව
+Here's a summary of the article in approximately 200 characters:
 
-බ්‍රිතාන්‍යයේ දියෙගෝ ගාර්සියා දූපතේ තාවකාලික කඳවුරකට උදා වූ ඒ උදෑසන, ශාන්තිගේ සැමියා අවදි වී මුලින් ම දකින්නේ ඔවුන්ගේ කුඩා දරුවන් ආරක්ෂක වැටක් අතුරින් පිටත බලා සිටින දර්ශනය යි.
 
-ඉන්දියන් සාගරය මැද උපායමාර්ගිකව පිහිටුවා ඇති, එක්සත් රාජධානි - එක්සත් ජනපද හමුදා කඳවුරක් සහිත මෙම රහසිගත දූපතේ නිලධාරියෙකු සහ මුර බල්ලෙක් මුර සංචාරයේ යෙදෙන අයුරු බලා සිටින දරුවන් තියුණු ස්වරයකින් මෙසේ පවසයි: "බල්ලන්ටත් අපට වඩා නිදහසක් තියෙනවා."
 
-මෙය ඔවුන්ගේ පවුලේ දුක්ඛිත තත්ත්වය මැනවින් පිළිබිඹු කරවන දර්ශනයකි. ඔවුන් අහඹුවකින් මෙම රහසිගත හමුදා බලකොටුවේ සිර වූයේ, ඔවුන්ගේ වයස අවුරුදු පහක් සහ නවයක් වයසැති පුතු සහ දියණිය ද සමග ය.
+Sri Lankan mother's secret detention camp experience. Family imprisoned with children. Maintained normalcy through education & cultural activities. Struggled with harsh conditions & uncertainty. Recently resettled in UK, facing uncertain future.
 
-නිරන්තර අධීක්ෂණය යටතේ පැවති ඔවුන් රඳවා සිටි කුඩා කඳවුරේදී පවා, ඉගෙනීමේ කටයුතු කිරීමට, ආහාරයට අවශ්‍ය දෑ වගා කිරීමට මෙන් ම, විශේෂ අවස්ථා සමරමින් පවුලේ විනෝදාස්වාදය සපයා ගනිමින් සාමාන්‍ය ජීවිතයක් පවත්වාගෙන යාමට ඔවුන් ක්‍රම සොයාගෙන තිබිණි.
+🟩
 
-හුදෙකලා හමුදා දූපතක රඳවා සිටි ශ්‍රී ලාංකික සරණාගතයින් පිරිසක් බ්‍රිතාන්‍යයට
+Diaogo Garcia: The story of a Sri Lankan mother at a secret detention camp
+
+The husband of Shantha's husband is awakening and see the vision of their young children outside their young children.
+
+The kids of the secret island and a guardian is strategically established in the midst of the Indian Ocean, the kids watching a strategic island and a US military base: "Dogs have more freedom than we dogs."
+
+This is a vision that reflects their family's misery. They were imprisoned in this secret forces, with their five years old and nine-year-old son and daughter.
+
+Even in the small camp they held under the small camp, they hadtened ways to maintain a normal life with the entertainment of the family.
+
+British refugees in lone military island
+
+Shanthi [Not her real name] had been given to devotees to the devotees of many other Sri Lankan Tamils, with many other Sri Lankan Tamils, with many other Sri Lankan Tamils.
 
 ...
 
 [Data](articles/3fcade82.json)
+
+[Extended Data](ext_articles/3fcade82.ext.json)
 
 ---
 
@@ -1015,6 +1179,22 @@ Several investigations are involved in the arrest of car and driver. Remble
 [Data](articles/fe89c2c4.json)
 
 [Extended Data](ext_articles/fe89c2c4.ext.json)
+
+---
+
+### බීමත් රියදුරන් අත්අඩංගුවට ගන්නා පොලිස් නිලධාරීන්ට ගෙවිය යුතු ත්‍යාග මුදල් කිසිවක් 2023දී ගෙවා නෑ
+
+*2024-12-10 18:45:37* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්-රියදුරන්-අත්අඩංගුවට-ගන්නා-පොලිස්-නිලධාරීන්ට-ගෙවිය-යුතු-ත්‍යාග-මුදල්-කිසිවක්-2023දී-ගෙවා-නෑ/11-413570) · `si`
+
+බීමත් රියදුරන් අත් අඩංගුවට ගන්නා පොලිස් නිලධාරීන්ට එක් අත් අඩංගුවට ගැනීමක් වෙනුවෙන් රුපියල් 2,500 ක ත්‍යාග මුදලක් පොලිස් ත්‍යාග අරමුදල විසින් ගෙවිය යුතු වුවත් 2023 වර්ෂයේදී එම ත්‍යාග මුදල් කිසිවක් ගෙවා නොමැති බව ජාතික විගණන කාර්යාලය විසින් 2023 වර්ෂයට අදාළව කරන ලද විගණන පරීක්ෂාවේදී තහවුරු වී තිබේ.
+
+අහඹු ලෙස පොලිස් ස්ථාන 18 ක් යොදා ගෙන සිදු කරන ලද මෙම පරීක්ෂණයේදී එම පොලිස් ස්ථාන 18 මගින් 2023 වර්ෂයේදී බීමත් රියදුරන් 5449 ක් අත් අඩංගුවට ගෙන තිබෙන බවත්, ඒ අනුව පොලිස් ත්‍යාග අරමුදල ඔවුන්ට නොගෙවන ලද මුදල රුපියල් 13,622,500ක් බවත් අදාළ විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
+
+2018 අංක 19 දරන ජාතික විගණන පනත සහ 1971 අංක 38 දරන මුදල් පනත අනුව 2023.12.31 දක්වා පොලිස් ත්‍යාග අරමුදලේ කටයුතු සම්බන්ධයෙන් ජාතික විගණන මහ ලේකම් කාර්යාලය මගින් සිදු කරන ලද විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සඳහන් වේ.
+
+...
+
+[Data](articles/6590af20.json)
 
 ---
 
@@ -2223,183 +2403,5 @@ Several investigations teams are operating in the arrest of the car and driver.
 [Data](articles/c7d33d6c.json)
 
 [Extended Data](ext_articles/c7d33d6c.ext.json)
-
----
-
-### Allow the Presidential Palace to use
-
-*2024-12-10 15:48:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாளிகைகளைப்-பயன்படுத்த-அனுமதி/175-348531) · `ta`
-
-Presidential Palace asset usage: Cabinet approves strategy panel for economic utilization of unused state properties.
-
-🟩
-
-The government has given permission to introduce the appropriate system for the use of Presidential Palaces and Banks in various parts of the country under the control of the Ministry of Public Administration, Provincial Councils and Local Government.
-
-Cabinet spokesman and minister Nalinda Jayatissa said that under the authority of the Provincial Councils and Local Government Ministry, 50 state bungalies in Colombo 7 and Colombo 5 areas.
-
-These assets are allocated to former presidents, ministers, deputy ministers and various public institutions.
-
-In addition, the Presidential Palace is located in Colombo, Kandy, Nuwara Eliya, Mahiyanganaya, Anuradhapura, Kadirgamam, Jaffna, Embilipitiya and Pentota under the administrative authority of the Presidential Office.
-
-However, except for the mansions in Colombo and Kandy, these assets have not been used regularly.
-
-...
-
-[Data](articles/4d48e365.json)
-
-[Extended Data](ext_articles/4d48e365.ext.json)
-
----
-
-### Faizer Mustapha is named as the national list of cylinder
-
-*2024-12-10 15:42:47* · [`adalk`](https://www.ada.lk/breaking_news/සිලින්ඩරයට-හිමි-ජාතික-ලැයිස්තු-මන්ත්‍රී-ධුරයට-ෆයිසර්-මුස්තාපා-නම්-කෙරේ/11-413557) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Faizer Mustapha named on national list. Elected as National List MP for Democratic Front. Party received two national lists in general election. Ravi Karunanayake previously held seat.
-
-🟩
-
-The National List MP for the new Democratic Front has nominated by the Elections Commission.
-
-The party received two national lists in this year's general election and was elected Ravi Karunanayake for the previous seat.
-
-◼️
-
-[Data](articles/54afd86d.json)
-
-[Extended Data](ext_articles/54afd86d.ext.json)
-
----
-
-### ADB receives US $ 30 million from the Electricity Board
-
-*2024-12-10 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204235) · `si`
-
-ADB provides $30m to Ceylon Electricity Board. Funds aim to boost renewable energy, targeting 70% of Sri Lanka's electricity generation from sustainable sources by 2030.
-
-🟩
-
-The Asian Development Bank has taken approval for the Ceylon Electricity Board.
-
-The Asian Development Bank (ASS) has issued a statement that the financial support will be deprived of the sustainability of the present and future power sector projects.
-
-This is the first financial facility that has been provided to Sri Lanka.
-
-The Asian Development Bank says the objectives of the program to promote renewable energy to promote the renewable energy.
-
-The program is important to make 70% of electricity generation in electricity generation in Sri Lanka by 70% of electricity generated by 70% of the renewable sources.
-
-◼️
-
-[Data](articles/fd35a148.json)
-
-[Extended Data](ext_articles/fd35a148.ext.json)
-
----
-
-### Minimum Food Service for All: Cabinet Permission to Appoint Food Policy
-
-*2024-12-10 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/200905) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government ensures national food safety & security. Cabinet appoints Food Policy Committee. Tasks include domestic food production, 3-month food stock confirmation, and information structure on national food amounts. Committee involves private sector in product contribution, distribution, and retail business. Ministers provide policy guidelines based on data and participation from Food Safety and Nutrition.
-
-🟩
-
-The main task of the government is to ensure the safety of national food and nutrition and secure food, and the Cabinet has appointed the idea of ​​the President to appoint the Food Policy and Safety Committee under the Presidential Office to provide the minimum food requirement and tolerate the minimum food requirement.
-
-Domestic production of all foods that can be produced within the country.Confirmation of adequate food for at least 3 months.Conduct an information structure on food amount in the country.
-
-The primary tasks of the committee are to take part in the private sector's contribution to the products, repository, distribution, amount and retail business.
-
-...
-
-[Data](articles/e3f5abf6.json)
-
-[Extended Data](ext_articles/e3f5abf6.ext.json)
-
----
-
-### Faizer Mustapha is as national listing of cylinder
-
-*2024-12-10 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204234) · `si`
-
-Here's a 200-character summary:
-
-
-
-Faizer Mustapha named in New Democratic Front's national list for MP. Party contested under Gas Cylinder symbol. United National Party, SLFP, and United Freedom Front also participated. Kanchan Wijesekera demanded appointment as Parliament member.
-
-🟩
-
-The New Democratic Front has informed the Elections Commission that the appointment of Faizer Mustapha has been named for the MP in his national list.
-
-According to the results of the General Election, the New Democratic Front contested by the Gas Cylinder.
-
-Under the New Democratic Front, the United National Party (SLFP), the Sri Lanka Freedom Party and the United Freedom Freedom Front contested for general election.
-
-Meanwhile, former Minister of Power and Energy Minister Kanchan Wijesekera to be appointed to Parliament also demanded various parties.
-
-◼️
-
-[Data](articles/3bdb8347.json)
-
-[Extended Data](ext_articles/3bdb8347.ext.json)
-
----
-
-### Neville Silva remanded
-
-*2024-12-10 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204233) · `si`
-
-Neville Silva, Assistant Superintendent of Police, remanded until 13th after arrest by CID. Investigation ongoing since August 2023 regarding alleged abuse and illegal detention.
-
-🟩
-
-The Court of Police (CCC), Assistant Superintendent of Police Neville Silva has been remanded today (10).
-
-He was arrested at the Police Field Force Headquarters by the Criminal Investigations Department.
-
-Accordingly, Neville Silva was produced before the Ratnapura Magistrate's Court today and remanded till the 13th.
-
-In August, 2023, the CID has commenced investigations into a complaint that the complaint was taken to the complainant.
-
-Investigations have proved to support a dilapidated and abuse of the abduction and abuse.
-
-◼️
-
-[Data](articles/1aab831a.json)
-
-[Extended Data](ext_articles/1aab831a.ext.json)
-
----
-
-### Faiszer Musthapha to be appointed NDF National List MP
-
-*2024-12-10 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104142/faiszer-musthapha-to-be-appointed-ndf-national-list-mp) · `en`
-
-The New Democratic Front (NDF) has informed the Election Commission that Faiszer Musthapha has been nominated to be appointed as a Member of Parliament through its National List, party sources said.
-
-President’s Counsel Faiszer Musthapha, a senior lawyer and politician, had previously served as the Minister of Sports and Provincial Councils and Local Government.
-
-According to the results of the 2024 General Election, the New Democratic Front, which contested under the symbol of the ‘Gas Cylinder’, won three parliamentary seats and two National List seats.
-
-The New Democratic Front was formed by the United National Party (UNP), the Sri Lanka Freedom Party (SLFP) and the ‘Podujana Eksath Nidahas Peramuna’ to contest the election.
-
-The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, under somewhat controversial circumstances.
-
-...
-
-[Data](articles/c3814e8b.json)
-
-[Extended Data](ext_articles/c3814e8b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 08:57:35**
+As of **2024-12-11 09:19:49**
 
 ## Newspaper Stats
 
-*Scraped **59,559** Articles*
+*Scraped **59,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 603
 bbccomsinhala | 622
 islandlk | 3,595
-economynextcom | 3,618
+economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
 adalk | 5,651
 adaderanalk | 7,248
-tamilmirrorlk | 8,497
+tamilmirrorlk | 8,498
 virakesarilk | 9,778
 adaderanasinhalalk | 10,292
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 10,292
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,541 (100.0%) of 59,559 articles have been extended.
+59,542 (100.0%) of 59,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### அரிசியை அதிக விலைக்கு விற்ற 50 பேர் சிக்கினர்
+
+*2024-12-11 09:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-அதிக-விலைக்கு-விற்ற-50-பேர்-சிக்கினர்/175-348562) · `ta`
+
+கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்த 50 கடைகளுக்கு எதிராக நேற்று (10) நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+
+கட்டுப்பாட்டு விலைக்கு அப்பால் அரிசியை விற்பனை செய்பவர்களை கைது செய்யும் நடவடிக்கையும், இருப்புக்களை மறைத்து வைத்திருப்பவர்களை கைது செய்யும் நடவடிக்கையும் இன்று (11) முதல் விஸ்தரிக்கப்படவுள்ளதாக அதன் பணிப்பாளர் அசேல பண்டார குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/f160dcf8.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.25/30 to dollar, bonds steady
+
+*2024-12-11 09:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-25-30-to-dollar-bonds-steady-193438/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.25/30 to the US dollar on Wednesday from 290.30/35 to the US dollar on Tuesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.10.2027 was quoted at 9.90/10.00 percent, from 9.90/10.05 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.35/45 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.85/92 percent, from 10.80/95 percent.
+
+A central bank auction of Rs. 206,000 million Treasury bills was ongoing. It announced an auction of 132,500 million Treasury Bonds to be held on Thursday. (Colombo/Dec11/2024)
+
+◼️
+
+[Data](articles/4aa79ed5.json)
+
+---
 
 ### South Korean police search President Yoon’s office over martial law imposition, reports say
 
@@ -49,6 +83,8 @@ The development comes hours before the main liberal opposition Democratic Party 
 ...
 
 [Data](articles/14c70d47.json)
+
+[Extended Data](ext_articles/14c70d47.ext.json)
 
 ---
 
@@ -179,6 +215,26 @@ The Department of Meteorology has advised the public to take necessary steps to 
 [Data](articles/724b2b2c.json)
 
 [Extended Data](ext_articles/724b2b2c.ext.json)
+
+---
+
+### India’s Adani drops US funding request for Sri Lanka terminal with JKH
+
+*2024-12-11 06:39:00* · [`economynextcom`](https://economynext.com/indias-adani-drops-us-funding-request-for-sri-lanka-terminal-with-jkh-193394/) · `en`
+
+ECONOMYNEXT – India’s Adani Ports and Special Economic Zone Limited said it has withdrawn a funding request from the US International Development Corporation for its Colombo West International Terminal (CWIT) project in Sri Lanka.
+
+“The project will be financed through the company’s internal accruals and capital management plan,” the company said in a filing on India’s Bombay Stock Exchange.
+
+The CWIT is as joint venture with John Keells Holdings and Sri Lanka Ports Authority.
+
+The US DFC said last year that it would finance the project through a 533 million dollar loan.
+
+After charges were filed in the US including against Adani officials for misleading US investors about 250 million dollars in alleged bribery in a renewable energy project, the DFC said it was still conducting due diligence.
+
+◼️
+
+[Data](articles/7c3b76b2.json)
 
 ---
 
@@ -347,6 +403,24 @@ This initiative is the latest milestone in Lion Brewery’s continuous journey i
 ...
 
 [Data](articles/15cfb51b.json)
+
+---
+
+### Sri Lanka sets up food security committee amid $220 rice tax, import licensing
+
+*2024-12-11 05:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-sets-up-food-security-committee-amid-220-rice-tax-import-licensing-193426/) · `en`
+
+ECONOMYNEXT  – Sri Lanka has set up a committee to ensure food security and nutritional safety a government statement said, while food freedoms are constrained by high import taxes and licensing to give profits to producers and keep food prices artificially high.
+
+“The prime objective of the government is to establish national food and nutrition safety and to provide the food securely and to provide minimum food requirements to every person in quality and quantity at an affordable price,” the statement issued after this week’s cabinet meeting said.
+
+Sri Lanka taxes most foods at unusually high levels to give profits to farmers, collectors and millers, undermining the food freedoms of the poor in particular.
+
+Sri Lanka taxes rice at 65000 rupee tax per tonne or around 222 US dollars a tone at current exchange rate.
+
+...
+
+[Data](articles/8eca6f26.json)
 
 ---
 
@@ -2343,101 +2417,5 @@ Attorney at Law Nuwan Jayawardena appeared for the suspects for the suspects of 
 [Data](articles/003d381e.json)
 
 [Extended Data](ext_articles/003d381e.ext.json)
-
----
-
-### A new Excise Commissioner General
-
-*2024-12-10 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204231) · `si`
-
-New Excise Commissioner General appointed: Udaya Kumara Perera, previously press officer at Department of Inland Revenue. D.N. Jayaweera transferred to same department. Cabinet approval granted by Finance Minister for appointment.
-
-🟩
-
-!. L. The Cabinet approval was approved as the Minister of Finance, Planning and Economic Development to appoint Mr. Udaya Kumara Perera to appoint the Commissioner General of Excise.
-
-Udaya Kumara, Udaya Kumara, serves as a press convenience of the Department of Inland Revenue.
-
-Accordingly, the Commissioner General of Excise Duty. D. N. Jayaweera has been assigned to the Department of Inland Revenue.
-
-◼️
-
-[Data](articles/030dc429.json)
-
-[Extended Data](ext_articles/030dc429.ext.json)
-
----
-
-### Eight suspects of ‘Club Wasantha’ murder granted bail
-
-*2024-12-10 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104140/eight-suspects-of-club-wasantha-murder-granted-bail-) · `en`
-
-Eight suspects, who were arrested and remanded in custody in connection with the murder of two persons including businessman Surendra Wasantha Perera, also known as ‘Club Wasantha’, have been granted bail by Homagama High Court today (10).
-
-Accordingly, the 08 accused were ordered to be released under strict conditions, each on a cash bail of Rs. 100,000 and two surety bails, Ada Derana reporter said.
-
-Furthermore, the Homagama High Court Judge, who imposed overseas travel bans on all eight suspects, also ordered them to hand over their passports to the court and to appear before the Athurugiriya Police Station on every Sunday.
-
-Police had arrested 18 individuals including a woman and a former Western Provincial Councillor, in connection with the shooting incident.
-
-The shocking shooting incident had occurred during the opening ceremony of a tattoo and piercing studio near the Clock Tower in Athurugiriya on July 08.
-
-...
-
-[Data](articles/30036256.json)
-
-[Extended Data](ext_articles/30036256.ext.json)
-
----
-
-### Request to exempt printed books from VAT VAT
-
-*2024-12-10 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204230) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Request to exempt printed books from VAT due to industry crisis. Publishers, writers, and readers impacted. Government officials requested removal in next budget, citing violation of Florence Agreement on intellectual property taxation.
-
-🟩
-
-The publication sector has become a major crisis and confusion with VAT imposed on printed books.
-
-'Let's exempt the books from January 2024 at a press conference held today (10).
-
-Due to this tax imposition, the entire society, publishers, writers, books, and vending pressure have been impact.
-
-As such, it was pointed out that the exemption of books and personal development of education, culture and individual development of VAT.
-
-The previous government finance ministry, the International Monetary Fund and other relevant authorities have been sent to the letters, only the reply answers have been received.
-
-Speaking at the meeting, Mr. Samantha Samarasinghe said he had requested that the tax was removed from the next budget as a confused criso.
-
-...
-
-[Data](articles/283ae681.json)
-
-[Extended Data](ext_articles/283ae681.ext.json)
-
----
-
-### Specialist Dr. Anil Jasinghe appointed secretary
-
-*2024-12-10 14:31:42* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂඥ-වෛද්‍ය-අනිල්-ජාසිංහට-ලේකම්-ධුරයක්/11-413556) · `si`
-
-Dr. Anil Jasinghe appointed Secretary to Ministry of Health and Mass Media by President Anura Kumara Dissanayake.
-
-🟩
-
-Specialist Dr. Anil Jasinghe has been appointed as the Secretary to the Ministry of Health and Mass Media.
-
-The appointment has been made by President Anura Kumara Dissanayake and the relevant appointment has been made by the Presidential Secretariat at the Presidential Secretariat this morning.
-
-◼️
-
-[Data](articles/487079b1.json)
-
-[Extended Data](ext_articles/487079b1.ext.json)
 
 ---

@@ -1,52 +1,240 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 10:43:01**
+As of **2024-12-11 11:26:21**
 
 ## Newspaper Stats
 
-*Scraped **59,573** Articles*
+*Scraped **59,584** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
-colombotelegraphcom | 603
+colombotelegraphcom | 604
 bbccomsinhala | 622
 islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,653
-adaderanalk | 7,252
-tamilmirrorlk | 8,500
-virakesarilk | 9,778
-adaderanasinhalalk | 10,294
+adalk | 5,654
+adaderanalk | 7,253
+tamilmirrorlk | 8,503
+virakesarilk | 9,780
+adaderanasinhalalk | 10,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,557 (100.0%) of 59,573 articles have been extended.
+59,564 (100.0%) of 59,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### ”சபாநாயகர் உடனடியாக இராஜினாமா செய்ய வேண்டும்”
+### Police have also deceased the suspect's disguise
+
+*2024-12-11 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204257) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Suspect impersonating police arrested with ice drugs. Seized 10mg during Mulleriyawa-Kelanimulla arrest. Allegedly called police station for release. Linked to Delgoda robbery. Another suspect from Piliyandala arrested for supporting robbery.
+
+🟩
+
+A suspect has been arrested with ice drugs to pretending to be a police officer and rescue suspect.
+
+The suspect was arrested on the 6th in the Mulleriyawa and Kelanimulla area.
+
+At the time of the arrest of the suspect, he had seized 10 milligrams of ice narcotics.
+
+A suspect who was arrested by the Mulleriyawa police station on the 01st yesterday had telephoned the OIC of the Mulleriyawa OIC to be released.
+
+It has been revealed that the Minister of Mulleyas OIC not to investigate the telephone call.
+
+The suspects were revealed that the suspect had taken place in court in the courtyard and mortgaged a robbery in Delgoda, Delgoda, Delgoda, Delgoda.
+
+Another suspect who supported the robbery was arrested by the Mulleriyawa Police Station yesterday (10).
+
+The suspect is a resident of Piliyandala, aged 53.
+
+It has been revealed that the suspect had taken place in three robbery in the incident.
+
+◼️
+
+[Data](articles/b19923d1.json)
+
+[Extended Data](ext_articles/b19923d1.ext.json)
+
+---
+
+### 100th Anniversary of Diplomatic Relations
+
+*2024-12-11 11:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜதந்திர-உறவுகளின்-100-வது-ஆண்டு-நிறைவு-விழா/175-348571) · `ta`
+
+Sri Lanka-Iraq diplomatic ties celebrated. Opposition leader Sajith Premadasa attends reception at Grand Hotel Colombo. Event marks 100 years of bilateral relations.
+
+🟩
+
+Opposition Leader Sajith Premadasa was the chief guest at a reception organized by the Iraqi Embassy in Colombo on Tuesday (10) at the Grand Hotel in Colombo on the 100th anniversary of diplomatic relations between Sri Lanka and Iraq.
+
+Ambassador to the Republic of Iraq. A.. A number of political dignitaries participated in the event, which was held at the invitation of Al-Emin.
+
+◼️
+
+[Data](articles/4713febc.json)
+
+[Extended Data](ext_articles/4713febc.ext.json)
+
+---
+
+### ”பயங்கரவாத தடைச்சட்டம் உள்ளிட்ட ஒடுக்குமுறைச் சட்டங்களை உடன் நீக்கு” - ஐ.நா அலுவலகம் முன்பாக கவனயீர்ப்பு போராட்டம்
+
+*2024-12-11 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/200955) · `ta`
+
+சர்வதேச மனித உரிமைகள் தினத்தை முன்னிட்டு கொழும்பிலுள்ள ஐ.நா அலுவலகத்துக்கு முன்பாக கவனயீர்ப்புப் போராட்டத்தில் ஈடுபட்ட வடக்கு - தெற்கு சகோதரத்துவம் அமைப்பினர், பயங்கரவாதத் தடைச்சட்டம் உள்ளிட்ட ஒடுக்குமுறை சட்டங்கள் உடனடியாக நீக்கப்பட வேண்டும் என வலியுறுத்தினர்.
+
+சர்வதேச மனித உரிமைகள் தினத்தை முன்னிட்டு நேற்று செவ்வாய்க்கிழமை (10) வடக்கு - தெற்கு சகோதரத்துவம் எனும் அமைப்பினால் நாட்டில் நிலவும் மனித உரிமைகள்சார் கரிசனைகளை வெளிப்படுத்தி கொழும்பிலுள்ள ஐக்கிய நாடுகள் அலுவலகத்துக்கு முன்பாக கவனயீர்ப்பு போராட்டமொன்று ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+...
+
+[Data](articles/fb721a89.json)
+
+---
+
+### "Jerome is not the pastor of the Catholic Church"
+
+*2024-12-11 10:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெரோம்-கத்தோலிக்க-திருச்சபையின்-போதகர்-அல்ல/175-348567) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Catholic Church denies Pastor Jerome Fernando as its leader. Bishops' Council warns against misinformation about his status. No official apostolic proof exists for him within the Church."
+
+🟩
+
+Pastor Jerome Fernando was not the pastor of the Catholic Church and therefore the Catholic Bishops Council in Sri Lanka yesterday (10) had made it clear that the Catholic Church should not be fooled.
+
+Jerome Fernando is not a Catholic bishop, who has no official apostle proof in the Catholic Church, so we are urging Catholic believers not to deceive such information.
+
+◼️
+
+[Data](articles/1305348c.json)
+
+[Extended Data](ext_articles/1305348c.ext.json)
+
+---
+
+### තැන තැන සිදුවන ඝාතන
+
+*2024-12-11 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204256) · `si`
+
+දිවයිනේ ස්ථාන දෙකක දී මනුෂ්‍ය ඝාතන දෙකක් සිදුව ඇතැයි පොලීසිය පවසයි.
+
+ජාඇළ ප්‍රදේශයේ දී බහින්බස් වීමක් දුරදිග යාමෙන් තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර තිබුණි.
+
+එලෙස මියගොස් ඇත්තේ, වලපනේ ප්‍රදේශයේ පදිංචිව සිටි 45 හැවිරිදි පුද්ගලයෙකි.
+
+වෙ‍ෙළඳසැල් සේවකයින් දෙදෙනෙකු විවේක කාමරයේ මත්පැන් කරමින් සිටියදී ඔවුන් දෙදෙනා අතර ඇතිවූ බහින්බස් වීමක් දුරදිග යාමෙන් එම ඝාතනය සිදුව ඇතැයි සිදුකළ විමර්ශනයේ දී අනාවරණය වුණි.
+
+ඝාතනය සිදුකළ සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීම සඳහා ජාඇළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+මේ අතර ලග්ගල පොලිස් වසමේ ලකේගල ප්‍රදේශයේදී කාන්තාවකට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+පවුල් ආරවුලක් දුරදිග යාමෙන් ස්වාමි පුරුෂයා විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇත.
+
+එලෙස මියගොස් ඇත්තේ, ලකේගල, නාරංගමුව ප්‍රදේශයේ පදිංචිව සිටි 44 හැවිරිදි කාන්තාවකි.
+
+මෘත ශරීරය ලග්ගල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර සැකකරු අත්අඩංගුවට ගෙන ඇති අතර, ලග්ගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/19930322.json)
+
+---
+
+### “The Speaker must resign immediately”
 
 *2024-12-11 10:30:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-உடனடியாக-இராஜினாமா-செய்ய-வேண்டும்/175-348566) · `ta`
 
-சபாநாயகர் அசோக ரன்வல ஜப்பானில் உள்ள வசேடா பல்கலைக்கழகத்தில் ஒருபோதும் அதன் மாணவராக இருந்ததில்லை என உறுதிப்படுத்தப்பட்டதாகக் கூறிய ஐக்கிய தேசியக் கட்சி, போலி முனைவர் பட்டம் என்பது ஆசியாவிலேயே மிகப் பழமையான பாராளுமன்றத்தையும் இந்த ஒட்டுமொத்த தேசத்தையும் அவமதிக்கும் செயலாகும் என்று தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-“இலங்கையின் பாராளுமன்றம் ஆசியாவிலேயே முதன்மையானது மற்றும் முழு உலகமும் அதில் என்ன நடக்கிறது என்பதை உன்னிப்பாக அவதானித்து வருகிறது. எனவே இலங்கை சபாநாயகர் தமக்கு கலாநிதி பட்டம் இருப்பதாக பொய்யாக கூறுவது நாட்டை அவமதிக்கும் செயலாகும்.
 
-அதன் பிரகாரம் அவர் உடனடியாக தனது பதவியை இராஜினாமா செய்ய வேண்டும் என முன்னாள் பாராளுமன்ற உறுப்பினர் தலதா அத்துகோரள கட்சியின் சார்பில் அவசரமாக நடாத்தப்பட்ட ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
 
-கம்பஹா மாவட்டத்தில் தேர்தலின் போது NPP யினால் அச்சிடப்பட்டு விநியோகிக்கப்பட்ட தேர்தல் துண்டுப் பிரசுரங்கள் சபாநாயகர் ஜப்பான் வசேடா பல்கலைக்கழகத்தில் முதுகலைப் படிப்பைப் பின்பற்றியதாக கூறியுள்ளதாக திருமதி அத்துகோரள தெரிவித்தார்.
+"UNP demands Speaker's immediate resignation over fake Japanese PhD. Party claims deception of voters in Gampaha district. Questions integrity of other NPP MPs' credentials."
+
+🟩
+
+The United National Party (UNP), which has confirmed that he has never been a student at the University of Wasada, Japan, has said that the fake doctoral degree is an act of contempt of Asia and the entire nation.
+
+“The Parliament of Sri Lanka is the first in Asia and the whole world is watching what is happening in it. Therefore, it is an insult to the country that the Speaker of Sri Lanka has a doctor's degree.
+
+Former parliamentarian Dalada Athukorala said at a media briefing held on behalf of the party that he should resign immediately.
+
+Mrs. Atukorala said that the election leaflets printed and distributed by NPP during the election in Gampaha district had adopted a postgraduate study at the University of Japan, Japan.
+
+Accordingly, the people of the Gampaha district and voters in the entire country have been deceived.
 
 ...
 
 [Data](articles/4dcfd61e.json)
+
+[Extended Data](ext_articles/4dcfd61e.ext.json)
+
+---
+
+### S Korea ex-minister linked to martial law move attempts to take his life
+
+*2024-12-11 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104158/s-korea-ex-minister-linked-to-martial-law-move-attempts-to-take-his-life) · `en`
+
+South Korea’s former defence minister Kim Yong-hyun, who claimed responsibility for the president’s failed attempt to place the country under martial law last week, has tried to take his own life, an official said.
+
+Authorities found him while making the attempt in his detention centre on Tuesday night, Shin Yong-hae, the justice ministry’s correctional agency chief, told lawmakers.
+
+In the wake of Yoon’s shock martial law order, Kim resigned last week along with other top presidential staff.
+
+If you or someone you know is in crisis and needs help, resources are available for immediate support:
+
+◼️
+
+[Data](articles/f4d3efed.json)
+
+[Extended Data](ext_articles/f4d3efed.ext.json)
+
+---
+
+### වාද්දූවේ නිවසක ගින්නක්
+
+*2024-12-11 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204255) · `si`
+
+යාබද නිවසටද ගින්න පැතිර යමින් තිබූ අතර ප්‍රදේශවාසීන් එක්ව එය පාලනය කිරීමට සමත්ව තිබේ.
+
+කෙසේ වෙතත් ගින්නෙන් ජීවිත හානි කිසිවක් සිදුව නොමැති බව පොලීසිය පැවසීය.
+
+අදාළ නිවසේ කාන්තාවක් බුදු පහන දල්වා පිටව ගොස් ඇති අතර එය පෙරළී ගිනි ගන්නට ඇතැයි පොලීසිය සැක පළ කරයි.
+
+◼️
+
+[Data](articles/32859f2b.json)
+
+---
+
+### பயங்கரவாத தடைச்சட்டம், நிகழ்நிலை காப்புச் சட்டம் என்பன தொடர்பில் அவசியமான அடுத்தக்கட்ட நடவடிக்கைகள் முன்னெடுக்கப்பட வேண்டும் - நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர்
+
+*2024-12-11 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/200953) · `ta`
+
+பயங்கரவாத தடைச்சட்டம், நிகழ்நிலை காப்புச் சட்டம் என்பன தொடர்பில் அவசியமான அடுத்தக்கட்ட நடவடிக்கைகள் முன்னெடுக்கப்பட வேண்டும் என தான் வலுவாக நம்புவதாக தெரிவித்துள்ள நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் ஹர்ஷன நாணயக்கார, தாம் பெரும்பான்மை ஆணையை பெற்றிருப்பதை காரணம் காட்டி தன்னிச்சையாக செயற்பட மாட்டோம் எனவும், சகல தரப்பினரதும் ஆலோசனைகளை பெற்று முன்னகர்வோம் எனவும் குறிப்பிட்டார்.
+
+சர்வதேச மனித உரிமைகள் தினத்தை முன்னிட்டு 'சர்வஜன நீதி' அமைப்பினால் நேற்று செவ்வாய்க்கிழமை (10) கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் ஏற்பாடு செய்யப்பட்டிருந்த கலந்துரையாடலில் பங்கேற்று உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+பலஸ்தீனத்துக்கும், இலங்கைக்கும் இடையில் நீண்டகால நல்லுறவு காணப்படுகிறது. ஆகவே பலஸ்தீன விவகாரத்தில் உணர்வுபூர்வமாகவே செயற்படுவோம். நாடு என்ற ரீதியில் பலஸ்தீன மக்களுக்கு குரல் கொடுப்போம்.
+
+...
+
+[Data](articles/2dc603cb.json)
 
 ---
 
@@ -111,6 +299,20 @@ The strikes reportedly destroyed naval vessels, anti-aircraft systems, and weapo
 [Data](articles/6376f31a.json)
 
 [Extended Data](ext_articles/6376f31a.ext.json)
+
+---
+
+### அரிசியை அதிக விலைக்கு விற்ற 50 பேர் சிக்கினர்
+
+*2024-12-11 09:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியை-அதிக-விலைக்கு-விற்ற-50-பேர்-சிக்கினர்/150-348562) · `ta`
+
+கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்த 50 கடைகளுக்கு எதிராக நேற்று (10) நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+
+கட்டுப்பாட்டு விலைக்கு அப்பால் அரிசியை விற்பனை செய்பவர்களை கைது செய்யும் நடவடிக்கையும், இருப்புக்களை மறைத்து வைத்திருப்பவர்களை கைது செய்யும் நடவடிக்கையும் இன்று (11) முதல் விஸ்தரிக்கப்படவுள்ளதாக அதன் பணிப்பாளர் அசேல பண்டார குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/c3c63a81.json)
 
 ---
 
@@ -351,6 +553,22 @@ The government's arrangement should be taken to remove the 18 percent VAT expedi
 [Data](articles/a480e117.json)
 
 [Extended Data](ext_articles/a480e117.ext.json)
+
+---
+
+### උතුරට මිලි මිටර් 100 ඉක්මවූ වැසි
+
+*2024-12-11 07:51:12* · [`adalk`](https://www.ada.lk/breaking_news/උතුරට-මිලි-මිටර්-100-ඉක්මවූ-වැසි/11-413573) · `si`
+
+නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍ර දේශයේ පවතින අඩු පිඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට ගමන් කරමින් ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් ඉන්දියාවේ තමිල්සනාඩු වෙරළ වෙත ළගාවිමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+උතුරු, උතුරු මැද, නැහෙනහිර හා වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවත් උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව දන්වයි.
+
+සෙසු ප්‍ර දේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/b42ad96a.json)
 
 ---
 
@@ -624,6 +842,18 @@ Sri Lanka taxes rice at 65000 rupee tax per tonne or around 222 US dollars a ton
 
 ---
 
+### Should The NPP Include A Muslim In The Cabinet Of Ministers?
+
+*2024-12-11 04:55:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-npp-include-a-muslim-in-the-cabinet-of-ministers/) · `en`
+
+Resentment has been growing among the sizable portion of the Muslim community as a result of the NPP government‘s failure to appoint a Muslim to the cabinet, and it appears that demanding a ministerial portfolio specifically designated for the Muslim community in Sri Lanka is reasonable from both a representation standpoint and historical context. It means it is not just any portfolio but the ministry that can lessen the historic problems facing the Muslim community. For example, the Ministry of Muslim Religious, Cultural Affairs, and National Integration and Communal Harmony. A dedicated minister could focus on issues pertinent to the Muslim community, such as Islamic education, Islamic economic development, Muslim cultural preservation, and inter-community relations with and between Christians, Buddhists, and other religious groups that might otherwise be overlooked in broader governmental agendas.
+
+...
+
+[Data](articles/50af4b7d.json)
+
+---
+
 ### Food Policy and Safety Committee to boost national food security
 
 *2024-12-11 04:26:48* · [`dailyftlk`](https://www.ft.lk/news/Food-Policy-and-Safety-Committee-to-boost-national-food-security/56-770336) · `en`
@@ -800,6 +1030,8 @@ Stop Child Cruelty Trust (SCCT) and Child Protection Alliance (CPA) comprising t
 
 [Data](articles/a5671d29.json)
 
+[Extended Data](ext_articles/a5671d29.ext.json)
+
 ---
 
 ### E.B. Creasy Solar secures sustainable energy for S. Thomas’ College with a solar grid-tied system
@@ -813,6 +1045,8 @@ Backed by 146-year legacy, E.B. Creasy Solar’s technology guarantees high retu
 ...
 
 [Data](articles/ed240d89.json)
+
+[Extended Data](ext_articles/ed240d89.ext.json)
 
 ---
 
@@ -2159,249 +2393,5 @@ More tourists enjoy enjoying adventures and plenty of things full. The bridge wi
 [Data](articles/530070e3.json)
 
 [Extended Data](ext_articles/530070e3.ext.json)
-
----
-
-### Walking of fishermen in Mullaitivu!
-
-*2024-12-10 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/200871) · `ta`
-
-Fishermen march Mullaitivu demand rights stop Indian occupation ban fishing wind power project
-
-🟩
-
-A walk on Tuesday (10) in Mullaitivu under the theme of "We will dedicate us to a decent life by winning the rights of the fishermen community," on Tuesday (10).
-
-The walk, which started in front of the Mullaitivu Fisheries Department, was held up to the Karaituraipattu Pradeshiya Sabha Cultural Hall in Mullaitivu.
-
-Those involved in the walk were raised to make a number of demands, including stopping the Indian drag occupation, implementing the fisheries, implementation of the fisheries, the complete ban on legal fishing, controlling of heavy sand excavation, the suspension of the environmental farming projects and the ban on wind power project.
-
-Representatives and fishermen from 16 districts of the National Fisheries Cooperation Movement were also present.
-
-◼️
-
-[Data](articles/56833492.json)
-
-[Extended Data](ext_articles/56833492.ext.json)
-
----
-
-### Sri Lanka stocks close up, driven by diversified financials
-
-*2024-12-10 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-driven-by-diversified-financials-193335/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader ASPI kept rising to close up 0.41 percent, or 56.21 points, at 13,774; while the more liquid S&P SL20 Index closed up 0.55 percent, or 22.50 points, at 4,113.
-
-Turnover was 4.3 billion. Major contributing sectors were diversified financials sectors (Rs955mn), and capital goods (Rs890mn).
-
-Market was moving upward due to expectations, market participants have said, with positive momentum continuing ahead of the expected lift of the vehicle import ban.
-
-Companies with exposure to the automotive market saw local investor interest.
-
-Top positive contributors to the ASPI were LOLC Holdings (up at 513.75), Browns Investments (up at 6.40), John Keells Holdings (up at 21.00), LOLC Finance (up at 6.70), and Ceylon Tobacco (up at 1,316.75).
-
-Abans Plc said its issue of 3 million debentures at hundred rupees each to raise 300 million was oversubscribed. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/fe28e680.json)
-
-[Extended Data](ext_articles/fe28e680.ext.json)
-
----
-
-### A young man who falls off a motorcycle
-
-*2024-12-10 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/200869) · `ta`
-
-Motorcycle crash kills 23-year-old in Puttalam. Son fell off while riding pillion. Father arrested. Police investigating fleeing vehicle.
-
-🟩
-
-A young man in Puttalam has crashed into a motorcycle when he crashed into a motorcycle and died on the spot.
-
-The accident took place on Monday night (09) at the Andanganni area of ​​the forest.
-
-Police said the 23 -year -old is from the Kalpitiya Kurinjipitiya area.
-
-Father and son have gone on a motorbike. The son who was sitting behind him had fallen into a mistake and the vehicle was involved in the accident.. The young man died on the spot.
-
-The body of the deceased has been placed in the funeral room at the Puttalam Hospital and the father has been arrested by the police.
-
-The foam police said they were investigating the vehicle that had escaped after the accident.
-
-◼️
-
-[Data](articles/e3740900.json)
-
-[Extended Data](ext_articles/e3740900.ext.json)
-
----
-
-### 2025 Negotiations for Budget
-
-*2024-12-10 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204237) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2025 Budget Talks Begin: President Anura Kumara Dissanayake initiates budget preparation. Discussion on Ministry of Education proposals led by Prime Minister Harini Amarasuriya and officials."
-
-🟩
-
-President Anura Kumara Dissanayake has begun to prepare the year 2025 budget.
-
-Accordingly, a discussion on the budget proposals of the Ministry of Education was held this morning, said the Presidential Media Unit.
-
-Prime Minister Dr. Harini Amarasuriya and high officials of the Ministry have joined the discussion for the discussion.
-
-◼️
-
-[Data](articles/2199d685.json)
-
-[Extended Data](ext_articles/2199d685.ext.json)
-
----
-
-### Moratorium on implementation of parate law by banks extended till 31st March 2025
-
-*2024-12-10 16:11:00* · [`islandlk`](http://island.lk/moratorium-on-implementation-of-parate-law-by-banks-extended-till-31st-march-2025/) · `en`
-
-The Cabinet of Ministers has approved the proposal presented by  the President, in his capacity as the Minister of  Finance, Planning, and Economic Development, to extend the moratorium on implementation of parate law until 31-03-2025 and to prepare a multi-dimensional mechanism to solve this issue with the active contribution of all the parties including, Central Bank of Sri Lanka, government and private banks and other government institutions.
-
-The economic crisis encountered by Sri Lanka during the previous 04 years has severely affected the small and medium sector entrepreneurs, and it has been reported that difficulties have arisen in settling the loans obtained from banks.
-
-...
-
-[Data](articles/ce239ec6.json)
-
----
-
-### Digital Driver's License: Notification of Ministry
-
-*2024-12-10 16:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-சாரதி-அனுமதிப்-பத்திரம்-அமைச்சின்-அறிவிப்பு/175-348534) · `ta`
-
-New digital driver's licenses approved, current system continues until rollout. Government adopts international best practices for digital ID technology. Implementation planned based on transport minister's recommendations.
-
-🟩
-
-The Cabinet has approved the immediate introduction of the new digital driver's license instead of the driver's licensees.
-
-A panel of ministers has also decided to continue the current system until the digital driver's license is issued.
-
-According to the new technology that facilitates data, the government will recognize the appropriateness of providing a digital driver's license used in many countries of the world.
-
-Accordingly, this digital driver's license is to be introduced soon, considering the ideas put forward by the Minister of Transport, Highways, Ports and Civil Airlines.
-
-◼️
-
-[Data](articles/6911eb6d.json)
-
-[Extended Data](ext_articles/6911eb6d.ext.json)
-
----
-
-### Faizer Mustafa became a member of the National List
-
-*2024-12-10 16:02:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியல்-உறுப்பினரானார்-பைசர்-முஸ்தபா/175-348533) · `ta`
-
-Faizer Mustafa joins National List. Sharmila Perera of National Democratic Front submits his name. Election Commission informed. Majority alliance support cited.
-
-🟩
-
-Sharmila Perera, general secretary of the National Democratic Front, said that the new Democratic Front (NDF) has submitted the name of Faizer Mustafa as his national list Member.
-
-He told the Daily Mirror that Mustafa's name had been submitted to the Election Commission, as the voice of the majority of alliance members who contested the gas cylinder symbol in the general election had to be listened to.
-
-◼️
-
-[Data](articles/98b04c2c.json)
-
-[Extended Data](ext_articles/98b04c2c.ext.json)
-
----
-
-### Indian support for Sri Lanka’s Karaingar boatyard
-
-*2024-12-10 15:59:00* · [`economynextcom`](https://economynext.com/indian-support-for-sri-lankas-karaingar-boatyard-193310/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers have approved the signing of an agreement which will see India providing financial aid to renovate the Karainagar boatyard, Health and Media Minister Nalinda Jayatissa said.
-
-“The grant will be used to renovate the Karainagar boatyard,” Jayatissa told reporters. The grant will finance renovations of the boatyard and provide office equipment.
-
-Cey-Nor Foundation Ltd manufactures fiberglass boats at Karainagar boatyard. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/669a4ead.json)
-
-[Extended Data](ext_articles/669a4ead.ext.json)
-
----
-
-### 6 hours of water cut
-
-*2024-12-10 15:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மணித்தியால-நீர்-வெட்டு/175-348532) · `ta`
-
-Colombo areas 12, 13, 14, 15 face 6-hour water outage. Affected zones: waterfront. Duration: 9 PM to 3 AM.
-
-🟩
-
-The Water Supply and Drainage Board said that 6 hours of water cut will be implemented in some parts of Colombo.
-
-Accordingly, the waterfront will be implemented in Colombo 12, 13,14 and 15 tonight from 9 pm to three o'clock in the morning.
-
-◼️
-
-[Data](articles/965be125.json)
-
-[Extended Data](ext_articles/965be125.ext.json)
-
----
-
-### Book industry renews call for exemption from VAT, citing serious concerns
-
-*2024-12-10 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104143/book-industry-renews-call-for-exemption-from-vat-citing-serious-concerns) · `en`
-
-Sri Lanka’s book industry has renewed its call for books to be exempt from tax, with four industry bodies submitting a proposal to the new government for inclusion in the next national budget.
-
-Urging the government to consider the financial as well as social ramifications of taxing sources of knowledge and learning, these associations representing publishers, writers, retailers, importers and exporters have called for books to be returned to the list of items exempt from tax, as was the case before January 1, 2024.
-
-In their proposal, the four associations pointed out that with all inputs for the publishing industry with the exception of local labour being imported, Sri Lanka’s book industry is already taxed at 33.045%, and the imposition of a value-added tax (VAT) of 18% at the point of sale has made books unaffordable to many, and is putting small-scale publishers out of business.
-
-...
-
-[Data](articles/b191e718.json)
-
-[Extended Data](ext_articles/b191e718.ext.json)
-
----
-
-### A woman shoots a car attempted cars
-
-*2024-12-10 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204236) · `si`
-
-A woman called Kaduwela Police, claiming her life was threatened by a car. She was hospitalized under police protection. Investigations are ongoing to arrest the car and its driver.
-
-🟩
-
-A woman has telephoned the Kaduwela Police Station on 10.12.2012 and said that he is on a motorbike and a car is coming to the Kaduwela Police Station and kill him.
-
-The function of the police minister and the main entrance of the police minister had been admitted to the police officer and tried to stop the OIC of the OIC.
-
-The prestigious officer of the police minister has shot the car, but the car has fled.
-
-The 38-year-old woman has been hospitalized under police protection.
-
-Several investigations teams are operating in the arrest of the car and driver.
-
-◼️
-
-[Data](articles/c7d33d6c.json)
-
-[Extended Data](ext_articles/c7d33d6c.ext.json)
 
 ---

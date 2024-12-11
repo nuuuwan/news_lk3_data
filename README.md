@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 00:18:31**
+As of **2024-12-11 23:43:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,661 (100.0%) of 59,687 articles have been extended.
+59,657 (99.9%) of 59,687 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1870,35 +1870,19 @@ Countries experience foreign exchange shortages when reserve collecting central 
 
 ---
 
-### Orders to be called for Local Government Elections
+### පළාත් පාලන ඡන්ද විමසීමට අදාළ පෙත්සම කැඳවීමට නියෝග
 
 *2024-12-11 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204267) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+නව තරුණ ඡන්දදායකයන්ට ඡන්දය ප්‍රකාශ කිරීමට හැකිවන පරිදි 2024 වසරේ ඡන්දහිමි නාම ලේඛනය උපයෝගී කරගනිමින් පළාත් පාලන ඡන්ද විමසීම පැවැත්වීමට හැකිවන පරිදි නීති සංශෝධන සිදුකරන ලෙස අමාත්‍ය මණ්ඩලය විසින් නීති කෙටුම්පත් දෙපාර්තමේන්තුවට උපදෙස් දී ඇතැයි නීතිපතිවරයා අද (11) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
 
+2024 වසරේ ඡන්ද හිමි නාමලේඛනය උපයෝගී කරගනිමින් පළාත් පාලන ඡන්ද විමසීම පවත්වන ලෙස නියෝගයක් නිකුත් කරන්නයි ඉල්ලා ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සමක් කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා විසින් මෙම දැනුම්දීම සිදුකළේය.
 
-
-Supreme Court orders local government elections. Attorney General informs Legal Draftsman to prepare election orders for 2024. Cabinet cancels nominations, accepts new ones. Petitioner seeks release of council results in all three languages. Election Commission informed about the orders.
-
-🟩
-
-The Attorney General also informed the Supreme Court today to ensure the Legal Draftsman (11th).
-
-The innroad was made by Deputy Solicitor General Nirmalan Vigneswaran, who appeared on behalf of the Attorney General to issue a fundamental rights petition asking for a local government election.
-
-The petition was called before the Supreme Court Judge Bench, Arjuna Obeysekere and Priyantha Fernando.
-
-The Deputy Solicitor General stated that the Cabinet of Ministers had informed the Legal Draft Departments to use the vocabulary regions of the year 2024 to be able to vote in the year 2024.
-
-He added that the Cabinet has instructed the Cabinet that the Cabinet has been instructed to cancel the nominations and accepts new nominations.
-
-President's Counsel Ali Sabri appearing on behalf of the petitioner, this was a very important lawsuit of the people, and asked to release the council in three languages ​​in all three languages.
+මෙම පෙත්සම අද අගවිනිසුරු මුර්දු ප්‍රනාන්දු, අර්ජුන ඔබේසේකර සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඬුල්ල ඉදිරියේ කැඳවනු ලැබීය.
 
 ...
 
 [Data](articles/3f55eb36.json)
-
-[Extended Data](ext_articles/3f55eb36.ext.json)
 
 ---
 
@@ -1926,33 +1910,21 @@ The opening ceremony of the Lanka T10 is scheduled to commence at 2.45 pm today.
 
 ---
 
-### It is important to unite the masses without race religion - July Chang
+### ජාති ආගම් බේදයකින් තොරව ජනතාව එකමුතු කිරීම වැදගත් - ජුලි චන්ග්
 
 *2024-12-11 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204266) · `si`
 
-Here's a summary of 200 characters:
+ජාති ආගම් බේදයකින් තොරව ජනතාව එකමුතු කිරීම වැදගත් බව මෙරට අමෙරිකානු තානාපතිනි ජූලි චන්ග් මහත්මිය පැවසුවාය.
 
+මහනුවර මහනගර සභාවේ ඩී.එස්.සේනානායක අනුස්මරණ මහජන පුස්තකාලයට අනුබද්ධ, අමෙරිකානු තොරතුරු පියස පිහිටුවා වසර 20ක් සැපිරීම නිමිත්තෙන් වූ උත්සවයක් ඊයේ (10) මහනුවරදී  පැවැත්වුණි.
 
+එහි ප්‍රධාන ආරාධිතයා වුයේ මෙරට අමෙරිකානු තානාපතිනි ජුලි චන්ග් මහත්මියයි.
 
-US Ambassador July Chang emphasizes unity without race or religion in Sri Lanka. He promotes English as a unifying language and highlights a youth forum connecting South Asian countries.
-
-🟩
-
-In Sri Lanka, US Ambassador to America Chang, July Chang, said that it is important to unite the masses without race.
-
-A ceremony was held at Kandy yesterday (10) at the Kandy Municipal Council of the Kandy Municipal Council.
-
-The chief guest was the US Ambassador to Sri Lanka, July Chang.
-
-"We heard New President Anura Kumara Dissanayake talking about unity. Your president said there was no room for racism or extremism in this country. A matter of all your disparities and diversity should celebrate. And all of them become one peaceful.
-
-I am proud to be able to have the ability to 'American Corner' to join the vision by adding communities. It is not important that your background, language, religion, economic level, you a woman and a man or who. What is important is to unite the masses. In 2019, we were conducted the first Youth Forum representing the Youth Text throughout Sri Lanka.. English language has become the media that connects each other.
+"අපට අසන්නට ලැබුණා නව ජනාධිපති අනුර කුමාර දිසානායක එක්සත්භාවය ගැන කතා කළා. ඔබේ ජනාධිපතිවරයා ප්‍රකාශ කළා මේ රටේ වර්ගවාදයට හෝ අන්තවාදයට කිසිඳු ඉඩක් නොමැති බව. ඔබේ සියලු විෂමතාවන් සහ විවිධත්වය සැමරිය යුතු කාරණයක්. එමඟින් සියල්ලන්ම සාමකාමී එක් ජන ප්‍රජාවක් බවට පත්වේවී.
 
 ...
 
 [Data](articles/71890501.json)
-
-[Extended Data](ext_articles/71890501.ext.json)
 
 ---
 
@@ -2002,67 +1974,43 @@ The other National List MP seat had been filled by former minister Ravi Karunana
 
 ---
 
-### In Syria's Azad's dungeon ...!- Sources of torture and unprecedented cruelty - NBC
+### சிரியாவின் அசாத்தின் நிலவறைக்குள்...! - சித்திரவதை மற்றும் சொல்ல முடியாத கொடுமைக்கான ஆதாரங்கள் - என்.பி.சி
 
 *2024-12-11 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200982) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+சிரிய தலைநகரின் புறநகர் பகுதியில் - நீண்ட கால சர்வாதிகாரியின் பிடியிலிருந்து நாடு விடுபடுவதற்கு குறித்த நம்பிக்கைகளின் மத்தியில் அசாத் அரசாங்கத்தின் கொடுமைகள் குறித்து வெளிவரும் தகவல்கள் குழப்பத்தை ஏற்படுத்துபவையாக காணப்பட்டன.
 
+கண்ணிற்கு தெரியாத ஆழத்தில் காணாமல்போய்விட்டதாக, அவர்கள் கருதும் தங்கள் அன்புக்குரியவர்கள் உயிருடன் இருக்கின்றார்கள் என்பதற்கான அடையாளங்கள் ஏதாவது உள்ளதா என்பதை அறிவதற்காககவே அவர்கள் அந்த சிறைச்சாலைக்கு சென்றுகொண்டிருந்தனர்.
 
+மனித உரிமை மீறல்களிற்கு பெயர் போன  அந்த சிறைச்சாலை தரிசு பாலை நிலங்களில் காணப்படுகின்றது.
 
-Syria's Sidenaya Prison: Torture, human rights violations under Assad regime. Public searches for loved ones amid rumors of secret detention. Evidence of cruel practices found, including iron crushing devices and metal poles used for torture.
+சைட்னயா சிறைச்சாலை என்பது மனிதகொலைக்கூடாரம் என பெயரிடப்பட்ட சிரிய கொன்கீரிட் கட்டிடங்களின் நிலவறையாகும்.
 
-🟩
+என்பிசி செவ்வாய்கிழமை அங்கு சென்றபோது சிறைச்சாலையில் மிகவும் காட்டுமிராண்டிதனமான சூழல் காணப்பட்டமைக்கான தடயங்களையும் தங்கள் நேசத்திற்குரியவர்களை தேடும் மக்களின் இயலாமையையும் கண்ணுற்றது.
 
-In the suburbs of the Syrian capital - the information about the atrocities of the Assad government was confused amid the hopes of the country to free the country from the clutches of the long -term dictator.
-
-They were going to the prison to know if there were signs that their loved ones were still alive as they had disappeared at an invisible depth.
-
-The prison, which is known for its human rights violations, is found in the barren lands.
-
-The Sidenaya Prison is a dungeon of Syrian Konkirid buildings named the human being.
-
-When the NBC went there on Tuesday, the most barbaric environment in the prison was seen as the traces of the people who were looking for their loved ones.
-
-During the 50 -year reign of Assad, armed forces protected prisons such as Sidenaya, confirming that those who went inside did not come out.
-
-Human rights organizations say that the prison was used to prevent the public and torture thousands of Syrian people.
-
-Sitnaya's mouth is overflowing with hundreds of cars.
+அசாத்தின் 50 வருட ஆட்சிக்காலத்தின் போது சைட்னயா போன்ற சிறைக்கூடங்களை ஆயுதமேந்திய படையினர் பாதுகாத்தனர், உள்ளே சென்றவர்கள் வெளியே வரவில்லை என்பதை உறுதி செய்தனர்.
 
 ...
 
 [Data](articles/628d3eac.json)
 
-[Extended Data](ext_articles/628d3eac.ext.json)
-
 ---
 
-### A warning to fishermen in several areas
+### ප්‍රදේශ කිහිපයක ධීවරයින්ට අනතුරු ඇඟවීමක්
 
 *2024-12-11 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204265) · `si`
 
-Warning: Fishermen avoid areas from Puttalam to Mullaitivu, Mannar, Kankasanthurai due to low pressure system. Rough seas expected, heavy rainfall possible in Northern, Eastern, North-Central, and North-Western provinces.
+පුත්තලම සිට මන්නාරම සහ කන්කසන්තුරය හරහා මුලතිව් දක්වා වෙරළට ඔබ්බෙන් වන ගැඹුරු සහ නොගැඹුරු මුහුදු ප්‍රදේශවල ධීවරයින්ට අද (11) දිනයේ  ධීවර සහ නාවික කටයුතුවලින් වැළකී සිටින ලෙස කාලගුණවිද්‍යා දෙපාර්තුමේන්තුව ඉල්ලා සිටියි.
 
-🟩
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ සක්‍රීය වි ඇති අඩු පීඩන කලාපය තවදුරටත් පවතින බැවින් එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඔ දෙසට ගමන් කරමින් ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළගා වීමට බොහෝ දුරට ඉඩ පවතින බවය.
 
-The Department of Meteorology demands the fishermen in the area from Puttalam to Mullaitivu to Mannar and Kankasanthurai.
+ත්‍රිකුණාමලය කන්කසන්තුරය සහ මන්නාරම හරහා පුත්තලම දක්වා වන මුහුදු ප්‍රදේශවල විටින් විට වැසි ඇති විය හැකි බවත් තිකුණාමලය සිට කන්කසන්තුරය සහ කොළඹ හරහා ගාල්ල දක්වා වන මුහුදු ප්‍රදේශවල සුළග ඊසාන සිට වයඔ දක්වා දිශාවලින් හමන සුළගේ වේගය පැයට කිලෝ මීටර් 30 – 40 පමණ වන බවත් එම නිවේදනයේ සඳහන් වේ.
 
-In a statement, the department said that the low pressure zone of the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Sri Lanka is most likely to reach the Thamilnadu coast.
+මේ අතර ත්‍රිකුණාමලය සිට කන්කසන්තුරය හරහා පුත්තලම දක්වා වන මුහුදු ප්‍රදේවල වේගය ක්ෂණිකව පැයට කිලෝමීටර් 50 -60 දක්වා ද වර්ධනය විය හැකි බවත් එම නිවේදනයේ දක්වා තිබේ.
 
-Tens of 30 to 40 km from the sea areas off the sea areas off the Trincomalee Kankesanthurai and Mannar..
-
-Meanwhile, the prompt increase in the sea from Trincomalee via Kankesanthurai can also increase to 50-kilometers per hour.
-
-Therefore, the Met Department (Met Department) said that the sea areas from Puttalam to Mullaittivu to Mullaittivu from Puttalam to Mannar and Kankasanthurai.
-
-As a result, the sea areas can be temporarily rough and due to the impact of this system, and the Northern Province, the North Central, Eastern and North Western provinces.. Heavy showers that have more than 100 can occur.
-
-◼️
+...
 
 [Data](articles/7008bc56.json)
-
-[Extended Data](ext_articles/7008bc56.ext.json)
 
 ---
 

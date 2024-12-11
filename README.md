@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 22:42:40**
+As of **2024-12-11 23:01:13**
 
 ## Newspaper Stats
 
-*Scraped **59,685** Articles*
+*Scraped **59,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,595
 economynextcom | 3,633
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,669
-adaderanalk | 7,269
+adalk | 5,670
+adaderanalk | 7,270
 tamilmirrorlk | 8,519
 virakesarilk | 9,796
 adaderanasinhalalk | 10,321
@@ -26,29 +26,43 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,648 (99.9%) of 59,685 articles have been extended.
+59,651 (99.9%) of 59,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### වැලිකඩ ජේලර්වරියකට මරණ තර්ජන - පොලීසිය විමර්ශන අරඹයි
+### Welikada jailers threatened with jewelery
 
 *2024-12-11 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204284) · `si`
 
-වැලිකඩ බන්ධනාගාරයේ කාන්තා අංශයේ ප්‍රධාන ජේලර්වරියකට එම අංශයේ රඳවා සිටි කාන්තා රැඳවියක් මරණීය තර්ජන එල්ල කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සිද්ධියට මුහුණ දුන් ජේලර්වරිය බොරැල්ල පොලීසියට කරන ලද පැමිණිල්ලක් අනුව මෙම විමර්ශන ආරම්භ කර ඇති බව පොලීසිය අධිකරණයට කරුණු වාර්තා කර ඇත.
 
-ඒ අනුව අදාළ සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් පවත්වා අධිකරණයට කරුණු වාර්තා කරන ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවෙල මහතා අද (11) බොරැල්ල පොලීසියට නියෝග කළේය.
 
-"දින 7ක් ඇතුළත උඹව මරා දමනවා... උඹේ පවුලේ අයත් මරා දමනවා" යනුවෙන් අදාළ මරණීය තර්ජනය එල්ලකර තිබෙන බව වාර්තා වෙයි.
+Women at Welikada Prison receive death threats from jailers. Police investigating after magistrate orders probe. Suspect woman allegedly made threats during court appearance.
 
-එමෙන්ම බන්ධනාගාරගතව සිටින සැකකාර කාන්තාව පිටස්තර පුද්ගලයන් සමග දුරකථන සංවාද පවත්වා තිබේද යන්න පිළිබඳව විමර්ශනය කිරීම සඳහා අදාළ දුරකථන සමාගම්වලින් දුරකථන වාර්තා කැඳවන ලෙසටද පොලීසියට නියෝග කළේය.
+🟩
+
+Police are investigating a death threat of women in the Welikada Prison in Welikada Prison.
+
+The police have reportedly commenced on a complaint lodged by the Jalarrtervation of the Borella Police.
+
+Colombo Additional Magistrate Harshana Kekunai today (11) ordered the Borella Police to conduct an investigation into the incident.
+
+"Within 7 days, you will be killed.. It is reported that the victims have been threatened with the family.
+
+The suspect woman ordered the police to investigate telephone numbers to investigate whether the suspect had had telephoned telephone conversations with outside.
+
+The police said that the suspect was in court and the use of mobile phones were transferred to the Kalutara Prison with obsceneous behavior with other prisoners while being held in Welikada Prisoners.
+
+The police have revealed that the transferred to the Supervision Superintendent of the Kalutara Prison has been transferred again to the Women's Way to the Women's Division.
 
 ...
 
 [Data](articles/8d9dd345.json)
+
+[Extended Data](ext_articles/8d9dd345.ext.json)
 
 ---
 
@@ -79,6 +93,26 @@ The Department of Meteorology has forecast rain or thunderstorms in the Central,
 [Data](articles/67a00616.json)
 
 [Extended Data](ext_articles/67a00616.ext.json)
+
+---
+
+### Four Sri Lankans arrested near Rameswaram
+
+*2024-12-11 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104175/four-sri-lankans-arrested-near-rameswaram) · `en`
+
+Four Sri Lankan natives who were allegedly wandering near Thanneeroottru seashore area at Rameswaram in Tamil Nadu, India on Tuesday (December 10, 2024) night were arrested by Thangachimadam police.
+
+According to police, the four arrested, C. Sekar alias Rajmohan (39), R. Kokilavani (44), R. Sasi Kumar (28), M. Nagaraj (68), were found with bags near the seashore and further investigation revealed that they had plans of travelling to Sri Lanka illegally via sea.
+
+While Ms. Kokilavani and Mr. Sasi Kumar were residing in Mandapam camp, Mr. Sekar whose passport has expired now came to India using passport in 2019 and Mr. Nagaraj came to India before three months in a boat.
+
+Police, said, Mr. Sekar was found to be from Vellore refuge camp.
+
+They were arrested under sections of Foreigners Act 1946 and Passport Act 1947.
+
+◼️
+
+[Data](articles/3150e718.json)
 
 ---
 
@@ -311,6 +345,26 @@ Dr. Satyamoorthy said the disease is usually suspected to be a leptospirosis, kn
 [Data](articles/e620a557.json)
 
 [Extended Data](ext_articles/e620a557.ext.json)
+
+---
+
+### බෝංචි, අමු මිරිස් හා මාළු මිරිස් කිලෝවක සිල්ලර මිල රු. 1000ක් දක්වා ඉහළට
+
+*2024-12-11 18:32:59* · [`adalk`](https://www.ada.lk/breaking_news/බෝංචි--අමු-මිරිස්-හා-මාළු-මිරිස්-කිලෝවක-සිල්ලර-මිල-රු--1000ක්-දක්වා-ඉහළට/11-413593) · `si`
+
+ඇතැම් ප්‍රදේශවල බෝංචි, අමු මිරිස් හා මාළු මිරිස් කිලෝවක සිල්ලර මිල රුපියල් නවසීයත් රුපියල් දහසත් අතර මිලක් ගෙන තිබේ.
+
+ලොකු ලූනු කිලෝවක සිල්ලර මිල රුපියල් හාරසීය දක්වාත් බිත්තරයක මිල රුපියල් 44 දක්වාත් කුකුළු මස්( දවසේ) කිලෝවක මිල රුපියල් 1400 දක්වාත් ඉහළ ගොස් ඇත.
+
+කරවිල හා තුඹ කරවිල කිලෝවක සිල්ලර මිල  රුපියල් 600 දක්වා  ඉහළ ගොස් තිබෙන අතර  දඹල, මෑකරල්,වැටකොලු, නෝකෝල්, තක්කාලි, ලීක්ස්, වම්බටු හා බීට් කිලෝවක සිල්ලර මිල රුපියල් 400 ත් රුපියල් 450 ත් දක්වාත් ඉහළ ගොස් තිබේ.
+
+පතෝල, රාබු,  කැරට්,බණ්ඩක්කා හා වට්ටක්කා කිලෝවක සිල්ලර මිල රුපියල් 300 ත් රුපියල් 350 ත් අතර මිලක් දක්වා ඉහළ ගොස් ඇත.
+
+ආර්ථික මධ්‍යස්ථානය තුළදී ඊයේ බෝංචි කිලෝවක තොග මිල රුපියල් 550 ක් විය. අමුමිරිස් කිලෝවක තොග මිල රුපියල් 700 ක්,  මාළු මිරිස් කිලෝවක තොග මිල රුපියල් 800ක්, රතු ගෝවා කිලෝවක තොග මිල රුපියල් 550 ක් හා ලොකු ලූනු කිලෝවක තොග මිල රුපියල් 400 ක් ලෙස අලෙවි වී ඇත.
+
+...
+
+[Data](articles/f1849091.json)
 
 ---
 
@@ -1416,21 +1470,29 @@ The street value of the seized drugs is believed to around Rs. 130 million, acco
 
 [Data](articles/6b6935ab.json)
 
+[Extended Data](ext_articles/6b6935ab.ext.json)
+
 ---
 
-### රු මිලියන 130ක මත්ද්‍රව්‍ය සමග සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested with Rs 130 million narcotics
 
 *2024-12-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204271) · `si`
 
-හෙරොයින් කිලෝග්‍රෑම් 05ක්, අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 1.6ක් සහ එක්ස්ටසි මත්පෙති 800ක් සන්තකයේ තබාගෙන සිටි පුද්ගලයෙකු කහතුඩුව ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+N
 
-පොලීසිය සඳහන් කළේ එහි වටිනාකම රුපියල් මිලියන 130ක් පමණ වන බවය.
+🟩
 
-මේ අතර අයිස් මත්ද්‍රව්‍ය කිලෝ 02යි මිලිග්‍රෑම් 100ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු බොරැල්ල, වනාතමුල්ල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+The Police Special Task Force has been arrested by the STF in the Kahathuduwa area.
+
+The police said that the value of it was about Rs. 130 million.
+
+Meanwhile, a suspect in possession of two ice drugs and 100 milligrams have been arrested in Borella, Wanathamulla area.
 
 ◼️
 
 [Data](articles/7a87edde.json)
+
+[Extended Data](ext_articles/7a87edde.ext.json)
 
 ---
 
@@ -2385,63 +2447,5 @@ Minister Jayatissa was responding to a question on advertisements by vehicle imp
 ◼️
 
 [Data](articles/25036cb2.json)
-
----
-
-### House gutted in fire caused by oil lamp in Wadduwa
-
-*2024-12-11 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104159/house-gutted-in-fire-caused-by-oil-lamp-in-wadduwa) · `en`
-
-A fire has reportedly broken out at a house in the Pothupitiya area of Wadduwa, resulting in the complete destruction of the property, according to police.
-
-Local residents have collaborated to douse the flames and bring the fire under control and prevent it from spreading to a neighboring house.
-
-Police confirmed that no casualties were recorded in the incident.
-
-Police suspect that the fire has been triggered by an oil lamp, which was lit as part of a religious ritual and placed before a small Buddha’s statue inside the house. It is suspected that the woman in the house in question had left the lamp unattended, and it may have fallen over, sparking the blaze.
-
-However, the exact cause of the fire has not yet been ascertained, while Wadduwa Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/c9958276.json)
-
----
-
-### Police have also deceased the suspect's disguise
-
-*2024-12-11 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204257) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Suspect impersonating police arrested with ice drugs. Seized 10mg during Mulleriyawa-Kelanimulla arrest. Allegedly called police station for release. Linked to Delgoda robbery. Another suspect from Piliyandala arrested for supporting robbery.
-
-🟩
-
-A suspect has been arrested with ice drugs to pretending to be a police officer and rescue suspect.
-
-The suspect was arrested on the 6th in the Mulleriyawa and Kelanimulla area.
-
-At the time of the arrest of the suspect, he had seized 10 milligrams of ice narcotics.
-
-A suspect who was arrested by the Mulleriyawa police station on the 01st yesterday had telephoned the OIC of the Mulleriyawa OIC to be released.
-
-It has been revealed that the Minister of Mulleyas OIC not to investigate the telephone call.
-
-The suspects were revealed that the suspect had taken place in court in the courtyard and mortgaged a robbery in Delgoda, Delgoda, Delgoda, Delgoda.
-
-Another suspect who supported the robbery was arrested by the Mulleriyawa Police Station yesterday (10).
-
-The suspect is a resident of Piliyandala, aged 53.
-
-It has been revealed that the suspect had taken place in three robbery in the incident.
-
-◼️
-
-[Data](articles/b19923d1.json)
-
-[Extended Data](ext_articles/b19923d1.ext.json)
 
 ---

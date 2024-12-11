@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 08:09:35**
+As of **2024-12-11 08:57:35**
 
 ## Newspaper Stats
 
-*Scraped **59,554** Articles*
+*Scraped **59,559** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 603
-bbccomsinhala | 621
+bbccomsinhala | 622
 islandlk | 3,595
 economynextcom | 3,618
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,650
-adaderanalk | 7,246
-tamilmirrorlk | 8,496
+adalk | 5,651
+adaderanalk | 7,248
+tamilmirrorlk | 8,497
 virakesarilk | 9,778
 adaderanasinhalalk | 10,292
 
@@ -26,21 +26,103 @@ adaderanasinhalalk | 10,292
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,534 (100.0%) of 59,554 articles have been extended.
+59,541 (100.0%) of 59,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### සියයට 18 වැට් බද්ද හේතුවෙන් පොත් කර්මාන්තය අර්බුදයක
+### South Korean police search President Yoon’s office over martial law imposition, reports say
+
+*2024-12-11 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104153/south-korean-police-search-president-yoons-office-over-martial-law-imposition-reports-say) · `en`
+
+Yonhap news agency says police are searching President Yoon Suk Yeol’s office.
+
+Yonhap says the search is happening on Wednesday over Yoon’s Dec. 3 martial law declaration.
+
+The reported search happens as the country’s main law enforcement institutions are focusing on finding whether Yoon and others involved in the Dec. 3 martial law imposition committed rebellion.
+
+South Korea’s two highest police officers have been detained to be investigated for their roles in enforcing President Yoon Suk Yeol’s short-lived martial law decree last week, police said Wednesday.
+
+The development comes hours before the main liberal opposition Democratic Party submits a new motion to impeach Yoon as the country’s main law enforcement institutions expand their investigation into whether the president’s declaration amounted to rebellion. The first impeachment attempt failed last Saturday when the ruling party boycotted the vote. The Democratic Party said it aims to put the new motion to a vote on Saturday.
+
+...
+
+[Data](articles/14c70d47.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-12-11 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104152/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the low-pressure area over the southwest Bay of Bengal is very likely to continue to move west-northwestwards towards the Tamil Nadu coast close to Northern Sri Lanka during the next 24 hours.
+
+Showers or thundershowers will occur at times in Northern, North-central, Eastern and North-western provinces. Heavy showers above 100mm are likely at some places in Northern province.
+
+Showers or thundershowers may occur at several places elsewhere during the evening or night, it added.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern, Uva, Western and North-western provinces during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/332a9a25.json)
+
+---
+
+### Another person dies in Jaffna
+
+*2024-12-11 08:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காய்ச்சலால்-யாழில்-மேலும்-ஒருவர்-உயிரிழப்பு/175-348561) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Death toll rises in Jaffna: Mysterious fever claims another victim. Health officials warn of escalating danger as cases spread.
+
+🟩
+
+One person died on Tuesday due to a mysterious fever that has been spreading for the past few days in Jaffna district.. The health department has warned that the situation is becoming dangerous day by day.
+
+The mother of a child who had been caught by the fever for five days died yesterday without treatment.
+
+Yall. The deceased is Suresh Kumar Ranjita (33 years old) from Odkarai, a college road belonging to the Point Pedro Police Division.
+
+He was taking Panadol pills following a fever symptom on Friday 6th. He visited the Point Pedro Base Hospital on Monday after the fever did not stop. He is fed up there.
+
+He is immediately in Jaffna. He was transferred to the Teaching Hospital yesterday morning and died on Tuesday morning.
+
+The woman's respiratory tract has been severely affected and she may have had a fever or a rat fever.. However, the health department said that he died of the disease only after receiving test reports from Colombo.. (A)
+
+◼️
+
+[Data](articles/19f2f7ec.json)
+
+[Extended Data](ext_articles/19f2f7ec.ext.json)
+
+---
+
+### Book Industry in crisis due to VAT 18 per cent VAT
 
 *2024-12-11 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204251) · `si`
 
-පොත් ප්‍රකාශනය සඳහා පනවා ඇති සියයට 18ක වැට් බද්ද කඩිනමින් ඉවත් කිරීම සඳහා ආණුඩුව පියවර ගතයුතු බව ශ්‍රී ලංකා පොත් ප්‍රකාශකයින්ගේ සංගමය පවසයි.
+Here's a summary in 200 characters:
+
+
+
+"Book industry crisis due to 18% VAT. Government urged to remove VAT on book publishing to alleviate financial burden."
+
+🟩
+
+The government's arrangement should be taken to remove the 18 percent VAT expedition imposed on the book publication.
 
 ◼️
 
 [Data](articles/a480e117.json)
+
+[Extended Data](ext_articles/a480e117.ext.json)
 
 ---
 
@@ -100,23 +182,29 @@ The Department of Meteorology has advised the public to take necessary steps to 
 
 ---
 
-### අඩුපීඩන කලාපය උතුරු වෙරළ ආසන්නයේ - මි.මී 100 ඉක්මවූ තද වැසි
+### Lowed transaction zone near North Beach - Heavy Rains Over 100 mm
 
 *2024-12-11 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204248) · `si`
 
-නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අඩුපීඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට ගමන් කරමින් ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇත.
+Heavy rains forecasted for Tamil Nadu coast within 24 hours. Thunderstorms expected in northern, central, eastern, and northwestern provinces. Public advised to be cautious due to strong winds and lightning.
 
-උතුරු,උතුරු මැද, නැගෙනහිර සහ වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ. උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව දැනුම්දෙයි.
+🟩
 
-සෙසු ප්‍රදේශවල  සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The depending zone area of ​​the southwestern Bay of Bengal is continuing to reach the Thamilnadu coast with the North Western in the next 24 hours.
 
-මධ්‍යම, සබරගමුව, දකුණ, ඌව, බස්නාහිර සහ වයඹ පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+Showers or thundershowers will occur at times in the North, North Central, East and Northwestern provinces. MM to certain places in the Northern Province. The Department of Meteorology is informed that heavy rains will occur at 100.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at the evening or night.
+
+There is a murder in the morning in the Central, Sabaragamuwa, Southern, Uva, Uva, Uva and North Western Provinces.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/59cf835d.json)
+
+[Extended Data](ext_articles/59cf835d.ext.json)
 
 ---
 
@@ -156,6 +244,8 @@ The project seeks to address critical issues in electricity transmission network
 
 [Data](articles/1ee184a9.json)
 
+[Extended Data](ext_articles/1ee184a9.ext.json)
+
 ---
 
 ### Greenlect to launch SLFRS-aligned ESG Reporting Platform
@@ -167,6 +257,8 @@ Greenlect ESG Consulting Pte Ltd, an ESG consultancy headquartered in Singapore,
 ...
 
 [Data](articles/cc534b40.json)
+
+[Extended Data](ext_articles/cc534b40.ext.json)
 
 ---
 
@@ -181,6 +273,8 @@ Cabinet of Ministers on Monday approved the proposal by President Anura Kumara D
 ◼️
 
 [Data](articles/3bd1f26c.json)
+
+[Extended Data](ext_articles/3bd1f26c.ext.json)
 
 ---
 
@@ -213,6 +307,8 @@ The departure of Mr. Thilak Waththuhewa, principal of Royal College Colombo, has
 ...
 
 [Data](articles/cf8bd4b3.json)
+
+[Extended Data](ext_articles/cf8bd4b3.ext.json)
 
 ---
 
@@ -353,6 +449,28 @@ While the steps to promptly introduce a new digital driving licence in place of 
 [Data](articles/1bafbaf1.json)
 
 [Extended Data](ext_articles/1bafbaf1.ext.json)
+
+---
+
+### දියෙගෝ ගාර්සියා: රහසිගත රැඳවුම් කඳවුරක සිටි ශ්‍රී ලාංකික මවකගේ කතාව
+
+*2024-12-11 01:32:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx2ygy9greno) · `si`
+
+දියෙගෝ ගාර්සියා: රහසිගත රැඳවුම් කඳවුරක සිටි ශ්‍රී ලාංකික මවකගේ කතාව
+
+බ්‍රිතාන්‍යයේ දියෙගෝ ගාර්සියා දූපතේ තාවකාලික කඳවුරකට උදා වූ ඒ උදෑසන, ශාන්තිගේ සැමියා අවදි වී මුලින් ම දකින්නේ ඔවුන්ගේ කුඩා දරුවන් ආරක්ෂක වැටක් අතුරින් පිටත බලා සිටින දර්ශනය යි.
+
+ඉන්දියන් සාගරය මැද උපායමාර්ගිකව පිහිටුවා ඇති, එක්සත් රාජධානි - එක්සත් ජනපද හමුදා කඳවුරක් සහිත මෙම රහසිගත දූපතේ නිලධාරියෙකු සහ මුර බල්ලෙක් මුර සංචාරයේ යෙදෙන අයුරු බලා සිටින දරුවන් තියුණු ස්වරයකින් මෙසේ පවසයි: "බල්ලන්ටත් අපට වඩා නිදහසක් තියෙනවා."
+
+මෙය ඔවුන්ගේ පවුලේ දුක්ඛිත තත්ත්වය මැනවින් පිළිබිඹු කරවන දර්ශනයකි. ඔවුන් අහඹුවකින් මෙම රහසිගත හමුදා බලකොටුවේ සිර වූයේ, ඔවුන්ගේ වයස අවුරුදු පහක් සහ නවයක් වයසැති පුතු සහ දියණිය ද සමග ය.
+
+නිරන්තර අධීක්ෂණය යටතේ පැවති ඔවුන් රඳවා සිටි කුඩා කඳවුරේදී පවා, ඉගෙනීමේ කටයුතු කිරීමට, ආහාරයට අවශ්‍ය දෑ වගා කිරීමට මෙන් ම, විශේෂ අවස්ථා සමරමින් පවුලේ විනෝදාස්වාදය සපයා ගනිමින් සාමාන්‍ය ජීවිතයක් පවත්වාගෙන යාමට ඔවුන් ක්‍රම සොයාගෙන තිබිණි.
+
+හුදෙකලා හමුදා දූපතක රඳවා සිටි ශ්‍රී ලාංකික සරණාගතයින් පිරිසක් බ්‍රිතාන්‍යයට
+
+...
+
+[Data](articles/3fcade82.json)
 
 ---
 
@@ -1131,6 +1249,24 @@ At the beginning of the speech, he expressed his happiness and congratulations o
 [Data](articles/7f171fba.json)
 
 [Extended Data](ext_articles/7f171fba.ext.json)
+
+---
+
+### හාල් මිල අඩුකරන්න පාන් පිටි මිල අඩුකරන්න
+
+*2024-12-10 17:25:58* · [`adalk`](https://www.ada.lk/breaking_news/හාල්-මිල-අඩුකරන්න-පාන්-පිටි-මිල-අඩුකරන්න/11-413565) · `si`
+
+පාන් පිටි මිල අඩු කළහොත් පාන් මිල අඩු කළ හැකි බැවින්  එමගින් ඉබේටම හාල් මිල පාලනය වනු ඇතැයි සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා සඳහන් කරයි.
+
+රටේ ජනතාවට මූලික වශයෙන් අවශ්‍ය වන්නේ බත්, වුවද ආර්ථික අපහසුතා හේතුවෙන් වෙනත් විකල්පයකට යාමේදී සඟවා ඇති සහල් තොග එළියට ගෙන ඒමට සිදු වන බවද එමගින් සහල් මිල අඩු වීම හේතුවෙන් බත් පරිභෝජනයට ජනතාවට අවශ්‍ය වට පිටාව සකස් වන බවද ඒ මහතා පෙන්වා දෙයි.
+
+හාල් මාෆියාව මෙන්ම පාන් පිටි මාෆියාවක්ද පවතින බව පෙන්වා දෙන සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා සඳහන් කරන්නේ මේ වන විට සෑම අංශයකම මාෆියාවක් ක්‍රියාත්මක වන බවයි. උදාහරණ ලෙස බිත්තර සඳහාද පවතින්නේ මාපියාවක් බව හෙතෙම පෙන්වා දෙයි.
+
+හාල් මිල අසාමාන්‍ය ලෙස ඉහළ යෑම හේතුවෙන් ප්‍රායෝගික විකල්ප භාවිත කර එය, මැද මාවතකට ගෙන ඒම කළ යුතු දෙයක් බවත් හාල් වෙනුවට පාන් පිටි සහ පාන් පරිභෝජනයට  ජනතාව හුරු කිරීමක් මෙයින් අදහස් නොකරන බවත් ජයවර්ධන මහතා අවධාරණය කළේය.
+
+...
+
+[Data](articles/20cfc9e5.json)
 
 ---
 
@@ -2303,121 +2439,5 @@ The appointment has been made by President Anura Kumara Dissanayake and the rele
 [Data](articles/487079b1.json)
 
 [Extended Data](ext_articles/487079b1.ext.json)
-
----
-
-### CAA launches special raids to enforce new price limits for rice
-
-*2024-12-10 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104139/caa-launches-special-raids-to-enforce-new-price-limits-for-rice) · `en`
-
-The Consumer Affairs Authority (CAA) says that raids will be carried out from today (10) to identify the traders selling rice at prices higher than the maximum retail and wholesale price recently set by the government.
-
-CAA Chairman Hemantha Samarakoon stated that the decision was taken in accordance with the gazette notification issued yesterday (09), which specifies the new maximum retail and wholesale prices for rice.
-
-He emphasized that legal action will be taken against anyone found violating these new price regulations.
-
-He also urged traders, producers, wholesalers, and consumers to adhere to the announced rice prices.
-
-“If there is any irregularity or sale of rice at an excessive price, you can complain about it to the Consumer Affairs Authority via the hotline 1977. You can also complain to the Consumer Affairs Authority’s district offices and the head office,” CAA Chairman said.
-
-◼️
-
-[Data](articles/ee4d4e7e.json)
-
-[Extended Data](ext_articles/ee4d4e7e.ext.json)
-
----
-
-### New Secretary Appointment
-
-*2024-12-10 14:18:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்-நியமனம்/175-348529) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Anil Jasinghe named new Health & Media Minister Secretary. Appointed by President Anura Kumara Dissanayake. Official letter handed to Presidential Secretariat by Dr. Nandika Sanath Kumanayake.
-
-🟩
-
-Dr. Anil Jasinghe has been appointed as the new Secretary of the Ministry of Health and Media.
-
-The appointment was made by President Anura Kumara Dissanayake, the Presidential Media Unit said.
-
-The official appointment letter Mr.. Jasinghe was handed over to the Presidential Secretariat today by the President's Secretary Dr. Nandika Sanath Kumanayake.
-
-◼️
-
-[Data](articles/b59fd03b.json)
-
-[Extended Data](ext_articles/b59fd03b.ext.json)
-
----
-
-### Legend Saravanan in Georgia
-
-*2024-12-10 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/200896) · `ta`
-
-"The Legend" Saravanan stars in upcoming film "Senthil Kumar" in Georgia. Directed by Senthil Kumar, featuring Boyal Rajput, Andrea, and Sham. Music by Jibran Vaiboda. Shooting ongoing, release planned for next year. His previous film "The Legend" was commercially successful.
-
-🟩
-
-The film crew has released a special photo of Georgia, the leading businessman and actor of Tamil Nadu, The Legend Saravanan.
-
-Director tranquility. 'The Legend' Saravanan, Boyal Rajput, Andrea, Sham and many others star in the upcoming film Senthil Kumar directed by Senthil Kumar. The film, which is being recorded by Venkatesh, is composed by Jibran Vaiboda.The film is being produced by The Legend Saravanan.
-
-The film crew said that the shooting of the film is currently underway in Georgia and is scheduled to be released at the film mansion next year.
-
-Meanwhile, the film 'The Legend', which was released in the actor The Legend Saravanan, was somewhat welcomed by the fans and the film was a commercial success.
-
-◼️
-
-[Data](articles/626fd22b.json)
-
-[Extended Data](ext_articles/626fd22b.ext.json)
-
----
-
-### Gautaman starring in the final stage
-
-*2024-12-10 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/200893) · `ta`
-
-"Summarized: Gautaman stars in 'Padayanda Mahaera'. Director and actor. Final shoot stage. Cast includes Poojita, Samudrakani, Saranya Ponvannan. Music by V Prakash Kumar. Produced by Vikay Productions. Teaser soon."
-
-🟩
-
-Director and actor. The film crew has reached the final stage of the shooting of the film 'Padayanda Mahaera' which plays the hero of the story.
-
-Gautaman, Poojita, Samudrakani, Saranya Ponvannan, Redin Kingsley, Shadows Ravi, Tamil, Talawasal Vijay, Ala Alagappan, Mansoor AlikanVedalam Kabir, Madhusudhan Rao, Sai Deena and many others are acting.
-
-The film is being recorded by Vijayvel Mahendran and Gopi Jagadeeswaran. V Prakash Kumar has composed the music. The film has been produced by the Vikay Productions Group, which is a vigorous work to record the heroic history of the soil.
-
-Commenting on the film, the director said, “Our purpose is to create the history of the heroes who lived in the forests of sandalwood, cashew forest and Vanni forest.. The final phase of the film is currently underway. The teaser of the film will be released once it is complete. ”
-
-◼️
-
-[Data](articles/212e62fc.json)
-
-[Extended Data](ext_articles/212e62fc.ext.json)
-
----
-
-### Special Medical Specialist Anil Jasinghe appointed as the new Secretary of Health and Media Ministries
-
-*2024-12-10 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/200895) · `ta`
-
-Anil Jasinghe, medical specialist, named Secretary of Health and Media Ministries by President Anura Kumara Dissanayake. Appointment letter handed over on Tuesday.
-
-🟩
-
-President Anura Kumara Dissanayake has appointed specialist Anil Jasinghe as the new Secretary of Health and Media Ministries.
-
-The appointment letter was handed over to the President's Office by Dr. Sanath Nandika Kumanayake, the President of the President on Tuesday (10).
-
-◼️
-
-[Data](articles/3fd2d44c.json)
-
-[Extended Data](ext_articles/3fd2d44c.ext.json)
 
 ---

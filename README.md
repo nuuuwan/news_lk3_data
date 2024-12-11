@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 05:51:38**
+As of **2024-12-11 06:18:35**
 
 ## Newspaper Stats
 
-*Scraped **59,536** Articles*
+*Scraped **59,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 603
 bbccomsinhala | 621
-islandlk | 3,588
+islandlk | 3,595
 economynextcom | 3,618
-dailyftlk | 4,105
+dailyftlk | 4,107
 dailymirrorlk | 4,733
 adalk | 5,650
 adaderanalk | 7,246
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,289
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,530 (100.0%) of 59,536 articles have been extended.
+59,530 (100.0%) of 59,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### House of Cards: Sri Lanka’s sovereign bond fiasco and precarious balancing act of Central Bank
+
+*2024-12-11 05:51:40* · [`dailyftlk`](https://www.ft.lk/columns/House-of-Cards-Sri-Lanka-s-sovereign-bond-fiasco-and-precarious-balancing-act-of-Central-Bank/4-770342) · `en`
+
+CBSL further obfuscates the situation by maintaining an air of secrecy around the current holders of ISBs
+
+The Central Bank (CBSL) Governor’s sanguine assurances about Sri Lanka’s debt sustainability ring hollow in the face of Sri Lanka’s impending foreign exchange obligations. While the recently signed International Sovereign Bond (ISB) restructuring agreement is touted as a panacea, the reality paints a far grimmer picture. CBSL Governor’s nonchalant dismissal of a potential balance of payments crisis in the new year reminds of Pied Piper that led the rats of Hamelin to their grave while in a hallucinated trance.
+
+...
+
+[Data](articles/aea5d05c.json)
+
+---
+
+### Open letter to Education Ministry Secretary
+
+*2024-12-11 05:47:35* · [`dailyftlk`](https://www.ft.lk/columns/Open-letter-to-Education-Ministry-Secretary/4-770341) · `en`
+
+Following was sent to me by a very dedicated, loyal and caring young parent who wishes to remain anonymous due to obvious reasons. I sincerely hope you will study it well and take the most appropriate steps – not only because Royal College is both our alma mater – but because it’s one of the priceless assets of the nation and a lasting legacy left behind by the British Empire!
+
+Royal College leadership crisis: A systemic failure at the top?
+
+The departure of Mr. Thilak Waththuhewa, principal of Royal College Colombo, has triggered widespread discussion among stakeholders. While his promotion to a higher position in the Ministry of Education is a testament to his dedication and performance, the situation sheds light on the systemic leadership issues plaguing Sri Lanka’s most prestigious school.
+
+...
+
+[Data](articles/cf8bd4b3.json)
+
+---
 
 ### ‘AKD Govt. continues IMF agreement ignoring people’s mandate’
 
@@ -199,6 +229,64 @@ Eight suspects arrested on charges of assistance have been released on bail toda
 [Data](articles/d8007324.json)
 
 [Extended Data](ext_articles/d8007324.ext.json)
+
+---
+
+### Children First – Proposal for Protection and Promotion of Child Rights submitted to President
+
+*2024-12-10 22:50:00* · [`islandlk`](http://island.lk/children-first-proposal-for-protection-and-promotion-of-child-rights-submitted-to-president/) · `en`
+
+Stop Child Cruelty Trust (SCCT) and Child Protection Alliance (CPA) comprising thirteen credible organizations committed to protect and promote the rights of children have appealed to President, Anura Kumara Dissanayake and the newly elected Government of Sri Lanka (GOSL) elevate child welfare to the heart of national governance ushering a new dawn firmly focusing on the true beneficiaries of the future, our children first.
+
+...
+
+[Data](articles/a5671d29.json)
+
+---
+
+### E.B. Creasy Solar secures sustainable energy for S. Thomas’ College with a solar grid-tied system
+
+*2024-12-10 22:50:00* · [`islandlk`](http://island.lk/e-b-creasy-solar-secures-sustainable-energy-for-s-thomas-college-with-a-solar-grid-tied-system/) · `en`
+
+E.B. Creasy Solar recently oversaw the fitting of a solar energy solution at S. Thomas’ College, Mount Lavinia, powering a future of education with clean energy. E.B. Creasy Solar’s installation of the system was customized according to the College’s specific needs, underscoring the brand’s comprehensive support and reliability.
+
+Backed by 146-year legacy, E.B. Creasy Solar’s technology guarantees high returns and long-term savings with trust and reliability. A user can ‘bank’ energy produced during high production periods and draw on reserves when production is low. The energy system features a unique billing mechanism, allowing its owner to redirect excess generated electricity back to the main power grid. The technology reaffirms its versatility as an investment to maximise renewable energy outputs. Renowned for their reliability and quality, E.B. Creasy Solar offers island-wide aftersales service, ensuring that all customers receive ongoing support wherever they are.
+
+...
+
+[Data](articles/ed240d89.json)
+
+---
+
+### Book industry renews call for exemption from VAT, citing serious concerns
+
+*2024-12-10 22:47:00* · [`islandlk`](http://island.lk/book-industry-renews-call-for-exemption-from-vat-citing-serious-concerns/) · `en`
+
+Sri Lanka’s book industry has renewed its call for books to be exempt from tax, with four industry bodies submitting a proposal to the new government for inclusion in the next national budget.
+
+Urging the government to consider the financial as well as social ramifications of taxing sources of knowledge and learning, these associations representing publishers, writers, retailers, importers and exporters have called for books to be returned to the list of items exempt from tax, as was the case before 1st January 2024.
+
+In their proposal, the four associations pointed out that with all inputs for the publishing industry with the exception of local labour being imported, Sri Lanka’s book industry is already taxed at 33.045%, and the imposition of a value-added tax (VAT) of 18% at the point of sale has made books unaffordable to many, and is putting small-scale publishers out of business.
+
+...
+
+[Data](articles/3040cdd8.json)
+
+---
+
+### LOLC Group counters keep share market ticking
+
+*2024-12-10 22:43:00* · [`islandlk`](http://island.lk/lolc-group-counters-keep-share-market-ticking/) · `en`
+
+The stock market yesterday kicked off with mounting selling pressure due to profit- takings but later ended on a positive note for the eleventh consecutive day.
+
+The main reason for the market to perform well was the growing trend among mainly LOLC Group counters, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 79.2 points while S and P SL20 rose by 38.37 points.
+
+...
+
+[Data](articles/f4d05910.json)
 
 ---
 
@@ -1552,6 +1640,20 @@ Prime Minister Dr. Harini Amarasuriya and high officials of the Ministry have jo
 
 ---
 
+### Moratorium on implementation of parate law by banks extended till 31st March 2025
+
+*2024-12-10 16:11:00* · [`islandlk`](http://island.lk/moratorium-on-implementation-of-parate-law-by-banks-extended-till-31st-march-2025/) · `en`
+
+The Cabinet of Ministers has approved the proposal presented by  the President, in his capacity as the Minister of  Finance, Planning, and Economic Development, to extend the moratorium on implementation of parate law until 31-03-2025 and to prepare a multi-dimensional mechanism to solve this issue with the active contribution of all the parties including, Central Bank of Sri Lanka, government and private banks and other government institutions.
+
+The economic crisis encountered by Sri Lanka during the previous 04 years has severely affected the small and medium sector entrepreneurs, and it has been reported that difficulties have arisen in settling the loans obtained from banks.
+
+...
+
+[Data](articles/ce239ec6.json)
+
+---
+
 ### Digital Driver's License: Notification of Ministry
 
 *2024-12-10 16:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-சாரதி-அனுமதிப்-பத்திரம்-அமைச்சின்-அறிவிப்பு/175-348534) · `ta`
@@ -2355,179 +2457,5 @@ The suspect is scheduled to be produced before the Maligakanda Magistrate’s Co
 [Data](articles/2b1bc345.json)
 
 [Extended Data](ext_articles/2b1bc345.ext.json)
-
----
-
-### ADB approves USD 30 million financing facility for Sri Lanka’s CEB
-
-*2024-12-10 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104136/adb-approves-usd-30-million-financing-facility-for-sri-lankas-ceb) · `en`
-
-The Asian Development Bank (ADB) has approved a $30 million Small Expenditure Financing Facility (SEFF) for the Ceylon Electricity Board (CEB), guaranteed by the Democratic Socialist Republic of Sri Lanka, to bolster the sustainability of ongoing and future energy sector projects.
-
-...
-
-[Data](articles/75544701.json)
-
-[Extended Data](ext_articles/75544701.ext.json)
-
----
-
-### Speaker will make ‘responsible’ statement soon on doctorate controversy - Minister
-
-*2024-12-10 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104135/speaker-will-make-responsible-statement-soon-on-doctorate-controversy-minister) · `en`
-
-Speaker of the Parliament Asoka Ranwala will soon make a ‘responsible’ statement regarding the recent controversies related to his doctorate, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
-
-Responding to a question raised by a journalist during the Cabinet press conference held today (10), Dr. Jayatissa expressed that certain parties had even questioned about his own PhD as well.
-
-Furthermore, the Cabinet Spokesman mentioned that the government will arrive at a decision regarding the matter after the Speaker reports on his qualifications to the relevant authorities.
-
-“I will make a statement on what decision the government will take if the claims are true as well as if the claims are false”, he added.
-
-Various reports were circulated on social media over the doctorate of Speaker Ashoka Ranwala recently, and the controversy was seen escalated, with the Sri Lanka Parliament website recently removing the title “Dr.” from his profile in the members’ directory.
-
-◼️
-
-[Data](articles/5e1eef8c.json)
-
-[Extended Data](ext_articles/5e1eef8c.ext.json)
-
----
-
-### Minister Nalinda answers to the former President's letter
-
-*2024-12-10 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204227) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Former President Ranil Wickremesinghe claims no alcohol licenses were granted. Cabinet Spokesman Nalinda Jayatissa says liquor firms owe 7 billion rupees in taxes. Government aims to recover tax revenue.
-
-🟩
-
-Cabinet spokesman, Minister Dr. Nalinda Jayatissa said that alcohol firms had about 7 billion rupees and the government is working to recover the tax.
-
-He was responding to the announcement yesterday (9), claiming that former President Ranil Wickremesinghe had not given any alcohol license.
-
-The announcement issued by Ranil Wickremesinghe's office was further stated that the government earned over Rs. 3 billion by providing liquor licenses.
-
-"Ranil Wickremesinghe said that the former President said that the taxes were given to strengthen the durability of 900 barricots a year. A person who lives his retirement with the taxes of the country does not match this way.
-
-It's not giving bars. Ranil Wickremesinghe had not worked to bring about those barricots to sell the taxes for sale.. For example, the VECIES's three companies have their distress and surcharge from 2022. When the bars were taken, the decision was to collect unpaid taxed.
-
-...
-
-[Data](articles/d0d9ef6f.json)
-
-[Extended Data](ext_articles/d0d9ef6f.ext.json)
-
----
-
-### 3 -month -old baby dies after being treated at home
-
-*2024-12-10 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/200877) · `ta`
-
-3-month-old baby dies at home due to untreated cold symptoms. Parents work at South Bomb factory. Police investigation reveals baby slept on floor, blood milk leaked from nose.
-
-🟩
-
-Marawila police said that a 3 -month -old baby who was receiving treatment at home due to colds.
-
-A 3 -month -old girl from Dhammikagama, Puttalam, Dematapitiya, has died.
-
-The parents of the deceased child are working at a South Bomb factory, police said.
-
-Police investigations have revealed that the baby has been receiving treatment for a long time due to colds.
-
-On the day of the incident, police investigations revealed that blood and milk had been leaked from the baby's nose as the child was sleeping on the floor of the house with his parents.
-
-◼️
-
-[Data](articles/9d901121.json)
-
-[Extended Data](ext_articles/9d901121.ext.json)
-
----
-
-### "This issue must be handled emotionally"
-
-*2024-12-10 12:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்த-பிரச்சினையை-உணர்வுபூர்வமாக-கையாள-வேண்டும்/175-348525) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Ministry addresses crop damage by wildlife. Spokesman urges emotional handling. Government seeks balance between protecting crops and preserving wildlife. Environmental groups offer input on resolving conflicts."
-
-🟩
-
-Cabinet spokesman and minister Nalinda Jayatissa said that the Ministry of Environment and Technology and Research is being carried out by the Ministry of Environment and Research to carry out a long -term, scientific and sustainable solution to protect wild animals from destroying crops.
-
-Commenting on the media, he said the issue should be handled emotionally. According to statistics, the amount of some animal species has increased significantly, which challenges the people and their crops to advance their daily life.
-
-He said the government is currently implementing an equal approach to protect the livelihood of the people, the lives of wildlife and the environment.
-
-Environmental activists and NGOs have the right to express their views on allowing people to take action against animals that damage their crops. However, discussions are essential to detect standard solutions.
-
-...
-
-[Data](articles/8323c8b4.json)
-
-[Extended Data](ext_articles/8323c8b4.ext.json)
-
----
-
-### Fifty years after Dutch Martin fell down with 191 people
-
-*2024-12-10 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/200883) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-DC8 plane crash 50 years ago near Nordon Bridge, Sri Lanka. 191 people died when plane fell into mountains after technical failure. Witnesses describe tragic scene and recovery efforts.
-
-🟩
-
-Dutch Martinair DC8 flight of Dutch Martinair DC8 from the memories of Sri Lankans has been fifty years since December.
-
-The plane crashed into the seven virgin of the Nordon Bridge, which departed from Indonesia's Surabaya International Airport.
-
-The plane, which was traveling to Makkah, crashed into a mountain that was found among heavy forests.
-
-Following a technical failure on the plane, which was flying over 36,000 meters, the pilot was alleged that the pilot had brought the aircraft below 4000 meters at the behest of the aircraft.
-
-However, as the plane that was traveling above the Bogawantalawa Casalry reservoir was traveling to the height of the air, one of its wings fell into the mountain.
-
-Those who visited the site of the accident still carry the tragic memories of the accident.
-
-They share memories of the day that 'the body of the airplane was identified by her boyfriend and her body was taken to Indonesia.'
-
-...
-
-[Data](articles/4a22e3f5.json)
-
-[Extended Data](ext_articles/4a22e3f5.ext.json)
-
----
-
-### Sri Lanka secures USD 50 million loan from OPEC Fund for economic recovery
-
-*2024-12-10 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104134/sri-lanka-secures-usd-50-million-loan-from-opec-fund-for-economic-recovery) · `en`
-
-The Government of Sri Lanka has submitted a request to the OPEC Fund for International Development to secure funds to finance Sri Lanka’s Comprehensive Reform Agenda, in line with the Extended Fund Facility (EFF) implemented with the assistance of the International Monetary Fund (IMF).
-
-The institution has agreed to provide a loan of USD 50 million as a policy-based loan, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said this morning (10).
-
-Meanwhile, the IMF has also confirmed that the loan is in line with the parameters of the EFF program in Sri Lanka.
-
-Accordingly, the proposal submitted by the President, in his capacity as the Minister of Finance, Planning and Economic Development, to enter into a Loan Agreement with the OPEC Fund for International Development to obtain the said loan has received the Cabinet approval.
-
-◼️
-
-[Data](articles/d7580e2a.json)
-
-[Extended Data](ext_articles/d7580e2a.ext.json)
 
 ---

@@ -1,160 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 20:27:17**
+As of **2024-12-11 19:03:27**
 
 ## Newspaper Stats
 
-*Scraped **59,673** Articles*
+*Scraped **59,662** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 604
-bbccomsinhala | 623
+bbccomsinhala | 622
 islandlk | 3,595
 economynextcom | 3,633
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,667
+adalk | 5,664
 adaderanalk | 7,268
-tamilmirrorlk | 8,518
-virakesarilk | 9,793
-adaderanasinhalalk | 10,317
+tamilmirrorlk | 8,514
+virakesarilk | 9,791
+adaderanasinhalalk | 10,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,629 (99.9%) of 59,673 articles have been extended.
+59,616 (99.9%) of 59,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
-
-### කථානායගේ ආචාර්ය උපාධිය ගැන ආශු මාරසිංහ කළ පරීක්ෂාව
-
-*2024-12-11 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204280) · `si`
-
-කථානායක අසෝක රන්වල මහතාට ඔහු සඳහන් කළ ආකාරයේ ආචාර්ය උපාධියක් ලැබී ඇත්දැයි හිටපු පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය ආශු මාරසිංහ මහතා අද (11)  අන්තර්ජාලයෙන් පරීක්ෂාවක් සිදුකළේය.
-
-කථානායක අසෝක රන්වල මහතා ජපානයේ වසේඩා විශ්වවිද්‍යාලයෙන් ලබාගත් බව කියන ආචාර්ය උපාධිය සම්බන්ධයෙන් තොරතුරු සෙවීම සඳහා මහාචාර්ය ආශු මාරසිංහ මහතා මාධ්‍ය ඉදිරියේ අද එම විශ්වවිද්‍යාලයේ වෙබ් අඩවියට පිවිසුණි.
-
-එහිදී ඔහු කථානායකවරයාගේ නම සඳහන් කරමින් වසේඩා විශ්වවිද්‍යාලයේ වෙබ් අඩවියේ සෙවීමක් සිදුකළ ද කිසිදු තොරතුරක් එම දත්ත පද්ධතියේ සොයාගැනීමට හැකියාවක් නොලැබුණි.
-
-එබැවින් තමන්ගේ ආචාර්ය උපාධියේ සත්‍යතාවය සම්බන්ධයෙන් තොරතුරු ඉදිරිපත් කළ යුත්තේ කථානායක අසෝක රන්වල මහතාම බවද ඔහු එහිදී වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/6a5f2892.json)
-
----
-
-### Railway ticket booking
-
-*2024-12-11 19:57:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-பயணச்சீட்டு-முன்பதிவிலும்-மோசடி/175-348595) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Railway ticket booking scam: CID investigates after Deputy Minister Prasanna Gunasena reports groups reselling tickets at inflated prices. Fraudsters' phone numbers handed to CID. Strict checks ordered on bookings.
-
-🟩
-
-The Ministry of Transport and Highways said that the Criminal Investigation Department has lodged a complaint with the Criminal Investigation Department.
-
-Deputy Minister Dr. Prasanna Gunasena has stated that some groups have received many complaints about the train seat booking tickets on the website and then selling to domestic and foreign tourists at high prices.
-
-The Minister noted that the telephone numbers of those involved in the fraud have been handed over to the Criminal Investigation Department.
-
-Accordingly, all those involved in this fraud can be immediately put before the law.
-
-Deputy Minister, Dr. Prasanna Prasanna Gunasena has issued a directive to tighten tests relating to booked seat tickets.. Remble
-
-◼️
-
-[Data](articles/463aaf9a.json)
-
-[Extended Data](ext_articles/463aaf9a.ext.json)
-
----
-
-### Faizer Mustafa going to Parliament
-
-*2024-12-11 19:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செல்லும்-பைசர்-முஸ்தபா/175-348594) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Faizer Mustafa nominated for Parliament via National List in New Democratic Front. Election Commission issues gazette notification. Ravi Karunanayake proposes his candidacy.
-
-🟩
-
-The Election Commission has taken steps to issue a gazette notification by the name of Faizer Mustafa for the post of National List of the New Democratic Front.
-
-It is noteworthy that Ravi Karunanayake has taken a leading action to propose the name of one seat.. Remble
-
-◼️
-
-[Data](articles/b24c95d3.json)
-
-[Extended Data](ext_articles/b24c95d3.ext.json)
-
----
-
-### The government lifted Mahinda's security officers
-
-*2024-12-11 19:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பாதுகாப்பு-அதிகாரிகளை-தூக்கியது-அரசாங்கம்/175-348593) · `ta`
-
-Government removes 116 security officers from Mahinda Rajapakse's division. Attorney-at-Law Manoj Kamage claims this reduces the former president's safety.
-
-🟩
-
-Attorney -at -Law Manoj Kamage says the current government has taken steps to eliminate the security of former President Mahinda Rajapakse.
-
-He said this while attending a press conference held at the PA at the PA.
-
-He said that this was reported by a letter to the Defense Division of former President Mahinda Rajapaksa by the Deputy Inspector General of Human Resources Management.
-
-Accordingly, steps have been taken to remove 116 security officers from the former President's Security Division and all the experienced officials of the high -quality security have been removed.
-
-He added that the government is taking steps to reduce the safety of the former president who led to the abolition of terrorism.. Remble
-
-◼️
-
-[Data](articles/59207d22.json)
-
-[Extended Data](ext_articles/59207d22.ext.json)
-
----
-
-### The number of casualties in the mysterious fever in Jaffna
-
-*2024-12-11 19:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மர்ம-காய்ச்சலால்-உயிரிழந்தவர்களின்-எண்ணிக்கை-உயர்வு/71-348592) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaffna mysterious fever casualties rise to five. Ages 20-65 with fever & respiratory issues. Suspected leptospirosis but samples sent to Colombo for confirmation.
-
-🟩
-
-Jaffna Hospital Director Dr. T. Satyamoorthy has confirmed during a media briefing that the number of casualties in Jaffna has increased to five.
-
-The casualties are aged 20 to 65, suffering from fever and respiratory problems.
-
-Dr. Satyamoorthy said the disease is usually suspected to be a leptospirosis, known as elbow fever, but that the blood samples have been sent to Colombo for further inspection, he added.
-
-◼️
-
-[Data](articles/e620a557.json)
-
-[Extended Data](ext_articles/e620a557.ext.json)
-
----
 
 ### The Sri Lanka-New Zealand cricket tournament will be informed
 
@@ -338,121 +214,55 @@ We are talking about women and women in this movie. We have written the story fo
 
 ---
 
-### It is necessary to build people's confidence in health and mass media - Anil Jasinghe
+### சுகாதார, வெகுசன ஊடகத்துறை மீதான மக்கள் நம்பிக்கையை கட்டியெழுப்புவது அவசியம் - அனில் ஜாசிங்க
 
 *2024-12-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201006) · `ta`
 
-Here's a summary of 200 characters:
+சுகாதார மற்றும் வெகுசன ஊடகத்  துறை மீது மக்கள் வைத்திருந்த நம்பிக்கை நலிவுற்றுள்ளது. ஆகையால் இவ்விருத்துறைகள் மீதான மக்கள் நம்பிக்கையை மீள கட்டியெழுப்புவது மிக அவசியம் என சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் செயலாளர் விசேட வைத்திய நிபுணர் அனில் ஜாசிங்க தெரிவித்தார்.
 
+சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் செயளாலராக நியமிக்கப்பட்டுள்ள வைத்தியர் அனில் ஜாசிங்க  புதன்கிழமை சுகாதார அமைச்சில் உத்தியோகப்பூர்வமாக தனது கடமைகளை பொறுப்பேற்றுக் கொண்டார்.
 
+இதன்போது சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ  உள்ளிட்ட அமைச்சின் அதிகாரிகள் பிரசன்னமாகியிருந்தனர்.
 
-Rebuilding public trust in health and media crucial: Anil Jasinghe. As Health & Media Ministry Secretary, he vows to restore confidence through fair services and expert leadership. Challenges ahead, but commitment to progress remains strong.
+ஐந்து வருடங்களுக்கு பிறகு மீள சுகாதார அமைச்சில் அங்கம் வகிக்க கிடைத்ததை எண்ணி மகிழ்ச்சியடைகிறேன். நம்பிக்கை என்பது பொதுவாக சிலரிடம் இருக்கும் சிலரிடம் இருக்காது.
 
-🟩
-
-People's confidence in the health and mass media industry. Therefore, it is essential to rebuild people's confidence in these sectors, said Anil Jasinghe, Secretary of the Ministry of Health and Media, said.
-
-Dr. Anil Jasinghe, who has been appointed as the Secretary of the Ministry of Health and Mass Media, officially assumed his duties at the Health Ministry on Wednesday.
-
-Officials of the Ministry of Health and Media Media, including Dr. Nalinda Jayatissa, were present.
-
-Five years later, I am happy to think that I got a member of the Ministry of Health. Faith is not usually some of the people who have.
-
-Hope is like a rare type of gem. In order to win such confidence, we are looking forward to carrying out action with the guidance of the Minister of Health to provide a fair humanitarian service to the people who face the crisis.
-
-We will make a change of expected people with the Senior and Experted Officers of the Ministry of Health.
+நம்பிக்கை என்பது அரிய வகை இரத்தினம் போன்றது. அவ்வாறான நம்பிக்கையை வென்றெடுப்பதற்காக, நெருக்கடிக்கு முகங்கொடுத்துள்ள மக்களுக்கு நியாயமான மனிதாபிமானத்துடன் கூடிய சேவையை வழங்க சுகாதார அமைச்சரின் வழிகாட்டலுடன் நடவடிக்கைகளை முன்னெடுக்க எதிர்பார்த்துள்ளோம்.
 
 ...
 
 [Data](articles/459a31cf.json)
 
-[Extended Data](ext_articles/459a31cf.ext.json)
-
 ---
 
-### The number of people suffering from mice has increased to 10 thousand
-
-*2024-12-11 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201002) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Rat fever cases surge: 10k+ reported this year. Rainy season & paddy cultivation linked to outbreak. Symptoms: fever, headache, body pain. Seek immediate medical attention.
-
-🟩
-
-Approximately 10 thousand patients have been identified in the country so far this year.
-
-Kumuda Weerakoon, a specialist in the epidemic unit, said the number of patients identified as the prevailing rainy climate and majority of paddy has begun.
-
-He was speaking at a special media briefing organized by the Health Development Bureau on Wednesday (11) regarding the spread of the flu.
-
-Last year alone, nine thousand people were identified and 200 people were killed and 200 people died from the country.. Most of the patients have been diagnosed in the districts of Ratnapura, Kurunegala, Galle, Matara and Colombo.
-
-10 to 12 districts have been identified as high risk areas. Approximately 10 thousand patients have been identified so far this year alone.
-
-Due to the prevailing rainy weather, the number of infections is also likely to increase.
-
-...
-
-[Data](articles/ec6b1a51.json)
-
-[Extended Data](ext_articles/ec6b1a51.ext.json)
-
----
-
-### Meeting Chinese Army Science Academy Inspectors and Representatives of Batfire Foundation
+### சீன இராணுவ விஞ்ஞான அகடமி ஆய்வாளர்கள் மற்றும் பாத்பைன்டர் பவுன்டேஷன் பிரதிநிதிகள் சந்திப்பு
 
 *2024-12-11 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201003) · `ta`
 
-Here's a summary in 200 characters:
+நாட்டுக்கு வருகைதந்திருக்கும் பெய்ஜிங்கின் இராணுவ விஞ்ஞான அகடமியின் ஆய்வாளர்களுக்கும் பாத்பைன்டர் பவுன்டேஷன் அமைப்பின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பு அண்மையில் பேலியகொடவில் அமைந்திருக்கும் அவ்வமைப்பின் தலைமையகத்தில் நடைபெற்றது.
 
+பாத்பைன்டர் பவுன்டேஷன் அமைப்புடனான தொடர்புகளை வலுப்படுத்துவதுடன், இருதரப்பினருக்கும் நன்மையளிக்கக்கூடிய விடயங்கள் குறித்துக் கலந்துரையாடும் நோக்கில் இலங்கைக்கு வருகைதந்திருக்கும் பெய்ஜிங் இராணுவ சட்டக்கட்டமைப்பு கற்கைகள் நிறுவனத்தைப் பிரதிநிதித்துவப்படுத்தி இயங்கிவரும் இராணுவ விஞ்ஞான அகடமியின் பிரதிநிதிகள், இலங்கையும் சீனாவும் ஒன்றிணைந்து பணியாற்றுவதற்கு ஏதுவான புதிய வாய்ப்புக்கள் தொடர்பில் விரிவாக ஆராய்ந்தனர்.
 
-
-Beijing Army Science Academy reps met Batfire Foundation reps in Peliyagoda. Discussed strengthening ties, Chinese-Sri Lankan relations, security sector regulations, military law comparisons, and diplomatic policy approaches.
-
-🟩
-
-A meeting between Beijing's Army Science Academy and representatives of the Batfire Foundation Organization was recently held at the headquarters in Peliyagoda.
-
-Representatives of the Military Science Academy, representing the Beijing Military Law Studies Institute in Sri Lanka, have extended the new opportunities to strengthen relations with the Builder Foundation and discuss the benefits of both sides.
-
-During the meeting, a variety of important issues were discussed in detail, including a Zone, the Chinese -Sri Lankan relationship, the security sector regulations of the two countries, the comparison of the military law and the Pathpine Foundation, and the approaches to the establishment of a successful diplomatic policy system.
-
-◼️
+...
 
 [Data](articles/1828cc05.json)
 
-[Extended Data](ext_articles/1828cc05.ext.json)
-
 ---
 
-### Faizer Mustapha is gazetted
+### ෆයිසර් මුස්තාපාගේ නම ගැසට් කෙරේ
 
 *2024-12-11 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204276) · `si`
 
-Here's a summary of 200 characters:
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීධුරය ස﻿ඳහා ෆයිසර් මුස්තාපා මහතාගේ නම ගැසට් කර තිබේ.
 
+මැතිවරණ කොමිෂන් සභාව විසින් මෙම ගැසට් නිවේදනය නිකුත් කිරීමට පියවර ගෙන තිබේ.
 
+පසුගිය පාර්ලිමේන්තු මැතිවරණයෙන් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ජාතික ලැයිස්තු මන්ත්‍රීධුර දෙකක් හිමිවිය.
 
-Faizer Mustapha named in Democratic Front list. Election Commission issues gazette notification. NDF won 2 seats in last polls, proposed Ravi Karunanayake for both.
-
-🟩
-
-The name of the national listing of the new Democratic Front has been gazetted.
-
-Steps have been taken to issue the gazette notification by the Elections Commission.
-
-The New Democratic Front won two national listings in the last parliamentary election.
-
-The front was taken to propose Ravi Karunanayake, former parliamentarian for each of them.
+ඉන් එක් මන්ත්‍රීධුරයක් සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන රවී කරුණානායකගේ නම යෝජනා කිරීමට එම පෙරමුණේ විසින් පියවර ගෙන තිබුණි.
 
 ◼️
 
 [Data](articles/5349c652.json)
-
-[Extended Data](ext_articles/5349c652.ext.json)
 
 ---
 
@@ -498,49 +308,17 @@ Further investigations have been initiated into other violations, including the 
 
 ---
 
-### කෝටි 13 ක මත්ද්‍රව්‍ය කහතුඩුවෙන් සොයා ගනී
-
-*2024-12-11 17:13:23* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-13-ක-මත්ද්‍රව්‍ය-කහතුඩුවෙන්-සොයා-ගනී/11-413586) · `si`
-
-කහතුඩුව වෑතර ප්‍රදේශයේ නිවසක් වටලා රුපියල් කෝටි 13  ක් පමණ වටිනා මත්ද්‍රව්‍ය තොගයක් සමග පුද්ගලයෙක් අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකා සංවිධානාත්මක අපරාධ මර්ධන ඒකකය කියයි.
-
-එම සැකකරු සමග හොරයින් මත්කුඩු කිලෝ 5 ක් අයිස් මත්ද්‍රව්‍ය ගෑම් 500 ක් හා ඩාන්සින් ටැබ්ලට් 950 ක් පොලිස් භාරයට ගෙන ඇත.
-
-පොලිස් විශේෂ කාර්ය බළකා සංවිධානාත්මක අපරාධ මර්ධන ඒකක 2 වෙත ලද තොරතුරක් අනුව සැකකාර පුද්ගලයා අයිස් මත්ද්‍රව්‍ය  කිලෝවක් යතුරුපැදියකින් ප්‍රවාහනය කරමින් සිටියදී  අත්අඩංගුවට ගෙන සිදු කළ ප්‍රශ්න කිරීමේදී මත්ද්‍රව්‍ය  ගබඩා කර තිබෙන නිවස කහතුඩුව වෑතර ප්‍රදේශයේ බවට අනාවරණය කිරීමෙන් අනතුරුව එම නිවස වටලා සෙසු මත්ද්‍රව්‍ය  තොගය සොයා ගත් බව පොලිසිය කියයි.
-
-එම සැකකරුගෙන් තවදුරටත් සිදු කළ දීර්ඝ ප්‍රශ්න කිරීමේදී ඩුබායි රාජ්‍යයේ සැඟව සිට මෙරට මත්ද්‍රව්‍ය ජාවරා මෙහෙයවන කාංචනා නැමැති කාන්තාවක් ගේ මත්ද්‍රව්‍ය  බවට අනාවරණය කළ බව පොලිසිය  සඳහන් කරයි.
-
-අදාල නිවස මීට මාසෙකට පමණ ඉහතදී රුපියල් 25000/= මාසික කුලී පදනම මත ලබා ගත් බවට අනාවරණය වී යැයි පොලිසිය කියයි.
-
-...
-
-[Data](articles/cb37f5ef.json)
-
----
-
-### Human rights and responsibilities
+### மனித உரிமைகளும் பொறுப்புக்களும்
 
 *2024-12-11 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200995) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வளர்ந்து வருகின்ற இன்றைய தொழிநுட்ப உலகில் காலத்திற்கு காலம், நிமிடத்துக்கு நிமிடம், செக்கனுக்கு செக்கன் மாற்றங்கள் இடம்பெற்றுக் கொண்டிருப்பதுடன், சமூக, அரசியல், கலாசார பொருளாதார விஞ்ஞான மற்றும் தொழிநுட்ப ரீதியாக துரித கதியில் மனித வாழ்க்கையின் இருப்பினை உறுதிசெய்து கொள்ளும் வகையில் இன்றைய சிந்தனையில் மனித உரிமைகளும் அதனுடன் இணைந்த மனித பொறுப்புக்களும் ஒன்றிலிருந்து ஒன்று பிரிக்க முடியாத வகையில் அமைவதுடன் காலத்தின் தேவைக்கேற்ப முக்கியத்துவமும், முன்னேற்றகரமான மனித வாழ்வின் தன்மானம், உயிர்வாழ்தல் அடிப்படையில் மனித வாழ்க்கையில் உரிமைகளின் தாற்பரியமும் உணரப்பட்டு வருகின்றது.
 
-
-
-Human rights & responsibilities: Global recognition, UN Declaration 1948. Importance in tech era. Challenges in implementation. Equal rights for all despite differences. Need for awareness & education to strengthen human rights in society.
-
-🟩
-
-In today's growing technology world, the second, minute, minute, secondary and secondary human rights, human rights and human responsibilities in today's thought are to ensure the existence of social, political, cultural and cultural science and technology in today's thought.The importance of the need, the dignity of the progressive human life, and the right to the rights of human life in terms of survival.
-
-Human rights and human responsibilities have a close connection with each other. Every human being born naturally is obliged to live freely in society and is called human rights.
-
-Human rights have been identified globally with a variety of rights. In general, rights are human demands accepted and finally implemented by society and the state.
+ஒரு நாணயத்தின் இருபக்கம் போல் மனித உரிமைகளும், மனித பொறுப்புக்களும் ஒன்றுடனொன்று நெருக்கமான தொடர்பினை கொண்டிருக்கின்றது. இயற்கையாக பிறந்த ஒவ்வொரு மனிதனும் சமுதாயத்தில் சுதந்திரமாக வாழ்வதற்கு கடமைப்பட்டுள்ளதுடன் மனிதனின் இருப்பிற்கு அவசியமான உரிமைகள் மனித உரிமைகள் எனப்படுகின்றது.
 
 ...
 
 [Data](articles/be31a2d2.json)
-
-[Extended Data](ext_articles/be31a2d2.ext.json)
 
 ---
 
@@ -592,119 +370,37 @@ Overall, the report said the economy will likely contract 1% in annual terms in 
 
 ---
 
-### Super Star Rajinikanth's preview of actor Gunanidhi
+### சுப்பர் ஸ்டார் ரஜினிகாந்த் வெளியிட்ட நடிகர் குணாநிதியின் 'அலங்கு' திரைப்படத்தின் முன்னோட்டம்
 
 *2024-12-11 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200990) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+'செல்ஃபி' படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் குணாநிதி கதையின் நாயகனாக நடித்திருக்கும் 'அலங்கு' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
 
+இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான சுப்பர் ஸ்டார் ரஜினிகாந்த் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
 
+இயக்குநர் எஸ். பி. சக்திவேல் இயக்கத்தில் உருவாகி இருக்கும் 'அலங்கு' எனும் திரைப்படத்தில் குணாநிதி, செம்பன் வினோத் , காளி வெங்கட் , சரத் அப்பாணி,  ஸ்ரீ ரேகா , கொற்றவை , ரெஜின் ரோஸ் , சண்முகம் முத்துச்சாமி , மாஸ்டர் அஜய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-"Super Star Rajinikanth congratulates 'Alanku' crew. Gunanidhi debuts Tamil cinema after 'Selfie'. Director Sakthivel's film stars Semban Vinod, Kali Venkat. Exciting border scenes increase expectations."
-
-🟩
-
-The preview of the film 'Alanku', starring the hero of the story of actor Gunanidhi, who has made his debut for Tamil fans through 'Selfie'.
-
-Super Star Rajinikanth, the leading star actor of the Tamil film industry, has congratulated the film crew.
-
-Director S.. B.. Sakthivel's upcoming film 'Alanku' stars Gunanidhi, Semban Vinod, Kali Venkat, Sarath Appani, Sri Rekha, Kothavai, Regin Rose, Shanmugam Muthushami, Master Ajay.
-
-S.. Ajish has composed the film, which has been recorded by Pandi Kumar. The film was made on behalf of DG Film Company and Magnus Productions.. Sabarish and Sangam Mithra Chaumia Anbumani have co -produced.
-
-It is noteworthy that Sangamitra Chaumia Anbumani is one of the political parties of Tamil Nadu, Dr. Ramadas, founder of the proletariat.
-
-The film is currently being released on the 27th of this month at the film House.
+எஸ். பாண்டி குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஜீஷ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை டி ஜி ஃபிலிம் கம்பனி மற்றும் மேக்னஸ் புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் டி . சபரீஷ் மற்றும் சங்க மித்ரா சௌமியா அன்புமணி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
 
 ...
 
 [Data](articles/4f0c2127.json)
 
-[Extended Data](ext_articles/4f0c2127.ext.json)
-
 ---
 
-### Actor Kalidas Jayaram's wedding: Chief Minister MK Stalin congratulates
+### நடிகர் காளிதாஸ் ஜெயராம் திருமணம்: முதல்வர் மு.க.ஸ்டாலின் வாழ்த்து
 
 *2024-12-11 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200988) · `ta`
 
-Kalidas Jayaram weds Dharani Kalingarayar. CM MK Stalin congratulates. Celebrities attend reception. Actor debuts in Tamil films. Directed by Lokesh Kanakaraj.
+மலையாளம் மற்றும் தமிழ் திரையுலகில் பிரபலமான நடிகர் ஜெயராமின் மகனும், நடிகருமான காளிதாஸ் ஜெயராம் மற்றும் தாரணி காளிங்கராயர் ஆகியோரின் திருமண வரவேற்பில் பங்கு பற்றி, தம்பதிகளுக்கு தமிழக முதல்வர் மு. க. ஸ்டாலின் வாழ்த்து தெரிவித்தார்.
 
-🟩
+'மீன் குழம்பும் மண் பானையும்' என்ற படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமானவர் நடிகர் காளிதாஸ் ஜெயராம். இப்படத்தை தொடர்ந்து 'புத்தம் புது காலை', 'பாவ கதைகள்' ஆகிய ஆந்தாலஜி பாணியிலான திரைப்படத்திலும் நடித்து ரசிகர்களை கவர்ந்தவர்.
 
-The Chief Minister of Tamil Nadu, Kalidas Jayaram and Dharani Kalingarayar, the son of the famous actor Jayaram, the famous actor in Malayalam and Tamil film industry, participated in the wedding reception of the couple.. G. Stalin congratulated him.
-
-Actor Kalidas Jayaram made his debut for Tamil fans with the film 'Fish Cum Potam and Main Potam'. Following the film, he also acted in the film 'Putham New Morning' and 'Poor Stories'.
-
-Kamal Haasan - Director Lokesh Kanakaraj became famous for his upcoming film 'Vikram'.. Following the film, Ba Ranjith has directed the 'Stars Moves', 'War', 'Indian 2' and 'Rayan'.
-
-He and his long -time girlfriend, Dharani Kalingarayar, were married with the consent of the parents.Accordingly, their wedding was held on the eighth day of the Guruvayuruppan Temple in Guruvayur in the presence of relatives.
-
-This was followed by a massive wedding reception. Tamil Nadu Chief Minister. Ka Stalin and his spouse Durga Stalin congratulated the bride on the role.
+மேலும் கமல்ஹாசன் - இயக்குநர் லோகேஷ் கனகராஜ் கூட்டணியில் வெளியாகி பிரம்மாண்ட வெற்றியைப் பெற்ற 'விக்ரம்' படத்திலும் நடித்து பிரபலமானார். இந்த திரைப்படத்தை தொடர்ந்து பா ரஞ்சித் இயக்கிய 'நட்சத்திரங்கள் நகர்கிறது' , 'போர்', ' இந்தியன் 2 ', 'ராயன்' ஆகிய படங்களிலும் நடித்து பிரபலமான முன்னணி நட்சத்திர நடிகராக வலம் வருகிறார்.
 
 ...
 
 [Data](articles/53407246.json)
-
-[Extended Data](ext_articles/53407246.ext.json)
-
----
-
-### Nilantha and the prince reject the basic protests
-
-*2024-12-11 17:01:55* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-සහ-පූජිතගේ-මූලික-විරෝධතා-ප්‍රතික්ෂේප-කරයි/11-413585) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Nilantha and Prince reject basic protests. District IGP rejects case transfer under Police Ordinance. Lawyers argue police officers opposed Easter bombings. Judge orders proof of accused within case timeframe. Case directed to other cases on Dec 13. Senior Attorney Waruna Senadheera represents client. Attorneys Samadhi Gamlath and Samarachchi Gamlath also present.
-
-🟩
-
-District IGP, Chief Intelligence ProtestantLalith Kannangara rejected today (11).
-
-Attorneys who appeared in the case of the previous trial by the victims of the Passwords of the Passwords were previously trial.Since there are officers, any case against them should be transferred with the provisions of the Police Ordinance.
-
-However, the complainant cases were filed inappropriation of compensation against his clients, as the bombs were not carried out within three months.
-
-The primary protest was asked to resolve the trial in the origins of the case as a basic legal issue in the origins of the court.
-
-The lawyers have argued that the police officers who were strictly opposed to the Easter bomb blast.. After learning about it, the complaints have been taken to take place in the due time and the complaints have been taken to the complaint.
-
-...
-
-[Data](articles/4256aa4f.json)
-
-[Extended Data](ext_articles/4256aa4f.ext.json)
-
----
-
-### Partners have not been notified of the appointment of Faizer Mustafa - Vajira Abeywardena
-
-*2024-12-11 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200978) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Faizer Mustafa's appointment as National List member violates UNP rules. Secretary lacks authority. Partner parties unaware. Action promised. Committee formed to investigate Ravi Karunanayake's appointment. President's lawyer to discuss with New Democratic Front parties.
-
-🟩
-
-Its secretary does not have the authority to appoint the National List members of the New Democratic Front. Faiser Mustafa's appointment has not been notified to partner parties. United National Party (UNP) Chairman Vajira Abeywardena said that appropriate action will be taken soon.
-
-A compliance between the party leaders was reached when it was decided to contest the general election in the cooking gas symbol. It was also decided to sign a contract with the New Democratic Front.
-
-The agreement was handed over to Sharmila Perera as the secretary of the coalition. Copies of the Agreement to date have not been provided to any partner party. Similarly, the agreement has not yet been taken.
-
-The new Democratic Front's partner party leaders should decide on the appointment of National List Member. The secretary of the new Democratic Front has no power to appoint a national list member.
-
-...
-
-[Data](articles/d2b1d85f.json)
-
-[Extended Data](ext_articles/d2b1d85f.ext.json)
 
 ---
 
@@ -725,24 +421,6 @@ The second phase upgraded the Archeology Museum’s displays and facilities, cre
 [Data](articles/ea92daf0.json)
 
 [Extended Data](ext_articles/ea92daf0.ext.json)
-
----
-
-### ලංකා කම්කරු කොන්ග්‍රසය ප්‍රතිසංවිධානය කිරිමට යයි
-
-*2024-12-11 16:56:31* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොන්ග්‍රසය-ප්‍රතිසංවිධානය-කිරිමට-යයි/11-413584) · `si`
-
-ලංකා කම්කරු කොන්ග්‍රසය ප්‍රතිසංවිධානය කර ඉදිරියේදි පැවැත්වෙන පළාත් පාලන මැතිවරණයේදි පළාත් පාලන ආයතනවල බලය ලංකා කම්කරු කොන්ග්‍රසය සතු කර ගැනිමට ජාතික සභාව (11) දින තිරණය කල බව එම පක්ෂයේ ජෙෂ්ඨ උප සභාපති කනපති කනගරාජ් මහතා පැවසිය.
-
-කනපති කනගරාජ් මහතා ඒ බැව් කියා සිටියේ එම පක්ෂයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා සහ මහ ලේකම් නුවරඑලිය දිස්ත්‍රික් පා.ම ජිවන් තොණ්ඩමන් මහතාගේ ප්‍රධානත්වයෙන් (11) දින හැටන් කොටගල ලංකා කම්කරු කොන්ග්‍රස් මුලස්ථානයේ පැවති ජාතික සභාවේ ගත් තිරණ සම්බන්ධයෙන් මාධ්‍ය දැනුවත් කරමිණි.
-
-මෙහිදි වැඩිදුරටත් අදහස් දැක් වු කනපති කනගරාජ් මහතා කියා සිටියේ තම පක්ෂය ලබන වසරේ ජනවාරි මස ප්‍රතිසංවිධාන කටයුතු සිදු කරන බවත්, එහිදි පක්ෂ නායකත්වය හැර අනෙකුත් නිලයන් වෙනස් කර ඒ සදහා තරුණ කණ්ඩායම් පත් කර, එම කණ්ඩායම් වල අදහස් ලබා ගනිමින් ලංකා කම්කරු කොන්ග්‍රසය යලිත් ශක්තිමත් කරන බවයි.
-
-ජිවන් තොණ්ඩමන් මහතා වතුකරයේ ජනතාවට හිමිකම් ඔප්පු ලබාදිමේ වැඩසටහනක් දියත් කර තිබු බවත්, එම වැඩසටහන වත්මන් රජය මගින්ද සිදු කිරිම සම්බන්ධයෙන් රජයට සහය දක්වන බවයි කනපති කනගරාජ් මහතා කියා සිටියේ.
-
-...
-
-[Data](articles/5bd1400e.json)
 
 ---
 
@@ -1287,28 +965,6 @@ This petition was taken up for hearing before the three-member Supreme Court jud
 [Data](articles/1f852f94.json)
 
 [Extended Data](ext_articles/1f852f94.ext.json)
-
----
-
-### අශෝක රන්වල: ආන්දෝලනයට තුඩු දී ඇති තම  උපාධි ගැන කතානායකවරයා බීබීසීයට කිව්වේ මොනවාද?
-
-*2024-12-11 14:15:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8dq4270175o) · `si`
-
-අශෝක රන්වල: ආන්දෝලනයට තුඩු දී ඇති තම  උපාධි ගැන කතානායකවරයා බීබීසීයට කිව්වේ මොනවාද?
-
-අධ්‍යාපන සුදුසුකම් මුල් කරගනිමින් කතානායක අශෝක සපුමල් රන්වලට තම ධුරයෙන් ඉවත් වන්නැයි කෙරෙන බලපෑම මේවන විට තීව්‍ර වෙමින් තිබේ.
-
-පාර්ලිමේන්තුව ඉදිකළ භූමිය, ඉදිකිරීම් කළ හැටි සහ එහි ව්‍යුහය පිටුපස කතාව
-
-කතානායකවරයාගේ මුලික උපාධිය සහ ආචාර්ය උපාධිය ව්‍යාජයක් බවට වන ප්‍රකාශ සමාජ මාධ්‍ය ඔස්සේ 'කටකතාවක්' ලෙස මුලිකව පැතිරී ගිය අතර; ඒ සම්බන්ධයෙන් සත්‍ය නිරාවරණය කරන ලෙසට දැන් විපක්ෂ දේශපාලනඥයින්, විශ්වවිද්‍යාල ආචාර්යවරුන්ගෙන් මෙන්ම සිවිල් හා දේශපාලන ක්‍රියාකාරීන්ගෙන් ආණ්ඩුව වෙත එල්ල වන පීඩනය ද වැඩි වෙමින් තිබේ.
-
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරල දෙසැම්බර් 10 වැනිදා ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් කියා සිටියේ "අපි ගාව තියෙනවා ජපානයේ වසේදා විශ්ව විද්‍යාලයෙන් ගෙන්න ගත්ත එකක් එහෙම කෙනෙක් එහේ අධ්‍යාපනය ලබලා නැහැ කියලා."
-
-"මේ රටේ උත්තරීතරම ආයතනය පාර්ලිමේන්තුව. කතානයක කියන්නේ මෙරටේ තුන්වන තනතුර.ජනාධිපති, අගමැති, කතානායක. කතානායක කියන්නේ හෑල්ලු කරන්න පුළුවන් තනතුරක් නෙමෙයි." ඇය එහිදී කියා සිටියාය.
-
-...
-
-[Data](articles/9c21d797.json)
 
 ---
 
@@ -2343,5 +1999,255 @@ The commission also enforces the segregation of life and non-life insurance busi
 [Data](articles/68f2084b.json)
 
 [Extended Data](ext_articles/68f2084b.ext.json)
+
+---
+
+### Israel targets Syria: 480 strikes in 48 hours after Assad’s ouster
+
+*2024-12-11 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104156/israel-targets-syria-480-strikes-in-48-hours-after-assads-ouster) · `en`
+
+The Israeli military announced on Tuesday that it conducted approximately 480 airstrikes over the past 48 hours, targeting key military installations across Syria. This escalation comes days after the removal of President Bashar al-Assad from power.
+
+“Within the last 48 hours, the IDF (Israel Defense Forces) struck most of the strategic weapons stockpiles in Syria, preventing them from falling into the hands of terrorist elements,” the Israeli military said.
+
+The strikes reportedly destroyed naval vessels, anti-aircraft systems, and weapons production sites across major cities, including Damascus, Homs, Tartus, Latakia, and Palmyra.
+
+...
+
+[Data](articles/6376f31a.json)
+
+[Extended Data](ext_articles/6376f31a.ext.json)
+
+---
+
+### அரிசியை அதிக விலைக்கு விற்ற 50 பேர் சிக்கினர்
+
+*2024-12-11 09:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அரிசியை-அதிக-விலைக்கு-விற்ற-50-பேர்-சிக்கினர்/150-348562) · `ta`
+
+கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசி விற்பனை செய்த 50 கடைகளுக்கு எதிராக நேற்று (10) நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+
+கட்டுப்பாட்டு விலைக்கு அப்பால் அரிசியை விற்பனை செய்பவர்களை கைது செய்யும் நடவடிக்கையும், இருப்புக்களை மறைத்து வைத்திருப்பவர்களை கைது செய்யும் நடவடிக்கையும் இன்று (11) முதல் விஸ்தரிக்கப்படவுள்ளதாக அதன் பணிப்பாளர் அசேல பண்டார குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/c3c63a81.json)
+
+---
+
+### 50 people trapped in selling rice at high prices
+
+*2024-12-11 09:09:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-அதிக-விலைக்கு-விற்ற-50-பேர்-சிக்கினர்/175-348562) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Consumer Affairs Authority takes action against 50 stores selling rice above control price. Director Asela Bandara vows to expand arrests of price violators and reserve concealers from today onwards.
+
+🟩
+
+The Consumer Affairs Authority said that action has been taken yesterday (10) against the 50 stores that sold the rice at a higher price than the control price.
+
+Its Director Asela Bandara said that the arrest of those who sell rice beyond the control price and the arrest of those who concealed the reserves will be expanded from today (11).. Remble
+
+◼️
+
+[Data](articles/f160dcf8.json)
+
+[Extended Data](ext_articles/f160dcf8.ext.json)
+
+---
+
+### CEB purchased thermal power despite surplus hydro and coal reserves?
+
+*2024-12-11 09:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104155/ceb-purchased-thermal-power-despite-surplus-hydro-and-coal-reserves) · `en`
+
+The Technical Engineers and Supervisors Association of the Ceylon Electricity Board (CEB) allege that the state-owned electricity provider has procured electricity from private thermal power plants, even as reservoir levels associated with hydro-power plants are at their maximum as a result of recent heavy rainfall.
+
+Speaking on the matter, the association’s Vice President, Nandana Udayakumara, called for an investigation into the decision, questioning whose interests are being served by such actions.
+
+“We have had significant rainfall recently, sufficient to fill the reservoirs powering our hydro-power plants. Additionally, the Norochcholai coal power plant currently has sufficient coal stocks to operate at full capacity,” Udayakumara said.
+
+...
+
+[Data](articles/69c3e4ec.json)
+
+[Extended Data](ext_articles/69c3e4ec.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 290.25/30 to dollar, bonds steady
+
+*2024-12-11 09:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-25-30-to-dollar-bonds-steady-193438/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.25/30 to the US dollar on Wednesday from 290.30/35 to the US dollar on Tuesday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.10.2027 was quoted at 9.90/10.00 percent, from 9.90/10.05 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.35/45 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.85/92 percent, from 10.80/95 percent.
+
+A central bank auction of Rs. 206,000 million Treasury bills was ongoing. An auction of 132,500 million Treasury Bonds is to be held on Thursday.
+
+In equities, the All Share Price Index was up 0.28 percent or 39.19 points, at 13,814.
+
+The more liquid S&P SL20 was up 0.43 percent, or 17.65 points, at 4,131.
+
+◼️
+
+[Data](articles/4aa79ed5.json)
+
+[Extended Data](ext_articles/4aa79ed5.ext.json)
+
+---
+
+### Two foreigners fall into a stream at Ahungalla Sea
+
+*2024-12-11 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204253) · `si`
+
+Two foreigners fell into a stream at Ahungalla Sea. A 29-year-old Romanian man and a 30-year-old Chinese woman were rescued by police officers on August 10th.
+
+🟩
+
+Foreign national male and a woman were under the streams of the sea in the Ahungalla police division.
+
+The accident had occurred yesterday (10), and the duties were given to the foreign couple expedited.
+
+The victim was a 29 year old Romanian, and the woman is a 30 year old Chinese.
+
+The survival of 29896 police protest to the Ahungalla police station, police constable, 19342 music and police constable, were rescue.
+
+◼️
+
+[Data](articles/8f3aa7e3.json)
+
+[Extended Data](ext_articles/8f3aa7e3.ext.json)
+
+---
+
+### Adani Ports withdraws DFC funding request for Colombo port project
+
+*2024-12-11 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104154/adani-ports-withdraws-dfc-funding-request-for-colombo-port-project) · `en`
+
+India’s Adani Ports and Special Economic Zone Ltd said on Tuesday it would finance its Colombo port terminal project through internal accruals and a capital management plan, withdrawing its request for funding from the US International Development Finance Corp (DFC).
+
+DFC last year said it would provide $553 million in financing for the port terminal project, which is partly owned by the Adani Group.
+
+The company, however, said the Colombo West International Terminal project is progressing well and is on track for commissioning by early 2025.
+
+DFC did not immediately respond to a Reuters request for comment.
+
+Ports-to-edible oils Adani Group, controlled by Indian billionaire Gautam Adani, holds a 51% stake in the west container terminal of the port, which also has a terminal run by China Merchants Port Holdings Co Ltd.
+
+Sri Lankan conglomerate John Keells Holdings owns 34% of the terminal and the rest is held by the state-run Sri Lanka Ports Authority.
+
+...
+
+[Data](articles/7745a31d.json)
+
+[Extended Data](ext_articles/7745a31d.ext.json)
+
+---
+
+### South Korean police search President Yoon’s office over martial law imposition, reports say
+
+*2024-12-11 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104153/south-korean-police-search-president-yoons-office-over-martial-law-imposition-reports-say) · `en`
+
+Yonhap news agency says police are searching President Yoon Suk Yeol’s office.
+
+Yonhap says the search is happening on Wednesday over Yoon’s Dec. 3 martial law declaration.
+
+The reported search happens as the country’s main law enforcement institutions are focusing on finding whether Yoon and others involved in the Dec. 3 martial law imposition committed rebellion.
+
+South Korea’s two highest police officers have been detained to be investigated for their roles in enforcing President Yoon Suk Yeol’s short-lived martial law decree last week, police said Wednesday.
+
+The development comes hours before the main liberal opposition Democratic Party submits a new motion to impeach Yoon as the country’s main law enforcement institutions expand their investigation into whether the president’s declaration amounted to rebellion. The first impeachment attempt failed last Saturday when the ruling party boycotted the vote. The Democratic Party said it aims to put the new motion to a vote on Saturday.
+
+...
+
+[Data](articles/14c70d47.json)
+
+[Extended Data](ext_articles/14c70d47.ext.json)
+
+---
+
+### In the event of filled with reservoirs, electricity has been obtained from private power plants
+
+*2024-12-11 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204252) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Ceylon Electricity Board: Reservoirs full, hydroelectric power at max. Coal plant operates below capacity. Purchased electricity from private thermal plants due to insufficient hydro power generation.
+
+🟩
+
+The Ceylon Electricity Board of Engineering and Superintecess Association says that the water supply of electricity has been purchased at the maximum level of water in the reservoirs associates.
+
+The Association's Deputy Chairman Nandana Udayakumara said that such activities should be a search for whose requirements.
+
+"In the recent past, we have just got rain. The reservoir associates of our hydroelectric power plants was completely filled with. Also at the Norochcholai Power Plant has already taken a coal stock with coal. But last week's electricity board data has two-thirds of the Norochcholai coal power plant. One of those machines is operating at low capacity without running out of the maximum capacity. Accordingly, electricity has been purchased from private thermal power plants. When the hydro power plants can be implemented at the maximum capacity environment, whose knowledge could be implemented at the maximum capacity of the Norochcholai. "
+
+◼️
+
+[Data](articles/20fcea44.json)
+
+[Extended Data](ext_articles/20fcea44.ext.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-12-11 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104152/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the low-pressure area over the southwest Bay of Bengal is very likely to continue to move west-northwestwards towards the Tamil Nadu coast close to Northern Sri Lanka during the next 24 hours.
+
+Showers or thundershowers will occur at times in Northern, North-central, Eastern and North-western provinces. Heavy showers above 100mm are likely at some places in Northern province.
+
+Showers or thundershowers may occur at several places elsewhere during the evening or night, it added.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern, Uva, Western and North-western provinces during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/332a9a25.json)
+
+[Extended Data](ext_articles/332a9a25.ext.json)
+
+---
+
+### Another person dies in Jaffna
+
+*2024-12-11 08:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காய்ச்சலால்-யாழில்-மேலும்-ஒருவர்-உயிரிழப்பு/175-348561) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Death toll rises in Jaffna: Mysterious fever claims another victim. Health officials warn of escalating danger as cases spread.
+
+🟩
+
+One person died on Tuesday due to a mysterious fever that has been spreading for the past few days in Jaffna district.. The health department has warned that the situation is becoming dangerous day by day.
+
+The mother of a child who had been caught by the fever for five days died yesterday without treatment.
+
+Yall. The deceased is Suresh Kumar Ranjita (33 years old) from Odkarai, a college road belonging to the Point Pedro Police Division.
+
+He was taking Panadol pills following a fever symptom on Friday 6th. He visited the Point Pedro Base Hospital on Monday after the fever did not stop. He is fed up there.
+
+He is immediately in Jaffna. He was transferred to the Teaching Hospital yesterday morning and died on Tuesday morning.
+
+The woman's respiratory tract has been severely affected and she may have had a fever or a rat fever.. However, the health department said that he died of the disease only after receiving test reports from Colombo.. (A)
+
+◼️
+
+[Data](articles/19f2f7ec.json)
+
+[Extended Data](ext_articles/19f2f7ec.ext.json)
 
 ---

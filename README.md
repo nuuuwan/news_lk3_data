@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 05:01:22**
+As of **2024-12-12 05:26:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,690 (100.0%) of 59,696 articles have been extended.
+59,693 (100.0%) of 59,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Addressing the gathering, Herath accused the NPP Government of mishandling gover
 
 [Data](articles/03edd68f.json)
 
+[Extended Data](ext_articles/03edd68f.ext.json)
+
 ---
 
 ### Liberal Youth Movement urges Govt. inquiry into academic qualification concerns of Speaker
@@ -65,6 +67,8 @@ While academic qualifications are not mandatory for holding the position of a Me
 ...
 
 [Data](articles/6e02e02a.json)
+
+[Extended Data](ext_articles/6e02e02a.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ The discussions marked the start of a critical phase in the new administrationâ€
 ...
 
 [Data](articles/2c00942f.json)
+
+[Extended Data](ext_articles/2c00942f.ext.json)
 
 ---
 

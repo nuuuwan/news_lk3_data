@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 14:29:46**
+As of **2024-12-11 15:14:21**
 
 ## Newspaper Stats
 
-*Scraped **59,605** Articles*
+*Scraped **59,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 448
 colombotelegraphcom | 604
 bbccomsinhala | 622
 islandlk | 3,595
-economynextcom | 3,621
+economynextcom | 3,627
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,658
-adaderanalk | 7,258
+adalk | 5,659
+adaderanalk | 7,260
 tamilmirrorlk | 8,511
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
@@ -26,33 +26,159 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,582 (100.0%) of 59,605 articles have been extended.
+59,586 (100.0%) of 59,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### 24 மணிநேரத்தில் இருவர் கொலை
+### I am the Sri Lankan Entrepreneur 2024 award from COYLE
+
+*2024-12-11 15:00:00* · [`economynextcom`](https://economynext.com/i-am-the-sri-lankan-entrepreneur-2024-award-from-coyle-193521/) · `en`
+
+ECONOMYNEXT – A competition to find the best entrepreneurs under the name ‘I am the Sri Lankan Entrepreneur 2024’ has been initiated by Sri Lanka’s Chamber of Lankan Entrepreneurs (COYLE).
+
+The awards will be open to entrepreneurs from around the island with provincial to district-level recognition.
+
+Over 65 awards will be given under categories including Best Young Entrepreneur, Best Woman Entrepreneur, Best Social Entrepreneur, and the coveted Entrepreneur of the Year.
+
+“The awards aim to nurture the next generation of leaders,” the chamber said in a statement.
+
+“By recognising emerging entrepreneurs, empowering young innovators, and fostering a thriving entrepreneurial ecosystem, COYLE is paving the way for a robust and globally competitive business landscape.”
+
+Applications are now open and can be downloaded from the COYLE website. Entries close on January 15.
+
+...
+
+[Data](articles/b9df6c0c.json)
+
+---
+
+### Sri Lanka’s SEC renews Jaffna University partnership to create market professionals
+
+*2024-12-11 14:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-sec-renews-jaffna-university-partnership-to-create-market-professionals-193510/) · `en`
+
+ECONOMYNEXT – The Securities and Exchange Commission of Sri Lanka has renewed its agreement with the University of Jaffna to develop the next generation of capital market professionals.
+
+The partnership with the university began in 2009, bridging academia and the capital markets industry, and ensuring undergraduates benefit from a platform for academic and professional growth.
+
+The latest renewal reinforces this collaboration, “ensuring undergraduates continue to benefit from a robust platform for academic and professional growth,” the SEC said in a statement.
+
+“Through initiatives like these, the SEC aims to inspire a new generation of forward-thinking professionals, fostering academic excellence and driving innovation in Sri Lanka’s capital market.”
+
+...
+
+[Data](articles/a2f10fe0.json)
+
+[Extended Data](ext_articles/a2f10fe0.ext.json)
+
+---
+
+### SC allows public participation in petition over LG Elections
+
+*2024-12-11 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104165/sc-allows-public-participation-in-petition-over-lg-elections) · `en`
+
+The Attorney General (AG) today (11) informed the Supreme Court that the Cabinet of Ministers has instructed the legal draftsman to amend the Local Government Elections (Special Provisions) Bill in order to make necessary provisions for holding the Local Government (LG) Elections using the 2024 voters’ list, in order to ensure the right to vote of the young voters.
+
+Appearing on behalf of the Attorney General, Deputy Solicitor General Nirmalan Vigneswaran informed this to the court, when a Fundamental Rights petition filed seeking an order that the LG Elections be held using the 2024 voters’ list was taken up for hearing today.
+
+This petition was taken up for hearing before the three-member Supreme Court judge bench comprising Chief Justice Murdu Fernando, Justices Arjuna Obeysekara and Priyantha Fernando.
+
+...
+
+[Data](articles/1f852f94.json)
+
+[Extended Data](ext_articles/1f852f94.ext.json)
+
+---
+
+### Killing two in 24 hours
 
 *2024-12-11 14:01:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-இருவர்-கொலை/175-348582) · `ta`
 
-இன்று (11)  காலை 6 மணியுடன் முடிவடைந்த 24 மணித்தியாலங்களில் இருவேறு  பிரதேசங்களில் இருவர் கொல்லப்பட்டுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு அறிவித்துள்ளது.
+Two murders reported: one in Ja-Ela, another in Lakkala. Police investigating both incidents.
 
-ஜா-எல கடையொன்றில் 45 வயதுடைய நபர் ஒருவர் கூரிய ஆயுதத்தால், செவ்வாய்க்கிழமை (10) தாக்கப்பட்டதில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கடைக்குள் சக ஊழியருடன் மது அருந்தியதாகவும் இதன்போது ஏற்பட்ட  வாக்குவாதம் முற்றி, மற்றைய ஊழியர் கூரிய ஆயுத்தால் தாக்கியுள்ளார் என்று பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+Two people have been killed in two areas within 24 hours of the end of today (11) at 6 am, the police media unit said.
 
-பலத்த காயங்களுடன் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார். சந்தேகநபர்,  பிரதேசத்தை விட்டு தப்பிச் சென்றுவிட்டார். அவரை கைது செய்வதற்கான விசாரணைகளை ஜா-எல பொலிஸார் ஆரம்பித்துள்ளனர்.
+A 45-year-old man was killed in a sharp weapon at a Ja-Ela shop, police said.
 
-இதேவேளை, லக்கல பிரதேசத்தில்  44 வயதுடைய பெண் ஒருவர் கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் படுகாயமடைந்த நிலையில், செவ்வாய்க்கிழமை (10)  உயிரிழந்துள்ளார்.
+Police investigations have revealed that alcohol was drinking with a colleague in the shop and that the other employee had been attacked by a sharp manner.
 
-குடும்ப தகராறு காரணமாக குறித்த பெண் அவரது கணவரால் தாக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A man admitted to Ragama Hospital with serious injuries dies without treatment. The suspect has fled the territory. Ja-Ela police have launched investigations to arrest him.
 
-சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்ட லக்கல பொலிஸார்   சந்தேக நபரை கைது செய்துள்ளனர்.
+Meanwhile, a 44 -year -old woman in Lakkala has died on Tuesday (10) after being hit by a sharp weapon.
+
+Police said the woman was assaulted by her husband due to a family dispute.
+
+The Lakkala police have arrested the suspect, investigating the incident.
 
 ◼️
 
 [Data](articles/37006a39.json)
+
+[Extended Data](ext_articles/37006a39.ext.json)
+
+---
+
+### SC adjourns hearing of petitions on Grade 5 Scholarship Exam issue
+
+*2024-12-11 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104164/sc-adjourns-hearing-of-petitions-on-grade-5-scholarship-exam-issue) · `en`
+
+The Supreme Court today (11) adjourned the hearing of petitions seeking an order to re-conduct the 2024 Grade 5 Scholarship Examination, following allegations that three questions in the exam had been leaked.
+
+The petitions were heard before a Supreme Court bench comprising Justices S. Thurairaja and Shiran Gunaratne. However, the hearing was adjourned to December 16, as the three-member bench required to adjudicate the matter was not properly constituted.
+
+The petitions were filed by a group of students who sat for the examination and their parents, expressing concerns over the fairness of the process.
+
+On December 2, the Attorney General (AG) informed the Supreme Court that the Cabinet of Ministers had recommended awarding free marks to all students for the three disputed questions.
+
+...
+
+[Data](articles/495ed3f4.json)
+
+[Extended Data](ext_articles/495ed3f4.ext.json)
+
+---
+
+### Pakistan, Bangladesh tops central bank countries with blocked airline funds
+
+*2024-12-11 13:58:00* · [`economynextcom`](https://economynext.com/pakistan-bangladesh-tops-central-bank-countries-with-blocked-airline-funds-193529/) · `en`
+
+ECONOMYNEXT – Pakistan and Bangladesh are the top two countries where funds have been barred from repatriating sales revenues to airlines by government controls by the end of October 2024, according to International Air Transport Association data.
+
+Governments have blocked 1.7 billion dollars of funds belonging to airlines by October, down from 1.8 billion in April.
+
+There were 311 million dollars remaining in Pakistan, down from 411 million dollars in April.
+
+In Bangladesh there were 196 million dollars left, down from 320 million in April.
+
+“Over the last six months, we have seen significant reductions in blocked funds in Pakistan, Bangladesh, Algeria and Ethiopia,” Willie Walsh, IATA’s Director General said in a statement.
+
+Countries experience foreign exchange shortages when reserve collecting central bank print money to target policy rates either through open market operations or other liquidity tools creating an anchor conflict in their operating frameworks.
+
+...
+
+[Data](articles/bcf9841e.json)
+
+---
+
+### LANKA T10 තරගාවලිය අදින් ඇර​​​​ඹේ - අද දිනයේ තරග තුනක්
+
+*2024-12-11 13:44:27* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-තරගාවලිය-අදින්-ඇර​​​​ඹේ---අද-දිනයේ-තරග-තුනක්/9-413578) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පළමුවරට සංවිධානය කරනු ලබන LANKA T10 තරගාවලිය අදි (11දා) ආරම්භ වේ.
+
+ඒ අනුව පළමු තරගය ලෙස ජැෆ්නා ටයිටන්ස් කණ්ඩායම සහ හම්බන්තොට බංග්ලා ටයිගර්ස් කණ්ඩායම තරග වැදීමට නියමිත අතර, එම තරගය පස්වරු 4ට ආරම්භ වීමට නියමිතව ඇත.
+
+දෙවැනි තරගය අද නුවරඑළිය කිංග්ස් කණ්ඩායම සහ කලම්බෝ ජගුවර්ස් කණ්ඩායම අතර පස්වරු 6.15ටත්, තෙවැනි තරගය කැන්ඩි බෝල්ට් කණ්ඩායම සහ ගෝල් මාර්වල්ස් කණ්ඩායම අතර තරගය පස්වරු 08.30ටත් ආරම්භ කිරීමට කටයුතු යොදා තිබේ.
+
+මේ අතර, LANKA T10 තරගාවලියේ සමාරම්භක උත්සවය අද පස්වරු 2.45ට ආරම්භ කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/f50d5296.json)
 
 ---
 
@@ -99,6 +225,22 @@ The other National List MP seat had been filled by former minister Ravi Karunana
 [Data](articles/d087f479.json)
 
 [Extended Data](ext_articles/d087f479.ext.json)
+
+---
+
+### ADB approves US$30mn loan for Sri Lanka renewable energy
+
+*2024-12-11 13:11:00* · [`economynextcom`](https://economynext.com/adb-approves-us30mn-loan-for-sri-lanka-renewable-energy-193499/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank has approved a 30 million dollar small expenditure financing facility (SEFF) for the Ceylon Electricity Board to support the sustainability of ongoing and future energy sector projects.
+
+“This is Sri Lanka’s first SEFF, designed to support the operational sustainability of ADB-financed energy projects, promote initiatives to increase the share of renewable energy, and encourage private sector participation in the renewable energy sector, particularly in the context of the country’s economic challenges,” ADB Country Director for Sri Lanka Takafumi Kadono said.
+
+The facility will finance post-completion activities of ADB-financed projects, feasibility studies for advanced renewable energy technologies, preparatory work for transmission and distribution upgrades, and capacity building in emerging technologies.
+
+...
+
+[Data](articles/e5bf2d0d.json)
 
 ---
 
@@ -432,6 +574,26 @@ The project was reached last year to contribute to the project.
 
 ---
 
+### Sri Lanka to announce vehicle import relaxation ‘under certain limits’
+
+*2024-12-11 11:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-announce-vehicle-import-relaxation-under-certain-limits-193479/) · `en`
+
+ECONOYMEXT – Sri Lanka will soon make an announcement on relaxing vehicle imports, subject to certain constraints, Minister Nalinda Jayatissa said.
+
+“The decision on vehicle imports was made after taking into account the economic situation, our economic targets, our reserves and with the close supervision of the Ministry of Finance,” Minister Jayatissa told reporter in Colombo Tuesday.
+
+“The relaxation of vehicle imports should be to be understood in the context of those limits. Do not give various messages and mislead the public.
+
+“Which vehicles will be allowed to be imported will be announced by the finance ministry soon. I am again saying against that import controls will be relaxed under some limits (yam-yam see-ma va-la-ta ya-tath-va).”
+
+Minister Jayatissa was responding to a question on advertisements by vehicle importers and deposits collected.
+
+...
+
+[Data](articles/89215e4b.json)
+
+---
+
 ### சர்வதேச சமூகத்திடமிருந்து ஆதரவை பெறுதல்
 
 *2024-12-11 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/200964) · `ta`
@@ -687,6 +849,24 @@ If you or someone you know is in crisis and needs help, resources are available 
 [Data](articles/f4d3efed.json)
 
 [Extended Data](ext_articles/f4d3efed.ext.json)
+
+---
+
+### Sri Lanka’s Haycarb to set up activated carbon plant in the Philippines
+
+*2024-12-11 10:19:00* · [`economynextcom`](https://economynext.com/sri-lankas-haycarb-to-set-up-activated-carbon-plant-in-the-philippines-193464/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Haycarb Group said its subsidiary Haycarb Philippines Corporation had received approval from the Philippines’ Board of Investments to establish an activated carbon manufacturing facility in Cagayan de Oro.
+
+“With plans for further expansions in the next 5 to 6 years… enabling the Company to effectively meet the increasing demand and strengthen its presence in the international market,” Haycarb said in a stock exchange filing.
+
+The estimated investment for Phase I of the project expected to be completed by June 2026, is approximately USD 8 million.
+
+Haycarb Plc (up at 85.00) is part of the diversified conglomerate Hayleys Plc (flat at 117.00). (Colombo/Dec11/2024)
+
+◼️
+
+[Data](articles/f1112caa.json)
 
 ---
 
@@ -2145,217 +2325,5 @@ Bashar al-Assad, who was president of Syria (08) last Sunday, lived from his pos
 ...
 
 [Data](articles/e676f924.json)
-
----
-
-### Sri Lanka to find better uses for five extra Presidential palaces
-
-*2024-12-10 18:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-find-better-uses-for-five-extra-presidential-palaces-193374/) · `en`
-
-ECONOMYNEXT – Sri Lanka has appointed a committee to fund better uses for extra five  presidential palances and 50 bungalows in Colombo 07 and 05 areas, a statement from the President’s media office said.
-
-Out of seven Presidential Palaces only the ones in Colombo and Kandy are regularly used, the statement said.
-
-The other five were in Nuwara Eliya, Mahiyangana, Anuradhaputra, Kataragama, Jaffna, Embilipitya and Bentota.
-
-Visumapaya, a building in Colombo coming under the Urban Development Authority, which is used by visiting foreign dignitaries has also been including in the list for unfertilized buildings that can be better made use of.
-
-There were 50 bungalows in Colombo coming under the public administration ministry. They were used by ex-Presidents and Ministers.
-
-The cabinet has approved the appointment of a committee of officials to come up with plans to make better economic use of the buildings.
-
-...
-
-[Data](articles/c17748dd.json)
-
-[Extended Data](ext_articles/c17748dd.ext.json)
-
----
-
-### Sri Lanka receives China’s fabric grant for 2025 school uniforms
-
-*2024-12-10 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104149/sri-lanka-receives-chinas-fabric-grant-for-2025-school-uniforms) · `en`
-
-Sri Lanka has received the grant of 11.28 million meters of fabric required to be provided for schoolchildren as uniform materials for the year 2025, from the People’s Republic of China.
-
-The fabric grant was officially handed over to the Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya by the Chinese Ambassador to Sri Lanka Qi Zhenhong during an event held at the Colombo Port today (10).
-
-The 11.28 million meters of fabric, valued at around Rs. 5.2 billion, will be distributed among the students of 10,096 government and government-aided schools and 822 ‘pirivens’.
-
-The provision of uniform fabric to students free of charge has been carried out continuously by the Ministry of Education since 1992, and vouchers were issued to obtain school uniforms during the period from 2015 to 2020. Again, beginning from the year 2021, uniforms for school students were produced and purchased from local textile manufacturers.
-
-...
-
-[Data](articles/d73ee7bc.json)
-
-[Extended Data](ext_articles/d73ee7bc.ext.json)
-
----
-
-### PM thanks to the Chinese government for providing uniforms
-
-*2024-12-10 17:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீருடைகளை-வழங்கிய-சீன-அரசாங்கத்திற்கு-பிரதமர்-நன்றி-தெரிவிப்பு/175-348553) · `ta`
-
-Sri Lankan PM thanks China for 2025 school uniforms donation. Chinese Ambassador handed over 11,817m fabric for 4,640,086 students. Full requirement met. First two shipments arrived, third due Dec 25. Education priority for development. China's generosity crucial for funding.
-
-🟩
-
-Prime Minister Harini Amarasuriya said he would like to thank the Chinese government on behalf of the Sri Lankan government for providing uniforms to the children of all schools and sects in our country for 2025.
-
-The Prime Minister said this while addressing the school uniforms for 2025.
-
-Chinese Ambassador Key Zheng Hong handed over the school uniforms to the Chinese government's assistance program this afternoon at the International Container terminal of the Port of Colombo.
-
-11,817 million meters of fabric for school uniforms for 2025 and the number of students to be provided with school uniforms is 4,640,086.. Accordingly, the full requirement of the school uniforms for 2025 (100%) has been gifted by the Republic of China.
-
-It is noteworthy that the first and second seats have already arrived in Sri Lanka in three constituencies.. The third constituency will arrive in Sri Lanka on December 25.
-
-...
-
-[Data](articles/652b6939.json)
-
-[Extended Data](ext_articles/652b6939.ext.json)
-
----
-
-### No unidentified fever in Jaffna, 3 days have died for two days
-
-*2024-12-10 17:38:22* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-හඳුනා-නොගත්-උණ-රෝගයක්---දින-දෙකට-03-ක්-මිය-ගිහින්/11-413566) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fever outbreak in Jaffna: 3 deaths reported. Patients died after recovery from fever. Bodies sent to Colombo for investigation. Hospital facing challenges due to unexpected deaths. Director urges flu and cough patients to get tested immediately.
-
-🟩
-
-Three of patients who were receiving treatment at the Jaffna Survey Hospital today (10) has been launched today (10) in connection with the death of two days in two days.. Mr. Aharthmanulhi said.
-
-Director of the Jaffna Hospital T.thumurti said that several bodies of the deceased have been sent to Colombo for further investigations.
-
-Although the fever has been killed, the victims have died when the fever was deceased, but the doctors of the hospital had faced a serious problem due to the death of the fever.
-
-A 42-year-old man, 32, a 32-year-old man, a 32-year-old man, and the Kilinochchi hospital was transferred to the Jaffna Teaching Hospital.
-
-The Director of the Jaffna Hospital, Flu and coughing patients immediately went to the Public Hospital to take a blood sample test immediately.
-
-◼️
-
-[Data](articles/af6279ce.json)
-
-[Extended Data](ext_articles/af6279ce.ext.json)
-
----
-
-### Four arrested during development officers’ protest granted bail
-
-*2024-12-10 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104148/four-arrested-during-development-officers-protest-granted-bail) · `en`
-
-The four protestors arrested during a tense situation in front of the Ministry of Education on December 02 have been granted bail by the Kaduwela Magistrate’s Court.
-
-The four individuals were arrested after three police officers sustained injuries during a tense situation which had prevailed when the police attempted to disperse a protest march staged by the Development Officers in a manner that blocked the road for traffic in front of the Ministry of Education.
-
-Later, the arrested protesters were ordered to be remanded until today (10) after they were produced before the Kaduwela Magistrate’s Court.
-
-The Development Officers engaged in the demonstration demanding that they be made permanent in the teaching service.
-
-◼️
-
-[Data](articles/acadb430.json)
-
-[Extended Data](ext_articles/acadb430.ext.json)
-
----
-
-### Final Announcement on Construction Amendment in January: Public Use the Commission
-
-*2024-12-10 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/200922) · `ta`
-
-Ceylon Electricity Board announces electricity tariff revision review by end-January. Public input sought before final decision. Existing power supply to continue unchanged for 6 months. Hydroelectricity accounts for 56% of total power generation.
-
-🟩
-
-The Ceylon Electricity Board (CEB )'s recommendations on the Electricity tariff revision will be reviewed and the final decision on the electricity tariff revision will be announced by the third week of January.
-
-The Director of the Ceylon Electricity Board and Communication Officer Jayanath Herath said the above.
-
-We are fully reviewing the recommendations made by the Ceylon Electricity Board on the Electricity Tax Corporation. We have urged the retrieval of the data provided in connection with the power supply.
-
-Department experts and public aspirations will be requested in connection with the correctional correction. Following this, a resolution will be announced in the third week of January in the next January.
-
-The Electricity Board has recommended to the Public Utilities Commission that the existing power supply should continue for the next six months without any change.
-
-...
-
-[Data](articles/9b067d2e.json)
-
-[Extended Data](ext_articles/9b067d2e.ext.json)
-
----
-
-### Professor Deepika Udagama is happy with the understanding of the people after the 'Arakalaya' struggle
-
-*2024-12-10 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/200924) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Professor Deepika Udagama praises public understanding post-Arakalaya struggle. She emphasizes democracy's foundation on human rights and citizens' role in protecting them. Udagama highlights the importance of social and economic rights in the constitution and calls for increased awareness through civic education.
-
-🟩
-
-People, who have been the ideology of human rights being imposed on us by the West, have realized that democracy is based on human rights after the 'Arakalaya' struggle in 2022, especially in 2022.. Professor Deepika Udagama, a former member of the Sri Lanka Human Rights Commission and the Leader of the University of Peradeniya, said that the government has the responsibility to ensure the rights of the rights.
-
-A special event was organized by the Sri Lanka Human Rights Commission at the Bandaranaike Memorial International Conference Hall in Colombo to commemorate the International Human Rights Day on Tuesday (10).. Deepika Udagama said this as the chief guest at the event.
-
-At the beginning of the speech, he expressed his happiness and congratulations on receiving the 'A' quality of the Human Rights Commission, and pointed out that the priority of the Human Rights Commission on the standardization is essential to the nations and the nations.
-
-...
-
-[Data](articles/7f171fba.json)
-
-[Extended Data](ext_articles/7f171fba.ext.json)
-
----
-
-### හාල් මිල අඩුකරන්න පාන් පිටි මිල අඩුකරන්න
-
-*2024-12-10 17:25:58* · [`adalk`](https://www.ada.lk/breaking_news/හාල්-මිල-අඩුකරන්න-පාන්-පිටි-මිල-අඩුකරන්න/11-413565) · `si`
-
-පාන් පිටි මිල අඩු කළහොත් පාන් මිල අඩු කළ හැකි බැවින්  එමගින් ඉබේටම හාල් මිල පාලනය වනු ඇතැයි සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා සඳහන් කරයි.
-
-රටේ ජනතාවට මූලික වශයෙන් අවශ්‍ය වන්නේ බත්, වුවද ආර්ථික අපහසුතා හේතුවෙන් වෙනත් විකල්පයකට යාමේදී සඟවා ඇති සහල් තොග එළියට ගෙන ඒමට සිදු වන බවද එමගින් සහල් මිල අඩු වීම හේතුවෙන් බත් පරිභෝජනයට ජනතාවට අවශ්‍ය වට පිටාව සකස් වන බවද ඒ මහතා පෙන්වා දෙයි.
-
-හාල් මාෆියාව මෙන්ම පාන් පිටි මාෆියාවක්ද පවතින බව පෙන්වා දෙන සමස්ත ලංකා බේකරි හිමියන්ගේ සංගමයේ සභාපති එන්. කේ. ජයවර්ධන මහතා සඳහන් කරන්නේ මේ වන විට සෑම අංශයකම මාෆියාවක් ක්‍රියාත්මක වන බවයි. උදාහරණ ලෙස බිත්තර සඳහාද පවතින්නේ මාපියාවක් බව හෙතෙම පෙන්වා දෙයි.
-
-හාල් මිල අසාමාන්‍ය ලෙස ඉහළ යෑම හේතුවෙන් ප්‍රායෝගික විකල්ප භාවිත කර එය, මැද මාවතකට ගෙන ඒම කළ යුතු දෙයක් බවත් හාල් වෙනුවට පාන් පිටි සහ පාන් පරිභෝජනයට  ජනතාව හුරු කිරීමක් මෙයින් අදහස් නොකරන බවත් ජයවර්ධන මහතා අවධාරණය කළේය.
-
-...
-
-[Data](articles/20cfc9e5.json)
-
----
-
-### Chinese Ambassador confirmed that it will cooperate with all sectors of the country
-
-*2024-12-10 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/200927) · `ta`
-
-Chinese Ambassador confirms cooperation across Sri Lanka's sectors, emphasizing support for healthcare. Strong friendship between China and Sri Lanka continues, with China offering full assistance to overcome challenges. Chinese Navy Hospital Ship arrives soon, bringing medical experts to treat patients. Health Minister Bandaranaike expresses gratitude for past contributions, including Colombo National Drugs Division Building and Polonnaruwa Special Hospital. Future health sector advancement proposals discussed during meeting.
-
-🟩
-
-The long -standing friendship between Sri Lanka and the Chinese government is a very strong friendship. We are providing the cooperation of the Chinese government to all sectors of the country but to the Health Department. Chinese Ambassador to Sri Lanka, Qi Zhenhong, assured the Minister of Health that we are ready to provide our full support to all sectors in the coming years.
-
-He made this statement during an official meeting held at the Ministry of Health on Monday (09) between the Minister of Health and Media Media Nalinda Jayatissa and Indian Ambassador to Sri Lanka, Qi Zhenhong.
-
-The long -standing friendship between Sri Lanka and the Chinese government is a very strong friendship. We are providing the cooperation of the Chinese government to all sectors of the country but to the Health Department.
-
-...
-
-[Data](articles/65859745.json)
-
-[Extended Data](ext_articles/65859745.ext.json)
 
 ---

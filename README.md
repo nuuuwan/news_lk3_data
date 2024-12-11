@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 11:43:37**
+As of **2024-12-11 12:02:48**
 
 ## Newspaper Stats
 
-*Scraped **59,589** Articles*
+*Scraped **59,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,595
 economynextcom | 3,621
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,654
-adaderanalk | 7,253
-tamilmirrorlk | 8,504
+adalk | 5,656
+adaderanalk | 7,255
+tamilmirrorlk | 8,505
 virakesarilk | 9,781
 adaderanasinhalalk | 10,300
 
@@ -26,47 +26,111 @@ adaderanasinhalalk | 10,300
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,567 (100.0%) of 59,589 articles have been extended.
+59,569 (100.0%) of 59,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
 
-### நிதியுதவிக்கான கோரிக்கையை மீளப் பெற்ற அதானி குழுமம்
+### ஜனாதிபதி தலைமையில் கலந்துரையாடல்
+
+*2024-12-11 11:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-கலந்துரையாடல்/175-348575) · `ta`
+
+விவசாயம், கால்நடைகள், காணிகள் மற்றும் நீர்ப்பாசன அமைச்சின் செலவினத் தலைப்புகள் மீதான கலந்துரையாடல் ஜனாதிபதி தலைமையில் செவ்வாய்க்கிழமை(10) நடைபெற்றது.
+
+2025ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தை தயாரிப்பதற்கான ஆரம்பக்கட்ட கலந்துரையாடல்கள் ஜனாதிபதி அனுரகுமார திஸாநாயக்க தலைமையில் அமைச்சு மட்டத்தில் ஆரம்பிக்கப்பட்டுள்ளன.
+
+இதனை ஒட்டி விவசாய, கால்நடை, காணி மற்றும் நீர்ப்பாசன அமைச்சின் செலவினத் தலைப்புகள் தொடர்பான வரவு செலவுத் திட்ட முன்மொழிவுகள் மீதான விவாதம்  ஜனாதிபதி செயலகத்தில் இடம்பெற்றது.
+
+இந்த சந்திப்பில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, நிதி அமைச்சின் செயலாளர் மஹிந்த சிறிவர்தன, டி.பி. விக்கிரமசிங்க, விவசாய, கால்நடை, காணி மற்றும் நீர்ப்பாசன அமைச்சின் செயலாளர் மற்றும் அமைச்சின் சிரேஷ்ட அதிகாரிகள் கலந்துக்கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8ab6da58.json)
+
+---
+
+### Former MP Sivajilingam hospitalised
+
+*2024-12-11 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104160/former-mp-sivajilingam-hospitalised) · `en`
+
+Former Member of Parliament M.K. Sivajilingam has been admitted to the Intensive Care Unit (ICU) of a private hospital in Colombo due to an illness, according to his relatives.
+
+Sivajilingam, known as a maverick in Sri Lankan Tamil politics for many years, was elected to Parliament in 2004, representing the Tamil National Alliance (TNA).
+
+Recently, he was at the center of national attention following a controversial act of cutting a cake during the ‘Mahaviru’ (Maaveerar Naal) commemorations in the Northern Province.
+
+◼️
+
+[Data](articles/4f05e4f1.json)
+
+---
+
+### Adani Group, which recovered the request for financial assistance
 
 *2024-12-11 11:37:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியுதவிக்கான-கோரிக்கையை-மீளப்-பெற்ற-அதானி-குழுமம்/175-348574) · `ta`
 
-கொழும்பு துறைமுகத்தின் மேற்கு முனைய அபிவிருத்தி திட்டத்துக்காக அமெரிக்காவின் சர்வதேச அபிவிருத்தி கூட்டுத்தாபனத்திடம் முன்வைத்த நிதியுதவிக்கான கோரிக்கையை இந்தியாவின் அதானி குழுமம் மீளப் பெற்றுள்ளது.
+Adani Group secures funding for Colombo Port project after recovering from US International Development Corporation. The company will now finance the development internally. This move comes amid bribery allegations against the group in a US court.
 
-அதானி குழுமத்தின் பங்களிப்புடன் முன்னெடுக்கப்படும் கொழும்பு துறைமுக மேற்கு முனைய அபிவிருத்தி திட்டத்திற்கு, அந்த குழுமத்தின் கோரிக்கைக்கு அமைய 553 மில்லியன் அமெரிக்க டொலர் நிதியுதவி வழங்குவதாக அமெரிக்காவின் சர்வதேச அபிவிருத்தி கூட்டுத்தாபனம் கடந்த ஆண்டு அறிவித்திருந்தது.
+🟩
 
-இந்தநிலையில், குறித்த கோரிக்கையை அதானி குழுமம் மீளப் பெற்றுள்ளது. அதற்கமைய, கொழும்பு மேற்கு முனையத் திட்டத்துக்காக உள் நிதி திரட்டல்கள் மூலம் நிதியளிப்பதாக அதானி குழுமம் அறிவித்துள்ளது.
+India's Adani Group has recovered the demand for funding to the US International Development Corporation for the Western Terminal Development Program of the Colombo Port.
 
-இதேவேளை, அமெரிக்க நீதிமன்றத்தில் அதானி குழுமத்திற்கு எதிராக லஞ்ச குற்றச்சாட்டுகள் முன்வைக்கப்பட்டுள்ள நிலையில், அமெரிக்காவிடம் முன்வைத்த நிதியுதவிக்கான கோரிக்கையை இந்தியாவின் அதானி குழுமம் மீளப் பெற்றுள்ளமை குறிப்பிடத்தக்கது.  R
+The United States International Development Corporation announced last year that it would provide US $ 553 million funded by the group's request to the Colombo Port Western Terminal Development Project with the participation of the Adani Group.
+
+In this case, the Adani Group has recovered the request. Accordingly, the Adani Group has announced that it will fund the Colombo West terminal project through internal fund raising.
+
+Meanwhile, India's Adani Group has recovered the demand for the US's funding for the US, with bribery allegations against the Adani Group in the US court.R
 
 ◼️
 
 [Data](articles/0e276ff4.json)
 
+[Extended Data](ext_articles/0e276ff4.ext.json)
+
 ---
 
-### යාපනයේ හඳුනානොගත් උණ රෝගයක්
+### වතුකර නිවාස ගැටළුවට විසඳුම් - සැලසුම්
+
+*2024-12-11 11:37:07* · [`adalk`](https://www.ada.lk/breaking_news/වතුකර-නිවාස-ගැටළුවට-විසඳුම්---සැලසුම්/11-413577) · `si`
+
+වතුකර නිවාස ගැටළුවට විසඳුම් ලෙස මහල් නිවාස ඉදිකිරීමට සැලසුම් කර ඇතිබව වැවිලි කර්මාන්ත හා ප්‍රජා යටිතල පහසුකම් අමාත්‍යංශය පවසයි.
+
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ අනුමැතියට අනුකූලව මහල් 6කට වඩා අඩු මහල් සංඛයාවකින් යුත් නිවාස සංකීර්ණ ඉදිකිරීමට සැලසුම් අධ්‍යනය කරන බව වැඩි දුරටත් එම අමාත්‍යංශය පවසයි. තනි නිවාස ඉදිකිරීමෙන් වතුකරයේ ඉඩම් විශාල ලෙස නිවාස සඳහා වෙන්වන බැවින් ඊට වඩා එළදායී විසඳුමක් ලෙස මෙම ක්‍රමය ඔවුන් පෙන්වා දී ඇත.
+
+◼️
+
+[Data](articles/7df4048d.json)
+
+---
+
+### Unidentified fever in Jaffna
 
 *2024-12-11 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204260) · `si`
 
-යාපනය දිස්ත්‍රික්කයේ හඳුනා නොගත් උණ රෝගී තත්ත්වයක් පැතිර යන අතර මෙම රෝගී තත්ත්වය මී උණ රෝගී තත්ත්වයද යන්න තහවුරු කර ගැනීම සඳහා පරීක්ෂණ පැවැත්වෙන බව සෞඛ්‍ය අමාත්‍යංශයේ වසංගත රෝග විද්‍යා අංශයේ වෛද්‍ය කුමුදු වීරකෝන් මහත්මිය පවසයි.
+Fever outbreak in Jaffna: Ministry investigates unidentified illness. Symptoms include high fever, muscle pain, and bleeding. Most affected: farmers, flood workers, and water cultivators. Ministry offers free antibiotics to those at risk.
 
-මී උණ රෝගය වැඩි වශයෙන් පැතිරයාමේ අවදානම සම්බන්ධව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ අද (11) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඇය මේ බව පැවසීය.
+🟩
 
-උණ, සහ ශ්වසන අපහසුතා එම ප්‍රදේශ තුලින් වාර්තා වී ඇති බවත් මේ වන විට අදාළ උණ රෝගීන්ගේ සාම්පල ලබා ගනිමින් පරීක්ෂණ පවත්වන බවත් ඇය පැවසුවාය.
+The Epidemiology Unit of the Ministry of Health is investigating that a non-detected fever is spreading in Jaffna district.
 
-එමෙන්ම පසුගිය 2023 වසරේ දිවයින පුරා මී උණ රෝගීන් 9,000කට අධික පිරිසක් වාර්තා වූ බවත් ඉන් රෝගීන් 200කට ආසන්න ප්‍රමාණයක් මරණයට බවත් ඇය පැවසුවාය.
+She was speaking at a press conference held at the Health Promotion Bureau today (11) regarding the risk of the rat fever.
 
-එමෙන්ම මේ වසරේ ගතවූ කාල සීමාව තුළ රෝගීන් වාර්තා වීම පෙර වසරට සාපේක්ෂව ඉහළ ගොස් ඇති බවත් ඇය මෙහිදී පැවසුවාය.
+She said that the fever and respiratory disagreements were reported in these areas and investigations are being conducted by the samples of the fever.
+
+She added that more than 9,000 leap patients were reported in the country in 2023 and about 200 patients were killed.
+
+She also said that during the past year, she has increased compared to the previous year.
+
+She said that farmers, floods, floods, and water related employees in mud and water cultivation, floods, paddy fields, other duties, and water-related workers are the most vulnerable to the fever.
+
+She pointed out that there could be symptoms of strict fever, severe muscles, roughness, bleeding, bleeding, inability, and the reduction in the urine.
 
 ...
 
 [Data](articles/df850d69.json)
+
+[Extended Data](ext_articles/df850d69.ext.json)
 
 ---
 
@@ -119,6 +183,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/25036cb2.json)
+
+---
+
+### House gutted in fire caused by oil lamp in Wadduwa
+
+*2024-12-11 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104159/house-gutted-in-fire-caused-by-oil-lamp-in-wadduwa) · `en`
+
+A fire has reportedly broken out at a house in the Pothupitiya area of Wadduwa, resulting in the complete destruction of the property, according to police.
+
+Local residents have collaborated to douse the flames and bring the fire under control and prevent it from spreading to a neighboring house.
+
+Police confirmed that no casualties were recorded in the incident.
+
+Police suspect that the fire has been triggered by an oil lamp, which was lit as part of a religious ritual and placed before a small Buddha’s statue inside the house. It is suspected that the woman in the house in question had left the lamp unattended, and it may have fallen over, sparking the blaze.
+
+However, the exact cause of the fire has not yet been ascertained, while Wadduwa Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/c9958276.json)
 
 ---
 
@@ -355,6 +439,24 @@ A woman in the house had left the Buddha lamp and the police suspect that it was
 ...
 
 [Data](articles/2dc603cb.json)
+
+---
+
+### මහ වැසි වලින් පසු වන සතුන්ට වසන්තය
+
+*2024-12-11 09:40:17* · [`adalk`](https://www.ada.lk/breaking_news/මහ-වැසි-වලින්-පසු-වන-සතුන්ට-වසන්තය/11-413574) · `si`
+
+මහාවැසි  ඇතැම් ප්‍රදේශ වලට හා මිනිසුන්ට පිඩාවක් ගෙන ආවත්  වනයේ වන සතුන්ට පසු ගිය මහා වැසි ආශිර්වාදයක් විය.
+
+යාල වන උද්‍යානයට අයත්  බුත්තල  කතරගම  මාර්ගයේ හා යාල වන උද්‍යානයේ සැරිසරන  අලි  අලි ඇතුන්, ගෝනුන්ට , මොණරුන්ට මේ දිනවල  වසන්ත  කාලයක් උදාවී පවති.
+
+වැසි සමග  මහා වනයේ ගස් වැල්, පළාවර්ල,  තණබිම් සරුවට හරිත වර්ණයෙන් හැඩ ගැන් වී  තිබේ.
+
+වැව් පෝකුණු, ජල කඩිති පිරි පැවතිමත් සමග   වන  සතුන් පරිසරයේ සැරිසරමින්   නිදහසේ  පරිසරයේ  සැරිසරන  අයුරු  දැක්වේ .
+
+◼️
+
+[Data](articles/9af27d2f.json)
 
 ---
 
@@ -2279,125 +2381,5 @@ The proposal submitted by the Cabinet of Justice and National Integration was ap
 [Data](articles/ac083068.json)
 
 [Extended Data](ext_articles/ac083068.ext.json)
-
----
-
-### Sri Lanka President to visit India from December 15
-
-*2024-12-10 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-india-from-december-15-193368/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake visit India from December 15, in his first overseas visit, Media Minister Nalinda Jayatissa said.
-
-President Dissanayake will be accompanied by the Minister of Foreign Affairs and a Deputy Finance Minister, he said.
-
-Ahead of the visit cabinet approved amending a double taxation treaty, and signing two grant agreements for railway locomotives and equipment for boatyard.
-
-◼️
-
-[Data](articles/4e7347dd.json)
-
-[Extended Data](ext_articles/4e7347dd.ext.json)
-
----
-
-### Police officers released on bail
-
-*2024-12-10 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204238) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Four police officers arrested Dec 2, released on bail Dec 3. Three injured during protest. Development officials reassigned to schools.
-
-🟩
-
-The four remains were arrested and released on bail on December 2nd December 2.
-
-They were produced before Kaduwela Magistrate's Court today and released on bail.
-
-During the demonstration, three police officers were injured and the protesters were arrested following the incident.
-
-The development officials attached to schools were assigned to schools asking for their permanent service.
-
-◼️
-
-[Data](articles/9414b4b6.json)
-
-[Extended Data](ext_articles/9414b4b6.ext.json)
-
----
-
-### Cabinet approval of Kachchi engine
-
-*2024-12-10 16:50:37* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-ප්‍රදානයක්-ලෙස-දෙන-කෝචිචි-එංජින්-22-ගන්න-කැබිනට්-අනුමැතිය/11-413561) · `si`
-
-Sri Lanka Cabinet approves 22 Alco diesel engines from India. Indian Railways grants 2 extra engines. Maintenance contract for 5 years. Project committee evaluates feasibility. Proposal approved, grant agreement to be signed.
-
-🟩
-
-Cabinet approval has been granted to receive 22 Alco diesel engines to the Sri Lanka Railways as awarded to the Indian government. The Indian Railways has agreed to provide two additional station engines as a grant for 20 enhanced engines and additional stocks for the Sri Lanka Railways.
-
-The Engineer's Consultancy and Infrastructure Development Company has been submitted to provide maintenance service to the maintenance service for five years. At the Cabinet meeting held at the Cabinet Meeting held at the Cabinet meeting held to appoint a project committee, appointed by the Cabinet and a project committee appointed by the Cabinet of Ministers to evaluate the proposal.
-
-The project committee has pointed out that the Railway Department has the ability to maintain these locomotives as a grant.. The proposal made by the Government of Sri Lanka has been approved by the Government of Sri Lanka to be signed by the Government of Sri Lanka and award the grant of 22 locomotives.
-
-◼️
-
-[Data](articles/cddf96a1.json)
-
-[Extended Data](ext_articles/cddf96a1.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.30/35 to dollar, bonds down
-
-*2024-12-10 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-30-35-to-dollar-bonds-down-193346/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.30/35 to the US dollar on Tuesday from 290.30/45 to the US dollar on Monday, dealers said, while bond yields continued to decline.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 percent, down from 9.50/65 percent.
-
-A bond maturing on 15.10.2027 closed at 9.90/10.05 percent, down from 10.15/25 percent.
-
-A bond maturing on 15.09.2029 closed at 10.80/95 percent, down from 10.90/11.00 percent. (Colombo/Dec10/2024)
-
-◼️
-
-[Data](articles/4ab5f7e1.json)
-
-[Extended Data](ext_articles/4ab5f7e1.ext.json)
-
----
-
-### Government bungalows and presidential malfles
-
-*2024-12-10 16:34:16* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-බංගලා-හා-ජනාධිපති-මන්දිර-පිළිබඳ-තීරණයක්-ගනී/11-413560) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Government bungalows & presidential malfles: Cabinet approves committee to propose expenditure methodology. 50 bungalows in Colombo 7 for former presidents, ministers. Presidential houses unused except in Colombo & Kandy. Visumpaya in Colombo 02 under Urban Development Authority. Official quarters in Nuwara Eliya managed by Prime Minister's Office.
-
-🟩
-
-Cabinet approval has been given to appoint a committee to propose an officer in order to propose a suitable methodology for the government's expenditure, including the burden of the government.
-
-The committee has been appointed to propose a suitable methodology that has been spent on maintenance of property, as it is in underlumps of her property.
-
-There are 50 government bungalow houses in Colombo 7 and 05 under the administrative authority of the Ministry of Public Administration, Provincial Councils and Local Government.
-
-The bungalow houses have been allocated for former presidents, ministers, deputy ministers and various government institutions.
-
-The president is located in Colombo, Kandy, Nuwara Eliya, Mahiyanganaya, Anuradhapura, Kataragama, Jaffna, Embilipitiya, Jaffna, Embilipitiya, Jaffna, Embilipitiya, Embilipitiya, Embilipitiya, Kataragama, and Bentota.
-
-However, the presidential houses other than the presidential houses in Colombo and Kandy have not been used.
-
-...
-
-[Data](articles/4a9d96a2.json)
-
-[Extended Data](ext_articles/4a9d96a2.ext.json)
 
 ---

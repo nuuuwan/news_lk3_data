@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-11 19:03:27**
+As of **2024-12-11 20:01:21**
 
 ## Newspaper Stats
 
-*Scraped **59,662** Articles*
+*Scraped **59,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 3,595
 economynextcom | 3,633
 dailyftlk | 4,111
 dailymirrorlk | 4,733
-adalk | 5,664
+adalk | 5,666
 adaderanalk | 7,268
-tamilmirrorlk | 8,514
-virakesarilk | 9,791
+tamilmirrorlk | 8,517
+virakesarilk | 9,793
 adaderanasinhalalk | 10,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,616 (99.9%) of 59,662 articles have been extended.
+59,625 (99.9%) of 59,669 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-11 (Wednesday)
+
+### Faizer Mustafa going to Parliament
+
+*2024-12-11 19:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செல்லும்-பைசர்-முஸ்தபா/175-348594) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Faizer Mustafa nominated for Parliament via National List in New Democratic Front. Election Commission issues gazette notification. Ravi Karunanayake proposes his candidacy.
+
+🟩
+
+The Election Commission has taken steps to issue a gazette notification by the name of Faizer Mustafa for the post of National List of the New Democratic Front.
+
+It is noteworthy that Ravi Karunanayake has taken a leading action to propose the name of one seat.. Remble
+
+◼️
+
+[Data](articles/b24c95d3.json)
+
+[Extended Data](ext_articles/b24c95d3.ext.json)
+
+---
+
+### The government lifted Mahinda's security officers
+
+*2024-12-11 19:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பாதுகாப்பு-அதிகாரிகளை-தூக்கியது-அரசாங்கம்/175-348593) · `ta`
+
+Government removes 116 security officers from Mahinda Rajapakse's division. Attorney-at-Law Manoj Kamage claims this reduces the former president's safety.
+
+🟩
+
+Attorney -at -Law Manoj Kamage says the current government has taken steps to eliminate the security of former President Mahinda Rajapakse.
+
+He said this while attending a press conference held at the PA at the PA.
+
+He said that this was reported by a letter to the Defense Division of former President Mahinda Rajapaksa by the Deputy Inspector General of Human Resources Management.
+
+Accordingly, steps have been taken to remove 116 security officers from the former President's Security Division and all the experienced officials of the high -quality security have been removed.
+
+He added that the government is taking steps to reduce the safety of the former president who led to the abolition of terrorism.. Remble
+
+◼️
+
+[Data](articles/59207d22.json)
+
+[Extended Data](ext_articles/59207d22.ext.json)
+
+---
+
+### The number of casualties in the mysterious fever in Jaffna
+
+*2024-12-11 19:00:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மர்ம-காய்ச்சலால்-உயிரிழந்தவர்களின்-எண்ணிக்கை-உயர்வு/71-348592) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Jaffna mysterious fever casualties rise to five. Ages 20-65 with fever & respiratory issues. Suspected leptospirosis but samples sent to Colombo for confirmation.
+
+🟩
+
+Jaffna Hospital Director Dr. T. Satyamoorthy has confirmed during a media briefing that the number of casualties in Jaffna has increased to five.
+
+The casualties are aged 20 to 65, suffering from fever and respiratory problems.
+
+Dr. Satyamoorthy said the disease is usually suspected to be a leptospirosis, known as elbow fever, but that the blood samples have been sent to Colombo for further inspection, he added.
+
+◼️
+
+[Data](articles/e620a557.json)
+
+[Extended Data](ext_articles/e620a557.ext.json)
+
+---
 
 ### The Sri Lanka-New Zealand cricket tournament will be informed
 
@@ -214,55 +290,121 @@ We are talking about women and women in this movie. We have written the story fo
 
 ---
 
-### சுகாதார, வெகுசன ஊடகத்துறை மீதான மக்கள் நம்பிக்கையை கட்டியெழுப்புவது அவசியம் - அனில் ஜாசிங்க
+### It is necessary to build people's confidence in health and mass media - Anil Jasinghe
 
 *2024-12-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201006) · `ta`
 
-சுகாதார மற்றும் வெகுசன ஊடகத்  துறை மீது மக்கள் வைத்திருந்த நம்பிக்கை நலிவுற்றுள்ளது. ஆகையால் இவ்விருத்துறைகள் மீதான மக்கள் நம்பிக்கையை மீள கட்டியெழுப்புவது மிக அவசியம் என சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் செயலாளர் விசேட வைத்திய நிபுணர் அனில் ஜாசிங்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் செயளாலராக நியமிக்கப்பட்டுள்ள வைத்தியர் அனில் ஜாசிங்க  புதன்கிழமை சுகாதார அமைச்சில் உத்தியோகப்பூர்வமாக தனது கடமைகளை பொறுப்பேற்றுக் கொண்டார்.
 
-இதன்போது சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ  உள்ளிட்ட அமைச்சின் அதிகாரிகள் பிரசன்னமாகியிருந்தனர்.
 
-ஐந்து வருடங்களுக்கு பிறகு மீள சுகாதார அமைச்சில் அங்கம் வகிக்க கிடைத்ததை எண்ணி மகிழ்ச்சியடைகிறேன். நம்பிக்கை என்பது பொதுவாக சிலரிடம் இருக்கும் சிலரிடம் இருக்காது.
+Rebuilding public trust in health and media crucial: Anil Jasinghe. As Health & Media Ministry Secretary, he vows to restore confidence through fair services and expert leadership. Challenges ahead, but commitment to progress remains strong.
 
-நம்பிக்கை என்பது அரிய வகை இரத்தினம் போன்றது. அவ்வாறான நம்பிக்கையை வென்றெடுப்பதற்காக, நெருக்கடிக்கு முகங்கொடுத்துள்ள மக்களுக்கு நியாயமான மனிதாபிமானத்துடன் கூடிய சேவையை வழங்க சுகாதார அமைச்சரின் வழிகாட்டலுடன் நடவடிக்கைகளை முன்னெடுக்க எதிர்பார்த்துள்ளோம்.
+🟩
+
+People's confidence in the health and mass media industry. Therefore, it is essential to rebuild people's confidence in these sectors, said Anil Jasinghe, Secretary of the Ministry of Health and Media, said.
+
+Dr. Anil Jasinghe, who has been appointed as the Secretary of the Ministry of Health and Mass Media, officially assumed his duties at the Health Ministry on Wednesday.
+
+Officials of the Ministry of Health and Media Media, including Dr. Nalinda Jayatissa, were present.
+
+Five years later, I am happy to think that I got a member of the Ministry of Health. Faith is not usually some of the people who have.
+
+Hope is like a rare type of gem. In order to win such confidence, we are looking forward to carrying out action with the guidance of the Minister of Health to provide a fair humanitarian service to the people who face the crisis.
+
+We will make a change of expected people with the Senior and Experted Officers of the Ministry of Health.
 
 ...
 
 [Data](articles/459a31cf.json)
 
+[Extended Data](ext_articles/459a31cf.ext.json)
+
 ---
 
-### சீன இராணுவ விஞ்ஞான அகடமி ஆய்வாளர்கள் மற்றும் பாத்பைன்டர் பவுன்டேஷன் பிரதிநிதிகள் சந்திப்பு
+### The number of people suffering from mice has increased to 10 thousand
 
-*2024-12-11 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201003) · `ta`
+*2024-12-11 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201002) · `ta`
 
-நாட்டுக்கு வருகைதந்திருக்கும் பெய்ஜிங்கின் இராணுவ விஞ்ஞான அகடமியின் ஆய்வாளர்களுக்கும் பாத்பைன்டர் பவுன்டேஷன் அமைப்பின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பு அண்மையில் பேலியகொடவில் அமைந்திருக்கும் அவ்வமைப்பின் தலைமையகத்தில் நடைபெற்றது.
+Here's a summary of the text in 200 characters:
 
-பாத்பைன்டர் பவுன்டேஷன் அமைப்புடனான தொடர்புகளை வலுப்படுத்துவதுடன், இருதரப்பினருக்கும் நன்மையளிக்கக்கூடிய விடயங்கள் குறித்துக் கலந்துரையாடும் நோக்கில் இலங்கைக்கு வருகைதந்திருக்கும் பெய்ஜிங் இராணுவ சட்டக்கட்டமைப்பு கற்கைகள் நிறுவனத்தைப் பிரதிநிதித்துவப்படுத்தி இயங்கிவரும் இராணுவ விஞ்ஞான அகடமியின் பிரதிநிதிகள், இலங்கையும் சீனாவும் ஒன்றிணைந்து பணியாற்றுவதற்கு ஏதுவான புதிய வாய்ப்புக்கள் தொடர்பில் விரிவாக ஆராய்ந்தனர்.
+
+
+Rat fever cases surge: 10k+ reported this year. Rainy season & paddy cultivation linked to outbreak. Symptoms: fever, headache, body pain. Seek immediate medical attention.
+
+🟩
+
+Approximately 10 thousand patients have been identified in the country so far this year.
+
+Kumuda Weerakoon, a specialist in the epidemic unit, said the number of patients identified as the prevailing rainy climate and majority of paddy has begun.
+
+He was speaking at a special media briefing organized by the Health Development Bureau on Wednesday (11) regarding the spread of the flu.
+
+Last year alone, nine thousand people were identified and 200 people were killed and 200 people died from the country.. Most of the patients have been diagnosed in the districts of Ratnapura, Kurunegala, Galle, Matara and Colombo.
+
+10 to 12 districts have been identified as high risk areas. Approximately 10 thousand patients have been identified so far this year alone.
+
+Due to the prevailing rainy weather, the number of infections is also likely to increase.
 
 ...
 
-[Data](articles/1828cc05.json)
+[Data](articles/ec6b1a51.json)
+
+[Extended Data](ext_articles/ec6b1a51.ext.json)
 
 ---
 
-### ෆයිසර් මුස්තාපාගේ නම ගැසට් කෙරේ
+### Meeting Chinese Army Science Academy Inspectors and Representatives of Batfire Foundation
+
+*2024-12-11 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201003) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Beijing Army Science Academy reps met Batfire Foundation reps in Peliyagoda. Discussed strengthening ties, Chinese-Sri Lankan relations, security sector regulations, military law comparisons, and diplomatic policy approaches.
+
+🟩
+
+A meeting between Beijing's Army Science Academy and representatives of the Batfire Foundation Organization was recently held at the headquarters in Peliyagoda.
+
+Representatives of the Military Science Academy, representing the Beijing Military Law Studies Institute in Sri Lanka, have extended the new opportunities to strengthen relations with the Builder Foundation and discuss the benefits of both sides.
+
+During the meeting, a variety of important issues were discussed in detail, including a Zone, the Chinese -Sri Lankan relationship, the security sector regulations of the two countries, the comparison of the military law and the Pathpine Foundation, and the approaches to the establishment of a successful diplomatic policy system.
+
+◼️
+
+[Data](articles/1828cc05.json)
+
+[Extended Data](ext_articles/1828cc05.ext.json)
+
+---
+
+### Faizer Mustapha is gazetted
 
 *2024-12-11 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204276) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීධුරය ස﻿ඳහා ෆයිසර් මුස්තාපා මහතාගේ නම ගැසට් කර තිබේ.
+Here's a summary of 200 characters:
 
-මැතිවරණ කොමිෂන් සභාව විසින් මෙම ගැසට් නිවේදනය නිකුත් කිරීමට පියවර ගෙන තිබේ.
 
-පසුගිය පාර්ලිමේන්තු මැතිවරණයෙන් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ජාතික ලැයිස්තු මන්ත්‍රීධුර දෙකක් හිමිවිය.
 
-ඉන් එක් මන්ත්‍රීධුරයක් සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු වන රවී කරුණානායකගේ නම යෝජනා කිරීමට එම පෙරමුණේ විසින් පියවර ගෙන තිබුණි.
+Faizer Mustapha named in Democratic Front list. Election Commission issues gazette notification. NDF won 2 seats in last polls, proposed Ravi Karunanayake for both.
+
+🟩
+
+The name of the national listing of the new Democratic Front has been gazetted.
+
+Steps have been taken to issue the gazette notification by the Elections Commission.
+
+The New Democratic Front won two national listings in the last parliamentary election.
+
+The front was taken to propose Ravi Karunanayake, former parliamentarian for each of them.
 
 ◼️
 
 [Data](articles/5349c652.json)
+
+[Extended Data](ext_articles/5349c652.ext.json)
 
 ---
 
@@ -308,17 +450,29 @@ Further investigations have been initiated into other violations, including the 
 
 ---
 
-### மனித உரிமைகளும் பொறுப்புக்களும்
+### Human rights and responsibilities
 
 *2024-12-11 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200995) · `ta`
 
-வளர்ந்து வருகின்ற இன்றைய தொழிநுட்ப உலகில் காலத்திற்கு காலம், நிமிடத்துக்கு நிமிடம், செக்கனுக்கு செக்கன் மாற்றங்கள் இடம்பெற்றுக் கொண்டிருப்பதுடன், சமூக, அரசியல், கலாசார பொருளாதார விஞ்ஞான மற்றும் தொழிநுட்ப ரீதியாக துரித கதியில் மனித வாழ்க்கையின் இருப்பினை உறுதிசெய்து கொள்ளும் வகையில் இன்றைய சிந்தனையில் மனித உரிமைகளும் அதனுடன் இணைந்த மனித பொறுப்புக்களும் ஒன்றிலிருந்து ஒன்று பிரிக்க முடியாத வகையில் அமைவதுடன் காலத்தின் தேவைக்கேற்ப முக்கியத்துவமும், முன்னேற்றகரமான மனித வாழ்வின் தன்மானம், உயிர்வாழ்தல் அடிப்படையில் மனித வாழ்க்கையில் உரிமைகளின் தாற்பரியமும் உணரப்பட்டு வருகின்றது.
+Here's a summary of the text in approximately 200 characters:
 
-ஒரு நாணயத்தின் இருபக்கம் போல் மனித உரிமைகளும், மனித பொறுப்புக்களும் ஒன்றுடனொன்று நெருக்கமான தொடர்பினை கொண்டிருக்கின்றது. இயற்கையாக பிறந்த ஒவ்வொரு மனிதனும் சமுதாயத்தில் சுதந்திரமாக வாழ்வதற்கு கடமைப்பட்டுள்ளதுடன் மனிதனின் இருப்பிற்கு அவசியமான உரிமைகள் மனித உரிமைகள் எனப்படுகின்றது.
+
+
+Human rights & responsibilities: Global recognition, UN Declaration 1948. Importance in tech era. Challenges in implementation. Equal rights for all despite differences. Need for awareness & education to strengthen human rights in society.
+
+🟩
+
+In today's growing technology world, the second, minute, minute, secondary and secondary human rights, human rights and human responsibilities in today's thought are to ensure the existence of social, political, cultural and cultural science and technology in today's thought.The importance of the need, the dignity of the progressive human life, and the right to the rights of human life in terms of survival.
+
+Human rights and human responsibilities have a close connection with each other. Every human being born naturally is obliged to live freely in society and is called human rights.
+
+Human rights have been identified globally with a variety of rights. In general, rights are human demands accepted and finally implemented by society and the state.
 
 ...
 
 [Data](articles/be31a2d2.json)
+
+[Extended Data](ext_articles/be31a2d2.ext.json)
 
 ---
 
@@ -370,21 +524,35 @@ Overall, the report said the economy will likely contract 1% in annual terms in 
 
 ---
 
-### சுப்பர் ஸ்டார் ரஜினிகாந்த் வெளியிட்ட நடிகர் குணாநிதியின் 'அலங்கு' திரைப்படத்தின் முன்னோட்டம்
+### Super Star Rajinikanth's preview of actor Gunanidhi
 
 *2024-12-11 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200990) · `ta`
 
-'செல்ஃபி' படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் குணாநிதி கதையின் நாயகனாக நடித்திருக்கும் 'அலங்கு' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
 
-இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான சுப்பர் ஸ்டார் ரஜினிகாந்த் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
 
-இயக்குநர் எஸ். பி. சக்திவேல் இயக்கத்தில் உருவாகி இருக்கும் 'அலங்கு' எனும் திரைப்படத்தில் குணாநிதி, செம்பன் வினோத் , காளி வெங்கட் , சரத் அப்பாணி,  ஸ்ரீ ரேகா , கொற்றவை , ரெஜின் ரோஸ் , சண்முகம் முத்துச்சாமி , மாஸ்டர் அஜய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-எஸ். பாண்டி குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஜீஷ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை டி ஜி ஃபிலிம் கம்பனி மற்றும் மேக்னஸ் புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் டி . சபரீஷ் மற்றும் சங்க மித்ரா சௌமியா அன்புமணி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+"Super Star Rajinikanth congratulates 'Alanku' crew. Gunanidhi debuts Tamil cinema after 'Selfie'. Director Sakthivel's film stars Semban Vinod, Kali Venkat. Exciting border scenes increase expectations."
+
+🟩
+
+The preview of the film 'Alanku', starring the hero of the story of actor Gunanidhi, who has made his debut for Tamil fans through 'Selfie'.
+
+Super Star Rajinikanth, the leading star actor of the Tamil film industry, has congratulated the film crew.
+
+Director S.. B.. Sakthivel's upcoming film 'Alanku' stars Gunanidhi, Semban Vinod, Kali Venkat, Sarath Appani, Sri Rekha, Kothavai, Regin Rose, Shanmugam Muthushami, Master Ajay.
+
+S.. Ajish has composed the film, which has been recorded by Pandi Kumar. The film was made on behalf of DG Film Company and Magnus Productions.. Sabarish and Sangam Mithra Chaumia Anbumani have co -produced.
+
+It is noteworthy that Sangamitra Chaumia Anbumani is one of the political parties of Tamil Nadu, Dr. Ramadas, founder of the proletariat.
+
+The film is currently being released on the 27th of this month at the film House.
 
 ...
 
 [Data](articles/4f0c2127.json)
+
+[Extended Data](ext_articles/4f0c2127.ext.json)
 
 ---
 
@@ -401,6 +569,36 @@ Overall, the report said the economy will likely contract 1% in annual terms in 
 ...
 
 [Data](articles/53407246.json)
+
+---
+
+### නිලන්ත සහ පූජිතගේ මූලික විරෝධතා ප්‍රතික්ෂේප කරයි
+
+*2024-12-11 17:01:55* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-සහ-පූජිතගේ-මූලික-විරෝධතා-ප්‍රතික්ෂේප-කරයි/11-413585) · `si`
+
+පාස්කු බෝම්බ ප්‍රහාරයට අදා<ව පවරා ඇති වන්දි නඩුකර පොලිස් ආඥා පනතේ ප්‍රතිපාදන ප්‍රකාරව කාලාවරෝධී වී ඇති බවට ඉදිරිපත් කළ විරෝධතාවය, මූලික නෛතික විසඳිය යුතු ප්‍රශ්නයක් ලෙස සලකා බලන ලෙසට හිටපු පොලිස්පති පූජිත ජයසුන්දර සහ හිටපු රාජ්‍ය බුද්ධි ප්‍රධානී නිලන්ත ජයවර්ධන විසින් සිදුකරන ලද ඉල්ලීම මීගමුව දිසා විනිසුරු ලලිත් කංනන්ගර මහතා විසින් අද දින ( 11) ප්‍රතික්ෂේප කරන ලදී.
+
+පාස්කුබෝම්බ ප්‍රහාරයේ වින්දිතයන් විසින් වන්දි ඉල්ලා මීගමුව දිසා අධිකරණයේ පවරා ඇති වන්දි නඩු 182ක්විටින් විට පූර්ව නඩු විභාගයට ගත් අවස්ථාවේදී එම නඩුවල හතරවන සහ පස්වන විත්තිකරුවන් වන හිටපු පොලිස්පති පූජිත ජයසුන්දර සහ හිටපු රාජ්‍ය බුද්ධි ප්‍රධානී නිලන්ත ජයවර්ධන යන අයවළුන් පෙනී සිටි නීතීඥයන් තර්ක කර සිටියේ තම සේවාදායකයින් දෙදෙනාම පොලිස් නිළධාරීන් වන නිසා ඔවුන්ට එරෙහිව පවරන ඕනෑම නඩුවක් පොලිස් ආඥා පනතේ ප්‍රතිපාදන අනුව අදාල සිදුවීම සිදු වී මාස 3ක් තුළ පැවරිය යුතු බවයි.
+
+...
+
+[Data](articles/4256aa4f.json)
+
+---
+
+### பைசர் முஸ்தபாவின் நியமனம் தொடர்பில் பங்காளிக் கட்சிகளுக்கு அறிவிக்கப்படவில்லை - வஜிர அபேவர்தன
+
+*2024-12-11 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200978) · `ta`
+
+புதிய ஜனநாயக முன்னிணியின் தேசிய பட்டியல் உறுப்பினர்களை நியமிக்கும் அதிகாரம் அதன் செயலாளருக்கு கிடையாது. பைசர் முஸ்தபாவின் நியமனம் தொடர்பில் பங்காளி கட்சிகளுக்கும் அறிவிக்கப்படவில்லை. இது தொடர்பில் விரைவில் உரிய நடவடிக்கை எடுக்கப்படும் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+சமையல் எரிவாயு சின்னத்தில் பொதுத் தேர்தலில் போட்டியிடுவதற்கு தீர்மானிக்கப்பட்ட சந்தர்ப்பத்தில் பங்காளி கட்சி தலைவர்களுக்கிடையில் இணக்கப்பாடொன்று எட்டப்பட்டது. அதற்கமைய புதிய ஜனநாயக முன்னணி என்ற கட்சியுடன் ஒப்பந்தமும் கையெழுத்திடவும் தீர்மானிக்கப்பட்டது.
+
+இந்த கூட்டணியின் செயலாளராக ஷர்மிலா பெரேராவிடம் குறித்த இணக்கப்பாட்டுடன் கூடிய ஒப்பந்தம் ஒப்படைக்கப்பட்டது. இன்றுவரை குறித்த ஒப்பந்தத்தின் பிரதிகள் எந்தவொரு பங்காளி கட்சிக்கும் வழங்கப்படவில்லை. அதேபோன்று ஒப்பந்தத்தை சமர்ப்பிக்கவும் இன்னும் நடவடிக்கை எடுக்கப்படவில்லை.
+
+...
+
+[Data](articles/d2b1d85f.json)
 
 ---
 
@@ -421,6 +619,24 @@ The second phase upgraded the Archeology Museum’s displays and facilities, cre
 [Data](articles/ea92daf0.json)
 
 [Extended Data](ext_articles/ea92daf0.ext.json)
+
+---
+
+### ලංකා කම්කරු කොන්ග්‍රසය ප්‍රතිසංවිධානය කිරිමට යයි
+
+*2024-12-11 16:56:31* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොන්ග්‍රසය-ප්‍රතිසංවිධානය-කිරිමට-යයි/11-413584) · `si`
+
+ලංකා කම්කරු කොන්ග්‍රසය ප්‍රතිසංවිධානය කර ඉදිරියේදි පැවැත්වෙන පළාත් පාලන මැතිවරණයේදි පළාත් පාලන ආයතනවල බලය ලංකා කම්කරු කොන්ග්‍රසය සතු කර ගැනිමට ජාතික සභාව (11) දින තිරණය කල බව එම පක්ෂයේ ජෙෂ්ඨ උප සභාපති කනපති කනගරාජ් මහතා පැවසිය.
+
+කනපති කනගරාජ් මහතා ඒ බැව් කියා සිටියේ එම පක්ෂයේ නායක සෙන්දිල් තොණ්ඩමන් මහතා සහ මහ ලේකම් නුවරඑලිය දිස්ත්‍රික් පා.ම ජිවන් තොණ්ඩමන් මහතාගේ ප්‍රධානත්වයෙන් (11) දින හැටන් කොටගල ලංකා කම්කරු කොන්ග්‍රස් මුලස්ථානයේ පැවති ජාතික සභාවේ ගත් තිරණ සම්බන්ධයෙන් මාධ්‍ය දැනුවත් කරමිණි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දැක් වු කනපති කනගරාජ් මහතා කියා සිටියේ තම පක්ෂය ලබන වසරේ ජනවාරි මස ප්‍රතිසංවිධාන කටයුතු සිදු කරන බවත්, එහිදි පක්ෂ නායකත්වය හැර අනෙකුත් නිලයන් වෙනස් කර ඒ සදහා තරුණ කණ්ඩායම් පත් කර, එම කණ්ඩායම් වල අදහස් ලබා ගනිමින් ලංකා කම්කරු කොන්ග්‍රසය යලිත් ශක්තිමත් කරන බවයි.
+
+ජිවන් තොණ්ඩමන් මහතා වතුකරයේ ජනතාවට හිමිකම් ඔප්පු ලබාදිමේ වැඩසටහනක් දියත් කර තිබු බවත්, එම වැඩසටහන වත්මන් රජය මගින්ද සිදු කිරිම සම්බන්ධයෙන් රජයට සහය දක්වන බවයි කනපති කනගරාජ් මහතා කියා සිටියේ.
+
+...
+
+[Data](articles/5bd1400e.json)
 
 ---
 
@@ -2073,181 +2289,5 @@ Speaking on the matter, the association’s Vice President, Nandana Udayakumara,
 [Data](articles/69c3e4ec.json)
 
 [Extended Data](ext_articles/69c3e4ec.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 290.25/30 to dollar, bonds steady
-
-*2024-12-11 09:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-25-30-to-dollar-bonds-steady-193438/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 290.25/30 to the US dollar on Wednesday from 290.30/35 to the US dollar on Tuesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.10.2027 was quoted at 9.90/10.00 percent, from 9.90/10.05 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.35/45 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.85/92 percent, from 10.80/95 percent.
-
-A central bank auction of Rs. 206,000 million Treasury bills was ongoing. An auction of 132,500 million Treasury Bonds is to be held on Thursday.
-
-In equities, the All Share Price Index was up 0.28 percent or 39.19 points, at 13,814.
-
-The more liquid S&P SL20 was up 0.43 percent, or 17.65 points, at 4,131.
-
-◼️
-
-[Data](articles/4aa79ed5.json)
-
-[Extended Data](ext_articles/4aa79ed5.ext.json)
-
----
-
-### Two foreigners fall into a stream at Ahungalla Sea
-
-*2024-12-11 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204253) · `si`
-
-Two foreigners fell into a stream at Ahungalla Sea. A 29-year-old Romanian man and a 30-year-old Chinese woman were rescued by police officers on August 10th.
-
-🟩
-
-Foreign national male and a woman were under the streams of the sea in the Ahungalla police division.
-
-The accident had occurred yesterday (10), and the duties were given to the foreign couple expedited.
-
-The victim was a 29 year old Romanian, and the woman is a 30 year old Chinese.
-
-The survival of 29896 police protest to the Ahungalla police station, police constable, 19342 music and police constable, were rescue.
-
-◼️
-
-[Data](articles/8f3aa7e3.json)
-
-[Extended Data](ext_articles/8f3aa7e3.ext.json)
-
----
-
-### Adani Ports withdraws DFC funding request for Colombo port project
-
-*2024-12-11 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104154/adani-ports-withdraws-dfc-funding-request-for-colombo-port-project) · `en`
-
-India’s Adani Ports and Special Economic Zone Ltd said on Tuesday it would finance its Colombo port terminal project through internal accruals and a capital management plan, withdrawing its request for funding from the US International Development Finance Corp (DFC).
-
-DFC last year said it would provide $553 million in financing for the port terminal project, which is partly owned by the Adani Group.
-
-The company, however, said the Colombo West International Terminal project is progressing well and is on track for commissioning by early 2025.
-
-DFC did not immediately respond to a Reuters request for comment.
-
-Ports-to-edible oils Adani Group, controlled by Indian billionaire Gautam Adani, holds a 51% stake in the west container terminal of the port, which also has a terminal run by China Merchants Port Holdings Co Ltd.
-
-Sri Lankan conglomerate John Keells Holdings owns 34% of the terminal and the rest is held by the state-run Sri Lanka Ports Authority.
-
-...
-
-[Data](articles/7745a31d.json)
-
-[Extended Data](ext_articles/7745a31d.ext.json)
-
----
-
-### South Korean police search President Yoon’s office over martial law imposition, reports say
-
-*2024-12-11 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104153/south-korean-police-search-president-yoons-office-over-martial-law-imposition-reports-say) · `en`
-
-Yonhap news agency says police are searching President Yoon Suk Yeol’s office.
-
-Yonhap says the search is happening on Wednesday over Yoon’s Dec. 3 martial law declaration.
-
-The reported search happens as the country’s main law enforcement institutions are focusing on finding whether Yoon and others involved in the Dec. 3 martial law imposition committed rebellion.
-
-South Korea’s two highest police officers have been detained to be investigated for their roles in enforcing President Yoon Suk Yeol’s short-lived martial law decree last week, police said Wednesday.
-
-The development comes hours before the main liberal opposition Democratic Party submits a new motion to impeach Yoon as the country’s main law enforcement institutions expand their investigation into whether the president’s declaration amounted to rebellion. The first impeachment attempt failed last Saturday when the ruling party boycotted the vote. The Democratic Party said it aims to put the new motion to a vote on Saturday.
-
-...
-
-[Data](articles/14c70d47.json)
-
-[Extended Data](ext_articles/14c70d47.ext.json)
-
----
-
-### In the event of filled with reservoirs, electricity has been obtained from private power plants
-
-*2024-12-11 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204252) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Ceylon Electricity Board: Reservoirs full, hydroelectric power at max. Coal plant operates below capacity. Purchased electricity from private thermal plants due to insufficient hydro power generation.
-
-🟩
-
-The Ceylon Electricity Board of Engineering and Superintecess Association says that the water supply of electricity has been purchased at the maximum level of water in the reservoirs associates.
-
-The Association's Deputy Chairman Nandana Udayakumara said that such activities should be a search for whose requirements.
-
-"In the recent past, we have just got rain. The reservoir associates of our hydroelectric power plants was completely filled with. Also at the Norochcholai Power Plant has already taken a coal stock with coal. But last week's electricity board data has two-thirds of the Norochcholai coal power plant. One of those machines is operating at low capacity without running out of the maximum capacity. Accordingly, electricity has been purchased from private thermal power plants. When the hydro power plants can be implemented at the maximum capacity environment, whose knowledge could be implemented at the maximum capacity of the Norochcholai. "
-
-◼️
-
-[Data](articles/20fcea44.json)
-
-[Extended Data](ext_articles/20fcea44.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-12-11 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104152/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the low-pressure area over the southwest Bay of Bengal is very likely to continue to move west-northwestwards towards the Tamil Nadu coast close to Northern Sri Lanka during the next 24 hours.
-
-Showers or thundershowers will occur at times in Northern, North-central, Eastern and North-western provinces. Heavy showers above 100mm are likely at some places in Northern province.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night, it added.
-
-Misty conditions can be expected in Central, Sabaragamuwa, Southern, Uva, Western and North-western provinces during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/332a9a25.json)
-
-[Extended Data](ext_articles/332a9a25.ext.json)
-
----
-
-### Another person dies in Jaffna
-
-*2024-12-11 08:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காய்ச்சலால்-யாழில்-மேலும்-ஒருவர்-உயிரிழப்பு/175-348561) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Death toll rises in Jaffna: Mysterious fever claims another victim. Health officials warn of escalating danger as cases spread.
-
-🟩
-
-One person died on Tuesday due to a mysterious fever that has been spreading for the past few days in Jaffna district.. The health department has warned that the situation is becoming dangerous day by day.
-
-The mother of a child who had been caught by the fever for five days died yesterday without treatment.
-
-Yall. The deceased is Suresh Kumar Ranjita (33 years old) from Odkarai, a college road belonging to the Point Pedro Police Division.
-
-He was taking Panadol pills following a fever symptom on Friday 6th. He visited the Point Pedro Base Hospital on Monday after the fever did not stop. He is fed up there.
-
-He is immediately in Jaffna. He was transferred to the Teaching Hospital yesterday morning and died on Tuesday morning.
-
-The woman's respiratory tract has been severely affected and she may have had a fever or a rat fever.. However, the health department said that he died of the disease only after receiving test reports from Colombo.. (A)
-
-◼️
-
-[Data](articles/19f2f7ec.json)
-
-[Extended Data](ext_articles/19f2f7ec.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 10:17:09**
+As of **2024-12-12 10:43:00**
 
 ## Newspaper Stats
 
-*Scraped **59,738** Articles*
+*Scraped **59,741** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 448
+dbsjeyarajcom | 449
 colombotelegraphcom | 606
 bbccomsinhala | 624
 islandlk | 3,608
@@ -18,7 +18,7 @@ dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,673
 adaderanalk | 7,272
-tamilmirrorlk | 8,528
+tamilmirrorlk | 8,530
 virakesarilk | 9,797
 adaderanasinhalalk | 10,326
 
@@ -26,57 +26,115 @@ adaderanasinhalalk | 10,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,707 (99.9%) of 59,738 articles have been extended.
+59,711 (99.9%) of 59,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### வழமைக்கு திரும்பிய பேஸ்புக், வட்ஸ்அப் சேவைகள்
+### தெற்கு அதிவேக நெடுஞ்சாலையில் கோர விபத்து
+
+*2024-12-12 10:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலையில்-கோர-விபத்து/175-348611) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையின் 100வது கிலோமீற்றரில் கார் ஒன்று லொறியுடன் மோதியதில் பத்து வயது சிறுமி உயிரிழந்துள்ளதாக பின்னதுவ நிர்வாக நிலையம் தெரிவித்துள்ளது.
+
+மாத்தறை நுபே பகுதியைச் சேர்ந்த செனுதி தம்சரா என்ற சிறுமியே இவ்வாறு உயிரிழந்துள்ளார்.
+
+விபத்தில் உயிரிழந்த சிறுமியின் தாய், தந்தை மற்றும் மூத்த சகோதரி படுகாயமடைந்த நிலையில் கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+கொழும்பில் இருந்து மாத்தறை நோக்கி பயணித்த லொறி மற்றும் அதே திசையில் பயணித்த கார், லொறியின் பின் பக்கம் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது. R
+
+◼️
+
+[Data](articles/e0a9acd8.json)
+
+---
+
+### 4/21 order to investigate the case
+
+*2024-12-12 10:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-வழக்கை-விசாரிக்க-உத்தரவு/175-348608) · `ta`
+
+N
+
+🟩
+
+Negombo District Magistrate Lalith Kannangara on Wednesday (11), who rejected the request of former Inspector General of Police Poojitha Jayasundera and former State Intelligence Unit leader Nilanda Jayawardena to dismiss the cases filed by the victims of the Easter bomb attack.
+
+Former President Maithripala Sirisena, President Ranil Wickremesinghe, Former Defense Secretary Hemasiri Fernando, Former Police Inspector Poojitha Jayasundera and Senior Deputy Inspector General of Police Nilanda Jayawardena of the former Investigation Division have filed 182 NDA.
+
+Former police chief Poojitha Jayasundera and former Chief of State Investigation Division, Nilantha Jayawardena, said that both lawyers and their party members were police officers, and that no lawsuit should be filed 3 months after the incident of police rules.
+
+...
+
+[Data](articles/4242f377.json)
+
+[Extended Data](ext_articles/4242f377.ext.json)
+
+---
+
+### Facebook and WhatsApp services returned to us
 
 *2024-12-12 09:50:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பிய-பேஸ்புக்-வட்ஸ்அப்-சேவைகள்/175-348607) · `ta`
 
-நாட்டில் பல மணி நேரம் செயலற்ற நிலையில் இருந்த பேஸ்புக், வாட்ஸ்அப் மற்றும் இன்ஸ்டாகிராம் ஆகியவை வழமைக்கு திரும்பியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+Facebook, WhatsApp, Instagram restored after outage. Meta confirms technical issue affecting app access worldwide. Users report inability to send SMS via WhatsApp. Company apologizes for inconvenience and working to resolve issue promptly.
 
-எனினும், உலகம் முழுவதும் மெட்டா சேவைகள் வழமைக்கு திரும்பியதா என்பது தொடர்பில் இதுவரையில் அந்நிறுவனம் உறுதிப்படுத்தவில்லை எனவும் சுட்டிக்காட்டப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய, புதன்கிழமை (11) நள்ளிரவு முதல் உலகின் பல்வேறு பகுதிகளில் வட்ஸ்அப், பேஸ்புக் உள்ளிட்ட மெட்டா சேவைகள் முடங்கியதால் பயனர்கள் பெரும் அவதிக்குள்ளாகினர்.
+International media reports that Facebook, WhatsApp and Instagram, which have been inactive for several hours in the country, have returned.
 
-நேற்றிரவு 11 மணி முதல் வட்ஸ்அப் செயலியின் மூலம் குறுந்தகவல்கள் எதுவும் பகிர இயலவில்லை என்று எக்ஸ் தளத்தில் உலகம் முழுவதும் உள்ள பயனர்கள் முறைப்பாடுகளை அளித்து வந்தனர்.
+However, it has been pointed out that the company has not yet confirmed whether the world has returned to us.
 
-இந்நிலையில், மெட்டா நிறுவனம் இது தொடர்பில் தமது எக்ஸ் தளத்தில் பதிவொன்றை வௌியிட்டிருந்தது.
+Accordingly, users have been severely affected by the paralysis of the metaphoric services including WhatsApp and Facebook in different parts of the world since midnight on Wednesday (11).
 
-அதில், "தொழில்நுட்பச் சிக்கல் காரணமாக சில பயனர்களின் பயன்பாடுகளை அணுகும் திறனைப் பாதிக்கிறது என்பதை நாங்கள் அறிவோம்.
+Users around the world have lodged complaints from the X site that no SMS could be shared through the WhatsApp processor from 11 pm last night.
 
-முடிந்தவரை விரைவாக விடயங்களை இயல்பு நிலைக்கு கொண்டு வர நாங்கள் உழைத்து வருகிறோம், சிரமத்திற்கு மன்னிப்பு கேட்டுக்கொள்கிறோம்." என்று பதிவிட்டுள்ளது.
+In the meantime, Meta has posted a record on its X site.
+
+In it, we know that "a technical problem affects the ability to access some users' applications.
+
+We are working to normalize things as quickly as possible and apologize for the inconvenience. ”
 
 ◼️
 
 [Data](articles/ac71756b.json)
 
+[Extended Data](ext_articles/ac71756b.ext.json)
+
 ---
 
-### வாட்ஸ்அப்பில் அசத்தும் புதிய அப்டேட்
+### New update on WhatsApp
 
 *2024-12-12 09:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-அசத்தும்-புதிய-அப்டேட்/57-348606) · `ta`
 
-பயனர்கள் தங்கள் செய்திகளை நிர்வகிக்கும் விதத்தை புரட்சிகரமாக்கும் புதிய அப்டேட்டை வாட்ஸ் அப் வெளியிட உள்ளது.
+Here's a summary of the WhatsApp update in 200 characters:
 
-இந்த அப்டேட்டில், பயனர்களுக்கு படிக்கப்படாத செய்திகளை நினைவூட்டும் புதிய அம்சம் அறிமுகப்படுத்தப்பட உள்ளது, இதனால் முக்கியமான எந்த உரையாடலும் தவறவிடப்படாது என்று தெரிவிக்கப்பட்டுள்ளது.
 
-புதிய நினைவூட்டல் அம்சமானது, வாட்ஸ்அப் பயனர்களுக்கு அவர்கள் இன்னும் பார்க்காத செய்திகளைப் பற்றி அவ்வப்போது அறிவிக்கும்.
 
-இந்த செயல்பாடு பயன்பாட்டின் அறிவிப்பு அமைப்புகள் மூலம் தனிப்பட்ட விருப்பங்களுக்கு ஏற்ப தனிப்பயனாக்கப்படலாம்.
+WhatsApp introduces new reminder feature for unread messages. Users can customize notifications. Available now for Android beta testers (version 2.24.25.29). Soon rolling out to all users on both Android and iOS.
 
-இந்த அம்சத்தை முயற்சி செய்ய, ஆண்ட்ராய்டு பயனர்கள் வாட்ஸ்அப் பீட்டா திட்டத்தில் சேரலாம் மற்றும் 2.24.25.29 பதிப்புக்கு மேம்படுத்தலாம்.
+🟩
 
-இந்த புதிய நினைவூட்டல் அம்சம் செயல்பாட்டிற்கு கொண்டு வந்தால்,பயனர்களுக்கு படிக்கப்படாத செய்திகளைப் பற்றி, குறிப்பாக அடிக்கடி தொடர்பு கொள்ளும் நபர்களிடமிருந்து வரும் செய்திகளைப் பற்றி எச்சரிக்கும்.
+WhatsApp is to release a new update to revolutionize users managing their messages.
 
-இந்த அம்சம் தற்போது பீட்டா பரிசோதனையாளர்களுக்கு கிடைக்கக்கூடிய நிலையில், வாட்ஸ்அப் விரைவில் அனைத்து பயனர்களுக்கும் இதை வெளியிட உள்ளது.
+In this update, a new feature to commemorates unreadable messages is to be introduced, so that no important conversation will be missed.
 
-...
+The new reminder feature will announce from time to time to WhatsApp users they have not yet seen.
+
+This function can be customized according to the personal preferences by the notification systems of the application.
+
+To try this feature, Android users can join the WhatsApp beta scheme and upgrade to the 2.24.25.29 version.
+
+If this new reminder feature is put into operation, we will warn users about unadwashed messages, especially those who are often interacted.
+
+While this feature is currently available to beta examiners, WhatsApp will soon release it to all users.
+
+Both Android and iOS users can expect the benefits of this useful new tool.
+
+◼️
 
 [Data](articles/4db03395.json)
+
+[Extended Data](ext_articles/4db03395.ext.json)
 
 ---
 
@@ -97,6 +155,8 @@ While Security Council resolutions are legally binding, General Assembly resolut
 ...
 
 [Data](articles/0e8f8bd0.json)
+
+[Extended Data](ext_articles/0e8f8bd0.ext.json)
 
 ---
 
@@ -454,9 +514,9 @@ Union Bank and Employers Federation of Ceylon Chairman Dinesh Weerakkody shared 
 
 Q: You have chaired three banks in Sri Lanka and served on other banking boards. How does that feel?
 
-A: It has been an honour and privilege to chair two of Sri Lanka’s largest public quoted banks HNB and Commercial Bank and now Union Bank. Each experience has been unique though challenging no doubt but rewarding, offering valuable insights into the evolving dynamics of the banking sector.
+It has been an honour and privilege to chair two of Sri Lanka’s largest public quoted banks HNB and Commercial Bank and now Union Bank. Each experience has been unique though challenging no doubt but rewarding, offering valuable insights into the evolving dynamics of the banking sector.
 
-Q: How does Union Bank’s product range and services compare to competitors?
+Q: How does Union Bank’s product range and services compare to competitors?
 
 ...
 
@@ -689,6 +749,34 @@ Minister of Rural Development, Social Security and Social Reinforcement. (A)
 ...
 
 [Data](articles/9cffd149.json)
+
+---
+
+### Sweet and Sour Election Results for Ilankai Thamil Arasuk Katchi(ITAK).: On Top in Batticaloa but Down in Jaffna.
+
+*2024-12-12 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85181) · `en`
+
+“Mata Allanda Bariwune,Madakkalappuwa vitharai” (I was unable to capture only Batticaloa)  were the words with which  President Anura Kumara Dissanayake smilingly greeted “Mattakkalappu”MP Shanakiyan Rajaputhiran Rasamanickam in Parliament on 21st November. The president was mingling with the  parliamentarians at the inaugural session of the tenth parliament. Anura was of course alluding to the  November 14  parliamentary election in which the AKD led  JVP-NPP came first in all  electoral districts of Sri Lanka except  Batticaloa. That eastern district went to the Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP).The ITAK won three of the five seats in B’caloa. The other two seats went to the National People’s Power(NPP) and Sri Lanka Muslim Congress(SLMC)respectively
+
+...
+
+[Data](articles/32712fb1.json)
+
+[Extended Data](ext_articles/32712fb1.ext.json)
+
+---
+
+### தமிழரசு கட்சி மட்டக்களப்பில் பெற்ற பெருவெற்றியும் யாழ்ப்பாணத்தில் அடைந்த படுதோல்வியும்
+
+*2024-12-12 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85193) · `en`
+
+பாராளுமன்றத்தில்  நவம்பர் 21 ஆம் திகதி மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராஜபுத்திரன் இராசமாணிக்கத்தை  புன்முறுவலுடன் வரவேற்ற ஜனாதிபதி அநுர குமார திசாநாயக்க  கூறிய வார்த்தைகள் இவை.
+
+பத்தாவது பாராளுமன்றத்தின் அங்குரார்ப்பணக் கூட்டத்தின்போது பாராளுமன்ற உறுப்பினர்களுடன் ஒன்றறக்கலந்து ஜனாதிபதி அன்னியோன்யமாக உரையாடினார். நவம்பர் 14 பாராளுமன்ற தேர்தலைப் பற்றியே சாணக்கியனிடம் அவர் அவ்வாறு மறைபொருளாக கூறினார். மட்டக்களப்பை தவிர இலங்கையின் சகல தேர்தல் மாவட்டங்களிலும் அநுர குமார திசாநாயக்க தலைமையிலான ஜே.வி.பி. / தேசிய மக்கள் சக்தி முதலாவதாக வந்தது. அந்த கிழக்கு மாவட்டத்தை இலங்கை தமிழரசு கட்சி கைப்பற்றியது. மட்டக்களப்பின் ஐந்து பாராளுமன்ற ஆசனங்களில் மூன்று அந்த கட்சிக்கு கிடைத்தது. தேசிய மக்கள் சக்தியும் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸும் தலா ஒவ்வொரு ஆசனத்தைப் பெற்றுக்கொண்டன.
+
+...
+
+[Data](articles/5e71fb03.json)
 
 ---
 
@@ -2225,103 +2313,5 @@ The project for the project, "the US International Development Finance Corporati
 [Data](articles/a64f10e1.json)
 
 [Extended Data](ext_articles/a64f10e1.ext.json)
-
----
-
-### Death toll rises as unidentified fever spreads in Jaffna
-
-*2024-12-11 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104168/death-toll-rises-as-unidentified-fever-spreads-in-jaffna) · `en`
-
-The death toll from the unidentified fever spreading in Jaffna has risen to five, according to the Jaffna Hospital Director Dr. T. Sathyamoorthy.
-
-Speaking at a media briefing, Dr. Sathyamoorthy confirmed that the deceased, aged between 20 and 65, succumbed to the fever and respiratory complications. While the illness is suspected to be leptospirosis, commonly known as rat fever, he stated that blood samples have been sent to Colombo for further testing to confirm the diagnosis.
-
-At a separate media briefing held at the Health Promotion Bureau today (11), Dr. Kumudu Weerakoon from the Epidemiology Unit of the Ministry of Health emphasized that detailed investigations are underway to identify the exact nature of the disease.
-
-Health authorities continue to monitor the situation closely, with measures being taken to contain the spread of the illness and provide necessary medical care to affected individuals.
-
-◼️
-
-[Data](articles/3f1d2b3e.json)
-
-[Extended Data](ext_articles/3f1d2b3e.ext.json)
-
----
-
-### Onmax dt case postponed
-
-*2024-12-11 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204272) · `si`
-
-ONMAX DT pyramid scheme case: CID informs court of Rs. 2.96 billion loss; 865 victims identified; 9 suspects arrested; 3 more sought internationally; 31 properties seized; repayment plan ordered by Magistrate.
-
-🟩
-
-The Criminal Investigation Department (CID) has informed the Colombo Magistrate's Court that the ONMAX DT is investing in investing investments in the pyramid investment system.
-
-Accordingly, they have lost Rs. 2.96 billion.
-
-The complaint was summoned before Colombo Chief Magistrate Thilina Gamage today (11), said the officials of the CID.
-
-The officials were pointed out that 865 persons have been deployed by 865 persons who have lost their money have been submitted by 865 persons who have lost their money.
-
-At that time, nine suspects including directors and the suspects appear before the court.
-
-Meanwhile, three more suspects have been abroad and have been opened by the Court as to the arrest.
-
-The officers of the Criminal Investigations Department (CID), the officials of the Criminal Investigations Department (CID) said that the investigations of the Criminal Investigations Department (CID) have been investigated by the Criminal Investigation Department (CID).
-
-...
-
-[Data](articles/182295f7.json)
-
-[Extended Data](ext_articles/182295f7.ext.json)
-
----
-
-### Commissioner's decision on electricity tariff revision. On the 17th
-
-*2024-12-11 15:59:40* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-ගැන-කොමිෂමේ-තීන්දුව-ජන--17දා/11-413582) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-CEB proposes electricity tariff revision. Public consultation from Jan to Jun 2023. Decision expected on 17th Jan 2025.
-
-🟩
-
-The Commission issued a statement issued by the Ceylon Electricity Board's Electricity Board (CEB) on the proposal proposal to the proposal proposal to be taken on 17th January 2025.
-
-The Ceylon Electricity Board (CEB) has commenced public views on the amendment of the Ceylon Electricity Board for six months from January to June.
-
-◼️
-
-[Data](articles/76ce91f0.json)
-
-[Extended Data](ext_articles/76ce91f0.ext.json)
-
----
-
-### Ban was completed by Dikwella's match
-
-*2024-12-11 15:45:16* · [`adalk`](https://www.ada.lk/sports/දික්වැල්ලගේ-තරග-තහනම-අවසන්/9-413581) · `si`
-
-Niroshan Dickwella's ban reduced from 3 years to 3 months after appeal. Ban implemented in September. He'll participate in Sri Lanka Premier League as cricket captain.
-
-🟩
-
-Cricketer Niroshan Dickwella's ban has acted in a three-year cricketer, Niroshan Dickwella's ban.
-
-This decision has been taken in accordance with the appeal of the match against the ban. The three-year cricket ban on the Dickwella has been reduced to three months.
-
-Accordingly, he had banned cricket in September, and the ban on Dickwella will withdraw due to its implementation.
-
-Accordingly, he will play cricket playing. In the Sri Lanka Premier League Cricket captain, he was confirmed that he had used the drug.
-
-◼️
-
-[Data](articles/c0a890e8.json)
-
-[Extended Data](ext_articles/c0a890e8.ext.json)
 
 ---

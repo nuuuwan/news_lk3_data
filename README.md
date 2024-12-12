@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 09:43:10**
+As of **2024-12-12 09:20:42**
 
 ## Newspaper Stats
 
-*Scraped **59,733** Articles*
+*Scraped **59,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,608
 economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,673
+adalk | 5,672
 adaderanalk | 7,270
 tamilmirrorlk | 8,525
 virakesarilk | 9,797
@@ -26,33 +26,27 @@ adaderanasinhalalk | 10,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,706 (100.0%) of 59,733 articles have been extended.
+59,702 (99.9%) of 59,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### 4 Sri Lankans arrested in Tamil Nadu
+### 4 இலங்கையர்கள் தமிழ்நாட்டில் கைது
 
 *2024-12-12 09:08:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-இலங்கையர்கள்-தமிழ்நாட்டில்-கைது/175-348604) · `ta`
 
-Sri Lankan nationals arrested in Tamil Nadu for illegal sea travel plans. Four individuals detained by Thangachimadam police. Investigation ongoing.
+தமிழ்நாட்டின் ராமேஸ்வரம் பகுதியில் சுற்றித் திரிந்த இலங்கையைச் சேர்ந்த 4 பேர் 10ஆம் திகதி இரவு தங்கச்சிமடம் பொலிஸாரால் கைது செய்யப்பட்டனர்.
 
-🟩
+கைது செய்யப்பட்ட நால்வரும், சி.சேகர் என்கிற ராஜ்மோகன் (39), ஆர். கோகிலவாணி (44), ஆர். சசி குமார் (28), எம். நாகராஜ் (68) ஆகியோர் என பொலிஸார் தெரிவிக்கின்றனர்.
 
-Four Sri Lankan people were arrested by the Thangachimadam police on the night of the 10th.
+மேலும் இவர்கள் கடல் வழியாக சட்டவிரோதமாக இலங்கை செல்ல திட்டமிட்டிருந்தமை விசாரணையில் தெரியவந்தது.
 
-The four arrested, C. Sekhar alias Rajmohan, 39,. Kokilawani (44), R. Sasi Kumar (28), M. Nagaraj, 68, said police.
-
-Investigations revealed that they were planning to go to Sri Lanka illegally by sea.
-
-Kokilawani and Mr.. Sasikumar was staying at the Mandapam camp and Shekhar came to India in 2019. It is also reported that India arrived three months ago on the Nagaraj boat. Remble
+கோகிலவாணி மற்றும் திரு. சசிகுமார் ஆகியோர் மண்டபம் முகாமில் தங்கியிருந்ததுடன்,  சேகர் 2019இல் இந்தியாவுக்கு வந்துள்ளார். மேலும், நாகராஜ் படகில் மூன்று மாதங்களுக்கு முன் இந்தியா வந்துள்ளதாகவும் தெரிவிக்கப்படுகின்றது. R
 
 ◼️
 
 [Data](articles/c5203cac.json)
-
-[Extended Data](ext_articles/c5203cac.ext.json)
 
 ---
 
@@ -186,31 +180,25 @@ In the year 2021, the similar crash took place, and the inputs were disabled in 
 
 ---
 
-### A change in the weather
+### කාලගුණයේ වෙනසක්
 
 *2024-12-12 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204285) · `si`
 
-Weather update: Low pressure system affects northern regions, heavy showers expected, thunderstorms possible, lightning warnings issued.
+නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අඩු පීඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට සෙමින් ගමන් කරමින්, ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-🟩
+උතුරු,උතුරු මැද, නැගෙනහිර, වයඹ, සහ බස්නාහිර පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
 
-The Department of Meteorology says that the low pressure zone of the south-long Bay of Bay of Baying region will continue to reach the Thamilpura Beach.
+උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 75 පමණතරමක් තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
 
-Showers or thundershowers will occur at times in the Northern, North Central, Eastern, North Western and Western provinces.
+සෙසු ප්‍රදේශවල  සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
 
-MM to certain places in the Northern Province. About 75 heavy showers could be caused.
+මධ්‍යම, සබරගමුව, දකුණ, සහ ඌව පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
 
-Showers or thundershowers will occur at the evening or evening.
-
-There is a murder in the Central, Sabaragamuwa, Southern and Uva provinces.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
 
 ◼️
 
 [Data](articles/1d251d6f.json)
-
-[Extended Data](ext_articles/1d251d6f.ext.json)
 
 ---
 
@@ -244,8 +232,6 @@ The event, held at the Ministry of Public Administration, Home Affairs, Provinci
 
 [Data](articles/4fb97776.json)
 
-[Extended Data](ext_articles/4fb97776.ext.json)
-
 ---
 
 ### IFC, Women in Management,  Diversity Collective Lanka foster  respectful workplaces across SMEs
@@ -259,8 +245,6 @@ A first-of-its-kind partnership, this program will empower WIM and DCLK Respectf
 ...
 
 [Data](articles/909cb58a.json)
-
-[Extended Data](ext_articles/909cb58a.ext.json)
 
 ---
 
@@ -1089,22 +1073,6 @@ Twenty20s will be held on December 28, 30 and January 2.
 [Data](articles/9c540c96.json)
 
 [Extended Data](ext_articles/9c540c96.ext.json)
-
----
-
-### රට විරුවන්ට දුන් විද්‍යුත් වාහන ආනයන බලපත්‍ර අවභාවිත කළ හැටි මෙන්න
-
-*2024-12-11 18:14:21* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ට-දුන්-විද්‍යුත්-වාහන-ආනයන-බලපත්‍ර-අවභාවිත-කළ-හැටි-මෙන්න/11-413591) · `si`
-
-රට විරුවන්ට බදු නිදහස්ව විද්‍යුත් වාහන 510 ක් ආනයනය කිරීමෙන් රජයට රුපියල් මිලියන1384 ක බදු ආදායමක් අහිමි වෙලා
-
-කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය මගින් එතෙර රැකියාවල නියුතු ශ්‍රී ලාංකිකයන්ට ඔවුන් එවනු ලබන විදේශ ප්‍රේෂණ මත බදු නිදහස්ව පූර්ණ විද්‍යුත් වාහන ආනයනය කිරීමට  ක්‍රියාත්මක කළ යෝජනාව යටතේ  නිකුත් කළ වලංගු බලපත්‍ර 1000 ක් අතරින් ආනයනය කරන ලද විද්‍යුත් වාහන 510 ක් වෙනුවෙන් පමණක්  සුඛෝපභෝගී බදු නිදහස් සීමාව රුපියල් මිලියන හයේ සිට දොළහ දක්වා ඉහළ දැමීමෙන් අයකර ගැනීමට හැකිව තිබූ රුපියල් මිලියන 1384 ක බදු ආදායමක් රජයට අහිමි වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
-
-එමෙන්ම මෙම වැඩ පිළිවෙළ සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතියෙන්  පත්කල කමිටු නිර්දේශ හා චක්‍රලේඛවල   මූලික  ප්‍රතිපත්තිමය කරුණු හතරක් ඇතුළු නිර්දේශ උල්ලංඝනය කරමින් එවකට  විදේශ රැකියා අමාත්‍යාංශයේ ලේකම්වරයා සහ නිලධාරීන් පිරිසක්  සිය අධිකාරි   බලය අවභාවිතා කරමින්  කටයුතු කිරීම නිසා මෙම වැඩ සටහන විනිවිද බවින් තොරව සිදුකර ඇති ව්‍යාපාරයක් බවට පත්වී ඇතැයිද විගණන කාර්යාලය අනාවරණය කරයි.
-
-...
-
-[Data](articles/2cd07dcd.json)
 
 ---
 
@@ -2339,5 +2307,29 @@ The island is popular for nature with beaches and tropical climate, with most Eu
 [Data](articles/c57f9438.json)
 
 [Extended Data](ext_articles/c57f9438.ext.json)
+
+---
+
+### Colombo Port Project: Adani refuses to accept US funding
+
+*2024-12-11 15:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-துறைமுக-திட்டம்-அமெரிக்க-நிதியுதவியை-ஏற்க-அதானி-மறுப்பு/175-348585) · `ta`
+
+Adani rejects US funding for Colombo Port project due to compliance issues and bribery allegations.
+
+🟩
+
+Adani has said that the US company has agreed to provide financial assistance to Adani, which is setting up a new terminal at the port of Colombo, Sri Lanka.
+
+In the Colombo sector, the development, construction and movement of the deep sea container terminal known as the Colombo West International Terminal (CWIT). The CWIT is being formed by the Federation of Adani Ports, Sri Lankan joint venture, John Keells Holdings PLC and the Sri Lanka Port Authority (SLPA).
+
+In November last year, the US International Development Finance Corporation (US IDFC) agreed to provide $ 553 million loan assistance to the project.. In this case, the Adani Group has left the loan agreement with the US company.
+
+“The project will be funded by the company's internal fundraising and capital management plan. We have withdrawn our request for funding from the International Development Finance Corporation. ”Has been reported.
+
+...
+
+[Data](articles/3ba58261.json)
+
+[Extended Data](ext_articles/3ba58261.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 02:14:40**
+As of **2024-12-13 01:43:25**
 
 ## Newspaper Stats
 
-*Scraped **59,879** Articles*
+*Scraped **59,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
 tamilmirrorlk | 8,558
-virakesarilk | 9,827
+virakesarilk | 9,826
 adaderanasinhalalk | 10,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,844 (99.9%) of 59,879 articles have been extended.
+59,838 (99.9%) of 59,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
-
-### சரித் அசலன்க துடுப்பாட்டத்திலும் ட்ரவீன் மெத்யூஸ் பந்துவீச்சிலும் அபாரம்; ஜெவ்னா டைட்டன்ஸ் இரண்டாவது வெற்றி
-
-*2024-12-13 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201122) · `ta`
-
-கண்டி பல்லேகலை சர்வதேச விளையாட்டரங்கில் வியாழக்கிழமை (12) இரவு நடைபெற்ற லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் கலம்போ ஜகுவார்ஸ் அணியை 40 ஓட்டங்களால் மிக இலகுவாக ஜெவ்னா டைட்டன்ஸ் வெற்றிகொண்டது.
-
-சரித் அசலன்க குவித்த அரைச் சதமும் குசல் மெண்டிஸுடன் 2ஆவது விக்கெட்டில் அவர் பகிர்ந்த 80 ஓட்டங்களும் ஜெவ்னா டைட்டன்ஸ் அணியின் மொத்த எண்ணிக்கைக்கு வலு சேர்த்துக்கொடுத்தது.
-
-போட்டியின் முதாலாம் நாளானபுதன்கிழமை (11) நடைபெற்ற ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணிக்கு எதிரான போட்டியில் 4 விக்கெட்களை வீழ்த்திய ட்ரவின் மெத்யூஸ் வியாழக்கிழமை (12) போட்டியிலும் திறமையாக பந்தவீசி 3 விக்கெட்களை வீழ்த்தி தனது அணியின் வெற்றியில் முக்கிய பங்காற்றினார்.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ஜெவ்னா டைட்டன்ஸ் 10 ஓவர்களில் 6 விக்கெட்களை இழந்து 138 ஓட்டங்களைப் பெற்றது.
-
-அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் அத்தியாயத்தில் ஓர் அணியினால் பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாக  இது பதிவானது.
-
-ஏஞ்சலோ மெத்யூஸ் வீசிய முதலாவது ஓவரின் இரண்டாவது பந்தில் டொம் கோஹ்லர் கெட்மோர் ஓட்டம் பெறாமல் ஆட்டம் இழந்தார்.
-
-...
-
-[Data](articles/f0b8f099.json)
-
----
 
 ### The new government will take action against Udayanga and Kapila;International Truth and Justice Faith
 
@@ -1946,8 +1924,6 @@ Tourism and construction industries have also attracted investor interest amidst
 
 [Data](articles/301cd860.json)
 
-[Extended Data](ext_articles/301cd860.ext.json)
-
 ---
 
 ### Beginning of a program of contraception for monkeys
@@ -2097,8 +2073,6 @@ The session was conducted in collaboration with the Packaging Experts from the I
 ...
 
 [Data](articles/6d228674.json)
-
-[Extended Data](ext_articles/6d228674.ext.json)
 
 ---
 
@@ -2553,5 +2527,25 @@ Accordingly, the complaint agreed that the Sri Lanka Muslim Congress General Sec
 [Data](articles/a1e7bd3e.json)
 
 [Extended Data](ext_articles/a1e7bd3e.ext.json)
+
+---
+
+### Ceylon Bank and Sri Lankan post unite to revolutionize bank access
+
+*2024-12-12 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201067) · `ta`
+
+Bank of Ceylon and Sri Lanka Post unite to expand banking access nationwide. Their joint initiative, BOC Connect, integrates banking services with postal networks, aiming to reach underserved communities. The partnership leverages both organizations' strengths to provide secure, convenient financial services, including small business support and international money transfers.
+
+🟩
+
+The Bank of Ceylon (BOC) and Sri Lanka Post have entered a wonderful alliance to redistribute the access of banking services across Sri Lanka. BOC's banking profession is combined with the extensive network of the Sri Lanka Post, and initially gathered with 100 post and sub -post offices. This effort aims to provide essential financial services to the most backward communities of the country.
+
+The official launch of the gathering was held in Colombo, attended by prominent dignitaries including the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, Additional Secretary of the Ministry of Mass Media, Mrs. Deepa Liyanage and Post Office Mr. Ruwan Satkumara.
+
+...
+
+[Data](articles/96567897.json)
+
+[Extended Data](ext_articles/96567897.ext.json)
 
 ---

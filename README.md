@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 09:20:42**
+As of **2024-12-12 10:02:05**
 
 ## Newspaper Stats
 
-*Scraped **59,732** Articles*
+*Scraped **59,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,672
-adaderanalk | 7,270
-tamilmirrorlk | 8,525
+adalk | 5,673
+adaderanalk | 7,272
+tamilmirrorlk | 8,528
 virakesarilk | 9,797
 adaderanasinhalalk | 10,326
 
@@ -26,27 +26,121 @@ adaderanasinhalalk | 10,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,702 (99.9%) of 59,732 articles have been extended.
+59,707 (99.9%) of 59,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### 4 இலங்கையர்கள் தமிழ்நாட்டில் கைது
+### வழமைக்கு திரும்பிய பேஸ்புக், வட்ஸ்அப் சேவைகள்
+
+*2024-12-12 09:50:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பிய-பேஸ்புக்-வட்ஸ்அப்-சேவைகள்/175-348607) · `ta`
+
+நாட்டில் பல மணி நேரம் செயலற்ற நிலையில் இருந்த பேஸ்புக், வாட்ஸ்அப் மற்றும் இன்ஸ்டாகிராம் ஆகியவை வழமைக்கு திரும்பியுள்ளதாக சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+எனினும், உலகம் முழுவதும் மெட்டா சேவைகள் வழமைக்கு திரும்பியதா என்பது தொடர்பில் இதுவரையில் அந்நிறுவனம் உறுதிப்படுத்தவில்லை எனவும் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+இதற்கமைய, புதன்கிழமை (11) நள்ளிரவு முதல் உலகின் பல்வேறு பகுதிகளில் வட்ஸ்அப், பேஸ்புக் உள்ளிட்ட மெட்டா சேவைகள் முடங்கியதால் பயனர்கள் பெரும் அவதிக்குள்ளாகினர்.
+
+நேற்றிரவு 11 மணி முதல் வட்ஸ்அப் செயலியின் மூலம் குறுந்தகவல்கள் எதுவும் பகிர இயலவில்லை என்று எக்ஸ் தளத்தில் உலகம் முழுவதும் உள்ள பயனர்கள் முறைப்பாடுகளை அளித்து வந்தனர்.
+
+இந்நிலையில், மெட்டா நிறுவனம் இது தொடர்பில் தமது எக்ஸ் தளத்தில் பதிவொன்றை வௌியிட்டிருந்தது.
+
+அதில், "தொழில்நுட்பச் சிக்கல் காரணமாக சில பயனர்களின் பயன்பாடுகளை அணுகும் திறனைப் பாதிக்கிறது என்பதை நாங்கள் அறிவோம்.
+
+முடிந்தவரை விரைவாக விடயங்களை இயல்பு நிலைக்கு கொண்டு வர நாங்கள் உழைத்து வருகிறோம், சிரமத்திற்கு மன்னிப்பு கேட்டுக்கொள்கிறோம்." என்று பதிவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/ac71756b.json)
+
+---
+
+### வாட்ஸ்அப்பில் அசத்தும் புதிய அப்டேட்
+
+*2024-12-12 09:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-அசத்தும்-புதிய-அப்டேட்/57-348606) · `ta`
+
+பயனர்கள் தங்கள் செய்திகளை நிர்வகிக்கும் விதத்தை புரட்சிகரமாக்கும் புதிய அப்டேட்டை வாட்ஸ் அப் வெளியிட உள்ளது.
+
+இந்த அப்டேட்டில், பயனர்களுக்கு படிக்கப்படாத செய்திகளை நினைவூட்டும் புதிய அம்சம் அறிமுகப்படுத்தப்பட உள்ளது, இதனால் முக்கியமான எந்த உரையாடலும் தவறவிடப்படாது என்று தெரிவிக்கப்பட்டுள்ளது.
+
+புதிய நினைவூட்டல் அம்சமானது, வாட்ஸ்அப் பயனர்களுக்கு அவர்கள் இன்னும் பார்க்காத செய்திகளைப் பற்றி அவ்வப்போது அறிவிக்கும்.
+
+இந்த செயல்பாடு பயன்பாட்டின் அறிவிப்பு அமைப்புகள் மூலம் தனிப்பட்ட விருப்பங்களுக்கு ஏற்ப தனிப்பயனாக்கப்படலாம்.
+
+இந்த அம்சத்தை முயற்சி செய்ய, ஆண்ட்ராய்டு பயனர்கள் வாட்ஸ்அப் பீட்டா திட்டத்தில் சேரலாம் மற்றும் 2.24.25.29 பதிப்புக்கு மேம்படுத்தலாம்.
+
+இந்த புதிய நினைவூட்டல் அம்சம் செயல்பாட்டிற்கு கொண்டு வந்தால்,பயனர்களுக்கு படிக்கப்படாத செய்திகளைப் பற்றி, குறிப்பாக அடிக்கடி தொடர்பு கொள்ளும் நபர்களிடமிருந்து வரும் செய்திகளைப் பற்றி எச்சரிக்கும்.
+
+இந்த அம்சம் தற்போது பீட்டா பரிசோதனையாளர்களுக்கு கிடைக்கக்கூடிய நிலையில், வாட்ஸ்அப் விரைவில் அனைத்து பயனர்களுக்கும் இதை வெளியிட உள்ளது.
+
+...
+
+[Data](articles/4db03395.json)
+
+---
+
+### UN General Assembly demands ceasefire in Gaza and backs UN agency helping Palestinian refugees
+
+*2024-12-12 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104178/un-general-assembly-demands-ceasefire-in-gaza-and-backs-un-agency-helping-palestinian-refugees) · `en`
+
+The U.N. General Assembly overwhelmingly approved resolutions Wednesday demanding an immediate ceasefire in Gaza and backing the U.N. agency for Palestinian refugees that Israel has moved to ban.
+
+The votes in the 193-nation world body were 158-9, with 13 abstentions to demand a ceasefire now and 159-9 with 11 abstentions in support of the agency known as UNRWA.
+
+The votes culminated two days of speeches overwhelmingly calling for an end to the 14-month war between Israel and the militant Hamas group and demanding access throughout Gaza to address the growing humanitarian catastrophe.
+
+Israel and its close ally, the United States, were in a tiny minority speaking and voting against the resolutions. Other opposing both resolutions included Argentina, Papua New Guinea, Paraguay and Tonga.
+
+While Security Council resolutions are legally binding, General Assembly resolutions are not, though they do reflect world opinion. There are no vetoes in the assembly.
+
+...
+
+[Data](articles/0e8f8bd0.json)
+
+---
+
+### 4 Sri Lankans arrested in Tamil Nadu
 
 *2024-12-12 09:08:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-இலங்கையர்கள்-தமிழ்நாட்டில்-கைது/175-348604) · `ta`
 
-தமிழ்நாட்டின் ராமேஸ்வரம் பகுதியில் சுற்றித் திரிந்த இலங்கையைச் சேர்ந்த 4 பேர் 10ஆம் திகதி இரவு தங்கச்சிமடம் பொலிஸாரால் கைது செய்யப்பட்டனர்.
+Sri Lankan nationals arrested in Tamil Nadu for illegal sea travel plans. Four individuals detained by Thangachimadam police. Investigation ongoing.
 
-கைது செய்யப்பட்ட நால்வரும், சி.சேகர் என்கிற ராஜ்மோகன் (39), ஆர். கோகிலவாணி (44), ஆர். சசி குமார் (28), எம். நாகராஜ் (68) ஆகியோர் என பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-மேலும் இவர்கள் கடல் வழியாக சட்டவிரோதமாக இலங்கை செல்ல திட்டமிட்டிருந்தமை விசாரணையில் தெரியவந்தது.
+Four Sri Lankan people were arrested by the Thangachimadam police on the night of the 10th.
 
-கோகிலவாணி மற்றும் திரு. சசிகுமார் ஆகியோர் மண்டபம் முகாமில் தங்கியிருந்ததுடன்,  சேகர் 2019இல் இந்தியாவுக்கு வந்துள்ளார். மேலும், நாகராஜ் படகில் மூன்று மாதங்களுக்கு முன் இந்தியா வந்துள்ளதாகவும் தெரிவிக்கப்படுகின்றது. R
+The four arrested, C. Sekhar alias Rajmohan, 39,. Kokilawani (44), R. Sasi Kumar (28), M. Nagaraj, 68, said police.
+
+Investigations revealed that they were planning to go to Sri Lanka illegally by sea.
+
+Kokilawani and Mr.. Sasikumar was staying at the Mandapam camp and Shekhar came to India in 2019. It is also reported that India arrived three months ago on the Nagaraj boat. Remble
 
 ◼️
 
 [Data](articles/c5203cac.json)
+
+[Extended Data](ext_articles/c5203cac.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-12 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104176/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the low-pressure area over the southwest Bay of Bengal is very likely to continue to move west-northwestwards slowly, towards the Tamil Nadu coast close to Northern Sri Lanka during the next 24 hours.
+
+Showers or thundershowers will occur at times in Northern, North-central, Eastern, North-western and Western provinces. Fairly heavy showers about 75mm are likely at some places in Northern province.
+
+Showers or thundershowers may occur at several places elsewhere during the evening or night, the Met. Department added.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern, and Uva provinces during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/92bc3875.json)
 
 ---
 
@@ -180,25 +274,31 @@ In the year 2021, the similar crash took place, and the inputs were disabled in 
 
 ---
 
-### කාලගුණයේ වෙනසක්
+### A change in the weather
 
 *2024-12-12 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204285) · `si`
 
-නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අඩු පීඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට සෙමින් ගමන් කරමින්, ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather update: Low pressure system affects northern regions, heavy showers expected, thunderstorms possible, lightning warnings issued.
 
-උතුරු,උතුරු මැද, නැගෙනහිර, වයඹ, සහ බස්නාහිර පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 75 පමණතරමක් තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+The Department of Meteorology says that the low pressure zone of the south-long Bay of Bay of Baying region will continue to reach the Thamilpura Beach.
 
-සෙසු ප්‍රදේශවල  සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+Showers or thundershowers will occur at times in the Northern, North Central, Eastern, North Western and Western provinces.
 
-මධ්‍යම, සබරගමුව, දකුණ, සහ ඌව පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+MM to certain places in the Northern Province. About 75 heavy showers could be caused.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Showers or thundershowers will occur at the evening or evening.
+
+There is a murder in the Central, Sabaragamuwa, Southern and Uva provinces.
+
+The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/1d251d6f.json)
+
+[Extended Data](ext_articles/1d251d6f.ext.json)
 
 ---
 
@@ -232,6 +332,8 @@ The event, held at the Ministry of Public Administration, Home Affairs, Provinci
 
 [Data](articles/4fb97776.json)
 
+[Extended Data](ext_articles/4fb97776.ext.json)
+
 ---
 
 ### IFC, Women in Management,  Diversity Collective Lanka foster  respectful workplaces across SMEs
@@ -245,6 +347,8 @@ A first-of-its-kind partnership, this program will empower WIM and DCLK Respectf
 ...
 
 [Data](articles/909cb58a.json)
+
+[Extended Data](ext_articles/909cb58a.ext.json)
 
 ---
 
@@ -273,6 +377,8 @@ The binary division of boys and girls is similar to black and white to most of u
 ...
 
 [Data](articles/3540d827.json)
+
+[Extended Data](ext_articles/3540d827.ext.json)
 
 ---
 
@@ -465,6 +571,24 @@ The award will be granted by Thailand Prime Minister Paetongtarn Shinawatra and 
 ...
 
 [Data](articles/4593eb52.json)
+
+---
+
+### மர்மக் காய்ச்சல்: மேலும் ஒருவர் உயிரிழப்பு
+
+*2024-12-12 02:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மர்மக்-காய்ச்சல்-மேலும்-ஒருவர்-உயிரிழப்பு/150-348601) · `ta`
+
+மர்மக் காய்ச்சல் பாதிப்புடன் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த பருத்தித்துறையைச் சேர்ந்த மேலும் ஒருவர் உயிரிழந்துள்ளார்.
+
+மேற்படி நபர் மர்மக் காய்ச்சல் பாதிப்புடன் பருத்தித்துறை - மந்திகை ஆதார வைத்தியசாலையில் சேர்க்கப்பட்டு மேலதிக சிகிச்சைக்காக  யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையில் நேற்று புதன்கிழமை உயிரிழந்துள்ளார்.
+
+பருத்தித்துறையைச் சேர்ந்த ஆனந்தகுமார் (வயது 47) என்ற நபரே சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இதனையடுத்து வடக்கு மாகாணத்தில் இதுவரை மர்மக் காய்ச்சலுக்குப் பலியானவர்களின் எண்ணிக்கை 7 ஆக அதிகரித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/4134850a.json)
 
 ---
 
@@ -1073,6 +1197,22 @@ Twenty20s will be held on December 28, 30 and January 2.
 [Data](articles/9c540c96.json)
 
 [Extended Data](ext_articles/9c540c96.ext.json)
+
+---
+
+### රට විරුවන්ට දුන් විද්‍යුත් වාහන ආනයන බලපත්‍ර අවභාවිත කළ හැටි මෙන්න
+
+*2024-12-11 18:14:21* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ට-දුන්-විද්‍යුත්-වාහන-ආනයන-බලපත්‍ර-අවභාවිත-කළ-හැටි-මෙන්න/11-413591) · `si`
+
+රට විරුවන්ට බදු නිදහස්ව විද්‍යුත් වාහන 510 ක් ආනයනය කිරීමෙන් රජයට රුපියල් මිලියන1384 ක බදු ආදායමක් අහිමි වෙලා
+
+කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය මගින් එතෙර රැකියාවල නියුතු ශ්‍රී ලාංකිකයන්ට ඔවුන් එවනු ලබන විදේශ ප්‍රේෂණ මත බදු නිදහස්ව පූර්ණ විද්‍යුත් වාහන ආනයනය කිරීමට  ක්‍රියාත්මක කළ යෝජනාව යටතේ  නිකුත් කළ වලංගු බලපත්‍ර 1000 ක් අතරින් ආනයනය කරන ලද විද්‍යුත් වාහන 510 ක් වෙනුවෙන් පමණක්  සුඛෝපභෝගී බදු නිදහස් සීමාව රුපියල් මිලියන හයේ සිට දොළහ දක්වා ඉහළ දැමීමෙන් අයකර ගැනීමට හැකිව තිබූ රුපියල් මිලියන 1384 ක බදු ආදායමක් රජයට අහිමි වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+එමෙන්ම මෙම වැඩ පිළිවෙළ සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතියෙන්  පත්කල කමිටු නිර්දේශ හා චක්‍රලේඛවල   මූලික  ප්‍රතිපත්තිමය කරුණු හතරක් ඇතුළු නිර්දේශ උල්ලංඝනය කරමින් එවකට  විදේශ රැකියා අමාත්‍යාංශයේ ලේකම්වරයා සහ නිලධාරීන් පිරිසක්  සිය අධිකාරි   බලය අවභාවිතා කරමින්  කටයුතු කිරීම නිසා මෙම වැඩ සටහන විනිවිද බවින් තොරව සිදුකර ඇති ව්‍යාපාරයක් බවට පත්වී ඇතැයිද විගණන කාර්යාලය අනාවරණය කරයි.
+
+...
+
+[Data](articles/2cd07dcd.json)
 
 ---
 
@@ -2183,153 +2323,5 @@ Accordingly, he will play cricket playing. In the Sri Lanka Premier League Crick
 [Data](articles/c0a890e8.json)
 
 [Extended Data](ext_articles/c0a890e8.ext.json)
-
----
-
-### Person arrested with narcotics worth Rs. 130 million in Kahathuduwa
-
-*2024-12-11 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104167/person-arrested-with-narcotics-worth-rs-130-million-in-kahathuduwa) · `en`
-
-The Police Special Task Force (STF) has arrested a person while in possession of a stock of narcotics in Kahathuduwa.
-
-The Police said that the person was in possession of 05 kilograms of heroin, 1.6 kilograms of ‘Ice’ drugs (Crystal Methamphetamine) and 800 pills of Ecstasy at the time of his arrest.
-
-The street value of the seized drugs is believed to around Rs. 130 million, according to police.
-
-◼️
-
-[Data](articles/6b6935ab.json)
-
-[Extended Data](ext_articles/6b6935ab.ext.json)
-
----
-
-### Suspect arrested with Rs 130 million narcotics
-
-*2024-12-11 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204271) · `si`
-
-N
-
-🟩
-
-The Police Special Task Force has been arrested by the STF in the Kahathuduwa area.
-
-The police said that the value of it was about Rs. 130 million.
-
-Meanwhile, a suspect in possession of two ice drugs and 100 milligrams have been arrested in Borella, Wanathamulla area.
-
-◼️
-
-[Data](articles/7a87edde.json)
-
-[Extended Data](ext_articles/7a87edde.ext.json)
-
----
-
-### Death from unidentified fever in Jaffna
-
-*2024-12-11 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204270) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Jaffna: 5 deaths reported due to unidentified fever. Hospital director suspects rat fever but awaiting confirmation from Colombo. Investigations ongoing."
-
-🟩
-
-The deceased has been identified in Jaffna.
-
-Accordingly, the number of dead has risen to 5, the Director of Jaffna Dr. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. T. TellMoThiri.
-
-Addressing a media briefing held yesterday (10), he said that the patients were killed due to fever and respiratory discomfort.
-
-The hospital director said that the disease was suspected to be rat fever, but that the conclusions had been sent to Colombo to Colombo.
-
-Three people were killed in this fever due to this fever.
-
-Meanwhile, the matter was revealed in the press conference held at the Health Promotion Bureau today.
-
-The Epidemiology Unit of the Epidemiology Unit said that investigations will be conducted in connection with the condition of the disease as a fever.
-
-◼️
-
-[Data](articles/a4732a32.json)
-
-[Extended Data](ext_articles/a4732a32.ext.json)
-
----
-
-### If this is gone, it will not be milk in January first
-
-*2024-12-11 15:34:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙහෙම-ගියොත්-ජනවාරි-පළමුවැනිදාට-කිරිබත්-කන්න-වෙන්නේ-නෑ/11-413580) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: Rice shortage looms due to price controls. Government intervention needed to prevent food scarcity in January 2024.
-
-🟩
-
-National Customer Front Leader Asela Sampath said that the poor people will lose a place to eat some rice to eat on the first day of January next year.
-
-Mr. Asela said that the rice mafia was more intensified through the government's rice gazette.
-
-"Today we have no rice to buy control of our villages. Control prices escape and sells rice in the villages of villages. Those people have nothing to do. The prices they receive will be sold in the villagers in the villagers. Today, where is 230 rupees.
-
-Oh we don't have the names of our villages. There is a very stronghold of the innocent village shops to sell rice at control price. This round should have a proper structure. If the government does not intervene to control the price of rice, we will not be able to eat the first month of January this year. "
-
-◼️
-
-[Data](articles/d420a12c.json)
-
-[Extended Data](ext_articles/d420a12c.ext.json)
-
----
-
-### Sri Lanka to miss 2024 tourist arrival target; eyes over $3bn annual revenue
-
-*2024-12-11 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-miss-2024-tourist-arrival-target-eyes-over-3bn-annual-revenue-193591/) · `en`
-
-ECONOMYNEXT – Sri Lanka is likely to miss its 2023 target of 2.3 million tourist arrivals despite a pick up in the numbers in the current tourism season, with the island nation likely to reach over $3 billion earnings from tourism, official data showed.
-
-The island nation has received 1.85 million tourists up to December 8 this year, compared to 1.49 million last year.
-
-Industry stakeholders said Sri Lanka will not be able to attract another 450,000 tourists in the last 23 days of the month.
-
-Tourism is seen as the key catalyst for Sri Lanka’s recovery from an unprecedented economic crisis and bankruptcy declared in 2022.
-
-The island is popular for nature with beaches and tropical climate, with most European and Western tourists choosing it as the key destination during their winter season falling from November to February.
-
-...
-
-[Data](articles/c57f9438.json)
-
-[Extended Data](ext_articles/c57f9438.ext.json)
-
----
-
-### Colombo Port Project: Adani refuses to accept US funding
-
-*2024-12-11 15:30:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-துறைமுக-திட்டம்-அமெரிக்க-நிதியுதவியை-ஏற்க-அதானி-மறுப்பு/175-348585) · `ta`
-
-Adani rejects US funding for Colombo Port project due to compliance issues and bribery allegations.
-
-🟩
-
-Adani has said that the US company has agreed to provide financial assistance to Adani, which is setting up a new terminal at the port of Colombo, Sri Lanka.
-
-In the Colombo sector, the development, construction and movement of the deep sea container terminal known as the Colombo West International Terminal (CWIT). The CWIT is being formed by the Federation of Adani Ports, Sri Lankan joint venture, John Keells Holdings PLC and the Sri Lanka Port Authority (SLPA).
-
-In November last year, the US International Development Finance Corporation (US IDFC) agreed to provide $ 553 million loan assistance to the project.. In this case, the Adani Group has left the loan agreement with the US company.
-
-“The project will be funded by the company's internal fundraising and capital management plan. We have withdrawn our request for funding from the International Development Finance Corporation. ”Has been reported.
-
-...
-
-[Data](articles/3ba58261.json)
-
-[Extended Data](ext_articles/3ba58261.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 10:43:00**
+As of **2024-12-12 11:01:38**
 
 ## Newspaper Stats
 
-*Scraped **59,741** Articles*
+*Scraped **59,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,673
-adaderanalk | 7,272
-tamilmirrorlk | 8,530
+adalk | 5,674
+adaderanalk | 7,273
+tamilmirrorlk | 8,532
 virakesarilk | 9,797
 adaderanasinhalalk | 10,326
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 10,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,711 (99.9%) of 59,741 articles have been extended.
+59,712 (99.9%) of 59,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### தெற்கு அதிவேக நெடுஞ்சாலையில் கோர விபத்து
+### காட்டிக்கொடுக்க முயற்சி: இந்தியரை கைதுசெய்ய முயற்சி
+
+*2024-12-12 10:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/காட்டிக்கொடுக்க-முயற்சி-இந்தியரை-கைதுசெய்ய-முயற்சி/44-348613) · `ta`
+
+கண்டி பல்லேகல சர்வதேச கிரிக்கெட் மைதானத்தில் இன்று (13) ஆரம்பமாகும் 'லங்கா டி10 சுப்பர் லீக்' கிரிக்கட் போட்டியில் மேற்கிந்திய தீவுகள் வீரரை, பணத்துக்காக போட்டியை காட்டிக்கொடுப்பதற்கு  முன்மொழிந்த குற்றச்சாட்டின் பேரில் இந்திய பிரஜை ஒருவரை கைது செய்வதற்காக விளையாட்டு குற்றங்களை தடுக்கும் விசேட பொலிஸ் பிரிவின் அதிகாரிகள் குழு கண்டி சென்றுள்ளது
+
+சர்வதேச கிரிக்கெட் கவுன்சில் (ஐ.சி.சி.) போட்டி நிர்ணயம் செய்ததாக கூறப்படும் சம்பவம் தொடர்பாக விளையாட்டு குற்றங்களை தடுக்கும் சிறப்பு பொலிஸ் பிரிவில் புகார் அளித்துள்ளதாகவும் தெரிகிறது.
+
+குற்றம் சாட்டப்பட்ட இந்தியர் இந்தப் போட்டியில் பங்கேற்கும் அணியின் உரிமையாளர் என்றும், போட்டிகளை ஏமாற்றுமாறு சம்பந்தப்பட்ட வீரரிடம் அவரே பரிந்துரைத்ததாகவும் அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+கண்டிக்கு புறப்பட்ட பொலிஸ் குழுவுடன் விளையாட்டு குற்றங்களை தடுக்கும் விசேட பொலிஸ் பிரிவின் உயர் அதிகாரிகளும் சென்றுள்ளதாகவும், மேலதிகமாக மற்றுமொரு அதிகாரிகள் குழு புதன்கிழமை (11) இரவு கண்டிக்கு சென்றுள்ளதாகவும் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/73e2f00a.json)
+
+---
+
+### Accident on the southern highway on the southern highway
 
 *2024-12-12 10:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெற்கு-அதிவேக-நெடுஞ்சாலையில்-கோர-விபத்து/175-348611) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் 100வது கிலோமீற்றரில் கார் ஒன்று லொறியுடன் மோதியதில் பத்து வயது சிறுமி உயிரிழந்துள்ளதாக பின்னதுவ நிர்வாக நிலையம் தெரிவித்துள்ளது.
+Car crash kills 10-year-old girl on Southern Expressway. Driver and family injured. Police investigating collision between truck and car.
 
-மாத்தறை நுபே பகுதியைச் சேர்ந்த செனுதி தம்சரா என்ற சிறுமியே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-விபத்தில் உயிரிழந்த சிறுமியின் தாய், தந்தை மற்றும் மூத்த சகோதரி படுகாயமடைந்த நிலையில் கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A ten -year -old girl has died when a car crashed into a lorry on the 100th kilometer of the Southern Expressway.
 
-கொழும்பில் இருந்து மாத்தறை நோக்கி பயணித்த லொறி மற்றும் அதே திசையில் பயணித்த கார், லொறியின் பின் பக்கம் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது. R
+The deceased is a girl named Senthi Tamsara, a native of Matara.
+
+The mother, father and older sister of the girl who died in the accident has been admitted to the Karapitiya Teaching Hospital after being injured.
+
+Police investigations have revealed that the accident occurred when a lorry traveling from Colombo to Matara and a car traveling in the same direction crashed into the lorry.. Remble
 
 ◼️
 
 [Data](articles/e0a9acd8.json)
+
+[Extended Data](ext_articles/e0a9acd8.ext.json)
 
 ---
 
@@ -69,6 +93,28 @@ Former police chief Poojitha Jayasundera and former Chief of State Investigation
 [Data](articles/4242f377.json)
 
 [Extended Data](ext_articles/4242f377.ext.json)
+
+---
+
+### 10-yr-old girl dies, 3 injured in accident on Expressway
+
+*2024-12-12 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104179/10-yr-old-girl-dies-3-injured-in-accident-on-expressway) · `en`
+
+Three individuals from the same family have been injured and a young girl has died in a fatal accident that occurred near the Pinnaduwa interchange on the Southern Expressway.
+
+The driver of the car, travelling from Kottawa towards Palatuwa, is said to have fallen asleep at the wheel causing the vehicle to crash into the back of a lorry travelling in the same direction between 100 L and 100.1 L on the Southern Expressway.
+
+A mother, father and their two daughters who were travelling in the car were seriously injured in the accident and were admitted to the Karapitiya Hospital.
+
+One girl who was injured from the incident has succumbed to her injuries upon admission to the hospital.
+
+The deceased girl is a 10-year-old resident in the Nupe area of Matara.
+
+The body is currently placed in the Karapitiya Hospital morgue for the post-mortem examination and Imaduwa Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/5aa15c77.json)
 
 ---
 
@@ -670,6 +716,22 @@ The award will be granted by Thailand Prime Minister Paetongtarn Shinawatra and 
 
 ---
 
+### ஜனாதிபதி தலைமையில் பட்ஜெட் கலந்துரையாடல்
+
+*2024-12-12 02:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-பட்ஜெட்-கலந்துரையாடல்/175-348600) · `ta`
+
+2025 ஆம் ஆண்டுக்கான வரவு-செலவு திட்டத்தை தயாரிப்பதற்கான அமைச்சரவை மட்டத்திலான ஆரம்ப கலந்துரையாடல்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் ஆரம்பிக்கப்பட்டுள்ளன.
+
+போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சின் செலவுத் தலைப்பின் கீழ் வரவு செலவு திட்ட பரிந்துரைகள் குறித்த கலந்துரையாடல் நேற்று  (11) ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சர் பிமல் ரத்நாயக்க, போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் பிரதி அமைச்சர் கலாநிதி பிரசன்ன குணசேன, துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் பிரதி அமைச்சர் ஜனித ருவன் கொடித்துவக்கு, ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, நிதி அமைச்சின் செயலாளர் நிதி மஹிந்த சிறிவர்தன, போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் செயலாளர் சிரேஷ்ட பேராசிரியர் கபில சி. கே பெரேரா உள்ளிட்ட அதிகாரிகள் குழுவினர் இந்நிகழ்வில் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/b15d1149.json)
+
+---
+
 ### ஜனாதிபதி தலைமையில் செலவுத் தலைப்பு கலந்துரையாடல்
 
 *2024-12-12 02:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-செலவுத்-தலைப்பு-கலந்துரையாடல்/175-348600) · `ta`
@@ -1189,6 +1251,24 @@ He added that the government is taking steps to reduce the safety of the former 
 [Data](articles/59207d22.json)
 
 [Extended Data](ext_articles/59207d22.ext.json)
+
+---
+
+### මත්පැන් සිල්ලරට විකිණීමේ බලපත්‍ර ලබාදීම අත්හිටුවයි
+
+*2024-12-11 19:07:37* · [`adalk`](https://www.ada.lk/breaking_news/මත්පැන්-සිල්ලරට-විකිණීමේ-බලපත්‍ර-ලබාදීම-අත්හිටුවයි/11-413595) · `si`
+
+මුදල් අමාත්‍යවරයාගේ නියෝග මත සියලුම් සිල්ලරට මත්පැන් විකිණිමට අදාළව නව බලපත්‍ර නිකුත් කිරීම අත්හිටුවා තිබෙන බව සුරාබදු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එහෙත් සංචාරක කර්මාන්තයේ ප්‍රවර්ධනය සඳහා සංචාරක මණ්ඩලය විසින් අනුමත කරනු ලබන තරුපන්තියේ හෝටල් සහ ආපනශාලා  සඳහා බලපත්‍ර නිකුත් කිරීම කෙරෙහි අවධානය යොමු  වී තිබෙන බවද පෙන්වා දෙයි.
+
+ඒ අනුව මුදල් අමාත්‍යංශය සමග සාකච්ඡා කර සංචාරක මණ්ඩලයේ අනුමැතිය හා  සුරාබදු නිවේදනවලට අනුකූලව සැපිරිය යුතු  අනෙකුත් සුදුසුකම් සහිත හෝටල් සහ ආපනශාලා  සඳහා සුරාබදු  දෙපාර්තමේන්තුවේ නිර්ණායකවලට අනුකූලව මුදල් අමාත්‍යවරයාගේ අනුමැතිය මත නව මත්පැන් බලපත්‍ර නිකුත් කිරීමට ඉදිරියේදී පියවර ගන්නා බවද සුරාබදු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+සුරාබදු දෙපාර්තමේන්තුව විසින් පසුගිය වසර කිහිපයෙහි නිකුත්කළ සිල්ලරට මත්පැන් විකිණීමේ  බලපත්‍ර  හා සංචාරක මණ්ඩලයේ අනුමත  හෝටල් සහ ආපන ශාලා  සම්බන්ධයෙන් ඇති වී තිබූ මතභේදාත්මක තත්ත්වය පිළිබඳව අවධානය යොමු කර මුදල් අමාත්‍යවරයාගේ නියෝග මත  සිල්ලරට මත් පැන්  විකිණීමේ  නව බලපත්‍ර නිකුත් කිරීම අත්හිටු වීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/e5b656b0.json)
 
 ---
 
@@ -2217,101 +2297,5 @@ The suspect who was taken into custody during the raid has been identified as a 
 [Data](articles/ef77d48f.json)
 
 [Extended Data](ext_articles/ef77d48f.ext.json)
-
----
-
-### Youth arrested for releasing nude photos
-
-*2024-12-11 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204273) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"19yo arrested for sharing nude content online. Suspect released explicit photos/videos to clubs. Computer Crime Unit investigation ongoing."
-
-🟩
-
-A 19-year-old suspect released to nude photos and video clubs.
-
-The suspect had been arrested by the Computer Crime Investigation Unit in the Mundalama Police Division yesterday.
-
-The suspect has been arrested following a complaint made by the Computer Crime Investigation Unit regarding the propaganda of nude photos and videos online.
-
-The Computer Criminal Investigation North Western Provincial Unit is conducting further investigations.
-
-◼️
-
-[Data](articles/1512c02d.json)
-
-[Extended Data](ext_articles/1512c02d.ext.json)
-
----
-
-### CID ordered to develop program to reimburse ‘Onmax DT’ depositors
-
-*2024-12-11 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104169/cid-ordered-to-develop-program-to-reimburse-onmax-dt-depositors) · `en`
-
-The Criminal Investigation Department (CID) has reported to the Colombo Magistrate’s Court that a total of 2,017 complaints have been filed by depositors who claim to have been cheated out of their money after investing in ‘Onmax DT,’ a private firm alleged to have been operating a pyramid scheme.
-
-According to the CID, the total estimated financial losses incurred by the complainants amounts to around Rs. 2.96 billion.
-
-During a hearing before Colombo Chief Magistrate Thilina Gamage today (11), CID officials disclosed that a total of 865 new complaints have been received since the last hearing, and that additional complaints continue to be received.
-
-Nine suspects, including the directors of Onmax DT, appeared before the court for the hearing. The CID further informed the court that three other suspects remain overseas, and open warrants have been issued for their arrest.
-
-...
-
-[Data](articles/d09852dc.json)
-
-[Extended Data](ext_articles/d09852dc.ext.json)
-
----
-
-### Sri Lanka sells Rs206bn in treasury bills, yields down across maturities
-
-*2024-12-11 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs206bn-in-treasury-bills-yields-down-across-maturities-193631/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 206 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield was down 4 basis points 8.69 percent, with all offered 76 billion rupees of bills sold.
-
-The 6-month yield was down 6 basis points at 8.8 percent, with all offered 90 billion rupees of bills sold.
-
-The 12-month bills was down 1 basis point at 9.07 percent, with all offered 40 billion rupees of bills sold.
-
-All three maturities were offered on tap after the auction. (Colombo/Dec11/2024)
-
-◼️
-
-[Data](articles/f937f82c.json)
-
-[Extended Data](ext_articles/f937f82c.ext.json)
-
----
-
-### The Vives Group says the Western terminal is not US debt
-
-*2024-12-11 16:24:38* · [`adalk`](https://www.ada.lk/breaking_news/බටහිර-පර්යන්තයට-ඇමෙරිකාවේ-ණය-එපා-යැයි-අදානි-සමූහය-කියයි/11-413583) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Rajapaksa Port group rejects US debt for Colombo Port West Terminal. Citing corruption allegations, they'll use alternative funding. Project to proceed without US loan, opening Q1 2024.
-
-🟩
-
-The Rajapaksa Port and Special Economic Zones, chaired by Billionaire Aporie, the Minister of Revival announced that his company decided not to get the US debt for the development of the Colombo Port West Terminal in Sri Lanka. The company announced that the company's funds have been deployed for the project.
-
-The company has taken this decision as the Gautam Prisoners to file bribery and corruption by America. The company announces that the construction of the Western terminal will continue to move forward the use of US loan funds, but the project will continue to be opened to the public in the first half of next year.
-
-The project for the project, "the US International Development Finance Corporation (DFC) has been submitted in 2023, but the company announces the removal of the request.
-
-...
-
-[Data](articles/a64f10e1.json)
-
-[Extended Data](ext_articles/a64f10e1.ext.json)
 
 ---

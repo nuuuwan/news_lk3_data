@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 14:29:22**
+As of **2024-12-12 14:43:02**
 
 ## Newspaper Stats
 
-*Scraped **59,800** Articles*
+*Scraped **59,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 5,681
 adaderanalk | 7,279
 tamilmirrorlk | 8,549
 virakesarilk | 9,806
-adaderanasinhalalk | 10,336
+adaderanasinhalalk | 10,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,744 (99.9%) of 59,800 articles have been extended.
+59,744 (99.9%) of 59,802 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6be0c855.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංගයක් ආවොත් ආණ්ඩුව ගන්න තීරණය
+
+*2024-12-12 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204303) · `si`
+
+කථානායක අසෝක රන්වල මහතාට එරෙහිව පාර්ලිමේන්තුවට විශ්වාසභංගයක් ගෙන එන්නේ නම් ඊට අත්වන ඉරණම කෙරෙහි දෙවරක් සිතිය යුතු බව කෘෂිකර්ම නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා පවසයි.
+
+"අපිට පාර්ලිමේන්තුවේ තුනෙන් දෙකකට එහා බලයක් තියෙනවා. ඒ නිසා ගේන විශ්වාසභංග ගේන කට්ටිය කල්පනා කරන්න ඕනේ... මොකටද ගේන්නේ කියලා. ඒ නිසා කථානායකවරයාට එරෙහිව පාර්ලිමේන්තුවට විශ්වාසභංගයක් ඉදිරිපත් වුවත් ගැටලුවක් නැහැ. කථානායකගේ ප්‍රකාශයත් එක්ක බලමු. මේ වෙලාවේ අපි උත්තර දෙන්න යන්න අවශ්‍ය නැහැ. අපි ඒක වෙනම කතා කරමු."
+
+◼️
+
+[Data](articles/d27ccc74.json)
 
 ---
 
@@ -167,6 +181,26 @@ Such rulings will help reduce sexual offenses against girls and women.. Social w
 ◼️
 
 [Data](articles/7fd6fc95.json)
+
+---
+
+### පස්සරින් හමුවූ දුර්ලභ නිල් මැණික
+
+*2024-12-12 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204302) · `si`
+
+පිරමීඩ හැඩයෙන් යුත් දුර්ලභ ගණයේ කපා ඔපදමා නොමැති නිල් මැණිකක් මීගමුව ප්‍රදේශයේ ව්‍යාපාරිකයෙකුට හමුවී තිබේ.
+
+මෙම මැණිකේ බර කැරට් 17.42ක් වන අතර එය බදුල්ල පස්සර ප්‍රදේශයේ පතලකින් හමු වී ඇත.
+
+එසේම මෙම මැණික් ගලට ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරිය විසින් තහවුරු කරනලද සහතිකයද හිමිව තිබේ.
+
+එහි හිමිකරු පවසා සිටින්නේ, මෙම මැණික ශ්‍රී ලංකාවට ලෝක වෙළෙඳපොළ සමඟ සම්බන්ධ වී විදෙස් විනිමය උපයා ගැනීමට ඉතා හොඳ අවස්ථාවක් බවය.
+
+එසේම මෙහි හිමිකරු වසර 20කට ආසන්න කාලයක් මැණික් ව්‍යාපාරයේ නිරතව සිටි ව්‍යාපාරිකයෙක් බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/8e85d4e6.json)
 
 ---
 
@@ -2091,33 +2125,5 @@ Wurth Lanka (Pvt) Ltd conducted a training programme titled “Windscreen Bondin
 ...
 
 [Data](articles/50bdaf10.json)
-
----
-
-### Creative Software makes Sri Lanka the ideal tech partner
-
-*2024-12-11 23:04:00* · [`islandlk`](http://island.lk/creative-software-makes-sri-lanka-the-ideal-tech-partner/) · `en`
-
-Creative Software, a leading software solutions provider, proudly celebrates 25 years of delivering innovative IT services and shaping Sri Lanka’s tech landscape. With a strong presence in Scandinavia and clients across four continents – South Asia, Europe, North America, and Australia, the company has built a reputation as a trusted partner for businesses worldwide.
-
-To mark this remarkable milestone, Creative Software hosted a grand celebration-themed Mystic Masks, a black-tie masquerade gala at the ITC Ratnadipa Hotel in Colombo. The event brought together employees, their families, and clients, including those who travelled from their home countries to Sri Lanka to celebrate with their teams and close collaborators who have been instrumental in the company’s journey.
-
-...
-
-[Data](articles/3897cb63.json)
-
----
-
-### Hopes of successful debt restructuring bring share market stability
-
-*2024-12-11 23:03:00* · [`islandlk`](http://island.lk/hopes-of-successful-debt-restructuring-bring-share-market-stability/) · `en`
-
-The stock market bounced back yesterday and is stable as investors are hoping for a positive response on the debt restructuring front from IMF officials in New York over the weekend.
-
-The market performance was positive and stable for the 12th consecutive day. Due to that, both indices moved upwards. The All Share Price Index went up by 108.6 points while S and P SL20 rose by 41.5 points. Turnover stood at Rs 6 billion with nine crossings.
-
-...
-
-[Data](articles/5a9f18e4.json)
 
 ---

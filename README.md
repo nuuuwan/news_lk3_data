@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 19:42:53**
+As of **2024-12-12 20:01:33**
 
 ## Newspaper Stats
 
-*Scraped **59,840** Articles*
+*Scraped **59,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,608
 economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,687
+adalk | 5,688
 adaderanalk | 7,285
 tamilmirrorlk | 8,555
 virakesarilk | 9,815
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,794 (99.9%) of 59,840 articles have been extended.
+59,795 (99.9%) of 59,841 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -357,6 +357,8 @@ On December 03, the Cabinet of Ministers approved the proposal to allow the impo
 ...
 
 [Data](articles/fcd8d2af.json)
+
+[Extended Data](ext_articles/fcd8d2af.ext.json)
 
 ---
 

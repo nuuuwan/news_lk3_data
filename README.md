@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 11:01:38**
+As of **2024-12-12 11:15:11**
 
 ## Newspaper Stats
 
-*Scraped **59,745** Articles*
+*Scraped **59,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,674
-adaderanalk | 7,273
-tamilmirrorlk | 8,532
+adaderanalk | 7,274
+tamilmirrorlk | 8,534
 virakesarilk | 9,797
 adaderanasinhalalk | 10,326
 
@@ -26,27 +26,61 @@ adaderanasinhalalk | 10,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,712 (99.9%) of 59,745 articles have been extended.
+59,715 (99.9%) of 59,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### காட்டிக்கொடுக்க முயற்சி: இந்தியரை கைதுசெய்ய முயற்சி
+### Try to betray: Try to arrest India
 
 *2024-12-12 10:46:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/காட்டிக்கொடுக்க-முயற்சி-இந்தியரை-கைதுசெய்ய-முயற்சி/44-348613) · `ta`
 
-கண்டி பல்லேகல சர்வதேச கிரிக்கெட் மைதானத்தில் இன்று (13) ஆரம்பமாகும் 'லங்கா டி10 சுப்பர் லீக்' கிரிக்கட் போட்டியில் மேற்கிந்திய தீவுகள் வீரரை, பணத்துக்காக போட்டியை காட்டிக்கொடுப்பதற்கு  முன்மொழிந்த குற்றச்சாட்டின் பேரில் இந்திய பிரஜை ஒருவரை கைது செய்வதற்காக விளையாட்டு குற்றங்களை தடுக்கும் விசேட பொலிஸ் பிரிவின் அதிகாரிகள் குழு கண்டி சென்றுள்ளது
+India arrests suspect in match-fixing scandal involving ICC complaint.
 
-சர்வதேச கிரிக்கெட் கவுன்சில் (ஐ.சி.சி.) போட்டி நிர்ணயம் செய்ததாக கூறப்படும் சம்பவம் தொடர்பாக விளையாட்டு குற்றங்களை தடுக்கும் சிறப்பு பொலிஸ் பிரிவில் புகார் அளித்துள்ளதாகவும் தெரிகிறது.
+🟩
 
-குற்றம் சாட்டப்பட்ட இந்தியர் இந்தப் போட்டியில் பங்கேற்கும் அணியின் உரிமையாளர் என்றும், போட்டிகளை ஏமாற்றுமாறு சம்பந்தப்பட்ட வீரரிடம் அவரே பரிந்துரைத்ததாகவும் அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+A team of special police officers that prevent sports crimes to arrest a Indian citizen on charges of betraying the West Indies player for money
 
-கண்டிக்கு புறப்பட்ட பொலிஸ் குழுவுடன் விளையாட்டு குற்றங்களை தடுக்கும் விசேட பொலிஸ் பிரிவின் உயர் அதிகாரிகளும் சென்றுள்ளதாகவும், மேலதிகமாக மற்றுமொரு அதிகாரிகள் குழு புதன்கிழமை (11) இரவு கண்டிக்கு சென்றுள்ளதாகவும் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+It is also reported that the International Cricket Council (ICC) has lodged a complaint with the Special Police Division to prevent sports crimes regarding the alleged incident.
+
+The report also further stated that the accused Indians were the owner of the team participating in the competition and that he had recommended to the relevant player to deceive the matches.
+
+It has been reported that top officials of the Special Police Division have gone to Kandy on Wednesday night (11).
+
+The competition will feature about 30 foreign players from the six teams.
+
+Sri Lanka Cricket's 'Lanka T10 Super League' cricket tournament will be held for the first time until the 19th.
+
+◼️
+
+[Data](articles/73e2f00a.json)
+
+[Extended Data](ext_articles/73e2f00a.ext.json)
+
+---
+
+### Imported rice stocks released to market
+
+*2024-12-12 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104180/imported-rice-stocks-released-to-market) · `en`
+
+Stocks of rice imported by private importers have been released into the market.
+
+It is reported that the first consig of rice, which arrived in the country yesterday (11), has been cleared by Customs.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+Accordingly, importers have begun importing rice and it is reported that 75,000 kg of rice were released from customs yesterday.
+
+It is stated that a stock of Samba and White Raw rice has been imported from India.
+
+The Essential Food Commodities Importers & Traders Association stated that more rice shipments are expected to arrive in the island today (12) and tomorrow (13).
+
+Meanwhile, Lanka Sathosa Chairman Dr. Samitha Perera says that the country’s rice shortage will be resolved with the arrival of imported rice in the market.
 
 ...
 
-[Data](articles/73e2f00a.json)
+[Data](articles/31d6f48b.json)
 
 ---
 
@@ -115,6 +149,8 @@ The body is currently placed in the Karapitiya Hospital morgue for the post-mort
 ◼️
 
 [Data](articles/5aa15c77.json)
+
+[Extended Data](ext_articles/5aa15c77.ext.json)
 
 ---
 
@@ -247,6 +283,8 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/92bc3875.json)
+
+[Extended Data](ext_articles/92bc3875.ext.json)
 
 ---
 
@@ -1008,6 +1046,26 @@ The Department of Meteorology has forecast rain or thunderstorms in the Central,
 
 ---
 
+### 24 மணிநேரத்தில் வானிலையில் பாரிய மாற்றம்
+
+*2024-12-11 21:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-வானிலையில்-பாரிய-மாற்றம்/175-348597) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடாவில் உருவாகியுள்ள குறைந்த காற்றழுத்த தாழ்வு மண்டலம் எதிர்வரும் 24 மணித்தியாலத்திற்கு நீடிக்கும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+குறித்த தாழ்வு மண்டலம் மேற்கு வடமேற்கு திசையில், இலங்கையின் வடக்கு கரையை அண்மித்து தமிழகத்தை நோக்கி நகரக்கூடும் என எதிர்வு கூறப்பட்டுள்ளது.
+
+இதன்படி, வடக்கு, வடமத்திய, மற்றும் கிழக்கு மாகாணங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடக்கு மாகாணத்தின் சில பகுதிகளில் 75 மில்லிமீற்றருக்கும் அதிகமான மழைவீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மத்திய, சபரகமுவ, தென், ஊவா மற்றும் மேல் மாகாணங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. R
+
+◼️
+
+[Data](articles/a0c3f6dd.json)
+
+---
+
 ### Four Sri Lankans arrested near Rameswaram
 
 *2024-12-11 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104175/four-sri-lankans-arrested-near-rameswaram) · `en`
@@ -1251,6 +1309,26 @@ He added that the government is taking steps to reduce the safety of the former 
 [Data](articles/59207d22.json)
 
 [Extended Data](ext_articles/59207d22.ext.json)
+
+---
+
+### மஹிந்தவின் பாதுகாப்பு அதிரடியாக குறைப்பு
+
+*2024-12-11 19:25:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பாதுகாப்பு-அதிரடியாக-குறைப்பு/175-348593) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பை நீக்குவதற்கு தற்போதைய அரசாங்கம் நடவடிக்கை எடுத்துள்ளதாக சட்டத்தரணி மனோஜ் கமகே தெரிவித்துள்ளார்.
+
+பொதுஜன பெரமுன கொள்கை மையத்தில் இன்று (11) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+மனித வள முகாமைத்துவ பிரதிப் பொலிஸ்மா அதிபரினால் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்புப் பிரிவுக்கு நேற்று (10) கடிதம் மூலம் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+இதன்படி, முன்னாள் ஜனாதிபதியின் பாதுகாப்புப் பிரிவில் இருந்து 116 பாதுகாப்பு உத்தியோகத்தர்களை நீக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும், இந்தக் குழுவில் உயர்தர பாதுகாப்பில் அனுபவம் வாய்ந்த அதிகாரிகள் அனைவரும் நீக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார்.
+
+பயங்கரவாதத்தை இல்லாதொழிக்க வழிவகுத்த முன்னாள் ஜனாதிபதியின் பாதுகாப்பை குறைக்க அரசாங்கம் நடவடிக்கை எடுப்பது மிகவும் பாரதூரமான நிலை எனவும் அவர் மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/c712c70e.json)
 
 ---
 
@@ -2229,73 +2307,5 @@ Sri Lanka's team of Sri Lankan team has come forward to the fifth point of the l
 [Data](articles/649f4c7e.json)
 
 [Extended Data](ext_articles/649f4c7e.ext.json)
-
----
-
-### Sri Lanka stocks close up, JKH sees interest
-
-*2024-12-11 16:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-jkh-sees-interest-193640/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader ASPI kept edging up further to close up 0.80 percent, or 110.13 points, at 13,885; while the more liquid S&P SL20 Index closed up 0.73 percent, or 29.87 points, at 4,143.
-
-Turnover was 6 billion. Major contributing sectors were capital goods (Rs1.7bn), and diversified financials sectors (Rs898mn).
-
-John Keells Holdings contributed over 1 million rupees to the turnover, and the share closed up at 21.20.
-
-Top positive contributors to the ASPI were Ceylon Beverage Holdings (up at 2,848.25), LOLOC Holdings (up at 536.25), Sampath Bank (up at 102.75), Melstacorp (up at 108.00), and John Keells Holdings (up at 21.00).
-
-There was foreign net outflow of 393 million rupees. (Colombo/Dec11/2024)
-
-◼️
-
-[Data](articles/2fb608de.json)
-
-[Extended Data](ext_articles/2fb608de.ext.json)
-
----
-
-### It is good to stay away from him
-
-*2024-12-11 16:44:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரிடமிருந்து-விலகி-இருப்பது-நல்லது/175-348589) · `ta`
-
-Sri Lanka SLPP calls for suspension of diplomatic ties with MP over fake degree claims
-
-🟩
-
-The Sri Lanka PA (SLPP) Jaffna District Organizer Geetanath Kasilingam has said that the diplomatic community should temporarily suspend his contacts amid increasing allegations of the credibility of the educational qualifications of Parliament Ashoka Sabumal Ranwala.
-
-During the recently concluded parliamentary elections, Ranwala had misrepresented his credentials by using the title "Doctor".
-
-There have been accusations that the Speaker should not graduate from doctorate, which raises questions about his honesty and accountability.
-
-"It is unacceptable to be a Speaker who portrayed fake qualifications," Kasilingam said. "The public should be interpreted on this obvious scam."
-
-Kasilingam asked President Dissanayake to begin an immediate inquiry into the matter. He emphasized the importance of transparency and urged the authorities to quickly solve these issues to maintain the credibility of the parliamentary organization of Sri Lanka.
-
-...
-
-[Data](articles/ad24c901.json)
-
-[Extended Data](ext_articles/ad24c901.ext.json)
-
----
-
-### 20-year-old arrested with over 2kg of ‘Ice’
-
-*2024-12-11 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104170/20-year-old-arrested-with-over-2kg-of-ice-) · `en`
-
-Police have arrested a suspect who was in the possession of 2 kilograms and 100 grams of ‘Ice’ drugs (Crystal Methamphetamine) in the Wanathamulla area of the Borella police division today (11).
-
-The arrest has been carried out based on a tip-off received by a group of officers attached to Borella Police.
-
-The suspect who was taken into custody during the raid has been identified as a 20-year-old resident of Mulleriyawa, the police said.
-
-◼️
-
-[Data](articles/ef77d48f.json)
-
-[Extended Data](ext_articles/ef77d48f.ext.json)
 
 ---

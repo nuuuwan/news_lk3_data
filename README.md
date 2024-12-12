@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 13:13:12**
+As of **2024-12-12 13:01:52**
 
 ## Newspaper Stats
 
-*Scraped **59,782** Articles*
+*Scraped **59,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,608
 economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,679
+adalk | 5,678
 adaderanalk | 7,278
 tamilmirrorlk | 8,543
 virakesarilk | 9,801
@@ -26,79 +26,45 @@ adaderanasinhalalk | 10,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,730 (99.9%) of 59,782 articles have been extended.
+59,728 (99.9%) of 59,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### Mysterious disease spreading in Jaffna as mysterious fever
+### யாழில் பரவி மர்ம நோய் எலிக்காய்ச்சல் என உறுதி
 
 *2024-12-12 12:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-பரவி-மர்ம-நோய்-எலிக்காய்ச்சல்-என-உறுதி/175-348625) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+யாழில் பரவி வரும் மர்ம நோய் “எலிக்காய்ச்சல் (லெப்டோஸ்பிரோசிஸ்)” என சுகாதார மேம்பாட்டு பணியகம் மேற்கொண்ட சோதனைகள் மூலம், அடையாளம் காணப்பட்டுள்ளதாக  சுகாதார அமைச்சின் தொற்றுநோயியல் பிரிவு உறுதிப்படுத்தியுள்ளது.
 
+இவ்வாறு பரவிய எலிக்காய்ச்சல்  தொடர்பில் நேற்று (11) ஊடகவியலாளர்கிடம் பேசிய வைத்தியர் சத்தியமூர்த்தி,
 
+காய்ச்சல் மற்றும் சுவாசக் கோளாறு காரணமாக இந்த மரணம் நிகழ்ந்ததாகவும் உயிரிழந்தவர்கள் 20 - 65 வயதுக்கு இடைப்பட்டவர்கள் எனவும் தெரிவித்துள்ளார்.
 
-Mysterious fever spreading in Jaffna. Ministry confirms Health Development Bureau identified disease. Doctor Satyamoorthy reports deaths due to fever & respiratory issues. Victims aged 20-65. Blood samples sent to Colombo for diagnosis.
-
-🟩
-
-The Ministry of Health has confirmed that the mysterious disease that is spreading in Jaffna has been identified by the Health Development Bureau of the Bureau of Health Development.
-
-Speaking to journalists yesterday (11) regarding the spread of the spread, doctor Satyamoorthy said,
-
-He said that the death was due to fever and respiratory disorder and that the victims were between 20 - 65 years of age.
-
-He further stated that blood samples have been sent to Colombo to confirm the diagnosis, as it is usually said to be the epidemic.. Remble
+பொதுவாக எலிக்காய்ச்சல் நோய் என கூறப்படுவதால், நோயறிதலை மேலும் உறுதிப்படுத்துவதற்காக இரத்த மாதிரிகள் கொழும்புக்கு அனுப்பப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்திருந்தார். R
 
 ◼️
 
 [Data](articles/691e5606.json)
 
-[Extended Data](ext_articles/691e5606.ext.json)
-
 ---
 
-### The price of vegetables increased to Rs.
+### மரக்கறிகளின் விலை ரூ.1,000 ஆக அதிகரிப்பு
 
 *2024-12-12 12:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலை-ரூ-1-000-ஆக-அதிகரிப்பு/175-348624) · `ta`
 
-Vegetable prices surge: onions (400rs/kg), eggs (44rs), chicken (1400rs/kg). Green chilies, curry, and ponny prices increase. Coconut oil rates rise.
+சில பகுதிகளில் ஒரு கிலோ கிராம் போஞ்சி, பச்சை மிளகாய், கறிமிளகாய் ஆகியவற்றின் சில்லறை விலை 900 முதல் 1000 ரூபாய் வரை அதிகரித்துள்ளது.
 
-🟩
+ஒரு கிலோ கிராம் வெங்காயத்தின் சில்லறை விலை 400 ரூபாவாகவும், முட்டையின் விலை 44 ரூபாவாகவும், ஒரு கிலோ கிராம் கோழி இறைச்சி 1400 ரூபாவாகவும் அதிகரித்துள்ளது.
 
-In some areas, the retail price of a kilogram of pony, green chillies and curry has increased from Rs 900 to Rs 1000.
+பாகற்காய் மற்றும் தும்பகரவில ஆகியவற்றின் சில்லறை விலை 600 ரூபாவாகவும், தம்பல,வெட்டக்குளு,மேக்கரல் சுண்டைக்காய், நோகோல், தக்காளி, வெண்டைக்காய், கத்தரிக்காய், கிழங்கு ஆகியவற்றின் சில்லறை விலை   400 ரூபாய் முதல் 450 ரூபாய் வரையிலும் அதிகரித்துள்ளது.
 
-The retail price of one kilogram of onion has increased to 400 rupees, the price of eggs to 44 rupees and a kilogram of chicken meat to 1400 rupees.
+புடலங்காய், முள்ளங்கி, கெரட், பூசணிக்காய் ஆகியவற்றின் சில்லறை விலை 300 ரூபாய் முதல் 350 ரூபாய் வரை அதிகரித்துள்ளது.
 
-The retail price of the Baggai and Thumbagarawila has increased from Rs 600 to Rs 600 and the retail price of Thambala, Vettakkulu, Mackerlle Chundaikai, Nogaol, Tomato, Grass, Eggplant and Tuber has increased from Rs 400 to Rs 450.
-
-The retail price of pudding, radish, kerat and pumpkin has increased from Rs 300 to Rs 350.
-
-The total sales price of a kilogram of the Economic Center was 550 rupees. The total price of one kilogram of green chilli is 700 rupees, one kilogram of curry is Rs.. .
-
-In addition, the retail price of one kilogram of red onion has risen to 450 rupees, with coconut oil in some areas and the same quality coconut oil boil has risen to 800 rupees.
-
-◼️
+...
 
 [Data](articles/0f25fa5a.json)
-
-[Extended Data](ext_articles/0f25fa5a.ext.json)
-
----
-
-### සජබ ජාතික ලැයිස්තුවට අධිකරණයෙන් වාරණ නියෝගයක්
-
-*2024-12-12 12:46:04* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ජාතික-ලැයිස්තුවට-අධිකරණයෙන්-වාරණ-නියෝගයක්/11-413602) · `si`
-
-සමගි ජන බලවේගයේ ජාතික ලැයිස්තුව සම්බන්ධයෙන් වාරණ නියෝගයක් අද(12දා) නිකුත් කර ති​​බේ.
-
-ඒ අනුව ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නියෝජිතයෙකු ඇතුළත් නොකර සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර  පුරප්පාඩු පිරවීම වළක්වාලමින් මෙලෙස කොළඹ දිසා අධිකරණය මෙම වාරණ නියෝගය නිකුත් කර ඇත.
-
-◼️
-
-[Data](articles/962996a6.json)
 
 ---
 
@@ -2111,5 +2077,29 @@ In addition, a coconut oil in some areas have risen to Rs. 200 million and a bot
 [Data](articles/f1849091.json)
 
 [Extended Data](ext_articles/f1849091.ext.json)
+
+---
+
+### The Sri Lanka-New Zealand cricket tournament will be informed
+
+*2024-12-11 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204279) · `si`
+
+Sri Lanka cricket team visits New Zealand Dec-Jan. Plays 3 ODIs, 3 T20s. T20 matches on Dec 28, 30; Jan 2.
+
+🟩
+
+Sri Lankan cricket team will visit New Zealand tour.
+
+Sri Lanka Cricket announced that the tour would be held in December and January.
+
+Sri Lanka and New Zealand will play three ODIs and 3 T20s of T20s.
+
+Twenty20s will be held on December 28, 30 and January 2.
+
+◼️
+
+[Data](articles/9c540c96.json)
+
+[Extended Data](ext_articles/9c540c96.ext.json)
 
 ---

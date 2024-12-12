@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 12:43:05**
+As of **2024-12-12 13:01:52**
 
 ## Newspaper Stats
 
-*Scraped **59,773** Articles*
+*Scraped **59,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 449
 colombotelegraphcom | 606
 bbccomsinhala | 624
 islandlk | 3,608
-economynextcom | 3,633
+economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,677
+adalk | 5,678
 adaderanalk | 7,278
-tamilmirrorlk | 8,541
+tamilmirrorlk | 8,543
 virakesarilk | 9,801
 adaderanasinhalalk | 10,333
 
@@ -26,81 +26,149 @@ adaderanasinhalalk | 10,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,724 (99.9%) of 59,773 articles have been extended.
+59,728 (99.9%) of 59,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### ஐ.ம.சவின் தேசிய பட்டியலுக்கு தடையுத்தரவு
+### யாழில் பரவி மர்ம நோய் எலிக்காய்ச்சல் என உறுதி
+
+*2024-12-12 12:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-பரவி-மர்ம-நோய்-எலிக்காய்ச்சல்-என-உறுதி/175-348625) · `ta`
+
+யாழில் பரவி வரும் மர்ம நோய் “எலிக்காய்ச்சல் (லெப்டோஸ்பிரோசிஸ்)” என சுகாதார மேம்பாட்டு பணியகம் மேற்கொண்ட சோதனைகள் மூலம், அடையாளம் காணப்பட்டுள்ளதாக  சுகாதார அமைச்சின் தொற்றுநோயியல் பிரிவு உறுதிப்படுத்தியுள்ளது.
+
+இவ்வாறு பரவிய எலிக்காய்ச்சல்  தொடர்பில் நேற்று (11) ஊடகவியலாளர்கிடம் பேசிய வைத்தியர் சத்தியமூர்த்தி,
+
+காய்ச்சல் மற்றும் சுவாசக் கோளாறு காரணமாக இந்த மரணம் நிகழ்ந்ததாகவும் உயிரிழந்தவர்கள் 20 - 65 வயதுக்கு இடைப்பட்டவர்கள் எனவும் தெரிவித்துள்ளார்.
+
+பொதுவாக எலிக்காய்ச்சல் நோய் என கூறப்படுவதால், நோயறிதலை மேலும் உறுதிப்படுத்துவதற்காக இரத்த மாதிரிகள் கொழும்புக்கு அனுப்பப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்திருந்தார். R
+
+◼️
+
+[Data](articles/691e5606.json)
+
+---
+
+### மரக்கறிகளின் விலை ரூ.1,000 ஆக அதிகரிப்பு
+
+*2024-12-12 12:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலை-ரூ-1-000-ஆக-அதிகரிப்பு/175-348624) · `ta`
+
+சில பகுதிகளில் ஒரு கிலோ கிராம் போஞ்சி, பச்சை மிளகாய், கறிமிளகாய் ஆகியவற்றின் சில்லறை விலை 900 முதல் 1000 ரூபாய் வரை அதிகரித்துள்ளது.
+
+ஒரு கிலோ கிராம் வெங்காயத்தின் சில்லறை விலை 400 ரூபாவாகவும், முட்டையின் விலை 44 ரூபாவாகவும், ஒரு கிலோ கிராம் கோழி இறைச்சி 1400 ரூபாவாகவும் அதிகரித்துள்ளது.
+
+பாகற்காய் மற்றும் தும்பகரவில ஆகியவற்றின் சில்லறை விலை 600 ரூபாவாகவும், தம்பல,வெட்டக்குளு,மேக்கரல் சுண்டைக்காய், நோகோல், தக்காளி, வெண்டைக்காய், கத்தரிக்காய், கிழங்கு ஆகியவற்றின் சில்லறை விலை   400 ரூபாய் முதல் 450 ரூபாய் வரையிலும் அதிகரித்துள்ளது.
+
+புடலங்காய், முள்ளங்கி, கெரட், பூசணிக்காய் ஆகியவற்றின் சில்லறை விலை 300 ரூபாய் முதல் 350 ரூபாய் வரை அதிகரித்துள்ளது.
+
+...
+
+[Data](articles/0f25fa5a.json)
+
+---
+
+### Restriction to the National List of the IMC
 
 *2024-12-12 12:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவின்-தேசிய-பட்டியலுக்கு-தடையுத்தரவு/175-348622) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தேசியப் பட்டியலில் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பிரதிநிதி ஒருவரை இணைத்துக் கொள்ளாமல் நால்வரின் பெயர்களை பரிந்துரைப்பதற்கு எதிராக தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Colombo District Court bans United People's Power Secretary over National List controversy involving Sri Lanka Muslim Congress leader Rauk Hakeem.
 
-இந்த தடை உத்தரவை, கொழும்பு மாவட்ட நீதிமன்றம் ஐக்கிய மக்கள் சக்தியின் செயலாளர் நாயகம் ரஞ்சித் மத்தும பண்டாரவுக்கு வியாழக்கிழமை (12)  பிறப்பித்துள்ளது.
+🟩
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூக் ஹக்கீம் தாக்கல் செய்த முறைப்பாட்டுக்கு அமைய இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The ban has been issued against the recommendation of four people without incorporating a representative of the Sri Lanka Muslim Congress on the national list of the United People's Power.
 
-ரஞ்சித் மத்தியம் பண்டாரவை எதிர்வரும் 26ஆம் திகதி நீதிமன்றத்தில் சாட்சியமளிக்குமாறு மேலதிக மாவட்ட நீதிபதி திருமதி சாமரி வீரசூரிய உத்தரவிட்டுள்ளார்.
+The Colombo District Court issued the ban on Thursday (12) to the United People's Power Secretary General Ranjith Mathuma Bandara.
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பிரதிநிதியான.நிசாம் காரியப்பரை ஐக்கிய மக்கள் சக்தியின்  தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் பதவி ஒன்றுக்கு பெயரிடாமல் தேசியப் பட்டியல் தயாரிப்பதைத் தடுத்து மாவட்ட நீதிமன்ற நீதவான் இந்த தடையுத்தரவை பிறப்பித்துள்ளார்.
+The ban has been issued in accordance with a complaint filed by Sri Lanka Muslim Congress leader Rauk Hakeem.
+
+Additional District Judge Mrs. Samari Weerasuriya has ordered Ranjith Madhyam Bandara to testify in court on the 26th.
+
+The District Court Magistrate has issued the ban on the preparation of the National List of the National List of the United People's Power of the United People's Power.
 
 ◼️
 
 [Data](articles/a58cf13c.json)
 
+[Extended Data](ext_articles/a58cf13c.ext.json)
+
 ---
 
-### தந்தை வெட்டிய கிளை விழுந்ததில் மகன் பலி
+### Son killed when father had fallen
 
 *2024-12-12 12:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தந்தை-வெட்டிய-கிளை-விழுந்ததில்-மகன்-பலி/76-348620) · `ta`
 
-தந்தையால் வெட்டப்பட்ட பலா மரத்தின் கிளை ஒன்று தலையில் வீழ்ந்ததில் அவரது மகன் உயிரிழந்துள்ள சம்பவமொன்று இரத்தினபுரி , கொடகவெல பொலிஸ் பிரிவுக்கு உட்பட்ட அம்மடுவ பிரதேசத்தில் புதன்கிழமை (11) மாலை இடம்பெற்றுள்ளதாக கொடகவெல பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-13 வயதான மகனே இவ்வாறு உயிரிழந்துள்ளார். உயிரிழந்த மகன் தனது தந்தை மற்றும் நபரொருவருடன் இணைந்து பலா மரம் ஒன்றை வெட்டச் சென்றுள்ளார்.
 
-இந்நிலையில், தந்தையும் நபரும் இணைந்து பலா மரத்தை வெட்டிக்கொண்டிருந்த போது மரத்தின் கிளை ஒன்று மகனின் தலையில் வீழ்ந்துள்ளதாக பொலிஸார் தெரிவித்தனர். இது தொடர்பான மேலதிக விசாரணைகளை கொடகவெல பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+"Son (13) dies after falling branch from palm tree cuts him while he was helping his father cut down a jack tree in Sri Lanka. Police investigating incident."
+
+🟩
+
+Kodagawela police said that a branch of a pala tree cut by a father fell on the head of the Kodagawala area on Wednesday evening in Ammuduwa, which belongs to the Ratnapura and Kodagawala police division.
+
+The 13 -year -old son died. The deceased son has gone to cut a jack tree along with his father and person.
+
+In this case, the father and the person were cutting down the jack tree, the police said that a tree branch had fallen into the son's head.. Further investigations are being carried out by the Kodagawala police.
 
 ◼️
 
 [Data](articles/b91c8276.json)
 
+[Extended Data](ext_articles/b91c8276.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்திக்கு எதிராக தடை உத்தரவு
+### Prohibition against United People's Power
 
 *2024-12-12 12:01:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்திக்கு-எதிராக-தடை-உத்தரவு/175-348618) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தேசியப் பட்டியலில் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பிரதிநிதி ஒருவரை இணைத்துக் கொள்ளாமல் நால்வரின் பெயர்களை பரிந்துரைப்பதற்கு எதிராக தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Colombo District Court bans United People's Power Secretary General Ranjith Mathuma Bandara over Sri Lanka Muslim Congress representation issue.
 
-இந்த தடை உத்தரவை, கொழும்பு மாவட்ட நீதிமன்றம் ஐக்கிய மக்கள் சக்தியின் செயலாளர் நாயகம் ரஞ்சித் மத்தும பண்டாரவுக்கு வியாழக்கிழமை (12)  பிறப்பித்துள்ளது.
+🟩
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூக் ஹக்கீம் தாக்கல் செய்த முறைப்பாட்டுக்கு அமைய இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The ban has been issued against the recommendation of four people without incorporating a representative of the Sri Lanka Muslim Congress on the national list of the United People's Power.
 
-ரஞ்சித் மத்தியம் பண்டாரவை எதிர்வரும் 26ஆம் திகதி நீதிமன்றத்தில் சாட்சியமளிக்குமாறு மேலதிக மாவட்ட நீதிபதி திருமதி சாமரி வீரசூரிய உத்தரவிட்டுள்ளார்.
+The Colombo District Court issued the ban on Thursday (12) to the United People's Power Secretary General Ranjith Mathuma Bandara.
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பிரதிநிதியான.நிசாம் காரியப்பரை ஐக்கிய மக்கள் சக்தியின்  தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் பதவி ஒன்றுக்கு பெயரிடாமல் தேசியப் பட்டியல் தயாரிப்பதைத் தடுத்து மாவட்ட நீதிமன்ற நீதவான் இந்த தடையுத்தரவை பிறப்பித்துள்ளார்.
+The ban has been issued in accordance with a complaint filed by Sri Lanka Muslim Congress leader Rauk Hakeem.
+
+Additional District Judge Mrs. Samari Weerasuriya has ordered Ranjith Madhyam Bandara to testify in court on the 26th.
+
+The District Court Magistrate has issued the ban on the preparation of the National List of the National List of the United People's Power of the United People's Power.
 
 ◼️
 
 [Data](articles/508c92a9.json)
 
+[Extended Data](ext_articles/508c92a9.ext.json)
+
 ---
 
-### වසර 120ක ඉතිහාතිහාසයේ වැඩිම සුරාබදු ආදායම
+### Highest excise income of 120 years
 
 *2024-12-12 11:51:19* · [`adalk`](https://www.ada.lk/breaking_news/වසර-120ක-ඉතිහාතිහාසයේ-වැඩිම-සුරාබදු-ආදායම/11-413599) · `si`
 
-2024 වසරේ 11 – 30 දින වන විට සුරාබදු රුපියල් බිලියන 200 ඉක්මවූ ආදායමක් රැස්කිරීමට සමත්ව ඇතිබව සුරාබදු දෙපාර්ථමේන්තුව දැනුම් දී ඇත.
+Here's a summary in 200 characters:
 
-එම දෙපාර්ථමේන්තුවේ වසර 120ක ඉතිහාසය තුළ බිලියන 200 ඉක්මවූ ආදායමක්  ලබාගැනීමට සමත්වූ ප්‍රථම අවස්වථාව මෙය බව වැඩිදුරටත් ඔවුන් සඳහන් කර සිටියි.
 
-එසේම මෙම ආදායම උපයා ඇත්තේ මත්පැන් නිශ්පාදනය මත සුරාබදු වශයෙන් සහ දුම්කොළ බදු පනත යටතේ බදු වශයෙන් බව සඳහන්වෙයි.
+
+"Department of Excise collects record-breaking Rs 200 billion tax. This exceeds previous highest income by billions. Earned under Production & Tobacco Tax Act. First time exceeding 200 billion in 120-year history."
+
+🟩
+
+The Department of Excise has been instructed to collect Rs 200 billion as at 11-24, 11-24 billion rupees.
+
+They further stated that this is the first time over 200 billion in 120 years of history of history.
+
+It is also reported that this income earned is as taxes under the Production and the Tobacco Tax Act.
 
 ◼️
 
 [Data](articles/966a08f5.json)
+
+[Extended Data](ext_articles/966a08f5.ext.json)
 
 ---
 
@@ -146,7 +214,13 @@ Meanwhile. The equipment to go to the people was hidden. He said that the Minist
 
 Following tests on multiple samples, the fever which spread in the northern region of the island and claimed 7 lives, has been identified as Leptospirosis, also known as ‘rat fever’, the Epidemiology Unit of the Ministry of Health confirmed.
 
-◼️
+At a media briefing held at the Health Promotion Bureau yesterday (11), the Epidemiology Unit of the Ministry of Health said that an unidentified fever is spreading in the Jaffna District, raising concerns among health authorities.
+
+Dr. Kumudu Weerakoon of the Epidemiology Unit explained that patients in the affected areas are presenting with fever and respiratory issues.
+
+Accordingly, health officials had collected samples from these individuals to confirm the exact cause of the illness, Dr. Weerakoon added.
+
+...
 
 [Data](articles/36a579fe.json)
 
@@ -275,6 +349,56 @@ Former PEFA Defense Minister Sarath Weerasekera, the Director of the Criminal In
 ...
 
 [Data](articles/6bcf2e0d.json)
+
+---
+
+### Sri Lanka to pay Rs11bn to Aswesuma beneficiaries on Dec 13
+
+*2024-12-12 11:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-pay-rs11bn-to-aswesuma-beneficiaries-on-dec-13-193821/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Welfare Benefits Board will credit monies to Aswesuma beneficiaries’ bank accounts on Thursday, and the recipients will be able to access them on Friday, a government statement said.
+
+“All the beneficiaries can withdraw their payment from the beneficiary bank account from 13th December.”
+
+A sum of 11,024,310,500 rupees will be credited to the beneficiary bank accounts.
+
+1,707,311 beneficiary families are eligible for the the welfare scheme. (Colombo/Dec12/2024)
+
+◼️
+
+[Data](articles/e1bda0ca.json)
+
+---
+
+### Wasantha Batagoda leaves Sri Lanka’s DFCC Bank
+
+*2024-12-12 11:18:00* · [`economynextcom`](https://economynext.com/wasantha-batagoda-leaves-sri-lankas-dfcc-bank-193781/) · `en`
+
+ECONOMYNEXT – Wasantha Batagoda, the LOLC Group nominee, will resign from the DFCC Bank board on December 19, the company said.
+
+Batagoda was on the DFCC Bank board as Non-Independent Non-Executive Director since LOLC acquired a 10 percent stake in the development bank in 2022.
+
+Last month LOLC Holdings divested its 9.73 percent of ordinary voting shares held in DFCC Bank through subsidiary LOLC Investment Holdings Three (Private) Limited for 3.5 billion rupees. (Colombo/Dec12/2024)
+
+◼️
+
+[Data](articles/7b8fd86e.json)
+
+---
+
+### ආනයනික සහල් වෙළඳපොළට
+
+*2024-12-12 11:17:24* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-සහල්-වෙළඳපොළට/11-413598) · `si`
+
+පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කරන ලද සහල් තොග අද සිට වෙළඳපොළට නිකුත් කිරිමට නියමිතව තිබේ. පෞද්ගලික ආනයනකරුවන් ඉන්දියාවෙන් ඇනවුම් කළ සම්බා හා සුදු කැකුළු සහල් තොගයක් ඊයේ වරායට පැමිණ ඇති අතර ඊයේ රාත්‍රීයේම ඉන් ටොන් 75ක් රේගුවන් නිදහස් කර තිබේ.
+
+රට තුළ පවතින පවතින සහල් හිඟයට පිළියමක් ලෙස එය කඩිනමින් විසඳිම සඳහා පෞද්ගලික ආනයනකරුවන්ට සහල් ආනයන කිරීමට රජය විසින් අවසර දුන්නේය.
+
+අද (12) සහ හෙට (13) යන දෙදින තුළද තවත් සහල් තොග දිවයිනට ළඟාවීමට නියමිත බව වාර්තා වෙයි. ආනයනික සහල් වෙළෙඳපොළට පැමිණීමත් සමග රට තුළ පවතින සහල් හිඟයට යම්කිස් ආකාරයකට පිළිතුරක් ලැබෙනු ඇත.
+
+◼️
+
+[Data](articles/9daa2300.json)
 
 ---
 
@@ -576,6 +700,34 @@ The body is currently placed in the Karapitiya Hospital morgue for the post-mort
 
 ---
 
+### Sri Lanka rupee flat against US dollar, bond yields steady ahead of auction
+
+*2024-12-12 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-us-dollar-bond-yields-steady-ahead-of-auction-193769/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.22/280 to the US dollar in Thursday early trade stronger from yesterday’s close of of 290.30/35, dealers said, while bond yields were steady ahead of an auction.
+
+A bond maturing on 15.12.2026 was quoted at 9.35/50 percent, flat
+
+A bond maturing on 15.10.2027 was quoted at 10.90/11.00 up  from 9.85/10.00 percent Wednesday.
+
+A bond maturing on 15.02.2028 was quoted at 10.15/24 down from 10.25/35 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.45/50 down from 10.50/60 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.70/80 up from 10.75/90 percent. (Colombo/Dec12/2024)
+
+Sri Lanka is auctioning 132.5 billion rupees of Treasury bonds today.
+
+In equities, the All Share Price Index was up 0.11 percent or 15.66 points, at 13,900.
+
+The more liquid S&P SL20 was up 0.27 percent, or 11.02 points, at 4,154.
+
+◼️
+
+[Data](articles/f43d4f4d.json)
+
+---
+
 ### Facebook and WhatsApp services returned to us
 
 *2024-12-12 09:50:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பிய-பேஸ்புக்-வட்ஸ்அப்-சேவைகள்/175-348607) · `ta`
@@ -848,6 +1000,22 @@ Otherwise, the opposition members meet to meet with the Speaker and bring a no-c
 
 ---
 
+### It is not Sri Lanka’s car imports but open market operations that will threaten exchange rate
+
+*2024-12-12 07:46:00* · [`economynextcom`](https://economynext.com/it-is-not-sri-lankas-car-imports-but-open-market-operations-that-will-threaten-exchange-rate-193682/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s obsession over reopening car imports, shows a sad and worrying defeat of economics and the iron grip of naked mercantilism among policy makers that led the country to 72 years of exchange and trade controls and eventual external default in 2022.
+
+Sri Lanka’s peacetime default, after a 30-year war, came amid a general deterioration of monetary policy worldwide in the aftermath of the housing bubble fired by the Fed, reviving the false religion of stimulus (potential output) and excess liquidity (quantitative easing), which classicals used to call the super abundance of paper money.
+
+In this journey to default, technical advice from the International Monetary Fund, for monetary policy modernization and justifications to print money and deny monetary stability to the poor (potential output) has played a big part.
+
+...
+
+[Data](articles/db321b77.json)
+
+---
+
 ### Facebook, Whatsapp and Instagram apps collapse for a few hours
 
 *2024-12-12 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204287) · `si`
@@ -955,6 +1123,30 @@ A first-of-its-kind partnership, this program will empower WIM and DCLK Respectf
 [Data](articles/909cb58a.json)
 
 [Extended Data](ext_articles/909cb58a.ext.json)
+
+---
+
+### Sri Lanka’s CEB asks to maintain tariffs for six months, public hearings from Dec 17
+
+*2024-12-12 06:09:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-asks-to-maintain-tariffs-for-six-months-public-hearings-from-dec-17-193679/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board has asked to keep current tariffs for six months from January 2025, and the regulator said it will give a ruling on January 17 after conducting public hearings.
+
+Nine public hearing would be held from December 27 to January 10 in each province.
+
+Written submissions could be made till January 08 to info@pucsl.gov.lk or whatsapp on 0764271030.
+
+The staff of the Public Utilities Commission will review and revise the tariff proposal before public hearings.
+
+The CEB is forecasting net generation of 8,636 GigaWatt hours from January to June with one coal power plant to shut for scheduled maintenance in June, according to its tariff filing.
+
+Storage from better rainfall will be used for the dry season in the first quarter.
+
+CEB is projecting 2,216.9 GWh of hydro,  4,745 GWh of thermal and 1,674.7 GWh of other renewables.
+
+...
+
+[Data](articles/5f679c7a.json)
 
 ---
 
@@ -1909,207 +2101,5 @@ Twenty20s will be held on December 28, 30 and January 2.
 [Data](articles/9c540c96.json)
 
 [Extended Data](ext_articles/9c540c96.ext.json)
-
----
-
-### රට විරුවන්ට දුන් විද්‍යුත් වාහන ආනයන බලපත්‍ර අවභාවිත කළ හැටි මෙන්න
-
-*2024-12-11 18:14:21* · [`adalk`](https://www.ada.lk/breaking_news/රට-විරුවන්ට-දුන්-විද්‍යුත්-වාහන-ආනයන-බලපත්‍ර-අවභාවිත-කළ-හැටි-මෙන්න/11-413591) · `si`
-
-රට විරුවන්ට බදු නිදහස්ව විද්‍යුත් වාහන 510 ක් ආනයනය කිරීමෙන් රජයට රුපියල් මිලියන1384 ක බදු ආදායමක් අහිමි වෙලා
-
-කම්කරු හා විදේශ රැකියා අමාත්‍යාංශය මගින් එතෙර රැකියාවල නියුතු ශ්‍රී ලාංකිකයන්ට ඔවුන් එවනු ලබන විදේශ ප්‍රේෂණ මත බදු නිදහස්ව පූර්ණ විද්‍යුත් වාහන ආනයනය කිරීමට  ක්‍රියාත්මක කළ යෝජනාව යටතේ  නිකුත් කළ වලංගු බලපත්‍ර 1000 ක් අතරින් ආනයනය කරන ලද විද්‍යුත් වාහන 510 ක් වෙනුවෙන් පමණක්  සුඛෝපභෝගී බදු නිදහස් සීමාව රුපියල් මිලියන හයේ සිට දොළහ දක්වා ඉහළ දැමීමෙන් අයකර ගැනීමට හැකිව තිබූ රුපියල් මිලියන 1384 ක බදු ආදායමක් රජයට අහිමි වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
-
-එමෙන්ම මෙම වැඩ පිළිවෙළ සම්බන්ධයෙන් අමාත්‍ය මණ්ඩල අනුමැතියෙන්  පත්කල කමිටු නිර්දේශ හා චක්‍රලේඛවල   මූලික  ප්‍රතිපත්තිමය කරුණු හතරක් ඇතුළු නිර්දේශ උල්ලංඝනය කරමින් එවකට  විදේශ රැකියා අමාත්‍යාංශයේ ලේකම්වරයා සහ නිලධාරීන් පිරිසක්  සිය අධිකාරි   බලය අවභාවිතා කරමින්  කටයුතු කිරීම නිසා මෙම වැඩ සටහන විනිවිද බවින් තොරව සිදුකර ඇති ව්‍යාපාරයක් බවට පත්වී ඇතැයිද විගණන කාර්යාලය අනාවරණය කරයි.
-
-...
-
-[Data](articles/2cd07dcd.json)
-
----
-
-### ඛණිජ තෙල් නිෂ්පාදන බද්දෙන් රු. බි. 139ක ආදායමක්
-
-*2024-12-11 18:03:49* · [`adalk`](https://www.ada.lk/breaking_news/ඛණිජ-තෙල්-නිෂ්පාදන-බද්දෙන්-රු--බි--139ක-ආදායමක්/11-413590) · `si`
-
-ඛණිජ තෙල් මත නිෂ්පාදන බද්දෙන් ලද ආදායම 2023 වර්ෂයේ පළමු මාස 08 ට සාපේක්ෂව 2023 ජනවාරි 01 වැනි දා සිට අගෝස්තු 30 දක්වා 2024 වර්ෂයේ පළමු මාස 08 දී රුපියල් මිලියන 139.000 ක් දක්වා සියයට 137.4 කින් කැපී පෙනෙන ලෙස  වැඩි වී ඇති බව ශ්‍රී ලංකා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පූර්ව මැතිවරණ අයවැය තත්වය පිළිබඳ වාර්තාවකින් අනාවරණය වේ.
-
-2024 වර්ෂයේ පළමු කාර්තාවේ දී (ජනවාරි 01 වන දා සිට මාර්තු 30 දක්වා ) ආර්ථික වර්ධනයත් සමඟ ඉල්ලුම් ඉහළයාම හේතුවෙන් ඛණිජ තෙල් මත නිෂ්පාදන බද්දෙන් ලද ආදායම කැපී පෙනෙන ලෙස වැඩි වී ඇති බව එම වාර්තාවේ සඳහන්වේ.
-
-2023 වර්ෂයේ මුල් මාස 08 දී ඛණිජ තෙල් මත නිෂ්පාදන බද්දෙන්  ලද ආදායම රුපියල් බිලියන 58.7 විය. ඒ අනුව 2023 වර්ෂයේ මෙම කාල පරිච්ඡේදයට සාපේක්ෂව 2024 වර්ෂයේ  මුල් මාස 08 දී ඛණිජ තෙල් හා නිෂ්පාදන බද්දෙන් ලද ආදායම රුපියල් බිලියන 80.6 කින් වැඩි වී ඇත.
-
-...
-
-[Data](articles/95a4af0b.json)
-
----
-
-### Foreigners buy over $33 mln worth Sri Lanka govt securities
-
-*2024-12-11 18:00:00* · [`economynextcom`](https://economynext.com/foreigners-buy-over-33-mln-worth-sri-lanka-govt-securities-193642/) · `en`
-
-ECONOMYNEXT – Sri Lanka witnessed more than $33 million offshore inflows into its government securities last week and the island nation has seen inflows for the 12th straight week, the Central Bank data showed.
-
-Analysts said foreign investors speculate further rate cut in the central bank’s monetary policy rate and further appreciation in the rupee.
-
-“So, foreign risk-taking funds are still buying Sri Lanka government securities. They are speculating further 150 basis point reduction in the market interest rates and more appreciation in the rupee,” a Colombo-based currency dealer told EconomyNext.
-
-Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
-
-...
-
-[Data](articles/48156ea8.json)
-
-[Extended Data](ext_articles/48156ea8.ext.json)
-
----
-
-### The Ministry has not made any decision on setting up apartments in the plantation areas - Sundaralingam Pradeep
-
-*2024-12-11 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201014) · `ta`
-
-Ministry denies plans for apartments in plantation areas; Deputy Minister clarifies no decision made; Urges public to spread truth not rumors; Promises action on plantation worker wages issue.
-
-🟩
-
-Deputy Minister of Plantation and Social Infrastructure Sundaralingam Pradeep said that the Ministry had not made any decision on the construction of apartments in the plantation areas.
-
-He was speaking at a function to hand over land certificates to 545 families held on Tuesday (10) in Hatton.
-
-There are reports on social media that the secretary of our ministry said that the recommendation of the construction of a series of residential areas in the plantation areas would be set up and that the houses would be set up.
-
-Today, many groups and failed parties are working to muddy the national people's power. They are spreading ideas that they did not say and did what they did.
-
-The Ministry has not taken any decision. Therefore, we urge the people to spread the truth, rather than spread the rumors.
-
-At the same time, the political power of the national population will go only one more year.. Our rule cannot be overthrown until the people vote for the purpose.
-
-...
-
-[Data](articles/ea06c56b.json)
-
-[Extended Data](ext_articles/ea06c56b.ext.json)
-
----
-
-### During China's visit, the President should hold diplomatic talks on monkeys - Mahinda Amaraweera
-
-*2024-12-11 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201013) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Sri Lankan Minister Mahinda Amaraweera suggests giving monkeys to China during President Anura Kumara Dissanayake's visit. He claims this could help agriculture, citing coconut losses and peacock impacts. Environmentalists oppose, arguing against wildlife trade.
-
-🟩
-
-President Anura Kumara Dissanayake should take diplomatic talks on the decision taken in our government on monkeys during his visit to China. Former Agriculture Minister Mahinda Amaraweera said that if such action is taken, monkeys will be able to resolve the impact of agriculture.
-
-He further stated that he was speaking to the media after attending an event at the SLFP headquarters on Wednesday (11).
-
-When the monkey problem occurred during our reign, there were 3 talks with a group of Chinese delegates. During this time they demanded that one lakh monkeys be given to them. The request was made to provide thousands of private zoo in China.
-
-Even the documents on this were exchanged. However, we were unable to carry out those activities as ecologists went to court.
-
-President Anura Kumara Dissanayake is expected to leave China soon. During the visit, diplomatic negotiations on this issue can be solved.
-
-...
-
-[Data](articles/faf6ce76.json)
-
-[Extended Data](ext_articles/faf6ce76.ext.json)
-
----
-
-### Never did not say that animals harming cultivation should be killed
-
-*2024-12-11 17:46:20* · [`adalk`](https://www.ada.lk/breaking_news/වගාවට-හානි-කරන-සතුන්-ඝාතනය-කළ-යුතු-යැයි-කිසිම-අවස්ථාවක-කීවේ-නෑ/11-413589) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Minister Lal Kantha: No call to kill animals harming crops. Supports farmer orgs to protect fields. Proposes air rifles & training to reduce damage. 1555 farmer groups in Kandy district to submit proposals.
-
-🟩
-
-It is important that they have no declared that they should kill the farmers that harm the farmers who are harming the cultivation of the farmers.. Says Lal Kantha.
-
-The Minister emphasized that today (11) speaking at the media after the first district coordinating committees of the present government today (11).
-
-He further stated that a unit of farmer organizations registered under the Department of Agrarian Services has decided to establish every Grama Seva Division to reduce the crop damage caused by wild animals.
-
-The Minister said that the units of the village could be determined if the air rifles are provided to minimize the cultivated damage to the farmers.. The Minister emphasized that short-term solutions should be reached until the long-term solutions to cultivated damage.
-
-The Minister said that the number of farmers must provide knowledge and training to the farmers to protect cultivated territories.
-
-...
-
-[Data](articles/2a57b67e.json)
-
-[Extended Data](ext_articles/2a57b67e.ext.json)
-
----
-
-### A program for plantation workers in the budget will be implemented - Kalachelvi
-
-*2024-12-11 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201012) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Program for plantation workers: Land rights & home ownership. Budget allocation planned. National People's Power MP Kalachelvi addresses land certificate distribution event in Hatton. Emphasizes protecting land rights & granting home rights to hill country residents.
-
-🟩
-
-Land rights and home ownership will be obtained. The National People's Power Nuwara Eliya District Parliamentarian Kalachelvi said that there is no doubt about this.
-
-He said this while addressing the gathering of land certificates to 545 families held on Wednesday (11) in Hatton.
-
-'Land ownership is our property. Therefore, it is important to note that it is our responsibility to protect the land rights available.
-
-Home rights and land rights have been a dream for 200 years. This was the case with contributing to national income.
-
-The land and household issue of our people must be solved. It will be taken in our regime. All those living in the hill country will be granted home rights and land rights.
-
-Even if you work from morning to evening, a few salary is available to plantation workers. It is not possible to meet the daily demand. Therefore, a program will be implemented in the budget. ” - he said.
-
-◼️
-
-[Data](articles/2aeeb9b7.json)
-
-[Extended Data](ext_articles/2aeeb9b7.ext.json)
-
----
-
-### It is necessary to restore institutions built on the basis of democratic principles;The letter to the president
-
-*2024-12-11 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201009) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Restore democratic institutions. Abolition of sectoral supervisory committees in 9th parliament criticized. Oppn's oversight role crucial. Departmental committees contributed to country's welfare. Analyze successful models. Protect democracy and people's trust.
-
-🟩
-
-It is unfortunate that the deliberate abolition of sectoral supervisory committees in the ninth parliament, which received a two -thirds majority, is unfortunate, said Karu Jayasuriya, adviser to the National Movement for Social Justice.
-
-He said this in a letter sent to President Anura Kumara Dissanayake to protect the organizations and principles built on the basis of democratic doctrines by the Janatha Vimukthi Peramuna (JVP), the country's civil society and the opposition parties.
-
-Sri Lanka made Sri Lanka proud to protect the attitude of democratic principles in post -independence history.
-
-We have protected it despite various setbacks. We expect that the policies will be further protected and upgraded by the new government for democracy and the future of the country.
-
-The opposition has a massive oversight duty in the regime that admire democracy. Accordingly, in the 8th Parliament, the Opposition was given the responsibility of honoring the principles of 2015-12020.
-
-...
-
-[Data](articles/32f16b35.json)
-
-[Extended Data](ext_articles/32f16b35.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 19:03:35**
+As of **2024-12-12 19:42:53**
 
 ## Newspaper Stats
 
-*Scraped **59,839** Articles*
+*Scraped **59,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,687
-adaderanalk | 7,284
+adaderanalk | 7,285
 tamilmirrorlk | 8,555
 virakesarilk | 9,815
 adaderanasinhalalk | 10,348
@@ -26,47 +26,61 @@ adaderanasinhalalk | 10,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,787 (99.9%) of 59,839 articles have been extended.
+59,794 (99.9%) of 59,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### රත්නපුර මාර්ග අවහිරතාවක් සම්බන්ධව දැනුම්දීමක්
+### Notification on a road block in Ratnapura
 
 *2024-12-12 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204316) · `si`
 
-රත්නපුර ප්‍රදේශයේ දී හෙට (13) දින සිදුවිය හැකි මාර්ග අවහිරතාවක් සම්බන්ධව පොලීසිය විසින් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Road block alert: Police announce traffic restrictions in Ratnapura due to Sri Pada pilgrimage processions on 13th. Expect delays on roads leading to Sri Pada from 6 AM to 10 PM.
 
-ඒ අනුව ශ්‍රී පාද වන්දනා වාරය එළැඹෙන 14 වන උඳුවප් පුර පසලොස්වක පොහොය දිනෙන් ආරම්භ වන බැවින් පැල්මඩුල්ල ගල්පොත්තාවල විහාරස්ථානයේ තැන්පත් කර ඇති සමන් දේව ප්‍රතිමාව, සධාතුක කරඬුව සහ දේව ආභාරණ මහජනතාවට වැඳපුදා ගැනීමට අවස්ථාව අද (12) දින සිදු කෙරේ.
+🟩
 
-ඉන් පසු හෙට (13) දිනයේදී ගලප්පොත්තාවල රජමහා විහාරස්ථානයේ සිට රත්නපුර පලාබද්දල මාර්ගයේ හා කුරුවිට එරත්න මාර්ගයේ ශ්‍රී පාද මළුව දක්වා පෙරහරින් වැඩම කිරීමට නියමිතව තිබේ.
+Police have issued a special announcement in connection with a road blocking in Ratnapura tomorrow (13).
 
-මෙම පෙරහැර ගමන් කිරීමට නියමිත A-04 ප්‍රධාන මාර්ගයේ පැල්මඩුල්ල සිට රත්නපුරය නව නගරය දක්වා කොටසේ හෙට උදෑසන 6 සිට උදෑසන 10.00 දක්වා පමණ කාලය තුළ රථවාහන තබදයක් ඇති විය හැකි බව පොලීසිය පවසයි.
+As the Sri Pada pilgrimage will commence the 14th Uduvath Pilgrimage, Samunooo statue, the rescue and the Gunajasa Kadu and the Gunajasa Kadu and the Gunaja (12) will be held in the Pelmadulla Galpola Temple.
 
-එබැවින් එම කාලය තුළ ඉහත මාර්ගයේ ගමන් ගන්නා රියදුරන් හා මහජනතාවට මේ සම්බන්ධව අවධානය යොමු කරන මෙන් පොලීසිය ඉල්ලා සිටියි.
+Following this will be taken to work from the Galapotha Raja Maha Viharaya tomorrow to the Sri Pada Kavilwala Road, the Kuruwita road and Kuruwita road.
+
+The procession will be held from Pelmadulla to Ratnapura from 6 am to 10 am to 10 am to 10 am to 10 am tomorrow.
+
+Therefore, the police call on the above road and to pay attention to the public.
 
 ◼️
 
 [Data](articles/24f96a1f.json)
 
+[Extended Data](ext_articles/24f96a1f.ext.json)
+
 ---
 
-### சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர தீர்மானம் - பொதுஜன பெரமுன
+### Resolution to bring no confidence motion against Speaker - PA
 
 *2024-12-12 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201115) · `ta`
 
-சபாநாயகர் அசோக ரங்வாலாவுக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர தீர்மானித்துள்ளதாக பொதுஜன பெரமுன தெரிவித்துள்ளது.
+PA brings no-confidence motion against Speaker Ashoka Rangwala over alleged fraudulent educational qualifications. Party general secretary Sagara Taiyavam calls for opposition and government members' support. Motion aims to hold Speaker accountable and ensure constitutional integrity.
 
-வியாழக்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவித்த கட்சியின் பொதுச் செயலாளர் சாகர காரியவம் இதனைத் தெரிவித்தார்.
+🟩
 
-சபாநாயகர் ஆரம்பத்தில் கலாநிதி பட்டம் மற்றும் பல்வேறு பட்டங்களைக் காட்டி மக்களை ஏமாற்றி விட்டார் என அவர் தெரிவித்துள்ளார்.
+The PA has decided to bring a no -confidence motion against Speaker Ashoka Rangwala.
 
-இதன்படி, சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணையை தனது நாடாளுமன்றக் குழுவின் ஊடாக சமர்ப்பிக்க தீர்மானித்துள்ளதாகவும், இதற்கு முழு எதிர்க்கட்சியினரும், அரசாங்கத்தின் மனசாட்சியுள்ள உறுப்பினர்களும் பங்களிப்பார்கள் என எதிர்பார்ப்பதாகவும் அவர் தெரிவித்தார்.
+Speaking at a media briefing held on Thursday (12), the party's general secretary Sagara Taiyavam said this.
 
-...
+He said the Speaker had initially deceived the people with a degree and various degrees.
+
+Accordingly, he has decided to submit the no -confidence motion against the Speaker through his Parliamentary Committee and expect the entire opposition parties and the conscientious members of the government to contribute.
+
+“If any educational qualifications are being defrauded and that it is wrong, the Speaker should respect the Constitution and the entire administration of the country and immediately resign from this post without referring to the third person in the country as a fraudulent.. But unfortunately, this can be very harmful to the whole country.
+
+◼️
 
 [Data](articles/84a7057a.json)
+
+[Extended Data](ext_articles/84a7057a.ext.json)
 
 ---
 
@@ -100,19 +114,27 @@ He said he expected to submit a no-confidenceability against the Speaker through
 
 ---
 
-### மின்சார சபை மறுசீரமைப்பு யோசனை அடுத்த வாரம் அமைச்சரவைக்கு சமர்ப்பிக்கப்படும் - சக்தி வலு அமைச்சு
+### The Electricity Board Reorganization idea will be submitted to the Cabinet next week - the Ministry of Power
 
 *2024-12-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201112) · `ta`
 
-2025 ஆம் ஆண்டு முதல் ஆறுமாத காலப்பகுதிக்கு மின்கட்டணத்தை திருத்தம் செய்தால் மின்னுற்பத்திக்கு 40 பில்லியன் ரூபா மேலதிகமாக செலவு செய்ய நேரிடும். மின்கட்டணத்தை திருத்தம் செய்யாமல் இருப்பது மின்கட்டமைப்புக்கு சாதகமாக அமையும். மின்சார சபை மறுசீரமைப்பு தொடர்பான யோசனை எதிர்வரும் வாரம் அமைச்சரவைக்கு முன்வைக்கப்படும்.
+Electricity Board Reorganization plan: Cabinet submission next week. Power plant corrections from 2025 to cost 40 billion rupees. Restoration work expected by March 2025. Public consultation on power supply recommendations begins Tuesday. Implementation costs estimated at 229 billion rupees. Reductions proposed in power supply, including 22% reduction suggested by Public Use Commission. Reorganization not considered privatization, but allows private sector involvement in main and sub-services.
 
-மறுசீரமைப்பு பணிகளை 2025 மார்ச் மாதத்துக்குள் நிறைவு செய்ய எதிர்பார்;க்கப்பட்டுள்ளது என  எரிசக்தி அமைச்சின் மின்சாரத்துறை மறுசீரமைப்பு பணிப்பாளர் நாயகம் பொறியியலாளர் புபுது நிரோஷன் தெரிவித்தார்.
+🟩
 
-அரசாங்க தகவல் திணைக்களத்தில் வியாழக்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+If the power plant is corrected from 2025 to six months, it will cost 40 billion rupees for electricity.. Not to revise the electricity is favorable to the power supply. The idea of ​​the reconstruction of the Electricity Board will be presented to the Cabinet next week.
+
+He is expected to complete the restoration work by March 2025, said the Director General of Electricity Reorganization of the Ministry of Energy, Pubudu Niroshan.
+
+He was speaking at a media briefing held at the Government Information Department on Thursday (12).
+
+The Electricity Board has the obligation to clarify the people of the country on electricity correction and electricity sector reorganization. There is much talk about the recommendations made to continue the cost of implementation without amendment for the next six months.. However, no one pays attention to the technical factors.
 
 ...
 
 [Data](articles/91860bd8.json)
+
+[Extended Data](ext_articles/91860bd8.ext.json)
 
 ---
 
@@ -318,6 +340,26 @@ On December 03, the Cabinet of Ministers approved the proposal to allow the impo
 
 ---
 
+### 1,900 MT of rice imported by private sector since Dec. 10
+
+*2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/1900-mt-of-rice-imported-by-private-sector-since-dec-10) · `en`
+
+Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
+
+Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
+
+Accordingly, the association’s media spokesperson, Nihal Seneviratne, told reports today that importers can supply imported Nadu Rice for around Rs. 220 per kilogram.
+
+Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
+
+[Data](articles/fcd8d2af.json)
+
+---
+
 ### A prisoner's prisoner falls down and death
 
 *2024-12-12 16:48:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறைக்-கைதி-ஒருவர்-மயங்கி-விழுந்து-மரணம்/71-348641) · `ta`
@@ -394,55 +436,85 @@ The judge sentenced the victim to four and a half lakh rupees for a compensation
 
 ---
 
-### LANKA T10 ලීග් ක්‍රිකට් තරගාවලියේ සිව්වන තරගයට වර්ෂාවෙන් බාධා
+### Rain interrupted the fourth match of the Lanka T10 League
 
 *2024-12-12 16:33:17* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-ලීග්-ක්‍රිකට්-තරගාවලියේ-සිව්වන-තරගයට-වර්ෂාවෙන්-බාධා/9-413606) · `si`
 
-LANKA T10 ලීග් ක්‍රිකට් තරගාවලියේ  මේ වන විට පැවැත්වෙන පළමු තරගය ,එනම් තරගාවලියේ සිව්වන වර්ෂාවෙන් බාධා එල්ල වී තිබේ.
+Here's a summary of 200 characters:
 
-නුවරඑළිය කින්ග්ස් කණ්ඩායම එරෙහි තරගයේ පළමුවෙන් පන්දුවට පහරදීම ආරම්භ කළ  කැන්ඩි බෝල්ට් කණ්ඩායම පන්දුවාර 3යි පන්දු 3ක් අවසානයේ එක් කඩුල්ලක් දැවී ලකුණු 38ක් ලබා සිටියදී මෙලෙස වර්ෂාවෙන් බාධා එල්ල විය.
+
+
+Rain halted play during the 4th Lanka T10 League match. The 1st match was the tournament opener. Kenggs Group's batsmen were interrupted while batting first.
+
+🟩
+
+The first match of the Lanka T10 League is the first match of the tournament, which means the fourth rain.
+
+The mover were interrupted first while he began batting first in the match by Kenggs Group.
 
 ◼️
 
 [Data](articles/84890ba3.json)
 
+[Extended Data](ext_articles/84890ba3.ext.json)
+
 ---
 
-### නීතිඥවරයෙකු ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් නිෂ්ප්‍රභ කෙරේ
+### A basic rights petition filed by a lawyer was dismissed
 
 *2024-12-12 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204311) · `si`
 
-නීතිඥවරයෙකු විසින් ගොනු කෙරූ මූලික අයිතිවාසිකම් පෙත්සමක් රුපියල් ලක්ෂ 20ක නඩු ගාස්තුවකට යටත්ව නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (12) නියෝග කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකු වශයෙන් පත් කිරීම සඳහා එකවක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ නිර්දේශක් ප්‍රතික්සේප කිරීම ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව ගත් තීරණය තුළින් සිය මූලික අයිතිවාසිකම් උල්ලංඝනය වූ බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනු වූ පෙත්සමක් සලකා බැලීමෙන් අනතුරුවය.
 
-අචල වෙංගප්පුලි, මහින්ද සමයවර්ධන යන මහත්වරුන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සූරසේන මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
 
-වේයන්ගොඩ ප්‍රදේශයේ පදිංචි නීතිඥවරයෙකු වන බී.පී.එස්.එම්. පතිරත්න මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබුණි.
+Supreme Court dismisses lawyer's fundamental rights petition. Judge rejects claim of human rights violation, citing lack of legal basis. Decision made by three-judge bench, including Justice Sreetara Surasena.
+
+🟩
+
+The Supreme Court today (12th) of the Supreme Court today ordered to dismiss the fundamental rights petition filed by a lawyer.
+
+The refugee presented by President Ranil Wickremesinghe to appoint President Ranil Wickremesinghe to appoint a Supreme Court judge as a Supreme Court judge.
+
+Supreme Court Judge Sreetara Surasena gave the decision with the agreement of Achala Vingappuli and Mahinda Samayawardena.
+
+BPSM, a resident of Veyangoda, Veyangoda. The petition was presented by Pathiratne.
+
+After an extended trial, Supreme Court Justice Padman Surasena said that the verdict of the Constitution was in line with the constitution to reject the president of the Court of Appeal.
+
+The Constitutional decision stated that the Constitutional Council has the power to consider his behavior when promoted a judge to the next position.
 
 ...
 
 [Data](articles/2ff4fbdf.json)
 
+[Extended Data](ext_articles/2ff4fbdf.ext.json)
+
 ---
 
-### Bill & Melinda Gates மன்றத்தின் பிரிதிநிதிகளுக்கும் பிரதமருக்கும் இடையிலான சந்திப்பு
+### Meeting between Bill & Meelinda Gates forum
 
 *2024-12-12 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201085) · `ta`
 
-Bill & Melinda Gates மன்றத்தின் இந்தியா மற்றும் தென்கிழக்காசியாவின் கொள்கை மற்றும் அரச தொடர்புகள், பிரதான பணிப்பாளர் ஹரி மேனன் மற்றும் பிரதமர் கலாநிதி ஹரிணி அமரசூரிய ஆகியோருக்கிடையிலான சந்திப்பு பிரதமர் அலுவலகத்தில் நடைபெற்றது.
+Bill & Melinda Gates forum meeting summary: India-Southeast Asia policy relations discussed. Focus on digital agriculture, public amenities. Technical cooperation for financial facilities development. Government actions on digitalization and nutrition addressed. Top officials present.
 
-சுகாதாரம் மற்றும் போஷாக்கு, விவசாயம், நகர்ப்புற சுகாதாரம் மற்றும் மகளிர் பொருளாதாரத்தை வலுவூட்டல் தொடர்பான மன்றத்தின் செயற்பாடுகள் பற்றி மேனன் இங்கு தெளிவுபடுத்தினார்.
+🟩
 
-அத்துடன் இலங்கையில் விசேடமாக "டிஜிட்டல் விவசாயம்" மற்றும் "டிஜிட்டல் பொது அடிப்படை வசதிகள்" ஆகியவற்றின் மேம்பாடு தொடர்பில் கவனம் செலுத்தப்படவுள்ளதாக குறிப்பிடப்பட்டது.
+The meeting between Bill & Melinda Gates forum was held at the Prime Minister's Office between India and Southeast Asia's policy and state relations, Chief Director Hari Menon and Prime Minister Dr. Harini Amarasuriya.
 
-டிஜிட்டல் விவசாயத் திட்டங்களுக்கான நிதி வசதிகள் மற்றும் பொது அடிப்படை வசதிகளை விருத்தி செய்வதற்கான தொழில்நுட்ப ரீதியிலான ஒத்துழைப்பை வழங்குவது தொடர்பிலும் இங்கு கலந்துரையாடப்பட்டது.
+Menon made it clear that the activities of the Health and Nutrition, Agriculture, Urban Health and Women's Economy on the Forum on the Forum.
 
-டிஜிட்டல்மயப்படுத்தல் மற்றும் போஷாக்கு குறைபாட்டை நிவர்த்தி செய்வதற்கான  விடயங்கள் குறித்தான அரசாங்கத்தின் செயற்பாடுகள் பற்றி பிரதமர் இங்கு விளக்கமளித்தார்.
+It has also been stated that the focus will be on the development of "digital agriculture" and "digital public basic amenities" in Sri Lanka.
+
+The discussion was also discussed on the provision of technical cooperation for the development of financial facilities and public basic amenities for digital agricultural projects.
+
+The Prime Minister explained the government's actions on issues to address digitalization and nutritional deficiency.
 
 ...
 
 [Data](articles/ea9c0ab7.json)
+
+[Extended Data](ext_articles/ea9c0ab7.ext.json)
 
 ---
 
@@ -470,17 +542,25 @@ Kurunegala police rushed to the scene after receiving information about the inci
 
 ---
 
-### හරවා ගිය තෙල් නැව ගැන කරුණු පැහැදිලි කරයි
+### Explains the ship's ship
 
 *2024-12-12 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204309) · `si`
 
-මෙරටට පැමිණි තෙල් නැවක් නැවත ආපසු පිටත්ව යාම සම්බන්ධව පළවන පුවත් සම්බන්ධව ශ්‍රී ලංකා ඛනිජ තෙල් සංස්ථාව කරුණු පැහැදිලි කර තිබේ.
+Sri Lanka Petroleum Corporation explains oil shipment return. Chairman Janaka Rajakaruna states Underway Petroleum brought oil ship to Sri Lanka but returned without landing due to internal reasons. Corporation claims sufficient fuel stocks until April next year.
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ජනක රාජකරුණා මහතා අද (12) රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවකදී අදහස් දක්වමින් පැවසුවේ එම තෙල් නැව ලංකා ඛනිජ තෙල් සංස්ථාව ගෙන්වූ තෙල් නැවක් නොවන බැවින් ඒ සම්බන්ධව රටට කිසිදු බලපෑමක් නොමැති බවය.
+🟩
 
-...
+The Sri Lanka Petroleum Corporation has explained the newsletter of a quarter of returning to Sri Lanka's departure.
+
+The Chairman of the Ceylon Petroleum Corporation Janaka Rajakaruna was speaking at a press conference held at the Government Information Department today.
+
+"Underlay Petroleum has been brought to an oil ship to be brought to an oil ship on the 2nd petrol.. That ship has been brought back without land. In fact, it does not have any impact on the country because it's not a Petroleum Corporation. Recently, companies have begun to boast for oil trading in Sri Lanka, then they get oil on the oil. This oil ship has been taken back without landing because of their interior. The Petroleum Corporation owns sufficient fuel stocks. We have oils until April next year ... "
+
+◼️
 
 [Data](articles/29729fbf.json)
+
+[Extended Data](ext_articles/29729fbf.ext.json)
 
 ---
 
@@ -2375,27 +2455,5 @@ The rice stocks were released to the market by private importers.
 [Data](articles/dc8f2b00.json)
 
 [Extended Data](ext_articles/dc8f2b00.ext.json)
-
----
-
-### 13 year old children killed in accident
-
-*2024-12-12 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204289) · `si`
-
-Tragic incident: 13-year-old boy killed in accidental fall while felling a decaying tree in Godakawela. Investigations ongoing.
-
-🟩
-
-In the Godakawela - in the Nakala area, a boy was killed and killed.
-
-Investigations have revealed that the child had been cutting down the child at the time of this child when the father and another person cut into a decay tree.
-
-The victim was a 13 year old resident of Godakawela.
-
-◼️
-
-[Data](articles/10ebfa5d.json)
-
-[Extended Data](ext_articles/10ebfa5d.ext.json)
 
 ---

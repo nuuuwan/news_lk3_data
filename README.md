@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 00:18:26**
+As of **2024-12-12 23:43:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,828 (99.9%) of 59,875 articles have been extended.
+59,825 (99.9%) of 59,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -308,35 +308,25 @@ The Department of Meteorology has forecast rainfall tomorrow morning (13). Rembl
 
 ---
 
-### Pilot project begins
+### රිළවුන් වන්ධ්‍යාකරණය කිරීමේ නියමු ව්‍යාපෘතියක් ඇරඹෙයි
 
 *2024-12-12 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204319) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+ගහනය ඉහළයෑමෙන් වගාවන්ට සහ දෛනික ජනජීවිතයටද බලපෑම් එල්ල කර ඇති රිළවුන් වන්ද්‍යකරණය කිරීමේ නියමු ව්‍යාපෘතියක් මාතලේදී අද ආරම්භ කෙරුණා.
 
+මෙහිදි අල්ලා ගන්නා රිළවුන් ගිරිතලේ සත්ව සුරැකුම් මධ්‍යස්ථානයට රැගෙන ගොස් වන්ධ්‍යාකරණයට ලක් කර පසුව යළිත් එම ප්‍රදේශයටම මුදා හැරීමට නියමිතය.
 
+මේ සම්බන්ධව අදහස් දක්වමින් මාතලේ දිස්ත්‍රික් ලේකම් තේජානි තිලකරත්න මහත්මිය පැවසුවේ දිගුකාලීනව ගහනය පාලනය කිරීම සඳහා වූ නියමු ව්‍යාපෘතියක් මෙලෙස ආරම්භ කළ බවය.
 
-"Pilot project launched in Matale. Strikes at Giritale Animal Sanctuary. Residents seek reimplementation of forest-monkey management. Deputy Minister Anton Jayakody comments on Sri Lanka's environmental situation."
+මේ අතර කතරගම දේවාලය සහ වනජීවී නිලධාරීන් එක්ව මීට වසරකට පමණ ක්‍රියාත්මක කළ රිළවුන් සහ වඳුරන් අල්ලා කැලෑවට මුදාහැරීමේ වැඩපිළිවෙළ නැවත ක්‍රියාත්මක කරන ලෙස ප්‍රදේශවාසීන් ඉල්ලා සිටියි.
 
-🟩
+ප්‍රදේශවාසීන් පැවසුවේ එම කාලය තුළ වඳුරන් සහ රිලවුන් ගැවසීම අඩු වූ බවය.
 
-A pilot project was commenced in Matale today
-
-The strikes are taken to the Giritale Animal Seassleist Center and resumes later.
-
-Speaking on the matter, Ms. GN, District Secretary Grandna, said that a pilot project was established in the long-term controllement.
-
-Residents of the area call for the re-implementing the arrangements for the forest and monkeys who have been released to the jungle about a year.
-
-Residents said that monkeys and shell was reduced during that period.
-
-Meanwhile, Deputy Minister of Environment Anton Jayakody, joining the Ada Derana, said that the country was assumed that Sri Lanka's strikes were assumed between Rs.
+මේ අතර අද දෙරණ BIG FOCUS වැඩසටහනට එක්වෙමින් පරිසර නියෝජ්‍ය අමාත්‍ය භූ විද්‍යාඥ ඇන්ටන් ජයකොඩි මහතා පැවසුවේ මෙරට රිළවුන් ලක්ෂ 25-30ත් අතර ප්‍රමාණයක් ඇති බවට අනුමාන කරන බවය.
 
 ◼️
 
 [Data](articles/80df66ab.json)
-
-[Extended Data](ext_articles/80df66ab.ext.json)
 
 ---
 
@@ -362,63 +352,41 @@ The Liberal National Party (LNP) - which won the state election in October - mad
 
 ---
 
-### MOP Fertilizer to house 55,000 metric tons of fertilizer
+### MOP පොහොර මෙට්‍රික් ටොන් 55,000ක් මෙරටට
 
 *2024-12-12 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204318) · `si`
 
-World Food Program delivers 55,000 metric tons of MOP fertilizer. Distribution includes 30,000 tons for free paddy cultivation to farmers. Ceremony attended by agriculture minister, Russian ambassador, and officials.
+ලෝක ආහාර වැඩසටහන යටතේ MOP පොහොර මෙට්‍රික් ටොන් 55,000ක් මෙරටට ප්‍රදානය කිරීම අද (12) සිදුකෙරිණි.
 
-🟩
+ඒ කෘෂිකර්ම අමාත්‍ය කේ.ඩී.ලාල්කාන්ත මහතා ඇතුළු අමාත්‍යවරුන්, මෙරට රුසියානු තානාපති ලෙවාර් ජගර්යාන් මහතා සහ නිලධාරීන් පිරිසකගේ සහභාගීත්වයෙනි.
 
-Under the World Food Program, 55,000 metric tons of MP fertilizer was presented today (12).
-
-The Minister of Agriculture KD Lal Kanthantha and ministers including the Russian Ambassador, Sri Lanka Level Jararman and a group of officers participating in the country.
-
-30,000 metric tons of paddy cultivation at the consignment of the paddy cultivation free of charge for farmers who have commenced the paddy cultivation.
+එම පොහොර තොගයෙන් මෙට්‍රික් ටොන් 30,000ක් දැනට වී වගාව ආරම්භ කර ඇති ගොවීන් වෙනුවෙන් ගොවිජන සේවා දෙපාර්තමේන්තුවේ සකස් කරන ලද ප්‍රමුඛතා ලැයිස්තුව මත නොමිලේ ලබාදීමට නියමිතය.
 
 ◼️
 
 [Data](articles/6acb6a7c.json)
 
-[Extended Data](ext_articles/6acb6a7c.ext.json)
-
 ---
 
-### Singer - MCA bowl knockout match;The Champion Degree was the name of the nameburst insurance
+### சிங்கர் - எம்சிஏ கிண்ண நொக் அவுட் போட்டி ; சம்பியன் பட்டத்தை பெயார்பெர்ஸ்ட் இன்சூரன்ஸ் சுவீகரித்தது
 
 *2024-12-12 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201119) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+பந்துவீச்சாளர்கள் ஆதிக்கம் செலுத்திய 31ஆவது சிங்கர் - எம்சிஏ (MCA) பிறீமியர் லீக் 2024 நொக் அவுட் இறுதிப் போட்டியில் மெலிபன் பிஸ்கட்ஸ் நிறுவன அணியை ஒரு விக்கெட் வித்தியாசத்தில் வெற்றிகொண்டு பெயார்பெர்ஸ்ட் இன்சூரன்ஸ் நிறுவன அணி சம்பியன் கிண்ணத்தை சுவீகரித்தது.
 
+இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய மெலிபன் பிஸ்கட்ஸ் நிறுவன அணி 32.1 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 160 ஓட்டங்களைப் பெற்றது.
 
+ஒரு கட்டத்தில் 5 விக்கெட்களை இழந்து 64 ஓட்டங்களைப் பெற்று தடுமாறிக்கொண்டிருந்த மெலிபன் பிஸ்கட்ஸ் நிறுவன அணிக்கு ரனேஷ் சில்வா குவித்த அரைச் சதம் கைகொடுத்தது.
 
-"Meliban Biscuits wins 31st Singer-MCA Premier League 2024 knockout final. Ranesh Silva scores 53*, Milinda Siriwardena 32, Sangeet Kare 28. Samika Gunasekera takes 4/31. Piwrest Insurance replies with 161/9. Dushan Vimukti 4/32, Dushan Hemantha 3/50. Vijayakanth Vyaskant best bowler. Samindu Wijesinghe wins Series award."
+மிகத் திறமையாக 7ஆம் இலக்கத்தில் துடுப்பெடுத்தாடிய ரனேஷ் சில்வா 5 சிக்ஸ்கள், ஒரு பவுண்டறியுடன் 53 ஓட்டங்களைப் பெற்று அணியை வீழ்ச்சியிலிருந்து நல்ல நிலையில் இட்டார்.
 
-🟩
+அவரை விட மிலிந்த சிறிவர்தன 32 ஓட்டங்களையும் சங்கீத் குறே 28 ஓட்டங்களையும் பெற்றனர்.
 
-Meliban Biscuits won the 31st Singer -MCA Premier League 2024 knock out final by winning the 31st Singer - MCA (MCA) and winning the Champion Bowl by winning the Meliban Biscuits team by one wicket.
-
-Melipan Biscuits lost all wickets in 32.1 overs and scored 160 runs.
-
-Ranesh Silva scored a half -century for the Meliban Biscuits team, who lost 5 wickets at one point.
-
-Ranesh Silva, who scored a very effective number 7, scored 53 runs with a pound of 53 runs.
-
-Milinda Siriwardena scored 32 runs and Sangeet Kare 28.
-
-Samika Gunasekera took 4 wickets for 31 runs while Namesh Vimukti took 2 wickets for 32 runs.
-
-In reply, Piriverst was bowled out for 161 runs in 34 overs.
-
-Brairberst Insurance was stumbled at one point. However, Asela Sighera (29) and Anuk Fernando (22) rescued the team by sharing 49 runs in the 5th wicket.. Kaviru Senhas scored 23 runs than them.
-
-At another stage, the Barberst Insurance team lost 8 wickets and scored 143 runs again.
+பந்துவீச்சில் சாமிக்க குணசேகர 31 ஓட்டங்களுக்கு 4 விக்கெட்களையும் நிமேஷ் விமுக்தி 32 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
 
 ...
 
 [Data](articles/66e63c60.json)
-
-[Extended Data](ext_articles/66e63c60.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 02:02:22**
+As of **2024-12-13 01:43:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,841 (99.9%) of 59,878 articles have been extended.
+59,838 (99.9%) of 59,878 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1924,8 +1924,6 @@ Tourism and construction industries have also attracted investor interest amidst
 
 [Data](articles/301cd860.json)
 
-[Extended Data](ext_articles/301cd860.ext.json)
-
 ---
 
 ### Beginning of a program of contraception for monkeys
@@ -2075,8 +2073,6 @@ The session was conducted in collaboration with the Packaging Experts from the I
 ...
 
 [Data](articles/6d228674.json)
-
-[Extended Data](ext_articles/6d228674.ext.json)
 
 ---
 

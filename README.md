@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 20:43:10**
+As of **2024-12-12 21:02:28**
 
 ## Newspaper Stats
 
-*Scraped **59,844** Articles*
+*Scraped **59,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,689
-adaderanalk | 7,285
+adaderanalk | 7,286
 tamilmirrorlk | 8,557
 virakesarilk | 9,815
 adaderanasinhalalk | 10,348
@@ -26,43 +26,79 @@ adaderanasinhalalk | 10,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,795 (99.9%) of 59,844 articles have been extended.
+59,799 (99.9%) of 59,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணை
+### No -confidence motion against the Speaker
 
 *2024-12-12 20:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லா-பிரேரணை/175-348656) · `ta`
 
-சபாநாயகர் அசோக ரன்வலவுக்கு எதிராக நம்பிக்கையில்லா பிரேரணையைக் கொண்டு வர தீர்மானித்துள்ளதாக பொதுஜன பெரமுனவின் பொதுச் செயலாளர் சாகர காரியவசம் இன்று (12) தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-சபாநாயகர் கலாநிதி பட்டம் மற்றும் பல்வேறு பட்டங்களைப் பெற்றுள்ளதாகக் காட்டி மக்களை ஏமாற்றியுள்ளார்.
 
-எனவே சபாநாயகர் கல்வித் தகைமையைக் காட்டி மக்களை ஏமாற்றியிருந்தால் அவர் பதவி விலக வேண்டும்.
 
-இதற்கு முழு எதிர்க்கட்சியினரும், அரசாங்கத்தின் மனசாட்சியுள்ள உறுப்பினர்களும் ஆதரவளிப்பார்கள் என எதிர்பார்க்கிறோம் என சாகர காரியவசம் குறிப்பிட்டுள்ளார். R
+PA moves no-confidence motion against Speaker Ashoka Ranwala. Accuses him of deceiving public about fake degrees/titles. Demands his resignation. Calls for opposition & responsible gov't members to support the motion.
+
+🟩
+
+PA has decided to bring a no -confidence motion against Speaker Ashoka Ranwala, said Sakara Kariyawasam today (12).
+
+The Speaker has deceived the people by claiming that he has received various degrees and various titles.
+
+Therefore, if the Speaker has deceived the people by showing educational qualifications, he should resign.
+
+"We expect the entire opposition and the conscientious members of the government to support this," Sagara Kariyawasam said.. Remble
 
 ◼️
 
 [Data](articles/992c69fc.json)
 
+[Extended Data](ext_articles/992c69fc.ext.json)
+
 ---
 
-### அடுத்த 36 மணித்தியாலங்கள் குறித்து முக்கிய அறிவிப்பு
+### The main announcement on the next 36 hours
 
 *2024-12-12 20:28:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணித்தியாலங்கள்-குறித்து-முக்கிய-அறிவிப்பு/175-348655) · `ta`
 
-தென்மேற்கு வங்காள விரிகுடாவில் உருவாகியுள்ள குறைந்த காற்றழுத்த தாழ்வு மண்டலம் வலுவிழந்து வருவதால், அடுத்த 36 மணித்தியாலங்களுக்கு வடக்கு மற்றும் வடமத்திய மாகாணங்களில் அவ்வப்போது கனமழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Heavy rainfall/thundershowers expected in Northern & North Central Provinces next 36 hours due to weakened SW monsoon. Possible storms in other areas evening/night. Rain forecasted tomorrow morning.
 
-அத்துடன் ஏனைய பிரதேசங்களில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாகத் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மேல் மாகாணம், காலி மற்றும் மாத்தறை மாவட்டங்களில் சில இடங்களில் நாளை (13) காலை மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. R
+The Department of Meteorology has forecast heavy rainfall or thundershowers in the Northern and North Central Provinces for the next 36 hours due to the weakening of the low winds in the Southwest Bengal Bay.
+
+The department said that there is a possibility of rain or thunderstorms in the evening or night in other areas.
+
+The Department of Meteorology has forecast rainfall tomorrow morning (13). Remble
 
 ◼️
 
 [Data](articles/8764a3bf.json)
+
+[Extended Data](ext_articles/8764a3bf.ext.json)
+
+---
+
+### Queensland to impose adult prison sentences on children
+
+*2024-12-12 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104193/queensland-to-impose-adult-prison-sentences-on-children) · `en`
+
+The Australian state of Queensland has passed laws which will see children as young as 10 subject to the same penalties as adults if convicted of crimes such as murder, serious assault and break-ins.
+
+The government says the harsher sentencing rules are in response to “community outrage over crimes being perpetrated by young offenders” and will act as a deterrent.
+
+But many experts have pointed to research showing that tougher penalties do not reduce youth offending, and can in fact exacerbate it.
+
+The United Nations has also criticised the reforms, arguing they disregard conventions on the human rights of children and violate international law.
+
+The Liberal National Party (LNP) - which won the state election in October - made the rules a hallmark of its campaign, saying they put the “rights of victims” ahead of “the rights of criminals”.
+
+...
+
+[Data](articles/2031e26e.json)
 
 ---
 
@@ -600,37 +636,63 @@ The Chairman of the Ceylon Petroleum Corporation Janaka Rajakaruna was speaking 
 
 ---
 
-### இயக்குநர் சீனு ராமசாமி வெளியிட்ட 'அறிவான்' படத்தின் முதல் தோற்ற பார்வை
+### Director Seanu Ramaswamy's first appearance of 'Vidyan'
 
 *2024-12-12 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201090) · `ta`
 
-நடிகர் ஆனந்த் நாக் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'அறிவான் 'எனும் திரைப்படத்தின் முதல் தோற்றப் பார்வை வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of 200 characters:
 
-இதனை தேசிய விருது பெற்ற இயக்குநரான சீனு ராமசாமி , பிரபு சாலமன் , அல்போன்ஸ் புத்திரன் , நடிகர்கள் ஆரி அர்ஜுனன், வெற்றி , விக்ராந்த் , ஆகியோர் இணைந்து அவர்களுடைய இணைய பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்துள்ளனர்.
 
-இயக்குநர் அருண் பிரசாத் இயக்கத்தில் உருவாகி வரும் 'அறிவான் ' எனும் திரைப்படத்தில் ஆனந்த் நாக், ஜனனி, ' பொய்ஸ் ' ராஜன், பிர்லா போஸ், கௌரி சங்கர் , சரத் ராஜ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-யஸ்வந்த் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கார்த்திக் ராம் எரா இசையமைத்திருக்கிறார். குற்ற பின்னணியை விசாரிக்கும் புலனாய்வு வகைமையிலான இந்த திரைப்படத்தை எம் டி பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் துரை. மகாதேவன் தயாரித்திருக்கிறார்.
+"Seanu Ramaswamy directs Vidyan; Anand Knag stars as hero. National award winners congratulate crew. Supporting cast includes Janani, Pois Rajan. Karthik Ram Era composes, Yaswant records. MT Pictures produces. Post-production underway; first look released, increasing expectations."
 
-...
+🟩
+
+Actor Anand Knag has been released in the first appearance of the film 'Vidyavan' which plays the role of the hero of the story.
+
+National award -winning director Seanu Ramaswamy, Prabhu Solomon, Alphonse Putran, actors Ari Arjunan, Victory and Vikrant have posted on their web page and congratulated the film crew.
+
+Anand Nak, Janani, 'Pois' Rajan, Birla Bose, Gauri Shankar, Sarath Raj are many others in the upcoming film 'Vidyavan' directed by director Arun Prasad.
+
+Karthik Ram Era has composed the film, which has been recorded by Yaswant. The film, which is investigating the criminal background, is the producer of the film on behalf of MT Pictures Company.. Produced by Mahadevan.
+
+The shooting of the film is completely completed and the post -shooting technical work is underway.. In this case, the first look of the film has been released. The hero of the story is a police officer and as intelligence, as the first look is designed.. The expectation of the film has increased.
+
+◼️
 
 [Data](articles/89dec94b.json)
 
+[Extended Data](ext_articles/89dec94b.ext.json)
+
 ---
 
-### தனுஷ் இயக்கும் ' நிலவுக்கு என் மேல் என்னடி கோபம் ' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### Dhanush directed 'Moothu'
 
 *2024-12-12 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201093) · `ta`
 
-புதுமுக நடிகர் பவிஷ் கதையின் நாயகனாக அறிமுகமாகும் ' நிலவுக்கு என் மேல் என்னடி கோபம் ' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
 
-நடிகரும், இயக்குநருமான தனுஷ் இயக்கத்தில் உருவாகி வரும் ' நிலவுக்கு என் மேல் என்னடி கோபம் ' எனும் திரைப்படத்தில் பவிஷ் , அனிகா சுரேந்திரன் , பிரியா பிரகாஷ் வாரியர்,  மேத்யூ வர்கீஸ்  , சதீஷ் , அன்பு தாசன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். இவர்களுடன் முன்னணி நட்சத்திர நடிகை பிரியங்கா அருள் மோகன் ஒரே ஒரு பாடலுக்கு நடனமாடி இருக்கிறார். அத்துடன் நடிகரும், இயக்குநருமான தனுஷ் ஒரேயொரு பாடலுக்கு சிறப்பு தோற்றத்தில் நடித்திருக்கிறார்.
 
-லியோன் பிரிட்டோ ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி. பிரகாஷ் குமார் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை வுண்டர்பார் பிலிம்ஸ் மற்றும் ஆர் கே புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
 
-...
+Dhanush directs 'Moothu'. 'Moon' releases Feb 7th. 'Nilakku...' stars Dhanush, Pavish, Anika Surendran. Music by V. Prakash Kumar. Co-produced by Wunderbar Films and RK Productions. 'Golden Sparrow' song released online.
+
+🟩
+
+The release date of the film 'Moon' is the release date of the film 'Moon'.
+
+Actor and director Dhanush starred in the upcoming film 'Nilakku Namku Namadi Namadi', Pavish, Anika Surendran, Priya Prakash Warrior, Mathew Varghese, Satish, Anbu Dasan and many others.. Priyanka Arul Mohan is dancing to one song with them. Actor and director Dhanush has played a special appearance for one song.
+
+Lion Brito's cinematography. V.. Prakash Kumar has composed the music. The film is co -produced by Wunderbar Films and RK Productions.
+
+The song 'Golden Sparrow' featured in the film has been released on the Internet and is set to achieve a hundred million viewers.. In this case, the release date of the film has been officially announced. The film will be released on the seventh of February next year to celebrate Valentine's Day.
+
+Meanwhile, actor Pavish is the son of actor and director Dhanush's sister.
+
+◼️
 
 [Data](articles/d381ef4b.json)
+
+[Extended Data](ext_articles/d381ef4b.ext.json)
 
 ---
 
@@ -2415,27 +2477,5 @@ Kokilawani and Mr.. Sasikumar was staying at the Mandapam camp and Shekhar came 
 ◼️
 
 [Data](articles/b3196601.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-12 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104176/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the low-pressure area over the southwest Bay of Bengal is very likely to continue to move west-northwestwards slowly, towards the Tamil Nadu coast close to Northern Sri Lanka during the next 24 hours.
-
-Showers or thundershowers will occur at times in Northern, North-central, Eastern, North-western and Western provinces. Fairly heavy showers about 75mm are likely at some places in Northern province.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night, the Met. Department added.
-
-Misty conditions can be expected in Central, Sabaragamuwa, Southern, and Uva provinces during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/92bc3875.json)
-
-[Extended Data](ext_articles/92bc3875.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 04:01:32**
+As of **2024-12-13 03:03:05**
 
 ## Newspaper Stats
 
-*Scraped **59,887** Articles*
+*Scraped **59,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
 economynextcom | 3,648
-dailyftlk | 4,135
+dailyftlk | 4,134
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
-tamilmirrorlk | 8,559
+tamilmirrorlk | 8,558
 virakesarilk | 9,828
 adaderanasinhalalk | 10,353
 
@@ -26,45 +26,11 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,852 (99.9%) of 59,887 articles have been extended.
+59,847 (99.9%) of 59,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
-
-### ’நிதிக் கட்டமைப்பை பலப்படுத்தவேண்டும்’
-
-*2024-12-13 03:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதிக்-கட்டமைப்பை-பலப்படுத்தவேண்டும்/175-348672) · `ta`
-
-நாட்டின் நிதிக் கட்டமைப்பை பலப்படுத்தி, செயல்திறன் மிக்கதாக மாற்றத் தேவையான நடவடிக்கைகளை எடுக்குமாறு நிதி அமைச்சின் அதிகாரிகளுக்கு ஜனாதிபதி அநுர குமார திசாநாயக்க அறிவுறுத்தல் விடுத்தார்.
-
-நிதி அமைச்சின் அதிகாரிகளுடன் ஜனாதிபதி அலுவலகத்தில் நேற்று  வியாழக்கிழமை (12) நடைபெற்ற சந்திப்பிலேயே ஜனாதிபதி அநுர குமார திசாநாயக்க இவ்வாறு அறிவுறுத்தினார்.
-
-நாட்டின் நிதி நிலைமையை ஸ்திரப்படுத்த, சுயாதீன நிறுவனம் என்ற வகையில் மத்திய வங்கியினால் மேற்கொள்ளக்கூடிய அனைத்து நடவடிக்கைகளையும் முன்னெடுக்குமாறும், அதற்கான ஒத்துழைப்பு மற்றும் வசதிகளை அரசாங்கம் வழங்கும் என்றும் ஜனாதிபதி தெரிவித்தார்.
-
-இலங்கையின் நிதிச் செயற்பாடுகளை செயற்றிறன் மிக்கதாக்குவதற்கு நல்லதொரு பொறிமுறையை உருவாக்க நடவடிக்கை எடுக்குமாறும் ஜனாதிபதி அதிகாரிகளுக்கு அறிவுறுத்தினார்.
-
-பொருளாதாரம் மற்றும் நிதிக் கட்டமைப்புக்களின் முழுமையான முன்னேற்றங்களை நெருக்கமாக ஆராய்ந்த பின்னர், மத்திய வங்கியினால் நிதி ஸ்திரமாக்கல் மற்றும் நிதிக் கட்டமைப்பின் ஈடுகொடுக்கும் தன்மையை உறுதிப்படுத்துவதற்கான கொள்கைகள் தொடர்பில் இதன்போது கவனம் செலுத்தப்பட்டது.  (a)
-
-◼️
-
-[Data](articles/e134fd88.json)
-
----
-
-### Celebrating Top10 Champions of Diversity 2024
-
-*2024-12-13 02:57:58* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-Top10-Champions-of-Diversity-2024/34-770460) · `en`
-
-From left: Printcare Ceylon Ltd. and Rotary International CEO and Director K.R. Ravindran, Hemas Group Director Murtaza Esufally (who won the award along with Chairman Husein Esufally), John Keells Group President – Retail Sector and Jaykay Marketing Services Ltd. CEO Charitha Subasinghe, Sri Lanka South Asia Gateway, Terminals Chief Commercial Officer Ted Muttiah, Virtusa Corporation Global Head of Sustainability and Facilities and Virtusa Sri Lanka Joint Country Head Denver De Zylva, Hilton Sri Lanka Area General Manager Manesh Fernando, Daily FT Founding Editor and Chief Executive Nisthar Cassim, Hayleys PLC Executive Chairman Mohan Pandithage (accepted by Hayleys PLC Head of Group ESG Prashani Illangasekera), Horana Plantations PLC Director/CEO Johann A. Rodrigo, Commercial Bank PLC Managing Director/CEO Sanath Manatunge, Actor and Presenter (Top50 DEI Award Recipient) Danu Innasithamby, and Diesel and Motor Engineering Group Managing Director and CEO Gahanath Pandithage
-
-...
-
-[Data](articles/97c134b9.json)
-
-[Extended Data](ext_articles/97c134b9.ext.json)
-
----
 
 ### Asia Foundation honours success of women in entrepreneurship
 
@@ -77,8 +43,6 @@ Themed ‘Improving the Economic Wellbeing of Vulnerable and Marginalised Women,
 ...
 
 [Data](articles/6c4df1ae.json)
-
-[Extended Data](ext_articles/6c4df1ae.ext.json)
 
 ---
 
@@ -97,8 +61,6 @@ The session was conducted in collaboration with packaging experts from the indus
 ...
 
 [Data](articles/e48ade6d.json)
-
-[Extended Data](ext_articles/e48ade6d.ext.json)
 
 ---
 
@@ -134,29 +96,21 @@ The conference aims to facilitate dialogue between Government representatives, f
 
 ---
 
-### Investment, the US Peace Corps representing strengthening relations with Sri Lanka
+### முதலீடு, இலங்கையுடனான உறவுகளை வலுப்படுத்துவதை பிரதிநிதித்துவப்படுத்தும் அமெரிக்க அமைதிப்படை
 
 *2024-12-13 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201123) · `ta`
 
-US Peace Corps strengthens ties with Sri Lanka through education and cultural exchange. 19 volunteers sworn in, trained in local languages and culture, to teach English in rural schools for two years.
+கடந்த வருடம் இடம்பெற்ற அமைதிப்படை நிகழ்ச்சித்திட்டத்தின் வரலாற்று ரீதியான மீள்தொடக்கத்தின் பின்னர் இலங்கைக்கு வருகை தந்த தன்னார்வலர்களின் இரண்டாவது குழுவைச் சேர்ந்த 19 அமெரிக்க அமைதிப்படை தன்னார்வலர்கள் வியாழக்கிழமை (12) கொழும்பில் பதவிப்பிரமாணம் செய்து வைக்கப்பட்டனர்.
 
-🟩
+ஆழமடையும் அமெரிக்க இலங்கை பங்காண்மை மற்றும் கல்வி மற்றும் கலாச்சார பரிமாற்றம் தொடர்பான பகிரப்பட்ட அர்ப்பணிப்பு ஆகியவற்றை இந்நிகழ்வு அடிக்கோடிட்டுக்காட்டுகிறது.
 
-19 US Peace Corps Volunteers were sworn in in Colombo on Thursday (12) from the second group of volunteers who arrived in Sri Lanka after the historical rebuilding of last year's Peace Corps Program.
+கடந்த செப்டெம்பர் மாதம் இலங்கைக்கு வருகை தந்த இத்தன்னார்வலர்களின் குழுவானது சிங்களம் அல்லது தமிழ், இலங்கையின் கலாச்சாரம் மற்றும் கற்பித்தல் முறைகள் ஆகியவிடயங்கள் தொடர்பாக இடம்பெற்ற 12 வாரகால தீவிர பயிற்சியினை நிறைவுசெய்துள்ளது.
 
-The event underlines the deepest US Sri Lanka's partnership and shared commitment on education and cultural exchange.
-
-The group of people who visited Sri Lanka last September has completed a 12 -week intensive training on Sinhala or Tamil, Sri Lanka's culture and teaching methods.
-
-They will work as English language teachers in schools in the Central and Uva provinces for the next two years to improve English education in rural schools, along with Sri Lankan teachers and school principals.
-
-Nimali Baduraliya, Director of the Department of English and Foreign Languages, who highlighted the importance of the event, improves English language education to create opportunities for all Sri Lankans.
+இலங்கை ஆசிரியர்கள் மற்றும் பாடசாலை அதிபர்களுடன் இணைந்து கிராமியப் பாடசாலைகளில் ஆங்கிலக் கல்வியினை மேம்படுத்துவதற்காக அவர்கள் எதிர் வரும் இரண்டு வருடங்களுக்கு மத்திய மற்றும் ஊவா மாகாணங்களிலுள்ள பாடசாலைகளில் ஆங்கில மொழி ஆசிரியர்களாகப் பணியாற்றுவர்.
 
 ...
 
 [Data](articles/015f2cbd.json)
-
-[Extended Data](ext_articles/015f2cbd.ext.json)
 
 ---
 
@@ -171,8 +125,6 @@ Following is the full speech delivered by President Anura Kumara Dissanayake at 
 ...
 
 [Data](articles/08b8d6fc.json)
-
-[Extended Data](ext_articles/08b8d6fc.ext.json)
 
 ---
 
@@ -2499,5 +2451,63 @@ In this case, the father and the person were cutting down the jack tree, the pol
 [Data](articles/b91c8276.json)
 
 [Extended Data](ext_articles/b91c8276.ext.json)
+
+---
+
+### The flu flu is a flu flu
+
+*2024-12-12 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204300) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rat fever outbreak: 7 deaths at Jaffna hospital confirmed. Ministry of Health tests positive. Investigations ongoing.
+
+🟩
+
+The rat fever has been confirmed that seven persons die at the Jaffna hospital.
+
+The Ministry of Health states that the samples of the samples confirmed this.
+
+Seven persons were killed in the number of patients who were admitted to the Jaffna Teaching Hospital for several days due to fever and breathing difficulties.
+
+Community Medical Specialist Dr. Thumbarara, Community Media Science Unit, Speaking further
+
+"The samples of the seven patients have been convened to the Ceylon Hospital and the samples of several patients and the samples of several patients.. Other research being carried out. In the meantime, investigations are conducting investigations into the incident. "
+
+◼️
+
+[Data](articles/7de82208.json)
+
+[Extended Data](ext_articles/7de82208.ext.json)
+
+---
+
+### 47,000 tourists cast in December
+
+*2024-12-12 12:03:56* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මේ-දක්වා-සංචාරකයන්-47000ක්-ඇවත්/11-413601) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+47,000 tourists arrived in December. 47,175 visitors from Dec 1-8. Sri Lanka aims for 2 million tourists this year. Approximately 48,000 tourists expected in 22 days.
+
+🟩
+
+47175 tourists have arrived in December 1 to 8 in December.
+
+July 1, January and December 8, Sri Lanka has arrived in Sri Lanka from 1st 852 tourists.
+
+It is planned to call for two million tourists to Sri Lanka in this year.
+
+Accordingly, nearly 48,000 tourists should be called to Sri Lanka within 22 such days.
+
+◼️
+
+[Data](articles/72ea39f9.json)
+
+[Extended Data](ext_articles/72ea39f9.ext.json)
 
 ---

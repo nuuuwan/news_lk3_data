@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 05:51:34**
+As of **2024-12-12 06:48:20**
 
 ## Newspaper Stats
 
-*Scraped **59,713** Articles*
+*Scraped **59,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 606
 bbccomsinhala | 623
 islandlk | 3,608
 economynextcom | 3,633
-dailyftlk | 4,121
+dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
-tamilmirrorlk | 8,520
+tamilmirrorlk | 8,521
 virakesarilk | 9,797
 adaderanasinhalalk | 10,321
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,695 (100.0%) of 59,713 articles have been extended.
+59,696 (100.0%) of 59,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### European Chamber of Commerce Sri Lanka holds AGM; appoints John Wilson as President
+
+*2024-12-12 06:20:46* · [`dailyftlk`](https://www.ft.lk/business/European-Chamber-of-Commerce-Sri-Lanka-holds-AGM-appoints-John-Wilson-as-President/34-770427) · `en`
+
+The European Chamber of Commerce of Sri Lanka (ECCSL) recently concluded its Annual General Meeting (AGM), marking a significant milestone in the Chamber’s journey as it enters a new chapter of growth and strategic development.
+
+During the meeting, John Wilson was appointed as the new President, with Mario Stubbs named Vice President, ushering in a fresh leadership team to guide the Chamber’s efforts to support European businesses in Sri Lanka and foster stronger trade and investment relations between Europe and Sri Lanka.
+
+In his address, newly-appointed President Wilson expressed his gratitude for the trust and support shown by the Chamber’s members. He acknowledged the challenges of the past but emphasised that the Chamber is now entering a period of growth, with increased momentum and a strategic focus on serving its members more effectively.
+
+...
+
+[Data](articles/dfc2cf14.json)
+
+---
+
+### KOICA partners  Sri Lanka to improve solid waste management and circular economy
+
+*2024-12-12 06:18:22* · [`dailyftlk`](https://www.ft.lk/business/KOICA-partners-Sri-Lanka-to-improve-solid-waste-management-and-circular-economy/34-770426) · `en`
+
+In a significant move to advance environmental sustainability, the Government of Sri Lanka and the Korea International Cooperation Agency (KOICA) formalised their partnership today with the signing of the “Developing Sustainable Integrated Solid Waste Management Project in Uva and Northern Provinces” in Sri Lanka.
+
+The event, held at the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government (MoPCLG), was graced by the presence of KOICA Sri Lanka Office Country Director Kim Myung Jin, MoPCLG Secretary Alokabandara, Department of External Resources Director General Samantha Bandara, other dignitaries, and representatives from Government institutions.
+
+...
+
+[Data](articles/4fb97776.json)
+
+---
+
+### IFC, Women in Management,  Diversity Collective Lanka foster  respectful workplaces across SMEs
+
+*2024-12-12 06:17:25* · [`dailyftlk`](https://www.ft.lk/business/IFC-Women-in-Management-Diversity-Collective-Lanka-foster-respectful-workplaces-across-SMEs/34-770425) · `en`
+
+A new partnership between the International Finance Corporation (IFC), Women in Management (WIM), and Diversity Collective Lanka (DCLK) aims to empower small and medium-sized enterprises (SMEs) in Sri Lanka with the tools and knowledge needed to create safer, more respectful work environments.
+
+A first-of-its-kind partnership, this program will empower WIM and DCLK Respectful Workplace practitioners to train SMEs in cultivating environments of respect and dignity, with a strong focus on combatting gender-based violence and harassment (GBVH). The tailored program covers areas such as safe reporting mechanisms, prevention-focused education, and organisational accountability.
+
+...
+
+[Data](articles/909cb58a.json)
+
+---
+
+### AKD-NPP’s March of Folly: Deeper into the debt labyrinth
+
+*2024-12-12 05:58:51* · [`dailyftlk`](https://www.ft.lk/columns/AKD-NPP-s-March-of-Folly-Deeper-into-the-debt-labyrinth/4-770416) · `en`
+
+However formidable, even brilliant, a leader and protagonist in the national political arena President Anura Kumara Dissanayake is, dialectics in general and the dialectics of the debt deal in particular, will undermine and undo AKD-NPP rule. A contradiction lies embedded at the very heart of the Government between the NPP’s progressive political sociology—its generational and gender configuration—and its regressive political economy. AKD and the NPP’s economic decisions; their choice of economic strategy and model; their economic turn, will erode and disintegrate the NPP social bloc and vote-base—and cannot but do so. Anura is determined, but the economy is the determinant.
+
+...
+
+[Data](articles/b0e38fdb.json)
+
+[Extended Data](ext_articles/b0e38fdb.ext.json)
+
+---
+
+### Boys and girls: Dilemma in international sports
+
+*2024-12-12 05:53:33* · [`dailyftlk`](https://www.ft.lk/columns/Boys-and-girls-Dilemma-in-international-sports/4-770415) · `en`
+
+In sports, underperforming men are not accused of being feminine – it is the over performing females who capture the limelight
+
+The binary division of boys and girls is similar to black and white to most of us. However, the controversy at the 2024 Olympics in Paris, in the boxing category for women, has raised questions regarding the sex of the Algerian boxer Imane Khelif and the Taiwanese boxer Lin Yu-ting. The controversy flared up when Imane Khelif competed against the Italian boxer, Angela Carini, who quit the fight after just 46 seconds saying that she had never been hit so hard in her boxing career.
+
+...
+
+[Data](articles/3540d827.json)
+
+---
+
+### Priyan Edirisinghe appointed to Cargills (Ceylon) Board
+
+*2024-12-12 05:48:09* · [`dailyftlk`](https://www.ft.lk/business/Priyan-Edirisinghe-appointed-to-Cargills-Ceylon-Board/34-770413) · `en`
+
+Priyan Edirisinghe has been appointed to the Board of Cargills (Ceylon) PLC as a Non-Executive Independent Director.
+
+Edirisinghe is a Chartered Accountant with over 20 years of experience in private sector and in the professional practice. He is presently Managing Partner of Baker Tilly Edirisinghe and Co., Chartered Accountants, one of the top ten audit, tax and consulting firms in Sri Lanka. He is a fellow member of The Institute of Chartered Accountants of Sri Lanka (FCA), and an Associate Member of the Chartered Institute of Marketing UK (ACIM). He also holds an MBA from the University of Southern Queensland, Australia.
+
+...
+
+[Data](articles/27791c87.json)
+
+---
 
 ### Anomi Wanigasekera appointed to Dipped Products Board
 
@@ -207,6 +293,20 @@ The award will be granted by Thailand Prime Minister Paetongtarn Shinawatra and 
 ...
 
 [Data](articles/4593eb52.json)
+
+---
+
+### அஸ்வெசும பயனாளிகளுக்கு இன்று கொடுப்பனவு
+
+*2024-12-12 02:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளுக்கு-இன்று-கொடுப்பனவு/175-348599) · `ta`
+
+அஸ்வெசும பயனாளிகளின் வங்கிக் கணக்குகளில் டிசம்பர் மாதத்துக்கான கொடுப்பனவு தொகையை இன்று வரவு வைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+இதன்படி நாளை (13) முதல் அஸ்வெசும பயனாளிகள் தங்களது வங்கிக் கணக்குகளிலிருந்து கொடுப்பனவு தொகையைப் பெற்றுக்கொள்ள முடியும் எனத் தெரிவிக்கப்பட்டுள்ளது  (a)
+
+◼️
+
+[Data](articles/fe95691d.json)
 
 ---
 
@@ -2253,187 +2353,5 @@ President's Counsel Ali Sabri appearing on behalf of the petitioner, this was a 
 [Data](articles/3f55eb36.json)
 
 [Extended Data](ext_articles/3f55eb36.ext.json)
-
----
-
-### Lanka T10 tournament is open today
-
-*2024-12-11 13:44:27* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-තරගාවලිය-අදින්-ඇර​​​​ඹේ---අද-දිනයේ-තරග-තුනක්/9-413578) · `si`
-
-Lanka T10: SLC's inaugural tournament begins today. Hambantota Bangla Tigers face off at 4pm. Nuwara Eliya Kings vs Colombo Jaguers at undisclosed time. Opening ceremony starts at 2:45pm.
-
-🟩
-
-Sri Lanka Cricket (SLC) is the first time Lanka T10 tournament.
-
-Accordingly, the first match is the first match and the Hambantota Bangla Taigers are scheduled to contest at 4 pm.
-
-The second match will be held at the Nuwara Eliya Kings and Colombo Jaguers, between the Colombo Kings and Colombo Junners.
-
-The opening ceremony of the Lanka T10 is scheduled to commence at 2.45 pm today.
-
-◼️
-
-[Data](articles/f50d5296.json)
-
-[Extended Data](ext_articles/f50d5296.ext.json)
-
----
-
-### It is important to unite the masses without race religion - July Chang
-
-*2024-12-11 13:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204266) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-US Ambassador July Chang emphasizes unity without race or religion in Sri Lanka. He promotes English as a unifying language and highlights a youth forum connecting South Asian countries.
-
-🟩
-
-In Sri Lanka, US Ambassador to America Chang, July Chang, said that it is important to unite the masses without race.
-
-A ceremony was held at Kandy yesterday (10) at the Kandy Municipal Council of the Kandy Municipal Council.
-
-The chief guest was the US Ambassador to Sri Lanka, July Chang.
-
-"We heard New President Anura Kumara Dissanayake talking about unity. Your president said there was no room for racism or extremism in this country. A matter of all your disparities and diversity should celebrate. And all of them become one peaceful.
-
-I am proud to be able to have the ability to 'American Corner' to join the vision by adding communities. It is not important that your background, language, religion, economic level, you a woman and a man or who. What is important is to unite the masses. In 2019, we were conducted the first Youth Forum representing the Youth Text throughout Sri Lanka.. English language has become the media that connects each other.
-
-...
-
-[Data](articles/71890501.json)
-
-[Extended Data](ext_articles/71890501.ext.json)
-
----
-
-### Gem arrest
-
-*2024-12-11 13:26:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரத்தினக்கல்-அகழ்ந்த-அறுவர்-கைது/76-348581) · `ta`
-
-Gem arrest: 6 suspects caught illegally mining gems in Hatton's Dikoya Canal. Equipment seized. Suspects aged 25-40 from Ratnapura, Kahawatte, Balangoda, Hatton, Tikoya. To be presented to Hatton Magistrate's Court.
-
-🟩
-
-Officials of the Hatton Police Anti -Corruption Unit have arrested six suspects who illegally excavated gems without permission.
-
-Hatton has been arrested in the Dikoya Canal, which flows from Hatton to Casalry Reservoir. They have also seized some of the equipment used for excavation.
-
-Hatton police have arrested the suspects after receiving information that some people were illegally excavated in the Tikoya Canal behind the Dikoya-Vanaraja Tea Factory.
-
-Officials said that the suspects were between the ages of 25-40, from the age of 25-40 in Ratnapura, Kahawatte, Balangoda, Hatton and Tikoya and the arrested suspects would be presented to the Hatton Magistrate's Court.
-
-◼️
-
-[Data](articles/766d7415.json)
-
-[Extended Data](ext_articles/766d7415.ext.json)
-
----
-
-### Tensions within NDF over National List MP appointment
-
-*2024-12-11 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104163/tensions-within-ndf-over-national-list-mp-appointment-) · `en`
-
-Another dispute has emerged within the New Democratic Front (NDF) concerning the nomination of Faiszer Musthapha for a National List MP position with the coalition partners alleging that this decision has been made without consulting them.
-
-When inquired by Ada Derana, former Parliamentarian Ramesh Pathirana stated that there was unanimous agreement to appoint former Minister Kanchana Wijesekera to the remaining National List MP position.
-
-However, the Sri Lanka Freedom Party (SLFP), a key partner in the NDF, had proposed Faiszer Musthapha’s name for the position.
-
-The NDF, which contested under the ‘gas cylinder’ symbol in the 2024 general elections, secured two National List seats.
-
-The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, also under somewhat controversial circumstances.
-
-...
-
-[Data](articles/d087f479.json)
-
-[Extended Data](ext_articles/d087f479.ext.json)
-
----
-
-### In Syria's Azad's dungeon ...!- Sources of torture and unprecedented cruelty - NBC
-
-*2024-12-11 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200982) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Syria's Sidenaya Prison: Torture, human rights violations under Assad regime. Public searches for loved ones amid rumors of secret detention. Evidence of cruel practices found, including iron crushing devices and metal poles used for torture.
-
-🟩
-
-In the suburbs of the Syrian capital - the information about the atrocities of the Assad government was confused amid the hopes of the country to free the country from the clutches of the long -term dictator.
-
-They were going to the prison to know if there were signs that their loved ones were still alive as they had disappeared at an invisible depth.
-
-The prison, which is known for its human rights violations, is found in the barren lands.
-
-The Sidenaya Prison is a dungeon of Syrian Konkirid buildings named the human being.
-
-When the NBC went there on Tuesday, the most barbaric environment in the prison was seen as the traces of the people who were looking for their loved ones.
-
-During the 50 -year reign of Assad, armed forces protected prisons such as Sidenaya, confirming that those who went inside did not come out.
-
-Human rights organizations say that the prison was used to prevent the public and torture thousands of Syrian people.
-
-Sitnaya's mouth is overflowing with hundreds of cars.
-
-...
-
-[Data](articles/628d3eac.json)
-
-[Extended Data](ext_articles/628d3eac.ext.json)
-
----
-
-### A warning to fishermen in several areas
-
-*2024-12-11 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204265) · `si`
-
-Warning: Fishermen avoid areas from Puttalam to Mullaitivu, Mannar, Kankasanthurai due to low pressure system. Rough seas expected, heavy rainfall possible in Northern, Eastern, North-Central, and North-Western provinces.
-
-🟩
-
-The Department of Meteorology demands the fishermen in the area from Puttalam to Mullaitivu to Mannar and Kankasanthurai.
-
-In a statement, the department said that the low pressure zone of the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Sri Lanka is most likely to reach the Thamilnadu coast.
-
-Tens of 30 to 40 km from the sea areas off the sea areas off the Trincomalee Kankesanthurai and Mannar..
-
-Meanwhile, the prompt increase in the sea from Trincomalee via Kankesanthurai can also increase to 50-kilometers per hour.
-
-Therefore, the Met Department (Met Department) said that the sea areas from Puttalam to Mullaittivu to Mullaittivu from Puttalam to Mannar and Kankasanthurai.
-
-As a result, the sea areas can be temporarily rough and due to the impact of this system, and the Northern Province, the North Central, Eastern and North Western provinces.. Heavy showers that have more than 100 can occur.
-
-◼️
-
-[Data](articles/7008bc56.json)
-
-[Extended Data](ext_articles/7008bc56.ext.json)
-
----
-
-### ADB approves US$30mn loan for Sri Lanka renewable energy
-
-*2024-12-11 13:11:00* · [`economynextcom`](https://economynext.com/adb-approves-us30mn-loan-for-sri-lanka-renewable-energy-193499/) · `en`
-
-ECONOMYNEXT – The Asian Development Bank has approved a 30 million dollar small expenditure financing facility (SEFF) for the Ceylon Electricity Board to support the sustainability of ongoing and future energy sector projects.
-
-“This is Sri Lanka’s first SEFF, designed to support the operational sustainability of ADB-financed energy projects, promote initiatives to increase the share of renewable energy, and encourage private sector participation in the renewable energy sector, particularly in the context of the country’s economic challenges,” ADB Country Director for Sri Lanka Takafumi Kadono said.
-
-The facility will finance post-completion activities of ADB-financed projects, feasibility studies for advanced renewable energy technologies, preparatory work for transmission and distribution upgrades, and capacity building in emerging technologies.
-
-...
-
-[Data](articles/e5bf2d0d.json)
-
-[Extended Data](ext_articles/e5bf2d0d.ext.json)
 
 ---

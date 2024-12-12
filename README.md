@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 03:12:56**
+As of **2024-12-13 03:03:05**
 
 ## Newspaper Stats
 
-*Scraped **59,886** Articles*
+*Scraped **59,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
 economynextcom | 3,648
-dailyftlk | 4,135
+dailyftlk | 4,134
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
@@ -26,23 +26,11 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,848 (99.9%) of 59,886 articles have been extended.
+59,847 (99.9%) of 59,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
-
-### Celebrating Top10 Champions of Diversity 2024
-
-*2024-12-13 02:57:58* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-Top10-Champions-of-Diversity-2024/34-770460) · `en`
-
-From left: Printcare Ceylon Ltd. and Rotary International CEO and Director K.R. Ravindran, Hemas Group Director Murtaza Esufally (who won the award along with Chairman Husein Esufally), John Keells Group President – Retail Sector and Jaykay Marketing Services Ltd. CEO Charitha Subasinghe, Sri Lanka South Asia Gateway, Terminals Chief Commercial Officer Ted Muttiah, Virtusa Corporation Global Head of Sustainability and Facilities and Virtusa Sri Lanka Joint Country Head Denver De Zylva, Hilton Sri Lanka Area General Manager Manesh Fernando, Daily FT Founding Editor and Chief Executive Nisthar Cassim, Hayleys PLC Executive Chairman Mohan Pandithage (accepted by Hayleys PLC Head of Group ESG Prashani Illangasekera), Horana Plantations PLC Director/CEO Johann A. Rodrigo, Commercial Bank PLC Managing Director/CEO Sanath Manatunge, Actor and Presenter (Top50 DEI Award Recipient) Danu Innasithamby, and Diesel and Motor Engineering Group Managing Director and CEO Gahanath Pandithage
-
-...
-
-[Data](articles/97c134b9.json)
-
----
 
 ### Asia Foundation honours success of women in entrepreneurship
 
@@ -55,8 +43,6 @@ Themed ‘Improving the Economic Wellbeing of Vulnerable and Marginalised Women,
 ...
 
 [Data](articles/6c4df1ae.json)
-
-[Extended Data](ext_articles/6c4df1ae.ext.json)
 
 ---
 
@@ -2495,5 +2481,33 @@ Community Medical Specialist Dr. Thumbarara, Community Media Science Unit, Speak
 [Data](articles/7de82208.json)
 
 [Extended Data](ext_articles/7de82208.ext.json)
+
+---
+
+### 47,000 tourists cast in December
+
+*2024-12-12 12:03:56* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මේ-දක්වා-සංචාරකයන්-47000ක්-ඇවත්/11-413601) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+47,000 tourists arrived in December. 47,175 visitors from Dec 1-8. Sri Lanka aims for 2 million tourists this year. Approximately 48,000 tourists expected in 22 days.
+
+🟩
+
+47175 tourists have arrived in December 1 to 8 in December.
+
+July 1, January and December 8, Sri Lanka has arrived in Sri Lanka from 1st 852 tourists.
+
+It is planned to call for two million tourists to Sri Lanka in this year.
+
+Accordingly, nearly 48,000 tourists should be called to Sri Lanka within 22 such days.
+
+◼️
+
+[Data](articles/72ea39f9.json)
+
+[Extended Data](ext_articles/72ea39f9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 06:48:20**
+As of **2024-12-12 07:31:39**
 
 ## Newspaper Stats
 
-*Scraped **59,720** Articles*
+*Scraped **59,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
-tamilmirrorlk | 8,521
+tamilmirrorlk | 8,522
 virakesarilk | 9,797
 adaderanasinhalalk | 10,321
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,696 (100.0%) of 59,720 articles have been extended.
+59,697 (100.0%) of 59,721 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ In his address, newly-appointed President Wilson expressed his gratitude for the
 ...
 
 [Data](articles/dfc2cf14.json)
+
+[Extended Data](ext_articles/dfc2cf14.ext.json)
 
 ---
 
@@ -293,6 +295,22 @@ The award will be granted by Thailand Prime Minister Paetongtarn Shinawatra and 
 ...
 
 [Data](articles/4593eb52.json)
+
+---
+
+### ஜனாதிபதி தலைமையில் செலவுத் தலைப்பு கலந்துரையாடல்
+
+*2024-12-12 02:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-செலவுத்-தலைப்பு-கலந்துரையாடல்/175-348600) · `ta`
+
+2025 ஆம் ஆண்டுக்கான வரவு செலவு திட்டத்தை தயாரிப்பதற்கான அமைச்சரவை மட்டத்திலான ஆரம்ப கலந்துரையாடல்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் ஆரம்பிக்கப்பட்டுள்ளன.
+
+போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமானப் போக்குவரத்து அமைச்சின் செலவுத் தலைப்பின் கீழ் வரவு செலவு திட்ட பரிந்துரைகள் குறித்த கலந்துரையாடல் நேற்று  (11) ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சர் பிமல் ரத்நாயக்க, போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் பிரதி அமைச்சர் கலாநிதி பிரசன்ன குணசேன, துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் பிரதி அமைச்சர் ஜனித ருவன் கொடித்துவக்கு, ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, நிதி அமைச்சின் செயலாளர் நிதி மஹிந்த சிறிவர்தன, போக்குவரத்து, நெடுஞ்சாலைகள், துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் அமைச்சின் செயலாளர் சிரேஷ்ட பேராசிரியர் கபில சி. கே பெரேரா உள்ளிட்ட அதிகாரிகள் குழுவினர் இந்நிகழ்வில் கலந்துகொண்டனர். (a)
+
+◼️
+
+[Data](articles/d5c5d0bd.json)
 
 ---
 
@@ -2321,37 +2339,5 @@ Countries experience foreign exchange shortages when reserve collecting central 
 [Data](articles/bcf9841e.json)
 
 [Extended Data](ext_articles/bcf9841e.ext.json)
-
----
-
-### Orders to be called for Local Government Elections
-
-*2024-12-11 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204267) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Supreme Court orders local government elections. Attorney General informs Legal Draftsman to prepare election orders for 2024. Cabinet cancels nominations, accepts new ones. Petitioner seeks release of council results in all three languages. Election Commission informed about the orders.
-
-🟩
-
-The Attorney General also informed the Supreme Court today to ensure the Legal Draftsman (11th).
-
-The innroad was made by Deputy Solicitor General Nirmalan Vigneswaran, who appeared on behalf of the Attorney General to issue a fundamental rights petition asking for a local government election.
-
-The petition was called before the Supreme Court Judge Bench, Arjuna Obeysekere and Priyantha Fernando.
-
-The Deputy Solicitor General stated that the Cabinet of Ministers had informed the Legal Draft Departments to use the vocabulary regions of the year 2024 to be able to vote in the year 2024.
-
-He added that the Cabinet has instructed the Cabinet that the Cabinet has been instructed to cancel the nominations and accepts new nominations.
-
-President's Counsel Ali Sabri appearing on behalf of the petitioner, this was a very important lawsuit of the people, and asked to release the council in three languages ​​in all three languages.
-
-...
-
-[Data](articles/3f55eb36.json)
-
-[Extended Data](ext_articles/3f55eb36.ext.json)
 
 ---

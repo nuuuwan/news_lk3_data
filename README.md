@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 18:04:07**
+As of **2024-12-12 18:24:24**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 10,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,778 (99.9%) of 59,835 articles have been extended.
+59,780 (99.9%) of 59,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### කථානායකවරයාට එරෙහිව විශ්වාසභාංගයක් ගෙන ඒමට තීරණය වෙයි
+### Decision to bring a notion to the Speaker
 
 *2024-12-12 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204315) · `si`
 
-කථානායක අශෝක රංවල මහතාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට තීරණය කළ බව පොදුජන පෙරමුණ පවසයි.
+Here's a summary in 200 characters:
 
-අද (12) පැවැති මාධ්‍ය සාකච්ඡාවකට එක් වෙමින් එම පක්ෂයේ මහ ලේකම් නීතිඥ සාගර කාරියවම් මහතා මේ බව පැවසීය.
 
-කථානායකවරයා මුල් අවස්ථාවේදී ඔහුට ආචාර්ය උපාධියක් ඇති බවට සහ විවිධ උපාධි ඇති බවට පෙන්වා ජනතාව රවටා ඇති බවත් ඔහු පැවසීය.
 
-ඒ අනුව කථානායකවරයාට එරෙහි විශ්වාසභංගයක් සිය පාර්ලිමේන්තු කණ්ඩායම හරහා ඉදිරිපත් කිරීමට තීරණය කළ බවත් මේ සඳහා සමස්ත විපක්ෂය මෙන්ම හෘද සාක්ෂියට එකඟ ආණ්ඩුවේ පිරිස්ද  මේ සඳහා දායකත්වය ලබා දෙනු ඇතැයි තමන් අපේක්ෂා කරන බවද ඔහු මෙහිදී පැවසීය.
+UNP decides no-confidence motion against Speaker Ashoka Ranwala. Accuses him of deception over fake doctorate degrees. Opposition demands his removal, citing harm to national administration.
 
-"තමන් සම්බන්ධව වංචනිකව යම්කිසි අධ්‍යාපන සුදුසුකමක් ජනතාවට දැනුම්වත් කරලා තිබිලා එය වැරදි බවට හෙළි වෙලා තියෙනවා නම් කථානායකවරයා කළ යුත්තේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සහ රටේ සමස්ථ පරිපාලනයට ගරු කරමින් රටේ තුන්වැනි පුද්ගලයා වංචනිකයෙක් කියන නාමය දෙන්නේ නැතිව මේ තනතුරින් වහාම ඉවත් වීම. නමුත් අවාසනාවකට අපිට එහෙම දෙයක් පේන්නේ නැහැ. මේක සමස්ත රටටම ඉතාම හානිදායක තත්ත්වයක්."
+🟩
+
+The Ketha is decided to bring a no-confidence motion against Mr. Speaker Ashoka Ranwala.
+
+The General Secretary of the General Secretary of the UNP, the General Secretary of the UNP, said the General Secretary of the UNP.
+
+He said that the Speaker first deceived the people to have a doctorate and have shown many degrees.
+
+He said he expected to submit a no-confidenceability against the Speaker through the entire opposition and conscience.
+
+"If it has been revealed that it has been revealed to the people, the Speaker should do not give the name of the country with the name of the country and the third person in the country, respecting the title of the country and respecting the entire administration of the country.. But unfortunately we can't see that. This is a very harmful situation for the whole country. "
 
 ◼️
 
 [Data](articles/f6e51e48.json)
+
+[Extended Data](ext_articles/f6e51e48.ext.json)
 
 ---
 
@@ -67,6 +77,8 @@ He emphasized the importance of creating an effective mechanism to streamline ba
 ...
 
 [Data](articles/ff4af0e1.json)
+
+[Extended Data](ext_articles/ff4af0e1.ext.json)
 
 ---
 

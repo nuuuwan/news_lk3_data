@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 22:30:09**
+As of **2024-12-12 21:43:46**
 
 ## Newspaper Stats
 
-*Scraped **59,857** Articles*
+*Scraped **59,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 449
 colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
-economynextcom | 3,648
+economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,690
-adaderanalk | 7,287
+adaderanalk | 7,286
 tamilmirrorlk | 8,557
 virakesarilk | 9,815
 adaderanasinhalalk | 10,348
@@ -26,33 +26,11 @@ adaderanasinhalalk | 10,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,813 (99.9%) of 59,857 articles have been extended.
+59,806 (99.9%) of 59,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
-
-### Sri Lanka receives 55,000 MT of MOP fertilizer under World Food Programme
-
-*2024-12-12 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104194/sri-lanka-receives-55000-mt-of-mop-fertilizer-under-world-food-programme) · `en`
-
-A donation of 55,000 metric tonnes of Muriate of Potash (MOP) fertilizer, also known as ‘Bandi Pohora,’ has been handed over to the Government of Sri Lanka today (12) under the World Food Programme (WFP).
-
-The event was attended by ministers, including the Minister of Agriculture, K.D. Lalkantha, the Russian Ambassador to Sri Lanka, Levan S. Dzhagaryan, and other officials.
-
-The consignment of fertilizers, produced by Russia’s Uralchem Group, aim to support Sri Lanka’s agricultural sector.
-
-Based on the priority list prepared by the Department of Agrarian Development, around 30,000 metric tonnes of the donated fertilizer stock are to be distributed free of charge to farmers who have already commenced paddy cultivation.
-
-Furthermore, it has also been decided to allocate the remaining amount of fertilizer for coconut cultivation.
-
-◼️
-
-[Data](articles/42e2664e.json)
-
-[Extended Data](ext_articles/42e2664e.ext.json)
-
----
 
 ### No -confidence motion against the Speaker
 
@@ -178,31 +156,21 @@ Accordingly, he has decided to submit the no -confidence motion against the Spea
 
 ---
 
-### 30 lakhs of flowers to decorate Sri pattern
+### ශ්‍රී පාද පද්මය සැරසිමට මල් පෙති ලක්ෂ 30ක්
 
 *2024-12-12 18:03:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-පද්මය-සැරසිමට-මල්-පෙති-ලක්ෂ-30ක්/11-413609) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+2024-2025 ශ්‍රි පාද වන්දනා වාරය ආරම්භ වන උදුවප් පොහො දින (14) ශ්‍රි පාද උඩ මළුව මල් වලින් සැරසිම සදහා විවිධ මල්පෙති ලක්ෂ තිහක් මෙවර උපයෝගි කරගන්නා බව නුගේගොඩ කස්ටම් ගෘප් ඔෆ් කොම්පැනි ආයතනයේ හිමිකරුවන් වන නිශාන්ත ද සිල්වා සහ නිලන්ත ද සිල්වා යන සහෝදරයින් දෙදෙනා පවසයි.
 
+ඇස්තුමේනියා, කපුරු ඇතුළු මල් වර්ග ගණනාවක මල් පෙති සහ පිච්ච මල් යාර හත්දහසක් මෙවර ශ්‍රි පාද උඩ මළුව සැරසිම සදහා යොදාගන්නා බවයි එම මහතුන් කියා සිටියේ.
 
+එම මල් වලින් වැඩි ප්‍රමාණයක් නුවරඑලියෙන් මිල දි ගත් බවත්, කොළඹ සිට එම මල් පෙති ශ්‍රි පාද උඩ මළුව දක්වා රැගෙන ගොස් (13) දින ශ්‍රි පාද උඩ මළුව 28 වරටත් තම සමාගම විසින් සැරිසිමට කටයුතු කරන බවයි එම මහතුන් කියා සිටියේ.
 
-Nugegoda Kucho Group plans to use 30 lakh flowers to decorate Sri Lanka. They estimate spending hundreds of lakhs. Flowers will come from Nuwara Eliya and Colombo. This is for their 28th annual event.
-
-🟩
-
-2024-2025 The owners of the Nugegoda Kucho Group, Nishantha de Silva, the owners of Nugegoda is US $ 300,000 this year, will utilize hundreds of lakhs this year..
-
-The vicinity of flowers, including the estimated flowers, miracles and the blower yards were used to prepare the courtyard.
-
-The largest of those flowers were taken from the Nuwara Eliya and the Colombo-Srigal Petals from Colombo (13) will be around the 28th annual company.
-
-In addition, the company said that all the ingredients needed to be able to better be able to sell the Sri Pada Paddy well.
+මීට අමතරව ශ්‍රි පාද පද්මය සුවද පැණින් දෝවනය කිරිමට අවශ්‍ය සියළුම අමුද්‍රව්‍ය තම සමාගම විසින් ලබාදෙන බවත්, මෙය ශ්‍රි ලංකාවාසි සැමට ආශිර්වාද පතා සිදු කරන පිංකමක් බවයි එම මහතුන් වැඩිදුරටත් කියා සිටියේ.
 
 ◼️
 
 [Data](articles/37a54055.json)
-
-[Extended Data](ext_articles/37a54055.ext.json)
 
 ---
 
@@ -233,28 +201,6 @@ He said he expected to submit a no-confidenceability against the Speaker through
 [Data](articles/f6e51e48.json)
 
 [Extended Data](ext_articles/f6e51e48.ext.json)
-
----
-
-### Sri Lanka president to visit UAE
-
-*2024-12-12 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-uae-194004/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake said he looked forward to visiting the United Arab Emirates soon, at the ambassador’s invitation.
-
-Dissanayake met UAE Ambassador to Sri Lanka Khaled Nasser Al Ameri on Thursday, to discuss strengthening bilateral ties.
-
-“Ambassador Al Ameri reiterated UAE’s commitment to supporting Sri Lanka’s development and emphasized our strong friendship. I look forward to visiting the UAE soon at his invitation.”
-
-“We explored expanding employment opportunities for Sri Lankans in the UAE and enhancing Sri Lanka’s exports to one of our top trading partners.
-
-According to the Sri Lankan Embassy in the UAE an estimated 150,000 Sri Lankans are residing in UAE working in various sectors, including banking and finance, information technology, engineering, paramedics, hospitality industry, constructions etc, while the majority is employed in the domestic sector. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/49922913.json)
-
-[Extended Data](ext_articles/49922913.ext.json)
 
 ---
 
@@ -416,26 +362,6 @@ It has also been discussed to further enforce macro prudent policies in the fina
 
 ---
 
-### Sri Lanka sells Rs132.5bn in 2029 and 2033 bonds
-
-*2024-12-12 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs132-5bn-in-2029-and-2033-bonds-193993/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 132.5 billion rupees in 2029 and 2033 bonds, data from the state debt office showed.
-
-All offered 77.5 billion rupees of 15 September 2029 (LKB00629I154) bonds were sold at an average yield of 10.75 percent.
-
-All offered 55 billion rupees of 01 June 2033 (LKB02033F013) bonds were sold at an average yield of 11.47 percent.
-
-The LKB00629I154 bond was available on tap after the auction. “An issuance window for the ISIN LKB00629I154 is open until 3.00 pm of business day prior to settlement date (i.e., 13.12.2024) at the Weighted Average Yield Rate (WAYR) determined for the said ISIN at the auction, up to 10% of the respective amount offered.” (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/46764086.json)
-
-[Extended Data](ext_articles/46764086.ext.json)
-
----
-
 ### A man arrested for defrauding Rs.
 
 *2024-12-12 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201099) · `ta`
@@ -455,28 +381,6 @@ Following a complaint at the Vavuniya police station, the police have arrested a
 [Data](articles/5c8d8746.json)
 
 [Extended Data](ext_articles/5c8d8746.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 290.20/35 to dollar, bonds steady
-
-*2024-12-12 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-290-20-35-to-dollar-bonds-steady-193991/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed relatively flat at 290.20/35 to the US dollar on Thursday from 290.25/30 to the US dollar on Wednesday, dealers said, while bond yields held steady.
-
-A bond maturing on 15.12.2026 closed stable at 9.40/50 percent.
-
-A bond maturing on 15.10.2027 closed at 9.95/10.05 percent, from 9.85/10.00 percent.
-
-A bond maturing on 15.03.2028 closed at 10.20/35 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.09.2029 closed at 10.70/80 percent, from 10.75/90 percent. (Colombo/Dec11/2024)
-
-◼️
-
-[Data](articles/90c0c8fc.json)
-
-[Extended Data](ext_articles/90c0c8fc.ext.json)
 
 ---
 
@@ -501,24 +405,6 @@ Accordingly, 17 imported directs have been imported, he said that the rice rice 
 [Data](articles/571faa50.json)
 
 [Extended Data](ext_articles/571faa50.ext.json)
-
----
-
-### Sri Lanka’s central bank calls for depositors to get unique identification numbers
-
-*2024-12-12 17:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-calls-for-depositors-to-get-unique-identification-numbers-193984/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued a notice calling for banks and financial institutions to record the unique identification numbers of depositors before the deadline on December 31.
-
-“It is advised that all individuals and entities obtain the required identification or registration documents from the relevant authorities and update their unique identification number information with the applicable Licensed Banks and Finance Companies,” the notice said.
-
-The time period granted by the central bank for licensed banks and licensed finance companies to mandatorily record the unique identification numbers of their existing depositors in terms of operating instructions issued under the Banking (Special Provisions) Act, No. 17 of 2023, will expire on December 31 this year.
-
-...
-
-[Data](articles/78e7bc93.json)
-
-[Extended Data](ext_articles/78e7bc93.ext.json)
 
 ---
 
@@ -642,48 +528,6 @@ The judge sentenced the victim to four and a half lakh rupees for a compensation
 
 ---
 
-### TISL launches research report on Sri Lanka’s  private sector corruption risks
-
-*2024-12-12 16:40:00* · [`economynextcom`](https://economynext.com/tisl-launches-research-report-on-sri-lankas-private-sector-corruption-risks-193974/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL) unveiled the ‘Corruption Risk Mapping Research: A Study on Sri Lanka’s Private Sector’ on Thursday (12) in Colombo, presenting an in-depth analysis of corruption risks.
-
-It also provides possible measures to address the corruption in Sri Lanka’s private sector.
-
-“The research, compiled by an independent researcher documents and narrates alleged experiences and examples of private sector corruption, possibly for the first time in Sri Lanka,” the TISL said in a statement.
-
-“Corruption in Sri Lanka for the most part has been seen as a public sector problem. This research, however, indicates that the private sector often functions as the “supply side” of corruption.”
-
-”The allegations narrated showed a high risk of corruption when dealing with relevant government departments for approvals and licences across all industries.”
-
-...
-
-[Data](articles/4a312481.json)
-
----
-
-### Sri Lanka stocks close up, ASPI hits 14,000 on ISB deadline day
-
-*2024-12-12 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-aspi-hits-14000-on-isb-deadline-day-193967/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday with the All Share Price Index soaring beyond the 14,000 mark and hitting a new record.
-
-The broader ASPI closes up 1.09 percent, or 150.72 points, at 14,035; while the more liquid S&P SL20 Index closed up 1.04 percent, or 43.17 points, at 4,186.
-
-“Investors anticipate positive news about the debt restructuring process,” Softlogic Stockbrokers said.
-
-“Today, December 12 is the deadline for the ISB holders to submit bids, and the sentiment is that there will be participation above the 75-80 percent required for the debt restructure to be successful.”
-
-“This is important for the country’s rating, and the market being positive is an indicator. If we can reach B levels, we can access capital markets.”
-
-Top positive contributors to the ASPI were Ceylon Beverage Holdings (up at 3,630.75), Hatton National Bank (up at 249.00), Sampath Bank (up at 105.00), John Keells Holdings (up at 21.40), and Commercial Bank (up at 130.00).
-
-...
-
-[Data](articles/f8e2bf0d.json)
-
----
-
 ### Rain interrupted the fourth match of the Lanka T10 League
 
 *2024-12-12 16:33:17* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-ලීග්-ක්‍රිකට්-තරගාවලියේ-සිව්වන-තරගයට-වර්ෂාවෙන්-බාධා/9-413606) · `si`
@@ -740,22 +584,6 @@ The Constitutional decision stated that the Constitutional Council has the power
 
 ---
 
-### Sri Lanka Excise Department nets Rs200bn up to November
-
-*2024-12-12 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-excise-department-nets-rs200bn-up-to-november-193962/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Excise Department has reported a revenue of 200 billion rupees From January to November this year. It’s revenue target for the year was 232 billion rupees.
-
-This was the first time its revenue had exceeding 200 billion in its 120-year history, the government department said.
-
-The monies were made mainly from taxes on liquor production and under the Tobacco Tax Act, it said. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/e201ef8e.json)
-
----
-
 ### Meeting between Bill & Meelinda Gates forum
 
 *2024-12-12 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201085) · `ta`
@@ -779,24 +607,6 @@ The Prime Minister explained the government's actions on issues to address digit
 [Data](articles/ea9c0ab7.json)
 
 [Extended Data](ext_articles/ea9c0ab7.ext.json)
-
----
-
-### Peoples Bank to use Sri Lanka’s LankaPay US dollar payment system
-
-*2024-12-12 15:59:00* · [`economynextcom`](https://economynext.com/peoples-bank-to-use-sri-lankas-lankapay-us-dollar-payment-system-193947/) · `en`
-
-ECONOMYNEXT – State owned People’s Bank has enabled local routing of domestic US dollar fund transfers via LankaPay to its online payment system, improving the digital payment system in Sri Lanka.
-
-“As a Bank which handles significant amount of domestic US Dollar transactions, having People’s Bank onboard for US Dollar On-line system is of great significance which is reflected in them becoming the third highest inward volume in the first month of joining the system,” LankaPay CEO Channa de Silva said.
-
-The bank joined the LankaPay US Dollar Online Payments System in 2021 towards LankaPay/JCB card net settlement purpose. The bank has now enabled domestic US dollar payment settlements also via the same system.
-
-“Our goal is to enhance both inward and outward remittances through this system, and we look forward to expanding our business and these transactions are currently handled by the Overseas Customer Services of the Bank,” People’s Bank CEO/GM Clive Fonseka said.
-
-...
-
-[Data](articles/159a135b.json)
 
 ---
 
@@ -1350,26 +1160,6 @@ Following these contradictory reports, the Inspector General of Police (IGP) has
 
 ---
 
-### Sri Lanka’s All Share Price Index hits 14,000 mark
-
-*2024-12-12 14:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-all-share-price-index-hits-14000-mark-193881/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Change All Share Price Index (ASPI) hit a record high today breaching the 14,000 mark.
-
-Market participants have said that local high networth individuals and institutions were taking positions in anticipation of company profiles improving.
-
-Investor interest in banking stocks led the charge originally amidst expectations of the successful completion of the international sovereign bond restructuring.
-
-Then interest was seen in companies with exposure to the automotive industry on the anticipated lifting of the vehicle import ban. Diversified financials saw stock prices rising.
-
-Tourism and construction industries have also attracted investor interest amidst promising tourist arrivals and increasing projects respectively. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/301cd860.json)
-
----
-
 ### Beginning of a program of contraception for monkeys
 
 *2024-12-12 14:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளுக்கு-கருத்தடை-செய்யும்-வேலைத்திட்டம்-ஆரம்பம்/175-348628) · `ta`
@@ -1497,26 +1287,6 @@ The former Public Security Minister Sarath Weerasekara, and the then Director of
 [Data](articles/67a8e0f0.json)
 
 [Extended Data](ext_articles/67a8e0f0.ext.json)
-
----
-
-### Inadequate packaging major cause of Sri Lanka post-harvest losses: EDB
-
-*2024-12-12 13:12:00* · [`economynextcom`](https://economynext.com/inadequate-packaging-major-cause-of-sri-lanka-post-harvest-losses-edb-193896/) · `en`
-
-ECONOMYNEXT – Inadequate packaging is a major cause of significant post-harvest losses in Sri Lanka, the Export Development Board has said.
-
-“In Sri Lanka post-harvest losses are significant, affecting 20% – 30% of vegetables and 15% – 20% of fruits. Inadequate packaging has been identified as a major cause of these losses,” the EDB said in a statement.
-
-The trade body recently conducted an awareness session focusing the packaging solutions for fruits and vegetable sector.
-
-“One of the objectives for conducting this awareness session is to reduce the post-harvest losses of fruits and vegetables through innovative packaging solutions and enhance the value of export products, benefiting the broader economy.”
-
-The session was conducted in collaboration with the Packaging Experts from the Industry and National Plant Quarantine Service with the participation of 70 exporters and potential exporters.
-
-...
-
-[Data](articles/6d228674.json)
 
 ---
 
@@ -2475,5 +2245,295 @@ Police investigations have revealed that the accident occurred when a lorry trav
 [Data](articles/e0a9acd8.json)
 
 [Extended Data](ext_articles/e0a9acd8.ext.json)
+
+---
+
+### Why did the Supreme Court ruled that he was illegal to arrest the arrest of Sally under PTA?
+
+*2024-12-12 10:29:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c390jz1pdyxo) · `si`
+
+Supreme Court ruled against arresting Sally under PTA, citing violation of human rights. Decision made by judges Priyantha Fernando, Gamini Amarasekera, and Mahinda Samayawardena. Case involved alleged terrorism links and detention order under Terrorism Prevention Act.
+
+🟩
+
+Why did the Supreme Court ruled that he was illegal to arrest the arrest of Sally under PTA?
+
+The Supreme Court ruled that former Under PTA (PTA), a media bill (PTA) was interrupted by the Terrorism Bill (PTA), accused the former Governor of the Western Province (PTA).
+
+Accordingly, the Minister of Defense Minister Sarath Weerasekera, who was named respondents of the petition, said that Nishantha De Zoysa and its Chief Inspector General Inspector Jayantha Payagala have violated basic human rights.
+
+Askature, Sale, had compensation of Rs.
+
+After hearing fundamental rights presented by Asath Sally, the Supreme Court made this decision.
+
+The decision was published by Supreme Court Judge Priyantha Fernando with the concurrence of Judges Gamini Amarasekera and Mahinda Samayawardena.
+
+Petitioner Asad Salley says he was arrested by a team of officers of the CID on March 16, 2021.
+
+...
+
+[Data](articles/e8f5b4b6.json)
+
+[Extended Data](ext_articles/e8f5b4b6.ext.json)
+
+---
+
+### ADB says Chinese economic growth forecast is steady
+
+*2024-12-12 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204295) · `si`
+
+ADB forecasts China's economic growth steady at 4.8% for 2024, 4.5% for 2025. Asia Pacific region growth stabilizes at 5% for 2024, down from 4.9% to 4.8% for 2025. US policy risks may impact regional development.
+
+🟩
+
+The Asian Development Bank says China's economic growth forecast will be stabilized.
+
+The Asian Development Bank has issued this issue of its '2024 ADB'.
+
+The growth forecast of 2024 has been prepared in the development economy of the Asia Pacific region 5.0%.
+
+Also, the growth forecast of 2025 has been changed from 4.9% to 4.8%.
+
+Meanwhile, Chinese economic growth forecast of 2024 and 2025, the Chinese economic growth forecast is 4.8% and 4.5% respectively.
+
+The report further shows that the development momentum of the Asia Pacific region will be stabilized, but the number of US policy risks can be affected by the development of American trading, financial and immigration policies.
+
+◼️
+
+[Data](articles/f6cd36e6.json)
+
+[Extended Data](ext_articles/f6cd36e6.ext.json)
+
+---
+
+### 4/21 order to investigate the case
+
+*2024-12-12 10:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-வழக்கை-விசாரிக்க-உத்தரவு/175-348608) · `ta`
+
+N
+
+🟩
+
+Negombo District Magistrate Lalith Kannangara on Wednesday (11), who rejected the request of former Inspector General of Police Poojitha Jayasundera and former State Intelligence Unit leader Nilanda Jayawardena to dismiss the cases filed by the victims of the Easter bomb attack.
+
+Former President Maithripala Sirisena, President Ranil Wickremesinghe, Former Defense Secretary Hemasiri Fernando, Former Police Inspector Poojitha Jayasundera and Senior Deputy Inspector General of Police Nilanda Jayawardena of the former Investigation Division have filed 182 NDA.
+
+Former police chief Poojitha Jayasundera and former Chief of State Investigation Division, Nilantha Jayawardena, said that both lawyers and their party members were police officers, and that no lawsuit should be filed 3 months after the incident of police rules.
+
+...
+
+[Data](articles/4242f377.json)
+
+[Extended Data](ext_articles/4242f377.ext.json)
+
+---
+
+### Govt
+
+*2024-12-12 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204293) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Deputy Minister Namal Karunaratne: Govt to compensate farmers fully for crop damage. Officials to prepare cultivation grounds. Machinery needed to restore flooded paddies. Government institutions to assist in farm resettlement.
+
+🟩
+
+Deputy Minister of Agriculture and Livestock, Namal Karunaratne says that steps will be taken to pay a full compensation for a hectare for the cultivation harm to the farmers.
+
+Speaking to the media, he said that the agriculture was provided to the agriculture in the area to prepare the cultivation ground.
+
+"All exists on the number of affected farmers and the size of the affected farmer families. Accordingly, the government is joining a hectares of Rs.. We will definitely fulfill the responsibility of the government. The foot, two feet, a sand dimensional under the feet of feet, have filled the paddy lands. Machine has to get help. We are informed to restore the resettlement of farms under the various government institutions in each of these areas. "
+
+Deputy Minister of Agriculture and Livestock, Namal Karunaratne said that the officials were instructed to be aware of the circulars in the preparation of the cultivation.
+
+◼️
+
+[Data](articles/331f8f1c.json)
+
+[Extended Data](ext_articles/331f8f1c.ext.json)
+
+---
+
+### 10-yr-old girl dies, 3 injured in accident on Expressway
+
+*2024-12-12 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104179/10-yr-old-girl-dies-3-injured-in-accident-on-expressway) · `en`
+
+Three individuals from the same family have been injured and a young girl has died in a fatal accident that occurred near the Pinnaduwa interchange on the Southern Expressway.
+
+The driver of the car, travelling from Kottawa towards Palatuwa, is said to have fallen asleep at the wheel causing the vehicle to crash into the back of a lorry travelling in the same direction between 100 L and 100.1 L on the Southern Expressway.
+
+A mother, father and their two daughters who were travelling in the car were seriously injured in the accident and were admitted to the Karapitiya Hospital.
+
+One girl who was injured from the incident has succumbed to her injuries upon admission to the hospital.
+
+The deceased girl is a 10-year-old resident in the Nupe area of Matara.
+
+The body is currently placed in the Karapitiya Hospital morgue for the post-mortem examination and Imaduwa Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/5aa15c77.json)
+
+[Extended Data](ext_articles/5aa15c77.ext.json)
+
+---
+
+### இந்திய இழுவைப் படகுகளின் அத்துமீறல் குறித்து இந்திய உயர்ஸ்தானிகரின் கவனத்திற்கு கொண்டுசெல்லப்பட்டது - ரவிகரன்
+
+*2024-12-12 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201051) · `ta`
+
+கடந்த நவம்பர் மாதம் 21ஆம் திகதி இந்திய உயர்ஸ்தானிகருக்கும், இலங்கைத் தமிழரசுக்கட்சி நாடாளுமன்ற உறுப்பினர்களுக்குமிடையே இடம்பெற்ற சந்திப்பின் போது இந்திய இழுவைப்படகுகளின் அத்துமீறல் செயற்பாடுகள் குறித்து தம்மால், இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவின் கவனத்திற்கு கொண்டுசெல்லப்பட்டதாக வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்தார்.
+
+அதேவேளை இந்திய உயர்ஸ்தானிகர் இந்த விடயம் குறித்து கவனம் செலுத்துவதாகத் தெரிவித்ததுடன், ஜனவரியில் முல்லைத்தீவிற்கு விஜயம் மேற்கொள்வதாகத் தெரிவித்ததாகவும் நாடாளுமன்ற உறுப்பினர் ரவிகரன் மேலும் தெரிவித்துள்ளார்.
+
+முல்லைத்தீவில் தேசிய மீனவ ஒத்துழைப்பு இயக்கத்தின் ஏற்பாட்டில் இடம்பெற்ற உலக மீனவதின நிகழ்வில் பங்கேற்று கருத்துத் தெரிவிக்கும்போதே நாடாளுமன்ற உறுப்பினர் இத்தகவலைத் தெரிவித்துள்ளார்.
+
+கடந்த நவம்பர்மாதம் 21ஆம் திகதி இலங்கைத் தமிழரசுக்கட்சிப் பாராளுமன்ற உறுப்பினர்கள் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா அவர்களைச் சந்தித்துக் கலந்துரையாடியபோது, தமிழ் மக்களின் அரசியல் தீர்வு விடயம்தொடர்பில் பேசப்பட்டது.
+
+...
+
+[Data](articles/2fb62f1d.json)
+
+---
+
+### Sri Lanka rupee flat against US dollar, bond yields steady ahead of auction
+
+*2024-12-12 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-flat-against-us-dollar-bond-yields-steady-ahead-of-auction-193769/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.22/280 to the US dollar in Thursday early trade stronger from yesterday’s close of of 290.30/35, dealers said, while bond yields were steady ahead of an auction.
+
+A bond maturing on 15.12.2026 was quoted at 9.35/50 percent, flat
+
+A bond maturing on 15.10.2027 was quoted at 10.90/11.00 up  from 9.85/10.00 percent Wednesday.
+
+A bond maturing on 15.02.2028 was quoted at 10.15/24 down from 10.25/35 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.45/50 down from 10.50/60 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.70/80 up from 10.75/90 percent. (Colombo/Dec12/2024)
+
+Sri Lanka is auctioning 132.5 billion rupees of Treasury bonds today.
+
+In equities, the All Share Price Index was up 0.11 percent or 15.66 points, at 13,900.
+
+The more liquid S&P SL20 was up 0.27 percent, or 11.02 points, at 4,154.
+
+◼️
+
+[Data](articles/f43d4f4d.json)
+
+---
+
+### Facebook and WhatsApp services returned to us
+
+*2024-12-12 09:50:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழமைக்கு-திரும்பிய-பேஸ்புக்-வட்ஸ்அப்-சேவைகள்/175-348607) · `ta`
+
+Facebook, WhatsApp, Instagram restored after outage. Meta confirms technical issue affecting app access worldwide. Users report inability to send SMS via WhatsApp. Company apologizes for inconvenience and working to resolve issue promptly.
+
+🟩
+
+International media reports that Facebook, WhatsApp and Instagram, which have been inactive for several hours in the country, have returned.
+
+However, it has been pointed out that the company has not yet confirmed whether the world has returned to us.
+
+Accordingly, users have been severely affected by the paralysis of the metaphoric services including WhatsApp and Facebook in different parts of the world since midnight on Wednesday (11).
+
+Users around the world have lodged complaints from the X site that no SMS could be shared through the WhatsApp processor from 11 pm last night.
+
+In the meantime, Meta has posted a record on its X site.
+
+In it, we know that "a technical problem affects the ability to access some users' applications.
+
+We are working to normalize things as quickly as possible and apologize for the inconvenience. ”
+
+◼️
+
+[Data](articles/ac71756b.json)
+
+[Extended Data](ext_articles/ac71756b.ext.json)
+
+---
+
+### New update on WhatsApp
+
+*2024-12-12 09:47:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/வாட்ஸ்அப்பில்-அசத்தும்-புதிய-அப்டேட்/57-348606) · `ta`
+
+Here's a summary of the WhatsApp update in 200 characters:
+
+
+
+WhatsApp introduces new reminder feature for unread messages. Users can customize notifications. Available now for Android beta testers (version 2.24.25.29). Soon rolling out to all users on both Android and iOS.
+
+🟩
+
+WhatsApp is to release a new update to revolutionize users managing their messages.
+
+In this update, a new feature to commemorates unreadable messages is to be introduced, so that no important conversation will be missed.
+
+The new reminder feature will announce from time to time to WhatsApp users they have not yet seen.
+
+This function can be customized according to the personal preferences by the notification systems of the application.
+
+To try this feature, Android users can join the WhatsApp beta scheme and upgrade to the 2.24.25.29 version.
+
+If this new reminder feature is put into operation, we will warn users about unadwashed messages, especially those who are often interacted.
+
+While this feature is currently available to beta examiners, WhatsApp will soon release it to all users.
+
+Both Android and iOS users can expect the benefits of this useful new tool.
+
+◼️
+
+[Data](articles/4db03395.json)
+
+[Extended Data](ext_articles/4db03395.ext.json)
+
+---
+
+### UN General Assembly demands ceasefire in Gaza and backs UN agency helping Palestinian refugees
+
+*2024-12-12 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104178/un-general-assembly-demands-ceasefire-in-gaza-and-backs-un-agency-helping-palestinian-refugees) · `en`
+
+The U.N. General Assembly overwhelmingly approved resolutions Wednesday demanding an immediate ceasefire in Gaza and backing the U.N. agency for Palestinian refugees that Israel has moved to ban.
+
+The votes in the 193-nation world body were 158-9, with 13 abstentions to demand a ceasefire now and 159-9 with 11 abstentions in support of the agency known as UNRWA.
+
+The votes culminated two days of speeches overwhelmingly calling for an end to the 14-month war between Israel and the militant Hamas group and demanding access throughout Gaza to address the growing humanitarian catastrophe.
+
+Israel and its close ally, the United States, were in a tiny minority speaking and voting against the resolutions. Other opposing both resolutions included Argentina, Papua New Guinea, Paraguay and Tonga.
+
+While Security Council resolutions are legally binding, General Assembly resolutions are not, though they do reflect world opinion. There are no vetoes in the assembly.
+
+...
+
+[Data](articles/0e8f8bd0.json)
+
+[Extended Data](ext_articles/0e8f8bd0.ext.json)
+
+---
+
+### 4 Sri Lankans arrested in Tamil Nadu
+
+*2024-12-12 09:08:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-இலங்கையர்கள்-தமிழ்நாட்டில்-கைது/175-348604) · `ta`
+
+Sri Lankan nationals arrested in Tamil Nadu for illegal sea travel plans. Four individuals detained by Thangachimadam police. Investigation ongoing.
+
+🟩
+
+Four Sri Lankan people were arrested by the Thangachimadam police on the night of the 10th.
+
+The four arrested, C. Sekhar alias Rajmohan, 39,. Kokilawani (44), R. Sasi Kumar (28), M. Nagaraj, 68, said police.
+
+Investigations revealed that they were planning to go to Sri Lanka illegally by sea.
+
+Kokilawani and Mr.. Sasikumar was staying at the Mandapam camp and Shekhar came to India in 2019. It is also reported that India arrived three months ago on the Nagaraj boat. Remble
+
+◼️
+
+[Data](articles/c5203cac.json)
+
+[Extended Data](ext_articles/c5203cac.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 15:43:09**
+As of **2024-12-12 16:28:17**
 
 ## Newspaper Stats
 
-*Scraped **59,806** Articles*
+*Scraped **59,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,682
-adaderanalk | 7,279
-tamilmirrorlk | 8,552
+adalk | 5,683
+adaderanalk | 7,282
+tamilmirrorlk | 8,553
 virakesarilk | 9,806
 adaderanasinhalalk | 10,338
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 10,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,756 (99.9%) of 59,806 articles have been extended.
+59,764 (99.9%) of 59,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### The person who chopped the agent's neck
+
+*2024-12-12 15:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகவரின்-கழுத்தை-அறுத்த-நபர்/175-348637) · `ta`
+
+A man in Asvetuma, Kurunegala, attacked a 52-year-old foreign agent due to unfulfilled demands. He cut off the agent's neck and hurt female staff. Police arrested the suspect and hospitalized the victims.
+
+🟩
+
+The person who has demanded that he has been sent to the foreign maid, has cut off the foreign agent (age 52) because of the inability to fulfill his demand, hurting the female staff and tried to make himself up.
+
+A man from Asvetuma, Kurunegala has sent her a counterfeiter to Kuwait through a foreign employment agency in Navina.
+
+The 32 -year -old man, who went to the station, demanded that he telephoned his counterfeit girlfriend. However, as it was not fulfilled on Thursday (12), he was arguing with the agent, cut off the agent's ass, and attacked the female employee.
+
+Kurunegala police rushed to the scene after receiving information about the incident and arrested the suspect with a knife. Both the injured have been admitted to the hospital.
+
+◼️
+
+[Data](articles/a7c65ee9.json)
+
+[Extended Data](ext_articles/a7c65ee9.ext.json)
+
+---
+
+### ASPI crosses 14,000 points for first time ever
+
+*2024-12-12 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104188/aspi-crosses-14000-points-for-first-time-ever) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange recorded a new all-time high today (12), surpassing the 14,000 mark for the first time in history.
+
+Accordingly, the index has increased by 150.72 points to close at 14,035.81, a new all-time high.
+
+Meanwhile, today’s total turnover was reported as Rs. 7.3 billion.
+
+◼️
+
+[Data](articles/60992178.json)
+
+[Extended Data](ext_articles/60992178.ext.json)
+
+---
 
 ### The telephone sent four names
 
@@ -51,6 +93,26 @@ In this year's general election, the United People's Power received five nationa
 [Data](articles/80c6393c.json)
 
 [Extended Data](ext_articles/80c6393c.ext.json)
+
+---
+
+### Woman arrested for soliciting Rs. 350,000 bribe
+
+*2024-12-12 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104187/woman-arrested-for-soliciting-rs-350000-bribe) · `en`
+
+A woman from Thalathuoya has been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) for allegedly soliciting a bribe of Rs 350,000.
+
+She was arrested at the parking lot located in front of the Bogambara Stadium in Kandy following a complaint lodged by a resident of Gonahena in Kadawatha.
+
+The woman, acting as an intermediary, had accepted a bribe of Rs 350,000 to facilitate the required government procedures for the complainant to obtain a land ‘Kirimatiyawatta’ in the Pathahewaheta Divisional Secretariat Division of the Kandy District, through the Land Reform Commission in order to use it for cultivation.
+
+The arrested suspect is scheduled to be produced before the Kandy Magistrate’s Court.
+
+◼️
+
+[Data](articles/ea382adb.json)
+
+[Extended Data](ext_articles/ea382adb.ext.json)
 
 ---
 
@@ -79,6 +141,28 @@ Similarly, the Ambassador assured Anurakumara Dissanayake that the long -standin
 [Data](articles/30a05f2f.json)
 
 [Extended Data](ext_articles/30a05f2f.ext.json)
+
+---
+
+### SJB announces its National List MPs
+
+*2024-12-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104186/sjb-announces-its-national-list-mps) · `en`
+
+The Samagi Jana Balawegaya (SJB) has finally announced the four names nominated to fill its remaining National List MP seats in Parliament.
+
+Accordingly, the main opposition party has named Mano Ganesan, Nizam Kariapper, Sujeewa Senasinghe and Mohamed Ismail for the remaining four National List MP posts.
+
+Following the General Election held on November 14, the SJB secured five National List MP seats (bonus seats).
+
+On November 19, the General Secretary of the Samagi Jana Balawegaya (SJB), Ranjith Madduma Bandara, had been appointed to one of National List seats of the SJB while discussions had continued until today regarding the four remaining seats.
+
+Meanwhile, the Colombo District Court today issued a restraining order preventing the Samagi Jana Balawegaya (SJB) from submitting their National List MP nominees without including the name of Nizam Kariapper of the Sri Lanka Muslim Congress (SLMC).
+
+...
+
+[Data](articles/8b261a90.json)
+
+[Extended Data](ext_articles/8b261a90.ext.json)
 
 ---
 
@@ -994,19 +1078,31 @@ Former PEFA Defense Minister Sarath Weerasekera, the Director of the Criminal In
 
 ---
 
-### கல்வித் திட்டங்களில் முதலீடுசெய்தல் : தேசத்தின் குழந்தைகளின் எதிர்காலத்தைப் பாதுகாத்தல்
+### Investing in educational programs: Protecting the future of children of the nation
 
 *2024-12-12 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201062) · `ta`
 
-ஒருவலுவான கல்வி அடித்தளமானது , நமதுகுழந்தைகளின் வளமான எதிர்காலத்திற்குநாம் செய்யக்கூடியமிகசக்திவாய்ந்தமுதலீடுகளில் ஒன்றாகும். 2023 ஆம் ஆண்டில், 9,103 அரசுப் பள்ளிகளில் 3.88 மில்லியனுக்கும் அதிகமானகுழந்தைகள் சேர்ந்ததாகவும், 137,869 க்கும் அதிகமானோர் தனியார் பாடசாலைகளில் படித்ததாகவும் மக்கள் தொகைக் கணக்கெடுப்பு மற்றும் புள்ளியியல் துறையின் தரவுகள் தெரிவிக்கின்றன.
+Here's a summary of 200 characters:
 
-6 முதல் 18 வயதிற்குட்பட்ட இந்த இளம் மாணவ,மாணவிகள் நமதுநாட்டின் எதிர்காலத்தின் வாக்குறுதியை பிரதிநிதித்துவப் படுத்துகின்றனர்,மேலும் அவர்களின் கல்விப் பயணத்தைஆதரிப்பதுபிரகாசமானமற்றும் வளமானநாட்டைக் கட்டியெழுப்புவதற்குமுக்கியமானது.
 
-உள்நாட்டிலும்,வெளிநாட்டிலும்கல்விச் செலவுகள் அதிகரித்துவருகின்றமை ,ஆரம்ப காலநிதித் திட்டமிடலை முக்கியமானதாகஆக்குகிறது.உள்நாட்டுப்பல்கலைக்கழகங்களுக்குவரையறுக்கப்பட்டுள்ளஅனுமதிவாய்ப்புகளும்,வெளிநாடுகளில் உயர்கல்வியைத் தொடரும் ஆர்வம் போன்றவை திட்டமிட்ட சேமிப்பின் அவசியத்தை எடுத்துக்காட்டுகின்றன.
+
+"Protecting children's futures through education investments. Over 4 million students enrolled in 2023. Educational insurance offers financial security, covering tuition, hospitalization, and parental loss. IASL emphasizes education's value for a brighter future."
+
+🟩
+
+One of the best educational foundations is that we can do the prosperous future of our children. In 2023, more than 3.88 million children were enrolled in 9,103 government schools and more than 137,869 were educated in private schools, according to data from the Department of Census and Statistics.
+
+These young students between the ages of 6 to 18 represent the promise of the future of our country, and to build their educational journey, to build a rich and prosperous country.
+
+Increasing costs at home and abroad makes it important to be important in early agenda planning.
+
+Educational insurance is a resolution that connects the safety of funds, and that even in uncertainty, this ensures that children are not educated.
 
 ...
 
 [Data](articles/6bcf2e0d.json)
+
+[Extended Data](ext_articles/6bcf2e0d.ext.json)
 
 ---
 
@@ -1026,6 +1122,8 @@ A sum of 11,024,310,500 rupees will be credited to the beneficiary bank accounts
 
 [Data](articles/e1bda0ca.json)
 
+[Extended Data](ext_articles/e1bda0ca.ext.json)
+
 ---
 
 ### Wasantha Batagoda leaves Sri Lanka’s DFCC Bank
@@ -1042,21 +1140,29 @@ Last month LOLC Holdings divested its 9.73 percent of ordinary voting shares hel
 
 [Data](articles/7b8fd86e.json)
 
+[Extended Data](ext_articles/7b8fd86e.ext.json)
+
 ---
 
-### ආනයනික සහල් වෙළඳපොළට
+### Imported rice market
 
 *2024-12-12 11:17:24* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-සහල්-වෙළඳපොළට/11-413598) · `si`
 
-පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කරන ලද සහල් තොග අද සිට වෙළඳපොළට නිකුත් කිරිමට නියමිතව තිබේ. පෞද්ගලික ආනයනකරුවන් ඉන්දියාවෙන් ඇනවුම් කළ සම්බා හා සුදු කැකුළු සහල් තොගයක් ඊයේ වරායට පැමිණ ඇති අතර ඊයේ රාත්‍රීයේම ඉන් ටොන් 75ක් රේගුවන් නිදහස් කර තිබේ.
+Private importers release rice stocks today, solving national shortage. More shipments expected tomorrow.
 
-රට තුළ පවතින පවතින සහල් හිඟයට පිළියමක් ලෙස එය කඩිනමින් විසඳිම සඳහා පෞද්ගලික ආනයනකරුවන්ට සහල් ආනයන කිරීමට රජය විසින් අවසර දුන්නේය.
+🟩
 
-අද (12) සහ හෙට (13) යන දෙදින තුළද තවත් සහල් තොග දිවයිනට ළඟාවීමට නියමිත බව වාර්තා වෙයි. ආනයනික සහල් වෙළෙඳපොළට පැමිණීමත් සමග රට තුළ පවතින සහල් හිඟයට යම්කිස් ආකාරයකට පිළිතුරක් ලැබෙනු ඇත.
+The rice stocks imported by private importers will be released from today to the market. Private importers had arrived at the Port of Samba and white rice in India yesterday and the customs were released last night.
+
+The government allowed private importers to import rice to solve the rice shortage of the country as a remedy in the country.
+
+It is reported that more rice stocks are to reach the island today (12) and tomorrow (13).. With the arrival of imported rice, the shortage of rice in the country will be answered.
 
 ◼️
 
 [Data](articles/9daa2300.json)
+
+[Extended Data](ext_articles/9daa2300.ext.json)
 
 ---
 
@@ -2163,79 +2269,5 @@ Minister of Rural Development, Social Security and Social Reinforcement. (A)
 [Data](articles/2d86334e.json)
 
 [Extended Data](ext_articles/2d86334e.ext.json)
-
----
-
-### ඉතාලි රියැදුරු බලපත්‍රය: 'ඩ්‍රයිවින් කරන රස්සාවක් හොයාගන්න තිබුණා ලයිසන් එක තිබුණා නම්. එහෙනම් මේ සීතලේ මැරෙන්න වෙන්නේ නෑ'
-
-*2024-12-12 01:30:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgne5j931wo) · `si`
-
-ඉතාලි රියැදුරු බලපත්‍රය: 'ඩ්‍රයිවින් කරන රස්සාවක් හොයාගන්න තිබුණා ලයිසන් එක තිබුණා නම්. එහෙනම් මේ සීතලේ මැරෙන්න වෙන්නේ නෑ'
-
-වැඩි වශයෙන් ශ්‍රී ලාංකිකයන් සංක්‍රමණය වන රටවල් අතරින් රටක් වන ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයෝ ආසන්න වසර දෙකක පමණ කාලය තුළ රියැදුරු බලපත්‍ර සම්බන්ධ ගැටලුවකට මුහුණ දී සිටිති.
-
-ශ්‍රී ලංකාවේ රියැදුරු බලපත්‍රය ලබා ගෙන තිබුණු ඉතාලියේ ස්ථීර පදිංචිය ලැබූවන්ට එම බලපත්‍රය ඉතාලියට වලංගු වන ආකාරයෙන් හරවා ගැනීමේ පහසුකමක් මීට පෙර හිමිව තිබිණි.
-
-ඒ, ශ්‍රී ලංකා රජය සහ ඉතාලි රජය අතර පැවති ද්විපාර්ශ්වික ගිවිසුමක් අනුව ය.
-
-නමුත් මේ වන විට එම පහසුකම ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයන්ට අහිමි වී තිබේ.
-
-ඉතාලියේ අගනුවර වන මිලානෝ සිට කිලෝමීටර 350ක් පමණ දුරින් පිහිටි නගරයක් වන, පේසරෝ නගරයේ ශ්‍රී ලාංකිකයෙකු වන නුවන් දිසානායක දිවි ගෙවයි.
-
-2022 වසරේ ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදය හමුවේ බොහෝ තරුණ පිරිස් වෙනත් රටවල්වලට ශීඝ්‍රයෙන් සංක්‍රමණය වූ අතර නුවන් ද එම වසරේදී ඉතාලියට සංක්‍රමණය වූ අයෙකි.
-
-දෙසැම්බර් මාසයේ දිනක උදෑසන නුවන් අවදි වූයේ සේවයට වාර්තා කිරීමට ය.
-
-...
-
-[Data](articles/9cffd149.json)
-
----
-
-### Sweet and Sour Election Results for Ilankai Thamil Arasuk Katchi(ITAK).: On Top in Batticaloa but Down in Jaffna.
-
-*2024-12-12 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85181) · `en`
-
-“Mata Allanda Bariwune,Madakkalappuwa vitharai” (I was unable to capture only Batticaloa)  were the words with which  President Anura Kumara Dissanayake smilingly greeted “Mattakkalappu”MP Shanakiyan Rajaputhiran Rasamanickam in Parliament on 21st November. The president was mingling with the  parliamentarians at the inaugural session of the tenth parliament. Anura was of course alluding to the  November 14  parliamentary election in which the AKD led  JVP-NPP came first in all  electoral districts of Sri Lanka except  Batticaloa. That eastern district went to the Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP).The ITAK won three of the five seats in B’caloa. The other two seats went to the National People’s Power(NPP) and Sri Lanka Muslim Congress(SLMC)respectively
-
-...
-
-[Data](articles/32712fb1.json)
-
-[Extended Data](ext_articles/32712fb1.ext.json)
-
----
-
-### தமிழரசு கட்சி மட்டக்களப்பில் பெற்ற பெருவெற்றியும் யாழ்ப்பாணத்தில் அடைந்த படுதோல்வியும்
-
-*2024-12-12 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85193) · `en`
-
-பாராளுமன்றத்தில்  நவம்பர் 21 ஆம் திகதி மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராஜபுத்திரன் இராசமாணிக்கத்தை  புன்முறுவலுடன் வரவேற்ற ஜனாதிபதி அநுர குமார திசாநாயக்க  கூறிய வார்த்தைகள் இவை.
-
-பத்தாவது பாராளுமன்றத்தின் அங்குரார்ப்பணக் கூட்டத்தின்போது பாராளுமன்ற உறுப்பினர்களுடன் ஒன்றறக்கலந்து ஜனாதிபதி அன்னியோன்யமாக உரையாடினார். நவம்பர் 14 பாராளுமன்ற தேர்தலைப் பற்றியே சாணக்கியனிடம் அவர் அவ்வாறு மறைபொருளாக கூறினார். மட்டக்களப்பை தவிர இலங்கையின் சகல தேர்தல் மாவட்டங்களிலும் அநுர குமார திசாநாயக்க தலைமையிலான ஜே.வி.பி. / தேசிய மக்கள் சக்தி முதலாவதாக வந்தது. அந்த கிழக்கு மாவட்டத்தை இலங்கை தமிழரசு கட்சி கைப்பற்றியது. மட்டக்களப்பின் ஐந்து பாராளுமன்ற ஆசனங்களில் மூன்று அந்த கட்சிக்கு கிடைத்தது. தேசிய மக்கள் சக்தியும் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸும் தலா ஒவ்வொரு ஆசனத்தைப் பெற்றுக்கொண்டன.
-
-...
-
-[Data](articles/5e71fb03.json)
-
----
-
-### 2024-12-11 (Wednesday)
-
-### Beat the Heat…
-
-*2024-12-11 23:21:00* · [`islandlk`](http://island.lk/beat-the-heat/) · `en`
-
-Phew! It’s terribly hot when you venture out and your skin is at an exposed danger of the ultraviolet rays.
-
-Yes, we can’t stop ourselves from stepping out, but you can protect yourself from the harmful rays.
-
-Application of fresh aloe vera gel to the skin helps to soothe and heal sunburn. Aloe vera contains zinc, which is actually anti-inflammatory.
-
-Papaya pulp can be applied on the skin, like a mask…washing it off after 20 minutes. Papaya contains enzymes and helps to remove dead skin cells. Add curd or lemon juice to the papaya pulp to remove tan. Fruits like banana, apple, papaya, orange can be mixed together and applied on the face. Keep it on for 20 to 30 minutes. Papaya helps to cleanse dead skin cells. Banana tightens the skin. Apple contains pectin and also tones the skin. Orange is rich in Vitamin C. It restores the normal acid-alkaline balance.
-
-...
-
-[Data](articles/944ac093.json)
 
 ---

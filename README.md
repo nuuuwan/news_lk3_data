@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 07:31:39**
+As of **2024-12-12 08:09:22**
 
 ## Newspaper Stats
 
-*Scraped **59,721** Articles*
+*Scraped **59,723** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 606
-bbccomsinhala | 623
+bbccomsinhala | 624
 islandlk | 3,608
 economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,670
+adalk | 5,671
 adaderanalk | 7,270
 tamilmirrorlk | 8,522
 virakesarilk | 9,797
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,697 (100.0%) of 59,721 articles have been extended.
+59,697 (100.0%) of 59,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -351,6 +351,34 @@ Minister of Rural Development, Social Security and Social Reinforcement. (A)
 [Data](articles/2d86334e.json)
 
 [Extended Data](ext_articles/2d86334e.ext.json)
+
+---
+
+### ද්විපාර්ශ්වික ගිවිසුම් අලුත් නොකිරීමෙන් ඉතාලියේ ශ්‍රී ලාංකිකයින්ගේ රැකියා අනතුරේ ද?
+
+*2024-12-12 01:30:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgne5j931wo) · `si`
+
+ද්විපාර්ශ්වික ගිවිසුම් අලුත් නොකිරීමෙන් ඉතාලියේ ශ්‍රී ලාංකිකයින්ගේ රැකියා අනතුරේ ද?
+
+වැඩි වශයෙන් ශ්‍රී ලාංකිකයන් සංක්‍රමණය වන රටවල් අතරින් රටක් වන ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයෝ ආසන්න වසර දෙකක පමණ කාලය තුළ රියැදුරු බලපත්‍ර සම්බන්ධ ගැටලුවකට මුහුණ දී සිටිති.
+
+ශ්‍රී ලංකාවේ රියැදුරු බලපත්‍රය ලබා ගෙන තිබුණු ඉතාලියේ ස්ථීර පදිංචිය ලැබූවන්ට එම බලපත්‍රය ඉතාලියට වලංගු වන ආකාරයෙන් හරවා ගැනීමේ පහසුකමක් මීට පෙර හිමිව තිබිණි.
+
+ඒ, ශ්‍රී ලංකා රජය සහ ඉතාලි රජය අතර පැවති ද්විපාර්ශ්වික ගිවිසුමක් අනුව ය.
+
+නමුත් මේ වන විට එම පහසුකම ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයන්ට අහිමි වී තිබේ.
+
+ඉතාලියේ අගනුවර වන මිලානෝ සිට කිලෝමීටර 350ක් පමණ දුරින් පිහිටි නගරයක් වන, පේසරෝ නගරයේ ශ්‍රී ලාංකිකයෙකු වන නුවන් දිසානායක දිවි ගෙවයි.
+
+2022 වසරේ ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදය හමුවේ බොහෝ තරුණ පිරිස් වෙනත් රටවල්වලට ශීඝ්‍රයෙන් සංක්‍රමණය වූ අතර නුවන් ද එම වසරේදී ඉතාලියට සංක්‍රමණය වූ අයෙකි.
+
+දෙසැම්බර් මාසයේ දිනක උදෑසන නුවන් අවදි වූයේ සේවයට වාර්තා කිරීමට ය.
+
+ඒ වන විට ඔහු ජීවත් වන නගරයේ උෂ්ණත්වය සෙල්සියස් අංශක 7ත් 8ත් අතර විය.
+
+...
+
+[Data](articles/9cffd149.json)
 
 ---
 
@@ -763,6 +791,20 @@ He added that the government is taking steps to reduce the safety of the former 
 [Data](articles/59207d22.json)
 
 [Extended Data](ext_articles/59207d22.ext.json)
+
+---
+
+### අස්වැසුම හෙට බැංකු ගිණුම්වලට
+
+*2024-12-11 19:01:19* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-හෙට-බැංකු-ගිණුම්වලට/11-413594) · `si`
+
+2024 දෙසැම්බර් මාසයට අදාළ අස්වැසුම ප්‍රතිලාභී දීමානාව හෙට දිනයේදී ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කරන බව සුබසාධක ප්‍රතිලාභී මණ්ඩලයේ සභාපති ජයන්ත විජේරත්න මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+මෙහිදී ප්‍රතිලාභී පවුල්  1 707 311ක් සඳහා රුපියල් 11 024 310 500 (බිලියන 11. 024ක) මුදලක් මෙසේ ලබාදීමට නියමිතය. ප්‍රතිලාභීන්ට දෙසැම්බර් 13 දා සිට තම මුදල තම අස්වැසුම ප්‍රතිලාභී බැංකු ගිණුමෙන් ලබාගත හැකි බවද සභාපතිවරයා  සිය නිවේදනයෙන් වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/a66771de.json)
 
 ---
 
@@ -2295,49 +2337,5 @@ The Lakkala police have arrested the suspect, investigating the incident.
 [Data](articles/37006a39.json)
 
 [Extended Data](ext_articles/37006a39.ext.json)
-
----
-
-### SC adjourns hearing of petitions on Grade 5 Scholarship Exam issue
-
-*2024-12-11 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104164/sc-adjourns-hearing-of-petitions-on-grade-5-scholarship-exam-issue) · `en`
-
-The Supreme Court today (11) adjourned the hearing of petitions seeking an order to re-conduct the 2024 Grade 5 Scholarship Examination, following allegations that three questions in the exam had been leaked.
-
-The petitions were heard before a Supreme Court bench comprising Justices S. Thurairaja and Shiran Gunaratne. However, the hearing was adjourned to December 16, as the three-member bench required to adjudicate the matter was not properly constituted.
-
-The petitions were filed by a group of students who sat for the examination and their parents, expressing concerns over the fairness of the process.
-
-On December 2, the Attorney General (AG) informed the Supreme Court that the Cabinet of Ministers had recommended awarding free marks to all students for the three disputed questions.
-
-...
-
-[Data](articles/495ed3f4.json)
-
-[Extended Data](ext_articles/495ed3f4.ext.json)
-
----
-
-### Pakistan, Bangladesh tops central bank countries with blocked airline funds
-
-*2024-12-11 13:58:00* · [`economynextcom`](https://economynext.com/pakistan-bangladesh-tops-central-bank-countries-with-blocked-airline-funds-193529/) · `en`
-
-ECONOMYNEXT – Pakistan and Bangladesh are the top two countries where funds have been barred from repatriating sales revenues to airlines by government controls by the end of October 2024, according to International Air Transport Association data.
-
-Governments have blocked 1.7 billion dollars of funds belonging to airlines by October, down from 1.8 billion in April.
-
-There were 311 million dollars remaining in Pakistan, down from 411 million dollars in April.
-
-In Bangladesh there were 196 million dollars left, down from 320 million in April.
-
-“Over the last six months, we have seen significant reductions in blocked funds in Pakistan, Bangladesh, Algeria and Ethiopia,” Willie Walsh, IATA’s Director General said in a statement.
-
-Countries experience foreign exchange shortages when reserve collecting central bank print money to target policy rates either through open market operations or other liquidity tools creating an anchor conflict in their operating frameworks.
-
-...
-
-[Data](articles/bcf9841e.json)
-
-[Extended Data](ext_articles/bcf9841e.ext.json)
 
 ---

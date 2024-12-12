@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 05:01:50**
+As of **2024-12-13 05:26:47**
 
 ## Newspaper Stats
 
-*Scraped **59,901** Articles*
+*Scraped **59,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 449
 colombotelegraphcom | 606
 bbccomsinhala | 626
-islandlk | 3,608
+islandlk | 3,618
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,859 (99.9%) of 59,901 articles have been extended.
+59,863 (99.9%) of 59,911 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ SLPP General Secretary Sagara Kariyawasam yesterday announced the party’s inte
 
 [Data](articles/df3aebdf.json)
 
+[Extended Data](ext_articles/df3aebdf.ext.json)
+
 ---
 
 ### SLFP to part ways with NDF
@@ -60,6 +62,8 @@ Alagiyawanna dismissed allegations of conspiracy surrounding the appointment by 
 
 [Data](articles/56e9d935.json)
 
+[Extended Data](ext_articles/56e9d935.ext.json)
+
 ---
 
 ### Mano, Nizam, Sujeewa and Ismail secure SJB national list slots
@@ -73,6 +77,22 @@ This announcement follows weeks of deliberation after the SJB secured five Natio
 ...
 
 [Data](articles/225b84dd.json)
+
+[Extended Data](ext_articles/225b84dd.ext.json)
+
+---
+
+### Stock market hits record high; 14,000 mark breached
+
+*2024-12-13 04:38:00* · [`islandlk`](http://island.lk/stock-market-hits-record-high-14000-mark-breached/) · `en`
+
+Stock market activities were heavily bullish yesterday and the All Share Price Index hit a record high, breaching the 14,000 mark. The reason being that local and foreign investors are positive that the external debt restructuring process would end successfully, market analysts said.
+
+The index has been steadily rising since November and both indices moved upwards. The All Share Price Index went up by 150 points, while the S and P SL20 rose by 42.8 points. Turnover stood at Rs 7.3 billion with eleven crossings.
+
+...
+
+[Data](articles/8d1c4826.json)
 
 ---
 
@@ -89,6 +109,32 @@ Speaking to the media, Priyantha Perera, a family member, revealed that the rela
 [Data](articles/da7a0d3f.json)
 
 [Extended Data](ext_articles/da7a0d3f.ext.json)
+
+---
+
+### LOLC General and Life secure top spots in customer excellence
+
+*2024-12-13 04:34:00* · [`islandlk`](http://island.lk/lolc-general-and-life-secure-top-spots-in-customer-excellence/) · `en`
+
+LOLC General Insurance and LOLC Life Assurance have secured top positions in the latest LMD rankings, earning recognition as the second and third best service providers in the General and Life Insurance categories, respectively. This remarkable achievement emphasises LOLC Insurance’s firm commitment to delivering superior customer service and innovative solutions, reaffirming its leadership in Sri Lanka’s insurance industry.
+
+...
+
+[Data](articles/53a74468.json)
+
+---
+
+### Aitken Spence wins the Grand Slam Award as the Best Corporate Citizen of 2024
+
+*2024-12-13 04:34:00* · [`islandlk`](http://island.lk/aitken-spence-wins-the-grand-slam-award-as-the-best-corporate-citizen-of-2024/) · `en`
+
+Aitken Spence PLC emerged as the overall winner and received the prestigious Grand Slam Award for winning the award 5 times at the Best Corporate Citizen Sustainability Awards (BCCSA) 2024 organised by the Ceylon Chamber of Commerce.
+
+This is a remarkable milestone for the organisation that has been a pioneer in sustainability as a corporate strategy in Sri Lanka. Moreover, Aitken Spence is the only corporate in Sri Lanka to be ranked among the Top 10 Corporate Citizens for an unmatched 19 consecutive years. The stellar performance across the key award categories showcases Aitken Spence Group’s holistic approach to sustainability and its pioneering role in shaping responsible corporate practices in Sri Lanka and beyond with its diversified business portfolio in over 10 countries.
+
+...
+
+[Data](articles/daf9415c.json)
 
 ---
 
@@ -125,6 +171,8 @@ Sri Lanka Air Force Commander Air Marshal Udeni Rajapaksa said the gift from Aus
 ...
 
 [Data](articles/4373a062.json)
+
+[Extended Data](ext_articles/4373a062.ext.json)
 
 ---
 
@@ -293,6 +341,34 @@ After examining the full advances of the economy and financial structures, the f
 [Data](articles/e134fd88.json)
 
 [Extended Data](ext_articles/e134fd88.ext.json)
+
+---
+
+### AIBS affirms leadership in delivery of internationally accredited STEM programs in Sri Lanka
+
+*2024-12-13 03:24:00* · [`islandlk`](http://island.lk/aibs-affirms-leadership-in-delivery-of-internationally-accredited-stem-programs-in-sri-lanka/) · `en`
+
+The Asian Institute of Business & Science (AIBS) founded in 2018 held a celebratory event marking its journey of six years – from humble beginnings to an entity that continues to raise the bar in imparting higher education excellence. Firmly embedded into the realm of worldclass transnational education with the affiliation etched with Edge Hill University, UK in 2022, AIBS currently offers 21 study courses & programs across 14 awarding bodies, universities and higher education institutions to 600 plus learners.
+
+...
+
+[Data](articles/9baf6e76.json)
+
+---
+
+### Empowering the next generation: St. Benedict’s College brings STEM education to life
+
+*2024-12-13 03:14:00* · [`islandlk`](http://island.lk/empowering-the-next-generation-st-benedicts-college-brings-stem-education-to-life/) · `en`
+
+The education landscape in Sri Lanka is about to witness a transformative leap. On January 17, 2025, St. Benedict’s College, Colombo, will launch its much-anticipated STEM education programme—a pioneering initiative designed to shape a generation of forward-thinking innovators.
+
+At a time when the world is racing toward technological advancements, this programme ensures that the students of St. Benedict’s don’t just keep up but lead the way. From building robots to designing drone applications, these young minds will be diving headfirst into the future.
+
+What makes STEM education at St. Benedict’s so revolutionary is its hands-on approach. Instead of limiting students to theory, this programme gives them opportunities to tackle real-world challenges with practical, innovative solutions.
+
+...
+
+[Data](articles/5554e5ae.json)
 
 ---
 
@@ -475,6 +551,20 @@ The United Nations, the United Nations, the United Nations, the United Nations, 
 [Data](articles/16e6b1e1.json)
 
 [Extended Data](ext_articles/16e6b1e1.ext.json)
+
+---
+
+### Ajahn Brahmavamso’s advice for meditation
+
+*2024-12-13 01:00:00* · [`islandlk`](http://island.lk/ajahn-brahmavamsos-advice-for-meditation/) · `en`
+
+Ven Mettavihari, who resides in the Narada Bauddha Dharmayatanaya, formerly the Narada Buddhist Research and Information Centre down Sarana Road, Colombo 7, is the advisor to the Brahm Society of Sri Lanka. They are preparing a visit from Ajahn Brahm to Sri Lanka in May 2025.
+
+Ven Mettavihari sent me a verbatim transcription of a talk given by Ven Brahmavamso. Impressed and finding it useful in my attempts to meditate, I decided to redo the article and share it with others in this season of  Unduvap Poya. I will give Ajahn Brahm’s actual words within speech punctuation, attempting to retain the ‘flavour’ of his style of preaching. I may not succeed in this but his messages will be conveyed.
+
+...
+
+[Data](articles/02c7ed66.json)
 
 ---
 
@@ -2227,155 +2317,5 @@ Emergency Death and Post Post Mortelination were to be held at the Moneragala di
 [Data](articles/f424edf3.json)
 
 [Extended Data](ext_articles/f424edf3.ext.json)
-
----
-
-### Why was Faizer Mustafa chosen?
-
-*2024-12-12 14:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைசர்-முஸ்தபா-தெரிவு-செய்யப்பட்டது-ஏன்/175-348632) · `ta`
-
-Faizer Mustafa chosen as National List MP due to unanimous decision by National Democratic Front political council, surpassing other candidates including Kanchana Wijesekera and Dinesh Gunawardena.
-
-🟩
-
-Although party leader Ranil Wickremesinghe has recognized the name of former minister Kanjana Wijesekera, the National Democratic Front report states that the name of former Minister Faizer Mustafa has been elected as the National List MP of the National Democratic Front.
-
-In a statement issued by the NDF Secretary, which clarify the resolution behind Mustafa's candidature, the name of Kanchana Wijesekera's name was proposed with the signature of 18 coalition members and Wickremesinghe.
-
-At the same time, the Secretary of the National Democratic Front said that another proposal was put forward by Faizer Mustafa.
-
-Following this, the name of former Prime Minister Dinesh Gunawardena had been proposed and Gunawardena had made an alternative demand for former minister Trun Ales.
-
-The NDF secretary said that the party had decided to convene its political council, considering various nominations and decided to choose a majority unanimous name instead of a coalition -based consensus.
-
-...
-
-[Data](articles/6be0c855.json)
-
-[Extended Data](ext_articles/6be0c855.ext.json)
-
----
-
-### The decision to take the government if he comes to a no-confidenceability against speaker
-
-*2024-12-12 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204303) · `si`
-
-Namal Karunaratne suggests caution if considering no-confidence motion against Speaker Asoka Ranwala. He emphasizes Parliament's two-thirds majority but advises addressing Speaker's declaration separately before taking action.
-
-🟩
-
-Deputy Deputy Minister of Agriculture Namal Karunaratne says that if it comes to Parliament against Mr. Speaker Asoka Ranwala, it should be thought to think twice.
-
-"We have two-thirds power in Parliament. Therefore, there should be a no-confidently-hungry bodies.. That is to bring. Therefore, Parliament has no confidence in Parliament against the Speaker but there is no problem. Let's see with the Speaker's Declaration. We don't want to answer this time. Let's talk that separately. "
-
-◼️
-
-[Data](articles/d27ccc74.json)
-
-[Extended Data](ext_articles/d27ccc74.ext.json)
-
----
-
-### Elephant
-
-*2024-12-12 14:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானைக்கு-வாழைப்பழம்-கொடுத்த-பெண்-பலி/175-348631) · `ta`
-
-A tragic accident occurred on the Budhala Kadirgamam road. A woman was killed when a wild elephant overturned her lorry while searching for food. The victim, KG Gerasuthi (66), was traveling with a group to Kadirgama pilgrimage. An autopsy was conducted at Moneragala District General Hospital.
-
-🟩
-
-Gonakanara police said that a lorry that was traveling in Kadirgamam on the Budhala Kadirgamam road belonging to the Konakanara police division was crushed by a woman who was caught in the lorry.
-
-The deceased is KG Gerasuthi (66), the mother of six children from the Mudukunda fishing village.
-
-He was standing on a wild elephant when he was traveling to the Kadirgama pilgrimage in a lorry with a group of village.. .
-
-Following the banana comb, the wild elephant searched more food in the lorry. Due to the lack of foods, he flipped the lorry with his thumb.
-
-The woman, who was sitting in the seat, died after being admitted to the Puttala Divisional Hospital with serious injuries.
-
-An autopsy and autopsy on the death of the deceased was held at the Moneragala District General Hospital.
-
-◼️
-
-[Data](articles/dd020ce6.json)
-
-[Extended Data](ext_articles/dd020ce6.ext.json)
-
----
-
-### Who attacked the police in the demonstration?
-
-*2024-12-12 14:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-பொலிஸாரைத்-தாக்கியது-யார்/175-348629) · `ta`
-
-Military intelligence officer suspected in police attack during demonstration in Sri Lanka. Investigations ongoing despite conflicting reports.
-
-🟩
-
-The Sri Lanka Police Special Investigation (SIU) has launched investigations into reports that a military intelligence officer is responsible for the injuries to police officers during a demonstration outside the Battaramulla Isrubhaya building.
-
-On December 2, when school development officers staged a demonstration demanding a permanent teacher appointment, the incident took place.
-
-However, some media outlets have reported that the Talangama police have informed the Kaduwela Magistrate that only a military intelligence officer was responsible for the injuries.
-
-However, the police have made it clear that no evidence of the military intelligence officer involved in the attack has been revealed in their investigation.
-
-Following these contradictory reports, the Inspector General of Police (IGP) has instructed SIU to investigate whether the police officers appeared in court were present in the incident.
-
-◼️
-
-[Data](articles/80db5473.json)
-
-[Extended Data](ext_articles/80db5473.ext.json)
-
----
-
-### Sri Lanka’s All Share Price Index hits 14,000 mark
-
-*2024-12-12 14:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-all-share-price-index-hits-14000-mark-193881/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Change All Share Price Index (ASPI) hit a record high today breaching the 14,000 mark.
-
-Market participants have said that local high networth individuals and institutions were taking positions in anticipation of company profiles improving.
-
-Investor interest in banking stocks led the charge originally amidst expectations of the successful completion of the international sovereign bond restructuring.
-
-Then interest was seen in companies with exposure to the automotive industry on the anticipated lifting of the vehicle import ban. Diversified financials saw stock prices rising.
-
-Tourism and construction industries have also attracted investor interest amidst promising tourist arrivals and increasing projects respectively. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/301cd860.json)
-
-[Extended Data](ext_articles/301cd860.ext.json)
-
----
-
-### Beginning of a program of contraception for monkeys
-
-*2024-12-12 14:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளுக்கு-கருத்தடை-செய்யும்-வேலைத்திட்டம்-ஆரம்பம்/175-348628) · `ta`
-
-Contraception program for monkeys launched in Matale to combat crop destruction. Ministry allocates Rs. 4.5 million. Monkeys contracted at Wildlife Research Center, then released back into forest. Minister addresses environmental concerns while prioritizing farmers' livelihoods.
-
-🟩
-
-The pioneer program of contraception for the monkeys in an effort to address crop destruction begins today in Matale.
-
-The Ministry of Agriculture has received Rs.. 4.5 million has been allocated.
-
-The monkeys are taken to the Wildlife Research and Training Center in Kiridale, where they are contracted and then re -left in the forest.
-
-Meanwhile, the Minister of Agriculture, KD Lalkanta, explained in a recent comment in Parliament on the monkeys that destroy crops, said he had only highlighted the need to control the threat.
-
-The Minister said that environmental activists are concerned about the killing of monkeys and that it is the only purpose to help the livelihood of the peasantry.
-
-“I think it is good to be involved in this discussion of environmentalists. I intended to raise awareness across the country in this regard. The intervention of various parties is currently achieved.
-
-◼️
-
-[Data](articles/306aed29.json)
-
-[Extended Data](ext_articles/306aed29.ext.json)
 
 ---

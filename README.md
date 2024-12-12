@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 05:13:20**
+As of **2024-12-13 05:01:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,861 (99.9%) of 59,901 articles have been extended.
+59,859 (99.9%) of 59,901 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,8 +44,6 @@ SLPP General Secretary Sagara Kariyawasam yesterday announced the party’s inte
 
 [Data](articles/df3aebdf.json)
 
-[Extended Data](ext_articles/df3aebdf.ext.json)
-
 ---
 
 ### SLFP to part ways with NDF
@@ -61,8 +59,6 @@ Alagiyawanna dismissed allegations of conspiracy surrounding the appointment by 
 ...
 
 [Data](articles/56e9d935.json)
-
-[Extended Data](ext_articles/56e9d935.ext.json)
 
 ---
 

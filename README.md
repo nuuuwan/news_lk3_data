@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 05:26:36**
+As of **2024-12-12 05:51:34**
 
 ## Newspaper Stats
 
-*Scraped **59,696** Articles*
+*Scraped **59,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 448
 colombotelegraphcom | 606
 bbccomsinhala | 623
-islandlk | 3,595
+islandlk | 3,608
 economynextcom | 3,633
-dailyftlk | 4,117
+dailyftlk | 4,121
 dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
@@ -26,11 +26,79 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,693 (100.0%) of 59,696 articles have been extended.
+59,695 (100.0%) of 59,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### Anomi Wanigasekera appointed to Dipped Products Board
+
+*2024-12-12 05:46:42* · [`dailyftlk`](https://www.ft.lk/business/Anomi-Wanigasekera-appointed-to-Dipped-Products-Board/34-770412) · `en`
+
+Anomi Wanigasekera has been appointed to the Board of Dipped Products PLC as an Independent Non-Executive Director.
+
+She will also serve as a member of the Audit Committee and the Related Party Transactions Review Committee.
+
+Wanigasekera is a Partner at Julius & Creasy, and has a wealth of experience of over 40 years as a commercial lawyer. She heads the Intellectual Property Division of the firm.
+
+She holds an LLM degree from the University of Wales and has obtained post graduate diplomas in Intellectual Property Law, International Trade Law, Banking, and Insurance Law from the Institute of Advanced Legal Studies of the Incorporated Council of Legal Education. Wanigasekera is a Life Member of the Bar Association of Sri Lanka as well as the Law Society of Sri Lanka.
+
+She serves as an Independent Non-Executive Director on the Boards of Haycarb PLC, and Hayleys Leisure PLC.
+
+...
+
+[Data](articles/e95acdeb.json)
+
+---
+
+### Dr. Ravi Fernando  appointed to Elpitiya  Plantations Board
+
+*2024-12-12 05:45:40* · [`dailyftlk`](https://www.ft.lk/business/Dr-Ravi-Fernando-appointed-to-Elpitiya-Plantations-Board/34-770411) · `en`
+
+Dr. Ravi A. Fernando has been appointed to the Board of Elpitiya Plantations PLC as an Independent Non-Executive Director from 1 January 2025.
+
+Fernando is an Alumni of the University of Cambridge, having completed both a Postgraduate Certificate in Sustainable Business in 2008 and Master of Studies in Sustainability Leadership in 2014. He has an MBA from the University of Colombo.
+
+He holds a Doctorate in Business Administration from the European Business School, completed in 2016. He completed the Advanced Management Program at the INSEAD Business School (France) and is an Executive in Residence since 2010. He is a Member of the Board of Study at the Postgraduate Institute of Management (PIM) since March 2023 and is a Visiting Faculty Member. In April 2020, he created the ‘21st Century Board Leadership Model-MasterClass’ for the Institute of Directors of Luxembourg.
+
+...
+
+[Data](articles/12e750e4.json)
+
+---
+
+### Ride the wave: why the stock market is worth your time
+
+*2024-12-12 05:23:11* · [`dailyftlk`](https://www.ft.lk/columns/Ride-the-wave-why-the-stock-market-is-worth-your-time/4-770405) · `en`
+
+While investing in the share market carries risk, there are clear long-term rewards for those who enter it with discipline
+
+Sri Lanka’s equity market as measured by the Colombo Stock Exchange is hitting new highs, in a wave of political and economic optimism. Buoyed by expectations of stronger than expected economic growth and fuelled by lower interest rates, the benchmark stock market index the ASPI (All Share Price Index) sparkles this December like a Christmas ornament. Market liquidity which appears on the way up and hopes of capital gains tempt individual investors to increase their risk tolerance and test the market’s waters. Despite Sri Lankan investors’ usual intolerance of investments without the assurance of expected future cash flows, the stock market beckons.
+
+...
+
+[Data](articles/6540ac36.json)
+
+---
+
+### Challenges and opportunities in financial sector
+
+*2024-12-12 05:19:40* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-and-opportunities-in-financial-sector/4-770404) · `en`
+
+Union Bank and Employers Federation of Ceylon Chairman Dinesh Weerakkody shared his insights on the broader financial sector, emphasising the transformative potential of technology in shaping a customer-centric and efficient banking model. He also addressed some of the critical talent challenge faced by employers today. Below are the key highlights from his conversation:
+
+Q: You have chaired three banks in Sri Lanka and served on other banking boards. How does that feel?
+
+A: It has been an honour and privilege to chair two of Sri Lanka’s largest public quoted banks HNB and Commercial Bank and now Union Bank. Each experience has been unique though challenging no doubt but rewarding, offering valuable insights into the evolving dynamics of the banking sector.
+
+Q: How does Union Bank’s product range and services compare to competitors?
+
+...
+
+[Data](articles/1c135292.json)
+
+---
 
 ### NPP’s fabricated stories risk turning into political joke: Charitha
 
@@ -104,6 +172,8 @@ The discussion centred on promoting national unity and reconciliation in the cou
 
 [Data](articles/6a2e2129.json)
 
+[Extended Data](ext_articles/6a2e2129.ext.json)
+
 ---
 
 ### COYLE launches ‘I AM the Sri Lankan Entrepreneur’ awards scheme
@@ -119,6 +189,8 @@ Taking place on 5 March 2025, this landmark event will honour those whose bold v
 ...
 
 [Data](articles/743e39d0.json)
+
+[Extended Data](ext_articles/743e39d0.ext.json)
 
 ---
 
@@ -165,6 +237,106 @@ Minister of Rural Development, Social Security and Social Reinforcement. (A)
 ---
 
 ### 2024-12-11 (Wednesday)
+
+### Beat the Heat…
+
+*2024-12-11 23:21:00* · [`islandlk`](http://island.lk/beat-the-heat/) · `en`
+
+Phew! It’s terribly hot when you venture out and your skin is at an exposed danger of the ultraviolet rays.
+
+Yes, we can’t stop ourselves from stepping out, but you can protect yourself from the harmful rays.
+
+Application of fresh aloe vera gel to the skin helps to soothe and heal sunburn. Aloe vera contains zinc, which is actually anti-inflammatory.
+
+Papaya pulp can be applied on the skin, like a mask…washing it off after 20 minutes. Papaya contains enzymes and helps to remove dead skin cells. Add curd or lemon juice to the papaya pulp to remove tan. Fruits like banana, apple, papaya, orange can be mixed together and applied on the face. Keep it on for 20 to 30 minutes. Papaya helps to cleanse dead skin cells. Banana tightens the skin. Apple contains pectin and also tones the skin. Orange is rich in Vitamin C. It restores the normal acid-alkaline balance.
+
+...
+
+[Data](articles/944ac093.json)
+
+---
+
+### Singer Sri Lanka wins Retail Sector Award at Best Corporate Citizen Sustainability Awards 2024
+
+*2024-12-11 23:09:00* · [`islandlk`](http://island.lk/singer-sri-lanka-wins-retail-sector-award-at-best-corporate-citizen-sustainability-awards-2024/) · `en`
+
+Singer (Sri Lanka) PLC, a trailblazer in the retail sector, has once again been recognized for its steadfast dedication to sustainability, earning the Retail Sector Award at the Best Corporate Citizen Sustainability Awards 2024 for the second consecutive year. This accolade underscores Singer’s leadership in embedding Environmental, Social, and Governance (ESG) principles into its corporate strategy, cementing its position as a pioneer in sustainable business practices.
+
+...
+
+[Data](articles/27b7e88b.json)
+
+---
+
+### 103 young minds from Sri Lanka are ready and waiting to rock UCMAS International Competition in New Delhi
+
+*2024-12-11 23:08:00* · [`islandlk`](http://island.lk/103-young-minds-from-sri-lanka-are-ready-and-waiting-to-rock-ucmas-international-competition-in-new-delhi/) · `en`
+
+103 young talents are excited to represent Sri Lanka at the UCMAS International Competition 2024,
+
+which is to be held on 14th December 2024, at the New Delhi University, Multi Purpose Hall, North Campus, Delhi University, New Delhi 110007.
+
+This is by far the biggest Abacus based Mental Arithmetic Competition in the World, held annually. Whilst children from more than 80 countries around the world are expected to participate in this competition, Sri Lanka is proud of being represented by the highest number of Overseas Children at this Competition. This is a historic victory and a great honour to our Nation.
+
+...
+
+[Data](articles/3a9c78a7.json)
+
+---
+
+### SUCCEED DESIGN collaborates with SLT-SERVICES to launch new website
+
+*2024-12-11 23:07:00* · [`islandlk`](http://island.lk/succeed-design-collaborates-with-slt-services-to-launch-new-website/) · `en`
+
+SUCCEED DESIGN, a leading interior design firm known for its innovative and client-focused approach, has announced a partnership with SLT-SERVICES, a renowned digital services provider, to launch a new website. This collaboration aims to create a website that mirrors SUCCEED DESIGN’s dedication to creativity, innovation, and customer satisfaction, enhancing its digital presence and providing an engaging user experience.
+
+With a strong national and international reputation, SUCCEED DESIGN specializes in creating sophisticated, bespoke interior spaces that reflect the unique personalities or brands of their clients. The new website will showcase their extensive portfolio and services, offering clients an immersive experience into the company’s design philosophy and craftsmanship.
+
+...
+
+[Data](articles/f1e05427.json)
+
+---
+
+### Wurth Lanka supports automotive industry with expert training
+
+*2024-12-11 23:06:00* · [`islandlk`](http://island.lk/wurth-lanka-supports-automotive-industry-with-expert-training/) · `en`
+
+Wurth Lanka (Pvt) Ltd conducted a training programme titled “Windscreen Bonding and Body Sealant – Theory and Practice” at its Makumbura head office auditorium recently to enhance the skills of Sri Lanka’s automotive industry. The training programme, conducted by Michael Dominik, Head of Technical and Sales Trainer of the Würth Group, Germany, provided a novel experience to the participants. Over 100 participants representing most leading car agents, body shop managers, and senior technical staff in Sri Lanka received certificates at the conclusion of the training programme which was followed by a meetup with the management of the car dealers.
+
+...
+
+[Data](articles/50bdaf10.json)
+
+---
+
+### Creative Software makes Sri Lanka the ideal tech partner
+
+*2024-12-11 23:04:00* · [`islandlk`](http://island.lk/creative-software-makes-sri-lanka-the-ideal-tech-partner/) · `en`
+
+Creative Software, a leading software solutions provider, proudly celebrates 25 years of delivering innovative IT services and shaping Sri Lanka’s tech landscape. With a strong presence in Scandinavia and clients across four continents – South Asia, Europe, North America, and Australia, the company has built a reputation as a trusted partner for businesses worldwide.
+
+To mark this remarkable milestone, Creative Software hosted a grand celebration-themed Mystic Masks, a black-tie masquerade gala at the ITC Ratnadipa Hotel in Colombo. The event brought together employees, their families, and clients, including those who travelled from their home countries to Sri Lanka to celebrate with their teams and close collaborators who have been instrumental in the company’s journey.
+
+...
+
+[Data](articles/3897cb63.json)
+
+---
+
+### Hopes of successful debt restructuring bring share market stability
+
+*2024-12-11 23:03:00* · [`islandlk`](http://island.lk/hopes-of-successful-debt-restructuring-bring-share-market-stability/) · `en`
+
+The stock market bounced back yesterday and is stable as investors are hoping for a positive response on the debt restructuring front from IMF officials in New York over the weekend.
+
+The market performance was positive and stable for the 12th consecutive day. Due to that, both indices moved upwards. The All Share Price Index went up by 108.6 points while S and P SL20 rose by 41.5 points. Turnover stood at Rs 6 billion with nine crossings.
+
+...
+
+[Data](articles/5a9f18e4.json)
+
+---
 
 ### Welikada jailers threatened with jewelery
 
@@ -2263,295 +2435,5 @@ The facility will finance post-completion activities of ADB-financed projects, f
 [Data](articles/e5bf2d0d.json)
 
 [Extended Data](ext_articles/e5bf2d0d.ext.json)
-
----
-
-### Niroshan Dickwella’s ban reduced, eligible to play cricket again
-
-*2024-12-11 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104162/niroshan-dickwellas-ban-reduced-eligible-to-play-cricket-again-) · `en`
-
-Sri Lankan cricketer Niroshan Dickwella’s ban from playing any form of cricket has been significantly reduced from three years to three months.
-
-Accordingly, this makes him eligible to play all forms of cricket effective from today (11).
-
-After the consideration of an appeal made by Dickwella, the appeal panel has declared that as per the medical evidence it is clearly established that the player has consumed a substance of abuse out-of-competition and that it is unrelated to sports performance.
-
-Accordingly, the panel has stated that therefore, they are of the view that the player Niroshan Dickwella’s 3 years ineligibility period imposed by the disciplinary panel, should be reduced to 3 months ineligibility period, commencing from 13 August 2024.
-
-Furthermore, the panel has mentioned that this decision balances the player’s right to fair consideration with the principles of anti-doping, ensuring fairness while maintaining the integrity of sport.
-
-...
-
-[Data](articles/96296e77.json)
-
-[Extended Data](ext_articles/96296e77.ext.json)
-
----
-
-### Decision regarding Dickwella's cricket ban
-
-*2024-12-11 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204263) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dickwella's 3-year cricket ban reduced to 3 months. Eligible to play all cricket from today. Accused of receiving banned stimulants during Lanka Premier League. SLADA investigation ongoing. Dickwella appeals through lawyers Ranil Premathilaka and Suminda Perera.
-
-🟩
-
-Sri Lanka's cricketer's cricketer has reduced cricket ban for three years to 3 months.
-
-Accordingly, he is eligible to play all kinds of cricket from today (11).
-
-He was accused of receiving banned stimulants at the conclusion of the Lanka Premier League.
-
-The authorities have taken steps to ban all cricket matches until the investigation made by the Sri Lanka banned stimulation repressive agency (SLADA).
-
-Dikwella appealed to his lawyers against the ban.
-
-Senior Attorney-at-Law Ranil Prematthilaka representing the Dickwella, Senior Attorney at Law Suminda Perera.
-
-◼️
-
-[Data](articles/a07eaf87.json)
-
-[Extended Data](ext_articles/a07eaf87.ext.json)
-
----
-
-### Petitions pertaining to scholarship examination is postponed
-
-*2024-12-11 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204261) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Supreme Court postpones scholarship exam. New date set for January 16. Petition hearing adjourned. Students and parents present. Attorney General informed about three specific issues.
-
-🟩
-
-The Supreme Court today (Supreme Court) prescribed the examination until the 16th of the first question paper of the Year 5 scholarship examination.
-
-These petitions will today (11). The panel of judges called on Turai Raja and Shiran Gunaratne.
-
-The Bench ordered that the petition he will be adjourned on the 16th of this month.
-
-The students and their parents were presented by the students who were contesting the examination.
-
-When the petition was taken out recently, the Attorney General was also recommended by the Cabinet of the Cabinet of the Cabinet of the Cabinet of the three questions that have been exited.
-
-The Attorney General has also been informed by the Cabinet of Ministers for the three student students who have come forward for the three issues that have been exited.
-
-◼️
-
-[Data](articles/0fd637e1.json)
-
-[Extended Data](ext_articles/0fd637e1.ext.json)
-
----
-
-### The cylinder is on fire from national lists
-
-*2024-12-11 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204262) · `si`
-
-Cylinder fire: National List dispute in New Democratic Front. SLFP proposes Faizer Mustapha. Two national lists won. Ravi Karunanayake appointment considered.
-
-🟩
-
-The party has criso in the party regarding the name of the National Listing Commission in the New Democratic Front.
-
-The partners partners say that they have not been discussed with them.
-
-Former Parliamentarian Ramesh Pathirana, "Ada Derana" stated that everyone's agreement was held to be the agreement to be appointed as the national list.
-
-However, the New Democratic Front Partner Partner (SLFP), the Sri Lanka Freedom Party (SLFP), proposed the name of lawyer Faizer Mustapha.
-
-The new Democratic Front contesting the margin of the Gas Cylinder, according to the results of the recent election, won two national lists.
-
-The party secretary was taken to appoint Ravi Karunanayake for a national listing of the national list.
-
-President's lawyer Faizer Mustafa had previously served as a Member of Parliament and he had several ministers.
-
-◼️
-
-[Data](articles/ece49173.json)
-
-[Extended Data](ext_articles/ece49173.ext.json)
-
----
-
-### Sivajilingam is allowed in intensive care unit
-
-*2024-12-11 12:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீவிர-சிகிச்சைப்-பிரிவில்-சிவாஜிலிங்கம்-அனுமதி/175-348580) · `ta`
-
-Sivajilingam, former MP and Tamil National Party leader, hospitalized in ICU after sudden illness in Colombo.
-
-🟩
-
-Former Member of Parliament. K. Relatives said that Sivajilingam has been admitted to the intensive care unit at a private hospital in Colombo.
-
-Sivajilingam, the general secretary of the Tamil National Party, was suddenly affected by his visit to Colombo.
-
-It is noteworthy that it was admitted to a private hospital in Colombo and is being treated in the intensive care unit.
-
-◼️
-
-[Data](articles/29224e1f.json)
-
-[Extended Data](ext_articles/29224e1f.ext.json)
-
----
-
-### Attempt to commit suicide
-
-*2024-12-11 12:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலைக்கு-முயற்சி/50-348578) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Defense Minister Kim Yang Huen, arrested for recommending South Korea's Emergency Military Act, attempted suicide in jail. Guards intervened after he tried to take his own life. This incident occurred amid controversy over the Act's implementation and political tensions between ruling and opposition parties.
-
-🟩
-
-Former Defense Minister Kim Yang Huen, who has been arrested for recommending the Emergency Military Act in South Korea, has tried to make his life in the jail.
-
-With the recently enacted Emergency Military Act in South Korea. Former security Sanchak Kim Yang Huen was arrested on Sunday on charges of making the recommendation to President Yun Suk Iol.
-
-It has been reported in the media that Kim Yang Huoon was present at the court where the Emergency military regime was implemented.
-
-South Korean officer Shin Yong Hey Hey Ha Ki Ha Ki said on Wednesday that the guards stopped Kim Yang, who tried to live in jail.
-
-This information has been stirred by Justice Minister Park Sung J, who has confirmed the South Korea parliamentary meeting.
-
-The ruling party boycotted the referendum on Saturday against the dismissal of the Opposition against Yun Sukh Iol in Parliament.
-
-The main opposition Democratic Party has stated that it will be re -launched in Parliament on Saturday.
-
-◼️
-
-[Data](articles/6e951ce4.json)
-
-[Extended Data](ext_articles/6e951ce4.ext.json)
-
----
-
-### Former minister suicide attempt
-
-*2024-12-11 12:06:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முன்னாள்-அமைச்சர்-தற்கொலை-முயற்சி/50-348578) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Defense Minister Kim Yang Hune attempts suicide in jail after recommending South Korea's Emergency Military Act. He was arrested for allegedly influencing President Yoon Suk Yeol. Guards stopped him, sparking controversy.
-
-🟩
-
-Former Defense Minister Kim Yang Hune, who has been arrested for recommending the Emergency Military Act in South Korea, has tried to make his life in the jail.
-
-With the recently enacted Emergency Military Act in South Korea. Former security Sanchak Kim Yang Huen was arrested on Sunday for allegedly making the recommendation to President Yun Suk Iol.
-
-It has been reported in the media that Kim Yang Huoon was present at the court where the Emergency military regime was implemented.
-
-South Korean officer Shin Yong Hey Hey Ha Ki Ha Ki said on Wednesday that the guards stopped Kim Yang, who tried to live in jail.
-
-This information has been stirred by Justice Minister Park Sung J, who has confirmed the South Korea parliamentary meeting.
-
-The ruling party boycotted the referendum on Saturday against the dismissal of the Opposition against Yun Sukh Iol in Parliament.
-
-The main opposition Democratic Party has stated that it will be re -launched in Parliament on Saturday.
-
-◼️
-
-[Data](articles/7bc3ce21.json)
-
-[Extended Data](ext_articles/7bc3ce21.ext.json)
-
----
-
-### Two foreign citizens were trapped in the wave
-
-*2024-12-11 12:05:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-பிரஜைகள்-இருவர்-அலையில்-சிக்கினர்/175-348577) · `ta`
-
-Two foreigners (Romanian man, Chinese woman) swept away while swimming near Ahungalla. Police rescued them and provided immediate care.
-
-🟩
-
-A foreign citizen and a foreign woman who went to the sea in the Ahungalla police division have been swept away in the sea.
-
-However, the policemen who were on duty at the site rescued the foreign pair and immediately treated.
-
-A foreigner who survived the accident is a 29 -year -old Romanian citizen and a woman is a 30 -year -old Chinese citizen.
-
-◼️
-
-[Data](articles/e8abd87e.json)
-
-[Extended Data](ext_articles/e8abd87e.ext.json)
-
----
-
-### Unidentified fever spreads in Jaffna
-
-*2024-12-11 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104161/unidentified-fever-spreads-in-jaffna) · `en`
-
-The Epidemiology Unit of the Ministry of Health says that an unidentified fever is spreading in the Jaffna District, raising concerns among health authorities.
-
-The health authorities have launched investigations to determine the nature of the disease, with preliminary tests underway to assess whether it is related to leptospirosis, commonly known as ‘rat fever’.
-
-Dr. Kumudu Weerakoon of the Epidemiology Unit addressed the issue at a media briefing held at the Health Promotion Bureau today (11). She explained that patients in the affected areas are presenting with fever and respiratory issues.
-
-Health officials are collecting samples from these individuals to confirm the exact cause of the illness, Dr. Weerakoon added.
-
-...
-
-[Data](articles/4d2e1621.json)
-
-[Extended Data](ext_articles/4d2e1621.ext.json)
-
----
-
-### Presidential discussion
-
-*2024-12-11 11:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-கலந்துரையாடல்/175-348575) · `ta`
-
-Summarized: Presidential discussion on agriculture ministry budget 2025 expenditure topics. President Anura Kumara Dissanayake led preliminary discussions. Debate followed involving Minister Wickremesinghe and finance officials.
-
-🟩
-
-A discussion on the expenditure topics of the Ministry of Agriculture, Livestock, Lands and Irrigation was held on Tuesday (10).
-
-Preliminary discussions to prepare the budget for 2025 have been launched at the Ministry level headed by President Anura Kumara Dissanayake.
-
-This was followed by a debate on budget proposals on the expenditure topics of the Ministry of Agriculture, Livestock, Land and Irrigation.
-
-President of the President, Dr. Nandika Sanath Kumanayake, Secretary to the Ministry of Finance Mahinda Siriwardena. Wickremesinghe, Secretary to the Ministry of Agriculture, Livestock, Land and Irrigation and Senior Officers of the Ministry.
-
-◼️
-
-[Data](articles/8ab6da58.json)
-
-[Extended Data](ext_articles/8ab6da58.ext.json)
-
----
-
-### Former MP Sivajilingam hospitalised
-
-*2024-12-11 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104160/former-mp-sivajilingam-hospitalised) · `en`
-
-Former Member of Parliament M.K. Sivajilingam has been admitted to the Intensive Care Unit (ICU) of a private hospital in Colombo due to an illness, according to his relatives.
-
-Sivajilingam, known as a maverick in Sri Lankan Tamil politics for many years, was elected to Parliament in 2004, representing the Tamil National Alliance (TNA).
-
-Recently, he was at the center of national attention following a controversial act of cutting a cake during the ‘Mahaviru’ (Maaveerar Naal) commemorations in the Northern Province.
-
-◼️
-
-[Data](articles/4f05e4f1.json)
-
-[Extended Data](ext_articles/4f05e4f1.ext.json)
 
 ---

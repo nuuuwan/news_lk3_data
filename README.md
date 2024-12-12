@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 21:02:28**
+As of **2024-12-12 21:15:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,799 (99.9%) of 59,845 articles have been extended.
+59,800 (99.9%) of 59,845 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,8 @@ The Liberal National Party (LNP) - which won the state election in October - mad
 ...
 
 [Data](articles/2031e26e.json)
+
+[Extended Data](ext_articles/2031e26e.ext.json)
 
 ---
 

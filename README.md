@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 11:26:41**
+As of **2024-12-12 11:43:47**
 
 ## Newspaper Stats
 
-*Scraped **59,750** Articles*
+*Scraped **59,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,100 @@ dailymirrorlk | 4,733
 adalk | 5,674
 adaderanalk | 7,274
 tamilmirrorlk | 8,536
-virakesarilk | 9,797
-adaderanasinhalalk | 10,326
+virakesarilk | 9,801
+adaderanasinhalalk | 10,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,718 (99.9%) of 59,750 articles have been extended.
+59,721 (99.9%) of 59,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### 140 killed in Congo
+
+*2024-12-12 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204298) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Congo: 140 deaths reported over two weeks due to unknown virus. Outbreak continues to spread concern among local authorities and health experts. Investigations underway to identify cause and contain the situation.
+
+🟩
+
+In two weeks, 143 people have been killed in two weeks from a virus that is not known.
+
+◼️
+
+[Data](articles/6744d304.json)
+
+[Extended Data](ext_articles/6744d304.ext.json)
+
+---
+
+### DPMC to introduce brand new Bajaj Pulsar N160
+
+*2024-12-12 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201064) · `ta`
+
+DPMC launches Bajaj Pulsar N160, first new bike under LVA scheme. Features dual-channel ABS and modern aesthetics. Available at 7 DPMC regional offices nationwide.
+
+🟩
+
+David Peiris Motor Company (DPMC) proudly announces the launch of the Bajaj Pulsar N160 motorcycle, the third motorcycle model manufactured under the Domestic Value Address Scheme (LVA).
+
+Pulsar N160 is the first brand new spots motorcycle to be introduced under this category when import controls in Sri Lanka have been in effect since 2020. The DPMC expresses gratitude to the Ministry of Industry for the project, which is being carried out by the vehicle production of the Value Adding Program under the standard operational procedure.
+
+DPMC, the leading in manufacture of motorcycles under the Homeland Value Adding Scheme, has previously launched Bajaj CT 100 and Discover 125 motorcycles.. By supporting the domestic value enrollment program, DPMC not only provides high quality motorcycles to consumers in Sri Lanka but also promotes domestic industrial growth.
+
+...
+
+[Data](articles/951df359.json)
+
+[Extended Data](ext_articles/951df359.ext.json)
+
+---
+
+### Azad Salley a verdict of illegal
+
+*2024-12-12 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204297) · `si`
+
+Supreme Court rules Azad Salley's governorship illegal. Orders Rs. 75,000 compensation against Sarath Weerasekera and CID Director.
+
+🟩
+
+The Supreme Court has decided that former Governor Governor Governor of the Western Province Asad Salley is illegal.
+
+The Supreme Court ordered the respondents to pay a compensation of Rs. 75,000.
+
+Former PEFA Defense Minister Sarath Weerasekera, the Director of the Criminal Investigation Department (CID) had been named as respondents.
+
+◼️
+
+[Data](articles/23ea5bbd.json)
+
+[Extended Data](ext_articles/23ea5bbd.ext.json)
+
+---
+
+### கல்வித் திட்டங்களில் முதலீடுசெய்தல் : தேசத்தின் குழந்தைகளின் எதிர்காலத்தைப் பாதுகாத்தல்
+
+*2024-12-12 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201062) · `ta`
+
+ஒருவலுவான கல்வி அடித்தளமானது , நமதுகுழந்தைகளின் வளமான எதிர்காலத்திற்குநாம் செய்யக்கூடியமிகசக்திவாய்ந்தமுதலீடுகளில் ஒன்றாகும். 2023 ஆம் ஆண்டில், 9,103 அரசுப் பள்ளிகளில் 3.88 மில்லியனுக்கும் அதிகமானகுழந்தைகள் சேர்ந்ததாகவும், 137,869 க்கும் அதிகமானோர் தனியார் பாடசாலைகளில் படித்ததாகவும் மக்கள் தொகைக் கணக்கெடுப்பு மற்றும் புள்ளியியல் துறையின் தரவுகள் தெரிவிக்கின்றன.
+
+6 முதல் 18 வயதிற்குட்பட்ட இந்த இளம் மாணவ,மாணவிகள் நமதுநாட்டின் எதிர்காலத்தின் வாக்குறுதியை பிரதிநிதித்துவப் படுத்துகின்றனர்,மேலும் அவர்களின் கல்விப் பயணத்தைஆதரிப்பதுபிரகாசமானமற்றும் வளமானநாட்டைக் கட்டியெழுப்புவதற்குமுக்கியமானது.
+
+உள்நாட்டிலும்,வெளிநாட்டிலும்கல்விச் செலவுகள் அதிகரித்துவருகின்றமை ,ஆரம்ப காலநிதித் திட்டமிடலை முக்கியமானதாகஆக்குகிறது.உள்நாட்டுப்பல்கலைக்கழகங்களுக்குவரையறுக்கப்பட்டுள்ளஅனுமதிவாய்ப்புகளும்,வெளிநாடுகளில் உயர்கல்வியைத் தொடரும் ஆர்வம் போன்றவை திட்டமிட்ட சேமிப்பின் அவசியத்தை எடுத்துக்காட்டுகின்றன.
+
+...
+
+[Data](articles/6bcf2e0d.json)
+
+---
 
 ### முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு குறைப்பு
 
@@ -73,6 +155,38 @@ Sri Lanka Cricket's 'Lanka T10 Super League' cricket tournament will be held for
 [Data](articles/73e2f00a.json)
 
 [Extended Data](ext_articles/73e2f00a.ext.json)
+
+---
+
+### විනිසුරු පත්වීමක් සම්බන්ධයෙන් ඉදිරිපත් කළ FR පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය
+
+*2024-12-12 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204296) · `si`
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකු වශයෙන් පත්කිරීම සඳහා එවක ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත් කළ නිර්දේශයක් ප්‍රතික්ෂේප කිරීමට ආණ්ඩුක්‍රම ව්‍යස්ථාදායක සභාව ගත් තීරණය තුළින් මූලික අයිතිවාසිකම් උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා නීතිඥවරයෙකු විසින් ගොනුකෙරුණු මූලික අයිතිවාසිකම් පෙත්සමක් රුපියල් ලක්ෂ 20ක නඩු ගාස්තුකට යටත්ව නිෂ්ප්‍රභා කිරීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+අදාළ විනිසුරු පත්කිරීම ප්‍රතික්ෂේප කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව ගනු ලැබූ තීරණය තුළින් සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා නීතිඥවරයෙකු වූ එස්.එම්.පතිරත්න මහතා විසින් මෙම පෙත්සම ඉදිරිපත් කළ පෙත්සමක් විභාග කිරීමෙන් අනතුරුව මෙම තීන්දුව ලබා දුන්නේය.
+
+◼️
+
+[Data](articles/905e7f63.json)
+
+---
+
+### மின்கட்டண திருத்தம் தொடர்பான இறுதி தீர்மானம் - மக்களிடம் பொது ஆலோசனைகளை கேட்டல் !
+
+*2024-12-12 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201054) · `ta`
+
+2025 ஜனவரி மாதம் முதல் ஜூன் மாதம் வரையான 6 மாத காலப்பகுதியில் மின்கட்டணத்தை திருத்தம் செய்யக்கூடாது என்று மின்சார சபை முன்வைத்துள்ள முன்மொழிவுகள் தொடர்பில் பொது ஆலோசனைகளை கேட்டல் எதிர்வரும் செவ்வாய்க்கிழமை (17) இடம்பெறும்.
+
+பொதுமக்களிடமிருந்து பெற்றுக் கொள்ளப்படும் ஆலோசனைகள் மற்றும் யோசனைகளை அடிப்படையாகக் கொண்டு மின்கட்டணம் திருத்தம் தொடர்பான இறுதி தீர்மானம் 2025 ஜனவரி 17 ஆம் திகதி அறிவிக்கப்படும் என இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு அறிவித்துள்ளது.
+
+பொது ஆலோசனை கேட்டல் நிகழ்வில் பொதுமக்கள் உட்பட அனைத்து தரப்பினருக்கும், இலங்கை மின்சார சபையால் முன்வைக்கப்பட்ட மின் கட்டண திருத்த முன்மொழிவு மற்றும் இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் ஸ்தீர ஊழியர்களின் பரிசீலனைக்குப் பின் தயாரிக்கப்பட்ட வரைவு எதிர் முன்மொழிவு குறித்து எழுத்து மூலமாகவும், வாய்மொழியாகவும் கருத்துக்கள் மற்றும் ஆலோசனைகளை சமர்ப்பிக்க வாய்ப்பு வழங்கப்படும்.
+
+...
+
+[Data](articles/21ad17da.json)
 
 ---
 
@@ -144,6 +258,28 @@ Police investigations have revealed that the accident occurred when a lorry trav
 
 ---
 
+### චීන ආර්ථික වර්ධන පුරෝකථනය ස්ථාවරව පවත්වා ගන්නා බව ADB කියයි
+
+*2024-12-12 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204295) · `si`
+
+චීන ආර්ථික වර්ධන පුරෝකථනය ස්ථාවරව පවත්වා ගෙන යන බව ආසියානු සංවර්ධන බැංකුව පවසයි.
+
+ආසියානු සංවර්ධන බැංකුව සිය ‘2024 ආසියානු සංවර්ධන දැක්ම’ නමැති වාර්තාව නිකුත් කරමින් මේ බව පෙන්වා දී තිබේ.
+
+ආසියා ශාන්තිකර කලාපයේ සංවර්ධනය වෙමින් පවතින ආර්ථිකයන්හි 2024 වසරේ වර්ධන පුරෝකථනය 5.0%ක සිට 4.9%ක් ලෙස සකස් කර ඇත.
+
+එසේම 2025 වසරේ වර්ධන පුරෝකථනය 4.9%ක සිට 4.8%ක් ලෙස වෙනස් කර තිබේ.
+
+මේ අතර 2024 සහ 2025 වසරවල චීන ආර්ථික වර්ධන පුරෝකථනය පිළිවෙලින් 4.8%ක සහ 4.5%ක පවතින අතර එය පෙර පුරෝකථනය පරිදි සමානව පවත්වා ගෙන යන බව ද මෙහි සඳහන් වේ.
+
+ආසියා ශාන්තිකර කලාපයේ සංවර්ධන ගම්‍යතාව ස්ථාවර වන නමුත්, අමෙරිකානු නව රජයේ ප්‍රතිපත්තිමය අවදානම් එම කලාපයට බලපෑමක් ඇති කරනු ඇති අතර, අමෙරිකානු වෙළෙඳ, මූල්‍ය සහ සංක්‍රමණ ප්‍රතිපත්තිවල වෙනස්කම් එම කලාපයේ සංවර්ධනයට බාධාවක් විය හැකි බව ද එම වාර්තාව මඟින් වැඩිදුරටත් පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/f6cd36e6.json)
+
+---
+
 ### 4/21 order to investigate the case
 
 *2024-12-12 10:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-21-வழக்கை-விசாரிக்க-உத்தரவு/175-348608) · `ta`
@@ -163,6 +299,22 @@ Former police chief Poojitha Jayasundera and former Chief of State Investigation
 [Data](articles/4242f377.json)
 
 [Extended Data](ext_articles/4242f377.ext.json)
+
+---
+
+### වගා හානි සඳහා රුපියල් ලක්ෂයක වන්දියක් ලබාදීමට රජයෙන් තීරණයක්
+
+*2024-12-12 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204293) · `si`
+
+ගොවීන්ට සිදු වූ වගා හානිය වෙනුවෙන් හෙක්ටයාරයක් සඳහා රුපියල් ලක්ෂයක පූර්ණ වන්දි මුදලක් ලබාදීමට අවශ්‍ය පියවර ගන්නා බව කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියාසිටියේ, වගා බිම් සකස්කර ගැනීම සඳහා ගොවිජනතාව වෙත ප්‍රදේශයේ රාජ්‍ය ආයතනයනවල සහාය ලබාගැනීමට ද අවස්ථාව සපයා දී ඇති බවය.
+
+"ආපදාවලට ලක්වූ ගොවිබිම් වගේම පීඩනයට පත්වූ ගොවි පවුල් ප්‍රමාණය පිළිබඳව සියල්ල මේ වනවිට තක්සේරු කරමින් පවතිනවා. ඒ අනුව හානි වුණ වගාබිම්වලට ගොවීන්ට හෙක්ටයාරයක් සඳහා රු ලක්ෂයක පූර්ණ වන්දියක් ලබාදීමට රජය බැඳිලා ඉන්නවා. ඒ යුතුකම වගකීම අපි ආණ්ඩුව විදියට අනිවාර්යෙන්ම ඉෂ්ට කරනවා. අඩිය, අඩි දෙක, අඩි එකහමාර විතර යටට වැලි තට්ටු තට්ටු පිරිලා කුඹුරු යටවෙලා තියෙනවා. ඒ සඳහා මැෂින් උපකාරය ගන්න වෙනවා. අපි දැනුවත් කරා ඒ ඒ ප්‍රදේශවල තියෙන විවිධ රාජ්‍ය ආයතනවල සම්බන්ධීකරණය යටතේ ඒ ගොවිබිම් නැවත යථාතත්ත්වයට පත්කිරීමට කටයුතු කරන්න කියලා."
+
+...
+
+[Data](articles/331f8f1c.json)
 
 ---
 
@@ -187,6 +339,24 @@ The body is currently placed in the Karapitiya Hospital morgue for the post-mort
 [Data](articles/5aa15c77.json)
 
 [Extended Data](ext_articles/5aa15c77.ext.json)
+
+---
+
+### இந்திய இழுவைப் படகுகளின் அத்துமீறல் குறித்து இந்திய உயர்ஸ்தானிகரின் கவனத்திற்கு கொண்டுசெல்லப்பட்டது - ரவிகரன்
+
+*2024-12-12 10:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201051) · `ta`
+
+கடந்த நவம்பர் மாதம் 21ஆம் திகதி இந்திய உயர்ஸ்தானிகருக்கும், இலங்கைத் தமிழரசுக்கட்சி நாடாளுமன்ற உறுப்பினர்களுக்குமிடையே இடம்பெற்ற சந்திப்பின் போது இந்திய இழுவைப்படகுகளின் அத்துமீறல் செயற்பாடுகள் குறித்து தம்மால், இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவின் கவனத்திற்கு கொண்டுசெல்லப்பட்டதாக வன்னிமாவட்ட நாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் தெரிவித்தார்.
+
+அதேவேளை இந்திய உயர்ஸ்தானிகர் இந்த விடயம் குறித்து கவனம் செலுத்துவதாகத் தெரிவித்ததுடன், ஜனவரியில் முல்லைத்தீவிற்கு விஜயம் மேற்கொள்வதாகத் தெரிவித்ததாகவும் நாடாளுமன்ற உறுப்பினர் ரவிகரன் மேலும் தெரிவித்துள்ளார்.
+
+முல்லைத்தீவில் தேசிய மீனவ ஒத்துழைப்பு இயக்கத்தின் ஏற்பாட்டில் இடம்பெற்ற உலக மீனவதின நிகழ்வில் பங்கேற்று கருத்துத் தெரிவிக்கும்போதே நாடாளுமன்ற உறுப்பினர் இத்தகவலைத் தெரிவித்துள்ளார்.
+
+கடந்த நவம்பர்மாதம் 21ஆம் திகதி இலங்கைத் தமிழரசுக்கட்சிப் பாராளுமன்ற உறுப்பினர்கள் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா அவர்களைச் சந்தித்துக் கலந்துரையாடியபோது, தமிழ் மக்களின் அரசியல் தீர்வு விடயம்தொடர்பில் பேசப்பட்டது.
+
+...
+
+[Data](articles/2fb62f1d.json)
 
 ---
 
@@ -302,6 +472,26 @@ Kokilawani and Mr.. Sasikumar was staying at the Mandapam camp and Shekhar came 
 
 ---
 
+### චීන විදේශ විනිමය සංචිතය ඩොලර් ට්‍රිලියන 3.2659 දක්වා ඉහළට
+
+*2024-12-12 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204292) · `si`
+
+මෙම වසරේ නොවැම්බර් මස අවසානය වන විට චීන විදේශ විනිමය සංචිතය ඇ.ඩො ට්‍රිලියන 3.2659ක් වූ බව එරට නිල දත්ත වාර්තාවල සඳහන් වේ.
+
+එය ඔක්තෝබර් මස අග සිට ඩොලර් බිලියන 4.8කින් එසේත් නොමැති නම් 1.15%කින් ඉහළ යාමක් බව පැවසේ.
+
+මුදල් පරිවර්තනය සහ වත්කම් මිලෙහි වෙනස්වීම් වැනි සාධකවල ඒකාබද්ධ බලපෑම් හේතුවෙන් චීනයේ විදේශ විනිමය සංචිත පසුගිය මාසයේ දී ප්‍රසාරණය වූ බව එම අදාළ දත්තවල සඳහන් වේ.
+
+චීනයේ ආර්ථික ප්‍රකෘතිය වේගවත් වෙමින් පැවතීමත්, වෙළෙඳපොළ විශ්වාසය වැඩිදියුණු වෙමින් පැවතීමත්, රට තුළ විදේශ විනිමය සංචිතවල ස්ථායී පරිමාණය පවත්වා ගැනීමට උපකාරී වන බව චීන විදේශ විනිමය පිළිබඳ රාජ්‍ය පරිපාලන බලධාරීන් පවසයි.
+
+මේ අතර චීන ආර්ථික වර්ධන පුරෝකථනය ස්ථාවරව පවත්වා ගන්නා බව ආසියානු සංවර්ධන බැංකුව ප්‍රකාශ කරයි.
+
+◼️
+
+[Data](articles/b3196601.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the island
 
 *2024-12-12 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104176/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -321,6 +511,26 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 [Data](articles/92bc3875.json)
 
 [Extended Data](ext_articles/92bc3875.ext.json)
+
+---
+
+### දක්ෂිණ අධිවේගයේ මාරක අනතුර - 10 හැවිරිදි දියණිය මරුට
+
+*2024-12-12 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204291) · `si`
+
+දක්ෂිණ අධිවේගයේ පින්නදූව ආසන්නයේ දී සිදුවු මාරක අනතුරකින් එකම පවුලේ තිදෙනෙක් තුවාල ලබා පුංචි දියණියක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+දක්ෂිණ අධිවේගී මාර්ගයේ 100 එල් හා 100.1 එල් ස්ථාන අතරදී කොට්ටාව දෙස සිට පාලටුව දෙසට ධාවනය වූ කාර් රථයක රියදුරුට නින්ද යාම හේතුවෙන් එම දිසාවටම ඉදිරියෙන් ගමන්ගත් ලොරි රථයක පිටුපස ගැටී අනතුරක් සිදුව තිබුණි.
+
+අනතුරින් කාර් රථයේ ගමන්ගත් එකම පවුලේ මව පියා සහ දියණියන් දෙදෙනෙකු බරපතළ තුවාල ලබා කරාපිටිය රෝහලට ඇතුළත් කිරීමෙන් පසු එක් දැරියක් මියගොස් ඇත.
+
+එලෙස මියගොස් ඇති දරුවා අවුරුදු 10ක් වූ නූපේ, මාතර ප්‍රදේශයේ පදිංචිකාරියකි.
+
+මෘත ශරීරය කරාපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර,  අනතුර සම්බන්ධ වැඩිදුර විමර්ශන ඉමදූව පොලීසිය මඟින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/bd1cdda1.json)
 
 ---
 
@@ -2005,299 +2215,5 @@ Further investigations have been initiated into other violations, including the 
 [Data](articles/f99d09e5.json)
 
 [Extended Data](ext_articles/f99d09e5.ext.json)
-
----
-
-### 13 crores discovers in Kahathudura
-
-*2024-12-11 17:13:23* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-13-ක-මත්ද්‍රව්‍ය-කහතුඩුවෙන්-සොයා-ගනී/11-413586) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Kahathudura: Police raid arrests 27-year-old suspect. Seized 5kg drugs worth Rs.13 crores. Woman linked to drug racket. House rented monthly. Suspect from Nobada, Kalutara."
-
-🟩
-
-Police Special Task Form says that a house raided with a house worth a house of Kahathuduwa and arrested a large sums of drugs worth Rs.
-
-Five kilograms of drugs have been taken into police custody by 5 kg of drugs with the suspect.
-
-Police Special Task Force Two Police arrested for interrogation of ice criminal control units were arrested and arrested the house was recovered and found other drugs surrounded by the police.Says.
-
-The suspect was revealed to be a drug from a woman who was hiding in the country in the country, from a large number of drug racket in the country.
-
-The police say that the house was revealed that the house was received on a monthly rent basis.
-
-The suspect is a 27 year old resident of the Nobada, Kalutara.
-
-Special Task Force Commanding Officer Commanding Officer of Police Commander Inspector General of Police, OIC Inspector of Police, the OIC Inspector of Police
-
-◼️
-
-[Data](articles/cb37f5ef.json)
-
-[Extended Data](ext_articles/cb37f5ef.ext.json)
-
----
-
-### Human rights and responsibilities
-
-*2024-12-11 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/200995) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Human rights & responsibilities: Global recognition, UN Declaration 1948. Importance in tech era. Challenges in implementation. Equal rights for all despite differences. Need for awareness & education to strengthen human rights in society.
-
-🟩
-
-In today's growing technology world, the second, minute, minute, secondary and secondary human rights, human rights and human responsibilities in today's thought are to ensure the existence of social, political, cultural and cultural science and technology in today's thought.The importance of the need, the dignity of the progressive human life, and the right to the rights of human life in terms of survival.
-
-Human rights and human responsibilities have a close connection with each other. Every human being born naturally is obliged to live freely in society and is called human rights.
-
-Human rights have been identified globally with a variety of rights. In general, rights are human demands accepted and finally implemented by society and the state.
-
-...
-
-[Data](articles/be31a2d2.json)
-
-[Extended Data](ext_articles/be31a2d2.ext.json)
-
----
-
-### Electricity Tax Correction Consultations will start on the 17th
-
-*2024-12-11 17:05:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்த-ஆலோசனைகள்-17-ஆம்-திகதி-தொடங்கும்/175-348590) · `ta`
-
-Public consultations on electricity tax correction start Dec 17. CEB proposes no changes to current rates until mid-2025. Submit written comments by Jan 8, 2025.
-
-🟩
-
-The PUCSL (PUCSL) has announced that public consultations on the six -month power tariff revision for the six -month period from January to June 2025 will begin on December 17.
-
-The Ceylon Electricity Board (CEB) has proposed to retain the existing electricity bill without any change in the scheduled for the first half of 2025.
-
-PUCSL's permanent employees are presented on CEB's proposals and recommendations and the general public is asked to submit their opinions and suggestions.
-
-Written comments and recommendations on public consultation can be submitted by the following media before January 8, 2025: Email -info@pucsl.gov.lk,
-
-Or you can send the Sri Lanka Public Utilities Commission, BOC Business Tower, site 6, St. Michael Street, Colombo 3.
-
-◼️
-
-[Data](articles/0a7cf162.json)
-
-[Extended Data](ext_articles/0a7cf162.ext.json)
-
----
-
-### Myanmar’s economy set to contract as floods and fighting take heavy toll, the World Bank says
-
-*2024-12-11 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104171/myanmars-economy-set-to-contract-as-floods-and-fighting-take-heavy-toll-the-world-bank-says) · `en`
-
-Myanmar’s economy is forecast to contract this year, the World Bank said Wednesday, as flooding and fighting take a severe toll nearly four years after the military ousted its elected government headed by Aung San Suu Kyi.
-
-In an update issued Wednesday, the bank said about a fifth of all built structures and a tenth of Myanmar’s roads had been damaged by widespread flooding during heavy monsoon rains and a typhoon that swept through the country in September. About 2 million people were left homeless, the report said.
-
-Meanwhile, fighting between the military and opposition forces remains fierce in some parts of the country, disrupting farming and manufacturing.
-
-“The level and intensity of armed conflict remains high, severely affecting lives and livelihoods, disrupting production and supply chains, and heightening uncertainty around the economic outlook,” it said.
-
-Overall, the report said the economy will likely contract 1% in annual terms in the April-March fiscal year.
-
-...
-
-[Data](articles/a8130ba6.json)
-
-[Extended Data](ext_articles/a8130ba6.ext.json)
-
----
-
-### Super Star Rajinikanth's preview of actor Gunanidhi
-
-*2024-12-11 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200990) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Super Star Rajinikanth congratulates 'Alanku' crew. Gunanidhi debuts Tamil cinema after 'Selfie'. Director Sakthivel's film stars Semban Vinod, Kali Venkat. Exciting border scenes increase expectations."
-
-🟩
-
-The preview of the film 'Alanku', starring the hero of the story of actor Gunanidhi, who has made his debut for Tamil fans through 'Selfie'.
-
-Super Star Rajinikanth, the leading star actor of the Tamil film industry, has congratulated the film crew.
-
-Director S.. B.. Sakthivel's upcoming film 'Alanku' stars Gunanidhi, Semban Vinod, Kali Venkat, Sarath Appani, Sri Rekha, Kothavai, Regin Rose, Shanmugam Muthushami, Master Ajay.
-
-S.. Ajish has composed the film, which has been recorded by Pandi Kumar. The film was made on behalf of DG Film Company and Magnus Productions.. Sabarish and Sangam Mithra Chaumia Anbumani have co -produced.
-
-It is noteworthy that Sangamitra Chaumia Anbumani is one of the political parties of Tamil Nadu, Dr. Ramadas, founder of the proletariat.
-
-The film is currently being released on the 27th of this month at the film House.
-
-...
-
-[Data](articles/4f0c2127.json)
-
-[Extended Data](ext_articles/4f0c2127.ext.json)
-
----
-
-### Actor Kalidas Jayaram's wedding: Chief Minister MK Stalin congratulates
-
-*2024-12-11 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/200988) · `ta`
-
-Kalidas Jayaram weds Dharani Kalingarayar. CM MK Stalin congratulates. Celebrities attend reception. Actor debuts in Tamil films. Directed by Lokesh Kanakaraj.
-
-🟩
-
-The Chief Minister of Tamil Nadu, Kalidas Jayaram and Dharani Kalingarayar, the son of the famous actor Jayaram, the famous actor in Malayalam and Tamil film industry, participated in the wedding reception of the couple.. G. Stalin congratulated him.
-
-Actor Kalidas Jayaram made his debut for Tamil fans with the film 'Fish Cum Potam and Main Potam'. Following the film, he also acted in the film 'Putham New Morning' and 'Poor Stories'.
-
-Kamal Haasan - Director Lokesh Kanakaraj became famous for his upcoming film 'Vikram'.. Following the film, Ba Ranjith has directed the 'Stars Moves', 'War', 'Indian 2' and 'Rayan'.
-
-He and his long -time girlfriend, Dharani Kalingarayar, were married with the consent of the parents.Accordingly, their wedding was held on the eighth day of the Guruvayuruppan Temple in Guruvayur in the presence of relatives.
-
-This was followed by a massive wedding reception. Tamil Nadu Chief Minister. Ka Stalin and his spouse Durga Stalin congratulated the bride on the role.
-
-...
-
-[Data](articles/53407246.json)
-
-[Extended Data](ext_articles/53407246.ext.json)
-
----
-
-### Nilantha and the prince reject the basic protests
-
-*2024-12-11 17:01:55* · [`adalk`](https://www.ada.lk/breaking_news/නිලන්ත-සහ-පූජිතගේ-මූලික-විරෝධතා-ප්‍රතික්ෂේප-කරයි/11-413585) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Nilantha and Prince reject basic protests. District IGP rejects case transfer under Police Ordinance. Lawyers argue police officers opposed Easter bombings. Judge orders proof of accused within case timeframe. Case directed to other cases on Dec 13. Senior Attorney Waruna Senadheera represents client. Attorneys Samadhi Gamlath and Samarachchi Gamlath also present.
-
-🟩
-
-District IGP, Chief Intelligence ProtestantLalith Kannangara rejected today (11).
-
-Attorneys who appeared in the case of the previous trial by the victims of the Passwords of the Passwords were previously trial.Since there are officers, any case against them should be transferred with the provisions of the Police Ordinance.
-
-However, the complainant cases were filed inappropriation of compensation against his clients, as the bombs were not carried out within three months.
-
-The primary protest was asked to resolve the trial in the origins of the case as a basic legal issue in the origins of the court.
-
-The lawyers have argued that the police officers who were strictly opposed to the Easter bomb blast.. After learning about it, the complaints have been taken to take place in the due time and the complaints have been taken to the complaint.
-
-...
-
-[Data](articles/4256aa4f.json)
-
-[Extended Data](ext_articles/4256aa4f.ext.json)
-
----
-
-### Partners have not been notified of the appointment of Faizer Mustafa - Vajira Abeywardena
-
-*2024-12-11 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/200978) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Faizer Mustafa's appointment as National List member violates UNP rules. Secretary lacks authority. Partner parties unaware. Action promised. Committee formed to investigate Ravi Karunanayake's appointment. President's lawyer to discuss with New Democratic Front parties.
-
-🟩
-
-Its secretary does not have the authority to appoint the National List members of the New Democratic Front. Faiser Mustafa's appointment has not been notified to partner parties. United National Party (UNP) Chairman Vajira Abeywardena said that appropriate action will be taken soon.
-
-A compliance between the party leaders was reached when it was decided to contest the general election in the cooking gas symbol. It was also decided to sign a contract with the New Democratic Front.
-
-The agreement was handed over to Sharmila Perera as the secretary of the coalition. Copies of the Agreement to date have not been provided to any partner party. Similarly, the agreement has not yet been taken.
-
-The new Democratic Front's partner party leaders should decide on the appointment of National List Member. The secretary of the new Democratic Front has no power to appoint a national list member.
-
-...
-
-[Data](articles/d2b1d85f.json)
-
-[Extended Data](ext_articles/d2b1d85f.ext.json)
-
----
-
-### Sri Lanka Kandyan king palace renovated by US cultural preservation fund
-
-*2024-12-11 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-kandyan-king-palace-renovated-by-us-cultural-preservation-fund-193620/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Kandyan Kings’ Palace and Archaeology Museum located within the Temple of the Tooth Relic complex was restored with a 265,000 dollar (77 million rupee) grant from the US Ambassadors Fund for Cultural Preservation (AFCP).
-
-It was a joint project by the US Embassy in Sri Lanka, the Ministry of Culture and Department of Archaeology.
-
-Initiated in 2021, the project was carried out in two phases. During the first phase, efforts were focused on conserving the historic infrastructure of the Kings’ Palace and improving accessibility for visitors with disabilities.
-
-The second phase upgraded the Archeology Museum’s displays and facilities, creating a more engaging and educational experience for visitors while preserving Sri Lanka’s rich cultural heritage.
-
-...
-
-[Data](articles/ea92daf0.json)
-
-[Extended Data](ext_articles/ea92daf0.ext.json)
-
----
-
-### The Ceylon Workers Congress to be reorganized
-
-*2024-12-11 16:56:31* · [`adalk`](https://www.ada.lk/breaking_news/ලංකා-කම්කරු-කොන්ග්‍රසය-ප්‍රතිසංවිධානය-කිරිමට-යයි/11-413584) · `si`
-
-Ceylon Workers Congress reorganization announced. New leadership team to be appointed in January. Focus on strengthening youth involvement and improving worker infrastructure. Government support for plantation sector initiatives.
-
-🟩
-
-The National Council (11), the National Council (11), the National Council (11) was appointed to the Ceylon Labor Congress in the presence of the Ceylon Workers Congress.
-
-Mr. Kanagaraj Kanagaraj Kanagaraj said that the leader of the party Sandil Thondaman and the General Secretary to the General Assembly in Hatton.
-
-Speaking further Mr. Kanagaraj said that his party would be reorganized in January next year and appoints young teams and strengthen the views of the teams..
-
-Mr. Jivan Thondaman has launched a program to provide a ticket deed in the plantation sector and the government is supporting the government on the current government.
-
-President Kanagaraj Kanagaraj Kanagaraj said that the proceedings of the plantation workers' infrastructure facilities to the infrastructure of plantation workers will continue to be fulfilled.
-
-◼️
-
-[Data](articles/5bd1400e.json)
-
-[Extended Data](ext_articles/5bd1400e.ext.json)
-
----
-
-### Customer Affairs Authority raids Pettah Fifth Cross Street
-
-*2024-12-11 16:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204275) · `si`
-
-Consumer Affairs Authority raided shops in Pettah Fifth Cross Street over rice complaints. Officials found hidden rice and took legal action against one shop for improper pricing and sales practices.
-
-🟩
-
-Officers of the Consumer Affairs Authority have tested the fifth street shops in Pettah today (11).
-
-It was due to complaints, including hiding rice in those shops.
-
-The Consumer Affairs Authority officials had legal action against a shop sold for a rice.
-
-In addition, investigations have also been investigated as not to display the price and selling rice.
-
-◼️
-
-[Data](articles/f50fee12.json)
-
-[Extended Data](ext_articles/f50fee12.ext.json)
 
 ---

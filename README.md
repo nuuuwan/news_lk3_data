@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 14:43:02**
+As of **2024-12-12 15:43:09**
 
 ## Newspaper Stats
 
-*Scraped **59,802** Articles*
+*Scraped **59,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,681
+adalk | 5,682
 adaderanalk | 7,279
-tamilmirrorlk | 8,549
+tamilmirrorlk | 8,552
 virakesarilk | 9,806
 adaderanasinhalalk | 10,338
 
@@ -26,81 +26,213 @@ adaderanasinhalalk | 10,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,744 (99.9%) of 59,802 articles have been extended.
+59,756 (99.9%) of 59,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### பைசர் முஸ்தபா தெரிவு செய்யப்பட்டது ஏன்?
+### The telephone sent four names
+
+*2024-12-12 15:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நால்வரின்-பெயர்களை-அனுப்பியது-டெலிபோன்/175-348636) · `ta`
+
+United People's Power sends 4 names: Mano Ganesan, Sujeewa Senasinghe, Nisam Kariyappar, Muthu Mohamed to Election Commission for appointment as national list MPs.
+
+🟩
+
+The details of the four members to be appointed through the National List of the United People's Power have been sent to the Elections Commission.
+
+The names of Mano Ganesan, Sujeewa Senasinghe, Nisam Kariyappar and Muthu Mohamed have been sent to the Election Commission.
+
+In this year's general election, the United People's Power received five national list MPs, and the general secretary of the United People's Power Ranjith Mathumabandara was appointed.
+
+◼️
+
+[Data](articles/80c6393c.json)
+
+[Extended Data](ext_articles/80c6393c.ext.json)
+
+---
+
+### Cooperation of the United Arab Emirates
+
+*2024-12-12 14:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-அரபு-அமீரகத்தின்-ஒத்துழைப்பு/175-348635) · `ta`
+
+UAE agrees to cooperate with Sri Lanka's development program. Investment in Sri Lanka increasing, focusing on digitalization and technology. 150,000 Sri Lankans work in UAE, aiming to expand export market. Long-standing friendship between countries strengthened. President invites UAE visit in coming years.
+
+🟩
+
+The United Arab Emirates has agreed to cooperate with the current government's program to build the developed Sri Lanka.
+
+Khaleed Nasser Alameri, Ambassador of Sri Lanka, Khalid Nasser Alameri, said that the investment in Sri Lanka is increasing and the technical knowledge of digitalization and introduction of new technologies.
+
+The meeting between President Anura Kumara Dissanayake and Ambassador of the United Arab Emirate Khalid Nasar al -Ameri was held today (12) at the Presidential Office.
+
+Focusing on 150,000 Sri Lankans currently working in the UAE and further increasing the amount.
+
+While the United Arab Emirates are the sixth largest export market in Sri Lanka, it was also discussed to further expand the market opportunities.
+
+Similarly, the Ambassador assured Anurakumara Dissanayake that the long -standing friendship between the two countries would be further strengthened and that he was ready to help Sri Lanka at any occasion.
+
+...
+
+[Data](articles/30a05f2f.json)
+
+[Extended Data](ext_articles/30a05f2f.ext.json)
+
+---
+
+### Sri Lankan court ordered the release of nine fishermen
+
+*2024-12-12 14:44:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-9-பேரை-விடுவித்து-இலங்கை-நீதிமன்றம்-உத்தரவு/175-348633) · `ta`
+
+Sri Lankan court orders release of 9 fishermen, sentences them to 1 year in jail. Navy seized their boat in June, leading to the death of a naval officer. Case closed after detention period ended on Wednesday.
+
+🟩
+
+The Sri Lankan Mallakam Court has ordered that nine fishermen have been released on conditional and sentenced to one year in jail for the driver.
+
+On June 25, the Sri Lankan navy seized a boat belonging to Anandan from Akkaraipettai in Nagai district, Muthusetti (70), his sons Mathi (38), Rajesh (35) and Vaidyanathan (45), Vanavanamadevi (25), Kalamurugan (25), Vanavanamadevi (25).Govindasamy (60), Mani Palan (55) from Cuddalore, Kangala Korumaya from Andhra Pradesh and 2 fishermen were arrested by the Sri Lankan navy and sent to Jaffna jail.
+
+During the arrest, Sri Lankan navy veteran Ratnayake died from the boat of the seized fishermen and died while taking him to hospital for treatment.. A case has been registered at the Gangesanthurai police station in connection with the death of a Sri Lankan navy.
+
+In this case, the fishermen's detention time ended on Wednesday (11).
+
+After hearing the case, the judge said that Sri Lanka should be sentenced to Rs.Judicated.
+
+◼️
+
+[Data](articles/c0b919ec.json)
+
+[Extended Data](ext_articles/c0b919ec.ext.json)
+
+---
+
+### Elephant rolls on a lorry
+
+*2024-12-12 14:22:10* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-මදවි-වන-අලියා-ලොරියක්-පෙරළයි--කාන්තාවක්-මරුට/11-413603) · `si`
+
+A summary of the incident: A 66-year-old woman named K. Karunawathi was fatally injured when a lorry rolled over her in the Konganagara Police Division. The driver, distracted by giving bananas, lost control of the vehicle. Investigations are ongoing.
+
+🟩
+
+Gonagankara Police said that a woman was killed by a lorry, a lorry, a lorry, a lorry, a lorry, a lorry in the Konganagara Police Division.
+
+The deceased has been identified as K. Karunawathi (66), a resident of the Fisheries Village.
+
+When she was on the way to the village, a Wannale was to give a banquelin 'banana.
+
+After one banana can an end, Elaya's trunk and finds more foods.
+
+The woman in the front seat was killed and he was rushed to the Buttala Regional Hospital.
+
+Emergency Death and Post Post Mortelination were to be held at the Moneragala district hospital. Gonaganka OIC Wasantha Bandara is conducting investigations.
+
+◼️
+
+[Data](articles/f424edf3.json)
+
+[Extended Data](ext_articles/f424edf3.ext.json)
+
+---
+
+### Why was Faizer Mustafa chosen?
 
 *2024-12-12 14:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைசர்-முஸ்தபா-தெரிவு-செய்யப்பட்டது-ஏன்/175-348632) · `ta`
 
-முன்னாள் அமைச்சர் காஞ்சன விஜேசேகரவின் பெயரை கட்சித் தலைவர் ரணில் விக்கிரமசிங்க அங்கீகரித்திருந்த போதிலும், தேசிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினராக முன்னாள் அமைச்சர் பைசர் முஸ்தபாவின் பெயர் தெரிவு செய்யப்பட்டதாக தேசிய ஜனநாயக முன்னணியின் புதிய அறிக்கை தெரிவிக்கிறது.
+Faizer Mustafa chosen as National List MP due to unanimous decision by National Democratic Front political council, surpassing other candidates including Kanchana Wijesekera and Dinesh Gunawardena.
 
-முஸ்தபாவின் வேட்புமனுவின் பின்னணியில் உள்ள தீர்மானத்தை தெளிவுபடுத்தும் NDF செயலாளர் வெளியிட்டுள்ள அறிக்கையில், காஞ்சன விஜேசேகரவின் பெயர் 18 கூட்டணி உறுப்பினர்களின் கையொப்பத்துடன் முன்மொழியப்பட்டது என்றும் அதை விக்கிரமசிங்கவும் ஒப்புக்கொண்டார் என்றும் கூறுகிறது.
+🟩
 
-எவ்வாறாயினும், அதே வேளையில் பைசர் முஸ்தபாவை முன்னிறுத்தி மற்றுமொரு பிரேரணை முன்வைக்கப்பட்டதாக தேசிய ஜனநாயக முன்னணியின் செயலாளர் கூறினார்.
+Although party leader Ranil Wickremesinghe has recognized the name of former minister Kanjana Wijesekera, the National Democratic Front report states that the name of former Minister Faizer Mustafa has been elected as the National List MP of the National Democratic Front.
 
-இதனையடுத்து, முன்னாள் பிரதமர் தினேஷ் குணவர்தனவின் பெயரும் முன்மொழியப்பட்டிருந்த நிலையில், முன்னாள் அமைச்சர் டிரன் அலஸை முன்னிறுத்தி குணவர்தன மாற்றுக் கோரிக்கையை முன்வைத்திருந்தார்.
+In a statement issued by the NDF Secretary, which clarify the resolution behind Mustafa's candidature, the name of Kanchana Wijesekera's name was proposed with the signature of 18 coalition members and Wickremesinghe.
+
+At the same time, the Secretary of the National Democratic Front said that another proposal was put forward by Faizer Mustafa.
+
+Following this, the name of former Prime Minister Dinesh Gunawardena had been proposed and Gunawardena had made an alternative demand for former minister Trun Ales.
+
+The NDF secretary said that the party had decided to convene its political council, considering various nominations and decided to choose a majority unanimous name instead of a coalition -based consensus.
 
 ...
 
 [Data](articles/6be0c855.json)
 
+[Extended Data](ext_articles/6be0c855.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංගයක් ආවොත් ආණ්ඩුව ගන්න තීරණය
+### The decision to take the government if he comes to a no-confidenceability against speaker
 
 *2024-12-12 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204303) · `si`
 
-කථානායක අසෝක රන්වල මහතාට එරෙහිව පාර්ලිමේන්තුවට විශ්වාසභංගයක් ගෙන එන්නේ නම් ඊට අත්වන ඉරණම කෙරෙහි දෙවරක් සිතිය යුතු බව කෘෂිකර්ම නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා පවසයි.
+Namal Karunaratne suggests caution if considering no-confidence motion against Speaker Asoka Ranwala. He emphasizes Parliament's two-thirds majority but advises addressing Speaker's declaration separately before taking action.
 
-"අපිට පාර්ලිමේන්තුවේ තුනෙන් දෙකකට එහා බලයක් තියෙනවා. ඒ නිසා ගේන විශ්වාසභංග ගේන කට්ටිය කල්පනා කරන්න ඕනේ... මොකටද ගේන්නේ කියලා. ඒ නිසා කථානායකවරයාට එරෙහිව පාර්ලිමේන්තුවට විශ්වාසභංගයක් ඉදිරිපත් වුවත් ගැටලුවක් නැහැ. කථානායකගේ ප්‍රකාශයත් එක්ක බලමු. මේ වෙලාවේ අපි උත්තර දෙන්න යන්න අවශ්‍ය නැහැ. අපි ඒක වෙනම කතා කරමු."
+🟩
+
+Deputy Deputy Minister of Agriculture Namal Karunaratne says that if it comes to Parliament against Mr. Speaker Asoka Ranwala, it should be thought to think twice.
+
+"We have two-thirds power in Parliament. Therefore, there should be a no-confidently-hungry bodies.. That is to bring. Therefore, Parliament has no confidence in Parliament against the Speaker but there is no problem. Let's see with the Speaker's Declaration. We don't want to answer this time. Let's talk that separately. "
 
 ◼️
 
 [Data](articles/d27ccc74.json)
 
+[Extended Data](ext_articles/d27ccc74.ext.json)
+
 ---
 
-### யானைக்கு வாழைப்பழம் கொடுத்த பெண் பலி
+### Elephant
 
 *2024-12-12 14:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானைக்கு-வாழைப்பழம்-கொடுத்த-பெண்-பலி/175-348631) · `ta`
 
-கோனகனார பொலிஸ் பிரிவிற்குட்பட்ட புத்தல கதிர்காமம் வீதியில்   கதிர்காமம் நோக்கி பயணித்த லொறி யானையால் கவிழ்ந்ததில், அந்த லொறிக்குள் அகப்பட்ட  பெண் உடல் நசுங்கி உயிரிழந்துள்ளதாக கோனகனார பொலிஸார் தெரிவித்தனர்.
+A tragic accident occurred on the Budhala Kadirgamam road. A woman was killed when a wild elephant overturned her lorry while searching for food. The victim, KG Gerasuthi (66), was traveling with a group to Kadirgama pilgrimage. An autopsy was conducted at Moneragala District General Hospital.
 
-முதுகண்டிய மீனவ கிராமத்தைச் சேர்ந்த ஆறு பிள்ளைகளின் தாயாரான கே.ஜி.கெரசுதி (66) என்ற பெண்ணே  இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-இவர் , கிராமத்தைச் சேர்ந்த குழுவினருடன் லொறியில் கதிர்காம யாத்திரைக்குச் கடந்த (12) சென்று கொண்டிருந்த போது வீதியை மறித்து கொண்டு காட்டு யானைக்கு நின்று கொண்டுள்ளது. .
+Gonakanara police said that a lorry that was traveling in Kadirgamam on the Budhala Kadirgamam road belonging to the Konakanara police division was crushed by a woman who was caught in the lorry.
 
-வாழைப்பழம் சீப்பு விடுக்கப்பட்டதை அடுத்து, காட்டு யானை, லொறியில் இன்னும் உணவுகளை தேடியது. உணவுகள் கிடைக்காமையால், தனது தும்பிக்கையால் லொறியை புரட்டியது.
+The deceased is KG Gerasuthi (66), the mother of six children from the Mudukunda fishing village.
 
-இதன்போது முன் ஆசனத்தில் அமர்ந்திருந்த  பெண் உடல் நசுங்கி பலத்த காயங்களுடன் புத்தள பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+He was standing on a wild elephant when he was traveling to the Kadirgama pilgrimage in a lorry with a group of village.. .
 
-உயிரிழந்த பெண்ணின் மரணம் தொடர்பான பிரேத பரிசோதனை மற்றும் பிரேத பரிசோதனை மொனராகலை மாவட்ட பொது வைத்தியசாலையில் நடைபெற்றது.
+Following the banana comb, the wild elephant searched more food in the lorry. Due to the lack of foods, he flipped the lorry with his thumb.
+
+The woman, who was sitting in the seat, died after being admitted to the Puttala Divisional Hospital with serious injuries.
+
+An autopsy and autopsy on the death of the deceased was held at the Moneragala District General Hospital.
 
 ◼️
 
 [Data](articles/dd020ce6.json)
 
+[Extended Data](ext_articles/dd020ce6.ext.json)
+
 ---
 
-### ஆர்ப்பாட்டத்தில் பொலிஸாரைத் தாக்கியது யார்?
+### Who attacked the police in the demonstration?
 
 *2024-12-12 14:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-பொலிஸாரைத்-தாக்கியது-யார்/175-348629) · `ta`
 
-பத்தரமுல்ல இசுருபாய கட்டிடத்திற்கு வெளியே நடைபெற்ற ஆர்ப்பாட்டத்தின் போது பொலிஸ் உத்தியோகத்தர்களுக்கு ஏற்பட்ட காயங்களுக்கு இராணுவ புலனாய்வு அதிகாரி ஒருவரே காரணம் என்று கூறப்படும் செய்திகள் குறித்து இலங்கை பொலிஸ் விசேட புலனாய்வு பிரிவு (SIU) விசாரணைகளை ஆரம்பித்துள்ளது.
+Military intelligence officer suspected in police attack during demonstration in Sri Lanka. Investigations ongoing despite conflicting reports.
 
-டிசம்பர் 2 ஆம் திகதி பாடசாலை அபிவிருத்தி உத்தியோகத்தர்கள், நிரந்தர ஆசிரியர் நியமனம் கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட போது, ​​பொலிஸாருடன் மோதலில் ஈடுபட்ட சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-எவ்வாறாயினும், இராணுவ புலனாய்வு அதிகாரி ஒருவரே காயங்களுக்கு காரணமானவர் என தலங்கம பொலிஸார் கடுவெல நீதவானிடம் அறிவித்துள்ளதாக சில ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+The Sri Lanka Police Special Investigation (SIU) has launched investigations into reports that a military intelligence officer is responsible for the injuries to police officers during a demonstration outside the Battaramulla Isrubhaya building.
 
-எவ்வாறாயினும், இந்த தாக்குதலில் இராணுவ புலனாய்வு அதிகாரி சம்பந்தப்பட்டதற்கான எந்த ஆதாரமும் தங்களின் விசாரணையில் வெளிப்படுத்தப்படவில்லை என்று பொலிஸார் தெளிவுபடுத்தியுள்ளனர்.
+On December 2, when school development officers staged a demonstration demanding a permanent teacher appointment, the incident took place.
 
-...
+However, some media outlets have reported that the Talangama police have informed the Kaduwela Magistrate that only a military intelligence officer was responsible for the injuries.
+
+However, the police have made it clear that no evidence of the military intelligence officer involved in the attack has been revealed in their investigation.
+
+Following these contradictory reports, the Inspector General of Police (IGP) has instructed SIU to investigate whether the police officers appeared in court were present in the incident.
+
+◼️
 
 [Data](articles/80db5473.json)
+
+[Extended Data](ext_articles/80db5473.ext.json)
 
 ---
 
@@ -166,41 +298,53 @@ Such rulings will help reduce sexual offenses against girls and women.. Social w
 
 ---
 
-### அசாத் சாலி தடுத்து வைக்கப்பட்டமை சட்டவிரோதமானது
+### Asad Sally detained is illegal
 
 *2024-12-12 13:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசாத்-சாலி-தடுத்து-வைக்கப்பட்டமை-சட்டவிரோதமானது/175-348626) · `ta`
 
-பயங்கரவாதத் தடைச் சட்டத்தின் (PTA) கீழ் 2021ஆம் ஆண்டு மேல் மாகாண முன்னாள் ஆளுநர் அசாத் சாலி கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டமை சட்டவிரோதமானது என இலங்கையின் உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+Sri Lanka: Supreme Court rules Azad Sally's detention under PTA illegal. Former governor arrested in 2021, acquitted in 2021 after 9-month detention. Case involves ex-minister Sarath Weerasekera and CID director.
 
-பிரதிவாதிகளில் முன்னாள் பொது பாதுகாப்பு அமைச்சர் சரத் வீரசேகர மற்றும் குற்றப் புலனாய்வு திணைக்களத்தின் (CID) பணிப்பாளர் ஆகியோர் அடங்குவர்.
+🟩
 
-அசாத் சாலி 9 மார்ச் 2021 அன்று ஒரு ஊடகவியலாளர் சந்திப்பில் கருத்து தெரிவித்ததற்காக PTA இன் கீழ் 16 மார்ச் 2021 அன்று கைது செய்யப்பட்டார்.
+The Sri Lankan Supreme Court has ruled that the arrest of and detained by former Western Provincial Governor Azad Sally in 2021 under the PTA (PTA) is illegal.
 
-ஏறக்குறைய ஒன்பது மாதங்கள் தடுப்புக்காவலில் இருந்த பின்னர், 2021 டிசம்பர் 2 அன்று கொழும்பு உயர் நீதிமன்றத்தால் அவருக்கு எதிராக தாக்கல் செய்யப்பட்ட அனைத்து குற்றச்சாட்டுகளிலிருந்தும் அவர் விடுவிக்கப்பட்டார்.
+The defendants include former Public Security Minister Sarath Weerasekera and the Director of the Criminal Investigation Department (CID).
+
+Azad Sally was arrested on 16 March 2021 under the PTA for commenting at a media briefing on 9 March 2021.
+
+He was acquitted of all the allegations filed against him by the Colombo High Court on December 2, 2021, after he was in detention for nearly nine months.
 
 ◼️
 
 [Data](articles/7fd6fc95.json)
 
+[Extended Data](ext_articles/7fd6fc95.ext.json)
+
 ---
 
-### පස්සරින් හමුවූ දුර්ලභ නිල් මැණික
+### Rare blue gem found in Passerin
 
 *2024-12-12 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204302) · `si`
 
-පිරමීඩ හැඩයෙන් යුත් දුර්ලභ ගණයේ කපා ඔපදමා නොමැති නිල් මැණිකක් මීගමුව ප්‍රදේශයේ ව්‍යාපාරිකයෙකුට හමුවී තිබේ.
+Rare blue sapphire discovered in Passara, weighing 17.42 carats. Certified by National Gem & Jewellery Authority. Owner, experienced gem trader, plans to enter global market.
 
-මෙම මැණිකේ බර කැරට් 17.42ක් වන අතර එය බදුල්ල පස්සර ප්‍රදේශයේ පතලකින් හමු වී ඇත.
+🟩
 
-එසේම මෙම මැණික් ගලට ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරිය විසින් තහවුරු කරනලද සහතිකයද හිමිව තිබේ.
+A businessman in Negombo has met a sapphire in Negombo.
 
-එහි හිමිකරු පවසා සිටින්නේ, මෙම මැණික ශ්‍රී ලංකාවට ලෝක වෙළෙඳපොළ සමඟ සම්බන්ධ වී විදෙස් විනිමය උපයා ගැනීමට ඉතා හොඳ අවස්ථාවක් බවය.
+The gem is 17.42 carrots and found in the Badulla Passara area.
 
-එසේම මෙහි හිමිකරු වසර 20කට ආසන්න කාලයක් මැණික් ව්‍යාපාරයේ නිරතව සිටි ව්‍යාපාරිකයෙක් බව වාර්තා වේ.
+The certificate has also been assured by the National Gem and Jewelery Authority of the National Gem and Jewelery Authority.
+
+The owner has said that this gem was a very good opportunity to join the world market.
+
+It is also reported that the owner is a businessman who was engaged in gem business for almost 20 years.
 
 ◼️
 
 [Data](articles/8e85d4e6.json)
+
+[Extended Data](ext_articles/8e85d4e6.ext.json)
 
 ---
 
@@ -494,21 +638,31 @@ Community Medical Specialist Dr. Thumbarara, Community Media Science Unit, Speak
 
 ---
 
-### දෙසැම්බරයේ මේ දක්වා සංචාරකයන් 47000ක් ඇවත්
+### 47,000 tourists cast in December
 
 *2024-12-12 12:03:56* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මේ-දක්වා-සංචාරකයන්-47000ක්-ඇවත්/11-413601) · `si`
 
-මේ වසරේ දෙසැම්බර් මාසයේ පළමු වැනිදා සිට 8 වැනිදා දක්වා සංචාරකයන් 47175ක් පැමිණ තිබේ.
+Here's a summary of 200 characters:
 
-එසෙම මෙ වසරේ ජනවාරි පළමුවැනිදා සිට දෙසැම්බර් 8දා තෙක් සංචාරකයන් 1 852 048ක්ද ශ්‍රි ලංකාවට පැමිණ තිබේ.
 
-මේ වසරේදි ශ්‍රි ලංකාවට සංචාරකයන් මිලියන දෙකක ප්‍රමාණයක් කැඳවා ගැනීමට සැලසුම් කර තිබේ.
 
-ඒ අනුව තවත් දින 22ක් තුළ සංචාරකයන් 48 000කට ආසන්න පිරිසක් ශ්‍රි ලංකාවට කැඳවා ගත යුතු වෙයි.
+47,000 tourists arrived in December. 47,175 visitors from Dec 1-8. Sri Lanka aims for 2 million tourists this year. Approximately 48,000 tourists expected in 22 days.
+
+🟩
+
+47175 tourists have arrived in December 1 to 8 in December.
+
+July 1, January and December 8, Sri Lanka has arrived in Sri Lanka from 1st 852 tourists.
+
+It is planned to call for two million tourists to Sri Lanka in this year.
+
+Accordingly, nearly 48,000 tourists should be called to Sri Lanka within 22 such days.
 
 ◼️
 
 [Data](articles/72ea39f9.json)
+
+[Extended Data](ext_articles/72ea39f9.ext.json)
 
 ---
 
@@ -622,11 +776,17 @@ It is also reported that this income earned is as taxes under the Production and
 
 *2024-12-12 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104184/court-issues-injunction-order-over-sjbs-national-list) · `en`
 
-The Colombo District Court today issued a restraining order preventing the Samagi Jana Balawegaya (SJB) from submitting their National List without including the name of Nizam Kariapper of the Sri Lanka Muslim Congress (SLMC).
+The Colombo District Court today issued a restraining order preventing the Samagi Jana Balawegaya (SJB) from submitting their National List MP nominees without including the name of Nizam Kariapper of the Sri Lanka Muslim Congress (SLMC).
 
-The District Court issued this order after considering a plaint filed by SLMC leader MP Rauff Hakeem.
+After considering a plaint filed by SLMC leader MP Rauff Hakeem, Colombo Additional District Judge Chamari Weerasuriya issued this order on the SJB’s General Secretary, Ranjith Madduma Bandara.
 
-◼️
+Petitioner Rauff Hakeem claims that the SLMC, led by him, supported SJB’s presidential candidate, Sajith Premadasa, during the 2024 Presidential Election.
+
+He also stated that during the 2024 General Election, his party entered into a Memorandum of Understanding (MOU) with SJB regarding the contesting of the General Election, on October 10.
+
+Accordingly, the plaint states that the SJB agreed to appoint SLMC’s General Secretary Nizam Kariapper as a National List MP.
+
+...
 
 [Data](articles/cc449ddd.json)
 
@@ -660,17 +820,23 @@ Accordingly, the complaint agreed that the Sri Lanka Muslim Congress General Sec
 
 ---
 
-### வங்கி அணுகலைப் புரட்சிகரமாக்குவதற்கு இலங்கை வங்கியும் இலங்கை தபாலும்  ஒன்றிணைகின்றன
+### Ceylon Bank and Sri Lankan post unite to revolutionize bank access
 
 *2024-12-12 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201067) · `ta`
 
-இலங்கை வங்கி (BOC) மற்றும் Sri Lanka Post ஆகியவை இலங்கை முழுவதும் வங்கிச் சேவைகளின் அணுகலை மறுவடிவமைப்பதற்காக ஒரு அற்புதமான கூட்டாண்மைக்குள் நுழைந்துள்ளன. BOC இன் வங்கியியல் நிபுணத்துவத்தை ஸ்ரீலங்கா போஸ்ட்டின் விரிவான வலையமைப்புடன் இணைத்து, ஆரம்பத்தில் 100 தபால் மற்றும் துணை தபால் அலுவலகங்களுடன் கூட்டிணைந்துள்ளன. இந்த முயற்சியானது நாட்டின் மிகவும் பின்தங்கிய சமூகங்களுக்கு அத்தியாவசிய நிதிச் சேவைகளை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது.
+Bank of Ceylon and Sri Lanka Post unite to expand banking access nationwide. Their joint initiative, BOC Connect, integrates banking services with postal networks, aiming to reach underserved communities. The partnership leverages both organizations' strengths to provide secure, convenient financial services, including small business support and international money transfers.
 
-இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க, வெகுஜன ஊடக அமைச்சின் மேலதிக செயலாளர் திருமதி தீபா லியனகே, தபால் மா அதிபர் திரு ருவன் சத்குமார உள்ளிட்ட முக்கிய பிரமுகர்கள் கலந்துகொண்ட இந்த கூட்டிணைவின் உத்தியோகபூர்வ அறிமுக நிகழ்வு கொழும்பில் இடம்பெற்றது.
+🟩
+
+The Bank of Ceylon (BOC) and Sri Lanka Post have entered a wonderful alliance to redistribute the access of banking services across Sri Lanka. BOC's banking profession is combined with the extensive network of the Sri Lanka Post, and initially gathered with 100 post and sub -post offices. This effort aims to provide essential financial services to the most backward communities of the country.
+
+The official launch of the gathering was held in Colombo, attended by prominent dignitaries including the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, Additional Secretary of the Ministry of Mass Media, Mrs. Deepa Liyanage and Post Office Mr. Ruwan Satkumara.
 
 ...
 
 [Data](articles/96567897.json)
+
+[Extended Data](ext_articles/96567897.ext.json)
 
 ---
 
@@ -2071,59 +2237,5 @@ Papaya pulp can be applied on the skin, like a mask…washing it off after 20 mi
 ...
 
 [Data](articles/944ac093.json)
-
----
-
-### Singer Sri Lanka wins Retail Sector Award at Best Corporate Citizen Sustainability Awards 2024
-
-*2024-12-11 23:09:00* · [`islandlk`](http://island.lk/singer-sri-lanka-wins-retail-sector-award-at-best-corporate-citizen-sustainability-awards-2024/) · `en`
-
-Singer (Sri Lanka) PLC, a trailblazer in the retail sector, has once again been recognized for its steadfast dedication to sustainability, earning the Retail Sector Award at the Best Corporate Citizen Sustainability Awards 2024 for the second consecutive year. This accolade underscores Singer’s leadership in embedding Environmental, Social, and Governance (ESG) principles into its corporate strategy, cementing its position as a pioneer in sustainable business practices.
-
-...
-
-[Data](articles/27b7e88b.json)
-
----
-
-### 103 young minds from Sri Lanka are ready and waiting to rock UCMAS International Competition in New Delhi
-
-*2024-12-11 23:08:00* · [`islandlk`](http://island.lk/103-young-minds-from-sri-lanka-are-ready-and-waiting-to-rock-ucmas-international-competition-in-new-delhi/) · `en`
-
-103 young talents are excited to represent Sri Lanka at the UCMAS International Competition 2024,
-
-which is to be held on 14th December 2024, at the New Delhi University, Multi Purpose Hall, North Campus, Delhi University, New Delhi 110007.
-
-This is by far the biggest Abacus based Mental Arithmetic Competition in the World, held annually. Whilst children from more than 80 countries around the world are expected to participate in this competition, Sri Lanka is proud of being represented by the highest number of Overseas Children at this Competition. This is a historic victory and a great honour to our Nation.
-
-...
-
-[Data](articles/3a9c78a7.json)
-
----
-
-### SUCCEED DESIGN collaborates with SLT-SERVICES to launch new website
-
-*2024-12-11 23:07:00* · [`islandlk`](http://island.lk/succeed-design-collaborates-with-slt-services-to-launch-new-website/) · `en`
-
-SUCCEED DESIGN, a leading interior design firm known for its innovative and client-focused approach, has announced a partnership with SLT-SERVICES, a renowned digital services provider, to launch a new website. This collaboration aims to create a website that mirrors SUCCEED DESIGN’s dedication to creativity, innovation, and customer satisfaction, enhancing its digital presence and providing an engaging user experience.
-
-With a strong national and international reputation, SUCCEED DESIGN specializes in creating sophisticated, bespoke interior spaces that reflect the unique personalities or brands of their clients. The new website will showcase their extensive portfolio and services, offering clients an immersive experience into the company’s design philosophy and craftsmanship.
-
-...
-
-[Data](articles/f1e05427.json)
-
----
-
-### Wurth Lanka supports automotive industry with expert training
-
-*2024-12-11 23:06:00* · [`islandlk`](http://island.lk/wurth-lanka-supports-automotive-industry-with-expert-training/) · `en`
-
-Wurth Lanka (Pvt) Ltd conducted a training programme titled “Windscreen Bonding and Body Sealant – Theory and Practice” at its Makumbura head office auditorium recently to enhance the skills of Sri Lanka’s automotive industry. The training programme, conducted by Michael Dominik, Head of Technical and Sales Trainer of the Würth Group, Germany, provided a novel experience to the participants. Over 100 participants representing most leading car agents, body shop managers, and senior technical staff in Sri Lanka received certificates at the conclusion of the training programme which was followed by a meetup with the management of the car dealers.
-
-...
-
-[Data](articles/50bdaf10.json)
 
 ---

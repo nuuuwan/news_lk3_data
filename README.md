@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 18:40:36**
+As of **2024-12-12 19:03:35**
 
 ## Newspaper Stats
 
-*Scraped **59,836** Articles*
+*Scraped **59,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ dailymirrorlk | 4,733
 adalk | 5,687
 adaderanalk | 7,284
 tamilmirrorlk | 8,555
-virakesarilk | 9,813
-adaderanasinhalalk | 10,347
+virakesarilk | 9,815
+adaderanasinhalalk | 10,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,782 (99.9%) of 59,836 articles have been extended.
+59,787 (99.9%) of 59,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### රත්නපුර මාර්ග අවහිරතාවක් සම්බන්ධව දැනුම්දීමක්
+
+*2024-12-12 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204316) · `si`
+
+රත්නපුර ප්‍රදේශයේ දී හෙට (13) දින සිදුවිය හැකි මාර්ග අවහිරතාවක් සම්බන්ධව පොලීසිය විසින් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව ශ්‍රී පාද වන්දනා වාරය එළැඹෙන 14 වන උඳුවප් පුර පසලොස්වක පොහොය දිනෙන් ආරම්භ වන බැවින් පැල්මඩුල්ල ගල්පොත්තාවල විහාරස්ථානයේ තැන්පත් කර ඇති සමන් දේව ප්‍රතිමාව, සධාතුක කරඬුව සහ දේව ආභාරණ මහජනතාවට වැඳපුදා ගැනීමට අවස්ථාව අද (12) දින සිදු කෙරේ.
+
+ඉන් පසු හෙට (13) දිනයේදී ගලප්පොත්තාවල රජමහා විහාරස්ථානයේ සිට රත්නපුර පලාබද්දල මාර්ගයේ හා කුරුවිට එරත්න මාර්ගයේ ශ්‍රී පාද මළුව දක්වා පෙරහරින් වැඩම කිරීමට නියමිතව තිබේ.
+
+මෙම පෙරහැර ගමන් කිරීමට නියමිත A-04 ප්‍රධාන මාර්ගයේ පැල්මඩුල්ල සිට රත්නපුරය නව නගරය දක්වා කොටසේ හෙට උදෑසන 6 සිට උදෑසන 10.00 දක්වා පමණ කාලය තුළ රථවාහන තබදයක් ඇති විය හැකි බව පොලීසිය පවසයි.
+
+එබැවින් එම කාලය තුළ ඉහත මාර්ගයේ ගමන් ගන්නා රියදුරන් හා මහජනතාවට මේ සම්බන්ධව අවධානය යොමු කරන මෙන් පොලීසිය ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/24f96a1f.json)
+
+---
+
+### சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர தீர்மானம் - பொதுஜன பெரமுன
+
+*2024-12-12 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201115) · `ta`
+
+சபாநாயகர் அசோக ரங்வாலாவுக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர தீர்மானித்துள்ளதாக பொதுஜன பெரமுன தெரிவித்துள்ளது.
+
+வியாழக்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவித்த கட்சியின் பொதுச் செயலாளர் சாகர காரியவம் இதனைத் தெரிவித்தார்.
+
+சபாநாயகர் ஆரம்பத்தில் கலாநிதி பட்டம் மற்றும் பல்வேறு பட்டங்களைக் காட்டி மக்களை ஏமாற்றி விட்டார் என அவர் தெரிவித்துள்ளார்.
+
+இதன்படி, சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணையை தனது நாடாளுமன்றக் குழுவின் ஊடாக சமர்ப்பிக்க தீர்மானித்துள்ளதாகவும், இதற்கு முழு எதிர்க்கட்சியினரும், அரசாங்கத்தின் மனசாட்சியுள்ள உறுப்பினர்களும் பங்களிப்பார்கள் என எதிர்பார்ப்பதாகவும் அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/84a7057a.json)
+
+---
 
 ### Decision to bring a notion to the Speaker
 
@@ -62,21 +100,49 @@ He said he expected to submit a no-confidenceability against the Speaker through
 
 ---
 
-### ’ඇතැම් අස්වැසුම ගිණුම් හිමියන්ට මිලියන තුන හතරේ ස්ථාවර තැන්පතුත් තිබෙනවා’
+### மின்சார சபை மறுசீரமைப்பு யோசனை அடுத்த வாரம் அமைச்சரவைக்கு சமர்ப்பிக்கப்படும் - சக்தி வலு அமைச்சு
+
+*2024-12-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201112) · `ta`
+
+2025 ஆம் ஆண்டு முதல் ஆறுமாத காலப்பகுதிக்கு மின்கட்டணத்தை திருத்தம் செய்தால் மின்னுற்பத்திக்கு 40 பில்லியன் ரூபா மேலதிகமாக செலவு செய்ய நேரிடும். மின்கட்டணத்தை திருத்தம் செய்யாமல் இருப்பது மின்கட்டமைப்புக்கு சாதகமாக அமையும். மின்சார சபை மறுசீரமைப்பு தொடர்பான யோசனை எதிர்வரும் வாரம் அமைச்சரவைக்கு முன்வைக்கப்படும்.
+
+மறுசீரமைப்பு பணிகளை 2025 மார்ச் மாதத்துக்குள் நிறைவு செய்ய எதிர்பார்;க்கப்பட்டுள்ளது என  எரிசக்தி அமைச்சின் மின்சாரத்துறை மறுசீரமைப்பு பணிப்பாளர் நாயகம் பொறியியலாளர் புபுது நிரோஷன் தெரிவித்தார்.
+
+அரசாங்க தகவல் திணைக்களத்தில் வியாழக்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/91860bd8.json)
+
+---
+
+### 'Some reform' account holders have three four million fixed deposits'
 
 *2024-12-12 17:33:45* · [`adalk`](https://www.ada.lk/breaking_news/’ඇතැම්-අස්වැසුම-ගිණුම්-හිමියන්ට-මිලියන-තුන-හතරේ-ස්ථාවර-තැන්පතුත්-තිබෙනවා’/11-413608) · `si`
 
-දකුණු පළාතේ ඇතැම් අස්වැසුම ප්‍රතිලාභීන්ට ඔවුන්ගේ ආධාර මුදල් ලැබෙන බැංකු ගීණුම් හිමි ශාඛාවේම රුපියල් මිලියන තුන හතරේ ස්ථාවර තැන්පතු ගිණුම් තිබෙන බව දකුණු පළාත් ඉඩම් කොමසාරිස් සේනක පල්ලියගුරුගේ මහතා ඊයේ (11) මාතර දිස්ත්‍රික් සංවර්ධන කමිටු රැස්වීමේ දී පැවසීය.
+Here's a summary of 200 characters:
 
-කර්මාන්ත හා ව්‍යාවසාය සංවර්ධන අමාත්‍ය සහ මාතර දිස්ත්‍රික් සංවර්ධන කමිටු සම සභාපති සුනිල් හදුන්නෙත්ති මහතාගේ ප්‍රධානත්වයෙන් එම රැස්වීම පැවැත්විණි.
 
-මාතර දිස්ත්‍රික් ලේකම් කාර්යාලීය ශ්‍රවණාගාරයේ පැවති රැස්වීමේ දී අස්වැසුම සමාජ සූබ සාධන ප්‍රතිලාභ වැඩසටහනේ ප්‍රගතිය පිළිබඳව සාකච්ඡා කරන අවස්ථාවේ දී එම කරුණු අනාවරණය විය.
 
-“මම මේ විෂයට අදාල රාජ්‍ය නිලධාරියෙකු නොවුනත් මෙතන ඊට අදාල නිලධාරීන් ඉන්න නිසා රජයට බදු ගෙවන පුරවැසියෙකු ලෙස මේ දේ කියන්න කැමතියි.මොකද මගේ පඩියෙනුත රුපියල් පහලොස් දහසක් බදු විදියට කැපෙනවා.මගේ මිතුරන් කිහිප දෙනෙකුම ඉන්නවා බැංකු කලමණාකරුවන් ලෙස සේවය කරන.ඔවුන් මට වගකීමෙන් කියා තිබෙනවා සමහර අස්වැසූම් ප්‍රතිලාභ ලබා ගැනීමට තමන්ගේ බැංකුවට එන අයට රුපියල් මිලියන තුන හතර ස්ථාවර තැන්පතු තිබෙන බව.
+"Some reform" account holders have 3-4 million fixed deposits. Southern Provincial Land Commissioner Senaka Palliyaguruge discussed this at a Matara District Development Committee meeting. He mentioned some bank managers have thousands of such accounts for client benefits. The system lacks a mechanism to link fixed deposits to National Identity Card numbers. Minister Sunil Handunneththi stated that a list of current beneficiaries is being compiled.
+
+🟩
+
+Southern Provincial Land Commissioner Senaka Palliyaguruge, the Matara District Development Committee meeting he said that there are Rs.
+
+The meeting was held under the patronage of the Minister of Industry and Employment Development and Matara District Development Committee.
+
+At the meeting held at the Matara District Secretariat Auditorium, the relief was revealed at the time of discussing the progress of the Social Education Progress Program.
+
+"Although I am not a public official of this subject, I would like to say the government as a citizen of the government. There are a few thousand thousand people as bank managers.Some three four million fixed deposits to their bank to get some cliest benefits.
+
+Some of the monthly deposit are the monthly interesting of these fixed deposits. There is no mechanism to give the same fixed deposit account under the National Identity Card No. of the Greek Himi beneficiary.
 
 ...
 
 [Data](articles/6e12365c.json)
+
+[Extended Data](ext_articles/6e12365c.ext.json)
 
 ---
 
@@ -184,43 +250,57 @@ It has also been discussed to further enforce macro prudent policies in the fina
 
 ---
 
-### 20 இலட்சம் ரூபா பணத்தை மோசடி செய்தவர் கைது
+### A man arrested for defrauding Rs.
 
 *2024-12-12 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201099) · `ta`
 
-தளபாடங்களை தருவதாக வவுனியா வாசியை ஏமாற்றிய யாழ்ப்பாணத்தை சேர்ந்த நபரை பொலிஸார் கைது செய்துள்ளனர்.
+Jaffna man arrested for defrauding Vavuniya resident over furniture deal. Police detained suspect after receiving complaint. Incident occurred in Kondavil area.
 
-யாழ்ப்பாணம் கோண்டாவில் பகுதியை சேர்ந்த நபர் ஒருவர் , வவுனியாவை சேர்ந்தவருக்கு தளபாடங்களை வழங்குவதாக கூறி , 20 இலட்சத்து 32 ஆயிரம் ரூபாய் பணத்தினை பெற்று ஒரு மாத காலத்திற்கு மேலாக தளபாடங்களை வழங்காது மோசடி செய்துள்ளார்.
+🟩
 
-அது தொடர்பில் வவுனியாவை சேர்ந்தவர் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததை அடுத்து ,விசாரணைகளை முன்னெடுத்த பொலிஸார் கோண்டாவில் பகுதியை சேர்ந்தவரை நேற்று புதன்கிழமை(11) கைது செய்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Police have arrested a Jaffna man for deceiving the Vavuniya reader for giving furniture.
+
+A man from Konda, Jaffna, has defrauded the furniture for more than a month, claiming to provide furniture to Vavuniya.
+
+Following a complaint at the Vavuniya police station, the police have arrested a man from Kondavil on Wednesday (11).
 
 ◼️
 
 [Data](articles/5c8d8746.json)
 
+[Extended Data](ext_articles/5c8d8746.ext.json)
+
 ---
 
-### සහල් මෙට්‍රික් ටොන් 440ක් දිවයිනට
+### 440 metric tons of rice to arrive in Sri Lanka
 
 *2024-12-12 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204313) · `si`
 
-ආනයනය කරන ලද සහන් හැකි ඉක්මනින් මහජනතාවට ලබා දීම සඳහා රේගුව විශේෂ වැඩපිළිවෙළක් ක්‍රියාවට නංවා ඇති බව රේගූව පවසයි.
+Sri Lanka receives 440 metric tons of rice from India. Customs implements special program to expedite imports. 17 shipments released, with most already distributed. Rice expected to reach public soon.
 
-රේගූ මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ රේගු අධ්‍යක්ෂ සීවලි අරුක්ගොඩක මහතා අද (12) පැවැති මාධ්‍ය හමුවේදී මේ බව පැවසීය.
+🟩
 
-ඒ අනුව මේ වන විට ආනයනික බහලුම් 17ක් ආනයනය කර ඇතැයිද ඒ තුල කැකුළු සහල් සහ තම්බපු සහල් පවතින බවත් එම සහල් තොග හැකි ඉක්මනින් මහජනතාවට ලබා දීමට බලාපොරොත්තු වන බවද ඔහු පැවසීය.
+Customs says that a special program has been implemented to provide the imported constructions as soon as possible.
 
-...
+Special Media Spokesperson Senior Customs Director Sevivi Arukigama held this at a press conference held today (12).
+
+Accordingly, 17 imported directs have been imported, he said that the rice rice and the rice of the rural rice and the rice rice and the rice is expected to be given to the public as soon as possible.
+
+"The Customs has been released to 17 imports. Most of it has already been released. These 17 items contains about 440 metric tons of 130 metric tonks of 130 metric tonnes and 300 metric tons of rice. All these imports come from India. The Sri Lanka Customs has implemented a special program to repair the customs as soon as possible.. Accordingly, we have taken steps to release the diligents as quickly as possible as soon as possible as soon as possible as soon as possible.
+
+◼️
 
 [Data](articles/571faa50.json)
 
+[Extended Data](ext_articles/571faa50.ext.json)
+
 ---
 
-### 440 MT of rice imported by private sector since Dec. 9
+### 1,900 MT of rice imported by private sector since Dec. 10
 
 *2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/440-mt-of-rice-imported-by-private-sector-since-dec-9) · `en`
 
-Sri Lanka Customs said that the private sector has imported 440 metric tonnes of rice from India since December 09, 2024.
+Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
 
 Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
 
@@ -228,9 +308,13 @@ Accordingly, the association’s media spokesperson, Nihal Seneviratne, told rep
 
 Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
 
-◼️
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
 
 [Data](articles/cbfd49ea.json)
+
+[Extended Data](ext_articles/cbfd49ea.ext.json)
 
 ---
 
@@ -262,21 +346,29 @@ Hospital sources say the cause of the death will be revealed after the autopsy.
 
 ---
 
-### மாவையின் பதவி விலகல் குறித்த இறுதிப் பதிலுக்காக காத்திருக்கும் தமிழரசுக் கட்சி
+### The Tamil National Party is waiting for the final response to Mawa's resignation
 
 *2024-12-12 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201082) · `ta`
 
-இலங்கை தமிழ் அரசுக் கட்சியின் தலைவர் பதவியில் இருந்து விலகுவதாக அறிவித்துள்ள மாவை சோ.சேனாதிராஜா குறித்த தீர்மானம் தொடர்பில் அவரிடமிருந்து இறுதிப் பதிலொன்றை பெற்றுக்கொள்வதற்காக காத்திருப்பு நீடிப்பதாக கட்சியின் உள்ளகத் தகவல்கள் தெரிவிக்கின்றன.
+Tamil National Party awaits Maui Senathirajah's response on resignation. Party officials claim no official word yet due to election campaign. General Secretary sent letter Nov 14, but no reply received. Next steps to be decided at Central Executive Committee meeting in Vavuniya.
 
-இலங்கை தமிழ் அரசுக் கட்சியின் தலைவர் பதவியிலிருந்து விலகுவதாக கடந்த ஒக்டோபர் மாதம் 7ஆம் திகதி மாவை சோ.சேனாதிராஜா எழுத்துமூலமாக கட்சியின் பொதுச்செயலாளர் பாராளுமன்ற உறுப்பினர் வைத்தியர் சத்தியலிங்கத்துக்கும், யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரனுக்கும் அனுப்பி வைத்திருந்தார்.
+🟩
 
-இருப்பினும் குறித்த காலப்பகுதி பாராளுமன்றத் தேர்தல் பிரசாரச் செயற்பாடுகள் தீவிரமடைந்திருந்தமையால் மாவையின் கடிதம் உத்தியோகபூர்வமாக கிடைக்கவில்லை என்றே கட்சியின் நிர்வாகம் அறிவித்திருந்தது.
+The party's internal sources say that the resignation of Maui Senathirajah has been waiting for a final response from him on the decision to resign as the leader of the Sri Lankan Tamil state party.
 
-எனினும், தேர்தல் நிறைவடைந்ததன் பின்னரான காலத்தில் கடந்த நவம்பர் 14ஆம் திகதி மாவை சோ.சேனாதிராஜாவுக்கு பொதுச்செயலாளர் வைத்தியர் சத்தியலிங்கம் கடிதமொன்றை அனுப்பியுள்ளார்.
+Maui Senathirajah in writing on October 7 last year to resign from the post of leader of the Sri Lankan Tamil state party. District Parliamentarian Sivagnanam had also sent Sridharan.
+
+However, the party's administration has announced that the letter of Mau is not officially unavailable as the parliamentary election campaign has intensified.
+
+However, the general secretary Dr. Sathiyalingam has sent a letter to Maui Senathiraja on November 14 last after the election.
+
+In the letter, Maui Senathirajah has received a letter of his departure from the headquarters and that he will continue to announce that you will continue to announce that you are still in the fourteen days.
 
 ...
 
 [Data](articles/204b65e1.json)
+
+[Extended Data](ext_articles/204b65e1.ext.json)
 
 ---
 
@@ -2305,77 +2397,5 @@ The victim was a 13 year old resident of Godakawela.
 [Data](articles/10ebfa5d.json)
 
 [Extended Data](ext_articles/10ebfa5d.ext.json)
-
----
-
-### A noted in a confidence against the speaker?
-
-*2024-12-12 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204288) · `si`
-
-MP Ajith P Perera plans no-confidence motion against Speaker. He criticizes Speaker's PhD claim, suggesting it may be fake. Opposition to decide within two weeks whether to proceed with motion.
-
-🟩
-
-MP Ajith P Perera, MP, said that he is expected to bring a no-confidence motion against the Speaker.
-
-He pointed out that the national folk force or the Speaker should be explained to the Speaker's PhD.
-
-Otherwise, the opposition members meet to meet with the Speaker and bring a no-confidence motion against the Speaker.
-
-"If there is a really acceptable doctorate, this story makes no sense. But with the departure of responding to the government, we see the resignation of the PhD in the Parliamentary Web Site. In the next two weeks, his doctorate should be submitted to the country. Or hope to bring a no-confidence motion. We haven't decided yet. We are due to discuss. Discuss with the opposition MP team. If so, the NPP MPs will vote in Parliament in Parliament. "
-
-◼️
-
-[Data](articles/c8fa17ce.json)
-
-[Extended Data](ext_articles/c8fa17ce.ext.json)
-
----
-
-### It is not Sri Lanka’s car imports but open market operations that will threaten exchange rate
-
-*2024-12-12 07:46:00* · [`economynextcom`](https://economynext.com/it-is-not-sri-lankas-car-imports-but-open-market-operations-that-will-threaten-exchange-rate-193682/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s obsession over reopening car imports, shows a sad and worrying defeat of economics and the iron grip of naked mercantilism among policy makers that led the country to 72 years of exchange and trade controls and eventual external default in 2022.
-
-Sri Lanka’s peacetime default, after a 30-year war, came amid a general deterioration of monetary policy worldwide in the aftermath of the housing bubble fired by the Fed, reviving the false religion of stimulus (potential output) and excess liquidity (quantitative easing), which classicals used to call the super abundance of paper money.
-
-In this journey to default, technical advice from the International Monetary Fund, for monetary policy modernization and justifications to print money and deny monetary stability to the poor (potential output) has played a big part.
-
-...
-
-[Data](articles/db321b77.json)
-
----
-
-### Facebook, Whatsapp and Instagram apps collapse for a few hours
-
-*2024-12-12 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204287) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Facebook, WhatsApp, and Instagram apps crashed globally for several hours. Meta attributed the outage to a technical issue affecting users in various regions worldwide. The incident occurred in 2023, mirroring a similar 2021 outage that lasted over 6 hours.
-
-🟩
-
-The collapse of the Instagram and WhatApp inputs have been constructed, Metta Company said.
-
-The company is informed that it has been obstructed due to a technical problem.
-
-These applications have taken place in Britain, Europe, Australia, Asia, South America and America.
-
-The breakdown of Facebook, Instagram and Whatsapp Social Media had the collapse of Facebook, Instagram and Watsapp Social Media.
-
-Meta Company said that the inputs were restored with effectively.
-
-In the year 2021, the similar crash took place, and the inputs were disabled in over 6 hours.
-
-◼️
-
-[Data](articles/b2302245.json)
-
-[Extended Data](ext_articles/b2302245.ext.json)
 
 ---

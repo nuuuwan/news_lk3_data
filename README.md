@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 06:15:31**
+As of **2024-12-12 05:51:34**
 
 ## Newspaper Stats
 
-*Scraped **59,716** Articles*
+*Scraped **59,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 606
 bbccomsinhala | 623
 islandlk | 3,608
 economynextcom | 3,633
-dailyftlk | 4,124
+dailyftlk | 4,121
 dailymirrorlk | 4,733
 adalk | 5,670
 adaderanalk | 7,270
@@ -26,51 +26,11 @@ adaderanasinhalalk | 10,321
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,695 (100.0%) of 59,716 articles have been extended.
+59,695 (100.0%) of 59,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
-
-### AKD-NPP’s March of Folly: Deeper into the debt labyrinth
-
-*2024-12-12 05:58:51* · [`dailyftlk`](https://www.ft.lk/columns/AKD-NPP-s-March-of-Folly-Deeper-into-the-debt-labyrinth/4-770416) · `en`
-
-However formidable, even brilliant, a leader and protagonist in the national political arena President Anura Kumara Dissanayake is, dialectics in general and the dialectics of the debt deal in particular, will undermine and undo AKD-NPP rule. A contradiction lies embedded at the very heart of the Government between the NPP’s progressive political sociology—its generational and gender configuration—and its regressive political economy. AKD and the NPP’s economic decisions; their choice of economic strategy and model; their economic turn, will erode and disintegrate the NPP social bloc and vote-base—and cannot but do so. Anura is determined, but the economy is the determinant.
-
-...
-
-[Data](articles/b0e38fdb.json)
-
----
-
-### Boys and girls: Dilemma in international sports
-
-*2024-12-12 05:53:33* · [`dailyftlk`](https://www.ft.lk/columns/Boys-and-girls-Dilemma-in-international-sports/4-770415) · `en`
-
-In sports, underperforming men are not accused of being feminine – it is the over performing females who capture the limelight
-
-The binary division of boys and girls is similar to black and white to most of us. However, the controversy at the 2024 Olympics in Paris, in the boxing category for women, has raised questions regarding the sex of the Algerian boxer Imane Khelif and the Taiwanese boxer Lin Yu-ting. The controversy flared up when Imane Khelif competed against the Italian boxer, Angela Carini, who quit the fight after just 46 seconds saying that she had never been hit so hard in her boxing career.
-
-...
-
-[Data](articles/3540d827.json)
-
----
-
-### Priyan Edirisinghe appointed to Cargills (Ceylon) Board
-
-*2024-12-12 05:48:09* · [`dailyftlk`](https://www.ft.lk/business/Priyan-Edirisinghe-appointed-to-Cargills-Ceylon-Board/34-770413) · `en`
-
-Priyan Edirisinghe has been appointed to the Board of Cargills (Ceylon) PLC as a Non-Executive Independent Director.
-
-Edirisinghe is a Chartered Accountant with over 20 years of experience in private sector and in the professional practice. He is presently Managing Partner of Baker Tilly Edirisinghe and Co., Chartered Accountants, one of the top ten audit, tax and consulting firms in Sri Lanka. He is a fellow member of The Institute of Chartered Accountants of Sri Lanka (FCA), and an Associate Member of the Chartered Institute of Marketing UK (ACIM). He also holds an MBA from the University of Southern Queensland, Australia.
-
-...
-
-[Data](articles/27791c87.json)
-
----
 
 ### Anomi Wanigasekera appointed to Dipped Products Board
 
@@ -2393,5 +2353,87 @@ The other National List MP seat had been filled by former minister Ravi Karunana
 [Data](articles/d087f479.json)
 
 [Extended Data](ext_articles/d087f479.ext.json)
+
+---
+
+### In Syria's Azad's dungeon ...!- Sources of torture and unprecedented cruelty - NBC
+
+*2024-12-11 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/200982) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Syria's Sidenaya Prison: Torture, human rights violations under Assad regime. Public searches for loved ones amid rumors of secret detention. Evidence of cruel practices found, including iron crushing devices and metal poles used for torture.
+
+🟩
+
+In the suburbs of the Syrian capital - the information about the atrocities of the Assad government was confused amid the hopes of the country to free the country from the clutches of the long -term dictator.
+
+They were going to the prison to know if there were signs that their loved ones were still alive as they had disappeared at an invisible depth.
+
+The prison, which is known for its human rights violations, is found in the barren lands.
+
+The Sidenaya Prison is a dungeon of Syrian Konkirid buildings named the human being.
+
+When the NBC went there on Tuesday, the most barbaric environment in the prison was seen as the traces of the people who were looking for their loved ones.
+
+During the 50 -year reign of Assad, armed forces protected prisons such as Sidenaya, confirming that those who went inside did not come out.
+
+Human rights organizations say that the prison was used to prevent the public and torture thousands of Syrian people.
+
+Sitnaya's mouth is overflowing with hundreds of cars.
+
+...
+
+[Data](articles/628d3eac.json)
+
+[Extended Data](ext_articles/628d3eac.ext.json)
+
+---
+
+### A warning to fishermen in several areas
+
+*2024-12-11 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204265) · `si`
+
+Warning: Fishermen avoid areas from Puttalam to Mullaitivu, Mannar, Kankasanthurai due to low pressure system. Rough seas expected, heavy rainfall possible in Northern, Eastern, North-Central, and North-Western provinces.
+
+🟩
+
+The Department of Meteorology demands the fishermen in the area from Puttalam to Mullaitivu to Mannar and Kankasanthurai.
+
+In a statement, the department said that the low pressure zone of the Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Sri Lanka is most likely to reach the Thamilnadu coast.
+
+Tens of 30 to 40 km from the sea areas off the sea areas off the Trincomalee Kankesanthurai and Mannar..
+
+Meanwhile, the prompt increase in the sea from Trincomalee via Kankesanthurai can also increase to 50-kilometers per hour.
+
+Therefore, the Met Department (Met Department) said that the sea areas from Puttalam to Mullaittivu to Mullaittivu from Puttalam to Mannar and Kankasanthurai.
+
+As a result, the sea areas can be temporarily rough and due to the impact of this system, and the Northern Province, the North Central, Eastern and North Western provinces.. Heavy showers that have more than 100 can occur.
+
+◼️
+
+[Data](articles/7008bc56.json)
+
+[Extended Data](ext_articles/7008bc56.ext.json)
+
+---
+
+### ADB approves US$30mn loan for Sri Lanka renewable energy
+
+*2024-12-11 13:11:00* · [`economynextcom`](https://economynext.com/adb-approves-us30mn-loan-for-sri-lanka-renewable-energy-193499/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank has approved a 30 million dollar small expenditure financing facility (SEFF) for the Ceylon Electricity Board to support the sustainability of ongoing and future energy sector projects.
+
+“This is Sri Lanka’s first SEFF, designed to support the operational sustainability of ADB-financed energy projects, promote initiatives to increase the share of renewable energy, and encourage private sector participation in the renewable energy sector, particularly in the context of the country’s economic challenges,” ADB Country Director for Sri Lanka Takafumi Kadono said.
+
+The facility will finance post-completion activities of ADB-financed projects, feasibility studies for advanced renewable energy technologies, preparatory work for transmission and distribution upgrades, and capacity building in emerging technologies.
+
+...
+
+[Data](articles/e5bf2d0d.json)
+
+[Extended Data](ext_articles/e5bf2d0d.ext.json)
 
 ---

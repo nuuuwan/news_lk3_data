@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 08:35:44**
+As of **2024-12-12 08:58:14**
 
 ## Newspaper Stats
 
-*Scraped **59,729** Articles*
+*Scraped **59,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,671
+adalk | 5,672
 adaderanalk | 7,270
-tamilmirrorlk | 8,523
+tamilmirrorlk | 8,524
 virakesarilk | 9,797
 adaderanasinhalalk | 10,326
 
@@ -26,53 +26,95 @@ adaderanasinhalalk | 10,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,697 (99.9%) of 59,729 articles have been extended.
+59,700 (99.9%) of 59,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### ආනයනික පළමු සහල් තොගය වෙළෙ‍ඳපොළට
+### சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணை?
+
+*2024-12-12 08:37:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-எதிராக-நம்பிக்கையில்லா-பிரேரணை/175-348603) · `ta`
+
+சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர எதிர்பார்ப்பதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்துள்ளார்.
+
+சபாநாயகரின் கலாநிதி பட்டம் தொடர்பில் தேசிய மக்கள் சக்தியோ அல்லது சபாநாயகரோ விளக்கம் அளிக்க வேண்டும்.
+
+அவ்வாறு செய்யாவிட்டால் எதிர்க்கட்சி உறுப்பினர்கள் கூடி கலந்துரையாடி சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வருவோம் என பாராளுமன்ற உறுப்பினர் அஜித் பி பெரேரா தெரிவித்தார்.
+
+அவர் உண்மையில் ஏற்றுக்கொள்ளக்கூடிய கலாநிதி பட்டம் பெற்றிருந்தால், இந்தக் கதைக்கு எந்த அர்த்தமும் இல்லை. ஆனால் அதற்கு பதில் தராமல் காலம் தாழ்த்தி வருவதும், அரசாங்கம் தரப்பில் பேசப்பட்ட ஊடகவியலாளர் செய்தியில் பதில் அளிக்காமல் இருப்பதும், கலாநிதி பட்டம் தொடர்பான விவகாரத்தை பாராளுமன்ற இணையதளத்தில் இருந்து நீக்கியதும் பெரும் சிக்கலைக் காண முடிகிறது.
+
+...
+
+[Data](articles/6faba8c2.json)
+
+---
+
+### Imported first stock to the market
 
 *2024-12-12 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204290) · `si`
 
-පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කරන ලද සහල් තොග වෙළෙඳපොළට නිකුත් කර තිබේ.
+Here's a summary in 200 characters:
+
+
+
+First shipment of rice arrives in market. Private traders release stocks, meeting demand and potentially stabilizing prices.
+
+🟩
+
+The rice stocks were released to the market by private importers.
 
 ◼️
 
 [Data](articles/dc8f2b00.json)
 
+[Extended Data](ext_articles/dc8f2b00.ext.json)
+
 ---
 
-### හදිසි අනතුරකින් 13 හැවිරිදි දරුවෙක් මරුට
+### 13 year old children killed in accident
 
 *2024-12-12 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204289) · `si`
 
-ගොඩකවෙල - අම්මඩුව ප්‍රදේශයේදී ගසක අත්තක් වැදී පිරිමි දරුවෙකු මියගොස් තිබේ.
+Tragic incident: 13-year-old boy killed in accidental fall while felling a decaying tree in Godakawela. Investigations ongoing.
 
-මෙම දරුවාගේ පියා සහ තවත් පුද්ගලයෙකු දිරාගිය කොස් ගසක් කපමින් සිටින අවස්ථාවේ දී ඒ මෙම දරුවා සිට ඇති අතර එහිදී එකවැරම ගසේ අත්තක් මෙම දරුවාගේ හිසෙහි වැදී ඇති බව විමර්ශන වලදී හෙළි වී ඇත.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 13 ක් වයසැති රංවල, ගොඩකවෙල ප්‍රදේශයේ පදිංචිව සිටි දරුවෙකි.
+In the Godakawela - in the Nakala area, a boy was killed and killed.
+
+Investigations have revealed that the child had been cutting down the child at the time of this child when the father and another person cut into a decay tree.
+
+The victim was a 13 year old resident of Godakawela.
 
 ◼️
 
 [Data](articles/10ebfa5d.json)
 
+[Extended Data](ext_articles/10ebfa5d.ext.json)
+
 ---
 
-### කථානායකට එරෙහිව විශ්වාසභංගයක් ?
+### A noted in a confidence against the speaker?
 
 *2024-12-12 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204288) · `si`
 
-කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට බලාපොරොත්තු වන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රි අජිත් පී පෙරේරා මහතා පවසයි.
+MP Ajith P Perera plans no-confidence motion against Speaker. He criticizes Speaker's PhD claim, suggesting it may be fake. Opposition to decide within two weeks whether to proceed with motion.
 
-ඔහු පෙන්වාදෙන්නේ, කථානායකවරයාගේ ආචාර්ය උපාධිය සම්බන්ධයෙන් ජාතික ජන බලවේගය හෝ කථානායකවරයා විසින් පැහැදිලි කිරිමක් සිදුකළ යුතු බවය.
+🟩
 
-එසේ නොකළහොත් විපක්ෂයේ මන්ත්‍රීවරුන් රැස්වී සාකච්ඡා කර කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන එන බව පාර්ලිමේන්තු මන්ත්‍රි අජිත් පී පෙරේරා මහතා සඳහන් කළේය.
+MP Ajith P Perera, MP, said that he is expected to bring a no-confidence motion against the Speaker.
 
-...
+He pointed out that the national folk force or the Speaker should be explained to the Speaker's PhD.
+
+Otherwise, the opposition members meet to meet with the Speaker and bring a no-confidence motion against the Speaker.
+
+"If there is a really acceptable doctorate, this story makes no sense. But with the departure of responding to the government, we see the resignation of the PhD in the Parliamentary Web Site. In the next two weeks, his doctorate should be submitted to the country. Or hope to bring a no-confidence motion. We haven't decided yet. We are due to discuss. Discuss with the opposition MP team. If so, the NPP MPs will vote in Parliament in Parliament. "
+
+◼️
 
 [Data](articles/c8fa17ce.json)
+
+[Extended Data](ext_articles/c8fa17ce.ext.json)
 
 ---
 
@@ -993,6 +1035,22 @@ Twenty20s will be held on December 28, 30 and January 2.
 [Data](articles/9c540c96.json)
 
 [Extended Data](ext_articles/9c540c96.ext.json)
+
+---
+
+### ඛණිජ තෙල් නිෂ්පාදන බද්දෙන් රු. බි. 139ක ආදායමක්
+
+*2024-12-11 18:03:49* · [`adalk`](https://www.ada.lk/breaking_news/ඛණිජ-තෙල්-නිෂ්පාදන-බද්දෙන්-රු--බි--139ක-ආදායමක්/11-413590) · `si`
+
+ඛණිජ තෙල් මත නිෂ්පාදන බද්දෙන් ලද ආදායම 2023 වර්ෂයේ පළමු මාස 08 ට සාපේක්ෂව 2023 ජනවාරි 01 වැනි දා සිට අගෝස්තු 30 දක්වා 2024 වර්ෂයේ පළමු මාස 08 දී රුපියල් මිලියන 139.000 ක් දක්වා සියයට 137.4 කින් කැපී පෙනෙන ලෙස  වැඩි වී ඇති බව ශ්‍රී ලංකා පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති පූර්ව මැතිවරණ අයවැය තත්වය පිළිබඳ වාර්තාවකින් අනාවරණය වේ.
+
+2024 වර්ෂයේ පළමු කාර්තාවේ දී (ජනවාරි 01 වන දා සිට මාර්තු 30 දක්වා ) ආර්ථික වර්ධනයත් සමඟ ඉල්ලුම් ඉහළයාම හේතුවෙන් ඛණිජ තෙල් මත නිෂ්පාදන බද්දෙන් ලද ආදායම කැපී පෙනෙන ලෙස වැඩි වී ඇති බව එම වාර්තාවේ සඳහන්වේ.
+
+2023 වර්ෂයේ මුල් මාස 08 දී ඛණිජ තෙල් මත නිෂ්පාදන බද්දෙන්  ලද ආදායම රුපියල් බිලියන 58.7 විය. ඒ අනුව 2023 වර්ෂයේ මෙම කාල පරිච්ඡේදයට සාපේක්ෂව 2024 වර්ෂයේ  මුල් මාස 08 දී ඛණිජ තෙල් හා නිෂ්පාදන බද්දෙන් ලද ආදායම රුපියල් බිලියන 80.6 කින් වැඩි වී ඇත.
+
+...
+
+[Data](articles/95a4af0b.json)
 
 ---
 
@@ -2249,57 +2307,5 @@ In November last year, the US International Development Finance Corporation (US 
 [Data](articles/1fcba79f.json)
 
 [Extended Data](ext_articles/1fcba79f.ext.json)
-
----
-
-### I am the Sri Lankan Entrepreneur 2024 award from COYLE
-
-*2024-12-11 15:00:00* · [`economynextcom`](https://economynext.com/i-am-the-sri-lankan-entrepreneur-2024-award-from-coyle-193521/) · `en`
-
-ECONOMYNEXT – A competition to find the best entrepreneurs under the name ‘I am the Sri Lankan Entrepreneur 2024’ has been initiated by Sri Lanka’s Chamber of Lankan Entrepreneurs (COYLE).
-
-The awards will be open to entrepreneurs from around the island with provincial to district-level recognition.
-
-Over 65 awards will be given under categories including Best Young Entrepreneur, Best Woman Entrepreneur, Best Social Entrepreneur, and the coveted Entrepreneur of the Year.
-
-“The awards aim to nurture the next generation of leaders,” the chamber said in a statement.
-
-“By recognising emerging entrepreneurs, empowering young innovators, and fostering a thriving entrepreneurial ecosystem, COYLE is paving the way for a robust and globally competitive business landscape.”
-
-Applications are now open and can be downloaded from the COYLE website. Entries close on January 15.
-
-...
-
-[Data](articles/b9df6c0c.json)
-
-[Extended Data](ext_articles/b9df6c0c.ext.json)
-
----
-
-### Final decision on the proposed telephone revision
-
-*2024-12-11 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204268) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"CEB amends electricity tariff. Public Utilities Commission announces changes effective Dec 17, 2025. Written comments due Jan 8; oral hearings in 9 sessions. Submit via email or WhatsApp: 176 427 1030."
-
-🟩
-
-The Commission notifies the final decision of the Electricity Board (CEB) on the amendment of the electricity tariff.
-
-The Public Utilities Commission issues an announcement from January 17, 2025 from December 17, 2025.
-
-Written comments will be held on January 08 and the oral comment will be conducted on nine sessions.
-
-Written comments can be sent to the Info@pucsl.gov.lk email address or by mailing the 176 427 1030 Whatsapp number or the PUCSP to the Sri Lanka Public Utilities Commission.
-
-◼️
-
-[Data](articles/660069a2.json)
-
-[Extended Data](ext_articles/660069a2.ext.json)
 
 ---

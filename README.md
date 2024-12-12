@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 01:11:59**
+As of **2024-12-12 23:43:55**
 
 ## Newspaper Stats
 
-*Scraped **59,877** Articles*
+*Scraped **59,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
 economynextcom | 3,648
-dailyftlk | 4,129
+dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
@@ -26,43 +26,11 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,835 (99.9%) of 59,877 articles have been extended.
+59,825 (99.9%) of 59,875 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-12-13 (Friday)
-
-### MMDA reform is not repeal:  New Govt. must counter fearmongering and resistance to justice
-
-*2024-12-13 00:20:20* · [`dailyftlk`](https://www.ft.lk/columns/MMDA-reform-is-not-repeal-New-Govt-must-counter-fearmongering-and-resistance-to-justice/4-770438) · `en`
-
-Justice in the context of MMDA reforms will entail treating women and children with dignity, providing equal protection of Sri Lanka law to women and children, ensuring that the MMDA is a Shari’ah compliant Islamic law that strives for righteous living in the interest and wellbeing of Muslims, and realising constitutional guarantees for all Muslims of the country. Reform of the MMDA will represent all these progressive aspects: Islamic legal jurisprudence, constitutional protections, universal human rights and basic human compassion and fairness. Indeed the call for reform is one to strengthen and preserve the MMDA rather than repeal it
-
-The new Government must recognise the current fearmongering campaign for what it is, and confidently advance MMDA reforms
-
-...
-
-[Data](articles/d8c0c3df.json)
-
-[Extended Data](ext_articles/d8c0c3df.ext.json)
-
----
-
 ### 2024-12-12 (Thursday)
-
-### Ilankai Thamil Arasuk Katchi celebrates 75th birth anniversary
-
-*2024-12-12 23:46:48* · [`dailyftlk`](https://www.ft.lk/columns/Ilankai-Thamil-Arasuk-Katchi-celebrates-75th-birth-anniversary/4-770436) · `en`
-
-It was the ITAK which introduced the demand for federalism into Sri Lanka’s post-independence political discourse. The birth and growth of the ITAK and its espousal of power sharing through a federal arrangement introduced a vibrant and colourful phase into the island nation’s politics. Though 75 years have passed since the party was born, the ITAK continues to remain wedded to the federal idea
-
-The recently held Parliamentary elections have resulted in the Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) winning 159 seats and forming the Government. The Samagi Jana Balawegaya (SJB) with 40 seats is the chief Opposition party. The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party (FP) with eight seats became the third largest party in Parliament.
-
-...
-
-[Data](articles/27842c05.json)
-
----
 
 ### Lanka T10: Indian team owner arrested over match-fixing
 
@@ -340,35 +308,25 @@ The Department of Meteorology has forecast rainfall tomorrow morning (13). Rembl
 
 ---
 
-### Pilot project begins
+### රිළවුන් වන්ධ්‍යාකරණය කිරීමේ නියමු ව්‍යාපෘතියක් ඇරඹෙයි
 
 *2024-12-12 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204319) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+ගහනය ඉහළයෑමෙන් වගාවන්ට සහ දෛනික ජනජීවිතයටද බලපෑම් එල්ල කර ඇති රිළවුන් වන්ද්‍යකරණය කිරීමේ නියමු ව්‍යාපෘතියක් මාතලේදී අද ආරම්භ කෙරුණා.
 
+මෙහිදි අල්ලා ගන්නා රිළවුන් ගිරිතලේ සත්ව සුරැකුම් මධ්‍යස්ථානයට රැගෙන ගොස් වන්ධ්‍යාකරණයට ලක් කර පසුව යළිත් එම ප්‍රදේශයටම මුදා හැරීමට නියමිතය.
 
+මේ සම්බන්ධව අදහස් දක්වමින් මාතලේ දිස්ත්‍රික් ලේකම් තේජානි තිලකරත්න මහත්මිය පැවසුවේ දිගුකාලීනව ගහනය පාලනය කිරීම සඳහා වූ නියමු ව්‍යාපෘතියක් මෙලෙස ආරම්භ කළ බවය.
 
-"Pilot project launched in Matale. Strikes at Giritale Animal Sanctuary. Residents seek reimplementation of forest-monkey management. Deputy Minister Anton Jayakody comments on Sri Lanka's environmental situation."
+මේ අතර කතරගම දේවාලය සහ වනජීවී නිලධාරීන් එක්ව මීට වසරකට පමණ ක්‍රියාත්මක කළ රිළවුන් සහ වඳුරන් අල්ලා කැලෑවට මුදාහැරීමේ වැඩපිළිවෙළ නැවත ක්‍රියාත්මක කරන ලෙස ප්‍රදේශවාසීන් ඉල්ලා සිටියි.
 
-🟩
+ප්‍රදේශවාසීන් පැවසුවේ එම කාලය තුළ වඳුරන් සහ රිලවුන් ගැවසීම අඩු වූ බවය.
 
-A pilot project was commenced in Matale today
-
-The strikes are taken to the Giritale Animal Seassleist Center and resumes later.
-
-Speaking on the matter, Ms. GN, District Secretary Grandna, said that a pilot project was established in the long-term controllement.
-
-Residents of the area call for the re-implementing the arrangements for the forest and monkeys who have been released to the jungle about a year.
-
-Residents said that monkeys and shell was reduced during that period.
-
-Meanwhile, Deputy Minister of Environment Anton Jayakody, joining the Ada Derana, said that the country was assumed that Sri Lanka's strikes were assumed between Rs.
+මේ අතර අද දෙරණ BIG FOCUS වැඩසටහනට එක්වෙමින් පරිසර නියෝජ්‍ය අමාත්‍ය භූ විද්‍යාඥ ඇන්ටන් ජයකොඩි මහතා පැවසුවේ මෙරට රිළවුන් ලක්ෂ 25-30ත් අතර ප්‍රමාණයක් ඇති බවට අනුමාන කරන බවය.
 
 ◼️
 
 [Data](articles/80df66ab.json)
-
-[Extended Data](ext_articles/80df66ab.ext.json)
 
 ---
 
@@ -394,151 +352,99 @@ The Liberal National Party (LNP) - which won the state election in October - mad
 
 ---
 
-### MOP Fertilizer to house 55,000 metric tons of fertilizer
+### MOP පොහොර මෙට්‍රික් ටොන් 55,000ක් මෙරටට
 
 *2024-12-12 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204318) · `si`
 
-World Food Program delivers 55,000 metric tons of MOP fertilizer. Distribution includes 30,000 tons for free paddy cultivation to farmers. Ceremony attended by agriculture minister, Russian ambassador, and officials.
+ලෝක ආහාර වැඩසටහන යටතේ MOP පොහොර මෙට්‍රික් ටොන් 55,000ක් මෙරටට ප්‍රදානය කිරීම අද (12) සිදුකෙරිණි.
 
-🟩
+ඒ කෘෂිකර්ම අමාත්‍ය කේ.ඩී.ලාල්කාන්ත මහතා ඇතුළු අමාත්‍යවරුන්, මෙරට රුසියානු තානාපති ලෙවාර් ජගර්යාන් මහතා සහ නිලධාරීන් පිරිසකගේ සහභාගීත්වයෙනි.
 
-Under the World Food Program, 55,000 metric tons of MP fertilizer was presented today (12).
-
-The Minister of Agriculture KD Lal Kanthantha and ministers including the Russian Ambassador, Sri Lanka Level Jararman and a group of officers participating in the country.
-
-30,000 metric tons of paddy cultivation at the consignment of the paddy cultivation free of charge for farmers who have commenced the paddy cultivation.
+එම පොහොර තොගයෙන් මෙට්‍රික් ටොන් 30,000ක් දැනට වී වගාව ආරම්භ කර ඇති ගොවීන් වෙනුවෙන් ගොවිජන සේවා දෙපාර්තමේන්තුවේ සකස් කරන ලද ප්‍රමුඛතා ලැයිස්තුව මත නොමිලේ ලබාදීමට නියමිතය.
 
 ◼️
 
 [Data](articles/6acb6a7c.json)
 
-[Extended Data](ext_articles/6acb6a7c.ext.json)
-
 ---
 
-### Singer - MCA bowl knockout match;The Champion Degree was the name of the nameburst insurance
+### சிங்கர் - எம்சிஏ கிண்ண நொக் அவுட் போட்டி ; சம்பியன் பட்டத்தை பெயார்பெர்ஸ்ட் இன்சூரன்ஸ் சுவீகரித்தது
 
 *2024-12-12 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201119) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+பந்துவீச்சாளர்கள் ஆதிக்கம் செலுத்திய 31ஆவது சிங்கர் - எம்சிஏ (MCA) பிறீமியர் லீக் 2024 நொக் அவுட் இறுதிப் போட்டியில் மெலிபன் பிஸ்கட்ஸ் நிறுவன அணியை ஒரு விக்கெட் வித்தியாசத்தில் வெற்றிகொண்டு பெயார்பெர்ஸ்ட் இன்சூரன்ஸ் நிறுவன அணி சம்பியன் கிண்ணத்தை சுவீகரித்தது.
 
+இறுதிப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய மெலிபன் பிஸ்கட்ஸ் நிறுவன அணி 32.1 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 160 ஓட்டங்களைப் பெற்றது.
 
+ஒரு கட்டத்தில் 5 விக்கெட்களை இழந்து 64 ஓட்டங்களைப் பெற்று தடுமாறிக்கொண்டிருந்த மெலிபன் பிஸ்கட்ஸ் நிறுவன அணிக்கு ரனேஷ் சில்வா குவித்த அரைச் சதம் கைகொடுத்தது.
 
-"Meliban Biscuits wins 31st Singer-MCA Premier League 2024 knockout final. Ranesh Silva scores 53*, Milinda Siriwardena 32, Sangeet Kare 28. Samika Gunasekera takes 4/31. Piwrest Insurance replies with 161/9. Dushan Vimukti 4/32, Dushan Hemantha 3/50. Vijayakanth Vyaskant best bowler. Samindu Wijesinghe wins Series award."
+மிகத் திறமையாக 7ஆம் இலக்கத்தில் துடுப்பெடுத்தாடிய ரனேஷ் சில்வா 5 சிக்ஸ்கள், ஒரு பவுண்டறியுடன் 53 ஓட்டங்களைப் பெற்று அணியை வீழ்ச்சியிலிருந்து நல்ல நிலையில் இட்டார்.
 
-🟩
+அவரை விட மிலிந்த சிறிவர்தன 32 ஓட்டங்களையும் சங்கீத் குறே 28 ஓட்டங்களையும் பெற்றனர்.
 
-Meliban Biscuits won the 31st Singer -MCA Premier League 2024 knock out final by winning the 31st Singer - MCA (MCA) and winning the Champion Bowl by winning the Meliban Biscuits team by one wicket.
-
-Melipan Biscuits lost all wickets in 32.1 overs and scored 160 runs.
-
-Ranesh Silva scored a half -century for the Meliban Biscuits team, who lost 5 wickets at one point.
-
-Ranesh Silva, who scored a very effective number 7, scored 53 runs with a pound of 53 runs.
-
-Milinda Siriwardena scored 32 runs and Sangeet Kare 28.
-
-Samika Gunasekera took 4 wickets for 31 runs while Namesh Vimukti took 2 wickets for 32 runs.
-
-In reply, Piriverst was bowled out for 161 runs in 34 overs.
-
-Brairberst Insurance was stumbled at one point. However, Asela Sighera (29) and Anuk Fernando (22) rescued the team by sharing 49 runs in the 5th wicket.. Kaviru Senhas scored 23 runs than them.
-
-At another stage, the Barberst Insurance team lost 8 wickets and scored 143 runs again.
+பந்துவீச்சில் சாமிக்க குணசேகர 31 ஓட்டங்களுக்கு 4 விக்கெட்களையும் நிமேஷ் விமுக்தி 32 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
 
 ...
 
 [Data](articles/66e63c60.json)
 
-[Extended Data](ext_articles/66e63c60.ext.json)
-
 ---
 
-### Another l t10 s l competition was abandoned by rain, and other matches are suspected to take place
+### மற்றொரு L T10 S L போட்டி மழையினால் கைவிடப்பட்டது, மற்றைய ஆட்டங்கள் நடைபெறுவது சந்தேகம்
 
 *2024-12-12 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201118) · `ta`
 
-Rain forces abandonment of 4th match in Lanka R10 Super League cricket tournament. Kandy Boltz vs Nuwara Eliya Kings match cut short after 3.3 overs.
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் அரங்கில் நேற்று ஆரம்பமான அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியின் இரண்டாம் நாளான இன்று நடைபெற்ற சுற்றுப் போட்டியின் 4ஆவது ஆட்டம் மழையினால் இடையில் கைவிடப்பட்டது.
 
-🟩
+கண்டி போல்ட்ஸ் அணிக்கும் நுவர எலிய கிங்ஸ் அணிக்கும் இடையில் கண்டி பல்லேகலையில் இன்று பிற்பகல் நடைபெற்ற லங்கா ரி10 சுப்பர் லீக் (L T10 S L) போட்டியே மழை காரணமாக 3.3 ஓவர்களில் கைவிடப்பட்டது.
 
-The 4th match of the tournament held today, the second day of the inaugural Lanka R10 Super League Cricket Tournament, which commenced at the Pallekel International Cricket Hall yesterday, was abandoned due to rain.
+நேற்றைய தினமும் நுவர எலிய கிங்ஸ் விளையாடிய போட்டி மழையினால் தடைப்பட்டிருந்தது குறிப்பிடத்தக்கது.
 
-The Lanka R10 Super League (L10 S L) of the Kandy Boltz and Nuwara Eliya Kings team was abandoned in 3.3 overs due to rain.
+இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கண்டி போல்ட்ஸ் 3.3 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 38 ஓட்டங்களைப் பெற்றிருந்தபோது மழை குறுக்கிட்டதால் ஆட்டம் தடைப்பட்டது.
 
-It is noteworthy that the rivalry played by Nuwara Eliya Kings yesterday was blocked.
-
-Kandy Boltz, who was first invited to bat in today's match, was disrupted by the loss of 38 runs in 3.3 overs.
-
-When the game was blocked. Chandarbol Hemraj scored 7 runs and the match was abandoned.
+ஆட்டம் தடைப்பட்டபோது பெத்தும் நிஸ்ஸன்க 26 ஓட்டங்களுடன் ஆட்டம் இழக்காமல் இருந்தார். சந்தர்போல் ஹேம்ராஜ் 7 ஓட்டங்களைப் பெற்று ஆட்டம் இழந்ததும் போட்டி  கைவிடப்பட்டது.
 
 ◼️
 
 [Data](articles/54e98bbe.json)
 
-[Extended Data](ext_articles/54e98bbe.ext.json)
-
 ---
 
-### New government will take action against Udayanga, Kapila - Hope for International Truth and Justice
+### உதயங்க, கபிலவுக்கு எதிராக புதிய அரசாங்கம் நடவடிக்கை எடுக்கும் - சர்வதேச உண்மை மற்றும் நீதிக்கான செயற்திட்டம் நம்பிக்கை
 
 *2024-12-12 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201117) · `ta`
 
-Sri Lanka's new govt may act against Udayanga Weeratunga & Kapila Chandrasena due to US sanctions. International Truth & Justice Project accuses them of corruption & human rights violations.
+அமெரிக்காவினால் விதிக்கப்பட்ட தடையை அடுத்து உதயங்க வீரதுங்க மற்றும் கபில சந்திரசேன ஆகியோருக்கு எதிராக இலங்கையின் புதிய அரசாங்கம் நடவடிக்கை எடுக்கும் என எதிர்பார்ப்பதாக சர்வதேச உண்மை மற்றும் நீதிக்கான செயற்திட்டம் தெரிவித்துள்ளது.
 
-🟩
-
-Sri Lanka's new government is expected to take action against Udayanga Weeratunga and Kapila Chandrasena in the wake of the ban imposed by the United States.
-
-The US last Monday imposed sanctions against individuals and their family members from various countries to encourage criminals involved in corruption and human rights violations globally on the eve of International Anti -Corruption Day (9) and International Human Rights Day (10) (10).. The ban is also included in the Rajapakse government, Udayanga Weeratunga and Kapila Chandrasena, who held key positions in the government.
-
-The United Nations, the United Nations, the United Nations, the United Nations, the United Nations, Britain, Australia, Canada and the European Union, demanding the imposition of various obstacles against state and security officials who have already been involved in corruption crimes and corruption scandals in Sri Lanka.And the project for justice was sent.
+சர்வதேச ஊழல் எதிர்ப்பு தினம் (9) மற்றும் சர்வதேச மனித உரிமைகள் தினத்தையும் (10) முன்னிட்டு உலகளாவிய ரீதியில் ஊழல் மோசடிகள் மற்றும் மனித உரிமை மீறல்களுடன் தொடர்புடைய குற்றவாளிகள் பொறுப்புக்கூறலுக்கு உட்படுத்தப்படுவதை ஊக்குவிக்கும் நோக்கில் பல்வேறு நாடுகளைச்சேர்ந்த தனிநபர்கள் மற்றும் அவர்களது குடும்ப உறுப்பினர்களுக்கு எதிராக அமெரிக்கா கடந்த திங்கட்கிழமை தடைகளை விதித்துள்ளது. அந்தத் தடை பட்டியலில் ராஜபக்ஷ அரசாங்கத்தில் முக்கிய பதவிகளை வகித்த உதயங்க வீரதுங்க மற்றும் கபில சந்திரசேன ஆகியோரும் உள்ளடங்குகின்றனர்.
 
 ...
 
 [Data](articles/ca8a98b0.json)
 
-[Extended Data](ext_articles/ca8a98b0.ext.json)
-
 ---
 
-### A 14-year-old girl punished for a prostitute
+### 14 හැවිරිදි දැරියක් ගණිකා වෘත්තියේ යෙදවූ අයෙකුට ලැබුණු දඬුවම
 
 *2024-12-12 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204317) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+14 හැවිරිදි බාලවයස්කාර දැරියක් ගණිකා වෘත්තියේ යෙදවූ 31 හැවිරිදි අයෙකුට වසර 30 සිර දඬුවමක් නියම කිරීමට කොළඹ මහාධිකරණය අද (12) නියෝග කළේය.
 
+නියෝගය ලබා දෙමින් කොළඹ මහාධිකරණ විනිසුරු නවරත්න මාරසිංහ මහතා නියෝග කළේ එය අවුරුදු 10කින් ගෙවී යා යුතු බවය.
 
+එමෙන්ම විත්තිකරුට රුපියල් 45,000ක දඩයක් නියම කළ විනිසුරුවරයා අතවරයට පත් දැරියට රුපියල් හාරලක්ෂ පනස්දහසක වන්දියක් ගෙවන ලෙසත් නියෝග කළේය.
 
-"14yo girl convicted of prostitution. Colombo High Court sentences her to 30yrs imprisonment & fine. Judge criticizes exploitation of minors. Victim testifies against defendant. State seeks harsh punishment to deter similar crimes."
+අදාළ දැරිය නීති විරෝධීව රඳවාගෙන ගණිකා වෘත්තියේ යෙදවීම ඇතුළු චෝදනා කිහිපයක් සම්බන්ධයෙන් විත්තිකරුට එරෙහිව චෝදනා ගොනුව තිබුණි.
 
-🟩
+තීන්දුව ප්‍රකාශයට පත්කරමින් මහාධිකරණ විනිසුරුවරයා පැවසුවේ තම මවට, සහෝදරියට සහ බිරිඳට ගරු කරන්නා සේම සමාජයේ සිටින නුවණින් මුහුකුරා නොගිය මෙවැනි දරුවන්ටද ගරු කිරීමට සෑම පුද්ගලයෙකුම වග බලා ගත යුතු බවය.
 
-The Colombo High Court today (12) ordered a 30-year-old girl to be sentenced to 30 years in prison.
+එවැනි දරුවන්ට අනීතික ආකාරයෙන් කටයුතු කරන මෙවැනි පුද්ගලයින්ට අධිකරණයෙන් කිසිසේත්ම සමාවක් හිමි නොවන බවත් විනිසුරුවරයා විත්තිකරුට දඬුවම් නියම කරමින් සඳහන් කළේය.
 
-Colombo High Court Judge Navaratne Marasinghe was ordered that it should go in 10 years.
-
-The judge also fined Rs 45,000, ordered the girl to pay for Rs.
-
-The accused filed against the accused against several charges, including the manner in detail and engaged in prostitution.
-
-The High Court Judge said that every person should be sure to respect his mother, sister, and his wife.
-
-The judge condemned the defendant that the judiciary does not have an accuracy of such persons with such children.
-
-The judge asked the victim whether he had to say something before he was sentenced.
-
-She was punished by the defendant and asked him to do justice.
-
-The State Counsel appealed to the court to be severely punished for the people who wish to make such mistakes in the future.
-
-The accused of the defense lawyer said in court to be the accused with the defendant and would be loose to the accused.
+මෙහිදී දඬුවම් නියම කිරීමට පෙර යමක් පැවසීමට තිබේදැයි විනිසුරුවරයා අතවරයට පත් තැනැත්තියගෙන් විමසා සිටියේය.
 
 ...
 
 [Data](articles/080337a9.json)
-
-[Extended Data](ext_articles/080337a9.ext.json)
 
 ---
 
@@ -728,31 +634,19 @@ Some of the monthly deposit are the monthly interesting of these fixed deposits.
 
 ---
 
-### Did the President became 'Gotabhaya - Part 2'?- The question of the United People's Power
+### 'கோட்டாபய - பகுதி 2'ஆக மாறிவிட்டாரா ஜனாதிபதி அநுர?  - ஐக்கிய மக்கள் சக்தி கேள்வி
 
 *2024-12-12 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201101) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+கோட்டாபய ராஜபக்ஷ ஆட்சிக் காலத்தில் இருந்ததைப் போன்று பொம்மை பட்டதாரி அமைச்சர்கள் தேசிய மக்கள் சக்தி அரசாங்கத்திலும் உள்ளனர்? ஜனாதிபதி அநுர குமார திஸாநாயக்க 'கோட்டாபய பகுதி - 2'ஆக மாறிவிட்டாரா? என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷண ராஜகருணா கேள்வியெழுப்பினார்.
 
+கொழும்பில் உள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில்  வியாழக்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-
-JVP MP Harshana Rajakaruna questions if President Anura Kumara Dissanayake is becoming like former President Gotabhaya Rajapaksa. He criticizes the Speaker for claiming a false doctorate title. Rajakaruna accuses the government of failing to solve the rice shortage problem, comparing it to Gotabhaya's regime. He urges the government to fulfill pre-election promises.
-
-🟩
-
-As in the Gotabhaya Rajapaksa regime, the toy graduate ministers are also in the National People's Power Government?Has President Anura Kumara Dissanayake became 'Gotabhaya Part 2'?United People's Power MP Harshana Rajakaruna questioned.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Thursday (12).
-
-In fact, it is doubtful whether the Speaker has deceived the people by claiming himself as a doctor, rather than a doctor's title.. We urge the Speaker to reveal the truth without delaying this disgrace. The humiliation of the Speaker is a shame for Parliament.
-
-Information is currently being revealed on the Speaker's titles. Are the national people's power government as toy graduate ministers, as former President Gotabhaya Rajapakse was in power?The JVP has an obligation to be held responsible for the country as a party that has received the massive mandate of the people.
+உண்மையில் கலாநிதி பட்டத்தைப் பெற்றுக்கொள்ளாமல், கலாநிதி என்று தன்னை தானே கூறிக்கொண்டு சபாநாயகர் மக்களை ஏமாற்றியிருக்கின்றாரா என்ற சந்தேகம் ஏற்பட்டுள்ளது. இந்த அவமரியாதையை போக்கிக் கொள்வதற்கு இனியும் தாமதிக்காமல் உண்மையை வெளிப்படுத்துமாறு சபாநாயகரை வலியுறுத்துகிறோம். சபாநாயகருக்கு ஏற்படும் அவமானம் பாராளுமன்றத்துக்கு ஏற்படும் அவமானமாகும்.
 
 ...
 
 [Data](articles/0ecd9413.json)
-
-[Extended Data](ext_articles/0ecd9413.ext.json)
 
 ---
 
@@ -832,31 +726,19 @@ Sarath Weerasekera, who was filed by the Fundamental Rights Petition filed by Mr
 
 ---
 
-### Steps to buy paddy directly from farmers - Minister of Plantation
+### விவசாயிகளிடமிருந்து நேரடியாக நெல்லை கொள்வனவு செய்ய நடவடிக்கை - பெருந்தோட்டத்துறை அமைச்சர்
 
 *2024-12-12 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201107) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+2025 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் தேசிய உற்பத்தியை மேம்படுத்த விவசாயத்துறைக்கு அதிகளவில் நிதி ஒதுக்கப்படும். அடுத்த ஆண்டு முதல் அரச கட்டமைப்பின் ஊடாக நெல்லை கொள்வனவு செய்வதற்கு உரிய நடவடிக்கை எடுக்கப்பட்டுள்ளது என பெருந்தோட்டத்துறை அபிவிருத்தி மற்றும் சமூக உட்கட்டமைப்பு அமைச்சர் சமந்த வித்யாரத்ன தெரிவித்தார்.
 
+சந்தையில் நிலவும் அரிசி மற்றும் தேங்காய் தட்டுப்பாட்டுக்கு தீர்வு காண்பதற்கு உரிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன. அடுத்த ஆண்டு முதல் அரச கட்டமைப்பின் ஊடாக விவசாயிகளிடமிருந்து நெல் அதிகளவில் கொள்வனவு செய்யப்பட்டு அரச அரிசி உற்பத்தி ஆலைகளில் களஞ்சியப்படுத்த தீர்மானிக்கப்பட்டுள்ளது.
 
-
-Steps to buy paddy directly from farmers: State purchase from 2024, storage in state rice plants, support for small-medium manufacturers. Addressing fertilizer shortages, importing 55k metric tons. Subsidized fertilizer for small coconut plantations. Measures against wildlife impact on crops.
-
-🟩
-
-In the budget of 2025. Plantation Development and Social Infrastructure Minister Samantha Vidyaratne said that steps have been taken to buy paddy through the state structure from next year.
-
-Steps have been taken to resolve the rice and coconut shortage in the market. From next year, paddy has been purchased from farmers through the state structure and has been decided to reposit in state rice production plants.
-
-As well as small and medium rice manufacturers will be provided with the necessary facilities. The need to submit to the main rice manufacturers. We will get all the necessary cooperation for the majority of agriculture.
-
-Fertilizer has not been distributed to state -owned Chilaw and Kurunegala Coconut Gardens for the past five years. How to expect high yield without proper care. National products have been affected by the wrong administration of the last government.
+அத்துடன் சிறு மற்றும் நடுத்தர அரிசி உற்பத்தியாளர்களுக்கு தேவையான வசதிகள் ஏற்படுத்திக் கொடுக்கப்படும். பிரதான அரிசி உற்பத்தியாளர்களிடம் அடிபணிய வேண்டிய தேவை. பெரும்போக விவசாயத்துக்கு தேவையான அனைத்து ஒத்துழைப்புக்களையும் பெற்றுக் கொடுப்போம்.
 
 ...
 
 [Data](articles/bd451469.json)
-
-[Extended Data](ext_articles/bd451469.ext.json)
 
 ---
 
@@ -952,29 +834,17 @@ A bond maturing on 15.09.2029 closed at 10.70/80 percent, from 10.75/90 percent.
 
 ---
 
-### Controversy on the Speaker's "Doctorate": Why President's silence?- PA
+### சபாநாயகரின் “கலாநிதி” பட்டம் தொடர்பான சர்ச்சை : ஜனாதிபதி மௌனம் காப்பது ஏன்? - பொதுஜன பெரமுன
 
 *2024-12-12 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201079) · `ta`
 
-Here's a 200-character summary:
+சிறந்த அரசியல் கலாசாரத்தை உருவாக்குவதாக நாட்டு மக்களுக்கு வாக்குறுதி வழங்கிய ஜனாதிபதி அநுரகுமார திசாநாயக்க சபாநாயகரின் கல்வித் தகைமை தொடர்பான சர்ச்சையில் அமைதி காப்பது ஏன்? இந்த அரசியல் கலாசாரத்தையா நாட்டு மக்கள் எதிர்பார்த்தார்கள்? சபாநாயகர் பதவிக்கான கௌரவம் மலினப்படுத்தப்பட்டுள்ளது என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் உறுப்பினர் மனோஜ் கமகே தெரிவித்தார்.
 
-
-
-Controversy over Speaker Ashoka Ranwala's doctorate degree. President Anura Kumara Dissanayake silent despite promising better political culture. Public demands Speaker resign or disclose qualifications. Government accused of misusing power.
-
-🟩
-
-Why is President Anura Kumara Dissanayake, who promised the people to create a better political culture in the controversy over the educational qualification of the Speaker?Did the people expect this political culture?Manoj Kamage, a member of the Sri Lanka PA, said that the honor for the post of Speaker has been blocked.
-
-Former President Mahinda Rajapakse's security has been completely reduced. Mahinda Rajapaksa's security has been reduced as the separatist ideas in the Northern and Eastern Provinces have publicly emerged.
-
-Mahinda Rajapaksa's security was reduced during the general election. The Presidential Secretariat announced that the safety of former presidents had not been reduced when he questioned the matter.. It is an improper process that 116 security officers have been removed from Mahinda Rajapaksa's security forces in the wake of the shortage of essential food products.
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு முழுமையாக குறைக்கப்பட்டுள்ளது. வடக்கு மற்றும் கிழக்கு மாகாணங்களில் பிரிவினைவாத எண்ணக்கரு பகிரங்கமாக வெளிப்படுகின்ற நிலையில் யுத்தத்தை முடிவுக்கு கொண்டு வந்த மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு குறைக்கப்பட்டுள்ளது.
 
 ...
 
 [Data](articles/b67916c0.json)
-
-[Extended Data](ext_articles/b67916c0.ext.json)
 
 ---
 
@@ -2539,5 +2409,47 @@ Meanwhile. The equipment to go to the people was hidden. He said that the Minist
 [Data](articles/8cc9de7a.json)
 
 [Extended Data](ext_articles/8cc9de7a.ext.json)
+
+---
+
+### Leptospirosis identified as cause of 7 deaths in North
+
+*2024-12-12 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104183/leptospirosis-identified-as-cause-of-7-deaths-in-north) · `en`
+
+Following tests on multiple samples, the fever which spread in the northern region of the island and claimed 7 lives, has been identified as Leptospirosis, also known as ‘rat fever’, the Epidemiology Unit of the Ministry of Health confirmed.
+
+At a media briefing held at the Health Promotion Bureau yesterday (11), the Epidemiology Unit of the Ministry of Health said that an unidentified fever is spreading in the Jaffna District, raising concerns among health authorities.
+
+Dr. Kumudu Weerakoon of the Epidemiology Unit explained that patients in the affected areas are presenting with fever and respiratory issues.
+
+Accordingly, health officials had collected samples from these individuals to confirm the exact cause of the illness, Dr. Weerakoon added.
+
+...
+
+[Data](articles/36a579fe.json)
+
+[Extended Data](ext_articles/36a579fe.ext.json)
+
+---
+
+### 140 killed in Congo
+
+*2024-12-12 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204298) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Congo: 140 deaths reported over two weeks due to unknown virus. Outbreak continues to spread concern among local authorities and health experts. Investigations underway to identify cause and contain the situation.
+
+🟩
+
+In two weeks, 143 people have been killed in two weeks from a virus that is not known.
+
+◼️
+
+[Data](articles/6744d304.json)
+
+[Extended Data](ext_articles/6744d304.ext.json)
 
 ---

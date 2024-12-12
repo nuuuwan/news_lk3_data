@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 19:03:35**
+As of **2024-12-12 19:17:22**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 10,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,787 (99.9%) of 59,839 articles have been extended.
+59,790 (99.9%) of 59,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
 
-### රත්නපුර මාර්ග අවහිරතාවක් සම්බන්ධව දැනුම්දීමක්
+### Notification on a road block in Ratnapura
 
 *2024-12-12 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204316) · `si`
 
-රත්නපුර ප්‍රදේශයේ දී හෙට (13) දින සිදුවිය හැකි මාර්ග අවහිරතාවක් සම්බන්ධව පොලීසිය විසින් විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Road block alert: Police announce traffic restrictions in Ratnapura due to Sri Pada pilgrimage processions on 13th. Expect delays on roads leading to Sri Pada from 6 AM to 10 PM.
 
-ඒ අනුව ශ්‍රී පාද වන්දනා වාරය එළැඹෙන 14 වන උඳුවප් පුර පසලොස්වක පොහොය දිනෙන් ආරම්භ වන බැවින් පැල්මඩුල්ල ගල්පොත්තාවල විහාරස්ථානයේ තැන්පත් කර ඇති සමන් දේව ප්‍රතිමාව, සධාතුක කරඬුව සහ දේව ආභාරණ මහජනතාවට වැඳපුදා ගැනීමට අවස්ථාව අද (12) දින සිදු කෙරේ.
+🟩
 
-ඉන් පසු හෙට (13) දිනයේදී ගලප්පොත්තාවල රජමහා විහාරස්ථානයේ සිට රත්නපුර පලාබද්දල මාර්ගයේ හා කුරුවිට එරත්න මාර්ගයේ ශ්‍රී පාද මළුව දක්වා පෙරහරින් වැඩම කිරීමට නියමිතව තිබේ.
+Police have issued a special announcement in connection with a road blocking in Ratnapura tomorrow (13).
 
-මෙම පෙරහැර ගමන් කිරීමට නියමිත A-04 ප්‍රධාන මාර්ගයේ පැල්මඩුල්ල සිට රත්නපුරය නව නගරය දක්වා කොටසේ හෙට උදෑසන 6 සිට උදෑසන 10.00 දක්වා පමණ කාලය තුළ රථවාහන තබදයක් ඇති විය හැකි බව පොලීසිය පවසයි.
+As the Sri Pada pilgrimage will commence the 14th Uduvath Pilgrimage, Samunooo statue, the rescue and the Gunajasa Kadu and the Gunajasa Kadu and the Gunaja (12) will be held in the Pelmadulla Galpola Temple.
 
-එබැවින් එම කාලය තුළ ඉහත මාර්ගයේ ගමන් ගන්නා රියදුරන් හා මහජනතාවට මේ සම්බන්ධව අවධානය යොමු කරන මෙන් පොලීසිය ඉල්ලා සිටියි.
+Following this will be taken to work from the Galapotha Raja Maha Viharaya tomorrow to the Sri Pada Kavilwala Road, the Kuruwita road and Kuruwita road.
+
+The procession will be held from Pelmadulla to Ratnapura from 6 am to 10 am to 10 am to 10 am to 10 am tomorrow.
+
+Therefore, the police call on the above road and to pay attention to the public.
 
 ◼️
 
 [Data](articles/24f96a1f.json)
 
+[Extended Data](ext_articles/24f96a1f.ext.json)
+
 ---
 
-### சபாநாயகருக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர தீர்மானம் - பொதுஜன பெரமுன
+### Resolution to bring no confidence motion against Speaker - PA
 
 *2024-12-12 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201115) · `ta`
 
-சபாநாயகர் அசோக ரங்வாலாவுக்கு எதிராக நம்பிக்கையில்லா பிரேரணையை கொண்டு வர தீர்மானித்துள்ளதாக பொதுஜன பெரமுன தெரிவித்துள்ளது.
+PA brings no-confidence motion against Speaker Ashoka Rangwala over alleged fraudulent educational qualifications. Party general secretary Sagara Taiyavam calls for opposition and government members' support. Motion aims to hold Speaker accountable and ensure constitutional integrity.
 
-வியாழக்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவித்த கட்சியின் பொதுச் செயலாளர் சாகர காரியவம் இதனைத் தெரிவித்தார்.
+🟩
 
-சபாநாயகர் ஆரம்பத்தில் கலாநிதி பட்டம் மற்றும் பல்வேறு பட்டங்களைக் காட்டி மக்களை ஏமாற்றி விட்டார் என அவர் தெரிவித்துள்ளார்.
+The PA has decided to bring a no -confidence motion against Speaker Ashoka Rangwala.
 
-இதன்படி, சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணையை தனது நாடாளுமன்றக் குழுவின் ஊடாக சமர்ப்பிக்க தீர்மானித்துள்ளதாகவும், இதற்கு முழு எதிர்க்கட்சியினரும், அரசாங்கத்தின் மனசாட்சியுள்ள உறுப்பினர்களும் பங்களிப்பார்கள் என எதிர்பார்ப்பதாகவும் அவர் தெரிவித்தார்.
+Speaking at a media briefing held on Thursday (12), the party's general secretary Sagara Taiyavam said this.
 
-...
+He said the Speaker had initially deceived the people with a degree and various degrees.
+
+Accordingly, he has decided to submit the no -confidence motion against the Speaker through his Parliamentary Committee and expect the entire opposition parties and the conscientious members of the government to contribute.
+
+“If any educational qualifications are being defrauded and that it is wrong, the Speaker should respect the Constitution and the entire administration of the country and immediately resign from this post without referring to the third person in the country as a fraudulent.. But unfortunately, this can be very harmful to the whole country.
+
+◼️
 
 [Data](articles/84a7057a.json)
+
+[Extended Data](ext_articles/84a7057a.ext.json)
 
 ---
 
@@ -100,19 +114,27 @@ He said he expected to submit a no-confidenceability against the Speaker through
 
 ---
 
-### மின்சார சபை மறுசீரமைப்பு யோசனை அடுத்த வாரம் அமைச்சரவைக்கு சமர்ப்பிக்கப்படும் - சக்தி வலு அமைச்சு
+### The Electricity Board Reorganization idea will be submitted to the Cabinet next week - the Ministry of Power
 
 *2024-12-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201112) · `ta`
 
-2025 ஆம் ஆண்டு முதல் ஆறுமாத காலப்பகுதிக்கு மின்கட்டணத்தை திருத்தம் செய்தால் மின்னுற்பத்திக்கு 40 பில்லியன் ரூபா மேலதிகமாக செலவு செய்ய நேரிடும். மின்கட்டணத்தை திருத்தம் செய்யாமல் இருப்பது மின்கட்டமைப்புக்கு சாதகமாக அமையும். மின்சார சபை மறுசீரமைப்பு தொடர்பான யோசனை எதிர்வரும் வாரம் அமைச்சரவைக்கு முன்வைக்கப்படும்.
+Electricity Board Reorganization plan: Cabinet submission next week. Power plant corrections from 2025 to cost 40 billion rupees. Restoration work expected by March 2025. Public consultation on power supply recommendations begins Tuesday. Implementation costs estimated at 229 billion rupees. Reductions proposed in power supply, including 22% reduction suggested by Public Use Commission. Reorganization not considered privatization, but allows private sector involvement in main and sub-services.
 
-மறுசீரமைப்பு பணிகளை 2025 மார்ச் மாதத்துக்குள் நிறைவு செய்ய எதிர்பார்;க்கப்பட்டுள்ளது என  எரிசக்தி அமைச்சின் மின்சாரத்துறை மறுசீரமைப்பு பணிப்பாளர் நாயகம் பொறியியலாளர் புபுது நிரோஷன் தெரிவித்தார்.
+🟩
 
-அரசாங்க தகவல் திணைக்களத்தில் வியாழக்கிழமை (12) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+If the power plant is corrected from 2025 to six months, it will cost 40 billion rupees for electricity.. Not to revise the electricity is favorable to the power supply. The idea of ​​the reconstruction of the Electricity Board will be presented to the Cabinet next week.
+
+He is expected to complete the restoration work by March 2025, said the Director General of Electricity Reorganization of the Ministry of Energy, Pubudu Niroshan.
+
+He was speaking at a media briefing held at the Government Information Department on Thursday (12).
+
+The Electricity Board has the obligation to clarify the people of the country on electricity correction and electricity sector reorganization. There is much talk about the recommendations made to continue the cost of implementation without amendment for the next six months.. However, no one pays attention to the technical factors.
 
 ...
 
 [Data](articles/91860bd8.json)
+
+[Extended Data](ext_articles/91860bd8.ext.json)
 
 ---
 

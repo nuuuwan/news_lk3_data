@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 08:09:22**
+As of **2024-12-12 08:35:44**
 
 ## Newspaper Stats
 
-*Scraped **59,723** Articles*
+*Scraped **59,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ dailyftlk | 4,127
 dailymirrorlk | 4,733
 adalk | 5,671
 adaderanalk | 7,270
-tamilmirrorlk | 8,522
+tamilmirrorlk | 8,523
 virakesarilk | 9,797
-adaderanasinhalalk | 10,321
+adaderanasinhalalk | 10,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,697 (100.0%) of 59,723 articles have been extended.
+59,697 (99.9%) of 59,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### ආනයනික පළමු සහල් තොගය වෙළෙ‍ඳපොළට
+
+*2024-12-12 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204290) · `si`
+
+පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කරන ලද සහල් තොග වෙළෙඳපොළට නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/dc8f2b00.json)
+
+---
+
+### හදිසි අනතුරකින් 13 හැවිරිදි දරුවෙක් මරුට
+
+*2024-12-12 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204289) · `si`
+
+ගොඩකවෙල - අම්මඩුව ප්‍රදේශයේදී ගසක අත්තක් වැදී පිරිමි දරුවෙකු මියගොස් තිබේ.
+
+මෙම දරුවාගේ පියා සහ තවත් පුද්ගලයෙකු දිරාගිය කොස් ගසක් කපමින් සිටින අවස්ථාවේ දී ඒ මෙම දරුවා සිට ඇති අතර එහිදී එකවැරම ගසේ අත්තක් මෙම දරුවාගේ හිසෙහි වැදී ඇති බව විමර්ශන වලදී හෙළි වී ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ අවුරුදු 13 ක් වයසැති රංවල, ගොඩකවෙල ප්‍රදේශයේ පදිංචිව සිටි දරුවෙකි.
+
+◼️
+
+[Data](articles/10ebfa5d.json)
+
+---
+
+### කථානායකට එරෙහිව විශ්වාසභංගයක් ?
+
+*2024-12-12 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204288) · `si`
+
+කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට බලාපොරොත්තු වන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රි අජිත් පී පෙරේරා මහතා පවසයි.
+
+ඔහු පෙන්වාදෙන්නේ, කථානායකවරයාගේ ආචාර්ය උපාධිය සම්බන්ධයෙන් ජාතික ජන බලවේගය හෝ කථානායකවරයා විසින් පැහැදිලි කිරිමක් සිදුකළ යුතු බවය.
+
+එසේ නොකළහොත් විපක්ෂයේ මන්ත්‍රීවරුන් රැස්වී සාකච්ඡා කර කථානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන එන බව පාර්ලිමේන්තු මන්ත්‍රි අජිත් පී පෙරේරා මහතා සඳහන් කළේය.
+
+...
+
+[Data](articles/c8fa17ce.json)
+
+---
+
+### ෆේස්බුක්, වට්ස්ඇප් සහ ඉන්ස්ටග්‍රෑම් යෙදුම් පැය කිහිපයකට බිඳවැටෙයි
+
+*2024-12-12 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204287) · `si`
+
+ෆේස්බුක්, ඉන්ස්ටග්‍රෑම් සහ වට්ස්ඇප් යෙදවුම්වල සිදුවු බිඳවැටීම් මේ වනවිට යථාතත්ත්වයට පත් කර ඇති බව මෙටා සමාගම පවසයි.
+
+තාක්ෂණික ගැටලුවක් හේතුවෙන් අදාළ යෙදුම් සඳහා ප්‍රවේශ වීමට බාධා එල්ලවී තිබු බව අදාළ සමාගම දැනුම්දෙයි.
+
+බ්‍රිතාන්‍ය, යුරෝපය, ඕස්ට්‍රේලියාව, ආසියාව, දකුණු අමෙරිකාව සහ අමෙරිකාව යන රටවල මෙම යෙදුම් බිඳවැටීම සිදුව තිබේ.
+
+මෙරට තුළද ඊයේ (11) රාත්‍රී 12 පමණ සිට පැය කිහිපයක කාලයක් ෆේස්බුක්, ඉන්ස්ටග්‍රෑම් සහ වට්ස්ඇප් සමාජ මාධ්‍යවල බිඳවැටීම සිදුව තිබුණි.
+
+ඉතා කඩිනමින් අදාළ යෙදවුම් යථා තත්ත්වයට පත්කිරීමට කටයුතු කළ බව මෙටා සමාගම සඳහන් කළේය.
+
+2021 වර්ෂයේ දී ද මෙවැනිම බිඳවැටීමක් සිදු වු අතර එහිදි පැය 6කට අධික කාලයක් අදාළ යෙදවුම් අක්‍රීයව පැවතුණි.
+
+◼️
+
+[Data](articles/b2302245.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-12-12 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204285) · `si`
+
+නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ අඩු පීඩන කලාපය තවදුරටත් පවතින අතර එය ඉදිරි පැය 24 තුළ බටහිරට බරව වයඹ දෙසට සෙමින් ගමන් කරමින්, ශ්‍රී ලංකාවේ උතුරු වෙරළ ආසන්නයෙන් තමිල්නාඩු වෙරළ වෙත ළඟා වීමට බොහෝ දුරට ඉඩ ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+උතුරු,උතුරු මැද, නැගෙනහිර, වයඹ, සහ බස්නාහිර පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+උතුරු පළාතේ ඇතැම් ස්ථානවලට මි.මී. 75 පමණතරමක් තද වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+සෙසු ප්‍රදේශවල  සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+මධ්‍යම, සබරගමුව, දකුණ, සහ ඌව පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/1d251d6f.json)
+
+---
 
 ### European Chamber of Commerce Sri Lanka holds AGM; appoints John Wilson as President
 
@@ -295,6 +383,24 @@ The award will be granted by Thailand Prime Minister Paetongtarn Shinawatra and 
 ...
 
 [Data](articles/4593eb52.json)
+
+---
+
+### மர்மக் காய்ச்சல்: மேலும் ஒருவர் உயிரிழப்பு
+
+*2024-12-12 02:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மக்-காய்ச்சல்-மேலும்-ஒருவர்-உயிரிழப்பு/175-348601) · `ta`
+
+மர்மக் காய்ச்சல் பாதிப்புடன் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த பருத்தித்துறையைச் சேர்ந்த மேலும் ஒருவர் உயிரிழந்துள்ளார்.
+
+மேற்படி நபர் மர்மக் காய்ச்சல் பாதிப்புடன் பருத்தித்துறை - மந்திகை ஆதார வைத்தியசாலையில் சேர்க்கப்பட்டு மேலதிக சிகிச்சைக்காக  யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டிருந்த நிலையில் நேற்று புதன்கிழமை உயிரிழந்துள்ளார்.
+
+பருத்தித்துறையைச் சேர்ந்த ஆனந்தகுமார் (வயது 47) என்ற நபரே சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இதனையடுத்து வடக்கு மாகாணத்தில் இதுவரை மர்மக் காய்ச்சலுக்குப் பலியானவர்களின் எண்ணிக்கை 7 ஆக அதிகரித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/7687bdcf.json)
 
 ---
 
@@ -2195,147 +2301,5 @@ Written comments can be sent to the Info@pucsl.gov.lk email address or by mailin
 [Data](articles/660069a2.json)
 
 [Extended Data](ext_articles/660069a2.ext.json)
-
----
-
-### PUCSL’s final decision on electricity tariff revision on Jan. 17
-
-*2024-12-11 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104166/pucsls-final-decision-on-electricity-tariff-revision-on-jan-17) · `en`
-
-The final decision of the Public Utilities Commission of Sri Lanka (PUCSL) on the proposed electricity tariff revisions will be announced on 17 January 2025, the PUCSL announced.
-
-Meanwhile, the PUCSL also said that the public consultation regarding the proposed tariff revision is scheduled to get underway from 17 December 2024.
-
-Accordingly, the general public are allowed to submit their opinions regarding the matter virtually or in writing before January 08, 2024.
-
-Post – Public Consultation on electricity tariff, Public Utilities Commission of Sri Lanka, BOC Corporate Tower, Colombo 03
-
-On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months.
-
-...
-
-[Data](articles/433db035.json)
-
-[Extended Data](ext_articles/433db035.ext.json)
-
----
-
-### Unidentified fever in Jaffna district
-
-*2024-12-11 14:30:50* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-දිස්ත්‍රික්කයේ-හඳුනා-නොගත්-උණ-රෝගී-තත්ත්වයක්/11-413579) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Undetected fever spreads in Jaffna: Dr. Kumhu Weerakoon reports at Colombo press conference."
-
-🟩
-
-Ms. Dr. Kumhu Weerakoon said that a non-detected fever is spreading in Jaffna District.
-
-She was speaking at a media briefing held in Colombo today (11).
-
-◼️
-
-[Data](articles/5c5d3256.json)
-
-[Extended Data](ext_articles/5c5d3256.ext.json)
-
----
-
-### Sri Lanka’s SEC renews Jaffna University partnership to create market professionals
-
-*2024-12-11 14:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-sec-renews-jaffna-university-partnership-to-create-market-professionals-193510/) · `en`
-
-ECONOMYNEXT – The Securities and Exchange Commission of Sri Lanka has renewed its agreement with the University of Jaffna to develop the next generation of capital market professionals.
-
-The partnership with the university began in 2009, bridging academia and the capital markets industry, and ensuring undergraduates benefit from a platform for academic and professional growth.
-
-The latest renewal reinforces this collaboration, “ensuring undergraduates continue to benefit from a robust platform for academic and professional growth,” the SEC said in a statement.
-
-“Through initiatives like these, the SEC aims to inspire a new generation of forward-thinking professionals, fostering academic excellence and driving innovation in Sri Lanka’s capital market.”
-
-...
-
-[Data](articles/a2f10fe0.json)
-
-[Extended Data](ext_articles/a2f10fe0.ext.json)
-
----
-
-### SC allows public participation in petition over LG Elections
-
-*2024-12-11 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104165/sc-allows-public-participation-in-petition-over-lg-elections) · `en`
-
-The Attorney General (AG) today (11) informed the Supreme Court that the Cabinet of Ministers has instructed the legal draftsman to amend the Local Government Elections (Special Provisions) Bill in order to make necessary provisions for holding the Local Government (LG) Elections using the 2024 voters’ list, in order to ensure the right to vote of the young voters.
-
-Appearing on behalf of the Attorney General, Deputy Solicitor General Nirmalan Vigneswaran informed this to the court, when a Fundamental Rights petition filed seeking an order that the LG Elections be held using the 2024 voters’ list was taken up for hearing today.
-
-This petition was taken up for hearing before the three-member Supreme Court judge bench comprising Chief Justice Murdu Fernando, Justices Arjuna Obeysekara and Priyantha Fernando.
-
-...
-
-[Data](articles/1f852f94.json)
-
-[Extended Data](ext_articles/1f852f94.ext.json)
-
----
-
-### Ashoka Ranwala: What did the Speaker tell the BBC about his degree that led to controversy?
-
-*2024-12-11 14:15:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8dq4270175o) · `si`
-
-Sri Lankan Speaker Asoka Ranwala controversy over educational qualifications revealed in BBC interview
-
-🟩
-
-Ashoka Ranwala: What did the Speaker tell the BBC about his degree that led to controversy?
-
-The impact of Speaker Asoka to resign from his post in the educational qualifications, is now intensified.
-
-The story of the land built, how to build Parliament, and its structure
-
-The statements that the Speaker's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Bachelor's Rumors, and the social media spread to a 'rumor';The pressure to the government from opposition politicians, university lecturers, as well as civil and political activists to expose the truth in this regard is increasing.
-
-Former Parliamentarian Thalatha Athukorala on December 10, he said: "We have that we have not been brought from the University in Japan."
-
-"Parliament of the Supreme Institute of this country. Sign - Third Designation of the country, President, Prime Minister, Speaker. The Speaker is not a position to be bull. "She said.
-
-...
-
-[Data](articles/9c21d797.json)
-
-[Extended Data](ext_articles/9c21d797.ext.json)
-
----
-
-### Killing two in 24 hours
-
-*2024-12-11 14:01:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-இருவர்-கொலை/175-348582) · `ta`
-
-Two murders reported: one in Ja-Ela, another in Lakkala. Police investigating both incidents.
-
-🟩
-
-Two people have been killed in two areas within 24 hours of the end of today (11) at 6 am, the police media unit said.
-
-A 45-year-old man was killed in a sharp weapon at a Ja-Ela shop, police said.
-
-Police investigations have revealed that alcohol was drinking with a colleague in the shop and that the other employee had been attacked by a sharp manner.
-
-A man admitted to Ragama Hospital with serious injuries dies without treatment. The suspect has fled the territory. Ja-Ela police have launched investigations to arrest him.
-
-Meanwhile, a 44 -year -old woman in Lakkala has died on Tuesday (10) after being hit by a sharp weapon.
-
-Police said the woman was assaulted by her husband due to a family dispute.
-
-The Lakkala police have arrested the suspect, investigating the incident.
-
-◼️
-
-[Data](articles/37006a39.json)
-
-[Extended Data](ext_articles/37006a39.ext.json)
 
 ---

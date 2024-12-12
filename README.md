@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 03:03:05**
+As of **2024-12-13 04:42:45**
 
 ## Newspaper Stats
 
-*Scraped **59,885** Articles*
+*Scraped **59,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
 economynextcom | 3,648
-dailyftlk | 4,134
+dailyftlk | 4,146
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
-tamilmirrorlk | 8,558
+tamilmirrorlk | 8,559
 virakesarilk | 9,828
 adaderanasinhalalk | 10,353
 
@@ -26,11 +26,241 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,847 (99.9%) of 59,885 articles have been extended.
+59,857 (99.9%) of 59,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Relatives of Major General Janaka Perera call for fresh investigation into his killing
+
+*2024-12-13 04:36:46* · [`dailyftlk`](https://www.ft.lk/news/Relatives-of-Major-General-Janaka-Perera-call-for-fresh-investigation-into-his-killing/56-770481) · `en`
+
+Relatives of the late Major General Janaka Perera, including his brother have filed a formal complaint with the Ministry of Public Security, urging a renewed investigation into the circumstances surrounding his assassination and that of his wife, Wajira Perera. The couple was killed in a suicide bombing on 6 October 2008, in Anuradhapura.
+
+Speaking to the media, Priyantha Perera, a family member, revealed that the relatives have suspicions about the involvement of a particular regional politician other than those previously held responsible. He said that the family has requested the Ministry of Public Security to launch a formal investigation and intends to submit a separate appeal to the President.
+
+...
+
+[Data](articles/da7a0d3f.json)
+
+---
+
+### Rice imports begin with 1,900 tons arriving at Colombo
+
+*2024-12-13 04:31:31* · [`dailyftlk`](https://www.ft.lk/news/Rice-imports-begin-with-1-900-tons-arriving-at-Colombo/56-770480) · `en`
+
+Rice imports have officially begun following Government approval earlier this month to address the ongoing shortage.
+
+Sri Lanka Customs yesterday announced that from 4 December to 5:30 p.m. yesterday, the country had imported 1,900 tons of rice from India.
+
+“The clearance of this rice consignment from Customs is being expedited and the Risk Management, Central Commodity Inspection, Prevention and Registration Divisions of Sri Lanka Customs have put in place a special program to release the shipment into the market very soon,” Sri Lanka Customs Media Spokesman and Additional Director General Seevali Arukgoda said.
+
+He added that this rice consignment includes Kekulu and parboiled rice varieties, imported from India.
+
+...
+
+[Data](articles/d8a46e2e.json)
+
+---
+
+### Australia-Sri Lanka relationship  continues to soar
+
+*2024-12-13 04:30:13* · [`dailyftlk`](https://www.ft.lk/news/Australia-Sri-Lanka-relationship-continues-to-soar/56-770479) · `en`
+
+Australia and Sri Lanka’s commitment to countering maritime security threats reaches new heights with the gifting of a former Royal Australian Air Force Beechcraft King Air 350 to the Sri Lanka Air Force at a special ceremony in Colombo.
+
+Legally handed over to the Sri Lanka Air Force in late October, the modern twin-engine turboprop aircraft will substantially enhance Sri Lanka’s aerial maritime surveillance capability to combat transnational crime, including people smuggling.
+
+Sri Lanka Air Force Commander Air Marshal Udeni Rajapaksa said the gift from Australia demonstrates the mutual efforts of both countries to maintaining the security of the Indian Ocean region.
+
+...
+
+[Data](articles/4373a062.json)
+
+---
+
+### UAE pledges support for Sri Lanka’s development efforts
+
+*2024-12-13 04:25:29* · [`dailyftlk`](https://www.ft.lk/news/UAE-pledges-support-for-Sri-Lanka-s-development-efforts/56-770478) · `en`
+
+Outlines plans increased investments and technical assistance in digitalisation, technology
+
+Highlights role of 150,000 Sri Lankans employed in UAE, potential for more opportunities
+
+Discussions focus on diversifying and expanding Sri Lankan exports to UAE
+
+The United Arab Emirates (UAE) has pledged its support to the Government’s efforts to create a developed and prosperous country.
+
+During a high-level meeting at the Presidential Secretariat yesterday, the UAE Ambassador to Sri Lanka, Khaled Nasser Al Ameri, assured President Anura Kumara Dissanayake of the UAE’s commitment to strengthening bilateral relations.  The Ambassador highlighted plans to increase investments in Sri Lanka and share technical expertise in digitalisation and modern technology.
+
+Highlighting the strong bilateral ties between the two countries, Ambassador Al Ameri emphasised efforts to further boost economic collaboration.
+
+...
+
+[Data](articles/41ecf607.json)
+
+---
+
+### US Embassy Colombo achieves LEED Gold Certification
+
+*2024-12-13 04:16:09* · [`dailyftlk`](https://www.ft.lk/news/US-Embassy-Colombo-achieves-LEED-Gold-Certification/56-770477) · `en`
+
+Milestone as Sri Lanka’s 50th Gold Certified Building ahead of World Energy Conservation Day
+
+US Embassy Colombo yesterday announced the achievement of Leadership in Energy and Environmental Design (LEED) Gold certification, becoming the 50th building in Sri Lanka to earn this globally recognised symbol of sustainability achievement.
+
+The US Green Building Council’s LEED green building program recognises energy efficiency, water management, waste reduction, and indoor environmental quality execution in the built environment.
+
+This milestone demonstrates the United States’ commitment to sustainability and climate resiliency in practice, the Embassy’s commitment to environmental stewardship, and respect for Sri Lanka’s ecology, history, and culture.
+
+...
+
+[Data](articles/1603093d.json)
+
+[Extended Data](ext_articles/1603093d.ext.json)
+
+---
+
+### Canada reaffirms support for  Sri Lanka’s anti-corruption efforts
+
+*2024-12-13 04:15:22* · [`dailyftlk`](https://www.ft.lk/news/Canada-reaffirms-support-for-Sri-Lanka-s-anti-corruption-efforts/56-770476) · `en`
+
+The Canadian Government has expressed its strong commitment to supporting Sri Lanka’s initiatives to combat corruption and fraud.
+
+This assurance was conveyed by High Commissioner of Canada to Sri Lanka Eric Walsh during a meeting with the Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat yesterday.  The High Commissioner emphasised Canada’s readiness to share its expertise and experiences in preventing corruption and fraud, offering technical and strategic support to help Sri Lanka achieve its anti-corruption objectives.
+
+Addressing Sri Lanka’s economic challenges, High Commissioner Walsh highlighted the impact of the country’s political culture on its economic downturn.
+
+He commended the current Government’s efforts to reform this culture, marking a significant step towards sustainable development and improved governance.
+
+...
+
+[Data](articles/05ccb297.json)
+
+---
+
+### Japan provides emergency supplies to disaster victims
+
+*2024-12-13 04:12:57* · [`dailyftlk`](https://www.ft.lk/news/Japan-provides-emergency-supplies-to-disaster-victims/56-770475) · `en`
+
+Japanese Ambas-sador Akio Isomata last week handed over emergency relief goods to Defence Secretary Air Vice Marshal Sampath Thuyacontha.
+
+The items provided are to reach the victims affected by the recent floods and landslides caused by the heavy rainfall in many parts of the island. The hand-over ceremony, which was held last evening at Bandaranaike International Airport, was also attended by Major General Udaya Herath, Disaster Management Centre of Sri Lanka Director General and Japan International Cooperation Agency (JICA) Sri Lanka Office Chief Representative Tetsuya Yamada. The items donated include 230 tents, 1,300 sleeping pads and 30 rolls of tarpaulin sheets.
+
+In his remarks, Ambassador Isomata conveyed his deepest condolences and sympathy to those affected and stressed Japan’s unwavering commitment to standing by Sri Lanka and its people when it is most needed.
+
+...
+
+[Data](articles/46130d83.json)
+
+---
+
+### Aitken Spence wins Grand Slam Award as Best Corporate Citizen of 2024
+
+*2024-12-13 04:09:11* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-wins-Grand-Slam-Award-as-Best-Corporate-Citizen-of-2024/34-770474) · `en`
+
+Aitken Spence Executive Director Dr. Rohan Fernando receiving the Grand Slam Award
+
+Aitken Spence PLC emerged as the overall winner and received the prestigious Grand Slam Award for winning the award five times at the Best Corporate Citizen Sustainability Awards (BCCSA) 2024 organised by the Ceylon Chamber of Commerce.
+
+This is a remarkable milestone for the organisation that has been a pioneer in sustainability as a corporate strategy in Sri Lanka. Moreover, Aitken Spence is the only corporate in Sri Lanka to be ranked among the Top 10 Corporate Citizens for an unmatched 19 consecutive years. The stellar performance across the key award categories showcases Aitken Spence Group’s holistic approach to sustainability and its pioneering role in shaping responsible corporate practices in Sri Lanka and beyond with its diversified business portfolio in over 10 countries.
+
+...
+
+[Data](articles/b19b5f72.json)
+
+---
+
+### Gem and jewellery industry readies for FACETS 2025 in January
+
+*2024-12-13 04:05:08* · [`dailyftlk`](https://www.ft.lk/business/Gem-and-jewellery-industry-readies-for-FACETS-2025-in-January/34-770473) · `en`
+
+The 31st FACETS Gem and Jewellery Show, organised by the Sri Lanka Gem and Jewellery Association (SLGJA) – in partnership with the National Gem and Jewellery Authority (NGJA), will open its doors between 4 and 6 January 2025 at the Cinnamon Grand, Colombo.
+
+Kicking off the new year, FACETS 2025 has become a highly anticipated event within the industry, bringing together prominent gemstone and jewellery traders, manufacturers, lapidaries and collectors from around the world. Over the years, FACETS has been a vibrant celebration of Sri Lanka’s long history and reputation as a pre-eminent source country, home to more than 75 varieties of coloured gemstones. Highlighting local jewellers and traders, the show looks to bring Sri Lankan craftsmanship to the spotlight with its unique blend of rich tradition and innovative modernity.
+
+...
+
+[Data](articles/61a96293.json)
+
+[Extended Data](ext_articles/61a96293.ext.json)
+
+---
+
+### Visionary leadership to propel bilateral trade: SLCBCC welcomes new President
+
+*2024-12-13 04:02:22* · [`dailyftlk`](https://www.ft.lk/business/Visionary-leadership-to-propel-bilateral-trade-SLCBCC-welcomes-new-President/34-770472) · `en`
+
+Sri Lanka-China Business Cooperation Council elects new leadership team at 25th AGM
+
+The Sri Lanka-China Business Cooperation Council (SLCBCC), established in 1994 to promote, encourage, develop, and strengthen trade and commerce between Sri Lanka and the People’s Republic of China, proudly announces its newly elected leadership team for the year 2024/2025.
+
+At the 25th Annual General Meeting held on 10 December, at the Galadari Hotel, Colombo, Indika Salgado was elected as the President of the Council. With a steadfast vision for strengthening the bilateral partnership between the two nations, Salgado is set to lead the SLCBCC towards greater achievements in fostering economic growth and cooperation. The newly elected leadership team includes: Vice Presidents Ranjith Laksiri and Renuka Jayamanne; Secretary General Arjuna Yatawara and Honorary Treasurer Tissa Ruberu.
+
+...
+
+[Data](articles/0ec7a088.json)
+
+[Extended Data](ext_articles/0ec7a088.ext.json)
+
+---
+
+### High Commission of Sri Lanka in Bangladesh woos more bilateral trade
+
+*2024-12-13 04:00:17* · [`dailyftlk`](https://www.ft.lk/business/High-Commission-of-Sri-Lanka-in-Bangladesh-woos-more-bilateral-trade/34-770471) · `en`
+
+High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks on enhancing bilateral trade ties between Bangladesh and Sri Lanka with Vice Chairman and CEO of the Export Promotion Bureau of Bangladesh (EPB), Anwar Hossain, on 9 December 2024 at EPB Office. Vice Chairman and CEO, Anwar Hossain also serves as the Administrator of the Bangladesh Garment Manufacturers and Exporters Association (BGMEA).
+
+...
+
+[Data](articles/85b46a27.json)
+
+---
+
+### To strengthen the financial framework
+
+*2024-12-13 03:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதிக்-கட்டமைப்பை-பலப்படுத்தவேண்டும்/175-348672) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake advises Finance Ministry officials to strengthen Sri Lanka's financial structure. He promises government support for the central bank's efforts to stabilize finances and improve effectiveness."
+
+🟩
+
+President Anura Kumara Dissanayake has advised the officials of the Finance Ministry to take necessary steps to strengthen the country's financial structure and make it effective.
+
+President Anura Kumara Dissanayake was advised at a meeting held at the Presidential Office yesterday (12) with officials of the Ministry of Finance.
+
+The President said the government would provide all measures to be taken by the central bank as an independent company to stabilize the country's financial situation and provide cooperation and facilities.
+
+The President also advised the authorities to take steps to create a good mechanism to make Sri Lanka's financial activities effective.
+
+After examining the full advances of the economy and financial structures, the focus was on the policies to ensure the financial stability and the compensation of the financial framework by the central bank.(a)
+
+◼️
+
+[Data](articles/e134fd88.json)
+
+[Extended Data](ext_articles/e134fd88.ext.json)
+
+---
+
+### Celebrating Top10 Champions of Diversity 2024
+
+*2024-12-13 02:57:58* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-Top10-Champions-of-Diversity-2024/34-770460) · `en`
+
+From left: Printcare Ceylon Ltd. and Rotary International CEO and Director K.R. Ravindran, Hemas Group Director Murtaza Esufally (who won the award along with Chairman Husein Esufally), John Keells Group President – Retail Sector and Jaykay Marketing Services Ltd. CEO Charitha Subasinghe, Sri Lanka South Asia Gateway, Terminals Chief Commercial Officer Ted Muttiah, Virtusa Corporation Global Head of Sustainability and Facilities and Virtusa Sri Lanka Joint Country Head Denver De Zylva, Hilton Sri Lanka Area General Manager Manesh Fernando, Daily FT Founding Editor and Chief Executive Nisthar Cassim, Hayleys PLC Executive Chairman Mohan Pandithage (accepted by Hayleys PLC Head of Group ESG Prashani Illangasekera), Horana Plantations PLC Director/CEO Johann A. Rodrigo, Commercial Bank PLC Managing Director/CEO Sanath Manatunge, Actor and Presenter (Top50 DEI Award Recipient) Danu Innasithamby, and Diesel and Motor Engineering Group Managing Director and CEO Gahanath Pandithage
+
+...
+
+[Data](articles/97c134b9.json)
+
+[Extended Data](ext_articles/97c134b9.ext.json)
+
+---
 
 ### Asia Foundation honours success of women in entrepreneurship
 
@@ -43,6 +273,8 @@ Themed ‘Improving the Economic Wellbeing of Vulnerable and Marginalised Women,
 ...
 
 [Data](articles/6c4df1ae.json)
+
+[Extended Data](ext_articles/6c4df1ae.ext.json)
 
 ---
 
@@ -61,6 +293,8 @@ The session was conducted in collaboration with packaging experts from the indus
 ...
 
 [Data](articles/e48ade6d.json)
+
+[Extended Data](ext_articles/e48ade6d.ext.json)
 
 ---
 
@@ -96,21 +330,29 @@ The conference aims to facilitate dialogue between Government representatives, f
 
 ---
 
-### முதலீடு, இலங்கையுடனான உறவுகளை வலுப்படுத்துவதை பிரதிநிதித்துவப்படுத்தும் அமெரிக்க அமைதிப்படை
+### Investment, the US Peace Corps representing strengthening relations with Sri Lanka
 
 *2024-12-13 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201123) · `ta`
 
-கடந்த வருடம் இடம்பெற்ற அமைதிப்படை நிகழ்ச்சித்திட்டத்தின் வரலாற்று ரீதியான மீள்தொடக்கத்தின் பின்னர் இலங்கைக்கு வருகை தந்த தன்னார்வலர்களின் இரண்டாவது குழுவைச் சேர்ந்த 19 அமெரிக்க அமைதிப்படை தன்னார்வலர்கள் வியாழக்கிழமை (12) கொழும்பில் பதவிப்பிரமாணம் செய்து வைக்கப்பட்டனர்.
+US Peace Corps strengthens ties with Sri Lanka through education and cultural exchange. 19 volunteers sworn in, trained in local languages and culture, to teach English in rural schools for two years.
 
-ஆழமடையும் அமெரிக்க இலங்கை பங்காண்மை மற்றும் கல்வி மற்றும் கலாச்சார பரிமாற்றம் தொடர்பான பகிரப்பட்ட அர்ப்பணிப்பு ஆகியவற்றை இந்நிகழ்வு அடிக்கோடிட்டுக்காட்டுகிறது.
+🟩
 
-கடந்த செப்டெம்பர் மாதம் இலங்கைக்கு வருகை தந்த இத்தன்னார்வலர்களின் குழுவானது சிங்களம் அல்லது தமிழ், இலங்கையின் கலாச்சாரம் மற்றும் கற்பித்தல் முறைகள் ஆகியவிடயங்கள் தொடர்பாக இடம்பெற்ற 12 வாரகால தீவிர பயிற்சியினை நிறைவுசெய்துள்ளது.
+19 US Peace Corps Volunteers were sworn in in Colombo on Thursday (12) from the second group of volunteers who arrived in Sri Lanka after the historical rebuilding of last year's Peace Corps Program.
 
-இலங்கை ஆசிரியர்கள் மற்றும் பாடசாலை அதிபர்களுடன் இணைந்து கிராமியப் பாடசாலைகளில் ஆங்கிலக் கல்வியினை மேம்படுத்துவதற்காக அவர்கள் எதிர் வரும் இரண்டு வருடங்களுக்கு மத்திய மற்றும் ஊவா மாகாணங்களிலுள்ள பாடசாலைகளில் ஆங்கில மொழி ஆசிரியர்களாகப் பணியாற்றுவர்.
+The event underlines the deepest US Sri Lanka's partnership and shared commitment on education and cultural exchange.
+
+The group of people who visited Sri Lanka last September has completed a 12 -week intensive training on Sinhala or Tamil, Sri Lanka's culture and teaching methods.
+
+They will work as English language teachers in schools in the Central and Uva provinces for the next two years to improve English education in rural schools, along with Sri Lankan teachers and school principals.
+
+Nimali Baduraliya, Director of the Department of English and Foreign Languages, who highlighted the importance of the event, improves English language education to create opportunities for all Sri Lankans.
 
 ...
 
 [Data](articles/015f2cbd.json)
+
+[Extended Data](ext_articles/015f2cbd.ext.json)
 
 ---
 
@@ -125,6 +367,8 @@ Following is the full speech delivered by President Anura Kumara Dissanayake at 
 ...
 
 [Data](articles/08b8d6fc.json)
+
+[Extended Data](ext_articles/08b8d6fc.ext.json)
 
 ---
 
@@ -2169,345 +2413,5 @@ It is also reported that the owner is a businessman who was engaged in gem busin
 [Data](articles/8e85d4e6.json)
 
 [Extended Data](ext_articles/8e85d4e6.ext.json)
-
----
-
-### SC rules Azath Salley’s arrest under PTA unlawful
-
-*2024-12-12 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104185/sc-rules-azath-salleys-arrest-under-pta-unlawful) · `en`
-
-The Supreme Court has ruled that the arrest and detention of the former Governor of Western Province Azath Salley, under the Prevention of Terrorism Act (PTA) in 2021 was illegal.
-
-Accordingly, the Supreme Court also ordered the respondents to pay Rs. 75,000 as compensation to the plaintiff.
-
-The former Public Security Minister Sarath Weerasekara, and the then Director of the Criminal Investigation Department (CID) were among those named as respondents in the case.
-
-◼️
-
-[Data](articles/67a8e0f0.json)
-
-[Extended Data](ext_articles/67a8e0f0.ext.json)
-
----
-
-### Inadequate packaging major cause of Sri Lanka post-harvest losses: EDB
-
-*2024-12-12 13:12:00* · [`economynextcom`](https://economynext.com/inadequate-packaging-major-cause-of-sri-lanka-post-harvest-losses-edb-193896/) · `en`
-
-ECONOMYNEXT – Inadequate packaging is a major cause of significant post-harvest losses in Sri Lanka, the Export Development Board has said.
-
-“In Sri Lanka post-harvest losses are significant, affecting 20% – 30% of vegetables and 15% – 20% of fruits. Inadequate packaging has been identified as a major cause of these losses,” the EDB said in a statement.
-
-The trade body recently conducted an awareness session focusing the packaging solutions for fruits and vegetable sector.
-
-“One of the objectives for conducting this awareness session is to reduce the post-harvest losses of fruits and vegetables through innovative packaging solutions and enhance the value of export products, benefiting the broader economy.”
-
-The session was conducted in collaboration with the Packaging Experts from the Industry and National Plant Quarantine Service with the participation of 70 exporters and potential exporters.
-
-...
-
-[Data](articles/6d228674.json)
-
-[Extended Data](ext_articles/6d228674.ext.json)
-
----
-
-### Sexual abuse of girl
-
-*2024-12-12 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201073) · `ta`
-
-Trincomalee High Court sentences 41-year-old man to 30 years for sexually abusing 15-year-old girl. Judge NMM Abdullah delivers verdict, state attorney represents victim. Case highlights severe punishment for sexual offenses against minors.
-
-🟩
-
-The Trincomalee High Court on Wednesday (11) ruled that the suspect was sentenced to 30 years in prison for allegedly sexually abusing the girl.
-
-A 15 -year -old girl in the Trincomalee -Sampur police division has been charged with sexual abuse of a suspect in the Trincomalee High Court.
-
-Supreme Court Judge NMM Abdullah sentenced the accused to 30 years in prison and the victim was granted Rs.. State Attorney Nasikesan was present on behalf of the victim in the case.
-
-Investigations have confirmed that the girl was abused three times from April 4 to May 2018 by a 41 -year -old man from Sampur.
-
-The court has ordered the victim to be sentenced to 30 years on the basis of a 10 -year sentence of 10 years in prison.
-
-Social well -wishers have suggested that such rulings will help reduce sexual offenses against girls and that such a severe punishment will be viewed in the Trincomalee court for a long time and that crimes will be welcomed only when punishment is increased.
-
-◼️
-
-[Data](articles/838d854a.json)
-
-[Extended Data](ext_articles/838d854a.ext.json)
-
----
-
-### Mysterious disease spreading in Jaffna as mysterious fever
-
-*2024-12-12 12:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-பரவி-மர்ம-நோய்-எலிக்காய்ச்சல்-என-உறுதி/175-348625) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mysterious fever spreading in Jaffna. Ministry confirms Health Development Bureau identified disease. Doctor Satyamoorthy reports deaths due to fever & respiratory issues. Victims aged 20-65. Blood samples sent to Colombo for diagnosis.
-
-🟩
-
-The Ministry of Health has confirmed that the mysterious disease that is spreading in Jaffna has been identified by the Health Development Bureau of the Bureau of Health Development.
-
-Speaking to journalists yesterday (11) regarding the spread of the spread, doctor Satyamoorthy said,
-
-He said that the death was due to fever and respiratory disorder and that the victims were between 20 - 65 years of age.
-
-He further stated that blood samples have been sent to Colombo to confirm the diagnosis, as it is usually said to be the epidemic.. Remble
-
-◼️
-
-[Data](articles/691e5606.json)
-
-[Extended Data](ext_articles/691e5606.ext.json)
-
----
-
-### Woman arrested for bribe three and a half lakhs
-
-*2024-12-12 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204301) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Woman arrested for bribery in Kandy. Allegedly sought 350,000 rupees from a resident. Incident occurred near Bogambara Playground. To be presented at Kandy Magistrate's Court.
-
-🟩
-
-A woman has been arrested by the Investigation Commission in Thalathuoya, Thalathuoya, who obtained Rs.
-
-According to a complaint lodged by a resident of Gonahena, Kadawatha, has been arrested in front of the Bogambara playground in Kandy.
-
-The lactor had requested the bribe of Rs.
-
-The suspect is to be produced before the Kandy Magistrate's Court.
-
-◼️
-
-[Data](articles/1a4fe4fb.json)
-
-[Extended Data](ext_articles/1a4fe4fb.ext.json)
-
----
-
-### The price of vegetables increased to Rs.
-
-*2024-12-12 12:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலை-ரூ-1-000-ஆக-அதிகரிப்பு/175-348624) · `ta`
-
-Vegetable prices surge: onions (400rs/kg), eggs (44rs), chicken (1400rs/kg). Green chilies, curry, and ponny prices increase. Coconut oil rates rise.
-
-🟩
-
-In some areas, the retail price of a kilogram of pony, green chillies and curry has increased from Rs 900 to Rs 1000.
-
-The retail price of one kilogram of onion has increased to 400 rupees, the price of eggs to 44 rupees and a kilogram of chicken meat to 1400 rupees.
-
-The retail price of the Baggai and Thumbagarawila has increased from Rs 600 to Rs 600 and the retail price of Thambala, Vettakkulu, Mackerlle Chundaikai, Nogaol, Tomato, Grass, Eggplant and Tuber has increased from Rs 400 to Rs 450.
-
-The retail price of pudding, radish, kerat and pumpkin has increased from Rs 300 to Rs 350.
-
-The total sales price of a kilogram of the Economic Center was 550 rupees. The total price of one kilogram of green chilli is 700 rupees, one kilogram of curry is Rs.. .
-
-In addition, the retail price of one kilogram of red onion has risen to 450 rupees, with coconut oil in some areas and the same quality coconut oil boil has risen to 800 rupees.
-
-◼️
-
-[Data](articles/0f25fa5a.json)
-
-[Extended Data](ext_articles/0f25fa5a.ext.json)
-
----
-
-### Court of Justice in court
-
-*2024-12-12 12:46:04* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ජාතික-ලැයිස්තුවට-අධිකරණයෙන්-වාරණ-නියෝගයක්/11-413602) · `si`
-
-Here's a 200-character summary:
-
-
-
-Court issues injunction order against Sri Lanka Muslim Congress representative. National list Samagiation case decided today. Colombo District Court makes ruling.
-
-🟩
-
-A brief order on the national list of the Samagiation is issued today (12th).
-
-The Colombo District Court has issued the injunction order preventing the Sri Lanka Muslim Congress representative of the Sri Lanka Muslim Congress.
-
-◼️
-
-[Data](articles/962996a6.json)
-
-[Extended Data](ext_articles/962996a6.ext.json)
-
----
-
-### Catakali cows and dogs in Amparai impact traffic
-
-*2024-12-12 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201068) · `ta`
-
-Cows and dogs roam Amparai streets, causing traffic jams and accidents. Public complains authorities haven't addressed issue. Drivers face difficulties navigating through areas with livestock. Municipal Council and health inspectors demand action for social welfare.
-
-🟩
-
-The public has been accused of accidents and traffic difficulties caused by cows and dogs.
-
-In the recent past, the most popular cows and dogs have been roaming in the Kalmunai Municipal Council of the Kalmunai Municipal Council, Napitimunai, Periyar Nilavana, Maruthamunai, Pandaruppu, Sainthamaruthu and Urban areas.
-
-Due to this, the public who are involved in traffic point out that drivers are facing various difficulties.
-
-The public alleges that the relevant authorities have not taken care of this.
-
-Most cows are able to observe dogs lying on the street. Dogs walk in front of the Kalmunai headquarters police station and many dogs are lying on the road to the police station.
-
-There is also a high traffic jam in the evening, which is not inadequate to light the night.
-
-There is an atmosphere in the area that causes massive traffic depression and fear when the sudden prevention of the vehicle to avoid colliding with the dog at an unexpected time.
-
-...
-
-[Data](articles/a9edf472.json)
-
-[Extended Data](ext_articles/a9edf472.ext.json)
-
----
-
-### Restriction to the National List of the IMC
-
-*2024-12-12 12:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவின்-தேசிய-பட்டியலுக்கு-தடையுத்தரவு/175-348622) · `ta`
-
-Colombo District Court bans United People's Power Secretary over National List controversy involving Sri Lanka Muslim Congress leader Rauk Hakeem.
-
-🟩
-
-The ban has been issued against the recommendation of four people without incorporating a representative of the Sri Lanka Muslim Congress on the national list of the United People's Power.
-
-The Colombo District Court issued the ban on Thursday (12) to the United People's Power Secretary General Ranjith Mathuma Bandara.
-
-The ban has been issued in accordance with a complaint filed by Sri Lanka Muslim Congress leader Rauk Hakeem.
-
-Additional District Judge Mrs. Samari Weerasuriya has ordered Ranjith Madhyam Bandara to testify in court on the 26th.
-
-The District Court Magistrate has issued the ban on the preparation of the National List of the National List of the United People's Power of the United People's Power.
-
-◼️
-
-[Data](articles/a58cf13c.json)
-
-[Extended Data](ext_articles/a58cf13c.ext.json)
-
----
-
-### Transparency Awareness Procession in Vavuniya!
-
-*2024-12-12 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201070) · `ta`
-
-Awareness procession in Vavuniya promotes disability rights and skills development. Organized by district secretariat and company, it aims to empower individuals with disabilities and ensure equal opportunities.
-
-🟩
-
-An awareness procession was held in Vavuniya by the Disabled Persons on Thursday (12), the International Day for Persons.
-
-The procession, which began in front of the Vavuniya New Bus Stand, reached the Vavuniya Municipal Cultural Hall in front of the Vavuniya New Bus Station on the theme to expand the leadership of those who are inability and sustainable future.
-
-The procession was carrying out the words "trust in the minds of those involved in the procession", "work rights all" and "not in disability to skill."
-
-It is noteworthy that the event was organized by the Vavuniya District Secretariat and Ohanan Company.
-
-◼️
-
-[Data](articles/a1d0ff85.json)
-
-[Extended Data](ext_articles/a1d0ff85.ext.json)
-
----
-
-### Son killed when father had fallen
-
-*2024-12-12 12:14:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தந்தை-வெட்டிய-கிளை-விழுந்ததில்-மகன்-பலி/76-348620) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Son (13) dies after falling branch from palm tree cuts him while he was helping his father cut down a jack tree in Sri Lanka. Police investigating incident."
-
-🟩
-
-Kodagawela police said that a branch of a pala tree cut by a father fell on the head of the Kodagawala area on Wednesday evening in Ammuduwa, which belongs to the Ratnapura and Kodagawala police division.
-
-The 13 -year -old son died. The deceased son has gone to cut a jack tree along with his father and person.
-
-In this case, the father and the person were cutting down the jack tree, the police said that a tree branch had fallen into the son's head.. Further investigations are being carried out by the Kodagawala police.
-
-◼️
-
-[Data](articles/b91c8276.json)
-
-[Extended Data](ext_articles/b91c8276.ext.json)
-
----
-
-### The flu flu is a flu flu
-
-*2024-12-12 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204300) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rat fever outbreak: 7 deaths at Jaffna hospital confirmed. Ministry of Health tests positive. Investigations ongoing.
-
-🟩
-
-The rat fever has been confirmed that seven persons die at the Jaffna hospital.
-
-The Ministry of Health states that the samples of the samples confirmed this.
-
-Seven persons were killed in the number of patients who were admitted to the Jaffna Teaching Hospital for several days due to fever and breathing difficulties.
-
-Community Medical Specialist Dr. Thumbarara, Community Media Science Unit, Speaking further
-
-"The samples of the seven patients have been convened to the Ceylon Hospital and the samples of several patients and the samples of several patients.. Other research being carried out. In the meantime, investigations are conducting investigations into the incident. "
-
-◼️
-
-[Data](articles/7de82208.json)
-
-[Extended Data](ext_articles/7de82208.ext.json)
-
----
-
-### 47,000 tourists cast in December
-
-*2024-12-12 12:03:56* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මේ-දක්වා-සංචාරකයන්-47000ක්-ඇවත්/11-413601) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-47,000 tourists arrived in December. 47,175 visitors from Dec 1-8. Sri Lanka aims for 2 million tourists this year. Approximately 48,000 tourists expected in 22 days.
-
-🟩
-
-47175 tourists have arrived in December 1 to 8 in December.
-
-July 1, January and December 8, Sri Lanka has arrived in Sri Lanka from 1st 852 tourists.
-
-It is planned to call for two million tourists to Sri Lanka in this year.
-
-Accordingly, nearly 48,000 tourists should be called to Sri Lanka within 22 such days.
-
-◼️
-
-[Data](articles/72ea39f9.json)
-
-[Extended Data](ext_articles/72ea39f9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 17:44:12**
+As of **2024-12-12 18:04:07**
 
 ## Newspaper Stats
 
-*Scraped **59,834** Articles*
+*Scraped **59,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 5,686
 adaderanalk | 7,284
 tamilmirrorlk | 8,555
 virakesarilk | 9,813
-adaderanasinhalalk | 10,346
+adaderanasinhalalk | 10,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,778 (99.9%) of 59,834 articles have been extended.
+59,778 (99.9%) of 59,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### කථානායකවරයාට එරෙහිව විශ්වාසභාංගයක් ගෙන ඒමට තීරණය වෙයි
+
+*2024-12-12 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204315) · `si`
+
+කථානායක අශෝක රංවල මහතාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට තීරණය කළ බව පොදුජන පෙරමුණ පවසයි.
+
+අද (12) පැවැති මාධ්‍ය සාකච්ඡාවකට එක් වෙමින් එම පක්ෂයේ මහ ලේකම් නීතිඥ සාගර කාරියවම් මහතා මේ බව පැවසීය.
+
+කථානායකවරයා මුල් අවස්ථාවේදී ඔහුට ආචාර්ය උපාධියක් ඇති බවට සහ විවිධ උපාධි ඇති බවට පෙන්වා ජනතාව රවටා ඇති බවත් ඔහු පැවසීය.
+
+ඒ අනුව කථානායකවරයාට එරෙහි විශ්වාසභංගයක් සිය පාර්ලිමේන්තු කණ්ඩායම හරහා ඉදිරිපත් කිරීමට තීරණය කළ බවත් මේ සඳහා සමස්ත විපක්ෂය මෙන්ම හෘද සාක්ෂියට එකඟ ආණ්ඩුවේ පිරිස්ද  මේ සඳහා දායකත්වය ලබා දෙනු ඇතැයි තමන් අපේක්ෂා කරන බවද ඔහු මෙහිදී පැවසීය.
+
+"තමන් සම්බන්ධව වංචනිකව යම්කිසි අධ්‍යාපන සුදුසුකමක් ජනතාවට දැනුම්වත් කරලා තිබිලා එය වැරදි බවට හෙළි වෙලා තියෙනවා නම් කථානායකවරයා කළ යුත්තේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවට සහ රටේ සමස්ථ පරිපාලනයට ගරු කරමින් රටේ තුන්වැනි පුද්ගලයා වංචනිකයෙක් කියන නාමය දෙන්නේ නැතිව මේ තනතුරින් වහාම ඉවත් වීම. නමුත් අවාසනාවකට අපිට එහෙම දෙයක් පේන්නේ නැහැ. මේක සමස්ත රටටම ඉතාම හානිදායක තත්ත්වයක්."
+
+◼️
+
+[Data](articles/f6e51e48.json)
+
+---
 
 ### President calls for strengthening Sri Lanka’s financial system
 
@@ -2333,33 +2353,5 @@ In the year 2021, the similar crash took place, and the inputs were disabled in 
 ...
 
 [Data](articles/785c0f21.json)
-
----
-
-### A change in the weather
-
-*2024-12-12 06:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204285) · `si`
-
-Weather update: Low pressure system affects northern regions, heavy showers expected, thunderstorms possible, lightning warnings issued.
-
-🟩
-
-The Department of Meteorology says that the low pressure zone of the south-long Bay of Bay of Baying region will continue to reach the Thamilpura Beach.
-
-Showers or thundershowers will occur at times in the Northern, North Central, Eastern, North Western and Western provinces.
-
-MM to certain places in the Northern Province. About 75 heavy showers could be caused.
-
-Showers or thundershowers will occur at the evening or evening.
-
-There is a murder in the Central, Sabaragamuwa, Southern and Uva provinces.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/1d251d6f.json)
-
-[Extended Data](ext_articles/1d251d6f.ext.json)
 
 ---

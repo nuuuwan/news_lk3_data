@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 13:43:45**
+As of **2024-12-12 14:29:22**
 
 ## Newspaper Stats
 
-*Scraped **59,791** Articles*
+*Scraped **59,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,638
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,679
-adaderanalk | 7,278
-tamilmirrorlk | 8,543
+adalk | 5,681
+adaderanalk | 7,279
+tamilmirrorlk | 8,549
 virakesarilk | 9,806
 adaderanasinhalalk | 10,336
 
@@ -26,11 +26,167 @@ adaderanasinhalalk | 10,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,736 (99.9%) of 59,791 articles have been extended.
+59,744 (99.9%) of 59,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### பைசர் முஸ்தபா தெரிவு செய்யப்பட்டது ஏன்?
+
+*2024-12-12 14:20:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பைசர்-முஸ்தபா-தெரிவு-செய்யப்பட்டது-ஏன்/175-348632) · `ta`
+
+முன்னாள் அமைச்சர் காஞ்சன விஜேசேகரவின் பெயரை கட்சித் தலைவர் ரணில் விக்கிரமசிங்க அங்கீகரித்திருந்த போதிலும், தேசிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினராக முன்னாள் அமைச்சர் பைசர் முஸ்தபாவின் பெயர் தெரிவு செய்யப்பட்டதாக தேசிய ஜனநாயக முன்னணியின் புதிய அறிக்கை தெரிவிக்கிறது.
+
+முஸ்தபாவின் வேட்புமனுவின் பின்னணியில் உள்ள தீர்மானத்தை தெளிவுபடுத்தும் NDF செயலாளர் வெளியிட்டுள்ள அறிக்கையில், காஞ்சன விஜேசேகரவின் பெயர் 18 கூட்டணி உறுப்பினர்களின் கையொப்பத்துடன் முன்மொழியப்பட்டது என்றும் அதை விக்கிரமசிங்கவும் ஒப்புக்கொண்டார் என்றும் கூறுகிறது.
+
+எவ்வாறாயினும், அதே வேளையில் பைசர் முஸ்தபாவை முன்னிறுத்தி மற்றுமொரு பிரேரணை முன்வைக்கப்பட்டதாக தேசிய ஜனநாயக முன்னணியின் செயலாளர் கூறினார்.
+
+இதனையடுத்து, முன்னாள் பிரதமர் தினேஷ் குணவர்தனவின் பெயரும் முன்மொழியப்பட்டிருந்த நிலையில், முன்னாள் அமைச்சர் டிரன் அலஸை முன்னிறுத்தி குணவர்தன மாற்றுக் கோரிக்கையை முன்வைத்திருந்தார்.
+
+...
+
+[Data](articles/6be0c855.json)
+
+---
+
+### யானைக்கு வாழைப்பழம் கொடுத்த பெண் பலி
+
+*2024-12-12 14:16:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானைக்கு-வாழைப்பழம்-கொடுத்த-பெண்-பலி/175-348631) · `ta`
+
+கோனகனார பொலிஸ் பிரிவிற்குட்பட்ட புத்தல கதிர்காமம் வீதியில்   கதிர்காமம் நோக்கி பயணித்த லொறி யானையால் கவிழ்ந்ததில், அந்த லொறிக்குள் அகப்பட்ட  பெண் உடல் நசுங்கி உயிரிழந்துள்ளதாக கோனகனார பொலிஸார் தெரிவித்தனர்.
+
+முதுகண்டிய மீனவ கிராமத்தைச் சேர்ந்த ஆறு பிள்ளைகளின் தாயாரான கே.ஜி.கெரசுதி (66) என்ற பெண்ணே  இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் , கிராமத்தைச் சேர்ந்த குழுவினருடன் லொறியில் கதிர்காம யாத்திரைக்குச் கடந்த (12) சென்று கொண்டிருந்த போது வீதியை மறித்து கொண்டு காட்டு யானைக்கு நின்று கொண்டுள்ளது. .
+
+வாழைப்பழம் சீப்பு விடுக்கப்பட்டதை அடுத்து, காட்டு யானை, லொறியில் இன்னும் உணவுகளை தேடியது. உணவுகள் கிடைக்காமையால், தனது தும்பிக்கையால் லொறியை புரட்டியது.
+
+இதன்போது முன் ஆசனத்தில் அமர்ந்திருந்த  பெண் உடல் நசுங்கி பலத்த காயங்களுடன் புத்தள பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+
+உயிரிழந்த பெண்ணின் மரணம் தொடர்பான பிரேத பரிசோதனை மற்றும் பிரேத பரிசோதனை மொனராகலை மாவட்ட பொது வைத்தியசாலையில் நடைபெற்றது.
+
+◼️
+
+[Data](articles/dd020ce6.json)
+
+---
+
+### ஆர்ப்பாட்டத்தில் பொலிஸாரைத் தாக்கியது யார்?
+
+*2024-12-12 14:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-பொலிஸாரைத்-தாக்கியது-யார்/175-348629) · `ta`
+
+பத்தரமுல்ல இசுருபாய கட்டிடத்திற்கு வெளியே நடைபெற்ற ஆர்ப்பாட்டத்தின் போது பொலிஸ் உத்தியோகத்தர்களுக்கு ஏற்பட்ட காயங்களுக்கு இராணுவ புலனாய்வு அதிகாரி ஒருவரே காரணம் என்று கூறப்படும் செய்திகள் குறித்து இலங்கை பொலிஸ் விசேட புலனாய்வு பிரிவு (SIU) விசாரணைகளை ஆரம்பித்துள்ளது.
+
+டிசம்பர் 2 ஆம் திகதி பாடசாலை அபிவிருத்தி உத்தியோகத்தர்கள், நிரந்தர ஆசிரியர் நியமனம் கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட போது, ​​பொலிஸாருடன் மோதலில் ஈடுபட்ட சம்பவம் இடம்பெற்றுள்ளது.
+
+எவ்வாறாயினும், இராணுவ புலனாய்வு அதிகாரி ஒருவரே காயங்களுக்கு காரணமானவர் என தலங்கம பொலிஸார் கடுவெல நீதவானிடம் அறிவித்துள்ளதாக சில ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+எவ்வாறாயினும், இந்த தாக்குதலில் இராணுவ புலனாய்வு அதிகாரி சம்பந்தப்பட்டதற்கான எந்த ஆதாரமும் தங்களின் விசாரணையில் வெளிப்படுத்தப்படவில்லை என்று பொலிஸார் தெளிவுபடுத்தியுள்ளனர்.
+
+...
+
+[Data](articles/80db5473.json)
+
+---
+
+### Beginning of a program of contraception for monkeys
+
+*2024-12-12 14:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குரங்குகளுக்கு-கருத்தடை-செய்யும்-வேலைத்திட்டம்-ஆரம்பம்/175-348628) · `ta`
+
+Contraception program for monkeys launched in Matale to combat crop destruction. Ministry allocates Rs. 4.5 million. Monkeys contracted at Wildlife Research Center, then released back into forest. Minister addresses environmental concerns while prioritizing farmers' livelihoods.
+
+🟩
+
+The pioneer program of contraception for the monkeys in an effort to address crop destruction begins today in Matale.
+
+The Ministry of Agriculture has received Rs.. 4.5 million has been allocated.
+
+The monkeys are taken to the Wildlife Research and Training Center in Kiridale, where they are contracted and then re -left in the forest.
+
+Meanwhile, the Minister of Agriculture, KD Lalkanta, explained in a recent comment in Parliament on the monkeys that destroy crops, said he had only highlighted the need to control the threat.
+
+The Minister said that environmental activists are concerned about the killing of monkeys and that it is the only purpose to help the livelihood of the peasantry.
+
+“I think it is good to be involved in this discussion of environmentalists. I intended to raise awareness across the country in this regard. The intervention of various parties is currently achieved.
+
+◼️
+
+[Data](articles/306aed29.json)
+
+[Extended Data](ext_articles/306aed29.ext.json)
+
+---
+
+### Wisdom abuse: 30 years in prison for the accused
+
+*2024-12-12 13:57:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-குற்றவாளிக்கு-30-வருட-சிறை/175-348627) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Trincomalee High Court sentences 41-year-old man to 30 years for sexual abuse of 15-year-old girl. Victim awarded ₹3 lakh compensation. Case highlights efforts to combat sexual offenses against minors.
+
+🟩
+
+The Trincomalee High Court on Wednesday (11) ruled that the Trincomalee High Court was sentenced to 30 years in prison and a compensation of Rs 3 lakh to the victim.
+
+A 15 -year -old girl in the Trincomalee -Sampur police division has been charged with sexually abusing a suspect in the Trincomalee High Court.
+
+Supreme Court Judge NMM Abdullah had sentenced the accused to 30 years in prison and the victim was sentenced to Rs 3 lakhs as a result of the case.
+
+State Attorney Nasikesan was present on behalf of the victim in the case.
+
+Investigations have confirmed that the girl was abused three times from April 4 to May 2018 by a 41 -year -old man from Sampur.
+
+The court also ordered the victim to pay Rs.
+
+Such rulings will help reduce sexual offenses against girls and women.. Social welfare wishes have commented on this verdict that such judgments are welcomed.
+
+◼️
+
+[Data](articles/8f4e97db.json)
+
+[Extended Data](ext_articles/8f4e97db.ext.json)
+
+---
+
+### அசாத் சாலி தடுத்து வைக்கப்பட்டமை சட்டவிரோதமானது
+
+*2024-12-12 13:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசாத்-சாலி-தடுத்து-வைக்கப்பட்டமை-சட்டவிரோதமானது/175-348626) · `ta`
+
+பயங்கரவாதத் தடைச் சட்டத்தின் (PTA) கீழ் 2021ஆம் ஆண்டு மேல் மாகாண முன்னாள் ஆளுநர் அசாத் சாலி கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டமை சட்டவிரோதமானது என இலங்கையின் உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+பிரதிவாதிகளில் முன்னாள் பொது பாதுகாப்பு அமைச்சர் சரத் வீரசேகர மற்றும் குற்றப் புலனாய்வு திணைக்களத்தின் (CID) பணிப்பாளர் ஆகியோர் அடங்குவர்.
+
+அசாத் சாலி 9 மார்ச் 2021 அன்று ஒரு ஊடகவியலாளர் சந்திப்பில் கருத்து தெரிவித்ததற்காக PTA இன் கீழ் 16 மார்ச் 2021 அன்று கைது செய்யப்பட்டார்.
+
+ஏறக்குறைய ஒன்பது மாதங்கள் தடுப்புக்காவலில் இருந்த பின்னர், 2021 டிசம்பர் 2 அன்று கொழும்பு உயர் நீதிமன்றத்தால் அவருக்கு எதிராக தாக்கல் செய்யப்பட்ட அனைத்து குற்றச்சாட்டுகளிலிருந்தும் அவர் விடுவிக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/7fd6fc95.json)
+
+---
+
+### SC rules Azath Salley’s arrest under PTA unlawful
+
+*2024-12-12 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104185/sc-rules-azath-salleys-arrest-under-pta-unlawful) · `en`
+
+The Supreme Court has ruled that the arrest and detention of the former Governor of Western Province Azath Salley, under the Prevention of Terrorism Act (PTA) in 2021 was illegal.
+
+Accordingly, the Supreme Court also ordered the respondents to pay Rs. 75,000 as compensation to the plaintiff.
+
+The former Public Security Minister Sarath Weerasekara, and the then Director of the Criminal Investigation Department (CID) were among those named as respondents in the case.
+
+◼️
+
+[Data](articles/67a8e0f0.json)
+
+[Extended Data](ext_articles/67a8e0f0.ext.json)
+
+---
 
 ### Sexual abuse of girl
 
@@ -224,21 +380,27 @@ The District Court Magistrate has issued the ban on the preparation of the Natio
 
 ---
 
-### வவுனியாவில் மாற்றுத்திறனாளிகள் விழிப்புணர்வு ஊர்வலம் !
+### Transparency Awareness Procession in Vavuniya!
 
 *2024-12-12 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201070) · `ta`
 
-இயலாமையுடன் கூடிய நபர்களுக்கான சர்வதேச தினமான இன்று வியாழக்கிழமை (12) மாற்றுத்திறனாளிகளால் வவுனியாவில் விழிப்புணர்வு ஊர்வலம் ஒன்று முன்னெடுக்கப்பட்டது.
+Awareness procession in Vavuniya promotes disability rights and skills development. Organized by district secretariat and company, it aims to empower individuals with disabilities and ensure equal opportunities.
 
-அந்தவகையில் உள்வாங்கல் மற்றும் நிலையான எதிர்காலத்திற்காக இயலாமையுடையவர்களின் தலைமைத்துவத்தை விரிவுபடுத்தல் எனும் தொனிப்பொருளில் வவுனியா புதியபேருந்து நிலையத்திற்கு முன்பாக ஆரம்பமான ஊர்வலம் வைத்தியசாலை சுற்றுவட்டத்தை அடைந்து அங்கிருந்து வவுனியா நகரசபை கலாசார மண்டபத்தை அடைந்தது.
+🟩
 
-“ஊர்வலத்தில் ஈடுபட்டவர்கள் நம்பிக்கை மனதில் உண்டு நம்பி கை கொடுங்கள்“, “தொழில் உரிமை அனைவருக்கும் உண்டு“, “திறமைக்கு இயலாமை தடைகள் அல்ல“ போன்ற வாசகங்கள் தாங்கிய பதாதைகளை ஏந்தியிருந்தனர்.
+An awareness procession was held in Vavuniya by the Disabled Persons on Thursday (12), the International Day for Persons.
 
-குறித்த நிகழ்வு வவுனியா மாவட்டசெயலகம் மற்றும் ஓஹான் நிறுவனம் ஆகியவை இணைந்து நடாத்தியிருந்தமை குறிப்பிடத்தக்கது.
+The procession, which began in front of the Vavuniya New Bus Stand, reached the Vavuniya Municipal Cultural Hall in front of the Vavuniya New Bus Station on the theme to expand the leadership of those who are inability and sustainable future.
+
+The procession was carrying out the words "trust in the minds of those involved in the procession", "work rights all" and "not in disability to skill."
+
+It is noteworthy that the event was organized by the Vavuniya District Secretariat and Ohanan Company.
 
 ◼️
 
 [Data](articles/a1d0ff85.json)
+
+[Extended Data](ext_articles/a1d0ff85.ext.json)
 
 ---
 
@@ -268,23 +430,51 @@ In this case, the father and the person were cutting down the jack tree, the pol
 
 ---
 
-### යාපනයේ පැතිර ගිය උණ රෝගය මී උණ බවට තහවුරු වෙයි
+### The flu flu is a flu flu
 
 *2024-12-12 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204300) · `si`
 
-යාපනය රෝහලේදී පුද්ගලයින් හත්දෙනෙකු මියයාමට හේතුව මී උණ බව තහවුරු වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සාම්පල පරීක්ෂාවෙන් අනතුරුව මේ බව තහවුරු වූ බව සෞඛ්‍ය අමාත්‍යාංශය වසංගත රෝග විද්‍යා අංශය පවසයි.
 
-උණ සහ හුස්ම ගැනීමේ අපහසුතා හේතුවෙන් ගෙවුණු දින කිහිපය තුළ යාපනය ශික්ෂණ රෝහලට ඇතුළත් කළ රෝගීන් අතරින් 7 දෙනෙකු මියගොස් තිබුණි.
 
-මේ පිළිබඳව වැඩිදුරටත් අදහස් දැක්වු වසංගත රෝග විද්‍යා අංශයේ, ප්‍රජා වෛද්‍ය විශේෂඥ වෛද්‍ය තුෂාණි දඹරේරා මහත්මිය,
+Rat fever outbreak: 7 deaths at Jaffna hospital confirmed. Ministry of Health tests positive. Investigations ongoing.
 
-"මේ රෝගීන් 7 දෙනාගේ සාම්පල මේ වනවිට වෛද්‍ය සාම්පල ආයතනය සහ මහනුවර ජාතික රෝහලේ රසායනාගාරයට යවා පරීක්ෂණ කටයුතු ආරම්භ කර එම රෝගීන් කිහිපදෙනෙකුගේ සාම්පල මීණ උණ හෙවත් Leptospirosis රෝගය ලෙස තහවුරු වී තිබෙනවා. අනෙකුත් පර්යේෂණ කටයුතු සිදුකෙරෙමින් පවතිනවා. ඉන්ෆ්ලුවෙන්සා හෝ වෙනත් රෝග තත්ත්වයන් මේ අතරේ තිබෙනවා ද කියලා මේ වෙද්දි පරීක්ෂණ පවත්වනවා."
+🟩
+
+The rat fever has been confirmed that seven persons die at the Jaffna hospital.
+
+The Ministry of Health states that the samples of the samples confirmed this.
+
+Seven persons were killed in the number of patients who were admitted to the Jaffna Teaching Hospital for several days due to fever and breathing difficulties.
+
+Community Medical Specialist Dr. Thumbarara, Community Media Science Unit, Speaking further
+
+"The samples of the seven patients have been convened to the Ceylon Hospital and the samples of several patients and the samples of several patients.. Other research being carried out. In the meantime, investigations are conducting investigations into the incident. "
 
 ◼️
 
 [Data](articles/7de82208.json)
+
+[Extended Data](ext_articles/7de82208.ext.json)
+
+---
+
+### දෙසැම්බරයේ මේ දක්වා සංචාරකයන් 47000ක් ඇවත්
+
+*2024-12-12 12:03:56* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මේ-දක්වා-සංචාරකයන්-47000ක්-ඇවත්/11-413601) · `si`
+
+මේ වසරේ දෙසැම්බර් මාසයේ පළමු වැනිදා සිට 8 වැනිදා දක්වා සංචාරකයන් 47175ක් පැමිණ තිබේ.
+
+එසෙම මෙ වසරේ ජනවාරි පළමුවැනිදා සිට දෙසැම්බර් 8දා තෙක් සංචාරකයන් 1 852 048ක්ද ශ්‍රි ලංකාවට පැමිණ තිබේ.
+
+මේ වසරේදි ශ්‍රි ලංකාවට සංචාරකයන් මිලියන දෙකක ප්‍රමාණයක් කැඳවා ගැනීමට සැලසුම් කර තිබේ.
+
+ඒ අනුව තවත් දින 22ක් තුළ සංචාරකයන් 48 000කට ආසන්න පිරිසක් ශ්‍රි ලංකාවට කැඳවා ගත යුතු වෙයි.
+
+◼️
+
+[Data](articles/72ea39f9.json)
 
 ---
 
@@ -314,17 +504,57 @@ The District Court Magistrate has issued the ban on the preparation of the Natio
 
 ---
 
-### கவர்ச்சிகரமான கார்ட் ஊக்குவிப்பு மூலம் பண்டிகைக்கால ஷொப்பிங்கை தீவிரப்படுத்தும் கொமர்ஷல் வங்கி
+### Commercial Bank that intensifies festive shops with attractive card promotion
 
 *2024-12-12 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201060) · `ta`
 
-பண்டிகைக் கால ஷொப்பிங்கானது நுகர்வோர் எண்ணங்களில் ஆதிக்கம் செலுத்தத் தொடங்கியுள்ள நிலையில், இலங்கையின் கொமர்ஷல் வங்கியானது, கடனட்டை மற்றும் டெபிட் அட்டை வைத்திருப்பவர்களுக்காக அதன் வருடாந்த ஆண்டு இறுதி விலைக்கழிவு சலுகை பொனான்ஸாவை வெளியிட்டது.
+Here's a 200-character summary:
 
-இலங்கை முழுவதும் உள்ள 4,000 வர்த்தக விற்பனை நிலையங்கள் 2024 டிசம்பர் 31 வரை தேர்ந்தெடுக்கப்பட்ட நாட்களில் 50மூ வரையிலான விலைக்கழிவு சலுகையை அதன் அட்டைதாரர்களுக்கு வழங்கவுள்ளதாக வங்கி அறிவித்துள்ளது.
+
+
+Commercial Bank Sri Lanka festive season promotion: Up to 50% off at 4000 outlets till Dec 31, 2024. Debit/credit card holders enjoy discounts on various products/services. Expands annually, attracting more businesses and customers.
+
+🟩
+
+While the festive season shoping has begun to dominate consumer thoughts, Sri Lanka's Commercial Bank has released its annual final waste offer for debt and debit card holders.
+
+The bank has announced that 4,000 commercial outlets across Sri Lanka will be offering up to 50 % of the price of a price of up to 31 December 2024.
+
+These Waste Offers are 187 business shareholders, clothing and clothing vendors, 62 lifestyle production shareholders, 26 shoes sales and retailers, 74 hotel shareholders, 22 ornamental partners, 18 health care stations, nine hairdressers, spa and cosmetics partners, spa and cosmetics partnersThe bank said that five stall market shareholders will be provided with nine automobile sales stakeholders, six watches and accessories shareholders and seven food stakeholders.
+
+In addition, 90 Internet vendors shareholders will offer the price of Commercial Bank's debt and debit card holders during this festive promotion.
 
 ...
 
 [Data](articles/3700c1e6.json)
+
+[Extended Data](ext_articles/3700c1e6.ext.json)
+
+---
+
+### Three other matches today in Lanka T10 League
+
+*2024-12-12 11:55:20* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-ලීග්-ක්‍රිකට්-තරගාවලියේ-තවත්-තරග-03ක්-අද/9-413600) · `si`
+
+Here's a summary of the matches in 200 characters:
+
+
+
+Lanka T10 League: Today's matches - Candy Bolt vs Nuwara Eliya Kings (4pm), Match 2 (6:15pm), Colombo Banglavels (time unspecified).
+
+🟩
+
+Three other matches will be held today (12) in the Lanka T10 League.
+
+The first match will be held with the Candy Bolt team and the Nuwara Eliya Kings team, and the match is scheduled to start at 4 pm.
+
+The second match team is scheduled to play between 06:15 pm and the third match between the Colombo Banglavels.
+
+◼️
+
+[Data](articles/739db4d7.json)
+
+[Extended Data](ext_articles/739db4d7.ext.json)
 
 ---
 
@@ -370,21 +600,29 @@ The District Court issued this order after considering a plaint filed by SLMC le
 
 ---
 
-### සමගි ජන බලවේගයට වාරණ නියෝගයක්
+### Enjoining order for unique people
 
 *2024-12-12 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204299) · `si`
 
-ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ මහ ලේකම් නිසාම් කාරියප්පර් මහතාගේ නම ඇතුළත් කිරීමකින් තොරව සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර පුරප්පාඩු පිරවීම සඳහා මැතිවරණ කොමිසම වෙත නම් යැවීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් වාරණ නියෝගයක් නිකුත් කළේය.
+Colombo court issues injunction against naming SLMC leader. Rauf Hakeem seeks protection from disclosure of political support. Memorandum of Understanding binds allocation of National List seats.
 
-ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයේ නායක රවුෆ් හකීම් මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව කොළඹ අතිරේක දිසා විනිසුරු චමරි වීරසූරිය මහත්මිය විසින් එම පක්‍ෂයේ මහ ලේකම් රංජිත් මද්දුම බණ්ඩාර මහතා වෙත මෙම වාරණ  නියෝගය නිකුත් කළේය.
+🟩
 
-පෙත්සම්කාර රවුෆ් හකීම් මහතා කියා සිටින්නේ, ඉකුත් ජනාධිපතිවරණයේදී තමන් නායකත්වය දරණ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය විසින් සමගි ජන බලවේගයේ ජනාධිපති අපේක්ෂක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කළ බවය.
+The Colombo District Court issued an injunction to prevent the name of the National List Member of the Sri Lanka Muslim Congress General Secretary of the Sri Lanka Muslim Congress.
 
-එමෙන්ම ඉකුත් මහ මැතිවරණයේදී තම පක්ෂය විසින් සමගි ජන බලවේගය සමඟ ඉකුත් ඔක්තෝබර් මස 10 වනදා මහා මැතිවරණයට තරග කිරීම සම්බන්ධයෙන් ලිඛිත අවබෝධතා ගිවිසුමක් ඇති කරගත් බවත් පැමිල්ලිකරු සඳහන් කළේය.
+Colombo Additional District Judge Chamari Weerasuriya, the General Secretary of the Sri Lanka Muslim Congress Rauff Hakeem issued the enjoining order.
+
+Petitioner Rauf Hakeem says that the Sri Lanka Muslim Congress, who is captained by the Sri Lanka Muslim Congress, has supported the presidential candidate of the prospect of the prospect of the Sri Lanka Force in the last presidential election.
+
+At the last general election, his party has made a written Understanding Agreement on October 10.
+
+Accordingly, the complaint agreed that the Sri Lanka Muslim Congress General Secretary of the Sri Lanka Muslim Congress as the National List MP's as the National List MP.
 
 ...
 
 [Data](articles/a1e7bd3e.json)
+
+[Extended Data](ext_articles/a1e7bd3e.ext.json)
 
 ---
 
@@ -1881,237 +2119,5 @@ The market performance was positive and stable for the 12th consecutive day. Due
 ...
 
 [Data](articles/5a9f18e4.json)
-
----
-
-### Welikada jailers threatened with jewelery
-
-*2024-12-11 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204284) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Women at Welikada Prison receive death threats from jailers. Police investigating after magistrate orders probe. Suspect woman allegedly made threats during court appearance.
-
-🟩
-
-Police are investigating a death threat of women in the Welikada Prison in Welikada Prison.
-
-The police have reportedly commenced on a complaint lodged by the Jalarrtervation of the Borella Police.
-
-Colombo Additional Magistrate Harshana Kekunai today (11) ordered the Borella Police to conduct an investigation into the incident.
-
-"Within 7 days, you will be killed.. It is reported that the victims have been threatened with the family.
-
-The suspect woman ordered the police to investigate telephone numbers to investigate whether the suspect had had telephoned telephone conversations with outside.
-
-The police said that the suspect was in court and the use of mobile phones were transferred to the Kalutara Prison with obsceneous behavior with other prisoners while being held in Welikada Prisoners.
-
-The police have revealed that the transferred to the Supervision Superintendent of the Kalutara Prison has been transferred again to the Women's Way to the Women's Division.
-
-...
-
-[Data](articles/8d9dd345.json)
-
-[Extended Data](ext_articles/8d9dd345.ext.json)
-
----
-
-### The biggest change in the weather in the 24th hour
-
-*2024-12-11 21:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலத்தில்-வானிலையில்-ஏற்படவுள்ள-மிகப்பெரிய-மாற்றம்/175-348597) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Southwest Bengal Bay low-lying zone persists 24 hours. Expected to move toward Tamil Nadu. Rain/thunderstorms forecasted for Northern, North Central, Eastern Provinces. Heavy rainfall (>75mm) anticipated in Northern Province areas. Central, Sabaragamuwa, Southern, Uva, Western Provinces also expect rain/storms.
-
-🟩
-
-The Department of Meteorology has predicted that the low -lying low -lying zone in the Southwest Bengal Bay will last for the next 24 hours.
-
-It has been predicted that the low -lying zone may move towards Tamil Nadu in the western northwestern direction.
-
-Accordingly, rain or thunderstorms are expected in the Northern, North Central and Eastern Provinces.
-
-The Department of Meteorology has said that more than 75 millimeters of rainfall is expected in some parts of the Northern Province.
-
-The Department of Meteorology has forecast rain or thunderstorms in the Central, Sabaragamuwa, South, Uva and Western provinces. Remble
-
-◼️
-
-[Data](articles/67a00616.json)
-
-[Extended Data](ext_articles/67a00616.ext.json)
-
----
-
-### 24 மணிநேரத்தில் வானிலையில் பாரிய மாற்றம்
-
-*2024-12-11 21:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-வானிலையில்-பாரிய-மாற்றம்/175-348597) · `ta`
-
-தென்மேற்கு வங்காள விரிகுடாவில் உருவாகியுள்ள குறைந்த காற்றழுத்த தாழ்வு மண்டலம் எதிர்வரும் 24 மணித்தியாலத்திற்கு நீடிக்கும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-குறித்த தாழ்வு மண்டலம் மேற்கு வடமேற்கு திசையில், இலங்கையின் வடக்கு கரையை அண்மித்து தமிழகத்தை நோக்கி நகரக்கூடும் என எதிர்வு கூறப்பட்டுள்ளது.
-
-இதன்படி, வடக்கு, வடமத்திய, மற்றும் கிழக்கு மாகாணங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
-
-வடக்கு மாகாணத்தின் சில பகுதிகளில் 75 மில்லிமீற்றருக்கும் அதிகமான மழைவீழ்ச்சி பதிவாகக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-மத்திய, சபரகமுவ, தென், ஊவா மற்றும் மேல் மாகாணங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. R
-
-◼️
-
-[Data](articles/a0c3f6dd.json)
-
----
-
-### Four Sri Lankans arrested near Rameswaram
-
-*2024-12-11 21:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104175/four-sri-lankans-arrested-near-rameswaram) · `en`
-
-Four Sri Lankan natives who were allegedly wandering near Thanneeroottru seashore area at Rameswaram in Tamil Nadu, India on Tuesday (December 10, 2024) night were arrested by Thangachimadam police.
-
-According to police, the four arrested, C. Sekar alias Rajmohan (39), R. Kokilavani (44), R. Sasi Kumar (28), M. Nagaraj (68), were found with bags near the seashore and further investigation revealed that they had plans of travelling to Sri Lanka illegally via sea.
-
-While Ms. Kokilavani and Mr. Sasi Kumar were residing in Mandapam camp, Mr. Sekar whose passport has expired now came to India using passport in 2019 and Mr. Nagaraj came to India before three months in a boat.
-
-Police, said, Mr. Sekar was found to be from Vellore refuge camp.
-
-They were arrested under sections of Foreigners Act 1946 and Passport Act 1947.
-
-◼️
-
-[Data](articles/3150e718.json)
-
-[Extended Data](ext_articles/3150e718.ext.json)
-
----
-
-### Who injured police officers in the face of protest?
-
-*2024-12-11 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204283) · `si`
-
-Clashes between protesters and police resulted in officers being injured. Police claim use of weapons, deny involvement of military intelligence. Investigation ongoing. Soldier arrested in connection with incident.
-
-🟩
-
-Police have made a clarification in the incident, clashes with a sharp weapon, claimed by a sharp weapon during the protest in front of Isurupa.
-
-The discrimination was issued in the police media division that no information has been revealed by an army intelligence officer.
-
-Despite this, the acting IGP has initiated an investigation by the acting IGP regarding whether the officer appearing on that day was a statement.
-
-Talangama Police have informed the court that investigations have revealed that a soldier was arrested in front of the Ministry of Education in front of the Ministry of Education in front of the Ministry of Education on the 2th in front of the Ministry of Education.The announcement has been made by explaining the news.
-
-◼️
-
-[Data](articles/81cd63ab.json)
-
-[Extended Data](ext_articles/81cd63ab.ext.json)
-
----
-
-### Secretary's name for Nationalist Mustafa's name
-
-*2024-12-11 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204282) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Nationalist Mustafa's party names Secretary Shyamila Perera for appointment of Faizer Mustapha to Democratic Front. Decision made by majority, despite media pressure. Party committee agreed to accept majority consensus. Notification sent to stakeholders regarding the decision.
-
-🟩
-
-The party secretary Shyamila Perera has been sent by the party's Secretary of Parliament for the appointment of President's Counsel Faizer Mustapha to the new Democratic Front.
-
-The letter sent to former President Ranil Wickremesinghe has indicated that the appointment was made according to the decision of the majority.
-
-"Hon.. UPFA parties have been largely stressed by media, think this decision should not be postponed. Therefore, we were summoned our party's political committee. "
-
-"It was the unanimous decision that the majority agreement should be accepted as there is no tendency to reach the general consensus of the membership of the MoU.. Accordingly, the majority of the MEMBER states have been informed as the decision of the majority of the MOU is to send the name of the President's Counsel Faizer Mustapha to the Elections Commission. "
-
-"I would like to notify you and all the stakeholders that they will deal with that decision."
-
-◼️
-
-[Data](articles/f36d030b.json)
-
-[Extended Data](ext_articles/f36d030b.ext.json)
-
----
-
-### South Korea trying to commit suicide
-
-*2024-12-11 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204281) · `si`
-
-South Korean president attempted suicide while detained. Former Defense Minister resigned amid allegations of proposing military law. Investigations expanded, National Police Commissioner and Seoul Mayor arrested on charges related to military law enforcement.
-
-🟩
-
-The South Korean president tried to commit suicide in detention based on the incident of the South Korean president.
-
-The former Defense Minister resigned from the post with the allegations of proposing to the President to enter the military law.
-
-Meanwhile, investigations have been taken to expand the investigations into the imposition of the military and the Commissioner of the National Police and the Head of Seoul capital has been arrested.
-
-It is on charges of taking action against the imposition of military law.
-
-◼️
-
-[Data](articles/65f86f44.json)
-
-[Extended Data](ext_articles/65f86f44.ext.json)
-
----
-
-### Asu Marasinghe inspected speech about speaker's doctorate
-
-*2024-12-11 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204280) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Asoka Ranwala's doctorate questioned by Prof. Asu Marasinghe. Marasinghe claims Ranwala's Japanese PhD credentials unclear from university website. He urges Ranwala to clarify the truth about his doctoral degree.
-
-🟩
-
-Former Parliamentarian Professor Marasinghe today (11), a doctorate was conducted by Speaker Asoka Ranwala.
-
-Professor Marasinghe was visiting the university website in front of Speaker Asoka Ranwala, a doctorate in Japan.
-
-There he was not able to find out on the website of the University website, referring to the Speaker's name.
-
-He added that he said that Speaker Askey Ranwala is presented with the truth about the truth of his doctorate.
-
-◼️
-
-[Data](articles/6a5f2892.json)
-
-[Extended Data](ext_articles/6a5f2892.ext.json)
-
----
-
-### 116 officers removed from ex-President Mahinda’s security detail?
-
-*2024-12-11 20:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104174/116-officers-removed-from-ex-president-mahindas-security-detail) · `en`
-
-Attorney-at-Law Manoj Gamage has claimed that the incumbent government has taken steps to significantly reduce the security detail of former President Mahinda Rajapaksa.
-
-Speaking at a press briefing held at the Sri Lanka Podujana Peramuna Policy Center today (11), Gamage revealed that the Deputy Inspector General of Police (DIG) in charge of human resource management had notified the security division of the former President through an official letter yesterday (10).
-
-According to Gamage, a total of 116 security personnel from the former President’s security detail have reportedly been withdrawn, including officers with specialized experience in VIP security.
-
-He expressed concern over this decision, emphasizing that it could pose a significant security risk, given the presence of groups that still follow the ideology of the slain leader of the Liberation Tigers of Tamil Eelam (LTTE), Velupillai Prabhakaran.
-
-...
-
-[Data](articles/adef1613.json)
-
-[Extended Data](ext_articles/adef1613.ext.json)
 
 ---

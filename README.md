@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-12 11:43:47**
+As of **2024-12-12 12:19:06**
 
 ## Newspaper Stats
 
-*Scraped **59,761** Articles*
+*Scraped **59,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,608
 economynextcom | 3,633
 dailyftlk | 4,127
 dailymirrorlk | 4,733
-adalk | 5,674
-adaderanalk | 7,274
-tamilmirrorlk | 8,536
+adalk | 5,676
+adaderanalk | 7,278
+tamilmirrorlk | 8,539
 virakesarilk | 9,801
 adaderanasinhalalk | 10,333
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 10,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,721 (99.9%) of 59,761 articles have been extended.
+59,724 (99.9%) of 59,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-12 (Thursday)
+
+### ஐக்கிய மக்கள் சக்திக்கு எதிராக தடை உத்தரவு
+
+*2024-12-12 12:01:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-மக்கள்-சக்திக்கு-எதிராக-தடை-உத்தரவு/175-348618) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் பொதுச் செயலாளர் நிசாம் காரியப்பரின் பெயரை உள்ளடக்காமல் ஐக்கிய மக்கள் சக்தியின் தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினர்களின் வெற்றிடங்களுக்கு பெயர்களை அனுப்புவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம் சமர்ப்பித்த முறைப்பாட்டினை பரிசீலித்த மாவட்ட நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+◼️
+
+[Data](articles/508c92a9.json)
+
+---
+
+### Court issues injunction order over SJB’s National List
+
+*2024-12-12 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104184/court-issues-injunction-order-over-sjbs-national-list) · `en`
+
+The Colombo District Court today issued a restraining order preventing the Samagi Jana Balawegaya (SJB) from submitting their National List without including the name of Nizam Kariapper of the Sri Lanka Muslim Congress (SLMC).
+
+◼️
+
+[Data](articles/cc449ddd.json)
+
+---
+
+### The CWC member who was intoxicated at Thondaman Station was trapped
+
+*2024-12-12 11:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொண்டமான்-நிலையத்தில்-போதையில்-இருந்த-இ-தொ-க-உறுப்பினர்-சிக்கினார்/76-348617) · `ta`
+
+CWC member trapped at Thondaman Station after intoxication. Deputy Minister Pradeep involved. Equipment missing; some rooms inaccessible due to lack of keys. Incident occurred during visit to vocational training center.
+
+🟩
+
+A member of the CWC, who was staying at the Thondaman Vocational Training Center, was stuck with the Deputy Minister of Plantation and Estate Infrastructure, Sandarnalingam Pradeep.
+
+A Sri Lanka Workers Congress member was staying in a room in a four -storey building at Thondaman Vocational Training Center in Hatton.The incident took place while visiting.
+
+He said that he was younger here because of his illness, the minister questioned what the reason for you is here. Deputy Minister Sundaralingam Pradeep said that if they are not in the hospital, they will be able to go to the hospital if they are not in a state of disrepair.
+
+Meanwhile. The equipment to go to the people was hidden. He said that the Minister had requested that some of the rooms in the building be visited, but that a few rooms had no keys.
+
+◼️
+
+[Data](articles/8cc9de7a.json)
+
+[Extended Data](ext_articles/8cc9de7a.ext.json)
+
+---
+
+### Leptospirosis identified as cause of 7 deaths in North
+
+*2024-12-12 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104183/leptospirosis-identified-as-cause-of-7-deaths-in-north) · `en`
+
+Following tests on multiple samples, the fever which spread in the northern region of the island and claimed 7 lives, has been identified as Leptospirosis, also known as ‘rat fever’, the Epidemiology Unit of the Ministry of Health confirmed.
+
+◼️
+
+[Data](articles/36a579fe.json)
+
+[Extended Data](ext_articles/36a579fe.ext.json)
+
+---
 
 ### 140 killed in Congo
 
@@ -51,6 +115,48 @@ In two weeks, 143 people have been killed in two weeks from a virus that is not 
 [Data](articles/6744d304.json)
 
 [Extended Data](ext_articles/6744d304.ext.json)
+
+---
+
+### Education is not a commodity; the Prime Minister
+
+*2024-12-12 11:24:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-என்பது-ஒரு-பண்டம்-அல்ல-பிரதமர்/175-348616) · `ta`
+
+Education is not a commodity. Prioritize student interests in policy-making. Treat public services with humanity. Focus on individual and societal development. Long-term investment needed. Data-driven decision making essential for education reform.
+
+🟩
+
+Policies must be divided based on data that prioritizes the interests of school students and decisions should be made. Prime Minister Harini Amarasuriya has said that the authorities should treat the public with humanity as public services.
+
+He was speaking at a workshop on the topic of 'Prepare Strategies for Changing the existing system of education' held in Colombo yesterday.
+
+The workshop was discussed with the main issues underlined in the new government's policy report, focusing on the reforms in the field of education, from childhood development to higher education and vocational training.
+
+“Education is the most likely to change. Beyond gaining knowledge, it is to lead to individual development and collective social change. We need an educational system that is capable of developing this change.
+
+Children must have the opportunity to join the world and develop social responsibility. Personal development should be joined hands with social progress, ”the Prime Minister said.
+
+...
+
+[Data](articles/e1fd021b.json)
+
+[Extended Data](ext_articles/e1fd021b.ext.json)
+
+---
+
+### Govt. decides on compensation for farmers for crop damage
+
+*2024-12-12 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104182/govt-decides-on-compensation-for-farmers-for-crop-damage) · `en`
+
+Deputy Minister of Agriculture and Livestock, Namal Karunaratne, says that necessary steps will be taken to provide full compensation of Rs. 100,000 per hectare to farmers whose crops were destroyed due to recent adverse weather conditions.
+
+Speaking to the media, he said that farmers have also been provided with the opportunity to seek assistance from local government bodies to prepare their land for cultivation.
+
+“The extent of the farmland affected by the disaster and the number of affected farming families is currently being assessed. Accordingly, the government is committed to providing farmers with full compensation of Rs. 100,000 per hectare for the damaged farmland. As the government, we will fulfill that duty and responsibility,” he added.
+
+...
+
+[Data](articles/5b6d2b7d.json)
 
 ---
 
@@ -114,6 +220,18 @@ Former PEFA Defense Minister Sarath Weerasekera, the Director of the Criminal In
 
 ---
 
+### Petition against CC rejecting Ranil’s nominee for SC judge dismissed
+
+*2024-12-12 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104181/petition-against-cc-rejecting-ranils-nominee-for-sc-judge-dismissed) · `en`
+
+The Supreme Court today dismissed a petition submitted by a lawyer, which claimed that his fundamental rights were violated by the Constitutional Council’s rejection of a proposal made by then-President Ranil Wickremesinghe to appoint Appeals Court Chairman Nissanka Bandula Karunaratne as a Supreme Court Judge.
+
+◼️
+
+[Data](articles/85bbbc7c.json)
+
+---
+
 ### முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு குறைப்பு
 
 *2024-12-12 11:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளின்-பாதுகாப்பு-குறைப்பு/175-348615) · `ta`
@@ -127,6 +245,26 @@ Former PEFA Defense Minister Sarath Weerasekera, the Director of the Criminal In
 ◼️
 
 [Data](articles/bf4d9a9c.json)
+
+---
+
+### රටේ තුන්වන පුරවැසියා ලෙස වංචනික කථානායකවරයෙක් පත්කරලා
+
+*2024-12-12 11:07:12* · [`adalk`](https://www.ada.lk/breaking_news/රටේ-තුන්වන-පුරවැසියා-ලෙස-වංචනික-කථානායකවරයෙක්-පත්කරලා/11-413597) · `si`
+
+සොරුන් සහ වංචකයින් පලවා හරිමින් පාර්ලිමේන්තුව සුද්ද කිරීමේ තේමා පාඨයෙන් බලයට පැමිණි ජාතික ජන බලවේගයේ කථානායකවරයා ලෙස අග්‍රාමාත්‍යවරියේ යෝජනාවෙන් පත්කර ගෙන ඇත්තේ සිය ආචාර්ය උපාධිය වංචනිකව නිර්මාණය කර ගත් පුද්ගලයෙකු බව සමගි ජන බලවේගයේ අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී රෝහණ බණ්ඩාර මහතා පවසයි.
+
+මන්ත්‍රීවරයා මේ බව කියා සිටියේ අද (12දා)  අනුරාධපුරයේදී පැවති මාධ්‍ය හමුවකදීය.එහිදී මන්ත්‍රීවරයා  මෙසේද පැවසීය.
+
+"රටේ සමස්ත ජනතාවම හා උත්තරීතර පාර්ලිමේන්තුවද රවටමින් මේ රට තුන්වන පුරවැසියා ලෙස වංචනික කථානායකවරයෙක් පත්කර තිබෙනවා.
+
+හොරුන්ට දඬුවම් දීමට සහ රට තුල වෙනසක් සිදු කරන බවට පවසමින් බලයට පැමිණි අනුර කුමාර දිසානායක මහතා සිය වාහනේ දොර ඇරගෙන බැසීම සහ ඇමතිවරුන්ට තිබුණු පුටුව මාරු කිරීම පමණක් හැරෙන්නට වෙනත් කිසිවක් ජනතාව වෙනුවෙන් මෙතෙක් කර නැහැ.
+
+ජාතික ජන බලවේගය ආණ්ඩුවේ ක්‍රියා කලාපය හේතුවෙන් මීට පෙර පැවතියා සේ මන්ත්‍රීවරුන්ට එළියට බැසීමට නොහැකි තත්ත්වයක් මේ වන විට උදා වෙලා තිබෙනවා.  මෙම හේතුවෙන් නවක මන්ත්‍රීවරුන්ටද  තර්ජනයක් මතු විය හැකියි.
+
+...
+
+[Data](articles/902ecd9d.json)
 
 ---
 
@@ -190,6 +328,26 @@ Sri Lanka Cricket's 'Lanka T10 Super League' cricket tournament will be held for
 
 ---
 
+### මහින්දෙග් ආරක්ෂකයන් 116ක් ඉවත් කරයි
+
+*2024-12-12 10:39:37* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දෙග්-ආරක්ෂකයන්-116ක්-ඉවත්-කරයි/11-413596) · `si`
+
+හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාවට යොදවා සිටි පොලිස් නිලධාරින් 116ක් එයින් ඉවත් කර පොලිසියේ රාජකාරි සඳහා යොදවා ඇතැයි වාර්තා වෙයි.
+
+මේ අනුව මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාවට යොදවා ඇති ආරක්ෂක නිලධාරින් සංඛ්‍යාව 67ක් දක්වා අඩු කර තිබේ.
+
+එසේම හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතාගේ හැරෙන්නට අනෙක් හිටපු ජනපතිවරුන්ගේ ආරක්ෂාවට යොදවා ඇති ආරක්ෂකයින් සංඛ්‍යාව අඩුකර තිබේ.
+
+මේ අනුව චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මියගේ ආරක්ෂාවට යොදවා ඇති ආරක්ෂකයින් සංඛ්‍යාව 57ක් දක්වාත් මෛත්‍රිපාල සිරිසේන මහතාගේ ආරක්ෂාවට යොදවා ඇති ආරක්ෂකයින් සංඛ්‍යාව 58ක් දක්වා ද අඩුකර තිබේ.
+
+හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව පිළිබඳව කළ තක්සේරුවකින් අනතුරුව මෙම තිරණය ගෙන තිබේ. පොලිස් නිලධාරීන් ඉවත් කිරිම වැඩබලන පොලිස්පතිවරයාගේ අණින් සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/bd60360c.json)
+
+---
+
 ### Imported rice stocks released to market
 
 *2024-12-12 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104180/imported-rice-stocks-released-to-market) · `en`
@@ -220,11 +378,11 @@ Meanwhile, Lanka Sathosa Chairman Dr. Samitha Perera says that the country’s r
 
 *2024-12-12 10:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்தில்-சகோதரிகள்-மரணம்/175-348611) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் 100வது கிலோமீற்றரில் கார் ஒன்று லொறியுடன் மோதியதில் பத்து வயது சிறுமி உயிரிழந்துள்ளதாக பின்னதுவ நிர்வாக நிலையம் தெரிவித்துள்ளது.
+தெற்கு அதிவேக நெடுஞ்சாலையின் 100வது கிலோமீற்றரில் கார் ஒன்று லொறியுடன் மோதியதில் 10 மற்றும் 12 வயதுடைய இரு சிறுமிகள் உயிரிழந்துள்ளதாக பின்னதுவ நிர்வாக நிலையம் தெரிவித்துள்ளது.
 
-மாத்தறை நுபே பகுதியைச் சேர்ந்த செனுதி தம்சரா என்ற சிறுமியே இவ்வாறு உயிரிழந்துள்ளார்.
+மாத்தறை நுபே பகுதியைச் சேர்ந்த செனுதி தம்சரா (10 வயது) , சதீஷா (12 வயது) ஆகிய  சிறுமிகளே  இவ்வாறு உயிரிழந்துள்ளனர்.
 
-விபத்தில் உயிரிழந்த சிறுமியின் தாய், தந்தை மற்றும் மூத்த சகோதரி படுகாயமடைந்த நிலையில் கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+விபத்தில் உயிரிழந்த சிறுமிகளின் தாய், தந்தை  படுகாயமடைந்த நிலையில் கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
 கொழும்பில் இருந்து மாத்தறை நோக்கி பயணித்த லொறி மற்றும் அதே திசையில் பயணித்த கார், லொறியின் பின் பக்கம் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது. R
 
@@ -1975,245 +2133,5 @@ Similarly, a few greetings and civil organizations who had come to power in the 
 [Data](articles/75c3d650.json)
 
 [Extended Data](ext_articles/75c3d650.ext.json)
-
----
-
-### Former President's security personnel removes 116
-
-*2024-12-11 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204278) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former Pres. Mahinda Rajapaksa's security reduced from 116 personnel. Government removes experienced elite guards, citing cost-cutting measures. Former Pres. led anti-Tamil Tiger operations, prompting concern over reduced protection.
-
-🟩
-
-Attorney-at-law Manoj Gamage says that the present government has taken steps to remove the safety of former President Mahinda Rajapaksa.
-
-He was speaking at a media briefing held at the Civil Peramuna Meeting Policy Center today (11).
-
-He said that the DIG of the Human Resources Managing Manager has been informed to his security division by the DIG yesterday.
-
-Accordingly, 116 security personnel have taken steps to remove the president's security division and has taken steps to remove all experienced officials on the elite security.
-
-He further stated that the government is a serious situation to reduce the security of the former president who led the lead in the leadership of Prabhakaran's opinion.
-
-◼️
-
-[Data](articles/39566b0a.json)
-
-[Extended Data](ext_articles/39566b0a.ext.json)
-
----
-
-### Raksita Mahalakshmi starring 'Extreme'
-
-*2024-12-11 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201011) · `ta`
-
-"Rakshita Mahalakshmi stars in 'Extreme'. Music released. Director: Rajavel Krishna. Producer: K. Rajan. Co-producers: B. Kamalakumari, M. Rajkumar. Music composer: S. Raj Pratap."
-
-🟩
-
-The music release of the film 'Extreme', which played the lead role as the hero of the story of actress Rakshita Mahalakshmi, who is famous for his fans. The producer K.. Rajan, Directors R.V.. Udayakumar - Empire - Rajakumaran released the music of the film about the special guests.
-
-Rakshita Mahalakshmi, Abhi Star, Rajkumar, Sivam, Rajeswari, Amrita and many others have starred in 'Extreme' directed by director Rajavel Krishna.. T J Bala has recorded the film. S.. Raj Pratap has composed the music.
-
-Producers B.. Kamalakumari and my. Rajkumar has co -produced.
-
-The audio of the film 'Extreme' has been released this month. Speaking at a special event in Chennai, director Rajavel Krishna said, “I have described that if the abuse of nature in our first film 'Dhul', it will have a similar effect.
-
-We are talking about women and women in this movie. We have written the story focusing on the debate instrument. How can women escape when there is a problem?We have described it.
-
-...
-
-[Data](articles/b41a29af.json)
-
-[Extended Data](ext_articles/b41a29af.ext.json)
-
----
-
-### It is necessary to build people's confidence in health and mass media - Anil Jasinghe
-
-*2024-12-11 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201006) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rebuilding public trust in health and media crucial: Anil Jasinghe. As Health & Media Ministry Secretary, he vows to restore confidence through fair services and expert leadership. Challenges ahead, but commitment to progress remains strong.
-
-🟩
-
-People's confidence in the health and mass media industry. Therefore, it is essential to rebuild people's confidence in these sectors, said Anil Jasinghe, Secretary of the Ministry of Health and Media, said.
-
-Dr. Anil Jasinghe, who has been appointed as the Secretary of the Ministry of Health and Mass Media, officially assumed his duties at the Health Ministry on Wednesday.
-
-Officials of the Ministry of Health and Media Media, including Dr. Nalinda Jayatissa, were present.
-
-Five years later, I am happy to think that I got a member of the Ministry of Health. Faith is not usually some of the people who have.
-
-Hope is like a rare type of gem. In order to win such confidence, we are looking forward to carrying out action with the guidance of the Minister of Health to provide a fair humanitarian service to the people who face the crisis.
-
-We will make a change of expected people with the Senior and Experted Officers of the Ministry of Health.
-
-...
-
-[Data](articles/459a31cf.json)
-
-[Extended Data](ext_articles/459a31cf.ext.json)
-
----
-
-### Tamil National parties intend to combine civil society and talk about political solution: Gajendrakumar
-
-*2024-12-11 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201005) · `ta`
-
-Tamil National parties plan to unite civil society for political solutions. TNA aims to start negotiations in early 2025, focusing on constitutional changes benefiting Tamils. Gajendrakumar Ponnambalam leads talks between TNA and Democratic Tamil National Alliance.
-
-🟩
-
-The Tamil National Alliance (TNA) has decided to launch negotiations at the beginning of the coming year and to determine the date of the Tamil People's Forum on the political solution for the Tamil people.
-
-In the wake of the recent general election results, various parties have been urged by various parties to unite the welfare of the Tamil people in the future.
-
-In particular, the representatives of the Tamil National parties that represent the Tamil National parties need to work together to put pressure on the interests of the Tamils ​​through that constitution, in particular, in a promise by the National People's Power Government.
-
-Against this backdrop, Gajendrakumar Ponnambalam, the leader of the Tamil National People's Front and a member of the Parliament, said that he was ready to hold talks with other Tamil national parties based on the proposal prepared by the Tamil People's Forum on a political solution.
-
-...
-
-[Data](articles/e5918a97.json)
-
-[Extended Data](ext_articles/e5918a97.ext.json)
-
----
-
-### The number of people suffering from mice has increased to 10 thousand
-
-*2024-12-11 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201002) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Rat fever cases surge: 10k+ reported this year. Rainy season & paddy cultivation linked to outbreak. Symptoms: fever, headache, body pain. Seek immediate medical attention.
-
-🟩
-
-Approximately 10 thousand patients have been identified in the country so far this year.
-
-Kumuda Weerakoon, a specialist in the epidemic unit, said the number of patients identified as the prevailing rainy climate and majority of paddy has begun.
-
-He was speaking at a special media briefing organized by the Health Development Bureau on Wednesday (11) regarding the spread of the flu.
-
-Last year alone, nine thousand people were identified and 200 people were killed and 200 people died from the country.. Most of the patients have been diagnosed in the districts of Ratnapura, Kurunegala, Galle, Matara and Colombo.
-
-10 to 12 districts have been identified as high risk areas. Approximately 10 thousand patients have been identified so far this year alone.
-
-Due to the prevailing rainy weather, the number of infections is also likely to increase.
-
-...
-
-[Data](articles/ec6b1a51.json)
-
-[Extended Data](ext_articles/ec6b1a51.ext.json)
-
----
-
-### Meeting Chinese Army Science Academy Inspectors and Representatives of Batfire Foundation
-
-*2024-12-11 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201003) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Beijing Army Science Academy reps met Batfire Foundation reps in Peliyagoda. Discussed strengthening ties, Chinese-Sri Lankan relations, security sector regulations, military law comparisons, and diplomatic policy approaches.
-
-🟩
-
-A meeting between Beijing's Army Science Academy and representatives of the Batfire Foundation Organization was recently held at the headquarters in Peliyagoda.
-
-Representatives of the Military Science Academy, representing the Beijing Military Law Studies Institute in Sri Lanka, have extended the new opportunities to strengthen relations with the Builder Foundation and discuss the benefits of both sides.
-
-During the meeting, a variety of important issues were discussed in detail, including a Zone, the Chinese -Sri Lankan relationship, the security sector regulations of the two countries, the comparison of the military law and the Pathpine Foundation, and the approaches to the establishment of a successful diplomatic policy system.
-
-◼️
-
-[Data](articles/1828cc05.json)
-
-[Extended Data](ext_articles/1828cc05.ext.json)
-
----
-
-### Faizer Mustapha is gazetted
-
-*2024-12-11 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204276) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Faizer Mustapha named in Democratic Front list. Election Commission issues gazette notification. NDF won 2 seats in last polls, proposed Ravi Karunanayake for both.
-
-🟩
-
-The name of the national listing of the new Democratic Front has been gazetted.
-
-Steps have been taken to issue the gazette notification by the Elections Commission.
-
-The New Democratic Front won two national listings in the last parliamentary election.
-
-The front was taken to propose Ravi Karunanayake, former parliamentarian for each of them.
-
-◼️
-
-[Data](articles/5349c652.json)
-
-[Extended Data](ext_articles/5349c652.ext.json)
-
----
-
-### Gazette issued declaring Faiszer Musthapha as National List MP
-
-*2024-12-11 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104173/gazette-issued-declaring-faiszer-musthapha-as-national-list-mp) · `en`
-
-The Election Commission of Sri Lanka has issued a Gazette notification confirming that Faiszer Musthapha has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the 2024 General Election under the ‘Gas Cylinder’ symbol.
-
-On Tuesday (10), it was reported that the New Democratic Front (NDF) has nominated Musthapha for the remaining National List seat out of the two won by the party in Parliament.
-
-However, a dispute has emerged within the New Democratic Front (NDF) concerning the nomination of Faiszer Musthapha for a National List MP position with the coalition partners alleging that this decision has been made without consulting them.
-
-The NDF, which contested under the ‘gas cylinder’ symbol in the 2024 general elections, secured two National List seats.
-
-The other National List MP seat had been filled by former minister Ravi Karunanayake of the UNP, also under somewhat controversial circumstances.
-
-◼️
-
-[Data](articles/5ad9a3f3.json)
-
-[Extended Data](ext_articles/5ad9a3f3.ext.json)
-
----
-
-### Pettah wholesale shops raided over inflated rice prices
-
-*2024-12-11 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104172/pettah-wholesale-shops-raided-over-inflated-rice-prices) · `en`
-
-The officers of the Consumer Affairs Authority (CAA) carried out a series of inspections at rice wholesale shops on Fifth Cross Street, Pettah, today (11).
-
-The operation followed complaints alleging unethical practices, including hoarding of rice stocks.
-
-During the inspection, legal action has been taken against a shop found selling rice at inflated prices, violating consumer protection laws.
-
-Further investigations have been initiated into other violations, including the failure to display price tags and the sale of expired rice.
-
-◼️
-
-[Data](articles/f99d09e5.json)
-
-[Extended Data](ext_articles/f99d09e5.ext.json)
 
 ---

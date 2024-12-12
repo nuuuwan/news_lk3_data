@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 04:42:45**
+As of **2024-12-13 05:01:50**
 
 ## Newspaper Stats
 
-*Scraped **59,898** Articles*
+*Scraped **59,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
 economynextcom | 3,648
-dailyftlk | 4,146
+dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
@@ -26,11 +26,55 @@ adaderanasinhalalk | 10,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,857 (99.9%) of 59,898 articles have been extended.
+59,859 (99.9%) of 59,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### SLPP pushes NCM against Speaker over academic qualification allegations
+
+*2024-12-13 04:42:11* · [`dailyftlk`](https://www.ft.lk/news/SLPP-pushes-NCM-against-Speaker-over-academic-qualification-allegations/56-770484) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has called on Members of Parliament from both the Government and the Opposition to support a no-confidence motion against Speaker Asoka Sapumal Ranwala over allegations concerning his academic qualifications.
+
+SLPP General Secretary Sagara Kariyawasam yesterday announced the party’s intent to move a no-confidence motion, accusing the Speaker of misleading the public by initially claiming to hold a doctorate. “The Speaker’s actions have deceived the people, and such a fraudulent person is unfit for this esteemed position,” Kariyawasam said.
+
+...
+
+[Data](articles/df3aebdf.json)
+
+---
+
+### SLFP to part ways with NDF
+
+*2024-12-13 04:40:57* · [`dailyftlk`](https://www.ft.lk/news/SLFP-to-part-ways-with-NDF/56-770483) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has decided not to contest future elections under the National Democratic Front (NDF) alliance. The decision was confirmed by SLFP Treasurer Lasantha Alagiyawanna yesterday.
+
+Speaking to the media Alagiyawanna clarified that the party’s Senior Vice President Faiszer Musthapha’s nomination to the National List was part of a pre-election agreement between the parties.
+
+Alagiyawanna dismissed allegations of conspiracy surrounding the appointment by coalition partner, the United National Party (UNP), stating, “What plot are these people talking about? The agreement was finalised before the election, and his name was already on the National List. Where is the conspiracy in that?”
+
+...
+
+[Data](articles/56e9d935.json)
+
+---
+
+### Mano, Nizam, Sujeewa and Ismail secure SJB national list slots
+
+*2024-12-13 04:38:23* · [`dailyftlk`](https://www.ft.lk/news/Mano-Nizam-Sujeewa-and-Ismail-secure-SJB-national-list-slots/56-770482) · `en`
+
+Main Opposition party Samagi Jana Balawegaya (SJB) has finalised its nominations for the remaining four National List MP seats in Parliament. The nominees are Mano Ganesan, Nizam Kariapper, Sujeewa Senasinghe, and Mohamed Ismail.
+
+This announcement follows weeks of deliberation after the SJB secured five National List MP seats as bonus seats in the General Election held on 14 November. One of these seats was filled on 19 November by SJB General Secretary Ranjith Madduma Bandara. However, the nomination process has been overshadowed by a legal dispute. The Colombo District Court issued an enjoining order earlier yesterday, preventing the SJB from submitting its National List nominees to the Election Commission without including the name of Nizam Kariapper, Secretary of the Sri Lanka Muslim Congress (SLMC).
+
+...
+
+[Data](articles/225b84dd.json)
+
+---
 
 ### Relatives of Major General Janaka Perera call for fresh investigation into his killing
 
@@ -43,6 +87,8 @@ Speaking to the media, Priyantha Perera, a family member, revealed that the rela
 ...
 
 [Data](articles/da7a0d3f.json)
+
+[Extended Data](ext_articles/da7a0d3f.ext.json)
 
 ---
 
@@ -61,6 +107,8 @@ He added that this rice consignment includes Kekulu and parboiled rice varieties
 ...
 
 [Data](articles/d8a46e2e.json)
+
+[Extended Data](ext_articles/d8a46e2e.ext.json)
 
 ---
 
@@ -2329,89 +2377,5 @@ The Minister said that environmental activists are concerned about the killing o
 [Data](articles/306aed29.json)
 
 [Extended Data](ext_articles/306aed29.ext.json)
-
----
-
-### Wisdom abuse: 30 years in prison for the accused
-
-*2024-12-12 13:57:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-குற்றவாளிக்கு-30-வருட-சிறை/175-348627) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Trincomalee High Court sentences 41-year-old man to 30 years for sexual abuse of 15-year-old girl. Victim awarded ₹3 lakh compensation. Case highlights efforts to combat sexual offenses against minors.
-
-🟩
-
-The Trincomalee High Court on Wednesday (11) ruled that the Trincomalee High Court was sentenced to 30 years in prison and a compensation of Rs 3 lakh to the victim.
-
-A 15 -year -old girl in the Trincomalee -Sampur police division has been charged with sexually abusing a suspect in the Trincomalee High Court.
-
-Supreme Court Judge NMM Abdullah had sentenced the accused to 30 years in prison and the victim was sentenced to Rs 3 lakhs as a result of the case.
-
-State Attorney Nasikesan was present on behalf of the victim in the case.
-
-Investigations have confirmed that the girl was abused three times from April 4 to May 2018 by a 41 -year -old man from Sampur.
-
-The court also ordered the victim to pay Rs.
-
-Such rulings will help reduce sexual offenses against girls and women.. Social welfare wishes have commented on this verdict that such judgments are welcomed.
-
-◼️
-
-[Data](articles/8f4e97db.json)
-
-[Extended Data](ext_articles/8f4e97db.ext.json)
-
----
-
-### Asad Sally detained is illegal
-
-*2024-12-12 13:52:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசாத்-சாலி-தடுத்து-வைக்கப்பட்டமை-சட்டவிரோதமானது/175-348626) · `ta`
-
-Sri Lanka: Supreme Court rules Azad Sally's detention under PTA illegal. Former governor arrested in 2021, acquitted in 2021 after 9-month detention. Case involves ex-minister Sarath Weerasekera and CID director.
-
-🟩
-
-The Sri Lankan Supreme Court has ruled that the arrest of and detained by former Western Provincial Governor Azad Sally in 2021 under the PTA (PTA) is illegal.
-
-The defendants include former Public Security Minister Sarath Weerasekera and the Director of the Criminal Investigation Department (CID).
-
-Azad Sally was arrested on 16 March 2021 under the PTA for commenting at a media briefing on 9 March 2021.
-
-He was acquitted of all the allegations filed against him by the Colombo High Court on December 2, 2021, after he was in detention for nearly nine months.
-
-◼️
-
-[Data](articles/7fd6fc95.json)
-
-[Extended Data](ext_articles/7fd6fc95.ext.json)
-
----
-
-### Rare blue gem found in Passerin
-
-*2024-12-12 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204302) · `si`
-
-Rare blue sapphire discovered in Passara, weighing 17.42 carats. Certified by National Gem & Jewellery Authority. Owner, experienced gem trader, plans to enter global market.
-
-🟩
-
-A businessman in Negombo has met a sapphire in Negombo.
-
-The gem is 17.42 carrots and found in the Badulla Passara area.
-
-The certificate has also been assured by the National Gem and Jewelery Authority of the National Gem and Jewelery Authority.
-
-The owner has said that this gem was a very good opportunity to join the world market.
-
-It is also reported that the owner is a businessman who was engaged in gem business for almost 20 years.
-
-◼️
-
-[Data](articles/8e85d4e6.json)
-
-[Extended Data](ext_articles/8e85d4e6.ext.json)
 
 ---

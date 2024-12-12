@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 01:43:25**
+As of **2024-12-13 02:26:51**
 
 ## Newspaper Stats
 
-*Scraped **59,878** Articles*
+*Scraped **59,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,105 @@ colombotelegraphcom | 606
 bbccomsinhala | 626
 islandlk | 3,608
 economynextcom | 3,648
-dailyftlk | 4,129
+dailyftlk | 4,131
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
 tamilmirrorlk | 8,558
-virakesarilk | 9,826
+virakesarilk | 9,828
 adaderanasinhalalk | 10,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,838 (99.9%) of 59,878 articles have been extended.
+59,845 (99.9%) of 59,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Justice for All calls for reform in the wake of political change
+
+*2024-12-13 02:14:28* · [`dailyftlk`](https://www.ft.lk/opinion/Justice-for-All-calls-for-reform-in-the-wake-of-political-change/14-770451) · `en`
+
+In light of significant shifts in Sri Lanka’s political landscape following the election of a new President and Government, good governance lobbyist “Justice for All” called for fresh initiatives to examine the several human rights challenges confronting Sri Lanka.
+
+The conference aims to facilitate dialogue between Government representatives, former parliamentarians, academics, and other stakeholders on 10 pressing concerns ranging from: the crisis in Palestine, socio-economic inequalities, discriminatory laws, labour rights, domestic violence, accountability over enforced disappearances, and problems with the Prevention of Terrorism Act (PTA) and Muslim Marriage and Divorce Act (MMDA) to stir action on State level.
+
+...
+
+[Data](articles/18be041a.json)
+
+---
+
+### முதலீடு, இலங்கையுடனான உறவுகளை வலுப்படுத்துவதை பிரதிநிதித்துவப்படுத்தும் அமெரிக்க அமைதிப்படை
+
+*2024-12-13 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201123) · `ta`
+
+கடந்த வருடம் இடம்பெற்ற அமைதிப்படை நிகழ்ச்சித்திட்டத்தின் வரலாற்று ரீதியான மீள்தொடக்கத்தின் பின்னர் இலங்கைக்கு வருகை தந்த தன்னார்வலர்களின் இரண்டாவது குழுவைச் சேர்ந்த 19 அமெரிக்க அமைதிப்படை தன்னார்வலர்கள் வியாழக்கிழமை (12) கொழும்பில் பதவிப்பிரமாணம் செய்து வைக்கப்பட்டனர்.
+
+ஆழமடையும் அமெரிக்க இலங்கை பங்காண்மை மற்றும் கல்வி மற்றும் கலாச்சார பரிமாற்றம் தொடர்பான பகிரப்பட்ட அர்ப்பணிப்பு ஆகியவற்றை இந்நிகழ்வு அடிக்கோடிட்டுக்காட்டுகிறது.
+
+கடந்த செப்டெம்பர் மாதம் இலங்கைக்கு வருகை தந்த இத்தன்னார்வலர்களின் குழுவானது சிங்களம் அல்லது தமிழ், இலங்கையின் கலாச்சாரம் மற்றும் கற்பித்தல் முறைகள் ஆகியவிடயங்கள் தொடர்பாக இடம்பெற்ற 12 வாரகால தீவிர பயிற்சியினை நிறைவுசெய்துள்ளது.
+
+இலங்கை ஆசிரியர்கள் மற்றும் பாடசாலை அதிபர்களுடன் இணைந்து கிராமியப் பாடசாலைகளில் ஆங்கிலக் கல்வியினை மேம்படுத்துவதற்காக அவர்கள் எதிர் வரும் இரண்டு வருடங்களுக்கு மத்திய மற்றும் ஊவா மாகாணங்களிலுள்ள பாடசாலைகளில் ஆங்கில மொழி ஆசிரியர்களாகப் பணியாற்றுவர்.
+
+...
+
+[Data](articles/015f2cbd.json)
+
+---
+
+### “Let us become exemplary forbearers of a proud nation”: AKD
+
+*2024-12-13 02:07:28* · [`dailyftlk`](https://www.ft.lk/opinion/Let-us-become-exemplary-forbearers-of-a-proud-nation-AKD/14-770450) · `en`
+
+What we are doing, in many instances, is repeatedly using the power entrusted to us to engage in corruption. The people have given this power for us. They have granted us privileges and provided us with salaries. But what do those entrusted with these responsibilities do? They misuse their power and privileges to engage in bribery and corruption repeatedly. That is the reality
+
+Following is the full speech delivered by President Anura Kumara Dissanayake at the International Anti-Corruption Day held at the BMICH on 9 December
+
+...
+
+[Data](articles/08b8d6fc.json)
+
+---
+
+### Sarid Asalank and Trivine Mathews bowling;Jevna Titans win the second
+
+*2024-12-13 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201122) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Jevna Titans won vs Kalambo Jaguars in Lanka R10 Super League Cricket. Sarid Asalanka scored 56* & 80* with Kusal Mendis. Team reached 138/6 in 10 overs. Pramod Madushan bowled crucial 9th over.
+
+🟩
+
+Jevna Titans won the Kalambo Jaguars by 40 runs in the Lanka R10 Super League Cricket Tournament held at the Pallekele International Stadium on Thursday night.
+
+Sarid Asalan's accumulated half -century and his 80 runs in the 2nd wicket with Kusal Mendis reinforced the total number of Jevna Titans.
+
+In the match against the Hambantota Bangla Tigers, who took 4 wickets in the match, which took 4 wickets in the match on the day of the match, Bandavi played a key role in his team's victory.
+
+Jevna Titans, who was first invited to bat in the upting match, scored 138 runs for the loss of 6 wickets in 10 overs.
+
+This was recorded as the highest number of one team in the Chapter Chapter Chapter of the Ceylon Lanka R10.
+
+In the second ball of the first over of Angelo Mathews, Dom Kohler lost the Ketmore to the run.
+
+However, Kusal Mendis and Sarit Asalanka shared 80 runs off 33 balls in the 2nd wicket.
+
+Gusal Mendis scored 37 runs off 19 balls with 6 pounds and one six.
+
+...
+
+[Data](articles/f0b8f099.json)
+
+[Extended Data](ext_articles/f0b8f099.ext.json)
+
+---
 
 ### The new government will take action against Udayanga and Kapila;International Truth and Justice Faith
 
@@ -1924,6 +2006,8 @@ Tourism and construction industries have also attracted investor interest amidst
 
 [Data](articles/301cd860.json)
 
+[Extended Data](ext_articles/301cd860.ext.json)
+
 ---
 
 ### Beginning of a program of contraception for monkeys
@@ -2073,6 +2157,8 @@ The session was conducted in collaboration with the Packaging Experts from the I
 ...
 
 [Data](articles/6d228674.json)
+
+[Extended Data](ext_articles/6d228674.ext.json)
 
 ---
 
@@ -2453,99 +2539,5 @@ The second match team is scheduled to play between 06:15 pm and the third match 
 [Data](articles/739db4d7.json)
 
 [Extended Data](ext_articles/739db4d7.ext.json)
-
----
-
-### Highest excise income of 120 years
-
-*2024-12-12 11:51:19* · [`adalk`](https://www.ada.lk/breaking_news/වසර-120ක-ඉතිහාතිහාසයේ-වැඩිම-සුරාබදු-ආදායම/11-413599) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Department of Excise collects record-breaking Rs 200 billion tax. This exceeds previous highest income by billions. Earned under Production & Tobacco Tax Act. First time exceeding 200 billion in 120-year history."
-
-🟩
-
-The Department of Excise has been instructed to collect Rs 200 billion as at 11-24, 11-24 billion rupees.
-
-They further stated that this is the first time over 200 billion in 120 years of history of history.
-
-It is also reported that this income earned is as taxes under the Production and the Tobacco Tax Act.
-
-◼️
-
-[Data](articles/966a08f5.json)
-
-[Extended Data](ext_articles/966a08f5.ext.json)
-
----
-
-### Court issues injunction order over SJB’s National List
-
-*2024-12-12 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104184/court-issues-injunction-order-over-sjbs-national-list) · `en`
-
-The Colombo District Court today issued a restraining order preventing the Samagi Jana Balawegaya (SJB) from submitting their National List MP nominees without including the name of Nizam Kariapper of the Sri Lanka Muslim Congress (SLMC).
-
-After considering a plaint filed by SLMC leader MP Rauff Hakeem, Colombo Additional District Judge Chamari Weerasuriya issued this order on the SJB’s General Secretary, Ranjith Madduma Bandara.
-
-Petitioner Rauff Hakeem claims that the SLMC, led by him, supported SJB’s presidential candidate, Sajith Premadasa, during the 2024 Presidential Election.
-
-He also stated that during the 2024 General Election, his party entered into a Memorandum of Understanding (MOU) with SJB regarding the contesting of the General Election, on October 10.
-
-Accordingly, the plaint states that the SJB agreed to appoint SLMC’s General Secretary Nizam Kariapper as a National List MP.
-
-...
-
-[Data](articles/cc449ddd.json)
-
-[Extended Data](ext_articles/cc449ddd.ext.json)
-
----
-
-### Enjoining order for unique people
-
-*2024-12-12 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204299) · `si`
-
-Colombo court issues injunction against naming SLMC leader. Rauf Hakeem seeks protection from disclosure of political support. Memorandum of Understanding binds allocation of National List seats.
-
-🟩
-
-The Colombo District Court issued an injunction to prevent the name of the National List Member of the Sri Lanka Muslim Congress General Secretary of the Sri Lanka Muslim Congress.
-
-Colombo Additional District Judge Chamari Weerasuriya, the General Secretary of the Sri Lanka Muslim Congress Rauff Hakeem issued the enjoining order.
-
-Petitioner Rauf Hakeem says that the Sri Lanka Muslim Congress, who is captained by the Sri Lanka Muslim Congress, has supported the presidential candidate of the prospect of the prospect of the Sri Lanka Force in the last presidential election.
-
-At the last general election, his party has made a written Understanding Agreement on October 10.
-
-Accordingly, the complaint agreed that the Sri Lanka Muslim Congress General Secretary of the Sri Lanka Muslim Congress as the National List MP's as the National List MP.
-
-...
-
-[Data](articles/a1e7bd3e.json)
-
-[Extended Data](ext_articles/a1e7bd3e.ext.json)
-
----
-
-### Ceylon Bank and Sri Lankan post unite to revolutionize bank access
-
-*2024-12-12 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201067) · `ta`
-
-Bank of Ceylon and Sri Lanka Post unite to expand banking access nationwide. Their joint initiative, BOC Connect, integrates banking services with postal networks, aiming to reach underserved communities. The partnership leverages both organizations' strengths to provide secure, convenient financial services, including small business support and international money transfers.
-
-🟩
-
-The Bank of Ceylon (BOC) and Sri Lanka Post have entered a wonderful alliance to redistribute the access of banking services across Sri Lanka. BOC's banking profession is combined with the extensive network of the Sri Lanka Post, and initially gathered with 100 post and sub -post offices. This effort aims to provide essential financial services to the most backward communities of the country.
-
-The official launch of the gathering was held in Colombo, attended by prominent dignitaries including the Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, Additional Secretary of the Ministry of Mass Media, Mrs. Deepa Liyanage and Post Office Mr. Ruwan Satkumara.
-
-...
-
-[Data](articles/96567897.json)
-
-[Extended Data](ext_articles/96567897.ext.json)
 
 ---

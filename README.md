@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 21:01:56**
+As of **2024-12-13 21:43:13**
 
 ## Newspaper Stats
 
-*Scraped **60,042** Articles*
+*Scraped **60,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,701
+adalk | 5,702
 adaderanalk | 7,311
-tamilmirrorlk | 8,587
+tamilmirrorlk | 8,588
 virakesarilk | 9,855
 adaderanasinhalalk | 10,382
 
@@ -26,35 +26,81 @@ adaderanasinhalalk | 10,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,975 (99.9%) of 60,042 articles have been extended.
+59,984 (99.9%) of 60,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### பாதுகாப்பு உத்தியோகத்தர்களின் எண்ணிக்கையில் மாற்றம்
+### Fire near the Kangarama Vihara
+
+*2024-12-13 20:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராம-விகாரைக்கு-அருகில்-தீ/175-348711) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Fire at restaurant near Gangarama Vihara in Colombo caused by gas leak. Fire department controlled blaze; no injuries reported.
+
+🟩
+
+It is reported that a fire broke out at a restaurant operating in Perahera Mawatha near the Gangarama Vihara in Colombo.
+
+The fire was reportedly caused by a leak in the gas cylinder at the restaurant.
+
+The fire department said that the fire was brought under control and no one was injured. Remble
+
+◼️
+
+[Data](articles/5c92a2c3.json)
+
+[Extended Data](ext_articles/5c92a2c3.ext.json)
+
+---
+
+### Change in the number of security officers
 
 *2024-12-13 20:43:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-உத்தியோகத்தர்களின்-எண்ணிக்கையில்-மாற்றம்/175-348710) · `ta`
 
-முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு உத்தியோகத்தர்களின் எண்ணிக்கையை 60ஆக மாற்றியமைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-உயரடுக்கு பாதுகாப்பு குழு கூடி அவ்வப்போது பாதுகாப்பு அதிகாரிகளை திருத்த நடவடிக்கை எடுப்பதாகவும், பொலிஸார் தெரிவிக்கின்றனர்.AN
+
+
+Security officer count reduced: Former presidents now have 60 officers. Highway Security Committee reviews and adjusts as needed.
+
+🟩
+
+Steps have been taken to convert the number of former presidents' security officers to 60.
+
+Police say the Highways Security Committee meets from time to time to correct security officers.
 
 ◼️
 
 [Data](articles/dc041e5e.json)
 
+[Extended Data](ext_articles/dc041e5e.ext.json)
+
 ---
 
-### மஹிந்தவின் பொலிஸ் பாதுகாப்பில் இடையூறு இல்லை
+### There is no disruption in Mahinda's police protection
 
 *2024-12-13 20:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பொலிஸ்-பாதுகாப்பில்-இடையூறு-இல்லை/175-348709) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பில் பொலிஸ் உத்தியோகத்தர்களும் ஈடுபடுத்தப்பட்டுள்ள நிலையில் அவரது பாதுகாப்பு எந்த வகையிலும் இடைநிறுத்தப்படவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.AN
+Here's a summary in 200 characters:
+
+
+
+No disruption in Mahinda Rajapaksa's police protection. Security detail includes police officers responsible for his safety.
+
+🟩
+
+Police said that the security of the former President Mahinda Rajapakse was also involved in the security of the police.
 
 ◼️
 
 [Data](articles/0b57c0c1.json)
+
+[Extended Data](ext_articles/0b57c0c1.ext.json)
 
 ---
 
@@ -78,19 +124,29 @@ The public assured the public that all necessary measures were being taken to tr
 
 ---
 
-### ගංගාරාම විහාරස්ථානය අසළ ආපනශාලාවක ගින්නක්
+### Fire at a cafeteria near the Gangarama Viharaya
 
 *2024-12-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204351) · `si`
 
-කොළඹ ගංගාරාම විහාරස්ථානය අසළ පෙරහැර මාවතේ පවත්වාගෙන ගිය ආපන ශාලාවක ගින්නක් හට ගෙන ඇතැයි වාර්තා වේ.
+Here's a summary of the text in approximately 200 characters:
 
-ආපන ශාලාවේ තිබූ ගෑස් සිලින්ඩරයක ඇතිවූ කාන්දුවක් මත මෙම ගින්න හට ගෙන ඇතැයි සඳහන්.
 
-මේ වන විට ගින්න මැඩ පවත්වා ඇතැයිද කිසිදු පුද්ගල හානියක් සිදුව නැතැයි ද ගිනි නිවීමේ දෙපාර්තමේන්තුව පැවසීය.
+
+"Fire breaks out at cafeteria near Gangarama Viharaya in Colombo due to a gas cylinder leak. No casualties reported."
+
+🟩
+
+It is reported that a fire has erupted at a cafeteria where the Gangarama Viharaya, Colombo.
+
+The fire has taken place on a leak caused by a gas cylinder in the canteen.
+
+The fire has not been casualties, he has not suffered any person's casualties.
 
 ◼️
 
 [Data](articles/2ce9f0bd.json)
+
+[Extended Data](ext_articles/2ce9f0bd.ext.json)
 
 ---
 
@@ -297,6 +353,32 @@ Police have seized 145,000 rupees suspected of earning 106 grams of ice and drug
 [Data](articles/35c239d8.json)
 
 [Extended Data](ext_articles/35c239d8.ext.json)
+
+---
+
+### Speaker resigns
+
+*2024-12-13 18:14:01* · [`adalk`](https://www.ada.lk/breaking_news/කථානායක-ඉල්ලා-අස්වෙයි/11-413621) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Speaker resigns over educational qualification issues. MP Ashoka Ranwala steps down due to problems verifying his credentials. Research institute confirmation delayed, causing resignation.
+
+🟩
+
+MP Ashoka Ranwala said he decided to resign from the post of Speaker on the matter of problems with his educational qualifications.
+
+The announcement stated that the documents required to ensure his educational qualifications will not be done at this time.
+
+He added that the research institute affiliated to the University of Japan, who granted the doctorate, can be confirmed to ensure that it will take some time.
+
+◼️
+
+[Data](articles/e2541eab.json)
+
+[Extended Data](ext_articles/e2541eab.ext.json)
 
 ---
 
@@ -730,25 +812,37 @@ He has asked his petition to issue a decree to judge that the basic human rights
 
 ---
 
-### ආනයන සීමා ඉවත් කළ පසු සහල් මෙට්‍රික් ටොන් 2300ක් දිවයිනට
+### 2300 metric tons of rice to be removed
 
 *2024-12-13 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204343) · `si`
 
-පසුගිය දෙසැම්බර් 04 වැනිදා සිට සහල් ආනයනය සඳහා පනවා තිබූ සීමා ඉවත් කිරීමෙන් පසු මේ දක්වා සහල් මෙට්‍රික් ටොන් 2300ක් ආනයනය කර ඇති බව රේගූ මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලි අරුක්ගොඩ මහතා පවසයි.
+Here's a summary of 200 characters:
 
-අද (13) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පැවසුවේ ලැබී ඇති සහල් තොග අතරින් මෙට්‍රික් ටොන් 1600ක් තම්බපු සහල් මෙන්ම කැකුළු සහල් මෙට්‍රික් ටොන් 680ක් පමණ ඇති බවය.
 
-මෙම සහල් තොග නිෂ්කාශනය කිරීමට පෙර ආහාර පරීක්ෂකවරුන්ගේ සහ ශාක නිරෝධායන කාර්යාලයේ නිලධාරීන්ගේ පරීක්ෂාවට ලක් කෙරෙනු ඇති බවත් ඒ මහතා පැවසීය.
 
-ආනයනය කරනු ලැබූ මෙම සහල් තොග ආනයනකරුවන් වෙත ඉතා ඉක්මනින් මුදා හැරීමට සඳහා ශ්‍රී ලංකා රේගුව ප්‍රමුඛතාව ලබා දී ඇතැයිද ලැබී ඇති සහල් තොග අතරින් මේ වනවිට 90%කට ආසන්න ප්‍රමාණයක් නිදහස් කර ඇති බවද අතිරේක රේගු අධ්‍යක්ෂවරයා මෙහිදී පැවසීය.
+2,300 metric tons of rice imported since Dec 4. Clearance process involves food inspectors and plant quarantine. Wholesale importers released immediately. Another 3,500 metric tons expected soon. Rice imports allowed until Dec 20.
 
-ඔහු පැවසුවේ ඉතුරු සහල් තොග නිදහස් කරගැනීම සඳහා වූ ක්‍රියාවලීන් මේ වන විටත් ක්‍රියාත්මක වෙමින් පවතින බවය.
+🟩
 
-තවද අද සහ හෙට (14) දිනය වන විට තවත් සහල් තොග මෙට්‍රික් ටොන් 3500ක පමණ ප්‍රමාණයක් ලැබෙතැයි අපෙක්ෂා කරන බවත් ඔහු පැවසීය.
+Customs, Director General of Customs Aruertagoda says that 2300 metric tons of rice has been imported since December 4.
 
-...
+Addressing a media briefing held today (13), he said that 1600 metric tons of rice had about 600 metric tons of rice and 680 metric tons of rice.
+
+He said that the rice clearances will be inspected by officers at the Food Inspectors and the Plant Quarantine Office before clearance.
+
+The Director of Customs said that the Sri Lanka Customs Experts have been released to the immediate release of these wholesale importers.
+
+He said that the processes to release the rest of the rice are already underway.
+
+He said that as soon as another 3500 metric tons of rice was received today and tomorrow (14).
+
+The Director of Customs said that the importation of rice is permitted to import rice only to December 20 and the import of rice should be imported.
+
+◼️
 
 [Data](articles/896473c1.json)
+
+[Extended Data](ext_articles/896473c1.ext.json)
 
 ---
 
@@ -770,6 +864,8 @@ Meanwhile, the Indian High Commission in Colombo said President Disanayaka will 
 
 [Data](articles/b5e86157.json)
 
+[Extended Data](ext_articles/b5e86157.ext.json)
+
 ---
 
 ### Proposal to appoint select committee to verify NPP MPs’ educational qualifications
@@ -784,17 +880,29 @@ The relevant proposal will be presented to the parliament by MP Jeevan Thondaman
 
 [Data](articles/7ed74e7a.json)
 
+[Extended Data](ext_articles/7ed74e7a.ext.json)
+
 ---
 
-### மதுரங்குளி கொலைச் சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் கைது !
+### Suspect arrested in Mathuranguli murder
 
 *2024-12-13 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201165) · `ta`
 
-புத்தளம் - மதுரங்குளி பொலிஸ் பிரிவுக்குட்பட்ட வஜிரவத்தை பகுதியில் நபர் ஒருவரை தடியால் தாக்கி கொலை செய்த குற்றத்துடன் தொடர்புடைய சந்தேக நபரை மதுரங்குளி பொலிஸ் நிலைய அதிகாரிகள் நேற்று வியாழக்கிழமை (12)  கைது செய்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Arrest made in Mathuranguli murder case. Police detained suspect on Thursday (12) in Vajirawatte area, Puttalam-Mathuranguli division.
+
+🟩
+
+Maduranguli Police Station officials arrested a suspect in connection with the murder of a man in the Vajirawatte area of ​​the Puttalam -Mathuranguli police division on Thursday (12).
 
 ◼️
 
 [Data](articles/cd76f7d9.json)
+
+[Extended Data](ext_articles/cd76f7d9.ext.json)
 
 ---
 
@@ -2463,53 +2571,5 @@ The fisheries conflict has remained a key diplomatic issue between India and Sri
 [Data](articles/f4ef3a22.json)
 
 [Extended Data](ext_articles/f4ef3a22.ext.json)
-
----
-
-### Sri Lanka rupee opens at 290.20/25 against US dollar, bond yields steady
-
-*2024-12-13 09:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-290-20-25-against-us-dollar-bond-yields-steady-194077/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.20/25 to the US dollar in Friday early trade marginally stronger from yesterday’s close of 290.20/35, dealers said, while bond yields were steady dealers said.
-
-A bond maturing on 15.02.2028 was quoted at 10.18/28 down from 10.25/35 percent.
-
-A bond maturing on 15.10.2028 was quoted at 10.45/55 down from 10.50/60 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.70/80 percent.
-
-A bond maturing on 15.05.2030 was quoted at 10.95/11.10 percent.
-
-In equities, the All Share Price Index was up 0.47 percent or 65.29 points, at 14,101.
-
-The more liquid S&P SL20 was up 0.69 percent, or 28.88 points, at 4,215.
-
-◼️
-
-[Data](articles/52ec2f39.json)
-
-[Extended Data](ext_articles/52ec2f39.ext.json)
-
----
-
-### Govt. aims to complete Colombo Port’s ECT Project by June 2025
-
-*2024-12-13 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104203/govt-aims-to-complete-colombo-ports-ect-project-by-june-2025) · `en`
-
-Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake says that several new projects will be initiated to enhance the transportation of goods by rail.
-
-Speaking to the media after a meeting with officials from the Department of Railways and trade union representatives at the Railway Headquarters, he stated that an immediate solution would be provided to address the ongoing staff shortages within the department.
-
-Meanwhile, Minister Bimal Ratnayake said that attention has been focused on preventing train delays and train defects, and budget proposals have already been submitted to improve the railway services.
-
-He made this statement after taking part in an observation tour of the Maradana Railway Station.
-
-Furthermore, after conducting a special observation tour of the Colombo Port yesterday (12), Minister Bimal Ratnayake, speaking to the media, said that the government’s primary objective is to complete the Eastern Container Terminal (ECT) of the port by June 30, 2025.
-
-◼️
-
-[Data](articles/1d5e1859.json)
-
-[Extended Data](ext_articles/1d5e1859.ext.json)
 
 ---

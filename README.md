@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 20:26:58**
+As of **2024-12-13 20:43:07**
 
 ## Newspaper Stats
 
-*Scraped **60,038** Articles*
+*Scraped **60,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,701
 adaderanalk | 7,311
-tamilmirrorlk | 8,584
+tamilmirrorlk | 8,585
 virakesarilk | 9,855
 adaderanasinhalalk | 10,381
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,972 (99.9%) of 60,038 articles have been extended.
+59,972 (99.9%) of 60,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### 50 ’லெப்டோஸ்பிரோசிஸ்’ நோயாளிகள் அடையாளம்
+
+*2024-12-13 20:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-லெப்டோஸ்பிரோசிஸ்-நோயாளிகள்-அடையாளம்/175-348708) · `ta`
+
+யாழ்ப்பாணத்தில் தற்போது பரவி வரும் நோய், “லெப்டோஸ்பிரோசிஸ்” என அடையாளம் காணப்பட்டுள்ளதாக, சுகாதார அமைச்சின் செயலாளர் டொக்டர் அனில் ஜாசிங்க உறுதிப்படுத்தியுள்ளார்.
+
+பாதிக்கப்பட்டவர்களுக்கு சிகிச்சை அளிக்க தேவையான அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டு வருவதாக, பொதுமக்களிடம் உறுதியளித்தார்.AN
+
+◼️
+
+[Data](articles/cd5a18cb.json)
+
+---
 
 ### Ella - Wellawaya Road is blocked
 
@@ -2509,27 +2523,5 @@ In a statement, the Ministry emphasized that, the visit underscored the deepenin
 [Data](articles/f69c12fe.json)
 
 [Extended Data](ext_articles/f69c12fe.ext.json)
-
----
-
-### Sacle Departs to Indo-Lanka joint war exercise
-
-*2024-12-13 09:29:58* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ලංකා-ඒකාබද්ධ-යුද-අභ්‍යාසයට-සයුර-පිටත්වෙයි/11-413613) · `si`
-
-Sri Lanka Navy ship departs for Indo-Lanka joint naval exercise SLINEX-2024. Exercise aims to enhance cooperation between Indian and Sri Lankan navies. Ship left Hambantota on Dec 12, 2024.
-
-🟩
-
-SLIFIX - 2024, Bipor of Sri Lanka Navy and the Indian Navy, will be held from 17th December to 20th December, Sri Lanka Navy ship to attend the naval exerciseThe ship left the island, Hambantota on 12th December, December 12, 2024.
-
-The Indo-shipping exercise will be held annually to improve cooperation and interacting among Indian Navy.
-
-Accordingly, SLINEX - 2024 leaving the bilateral naval exercise, the Sayura ship was supervised to depart from the Navy, Rear Admiral Chandima Silva.
-
-◼️
-
-[Data](articles/95461641.json)
-
-[Extended Data](ext_articles/95461641.ext.json)
 
 ---

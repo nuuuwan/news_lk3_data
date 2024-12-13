@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 13:12:36**
+As of **2024-12-13 13:43:29**
 
 ## Newspaper Stats
 
-*Scraped **59,962** Articles*
+*Scraped **59,967** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 450
 colombotelegraphcom | 607
-bbccomsinhala | 626
+bbccomsinhala | 627
 islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,695
-adaderanalk | 7,300
-tamilmirrorlk | 8,575
+adalk | 5,696
+adaderanalk | 7,302
+tamilmirrorlk | 8,576
 virakesarilk | 9,831
 adaderanasinhalalk | 10,358
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,906 (99.9%) of 59,962 articles have been extended.
+59,909 (99.9%) of 59,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Sri Lanka says Adani Port Project to continue despite US charges
+
+*2024-12-13 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104211/sri-lanka-says-adani-port-project-to-continue-despite-us-charges) · `en`
+
+Indian conglomerate Adani Group’s port project in Sri Lanka will go ahead despite US charges against its founder and sudden changes to its financing, the island nation said Friday.
+
+A bombshell indictment in New York last month accused billionaire tycoon Gautam Adani and several colleagues of deliberately misleading international investors as part of a bribery scheme.
+
+The charges sent Adani stocks into freefall and again raised questions over corporate governance at the family firm, whose founder is considered a close ally of Indian Prime Minister Narendra Modi.
+
+But Sri Lankan ports minister Bimal Ratnayake said the allegations against Adani had no bearing on the deep-sea container terminal project in the capital Colombo.
+
+“The problem between Adani and the US... is not our concern,” he told reporters during a tour of the port on Thursday night.
+
+“It is of high importance for us that western container terminal development by Adani goes ahead.”
+
+...
+
+[Data](articles/a9004704.json)
+
+---
 
 ### Killing one by the ax
 
@@ -57,6 +79,24 @@ The Forensic Division is going to the Forensic Division and is conducting invest
 [Data](articles/ad90465d.json)
 
 [Extended Data](ext_articles/ad90465d.ext.json)
+
+---
+
+### Indian team owner arrested over Lanka T10 match-fixing scandal remanded
+
+*2024-12-13 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104210/indian-team-owner-arrested-over-lanka-t10-match-fixing-scandal-remanded-) · `en`
+
+The Indian owner of the ‘Galle Marvels’ team in the Lanka T10 Super League, who was arrested yesterday (12) over match-fixing allegations, has been remanded until December 16 after being produced before the Colombo Magistrate’s Court today (13).
+
+The Indian national, Prem Thakur, who owns a franchise in the tournament, was taken into custody by Sri Lanka Police on Thursday in Kandy’s Pallekele stadium, where the league is taking place.
+
+Police confirmed that he is the owner of the ‘Galle Marvels’ team, one of the six competing teams.
+
+The arrest stemmed from a complaint by a West Indies player on his team, who refused Thakur’s match-fixing request.
+
+◼️
+
+[Data](articles/2ad48cde.json)
 
 ---
 
@@ -125,6 +165,24 @@ President Anura Kumara Dissanayake made this statement at a meeting with the sta
 [Data](articles/35c25010.json)
 
 [Extended Data](ext_articles/35c25010.ext.json)
+
+---
+
+### ’தவறு செய்தால் தண்டிக்கப்படுவீர்கள்’
+
+*2024-12-13 12:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தவறு-செய்தால்-தண்டிக்கப்படுவீர்கள்/150-348694) · `ta`
+
+தமது அரசாங்கத்தில் எந்த மட்டத்திலாவது தவறு நிகழ்ந்திருந்தால், அதற்கு எதிராக நடவடிக்கை எடுக்கப்படும் என, ஜனாதிபதி அனுர திஸாநாயக்க தெரிவித்துள்ளார்.
+
+மக்கள் எங்கள் மீது வைத்துள்ள நம்பிக்கையை எந்த வகையிலும் உடைக்க இடமளிக்க மாட்டோம் எனவும், அவர் கூறினார்.
+
+அரச ஊடக பிரதானிகளுடன் இன்று (13) காலை இடம்பெற்ற சந்திப்பில் வைத்தே, ஜனாதிபதி அனுரகுமார திrhநாயக்க இதனை குறிப்பிட்டுள்ளார்.
+
+“நாட்டில் தவறு செய்பவர்களை எக்காரணம் கொண்டும் பாதுகாக்க எமது அரசாங்கம் தயாராக இல்லை. நாட்டில் மட்டுமல்ல, நமது அரசாங்கத்தில் எந்த நிலையிலும் யாராவது தவறு செய்தால், அந்தத் தவறுக்கு எதிராக நடவடிக்கை எடுக்கத் தயங்க மாட்டோம்” என்றார்.AN
+
+◼️
+
+[Data](articles/b011c7ff.json)
 
 ---
 
@@ -209,6 +267,22 @@ The people placed their faith in the National People’s Power (NPP) government,
 [Data](articles/ee905a09.json)
 
 [Extended Data](ext_articles/ee905a09.ext.json)
+
+---
+
+### යාපනයේ පැතිරෙණ උණ රෝගය බලන්න කොළඹින් කණ්ඩායමක් යයි, මරණ 07ක් දක්වා ඉහළට
+
+*2024-12-13 11:27:41* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-පැතිරෙණ-උණ-රෝගය-බලන්න-කොළඹින්-කණ්ඩායමක්-යයි--මරණ-07ක්-දක්වා-ඉහළට/11-413615) · `si`
+
+යාපනය දිස්ත්‍රීක්කයේ පැතිරෙමින් යන උණ වෛරසය පිළිබඳව සොයා බැලීස සඳහා කොළඹ වසංගත රෝග විද්‍යා අංශයේ නිලධාරීන් පිරිසක් විසින් යාපනය සහ පේදුරුතුඩුව ප්‍රදේශයන් වෙතට ගොස් නිරීක්ෂණයක නිරත වෙමින් සෞඛ්‍ය බලධාරීන් හමු වී විශේෂ සාකච්ඡාවක නිරත වීය.
+
+අදාල උණ වෛරසයට ගොදුරු වූ රෝගීන් වාර්ථා වූ යාපනය රෝහල සහ පේදුරුතුඩුව රෝහල් වෙතට ගොස් අදාල කණ්ඩායම නිරීක්ෂණය කිරීමෙන් අනතුරුව යපනය රෝහල් අධ්‍යක්ෂක වෛද්‍ය ටී. සත්‍යමූර්තී මහතා ඇතුලු පිරිසක් හමු වී පවතින වාතාවරණය පිලිබඳව විශේෂ සාකච්ඡාවක නිරත විය.
+
+මේ අතර යාපනය දිස්ත්‍රීක්කයේ පවතින වත්මන් වතාවරණය පිලිබඳව ජනතාව දැනුවත් කිරීම සඳහා යාපනය ප්‍රාදේශීය සේවා සෞඛ්‍ය අධ්‍යක්ෂක කේ.ඒ්. කේදීස්වරන් මහතා මාධ්‍ය සාකච්ඡාවකට එක් වෙමින් පවස සිටයේ, මේ වන විට යපනය සහ පේදුරුතුඩුව රෝහල වෙතට මෙම හදීසි උණ වෛරසය වැළඳී රොගීන් 44 දෙනෙකු වාර්ථා වී ඇති බවටත් ඉන් රෝගීන් 7 දෙනෙකු මේ වන විට මිය ගොස් ඇති බවටත්ය.
+
+...
+
+[Data](articles/e37911bf.json)
 
 ---
 
@@ -584,6 +658,8 @@ The more liquid S&P SL20 was up 0.69 percent, or 28.88 points, at 4,215.
 
 [Data](articles/52ec2f39.json)
 
+[Extended Data](ext_articles/52ec2f39.ext.json)
+
 ---
 
 ### Govt. aims to complete Colombo Port’s ECT Project by June 2025
@@ -603,6 +679,8 @@ Furthermore, after conducting a special observation tour of the Colombo Port yes
 ◼️
 
 [Data](articles/1d5e1859.json)
+
+[Extended Data](ext_articles/1d5e1859.ext.json)
 
 ---
 
@@ -624,19 +702,25 @@ In a statement, the Ministry emphasized that, the visit underscored the deepenin
 
 ---
 
-### ඉන්දු - ලංකා ඒකාබද්ධ යුද අභ්‍යාසයට සයුර පිටත්වෙයි
+### Sacle Departs to Indo-Lanka joint war exercise
 
 *2024-12-13 09:29:58* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ලංකා-ඒකාබද්ධ-යුද-අභ්‍යාසයට-සයුර-පිටත්වෙයි/11-413613) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව සහ ඉන්දීය නාවික හමුදාව අතර පැවැත්වෙන  SLINEX - 2024, ද්විපාර්ශ්වික ඉන්දු - ලංකා නාවික අභ්‍යාසය 2024 දෙසැම්බර් මස 17 වැනි දින සිට 20 වැනි දින දක්වා ඉන්දියාවේ විසාකපට්නම් හිදී පැවැතිවීමට නියමිතව ඇති  අතර, එම නාවික අභ්‍යාසයට සහභාගී වීම සඳහා ශ්‍රී ලංකා නාවික නෞකා සයුර නෞකාව 2024 දෙසැම්බර් මස 12 වන දින, හම්බන්තොට ජාත්‍යන්තර වරායෙන් දිවයිනෙන් පිටත් විය.
+Sri Lanka Navy ship departs for Indo-Lanka joint naval exercise SLINEX-2024. Exercise aims to enhance cooperation between Indian and Sri Lankan navies. Ship left Hambantota on Dec 12, 2024.
 
-ඉන්දීය හා ශ්‍රී ලංකා නාවික හමුදා අතර සහයෝගීතාවය සහ අන්තර්ක්‍රියාකාරීත්වය වැඩිදියුණු කිරීම වෙනුවෙන් ඉන්දු ශ්‍රී ලංකා නාවික අභ්‍යාසය වාර්ෂිකව පැවැත්වේ.
+🟩
 
-ඒ අනුව,  SLINEX - 2024 ද්විපාර්ශ්වික  නාවික අභ්‍යාසයට සහභාගී වීම සඳහා  සයුර නෞකාව මෙලෙස දිවයිනෙන් පිටත්වූ අතර, නාවික හමුදා සාම්ප්‍රදායානුකූලව සයුර නෞකාව පිටත්ව යාම, දකුණු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චන්දිම සිල්වා ගේ අධීක්‍ෂණයෙන්  සිදු විය.
+SLIFIX - 2024, Bipor of Sri Lanka Navy and the Indian Navy, will be held from 17th December to 20th December, Sri Lanka Navy ship to attend the naval exerciseThe ship left the island, Hambantota on 12th December, December 12, 2024.
+
+The Indo-shipping exercise will be held annually to improve cooperation and interacting among Indian Navy.
+
+Accordingly, SLINEX - 2024 leaving the bilateral naval exercise, the Sayura ship was supervised to depart from the Navy, Rear Admiral Chandima Silva.
 
 ◼️
 
 [Data](articles/95461641.json)
+
+[Extended Data](ext_articles/95461641.ext.json)
 
 ---
 
@@ -905,6 +989,22 @@ TV visuals showed fire and smoke billowing from the hospital building, with fire
 ...
 
 [Data](articles/c4ab090c.json)
+
+---
+
+### 'අපේ ආණ්ඩුවේ මොන වගකීම දැරුවත් වැරැද්දක් කර ඇත්නම් අපි ක්‍රියා මාර්ග ගන්නවා'
+
+*2024-12-13 07:45:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckg32e2grdgo) · `si`
+
+'අපේ ආණ්ඩුවේ මොන වගකීම දැරුවත් වැරැද්දක් කර ඇත්නම් අපි ක්‍රියා මාර්ග ගන්නවා'
+
+''රට තුළ වැරදි කරන කිසිවෙකු, කිසිම හේතුවකට ආරක්ෂා කිරීමට අපේ ආණ්ඩුව සූදානම් නැහැ. රට තුළ පමණක් නෙවෙයි, අපේ ආණ්ඩුව තුළ කවර තරාතිරමක කෙනෙක් වුණත් වැරැද්දක් කරනවා නම් ඒ වැරැද්දට එරෙහිව ක්‍රියා මාර්ග ගන්න අපි පැකිළෙන්නේ නැහැ.'' යනුවෙන් ජනාධිපති අනුර කුමාර දිසානායක අද (දෙසැම්බර් 13) රජයේ මාධ්‍ය ප්‍රධානීන් සමග පැවති සාකච්ඡාවක දී පැවසුවේය.
+
+දශක 07ක් තිස්සේ රැවටීමට ලක් වූ ජනතාව අප කෙරෙහි තබා තිබෙන විශ්වාසය සුරක්ෂිත කිරීමට සහ මේ රට වඩා යහපත් රටක් කිරීමට තම රජය කොන්දේසි විරහිතව කැප වෙන බව ඔහු වැඩිදුරටත් කියා සිටියේය.
+
+◼️
+
+[Data](articles/27a6e8c7.json)
 
 ---
 
@@ -2117,157 +2217,5 @@ The Minister of Agriculture KD Lal Kanthantha and ministers including the Russia
 [Data](articles/6acb6a7c.json)
 
 [Extended Data](ext_articles/6acb6a7c.ext.json)
-
----
-
-### Singer - MCA bowl knockout match;The Champion Degree was the name of the nameburst insurance
-
-*2024-12-12 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201119) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Meliban Biscuits wins 31st Singer-MCA Premier League 2024 knockout final. Ranesh Silva scores 53*, Milinda Siriwardena 32, Sangeet Kare 28. Samika Gunasekera takes 4/31. Piwrest Insurance replies with 161/9. Dushan Vimukti 4/32, Dushan Hemantha 3/50. Vijayakanth Vyaskant best bowler. Samindu Wijesinghe wins Series award."
-
-🟩
-
-Meliban Biscuits won the 31st Singer -MCA Premier League 2024 knock out final by winning the 31st Singer - MCA (MCA) and winning the Champion Bowl by winning the Meliban Biscuits team by one wicket.
-
-Melipan Biscuits lost all wickets in 32.1 overs and scored 160 runs.
-
-Ranesh Silva scored a half -century for the Meliban Biscuits team, who lost 5 wickets at one point.
-
-Ranesh Silva, who scored a very effective number 7, scored 53 runs with a pound of 53 runs.
-
-Milinda Siriwardena scored 32 runs and Sangeet Kare 28.
-
-Samika Gunasekera took 4 wickets for 31 runs while Namesh Vimukti took 2 wickets for 32 runs.
-
-In reply, Piriverst was bowled out for 161 runs in 34 overs.
-
-Brairberst Insurance was stumbled at one point. However, Asela Sighera (29) and Anuk Fernando (22) rescued the team by sharing 49 runs in the 5th wicket.. Kaviru Senhas scored 23 runs than them.
-
-At another stage, the Barberst Insurance team lost 8 wickets and scored 143 runs again.
-
-...
-
-[Data](articles/66e63c60.json)
-
-[Extended Data](ext_articles/66e63c60.ext.json)
-
----
-
-### Another l t10 s l competition was abandoned by rain, and other matches are suspected to take place
-
-*2024-12-12 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201118) · `ta`
-
-Rain forces abandonment of 4th match in Lanka R10 Super League cricket tournament. Kandy Boltz vs Nuwara Eliya Kings match cut short after 3.3 overs.
-
-🟩
-
-The 4th match of the tournament held today, the second day of the inaugural Lanka R10 Super League Cricket Tournament, which commenced at the Pallekel International Cricket Hall yesterday, was abandoned due to rain.
-
-The Lanka R10 Super League (L10 S L) of the Kandy Boltz and Nuwara Eliya Kings team was abandoned in 3.3 overs due to rain.
-
-It is noteworthy that the rivalry played by Nuwara Eliya Kings yesterday was blocked.
-
-Kandy Boltz, who was first invited to bat in today's match, was disrupted by the loss of 38 runs in 3.3 overs.
-
-When the game was blocked. Chandarbol Hemraj scored 7 runs and the match was abandoned.
-
-◼️
-
-[Data](articles/54e98bbe.json)
-
-[Extended Data](ext_articles/54e98bbe.ext.json)
-
----
-
-### New government will take action against Udayanga, Kapila - Hope for International Truth and Justice
-
-*2024-12-12 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201117) · `ta`
-
-Sri Lanka's new govt may act against Udayanga Weeratunga & Kapila Chandrasena due to US sanctions. International Truth & Justice Project accuses them of corruption & human rights violations.
-
-🟩
-
-Sri Lanka's new government is expected to take action against Udayanga Weeratunga and Kapila Chandrasena in the wake of the ban imposed by the United States.
-
-The US last Monday imposed sanctions against individuals and their family members from various countries to encourage criminals involved in corruption and human rights violations globally on the eve of International Anti -Corruption Day (9) and International Human Rights Day (10) (10).. The ban is also included in the Rajapakse government, Udayanga Weeratunga and Kapila Chandrasena, who held key positions in the government.
-
-The United Nations, the United Nations, the United Nations, the United Nations, the United Nations, Britain, Australia, Canada and the European Union, demanding the imposition of various obstacles against state and security officials who have already been involved in corruption crimes and corruption scandals in Sri Lanka.And the project for justice was sent.
-
-...
-
-[Data](articles/ca8a98b0.json)
-
-[Extended Data](ext_articles/ca8a98b0.ext.json)
-
----
-
-### A 14-year-old girl punished for a prostitute
-
-*2024-12-12 19:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204317) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"14yo girl convicted of prostitution. Colombo High Court sentences her to 30yrs imprisonment & fine. Judge criticizes exploitation of minors. Victim testifies against defendant. State seeks harsh punishment to deter similar crimes."
-
-🟩
-
-The Colombo High Court today (12) ordered a 30-year-old girl to be sentenced to 30 years in prison.
-
-Colombo High Court Judge Navaratne Marasinghe was ordered that it should go in 10 years.
-
-The judge also fined Rs 45,000, ordered the girl to pay for Rs.
-
-The accused filed against the accused against several charges, including the manner in detail and engaged in prostitution.
-
-The High Court Judge said that every person should be sure to respect his mother, sister, and his wife.
-
-The judge condemned the defendant that the judiciary does not have an accuracy of such persons with such children.
-
-The judge asked the victim whether he had to say something before he was sentenced.
-
-She was punished by the defendant and asked him to do justice.
-
-The State Counsel appealed to the court to be severely punished for the people who wish to make such mistakes in the future.
-
-The accused of the defense lawyer said in court to be the accused with the defendant and would be loose to the accused.
-
-...
-
-[Data](articles/080337a9.json)
-
-[Extended Data](ext_articles/080337a9.ext.json)
-
----
-
-### Notification on a road block in Ratnapura
-
-*2024-12-12 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204316) · `si`
-
-Road block alert: Police announce traffic restrictions in Ratnapura due to Sri Pada pilgrimage processions on 13th. Expect delays on roads leading to Sri Pada from 6 AM to 10 PM.
-
-🟩
-
-Police have issued a special announcement in connection with a road blocking in Ratnapura tomorrow (13).
-
-As the Sri Pada pilgrimage will commence the 14th Uduvath Pilgrimage, Samunooo statue, the rescue and the Gunajasa Kadu and the Gunajasa Kadu and the Gunaja (12) will be held in the Pelmadulla Galpola Temple.
-
-Following this will be taken to work from the Galapotha Raja Maha Viharaya tomorrow to the Sri Pada Kavilwala Road, the Kuruwita road and Kuruwita road.
-
-The procession will be held from Pelmadulla to Ratnapura from 6 am to 10 am to 10 am to 10 am to 10 am tomorrow.
-
-Therefore, the police call on the above road and to pay attention to the public.
-
-◼️
-
-[Data](articles/24f96a1f.json)
-
-[Extended Data](ext_articles/24f96a1f.ext.json)
 
 ---

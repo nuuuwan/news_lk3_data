@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 14:43:09**
+As of **2024-12-13 15:02:06**
 
 ## Newspaper Stats
 
-*Scraped **59,987** Articles*
+*Scraped **59,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,697
+adalk | 5,698
 adaderanalk | 7,303
-tamilmirrorlk | 8,579
-virakesarilk | 9,837
+tamilmirrorlk | 8,580
+virakesarilk | 9,841
 adaderanasinhalalk | 10,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,916 (99.9%) of 59,987 articles have been extended.
+59,916 (99.9%) of 59,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா தீர்மானத்தில் எதிர்க்கட்சி கையெழுத்து!
+
+*2024-12-13 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201170) · `ta`
+
+சபாநாயகர் அசோக ரன்வல தனக்கு கலாநிதி பட்டம் இருப்பதாக கூறி மக்களையும் அரசாங்கத்தையும் ஏமாற்றியிருக்கிறார். இதனை அடிப்படையாகக் கொண்டு அவருக்கு எதிரான நம்பிக்கையில்லா பிரேரணையில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச உள்ளிட்டோர் வெள்ளிக்கிழமை (13) கையெழுத்திட்டனர்.
+
+தற்போதைய சபாநாயகர் அசோக ரன்வல கடந்த தேர்தலில் போட்டியிடுவதற்கு முன்பும் பாராளுமன்றத் தேர்தலில் போட்டியிட்டபோதும் சபாநாயகராக பதவியேற்றுக்கொண்ட போதும் தன்னை கலாநிதி என்றே அடையாளப்படுத்திக்கொண்டார்.
+
+ஆனால் மொரட்டுவ பல்கலைக்கழகத்தில் இரசாயன பொறியியலில் பி.எஸ்.சி. பட்டம், ஜப்பானில் உள்ள வசேடா பல்கலைக்கழகத்தில் முனைவர் பட்டமும் பெற்றிருப்பதாக குறிப்பிட்டு அவரது பெயருடன் கலாநிதி என்ற பட்டம் பயன்படுத்தப்பட்டுள்ளது.
+
+இது தொடர்பில் மக்களிடம் இருந்து ஆட்சேபனை எழுந்த சந்தர்ப்பத்திலும், இது தொடர்பான தகவல் கேட்ட போது மௌனம் காத்து, உண்மையை மறைத்துள்ள காரணங்களினால் இந்த நம்பிக்கையில்லாப் பிரேரணை கொண்டு வரப்பட்டுள்ளது.
+
+...
+
+[Data](articles/dc4ac6c0.json)
+
+---
+
+### சிவனொளிபாத மலை பருவ காலம் நாளை ஆரம்பம்
+
+*2024-12-13 14:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலை-பருவ-காலம்-நாளை-ஆரம்பம்/175-348703) · `ta`
+
+அதன்படி, நாளை ஆரம்பமாகவுள்ள சிவனொளிபாத மலை பருவம், அடுத்த வருடம் மே மாதம் 13ஆம் திகதி வரை இடம்பெறும் என, இரத்தினபுரி மாவட்ட செயலாளர் வசந்த குணரத்னவினால் விசேட வர்த்தமானி அறிவித்தல் நேற்று (12) வெளியிடப்பட்டது.AN
+
+◼️
+
+[Data](articles/25d79984.json)
+
+---
+
+### நீதி அமைச்சர் ஹர்ஷன நாணயக்காரவின் கலாநிதிப் பட்டம்  நீக்கப்பட்டமை தொடர்பில் பாராளுமன்றம் விளக்கம்
+
+*2024-12-13 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201157) · `ta`
+
+பாராளுமன்ற இணையத்தளத்தில் உறுப்பினர்களின் தகவல் திரட்டில் தகவல்களை உள்ளீடு செய்யும்போது அமைச்சர் சட்டத்தரணி ஹர்ஷண நாணயக்காரவின் பெயருக்கு முன்னால் தவறுதலாக “கலாநிதி” எனக் குறிப்பிடப்பட்டுள்ளது. அந்தத் தவறை நிவர்த்தி செய்வதற்கு தற்பொழுது நடவடிக்கை எடுக்கப்பட்டு வருவதாக பாராளுமன்றம் தெரிவித்துள்ளது.
+
+பாராளுமன்ற இணையதளத்தில் உறுப்பினர்களின் தகவல் திரட்டில் நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் சட்டத்தரணி ஹர்ஷன நாணயக்காரவின் பெயருக்கு முன்னால் குறிப்பிடப்பட்டிருந்த கலாநிதிப் பட்டம் தொடர்பில் பாராளுமன்றம் வெளியிட்ட ஊடக அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+பாராளுமன்ற இனையத்தளத்தில் உறுப்பினர்களின் தகவல் திரட்டில் நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் சட்டத்தரணி கௌரவ ஹர்ஷன நானாயக்கார அவர்களின் பெயருக்கு முன்னால் குறிப்பிடப்பட்டிருந்த கலாநிதிப் பட்டம் தொடர்பாக ஊடகங்களில் வெளியிடப்படும் அறிக்கைகள் தொடர்பில் பின்வரும் விடயங்களை வலியுறுத்துகிறோம்.
+
+...
+
+[Data](articles/d8d2c226.json)
+
+---
+
+### பஸ் சக்கரத்தில் சிக்குண்டு வயோதிப பெண் உயிரிழப்பு!
+
+*2024-12-13 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201146) · `ta`
+
+எல்பிட்டிய - பிடிகல வீதியில் தலகஸ்பே பகுதியில் பஸ் சக்கரத்தில் சிக்குண்டு வயோதிப பெண் ஒருவர் உயிரிழந்துள்ளதாக பிடிகல பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் கலகஸ்பே பிரதேசத்தைச் சேர்ந்த 64 வயதுடைய வயோதிப பெண் ஒருவர் ஆவார்.
+
+எல்பிட்டியவில் இருந்து பிடிகல நோக்கிப் பயணித்த தனியார் பஸ் ஒன்று, பஸ் தரிப்பிடத்தில் பயணிகளை இறக்கி விட்டு வலது பக்கமாக திரும்ப முயன்ற போது வீதியில் பயணித் பெண் ஒருவர் பஸ்ஸின் பின்புறத்தில் உள்ள சக்கரமொன்றில் சிக்கி காயமடைந்துள்ளார்.
+
+சடலம் எல்பிட்டிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், விபத்து தொடர்பில் பஸ் சாரதி கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f3ab1ef2.json)
+
+---
+
+### லொறியை மோதி கவிழ்த்திய காட்டு யானை - வயோதிப பெண் உயிரிழப்பு
+
+*2024-12-13 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201156) · `ta`
+
+மொனராகலை- கோனகங்ஆர பொலிஸ் பிரிவிற்கு உட்பட்ட புத்தல - கதிர்காமம் வீதியில் நேற்று வியாழக்கிழமை (12) காலை காட்டு யானை ஒன்று வீதியில் பயணித்த லொறி ஒன்றை மோதி கவிழ்த்தி விபத்துக்குள்ளாக்கியுள்ளதாக கோனகங்ஆர பொலிஸார் தெரிவித்தனர்.
+
+விபத்தின் போது , லொறியின் முன் இருக்கையில் அமர்ந்திருந்த வயோதிப பெண் லொறியின் அடியில் சிக்கி பலத்த காயங்களுக்கு உள்ளாகியுள்ள நிலையில் புத்தல வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/6f158e43.json)
+
+---
 
 ### කොළඹ වරාය නගර ආර්ථික කොමිසම සඳහා සාමාජිකයන් පත් කෙරේ
 
@@ -56,7 +134,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Samagi Jana Balawegaya (SJB) parliamentary group, led by Opposition Leader Sajith Premadasa, has commenced signing the Motion of No Confidence against the Speaker of Parliament, according to the SJB Media Unit.
 
-◼️
+The SJB alleges that the Speaker, both before and during his campaign for the 2024 parliamentary election, and throughout his tenure as an MP and as the Speaker, has used the title “Dr.” alongside his name.
+
+According to the SJB, this implies he holds a B.Sc. in Chemical and Process Engineering from the University of Moratuwa and a PhD from Waseda University in Japan—qualifications he allegedly does not hold.
+
+The party also claims that the Speaker has avoided addressing public concerns and inquiries regarding these qualifications.
+
+...
 
 [Data](articles/9718ea12.json)
 
@@ -199,6 +283,20 @@ In addition, information on all members of the parliamentary website is being co
 [Data](articles/79efb092.json)
 
 [Extended Data](ext_articles/79efb092.ext.json)
+
+---
+
+### මෙවර කලාභුෂණ රාජ්‍ය සම්මාන උළෙල අරලියගහ මන්දිරයේ
+
+*2024-12-13 13:08:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-කලාභුෂණ-රාජ්‍ය-සම්මාන-උළෙල-අරලියගහ-මන්දිරයේ/11-413617) · `si`
+
+බුද්ධ ශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය සහ සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව මඟින් සංවිධානය කරනු ලබන කලාභුෂණ රාජ්‍ය සම්මාන ප්‍රධාන උළෙල පසුගියදා  (12) වැනි දින පෙ.ව.10.00ට අමාත්‍ය ආචාර්ය හිනිදුම සුනිල් සෙනෙවිගේ ප්‍රධානත්වයෙන් අරලියගහ මන්දිරයේදී පැවැත්විනි.
+
+සාහිත්‍ය, සංගීතය, නාට්‍ය, නර්තනය, චිත්‍ර හා මූර්ති සහ සෙසු කලා අංශ යනාදී කලා ක්ෂේත්‍ර සඳහා වයස අවුරුදු 60 ඉක්මවූ ජ්‍යෙෂ්ඨ කලාකරුවන් 200 දෙනෙකු ජීවිතේ එක් වරක් පමණක් පිරිනමන කලා භූෂණ රාජ්‍ය සම්මානයෙන් පිදුම් ලැබීය. (I J)
+
+◼️
+
+[Data](articles/bf03072e.json)
 
 ---
 
@@ -2053,133 +2151,5 @@ The conference aims to facilitate dialogue between Government representatives, f
 [Data](articles/18be041a.json)
 
 [Extended Data](ext_articles/18be041a.ext.json)
-
----
-
-### Investment, the US Peace Corps representing strengthening relations with Sri Lanka
-
-*2024-12-13 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201123) · `ta`
-
-US Peace Corps strengthens ties with Sri Lanka through education and cultural exchange. 19 volunteers sworn in, trained in local languages and culture, to teach English in rural schools for two years.
-
-🟩
-
-19 US Peace Corps Volunteers were sworn in in Colombo on Thursday (12) from the second group of volunteers who arrived in Sri Lanka after the historical rebuilding of last year's Peace Corps Program.
-
-The event underlines the deepest US Sri Lanka's partnership and shared commitment on education and cultural exchange.
-
-The group of people who visited Sri Lanka last September has completed a 12 -week intensive training on Sinhala or Tamil, Sri Lanka's culture and teaching methods.
-
-They will work as English language teachers in schools in the Central and Uva provinces for the next two years to improve English education in rural schools, along with Sri Lankan teachers and school principals.
-
-Nimali Baduraliya, Director of the Department of English and Foreign Languages, who highlighted the importance of the event, improves English language education to create opportunities for all Sri Lankans.
-
-...
-
-[Data](articles/015f2cbd.json)
-
-[Extended Data](ext_articles/015f2cbd.ext.json)
-
----
-
-### “Let us become exemplary forbearers of a proud nation”: AKD
-
-*2024-12-13 02:07:28* · [`dailyftlk`](https://www.ft.lk/opinion/Let-us-become-exemplary-forbearers-of-a-proud-nation-AKD/14-770450) · `en`
-
-What we are doing, in many instances, is repeatedly using the power entrusted to us to engage in corruption. The people have given this power for us. They have granted us privileges and provided us with salaries. But what do those entrusted with these responsibilities do? They misuse their power and privileges to engage in bribery and corruption repeatedly. That is the reality
-
-Following is the full speech delivered by President Anura Kumara Dissanayake at the International Anti-Corruption Day held at the BMICH on 9 December
-
-...
-
-[Data](articles/08b8d6fc.json)
-
-[Extended Data](ext_articles/08b8d6fc.ext.json)
-
----
-
-### Sarid Asalank and Trivine Mathews bowling;Jevna Titans win the second
-
-*2024-12-13 01:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201122) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Jevna Titans won vs Kalambo Jaguars in Lanka R10 Super League Cricket. Sarid Asalanka scored 56* & 80* with Kusal Mendis. Team reached 138/6 in 10 overs. Pramod Madushan bowled crucial 9th over.
-
-🟩
-
-Jevna Titans won the Kalambo Jaguars by 40 runs in the Lanka R10 Super League Cricket Tournament held at the Pallekele International Stadium on Thursday night.
-
-Sarid Asalan's accumulated half -century and his 80 runs in the 2nd wicket with Kusal Mendis reinforced the total number of Jevna Titans.
-
-In the match against the Hambantota Bangla Tigers, who took 4 wickets in the match, which took 4 wickets in the match on the day of the match, Bandavi played a key role in his team's victory.
-
-Jevna Titans, who was first invited to bat in the upting match, scored 138 runs for the loss of 6 wickets in 10 overs.
-
-This was recorded as the highest number of one team in the Chapter Chapter Chapter of the Ceylon Lanka R10.
-
-In the second ball of the first over of Angelo Mathews, Dom Kohler lost the Ketmore to the run.
-
-However, Kusal Mendis and Sarit Asalanka shared 80 runs off 33 balls in the 2nd wicket.
-
-Gusal Mendis scored 37 runs off 19 balls with 6 pounds and one six.
-
-...
-
-[Data](articles/f0b8f099.json)
-
-[Extended Data](ext_articles/f0b8f099.ext.json)
-
----
-
-### Sweet and Sour Election Results for Ilankai Thamil Arasuk Katchi(ITAK).: On Top in Batticaloa but Down in Jaffna.
-
-*2024-12-13 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85181) · `en`
-
-“Mata Allanda Bariwune,Madakkalappuwa vitharai” (I was unable to capture only Batticaloa)  were the words with which  President Anura Kumara Dissanayake smilingly greeted “Mattakkalappu”MP Shanakiyan Rajaputhiran Rasamanickam in Parliament on 21st November. The president was mingling with the  parliamentarians at the inaugural session of the tenth parliament. Anura was of course alluding to the  November 14  parliamentary election in which the AKD led  JVP-NPP came first in all  electoral districts of Sri Lanka except  Batticaloa. That eastern district went to the Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP).The ITAK won three of the five seats in B’caloa. The other two seats went to the National People’s Power(NPP) and Sri Lanka Muslim Congress(SLMC)respectively
-
-...
-
-[Data](articles/32712fb1.json)
-
-[Extended Data](ext_articles/32712fb1.ext.json)
-
----
-
-### The new government will take action against Udayanga and Kapila;International Truth and Justice Faith
-
-*2024-12-13 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201121) · `ta`
-
-New Sri Lankan government targets Udayanga Weeratunga & Kapila Chandrasena following US sanctions. International Truth and Justice Project expects action against accused officials.
-
-🟩
-
-Sri Lanka's new government is expected to take action against Udayanga Weeratunga and Kapila Chandrasena in the wake of the ban imposed by the United States.
-
-The US last Monday imposed sanctions against individuals and their family members from various countries to encourage criminals involved in corruption and human rights violations globally on the eve of International Anti -Corruption Day (9) and International Human Rights Day (10) (10).. The list includes Udayanga Weeratunga and Kapila Chandrasena, who held key positions in the Rajapakse government.
-
-The United Nations, the United Nations, the United Nations, the United Nations, the United Nations, Britain, Australia, Canada and the European Union, demanding the imposition of various obstacles against state and security officials who have already been involved in corruption crimes and corruption scandals in Sri Lanka.And the project for justice was sent.
-
-...
-
-[Data](articles/16e6b1e1.json)
-
-[Extended Data](ext_articles/16e6b1e1.ext.json)
-
----
-
-### Ajahn Brahmavamso’s advice for meditation
-
-*2024-12-13 01:00:00* · [`islandlk`](http://island.lk/ajahn-brahmavamsos-advice-for-meditation/) · `en`
-
-Ven Mettavihari, who resides in the Narada Bauddha Dharmayatanaya, formerly the Narada Buddhist Research and Information Centre down Sarana Road, Colombo 7, is the advisor to the Brahm Society of Sri Lanka. They are preparing a visit from Ajahn Brahm to Sri Lanka in May 2025.
-
-Ven Mettavihari sent me a verbatim transcription of a talk given by Ven Brahmavamso. Impressed and finding it useful in my attempts to meditate, I decided to redo the article and share it with others in this season of  Unduvap Poya. I will give Ajahn Brahm’s actual words within speech punctuation, attempting to retain the ‘flavour’ of his style of preaching. I may not succeed in this but his messages will be conveyed.
-
-...
-
-[Data](articles/02c7ed66.json)
 
 ---

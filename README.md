@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 11:26:49**
+As of **2024-12-13 10:42:52**
 
 ## Newspaper Stats
 
-*Scraped **59,944** Articles*
+*Scraped **59,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,139 +12,43 @@ newsfirstlk | 363
 dbsjeyarajcom | 449
 colombotelegraphcom | 607
 bbccomsinhala | 626
-islandlk | 3,621
+islandlk | 3,619
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,694
+adalk | 5,693
 adaderanalk | 7,296
-tamilmirrorlk | 8,569
-virakesarilk | 9,831
+tamilmirrorlk | 8,567
+virakesarilk | 9,828
 adaderanasinhalalk | 10,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,891 (99.9%) of 59,944 articles have been extended.
+59,887 (99.9%) of 59,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### தே.ம.ச எம்.பிகளின் பட்டங்களை ஆராய குழு நியமிக்க பிரேரணை
-
-*2024-12-13 11:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-எம்-பிகளின்-பட்டங்களை-ஆராய-குழு-நியமிக்க-பிரேரணை/175-348687) · `ta`
-
-தேசிய மக்கள் சக்தி அரசாங்கத்தின் சபாநாயகர் உட்பட அனைத்து பாராளுமன்ற உறுப்பினர்களின் கல்வித் தகுதி, பேராசிரியர், கலாநிதிப் பட்டங்கள் உள்ளிட்டவற்றை ஆராய தெரிவுக்குழுவொன்றை நியமிப்பதற்கான பிரேரணையை பாராளுமன்றத்தில் சமர்ப்பிக்க ஐக்கிய தேசியக் கட்சியும் புதிய ஜனநாயக முன்னணியும் தீர்மானித்துள்ளன.
-
-ஐக்கிய தேசிய கட்சி மற்றும் புதிய ஜனநாயக முன்னணியின் உறுப்பினர் குழுத் தலைவர் ஜீவன் தொண்டமான் இது தொடர்பான பிரேரணையை பாராளுமன்றத்தில் முன்வைக்கவுள்ளார்.
-
-சபாநாயகர் அசோக ரன்வலவின் கலாநிதி பட்டம் மற்றும் மற்றுமொரு அமைச்சரின் பொறியியற் பட்டம் தொடர்பான பிரச்சினைகளை தீர்க்கும் நோக்கில் இந்த தெரிவுக்குழுவை நியமிக்க முன்வந்துள்ளதாக புதிய ஜனநாயக முன்னணி தெரிவித்துள்ளது.
-
-அசோக ரன்வலவின் கலாநிதி பட்டம் தொடர்பில் எழுந்துள்ள நெருக்கடிக்கு சபாநாயகரிடமிருந்தோ அல்லது தேசிய மக்கள் சக்தி அரசாங்கத்திடமிருந்தோ ஏற்றுக்கொள்ளக் கூடிய பதில் கிடைக்காததால், உரிய தெரிவுக்குழுவை நியமிக்கும் பிரேரணை சமர்ப்பிக்கப்படும் என்றும், புதிய ஜனநாயக முன்னணி தெரிவித்துள்ளது.AN
-
-◼️
-
-[Data](articles/53836651.json)
-
----
-
-### Murder by a sharp weaponSuspect arrested
-
-*2024-12-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201134) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-74-year-old suspect arrested in Thikkumbura for murder with sharp weapon. Incident occurred in Galle-Himadhuwa police division on Thursday (12).
-
-🟩
-
-A suspect in connection with the murder of a man was arrested in Thikkumbura area, which belongs to the Galle and Himadhuwa police division, has been arrested on Thursday (12).
-
-The suspect was 74 years old from Imaduwa, Thikkumbura.
-
-◼️
-
-[Data](articles/d6c3c9ae.json)
-
-[Extended Data](ext_articles/d6c3c9ae.ext.json)
-
----
-
-### The scareer Baba Benga's arum
-
-*2024-12-13 11:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பயமுறுத்தும்-பாபா-வங்காவின்-ஆரூடம்/50-348685) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Baba Benga: Bulgarian blind prophet predicting global events. Forecasts 3rd World War after Syria's fall, beginning in 2025. Accurately predicted 9/11, Obama presidency, Brexit. 85% accuracy rate. Claims no single winner in Syria conflict. Predicts European decline and alien encounters.
-
-🟩
-
-Baba Benga ... Have you heard of this name already?She is a woman from Belazica, Bulgaria. Baba Benga, who lost his eyesight at a young age, began to say what would happen in the future world.
-
-Baba Bengal also has the name of the female nastradamus in the Balkan region. (The ancient prophet who lived in France, Nastradamus, the centuries of the book "The future of the world"
-
-Baba Benga has said what will happen in the future, ie 5079. It is worth noting that 85 percent of his arms have been sacrificed.
-
-Well, now we may have the question of what we need to talk about Baba Benga. The idea of ​​Baba Benga has come back to many worldwide as the regime has now collapsed in the West Asian country of Syria and the Syrian rebels are in their hands.
-
-The reason is that Baba Benga has already said that the third world war will begin after the fall of Syria.
-
-Syria is a state of disrepair. Baba Benga has said that this fall in Syria is the forecast and the starting point for the majority.
-
-...
-
-[Data](articles/97e33063.json)
-
-[Extended Data](ext_articles/97e33063.ext.json)
-
----
-
-### கேகாலையில் கல்லால் தாக்கப்பட்டு ஒருவர் கொலை !
-
-*2024-12-13 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201132) · `ta`
-
-கேகாலை, வரகாப்பொல பொலிஸ் பிரிவுக்கு உட்பட்ட மாயின்னொலுவ பிரதேசத்தில் கல்லால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்டுள்ளதாக வரகாப்பொல பொலிஸார் தெரிவித்தனர்.
-
-இரு நபர்களுக்கு இடையில் ஏற்பட்ட தகராறு காரணமாக இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த சம்பவம் தொடர்பில் 74 வயதான சந்தேக நபர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/49e9d529.json)
-
----
-
-### Namal voiced for a Tamil youth fighting in Tamil Nadu
+### தமிழ்நாட்டில் போராடும் தமிழ் இளைஞனுக்காக குரல் கொடுத்த நாமல்
 
 *2024-12-13 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டில்-போராடும்-தமிழ்-இளைஞனுக்காக-குரல்-கொடுத்த-நாமல்/175-348681) · `ta`
 
-Namal Rajapakse urges govt to repatriate Tamil youth from TN protests. He seeks Indian citizenship or return to SL.
+தமிழகத்தின் இராமநாதபுரம் மாவட்ட ஆட்சியர் அலுவலகத்துக்கு முன்பாக தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட இலங்கையரை நாட்டுக்கு அழைத்து வருவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ வலியுறுத்தியுள்ளார்.
 
-🟩
+இலங்கையில் இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது தமிழகத்தில் தஞ்சமடைந்த ஒருவர், தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி மண்டியிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்ட காணொளி ஒன்றைத் தமிழக ஊடகங்கள் வெளியிட்டுள்ளன.
 
-Parliamentarian Namal Rajapakse has urged the government to take steps to bring the Sri Lankans who were protesting in front of the Ramanathapuram district collector's office in Tamil Nadu.
+தமக்கு இந்தியக் குடியுரிமை வழங்க வேண்டும் அல்லது தம்மை மீண்டும் இலங்கைக்குத் திருப்பி அனுப்புவதற்கு நடவடிக்கை எடுக்கப்பட வேண்டும் எனக் குறித்த நபர் வலியுறுத்தியுள்ளார்.
 
-The Tamil media has released a video of a man who has been sheltered in Tamil Nadu during the civil war in Sri Lanka and demanded that he be sent back to Sri Lanka.
+இந்தநிலையில், இலங்கை அரசாங்கம், இந்திய அரசாங்கத்துடன் இணைந்து உடனடியாக குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்கு நடவடிக்கை எடுக்க வேண்டும் என நாமல் வலியுறுத்தியுள்ளார்.
 
-The person has urged him to grant Indian citizenship or return to Sri Lanka to return to Sri Lanka.
-
-In the meantime, Namal urged the Sri Lankan government to take immediate steps to bring the person to Sri Lanka with the Indian government.
-
-Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessary assistance to bring the person to Sri Lanka.. Remble
+மேலும், குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்குத் தேவையான உதவிகளை வழங்குவதற்குத் தாம் தயாராகவுள்ளதாகவும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார். R
 
 ◼️
 
 [Data](articles/7166965a.json)
-
-[Extended Data](ext_articles/7166965a.ext.json)
 
 ---
 
@@ -152,7 +56,7 @@ Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessa
 
 *2024-12-13 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104205/former-sri-lankan-diplomat-in-australia-fined-more-than-100000-for-entrapping-domestic-worker) · `en`
 
-A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the Australian federal court.
+A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the federal court.
 
 The fine is in addition to more than $500,000 in unpaid wages and interest she has already been ordered to restore, but has so far refused to pay.
 
@@ -165,8 +69,6 @@ But Danaratna told the federal court she was instead isolated and oppressed, wor
 ...
 
 [Data](articles/b5896d11.json)
-
-[Extended Data](ext_articles/b5896d11.ext.json)
 
 ---
 
@@ -222,22 +124,6 @@ The car has been registered in the name of a 36 -year -old woman living in Kadav
 
 ---
 
-### குளியாப்பிட்டியவில் கூரிய ஆயுதத்தால் தாக்கி ஒருவர் கொலை !
-
-*2024-12-13 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201129) · `ta`
-
-குளியாப்பிட்டிய - தும்மலசூரிய பொலிஸ் பிரிவிற்குட்பட்ட சியம்பலகஸ்ருப்ப பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபர் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-உயிரிழந்தவர் மேற்கு சியம்பலகஸ்ருப்ப , தும்மலசூரிய பிரதேசத்தைச் சேர்ந்த 39 வயதுடையவர் ஆவார்.
-
-கூரிய ஆயுதத்தால் கழுத்தை வெட்டி கொலை செய்துள்ளதாக விசாரணையில் தெரியவந்துள்ளதுடன் கொலைக்கான காரணம் வெளியாகவில்லை என்பதுடன் சந்தேகநபர்கள் எவரும் இதுவரை கைதுசெய்யப்படவில்லையென பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d2a74112.json)
-
----
-
 ### Bottom trawling by Indian fishermen must stop: Sri Lanka’s Fisheries Minister
 
 *2024-12-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104204/bottom-trawling-by-indian-fishermen-must-stop-sri-lankas-fisheries-minister) · `en`
@@ -289,22 +175,6 @@ In a statement, the Ministry emphasized that, the visit underscored the deepenin
 [Data](articles/f69c12fe.json)
 
 [Extended Data](ext_articles/f69c12fe.ext.json)
-
----
-
-### ඉන්දු - ලංකා ඒකාබද්ධ යුද අභ්‍යාසයට සයුර පිටත්වෙයි
-
-*2024-12-13 09:29:58* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ලංකා-ඒකාබද්ධ-යුද-අභ්‍යාසයට-සයුර-පිටත්වෙයි/11-413613) · `si`
-
-ශ්‍රී ලංකා නාවික හමුදාව සහ ඉන්දීය නාවික හමුදාව අතර පැවැත්වෙන  SLINEX - 2024, ද්විපාර්ශ්වික ඉන්දු - ලංකා නාවික අභ්‍යාසය 2024 දෙසැම්බර් මස 17 වැනි දින සිට 20 වැනි දින දක්වා ඉන්දියාවේ විසාකපට්නම් හිදී පැවැතිවීමට නියමිතව ඇති  අතර, එම නාවික අභ්‍යාසයට සහභාගී වීම සඳහා ශ්‍රී ලංකා නාවික නෞකා සයුර නෞකාව 2024 දෙසැම්බර් මස 12 වන දින, හම්බන්තොට ජාත්‍යන්තර වරායෙන් දිවයිනෙන් පිටත් විය.
-
-ඉන්දීය හා ශ්‍රී ලංකා නාවික හමුදා අතර සහයෝගීතාවය සහ අන්තර්ක්‍රියාකාරීත්වය වැඩිදියුණු කිරීම වෙනුවෙන් ඉන්දු ශ්‍රී ලංකා නාවික අභ්‍යාසය වාර්ෂිකව පැවැත්වේ.
-
-ඒ අනුව,  SLINEX - 2024 ද්විපාර්ශ්වික  නාවික අභ්‍යාසයට සහභාගී වීම සඳහා  සයුර නෞකාව මෙලෙස දිවයිනෙන් පිටත්වූ අතර, නාවික හමුදා සාම්ප්‍රදායානුකූලව සයුර නෞකාව පිටත්ව යාම, දකුණු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චන්දිම සිල්වා ගේ අධීක්‍ෂණයෙන්  සිදු විය.
-
-◼️
-
-[Data](articles/95461641.json)
 
 ---
 
@@ -2285,5 +2155,143 @@ The main opposition United People's Power has paid attention to the bringing of 
 [Data](articles/c1091fb5.json)
 
 [Extended Data](ext_articles/c1091fb5.ext.json)
+
+---
+
+### Sri Lanka’s central bank calls for depositors to get unique identification numbers
+
+*2024-12-12 17:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-calls-for-depositors-to-get-unique-identification-numbers-193984/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has issued a notice calling for banks and financial institutions to record the unique identification numbers of depositors before the deadline on December 31.
+
+“It is advised that all individuals and entities obtain the required identification or registration documents from the relevant authorities and update their unique identification number information with the applicable Licensed Banks and Finance Companies,” the notice said.
+
+The time period granted by the central bank for licensed banks and licensed finance companies to mandatorily record the unique identification numbers of their existing depositors in terms of operating instructions issued under the Banking (Special Provisions) Act, No. 17 of 2023, will expire on December 31 this year.
+
+...
+
+[Data](articles/78e7bc93.json)
+
+[Extended Data](ext_articles/78e7bc93.ext.json)
+
+---
+
+### 1,900 MT of rice imported by private sector since Dec. 10
+
+*2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/440-mt-of-rice-imported-by-private-sector-since-dec-9) · `en`
+
+Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
+
+Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
+
+Accordingly, the association’s media spokesperson, Nihal Seneviratne, told reports today that importers can supply imported Nadu Rice for around Rs. 220 per kilogram.
+
+Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
+
+[Data](articles/cbfd49ea.json)
+
+[Extended Data](ext_articles/cbfd49ea.ext.json)
+
+---
+
+### 1,900 MT of rice imported by private sector since Dec. 10
+
+*2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/1900-mt-of-rice-imported-by-private-sector-since-dec-10) · `en`
+
+Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
+
+Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
+
+Accordingly, the association’s media spokesperson, Nihal Seneviratne, told reports today that importers can supply imported Nadu Rice for around Rs. 220 per kilogram.
+
+Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
+
+[Data](articles/fcd8d2af.json)
+
+[Extended Data](ext_articles/fcd8d2af.ext.json)
+
+---
+
+### A prisoner's prisoner falls down and death
+
+*2024-12-12 16:48:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறைக்-கைதி-ஒருவர்-மயங்கி-விழுந்து-மரணம்/71-348641) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Prisoner dies in Jaffna court. 40-year-old Ratinasingham Chandrakumar fell. Cause unknown until autopsy. Involved in various crimes. Incident occurred on Thursday morning.
+
+🟩
+
+The incident took place on Thursday morning (12) that the death of a prisoner who was brought to the Jaffna court for a case from the Jaffna Prison.
+
+The deceased was 40 -year -old Ratinasingham Chandrakumar from Navatkuli Iyenar Kovil.
+
+According to police and prison sources, the prisoner is involved in cases involved in various crimes.
+
+Hospital sources say the cause of the death will be revealed after the autopsy.
+
+◼️
+
+[Data](articles/da983e4a.json)
+
+[Extended Data](ext_articles/da983e4a.ext.json)
+
+---
+
+### The Tamil National Party is waiting for the final response to Mawa's resignation
+
+*2024-12-12 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201082) · `ta`
+
+Tamil National Party awaits Maui Senathirajah's response on resignation. Party officials claim no official word yet due to election campaign. General Secretary sent letter Nov 14, but no reply received. Next steps to be decided at Central Executive Committee meeting in Vavuniya.
+
+🟩
+
+The party's internal sources say that the resignation of Maui Senathirajah has been waiting for a final response from him on the decision to resign as the leader of the Sri Lankan Tamil state party.
+
+Maui Senathirajah in writing on October 7 last year to resign from the post of leader of the Sri Lankan Tamil state party. District Parliamentarian Sivagnanam had also sent Sridharan.
+
+However, the party's administration has announced that the letter of Mau is not officially unavailable as the parliamentary election campaign has intensified.
+
+However, the general secretary Dr. Sathiyalingam has sent a letter to Maui Senathiraja on November 14 last after the election.
+
+In the letter, Maui Senathirajah has received a letter of his departure from the headquarters and that he will continue to announce that you will continue to announce that you are still in the fourteen days.
+
+...
+
+[Data](articles/204b65e1.json)
+
+[Extended Data](ext_articles/204b65e1.ext.json)
+
+---
+
+### Prison for father selling a mentally ill girl
+
+*2024-12-12 16:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனநலம்-பாதித்த-சிறுமியை-விற்ற-தந்தைக்கு-சிறை/175-348640) · `ta`
+
+Father sentenced 30 years for selling mentally ill daughter. Judge emphasizes community respect and no forgiveness for abuse. Compensation and fine imposed.
+
+🟩
+
+Colombo High Court Nawaratne Marasinghe, who was accused of forcibly detained and prostitution, has been sentenced to 30 years' rigorous imprisonment and sentenced to 30 years.
+
+The judge stressed that the people of the community should be respected and respected, as well as honoring his mother, sister and wife, and that the judge did not forgive those who are involved in such misconduct when they punish the accused.
+
+The judge sentenced the victim to four and a half lakh rupees for a compensation of the victim for a 30 -year prison for three charges on a 10 -year basis.. In addition, 45 thousand rupees was fined.
+
+◼️
+
+[Data](articles/252648a5.json)
+
+[Extended Data](ext_articles/252648a5.ext.json)
 
 ---

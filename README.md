@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 09:07:00**
+As of **2024-12-13 09:21:59**
 
 ## Newspaper Stats
 
-*Scraped **59,918** Articles*
+*Scraped **59,926** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 449
-colombotelegraphcom | 606
+colombotelegraphcom | 607
 bbccomsinhala | 626
-islandlk | 3,618
+islandlk | 3,619
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,691
 adaderanalk | 7,292
-tamilmirrorlk | 8,561
+tamilmirrorlk | 8,563
 virakesarilk | 9,828
-adaderanasinhalalk | 10,354
+adaderanasinhalalk | 10,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,876 (99.9%) of 59,918 articles have been extended.
+59,876 (99.9%) of 59,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### දුම්රිය සේවය දියුණු කිරීමට විශේෂ අවධානයක්
+
+*2024-12-13 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204327) · `si`
+
+දුම්රියෙන් භාණ්ඩ ප්‍රවාහනය වැඩිදියුණු කිරීම සඳහා නව ව්‍යාපෘති කිහිපයක් ආරම්භ කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+
+දුම්රිය මූලස්ථානයේදී දුම්රිය දෙපාර්තමේන්තුවේ නිලධාරීන් සහ වෘත්තීය සමිති නියෝජිතයින් සමග පැවති හමුවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියාසිටියේ දෙපාර්තමේන්තුවේ පවතින සේවක හිඟයට කඩිනම් විසදුම් ලබාදෙන බවය.
+
+මේ අතර දුම්රිය ප්‍රමාදය සහ දුම්රිය දෝෂ වළක්වා ගැනීමට අවධානය යොමුවී ඇති බවත්, දුම්රිය සේවය දියුණු කරගැනීම වෙනුවෙන් මේ වනවිට අයවැය යෝජනා ද ඉදිරිපත් කර ඇති බවත් අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
+
+මරදාන දුම්රිය ස්ථානයේ නිරීක්ෂණ චාරිකාවකට එක්වීමෙන් අනතුරුව ඔහු ඒ බව පැවසීය.
+
+අමාත්‍ය බිමල් රත්නායක මහතා ඊයේ කොළඹ වරායේ විශේෂ නිරීක්ෂණ චාරිකාවක ද නිරත වුණි.
+
+අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියාසිටියේ රජයේ ප්‍රධානම ඉලක්කය වරායේ නැගෙනහිර පර්යන්තය ලබන වසරේ ජුනි මස 30 වනදා වන විට සකස්කර නිමාකිරීම බවය.
+
+◼️
+
+[Data](articles/4a536024.json)
+
+---
+
+### எரிபொருள் தட்டுப்பாடு?
+
+*2024-12-13 09:03:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-தட்டுப்பாடு/175-348677) · `ta`
+
+எக்காரணத்தைக் கொண்டும் எந்தவொரு எரிபொருள் நிரப்பு நிலையத்திலும் எரிபொருள் தட்டுப்பாடு  இடம்பெறாது என இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தின் தலைவர் ஜனக ராஜகருணா தெரிவித்தார்.
+
+நாட்டில் போதிய எரிபொருள் காணப்படுவதாகவும், நாட்டில் தொடர்ச்சியான எரிபொருள் விநியோகத்திற்காக அரசாங்கத்தின் நிறுவனமாக அந்தப் பொறுப்பை இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் ஏற்றுக்கொள்வதாகவும் தலைவர் ஜனக ராஜகருணா சுட்டிக்காட்டினார்.
+
+நாட்டிற்கு எவ்வித சிக்கலும் இன்றி வலுசக்தியின் அவசியத்தை பேணுவதற்கு முடியும் என்றும், தற்போது எரிபொருள் குறைவடைந்ததும், உடனடியாக யுனைடெட் பெற்றோலியத்தின் 64 எரிபொருள் நிரப்பு நிலையங்களுக்கும் பெற்றோலியக் கூட்டுத்தாபனத்தினால் எரிபொருளை விநியோகிப்பதற்கு அமைச்சின் செயலாளர், யுனைட்டட் பெற்றோலியம் மற்றும் பெற்றோலியக் கூட்டுத்தாபனம் ஆகியன ஒன்றிணைந்து இது தொடர்பாகக் கலந்துரையாடி தீர்மானத்திற்கு வந்துள்ளதாகவும் அவர் மேலும் தெளிவுபடுத்தினார். R
+
+◼️
+
+[Data](articles/63f0c4be.json)
+
+---
+
+### வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள முக்கிய அறிவித்தல்
+
+*2024-12-13 08:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-விடுத்துள்ள-முக்கிய-அறிவித்தல்/175-348675) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடா கடற்பரப்புகளுக்கு மேலாக விருத்தியடைந்த குறைந்த அழுத்தப் பிரதேசம் வலுவிழந்து வருவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன் காரணமாக வடக்கு, வடமத்திய மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடக்கு மாகாணத்தில் சில இடங்களில் 50 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+ஊவா மாகாணத்தில் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ, தென் மற்றும் ஊவா மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/3052a110.json)
+
+---
 
 ### Public urges to cooperate with ongoing population and housing census
 
@@ -49,6 +109,24 @@ Additionally, the District Secretary for Colombo requested that the public  pro
 [Data](articles/54645c81.json)
 
 [Extended Data](ext_articles/54645c81.ext.json)
+
+---
+
+### පොල් හිඟයට හේතුව අධික උණුසුම - රුහුණු සරසවියෙන් අනාවරණයක්
+
+*2024-12-13 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204326) · `si`
+
+මේ වනවිට රටතුළ හටගෙන ඇති පොල් හිඟයට ප්‍රධාන හේතුව වසරේ මුල් මාස කිහිපය තුළ පැවති අධික උණුසුම් සහිත කාලගුණ තත්ත්වය බව රුහුණු විශ්ව විද්‍යාලයේ භෝග විද්‍යාව පිළිබඳ ජ්‍යේෂ්ඨ මහාචාර්ය අරුණ කුමාර මහතා පවසයි.
+
+එමෙන්ම මෙරට වාර්ෂිකව වගාකරන පොල් පැළ ප්‍රමාණය ලක්ෂ 70කින් පමණ අඩුවීමද මීට හේතුවී ඇති බව ඔහු පෙන්වා දෙයි.
+
+"කෙටි කාලයක් ඇතුළත පොල් හිඟ වෙන්න නම් රිළා ගහනය ක්ෂණිකව වැඩි වුණාද කියලා සලකා බලන්න වෙනවා. පැහැදිලි දේ තමයි එහෙම ක්ෂණික වැඩිවීමක් වුණේ නැහැ. නමුත් කාලයක් තිස්සේ මේ සතුන්ගේ ගහනය වැඩි වෙනවා. මාර්තු සිට ජුනි දක්වා රට තුළ උෂ්ණත්වයේ අධික ඉහළ යෑම සහ පොල් ගෙඩි හටගැනීම විශාල වශයෙන් අඩුවීම සිදුවෙලා තිබෙනවා. පොල් ගහකට සුදුසුම උෂ්ණත්වය වන්නේ centigrade 27,28 වගේ උෂ්ණත්වයක්. නමුත් මේක centigrade 33ට වඩා ඉහළට යනකොට පොල්ගස්වල පරාගණය අඩුවෙලා ඵල හටගැනීම අඩු වෙනවා."
+
+අද දෙරණ කළ විමසීමකදී ජ්‍යේෂ්ඨ මහාචාර්ය අරුණ කුමාර මහතා පැවසුවේ, ලෝකයේ වැඩිම පොල් පරිභෝජනයක් සහිත රට ශ්‍රී ලංකාව වන අතර පුද්ගලයෙකු වසරකට පොල්ගෙඩි 114ක් පරිභෝජනය කරන බවය.
+
+...
+
+[Data](articles/51547089.json)
 
 ---
 
@@ -74,6 +152,22 @@ TV visuals showed fire and smoke billowing from the hospital building, with fire
 
 ---
 
+### රටම ආවරණය කෙරෙන ජන හා නිවාස සංගණනයක්
+
+*2024-12-13 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204325) · `si`
+
+දිවයිනේ සියලුම ප්‍රදේශ ආවරණය වනපරිදි ජන හා නිවාස සංගණනය ආරම්භ කර ඇති බැවින් නිවසට පැමිනණෙන අදාළ නිලධාරීන්ට අවශ්‍ය තොරතුරු ලබාදෙන ලෙස කොළඹ දිස්ත්‍රික් ලේකම් ප්‍රසන්න ගිණිගේ මහතා ඉල්ලීමක් කරයි.
+
+ඒ අනුව ප්‍රාදේශීය ලේකම්වරයාගේ අත්සන සහ නිල හැඳුනුම්පතක් සහිතව පැමිණෙන නිලධාරියාට සහාය වන ලෙසද ඔහු ජනතාවගෙන් වැඩි දුරටත් ඉල්ලා සිටියේය.
+
+"ඔබ නිවසේ නොමැති නම් යම් දුකරතන අංකයක් ඒ නිලධාරීන්ට ලැබනේනට සලස්වා ඔබ නිවසේ සිටින අවස්ථාවක් ඔවුන් වෙත දැනුම්දෙන්න. විස්තර ලබාගැනීමේදී ඔබ විසින් ලබාදෙන අදාළ  පෞද්ගලික තොරතුරු වෙනත් බාහිර පාර්ශ්වයක් අතට පත් නොවීමට අපි වගබලා ගන්නා බවත් සඳහන් කරන්න අවශ්‍යයි."
+
+◼️
+
+[Data](articles/c37239e5.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the island
 
 *2024-12-13 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104198/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -95,6 +189,30 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 [Data](articles/195cbbfa.json)
 
 [Extended Data](ext_articles/195cbbfa.ext.json)
+
+---
+
+### අද පස්වරුවේ තද වැස්සක්
+
+*2024-12-13 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204323) · `si`
+
+අද (13) දිනයේ උතුරු, උතුරු මැද සහ වයඹ පළාත්වල විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සිය නවතම නිවේදනය මගින් ඒ බව සඳහන් කරයි.
+
+සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+ඌව පළාතේ සහ හම්බන්තොට දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලට මි.මී. 75ක පමණ තරමක් තද වැසි ඇතිවෙයි.
+
+බස්නාහිර පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වෙරළබඩ ප්‍රදේශවල ඇතැම් ස්ථානවලට උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම, සබරගමුව, දකුණ සහ ඌව පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පවතී.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/fad093f1.json)
 
 ---
 
@@ -524,6 +642,18 @@ What makes STEM education at St. Benedict’s so revolutionary is its hands-on a
 
 ---
 
+### Who guards the guards?
+
+*2024-12-13 02:58:00* · [`islandlk`](http://island.lk/who-guards-the-guards-2/) · `en`
+
+The Opposition continues to crank up pressure on Speaker Asoka Ranwala to resign over what it calls his false claim to have a doctorate. The JVP-led NPP government may have expected its opponents’ campaign against the Speaker to fizzle out with the passage of time. In this country, controversies crop up at such a rate that one finds it well-nigh impossible to keep track of them, and that may be the reason why the government has chosen to remain silent on the issue of the Speaker’s educational qualifications. But the Opposition remains maniacally focused on the Speaker’s claim in question, and SJB MP Ajith Perera has gone on record as saying that unless Ranwala resigns forthwith, the Opposition will be compelled to move a motion of no confidence against him. The government has sought to make light of the situation, but in vain.
+
+...
+
+[Data](articles/7a7a06c5.json)
+
+---
+
 ### Celebrating Top10 Champions of Diversity 2024
 
 *2024-12-13 02:57:58* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-Top10-Champions-of-Diversity-2024/34-770460) · `en`
@@ -551,6 +681,18 @@ Themed ‘Improving the Economic Wellbeing of Vulnerable and Marginalised Women,
 [Data](articles/6c4df1ae.json)
 
 [Extended Data](ext_articles/6c4df1ae.ext.json)
+
+---
+
+### Effective Communication Is Vital For Sri Lanka’s New NPP Government
+
+*2024-12-13 02:42:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/effective-communication-is-vital-for-sri-lankas-new-npp-government/) · `en`
+
+Effective communication plays a vital role in governance. If communication is clear and effective, it contributes to promoting transparency and building trust between those holding power and the people who are being served. It helps citizens to better understand the policies and decisions of governments, thus fostering a sense of accountability. For any government to function smoothly and efficiently and make decisions so that everyone benefits, the trust of its citizens is essential. In that sense, effective communication is not simply a good idea but an essential building block for efficacious good governance.
+
+...
+
+[Data](articles/4b7b4ff5.json)
 
 ---
 
@@ -2113,209 +2255,5 @@ The shooting of the film is completely completed and the post -shooting technica
 [Data](articles/89dec94b.json)
 
 [Extended Data](ext_articles/89dec94b.ext.json)
-
----
-
-### Dhanush directed 'Moothu'
-
-*2024-12-12 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201093) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dhanush directs 'Moothu'. 'Moon' releases Feb 7th. 'Nilakku...' stars Dhanush, Pavish, Anika Surendran. Music by V. Prakash Kumar. Co-produced by Wunderbar Films and RK Productions. 'Golden Sparrow' song released online.
-
-🟩
-
-The release date of the film 'Moon' is the release date of the film 'Moon'.
-
-Actor and director Dhanush starred in the upcoming film 'Nilakku Namku Namadi Namadi', Pavish, Anika Surendran, Priya Prakash Warrior, Mathew Varghese, Satish, Anbu Dasan and many others.. Priyanka Arul Mohan is dancing to one song with them. Actor and director Dhanush has played a special appearance for one song.
-
-Lion Brito's cinematography. V.. Prakash Kumar has composed the music. The film is co -produced by Wunderbar Films and RK Productions.
-
-The song 'Golden Sparrow' featured in the film has been released on the Internet and is set to achieve a hundred million viewers.. In this case, the release date of the film has been officially announced. The film will be released on the seventh of February next year to celebrate Valentine's Day.
-
-Meanwhile, actor Pavish is the son of actor and director Dhanush's sister.
-
-◼️
-
-[Data](articles/d381ef4b.json)
-
-[Extended Data](ext_articles/d381ef4b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-12-12 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/201083) · `ta`
-
-Here's a summary of the currency exchange rate in 200 characters:
-
-
-
-US Dollar (USD) to Indian Rupee (INR):
-
-Purchase: 285.9466 ₹
-
-Sale: 294.5168 ₹
-
-Rate as of Thursday (12), Central Bank announcement.
-
-🟩
-
-The US dollar purchasing price was 285.9466 rupees and the sales price were 294.5168 rupees based on the currency exchange rate released by the Central Bank on Thursday (12).
-
-◼️
-
-[Data](articles/099d2f7e.json)
-
-[Extended Data](ext_articles/099d2f7e.ext.json)
-
----
-
-### Elephants, which began in 200,000 coconut, has been destroyed
-
-*2024-12-12 15:22:09* · [`adalk`](https://www.ada.lk/picture_story/ලක්ෂ-20කින්-ආරම්භ-කළ-පොල්-වගාවක්-වන-අලි-විනාශ-කරලා/10-413605) · `si`
-
-Wild elephant herd destroys coconut farm in Sri Lanka. Owners request government protection. Elephants threaten human lives and crops.
-
-🟩
-
-A wild elephant herd, which has entered coconut land in Tantirimale and Small Malminaduwa, has been completely destroyed.
-
-The wild elephant herd, which was imposed from Wilpattu forest reserve, is a coconut land belonging to Mrs. Yamuna Royal to Mrs. Yamuna Romani, Tantirimale.
-
-Ms. Rohini said that the coconut cultivation was initiated as a bank loan.
-
-She requested the government to overthrow the environment and the peasants of the area, including the surrounding the reserve and build a strong electric fence around the reserve.
-
-She said the coconut cultivation was established in the face of high economic difficulties, as the coconut is in high prices and destroyed the coconut of coconut.
-
-Along the village, the elephants are not only affected by all living in Tantirimale, but also human lives, including young children and other human lives.
-
-◼️
-
-[Data](articles/2e321477.json)
-
-[Extended Data](ext_articles/2e321477.ext.json)
-
----
-
-### Report from stock market
-
-*2024-12-12 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204307) · `si`
-
-Sri Lanka stock market milestone: All Stock Price Index reached new historic high today, increasing by 150.72 units to 14,035.81. S SET PL20 index rose 42.80 units to 4,186.09. Significant transaction turnover of Rs. 7.35 billion recorded.
-
-🟩
-
-All Stock Price Index made the first time in history today (12) in the history of the history of the capital market in Sri Lanka.
-
-All the stock price index increased by 150.72 units in today's day, according to the date of transactions was 14,035.81 units.
-
-Meanwhile, the S SET PL20 index rose 42.80 units, 4,186.09.
-
-Today is Rs.. 7.35 billion is a significant transaction turnover.
-
-◼️
-
-[Data](articles/0c202c34.json)
-
-[Extended Data](ext_articles/0c202c34.ext.json)
-
----
-
-### ASPI crosses 14,000 points for first time ever
-
-*2024-12-12 15:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104188/aspi-crosses-14000-points-for-first-time-ever) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange recorded a new all-time high today (12), surpassing the 14,000 points mark for the first time in history.
-
-Accordingly, the index has increased by 150.72 points (1.09%) to close at 14,035.81, a new all-time high.
-
-Meanwhile, the S&P SL20 increased by 43.17 (1.04%) to close at 4,186.46 points.
-
-Today’s total turnover was recorded as over Rs. 7.3 billion.
-
-On November 13, the ASPI had surpassed the 13,000 points mark, for the first time since January 31, 2022.
-
-◼️
-
-[Data](articles/60992178.json)
-
-[Extended Data](ext_articles/60992178.ext.json)
-
----
-
-### Details of imported rice control
-
-*2024-12-12 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204306) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Essential Food Materials Association says importers can buy rice at nearly Rs. 220 per kilo if tariffs are reduced.
-
-🟩
-
-Essential Food Materials Association says that if the tariff is reduced to import rice by Rs.
-
-The association spokesman Nihal Seneviratne said that the importers can be given a kilo of imported rice to nearly Rs. 220.
-
-Essential Feeders Association The Association of Essentials of the Essentials
-
-◼️
-
-[Data](articles/ee9c15db.json)
-
-[Extended Data](ext_articles/ee9c15db.ext.json)
-
----
-
-### The telephone sent four names
-
-*2024-12-12 15:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நால்வரின்-பெயர்களை-அனுப்பியது-டெலிபோன்/175-348636) · `ta`
-
-United People's Power sends 4 names: Mano Ganesan, Sujeewa Senasinghe, Nisam Kariyappar, Muthu Mohamed to Election Commission for appointment as national list MPs.
-
-🟩
-
-The details of the four members to be appointed through the National List of the United People's Power have been sent to the Elections Commission.
-
-The names of Mano Ganesan, Sujeewa Senasinghe, Nisam Kariyappar and Muthu Mohamed have been sent to the Election Commission.
-
-In this year's general election, the United People's Power received five national list MPs, and the general secretary of the United People's Power Ranjith Mathumabandara was appointed.
-
-◼️
-
-[Data](articles/80c6393c.json)
-
-[Extended Data](ext_articles/80c6393c.ext.json)
-
----
-
-### COMMITTEE NAME OF THE SEME OF THE NEW List
-
-*2024-12-12 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204305) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan power committee names new list: Mano Ganeshan, Mother Gamenta, Mother Gamanappar, Sujeewa Senasinghe, Mohamed Ismail.
-
-🟩
-
-The 04-owned list of national lists of the Sri Lankan power has been named.
-
-It includes Mano Ganeshan, Mother Gamenta, Mother Gamanappar, Sujeewa Senasinghe, Mohamed Ismail.
-
-◼️
-
-[Data](articles/e67bcf77.json)
-
-[Extended Data](ext_articles/e67bcf77.ext.json)
 
 ---

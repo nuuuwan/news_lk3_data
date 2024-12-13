@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 02:42:35**
+As of **2024-12-14 03:01:08**
 
 ## Newspaper Stats
 
-*Scraped **60,081** Articles*
+*Scraped **60,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
-tamilmirrorlk | 8,588
+tamilmirrorlk | 8,589
 virakesarilk | 9,867
 adaderanasinhalalk | 10,383
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,015 (99.9%) of 60,081 articles have been extended.
+60,018 (99.9%) of 60,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### துறைமுக நகர பொருளாதார ஆணைக்குழு உறுப்பினர்கள் நியமனம்
+
+*2024-12-14 02:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைமுக-நகர-பொருளாதார-ஆணைக்குழு-உறுப்பினர்கள்-நியமனம்/175-348712) · `ta`
+
+அதற்கமைவான நியமனக் கடிதங்கள் நேற்று (13) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் வழங்கி வைக்கப்பட்டன.
+
+அதன்படி கொழும்பு துறைமுக நகர பொருளாதார ஆணைக்குழுவின் தலைவராக ஜனாதிபதி சட்டத்தரணி ஹர்ஷ அமரசேகர நியமிக்கப்பட்டுள்ளார்.
+
+டெமியன் அமல் கப்ரால், மொஹான் ரே அபேவர்தன, சஞ்சய குலதுங்க மற்றும் கலாநிதி ஹர்ஷ சுபசிங்க ஆகியோர் குழுவின் ஏனைய உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/b0ec990d.json)
+
+---
 
 ### Yall. Aruchuna, who was logical with the authorities at the coordination meeting
 
@@ -254,6 +270,8 @@ Hikvision General Country Manager - Sri Lanka Yasantha Hennayake, Senior Distrib
 
 [Data](articles/16fd31a9.json)
 
+[Extended Data](ext_articles/16fd31a9.ext.json)
+
 ---
 
 ### Agromet Asia triumphs at NCE Annual Export Awards 2024
@@ -268,27 +286,39 @@ Agromet Asia won the Gold Award in the Recycled Products Sector (Extra-Large Com
 
 [Data](articles/dc75bf30.json)
 
+[Extended Data](ext_articles/dc75bf30.ext.json)
+
 ---
 
-### உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டிக்கு குறிவைத்து 3ஆவது டெஸ்டை எதிகொள்ளும் இந்தியா - அவுஸ்திரேலியா
+### India - Australia
 
 *2024-12-13 23:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201224) · `ta`
 
-இந்தியாவுக்கும் அவுஸ்திரேலியாவுக்கும் இடையிலான 5 போடடிகள் கொண்ட போர்டர் - காவஸ்கர் டெஸ்ட் தொடரின் 3ஆவது போட்டி பிறிஸ்பேன் கபா விளையாட்டரங்கில் சனிக்கிழமை (14) ஆரம்பமாகவுள்ளது.
+India vs Australia 3rd Test preview: Both teams aim to win to qualify for World Test Championship final. Key players include Virat Kohli, Steve Smith, Jasprit Bumrah, and Mohammed Siraj. Australia leads the head-to-head record but India won the last test in 2021.
 
-பேர்த் விளையாட்டரங்கில் நடைபெற்ற முதலாவது போட்டியில் இந்தியா 295 ஓட்டங்களாலும் அடிலெய்ட் விளையாட்டரங்கில் நடைபெற்ற இரண்டாவது போட்டியில் அவுஸ்திரேலியா 10 விக்கெட்களாலும் வெற்றி பெற்றதை அடுத்து தொடர் 1 - 1 என சம நிலையில் இருக்கிறது.
+🟩
 
-இரண்டு அணிகளும் 3ஆவது டெஸ்ட் போட்டியில் ஒன்றையொன்று வீழ்த்த வேண்டும் என்ற குறிக்கோளுடன் விளையாடும் என்பதில் சந்தேகம் இல்லை.
+The 3rd match of the Porter -Kavaskar Test series between India and Australia will commence on Saturday (14) at the Pirisbane Kapa Stadium.
 
-ஏனெனில், போர்டர் - காவஸ்கர் தொடருக்கும் அப்பால், உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டியில் விளையாட தகுதிபெற வேண்டும் என்பதை குறிவைத்து இரண்டு அணிகளும் விளையாடும் என்பது உறுதி.
+In the first match of the first match at Perth Stadium, Australia won 295 runs and Australia 10 wickets in the second match at the Adelaide Stadium.
 
-இந்தப் போட்டியில் தோல்வி அடைந்தால் உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டியை நோக்கிய பயணம் பாதிக்கும் என்பதை இரண்டு அணிகளும் நன்கு அறிந்த நிலையிலேயே இந்த டெஸ்ட் போட்டியை எதிர்கொள்கின்றன.
+There is no doubt that both teams will play with the goal of beating one another in the 3rd Test.
 
-இதன் காரணமாக இந்த டெஸ்ட் போட்டி மற்றொரு பரபரப்பான போட்டியாக அமையும் என்பது நிச்சயம்.
+Because beyond the Porter -Kavaskar series, the two teams will be playing aiming to qualify to play in the World Test Championship final.
+
+The two teams face the Test match as they are well aware that the journey towards the World Test Championships will affect the match.
+
+Because of this, the Test match will be another exciting match.
+
+However, in the past, the two batsmen shone in both teams and have seen the Senior players faced a major stumbling block.
+
+The Australian team has only shone in the batting and the Indian team has shown the skills in the Indian team.
 
 ...
 
 [Data](articles/05d7f317.json)
+
+[Extended Data](ext_articles/05d7f317.ext.json)
 
 ---
 
@@ -2433,33 +2463,5 @@ But Sri Lankan ports minister Bimal Ratnayake said the allegations against Adani
 [Data](articles/a9004704.json)
 
 [Extended Data](ext_articles/a9004704.ext.json)
-
----
-
-### Killing one by the ax
-
-*2024-12-13 12:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவர்-கோடரியால்-வெட்டிக்-கொலை/175-348696) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Arrests made in Batticaloa: Husband & wife detained over fatal ax attack on 48-year-old father of two. Incident occurred during argument between wives. Police investigating."
-
-🟩
-
-Valaichenai police have arrested two husband and wife in the Batticaloa border village on Thursday night (12).
-
-The deceased is Velu Sivasupramaniam, father of two children aged 48, from Vadunai.
-
-Initial investigations revealed that the sister's husband was attacked by an ax and a sharp weapon after the incident in the area after a rhetoric between the wife of the wife of the victim's wife, who died in the area on Thursday (12) at 11.00 pm.
-
-The Forensic Division is going to the Forensic Division and is conducting investigations, police said.
-
-◼️
-
-[Data](articles/ad90465d.json)
-
-[Extended Data](ext_articles/ad90465d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 23:14:27**
+As of **2024-12-13 23:43:21**
 
 ## Newspaper Stats
 
-*Scraped **60,054** Articles*
+*Scraped **60,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ dbsjeyarajcom | 450
 colombotelegraphcom | 607
 bbccomsinhala | 629
 islandlk | 3,621
-economynextcom | 3,654
+economynextcom | 3,664
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,702
-adaderanalk | 7,312
+adaderanalk | 7,314
 tamilmirrorlk | 8,588
 virakesarilk | 9,864
-adaderanasinhalalk | 10,382
+adaderanasinhalalk | 10,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,997 (99.9%) of 60,054 articles have been extended.
+60,001 (99.9%) of 60,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Sri Lanka gets only 73-pct acceptances on Hamilton Reserve linked ISB
+
+*2024-12-13 22:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-only-73-pct-acceptances-on-hamilton-reserve-linked-isb-194246/) · `en`
+
+ECONOMYNEXT – Sri Lanka has received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange.
+
+An offer to exchange 1.25 billion April 2023 bond has had acceptances of 98 percent.
+
+An offer to exchange 1.0 billion March 2024 bonds have acceptances of 97 percent.
+
+An offer to exchange 500 million in June 2024 bonds have acceptances of 99 percent.
+
+However, the 2022 July bonds in which Hamilton Reserve claims a 25 percent stake, has had only 73 percent acceptances.
+
+Sri Lanka says 98-pct of bondholders agreed to exchange defaulted ISBs
+
+Hamilton Reserve has filed suit in New York insisting on full payment. The proceedings have been stayed until the exchange is carried out.
+
+Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if the the economy performs better than expected. (Colombo/Dec13/2024)
+
+◼️
+
+[Data](articles/578db354.json)
+
+---
+
+### හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව ගැන පොලීසියෙන් නිවේදනයක්
+
+*2024-12-13 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204353) · `si`
+
+හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව ඉවත් කිරීම සම්බන්ධයෙන් පළවන මාධ්‍ය වාර්තා සම්බන්ධව පොලිස් මූලස්ථානය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන්ව ඇත්තේ රජය විසින් ප්‍රභූ ආරක්ෂාව සඳහා නිලධාරීන් අනුයුක්ත කිරීම සම්බන්ධයෙන් ක්‍රියා කිරීමට පත් කර ඇති කමිටුව මගින් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂක තක්සේරු වාර්තා සහ ඒ සඳහා ශ්‍රී ලංකා පොලීසිය දරන වැය බර සමාලෝචනයට ලක් කර ඇති බවය.
+
+හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂක කටයුතු ආවරණය කිරීම සඳහා අනුයුක්ත කර සිටින පොලිස් නිලධාරීන්ගේ වැය බර වාර්ශිකව රුපියල් මිලියන 1100ක් වන බව නිරීක්ෂණය වී ඇති බවත් පොලීසිය සිය නිවේදනයේ දක්වා තිබේ.
+
+එහිදී ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාව වෙනුවෙන් වාර්ෂිකව මිලියන 326කට වැඩි වැය බරක් දරන බවත් දක්වා තිබේ.
+
+...
+
+[Data](articles/d6f0aada.json)
+
+---
+
+### Sri Lanka successfully concluded international bond restructuring – Treasury Secretary
+
+*2024-12-13 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104224/sri-lanka-successfully-concluded-international-bond-restructuring-treasury-secretary) · `en`
+
+Sri Lanka has successfully concluded its international bond restructuring, bringing closure to one of the most complex and challenging sovereign debt restructuring exercises in recent history, says Treasury Secretary Mahinda Siriwardana.
+
+In a post on ‘X’ (formerly Twitter), he expressed gratitude to all stakeholders who supported them in this journey, including Sri Lanka’s government and political leadership since he took office in April 2022 to date, Sri Lanka’s international and domestic creditors, who he says continuously worked with them in good faith.
+
+He also thanked the Sri Lankan government’s advisors Lazard and Clifford Chance, along with Citi, Sodali & Co, and all those who worked with them in making the debt exchange a success, as well as officials at the Ministry of Finance and the Central Bank of Sri Lanka (CBSL), who he said worked tirelessly over the last 32 months towards bringing Sri Lanka out of this deep crisis.
+
+...
+
+[Data](articles/fca3fae9.json)
+
+---
 
 ### Sri Lanka has successfully completed its international bonds - Ministry of Finance
 
@@ -53,6 +113,70 @@ The relevant measures will be completed on the 16th and the agreements will be c
 [Data](articles/66501bd6.json)
 
 [Extended Data](ext_articles/66501bd6.ext.json)
+
+---
+
+### Sri Lanka sees strong bondholder support in debt exchange
+
+*2024-12-13 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104223/sri-lanka-sees-strong-bondholder-support-in-debt-exchange) · `en`
+
+Sri Lanka gained extensive support from private creditors to restructure its international bonds, a key step for the country to exit an extended default.
+
+The Government of Sri Lanka has announced indicative results of its recent consent solicitation and invitation to exchange concerning the country’s existing bonds.
+
+The initiative, which launched on November 25, 2024, has seen significant bondholder participation ahead of the December 12, 2024, expiration deadline.
+
+According to the indicative results, instructions from holders representing 96% of the principal amount outstanding of the existing bonds have been received. This includes a series of bonds with varying maturities, ranging from those due in April 2023 to those maturing in March 2030.
+
+...
+
+[Data](articles/cabf537d.json)
+
+---
+
+### ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සාර්ථකවූ බව මුදල් අමාත්‍යශය කියයි
+
+*2024-12-13 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204352) · `si`
+
+ශ්‍රී ලංකාව ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සාර්ථකව අවසන් කළ බව මුදල් අමාත්‍යංශ ලේකම් මහින්ද සිරිවර්ධන මහතා පවසයි.
+
+ඔහු සිය X ගිණුමේ සටහනක් තබමින් සඳහන් කර ඇත්තේ මෑත ඉතිහාසයේ වඩාත් සංකීර්ණ සහ අභියෝගාත්මක ස්වෛරී ණය ප්‍රතිව්‍යුහගත කිරීම සාර්ථකව අවසන් කිරීමට හැකි වූ බවය.
+
+මුදල් අමාත්‍යාංශයද මේ බව නිල වශයෙන් නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+
+ඒ අනුව ස්වෛරී බැඳුම්කර හිමියන්ගෙන් 98%ක් බැඳුම්කර හුමවාරුව සඳහා කැමැත්ත පළ කර තිබේ.
+
+දැනට පවතින බැඳුම්කර සඳහා නව බැඳුම්කර හුවමාරු කිරීමේ මාර්ගයෙන් ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීම ආරම්භ කෙරෙන බව මුදල් අමාත්‍යංශය මින් පෙර නිවේදන කළේය.
+
+ඒ වෙනුවෙන් වූ නිල ආරාධනය ශ්‍රී ලංකා රජය විසින් පසුගිය නොවැම්බර් මස 26 දින නිකුත් කළේය.
+
+ඒ වන විට හිඟව ඇති බැඳුම්කරවල වටිනාකම ඩොලර් බිලියන 12.55ක් වූ අතර එම බැඳුම්කර ඒ අනුව ප්‍රතිව්‍යුහගත කිරීමට නියමිතව තිබුණි.
+
+ඒ සඳහා වූ කැබිනට් අනුමැතියද ලැබුණු බව පසුගිය 26 වැනිදා පැවැති කැබිනට් තීරණ දැම්දීමේ මාධ්‍ය හමුවෙය්දී කැබිනට් ප්‍රකාශක නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+...
+
+[Data](articles/7de2d9fd.json)
+
+---
+
+### Sri Lanka says 98-pct of bondholders agreed to exchange defaulted ISBs
+
+*2024-12-13 21:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-98-pct-of-bondholders-agreed-to-exchange-defaulted-isbs-194218/) · `en`
+
+ECONOMYNEXT – Sri Lanka has had “extremely high” level of participation in an offer to swap new securities for defaulted sovereign bonds which is expected to result in 98 percent of bonds being exchanged, the Finance Ministry said.
+
+“We are very pleased to see this vote of confidence from our international and local bondholders,” President Anura Kumara Dissanayake said in the statement.
+
+“The past few years have been challenging for the Sri Lankan population, but of our collective efforts are now paying off.
+
+“The implementation of this debt exchange, which is the result of two years of intense negotiations, will deliver substantial relief to Sri Lanka.”
+
+Sri Lanka offered to exchange 12.5 billion US dollars of bonds for new securities with a hair cut of 27 percent.
+
+...
+
+[Data](articles/7f57507e.json)
 
 ---
 
@@ -500,6 +624,28 @@ Plans will be presented to the villages and allocated funds. Our purpose is to r
 
 ---
 
+### Sri Lanka Parliament Speaker resigns after allegations over fake doctorate
+
+*2024-12-13 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-speaker-resigns-after-allegations-over-fake-doctorate-194209/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament Speaker Ashoka Ranwala has resigned from the post citing the concerns over the credentials of his doctorate degree, local media said.
+
+The resignation comes after the parliament website early this week removed ‘Dr’ title from the Speaker’s name following the allegations.
+
+Ranwala’s resignation letter said he had not done anything wrong.
+
+“In the last few days, an issue about my educational qualification has been raised in the society. I have not made any false statement about my educational qualification,” the letter read.
+
+“But as I do not have some of the documents required to confirm the educational qualifications at the moment, and I have to get them from the relevant institutions, it has become difficult to submit those documents promptly at the moment.”
+
+“The research institute affiliated to Waseda University in Japan, where I received my Ph.D., has the ability to submit relevant educational documents and I intend to submit them as soon as possible.”
+
+...
+
+[Data](articles/1847fc82.json)
+
+---
+
 ### Court reveals to the West New Maval's owner to the West Indies
 
 *2024-12-13 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204349) · `si`
@@ -858,6 +1004,24 @@ Power Minister Punniyasree Kumara Jayakoda is said to have no higher education q
 
 ---
 
+### Sri Lanka’s new government faces credibility test after fake doctorate allegations
+
+*2024-12-13 17:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-government-faces-credibility-test-after-fake-doctorate-allegations-194169/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s one-month old new government with more than a two-third parliamentary majority is facing credibility and integrity tests after people started questioning the educational qualifications of its top leaders.
+
+President Anura Kumara Dissanayake’s Marxist-leaning Janatha Vimukthi Peramuna (JVP)-led National People’s Power (NPP) came to power promising to replace academically and professionally under qualified legislators with highly qualified leaders.
+
+The NPP in its run up to the November 14 parliament election said it has included a significant number of professionals including doctors, engineers, teachers, and professors as their candidates.
+
+However, removal of Speaker Ashoka Ranwala’s academic qualification ‘Dr’ from the Sri Lanka Parliament website early this week sparked public anger amid allegations over the his academic credentials.
+
+...
+
+[Data](articles/085bbb47.json)
+
+---
+
 ### 46 Principal vacuum in national schools
 
 *2024-12-13 17:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-தேசிய-பாடசாலைகளில்-அதிபர்-வெற்றிடம்/175-348704) · `ta`
@@ -962,19 +1126,31 @@ However, he has informed the government that the government could not embarrass 
 
 ---
 
-### ஊடகவியலாளர் பிரகீத் எக்னெலிகொடவின் கடத்தல் குறித்து விசாரணைகளை நடத்துமாறு எல்லைகளற்ற செய்தியாளர்கள் அமைப்பு வலியுறுத்தல் !
+### Boundary journalists urged to conduct investigations into journalist Prageeth Eknaligoda's abduction!
 
 *2024-12-13 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/201169) · `ta`
 
-ஊடகவியலாளர் பிரகீத் எக்னெலிகொட வலிந்து காணாமலாக்கப்பட்டமை தொடர்பான வழக்கு விசாரணைகள் பக்கச்சார்பின்றியும், வெளிப்படைத்தன்மை வாய்ந்த விதத்திலும் முன்னெடுக்கப்படுவதை உறுதிப்படுத்துமாறு பிரான்ஸை தளமாகக்கொண்டு இயங்கிவரும் எல்லைகளற்ற செய்தியாளர்கள் அமைப்பு (ரிப்போட்டர்ஸ் வித்தௌட் போர்டர்ஸ்) ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலைமையிலான புதிய அரசாங்கத்திடம் வலியுறுத்தியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-'லங்கா ஈ-நியூஸ்' என்ற இணைய செய்தித்தளத்தில் கேலிச்சித்திர ஓவியராகவும், (கார்ட்டூனிஸ்ட்) அரசியல் பத்தி எழுத்தாளராகவும் பணியாற்றிய பிரகீத் எக்னெலிகொட கடந்த 2010 ஆம் ஆண்டு ஜனவரி 24 ஆம் திகதி ஹோமாகம நகரில் கடத்திச்செல்லப்பட்டார்.
 
-அவரது கடத்தலுடன் தொடர்புபட்டிருக்கக்கூடும் என சந்தேகிக்கப்பட்ட இராணுவ புலனாய்வு சேவை அதிகாரிகள் 9 பேர் தொடர்பான நீதிமன்ற வழக்கு விசாரணைகள் கடந்த 2019 ஆம் ஆண்டுடன் தடைப்பட்டிருந்த நிலையில், அவ்விசாரணைகள் கடந்த 6 ஆம் திகதி மீண்டும் ஆரம்பிக்கப்பட்டன.
+
+Journalists demand probe into Prageeth Eknaligoda's 2010 abduction. New govt urges transparency. Case resumes against 9 military intel officers. Borderless journalists call for accountability, witness protection. Family waits 14 years for truth.
+
+🟩
+
+The new government headed by President Anuragumara Dissanayake has urged the new government (Ripoters Vittled Porters), which is based on France, to ensure that journalist Prageeth Eknaligoda's disappearance is being carried out in a sides and transparent manner.
+
+Prageeth Eknaligoda, who worked as a cartoonist and a political paragraph at the 'Lanka E-News' website, was abducted in Homagama on 24th January 2010.
+
+The court proceedings regarding nine military intelligence officers suspected of being involved in his abduction were resumed on the 6th of this month.
+
+In this backdrop, the bordering journalists' organization, which was elected president last September, pointed out that Dissanayake, who was elected president last September, pointed out that the ongoing investigation into the murdered and abducted journalists for political purposes would be completed and promised to ensure accountability.
 
 ...
 
 [Data](articles/3609cbcb.json)
+
+[Extended Data](ext_articles/3609cbcb.ext.json)
 
 ---
 
@@ -995,6 +1171,26 @@ Meanwhile S. The And Potex also increased by 57.9 units (1.21 percent) to 4244 u
 [Data](articles/68fa42c6.json)
 
 [Extended Data](ext_articles/68fa42c6.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 290.15/30 to dollar, bonds down
+
+*2024-12-13 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-15-30-to-dollar-bonds-down-194158/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.15/30 to the US dollar on Friday from 290.20/35 to the US dollar on Thursday, dealers said, while bond yields were slightly down.
+
+A bond maturing on 15.12.2026 closed at 9.35/50 percent, down from 9.40/50 percent.
+
+A bond maturing on 15.10.2027 closed at 9.95/10.10 percent, down from 9.95/10.05 percent.
+
+A bond maturing on 15.03.2028 closed at 10.20/30 percent, down from 10.20/35 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.70/80 percent. (Colombo/Dec13/2024)
+
+◼️
+
+[Data](articles/7454af70.json)
 
 ---
 
@@ -1085,6 +1281,26 @@ The Director of Customs said that the importation of rice is permitted to import
 [Data](articles/896473c1.json)
 
 [Extended Data](ext_articles/896473c1.ext.json)
+
+---
+
+### Sri Lanka stocks close up, indices continue climb
+
+*2024-12-13 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-indices-continue-climb-194151/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 1.21 percent, or 169.53 points, at 14,205; while the more liquid S&P SL20 Index closed up 1.39 percent, or 57.99 points, at 4,244.
+
+Top positive contributors to the ASPI were Ceylinco Holdings (up at 2,688.25), Melstacorp (up at 112.25), Hatton National Bank (up at 254.75), Central Finance Company (up at 147.25), and Sampath Bank (up at 106.25)
+
+Most actively traded volumes were seen in Hemas Holdings (up at 92.00), Lanka Milk Foods (up at 38.60), John Keells Holdings (flat at 21.40), and Alumex (up at 14.20).
+
+There was foreign net inflow of 126 million rupees. (Colombo/Dec13/2024)
+
+◼️
+
+[Data](articles/9721802e.json)
 
 ---
 
@@ -1325,6 +1541,28 @@ Meanwhile, another individual had attempted to escape through the back door of t
 ...
 
 [Data](articles/a13fdcfe.json)
+
+[Extended Data](ext_articles/a13fdcfe.ext.json)
+
+---
+
+### Sri Lanka Port City Economic Commission gets new chairman, members
+
+*2024-12-13 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-economic-commission-gets-new-chairman-members-194137/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has appointed Harsha Amarasekera PC as chairman of the Port City Economic Commission.
+
+Other members include Damien Amal Cabraal, Mohan Ray Abeywardena, Sanjaya Kulatunga, and Dr Harsha Subasinghe, the president’s media division said.
+
+Sri Lanka’s China-backed Colombo Port City Economic Commission Bill was passed in 2021.
+
+The Colombo Port City Commission approves large investments such as those that invest in building as primary businesses of strategic importance which get investment incentives.
+
+The Colombo Port City is a dollarized special economic zone which will be free of central bank liquidity tools and therefore free of currency crises. (Colombo/Dec13/2024)
+
+◼️
+
+[Data](articles/07500447.json)
 
 ---
 
@@ -1629,6 +1867,32 @@ Sri Lankans have gone abroad to employment to Kuwait and that size is 73,995. Se
 [Data](articles/493a5858.json)
 
 [Extended Data](ext_articles/493a5858.ext.json)
+
+---
+
+### Sri Lanka coconut auction postponed for second week due to lack of nuts
+
+*2024-12-13 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-postponed-for-second-week-due-to-lack-of-nuts-192544/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s weekly coconut auction was not held for the second consecutive week due to a lack of coconuts, an official has said.
+
+“We did not receive enough [coconuts] to have an auction,” a Coconut Development Board official said.
+
+Minister of Trade Wasantha Samarasinghe told parliament on December 5, that there was no shortage in the market for coconuts but a shortage being artificially created by a mafia.
+
+Samarasinghe was replying to a question raised by SLPP MP D V Chanaka.
+
+According to the CDA local market statistics, wholesale prices for large nuts were 150-160 and 120-140 rupees for small nuts on December 10. A nut was retailing between 175 and 190 at supermarkets.
+
+Coconut oil local wholesale price was 760,000.00 to 780,000.00 rupees per metric ton.
+
+White coconut oil has been listed as 1,000,000 – 1,100,000 rupees per metric ton.
+
+Farmgate prices in Kurunegala were 110,000 to 120,000 per 1,000 nuts.
+
+◼️
+
+[Data](articles/e73e5272.json)
 
 ---
 
@@ -1942,23 +2206,55 @@ The arrest stemmed from a complaint by a West Indies player on his team, who ref
 
 ---
 
-### කතානායක අශෝක රන්වල ධූරයෙන් ඉල්ලා අස්වීමට තීරණය කරයි
+### Sri Lanka central bank, banks under FX global code
+
+*2024-12-13 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-banks-under-fx-global-code-194097/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s domestic foreign exchange (FX) market has adopted the FX Global Code (FXGC), the central bank said.
+
+This will see the central bank, all licensed commercial banks and the National Savings Bank adhering to a common set of guidelines “to further promote the integrity and effective functioning of the domestic FX market,” the central bank said in a statement.
+
+“The adoption of FXGC is expected to further enhance trust among market participants, fostering a more cohesive trading environment in the domestic FX market in Sri Lanka. Additionally, it will encourage best practices in risk management and compliance, which are crucial for the stability and growth of the economy.”
+
+...
+
+[Data](articles/553399a1.json)
+
+---
+
+### Speaker decides to resign from resident of gold
 
 *2024-12-13 12:43:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9dpjdwewv0o) · `si`
 
-කතානයක ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කළ බව කතානායක අශෝක රන්වල පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-අශෝක රන්වල විසින් නිකුත් කළ මාධ්‍ය නිවේදනයක් අද (දෙසැම්බර් 13 වැනිදා) ජාතික ජනබලවේගයේ මාධ්‍ය අංශය විසින් මාධ්‍ය වෙත නිකුත් කරනු ලැබීය.
 
-"පසුගිය දින කිහිපය තුළ මාගේ අධ්‍යාපන සුදුසුකම් පිළිබඳ ගැටලුවක් සමාජය තුළ මතු කරනු ලැබ තිබේ. මාගේ අධ්‍යාපන සුදුසුකම් පිළිබඳ කිසිදු සාවද්‍ය ප්‍රකාශයක් මා විසින් ප්‍රකාශ කර  නැත. එහෙත් එම අධ්‍යාපන සුදුසුකම් තහවුරු කිරීම සඳහා අවශ්‍ය සමහර ලියකියවිලි මේ මොහොතේ මා සතුව නොමැති බැවින් ද එම ලියකියවිලි මේ මොහොතේ කඩිනමින් ඉදිරිපත් කිරීම දුෂ්කර වී තිබේ.
 
-මාහට ආචාර්ය උපාධිය ලබාදුන් ජපානයේ වසීදා විශ්වවිද්‍යාලයට අනුබද්ධ පර්යේෂණ ආයතනයෙන් ඊට අදාළ අධ්‍යාපන ලියකියවිලි ඉදිරිපත් කිරීමේ හැකියාව පවතින අතර ඒවා හැකි ඉක්මනින් ඉදිරිපත් කිරීමට අදහස් කරමි.
+Speaker resigns amid educational qualifications controversy. Ashoka Ranwala releases statement addressing degree claims. Government decision to resign from Speaker position questioned.
 
-අශෝක රන්වල: ආන්දෝලනයට තුඩු දී ඇති තම උපාධි ගැන කතානායකවරයා බීබීසීයට කිව්වේ මොනවා ද?
+🟩
+
+Speaker Askowa says that he decided to resign from the post of speech.
+
+A press release issued by Ashoka Ranwala was issued to the media today (December 13).
+
+"In the past few days, my educational issues have been raised in society. I have not expressed any false statement of my educational qualifications. However, it has been difficult to present the documents to some of the documents to ensure that at this moment.
+
+I have the potential to submit educational documents from the University of Vision of Japan, who granted the doctorate.
+
+Ashoka Ranwala: What did the Speaker tell the BBC about his degree that led to controversy?
+
+However, the government, who has decided to resign from the post of Speaker, have decided to resign from the post of Hon.
+
+Ashoka Ranwala: What did the Speaker tell the BBC about his degree that led to controversy?
+
+Italian Driving License: 'If the license was found in the license. Then this cold won't die '
 
 ...
 
 [Data](articles/e19d2e85.json)
+
+[Extended Data](ext_articles/e19d2e85.ext.json)
 
 ---
 
@@ -2241,365 +2537,5 @@ President Anura Kumara Dissanayake made this statement at a meeting with the sta
 [Data](articles/35c25010.json)
 
 [Extended Data](ext_articles/35c25010.ext.json)
-
----
-
-### If you make a mistake, you will be punished
-
-*2024-12-13 12:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தவறு-செய்தால்-தண்டிக்கப்படுவீர்கள்/150-348694) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Dissanayake vows to punish mistakes in his government. He promises swift action against any wrongdoing, emphasizing trust and accountability.
-
-🟩
-
-President Anura Dissanayake has said that if there is a mistake in his government, action will be taken against it.
-
-We will not allow people to break the confidence in us, ”he said.
-
-President Anuragumara The RH Nayaka made this statement at a meeting with the state media chiefs this morning.
-
-“Our government is not ready to protect the wrongdoers in the country. If anyone is wrong in our government, we will not hesitate to take action against that mistake. ”
-
-◼️
-
-[Data](articles/b011c7ff.json)
-
-[Extended Data](ext_articles/b011c7ff.ext.json)
-
----
-
-### 1,900 metric ton of rice imported
-
-*2024-12-13 11:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-900-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-348693) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-1,900 metric tons of rice arrive; mostly crude & worm rice. Distributed to markets. Public program to provide imported rice soon.
-
-🟩
-
-The Customs Department said that 1,900 metric ton of rice provided by the private sector has now arrived in the country.
-
-Customs Media Spokesperson and Senior Director Sivali Arukkoda said that a significant amount of these is currently being distributed to the market.
-
-Imported rice includes crude rice and worm rice, he said.
-
-He also said that a special program has been implemented by the public to provide imported rice to the public soon.
-
-◼️
-
-[Data](articles/70310038.json)
-
-[Extended Data](ext_articles/70310038.ext.json)
-
----
-
-### Parliament notifications about the doctorate with the Minister of Justice
-
-*2024-12-13 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204332) · `si`
-
-Sri Lanka Parliament notifies error in Minister's degree listing. Correction underway.
-
-🟩
-
-The Parliament of Sri Lanka announced that Dr. Changes Harshana Nanayakkara, Minister's Counsel At the Parliament of Parliament website.
-
-The Parliament of Sri Lanka says that in the directory of the Members of Parliament and National Investigation Minister's name on the catalog of MP's Directory of the Members of Parliament.
-
-The Minister has not included a doctoral name in its information sheet received to Parliament.
-
-Accordingly, the Parliament of Sri Lanka has been informed that it has been working to correct the mistake.
-
-The Parliament of Sri Lanka stated that the promotion of the incident and Minister of Public Investment Attorneys will express the inconvenience to Mr. Harshana Nanayakkara.
-
-The re-examination of all MPs on the Parliament website is currently underway and updating.
-
-◼️
-
-[Data](articles/eb03b81f.json)
-
-[Extended Data](ext_articles/eb03b81f.ext.json)
-
----
-
-### “Don't be afraid”
-
-*2024-12-13 11:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயப்பட-வேண்டாம்/175-348691) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Don't fear Eligus detection & cure. Doxycycline vaccine available. Hospital report shows flu patients. ICU transfers, treatments ongoing. Precautions taken. More doctors, nurses needed. Hospital open for all."
-
-🟩
-
-Eligus can be detected and cured early. Doxycycline vaccine is also in the hospital.
-
-The hospital administration issued a report on Thursday (12).
-
-It further stated that the number of patients who had been treated in November were suspected of being a flu.
-
-The number of patients suspected of being a mice is 58 from December 1 to December 12 at 11 pm. Of these, 13 were treated from the 1st of the 9th, 29 from the 10th to the 11th and the 12th - 16 on the 12th.
-
-Thursday (12), who was suspected of being Elikaisal and admitted for treatment on Thursday (12), two people in the intensive care unit were sent to the Jaffna Hospital for further treatment.
-
-28 people are receiving treatment at the hospital on Thursday (12), including pregnant women-two.
-
-The dead from the Point Pedro Resource Hospital to the Jaffna Teaching Hospital
-
-A resident of Mullaitivu was admitted to the Jaffna Hospital directly when he was temporarily lived in Navatkuli.
-
-...
-
-[Data](articles/4beef7e3.json)
-
-[Extended Data](ext_articles/4beef7e3.ext.json)
-
----
-
-### ‘Offenders will face consequences, regardless of rank or status’ – President AKD
-
-*2024-12-13 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104207/offenders-will-face-consequences-regardless-of-rank-or-status-president-akd) · `en`
-
-“We will not allow the trust the people have placed in us to be undermined in any way,” stated President Anura Kumara Dissanayake during a meeting with the heads of state media today (13).
-
-He further emphasised, “Regardless of their status in government, if mistakes are made, we will not hesitate to take appropriate action,” according to the President’s Media Division (PMD).
-
-“For more than seven decades, the people of this nation have built and dismantled various governments. For the first time, we stand with a profound understanding of the historic mandate entrusted to us and the National People’s Power on two occasions.
-
-The people placed their faith in the National People’s Power (NPP) government, hoping for a standardised and stable country. We will not tarnish that extraordinary trust, even by the slightest misconduct.
-
-...
-
-[Data](articles/ee905a09.json)
-
-[Extended Data](ext_articles/ee905a09.ext.json)
-
----
-
-### Jaffna spreads to visit Colombo to seven deaths
-
-*2024-12-13 11:27:41* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-පැතිරෙණ-උණ-රෝගය-බලන්න-කොළඹින්-කණ්ඩායමක්-යයි--මරණ-07ක්-දක්වා-ඉහළට/11-413615) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo: 7 deaths from flu virus in Jaffna. Health officials discuss outbreak. 44 patients hospitalized, 7 fatalities reported. Public education efforts underway in Jaffna district.
-
-🟩
-
-The health authorities have found a special discussion by a group of people in the Colombo Epidemiology, Jaffna and Point, to look into the flu virus in Jaffna District.
-
-The Patients affected by the feedl virus went to the Jaffna Hospital and Point Pedro hospital, Dr. T. T.. Mr. AGM also held a special discussion on the atmosphere, including a group of people.
-
-Meanwhile, Regional Services, Jaffna Regional Services, Jaffna Regional Services to educate the public on the current situation in the Jaffna district. Karaswaran has been speaking at a press conference and 44 patients have been reported to the Pasty and the Point Flu hospital and 7 patients have died.
-
-Kaveduruwa, Karaveddi and Chavakachchachchary areas, this flu is reported to the nearest hospital and to get a list of one in the neighborhood and receive a special record of. Karaswaran said.
-
-...
-
-[Data](articles/e37911bf.json)
-
-[Extended Data](ext_articles/e37911bf.ext.json)
-
----
-
-### Surveillance intensity on massive rice mills
-
-*2024-12-13 11:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-அரிசி-ஆலைகளின்-மீதான-கண்காணிப்பு-தீவிரம்/175-348690) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"CAA intensifies surveillance on large rice mills. Legal action taken against 201 individuals selling rice above controlled prices. Nationwide raids conducted to combat price gouging."
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that the authorities have been deployed to further monitor the amount of rice emitted from massive rice mills.
-
-Meanwhile, legal action has been taken till yesterday (12), the Consumer Affairs Authority said that the sale of rice at a higher price and rice was more than the government's control price.
-
-The Consumer Affairs Authority further stated that legal action has been taken against 201 persons involved in such activities within the last three days.
-
-The Authority has also announced that it is conducting raids nationwide in search of high prices.
-
-◼️
-
-[Data](articles/dc12e00b.json)
-
-[Extended Data](ext_articles/dc12e00b.ext.json)
-
----
-
-### Founders seek principals for 46 national schools
-
-*2024-12-13 11:14:09* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-පාසල්-46-කට-විදුහල්පතිවරුන්-සොයයි/11-413614) · `si`
-
-Sri Lanka Ministry of Education seeks Grade 1 officials for 46 national school principal positions across various districts.
-
-🟩
-
-Ministry of Education calls for obtaining officers to fill the existing Principals' Description of 46 National Schools in the country.
-
-The Ministry of Education says that only Grade 1 officials in the Sri Lanka Education Administrative Administration can apply.
-
-Prince of Colombo - Royal, Deposita Girls, Isipathana, Piliyandala and Bandaranaike, Kandy - Nugawela, Gampaha - Nugawela, Galle - Nugama, Gampaha - Nugawela and Bandaranaike, Baumulla and Bathami, Batamulla and BathammullaElpitiya Ananda, Matara - Mahinda Rajapakse, Hambantota - Weeraketiya, Suriyawewa, TangalleSets and Sri Sumangala, Chilaw-Oneandara, Dhammakarawe and Kekirawa and Kekirawa, Kegalle, Embilipitiya, Embilipitiya, Embilipitiya President and Godakawela
-
-◼️
-
-[Data](articles/9b5d9490.json)
-
-[Extended Data](ext_articles/9b5d9490.ext.json)
-
----
-
-### MPs to appoint a committee to explore the degrees of the MPs
-
-*2024-12-13 11:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-எம்-பிகளின்-பட்டங்களை-ஆராய-குழு-நியமிக்க-பிரேரணை/175-348687) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-UNP & New Democratic Front propose committee to verify parliamentary qualifications. Aimed at resolving issues over Speaker's medical degree & another minister's engineering credentials.
-
-🟩
-
-The United National Party and the new Democratic Front have decided to submit a proposal to appoint a select committee to investigate the educational qualification of all parliamentarians, including the Speaker of the National People's Power Government, including the Speaker of the Government.
-
-Jeevan Thondaman, a member of the United National Party and the New Democratic Front, will present a proposal in Parliament.
-
-The new Democratic Front has said that the selection committee has been aimed at solving the issues relating to the doctor's degree of Speaker Asoka Ranwala and another minister's engineering degree.
-
-The new Democratic Front said that the proposal to appoint the appropriate select committee would be submitted as the Speaker's Power would not accept a response from the Speaker or the National People's Power Government.
-
-◼️
-
-[Data](articles/53836651.json)
-
-[Extended Data](ext_articles/53836651.ext.json)
-
----
-
-### Committee to explore the titles of the MPs
-
-*2024-12-13 11:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-எம்-பிகளின்-பட்டங்களை-ஆராய-குழு/175-348687) · `ta`
-
-UNP & New Democratic Front propose committee to verify parliamentary qualifications, including Speaker's degrees. Aimed at resolving issues related to Speaker Asoka Ranwala's medical degree and another minister's engineering degree.
-
-🟩
-
-The United National Party and the new Democratic Front have decided to submit a proposal to appoint a select committee to investigate the educational qualification of all parliamentarians, including the Speaker of the National People's Power Government, including the Speaker of the Government.
-
-Jeevan Thondaman, a member of the United National Party and the New Democratic Front, will present a proposal in Parliament.
-
-The new Democratic Front has said that the selection committee has been aimed at solving the issues relating to the doctor's degree of Speaker Asoka Ranwala and another minister's engineering degree.
-
-The new Democratic Front said that the proposal to appoint the appropriate select committee would be submitted as the Speaker's Power would not accept a response from the Speaker or the National People's Power Government.
-
-◼️
-
-[Data](articles/7f4c6e68.json)
-
-[Extended Data](ext_articles/7f4c6e68.ext.json)
-
----
-
-### Murder by a sharp weaponSuspect arrested
-
-*2024-12-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201134) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-74-year-old suspect arrested in Thikkumbura for murder with sharp weapon. Incident occurred in Galle-Himadhuwa police division on Thursday (12).
-
-🟩
-
-A suspect in connection with the murder of a man was arrested in Thikkumbura area, which belongs to the Galle and Himadhuwa police division, has been arrested on Thursday (12).
-
-The suspect was 74 years old from Imaduwa, Thikkumbura.
-
-◼️
-
-[Data](articles/d6c3c9ae.json)
-
-[Extended Data](ext_articles/d6c3c9ae.ext.json)
-
----
-
-### If the offense is done, action will be taken - President
-
-*2024-12-13 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204331) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake: "Action will be taken" for offenses. Emphasizes commitment to justice and stability.
-
-🟩
-
-President Anura Kumara Dissanayake has said that although a person has done something wrong, the action will be taken.
-
-President Anura Kumara Dissanayake made this statement at the meeting with government media heads this morning (13).
-
-"For more than seven decades, the people of this country have given birth to various governments. Various governments rolled. "
-
-"For the first time in history, the people of this country have a comprehensive reading of the historically popularity and essence of the national power."
-
-"The people of this country have created the government of the national power with the belief that a standard and stable country will create a standard country."
-
-"Our government will never allow such unique beliefs to be affected by Abimal Rair."
-
-"Our government is not ready to protect anyone who is doing wrong in the country to any cause. Not only in the country but also in our government, we will not hesitate to take action against the mistake. "
-
-...
-
-[Data](articles/b251aa63.json)
-
-[Extended Data](ext_articles/b251aa63.ext.json)
-
----
-
-### The scareer Baba Benga's arum
-
-*2024-12-13 11:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பயமுறுத்தும்-பாபா-வங்காவின்-ஆரூடம்/50-348685) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Baba Benga: Bulgarian blind prophet predicting global events. Forecasts 3rd World War after Syria's fall, beginning in 2025. Accurately predicted 9/11, Obama presidency, Brexit. 85% accuracy rate. Claims no single winner in Syria conflict. Predicts European decline and alien encounters.
-
-🟩
-
-Baba Benga ... Have you heard of this name already?She is a woman from Belazica, Bulgaria. Baba Benga, who lost his eyesight at a young age, began to say what would happen in the future world.
-
-Baba Bengal also has the name of the female nastradamus in the Balkan region. (The ancient prophet who lived in France, Nastradamus, the centuries of the book "The future of the world"
-
-Baba Benga has said what will happen in the future, ie 5079. It is worth noting that 85 percent of his arms have been sacrificed.
-
-Well, now we may have the question of what we need to talk about Baba Benga. The idea of ​​Baba Benga has come back to many worldwide as the regime has now collapsed in the West Asian country of Syria and the Syrian rebels are in their hands.
-
-The reason is that Baba Benga has already said that the third world war will begin after the fall of Syria.
-
-Syria is a state of disrepair. Baba Benga has said that this fall in Syria is the forecast and the starting point for the majority.
-
-...
-
-[Data](articles/97e33063.json)
-
-[Extended Data](ext_articles/97e33063.ext.json)
 
 ---

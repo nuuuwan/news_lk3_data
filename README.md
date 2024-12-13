@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 08:46:25**
+As of **2024-12-13 09:07:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,873 (99.9%) of 59,918 articles have been extended.
+59,876 (99.9%) of 59,918 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Additionally, the District Secretary for Colombo requested that the public  pro
 
 [Data](articles/54645c81.json)
 
+[Extended Data](ext_articles/54645c81.ext.json)
+
 ---
 
 ### Six including minor killed in Tamil Nadu hospital fire
@@ -67,6 +69,8 @@ TV visuals showed fire and smoke billowing from the hospital building, with fire
 ◼️
 
 [Data](articles/5fcf16f3.json)
+
+[Extended Data](ext_articles/5fcf16f3.ext.json)
 
 ---
 
@@ -418,23 +422,29 @@ High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks o
 
 ---
 
-### தனிமையில் வசித்த வயோதிபர் சடலமாக மீட்பு
+### Recovery as an elderly body of lonely
 
 *2024-12-13 03:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-வசித்த-வயோதிபர்-சடலமாக-மீட்பு/175-348674) · `ta`
 
-யாழ். வடமராட்சி, அல்வாய் மேற்கு - ஆண்டாள் தோட்டம் பகுதியில் உள்ள வீடு ஒன்றில் தனிமையில் வசித்து வந்த வயோதிபர் ஒருவர் உயிரிழந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+Elderly man found dead in lonely house in Andal Gardens. Kandaya Ganapathi Pillai, 86, discovered after neighbors reported noise. Point Pedro Investigation Officer orders autopsy.
 
-அதே இடத்தைச் சேர்ந்த கந்தையா கணபதிப்பிள்ளை (வயது 86) என்ற வயோதிபரே சடலமாக மீட்கப்பட்டுள்ளார்.
+🟩
 
-அவர் வீட்டில் தனிமையில் வசித்து வந்த நிலையில் நேற்றுக் காலையில் இருந்து கூக்குரல் இட்டவாறு இருந்துள்ளார்.
+Yall. Vadamarachchi, Alwai West - An elderly man who lives in a lonely house in the Andal Gardens area has been found dead.
 
-பின்னர் சத்தம் கேட்காது இருந்த நிலையில் அயலவர்களால் கிராம அலுவலர் மற்றும் பொதுச் சுகாதாரப் பரிசோதகருக்குத் தெரியப்படுத்தப்பட்டது.
+Kandaya Ganapathi Pillai (age 86) from the same place has been recovered.
 
-சம்பவ இடத்துக்கு நேற்று இரவு சென்ற பருத்தித்துறை பதில் மரண விசாரணை அதிகாரி திருமதி அன்ரலா வின்சன்தயான் விசாரணை செய்து உடற்கூற்றுப் பரிசோதனை மேற்கொண்டு அறிக்கை சமர்ப்பிக்குமாறு பருத்தித்துறைப் பொலிஸாருக்கு உத்தரவிட்டார். (a)
+He was living in a lonely house since yesterday morning.
+
+Later, the noise was not known to the Grama Niladhari and Public Health Inspector by neighbors.
+
+The Point Pedro Investigation Officer Mrs. Anrala Vinasandayan, who visited the scene last night, ordered the Cotton Police to submit an anatomical examination and submit a report.. (A)
 
 ◼️
 
 [Data](articles/b117b630.json)
+
+[Extended Data](ext_articles/b117b630.ext.json)
 
 ---
 

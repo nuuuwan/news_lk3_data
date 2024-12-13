@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 16:01:50**
+As of **2024-12-13 17:00:13**
 
 ## Newspaper Stats
 
-*Scraped **60,000** Articles*
+*Scraped **60,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,105 @@ adalk | 5,699
 adaderanalk | 7,305
 tamilmirrorlk | 8,580
 virakesarilk | 9,841
-adaderanasinhalalk | 10,370
+adaderanasinhalalk | 10,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,927 (99.9%) of 60,000 articles have been extended.
+59,937 (99.9%) of 60,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Former CCD Director remanded
+
+*2024-12-13 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204342) · `si`
+
+Former CCD Director remanded over alleged misconduct. Complaint filed in August 2023. Suspect arrested without proper investigation, claims lawyer. Case adjourned until 20th of this month.
+
+🟩
+
+The former Police Director of the Colombo Criad Division was remanded until the 20th of this month, Ratnapura Magistrates. K. Mr. Baranaliange ordered today (13).
+
+According to a complaint lodged with a complaint to the Colombo Crimes Division, he was arrested on the occasion as per the Colombo Crimes Division.
+
+The ASP was arrested by the ASP and was produced before the Ratnapura Magistrate's Court.
+
+The Kuruwita businessman had lodged a complaint that a Kuruwita had reached the Colombo Crimes Division in August 2, 2023.
+
+According to the complaint, the Assistant Superintendent of Police were arrested and produced before the Ratnapura Magistrate's Court on the complaint.
+
+President's Counsel Nalinda Indratissa stated that the suspect was arrested without proper investigation.
+
+◼️
+
+[Data](articles/89e664b5.json)
+
+[Extended Data](ext_articles/89e664b5.ext.json)
+
+---
+
+### Report where all stock price index
+
+*2024-12-13 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204341) · `si`
+
+Colombo Stock Exchange: Index reaches 14,205.34, rising 169.53 points today.
+
+🟩
+
+All the stock price index in the Colombo Stock Exchange increased to record today (13).
+
+When the end of this day, its value was recorded as 14,205.34 units.
+
+In today's day, all stock price index increased by 169.53.
+
+◼️
+
+[Data](articles/ac0008b3.json)
+
+[Extended Data](ext_articles/ac0008b3.ext.json)
+
+---
+
+### Over the past year, foreign gone has exceeded 300,000
+
+*2024-12-13 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204340) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Over 300k Sri Lankans employed abroad in 2024. 177k men, 122k women. UAE tops destination with 49k workers. Foreign exchange earnings reach $5961.6 million."
+
+🟩
+
+The External Employment Bureau says that the number of Sri Lankans spent 3 lakhs for employment during the year 2024.
+
+The Bureau said that this was 300,162 today.
+
+This is the second time the second period of 300,000 workers in the last 10 years has passed the number of 3 million workers in the year 200,948 workers.
+
+During the year 2024, 177,804 male workers and 122,358 women have been abroad.
+
+The total number of women have been abroad for employment during the period is 40% and male workers have increased to 60% of the total number.
+
+It is 184,140 overseas through the self-employment and 116,022 students from foreign employment agencies.
+
+Sri Lankans have gone abroad to employment and the number of 73,995.
+
+Secondly, the highest number of UA, the United Arab Emirates, it is 49,499.
+
+Anti-the-art statistics, Penny is an important point to procure Sri Lankans with Sri Lankans in the South Korea, Israel, Romania and Japan.
+
+...
+
+[Data](articles/cc67a83c.json)
+
+[Extended Data](ext_articles/cc67a83c.ext.json)
+
+---
 
 ### Clerk remanded at the passport office of bribery
 
@@ -96,17 +184,27 @@ After speaking to the media, he said that after a program in Colombo today, he s
 
 ---
 
-### මාලිමා මන්ත්‍රීවරුන්ගේ අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීමට තේරීම් කාරක සභාවක් පත් කරන්නැයි යෝජනාවක්
+### Proposal to appoint a Select Committee to check the educational qualifications of the Masters MPs
 
 *2024-12-13 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204337) · `si`
 
-ජාතික ජන බලවේගය නියෝජනය කරන මැති ඇමතිවරුන්ගේ අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීම සඳහා තේරීම් කාරක සභාවක් පත්කරන ලෙස යෝජනාවක් ඉදිරිපත් කිරීමට එක්සත් ජාතික පක්ෂය සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ තීරණය කර තිබේ.
+Here's a summary in 200 characters:
 
-පාර්ලිමේන්තු මන්ත්‍රී ජීවන් තොණ්ඩමන් මහතා විසින් අදාළ යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව දේශපාලන ආරංචි මාර්ග පවසයි.
+
+
+New Party & New Democratic Front propose Select Committee to verify educational qualifications of all MPs. To be presented to Parliament by MP Jeevan Thondaman.
+
+🟩
+
+The New Party and the New Democratic Front has decided to submit a proposal to appoint a PSC to check the educational qualifications of the National Floor.
+
+Political sources say that the proposal is to be presented to Parliament by MP Jeevan Thondaman.
 
 ◼️
 
 [Data](articles/2f7ec168.json)
+
+[Extended Data](ext_articles/2f7ec168.ext.json)
 
 ---
 
@@ -125,6 +223,8 @@ The other appointed members are Damien Amal Cabraal, Mohan Ray Abeywardena, Sanj
 ◼️
 
 [Data](articles/e4ca8e55.json)
+
+[Extended Data](ext_articles/e4ca8e55.ext.json)
 
 ---
 
@@ -386,25 +486,37 @@ Yasmin Sukka said the 2009 Mullivaikkal massacre was the main reason for account
 
 ---
 
-### ආණ්ඩුවේ මොන වගකීම දැරුවත් වැරද්දක් කර ඇත්නම් ක්‍රියා මාර්ග ගන්නවා
+### Any responsibility of the government, action will be taken
 
 *2024-12-13 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මොන-වගකීම-දැරුවත්-වැරද්දක්-කර-ඇත්නම්-ක්‍රියා-මාර්ග-ගන්නවා/11-413618) · `si`
 
-"කුමන තරාතිරමක කෙනෙක් වුවත් වරදක් කර ඇත්නම් ඊට අදාළ ක්‍රියා මාර්ග ගන්නවා"
+Here's a summary of 200 characters:
 
-"ජනතාව අප කෙරෙහි තැබූ විශ්වාසය කුමන ආකාරයකින් හෝ පලුදු වීමට අප ඉඩ තබන්නේ නැහැ"
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ අද (13) උදෑසන රජයේ මාධ්‍ය ප්‍රධානීන් සමඟ පැවැත් වූ හමුවේදීය.
 
-"දශක හතකට වැඩි කාලයක් තිස්සේ මේ රටේ ජනතාව විවිධ ආණ්ඩු බිහි කළා. විවිධ ආණ්ඩු පෙරළුවා.ඉතිහාසයේ පළමු වෙනි වතාවට මෙවර මේ රටේ ජනතාව අවස්ථා දෙකකදී අපට සහ ජාතික ජන බලවේගයට ලබා දුන් ඓතිහාසික ජන වරමේ අර්ථය සහ හරය කුමක්ද කියන එක සම්බන්ධව අපට පුළුල් කියවීමක් තියෙනවා.
+Pres. Anura Kumara Dissanayake addresses government responsibilities: "Action will be taken" for astromagnetic issues. Emphasizes public trust in national power. Promises swift action against mistakes.
 
-ප්‍රමිතිගත සහ ස්ථාවර රටක් නිර්මාණය කරනු ඇතැයි යන විශ්වාසය ඇතිව මේ රටේ ජනතාව ජාතික ජන බලවේගයේ ආණ්ඩුව බිහි කළා.ඒ සුවිශේෂී විශ්වාසයට අබමල් රේණුවකින් හෝ හානියක් වන්නට අපේ ආණ්ඩුව කිසි විටෙකත් ඉඩක් තබන්නේ නැහැ.
+🟩
 
-ඉතාම කෙටියෙන් කිවහොත්,රට තුළ වැරදි කරන කිසිවෙකු, කිසිම හේතුවකට ආරක්ෂා කිරීමට අපේ ආණ්ඩුව සූදානම් නැහැ. රට තුළ පමණක් නෙවෙයි, අපේ ආණ්ඩුව තුළ කවර තරාතිරමක කෙනෙක් වුණත් වැරැද්දක් කරනවානම් ඒ වැරැද්දට එරෙහිව ක්‍රියා මාර්ග ගන්න අපි පැකිළෙන්නේ නැහැ.
+"What astromagnear is done, the relevant action will be taken to it"
+
+"The people do not allow the people of what way or undermine us"
+
+President Anura Kumara Dissanayake made this observation at the meeting with government media heads this morning (13).
+
+"For more than seven decades, the people of this country have given birth to various governments. The first time in the first time in the first time this year, the people of this country have a comprehensive reading of the historically popularity and essence of the national power.
+
+The people of this country have produced the government of the national power with the belief that a standard and stable country will create a standard and stable country.
+
+In very short, our government is not ready to protect anyone who is wrong in the country for any cause. Not only in the country but also in our government, but if we make a mistake, we will not hesitate to take action against that mistake.
+
+We do not think twice to take all possible measures. "
 
 ...
 
 [Data](articles/d0a2f1bf.json)
+
+[Extended Data](ext_articles/d0a2f1bf.ext.json)
 
 ---
 
@@ -554,75 +666,109 @@ The arrest stemmed from a complaint by a West Indies player on his team, who ref
 
 ---
 
-### இந்திய மீனவர்கள் இழுவைப் படகுகளை பயன்படுத்துவதை நிறுத்தினால் மாத்திரமே பாக்கு நீரிணையில் மீனவர் பிரச்சினைக்கு தீர்வு - ஜனாதிபதியின் இந்திய விஜயத்துக்கு முன் கடற்றொழில் அமைச்சர் சந்திரசேகர் வலியுறுத்தல்
+### Fisheries Minister Chandrasekhar emphasizes before the President's visit to India
 
 *2024-12-13 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201147) · `ta`
 
-இழுவைப்படகுகளை பயன்படுத்துவதை நிறுத்தினால் மாத்திரமே இலங்கையின் வட பகுதி மீனவர்களையும் தமிழ்நாட்டின் தினச்சம்பள மீனவர்களையும் பெரிதும் பாதிக்கின்ற நீண்டகால பாக்கு நீரிணை மீன்பிடி நெருக்கடிக்கு தீர்க்கமான முடிவைக் காணக்கூடியதாக இருக்கும் என்று இலங்கையின் கடற்தொழில், நீரியல்வள அமைச்சர் இராமலிங்கம் சந்திரசேகர் கூறினார்.
+Here's a summary of the article in approximately 200 characters:
 
-இந்த மீன்பிடி நெருக்கடி பல வருடங்களாக இந்தியாவுக்கும் இலங்கைக்கும் இடையில் முக்கியமான ஒரு இராஜதந்திர பிரச்சினையாக நீடித்துவருகிறது. அடுத்தவாரம் இலங்கை ஜனாதிபதி அநுரா குமார திசாநாயக்க இந்தியாவுக்கு மேற்கொள்ளவிருக்கும்  விஜயத்தின்போது இந்த பிரச்சினை ஆராயப்படக்கூடிய சாத்தியம் இருக்கிறது.
 
-" வடக்கு, கிழக்கு மாகாணங்கள் மற்றும் மலையகம் உட்பட சகல இனங்களையும் சகல பிராந்தியங்களையும் சேர்ந்த மக்கள் அண்மையில் நடைபெற்ற தேர்தல்களில் எங்களுக்கு (தேசிய மக்கள் சக்திக்கு ) ஒரு பெரிய ஆணையைத் தந்திருக்கிறார்கள்.  அவர்களது அக்கறைகளை கவனித்து தீர்வு காணவேண்டிய ஒரு பொறுப்பு எமக்கு இருக்கிறது" என்று வடக்கு யாழ்ப்பாண மாவட்டத்தை பாராளுமன்றத்தில் பிரதிநிதித்துவப்படுத்தும் சந்திரசேகர் கூறினார்.
+
+Sri Lanka's Fisheries Minister Chandrasekhar addresses India visit, focusing on resolving long-standing fishing disputes between Sri Lankan and Tamil Nadu fishermen. He emphasizes the need to protect marine resources and increase seaweed production to address declining protein intake.
+
+🟩
+
+Sri Lanka's Fisheries and Aquatic Resources Minister Ramalingam Chandrasekhar said that the long -standing fishermen of Sri Lanka and Tamil Nadu's daily fishermen would be a decisive decision for the fishing crisis.
+
+This fishing crisis has been an important diplomatic issue between India and Sri Lanka for many years. The issue is likely to be explored during his visit to India next week.
+
+Chandrasekhar, who represents the Northern Jaffna district in Parliament, said, "People from all ethnicities and all areas, including the Northern and Eastern Provinces, have given us a major decree in the recent elections. We have a responsibility to take care of their concerns."
+
+"The long -standing issue of fishing in Tamil Nadu by using drag in Tamil Nadu is a major concern for our North Fishermen community," he told 'The Hindu' on Wednesday.
 
 ...
 
 [Data](articles/af6f13b9.json)
 
+[Extended Data](ext_articles/af6f13b9.ext.json)
+
 ---
 
-### කෝටි හතරක මත්කුඩු කහතුඩුවෙන් සොයා ගනී
+### Four crores discovers in Kahathudura
 
 *2024-12-13 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204334) · `si`
 
-කහතුඩුව පොලීසිය විසින් රුපියල් කෝටි හතරක් පමණ වටිනා  මත්ද්‍රව්‍ය තොගයක් සමග වයෝවෘද්ධ යුවළක් සමග 6 දෙනකු අත්අඩංගුවට ගෙන තිබේ.
+Kahathuduwa Police arrest 6 drug suspects, seize 985g heroin & 50g ice. Three-wheeler inspection leads to raid on suspicious house. Suspects detained under two-day order.
 
-එම සැකකරුවන් සමග අයිස් මත්ද්‍රව්‍ය කිලෝ 1යි ග්‍රෑම් 50ක් සහ හෙරොයින් ග්‍රෑම් 835ක් සමග ත්‍රිරෝද රථයක් පොලිස් භාරයට ගෙන තිබුණි.
+🟩
 
-කහතුඩුව පොලිසියේ නිලධාරීන් කණ්ඩායමක් විසින් තිදෙනකු ගමන් ගත් සැකකටයුතු ත්‍රිරෝද රථයක් පරික්ෂා කිරීමේදී එහි සිටි පුද්ගලයකු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 5,140ක් සොයාගෙන තිබේ.
+The Kahathuduwa Police have arrested six people with a large number of drugs worth Rs.
 
-එම සැකකරුවන්ව අත්අඩංගුවට ගෙන එක් සැකකරුවකු සත්තකේ තිබූ ස්මාර්ට් ජංගම දුරකථනයේ  සටහන්ව තිබූ මාර්ගගත සිතියම ඔස්සේ කිරිවත්තුඩුව මූණමලේවත්ත 16වන පටුමගේ සැකකටයුතු නිවසක් වටලා පරික්ෂා කිරීමේදී  එහි සිටි වයෝවෘධ යුවළ නිවස තුළ සිටි සුනඛයකු ලිහා පොලිස් නිලධාරීන්ව සපා කෑමට සලස්වා තිබුණි.
+The suspects were taken into police custody with the suspects with the suspects and 50 grams of ice and 835 grams of heroin.
 
-ඒ අතරතුර වෙනත් පුද්ගලයකු නිවසේ පිටුපස දොරෙන් පාර්සලයක් රැගෙන පළායාමට උත්සාහ කිරීමේ දැඩි පරිශ්‍රමයක් දරා එම පුද්ගලයාව අත්අඩංගුවට ගෙන පරික්ෂා කිරීමේදී එම පාර්සලයේ තිබී හෙරොයින් සහ අයිස් මත්ද්‍රව්‍ය සොයාගැනීමට හැකිවූ බව පොලීසිය කියයි.
+A team of Kahathuduwa police officers inspected a suspicious three-wheeler in charge of three-wheeler.
 
-...
+The monk raided a suspicious house in Kiriwatuwa, the 16th Law of the Smarter of the Smarter of the Smarter of the Smarter of the Smartphone where one suspect was arrested on the Satchedubs of Smartphone.
+
+In the meantime, another person had arrested the person who was arrested and inspected to carry out a parcel at the back of the house, police said.
+
+Residents of a three-wheeler driver, who is a three-wheeler, is currently working in the Colombo area and said he returned to this house.
+
+The suspect is to be questioned on two-day detention orders.
+
+◼️
 
 [Data](articles/72340eeb.json)
 
+[Extended Data](ext_articles/72340eeb.ext.json)
+
 ---
 
-### லொறி - மோட்டார் சைக்கிள் மோதி விபத்து ; ஒருவர் பலி !
+### Lorry - motorcycle collision;One kills!
 
 *2024-12-13 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201140) · `ta`
 
-மொரகொட பொலிஸ் பிரிவிற்கு உட்பட்ட முறியாகடவல - அல்லிஸ்தான வீதியில் கட்டமுறிச்சான் பிரதேசத்தில் இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளதாக மொரகொட பொலிஸார் தெரிவித்தனர்.
+Motorcycle collides with lorry in Kattamichan. One killed, driver injured. Lorry driver arrested. Body at Anuradhapura hospital.
 
-லொறி ஒன்று எதிர்திசையில் பயணித்த மோட்டார் சைக்கிள் ஒன்றுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தின் போது மோட்டார் சைக்கிளின் செலுத்துனர் படுகாயமடைந்துள்ள நிலையில் அநுராதபுரம் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+Moragoda police said that one person was killed in an accident in the Kattamichan area on the Moragoda Police Division.
 
-சடலம் அநுராதபுரம் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், விபத்து தொடர்பில் லொறியின் சாரதி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The accident occurred when a lorry collided with a motorcycle riding in the opposite direction.
+
+The motorcycle driver was injured in the accident and died after being admitted to the Anuradhapura hospital.
+
+The body has been placed in the funeral room of the Anuradhapura hospital and the driver of the lorry has been arrested by the police in connection with the accident.
 
 ◼️
 
 [Data](articles/55011f62.json)
 
+[Extended Data](ext_articles/55011f62.ext.json)
+
 ---
 
-### ගෝල් මාවල්ස් හිමිකරු රිමාන්ඩ්
+### Goal Mawles owner remanded
 
 *2024-12-13 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204333) · `si`
 
-මහනුවර පල්ලේකැලේහි පැවැත්වෙන "ලංකා T 10 සුපර් ලීග්" ක්‍රිකට් තරගාවලියේදී මුදලට තරග පාවාදීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ගෝල් මාවල්ස් කණ්ඩායමේ හිමිකරුවන ඉන්දීය ජාතිකයා ලබන16 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+Indian national arrested for match-fixing in Sri Lanka, remanded until 16th. Suspect proposed fixing competition, reported to ICC, then detained. Case heard in Colombo Magistrate's Court.
 
-එම සැකකරුව අද (12) උදෑසන කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළේය.
+🟩
 
-ක්‍රීඩා දූෂණ වැළැක්වීමේ අංශය විසින් මෙම සැකකරුව අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+The Indian national, who was arrested in Pallekele to the Ceylon T 10 Super Leaf, Ceylon T10 Super Leaf, celebrations have been remanded till the 16th.
 
-මෙම සැකකරු  තරඟ පාවාදීම සම්බන්ධයෙන් යෝජනාවක් බටහිර ඉන්දීය කොදෙව් ක්‍රීඩකයකට සිදුකර ඇති බවත් එම ක්‍රීඩකයා ඒ සම්බන්ධයෙන් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයට  දැනුම්දී අතර සැකකරුව අත්අඩංගුවට ගෙන තිබුණේ ඉන් අනතුරුවයි.
+The suspect was produced before the Colombo Magistrate's Court today (12).
+
+The suspect was arrested and produced before the Metropost Prevention Unit.
+
+The suspect had made a proposal for the matching of the competition, and the player had informed the International Cricket Council and then the suspect was arrested.
 
 ◼️
 
 [Data](articles/a85d1437.json)
+
+[Extended Data](ext_articles/a85d1437.ext.json)
 
 ---
 
@@ -2185,65 +2331,5 @@ Based on the situation till 8 pm last night, 39 people are staying at the Point 
 [Data](articles/3571d7b2.json)
 
 [Extended Data](ext_articles/3571d7b2.ext.json)
-
----
-
-### To strengthen the financial framework
-
-*2024-12-13 03:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதிக்-கட்டமைப்பை-பலப்படுத்தவேண்டும்/175-348672) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake advises Finance Ministry officials to strengthen Sri Lanka's financial structure. He promises government support for the central bank's efforts to stabilize finances and improve effectiveness."
-
-🟩
-
-President Anura Kumara Dissanayake has advised the officials of the Finance Ministry to take necessary steps to strengthen the country's financial structure and make it effective.
-
-President Anura Kumara Dissanayake was advised at a meeting held at the Presidential Office yesterday (12) with officials of the Ministry of Finance.
-
-The President said the government would provide all measures to be taken by the central bank as an independent company to stabilize the country's financial situation and provide cooperation and facilities.
-
-The President also advised the authorities to take steps to create a good mechanism to make Sri Lanka's financial activities effective.
-
-After examining the full advances of the economy and financial structures, the focus was on the policies to ensure the financial stability and the compensation of the financial framework by the central bank.(a)
-
-◼️
-
-[Data](articles/e134fd88.json)
-
-[Extended Data](ext_articles/e134fd88.ext.json)
-
----
-
-### AIBS affirms leadership in delivery of internationally accredited STEM programs in Sri Lanka
-
-*2024-12-13 03:24:00* · [`islandlk`](http://island.lk/aibs-affirms-leadership-in-delivery-of-internationally-accredited-stem-programs-in-sri-lanka/) · `en`
-
-The Asian Institute of Business & Science (AIBS) founded in 2018 held a celebratory event marking its journey of six years – from humble beginnings to an entity that continues to raise the bar in imparting higher education excellence. Firmly embedded into the realm of worldclass transnational education with the affiliation etched with Edge Hill University, UK in 2022, AIBS currently offers 21 study courses & programs across 14 awarding bodies, universities and higher education institutions to 600 plus learners.
-
-...
-
-[Data](articles/9baf6e76.json)
-
-[Extended Data](ext_articles/9baf6e76.ext.json)
-
----
-
-### Empowering the next generation: St. Benedict’s College brings STEM education to life
-
-*2024-12-13 03:14:00* · [`islandlk`](http://island.lk/empowering-the-next-generation-st-benedicts-college-brings-stem-education-to-life/) · `en`
-
-The education landscape in Sri Lanka is about to witness a transformative leap. On January 17, 2025, St. Benedict’s College, Colombo, will launch its much-anticipated STEM education programme—a pioneering initiative designed to shape a generation of forward-thinking innovators.
-
-At a time when the world is racing toward technological advancements, this programme ensures that the students of St. Benedict’s don’t just keep up but lead the way. From building robots to designing drone applications, these young minds will be diving headfirst into the future.
-
-What makes STEM education at St. Benedict’s so revolutionary is its hands-on approach. Instead of limiting students to theory, this programme gives them opportunities to tackle real-world challenges with practical, innovative solutions.
-
-...
-
-[Data](articles/5554e5ae.json)
 
 ---

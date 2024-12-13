@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 15:02:06**
+As of **2024-12-13 15:33:59**
 
 ## Newspaper Stats
 
@@ -26,105 +26,161 @@ adaderanasinhalalk | 10,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,916 (99.9%) of 59,993 articles have been extended.
+59,924 (99.9%) of 59,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா தீர்மானத்தில் எதிர்க்கட்சி கையெழுத்து!
+### Opposition signature on no confidence motion against Speaker
 
 *2024-12-13 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201170) · `ta`
 
-சபாநாயகர் அசோக ரன்வல தனக்கு கலாநிதி பட்டம் இருப்பதாக கூறி மக்களையும் அரசாங்கத்தையும் ஏமாற்றியிருக்கிறார். இதனை அடிப்படையாகக் கொண்டு அவருக்கு எதிரான நம்பிக்கையில்லா பிரேரணையில் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச உள்ளிட்டோர் வெள்ளிக்கிழமை (13) கையெழுத்திட்டனர்.
+Here's a summary of 200 characters:
 
-தற்போதைய சபாநாயகர் அசோக ரன்வல கடந்த தேர்தலில் போட்டியிடுவதற்கு முன்பும் பாராளுமன்றத் தேர்தலில் போட்டியிட்டபோதும் சபாநாயகராக பதவியேற்றுக்கொண்ட போதும் தன்னை கலாநிதி என்றே அடையாளப்படுத்திக்கொண்டார்.
 
-ஆனால் மொரட்டுவ பல்கலைக்கழகத்தில் இரசாயன பொறியியலில் பி.எஸ்.சி. பட்டம், ஜப்பானில் உள்ள வசேடா பல்கலைக்கழகத்தில் முனைவர் பட்டமும் பெற்றிருப்பதாக குறிப்பிட்டு அவரது பெயருடன் கலாநிதி என்ற பட்டம் பயன்படுத்தப்பட்டுள்ளது.
 
-இது தொடர்பில் மக்களிடம் இருந்து ஆட்சேபனை எழுந்த சந்தர்ப்பத்திலும், இது தொடர்பான தகவல் கேட்ட போது மௌனம் காத்து, உண்மையை மறைத்துள்ள காரணங்களினால் இந்த நம்பிக்கையில்லாப் பிரேரணை கொண்டு வரப்பட்டுள்ளது.
+Opposition leader Sajith Premadasa signed a no-confidence motion against Speaker Ashoka Ranwala over false claims of holding a Japanese doctorate.
+
+🟩
+
+Speaker Ashoka Ranwala has deceived the people and the government by claiming that he has a doctor's degree. On the basis of this, opposition leader Sajith Premadasa signed a no -confidence motion against him.
+
+The current Speaker Ashoka Ranwala identified himself as the Dr.
+
+But BSC in Chemical Engineering at the University of Moratuwa. The degree has been used as a doctorate with his name, noting that he has a doctorate at the University of Vasada, Japan.
+
+In the wake of the objection from the people in this regard, the no -confidence motion has been brought to the silence and the fact that the silence is kept in silence and hidden the truth.
+
+This no -confidence motion has been introduced in accordance with section 6 of the Members of Parliament, according to the rules of the Code of Conduct in accordance with Section 5 of the Code of Conduct.
 
 ...
 
 [Data](articles/dc4ac6c0.json)
 
+[Extended Data](ext_articles/dc4ac6c0.ext.json)
+
 ---
 
-### சிவனொளிபாத மலை பருவ காலம் நாளை ஆரம்பம்
+### Sivanolipada Mountain Seas
 
 *2024-12-13 14:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலை-பருவ-காலம்-நாளை-ஆரம்பம்/175-348703) · `ta`
 
-அதன்படி, நாளை ஆரம்பமாகவுள்ள சிவனொளிபாத மலை பருவம், அடுத்த வருடம் மே மாதம் 13ஆம் திகதி வரை இடம்பெறும் என, இரத்தினபுரி மாவட்ட செயலாளர் வசந்த குணரத்னவினால் விசேட வர்த்தமானி அறிவித்தல் நேற்று (12) வெளியிடப்பட்டது.AN
+Here's a summary of 200 characters:
+
+
+
+"Sivanolipada Mountain Seas" event extended until May 13, 2024, according to Ratnapura District Secretary Vasantha Gunaratne's gazette notification.
+
+🟩
+
+Accordingly, a special gazette notification was released yesterday (12) by the Ratnapura District Secretary Vasantha Gunaratne that the Sivanolipada Mountain season will be held till May 13 next year.
 
 ◼️
 
 [Data](articles/25d79984.json)
 
+[Extended Data](ext_articles/25d79984.ext.json)
+
 ---
 
-### நீதி அமைச்சர் ஹர்ஷன நாணயக்காரவின் கலாநிதிப் பட்டம்  நீக்கப்பட்டமை தொடர்பில் பாராளுமன்றம் விளக்கம்
+### Parliament Explains on the dismissal of the Minister of Justice Harshana Nanayakkara
 
 *2024-12-13 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201157) · `ta`
 
-பாராளுமன்ற இணையத்தளத்தில் உறுப்பினர்களின் தகவல் திரட்டில் தகவல்களை உள்ளீடு செய்யும்போது அமைச்சர் சட்டத்தரணி ஹர்ஷண நாணயக்காரவின் பெயருக்கு முன்னால் தவறுதலாக “கலாநிதி” எனக் குறிப்பிடப்பட்டுள்ளது. அந்தத் தவறை நிவர்த்தி செய்வதற்கு தற்பொழுது நடவடிக்கை எடுக்கப்பட்டு வருவதாக பாராளுமன்றம் தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-பாராளுமன்ற இணையதளத்தில் உறுப்பினர்களின் தகவல் திரட்டில் நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் சட்டத்தரணி ஹர்ஷன நாணயக்காரவின் பெயருக்கு முன்னால் குறிப்பிடப்பட்டிருந்த கலாநிதிப் பட்டம் தொடர்பில் பாராளுமன்றம் வெளியிட்ட ஊடக அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
 
-பாராளுமன்ற இனையத்தளத்தில் உறுப்பினர்களின் தகவல் திரட்டில் நீதி மற்றும் தேசிய ஒருமைப்பாட்டு அமைச்சர் சட்டத்தரணி கௌரவ ஹர்ஷன நானாயக்கார அவர்களின் பெயருக்கு முன்னால் குறிப்பிடப்பட்டிருந்த கலாநிதிப் பட்டம் தொடர்பாக ஊடகங்களில் வெளியிடப்படும் அறிக்கைகள் தொடர்பில் பின்வரும் விடயங்களை வலியுறுத்துகிறோம்.
+
+Parliament clarifies error: Minister Harshana Nanayakkara's degree incorrectly listed as "doctor." Steps being taken to correct mistake on parliamentary website. Apologizes for inconvenience caused.
+
+🟩
+
+When the members of the Members of the Parliament are entered into the information collection, Minister Attorney -at -Law Harshana Nanayakkara has mistakenly referred to as "doctor".. Parliament said that steps are being taken to address the mistake.
+
+This was stated in a media statement issued by Parliament regarding the doctoral degree mentioned before the Minister of Justice and National Integration Minister Harshana Nanayakkara.
+
+In the Parliamentary Site, we emphasize the following issues regarding the doctorate in the media regarding the degree of the Media and the Name of the Minister of Justice and the National Integration Minister of Justice Harshana Nanayaka.
+
+The form of information provided to Parliament by the Minister is not included in the form of a doctor's degree, and the name of the Minister of Attorney Harshan Nanayakkara has been referred to as the name of the Minister of Attorney Harshana Nanayakkara. Accordingly, steps are being taken to address the mistake.
 
 ...
 
 [Data](articles/d8d2c226.json)
 
+[Extended Data](ext_articles/d8d2c226.ext.json)
+
 ---
 
-### பஸ் சக்கரத்தில் சிக்குண்டு வயோதிப பெண் உயிரிழப்பு!
+### Sikkundu elderly woman dies on bus wheel
 
 *2024-12-13 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201146) · `ta`
 
-எல்பிட்டிய - பிடிகல வீதியில் தலகஸ்பே பகுதியில் பஸ் சக்கரத்தில் சிக்குண்டு வயோதிப பெண் ஒருவர் உயிரிழந்துள்ளதாக பிடிகல பொலிஸார் தெரிவித்தனர்.
+Elderly woman (64) killed on bus wheel in Elpitiya. Private bus traveling from Elpitiya to Bigala. Passenger trapped on rear. Bus driver arrested. Body at Elpitiya Hospital.
 
-உயிரிழந்தவர் கலகஸ்பே பிரதேசத்தைச் சேர்ந்த 64 வயதுடைய வயோதிப பெண் ஒருவர் ஆவார்.
+🟩
 
-எல்பிட்டியவில் இருந்து பிடிகல நோக்கிப் பயணித்த தனியார் பஸ் ஒன்று, பஸ் தரிப்பிடத்தில் பயணிகளை இறக்கி விட்டு வலது பக்கமாக திரும்ப முயன்ற போது வீதியில் பயணித் பெண் ஒருவர் பஸ்ஸின் பின்புறத்தில் உள்ள சக்கரமொன்றில் சிக்கி காயமடைந்துள்ளார்.
+An elderly woman died at a bus wheel in Thalakaspe in Elpitiya - Pitigala road, Bidigala police said.
 
-சடலம் எல்பிட்டிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், விபத்து தொடர்பில் பஸ் சாரதி கைது செய்யப்பட்டுள்ளார்.
+The deceased is a 64 -year -old elderly woman from Kalakasphe area.
+
+A private bus traveling from Elpitiya to Bigala was injured when a passenger on the street was trapped on the back of the bus when he tried to return to the bus.
+
+The body has been placed in the funeral room of the Elpitiya Hospital and the bus driver has been arrested in connection with the accident.
 
 ◼️
 
 [Data](articles/f3ab1ef2.json)
 
+[Extended Data](ext_articles/f3ab1ef2.ext.json)
+
 ---
 
-### லொறியை மோதி கவிழ்த்திய காட்டு யானை - வயோதிப பெண் உயிரிழப்பு
+### Wild Elephant
 
 *2024-12-13 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201156) · `ta`
 
-மொனராகலை- கோனகங்ஆர பொலிஸ் பிரிவிற்கு உட்பட்ட புத்தல - கதிர்காமம் வீதியில் நேற்று வியாழக்கிழமை (12) காலை காட்டு யானை ஒன்று வீதியில் பயணித்த லொறி ஒன்றை மோதி கவிழ்த்தி விபத்துக்குள்ளாக்கியுள்ளதாக கோனகங்ஆர பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-விபத்தின் போது , லொறியின் முன் இருக்கையில் அமர்ந்திருந்த வயோதிப பெண் லொறியின் அடியில் சிக்கி பலத்த காயங்களுக்கு உள்ளாகியுள்ள நிலையில் புத்தல வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+
+Lorry crashes into elephant on Budhala-Kadirgamam road. Elderly woman dies after severe injuries. Incident occurs in Moneragala-Konakanga police division.
+
+🟩
+
+A lorry crashed into a wild elephant on the road on Thursday morning at the Budhala -Kadirgamam road, which belongs to the Moneragala -Konakanga police division, Konakanga Ara police said.
+
+During the accident, an elderly woman sitting in the front seat of the lorry died after being admitted to the Budhala Hospital after being severely injured under the lorry.
 
 ◼️
 
 [Data](articles/6f158e43.json)
 
+[Extended Data](ext_articles/6f158e43.ext.json)
+
 ---
 
-### කොළඹ වරාය නගර ආර්ථික කොමිසම සඳහා සාමාජිකයන් පත් කෙරේ
+### Members appointed for Colombo Port City Economic Commission
 
 *2024-12-13 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204336) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් කොළඹ වරාය නගර ආර්ථික කොමිසම සඳහා සාමාජිකයන් පත් කරනු ලැබ තිබේ.
+Colombo Port City Economic Commission: President appoints members including Harsha Amarasekera as Chairman. Committee includes Damien Cabraal, Mohan Abeywardena, Sanjaya Kulathunga, and Dr. Harsha Subasinghe.
 
-ඊට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා කොමිසමේ සාමාජිකයින් වෙත අද (13) ජනාධිපති කාර්යාලයේදී පිරිනැමීය.
+🟩
 
-ඒ අනුව කොළඹ වරාය නගර ආර්ථික කොමිසමේ සභාපති ලෙස ජනාධිපති නීතිඥ හර්ෂ අමරසේකර මහතා පත් කර ඇත.
+President Anura Kumara Dissanayake has appointed members to the Colombo Port City Economic Commission.
 
-ඩේමියන් අමල් කබ්රාල්,  මොහාන් රේ අබේවර්ධන, සංජය කුලතුංග සහ ආචාර්ය හර්ෂ සුබසිංහ එම කමිටුවේ සෙසු සාමාජිකයන් වෙයි.
+The relevant appointment letters was presented to the members of the Secretary to the Commission today (13) at the Presidential Secretariat.
+
+President's Counsel Harsha Amarasekera has been appointed as the Chairman of the Colombo Port City Economic Commission.
+
+Damien Amal Cabraal, Mohan Ray Abeywardena, Sanjaya Kulathunga and Dr. Harsha Subasinghe are the rest of the committee.
 
 ◼️
 
 [Data](articles/5ef81464.json)
+
+[Extended Data](ext_articles/5ef81464.ext.json)
 
 ---
 
@@ -143,6 +199,8 @@ The party also claims that the Speaker has avoided addressing public concerns an
 ...
 
 [Data](articles/9718ea12.json)
+
+[Extended Data](ext_articles/9718ea12.ext.json)
 
 ---
 
@@ -286,17 +344,23 @@ In addition, information on all members of the parliamentary website is being co
 
 ---
 
-### මෙවර කලාභුෂණ රාජ්‍ය සම්මාන උළෙල අරලියගහ මන්දිරයේ
+### This year's state awards ceremony at Temple Trees
 
 *2024-12-13 13:08:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-කලාභුෂණ-රාජ්‍ය-සම්මාන-උළෙල-අරලියගහ-මන්දිරයේ/11-413617) · `si`
 
-බුද්ධ ශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය සහ සංස්කෘතික කටයුතු දෙපාර්තමේන්තුව මඟින් සංවිධානය කරනු ලබන කලාභුෂණ රාජ්‍ය සම්මාන ප්‍රධාන උළෙල පසුගියදා  (12) වැනි දින පෙ.ව.10.00ට අමාත්‍ය ආචාර්ය හිනිදුම සුනිල් සෙනෙවිගේ ප්‍රධානත්වයෙන් අරලියගහ මන්දිරයේදී පැවැත්විනි.
+State awards ceremony at Temple Trees: Minister Dr. Hiniduma Sunil Senevi presided over event honoring 200+ senior artists exceeding 60 years in literature, music, drama, dance, art.
 
-සාහිත්‍ය, සංගීතය, නාට්‍ය, නර්තනය, චිත්‍ර හා මූර්ති සහ සෙසු කලා අංශ යනාදී කලා ක්ෂේත්‍ර සඳහා වයස අවුරුදු 60 ඉක්මවූ ජ්‍යෙෂ්ඨ කලාකරුවන් 200 දෙනෙකු ජීවිතේ එක් වරක් පමණක් පිරිනමන කලා භූෂණ රාජ්‍ය සම්මානයෙන් පිදුම් ලැබීය. (I J)
+🟩
+
+The Ministry of Buddha Sasana, Religious and Cultural Affairs and the Department of Cultural Affairs was held at Temple Trees under the patronage of Minister Dr. Hiniduma Sunil Senevi.
+
+200 senior artists who exceeded 60 senior artistes who exceeded 60 years of art in the art areas of literature, music, drama, dance, art and other arts as well. (I J)
 
 ◼️
 
 [Data](articles/bf03072e.json)
+
+[Extended Data](ext_articles/bf03072e.ext.json)
 
 ---
 

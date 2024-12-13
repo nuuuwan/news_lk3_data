@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 11:01:24**
+As of **2024-12-13 10:42:52**
 
 ## Newspaper Stats
 
@@ -26,35 +26,29 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,888 (99.9%) of 59,936 articles have been extended.
+59,887 (99.9%) of 59,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### Namal voiced for a Tamil youth fighting in Tamil Nadu
+### தமிழ்நாட்டில் போராடும் தமிழ் இளைஞனுக்காக குரல் கொடுத்த நாமல்
 
 *2024-12-13 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டில்-போராடும்-தமிழ்-இளைஞனுக்காக-குரல்-கொடுத்த-நாமல்/175-348681) · `ta`
 
-Namal Rajapakse urges govt to repatriate Tamil youth from TN protests. He seeks Indian citizenship or return to SL.
+தமிழகத்தின் இராமநாதபுரம் மாவட்ட ஆட்சியர் அலுவலகத்துக்கு முன்பாக தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட இலங்கையரை நாட்டுக்கு அழைத்து வருவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ வலியுறுத்தியுள்ளார்.
 
-🟩
+இலங்கையில் இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது தமிழகத்தில் தஞ்சமடைந்த ஒருவர், தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி மண்டியிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்ட காணொளி ஒன்றைத் தமிழக ஊடகங்கள் வெளியிட்டுள்ளன.
 
-Parliamentarian Namal Rajapakse has urged the government to take steps to bring the Sri Lankans who were protesting in front of the Ramanathapuram district collector's office in Tamil Nadu.
+தமக்கு இந்தியக் குடியுரிமை வழங்க வேண்டும் அல்லது தம்மை மீண்டும் இலங்கைக்குத் திருப்பி அனுப்புவதற்கு நடவடிக்கை எடுக்கப்பட வேண்டும் எனக் குறித்த நபர் வலியுறுத்தியுள்ளார்.
 
-The Tamil media has released a video of a man who has been sheltered in Tamil Nadu during the civil war in Sri Lanka and demanded that he be sent back to Sri Lanka.
+இந்தநிலையில், இலங்கை அரசாங்கம், இந்திய அரசாங்கத்துடன் இணைந்து உடனடியாக குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்கு நடவடிக்கை எடுக்க வேண்டும் என நாமல் வலியுறுத்தியுள்ளார்.
 
-The person has urged him to grant Indian citizenship or return to Sri Lanka to return to Sri Lanka.
-
-In the meantime, Namal urged the Sri Lankan government to take immediate steps to bring the person to Sri Lanka with the Indian government.
-
-Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessary assistance to bring the person to Sri Lanka.. Remble
+மேலும், குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்குத் தேவையான உதவிகளை வழங்குவதற்குத் தாம் தயாராகவுள்ளதாகவும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார். R
 
 ◼️
 
 [Data](articles/7166965a.json)
-
-[Extended Data](ext_articles/7166965a.ext.json)
 
 ---
 
@@ -62,7 +56,7 @@ Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessa
 
 *2024-12-13 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104205/former-sri-lankan-diplomat-in-australia-fined-more-than-100000-for-entrapping-domestic-worker) · `en`
 
-A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the Australian federal court.
+A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the federal court.
 
 The fine is in addition to more than $500,000 in unpaid wages and interest she has already been ordered to restore, but has so far refused to pay.
 

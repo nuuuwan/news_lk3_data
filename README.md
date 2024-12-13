@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 16:27:41**
+As of **2024-12-13 16:01:50**
 
 ## Newspaper Stats
 
-*Scraped **60,003** Articles*
+*Scraped **60,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,79 +20,17 @@ adalk | 5,699
 adaderanalk | 7,305
 tamilmirrorlk | 8,580
 virakesarilk | 9,841
-adaderanasinhalalk | 10,373
+adaderanasinhalalk | 10,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,931 (99.9%) of 60,003 articles have been extended.
+59,927 (99.9%) of 60,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
-
-### හිටපු CCD අධ්‍යක්ෂ රිමාන්ඩ්
-
-*2024-12-13 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204342) · `si`
-
-අත්අඩංගුවට ගත් කොළඹ අපරාධ කොට්ඨාසයේ හිටපු අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරි නෙවිල්ද සිල්වා මහතා ලබන 20 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කිරිමට රත්නපුර මහෙස්ත්‍රාත් සමන් ඩී. කේ. බරණලියනගේ මහතා අද (13) නියෝග කළේය .
-
-රුපියල් කෝටි 14ක් වටිනා මැණික්, වාහන ඇතුළු දේපොළ තොගයක් බලහත්කාරයෙන් ලබාගත් බව කියන සිද්ධියක් ගැන කොළඹ අපරාධ කොට්ඨාසයට කළ පැමිණිල්ලකට අනුව එම දේපොළ ඒක පාර්ශ්විකව පැමිණිලිකරුට ලබාදිම සම්බන්ධයෙන් ඔහුව පසුගියදා අත්අඩංගුවට ගැනුණි.
-
-අපරාධ පරික්ෂණ දේපාර්තමේන්තුව විසින් සැකකාර සහකාර පොලිස් අධිකාරිවරයා අත්අඩංගුවට ගෙන රත්නපුර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබුණි.
-
-2023 වසරේ අගෝස්තු 2 වනදා කුරුවිට මැණික් ව්‍යාපාරිකයෙකු කොළඹ අපරාධ කොට්ඨාසය වෙත පැමිණ ඔහුට අයත් රුපියල් කෝටි 14ක් පමණ වටිනා දේපොළ බලහත්කාරයෙන් ලබාගත් බවට පැමිණිල්ලක් කර තිබු බව සඳහන් ය.
-
-එම පැමිණිල්ලට අනුව සැකකාර සහකාර පොලිස් අධිකාරිවරයා ඒක පාර්ශ්වික ලෙස කටයුතු කර ඇතැයි අපරාධ පරික්ෂණ දේපාර්තමේන්තුවේ මහජන පැම්ණිලි අංශයට ලද පැමිණිල්ලක් අනුව සහකාර පොලිස් අධිකාරිවරයාව අත්අඩංගුවට ගෙන රත්නපුර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබිය.
-
-...
-
-[Data](articles/89e664b5.json)
-
----
-
-### සියලු කොටස් මිල දර්ශකය තැබූ වාර්තාව
-
-*2024-12-13 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204341) · `si`
-
-කොළඹ කොටස් වෙළෙඳපොළෙහි සියලු කොටස් මිල දර්ශකය අදත් (13) වාර්තාගත ලෙස ඉහළ ගියේය.
-
-අද දිනය නිමාවන විට එහි අගය සටහන් වූයේ ඒකක 14,205.34ක් ලෙසට ය.
-
-අද දිනය තුළ දී 169.53කින් සියලු කොටස් මිල දර්ශකයේ අගය ඉහළ ගියේය.
-
-◼️
-
-[Data](articles/ac0008b3.json)
-
----
-
-### වසරේ ගතවූ කාලය තුළ විදෙස් ගත වූ ප්‍රමාණය තුන් ලක්ෂය ඉක්මවයි
-
-*2024-12-13 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204340) · `si`
-
-2024 වර්ශයේ ගතවූ කාලය තුළ රැකියා සඳහා විදේශ ගතවූ ශ්‍රී ලාංකිකයින් ප්‍රමාණය ලක්ෂ 03 ඉක්මවා ඇති බව විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
-
-එම කාර්යාංශය පැවසුවේ අද (13) වන විට එම ප්‍රමාණය 300,162ක් වන බවය.
-
-පසුගිය වසර 10ක කාලයකදී ශ්‍රමිකයින් ලක්ෂ 03ක ප්‍රමාණය ඉක්මවා ගිය දෙවන අවස්ථාව මෙය වන අතර මීට පෙර 2022 වර්ශයේදී ශ්‍රමිකයින් 310,948 ක් රැකියා සඳහා විදේශ ගතවී තිබේ.
-
-2024 වර්ෂය තුළදී පිරිමි ශ්‍රමිකයින් 177,804 හා කාන්තාවන් 122,358 ක් රැකියා සඳහා විදේශ ගතවී ඇත.
-
-අදාල කාලය තුළ විදේශ ගතවූ මුළු සංඛ්‍යාවෙන් කාන්තාවන් රැකියා සඳහා විදේශ ගතවීම 40% ක් වන අතර පිරිමි ශ්‍රමිකයින් විදේශ ගතවීම මුළු සංඛ්‍යාවෙන් 60% ක් දක්වා ඉහළ ගොස් තිබේ.
-
-මෙම කාලය තුළ ස්වයං මාර්ගයෙන් විදේශ ගතවූ ප්‍රමාණය 184,140 ක් වන අතර, විදේශ රැකියා නියෝජිතායතන මාර්ගයෙන් 116,022 දෙනෙකු විදේශ ගතවී ඇතැයිද එම කාර්යාංශය පවසයි.
-
-ශ්‍රි ලාංකිකයින් වැඩි වශයෙන් රැකියා සඳහා විදේශ ගතවී ඇත්තේ කුවේට් රාජ්‍යයට වන අතර, එම ප්‍රමාණය 73,995 කි.
-
-දෙවනුව වැඩිම ප්‍රමාණයක් විදේශ ගතව ඇත්තේ එක්සත් අරාබි එමීර් රාජ්‍යයට වන අතර, එම ප්‍රමාණය 49,499 කි.
-
-...
-
-[Data](articles/cc67a83c.json)
-
----
 
 ### Clerk remanded at the passport office of bribery
 
@@ -158,27 +96,17 @@ After speaking to the media, he said that after a program in Colombo today, he s
 
 ---
 
-### Proposal to appoint a Select Committee to check the educational qualifications of the Masters MPs
+### මාලිමා මන්ත්‍රීවරුන්ගේ අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීමට තේරීම් කාරක සභාවක් පත් කරන්නැයි යෝජනාවක්
 
 *2024-12-13 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204337) · `si`
 
-Here's a summary in 200 characters:
+ජාතික ජන බලවේගය නියෝජනය කරන මැති ඇමතිවරුන්ගේ අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීම සඳහා තේරීම් කාරක සභාවක් පත්කරන ලෙස යෝජනාවක් ඉදිරිපත් කිරීමට එක්සත් ජාතික පක්ෂය සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ තීරණය කර තිබේ.
 
-
-
-New Party & New Democratic Front propose Select Committee to verify educational qualifications of all MPs. To be presented to Parliament by MP Jeevan Thondaman.
-
-🟩
-
-The New Party and the New Democratic Front has decided to submit a proposal to appoint a PSC to check the educational qualifications of the National Floor.
-
-Political sources say that the proposal is to be presented to Parliament by MP Jeevan Thondaman.
+පාර්ලිමේන්තු මන්ත්‍රී ජීවන් තොණ්ඩමන් මහතා විසින් අදාළ යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව දේශපාලන ආරංචි මාර්ග පවසයි.
 
 ◼️
 
 [Data](articles/2f7ec168.json)
-
-[Extended Data](ext_articles/2f7ec168.ext.json)
 
 ---
 
@@ -197,8 +125,6 @@ The other appointed members are Damien Amal Cabraal, Mohan Ray Abeywardena, Sanj
 ◼️
 
 [Data](articles/e4ca8e55.json)
-
-[Extended Data](ext_articles/e4ca8e55.ext.json)
 
 ---
 
@@ -460,37 +386,25 @@ Yasmin Sukka said the 2009 Mullivaikkal massacre was the main reason for account
 
 ---
 
-### Any responsibility of the government, action will be taken
+### ආණ්ඩුවේ මොන වගකීම දැරුවත් වැරද්දක් කර ඇත්නම් ක්‍රියා මාර්ග ගන්නවා
 
 *2024-12-13 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මොන-වගකීම-දැරුවත්-වැරද්දක්-කර-ඇත්නම්-ක්‍රියා-මාර්ග-ගන්නවා/11-413618) · `si`
 
-Here's a summary of 200 characters:
+"කුමන තරාතිරමක කෙනෙක් වුවත් වරදක් කර ඇත්නම් ඊට අදාළ ක්‍රියා මාර්ග ගන්නවා"
 
+"ජනතාව අප කෙරෙහි තැබූ විශ්වාසය කුමන ආකාරයකින් හෝ පලුදු වීමට අප ඉඩ තබන්නේ නැහැ"
 
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ අද (13) උදෑසන රජයේ මාධ්‍ය ප්‍රධානීන් සමඟ පැවැත් වූ හමුවේදීය.
 
-Pres. Anura Kumara Dissanayake addresses government responsibilities: "Action will be taken" for astromagnetic issues. Emphasizes public trust in national power. Promises swift action against mistakes.
+"දශක හතකට වැඩි කාලයක් තිස්සේ මේ රටේ ජනතාව විවිධ ආණ්ඩු බිහි කළා. විවිධ ආණ්ඩු පෙරළුවා.ඉතිහාසයේ පළමු වෙනි වතාවට මෙවර මේ රටේ ජනතාව අවස්ථා දෙකකදී අපට සහ ජාතික ජන බලවේගයට ලබා දුන් ඓතිහාසික ජන වරමේ අර්ථය සහ හරය කුමක්ද කියන එක සම්බන්ධව අපට පුළුල් කියවීමක් තියෙනවා.
 
-🟩
+ප්‍රමිතිගත සහ ස්ථාවර රටක් නිර්මාණය කරනු ඇතැයි යන විශ්වාසය ඇතිව මේ රටේ ජනතාව ජාතික ජන බලවේගයේ ආණ්ඩුව බිහි කළා.ඒ සුවිශේෂී විශ්වාසයට අබමල් රේණුවකින් හෝ හානියක් වන්නට අපේ ආණ්ඩුව කිසි විටෙකත් ඉඩක් තබන්නේ නැහැ.
 
-"What astromagnear is done, the relevant action will be taken to it"
-
-"The people do not allow the people of what way or undermine us"
-
-President Anura Kumara Dissanayake made this observation at the meeting with government media heads this morning (13).
-
-"For more than seven decades, the people of this country have given birth to various governments. The first time in the first time in the first time this year, the people of this country have a comprehensive reading of the historically popularity and essence of the national power.
-
-The people of this country have produced the government of the national power with the belief that a standard and stable country will create a standard and stable country.
-
-In very short, our government is not ready to protect anyone who is wrong in the country for any cause. Not only in the country but also in our government, but if we make a mistake, we will not hesitate to take action against that mistake.
-
-We do not think twice to take all possible measures. "
+ඉතාම කෙටියෙන් කිවහොත්,රට තුළ වැරදි කරන කිසිවෙකු, කිසිම හේතුවකට ආරක්ෂා කිරීමට අපේ ආණ්ඩුව සූදානම් නැහැ. රට තුළ පමණක් නෙවෙයි, අපේ ආණ්ඩුව තුළ කවර තරාතිරමක කෙනෙක් වුණත් වැරැද්දක් කරනවානම් ඒ වැරැද්දට එරෙහිව ක්‍රියා මාර්ග ගන්න අපි පැකිළෙන්නේ නැහැ.
 
 ...
 
 [Data](articles/d0a2f1bf.json)
-
-[Extended Data](ext_articles/d0a2f1bf.ext.json)
 
 ---
 
@@ -640,31 +554,19 @@ The arrest stemmed from a complaint by a West Indies player on his team, who ref
 
 ---
 
-### Fisheries Minister Chandrasekhar emphasizes before the President's visit to India
+### இந்திய மீனவர்கள் இழுவைப் படகுகளை பயன்படுத்துவதை நிறுத்தினால் மாத்திரமே பாக்கு நீரிணையில் மீனவர் பிரச்சினைக்கு தீர்வு - ஜனாதிபதியின் இந்திய விஜயத்துக்கு முன் கடற்றொழில் அமைச்சர் சந்திரசேகர் வலியுறுத்தல்
 
 *2024-12-13 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201147) · `ta`
 
-Here's a summary of the article in approximately 200 characters:
+இழுவைப்படகுகளை பயன்படுத்துவதை நிறுத்தினால் மாத்திரமே இலங்கையின் வட பகுதி மீனவர்களையும் தமிழ்நாட்டின் தினச்சம்பள மீனவர்களையும் பெரிதும் பாதிக்கின்ற நீண்டகால பாக்கு நீரிணை மீன்பிடி நெருக்கடிக்கு தீர்க்கமான முடிவைக் காணக்கூடியதாக இருக்கும் என்று இலங்கையின் கடற்தொழில், நீரியல்வள அமைச்சர் இராமலிங்கம் சந்திரசேகர் கூறினார்.
 
+இந்த மீன்பிடி நெருக்கடி பல வருடங்களாக இந்தியாவுக்கும் இலங்கைக்கும் இடையில் முக்கியமான ஒரு இராஜதந்திர பிரச்சினையாக நீடித்துவருகிறது. அடுத்தவாரம் இலங்கை ஜனாதிபதி அநுரா குமார திசாநாயக்க இந்தியாவுக்கு மேற்கொள்ளவிருக்கும்  விஜயத்தின்போது இந்த பிரச்சினை ஆராயப்படக்கூடிய சாத்தியம் இருக்கிறது.
 
-
-Sri Lanka's Fisheries Minister Chandrasekhar addresses India visit, focusing on resolving long-standing fishing disputes between Sri Lankan and Tamil Nadu fishermen. He emphasizes the need to protect marine resources and increase seaweed production to address declining protein intake.
-
-🟩
-
-Sri Lanka's Fisheries and Aquatic Resources Minister Ramalingam Chandrasekhar said that the long -standing fishermen of Sri Lanka and Tamil Nadu's daily fishermen would be a decisive decision for the fishing crisis.
-
-This fishing crisis has been an important diplomatic issue between India and Sri Lanka for many years. The issue is likely to be explored during his visit to India next week.
-
-Chandrasekhar, who represents the Northern Jaffna district in Parliament, said, "People from all ethnicities and all areas, including the Northern and Eastern Provinces, have given us a major decree in the recent elections. We have a responsibility to take care of their concerns."
-
-"The long -standing issue of fishing in Tamil Nadu by using drag in Tamil Nadu is a major concern for our North Fishermen community," he told 'The Hindu' on Wednesday.
+" வடக்கு, கிழக்கு மாகாணங்கள் மற்றும் மலையகம் உட்பட சகல இனங்களையும் சகல பிராந்தியங்களையும் சேர்ந்த மக்கள் அண்மையில் நடைபெற்ற தேர்தல்களில் எங்களுக்கு (தேசிய மக்கள் சக்திக்கு ) ஒரு பெரிய ஆணையைத் தந்திருக்கிறார்கள்.  அவர்களது அக்கறைகளை கவனித்து தீர்வு காணவேண்டிய ஒரு பொறுப்பு எமக்கு இருக்கிறது" என்று வடக்கு யாழ்ப்பாண மாவட்டத்தை பாராளுமன்றத்தில் பிரதிநிதித்துவப்படுத்தும் சந்திரசேகர் கூறினார்.
 
 ...
 
 [Data](articles/af6f13b9.json)
-
-[Extended Data](ext_articles/af6f13b9.ext.json)
 
 ---
 
@@ -2283,5 +2185,65 @@ Based on the situation till 8 pm last night, 39 people are staying at the Point 
 [Data](articles/3571d7b2.json)
 
 [Extended Data](ext_articles/3571d7b2.ext.json)
+
+---
+
+### To strengthen the financial framework
+
+*2024-12-13 03:43:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதிக்-கட்டமைப்பை-பலப்படுத்தவேண்டும்/175-348672) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake advises Finance Ministry officials to strengthen Sri Lanka's financial structure. He promises government support for the central bank's efforts to stabilize finances and improve effectiveness."
+
+🟩
+
+President Anura Kumara Dissanayake has advised the officials of the Finance Ministry to take necessary steps to strengthen the country's financial structure and make it effective.
+
+President Anura Kumara Dissanayake was advised at a meeting held at the Presidential Office yesterday (12) with officials of the Ministry of Finance.
+
+The President said the government would provide all measures to be taken by the central bank as an independent company to stabilize the country's financial situation and provide cooperation and facilities.
+
+The President also advised the authorities to take steps to create a good mechanism to make Sri Lanka's financial activities effective.
+
+After examining the full advances of the economy and financial structures, the focus was on the policies to ensure the financial stability and the compensation of the financial framework by the central bank.(a)
+
+◼️
+
+[Data](articles/e134fd88.json)
+
+[Extended Data](ext_articles/e134fd88.ext.json)
+
+---
+
+### AIBS affirms leadership in delivery of internationally accredited STEM programs in Sri Lanka
+
+*2024-12-13 03:24:00* · [`islandlk`](http://island.lk/aibs-affirms-leadership-in-delivery-of-internationally-accredited-stem-programs-in-sri-lanka/) · `en`
+
+The Asian Institute of Business & Science (AIBS) founded in 2018 held a celebratory event marking its journey of six years – from humble beginnings to an entity that continues to raise the bar in imparting higher education excellence. Firmly embedded into the realm of worldclass transnational education with the affiliation etched with Edge Hill University, UK in 2022, AIBS currently offers 21 study courses & programs across 14 awarding bodies, universities and higher education institutions to 600 plus learners.
+
+...
+
+[Data](articles/9baf6e76.json)
+
+[Extended Data](ext_articles/9baf6e76.ext.json)
+
+---
+
+### Empowering the next generation: St. Benedict’s College brings STEM education to life
+
+*2024-12-13 03:14:00* · [`islandlk`](http://island.lk/empowering-the-next-generation-st-benedicts-college-brings-stem-education-to-life/) · `en`
+
+The education landscape in Sri Lanka is about to witness a transformative leap. On January 17, 2025, St. Benedict’s College, Colombo, will launch its much-anticipated STEM education programme—a pioneering initiative designed to shape a generation of forward-thinking innovators.
+
+At a time when the world is racing toward technological advancements, this programme ensures that the students of St. Benedict’s don’t just keep up but lead the way. From building robots to designing drone applications, these young minds will be diving headfirst into the future.
+
+What makes STEM education at St. Benedict’s so revolutionary is its hands-on approach. Instead of limiting students to theory, this programme gives them opportunities to tackle real-world challenges with practical, innovative solutions.
+
+...
+
+[Data](articles/5554e5ae.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 22:02:34**
+As of **2024-12-13 22:29:05**
 
 ## Newspaper Stats
 
-*Scraped **60,044** Articles*
+*Scraped **60,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,702
-adaderanalk | 7,311
+adaderanalk | 7,312
 tamilmirrorlk | 8,588
-virakesarilk | 9,855
+virakesarilk | 9,864
 adaderanasinhalalk | 10,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,985 (99.9%) of 60,044 articles have been extended.
+59,991 (99.9%) of 60,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Sri Lanka has successfully completed its international bonds - Ministry of Finance
+
+*2024-12-13 21:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201223) · `ta`
+
+Sri Lanka completes international bond restructuring. Ministry of Finance confirms successful transaction. Market participants view process as complex. Completion expected by 20th.
+
+🟩
+
+Sri Lanka has successfully completed the restructuring of its international bonds, the Ministry of Finance said.
+
+According to the initial data of Sri Lanka's International Sovereignty Backed Transaction, which ended on December 12, the majority of the market participants had the most.
+
+They consider it a very complicated and challenging sovereign debt restoration.
+
+The relevant measures will be completed on the 16th and the agreements will be completed by the 20th.
+
+◼️
+
+[Data](articles/66501bd6.json)
+
+[Extended Data](ext_articles/66501bd6.ext.json)
+
+---
+
+### Bill and Melinda Gates Forum Expanding the Services of Sri Lanka
+
+*2024-12-13 21:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201222) · `ta`
+
+Bill & Melinda Gates Foundation expands services in Sri Lanka: Financial aid for nutrition, agriculture, digitalization, livestock development programs. Meeting at Presidential Secretariat attended by officials from both sides.
+
+🟩
+
+The Bill and the Melinda Gates Forum has been concerned about expanding services in Sri Lanka.
+
+Accordingly, the Bill and the Melinda Gates Forum have agreed to provide financial and technical assistance to Sri Lanka to carry out the Nutrition Program, Daylight Providing Day Lood, Agricultural Modernization Program, Digitalization and Livestock Development Program.
+
+The Minister of Labor and Deputy Minister of Economic Development, Professor Anil Jayantha Fernando, led by officials of the Bill and Melinda Gates forum at the Presidential Secretariat on Friday (13).
+
+The Bill and the Melinda Gates forum have expressed their option to find out the main needs of the new government and provide the necessary assistance.
+
+Deputy Minister of Finance and PlanningZonal Representative Dr. Jamal Khan, Dr Jamal Khan and Digital Public Infrastructure Director Sanjay Jain were also present.
+
+◼️
+
+[Data](articles/44fcf8c5.json)
+
+[Extended Data](ext_articles/44fcf8c5.ext.json)
+
+---
+
+### Macron names François Bayrou as French PM after government collapse
+
+*2024-12-13 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104222/macron-names-franois-bayrou-as-french-pm-after-government-collapse) · `en`
+
+French President Emmanuel Macron named key ally Francois Bayrou as his fourth prime minister of 2024 on Friday, but the scale of the challenge facing the veteran centrist was immediately clear as the Socialist Party refused to join his coalition government.
+
+Bayrou, 73, gave a sober assessment of whether he could tame a hung parliament that ousted his predecessor, Michel Barnier, just last week.
+
+“It is a long road, everyone knows that,” he told reporters. “I am not the first to take a long road.”
+
+France’s festering political malaise has raised doubts about whether Macron will complete his second presidential term until 2027.
+
+It has also lifted French borrowing costs and left a power vacuum in the heart of Europe, just as Donald Trump heads to the White House and Germany braces for new elections following the collapse of its governing coalition.
+
+...
+
+[Data](articles/f4405bfb.json)
+
+[Extended Data](ext_articles/f4405bfb.ext.json)
+
+---
 
 ### Fire near the Kangarama Vihara
 
@@ -55,6 +127,22 @@ The fire department said that the fire was brought under control and no one was 
 [Data](articles/5c92a2c3.json)
 
 [Extended Data](ext_articles/5c92a2c3.ext.json)
+
+---
+
+### கங்காராம விகாரைக்கு அருகில் உணவகம் ஒன்றில் தீ
+
+*2024-12-13 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201221) · `ta`
+
+கொழும்பு கங்காராம விகாரைக்கு அருகில் பெரஹெர மாவத்தையில் இயங்கி வந்த உணவகம் ஒன்றில் தீ பரவியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+உணவகத்தில் உள்ள எரிவாயு சிலிண்டரில் ஏற்பட்ட கசிவு காரணமாக தீ விபத்து ஏற்பட்டதாக கூறப்படுகிறது.
+
+தீ கட்டுப்பாட்டுக்குள் கொண்டு வரப்பட்டுள்ளதாகவும், யாருக்கும் காயம் ஏற்படவில்லை என்றும் தீயணைப்பு துறையினர் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/46c01811.json)
 
 ---
 
@@ -124,6 +212,22 @@ The public assured the public that all necessary measures were being taken to tr
 
 ---
 
+### எலிக்காய்ச்சல் நோயினால் இதுவரை 58 பேர் பாதிப்பு -  வைத்தியர் ஆ.கேதீஸ்வரன்
+
+*2024-12-13 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201220) · `ta`
+
+யாழ்ப்பாண மாவட்டத்தில் தற்போது பரவி வரும் எலிக்காய்ச்சல் நோயினால் இதுவரை 58 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஆ.கேதீஸ்வரன் தெரிவித்தார்.
+
+யாழ்ப்பாணத்தில் வெள்ளிக்கிழமை (13) இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு கருத்து தெரிவித்த போதே இதனை தெரிவித்துள்ளார்.
+
+இந்நோயாளர்களிடமிருந்து அனுப்பப்பட்ட மாதிரிகளில் 03 பேருக்கு எலிக்காய்ச்சல் நோய் இருப்பதாக கொழும்பு மருத்துவ ஆராய்ச்சி நிறுவனத்தினால் உறுதிப்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2952c5eb.json)
+
+---
+
 ### Fire at a cafeteria near the Gangarama Viharaya
 
 *2024-12-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204351) · `si`
@@ -147,6 +251,34 @@ The fire has not been casualties, he has not suffered any person's casualties.
 [Data](articles/2ce9f0bd.json)
 
 [Extended Data](ext_articles/2ce9f0bd.ext.json)
+
+---
+
+### எல்ல-வெல்லவாய வீதி தடைப்பட்டுள்ளது - அனர்த்த முகாமைத்துவ மத்திய நிலையம்
+
+*2024-12-13 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201219) · `ta`
+
+எல்ல-வெல்லவாய வீதியில்  10 ஆம் கம்பத்திற்கு அருகில் குறித்த சம்பவம் இடம்பெற்றுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e53416e6.json)
+
+---
+
+### இந்திய உயர்ஸ்தானிகர் இலங்கை பிரதமருடன் சந்திப்பு
+
+*2024-12-13 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201218) · `ta`
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா அவர்கள், இலங்கை பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை வெள்ளிக்கிழமை (13) பிரதமர் அலுவலகத்தில் சந்தித்தார். இந்த சந்திப்பு இரு நாடுகளுக்கும் இடையிலான நீண்டகால நட்புறவு மற்றும் மூலோபாய கூட்டாண்மையை எடுத்துக்காட்டுவதாக அமைந்திருந்தது.
+
+தற்போது பல்வேறு அபிவிருத்தி நிலைகளில் உள்ள பல இருதரப்பு திட்டங்களின் முன்னேற்றம் குறித்து இந்த கலந்துரையாடலின் போது கவனம் செலுத்தப்பட்டது.
+
+இந்த தூதுக்குழுவில் உயர்ஸ்தானிகர் சந்தோஷ் ஜா அவர்களுடன் இந்திய உயர்ஸ்தானிகராலயத்தின் சிரேஷ்ட அதிகாரிகளும் இடம்பெற்றிருந்தனர். இலங்கையை பிரதிநிதித்துவப்படுத்தி பிரதமரின் செயலாளர் பிரதீப் சபுதந்திரி, பிரதமரின் மேலதிக செயலாளர் பி.டபிள்யூ.ஜி.சி. சாகரிகா போகஹவத்த, மற்றும் வெளிவிவகார அமைச்சின் தெற்காசியா மற்றும் சார்க் பிரிவு பணிப்பாளர் நாயகம் நிலுக கதுருகமுவ ஆகியோர் இடம்பெற்றிருந்தனர்.
+
+◼️
+
+[Data](articles/97b2596b.json)
 
 ---
 
@@ -191,6 +323,22 @@ He had been out on bail after being in remand custody over charges including pos
 [Data](articles/86b4e4f0.json)
 
 [Extended Data](ext_articles/86b4e4f0.ext.json)
+
+---
+
+### வடக்கு மாகாண வேலையற்ற பட்டதாரிகள் சங்கத்தினரால் கவனயீர்ப்பு போராட்டம்
+
+*2024-12-13 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201217) · `ta`
+
+வடக்கு மாகாண வேலையற்ற பட்டதாரிகள் சங்கத்தின் ஏற்பாட்டில் யாழ் மாவட்ட செயலகத்திற்கு முன்பாக இன்றைய தினம் வெள்ளிக்கிழமை (13) கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+தாங்கள் பட்டப் படிப்பினை நிறைவு செய்து 5 ஆண்டுகளுக்கு மேல் ஆகின்ற போதிலும் அரச வேலைவாய்ப்பு தமக்கு இதுவரை வழங்கப்படவில்லை.
+
+எனவே புதிதாக ஆட்சி அமைத்திருக்கும் அரசாங்கம் தமக்கான அரச நியமனத்தை வழங்கவேண்டும் என்று வலியுறுத்தியே குறித்த போராட்டம் முன்னெடுக்கப்பட்டது.
+
+◼️
+
+[Data](articles/f511d323.json)
 
 ---
 
@@ -632,6 +780,24 @@ President Anura Kumara Dissanayake has said that the election for the provincial
 
 ---
 
+### பிரதி சபாநாயகர் உட்பட மேலும் பலர் போலி பட்டங்களுடன் இருக்கின்றனர் : பெயர் பட்டியலை வெளியிட்டார் பிரேம்நாம் சி தொலவத்த
+
+*2024-12-13 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201179) · `ta`
+
+சபாநாயகர் அசோக சப்புமல் ரன்வல மாத்திரமின்றி பிரதி சபாநாயகர் ரிஷ்வி சாலி, நகர அபிவிருத்தி அமைச்சர் அநுர கருணாதிலக, மின்சக்தி அமைச்சர் புண்ணியஸ்ரீ குமார ஜயக்கொடி, ஹர்ஷண சூரியப்பெரும, அனில் கயந்த, பிமல் ரத்நாயக்க மற்றும் எரங்க குணசேகர உள்ளிட்டோரது கல்வி தகைமைகள் பட்டங்கள் உண்மையானவையாய என்ற சந்தேகம் எழுந்துள்ளதாக முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேம்நாம் சி தொலவத்த தெரிவித்தார்.
+
+வெள்ளிக்கிழமை (13) கொழும்பில் இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+முந்தைய பாராளுமன்றத்தில் சாதாரண தரத்தில் கூட சித்தி பெறாதவர்கள் இருந்த போதிலும், அவர்கள் அதனை மறைக்கவில்லை. தமது கல்வி தகைமைகள் தொடர்பில் மக்களிடம் பொய் கூறவில்லை.
+
+பாராளுமன்றத்தின் இறையான்மையை கேள்விக்குள்ளாக்கும் வகையில் சபாநாயகர் இல்லாத கலாநிதி பட்டத்தை இருப்பதாகக் கூறி மக்களை ஏமாற்றியிருக்கின்றார்.
+
+...
+
+[Data](articles/a8ffb14b.json)
+
+---
+
 ### 46 Principal vacuum in national schools
 
 *2024-12-13 17:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-தேசிய-பாடசாலைகளில்-அதிபர்-வெற்றிடம்/175-348704) · `ta`
@@ -733,6 +899,22 @@ However, he has informed the government that the government could not embarrass 
 [Data](articles/02975bab.json)
 
 [Extended Data](ext_articles/02975bab.ext.json)
+
+---
+
+### ஊடகவியலாளர் பிரகீத் எக்னெலிகொடவின் கடத்தல் குறித்து விசாரணைகளை நடத்துமாறு எல்லைகளற்ற செய்தியாளர்கள் அமைப்பு வலியுறுத்தல் !
+
+*2024-12-13 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/201169) · `ta`
+
+ஊடகவியலாளர் பிரகீத் எக்னெலிகொட வலிந்து காணாமலாக்கப்பட்டமை தொடர்பான வழக்கு விசாரணைகள் பக்கச்சார்பின்றியும், வெளிப்படைத்தன்மை வாய்ந்த விதத்திலும் முன்னெடுக்கப்படுவதை உறுதிப்படுத்துமாறு பிரான்ஸை தளமாகக்கொண்டு இயங்கிவரும் எல்லைகளற்ற செய்தியாளர்கள் அமைப்பு (ரிப்போட்டர்ஸ் வித்தௌட் போர்டர்ஸ்) ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலைமையிலான புதிய அரசாங்கத்திடம் வலியுறுத்தியுள்ளது.
+
+'லங்கா ஈ-நியூஸ்' என்ற இணைய செய்தித்தளத்தில் கேலிச்சித்திர ஓவியராகவும், (கார்ட்டூனிஸ்ட்) அரசியல் பத்தி எழுத்தாளராகவும் பணியாற்றிய பிரகீத் எக்னெலிகொட கடந்த 2010 ஆம் ஆண்டு ஜனவரி 24 ஆம் திகதி ஹோமாகம நகரில் கடத்திச்செல்லப்பட்டார்.
+
+அவரது கடத்தலுடன் தொடர்புபட்டிருக்கக்கூடும் என சந்தேகிக்கப்பட்ட இராணுவ புலனாய்வு சேவை அதிகாரிகள் 9 பேர் தொடர்பான நீதிமன்ற வழக்கு விசாரணைகள் கடந்த 2019 ஆம் ஆண்டுடன் தடைப்பட்டிருந்த நிலையில், அவ்விசாரணைகள் கடந்த 6 ஆம் திகதி மீண்டும் ஆரம்பிக்கப்பட்டன.
+
+...
+
+[Data](articles/3609cbcb.json)
 
 ---
 
@@ -934,21 +1116,35 @@ Wednesday, December 18,. Parliament will meet at 9.30 am. From 9.30am. Time has 
 
 ---
 
-### வவுனியாவில் தேன் என சீனிப்பாணியை விற்ற மூவர் கைது!
+### Three persons arrested for selling honey in Vavuniya
 
 *2024-12-13 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201159) · `ta`
 
-சீனிப்பாணியை தயாரித்து தேன் என விற்பனை செய்துவந்த மூன்று பேர் கைதுசெய்யப்பட்டுள்ளதுடன்,  அவர்களிடமிருந்து பெருமளவான சீனிப்பாணியும் கைப்பற்றப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-குறித்த விடயம் தொடர்பில் வவுனியா பொதுச்சுகாதார பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில்,
 
-மேற்பார்வை சுகாரதார பரிசோதகர் மேஜயாவின் வழிகாட்டலில், நெளுக்களம் பொதுசுகாதார பரிசேதகர் சிவரஞ்சன் தலைமையில், ஒமந்தை பொதுசுகாதார பரிசேதகர் விதுசன், கந்தபுரம் பொதுசுகாதார பரிசேதகர் ஞானபிரஹாஸ், பூவரசங்குளம் பொதுசுகாதார பரிசேதகர் கிசோகாந் ஆகிய அணியினர் மற்றும் நெளுக்குளம் பொலிஸார் இணைந்து ஊர்மிலாக்கோட்டம் பகுதியிலுள்ள வீடுகளில் மேற்கொள்ளப்ட்ட சுற்றிவளைப்பின் போது குறித்த இடங்களில் விற்பனைக்கு தயாராக வைக்கப்பட்டிருந்த 200 போத்தல் சீனிப்பாணி சுகாதாரப் பிரிவினரால் கைப்பற்றப்பட்டது.
 
-சம்பவத்துடன் தொடர்புடைய சந்தேகநபர்கள் மூன்று பேர் பொலிஸாரினால் கைது செய்யப்பட்டனர். அவர்கள் நீதிமன்றில் முன்னிலைப்படுத்தப்படவுள்ளனர்.
+"3 arrested for selling adulterated honey in Vavuniya. Police seized honey & Chinese products. Public health officials warn against buying honey without verification due to health risks."
 
-...
+🟩
+
+Three persons have been arrested and seized as honey, and a large number of Chinese has been seized from them.
+
+Based on the confidential information received by the Vavuniya Public Social Division on the matter.
+
+Under the guidance of the Supervisory Sugar, the Public Health Professor Sivaranjan, Kandapuram Public Health Prize Captured by the sect.
+
+Three suspects in connection with the incident were arrested by police. They will be presented in court.
+
+Meanwhile, only a little honey is mixed in the area of ​​Nedungeni and Nedungeni areas.. They are also transported and sold to the Anuradhapura Madawachi areas.
+
+It is harmful to health. Therefore, public health inspectors have said that the public should be properly confirmed when buying honey.
+
+◼️
 
 [Data](articles/2f6c5838.json)
+
+[Extended Data](ext_articles/2f6c5838.ext.json)
 
 ---
 
@@ -967,6 +1163,8 @@ It has been confirmed that during the investigation, ASP Silva had aided and abe
 ◼️
 
 [Data](articles/7266a12e.json)
+
+[Extended Data](ext_articles/7266a12e.ext.json)
 
 ---
 
@@ -998,23 +1196,31 @@ President's Counsel Nalinda Indratissa stated that the suspect was arrested with
 
 ---
 
-### யாழில் கஞ்சாவுடன் கைதானவர்கள் பொலிஸ் தடுப்புக் காவலில்!
+### Police detention in Jaffna
 
 *2024-12-13 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201142) · `ta`
 
-யாழ்ப்பாணத்தில் கஞ்சா போதைப்பொருளுடன் கைதான இருவரையும் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்வதற்கு ஊர்காவற்றுறை நீதவான் நீதிமன்ற பதில் நீதவான் ஷாலினி ஜெயபாலச்சத்திரன் அனுமதித்துள்ளார்.
+Jaffna: Police detain 2 men after cannabis boat crash. Magistrate grants permission for investigation.
 
-யாழ்ப்பாணம் - காரைநகர் கசூரினா கடற்கரைக்கு அண்மித்த பகுதியில் நேற்று வியாழக்கிழமை (12) காலை எரிபொருள் முடிவடைந்த நிலையில் படகொன்று கரையொதுங்கியுள்ளது.
+🟩
 
-படகு சந்தேகத்துக்கு இடமான முறையில் காணப்பட்டமையால் அதனை புலனாய்வாளர்கள் சோதனையிட்டபோது, 92 பொதிகளில் 213.899 கிலோ கிராம் கேரள கஞ்சா படகினுள் காணப்பட்டது.
+Kayts Magistrate Shalini Jayapalachatran has allowed the Kayts Magistrate's Court to investigate the two men arrested in Jaffna in Jaffna.
 
-அதனையடுத்து, படகில் வந்த இருவரையும் கைது செய்து, படகில் மீட்கப்பட்ட கஞ்சா பொதிகளையும் மேலதிக சட்ட நடவடிக்கைக்காக ஊர்காவற்றுறை பொலிஸாரிடம் ஒப்படைத்த நிலையில், கைது செய்யப்பட்ட இருவரையும் நேற்று (12) ஊர்காவற்றுறை நீதவான் நீதிமன்ற பதில் நீதவான் முன்னிலையில் பொலிஸார் முற்படுத்தினர்.
+A boat crashed into the Jaffna -Karainagar Kasurina beach in the nearby area on Thursday morning (12).
 
-அதன்போது, சந்தேக நபர்களிடம் தொடர் விசாரணைகளை முன்னெடுக்க வேண்டியுள்ளதால், அவர்களை பொலிஸ் தடுப்புக் காவலில் வைத்து விசாரணை செய்வதற்கு அனுமதி வேண்டும் என பொலிஸார் விண்ணப்பம் செய்தனர்.
+When investigators checked it because the boat was suspicious, it was found in the Kerala Cannabis boat in 92 packages.
 
-...
+Subsequently, the two men were arrested in the presence of the Kayts Magistrate's Court yesterday (12) after the two men were arrested and handed over to the Kayts police for further legal action.
+
+At the same time, the police applied for permission to investigate the suspects, as they had to carry out a series of investigations.
+
+In response, the magistrate gave permission to investigate the two men in police detention.
+
+◼️
 
 [Data](articles/1f7f243e.json)
+
+[Extended Data](ext_articles/1f7f243e.ext.json)
 
 ---
 
@@ -2335,249 +2541,5 @@ Syria is a state of disrepair. Baba Benga has said that this fall in Syria is th
 [Data](articles/97e33063.json)
 
 [Extended Data](ext_articles/97e33063.ext.json)
-
----
-
-### Latestheard Chess World Champion from India
-
-*2024-12-13 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204330) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Indian chess prodigy Gukesh Dommaraju becomes world champion at 15, defeating Chinese player Ding Liren in a closely contested match. He is now the youngest chess world champion ever, surpassing Bobby Fischer's record set in 1972. Dommaraju's victory marks a new era in chess history with Indian players dominating global competitions.
-
-🟩
-
-GUKSH DOMMARAJU in India has become the world champion.
-
-Yesterday, he was defeated by a Chinese DING LIRN after a sharp match.
-
-Dommaraju won the World Championship. The youngest Chess was entitled to the report as the world champion.
-
-He was 22 years old when he owned the report in 1985.
-
-◼️
-
-[Data](articles/fa7e98b9.json)
-
-[Extended Data](ext_articles/fa7e98b9.ext.json)
-
----
-
-### Geminids meteor shower visible from Sri Lanka tonight
-
-*2024-12-13 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104206/geminids-meteor-shower-visible-from-sri-lanka-tonight) · `en`
-
-The Arthur C. Clarke Institute for Modern Technologies (ACCIMT) says that the Geminids meteor shower, considered as one of the most spectacular meteor showers of the year, will be visible tonight (13) and tomorrow (14).
-
-Accordingly, the Geminids meteor shower will peak and be clearly visible for Sri Lankans tomorrow night (14).
-
-Research scientist (astronomy) at ACCIMT Indika Medagangoda, explained that around 120 meteors per hour will be visible in the northern and eastern skies after 9.00 p.m.
-
-The Geminids, which are bright and have a yellow hue, are considered one of the best and most reliable annual meteor showers, when at least 120 meteors are usually seen per hour during its peak.
-
-The Geminid meteor shower peaks in the middle of December, with the most activity this year expected late Friday and into early Saturday, according to NASA.
-
-...
-
-[Data](articles/7528866c.json)
-
-[Extended Data](ext_articles/7528866c.ext.json)
-
----
-
-### Stone beaten in Kegalle
-
-*2024-12-13 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201132) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man killed in Kegalle dispute. Police arrest 74-year-old suspect. Incident occurred in Mayinnoluwa area.
-
-🟩
-
-Varakapola police said that a man was assassinated and murdered in the Mayinnoluwa area belonging to the Varakapola police division in Kegalle.
-
-Police said the attack was caused by a dispute between the two men.
-
-A 74 -year -old suspect has been arrested by police in connection with the incident.
-
-◼️
-
-[Data](articles/49e9d529.json)
-
-[Extended Data](ext_articles/49e9d529.ext.json)
-
----
-
-### Namal voiced for a Tamil youth fighting in Tamil Nadu
-
-*2024-12-13 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டில்-போராடும்-தமிழ்-இளைஞனுக்காக-குரல்-கொடுத்த-நாமல்/175-348681) · `ta`
-
-Namal Rajapakse urges govt to repatriate Tamil youth from TN protests. He seeks Indian citizenship or return to SL.
-
-🟩
-
-Parliamentarian Namal Rajapakse has urged the government to take steps to bring the Sri Lankans who were protesting in front of the Ramanathapuram district collector's office in Tamil Nadu.
-
-The Tamil media has released a video of a man who has been sheltered in Tamil Nadu during the civil war in Sri Lanka and demanded that he be sent back to Sri Lanka.
-
-The person has urged him to grant Indian citizenship or return to Sri Lanka to return to Sri Lanka.
-
-In the meantime, Namal urged the Sri Lankan government to take immediate steps to bring the person to Sri Lanka with the Indian government.
-
-Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessary assistance to bring the person to Sri Lanka.. Remble
-
-◼️
-
-[Data](articles/7166965a.json)
-
-[Extended Data](ext_articles/7166965a.ext.json)
-
----
-
-### Former Sri Lankan diplomat in Australia fined more than $100,000 for ‘entrapping’ domestic worker
-
-*2024-12-13 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104205/former-sri-lankan-diplomat-in-australia-fined-more-than-100000-for-entrapping-domestic-worker) · `en`
-
-A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the Australian federal court.
-
-The fine is in addition to more than $500,000 in unpaid wages and interest she has already been ordered to restore, but has so far refused to pay.
-
-Himalee Arunatilaka served as Sri Lanka’s deputy high commissioner to Australia between 2015 and 2018. She employed Sri Lankan mother of two Priyanka Danaratna as a domestic worker in her home in Deakin, amid Canberra’s diplomatic quarter.
-
-Arunatilaka sponsored Danaratna’s entry into Australia, promising she would pay her in accordance with Australian wages and conditions.
-
-But Danaratna told the federal court she was instead isolated and oppressed, working every day for three years, save for two days she spent in hospital after burning herself with oil in the kitchen.
-
-...
-
-[Data](articles/b5896d11.json)
-
-[Extended Data](ext_articles/b5896d11.ext.json)
-
----
-
-### One kills one person in the boat: One recovery
-
-*2024-12-13 10:09:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-ஒருவர்-பலி-ஒருவர்-மீட்பு/175-348679) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fisherman drowns after boat crashes off Batticaloa coast. Victim, 34, leaves two kids. Incident occurred around 8 AM Friday. Police investigating.
-
-🟩
-
-Kokuvil police said that a fisherman was drowned after a fishing boat crashed into the sea of ​​Batticaloa.
-
-The deceased is the father of Koteeswaran Venu Raj (age 34), the father of two children from Murugan Temple Road, Thirumadu.
-
-Two people went to the sea on Thursday night (12) at 8 am on Friday morning (13) at 8 am when the boat was suddenly rescued after the boat was suddenly rescued.
-
-◼️
-
-[Data](articles/c2bfb5d3.json)
-
-[Extended Data](ext_articles/c2bfb5d3.ext.json)
-
----
-
-### Abandoned car recovery in Tangalle
-
-*2024-12-13 10:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-கைவிடப்பட்ட-கார்-மீட்பு/175-348678) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Abandoned car recovered in Tangalle: Police found a white vehicle left near Padikama Maragas junction. Registered to a 36-year-old woman from Kadavatha. No owner present when discovered.
-
-🟩
-
-Police said they were rescued after a white car had been abandoned on Thursday night near the land on the side road from the Padikama Maragas junction to the Padikama Maragas junction.
-
-According to information received by the Commander -in -Chief of the Police Station, the Commander of the Police, Nuwan Wijeedunga, the suspicious car, which does not have the owner, has been found.
-
-The car has been registered in the name of a 36 -year -old woman living in Kadavatha, Vijayabha Mawatha, Upper Karagahamuna, police said.
-
-◼️
-
-[Data](articles/5556db40.json)
-
-[Extended Data](ext_articles/5556db40.ext.json)
-
----
-
-### A man killed by a sharp weapon in Kuliyapitiya!
-
-*2024-12-13 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201129) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Man (39) killed with sharp weapon in Siyambalakasura, Kiliyapitiya. Police investigating; no arrests made.
-
-🟩
-
-A person has been killed in a sharp weapon in the Siyambalakasura area belonging to the Kiliyapitiya - Dummalausuriya police division, police said.
-
-The deceased is a 39 -year -old from Siyambalakasura, Dummalazuriya.
-
-Investigations have revealed that the murder was not revealed and no suspects have been arrested yet, police said.
-
-◼️
-
-[Data](articles/d2a74112.json)
-
-[Extended Data](ext_articles/d2a74112.ext.json)
-
----
-
-### Police notice to drivers using Negombo - Colombo main road
-
-*2024-12-13 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204329) · `si`
-
-Negombo-Colombo main road traffic alert: Sri Sambuddha Jayanthi Perahera procession on 14th from 7pm. Alternative routes suggested by police.
-
-🟩
-
-The drivers of the Negombo can be informed tomorrow (14) to the Negombo-Colombo main road.
-
-The Sri Sambuddha Jayanthi Perahera of the Wattala Police is scheduled to visit the streets from 7 pm (14) to the streets tomorrow (14).
-
-The Perahera has gone through the Hendala Junction on the Hendala Junction on the Hendala junction and returns along the Colombo-Negombo road through the Colombo-Negombo road.
-
-Below is the alternatives nominated by the police for the convenience of drivers.
-
-◼️
-
-[Data](articles/f540f585.json)
-
-[Extended Data](ext_articles/f540f585.ext.json)
-
----
-
-### Bottom trawling by Indian fishermen must stop: Sri Lanka’s Fisheries Minister
-
-*2024-12-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104204/bottom-trawling-by-indian-fishermen-must-stop-sri-lankas-fisheries-minister) · `en`
-
-The enduring fisheries conflict in the Palk Bay - which impacts fisher folk of northern Sri Lanka and daily wage fishermen of Tamil Nadu - can be decisively resolved only if the Indian side stops using the destructive bottomtrawling method, according to Sri Lanka’s Minister of Fisheries Ramalingam Chandrasekar.
-
-The fisheries conflict has remained a key diplomatic issue between India and Sri Lanka for many years. It is likely to be discussed during President Anura Kumara Dissanayake’s scheduled visit to India next week.
-
-“People from all ethnic groups and geographic regions, including the north, east, and hill coun-try, voted for us [National People’s Power alliance], giving us a big mandate in the recently held elections.  We have a responsibility to address their concerns,” said Mr. Chandrasekar, who represents the northern Jaffna district in par-liament.
-
-...
-
-[Data](articles/f4ef3a22.json)
-
-[Extended Data](ext_articles/f4ef3a22.ext.json)
 
 ---

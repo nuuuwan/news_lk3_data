@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 12:30:03**
+As of **2024-12-13 12:42:58**
 
 ## Newspaper Stats
 
-*Scraped **59,958** Articles*
+*Scraped **59,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,695
-adaderanalk | 7,298
+adaderanalk | 7,300
 tamilmirrorlk | 8,573
 virakesarilk | 9,831
 adaderanasinhalalk | 10,358
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,898 (99.9%) of 59,958 articles have been extended.
+59,898 (99.9%) of 59,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Canada reaffirms support for Sri Lanka’s anti-corruption efforts
+
+*2024-12-13 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104209/canada-reaffirms-support-for-sri-lankas-anti-corruption-efforts) · `en`
+
+The Canadian Government has expressed its strong commitment to supporting Sri Lanka’s initiatives to combat corruption and fraud, the President’s Media Division (PMD) reported.
+
+This assurance was conveyed by Eric Walsh, the High Commissioner of Canada to Sri Lanka and the Maldives, during a meeting with the Secretary to the President, Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat yesterday (12).
+
+High Commissioner Walsh emphasized Canada’s readiness to share its expertise and experiences in preventing corruption and fraud, offering technical and strategic support to help Sri Lanka achieve its anti-corruption objectives, the PMD said.
+
+Addressing Sri Lanka’s economic challenges, High Commissioner Walsh highlighted the impact of the country’s political culture on its economic downturn. He commended the current government’s efforts to reform this culture, marking a significant step toward sustainable development and improved governance.
+
+...
+
+[Data](articles/2a4690d8.json)
+
+---
+
+### FIB probes presidential candidates who failed to submit expense reports
+
+*2024-12-13 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104208/fib-probes-presidential-candidates-who-failed-to-submit-expense-reports-) · `en`
+
+The Fraud Investigation Bureau (FIB) has informed the Colombo Magistrate’s Court today (13) that it has initiated an investigation into several candidates that contested the last Presidential Election and their representatives who have failed to submit proper expense reports as mandated under the Regulation of Election Expenditure Act.
+
+The FIB today presented facts before the court in relation to seven complaints filed by the Election Commission regarding non-compliance with the Election Expenditure Act.
+
+During the court session, FIB officials explained that, under the Regulation of Election Expenditure Act No. 03 of 2023, all candidates and their representatives were required to submit detailed reports on their election-related expenses to the Election Commission by October 13.
+
+However, the FIB revealed that some candidates and their representatives are yet to submit the required reports, which constitutes a violation of the law.
+
+...
+
+[Data](articles/82181bdc.json)
+
+---
 
 ### ’தவறு செய்தால் தண்டிக்கப்படுவீர்கள்’
 
@@ -2201,57 +2237,5 @@ In addition, the company said that all the ingredients needed to be able to bett
 [Data](articles/37a54055.json)
 
 [Extended Data](ext_articles/37a54055.ext.json)
-
----
-
-### Decision to bring a notion to the Speaker
-
-*2024-12-12 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204315) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-UNP decides no-confidence motion against Speaker Ashoka Ranwala. Accuses him of deception over fake doctorate degrees. Opposition demands his removal, citing harm to national administration.
-
-🟩
-
-The Ketha is decided to bring a no-confidence motion against Mr. Speaker Ashoka Ranwala.
-
-The General Secretary of the General Secretary of the UNP, the General Secretary of the UNP, said the General Secretary of the UNP.
-
-He said that the Speaker first deceived the people to have a doctorate and have shown many degrees.
-
-He said he expected to submit a no-confidenceability against the Speaker through the entire opposition and conscience.
-
-"If it has been revealed that it has been revealed to the people, the Speaker should do not give the name of the country with the name of the country and the third person in the country, respecting the title of the country and respecting the entire administration of the country.. But unfortunately we can't see that. This is a very harmful situation for the whole country. "
-
-◼️
-
-[Data](articles/f6e51e48.json)
-
-[Extended Data](ext_articles/f6e51e48.ext.json)
-
----
-
-### Sri Lanka president to visit UAE
-
-*2024-12-12 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-visit-uae-194004/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake said he looked forward to visiting the United Arab Emirates soon, at the ambassador’s invitation.
-
-Dissanayake met UAE Ambassador to Sri Lanka Khaled Nasser Al Ameri on Thursday, to discuss strengthening bilateral ties.
-
-“Ambassador Al Ameri reiterated UAE’s commitment to supporting Sri Lanka’s development and emphasized our strong friendship. I look forward to visiting the UAE soon at his invitation.”
-
-“We explored expanding employment opportunities for Sri Lankans in the UAE and enhancing Sri Lanka’s exports to one of our top trading partners.
-
-According to the Sri Lankan Embassy in the UAE an estimated 150,000 Sri Lankans are residing in UAE working in various sectors, including banking and finance, information technology, engineering, paramedics, hospitality industry, constructions etc, while the majority is employed in the domestic sector. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/49922913.json)
-
-[Extended Data](ext_articles/49922913.ext.json)
 
 ---

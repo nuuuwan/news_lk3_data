@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 15:43:28**
+As of **2024-12-13 16:01:50**
 
 ## Newspaper Stats
 
-*Scraped **59,998** Articles*
+*Scraped **60,000** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 450
 colombotelegraphcom | 607
-bbccomsinhala | 627
+bbccomsinhala | 628
 islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,698
+adalk | 5,699
 adaderanalk | 7,305
 tamilmirrorlk | 8,580
 virakesarilk | 9,841
@@ -26,27 +26,33 @@ adaderanasinhalalk | 10,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,924 (99.9%) of 59,998 articles have been extended.
+59,927 (99.9%) of 60,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### අල්ලස් ගත් පාස්පෝට් ඔෆිස් එකේ ලිපිකරු රිමාන්ඩ්
+### Clerk remanded at the passport office of bribery
 
 *2024-12-13 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204339) · `si`
 
-විදේශ ගමන් බලපත්‍රයක් ලබාදීම සඳහා පුද්ගලයෙකුගෙන් රුපියල් 6000ක අල්ලසක් ලබාගත්තේ යැයි සැකපිට අත්අඩංගුවට ගත් ආගමන හා විගමන දෙපාර්තමේන්තුවේ තැපැල් අංශයේ ලිපිකරුවෙකු ලබන 20 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+Postal clerk remanded for bribery at passport office. Suspect arrested for accepting Rs. 6000 bribe. Court orders remand until 20th. Investigations ongoing.
 
-විදේශ ගමන් බලපත්‍රයක් කඩිනමින් ලබාදීම සඳහා රුපියල් 6,000ක අල්ලසක් ඉල්ලා එය ලබා ගැනීමේ දී අල්ලස් කොමිසම විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+🟩
 
-අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් මෙම සැකකරු අධිකරණයට ඉදිරිපත් කරමින් එහි නිලධාරීන් සඳහන් කළේ මෙම සැකකරුට අදාළ පරීක්ෂණ කටයුතු අවසන් වී නොමැති බැවින් ඔහු රක්ෂිත බන්ධනාගාර ගත කරන ලෙස ඉල්ලා සිටින බවයි.
+The Colombo Magistrate's Court ordered a postal clerk in the Department of Immigration and Emigration to be remanded until the 20th of this month.
 
-ඒ අනුව අදාළ සැකකරු ලබන 20 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කෙරුණි.
+The suspect had been arrested by the Bribery Commission when it comes to obtaining a bribe of Rs. 6,000 to provide a passport expeditious.
+
+The suspect was arrested by the Bribery Commission to the court and said that he had not completed investigations into the suspect.
+
+The suspect was ordered to be remanded till the 20th.
 
 ◼️
 
 [Data](articles/0692cf1d.json)
+
+[Extended Data](ext_articles/0692cf1d.ext.json)
 
 ---
 
@@ -54,7 +60,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-12-13 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104215/cses-aspi-records-new-all-time-high) · `en`
 
-The All Share Price Index (ASPI) of the Colombo Stock Exchange gained 169.53 points to close at 14,205.34 points today, marking a new all-time high.
+The All Share Price Index (ASPI) of the Colombo Stock Exchange gained 169.53 points (1.21%) to close at 14,205.34 points today, marking a new all-time high.
+
+Meanwhile, the S&P SL20 has increased by 57.99 points (1.39%) to close at 4,244.45 points.
 
 Today’s total turnover was recorded as over Rs. 6.1 billion.
 
@@ -62,21 +70,29 @@ Today’s total turnover was recorded as over Rs. 6.1 billion.
 
 [Data](articles/f31db7d0.json)
 
+[Extended Data](ext_articles/f31db7d0.ext.json)
+
 ---
 
-### රිළා ප්‍රශ්නය ස්ථීරවම විසඳන බව ලාල්කාන්ත කියයි
+### Lal Kantha says he will solve the issue station
 
 *2024-12-13 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204338) · `si`
 
-මෙරට රිළා ගහනය පාලනය කිරීම සඳහා විවිධ ව්‍යාපෘති ආරම්භ කර ඇතැයි කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍ය ලාල්කාන්ත මහතා පවසයි.
+Sri Lanka Minister Lal Kantha vows to address population control through agriculture projects and wildlife conservation, while also focusing on tourism and public welfare.
 
-අද (13) කොළඹ පැවැති වැඩසටහනකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු පැවසුවේ රජයක් ලෙස මේ මොහොතේ රිළවුන් ඇතුළු වනසතුන් ගොවි බිම්වලින් ඉවත් කිරීමේ දැඩි අධිෂ්ඨානයකින් පසුවන බවය.
+🟩
 
-"අපි අධිෂ්ඨානයක ඉන්නවා රිළවුන් ඇතුළු වනසතුන් ගොවි බිම්වලින් ඉවත් කරන්න. ඒක ස්ථිරව කරනවා ඒක නොකර කෘෂි කර්මාන්තයක් ගැන කතා කරන්න බැහැ. කෘෂිකර්මාන්තය විතරක් නෙමෙයි ජන ජීවිතයේ අනෙකුත් පැතිකඩත් බිඳ වැටිලා තියෙන්නේ. විශේෂයෙන්ම රිළවුන්ගේ ප්‍රශ්නේ විසඳනවාමයි... කවුරුත් සැකයක් තියාගන්න එපා මොන අභියෝගය ආවත් ඒක විසඳනවා. රට යැවීම ගැනත් සලකා බලනවා. අපේ රටේ දූපත් තියෙනවා ඒ දූපත්වලට යැවීම සම්බන්ධයෙනුත් ප්‍රොජෙක්ට් ප්‍රපෝසල් එකක් සකස් කරමින් තියෙනවා ඒක සංචාරක ව්‍යාපාරයට සම්බන්ධ වන ආකාරයට. ඒ නිසා සංචාරක කර්මාන්තයත්, ගොවිජන ජීවිතයත්, පොදුජන ජීවිතයත් සලකලා බලලා මේකට අපි උත්තරයක් හොයන්න අනිවාර්යයෙන්ම කටයුතු කරනවා."
+Minister of Agriculture, Land and Irrigation Lal Kanthe says that various projects have been launched to control the population of Sri Lanka.
+
+After speaking to the media, he said that after a program in Colombo today, he said that as a government, he was determined to remove farms, including the farms.
+
+"We are determined to remove the victims from the farms and wildlife. It doesn't make it permanently talking about an agricultural industry. Other profiles in the lives of the lives of the lives of the lives of the life. Especially the problems of the problems of the problems.. Don't set up doubts, but it is solved. Considering the sending of the country. There is a projected certificate with the islands of our country to the islands to the islands and that it is in connection to tourism. As such, we will take care of tourism and agriculture and public life to look for an answer. "
 
 ...
 
 [Data](articles/7e65529d.json)
+
+[Extended Data](ext_articles/7e65529d.ext.json)
 
 ---
 
@@ -367,6 +383,28 @@ Yasmin Sukka said the 2009 Mullivaikkal massacre was the main reason for account
 [Data](articles/f371112f.json)
 
 [Extended Data](ext_articles/f371112f.ext.json)
+
+---
+
+### ආණ්ඩුවේ මොන වගකීම දැරුවත් වැරද්දක් කර ඇත්නම් ක්‍රියා මාර්ග ගන්නවා
+
+*2024-12-13 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මොන-වගකීම-දැරුවත්-වැරද්දක්-කර-ඇත්නම්-ක්‍රියා-මාර්ග-ගන්නවා/11-413618) · `si`
+
+"කුමන තරාතිරමක කෙනෙක් වුවත් වරදක් කර ඇත්නම් ඊට අදාළ ක්‍රියා මාර්ග ගන්නවා"
+
+"ජනතාව අප කෙරෙහි තැබූ විශ්වාසය කුමන ආකාරයකින් හෝ පලුදු වීමට අප ඉඩ තබන්නේ නැහැ"
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ අද (13) උදෑසන රජයේ මාධ්‍ය ප්‍රධානීන් සමඟ පැවැත් වූ හමුවේදීය.
+
+"දශක හතකට වැඩි කාලයක් තිස්සේ මේ රටේ ජනතාව විවිධ ආණ්ඩු බිහි කළා. විවිධ ආණ්ඩු පෙරළුවා.ඉතිහාසයේ පළමු වෙනි වතාවට මෙවර මේ රටේ ජනතාව අවස්ථා දෙකකදී අපට සහ ජාතික ජන බලවේගයට ලබා දුන් ඓතිහාසික ජන වරමේ අර්ථය සහ හරය කුමක්ද කියන එක සම්බන්ධව අපට පුළුල් කියවීමක් තියෙනවා.
+
+ප්‍රමිතිගත සහ ස්ථාවර රටක් නිර්මාණය කරනු ඇතැයි යන විශ්වාසය ඇතිව මේ රටේ ජනතාව ජාතික ජන බලවේගයේ ආණ්ඩුව බිහි කළා.ඒ සුවිශේෂී විශ්වාසයට අබමල් රේණුවකින් හෝ හානියක් වන්නට අපේ ආණ්ඩුව කිසි විටෙකත් ඉඩක් තබන්නේ නැහැ.
+
+ඉතාම කෙටියෙන් කිවහොත්,රට තුළ වැරදි කරන කිසිවෙකු, කිසිම හේතුවකට ආරක්ෂා කිරීමට අපේ ආණ්ඩුව සූදානම් නැහැ. රට තුළ පමණක් නෙවෙයි, අපේ ආණ්ඩුව තුළ කවර තරාතිරමක කෙනෙක් වුණත් වැරැද්දක් කරනවානම් ඒ වැරැද්දට එරෙහිව ක්‍රියා මාර්ග ගන්න අපි පැකිළෙන්නේ නැහැ.
+
+...
+
+[Data](articles/d0a2f1bf.json)
 
 ---
 
@@ -1342,6 +1380,24 @@ Furthermore, after conducting a special observation tour of the Colombo Port yes
 
 ---
 
+### Lanka T10: ගෝල් මාවල්ස් හිමිකරු කොදෙව් ක්‍රීඩකයාට කළ යෝජනාව කුමක් ද?
+
+*2024-12-13 09:38:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wexv287xpo) · `si`
+
+Lanka T10: ගෝල් මාවල්ස් හිමිකරු කොදෙව් ක්‍රීඩකයාට කළ යෝජනාව කුමක් ද?
+
+මහනුවර, පල්ලේකැලේ ජාත්‍යන්තර ක්‍රීඩාංගණයේ පැවැත්වෙන 'ලංකා T10' සුපර් ලීග් ක්‍රිකට් තරගාවලියේ දී  මුදලට තරග පාවාදීමට යෝජනා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ගෝල් මාවල්ස් කණ්ඩායමේ හිමිකරු වන ඉන්දීය ජාතික ප්‍රේම් මනීෂ් ටකාර් දෙසැම්බර් මස16 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+ක්‍රීඩා වැරදි වැළැක්වීමේ අංශය විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන අද (දෙසැම්බර් 14) වැනිදා කොළඹ අතිරේක මහේස්ත්‍රාත් හර්ෂණ කැකුණවල හමුවට පමුණුවනු ලැබීය.
+
+ක්‍රීඩා වැරදී වැළැක්වීමේ විමර්ශන ඒකකය වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ උදාර කරුණාතිලක, අධිකරණය හමුවේ කරුණු දක්වමින් පැවසුවේ ගෝල් මාවල්ස් කණ්ඩායමේ හිමිකරු වශයෙන් කටයුතු කරන මෙම සැකකරු තම කණ්ඩායමේ ක්‍රීඩා කරන බටහිර ඉන්දීය ක්‍රීඩකයෙකුට තරග පාවාදීම සඳහා යෝජනා කර තිබෙන බවට විමර්ශනවලදී කරුණු අනාවරණය වී ඇති බවයි.
+
+...
+
+[Data](articles/05501a1c.json)
+
+---
+
 ### High-level US delegation concludes successful visit to Sri Lanka
 
 *2024-12-13 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104202/high-level-us-delegation-concludes-successful-visit-to-sri-lanka) · `en`
@@ -2189,31 +2245,5 @@ What makes STEM education at St. Benedict’s so revolutionary is its hands-on a
 ...
 
 [Data](articles/5554e5ae.json)
-
----
-
-### Who guards the guards?
-
-*2024-12-13 02:58:00* · [`islandlk`](http://island.lk/who-guards-the-guards-2/) · `en`
-
-The Opposition continues to crank up pressure on Speaker Asoka Ranwala to resign over what it calls his false claim to have a doctorate. The JVP-led NPP government may have expected its opponents’ campaign against the Speaker to fizzle out with the passage of time. In this country, controversies crop up at such a rate that one finds it well-nigh impossible to keep track of them, and that may be the reason why the government has chosen to remain silent on the issue of the Speaker’s educational qualifications. But the Opposition remains maniacally focused on the Speaker’s claim in question, and SJB MP Ajith Perera has gone on record as saying that unless Ranwala resigns forthwith, the Opposition will be compelled to move a motion of no confidence against him. The government has sought to make light of the situation, but in vain.
-
-...
-
-[Data](articles/7a7a06c5.json)
-
----
-
-### Celebrating Top10 Champions of Diversity 2024
-
-*2024-12-13 02:57:58* · [`dailyftlk`](https://www.ft.lk/business/Celebrating-Top10-Champions-of-Diversity-2024/34-770460) · `en`
-
-From left: Printcare Ceylon Ltd. and Rotary International CEO and Director K.R. Ravindran, Hemas Group Director Murtaza Esufally (who won the award along with Chairman Husein Esufally), John Keells Group President – Retail Sector and Jaykay Marketing Services Ltd. CEO Charitha Subasinghe, Sri Lanka South Asia Gateway, Terminals Chief Commercial Officer Ted Muttiah, Virtusa Corporation Global Head of Sustainability and Facilities and Virtusa Sri Lanka Joint Country Head Denver De Zylva, Hilton Sri Lanka Area General Manager Manesh Fernando, Daily FT Founding Editor and Chief Executive Nisthar Cassim, Hayleys PLC Executive Chairman Mohan Pandithage (accepted by Hayleys PLC Head of Group ESG Prashani Illangasekera), Horana Plantations PLC Director/CEO Johann A. Rodrigo, Commercial Bank PLC Managing Director/CEO Sanath Manatunge, Actor and Presenter (Top50 DEI Award Recipient) Danu Innasithamby, and Diesel and Motor Engineering Group Managing Director and CEO Gahanath Pandithage
-
-...
-
-[Data](articles/97c134b9.json)
-
-[Extended Data](ext_articles/97c134b9.ext.json)
 
 ---

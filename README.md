@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 19:03:27**
+As of **2024-12-13 19:16:44**
 
 ## Newspaper Stats
 
@@ -26,61 +26,87 @@ adaderanasinhalalk | 10,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,957 (99.9%) of 60,036 articles have been extended.
+59,960 (99.9%) of 60,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### ஆசிய குத்துச்சண்டைப் பதக்கம் வென்று வரலாறு படைத்த மிஹிரன் நாடு திரும்பினார்
+### Mihran returns to the country with Asian Boxing Medal
 
 *2024-12-13 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201216) · `ta`
 
-தாய்லாந்தின் சியாங் மாய் மண்டபத்தில் அண்மையில் நடைபெற்று முடிந்த ஆசிய உயரடுக்கு குத்துச்சண்டை சம்பியன்ஷிப் போட்டியில்  ஆண்களுக்கான 51 கிலோ கிராம் எடைப்பிரிவில்   வென்கலப் பதக்கம் வென்று வரலாறு படைத்த பசிந்து உமயங்கன மிஹிரன் நாடு திரும்பியபோது அவருக்கு விமான நிலையத்தில் வைத்து சிறப்பான வரவேற்பளிக்கப்பட்டது.
+Sri Lankan boxer Umayangana Mihran wins bronze in Asian Boxing Championships after 37 years. Mihran defeated Malaysia's Mohammed Abdul Qai in quarter-finals but lost to Uzbekistan's Asilbek Jalov in semi-finals, securing bronze medal.
 
-குவைத் நகரில் 1987இல் நடைபெற்ற ஆசிய குத்துச்சண்டைப் போட்டியில் பி.எல்.ஜே. ரட்னசிறி வெண்கலப் பதக்கம் வென்று 37 வருடங்கள் கடந்த நிலையில் ஆசிய குத்துச் சண்டையில் இலங்கைக்கு பதக்கம் கிடைத்தது இதுவே முதல் தடவையாகும்.
+🟩
 
-கால் இறுதிப் போட்டியில் நேரடியாக பங்குபற்ற தகுதிபெற்ற மிஹிரன் அப் போட்டியில் மலேசியாவின் முதல் நிலை வீரரும் 22 வயதுக்குட்பட்ட ஆசிய குத்துச்சண்டை போட்டியில் பதக்கம் வென்றவருமான மொஹமத் அப்துல் கய்யும் பின் ஆரிபின் என்பவரை வெற்றிகொண்டதன் மூலம் பதக்கம் ஒன்றை உறுதி செய்துகொண்டிருந்தார்.
+When Umayangana Mihran returned to the airport when he returned to the airport in the recently concluded Asian Eligious Boxing Championships at the Chiang Mai Hall in Thailand, winning the 51 kilogram weight category.
+
+PLJ in the 1987 Asian Boxing Tournament in Kuwait. This is the first time Sri Lanka won the Medal in the Asian Boxing Medal 37 years after the Ratnasiri Bronze Medal won.
+
+Mihran -up in the quarter -finals Mihran -up was confirming a medal by winning Malaysia's first -level Asian Boxing Tournament, Mohammed Abdul Qai, a 22 -year -old Asian Boxing Tournament.
+
+Subsequently, Umayangana Mihran, who failed in the semi -finals of the Asian Champion Asilbec Jalov (Uzbekistan) under the age of 22, was satisfied with the bronze medal as the Umayankana Mihran failed last Sunday.
+
+Mihran lost 27 - 30, based on the points awarded by mediators 9 - 10, 9 - 10, 9 - respectively, respectively.
 
 ...
 
 [Data](articles/eab1ebd7.json)
 
+[Extended Data](ext_articles/eab1ebd7.ext.json)
+
 ---
 
-### ඇල්ල - වැල්ලවාය මාර්ගය අවහිර වෙයි
+### Ella - Wellawaya road blocked
 
 *2024-12-13 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204350) · `si`
 
-ගසක් කඩා වැටීම හේතුවෙන් ඇල්ල - වැල්ලවාය මාර්ගය අවහිර වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Ella-Wellawaya Rd blocked: Tree collapse causes lane obstruction. DMC reports incident.
 
-එම මධ්‍යස්ථානය පවසන්නේ  ඇල්ල-වැල්ලවාය මාර්ගයේ 10 කණුව අසල විශාල ගසක් කඩා වැටී ඇති බවයි.
+🟩
 
-එසේම ඇල්ල-වැල්ලවාය මාර්ගයේ කරඳගොල්ලේ මාර්ගයට විදුලි පහන් කණුවක් කඩා වැටීමෙන් එක් මංතීරුවක් අවහිර වී ඇති බවද ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+The Disaster Management Center (DMC) says that due to a tree collapses, the Ella-Wellawaya Road has been blocked.
+
+The center says a large tree has collapsed near the post of Ella-Wellawaya road.
+
+The Disaster Management Center (DMC) said that one lane has been blocked by the collapse of a light station to Karundagolle road on the Ella-Wellawaya road.
 
 ◼️
 
 [Data](articles/e0634e8b.json)
 
+[Extended Data](ext_articles/e0634e8b.ext.json)
+
 ---
 
-### கந்தானையில் துப்பாக்கிச் சூடு
+### Firing in Kandana
 
 *2024-12-13 18:44:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தானையில்-துப்பாக்கிச்-சூடு/175-348706) · `ta`
 
-கந்தானை பகுதியில் உள்ள மூன்று மாடி வீடொன்றின் மீது இன்று மாலை துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-கந்தானையைச் சேர்ந்த ரஞ்சி என அழைக்கப்படும் ரஞ்சித் குமார என்பவரின் வீட்டை குறிவைத்து இந்த ஆயுததாரிகள் தாக்குதல் நடத்தியதாக தெரிவிக்கப்படுகிறது.
 
-இரண்டரை வருடங்களுக்கு முன்னர் குறித்த நபர் தனது மனைவி மற்றும் மூன்று பிள்ளைகளுடன் டுபாய்க்கு சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
 
-குறித்த நபர் துப்பாக்கி வைத்திருந்தமை, ஹெரோயின் கடத்தல் மற்றும் மாடு திருடுதல் ஆகிய குற்றங்களுக்காக சிறையிலிருந்து பிணையில் விடுவிக்கப்பட்டவரென தெரிவிக்கப்படுகிறது.
+Armed men attack 3-storey house in Kandana. Target: Ranjit Kumara (known as Ranji). He left Sri Lanka 2.5 years ago with family. Recently released on bail for kidnapping & theft. Police investigating incident.
 
-இந்நிலையில், குறித்த சம்பவம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+🟩
+
+A three -storey house in Kandana area has been shot this evening.
+
+It is reported that the armed men attacked the house of Ranjit Kumara, known as Ranji from Kandana.
+
+It is reported that the person went to Dubai with his wife and three children two and a half years ago.
+
+It is reported that the person was released on bail from prison for the abduction of the man, the kidnapping and the stealing of cow.
+
+In this case, the police are conducting further investigations into the incident. Remble
 
 ◼️
 
 [Data](articles/9ddb8314.json)
+
+[Extended Data](ext_articles/9ddb8314.ext.json)
 
 ---
 

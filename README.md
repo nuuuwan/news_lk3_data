@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 10:02:11**
+As of **2024-12-13 10:16:19**
 
 ## Newspaper Stats
 
-*Scraped **59,928** Articles*
+*Scraped **59,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,692
 adaderanalk | 7,293
-tamilmirrorlk | 8,563
+tamilmirrorlk | 8,566
 virakesarilk | 9,828
 adaderanasinhalalk | 10,358
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,882 (99.9%) of 59,928 articles have been extended.
+59,883 (99.9%) of 59,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### படகு கவிழ்ந்ததில் ஒருவர் பலி: ஒருவர் மீட்பு
+
+*2024-12-13 10:09:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-ஒருவர்-பலி-ஒருவர்-மீட்பு/175-348679) · `ta`
+
+மட்டக்களப்பு முகத்துவாரம் கடல் பகுதியில் மீன் பிடி படகு கவிழ்ந்ததில் மீனவர் ஒருவர் நீரில் மூழ்கி உயிரிழந்ததுடன் ஒருவர் காப்பாற்றப்பட்ட  சம்பவம்  வெள்ளிக்கிழமை (13) காலையில் இடம்பெற்றுள்ளதாக கொக்குவில் பொலிஸார் தெரிவித்தனர்.
+
+திராய்மடு, முருகன் கோவில் வீதியைச் சேர்ந்த இரண்டு பிள்ளையின் தந்தையான கோடீஸ்வரன் வேணு ராஜ் (வயது 34 ) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்
+
+முகத்துவாரம் பகுதியில் இருந்து இயந்திர படகு ஒன்றில்  கடலுக்கு மீன்பிடிக்க  வியாழக்கிழமை (12)  இரவு இருவர் சென்று மீன் பிடித்து விட்டு மீண்டும் வெள்ளிக்கிழமை (13)  காலை 8 மணியளவில் முகத்துவாரம் கரையை நோக்கி வந்து கொண்டிருந்த போது படகு திடீரென கழிந்ததை அடுத்து ஒருவரை காப்பாற்றியதுடன் ஒருவர் நீரில்  மூழ்கி உயிரிழந்தார்
+
+◼️
+
+[Data](articles/c2bfb5d3.json)
+
+---
+
+### தங்காலையில் கைவிடப்பட்ட கார் மீட்பு
+
+*2024-12-13 10:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-கைவிடப்பட்ட-கார்-மீட்பு/175-348678) · `ta`
+
+தங்காலை வீரக்கெட்டிய வீதியில் பதிகம மரகஸ் சந்தியிலிருந்து திரவல வரையான பக்க வீதியில் வெறிச்சோடிய காணிக்கு அருகில் வியாழக்கிழமை (12) இரவு வெள்ளை நிற கார் கைவிடப்பட்ட நிலையில் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+வீரக்கெட்டிய பொலிஸ் நிலைய கட்டளைத் தளபதி பொலிஸ் பரிசோதகர் நுவான் விஜேதுங்கவிற்கு கிடைத்த தகவலுக்கு அமைய, உரிமையாளர் இல்லாத இந்த சந்தேகத்திற்கிடமான கார் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+குறித்த கார், கடவத்தை, விஜயபா மாவத்தை, மேல் கரகஹமுன, என்ற இடத்தில் வசிக்கும் 36 வயதுடைய பெண்ணின் பெயரில் பதிவு செய்யப்பட்டுள்ளதாக தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5556db40.json)
+
+---
 
 ### High-level US delegation concludes successful visit to Sri Lanka
 
@@ -142,6 +174,28 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
+### வளிமண்டலவியல் திணைக்கள அறிவித்தல்
+
+*2024-12-13 08:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்கள-அறிவித்தல்/175-348675) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடா கடற்பரப்புகளுக்கு மேலாக விருத்தியடைந்த குறைந்த அழுத்தப் பிரதேசம் வலுவிழந்து வருவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன் காரணமாக வடக்கு, வடமத்திய மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடக்கு மாகாணத்தில் சில இடங்களில் 50 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+ஊவா மாகாணத்தில் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ, தென் மற்றும் ஊவா மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/ddb61482.json)
+
+---
+
 ### Public urges to cooperate with ongoing population and housing census
 
 *2024-12-13 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104201/public-urges-to-cooperate-with-ongoing-population-and-housing-census) · `en`
@@ -162,21 +216,27 @@ Additionally, the District Secretary for Colombo requested that the public  pro
 
 ---
 
-### පොල් හිඟයට හේතුව අධික උණුසුම - රුහුණු සරසවියෙන් අනාවරණයක්
+### Death of coconut - Ruhunu University revealed
 
 *2024-12-13 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204326) · `si`
 
-මේ වනවිට රටතුළ හටගෙන ඇති පොල් හිඟයට ප්‍රධාන හේතුව වසරේ මුල් මාස කිහිපය තුළ පැවති අධික උණුසුම් සහිත කාලගුණ තත්ත්වය බව රුහුණු විශ්ව විද්‍යාලයේ භෝග විද්‍යාව පිළිබඳ ජ්‍යේෂ්ඨ මහාචාර්ය අරුණ කුමාර මහතා පවසයි.
+Coconut shortage causes: high temperatures reduce seedling growth & pollination. Sri Lanka consumes 114 coconuts/year. Experts suggest increasing plantations to address scarcity.
 
-එමෙන්ම මෙරට වාර්ෂිකව වගාකරන පොල් පැළ ප්‍රමාණය ලක්ෂ 70කින් පමණ අඩුවීමද මීට හේතුවී ඇති බව ඔහු පෙන්වා දෙයි.
+🟩
 
-"කෙටි කාලයක් ඇතුළත පොල් හිඟ වෙන්න නම් රිළා ගහනය ක්ෂණිකව වැඩි වුණාද කියලා සලකා බලන්න වෙනවා. පැහැදිලි දේ තමයි එහෙම ක්ෂණික වැඩිවීමක් වුණේ නැහැ. නමුත් කාලයක් තිස්සේ මේ සතුන්ගේ ගහනය වැඩි වෙනවා. මාර්තු සිට ජුනි දක්වා රට තුළ උෂ්ණත්වයේ අධික ඉහළ යෑම සහ පොල් ගෙඩි හටගැනීම විශාල වශයෙන් අඩුවීම සිදුවෙලා තිබෙනවා. පොල් ගහකට සුදුසුම උෂ්ණත්වය වන්නේ centigrade 27,28 වගේ උෂ්ණත්වයක්. නමුත් මේක centigrade 33ට වඩා ඉහළට යනකොට පොල්ගස්වල පරාගණය අඩුවෙලා ඵල හටගැනීම අඩු වෙනවා."
+Senior Professor of Professor Aruna Kumara says that the main cause of coconut shortage in the country is the hot-hot weather in the first few months of the Ruhuna.
 
-අද දෙරණ කළ විමසීමකදී ජ්‍යේෂ්ඨ මහාචාර්ය අරුණ කුමාර මහතා පැවසුවේ, ලෝකයේ වැඩිම පොල් පරිභෝජනයක් සහිත රට ශ්‍රී ලංකාව වන අතර පුද්ගලයෙකු වසරකට පොල්ගෙඩි 114ක් පරිභෝජනය කරන බවය.
+He also said that the number of coconut seedlings in the country has reduced the number of coconut seedlings from about 70 lakhs.
+
+"It has to be considered that the coconut is instantly increased to be scarce within a short period of time. Clear is not a quick increase. But for some time the population of these animals is increasing. High increase in temperature from March to June and the decrease in temperature and coconut availability. The best temperature for a coconut tree is a temperature like a Centigrade 27,28. But when it goes up to the centigrade, the pollination of the collise is reduced and the fruit decreases. "
+
+In response to Ada Derana, Prof. Aruna Kumara said that Sri Lanka is the largest number of coconut consumption in the world and a person consumes 114 coconuts per year.
 
 ...
 
 [Data](articles/51547089.json)
+
+[Extended Data](ext_articles/51547089.ext.json)
 
 ---
 
@@ -2217,75 +2277,5 @@ The monies were made mainly from taxes on liquor production and under the Tobacc
 [Data](articles/e201ef8e.json)
 
 [Extended Data](ext_articles/e201ef8e.ext.json)
-
----
-
-### Meeting between Bill & Meelinda Gates forum
-
-*2024-12-12 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201085) · `ta`
-
-Bill & Melinda Gates forum meeting summary: India-Southeast Asia policy relations discussed. Focus on digital agriculture, public amenities. Technical cooperation for financial facilities development. Government actions on digitalization and nutrition addressed. Top officials present.
-
-🟩
-
-The meeting between Bill & Melinda Gates forum was held at the Prime Minister's Office between India and Southeast Asia's policy and state relations, Chief Director Hari Menon and Prime Minister Dr. Harini Amarasuriya.
-
-Menon made it clear that the activities of the Health and Nutrition, Agriculture, Urban Health and Women's Economy on the Forum on the Forum.
-
-It has also been stated that the focus will be on the development of "digital agriculture" and "digital public basic amenities" in Sri Lanka.
-
-The discussion was also discussed on the provision of technical cooperation for the development of financial facilities and public basic amenities for digital agricultural projects.
-
-The Prime Minister explained the government's actions on issues to address digitalization and nutritional deficiency.
-
-...
-
-[Data](articles/ea9c0ab7.json)
-
-[Extended Data](ext_articles/ea9c0ab7.ext.json)
-
----
-
-### Peoples Bank to use Sri Lanka’s LankaPay US dollar payment system
-
-*2024-12-12 15:59:00* · [`economynextcom`](https://economynext.com/peoples-bank-to-use-sri-lankas-lankapay-us-dollar-payment-system-193947/) · `en`
-
-ECONOMYNEXT – State owned People’s Bank has enabled local routing of domestic US dollar fund transfers via LankaPay to its online payment system, improving the digital payment system in Sri Lanka.
-
-“As a Bank which handles significant amount of domestic US Dollar transactions, having People’s Bank onboard for US Dollar On-line system is of great significance which is reflected in them becoming the third highest inward volume in the first month of joining the system,” LankaPay CEO Channa de Silva said.
-
-The bank joined the LankaPay US Dollar Online Payments System in 2021 towards LankaPay/JCB card net settlement purpose. The bank has now enabled domestic US dollar payment settlements also via the same system.
-
-“Our goal is to enhance both inward and outward remittances through this system, and we look forward to expanding our business and these transactions are currently handled by the Overseas Customer Services of the Bank,” People’s Bank CEO/GM Clive Fonseka said.
-
-...
-
-[Data](articles/159a135b.json)
-
-[Extended Data](ext_articles/159a135b.ext.json)
-
----
-
-### The person who chopped the agent's neck
-
-*2024-12-12 15:58:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முகவரின்-கழுத்தை-அறுத்த-நபர்/175-348637) · `ta`
-
-A man in Asvetuma, Kurunegala, attacked a 52-year-old foreign agent due to unfulfilled demands. He cut off the agent's neck and hurt female staff. Police arrested the suspect and hospitalized the victims.
-
-🟩
-
-The person who has demanded that he has been sent to the foreign maid, has cut off the foreign agent (age 52) because of the inability to fulfill his demand, hurting the female staff and tried to make himself up.
-
-A man from Asvetuma, Kurunegala has sent her a counterfeiter to Kuwait through a foreign employment agency in Navina.
-
-The 32 -year -old man, who went to the station, demanded that he telephoned his counterfeit girlfriend. However, as it was not fulfilled on Thursday (12), he was arguing with the agent, cut off the agent's ass, and attacked the female employee.
-
-Kurunegala police rushed to the scene after receiving information about the incident and arrested the suspect with a knife. Both the injured have been admitted to the hospital.
-
-◼️
-
-[Data](articles/a7c65ee9.json)
-
-[Extended Data](ext_articles/a7c65ee9.ext.json)
 
 ---

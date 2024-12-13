@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 12:02:55**
+As of **2024-12-13 12:18:43**
 
 ## Newspaper Stats
 
@@ -26,31 +26,45 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,897 (99.9%) of 59,955 articles have been extended.
+59,898 (99.9%) of 59,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### “பயப்பட வேண்டாம்”
+### “Don't be afraid”
 
 *2024-12-13 11:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயப்பட-வேண்டாம்/175-348691) · `ta`
 
-எலிக்காய்ச்சலை ஆரம்பத்தில் கண்டறிந்து குணப்படுத்த முடியும். Doxycycline தடுப்பு மருந்தும் உள்ளது என பருத்தித்துறை அரசினர் ஆதார வைத்தியசாலை தெரிவித்துள்ளது.
+Here's a summary in 200 characters:
 
-இது தொடர்பாக வைத்தியசாலை நிர்வாகம் வியாழக்கிழமை (12) நள்ளிரவு  அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
 
-அதில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது எலிக்காய்ச்சல் என சந்தேகிக்கப்பட்டு  நவம்பர் மாதம் சிகிச்சை பெற்ற நோயாளிகள் எண்ணிக்கை  5 ஆகும்.
 
-டிசம்பர் 1 ஆம் திகதியில் இருந்து டிசம்பர் 12ம் திகதி இரவு 11 மணி வரை எலிக்காய்சல் என சந்தேகிக்கப்பட்டு சிகிச்சை பெற்ற ,பெறுகின்ற நோயாளர்கள் எண்ணிக்கை 58 ஆகும். இதில், 1ஆம் திகதி 9ஆம் திகதி வரை -13 பேரும்,10ம் திகதி முதல் 11ம் திகதி வரை 29 பேரும், 12ம் திகதி - 16 பேரும் சிகிச்சை பெற்றனர்.
+"Don't fear Eligus detection & cure. Doxycycline vaccine available. Hospital report shows flu patients. ICU transfers, treatments ongoing. Precautions taken. More doctors, nurses needed. Hospital open for all."
 
-எலிக்காய்சல் என சந்தேகிக்கப்பட்டு வியாழக்கிழமை (12)சிகிச்சைக்காக அனுமதிக்கப்பட்டவர்கள் -16 பேர், தீவிர சிகிச்சை பிரிவில் இருப்பவர்கள் இருவர்,  யாழ்ப்பாண வைத்தியசாலைக்கு மேலதிக சிகிச்சைக்கு அனுப்பப்பட்ட வர் ஒருவர்.
+🟩
 
-வியாழக்கிழமை (12)  வைத்தியசாலையில் கர்ப்பிணி பெண்கள்-இருவர் உள்ளடங்கலாக  28 பேர் சிகிச்சை பெறுகின்றனர்.
+Eligus can be detected and cured early. Doxycycline vaccine is also in the hospital.
+
+The hospital administration issued a report on Thursday (12).
+
+It further stated that the number of patients who had been treated in November were suspected of being a flu.
+
+The number of patients suspected of being a mice is 58 from December 1 to December 12 at 11 pm. Of these, 13 were treated from the 1st of the 9th, 29 from the 10th to the 11th and the 12th - 16 on the 12th.
+
+Thursday (12), who was suspected of being Elikaisal and admitted for treatment on Thursday (12), two people in the intensive care unit were sent to the Jaffna Hospital for further treatment.
+
+28 people are receiving treatment at the hospital on Thursday (12), including pregnant women-two.
+
+The dead from the Point Pedro Resource Hospital to the Jaffna Teaching Hospital
+
+A resident of Mullaitivu was admitted to the Jaffna Hospital directly when he was temporarily lived in Navatkuli.
 
 ...
 
 [Data](articles/4beef7e3.json)
+
+[Extended Data](ext_articles/4beef7e3.ext.json)
 
 ---
 
@@ -192,11 +206,15 @@ Syria is a state of disrepair. Baba Benga has said that this fall in Syria is th
 
 The Arthur C. Clarke Institute for Modern Technologies (ACCIMT) says that the Geminids meteor shower, considered as one of the most spectacular meteor showers of the year, will be visible tonight (13) and tomorrow (14).
 
-Accordingly, the Geminids meteor shower will be clearly visible for Sri Lankans tomorrow night.
+Accordingly, the Geminids meteor shower will peak and be clearly visible for Sri Lankans tomorrow night (14).
 
 Research scientist (astronomy) at ACCIMT Indika Medagangoda, explained that around 120 meteors per hour will be visible in the northern and eastern skies after 9.00 p.m.
 
-◼️
+The Geminids, which are bright and have a yellow hue, are considered one of the best and most reliable annual meteor showers, when at least 120 meteors are usually seen per hour during its peak.
+
+The Geminid meteor shower peaks in the middle of December, with the most activity this year expected late Friday and into early Saturday, according to NASA.
+
+...
 
 [Data](articles/7528866c.json)
 
@@ -1478,6 +1496,20 @@ Ven Mettavihari sent me a verbatim transcription of a talk given by Ven Brahmava
 
 ---
 
+### தமிழரசு கட்சி மட்டக்களப்பில் பெற்ற பெருவெற்றியும் யாழ்ப்பாணத்தில் அடைந்த படுதோல்வியும்
+
+*2024-12-13 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85193) · `en`
+
+பாராளுமன்றத்தில்  நவம்பர் 21 ஆம் திகதி மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராஜபுத்திரன் இராசமாணிக்கத்தை  புன்முறுவலுடன் வரவேற்ற ஜனாதிபதி அநுர குமார திசாநாயக்க  கூறிய வார்த்தைகள் இவை.
+
+பத்தாவது பாராளுமன்றத்தின் அங்குரார்ப்பணக் கூட்டத்தின்போது பாராளுமன்ற உறுப்பினர்களுடன் ஒன்றறக்கலந்து ஜனாதிபதி அன்னியோன்யமாக உரையாடினார். நவம்பர் 14 பாராளுமன்ற தேர்தலைப் பற்றியே சாணக்கியனிடம் அவர் அவ்வாறு மறைபொருளாக கூறினார். மட்டக்களப்பை தவிர இலங்கையின் சகல தேர்தல் மாவட்டங்களிலும் அநுர குமார திசாநாயக்க தலைமையிலான ஜே.வி.பி. / தேசிய மக்கள் சக்தி முதலாவதாக வந்தது. அந்த கிழக்கு மாவட்டத்தை இலங்கை தமிழரசு கட்சி கைப்பற்றியது. மட்டக்களப்பின் ஐந்து பாராளுமன்ற ஆசனங்களில் மூன்று அந்த கட்சிக்கு கிடைத்தது. தேசிய மக்கள் சக்தியும் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸும் தலா ஒவ்வொரு ஆசனத்தைப் பெற்றுக்கொண்டன.
+
+...
+
+[Data](articles/5e71fb03.json)
+
+---
+
 ### Sri Lankan  opposition parties have strengthened the hand of the JVP/NPP government to proceed with its assault on the living conditions of workers and the poor.
 
 *2024-12-13 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85199) · `en`
@@ -2253,25 +2285,5 @@ Information is currently being revealed on the Speaker's titles. Are the nationa
 [Data](articles/0ecd9413.json)
 
 [Extended Data](ext_articles/0ecd9413.ext.json)
-
----
-
-### President calls for strengthening Sri Lanka’s financial system
-
-*2024-12-12 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104190/president-calls-for-strengthening-sri-lankas-financial-system) · `en`
-
-President Anura Kumara Dissanayake has directed the Ministry of Finance to implement measures to enhance the efficiency and resilience of Sri Lanka’s financial system.
-
-The President provided these instructions during a discussion with Finance Ministry officials at the Presidential Secretariat today (12), according to the President’s Media Division (PMD).
-
-Highlighting the Central Bank’s crucial role as an independent institution, President Dissanayake assured that the government would extend its full support and resources to stabilize the country’s finances.
-
-He emphasized the importance of creating an effective mechanism to streamline banking and financial operations, ensuring efficiency and accessibility.
-
-...
-
-[Data](articles/ff4af0e1.json)
-
-[Extended Data](ext_articles/ff4af0e1.ext.json)
 
 ---

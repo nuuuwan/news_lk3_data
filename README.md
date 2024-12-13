@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 06:49:45**
+As of **2024-12-13 08:10:19**
 
 ## Newspaper Stats
 
-*Scraped **59,913** Articles*
+*Scraped **59,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,618
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,690
-adaderanalk | 7,289
-tamilmirrorlk | 8,560
+adalk | 5,691
+adaderanalk | 7,290
+tamilmirrorlk | 8,561
 virakesarilk | 9,828
 adaderanasinhalalk | 10,354
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,867 (99.9%) of 59,913 articles have been extended.
+59,869 (99.9%) of 59,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-13 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104198/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers or thundershowers will occur at times in Northern, North-central and North-western provinces.
+
+Showers or thundershowers may occur at several places elsewhere during the evening or night.
+
+Fairly heavy showers about 75mm are likely at some places in Uva province and in Hambantota district, according to the Met. Department.
+
+Showers can occur at some places of the coastal areas in the Western province and in Galle and Matara districts in the morning too.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern and Uva provinces during the morning, it said.
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/195cbbfa.json)
+
+---
 
 ### Lanka T10 Galle Marvesle arrested
 
@@ -228,6 +250,8 @@ Highlighting the strong bilateral ties between the two countries, Ambassador Al 
 
 [Data](articles/41ecf607.json)
 
+[Extended Data](ext_articles/41ecf607.ext.json)
+
 ---
 
 ### US Embassy Colombo achieves LEED Gold Certification
@@ -265,6 +289,8 @@ He commended the current Government’s efforts to reform this culture, marking 
 ...
 
 [Data](articles/05ccb297.json)
+
+[Extended Data](ext_articles/05ccb297.ext.json)
 
 ---
 
@@ -343,6 +369,26 @@ High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks o
 ...
 
 [Data](articles/85b46a27.json)
+
+---
+
+### தனிமையில் வசித்த வயோதிபர் சடலமாக மீட்பு
+
+*2024-12-13 03:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-வசித்த-வயோதிபர்-சடலமாக-மீட்பு/175-348674) · `ta`
+
+யாழ். வடமராட்சி, அல்வாய் மேற்கு - ஆண்டாள் தோட்டம் பகுதியில் உள்ள வீடு ஒன்றில் தனிமையில் வசித்து வந்த வயோதிபர் ஒருவர் உயிரிழந்த நிலையில் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+அதே இடத்தைச் சேர்ந்த கந்தையா கணபதிப்பிள்ளை (வயது 86) என்ற வயோதிபரே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+அவர் வீட்டில் தனிமையில் வசித்து வந்த நிலையில் நேற்றுக் காலையில் இருந்து கூக்குரல் இட்டவாறு இருந்துள்ளார்.
+
+பின்னர் சத்தம் கேட்காது இருந்த நிலையில் அயலவர்களால் கிராம அலுவலர் மற்றும் பொதுச் சுகாதாரப் பரிசோதகருக்குத் தெரியப்படுத்தப்பட்டது.
+
+சம்பவ இடத்துக்கு நேற்று இரவு சென்ற பருத்தித்துறை பதில் மரண விசாரணை அதிகாரி திருமதி அன்ரலா வின்சன்தயான் விசாரணை செய்து உடற்கூற்றுப் பரிசோதனை மேற்கொண்டு அறிக்கை சமர்ப்பிக்குமாறு பருத்தித்துறைப் பொலிஸாருக்கு உத்தரவிட்டார். (a)
+
+◼️
+
+[Data](articles/b117b630.json)
 
 ---
 
@@ -979,6 +1025,24 @@ The Liberal National Party (LNP) - which won the state election in October - mad
 [Data](articles/2031e26e.json)
 
 [Extended Data](ext_articles/2031e26e.ext.json)
+
+---
+
+### ව්‍යවස්ථාදායක සභාවේ තීන්දුව අභියෝග කළ නීතිඥවරයාගේ පෙත්සම පරදි
+
+*2024-12-12 20:07:22* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යවස්ථාදායක-සභාවේ-තීන්දුව-අභියෝග-කළ-නීතිඥවරයාගේ-පෙත්සම-පරදි/11-413610) · `si`
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු  නිස්සංක බන්ධුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරන විනිසුරුවරයෙකු වශයෙන් පත්කිරීම ප්‍රතික්ෂේප කරමින්  ව්‍යවස්ථාදායක සභාව දුන් නිර්දේශය අභියෝගයට ලක් කරමින් නීතිඥවරයෙකු ගොනුකොට තිබූ මූලික අයිතිවාසිකම් පෙත්සම  විභාගයට ගැනීම ප්‍රතික්ෂේප කල ශ්‍රේෂ්ඨාධිකරණය නඩු ගාස්තු වශයෙන් රුපියල් ලක්ෂ 20 මුදලක් රජයට සහ ව්‍යවස්ථාදායක සභාවට ගෙවීමට පෙත්සම්කාර නීතිඥවරයාට  ඊයේ දොළහ නියෝග කළේය.
+
+පාර්ලිමේන්තුව නියෝජනය නොකරන  ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් තිදෙනාට රුපියල් ලක්ෂ පහ බැගින් ලක්ෂ 15ක මුදලක් නඩු ගාස්තු වශයෙන්  ගෙවීමටද  තවත් රුපියල් ලක්ෂ පහක මුදලක් නඩු ගාස්තු වශයෙන් රජයට ගෙවීමටද පෙත්සම්කාර නීතිඥවරයාට  නියෝග කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීති පද්මන් සුරසේන, මහින්ද සමයවර්ධන  සහ අ චල වෙන්ගප්පුලි  යන මහත්වරුන්ගේ සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින්  මෙම නියෝගය ප්‍රකාශයට පත්කරනු ලැබුණි .
+
+නීතිඥ සරිත් පතිරත්න මහතා විසින් ගොනුකොට තිබූ මෙම මූලික අයිතිවාසිකම්  පෙත්සමේ වගුත්තරකරුවන් වශයෙන් ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් ඇතුළු පිරිසක් නම් කර තිබිණි.
+
+◼️
+
+[Data](articles/ad490d7c.json)
 
 ---
 
@@ -2239,79 +2303,5 @@ With the general election this year, the people of power won five national lists
 [Data](articles/d3476d4a.json)
 
 [Extended Data](ext_articles/d3476d4a.ext.json)
-
----
-
-### Cooperation of the United Arab Emirates
-
-*2024-12-12 14:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-அரபு-அமீரகத்தின்-ஒத்துழைப்பு/175-348635) · `ta`
-
-UAE agrees to cooperate with Sri Lanka's development program. Investment in Sri Lanka increasing, focusing on digitalization and technology. 150,000 Sri Lankans work in UAE, aiming to expand export market. Long-standing friendship between countries strengthened. President invites UAE visit in coming years.
-
-🟩
-
-The United Arab Emirates has agreed to cooperate with the current government's program to build the developed Sri Lanka.
-
-Khaleed Nasser Alameri, Ambassador of Sri Lanka, Khalid Nasser Alameri, said that the investment in Sri Lanka is increasing and the technical knowledge of digitalization and introduction of new technologies.
-
-The meeting between President Anura Kumara Dissanayake and Ambassador of the United Arab Emirate Khalid Nasar al -Ameri was held today (12) at the Presidential Office.
-
-Focusing on 150,000 Sri Lankans currently working in the UAE and further increasing the amount.
-
-While the United Arab Emirates are the sixth largest export market in Sri Lanka, it was also discussed to further expand the market opportunities.
-
-Similarly, the Ambassador assured Anurakumara Dissanayake that the long -standing friendship between the two countries would be further strengthened and that he was ready to help Sri Lanka at any occasion.
-
-...
-
-[Data](articles/30a05f2f.json)
-
-[Extended Data](ext_articles/30a05f2f.ext.json)
-
----
-
-### SJB announces its National List MPs
-
-*2024-12-12 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104186/sjb-announces-its-national-list-mps) · `en`
-
-The Samagi Jana Balawegaya (SJB) has finally announced the four names nominated to fill its remaining National List MP seats in Parliament.
-
-Accordingly, the main opposition party has named Mano Ganesan, Nizam Kariapper, Sujeewa Senasinghe and Mohamed Ismail for the remaining four National List MP posts.
-
-Following the General Election held on November 14, the SJB secured five National List MP seats (bonus seats).
-
-On November 19, the General Secretary of the Samagi Jana Balawegaya (SJB), Ranjith Madduma Bandara, had been appointed to one of National List seats of the SJB while discussions had continued until today regarding the four remaining seats.
-
-Meanwhile, the Colombo District Court today issued a restraining order preventing the Samagi Jana Balawegaya (SJB) from submitting their National List MP nominees without including the name of Nizam Kariapper of the Sri Lanka Muslim Congress (SLMC).
-
-...
-
-[Data](articles/8b261a90.json)
-
-[Extended Data](ext_articles/8b261a90.ext.json)
-
----
-
-### Siding in search of plasti goods inappropriate
-
-*2024-12-12 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204304) · `si`
-
-Sri Lanka health inspectors probe plastic/polythene sales. Chairman warns against illegal cargo marketing. Parents advised to monitor children's plastic bottle usage.
-
-🟩
-
-Sri Lanka Public Health Inspectors Association says that investigations are being conducted regarding the sale of plastic and polythene.
-
-The Chairman of the Association Upul Rohana said that Plastic goods are inspected at the agency of Sri Lanka.
-
-He said he would be prosecuted against the innilual cargo marketing.
-
-He further stated that parents should pay close attention to their children and bottles filling of water from coming from coming from coming.
-
-◼️
-
-[Data](articles/76265948.json)
-
-[Extended Data](ext_articles/76265948.ext.json)
 
 ---

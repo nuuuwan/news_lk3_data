@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 10:42:52**
+As of **2024-12-13 11:43:47**
 
 ## Newspaper Stats
 
-*Scraped **59,936** Articles*
+*Scraped **59,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,211 @@ newsfirstlk | 363
 dbsjeyarajcom | 449
 colombotelegraphcom | 607
 bbccomsinhala | 626
-islandlk | 3,619
-economynextcom | 3,648
+islandlk | 3,621
+economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,693
-adaderanalk | 7,296
-tamilmirrorlk | 8,567
-virakesarilk | 9,828
+adalk | 5,694
+adaderanalk | 7,298
+tamilmirrorlk | 8,570
+virakesarilk | 9,831
 adaderanasinhalalk | 10,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,887 (99.9%) of 59,936 articles have been extended.
+59,895 (99.9%) of 59,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### தமிழ்நாட்டில் போராடும் தமிழ் இளைஞனுக்காக குரல் கொடுத்த நாமல்
+### ‘Offenders will face consequences, regardless of rank or status’ – President AKD
+
+*2024-12-13 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104207/offenders-will-face-consequences-regardless-of-rank-or-status-president-akd) · `en`
+
+“We will not allow the trust the people have placed in us to be undermined in any way,” stated President Anura Kumara Dissanayake during a meeting with the heads of state media today (13).
+
+He further emphasised, “Regardless of their status in government, if mistakes are made, we will not hesitate to take appropriate action,” according to the President’s Media Division (PMD).
+
+“For more than seven decades, the people of this nation have built and dismantled various governments. For the first time, we stand with a profound understanding of the historic mandate entrusted to us and the National People’s Power on two occasions.
+
+The people placed their faith in the National People’s Power (NPP) government, hoping for a standardised and stable country. We will not tarnish that extraordinary trust, even by the slightest misconduct.
+
+...
+
+[Data](articles/ee905a09.json)
+
+---
+
+### பாரிய அரிசி ஆலைகளின் மீதான கண்காணிப்பு தீவிரம்
+
+*2024-12-13 11:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-அரிசி-ஆலைகளின்-மீதான-கண்காணிப்பு-தீவிரம்/175-348690) · `ta`
+
+பாரிய அரிசி ஆலைகளில் இருந்து வெளியாகும் அரிசியின் அளவை மேலும் கண்காணிப்பதற்கு அதிகாரிகள் ஈடுபடுத்தப்பட்டுள்ளதாக, நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+
+இதேவேளை, அரசாங்கத்தினால் விதிக்கப்பட்ட கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசியை விற்பனை செய்தமை மற்றும் அரிசியை பதுக்கி வைத்திருந்த 80 நபர்களுக்கு எதிராக நேற்று (12) வரை சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக, நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
+
+கடந்த மூன்று நாட்களுக்குள் இவ்வாறான செயற்பாடுகளில் ஈடுபட்ட 201 நபர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக, நுகர்வோர் விவகார அதிகார சபை மேலும் தெரிவித்துள்ளது.
+
+அதிக விலைக்கு அரிசி விற்பனை செய்பவர்களைத் தேடி நாடளாவிய ரீதியில் சோதனைகள் நடத்தப்பட்டு வருவதாகவும் அதிகாரசபை அறிவித்துள்ளது.AN
+
+◼️
+
+[Data](articles/dc12e00b.json)
+
+---
+
+### MPs to appoint a committee to explore the degrees of the MPs
+
+*2024-12-13 11:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-எம்-பிகளின்-பட்டங்களை-ஆராய-குழு-நியமிக்க-பிரேரணை/175-348687) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+UNP & New Democratic Front propose committee to verify parliamentary qualifications. Aimed at resolving issues over Speaker's medical degree & another minister's engineering credentials.
+
+🟩
+
+The United National Party and the new Democratic Front have decided to submit a proposal to appoint a select committee to investigate the educational qualification of all parliamentarians, including the Speaker of the National People's Power Government, including the Speaker of the Government.
+
+Jeevan Thondaman, a member of the United National Party and the New Democratic Front, will present a proposal in Parliament.
+
+The new Democratic Front has said that the selection committee has been aimed at solving the issues relating to the doctor's degree of Speaker Asoka Ranwala and another minister's engineering degree.
+
+The new Democratic Front said that the proposal to appoint the appropriate select committee would be submitted as the Speaker's Power would not accept a response from the Speaker or the National People's Power Government.
+
+◼️
+
+[Data](articles/53836651.json)
+
+[Extended Data](ext_articles/53836651.ext.json)
+
+---
+
+### Murder by a sharp weaponSuspect arrested
+
+*2024-12-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201134) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+74-year-old suspect arrested in Thikkumbura for murder with sharp weapon. Incident occurred in Galle-Himadhuwa police division on Thursday (12).
+
+🟩
+
+A suspect in connection with the murder of a man was arrested in Thikkumbura area, which belongs to the Galle and Himadhuwa police division, has been arrested on Thursday (12).
+
+The suspect was 74 years old from Imaduwa, Thikkumbura.
+
+◼️
+
+[Data](articles/d6c3c9ae.json)
+
+[Extended Data](ext_articles/d6c3c9ae.ext.json)
+
+---
+
+### The scareer Baba Benga's arum
+
+*2024-12-13 11:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பயமுறுத்தும்-பாபா-வங்காவின்-ஆரூடம்/50-348685) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Baba Benga: Bulgarian blind prophet predicting global events. Forecasts 3rd World War after Syria's fall, beginning in 2025. Accurately predicted 9/11, Obama presidency, Brexit. 85% accuracy rate. Claims no single winner in Syria conflict. Predicts European decline and alien encounters.
+
+🟩
+
+Baba Benga ... Have you heard of this name already?She is a woman from Belazica, Bulgaria. Baba Benga, who lost his eyesight at a young age, began to say what would happen in the future world.
+
+Baba Bengal also has the name of the female nastradamus in the Balkan region. (The ancient prophet who lived in France, Nastradamus, the centuries of the book "The future of the world"
+
+Baba Benga has said what will happen in the future, ie 5079. It is worth noting that 85 percent of his arms have been sacrificed.
+
+Well, now we may have the question of what we need to talk about Baba Benga. The idea of ​​Baba Benga has come back to many worldwide as the regime has now collapsed in the West Asian country of Syria and the Syrian rebels are in their hands.
+
+The reason is that Baba Benga has already said that the third world war will begin after the fall of Syria.
+
+Syria is a state of disrepair. Baba Benga has said that this fall in Syria is the forecast and the starting point for the majority.
+
+...
+
+[Data](articles/97e33063.json)
+
+[Extended Data](ext_articles/97e33063.ext.json)
+
+---
+
+### Geminids meteor shower visible from Sri Lanka tonight
+
+*2024-12-13 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104206/geminids-meteor-shower-visible-from-sri-lanka-tonight) · `en`
+
+The Arthur C. Clarke Institute for Modern Technologies (ACCIMT) says that the Geminids meteor shower, considered as one of the most spectacular meteor showers of the year, will be visible tonight (13) and tomorrow (14).
+
+Accordingly, the Geminids meteor shower will be clearly visible for Sri Lankans tomorrow night.
+
+Research scientist (astronomy) at ACCIMT Indika Medagangoda, explained that around 120 meteors per hour will be visible in the northern and eastern skies after 9.00 p.m.
+
+◼️
+
+[Data](articles/7528866c.json)
+
+---
+
+### Stone beaten in Kegalle
+
+*2024-12-13 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201132) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Man killed in Kegalle dispute. Police arrest 74-year-old suspect. Incident occurred in Mayinnoluwa area.
+
+🟩
+
+Varakapola police said that a man was assassinated and murdered in the Mayinnoluwa area belonging to the Varakapola police division in Kegalle.
+
+Police said the attack was caused by a dispute between the two men.
+
+A 74 -year -old suspect has been arrested by police in connection with the incident.
+
+◼️
+
+[Data](articles/49e9d529.json)
+
+[Extended Data](ext_articles/49e9d529.ext.json)
+
+---
+
+### Namal voiced for a Tamil youth fighting in Tamil Nadu
 
 *2024-12-13 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டில்-போராடும்-தமிழ்-இளைஞனுக்காக-குரல்-கொடுத்த-நாமல்/175-348681) · `ta`
 
-தமிழகத்தின் இராமநாதபுரம் மாவட்ட ஆட்சியர் அலுவலகத்துக்கு முன்பாக தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட இலங்கையரை நாட்டுக்கு அழைத்து வருவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ வலியுறுத்தியுள்ளார்.
+Namal Rajapakse urges govt to repatriate Tamil youth from TN protests. He seeks Indian citizenship or return to SL.
 
-இலங்கையில் இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது தமிழகத்தில் தஞ்சமடைந்த ஒருவர், தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி மண்டியிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்ட காணொளி ஒன்றைத் தமிழக ஊடகங்கள் வெளியிட்டுள்ளன.
+🟩
 
-தமக்கு இந்தியக் குடியுரிமை வழங்க வேண்டும் அல்லது தம்மை மீண்டும் இலங்கைக்குத் திருப்பி அனுப்புவதற்கு நடவடிக்கை எடுக்கப்பட வேண்டும் எனக் குறித்த நபர் வலியுறுத்தியுள்ளார்.
+Parliamentarian Namal Rajapakse has urged the government to take steps to bring the Sri Lankans who were protesting in front of the Ramanathapuram district collector's office in Tamil Nadu.
 
-இந்தநிலையில், இலங்கை அரசாங்கம், இந்திய அரசாங்கத்துடன் இணைந்து உடனடியாக குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்கு நடவடிக்கை எடுக்க வேண்டும் என நாமல் வலியுறுத்தியுள்ளார்.
+The Tamil media has released a video of a man who has been sheltered in Tamil Nadu during the civil war in Sri Lanka and demanded that he be sent back to Sri Lanka.
 
-மேலும், குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்குத் தேவையான உதவிகளை வழங்குவதற்குத் தாம் தயாராகவுள்ளதாகவும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார். R
+The person has urged him to grant Indian citizenship or return to Sri Lanka to return to Sri Lanka.
+
+In the meantime, Namal urged the Sri Lankan government to take immediate steps to bring the person to Sri Lanka with the Indian government.
+
+Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessary assistance to bring the person to Sri Lanka.. Remble
 
 ◼️
 
 [Data](articles/7166965a.json)
+
+[Extended Data](ext_articles/7166965a.ext.json)
 
 ---
 
@@ -56,7 +224,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-12-13 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104205/former-sri-lankan-diplomat-in-australia-fined-more-than-100000-for-entrapping-domestic-worker) · `en`
 
-A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the federal court.
+A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the Australian federal court.
 
 The fine is in addition to more than $500,000 in unpaid wages and interest she has already been ordered to restore, but has so far refused to pay.
 
@@ -69,6 +237,8 @@ But Danaratna told the federal court she was instead isolated and oppressed, wor
 ...
 
 [Data](articles/b5896d11.json)
+
+[Extended Data](ext_articles/b5896d11.ext.json)
 
 ---
 
@@ -124,6 +294,32 @@ The car has been registered in the name of a 36 -year -old woman living in Kadav
 
 ---
 
+### A man killed by a sharp weapon in Kuliyapitiya!
+
+*2024-12-13 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201129) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Man (39) killed with sharp weapon in Siyambalakasura, Kiliyapitiya. Police investigating; no arrests made.
+
+🟩
+
+A person has been killed in a sharp weapon in the Siyambalakasura area belonging to the Kiliyapitiya - Dummalausuriya police division, police said.
+
+The deceased is a 39 -year -old from Siyambalakasura, Dummalazuriya.
+
+Investigations have revealed that the murder was not revealed and no suspects have been arrested yet, police said.
+
+◼️
+
+[Data](articles/d2a74112.json)
+
+[Extended Data](ext_articles/d2a74112.ext.json)
+
+---
+
 ### Bottom trawling by Indian fishermen must stop: Sri Lanka’s Fisheries Minister
 
 *2024-12-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104204/bottom-trawling-by-indian-fishermen-must-stop-sri-lankas-fisheries-minister) · `en`
@@ -137,6 +333,32 @@ The fisheries conflict has remained a key diplomatic issue between India and Sri
 ...
 
 [Data](articles/f4ef3a22.json)
+
+[Extended Data](ext_articles/f4ef3a22.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 290.20/25 against US dollar, bond yields steady
+
+*2024-12-13 09:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-290-20-25-against-us-dollar-bond-yields-steady-194077/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.20/25 to the US dollar in Friday early trade marginally stronger from yesterday’s close of 290.20/35, dealers said, while bond yields were steady dealers said.
+
+A bond maturing on 15.02.2028 was quoted at 10.18/28 down from 10.25/35 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.45/55 down from 10.50/60 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.70/80 percent.
+
+A bond maturing on 15.05.2030 was quoted at 10.95/11.10 percent.
+
+In equities, the All Share Price Index was up 0.47 percent or 65.29 points, at 14,101.
+
+The more liquid S&P SL20 was up 0.69 percent, or 28.88 points, at 4,215.
+
+◼️
+
+[Data](articles/52ec2f39.json)
 
 ---
 
@@ -175,6 +397,22 @@ In a statement, the Ministry emphasized that, the visit underscored the deepenin
 [Data](articles/f69c12fe.json)
 
 [Extended Data](ext_articles/f69c12fe.ext.json)
+
+---
+
+### ඉන්දු - ලංකා ඒකාබද්ධ යුද අභ්‍යාසයට සයුර පිටත්වෙයි
+
+*2024-12-13 09:29:58* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු---ලංකා-ඒකාබද්ධ-යුද-අභ්‍යාසයට-සයුර-පිටත්වෙයි/11-413613) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව සහ ඉන්දීය නාවික හමුදාව අතර පැවැත්වෙන  SLINEX - 2024, ද්විපාර්ශ්වික ඉන්දු - ලංකා නාවික අභ්‍යාසය 2024 දෙසැම්බර් මස 17 වැනි දින සිට 20 වැනි දින දක්වා ඉන්දියාවේ විසාකපට්නම් හිදී පැවැතිවීමට නියමිතව ඇති  අතර, එම නාවික අභ්‍යාසයට සහභාගී වීම සඳහා ශ්‍රී ලංකා නාවික නෞකා සයුර නෞකාව 2024 දෙසැම්බර් මස 12 වන දින, හම්බන්තොට ජාත්‍යන්තර වරායෙන් දිවයිනෙන් පිටත් විය.
+
+ඉන්දීය හා ශ්‍රී ලංකා නාවික හමුදා අතර සහයෝගීතාවය සහ අන්තර්ක්‍රියාකාරීත්වය වැඩිදියුණු කිරීම වෙනුවෙන් ඉන්දු ශ්‍රී ලංකා නාවික අභ්‍යාසය වාර්ෂිකව පැවැත්වේ.
+
+ඒ අනුව,  SLINEX - 2024 ද්විපාර්ශ්වික  නාවික අභ්‍යාසයට සහභාගී වීම සඳහා  සයුර නෞකාව මෙලෙස දිවයිනෙන් පිටත්වූ අතර, නාවික හමුදා සාම්ප්‍රදායානුකූලව සයුර නෞකාව පිටත්ව යාම, දකුණු නාවික විධානයේ ආඥාපති රියර් අද්මිරාල් චන්දිම සිල්වා ගේ අධීක්‍ෂණයෙන්  සිදු විය.
+
+◼️
+
+[Data](articles/95461641.json)
 
 ---
 
@@ -332,6 +570,32 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
+### Sri Lanka ISB exchange deadline passes amid Hamilton case
+
+*2024-12-13 08:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-exchange-deadline-passes-amid-hamilton-case-194043/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s deadline for sovereign bondholders to accept set at December 12 has passed with authorities earlier saying the investors had ample incentives to accept the offer.
+
+Sri Lanka officials have said they could give more time if some bondholders require it.
+
+Sri Lanka bondholders have sufficient incentives to join exchange: CB Governor
+
+Sri Lanka sets December 12 deadline to exchange defaulted bonds
+
+Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
+
+Sri Lanka is attempting to exchange 12.5 billion worth defaulted bonds and past due interest with new bonds including a set of ‘macro-linked’ bonds where the payout is tied to economic growth.
+
+There are 11 bonds sovereign bonds with the later issues under a so-called ‘aggregated collective action clause’.
+
+Such bonds usually require a 66.6 percent ‘super majority’ collectively to carry out an exchange, according to analysts.
+
+...
+
+[Data](articles/4c694887.json)
+
+---
+
 ### Public urges to cooperate with ongoing population and housing census
 
 *2024-12-13 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104201/public-urges-to-cooperate-with-ongoing-population-and-housing-census) · `en`
@@ -481,6 +745,30 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/fad093f1.json)
+
+---
+
+### Sri Lanka’s CEB seeks award of LNG terminal tender
+
+*2024-12-13 06:35:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-seeks-award-of-lng-terminal-tender-194028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board has recommended to the government to go ahead with a tender for a floating liquefied natural gas terminal that will allow power generation costs to be slashed, Chairman Tilak Siyambalapitiya said.
+
+The tender for a floating storage regasification unit (FSRU) to be built offshore of Kerawalapitiya was called in 2021.
+
+The tender involved an FSRU on a built operate own basis and a compatible mooring system on a built operate own and transfer (BOOT) basis.
+
+The competitive tender was apparently suspended in controversial circumstances amid attempts to bring in a rival unsolicited proposal by New Fortress Energy, a US-based company.
+
+Sri Lanka could lose billions through unsolicited New Fortress Energy deal: CEBEU
+
+Later stop gap solutions were proposed instead of completing the tender.
+
+“Our preference is to go ahead with the bidding round that was concluded,” Siyambalapitiya told reporters.
+
+...
+
+[Data](articles/600f1d9d.json)
 
 ---
 
@@ -1159,6 +1447,24 @@ The new Government must recognise the current fearmongering campaign for what it
 ---
 
 ### 2024-12-12 (Thursday)
+
+### UK-Sri Lanka trade mission boosts women entrepreneurs’ export potential
+
+*2024-12-12 23:52:00* · [`economynextcom`](https://economynext.com/uk-sri-lanka-trade-mission-boosts-women-entrepreneurs-export-potential-193998/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Export Development Board (EDB) and the International Trade Centre (ITC) conducted 59 factory visits to women-led businesses as part of the UK-Sri Lanka Trade Mission under the SheTrades Commonwealth+ Programme.
+
+The initiative brought buyers from the West and North Yorkshire Chamber of Commerce and the Greater Birmingham Chamber of Commerce to Sri Lanka, highlighting women-led businesses across Colombo, Gampaha, Kalutara, Kurunegala, Kandy, Matale, Galle, Matara, Jaffna, Mulative  and Kilinochchi.
+
+Participating women entrepreneurs, from apparel and agri-food sectors, were able to connect with UK buyers, showcase their products and explore new export markets, particularly in the UK.
+
+“This mission reflects our commitment to empowering women entrepreneurs and positioning them as key contributors to Sri Lanka’s export economy,” EDB Chairman and Chief Executive Officer Mangala Wijesinghe said.
+
+...
+
+[Data](articles/6100f50a.json)
+
+---
 
 ### Ilankai Thamil Arasuk Katchi celebrates 75th birth anniversary
 
@@ -1987,311 +2293,5 @@ Fertilizer has not been distributed to state -owned Chilaw and Kurunegala Coconu
 [Data](articles/bd451469.json)
 
 [Extended Data](ext_articles/bd451469.ext.json)
-
----
-
-### President instructs to strengthen the financial system of the country
-
-*2024-12-12 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204314) · `si`
-
-Pres. Anura Kumara Dissanayake instructs strengthening national financial system. Orders Ministry of Finance & Central Bank to implement new policies for economic stability & efficient banking mechanisms.
-
-🟩
-
-President Anura Kumara Dissanayake has instructed the Ministry of Finance to the Ministry of Finance to strengthen the country's financial system and take necessary measures.
-
-The President also instructed the President at the Presidential Secretariat today (12) with the officials of the Ministry of Finance.
-
-The President has also said that the Government of the Central Bank will take the support and support of the Central Bank as an independent agency to starve the financial state of the country.
-
-The President also instructed the officials to create a good mechanism to make bank finance efficient.
-
-After close studying the growth of developments in the economy and financial system, the Central Bank has also focused on implementing new policies to ensure financial solution and resistance to the financial system.
-
-It has also been discussed to further enforce macro prudent policies in the financial system.
-
-...
-
-[Data](articles/e6741fb7.json)
-
-[Extended Data](ext_articles/e6741fb7.ext.json)
-
----
-
-### Sri Lanka sells Rs130bn in 2029 and 2033 bonds
-
-*2024-12-12 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs132-5bn-in-2029-and-2033-bonds-193993/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 130 billion rupees in 2029 and 2033 bonds after offering 132.5 billion, data from the state debt office showed.
-
-All offered 77.5 billion rupees of 15 September 2029 (LKB00629I154) bonds were sold at an average yield of 10.75 percent.
-
-Out of 55 the billion rupees of 01 June 2033 (LKB02033F013) bonds offered, 53.2 billion were sold at a weighted average yield of 11.47 percent, rejecting other bids.
-
-The LKB00629I154 bond was available on tap after the auction. “An issuance window for the ISIN LKB00629I154 is open until 3.00 pm of business day prior to settlement date (i.e., 13.12.2024) at the Weighted Average Yield Rate (WAYR) determined for the said ISIN at the auction, up to 10% of the respective amount offered.” (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/46764086.json)
-
-[Extended Data](ext_articles/46764086.ext.json)
-
----
-
-### A man arrested for defrauding Rs.
-
-*2024-12-12 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201099) · `ta`
-
-Jaffna man arrested for defrauding Vavuniya resident over furniture deal. Police detained suspect after receiving complaint. Incident occurred in Kondavil area.
-
-🟩
-
-Police have arrested a Jaffna man for deceiving the Vavuniya reader for giving furniture.
-
-A man from Konda, Jaffna, has defrauded the furniture for more than a month, claiming to provide furniture to Vavuniya.
-
-Following a complaint at the Vavuniya police station, the police have arrested a man from Kondavil on Wednesday (11).
-
-◼️
-
-[Data](articles/5c8d8746.json)
-
-[Extended Data](ext_articles/5c8d8746.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 290.20/35 to dollar, bonds steady
-
-*2024-12-12 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-290-20-35-to-dollar-bonds-steady-193991/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed relatively flat at 290.20/35 to the US dollar on Thursday from 290.25/30 to the US dollar on Wednesday, dealers said, while bond yields held steady.
-
-A bond maturing on 15.12.2026 closed stable at 9.40/50 percent.
-
-A bond maturing on 15.10.2027 closed at 9.95/10.05 percent, from 9.85/10.00 percent.
-
-A bond maturing on 15.03.2028 closed at 10.20/35 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.09.2029 closed at 10.70/80 percent, from 10.75/90 percent. (Colombo/Dec11/2024)
-
-◼️
-
-[Data](articles/90c0c8fc.json)
-
-[Extended Data](ext_articles/90c0c8fc.ext.json)
-
----
-
-### Controversy on the Speaker's "Doctorate": Why President's silence?- PA
-
-*2024-12-12 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201079) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Controversy over Speaker Ashoka Ranwala's doctorate degree. President Anura Kumara Dissanayake silent despite promising better political culture. Public demands Speaker resign or disclose qualifications. Government accused of misusing power.
-
-🟩
-
-Why is President Anura Kumara Dissanayake, who promised the people to create a better political culture in the controversy over the educational qualification of the Speaker?Did the people expect this political culture?Manoj Kamage, a member of the Sri Lanka PA, said that the honor for the post of Speaker has been blocked.
-
-Former President Mahinda Rajapakse's security has been completely reduced. Mahinda Rajapaksa's security has been reduced as the separatist ideas in the Northern and Eastern Provinces have publicly emerged.
-
-Mahinda Rajapaksa's security was reduced during the general election. The Presidential Secretariat announced that the safety of former presidents had not been reduced when he questioned the matter.. It is an improper process that 116 security officers have been removed from Mahinda Rajapaksa's security forces in the wake of the shortage of essential food products.
-
-...
-
-[Data](articles/b67916c0.json)
-
-[Extended Data](ext_articles/b67916c0.ext.json)
-
----
-
-### 440 metric tons of rice to arrive in Sri Lanka
-
-*2024-12-12 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204313) · `si`
-
-Sri Lanka receives 440 metric tons of rice from India. Customs implements special program to expedite imports. 17 shipments released, with most already distributed. Rice expected to reach public soon.
-
-🟩
-
-Customs says that a special program has been implemented to provide the imported constructions as soon as possible.
-
-Special Media Spokesperson Senior Customs Director Sevivi Arukigama held this at a press conference held today (12).
-
-Accordingly, 17 imported directs have been imported, he said that the rice rice and the rice of the rural rice and the rice rice and the rice is expected to be given to the public as soon as possible.
-
-"The Customs has been released to 17 imports. Most of it has already been released. These 17 items contains about 440 metric tons of 130 metric tonks of 130 metric tonnes and 300 metric tons of rice. All these imports come from India. The Sri Lanka Customs has implemented a special program to repair the customs as soon as possible.. Accordingly, we have taken steps to release the diligents as quickly as possible as soon as possible as soon as possible as soon as possible.
-
-◼️
-
-[Data](articles/571faa50.json)
-
-[Extended Data](ext_articles/571faa50.ext.json)
-
----
-
-### Controversy over doctor's degree: Speaker
-
-*2024-12-12 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201105) · `ta`
-
-Controversy over Speaker Ashoka Sabumal Ranwala's doctorate degree heats up in Parliament. Opposition calls for disclosure of qualifications or resignation. Main opposition party considers no-confidence motion. Public debate on educational requirements for political leaders intensifies.
-
-🟩
-
-Speaker Ashoka Sabumal Ranwala is expected to make a special announcement to Parliament on Tuesday (17).
-
-The parliamentary session will meet on Tuesday (17) and Wednesday (18).
-
-Massive controversy over political and social structure over Speaker Ashoka Sabumal Ranwala's doctorate. Following the public challenging the former Chairman of the Elections Commission, Mahinda Deshapriya, to publicize the doctor's degree if possible.
-
-As the controversy over the educational qualification of the Speaker has intensified, the official website of Parliament has been removed from the Speaker's Profile Code and has been added to the honorary awareness of 'Honorary Speaker'.
-
-The main opposition United People's Power has paid attention to the bringing of a no -confidence motion against the Speaker as the opposition parties say that the Speaker should publicize its educational qualification or resign.
-
-...
-
-[Data](articles/c1091fb5.json)
-
-[Extended Data](ext_articles/c1091fb5.ext.json)
-
----
-
-### Sri Lanka’s central bank calls for depositors to get unique identification numbers
-
-*2024-12-12 17:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-central-bank-calls-for-depositors-to-get-unique-identification-numbers-193984/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has issued a notice calling for banks and financial institutions to record the unique identification numbers of depositors before the deadline on December 31.
-
-“It is advised that all individuals and entities obtain the required identification or registration documents from the relevant authorities and update their unique identification number information with the applicable Licensed Banks and Finance Companies,” the notice said.
-
-The time period granted by the central bank for licensed banks and licensed finance companies to mandatorily record the unique identification numbers of their existing depositors in terms of operating instructions issued under the Banking (Special Provisions) Act, No. 17 of 2023, will expire on December 31 this year.
-
-...
-
-[Data](articles/78e7bc93.json)
-
-[Extended Data](ext_articles/78e7bc93.ext.json)
-
----
-
-### 1,900 MT of rice imported by private sector since Dec. 10
-
-*2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/440-mt-of-rice-imported-by-private-sector-since-dec-9) · `en`
-
-Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
-
-Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
-
-Accordingly, the association’s media spokesperson, Nihal Seneviratne, told reports today that importers can supply imported Nadu Rice for around Rs. 220 per kilogram.
-
-Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
-
-On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
-
-...
-
-[Data](articles/cbfd49ea.json)
-
-[Extended Data](ext_articles/cbfd49ea.ext.json)
-
----
-
-### 1,900 MT of rice imported by private sector since Dec. 10
-
-*2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/1900-mt-of-rice-imported-by-private-sector-since-dec-10) · `en`
-
-Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
-
-Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
-
-Accordingly, the association’s media spokesperson, Nihal Seneviratne, told reports today that importers can supply imported Nadu Rice for around Rs. 220 per kilogram.
-
-Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
-
-On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
-
-...
-
-[Data](articles/fcd8d2af.json)
-
-[Extended Data](ext_articles/fcd8d2af.ext.json)
-
----
-
-### A prisoner's prisoner falls down and death
-
-*2024-12-12 16:48:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறைக்-கைதி-ஒருவர்-மயங்கி-விழுந்து-மரணம்/71-348641) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prisoner dies in Jaffna court. 40-year-old Ratinasingham Chandrakumar fell. Cause unknown until autopsy. Involved in various crimes. Incident occurred on Thursday morning.
-
-🟩
-
-The incident took place on Thursday morning (12) that the death of a prisoner who was brought to the Jaffna court for a case from the Jaffna Prison.
-
-The deceased was 40 -year -old Ratinasingham Chandrakumar from Navatkuli Iyenar Kovil.
-
-According to police and prison sources, the prisoner is involved in cases involved in various crimes.
-
-Hospital sources say the cause of the death will be revealed after the autopsy.
-
-◼️
-
-[Data](articles/da983e4a.json)
-
-[Extended Data](ext_articles/da983e4a.ext.json)
-
----
-
-### The Tamil National Party is waiting for the final response to Mawa's resignation
-
-*2024-12-12 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201082) · `ta`
-
-Tamil National Party awaits Maui Senathirajah's response on resignation. Party officials claim no official word yet due to election campaign. General Secretary sent letter Nov 14, but no reply received. Next steps to be decided at Central Executive Committee meeting in Vavuniya.
-
-🟩
-
-The party's internal sources say that the resignation of Maui Senathirajah has been waiting for a final response from him on the decision to resign as the leader of the Sri Lankan Tamil state party.
-
-Maui Senathirajah in writing on October 7 last year to resign from the post of leader of the Sri Lankan Tamil state party. District Parliamentarian Sivagnanam had also sent Sridharan.
-
-However, the party's administration has announced that the letter of Mau is not officially unavailable as the parliamentary election campaign has intensified.
-
-However, the general secretary Dr. Sathiyalingam has sent a letter to Maui Senathiraja on November 14 last after the election.
-
-In the letter, Maui Senathirajah has received a letter of his departure from the headquarters and that he will continue to announce that you will continue to announce that you are still in the fourteen days.
-
-...
-
-[Data](articles/204b65e1.json)
-
-[Extended Data](ext_articles/204b65e1.ext.json)
-
----
-
-### Prison for father selling a mentally ill girl
-
-*2024-12-12 16:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனநலம்-பாதித்த-சிறுமியை-விற்ற-தந்தைக்கு-சிறை/175-348640) · `ta`
-
-Father sentenced 30 years for selling mentally ill daughter. Judge emphasizes community respect and no forgiveness for abuse. Compensation and fine imposed.
-
-🟩
-
-Colombo High Court Nawaratne Marasinghe, who was accused of forcibly detained and prostitution, has been sentenced to 30 years' rigorous imprisonment and sentenced to 30 years.
-
-The judge stressed that the people of the community should be respected and respected, as well as honoring his mother, sister and wife, and that the judge did not forgive those who are involved in such misconduct when they punish the accused.
-
-The judge sentenced the victim to four and a half lakh rupees for a compensation of the victim for a 30 -year prison for three charges on a 10 -year basis.. In addition, 45 thousand rupees was fined.
-
-◼️
-
-[Data](articles/252648a5.json)
-
-[Extended Data](ext_articles/252648a5.ext.json)
 
 ---

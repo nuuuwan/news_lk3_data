@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 10:16:19**
+As of **2024-12-13 10:28:03**
 
 ## Newspaper Stats
 
-*Scraped **59,931** Articles*
+*Scraped **59,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,619
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,692
+adalk | 5,693
 adaderanalk | 7,293
 tamilmirrorlk | 8,566
 virakesarilk | 9,828
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,883 (99.9%) of 59,931 articles have been extended.
+59,883 (99.9%) of 59,932 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,22 @@ In a statement, the Ministry emphasized that, the visit underscored the deepenin
 [Data](articles/f69c12fe.json)
 
 [Extended Data](ext_articles/f69c12fe.ext.json)
+
+---
+
+### මාලිමා මන්ත්‍රිවරුන්ගේ ආචාර්ය මහාචාර්ය පදවි ගැන හොයන්න තේරිම් කාරක සභාවක් ඉල්ලයි
+
+*2024-12-13 09:24:59* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-මන්ත්‍රිවරුන්ගේ-ආචාර්ය-මහාචාර්ය-පදවි-ගැන-හොයන්න-තේරිම්-කාරක-සභාවක්-ඉල්ලයි/11-413612) · `si`
+
+ජාතික ජන බලවේග රජයේ කථානායක ඇතුළු සියලු මැති ඇමතිවරුන් මන්ත්‍රීවරුන්ගේ මහාචාර්ය තනතුරු, ආචාර්ය උපාධි, ඉංජිනේරු,වෛද්‍ය ආදී තනතුරු නාම ඇතුළු සියලු අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීම සඳහා තේරීම් කාරක සභාවක් පත් කරන ලෙස පාර්ලිමේන්තුවට යෝජනාවක් ඉදිරිපත් කිරීමට එක්සත් ජාතික පක්ෂය සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ තීරණයකට එළඹ ඇත.
+
+එක්සත් ජාතික පක්ෂයේ සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මන්ත්‍රී කණ්ඩායම් නායක ජීවන් තොණ්ඩමාන් මහතා විසින් අදාල යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+කථානායක අශෝක රන්වල මහතාගේ ආචාර්ය උපාධිය මෙන්ම තවත් අමාත්‍යවරයකුගේ ඉංජිනේරු තනතුර සම්බන්ධයෙන් දැනට මතු වී තිබෙන අර්බුදකාරී තත්ත්වය සැලකීමට ගෙන එම ගැටලු නිරාකරණය කර ගැනීමේ අරමුණින් මෙම තේරීම් කාරක සභාව පත් කිරීමේ යෝජනාව ඉදිරිපත් කරන බව නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ පවසයි.
+
+...
+
+[Data](articles/6a1bb332.json)
 
 ---
 
@@ -2259,23 +2275,5 @@ The Constitutional decision stated that the Constitutional Council has the power
 [Data](articles/2ff4fbdf.json)
 
 [Extended Data](ext_articles/2ff4fbdf.ext.json)
-
----
-
-### Sri Lanka Excise Department nets Rs200bn up to November
-
-*2024-12-12 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-excise-department-nets-rs200bn-up-to-november-193962/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Excise Department has reported a revenue of 200 billion rupees From January to November this year. It’s revenue target for the year was 232 billion rupees.
-
-This was the first time its revenue had exceeding 200 billion in its 120-year history, the government department said.
-
-The monies were made mainly from taxes on liquor production and under the Tobacco Tax Act, it said. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/e201ef8e.json)
-
-[Extended Data](ext_articles/e201ef8e.ext.json)
 
 ---

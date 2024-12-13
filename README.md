@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 00:02:55**
+As of **2024-12-13 23:43:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,003 (99.9%) of 60,068 articles have been extended.
+60,001 (99.9%) of 60,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,37 +56,23 @@ Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if th
 
 [Data](articles/578db354.json)
 
-[Extended Data](ext_articles/578db354.ext.json)
-
 ---
 
-### Police announced on security of former President
+### හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව ගැන පොලීසියෙන් නිවේදනයක්
 
 *2024-12-13 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204353) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව ඉවත් කිරීම සම්බන්ධයෙන් පළවන මාධ්‍ය වාර්තා සම්බන්ධව පොලිස් මූලස්ථානය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
 
+එහි සඳහන්ව ඇත්තේ රජය විසින් ප්‍රභූ ආරක්ෂාව සඳහා නිලධාරීන් අනුයුක්ත කිරීම සම්බන්ධයෙන් ක්‍රියා කිරීමට පත් කර ඇති කමිටුව මගින් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂක තක්සේරු වාර්තා සහ ඒ සඳහා ශ්‍රී ලංකා පොලීසිය දරන වැය බර සමාලෝචනයට ලක් කර ඇති බවය.
 
+හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂක කටයුතු ආවරණය කිරීම සඳහා අනුයුක්ත කර සිටින පොලිස් නිලධාරීන්ගේ වැය බර වාර්ශිකව රුපියල් මිලියන 1100ක් වන බව නිරීක්ෂණය වී ඇති බවත් පොලීසිය සිය නිවේදනයේ දක්වා තිබේ.
 
-"Police announce review of former president security costs. Government committee assessed presidential protection expenses. Number of security officers for ex-presidents like Mahinda Rajapaksa may be reduced."
+එහිදී ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාව වෙනුවෙන් වාර්ෂිකව මිලියන 326කට වැඩි වැය බරක් දරන බවත් දක්වා තිබේ.
 
-🟩
-
-Police Headquarters have issued a special announcement regarding the removal of former presidents.
-
-It states that the committee appointed by the government to act on the official appointment of the officers of the government, the security assessment records of former presidents and the cost of Sri Lanka's expenditure has been reviewed.
-
-The police have also observed that the expenditure of the police officers who are assigned to cover the security of former presidents have been inspected.
-
-The cost of Rs.
-
-Accordingly, the number of security officers including President Mahinda Rajapaksa and former presidents have been revised and the former President Mahinda Rajapaksa will be able to reduce or increase the number of officers and reduce the number of officers.The members of armed services have also been deployed.
-
-◼️
+...
 
 [Data](articles/d6f0aada.json)
-
-[Extended Data](ext_articles/d6f0aada.ext.json)
 
 ---
 

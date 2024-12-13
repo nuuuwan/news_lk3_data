@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 12:42:58**
+As of **2024-12-13 13:12:36**
 
 ## Newspaper Stats
 
-*Scraped **59,960** Articles*
+*Scraped **59,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,695
 adaderanalk | 7,300
-tamilmirrorlk | 8,573
+tamilmirrorlk | 8,575
 virakesarilk | 9,831
 adaderanasinhalalk | 10,358
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,898 (99.9%) of 59,960 articles have been extended.
+59,906 (99.9%) of 59,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Killing one by the ax
+
+*2024-12-13 12:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவர்-கோடரியால்-வெட்டிக்-கொலை/175-348696) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Arrests made in Batticaloa: Husband & wife detained over fatal ax attack on 48-year-old father of two. Incident occurred during argument between wives. Police investigating."
+
+🟩
+
+Valaichenai police have arrested two husband and wife in the Batticaloa border village on Thursday night (12).
+
+The deceased is Velu Sivasupramaniam, father of two children aged 48, from Vadunai.
+
+Initial investigations revealed that the sister's husband was attacked by an ax and a sharp weapon after the incident in the area after a rhetoric between the wife of the wife of the victim's wife, who died in the area on Thursday (12) at 11.00 pm.
+
+The Forensic Division is going to the Forensic Division and is conducting investigations, police said.
+
+◼️
+
+[Data](articles/ad90465d.json)
+
+[Extended Data](ext_articles/ad90465d.ext.json)
+
+---
 
 ### Canada reaffirms support for Sri Lanka’s anti-corruption efforts
 
@@ -47,6 +75,8 @@ Addressing Sri Lanka’s economic challenges, High Commissioner Walsh highlighte
 ...
 
 [Data](articles/2a4690d8.json)
+
+[Extended Data](ext_articles/2a4690d8.ext.json)
 
 ---
 
@@ -66,41 +96,63 @@ However, the FIB revealed that some candidates and their representatives are yet
 
 [Data](articles/82181bdc.json)
 
+[Extended Data](ext_articles/82181bdc.ext.json)
+
 ---
 
-### ’தவறு செய்தால் தண்டிக்கப்படுவீர்கள்’
+### If you make a mistake, you will be punished
 
 *2024-12-13 12:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறு-செய்தால்-தண்டிக்கப்படுவீர்கள்/175-348694) · `ta`
 
-தமது அரசாங்கத்தில் எந்த மட்டத்திலாவது தவறு நிகழ்ந்திருந்தால், அதற்கு எதிராக நடவடிக்கை எடுக்கப்படும் என, ஜனாதிபதி அனுர திஸாநாயக்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-மக்கள் எங்கள் மீது வைத்துள்ள நம்பிக்கையை எந்த வகையிலும் உடைக்க இடமளிக்க மாட்டோம் எனவும், அவர் கூறினார்.
 
-அரச ஊடக பிரதானிகளுடன் இன்று (13) காலை இடம்பெற்ற சந்திப்பில் வைத்தே, ஜனாதிபதி அனுரகுமார திஸாநாயக்க இதனை குறிப்பிட்டுள்ளார்.
 
-“நாட்டில் தவறு செய்பவர்களை எக்காரணம் கொண்டும் பாதுகாக்க எமது அரசாங்கம் தயாராக இல்லை. நாட்டில் மட்டுமல்ல, நமது அரசாங்கத்தில் எந்த நிலையிலும் யாராவது தவறு செய்தால், அந்தத் தவறுக்கு எதிராக நடவடிக்கை எடுக்கத் தயங்க மாட்டோம்” என்றார்.AN
+President Anura Dissanayake vows to punish mistakes in his government. He emphasizes maintaining public trust and promises swift action against wrongdoing within his administration.
+
+🟩
+
+President Anura Dissanayake has said that if there is a mistake in his government, action will be taken against it.
+
+We will not allow people to break the confidence in us, ”he said.
+
+President Anura Kumara Dissanayake made this statement at a meeting with the state media chiefs this morning.
+
+“Our government is not ready to protect the wrongdoers in the country. If anyone is wrong in our government, we will not hesitate to take action against that mistake. ”
 
 ◼️
 
 [Data](articles/35c25010.json)
 
+[Extended Data](ext_articles/35c25010.ext.json)
+
 ---
 
-### 1,900 மெற்றிக் தொன் அரிசி இறக்குமதி
+### 1,900 metric ton of rice imported
 
 *2024-12-13 11:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-900-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-348693) · `ta`
 
-தனியார் துறையினரால் வழங்கப்பட்ட 1,900 மெற்றிக் தொன் அரிசி தற்போது நாட்டை வந்தடைந்துள்ளதாக சுங்க திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இவற்றில் கணிசமான அளவு தற்போது சந்தைக்கு விநியகிக்கப்பட்டுள்ளதாக, சுங்க ஊடகப் பேச்சாளர், சிரேஷ்ட பணிப்பாளர் சிவலி அருக்கொட தெரிவித்தார்.
 
-இறக்குமதி செய்யப்படும் அரிசியில் கச்சா அரிசியும் புழுங்கல் அரிசியும் உள்ளடங்குவதாக, அவர் குறிப்பிட்டார்.
 
-இறக்குமதி செய்யப்படும் அரிசியை விரைவில் பொதுமக்களுக்கு வழங்கும் விசேட வேலைத்திட்டம் அமுல்படுத்தப்பட்டுள்ளதாகவும், அவர் கூறினார்.AN
+1,900 metric tons of rice arrive; mostly crude & worm rice. Distributed to markets. Public program to provide imported rice soon.
+
+🟩
+
+The Customs Department said that 1,900 metric ton of rice provided by the private sector has now arrived in the country.
+
+Customs Media Spokesperson and Senior Director Sivali Arukkoda said that a significant amount of these is currently being distributed to the market.
+
+Imported rice includes crude rice and worm rice, he said.
+
+He also said that a special program has been implemented by the public to provide imported rice to the public soon.
 
 ◼️
 
 [Data](articles/70310038.json)
+
+[Extended Data](ext_articles/70310038.ext.json)
 
 ---
 
@@ -188,17 +240,25 @@ The Authority has also announced that it is conducting raids nationwide in searc
 
 ---
 
-### ජාතික පාසල් 46 කට විදුහල්පතිවරුන් සොයයි
+### Founders seek principals for 46 national schools
 
 *2024-12-13 11:14:09* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-පාසල්-46-කට-විදුහල්පතිවරුන්-සොයයි/11-413614) · `si`
 
-දිවයින පුරා ජාතික පාසල් 46 ක 2025 මාර්තු 31 දිනට පවතින විදුහල්පති තනතුරු  පුරප්පාඩු  පිරවීම සඳහා  සුදුසු නිලධාරීන් තෝරා ගැනීමට අධ්‍යාපන අමාත්‍යාංශය  අයදුම් පත් කැඳවයි.
+Sri Lanka Ministry of Education seeks Grade 1 officials for 46 national school principal positions across various districts.
 
-මේ සඳහා ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ  පළමු ශ්‍රේණියේ නිලධාරීන්ට පමණක්   ඉල්ලුම් කළ හැකි බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+🟩
 
-...
+Ministry of Education calls for obtaining officers to fill the existing Principals' Description of 46 National Schools in the country.
+
+The Ministry of Education says that only Grade 1 officials in the Sri Lanka Education Administrative Administration can apply.
+
+Prince of Colombo - Royal, Deposita Girls, Isipathana, Piliyandala and Bandaranaike, Kandy - Nugawela, Gampaha - Nugawela, Galle - Nugama, Gampaha - Nugawela and Bandaranaike, Baumulla and Bathami, Batamulla and BathammullaElpitiya Ananda, Matara - Mahinda Rajapakse, Hambantota - Weeraketiya, Suriyawewa, TangalleSets and Sri Sumangala, Chilaw-Oneandara, Dhammakarawe and Kekirawa and Kekirawa, Kegalle, Embilipitiya, Embilipitiya, Embilipitiya President and Godakawela
+
+◼️
 
 [Data](articles/9b5d9490.json)
+
+[Extended Data](ext_articles/9b5d9490.ext.json)
 
 ---
 
@@ -227,6 +287,30 @@ The new Democratic Front said that the proposal to appoint the appropriate selec
 [Data](articles/53836651.json)
 
 [Extended Data](ext_articles/53836651.ext.json)
+
+---
+
+### Committee to explore the titles of the MPs
+
+*2024-12-13 11:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தே-ம-ச-எம்-பிகளின்-பட்டங்களை-ஆராய-குழு/175-348687) · `ta`
+
+UNP & New Democratic Front propose committee to verify parliamentary qualifications, including Speaker's degrees. Aimed at resolving issues related to Speaker Asoka Ranwala's medical degree and another minister's engineering degree.
+
+🟩
+
+The United National Party and the new Democratic Front have decided to submit a proposal to appoint a select committee to investigate the educational qualification of all parliamentarians, including the Speaker of the National People's Power Government, including the Speaker of the Government.
+
+Jeevan Thondaman, a member of the United National Party and the New Democratic Front, will present a proposal in Parliament.
+
+The new Democratic Front has said that the selection committee has been aimed at solving the issues relating to the doctor's degree of Speaker Asoka Ranwala and another minister's engineering degree.
+
+The new Democratic Front said that the proposal to appoint the appropriate select committee would be submitted as the Speaker's Power would not accept a response from the Speaker or the National People's Power Government.
+
+◼️
+
+[Data](articles/7f4c6e68.json)
+
+[Extended Data](ext_articles/7f4c6e68.ext.json)
 
 ---
 
@@ -303,6 +387,8 @@ The Geminid meteor shower peaks in the middle of December, with the most activit
 ...
 
 [Data](articles/7528866c.json)
+
+[Extended Data](ext_articles/7528866c.ext.json)
 
 ---
 
@@ -2183,59 +2269,5 @@ Therefore, the police call on the above road and to pay attention to the public.
 [Data](articles/24f96a1f.json)
 
 [Extended Data](ext_articles/24f96a1f.ext.json)
-
----
-
-### Resolution to bring no confidence motion against Speaker - PA
-
-*2024-12-12 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201115) · `ta`
-
-PA brings no-confidence motion against Speaker Ashoka Rangwala over alleged fraudulent educational qualifications. Party general secretary Sagara Taiyavam calls for opposition and government members' support. Motion aims to hold Speaker accountable and ensure constitutional integrity.
-
-🟩
-
-The PA has decided to bring a no -confidence motion against Speaker Ashoka Rangwala.
-
-Speaking at a media briefing held on Thursday (12), the party's general secretary Sagara Taiyavam said this.
-
-He said the Speaker had initially deceived the people with a degree and various degrees.
-
-Accordingly, he has decided to submit the no -confidence motion against the Speaker through his Parliamentary Committee and expect the entire opposition parties and the conscientious members of the government to contribute.
-
-“If any educational qualifications are being defrauded and that it is wrong, the Speaker should respect the Constitution and the entire administration of the country and immediately resign from this post without referring to the third person in the country as a fraudulent.. But unfortunately, this can be very harmful to the whole country.
-
-◼️
-
-[Data](articles/84a7057a.json)
-
-[Extended Data](ext_articles/84a7057a.ext.json)
-
----
-
-### 30 lakhs of flowers to decorate Sri pattern
-
-*2024-12-12 18:03:08* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-පද්මය-සැරසිමට-මල්-පෙති-ලක්ෂ-30ක්/11-413609) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nugegoda Kucho Group plans to use 30 lakh flowers to decorate Sri Lanka. They estimate spending hundreds of lakhs. Flowers will come from Nuwara Eliya and Colombo. This is for their 28th annual event.
-
-🟩
-
-2024-2025 The owners of the Nugegoda Kucho Group, Nishantha de Silva, the owners of Nugegoda is US $ 300,000 this year, will utilize hundreds of lakhs this year..
-
-The vicinity of flowers, including the estimated flowers, miracles and the blower yards were used to prepare the courtyard.
-
-The largest of those flowers were taken from the Nuwara Eliya and the Colombo-Srigal Petals from Colombo (13) will be around the 28th annual company.
-
-In addition, the company said that all the ingredients needed to be able to better be able to sell the Sri Pada Paddy well.
-
-◼️
-
-[Data](articles/37a54055.json)
-
-[Extended Data](ext_articles/37a54055.ext.json)
 
 ---

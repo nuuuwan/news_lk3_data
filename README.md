@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 12:18:43**
+As of **2024-12-13 12:30:03**
 
 ## Newspaper Stats
 
-*Scraped **59,955** Articles*
+*Scraped **59,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,694
+adalk | 5,695
 adaderanalk | 7,298
-tamilmirrorlk | 8,571
+tamilmirrorlk | 8,573
 virakesarilk | 9,831
 adaderanasinhalalk | 10,358
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,898 (99.9%) of 59,955 articles have been extended.
+59,898 (99.9%) of 59,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### ’தவறு செய்தால் தண்டிக்கப்படுவீர்கள்’
+
+*2024-12-13 12:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறு-செய்தால்-தண்டிக்கப்படுவீர்கள்/175-348694) · `ta`
+
+தமது அரசாங்கத்தில் எந்த மட்டத்திலாவது தவறு நிகழ்ந்திருந்தால், அதற்கு எதிராக நடவடிக்கை எடுக்கப்படும் என, ஜனாதிபதி அனுர திஸாநாயக்க தெரிவித்துள்ளார்.
+
+மக்கள் எங்கள் மீது வைத்துள்ள நம்பிக்கையை எந்த வகையிலும் உடைக்க இடமளிக்க மாட்டோம் எனவும், அவர் கூறினார்.
+
+அரச ஊடக பிரதானிகளுடன் இன்று (13) காலை இடம்பெற்ற சந்திப்பில் வைத்தே, ஜனாதிபதி அனுரகுமார திஸாநாயக்க இதனை குறிப்பிட்டுள்ளார்.
+
+“நாட்டில் தவறு செய்பவர்களை எக்காரணம் கொண்டும் பாதுகாக்க எமது அரசாங்கம் தயாராக இல்லை. நாட்டில் மட்டுமல்ல, நமது அரசாங்கத்தில் எந்த நிலையிலும் யாராவது தவறு செய்தால், அந்தத் தவறுக்கு எதிராக நடவடிக்கை எடுக்கத் தயங்க மாட்டோம்” என்றார்.AN
+
+◼️
+
+[Data](articles/35c25010.json)
+
+---
+
+### 1,900 மெற்றிக் தொன் அரிசி இறக்குமதி
+
+*2024-12-13 11:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-900-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-348693) · `ta`
+
+தனியார் துறையினரால் வழங்கப்பட்ட 1,900 மெற்றிக் தொன் அரிசி தற்போது நாட்டை வந்தடைந்துள்ளதாக சுங்க திணைக்களம் தெரிவித்துள்ளது.
+
+இவற்றில் கணிசமான அளவு தற்போது சந்தைக்கு விநியகிக்கப்பட்டுள்ளதாக, சுங்க ஊடகப் பேச்சாளர், சிரேஷ்ட பணிப்பாளர் சிவலி அருக்கொட தெரிவித்தார்.
+
+இறக்குமதி செய்யப்படும் அரிசியில் கச்சா அரிசியும் புழுங்கல் அரிசியும் உள்ளடங்குவதாக, அவர் குறிப்பிட்டார்.
+
+இறக்குமதி செய்யப்படும் அரிசியை விரைவில் பொதுமக்களுக்கு வழங்கும் விசேட வேலைத்திட்டம் அமுல்படுத்தப்பட்டுள்ளதாகவும், அவர் கூறினார்.AN
+
+◼️
+
+[Data](articles/70310038.json)
+
+---
 
 ### “Don't be afraid”
 
@@ -113,6 +149,20 @@ The Authority has also announced that it is conducting raids nationwide in searc
 [Data](articles/dc12e00b.json)
 
 [Extended Data](ext_articles/dc12e00b.ext.json)
+
+---
+
+### ජාතික පාසල් 46 කට විදුහල්පතිවරුන් සොයයි
+
+*2024-12-13 11:14:09* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-පාසල්-46-කට-විදුහල්පතිවරුන්-සොයයි/11-413614) · `si`
+
+දිවයින පුරා ජාතික පාසල් 46 ක 2025 මාර්තු 31 දිනට පවතින විදුහල්පති තනතුරු  පුරප්පාඩු  පිරවීම සඳහා  සුදුසු නිලධාරීන් තෝරා ගැනීමට අධ්‍යාපන අමාත්‍යාංශය  අයදුම් පත් කැඳවයි.
+
+මේ සඳහා ශ්‍රී ලංකා අධ්‍යාපන පරිපාලන සේවයේ  පළමු ශ්‍රේණියේ නිලධාරීන්ට පමණක්   ඉල්ලුම් කළ හැකි බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+...
+
+[Data](articles/9b5d9490.json)
 
 ---
 
@@ -2203,87 +2253,5 @@ According to the Sri Lankan Embassy in the UAE an estimated 150,000 Sri Lankans 
 [Data](articles/49922913.json)
 
 [Extended Data](ext_articles/49922913.ext.json)
-
----
-
-### The Electricity Board Reorganization idea will be submitted to the Cabinet next week - the Ministry of Power
-
-*2024-12-12 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201112) · `ta`
-
-Electricity Board Reorganization plan: Cabinet submission next week. Power plant corrections from 2025 to cost 40 billion rupees. Restoration work expected by March 2025. Public consultation on power supply recommendations begins Tuesday. Implementation costs estimated at 229 billion rupees. Reductions proposed in power supply, including 22% reduction suggested by Public Use Commission. Reorganization not considered privatization, but allows private sector involvement in main and sub-services.
-
-🟩
-
-If the power plant is corrected from 2025 to six months, it will cost 40 billion rupees for electricity.. Not to revise the electricity is favorable to the power supply. The idea of ​​the reconstruction of the Electricity Board will be presented to the Cabinet next week.
-
-He is expected to complete the restoration work by March 2025, said the Director General of Electricity Reorganization of the Ministry of Energy, Pubudu Niroshan.
-
-He was speaking at a media briefing held at the Government Information Department on Thursday (12).
-
-The Electricity Board has the obligation to clarify the people of the country on electricity correction and electricity sector reorganization. There is much talk about the recommendations made to continue the cost of implementation without amendment for the next six months.. However, no one pays attention to the technical factors.
-
-...
-
-[Data](articles/91860bd8.json)
-
-[Extended Data](ext_articles/91860bd8.ext.json)
-
----
-
-### 'Some reform' account holders have three four million fixed deposits'
-
-*2024-12-12 17:33:45* · [`adalk`](https://www.ada.lk/breaking_news/’ඇතැම්-අස්වැසුම-ගිණුම්-හිමියන්ට-මිලියන-තුන-හතරේ-ස්ථාවර-තැන්පතුත්-තිබෙනවා’/11-413608) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Some reform" account holders have 3-4 million fixed deposits. Southern Provincial Land Commissioner Senaka Palliyaguruge discussed this at a Matara District Development Committee meeting. He mentioned some bank managers have thousands of such accounts for client benefits. The system lacks a mechanism to link fixed deposits to National Identity Card numbers. Minister Sunil Handunneththi stated that a list of current beneficiaries is being compiled.
-
-🟩
-
-Southern Provincial Land Commissioner Senaka Palliyaguruge, the Matara District Development Committee meeting he said that there are Rs.
-
-The meeting was held under the patronage of the Minister of Industry and Employment Development and Matara District Development Committee.
-
-At the meeting held at the Matara District Secretariat Auditorium, the relief was revealed at the time of discussing the progress of the Social Education Progress Program.
-
-"Although I am not a public official of this subject, I would like to say the government as a citizen of the government. There are a few thousand thousand people as bank managers.Some three four million fixed deposits to their bank to get some cliest benefits.
-
-Some of the monthly deposit are the monthly interesting of these fixed deposits. There is no mechanism to give the same fixed deposit account under the National Identity Card No. of the Greek Himi beneficiary.
-
-...
-
-[Data](articles/6e12365c.json)
-
-[Extended Data](ext_articles/6e12365c.ext.json)
-
----
-
-### Did the President became 'Gotabhaya - Part 2'?- The question of the United People's Power
-
-*2024-12-12 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201101) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-JVP MP Harshana Rajakaruna questions if President Anura Kumara Dissanayake is becoming like former President Gotabhaya Rajapaksa. He criticizes the Speaker for claiming a false doctorate title. Rajakaruna accuses the government of failing to solve the rice shortage problem, comparing it to Gotabhaya's regime. He urges the government to fulfill pre-election promises.
-
-🟩
-
-As in the Gotabhaya Rajapaksa regime, the toy graduate ministers are also in the National People's Power Government?Has President Anura Kumara Dissanayake became 'Gotabhaya Part 2'?United People's Power MP Harshana Rajakaruna questioned.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Thursday (12).
-
-In fact, it is doubtful whether the Speaker has deceived the people by claiming himself as a doctor, rather than a doctor's title.. We urge the Speaker to reveal the truth without delaying this disgrace. The humiliation of the Speaker is a shame for Parliament.
-
-Information is currently being revealed on the Speaker's titles. Are the national people's power government as toy graduate ministers, as former President Gotabhaya Rajapakse was in power?The JVP has an obligation to be held responsible for the country as a party that has received the massive mandate of the people.
-
-...
-
-[Data](articles/0ecd9413.json)
-
-[Extended Data](ext_articles/0ecd9413.ext.json)
 
 ---

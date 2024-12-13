@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 14:29:06**
+As of **2024-12-13 14:16:50**
 
 ## Newspaper Stats
 
-*Scraped **59,985** Articles*
+*Scraped **59,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,697
+adalk | 5,696
 adaderanalk | 7,302
 tamilmirrorlk | 8,579
 virakesarilk | 9,837
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,913 (99.9%) of 59,985 articles have been extended.
+59,913 (99.9%) of 59,984 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -375,20 +375,6 @@ However, the FIB revealed that some candidates and their representatives are yet
 ...
 
 [Data](articles/547ac530.json)
-
----
-
-### ශ්‍රී පාද වන්දනා වාරය ගැන ගැසට් නිවේදනයක්
-
-*2024-12-13 12:04:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනා-වාරය-ගැන-ගැසට්-නිවේදනයක්/11-413616) · `si`
-
-ඒ අනුව හෙටින්  ආරම්භවන ශ්‍රීපාද වන්දනා වාරය ලබන වසරේ මැයි 13 දක්වා පැවැත්වෙන බව ප්‍රකාශයට පත්කරමින්   රත්නපුර දිස්ත්‍රික් ලේකම් වසන්ත ගුණරත්න මහතා විසින්  අති විශේෂ ගැසට් නිවේදනයක්  ඊයේ( 12) දාතමින් නිකුත් කෙරිණි .
-
-ශ්‍රීපාද වන්දනා සමය තුළ  මෙයට පෙර ගැසට් නිවේදන හයකින් පනවා තිබු රෙගුලාසි අනුව  ශ්‍රී පාද මළුව , ගමන් මග ඇතුළු පරිශ්‍රයෙහි  තාවකාලික නවාතැන් සැකසීම සහ පවත්වාගෙන යෑම  ,  ගොඩනැගිලි ඉදිකිරීම   , හිඟමන්  ඉල්ලීම හා දීම, පොලිතින් බැහැර කිරීම, සංචාරක වෙළඳම, මත්පැන් දුම්වැටි ඇතුළු මත්ද්‍රව්‍ය වෙළඳාම,තබාගැනීම  හා භාවිතය තහනම් බව ඇතුළු රෙගුලාසි  මෙවරද බල  පැවැත්වෙන බව මෙම ගැසට් නිවේදනයෙන්  මහජනතාවට  දැනුම් දී තිබේ.
-
-◼️
-
-[Data](articles/6f1e1252.json)
 
 ---
 
@@ -2143,5 +2129,21 @@ The opposition parties have thus strengthened the hand of the JVP/NPP government
 ...
 
 [Data](articles/b1d6bcf2.json)
+
+---
+
+### MMDA reform is not repeal:  New Govt. must counter fearmongering and resistance to justice
+
+*2024-12-13 00:20:20* · [`dailyftlk`](https://www.ft.lk/columns/MMDA-reform-is-not-repeal-New-Govt-must-counter-fearmongering-and-resistance-to-justice/4-770438) · `en`
+
+Justice in the context of MMDA reforms will entail treating women and children with dignity, providing equal protection of Sri Lanka law to women and children, ensuring that the MMDA is a Shari’ah compliant Islamic law that strives for righteous living in the interest and wellbeing of Muslims, and realising constitutional guarantees for all Muslims of the country. Reform of the MMDA will represent all these progressive aspects: Islamic legal jurisprudence, constitutional protections, universal human rights and basic human compassion and fairness. Indeed the call for reform is one to strengthen and preserve the MMDA rather than repeal it
+
+The new Government must recognise the current fearmongering campaign for what it is, and confidently advance MMDA reforms
+
+...
+
+[Data](articles/d8c0c3df.json)
+
+[Extended Data](ext_articles/d8c0c3df.ext.json)
 
 ---

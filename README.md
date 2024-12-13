@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 03:26:39**
+As of **2024-12-14 03:01:08**
 
 ## Newspaper Stats
 
@@ -26,35 +26,25 @@ adaderanasinhalalk | 10,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,021 (99.9%) of 60,082 articles have been extended.
+60,018 (99.9%) of 60,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### Appointment of members of the Port Urban Economic Commission
+### துறைமுக நகர பொருளாதார ஆணைக்குழு உறுப்பினர்கள் நியமனம்
 
 *2024-12-14 02:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைமுக-நகர-பொருளாதார-ஆணைக்குழு-உறுப்பினர்கள்-நியமனம்/175-348712) · `ta`
 
-Here's a summary of 200 characters:
+அதற்கமைவான நியமனக் கடிதங்கள் நேற்று (13) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவினால் வழங்கி வைக்கப்பட்டன.
 
+அதன்படி கொழும்பு துறைமுக நகர பொருளாதார ஆணைக்குழுவின் தலைவராக ஜனாதிபதி சட்டத்தரணி ஹர்ஷ அமரசேகர நியமிக்கப்பட்டுள்ளார்.
 
-
-"Colombo Port City Economic Commission: Harsha Amarasekera (Chairman), Demian Cabral, Mohan Abeywardena, Sanjaya Kulathunga, Dr. Harsha Subasinghe appointed. Letters issued by President's Secretary on 13th."
-
-🟩
-
-The appointment letters were issued yesterday (13) by the President's Secretary, Dr. Nandika Sanath Kumanayake.
-
-Accordingly, President's Attorney Harsha Amarasekera has been appointed as the Chairman of the Colombo Port City Economic Commission.
-
-Demian Amal Cabral, Mohan Ray Abeywardena, Sanjaya Kulathunga and Dr. Harsha Subasinghe have been appointed as the other members of the group.. (A)
+டெமியன் அமல் கப்ரால், மொஹான் ரே அபேவர்தன, சஞ்சய குலதுங்க மற்றும் கலாநிதி ஹர்ஷ சுபசிங்க ஆகியோர் குழுவின் ஏனைய உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளனர். (a)
 
 ◼️
 
 [Data](articles/b0ec990d.json)
-
-[Extended Data](ext_articles/b0ec990d.ext.json)
 
 ---
 
@@ -452,39 +442,29 @@ According to the indicative results, instructions from holders representing 96% 
 
 ---
 
-### The Ministry of Finance says that the restructuring of international bonds were successful
+### ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සාර්ථකවූ බව මුදල් අමාත්‍යශය කියයි
 
 *2024-12-13 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204352) · `si`
 
-Sri Lanka completes international bond restructuring: 98% agreement reached, $12.55 billion debt restructured, new bonds exchanged within three weeks, policy set for September 19, 2024.
+ශ්‍රී ලංකාව ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සාර්ථකව අවසන් කළ බව මුදල් අමාත්‍යංශ ලේකම් මහින්ද සිරිවර්ධන මහතා පවසයි.
 
-🟩
+ඔහු සිය X ගිණුමේ සටහනක් තබමින් සඳහන් කර ඇත්තේ මෑත ඉතිහාසයේ වඩාත් සංකීර්ණ සහ අභියෝගාත්මක ස්වෛරී ණය ප්‍රතිව්‍යුහගත කිරීම සාර්ථකව අවසන් කිරීමට හැකි වූ බවය.
 
-Sri Lanka has completed the restructuring of international sovereignty.
+මුදල් අමාත්‍යාංශයද මේ බව නිල වශයෙන් නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
 
-He has made a note of his X account and has successfully completed the restructuring of the most complex and challenging sovereignty in recent history.
+ඒ අනුව ස්වෛරී බැඳුම්කර හිමියන්ගෙන් 98%ක් බැඳුම්කර හුමවාරුව සඳහා කැමැත්ත පළ කර තිබේ.
 
-The Ministry of Finance has issued a official statement.
+දැනට පවතින බැඳුම්කර සඳහා නව බැඳුම්කර හුවමාරු කිරීමේ මාර්ගයෙන් ශ්‍රී ලංකාවේ ජාත්‍යන්තර ස්වෛරී බැඳුම්කර ප්‍රතිව්‍යුහගතකරණය කිරීම ආරම්භ කෙරෙන බව මුදල් අමාත්‍යංශය මින් පෙර නිවේදන කළේය.
 
-Accordingly, 98% of sovereign bond owners have agreed to bond.
+ඒ වෙනුවෙන් වූ නිල ආරාධනය ශ්‍රී ලංකා රජය විසින් පසුගිය නොවැම්බර් මස 26 දින නිකුත් කළේය.
 
-The Ministry of Finance (Finance Ministry) stated that Sri Lanka's international sovereignty is to be initiated by the new bond exchanging for existing bonds.
+ඒ වන විට හිඟව ඇති බැඳුම්කරවල වටිනාකම ඩොලර් බිලියන 12.55ක් වූ අතර එම බැඳුම්කර ඒ අනුව ප්‍රතිව්‍යුහගත කිරීමට නියමිතව තිබුණි.
 
-The Government of Sri Lanka issued the official invitation on the 26th of November.
-
-The shortage of shortages was worth $ 12.55 billion, which was to be restructured by the bonds.
-
-Cabinet spokesperson Nalinda Jayatissa said the Cabinet approved was also approved by the cabinet on the 26th.
-
-The owners of the owners who were released have been granted three weeks to exchange their bonds with new bonds.
-
-Sri Lanka requested the bond owners to be able to join the bond exchange process.
+ඒ සඳහා වූ කැබිනට් අනුමැතියද ලැබුණු බව පසුගිය 26 වැනිදා පැවැති කැබිනට් තීරණ දැම්දීමේ මාධ්‍ය හමුවෙය්දී කැබිනට් ප්‍රකාශක නලින්ද ජයතිස්ස මහතා පැවසීය.
 
 ...
 
 [Data](articles/7de2d9fd.json)
-
-[Extended Data](ext_articles/7de2d9fd.ext.json)
 
 ---
 
@@ -505,8 +485,6 @@ Sri Lanka offered to exchange 12.5 billion US dollars of bonds for new securitie
 ...
 
 [Data](articles/7f57507e.json)
-
-[Extended Data](ext_articles/7f57507e.ext.json)
 
 ---
 

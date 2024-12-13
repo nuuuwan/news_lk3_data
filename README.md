@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 15:33:59**
+As of **2024-12-13 15:43:28**
 
 ## Newspaper Stats
 
-*Scraped **59,993** Articles*
+*Scraped **59,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,698
-adaderanalk | 7,303
+adaderanalk | 7,305
 tamilmirrorlk | 8,580
 virakesarilk | 9,841
-adaderanasinhalalk | 10,367
+adaderanasinhalalk | 10,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,924 (99.9%) of 59,993 articles have been extended.
+59,924 (99.9%) of 59,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### අල්ලස් ගත් පාස්පෝට් ඔෆිස් එකේ ලිපිකරු රිමාන්ඩ්
+
+*2024-12-13 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204339) · `si`
+
+විදේශ ගමන් බලපත්‍රයක් ලබාදීම සඳහා පුද්ගලයෙකුගෙන් රුපියල් 6000ක අල්ලසක් ලබාගත්තේ යැයි සැකපිට අත්අඩංගුවට ගත් ආගමන හා විගමන දෙපාර්තමේන්තුවේ තැපැල් අංශයේ ලිපිකරුවෙකු ලබන 20 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+විදේශ ගමන් බලපත්‍රයක් කඩිනමින් ලබාදීම සඳහා රුපියල් 6,000ක අල්ලසක් ඉල්ලා එය ලබා ගැනීමේ දී අල්ලස් කොමිසම විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන තිබුණි.
+
+අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත් මෙම සැකකරු අධිකරණයට ඉදිරිපත් කරමින් එහි නිලධාරීන් සඳහන් කළේ මෙම සැකකරුට අදාළ පරීක්ෂණ කටයුතු අවසන් වී නොමැති බැවින් ඔහු රක්ෂිත බන්ධනාගාර ගත කරන ලෙස ඉල්ලා සිටින බවයි.
+
+ඒ අනුව අදාළ සැකකරු ලබන 20 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කෙරුණි.
+
+◼️
+
+[Data](articles/0692cf1d.json)
+
+---
+
+### CSE’s ASPI records new all-time high
+
+*2024-12-13 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104215/cses-aspi-records-new-all-time-high) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange gained 169.53 points to close at 14,205.34 points today, marking a new all-time high.
+
+Today’s total turnover was recorded as over Rs. 6.1 billion.
+
+◼️
+
+[Data](articles/f31db7d0.json)
+
+---
+
+### රිළා ප්‍රශ්නය ස්ථීරවම විසඳන බව ලාල්කාන්ත කියයි
+
+*2024-12-13 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204338) · `si`
+
+මෙරට රිළා ගහනය පාලනය කිරීම සඳහා විවිධ ව්‍යාපෘති ආරම්භ කර ඇතැයි කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍ය ලාල්කාන්ත මහතා පවසයි.
+
+අද (13) කොළඹ පැවැති වැඩසටහනකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු පැවසුවේ රජයක් ලෙස මේ මොහොතේ රිළවුන් ඇතුළු වනසතුන් ගොවි බිම්වලින් ඉවත් කිරීමේ දැඩි අධිෂ්ඨානයකින් පසුවන බවය.
+
+"අපි අධිෂ්ඨානයක ඉන්නවා රිළවුන් ඇතුළු වනසතුන් ගොවි බිම්වලින් ඉවත් කරන්න. ඒක ස්ථිරව කරනවා ඒක නොකර කෘෂි කර්මාන්තයක් ගැන කතා කරන්න බැහැ. කෘෂිකර්මාන්තය විතරක් නෙමෙයි ජන ජීවිතයේ අනෙකුත් පැතිකඩත් බිඳ වැටිලා තියෙන්නේ. විශේෂයෙන්ම රිළවුන්ගේ ප්‍රශ්නේ විසඳනවාමයි... කවුරුත් සැකයක් තියාගන්න එපා මොන අභියෝගය ආවත් ඒක විසඳනවා. රට යැවීම ගැනත් සලකා බලනවා. අපේ රටේ දූපත් තියෙනවා ඒ දූපත්වලට යැවීම සම්බන්ධයෙනුත් ප්‍රොජෙක්ට් ප්‍රපෝසල් එකක් සකස් කරමින් තියෙනවා ඒක සංචාරක ව්‍යාපාරයට සම්බන්ධ වන ආකාරයට. ඒ නිසා සංචාරක කර්මාන්තයත්, ගොවිජන ජීවිතයත්, පොදුජන ජීවිතයත් සලකලා බලලා මේකට අපි උත්තරයක් හොයන්න අනිවාර්යයෙන්ම කටයුතු කරනවා."
+
+...
+
+[Data](articles/7e65529d.json)
+
+---
+
+### මාලිමා මන්ත්‍රීවරුන්ගේ අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීමට තේරීම් කාරක සභාවක් පත් කරන්නැයි යෝජනාවක්
+
+*2024-12-13 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204337) · `si`
+
+ජාතික ජන බලවේගය නියෝජනය කරන මැති ඇමතිවරුන්ගේ අධ්‍යාපන සුදුසුකම් පරීක්ෂා කිරීම සඳහා තේරීම් කාරක සභාවක් පත්කරන ලෙස යෝජනාවක් ඉදිරිපත් කිරීමට එක්සත් ජාතික පක්ෂය සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ තීරණය කර තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී ජීවන් තොණ්ඩමන් මහතා විසින් අදාළ යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත බව දේශපාලන ආරංචි මාර්ග පවසයි.
+
+◼️
+
+[Data](articles/2f7ec168.json)
+
+---
+
+### Members appointed to Port City Economic Commission
+
+*2024-12-13 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104214/members-appointed-to-port-city-economic-commission-) · `en`
+
+President Anura Kumara Dissanayake has officially appointed members to the Port City Economic Commission, the President’s Media Division (PMD) reported.
+
+The official letters of appointment were handed over to the members by the Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat in Colombo today (13).
+
+Accordingly, Harsha Amarasekera, President’s Counsel, has been appointed as the Chairman of the Port City Economic Commission.
+
+The other appointed members are Damien Amal Cabraal, Mohan Ray Abeywardena, Sanjaya Kulatunga, and Dr. Harsha Subasinghe.
+
+◼️
+
+[Data](articles/e4ca8e55.json)
+
+---
 
 ### Opposition signature on no confidence motion against Speaker
 
@@ -2135,85 +2215,5 @@ From left: Printcare Ceylon Ltd. and Rotary International CEO and Director K.R. 
 [Data](articles/97c134b9.json)
 
 [Extended Data](ext_articles/97c134b9.ext.json)
-
----
-
-### Asia Foundation honours success of women in entrepreneurship
-
-*2024-12-13 02:48:21* · [`dailyftlk`](https://www.ft.lk/business/Asia-Foundation-honours-success-of-women-in-entrepreneurship/34-770454) · `en`
-
-Sponsored by the US Department of State, The Asia Foundation (TAF) on Monday hosted an event to celebrate the culmination of a three-year flagship initiative aimed at empowering female entrepreneurs in the Northern and Southern Provinces.
-
-Themed ‘Improving the Economic Wellbeing of Vulnerable and Marginalised Women,’ the project focused on enhancing the economic wellbeing of 300 vulnerable and marginalised women during the series of economic, health, and political crises by strengthening the participation of women in the startup sector as micro and small business (MSB) owners.
-
-...
-
-[Data](articles/6c4df1ae.json)
-
-[Extended Data](ext_articles/6c4df1ae.ext.json)
-
----
-
-### Effective Communication Is Vital For Sri Lanka’s New NPP Government
-
-*2024-12-13 02:42:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/effective-communication-is-vital-for-sri-lankas-new-npp-government/) · `en`
-
-Effective communication plays a vital role in governance. If communication is clear and effective, it contributes to promoting transparency and building trust between those holding power and the people who are being served. It helps citizens to better understand the policies and decisions of governments, thus fostering a sense of accountability. For any government to function smoothly and efficiently and make decisions so that everyone benefits, the trust of its citizens is essential. In that sense, effective communication is not simply a good idea but an essential building block for efficacious good governance.
-
-...
-
-[Data](articles/4b7b4ff5.json)
-
----
-
-### EDB’s NPC conducts awareness workshop on ‘Packaging Solutions for Fruits and Vegetables’ for exporters
-
-*2024-12-13 02:38:42* · [`dailyftlk`](https://www.ft.lk/business/EDB-s-NPC-conducts-awareness-workshop-on-Packaging-Solutions-for-Fruits-and-Vegetables-for-exporters/34-770453) · `en`
-
-The National Packaging Centre (NPC) of the Export Development Board (EDB) recently conducted an awareness session focusing on ‘Packaging Solutions for Fruits and Vegetables’ at the EDB premises.
-
-One of the objectives of conducting this awareness session was to reduce post-harvest losses of fruits and vegetables through innovative packaging solutions and enhance the value of export products, benefitting the broader economy.
-
-In Sri Lanka, post-harvest losses are significant, affecting 20%-30% of vegetables and 15%-20% of fruits. Inadequate packaging has been identified as a major cause of these losses.
-
-The session was conducted in collaboration with packaging experts from the industry and the National Plant Quarantine Service, with the participation of 70 exporters and potential exporters.
-
-...
-
-[Data](articles/e48ade6d.json)
-
-[Extended Data](ext_articles/e48ade6d.ext.json)
-
----
-
-### Mannar’s wind turbines: Greenwashing on a giant scale
-
-*2024-12-13 02:22:54* · [`dailyftlk`](https://www.ft.lk/opinion/Mannar-s-wind-turbines-Greenwashing-on-a-giant-scale/14-770452) · `en`
-
-Bad winds blowing around the opportunity cost of green energy
-
-Mannar was a crucial trading post on the Maritime Silk Road, but more recently it was a place hardly on anyone’s radar. Except for birders, that is. Mannar island, to the east, just 30 kilometers in length, less so. But it is now in the crosshairs of major economic forces, with gigantic wind turbines planted in an area where its inhabitants’ lifestyle is being disrupted as they cultivate and go to church, and their children attend school. With this, the greenwashing brigade arrived, talking about ‘climate change mitigation’ and energy security. Converting wind into energy was a noble idea–with a large asterisk.
-
-...
-
-[Data](articles/3c3140cb.json)
-
-[Extended Data](ext_articles/3c3140cb.ext.json)
-
----
-
-### Justice for All calls for reform in the wake of political change
-
-*2024-12-13 02:14:28* · [`dailyftlk`](https://www.ft.lk/opinion/Justice-for-All-calls-for-reform-in-the-wake-of-political-change/14-770451) · `en`
-
-In light of significant shifts in Sri Lanka’s political landscape following the election of a new President and Government, good governance lobbyist “Justice for All” called for fresh initiatives to examine the several human rights challenges confronting Sri Lanka.
-
-The conference aims to facilitate dialogue between Government representatives, former parliamentarians, academics, and other stakeholders on 10 pressing concerns ranging from: the crisis in Palestine, socio-economic inequalities, discriminatory laws, labour rights, domestic violence, accountability over enforced disappearances, and problems with the Prevention of Terrorism Act (PTA) and Muslim Marriage and Divorce Act (MMDA) to stir action on State level.
-
-...
-
-[Data](articles/18be041a.json)
-
-[Extended Data](ext_articles/18be041a.ext.json)
 
 ---

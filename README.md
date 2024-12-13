@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 09:32:52**
+As of **2024-12-13 09:43:14**
 
 ## Newspaper Stats
 
-*Scraped **59,926** Articles*
+*Scraped **59,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,619
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,691
-adaderanalk | 7,292
+adalk | 5,692
+adaderanalk | 7,293
 tamilmirrorlk | 8,563
 virakesarilk | 9,828
 adaderanasinhalalk | 10,358
@@ -26,69 +26,117 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,878 (99.9%) of 59,926 articles have been extended.
+59,881 (99.9%) of 59,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### දුම්රිය සේවය දියුණු කිරීමට විශේෂ අවධානයක්
+### High-level US delegation concludes successful visit to Sri Lanka
+
+*2024-12-13 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104202/high-level-us-delegation-concludes-successful-visit-to-sri-lanka) · `en`
+
+U.S. Assistant Secretary for South and Central Asian Affairs at the Department of State, Ambassador Donald Lu, along with Deputy Assistant Secretary for Asia and the Pacific at the U.S. Department of the Treasury, Robert Kaproth, and Deputy Assistant Administrator of the Bureau for Asia at the United States Agency for International Development (USAID), Anjali Kaur, recently concluded a successful visit to Sri Lanka.
+
+During their visit, they engaged in high-level discussions with President Anura Kumara Dissanayake, Prime Minister Dr. Harini Amarasuriya, and Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath from 6 to 7 December 2024, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
+
+In a statement, the Ministry emphasized that, the visit underscored the deepening diplomatic relations between Sri Lanka and the United States, highlighting a shared commitment to regional peace, economic cooperation, and democratic development.
+
+...
+
+[Data](articles/f69c12fe.json)
+
+---
+
+### Special attention to improving train services
 
 *2024-12-13 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204327) · `si`
 
-දුම්රියෙන් භාණ්ඩ ප්‍රවාහනය වැඩිදියුණු කිරීම සඳහා නව ව්‍යාපෘති කිහිපයක් ආරම්භ කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+Here's a summary of 200 characters:
 
-දුම්රිය මූලස්ථානයේදී දුම්රිය දෙපාර්තමේන්තුවේ නිලධාරීන් සහ වෘත්තීය සමිති නියෝජිතයින් සමග පැවති හමුවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියාසිටියේ දෙපාර්තමේන්තුවේ පවතින සේවක හිඟයට කඩිනම් විසදුම් ලබාදෙන බවය.
 
-මේ අතර දුම්රිය ප්‍රමාදය සහ දුම්රිය දෝෂ වළක්වා ගැනීමට අවධානය යොමුවී ඇති බවත්, දුම්රිය සේවය දියුණු කරගැනීම වෙනුවෙන් මේ වනවිට අයවැය යෝජනා ද ඉදිරිපත් කර ඇති බවත් අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
 
-මරදාන දුම්රිය ස්ථානයේ නිරීක්ෂණ චාරිකාවකට එක්වීමෙන් අනතුරුව ඔහු ඒ බව පැවසීය.
+Transport Minister announces new train projects to improve goods transport. Addresses staff shortage & delays. Proposes budget for railway service development. Minister Bimal Ratnayake inspects Colombo Port, targets Eastern Terminal conquest next year.
 
-අමාත්‍ය බිමල් රත්නායක මහතා ඊයේ කොළඹ වරායේ විශේෂ නිරීක්ෂණ චාරිකාවක ද නිරත වුණි.
+🟩
 
-අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු කියාසිටියේ රජයේ ප්‍රධානම ඉලක්කය වරායේ නැගෙනහිර පර්යන්තය ලබන වසරේ ජුනි මස 30 වනදා වන විට සකස්කර නිමාකිරීම බවය.
+Minister of Transport, Highways, Ports and Civil Aviation said that several new projects will be launched to improve the transport of goods by train.
+
+Speaking to the media at the Railway Headquarters and the Trade Union representatives of the Railway Headquarters, he said that he was responding to the shortage of employees in the department.
+
+Meanwhile, Minister Lim Ranger said that the train delay and the train errors have been submitted to prevent train faults and budget proposals have already been presented to develop the railway service.
+
+He was speaking to the traitor at Maradana.
+
+Minister Bimal Ratnayake also conducted a special inspection tour at the Colombo Port yesterday.
+
+Speaking to the media, he said that the main target of the government was to conquer the Eastern Terminal of the Port of Eastern Terminal next year.
 
 ◼️
 
 [Data](articles/4a536024.json)
 
+[Extended Data](ext_articles/4a536024.ext.json)
+
 ---
 
-### எரிபொருள் தட்டுப்பாடு?
+### Fuel shortage?
 
 *2024-12-13 09:03:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-தட்டுப்பாடு/175-348677) · `ta`
 
-எக்காரணத்தைக் கொண்டும் எந்தவொரு எரிபொருள் நிரப்பு நிலையத்திலும் எரிபொருள் தட்டுப்பாடு  இடம்பெறாது என இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்தின் தலைவர் ஜனக ராஜகருணா தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-நாட்டில் போதிய எரிபொருள் காணப்படுவதாகவும், நாட்டில் தொடர்ச்சியான எரிபொருள் விநியோகத்திற்காக அரசாங்கத்தின் நிறுவனமாக அந்தப் பொறுப்பை இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் ஏற்றுக்கொள்வதாகவும் தலைவர் ஜனக ராஜகருணா சுட்டிக்காட்டினார்.
 
-நாட்டிற்கு எவ்வித சிக்கலும் இன்றி வலுசக்தியின் அவசியத்தை பேணுவதற்கு முடியும் என்றும், தற்போது எரிபொருள் குறைவடைந்ததும், உடனடியாக யுனைடெட் பெற்றோலியத்தின் 64 எரிபொருள் நிரப்பு நிலையங்களுக்கும் பெற்றோலியக் கூட்டுத்தாபனத்தினால் எரிபொருளை விநியோகிப்பதற்கு அமைச்சின் செயலாளர், யுனைட்டட் பெற்றோலியம் மற்றும் பெற்றோலியக் கூட்டுத்தாபனம் ஆகியன ஒன்றிணைந்து இது தொடர்பாகக் கலந்துரையாடி தீர்மானத்திற்கு வந்துள்ளதாகவும் அவர் மேலும் தெளிவுபடுத்தினார். R
+
+Fuel shortage denied by Ceylon Petroleum Corporation Chairman Janaka Rajakaruna. Adequate supply nationwide. United Petroleum and Petroleum Corporation discuss maintaining power needs without issues. US Petroleum's 64 stations to distribute fuel immediately.
+
+🟩
+
+The President of the Ceylon Petroleum Corporation, Janaka Rajakaruna, said that there will be no shortage of fuel at any refueling station for any reason.
+
+Chairman Janaka Rajakaruna pointed out that there is adequate fuel in the country and that the Ceylon Petroleum Corporation is taking responsibility as the government for continuous fuel supply in the country.
+
+He said that the country's secretary, United Petroleum and the Petroleum Corporation had made further discussion that the country could maintain the need for power without any problems, and now the fuel has declined and the United States of Petroleum's 64 refueling stations will immediately distribute fuel by the Petroleum Corporation.. Remble
 
 ◼️
 
 [Data](articles/63f0c4be.json)
 
+[Extended Data](ext_articles/63f0c4be.ext.json)
+
 ---
 
-### வளிமண்டலவியல் திணைக்களம் விடுத்துள்ள முக்கிய அறிவித்தல்
+### The main notification issued by the Department of Meteorology
 
 *2024-12-13 08:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களம்-விடுத்துள்ள-முக்கிய-அறிவித்தல்/175-348675) · `ta`
 
-தென்மேற்கு வங்காள விரிகுடா கடற்பரப்புகளுக்கு மேலாக விருத்தியடைந்த குறைந்த அழுத்தப் பிரதேசம் வலுவிழந்து வருவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Here's a summary of 200 characters:
 
-இதன் காரணமாக வடக்கு, வடமத்திய மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
 
-வடக்கு மாகாணத்தில் சில இடங்களில் 50 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Low-pressure area weakens over SW Bengal Bay. Periodic rain/thunderstorms in Northern, North Central, Western provinces & Galle/Matara. Heavy 50mm rainfall in Northern Province. Evening/night rain possible elsewhere. 75mm in Uva Province. Snowfall in Central, Sabaragamuwa, Southern, Uva provinces. Thunderstorms in upcoming areas. Public advised to take lightning precautions.
 
-ஊவா மாகாணத்தில் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மத்திய, சப்ரகமுவ, தென் மற்றும் ஊவா மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology has predicted that the low -pressure area has weakened above the Southwest Bengal Bay Sea.
 
-...
+Due to this, there is a possibility of periodic rainfall or thunderstorms in the Northern, North Central and Western Provinces and Galle and Matara districts.
+
+50 mm of heavy rainfall is expected in some parts of the Northern Province.
+
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+75 mm of heavy rainfall is expected in some places in Uva Province.
+
+The Central, Sabaragamuwa, Southern and Uva provinces are expected to have snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
 
 [Data](articles/3052a110.json)
+
+[Extended Data](ext_articles/3052a110.ext.json)
 
 ---
 
@@ -149,6 +197,28 @@ TV visuals showed fire and smoke billowing from the hospital building, with fire
 [Data](articles/5fcf16f3.json)
 
 [Extended Data](ext_articles/5fcf16f3.ext.json)
+
+---
+
+### මුදල් අමාත්‍යාංශ නිලධාරීන්ට ජනපති දුන් උපදෙස්
+
+*2024-12-13 07:46:58* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-අමාත්‍යාංශ-නිලධාරීන්ට-ජනපති-දුන්-උපදෙස්/11-413611) · `si`
+
+රටේ මූල්‍ය පද්ධතියේ ශක්තිමත් කිරීම හා කාර්යක්ෂම කිරීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා මුදල් අමාත්‍යාංශ  නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම උපදෙස් ලබා දුන්නේ, මුදල් අමාත්‍යාංශයේ නිලධාරීන් සමග ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+
+රටේ මූල්‍ය තත්ත්වය ස්ථාවර කිරීමට ස්වාධීන ආයතනයක් ලෙස මහ බැංකුව විසින් ගතයුතු සෑම පියවරක්ම ගන්නා ලෙසද  ඊට රජයේ සහයෝගය හා පහසුකම් සැලසීම  සිදු කරන  බවද ජනාධිපතිවරයා කියා සිටියේය.
+
+බැංකු මූල්‍ය කටයුතු කාර්යක්ෂම කිරීම සඳහා මනා යාන්ත්‍රණයක් ඇති කිරීමට කටයුතු කරන ලෙසද ජනාධිපතිවරයා මෙහිදී නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+
+ආර්ථිකයෙහි සහ මූල්‍ය පද්ධතියෙහි වර්ධනයන් සමස්තයක් ලෙස සමීපව අධ්‍යයනය කිරීමෙන් අනතුරුව , මහ බැංකුව විසින් මූල්‍ය ස්ථායිතාව සහ මූල්‍ය පද්ධතියේ ඔරොත්තු දීමේ හැකියාව සහතික කිරීම සඳහා නව ප්‍රතිපත්ති ක්‍රියාවට නැංවීමටද මෙහිදී අවධානයට යොමු විය.
+
+මූල්‍ය පද්ධතිය තුළ පවතින සාර්ව විචක්ෂණ ප්‍රතිපත්ති තවදුරටත් බලාත්මක කිරීමට ද මෙහිදී සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/c4ab090c.json)
 
 ---
 
@@ -2215,57 +2285,5 @@ Kurunegala police rushed to the scene after receiving information about the inci
 [Data](articles/a7c65ee9.json)
 
 [Extended Data](ext_articles/a7c65ee9.ext.json)
-
----
-
-### Explains the ship's ship
-
-*2024-12-12 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204309) · `si`
-
-Sri Lanka Petroleum Corporation explains oil shipment return. Chairman Janaka Rajakaruna states Underway Petroleum brought oil ship to Sri Lanka but returned without landing due to internal reasons. Corporation claims sufficient fuel stocks until April next year.
-
-🟩
-
-The Sri Lanka Petroleum Corporation has explained the newsletter of a quarter of returning to Sri Lanka's departure.
-
-The Chairman of the Ceylon Petroleum Corporation Janaka Rajakaruna was speaking at a press conference held at the Government Information Department today.
-
-"Underlay Petroleum has been brought to an oil ship to be brought to an oil ship on the 2nd petrol.. That ship has been brought back without land. In fact, it does not have any impact on the country because it's not a Petroleum Corporation. Recently, companies have begun to boast for oil trading in Sri Lanka, then they get oil on the oil. This oil ship has been taken back without landing because of their interior. The Petroleum Corporation owns sufficient fuel stocks. We have oils until April next year ... "
-
-◼️
-
-[Data](articles/29729fbf.json)
-
-[Extended Data](ext_articles/29729fbf.ext.json)
-
----
-
-### Director Seanu Ramaswamy's first appearance of 'Vidyan'
-
-*2024-12-12 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201090) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Seanu Ramaswamy directs Vidyan; Anand Knag stars as hero. National award winners congratulate crew. Supporting cast includes Janani, Pois Rajan. Karthik Ram Era composes, Yaswant records. MT Pictures produces. Post-production underway; first look released, increasing expectations."
-
-🟩
-
-Actor Anand Knag has been released in the first appearance of the film 'Vidyavan' which plays the role of the hero of the story.
-
-National award -winning director Seanu Ramaswamy, Prabhu Solomon, Alphonse Putran, actors Ari Arjunan, Victory and Vikrant have posted on their web page and congratulated the film crew.
-
-Anand Nak, Janani, 'Pois' Rajan, Birla Bose, Gauri Shankar, Sarath Raj are many others in the upcoming film 'Vidyavan' directed by director Arun Prasad.
-
-Karthik Ram Era has composed the film, which has been recorded by Yaswant. The film, which is investigating the criminal background, is the producer of the film on behalf of MT Pictures Company.. Produced by Mahadevan.
-
-The shooting of the film is completely completed and the post -shooting technical work is underway.. In this case, the first look of the film has been released. The hero of the story is a police officer and as intelligence, as the first look is designed.. The expectation of the film has increased.
-
-◼️
-
-[Data](articles/89dec94b.json)
-
-[Extended Data](ext_articles/89dec94b.ext.json)
 
 ---

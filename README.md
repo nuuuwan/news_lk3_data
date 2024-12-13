@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 08:10:19**
+As of **2024-12-13 08:46:25**
 
 ## Newspaper Stats
 
-*Scraped **59,916** Articles*
+*Scraped **59,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,691
-adaderanalk | 7,290
+adaderanalk | 7,292
 tamilmirrorlk | 8,561
 virakesarilk | 9,828
 adaderanasinhalalk | 10,354
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,869 (99.9%) of 59,916 articles have been extended.
+59,873 (99.9%) of 59,918 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Public urges to cooperate with ongoing population and housing census
+
+*2024-12-13 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104201/public-urges-to-cooperate-with-ongoing-population-and-housing-census) · `en`
+
+The District Secretary for Colombo, Prasanna Ginige, says that the population and housing census is underway across the island and urges the public to cooperate with the officials visiting homes by providing the required information.
+
+Accordingly, he further requested the public to assist the officers who arrive with the Divisional Secretary’s signature and an official Identity Card.
+
+Additionally, the District Secretary for Colombo requested that the public  provide an emergency contact number to the officers in cases where residents are not at home and to arrange a convenient time for them to return.
+
+“It is also important to note that we will ensure that the relevant personal information you provide does not fall into the hands of any other external party,” he added.
+
+◼️
+
+[Data](articles/54645c81.json)
+
+---
+
+### Six including minor killed in Tamil Nadu hospital fire
+
+*2024-12-13 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104200/six-including-minor-killed-in-tamil-nadu-hospital-fire) · `en`
+
+At least six persons, including a minor boy, were killed in a fire accident at a private hospital in this district on Thursday, police and Fire department officials said.
+
+All the six were found unconscious in a lift, they said. They were rushed to a hospital where they were declared dead by doctors.
+
+The victims suffocated to death and the Fire and Rescue Services personnel found them inside the lift after evacuating about 30 in-patients of the hospital. The evacuated persons have been admitted in the district GH, the officials added.
+
+The fire was suspected to have been caused by an electrical short circuit, police said citing initial probe.
+
+TV visuals showed fire and smoke billowing from the hospital building, with fire tenders pressed into service to put down the flames.
+
+◼️
+
+[Data](articles/5fcf16f3.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -51,6 +89,8 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 ◼️
 
 [Data](articles/195cbbfa.json)
+
+[Extended Data](ext_articles/195cbbfa.ext.json)
 
 ---
 
@@ -308,6 +348,8 @@ In his remarks, Ambassador Isomata conveyed his deepest condolences and sympathy
 
 [Data](articles/46130d83.json)
 
+[Extended Data](ext_articles/46130d83.ext.json)
+
 ---
 
 ### Aitken Spence wins Grand Slam Award as Best Corporate Citizen of 2024
@@ -323,6 +365,8 @@ This is a remarkable milestone for the organisation that has been a pioneer in s
 ...
 
 [Data](articles/b19b5f72.json)
+
+[Extended Data](ext_articles/b19b5f72.ext.json)
 
 ---
 
@@ -369,6 +413,8 @@ High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks o
 ...
 
 [Data](articles/85b46a27.json)
+
+[Extended Data](ext_articles/85b46a27.ext.json)
 
 ---
 
@@ -1540,15 +1586,15 @@ It has also been discussed to further enforce macro prudent policies in the fina
 
 ---
 
-### Sri Lanka sells Rs132.5bn in 2029 and 2033 bonds
+### Sri Lanka sells Rs130bn in 2029 and 2033 bonds
 
 *2024-12-12 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs132-5bn-in-2029-and-2033-bonds-193993/) · `en`
 
-ECONOMYNEXT – Sri Lanka has sold 132.5 billion rupees in 2029 and 2033 bonds, data from the state debt office showed.
+ECONOMYNEXT – Sri Lanka has sold 130 billion rupees in 2029 and 2033 bonds after offering 132.5 billion, data from the state debt office showed.
 
 All offered 77.5 billion rupees of 15 September 2029 (LKB00629I154) bonds were sold at an average yield of 10.75 percent.
 
-All offered 55 billion rupees of 01 June 2033 (LKB02033F013) bonds were sold at an average yield of 11.47 percent.
+Out of 55 the billion rupees of 01 June 2033 (LKB02033F013) bonds offered, 53.2 billion were sold at a weighted average yield of 11.47 percent, rejecting other bids.
 
 The LKB00629I154 bond was available on tap after the auction. “An issuance window for the ISIN LKB00629I154 is open until 3.00 pm of business day prior to settlement date (i.e., 13.12.2024) at the Weighted Average Yield Rate (WAYR) determined for the said ISIN at the auction, up to 10% of the respective amount offered.” (Colombo/Dec12/2024)
 
@@ -2261,47 +2307,5 @@ It includes Mano Ganeshan, Mother Gamenta, Mother Gamanappar, Sujeewa Senasinghe
 [Data](articles/e67bcf77.json)
 
 [Extended Data](ext_articles/e67bcf77.ext.json)
-
----
-
-### Woman arrested for soliciting Rs. 350,000 bribe
-
-*2024-12-12 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104187/woman-arrested-for-soliciting-rs-350000-bribe) · `en`
-
-A woman from Thalathuoya has been arrested by officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) for allegedly soliciting a bribe of Rs 350,000.
-
-She was arrested at the parking lot located in front of the Bogambara Stadium in Kandy following a complaint lodged by a resident of Gonahena in Kadawatha.
-
-The woman, acting as an intermediary, had accepted a bribe of Rs 350,000 to facilitate the required government procedures for the complainant to obtain a land ‘Kirimatiyawatta’ in the Pathahewaheta Divisional Secretariat Division of the Kandy District, through the Land Reform Commission in order to use it for cultivation.
-
-The arrested suspect is scheduled to be produced before the Kandy Magistrate’s Court.
-
-◼️
-
-[Data](articles/ea382adb.json)
-
-[Extended Data](ext_articles/ea382adb.ext.json)
-
----
-
-### Clear lists of national lists
-
-*2024-12-12 15:01:35* · [`adalk`](https://www.ada.lk/breaking_news/සජබ-ජාතික-ලැයිස්තු-මන්ත්‍රීවරුන්-නම්-කරයි/11-413604) · `si`
-
-National List nominations: Mano Ganeshan, Sujeewa Senasinghe, Muttur Mohamed sent to Election Commission. Power people won 5 national lists, LTTE combatant Secretary Ranjith Madduma Bandara named for seat.
-
-🟩
-
-Four persons have been named for the National List seat to be named in the unified list of seats.
-
-Accordingly, Mano Ganeshan, Sujeewa Senasinghe, Muttur Mohamed has been sent to the Election Commission.
-
-With the general election this year, the people of power won five national lists, and the General Secretary of the pro-LTTE combatant Secretary Ranjith Madduma Bandara was named for a seat.
-
-◼️
-
-[Data](articles/d3476d4a.json)
-
-[Extended Data](ext_articles/d3476d4a.ext.json)
 
 ---

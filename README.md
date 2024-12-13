@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 01:43:06**
+As of **2024-12-14 02:14:12**
 
 ## Newspaper Stats
 
-*Scraped **60,080** Articles*
+*Scraped **60,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
 tamilmirrorlk | 8,588
-virakesarilk | 9,866
+virakesarilk | 9,867
 adaderanasinhalalk | 10,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,012 (99.9%) of 60,080 articles have been extended.
+60,015 (99.9%) of 60,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### Yall. Aruchuna, who was logical with the authorities at the coordination meeting
+
+*2024-12-14 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201226) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+MPs question officials' education at meeting, sparking condemnation. Officials warn against insulting them, threatening to leave meetings. Hospital staff prepared to welcome MPs but oppose disruptive behavior.
+
+🟩
+
+As the Member of Parliament has been asked to question the educational qualifications of state officials, state officials have made their condemnation. They registered at the District Coordinating Committee meeting.
+
+Yall. When the District Coordinating Committee meeting was held at the District Secretariat on Friday (13), the projects were translated by state officials and explained the matter.
+
+He interrupted and asked the questions and questioned their educational status. At that time, some officials did not listen to his questions.
+
+Jaffna at the same time. Teaching Hospital Director. While commenting at Satyamurthy at the meeting,
+
+It is an insulting person who continues to mock state officials and to question their educational qualifications.. Some people who do this will be depressed and people will suffer the services.
+
+In addition, if state officials are insulted in meetings, the authorities will leave the meetings
+
+...
+
+[Data](articles/24225d7b.json)
+
+[Extended Data](ext_articles/24225d7b.ext.json)
+
+---
 
 ### A woman's body body piles on the beach
 
@@ -192,6 +224,8 @@ Australia ranks as the 11th largest export destination for Sri Lanka, with total
 
 [Data](articles/6878b9e9.json)
 
+[Extended Data](ext_articles/6878b9e9.ext.json)
+
 ---
 
 ### SLT-Mobitel unveils 2025 calendar featuring dragonflies of Sri Lanka
@@ -205,6 +239,8 @@ Dragonflies, often referred to as ‘Guardians of the Watersheds’, are apex pr
 ...
 
 [Data](articles/6bda59fc.json)
+
+[Extended Data](ext_articles/6bda59fc.ext.json)
 
 ---
 
@@ -2425,25 +2461,5 @@ The Forensic Division is going to the Forensic Division and is conducting invest
 [Data](articles/ad90465d.json)
 
 [Extended Data](ext_articles/ad90465d.ext.json)
-
----
-
-### Indian team owner arrested over Lanka T10 match-fixing scandal remanded
-
-*2024-12-13 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104210/indian-team-owner-arrested-over-lanka-t10-match-fixing-scandal-remanded-) · `en`
-
-The Indian owner of the ‘Galle Marvels’ team in the Lanka T10 Super League, who was arrested yesterday (12) over match-fixing allegations, has been remanded until December 16 after being produced before the Colombo Magistrate’s Court today (13).
-
-The Indian national, Prem Thakur, who owns a franchise in the tournament, was taken into custody by Sri Lanka Police on Thursday in Kandy’s Pallekele stadium, where the league is taking place.
-
-Police confirmed that he is the owner of the ‘Galle Marvels’ team, one of the six competing teams.
-
-The arrest stemmed from a complaint by a West Indies player on his team, who refused Thakur’s match-fixing request.
-
-◼️
-
-[Data](articles/2ad48cde.json)
-
-[Extended Data](ext_articles/2ad48cde.ext.json)
 
 ---

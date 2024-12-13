@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 05:52:06**
+As of **2024-12-13 06:49:45**
 
 ## Newspaper Stats
 
-*Scraped **59,911** Articles*
+*Scraped **59,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,690
 adaderanalk | 7,289
-tamilmirrorlk | 8,559
+tamilmirrorlk | 8,560
 virakesarilk | 9,828
-adaderanasinhalalk | 10,353
+adaderanasinhalalk | 10,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,864 (99.9%) of 59,911 articles have been extended.
+59,867 (99.9%) of 59,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### Lanka T10 Galle Marvesle arrested
+
+*2024-12-13 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204322) · `si`
+
+Indian national arrested for alleged betrayal in Lanka T10 Super League. Owner accused of collaborating with West Indies against Sri Lanka. ICC investigates, police interrogate suspect.
+
+🟩
+
+The Indian T10 Sumer League cricket team has arrested a Indian national who is the owner of the Lanka T10 Super League team.
+
+It is reported that the suspect has been proposed by the West Indies to betray a west Indies to the Sri Lanka T10 Super League.
+
+The ICC has lodged a complaint with the Special Police Unit of sports errors.
+
+Accordingly, a group of the unit had gone to Pallekele area.
+
+The suspects were later arrested by the Indian national and interrogated.
+
+◼️
+
+[Data](articles/b029b341.json)
+
+[Extended Data](ext_articles/b029b341.ext.json)
+
+---
 
 ### SLPP pushes NCM against Speaker over academic qualification allegations
 
@@ -124,6 +150,8 @@ LOLC General Insurance and LOLC Life Assurance have secured top positions in the
 
 [Data](articles/53a74468.json)
 
+[Extended Data](ext_articles/53a74468.ext.json)
+
 ---
 
 ### Aitken Spence wins the Grand Slam Award as the Best Corporate Citizen of 2024
@@ -137,6 +165,8 @@ This is a remarkable milestone for the organisation that has been a pioneer in s
 ...
 
 [Data](articles/daf9415c.json)
+
+[Extended Data](ext_articles/daf9415c.ext.json)
 
 ---
 
@@ -313,6 +343,24 @@ High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks o
 ...
 
 [Data](articles/85b46a27.json)
+
+---
+
+### மர்மக் காய்ச்சலுடன் மேலும் பலர் அனுமதி
+
+*2024-12-13 03:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மக்-காய்ச்சலுடன்-மேலும்-பலர்-அனுமதி/175-348673) · `ta`
+
+எலிக்காய்ச்சல் வைரஸ் அறிகுறிகளுடன் மேலும் 14 பேர் பருத்தித்துறை ஆதார வைத்தியலையில் நேற்று சிகிச்சைக்காகச் சேர்க்கப்பட்டுள்ளனர்.
+
+கடந்த நவம்பர் மாதத்தில் எலிக்காய்ச்சல் வைரஸ் அறிகுறிகளுடன் 5 பேர் பருத்தித்துறை ஆதார வைத்தியசாலையில் சேர்க்கப்பட்டிருந்தனர். அவர்களில் ஒருவர் கடந்த வாரம் உயிரிழந்துள்ளார். டிசம்பர் மாதத்தில் நேற்று வரையில் 58 பேர் எலிக்காய்ச்சல் வைரஸ் அறிகுறிகளுடன் சேர்க்கப்பட்டுள்ளனர். அவர்களில் நால்வர் உயிரிழந்துள்ளனர். ஒருவர் பருத்தித்துறை ஆதார வைத்தியசாலையிலும், மூவர் யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு அவசர சிகிச்சைப் பிரிவிலும் உயிரிழந்தமை குறிப்பிடத்தக்கது.
+
+இதேவேளை, பருத்தித்துறை ஆதார வைத்தியசாலையில் எலிக்காய்ச்சல் வைரஸ் அறிகுறிகளுடன் சேர்க்கப்பட்டிருந்த நோயாளர்களில் சிலர் யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு சிகிச்சை பெற்று வருகின்றனர்.
+
+நேற்று இரவு 8 மணி வரையான நிலவரத்தின் அடிப்படையில் 39 பேர் எலிக்காய்ச்சல் வைரஸ் அறிகுறிகளுடன் பருத்தித்துறை ஆதார வைத்தியசாலையின் விடுதிகளில் தங்கியிருந்து சிகிச்சை பெற்று வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/3571d7b2.json)
 
 ---
 
@@ -2265,59 +2313,5 @@ He further stated that parents should pay close attention to their children and 
 [Data](articles/76265948.json)
 
 [Extended Data](ext_articles/76265948.ext.json)
-
----
-
-### Sri Lankan court ordered the release of nine fishermen
-
-*2024-12-12 14:44:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-9-பேரை-விடுவித்து-இலங்கை-நீதிமன்றம்-உத்தரவு/175-348633) · `ta`
-
-Sri Lankan court orders release of 9 fishermen, sentences them to 1 year in jail. Navy seized their boat in June, leading to the death of a naval officer. Case closed after detention period ended on Wednesday.
-
-🟩
-
-The Sri Lankan Mallakam Court has ordered that nine fishermen have been released on conditional and sentenced to one year in jail for the driver.
-
-On June 25, the Sri Lankan navy seized a boat belonging to Anandan from Akkaraipettai in Nagai district, Muthusetti (70), his sons Mathi (38), Rajesh (35) and Vaidyanathan (45), Vanavanamadevi (25), Kalamurugan (25), Vanavanamadevi (25).Govindasamy (60), Mani Palan (55) from Cuddalore, Kangala Korumaya from Andhra Pradesh and 2 fishermen were arrested by the Sri Lankan navy and sent to Jaffna jail.
-
-During the arrest, Sri Lankan navy veteran Ratnayake died from the boat of the seized fishermen and died while taking him to hospital for treatment.. A case has been registered at the Gangesanthurai police station in connection with the death of a Sri Lankan navy.
-
-In this case, the fishermen's detention time ended on Wednesday (11).
-
-After hearing the case, the judge said that Sri Lanka should be sentenced to Rs.Judicated.
-
-◼️
-
-[Data](articles/c0b919ec.json)
-
-[Extended Data](ext_articles/c0b919ec.ext.json)
-
----
-
-### Elephant rolls on a lorry
-
-*2024-12-12 14:22:10* · [`adalk`](https://www.ada.lk/breaking_news/ආහාර-මදවි-වන-අලියා-ලොරියක්-පෙරළයි--කාන්තාවක්-මරුට/11-413603) · `si`
-
-A summary of the incident: A 66-year-old woman named K. Karunawathi was fatally injured when a lorry rolled over her in the Konganagara Police Division. The driver, distracted by giving bananas, lost control of the vehicle. Investigations are ongoing.
-
-🟩
-
-Gonagankara Police said that a woman was killed by a lorry, a lorry, a lorry, a lorry, a lorry, a lorry in the Konganagara Police Division.
-
-The deceased has been identified as K. Karunawathi (66), a resident of the Fisheries Village.
-
-When she was on the way to the village, a Wannale was to give a banquelin 'banana.
-
-After one banana can an end, Elaya's trunk and finds more foods.
-
-The woman in the front seat was killed and he was rushed to the Buttala Regional Hospital.
-
-Emergency Death and Post Post Mortelination were to be held at the Moneragala district hospital. Gonaganka OIC Wasantha Bandara is conducting investigations.
-
-◼️
-
-[Data](articles/f424edf3.json)
-
-[Extended Data](ext_articles/f424edf3.ext.json)
 
 ---

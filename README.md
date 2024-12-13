@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 11:14:57**
+As of **2024-12-13 10:42:52**
 
 ## Newspaper Stats
 
-*Scraped **59,942** Articles*
+*Scraped **59,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,97 +12,43 @@ newsfirstlk | 363
 dbsjeyarajcom | 449
 colombotelegraphcom | 607
 bbccomsinhala | 626
-islandlk | 3,621
+islandlk | 3,619
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,693
 adaderanalk | 7,296
-tamilmirrorlk | 8,568
-virakesarilk | 9,831
+tamilmirrorlk | 8,567
+virakesarilk | 9,828
 adaderanasinhalalk | 10,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,889 (99.9%) of 59,942 articles have been extended.
+59,887 (99.9%) of 59,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை ; சந்தேக நபர் கைது
-
-*2024-12-13 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201134) · `ta`
-
-காலி, இமதுவ பொலிஸ் பிரிவுக்கு உட்பட்ட திக்கும்புர பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் ஒருவர் நேற்று வியாழக்கிழமை (12) கைது செய்யப்பட்டுள்ளதாக  இமதுவ பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் திக்கும்புர, இமதுவ பிரதேசத்தை சேர்ந்த 74 வயதுடையவர் ஆவார்.
-
-◼️
-
-[Data](articles/d6c3c9ae.json)
-
----
-
-### பயமுறுத்தும் பாபா வங்காவின் ஆரூடம்
-
-*2024-12-13 11:03:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பயமுறுத்தும்-பாபா-வங்காவின்-ஆரூடம்/50-348685) · `ta`
-
-பாபா வங்கா... இந்தப் பெயரை ஏற்கெனவே கேள்விப்பட்டிருக்கிறீர்களா?  பல்கேரியா நாட்டின் பெலாசிகா பகுதியைச் சேர்ந்த பெண்மணி இவர். சின்ன வயதில் கண் பார்வையை இழந்த பாபா வங்கா, வருங்கால உலகில் இனி என்னென்ன நடக்கும் என்று ஆரூடங்களைச் சொல்ல ஆரம்பித்தார்.
-
-அந்த வகையில் பாபா வங்காவுக்கு, ‘பால்கன் பகுதியின் பெண் நாஸ்டிரடாமஸ்’ என்ற பெயர் கூட உண்டு. (பிரான்ஸ் நாட்டில் பழங்காலத்தில் வாழ்ந்த தீர்க்கதரிசி நாஸ்டிரடாமஸ், நூற்றாண்டுகள் என்ற புத்தகத்தின் மூலம் எதிர்கால உலகத்தைப் பற்றி ஏராளமான சங்கதிகளை புட்டுபுட்டு வைத்தவர்)
-
-பாபா வங்கா, எதிர்காலத்தில், அதாவது 5079ஆம் ஆண்டு வரை என்னென்ன நடக்கும் என்று கூறியிருக்கிறார். இவரது ஆரூடங்களில் 85 சதவீத ஆரூடங்கள் பலித்திருக்கின்றன என்பது குறிப்பிடத்தக்கது.
-
-சரி, இப்போது எதற்கு பாபா வங்காவைப் பற்றி நாம் பேச வேண்டும் என்ற கேள்வி எழலாம். மேற்கு ஆசிய நாடான சிரியாவில் தற்போது ஆட்சி கவிழ்ந்து, சிரியா கிளர்ச்சியாளர்கள் கையில் சிக்கிவிட்ட நிலையில் பாபா வங்கா பற்றிய நினைப்பு உலக அளவில் பலருக்கு மீண்டும் வந்திருக்கிறது.
-
-...
-
-[Data](articles/97e33063.json)
-
----
-
-### கேகாலையில் கல்லால் தாக்கப்பட்டு ஒருவர் கொலை !
-
-*2024-12-13 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201132) · `ta`
-
-கேகாலை, வரகாப்பொல பொலிஸ் பிரிவுக்கு உட்பட்ட மாயின்னொலுவ பிரதேசத்தில் கல்லால் தாக்கப்பட்டு ஒருவர் கொலை செய்யப்பட்டுள்ளதாக வரகாப்பொல பொலிஸார் தெரிவித்தனர்.
-
-இரு நபர்களுக்கு இடையில் ஏற்பட்ட தகராறு காரணமாக இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த சம்பவம் தொடர்பில் 74 வயதான சந்தேக நபர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/49e9d529.json)
-
----
-
-### Namal voiced for a Tamil youth fighting in Tamil Nadu
+### தமிழ்நாட்டில் போராடும் தமிழ் இளைஞனுக்காக குரல் கொடுத்த நாமல்
 
 *2024-12-13 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டில்-போராடும்-தமிழ்-இளைஞனுக்காக-குரல்-கொடுத்த-நாமல்/175-348681) · `ta`
 
-Namal Rajapakse urges govt to repatriate Tamil youth from TN protests. He seeks Indian citizenship or return to SL.
+தமிழகத்தின் இராமநாதபுரம் மாவட்ட ஆட்சியர் அலுவலகத்துக்கு முன்பாக தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட இலங்கையரை நாட்டுக்கு அழைத்து வருவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ வலியுறுத்தியுள்ளார்.
 
-🟩
+இலங்கையில் இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது தமிழகத்தில் தஞ்சமடைந்த ஒருவர், தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி மண்டியிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்ட காணொளி ஒன்றைத் தமிழக ஊடகங்கள் வெளியிட்டுள்ளன.
 
-Parliamentarian Namal Rajapakse has urged the government to take steps to bring the Sri Lankans who were protesting in front of the Ramanathapuram district collector's office in Tamil Nadu.
+தமக்கு இந்தியக் குடியுரிமை வழங்க வேண்டும் அல்லது தம்மை மீண்டும் இலங்கைக்குத் திருப்பி அனுப்புவதற்கு நடவடிக்கை எடுக்கப்பட வேண்டும் எனக் குறித்த நபர் வலியுறுத்தியுள்ளார்.
 
-The Tamil media has released a video of a man who has been sheltered in Tamil Nadu during the civil war in Sri Lanka and demanded that he be sent back to Sri Lanka.
+இந்தநிலையில், இலங்கை அரசாங்கம், இந்திய அரசாங்கத்துடன் இணைந்து உடனடியாக குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்கு நடவடிக்கை எடுக்க வேண்டும் என நாமல் வலியுறுத்தியுள்ளார்.
 
-The person has urged him to grant Indian citizenship or return to Sri Lanka to return to Sri Lanka.
-
-In the meantime, Namal urged the Sri Lankan government to take immediate steps to bring the person to Sri Lanka with the Indian government.
-
-Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessary assistance to bring the person to Sri Lanka.. Remble
+மேலும், குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்குத் தேவையான உதவிகளை வழங்குவதற்குத் தாம் தயாராகவுள்ளதாகவும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார். R
 
 ◼️
 
 [Data](articles/7166965a.json)
-
-[Extended Data](ext_articles/7166965a.ext.json)
 
 ---
 
@@ -110,7 +56,7 @@ Parliamentarian Namal Rajapaksa has said that he is ready to provide the necessa
 
 *2024-12-13 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104205/former-sri-lankan-diplomat-in-australia-fined-more-than-100000-for-entrapping-domestic-worker) · `en`
 
-A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the Australian federal court.
+A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the federal court.
 
 The fine is in addition to more than $500,000 in unpaid wages and interest she has already been ordered to restore, but has so far refused to pay.
 
@@ -123,8 +69,6 @@ But Danaratna told the federal court she was instead isolated and oppressed, wor
 ...
 
 [Data](articles/b5896d11.json)
-
-[Extended Data](ext_articles/b5896d11.ext.json)
 
 ---
 
@@ -177,22 +121,6 @@ The car has been registered in the name of a 36 -year -old woman living in Kadav
 [Data](articles/5556db40.json)
 
 [Extended Data](ext_articles/5556db40.ext.json)
-
----
-
-### குளியாப்பிட்டியவில் கூரிய ஆயுதத்தால் தாக்கி ஒருவர் கொலை !
-
-*2024-12-13 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201129) · `ta`
-
-குளியாப்பிட்டிய - தும்மலசூரிய பொலிஸ் பிரிவிற்குட்பட்ட சியம்பலகஸ்ருப்ப பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபர் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-உயிரிழந்தவர் மேற்கு சியம்பலகஸ்ருப்ப , தும்மலசூரிய பிரதேசத்தைச் சேர்ந்த 39 வயதுடையவர் ஆவார்.
-
-கூரிய ஆயுதத்தால் கழுத்தை வெட்டி கொலை செய்துள்ளதாக விசாரணையில் தெரியவந்துள்ளதுடன் கொலைக்கான காரணம் வெளியாகவில்லை என்பதுடன் சந்தேகநபர்கள் எவரும் இதுவரை கைதுசெய்யப்படவில்லையென பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d2a74112.json)
 
 ---
 
@@ -2267,5 +2195,103 @@ On December 03, the Cabinet of Ministers approved the proposal to allow the impo
 [Data](articles/cbfd49ea.json)
 
 [Extended Data](ext_articles/cbfd49ea.ext.json)
+
+---
+
+### 1,900 MT of rice imported by private sector since Dec. 10
+
+*2024-12-12 16:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104189/1900-mt-of-rice-imported-by-private-sector-since-dec-10) · `en`
+
+Sri Lanka Customs said that as of 5.30 p.m. today (12) the private sector has imported 1,900 metric tonnes of rice from India since December 10, 2024.
+
+Meanwhile, the Essential Food Commodities Importers & Traders Association says that if the Customs Duty on imported rice is reduced by Rs. 15, it would be possible to sell rice at the maximum retail price.
+
+Accordingly, the association’s media spokesperson, Nihal Seneviratne, told reports today that importers can supply imported Nadu Rice for around Rs. 220 per kilogram.
+
+Additionally, Seneviratne explained that the distribution network will incur a cost of between 8% and 10% per kilogram once the rice reaches the wholesale market.
+
+On December 03, the Cabinet of Ministers approved the proposal to allow the import of rice without import control permits until 20 December 2024, in view of the current shortage of several rice varieties in the local markets.
+
+...
+
+[Data](articles/fcd8d2af.json)
+
+[Extended Data](ext_articles/fcd8d2af.ext.json)
+
+---
+
+### A prisoner's prisoner falls down and death
+
+*2024-12-12 16:48:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிறைக்-கைதி-ஒருவர்-மயங்கி-விழுந்து-மரணம்/71-348641) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Prisoner dies in Jaffna court. 40-year-old Ratinasingham Chandrakumar fell. Cause unknown until autopsy. Involved in various crimes. Incident occurred on Thursday morning.
+
+🟩
+
+The incident took place on Thursday morning (12) that the death of a prisoner who was brought to the Jaffna court for a case from the Jaffna Prison.
+
+The deceased was 40 -year -old Ratinasingham Chandrakumar from Navatkuli Iyenar Kovil.
+
+According to police and prison sources, the prisoner is involved in cases involved in various crimes.
+
+Hospital sources say the cause of the death will be revealed after the autopsy.
+
+◼️
+
+[Data](articles/da983e4a.json)
+
+[Extended Data](ext_articles/da983e4a.ext.json)
+
+---
+
+### The Tamil National Party is waiting for the final response to Mawa's resignation
+
+*2024-12-12 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201082) · `ta`
+
+Tamil National Party awaits Maui Senathirajah's response on resignation. Party officials claim no official word yet due to election campaign. General Secretary sent letter Nov 14, but no reply received. Next steps to be decided at Central Executive Committee meeting in Vavuniya.
+
+🟩
+
+The party's internal sources say that the resignation of Maui Senathirajah has been waiting for a final response from him on the decision to resign as the leader of the Sri Lankan Tamil state party.
+
+Maui Senathirajah in writing on October 7 last year to resign from the post of leader of the Sri Lankan Tamil state party. District Parliamentarian Sivagnanam had also sent Sridharan.
+
+However, the party's administration has announced that the letter of Mau is not officially unavailable as the parliamentary election campaign has intensified.
+
+However, the general secretary Dr. Sathiyalingam has sent a letter to Maui Senathiraja on November 14 last after the election.
+
+In the letter, Maui Senathirajah has received a letter of his departure from the headquarters and that he will continue to announce that you will continue to announce that you are still in the fourteen days.
+
+...
+
+[Data](articles/204b65e1.json)
+
+[Extended Data](ext_articles/204b65e1.ext.json)
+
+---
+
+### Prison for father selling a mentally ill girl
+
+*2024-12-12 16:43:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனநலம்-பாதித்த-சிறுமியை-விற்ற-தந்தைக்கு-சிறை/175-348640) · `ta`
+
+Father sentenced 30 years for selling mentally ill daughter. Judge emphasizes community respect and no forgiveness for abuse. Compensation and fine imposed.
+
+🟩
+
+Colombo High Court Nawaratne Marasinghe, who was accused of forcibly detained and prostitution, has been sentenced to 30 years' rigorous imprisonment and sentenced to 30 years.
+
+The judge stressed that the people of the community should be respected and respected, as well as honoring his mother, sister and wife, and that the judge did not forgive those who are involved in such misconduct when they punish the accused.
+
+The judge sentenced the victim to four and a half lakh rupees for a compensation of the victim for a 30 -year prison for three charges on a 10 -year basis.. In addition, 45 thousand rupees was fined.
+
+◼️
+
+[Data](articles/252648a5.json)
+
+[Extended Data](ext_articles/252648a5.ext.json)
 
 ---

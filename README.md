@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 23:43:21**
+As of **2024-12-14 00:17:53**
 
 ## Newspaper Stats
 
-*Scraped **60,068** Articles*
+*Scraped **60,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
 tamilmirrorlk | 8,588
-virakesarilk | 9,864
+virakesarilk | 9,865
 adaderanasinhalalk | 10,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,001 (99.9%) of 60,068 articles have been extended.
+60,005 (99.9%) of 60,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டிக்கு குறிவைத்து 3ஆவது டெஸ்டை எதிகொள்ளும் இந்தியா - அவுஸ்திரேலியா
+
+*2024-12-13 23:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201224) · `ta`
+
+இந்தியாவுக்கும் அவுஸ்திரேலியாவுக்கும் இடையிலான 5 போடடிகள் கொண்ட போர்டர் - காவஸ்கர் டெஸ்ட் தொடரின் 3ஆவது போட்டி பிறிஸ்பேன் கபா விளையாட்டரங்கில் சனிக்கிழமை (14) ஆரம்பமாகவுள்ளது.
+
+பேர்த் விளையாட்டரங்கில் நடைபெற்ற முதலாவது போட்டியில் இந்தியா 295 ஓட்டங்களாலும் அடிலெய்ட் விளையாட்டரங்கில் நடைபெற்ற இரண்டாவது போட்டியில் அவுஸ்திரேலியா 10 விக்கெட்களாலும் வெற்றி பெற்றதை அடுத்து தொடர் 1 - 1 என சம நிலையில் இருக்கிறது.
+
+இரண்டு அணிகளும் 3ஆவது டெஸ்ட் போட்டியில் ஒன்றையொன்று வீழ்த்த வேண்டும் என்ற குறிக்கோளுடன் விளையாடும் என்பதில் சந்தேகம் இல்லை.
+
+ஏனெனில், போர்டர் - காவஸ்கர் தொடருக்கும் அப்பால், உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டியில் விளையாட தகுதிபெற வேண்டும் என்பதை குறிவைத்து இரண்டு அணிகளும் விளையாடும் என்பது உறுதி.
+
+இந்தப் போட்டியில் தோல்வி அடைந்தால் உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டியை நோக்கிய பயணம் பாதிக்கும் என்பதை இரண்டு அணிகளும் நன்கு அறிந்த நிலையிலேயே இந்த டெஸ்ட் போட்டியை எதிர்கொள்கின்றன.
+
+இதன் காரணமாக இந்த டெஸ்ட் போட்டி மற்றொரு பரபரப்பான போட்டியாக அமையும் என்பது நிச்சயம்.
+
+...
+
+[Data](articles/05d7f317.json)
+
+---
 
 ### Sri Lanka gets only 73-pct acceptances on Hamilton Reserve linked ISB
 
@@ -56,23 +78,37 @@ Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if th
 
 [Data](articles/578db354.json)
 
+[Extended Data](ext_articles/578db354.ext.json)
+
 ---
 
-### හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව ගැන පොලීසියෙන් නිවේදනයක්
+### Police announced on security of former President
 
 *2024-12-13 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204353) · `si`
 
-හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව ඉවත් කිරීම සම්බන්ධයෙන් පළවන මාධ්‍ය වාර්තා සම්බන්ධව පොලිස් මූලස්ථානය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-එහි සඳහන්ව ඇත්තේ රජය විසින් ප්‍රභූ ආරක්ෂාව සඳහා නිලධාරීන් අනුයුක්ත කිරීම සම්බන්ධයෙන් ක්‍රියා කිරීමට පත් කර ඇති කමිටුව මගින් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂක තක්සේරු වාර්තා සහ ඒ සඳහා ශ්‍රී ලංකා පොලීසිය දරන වැය බර සමාලෝචනයට ලක් කර ඇති බවය.
 
-හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂක කටයුතු ආවරණය කිරීම සඳහා අනුයුක්ත කර සිටින පොලිස් නිලධාරීන්ගේ වැය බර වාර්ශිකව රුපියල් මිලියන 1100ක් වන බව නිරීක්ෂණය වී ඇති බවත් පොලීසිය සිය නිවේදනයේ දක්වා තිබේ.
 
-එහිදී ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාව වෙනුවෙන් වාර්ෂිකව මිලියන 326කට වැඩි වැය බරක් දරන බවත් දක්වා තිබේ.
+"Police announce review of former president security costs. Government committee assessed presidential protection expenses. Number of security officers for ex-presidents like Mahinda Rajapaksa may be reduced."
 
-...
+🟩
+
+Police Headquarters have issued a special announcement regarding the removal of former presidents.
+
+It states that the committee appointed by the government to act on the official appointment of the officers of the government, the security assessment records of former presidents and the cost of Sri Lanka's expenditure has been reviewed.
+
+The police have also observed that the expenditure of the police officers who are assigned to cover the security of former presidents have been inspected.
+
+The cost of Rs.
+
+Accordingly, the number of security officers including President Mahinda Rajapaksa and former presidents have been revised and the former President Mahinda Rajapaksa will be able to reduce or increase the number of officers and reduce the number of officers.The members of armed services have also been deployed.
+
+◼️
 
 [Data](articles/d6f0aada.json)
+
+[Extended Data](ext_articles/d6f0aada.ext.json)
 
 ---
 
@@ -89,6 +125,8 @@ He also thanked the Sri Lankan government’s advisors Lazard and Clifford Chanc
 ...
 
 [Data](articles/fca3fae9.json)
+
+[Extended Data](ext_articles/fca3fae9.ext.json)
 
 ---
 
@@ -131,6 +169,8 @@ According to the indicative results, instructions from holders representing 96% 
 ...
 
 [Data](articles/cabf537d.json)
+
+[Extended Data](ext_articles/cabf537d.ext.json)
 
 ---
 
@@ -2509,33 +2549,5 @@ In the Sri Pada pilgrimage period, the construction of the temples, constructing
 [Data](articles/6f1e1252.json)
 
 [Extended Data](ext_articles/6f1e1252.ext.json)
-
----
-
-### If you make a mistake, you will be punished
-
-*2024-12-13 12:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறு-செய்தால்-தண்டிக்கப்படுவீர்கள்/175-348694) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Dissanayake vows to punish mistakes in his government. He emphasizes maintaining public trust and promises swift action against wrongdoing within his administration.
-
-🟩
-
-President Anura Dissanayake has said that if there is a mistake in his government, action will be taken against it.
-
-We will not allow people to break the confidence in us, ”he said.
-
-President Anura Kumara Dissanayake made this statement at a meeting with the state media chiefs this morning.
-
-“Our government is not ready to protect the wrongdoers in the country. If anyone is wrong in our government, we will not hesitate to take action against that mistake. ”
-
-◼️
-
-[Data](articles/35c25010.json)
-
-[Extended Data](ext_articles/35c25010.ext.json)
 
 ---

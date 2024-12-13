@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 18:03:47**
+As of **2024-12-13 17:44:28**
 
 ## Newspaper Stats
 
-*Scraped **60,006** Articles*
+*Scraped **60,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,700
 adaderanalk | 7,305
-tamilmirrorlk | 8,582
+tamilmirrorlk | 8,581
 virakesarilk | 9,841
 adaderanasinhalalk | 10,373
 
@@ -26,23 +26,11 @@ adaderanasinhalalk | 10,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,949 (99.9%) of 60,006 articles have been extended.
+59,949 (99.9%) of 60,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
-
-### இராஜினாமா செய்தார் சபாநாயகர்
-
-*2024-12-13 17:47:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இராஜினாமா-செய்தார்-சபாநாயகர்/150-348705) · `ta`
-
-சபாநாயகர் அசோக சபுமல் ரங்வாலா, தனது சபாநாயகர் பதவியை இராஜினாமா செய்ய முடிவு செய்துள்ளார்.
-
-◼️
-
-[Data](articles/9c6b3078.json)
-
----
 
 ### 46 Principal vacuum in national schools
 
@@ -2419,5 +2407,19 @@ At the 25th Annual General Meeting held on 10 December, at the Galadari Hotel, C
 [Data](articles/0ec7a088.json)
 
 [Extended Data](ext_articles/0ec7a088.ext.json)
+
+---
+
+### High Commission of Sri Lanka in Bangladesh woos more bilateral trade
+
+*2024-12-13 04:00:17* · [`dailyftlk`](https://www.ft.lk/business/High-Commission-of-Sri-Lanka-in-Bangladesh-woos-more-bilateral-trade/34-770471) · `en`
+
+High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks on enhancing bilateral trade ties between Bangladesh and Sri Lanka with Vice Chairman and CEO of the Export Promotion Bureau of Bangladesh (EPB), Anwar Hossain, on 9 December 2024 at EPB Office. Vice Chairman and CEO, Anwar Hossain also serves as the Administrator of the Bangladesh Garment Manufacturers and Exporters Association (BGMEA).
+
+...
+
+[Data](articles/85b46a27.json)
+
+[Extended Data](ext_articles/85b46a27.ext.json)
 
 ---

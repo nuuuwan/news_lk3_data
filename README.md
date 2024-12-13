@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 00:28:48**
+As of **2024-12-14 00:17:53**
 
 ## Newspaper Stats
 
-*Scraped **60,079** Articles*
+*Scraped **60,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 607
 bbccomsinhala | 629
 islandlk | 3,621
 economynextcom | 3,664
-dailyftlk | 4,159
+dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
@@ -26,161 +26,11 @@ adaderanasinhalalk | 10,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,005 (99.9%) of 60,079 articles have been extended.
+60,005 (99.9%) of 60,069 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-12-14 (Saturday)
-
-### Parliament apologises  to Justice Minister over title error
-
-*2024-12-14 00:20:28* · [`dailyftlk`](https://www.ft.lk/news/Parliament-apologises-to-Justice-Minister-over-title-error/56-770522) · `en`
-
-Legislative Services and Director of Communications of Parliament Acting Director Jayalath Perera has announced that the process of re-checking and updating information of all Members of Parliament on the official Parliamentary website is currently underway.
-
-In a statement yesterday, the Parliament was forced to address the controversy surrounding the use of the title Dr. before the name of Minister of Justice and National Integration, Attorney Harshana Nanayakkara, on its website. Perera clarified that Nanayakkara had not indicated holding a doctorate in the information provided to Parliament. The appearance of the title was attributed to a data entry error, and corrective action has since been taken, he confirmed.
-
-“We express our deepest regret for the inconvenience caused to the Minister of Justice and National Integration,” Perera said.
-
-...
-
-[Data](articles/b6103030.json)
-
----
-
-### CPC Central Committee delegation to visit SL
-
-*2024-12-14 00:19:42* · [`dailyftlk`](https://www.ft.lk/news/CPC-Central-Committee-delegation-to-visit-SL/56-770521) · `en`
-
-A delegation from the International Department of the CPC Central Committee will visit Sri Lanka from 15 to 18 December to engage in several donation activities and host a vocational training dialogue.
-
-To make donations the delegation will visit Thambuttegama, Kaduwela and Biyagama and take part in a Vocational Training Dialogue in Colombo.
-
-The delegation will also call on JVP General Secretary Tilvin Silva during their stay.
-
-◼️
-
-[Data](articles/e5d8aca0.json)
-
----
-
-### Issues Sri Lanka should take up with New Delhi
-
-*2024-12-14 00:10:36* · [`dailyftlk`](https://www.ft.lk/columns/Issues-Sri-Lanka-should-take-up-with-New-Delhi/4-770514) · `en`
-
-These perspectives have emboldened Indian fishermen to violate maritime boundaries and destroy marine resources by resorting to bottom trawling
-
-The opportunity presented by the forthcoming visit of President Dissanayake to India should not be missed by the new Government because all previous Governments and their advisors have failed to address this all-important issue, either because of their timidity or ignorance of relevant international laws. If Dissanayake fails to inform India that Sri Lanka has no option but to seek the assistance of the ICJ to resolve the issue of maritime boundaries, Sri Lanka will have to accept the bitter prospect of the plunder of its resources and the sovereign rights of the people and the nation forever
-
-...
-
-[Data](articles/2d60db4f.json)
-
----
-
-### Lankan Ambassador and Governor of Bangkok hold discussions on strengthening bilateral collaboration
-
-*2024-12-14 00:07:27* · [`dailyftlk`](https://www.ft.lk/news/Lankan-Ambassador-and-Governor-of-Bangkok-hold-discussions-on-strengthening-bilateral-collaboration/56-770513) · `en`
-
-Ambassador of Sri Lanka and Permanent Representative to UNESCAP, Wijayanthi Edirisinghe, met with the Governor of Bangkok, Chadchart Sittipunt to discuss areas of collaboration between Sri Lanka and Bangkok.
-
-Ambassador Edirisinghe underscored the profound Buddhist and cultural ties between Sri Lanka and Thailand, drawing attention to key symbols of Sri Lanka’s heritage, such as the Kandy Esala Perahera and the Ramayana Trail. She highlighted how such cultural icons not only reflect Sri Lanka’s cultural richness but also echo deeply with Thailand’s own historical and spiritual traditions.
-
-...
-
-[Data](articles/9f48afc6.json)
-
----
-
-### Heavenly duties or hellish efforts?
-
-*2024-12-14 00:04:20* · [`dailyftlk`](https://www.ft.lk/columns/Heavenly-duties-or-hellish-efforts/4-770511) · `en`
-
-The country, once hopeful, stagnates; never achieving a growth rate that promises a break through
-
-“The world is what it is, men who are nothing, who allow themselves to be nothing, have no place in it”   – V.S. Naipaul
-
-I have a distant memory of reading a light-hearted description of heaven and hell, in common belief an inevitable destination for all earthlings; those who lead unsullied lives are directed to the former; botch your book, the man is hightailed to hell.
-
-These two places are obviously ‘constructs’ of the human imagination, by human standards and outlook, the ecstasies promised and the tortures threatened are not only of human concept but are also distinctly period defined (are there personal computers in either place?). There cannot be two more dissimilar destinations in the after-life, heaven is a joyous place of endless pleasures and creature comforts, while hell is all agony, suffering and torture.
-
-...
-
-[Data](articles/413e849d.json)
-
----
-
-### Need to safeguard people’s mandate on AKD and NPP
-
-*2024-12-14 00:02:21* · [`dailyftlk`](https://www.ft.lk/columns/Need-to-safeguard-people-s-mandate-on-AKD-and-NPP/4-770510) · `en`
-
-While the domestically disgruntled political elements are looking for opportunities to make life difficult for President AKD and his NPP Government those very elements could become tools at the hands of foreign elements with their own strategic agenda
-
-On 21 August 2024 ‘Colombo Telegraph’ published an article titled, “Will the old order accept AKD victory?” The reason for raising that question then was because, of all the 39 contestants in the race for Presidency, including the two front runners Ranil Wickremesinghe (RW) and Sajith Premadasa (SP), only AKD stood for something radically different. While all the others had exhibited no understanding of the root cause of the poly-crises that plagued the nation and promising blindly to tackle them rather spasmodically with the help of foreign agencies and advisors, only AKD was advocating something entirely different.
-
-...
-
-[Data](articles/9c3a1e4e.json)
-
----
-
-### “Government failing on promises”: Sajith Premadasa highlights key issues
-
-*2024-12-14 00:00:19* · [`dailyftlk`](https://www.ft.lk/opinion/Government-failing-on-promises-Sajith-Premadasa-highlights-key-issues/14-770509) · `en`
-
-We were told that the Prevention of Terrorism Act would be completely abolished. However, at present, they have eliminated freedom of speech, media freedom, and civil liberties by utilising the Prevention of Terrorism Act. Is it fair to conduct media raids using the Prevention of Terrorism Act? During the election, the current Government received a significant support from the social media sector. Yet now, they are using the Prevention of Terrorism Act, which they promised to remove, to hunt down social media activists. We propose that if they mean what they say, they should stop this repression
-
-...
-
-[Data](articles/fdcd4564.json)
-
----
-
 ### 2024-12-13 (Friday)
-
-### Australian High Commissioner calls on EDB Chief to boost trade ties
-
-*2024-12-13 23:46:38* · [`dailyftlk`](https://www.ft.lk/business/Australian-High-Commissioner-calls-on-EDB-Chief-to-boost-trade-ties/34-770499) · `en`
-
-Australian High Commissioner to Sri Lanka Paul Stephens and his team met recently Export Development Board (EDB) Chairman and Chief Executive Mangala Wijesinghe to strengthen bilateral trade relations between the two countries.
-
-Over the past 75 years, Sri Lanka and Australia bilateral relationship has vastly expanded over through deep people-to-people ties, trade and investment, tourism, culture and sports.
-
-This relationship is strong and enduring, underpinned by shared history and common values. Trade and investment between two countries have been increasing over the time.
-
-Australia ranks as the 11th largest export destination for Sri Lanka, with total exports amounting to $ 226.51 million in 2023. It also stands as the 24th largest source of imports for Sri Lanka, with total imports valued at $ 185.89 million during the same period. This results in a favourable trade balance for Sri Lanka of approximately $ 40 million.
-
-...
-
-[Data](articles/6878b9e9.json)
-
----
-
-### SBS opens new Hikvision experience centre in Battaramulla
-
-*2024-12-13 23:45:31* · [`dailyftlk`](https://www.ft.lk/business/SBS-opens-new-Hikvision-experience-centre-in-Battaramulla/34-770497) · `en`
-
-Hikvision General Country Manager - Sri Lanka Yasantha Hennayake, Senior Distribution Sales Manager Mark Firth, Sales Manager Molly Liu Channel, IT Gallery Managing Director Dilantha Perera, SBS.com Chairman and Managing Director Samantha Gunasekara
-
-...
-
-[Data](articles/16fd31a9.json)
-
----
-
-### Agromet Asia triumphs at NCE Annual Export Awards 2024
-
-*2024-12-13 23:44:48* · [`dailyftlk`](https://www.ft.lk/business/Agromet-Asia-triumphs-at-NCE-Annual-Export-Awards-2024/34-770496) · `en`
-
-In a stellar achievement, Agromet Asia Ltd., a leading manufacturer in Sri Lanka specialising in transforming non-ferrous metals into high-quality products, has been honoured with two prestigious awards at the NCE Annual Export Awards 2024 held on 6 December, at Shangri-La Hotel Colombo.
-
-Agromet Asia won the Gold Award in the Recycled Products Sector (Extra-Large Companies Category), acknowledging its significant contribution to the circular economy through sustainable manufacturing practices. The company’s efforts in producing non-ferrous metal products have set industry benchmark standards, highlighting its leadership in recycle products sector.
-
-...
-
-[Data](articles/dc75bf30.json)
-
----
 
 ### உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டிக்கு குறிவைத்து 3ஆவது டெஸ்டை எதிகொள்ளும் இந்தியா - அவுஸ்திரேலியா
 
@@ -2445,5 +2295,259 @@ Italian Driving License: 'If the license was found in the license. Then this col
 [Data](articles/e19d2e85.json)
 
 [Extended Data](ext_articles/e19d2e85.ext.json)
+
+---
+
+### Fisheries Minister Chandrasekhar emphasizes before the President's visit to India
+
+*2024-12-13 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201147) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Sri Lanka's Fisheries Minister Chandrasekhar addresses India visit, focusing on resolving long-standing fishing disputes between Sri Lankan and Tamil Nadu fishermen. He emphasizes the need to protect marine resources and increase seaweed production to address declining protein intake.
+
+🟩
+
+Sri Lanka's Fisheries and Aquatic Resources Minister Ramalingam Chandrasekhar said that the long -standing fishermen of Sri Lanka and Tamil Nadu's daily fishermen would be a decisive decision for the fishing crisis.
+
+This fishing crisis has been an important diplomatic issue between India and Sri Lanka for many years. The issue is likely to be explored during his visit to India next week.
+
+Chandrasekhar, who represents the Northern Jaffna district in Parliament, said, "People from all ethnicities and all areas, including the Northern and Eastern Provinces, have given us a major decree in the recent elections. We have a responsibility to take care of their concerns."
+
+"The long -standing issue of fishing in Tamil Nadu by using drag in Tamil Nadu is a major concern for our North Fishermen community," he told 'The Hindu' on Wednesday.
+
+...
+
+[Data](articles/af6f13b9.json)
+
+[Extended Data](ext_articles/af6f13b9.ext.json)
+
+---
+
+### Four crores discovers in Kahathudura
+
+*2024-12-13 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204334) · `si`
+
+Kahathuduwa Police arrest 6 drug suspects, seize 985g heroin & 50g ice. Three-wheeler inspection leads to raid on suspicious house. Suspects detained under two-day order.
+
+🟩
+
+The Kahathuduwa Police have arrested six people with a large number of drugs worth Rs.
+
+The suspects were taken into police custody with the suspects with the suspects and 50 grams of ice and 835 grams of heroin.
+
+A team of Kahathuduwa police officers inspected a suspicious three-wheeler in charge of three-wheeler.
+
+The monk raided a suspicious house in Kiriwatuwa, the 16th Law of the Smarter of the Smarter of the Smarter of the Smarter of the Smartphone where one suspect was arrested on the Satchedubs of Smartphone.
+
+In the meantime, another person had arrested the person who was arrested and inspected to carry out a parcel at the back of the house, police said.
+
+Residents of a three-wheeler driver, who is a three-wheeler, is currently working in the Colombo area and said he returned to this house.
+
+The suspect is to be questioned on two-day detention orders.
+
+◼️
+
+[Data](articles/72340eeb.json)
+
+[Extended Data](ext_articles/72340eeb.ext.json)
+
+---
+
+### Lorry - motorcycle collision;One kills!
+
+*2024-12-13 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201140) · `ta`
+
+Motorcycle collides with lorry in Kattamichan. One killed, driver injured. Lorry driver arrested. Body at Anuradhapura hospital.
+
+🟩
+
+Moragoda police said that one person was killed in an accident in the Kattamichan area on the Moragoda Police Division.
+
+The accident occurred when a lorry collided with a motorcycle riding in the opposite direction.
+
+The motorcycle driver was injured in the accident and died after being admitted to the Anuradhapura hospital.
+
+The body has been placed in the funeral room of the Anuradhapura hospital and the driver of the lorry has been arrested by the police in connection with the accident.
+
+◼️
+
+[Data](articles/55011f62.json)
+
+[Extended Data](ext_articles/55011f62.ext.json)
+
+---
+
+### Goal Mawles owner remanded
+
+*2024-12-13 12:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204333) · `si`
+
+Indian national arrested for match-fixing in Sri Lanka, remanded until 16th. Suspect proposed fixing competition, reported to ICC, then detained. Case heard in Colombo Magistrate's Court.
+
+🟩
+
+The Indian national, who was arrested in Pallekele to the Ceylon T 10 Super Leaf, Ceylon T10 Super Leaf, celebrations have been remanded till the 16th.
+
+The suspect was produced before the Colombo Magistrate's Court today (12).
+
+The suspect was arrested and produced before the Metropost Prevention Unit.
+
+The suspect had made a proposal for the matching of the competition, and the player had informed the International Cricket Council and then the suspect was arrested.
+
+◼️
+
+[Data](articles/a85d1437.json)
+
+[Extended Data](ext_articles/a85d1437.ext.json)
+
+---
+
+### Canada reaffirms support for Sri Lanka’s anti-corruption efforts
+
+*2024-12-13 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104209/canada-reaffirms-support-for-sri-lankas-anti-corruption-efforts) · `en`
+
+The Canadian Government has expressed its strong commitment to supporting Sri Lanka’s initiatives to combat corruption and fraud, the President’s Media Division (PMD) reported.
+
+This assurance was conveyed by Eric Walsh, the High Commissioner of Canada to Sri Lanka and the Maldives, during a meeting with the Secretary to the President, Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat yesterday (12).
+
+High Commissioner Walsh emphasized Canada’s readiness to share its expertise and experiences in preventing corruption and fraud, offering technical and strategic support to help Sri Lanka achieve its anti-corruption objectives, the PMD said.
+
+Addressing Sri Lanka’s economic challenges, High Commissioner Walsh highlighted the impact of the country’s political culture on its economic downturn. He commended the current government’s efforts to reform this culture, marking a significant step toward sustainable development and improved governance.
+
+...
+
+[Data](articles/2a4690d8.json)
+
+[Extended Data](ext_articles/2a4690d8.ext.json)
+
+---
+
+### New projects to improve freight transport through train!- Bimal Ratnayake
+
+*2024-12-13 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201131) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"New rail projects to boost freight transport: Minister Bimal Ratnayake announces initiatives to improve train services, address delays, and develop the eastern port terminal by June 30."
+
+🟩
+
+Transport, Highways, Ports and Civil Aviation Minister Bimal Ratnayake has said that new projects will be launched to improve freight traffic through the train.
+
+He was speaking to the media at a discussion between railway department officials and union representatives at the Railway Headquarters yesterday (12).
+
+He added that the railway department is providing solutions to the shortage of employees.
+
+Minister Bimal Ratnayake said that the focus of train delay and the prevention of railway problems has been submitted to the development of the train service.
+
+There, he said the government's main goal was to prepare the eastern terminal of the port by June 30 next year.
+
+◼️
+
+[Data](articles/6bb70eb2.json)
+
+[Extended Data](ext_articles/6bb70eb2.ext.json)
+
+---
+
+### Girl dies
+
+*2024-12-13 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/201135) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Woman killed in road accident on Habarana-Dambulla main road. Cab collided with pedestrian. Victim died at Habarana Hospital. Driver arrested by police.
+
+🟩
+
+A woman was killed in an accident on the Habarana - Dambulla main road on Thursday (12), which belongs to the Habarana Police Division of the Anuradhapura and Habarana Police Division.
+
+The accident occurred when a cab traveling from Dambulla to Habarana collided with a woman traveling in a pedestrian crossing.
+
+The woman who was injured in the accident has died after being admitted to Habarana Hospital.
+
+The body has been placed in the funeral room of the Habarana Hospital and the driver of the vehicle has been arrested by the police in connection with the accident.
+
+◼️
+
+[Data](articles/3c97c600.json)
+
+[Extended Data](ext_articles/3c97c600.ext.json)
+
+---
+
+### FIB probes presidential candidates who failed to submit expense reports
+
+*2024-12-13 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104208/fib-probes-presidential-candidates-who-failed-to-submit-expense-reports-) · `en`
+
+The Fraud Investigation Bureau (FIB) has informed the Colombo Magistrate’s Court today (13) that it has initiated an investigation into several candidates that contested the last Presidential Election and their representatives who have failed to submit proper expense reports as mandated under the Regulation of Election Expenditure Act.
+
+The FIB today presented facts before the court in relation to seven complaints filed by the Election Commission regarding non-compliance with the Election Expenditure Act.
+
+During the court session, FIB officials explained that, under the Regulation of Election Expenditure Act No. 03 of 2023, all candidates and their representatives were required to submit detailed reports on their election-related expenses to the Election Commission by October 13.
+
+However, the FIB revealed that some candidates and their representatives are yet to submit the required reports, which constitutes a violation of the law.
+
+...
+
+[Data](articles/82181bdc.json)
+
+[Extended Data](ext_articles/82181bdc.ext.json)
+
+---
+
+### Traffic congestion on Negombo - Colombo main road
+
+*2024-12-13 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201139) · `ta`
+
+Traffic congestion alert: Negombo-Colombo main road tomorrow at 7 pm due to Sri Samputtu Jayanthi Perahara procession. Alternative routes suggested via Kadiru Bridge, Ragama streets, and Pankalawatte Road.
+
+🟩
+
+Police have announced the traffic congestion on the Negombo -Colombo main road tomorrow (14) at 7 pm.
+
+Sri Samputtu Jayanthi Perahara of the Hendala Purana Rajamaha Vihara in the Wattala Police Division will be held tomorrow (14) from 7 pm to Sunday morning.
+
+The procession begins with the Hendala Purana Rajamaha Viharaya, traveling from Hendala Junction to Hendala Junction, crossing the Colombo -Negombo road, and returning to the Colombo -Negombo main road through the old Negombo road and the Alvis Town Hendala junction.
+
+Turn left through Hagitta junction - from Elakanda Road to Negombo
+
+Returning to the left through the Hagitha junction
+
+From Colombo to Elakanda - Negombo road via the Kadiru Bridge
+
+Returning to the right through the junction - Evariyavatta, Hunupitiya, Kadavatha, Ediramulla, Kiribathkodai and Ragama streets can be used.
+
+...
+
+[Data](articles/547ac530.json)
+
+[Extended Data](ext_articles/547ac530.ext.json)
+
+---
+
+### Gazette notification for Sri Pada pilgrimage
+
+*2024-12-13 12:04:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනා-වාරය-ගැන-ගැසට්-නිවේදනයක්/11-413616) · `si`
+
+Sri Pada pilgrimage Gazette notification summary: Temples construction, temporary shelters, deviations, tourism restrictions, alcohol ban during pilgrimage period.
+
+🟩
+
+Accordingly, the Gazette notification of Ratnapura District Secretary Wasantha Gunaratne was released by the District Secretary of Ratnapura yesterday (12).
+
+In the Sri Pada pilgrimage period, the construction of the temples, constructing and maintaining the temporary shelter, deviation, tourism, tourism, track of alcohol, and alcohol.The Gazette has informed the public that the regulations, including the use of the use of the use of the country, has been informed.
+
+◼️
+
+[Data](articles/6f1e1252.json)
+
+[Extended Data](ext_articles/6f1e1252.ext.json)
 
 ---

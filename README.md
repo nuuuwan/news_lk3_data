@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 19:03:27**
+As of **2024-12-13 20:26:58**
 
 ## Newspaper Stats
 
-*Scraped **60,036** Articles*
+*Scraped **60,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,701
-adaderanalk | 7,310
-tamilmirrorlk | 8,583
+adaderanalk | 7,311
+tamilmirrorlk | 8,584
 virakesarilk | 9,855
 adaderanasinhalalk | 10,381
 
@@ -26,119 +26,215 @@ adaderanasinhalalk | 10,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,957 (99.9%) of 60,036 articles have been extended.
+59,972 (99.9%) of 60,038 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### ஆசிய குத்துச்சண்டைப் பதக்கம் வென்று வரலாறு படைத்த மிஹிரன் நாடு திரும்பினார்
+### Ella - Wellawaya Road is blocked
+
+*2024-12-13 19:33:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-வீதி-தடைப்பட்டுள்ளது/175-348707) · `ta`
+
+Ella - Wellawaya Road blocked due to tree collapse near 10th thunderbolt. Disaster Management Center reports road closure also caused by fallen pole on Karandakolla Road.
+
+🟩
+
+The Disaster Management Center said that traffic from the area has been blocked due to the collapse of a massive tree on the Ella -Wellawaya road.
+
+This is the case near the 10th thunderbolt on the Ella - Wellawaya Road.
+
+The Disaster Management Center has said that a road has been blocked due to a falling pole on Ella - Wellawaya Road on Karandakolla Road.. Remble
+
+◼️
+
+[Data](articles/b3cd4a5e.json)
+
+[Extended Data](ext_articles/b3cd4a5e.ext.json)
+
+---
+
+### Shots fired at residence of ‘Konda Ranji’
+
+*2024-12-13 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104221/shots-fired-at-residence-of-konda-ranji) · `en`
+
+Two unidentified individuals who had arrived on a motorcycle have reportedly opened fire at a three-storey house located on Veedi Mawatha in Kandana.
+
+During the shooting incident, several bullets had also hit nearby houses while it is reported that a T-56 assault rifle had been used to carry out the shooting.
+
+The gunmen had targeted a residence belonging to Ranjith Kumara, also known as ‘Kandane Konda Ranji’, Ada Derana reporter said.
+
+It is said that the individual known as ‘Konda Ranji’ had travelled to Dubai along with his wife and three children, more than two years ago.
+
+He had been out on bail after being in remand custody over charges including possession of a firearm, drug racketeering and cattle theft.
+
+◼️
+
+[Data](articles/86b4e4f0.json)
+
+[Extended Data](ext_articles/86b4e4f0.ext.json)
+
+---
+
+### Mihran returns to the country with Asian Boxing Medal
 
 *2024-12-13 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201216) · `ta`
 
-தாய்லாந்தின் சியாங் மாய் மண்டபத்தில் அண்மையில் நடைபெற்று முடிந்த ஆசிய உயரடுக்கு குத்துச்சண்டை சம்பியன்ஷிப் போட்டியில்  ஆண்களுக்கான 51 கிலோ கிராம் எடைப்பிரிவில்   வென்கலப் பதக்கம் வென்று வரலாறு படைத்த பசிந்து உமயங்கன மிஹிரன் நாடு திரும்பியபோது அவருக்கு விமான நிலையத்தில் வைத்து சிறப்பான வரவேற்பளிக்கப்பட்டது.
+Sri Lankan boxer Umayangana Mihran wins bronze in Asian Boxing Championships after 37 years. Mihran defeated Malaysia's Mohammed Abdul Qai in quarter-finals but lost to Uzbekistan's Asilbek Jalov in semi-finals, securing bronze medal.
 
-குவைத் நகரில் 1987இல் நடைபெற்ற ஆசிய குத்துச்சண்டைப் போட்டியில் பி.எல்.ஜே. ரட்னசிறி வெண்கலப் பதக்கம் வென்று 37 வருடங்கள் கடந்த நிலையில் ஆசிய குத்துச் சண்டையில் இலங்கைக்கு பதக்கம் கிடைத்தது இதுவே முதல் தடவையாகும்.
+🟩
 
-கால் இறுதிப் போட்டியில் நேரடியாக பங்குபற்ற தகுதிபெற்ற மிஹிரன் அப் போட்டியில் மலேசியாவின் முதல் நிலை வீரரும் 22 வயதுக்குட்பட்ட ஆசிய குத்துச்சண்டை போட்டியில் பதக்கம் வென்றவருமான மொஹமத் அப்துல் கய்யும் பின் ஆரிபின் என்பவரை வெற்றிகொண்டதன் மூலம் பதக்கம் ஒன்றை உறுதி செய்துகொண்டிருந்தார்.
+When Umayangana Mihran returned to the airport when he returned to the airport in the recently concluded Asian Eligious Boxing Championships at the Chiang Mai Hall in Thailand, winning the 51 kilogram weight category.
+
+PLJ in the 1987 Asian Boxing Tournament in Kuwait. This is the first time Sri Lanka won the Medal in the Asian Boxing Medal 37 years after the Ratnasiri Bronze Medal won.
+
+Mihran -up in the quarter -finals Mihran -up was confirming a medal by winning Malaysia's first -level Asian Boxing Tournament, Mohammed Abdul Qai, a 22 -year -old Asian Boxing Tournament.
+
+Subsequently, Umayangana Mihran, who failed in the semi -finals of the Asian Champion Asilbec Jalov (Uzbekistan) under the age of 22, was satisfied with the bronze medal as the Umayankana Mihran failed last Sunday.
+
+Mihran lost 27 - 30, based on the points awarded by mediators 9 - 10, 9 - 10, 9 - respectively, respectively.
 
 ...
 
 [Data](articles/eab1ebd7.json)
 
+[Extended Data](ext_articles/eab1ebd7.ext.json)
+
 ---
 
-### ඇල්ල - වැල්ලවාය මාර්ගය අවහිර වෙයි
+### Ella - Wellawaya road blocked
 
 *2024-12-13 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204350) · `si`
 
-ගසක් කඩා වැටීම හේතුවෙන් ඇල්ල - වැල්ලවාය මාර්ගය අවහිර වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Ella-Wellawaya Rd blocked: Tree collapse causes lane obstruction. DMC reports incident.
 
-එම මධ්‍යස්ථානය පවසන්නේ  ඇල්ල-වැල්ලවාය මාර්ගයේ 10 කණුව අසල විශාල ගසක් කඩා වැටී ඇති බවයි.
+🟩
 
-එසේම ඇල්ල-වැල්ලවාය මාර්ගයේ කරඳගොල්ලේ මාර්ගයට විදුලි පහන් කණුවක් කඩා වැටීමෙන් එක් මංතීරුවක් අවහිර වී ඇති බවද ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+The Disaster Management Center (DMC) says that due to a tree collapses, the Ella-Wellawaya Road has been blocked.
+
+The center says a large tree has collapsed near the post of Ella-Wellawaya road.
+
+The Disaster Management Center (DMC) said that one lane has been blocked by the collapse of a light station to Karundagolle road on the Ella-Wellawaya road.
 
 ◼️
 
 [Data](articles/e0634e8b.json)
 
+[Extended Data](ext_articles/e0634e8b.ext.json)
+
 ---
 
-### கந்தானையில் துப்பாக்கிச் சூடு
+### Firing in Kandana
 
 *2024-12-13 18:44:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தானையில்-துப்பாக்கிச்-சூடு/175-348706) · `ta`
 
-கந்தானை பகுதியில் உள்ள மூன்று மாடி வீடொன்றின் மீது இன்று மாலை துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-கந்தானையைச் சேர்ந்த ரஞ்சி என அழைக்கப்படும் ரஞ்சித் குமார என்பவரின் வீட்டை குறிவைத்து இந்த ஆயுததாரிகள் தாக்குதல் நடத்தியதாக தெரிவிக்கப்படுகிறது.
 
-இரண்டரை வருடங்களுக்கு முன்னர் குறித்த நபர் தனது மனைவி மற்றும் மூன்று பிள்ளைகளுடன் டுபாய்க்கு சென்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
 
-குறித்த நபர் துப்பாக்கி வைத்திருந்தமை, ஹெரோயின் கடத்தல் மற்றும் மாடு திருடுதல் ஆகிய குற்றங்களுக்காக சிறையிலிருந்து பிணையில் விடுவிக்கப்பட்டவரென தெரிவிக்கப்படுகிறது.
+Armed men attack 3-storey house in Kandana. Target: Ranjit Kumara (known as Ranji). He left Sri Lanka 2.5 years ago with family. Recently released on bail for kidnapping & theft. Police investigating incident.
 
-இந்நிலையில், குறித்த சம்பவம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+🟩
+
+A three -storey house in Kandana area has been shot this evening.
+
+It is reported that the armed men attacked the house of Ranjit Kumara, known as Ranji from Kandana.
+
+It is reported that the person went to Dubai with his wife and three children two and a half years ago.
+
+It is reported that the person was released on bail from prison for the abduction of the man, the kidnapping and the stealing of cow.
+
+In this case, the police are conducting further investigations into the incident. Remble
 
 ◼️
 
 [Data](articles/9ddb8314.json)
 
+[Extended Data](ext_articles/9ddb8314.ext.json)
+
 ---
 
-### உண்மையான வடக்கின் வசந்தம் இனிதான்! - கடற்தொழில் அமைச்சர்
+### The spring of the real North is no longer!- Minister of Fisheries
 
 *2024-12-13 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201193) · `ta`
 
-உண்மையான வடக்கின் வசந்தம் 2025ஆம் ஆண்டு முதலே வீசும் என கடற்றொழில் அமைச்சர் இராமலிங்கம் சந்திரசேகரன் தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-யாழ். மாவட்ட ஒருங்கிணைப்பு குழு கூட்டம் இன்று வெள்ளிக்கிழமை (13) மாவட்ட செயலகத்தில் நடைபெற்றது.
 
-கடந்த காலங்களில் ஒதுக்கப்பட்ட நிதிகளில் மேற்கொள்ளப்பட்ட அபிவிருத்தித் திட்டங்கள் தொடர்பில் கூட்டத்தில் முக்கியமாக கலந்துரையாடப்பட்டது.
 
-அத்துடன் இனிவரும் காலங்களில் மேற்கொள்ளப்படவேண்டிய அபிவிருத்தித் திட்டங்கள் தொடர்பிலும், அது தொடர்பான முன்மொழிவுகள் குறித்து கலந்துரையாடப்பட்டது.
+Fisheries Minister Ramalingam Chandrasekaran announced the "spring of the real North" will begin in 2025. He discussed development projects, flood relief proposals, and plans to improve fisherman livelihoods during a district coordinating committee meeting.
 
-இதில் முக்கியமாக வெள்ள அனர்த்தம் தொடர்பில் பேசப்பட்டது. வெள்ளங்களுக்கு தீர்வு காணும் முகமாக முன்மொழிவு வைக்கப்பட்டு, அதற்காக சுமார் 250 மில்லியன் ரூபா கோரப்பட்டுள்ளது. அந்த நிதி கிடைக்கப்பெற்றால் வேலைகள் முன்னெடுக்கப்படும்.
+🟩
 
-வட மாகாண ஆளுநரால் பல்வேறு திட்ட முன்மொழிவுகள் முன்வைக்கப்பட்டுள்ளன. அவை தொடர்பில் அமைச்சரவையில் முடிவெடுத்து அனுமதிகள் கிடைக்கப்பெற்றதும் வேலைத்திட்டங்கள் முன்னெடுக்கப்படும்.
+Fisheries Minister Ramalingam Chandrasekaran has said that the spring of the real North will be blowing from 2025.
+
+Yall. The District Coordinating Committee meeting was held today (13) at the District Secretariat.
+
+The meeting was mainly discussed on the development projects that have been allocated in the past.
+
+In addition to the development projects to be carried out in the future, the proposals were discussed.
+
+It was mainly talked about flood disaster. The proposal has been proposed to address floods and has been requested for about 250 million rupees. Work will be carried out if that funds are available.
+
+Various proposals have been put forward by the Governor of the Northern Province. Once the Cabinet has decided to make a decision in the cabinet, programs will be carried out.
+
+Plans will be presented to the villages and allocated funds. Our purpose is to raise the livelihoods of the villagers. We are going to solve the problems of the fishermen and improve their livelihoods.
 
 ...
 
 [Data](articles/a9c80a97.json)
 
+[Extended Data](ext_articles/a9c80a97.ext.json)
+
 ---
 
-### ගෝල් මාවල්ස් හිමිකරු ප්‍රබල කොදෙව් ක්‍රීඩකයාට කළ යෝජනාව අධිකරණයේදී හෙළිවෙයි
+### Court reveals to the West New Maval's owner to the West Indies
 
 *2024-12-13 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204349) · `si`
 
-මහනුවර,  පල්ලේකැලේ පැවැත්වෙන "ලංකා T 10 සුපර් ලීග්" ක්‍රිකට් තරගාවලියේදී මුදලට තරග පාවාදීමට යෝජනා කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ගෝල් මාවල්ස් කණ්ඩායමේ හිමිකරු වන ඉන්දීය ජාතික ප්‍රේම් තාකූර් ලබන16 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+Colombo Magistrate's Court arrests owner of Gall Maval Leafs team for fixing Lanka T10 Super League match. Accused offered $15,000 to West Indies player Andrew Fletcher to influence bowling. Released on bail, next hearing on 16th.
 
-ක්‍රීඩා වැරදි වැළැක්වීමේ අංශය විසින් මෙම සැකකරුව අත්අඩංගුවට ගෙන අද (13) කොළඹ අතිරේක මහෙස්ත්‍රාත් හර්ෂණ කැකුණවල මහතා හමුවට පමුණුවනු ලැබීය.
+🟩
 
-ක්‍රීඩා වැරදී වැළැක්වීමේ විමර්ශන ඒකකය වෙනුවෙන් පෙනී සිටි රජයේ ජ්‍යෙෂ්ඨ නීතිඥ උදාර කරුණාතිලක මහතා අධිකරණය හමුවේ කරුණු දක්වමින් ගෝල් මාවල්ස් කණ්ඩායමේ හිමිකරු වශයෙන් කටයුතු කරන මෙම සැකකරු තම කණ්ඩායමේ ක්‍රීඩා කරන බටහිර ඉන්දීය ක්‍රීඩකයෙකු වන ඇන්ඩෲ ෆ්ලෙචර් නමැත්තාට තරග පාවාදීම සඳහා යෝජනා කර තිබෙන බව විමර්ශනවලදී කරුණු අනාවරණය වී ඇතැයි පැවසීය.
+The Colombo Magistrate's Court prescribed the owner of the Gall Maval Leafs team to be arrested in connection with the 'Lanka T 10 Super Leaf' cricket at Pallekele.
 
-තමා නම්කරන පන්දු යවන්නන්ට අදක්ෂ ලෙස ක්‍රීඩා කරන ලෙස මෙම සැකකරු විසින් අදාළ බටහිර ඉන්දීය කොදෙව් ක්‍රීඩකයාට යෝජනා කර තිබෙන බවත් ඒ වෙනුවෙන් ඇමරිකානු ඩොලර් 15,000ක මුදලක් ලබාදෙන බවට පොරොන්දු වී ඇති බවත් රජයේ ජ්‍යෙෂ්ඨ නීතිඥවරයා සඳහන් කළේය.
+The suspect was arrested by the Sports Midwide Prevention Division and brought to the Additional Magistrate Harshana Kekunawala.
+
+Senior State Counsel, Senior State Counsel, who appeared in the court, is the owner of the Goal Mavals team and is the owner of the Goal Maval, and the west Indian player Andrew Fleiccher, which is supported by the West-player Andrew Fleiccher, has been proposed to betray the match matching the match.Said.
+
+The suspect has proposed the West Indies to adact to the bowlers to be advocated. 15,000 US $ 15,000, he said.
+
+He also promised that the suspect had promised to provide another $ 30,000 to the player if they were acting in this way.
 
 ...
 
 [Data](articles/95c7bfa4.json)
 
+[Extended Data](ext_articles/95c7bfa4.ext.json)
+
 ---
 
-### பொரள்ளையில் ஐஸ் போதைப்பொருளுடன் இளைஞன் கைது !
+### Youth arrested with ice drugs
 
 *2024-12-13 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201210) · `ta`
 
-கொழும்பு, பொரள்ளை பொலிஸ் பிரிவுக்கு உட்பட்ட சீவலி விளையாட்டு மைதானத்திற்கு அருகில்  ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வியாழக்கிழமை (12) பொரள்ளை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Colombo police arrest 23-year-old youth with ice drugs near Sewali Playground. 106g drugs and 145,000 rupees seized during raid based on tip-off.
 
-பொரள்ளை பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு 10 பிரதேசத்தைச் சேர்ந்த 23 வயதுடைய இளைஞன் ஆவார்.
+A suspect with ice drugs was arrested by the Borella police on Thursday (12) near the Sewali Playground, which belongs to the Borella Police Division in Colombo.
 
-சந்தேக நபரிடம் இருந்து  106 கிராம் ஐஸ் போதைப்பொருள் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும்  145,000 ரூபா பணம் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+The suspect has been arrested during a raid carried out on the basis of confidential information received by the Borella Police Station officials.
+
+The suspect was a 23 -year -old youth from Colombo 10.
+
+Police have seized 145,000 rupees suspected of earning 106 grams of ice and drug trafficking from the suspect.
 
 ◼️
 
 [Data](articles/35c239d8.json)
+
+[Extended Data](ext_articles/35c239d8.ext.json)
 
 ---
 
@@ -310,51 +406,85 @@ The four -story story that travels in different directions on different field co
 
 ---
 
-### தென் சென்னை - திரைப்பட விமர்சனம்
+### South Chennai - Film Review
 
 *2024-12-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201204) · `ta`
 
-நடிகர்கள் : ரங்கா, ரியா, நிதின் மேத்தா, இளங்கோ குமணன், திலீபன் குமார், 'ஆறு' பாலா, சுபா, ராம், விஷால் மற்றும் பலர்
+Here's a summary of the film review in approximately 200 characters:
 
-தமிழ் சினிமாவில் வடசென்னை- மத்திய சென்னை - என்ற பெயரில் திரைப்படங்கள் வெளியாகி இருக்கிறது. ஓரளவு வரவேற்பையும் பெற்றது.
 
-மீதமுள்ள தென் சென்னை என்ற பெயரிலும் தற்போது திரைப்படம் வெளியாகி உள்ளது. கொரோனா பெருந் தொற்று பரவிய காலகட்டத்திய கதையம்சம் கொண்ட இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-தென் சென்னை என்பது கிழக்கு கடற்கரை சாலையையும் உள்ளடக்கியது. கிழக்கு கடற்கரை சாலை ஒன்றில் உணவகம் ஒன்றினை இரண்டு தலைமுறைகளாக ஒரு குடும்பம் (கதை நாயகனின் குடும்பம்) நடத்தி வருகிறது. அந்த உணவகத்தை  நவீனப்படுத்தவும், மக்களின் ரசனைக்கேற்ப மதுபான கூடத்துடன் கூடிய உணவகமாக விரிவு படுத்துகிறார் நாயகனின் தந்தை.  இதனால் கடன் வாங்குகிறார்.
+"South Chennai" film review: Action-packed thriller with Ranga as hero. Story revolves around restaurant debt, illegal activities, and child adoption. Director's awareness on adoption appreciated but some aspects incomplete.
+
+🟩
+
+Actors: Ranga, Riya, Nitin Mehta, Ilango Kumanan, Dileepan Kumar
+
+Movies have been released in Tamil cinema under the name of Vadasenai - Central Chennai. It was somewhat welcome.
+
+The rest of the film is currently being released in South Chennai. The film, which is a storyline that spreads Corona infection, has attracted all fans?Or not?We will continue to see.
+
+South Chennai also includes the East Coast Road. A restaurant on East Coast Road has been running a family (story man's family) for two generations. The father of the hero is to modernize the restaurant and expand into a restaurant with a liquor hall according to the taste of the people.Thus borrowing.
+
+The debt burden increases as the restaurant's business with exclusive liquor lake as expected. At this moment, a gang uses the restaurant to reduce his debt burden and use the restaurant for their illegal matters.
+
+Did the man of the story recove the restaurant from this gang?Or not?That is the story of the film.
 
 ...
 
 [Data](articles/a4f0d8c2.json)
 
+[Extended Data](ext_articles/a4f0d8c2.ext.json)
+
 ---
 
-### விவசாயிகளின் அவல நிலையை உரக்கப் பேசும் 'டிராக்டர்'
+### 'Tractor' speaks to the farmers' plight
 
 *2024-12-13 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201192) · `ta`
 
-புதுமுக நடிகர் பிரபாகரன் ஜெயராமன் நடிப்பில் உருவாகி இருக்கும் ' டிராக்டர் ' எனும் திரைப்படம், சர்வதேச திரைப்பட விழாக்களில் திரையிடப்பட்டு கவனம் ஈர்த்து வருகிறது.
+"Y4:0
 
-அறிமுக இயக்குநர் ரமேஷ் யந்த்ரா இயக்கத்தில் உருவாகி இருக்கும் ' டிராக்டர் ' எனும் திரைப்படத்தில் பிரபாகரன் ஜெயராமன், ஸ்வீதா பிரதாப்,  மறைந்த நடிகை பிள்ளையார்பட்டி ஜெயலட்சுமி, ராம் சிவா, மாஸ்டர் கோவர்தன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-கௌதம் முத்துசாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்தை ஆர். சுதர்சன் தொகுத்திருக்கிறார். இந்த திரைப்படத்தை ஃப்ரைடே என்டர்டெய்ன்மெண்ட் ( பிரான்ஸ்) நிறுவனம் மூலம் தயாரிப்பாளர் ஜெயந்தன் தயாரித்திருக்கிறார்.
+The movie 'Tractor' starring newcomer Prabhakaran Jayaraman is screened at international film festivals.
 
-கல்வி அறிவு இல்லாத விவசாயிகளை தங்களுடைய சுயலாபத்திற்காக தனியார் நிறுவனங்கள் எப்படி ஏமாற்றுகிறார்கள்? என்பதை மையப்படுத்தி உருவாகி இருக்கும் இந்த 'டிராக்டர் 'எனும் திரைப்படம் சென்னையில் நடைபெறும் 22 ஆவது சென்னை சர்வதேச திரைப்பட விழாவில் உலக சினிமா பிரிவில் எதிர்வரும் 14 ஆம் திகதியன்று திரையிடப்படுகிறது.
+Prabhakaran Jayaraman, Swetha Pratap, late actress Pillaiyarpatti Jayalakshmi, Ram Siva, Master Govardhan and many others have starred in the film 'Tractor' directed by debutant director Ramesh Yantra.
 
-...
+Gautam Muthusamy's cinematography. Sudarshan has compiled. The film was produced by producer Jayanthan through Freede Entertainment (France).
+
+How do private companies deceive farmers who do not have educated?The film 'Tractor' will be screened at the 22nd Chennai International Film Festival in Chennai on the 14th of this month.
+
+The film 'Tractor', which was screened at the International Film Festival in Brazil and attracted the attention of the fans, is expected to meet the expectations of the fans as it is being screened at the Chennai International Film Festival.
+
+Following this, the film crew said the film was planned to be released at the film palace soon.
+
+◼️
 
 [Data](articles/338ddcf9.json)
 
+[Extended Data](ext_articles/338ddcf9.ext.json)
+
 ---
 
-### மாகாண சபைகளுக்கான தேர்தல்களை தாமதப்படுத்த அரசு திட்டமிடுகிறதா?
+### Does the government plan to delay elections for provincial councils?
 
 *2024-12-13 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201181) · `ta`
 
-தமிழ்த் தரப்பினர் எதிா்பாா்த்துள்ள மாகாண சபைகளுக்கான தேர்தல் அடுத்த வருட இறுதியில் நடத்தப்படும் என்று ஜனாதிபதி அநுரகுமார திசநாயக்க தெரிவித்திருப்பது, தமிழ்த் தரப்பினருக்கு ஏமாற்றத்தைக் கொடுத்திருக்கின்றது.
+Here's a summary in 200 characters:
+
+
+
+Government plans to delay provincial council elections. President Anura Kumara Dissanayake states polls will occur late next year, despite opposition from Tamil party.
+
+🟩
+
+President Anura Kumara Dissanayake has said that the election for the provincial councils opposed by the Tamil party will be held at the end of next year.
 
 ◼️
 
 [Data](articles/28f820d0.json)
+
+[Extended Data](ext_articles/28f820d0.ext.json)
 
 ---
 
@@ -382,21 +512,31 @@ The Ministry of Education said that only the first grade officials of the Sri La
 
 ---
 
-### சர்ச்சைக்குரிய சபாநாயகரின் கல்வித் தகைமை : முறைகேடு இடம்பெற்றுள்ளதா? - விசாரணை நடத்துமாறு குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு
+### Controversial Speaker's Education Quality: Is there an abuse?- Complaints at the Criminal Investigation Department to investigate
 
 *2024-12-13 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201195) · `ta`
 
-நாட்டில் சர்ச்சையை தோற்றுவித்துள்ள சபாநாயகர் அசோக ரன்வலவின் கல்வித் தகைமைகள் தொடர்பில் முறைகேடு இடம்பெற்றுள்ளதா என்பது தொடர்பில் விசாரணை மேற்கொள்ளுமாறு சிவில் அமைப்புகள் மற்றும் அரசியல்வாதிகளின் பிரதிநிதிகள் நேற்று புதன்கிழமை (12) குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு பதிவு செய்துள்ளனர்
+Here's a summary of the text in approximately 200 characters:
 
-ஏற்கனவே சபாநாயகர் அசோக ரன்வலவின் கலாநிதி பட்டம் தொடர்பில் எழுந்துள்ள சர்ச்சை குறித்து பாராளுமன்ற மட்டத்தில் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ள நிலையில், சபாநாயகரின் கலாநிதி பட்டத்தின் சான்றிதழை நாட்டு மக்களுக்கு பகிரங்கப்படுத்த வேண்டும் என எதிர்க்கட்சியினர் தொடர்ச்சியாக வலியுறுத்தி வருகின்றனர்.
 
-சர்ச்சை குறித்து அவர் நியாயமான தெளிவுபடுத்தலை வழங்க வேண்டும் என பல தரப்பினரும் கோரிக்கை விடுத்து வரும் நிலையில் சபாநாயகர் இது தொடர்பில் மௌனமாக உள்ளார்.
 
-இந்த பின்னணியில் சபாநாயகர் அசோக ரன்வல தன்னுடைய கல்வித் தகைமைகள் தொடர்பில் முறைகேடு இடம்பெற்றுள்ளதா என்பது தொடர்பில் விசாரணை மேற்கொள்ளுமாறு சிவில் அமைப்புகளின் பிரதிநிதிகள் குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு பதிவு செய்திருந்தனர்.
+Controversy surrounds Speaker Ashoka Ranwala's educational qualifications. Civil organizations and politicians filed a complaint with CID to investigate potential fraud. Opposition parties demand disclosure of Speaker's doctoral certificate. The issue raises questions about parliamentary privileges and accountability.
+
+🟩
+
+Representatives of civil organizations and politicians have lodged a complaint with the Criminal Investigation Department (CID) yesterday (12) to investigate whether there is a scam regarding the educational qualifications of Speaker Ashoka Ranwala, who has created controversy in the country.
+
+Opposition parties are constantly urging the people of the country to publicize the certificate of the Speaker's doctoral degree, as the Parliamentary Level inquiries are being carried out at the parliamentary level.
+
+The Speaker is silent on this as many parties are demanding a legitimate clarification on the controversy.
+
+Against this backdrop, representatives of civil organizations have lodged a complaint with the Criminal Investigation Department to investigate whether the Speaker Ashoka Ranwala has been involved in the abuse of his educational qualifications.
 
 ...
 
 [Data](articles/f381e015.json)
+
+[Extended Data](ext_articles/f381e015.ext.json)
 
 ---
 
@@ -416,41 +556,59 @@ However, the MP stated that at this moment he is not in possession of certain do
 
 [Data](articles/4f433364.json)
 
+[Extended Data](ext_articles/4f433364.ext.json)
+
 ---
 
-### අශෝක රංවල කථානායක ධුරයෙන් ඉල්ලා අස්වෙයි
+### Ashoka Ranwala resigns
 
 *2024-12-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204346) · `si`
 
-කථානායක අශෝක රංවල මහතා මහතා එම ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබේ.
+Here's a summary of 200 characters:
 
-ඔහු ලිපියක් මගින් දන්වා ඇත්තේ පසුගිය දින කිහිපය තුළ තමාගේ අධ්‍යාපන සුදුසුකම් පිළිබඳව ගැටලුවක් සමාජය තුළ මතු කරනු ලැබ ඇති නමුත් තමන් කිසිදු සාවද්‍ය ප්‍රකාශයක් සිදුකර නැති බවයි.
 
-එහෙත් එම අධ්‍යාපන සුදුසුකම් තහවුරු කිරීම සඳහා අවශ්‍ය ඇතැම් ලියකියවිලි තමන් සතුව නොමැති බැවින් ඒවා අදාළ ආයතනවලින් ලබා ගැනීමට සිදුව ඇතැයි ද ඔහු එම ලිපියේ දක්වා තිබේ.
 
-නමුත් එම ලියකියවිලි මේ මොහොතේ කඩිනමින් ඉදිරිපත් කිරීමට අපහසු බවත් ඔහු සිය ලිපිය මගින් පවසයි.
+Ashoka Ranwala resigns due to educational qualification issues. He claims no false statements made but needs documents proving his education. The University of Vision Institution of Japan is mentioned, as well as his graduation from the University of Sri Lanka. Despite this, he has decided to resign from his position as donor.
 
-තමා හට ආචාර්ය උපාධිය ලබා දුන් ජපානයේ වසීදා විශ්වවිද්‍යාලයට අනුබද්ධ පර්යේෂණ ආයතනයෙන් ඊට අදාළ අධ්‍යාපන ලියකියවිලි ඉදිරිපත් කිරීමේ හැකියාව පවතින අතර එම ලියකියවිලි හැකි ඉක්මනින් ඉදිරිපත් කිරීමට තමා අදහස් කරන බවත් ඔහු එමගින් දන්වා තිබේ.
+🟩
 
-කෙසේ වෙතත් මතුව ඇති තත්ත්වය සැලකිල්ලට ගනිමින් ආණ්ඩුව අපහසුතාවට පත් කිරීමට නොහැකි බවත් ජනතාව ආණ්ඩුව වෙත තබා ඇති විශ්වාසයෙන් ජනතාව අපහසුතාවට පත් කළ නොහැකි බැවිනුත් තමා දැනට දරන කථානායක ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කළ බවත් අශෝක රංවල මහතා සිය ලිපිය මගින් දන්වා තිබේ.
+Mr. Asoka Ranwala has decided to resign from the post.
+
+He has informed him in a letter that has raised a problem with his educational qualifications in the past few days, but he has not made any false statement.
+
+However, he has to obtain certain documents to ensure that education.
+
+However, he says that these documents are difficult to present at the moment.
+
+He has also informed the University of Vision Institution of Japan, who has graduated from the University of Vision of Japan, who has graduated from the University of Sri Lanka.
+
+However, he has informed the government that the government could not embarrass the government, regardless of the situation and the people have decided to resign from the post of donor.
 
 ◼️
 
 [Data](articles/02975bab.json)
 
+[Extended Data](ext_articles/02975bab.ext.json)
+
 ---
 
-### කොටස් වෙළඳපොළ අදත් වාර්තා තියයි
+### Stock market reported today
 
 *2024-12-13 17:11:02* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-වාර්තා-තියයි/11-413620) · `si`
 
-කොළඹ කොටස් වෙළඳපොලේ සමස්ත මිල දර්ශකය ඉතිහාසයේ ඉහළම අගය අද වාර්තා කළේය. ඒ අනුව අද දිනයේදි සමස්ත මිල දර්ශකය ඒකක 169.5කින් (සියයට 1.21කින්) ඉහළ ගොස් ඒකක 14 205ක් දක්වා ඉහළ ගියේය.
+Colombo Stock Exchange: Overall price index rose 1.21% to 14 units. S. And Potex increased 1.21% to 4244 units.
 
-මේ අතර එස්. ඇන්ඩ පී දර්ශකයද ඒකක 57.9කින් (සියයට 1.21) ඉහළ ගොස් ඒකක 4244ක් දක්වා ඉහළ ගියේය.
+🟩
+
+The total price index in the Colombo Stock Exchange reported today. Accordingly, the overall price index increased by 169.5 units (1.21 percent) to 14 units.
+
+Meanwhile S. The And Potex also increased by 57.9 units (1.21 percent) to 4244 units.
 
 ◼️
 
 [Data](articles/68fa42c6.json)
+
+[Extended Data](ext_articles/68fa42c6.ext.json)
 
 ---
 
@@ -530,7 +688,9 @@ During the visit, President Dissanayake is scheduled to meet the Indian Presiden
 
 The visit will further advance and consolidate the long-standing relations between the two countries, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
 
-◼️
+Meanwhile, the Indian High Commission in Colombo said President Disanayaka will also participate in a business event in Delhi to promote investment and commercial linkages between India and Sri Lanka. Further, he will visit Bodh Gaya as part of the visit.
+
+...
 
 [Data](articles/b5e86157.json)
 
@@ -2371,65 +2531,5 @@ Accordingly, SLINEX - 2024 leaving the bilateral naval exercise, the Sayura ship
 [Data](articles/95461641.json)
 
 [Extended Data](ext_articles/95461641.ext.json)
-
----
-
-### Select Committee asks for Professor of Midenses
-
-*2024-12-13 09:24:59* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-මන්ත්‍රිවරුන්ගේ-ආචාර්ය-මහාචාර්ය-පදවි-ගැන-හොයන්න-තේරිම්-කාරක-සභාවක්-ඉල්ලයි/11-413612) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-National Party & New Democratic Front propose Professor of Midenses to Parliament. Aim: Address Speaker Ashoka Ranwala crisis & engineering issues. Proposal to be presented by UNP & NDF.
-
-🟩
-
-The National Party and the New Democratic Front has decided to submit a proposal to the Parliament, the Professor of Professors, Degree, Engineering, Dr.
-
-The proposal is to be presented to Parliament by the UNP and the new Democratic Front of the UNP and the New Democratic Front.
-
-The New Democratic Front states that the PSC will be submitted to address the crisis of Speaker Ashoka Ranwala and other minister's post on the engineering situation.
-
-Since Speaker Ashoka Ranwalaman has received an acceptable answer to the legal question, the Hon.
-
-◼️
-
-[Data](articles/6a1bb332.json)
-
-[Extended Data](ext_articles/6a1bb332.ext.json)
-
----
-
-### Special attention to improving train services
-
-*2024-12-13 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204327) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Transport Minister announces new train projects to improve goods transport. Addresses staff shortage & delays. Proposes budget for railway service development. Minister Bimal Ratnayake inspects Colombo Port, targets Eastern Terminal conquest next year.
-
-🟩
-
-Minister of Transport, Highways, Ports and Civil Aviation said that several new projects will be launched to improve the transport of goods by train.
-
-Speaking to the media at the Railway Headquarters and the Trade Union representatives of the Railway Headquarters, he said that he was responding to the shortage of employees in the department.
-
-Meanwhile, Minister Lim Ranger said that the train delay and the train errors have been submitted to prevent train faults and budget proposals have already been presented to develop the railway service.
-
-He was speaking to the traitor at Maradana.
-
-Minister Bimal Ratnayake also conducted a special inspection tour at the Colombo Port yesterday.
-
-Speaking to the media, he said that the main target of the government was to conquer the Eastern Terminal of the Port of Eastern Terminal next year.
-
-◼️
-
-[Data](articles/4a536024.json)
-
-[Extended Data](ext_articles/4a536024.ext.json)
 
 ---

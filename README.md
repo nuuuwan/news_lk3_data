@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 10:16:19**
+As of **2024-12-13 10:42:52**
 
 ## Newspaper Stats
 
-*Scraped **59,931** Articles*
+*Scraped **59,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,619
 economynextcom | 3,648
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,692
-adaderanalk | 7,293
-tamilmirrorlk | 8,566
+adalk | 5,693
+adaderanalk | 7,296
+tamilmirrorlk | 8,567
 virakesarilk | 9,828
 adaderanasinhalalk | 10,358
 
@@ -26,41 +26,137 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,883 (99.9%) of 59,931 articles have been extended.
+59,887 (99.9%) of 59,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### படகு கவிழ்ந்ததில் ஒருவர் பலி: ஒருவர் மீட்பு
+### தமிழ்நாட்டில் போராடும் தமிழ் இளைஞனுக்காக குரல் கொடுத்த நாமல்
+
+*2024-12-13 10:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டில்-போராடும்-தமிழ்-இளைஞனுக்காக-குரல்-கொடுத்த-நாமல்/175-348681) · `ta`
+
+தமிழகத்தின் இராமநாதபுரம் மாவட்ட ஆட்சியர் அலுவலகத்துக்கு முன்பாக தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி ஆர்ப்பாட்டத்தில் ஈடுபட்ட இலங்கையரை நாட்டுக்கு அழைத்து வருவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ வலியுறுத்தியுள்ளார்.
+
+இலங்கையில் இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது தமிழகத்தில் தஞ்சமடைந்த ஒருவர், தம்மை மீண்டும் இலங்கைக்கு அனுப்புமாறு கோரி மண்டியிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்ட காணொளி ஒன்றைத் தமிழக ஊடகங்கள் வெளியிட்டுள்ளன.
+
+தமக்கு இந்தியக் குடியுரிமை வழங்க வேண்டும் அல்லது தம்மை மீண்டும் இலங்கைக்குத் திருப்பி அனுப்புவதற்கு நடவடிக்கை எடுக்கப்பட வேண்டும் எனக் குறித்த நபர் வலியுறுத்தியுள்ளார்.
+
+இந்தநிலையில், இலங்கை அரசாங்கம், இந்திய அரசாங்கத்துடன் இணைந்து உடனடியாக குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்கு நடவடிக்கை எடுக்க வேண்டும் என நாமல் வலியுறுத்தியுள்ளார்.
+
+மேலும், குறித்த நபரை இலங்கைக்கு அழைத்து வருவதற்குத் தேவையான உதவிகளை வழங்குவதற்குத் தாம் தயாராகவுள்ளதாகவும் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/7166965a.json)
+
+---
+
+### Former Sri Lankan diplomat in Australia fined more than $100,000 for ‘entrapping’ domestic worker
+
+*2024-12-13 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104205/former-sri-lankan-diplomat-in-australia-fined-more-than-100000-for-entrapping-domestic-worker) · `en`
+
+A diplomat who “entrapped” a domestic worker in her Canberra home, forcing her to work 14 hours, seven days a week, for less than a dollar an hour, has been fined more than $100,000 in the federal court.
+
+The fine is in addition to more than $500,000 in unpaid wages and interest she has already been ordered to restore, but has so far refused to pay.
+
+Himalee Arunatilaka served as Sri Lanka’s deputy high commissioner to Australia between 2015 and 2018. She employed Sri Lankan mother of two Priyanka Danaratna as a domestic worker in her home in Deakin, amid Canberra’s diplomatic quarter.
+
+Arunatilaka sponsored Danaratna’s entry into Australia, promising she would pay her in accordance with Australian wages and conditions.
+
+But Danaratna told the federal court she was instead isolated and oppressed, working every day for three years, save for two days she spent in hospital after burning herself with oil in the kitchen.
+
+...
+
+[Data](articles/b5896d11.json)
+
+---
+
+### One kills one person in the boat: One recovery
 
 *2024-12-13 10:09:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-கவிழ்ந்ததில்-ஒருவர்-பலி-ஒருவர்-மீட்பு/175-348679) · `ta`
 
-மட்டக்களப்பு முகத்துவாரம் கடல் பகுதியில் மீன் பிடி படகு கவிழ்ந்ததில் மீனவர் ஒருவர் நீரில் மூழ்கி உயிரிழந்ததுடன் ஒருவர் காப்பாற்றப்பட்ட  சம்பவம்  வெள்ளிக்கிழமை (13) காலையில் இடம்பெற்றுள்ளதாக கொக்குவில் பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-திராய்மடு, முருகன் கோவில் வீதியைச் சேர்ந்த இரண்டு பிள்ளையின் தந்தையான கோடீஸ்வரன் வேணு ராஜ் (வயது 34 ) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்
 
-முகத்துவாரம் பகுதியில் இருந்து இயந்திர படகு ஒன்றில்  கடலுக்கு மீன்பிடிக்க  வியாழக்கிழமை (12)  இரவு இருவர் சென்று மீன் பிடித்து விட்டு மீண்டும் வெள்ளிக்கிழமை (13)  காலை 8 மணியளவில் முகத்துவாரம் கரையை நோக்கி வந்து கொண்டிருந்த போது படகு திடீரென கழிந்ததை அடுத்து ஒருவரை காப்பாற்றியதுடன் ஒருவர் நீரில்  மூழ்கி உயிரிழந்தார்
+
+Fisherman drowns after boat crashes off Batticaloa coast. Victim, 34, leaves two kids. Incident occurred around 8 AM Friday. Police investigating.
+
+🟩
+
+Kokuvil police said that a fisherman was drowned after a fishing boat crashed into the sea of ​​Batticaloa.
+
+The deceased is the father of Koteeswaran Venu Raj (age 34), the father of two children from Murugan Temple Road, Thirumadu.
+
+Two people went to the sea on Thursday night (12) at 8 am on Friday morning (13) at 8 am when the boat was suddenly rescued after the boat was suddenly rescued.
 
 ◼️
 
 [Data](articles/c2bfb5d3.json)
 
+[Extended Data](ext_articles/c2bfb5d3.ext.json)
+
 ---
 
-### தங்காலையில் கைவிடப்பட்ட கார் மீட்பு
+### Abandoned car recovery in Tangalle
 
 *2024-12-13 10:01:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-கைவிடப்பட்ட-கார்-மீட்பு/175-348678) · `ta`
 
-தங்காலை வீரக்கெட்டிய வீதியில் பதிகம மரகஸ் சந்தியிலிருந்து திரவல வரையான பக்க வீதியில் வெறிச்சோடிய காணிக்கு அருகில் வியாழக்கிழமை (12) இரவு வெள்ளை நிற கார் கைவிடப்பட்ட நிலையில் மீட்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-வீரக்கெட்டிய பொலிஸ் நிலைய கட்டளைத் தளபதி பொலிஸ் பரிசோதகர் நுவான் விஜேதுங்கவிற்கு கிடைத்த தகவலுக்கு அமைய, உரிமையாளர் இல்லாத இந்த சந்தேகத்திற்கிடமான கார் கண்டுபிடிக்கப்பட்டுள்ளது.
 
-குறித்த கார், கடவத்தை, விஜயபா மாவத்தை, மேல் கரகஹமுன, என்ற இடத்தில் வசிக்கும் 36 வயதுடைய பெண்ணின் பெயரில் பதிவு செய்யப்பட்டுள்ளதாக தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+Abandoned car recovered in Tangalle: Police found a white vehicle left near Padikama Maragas junction. Registered to a 36-year-old woman from Kadavatha. No owner present when discovered.
+
+🟩
+
+Police said they were rescued after a white car had been abandoned on Thursday night near the land on the side road from the Padikama Maragas junction to the Padikama Maragas junction.
+
+According to information received by the Commander -in -Chief of the Police Station, the Commander of the Police, Nuwan Wijeedunga, the suspicious car, which does not have the owner, has been found.
+
+The car has been registered in the name of a 36 -year -old woman living in Kadavatha, Vijayabha Mawatha, Upper Karagahamuna, police said.
 
 ◼️
 
 [Data](articles/5556db40.json)
+
+[Extended Data](ext_articles/5556db40.ext.json)
+
+---
+
+### Bottom trawling by Indian fishermen must stop: Sri Lanka’s Fisheries Minister
+
+*2024-12-13 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104204/bottom-trawling-by-indian-fishermen-must-stop-sri-lankas-fisheries-minister) · `en`
+
+The enduring fisheries conflict in the Palk Bay - which impacts fisher folk of northern Sri Lanka and daily wage fishermen of Tamil Nadu - can be decisively resolved only if the Indian side stops using the destructive bottomtrawling method, according to Sri Lanka’s Minister of Fisheries Ramalingam Chandrasekar.
+
+The fisheries conflict has remained a key diplomatic issue between India and Sri Lanka for many years. It is likely to be discussed during President Anura Kumara Dissanayake’s scheduled visit to India next week.
+
+“People from all ethnic groups and geographic regions, including the north, east, and hill coun-try, voted for us [National People’s Power alliance], giving us a big mandate in the recently held elections.  We have a responsibility to address their concerns,” said Mr. Chandrasekar, who represents the northern Jaffna district in par-liament.
+
+...
+
+[Data](articles/f4ef3a22.json)
+
+---
+
+### Govt. aims to complete Colombo Port’s ECT Project by June 2025
+
+*2024-12-13 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104203/govt-aims-to-complete-colombo-ports-ect-project-by-june-2025) · `en`
+
+Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake says that several new projects will be initiated to enhance the transportation of goods by rail.
+
+Speaking to the media after a meeting with officials from the Department of Railways and trade union representatives at the Railway Headquarters, he stated that an immediate solution would be provided to address the ongoing staff shortages within the department.
+
+Meanwhile, Minister Bimal Ratnayake said that attention has been focused on preventing train delays and train defects, and budget proposals have already been submitted to improve the railway services.
+
+He made this statement after taking part in an observation tour of the Maradana Railway Station.
+
+Furthermore, after conducting a special observation tour of the Colombo Port yesterday (12), Minister Bimal Ratnayake, speaking to the media, said that the government’s primary objective is to complete the Eastern Container Terminal (ECT) of the port by June 30, 2025.
+
+◼️
+
+[Data](articles/1d5e1859.json)
 
 ---
 
@@ -79,6 +175,34 @@ In a statement, the Ministry emphasized that, the visit underscored the deepenin
 [Data](articles/f69c12fe.json)
 
 [Extended Data](ext_articles/f69c12fe.ext.json)
+
+---
+
+### Select Committee asks for Professor of Midenses
+
+*2024-12-13 09:24:59* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-මන්ත්‍රිවරුන්ගේ-ආචාර්ය-මහාචාර්ය-පදවි-ගැන-හොයන්න-තේරිම්-කාරක-සභාවක්-ඉල්ලයි/11-413612) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+National Party & New Democratic Front propose Professor of Midenses to Parliament. Aim: Address Speaker Ashoka Ranwala crisis & engineering issues. Proposal to be presented by UNP & NDF.
+
+🟩
+
+The National Party and the New Democratic Front has decided to submit a proposal to the Parliament, the Professor of Professors, Degree, Engineering, Dr.
+
+The proposal is to be presented to Parliament by the UNP and the new Democratic Front of the UNP and the New Democratic Front.
+
+The New Democratic Front states that the PSC will be submitted to address the crisis of Speaker Ashoka Ranwala and other minister's post on the engineering situation.
+
+Since Speaker Ashoka Ranwalaman has received an acceptable answer to the legal question, the Hon.
+
+◼️
+
+[Data](articles/6a1bb332.json)
+
+[Extended Data](ext_articles/6a1bb332.ext.json)
 
 ---
 
@@ -174,25 +298,37 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### வளிமண்டலவியல் திணைக்கள அறிவித்தல்
+### Notification of the Department of Meteorology
 
 *2024-12-13 08:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்கள-அறிவித்தல்/175-348675) · `ta`
 
-தென்மேற்கு வங்காள விரிகுடா கடற்பரப்புகளுக்கு மேலாக விருத்தியடைந்த குறைந்த அழுத்தப் பிரதேசம் வலுவிழந்து வருவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Here's a summary of 200 characters:
 
-இதன் காரணமாக வடக்கு, வடமத்திய மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
 
-வடக்கு மாகாணத்தில் சில இடங்களில் 50 மி.மீ அளவான பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+"Low-pressure area weakens over SW Bengal Bay Sea. Periodic rain/thunderstorms forecasted for Northern, North Central, Western Provinces & Galle/Matara districts. Heavy rainfall (50mm/75mm) possible in some areas. Snowfall expected in Central, Sabaragamuwa, Southern & Uva Provinces. Thunderstorms may occur in upcoming areas. Public advised to take lightning precautions."
 
-ஊவா மாகாணத்தில் சில இடங்களில் 75 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மத்திய, சப்ரகமுவ, தென் மற்றும் ஊவா மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology has predicted that the low -pressure area has weakened above the Southwest Bengal Bay Sea.
 
-...
+Due to this, there is a possibility of periodic rainfall or thunderstorms in the Northern, North Central and Western Provinces and Galle and Matara districts.
+
+50 mm of heavy rainfall is expected in some parts of the Northern Province.
+
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+75 mm of heavy rainfall is expected in some places in Uva Province.
+
+The Central, Sabaragamuwa, Southern and Uva provinces are expected to have snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
 
 [Data](articles/ddb61482.json)
+
+[Extended Data](ext_articles/ddb61482.ext.json)
 
 ---
 
@@ -2157,125 +2293,5 @@ The judge sentenced the victim to four and a half lakh rupees for a compensation
 [Data](articles/252648a5.json)
 
 [Extended Data](ext_articles/252648a5.ext.json)
-
----
-
-### TISL launches research report on Sri Lanka’s  private sector corruption risks
-
-*2024-12-12 16:40:00* · [`economynextcom`](https://economynext.com/tisl-launches-research-report-on-sri-lankas-private-sector-corruption-risks-193974/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL) unveiled the ‘Corruption Risk Mapping Research: A Study on Sri Lanka’s Private Sector’ on Thursday (12) in Colombo, presenting an in-depth analysis of corruption risks.
-
-It also provides possible measures to address the corruption in Sri Lanka’s private sector.
-
-“The research, compiled by an independent researcher documents and narrates alleged experiences and examples of private sector corruption, possibly for the first time in Sri Lanka,” the TISL said in a statement.
-
-“Corruption in Sri Lanka for the most part has been seen as a public sector problem. This research, however, indicates that the private sector often functions as the “supply side” of corruption.”
-
-”The allegations narrated showed a high risk of corruption when dealing with relevant government departments for approvals and licences across all industries.”
-
-...
-
-[Data](articles/4a312481.json)
-
-[Extended Data](ext_articles/4a312481.ext.json)
-
----
-
-### Sri Lanka stocks close up, ASPI hits 14,000 on ISB deadline day
-
-*2024-12-12 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-aspi-hits-14000-on-isb-deadline-day-193967/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday with the All Share Price Index soaring beyond the 14,000 mark and hitting a new record.
-
-The broader ASPI closes up 1.09 percent, or 150.72 points, at 14,035; while the more liquid S&P SL20 Index closed up 1.04 percent, or 43.17 points, at 4,186.
-
-“Investors anticipate positive news about the debt restructuring process,” Softlogic Stockbrokers said.
-
-“Today, December 12 is the deadline for the ISB holders to submit bids, and the sentiment is that there will be participation above the 75-80 percent required for the debt restructure to be successful.”
-
-“This is important for the country’s rating, and the market being positive is an indicator. If we can reach B levels, we can access capital markets.”
-
-Top positive contributors to the ASPI were Ceylon Beverage Holdings (up at 3,630.75), Hatton National Bank (up at 249.00), Sampath Bank (up at 105.00), John Keells Holdings (up at 21.40), and Commercial Bank (up at 130.00).
-
-...
-
-[Data](articles/f8e2bf0d.json)
-
-[Extended Data](ext_articles/f8e2bf0d.ext.json)
-
----
-
-### Rain interrupted the fourth match of the Lanka T10 League
-
-*2024-12-12 16:33:17* · [`adalk`](https://www.ada.lk/sports/LANKA-T10-ලීග්-ක්‍රිකට්-තරගාවලියේ-සිව්වන-තරගයට-වර්ෂාවෙන්-බාධා/9-413606) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Rain halted play during the 4th Lanka T10 League match. The 1st match was the tournament opener. Kenggs Group's batsmen were interrupted while batting first.
-
-🟩
-
-The first match of the Lanka T10 League is the first match of the tournament, which means the fourth rain.
-
-The mover were interrupted first while he began batting first in the match by Kenggs Group.
-
-◼️
-
-[Data](articles/84890ba3.json)
-
-[Extended Data](ext_articles/84890ba3.ext.json)
-
----
-
-### A basic rights petition filed by a lawyer was dismissed
-
-*2024-12-12 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204311) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Supreme Court dismisses lawyer's fundamental rights petition. Judge rejects claim of human rights violation, citing lack of legal basis. Decision made by three-judge bench, including Justice Sreetara Surasena.
-
-🟩
-
-The Supreme Court today (12th) of the Supreme Court today ordered to dismiss the fundamental rights petition filed by a lawyer.
-
-The refugee presented by President Ranil Wickremesinghe to appoint President Ranil Wickremesinghe to appoint a Supreme Court judge as a Supreme Court judge.
-
-Supreme Court Judge Sreetara Surasena gave the decision with the agreement of Achala Vingappuli and Mahinda Samayawardena.
-
-BPSM, a resident of Veyangoda, Veyangoda. The petition was presented by Pathiratne.
-
-After an extended trial, Supreme Court Justice Padman Surasena said that the verdict of the Constitution was in line with the constitution to reject the president of the Court of Appeal.
-
-The Constitutional decision stated that the Constitutional Council has the power to consider his behavior when promoted a judge to the next position.
-
-...
-
-[Data](articles/2ff4fbdf.json)
-
-[Extended Data](ext_articles/2ff4fbdf.ext.json)
-
----
-
-### Sri Lanka Excise Department nets Rs200bn up to November
-
-*2024-12-12 16:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-excise-department-nets-rs200bn-up-to-november-193962/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Excise Department has reported a revenue of 200 billion rupees From January to November this year. It’s revenue target for the year was 232 billion rupees.
-
-This was the first time its revenue had exceeding 200 billion in its 120-year history, the government department said.
-
-The monies were made mainly from taxes on liquor production and under the Tobacco Tax Act, it said. (Colombo/Dec12/2024)
-
-◼️
-
-[Data](articles/e201ef8e.json)
-
-[Extended Data](ext_articles/e201ef8e.ext.json)
 
 ---

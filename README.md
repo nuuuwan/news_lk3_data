@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 04:01:56**
+As of **2024-12-14 04:15:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,026 (99.9%) of 60,082 articles have been extended.
+60,028 (99.9%) of 60,082 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2233,6 +2233,8 @@ Farmgate prices in Kurunegala were 110,000 to 120,000 per 1,000 nuts.
 ◼️
 
 [Data](articles/e73e5272.json)
+
+[Extended Data](ext_articles/e73e5272.ext.json)
 
 ---
 

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 11:43:47**
+As of **2024-12-13 12:02:55**
 
 ## Newspaper Stats
 
-*Scraped **59,953** Articles*
+*Scraped **59,955** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 449
+dbsjeyarajcom | 450
 colombotelegraphcom | 607
 bbccomsinhala | 626
 islandlk | 3,621
@@ -18,7 +18,7 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,694
 adaderanalk | 7,298
-tamilmirrorlk | 8,570
+tamilmirrorlk | 8,571
 virakesarilk | 9,831
 adaderanasinhalalk | 10,358
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,358
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,895 (99.9%) of 59,953 articles have been extended.
+59,897 (99.9%) of 59,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### “பயப்பட வேண்டாம்”
+
+*2024-12-13 11:31:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயப்பட-வேண்டாம்/175-348691) · `ta`
+
+எலிக்காய்ச்சலை ஆரம்பத்தில் கண்டறிந்து குணப்படுத்த முடியும். Doxycycline தடுப்பு மருந்தும் உள்ளது என பருத்தித்துறை அரசினர் ஆதார வைத்தியசாலை தெரிவித்துள்ளது.
+
+இது தொடர்பாக வைத்தியசாலை நிர்வாகம் வியாழக்கிழமை (12) நள்ளிரவு  அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+அதில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது எலிக்காய்ச்சல் என சந்தேகிக்கப்பட்டு  நவம்பர் மாதம் சிகிச்சை பெற்ற நோயாளிகள் எண்ணிக்கை  5 ஆகும்.
+
+டிசம்பர் 1 ஆம் திகதியில் இருந்து டிசம்பர் 12ம் திகதி இரவு 11 மணி வரை எலிக்காய்சல் என சந்தேகிக்கப்பட்டு சிகிச்சை பெற்ற ,பெறுகின்ற நோயாளர்கள் எண்ணிக்கை 58 ஆகும். இதில், 1ஆம் திகதி 9ஆம் திகதி வரை -13 பேரும்,10ம் திகதி முதல் 11ம் திகதி வரை 29 பேரும், 12ம் திகதி - 16 பேரும் சிகிச்சை பெற்றனர்.
+
+எலிக்காய்சல் என சந்தேகிக்கப்பட்டு வியாழக்கிழமை (12)சிகிச்சைக்காக அனுமதிக்கப்பட்டவர்கள் -16 பேர், தீவிர சிகிச்சை பிரிவில் இருப்பவர்கள் இருவர்,  யாழ்ப்பாண வைத்தியசாலைக்கு மேலதிக சிகிச்சைக்கு அனுப்பப்பட்ட வர் ஒருவர்.
+
+வியாழக்கிழமை (12)  வைத்தியசாலையில் கர்ப்பிணி பெண்கள்-இருவர் உள்ளடங்கலாக  28 பேர் சிகிச்சை பெறுகின்றனர்.
+
+...
+
+[Data](articles/4beef7e3.json)
+
+---
 
 ### ‘Offenders will face consequences, regardless of rank or status’ – President AKD
 
@@ -48,23 +70,35 @@ The people placed their faith in the National People’s Power (NPP) government,
 
 [Data](articles/ee905a09.json)
 
+[Extended Data](ext_articles/ee905a09.ext.json)
+
 ---
 
-### பாரிய அரிசி ஆலைகளின் மீதான கண்காணிப்பு தீவிரம்
+### Surveillance intensity on massive rice mills
 
 *2024-12-13 11:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரிய-அரிசி-ஆலைகளின்-மீதான-கண்காணிப்பு-தீவிரம்/175-348690) · `ta`
 
-பாரிய அரிசி ஆலைகளில் இருந்து வெளியாகும் அரிசியின் அளவை மேலும் கண்காணிப்பதற்கு அதிகாரிகள் ஈடுபடுத்தப்பட்டுள்ளதாக, நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-இதேவேளை, அரசாங்கத்தினால் விதிக்கப்பட்ட கட்டுப்பாட்டு விலையை விட அதிக விலைக்கு அரிசியை விற்பனை செய்தமை மற்றும் அரிசியை பதுக்கி வைத்திருந்த 80 நபர்களுக்கு எதிராக நேற்று (12) வரை சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக, நுகர்வோர் அதிகார சபை தெரிவித்துள்ளது.
 
-கடந்த மூன்று நாட்களுக்குள் இவ்வாறான செயற்பாடுகளில் ஈடுபட்ட 201 நபர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக, நுகர்வோர் விவகார அதிகார சபை மேலும் தெரிவித்துள்ளது.
 
-அதிக விலைக்கு அரிசி விற்பனை செய்பவர்களைத் தேடி நாடளாவிய ரீதியில் சோதனைகள் நடத்தப்பட்டு வருவதாகவும் அதிகாரசபை அறிவித்துள்ளது.AN
+"CAA intensifies surveillance on large rice mills. Legal action taken against 201 individuals selling rice above controlled prices. Nationwide raids conducted to combat price gouging."
+
+🟩
+
+The Consumer Affairs Authority (CAA) has said that the authorities have been deployed to further monitor the amount of rice emitted from massive rice mills.
+
+Meanwhile, legal action has been taken till yesterday (12), the Consumer Affairs Authority said that the sale of rice at a higher price and rice was more than the government's control price.
+
+The Consumer Affairs Authority further stated that legal action has been taken against 201 persons involved in such activities within the last three days.
+
+The Authority has also announced that it is conducting raids nationwide in search of high prices.
 
 ◼️
 
 [Data](articles/dc12e00b.json)
+
+[Extended Data](ext_articles/dc12e00b.ext.json)
 
 ---
 
@@ -1394,6 +1428,20 @@ Gusal Mendis scored 37 runs off 19 balls with 6 pounds and one six.
 
 ---
 
+### Sweet and Sour Election Results for Ilankai Thamil Arasuk Katchi(ITAK).: On Top in Batticaloa but Down in Jaffna.
+
+*2024-12-13 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85181) · `en`
+
+“Mata Allanda Bariwune,Madakkalappuwa vitharai” (I was unable to capture only Batticaloa)  were the words with which  President Anura Kumara Dissanayake smilingly greeted “Mattakkalappu”MP Shanakiyan Rajaputhiran Rasamanickam in Parliament on 21st November. The president was mingling with the  parliamentarians at the inaugural session of the tenth parliament. Anura was of course alluding to the  November 14  parliamentary election in which the AKD led  JVP-NPP came first in all  electoral districts of Sri Lanka except  Batticaloa. That eastern district went to the Ilankai Thamil Arasuk Katchi(ITAK)known in English as the Federal Party(FP).The ITAK won three of the five seats in B’caloa. The other two seats went to the National People’s Power(NPP) and Sri Lanka Muslim Congress(SLMC)respectively
+
+...
+
+[Data](articles/32712fb1.json)
+
+[Extended Data](ext_articles/32712fb1.ext.json)
+
+---
+
 ### The new government will take action against Udayanga and Kapila;International Truth and Justice Faith
 
 *2024-12-13 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201121) · `ta`
@@ -1427,6 +1475,22 @@ Ven Mettavihari sent me a verbatim transcription of a talk given by Ven Brahmava
 ...
 
 [Data](articles/02c7ed66.json)
+
+---
+
+### Sri Lankan  opposition parties have strengthened the hand of the JVP/NPP government to proceed with its assault on the living conditions of workers and the poor.
+
+*2024-12-13 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85199) · `en`
+
+After two days of debate on December 3–4, the Sri Lankan parliament, without taking a vote, unanimously endorsed the policy statement of the Janatha Vimukthi Peramuna/National People’s Power (JVP/NPP) government, presented by the President Anura Kumara Dissanayake on November 21.
+
+The unanimity of the ruling and opposition MPs on the policy statement, which pledged to implement the International Monetary Fund (IMF) program in full, demonstrates the fundamental agreement of the entire political establishment with the savage austerity agenda.
+
+The opposition parties have thus strengthened the hand of the JVP/NPP government to proceed with its assault on the living conditions of workers and the poor. Their support followed the government’s signing of an IMF staff level agreement on November 23, promising to bring next year’s budget into line with its demands.
+
+...
+
+[Data](articles/b1d6bcf2.json)
 
 ---
 
@@ -2209,89 +2273,5 @@ He emphasized the importance of creating an effective mechanism to streamline ba
 [Data](articles/ff4af0e1.json)
 
 [Extended Data](ext_articles/ff4af0e1.ext.json)
-
----
-
-### One must travel on the solution to the ethnic problem- Satyalingam!
-
-*2024-12-12 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201103) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Satyalingam calls for Tamil parties to unite politically to solve ethnic issues. He emphasizes the TNA's historical significance and efforts to unite parties for common goals.
-
-🟩
-
-Wannimavatta MP P Satyalingam said that all the Tamil parties should travel on a political solution.
-
-Our party is determined to create a new constitution and resolve the ethnic problem.
-
-In the event of such an opportunity, the parties that represent and non -represented parliament as the voice of the entire Tamils ​​should come together during the negotiations with the state that this is the position of the Tamils.
-
-We will examine the central committee of our party and make a proper decision. As the secretary of the Tamil National Alliance (TNA), before the parliamentary elections, we held talks with the EPR LF, Blood and Relo to face the parliamentary elections together.
-
-Then they were all the same, so the Tamil party is unique so they are in the position that you can come and ask in our symbol. In that way, a representation could be retained by contesting together in Trincomalee. So we have made efforts.
-
-...
-
-[Data](articles/2ab94840.json)
-
-[Extended Data](ext_articles/2ab94840.ext.json)
-
----
-
-### Azad Salley Rs. 75,000 to pay a compensation of Rs.
-
-*2024-12-12 17:20:27* · [`adalk`](https://www.ada.lk/breaking_news/අසාද්-සාලිට-රු--75000ක-වන්දියක්-ගෙවිමට-රජයට-නියම-කරයි/11-413607) · `si`
-
-Supreme Court orders compensation for Azad Salley's arrest under Prevention of Terrorism Act. Judges rule police violated religious freedom.
-
-🟩
-
-At a press conference, the Supreme Court, who had been arrested by the Troops of the Western Province, was sentenced to a compensation of former Governor Asath Sally, who was arrested by the terrorism Azath Sally.
-
-The panel of judges have been confronted with the reconciliation of the Petition and the Prevention of Terrorism Act to arrest and retain the Petition Prevention Act under the arrest of the Petition and Receivable the Petition Detention Act.Specified.
-
-According to a media briefing at a media briefing of the terrorism Act of 2021, the Supreme Court orders the verdict of a fundamental rights petition filed by the Tismal Rights.Was done.
-
-The petition was heard by Supreme Court Justice Gamini Amarasekera, Mahinda Samawardena and Priyantha Fernando.
-
-Sarath Weerasekera, who was filed by the Fundamental Rights Petition filed by Mr. ASHAD Sally, was named after the Criminal Investigation Department.
-
-...
-
-[Data](articles/02fbca78.json)
-
-[Extended Data](ext_articles/02fbca78.ext.json)
-
----
-
-### Steps to buy paddy directly from farmers - Minister of Plantation
-
-*2024-12-12 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201107) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Steps to buy paddy directly from farmers: State purchase from 2024, storage in state rice plants, support for small-medium manufacturers. Addressing fertilizer shortages, importing 55k metric tons. Subsidized fertilizer for small coconut plantations. Measures against wildlife impact on crops.
-
-🟩
-
-In the budget of 2025. Plantation Development and Social Infrastructure Minister Samantha Vidyaratne said that steps have been taken to buy paddy through the state structure from next year.
-
-Steps have been taken to resolve the rice and coconut shortage in the market. From next year, paddy has been purchased from farmers through the state structure and has been decided to reposit in state rice production plants.
-
-As well as small and medium rice manufacturers will be provided with the necessary facilities. The need to submit to the main rice manufacturers. We will get all the necessary cooperation for the majority of agriculture.
-
-Fertilizer has not been distributed to state -owned Chilaw and Kurunegala Coconut Gardens for the past five years. How to expect high yield without proper care. National products have been affected by the wrong administration of the last government.
-
-...
-
-[Data](articles/bd451469.json)
-
-[Extended Data](ext_articles/bd451469.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 20:43:07**
+As of **2024-12-13 21:01:56**
 
 ## Newspaper Stats
 
-*Scraped **60,039** Articles*
+*Scraped **60,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,79 @@ dailyftlk | 4,149
 dailymirrorlk | 4,733
 adalk | 5,701
 adaderanalk | 7,311
-tamilmirrorlk | 8,585
+tamilmirrorlk | 8,587
 virakesarilk | 9,855
-adaderanasinhalalk | 10,381
+adaderanasinhalalk | 10,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,972 (99.9%) of 60,039 articles have been extended.
+59,975 (99.9%) of 60,042 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
 
-### 50 ’லெப்டோஸ்பிரோசிஸ்’ நோயாளிகள் அடையாளம்
+### பாதுகாப்பு உத்தியோகத்தர்களின் எண்ணிக்கையில் மாற்றம்
+
+*2024-12-13 20:43:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-உத்தியோகத்தர்களின்-எண்ணிக்கையில்-மாற்றம்/175-348710) · `ta`
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு உத்தியோகத்தர்களின் எண்ணிக்கையை 60ஆக மாற்றியமைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+உயரடுக்கு பாதுகாப்பு குழு கூடி அவ்வப்போது பாதுகாப்பு அதிகாரிகளை திருத்த நடவடிக்கை எடுப்பதாகவும், பொலிஸார் தெரிவிக்கின்றனர்.AN
+
+◼️
+
+[Data](articles/dc041e5e.json)
+
+---
+
+### மஹிந்தவின் பொலிஸ் பாதுகாப்பில் இடையூறு இல்லை
+
+*2024-12-13 20:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பொலிஸ்-பாதுகாப்பில்-இடையூறு-இல்லை/175-348709) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பில் பொலிஸ் உத்தியோகத்தர்களும் ஈடுபடுத்தப்பட்டுள்ள நிலையில் அவரது பாதுகாப்பு எந்த வகையிலும் இடைநிறுத்தப்படவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.AN
+
+◼️
+
+[Data](articles/0b57c0c1.json)
+
+---
+
+### 50 number of leptospirosis
 
 *2024-12-13 20:30:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-லெப்டோஸ்பிரோசிஸ்-நோயாளிகள்-அடையாளம்/175-348708) · `ta`
 
-யாழ்ப்பாணத்தில் தற்போது பரவி வரும் நோய், “லெப்டோஸ்பிரோசிஸ்” என அடையாளம் காணப்பட்டுள்ளதாக, சுகாதார அமைச்சின் செயலாளர் டொக்டர் அனில் ஜாசிங்க உறுதிப்படுத்தியுள்ளார்.
+Leptospirosis outbreak in Jaffna: 50 cases reported. Health Secretary confirms diagnosis. Treatment measures underway.
 
-பாதிக்கப்பட்டவர்களுக்கு சிகிச்சை அளிக்க தேவையான அனைத்து நடவடிக்கைகளும் எடுக்கப்பட்டு வருவதாக, பொதுமக்களிடம் உறுதியளித்தார்.AN
+🟩
+
+The Secretary of Health, Dr. Anil Jasinghe, has confirmed that the disease that is currently spreading in Jaffna has been identified as "leptospirosis".
+
+The public assured the public that all necessary measures were being taken to treat the victims.
 
 ◼️
 
 [Data](articles/cd5a18cb.json)
+
+[Extended Data](ext_articles/cd5a18cb.ext.json)
+
+---
+
+### ගංගාරාම විහාරස්ථානය අසළ ආපනශාලාවක ගින්නක්
+
+*2024-12-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204351) · `si`
+
+කොළඹ ගංගාරාම විහාරස්ථානය අසළ පෙරහැර මාවතේ පවත්වාගෙන ගිය ආපන ශාලාවක ගින්නක් හට ගෙන ඇතැයි වාර්තා වේ.
+
+ආපන ශාලාවේ තිබූ ගෑස් සිලින්ඩරයක ඇතිවූ කාන්දුවක් මත මෙම ගින්න හට ගෙන ඇතැයි සඳහන්.
+
+මේ වන විට ගින්න මැඩ පවත්වා ඇතැයිද කිසිදු පුද්ගල හානියක් සිදුව නැතැයි ද ගිනි නිවීමේ දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/2ce9f0bd.json)
 
 ---
 
@@ -626,45 +674,59 @@ Meanwhile S. The And Potex also increased by 57.9 units (1.21 percent) to 4244 u
 
 ---
 
-### ජනපතිගේ ඉන්දීය සංචාරය සම්බන්ධයෙන් නිල නිවේදනයක්
+### An official announcement on President's visit to India
 
 *2024-12-13 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204345) · `si`
 
-ජනාධිපති කුමාර දිසානායක මහතා දෙසැම්බර් 15 සිට 17 වනදා දක්වා ඉන්දියාවේ සංචාරයක නිරත වනබව විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේය.
+President Kumara Dissanayake visits India Dec 15-17 at Indian President Droupadi MurMu's invitation. First foreign tour after election. To meet PM Narendra Modi, attend Delhi business meet for investment promotion. Also visiting Buddhagaya.
 
-ඉන්දීය ජනාධිපතිනී Droupadi Murmu ගේ ආරාධනයක් අනුව ජනාධිපතිවරයා එම සංචාරයට එක්වෙයි.
+🟩
 
-ජනාධිපතිවරයා ලෙස තේරී පත්වීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහතා ගේ පළමු විදෙස් සංචාරය මෙය වෙයි.
+The External Affairs Ministry announced that President Kumara Dissanayake visits India from December 15 to 17.
 
-එම සංචාරයේදී ඉන්දීය අගමැති නරේන්ද්‍ර මෝදී සමග ද්වීපාර්ශ්විකව වැදගත් කරුණු සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිත බවද සඳහන් ය.
+The President joins the visit by the invitation of the Indian President's Droupadi MurMu.
 
-දෙරට අතර ආයෝජන සහ වාණිජ සම්බන්ධතා ප්‍රවර්ධනය කිරීමේ අරමුණෙන් ජනාධිපතිවරයා දිල්ලි හි පැවැත්වෙන ව්‍යාපාරික හමුවකට එක්වීමට ද නියමිතය.
+This is the first foreign tour of Anura Kumara Dissanayake after elections as the president.
 
-ඔහු එසේම බුද්ධගයාවේ සංචාරය කිරීමටද නියමිත බව කොළඹ පිහිටි ඉන්දීය මහකොමසාරිස් කාර්යාලය නිවේදනය කළේය.
+At that visit, Indian Prime Minister is to discuss bilaterally important matters with Narendra Moodi.
+
+The President is also due to join a business meet available in Delhi to promote investment and commercial relations between the two countries.
+
+The High Commission in Colombo announced his visit to Buddhagaya.
 
 ◼️
 
 [Data](articles/3f3c145d.json)
 
+[Extended Data](ext_articles/3f3c145d.ext.json)
+
 ---
 
-### සුජීව සේනසිංහ වන්දි ඉල්ලයි
+### Sujeewa Senasinghe seek to pay
 
 *2024-12-13 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204344) · `si`
 
-නීති විරෝධී ලෙස එකලස් කරන ලද වාහනයක් සන්තකයේ තබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් තම නිවස පරීක්ෂා කිරීම තුළින් පොලීසිය සිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කළ බවට චෝදනා කරමින් හිටපු අමාත්‍ය සුජීව සේනසිංහ මහතා විසින් ඉදිරිපත් කළ  මූලික අයිතිවාසිකම් පෙත්සමක් කරුණු තහවුරු කිරීම සඳහා පෙබරවාරි මස 15 වනදා  කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+Sujeewa Senasinghe sues police over home search & questioning about illegal vehicle. Supreme Court examines case involving CID director. Petitioner seeks declaration of HR violation and appropriate relief.
 
-මෙම පෙත්සම අද (13) අර්ජුන ඔබේසේකර සහ අචල වෙංගප්පුලි යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ  විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා ඇතුළු පිරිසක් නම් කර තිබුණි.
+The Supreme Court prescribed the fundamental rights petition filed by the police to ensure that the police were violated by former Minister Sujeewa Senasinghe by examining his own homes by inspection of a unlawful vehicle's possession..
 
-පෙත්සම්කාර සුජීව සේනසිංහ මහතා පවසන්නේ නීතිවිරෝධී ලෙස එකලස් කරන ලද වාහනයක් සන්තකයේ තබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් පොලීසිය විසින් තම නිවස පරීක්ෂා කර  තමන්ගේ ප්‍රශ්න කළ බවයි.
+The petition was called before Arjuna Obeysekera and Achala Webaries and the Supreme Court Bench.
 
-පසුව සිදුකළ විමර්ශනවලදී එවැනි වාහනයක් පිළිබඳ තොරතුරු අනාවරණය නොවූ  බවත් ඔහු පෙන්වා දෙයි.
+The Director of the Criminal Investigation Department (CID) had been named as respondents in the petition.
 
-...
+Petitiovathi Sujeewa Senasinghe says that the police have examined his home and questioned a unique vehicle.
+
+He pointed out that the investigation was uncovered in such a vehicle.
+
+He has asked his petition to issue a decree to judge that the basic human rights violations of their basic human rights and a suitable rank.
+
+◼️
 
 [Data](articles/ffb16d6c.json)
+
+[Extended Data](ext_articles/ffb16d6c.ext.json)
 
 ---
 
@@ -2449,79 +2511,5 @@ Furthermore, after conducting a special observation tour of the Colombo Port yes
 [Data](articles/1d5e1859.json)
 
 [Extended Data](ext_articles/1d5e1859.ext.json)
-
----
-
-### The people of this country event to see a scenic meteor rain
-
-*2024-12-13 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204328) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Spectacular meteor shower visible in Sri Lanka on Aug 13-14. The Arthur C. Clarke Centre predicts excellent viewing conditions.
-
-🟩
-
-The Arthur C. Clark Center says that Jewwinds meteor rail, which is considered one of the spectacular rainfall of this year, and tomorrow (13) and tomorrow (14).
-
-Sri Lankans will be able to see the scenic and climax of a meteorite rain.
-
-Senior Research Scientist Senior Research Scientist Indika Media Indika Media Indika Media
-
-◼️
-
-[Data](articles/bd56b69c.json)
-
-[Extended Data](ext_articles/bd56b69c.ext.json)
-
----
-
-### Lanka T10: What is the owner of the Goal Maval owner to the West Indies?
-
-*2024-12-13 09:38:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wexv287xpo) · `si`
-
-Colombo Magistrate's Court orders Goal Maval owner remanded over bribery allegations involving West Indies cricket team.
-
-🟩
-
-Lanka T10: What is the owner of the Goal Maval owner to the West Indies?
-
-The Colombo Magistrate's Court has ordered the owner of the Goal Mavals team to be remanded until December 16, the owner of the Lanka T10s Super League, Kandy.
-
-The suspect was arrested by the Sports Fulfilling Division and brought to the Colombo Additional Magistrate Harshana Kekuna on the 14th of December 14.
-
-Senior State Counsel, Attorney at the court, said the suspect was revealed as the owner of the Galuvules team.
-
-The suspect had proposed to the West Indies to adact to the bowlers and promised to provide US $ 15,000.
-
-He has also promised that the suspect has promised to provide another US $ 30,000.
-
-The Senior State Counsel said that the suspect was arrested following the complaint regarding the complaint and that the suspect had been arrested and other sufficient evidence against him.
-
-...
-
-[Data](articles/05501a1c.json)
-
-[Extended Data](ext_articles/05501a1c.ext.json)
-
----
-
-### High-level US delegation concludes successful visit to Sri Lanka
-
-*2024-12-13 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104202/high-level-us-delegation-concludes-successful-visit-to-sri-lanka) · `en`
-
-U.S. Assistant Secretary for South and Central Asian Affairs at the Department of State, Ambassador Donald Lu, along with Deputy Assistant Secretary for Asia and the Pacific at the U.S. Department of the Treasury, Robert Kaproth, and Deputy Assistant Administrator of the Bureau for Asia at the United States Agency for International Development (USAID), Anjali Kaur, recently concluded a successful visit to Sri Lanka.
-
-During their visit, they engaged in high-level discussions with President Anura Kumara Dissanayake, Prime Minister Dr. Harini Amarasuriya, and Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath from 6 to 7 December 2024, according to the Ministry of Foreign Affairs, Foreign Employment and Tourism.
-
-In a statement, the Ministry emphasized that, the visit underscored the deepening diplomatic relations between Sri Lanka and the United States, highlighting a shared commitment to regional peace, economic cooperation, and democratic development.
-
-...
-
-[Data](articles/f69c12fe.json)
-
-[Extended Data](ext_articles/f69c12fe.ext.json)
 
 ---

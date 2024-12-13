@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-13 17:12:19**
+As of **2024-12-13 17:44:28**
 
 ## Newspaper Stats
 
-*Scraped **60,003** Articles*
+*Scraped **60,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,621
 economynextcom | 3,654
 dailyftlk | 4,149
 dailymirrorlk | 4,733
-adalk | 5,699
+adalk | 5,700
 adaderanalk | 7,305
-tamilmirrorlk | 8,580
+tamilmirrorlk | 8,581
 virakesarilk | 9,841
 adaderanasinhalalk | 10,373
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 10,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-59,940 (99.9%) of 60,003 articles have been extended.
+59,949 (99.9%) of 60,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-13 (Friday)
+
+### 46 Principal vacuum in national schools
+
+*2024-12-13 17:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-தேசிய-பாடசாலைகளில்-அதிபர்-வெற்றிடம்/175-348704) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Ministry of Education seeks applicants for 46 national school vacancies. Open to first-grade officials of Sri Lanka Education Administration Service. Application deadline: March 31, 2025."
+
+🟩
+
+The Ministry of Education has called for applications for filling vacancies in 46 national schools across the country from March 31, 2025.
+
+The Ministry of Education said that only the first grade officials of the Sri Lanka Education Administration Service can apply.
+
+◼️
+
+[Data](articles/e46e171f.json)
+
+[Extended Data](ext_articles/e46e171f.ext.json)
+
+---
 
 ### Former CCD Director remanded
 
@@ -353,6 +377,36 @@ During the accident, an elderly woman sitting in the front seat of the lorry die
 [Data](articles/6f158e43.json)
 
 [Extended Data](ext_articles/6f158e43.ext.json)
+
+---
+
+### Foreign expatriates for employment exceeds 300,000
+
+*2024-12-13 14:20:10* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-සඳහා-විදෙස්-ගතවූ-ප්‍රමාණය-ලක්ෂ-3-ඉක්මවයි/11-413619) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Over 300,000 Sri Lankans employed abroad in 2024, with 177,804 males (60%) and 122,358 females (40%). Top destinations: Kuwait (73,995), UAE (49,499). Employment increased in South Korea, Israel, Romania, Japan. Projected end-of-year total: 311,000 workers.
+
+🟩
+
+The total number of Sri Lankans spent 3 lakhs for employment during the year in 2024 were exceeding Rs. 300,162.
+
+This is the second occasion of the extent of 200 lakhs of workers in the last 10 years, and in 2022, 310,948 workers have been abroad.
+
+During the year 2024, 177,804 male workers and 122,358 women have gone abroad. The total number of women have been abroad during the total number of foreign workers is 40.7 percent and male workers have increased to 60 percent of the total number.
+
+It was 184,140 and the foreign employment agencies from the foreign employment agencies and 116,022 have passed away.
+
+Sri Lankans have gone abroad to employment to Kuwait and that size is 73,995. Secondly, the United Arab Emirates are more abroad and that size is 49,499.
+
+...
+
+[Data](articles/493a5858.json)
+
+[Extended Data](ext_articles/493a5858.ext.json)
 
 ---
 
@@ -900,17 +954,23 @@ Returning to the right through the junction - Evariyavatta, Hunupitiya, Kadavath
 
 ---
 
-### ශ්‍රී පාද වන්දනා වාරය ගැන ගැසට් නිවේදනයක්
+### Gazette notification for Sri Pada pilgrimage
 
 *2024-12-13 12:04:56* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනා-වාරය-ගැන-ගැසට්-නිවේදනයක්/11-413616) · `si`
 
-ඒ අනුව හෙටින්  ආරම්භවන ශ්‍රීපාද වන්දනා වාරය ලබන වසරේ මැයි 13 දක්වා පැවැත්වෙන බව ප්‍රකාශයට පත්කරමින්   රත්නපුර දිස්ත්‍රික් ලේකම් වසන්ත ගුණරත්න මහතා විසින්  අති විශේෂ ගැසට් නිවේදනයක්  ඊයේ( 12) දාතමින් නිකුත් කෙරිණි .
+Sri Pada pilgrimage Gazette notification summary: Temples construction, temporary shelters, deviations, tourism restrictions, alcohol ban during pilgrimage period.
 
-ශ්‍රීපාද වන්දනා සමය තුළ  මෙයට පෙර ගැසට් නිවේදන හයකින් පනවා තිබු රෙගුලාසි අනුව  ශ්‍රී පාද මළුව , ගමන් මග ඇතුළු පරිශ්‍රයෙහි  තාවකාලික නවාතැන් සැකසීම සහ පවත්වාගෙන යෑම  ,  ගොඩනැගිලි ඉදිකිරීම   , හිඟමන්  ඉල්ලීම හා දීම, පොලිතින් බැහැර කිරීම, සංචාරක වෙළඳම, මත්පැන් දුම්වැටි ඇතුළු මත්ද්‍රව්‍ය වෙළඳාම,තබාගැනීම  හා භාවිතය තහනම් බව ඇතුළු රෙගුලාසි  මෙවරද බල  පැවැත්වෙන බව මෙම ගැසට් නිවේදනයෙන්  මහජනතාවට  දැනුම් දී තිබේ.
+🟩
+
+Accordingly, the Gazette notification of Ratnapura District Secretary Wasantha Gunaratne was released by the District Secretary of Ratnapura yesterday (12).
+
+In the Sri Pada pilgrimage period, the construction of the temples, constructing and maintaining the temporary shelter, deviation, tourism, tourism, track of alcohol, and alcohol.The Gazette has informed the public that the regulations, including the use of the use of the use of the country, has been informed.
 
 ◼️
 
 [Data](articles/6f1e1252.json)
+
+[Extended Data](ext_articles/6f1e1252.ext.json)
 
 ---
 
@@ -942,21 +1002,31 @@ President Anura Kumara Dissanayake made this statement at a meeting with the sta
 
 ---
 
-### ’தவறு செய்தால் தண்டிக்கப்படுவீர்கள்’
+### If you make a mistake, you will be punished
 
 *2024-12-13 12:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தவறு-செய்தால்-தண்டிக்கப்படுவீர்கள்/150-348694) · `ta`
 
-தமது அரசாங்கத்தில் எந்த மட்டத்திலாவது தவறு நிகழ்ந்திருந்தால், அதற்கு எதிராக நடவடிக்கை எடுக்கப்படும் என, ஜனாதிபதி அனுர திஸாநாயக்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-மக்கள் எங்கள் மீது வைத்துள்ள நம்பிக்கையை எந்த வகையிலும் உடைக்க இடமளிக்க மாட்டோம் எனவும், அவர் கூறினார்.
 
-அரச ஊடக பிரதானிகளுடன் இன்று (13) காலை இடம்பெற்ற சந்திப்பில் வைத்தே, ஜனாதிபதி அனுரகுமார திrhநாயக்க இதனை குறிப்பிட்டுள்ளார்.
 
-“நாட்டில் தவறு செய்பவர்களை எக்காரணம் கொண்டும் பாதுகாக்க எமது அரசாங்கம் தயாராக இல்லை. நாட்டில் மட்டுமல்ல, நமது அரசாங்கத்தில் எந்த நிலையிலும் யாராவது தவறு செய்தால், அந்தத் தவறுக்கு எதிராக நடவடிக்கை எடுக்கத் தயங்க மாட்டோம்” என்றார்.AN
+President Anura Dissanayake vows to punish mistakes in his government. He promises swift action against any wrongdoing, emphasizing trust and accountability.
+
+🟩
+
+President Anura Dissanayake has said that if there is a mistake in his government, action will be taken against it.
+
+We will not allow people to break the confidence in us, ”he said.
+
+President Anuragumara The RH Nayaka made this statement at a meeting with the state media chiefs this morning.
+
+“Our government is not ready to protect the wrongdoers in the country. If anyone is wrong in our government, we will not hesitate to take action against that mistake. ”
 
 ◼️
 
 [Data](articles/b011c7ff.json)
+
+[Extended Data](ext_articles/b011c7ff.ext.json)
 
 ---
 
@@ -988,23 +1058,31 @@ He also said that a special program has been implemented by the public to provid
 
 ---
 
-### අධිකරණ ඇමතිට එක්කර තිබූ ආචාර්ය නාමය ගැන පාර්ලිමේන්තුවෙන් දැනුම්දීමක්
+### Parliament notifications about the doctorate with the Minister of Justice
 
 *2024-12-13 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204332) · `si`
 
-පාර්ලිමේන්තු වෙබ් අඩවියේ මන්ත්‍රීවරයන්ගේ නාමාවලිය තුළ අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාගේ නම ඉදිරියේ ආචාර්ය යනුවෙන් සඳහන්වීම අදාළ තොරතුරු ඇතුළත් කිරීමේදී අතපසුවීමකින් සිදුවූවක් බව ශ්‍රී ලංකා පාර්ලිමේන්තුව නිවේදනය කරයි.
+Sri Lanka Parliament notifies error in Minister's degree listing. Correction underway.
 
-පාර්ලිමේන්තු වෙබ් අඩවියේ මන්ත්‍රීවරයන්ගේ නාමාවලිය තුළ අධිකරණ සහ ජාතික ඒ්කාබද්ධත අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාගේ නම ඉදිරියේ සඳහන්ව තිබූ ආචාර්ය නාමය පිළිබඳව මාධ්‍යවල පළවන වාර්තා සම්බන්ධයෙන් පැහැදිලි කිරීමක් සිදුකරමින්  ශ්‍රී ලංකා පාර්ලිමේන්තුව ඒ බව පවසයි.
+🟩
 
-අමාත්‍යවරයා විසින් පාර්ලිමේන්තුව වෙත ලබාදෙන ලද ‍සිය තොරතුරු පත්‍රිකාවේ ආචාර්ය නාමයක් ඇතුළත්ව නොතිබූ බවද එහි දැක්වෙයි.
+The Parliament of Sri Lanka announced that Dr. Changes Harshana Nanayakkara, Minister's Counsel At the Parliament of Parliament website.
 
-ඒ අනුව, එකී අතපසුවීම නිවැරදි කිරීමට දැනට කටයුතු කර ඇති බවද  ශ්‍රී ලංකා පාර්ලිමේන්තුව දැනුම්දෙයි.
+The Parliament of Sri Lanka says that in the directory of the Members of Parliament and National Investigation Minister's name on the catalog of MP's Directory of the Members of Parliament.
 
-මේ සම්බන්ධයෙන් අධිකරණ සහ ජාතික ඒ්කාබද්ධත අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාට සිදුවූ අපහසුතාවය පිළිබඳව බලවත් කණගාටුව පළ කරන බවද  ශ්‍රී ලංකා පාර්ලිමේන්තුව නිවේදනයක් මගින් සඳහන් කරයි.
+The Minister has not included a doctoral name in its information sheet received to Parliament.
 
-...
+Accordingly, the Parliament of Sri Lanka has been informed that it has been working to correct the mistake.
+
+The Parliament of Sri Lanka stated that the promotion of the incident and Minister of Public Investment Attorneys will express the inconvenience to Mr. Harshana Nanayakkara.
+
+The re-examination of all MPs on the Parliament website is currently underway and updating.
+
+◼️
 
 [Data](articles/eb03b81f.json)
+
+[Extended Data](ext_articles/eb03b81f.ext.json)
 
 ---
 
@@ -1064,19 +1142,31 @@ The people placed their faith in the National People’s Power (NPP) government,
 
 ---
 
-### යාපනයේ පැතිරෙණ උණ රෝගය බලන්න කොළඹින් කණ්ඩායමක් යයි, මරණ 07ක් දක්වා ඉහළට
+### Jaffna spreads to visit Colombo to seven deaths
 
 *2024-12-13 11:27:41* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-පැතිරෙණ-උණ-රෝගය-බලන්න-කොළඹින්-කණ්ඩායමක්-යයි--මරණ-07ක්-දක්වා-ඉහළට/11-413615) · `si`
 
-යාපනය දිස්ත්‍රීක්කයේ පැතිරෙමින් යන උණ වෛරසය පිළිබඳව සොයා බැලීස සඳහා කොළඹ වසංගත රෝග විද්‍යා අංශයේ නිලධාරීන් පිරිසක් විසින් යාපනය සහ පේදුරුතුඩුව ප්‍රදේශයන් වෙතට ගොස් නිරීක්ෂණයක නිරත වෙමින් සෞඛ්‍ය බලධාරීන් හමු වී විශේෂ සාකච්ඡාවක නිරත වීය.
+Here's a summary of the text in approximately 200 characters:
 
-අදාල උණ වෛරසයට ගොදුරු වූ රෝගීන් වාර්ථා වූ යාපනය රෝහල සහ පේදුරුතුඩුව රෝහල් වෙතට ගොස් අදාල කණ්ඩායම නිරීක්ෂණය කිරීමෙන් අනතුරුව යපනය රෝහල් අධ්‍යක්ෂක වෛද්‍ය ටී. සත්‍යමූර්තී මහතා ඇතුලු පිරිසක් හමු වී පවතින වාතාවරණය පිලිබඳව විශේෂ සාකච්ඡාවක නිරත විය.
 
-මේ අතර යාපනය දිස්ත්‍රීක්කයේ පවතින වත්මන් වතාවරණය පිලිබඳව ජනතාව දැනුවත් කිරීම සඳහා යාපනය ප්‍රාදේශීය සේවා සෞඛ්‍ය අධ්‍යක්ෂක කේ.ඒ්. කේදීස්වරන් මහතා මාධ්‍ය සාකච්ඡාවකට එක් වෙමින් පවස සිටයේ, මේ වන විට යපනය සහ පේදුරුතුඩුව රෝහල වෙතට මෙම හදීසි උණ වෛරසය වැළඳී රොගීන් 44 දෙනෙකු වාර්ථා වී ඇති බවටත් ඉන් රෝගීන් 7 දෙනෙකු මේ වන විට මිය ගොස් ඇති බවටත්ය.
+
+Colombo: 7 deaths from flu virus in Jaffna. Health officials discuss outbreak. 44 patients hospitalized, 7 fatalities reported. Public education efforts underway in Jaffna district.
+
+🟩
+
+The health authorities have found a special discussion by a group of people in the Colombo Epidemiology, Jaffna and Point, to look into the flu virus in Jaffna District.
+
+The Patients affected by the feedl virus went to the Jaffna Hospital and Point Pedro hospital, Dr. T. T.. Mr. AGM also held a special discussion on the atmosphere, including a group of people.
+
+Meanwhile, Regional Services, Jaffna Regional Services, Jaffna Regional Services to educate the public on the current situation in the Jaffna district. Karaswaran has been speaking at a press conference and 44 patients have been reported to the Pasty and the Point Flu hospital and 7 patients have died.
+
+Kaveduruwa, Karaveddi and Chavakachchachchary areas, this flu is reported to the nearest hospital and to get a list of one in the neighborhood and receive a special record of. Karaswaran said.
 
 ...
 
 [Data](articles/e37911bf.json)
+
+[Extended Data](ext_articles/e37911bf.ext.json)
 
 ---
 
@@ -1206,27 +1296,37 @@ The suspect was 74 years old from Imaduwa, Thikkumbura.
 
 ---
 
-### කුමන තරාතිරමක වුවද වරදක් කර ඇත්නම් ක්‍රියාමාර්ග ගන්නවා - ජනපති
+### If the offense is done, action will be taken - President
 
 *2024-12-13 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204331) · `si`
 
-කුමන තරාතිරමක කෙනෙක් වුවද වරදක් කර ඇත්නම් ඊට අදාළ ක්‍රියාමාර්ග ගන්නා බව ජනපති අනුර කුමාර දිසානායක මහතා පවසා තිබේ.
+Here's a summary of 200 characters:
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මේ බව සඳහන් කළේ අද (13) උදෑසන රජයේ මාධ්‍ය ප්‍රධානීන් සමග පැවැත් වූ හමුවේදීය.
 
-"දශක හතකට වැඩි කාලයක් තිස්සේ මේ රටේ ජනතාව විවිධ ආණ්ඩු බිහි කළා. විවිධ ආණ්ඩු පෙරළුවා."
 
-"ඉතිහාසයේ පළමු වෙනි වතාවට මෙවර මේ රටේ ජනතාව අවස්ථා දෙකකදී අපට සහ ජාතික ජන බලවේගයට ලබා දුන් ඓතිහාසික ජන වරමේ අර්ථය සහ හරය කුමක්ද කියන එක සම්බන්ධව අපට පුළුල් කියවීමක් තියෙනවා."
+Pres. Anura Kumara Dissanayake: "Action will be taken" for offenses. Emphasizes commitment to justice and stability.
 
-"ප්‍රමිතිගත සහ ස්ථාවර රටක් නිර්මාණය කරනු ඇතැයි යන විශ්වාසය ඇතිව මේ රටේ ජනතාව ජාතික ජන බලවේගයේ ආණ්ඩුව බිහි කළා."
+🟩
 
-"ඒ සුවිශේෂී විශ්වාසයට අබමල් රේණුවකින් හෝ හානියක් වන්නට අපේ ආණ්ඩුව කිසි විටෙකත් ඉඩක් තබන්නේ නැහැ."
+President Anura Kumara Dissanayake has said that although a person has done something wrong, the action will be taken.
 
-"රට තුළ වැරදි කරන කිසිවෙකු, කිසිම හේතුවකට ආරක්ෂා කිරීමට අපේ ආණ්ඩුව සූදානම් නැහැ. රට තුළ පමණක් නෙවෙයි, අපේ ආණ්ඩුව තුළ කවර තරාතිරමක කෙනෙක් වුණත් වැරැද්දක් කරනවා නම් ඒ වැරැද්දට එරෙහිව ක්‍රියාමාර්ග ගන්න අපි පැකිළෙන්නේ නැහැ."
+President Anura Kumara Dissanayake made this statement at the meeting with government media heads this morning (13).
+
+"For more than seven decades, the people of this country have given birth to various governments. Various governments rolled. "
+
+"For the first time in history, the people of this country have a comprehensive reading of the historically popularity and essence of the national power."
+
+"The people of this country have created the government of the national power with the belief that a standard and stable country will create a standard country."
+
+"Our government will never allow such unique beliefs to be affected by Abimal Rair."
+
+"Our government is not ready to protect anyone who is doing wrong in the country to any cause. Not only in the country but also in our government, we will not hesitate to take action against the mistake. "
 
 ...
 
 [Data](articles/b251aa63.json)
+
+[Extended Data](ext_articles/b251aa63.ext.json)
 
 ---
 
@@ -1262,21 +1362,31 @@ Syria is a state of disrepair. Baba Benga has said that this fall in Syria is th
 
 ---
 
-### ළාබාලතම චෙස් ලෝක ශූරයා ඉන්දියාවෙන්
+### Latestheard Chess World Champion from India
 
 *2024-12-13 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204330) · `si`
 
-ඉන්දියාවේ Gukesh Dommaraju ළාබාලතම චෙස් ලෝක ශූරයා බවට පත්වීමට සමත්වී තිබේ.
+Here's a summary of 200 characters:
 
-ඊයේ ඔහු ලෝක ශූර චීන ජාතික Ding Liren ව තියුණු තරගයකින් අනතුරුව පරාජය කිරීමට සමත්විය.
 
-ලෝක ශූරතාවය දිනාගත් Dommaraju ගේ වයස අවුරුදු 18කි. ළාබාලතම චෙස් ලෝක ශූරයා ලෙස වාර්තාවට හිමිකම් කියනු ලැබුවේ රුසියානු ජාතික Garry Kasparov ය.
 
-1985 දී ඔහු එම වාර්තාව හිමිකරගන්නා විට ඔහුගේ වයස අවුරුදු 22කි.
+Indian chess prodigy Gukesh Dommaraju becomes world champion at 15, defeating Chinese player Ding Liren in a closely contested match. He is now the youngest chess world champion ever, surpassing Bobby Fischer's record set in 1972. Dommaraju's victory marks a new era in chess history with Indian players dominating global competitions.
+
+🟩
+
+GUKSH DOMMARAJU in India has become the world champion.
+
+Yesterday, he was defeated by a Chinese DING LIRN after a sharp match.
+
+Dommaraju won the World Championship. The youngest Chess was entitled to the report as the world champion.
+
+He was 22 years old when he owned the report in 1985.
 
 ◼️
 
 [Data](articles/fa7e98b9.json)
+
+[Extended Data](ext_articles/fa7e98b9.ext.json)
 
 ---
 
@@ -1454,21 +1564,27 @@ Investigations have revealed that the murder was not revealed and no suspects ha
 
 ---
 
-### මීගමුව - කොළඹ ප්‍රධාන මාර්ගය භාවිත කරන රියදුරන්ට පොලීසියෙන් දැනුම්දීමක්
+### Police notice to drivers using Negombo - Colombo main road
 
 *2024-12-13 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204329) · `si`
 
-හෙට (14) රාත්‍රි 7 සිට මීගමුව - කොළඹ ප්‍රධාන මාර්ගයේ රථවාහන තදබදයක් ඇතිවිය හැකි බව පොලීසිය රියදුරන්ට දැනුම්දෙයි.
+Negombo-Colombo main road traffic alert: Sri Sambuddha Jayanthi Perahera procession on 14th from 7pm. Alternative routes suggested by police.
 
-වත්තල පොලිස් වසමේ හැඳල පුරාණ රජමහා විහාරස්ථානයේ ශ්‍රී සම්බුද්ධ ජයන්ති පෙරහර හෙට (14) රාත්‍රි 7 සිට අනිද්දා (15) අලුයම් කාලය දක්වා වීථී සංචාරය කිරීමට නියමිත බැවින් පොලීසිය රියදුරන්ට දැනුම්දෙන්නේ එම කාලය තුළ විකල්ප මාර්ග භාවිත කරන ලෙසය.
+🟩
 
-හැඳල පුරාණ රජමහා විහාරස්ථානයෙන් ආරම්භ කරනු ලබන පෙරහර හැඳල මාර්ගය ඔස්සේ හැඳල හන්දිය දක්වා ගමන් කර කොළඹ - මීගමුව මාර්ගය හරහා ගොස් පරණ මීගමුව මාර්ගය ඔස්සේ ගමන්කර නැවත කොළඹ මීගමුව ප්‍රධාන මාර්ගයට පිවිස අල්විස් ටවුන්, හැඳල හන්දිය ඔස්සේ නැවත විහාරස්ථානයට පැමිණීමට නියමිතය.
+The drivers of the Negombo can be informed tomorrow (14) to the Negombo-Colombo main road.
 
-රියදුරන්ගේ පහසුව සඳහා පොලීසිය විසින් නම් කළ විකල්ප මාර්ග පහතින් දැක්වෙයි.
+The Sri Sambuddha Jayanthi Perahera of the Wattala Police is scheduled to visit the streets from 7 pm (14) to the streets tomorrow (14).
+
+The Perahera has gone through the Hendala Junction on the Hendala Junction on the Hendala junction and returns along the Colombo-Negombo road through the Colombo-Negombo road.
+
+Below is the alternatives nominated by the police for the convenience of drivers.
 
 ◼️
 
 [Data](articles/f540f585.json)
+
+[Extended Data](ext_articles/f540f585.ext.json)
 
 ---
 
@@ -2305,59 +2421,5 @@ High Commissioner of Sri Lanka to Bangladesh, Dharmapala Weerakkody held talks o
 [Data](articles/85b46a27.json)
 
 [Extended Data](ext_articles/85b46a27.ext.json)
-
----
-
-### Recovery as an elderly body of lonely
-
-*2024-12-13 03:51:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனிமையில்-வசித்த-வயோதிபர்-சடலமாக-மீட்பு/175-348674) · `ta`
-
-Elderly man found dead in lonely house in Andal Gardens. Kandaya Ganapathi Pillai, 86, discovered after neighbors reported noise. Point Pedro Investigation Officer orders autopsy.
-
-🟩
-
-Yall. Vadamarachchi, Alwai West - An elderly man who lives in a lonely house in the Andal Gardens area has been found dead.
-
-Kandaya Ganapathi Pillai (age 86) from the same place has been recovered.
-
-He was living in a lonely house since yesterday morning.
-
-Later, the noise was not known to the Grama Niladhari and Public Health Inspector by neighbors.
-
-The Point Pedro Investigation Officer Mrs. Anrala Vinasandayan, who visited the scene last night, ordered the Cotton Police to submit an anatomical examination and submit a report.. (A)
-
-◼️
-
-[Data](articles/b117b630.json)
-
-[Extended Data](ext_articles/b117b630.ext.json)
-
----
-
-### Allow many more with mysterious fever
-
-*2024-12-13 03:47:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மக்-காய்ச்சலுடன்-மேலும்-பலர்-அனுமதி/175-348673) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-14 admitted to Pedro Hospital, 5 to Point Pedro Hospital last month; 1 death reported. 58 cases in December, 4 deaths. 39 patients at Point Pedro Hospital as of 8pm last night, showing flu-like symptoms. Some transferred to teaching hospital for treatment. Situation ongoing.
-
-🟩
-
-Fourteen more people were admitted to Pedro Source Hospital yesterday for treatment.
-
-Five people were admitted to the Point Pedro Resource Hospital last November. One of them died last week. 58 people were added to the signs of mice in December yesterday. Four of them have died. One is at Point Pedro Resource Hospital. The teaching hospital was transferred to the hospital and died in the emergency department.
-
-Meanwhile, some of the patients who were included in the Pedro Hospital with the symptoms of the flu virus.. They have been transferred to the teaching hospital and are being treated there.
-
-Based on the situation till 8 pm last night, 39 people are staying at the Point Pedro Hospital with signs of the flu virus.. (A)
-
-◼️
-
-[Data](articles/3571d7b2.json)
-
-[Extended Data](ext_articles/3571d7b2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 11:14:10**
+As of **2024-12-14 11:43:03**
 
 ## Newspaper Stats
 
-*Scraped **60,111** Articles*
+*Scraped **60,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,154 @@ economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
-adaderanalk | 7,318
-tamilmirrorlk | 8,593
+adaderanalk | 7,322
+tamilmirrorlk | 8,594
 virakesarilk | 9,868
-adaderanasinhalalk | 10,390
+adaderanasinhalalk | 10,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,066 (99.9%) of 60,111 articles have been extended.
+60,070 (99.9%) of 60,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### නීත්‍යානුකූලව ආනයනය කළ වාහන සොයා ගැනීමට මාර්ගගත ප්‍රවේශයක්
+
+*2024-12-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204363) · `si`
+
+ව්‍යාජ ලෙස මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කළ මෝටර් රථ 6000කට ආසන්න ප්‍රමාණයක් රට පුරා සංසරණ වීමේ තත්ත්වයක් සම්බන්ධව අල්ලස් හෝ දූෂණ චෝදනා විමර්ෂන කොමිෂන් සභාව විමර්ශනයක් ආරම්භ කර තිබේ.
+
+රජයට අයවිය යුතු රේගු බදු නොගෙවා අනීතිකව ආනයනය කළ බව කියන මෙම වාහන අතුරින් හඳුනාගත් වාහන සම්බන්ධයෙන් නීත්‍යානුකූල කටයුතු සිදුකරමින් පවතින බවද එම කොමිෂන් සභාව පවසයි.
+
+එවැනි වාහන විමර්ශන සඳහා කොමිෂන් සභාව භාරයට ගෙන වැඩිදුර විමර්ශන සිදුකර අයවිය යුතු රේගු බදු හා වෙනත් ගාස්තු අයකර ගැනීම පිණිස ශ්‍රී ලංකා රේගුව වෙත භාර දී තිබේ.
+
+එහිදී අදාළ වාහනවල දෙවන හෝ ඊට පසු අවස්ථාවන්වල පැවරීම්ලාභීන් දැඩි අපහසුතා හා දුෂ්කරතාවන්ට පත්වන බවත් නිරීක්ෂණය වී තිබේ.
+
+ඒ අනුව මීට පිළියමක් ලෙස නිර්ව්‍යාජ ගැනුම්කරුවෙකු වාහනයක් මිලදී ගැනීමට පෙර එම වාහනය සඳහා නිසි පරිදි ආනයනික තීරු බදු හා වෙනත් ගාස්තු ගෙවා ඇති බවට තහවුරු කරගැනීමට මාර්ගගව සුදුසු මාර්ගගත ප්‍රවේශයක් සහස් කර දෙන ලෙස කොමිෂන් සභාව විසින් ශ්‍රී ලංකා රේගුව වෙත මාර්ගෝපදේශ ලබා දී තිබේ.
+
+...
+
+[Data](articles/3fc86ccd.json)
+
+---
+
+### Investigate 6,000 fake vehicles
+
+*2024-12-14 11:19:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-000-போலி-வாகனங்கள்-குறித்து-விசாரணை/175-348717) · `ta`
+
+Commission investigates 6000 fake vehicles: illegal imports, tax evasion, legal action underway, vehicles transferred to Customs for charges, ongoing probe.
+
+🟩
+
+The Commission of Investigation of Bribery or Corruption is currently investigating the allegations of about 6,000 vehicles that have been illegally imported and forged at the Department of Motor Transportation without paying taxes.
+
+The Commission said legal action is being taken regarding identified vehicles.
+
+These vehicles have been handed over to the Customs Department to collect customs and other charges and further investigations are ongoing.
+
+◼️
+
+[Data](articles/6bd8abda.json)
+
+[Extended Data](ext_articles/6bd8abda.ext.json)
+
+---
+
+### South Korea’s President faces second impeachment vote over martial law bid
+
+*2024-12-14 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104232/south-koreas-president-faces-second-impeachment-vote-over-martial-law-bid) · `en`
+
+A defiant South Korean President Yoon Suk Yeol faces a second impeachment vote on Saturday over his short-lived attempt to impose martial law, a move that shocked the country, split his party and imperilled his presidency half way through his term.
+
+Yoon rescinded his Dec. 3 move to impose military rule barely six hours later, after the opposition-controlled parliament defied troops and police to vote against the decree. But it plunged the country into a constitutional crisis and triggered widespread calls for him to step down on the grounds that he had broken the law.
+
+Opposition parties plan to hold an impeachment vote at 4 p.m. (0700 GMT), with large demonstrations planned ahead of the vote.
+
+Yoon’s conservative People Power Party boycotted the first impeachment vote a week earlier, preventing a quorum.
+
+Since then, PPP leader Han Dong-hoon has urged party members to vote for impeachment this time, and at least seven PPP members have said they would vote to impeach.
+
+...
+
+[Data](articles/33861fe9.json)
+
+---
+
+### Suspect arrested with stock of commercial explosives in Punewa
+
+*2024-12-14 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104231/suspect-arrested-with-stock-of-commercial-explosives-in-punewa) · `en`
+
+A person has been arrested by the police while in possession of a stock of commercial explosives.
+
+According to police, a group of officers searched a suspicious individual near the Punewa Junction in the Punewa Police Division last night (13).
+
+During the search, the police discovered a detonation cord, 150 grams of ammonium, and one gelignite stick in the suspect’s possession.
+
+The arrested individual is a 53-year-old resident of the Matugama area.
+
+◼️
+
+[Data](articles/8afb75ba.json)
+
+---
+
+### Landslide early warnings issued for several areas
+
+*2024-12-14 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104230/landslide-early-warnings-issued-for-several-areas) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings for multiple areas in several districts, as heavy rainfall continues in parts of the island.
+
+A senior geologist at the NBRO, Dr. Wasantha Senadeera, stated that the warnings will be in effect until 6.00 p.m. today (Dec. 14).
+
+Accordingly, a Level 2 (Amber) warning has been issued for Haputale Divisional Secretariat Division (DSD) and surrounding areas in the Badulla district.
+
+Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
+
+◼️
+
+[Data](articles/1e61aa37.json)
+
+---
+
+### පුපුරණ ද්‍රව්‍ය සමග පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-12-14 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204361) · `si`
+
+ඊයේ (13) රාත්‍රී කාලයේදී පූනෑව පොලිස් වසමේ පූනෑව හන්දිය අසලදී පොලිස් නිලධාරීන් කණ්ඩායමක් විසින් සැකකටයුතු පුද්ගලයෙකු පරීක්ෂා කර තිබේ.
+
+එහිදි සේවා නූලක්, ඇමෝනියම් ග්‍රෑම් 150ක් සහ ජෙලග්නයිට් කූරු 01ක් ඔහු සතුව තිබී පොලීසිය විසින් සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/2210c6b2.json)
+
+---
+
+### Sri Lanka’s new Speaker to be appointed on Dec. 17?
+
+*2024-12-14 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104229/sri-lankas-new-speaker-to-be-appointed-on-dec-17) · `en`
+
+Political observers have stated that the appointment of a new Speaker to fill the vacancy left by the resignation of Asoka Ranwala should likely take place on December 17.
+
+Parliament is scheduled to convene on December 17, and it is expected that the relevant nominations for the appointment of a new Speaker will be submitted on that day.
+
+Meanwhile, Prof. Prathiba Mahanamahewa commented that this is the first time in the history of Sri Lanka’s Parliament that a Speaker has resigned.
+
+He explained that the resignation notice can be submitted by the Speaker to either the Secretary General of Parliament or the President.
+
+Once the President receives the resignation letter, the President can make a decision regarding its acceptance.
+
+If the President accepts the Speaker’s resignation, a new Speaker must be elected by Parliament. This appointment can be made through a vote or nomination, in accordance with ordinary law, Prof. Mahanamahewa added.
+
+◼️
+
+[Data](articles/169851d2.json)
+
+---
 
 ### Indian locomotives launched in Sri Lanka
 
@@ -1212,19 +1346,29 @@ It has also lifted French borrowing costs and left a power vacuum in the heart o
 
 ---
 
-### හිටපු ජනපතිවරුන්ගේ පොලිස් ආරක්ෂාවේ වැය බරින් තුනෙන් එකක්ම මහින්ද රාජපක්ෂට
+### Mahinda Rajapaksa has one-third of the former President's police protection
 
 *2024-12-13 20:55:37* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-පොලිස්-ආරක්ෂාවේ-වැය-බරින්-තුනෙන්-එකක්ම-මහින්ද-රාජපක්ෂට/11-413622) · `si`
 
-හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව වෙනුවෙන් යොදවා ඇති පොලිස් නිලධාරින් වෙනුවෙන් පමණක් වාර්ෂිකව රුපියල් මිලියන 1100ක් පමණ වැය වන බවත් එයින් තුනෙන් එකක් පමණ එනම් රුපියල් මිලියන 326ක්ම වැය වන්නේ හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා වෙනුවෙන් බව පොලිස් මූලස්ථානය නිකුත් කළ නිවේදනයක දැක්වෙයි.
+Here's a summary of 200 characters:
 
-හිටපු ජනපතිවරුන්ගේ ආරක්ෂාවට යොදවා ඇති පොලිස් නිලධාරින් සංඛ්‍යාව අඩු කළේ රජය විසින් පත්කළ කමිටුවේ නිර්දේශ අනුව බවත් එහිදි හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව වෙනුවෙන් නිලධාරින් 60ක් පමණ සේවයේ යෙදවිම ප්‍රමාණවත් බවත් පොලිස් මූලස්ථානය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
 
-මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාවට යොදවා ඇති පොලිස් නිලධාරීන් සංඛ්‍යාව අඩු කිරිම මගින් ඔහුගේ ආරක්ෂාව කිසිම ආකාරයකින් බිඳ වැටි නොමැති බවත් එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+Former President Mahinda Rajapaksa now receives one-third of the police protection he had as president. The Police Headquarters stated this reduction does not affect his security.
+
+🟩
+
+According to a statement issued by the Police Headquarters said that the former President's officers will cost Rs.
+
+The police headquarters has been sufficient to employ the number of police officers who have been deployed to the security of the former Presidentials.
+
+The statement further states that his security is in no way to reduce the number of police officers deployed to the safety of Mr. Mahinda Rajapaksa.
 
 ◼️
 
 [Data](articles/f15e3c47.json)
+
+[Extended Data](ext_articles/f15e3c47.ext.json)
 
 ---
 
@@ -2299,179 +2443,5 @@ Meanwhile, the Indian High Commission in Colombo said President Disanayaka will 
 [Data](articles/b5e86157.json)
 
 [Extended Data](ext_articles/b5e86157.ext.json)
-
----
-
-### Proposal to appoint select committee to verify NPP MPs’ educational qualifications
-
-*2024-12-13 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104218/proposal-to-appoint-select-committee-to-verify-npp-mps-educational-qualifications) · `en`
-
-The United National Party (UNP) and the New Democratic Front (NDF) have decided to submit a proposal recommending to establish a Select Committee to verify the educational qualifications of the Ministers and MPs representing the National People’s Power (NPP).
-
-The relevant proposal will be presented to the parliament by MP Jeevan Thondaman, according to political sources.
-
-◼️
-
-[Data](articles/7ed74e7a.json)
-
-[Extended Data](ext_articles/7ed74e7a.ext.json)
-
----
-
-### Suspect arrested in Mathuranguli murder
-
-*2024-12-13 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201165) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrest made in Mathuranguli murder case. Police detained suspect on Thursday (12) in Vajirawatte area, Puttalam-Mathuranguli division.
-
-🟩
-
-Maduranguli Police Station officials arrested a suspect in connection with the murder of a man in the Vajirawatte area of ​​the Puttalam -Mathuranguli police division on Thursday (12).
-
-◼️
-
-[Data](articles/cd76f7d9.json)
-
-[Extended Data](ext_articles/cd76f7d9.ext.json)
-
----
-
-### Parliament will meet on the 17th and 18th of this month!
-
-*2024-12-13 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/201161) · `ta`
-
-Parliament meets Dec 17-18: Q&A 9:30-10:30 AM, debates on education allocation, road projects, and international bond restructuring.
-
-🟩
-
-Parliamentary Secretary General Kushani Rohanadeera said that the Parliament will meet on the 17th and 18th of this month.
-
-The decision was taken at a meeting on Parliamentary Affairs held last Friday (06) under the leadership of the Speaker.
-
-Tuesday, December 17,. Parliament will meet at 9.30 am. From 9.30am. Time has been set for questions for oral answers until 10.30am.
-
-This is followed by the MP. From 10.30 am. It was also decided to reboot the debate on 2024.12.18, with a debate on the assessment of the reduction in the assessment of the allocation of paperwork for schoolchildren until 2.00 pm and the reservation of the 2024 road development projects.
-
-After this. From 2.00 pm. Time has been set up for debate on the adjournment proposal (Opposition) on the restructuring of international sovereignty bonds till 5.30 pm.
-
-Wednesday, December 18,. Parliament will meet at 9.30 am. From 9.30am. Time has been set for questions for oral answers until 10.30am.
-
-...
-
-[Data](articles/a808a105.json)
-
-[Extended Data](ext_articles/a808a105.ext.json)
-
----
-
-### Three persons arrested for selling honey in Vavuniya
-
-*2024-12-13 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201159) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrested for selling adulterated honey in Vavuniya. Police seized honey & Chinese products. Public health officials warn against buying honey without verification due to health risks."
-
-🟩
-
-Three persons have been arrested and seized as honey, and a large number of Chinese has been seized from them.
-
-Based on the confidential information received by the Vavuniya Public Social Division on the matter.
-
-Under the guidance of the Supervisory Sugar, the Public Health Professor Sivaranjan, Kandapuram Public Health Prize Captured by the sect.
-
-Three suspects in connection with the incident were arrested by police. They will be presented in court.
-
-Meanwhile, only a little honey is mixed in the area of ​​Nedungeni and Nedungeni areas.. They are also transported and sold to the Anuradhapura Madawachi areas.
-
-It is harmful to health. Therefore, public health inspectors have said that the public should be properly confirmed when buying honey.
-
-◼️
-
-[Data](articles/2f6c5838.json)
-
-[Extended Data](ext_articles/2f6c5838.ext.json)
-
----
-
-### Former CCD Director further remanded
-
-*2024-12-13 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104217/former-ccd-director-further-remanded-) · `en`
-
-Former Colombo Crimes Division (CCD) Director, Assistant Superintendent of Police (ASP) Nevil Silva, who was arrested by the Criminal Investigation Department (CID), has been further remanded until December 20 by the Ratnapura Magistrate’s Court.
-
-He was arrested at the Police Field Force Headquarters by the CID on December 9 and was produced before court on December 10.
-
-The CID launched an investigation based on a complaint that ASP Silva had allegedly acted in a biased manner toward a complainant when investigating a case filed with the CCD in August 2023.
-
-It has been confirmed that during the investigation, ASP Silva had aided and abetted in an incident of abduction and wrongful confinement.
-
-◼️
-
-[Data](articles/7266a12e.json)
-
-[Extended Data](ext_articles/7266a12e.ext.json)
-
----
-
-### Former CCD Director remanded
-
-*2024-12-13 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204342) · `si`
-
-Former CCD Director remanded over alleged misconduct. Complaint filed in August 2023. Suspect arrested without proper investigation, claims lawyer. Case adjourned until 20th of this month.
-
-🟩
-
-The former Police Director of the Colombo Criad Division was remanded until the 20th of this month, Ratnapura Magistrates. K. Mr. Baranaliange ordered today (13).
-
-According to a complaint lodged with a complaint to the Colombo Crimes Division, he was arrested on the occasion as per the Colombo Crimes Division.
-
-The ASP was arrested by the ASP and was produced before the Ratnapura Magistrate's Court.
-
-The Kuruwita businessman had lodged a complaint that a Kuruwita had reached the Colombo Crimes Division in August 2, 2023.
-
-According to the complaint, the Assistant Superintendent of Police were arrested and produced before the Ratnapura Magistrate's Court on the complaint.
-
-President's Counsel Nalinda Indratissa stated that the suspect was arrested without proper investigation.
-
-◼️
-
-[Data](articles/89e664b5.json)
-
-[Extended Data](ext_articles/89e664b5.ext.json)
-
----
-
-### Police detention in Jaffna
-
-*2024-12-13 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201142) · `ta`
-
-Jaffna: Police detain 2 men after cannabis boat crash. Magistrate grants permission for investigation.
-
-🟩
-
-Kayts Magistrate Shalini Jayapalachatran has allowed the Kayts Magistrate's Court to investigate the two men arrested in Jaffna in Jaffna.
-
-A boat crashed into the Jaffna -Karainagar Kasurina beach in the nearby area on Thursday morning (12).
-
-When investigators checked it because the boat was suspicious, it was found in the Kerala Cannabis boat in 92 packages.
-
-Subsequently, the two men were arrested in the presence of the Kayts Magistrate's Court yesterday (12) after the two men were arrested and handed over to the Kayts police for further legal action.
-
-At the same time, the police applied for permission to investigate the suspects, as they had to carry out a series of investigations.
-
-In response, the magistrate gave permission to investigate the two men in police detention.
-
-◼️
-
-[Data](articles/1f7f243e.json)
-
-[Extended Data](ext_articles/1f7f243e.ext.json)
 
 ---

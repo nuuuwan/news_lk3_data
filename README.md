@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 02:13:16**
+As of **2024-12-15 02:26:42**
 
 ## Newspaper Stats
 
-*Scraped **60,183** Articles*
+*Scraped **60,184** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 451
+dbsjeyarajcom | 452
 colombotelegraphcom | 610
 bbccomsinhala | 631
 islandlk | 3,632
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,172 (100.0%) of 60,183 articles have been extended.
+60,172 (100.0%) of 60,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2438,6 +2438,18 @@ Demian Amal Cabral, Mohan Ray Abeywardena, Sanjaya Kulathunga and Dr. Harsha Sub
 
 ---
 
+### Beyond “Big Brother” : Reframing India-Sri Lanka Relations Under  President Dissanayake
+
+*2024-12-14 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85208) · `en`
+
+One side-effect of the polarizing effect of nationalism and populism around the world in recent years has been a decrease in the political stability and mandate enjoyed by incumbent regimes. From the erosion of nationalist hegemony in Malaysia or India to the rise of populism in the United States and pockets of Europe, swings in both directions have led to fragile coalitions, divided legislatures and a rise in uncertainty.
+
+...
+
+[Data](articles/befce525.json)
+
+---
+
 ### Yall. Aruchuna, who was logical with the authorities at the coordination meeting
 
 *2024-12-14 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201226) · `ta`
@@ -2509,23 +2521,5 @@ In a statement yesterday, the Parliament was forced to address the controversy s
 [Data](articles/b6103030.json)
 
 [Extended Data](ext_articles/b6103030.ext.json)
-
----
-
-### CPC Central Committee delegation to visit SL
-
-*2024-12-14 00:19:42* · [`dailyftlk`](https://www.ft.lk/news/CPC-Central-Committee-delegation-to-visit-SL/56-770521) · `en`
-
-A delegation from the International Department of the CPC Central Committee will visit Sri Lanka from 15 to 18 December to engage in several donation activities and host a vocational training dialogue.
-
-To make donations the delegation will visit Thambuttegama, Kaduwela and Biyagama and take part in a Vocational Training Dialogue in Colombo.
-
-The delegation will also call on JVP General Secretary Tilvin Silva during their stay.
-
-◼️
-
-[Data](articles/e5d8aca0.json)
-
-[Extended Data](ext_articles/e5d8aca0.ext.json)
 
 ---

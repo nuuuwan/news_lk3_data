@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 21:42:45**
+As of **2024-12-14 22:02:15**
 
 ## Newspaper Stats
 
-*Scraped **60,171** Articles*
+*Scraped **60,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,632
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,707
+adalk | 5,709
 adaderanalk | 7,330
-tamilmirrorlk | 8,602
+tamilmirrorlk | 8,603
 virakesarilk | 9,880
 adaderanasinhalalk | 10,406
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 10,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,145 (100.0%) of 60,171 articles have been extended.
+60,146 (100.0%) of 60,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### මාතලේ SSPගේ පුද්ගලික සහකාර CI අභිරහස් ලෙස මිය ගිහින්
+
+*2024-12-14 21:54:39* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-SSPගේ-පුද්ගලික-සහකාර-CI-අභිරහස්-ලෙස-මිය-ගිහින්/11-413628) · `si`
+
+මාතලේ කොට්ඨාශ භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයාගේ පෞද්ගලික සහායක වශයෙන් කටයුතු කළ ප්‍රධාන පොලිස් පරීක්ෂක ලක්ෂ්මන් මොළගොඩ මහතා අභිරහස් ලෙස මියගොස් සිටියදී වත්තේගම නගරයේදී සොයා ගත් බව පොලිසිය කියයි.
+
+වත්තේගම ප්‍රදේශයේ පදිංචිකරුවක වන ඒ මහතා අද (14) පාන්දර 5.30 ට පමණ ශාරීරික ව්‍යායාම් කටයුතු සඳහා නිවසෙන් පිටත්ව ගොස් ඇති අතර ඉන් අනතුරුව වත්තේගම නගරයේ පෞද්ගලික බැංකුවක් අසල ඔහුගේ මෘත ශරීරයරය තිබියදී පොලිසිය විසින් සොයා ගෙන තිබේ.
+
+ඔහු ව්‍යායාම් කටයුතු සිදු කරන අතරතුර කිසියම් පුද්ගලයෙකු ඔහු වාහනයකින් හප්පා පලා ගොස් ඇති බවට පොලිසිය සැක කරන අතර වත්තේගම නගරයේ ඇති ආවේක්‍ෂණ කැමරා පද්ධති නිරීක්ෂණය කරමින් අපරාධකරුවන් සොයා ගැනීම සඳහා පොලිස් විමර්ශන ආරම්භ වී තිබේ.
+
+තෙල්දෙණිය කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරී රොෂාන් අමරසිංහ මහතාගේ අධීක්ෂණය යටතේ වත්තේගම පොලිසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b2cbb0eb.json)
+
+---
+
+### சடலத்தை மறைத்து வைத்திருந்த இருவர் கைது
+
+*2024-12-14 21:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலத்தை-மறைத்து-வைத்திருந்த-இருவர்-கைது/175-348726) · `ta`
+
+மாத்தறை - வல்யிங்குருகெட்டிய பகுதியில் மின்சாரம் தாக்கி உயிரிழந்த நபரின் சடலத்தை மறைத்து வைத்திருந்த குற்றச்சாட்டில் இருவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+விலங்குகளை வேட்டையாடுவதற்கு பயன்படுத்தப்படும் சட்டவிரோத மின்சார வேலியில் சிக்குண்டு உயிரிழந்த நபரின் சடலத்தையே இவர்கள் மறைக்க முயன்றுள்ளனர்.
+
+இதன்படி, மின்சார வேலியைப் பொருத்திய 2 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதுடன், தாம் பொருத்திய மின்சார வேலியில் சிக்கி குறித்த நபர் உயிரிழந்துள்ளதாக அவர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/bc4145d4.json)
+
+---
 
 ### Order to re -export imported rice
 
@@ -83,6 +117,20 @@ Wounded by shooting TA. Niluka Dilhani is a 40 year old resident of Colombo 13.
 [Data](articles/4848357f.json)
 
 [Extended Data](ext_articles/4848357f.ext.json)
+
+---
+
+### සරසවි වරම් නොලබන අයගේ වගකීම භාර ගන්නවා
+
+*2024-12-14 20:22:26* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-වරම්-නොලබන-අයගේ-වගකීම-භාර-ගන්නවා/11-413626) · `si`
+
+විශ්ව විද්‍යාල ප්‍රවේශයට සුදුසුකම් නොලබන තරුණ තරුණියන්ට වෘත්තීය අධ්‍යාපනය ලබාදෙමින් ඔවුන් ජාතික ආර්ථිකයේ කොටස්කරුවන් බවට පත් කිරීමේ වගකීම තරුණ කටයුතු සහ  ක්‍රීඩා අමාත්‍යාංශය භාරගන්නා බව තරුණ කටයුතු නියෝජ්‍ය අමාත්‍ය එරංග ගුණසේකර පැවසීය. නියෝජ්‍ය අමාත්‍යවරයා මේ බව පැවසුවේ ඊයේ (13) පැවති ජාතික යොවුන් සේනාංකයේ දඹුල්ල හෝටල් පුහුණු පාසලේ දෙවන කණ්ඩායම සඳහා සහතිකපත්‍ර ප්‍රදානය හා එක්වූ අවස්ථාවේදීය.
+
+මෙම අවස්ථාවට ක්‍රීඩා අමාත්‍යාංශයේ ලේකම් අරුණ බණ්ඩාර, යොවුන් සේනාංක අධ්‍යක්ෂක බ්‍රිගේඩියර් R. M.S.P. රත්නායක, දඹුල්ල හෝටල් පුහුණු පාසලේ විදුහල්පති මේජර්  M.D.B. ඉලංගසිංහ, අතිරේක අධ්‍යක්ෂක ( පාලන හා මූල්‍ය ) නීතිඥ  R.නිශාන්ත පුෂ්පකුමාර, අතිරේක අධ්‍යක්ෂක ( පුහුණු හා සංවර්ධන) සමන් කුලසූරිය ඇතුළු තවත් නිළධාරීන් සහභාගී වූහ.
+
+...
+
+[Data](articles/e9419267.json)
 
 ---
 
@@ -334,17 +382,29 @@ Accordingly, the rice is being imported from India and has received 2300 metric 
 
 ---
 
-### பன்முக ஆளுமை தனுஷ் வெளியிட்ட ஜீ. வி. பிரகாஷ் குமாரின் 'மெண்டல் மனதில் ' படத்தின் முதல் தோற்ற பார்வை
+### Dhanush published. V.. Prakash Kumar's 'Mendel Mind' is the first appearance of the film
 
 *2024-12-14 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201290) · `ta`
 
-'இசை அசுரன்' ஜீ. வி பிரகாஷ் குமார் முதல் முறையாக இயக்குநரும், நடிகருமான செல்வராகவன் இயக்கத்தில் கதையின் நாயகனாக நடிக்கும் 'மெண்டல் மனதில்'  எனும் திரைப்படத்தின் முதல் தோற்ற பார்வை வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி நட்சத்திர நடிகரும், இயக்குநருமான தனுஷ் வெளியிட்டார்.
+Here's a summary of the text in approximately 200 characters:
 
-இயக்குநரும், நடிகருமான செல்வராகவன் இயக்கத்தில் உருவாகும் 'மெண்டல் மனதில்' எனும் திரைப்படத்தில் ஜீ.வி. பிரகாஷ் குமார் மற்றும் நடிகை மாதுரி ஜெயின் ஆகிய இருவரும் முதன்மையான வேடங்களில் நடிக்கிறார்கள். அருண் ராதாகிருஷ்ணன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு ஜீ.வி. பிரகாஷ் குமார் இசையமைக்கிறார். காதலை மையப்படுத்தி உணர்வுபூர்வமான படைப்பாக தயாராகும் இந்தத் திரைப்படத்தை பேரலல் யூனிவர்ஸ் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்  ஜீ. வி. பிரகாஷ் குமார் தயாரிக்கிறார்.
+
+
+Dhanush releases V. Prakash Kumar's 'Music Monster'. Directed by Selvaraghavan, starring Prakash Kumar and Madhuri Jain. First look features Prakash Kumar with colorful butterfly background. Film production complete, awaiting release date.
+
+🟩
+
+'Music monster' ji. V Prakash Kumar's first appearance of the film 'Mendel Man Mind', which plays the hero of the story directed by director and actor Selvaraghavan, has been released.. This was released by Dhanush, the leading star actor and director.
+
+GV in the movie 'Mendel Man Manam' directed by director and actor Selvaraghavan. Both Prakash Kumar and actress Madhuri Jain are playing the lead roles. Arun Radhakrishnan is a cinematography film. Prakash Kumar is composed. Producer Xi on behalf of Paralel Universal Pictures Company. V.. Produced by Prakash Kumar.
+
+The film crew, which has announced that the shooting of the film will begin soon, has now released the first look of the film.. In which the hero of the story, JV. Prakash Kumar appears differently with a meaningful view with colors in the background of butterfly.
 
 ...
 
 [Data](articles/8eee55ce.json)
+
+[Extended Data](ext_articles/8eee55ce.ext.json)
 
 ---
 
@@ -2373,93 +2433,5 @@ Agromet Asia won the Gold Award in the Recycled Products Sector (Extra-Large Com
 [Data](articles/dc75bf30.json)
 
 [Extended Data](ext_articles/dc75bf30.ext.json)
-
----
-
-### India - Australia
-
-*2024-12-13 23:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201224) · `ta`
-
-India vs Australia 3rd Test preview: Both teams aim to win to qualify for World Test Championship final. Key players include Virat Kohli, Steve Smith, Jasprit Bumrah, and Mohammed Siraj. Australia leads the head-to-head record but India won the last test in 2021.
-
-🟩
-
-The 3rd match of the Porter -Kavaskar Test series between India and Australia will commence on Saturday (14) at the Pirisbane Kapa Stadium.
-
-In the first match of the first match at Perth Stadium, Australia won 295 runs and Australia 10 wickets in the second match at the Adelaide Stadium.
-
-There is no doubt that both teams will play with the goal of beating one another in the 3rd Test.
-
-Because beyond the Porter -Kavaskar series, the two teams will be playing aiming to qualify to play in the World Test Championship final.
-
-The two teams face the Test match as they are well aware that the journey towards the World Test Championships will affect the match.
-
-Because of this, the Test match will be another exciting match.
-
-However, in the past, the two batsmen shone in both teams and have seen the Senior players faced a major stumbling block.
-
-The Australian team has only shone in the batting and the Indian team has shown the skills in the Indian team.
-
-...
-
-[Data](articles/05d7f317.json)
-
-[Extended Data](ext_articles/05d7f317.ext.json)
-
----
-
-### Sri Lanka gets only 73-pct acceptances to exchange Hamilton Reserve linked ISB
-
-*2024-12-13 22:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-only-73-pct-acceptances-on-hamilton-reserve-linked-isb-194246/) · `en`
-
-ECONOMYNEXT – Sri Lanka has received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange.
-
-An offer to exchange 1.25 billion April 2023 bond has had acceptances of 98 percent.
-
-An offer to exchange 1.0 billion March 2024 bonds have acceptances of 97 percent.
-
-An offer to exchange 500 million in June 2024 bonds have acceptances of 99 percent.
-
-However, the 2022 July bonds in which Hamilton Reserve claims a 25 percent stake, has had only 73 percent acceptances.
-
-Sri Lanka says 98-pct of bondholders agreed to exchange defaulted ISBs
-
-Hamilton Reserve has filed suit in New York insisting on full payment. The proceedings have been stayed until the exchange is carried out.
-
-Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if the the economy performs better than expected. (Colombo/Dec13/2024)
-
-◼️
-
-[Data](articles/578db354.json)
-
-[Extended Data](ext_articles/578db354.ext.json)
-
----
-
-### Sri Lanka gets only 73-pct acceptances to exchange Hamilton Reserve linked ISB
-
-*2024-12-13 22:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-only-73-pct-acceptances-to-exchange-hamilton-reserve-linked-isb-194246/) · `en`
-
-ECONOMYNEXT – Sri Lanka has received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange.
-
-An offer to exchange 1.25 billion April 2023 bond has had acceptances of 98 percent.
-
-An offer to exchange 1.0 billion March 2024 bonds have acceptances of 97 percent.
-
-An offer to exchange 500 million in June 2024 bonds have acceptances of 99 percent.
-
-However, the 2022 July bonds in which Hamilton Reserve claims a 25 percent stake, has had only 73 percent acceptances.
-
-Sri Lanka says 98-pct of bondholders agreed to exchange defaulted ISBs
-
-Hamilton Reserve has filed suit in New York insisting on full payment. The proceedings have been stayed until the exchange is carried out.
-
-Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if the the economy performs better than expected. (Colombo/Dec13/2024)
-
-◼️
-
-[Data](articles/6d359c75.json)
-
-[Extended Data](ext_articles/6d359c75.ext.json)
 
 ---

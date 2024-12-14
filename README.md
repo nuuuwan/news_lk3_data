@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 04:26:37**
+As of **2024-12-15 04:14:33**
 
 ## Newspaper Stats
 
-*Scraped **60,186** Articles*
+*Scraped **60,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,711
 adaderanalk | 7,332
-tamilmirrorlk | 8,604
+tamilmirrorlk | 8,603
 virakesarilk | 9,880
 adaderanasinhalalk | 10,409
 
@@ -26,27 +26,9 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,179 (100.0%) of 60,186 articles have been extended.
+60,179 (100.0%) of 60,185 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-15 (Sunday)
-
-### போராட்டக்காரர்கள் - பொலிஸார் முறுகல்
-
-*2024-12-15 04:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்கள்-பொலிஸார்-முறுகல்/175-348727) · `ta`
-
-யாழ். தையிட்டியில் சட்டவிரோதமாக அமைக்கப்பட்ட விகாரையை அகற்றக் கோரி தமிழ்த் தேசிய மக்கள் முன்னணியினர் நேற்றும் போராட்டத்தில் ஈடுபட்டனர். இதன்போது அந்தக் கட்சியினருக்கும் பொலிஸாருக்கும் இடையே முறுகல் போக்கு ஏற்பட்டது.
-
-இதனால் அங்கு பதற்றமான சூழல் நிலவியது. அத்தோடு, பொலிஸார் வீதித் தடைகளை ஏற்படுத்தி குவிக்கப்பட்டனர்.
-
-இந்தப் போராட்டத்தில் பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம், முன்னாள் பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் உள்ளிட்ட பலர் கலந்துகொண்டனர். (a)
-
-◼️
-
-[Data](articles/40a92d5e.json)
-
----
 
 ### 2024-12-14 (Saturday)
 
@@ -2517,5 +2499,29 @@ President Dissanayake is also scheduled to participate in a business event in Ne
 [Data](articles/a5d04764.json)
 
 [Extended Data](ext_articles/a5d04764.ext.json)
+
+---
+
+### A woman's body body piles on the beach
+
+*2024-12-14 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201225) · `ta`
+
+An unidentified female body, estimated to be around 4 feet tall, was discovered near Seawaskadam. The Kalawanchikudi Police were notified after a report from a trip yesterday. The body is now at the morgue while investigations continue.
+
+🟩
+
+The body of an unidentified female body has been found in the sea coast of the Seawaskadam area.
+
+The body was recovered following a trip received by the Kalawanchikudi Police yesterday.
+
+The identity of the deceased has not yet been established and is a 4-foot-five feet of height and about 4 feet high.
+
+The body has been placed at the morgue morgue and the Kalawanchikudi police are conducting further investigations.
+
+◼️
+
+[Data](articles/b7d52295.json)
+
+[Extended Data](ext_articles/b7d52295.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 13:43:09**
+As of **2024-12-14 13:27:00**
 
 ## Newspaper Stats
 
-*Scraped **60,131** Articles*
+*Scraped **60,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,43 +20,17 @@ adalk | 5,705
 adaderanalk | 7,323
 tamilmirrorlk | 8,596
 virakesarilk | 9,870
-adaderanasinhalalk | 10,395
+adaderanasinhalalk | 10,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,084 (99.9%) of 60,131 articles have been extended.
+60,083 (99.9%) of 60,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
-
-### අසාද් පාලනයේ තිබූ මත්පෙති ගබඩාවක් හසුවෙයි
-
-*2024-12-14 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204367) · `si`
-
-දශක 5කට අධික කාලයක් පැවති අසාද් පාලනය පෙරළා දමමින් සන්නද්ධ කැරලිකරුවන් සිරියාවේ පාලනය සියතට ගත්තේ මීට සතියකට පෙරාතුවයි.
-
-එරට පාලනය මේ වනවිට කැරලිකරුවන් යටතේ පවතින අතර ඔවුන් බටහිර දිග ඩමස්කස් අගනුවර පිහිටි දැවැන්ත මත්ද්‍රව්‍ය ගබඩාවක් සොයාගෙන තිබේ.
-
-එහි තිබී ලී බඩු, විදුලි උපකරණ මෙන්ම පළතුරු තුළ පවා සඟවා තිබූ මත්පෙති දහස් ගණනක් හමුව තිබේ.
-
-මෙම මත්පෙති තොගය අපනයනය කිරීම සඳහා සූදානම් කර තිබූ බවට සැක කෙරේ.
-
-සිරියාවේ බෂර් අල් අසාද් ප්‍රමුඛ රජය කැප්ටගන් නම් උත්තේජක ඖෂධ නිෂ්පාදනයෙන් සහ විකිණීමෙන් ලාබ ලබන බවට අමෙරිකාව පවා මීට පෙර සිරියාවට චෝදනා කර තිබුණි.
-
-කෙසේ වුවද අසාද් රජය මත්ද්‍රව්‍ය වෙළඳාම සම්බන්ධ චෝදනා ප්‍රතික්ෂේප කළේය.
-
-විදෙස් වාර්තා සඳහන් කර ඇත්තේ කැරලිකරුවන් මෙලෙස දැවැන්ත මත්ද්‍රව්‍ය ගබඩාවක් සොයාගැනීම මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් අසාද් පාලනයට එල්ලවූ චෝදනා සත්‍යයක් කරන සාක්ෂි ලෙසය.
-
-මේ අතර සිරියාව කැරළිකරුවන් අතට පත්වීමෙන් පසුව එළැඹි පළමු සිකුරාදා දින දේව මෙහෙයට එක්වූ සිරියානු ජනතාව ඩැමැස්කස් අගනුවර දී අසාද් පාලනය අවසන් වීම සමරනු ලැබීය.
-
-◼️
-
-[Data](articles/34699a2c.json)
-
----
 
 ### One who went to the Midigama Ruwan arrested for his handcuff
 
@@ -823,8 +797,6 @@ In this piece I read, the definition of heaven and hell was determined by racial
 ...
 
 [Data](articles/2d0d8d23.json)
-
-[Extended Data](ext_articles/2d0d8d23.ext.json)
 
 ---
 
@@ -2459,5 +2431,33 @@ The Ministry of Education said that only the first grade officials of the Sri La
 [Data](articles/e46e171f.json)
 
 [Extended Data](ext_articles/e46e171f.ext.json)
+
+---
+
+### Controversial Speaker's Education Quality: Is there an abuse?- Complaints at the Criminal Investigation Department to investigate
+
+*2024-12-13 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201195) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Controversy surrounds Speaker Ashoka Ranwala's educational qualifications. Civil organizations and politicians filed a complaint with CID to investigate potential fraud. Opposition parties demand disclosure of Speaker's doctoral certificate. The issue raises questions about parliamentary privileges and accountability.
+
+🟩
+
+Representatives of civil organizations and politicians have lodged a complaint with the Criminal Investigation Department (CID) yesterday (12) to investigate whether there is a scam regarding the educational qualifications of Speaker Ashoka Ranwala, who has created controversy in the country.
+
+Opposition parties are constantly urging the people of the country to publicize the certificate of the Speaker's doctoral degree, as the Parliamentary Level inquiries are being carried out at the parliamentary level.
+
+The Speaker is silent on this as many parties are demanding a legitimate clarification on the controversy.
+
+Against this backdrop, representatives of civil organizations have lodged a complaint with the Criminal Investigation Department to investigate whether the Speaker Ashoka Ranwala has been involved in the abuse of his educational qualifications.
+
+...
+
+[Data](articles/f381e015.json)
+
+[Extended Data](ext_articles/f381e015.ext.json)
 
 ---

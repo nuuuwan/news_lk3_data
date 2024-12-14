@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 06:48:09**
+As of **2024-12-14 07:31:05**
 
 ## Newspaper Stats
 
-*Scraped **60,090** Articles*
+*Scraped **60,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
-tamilmirrorlk | 8,590
+tamilmirrorlk | 8,591
 virakesarilk | 9,867
 adaderanasinhalalk | 10,383
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,040 (99.9%) of 60,090 articles have been extended.
+60,042 (99.9%) of 60,091 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,6 +82,8 @@ The selection of the country’s Top 10 Diversity Champions was based on a rigor
 
 [Data](articles/f7a4c0c6.json)
 
+[Extended Data](ext_articles/f7a4c0c6.ext.json)
+
 ---
 
 ### CSE’s bull-run continues in the wake of picked-up investor participation
@@ -97,6 +99,8 @@ The All Share Price Index went up by 169.5 points, while the S and P SL20 rose b
 ...
 
 [Data](articles/127d8000.json)
+
+[Extended Data](ext_articles/127d8000.ext.json)
 
 ---
 
@@ -127,6 +131,26 @@ People’s Bank joined LankaPay US Dollar Online Payments System in 2021 towards
 ...
 
 [Data](articles/a895b73e.json)
+
+---
+
+### எலிக் காச்சலால் 58 பேர் பாதிப்பு: 7 பேர் பலி
+
+*2024-12-14 02:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்-காச்சலால்-58-பேர்-பாதிப்பு-7-பேர்-பலி/175-348714) · `ta`
+
+யாழ்ப்பாணம் மாவட்டத்தில் இதுவரை எலிக் காச்சல் நோயினால் 58 பேர் பாதிக்கப்பட்டுள்ளனர் என்று யாழ்ப்பாணம் பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்தியக் கலாநிதி ஆ.கேதீஸ்வரன் தெரிவித்துள்ளார்.
+
+யாழ்ப்பாணம், பருத்தித்துறை சுகாதார வைத்திய அதிகாரி பணிமனையில் நேற்று இடம்பெற்ற ஊடக சந்திப்பின்போது அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+பருத்தித்துறை சுகாதார வைத்திய அதிகாரி பிரிவில் 24 பெரும், கரவெட்டி சுகாதார வைத்திய அதிகாரி பிரிவில் 24 பெரும்,  மருதங்கேணி பிரிவில் 6 பெரும், சாவகச்சேரி பிரிவில் 4 பெருமாக   இதுவரை 58 பேர் எலிக்காச்சல் நோய் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+யாழ்ப்பாண மாவட்டத்தில் மொத்தமாக 7 இறப்புகள் பதிவாகியுள்ளன. அதில் 6 இறப்புகள் யாழ்ப்பாண மாவட்டத்திலும் ஒன்று முல்லைத்தீவு  மாவட்டத்திலும் பதிவாகியுள்ளது.
+
+எலிக்காச்சல் நோய் உறுதிப்படுத்தப்பட்டுள்ளதால் இதற்கான தடுப்பு நடவடிக்கைகளை நாங்கள் முன்னெடுத்து வருகின்றோம் என்றார். (a)
+
+◼️
+
+[Data](articles/32848014.json)
 
 ---
 
@@ -2393,33 +2417,5 @@ The party also claims that the Speaker has avoided addressing public concerns an
 [Data](articles/9718ea12.json)
 
 [Extended Data](ext_articles/9718ea12.ext.json)
-
----
-
-### Explanation for Galle Marvels Team Owner
-
-*2024-12-13 14:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மார்வெல்ஸ்-அணி-உரிமையாளருக்கு-விளக்கமறியல்/175-348701) · `ta`
-
-Galle Marvels team owner arrested for match-fixing ICC complaint filed
-
-🟩
-
-The owner of the Galle Marvels team of the Lanka R10 Super League Series was arrested by the Sri Lankan Sports Police Division on Thursday (12).
-
-The Colombo Magistrate's Court on Friday (13) ordered the arrest of Indian citizen Prem Takar, the owner of the arrested Galle Marvels, to be remanded till December 16.
-
-A foreign player has been arrested for allegedly approaching with suspicious privilege related to match -picking.
-
-A team of special police officers that prevent sports crimes to arrest a Indian citizen on charges of betraying the West Indies player for money
-
-It is also reported that the International Cricket Council (ICC) has lodged a complaint with the Special Police Division to prevent sports crimes regarding the alleged incident.
-
-The report also further stated that the accused Indians were the owner of the team participating in the competition and that he had recommended to the relevant player to deceive the matches.
-
-...
-
-[Data](articles/9a84f86f.json)
-
-[Extended Data](ext_articles/9a84f86f.ext.json)
 
 ---

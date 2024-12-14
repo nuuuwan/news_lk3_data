@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 22:16:12**
+As of **2024-12-14 22:27:38**
 
 ## Newspaper Stats
 
-*Scraped **60,176** Articles*
+*Scraped **60,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,93 @@ adalk | 5,711
 adaderanalk | 7,330
 tamilmirrorlk | 8,603
 virakesarilk | 9,880
-adaderanasinhalalk | 10,406
+adaderanasinhalalk | 10,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,149 (100.0%) of 60,176 articles have been extended.
+60,151 (100.0%) of 60,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### කථානායකගේ ඉල්ලා අස්වීම ජනපති
+### ඊශ්‍රායලයට රැකියා සඳහා ගිය ලාංකිකයන් පිරිසක් පිටුවහල් කරයි
+
+*2024-12-14 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204382) · `si`
+
+ඊශ්‍රායලයේ රැකියා සඳහා ගොස් රැකියා ගිවිසුම් උල්ලංඝණය වන පරිදි කටයුතු කළ ශ්‍රී ලාංකිකයින් 17 දෙනෙකු යළි මෙරටට පිටුවහල් කිරීමට තීරණය කර තිබේ.
+
+ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසන්නේ කෘෂිකර්මික අංශයේ රැකියා වීසා මත ඊශ්‍රායලට පැමිණ ඇති ඔවුන් එම සේවා ස්ථානවලින් පැනගොස් බේකරිවල සේවය කරමින් සිටියදී එරට බලධාරීන්ගේ අත්අඩංගුවට පත්වී ඇති බවය.
+
+ඊශ්‍රායලය විදේශීය ශ්‍රමිකයින් සම්බන්ධයෙන් නිරන්තර විමසිල්ලෙන් පසුවන රටක් වන බව තානාපතිවරයා පෙන්වාදෙයි.
+
+විදෙස් ශ්‍රමිකයින් ඊශ්‍රායලයේ රැකියා සඳහා පැමිණීමෙන් පසු තමා පැමිණි විසා කාණ්ඩයෙන් වෙනත් විසා කාණ්ඩයකට මාරුවීමේ නීතිමය තත්ත්වයක් නොමැති බව ඊශ්‍රායල බලධාරීන් අවධාරණය කර ඇත.
+
+මේ අතර සාත්තු සේවය සඳහා මීට වසරකට පෙර ඊශ්‍රායලයට පැමිණි ශ්‍රීලාංකික කාන්තාවක් ද සේවා කොන්දේසි කඩකිරීම හේතුවෙන් යළි ශ්‍රී ලංකාවට පිටුවහල් කළ බවද ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපතිවරයා සඳහන් කළේය.
+
+මීට පෙර ද සොරකමක් සම්බන්ධයෙන් චෝදනා එල්ල වූ ශ්‍රී ලාංකිකයෙකු පිටුවහල් කිරීමට එරට බලධාරීන් පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/bdf5252a.json)
+
+---
+
+### Speaker's Resignation
 
 *2024-12-14 22:06:09* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගේ-ඉල්ලා-අස්වීම-ජනපති/11-413630) · `si`
 
-කථානායක අසෝක රන්වල මහතා සිය ධුරයෙන් ඉල්ලා අස්වීම ජනාධිපතිවරයා පිළිගෙන ඇති බව ජනාධිපති ලේකම්වරයා විසින් පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය වෙත ලිඛිතව දැනුම්දී ඇත.
+Here's a summary in 200 characters:
 
-දහවැනි පාර්ලිමේන්තුවේ අභිනව කථානායකවරයා ලෙස පත්වූ අසෝක රන්වල මහතා  තමා ධුරයෙන් ඉල්ලා අස්වන බව ජනාධිපතිවරයාට ලිඛිතව දැනුම්දී තිබිණි.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 64(2) ව්‍යවස්ථාව අනුව කථානායක, නියෝජ්‍ය කථානායක හෝ නියෝජ්‍ය කාරක සභා සභාපති යන කවර පදවියකින් හෝ ඉල්ලා අස් වන්නේ නම් ඒ බව ස්වකීය අත්සන යටතේ වූ ලිපියක් මගින් ජනාධිපතිවරයාට දැනුම්දිය යුතු වේ.
 
-ඒ අනුව ජනාධිපති ලේකම්වරයා විසින් පාර්ලිමේන්තුවේ මහලේකම්වරියට මෙම ලිඛිත දැනුම්දීම සිදුකර ඇත.
+Speaker Asoka Ranwala resigns. He wrote to the President, citing constitutional requirements. The Secretary to the President notified the Speaker General of Parliament.
+
+🟩
+
+The Secretary to the President has informed the Secretary General of Parliament that Speaker Asoka Ranwala resigns from his post informed the President.
+
+Asoka Ranwala, who was appointed as the newly Speaker of the Tenth Parliament, had written to the President that he would resign from office.
+
+According to the Constitution 64 (2) of the Constitution, the President shall inform the President by a letter under his signature.
+
+Accordingly, the Secretary to the President has made this written notice to the Secretary General of Parliament.
 
 ◼️
 
 [Data](articles/d212587e.json)
 
+[Extended Data](ext_articles/d212587e.ext.json)
+
 ---
 
-### වකුගඩු රෝගය පිටුදැකිමට දැඩි ලෙස කැපවෙනවා
+### Heavy dedicated to the acquisition of kidney disease
 
 *2024-12-14 21:59:05* · [`adalk`](https://www.ada.lk/breaking_news/වකුගඩු-රෝගය-පිටුදැකිමට-දැඩි-ලෙස-කැපවෙනවා/11-413629) · `si`
 
-ලංකාවට ඉමහත් සෞඛ්‍ය ගැටලුවක් වී ඇති හේතුව හදුනා නොගත් කාලීන වකුගඩු රෝගය මැඩපැවැත්වීම සදහා වර්තමාන රජය දැඩිලෙස කැපවී කටයුතු කරන බව  සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Here's a summary of 200 characters:
 
-අමාත්‍යවරයා මේ බව සදහන් කරනු ලැබුවේ හේතුව හදුනා නොගත් කාලීන වකුගඩු රෝග මැඩපැවැත්වීම ආශ්‍රිතව සෞඛ්‍ය අමාත්‍යාංශය, ජාතික වකුගඩු රෝග නිවාරණ සහ පර්යේෂණ ඒකකය, චීන විද්‍යා ඇකඩමිය සහ මෙරට විද්වතුන්ගේ සහයෝගීතාවයෙන්  ඒකාබද්ධව සිදු කළ පර්යේෂණ  එළිදැක්වීම වෙනුවෙන් අද (14) බත්තරමුල්ල දී පැවති වැඩමුළුවේ සමාරම්භක උත්සවය අමතමිනි.
 
-මෙම වැඩමුළුව සෞඛ්‍ය අමාත්‍යාංශයේ වකුගඩු රෝග නිවාරණ හා පර්යේෂණ ඒකකය මගින් සංවිධානය කරනු ලැබු අතර මෙහිදී චීන විද්‍යා ඇකඩමිය සහ ශ්‍රී ලාංකීය විද්වතුන් විසින් සිදු කරන ලද වකුගඩු රෝග ආශ්‍රිත පර්යේෂණ එළිදැක්වීම සිදුවිය.
+
+Sri Lankan Health Minister Dr. Nalinda Jayatissa emphasizes government commitment to combating unidentified kidney disease. The Ministry of Health collaborates with China's Science Academy to develop prevention and treatment strategies.
+
+🟩
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa said that the current government is severely committed to suppressing the unidentified kidney disease.
+
+The Minister was addressing the inauguration of the Ministry of Health in the National Kidney Prevention and Research Unit, the National Kidney Prevention and Research Unit, the National Kidney Prevention and Research Unit, the Chinese Science Academy and Sri Lanka Scholarship Cooperation.
+
+The workshop was organized by the Prevention and Research Unit of the Ministry of Health and the Chinese Science Academy and the Sri Lankan scholars.
+
+The Ministry of Health is proposed to be recommended by the Ministry of Health and to meet the development of kidney disease and to promote the prevention of the treatment.
 
 ...
 
 [Data](articles/f1628626.json)
+
+[Extended Data](ext_articles/f1628626.ext.json)
 
 ---
 
@@ -90,6 +134,30 @@ Wattegama Police are conducting further investigations under the supervision of 
 
 ---
 
+### ජනපතිගේ පළමු විදෙස් සංචාරය
+
+*2024-12-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204381) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා හෙට (15) සිට ලබන 17 වැනිදා දක්වා ඉන්දියාවේ නිල සංචාරයක නිරතවෙයි.
+
+ඒ ජනාධිපති ධුරයට පත්වීමෙන් පසු සිදුකරන පළමු විදෙස් සංචාරය ලෙසයි.
+
+ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා එම සංචාරයට එක්වෙයි.
+
+ඒ අනුව එම සංචාරයේදී ජනාධිපතිවරයා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා හමුවී ද්විපාර්ශවීක සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+එමෙන්ම ජනාධිපතිවරයා ඉන්දීය රජයේ තවත් ප්‍රබල අමාත්‍යවරු කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+
+ජනාධිපතිවරයා සිය සංචාරය අතරතුර ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ආයෝජන හා වාණිජ සබඳතා ප්‍රවර්ධනය කිරීමේ ව්‍යාපාරික වැඩසටහනකට ද නව දිල්ලි නුවරදී එක්වීමට නියමිත අතර බුද්ධ ගයාවේද සංචාරය කිරීමට නියමිතය.
+
+ජනාධිපතිවරයාගේ ඉන්දීය සංචාරය පිළිබඳ නිවේදනයක් නිකුත් කරමින් ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය පවසන්නේ අගමැති මෝදිගේ දැක්මට අනුව ඉන්දීය සාගර කලාපයේ සමීපතම අසල්වැසියා ලෙස ශ්‍රී ලංකාව ප්‍රමුඛත්වයක් හිමිවන බවය.
+
+...
+
+[Data](articles/7d0921b7.json)
+
+---
+
 ### Two persons arrested for hiding the corpse
 
 *2024-12-14 21:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலத்தை-மறைத்து-வைத்திருந்த-இருவர்-கைது/175-348726) · `ta`
@@ -109,6 +177,24 @@ Accordingly, two suspects have been arrested for fitting the electric fence and 
 [Data](articles/bc4145d4.json)
 
 [Extended Data](ext_articles/bc4145d4.ext.json)
+
+---
+
+### වැලිපැන්න යුද පිටියක් කළ ආපන ශාලාවේ ගැටුම
+
+*2024-12-14 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204380) · `si`
+
+වැලිපැන්න පොලිස් වසමට අයත් වැලිපැන්න ගබඩා හන්දිය ප්‍රදේශයේ පිහිටි අවන්හලකට ආහාර ලබා ගැනීමට ගිය පුද්ගලයින් හා ආපනශාලාවේ හිමිකරුවන් අතර ඇති වූ ගැටුමකින් තිදෙනකු තුවාල ලබා කළුතර ශික්ෂණ රෝහලට ඇතුළු කළ බව වැලිපැන්න පොලිසිය ප්‍රකාශ කරයි.
+
+පුද්ගලයින් තුන්දෙනෙකු අවන්හල වෙත අද සවස ආහාර ලබා ගැනීමට ගිය අවස්ථාවේ ලබාගත් ආහාර පිළිබඳව කතාබහක් දුර දිග  යාමෙන් මෙම ගැටුම ඇති වීි තිබේ.
+
+ආපනශාලාවේ සේවකයින් මෙම පුද්ගලයින් තුන්දෙනාට තියුණු ආයුධවලින් පහර දී ඇති අතර ඔවුන් තුවාල ලබා රෝහල් ගත කර ඇති අතර පහර දුන් පුද්ගලයින් තුන්දෙනෙකු මේ වනවිට වැලිපැන්න පොලීසිය මගින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙසේ රෝහල් කරගත කොට ඇත්තේ වැලිපැන්න, දෙනියාය සහ ඉත්තපාන ප්‍රදේශයේ පදිංචිකරුවන්වේ.
+
+◼️
+
+[Data](articles/c90f619f.json)
 
 ---
 
@@ -2409,57 +2495,5 @@ On 21 August 2024 ‘Colombo Telegraph’ published an article titled, “Will t
 [Data](articles/9c3a1e4e.json)
 
 [Extended Data](ext_articles/9c3a1e4e.ext.json)
-
----
-
-### “Government failing on promises”: Sajith Premadasa highlights key issues
-
-*2024-12-14 00:00:19* · [`dailyftlk`](https://www.ft.lk/opinion/Government-failing-on-promises-Sajith-Premadasa-highlights-key-issues/14-770509) · `en`
-
-We were told that the Prevention of Terrorism Act would be completely abolished. However, at present, they have eliminated freedom of speech, media freedom, and civil liberties by utilising the Prevention of Terrorism Act. Is it fair to conduct media raids using the Prevention of Terrorism Act? During the election, the current Government received a significant support from the social media sector. Yet now, they are using the Prevention of Terrorism Act, which they promised to remove, to hunt down social media activists. We propose that if they mean what they say, they should stop this repression
-
-...
-
-[Data](articles/fdcd4564.json)
-
-[Extended Data](ext_articles/fdcd4564.ext.json)
-
----
-
-### 2024-12-13 (Friday)
-
-### Australian High Commissioner calls on EDB Chief to boost trade ties
-
-*2024-12-13 23:46:38* · [`dailyftlk`](https://www.ft.lk/business/Australian-High-Commissioner-calls-on-EDB-Chief-to-boost-trade-ties/34-770499) · `en`
-
-Australian High Commissioner to Sri Lanka Paul Stephens and his team met recently Export Development Board (EDB) Chairman and Chief Executive Mangala Wijesinghe to strengthen bilateral trade relations between the two countries.
-
-Over the past 75 years, Sri Lanka and Australia bilateral relationship has vastly expanded over through deep people-to-people ties, trade and investment, tourism, culture and sports.
-
-This relationship is strong and enduring, underpinned by shared history and common values. Trade and investment between two countries have been increasing over the time.
-
-Australia ranks as the 11th largest export destination for Sri Lanka, with total exports amounting to $ 226.51 million in 2023. It also stands as the 24th largest source of imports for Sri Lanka, with total imports valued at $ 185.89 million during the same period. This results in a favourable trade balance for Sri Lanka of approximately $ 40 million.
-
-...
-
-[Data](articles/6878b9e9.json)
-
-[Extended Data](ext_articles/6878b9e9.ext.json)
-
----
-
-### SLT-Mobitel unveils 2025 calendar featuring dragonflies of Sri Lanka
-
-*2024-12-13 23:46:05* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-unveils-2025-calendar-featuring-dragonflies-of-Sri-Lanka/34-770498) · `en`
-
-Continuing the tradition of celebrating Sri Lanka’s natural heritage, SLT-Mobitel has unveiled the 2025 calendar themed ‘Dragonflies of Sri Lanka,’ focusing on the fascinating world of dragonflies. The calendar highlights the captivating beauty and ecological significance of these vibrant insects, emphasising the vital role they play in sustaining healthy ecosystems in the country.
-
-Dragonflies, often referred to as ‘Guardians of the Watersheds’, are apex predators among invertebrate communities and serve as indicators of water quality and ecosystem health and considered as a flagship group of insects in the conservation movement. They are generally familiar to the wider public due to their colourfulness, relatively large size compared to most other insects, flight capabilities and presence around human modified landscapes.
-
-...
-
-[Data](articles/6bda59fc.json)
-
-[Extended Data](ext_articles/6bda59fc.ext.json)
 
 ---

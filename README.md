@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 15:12:18**
+As of **2024-12-14 14:42:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,095 (99.9%) of 60,134 articles have been extended.
+60,090 (99.9%) of 60,134 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1016,8 +1016,6 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/ee4ae0c9.json)
 
-[Extended Data](ext_articles/ee4ae0c9.ext.json)
-
 ---
 
 ### SLIC conducts ‘General Insurance Quiz Competition 2024’
@@ -1033,8 +1031,6 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/d64d7ea9.json)
-
-[Extended Data](ext_articles/d64d7ea9.ext.json)
 
 ---
 

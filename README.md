@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 13:12:06**
+As of **2024-12-14 13:27:00**
 
 ## Newspaper Stats
 
-*Scraped **60,128** Articles*
+*Scraped **60,130** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 450
-colombotelegraphcom | 607
+colombotelegraphcom | 609
 bbccomsinhala | 631
 islandlk | 3,630
 economynextcom | 3,666
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,081 (99.9%) of 60,128 articles have been extended.
+60,083 (99.9%) of 60,130 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,25 +132,33 @@ However, the government will reach the final decision in a few days.
 
 ---
 
-### மட்டக்குளியில் ஐஸ் , ஹெரோயினுடன் இருவர் கைது !
+### Two persons arrested with ice and heroin in Mattakkuli
 
 *2024-12-14 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201239) · `ta`
 
-கொழும்பு - மட்டக்குளி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதிகளில் மேற்கொள்ளப்ட்ட இரு சுற்றிவளைப்புக்களில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருட்களுடன் இரண்டு சந்தேக நபர்கள் நேற்று வெள்ளிக்கிழமை (13) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two arrests made in Mattakkuli: one for 10g of ice, another for 11g of heroin. Both suspects from Colombo-Mattakkuli.
 
-அதன்படி, மட்டக்குளி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் 10 கிராம் 200 மில்லிகிராம் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கொழும்பு வடக்கு பொலிஸ் குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசியத் தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+Two suspects were arrested by police on Friday (13) with ice and heroin drugs in two rounds of the Colombo -Mattakkuli police division.
 
-கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு - மட்டக்குளி பிரதேசத்தைச் சேர்ந்த 60 வயதுடையவர் ஆவார்.
+Accordingly, a suspect has been arrested with 10 grams of 200 milligrams of ice in the area of ​​the Mattakkuli police division.
 
-இதேவளை , மட்டக்குளி பொலிஸ் பிரிவுக்கு உட்பட்ட இந்தன ஆற்றுப் பகுதிக்கு அருகில் 11 கிராம் 500 மில்லி கிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் மட்டக்குளி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The suspect has been arrested during a raid on a confidential information received by a group of officials of the Colombo North Police Criminal Investigation Division.
 
-மட்டக்குளி பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The arrested suspect is a 60 -year -old from Colombo - Mattakkuli.
 
-...
+Similarly, a suspect has been arrested by the Mattakkuli police with 11 grams of heroin near the Mattakkuli police division.
+
+The suspect was arrested during a roundup of confidential information received by the Mattakkuli police station.
+
+The arrested suspect is a 30 -year -old from Colombo -Mattakkuli.
+
+◼️
 
 [Data](articles/1890cb9b.json)
+
+[Extended Data](ext_articles/1890cb9b.ext.json)
 
 ---
 
@@ -258,25 +266,31 @@ Since then, PPP leader Han Dong-hoon has urged party members to vote for impeach
 
 ---
 
-### அரிசியின் விலையில் வீழ்ச்சி - தொடரும் சோதனை நடவடிக்கைகள்!
+### Falling at the price of rice - continuing testing!
 
 *2024-12-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201234) · `ta`
 
-நாடளாவிய ரீதியில் அரிசியின் விலை தொடர்பான சோதனை நடவடிக்கைகள் தொடர்ந்து மேற்கொள்ளப்பட்டு வருவதாக நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+Sri Lanka's Consumer Affairs Authority continues nationwide raids on rice prices. Director Asela Bandara reports 75 operations completed. Imported rice stockpile and reduced paddy prices contribute to lower costs. State Trade Corporation arranging import of 5,200 metric tonnes, with first shipment arriving on 19th.
 
-இந்நிலையில், நாடளாவிய ரீதியில் இதுவரை சுமார் 75 சுற்றிவளைப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாக நுகர்வோர் விவகார அதிகார சபையின் பணிப்பாளர் அசேல பண்டார தெரிவித்தார்.
+🟩
 
-இனிவரும் காலங்களில் வார இறுதி நாட்களிலும் விடுமுறை நாட்களிலும் சுற்றிவளைப்பு நடவடிக்கைகளை மேற்கொள்ளுமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+The Consumer Affairs Authority (CAA) has said that raids on the price of rice are ongoing throughout the country.
 
-மேலும், இறக்குமதி செய்யப்பட்ட அரிசி கையிருப்பு சந்தைக்கு வருவதால் அரிசியின் விலை குறைந்துள்ளதோடு, சில பகுதிகளில் நெல் விலையும் குறைவடைந்துள்ளதாக தகவல்கள் கிடைக்கப்பெறுவதாக அவர் தெரிவித்தார்.
+The Director of the Consumer Affairs Authority Asela Bandara said that about 75 rounds of operations are being carried out across the country.
 
-இதேவேளை, அரச (பொது) வர்த்தக கூட்டுத்தாபனத்தினால் 5,200 மெற்றிக் தொன் நாட்டு அரிசியை இறக்குமதி செய்வதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+He said that the relevant authorities have been instructed to carry out circulars on weekends and holidays in the future.
 
-அதன்படி, இறக்குமதி செய்யப்படும் நாட்டரிசியின் முதல் தொகுதி இம்மாதம் 19ஆம் திகதி இலங்கை வரவுள்ளதாக தெரிவிக்கப்படுகிறது.
+He also said that the price of rice has been reduced due to the imported rice stockpile and the price of paddy has been reduced in some areas.
+
+Meanwhile, arrangements have been made to import 5,200 metric tonnes of rice by the State (General) Trade Corporation.
+
+Accordingly, the first block of the imported Nadarisi is due to arrive Sri Lanka on the 19th of this month.
 
 ◼️
 
 [Data](articles/a1046f54.json)
+
+[Extended Data](ext_articles/a1046f54.ext.json)
 
 ---
 
@@ -768,6 +782,24 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
+### Heavenly Duties Or Hellish Efforts?
+
+*2024-12-14 07:44:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/heavenly-duties-or-hellish-efforts/) · `en`
+
+“The world is what it is, men who are nothing, who allow themselves to be nothing, have no place in it” ~ VS Naipaul
+
+I have a distant memory of reading a light-hearted description of heaven and hell, in common belief an inevitable destination for all earthlings; those who lead unsullied lives are directed to the former; botch your book, the man is hightailed to hell.
+
+These two places are obviously ‘constructs’ of the human imagination, by human standards and outlook, the ecstasies promised and the tortures threatened are not only of human concept but are also distinctly period defined (are there personal computers in either place?). There cannot be two more dissimilar destinations in the after-life, heaven is a joyous place of endless pleasures and creature comforts, while hell is all agony, suffering and torture.
+
+In this piece I read, the definition of heaven and hell was determined by racial differences, stereotyping the occupants in the two places.
+
+...
+
+[Data](articles/2d0d8d23.json)
+
+---
+
 ### Reach related raid
 
 *2024-12-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204356) · `si`
@@ -793,6 +825,20 @@ It is reported that the first consignment is due to be received on the 19th of t
 [Data](articles/c5fb733e.json)
 
 [Extended Data](ext_articles/c5fb733e.ext.json)
+
+---
+
+### Rediscovering The Good In Religion This Holiday Season
+
+*2024-12-14 07:23:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rediscovering-the-good-in-religion-this-holiday-season/) · `en`
+
+Every day, headlines are filled with words like deposed, disgraced, defrocked, or displaced—often tied to controversies involving religious authorities or the struggles of various religious groups. Even for someone like me, skeptical of religion in general, this overwhelming negativity seems suspiciously one-sided. How could something that so much of humanity believes in be reduced to nothing but conflict and failure?
+
+Before seeking the good in religions, perhaps we must first confront where we’ve gone wrong. It seems evident that many religions have been transformed into tribal factions vying for power and dominance, losing sight of their core purpose: self-improvement, introspection, salvation, and the pursuit of higher ideals. Instead of fostering unity or moral growth, religion has often become a weapon—used to rally against perceived enemies, threaten with damnation, and fortify an “us versus them” mentality.
+
+...
+
+[Data](articles/86d1c84e.json)
 
 ---
 
@@ -2413,57 +2459,5 @@ Against this backdrop, representatives of civil organizations have lodged a comp
 [Data](articles/f381e015.json)
 
 [Extended Data](ext_articles/f381e015.ext.json)
-
----
-
-### Asoka Ranwala resigns as Speaker of Parliament
-
-*2024-12-13 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104220/asoka-ranwala-resigns-as-speaker-of-parliament) · `en`
-
-The Speaker of Sri Lanka’s Parliament Asoka Ranwala has resigned from his position, in the wake of the controversy surrounding his educational qualifications.
-
-The NPP Parliamentarian confirmed this decision issuing a special statement today (13).
-
-In his statement, the parliamentarian noted that an issue concerning his educational qualifications had surfaced over the past couple of days. Ranwala assured that he has never made a false statement regarding his educational qualifications at any point.
-
-However, the MP stated that at this moment he is not in possession of certain documents required to confirm his educational qualifications and that while he has requested for them from the relevant institutions, it is difficult to urgently produce these documents at this moment.
-
-...
-
-[Data](articles/4f433364.json)
-
-[Extended Data](ext_articles/4f433364.ext.json)
-
----
-
-### Ashoka Ranwala resigns
-
-*2024-12-13 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204346) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ashoka Ranwala resigns due to educational qualification issues. He claims no false statements made but needs documents proving his education. The University of Vision Institution of Japan is mentioned, as well as his graduation from the University of Sri Lanka. Despite this, he has decided to resign from his position as donor.
-
-🟩
-
-Mr. Asoka Ranwala has decided to resign from the post.
-
-He has informed him in a letter that has raised a problem with his educational qualifications in the past few days, but he has not made any false statement.
-
-However, he has to obtain certain documents to ensure that education.
-
-However, he says that these documents are difficult to present at the moment.
-
-He has also informed the University of Vision Institution of Japan, who has graduated from the University of Vision of Japan, who has graduated from the University of Sri Lanka.
-
-However, he has informed the government that the government could not embarrass the government, regardless of the situation and the people have decided to resign from the post of donor.
-
-◼️
-
-[Data](articles/02975bab.json)
-
-[Extended Data](ext_articles/02975bab.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 12:42:50**
+As of **2024-12-14 13:01:05**
 
 ## Newspaper Stats
 
-*Scraped **60,124** Articles*
+*Scraped **60,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,82 @@ economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
-adaderanalk | 7,322
+adaderanalk | 7,323
 tamilmirrorlk | 8,596
-virakesarilk | 9,868
-adaderanasinhalalk | 10,393
+virakesarilk | 9,870
+adaderanasinhalalk | 10,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,077 (99.9%) of 60,124 articles have been extended.
+60,079 (99.9%) of 60,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### යතුරුපැදි අනතුරකින් අයෙකු මරුට
+### මිදිගම රුවන්ට මාංචු යතුරත් දීමට ගිය අයෙකු කොටුවෙයි
+
+*2024-12-14 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204365) · `si`
+
+කොළඹ නව මැගසින් බන්ධනාගාරයේ රඳවා සිටින ප්‍රබල පාතාල කල්ලි නායකයෙකු වන මිදිගම රුවන් නැමැත්තාට රහසිගතව මාංචු කුට්ටමක යතුරක් ලබාදීමට පැමිණි පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+නව මැගසින් බන්ධනාගාරයේ රඳවා සිටින විශේෂ ගණයේ සැකකරුවකු වන මිදිගම රුවන් නැමැති අපරාධකරුව බැලීම සඳහා පසුගිය 12 වනදා පස්වරු 3.30ට පමණ අමුත්තන් පෙන්වන ස්ථානයට යුවලක් පැමිණ තිබුණි.
+
+ඒ අතර සිටි පිරිමි පුද්ගලයා සම්බන්ධයෙන් ඇතිවූ සැකයක් මත බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකා නිලධාරීන්  ඔහු පරීක්ෂා කරනු ලැබීය.
+
+එහිදී ඔහුගේ මුදල් පසුම්බිය තුළ සූක්ෂම අයුරින් සඟවා තිබූ මාංචු යතුරක් හමුව තිබේ.
+
+එහිදී අනාවරණ වී ඇත්තතේ ඔහු සමග පැමිණි කාන්තාව මිදිගම රුවන් සමග සමීප සබඳතාවක් පවත්වා ඇති බවය.
+
+ඒ අනුව අත්අඩංගුවට ගත් සැකකරු වැඩිදුර විමර්ශන සඳහා බොරැල්ල පොලිසියට භාරදී තිබේ.
+
+ඔහුගෙන් සිදුකළ මූලික ප්‍රශ්න කිරීම්වලදී ඔහු පවසා ඇත්තේ, තමන් කලක් පොලිස් සේවයේ නිරත වූවකු බවය.
+
+◼️
+
+[Data](articles/bd2af830.json)
+
+---
+
+### Over 300,000 Sri Lankans left for foreign employment in 2024
+
+*2024-12-14 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104233/over-300000-sri-lankans-left-for-foreign-employment-in-2024) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) reports that in 2024, the number of Sri Lankans migrant workers who have travelled overseas for employment surpassed 300,000, reaching 300,162 as of December 13.
+
+This marks the second time in the past decade that such high numbers have been recorded, with a previous high of 310,948 migrant workers in 2022.
+
+Issuing a statement, the SLBFE emphasized that, a notable increase has been observed in the proportion of male migrant workers, which now stands at 60% (177,804 males), while 40% of the total workforce sent abroad were women (122,358). Of those going abroad, 184,140 went through self-basic, while 116,022 went through employment agencies.
+
+...
+
+[Data](articles/dea4eb72.json)
+
+---
+
+### Man dies in motorcycle accident
 
 *2024-12-14 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204364) · `si`
 
-අංක තහඩු නොමැති යතුරුපැදියක් පැදවූ පුද්ගලයෙකු බෝකුන්දර නිවන්තිඩිය ප්‍රදේශයේදී ලොරියක ගැටී ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.
+Motorcycle rider killed in collision with truck in Bokundara. Victim identified as 30-year-old from Kahatagahawaththa. Police investigating cause of accident.
 
-මෙලෙස මියගොස් ඇත්තේ වේරහැර ගංගාරාම කහටගහවත්ත ප්‍රදේශයේ පදිංචිව සිටි මදුරංග අසිත ප්‍රනාන්දු පෙරේරා නම් 30 හැවිරිදි අයෙකි.
+🟩
 
-මියගිය පුද්ගලයා යතුරුපැදියෙන් මහරගම දෙස සිට බෝකුන්දර දෙසට පැමිණීමේදී ඔහුගෙන් යතුරුපැදිය ගිලිහී ඉදිරියෙන් පැමිණි ලොරි රථයේ ගැටී තිබේ.
+Bakundara was hit by a lorry in a lorry in the area of ​​Bokundara, a man who was riding a motorcycle without number plates.
 
-අනතුරට පත් යතුරුපැදිය මෙරට ලියාපදිංචි කළ නොහැකි අධිබල ධාරිතාවයෙන් යුත් යතුරුපැදියක් බවට පොලීසිය සැක කරන අතර ඒ සම්බන්ධව විමර්ශන ක්‍රියාත්මක කර ඇතැයිද පොලීසිය පවසයි.
+The victim was a 30 year old resident of Kahatagahawaththa, Werahera.
+
+The motorcycle topple from the motorcycle to Bokundara, the motorcycle was hit by the lorry.
+
+The police say that the accident is a ridden adjustment motorcycle in the country and the investigations have been implemented in this regard.
 
 ◼️
 
 [Data](articles/f6ab0d49.json)
+
+[Extended Data](ext_articles/f6ab0d49.ext.json)
 
 ---
 
@@ -71,6 +117,28 @@ However, the government will reach the final decision in a few days.
 [Data](articles/cd19eadf.json)
 
 [Extended Data](ext_articles/cd19eadf.ext.json)
+
+---
+
+### மட்டக்குளியில் ஐஸ் , ஹெரோயினுடன் இருவர் கைது !
+
+*2024-12-14 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201239) · `ta`
+
+கொழும்பு - மட்டக்குளி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதிகளில் மேற்கொள்ளப்ட்ட இரு சுற்றிவளைப்புக்களில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருட்களுடன் இரண்டு சந்தேக நபர்கள் நேற்று வெள்ளிக்கிழமை (13) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+அதன்படி, மட்டக்குளி பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் 10 கிராம் 200 மில்லிகிராம் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கொழும்பு வடக்கு பொலிஸ் குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசியத் தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு - மட்டக்குளி பிரதேசத்தைச் சேர்ந்த 60 வயதுடையவர் ஆவார்.
+
+இதேவளை , மட்டக்குளி பொலிஸ் பிரிவுக்கு உட்பட்ட இந்தன ஆற்றுப் பகுதிக்கு அருகில் 11 கிராம் 500 மில்லி கிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் மட்டக்குளி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+மட்டக்குளி பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/1890cb9b.json)
 
 ---
 
@@ -178,6 +246,28 @@ Since then, PPP leader Han Dong-hoon has urged party members to vote for impeach
 
 ---
 
+### அரிசியின் விலையில் வீழ்ச்சி - தொடரும் சோதனை நடவடிக்கைகள்!
+
+*2024-12-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201234) · `ta`
+
+நாடளாவிய ரீதியில் அரிசியின் விலை தொடர்பான சோதனை நடவடிக்கைகள் தொடர்ந்து மேற்கொள்ளப்பட்டு வருவதாக நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+
+இந்நிலையில், நாடளாவிய ரீதியில் இதுவரை சுமார் 75 சுற்றிவளைப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாக நுகர்வோர் விவகார அதிகார சபையின் பணிப்பாளர் அசேல பண்டார தெரிவித்தார்.
+
+இனிவரும் காலங்களில் வார இறுதி நாட்களிலும் விடுமுறை நாட்களிலும் சுற்றிவளைப்பு நடவடிக்கைகளை மேற்கொள்ளுமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+
+மேலும், இறக்குமதி செய்யப்பட்ட அரிசி கையிருப்பு சந்தைக்கு வருவதால் அரிசியின் விலை குறைந்துள்ளதோடு, சில பகுதிகளில் நெல் விலையும் குறைவடைந்துள்ளதாக தகவல்கள் கிடைக்கப்பெறுவதாக அவர் தெரிவித்தார்.
+
+இதேவேளை, அரச (பொது) வர்த்தக கூட்டுத்தாபனத்தினால் 5,200 மெற்றிக் தொன் நாட்டு அரிசியை இறக்குமதி செய்வதற்கான ஏற்பாடுகள் செய்யப்பட்டுள்ளன.
+
+அதன்படி, இறக்குமதி செய்யப்படும் நாட்டரிசியின் முதல் தொகுதி இம்மாதம் 19ஆம் திகதி இலங்கை வரவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/a1046f54.json)
+
+---
+
 ### Suspect arrested with stock of commercial explosives in Punewa
 
 *2024-12-14 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104231/suspect-arrested-with-stock-of-commercial-explosives-in-punewa) · `en`
@@ -261,6 +351,8 @@ If the President accepts the Speaker’s resignation, a new Speaker must be elec
 ◼️
 
 [Data](articles/169851d2.json)
+
+[Extended Data](ext_articles/169851d2.ext.json)
 
 ---
 
@@ -2361,103 +2453,5 @@ However, he has informed the government that the government could not embarrass 
 [Data](articles/02975bab.json)
 
 [Extended Data](ext_articles/02975bab.ext.json)
-
----
-
-### Boundary journalists urged to conduct investigations into journalist Prageeth Eknaligoda's abduction!
-
-*2024-12-13 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/201169) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Journalists demand probe into Prageeth Eknaligoda's 2010 abduction. New govt urges transparency. Case resumes against 9 military intel officers. Borderless journalists call for accountability, witness protection. Family waits 14 years for truth.
-
-🟩
-
-The new government headed by President Anuragumara Dissanayake has urged the new government (Ripoters Vittled Porters), which is based on France, to ensure that journalist Prageeth Eknaligoda's disappearance is being carried out in a sides and transparent manner.
-
-Prageeth Eknaligoda, who worked as a cartoonist and a political paragraph at the 'Lanka E-News' website, was abducted in Homagama on 24th January 2010.
-
-The court proceedings regarding nine military intelligence officers suspected of being involved in his abduction were resumed on the 6th of this month.
-
-In this backdrop, the bordering journalists' organization, which was elected president last September, pointed out that Dissanayake, who was elected president last September, pointed out that the ongoing investigation into the murdered and abducted journalists for political purposes would be completed and promised to ensure accountability.
-
-...
-
-[Data](articles/3609cbcb.json)
-
-[Extended Data](ext_articles/3609cbcb.ext.json)
-
----
-
-### Stock market reported today
-
-*2024-12-13 17:11:02* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-වාර්තා-තියයි/11-413620) · `si`
-
-Colombo Stock Exchange: Overall price index rose 1.21% to 14 units. S. And Potex increased 1.21% to 4244 units.
-
-🟩
-
-The total price index in the Colombo Stock Exchange reported today. Accordingly, the overall price index increased by 169.5 units (1.21 percent) to 14 units.
-
-Meanwhile S. The And Potex also increased by 57.9 units (1.21 percent) to 4244 units.
-
-◼️
-
-[Data](articles/68fa42c6.json)
-
-[Extended Data](ext_articles/68fa42c6.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 290.15/30 to dollar, bonds down
-
-*2024-12-13 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-15-30-to-dollar-bonds-down-194158/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.15/30 to the US dollar on Friday from 290.20/35 to the US dollar on Thursday, dealers said, while bond yields were slightly down.
-
-A bond maturing on 15.12.2026 closed at 9.35/50 percent, down from 9.40/50 percent.
-
-A bond maturing on 15.10.2027 closed at 9.95/10.10 percent, down from 9.95/10.05 percent.
-
-A bond maturing on 15.03.2028 closed at 10.20/30 percent, down from 10.20/35 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.70/80 percent. (Colombo/Dec13/2024)
-
-◼️
-
-[Data](articles/7454af70.json)
-
-[Extended Data](ext_articles/7454af70.ext.json)
-
----
-
-### An official announcement on President's visit to India
-
-*2024-12-13 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204345) · `si`
-
-President Kumara Dissanayake visits India Dec 15-17 at Indian President Droupadi MurMu's invitation. First foreign tour after election. To meet PM Narendra Modi, attend Delhi business meet for investment promotion. Also visiting Buddhagaya.
-
-🟩
-
-The External Affairs Ministry announced that President Kumara Dissanayake visits India from December 15 to 17.
-
-The President joins the visit by the invitation of the Indian President's Droupadi MurMu.
-
-This is the first foreign tour of Anura Kumara Dissanayake after elections as the president.
-
-At that visit, Indian Prime Minister is to discuss bilaterally important matters with Narendra Moodi.
-
-The President is also due to join a business meet available in Delhi to promote investment and commercial relations between the two countries.
-
-The High Commission in Colombo announced his visit to Buddhagaya.
-
-◼️
-
-[Data](articles/3f3c145d.json)
-
-[Extended Data](ext_articles/3f3c145d.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 10:42:41**
+As of **2024-12-14 11:14:10**
 
 ## Newspaper Stats
 
-*Scraped **60,108** Articles*
+*Scraped **60,111** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 450
 colombotelegraphcom | 607
-bbccomsinhala | 629
+bbccomsinhala | 630
 islandlk | 3,628
 economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,703
+adalk | 5,705
 adaderanalk | 7,318
 tamilmirrorlk | 8,593
 virakesarilk | 9,868
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,061 (99.9%) of 60,108 articles have been extended.
+60,066 (99.9%) of 60,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### Indian locomotives launched in Sri Lanka
+
+*2024-12-14 10:06:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-දුම්රිය-එන්ජින්-ලංකාවට-වාසිදායකයි/11-413623) · `si`
+
+India provides 22 locomotives to Sri Lanka. They were manufactured in India and gifted to Sri Lanka. The locomotives will be used for about 12 years. The Railway Department claims they can maintain the 9 station engines. Some misinformation exists about these railway engines.
+
+🟩
+
+The Railway Department says Sri Lanka has announced that there is a shortage of 10 buses and more weights in Sri Lanka.
+
+India has agreed to provide about 22 Indian trains, similar to Sri Lanka, who has been removed from the use of India and has been produced in Sri Lanka free of charge.
+
+The last cabinet was also present at the last Cabinet.. However, the Railway Department announces that many false propaganda regarding these railway engines will propagate.
+
+The Railway Department states that Sri Lanka is used for about 12 years and will be used by Sri Lanka and will be used by Sri Lanka.
+
+The Department also said that the Railway Department of Railways has 9 station engines and the railway staff is capable of maintaining them.
+
+Since India is enacted its train service, the station engines running out of the use of dictional is being used.
+
+◼️
+
+[Data](articles/d1a46706.json)
+
+[Extended Data](ext_articles/d1a46706.ext.json)
+
+---
 
 ### Imad Wasim retires from international cricket
 
@@ -272,27 +300,39 @@ Recognizing the priorities of the new government, the Bill & Melinda Gates Found
 
 [Data](articles/da0683fa.json)
 
+[Extended Data](ext_articles/da0683fa.ext.json)
+
 ---
 
-### පුරප්පාඩු වූ කථානායක තනතුරට සිදුවන දේ
+### What happens to the post of vacant Speaker
 
 *2024-12-14 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204358) · `si`
 
-අශෝක රංවල මහතාගේ ඉල්ලා අස්වීමෙන් පුරපුපාඩු වූ කථානායක ධුරය සඳහා නව කථානායකවරයෙකු පත්කර කරගැනීම එළැඹෙන 17 වැනිදා සිදුකළ යුතු බව දේශපාලන නිරීක්ෂකයින් පවසයි.
+Here's a summary of 200 characters:
 
-එළැඹෙන 17 වැනිදා පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එදින නව කථානායකවරයෙකු පත්කර ගැනීමට අදාළ නාම යෝජනා ඉදිරිපත්කළ යුතු බව සඳහන් වේ.
 
-මේ අතර මෙරට පාර්ලිමේන්තු ඉතිහාසයේ කථානායකවරයෙකු ඉල්ලා අස්වූ පළමු අවස්ථාව මෙය වන බව මහාචාර්ය ප්‍රතිභා මහනාමහේවා මහතා පවසයි.
 
-ඔහු පැවසුවේ අදාළ ඉල්ලා අස්වීමේ නිවේදනය කථානායකවරයා විසින් පාර්ලිමේන්තු මහලේකම්වරිය වෙත හෝ ජනාධිපතිවරයා වෙත ලබා දිය හැකි බවය.
+Vacant Speaker position: Nominations due 17th. First Speaker resignation in history. President decides on acceptance. If accepted, new Speaker selected via vote or nomination under normal law.
 
-ජනාධිපතිවරයාට ඉල්ලා අස්වීමේ ලිපිය ලැබීමෙන් පසු ජනාධිපතිවරයාට කථානායකවරයාගේ ඉල්ලා අස්වීමේ ලිපිය සම්බන්ධව තීරණයක් ගත හැකි බවත් ඔහු පැවසීය.
+🟩
 
-යම් අයුරකින් ජනාධිපතිවරයා විසින් කථානායකවරයාගේ ඉල්ලා අස්වීම භාර ගන්නේ නම් නැවත පාර්ලිමේන්තුවෙන් නව කථානායකවරයෙක් තෝරා පත් කර ගත යුතු අතර එය සාමාන්‍ය නීතිය යටතේ ඡන්දයකින් හෝ නාමයෝජනාවකින් එම පත්වීම තෝරාගත හැකි බවද ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+Political observers say that the resignation of Mr. Asoka Ranwala should be appointed to the post of a new Speaker on the 17th.
+
+The Parliament will meet on the 17th and the nominations relating to appoint a new Speaker should be submitted.
+
+Meanwhile, Prof. Prathibha Mahanamahewa says that this is the first time a Speaker has resigned in the history of the country.
+
+He said that the Speaker could give the Speaker to the Secretary General of Parliament or the President.
+
+After receiving the letter of resignation, the President could decide on the resignation letter of the Speaker.
+
+He further stated that if the president will accept the resignation of the Speaker, he will select a new Speaker and selecting a vote or nomination under normal law.
 
 ◼️
 
 [Data](articles/f4a7e24e.json)
+
+[Extended Data](ext_articles/f4a7e24e.ext.json)
 
 ---
 
@@ -311,6 +351,8 @@ Meanwhile, the Sri Lanka State Trading (General) Corporation has taken measures 
 ◼️
 
 [Data](articles/cbd9ee4d.json)
+
+[Extended Data](ext_articles/cbd9ee4d.ext.json)
 
 ---
 
@@ -385,6 +427,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/ce192e1a.json)
+
+[Extended Data](ext_articles/ce192e1a.ext.json)
 
 ---
 
@@ -2429,27 +2473,5 @@ In response, the magistrate gave permission to investigate the two men in police
 [Data](articles/1f7f243e.json)
 
 [Extended Data](ext_articles/1f7f243e.ext.json)
-
----
-
-### Report where all stock price index
-
-*2024-12-13 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204341) · `si`
-
-Colombo Stock Exchange: Index reaches 14,205.34, rising 169.53 points today.
-
-🟩
-
-All the stock price index in the Colombo Stock Exchange increased to record today (13).
-
-When the end of this day, its value was recorded as 14,205.34 units.
-
-In today's day, all stock price index increased by 169.53.
-
-◼️
-
-[Data](articles/ac0008b3.json)
-
-[Extended Data](ext_articles/ac0008b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 21:12:56**
+As of **2024-12-14 21:01:23**
 
 ## Newspaper Stats
 
-*Scraped **60,171** Articles*
+*Scraped **60,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,707
 adaderanalk | 7,330
-tamilmirrorlk | 8,602
+tamilmirrorlk | 8,601
 virakesarilk | 9,880
 adaderanasinhalalk | 10,406
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 10,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,140 (99.9%) of 60,171 articles have been extended.
+60,140 (100.0%) of 60,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
-
-### இறக்குமதி செய்யப்பட்ட அரிசியை மீள் ஏற்றுமதி செய்ய உத்தரவு
-
-*2024-12-14 20:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செய்யப்பட்ட-அரிசியை-மீள்-ஏற்றுமதி-செய்ய-உத்தரவு/175-348725) · `ta`
-
-தனியார் இறக்குமதியாளர்களால் இறக்குமதி செய்யப்பட்ட அரிசித் தொகையில் சுமார் 75,000 கிலோ அரிசி பாவனைக்கு பொருத்தமற்றது என்பது தெரியவந்துள்ளது.
-
-நாட்டுக்கு கொண்டு வரப்படும் அரிசி சுங்கத்திலிருந்து விடுவிக்கப்படுவதற்கு முன்னர் சுகாதார அமைச்சின் உணவு மற்றும் மருந்து பரிசோதகர்களால் சோதனை மேற்கொள்ளப்படும்.
-
-அதன்படி, பரிசோதனைகளின் போது, ​​இறக்குமதி செய்யப்பட்ட 3 கொள்கலன்களில் இருந்த 75,000 கிலோ அரிசி தொகையில் இரண்டு கொள்கலன்களில் உள்ள அரிசியில் வண்டுகள் இருந்ததாகவும், மற்றைய கொள்கலனில் இருந்த அரிசியில் உற்பத்தி திகதி அடங்கிய பழைய லேபிள்களின் மேல் புதிய லேபிள் ஒட்டப்பட்டிருந்ததால், அந்த கொள்கலன்களை சுங்கத்தில் இருந்து விடுவிக்க சுகாதாரத்துறை அனுமதி வழங்கவில்லை.
-
-நாட்டில் நிலவும் அரிசி தட்டுப்பாட்டுக்கு தீர்வாக கடந்த 4 ஆம் திகதி முதல் அரிசியை இறக்குமதி செய்வதற்கு தனியார் இறக்குமதியாளர்களுக்கு அரசாங்கம் அனுமதி வழங்கியிருந்தது.
-
-...
-
-[Data](articles/4a264cda.json)
-
----
 
 ### මාලිගාකන්දේ වෙඩිතැබීම ගැන තවත් තොරතුරු
 
@@ -2423,5 +2405,35 @@ Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if th
 [Data](articles/6d359c75.json)
 
 [Extended Data](ext_articles/6d359c75.ext.json)
+
+---
+
+### Police announced on security of former President
+
+*2024-12-13 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204353) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Police announce review of former president security costs. Government committee assessed presidential protection expenses. Number of security officers for ex-presidents like Mahinda Rajapaksa may be reduced."
+
+🟩
+
+Police Headquarters have issued a special announcement regarding the removal of former presidents.
+
+It states that the committee appointed by the government to act on the official appointment of the officers of the government, the security assessment records of former presidents and the cost of Sri Lanka's expenditure has been reviewed.
+
+The police have also observed that the expenditure of the police officers who are assigned to cover the security of former presidents have been inspected.
+
+The cost of Rs.
+
+Accordingly, the number of security officers including President Mahinda Rajapaksa and former presidents have been revised and the former President Mahinda Rajapaksa will be able to reduce or increase the number of officers and reduce the number of officers.The members of armed services have also been deployed.
+
+◼️
+
+[Data](articles/d6f0aada.json)
+
+[Extended Data](ext_articles/d6f0aada.ext.json)
 
 ---

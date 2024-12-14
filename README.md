@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 20:26:22**
+As of **2024-12-14 19:03:20**
 
 ## Newspaper Stats
 
-*Scraped **60,163** Articles*
+*Scraped **60,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,120 +13,40 @@ dbsjeyarajcom | 450
 colombotelegraphcom | 609
 bbccomsinhala | 631
 islandlk | 3,632
-economynextcom | 3,668
+economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,706
+adalk | 5,705
 adaderanalk | 7,329
-tamilmirrorlk | 8,601
+tamilmirrorlk | 8,600
 virakesarilk | 9,878
-adaderanasinhalalk | 10,403
+adaderanasinhalalk | 10,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,136 (100.0%) of 60,163 articles have been extended.
+60,122 (99.9%) of 60,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### Bill & Melinda Gates Foundation to expand support in Sri Lanka
-
-*2024-12-14 20:00:00* · [`economynextcom`](https://economynext.com/bill-melinda-gates-foundation-to-expand-support-in-sri-lanka-194298/) · `en`
-
-ECONOMYNEXT – The Bill and Melinda Gates Foundation has agreed to provide financial and technical assistance for programs in Sri Lanka, the president’s media division said.
-
-The programs include nutrition projects, school meal programs for children, agriculture sector modernization project, digitalization efforts, and livestock development.
-
-Officials from the foundation met Professor Anil Jayantha Fernando, Minister of Labour and Deputy Minister of Economic Development at the Presidential Secretariat on Friday.
-
-“The Bill & Melinda Gates Foundation expressed its readiness to provide support whenever needed,” the PMD said in a statement. (Colombo/Dec14/2024)
-
-◼️
-
-[Data](articles/cdc1fce7.json)
-
-[Extended Data](ext_articles/cdc1fce7.ext.json)
-
----
-
-### Accident
-
-*2024-12-14 19:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-இருவர்-உயிரிழப்பு/175-348724) · `ta`
-
-Vehicle accident kills two, injures one on Kalpitiya-Palavi road. Police investigating collision between lorry and motorcycle. Driver arrested.
-
-🟩
-
-Two persons were killed and another injured in a vehicle accident last night in the Kalpitiya - Palavi main road, police said.
-
-Two people aged 36 and 28 from Kajuwatte area died and a 22 -year -old man is receiving treatment.
-
-Police said the accident occurred when a lorry collided with a motorcycle from Kalpitiya to Balavi on a motorbike from Balavi to Kalpitiya.
-
-The driver of the lorry has been arrested by the driver of the lorry and the police are conducting further investigations into the accident.. Remble
-
-◼️
-
-[Data](articles/f0555ad0.json)
-
-[Extended Data](ext_articles/f0555ad0.ext.json)
-
----
-
-### Central Committee Meeting of the TNA
+### போர்க்களமாக மாறிய தமிழரசுக் கட்சியின் மத்தியகுழுக் கூட்டம்
 
 *2024-12-14 18:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/போர்க்களமாக-மாறிய-தமிழரசுக்-கட்சியின்-மத்தியகுழுக்-கூட்டம்/72-348723) · `ta`
 
-TNA Central Committee meeting summary: Mavai Senathirajah arrives late, causing confusion. Sivamohan demands his presence, leading to heated exchanges. Meeting eventually starts after Senathirajah's arrival at 10:45 PM.
+தமிழரசுக்கட்சியின் மத்தியகுழுக்கூட்டம் இன்று இடம் பெற்ற நிலையில் மாவை சேனாதிராஜா வந்த பின்னர் கூட்டத்தை ஆரம்பிக்குமாறு முன்னாள் பாராளுமன்ற உறுப்பினர் சிவமோகன் கோரியமையால் கூட்டத்தில் குழப்பநிலை ஏற்பட்டது.
 
-🟩
+தமிழரசுக்கட்சியின் மத்தியகுழு கூட்டம் வவுனியாவில் அமைந்துள்ள தனியார் விருந்தினர் விடுதி ஒன்றில் காலை 10 மணிக்கு நடைபெறுவதற்கு ஏற்பாடுகள் செய்யப்பட்டிருந்தது.
 
-Former parliamentarian Sivamohan demanded that Mavai Senathirajah arrived after the Tamil National Party's central committee was held today.
+இதன்போது கூட்டத்தை ஆரம்பிப்பதற்கு செயலாளர் முற்பட்டார். அப்போது குறுக்கிட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் சி.சிவமோகன் கட்சியின் தலைவர் மாவை சேனாதிராஜா வருகை தராமல் கூட்டத்தை நடாத்த வேண்டாம் என தெரிவித்திருந்தார். இதனால் கூட்டத்தில்  குழப்பநிலை ஏற்பட்டது.
 
-Arrangements were made to take place at a private guest hostel in Vavuniya at 10 am.
-
-The Secretary sought to start the meeting. Former parliamentarian CC Sivamohan said that the party leader Mawai Senathirajah should not hold the meeting without attending the meeting.. This caused confusion in the meeting.
-
-He resigned from his head. So immediately to start the meeting. Chanakiyan said in a heavy tone.
-
-When Sivamohan asked him to make a phone call to Mau, "This is not a goal center, the party."Chanakyan replied that "this is not your hospital". Apart from him, some other members also asked the meeting to start immediately.
-
-Peter Ilancheliyan also said that if the meeting was headed by Senior Vice President, he would have to expel the confusion.
-
-Sivamohan's persistence in his position became a battlefield for a long time.
+இதன்போது அவர் பதவி விலகிவிட்டார் அவரின் தலைமையில் கூட்டம் நடித்த முடியாது. எனவே உடனடியாக கூட்டத்தை ஆரம்பிக்குமாறு இரா. சாணக்கியன் கடும் தொனியில் தெரிவித்தார்.
 
 ...
 
 [Data](articles/1b09cfb9.json)
-
-[Extended Data](ext_articles/1b09cfb9.ext.json)
-
----
-
-### Informs to export gulls garved
-
-*2024-12-14 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204376) · `si`
-
-Sri Lanka Customs orders exporters to ship 75,000 kg of rice in 3 containers. Two containers contain expired rice. Due to shortages, the government allows private imports. Rice is now being imported from India, with 2,300 metric tons arriving on the 4th.
-
-🟩
-
-Sri Lanka Customs has informed the importers to export 75,000 kilograms of rice in three imported containers by private importers.
-
-It has been revealed that two imported containers have been rice in rice and revealed that the old label of the rice in the other container was up to the expiry of the rice in the other container.
-
-As a result of the shortage of rice shortages, the government has been permitted to private importers to import rice.
-
-Accordingly, the rice is being imported from India and has received 2300 metric importers imported from the 4th of this month.
-
-◼️
-
-[Data](articles/f43d3321.json)
-
-[Extended Data](ext_articles/f43d3321.ext.json)
 
 ---
 
@@ -228,28 +148,6 @@ However, his relatives complained to the police as he was not returning home.
 
 ---
 
-### Sri Lanka President accepts Asoka Ranwala’s resignation as Speaker
-
-*2024-12-14 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-accepts-asoka-ranwalas-resignation-as-speaker-194294/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Kumara Dissanayake has accepted the resignation of speaker Asoka Ranwala, the parliament said.
-
-The Secretary to the President has informed the Secretary General of Parliament, Kushani Rohanadeera, in writing that the President has accepted the resignation of the speaker, a statement said.
-
-“In terms of Article 64(2) of the Constitution, if a Member holding office as the Speaker, Deputy Speaker or Deputy Chairman of a Committee resigns his office, he shall notify the President in writing,” the statement explained.
-
-“Accordingly, the Secretary to the President has given this written communication to the Secretary General of Parliament.”
-
-Ranwala resigned in the wake of an alleged fake doctorate he said he had earned from a Japanese university.
-
-◼️
-
-[Data](articles/72b77da0.json)
-
-[Extended Data](ext_articles/72b77da0.ext.json)
-
----
-
 ### Angle movie does not disappoint fans - actor Gunanidhi
 
 *2024-12-14 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201260) · `ta`
@@ -274,53 +172,35 @@ Following this, Gunanidhi, the hero of the film, said, “I heard a lot of stori
 
 ---
 
-### Anirudh extended his support for actor Shanmuga Pandian Vijayakanth
+### நடிகர் சண்முக பாண்டியன் விஜயகாந்துக்கு ஆதரவுக்கரம் நீட்டிய அனிருத்
 
 *2024-12-14 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201262) · `ta`
 
-Anirudh supports Shanmuka Pandian Vijayakanth in "Sadhiyan Thalavan". Film features Kasturi Raja, Yamini Chandar. Music by Ilaiyaraaja. Expected release Jan 10, 2024. Late Captain Vijayakanth appears via AI in final scene.
+நடிகர் சண்முக பாண்டியன் விஜயகாந்த் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'படை தலைவன்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி நட்சத்திர இசை அமைப்பாளரும் , இசை கலைஞருமான அனிருத் அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கும், சண்முக பாண்டியன் விஜயகாந்திற்கும் வாழ்த்து தெரிவித்திருக்கிறார்.
 
-🟩
+இயக்குநர் யூ .அன்பு இயக்கத்தில் உருவாகி வரும் 'படை தலைவன் 'எனும் திரைப்படத்தில் சண்முக பாண்டியன் விஜயகாந்த், கஸ்தூரி ராஜா, யாமினி சந்தர், முனீஸ்காந்த், கருடா ராம் , ரிஷி,  ஏ. வெங்கடேஷ், யூகி சேது,  ஸ்ரீ ஜித் ரவி, அருள்தாஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-Actor Shanmukha Pandian Vijayakanth has been released as the hero of the story of 'Sadhiyan Thalavan' which plays the hero of the story.. The leading star music composer and musician Anirudh posted it on his web page and congratulated the film crew and Shanmukha Pandian Vijayakanth.
-
-Shanmukha Pandiyan Vijayakanth, Kasturi Raja, Yamini Chandar, Muniskant, Garuda Ram, Rishi. Venkatesh, Yuki Sethu, Sri Jith Ravi, Arul Das and many others have been cast.
-
-S.. R. The film, which has been recorded by Satishkumar, has composed music 'Music Gnani' Ilayaraja.. The film is being produced by the film's Open Theater and Sumith Arts, which is being produced by producers A. Senthil Kumar and Sumith Saigal on behalf of the film companies.
-
-Elephant -Forest -related scenes are emotionally and brilliant in the preview of the 'Soldrama Thalavan' film, which is expected to be released on January 10, next year.
+எஸ். ஆர். சதீஷ்குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை ஞானி' இளையராஜா இசையமைத்திருக்கிறார். கிராமிய பின்னணியில் எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஓபன் தியேட்டர் மற்றும் சுமீத் ஆர்ட்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் ஏ.செந்தில் குமார் மற்றும் சுமீத் சைகல் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
 
 ...
 
 [Data](articles/16db70f1.json)
 
-[Extended Data](ext_articles/16db70f1.ext.json)
-
 ---
 
-### Sion Vikram starring 'Zion 63' update
+### சீயான் விக்ரம் நடிக்கும் 'சீயான் 63' அப்டேட்
 
 *2024-12-14 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201263) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+சர்வதேச அளவிலான திரைப்பட விருதுகளுக்கு அடையாளமும், அங்கீகாரமும் வழங்கும் இந்திய நட்சத்திர முகமான சீயான் விக்ரம் நடிப்பில் தயாராகும் 'சீயான் 63' படத்தை பற்றிய அதிகாரப்பூர்வமான அறிவிப்பு பிரத்யேக புகைப்படத்துடன் உற்சாகமாக வெளியிடப்பட்டிருக்கிறது.
 
+'மண்டேலா', 'மாவீரன்' ஆகிய படங்களில் மூலம் தமிழ் ரசிகர்களின் கவனத்தைக் கவர்ந்த படைப்பாளி மடோன் அஷ்வின் இயக்கத்தில் உருவாகும் 'சீயான் 63' என தற்காலிகமாக பெயரிடப்பட்டிருக்கும் படத்தில் 'சீயான்' விக்ரம் கதையின் நாயகனாக நடிக்கிறார்.
 
-
-"Sion Vikram stars in 'Zion 63', directed by Madon Ashwin. Produced by Arun Vishwa's Shanti Talkies, it's an action entertainer featuring Mandela and Maviran. The film has garnered international attention and fan excitement."
-
-🟩
-
-The official announcement of the film 'Seyan 63', which is ready to star in Indian star face Sion Vikram, has been enthusiastic photo with an exclusive photo of international film awards.
-
-'Mandela' and 'Maviran' are the hero of the story of 'Seyan' Vikram's story in the film 'Seyan 63', directed by Madon Ashwin, who has attracted the attention of Tamil fans.
-
-The film is being produced as an exercise entertainer and is produced by famous producer Arun Vishwa on behalf of Shanti Talkies.The official announcement has been released with a special photo. It has also been reported that the details of other actors, actresses and technicians working in the film will be officially released soon.
+எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை சாந்தி டாக்கீஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் அருண் விஷ்வா தயாரிக்கிறார்.  இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு பிரத்யேக புகைப்படத்துடன் வெளியிடப்பட்டிருக்கிறது. மேலும் படத்தில் பணியாற்றும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என்றும் தெரிவிக்கப்பட்டிருக்கிறது.
 
 ...
 
 [Data](articles/7e74703b.json)
-
-[Extended Data](ext_articles/7e74703b.ext.json)
 
 ---
 
@@ -346,35 +226,25 @@ The body was taken to the Nuwara Eliya District Hospital following the inquiry o
 
 ---
 
-### Guts from the country with a stock of rice
+### රටින් ගෙනආ සහල් තොගයක ගුල්ලන්
 
 *2024-12-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204374) · `si`
 
-Here's a summary in 200 characters:
+පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කළ බහාලුම් 3ක ඇති සහල් තොග පරිභෝජනයට නුසුදුසු සහල් බවට ආහාර හා ඖෂධ පරීක්ෂකවරුන් හඳුනාගෙන තිබේ.
 
+මෙලෙස දිවයිනට රැගෙන එන සහල් රේගුවෙන් නිදහස් කිරීමට පෙර සෞඛ්‍ය අමාත්‍යංශයේ ආහාර හා ඖෂධ පරීක්ෂකවරුන් විසින් පරික්ෂාවට ලක් කරනු ලබයි.
 
+ඒ අනුව සිදුකළ පරික්ෂා කිරීම්වලදී ආනයනය කළ බහාලුම් 03ක තිබු සහල් කිලෝග්‍රෑම් 75,000ක් පරිභෝජනයට නුසුදුසු බවට හඳුනාගෙන ඇත.
 
-Inspectors found 75,000 kg of rice in 3 containers unfit for consumption. Two containers had outdated labels, while one had unauthorized new labels. The rice was imported from India as part of a government-approved import program for private importers.
+ඒ අතරින් බහාලුම් දෙකක තිබු සහල්වල ගුල්ලන් සිට ඇති අතර අනෙක් බහාලුමේ තිබු සහල් උරවල නිෂ්පාදිත දිනය ඇතුළත් පැරණි ලේබලය මතම නව ලේබලයක් අලවා තිබිම හේතුවෙන් එම බහාලුම් සෞඛ්‍ය අංශ මගින් රේගුවෙන් නිදහස් කිරීමට අවසර ලබාදී නොමැත.
 
-🟩
+මෙරට සහල් හිඟයට පිළියමක් ලෙස, සහල් ආනයනය කිරීම සඳහා පෞද්ගලික ආනයනකරුවන්ට රජය ඉකුත් 04 වනදා සිට අවසර ලබාදී තිබුණි.
 
-Food and medicine inspectors have been identified as rice to rice in three imported containers by private importers.
-
-The Food and Drugs Inspectors of the Ministry of Health and Drugs are checked before the rice is being released from the island.
-
-Accordingly, the investigations carried out have been identified as unavailable to consume about 75,000 rice in three imported containers.
-
-Among them were rice in two containers and the old label included a new label in the other container was not authorized by the customs.
-
-The Government had permitted permission to private importers to import rice, as a remedy of rice.
-
-Accordingly, the rice is being imported from India and the Customs has received 2,300 metric importers imported from the 4th yesterday.
+ඒ අනුව මේ වනවිට ඉන්දියාවෙන් සහල් ආනයනය කෙරෙමින් පවතින අතර පසුගිය 4 වනදා සිට ඊයේ (13) දහවල් දක්වා පෞද්ගලික ආනයනකරුවන් ආනයනය කළ සහල් මෙට්‍රික්ටොන් 2,300ක් රේගුව වෙත ලැබී තිබුණි.
 
 ◼️
 
 [Data](articles/3a56d561.json)
-
-[Extended Data](ext_articles/3a56d561.ext.json)
 
 ---
 
@@ -476,8 +346,6 @@ It has been observed that the transferees of these vehicles have encountered sig
 
 [Data](articles/114f1aec.json)
 
-[Extended Data](ext_articles/114f1aec.ext.json)
-
 ---
 
 ### Woman injured in shooting near Maligakanda court
@@ -493,8 +361,6 @@ The shooting victim has been admitted to the Colombo National Hospital with crit
 ◼️
 
 [Data](articles/b9a8a7a7.json)
-
-[Extended Data](ext_articles/b9a8a7a7.ext.json)
 
 ---
 
@@ -1059,20 +925,6 @@ The arrested individual is a 53-year-old resident of the Matugama area.
 [Data](articles/8afb75ba.json)
 
 [Extended Data](ext_articles/8afb75ba.ext.json)
-
----
-
-### ශ්‍රි පාද වන්දනා වාරය ආරම්භ කෙරේ
-
-*2024-12-14 10:49:31* · [`adalk`](https://www.ada.lk/religion/ශ්‍රි-පාද-වන්දනා-වාරය-ආරම්භ-කෙරේ/4-413624) · `si`
-
-2024-2025 වසර සදහා ශ්‍රි පාද වන්දනා වාරය (14) දිනට යෙදුණු උදුවප් පොහෝ දිනයෙන් ආරම්භ කල බව ශ්‍රි පාදස්ථානාධිපති ඌව වෙල්ලස්ස විශ්ව විද්‍යාලයේ කුලපති, සබරගමු රත්නපුර මහ දිසාවේ ප්‍රධාන සංඝ නායක , පැල්මඩුලු දාගැබ් රජමහා විහාරාධිශ්වර , ධර්ම කිර්ති ශ්‍රි ත්‍රිපිටකාචාර්ය, ශ්‍රි සුමංගල රතනපාල ධම්මරක්ඛිතාභිධාන , බෙන්ගමුවේ ශ්‍රි ධම්මදින්න නාහිමියන් පැවසිය.
-
-පැල්මඩුල්ල ගල්පොත්තාවෙල රජමහා විහාරස්ථානයේ සිට රත්නපුර අවිස්සාවේල්ල හැටන් මාර්ගය ඔස්සේත් , බලංගොඩ බගවන්තලාව මාර්ගය ඔස්සෙත් , රත්නපුර පලාබද්දල සහ රජමාවත ඔස්සේ (14) දින අලුයම වැඩම කරවු සදාතුක කරඩුව , සමන් දේව ප්‍රතිමාව සහ දේවාභරණ ශ්‍රි පාද උඩ මළුව වෙත වඩම්මවා ශ්‍රි පාද පද්මය සුවද පැණින් දෝවනය කර ආගමික වතාවන් ගණනාවක් පැවැත්විමෙන් අනතුරුව (14) දින උදැසන යෙදුණු සුභ නැකතට වැඩම්ම වු සදාතුක කරඩුව , සමන් දේව ප්‍රතිමාව සහ දේවාභරණ ශ්‍රි පාද උඩ මළුවේ තැන්පත් කිරිමෙන් පසු ශ්‍රි පාද වන්දනා වාරය ආරම්භ කරනු ලැබුහ.
-
-...
-
-[Data](articles/96fb0384.json)
 
 ---
 
@@ -2431,5 +2283,129 @@ It has also lifted French borrowing costs and left a power vacuum in the heart o
 [Data](articles/f4405bfb.json)
 
 [Extended Data](ext_articles/f4405bfb.ext.json)
+
+---
+
+### Mahinda Rajapaksa has one-third of the former President's police protection
+
+*2024-12-13 20:55:37* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-පොලිස්-ආරක්ෂාවේ-වැය-බරින්-තුනෙන්-එකක්ම-මහින්ද-රාජපක්ෂට/11-413622) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former President Mahinda Rajapaksa now receives one-third of the police protection he had as president. The Police Headquarters stated this reduction does not affect his security.
+
+🟩
+
+According to a statement issued by the Police Headquarters said that the former President's officers will cost Rs.
+
+The police headquarters has been sufficient to employ the number of police officers who have been deployed to the security of the former Presidentials.
+
+The statement further states that his security is in no way to reduce the number of police officers deployed to the safety of Mr. Mahinda Rajapaksa.
+
+◼️
+
+[Data](articles/f15e3c47.json)
+
+[Extended Data](ext_articles/f15e3c47.ext.json)
+
+---
+
+### Fire near the Kangarama Vihara
+
+*2024-12-13 20:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராம-விகாரைக்கு-அருகில்-தீ/175-348711) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Fire at restaurant near Gangarama Vihara in Colombo caused by gas leak. Fire department controlled blaze; no injuries reported.
+
+🟩
+
+It is reported that a fire broke out at a restaurant operating in Perahera Mawatha near the Gangarama Vihara in Colombo.
+
+The fire was reportedly caused by a leak in the gas cylinder at the restaurant.
+
+The fire department said that the fire was brought under control and no one was injured. Remble
+
+◼️
+
+[Data](articles/5c92a2c3.json)
+
+[Extended Data](ext_articles/5c92a2c3.ext.json)
+
+---
+
+### Fire at a restaurant near Kangarama Vihara
+
+*2024-12-13 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201221) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Fire at restaurant near Gangarama Vihara: Gas leak causes blaze. Firefighters contain it; no injuries reported."
+
+🟩
+
+A fire has been reported at a restaurant operating in Perahera Mawatha near the Gangarama Vihara in Colombo.
+
+The fire was reportedly caused by a leak in the gas cylinder at the restaurant.
+
+The fire department said the fire had been brought under control and no one was injured.
+
+◼️
+
+[Data](articles/46c01811.json)
+
+[Extended Data](ext_articles/46c01811.ext.json)
+
+---
+
+### Change in the number of security officers
+
+*2024-12-13 20:43:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-உத்தியோகத்தர்களின்-எண்ணிக்கையில்-மாற்றம்/175-348710) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Security officer count reduced: Former presidents now have 60 officers. Highway Security Committee reviews and adjusts as needed.
+
+🟩
+
+Steps have been taken to convert the number of former presidents' security officers to 60.
+
+Police say the Highways Security Committee meets from time to time to correct security officers.
+
+◼️
+
+[Data](articles/dc041e5e.json)
+
+[Extended Data](ext_articles/dc041e5e.ext.json)
+
+---
+
+### There is no disruption in Mahinda's police protection
+
+*2024-12-13 20:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பொலிஸ்-பாதுகாப்பில்-இடையூறு-இல்லை/175-348709) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+No disruption in Mahinda Rajapaksa's police protection. Security detail includes police officers responsible for his safety.
+
+🟩
+
+Police said that the security of the former President Mahinda Rajapakse was also involved in the security of the police.
+
+◼️
+
+[Data](articles/0b57c0c1.json)
+
+[Extended Data](ext_articles/0b57c0c1.ext.json)
 
 ---

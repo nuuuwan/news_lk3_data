@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 13:27:00**
+As of **2024-12-14 14:15:40**
 
 ## Newspaper Stats
 
-*Scraped **60,130** Articles*
+*Scraped **60,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
 adaderanalk | 7,323
-tamilmirrorlk | 8,596
+tamilmirrorlk | 8,597
 virakesarilk | 9,870
-adaderanasinhalalk | 10,394
+adaderanasinhalalk | 10,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,083 (99.9%) of 60,130 articles have been extended.
+60,087 (99.9%) of 60,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### சபாநாயகரின் பதவி விலகலை ஜனாதிபதி ஏற்றுக்கொண்டார்
+
+*2024-12-14 14:07:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகரின்-பதவி-விலகலை-ஜனாதிபதி-ஏற்றுக்கொண்டார்/175-348720) · `ta`
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, இது தொடர்பில் பாராளுமன்ற செயலாளர் நாயகத்திற்கு எழுத்து மூலம் அறிவித்துள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/34c0d87d.json)
+
+---
+
+### A liquor store in Assad
+
+*2024-12-14 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204367) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Insurgents seized control of Syria weeks ago. Found massive liquor store in Damascus with thousands of bottles hidden in furniture & electronics. Suspected for export. US accused Assad of pharmaceutical production, but he denies involvement. Insurgent-controlled drug store seen as evidence of sugar trade claims.
+
+🟩
+
+The armed insurgents took control of Syria every week before he reverts over five decades.
+
+The country's rule is currently under the insurgents, and they have found a massive drug store in the capital of Damascus capital.
+
+There were thousands of alcohol that was hidden in furniture, electrical equipment and even in the fruit.
+
+It is suspected that the stock was prepared to export.
+
+Even US Americans have previously accused the Syria that the US Basher Al Assad Leading Capagogen Pharmaceutical Production and Sale.
+
+However, the Assad government denied allegations involving drug trade.
+
+Foreign reports have stated that the insurgent drug store is as evidence of the allegations of the Sugarror.
+
+Meanwhile, the Syrian people joined the first Friday on the first Friday who had come to the rebels after reaching out the first Friday, the Syrian people joined the first Friday.
+
+◼️
+
+[Data](articles/34699a2c.json)
+
+[Extended Data](ext_articles/34699a2c.ext.json)
+
+---
 
 ### One who went to the Midigama Ruwan arrested for his handcuff
 
@@ -798,6 +846,8 @@ In this piece I read, the definition of heaven and hell was determined by racial
 
 [Data](articles/2d0d8d23.json)
 
+[Extended Data](ext_articles/2d0d8d23.ext.json)
+
 ---
 
 ### Reach related raid
@@ -840,6 +890,8 @@ Before seeking the good in religions, perhaps we must first confront where we’
 
 [Data](articles/86d1c84e.json)
 
+[Extended Data](ext_articles/86d1c84e.ext.json)
+
 ---
 
 ### Today's full moon day is today
@@ -876,27 +928,39 @@ Fields of Uduppi Poya Day. M. The 120th Live Broadcasting of the Derana is sched
 
 ---
 
-### අශෝක රංවල: කතානායක ධූරයෙන්  ඉල්ලා අස්වීමේ තීරණය සහ  ජාතික ජනබලවේග ආණ්ඩුවේ ඉදිරි ගමන
+### Ashoka Ranwala: Decision to resign from the post of Speaker and national immigrants
 
 *2024-12-14 06:39:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36e5jj085wo) · `si`
 
-අශෝක රංවල: කතානායක ධූරයෙන්  ඉල්ලා අස්වීමේ තීරණය සහ  ජාතික ජනබලවේග ආණ්ඩුවේ ඉදිරි ගමන
+Here's a summary of 200 characters:
 
-කතානායක අශෝක රංවලගේ අධ්‍යාපන සුදුසුකම් පිළිබඳ මතු වූ ආන්දෝලනය,  පෙර නොවූ විරූ ජනවරමකින් බලයට පත් ජාතික ජනබලවේග ආණ්ඩුවට මසක් ගතවීමටත් පෙර තම කුළුදුල් ආණ්ඩුවේ සුජාතභාවය ආරක්ෂාකර ගැනීමට මුහුණ දීමට සිදු වූ අභියෝගාත්මක ලිට්මස් පරීක්ෂාවක් බවට පත්විය.
 
-ඒ දෙසැම්බර් 13 වන දා තම ධූරයෙන් ඉල්ලා අස්වීමට තිරණය කිරීමත් සමඟ ශ්‍රී ලංකා ඉතිහාසයේ අඩුම කාලයක් කතානායක ධුරය දැරූ කතානායකවරයා බවට  අශෝක රංවල පත්වනු ඇත.
 
-ඉල්ලා අස්වීම ජනධිපතිවරයා විසින් භාර ගතහොත්  ඔහුගේ ධූර කාලය ඒ අනුව දින 22 කට සීමා වේ.
+Sri Lanka Speaker Ashoka Ranwala resigns amid educational qualifications controversy. He claims ability to produce relevant documents but decides to step down. Opposition initiates no-confidence motion. Experts criticize government's handling of situation and call for transparency.
 
-නොවැම්බර් 21 වැනි දා ඔහු කාතානායක ධුරයට පත් වූ දා පටන්ම ඔහුගේ අධ්‍යාපන සුදුසුකම් පිළිබඳව විවිධ පුද්ගලයින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න කරන්නට විය
+🟩
 
-එය අවසානයේ කෙළවර වූයේ අශෝක රන්වලට ධුරයෙන් ඉල්ලා අස්වීමට තරම් බරපතල සමාජ බලපෑමක් ඇති කරමිනි.
+Ashoka Ranwala: Decision to resign from the post of Speaker and national immigrants
 
-අශෝක රන්වල: ආන්දෝලනයට තුඩු දී ඇති තම උපාධි ගැන කතානායකවරයා බීබීසීයට කිව්වේ මොනවා ද?
+The controversy of the educational qualifications of Speaker Ashoka Ranwala became a challenging Litmus to protect the legitimacy of the government.
+
+As a Speaker of Sri Lanka, the Speaker of Sri Lanka will be appointed as the Speaker of Sri Lanka with the summer of the Sri Lankan history with the decision to resign from his post on December 13.
+
+His tenure is limited to 22 days according to the President's resignation.
+
+From November 21, he had questioned various people on social media from the time he was appointed as Mr. Kathhanayaka.
+
+It was finally ended with a serious social impact to resign from the gold from gold from gold.
+
+Ashoka Ranwala: What did the Speaker tell the BBC about his degree that led to controversy?
+
+A press release issued by Ashoka Ranwala (December 13) The Media Division of the National Zoo was issued to the media.
 
 ...
 
 [Data](articles/0a172f6b.json)
+
+[Extended Data](ext_articles/0a172f6b.ext.json)
 
 ---
 
@@ -2407,57 +2471,5 @@ However, removal of Speaker Ashoka Ranwala’s academic qualification ‘Dr’ f
 [Data](articles/085bbb47.json)
 
 [Extended Data](ext_articles/085bbb47.ext.json)
-
----
-
-### 46 Principal vacuum in national schools
-
-*2024-12-13 17:29:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/46-தேசிய-பாடசாலைகளில்-அதிபர்-வெற்றிடம்/175-348704) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Ministry of Education seeks applicants for 46 national school vacancies. Open to first-grade officials of Sri Lanka Education Administration Service. Application deadline: March 31, 2025."
-
-🟩
-
-The Ministry of Education has called for applications for filling vacancies in 46 national schools across the country from March 31, 2025.
-
-The Ministry of Education said that only the first grade officials of the Sri Lanka Education Administration Service can apply.
-
-◼️
-
-[Data](articles/e46e171f.json)
-
-[Extended Data](ext_articles/e46e171f.ext.json)
-
----
-
-### Controversial Speaker's Education Quality: Is there an abuse?- Complaints at the Criminal Investigation Department to investigate
-
-*2024-12-13 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201195) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Controversy surrounds Speaker Ashoka Ranwala's educational qualifications. Civil organizations and politicians filed a complaint with CID to investigate potential fraud. Opposition parties demand disclosure of Speaker's doctoral certificate. The issue raises questions about parliamentary privileges and accountability.
-
-🟩
-
-Representatives of civil organizations and politicians have lodged a complaint with the Criminal Investigation Department (CID) yesterday (12) to investigate whether there is a scam regarding the educational qualifications of Speaker Ashoka Ranwala, who has created controversy in the country.
-
-Opposition parties are constantly urging the people of the country to publicize the certificate of the Speaker's doctoral degree, as the Parliamentary Level inquiries are being carried out at the parliamentary level.
-
-The Speaker is silent on this as many parties are demanding a legitimate clarification on the controversy.
-
-Against this backdrop, representatives of civil organizations have lodged a complaint with the Criminal Investigation Department to investigate whether the Speaker Ashoka Ranwala has been involved in the abuse of his educational qualifications.
-
-...
-
-[Data](articles/f381e015.json)
-
-[Extended Data](ext_articles/f381e015.ext.json)
 
 ---

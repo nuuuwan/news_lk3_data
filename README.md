@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 06:14:32**
+As of **2024-12-14 05:51:41**
 
 ## Newspaper Stats
 
-*Scraped **60,089** Articles*
+*Scraped **60,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 450
 colombotelegraphcom | 607
 bbccomsinhala | 629
-islandlk | 3,628
+islandlk | 3,621
 economynextcom | 3,664
 dailyftlk | 4,160
 dailymirrorlk | 4,733
@@ -26,105 +26,11 @@ adaderanasinhalalk | 10,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,038 (99.9%) of 60,089 articles have been extended.
+60,038 (99.9%) of 60,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
-
-### Union Bank CEO Dilshan Rodirgo felicitated by APB
-
-*2024-12-14 05:45:00* · [`islandlk`](http://island.lk/union-bank-ceo-dilshan-rodirgo-felicitated-by-apb/) · `en`
-
-Union Bank is proud to share that Dilshan Rodirgo, Director/CEO of Union Bank was recently honoured at the Association of Professional Bankers (APB) Sri Lanka’s distinguished member felicitation ceremony. This recognition celebrates his exceptional contributions to the banking industry and highlights his commitment to excellence and innovation. His inspiring leadership continues to motivate banking professionals to strive for greater success.
-
-First Capital crowns its excellence with ‘Brand of the Year’
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/80f43ae0.json)
-
----
-
-### First Capital crowns its excellence with ‘Brand of the Year’
-
-*2024-12-14 05:43:00* · [`islandlk`](http://island.lk/first-capital-crowns-its-excellence-with-brand-of-the-year/) · `en`
-
-First Capital Holdings PLC, a pioneering force in the investment sector, achieved an exceptional milestone at the prestigious SLIM Brand Excellence Awards 2024, where it was honoured with the coveted “Brand of the Year” award—the highest accolade a brand can receive at this esteemed ceremony.
-
-This remarkable recognition underscores First Capital Holdings’ unwavering commitment to excellence and innovation in the industry. In addition to the pinnacle honour, the company was also distinguished with three other prominent awards: Service Brand of the Year – Gold Award, Local Brand of the Year – Silver Award, and B2B Brand of the Year – Bronze Award further solidifying its position as a benchmark of success and leadership in the competitive investment landscape.
-
-...
-
-[Data](articles/6cf636b5.json)
-
----
-
-### ComBank MD/CEO Sanath Manatunge honoured as ‘Diversity Champion’
-
-*2024-12-14 05:42:00* · [`islandlk`](http://island.lk/combank-md-ceo-sanath-manatunge-honoured-as-diversity-champion/) · `en`
-
-Commercial Bank of Ceylon Managing Director/CEO Sanath Manatunge has been recognised as one of the ‘Top 10 Diversity Champions’ in Sri Lanka in 2024 for his leadership in fostering diversity, equity, and inclusion within Sri Lanka’s banking sector.
-
-This prestigious recognition is part of the Top 10 Diversity Champion Awards Programme organised by Women in Management (WIM) in partnership with the International Finance Corporation (IFC), a member of the World Bank Group, under the ‘Respectful Workplaces’ initiative.
-
-The selection of the country’s Top 10 Diversity Champions was based on a rigorous process of evaluation by a panel of judges which included Gevorg Sargsyan, Country Manager for the World Bank and IFC.
-
-...
-
-[Data](articles/f7a4c0c6.json)
-
----
-
-### CSE’s bull-run continues in the wake of picked-up investor participation
-
-*2024-12-14 05:39:00* · [`islandlk`](http://island.lk/cses-bull-run-continues-in-the-wake-of-picked-up-investor-participation/) · `en`
-
-The stock market was bullish yesterday as well because investors were expecting Sri Lanka’s debt restructuring issues to be resolved soon, market analysts said.
-
-Both local and foreign investors were actively involved in trading, these analysts added.
-
-The All Share Price Index went up by 169.5 points, while the S and P SL20 rose by 71.45 points recording an all- time high with a turnover of Rs 6.1 billion and seven crossings.
-
-...
-
-[Data](articles/127d8000.json)
-
----
-
-### ‘Indian investors eye Sri Lanka’s economic resurgence for greater cross border synergy’
-
-*2024-12-14 05:34:00* · [`islandlk`](http://island.lk/indian-investors-eye-sri-lankas-economic-resurgence-for-greater-cross-border-synergy/) · `en`
-
-Amid Sri Lanka’s journey toward economic recovery, Indian investors and businesses are closely monitoring the emerging opportunities in the local market.
-
-Dr. Naresh Bana, Vice Chairman of the Indo-Sri Lanka Chamber of Commerce and Industry (ISCCI) shared his perspective recently, on current investment trends, bilateral trade, and collaborative ventures between the two neighbours.
-
-Despite strong tourism ties, Indian investment in Sri Lanka’s tourism sector remains cautious. “Indian investors, like their counterparts elsewhere, rely on credible data, projections, and business prudence,” Dr. Bana explains. The country’s credit rating challenges, influenced by banking and financial institutions, often determine the final investment decisions. However, trading relations between the two nations remain robust.
-
-...
-
-[Data](articles/fd05b03b.json)
-
----
-
-### LankaPay welcomes People’s Bank to US Dollar On-line Payments System
-
-*2024-12-14 05:33:00* · [`islandlk`](http://island.lk/lankapay-welcomes-peoples-bank-to-us-dollar-on-line-payments-system/) · `en`
-
-People’s Bank recently enabled local routing of domestic USD fund transfers via LankaPay to its US Dollar On-line Payment system, marking a pivotal step in enhancing the digital payment ecosystem in Sri Lanka. This collaboration is set to empower businesses and individuals by providing a seamless, secure and a cost-effective alternative for domestic interbank dollar payments.
-
-People’s Bank joined LankaPay US Dollar Online Payments System in 2021 towards LankaPay/JCB card net settlement purpose. With the recent integration, the Bank has now enabled domestic US Dollar payment settlements also via the same system.
-
-...
-
-[Data](articles/a895b73e.json)
-
----
 
 ### Appointment of members of the Port Urban Economic Commission
 
@@ -2427,5 +2333,169 @@ Leader of the Sihired Proposal, Sajith Premadasa, Secretary to the Opposition, G
 [Data](articles/c54413c7.json)
 
 [Extended Data](ext_articles/c54413c7.ext.json)
+
+---
+
+### Britain's reluctance to ban against those involved in war crimes in Sri Lanka is disappointing - Yasmin Sukka
+
+*2024-12-13 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201162) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: War crimes concerns. Yasmin Sukka criticizes Britain's reluctance to impose sanctions. 2009 Mullivaikkal massacre key issue. Accountability sought for civilian targeting. Missing persons, torture allegations. Sri Lanka ranked high in global disappearances.
+
+🟩
+
+This month, Sri Lankan security forces have submitted 60 barriers against the Indian Peace Corps.
+
+During Sri Lanka's weapons, the Indian Peace Corps and the Sri Lankan security forces have submitted these ban on international truth and justice for human rights violations.
+
+In an interview with the Tamil Guardian, ITJP's Executive Director and Human Rights Attorney Jasmin Sukka has expressed his expectations on Sri Lanka and made it clear that Sri Lanka supports Sri Lanka.
+
+Within a few days of submitting obstacles to the EU, Britain, Britain, Canada, he commented on the war crimes in Sri Lanka and after the war in Sri Lanka.As mentioned.
+
+The most challenging in such a task is that such a documentation is going to ensure that you are going to ensure justice for the victims.
+
+Yasmin Sukka said the 2009 Mullivaikkal massacre was the main reason for accountability.
+
+...
+
+[Data](articles/f371112f.json)
+
+[Extended Data](ext_articles/f371112f.ext.json)
+
+---
+
+### Any responsibility of the government, action will be taken
+
+*2024-12-13 13:45:56* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවේ-මොන-වගකීම-දැරුවත්-වැරද්දක්-කර-ඇත්නම්-ක්‍රියා-මාර්ග-ගන්නවා/11-413618) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake addresses government responsibilities: "Action will be taken" for astromagnetic issues. Emphasizes public trust in national power. Promises swift action against mistakes.
+
+🟩
+
+"What astromagnear is done, the relevant action will be taken to it"
+
+"The people do not allow the people of what way or undermine us"
+
+President Anura Kumara Dissanayake made this observation at the meeting with government media heads this morning (13).
+
+"For more than seven decades, the people of this country have given birth to various governments. The first time in the first time in the first time this year, the people of this country have a comprehensive reading of the historically popularity and essence of the national power.
+
+The people of this country have produced the government of the national power with the belief that a standard and stable country will create a standard and stable country.
+
+In very short, our government is not ready to protect anyone who is wrong in the country for any cause. Not only in the country but also in our government, but if we make a mistake, we will not hesitate to take action against that mistake.
+
+We do not think twice to take all possible measures. "
+
+...
+
+[Data](articles/d0a2f1bf.json)
+
+[Extended Data](ext_articles/d0a2f1bf.ext.json)
+
+---
+
+### Actor Allu Arjun Action arrested
+
+*2024-12-13 13:36:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/நடிகர்-அல்லு-அர்ஜுன்-அதிரடி-கைது/54-348699) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Actor Allu Arjun arrested in Hyderabad after woman dies at Pushpa 2 premiere. Video of his arrest is viral online.
+
+🟩
+
+Pushpa 2 The Rule Man Allu Arjun has been arrested in Hyderabad today. Pushpa 2 movie was released a few days ago. In this, a woman died in a crowded crowd at the first Premier Show.
+
+It was reported that Allu Arjun was the cause of his death. He has been arrested today.
+
+Allu Arjun's arrest video is now going viral on the Internet.R
+
+◼️
+
+[Data](articles/01156187.json)
+
+[Extended Data](ext_articles/01156187.ext.json)
+
+---
+
+### Parliamentary Explanation on Dr.
+
+*2024-12-13 13:34:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-தொடர்பில்-பாராளுமன்றம்-விளக்கம்/175-348698) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Parliament clarifies media reports about Justice Minister Harshana Nanayaka's doctoral degree. The minister's name was incorrectly listed as "State Minister" instead of "Justice Minister." Steps are being taken to correct the error. The government apologizes for the inconvenience and is reviewing all parliamentary member information on its website.
+
+🟩
+
+Parliament has explained the reports posted in the media regarding the doctorate in front of the name of Justice and National Integration Minister Harshana Nanayaka.
+
+The form of information provided to Parliament by the Minister is not included in the form of a doctor's degree, and the name of Minister Attorney -at -Law Harshana Nanayaka has been referred to as the name of Minister of State for Attorney Harshana Nanayaka. Accordingly, steps are being taken to address the mistake.
+
+In this regard, we are sorry for the inconvenience caused by Minister of Justice and National Integration Minister Harshana Nanayaka.
+
+In addition, information on all members of the parliamentary website is being considered and renewed.
+
+◼️
+
+[Data](articles/79efb092.json)
+
+[Extended Data](ext_articles/79efb092.ext.json)
+
+---
+
+### This year's state awards ceremony at Temple Trees
+
+*2024-12-13 13:08:26* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-කලාභුෂණ-රාජ්‍ය-සම්මාන-උළෙල-අරලියගහ-මන්දිරයේ/11-413617) · `si`
+
+State awards ceremony at Temple Trees: Minister Dr. Hiniduma Sunil Senevi presided over event honoring 200+ senior artists exceeding 60 years in literature, music, drama, dance, art.
+
+🟩
+
+The Ministry of Buddha Sasana, Religious and Cultural Affairs and the Department of Cultural Affairs was held at Temple Trees under the patronage of Minister Dr. Hiniduma Sunil Senevi.
+
+200 senior artists who exceeded 60 senior artistes who exceeded 60 years of art in the art areas of literature, music, drama, dance, art and other arts as well. (I J)
+
+◼️
+
+[Data](articles/bf03072e.json)
+
+[Extended Data](ext_articles/bf03072e.ext.json)
+
+---
+
+### Sri Lanka says Adani Port Project to continue despite US charges
+
+*2024-12-13 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104211/sri-lanka-says-adani-port-project-to-continue-despite-us-charges) · `en`
+
+Indian conglomerate Adani Group’s port project in Sri Lanka will go ahead despite US charges against its founder and sudden changes to its financing, the island nation said Friday.
+
+A bombshell indictment in New York last month accused billionaire tycoon Gautam Adani and several colleagues of deliberately misleading international investors as part of a bribery scheme.
+
+The charges sent Adani stocks into freefall and again raised questions over corporate governance at the family firm, whose founder is considered a close ally of Indian Prime Minister Narendra Modi.
+
+But Sri Lankan ports minister Bimal Ratnayake said the allegations against Adani had no bearing on the deep-sea container terminal project in the capital Colombo.
+
+“The problem between Adani and the US... is not our concern,” he told reporters during a tour of the port on Thursday night.
+
+“It is of high importance for us that western container terminal development by Adani goes ahead.”
+
+...
+
+[Data](articles/a9004704.json)
+
+[Extended Data](ext_articles/a9004704.ext.json)
 
 ---

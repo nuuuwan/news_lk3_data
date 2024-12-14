@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 16:01:34**
+As of **2024-12-14 16:42:15**
 
 ## Newspaper Stats
 
-*Scraped **60,143** Articles*
+*Scraped **60,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,47 +18,161 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
 adaderanalk | 7,326
-tamilmirrorlk | 8,597
-virakesarilk | 9,872
-adaderanasinhalalk | 10,399
+tamilmirrorlk | 8,599
+virakesarilk | 9,873
+adaderanasinhalalk | 10,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,099 (99.9%) of 60,143 articles have been extended.
+60,106 (99.9%) of 60,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### මාලිගාකන්දේ වෙඩිතැබීමක්
+### மேல் கொத்மலை நீர்த்தேக்கத்தில் பெண்ணின் சடலம்
+
+*2024-12-14 16:26:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேல்-கொத்மலை-நீர்த்தேக்கத்தில்-பெண்ணின்-சடலம்/76-348722) · `ta`
+
+மேல் கொத்மலை  நீர்த்தேக்கத்தில் இன்று காலை அடையாளம் தெரியாத பெண்ணின் சடலம் மீட்கப்பட்டுள்ளது.
+
+மேல் கொத்மலை நீர்த்தேக்கத்தின் வாயிற் கதவுகளுக்கு அருகாமையில் ஒதுங்கும் குப்பைகளுடன் குறித்த சடலம் காணப்பட்டுள்ளது.
+
+ஸ்தலத்திற்கு வருகை தந்த நுவரெலியா மாவட்ட பதில் நீதவான் அம்பகஹவத்தவின் விசாரணையை தொடர்ந்து சடலமானது நுவரெலியா  மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/c82fd874.json)
+
+---
+
+### Santhyoshi meets Minister of Ministers
+
+*2024-12-14 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204373) · `si`
+
+Sri Lanka's economic crisis discussed between Transport Minister and Indian High Commissioner. India pledges continued support for Sri Lanka, emphasizing strong bilateral ties.
+
+🟩
+
+Minister of Transport, Highways, Ports and Civil Aviation has held a meeting with Indian High Commissioner Sanantha Race.
+
+At the discussion between the two sides, Sri Lanka's current economic situation has been drawn to the current economic situation in Sri Lanka.
+
+Indian High Commissioner Sanantha said that the Government of India would continue to support the Government of India to protect a strong and long-term relationship with the neighbor of Sri Lanka.
+
+◼️
+
+[Data](articles/8e6416e4.json)
+
+[Extended Data](ext_articles/8e6416e4.ext.json)
+
+---
+
+### Crime Motion Against South Korean President
+
+*2024-12-14 15:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்கொரிய-ஜனாதிபதிக்கு-எதிரான-குற்றப்-பிரேரணை-நிறைவேற்றம்/50-348721) · `ta`
+
+South Korean opposition passes second impeachment motion against President Yun Suk Yol. Parliament votes 204-0 to remove him from office. Prime Minister will assume presidential duties temporarily.
+
+🟩
+
+Foreign media reports that the second criminal motion brought by the Opposition parties against South Korean President Yun Suk Yol has been passed.
+
+On the night of December 3, the South Korean opposition parties brought a crime against President Yun Suk Yol on the basis of the implementation of the military law.
+
+However, the first criminal motion was defeated as the ruling People's Power Party, representing the president, boycotted the referendum and left parliament.
+
+Yesterday, the opposition parties took steps to sack the president for the second time.
+
+There, all members representing the South Korean parliament used their votes and voted in favor of 204 members.
+
+Accordingly, the dismissal against South Korean President Yun Suk Yol was passed in Parliament today.
+
+Accordingly, as the current presidency is sacked, the Prime Minister will act as president.
+
+◼️
+
+[Data](articles/098d464e.json)
+
+[Extended Data](ext_articles/098d464e.ext.json)
+
+---
+
+### Actor Manikandan starrer 'Kudavasthan' is the first song release
+
+*2024-12-14 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201261) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Kudavasthan", starring Manikandan, releases its first song "Zero Balance Hero". Directed by Sujith N. Vaisak, featuring Shanvi Mehna and Guru Somasundaram. Song lyrics by Vaisak, music by Shan Roldan. Reflects simple people's struggles.
+
+🟩
+
+The first song 'Zero Balance Hero', which is played in the film 'Kamavasthan', starring the hero of the story of actor Manikandan, who has contributed two hit films as 'Goodnight' and 'Lover', has been released.
+
+Manikandan, Shanvi Mehna, Guru Somasundaram and R. Sundarrajan, Prasanna Balachandran, Jenson Divakar and many others are acting.
+
+Sujith n. Vaisak has composed the film, which is being recorded by Subramaniam. The film is set to be the Entertainment of Fil Good Family. Produced by Vinod Kumar.
+
+The shooting of the film has been released as the first song and the lyrical video for the song 'Manamam Parakkuttu Gnanam'. The song is written by songwriter Vaisak, sung by playback singer and composer Shan Roldan.
+
+All the lines featured in this song have received the support of most middle class people as they reflect the last life of the simple people who are paid monthly.
+
+◼️
+
+[Data](articles/c5586609.json)
+
+[Extended Data](ext_articles/c5586609.ext.json)
+
+---
+
+### Maligaman shot
 
 *2024-12-14 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204372) · `si`
 
-වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයෙක් කොළඹ ජාතික රෝහලය ඇතුළත් කර තිබේ.
+Colombo National Hospital reports Maligaman shooting incident admission.
+
+🟩
+
+The Colombo National Hospital has been admitted to the shooting.
 
 ◼️
 
 [Data](articles/b60e9dcb.json)
 
+[Extended Data](ext_articles/b60e9dcb.ext.json)
+
 ---
 
-### அசோக ரன்வலவின் இராஜினாமாவை ஏற்றுக்கொண்டார் ஜனாதிபதி
+### The president accepted the resignation of Ashoka Ranwala
 
 *2024-12-14 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201254) · `ta`
 
-அசோக ரன்வல சபாநாயகர் பதவியை இராஜினாமா செய்வது தொடர்பான கடிதத்தை ஜனாதிபதி ஏற்றுக்கொண்டுள்ளார்.
+Here's a summary of 200 characters:
 
-ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, பாராளுமன்ற செயலாளர் நாயகத்துக்கு எழுத்து மூலம் அறிவித்துள்ளதாக குறிப்பிடப்பட்டுள்ளது.
 
-தனது கல்வித் தகுதி தொடர்பில் சமூகத்தில் எழுந்துள்ள சர்ச்சை காரணமாக சபாநாயகர் பதவியை இராஜினாமா செய்ததாகவும் தற்போது அந்தத் தகுதிகளுக்கான ஆவணங்களை சமர்ப்பிக்க முடியாத நிலை ஏற்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
 
-ஆனால், தனது கல்வித் தகுதி தொடர்பாக எந்த பொய்யான தகவலையும் தெரிவிக்கவில்லை எனவும் அசோக ரன்வல தனது கடிதத்தில் தெரிவித்துள்ளார்.
+President accepts Asoka Ranwala's resignation as Speaker. Controversy over educational qualifications cited. Ranwala denies reporting false information.
+
+🟩
+
+The President has accepted a letter of resignation of Asoka Ranwala Speaker.
+
+President of the President, Dr. Nandika Sanath Kumanayake, has noted in writing to the Secretary General of Parliament.
+
+He said that the controversy over his educational qualifications has resigned as the Speaker and that the documents for the qualifications are now unable to submit.
+
+However, Asoka Ranwala said in his letter that he did not report any false information about his educational qualifications.
 
 ◼️
 
 [Data](articles/aa901351.json)
+
+[Extended Data](ext_articles/aa901351.ext.json)
 
 ---
 
@@ -84,29 +198,35 @@ President's Secretary. Remble
 
 ---
 
-### දකුණු කොරියානු ජනපතිට දෙවන වරට ගෙන ආ දෝෂාභියෝගය සම්මත වෙයි
+### The impeachment motion brought to South Korean President passes
 
 *2024-12-14 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204371) · `si`
 
-දකුණු කොරියානු විපක්ෂය විසින් එරට ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව දෙවන වරට ගෙන ආ දෝෂාභියෝගය සම්මත වී තිබේ.
+South Korean President impeached: 204 MPs vote in favor. President removed from office; Prime Minister becomes acting president.
 
-විදෙස් මාධ්‍ය වාර්තා කරන පරිදි ඊට අදාළ ඡන්ද විමසීම අද පෙරවරුවේ එරටදී පවත්වා තිබුණි.
+🟩
 
-දකුණු කොරියානු විපක්ෂය එරට ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව දෝෂාභියෝගයක් ගෙන ආවේ ජනාධිපතිවරයා පසුගිය දෙසැම්බර් 3 වනදා රාත්‍රියේ දී හදිසියේ හමුදා නීතිය පැනවීමේ සිදුවීම මුල් කරගනිමිනි.
+The impeachment motion brought against the South Korean opposition to the second time against President Yun Suk Yula.
 
-කෙසේ වුවද පළමු වරට ගෙනආ දෝෂාභියෝගයේදී ජනාධිපති නියෝජනය කරන පාලක පීපල් පවර් පක්ෂය ඡන්ද විමසීම වර්ජනය කිරීමෙන් දෝෂාභියෝගය එරට පාර්ලිමේන්තුව හමුවේ පරාජයට පත්විය.
+The election was held this morning, as foreign media reports.
 
-ජනාධිපතිවරයාට එරෙහිව දෙවන වරටත් දෝෂාභියෝගයක් ගෙන ඒමට විපක්ෂය ඊයේ (13) පියවර ගත්තේ ඒ අනුව ය.
+The Defense Opposition was introduced against the South Korean President Yun Suk Yula on December 3 last night.
 
-එහිදී දකුණු කොරියානු පාර්ලිමේන්තුව නියෝජනය කරන සියලුම මන්ත්‍රීවරුන් සිය ඡන්දය භාවිත කළ අතර මන්ත්‍රීවරුන් 204ක් දෝෂාභියෝගයට පක්ෂව ඡන්දය ප්‍රකාශ කර තිබුණි.
+However, the impeachment was defeated by the Parliament to the parliament of the parliament that the ruling at the impeachment was first brought to the first time.
 
-ඒ අනුව දකුණු කොරියානු ජනාධිපති යුන් සුක් යෝල්ට එරෙහි දෝෂාභියෝගය අද එරට පාර්ලිමේන්තුවේ දී සම්මත විය.
+That is why the opposition took the impeachment motion for the second time against the President yesterday (13).
 
-ඒ අනුව ජනාධිපතිවරයා ධුරයෙන් නෙරපා දැමෙන අතර එරට අගමැතිවරයා වැඩබලන ජනාධිපති ලෙස කටයුතු කරනු ඇත.
+All MPs representing the South Korean Parliament were voted and 204 MPs voted in favor of the impeachment.
+
+The impeachment motion against South Korean President Yung Suk Yaha was passed in Parliament today.
+
+Accordingly, the President will be expelled from office and the Prime Minister of the country will act as acting president.
 
 ◼️
 
 [Data](articles/c9a55902.json)
+
+[Extended Data](ext_articles/c9a55902.ext.json)
 
 ---
 
@@ -123,6 +243,8 @@ The court has up to 180 days to determine whether to dismiss Yoon as president o
 ...
 
 [Data](articles/98ba5cac.json)
+
+[Extended Data](ext_articles/98ba5cac.ext.json)
 
 ---
 
@@ -2285,113 +2407,5 @@ In this case, the police are conducting further investigations into the incident
 [Data](articles/9ddb8314.json)
 
 [Extended Data](ext_articles/9ddb8314.ext.json)
-
----
-
-### The spring of the real North is no longer!- Minister of Fisheries
-
-*2024-12-13 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201193) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fisheries Minister Ramalingam Chandrasekaran announced the "spring of the real North" will begin in 2025. He discussed development projects, flood relief proposals, and plans to improve fisherman livelihoods during a district coordinating committee meeting.
-
-🟩
-
-Fisheries Minister Ramalingam Chandrasekaran has said that the spring of the real North will be blowing from 2025.
-
-Yall. The District Coordinating Committee meeting was held today (13) at the District Secretariat.
-
-The meeting was mainly discussed on the development projects that have been allocated in the past.
-
-In addition to the development projects to be carried out in the future, the proposals were discussed.
-
-It was mainly talked about flood disaster. The proposal has been proposed to address floods and has been requested for about 250 million rupees. Work will be carried out if that funds are available.
-
-Various proposals have been put forward by the Governor of the Northern Province. Once the Cabinet has decided to make a decision in the cabinet, programs will be carried out.
-
-Plans will be presented to the villages and allocated funds. Our purpose is to raise the livelihoods of the villagers. We are going to solve the problems of the fishermen and improve their livelihoods.
-
-...
-
-[Data](articles/a9c80a97.json)
-
-[Extended Data](ext_articles/a9c80a97.ext.json)
-
----
-
-### Sri Lanka Parliament Speaker resigns after allegations over fake doctorate
-
-*2024-12-13 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-speaker-resigns-after-allegations-over-fake-doctorate-194209/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Parliament Speaker Ashoka Ranwala has resigned from the post citing the concerns over the credentials of his doctorate degree, local media said.
-
-The resignation comes after the parliament website early this week removed ‘Dr’ title from the Speaker’s name following the allegations.
-
-Ranwala’s resignation letter said he had not done anything wrong.
-
-“In the last few days, an issue about my educational qualification has been raised in the society. I have not made any false statement about my educational qualification,” the letter read.
-
-“But as I do not have some of the documents required to confirm the educational qualifications at the moment, and I have to get them from the relevant institutions, it has become difficult to submit those documents promptly at the moment.”
-
-“The research institute affiliated to Waseda University in Japan, where I received my Ph.D., has the ability to submit relevant educational documents and I intend to submit them as soon as possible.”
-
-...
-
-[Data](articles/1847fc82.json)
-
-[Extended Data](ext_articles/1847fc82.ext.json)
-
----
-
-### Court reveals to the West New Maval's owner to the West Indies
-
-*2024-12-13 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204349) · `si`
-
-Colombo Magistrate's Court arrests owner of Gall Maval Leafs team for fixing Lanka T10 Super League match. Accused offered $15,000 to West Indies player Andrew Fletcher to influence bowling. Released on bail, next hearing on 16th.
-
-🟩
-
-The Colombo Magistrate's Court prescribed the owner of the Gall Maval Leafs team to be arrested in connection with the 'Lanka T 10 Super Leaf' cricket at Pallekele.
-
-The suspect was arrested by the Sports Midwide Prevention Division and brought to the Additional Magistrate Harshana Kekunawala.
-
-Senior State Counsel, Senior State Counsel, who appeared in the court, is the owner of the Goal Mavals team and is the owner of the Goal Maval, and the west Indian player Andrew Fleiccher, which is supported by the West-player Andrew Fleiccher, has been proposed to betray the match matching the match.Said.
-
-The suspect has proposed the West Indies to adact to the bowlers to be advocated. 15,000 US $ 15,000, he said.
-
-He also promised that the suspect had promised to provide another $ 30,000 to the player if they were acting in this way.
-
-...
-
-[Data](articles/95c7bfa4.json)
-
-[Extended Data](ext_articles/95c7bfa4.ext.json)
-
----
-
-### Youth arrested with ice drugs
-
-*2024-12-13 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201210) · `ta`
-
-Colombo police arrest 23-year-old youth with ice drugs near Sewali Playground. 106g drugs and 145,000 rupees seized during raid based on tip-off.
-
-🟩
-
-A suspect with ice drugs was arrested by the Borella police on Thursday (12) near the Sewali Playground, which belongs to the Borella Police Division in Colombo.
-
-The suspect has been arrested during a raid carried out on the basis of confidential information received by the Borella Police Station officials.
-
-The suspect was a 23 -year -old youth from Colombo 10.
-
-Police have seized 145,000 rupees suspected of earning 106 grams of ice and drug trafficking from the suspect.
-
-◼️
-
-[Data](articles/35c239d8.json)
-
-[Extended Data](ext_articles/35c239d8.ext.json)
 
 ---

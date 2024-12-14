@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 21:01:23**
+As of **2024-12-14 21:42:45**
 
 ## Newspaper Stats
 
-*Scraped **60,170** Articles*
+*Scraped **60,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,707
 adaderanalk | 7,330
-tamilmirrorlk | 8,601
+tamilmirrorlk | 8,602
 virakesarilk | 9,880
 adaderanasinhalalk | 10,406
 
@@ -26,31 +26,63 @@ adaderanasinhalalk | 10,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,140 (100.0%) of 60,170 articles have been extended.
+60,145 (100.0%) of 60,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### මාලිගාකන්දේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+### Order to re -export imported rice
+
+*2024-12-14 20:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செய்யப்பட்ட-அரிசியை-மீள்-ஏற்றுமதி-செய்ய-உத்தரவு/175-348725) · `ta`
+
+Rice re-export order: 75kkg deemed unfit. Health inspectors test imports. Two out of three containers rejected. New labels added. Private importers allowed since April 4th. 2,300 metric tons imported from India.
+
+🟩
+
+It has been revealed that about 75,000 kg of rice is not inappropriate for the use of rice imported by private importers.
+
+Food and pharmaceutical inspectors of the Ministry of Health will be tested before the release of rice brought to the country.
+
+Accordingly, during the experiment, the health department did not allow the health department to release the rice in two containers of the 3 containers of the 3 containers, and the new label was pasted on top of the old labels in the rice in the other container.
+
+The government has given permission to private importers to import rice from the 4th of last month as a solution to the rice shortage in the country.
+
+Accordingly, rice is currently being imported from India and 2,300 metric tonnes of rice imported by private importers from the 4th to the afternoon (13) afternoon.
+
+◼️
+
+[Data](articles/4a264cda.json)
+
+[Extended Data](ext_articles/4a264cda.ext.json)
+
+---
+
+### More information about the shooting of the Maligalle
 
 *2024-12-14 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204379) · `si`
 
-මාලිගාකන්ද අධිකරණයේ නඩු කටයුත්තකට පැමිණි යුවළක් ඉලක්කර ඒ අසලදී අද (14) සිදුකළ වෙඩිතැබීමකින් 40 හැවිරිදි කාන්තාවක් බරපතළ තුවාල ලබා රෝහල්ගත කෙරුණි.
+Maligakanda shooting: Couple injured, police suspect motive, CCTV footage, suspects flee on motorcycle.
 
-පොලීසිය සැකකරන්නේ වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත්තේ එම කාන්තාව සමග සිටි පිරිමි පුද්ගලයා වියහැකි බවය.
+🟩
 
-මාලිගාකන්ද අධිකරණ සංකීර්ණය අසලදී මෙම වෙඩිතැබීම සිදුකර තිබුණේ අද පස්වරු 3ට පමණ ය.
+A couple was seriously injured in a shot of a shooting of a couple in Maligakanda Court today.
 
-එම වෙඩිතැබීම සිදුකර ආකාරය අසල තිබූ CCTV කැමරාවකද සටහන්වී තිබුණි.
+The police suspect the aim is that the aim is the man who was with the woman.
 
-පොලීසිය පැවසුවේ මාලිගාකන්ද අධිකරණ සංකීර්ණය අසලින් පාගමනින් යමින් සිටි යුවළක් ඉලක්කර කර යතුරුපැදියකින් පැමිණි දෙදෙනෙකු වෙඩිතැබීම සිදුකර පලාගොස් ඇති බවය.
+The shooting was carried out near the Maligakanda Courts at around 3 pm today.
 
-වෙඩි තැබීමෙන් තුවාල ලැබුවේ ටී.ඒ. නිලූකා දිල්හානි නමැති කොළඹ 13 ප්‍රදේශයේ පදිංචි 40 හැවිරිදි කාන්තාවකි.
+The shooting was also recorded at a nearby CCTV camera.
+
+Police said two had fled the shooting by a motorbike with a march track by the Maligakanda Courts.
+
+Wounded by shooting TA. Niluka Dilhani is a 40 year old resident of Colombo 13.
 
 ◼️
 
 [Data](articles/4848357f.json)
+
+[Extended Data](ext_articles/4848357f.ext.json)
 
 ---
 
@@ -128,29 +160,45 @@ Officials from the foundation met Professor Anil Jayantha Fernando, Minister of 
 
 ---
 
-### පාතාලයේ ලලිත් කන්නංගර හංවැල්ලම හුදකලා කරන්න සැරසෙයි
+### Lalith Kannwra, underworld, is ready to isolate
 
 *2024-12-14 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204378) · `si`
 
-ඩුබායි රාජ්‍යයේ සැඟවී සිටින ලලිත් කන්නංගර නොහොත් "බස් ලලිත්" නමැති අපරාධකරුගේ තර්ජන හමුවේ හංවැල්ල ප්‍රදේශයේ ව්‍යාපාරිකයින් රැසක් මේ වනවිට සිය නිවෙස් අත්හැර පළාගොස් තිබේ.
+Here's a summary of 200 characters:
 
-ඔහුගේ තර්ජන හේතුවෙන් ඇතැම් ව්‍යාපාරික ස්ථානවලට පොලිස් ආරක්ෂාව ද යෙදවීමට පියවරගෙන ඇති බව පොලීසිය පැවසීය.
 
-ලලිත් කන්නංගර නොහොත් "බස් ලලිත්" නමැති අපරාධකරු ඩුබායි රාජ්‍යයේ සිට මෙරට තුළ සිය අපරාධ කටයුතු යහමින් සිදුකරමින් සිටී.
 
-34 හැවිරිදි ඔහු මනුෂ්‍ය ඝාතන 5කට පොලීසියට අවශ්‍යව සිටින අයෙකි.
+"Lalith Kannawra, alias 'Bus Lalith,' threatens Hanwella businessmen. Hiding in Dubai, wanted for 5 murders. Police deployed due to extortion demands. Businessmen flee homes, stations shut. Wife and kids found in Dimbulagala."
 
-ඒ අතරින් බූරු මූණා ලවා 2022 වසරේ හංවැල්ලේ මුස්ලිම් ව්‍යාපාරිකයෙකු ඝාතනය කිරීම සමාජයේ දැඩි කතාබහට ලක්වුණි.
+🟩
 
-එමෙන්ම පසුගිය සැප්තැම්බර් මස 30වනදා හංවැල්ල නෙළුවත්තුඩුව ප්‍රදේශයේ පදිංචි ව්‍යාපාරිකයෙකු ඝාතනය කිරීම ද දැඩි ලෙස කතාබහට ලක්වුණි.
+There are many businessmen in Hanwella before the threat of Lalith Kanunga, who is hiding in Dubai, 'Bus Lalith'.
 
-ඒ ලලිත් කන්නංගරට බස් රැකියාවක් පළමුව ලබාදුන් එම පුද්ගලයාගෙන් ද කප්පම් ඉල්ලා ඒවා ලබානොදීම නිසා ඝාතනය කිරීම හේතුවෙනි.
+Police said that due to his threats, police stations have been taken to deploy police stations.
 
-ඔහු විසින් ව්‍යාපාරිකයින්ගෙන් කප්පම් ඉල්ලා තර්ජනය කරන අතර එලෙස ඔහු විසින් තර්ජනය කරන හඬපටක් මාධ්‍යට නිකුත් කර තිබුණි.
+Lalith Kannnara, or "Bus Lalith" is doing its crime from Dubai.
+
+He is a 34-year-old man who wants five murders.
+
+The assassination of a Muslim businessman in Hanwella, 2022, was severely conversed.
+
+The murder of a businessman from Neurelththaaduda, Hanwella last September was also talked about.
+
+It was due to the assassination of a Lalith Kanganan bus job first.
+
+He threatened to demand ransom from businessmen and issued a heroic heat to the media.
+
+Due to the escalation of buses, the threat of buses has already left their homes.
+
+The owner had gone closed due to the threats of Lalith Kannara, who continued to demand ransom from Lalith Kannara.
+
+A house belonging to another famous businessman in Hanwella has been closed due to its owners and fleeing the house.
 
 ...
 
 [Data](articles/c6907204.json)
+
+[Extended Data](ext_articles/c6907204.ext.json)
 
 ---
 
@@ -174,29 +222,37 @@ Customs reported that approximately 90% of these imports had been cleared and re
 
 [Data](articles/9680a494.json)
 
+[Extended Data](ext_articles/9680a494.ext.json)
+
 ---
 
-### නව කථානායකවරයා කවුද ? - නම් 3ක්
+### Who is the new Speaker- 3 names
 
 *2024-12-14 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204377) · `si`
 
-කථානායක ධුරය සඳහා මේ වනවිට නම් තුනක් යෝජනා වී ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කරයි.
+Three candidates proposed for Speaker: Risi Sally, Lakshman Quna Nipunarachchi, Nihal Galappaththi. Controversy over doctorates led to Anura Kumara Dissanayake being sent to President. Parliament to meet on 17th to appoint new Speaker according to Constitution.
 
-නියෝජ්‍ය කථානායක රිස්වි සාලි, පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් නිපුණආරච්චි සහ පාර්ලිමේන්තු මන්ත්‍රී නිහාල් ගලප්පත්ති යන අයගේ නම් යෝජනා වී ඇති බව වාර්තා වෙයි.
+🟩
 
-කථානායක අශෝක රංවල මහතාට ඇති බව කියන ආචාර්ය උපාධිය සම්බන්ධයෙන් පසුගිය දිනවල රටතුළ දැඩි ආන්දෝලනයක් මතුවුණි.
+According to political sources, three names have been proposed for the post of Speaker.
 
-එවන් පසුබිමක පාර්ලිමේන්තු ලිපි ශීර්ෂයකින් ඊයේ (13) පස්වරුවේ නිවේදනයක් නිකුත් කරමින් රංවල මහතා සඳහන් කළේ, තමා කථානායක ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර ඇති බවය.
+Deputy Speaker Risi Sally, MP Lakshman Quna Nipunarachchi and MP Nihal Galappaththi have been proposed.
 
-ඒ අනුව, ඒ මහතාගේ ඉල්ලා අස්වීම ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත යොමුකර ඇති අතර ජනාධිපතිවරයා විසින් එය පිළිගෙන තිබේ.
+There was an intense controversy in the country recently regarding the doctorate in the country recently.
 
-එම ඉල්ලා අස්වීම පිළිබඳ ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණධීර මහත්මිය වෙත ලිඛිතව යොමු කළ බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+The Ranwala has issued a statement from a letter head of Parliament in such a background yesterday (13) afternoon.
 
-එළැඹෙන 17 වැනිදා නියෝජ්‍ය කථානායක රිස්වි සාලි මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ ප්‍රතිපාදන අනුව එදින නව කථානායකවරයෙකු පත්කර ගතයුතු වෙයි.
+Accordingly, Mr. Anura Kumara Dissanayake has been sent to President Anura Kumara Dissanayake.
+
+Presidential Secretary to the President Dr. Nandika Sanath Sanath has written to the Secretary General of Parliament.
+
+The Parliament will meet with Mr. Deputy Speaker Risvi Sally on the 17th and a new Speaker should be appointed to the provisions of the Constitution.
 
 ◼️
 
 [Data](articles/f371dce4.json)
+
+[Extended Data](ext_articles/f371dce4.ext.json)
 
 ---
 
@@ -2405,35 +2461,5 @@ Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if th
 [Data](articles/6d359c75.json)
 
 [Extended Data](ext_articles/6d359c75.ext.json)
-
----
-
-### Police announced on security of former President
-
-*2024-12-13 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204353) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Police announce review of former president security costs. Government committee assessed presidential protection expenses. Number of security officers for ex-presidents like Mahinda Rajapaksa may be reduced."
-
-🟩
-
-Police Headquarters have issued a special announcement regarding the removal of former presidents.
-
-It states that the committee appointed by the government to act on the official appointment of the officers of the government, the security assessment records of former presidents and the cost of Sri Lanka's expenditure has been reviewed.
-
-The police have also observed that the expenditure of the police officers who are assigned to cover the security of former presidents have been inspected.
-
-The cost of Rs.
-
-Accordingly, the number of security officers including President Mahinda Rajapaksa and former presidents have been revised and the former President Mahinda Rajapaksa will be able to reduce or increase the number of officers and reduce the number of officers.The members of armed services have also been deployed.
-
-◼️
-
-[Data](articles/d6f0aada.json)
-
-[Extended Data](ext_articles/d6f0aada.ext.json)
 
 ---

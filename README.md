@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 02:26:42**
+As of **2024-12-15 03:26:57**
 
 ## Newspaper Stats
 
-*Scraped **60,184** Articles*
+*Scraped **60,185** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 452
+dbsjeyarajcom | 453
 colombotelegraphcom | 610
 bbccomsinhala | 631
 islandlk | 3,632
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,172 (100.0%) of 60,184 articles have been extended.
+60,175 (100.0%) of 60,185 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2448,6 +2448,8 @@ One side-effect of the polarizing effect of nationalism and populism around the 
 
 [Data](articles/befce525.json)
 
+[Extended Data](ext_articles/befce525.ext.json)
+
 ---
 
 ### Yall. Aruchuna, who was logical with the authorities at the coordination meeting
@@ -2482,6 +2484,24 @@ In addition, if state officials are insulted in meetings, the authorities will l
 
 ---
 
+### Sri Lankan President Anura Kumara  Dissanayake  Undertakes his First State Visit Abroad After Winning the Presidency in September; Three Day Visit to India  from  December 15 to 17
+
+*2024-12-14 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85213) · `en`
+
+Sri Lankan President Anura Kumara Dissanayake will visit India from December 15 to 17, 2024, the foreign ministries of the two countries said on Friday (December 13, 2024), announcing his first state visit abroad since he won the presidency in September and his party swept the polls in the November general elections.
+
+During his visit to New Delhi, Mr. Dissanayake will meet President Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and “and other Indian dignitaries on a range of issues of mutual interest”, Sri Lanka’s Ministry of Foreign Affairs said in a statement on Friday (December 13, 2024).
+
+President Dissanayake is also scheduled to participate in a business event in New Delhi aimed at “promoting investment and commercial linkages between India and Sri Lanka” and later, travel to Bodh Gaya, as part of the visit, according to a statement issued by the Ministry of External Affairs.
+
+...
+
+[Data](articles/a5d04764.json)
+
+[Extended Data](ext_articles/a5d04764.ext.json)
+
+---
+
 ### A woman's body body piles on the beach
 
 *2024-12-14 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201225) · `ta`
@@ -2503,23 +2523,5 @@ The body has been placed at the morgue morgue and the Kalawanchikudi police are 
 [Data](articles/b7d52295.json)
 
 [Extended Data](ext_articles/b7d52295.ext.json)
-
----
-
-### Parliament apologises  to Justice Minister over title error
-
-*2024-12-14 00:20:28* · [`dailyftlk`](https://www.ft.lk/news/Parliament-apologises-to-Justice-Minister-over-title-error/56-770522) · `en`
-
-Legislative Services and Director of Communications of Parliament Acting Director Jayalath Perera has announced that the process of re-checking and updating information of all Members of Parliament on the official Parliamentary website is currently underway.
-
-In a statement yesterday, the Parliament was forced to address the controversy surrounding the use of the title Dr. before the name of Minister of Justice and National Integration, Attorney Harshana Nanayakkara, on its website. Perera clarified that Nanayakkara had not indicated holding a doctorate in the information provided to Parliament. The appearance of the title was attributed to a data entry error, and corrective action has since been taken, he confirmed.
-
-“We express our deepest regret for the inconvenience caused to the Minister of Justice and National Integration,” Perera said.
-
-...
-
-[Data](articles/b6103030.json)
-
-[Extended Data](ext_articles/b6103030.ext.json)
 
 ---

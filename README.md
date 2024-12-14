@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 12:17:11**
+As of **2024-12-14 11:43:03**
 
 ## Newspaper Stats
 
-*Scraped **60,122** Articles*
+*Scraped **60,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 450
 colombotelegraphcom | 607
 bbccomsinhala | 630
-islandlk | 3,630
+islandlk | 3,628
 economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
 adaderanalk | 7,322
-tamilmirrorlk | 8,596
+tamilmirrorlk | 8,594
 virakesarilk | 9,868
 adaderanasinhalalk | 10,392
 
@@ -26,83 +26,29 @@ adaderanasinhalalk | 10,392
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,072 (99.9%) of 60,122 articles have been extended.
+60,070 (99.9%) of 60,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### Three names recommendation for the post of Speaker
-
-*2024-12-14 11:51:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-பதவிக்கு-மூன்று-பெயர்கள்-பரிந்துரை/175-348719) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Deputy Speaker Dr. Rizvi Sally, National People's Party MP Nihal Kalapatti, and Lakshman expert named for Speaker position. Government to make final decision soon."
-
-🟩
-
-According to government sources, the names of Deputy Speaker Dr. Rizvi Sally and the National People's Party MPs Nihal Kalapatti and Lakshman expert.
-
-However, the government will reach the final decision in a few days.
-
-◼️
-
-[Data](articles/cd19eadf.json)
-
-[Extended Data](ext_articles/cd19eadf.ext.json)
-
----
-
-### An online approach to find legally imported vehicles
+### නීත්‍යානුකූලව ආනයනය කළ වාහන සොයා ගැනීමට මාර්ගගත ප්‍රවේශයක්
 
 *2024-12-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204363) · `si`
 
-Here's a summary in 200 characters:
+ව්‍යාජ ලෙස මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කළ මෝටර් රථ 6000කට ආසන්න ප්‍රමාණයක් රට පුරා සංසරණ වීමේ තත්ත්වයක් සම්බන්ධව අල්ලස් හෝ දූෂණ චෝදනා විමර්ෂන කොමිෂන් සභාව විමර්ශනයක් ආරම්භ කර තිබේ.
 
+රජයට අයවිය යුතු රේගු බදු නොගෙවා අනීතිකව ආනයනය කළ බව කියන මෙම වාහන අතුරින් හඳුනාගත් වාහන සම්බන්ධයෙන් නීත්‍යානුකූල කටයුතු සිදුකරමින් පවතින බවද එම කොමිෂන් සභාව පවසයි.
 
+එවැනි වාහන විමර්ශන සඳහා කොමිෂන් සභාව භාරයට ගෙන වැඩිදුර විමර්ශන සිදුකර අයවිය යුතු රේගු බදු හා වෙනත් ගාස්තු අයකර ගැනීම පිණිස ශ්‍රී ලංකා රේගුව වෙත භාර දී තිබේ.
 
-Online platform helps identify legally imported vehicles. Investigation ongoing into improperly registered cars. Customs introduces online gateway for importing vehicles, ensuring proper payment of taxes. Bribery Investigation Commission provides additional support.
+එහිදී අදාළ වාහනවල දෙවන හෝ ඊට පසු අවස්ථාවන්වල පැවරීම්ලාභීන් දැඩි අපහසුතා හා දුෂ්කරතාවන්ට පත්වන බවත් නිරීක්ෂණය වී තිබේ.
 
-🟩
+ඒ අනුව මීට පිළියමක් ලෙස නිර්ව්‍යාජ ගැනුම්කරුවෙකු වාහනයක් මිලදී ගැනීමට පෙර එම වාහනය සඳහා නිසි පරිදි ආනයනික තීරු බදු හා වෙනත් ගාස්තු ගෙවා ඇති බවට තහවුරු කරගැනීමට මාර්ගගව සුදුසු මාර්ගගත ප්‍රවේශයක් සහස් කර දෙන ලෙස කොමිෂන් සභාව විසින් ශ්‍රී ලංකා රේගුව වෙත මාර්ගෝපදේශ ලබා දී තිබේ.
 
-The falsely registered vehicles registered with the Department of Motor Traffic has launched an investigation into the country's creation.
-
-The Commission says that legal action is being carried out with respect to the identified vehicles, which are allegedly imported by the government.
-
-Such vehicles have been taken into custody and handed over to the Customs Taxes and other fees to be recovered.
-
-It is observed that the transfers of the second or later transfers are to be severely inconvenienced and adversaries.
-
-According to a remedy, a generated buyer has provided a suitable online approach to Sri Lanka Customs directly to ensure that the vehicle has been paid properly to the vehicle.
-
-In response, the Customs has introduced an online gateway and has the opportunity to import the vehicle expected to be purchased by a person and have paid the customs tax.
-
-Bribery or Raise Investigation Commission also provides the opportunity to visit the following link.
-
-◼️
+...
 
 [Data](articles/3fc86ccd.json)
-
-[Extended Data](ext_articles/3fc86ccd.ext.json)
-
----
-
-### மண்சரிவு அபாய எச்சரிக்கை விடுப்பு
-
-*2024-12-14 11:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-விடுப்பு/175-348718) · `ta`
-
-இந்த அறிவிப்பு இன்று (14) மாலை 6:00 மணி வரை செல்லுபடியாகும் என அந்த நிறுவனத்தின் சிரேஷ்ட புவியியலாளர் கலாநிதி வசந்த சேனாதீர தெரிவித்தார்.
-
-இதன்படி, பதுளை மாவட்டத்தின் ஹப்புத்தளை பிரதேச செயலகத்திற்கு 2 கட்டங்களின் கீழ் அவதானமாக இருக்குமாறு அறிவித்தல் விடுக்கப்பட்டுள்ளது.
-
-மேலும், பதுளை மாவட்டத்தில் எல்ல, பசறை மற்றும் ஹாலியால, கண்டி மாவட்டத்தில் மெத தும்பற ஆகிய பகுதிகளின் 1 ஆம் கட்டத்தின் கீழ் எச்சரிக்கையாக இருக்குமாறு அறிவித்தல் வெளியிடப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/2c0fba8b.json)
 
 ---
 
@@ -2453,5 +2399,49 @@ The Director of Customs said that the importation of rice is permitted to import
 [Data](articles/896473c1.json)
 
 [Extended Data](ext_articles/896473c1.ext.json)
+
+---
+
+### Sri Lanka stocks close up, indices continue climb
+
+*2024-12-13 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-indices-continue-climb-194151/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 1.21 percent, or 169.53 points, at 14,205; while the more liquid S&P SL20 Index closed up 1.39 percent, or 57.99 points, at 4,244.
+
+Top positive contributors to the ASPI were Ceylinco Holdings (up at 2,688.25), Melstacorp (up at 112.25), Hatton National Bank (up at 254.75), Central Finance Company (up at 147.25), and Sampath Bank (up at 106.25)
+
+Most actively traded volumes were seen in Hemas Holdings (up at 92.00), Lanka Milk Foods (up at 38.60), John Keells Holdings (flat at 21.40), and Alumex (up at 14.20).
+
+There was foreign net inflow of 126 million rupees. (Colombo/Dec13/2024)
+
+◼️
+
+[Data](articles/9721802e.json)
+
+[Extended Data](ext_articles/9721802e.ext.json)
+
+---
+
+### President Dissanayake to visit India on Sunday
+
+*2024-12-13 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104219/president-dissanayake-to-visit-india-on-sunday) · `en`
+
+President Anura Kumara Dissanayake will undertake a state visit to India from 15 to 17 December 2024 at the invitation of the President of India, Smt. Droupadi Murmu, the foreign ministry confirmed today.
+
+This is the first overseas visit undertaken by the President after his assumption of office.
+
+During the visit, President Dissanayake is scheduled to meet the Indian President Smt. Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and other Indian dignitaries on a range of issues of mutual interest.
+
+The visit will further advance and consolidate the long-standing relations between the two countries, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
+
+Meanwhile, the Indian High Commission in Colombo said President Disanayaka will also participate in a business event in Delhi to promote investment and commercial linkages between India and Sri Lanka. Further, he will visit Bodh Gaya as part of the visit.
+
+...
+
+[Data](articles/b5e86157.json)
+
+[Extended Data](ext_articles/b5e86157.ext.json)
 
 ---

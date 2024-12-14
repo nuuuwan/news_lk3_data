@@ -1,54 +1,136 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 11:43:03**
+As of **2024-12-14 12:42:50**
 
 ## Newspaper Stats
 
-*Scraped **60,118** Articles*
+*Scraped **60,124** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 450
 colombotelegraphcom | 607
-bbccomsinhala | 630
-islandlk | 3,628
+bbccomsinhala | 631
+islandlk | 3,630
 economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
 adaderanalk | 7,322
-tamilmirrorlk | 8,594
+tamilmirrorlk | 8,596
 virakesarilk | 9,868
-adaderanasinhalalk | 10,392
+adaderanasinhalalk | 10,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,070 (99.9%) of 60,118 articles have been extended.
+60,077 (99.9%) of 60,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### නීත්‍යානුකූලව ආනයනය කළ වාහන සොයා ගැනීමට මාර්ගගත ප්‍රවේශයක්
+### යතුරුපැදි අනතුරකින් අයෙකු මරුට
+
+*2024-12-14 12:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204364) · `si`
+
+අංක තහඩු නොමැති යතුරුපැදියක් පැදවූ පුද්ගලයෙකු බෝකුන්දර නිවන්තිඩිය ප්‍රදේශයේදී ලොරියක ගැටී ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ වේරහැර ගංගාරාම කහටගහවත්ත ප්‍රදේශයේ පදිංචිව සිටි මදුරංග අසිත ප්‍රනාන්දු පෙරේරා නම් 30 හැවිරිදි අයෙකි.
+
+මියගිය පුද්ගලයා යතුරුපැදියෙන් මහරගම දෙස සිට බෝකුන්දර දෙසට පැමිණීමේදී ඔහුගෙන් යතුරුපැදිය ගිලිහී ඉදිරියෙන් පැමිණි ලොරි රථයේ ගැටී තිබේ.
+
+අනතුරට පත් යතුරුපැදිය මෙරට ලියාපදිංචි කළ නොහැකි අධිබල ධාරිතාවයෙන් යුත් යතුරුපැදියක් බවට පොලීසිය සැක කරන අතර ඒ සම්බන්ධව විමර්ශන ක්‍රියාත්මක කර ඇතැයිද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/f6ab0d49.json)
+
+---
+
+### Three names recommendation for the post of Speaker
+
+*2024-12-14 11:51:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-பதவிக்கு-மூன்று-பெயர்கள்-பரிந்துரை/175-348719) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Deputy Speaker Dr. Rizvi Sally, National People's Party MP Nihal Kalapatti, and Lakshman expert named for Speaker position. Government to make final decision soon."
+
+🟩
+
+According to government sources, the names of Deputy Speaker Dr. Rizvi Sally and the National People's Party MPs Nihal Kalapatti and Lakshman expert.
+
+However, the government will reach the final decision in a few days.
+
+◼️
+
+[Data](articles/cd19eadf.json)
+
+[Extended Data](ext_articles/cd19eadf.ext.json)
+
+---
+
+### An online approach to find legally imported vehicles
 
 *2024-12-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204363) · `si`
 
-ව්‍යාජ ලෙස මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි කළ මෝටර් රථ 6000කට ආසන්න ප්‍රමාණයක් රට පුරා සංසරණ වීමේ තත්ත්වයක් සම්බන්ධව අල්ලස් හෝ දූෂණ චෝදනා විමර්ෂන කොමිෂන් සභාව විමර්ශනයක් ආරම්භ කර තිබේ.
+Here's a summary in 200 characters:
 
-රජයට අයවිය යුතු රේගු බදු නොගෙවා අනීතිකව ආනයනය කළ බව කියන මෙම වාහන අතුරින් හඳුනාගත් වාහන සම්බන්ධයෙන් නීත්‍යානුකූල කටයුතු සිදුකරමින් පවතින බවද එම කොමිෂන් සභාව පවසයි.
 
-එවැනි වාහන විමර්ශන සඳහා කොමිෂන් සභාව භාරයට ගෙන වැඩිදුර විමර්ශන සිදුකර අයවිය යුතු රේගු බදු හා වෙනත් ගාස්තු අයකර ගැනීම පිණිස ශ්‍රී ලංකා රේගුව වෙත භාර දී තිබේ.
 
-එහිදී අදාළ වාහනවල දෙවන හෝ ඊට පසු අවස්ථාවන්වල පැවරීම්ලාභීන් දැඩි අපහසුතා හා දුෂ්කරතාවන්ට පත්වන බවත් නිරීක්ෂණය වී තිබේ.
+Online platform helps identify legally imported vehicles. Investigation ongoing into improperly registered cars. Customs introduces online gateway for importing vehicles, ensuring proper payment of taxes. Bribery Investigation Commission provides additional support.
 
-ඒ අනුව මීට පිළියමක් ලෙස නිර්ව්‍යාජ ගැනුම්කරුවෙකු වාහනයක් මිලදී ගැනීමට පෙර එම වාහනය සඳහා නිසි පරිදි ආනයනික තීරු බදු හා වෙනත් ගාස්තු ගෙවා ඇති බවට තහවුරු කරගැනීමට මාර්ගගව සුදුසු මාර්ගගත ප්‍රවේශයක් සහස් කර දෙන ලෙස කොමිෂන් සභාව විසින් ශ්‍රී ලංකා රේගුව වෙත මාර්ගෝපදේශ ලබා දී තිබේ.
+🟩
 
-...
+The falsely registered vehicles registered with the Department of Motor Traffic has launched an investigation into the country's creation.
+
+The Commission says that legal action is being carried out with respect to the identified vehicles, which are allegedly imported by the government.
+
+Such vehicles have been taken into custody and handed over to the Customs Taxes and other fees to be recovered.
+
+It is observed that the transfers of the second or later transfers are to be severely inconvenienced and adversaries.
+
+According to a remedy, a generated buyer has provided a suitable online approach to Sri Lanka Customs directly to ensure that the vehicle has been paid properly to the vehicle.
+
+In response, the Customs has introduced an online gateway and has the opportunity to import the vehicle expected to be purchased by a person and have paid the customs tax.
+
+Bribery or Raise Investigation Commission also provides the opportunity to visit the following link.
+
+◼️
 
 [Data](articles/3fc86ccd.json)
+
+[Extended Data](ext_articles/3fc86ccd.ext.json)
+
+---
+
+### Landslide hazard
+
+*2024-12-14 11:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-விடுப்பு/175-348718) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Landslide hazard alert issued until 6:00 pm today. Haputale Divisional Secretariat in Badulla District notified of 2 phases. Pasara, Pasarai, Haliyala areas in Kandy district also under alert.
+
+🟩
+
+The announcement will be valid till 6:00 pm today, said the company's senior geologist Dr. Vasantha Senadheera.
+
+Accordingly, the Haputale Divisional Secretariat of the Badulla District has been notified of the 2 phases.
+
+In addition, the notification has been issued to be alerted under the 1st phase of the Pasara, Pasarai and Haliyala and Kandy district under the 1st phase of the Badulla district.. Remble
+
+◼️
+
+[Data](articles/2c0fba8b.json)
+
+[Extended Data](ext_articles/2c0fba8b.ext.json)
 
 ---
 
@@ -92,6 +174,8 @@ Since then, PPP leader Han Dong-hoon has urged party members to vote for impeach
 
 [Data](articles/33861fe9.json)
 
+[Extended Data](ext_articles/33861fe9.ext.json)
+
 ---
 
 ### Suspect arrested with stock of commercial explosives in Punewa
@@ -109,6 +193,8 @@ The arrested individual is a 53-year-old resident of the Matugama area.
 ◼️
 
 [Data](articles/8afb75ba.json)
+
+[Extended Data](ext_articles/8afb75ba.ext.json)
 
 ---
 
@@ -128,19 +214,31 @@ Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
 
 [Data](articles/1e61aa37.json)
 
+[Extended Data](ext_articles/1e61aa37.ext.json)
+
 ---
 
-### පුපුරණ ද්‍රව්‍ය සමග පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested with explosives
 
 *2024-12-14 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204361) · `si`
 
-ඊයේ (13) රාත්‍රී කාලයේදී පූනෑව පොලිස් වසමේ පූනෑව හන්දිය අසලදී පොලිස් නිලධාරීන් කණ්ඩායමක් විසින් සැකකටයුතු පුද්ගලයෙකු පරීක්ෂා කර තිබේ.
+Here's a summary in 200 characters:
 
-එහිදි සේවා නූලක්, ඇමෝනියම් ග්‍රෑම් 150ක් සහ ජෙලග්නයිට් කූරු 01ක් ඔහු සතුව තිබී පොලීසිය විසින් සොයාගෙන තිබේ.
+
+
+Police arrest man with explosives near Poona Junction. Found with 150g ammonium and 1 detonator stick during inspection. Incident occurred yesterday morning.
+
+🟩
+
+A suspicious group of police officers have been inspected by a team of police officers near the Poona Junction of the Poona junction in the morning yesterday.
+
+He had a service string, 150 grams of ammonium and 1 glagnite sticks.
 
 ◼️
 
 [Data](articles/2210c6b2.json)
+
+[Extended Data](ext_articles/2210c6b2.ext.json)
 
 ---
 
@@ -625,6 +723,30 @@ Fields of Uduppi Poya Day. M. The 120th Live Broadcasting of the Derana is sched
 [Data](articles/3b8e3b8f.json)
 
 [Extended Data](ext_articles/3b8e3b8f.ext.json)
+
+---
+
+### අශෝක රංවල: කතානායක ධූරයෙන්  ඉල්ලා අස්වීමේ තීරණය සහ  ජාතික ජනබලවේග ආණ්ඩුවේ ඉදිරි ගමන
+
+*2024-12-14 06:39:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36e5jj085wo) · `si`
+
+අශෝක රංවල: කතානායක ධූරයෙන්  ඉල්ලා අස්වීමේ තීරණය සහ  ජාතික ජනබලවේග ආණ්ඩුවේ ඉදිරි ගමන
+
+කතානායක අශෝක රංවලගේ අධ්‍යාපන සුදුසුකම් පිළිබඳ මතු වූ ආන්දෝලනය,  පෙර නොවූ විරූ ජනවරමකින් බලයට පත් ජාතික ජනබලවේග ආණ්ඩුවට මසක් ගතවීමටත් පෙර තම කුළුදුල් ආණ්ඩුවේ සුජාතභාවය ආරක්ෂාකර ගැනීමට මුහුණ දීමට සිදු වූ අභියෝගාත්මක ලිට්මස් පරීක්ෂාවක් බවට පත්විය.
+
+ඒ දෙසැම්බර් 13 වන දා තම ධූරයෙන් ඉල්ලා අස්වීමට තිරණය කිරීමත් සමඟ ශ්‍රී ලංකා ඉතිහාසයේ අඩුම කාලයක් කතානායක ධුරය දැරූ කතානායකවරයා බවට  අශෝක රංවල පත්වනු ඇත.
+
+ඉල්ලා අස්වීම ජනධිපතිවරයා විසින් භාර ගතහොත්  ඔහුගේ ධූර කාලය ඒ අනුව දින 22 කට සීමා වේ.
+
+නොවැම්බර් 21 වැනි දා ඔහු කාතානායක ධුරයට පත් වූ දා පටන්ම ඔහුගේ අධ්‍යාපන සුදුසුකම් පිළිබඳව විවිධ පුද්ගලයින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න කරන්නට විය
+
+එය අවසානයේ කෙළවර වූයේ අශෝක රන්වලට ධුරයෙන් ඉල්ලා අස්වීමට තරම් බරපතල සමාජ බලපෑමක් ඇති කරමිනි.
+
+අශෝක රන්වල: ආන්දෝලනයට තුඩු දී ඇති තම උපාධි ගැන කතානායකවරයා බීබීසීයට කිව්වේ මොනවා ද?
+
+...
+
+[Data](articles/0a172f6b.json)
 
 ---
 
@@ -2337,111 +2459,5 @@ The High Commission in Colombo announced his visit to Buddhagaya.
 [Data](articles/3f3c145d.json)
 
 [Extended Data](ext_articles/3f3c145d.ext.json)
-
----
-
-### Sujeewa Senasinghe seek to pay
-
-*2024-12-13 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204344) · `si`
-
-Sujeewa Senasinghe sues police over home search & questioning about illegal vehicle. Supreme Court examines case involving CID director. Petitioner seeks declaration of HR violation and appropriate relief.
-
-🟩
-
-The Supreme Court prescribed the fundamental rights petition filed by the police to ensure that the police were violated by former Minister Sujeewa Senasinghe by examining his own homes by inspection of a unlawful vehicle's possession..
-
-The petition was called before Arjuna Obeysekera and Achala Webaries and the Supreme Court Bench.
-
-The Director of the Criminal Investigation Department (CID) had been named as respondents in the petition.
-
-Petitiovathi Sujeewa Senasinghe says that the police have examined his home and questioned a unique vehicle.
-
-He pointed out that the investigation was uncovered in such a vehicle.
-
-He has asked his petition to issue a decree to judge that the basic human rights violations of their basic human rights and a suitable rank.
-
-◼️
-
-[Data](articles/ffb16d6c.json)
-
-[Extended Data](ext_articles/ffb16d6c.ext.json)
-
----
-
-### 2300 metric tons of rice to be removed
-
-*2024-12-13 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204343) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-2,300 metric tons of rice imported since Dec 4. Clearance process involves food inspectors and plant quarantine. Wholesale importers released immediately. Another 3,500 metric tons expected soon. Rice imports allowed until Dec 20.
-
-🟩
-
-Customs, Director General of Customs Aruertagoda says that 2300 metric tons of rice has been imported since December 4.
-
-Addressing a media briefing held today (13), he said that 1600 metric tons of rice had about 600 metric tons of rice and 680 metric tons of rice.
-
-He said that the rice clearances will be inspected by officers at the Food Inspectors and the Plant Quarantine Office before clearance.
-
-The Director of Customs said that the Sri Lanka Customs Experts have been released to the immediate release of these wholesale importers.
-
-He said that the processes to release the rest of the rice are already underway.
-
-He said that as soon as another 3500 metric tons of rice was received today and tomorrow (14).
-
-The Director of Customs said that the importation of rice is permitted to import rice only to December 20 and the import of rice should be imported.
-
-◼️
-
-[Data](articles/896473c1.json)
-
-[Extended Data](ext_articles/896473c1.ext.json)
-
----
-
-### Sri Lanka stocks close up, indices continue climb
-
-*2024-12-13 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-indices-continue-climb-194151/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader ASPI closed up 1.21 percent, or 169.53 points, at 14,205; while the more liquid S&P SL20 Index closed up 1.39 percent, or 57.99 points, at 4,244.
-
-Top positive contributors to the ASPI were Ceylinco Holdings (up at 2,688.25), Melstacorp (up at 112.25), Hatton National Bank (up at 254.75), Central Finance Company (up at 147.25), and Sampath Bank (up at 106.25)
-
-Most actively traded volumes were seen in Hemas Holdings (up at 92.00), Lanka Milk Foods (up at 38.60), John Keells Holdings (flat at 21.40), and Alumex (up at 14.20).
-
-There was foreign net inflow of 126 million rupees. (Colombo/Dec13/2024)
-
-◼️
-
-[Data](articles/9721802e.json)
-
-[Extended Data](ext_articles/9721802e.ext.json)
-
----
-
-### President Dissanayake to visit India on Sunday
-
-*2024-12-13 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104219/president-dissanayake-to-visit-india-on-sunday) · `en`
-
-President Anura Kumara Dissanayake will undertake a state visit to India from 15 to 17 December 2024 at the invitation of the President of India, Smt. Droupadi Murmu, the foreign ministry confirmed today.
-
-This is the first overseas visit undertaken by the President after his assumption of office.
-
-During the visit, President Dissanayake is scheduled to meet the Indian President Smt. Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and other Indian dignitaries on a range of issues of mutual interest.
-
-The visit will further advance and consolidate the long-standing relations between the two countries, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
-
-Meanwhile, the Indian High Commission in Colombo said President Disanayaka will also participate in a business event in Delhi to promote investment and commercial linkages between India and Sri Lanka. Further, he will visit Bodh Gaya as part of the visit.
-
-...
-
-[Data](articles/b5e86157.json)
-
-[Extended Data](ext_articles/b5e86157.ext.json)
 
 ---

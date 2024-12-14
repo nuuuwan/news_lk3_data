@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 17:43:55**
+As of **2024-12-14 18:03:29**
 
 ## Newspaper Stats
 
-*Scraped **60,147** Articles*
+*Scraped **60,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,126 @@ economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
-adaderanalk | 7,326
+adaderanalk | 7,329
 tamilmirrorlk | 8,599
-virakesarilk | 9,873
-adaderanasinhalalk | 10,400
+virakesarilk | 9,877
+adaderanasinhalalk | 10,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,117 (100.0%) of 60,147 articles have been extended.
+60,117 (99.9%) of 60,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### Georgian former footballer Kavelashvili elected as President by lawmakers
+
+*2024-12-14 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104239/georgian-former-footballer-kavelashvili-elected-as-president-by-lawmakers) · `en`
+
+Georgia’s ruling party on Saturday installed a far-right loyalist as the country’s president in a controversial election process amid a constitutional crisis and after weeks of mass pro-EU protests.
+
+An electoral college, controlled by the ruling Georgian Dream party and boycotted by the opposition, elected Mikheil Kavelashvili with 224 votes as the country’s next figurehead leader for a five-year term, central election commission chair Giorgi Kalandarishvili said.
+
+The sitting president Salome Zurabishvili has declared the vote “illegitimate” and refused to step down.
+
+The Black Sea nation has been in turmoil since the governing Georgian Dream party claimed victory in contested October parliamentary elections.
+
+Its decision last month to delay European Union membership talks ignited a fresh wave of mass rallies.
+
+The opposition has denounced Saturday’s election as “illegitimate” and said sitting President Salome Zurabishvili remains the country’s sole legitimate leader.
+
+...
+
+[Data](articles/ed8d2bdd.json)
+
+---
+
+### கொத்மலை நீர்த்தேக்கத்தில் பெண்ணின் சடலம் மீட்பு !
+
+*2024-12-14 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201252) · `ta`
+
+தலவாக்கலை - மேல் கொத்மலை நீர்த்தேக்கத்தில் பெண் ஒருவர் இன்று சனிக்கிழமை (14) சடலமாக மீட்கப்பட்டுள்ளதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+
+நீர்த்தேக்கத்தின் வான் கதவுகள் அமைந்துள்ள பிரதான அணைக்கட்டுக்கு அருகில் சடலம் கிடப்பதாக பொலிஸாருக்கு கிடைத்த தவலின் பேரில் சம்பவ இடத்திற்கு விரைந்த பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+சடலமாக மீட்கப்பட்டவர் தொடர்பில் இதுவரை எந்தவித தகவல்களும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்தனர்.
+
+சடலத்தை பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலைக்கு எடுத்துச் செல்லப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a212071b.json)
+
+---
+
+### මියගිය පුද්ගලයෙකුගේ සිරුරක් සැඟවූ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-12-14 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204375) · `si`
+
+විදුලිසැර වැදී මියගිය පුද්ගලයෙකුගේ මෘත ශරීරයක් සැඟවූ පුද්ගලයින් දෙදෙනෙකු ඌරගස්මංහන්දිය පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම පොලිස් ස්ථානයට ලද තොරතුරක් මත සිදුකළ විමර්ශනයේ දී අදාළ සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+ඌරගස්මංහන්දිය, වල්ඉඟුරුකැටිය ප්‍රදේශයේ පදිංචිව සිටි මියගිය පුද්ගලයා පසුගිය 9 වනදා කුරුඳු තැලීමට මාතර ප්‍රදේශයට යන බව පවසා නිවසින් පිටව ගොස් ඇති බව සඳහන් ය.
+
+කෙසේවෙතත් ඔහු යළි නිවසට නොපැමීණීම හේතුවෙන් ඒ සම්බන්ධයෙන් ඔහුගේ ඥාතීන් විසින් පොලීසියට පැමිණිලි කර තිබුණි.
+
+◼️
+
+[Data](articles/9d7c4a48.json)
+
+---
+
+### அலங்கு திரைப்படம் ரசிகர்களை ஏமாற்றாது - நடிகர் குணாநிதி
+
+*2024-12-14 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201260) · `ta`
+
+நடிகர் குணாநிதி நடிப்பில் உருவாகி இருக்கும் 'அலங்கு' திரைப்படம் எதிர்வரும் 27ஆம் திகதி பட மாளிகையில் வெளியாகிறது. 'இந்த திரைப்படம் ரசிகர்களை ஏமாற்றாது. வித்தியாசமான அனுபவத்தை வழங்கும்' என படத்தின் நாயகனும், நடிகருமான குணாநிதி தெரிவித்திருக்கிறார்.
+
+இயக்குநர் எஸ். பி . சக்திவேல் இயக்கத்தில் உருவாகி இருக்கும் 'அலங்கு' எனும் திரைப்படத்தில் குணாநிதி, செம்பன் வினோத், காளி வெங்கட் ,சரத் அப்பாணி, ஸ்ரீ ரேகா , கொற்றவை , ரெஜின் ரோஸ்,  இதயக்குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். எஸ். பாண்டி குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அஜீஷ் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை டி ஜி ஃபிலிம்  கம்பனி மற்றும் மேக்னஸ் புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் டி .சபரிஷ் மற்றும் சங்கமித்ரா சௌமியா அன்புமணி ஆகியோர் இணைந்து தயாரித்து இருக்கிறார்கள்.
+
+இந்த படத்தினை விளம்பரப்படுத்தும் நிகழ்வு சென்னையில் நடைபெற்றது. இதன் போது இயக்குநரும், நடிகருமான மிஷ்கின் சிறப்பு அதிதியாக பங்கு பற்றினார். நிகழ்வின் தொடக்கமாக கிராமிய கூத்து கலைஞர்களின் கூத்துக்கலை நடைபெற்றது.
+
+...
+
+[Data](articles/ad5726e0.json)
+
+---
+
+### நடிகர் சண்முக பாண்டியன் விஜயகாந்துக்கு ஆதரவுக்கரம் நீட்டிய அனிருத்
+
+*2024-12-14 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201262) · `ta`
+
+நடிகர் சண்முக பாண்டியன் விஜயகாந்த் கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'படை தலைவன்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. இதனை முன்னணி நட்சத்திர இசை அமைப்பாளரும் , இசை கலைஞருமான அனிருத் அவருடைய இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கும், சண்முக பாண்டியன் விஜயகாந்திற்கும் வாழ்த்து தெரிவித்திருக்கிறார்.
+
+இயக்குநர் யூ .அன்பு இயக்கத்தில் உருவாகி வரும் 'படை தலைவன் 'எனும் திரைப்படத்தில் சண்முக பாண்டியன் விஜயகாந்த், கஸ்தூரி ராஜா, யாமினி சந்தர், முனீஸ்காந்த், கருடா ராம் , ரிஷி,  ஏ. வெங்கடேஷ், யூகி சேது,  ஸ்ரீ ஜித் ரவி, அருள்தாஸ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+எஸ். ஆர். சதீஷ்குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை ஞானி' இளையராஜா இசையமைத்திருக்கிறார். கிராமிய பின்னணியில் எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஓபன் தியேட்டர் மற்றும் சுமீத் ஆர்ட்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் ஏ.செந்தில் குமார் மற்றும் சுமீத் சைகல் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/16db70f1.json)
+
+---
+
+### சீயான் விக்ரம் நடிக்கும் 'சீயான் 63' அப்டேட்
+
+*2024-12-14 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201263) · `ta`
+
+சர்வதேச அளவிலான திரைப்பட விருதுகளுக்கு அடையாளமும், அங்கீகாரமும் வழங்கும் இந்திய நட்சத்திர முகமான சீயான் விக்ரம் நடிப்பில் தயாராகும் 'சீயான் 63' படத்தை பற்றிய அதிகாரப்பூர்வமான அறிவிப்பு பிரத்யேக புகைப்படத்துடன் உற்சாகமாக வெளியிடப்பட்டிருக்கிறது.
+
+'மண்டேலா', 'மாவீரன்' ஆகிய படங்களில் மூலம் தமிழ் ரசிகர்களின் கவனத்தைக் கவர்ந்த படைப்பாளி மடோன் அஷ்வின் இயக்கத்தில் உருவாகும் 'சீயான் 63' என தற்காலிகமாக பெயரிடப்பட்டிருக்கும் படத்தில் 'சீயான்' விக்ரம் கதையின் நாயகனாக நடிக்கிறார்.
+
+எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை சாந்தி டாக்கீஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் அருண் விஷ்வா தயாரிக்கிறார்.  இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு பிரத்யேக புகைப்படத்துடன் வெளியிடப்பட்டிருக்கிறது. மேலும் படத்தில் பணியாற்றும் ஏனைய நடிகர்கள், நடிகைகள் மற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என்றும் தெரிவிக்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/7e74703b.json)
+
+---
 
 ### The woman's corpse in the upper Kothmalai reservoir
 
@@ -51,6 +157,28 @@ The body was taken to the Nuwara Eliya District Hospital following the inquiry o
 [Data](articles/c82fd874.json)
 
 [Extended Data](ext_articles/c82fd874.ext.json)
+
+---
+
+### රටින් ගෙනආ සහල් තොගයක ගුල්ලන්
+
+*2024-12-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204374) · `si`
+
+පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කළ බහාලුම් 3ක ඇති සහල් තොග පරිභෝජනයට නුසුදුසු සහල් බවට ආහාර හා ඖෂධ පරීක්ෂකවරුන් හඳුනාගෙන තිබේ.
+
+මෙලෙස දිවයිනට රැගෙන එන සහල් රේගුවෙන් නිදහස් කිරීමට පෙර සෞඛ්‍ය අමාත්‍යංශයේ ආහාර හා ඖෂධ පරීක්ෂකවරුන් විසින් පරික්ෂාවට ලක් කරනු ලබයි.
+
+ඒ අනුව සිදුකළ පරික්ෂා කිරීම්වලදී ආනයනය කළ බහාලුම් 03ක තිබු සහල් කිලෝග්‍රෑම් 75,000ක් පරිභෝජනයට නුසුදුසු බවට හඳුනාගෙන ඇත.
+
+ඒ අතරින් බහාලුම් දෙකක තිබු සහල්වල ගුල්ලන් සිට ඇති අතර අනෙක් බහාලුමේ තිබු සහල් උරවල නිෂ්පාදිත දිනය ඇතුළත් පැරණි ලේබලය මතම නව ලේබලයක් අලවා තිබිම හේතුවෙන් එම බහාලුම් සෞඛ්‍ය අංශ මගින් රේගුවෙන් නිදහස් කිරීමට අවසර ලබාදී නොමැත.
+
+මෙරට සහල් හිඟයට පිළියමක් ලෙස, සහල් ආනයනය කිරීම සඳහා පෞද්ගලික ආනයනකරුවන්ට රජය ඉකුත් 04 වනදා සිට අවසර ලබාදී තිබුණි.
+
+ඒ අනුව මේ වනවිට ඉන්දියාවෙන් සහල් ආනයනය කෙරෙමින් පවතින අතර පසුගිය 4 වනදා සිට ඊයේ (13) දහවල් දක්වා පෞද්ගලික ආනයනකරුවන් ආනයනය කළ සහල් මෙට්‍රික්ටොන් 2,300ක් රේගුව වෙත ලැබී තිබුණි.
+
+◼️
+
+[Data](articles/3a56d561.json)
 
 ---
 
@@ -133,6 +261,40 @@ All the lines featured in this song have received the support of most middle cla
 [Data](articles/c5586609.json)
 
 [Extended Data](ext_articles/c5586609.ext.json)
+
+---
+
+### New online portal launched to verify legally imported vehicles
+
+*2024-12-14 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104237/new-online-portal-launched-to-verify-legally-imported-vehicles) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has launched an investigation into the nearly 6,000 vehicles across Sri Lanka which have been fraudulently registered with the Department of Motor Traffic (DMT).
+
+The commission has stated that legal action is currently being taken regarding the identified vehicles which were allegedly imported illegally without paying the necessary customs duties owed to the government.
+
+The vehicles in question have been seized by the commission for investigation and handed over to Sri Lanka Customs for further inquiries, as well as to uncover unpaid customs duties and other applicable fees.
+
+It has been observed that the transferees of these vehicles have encountered significant inconvenience and challenges, particularly when transferring to the second or subsequent owners.
+
+...
+
+[Data](articles/114f1aec.json)
+
+---
+
+### Woman injured in shooting near Maligakanda court
+
+*2024-12-14 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104238/woman-injured-in-shooting-near-maligakanda-court) · `en`
+
+One person has reportedly been injured following a shooting incident in the Maligakanda area this afternoon (14).
+
+An unidentified gunman who arrived on a motorcycle has carried out the shooting before fleeing in the same motorcycle.
+
+The shooting victim has been admitted to the Colombo National Hospital with critical injuries.
+
+◼️
+
+[Data](articles/b9a8a7a7.json)
 
 ---
 
@@ -286,11 +448,13 @@ All women in Sri Lanka are facing patriarchal oppression and violence over ethni
 
 The Presidential Secretary, Dr. Nandika Sanath Kumanayake has officially informed the Secretary General of Parliament in writing that the President has accepted the resignation of Speaker Ashoka Ranwala.
 
-Ranwala announced his resignation from his position as Speaker of Parliament on December 13, amidst the controversy surrounding his educational qualifications. This is the first time in Sri Lanka’s parliamentary history that a Speaker has resigned.
+The Secretary to the President has informed the Secretary General of Parliament, Mrs. Kushani Rohanadeera, in writing that the President has accepted the resignation of the Speaker, Asoka Ranwala.
 
-Political observers have indicated that the appointment of a new Speaker will likely take place on December 17, when the Parliament reconvenes. Nominees for the position are expected to be submitted on the same day.
+The newly elected Speaker of the Tenth Parliament, Asoka Ranwala, had informed the President in writing that he would resign from his post.
 
-The Speaker can submit his resignation to the General Secretary of Parliament or the President. Once the President receives the resignation letter, he can decide whether to accept it. Upon acceptance, Parliament must elect a new Speaker, either through a vote or nomination, as per the regulations.
+In terms of Article 64(2) of the Constitution, if a Member holding office as the Speaker, Deputy Speaker or Deputy Chairman of a Committee resigns his office, he shall notify the President in writing.
+
+Accordingly, the Secretary to the President has given this written communication to the Secretary General of Parliament.
 
 ...
 
@@ -2223,223 +2387,5 @@ It is noteworthy that three of the samples sent from these patients have been co
 [Data](articles/2952c5eb.json)
 
 [Extended Data](ext_articles/2952c5eb.ext.json)
-
----
-
-### Fire at a cafeteria near the Gangarama Viharaya
-
-*2024-12-13 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204351) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Fire breaks out at cafeteria near Gangarama Viharaya in Colombo due to a gas cylinder leak. No casualties reported."
-
-🟩
-
-It is reported that a fire has erupted at a cafeteria where the Gangarama Viharaya, Colombo.
-
-The fire has taken place on a leak caused by a gas cylinder in the canteen.
-
-The fire has not been casualties, he has not suffered any person's casualties.
-
-◼️
-
-[Data](articles/2ce9f0bd.json)
-
-[Extended Data](ext_articles/2ce9f0bd.ext.json)
-
----
-
-### Ella -Vellava Road is banned - Disaster Management Center
-
-*2024-12-13 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201219) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Ella-Vellava Road closed due to disaster management center incident near 10th pole."
-
-🟩
-
-It is noteworthy that the incident took place near the 10th pole on the Ella-Vellava road.
-
-◼️
-
-[Data](articles/e53416e6.json)
-
-[Extended Data](ext_articles/e53416e6.ext.json)
-
----
-
-### Indian High Commissioner meets Sri Lanka Prime Minister
-
-*2024-12-13 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201218) · `ta`
-
-Indian High Commissioner meets Sri Lankan PM: Long-term friendship & strategic partnership discussed. Bilateral projects progress reviewed. Key officials from both sides present.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja met Sri Lankan Prime Minister Harini Amarasuriya on Friday (13) at the Prime Minister's Office. The meeting was an illustration of long -term friendship and strategic partnership between the two countries.
-
-During this discussion, the progress of many bilateral projects in various development conditions was focused during this discussion.
-
-The delegation was accompanied by the High Commissioner Santosh Ja and senior officials of the Indian High Commission.. Representing Sri Lanka. Sagarika Bogahawatta, and the Ministry of External Affairs South Asia and the Director General of SAARC Division.
-
-◼️
-
-[Data](articles/97b2596b.json)
-
-[Extended Data](ext_articles/97b2596b.ext.json)
-
----
-
-### Ella - Wellawaya Road is blocked
-
-*2024-12-13 19:33:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்ல-வெல்லவாய-வீதி-தடைப்பட்டுள்ளது/175-348707) · `ta`
-
-Ella - Wellawaya Road blocked due to tree collapse near 10th thunderbolt. Disaster Management Center reports road closure also caused by fallen pole on Karandakolla Road.
-
-🟩
-
-The Disaster Management Center said that traffic from the area has been blocked due to the collapse of a massive tree on the Ella -Wellawaya road.
-
-This is the case near the 10th thunderbolt on the Ella - Wellawaya Road.
-
-The Disaster Management Center has said that a road has been blocked due to a falling pole on Ella - Wellawaya Road on Karandakolla Road.. Remble
-
-◼️
-
-[Data](articles/b3cd4a5e.json)
-
-[Extended Data](ext_articles/b3cd4a5e.ext.json)
-
----
-
-### Shots fired at residence of ‘Konda Ranji’
-
-*2024-12-13 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104221/shots-fired-at-residence-of-konda-ranji) · `en`
-
-Two unidentified individuals who had arrived on a motorcycle have reportedly opened fire at a three-storey house located on Veedi Mawatha in Kandana.
-
-During the shooting incident, several bullets had also hit nearby houses while it is reported that a T-56 assault rifle had been used to carry out the shooting.
-
-The gunmen had targeted a residence belonging to Ranjith Kumara, also known as ‘Kandane Konda Ranji’, Ada Derana reporter said.
-
-It is said that the individual known as ‘Konda Ranji’ had travelled to Dubai along with his wife and three children, more than two years ago.
-
-He had been out on bail after being in remand custody over charges including possession of a firearm, drug racketeering and cattle theft.
-
-◼️
-
-[Data](articles/86b4e4f0.json)
-
-[Extended Data](ext_articles/86b4e4f0.ext.json)
-
----
-
-### Northern Province Unemployed Graduates Association Struggle
-
-*2024-12-13 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201217) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Unemployed graduates protest outside Jaffna District Secretariat. Over 5 years post-graduation, no state jobs. Demanding appointments from new government.
-
-🟩
-
-A protest campaign was launched in front of the Jaffna District Secretariat today (13) in the Northern Province Unemployed Graduates Association.
-
-More than 5 years after their graduation, state employment has not yet been given to them.
-
-Therefore, the struggle was carried out on the urging the newly -ruled government to give its appointment.
-
-◼️
-
-[Data](articles/f511d323.json)
-
-[Extended Data](ext_articles/f511d323.ext.json)
-
----
-
-### Mihran returns to the country with Asian Boxing Medal
-
-*2024-12-13 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201216) · `ta`
-
-Sri Lankan boxer Umayangana Mihran wins bronze in Asian Boxing Championships after 37 years. Mihran defeated Malaysia's Mohammed Abdul Qai in quarter-finals but lost to Uzbekistan's Asilbek Jalov in semi-finals, securing bronze medal.
-
-🟩
-
-When Umayangana Mihran returned to the airport when he returned to the airport in the recently concluded Asian Eligious Boxing Championships at the Chiang Mai Hall in Thailand, winning the 51 kilogram weight category.
-
-PLJ in the 1987 Asian Boxing Tournament in Kuwait. This is the first time Sri Lanka won the Medal in the Asian Boxing Medal 37 years after the Ratnasiri Bronze Medal won.
-
-Mihran -up in the quarter -finals Mihran -up was confirming a medal by winning Malaysia's first -level Asian Boxing Tournament, Mohammed Abdul Qai, a 22 -year -old Asian Boxing Tournament.
-
-Subsequently, Umayangana Mihran, who failed in the semi -finals of the Asian Champion Asilbec Jalov (Uzbekistan) under the age of 22, was satisfied with the bronze medal as the Umayankana Mihran failed last Sunday.
-
-Mihran lost 27 - 30, based on the points awarded by mediators 9 - 10, 9 - 10, 9 - respectively, respectively.
-
-...
-
-[Data](articles/eab1ebd7.json)
-
-[Extended Data](ext_articles/eab1ebd7.ext.json)
-
----
-
-### Ella - Wellawaya road blocked
-
-*2024-12-13 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204350) · `si`
-
-Ella-Wellawaya Rd blocked: Tree collapse causes lane obstruction. DMC reports incident.
-
-🟩
-
-The Disaster Management Center (DMC) says that due to a tree collapses, the Ella-Wellawaya Road has been blocked.
-
-The center says a large tree has collapsed near the post of Ella-Wellawaya road.
-
-The Disaster Management Center (DMC) said that one lane has been blocked by the collapse of a light station to Karundagolle road on the Ella-Wellawaya road.
-
-◼️
-
-[Data](articles/e0634e8b.json)
-
-[Extended Data](ext_articles/e0634e8b.ext.json)
-
----
-
-### Firing in Kandana
-
-*2024-12-13 18:44:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கந்தானையில்-துப்பாக்கிச்-சூடு/175-348706) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Armed men attack 3-storey house in Kandana. Target: Ranjit Kumara (known as Ranji). He left Sri Lanka 2.5 years ago with family. Recently released on bail for kidnapping & theft. Police investigating incident.
-
-🟩
-
-A three -storey house in Kandana area has been shot this evening.
-
-It is reported that the armed men attacked the house of Ranjit Kumara, known as Ranji from Kandana.
-
-It is reported that the person went to Dubai with his wife and three children two and a half years ago.
-
-It is reported that the person was released on bail from prison for the abduction of the man, the kidnapping and the stealing of cow.
-
-In this case, the police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/9ddb8314.json)
-
-[Extended Data](ext_articles/9ddb8314.ext.json)
 
 ---

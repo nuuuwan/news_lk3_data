@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 09:22:01**
+As of **2024-12-14 10:02:04**
 
 ## Newspaper Stats
 
-*Scraped **60,097** Articles*
+*Scraped **60,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
-tamilmirrorlk | 8,591
+tamilmirrorlk | 8,593
 virakesarilk | 9,867
 adaderanasinhalalk | 10,387
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 10,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,053 (99.9%) of 60,097 articles have been extended.
+60,055 (99.9%) of 60,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### தொடர்ந்து முன்னெடுக்கப்படும் அதிரடி சோதனை நடவடிக்கைகள்
+
+*2024-12-14 09:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-முன்னெடுக்கப்படும்-அதிரடி-சோதனை-நடவடிக்கைகள்/175-348716) · `ta`
+
+நாடளாவிய ரீதியில் அரிசி தொடர்பான சோதனை நடவடிக்கைகள் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருவதாக நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+
+நேற்று (14) நாடளாவிய ரீதியில் சுமார் 75 சுற்றிவளைப்புகள் நடத்தப்பட்டதாக அதன் பணிப்பாளர் அசேல பண்டார தெரிவித்தார்.
+
+இனிவரும் காலங்களில் வார இறுதி நாட்களிலும் விடுமுறை நாட்களிலும் சோதனை நடத்துமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தப்பட்டுள்ளதாக அவர் கூறினார்.
+
+மேலும், இறக்குமதி செய்யப்பட்ட அரிசி கையிருப்பு சந்தைக்கு வருவதால் அரிசியின் விலை குறைவதோடு சில பகுதிகளில் விலை குறைவடைந்து வருவதாகவும் அவர் கூறுகிறார். R
+
+5,200 மெற்றிக் தொன் அரிசி முதல் தொகுதி இம்மாதம் 19ஆம் திகதி இலங்கைக்கு வரவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/3b7d02ef.json)
+
+---
+
+### வெற்றிடமான சபாநாயகர் பதவி - நடக்கப்போவது என்ன?
+
+*2024-12-14 09:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடமான-சபாநாயகர்-பதவி-நடக்கப்போவது-என்ன/175-348715) · `ta`
+
+அசோக சபுமல் ரங்வாலாவின் இராஜினாமாவால் வெற்றிடமான சபாநாயகர் பதவிக்கு புதிய சபாநாயகர் எதிர்வரும் 17ம் திகதி தெரிவுசெய்யப்பட வேண்டும் என தகவல்கள் தெரிவிக்கின்றன.
+
+எதிர்வரும் 17ஆம் திகதி பாராளுமன்றம் கூடவுள்ள நிலையில், அன்றைய தினம் புதிய சபாநாயகர் நியமனம் தொடர்பான வேட்புமனுக்கள் சமர்ப்பிக்கப்பட வேண்டுமென குறிப்பிடப்பட்டுள்ளது.
+
+இதேவேளை, பாராளுமன்ற வரலாற்றில் சபாநாயகர் ஒருவர் பதவி விலகுவது இதுவே முதல் தடவை என பேராசிரியர் பிரதிபா மஹாநாமஹேவா தெரிவித்துள்ளார்.
+
+இது தொடர்பான இராஜினாமா அறிவிப்பை சபாநாயகரால் பாராளுமன்ற செயலாளர் நாயகத்திடமோ அல்லது ஜனாதிபதியிடமோ வழங்க முடியும் என அவர் தெரிவித்துள்ளார்.
+
+இராஜினாமா கடிதம் ஜனாதிபதிக்கு கிடைத்த பின்னர் சபாநாயகரின் இராஜினாமா கடிதம் தொடர்பில் ஜனாதிபதி தீர்மானம் எடுக்க முடியும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+சபாநாயகரின் இராஜினாமாவை ஜனாதிபதி ஏற்றுக்கொண்டால், புதிய சபாநாயகரை மீண்டும் பாராளுமன்றம் தெரிவு செய்ய வேண்டும் எனவும், பொதுச் சட்டத்தின் கீழ் வாக்களித்து அல்லது நியமனம் மூலம் நியமனத்தை தெரிவு செய்ய முடியும் எனவும் அவர் மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/cdf80290.json)
+
+---
+
+### Union Bank CEO Dilshan Rodrigo felicitated by APB
+
+*2024-12-14 09:32:00* · [`islandlk`](http://island.lk/union-bank-ceo-dilshan-rodirgo-felicitated-by-apb/) · `en`
+
+Union Bank is proud to share that Dilshan Rodrigo, Director/CEO of Union Bank was recently honoured at the Association of Professional Bankers (APB) Sri Lanka’s distinguished member felicitation ceremony. This recognition celebrates his exceptional contributions to the banking industry and highlights his commitment to excellence and innovation. His inspiring leadership continues to motivate banking professionals to strive for greater success.
+
+First Capital crowns its excellence with ‘Brand of the Year’
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/80f43ae0.json)
+
+[Extended Data](ext_articles/80f43ae0.ext.json)
+
+---
 
 ### European Union allocates 175,000 euros for Sri Lankans affected by floods
 
@@ -169,26 +231,6 @@ The Department of Sabaragamuwa, Southern and Uva provinces can be in the morning
 [Data](articles/70f887ec.json)
 
 [Extended Data](ext_articles/70f887ec.ext.json)
-
----
-
-### Union Bank CEO Dilshan Rodirgo felicitated by APB
-
-*2024-12-14 05:45:00* · [`islandlk`](http://island.lk/union-bank-ceo-dilshan-rodirgo-felicitated-by-apb/) · `en`
-
-Union Bank is proud to share that Dilshan Rodirgo, Director/CEO of Union Bank was recently honoured at the Association of Professional Bankers (APB) Sri Lanka’s distinguished member felicitation ceremony. This recognition celebrates his exceptional contributions to the banking industry and highlights his commitment to excellence and innovation. His inspiring leadership continues to motivate banking professionals to strive for greater success.
-
-First Capital crowns its excellence with ‘Brand of the Year’
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/80f43ae0.json)
-
-[Extended Data](ext_articles/80f43ae0.ext.json)
 
 ---
 
@@ -2405,55 +2447,5 @@ This no -confidence motion has been introduced in accordance with section 6 of t
 [Data](articles/dc4ac6c0.json)
 
 [Extended Data](ext_articles/dc4ac6c0.ext.json)
-
----
-
-### Sivanolipada Mountain Seas
-
-*2024-12-13 14:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலை-பருவ-காலம்-நாளை-ஆரம்பம்/175-348703) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Sivanolipada Mountain Seas" event extended until May 13, 2024, according to Ratnapura District Secretary Vasantha Gunaratne's gazette notification.
-
-🟩
-
-Accordingly, a special gazette notification was released yesterday (12) by the Ratnapura District Secretary Vasantha Gunaratne that the Sivanolipada Mountain season will be held till May 13 next year.
-
-◼️
-
-[Data](articles/25d79984.json)
-
-[Extended Data](ext_articles/25d79984.ext.json)
-
----
-
-### Parliament Explains on the dismissal of the Minister of Justice Harshana Nanayakkara
-
-*2024-12-13 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201157) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament clarifies error: Minister Harshana Nanayakkara's degree incorrectly listed as "doctor." Steps being taken to correct mistake on parliamentary website. Apologizes for inconvenience caused.
-
-🟩
-
-When the members of the Members of the Parliament are entered into the information collection, Minister Attorney -at -Law Harshana Nanayakkara has mistakenly referred to as "doctor".. Parliament said that steps are being taken to address the mistake.
-
-This was stated in a media statement issued by Parliament regarding the doctoral degree mentioned before the Minister of Justice and National Integration Minister Harshana Nanayakkara.
-
-In the Parliamentary Site, we emphasize the following issues regarding the doctorate in the media regarding the degree of the Media and the Name of the Minister of Justice and the National Integration Minister of Justice Harshana Nanayaka.
-
-The form of information provided to Parliament by the Minister is not included in the form of a doctor's degree, and the name of the Minister of Attorney Harshan Nanayakkara has been referred to as the name of the Minister of Attorney Harshana Nanayakkara. Accordingly, steps are being taken to address the mistake.
-
-...
-
-[Data](articles/d8d2c226.json)
-
-[Extended Data](ext_articles/d8d2c226.ext.json)
 
 ---

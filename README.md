@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 14:02:14**
+As of **2024-12-14 13:27:00**
 
 ## Newspaper Stats
 
-*Scraped **60,131** Articles*
+*Scraped **60,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,17 @@ adalk | 5,705
 adaderanalk | 7,323
 tamilmirrorlk | 8,596
 virakesarilk | 9,870
-adaderanasinhalalk | 10,395
+adaderanasinhalalk | 10,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,086 (99.9%) of 60,131 articles have been extended.
+60,083 (99.9%) of 60,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
-
-### A liquor store in Assad
-
-*2024-12-14 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204367) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Insurgents seized control of Syria weeks ago. Found massive liquor store in Damascus with thousands of bottles hidden in furniture & electronics. Suspected for export. US accused Assad of pharmaceutical production, but he denies involvement. Insurgent-controlled drug store seen as evidence of sugar trade claims.
-
-🟩
-
-The armed insurgents took control of Syria every week before he reverts over five decades.
-
-The country's rule is currently under the insurgents, and they have found a massive drug store in the capital of Damascus capital.
-
-There were thousands of alcohol that was hidden in furniture, electrical equipment and even in the fruit.
-
-It is suspected that the stock was prepared to export.
-
-Even US Americans have previously accused the Syria that the US Basher Al Assad Leading Capagogen Pharmaceutical Production and Sale.
-
-However, the Assad government denied allegations involving drug trade.
-
-Foreign reports have stated that the insurgent drug store is as evidence of the allegations of the Sugarror.
-
-Meanwhile, the Syrian people joined the first Friday on the first Friday who had come to the rebels after reaching out the first Friday, the Syrian people joined the first Friday.
-
-◼️
-
-[Data](articles/34699a2c.json)
-
-[Extended Data](ext_articles/34699a2c.ext.json)
-
----
 
 ### One who went to the Midigama Ruwan arrested for his handcuff
 
@@ -834,8 +798,6 @@ In this piece I read, the definition of heaven and hell was determined by racial
 
 [Data](articles/2d0d8d23.json)
 
-[Extended Data](ext_articles/2d0d8d23.ext.json)
-
 ---
 
 ### Reach related raid
@@ -877,8 +839,6 @@ Before seeking the good in religions, perhaps we must first confront where we’
 ...
 
 [Data](articles/86d1c84e.json)
-
-[Extended Data](ext_articles/86d1c84e.ext.json)
 
 ---
 
@@ -2471,5 +2431,33 @@ The Ministry of Education said that only the first grade officials of the Sri La
 [Data](articles/e46e171f.json)
 
 [Extended Data](ext_articles/e46e171f.ext.json)
+
+---
+
+### Controversial Speaker's Education Quality: Is there an abuse?- Complaints at the Criminal Investigation Department to investigate
+
+*2024-12-13 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201195) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Controversy surrounds Speaker Ashoka Ranwala's educational qualifications. Civil organizations and politicians filed a complaint with CID to investigate potential fraud. Opposition parties demand disclosure of Speaker's doctoral certificate. The issue raises questions about parliamentary privileges and accountability.
+
+🟩
+
+Representatives of civil organizations and politicians have lodged a complaint with the Criminal Investigation Department (CID) yesterday (12) to investigate whether there is a scam regarding the educational qualifications of Speaker Ashoka Ranwala, who has created controversy in the country.
+
+Opposition parties are constantly urging the people of the country to publicize the certificate of the Speaker's doctoral degree, as the Parliamentary Level inquiries are being carried out at the parliamentary level.
+
+The Speaker is silent on this as many parties are demanding a legitimate clarification on the controversy.
+
+Against this backdrop, representatives of civil organizations have lodged a complaint with the Criminal Investigation Department to investigate whether the Speaker Ashoka Ranwala has been involved in the abuse of his educational qualifications.
+
+...
+
+[Data](articles/f381e015.json)
+
+[Extended Data](ext_articles/f381e015.ext.json)
 
 ---

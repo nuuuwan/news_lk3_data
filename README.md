@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 10:02:04**
+As of **2024-12-14 10:42:41**
 
 ## Newspaper Stats
 
-*Scraped **60,099** Articles*
+*Scraped **60,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,117 @@ islandlk | 3,628
 economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,702
-adaderanalk | 7,314
+adalk | 5,703
+adaderanalk | 7,318
 tamilmirrorlk | 8,593
-virakesarilk | 9,867
-adaderanasinhalalk | 10,387
+virakesarilk | 9,868
+adaderanasinhalalk | 10,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,055 (99.9%) of 60,099 articles have been extended.
+60,061 (99.9%) of 60,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### தொடர்ந்து முன்னெடுக்கப்படும் அதிரடி சோதனை நடவடிக்கைகள்
+### Imad Wasim retires from international cricket
+
+*2024-12-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204360) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Imad Wasim retires from international cricket. The Pakistani all-rounder, 35, previously retired in 2022 but returned for PSL 2023, winning a Man of the Match award. He played 35 ODIs and 75 T20s for Pakistan before retiring again in 2024, citing poor form and lack of opportunities in domestic cricket.
+
+🟩
+
+Pakistani-triorevice Imad Wasim has decided to retire from international cricket.
+
+The 35-year-old Imad Solevations retired last year from the international cricket field.
+
+However, at three the match award, he won the Man of the Match award for the performance of the Pakistan Super League.
+
+Due to that skill, Imad was returned to T20 and Twenty20.
+
+However, this year's weak sports flexibility had to leave the tournament first due to poor player style of poor player.
+
+Imad Wasim 35 ODIs and 75 T20 match played for Pakistan.
+
+Fourteen day, Imad Wasim stated that he retired from the international cricket colony for the second time.
+
+But Imads are no longer local matches and leagues.
+
+◼️
+
+[Data](articles/7883bdd8.json)
+
+[Extended Data](ext_articles/7883bdd8.ext.json)
+
+---
+
+### Action Testing Activities that are being carried out
 
 *2024-12-14 09:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-முன்னெடுக்கப்படும்-அதிரடி-சோதனை-நடவடிக்கைகள்/175-348716) · `ta`
 
-நாடளாவிய ரீதியில் அரிசி தொடர்பான சோதனை நடவடிக்கைகள் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருவதாக நுகர்வோர் விவகார அதிகார சபை தெரிவித்துள்ளது.
+Here's a summary in 200 characters:
 
-நேற்று (14) நாடளாவிய ரீதியில் சுமார் 75 சுற்றிவளைப்புகள் நடத்தப்பட்டதாக அதன் பணிப்பாளர் அசேல பண்டார தெரிவித்தார்.
 
-இனிவரும் காலங்களில் வார இறுதி நாட்களிலும் விடுமுறை நாட்களிலும் சோதனை நடத்துமாறு சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தப்பட்டுள்ளதாக அவர் கூறினார்.
 
-மேலும், இறக்குமதி செய்யப்பட்ட அரிசி கையிருப்பு சந்தைக்கு வருவதால் அரிசியின் விலை குறைவதோடு சில பகுதிகளில் விலை குறைவடைந்து வருவதாகவும் அவர் கூறுகிறார். R
+Consumer Affairs Authority conducts 75 raids nationwide on rice. Future raids planned on weekends/holidays. Imported rice stockpile arrives soon, reducing prices.
 
-5,200 மெற்றிக் தொன் அரிசி முதல் தொகுதி இம்மாதம் 19ஆம் திகதி இலங்கைக்கு வரவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
+
+The Consumer Affairs Authority (CAA) has said that the raids on rice are ongoing across the country.
+
+Its Director Asela Bandara said that about 75 rounds were conducted across the country yesterday (14).
+
+He said that the relevant authorities have been instructed to conduct a raid on weekends and holidays in the future.
+
+In addition, the imported rice stockpile is coming to the market and the price of rice is reduced and in some areas the price is declining, he says.. Remble
+
+It is reported that the first block of 5,200 metric tonnes of rice will arrive in Sri Lanka on the 19th of this month.
 
 ◼️
 
 [Data](articles/3b7d02ef.json)
 
+[Extended Data](ext_articles/3b7d02ef.ext.json)
+
 ---
 
-### வெற்றிடமான சபாநாயகர் பதவி - நடக்கப்போவது என்ன?
+### Vacuum Speaker's post - what's going to happen?
 
 *2024-12-14 09:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடமான-சபாநாயகர்-பதவி-நடக்கப்போவது-என்ன/175-348715) · `ta`
 
-அசோக சபுமல் ரங்வாலாவின் இராஜினாமாவால் வெற்றிடமான சபாநாயகர் பதவிக்கு புதிய சபாநாயகர் எதிர்வரும் 17ம் திகதி தெரிவுசெய்யப்பட வேண்டும் என தகவல்கள் தெரிவிக்கின்றன.
+Here's a summary of the text in approximately 200 characters:
 
-எதிர்வரும் 17ஆம் திகதி பாராளுமன்றம் கூடவுள்ள நிலையில், அன்றைய தினம் புதிய சபாநாயகர் நியமனம் தொடர்பான வேட்புமனுக்கள் சமர்ப்பிக்கப்பட வேண்டுமென குறிப்பிடப்பட்டுள்ளது.
 
-இதேவேளை, பாராளுமன்ற வரலாற்றில் சபாநாயகர் ஒருவர் பதவி விலகுவது இதுவே முதல் தடவை என பேராசிரியர் பிரதிபா மஹாநாமஹேவா தெரிவித்துள்ளார்.
 
-இது தொடர்பான இராஜினாமா அறிவிப்பை சபாநாயகரால் பாராளுமன்ற செயலாளர் நாயகத்திடமோ அல்லது ஜனாதிபதியிடமோ வழங்க முடியும் என அவர் தெரிவித்துள்ளார்.
+New Speaker election: Vacancy due to Ashoka Sabumal Rangwala's resignation. Nominations to be submitted before Parliament meeting on 17th. First time Speaker resigns in history. President may accept resignation, triggering new Speaker election process.
 
-இராஜினாமா கடிதம் ஜனாதிபதிக்கு கிடைத்த பின்னர் சபாநாயகரின் இராஜினாமா கடிதம் தொடர்பில் ஜனாதிபதி தீர்மானம் எடுக்க முடியும் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-சபாநாயகரின் இராஜினாமாவை ஜனாதிபதி ஏற்றுக்கொண்டால், புதிய சபாநாயகரை மீண்டும் பாராளுமன்றம் தெரிவு செய்ய வேண்டும் எனவும், பொதுச் சட்டத்தின் கீழ் வாக்களித்து அல்லது நியமனம் மூலம் நியமனத்தை தெரிவு செய்ய முடியும் எனவும் அவர் மேலும் தெரிவித்தார். R
+The new Speaker should be elected to the post of Speaker for the vacancy of the resignation of Ashoka Sabumal Rangwala on the 17th of this month.
+
+With the Parliament to meet on the 17th of this month, it is stated that the nominations for the appointment of the new Speaker should be submitted.
+
+Meanwhile, Professor Pratibha Mahanamahewa said that this is the first time a Speaker resigns in the history of Parliament.
+
+He said the Speaker could issue a notification to the Secretary General of Parliament or the President.
+
+He also said that the President could take a decision regarding the Speaker's resignation letter after the resignation letter was received.
+
+He added that if the President accepts the resignation of the Speaker, the new Speaker should be elected again and that the appointment of the new Speaker should be elected and the appointment of the appointment.. Remble
 
 ◼️
 
 [Data](articles/cdf80290.json)
+
+[Extended Data](ext_articles/cdf80290.ext.json)
 
 ---
 
@@ -91,6 +147,170 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/80f43ae0.json)
 
 [Extended Data](ext_articles/80f43ae0.ext.json)
+
+---
+
+### Others, including Deputy Speaker, have fake titles: Premnam C Tolawatta released the name list
+
+*2024-12-14 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201179) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan politicians accused of fake titles: Speaker Asoka Sapumal Ranwala, Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Electricity Minister Punniyasree Kumara Jayakody, Harshana Suriyapuram. Titles removed from parliamentary website. Government urged to address public concerns.
+
+🟩
+
+Speaker Asoka Sapumal Ranwala, Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Electricity Minister Punniyasree Kumara Jayakody, Harshana Suriyapuram
+
+He further stated at a press conference held in Colombo on Friday (13).
+
+Although there were no ordinary people in the previous parliament, they did not hide it. They do not lie to the people about their educational qualifications.
+
+To question the sovereignty of Parliament, he has deceived the people by claiming that the Speaker is a doctor's title.
+
+More and more people have deceived the people, not the Speaker. Deputy Speaker Rishvi Sally referred to himself as a specialist specialist. But he is only a normal doctor. Similarly, Urban Development Minister Anura Karunathilaka is said to have no doctor's degree.
+
+Power Minister Punniyasree Kumara Jayakoda is said to have no higher education qualifications. The titles of each of them are being removed from the parliamentary website.
+
+...
+
+[Data](articles/a8ffb14b.json)
+
+[Extended Data](ext_articles/a8ffb14b.ext.json)
+
+---
+
+### Landslide Warnings for several Areas
+
+*2024-12-14 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204359) · `si`
+
+National Building Research Organization issues landslide warnings for Haputale, Badulla, Ella, Passara, and Kandy areas. UN official Dr. Wasantha Senadheera announced the alerts at 6:00 PM today.
+
+🟩
+
+The National Building Research Organization has taken steps to issue a landslide warning statement for several parts of the island.
+
+The United Nations Dr. Wasantha Senadheera said that the announcement was operating at 6.00 pm today.
+
+Accordingly, the Haputale Divisional Secretariat Division in Badulla has been paid to the Haputale Divisional Secretariat Division in Badulla.
+
+A statement has been issued to beware of the Badulla District, Ella, Passara and Haliweaya in Kandy District.
+
+◼️
+
+[Data](articles/6fd32b97.json)
+
+[Extended Data](ext_articles/6fd32b97.ext.json)
+
+---
+
+### The Sri Lankan president has chosen India for his first foreign visit - the news that is reported by this is important - India's former diplomat
+
+*2024-12-14 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201228) · `ta`
+
+Sri Lankan president chooses India for first foreign visit, strengthening bilateral ties amid economic crisis and rising Chinese influence. Visit aims to boost trade and cooperation, potentially expanding free trade agreement into comprehensive partnership.
+
+🟩
+
+Former India diplomat Ashok Sajjankar says that the Sri Lankan president has to recognize the news that India has chosen for his first foreign visit to his first foreign visit.
+
+India's Sri Lankan relations have seen many turns and changes in the changing geopolitical territory.
+
+The Indian Foreign Ministry has officially announced on Friday that Anura Kumaratisanayake, who has been elected as the new President of Sri Lanka, will visit New Delhi from December 15 to 17.
+
+Dissanayake is the first bilateral visit to India after the recent presidential election in Sri Lanka. This visit is expected to strengthen relations between the two countries.
+
+The visit is in the context of Sri Lanka's 2022 economic crisis.
+
+The visit is important because China's influence in Sri Lanka is on the rise and the Dissanayake will visit China after the Indian visit.
+
+Former diplomat and political policy critic Ashok Sajjanhar told the ETV.
+
+...
+
+[Data](articles/4f6c11f0.json)
+
+[Extended Data](ext_articles/4f6c11f0.ext.json)
+
+---
+
+### Sri Lanka records nearly 1.9 million tourist arrivals in 2024
+
+*2024-12-14 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104228/sri-lanka-records-nearly-19-million-tourist-arrivals-in-2024) · `en`
+
+The Sri Lanka Tourism Development Authority (SLTDA) has reported that nearly 1.9 million tourists have visited the island so far this year.
+
+SLTDA Chairman Buddhika Hewawasam stated that over 90,000 tourists have arrived so far in December alone. He also expressed confidence that the SLTDA expects 250,000 more tourists to visit by the end of the month.
+
+Hewawasam added that the SLTDA is aiming to reach a target of 2.2 million tourist arrivals by the end of 2024. If this target is achieved, it will mark the first time since 2018 that Sri Lanka has surpassed the two million tourist arrivals milestone.
+
+◼️
+
+[Data](articles/a676083f.json)
+
+[Extended Data](ext_articles/a676083f.ext.json)
+
+---
+
+### Bill & Melinda Gates Foundation commits to expanding support in Sri Lanka
+
+*2024-12-14 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104227/bill-melinda-gates-foundation-commits-to-expanding-support-in-sri-lanka) · `en`
+
+The Bill & Melinda Gates Foundation has committed to expanding its initiatives in Sri Lanka, the President’s Media Division (PMD) stated.
+
+As part of this commitment, the Bill & Melinda Gates Foundation has agreed to provide the financial and technical assistance needed to implement nutrition projects, school meal programs for children, agriculture sector modernization project, digitalization efforts, and livestock development programs in Sri Lanka.
+
+This commitment was affirmed during a meeting held yesterday (13) at the Presidential Secretariat, according to the PMD.
+
+The discussion, chaired by Professor Anil Jayantha Fernando, Minister of Labour and Deputy Minister of Economic Development, involved officials from the Foundation.
+
+Recognizing the priorities of the new government, the Bill & Melinda Gates Foundation expressed its readiness to provide support whenever needed, the statement added.
+
+...
+
+[Data](articles/da0683fa.json)
+
+---
+
+### පුරප්පාඩු වූ කථානායක තනතුරට සිදුවන දේ
+
+*2024-12-14 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204358) · `si`
+
+අශෝක රංවල මහතාගේ ඉල්ලා අස්වීමෙන් පුරපුපාඩු වූ කථානායක ධුරය සඳහා නව කථානායකවරයෙකු පත්කර කරගැනීම එළැඹෙන 17 වැනිදා සිදුකළ යුතු බව දේශපාලන නිරීක්ෂකයින් පවසයි.
+
+එළැඹෙන 17 වැනිදා පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එදින නව කථානායකවරයෙකු පත්කර ගැනීමට අදාළ නාම යෝජනා ඉදිරිපත්කළ යුතු බව සඳහන් වේ.
+
+මේ අතර මෙරට පාර්ලිමේන්තු ඉතිහාසයේ කථානායකවරයෙකු ඉල්ලා අස්වූ පළමු අවස්ථාව මෙය වන බව මහාචාර්ය ප්‍රතිභා මහනාමහේවා මහතා පවසයි.
+
+ඔහු පැවසුවේ අදාළ ඉල්ලා අස්වීමේ නිවේදනය කථානායකවරයා විසින් පාර්ලිමේන්තු මහලේකම්වරිය වෙත හෝ ජනාධිපතිවරයා වෙත ලබා දිය හැකි බවය.
+
+ජනාධිපතිවරයාට ඉල්ලා අස්වීමේ ලිපිය ලැබීමෙන් පසු ජනාධිපතිවරයාට කථානායකවරයාගේ ඉල්ලා අස්වීමේ ලිපිය සම්බන්ධව තීරණයක් ගත හැකි බවත් ඔහු පැවසීය.
+
+යම් අයුරකින් ජනාධිපතිවරයා විසින් කථානායකවරයාගේ ඉල්ලා අස්වීම භාර ගන්නේ නම් නැවත පාර්ලිමේන්තුවෙන් නව කථානායකවරයෙක් තෝරා පත් කර ගත යුතු අතර එය සාමාන්‍ය නීතිය යටතේ ඡන්දයකින් හෝ නාමයෝජනාවකින් එම පත්වීම තෝරාගත හැකි බවද ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/f4a7e24e.json)
+
+---
+
+### CAA continues raids on rice traders across the island
+
+*2024-12-14 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104226/caa-continues-raids-on-rice-traders-across-the-island) · `en`
+
+The Consumer Affairs Authority (CAA) has announced that raids are continuing across the island to monitor rice traders and stocks.
+
+CAA Director, Asela Bandara stated that approximately 75 raids were carried out across the country yesterday (14). He further mentioned that officers have been instructed to carry out such operations on the coming weekends and public holidays as well.
+
+Bandara added that with the arrival of imported rice stocks in the market, rice prices are dropping, and paddy prices are also reported to be decreasing in some areas.
+
+Meanwhile, the Sri Lanka State Trading (General) Corporation has taken measures to import 52,000 metric tons of ‘Nadu’ rice. The first consignment, consisting of 5,200 metric tons, is expected to arrive in the country on December 19.
+
+◼️
+
+[Data](articles/cbd9ee4d.json)
 
 ---
 
@@ -143,6 +363,28 @@ The tourist arrivals will meet a target of 2.2 million in this year and will bec
 [Data](articles/4e0c869e.json)
 
 [Extended Data](ext_articles/4e0c869e.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-14 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104225/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Northern and Eastern provinces.
+
+Showers or thundershowers will occur at several places elsewhere during the evening or night.
+
+Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, it said.
+
+Showers can occur at some places of the coastal areas in the Western province and in Galle and Matara districts in the morning too.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern and Uva provinces during the morning, the Met. Department added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ce192e1a.json)
 
 ---
 
@@ -926,6 +1168,22 @@ It has also lifted French borrowing costs and left a power vacuum in the heart o
 
 ---
 
+### හිටපු ජනපතිවරුන්ගේ පොලිස් ආරක්ෂාවේ වැය බරින් තුනෙන් එකක්ම මහින්ද රාජපක්ෂට
+
+*2024-12-13 20:55:37* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-පොලිස්-ආරක්ෂාවේ-වැය-බරින්-තුනෙන්-එකක්ම-මහින්ද-රාජපක්ෂට/11-413622) · `si`
+
+හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව වෙනුවෙන් යොදවා ඇති පොලිස් නිලධාරින් වෙනුවෙන් පමණක් වාර්ෂිකව රුපියල් මිලියන 1100ක් පමණ වැය වන බවත් එයින් තුනෙන් එකක් පමණ එනම් රුපියල් මිලියන 326ක්ම වැය වන්නේ හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා වෙනුවෙන් බව පොලිස් මූලස්ථානය නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+හිටපු ජනපතිවරුන්ගේ ආරක්ෂාවට යොදවා ඇති පොලිස් නිලධාරින් සංඛ්‍යාව අඩු කළේ රජය විසින් පත්කළ කමිටුවේ නිර්දේශ අනුව බවත් එහිදි හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව වෙනුවෙන් නිලධාරින් 60ක් පමණ සේවයේ යෙදවිම ප්‍රමාණවත් බවත් පොලිස් මූලස්ථානය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාවට යොදවා ඇති පොලිස් නිලධාරීන් සංඛ්‍යාව අඩු කිරිම මගින් ඔහුගේ ආරක්ෂාව කිසිම ආකාරයකින් බිඳ වැටි නොමැති බවත් එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/f15e3c47.json)
+
+---
+
 ### Fire near the Kangarama Vihara
 
 *2024-12-13 20:55:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்காராம-விகாரைக்கு-அருகில்-தீ/175-348711) · `ta`
@@ -1672,38 +1930,6 @@ President Anura Kumara Dissanayake has said that the election for the provincial
 
 ---
 
-### Others, including Deputy Speaker, have fake titles: Premnam C Tolawatta released the name list
-
-*2024-12-13 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201179) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan politicians accused of fake titles: Speaker Asoka Sapumal Ranwala, Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Electricity Minister Punniyasree Kumara Jayakody, Harshana Suriyapuram. Titles removed from parliamentary website. Government urged to address public concerns.
-
-🟩
-
-Speaker Asoka Sapumal Ranwala, Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Electricity Minister Punniyasree Kumara Jayakody, Harshana Suriyapuram
-
-He further stated at a press conference held in Colombo on Friday (13).
-
-Although there were no ordinary people in the previous parliament, they did not hide it. They do not lie to the people about their educational qualifications.
-
-To question the sovereignty of Parliament, he has deceived the people by claiming that the Speaker is a doctor's title.
-
-More and more people have deceived the people, not the Speaker. Deputy Speaker Rishvi Sally referred to himself as a specialist specialist. But he is only a normal doctor. Similarly, Urban Development Minister Anura Karunathilaka is said to have no doctor's degree.
-
-Power Minister Punniyasree Kumara Jayakoda is said to have no higher education qualifications. The titles of each of them are being removed from the parliamentary website.
-
-...
-
-[Data](articles/a8ffb14b.json)
-
-[Extended Data](ext_articles/a8ffb14b.ext.json)
-
----
-
 ### Sri Lanka’s new government faces credibility test after fake doctorate allegations
 
 *2024-12-13 17:32:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-government-faces-credibility-test-after-fake-doctorate-allegations-194169/) · `en`
@@ -2225,227 +2451,5 @@ In today's day, all stock price index increased by 169.53.
 [Data](articles/ac0008b3.json)
 
 [Extended Data](ext_articles/ac0008b3.ext.json)
-
----
-
-### Six including elderly couple arrested with drugs worth around Rs. 40 mln
-
-*2024-12-13 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104216/six-including-elderly-couple-arrested-with-drugs-worth-around-rs-40-mln) · `en`
-
-Kahathuduwa Police have arrested six individuals, including an elderly couple, with a stock of narcotics worth around Rs. 40 million.
-
-Around 1.5 kilograms of ‘Ice’ (Crystal Methamphetamine), 835 grams of heroin and a three-wheeler have been seized by the police along with the arrested suspects.
-
-A team of Kahathuduwa Police officers had searched the suspicious three-wheeler carrying three persons and discovered 5,140 milligrams of ‘Ice’ in the possession of one of them.
-
-Following these arrests and based on information from one of the suspects’ phones, a raid was conducted at a residence on 16th Lane in the Moonamale Watta area of Kiriwaththuduwa.
-
-During the raid, the elderly couple residing in the house had unleashed a dog that had been inside the house on the police officers.
-
-Meanwhile, another individual had attempted to escape through the back door of the house while carrying a parcel but was arrested while upon searching the parcel, heroin and ‘Ice’ drugs were found inside, Police said.
-
-...
-
-[Data](articles/a13fdcfe.json)
-
-[Extended Data](ext_articles/a13fdcfe.ext.json)
-
----
-
-### Sri Lanka Port City Economic Commission gets new chairman, members
-
-*2024-12-13 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-economic-commission-gets-new-chairman-members-194137/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has appointed Harsha Amarasekera PC as chairman of the Port City Economic Commission.
-
-Other members include Damien Amal Cabraal, Mohan Ray Abeywardena, Sanjaya Kulatunga, and Dr Harsha Subasinghe, the president’s media division said.
-
-Sri Lanka’s China-backed Colombo Port City Economic Commission Bill was passed in 2021.
-
-The Colombo Port City Commission approves large investments such as those that invest in building as primary businesses of strategic importance which get investment incentives.
-
-The Colombo Port City is a dollarized special economic zone which will be free of central bank liquidity tools and therefore free of currency crises. (Colombo/Dec13/2024)
-
-◼️
-
-[Data](articles/07500447.json)
-
-[Extended Data](ext_articles/07500447.ext.json)
-
----
-
-### Over the past year, foreign gone has exceeded 300,000
-
-*2024-12-13 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204340) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Over 300k Sri Lankans employed abroad in 2024. 177k men, 122k women. UAE tops destination with 49k workers. Foreign exchange earnings reach $5961.6 million."
-
-🟩
-
-The External Employment Bureau says that the number of Sri Lankans spent 3 lakhs for employment during the year 2024.
-
-The Bureau said that this was 300,162 today.
-
-This is the second time the second period of 300,000 workers in the last 10 years has passed the number of 3 million workers in the year 200,948 workers.
-
-During the year 2024, 177,804 male workers and 122,358 women have been abroad.
-
-The total number of women have been abroad for employment during the period is 40% and male workers have increased to 60% of the total number.
-
-It is 184,140 overseas through the self-employment and 116,022 students from foreign employment agencies.
-
-Sri Lankans have gone abroad to employment and the number of 73,995.
-
-Secondly, the highest number of UA, the United Arab Emirates, it is 49,499.
-
-Anti-the-art statistics, Penny is an important point to procure Sri Lankans with Sri Lankans in the South Korea, Israel, Romania and Japan.
-
-...
-
-[Data](articles/cc67a83c.json)
-
-[Extended Data](ext_articles/cc67a83c.ext.json)
-
----
-
-### Clerk remanded at the passport office of bribery
-
-*2024-12-13 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204339) · `si`
-
-Postal clerk remanded for bribery at passport office. Suspect arrested for accepting Rs. 6000 bribe. Court orders remand until 20th. Investigations ongoing.
-
-🟩
-
-The Colombo Magistrate's Court ordered a postal clerk in the Department of Immigration and Emigration to be remanded until the 20th of this month.
-
-The suspect had been arrested by the Bribery Commission when it comes to obtaining a bribe of Rs. 6,000 to provide a passport expeditious.
-
-The suspect was arrested by the Bribery Commission to the court and said that he had not completed investigations into the suspect.
-
-The suspect was ordered to be remanded till the 20th.
-
-◼️
-
-[Data](articles/0692cf1d.json)
-
-[Extended Data](ext_articles/0692cf1d.ext.json)
-
----
-
-### CSE’s ASPI records new all-time high
-
-*2024-12-13 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104215/cses-aspi-records-new-all-time-high) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange gained 169.53 points (1.21%) to close at 14,205.34 points today, marking a new all-time high.
-
-Meanwhile, the S&P SL20 has increased by 57.99 points (1.39%) to close at 4,244.45 points.
-
-Today’s total turnover was recorded as over Rs. 6.1 billion.
-
-◼️
-
-[Data](articles/f31db7d0.json)
-
-[Extended Data](ext_articles/f31db7d0.ext.json)
-
----
-
-### Lal Kantha says he will solve the issue station
-
-*2024-12-13 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204338) · `si`
-
-Sri Lanka Minister Lal Kantha vows to address population control through agriculture projects and wildlife conservation, while also focusing on tourism and public welfare.
-
-🟩
-
-Minister of Agriculture, Land and Irrigation Lal Kanthe says that various projects have been launched to control the population of Sri Lanka.
-
-After speaking to the media, he said that after a program in Colombo today, he said that as a government, he was determined to remove farms, including the farms.
-
-"We are determined to remove the victims from the farms and wildlife. It doesn't make it permanently talking about an agricultural industry. Other profiles in the lives of the lives of the lives of the lives of the life. Especially the problems of the problems of the problems.. Don't set up doubts, but it is solved. Considering the sending of the country. There is a projected certificate with the islands of our country to the islands to the islands and that it is in connection to tourism. As such, we will take care of tourism and agriculture and public life to look for an answer. "
-
-...
-
-[Data](articles/7e65529d.json)
-
-[Extended Data](ext_articles/7e65529d.ext.json)
-
----
-
-### Proposal to appoint a Select Committee to check the educational qualifications of the Masters MPs
-
-*2024-12-13 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204337) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-New Party & New Democratic Front propose Select Committee to verify educational qualifications of all MPs. To be presented to Parliament by MP Jeevan Thondaman.
-
-🟩
-
-The New Party and the New Democratic Front has decided to submit a proposal to appoint a PSC to check the educational qualifications of the National Floor.
-
-Political sources say that the proposal is to be presented to Parliament by MP Jeevan Thondaman.
-
-◼️
-
-[Data](articles/2f7ec168.json)
-
-[Extended Data](ext_articles/2f7ec168.ext.json)
-
----
-
-### Members appointed to Port City Economic Commission
-
-*2024-12-13 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104214/members-appointed-to-port-city-economic-commission-) · `en`
-
-President Anura Kumara Dissanayake has officially appointed members to the Port City Economic Commission, the President’s Media Division (PMD) reported.
-
-The official letters of appointment were handed over to the members by the Secretary to the President Dr. Nandika Sanath Kumanayake at the Presidential Secretariat in Colombo today (13).
-
-Accordingly, Harsha Amarasekera, President’s Counsel, has been appointed as the Chairman of the Port City Economic Commission.
-
-The other appointed members are Damien Amal Cabraal, Mohan Ray Abeywardena, Sanjaya Kulatunga, and Dr. Harsha Subasinghe.
-
-◼️
-
-[Data](articles/e4ca8e55.json)
-
-[Extended Data](ext_articles/e4ca8e55.ext.json)
-
----
-
-### Opposition signature on no confidence motion against Speaker
-
-*2024-12-13 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201170) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition leader Sajith Premadasa signed a no-confidence motion against Speaker Ashoka Ranwala over false claims of holding a Japanese doctorate.
-
-🟩
-
-Speaker Ashoka Ranwala has deceived the people and the government by claiming that he has a doctor's degree. On the basis of this, opposition leader Sajith Premadasa signed a no -confidence motion against him.
-
-The current Speaker Ashoka Ranwala identified himself as the Dr.
-
-But BSC in Chemical Engineering at the University of Moratuwa. The degree has been used as a doctorate with his name, noting that he has a doctorate at the University of Vasada, Japan.
-
-In the wake of the objection from the people in this regard, the no -confidence motion has been brought to the silence and the fact that the silence is kept in silence and hidden the truth.
-
-This no -confidence motion has been introduced in accordance with section 6 of the Members of Parliament, according to the rules of the Code of Conduct in accordance with Section 5 of the Code of Conduct.
-
-...
-
-[Data](articles/dc4ac6c0.json)
-
-[Extended Data](ext_articles/dc4ac6c0.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 00:42:15**
+As of **2024-12-15 02:13:16**
 
 ## Newspaper Stats
 
-*Scraped **60,182** Articles*
+*Scraped **60,183** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 450
+dbsjeyarajcom | 451
 colombotelegraphcom | 610
 bbccomsinhala | 631
 islandlk | 3,632
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,163 (100.0%) of 60,182 articles have been extended.
+60,172 (100.0%) of 60,183 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2346,6 +2346,20 @@ People’s Bank joined LankaPay US Dollar Online Payments System in 2021 towards
 
 ---
 
+### Sri Lanka’s Premier Tamil Political Party Ilankai Thamil Arasuk Katchi(ITAK) Celebrates 75th Birth Anniversary.
+
+*2024-12-14 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85203) · `en`
+
+The recently held  parliamentary elections have resulted in the Janatha Vimukthi Peramuna(JVP)led National People’s Power(NPP) winning 159 seats and forming the Government. The Samagi Jana Balawegaya(SJB) with 40 seats is the chief opposition party. The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party(FP) with eight seats became the third largest party in Parliament.
+
+...
+
+[Data](articles/66577878.json)
+
+[Extended Data](ext_articles/66577878.ext.json)
+
+---
+
 ### 58 victims of Elig
 
 *2024-12-14 02:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்-காச்சலால்-58-பேர்-பாதிப்பு-7-பேர்-பலி/175-348714) · `ta`
@@ -2513,21 +2527,5 @@ The delegation will also call on JVP General Secretary Tilvin Silva during their
 [Data](articles/e5d8aca0.json)
 
 [Extended Data](ext_articles/e5d8aca0.ext.json)
-
----
-
-### Issues Sri Lanka should take up with New Delhi
-
-*2024-12-14 00:10:36* · [`dailyftlk`](https://www.ft.lk/columns/Issues-Sri-Lanka-should-take-up-with-New-Delhi/4-770514) · `en`
-
-These perspectives have emboldened Indian fishermen to violate maritime boundaries and destroy marine resources by resorting to bottom trawling
-
-The opportunity presented by the forthcoming visit of President Dissanayake to India should not be missed by the new Government because all previous Governments and their advisors have failed to address this all-important issue, either because of their timidity or ignorance of relevant international laws. If Dissanayake fails to inform India that Sri Lanka has no option but to seek the assistance of the ICJ to resolve the issue of maritime boundaries, Sri Lanka will have to accept the bitter prospect of the plunder of its resources and the sovereign rights of the people and the nation forever
-
-...
-
-[Data](articles/2d60db4f.json)
-
-[Extended Data](ext_articles/2d60db4f.ext.json)
 
 ---

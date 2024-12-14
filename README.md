@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 22:27:38**
+As of **2024-12-14 23:12:37**
 
 ## Newspaper Stats
 
-*Scraped **60,179** Articles*
+*Scraped **60,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,711
-adaderanalk | 7,330
+adaderanalk | 7,332
 tamilmirrorlk | 8,603
 virakesarilk | 9,880
 adaderanasinhalalk | 10,409
@@ -26,31 +26,63 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,151 (100.0%) of 60,179 articles have been extended.
+60,155 (100.0%) of 60,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### ඊශ්‍රායලයට රැකියා සඳහා ගිය ලාංකිකයන් පිරිසක් පිටුවහල් කරයි
+### A group of Sri Lankans who have gone to serve Israel deported
 
 *2024-12-14 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204382) · `si`
 
-ඊශ්‍රායලයේ රැකියා සඳහා ගොස් රැකියා ගිවිසුම් උල්ලංඝණය වන පරිදි කටයුතු කළ ශ්‍රී ලාංකිකයින් 17 දෙනෙකු යළි මෙරටට පිටුවහල් කිරීමට තීරණය කර තිබේ.
+Here's a summary in 200 characters:
 
-ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා පවසන්නේ කෘෂිකර්මික අංශයේ රැකියා වීසා මත ඊශ්‍රායලට පැමිණ ඇති ඔවුන් එම සේවා ස්ථානවලින් පැනගොස් බේකරිවල සේවය කරමින් සිටියදී එරට බලධාරීන්ගේ අත්අඩංගුවට පත්වී ඇති බවය.
 
-ඊශ්‍රායලය විදේශීය ශ්‍රමිකයින් සම්බන්ධයෙන් නිරන්තර විමසිල්ලෙන් පසුවන රටක් වන බව තානාපතිවරයා පෙන්වාදෙයි.
 
-විදෙස් ශ්‍රමිකයින් ඊශ්‍රායලයේ රැකියා සඳහා පැමිණීමෙන් පසු තමා පැමිණි විසා කාණ්ඩයෙන් වෙනත් විසා කාණ්ඩයකට මාරුවීමේ නීතිමය තත්ත්වයක් නොමැති බව ඊශ්‍රායල බලධාරීන් අවධාරණය කර ඇත.
+Sri Lankans serving in Israel face deportation issues. Some were sent back due to visa violations. The ambassador was arrested for escaping work. Israel emphasizes strict laws for foreign workers.
 
-මේ අතර සාත්තු සේවය සඳහා මීට වසරකට පෙර ඊශ්‍රායලයට පැමිණි ශ්‍රීලාංකික කාන්තාවක් ද සේවා කොන්දේසි කඩකිරීම හේතුවෙන් යළි ශ්‍රී ලංකාවට පිටුවහල් කළ බවද ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපතිවරයා සඳහන් කළේය.
+🟩
 
-මීට පෙර ද සොරකමක් සම්බන්ධයෙන් චෝදනා එල්ල වූ ශ්‍රී ලාංකිකයෙකු පිටුවහල් කිරීමට එරට බලධාරීන් පියවර ගෙන තිබුණි.
+Several Sri Lankans who acted on the jobs of Israel and have been deported to Sri Lanka.
+
+Sri Lanka's Ambassador to Israel, Nimal Bandara, has come to Israel on the work visas and was arrested by the authorities of the authorities who escaped from the workplace.
+
+The Ambassador said that Israel is a frequently conscious country in relation to foreign workers.
+
+The Israeli authorities have emphasized that after the arrival of foreign workers in Israel, there is no legal situation in Visa Visa.
+
+Meanwhile, a Sri Lankan Ambassador to Israel, a Sri Lankan Ambassador to Sri Lanka, was deported to Sri Lanka after the breach of the terms of the service.
+
+Earlier, a Sri Lankan charged with theft of a robbery had been allegedly exiled.
 
 ◼️
 
 [Data](articles/bdf5252a.json)
+
+[Extended Data](ext_articles/bdf5252a.ext.json)
+
+---
+
+### Three frontrunners to become Sri Lanka’s next Speaker
+
+*2024-12-14 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104242/three-frontrunners-to-become-sri-lankas-next-speaker) · `en`
+
+Three names have been proposed for the position of Speaker of Sri Lanka’s Parliament following the resignation of MP Asoka Ranwala from the position, according to political sources.
+
+Sources indicate that the names of Deputy Speaker Dr. Rizvie Salih, MP Lakshman Nipuna Arachchi, and MP Nihal Galappaththi have been proposed as candidates to become the new Speaker.
+
+This follows the controversy surrounding former Speaker Ashoka Ranwala’s doctorate, which led to widespread public and political scrutiny.
+
+Ranwala tendered his resignation to the President yesterday (13), a move formally acknowledged today (14) by Presidential Secretary Dr. Nandika Sanath Kumanayake, who notified Secretary General of Parliament Mrs. Kushani Rohanadeera of the President’s acceptance of the resignation.
+
+Meanwhile, Parliament is scheduled to reconvene on December 17 under Deputy Speaker Dr. Rizvie Salih, with the appointment of a new Speaker expected to take place the same day, adhering to constitutional protocols.
+
+◼️
+
+[Data](articles/8e4b6658.json)
+
+[Extended Data](ext_articles/8e4b6658.ext.json)
 
 ---
 
@@ -134,27 +166,35 @@ Wattegama Police are conducting further investigations under the supervision of 
 
 ---
 
-### ජනපතිගේ පළමු විදෙස් සංචාරය
+### President's first foreign visit
 
 *2024-12-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204381) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා හෙට (15) සිට ලබන 17 වැනිදා දක්වා ඉන්දියාවේ නිල සංචාරයක නිරතවෙයි.
+Sri Lankan President Anura Kumara Dissanayake embarks on first foreign visit to India tomorrow. He'll hold bilateral talks with Indian leaders and promote investment ties between the nations.
 
-ඒ ජනාධිපති ධුරයට පත්වීමෙන් පසු සිදුකරන පළමු විදෙස් සංචාරය ලෙසයි.
+🟩
 
-ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා එම සංචාරයට එක්වෙයි.
+President Anura Kumara Dissanayake on official visit to India from 15th tomorrow (15).
 
-ඒ අනුව එම සංචාරයේදී ජනාධිපතිවරයා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා හමුවී ද්විපාර්ශවීක සාකච්ඡා පැවැත්වීමට නියමිතය.
+The first foreign tour passes by the presidency.
 
-එමෙන්ම ජනාධිපතිවරයා ඉන්දීය රජයේ තවත් ප්‍රබල අමාත්‍යවරු කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+The President joins the visit on an invitation to Indian President Mrs. President Mahinda Rajapaksa.
 
-ජනාධිපතිවරයා සිය සංචාරය අතරතුර ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ආයෝජන හා වාණිජ සබඳතා ප්‍රවර්ධනය කිරීමේ ව්‍යාපාරික වැඩසටහනකට ද නව දිල්ලි නුවරදී එක්වීමට නියමිත අතර බුද්ධ ගයාවේද සංචාරය කිරීමට නියමිතය.
+Accordingly, the President is due to hold bilateral talks with Indian President Mahinda Rajapaksa and Indian Prime Minister Narendra Modi.
 
-ජනාධිපතිවරයාගේ ඉන්දීය සංචාරය පිළිබඳ නිවේදනයක් නිකුත් කරමින් ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය පවසන්නේ අගමැති මෝදිගේ දැක්මට අනුව ඉන්දීය සාගර කලාපයේ සමීපතම අසල්වැසියා ලෙස ශ්‍රී ලංකාව ප්‍රමුඛත්වයක් හිමිවන බවය.
+The President will also hold bilateral talks with several other strong ministers of India.
 
-...
+During his visit, the President is also to join the promotion of investment and commercial relationships between India and Sri Lanka and is to visit the Buddha.
+
+In a statement on the President's visit to India, the Indian Foreign Ministry states that Sri Lanka is one of the closest neighboring neighborhood in the Indian Ocean region.
+
+Deputy Minister of Finance and Planning, Deputy Minister of Finance and Planning, Minister of Finance and Planning is due to join the tour of Minister Vijitha Herath.
+
+◼️
 
 [Data](articles/7d0921b7.json)
+
+[Extended Data](ext_articles/7d0921b7.ext.json)
 
 ---
 
@@ -177,6 +217,28 @@ Accordingly, two suspects have been arrested for fitting the electric fence and 
 [Data](articles/bc4145d4.json)
 
 [Extended Data](ext_articles/bc4145d4.ext.json)
+
+---
+
+### New Bishop of Mannar appointed
+
+*2024-12-14 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104241/new-bishop-of-mannar-appointed-) · `en`
+
+Pope Francis has officially appointed Reverend Gnanapragasam Anthonypillai, the administrator of the ‘Our Lady of Madhu National Shrine’ in Mannar, as the new Bishop of Mannar.
+
+The Pope has accepted the resignation of Bishop Fidelis Lionel Emmanuel Fernando from the pastoral care of the diocese of Mannar, a statement said.
+
+Rev. Anthonypillai, a dedicated clergy member of the Mannar Diocese, has served in various capacities since his ordination as a priest on April 7, 1994.
+
+Born on 12 July 1965 in Adampan, in the diocese of Mannar, he studied philosophy and theology at the Saint Francis Xavier Major Seminary in Jaffna.
+
+After ordination, he held the roles of parish vicar of Murunkan (1994-1996), secretary to the bishop (1996-1999), parish priest of Cheddikulam (1999-2003), parish priest of Pallimunai (2003-2006), parish priest of Vankalai (2006-2009), rector of the diocesan minor seminary (2014-2018), and parish priest of Saint Sebastian Cathedral (2018-2021) and Pesalai (2021-2023).
+
+...
+
+[Data](articles/aa234315.json)
+
+[Extended Data](ext_articles/aa234315.ext.json)
 
 ---
 
@@ -2459,41 +2521,5 @@ Ambassador Edirisinghe underscored the profound Buddhist and cultural ties betwe
 [Data](articles/9f48afc6.json)
 
 [Extended Data](ext_articles/9f48afc6.ext.json)
-
----
-
-### Heavenly duties or hellish efforts?
-
-*2024-12-14 00:04:20* · [`dailyftlk`](https://www.ft.lk/columns/Heavenly-duties-or-hellish-efforts/4-770511) · `en`
-
-The country, once hopeful, stagnates; never achieving a growth rate that promises a break through
-
-“The world is what it is, men who are nothing, who allow themselves to be nothing, have no place in it”   – V.S. Naipaul
-
-I have a distant memory of reading a light-hearted description of heaven and hell, in common belief an inevitable destination for all earthlings; those who lead unsullied lives are directed to the former; botch your book, the man is hightailed to hell.
-
-These two places are obviously ‘constructs’ of the human imagination, by human standards and outlook, the ecstasies promised and the tortures threatened are not only of human concept but are also distinctly period defined (are there personal computers in either place?). There cannot be two more dissimilar destinations in the after-life, heaven is a joyous place of endless pleasures and creature comforts, while hell is all agony, suffering and torture.
-
-...
-
-[Data](articles/413e849d.json)
-
-[Extended Data](ext_articles/413e849d.ext.json)
-
----
-
-### Need to safeguard people’s mandate on AKD and NPP
-
-*2024-12-14 00:02:21* · [`dailyftlk`](https://www.ft.lk/columns/Need-to-safeguard-people-s-mandate-on-AKD-and-NPP/4-770510) · `en`
-
-While the domestically disgruntled political elements are looking for opportunities to make life difficult for President AKD and his NPP Government those very elements could become tools at the hands of foreign elements with their own strategic agenda
-
-On 21 August 2024 ‘Colombo Telegraph’ published an article titled, “Will the old order accept AKD victory?” The reason for raising that question then was because, of all the 39 contestants in the race for Presidency, including the two front runners Ranil Wickremesinghe (RW) and Sajith Premadasa (SP), only AKD stood for something radically different. While all the others had exhibited no understanding of the root cause of the poly-crises that plagued the nation and promising blindly to tackle them rather spasmodically with the help of foreign agencies and advisors, only AKD was advocating something entirely different.
-
-...
-
-[Data](articles/9c3a1e4e.json)
-
-[Extended Data](ext_articles/9c3a1e4e.ext.json)
 
 ---

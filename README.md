@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 14:42:39**
+As of **2024-12-14 16:01:34**
 
 ## Newspaper Stats
 
-*Scraped **60,134** Articles*
+*Scraped **60,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,705
-adaderanalk | 7,323
+adaderanalk | 7,326
 tamilmirrorlk | 8,597
-virakesarilk | 9,870
-adaderanasinhalalk | 10,395
+virakesarilk | 9,872
+adaderanasinhalalk | 10,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,090 (99.9%) of 60,134 articles have been extended.
+60,099 (99.9%) of 60,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### මාලිගාකන්දේ වෙඩිතැබීමක්
+
+*2024-12-14 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204372) · `si`
+
+වෙඩිතැබීමෙන් තුවාල ලැබූ පුද්ගලයෙක් කොළඹ ජාතික රෝහලය ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/b60e9dcb.json)
+
+---
+
+### அசோக ரன்வலவின் இராஜினாமாவை ஏற்றுக்கொண்டார் ஜனாதிபதி
+
+*2024-12-14 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201254) · `ta`
+
+அசோக ரன்வல சபாநாயகர் பதவியை இராஜினாமா செய்வது தொடர்பான கடிதத்தை ஜனாதிபதி ஏற்றுக்கொண்டுள்ளார்.
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்க, பாராளுமன்ற செயலாளர் நாயகத்துக்கு எழுத்து மூலம் அறிவித்துள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+தனது கல்வித் தகுதி தொடர்பில் சமூகத்தில் எழுந்துள்ள சர்ச்சை காரணமாக சபாநாயகர் பதவியை இராஜினாமா செய்ததாகவும் தற்போது அந்தத் தகுதிகளுக்கான ஆவணங்களை சமர்ப்பிக்க முடியாத நிலை ஏற்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+ஆனால், தனது கல்வித் தகுதி தொடர்பாக எந்த பொய்யான தகவலையும் தெரிவிக்கவில்லை எனவும் அசோக ரன்வல தனது கடிதத்தில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/aa901351.json)
+
+---
 
 ### President accepts the resignation of the Speaker
 
@@ -51,6 +81,146 @@ President's Secretary. Remble
 [Data](articles/34c0d87d.json)
 
 [Extended Data](ext_articles/34c0d87d.ext.json)
+
+---
+
+### දකුණු කොරියානු ජනපතිට දෙවන වරට ගෙන ආ දෝෂාභියෝගය සම්මත වෙයි
+
+*2024-12-14 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204371) · `si`
+
+දකුණු කොරියානු විපක්ෂය විසින් එරට ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව දෙවන වරට ගෙන ආ දෝෂාභියෝගය සම්මත වී තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කරන පරිදි ඊට අදාළ ඡන්ද විමසීම අද පෙරවරුවේ එරටදී පවත්වා තිබුණි.
+
+දකුණු කොරියානු විපක්ෂය එරට ජනාධිපති යුන් සුක් යෝල්ට එරෙහිව දෝෂාභියෝගයක් ගෙන ආවේ ජනාධිපතිවරයා පසුගිය දෙසැම්බර් 3 වනදා රාත්‍රියේ දී හදිසියේ හමුදා නීතිය පැනවීමේ සිදුවීම මුල් කරගනිමිනි.
+
+කෙසේ වුවද පළමු වරට ගෙනආ දෝෂාභියෝගයේදී ජනාධිපති නියෝජනය කරන පාලක පීපල් පවර් පක්ෂය ඡන්ද විමසීම වර්ජනය කිරීමෙන් දෝෂාභියෝගය එරට පාර්ලිමේන්තුව හමුවේ පරාජයට පත්විය.
+
+ජනාධිපතිවරයාට එරෙහිව දෙවන වරටත් දෝෂාභියෝගයක් ගෙන ඒමට විපක්ෂය ඊයේ (13) පියවර ගත්තේ ඒ අනුව ය.
+
+එහිදී දකුණු කොරියානු පාර්ලිමේන්තුව නියෝජනය කරන සියලුම මන්ත්‍රීවරුන් සිය ඡන්දය භාවිත කළ අතර මන්ත්‍රීවරුන් 204ක් දෝෂාභියෝගයට පක්ෂව ඡන්දය ප්‍රකාශ කර තිබුණි.
+
+ඒ අනුව දකුණු කොරියානු ජනාධිපති යුන් සුක් යෝල්ට එරෙහි දෝෂාභියෝගය අද එරට පාර්ලිමේන්තුවේ දී සම්මත විය.
+
+ඒ අනුව ජනාධිපතිවරයා ධුරයෙන් නෙරපා දැමෙන අතර එරට අගමැතිවරයා වැඩබලන ජනාධිපති ලෙස කටයුතු කරනු ඇත.
+
+◼️
+
+[Data](articles/c9a55902.json)
+
+---
+
+### South Korea’s parliament votes to impeach President over martial law order
+
+*2024-12-14 14:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104236/south-koreas-parliament-votes-to-impeach-president-over-martial-law-order) · `en`
+
+South Korea’s parliament voted Saturday to impeach President Yoon Suk Yeol as authorities investigate allegations of rebellion over his controversial Dec. 3 martial law decree that has caused huge political turmoil in the country.
+
+The National Assembly passed the motion 204-85 in a floor vote. Yoon’s presidential powers and duties will be suspended after the copies of a document on the impeachment are delivered to him and to the Constitutional Court.
+
+The court has up to 180 days to determine whether to dismiss Yoon as president or restore his powers. If he’s thrown out of office, a national election to choose his successor must be held within 60 days.
+
+...
+
+[Data](articles/98ba5cac.json)
+
+---
+
+### பெண்களுக்கு எதிரான வன்முறைகளை நிறுத்த உதவுங்கள் - கிழக்கு பெண் மனித உரிமை செயற்பாட்டாளர்கள் அமைப்பினர் ஜனாதிபதியிடம் கோரிக்கை
+
+*2024-12-14 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201251) · `ta`
+
+இலங்கையில் பயங்கரவாத தடைச்சட்டத்தினை நீக்கி, ஏற்றுக்கொண்ட சீடோ சமவாயத்தின் அடிப்படையில் புதிய சட்டமூலத்தினை கொண்டுவருவதன் ஊடாக பெண்களுக்கு எதிரான வன்முறைகளையும் பாரபட்சங்களையும் நிறுத்த உடனடியாக உதவுங்கள் என கிழக்கு மாகாண பெண் மனித உரிமை செயற்பாட்டாளர்கள் அமைப்பு ஜனாதிபதியிடம் கோரியுள்ளது.
+
+இன்று சனிக்கிழமை (14) நடைபெற்ற ஊடக சந்திப்பில் கருத்து தெரிவிக்கையிலேயே இந்த அமைப்பினர் இவ்வாறு கோரிக்கை விடுத்துள்ளனர்.
+
+இலங்கையின் அனைத்துப் பெண்களும் இன, மத, சமூக வேறுபாடுகளைக் கடந்து ஆணாதிக்க அடக்குமுறைகளையும் வன்முறைகளையும் எதிர்கொண்டு வருகின்றனர். ஆணாதிக்க மயப்பட்ட குடும்ப, சமூக, வேலைத்தள, அரச அடக்குமுறைகளுக்கு இலங்கைப் பெண்கள் அனைவருமே உள்ளாகின்றனர். இணையவழிக் குற்றங்கள் அதிகரித்துள்ளன. குறிப்பாக பாடசாலை மாணவிகள் மீதான பாலியல் இம்சைகள், வன்முறைகளால் சிறுமிகளே அதிகம் பாதிக்கப்படுகின்றனர். எனினும் காத்திரமான சட்ட ஏற்பாடுகள் இல்லாத காரணத்தினால் தவறு செய்கின்றவர்கள் தப்பித்துக் கொள்கின்ற நிலைதான் தற்போதும் இருக்கின்றது.
+
+...
+
+[Data](articles/2780fc8c.json)
+
+---
+
+### President accepts Ashoka Ranwala’s resignation as Speaker
+
+*2024-12-14 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104235/president-accepts-ashoka-ranwalas-resignation-as-speaker-) · `en`
+
+The Presidential Secretary, Dr. Nandika Sanath Kumanayake has officially informed the Secretary General of Parliament in writing that the President has accepted the resignation of Speaker Ashoka Ranwala.
+
+Ranwala announced his resignation from his position as Speaker of Parliament on December 13, amidst the controversy surrounding his educational qualifications. This is the first time in Sri Lanka’s parliamentary history that a Speaker has resigned.
+
+Political observers have indicated that the appointment of a new Speaker will likely take place on December 17, when the Parliament reconvenes. Nominees for the position are expected to be submitted on the same day.
+
+The Speaker can submit his resignation to the General Secretary of Parliament or the President. Once the President receives the resignation letter, he can decide whether to accept it. Upon acceptance, Parliament must elect a new Speaker, either through a vote or nomination, as per the regulations.
+
+...
+
+[Data](articles/3190d615.json)
+
+---
+
+### අශෝක රංවලගේ ඉල්ලා අස්වීම ජනපති පිළිගනියි
+
+*2024-12-14 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204369) · `si`
+
+කථානායක අශෝක රංවල මහතාගේ ඉල්ලා අස්වීමේ ලිපිය ජනාධිපතිවරයා විසින් පිළිගෙන තිබේ.
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් මේ බව ලිඛිතව පාර්ලිමේන්තු මහලේකම්වරියට දන්වා යවා ඇතැයිද සඳහන් වේ.
+
+කථානායක අශෝක රංවල මහතා සිය ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබුණි.
+
+ඒ තමාගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව සමාජව තුළ මතු කරනු ලැබූ ගැටළුවක් හේතුවෙන් තමාට මේ මොහොතේ එම සුදුසුකම් සඳහා අවශ්‍ය ලියකියවිලි ඉදිරිපත් කිරීමට අපොහොසත් බව දන්වමිනි.
+
+එහෙත් තමන් තමාගේ සුදුසුකම් සම්බන්ධව සාවද්‍ය ප්‍රකාශයක් සිදුකර නොමැති බවත් ඔහු සිය ලිපිය මගින් දන්වා තිබුණි.
+
+◼️
+
+[Data](articles/e3f59f97.json)
+
+---
+
+### IOC and OCA cut funding to Sri Lanka’s National Olympic Committee
+
+*2024-12-14 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104234/ioc-and-oca-cut-funding-to-sri-lankas-national-olympic-committee) · `en`
+
+The International Olympic Committee (IOC) and the Olympic Council of Asia (OCA) have decided to suspend all payments to the National Olympic Committee of Sri Lanka.
+
+However, this excludes the direct payments made to athletes benefiting from Olympic scholarships, the National Olympic Committee has been informed via email.
+
+Accordingly, a special General Meeting of the National Olympic Committee was held yesterday (December 13) in response to this decision, during which it was decided that the election of the National Olympic Committee should be held promptly.
+
+The current term of office of the committee is scheduled to end in April 2026. However, the proposal to hold an early election was passed by a two-thirds majority vote at yesterday’s meeting.
+
+The next election of the National Olympic Committee has reportedly been planned to be held before March of next year after obtaining the recommendations of the IOC.
+
+...
+
+[Data](articles/d511fee5.json)
+
+---
+
+### ජාතික ඔලිම්පික් කමිටුවට ලැබෙන මූල්‍ය ප්‍රතිපාදන අත්හිටුවයි
+
+*2024-12-14 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204368) · `si`
+
+ජාත්‍යන්තර ඔලිම්පික් කමිටුවෙන් සහ ආසියානු ඔලිම්පික් කමිටුවෙන් මෙරට ඔලිම්පික් කමිටුවට ලබාදෙන අරමුදල් අත්හිටුවීමට තීරණය කර තිබේ.
+
+කෙසේවෙතත් ඔලිම්පික් ශිෂ්‍යත්ව සඳහා ක්‍රීඩක ක්‍රීඩිකාවන්ට සිදුකරන සෘජු ගෙවීම් එලෙසම ක්‍රියාත්මක කෙරෙන බව ජාත්‍යන්තර ඔලිම්පික් කමිටුව ජාතික ඔලිම්පික් කමිටුව වෙත ඊමේල් පණිවුඩයකින් දන්වා ඇත.
+
+ඒ අනුව ජාතික ඔලිම්පික් කමිටු විශේෂ මහ සභා රැස්වීමක් ඊයේ (13)පැවති අතර එහිදී තීරණය කළේ ජාතික ඔලිම්පික් කමිටු නිලවරණය කඩිනමින් පැවැත්විය යුතු බවය.
+
+කෙසේවෙතත් කමිටුවේ වත්මන් නිල කාලය අවසන් වීමට නියමිතව ඇත්තේ 2026 අප්‍රේල් මාසයේදීය.
+
+ඊයේ රැස්වූ විශේෂ මහ සභා රැස්වීමේදී ඉක්මනින් නිලවරණයක් පැවැත්වීමේ යෝජනාව තුනෙන් දෙකක ඡන්දයෙන් සම්මත වී තිබේ.
+
+අන්තර්ජාතික ඔලිම්පික් කමිටුවේ නිර්දේශ ලබාගැනීමෙන් පසුව ජාතික ඔලිම්පික් කමිටුවේ මීළඟ නිලවරණය එළඹෙන වසරේ මාර්තු මාසයට පෙර පැවැත්වීමට සැලසුම් කරන බව වාර්තා වෙයි.
+
+කෙසේවෙතත් මේ වනවිට ජාත්‍යන්තර ඔලිම්පික් කමිටුවෙන් සහ ආසියානු ඔලිම්පික් කමිටුවෙන් මෙරට ඔලිම්පික් කමිටුවට ලබාදෙන අරමුදල් දෙසැම්බර් 10 වනදා සිට අත්හිටුවා තිබේ.
+
+◼️
+
+[Data](articles/5d889967.json)
 
 ---
 
@@ -1016,6 +1186,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/ee4ae0c9.json)
 
+[Extended Data](ext_articles/ee4ae0c9.ext.json)
+
 ---
 
 ### SLIC conducts ‘General Insurance Quiz Competition 2024’
@@ -1031,6 +1203,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/d64d7ea9.json)
+
+[Extended Data](ext_articles/d64d7ea9.ext.json)
 
 ---
 
@@ -2219,259 +2393,5 @@ Police have seized 145,000 rupees suspected of earning 106 grams of ice and drug
 [Data](articles/35c239d8.json)
 
 [Extended Data](ext_articles/35c239d8.ext.json)
-
----
-
-### Speaker resigns
-
-*2024-12-13 18:14:01* · [`adalk`](https://www.ada.lk/breaking_news/කථානායක-ඉල්ලා-අස්වෙයි/11-413621) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Speaker resigns over educational qualification issues. MP Ashoka Ranwala steps down due to problems verifying his credentials. Research institute confirmation delayed, causing resignation.
-
-🟩
-
-MP Ashoka Ranwala said he decided to resign from the post of Speaker on the matter of problems with his educational qualifications.
-
-The announcement stated that the documents required to ensure his educational qualifications will not be done at this time.
-
-He added that the research institute affiliated to the University of Japan, who granted the doctorate, can be confirmed to ensure that it will take some time.
-
-◼️
-
-[Data](articles/e2541eab.json)
-
-[Extended Data](ext_articles/e2541eab.ext.json)
-
----
-
-### Notice to OIC of the Colombo Crimes Division
-
-*2024-12-13 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204348) · `si`
-
-Colombo High Court orders OIC to appear Jan 31 over 2012 prison clash case. Judge criticizes insufficient support for crimes. Court issues warrants for bail jumpers. Case compensation deal reached previously.
-
-🟩
-
-Colombo High Court Judge RSS Guna today ordered the OIC of the Colombo Crimes Division to appear before courts on January 31st.
-
-The order was taken up when the case was taken up against 54 rupees due to the clashes between the prisoners in Borella Magazine Prison on January 24, 2012.
-
-The judge was pointed out that the crimes were not given sufficient support from the crimes in the case.
-
-When the case was taken up today, five defendants who were released on bail were not appealing to the court and to be arrested and asked to issue warrants.
-
-When the case was taken up on the last day, a group of defendants agreed to compensate and end the cases.
-
-The court ordered the court to call the case on January 31st.
-
-◼️
-
-[Data](articles/5671cbef.json)
-
-[Extended Data](ext_articles/5671cbef.ext.json)
-
----
-
-### Shots shooting with hair Ranji
-
-*2024-12-13 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204347) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Motorcyclists shot near Kandana, Sri Lanka. Ranjith Kumara alias "Ranji" targeted. Two-and-a-half years after heroin trafficking arrest, he returned home. Gunmen attacked his residence.
-
-🟩
-
-Two motorcyclists have been shot dead by a three storied house in Kandana Street Mawatha, Kandana this evening.
-
-Our correspondent said that Ranjith Kumara alias Kumara alias Kanda Ranji, is the home of Ranjith Kumara alias these gunmen.
-
-Two and a half years ago, the man had gone to Dubai with his wife, his wife and three children.
-
-The man was released on bail of heroin trafficking and heroin.
-
-◼️
-
-[Data](articles/cfa638ae.json)
-
-[Extended Data](ext_articles/cfa638ae.ext.json)
-
----
-
-### The Speaker resigned
-
-*2024-12-13 17:47:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இராஜினாமா-செய்தார்-சபாநாயகர்/150-348705) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Asoka Sabumal Rangwala has announced his resignation from the position of Speaker. This decision comes after [brief mention of reasons or context]. The resignation will take effect on [date].
-
-🟩
-
-Speaker Asoka Sabumal Rangwala has decided to resign as his Speaker.
-
-◼️
-
-[Data](articles/9c6b3078.json)
-
-[Extended Data](ext_articles/9c6b3078.ext.json)
-
----
-
-### Three arrested for drug addiction in Peliyagoda
-
-*2024-12-13 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201186) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Three arrests made in Peliyagoda: one suspect caught with 10 grams of ice, another duo found with heroin near Navaloga area. Ages range from 25-28. Police seized 100 grams of heroin and three mobile phones.
-
-🟩
-
-Three suspects were arrested by police on Thursday (12) with ice and heroin drugs during two rounds of the Peliyagoda area.
-
-A suspect has been arrested with 10 grams of 500 milligrams of ice in the Weldiswatta area, which belongs to the Peliyagoda police division.
-
-The suspect was 27 years old from Peliyagoda.
-
-Meanwhile, two suspects have been arrested with heroin, near the Navaloga surrounding area, which belongs to the Peliyagoda police division.
-
-The arrested suspects were 25 and 28 years old from Jha -Ela.
-
-From the suspects, 100 grams of 720 milligrams of heroin and 03 mobile phones have been seized by the police.
-
-◼️
-
-[Data](articles/70edd18b.json)
-
-[Extended Data](ext_articles/70edd18b.ext.json)
-
----
-
-### Birthday 'Goodi' film crew for fans of Super Star Rajinikanth
-
-*2024-12-13 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201198) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Kuli" film crew releases song clip for Rajinikanth's birthday. Directed by Lokesh Kanakaraj, stars Rajinikanth, Nagarjuna, Upendra. Music by Anirudh, produced by Sun Pictures. Video gets 6+ million views.
-
-🟩
-
-The film crew has released the climatle of the song 'Kuli' which is currently starring in the birthday of Super Star Rajinikanth.
-
-Directed by director Lokesh Kanakaraj, Rajinikanth, Nagarjuna, Upendra, Sathyaraj, Chaufin Sakir, Sruthihasan, Reba Monica John and many others star in the film 'Kuli'.. Bollywood star Aamir Khan looks special with them.
-
-Anirudh is composing the film, which is being recorded by Girish Gangadharan. Producer Dr. Maran is producing the film on behalf of Sun Pictures on behalf of Sun Pictures.
-
-The shooting of the film is currently underway. In this backdrop, the group has released a short video from the song of Anirudh's music on the birthday of Super Star Rajinikanth.
-
-Super Star's dance moves have made his fans happy. The video, which has been released to the fans, has been visited by more than six million viewers within a short time.
-
-◼️
-
-[Data](articles/202dadc3.json)
-
-[Extended Data](ext_articles/202dadc3.ext.json)
-
----
-
-### Once Aban A Time in Madras - Film Review
-
-*2024-12-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201200) · `ta`
-
-Here's a summary of the film review in approximately 200 characters:
-
-
-
-"Once Upon a Time in Madras" anthology explores themes of survival, oppression, and power through interconnected stories involving guns. Directed by debutant Prasad Murugan, it features performances by Bharat, Abirami, Anjali Nair, and others. The film delves into societal issues like casteism, financial struggles, and personal crises, raising questions about morality and consequences.
-
-🟩
-
-Actors: Bharat, Abirami, Anjali Nair, 'Thalaivasal' Vijay, Rajaji, Kanika, Shan, Kalki, BGS, Arul. Shankar et al.
-
-Anthology style works have been published in Tamil before and have been somewhat welcomed. Did the film, which is being prepared for the real incident under the director of the debut director Prasad Murugan?Or not?We will continue to see
-
-The four -story story that travels in different directions on different field combines the weapon as a rifle. Do the four -story mantras travel with different livelihood problems in the community use the weapon of a gun available when they are under pressure and crisis?Or not?That is the story of the film.
-
-'' Weapon will always attack the opponent. Introduction director Prasad Murugan has written the style of his own style and described it in the Linear mode.
-
-...
-
-[Data](articles/70f99806.json)
-
-[Extended Data](ext_articles/70f99806.ext.json)
-
----
-
-### South Chennai - Film Review
-
-*2024-12-13 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201204) · `ta`
-
-Here's a summary of the film review in approximately 200 characters:
-
-
-
-"South Chennai" film review: Action-packed thriller with Ranga as hero. Story revolves around restaurant debt, illegal activities, and child adoption. Director's awareness on adoption appreciated but some aspects incomplete.
-
-🟩
-
-Actors: Ranga, Riya, Nitin Mehta, Ilango Kumanan, Dileepan Kumar
-
-Movies have been released in Tamil cinema under the name of Vadasenai - Central Chennai. It was somewhat welcome.
-
-The rest of the film is currently being released in South Chennai. The film, which is a storyline that spreads Corona infection, has attracted all fans?Or not?We will continue to see.
-
-South Chennai also includes the East Coast Road. A restaurant on East Coast Road has been running a family (story man's family) for two generations. The father of the hero is to modernize the restaurant and expand into a restaurant with a liquor hall according to the taste of the people.Thus borrowing.
-
-The debt burden increases as the restaurant's business with exclusive liquor lake as expected. At this moment, a gang uses the restaurant to reduce his debt burden and use the restaurant for their illegal matters.
-
-Did the man of the story recove the restaurant from this gang?Or not?That is the story of the film.
-
-...
-
-[Data](articles/a4f0d8c2.json)
-
-[Extended Data](ext_articles/a4f0d8c2.ext.json)
-
----
-
-### 'Tractor' speaks to the farmers' plight
-
-*2024-12-13 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201192) · `ta`
-
-"Y4:0
-
-🟩
-
-The movie 'Tractor' starring newcomer Prabhakaran Jayaraman is screened at international film festivals.
-
-Prabhakaran Jayaraman, Swetha Pratap, late actress Pillaiyarpatti Jayalakshmi, Ram Siva, Master Govardhan and many others have starred in the film 'Tractor' directed by debutant director Ramesh Yantra.
-
-Gautam Muthusamy's cinematography. Sudarshan has compiled. The film was produced by producer Jayanthan through Freede Entertainment (France).
-
-How do private companies deceive farmers who do not have educated?The film 'Tractor' will be screened at the 22nd Chennai International Film Festival in Chennai on the 14th of this month.
-
-The film 'Tractor', which was screened at the International Film Festival in Brazil and attracted the attention of the fans, is expected to meet the expectations of the fans as it is being screened at the Chennai International Film Festival.
-
-Following this, the film crew said the film was planned to be released at the film palace soon.
-
-◼️
-
-[Data](articles/338ddcf9.json)
-
-[Extended Data](ext_articles/338ddcf9.ext.json)
 
 ---

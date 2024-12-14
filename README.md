@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 08:53:02**
+As of **2024-12-14 09:07:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,047 (99.9%) of 60,097 articles have been extended.
+60,052 (99.9%) of 60,097 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,69 +84,91 @@ The tourist arrivals will meet a target of 2.2 million in this year and will bec
 
 ---
 
-### සහල් සම්බන්ධ වැටලීම් තවදුරටත්
+### Reach related raid
 
 *2024-12-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204356) · `si`
 
-දිවයින පුරා සහල් සම්බන්ධව වැටලීම් තවදුරටත් සිදු කෙරෙමින් පවතින බව පාරිභෝගික කටයුතු අධිකාරිය පවසයි.
+Consumer Affairs Authority conducts 75 rice raids island-wide. Price drop expected due to increased imports. State Commerce Corporation importing 5,200 metric tons of nadu rice, first shipment arriving 19th.
 
-එහි අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා පැවසුවේ ඊයේ (14) දිනයේදී දිවයින පුරා වැටලීම් 75ක් පමණ සිදුකළ බවය.
+🟩
 
-ඉදිරියේදී ද සති අන්තයේ සහ නිවාඩු දිනවලදී වැටලීම් කරන ලෙස අදාළ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවත් ඔහු පැවසීය.
+The Consumer Affairs Authority says that raids on rice islandwide is still underway.
 
-එමෙන්ම ආනයනික සහල් තොග වෙළෙඳපොළට පැමිණීමත් සමග සහල් මිල අඩුවෙමින් පවතින බවද ඇතැම් ප්‍රදේශයන් හී වී මිලද අඩු වෙමින් පවතින බවටත් මේ වන විට තොරතුරු ලැබෙමින් පවතින බවද ඔහු පවසයි.
+The Director Asela Bandara said that about 75 raids were carried out island yesterday (14).
 
-මේ අතර රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව මගින් නාඩු සහල් මෙට්‍රික් ටොන් 5,200ක ප්‍රමාණයක් ආනයනය කිරීමට ද කටයුතු යොදා තිබේ.
+He said the relevant officers had instructed to raid on the weekend and the weekends and holidays.
 
-එහි පළමු තොගය මෙම මස 19වන දින මෙරටට ලැබීමට නියමිතව ඇති බවත් වාර්තා වේ.
+He also said that the price of rice is decreasing with the increase in rice prices with the decrease in the importation of the imported rice.
+
+Meanwhile, the State Commerce Corporation has also taken steps to import 5,200 metric tons of nadu rice.
+
+It is reported that the first consignment is due to be received on the 19th of this month.
 
 ◼️
 
 [Data](articles/c5fb733e.json)
 
+[Extended Data](ext_articles/c5fb733e.ext.json)
+
 ---
 
-### උඳුවප් පුර පසළොස්වක පොහෝ දිනය අදයි
+### Today's full moon day is today
 
 *2024-12-14 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204355) · `si`
 
-ලොවපුරා සියලු බෞද්ධයන් මහත් භක්තියෙන් වන්දනා මාන සිදුකරන වසරක අවසානය සනිටුහන් කරන උඳුවප් පුර පසළොස්වක පොහොය දිනය අදට (14) යෙදී තිබේ.
+Here's a summary in 200 characters:
 
-මෙරට බෞද්ධයන්ට ද ශාසනික වශයෙන් උඳුවප් පොහොය ඉතා වැදගත් පොහොය දිනයක් ලෙස සැලකේ.
 
-සංඝමිත්තා රහත් මෙහෙණින් වහන්සේ දින 07ක මුහුදු තරණයකින් පසු ජය ශ්‍රී මහා බෝධීයේ දක්ෂිණ ශාඛාවක් ද රැගෙන දඹකොළ පටුනට වැඩම කරවීම සිදුවූයේ අද වැනි පොහොය දිනකය.
 
-සංඝමිත්තා තෙරණින් වහන්සේ සමග තවත් භික්ෂූණීන් 11 නමක් එදින ලංකාවට වැඩම කළ අතර මෙරට මෙහෙණි සස්න පිහිටුවීම ද උඳුවප් පුරපසළොස්වක පොහොය දිනයේ දී සිදුව තිබේ.
+Full moon day today: Buddhists worldwide celebrate end of pilgrimage. In Sri Lanka, Poya day marks Buddha's footprint discovery. Important events include Sangamitta ceremony and Derana live broadcast from Kurunduwatta Bodhiru Viharaya.
 
-උඳුවප් පොහොය දිනයේ සිදුවන තවත් වැදගත් සිදුවීමක් නම් බුදුරජාණන් වහන්සේගේ පා පහස ලද සිරිපා වන්දනා සමය ආරම්භ වීමය.
+🟩
 
-ඒ අනුව පැල්මඩුල්ල ගල්පොත්තාවල පුරාණ ශ්‍රී පාද විහාරස්ථානයේ සිට සාධාතුක කරඩුව, සමන්දේව ප්‍රථිමාව සහ දේව ආභරණ ශ්‍රී පාද මළුව වෙත වැඩම කරවීම අද අළුයම සිදුවුවිය.
+All Buddhists worldwide have shown the end of the pilgrimage of pilgrimage and the focal moon day (14) is today.
 
-උඳුවප් පුර පසළොස්වක පොහොය දිනයට සමගඟාමීව පැවැත්වෙන එෆ්. එම්. දෙරණ  පෝදා අසපුව වැඩසටහනේ 120 වැනි සජීවී විකාශය ගාල්ල කුරුඳුවත්ත බෝධිමළු විහාරස්ථානයේ සිට අද දවස පුරා පැවැත්වීමට ද නියමිතව තිබේ.
+The Buddhists in Sri Lanka is also considered a very important poly day of Poya.
+
+The Sanmboamitta has taken place to take place to join the table of seven days after a sea-wide branch of Sri Maha Bodhi.
+
+Another 11 Buddhist monks with Sangamitta is operated on the day.
+
+Another important event on the Umeduwap ​​Poya Day is the beginning of the Buddha's son's son's son's design.
+
+Accordingly, the phrase and the Lord Jewelry to the Phrows Kahand of the Galpottawatte of Pelmadulla have come to the phrote house of the Sri Pada Kimballa.
+
+Fields of Uduppi Poya Day. M. The 120th Live Broadcasting of the Derana is scheduled to be held in the Kurunduwatta Bodhiru Viharaya in Galle today.
 
 ◼️
 
 [Data](articles/3b8e3b8f.json)
 
+[Extended Data](ext_articles/3b8e3b8f.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට තද වැසි
+### Heavy rains in several areas
 
 *2024-12-14 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204354) · `si`
 
-උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains forecasted for Northern, Eastern, Western, Sabaragamuwa, Central provinces and Galle, Matara districts. Severe rain possible in some areas. Showers expected in the evening/night.
 
-සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ දැක්වේ.
+🟩
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන වලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවිය හැකිය.
+Several spells of showers may occur in the Northern and Eastern Provinces.
 
-බස්නාහිර පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වෙරළබඩ ප්‍රදේශවල ඇතැම් ස්ථාන වලට උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at the evening or even night in other areas.
 
-මධ්‍යම, සබරගමුව, දකුණ සහ ඌව පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවත් එම දෙපාර්තමේන්තුව සිය නිවේදයේ දක්වා තිබේ.
+Some locations in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. About 75 can cause severe rain.
+
+Some places in the Western Province and in the Galle and Matara Districts can also be rains.
+
+The Department of Sabaragamuwa, Southern and Uva provinces can be in the morning.
 
 ◼️
 
 [Data](articles/70f887ec.json)
+
+[Extended Data](ext_articles/70f887ec.ext.json)
 
 ---
 
@@ -282,19 +304,29 @@ We are carrying out preventive measures as the disease has been confirmed. (A)
 
 ---
 
-### இந்திய உயர்ஸ்தானிகர் பிரதமருடன் சந்திப்பு
+### Meeting with Indian High Commission
 
 *2024-12-14 02:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-பிரதமருடன்-சந்திப்பு/175-348713) · `ta`
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, இலங்கை பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை நேற்று வெள்ளிக்கிழமை   பிரதமர் அலுவலகத்தில் சந்தித்தார்.
+Here's a summary of 200 characters:
 
-இந்த சந்திப்பு இரு நாடுகளுக்கும் இடையிலான நீண்டகால நட்புறவு மற்றும் மூலோபாய கூட்டாண்மையை எடுத்துக்காட்டுவதாக அமைந்திருந்தது.
 
-தற்போது பல்வேறு அபிவிருத்தி நிலைகளில் உள்ள பல இருதரப்பு திட்டங்களின் முன்னேற்றம் குறித்து இந்த கலந்துரையாடலின் போது கவனம் செலுத்தப்பட்டுள்ளது. (a)
+
+Indian High Commissioner Santosh Ja met Sri Lankan PM Harini Amarasuriya. The meeting showcased India-Sri Lanka's long-standing friendship and strategic alliance. Discussions focused on bilateral project progress across various sectors.
+
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja met with Sri Lankan Prime Minister Harini Amarasuriya at the Prime Minister's Office yesterday.
+
+The meeting was an illustration of long -term friendship and strategic partnership between the two countries.
+
+During this discussion on the progress of many bilateral projects in various development conditions. (A)
 
 ◼️
 
 [Data](articles/925ff9d6.json)
+
+[Extended Data](ext_articles/925ff9d6.ext.json)
 
 ---
 
@@ -649,6 +681,8 @@ Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if th
 ◼️
 
 [Data](articles/6d359c75.json)
+
+[Extended Data](ext_articles/6d359c75.ext.json)
 
 ---
 

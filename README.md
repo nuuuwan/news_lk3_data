@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 23:43:15**
+As of **2024-12-15 00:42:15**
 
 ## Newspaper Stats
 
-*Scraped **60,181** Articles*
+*Scraped **60,182** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 450
-colombotelegraphcom | 609
+colombotelegraphcom | 610
 bbccomsinhala | 631
 islandlk | 3,632
 economynextcom | 3,668
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,157 (100.0%) of 60,181 articles have been extended.
+60,163 (100.0%) of 60,182 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -595,6 +595,20 @@ Accordingly, the rice is being imported from India and has received 2300 metric 
 [Data](articles/f43d3321.json)
 
 [Extended Data](ext_articles/f43d3321.ext.json)
+
+---
+
+### The Use Of Dr. Or ‘Acharya’ Title By Elected Representatives: What Is The problem?
+
+*2024-12-14 18:43:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-use-of-dr-or-acharya-title-by-elected-representatives-what-is-the-problem/) · `en`
+
+The debate about the use of Dr. title by the present Speaker in Sri Lanka’s parliament presumably without obtaining a PhD from a reputed university raises an important issue in the way such academic titles have been used in the political sphere in recent decades. It is well known that the higher education sector in the country was also politicised along with other government institutions where there should have been a high degree of autonomy. The issue is whether the matter relating to the speaker’s use of Dr. title in front of his name supposedly without obtaining a PhD is an isolated incident?  In other words, was this a common practice among political sphere?  Another issue is whether the use of these titles in English vs Sinhala vernacular had anything to do with the confusion? Before addressing these questions, let me explain the accepted way of using Dr. title or even Professor title by those who acquire them after years of research and study in universities.
+
+...
+
+[Data](articles/b12f15e0.json)
+
+[Extended Data](ext_articles/b12f15e0.ext.json)
 
 ---
 
@@ -2515,21 +2529,5 @@ The opportunity presented by the forthcoming visit of President Dissanayake to I
 [Data](articles/2d60db4f.json)
 
 [Extended Data](ext_articles/2d60db4f.ext.json)
-
----
-
-### Lankan Ambassador and Governor of Bangkok hold discussions on strengthening bilateral collaboration
-
-*2024-12-14 00:07:27* · [`dailyftlk`](https://www.ft.lk/news/Lankan-Ambassador-and-Governor-of-Bangkok-hold-discussions-on-strengthening-bilateral-collaboration/56-770513) · `en`
-
-Ambassador of Sri Lanka and Permanent Representative to UNESCAP, Wijayanthi Edirisinghe, met with the Governor of Bangkok, Chadchart Sittipunt to discuss areas of collaboration between Sri Lanka and Bangkok.
-
-Ambassador Edirisinghe underscored the profound Buddhist and cultural ties between Sri Lanka and Thailand, drawing attention to key symbols of Sri Lanka’s heritage, such as the Kandy Esala Perahera and the Ramayana Trail. She highlighted how such cultural icons not only reflect Sri Lanka’s cultural richness but also echo deeply with Thailand’s own historical and spiritual traditions.
-
-...
-
-[Data](articles/9f48afc6.json)
-
-[Extended Data](ext_articles/9f48afc6.ext.json)
 
 ---

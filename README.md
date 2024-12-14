@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 18:03:29**
+As of **2024-12-14 18:23:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,117 (99.9%) of 60,156 articles have been extended.
+60,119 (99.9%) of 60,156 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,31 @@ The opposition has denounced Saturday’s election as “illegitimate” and sai
 
 [Data](articles/ed8d2bdd.json)
 
+[Extended Data](ext_articles/ed8d2bdd.ext.json)
+
 ---
 
-### கொத்மலை நீர்த்தேக்கத்தில் பெண்ணின் சடலம் மீட்பு !
+### Woman's body recovered in Kotmale reservoir
 
 *2024-12-14 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201252) · `ta`
 
-தலவாக்கலை - மேல் கொத்மலை நீர்த்தேக்கத்தில் பெண் ஒருவர் இன்று சனிக்கிழமை (14) சடலமாக மீட்கப்பட்டுள்ளதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+Body recovered Kotmale reservoir Talawakelle police investigation ongoing
 
-நீர்த்தேக்கத்தின் வான் கதவுகள் அமைந்துள்ள பிரதான அணைக்கட்டுக்கு அருகில் சடலம் கிடப்பதாக பொலிஸாருக்கு கிடைத்த தவலின் பேரில் சம்பவ இடத்திற்கு விரைந்த பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+🟩
 
-சடலமாக மீட்கப்பட்டவர் தொடர்பில் இதுவரை எந்தவித தகவல்களும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்தனர்.
+Talawakelle police said that a woman has been recovered today (14) at the Talawakelle - Upper Kotmale reservoir.
 
-சடலத்தை பிரேத பரிசோதனைக்காக நுவரெலியா மாவட்ட பொது வைத்தியசாலைக்கு எடுத்துச் செல்லப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+Police rushed to the scene and investigated the incident that the body was found near the main dam, where the air doors of the reservoir were located.
+
+Police said no information has been received so far regarding the body of the body.
+
+The body was taken to the Nuwara Eliya District General Hospital for autopsy, police said.
 
 ◼️
 
 [Data](articles/a212071b.json)
+
+[Extended Data](ext_articles/a212071b.ext.json)
 
 ---
 

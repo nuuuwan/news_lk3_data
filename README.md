@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 13:01:05**
+As of **2024-12-14 13:12:06**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 10,394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,079 (99.9%) of 60,128 articles have been extended.
+60,081 (99.9%) of 60,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### මිදිගම රුවන්ට මාංචු යතුරත් දීමට ගිය අයෙකු කොටුවෙයි
+### One who went to the Midigama Ruwan arrested for his handcuff
 
 *2024-12-14 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204365) · `si`
 
-කොළඹ නව මැගසින් බන්ධනාගාරයේ රඳවා සිටින ප්‍රබල පාතාල කල්ලි නායකයෙකු වන මිදිගම රුවන් නැමැත්තාට රහසිගතව මාංචු කුට්ටමක යතුරක් ලබාදීමට පැමිණි පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary in 200 characters:
 
-නව මැගසින් බන්ධනාගාරයේ රඳවා සිටින විශේෂ ගණයේ සැකකරුවකු වන මිදිගම රුවන් නැමැති අපරාධකරුව බැලීම සඳහා පසුගිය 12 වනදා පස්වරු 3.30ට පමණ අමුත්තන් පෙන්වන ස්ථානයට යුවලක් පැමිණ තිබුණි.
 
-ඒ අතර සිටි පිරිමි පුද්ගලයා සම්බන්ධයෙන් ඇතිවූ සැකයක් මත බන්ධනාගාර හදිසි ප්‍රතිචාර උපක්‍රමික බළකා නිලධාරීන්  ඔහු පරීක්ෂා කරනු ලැබීය.
 
-එහිදී ඔහුගේ මුදල් පසුම්බිය තුළ සූක්ෂම අයුරින් සඟවා තිබූ මාංචු යතුරක් හමුව තිබේ.
+Person arrested at Magazine Prison for possessing handputha browser key. Linked to Midigama Ruwan case. Claimed to be police officer during initial questioning. Handed to Borella Police for further investigation.
 
-එහිදී අනාවරණ වී ඇත්තතේ ඔහු සමග පැමිණි කාන්තාව මිදිගම රුවන් සමග සමීප සබඳතාවක් පවත්වා ඇති බවය.
+🟩
 
-ඒ අනුව අත්අඩංගුවට ගත් සැකකරු වැඩිදුර විමර්ශන සඳහා බොරැල්ල පොලිසියට භාරදී තිබේ.
+A person who was in secret in the New Magazine Prison, Colombo, has been arrested in connection with a handputha browser key.
 
-ඔහුගෙන් සිදුකළ මූලික ප්‍රශ්න කිරීම්වලදී ඔහු පවසා ඇත්තේ, තමන් කලක් පොලිස් සේවයේ නිරත වූවකු බවය.
+A couple had arrived at the site of visitors, a special suspect in the new Magazine Prison at 3.30 pm on the 12th at 3.30 pm.
+
+Meanwhile, prison emergency response officers were tested on suspicion of the man who was involved in the man.
+
+His wallet had a handput key that was hidden in a quick way.
+
+The woman had had a close relationship with Midigama Ruwan.
+
+The suspect was handed over to the Borella Police for further investigations.
+
+In his primary interrogation, he has said that he was a police service.
 
 ◼️
 
 [Data](articles/bd2af830.json)
+
+[Extended Data](ext_articles/bd2af830.ext.json)
 
 ---
 
@@ -69,6 +79,8 @@ Issuing a statement, the SLBFE emphasized that, a notable increase has been obse
 ...
 
 [Data](articles/dea4eb72.json)
+
+[Extended Data](ext_articles/dea4eb72.ext.json)
 
 ---
 

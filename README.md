@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 08:31:48**
+As of **2024-12-14 08:53:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,045 (99.9%) of 60,097 articles have been extended.
+60,047 (99.9%) of 60,097 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,35 @@ The funding is part of the EU’s overall contribution to the Disaster Response 
 
 [Data](articles/2c1d7cd5.json)
 
+[Extended Data](ext_articles/2c1d7cd5.ext.json)
+
 ---
 
-### වසරේ ගතවූ කාලය තුළ පැමිණි සංචාරකයින් ගණන හෙළිවෙයි
+### Tourist arrivals in the past year reveal
 
 *2024-12-14 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204357) · `si`
 
-මේ වසරේ ගතවූ කාලය තුළ සංචාරකයින් මිලියන 1.9 කට ආසන්න සංඛ්‍යාවක් දිවයින්ට පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+Here's a summary in 200 characters:
 
-එහි සභාපති බුද්ධික හේවාවසම් මහතා සඳහන් කලේ දෙසැම්බර් මාසයේ දී පමණක් 90,000කට අධික ප්‍රමාණයක් පැමිණ ඇති බවය.
 
-එමෙන්ම දෙසැම්බර් මාසය තුළ පමණක් සංචාරකයින් 250,000ක් පැමිණෙනු ඇතැයි සංචාරක සංවර්ධන අධිකාරිය අපේක්ෂා කරන බවද ඔහු පැවසීය.
 
-සංචාරක පැමිණීම මෙම වසර තුළ මිලියන 2.2 ඉලක්කයක් සපුරාලීමට අපේක්ෂා කරන බවත් එම ඉලක්කය සපුරාලීමෙන් පසු 2018 වසරෙන් පසුව මිලියන දෙකක ඉලක්කය සැපිරූ ප්‍රථම අවස්ථාව මෙය බවට පත් වෙනු ඇතැයිද ඔහු පැවසීය.
+"1.9M tourists visited last year, 90K+ in Dec alone. Target: 2.2M visitors this year. First time exceeding 2018 numbers since then."
+
+🟩
+
+The Tourism Development Authority (Testing) has said that nearly 1.9 million tourists have returned to the country during the past year.
+
+The Chairman Buddhika Hewawasam stated that more than 90,000 has come in December alone.
+
+He said the tourism development authority expects to visit 250,000 tourists in December alone.
+
+The tourist arrivals will meet a target of 2.2 million in this year and will become the first time since the year 2018 after 2018.
 
 ◼️
 
 [Data](articles/4e0c869e.json)
+
+[Extended Data](ext_articles/4e0c869e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 08:07:53**
+As of **2024-12-14 08:31:48**
 
 ## Newspaper Stats
 
-*Scraped **60,091** Articles*
+*Scraped **60,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,130 @@ dbsjeyarajcom | 450
 colombotelegraphcom | 607
 bbccomsinhala | 629
 islandlk | 3,628
-economynextcom | 3,664
+economynextcom | 3,666
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,702
 adaderanalk | 7,314
 tamilmirrorlk | 8,591
 virakesarilk | 9,867
-adaderanasinhalalk | 10,383
+adaderanasinhalalk | 10,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,043 (99.9%) of 60,091 articles have been extended.
+60,045 (99.9%) of 60,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
+
+### European Union allocates 175,000 euros for Sri Lankans affected by floods
+
+*2024-12-14 08:00:00* · [`economynextcom`](https://economynext.com/european-union-allocates-175000-euros-for-sri-lankans-affected-by-floods-194274/) · `en`
+
+ECONOMYNEXT – The European Union is allocating 175,000 euros (53.8 million rupees) to provide emergency humanitarian assistance to people affected by cyclone Fengal across Sri Lanka.
+
+The funding will benefit over 37,000 people in some of the hardest-hit areas in the eastern and northern provinces, EU in Sri Lanka said in a statement.
+
+This EU funding will support the Sri Lanka Red Cross in delivering assistance to address the basic needs of people who have lost their homes or livelihoods.
+
+Funded activities include the distribution of essential household items, school supplies and cash grants to the most vulnerable families.
+
+There will be also cleaning campaigns and actions to prevent possible outbreaks of diseases such as dengue.
+
+The funding is part of the EU’s overall contribution to the Disaster Response Emergency Fund (IFRC-DREF) of the International Federation of Red Cross and Red Crescent Societies (IFRC).
+
+...
+
+[Data](articles/2c1d7cd5.json)
+
+---
+
+### වසරේ ගතවූ කාලය තුළ පැමිණි සංචාරකයින් ගණන හෙළිවෙයි
+
+*2024-12-14 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204357) · `si`
+
+මේ වසරේ ගතවූ කාලය තුළ සංචාරකයින් මිලියන 1.9 කට ආසන්න සංඛ්‍යාවක් දිවයින්ට පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+එහි සභාපති බුද්ධික හේවාවසම් මහතා සඳහන් කලේ දෙසැම්බර් මාසයේ දී පමණක් 90,000කට අධික ප්‍රමාණයක් පැමිණ ඇති බවය.
+
+එමෙන්ම දෙසැම්බර් මාසය තුළ පමණක් සංචාරකයින් 250,000ක් පැමිණෙනු ඇතැයි සංචාරක සංවර්ධන අධිකාරිය අපේක්ෂා කරන බවද ඔහු පැවසීය.
+
+සංචාරක පැමිණීම මෙම වසර තුළ මිලියන 2.2 ඉලක්කයක් සපුරාලීමට අපේක්ෂා කරන බවත් එම ඉලක්කය සපුරාලීමෙන් පසු 2018 වසරෙන් පසුව මිලියන දෙකක ඉලක්කය සැපිරූ ප්‍රථම අවස්ථාව මෙය බවට පත් වෙනු ඇතැයිද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/4e0c869e.json)
+
+---
+
+### සහල් සම්බන්ධ වැටලීම් තවදුරටත්
+
+*2024-12-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204356) · `si`
+
+දිවයින පුරා සහල් සම්බන්ධව වැටලීම් තවදුරටත් සිදු කෙරෙමින් පවතින බව පාරිභෝගික කටයුතු අධිකාරිය පවසයි.
+
+එහි අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා පැවසුවේ ඊයේ (14) දිනයේදී දිවයින පුරා වැටලීම් 75ක් පමණ සිදුකළ බවය.
+
+ඉදිරියේදී ද සති අන්තයේ සහ නිවාඩු දිනවලදී වැටලීම් කරන ලෙස අදාළ නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවත් ඔහු පැවසීය.
+
+එමෙන්ම ආනයනික සහල් තොග වෙළෙඳපොළට පැමිණීමත් සමග සහල් මිල අඩුවෙමින් පවතින බවද ඇතැම් ප්‍රදේශයන් හී වී මිලද අඩු වෙමින් පවතින බවටත් මේ වන විට තොරතුරු ලැබෙමින් පවතින බවද ඔහු පවසයි.
+
+මේ අතර රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව මගින් නාඩු සහල් මෙට්‍රික් ටොන් 5,200ක ප්‍රමාණයක් ආනයනය කිරීමට ද කටයුතු යොදා තිබේ.
+
+එහි පළමු තොගය මෙම මස 19වන දින මෙරටට ලැබීමට නියමිතව ඇති බවත් වාර්තා වේ.
+
+◼️
+
+[Data](articles/c5fb733e.json)
+
+---
+
+### උඳුවප් පුර පසළොස්වක පොහෝ දිනය අදයි
+
+*2024-12-14 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204355) · `si`
+
+ලොවපුරා සියලු බෞද්ධයන් මහත් භක්තියෙන් වන්දනා මාන සිදුකරන වසරක අවසානය සනිටුහන් කරන උඳුවප් පුර පසළොස්වක පොහොය දිනය අදට (14) යෙදී තිබේ.
+
+මෙරට බෞද්ධයන්ට ද ශාසනික වශයෙන් උඳුවප් පොහොය ඉතා වැදගත් පොහොය දිනයක් ලෙස සැලකේ.
+
+සංඝමිත්තා රහත් මෙහෙණින් වහන්සේ දින 07ක මුහුදු තරණයකින් පසු ජය ශ්‍රී මහා බෝධීයේ දක්ෂිණ ශාඛාවක් ද රැගෙන දඹකොළ පටුනට වැඩම කරවීම සිදුවූයේ අද වැනි පොහොය දිනකය.
+
+සංඝමිත්තා තෙරණින් වහන්සේ සමග තවත් භික්ෂූණීන් 11 නමක් එදින ලංකාවට වැඩම කළ අතර මෙරට මෙහෙණි සස්න පිහිටුවීම ද උඳුවප් පුරපසළොස්වක පොහොය දිනයේ දී සිදුව තිබේ.
+
+උඳුවප් පොහොය දිනයේ සිදුවන තවත් වැදගත් සිදුවීමක් නම් බුදුරජාණන් වහන්සේගේ පා පහස ලද සිරිපා වන්දනා සමය ආරම්භ වීමය.
+
+ඒ අනුව පැල්මඩුල්ල ගල්පොත්තාවල පුරාණ ශ්‍රී පාද විහාරස්ථානයේ සිට සාධාතුක කරඩුව, සමන්දේව ප්‍රථිමාව සහ දේව ආභරණ ශ්‍රී පාද මළුව වෙත වැඩම කරවීම අද අළුයම සිදුවුවිය.
+
+උඳුවප් පුර පසළොස්වක පොහොය දිනයට සමගඟාමීව පැවැත්වෙන එෆ්. එම්. දෙරණ  පෝදා අසපුව වැඩසටහනේ 120 වැනි සජීවී විකාශය ගාල්ල කුරුඳුවත්ත බෝධිමළු විහාරස්ථානයේ සිට අද දවස පුරා පැවැත්වීමට ද නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/3b8e3b8f.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට තද වැසි
+
+*2024-12-14 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204354) · `si`
+
+උතුරු සහ නැගෙනහිර පළාත්වල වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම නිවේදනයේ දැක්වේ.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන වලට මි.මී. 75 පමණ තරමක් තද වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වෙරළබඩ ප්‍රදේශවල ඇතැම් ස්ථාන වලට උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම, සබරගමුව, දකුණ සහ ඌව පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවත් එම දෙපාර්තමේන්තුව සිය නිවේදයේ දක්වා තිබේ.
+
+◼️
+
+[Data](articles/70f887ec.json)
+
+---
 
 ### Union Bank CEO Dilshan Rodirgo felicitated by APB
 
@@ -134,25 +240,33 @@ People’s Bank joined LankaPay US Dollar Online Payments System in 2021 towards
 
 [Data](articles/a895b73e.json)
 
+[Extended Data](ext_articles/a895b73e.ext.json)
+
 ---
 
-### எலிக் காச்சலால் 58 பேர் பாதிப்பு: 7 பேர் பலி
+### 58 victims of Elig
 
 *2024-12-14 02:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்-காச்சலால்-58-பேர்-பாதிப்பு-7-பேர்-பலி/175-348714) · `ta`
 
-யாழ்ப்பாணம் மாவட்டத்தில் இதுவரை எலிக் காச்சல் நோயினால் 58 பேர் பாதிக்கப்பட்டுள்ளனர் என்று யாழ்ப்பாணம் பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்தியக் கலாநிதி ஆ.கேதீஸ்வரன் தெரிவித்துள்ளார்.
+58 cases reported in Jaffna district; 7 deaths; 24 cases each in Point Pedro and Karavetti divisions; 6 cases in Maruthankani division; 1 death in Mullaitivu district; preventive measures underway.
 
-யாழ்ப்பாணம், பருத்தித்துறை சுகாதார வைத்திய அதிகாரி பணிமனையில் நேற்று இடம்பெற்ற ஊடக சந்திப்பின்போது அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பருத்தித்துறை சுகாதார வைத்திய அதிகாரி பிரிவில் 24 பெரும், கரவெட்டி சுகாதார வைத்திய அதிகாரி பிரிவில் 24 பெரும்,  மருதங்கேணி பிரிவில் 6 பெரும், சாவகச்சேரி பிரிவில் 4 பெருமாக   இதுவரை 58 பேர் எலிக்காச்சல் நோய் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Jaffna Regional Health Services Director, Dr. A. Ketheeswaran said that 58 people have been affected by the infection in the Jaffna district so far.
 
-யாழ்ப்பாண மாவட்டத்தில் மொத்தமாக 7 இறப்புகள் பதிவாகியுள்ளன. அதில் 6 இறப்புகள் யாழ்ப்பாண மாவட்டத்திலும் ஒன்று முல்லைத்தீவு  மாவட்டத்திலும் பதிவாகியுள்ளது.
+He said this during a media briefing held yesterday at the Jaffna and Pedro Health Officer's Workshop. He further stated that
 
-எலிக்காச்சல் நோய் உறுதிப்படுத்தப்பட்டுள்ளதால் இதற்கான தடுப்பு நடவடிக்கைகளை நாங்கள் முன்னெடுத்து வருகின்றோம் என்றார். (a)
+In the Point Pedro Health Officer Division, 24 Great, Karavetti Health Medical Officer Division 24 Great, Maruthankani Division 6 Great, Chavakachcheri Division has so far been admitted to the hospital due to Elikkal.
+
+A total of 7 deaths have been recorded in the Jaffna district. Of these, 6 deaths were recorded in the Jaffna district and one in the Mullaitivu district.
+
+We are carrying out preventive measures as the disease has been confirmed. (A)
 
 ◼️
 
 [Data](articles/32848014.json)
+
+[Extended Data](ext_articles/32848014.ext.json)
 
 ---
 
@@ -497,6 +611,32 @@ Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if th
 [Data](articles/578db354.json)
 
 [Extended Data](ext_articles/578db354.ext.json)
+
+---
+
+### Sri Lanka gets only 73-pct acceptances to exchange Hamilton Reserve linked ISB
+
+*2024-12-13 22:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-only-73-pct-acceptances-to-exchange-hamilton-reserve-linked-isb-194246/) · `en`
+
+ECONOMYNEXT – Sri Lanka has received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange.
+
+An offer to exchange 1.25 billion April 2023 bond has had acceptances of 98 percent.
+
+An offer to exchange 1.0 billion March 2024 bonds have acceptances of 97 percent.
+
+An offer to exchange 500 million in June 2024 bonds have acceptances of 99 percent.
+
+However, the 2022 July bonds in which Hamilton Reserve claims a 25 percent stake, has had only 73 percent acceptances.
+
+Sri Lanka says 98-pct of bondholders agreed to exchange defaulted ISBs
+
+Hamilton Reserve has filed suit in New York insisting on full payment. The proceedings have been stayed until the exchange is carried out.
+
+Sri Lanka is offering so-called Macro-linked bonds, whose payout increases if the the economy performs better than expected. (Colombo/Dec13/2024)
+
+◼️
+
+[Data](articles/6d359c75.json)
 
 ---
 
@@ -2269,155 +2409,5 @@ The form of information provided to Parliament by the Minister is not included i
 [Data](articles/d8d2c226.json)
 
 [Extended Data](ext_articles/d8d2c226.ext.json)
-
----
-
-### Sikkundu elderly woman dies on bus wheel
-
-*2024-12-13 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201146) · `ta`
-
-Elderly woman (64) killed on bus wheel in Elpitiya. Private bus traveling from Elpitiya to Bigala. Passenger trapped on rear. Bus driver arrested. Body at Elpitiya Hospital.
-
-🟩
-
-An elderly woman died at a bus wheel in Thalakaspe in Elpitiya - Pitigala road, Bidigala police said.
-
-The deceased is a 64 -year -old elderly woman from Kalakasphe area.
-
-A private bus traveling from Elpitiya to Bigala was injured when a passenger on the street was trapped on the back of the bus when he tried to return to the bus.
-
-The body has been placed in the funeral room of the Elpitiya Hospital and the bus driver has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/f3ab1ef2.json)
-
-[Extended Data](ext_articles/f3ab1ef2.ext.json)
-
----
-
-### Wild Elephant
-
-*2024-12-13 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201156) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Lorry crashes into elephant on Budhala-Kadirgamam road. Elderly woman dies after severe injuries. Incident occurs in Moneragala-Konakanga police division.
-
-🟩
-
-A lorry crashed into a wild elephant on the road on Thursday morning at the Budhala -Kadirgamam road, which belongs to the Moneragala -Konakanga police division, Konakanga Ara police said.
-
-During the accident, an elderly woman sitting in the front seat of the lorry died after being admitted to the Budhala Hospital after being severely injured under the lorry.
-
-◼️
-
-[Data](articles/6f158e43.json)
-
-[Extended Data](ext_articles/6f158e43.ext.json)
-
----
-
-### Foreign expatriates for employment exceeds 300,000
-
-*2024-12-13 14:20:10* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-සඳහා-විදෙස්-ගතවූ-ප්‍රමාණය-ලක්ෂ-3-ඉක්මවයි/11-413619) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Over 300,000 Sri Lankans employed abroad in 2024, with 177,804 males (60%) and 122,358 females (40%). Top destinations: Kuwait (73,995), UAE (49,499). Employment increased in South Korea, Israel, Romania, Japan. Projected end-of-year total: 311,000 workers.
-
-🟩
-
-The total number of Sri Lankans spent 3 lakhs for employment during the year in 2024 were exceeding Rs. 300,162.
-
-This is the second occasion of the extent of 200 lakhs of workers in the last 10 years, and in 2022, 310,948 workers have been abroad.
-
-During the year 2024, 177,804 male workers and 122,358 women have gone abroad. The total number of women have been abroad during the total number of foreign workers is 40.7 percent and male workers have increased to 60 percent of the total number.
-
-It was 184,140 and the foreign employment agencies from the foreign employment agencies and 116,022 have passed away.
-
-Sri Lankans have gone abroad to employment to Kuwait and that size is 73,995. Secondly, the United Arab Emirates are more abroad and that size is 49,499.
-
-...
-
-[Data](articles/493a5858.json)
-
-[Extended Data](ext_articles/493a5858.ext.json)
-
----
-
-### Sri Lanka coconut auction postponed for second week due to lack of nuts
-
-*2024-12-13 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-postponed-for-second-week-due-to-lack-of-nuts-192544/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s weekly coconut auction was not held for the second consecutive week due to a lack of coconuts, an official has said.
-
-“We did not receive enough [coconuts] to have an auction,” a Coconut Development Board official said.
-
-Minister of Trade Wasantha Samarasinghe told parliament on December 5, that there was no shortage in the market for coconuts but a shortage being artificially created by a mafia.
-
-Samarasinghe was replying to a question raised by SLPP MP D V Chanaka.
-
-According to the CDA local market statistics, wholesale prices for large nuts were 150-160 and 120-140 rupees for small nuts on December 10. A nut was retailing between 175 and 190 at supermarkets.
-
-Coconut oil local wholesale price was 760,000.00 to 780,000.00 rupees per metric ton.
-
-White coconut oil has been listed as 1,000,000 – 1,100,000 rupees per metric ton.
-
-Farmgate prices in Kurunegala were 110,000 to 120,000 per 1,000 nuts.
-
-◼️
-
-[Data](articles/e73e5272.json)
-
-[Extended Data](ext_articles/e73e5272.ext.json)
-
----
-
-### Members appointed for Colombo Port City Economic Commission
-
-*2024-12-13 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204336) · `si`
-
-Colombo Port City Economic Commission: President appoints members including Harsha Amarasekera as Chairman. Committee includes Damien Cabraal, Mohan Abeywardena, Sanjaya Kulathunga, and Dr. Harsha Subasinghe.
-
-🟩
-
-President Anura Kumara Dissanayake has appointed members to the Colombo Port City Economic Commission.
-
-The relevant appointment letters was presented to the members of the Secretary to the Commission today (13) at the Presidential Secretariat.
-
-President's Counsel Harsha Amarasekera has been appointed as the Chairman of the Colombo Port City Economic Commission.
-
-Damien Amal Cabraal, Mohan Ray Abeywardena, Sanjaya Kulathunga and Dr. Harsha Subasinghe are the rest of the committee.
-
-◼️
-
-[Data](articles/5ef81464.json)
-
-[Extended Data](ext_articles/5ef81464.ext.json)
-
----
-
-### SJB MPs sign no-confidence motion against Speaker
-
-*2024-12-13 14:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104212/sjb-mps-sign-no-confidence-motion-against-speaker) · `en`
-
-The Samagi Jana Balawegaya (SJB) parliamentary group, led by Opposition Leader Sajith Premadasa, has commenced signing the Motion of No Confidence against the Speaker of Parliament, according to the SJB Media Unit.
-
-The SJB alleges that the Speaker, both before and during his campaign for the 2024 parliamentary election, and throughout his tenure as an MP and as the Speaker, has used the title “Dr.” alongside his name.
-
-According to the SJB, this implies he holds a B.Sc. in Chemical and Process Engineering from the University of Moratuwa and a PhD from Waseda University in Japan—qualifications he allegedly does not hold.
-
-The party also claims that the Speaker has avoided addressing public concerns and inquiries regarding these qualifications.
-
-...
-
-[Data](articles/9718ea12.json)
-
-[Extended Data](ext_articles/9718ea12.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-14 16:42:15**
+As of **2024-12-14 17:26:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,106 (99.9%) of 60,147 articles have been extended.
+60,112 (99.9%) of 60,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-14 (Saturday)
 
-### மேல் கொத்மலை நீர்த்தேக்கத்தில் பெண்ணின் சடலம்
+### The woman's corpse in the upper Kothmalai reservoir
 
 *2024-12-14 16:26:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேல்-கொத்மலை-நீர்த்தேக்கத்தில்-பெண்ணின்-சடலம்/76-348722) · `ta`
 
-மேல் கொத்மலை  நீர்த்தேக்கத்தில் இன்று காலை அடையாளம் தெரியாத பெண்ணின் சடலம் மீட்கப்பட்டுள்ளது.
+Body of unidentified woman found near Upper Kothmalai reservoir gate. Recovered this morning, transferred to Nuwara Eliya District Hospital after magistrate inquiry.
 
-மேல் கொத்மலை நீர்த்தேக்கத்தின் வாயிற் கதவுகளுக்கு அருகாமையில் ஒதுங்கும் குப்பைகளுடன் குறித்த சடலம் காணப்பட்டுள்ளது.
+🟩
 
-ஸ்தலத்திற்கு வருகை தந்த நுவரெலியா மாவட்ட பதில் நீதவான் அம்பகஹவத்தவின் விசாரணையை தொடர்ந்து சடலமானது நுவரெலியா  மாவட்ட வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+The body of an unidentified woman has been recovered this morning at the Upper Kotmale reservoir.
+
+The corpse is found near the gate of the upper Kothmalai reservoir.
+
+The body was taken to the Nuwara Eliya District Hospital following the inquiry of the Nuwara Eliya District Magistrate Ambakahawatta who visited the site.. Remble
 
 ◼️
 
 [Data](articles/c82fd874.json)
+
+[Extended Data](ext_articles/c82fd874.ext.json)
 
 ---
 
@@ -248,19 +254,29 @@ The court has up to 180 days to determine whether to dismiss Yoon as president o
 
 ---
 
-### பெண்களுக்கு எதிரான வன்முறைகளை நிறுத்த உதவுங்கள் - கிழக்கு பெண் மனித உரிமை செயற்பாட்டாளர்கள் அமைப்பினர் ஜனாதிபதியிடம் கோரிக்கை
+### Help to stop violence against women
 
 *2024-12-14 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201251) · `ta`
 
-இலங்கையில் பயங்கரவாத தடைச்சட்டத்தினை நீக்கி, ஏற்றுக்கொண்ட சீடோ சமவாயத்தின் அடிப்படையில் புதிய சட்டமூலத்தினை கொண்டுவருவதன் ஊடாக பெண்களுக்கு எதிரான வன்முறைகளையும் பாரபட்சங்களையும் நிறுத்த உடனடியாக உதவுங்கள் என கிழக்கு மாகாண பெண் மனித உரிமை செயற்பாட்டாளர்கள் அமைப்பு ஜனாதிபதியிடம் கோரியுள்ளது.
+Here's a summary of 200 characters:
 
-இன்று சனிக்கிழமை (14) நடைபெற்ற ஊடக சந்திப்பில் கருத்து தெரிவிக்கையிலேயே இந்த அமைப்பினர் இவ்வாறு கோரிக்கை விடுத்துள்ளனர்.
 
-இலங்கையின் அனைத்துப் பெண்களும் இன, மத, சமூக வேறுபாடுகளைக் கடந்து ஆணாதிக்க அடக்குமுறைகளையும் வன்முறைகளையும் எதிர்கொண்டு வருகின்றனர். ஆணாதிக்க மயப்பட்ட குடும்ப, சமூக, வேலைத்தள, அரச அடக்குமுறைகளுக்கு இலங்கைப் பெண்கள் அனைவருமே உள்ளாகின்றனர். இணையவழிக் குற்றங்கள் அதிகரித்துள்ளன. குறிப்பாக பாடசாலை மாணவிகள் மீதான பாலியல் இம்சைகள், வன்முறைகளால் சிறுமிகளே அதிகம் பாதிக்கப்படுகின்றனர். எனினும் காத்திரமான சட்ட ஏற்பாடுகள் இல்லாத காரணத்தினால் தவறு செய்கின்றவர்கள் தப்பித்துக் கொள்கின்ற நிலைதான் தற்போதும் இருக்கின்றது.
+
+Eastern Province Women's Rights Activists call for immediate action against gender-based violence. They demand repeal of Terrorism Act and passage of new legislation protecting women's rights. The organization highlights the need for stronger legal provisions to address increasing internet crimes and sexual violence against minors.
+
+🟩
+
+The Eastern Province Woman Rights Activists Organization has called on the president to immediately stop violence and discrimination against women by bringing the new Bill to the abolition of the Terrorism Act and accepted by the Sido Samaya.
+
+The organization made this statement at a media briefing held on Saturday (14).
+
+All women in Sri Lanka are facing patriarchal oppression and violence over ethnic, religious and social differences. All Sri Lankan women are subjected to patriarchal family, social, workplace and state repression. Internet crimes have increased. The girls are most affected by the sexuals and violence of schoolchildren in particular. However, the lack of legal legal provisions is still a situation where wrongdoers escape.
 
 ...
 
 [Data](articles/2780fc8c.json)
+
+[Extended Data](ext_articles/2780fc8c.ext.json)
 
 ---
 
@@ -280,25 +296,37 @@ The Speaker can submit his resignation to the General Secretary of Parliament or
 
 [Data](articles/3190d615.json)
 
+[Extended Data](ext_articles/3190d615.ext.json)
+
 ---
 
-### අශෝක රංවලගේ ඉල්ලා අස්වීම ජනපති පිළිගනියි
+### President admits Ashoka Ranwala's resignation
 
 *2024-12-14 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204369) · `si`
 
-කථානායක අශෝක රංවල මහතාගේ ඉල්ලා අස්වීමේ ලිපිය ජනාධිපතිවරයා විසින් පිළිගෙන තිබේ.
+Here's a summary in 200 characters:
 
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් මේ බව ලිඛිතව පාර්ලිමේන්තු මහලේකම්වරියට දන්වා යවා ඇතැයිද සඳහන් වේ.
 
-කථානායක අශෝක රංවල මහතා සිය ධුරයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබුණි.
 
-ඒ තමාගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව සමාජව තුළ මතු කරනු ලැබූ ගැටළුවක් හේතුවෙන් තමාට මේ මොහොතේ එම සුදුසුකම් සඳහා අවශ්‍ය ලියකියවිලි ඉදිරිපත් කිරීමට අපොහොසත් බව දන්වමිනි.
+President accepts Speaker Asoka Ranwala's resignation due to educational qualification issues. Secretary informed by Parliament. Ranwala denies false statement about qualifications.
 
-එහෙත් තමන් තමාගේ සුදුසුකම් සම්බන්ධව සාවද්‍ය ප්‍රකාශයක් සිදුකර නොමැති බවත් ඔහු සිය ලිපිය මගින් දන්වා තිබුණි.
+🟩
+
+The President has admitted the resignation letter of Mr. Speaker Asoka Ranwala.
+
+The Secretary to the President Dr. Nandika Sanath has been informed by the Secretary General of Parliament in writing.
+
+Speaker Asoka Ranwala had decided to resign from his post.
+
+As a problem raised by the societies regarding his educational qualifications, he is unable to submit the required documents for those qualifications at the moment.
+
+But he had informed that he had not had a false statement regarding his own qualifications.
 
 ◼️
 
 [Data](articles/e3f59f97.json)
+
+[Extended Data](ext_articles/e3f59f97.ext.json)
 
 ---
 
@@ -320,29 +348,35 @@ The next election of the National Olympic Committee has reportedly been planned 
 
 [Data](articles/d511fee5.json)
 
+[Extended Data](ext_articles/d511fee5.ext.json)
+
 ---
 
-### ජාතික ඔලිම්පික් කමිටුවට ලැබෙන මූල්‍ය ප්‍රතිපාදන අත්හිටුවයි
+### Financial provisions received by the National Olympic Committee
 
 *2024-12-14 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204368) · `si`
 
-ජාත්‍යන්තර ඔලිම්පික් කමිටුවෙන් සහ ආසියානු ඔලිම්පික් කමිටුවෙන් මෙරට ඔලිම්පික් කමිටුවට ලබාදෙන අරමුදල් අත්හිටුවීමට තීරණය කර තිබේ.
+National Olympic Committee faces funding cuts from IOC and AOC. Email confirms direct payments continue. Urgent election called amid term expiration in April 2026. Next election planned for March, pending IOC approval. Funds suspended since Dec 10.
 
-කෙසේවෙතත් ඔලිම්පික් ශිෂ්‍යත්ව සඳහා ක්‍රීඩක ක්‍රීඩිකාවන්ට සිදුකරන සෘජු ගෙවීම් එලෙසම ක්‍රියාත්මක කෙරෙන බව ජාත්‍යන්තර ඔලිම්පික් කමිටුව ජාතික ඔලිම්පික් කමිටුව වෙත ඊමේල් පණිවුඩයකින් දන්වා ඇත.
+🟩
 
-ඒ අනුව ජාතික ඔලිම්පික් කමිටු විශේෂ මහ සභා රැස්වීමක් ඊයේ (13)පැවති අතර එහිදී තීරණය කළේ ජාතික ඔලිම්පික් කමිටු නිලවරණය කඩිනමින් පැවැත්විය යුතු බවය.
+The International Olympic Committee and the Asian Olympic Committee has decided to suspend funds to the Olympic Committee.
 
-කෙසේවෙතත් කමිටුවේ වත්මන් නිල කාලය අවසන් වීමට නියමිතව ඇත්තේ 2026 අප්‍රේල් මාසයේදීය.
+However, the International Olympic Committee has informed the National Olympic Committee to an email to the National Olympic Committee that direct payments are being carried out for the Olympics.
 
-ඊයේ රැස්වූ විශේෂ මහ සභා රැස්වීමේදී ඉක්මනින් නිලවරණයක් පැවැත්වීමේ යෝජනාව තුනෙන් දෙකක ඡන්දයෙන් සම්මත වී තිබේ.
+Accordingly, a general meeting of the National Olympic Committee was held yesterday (13), the National Olympic Committee election should be held expeditiously.
 
-අන්තර්ජාතික ඔලිම්පික් කමිටුවේ නිර්දේශ ලබාගැනීමෙන් පසුව ජාතික ඔලිම්පික් කමිටුවේ මීළඟ නිලවරණය එළඹෙන වසරේ මාර්තු මාසයට පෙර පැවැත්වීමට සැලසුම් කරන බව වාර්තා වෙයි.
+However, in April 2026, however, is due to end the committee's term.
 
-කෙසේවෙතත් මේ වනවිට ජාත්‍යන්තර ඔලිම්පික් කමිටුවෙන් සහ ආසියානු ඔලිම්පික් කමිටුවෙන් මෙරට ඔලිම්පික් කමිටුවට ලබාදෙන අරමුදල් දෙසැම්බර් 10 වනදා සිට අත්හිටුවා තිබේ.
+At the Special General Meeting held yesterday, the proposal to conduct an election proposal was passed by two thirds.
 
-◼️
+It is reported that the next election of the National Olympic Committee will be planned to be held in March until March, after obtaining the recommendations of the International Olympic Committee.
+
+...
 
 [Data](articles/5d889967.json)
+
+[Extended Data](ext_articles/5d889967.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 18:51:09**
+As of **2024-12-15 19:03:54**
 
 ## Newspaper Stats
 
-*Scraped **60,314** Articles*
+*Scraped **60,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,726
+adalk | 5,727
 adaderanalk | 7,349
-tamilmirrorlk | 8,619
+tamilmirrorlk | 8,620
 virakesarilk | 9,922
 adaderanasinhalalk | 10,430
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,288 (100.0%) of 60,314 articles have been extended.
+60,288 (100.0%) of 60,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### ஐந்து பதில் அமைச்சர்கள் நியமனம்
+
+*2024-12-15 18:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐந்து-பதில்-அமைச்சர்கள்-நியமனம்/175-348758) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு நாட்டிலிருந்து புறப்பட்டுச் சென்றதன் காரணமாக 05 அமைச்சுக்களுக்கு பதில் அமைச்சர்கள் நியமிக்கப்பட்டுள்ளனர்.
+
+அதன்படி, ஜனாதிபதியின் கீழ் காணப்படும் டிஜிட்டல் பொருளாதாரம், பாதுகாப்பு அமைச்சு மற்றும் நிதி மற்றும் திட்டமிடல், பொருளாதார அபிவிருத்தி அமைச்சு ஆகிய 03 அமைச்சுக்களுக்கும், வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சு மற்றும் தொழில் அமைச்சு ஆகியவற்றுக்கு பதில் அமைச்சர்கள் நியமிக்கப்பட்டுள்ளனர்.
+
+அதற்கமைய, பதில் டிஜிட்டல் பொருளாதார அமைச்சராக, டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் பொறியியலாளர் எரங்க வீரரத்ன நியமிக்கப்பட்டுள்ளார்.
+
+நிதி மற்றும் திட்டமிடல், பொருளாதார அபிவிருத்தி பதில் அமைச்சராக, நிதி மற்றும் திட்டமிடல் பிரதி அமைச்சர் கலாநிதி ஹர்ஷன சூரியப்பெரும நியமிக்கப்பட்டுள்ளார்.
+
+வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா பதில் அமைச்சராக, வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமசந்திர நியமிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/6eb39ec1.json)
+
+---
 
 ### ஐந்து பிரதி அமைச்சர்கள் நியமனம்
 
@@ -305,6 +325,28 @@ Speaker Ashoka Sapumal Ranwala has commented on Deputy Speaker Rishwi Sally, Urb
 [Data](articles/d0c1bffb.json)
 
 [Extended Data](ext_articles/d0c1bffb.ext.json)
+
+---
+
+### ඩුබායි රාජ්‍යයේ සිට හංවැල්ලේ නොනිල රජකම් කරන බස් ලලිත්
+
+*2024-12-15 17:16:30* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-රාජ්‍යයේ-සිට-හංවැල්ලේ-නොනිල-රජකම්-කරන-බස්-ලලිත්/11-413647) · `si`
+
+ඩුබායි රාජ්‍යයේ සැඟව සිට  හංවැල්ල කේන්ද්‍ර  කරගෙන මිනිස් ඝාතන සහ කප්පම් ගැනීමේ නිරත  කන්නංගරගේ   ලලිත් කන්නංගර නොහොත් බස් ලලිත් නැමැති අපරාධකරු ගේ තර්ජන හේතුවෙන් ව්‍යාපාරිකයන් රැසක් සිය ව්‍යාපාරික ස්ථාන වසා නිවෙස් හැර ගොස් ඇතැයි පොලිසිය කියයි.
+
+තවද එම අපරාධකරුගේ තර්ජන හමුවේ මේ වන විටත් හංවැල්ල ප්‍රදේශයේ ඉන්ධන හලකට ද පොලිස් ආරක්ෂාව යොදවා ඇත.
+
+34 හැවිරිදි  එම අපරාධකරු මනුෂ්‍ය ඝාතන 5කට පොලිසියට අවශ්‍යව කරන පුද්ගලයෙක් බවට පොලිස් පොතේ සටහන්ව ඇත.
+
+ඒ අතරින් බූරු මූනා ලවා 2022 වසරේ දෙසැම්බර් මස 18 වෙනි දින හංවැල්ලේ මුස්ලිම් ව්‍යාපාරිකයෙකු වන ෆර්ශාන් ඝාතනය කිරීම සමාජයේ දැඩි කතාබහට ලක්විය.
+
+එමෙන්ම ඉකුත්  සැප්තැම්බර් මස 30වනදා හංවැල්ල නෙළුවත්තුඩුව ප්‍රදේශයේ පදිංචි ව්‍යාපාරිකයෙකු ඝාතනය ට ලක්වූයේද ඒ හේතුවෙනි .එයද සමාජයේ දැඩි කතාබහට ලක් විය.
+
+එලෙස ඝාතනයට ලක් වූපුද්ගලයා ලලිත් කන්නංගරට බස් රැකියාවක් පළමුව ලබාදුන් පුද්ගලයා විය. එම පුද්ගලයාගෙන් ද කප්පම් ඉල්ලා ඒවා ලබානොදීම නිසා ඝාතනය කිරීම හේතුවෙනි.
+
+...
+
+[Data](articles/447e0570.json)
 
 ---
 
@@ -2303,55 +2345,5 @@ The Treasury Bill Release and the payment will be made on December 20.
 [Data](articles/62dabd5a.json)
 
 [Extended Data](ext_articles/62dabd5a.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-15 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104244/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in the Eastern Province.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night.
-
-Fairly heavy showers about 75mm are likely at some places in Central, Sabaragamuwa, Eastern and Southern provinces, it added.
-
-Misty conditions can be expected in Central, and Sabaragamuwa provinces during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/12cc4f0a.json)
-
-[Extended Data](ext_articles/12cc4f0a.ext.json)
-
----
-
-### Youth travelling in car shot dead in Meegoda
-
-*2024-12-15 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104243/youth-travelling-in-car-shot-dead-in-meegoda) · `en`
-
-A 32-year-old person travelling in a car has been shot dead by two unidentified gunmen who ambushed his vehicle at Nagahawatte in Meegoda, police said.
-
-The deceased has been identified as a 32-year-old father of one.
-
-The shooting took place last night (14) as the victim was travelling from his brother’s residence to his own house in Nagahawatte, Meegoda.
-
-An unidentified person had stopped his vehicle, while another person had opened fire at him, the police said.
-
-The victim, who was critically injured in the shooting, had succumbed to his injuries after being admitted to the Homagama Hospital.
-
-The victim’s wife and his one-year-old daughter were also inside the car, at the time of the shooting.
-
-The deceased had been employed as an office assistant at the main office of the Department of Samurdhi Development in Sethsiripaya, Battaramulla.
-
-Nugegoda scene of crime officers are conducting on-site investigations into the incident.
-
-...
-
-[Data](articles/423168ec.json)
-
-[Extended Data](ext_articles/423168ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 13:01:13**
+As of **2024-12-15 13:12:02**
 
 ## Newspaper Stats
 
-*Scraped **60,250** Articles*
+*Scraped **60,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,717
+adalk | 5,718
 adaderanalk | 7,338
 tamilmirrorlk | 8,614
 virakesarilk | 9,897
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,224 (100.0%) of 60,250 articles have been extended.
+60,226 (100.0%) of 60,251 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -98,37 +98,55 @@ The second is the geopolitical crisis. Sri Lanka has become a global politics co
 
 ---
 
-### பஸ் - மோட்டார் சைக்கிள் விபத்து; ஒருவர் உயிரிழப்பு
+### Bus - motorcycle accident;Death
 
 *2024-12-15 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201314) · `ta`
 
-தனமல்வில பொலிஸ் பிரிவுக்குட்பட்ட தனமல்வில வெல்லவாய வீதியில் பஸ்ஸொன்று எதிர்த்திசையில் வந்த மோட்டார் சைக்கிள் மீது மோதியதில் ஒருவர் சனிக்கிழமை (14) உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+Motorcycle-Bus collision: One killed on Wellawaya road. Driver injured, died untreated. Bus driver arrested.
 
-வெல்லவாயவிலிருந்து தனமல்வில நோக்கி பயணித்த பஸ் பராக்கிரமபுர பிரதேசத்தில், எதிர்த்திசையில் வந்த மோட்டார் சைக்கிள் மீது மோதியதில் இவ்விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-விபத்தில் படுகாயமடைந்த மோட்டார் சைக்கிள் ஓட்டுநர் தனமல்வில வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்தார்.
+One person was killed on Saturday (14) when a bus collided with a motorcycle on the Wellawaya road in Thanamalwila police division.
 
-சடலம் தனமல்வில வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், பஸ் சாரதி கைது செய்யப்பட்டார்.
+The bus was traveling from Wellawaya to Thanamalwila and crashed into a motorcycle in Parakramapura area.
+
+A motorcycle driver who was injured in the accident was admitted to the Tanamalwila Hospital and died without treatment.
+
+The body was placed in the funeral room of the Tanamalwila hospital and the bus driver was arrested.
 
 ◼️
 
 [Data](articles/bd2fefbd.json)
 
+[Extended Data](ext_articles/bd2fefbd.ext.json)
+
 ---
 
-### சபாநாயகர் தொடர்பான சர்ச்சை : அரசாங்கத்தின் செயற்பாடு வரவேற்கத்தக்கது - ஜீவன்
+### Controversy on Speaker: Government's action is welcome - Jeevan
 
 *2024-12-15 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201281) · `ta`
 
-சபாநாயகர் அசோக ரன்வலவின் பதவி இராஜினாமா அவசியமான ஒன்றாக இருந்தாலும், முக்கியமான பதவிகளுக்கான பிரமுகர்களை தேர்ந்தெடுக்கும்போது அரசாங்கம் தீர்மானம் எடுப்பதில் ஏற்பட்டுள்ள அசமந்தமான குறைபாட்டை பிரதிபலிப்பதாகத் தெரிவித்துள்ள ஐக்கிய தேசியக் கட்சியின் பாராளுமன்ற உறுப்பினர் ஜீவன் தொண்டமான், இந்த நிலைமையை சரி செய்வதற்கான அரசாங்கத்தின் முயற்சி வரவேற்கத்தக்கது என்றும் குறிப்பிட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-கலாநிதி பட்டம் தொடர்பில் எழுந்த கடும் சர்ச்சைக்கு மத்தியில் உரிய ஆவணங்களை சமர்பிக்க தவறிய சபாநாயகர் தனது சபாநாயகர் பதவியை இராஜினாமா செய்தார். இலங்கை பாராளுமன்ற வரலாற்றில் சபாநாயகர் ஒருவர் சுயமாக பதவி விலகுவது இதுவே முதன்முறையாகும்.
 
-இந்நிலையில் ஐக்கிய தேசியக் கட்சியின் பாராளுமன்ற உறுப்பினர் ஜீவன் தொண்டமான் தனது உத்தியோகபூர்வ எக்ஸ் தளத்தில் இது தொடர்பில் பதிவொன்றையிட்டு மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+
+Jeevan Thondaman welcomes govt's effort to address Speaker Asoka Ranwala's resignation controversy. He criticizes govt's selection process for key positions, saying proper oversight could've prevented the issue.
+
+🟩
+
+Although the resignation of Speaker Asoka Ranwala is essential, United National Party (UNP) parliamentarian Jeevan Thondaman has said that the government's efforts to repair the situation are welcome, but the government's attempt to repair the situation is welcome, but the government's decision to decide on important posts.
+
+In the midst of a controversy over the doctor's degree, the Speaker has resigned as his Speaker. This is the first time a Speaker resigns in the history of Parliament of Sri Lanka.
+
+In this case, United National Party (UNP) MP Jeevan Thondaman made this statement on his official X.
+
+The resignation of Speaker Ashoka Ranwala reflects the impatient deficiency in the government's decision when choosing important positions for important positions. I appreciate the government's attempt to correct this situation in particular. It is clear that this problem may have been avoided with the right supervision.
 
 ...
 
 [Data](articles/97bef1c8.json)
+
+[Extended Data](ext_articles/97bef1c8.ext.json)
 
 ---
 
@@ -247,6 +265,20 @@ Pope Gnanaprakasam Anthony Pillai, who was a dedicated member of the Diocese of 
 [Data](articles/97b65e8b.json)
 
 [Extended Data](ext_articles/97b65e8b.ext.json)
+
+---
+
+### ජනපති අනුරගේ ඉන්දිය සංචාරය අද
+
+*2024-12-15 11:17:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරගේ-ඉන්දිය-සංචාරය-අද/11-413636) · `si`
+
+ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයෙන් ශ්‍රී ලංකා ජනාධිපති අනුර කුමාර දිසානායක මහතා 2024 දෙසැම්බර් 15 සිට 17 වැනි දින දක්වා ඉන්දියාවේ රාජ්‍ය සංචාරයක නිරත වීමට නියමිතය. ජනාධිපති ධුරයට පත්වීමෙන් පසු ඒ මහතා යෙදෙන පළමු විදෙස් සංචාරය මෙයයි.
+
+මෙම සංචාරය අතරතුරදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු මහත්මිය හමුවීමට නියමිත අතර අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ අනෙකුත් ඉන්දීය අමාත්‍යවරුන් සමඟ අන්‍යෝන්‍ය වශයෙන් උනන්දුවක් දක්වන කරුණු රාශියක් පිළිබඳව ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+
+◼️
+
+[Data](articles/d9349639.json)
 
 ---
 
@@ -2283,35 +2315,5 @@ Accordingly, as the current presidency is sacked, the Prime Minister will act as
 [Data](articles/098d464e.json)
 
 [Extended Data](ext_articles/098d464e.ext.json)
-
----
-
-### Actor Manikandan starrer 'Kudavasthan' is the first song release
-
-*2024-12-14 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201261) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Kudavasthan", starring Manikandan, releases its first song "Zero Balance Hero". Directed by Sujith N. Vaisak, featuring Shanvi Mehna and Guru Somasundaram. Song lyrics by Vaisak, music by Shan Roldan. Reflects simple people's struggles.
-
-🟩
-
-The first song 'Zero Balance Hero', which is played in the film 'Kamavasthan', starring the hero of the story of actor Manikandan, who has contributed two hit films as 'Goodnight' and 'Lover', has been released.
-
-Manikandan, Shanvi Mehna, Guru Somasundaram and R. Sundarrajan, Prasanna Balachandran, Jenson Divakar and many others are acting.
-
-Sujith n. Vaisak has composed the film, which is being recorded by Subramaniam. The film is set to be the Entertainment of Fil Good Family. Produced by Vinod Kumar.
-
-The shooting of the film has been released as the first song and the lyrical video for the song 'Manamam Parakkuttu Gnanam'. The song is written by songwriter Vaisak, sung by playback singer and composer Shan Roldan.
-
-All the lines featured in this song have received the support of most middle class people as they reflect the last life of the simple people who are paid monthly.
-
-◼️
-
-[Data](articles/c5586609.json)
-
-[Extended Data](ext_articles/c5586609.ext.json)
 
 ---

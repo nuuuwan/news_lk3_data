@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 13:26:44**
+As of **2024-12-15 13:43:09**
 
 ## Newspaper Stats
 
-*Scraped **60,252** Articles*
+*Scraped **60,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,188 @@ economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,718
-adaderanalk | 7,338
+adaderanalk | 7,341
 tamilmirrorlk | 8,614
-virakesarilk | 9,897
-adaderanasinhalalk | 10,418
+virakesarilk | 9,901
+adaderanasinhalalk | 10,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,230 (100.0%) of 60,252 articles have been extended.
+60,233 (100.0%) of 60,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### මත්ද්‍රව්‍ය තොගයක් සමග සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට
+
+*2024-12-15 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204393) · `si`
+
+කොකෙන් සහ කුෂ් මත්ද්‍රව්‍ය සමග සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීමට වලාන දූෂණ මර්දන ප්‍රහාරක ඒකකය සමත්ව තිබේ.
+
+වැල්ලවත්ත පොලිස් වසමේ කොලින්වුඩ් මාවත ප්‍රදේශයේදී වළාන දූෂණ මර්දන ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් ඊයේ (13) සිදුකළ වැටලීමකදි සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙහිදී මත්ද්‍රව්‍ය ග්‍රෑම් 36ක්, කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 203ක් මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් බවට සැකකෙරෙන මුදල් රුපියල් 1,875,000ක් ජංගම දුරකථන 05ක් මුදල් ගණන් කිරීමේ යන්ත්‍රයක් බැංකු කාඩ්පත් 02ක් හා ඉලෙක්ට්‍රොනික් තරාදියක්ද පොලිස් භාරයට ගෙන තිබේ.
+
+සැකකරු සිදුකරනු ලැබූ අනාවරණයෙන් පසු තොරතුරු අනුව කොලින්වුඩ් මාවත ප්‍රදේශයේදී කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 03 මිලිග්‍රෑම් 600ක් සමග තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් අවුරුදු 24 හා 25 වයස්වල පසුවන මට්ටක්කුලිය හා කොළඹ 14 ප්‍රදේශවල පදිංචිකරුවන් වේ.
+
+ඔවුන් තිදෙනා වැල්ලවත්ත පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇති අතර වැල්ලවත්ත පොලීසිය වැඩිදුර විමර්ෂන සිදු කරයි.
+
+◼️
+
+[Data](articles/a873c7d5.json)
+
+---
+
+### கல்கிசையில் ஹெரோயின், ஐஸ் போதைப்பொருட்களுடன் ஒருவர் கைது
+
+*2024-12-15 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201324) · `ta`
+
+கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட அத்திட்டிய பகுதியில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருட்களுடன் ஒருவர் நேற்று சனிக்கிழமை (14) பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+கல்கிசை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து 101 கிராம் 380 மில்லி கிராம் ஹெரோயின் மற்றும் 50 கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+◼️
+
+[Data](articles/361319d8.json)
+
+---
+
+### யாழில் பல்பொருள் விற்பனை நிலையங்களில் திருடும் கும்பல்! - பொலிஸாரின் முக்கிய அறிவிப்பு
+
+*2024-12-15 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201319) · `ta`
+
+யாழ்ப்பாணம் நகர்ப் பகுதிகளை அண்மித்துள்ள பல்பொருள் விற்பனை நிலையங்களில் திருடும் கும்பல்கள் தொடர்பான தகவல் கிடைத்தால் அறியத் தருமாறு பொலிஸார் பல்பொருள் விற்பனை நிலையங்கள் மற்றும் பொது மக்களுக்கு அறிவுறுத்தியுள்ளனர்.
+
+அண்மையில் பல்பொருள் விற்பனை நிலை யங்களுக்கு மூவர் அடங்கிய கும்பல் சென்று, அங்கு பொருட்களை வாங்குவது போல சில பொருட்களை திருடி, தமது ஆடைகளுக்குள் மறைத்து எடுத்துச் சென்றமை தொடர்பான காட்சிகள் விற்பனை நிலையங்களில் பொருத்தப்பட்டுள்ள பாதுகாப்பு கண்காணிப்பு கமராக்களில் பதிவாகியுள்ளன.
+
+இந்த கும்பல் தொடர்ச்சியாக இது போன்ற திருட்டுக்களில் ஈடுபட்டு வருவதனால், அவர்கள் தொடர்பான தகவல்களை அறிந்தால், அருகில் உள்ள பொலிஸ் நிலையத்துக்கு அறிவிக்குமாறு பொலிஸார் பொது மக்களிடம் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/2cd85498.json)
+
+---
+
+### IRD sets final December deadlines for defaulted tax payments
+
+*2024-12-15 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104252/ird-sets-final-december-deadlines-for-defaulted-tax-payments) · `en`
+
+The Department of Inland Revenue (IRD) has issued a notice to taxpayers, urging them to meet key deadlines for tax payments this December to avoid penalties and legal action.
+
+Taxpayers are reminded that the Value Added Tax (VAT) and Social Security Contribution Levy for the month of November 2024 must be paid on or before 20 December 2024.
+
+For those who have missed paying taxes due on their income tax returns for the assessment year 2023/2024, the deadline to settle these payments is 26 December 2024. Additionally, any unpaid self-assessment tax, arrears tax, or agreed additional assessment tax must also be paid by this date, the Commissioner General of the IRD noted.
+
+The department has cautioned that failure to meet this deadline will result in taxpayers losing the opportunity to seek relief from penalties for these unpaid amounts.
+
+...
+
+[Data](articles/93b45a9f.json)
+
+---
+
+### SJB to propose opposition-aligned Speaker for Parliament
+
+*2024-12-15 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104251/sjb-to-propose-opposition-aligned-speaker-for-parliament) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Nalin Bandara announced that the opposition plans to propose a new Speaker for Parliament, representing the opposition, next Tuesday (17).
+
+Speaking at a media conference held in Colombo today (15), MP Bandara expressed concerns over recent developments in Parliament and the country’s governance.
+
+“The Parliament will convene on Tuesday, and a new Speaker must be appointed. We intend to present a Speaker who truly represents the opposition, not someone with questionable credentials,” Bandara stated, adding that no specific name has been proposed yet, but a meeting will be held tomorrow (16) to finalize the decision.
+
+Bandara criticized the government, alleging deceit in their handling of national issues. “We are deeply disappointed that they have misled the entire country. They claim to clean up Parliament but have instead undermined education qualifications and governance,” he said.
+
+...
+
+[Data](articles/ab4215aa.json)
+
+---
+
+### Four sluice gates opened in Rajanganaya Reservoir
+
+*2024-12-15 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104250/four-sluice-gates-opened-in-rajanganaya-reservoir) · `en`
+
+Four sluice gates of the Rajanganaya Reservoir have been opened following heavy rainfall.
+
+The Department of Irrigation stated that steps have been taken to open one of the two sluice gates by two feet each and the other gate by three feet each.
+
+It is reported that approximately 3,775 cubic meters of water per second is being released into the Kala Oya from the opened sluice gates.
+
+Meanwhile, two sluice gates have been opened in the Angama Reservoir.
+
+These sluicegates, which are opened one foot at a time, will release cubic meters of water per second into the Kala Oya, according to the Department of Irrigation.
+
+◼️
+
+[Data](articles/bd587dbb.json)
+
+---
+
+### உழவு இயந்திரத்தில் மோதுண்டு கால்நடை பண்ணை ஊழியர் பலி
+
+*2024-12-15 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201308) · `ta`
+
+நுவரெலியா - பட்டிபொல பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் நேற்று சனிக்கிழமை (14) அம்பேவெல கால்நடை பண்ணை ஊழியர் ஒருவர் கால்நடைகளுக்கு உணவு வழங்கிக்கொண்டிருந்தபோது, உழவு இயந்திரத்தில் மோதுண்டு உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் சிக்கியவர் பலத்த காயங்களுக்குள்ளாகி நுவரெலியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் சிறிசமங்கம, அம்பேவெல பிரதேசத்தைச் சேர்ந்த 55 வயதுடைய பண்ணைப் பரிசோதகர் ஆவார்.
+
+◼️
+
+[Data](articles/4d980c42.json)
+
+---
+
+### ජනපති අද ඉන්දීය නිල සංචාරය අරඹයි
+
+*2024-12-15 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204392) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ඉන්දීය නිල සංචාරය අද (15) ආරම්භ වෙයි.
+
+ඒ අනුව, ජනාධිපතිවරයා අද ඉන්දියාව බලා පිටත්ව යන අතර එළඹෙන 17 වනදා දක්වා ඔහු ඉන්දියාවේ සංචාරය කිරීමට නියමිත බවයි විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+
+ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහාතාගේ පළමු විදෙස් සංචාරය ද මෙයයි.
+
+ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා මෙම සංචාරයට එක්වෙයි.
+
+ඒ අනුව මෙම සංචාරයේදී ජනාධිපතිවරයා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා හමුවී ද්විපාර්ශවීක සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+එමෙන්ම ජනාධිපතිවරයා ඉන්දීය රජයේ තවත් ප්‍රබල අමාත්‍යවරු කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+
+ජනාධිපතිවරයා සිය සංචාරය අතරතුර ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ආයෝජන හා වාණිජ සබඳතා ප්‍රවර්ධනය කිරීමේ ව්‍යාපාරික වැඩසටහනකට ද නව දිල්ලි නුවරදී එක්වීමට නියමිත අතර බුද්ධ ගයාවේද සංචාරය කිරීමට නියමිතය.
+
+...
+
+[Data](articles/772873a5.json)
+
+---
+
+### காங்கேசன்துறை - நாகை கப்பல் சேவை பல்வேறு வசதிகளுடன் ஜனவரியில் மீள ஆரம்பம்
+
+*2024-12-15 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201316) · `ta`
+
+காங்கேசன்துறைக்கும் நாகப்பட்டினத்துக்கும் இடையிலான கப்பல் சேவை எதிர்வரும் ஜனவரி மாதம் முதல் மீண்டும் வாரத்துக்கு ஆறு நாட்கள் மேம்பட்ட வசதிகளுடன் ஆரம்பமாகவுள்ளதாக சுபம் குழுமத்தின் தலைவரும் காங்கேசன்துறை, நாகப்பட்டினம் கப்பல் சேவை முதலீட்டாளருமான பொன்னுசாமி சுந்தர்ராஜ் தெரிவித்தார்.
+
+யாழ். ஊடக அமையத்தில் நேற்று (14) நடைபெற்ற ஊடகவியலாளர்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்தியாவில் சுபம் குறூப் ஒப் கம்பனிஸ் பல்வேறு வியாபார நிறுவனங்களை உள்ளடக்கியதொன்றாகும். குறிப்பாக, தனிமனிதனின் தலைமைத்துவத்தில் 500க்கும் மேற்பட்ட பாரவூர்தி போக்குவரத்து சேவையை வழங்குவதாக இருக்கிறது.
+
+அத்துடன் எமது பிறிதொரு நிறுவனமான சுபம் நிறுவனம் காங்கேசன்துறை, நாகப்பட்டினத்துக்கு இடையிலான கப்பல் சேவையில் முதலீடுகளைச் செய்துள்ளது. இதனையடுத்து கடந்த ஆகஸ்ட் மாதம் இந்த கப்பல் சேவை ஆரம்பிக்கப்பட்டிருந்தபோதும் காலநிலை முன்னெச்சரிக்கையின் காரணமாக தற்காலிகமாக சேவை தற்போது நிறுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/def3383a.json)
+
+---
 
 ### Decision to ask for an explanation from parliamentary officials
 
@@ -296,35 +464,51 @@ Pope Gnanaprakasam Anthony Pillai, who was a dedicated member of the Diocese of 
 
 ---
 
-### ජනපති අනුරගේ ඉන්දිය සංචාරය අද
+### President Anura's visit to India today
 
 *2024-12-15 11:17:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුරගේ-ඉන්දිය-සංචාරය-අද/11-413636) · `si`
 
-ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයෙන් ශ්‍රී ලංකා ජනාධිපති අනුර කුමාර දිසානායක මහතා 2024 දෙසැම්බර් 15 සිට 17 වැනි දින දක්වා ඉන්දියාවේ රාජ්‍ය සංචාරයක නිරත වීමට නියමිතය. ජනාධිපති ධුරයට පත්වීමෙන් පසු ඒ මහතා යෙදෙන පළමු විදෙස් සංචාරය මෙයයි.
+Sri Lankan President Anura Kumara Dissanayake visits India today. First foreign trip since becoming president. To meet Indian PM Narendra Modi and other officials.
 
-මෙම සංචාරය අතරතුරදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු මහත්මිය හමුවීමට නියමිත අතර අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ අනෙකුත් ඉන්දීය අමාත්‍යවරුන් සමඟ අන්‍යෝන්‍ය වශයෙන් උනන්දුවක් දක්වන කරුණු රාශියක් පිළිබඳව ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+🟩
+
+Sri Lankan President Anura Kumara Dissanayake to visit Sri Lanka to India's invitation to India's invitation to Indian President Mrs. Ruhaki Murmw. This is the first foreign visit to the president after being president.
+
+During his visit, President Anura Kumara Dissanayake is scheduled to meet Indian President Mrs. Narendra Modi and other Indian ministers and other Indian Ministers.
 
 ◼️
 
 [Data](articles/d9349639.json)
 
+[Extended Data](ext_articles/d9349639.ext.json)
+
 ---
 
-### யாழில் பரவும் எலிக்காய்ச்சல் - உயிரிழப்பு 08ஆக அதிகரிப்பு
+### Increase in Jaffna
 
 *2024-12-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/201311) · `ta`
 
-காய்ச்சல் காரணமாக பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த இந்த இளைஞர் மேலதிக சிகிச்சைக்காக யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில் நேற்று சனிக்கிழமை (14) இரவு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-இளைஞனுக்கு எலிக்காய்ச்சலுக்குரிய அறிகுறிகள் காணப்பட்டதாகவும், இளைஞனின் உடற்கூற்று மாதிரிகள் மேலதிக பரிசோதனைக்காக கொழும்புக்கு அனுப்பி வைக்கப்படவுள்ளதாகவும், பரிசோதனை முடிவிலேயே எலிக்காய்ச்சலா என்பதனை உறுதிப்படுத்த முடியும் என வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன.
 
-கடந்த சில தினங்களில் காய்ச்சல் காரணமாக மேலதிக சிகிச்சைக்காக யாழ். போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டவர்களில் முல்லைத்தீவை சேர்ந்த ஒருவர் உள்ளிட்ட ஏழு பேர் உயிரிழந்துள்ள நிலையில், நேற்று உயிரிழந்த இளைஞனுடன் உயிரிழப்பு 8ஆக அதிகரித்துள்ளது.
 
-அதேவேளை யாழில் சுமார் 70 பேர் எலிக்காய்ச்சல் அறிகுறிகளுடன் வைத்தியசாலைகளில் சிகிச்சை பெற்று வருகின்றமை குறிப்பிடத்தக்கது.
+"Jaffna: Youth hospitalized for fever transferred to Teaching Hospital. 7 deaths reported, including one from Mullaitivu. About 70 flu patients in Jaffna hospitals."
+
+🟩
+
+The youth, who was admitted to the Pedro Base Hospital due to fever, is for further treatment.. He was transferred to the Teaching Hospital on Saturday night (14).
+
+Hospital sources say that the young man has had signs of oline and the young man's anatomical samples will be sent to Colombo for further testing.
+
+Jaffna for further treatment due to fever in the past few days. Seven people, including a Mullaitivu, died, and the death of a young man who died yesterday.
+
+At the same time, about 70 people in Jaffna are being treated in hospitals with flu symptoms.
 
 ◼️
 
 [Data](articles/0a81771a.json)
+
+[Extended Data](ext_articles/0a81771a.ext.json)
 
 ---
 
@@ -343,6 +527,8 @@ Police said that the investigation revealed that the suspect has defrauded over 
 ◼️
 
 [Data](articles/7cd5eec3.json)
+
+[Extended Data](ext_articles/7cd5eec3.ext.json)
 
 ---
 
@@ -2125,207 +2311,5 @@ We were emailing on November 28 and his last email said that his health was a ha
 ...
 
 [Data](articles/a361844d.json)
-
----
-
-### Republicans’ most lethal political weapon – A father’s love for his son
-
-*2024-12-14 16:38:00* · [`islandlk`](http://island.lk/republicans-most-lethal-political-weapon-a-fathers-love-for-his-son/) · `en`
-
-The Republicans, not satisfied with their recent electoral triumph, continue to vilify President Biden for the pardon of his son, Hunter. Wresting power from the Democrats has not satisfied their blood-lust; they now seek to disgrace Biden, dishonor him and destroy the legacy of one of the most decent and selfless presidents in history, with a first-term record second to none.
-
-A legacy of achievements, the results of which have only now begun to show in what is today the strongest economy in the world. An economy created of bipartisan legislative miracles which will endure for decades to come. Which the contemptible Trump will claim he personally built, on the first day of his office, in January 2025. Just as he claimed he built the booming economy he inherited from President Obama in 2017, only to criminally mismanage it to recession by the end of his first term.
-
-...
-
-[Data](articles/03c224a4.json)
-
----
-
-### Sri Lanka President accepts Asoka Ranwala’s resignation as Speaker
-
-*2024-12-14 16:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-accepts-asoka-ranwalas-resignation-as-speaker-194294/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Kumara Dissanayake has accepted the resignation of speaker Asoka Ranwala, the parliament said.
-
-The Secretary to the President has informed the Secretary General of Parliament, Kushani Rohanadeera, in writing that the President has accepted the resignation of the speaker, a statement said.
-
-“In terms of Article 64(2) of the Constitution, if a Member holding office as the Speaker, Deputy Speaker or Deputy Chairman of a Committee resigns his office, he shall notify the President in writing,” the statement explained.
-
-“Accordingly, the Secretary to the President has given this written communication to the Secretary General of Parliament.”
-
-Ranwala resigned in the wake of an alleged fake doctorate he said he had earned from a Japanese university.
-
-◼️
-
-[Data](articles/72b77da0.json)
-
-[Extended Data](ext_articles/72b77da0.ext.json)
-
----
-
-### Angle movie does not disappoint fans - actor Gunanidhi
-
-*2024-12-14 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201260) · `ta`
-
-"Gunanidhi's Alanku releases on 27th, promises unique experience. Directed by Sakthivel, featuring Gunanidhi, Semban Vinod, and more. Superstar Rajinikanth praised the film."
-
-🟩
-
-Actor Gunanidhi starrer 'Alanku' will be released at the film House on the 27th of this month.. 'This movie won't disappoint fans. Gunanidhi, the hero and actor of the film, said that it would give you a different experience.
-
-Director S.. B.. Sakthivel's upcoming film 'Alanku' stars Gunanidhi, Semban Vinod, Kali Venkat, Sarath Appani, Sri Rekha, Kothavai, Regin Rose, Heartukumar and many others.. S.. Ajish has composed the film, which has been recorded by Pandi Kumar. The film is co -produced by producers T.Sabarish and Sangamitra Chaumia Anumani on behalf of DG Film Company and Magnus Productions.
-
-The film was held in Chennai. Director and actor Mishkin participated in the event. The event was held at the beginning of the event.
-
-Following this, Gunanidhi, the hero of the film, said, “I heard a lot of stories after the movie Selphy.. Director Das Rangasamy at that moment. B.. Sakthivel met us and described the story of 'Alanku'.
-
-...
-
-[Data](articles/ad5726e0.json)
-
-[Extended Data](ext_articles/ad5726e0.ext.json)
-
----
-
-### Anirudh extended his support for actor Shanmuga Pandian Vijayakanth
-
-*2024-12-14 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201262) · `ta`
-
-Anirudh supports Shanmuka Pandian Vijayakanth in "Sadhiyan Thalavan". Film features Kasturi Raja, Yamini Chandar. Music by Ilaiyaraaja. Expected release Jan 10, 2024. Late Captain Vijayakanth appears via AI in final scene.
-
-🟩
-
-Actor Shanmukha Pandian Vijayakanth has been released as the hero of the story of 'Sadhiyan Thalavan' which plays the hero of the story.. The leading star music composer and musician Anirudh posted it on his web page and congratulated the film crew and Shanmukha Pandian Vijayakanth.
-
-Shanmukha Pandiyan Vijayakanth, Kasturi Raja, Yamini Chandar, Muniskant, Garuda Ram, Rishi. Venkatesh, Yuki Sethu, Sri Jith Ravi, Arul Das and many others have been cast.
-
-S.. R. The film, which has been recorded by Satishkumar, has composed music 'Music Gnani' Ilayaraja.. The film is being produced by the film's Open Theater and Sumith Arts, which is being produced by producers A. Senthil Kumar and Sumith Saigal on behalf of the film companies.
-
-Elephant -Forest -related scenes are emotionally and brilliant in the preview of the 'Soldrama Thalavan' film, which is expected to be released on January 10, next year.
-
-...
-
-[Data](articles/16db70f1.json)
-
-[Extended Data](ext_articles/16db70f1.ext.json)
-
----
-
-### Sion Vikram starring 'Zion 63' update
-
-*2024-12-14 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201263) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Sion Vikram stars in 'Zion 63', directed by Madon Ashwin. Produced by Arun Vishwa's Shanti Talkies, it's an action entertainer featuring Mandela and Maviran. The film has garnered international attention and fan excitement."
-
-🟩
-
-The official announcement of the film 'Seyan 63', which is ready to star in Indian star face Sion Vikram, has been enthusiastic photo with an exclusive photo of international film awards.
-
-'Mandela' and 'Maviran' are the hero of the story of 'Seyan' Vikram's story in the film 'Seyan 63', directed by Madon Ashwin, who has attracted the attention of Tamil fans.
-
-The film is being produced as an exercise entertainer and is produced by famous producer Arun Vishwa on behalf of Shanti Talkies.The official announcement has been released with a special photo. It has also been reported that the details of other actors, actresses and technicians working in the film will be officially released soon.
-
-...
-
-[Data](articles/7e74703b.json)
-
-[Extended Data](ext_articles/7e74703b.ext.json)
-
----
-
-### The woman's corpse in the upper Kothmalai reservoir
-
-*2024-12-14 16:26:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேல்-கொத்மலை-நீர்த்தேக்கத்தில்-பெண்ணின்-சடலம்/76-348722) · `ta`
-
-Body of unidentified woman found near Upper Kothmalai reservoir gate. Recovered this morning, transferred to Nuwara Eliya District Hospital after magistrate inquiry.
-
-🟩
-
-The body of an unidentified woman has been recovered this morning at the Upper Kotmale reservoir.
-
-The corpse is found near the gate of the upper Kothmalai reservoir.
-
-The body was taken to the Nuwara Eliya District Hospital following the inquiry of the Nuwara Eliya District Magistrate Ambakahawatta who visited the site.. Remble
-
-◼️
-
-[Data](articles/c82fd874.json)
-
-[Extended Data](ext_articles/c82fd874.ext.json)
-
----
-
-### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
-
-*2024-12-14 16:24:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
-
-‘We in Lanka feel that our fight for freedom is being fought largely in India’
-
-We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
-
-Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
-
-...
-
-[Data](articles/42a20cca.json)
-
----
-
-### Guts from the country with a stock of rice
-
-*2024-12-14 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204374) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Inspectors found 75,000 kg of rice in 3 containers unfit for consumption. Two containers had outdated labels, while one had unauthorized new labels. The rice was imported from India as part of a government-approved import program for private importers.
-
-🟩
-
-Food and medicine inspectors have been identified as rice to rice in three imported containers by private importers.
-
-The Food and Drugs Inspectors of the Ministry of Health and Drugs are checked before the rice is being released from the island.
-
-Accordingly, the investigations carried out have been identified as unavailable to consume about 75,000 rice in three imported containers.
-
-Among them were rice in two containers and the old label included a new label in the other container was not authorized by the customs.
-
-The Government had permitted permission to private importers to import rice, as a remedy of rice.
-
-Accordingly, the rice is being imported from India and the Customs has received 2,300 metric importers imported from the 4th yesterday.
-
-◼️
-
-[Data](articles/3a56d561.json)
-
-[Extended Data](ext_articles/3a56d561.ext.json)
-
----
-
-### Santhyoshi meets Minister of Ministers
-
-*2024-12-14 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204373) · `si`
-
-Sri Lanka's economic crisis discussed between Transport Minister and Indian High Commissioner. India pledges continued support for Sri Lanka, emphasizing strong bilateral ties.
-
-🟩
-
-Minister of Transport, Highways, Ports and Civil Aviation has held a meeting with Indian High Commissioner Sanantha Race.
-
-At the discussion between the two sides, Sri Lanka's current economic situation has been drawn to the current economic situation in Sri Lanka.
-
-Indian High Commissioner Sanantha said that the Government of India would continue to support the Government of India to protect a strong and long-term relationship with the neighbor of Sri Lanka.
-
-◼️
-
-[Data](articles/8e6416e4.json)
-
-[Extended Data](ext_articles/8e6416e4.ext.json)
 
 ---

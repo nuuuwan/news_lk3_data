@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 09:43:13**
+As of **2024-12-15 10:02:44**
 
 ## Newspaper Stats
 
-*Scraped **60,215** Articles*
+*Scraped **60,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,713
-adaderanalk | 7,334
+adaderanalk | 7,335
 tamilmirrorlk | 8,609
-virakesarilk | 9,881
-adaderanasinhalalk | 10,414
+virakesarilk | 9,883
+adaderanasinhalalk | 10,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,202 (100.0%) of 60,215 articles have been extended.
+60,205 (100.0%) of 60,219 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,24 @@ The injured woman has been admitted to the Colombo National Hospital for treatme
 
 ---
 
+### රට රැකියා සිහින ‍පෙන් වූ ජාවාරම්කරුවෙක් අත්අඩංගුවට
+
+*2024-12-15 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204388) · `si`
+
+විදේශ රැකියා ලබාදෙන බවට පවසා මුදල් වංචා කළ සැකකරුවෙකු හක්මණ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ සැකකරු සම්බන්ධයෙන් හක්මන පොලිස් ස්ථානය වෙත කරන ලද පැමිණිලි 09 කට අදාළව ඊයේ (14) එම පුද්ගලයා අත්අඩංගුවගෙන තිබුණේ කින්නියා පොලිස් වසමේදීය.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 36ක් වන පුහුල්වැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+සැකකරු විසින් රුපියල් ලක්ෂ 43 කට අධික මුදලක් වංචා කර ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/0cf4e01c.json)
+
+---
+
 ### One person killed in Megoda firing
 
 *2024-12-15 09:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-348731) · `ta`
@@ -82,6 +100,24 @@ As the attackers have not yet been identified, the Meegoda police are conducting
 
 ---
 
+### Five dead, dozens missing in Greece as migrant boat sinks
+
+*2024-12-15 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104245/five-dead-dozens-missing-in-greece-as-migrant-boat-sinks) · `en`
+
+Five migrants died early Saturday when a migrant boat sank off Crete, Greece’s coastguard said, leaving 40 people reportedly missing while 39 survivors were rescued, all men. The boat sank 12 nautical miles southwest of the island, according to ERTNEWS, which reported the 40 missing.
+
+A huge rescue operation involving vessels and aircraft was under way in the sea near the island of Gavdos, south of Crete, after the boat capsized shortly after midnight, the coastguard said.
+
+According to the Athens News Agency, a migrant is being treated in the intensive care unit of the Chania hospital in the ICU in a serious condition while three people are also hospitalised with cardiac problems and hypothermia.
+
+Saturday afternoon, the coastguard told AFP that the number of migrants found dead had risen to five.
+
+...
+
+[Data](articles/4342514a.json)
+
+---
+
 ### Drug distributor in Wellawatte
 
 *2024-12-15 09:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-போதைப்பொருள்-விநியோகித்தவர்-சிக்கினார்/175-348730) · `ta`
@@ -105,6 +141,44 @@ The drug trafficking is being carried out by a drug dealer currently in prison a
 [Data](articles/e053c15f.json)
 
 [Extended Data](ext_articles/e053c15f.ext.json)
+
+---
+
+### சமுர்த்தி அலுவலக உதவியாளர் மனைவி, பிள்ளையின் முன் சுட்டுக்கொலை !
+
+*2024-12-15 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201298) · `ta`
+
+மீகொட - நாகஹவத்த பகுதியில்  இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+காரில் பயணித்த குறித்த நபரை இலக்கு வைத்து, நேற்று சனிக்கிழமை  (14) இரவு  அடையாளம் தெரியாத இருவரால் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+பத்தரமுல்ல செத்சிரிபாயவில் உள்ள சமுர்த்தி பிரதான காரியாலயத்தில் அலுவலக உதவியாளராக கடமையாற்றிய 32 வயதுடைய  ஒரு பிள்ளையின் தந்தையே துப்பாக்கிச் சூட்டில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவரின் சகோதரரின் வீட்டில் இருந்து மீகொட நாகஹவத்த பகுதியில்  உள்ள தனது வீட்டிற்குச் சென்று கொண்டிருந்த போதே துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்காகி பலத்த காயமடைந்த நபர் ஹோமாகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+துப்பாக்கிச் சூடு நடந்தபோது அவரது ஒன்றரை வயது மகள் மற்றும் அவரது மனைவி காரில் இருந்ததாகவும்  இனந்தெரியாத நபர் ஒருவர் காரை இடைமறித்ததுடன் , மேலும் ஒருவர் துப்பாக்கிச் சூடு நடத்திவிட்ட தப்பியோடியுள்ளதாக  பொலிஸார் மேற்கொண்ட விசாரணையில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/d0f58453.json)
+
+---
+
+### மன்னார் மறைமாவட்டத்தின் புதிய ஆயராக அருட்தந்தை ஞானப்பிரசாகம் அந்தோனிப்பிள்ளை அடிகளார்
+
+*2024-12-15 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201297) · `ta`
+
+மன்னார் மறைமாவட்டத்தின் புதிய ஆயராக மருதமடு அன்னை திருத்தல பரிபாலகராக பணியாற்றிவரும் அருட்தந்தை ஞானப்பிரசாகம் அந்தோனிப்பிள்ளை அடிகளார் திருத்தந்தையினால் நியமிக்கப்பட்டுள்ளார்.
+
+2017ஆம் ஆண்டு தொடக்கம் மன்னார் மறைமாவட்டத்தின் ஆயராக பணியாற்றிய இம்மானுவேல் பெர்னாண்டோ ஆண்டகை 76 வயதில் ஓய்வு பெற்றதை தொடர்ந்து அம்மறைமாவட்டத்திற்கு மன்னார் மறைமாவட்ட குருவாகிய அருட்தந்தை ஞானப்பிரசாகம் அந்தோனிப்பிள்ளை அடிகளார் புதிய ஆயராக திருத்தந்தை பிரான்சிஸ் அவர்களால் நியமிக்கப்பட்டுள்ளார்.
+
+திருத்தந்தையின் இந்நியமன செய்தி மன்னார் புனித செபஸ்ரியார் பேராலயத்தில் மன்னார் மறைமாவட்ட குருக்களுக்கென  ஒழுங்குபடுத்தப்பட்ட சிறப்பு கூட்டத்தில் மன்னார் மறைமாவட்ட ஆயர் இம்மானுவேல் பெர்னாண்டோ ஆண்டகையினால் உத்தியோகபூர்வமாக வாசிக்கப்பட்டது.
+
+...
+
+[Data](articles/2ad8925e.json)
 
 ---
 
@@ -160,6 +234,8 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 
 [Data](articles/12cc4f0a.json)
 
+[Extended Data](ext_articles/12cc4f0a.ext.json)
+
 ---
 
 ### Youth travelling in car shot dead in Meegoda
@@ -182,25 +258,41 @@ The deceased had been employed as an office assistant at the main office of the 
 
 Nugegoda scene of crime officers are conducting on-site investigations into the incident.
 
-◼️
+...
 
 [Data](articles/423168ec.json)
 
+[Extended Data](ext_articles/423168ec.ext.json)
+
 ---
 
-### රිලවුන් වන්ද්‍යාකරණයට මාතලෙන් ආරම්භ කළ නියමු ව්‍යාපෘතිය සාර්ථකයි
+### Pilot project, which launched in mutilation project is successful
 
 *2024-12-15 08:09:45* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්-වන්ද්‍යාකරණයට-මාතලෙන්-ආරම්භ-කළ-නියමු-ව්‍යාපෘතිය-සාර්ථකයි/11-413631) · `si`
 
-රට තුළ සීඝ්‍රයෙන්  වර්ධනය වන රිළා ගහනය පාලනය කිරීමේ අරමුණින් මාතලේ දිස්ත්‍රික්කයෙන් ආරම්භ කරන ලද වන්ද්‍යාකරණ කිරීමේ නියමු ව්‍යාපෘතිය පසුගිය (12) වන දින ආරම්භ වූ අතර එය මේ වන විට සාර්ථකව ක්‍රියාත්මක වන බව මාතලේ දිසාපති තේජානී තිලකරත්න මහත්මිය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-පසුගිය දින කීපය තුළ මාතලේ හරස්ගම හා ඉහළ හරස්ගම ප්‍රදේශයන්හි සිදු කළ රිලවුන් අල්ලා ගැනීමේ මෙහෙයුමේදී  වන්ද්‍යාකරණ කටයුතු සඳහා යොමු කිරීම සඳහා රිලවුන්  40 දෙනකු පමණ  අල්ලා ගැනීමට ප්‍රදේශවාසීන් හා වන ජීවී නිලධාරීන් සමත්ව තිබේ.
 
-මෙම  නියමු ව්‍යාපෘතිට රජය රුපියල් මිලියන 4.5 ක මුදලක් වැය කරනු ලබන අතර එහි සාර්ථකත්වය මත  ඉදිරියේදී රට පුරා මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට නියමිතය .
 
-...
+Successful pilot project launched in Matale District to control population growth. Residents and wildlife officials collaborate to capture birds. Government allocates funds for conservation efforts. Program implemented under President's directives.
+
+🟩
+
+The pilot project commenced on the Matale District with a view to control the rapid growth of the rapid growth in the country, the Matale Government Agent Gilakaratne says that it will be successfully implemented.
+
+Residents and Wildlife officials were caught in connecting at 40 Riyawasgama in the Harunamgama and the Rhilasgama areas in the Harunwenic area in Matale.
+
+The Government will spend Rs.
+
+Fragists who are caught using trap nests using trap nests from the Matale district to be released to the Giritale Animal Survey Center and released to the captured area with the environmentalists and released animals to the candidateThe Matale District Secretary said he will also discuss the turn.
+
+The program is being implemented in the district on the instructions of the Matale District Development Committee on the direction of the President of the President of Buddha Sasana and Cultural Dissanayake.
+
+◼️
 
 [Data](articles/49fc620b.json)
+
+[Extended Data](ext_articles/49fc620b.ext.json)
 
 ---
 
@@ -2339,113 +2431,5 @@ It is reported that the first block of 5,200 metric tonnes of rice will arrive i
 [Data](articles/3b7d02ef.json)
 
 [Extended Data](ext_articles/3b7d02ef.ext.json)
-
----
-
-### Vacuum Speaker's post - what's going to happen?
-
-*2024-12-14 09:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெற்றிடமான-சபாநாயகர்-பதவி-நடக்கப்போவது-என்ன/175-348715) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New Speaker election: Vacancy due to Ashoka Sabumal Rangwala's resignation. Nominations to be submitted before Parliament meeting on 17th. First time Speaker resigns in history. President may accept resignation, triggering new Speaker election process.
-
-🟩
-
-The new Speaker should be elected to the post of Speaker for the vacancy of the resignation of Ashoka Sabumal Rangwala on the 17th of this month.
-
-With the Parliament to meet on the 17th of this month, it is stated that the nominations for the appointment of the new Speaker should be submitted.
-
-Meanwhile, Professor Pratibha Mahanamahewa said that this is the first time a Speaker resigns in the history of Parliament.
-
-He said the Speaker could issue a notification to the Secretary General of Parliament or the President.
-
-He also said that the President could take a decision regarding the Speaker's resignation letter after the resignation letter was received.
-
-He added that if the President accepts the resignation of the Speaker, the new Speaker should be elected again and that the appointment of the new Speaker should be elected and the appointment of the appointment.. Remble
-
-◼️
-
-[Data](articles/cdf80290.json)
-
-[Extended Data](ext_articles/cdf80290.ext.json)
-
----
-
-### Union Bank CEO Dilshan Rodrigo felicitated by APB
-
-*2024-12-14 09:32:00* · [`islandlk`](http://island.lk/union-bank-ceo-dilshan-rodirgo-felicitated-by-apb/) · `en`
-
-Union Bank is proud to share that Dilshan Rodrigo, Director/CEO of Union Bank was recently honoured at the Association of Professional Bankers (APB) Sri Lanka’s distinguished member felicitation ceremony. This recognition celebrates his exceptional contributions to the banking industry and highlights his commitment to excellence and innovation. His inspiring leadership continues to motivate banking professionals to strive for greater success.
-
-First Capital crowns its excellence with ‘Brand of the Year’
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/80f43ae0.json)
-
-[Extended Data](ext_articles/80f43ae0.ext.json)
-
----
-
-### Others, including Deputy Speaker, have fake titles: Premnam C Tolawatta released the name list
-
-*2024-12-14 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201179) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan politicians accused of fake titles: Speaker Asoka Sapumal Ranwala, Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Electricity Minister Punniyasree Kumara Jayakody, Harshana Suriyapuram. Titles removed from parliamentary website. Government urged to address public concerns.
-
-🟩
-
-Speaker Asoka Sapumal Ranwala, Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Electricity Minister Punniyasree Kumara Jayakody, Harshana Suriyapuram
-
-He further stated at a press conference held in Colombo on Friday (13).
-
-Although there were no ordinary people in the previous parliament, they did not hide it. They do not lie to the people about their educational qualifications.
-
-To question the sovereignty of Parliament, he has deceived the people by claiming that the Speaker is a doctor's title.
-
-More and more people have deceived the people, not the Speaker. Deputy Speaker Rishvi Sally referred to himself as a specialist specialist. But he is only a normal doctor. Similarly, Urban Development Minister Anura Karunathilaka is said to have no doctor's degree.
-
-Power Minister Punniyasree Kumara Jayakoda is said to have no higher education qualifications. The titles of each of them are being removed from the parliamentary website.
-
-...
-
-[Data](articles/a8ffb14b.json)
-
-[Extended Data](ext_articles/a8ffb14b.ext.json)
-
----
-
-### Landslide Warnings for several Areas
-
-*2024-12-14 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204359) · `si`
-
-National Building Research Organization issues landslide warnings for Haputale, Badulla, Ella, Passara, and Kandy areas. UN official Dr. Wasantha Senadheera announced the alerts at 6:00 PM today.
-
-🟩
-
-The National Building Research Organization has taken steps to issue a landslide warning statement for several parts of the island.
-
-The United Nations Dr. Wasantha Senadheera said that the announcement was operating at 6.00 pm today.
-
-Accordingly, the Haputale Divisional Secretariat Division in Badulla has been paid to the Haputale Divisional Secretariat Division in Badulla.
-
-A statement has been issued to beware of the Badulla District, Ella, Passara and Haliweaya in Kandy District.
-
-◼️
-
-[Data](articles/6fd32b97.json)
-
-[Extended Data](ext_articles/6fd32b97.ext.json)
 
 ---

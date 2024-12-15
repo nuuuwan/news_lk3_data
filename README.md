@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 23:43:12**
+As of **2024-12-16 00:02:30**
 
 ## Newspaper Stats
 
-*Scraped **60,346** Articles*
+*Scraped **60,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 453
 colombotelegraphcom | 611
 bbccomsinhala | 633
 islandlk | 3,646
-economynextcom | 3,669
+economynextcom | 3,671
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,731
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,325 (100.0%) of 60,346 articles have been extended.
+60,327 (100.0%) of 60,348 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,8 @@ The talks also covered bringing more Indian tourists to Sri Lanka, modernizing S
 ...
 
 [Data](articles/de6e20f1.json)
+
+[Extended Data](ext_articles/de6e20f1.ext.json)
 
 ---
 
@@ -154,19 +156,29 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 
 ---
 
-### මීටියාගොඩ මහවත්ත ප්‍රදේශයේ වෙඩි තැබීමක්
+### Shooting shooting in Mahawatta Mahawatta
 
 *2024-12-15 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204409) · `si`
 
-මීට ටික වෙලාවකට පෙර මීටියාගොඩ මහවත්ත ප්‍රදේශයේ දී වෙඩි තැබීමක් සිදුව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ත්‍රී රෝද රථයකින් පැමිණි තිදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර පලා ගොස් ඇත.
 
-වෙඩි තැබීමෙන් තුවාල වූ දෙදෙනෙකු බලපිටිය රෝහලට ඇතුලත් කර ඇති බව බව වාර්තා වේ.
+
+"Shooting in Mahawatta: 1 killed in Meetiyagoda. 3 suspects fled by three-wheeler. 2 injured taken to Balapitiya Hospital."
+
+🟩
+
+Shortly before a shooting was shot dead in Meetiyagoda.
+
+The shooting has fled by three of three persons from a three-wheeler.
+
+It is reported that two injured in the shooting have been admitted to the Balapitiya Hospital.
 
 ◼️
 
 [Data](articles/b20e4be3.json)
+
+[Extended Data](ext_articles/b20e4be3.ext.json)
 
 ---
 
@@ -381,6 +393,24 @@ The Department of Meteorology has advised to take steps to reduce the risk of te
 ...
 
 [Data](articles/f9c9efb2.json)
+
+---
+
+### Sri Lanka President arrives in India, to meet Jayashankar, Doval Sunday night
+
+*2024-12-15 20:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-arrives-in-india-to-meet-jayashankar-doval-sunday-night-194393/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayaka arrived in India Sunday and will meet External Affairs Minister S Jayashankar, and National Security Advisor Ajith Doval.
+
+President Dissanayake was welcomed at the airport by Information and Communications Minister S Murugan, High Commissioner to Colombo Santosh Jha, among other top officials, a statement said.
+
+President Dissanayake will be in India till December 17 and is due to meet President and Prime Minister Modhi.
+
+He is accompanied by Foreign Minister Vijitha Herath and Deputy Finance Minister Anil Jayantha Fernando. (Colombo/Dec16/2024)
+
+◼️
+
+[Data](articles/f3e51bbe.json)
 
 ---
 
@@ -2028,6 +2058,26 @@ The three of them were produced before the Wellawatte Police Station and Wellawa
 
 ---
 
+### Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
+
+*2024-12-15 13:18:00* · [`economynextcom`](https://economynext.com/karl-marx-engels-would-have-approved-sri-lanka-rice-imports-for-working-class-analysis-194348/) · `en`
+
+ECONOMYNEXT – Sri Lanka has relaxed import licensing on rice, a staple food, till December 20, in bid to reduce rising local prices, but still kept a 220 dollar at tonne import tax in place, which is almost 50 percent duty on basic South Asian rice grades.
+
+Under the Rajapaksa regime and even earlier, Sri Lanka has imposed severe controls on the import of basic cereals, giving profits to politically powerful lobbies keeping both prices and malnutrition high.
+
+Sri Lanka to allow rice imports without licenses till December 20: Statement
+
+Going beyond taxes, import licensing was imposed, especially on maize to give profits to a collector lobby, making proteins like chicken and eggs also among the most expensive in the world. Taxes on protein rich grains like green gram was also hiked.
+
+Sri Lanka opposition laments child malnutrition as farmers protected at Rs300 cereal tax
+
+...
+
+[Data](articles/6fbffb3a.json)
+
+---
+
 ### One arrested with heroin and ice drugs in Kalkisa
 
 *2024-12-15 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201324) · `ta`
@@ -2359,47 +2409,5 @@ In such a backdrop, he said that he had decided to resign from the post of Speak
 [Data](articles/e9838c73.json)
 
 [Extended Data](ext_articles/e9838c73.ext.json)
-
----
-
-### The target of the US barrier
-
-*2024-12-15 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201315) · `ta`
-
-US barrier targets: Human rights in Sri Lanka vs. Rajapaksa corruption. JVP opposes US pressure on rights but supports on corruption. US influence on both issues.
-
-🟩
-
-The JVP opposed it when the US pressed for accountability for human rights violations in Sri Lanka. However, when the US is pressing and pressuring the Rajapaksa to find and responsible for corruption scandals, the national people's power has welcomed it.. It is the US that interferes with these two issues.
-
-◼️
-
-[Data](articles/750a5080.json)
-
-[Extended Data](ext_articles/750a5080.ext.json)
-
----
-
-### One person killed in two lorries
-
-*2024-12-15 11:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/இரண்டு-லொறிகள்-மோதியதில்-ஒருவர்-பலி-ஐவருக்கு-காயம்/94-348740) · `ta`
-
-Accident: 1 dead, 5 injured as two lorries collide in Dambuttegama. Police suspect driver fell asleep.
-
-🟩
-
-Tambuttegama police said that one person was killed and five others were injured when two lorries collided.
-
-The accident took place in the Bellankadawala area of ​​Dambuttegama on A 28 main road in Colombo.
-
-The accident occurred when a small lorry that came from Bandaragama to Anuradhapura, and a large lorry carrying interlock stones (interlock stones) from Anuradhapura to Tambuttegama from Anuradhapura to Thambuthegama collided face -to -face.
-
-Police suspect that the accident occurred due to the sleep of the driver of the small lorry.
-
-◼️
-
-[Data](articles/e35d4d7e.json)
-
-[Extended Data](ext_articles/e35d4d7e.ext.json)
 
 ---

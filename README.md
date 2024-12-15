@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 06:19:42**
+As of **2024-12-15 06:48:36**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,186 (100.0%) of 60,201 articles have been extended.
+60,189 (100.0%) of 60,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### எலிக்காய்ச்சல் தாக்கம் குறைகிறது
+### Reduces the impact of the mice
 
 *2024-12-15 04:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-தாக்கம்-குறைகிறது/175-348728) · `ta`
 
-பருத்தித்துறை ஆதார வைத்தியசாலையில் எலிக்காய்ச்சல் எனச் சந்தேகிக்கப்பட்டு சேர்க்கப்படுபவர்களின் எண்ணிகை வெகுவாகக் குறைவடைந்துள்ளது.
+Sum:0
 
-ஓரிரு தினங்களில் வைத்தியசாலையில் சேர்க்கப்படுபவர்களின் எண்ணிக்கை குறைந்து நிலைமை சரியாகிவிடும் என்று வைத்தியர்கள் நம்பிக்கை வெளியிட்டுள்ளனர்.
+🟩
 
-பருத்தித்துறை ஆதார வைத்தியசாலையில் இதுவரை 66 பேர்  எலிக்காய்ச்சல் நோய் அறிகுறிகளுடன் வந்து சிகிச்சை பெற்றுள்ளார்கள். தற்போது 32 நோயாளர்கள் வைத்தியசாலையில் தங்கி சிகிச்சை பெறுகின்றார்கள். (a)
+The number of people suspected of rashes at the Point Pedro Hospital has been drastically reduced.
+
+Doctors have expressed hope that the number of people admitted to the hospital in two days will decline and the situation will be corrected.
+
+So far, 66 people have been treated at the Point Pedro Hospital with symptoms. Currently 32 patients are staying at the hospital and receiving treatment. (A)
 
 ◼️
 
 [Data](articles/ea403edf.json)
+
+[Extended Data](ext_articles/ea403edf.ext.json)
 
 ---
 
@@ -324,6 +330,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/6c5e2272.json)
 
+[Extended Data](ext_articles/6c5e2272.ext.json)
+
 ---
 
 ### Ceylinco Cancer Centre unveils refurbished interiors
@@ -339,6 +347,8 @@ Pictured here is the formal reopening of the refurbished Ceylinco Cancer Centre 
 ...
 
 [Data](articles/9093bdc7.json)
+
+[Extended Data](ext_articles/9093bdc7.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 19:03:54**
+As of **2024-12-15 19:15:10**
 
 ## Newspaper Stats
 
@@ -26,47 +26,69 @@ adaderanasinhalalk | 10,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,288 (100.0%) of 60,316 articles have been extended.
+60,291 (100.0%) of 60,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### ஐந்து பதில் அமைச்சர்கள் நியமனம்
+### Five Reply Ministers Appointment
 
 *2024-12-15 18:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐந்து-பதில்-அமைச்சர்கள்-நியமனம்/175-348758) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு நாட்டிலிருந்து புறப்பட்டுச் சென்றதன் காரணமாக 05 அமைச்சுக்களுக்கு பதில் அமைச்சர்கள் நியமிக்கப்பட்டுள்ளனர்.
+Here's a summary in 200 characters:
 
-அதன்படி, ஜனாதிபதியின் கீழ் காணப்படும் டிஜிட்டல் பொருளாதாரம், பாதுகாப்பு அமைச்சு மற்றும் நிதி மற்றும் திட்டமிடல், பொருளாதார அபிவிருத்தி அமைச்சு ஆகிய 03 அமைச்சுக்களுக்கும், வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சு மற்றும் தொழில் அமைச்சு ஆகியவற்றுக்கு பதில் அமைச்சர்கள் நியமிக்கப்பட்டுள்ளனர்.
 
-அதற்கமைய, பதில் டிஜிட்டல் பொருளாதார அமைச்சராக, டிஜிட்டல் பொருளாதார பிரதி அமைச்சர் பொறியியலாளர் எரங்க வீரரத்ன நியமிக்கப்பட்டுள்ளார்.
 
-நிதி மற்றும் திட்டமிடல், பொருளாதார அபிவிருத்தி பதில் அமைச்சராக, நிதி மற்றும் திட்டமிடல் பிரதி அமைச்சர் கலாநிதி ஹர்ஷன சூரியப்பெரும நியமிக்கப்பட்டுள்ளார்.
+Five new ministers appointed: Digital Economy, Defense, Finance & Economic Development, Foreign Affairs, Tourism & Industry. Deputy ministers promoted: Eranga Veeraratne, Harshana Surayapperuma, Arun Hemachandra, Mahinda Jayasinghe.
 
-வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா பதில் அமைச்சராக, வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமசந்திர நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-...
+Ministers have been appointed in response to five ministries due to the departure of President Anura Kumara Dissanayake on an official visit.
+
+Accordingly, ministers have been appointed in response to the Ministries of Digital Economy, Defense Ministry and Finance and Planning and Economic Development under the President and Ministers of Foreign Affairs, Foreign Employment and Tourism and Industry.
+
+Accordingly, the Deputy Minister of Economic Economic Economic Economic Economic Economic Minister, Eranga Veeraratne, has been appointed as the Minister of Economic Economy.
+
+Deputy Minister of Finance and Planning, Dr. Harshana Surayapperuma has been appointed as the Minister of Finance and Planning and Economic Development.
+
+Deputy Minister of Foreign Employment Arun Hemachandra has been appointed as the Minister of Foreign Affairs, Foreign Employment and Tourism.
+
+Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Minister of Labor, the Presidential Media Unit said. Remble
+
+◼️
 
 [Data](articles/6eb39ec1.json)
 
+[Extended Data](ext_articles/6eb39ec1.ext.json)
+
 ---
 
-### ஐந்து பிரதி அமைச்சர்கள் நியமனம்
+### Appointment of five Deputy Ministers
 
 *2024-12-15 18:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐந்து-பிரதி-அமைச்சர்கள்-நியமனம்/175-348757) · `ta`
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் இந்திய விஜயத்தின் போது முக்கிய அமைச்சுக்களை மேற்பார்வையிட ஐந்து பிரதி அமைச்சர்கள் நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-இந்த நியமனங்கள் டிஜிட்டல் பொருளாதார அமைச்சு, பாதுகாப்பு அமைச்சு, நிதி அமைச்சு, பொருளாதார ஸ்திரத்தன்மை மற்றும் தேசிய கொள்கைகள், வெளியுறவு அமைச்சு, வெளிநாட்டு
 
-நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சுக்கான பதில் அமைச்சராக கலாநிதி ஹர்ஷன சூரியப்பெரும செயற்படுவார்.
 
-அருண் ஹேமச்சந்திர வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா பிரதி அமைச்சராக செயற்படுவார்.
+Five deputy ministers appointed: Digital Economy, Defense, Finance, Economic Stability & National Policies, Foreign Affairs. Dr. Harshana Suriya as Finance Minister, Arun Hemachandra as Deputy Foreign Minister.
+
+🟩
+
+The Presidential Media Division (PMD) has said that five deputy ministers have been appointed to oversee the major ministries during the visit of President Anura Kumara Dissanayake.
+
+These appointments are Digital Economic Ministry, Ministry of Defense, Ministry of Finance, Economic Stability and National Policies, Foreign Ministry, Foreign
+
+Dr. Harshana Suriya will act as Minister of Finance, Economic Strength and National Policies.
+
+Arun Hemachandra will serve as Deputy Minister of Foreign Affairs, Foreign Employment and Tourism.
 
 ◼️
 
 [Data](articles/3214d5a9.json)
+
+[Extended Data](ext_articles/3214d5a9.ext.json)
 
 ---
 
@@ -107,6 +129,8 @@ This move comes after a period of high egg prices, with a single egg costing bet
 ...
 
 [Data](articles/cb85beaa.json)
+
+[Extended Data](ext_articles/cb85beaa.ext.json)
 
 ---
 

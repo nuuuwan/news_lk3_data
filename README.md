@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 01:12:15**
+As of **2024-12-16 01:26:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,333 (100.0%) of 60,360 articles have been extended.
+60,335 (100.0%) of 60,360 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,6 +106,8 @@ BRAC International works across 14 countries with people and communities in situ
 
 [Data](articles/906daa56.json)
 
+[Extended Data](ext_articles/906daa56.ext.json)
+
 ---
 
 ### Dr. Nilupul Perera new Chairman of Lanka Hospitals Corporation
@@ -119,6 +121,8 @@ Dr. Perera brings over 18 years of extensive clinical experience to this leaders
 ...
 
 [Data](articles/6943a601.json)
+
+[Extended Data](ext_articles/6943a601.ext.json)
 
 ---
 
@@ -864,7 +868,7 @@ Arun Hemachandra will serve as Deputy Minister of Foreign Affairs, Foreign Emplo
 
 *2024-12-15 18:28:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-path-to-stability-balancing-geopolitical-tensions-domestic-challenges/) · `en`
 
-Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamics and domestic challenges. President Anura Kumara Dissanayake’s upcoming visits to India and China underscore the island nation’s strategic importance to these Asian giants. Both countries view Sri Lanka as pivotal in their geopolitical strategies, with India particularly concerned about China’s influence in the region. This article delves into the implications of these visits, the government’s anti-corruption drive, and Sri Lanka’s socio-political challenges in its pursuit of stability. Tshering Eudon (2024) argues that Sri Lanka’s foreign policy is shaped by domestic needs and geopolitical pressures, urging the U.S. to prioritise economic over security concerns.
+Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamics and domestic challenges. President Anura Kumara Dissanayake‘s upcoming visits to India and China underscore the island nation’s strategic importance to these Asian giants. Both countries view Sri Lanka as pivotal in their geopolitical strategies, with India particularly concerned about China’s influence in the region. This article delves into the implications of these visits, the government’s anti-corruption drive, and Sri Lanka’s socio-political challenges in its pursuit of stability. Tshering Eudon (2024) argues that Sri Lanka’s foreign policy is shaped by domestic needs and geopolitical pressures, urging the U.S. to prioritise economic over security concerns[1].
 
 ...
 

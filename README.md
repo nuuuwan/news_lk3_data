@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 18:03:36**
+As of **2024-12-15 18:23:44**
 
 ## Newspaper Stats
 
@@ -26,57 +26,85 @@ adaderanasinhalalk | 10,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,278 (99.9%) of 60,309 articles have been extended.
+60,281 (100.0%) of 60,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### දිවයින වටා මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා අනතුරු ඇඟවීම් නිවේදනයක්
+### Sea areas and land warning announced around the island
 
 *2024-12-15 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204403) · `si`
 
-දිවයින වටා මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා පැය 24ක් දක්වා වලංගුවන පරිදි අවදානයෙන් සිටින ලෙස දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary in 200 characters:
 
-එහි සඳහන් වන්නේ ගිණිකොනදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශ ආශ්‍රිතව ඉදිරි පැය 24 තුල අඩු පීඩන කලාපයක් නිර්මාණය වීමේ හැකියාවක් පවතින අතර එම පද්ධතිය තවදුරටත් සෙමින් වර්ධනය වෙමින් බටහිරට බරව වයඹ දෙසට ගමන් කරනු ඇති බවය.
 
-ඉන් පසුව එළඹෙන දින දෙක තුලදී, එය දිවයිනේ උතුරුට ආසන්නව තමිල්නාඩු වෙරළ දෙසට ගමන් කිරීමේ හැකියාවක් පවතින බව ද දැනුම් දී තිබේ.
 
-•කන්කසන්තුරය සිට ත්‍රිකුණාමලය සහ මඩකලපුව හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන ගැඹුරු සහ නොගැඹුරු මුහුදු ප්‍රදේශවල සුළගේ වේගය ක්ෂණිකව පැ.කි.මී. (50-60) පමණ දක්වා ඉහළ යාමට ඉඩ ඇති හෙයින් එම මුහුදු ප්‍රදේශ විටින් විට රළු විය හැක. එම මුහුදු ප්‍රදේශවල ඇතැම් ස්ථානවල ඉතා තද වැසි හෝ ගිගුරුම් සහිත වැසි පැවතිය හැක.
+Low-pressure system in Bay of Bengal; winds 50-60 knots; rough seas; heavy showers possible; warnings for coastal areas and fishing communities; impact expected in eastern and northern regions of the island.
 
-•කන්කසන්තුරය සිට පුත්තලම සහ කොළඹ හරහා ගාල්ල දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. 50 පමණ දක්වා ඉහළ යාමට ඉඩ ඇති හෙයින් එම විටින් විට තරමක් රළු විය හැක.
+🟩
+
+The Department of Meteorology has issued an announcement to bear the sea areas and land to be valid for 24 hrs in the island.
+
+It states that a low-pressure zone will be able to create a low-pressure zone in the next 24 hours in the Bay of Bengal area.
+
+The next two days, it has been informed that it is the ability to move to the Tamil Nadu coast near the north of the island.
+
+• Winds the speed of the coast extending from Kankasanthurai to Pottuvil via Pottuvil.. The sea areas can be rough at times as (50-60). Heavy showers or thundershowers may occur in some places in the sea areas.
+
+• Winds from Kankesanthurai to Galle through Galle and Colombo.. It can be slightly rough because of the time to rise up to 50.
+
+The community of the Bay of Bengal, the fisheries and naval area in the Bay of Bengal area has been asked to be aware of the next predictions and announcements issued by the Department of Meteorology.
 
 ...
 
 [Data](articles/7941dae7.json)
 
+[Extended Data](ext_articles/7941dae7.ext.json)
+
 ---
 
-### மதுபான அனுமதி பத்திரங்களுக்கு   கூறப்படும் நியாயங்கள்…!
+### Reasoning for alcoholic clearance…!
 
 *2024-12-15 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201346) · `ta`
 
-நாட்டின் பொருளாதாரத்தை சீர்செய்வதற்கு மதுபான அனுமதி பத்திரங்கள் விநியோகத்தை நியாயப்படுத்தும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, உள்ளூராட்சி தேர்தல்களை இரத்து செய்ததன் காரணமாக  அரசாங்க பணம் 72 கோடி ரூபாவை  வீணடித்தமை பற்றி என்ன நியாயம் கூறப்போகின்றார்? 2023 ஆம் ஆண்டு உள்ளூராட்சி  மன்றத் தேர்தலுக்கான வேட்பு மனுக்கள் கோரப்பட்டு சகல செயற்பாடுகளும் முடிவடைந்த நிலையிலேயே ரணில் விக்ரமசிங்க அதை இரத்து செய்தார்.
+Here's a summary of 200 characters:
+
+
+
+Former President Ranil Wickremesinghe justifies liquor permits to boost economy. He claims 72 crore rupee loss from cancelled local gov't elections. Cancellation occurred after all 2023 election activities ended.
+
+🟩
+
+Former President Ranil Wickremesinghe, who is justifying the distribution of liquor permits to repair the country's economy, is going to say that the government wasted 72 crores of rupees due to the cancellation of local government elections?Ranil Wickremesinghe canceled it at the end of all the activities for the 2023 local government elections.
 
 ◼️
 
 [Data](articles/427d807c.json)
 
+[Extended Data](ext_articles/427d807c.ext.json)
+
 ---
 
-### වෑන් රථයක් ප්‍රපාතයකට පෙරළෙයි
+### A van falls into precipice
 
 *2024-12-15 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204402) · `si`
 
-රිවස්ටන් - ලග්ගල මාර්ගයේ ගමන්ගත් වෑන් රථයක් අද (15) පස්වරුවේ අඩි 50ක පමණ ප්‍රපාතයකට පෙරළී අනතුරක් සිදුව ඇත.
+Van crashes 50ft down precipice, 1 dead. Group of picnickers from Galle involved.
 
-මෙම වෑන් රථයේ 8 දෙනෙකු සිට ඇති අතර, ඉන් එක් අයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+🟩
 
-ගාල්ලේ සිට විනෝද චාරිකාවක පැමිණි පිරිසක් මෙම අනතුරට මුහුණ දී තිබේ.
+A van traveling along the Rivaston - Laggala road, a crash has been destroyed by about 50 feet in precipice this afternoon.
+
+The van had been in eight, one of them died, police said.
+
+A group of picnic from Galle has been accidental.
 
 ◼️
 
 [Data](articles/28fc7310.json)
+
+[Extended Data](ext_articles/28fc7310.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 14:43:01**
+As of **2024-12-15 15:12:29**
 
 ## Newspaper Stats
 
-*Scraped **60,262** Articles*
+*Scraped **60,279** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,277 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,719
-adaderanalk | 7,341
-tamilmirrorlk | 8,614
-virakesarilk | 9,901
+adalk | 5,720
+adaderanalk | 7,342
+tamilmirrorlk | 8,616
+virakesarilk | 9,914
 adaderanasinhalalk | 10,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,241 (100.0%) of 60,262 articles have been extended.
+60,248 (99.9%) of 60,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### அமெரிக்காவும் அதானியும்
+
+*2024-12-15 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201344) · `ta`
+
+இலங்கைக்கு அமெரிக்கா கடந்த சில ஆண்டுகளில் அதிகளவு கொடைகளையும் நிதி உதவிகளையும் வழங்கி இருந்தாலும் ஒரேயடியாக 500 மில்லியனுக்கும் அதிகமான டொலர்களை வழங்குவது புதிய ஒரு விடயமாக பார்க்கப்பட்டது. கொழும்புக்கு பயணம் மேற்கொண்ட அமெரிக்க இராஜாங்க திணைக்களத்தின் தெற்கு மத்திய ஆசிய விவகாரங்களுக்கான உதவிச்செயலர் டொனால்ட் லூ ஊழல் மோசடிகளை முடிவுக்கு கொண்டு வருவது பற்றியே முக்கியமாக பேச்சு நடத்தி இருந்தார்.
+
+◼️
+
+[Data](articles/8bd3ad9f.json)
+
+---
+
+### மக்களுக்குப் பொறுப்புக்கூற வேண்டிய மத்திய வங்கியின் கடப்பாடு மேலும் வலுப்படுத்தப்பட்டுள்ளது  - இலங்கை மத்திய வங்கியின் பொருளாதார ஆராய்ச்சித் திணைக்களப் பணிப்பாளர்
+
+*2024-12-15 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201343) · `ta`
+
+வரிக்குறைப்பு மற்றும் சேதன உரக்கொள்கை என்பன மத்திய வங்கியுடன் நேரடியாகத் தொடர்புபடாதவை என்பதுடன், அவை அரசாங்கத்தின் கொள்கைகளாகும். எனவே, அவ்விடயங்களில் மத்திய வங்கியின் ஆலோசனை ஏற்றுக்கொள்வதா, இல்லையா என்ற தீர்மானத்தை மேற்கொள்வது அரசாங்கத்தைப் பொறுத்ததாகும்.
+
+◼️
+
+[Data](articles/e35e125f.json)
+
+---
+
+### The President has departed to India
+
+*2024-12-15 14:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்கு-புறப்பட்டார்-ஜனாதிபதி/175-348751) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake visits India post-election. First foreign trip as JVP leader. Diplomatic relations strengthened.
+
+🟩
+
+President Anura Kumara Dissanayake made a diplomatic visit to India shortly before. After the presidential election, President Anura Kumara Dissanayake, the leader of the National People's Liberation Front (JVP), was the first diplomatic visit to the National People's Liberation Front (JVP).
+
+◼️
+
+[Data](articles/f53988f7.json)
+
+[Extended Data](ext_articles/f53988f7.ext.json)
+
+---
+
+### இந்தியா - இலங்கை வரி, வணிக மற்றும்   தொழில் ஒத்துழைப்பிற்கான புதிய பரிமாணங்கள்
+
+*2024-12-15 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201342) · `ta`
+
+இலங்கை - இந்தியா DTAA-வில் குறிப்பிட்ட சில மேம்பாடுகள் செய்யப்பட வேண்டும். குறிப்பாக, புதிய பொருளாதார சூழ்நிலைகள் மற்றும் வர்த்தக தேவைகளுக்கு ஏற்ப ஒப்பந்தத்தை புதுப்பிக்க தேவையுண்டு.
+
+◼️
+
+[Data](articles/b3171fc6.json)
+
+---
+
+### Opposition to MP for Speaker
+
+*2024-12-15 14:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-பதவிக்கு-எம்-பியை-முன்மொழியவுள்ள-எதிர்க்கட்சி/175-348749) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Opposition proposes MP as Speaker; acknowledges defeat but aims to create comparison with incumbent Asoka Ranwala. SJB MP Nalin Bandara criticizes Ranwala as "fake-up".
+
+🟩
+
+The Opposition will propose a Member of Parliament when the parliament will convene on Tuesday after Asoka Ranwala, who resigned from his post last week.
+
+“We know that our candidate cannot be elected, but we hope that we will create a situation where people are comparing the candidates.
+
+If we contested for office on November 21, people would have said that the Opposition candidate would be better than Ranwala, who was a fake -up, ”SJB MP Nalin Bandara Jayamaha told the media.
+
+◼️
+
+[Data](articles/449ed7bc.json)
+
+[Extended Data](ext_articles/449ed7bc.ext.json)
+
+---
+
+### பிறிக்ஸ் நாணயம் சாத்தியமா?
+
+*2024-12-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201340) · `ta`
+
+அமெரிக்க  டொலர் இது வரை காலமும் அனுபவித்து வந்த சர்வதேச நாணயம் என்ற மேலாண்மையை காலப் போக்கில் இழந்து விடும் என்ற ஒரு எண்ணப்பாடு அமெரிக்கப் பொருளாதார வல்லுனர்கள் மத்தியிலும் உள்ளது. இருந்த போதிலும்  டொலருக்கு இணையான பெறுமதி பிறிக்ஸ் நாடுகளின் மத்தியில் உள்ள எந்த நாணயத்திற்கும் இல்லை.
+
+◼️
+
+[Data](articles/ebd4078d.json)
+
+---
+
+### அரை நூற்றாண்டின் மிருகத்தனமான சர்வாதிகாரத்தை முடிவுக்கு  கொண்டு வந்த   ஜனாதிபதி பஷர் அல் அஸாத்தின்   வியக்கத்தக்க  பதவிக் கவிழ்ப்பு
+
+*2024-12-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201338) · `ta`
+
+சிரியாவின் உள்நாட்டுப் போர் நம் காலத்தின் மிக மோசமான மனிதாபிமான நெருக்கடியாகும். நாட்டின் போருக்கு முந்தைய மக்கள்தொகையில் பாதி பேர் -11 மில்லியனுக்கும் அதிகமான மக்கள் – கொல்லப்பட்டனர். அல்லது தங்கள் வீடுகளை விட்டு வெளியேற வேண்டிய கட்டாயத்துக்கு தள்ளப்பட்டனர்.
+
+◼️
+
+[Data](articles/249363da.json)
+
+---
+
+### வெள்ளவத்தையில் கொக்கெய்ன், குஷ் போதைப்பொருட்களுடன் மூவர் கைது
+
+*2024-12-15 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201322) · `ta`
+
+வெள்ளவத்தை பொலிஸ் பிரிவுக்குட்பட்ட கொலிங்வூட் மாவத்தை பகுதியில் கொக்கெய்ன் மற்றும் குஷ் போதைப்பொருட்களுடன் மூன்று சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வலான ஊழல் தடுப்பு பிரிவின் அதிகாரிகள் குழுவினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போது தெஹிவளை பிரதேசத்தை சேர்ந்த 26 வயதுடைய ஒருவர் நேற்று சனிக்கிழமை (14) கைது செய்யப்பட்டுள்ளார்.
+
+இந்த சந்தேக நபரிடமிருந்து 36 கிராம் கொக்கெய்ன், 203 கிராம் குஷ் போதைப்பொருட்கள், போதைப்பொருள் கடத்தலின் மூலம் சம்பாதித்ததாக சந்தேகிக்கப்படும் 1,875,000 ரூபா பணம், 05 கையடக்கத் தொலைபேசிகள், பணம் எண்ணும் இயந்திரம், 02 வங்கி அட்டைகள் மற்றும் இலத்திரனியல் தராசு என்பன பொலிஸாரால் கைப்பற்றப்பட்டன.
+
+சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் பின்னர், கொலிங்வூட் மாவத்தை பகுதியில் 03 கிராம் 600 மில்லிகிராம் குஷ் போதைப்பொருளுடன் மேலும் இரு சந்தேக நபர்கள் கைது செய்யப்பட்டனர்.
+
+கைது செய்யப்பட்ட நபர்கள் மட்டக்குளி மற்றும் கொழும்பு 14 பிரதேசங்களைச் சேர்ந்த 24, 25 வயதுடையவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/8f01eedd.json)
+
+---
+
+### அரசியல் பயணத்தில் தீர்க்கமான சந்தியில் நிற்கும் சிரியா
+
+*2024-12-15 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201337) · `ta`
+
+சிரியாவை ஒரு தேசமாக கட்டியெழுப்பி மீண்டும் பழைய நிலைக்கு கொண்டு வருவதொன்றும் எளிதான விடயம் அல்ல. இன, மத பிரிவுகளின் அடிப்படையிலும், பிராந்திய ரீதியிலும் பிளவுபட்டிருக்கும் மக்களை ஐக்கியப்படுத்தக்கூடிய ஆட்சி நிர்வாகக் கட்டமைப்பை உருவாக்க வேண்டும்.
+
+◼️
+
+[Data](articles/d7f0c313.json)
+
+---
+
+### தேங்காய் முதல் கலாநிதி வரை
+
+*2024-12-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201336) · `ta`
+
+அரசியல் மாபியாக்கள் கட்டுப்படுத்தப்பட்டாலும், வியாபாரிகள், அதிகாரிகள், ஏன் பொது மக்கள் கூட இன்னும் பழைய ‘சிஸ்டத்தில்’தான் மூழ்கிக் கிடக்கின்றார்கள்.
+
+◼️
+
+[Data](articles/8d3cab10.json)
+
+---
+
+### இராஜினாமாவோடு  முடிவடையுமா 'கலாநிதி'  சர்ச்சைகள்?
+
+*2024-12-15 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201332) · `ta`
+
+தனது கலாநிதி பட்டம் தொடர்பில் எழுந்திருக்கும் சர்ச்சைகள் தொடர்பில், சபாநாயகர் அசோக்க ரன்வல  விசேட அறிக்கையை 17 ஆம் திகதி வெளியிடுவார் என்று அறியப்பட்டிருந்த நிலையில் திடீரென அவர் கடந்த   வெள்ளிக்கிழமை தனது பதவியை இராஜினாமா செய்துள்ளார். இலங்கை அரசியல் வரலாற்றில்  சபாநாயகராக தெரிவு செய்யப்பட்ட ஒருவர் மிகவும் குறுகிய காலத்தில், 21 நாட்களில், தனது பதவியை இராஜினாமா செய்துள்ள முதல் சம்பவமாக இது பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/a721b412.json)
+
+---
+
+### சிரிய ஆட்சி மாற்றம் ஈரான் மீதான போருக்கான முஸ்தீபு?
+
+*2024-12-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201335) · `ta`
+
+மேற்குலகுக்கு குறிப்பாக இஸ்ரேலுக்கு அச்சுறுத்தலாக விளங்கிய சக்திகள் ஒவ்வொன்றாக களத்தில் இருந்து அகற்றப்பட்டு வருவதை அல்லது நலிவடையச் செய்யப்பட்டு வருவதைத் தெளிவாக அவதானிக்க முடிகின்றது.
+
+◼️
+
+[Data](articles/e740ce54.json)
+
+---
+
+### Opposition is a name for the appointment of the Speaker
+
+*2024-12-15 13:53:48* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයා-පත්-කිරීමේදී-විපක්ෂයෙනුත්-නමක්/11-413638) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Opposition names Speaker: MP Nalin Bandara proposes candidate at Colombo press conference."
+
+🟩
+
+MP Nalin Bandara said that the appointment of the new Speaker was proposing a name to the post, he said.
+
+He was speaking at a media briefing held in Colombo today (15).
+
+◼️
+
+[Data](articles/15ea41af.json)
+
+[Extended Data](ext_articles/15ea41af.ext.json)
+
+---
+
+### மீண்டும் கூட்டமைப்பா?
+
+*2024-12-15 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201334) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்புக்குள் இருந்தபோது குத்துதே குடையுதே என்றவாறு தான் பெரும்பாலான கட்சிகள் நடந்து கொண்டன. இப்போது எல்லா கட்சிகளுக்கும் தங்களின் பலம் என்ன  என்பதை தெளிவாக உணர முடிந்திருக்கிறது. சிறிதரனுக்கும் கஜேந்திரகுமாருக்கும் இடையில் நடந்துள்ள சந்திப்பு இரண்டு கட்சிகளுக்கும் இடையிலான ஒருமித்த கருத்துருவாக்கத்துக்கு வழிவக்குமா என்பதை இப்பொழுதே அனுமானிக்க முடியாது.
+
+◼️
+
+[Data](articles/066dc531.json)
+
+---
+
+### சீர்குலைக்கிறதா சீனா?
+
+*2024-12-15 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201331) · `ta`
+
+இலங்கையை தனது இதயத்தில் வைத்து பாதுகாக்கின்ற நாடாக இருந்திருந்தால், அந்த நெருக்கடியான சூழலில் 6 மில்லியன் டொலர்களை  பலாத்காரமாக சீனா பறித்திருக்காது.இந்த முறை சீருடைகள் முழுமையாக சீனாவில் இருந்து, மூன்று கப்பல்களில் கொண்டு வரப்பட்டதால், உள்ளூர் துணி உற்பத்தியாளர்களுக்கு பாதிப்பு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7372e9bf.json)
+
+---
+
+### President set to leave for India today
+
+*2024-12-15 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104253/president-set-to-leave-for-india-today) · `en`
+
+President Anura Kumara Dissanayake is slated to undertake an official state visit to India today (15).
+
+Accordingly, this is the first overseas visit undertaken by the President after his assumption of office.
+
+During the visit, President Dissanayake is scheduled to meet the Indian President Smt. Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and other Indian dignitaries on a range of issues of mutual interest.
+
+The visit will further advance and consolidate the long-standing relations between the two countries, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
+
+Meanwhile, the Indian High Commission in Colombo said President Disanayaka will also participate in a business event in Delhi to promote investment and commercial linkages between India and Sri Lanka. Further, he will visit Bodh Gaya as part of the visit.
+
+...
+
+[Data](articles/6fbd6694.json)
+
+---
+
+### மீண்டும் ஏமாற்றப்படுகிறதா தமிழ் சமூகம்?
+
+*2024-12-15 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201328) · `ta`
+
+எண்ணிக்கையில் குறைவாக உள்ள சமூகங்களின் அல்லது இனங்களின் நலன்களை உறுதிப்படுத்துகின்ற விடயங்களை, சர்வஜன வாக்கெடுப்பு மூலம் நிறைவேற்றுவதும் இலகுவானதாக இருக்காது.ஏனென்றால், இன ரீதியான பிளவுகள், மதரீதியான பிளவுகள் என்பது ஆழ வேரோடியிருக்கின்ற  நாடு இது. சுதந்திரம் பெற்ற பின்னர் உருவாக்கப்பட்ட, அரசியலமைப்புகள் தமிழர்களின் கருத்துக்களை கேட்டறியாமல் அவர்களின் பங்குபற்றலின்றியே உருவாக்கப்பட்டிருந்தன.
+
+◼️
+
+[Data](articles/160062ba.json)
+
+---
 
 ### Three suspects arrested with drugs
 
@@ -166,63 +422,91 @@ These sluicegates, which are opened one foot at a time, will release cubic meter
 
 [Data](articles/bd587dbb.json)
 
+[Extended Data](ext_articles/bd587dbb.ext.json)
+
 ---
 
-### உழவு இயந்திரத்தில் மோதுண்டு கால்நடை பண்ணை ஊழியர் பலி
+### Livestock farm employee killed in plowing machine
 
 *2024-12-15 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201308) · `ta`
 
-நுவரெலியா - பட்டிபொல பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் நேற்று சனிக்கிழமை (14) அம்பேவெல கால்நடை பண்ணை ஊழியர் ஒருவர் கால்நடைகளுக்கு உணவு வழங்கிக்கொண்டிருந்தபோது, உழவு இயந்திரத்தில் மோதுண்டு உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+A livestock farm employee was fatally injured while feeding cattle on a plowing machine in Sri Lanka. The 55-year-old farm inspector from Ambewela died after being rushed to Nuwara Eliya Hospital. Police are investigating the incident.
 
-விபத்தில் சிக்கியவர் பலத்த காயங்களுக்குள்ளாகி நுவரெலியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-உயிரிழந்தவர் சிறிசமங்கம, அம்பேவெல பிரதேசத்தைச் சேர்ந்த 55 வயதுடைய பண்ணைப் பரிசோதகர் ஆவார்.
+Police said that an Ambbeewela cattle farm employee was supplying food to cattle on Saturday (14) in the Nuwara Eliya -Patipola police division.
+
+The victim was seriously injured and died after being admitted to the Nuwara Eliya Hospital, police said.
+
+The deceased is a 55 -year -old farm inspector from Sirisamangama, Ambewela.
 
 ◼️
 
 [Data](articles/4d980c42.json)
 
+[Extended Data](ext_articles/4d980c42.ext.json)
+
 ---
 
-### ජනපති අද ඉන්දීය නිල සංචාරය අරඹයි
+### President to launches Indian official visit
 
 *2024-12-15 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204392) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ඉන්දීය නිල සංචාරය අද (15) ආරම්භ වෙයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව, ජනාධිපතිවරයා අද ඉන්දියාව බලා පිටත්ව යන අතර එළඹෙන 17 වනදා දක්වා ඔහු ඉන්දියාවේ සංචාරය කිරීමට නියමිත බවයි විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
 
-ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහාතාගේ පළමු විදෙස් සංචාරය ද මෙයයි.
 
-ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා මෙම සංචාරයට එක්වෙයි.
+Sri Lankan President Anura Kumara Dissanayake begins official visit to India today. He'll meet with Indian leaders, discuss investment & trade ties, and promote Buddhist relations. This is his first foreign trip as president.
 
-ඒ අනුව මෙම සංචාරයේදී ජනාධිපතිවරයා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා හමුවී ද්විපාර්ශවීක සාකච්ඡා පැවැත්වීමට නියමිතය.
+🟩
 
-එමෙන්ම ජනාධිපතිවරයා ඉන්දීය රජයේ තවත් ප්‍රබල අමාත්‍යවරු කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+Indian official visit to President Anura Kumara Dissanayake commenced today (15).
 
-ජනාධිපතිවරයා සිය සංචාරය අතරතුර ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ආයෝජන හා වාණිජ සබඳතා ප්‍රවර්ධනය කිරීමේ ව්‍යාපාරික වැඩසටහනකට ද නව දිල්ලි නුවරදී එක්වීමට නියමිත අතර බුද්ධ ගයාවේද සංචාරය කිරීමට නියමිතය.
+Accordingly, the President leaves for India today, "said External Affairs Ministry said that he will visit India until the 17th.
+
+This is also the first foreign visit to Mr. Mahana Dissanayake after he was appointed president.
+
+The President leaves the visit on the invitation of Mrs. President Mahinda Rajapakse Mrs. Murmi.
+
+Accordingly, the President is due to hold bilateral talks with Indian President Mahinda Rajapaksa and Indian Prime Minister Narendra Modi.
+
+The President will also hold bilateral talks with several other strong ministers of India.
+
+During his visit, the President is also to join the promotion of investment and commercial relationships between India and Sri Lanka and is to visit the Buddha.
+
+In a statement of the President's visit to India, the Indian Foreign Ministry says Sri Lanka is a leading neighborhood in the Indian Ocean region.
 
 ...
 
 [Data](articles/772873a5.json)
 
+[Extended Data](ext_articles/772873a5.ext.json)
+
 ---
 
-### காங்கேசன்துறை - நாகை கப்பல் சேவை பல்வேறு வசதிகளுடன் ஜனவரியில் மீள ஆரம்பம்
+### Kankesanthurai - Naga Shipping Service Retrieved in January with various facilities
 
 *2024-12-15 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201316) · `ta`
 
-காங்கேசன்துறைக்கும் நாகப்பட்டினத்துக்கும் இடையிலான கப்பல் சேவை எதிர்வரும் ஜனவரி மாதம் முதல் மீண்டும் வாரத்துக்கு ஆறு நாட்கள் மேம்பட்ட வசதிகளுடன் ஆரம்பமாகவுள்ளதாக சுபம் குழுமத்தின் தலைவரும் காங்கேசன்துறை, நாகப்பட்டினம் கப்பல் சேவை முதலீட்டாளருமான பொன்னுசாமி சுந்தர்ராஜ் தெரிவித்தார்.
+N
 
-யாழ். ஊடக அமையத்தில் நேற்று (14) நடைபெற்ற ஊடகவியலாளர்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-இந்தியாவில் சுபம் குறூப் ஒப் கம்பனிஸ் பல்வேறு வியாபார நிறுவனங்களை உள்ளடக்கியதொன்றாகும். குறிப்பாக, தனிமனிதனின் தலைமைத்துவத்தில் 500க்கும் மேற்பட்ட பாரவூர்தி போக்குவரத்து சேவையை வழங்குவதாக இருக்கிறது.
+The ship's service between Kankesanthurai and Nagapattinam will commence with the six -day advanced facilities for six days from January, said Ponnusamy Sundarraj, the head of the Kankesanthurai and Nagapattinam Shipping Service.
 
-அத்துடன் எமது பிறிதொரு நிறுவனமான சுபம் நிறுவனம் காங்கேசன்துறை, நாகப்பட்டினத்துக்கு இடையிலான கப்பல் சேவையில் முதலீடுகளைச் செய்துள்ளது. இதனையடுத்து கடந்த ஆகஸ்ட் மாதம் இந்த கப்பல் சேவை ஆரம்பிக்கப்பட்டிருந்தபோதும் காலநிலை முன்னெச்சரிக்கையின் காரணமாக தற்காலிகமாக சேவை தற்போது நிறுத்தப்பட்டுள்ளது.
+Yall. He said this while addressing a press conference held at the Media Center yesterday (14).
+
+In India. In particular, it provides more than 500 paramilitary transport services under the leadership of the individual.
+
+In addition, our other company, Subam, has invested in the Kankesanthurai and Nagapattinam shipping service.. Subsequently, the shipping service was launched last August, but the service has now been suspended due to climate precautions.
+
+There are also conditions for the formation of a windmill in the Wangala Bay on the 23rd of this month. Thus, we have adjourned the shipping service that was arranged to resume on the 19th.
 
 ...
 
 [Data](articles/def3383a.json)
+
+[Extended Data](ext_articles/def3383a.ext.json)
 
 ---
 
@@ -1969,407 +2253,5 @@ Bill and Melinda Gates Foundation has agreed to support the new government prior
 [Data](articles/8315897c.json)
 
 [Extended Data](ext_articles/8315897c.ext.json)
-
----
-
-### The system of accessing with state officials;Sridharan MP on Archana's action. Expression
-
-*2024-12-14 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201294) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil party leader Sridharan discusses approaching state officials with dignity. He comments on the Speaker's resignation over a degree issue, welcoming the move. The party emphasizes unity and fulfilling pre-election promises.
-
-🟩
-
-Jaffna Parliamentarian C. C. C.. Sridharan said.
-
-Speaking to journalists after the meeting of the Tamil party's central committee in Vavuniya on Saturday (14), he said this when he was asked about the news that the Jaffna District Development Committee meeting was conflicted with MP Arjuna and the state officials.
-
-Those who are government officials are more educated than us. They have come to those positions. Journalists will be more experience in the media industry than us. So there is a method of approaching them as far as I am concerned. We must be very dignified and responsible for how to use humanity and human capital.
-
-Our party has been doing so far and will continue to approach the public officials with that responsibility and dignity.
-
-...
-
-[Data](articles/925f2d34.json)
-
-[Extended Data](ext_articles/925f2d34.ext.json)
-
----
-
-### Bill & Melinda Gates Foundation to expand support in Sri Lanka
-
-*2024-12-14 20:00:00* · [`economynextcom`](https://economynext.com/bill-melinda-gates-foundation-to-expand-support-in-sri-lanka-194298/) · `en`
-
-ECONOMYNEXT – The Bill and Melinda Gates Foundation has agreed to provide financial and technical assistance for programs in Sri Lanka, the president’s media division said.
-
-The programs include nutrition projects, school meal programs for children, agriculture sector modernization project, digitalization efforts, and livestock development.
-
-Officials from the foundation met Professor Anil Jayantha Fernando, Minister of Labour and Deputy Minister of Economic Development at the Presidential Secretariat on Friday.
-
-“The Bill & Melinda Gates Foundation expressed its readiness to provide support whenever needed,” the PMD said in a statement. (Colombo/Dec14/2024)
-
-◼️
-
-[Data](articles/cdc1fce7.json)
-
-[Extended Data](ext_articles/cdc1fce7.ext.json)
-
----
-
-### Lalith Kannwra, underworld, is ready to isolate
-
-*2024-12-14 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204378) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Lalith Kannawra, alias 'Bus Lalith,' threatens Hanwella businessmen. Hiding in Dubai, wanted for 5 murders. Police deployed due to extortion demands. Businessmen flee homes, stations shut. Wife and kids found in Dimbulagala."
-
-🟩
-
-There are many businessmen in Hanwella before the threat of Lalith Kanunga, who is hiding in Dubai, 'Bus Lalith'.
-
-Police said that due to his threats, police stations have been taken to deploy police stations.
-
-Lalith Kannnara, or "Bus Lalith" is doing its crime from Dubai.
-
-He is a 34-year-old man who wants five murders.
-
-The assassination of a Muslim businessman in Hanwella, 2022, was severely conversed.
-
-The murder of a businessman from Neurelththaaduda, Hanwella last September was also talked about.
-
-It was due to the assassination of a Lalith Kanganan bus job first.
-
-He threatened to demand ransom from businessmen and issued a heroic heat to the media.
-
-Due to the escalation of buses, the threat of buses has already left their homes.
-
-The owner had gone closed due to the threats of Lalith Kannara, who continued to demand ransom from Lalith Kannara.
-
-A house belonging to another famous businessman in Hanwella has been closed due to its owners and fleeing the house.
-
-...
-
-[Data](articles/c6907204.json)
-
-[Extended Data](ext_articles/c6907204.ext.json)
-
----
-
-### Customs orders to re-export 75,000 kg of rice unsuitable for consumption
-
-*2024-12-14 19:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104240/customs-orders-to-re-export-75000-kg-of-rice-unsuitable-for-consumption) · `en`
-
-Sri Lanka Customs says that weevils (Gullo) have been detected in 50,000 Kg of imported rice while issues with product information labels have been detected in another 25,000 Kg of imported rice.
-
-Accordingly, the respective importers have been ordered to re-export the relevant rice consignments or face confiscation of defective stocks.
-
-It was revealed that two containers of imported rice contained defective stocks, while another container had labels tampered with—new labels affixed over old ones, with the expiration date nearing.
-
-To address the ongoing rice shortage in the country, the government authorized private importers to begin importing rice from December 4.
-
-Since then, shipments from India have accounted for 2,300 metric tons of rice received by Sri Lanka Customs as of December 13 afternoon.
-
-Customs reported that approximately 90% of these imports had been cleared and released by yesterday.
-
-◼️
-
-[Data](articles/9680a494.json)
-
-[Extended Data](ext_articles/9680a494.ext.json)
-
----
-
-### Who is the new Speaker- 3 names
-
-*2024-12-14 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204377) · `si`
-
-Three candidates proposed for Speaker: Risi Sally, Lakshman Quna Nipunarachchi, Nihal Galappaththi. Controversy over doctorates led to Anura Kumara Dissanayake being sent to President. Parliament to meet on 17th to appoint new Speaker according to Constitution.
-
-🟩
-
-According to political sources, three names have been proposed for the post of Speaker.
-
-Deputy Speaker Risi Sally, MP Lakshman Quna Nipunarachchi and MP Nihal Galappaththi have been proposed.
-
-There was an intense controversy in the country recently regarding the doctorate in the country recently.
-
-The Ranwala has issued a statement from a letter head of Parliament in such a background yesterday (13) afternoon.
-
-Accordingly, Mr. Anura Kumara Dissanayake has been sent to President Anura Kumara Dissanayake.
-
-Presidential Secretary to the President Dr. Nandika Sanath Sanath has written to the Secretary General of Parliament.
-
-The Parliament will meet with Mr. Deputy Speaker Risvi Sally on the 17th and a new Speaker should be appointed to the provisions of the Constitution.
-
-◼️
-
-[Data](articles/f371dce4.json)
-
-[Extended Data](ext_articles/f371dce4.ext.json)
-
----
-
-### Accident
-
-*2024-12-14 19:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-இருவர்-உயிரிழப்பு/175-348724) · `ta`
-
-Vehicle accident kills two, injures one on Kalpitiya-Palavi road. Police investigating collision between lorry and motorcycle. Driver arrested.
-
-🟩
-
-Two persons were killed and another injured in a vehicle accident last night in the Kalpitiya - Palavi main road, police said.
-
-Two people aged 36 and 28 from Kajuwatte area died and a 22 -year -old man is receiving treatment.
-
-Police said the accident occurred when a lorry collided with a motorcycle from Kalpitiya to Balavi on a motorbike from Balavi to Kalpitiya.
-
-The driver of the lorry has been arrested by the driver of the lorry and the police are conducting further investigations into the accident.. Remble
-
-◼️
-
-[Data](articles/f0555ad0.json)
-
-[Extended Data](ext_articles/f0555ad0.ext.json)
-
----
-
-### Central Committee Meeting of the TNA
-
-*2024-12-14 18:52:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/போர்க்களமாக-மாறிய-தமிழரசுக்-கட்சியின்-மத்தியகுழுக்-கூட்டம்/72-348723) · `ta`
-
-TNA Central Committee meeting summary: Mavai Senathirajah arrives late, causing confusion. Sivamohan demands his presence, leading to heated exchanges. Meeting eventually starts after Senathirajah's arrival at 10:45 PM.
-
-🟩
-
-Former parliamentarian Sivamohan demanded that Mavai Senathirajah arrived after the Tamil National Party's central committee was held today.
-
-Arrangements were made to take place at a private guest hostel in Vavuniya at 10 am.
-
-The Secretary sought to start the meeting. Former parliamentarian CC Sivamohan said that the party leader Mawai Senathirajah should not hold the meeting without attending the meeting.. This caused confusion in the meeting.
-
-He resigned from his head. So immediately to start the meeting. Chanakiyan said in a heavy tone.
-
-When Sivamohan asked him to make a phone call to Mau, "This is not a goal center, the party."Chanakyan replied that "this is not your hospital". Apart from him, some other members also asked the meeting to start immediately.
-
-Peter Ilancheliyan also said that if the meeting was headed by Senior Vice President, he would have to expel the confusion.
-
-Sivamohan's persistence in his position became a battlefield for a long time.
-
-...
-
-[Data](articles/1b09cfb9.json)
-
-[Extended Data](ext_articles/1b09cfb9.ext.json)
-
----
-
-### Informs to export gulls garved
-
-*2024-12-14 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204376) · `si`
-
-Sri Lanka Customs orders exporters to ship 75,000 kg of rice in 3 containers. Two containers contain expired rice. Due to shortages, the government allows private imports. Rice is now being imported from India, with 2,300 metric tons arriving on the 4th.
-
-🟩
-
-Sri Lanka Customs has informed the importers to export 75,000 kilograms of rice in three imported containers by private importers.
-
-It has been revealed that two imported containers have been rice in rice and revealed that the old label of the rice in the other container was up to the expiry of the rice in the other container.
-
-As a result of the shortage of rice shortages, the government has been permitted to private importers to import rice.
-
-Accordingly, the rice is being imported from India and has received 2300 metric importers imported from the 4th of this month.
-
-◼️
-
-[Data](articles/f43d3321.json)
-
-[Extended Data](ext_articles/f43d3321.ext.json)
-
----
-
-### The Use Of Dr. Or ‘Acharya’ Title By Elected Representatives: What Is The problem?
-
-*2024-12-14 18:43:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-use-of-dr-or-acharya-title-by-elected-representatives-what-is-the-problem/) · `en`
-
-The debate about the use of Dr. title by the present Speaker in Sri Lanka’s parliament presumably without obtaining a PhD from a reputed university raises an important issue in the way such academic titles have been used in the political sphere in recent decades. It is well known that the higher education sector in the country was also politicised along with other government institutions where there should have been a high degree of autonomy. The issue is whether the matter relating to the speaker’s use of Dr. title in front of his name supposedly without obtaining a PhD is an isolated incident?  In other words, was this a common practice among political sphere?  Another issue is whether the use of these titles in English vs Sinhala vernacular had anything to do with the confusion? Before addressing these questions, let me explain the accepted way of using Dr. title or even Professor title by those who acquire them after years of research and study in universities.
-
-...
-
-[Data](articles/b12f15e0.json)
-
-[Extended Data](ext_articles/b12f15e0.ext.json)
-
----
-
-### Dhanush published. V.. Prakash Kumar's 'Mendel Mind' is the first appearance of the film
-
-*2024-12-14 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201290) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dhanush releases V. Prakash Kumar's 'Music Monster'. Directed by Selvaraghavan, starring Prakash Kumar and Madhuri Jain. First look features Prakash Kumar with colorful butterfly background. Film production complete, awaiting release date.
-
-🟩
-
-'Music monster' ji. V Prakash Kumar's first appearance of the film 'Mendel Man Mind', which plays the hero of the story directed by director and actor Selvaraghavan, has been released.. This was released by Dhanush, the leading star actor and director.
-
-GV in the movie 'Mendel Man Manam' directed by director and actor Selvaraghavan. Both Prakash Kumar and actress Madhuri Jain are playing the lead roles. Arun Radhakrishnan is a cinematography film. Prakash Kumar is composed. Producer Xi on behalf of Paralel Universal Pictures Company. V.. Produced by Prakash Kumar.
-
-The film crew, which has announced that the shooting of the film will begin soon, has now released the first look of the film.. In which the hero of the story, JV. Prakash Kumar appears differently with a meaningful view with colors in the background of butterfly.
-
-...
-
-[Data](articles/8eee55ce.json)
-
-[Extended Data](ext_articles/8eee55ce.ext.json)
-
----
-
-### The leader of the party!The meeting is not reached by the end of the day!
-
-*2024-12-14 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201292) · `ta`
-
-TNA leadership referendum postponed due to internal conflicts. Meeting adjourned until further notice.
-
-🟩
-
-The referendum on Saturday (14) at a meeting on the leadership of the Tamil National Party (TNA) was postponed for the referendum on the 28th.
-
-The Central Committee meeting of the Tamil National Party commenced at 10.30 am on Saturday (14) at a private hotel in Vavuniya.
-
-Former parliamentarian CC Sivamohan Party leader Mawaisenathirajah said that the meeting should not be held without attending the meeting.. Later Mavisenathiraya was attending the meeting. The meeting began.
-
-In the meantime, Maui Senathirajah has resigned from the party's leadership and one party has asked him to be replaced by another and another.
-
-Thus, the issue has been talked about throughout today and it has been decided to vote another day without decisions.
-
-...
-
-[Data](articles/44e393a6.json)
-
-[Extended Data](ext_articles/44e393a6.ext.json)
-
----
-
-### மஹிந்தவின் பாதுகாப்பை பலப்படுத்த பாராளுமன்றத்தில் அன்று குரல் கொடுத்தவர் அநுரகுமார! - மனோஜ் கமகே
-
-*2024-12-14 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201278) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு பலப்படுத்தப்பட வேண்டும் என பாராளுமன்றத்தில் குரல் கொடுத்த அநுரகுமார திசாநாயக்க, தற்போது ஜனாதிபதியானதன் பின்னர் அதனை மறந்துவிட்டார். முன்னாள் ஜனாதிபதி  மஹிந்த ராஜபக்ஷவின் உயிருக்கு ஆபத்து ஏற்படலாம். எனவே ஜனாதிபதி அநுரகுமார திசாநாயக்க  இந்த தீர்மானத்தை மீளப்பெற வேண்டும் என பொதுஜன பெரமுனவின் சட்டத்தரணிகள் சங்கத்தின் கொழும்பு மாவட்ட உப தலைவர் சட்டத்தரணி மனோஜ் கமகே தெரிவித்தார்.
-
-தேசிய மக்கள் சக்தியின் அரசாங்கம் முன்னாள் ஜனாதிபதிகளுக்கு வழங்கப்பட்டுள்ள  அரச வரப்பிரசாதங்களை குறைப்பதற்கு நடவடிக்கை எடுத்திருந்த நிலையில், இதன் முதற்கட்டமாக அவர்களது பாதுகாப்பு கடமைகளில் ஈடுபட்டிருந்த உத்தியோகத்தர்கள் எண்ணிக்கை மட்டுப்படுத்தப்பட்டுள்ளது.
-
-அத்துடன் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு நிமித்தம் கடமையில் இருந்த 116 உத்தியோகத்தர்கள் நீக்கப்பட்டுள்ளனர்.
-
-இந்நிலையில் இந்த விடயம் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே பொதுஜன பெரமுனவின் சட்டத்தரணிகள் சங்கத்தின் கொழும்பு மாவட்ட உப தலைவர் சட்டத்தரணி மனோஜ் கமகே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/590ee115.json)
-
----
-
-### St. Anthony Stole Fire from Hell: A Festival at a Sardinian Village
-
-*2024-12-14 17:26:00* · [`islandlk`](http://island.lk/st-anthony-stole-fire-from-hell-a-festival-at-a-sardinian-village/) · `en`
-
-Shyamala (my wife) and I arrived at Cagliari Airport in Sardinia with several friends from Rome to participate in a writers’ workshop in Galteli, a remote Sardinian village. It was mid-January, and It was a sunny and warm afternoon. The sky was blue, and sun rays penetrated the airport’s thick, tall glass panes, warming us. The distant craggy mountains displayed their naked limestone spikes, occasionally releasing a glint. The dusty horizon looked distant, blurring the contours between the dry, flat land and disappearing grey mountains. Large concrete structures dominated the immediate landscape of the airport. They were engulfed in a mess of tentacles of the ring road. Still, a disciplined traffic movement emerged from the chaos. The landscape of Sardinia, with its rugged mountains, flat lands, and distant horizons, was a sight to behold.
-
-...
-
-[Data](articles/ac7d0a77.json)
-
----
-
-### Georgian former footballer Kavelashvili elected as President by lawmakers
-
-*2024-12-14 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104239/georgian-former-footballer-kavelashvili-elected-as-president-by-lawmakers) · `en`
-
-Georgia’s ruling party on Saturday installed a far-right loyalist as the country’s president in a controversial election process amid a constitutional crisis and after weeks of mass pro-EU protests.
-
-An electoral college, controlled by the ruling Georgian Dream party and boycotted by the opposition, elected Mikheil Kavelashvili with 224 votes as the country’s next figurehead leader for a five-year term, central election commission chair Giorgi Kalandarishvili said.
-
-The sitting president Salome Zurabishvili has declared the vote “illegitimate” and refused to step down.
-
-The Black Sea nation has been in turmoil since the governing Georgian Dream party claimed victory in contested October parliamentary elections.
-
-Its decision last month to delay European Union membership talks ignited a fresh wave of mass rallies.
-
-The opposition has denounced Saturday’s election as “illegitimate” and said sitting President Salome Zurabishvili remains the country’s sole legitimate leader.
-
-...
-
-[Data](articles/ed8d2bdd.json)
-
-[Extended Data](ext_articles/ed8d2bdd.ext.json)
-
----
-
-### Who Broke Syria?
-
-*2024-12-14 17:26:00* · [`islandlk`](http://island.lk/who-broke-syria/) · `en`
-
-By end of November, the situation in Syria was dire. Government forces were on the brink of exhaustion, stretched thin by an economic crisis that spiraled out of control. Soldiers earned a paltry $7 a month, with even high-ranking officers receiving only $40. This was in sharp contrast to militia fighters funded by external powers, who earned up to $2,000 monthly. This glaring disparity revealed not just economic fault lines but the extent of foreign intervention sustaining these militias. Meanwhile, protests erupted across Suwayda province, historically a stronghold of Assad support, highlighting widespread famine, collapsing services, and the devaluation of the Syrian pound. Discontent was palpable, threatening to upend the regime’s fragile grasp on power.
-
-...
-
-[Data](articles/f8a8b578.json)
-
----
-
-### Woman's body recovered in Kotmale reservoir
-
-*2024-12-14 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201252) · `ta`
-
-Body recovered Kotmale reservoir Talawakelle police investigation ongoing
-
-🟩
-
-Talawakelle police said that a woman has been recovered today (14) at the Talawakelle - Upper Kotmale reservoir.
-
-Police rushed to the scene and investigated the incident that the body was found near the main dam, where the air doors of the reservoir were located.
-
-Police said no information has been received so far regarding the body of the body.
-
-The body was taken to the Nuwara Eliya District General Hospital for autopsy, police said.
-
-◼️
-
-[Data](articles/a212071b.json)
-
-[Extended Data](ext_articles/a212071b.ext.json)
-
----
-
-### Two hiding a body of a deceased
-
-*2024-12-14 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204375) · `si`
-
-Two suspects arrested hiding body electrocuted person Matara Uragasmanhandiya police investigation
-
-🟩
-
-Uragasmanhandiya Police have arrested two hiding person with a body of a person who had been electrocuted.
-
-The two suspects have been arrested in the investigation carried out on information received.
-
-The deceased is that the deceased has been left to Matara to the 9 o'clock in Uragasmanhandiya, Uragasmanhandiya.
-
-However, his relatives complained to the police as he was not returning home.
-
-◼️
-
-[Data](articles/9d7c4a48.json)
-
-[Extended Data](ext_articles/9d7c4a48.ext.json)
 
 ---

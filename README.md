@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 05:26:52**
+As of **2024-12-15 05:53:16**
 
 ## Newspaper Stats
 
-*Scraped **60,186** Articles*
+*Scraped **60,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 610
 bbccomsinhala | 631
-islandlk | 3,632
+islandlk | 3,645
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,186 (100.0%) of 60,186 articles have been extended.
+60,186 (100.0%) of 60,199 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -294,6 +294,50 @@ The residents of the Welipenna, Deniyaya and Itapana area have been identified.
 
 ---
 
+### Exterminators PLC clinched gold at Sri Lanka Entrepreneur Awards
+
+*2024-12-14 21:07:00* · [`islandlk`](http://island.lk/exterminators-plc-clinched-gold-at-sri-lanka-entrepreneur-awards/) · `en`
+
+Exterminators PLC, Sri Lanka’s leading pest management company, won gold at the Sri Lanka Entrepreneur Awards (Western Province) on Dec 11. The event, organized by the National Chamber of Commerce and the National Enterprise Development Authority, celebrates excellence in entrepreneurship. Exterminators’ recognition highlights its achievements in innovation, financial performance, and corporate social responsibility. The company has earned 67 awards, including certifications in environmental leadership and corporate governance. Founded in 1998 by Marlon Ferreira, Exterminators has become Asia’s first publicly listed, carbon-neutral pest control company, exemplifying a commitment to sustainability and ethical business practices alongside commercial success.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/6c5e2272.json)
+
+---
+
+### Ceylinco Cancer Centre unveils refurbished interiors
+
+*2024-12-14 21:06:00* · [`islandlk`](http://island.lk/ceylinco-cancer-centre-unveils-refurbished-interiors/) · `en`
+
+The Ceylinco Cancer Centre at Park Street, Colombo 2 recently completed a major refurbishment to offer a more comfortable and aesthetically-pleasing environment for visitors. The refurbishment encompassed the entrance and reception, visitors’ lounge, the waiting area for radiation treatment and the waiting area for CT Simulator imaging.
+
+The first standalone radiation therapy centre in Sri Lanka’s private sector when it opened in September 2007, the Ceylinco Cancer Centre is equipped with a state-of-the-art Varian Clinac iX Linear Accelerator for radiation treatment, and recently acquired the latest AI-supported, four-dimensional CT Simulator from Siemens Healthcare GmbH of Germany, exclusively for treatment planning.
+
+Pictured here is the formal reopening of the refurbished Ceylinco Cancer Centre by the Chairman of Ceylinco Healthcare Services Limited (CHSL) R. Renganathan accompanied by the Company’s directors, and the refurbished reception area of the Centre.
+
+...
+
+[Data](articles/9093bdc7.json)
+
+---
+
+### Sampath Bank secures top honours at the Best Corporate Citizen Sustainability Awards 2024
+
+*2024-12-14 21:04:00* · [`islandlk`](http://island.lk/sampath-bank-secures-top-honours-at-the-best-corporate-citizen-sustainability-awards-2024/) · `en`
+
+Sampath Bank has been honoured as the Second Runner-Up in the Best Corporate Citizen Sustainability Award 2024, hosted by the Ceylon Chamber of Commerce. Widely regarded as Sri Lanka’s pinnacle of recognition for corporate sustainability, the awards ceremony took place recently at Cinnamon Grand, Colombo.
+
+...
+
+[Data](articles/20ab173d.json)
+
+---
+
 ### Order to re -export imported rice
 
 *2024-12-14 20:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செய்யப்பட்ட-அரிசியை-மீள்-ஏற்றுமதி-செய்ய-உத்தரவு/175-348725) · `ta`
@@ -317,6 +361,30 @@ Accordingly, rice is currently being imported from India and 2,300 metric tonnes
 [Data](articles/4a264cda.json)
 
 [Extended Data](ext_articles/4a264cda.ext.json)
+
+---
+
+### IIHS celebrates graduation of over 600 healthcare professionals
+
+*2024-12-14 20:53:00* · [`islandlk`](http://island.lk/iihs-celebrates-graduation-of-over-600-healthcare-professionals/) · `en`
+
+The International Institute of Health Sciences (IIHS) celebrated a major milestone with the graduation of over 600 students across various academic programs, including Foundation, Diploma, Bachelor’s, Master’s, and PhD degrees. This year’s ceremony, which also honored over 400 government nurses, highlights IIHS’s pivotal role in enhancing healthcare education in Sri Lanka and internationally. The institute has trained more than 5,000 healthcare professionals, with over 500 alumni contributing globally.
+
+...
+
+[Data](articles/30d9ee01.json)
+
+---
+
+### Beyond Escapes wins bronze medal at ICSDB Business Excellence Awards
+
+*2024-12-14 20:53:00* · [`islandlk`](http://island.lk/beyond-escapes-wins-bronze-medal-at-icsdb-business-excellence-awards/) · `en`
+
+Beyond Escapes, an emerging travel agency in Sri Lanka, has gained widespread recognition by winning the prestigious Bronze Medal for Innovative Digital and Sustainability Implementation in the In-house Category at the ICSDB Business Excellence Awards. The award ceremony, held on December 10, 2024, at Water’s Edge, was organized by the Sri Lanka Institute of Information Technology (SLIIT) Campus. Beyond Escapes triumphed over top conglomerates from various industries, underscoring the company’s commitment to innovation, sustainability, and digital transformation in the evolving travel market.
+
+...
+
+[Data](articles/81ab5d81.json)
 
 ---
 
@@ -345,6 +413,44 @@ Wounded by shooting TA. Niluka Dilhani is a 40 year old resident of Colombo 13.
 [Data](articles/4848357f.json)
 
 [Extended Data](ext_articles/4848357f.ext.json)
+
+---
+
+### AIA Sri Lanka sets new benchmarks in workplace culture
+
+*2024-12-14 20:52:00* · [`islandlk`](http://island.lk/aia-sri-lanka-sets-new-benchmarks-in-workplace-culture/) · `en`
+
+AIA Sri Lanka sets new benchmarks in workplace culture – winning Best Workplaces in Sri Lanka for the 12th year, Best Workplaces for Women and Young Talent, winner of the Wellbeing Champions and Sri Lanka’s Happiest Workplace in the life insurance industry.
+
+...
+
+[Data](articles/bf6d2d1d.json)
+
+---
+
+### Guyana: Embracing the Culture and People
+
+*2024-12-14 20:27:00* · [`islandlk`](http://island.lk/guyana-embracing-the-culture-and-people/) · `en`
+
+Before leaving Sri Lanka to work in Guyana in March 1994, I was accustomed to seeing over two dozen bodyguards and a significant security detail for heads of government attending events. Sri Lanka, being in the throes of a brutal separatist war, necessitated such precautions. Naturally, I expected a similar setup when welcoming VIPs to the Guyana Pegasus Hotel on my first day of work. Standing at the lobby entrance alongside my Deputy General Manager, Shaun, I was eager to make a good first impression in this new environment.
+
+...
+
+[Data](articles/73bb9563.json)
+
+---
+
+### New Book: After Assad: Is Syria the New Libya in the Mediterranean?
+
+*2024-12-14 20:23:00* · [`islandlk`](http://island.lk/new-book-after-assad-is-syria-the-new-libya-in-the-mediterranean/) · `en`
+
+“After Assad: Is Syria the New Libya in the Mediterranean?” is a sharp and unflinching analysis of Syria’s descent into chaos. Journalist Nilantha Ilangamuwa examines the aftermath of Bashar al-Assad’s fall, highlighting the complex web of foreign interventions, regional ambitions, and internal fractures that have ravaged the country.
+
+The author reflects on his personal experiences with Syrian journalists, politicians, and activists, noting the stark contrast between the prosperous cities and the war-torn regions of the Middle East. He writes, “If you travel at night from Tehran to Doha, one side sparkles with lights, the other is cloaked in darkness, a symbol of neglect and conflict.”
+
+...
+
+[Data](articles/6a6319ef.json)
 
 ---
 
@@ -688,6 +794,18 @@ Thus, the issue has been talked about throughout today and it has been decided t
 
 ---
 
+### St. Anthony Stole Fire from Hell: A Festival at a Sardinian Village
+
+*2024-12-14 17:26:00* · [`islandlk`](http://island.lk/st-anthony-stole-fire-from-hell-a-festival-at-a-sardinian-village/) · `en`
+
+Shyamala (my wife) and I arrived at Cagliari Airport in Sardinia with several friends from Rome to participate in a writers’ workshop in Galteli, a remote Sardinian village. It was mid-January, and It was a sunny and warm afternoon. The sky was blue, and sun rays penetrated the airport’s thick, tall glass panes, warming us. The distant craggy mountains displayed their naked limestone spikes, occasionally releasing a glint. The dusty horizon looked distant, blurring the contours between the dry, flat land and disappearing grey mountains. Large concrete structures dominated the immediate landscape of the airport. They were engulfed in a mess of tentacles of the ring road. Still, a disciplined traffic movement emerged from the chaos. The landscape of Sardinia, with its rugged mountains, flat lands, and distant horizons, was a sight to behold.
+
+...
+
+[Data](articles/ac7d0a77.json)
+
+---
+
 ### Georgian former footballer Kavelashvili elected as President by lawmakers
 
 *2024-12-14 17:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104239/georgian-former-footballer-kavelashvili-elected-as-president-by-lawmakers) · `en`
@@ -709,6 +827,18 @@ The opposition has denounced Saturday’s election as “illegitimate” and sai
 [Data](articles/ed8d2bdd.json)
 
 [Extended Data](ext_articles/ed8d2bdd.ext.json)
+
+---
+
+### Who Broke Syria?
+
+*2024-12-14 17:26:00* · [`islandlk`](http://island.lk/who-broke-syria/) · `en`
+
+By end of November, the situation in Syria was dire. Government forces were on the brink of exhaustion, stretched thin by an economic crisis that spiraled out of control. Soldiers earned a paltry $7 a month, with even high-ranking officers receiving only $40. This was in sharp contrast to militia fighters funded by external powers, who earned up to $2,000 monthly. This glaring disparity revealed not just economic fault lines but the extent of foreign intervention sustaining these militias. Meanwhile, protests erupted across Suwayda province, historically a stronghold of Assad support, highlighting widespread famine, collapsing services, and the devaluation of the Syrian pound. Discontent was palpable, threatening to upend the regime’s fragile grasp on power.
+
+...
+
+[Data](articles/f8a8b578.json)
 
 ---
 
@@ -757,6 +887,34 @@ However, his relatives complained to the police as he was not returning home.
 [Data](articles/9d7c4a48.json)
 
 [Extended Data](ext_articles/9d7c4a48.ext.json)
+
+---
+
+### Dr. C. Sivandran (1948-2024): Engineer, Industrial Entrepreneur
+
+*2024-12-14 17:03:00* · [`islandlk`](http://island.lk/dr-c-sivandran-1948-2024-engineer-industrial-entrepreneur/) · `en`
+
+Writing obituaries becomes a poignant burden when those near and dear to us keep taking their turn while we wait for ours in life’s departure lounge. I have had my share of writing obituaries in the last two years, but this one gets preciously close because Sivandran, who passed away suddenly in Semarang, Indonesia, was my roommate throughout our Peradeniya years and later after graduation. We were best friends.
+
+We were emailing on November 28 and his last email said that his health was a hassle; so, he was winding down in Indonesia and was heading home to Perth. Next day I received the sad news of his demise. “Death, be not proud,” John Donne’s Holy Sonnet came to mind, but more in anger than as assurance of what comes “one short sleep past.”
+
+...
+
+[Data](articles/a361844d.json)
+
+---
+
+### Republicans’ most lethal political weapon – A father’s love for his son
+
+*2024-12-14 16:38:00* · [`islandlk`](http://island.lk/republicans-most-lethal-political-weapon-a-fathers-love-for-his-son/) · `en`
+
+The Republicans, not satisfied with their recent electoral triumph, continue to vilify President Biden for the pardon of his son, Hunter. Wresting power from the Democrats has not satisfied their blood-lust; they now seek to disgrace Biden, dishonor him and destroy the legacy of one of the most decent and selfless presidents in history, with a first-term record second to none.
+
+A legacy of achievements, the results of which have only now begun to show in what is today the strongest economy in the world. An economy created of bipartisan legislative miracles which will endure for decades to come. Which the contemptible Trump will claim he personally built, on the first day of his office, in January 2025. Just as he claimed he built the booming economy he inherited from President Obama in 2017, only to criminally mismanage it to recession by the end of his first term.
+
+...
+
+[Data](articles/03c224a4.json)
 
 ---
 
@@ -875,6 +1033,22 @@ The body was taken to the Nuwara Eliya District Hospital following the inquiry o
 [Data](articles/c82fd874.json)
 
 [Extended Data](ext_articles/c82fd874.ext.json)
+
+---
+
+### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
+
+*2024-12-14 16:24:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
+
+‘We in Lanka feel that our fight for freedom is being fought largely in India’
+
+We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
+
+Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
+
+...
+
+[Data](articles/42a20cca.json)
 
 ---
 
@@ -2263,265 +2437,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/ee4ae0c9.json)
 
 [Extended Data](ext_articles/ee4ae0c9.ext.json)
-
----
-
-### SLIC conducts ‘General Insurance Quiz Competition 2024’
-
-*2024-12-14 05:46:00* · [`islandlk`](http://island.lk/slic-conducts-general-insurance-quiz-competition-2024/) · `en`
-
-Sales professionals from Sri Lanka Insurance Corporation General Ltd (SLICGL) converged at the Head Office on 11th November 2024, to compete in the grand final round of the General Insurance Quiz Competition 2024 and awards ceremony. The eagerly anticipated annual event hosted by SLICGL celebrates knowledge, teamwork and competitive spirit among its sales force across all its regional offices. The competition comprised regional and inter-regional rounds, culminating in an exciting final witnessed by the Chairman, Group CEO, COO, and other top management of the company, adding further prestige to the event. The Eastern Regional Team emerged triumphant as Champions while the Man of the Match was awarded to S.A.W.M. Sathurusinghe, representing the Western 3 Region.
-
-SEC renews partnership with the University of Jaffna to empower future capital market professionals
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/d64d7ea9.json)
-
-[Extended Data](ext_articles/d64d7ea9.ext.json)
-
----
-
-### First Capital crowns its excellence with ‘Brand of the Year’
-
-*2024-12-14 05:43:00* · [`islandlk`](http://island.lk/first-capital-crowns-its-excellence-with-brand-of-the-year/) · `en`
-
-First Capital Holdings PLC, a pioneering force in the investment sector, achieved an exceptional milestone at the prestigious SLIM Brand Excellence Awards 2024, where it was honoured with the coveted “Brand of the Year” award—the highest accolade a brand can receive at this esteemed ceremony.
-
-This remarkable recognition underscores First Capital Holdings’ unwavering commitment to excellence and innovation in the industry. In addition to the pinnacle honour, the company was also distinguished with three other prominent awards: Service Brand of the Year – Gold Award, Local Brand of the Year – Silver Award, and B2B Brand of the Year – Bronze Award further solidifying its position as a benchmark of success and leadership in the competitive investment landscape.
-
-...
-
-[Data](articles/6cf636b5.json)
-
-[Extended Data](ext_articles/6cf636b5.ext.json)
-
----
-
-### ComBank MD/CEO Sanath Manatunge honoured as ‘Diversity Champion’
-
-*2024-12-14 05:42:00* · [`islandlk`](http://island.lk/combank-md-ceo-sanath-manatunge-honoured-as-diversity-champion/) · `en`
-
-Commercial Bank of Ceylon Managing Director/CEO Sanath Manatunge has been recognised as one of the ‘Top 10 Diversity Champions’ in Sri Lanka in 2024 for his leadership in fostering diversity, equity, and inclusion within Sri Lanka’s banking sector.
-
-This prestigious recognition is part of the Top 10 Diversity Champion Awards Programme organised by Women in Management (WIM) in partnership with the International Finance Corporation (IFC), a member of the World Bank Group, under the ‘Respectful Workplaces’ initiative.
-
-The selection of the country’s Top 10 Diversity Champions was based on a rigorous process of evaluation by a panel of judges which included Gevorg Sargsyan, Country Manager for the World Bank and IFC.
-
-...
-
-[Data](articles/f7a4c0c6.json)
-
-[Extended Data](ext_articles/f7a4c0c6.ext.json)
-
----
-
-### CSE’s bull-run continues in the wake of picked-up investor participation
-
-*2024-12-14 05:39:00* · [`islandlk`](http://island.lk/cses-bull-run-continues-in-the-wake-of-picked-up-investor-participation/) · `en`
-
-The stock market was bullish yesterday as well because investors were expecting Sri Lanka’s debt restructuring issues to be resolved soon, market analysts said.
-
-Both local and foreign investors were actively involved in trading, these analysts added.
-
-The All Share Price Index went up by 169.5 points, while the S and P SL20 rose by 71.45 points recording an all- time high with a turnover of Rs 6.1 billion and seven crossings.
-
-...
-
-[Data](articles/127d8000.json)
-
-[Extended Data](ext_articles/127d8000.ext.json)
-
----
-
-### ‘Indian investors eye Sri Lanka’s economic resurgence for greater cross border synergy’
-
-*2024-12-14 05:34:00* · [`islandlk`](http://island.lk/indian-investors-eye-sri-lankas-economic-resurgence-for-greater-cross-border-synergy/) · `en`
-
-Amid Sri Lanka’s journey toward economic recovery, Indian investors and businesses are closely monitoring the emerging opportunities in the local market.
-
-Dr. Naresh Bana, Vice Chairman of the Indo-Sri Lanka Chamber of Commerce and Industry (ISCCI) shared his perspective recently, on current investment trends, bilateral trade, and collaborative ventures between the two neighbours.
-
-Despite strong tourism ties, Indian investment in Sri Lanka’s tourism sector remains cautious. “Indian investors, like their counterparts elsewhere, rely on credible data, projections, and business prudence,” Dr. Bana explains. The country’s credit rating challenges, influenced by banking and financial institutions, often determine the final investment decisions. However, trading relations between the two nations remain robust.
-
-...
-
-[Data](articles/fd05b03b.json)
-
-[Extended Data](ext_articles/fd05b03b.ext.json)
-
----
-
-### LankaPay welcomes People’s Bank to US Dollar On-line Payments System
-
-*2024-12-14 05:33:00* · [`islandlk`](http://island.lk/lankapay-welcomes-peoples-bank-to-us-dollar-on-line-payments-system/) · `en`
-
-People’s Bank recently enabled local routing of domestic USD fund transfers via LankaPay to its US Dollar On-line Payment system, marking a pivotal step in enhancing the digital payment ecosystem in Sri Lanka. This collaboration is set to empower businesses and individuals by providing a seamless, secure and a cost-effective alternative for domestic interbank dollar payments.
-
-People’s Bank joined LankaPay US Dollar Online Payments System in 2021 towards LankaPay/JCB card net settlement purpose. With the recent integration, the Bank has now enabled domestic US Dollar payment settlements also via the same system.
-
-...
-
-[Data](articles/a895b73e.json)
-
-[Extended Data](ext_articles/a895b73e.ext.json)
-
----
-
-### Sri Lanka’s Premier Tamil Political Party Ilankai Thamil Arasuk Katchi(ITAK) Celebrates 75th Birth Anniversary.
-
-*2024-12-14 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85203) · `en`
-
-The recently held  parliamentary elections have resulted in the Janatha Vimukthi Peramuna(JVP)led National People’s Power(NPP) winning 159 seats and forming the Government. The Samagi Jana Balawegaya(SJB) with 40 seats is the chief opposition party. The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party(FP) with eight seats became the third largest party in Parliament.
-
-...
-
-[Data](articles/66577878.json)
-
-[Extended Data](ext_articles/66577878.ext.json)
-
----
-
-### 58 victims of Elig
-
-*2024-12-14 02:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்-காச்சலால்-58-பேர்-பாதிப்பு-7-பேர்-பலி/175-348714) · `ta`
-
-58 cases reported in Jaffna district; 7 deaths; 24 cases each in Point Pedro and Karavetti divisions; 6 cases in Maruthankani division; 1 death in Mullaitivu district; preventive measures underway.
-
-🟩
-
-Jaffna Regional Health Services Director, Dr. A. Ketheeswaran said that 58 people have been affected by the infection in the Jaffna district so far.
-
-He said this during a media briefing held yesterday at the Jaffna and Pedro Health Officer's Workshop. He further stated that
-
-In the Point Pedro Health Officer Division, 24 Great, Karavetti Health Medical Officer Division 24 Great, Maruthankani Division 6 Great, Chavakachcheri Division has so far been admitted to the hospital due to Elikkal.
-
-A total of 7 deaths have been recorded in the Jaffna district. Of these, 6 deaths were recorded in the Jaffna district and one in the Mullaitivu district.
-
-We are carrying out preventive measures as the disease has been confirmed. (A)
-
-◼️
-
-[Data](articles/32848014.json)
-
-[Extended Data](ext_articles/32848014.ext.json)
-
----
-
-### Meeting with Indian High Commission
-
-*2024-12-14 02:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-உயர்ஸ்தானிகர்-பிரதமருடன்-சந்திப்பு/175-348713) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Indian High Commissioner Santosh Ja met Sri Lankan PM Harini Amarasuriya. The meeting showcased India-Sri Lanka's long-standing friendship and strategic alliance. Discussions focused on bilateral project progress across various sectors.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja met with Sri Lankan Prime Minister Harini Amarasuriya at the Prime Minister's Office yesterday.
-
-The meeting was an illustration of long -term friendship and strategic partnership between the two countries.
-
-During this discussion on the progress of many bilateral projects in various development conditions. (A)
-
-◼️
-
-[Data](articles/925ff9d6.json)
-
-[Extended Data](ext_articles/925ff9d6.ext.json)
-
----
-
-### Appointment of members of the Port Urban Economic Commission
-
-*2024-12-14 02:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைமுக-நகர-பொருளாதார-ஆணைக்குழு-உறுப்பினர்கள்-நியமனம்/175-348712) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Colombo Port City Economic Commission: Harsha Amarasekera (Chairman), Demian Cabral, Mohan Abeywardena, Sanjaya Kulathunga, Dr. Harsha Subasinghe appointed. Letters issued by President's Secretary on 13th."
-
-🟩
-
-The appointment letters were issued yesterday (13) by the President's Secretary, Dr. Nandika Sanath Kumanayake.
-
-Accordingly, President's Attorney Harsha Amarasekera has been appointed as the Chairman of the Colombo Port City Economic Commission.
-
-Demian Amal Cabral, Mohan Ray Abeywardena, Sanjaya Kulathunga and Dr. Harsha Subasinghe have been appointed as the other members of the group.. (A)
-
-◼️
-
-[Data](articles/b0ec990d.json)
-
-[Extended Data](ext_articles/b0ec990d.ext.json)
-
----
-
-### Beyond “Big Brother” : Reframing India-Sri Lanka Relations Under  President Dissanayake
-
-*2024-12-14 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85208) · `en`
-
-One side-effect of the polarizing effect of nationalism and populism around the world in recent years has been a decrease in the political stability and mandate enjoyed by incumbent regimes. From the erosion of nationalist hegemony in Malaysia or India to the rise of populism in the United States and pockets of Europe, swings in both directions have led to fragile coalitions, divided legislatures and a rise in uncertainty.
-
-...
-
-[Data](articles/befce525.json)
-
-[Extended Data](ext_articles/befce525.ext.json)
-
----
-
-### Yall. Aruchuna, who was logical with the authorities at the coordination meeting
-
-*2024-12-14 01:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201226) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-MPs question officials' education at meeting, sparking condemnation. Officials warn against insulting them, threatening to leave meetings. Hospital staff prepared to welcome MPs but oppose disruptive behavior.
-
-🟩
-
-As the Member of Parliament has been asked to question the educational qualifications of state officials, state officials have made their condemnation. They registered at the District Coordinating Committee meeting.
-
-Yall. When the District Coordinating Committee meeting was held at the District Secretariat on Friday (13), the projects were translated by state officials and explained the matter.
-
-He interrupted and asked the questions and questioned their educational status. At that time, some officials did not listen to his questions.
-
-Jaffna at the same time. Teaching Hospital Director. While commenting at Satyamurthy at the meeting,
-
-It is an insulting person who continues to mock state officials and to question their educational qualifications.. Some people who do this will be depressed and people will suffer the services.
-
-In addition, if state officials are insulted in meetings, the authorities will leave the meetings
-
-...
-
-[Data](articles/24225d7b.json)
-
-[Extended Data](ext_articles/24225d7b.ext.json)
-
----
-
-### Sri Lankan President Anura Kumara  Dissanayake  Undertakes his First State Visit Abroad After Winning the Presidency in September; Three Day Visit to India  from  December 15 to 17
-
-*2024-12-14 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85213) · `en`
-
-Sri Lankan President Anura Kumara Dissanayake will visit India from December 15 to 17, 2024, the foreign ministries of the two countries said on Friday (December 13, 2024), announcing his first state visit abroad since he won the presidency in September and his party swept the polls in the November general elections.
-
-During his visit to New Delhi, Mr. Dissanayake will meet President Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and “and other Indian dignitaries on a range of issues of mutual interest”, Sri Lanka’s Ministry of Foreign Affairs said in a statement on Friday (December 13, 2024).
-
-President Dissanayake is also scheduled to participate in a business event in New Delhi aimed at “promoting investment and commercial linkages between India and Sri Lanka” and later, travel to Bodh Gaya, as part of the visit, according to a statement issued by the Ministry of External Affairs.
-
-...
-
-[Data](articles/a5d04764.json)
-
-[Extended Data](ext_articles/a5d04764.ext.json)
 
 ---

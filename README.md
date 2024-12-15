@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 03:27:07**
+As of **2024-12-16 03:42:42**
 
 ## Newspaper Stats
 
-*Scraped **60,369** Articles*
+*Scraped **60,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 614
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
-dailyftlk | 4,170
+dailyftlk | 4,172
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
@@ -26,19 +26,65 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,348 (100.0%) of 60,369 articles have been extended.
+60,351 (100.0%) of 60,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### மீட்டியகொட மஹவத்த பகுதியில் துப்பாக்கிச் சூடு
+### SJB to propose Opposition nominee for post of Speaker
+
+*2024-12-16 03:29:30* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-propose-Opposition-nominee-for-post-of-Speaker/56-770566) · `en`
+
+SJB MP Nalin Bandara says nominee will be finalised today during a meeting
+
+Calls for MP Asoka Ranwala, who stepped down as Speaker, to resign from MP position as well
+
+Says SJB will also raise concerns with SLMC on academic qualifications of certain MPs
+
+The main Opposition party, the Samagi Jana Balawegaya (SJB), is set to propose a new Speaker representing the Opposition at the next Parliamentary session to replace Government MP Asoka Sapumal Ranwala, who stepped down from the position last week amidst a controversy over his academic credentials.
+
+SJB MP Nalin Bandara announced the party’s decision at a press conference in Colombo yesterday, where he also expressed concerns about recent developments in Parliament and governance across the country.
+
+...
+
+[Data](articles/5781de3e.json)
+
+---
+
+### France’s Europe and Foreign Affairs Secretary General visits SL for inauguration of Regional Centre for Maritime Studies
+
+*2024-12-16 03:28:31* · [`dailyftlk`](https://www.ft.lk/news/France-s-Europe-and-Foreign-Affairs-Secretary-General-visits-SL-for-inauguration-of-Regional-Centre-for-Maritime-Studies/56-770565) · `en`
+
+French Ministry for Europe and Foreign Affairs Secretary General Anne-Marie Descôtes undertook an official visit to Sri Lanka from 10-11 December to attend the inauguration of the Regional Centre for Maritime Studies at the General Sir John Kotelawala Defence University (KDU) on 11 December.
+
+The Regional Centre for Maritime Studies is a Sri Lanka-France bilateral initiative that aims to strengthen capacity and knowledge mainly in maritime safety and security. This collaboration demonstrates the shared interest of the two countries to strengthen cooperation in the maritime domain in the Indian Ocean, as Indian Ocean States and members of the Indian Ocean Rim Association (IORA).
+
+During her short visit, the Secretary General had a courtesy meeting with Foreign Minister Vijitha Herath at the Foreign Affairs Ministry. They welcomed the continued upward trajectory in the Franco-Sri Lanka bilateral partnership, strengthened through high-level engagements and new initiatives in the pipeline.
+
+...
+
+[Data](articles/af3a5442.json)
+
+---
+
+### Firing in the Mahawatta area
 
 *2024-12-16 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201383) · `ta`
+
+Here's a summary of "Firing in the Mahawatta area" in approximately 200 characters:
+
+
+
+A fire broke out in the Mahawatta area, causing panic among residents. Firefighters rushed to the scene and brought the blaze under control within hours. No casualties were reported, but several buildings sustained damage. The cause of the fire remains unknown as investigations continue. Local authorities have issued safety advisories and are monitoring the situation closely.
+
+🟩
 
 ◼️
 
 [Data](articles/e4f67de2.json)
+
+[Extended Data](ext_articles/e4f67de2.ext.json)
 
 ---
 
@@ -58,37 +104,51 @@ The purpose of education should be to develop creative capital and not mere huma
 
 ---
 
-### வருமான வரி செலுத்தாதவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் - உள்ளாட்டு இறைவரி திணைக்கள ஆணையாளர்
+### Legal action will be taken against those who do not pay income tax -Commissioner of the Department
 
 *2024-12-16 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201382) · `ta`
 
-2023, 2024 மதிப்பீட்டு வருடத்தின் எஞ்சிய வரி பணத்தை எதிர்வரும் 26ஆம் திகதிக்கு முன்னர் செலுத்துமாறு உள்ளாட்டு இறைவரித் திணைக்களம் அறிவித்துள்ளது. குறித்த திகதிக்கு முன்னர் வரி பணம் செலுத்த தவறும் நபர்கள் மற்றும் நிறுவனங்களுக்கு எந்த நிவாரணமும் வழங்கப்படாது என திணைக்களத்தின் ஆணையாளர் சேபாலிகா சந்திரசேகர தெரிவித்துள்ளார்.
+Tax deadline: Pay by 26th or face legal action in Jan 2025. No exemptions. Unpaid taxes may be withdrawn from bank accounts without notice.
 
-இதுவரை செலுத்தாத சுய மதிப்பீட்டு வரி மற்றும் எஞ்சிய வரி பணத்தை அறவிடுவதற்காக கள ஆய்வு மற்றும் உள்நாட்டு இறைவரி கட்டளை சட்டங்களின் பிரகாரம் சட்ட ரீதியில் நடவடிக்கை எடுப்பதற்கு ஆரம்பிக்கப்பட்டுள்ளது.அவர்களுக்கு எதிராக 2025 ஜனவரி மாதத்தில் சட்ட நடவடிக்கை எடுக்கப்படும் எனவும் ஆணையாளர் தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன் எஞ்சிய வருமான வரி பணம் செலுத்தாத நபர்களுக்கு முன் அறிவிப்பின்றி அவர்களின்  வங்கி கணக்குகளில் இருந்து பணத்தை அறவிட நடவடிக்கை எடுக்கப்படும். இதற்கு மேலதிகமாக அவர்கள் செலுத்த வேண்டிய மீதமுள்ள வரி பணத்தின் அளவுக்கமைய குற்றவியல் வழக்கு தொடுப்பதற்கு நடவடிக்கை எடுப்பதாகவும் ஆணையாளர் தெரிவித்துள்ளார்.
+The Department of Internal Revenue has announced that the remaining tax of the estimated year 2023, 2024 will be paid before the 26th of this month.. The Commissioner of the Department, Sebalika Chandrasekara, said that no relief will be given to persons and companies who fail to pay tax before the date.
+
+The Commissioner said that legal action will be taken against them in January 2025, according to the field inspection and the LTTE commands for the sale of self -assessment tax and remaining tax money.
+
+As well as those who do not pay the remaining income tax, action will be taken from their bank accounts without notice. In addition, the Commissioner said that the remaining tax money should be paid to the criminal case.
 
 ◼️
 
 [Data](articles/f10b0735.json)
 
+[Extended Data](ext_articles/f10b0735.ext.json)
+
 ---
 
-### மீனவர்கள் நேரில் சந்திப்பது இதுவரை நடைபெறவில்லை; அவ்வாறு இடம்பெறுமாயின் பல பிரச்சினைகளுக்கு தீர்வு காண முடியும் -  இந்திய உயர் ஸ்தானிகராலயத்தின் துணைத்தூதுவர் சாய் முரளி
+### Fishermen meet in person;If this happens, many problems can be solved -Sai Murali, Vice -President of the Indian High Commission
 
 *2024-12-16 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/201381) · `ta`
 
-மீனவர்கள் நேரில் சந்திப்பது இதுவரை நடைபெறவில்லை. அது இடம்பெறுமாயின் பல பிரச்சினைகளுக்கு தீர்வு காண முடியும் என இந்திய உயர் ஸ்தானிகராலயத்தின் யாழ்ப்பாணம் துணைத்தூதுவர் சாய் முரளி இவ்வாறு தெரிவித்தார்.
+Fishermen meeting solves problems: Sai Murali, Indian High Commission.
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயத்தின் பெரும் பங்களிப்புடன் மிஸ்பா ஜெப மிஷனரி ஆலயத்தின் ஏற்பாட்டில் சனிக்கிழமை (14.12.2024 முல்லைத்தீவு முள்ளியவளையில் மாபெரும் நத்தார் பெருவிழா இடம்பெற்றிருந்தது. நிகழ்வின் பின்னர் இடம்பெற்ற ஊடக சந்திப்பின் போது கருத்து தெரிவிக்கையிலே இவ்வாறு தெரிவித்தார்,
+🟩
 
-இந்திய மக்கள் சார்பாக மிஸ்பா ஜெப மிஷனரி ஆலய மாணவர்களுக்கு இந்திய மக்கள் சார்பாக கலந்து கொண்டு உதவித்திட்டங்களை வழங்குவதில் பெருமையடைகிறேன்.
+Fishermen meet in person. Sai Murali, Vice -Chancellor of the Indian High Commission, said that if it happens, many problems can be solved.
 
-இந்திய அரசாங்கத்தினால் ஆரம்பிக்கப்பட்ட பல திட்டங்களில் குறிப்பாக வடக்கு, கிழக்கு மாகாணத்திலுள்ள மக்களுக்கு ஆதரவாக மேலும் யாழ்ப்பாண பல்கலைக்கழகம், கிழக்கு பல்கலைக்கழகம் சம்பந்தமான திட்டங்களும் அண்மையில் ஆரம்பிக்கப்பட்டிருக்கிறது
+The Great Natural Festival was held on Saturday (14.12.2024 Mullaitivu Mulliyawalai under the arrangement of the Misbah Prayer Mission Temple with the great contribution to the Indian High Commission for Sri Lanka.. He said this during a media briefing after the event.
+
+I am proud to attend the Misbah Prayer Missionary Temple on behalf of the Indian people on behalf of the Indian people.
+
+The Jaffna University and Eastern University have recently launched a number of projects launched by the Government of India, especially in support of the people in the Northern and Eastern Province.
+
+Sri Lankan President India travels today. You can stay there and expect a number of projects related to Sri Lanka. Many of the projects in particular are expected in the North and East.
 
 ...
 
 [Data](articles/1409369a.json)
+
+[Extended Data](ext_articles/1409369a.ext.json)
 
 ---
 
@@ -2299,53 +2359,5 @@ Speaker Ashoka Ranwala was aware of the controversy over his doctorate on Friday
 [Data](articles/a721b412.json)
 
 [Extended Data](ext_articles/a721b412.ext.json)
-
----
-
-### Over 300 traders sold in control over 300 traders
-
-*2024-12-15 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204394) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Over 300 traders involved in illegal activities were arrested. Director Asela Bandara announced the arrests on the 10th. Prosecution begins tomorrow."
-
-🟩
-
-Over 300 traders have been caught in the law, have been caught in the law.
-
-The Authority Director Asela Bandara said that the group was arrested on the 10th to date.
-
-He further stated that the prosecution will commence from tomorrow.
-
-◼️
-
-[Data](articles/b1df58d5.json)
-
-[Extended Data](ext_articles/b1df58d5.ext.json)
-
----
-
-### Mustafabu for Syrian regime change in Iran?
-
-*2024-12-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201335) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Mustafa Bu for Syrian regime change in Iran? Threats to the West, especially Israel, are decreasing as opposing forces are being eliminated from the battlefield.
-
-🟩
-
-It is clearly observed that the forces that are threatening the West, especially Israel, are being removed from the field.
-
-◼️
-
-[Data](articles/e740ce54.json)
-
-[Extended Data](ext_articles/e740ce54.ext.json)
 
 ---

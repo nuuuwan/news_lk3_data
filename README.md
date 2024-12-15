@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 15:42:59**
+As of **2024-12-15 16:01:38**
 
 ## Newspaper Stats
 
-*Scraped **60,289** Articles*
+*Scraped **60,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,721
+adalk | 5,722
 adaderanalk | 7,345
 tamilmirrorlk | 8,616
 virakesarilk | 9,915
@@ -26,57 +26,83 @@ adaderanasinhalalk | 10,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,253 (99.9%) of 60,289 articles have been extended.
+60,256 (99.9%) of 60,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### පුවත් නාළිකාවකින් ට්‍රම්ප්ට වන්දියක්
+### Tarm fleet from a newsletter
 
 *2024-12-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204397) · `si`
 
-තේරීපත්ව සිටින අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට එරෙහිව අසත්‍ය ප්‍රකාශ වාර්තා කළ බවට අධිකරණයේ පැවති නඩුවක් සමථයට පත්කරගැනීමට ඔහුට දැවැන්ත වන්දියක් පිරිනැමීමට ලෝකප්‍රකට ABC පුවත් නාළිකාව එකඟ වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව ඔවුන් ට්‍රම්ප් වෙත ලබාදීමට එකඟව ඇති වන්දිය අමෙරිකානු ඩොලර් මිලියන 15කි.
 
-පසුගිය මාර්තු 10 වැනිදා පැවති රූපවාහිනී සාකච්ඡාවක් අතරතුර ජෝර්ජ් ස්ටෙෆනොපොලිස්, ට්‍රම්ප් යනු ස්ත්‍රී දූෂණයට වගකිව යුතු අයෙක් බවට අපරික්ෂාකාරීව ප්‍රකාශ කර තිබුණි.
 
-වන්දියට අමතරව ඔහු කළ ප්‍රකාශය සම්බන්ධයෙන් පෞද්ගලිකව කණගාටුව පළකරන විශේෂ ප්‍රකාශයක් ද ABC නාළිකාවේ විකාශ කිරීම නියමිතයි.
+Global news channel agrees to pay $15 million to settle false statements against Donald Trump. Compensation follows TV appearance where host George Stephanopoulos made controversial remarks about rape. ABC issues special statement regarding the incident.
+
+🟩
+
+The global news channel has agreed to give a large number of compensation to resolution false statements against the US president of Donald Tram.
+
+Accordingly, the compensation they agreed to provide to Trump is US $ 15 million.
+
+During a television discussion on March 10, George Stephenpolis had expressed inspired by a person responsible for rape.
+
+ABC channel is also a special statement expressed in person regarding the statement made by his statement.
 
 ◼️
 
 [Data](articles/13281602.json)
 
+[Extended Data](ext_articles/13281602.ext.json)
+
 ---
 
-### தமி­ழர்­களின் அர­சியல் கோட்­டையில்  சிங்­களக் கட்­சியின் வெற்றி கதை
+### The Sinhalese party's success story in the political fortress of Tamils
 
 *2024-12-15 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201348) · `ta`
 
-பல மூத்த அர­சி­யல்­வா­திகள் பாரா­ளு­மன்­றத்­தி­லி­ருந்து வெளி­யே­று­வதும், புதிய பாரா­ளு­மன்ற உறுப்­பி­னர்கள் பத­வி­யேற்­பதும் நாடு முழு­வதும் சமூக, அர­சியல் மற்றும் பொரு­ளா­தார மாற்­றத்­திற்­கான வலு­வான விருப்­பத்தை குறிக்­கி­றது. மக்கள் தங்கள் இனம், மதம், பாலினம் மற்றும் வயது ஆகி­ய­வற்றை மீறி, தேசிய மக்கள் சக்­திக்கு அதன் உறு­தி­மொ­ழி­களை நிறை­வேற்­று­வ­தற்­கான ஆணையை வழங்­கு­வதன் மூலம் தனித்­து­வ­மான மற்றும் முன்­னோ­டி­யில்­லாத வழி­களில் ஒன்றுபட்டுள்ளனர்.
+Sinhalese party gains in Tamil stronghold. Senior politicians leave, new faces enter. Strong desire for social, political, economic change nationwide. Unity across races, religions, genders, ages. Promise to empower national people's power.
+
+🟩
+
+Many senior politicians leaving parliament and new parliamentarians are the stronger desire for social, political and economic change across the country. People are united in unique and unprecedented ways, despite their race, religion, gender and age, by giving a decree to fulfill its promises to the national people's power.
 
 ◼️
 
 [Data](articles/9d0a9e7a.json)
 
+[Extended Data](ext_articles/9d0a9e7a.ext.json)
+
 ---
 
-### බදු ගෙවීම සම්බන්ධව විශේෂ නිවේදනයක්
+### Special announcement on pay tax
 
 *2024-12-15 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204396) · `si`
 
-2024 වසරේ නොවැම්බර් මාසයට අදාළ එකතු කළ අගයම මත බද්ද සහ සමාජ ආරක්ෂණ දායකත්ව බද්ද ගෙවීම සම්බන්ධව දේශීය ආදායම් දෙපාර්තමේන්තුව විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary in 200 characters:
 
-එහි සඳහන්ව ඇත්තේ 2023/2024 තක්සේරු වර්ෂයේ ආදායම් බදු වාර්තා මත ගෙවිය යුතු බද්ද තවදුරටත් ගෙවීමට අතපසු වී ඇත්නම් එය දෙසැම්බර් මස 26 වන දිනට පෙර ගෙවීමට කටයුතු කරන ලෙසය.
 
-එමෙන්ම ඕනෑම බදු වර්ගයකට අදාළව ගෙවිය යුතු ස්ව-තක්සේරු මත බදු, හිඟ බදු හෝ එකඟ වූ අතිරේක තක්සේරු මත බදු මුදල් දෙසැම්බර් 26 වැනි දිනට පෙර ගෙවීමට අපොහොසත් වන්නේ නම් ඒ සඳහා දඩ සහනයක් ලබා ගත නොහැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
 
-තවද දැනටමත් නොගෙවූ ස්ව-තක්සේරු බදු හා හිඟ බදු අය කරගැනීම සඳහා ක්ෂේත්‍ර සමීක්ෂණ කටයුතු හා දේශීය ආදායම් අණ පනත් අනුව නීති කටයුතු කිරීම ආරම්භ කර ඇති බවත් එම දෙපාර්තමේන්තුව අදාළ නිවේදනය මගින් දැනුම් දී තිබේ.
+"Pay tax notice: Income tax returns from Nov 2024 must be settled by Dec 26. Failure to pay may lead to legal action under Inland Revenue Ordinances."
+
+🟩
+
+The Department of Inland Revenue has issued a special announcement regarding the value of appreciation for November 2024.
+
+It is stated that if the income tax returns of the Valuation Year has not been able to pay further, it will be taken to pay before December 26.
+
+The Department says that if taxes will be paid on December 26, the Department says that if taxes are failing to pay taxes on the reserves, taxes or agreed taxes due to the additional taxes or agreed taxes due to any tax.
+
+The Department has initiated legal action on field surveys and the Inland Revenue Ordinances to recover unpaid self-assessment tax and arrears.
 
 ◼️
 
 [Data](articles/ec6aa858.json)
+
+[Extended Data](ext_articles/ec6aa858.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 11:26:40**
+As of **2024-12-15 11:01:05**
 
 ## Newspaper Stats
 
-*Scraped **60,224** Articles*
+*Scraped **60,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,715
 adaderanalk | 7,335
-tamilmirrorlk | 8,611
+tamilmirrorlk | 8,610
 virakesarilk | 9,883
 adaderanasinhalalk | 10,415
 
@@ -26,37 +26,11 @@ adaderanasinhalalk | 10,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,216 (100.0%) of 60,224 articles have been extended.
+60,214 (100.0%) of 60,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
-
-### Another survival of the mysterious fever in Jaffna
-
-*2024-12-15 11:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-மர்மக்-காய்ச்சலால்-மற்றுமொரு-உயிர்-பறிபோனது/175-348738) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mysterious fever outbreak in Jaffna claims another victim. A 23-year-old youth from Karavetti died after 5-day hospitalization. Admitted to Point Pedro Hospital, transferred to Teaching Hospital but succumbed to illness. Cause remains unclear.
-
-🟩
-
-A youth who was suspected of being a mud in Jaffna and admitted for 3 days in the intensive care unit died yesterday (14).
-
-A 23 -year -old youth from Karavetti, Jaffna died without treatment.
-
-He was admitted to the Point Pedro Hospital for 5 days with a fever and immediately felt the serious condition of the disease that day.. Death was sent to the Teaching Hospital for further treatment. Remble
-
-◼️
-
-[Data](articles/d21e0b85.json)
-
-[Extended Data](ext_articles/d21e0b85.ext.json)
-
----
 
 ### The President is going to India
 
@@ -82,33 +56,19 @@ President Anura Kumara Dissanayake will also attend a trade event in Delhi with 
 
 ---
 
-### Maduru Oya Army cannot stop sand racket at right bank
+### මාදුරුඔය දකුණු ඉවුරේ වැලි ජාවාරම හමුදාවටත් නවත්වන්න බැරි වෙලා
 
 *2024-12-15 09:57:35* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-දකුණු-ඉවුරේ-වැලි-ජාවාරම-හමුදාවටත්-නවත්වන්න-බැරි-වෙලා/11-413633) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+පොළොන්නරුව මාදුරුඔය දකුණු ඉවුර ප්‍රදේශයේ සිදුවන හා පරිමාණ වැලි ජාවාරමට ශ්‍රී ලංකා මහවැලි අධිකායේ ආරක්ෂක අංශ මෙන්ම පොලිසිය සම්පූර්ණයෙන්ම වගකිවයුතු බවත්, එම ජාවාරමට මහවැලි ආරක්ෂක අංශය සහ ඇතැම් පොලිස් නිලධාරීන් සහයෝගය ලබාදෙන බවත් ජාතික ජන බලවේගයේ පොළොන්නරුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, නිවාස සංවර්ධන නියෝජ්‍ය අමාත්‍ය ටී.බී සරත් මහතා සඳහන් කළේය.
 
+යුද හමුදාවට පවා ජාවාරම මැඩලීමට නොහැකි මට්ටමට පත්ව ඇති හෙයින්, මාදුරුඔය  වැලි ජාවාරම්කරුවන් අත්අඩංගුවට ගෙන ඔවුන්ට විරුද්ධව නීතිය ක්‍රියාත්මක කිරීමට පොලිසිය මැලි වන්නේ නම් ඊට අනුබල දෙන සියලු නිලධාරීන් ජනවාරියේ සිට මාරුවීම් ලබාදීමට පසුබට නොවන බවද ඔහු පැවැසීය.
 
-
-Maduru Oya Army fails to stop sand racket. Police Chief blames army for inaction. Deputy Minister vows to crack down on drugs & corruption. Calls for stronger law enforcement against racketeers.
-
-🟩
-
-Sri Lanka Mahaweli Chief of Police and the Police are fully responsible for the racket of the Mahaweli Security and some police officers in the South Right Railway in the Maduru Oya South Bank area.He said.
-
-He added that if the army is unable to suppress the racket, he said that if the police fell to and enforce law against them, all the officers would not hesitate to offer transfers from January.
-
-The Deputy Minister said that the police would immediately take the immediate action to suppress the cannabis, heroin, ice drugs, and there is no obstruction to the arrest of a person involved in the drug.
-
-Mr. Sarath said that if the criminals are arrested and unable to enforce law, he will be able to inform him and the implementation of law enforcement officers will be used to inform him.
-
-Speaking at the District Development Committee meeting held at the Polonnaruwa District Secretariat on the 13th.
+ගංජා, හෙරොයින්, අයිස්  මත්ද්‍රව්‍ය, ජාවාරම් පොළොන්නරුව දිස්ත්‍රික්කයේ බහුල වශයෙන් සිදුවන නිසා, ඒවා මර්දනය කිරීමට පොලිසිය වහාම පියවර ගන්නා ලෙසත්, මත්ද්‍රව්‍ය වලට සම්බන්ධ තම පක්ෂයේ යම් පුද්ගලයෙකු සිටී නම් ඔවුන් අත්අඩංගුවට ගැනීමට කිසිදු බාධාවක් නොවන බවත් නියෝජ්‍ය අමාත්‍යවරයා පැවැසිය.
 
 ...
 
 [Data](articles/bbd4a248.json)
-
-[Extended Data](ext_articles/bbd4a248.ext.json)
 
 ---
 
@@ -2465,5 +2425,29 @@ Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
 [Data](articles/1e61aa37.json)
 
 [Extended Data](ext_articles/1e61aa37.ext.json)
+
+---
+
+### Man arrested with explosives
+
+*2024-12-14 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204361) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Police arrest man with explosives near Poona Junction. Found with 150g ammonium and 1 detonator stick during inspection. Incident occurred yesterday morning.
+
+🟩
+
+A suspicious group of police officers have been inspected by a team of police officers near the Poona Junction of the Poona junction in the morning yesterday.
+
+He had a service string, 150 grams of ammonium and 1 glagnite sticks.
+
+◼️
+
+[Data](articles/2210c6b2.json)
+
+[Extended Data](ext_articles/2210c6b2.ext.json)
 
 ---

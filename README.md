@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 04:42:54**
+As of **2024-12-16 05:27:02**
 
 ## Newspaper Stats
 
-*Scraped **60,372** Articles*
+*Scraped **60,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 614
 bbccomsinhala | 633
-islandlk | 3,646
+islandlk | 3,647
 economynextcom | 3,671
-dailyftlk | 4,173
+dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,356 (100.0%) of 60,372 articles have been extended.
+60,360 (100.0%) of 60,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### Building ‘generational companies’ through Japanese business practices
+
+*2024-12-16 04:23:38* · [`dailyftlk`](https://www.ft.lk/columns/Building-generational-companies-through-Japanese-business-practices/4-770576) · `en`
+
+Japanese long-lived companies are pioneers, consistently challenging conventional wisdom to deliver solutions that resonate with customers
+
+A thought-provoking seminar on ‘Building generational companies using Japanese practices’ captivated an audience of entrepreneurs, family business owners, and corporate professionals. Prof. Keiichi Tao, a seasoned expert in Japanese business philosophy, led the seminar, unveiling the secrets behind Japan’s remarkable legacy of long-lived companies. The event explored key themes such as the significance of mission-driven leadership, innovative adaptability, and the integration of community values into business operations.
+
+...
+
+[Data](articles/6209b075.json)
+
+[Extended Data](ext_articles/6209b075.ext.json)
+
+---
+
+### Strategic thinking to corporate success in a challenging world
+
+*2024-12-16 04:19:09* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-thinking-to-corporate-success-in-a-challenging-world/4-770575) · `en`
+
+Realistic decision-makers base their choices on facts and strategic alignment with the company’s aims
+
+In today’s highly competitive marketplace, company success is dependent on the capacity of management to respond to corporate challenges which require strategic thinking. This entails not just imagining long-term goals that are consistent with an organisation’s mission, but also spotting market possibilities and risks. Strategic thinking necessitates a thorough knowledge of market trends, competitive dynamics, and internal strengths and limitations (Goldman, 2012). Nevertheless, many leaders pursue strategic thinking with an idealistic perspective, developing unrealistic approaches to company difficulties. As a result, solutions may be impractical and fail to successfully address real-world problems.
+
+...
+
+[Data](articles/b9b8d72c.json)
+
+[Extended Data](ext_articles/b9b8d72c.ext.json)
+
+---
 
 ### Leading female entrepreneurialism with empathy
 
@@ -568,21 +600,33 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 
 ---
 
-### பத்தாவது பாராளுமன்றத்தின் புதிய சபாநாயகர் தெரிவு
+### New Speaker of the Tenth Parliament
 
 *2024-12-15 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201359) · `ta`
 
-பத்தாவது பாராளுமன்றத்தின் புதிய சபாநாயகர் தெரிவு  செவ்வாய்க்கிழமை (17) இடம்பெறவுள்ளது. சபாநாயகர் பதவிக்கு ஆளும் கட்சியான தேசிய மக்கள் சக்தி சார்பில் மூவரின் பெயர்கள் பரிந்துரைக்கப்பட்டுள்ள நிலையில்,  பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி சபாநாயகர் பதவிக்கு முன்மொழிவதாக குறிப்பிட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-கல்வி தகைமை விவகாரத்தில் எழுந்த கடும் சர்ச்சையை தொடர்ந்து பத்தாவது பாராளுமன்றத்தில் சபாநாயகராக தெரிவு செய்யப்பட்ட அசோக்க சபுமல் ரன்வல கடந்த வெள்ளிக்கிழமை (13) தனது பதவியை இராஜினாமா செய்தார்.
 
-சபாநாயகரின் பதவி விலகலை ஜனாதிபதி ஏற்றுக்கொண்டதாக ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக குணநாயக்க பாராளுமன்ற செயலாளர் நாயகம் சட்டத்தரணி குஷானி ரோஹனதீரவுக்கு உத்தியோகபூர்வமாக  சனிக்கிழமை (14) அறிவித்துள்ளார்.
 
-இதற்கமைய சிறந்த மற்றும் சிரேஷ்டத்துவமிக்க ஒருவரை புதிய சபாநாயகராக தெரிவு செய்ய அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளது.
+New Speaker election in 10th Parliament on Tuesday. Three nominees: Nihal Kalaththi, Lakshman Y4:0, Mohamed Rizvi Sali. Ashoka Sabumal Ranwala resigned due to qualification controversy. Government prioritizes experienced candidate. JVP monitoring MP behavior after election.
+
+🟩
+
+The new Speaker of the Tenth Parliament will be held on Tuesday (17). The name of the trio has been nominated on behalf of the ruling party, the ruling party, the main opposition party, the main opposition party, which is proposing the post of Speaker.
+
+Ashoka Sabumal Ranwala, who was elected as Speaker in the Tenth Parliament following the fierce controversy over the education qualifications, resigned from his post last Friday (13).
+
+President of the President, Dr. Nandika Gunanayake, has officially announced to the Attorney General Kushani Rohanadeera on Saturday that the President has accepted the resignation of the Speaker.
+
+The government has paid special attention to the election of the new Speaker of the best and senior.
+
+The names of the senior members of the ruling party, Nihal Kalathathi and Lakshman expert, and the names of Deputy Speaker Mohamed Rizvi Sali have been nominated for the post of Speaker. However, the final decision has not been made.
 
 ...
 
 [Data](articles/aea09573.json)
+
+[Extended Data](ext_articles/aea09573.ext.json)
 
 ---
 
@@ -929,6 +973,8 @@ He is accompanied by Foreign Minister Vijitha Herath and Deputy Finance Minister
 ◼️
 
 [Data](articles/f3e51bbe.json)
+
+[Extended Data](ext_articles/f3e51bbe.ext.json)
 
 ---
 
@@ -2337,49 +2383,5 @@ Syria's civil war is the worst humanitarian crisis of our time. More than half o
 [Data](articles/249363da.json)
 
 [Extended Data](ext_articles/249363da.ext.json)
-
----
-
-### Syria standing in a decisive junction on political journey
-
-*2024-12-15 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201337) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Syria faces challenges uniting diverse ethnic and religious groups. Rebuilding requires strong governance to overcome regional divisions and create a unified national identity.
-
-🟩
-
-It is not easy to build Syria as a nation and bring back the old state. Based on the basis of ethnic and religious sects and regional divisive people, the governance administration that can unite.
-
-◼️
-
-[Data](articles/d7f0c313.json)
-
-[Extended Data](ext_articles/d7f0c313.ext.json)
-
----
-
-### From coconut to doctor
-
-*2024-12-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201336) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Coconut to Doctor": Political corruption persists despite control measures. Traders, officials, and citizens struggle within outdated systems.
-
-🟩
-
-Although political mafia are controlled, traders, officials and even the general public are still drowning in the old system.
-
-◼️
-
-[Data](articles/8d3cab10.json)
-
-[Extended Data](ext_articles/8d3cab10.ext.json)
 
 ---

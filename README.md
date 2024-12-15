@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 21:12:58**
+As of **2024-12-15 21:42:48**
 
 ## Newspaper Stats
 
-*Scraped **60,327** Articles*
+*Scraped **60,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,729
+adalk | 5,730
 adaderanalk | 7,350
 tamilmirrorlk | 8,620
 virakesarilk | 9,928
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,311 (100.0%) of 60,327 articles have been extended.
+60,313 (100.0%) of 60,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -187,6 +187,34 @@ Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Minister o
 [Data](articles/6eb39ec1.json)
 
 [Extended Data](ext_articles/6eb39ec1.ext.json)
+
+---
+
+### Eight drugs are reduced by use of quality
+
+*2024-12-15 18:33:15* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-අටක-ගුණාත්මකභාවය-අඩුවීම-නිසා-භාවිතයෙන්-ඉවතට/11-413657) · `si`
+
+Eight drugs quality reduced: UPFA claims removal due to failure. Chamal Sanjeewa criticizes import shortages. Government urged to address issue and recover losses from responsible companies. Unexpected antibiotics mentioned, linked to Gotabhaya Rajapaksa's tenure. Continuous medication concerns raised.
+
+🟩
+
+According to medical and civil rights, the UPFA says that the quality of eight medicines (Quality Failure has been removed last week.
+
+Chamal Sanjeewa said that the Chamal Sanjeewa said that a portion of the Association of Eight Pharmaceuticals, Culcium Glucoconate, and Cindamicine pharmacies.
+
+He said several types of these drugs imported during the last governance and that there would be two companies and the shortage of these drugs could occur.
+
+He said that the current government should pay attention to this and that the losses should be recovered from the relevant companies.
+
+He said that there were many unexpected antibiotic drugs between these removed drugs and the higher positions in some parts of Gotabhaya Rajapaksa.
+
+It is said that continuous medications related to continuous medications are being opened and the current government should take the necessary action.
+
+◼️
+
+[Data](articles/a71ac69a.json)
+
+[Extended Data](ext_articles/a71ac69a.ext.json)
 
 ---
 
@@ -2320,6 +2348,8 @@ No buildings or lodging or boutique, whether permanent or temporary, shall be co
 
 [Data](articles/fe584540.json)
 
+[Extended Data](ext_articles/fe584540.ext.json)
+
 ---
 
 ### ට්‍රැක්ටර් රථයට යටවී ගොවිපොළේ වැඩ පරීක්ෂක අවසන් ගමන් යයි
@@ -2421,35 +2451,5 @@ President Anura Kumara Dissanayake will also attend a trade event in Delhi with 
 ◼️
 
 [Data](articles/c238e69c.json)
-
----
-
-### Maduru Oya Army cannot stop sand racket at right bank
-
-*2024-12-15 09:57:35* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-දකුණු-ඉවුරේ-වැලි-ජාවාරම-හමුදාවටත්-නවත්වන්න-බැරි-වෙලා/11-413633) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Maduru Oya Army fails to stop sand racket. Police Chief blames army for inaction. Deputy Minister vows to crack down on drugs & corruption. Calls for stronger law enforcement against racketeers.
-
-🟩
-
-Sri Lanka Mahaweli Chief of Police and the Police are fully responsible for the racket of the Mahaweli Security and some police officers in the South Right Railway in the Maduru Oya South Bank area.He said.
-
-He added that if the army is unable to suppress the racket, he said that if the police fell to and enforce law against them, all the officers would not hesitate to offer transfers from January.
-
-The Deputy Minister said that the police would immediately take the immediate action to suppress the cannabis, heroin, ice drugs, and there is no obstruction to the arrest of a person involved in the drug.
-
-Mr. Sarath said that if the criminals are arrested and unable to enforce law, he will be able to inform him and the implementation of law enforcement officers will be used to inform him.
-
-Speaking at the District Development Committee meeting held at the Polonnaruwa District Secretariat on the 13th.
-
-...
-
-[Data](articles/bbd4a248.json)
-
-[Extended Data](ext_articles/bbd4a248.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 11:43:25**
+As of **2024-12-15 12:02:49**
 
 ## Newspaper Stats
 
-*Scraped **60,227** Articles*
+*Scraped **60,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,96 @@ economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,716
-adaderanalk | 7,335
+adaderanalk | 7,338
 tamilmirrorlk | 8,612
 virakesarilk | 9,883
-adaderanasinhalalk | 10,415
+adaderanasinhalalk | 10,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,217 (100.0%) of 60,227 articles have been extended.
+60,220 (100.0%) of 60,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### மன்னார் மறை மாவட்டத்திற்கு புதிய ஆயர் நியமனம்
+### කථානායක ධුරයට විපක්ෂයෙනුත් නමක්
+
+*2024-12-15 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204391) · `si`
+
+කථානායක ධුරය සඳහා විපක්ෂයෙන් නමක් යෝජනා කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ අද (15) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින්ය.
+
+එළැඹෙන 17 රැස්වීමට නියමිත පාර්ලිමේන්තු රැස්වීමේදී මෙම නම යෝජනා කරන බව පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා සඳහන් කළේය.
+
+"වගකිවයුතු පක්ෂයක් විදිහට ජනතා විමුක්ති පෙරමුණ කටයුතු කරන්න ඕනේ. පැහැදිලිවම කථානායකවරයා ධුරයෙන් ඉල්ලා අස්වෙලා විතරක් ප්‍රමාණවත් නැහැ. මේ අය කරලා තියෙන්නේ රටේ ජනතාව නොමඟ යවලා තියෙන්නේ. හරි විදිහට ඔහුගේ මන්ත්‍රී ධුරයෙන් පවා ඉවත්වෙන්න ඕනේ. ඒ සම්බන්ධයෙන් අපේ බරපතළ විවේචනයක් තියෙනවා. අපි බලාපොරොත්තු වෙනවා අඟහරුවාද දිනයේදී අපෙනුත් කථානයකවරයෙක් යෝජනාකරන්න. මොකද අපිට විශ්වාසයක් නැහැ ඊළඟට කථානායක විදිහට මාලිමාවෙන් නම්කරන පුද්ගලයාගේ සුදුසුකම් හෝ විශ්වාසය පිළිබඳ. ඒ පිළිබදව බරපතළ සැකයක් තියෙනවා. ඊළඟ සැරෙත් අපිට රැවටෙන්න බැහැ. අපිත් රැවටිලා ඒයාට සහායෝගය දුන්නානේ. ඒ නිසා අනිවාර්යෙන් අපි මීළග පාර්ලිමේන්තු දවසේ විපක්ෂයේ නමකුත් යෝජනා වෙනවා. හැබැයි ඒ යෝජනාකරන කෙනාගේ බොරු අධ්‍යාපන සහතික නෑ."
+
+...
+
+[Data](articles/e9838c73.json)
+
+---
+
+### රාජාංගන සහ අංගම ජලාශයේ වාන් දොරටු විවෘත කෙරේ
+
+*2024-12-15 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204390) · `si`
+
+ඇද හැළෙන අධික වැසි හමුවේ රාජාංගනය ජලාශයේ වාන් දොරටු හතරක් විවෘත කිරීමට පියවර ගෙන තිබේ.
+
+එක් වාන් දොරටු දෙකක් අඩි දෙක බැගින් ද අනෙක් වාන් දොරටු දෙක අඩි තුන බැගින්ද විවෘත කිරීමට පියවර ගෙන ඇත.
+
+මෙයින් තත්ත්පරේට ගණ අඩි 3775ක් කලා ඔයට මුදා හැරෙන බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+අඩි එක බැගින් විවෘත කර ඇති මෙම වාන් දොරටු හරහා තත්ත්පරයට ගණ අඩි 600ක් කලා ඔයට මුදා හැරෙනු ඇත.
+
+◼️
+
+[Data](articles/38008271.json)
+
+---
+
+### New Bishop Appointment to Mannar Hide District
 
 *2024-12-15 11:26:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-மறை-மாவட்டத்திற்கு-புதிய-ஆயர்-நியமனம்/175-348739) · `ta`
 
-மறைமாவட்ட ஆயர் பணியிலிருந்து பிஷப் பிடெலிஸ் லயனல் இம்மானுவேல் பெர்னாண்டோ விலகியதையடுத்து, திருத்தந்தை பிரான்சிஸ் அவர்கள் மன்னாரின் புதிய ஆயராக வணக்கத்திற்குரிய ஞானப்பிரகாசம் அந்தோணிப்பிள்ளையை உத்தியோகபூர்வமாக நியமித்துள்ளார்.
+Here's a summary of 200 characters:
 
-மன்னார் மறைமாவட்டத்தில் அர்ப்பணிப்புள்ள அங்கத்தவராக விளங்கிய திருத்தந்தை  ஞானப்பிரகாசம் அந்தோணிப்பிள்ளை 1994 ஆம் ஆண்டு குருத்துவம் பெற்றதிலிருந்து பல்வேறு பதவிகளில் பணியாற்றியுள்ளார்.
+
+
+Pope Francis appoints Antony Pillai as new Mannar bishop. Pillai, a dedicated diocese member since 1994, succeeds Bishop Fidelis Lionel Emmanuel Fernando.
+
+🟩
+
+After the Bishop Fidelis Lionel Emmanuel Fernando withdrew from the diocese of the diocese, Pope Francis has officially appointed Antony Pillai as the new bishop of Mannar.
+
+Pope Gnanaprakasam Anthony Pillai, who was a dedicated member of the Diocese of Mannar, has served in various positions since the acquisition of 1994.
 
 ◼️
 
 [Data](articles/97b65e8b.json)
+
+[Extended Data](ext_articles/97b65e8b.ext.json)
+
+---
+
+### Suspect arrested over defrauding money promising foreign employment
+
+*2024-12-15 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104249/suspect-arrested-over-defrauding-money-promising-foreign-employment-) · `en`
+
+Hakmana Police have arrested a suspect involved in defrauding money from several individuals by promising foreign employment opportunities.
+
+The suspect was arrested yesterday (14) in the Kinniya Police Division in connection with 09 complaints received by Hakmana Police regarding the fraud.
+
+The arrested suspect is a 36-year-old resident of the Puhulwella area, the police mentioned.
+
+Police said that the investigation revealed that the suspect has defrauded over Rs. 4.3 million.
+
+◼️
+
+[Data](articles/7cd5eec3.json)
 
 ---
 
@@ -72,21 +136,83 @@ He was admitted to the Point Pedro Hospital for 5 days with a fever and immediat
 
 ---
 
-### ඉහළ ආදායම් ඇති, කුඹුරු,යාන,වාහන තිබෙන අයටත් අස්වැසුම දීලා
+### Landslide warnings issued for 4 districts
+
+*2024-12-15 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104248/landslide-warnings-issued-for-4-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings for multiple areas in several districts, as heavy rainfall continues in parts of the island.
+
+The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 16).
+
+Accordingly, a Level 1 (Yellow) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Badulla, Kandy, Kurunegala and Matale districts as follows:
+
+Badulla: Hali Ela, Ella, Haputhale and Passara Divisional Secretariat DSDs and surrounding areas.
+
+Kandy:  Medadumbara and Pathadumbara Divisional Secretariat DSDs and surrounding areas.
+
+◼️
+
+[Data](articles/a376aeda.json)
+
+---
+
+### New guidelines issued as Sri Pada Pilgrimage Season begins
+
+*2024-12-15 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104247/new-guidelines-issued-as-sri-pada-pilgrimage-season-begins) · `en`
+
+The annual Sri Pada pilgrimage season officially began on Saturday, the Unduvap Poya Day (Dec. 14), with the ceremonial transfer of the “Sadhatuka Karaduwa”, “Samandeva Prathimawa”, and other sacred ornaments from the historic Sri Pada temple in Galpotthawala, Pelmadulla, to the Sri Pada Uda Maluwa.
+
+As part of the season’s inauguration, Ratnapura District Secretary Wasantha Gunaratne issued a special gazette notification outlining rules and regulations to ensure an orderly and safe pilgrimage.
+
+- Rest Rooms/Ambalam at Lihinihela, Palabaddala temple, Heramitipana, Andiyamalathenna, Warnagala, Seetagangula, Medahinna, Idikatupana shall be used as lodgings.
+
+No buildings or lodging or boutique, whether permanent or temporary, shall be constructed during the period from 14th December, 2024 to 13th May, 2025 by any person without my written permission or such permission obtained from any other authorized officer.
+
+...
+
+[Data](articles/fe584540.json)
+
+---
+
+### ට්‍රැක්ටර් රථයට යටවී ගොවිපොළේ වැඩ පරීක්ෂක අවසන් ගමන් යයි
+
+*2024-12-15 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204389) · `si`
+
+පට්ටිපොළ පොලිස් වසමේ අඹේවෙල සත්ත්ව ගොවිපොළේ සතුන්ට ආහාර බෙදා හරිමින් තිබූ ට්‍රැක්ටර් රථයකට යටවී පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, සිරිසමන්ගම, අඹේවෙල ප්‍රදේශයේ පදිංචිව සිටි 55 හැවිරිදි ගොවිපොළේ වැඩ පරීක්ෂකවරයෙකි.
+
+◼️
+
+[Data](articles/9637f841.json)
+
+---
+
+### Redemplates high income, paddy lands, paddy, and vehicles
 
 *2024-12-15 10:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-ආදායම්-ඇති--කුඹුරු-යාන-වාහන-තිබෙන-අයටත්-අස්වැසුම-දීලා/11-413634) · `si`
 
-රජයේ අස්වැසුම සහනාධාරය ලබාදීමේදී ඉහළ ආදායමක් උපයන,කුඹුරු,යාන,වාහන තිබෙන අයවලුන්ටත් අස්වැසුම ප්‍රතිලාභය    ලබාදීම තුළ තමන්ට එම අස්වැසුම ප්‍රතිලාභය ලබා ගැනීමේ අවස්ථාව අහිමි වී ඇති බව පොළොන්නරුව දිස්ත්‍රික්කයේ අස්වැසුම නොලැබූ හා අස්වැසුමේ අඩු ප්‍රතිලාභ ලබන ප්‍රතිලාභීන් චෝදනා කරති.
+Here's a summary of the text in approximately 200 characters:
 
-දිඹුලාගල සහ වැලිකන්ද ප්‍රාදේශීය ලේකම් කොට්ඨාශවල වැලි වැලිමංකඩ හිමි, කැනීම් යන්ත්‍ර සූත්‍ර තිබෙන,යාන වාහන තිබෙන අයවලුන්ට පවා අස්වැසුම ලබාදී ඇති බවත්,විශාල ආදායමක් ලබන ඔවුන්ට අස්වැසුම ලබාදී ඇත්තේ කුමන නිර්ණායක පදනම් කරගෙනද යන්න අඩු ආදායම්ලාභී පවුල් ප්‍රශ්න කරති.
 
-ඇතැම් ගම්මානවල පොලියට මුදල් ලබාදෙන අයවලුන්ටත්, මහා පරිමාණ වෙළෙඳ ව්‍යාපාර පවත්වාගෙන ව්‍යාපාරිකයන්ටත්
 
-මෙම අස්වැසුම් ප්‍රතිලාභය ලබාදී ඇති අතර බොහෝ ගම්මානවල අඩු ආදායම්ලාභී පවුල් සහ ආබාධිත පවුල්, මෙන්ම විශේෂ අවශ්‍යතා ඇති පවුල්වලට, මව හෝ පියා අහිමි දරුවන් සිටින පවුල් වලට අස්වැසුම නොලැබෙන බවත්, එවැනි ඇතැම් පවුල්වලට ඉතා අඩු අස්වැසුම ප්‍රතිලාභය ලබාදී ඇති බවද දිඹුලාගල, තමන්කඩුව, සහ වැලිකන්ද කොට්ඨාශයේ අස්වැසුම නොලැබූ බොහෝ දෙනාම චෝදනා කරති.
+High-income earners, paddy fields, and vehicles affected. Government revenue impacted. Beneficiaries in Polonnaruwa district struggling. Sand-related payments made. Low-income families receive aid. Relief distribution issues. Unfair reforms criticized. Government advised to focus on savings.
+
+🟩
+
+The revenue of the Government of Quality Earnings, the revenue of the Government of Quality Revenue, and the beneficiaries of the Polonnaruwa District has been depressed and the beneficiaries of the Polonnaruwa District have been lost.
+
+Dimbulagala and Welikanda Divisional Secretariat Divisions have been paid to the beneficiaries of sand sand, sand sand, sand sand, has sand sandary, academic vehicles and the basis of the basis of the base of sand.
+
+In some villages, those who are paying money for the businesses who maintain large-scale businesses
+
+The benefit of the deflosion has been paid to the benefit of low income families and families in many villages, as well as families who have a special needs, as well as families with special needs, and the families of special needs.Many who have not received relief are accused.
 
 ...
 
 [Data](articles/1d7b4af8.json)
+
+[Extended Data](ext_articles/1d7b4af8.ext.json)
 
 ---
 
@@ -477,6 +603,8 @@ Sri Lanka has welcomed 70,000 tourists within the first 10 days of December.
 ...
 
 [Data](articles/67d2acfc.json)
+
+[Extended Data](ext_articles/67d2acfc.ext.json)
 
 ---
 
@@ -2293,167 +2421,5 @@ However, the government will reach the final decision in a few days.
 [Data](articles/cd19eadf.json)
 
 [Extended Data](ext_articles/cd19eadf.ext.json)
-
----
-
-### Two persons arrested with ice and heroin in Mattakkuli
-
-*2024-12-14 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201239) · `ta`
-
-Two arrests made in Mattakkuli: one for 10g of ice, another for 11g of heroin. Both suspects from Colombo-Mattakkuli.
-
-🟩
-
-Two suspects were arrested by police on Friday (13) with ice and heroin drugs in two rounds of the Colombo -Mattakkuli police division.
-
-Accordingly, a suspect has been arrested with 10 grams of 200 milligrams of ice in the area of ​​the Mattakkuli police division.
-
-The suspect has been arrested during a raid on a confidential information received by a group of officials of the Colombo North Police Criminal Investigation Division.
-
-The arrested suspect is a 60 -year -old from Colombo - Mattakkuli.
-
-Similarly, a suspect has been arrested by the Mattakkuli police with 11 grams of heroin near the Mattakkuli police division.
-
-The suspect was arrested during a roundup of confidential information received by the Mattakkuli police station.
-
-The arrested suspect is a 30 -year -old from Colombo -Mattakkuli.
-
-◼️
-
-[Data](articles/1890cb9b.json)
-
-[Extended Data](ext_articles/1890cb9b.ext.json)
-
----
-
-### An online approach to find legally imported vehicles
-
-*2024-12-14 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204363) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Online platform helps identify legally imported vehicles. Investigation ongoing into improperly registered cars. Customs introduces online gateway for importing vehicles, ensuring proper payment of taxes. Bribery Investigation Commission provides additional support.
-
-🟩
-
-The falsely registered vehicles registered with the Department of Motor Traffic has launched an investigation into the country's creation.
-
-The Commission says that legal action is being carried out with respect to the identified vehicles, which are allegedly imported by the government.
-
-Such vehicles have been taken into custody and handed over to the Customs Taxes and other fees to be recovered.
-
-It is observed that the transfers of the second or later transfers are to be severely inconvenienced and adversaries.
-
-According to a remedy, a generated buyer has provided a suitable online approach to Sri Lanka Customs directly to ensure that the vehicle has been paid properly to the vehicle.
-
-In response, the Customs has introduced an online gateway and has the opportunity to import the vehicle expected to be purchased by a person and have paid the customs tax.
-
-Bribery or Raise Investigation Commission also provides the opportunity to visit the following link.
-
-◼️
-
-[Data](articles/3fc86ccd.json)
-
-[Extended Data](ext_articles/3fc86ccd.ext.json)
-
----
-
-### Landslide hazard
-
-*2024-12-14 11:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-விடுப்பு/175-348718) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Landslide hazard alert issued until 6:00 pm today. Haputale Divisional Secretariat in Badulla District notified of 2 phases. Pasara, Pasarai, Haliyala areas in Kandy district also under alert.
-
-🟩
-
-The announcement will be valid till 6:00 pm today, said the company's senior geologist Dr. Vasantha Senadheera.
-
-Accordingly, the Haputale Divisional Secretariat of the Badulla District has been notified of the 2 phases.
-
-In addition, the notification has been issued to be alerted under the 1st phase of the Pasara, Pasarai and Haliyala and Kandy district under the 1st phase of the Badulla district.. Remble
-
-◼️
-
-[Data](articles/2c0fba8b.json)
-
-[Extended Data](ext_articles/2c0fba8b.ext.json)
-
----
-
-### Investigate 6,000 fake vehicles
-
-*2024-12-14 11:19:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-000-போலி-வாகனங்கள்-குறித்து-விசாரணை/175-348717) · `ta`
-
-Commission investigates 6000 fake vehicles: illegal imports, tax evasion, legal action underway, vehicles transferred to Customs for charges, ongoing probe.
-
-🟩
-
-The Commission of Investigation of Bribery or Corruption is currently investigating the allegations of about 6,000 vehicles that have been illegally imported and forged at the Department of Motor Transportation without paying taxes.
-
-The Commission said legal action is being taken regarding identified vehicles.
-
-These vehicles have been handed over to the Customs Department to collect customs and other charges and further investigations are ongoing.
-
-◼️
-
-[Data](articles/6bd8abda.json)
-
-[Extended Data](ext_articles/6bd8abda.ext.json)
-
----
-
-### South Korea’s President faces second impeachment vote over martial law bid
-
-*2024-12-14 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104232/south-koreas-president-faces-second-impeachment-vote-over-martial-law-bid) · `en`
-
-A defiant South Korean President Yoon Suk Yeol faces a second impeachment vote on Saturday over his short-lived attempt to impose martial law, a move that shocked the country, split his party and imperilled his presidency half way through his term.
-
-Yoon rescinded his Dec. 3 move to impose military rule barely six hours later, after the opposition-controlled parliament defied troops and police to vote against the decree. But it plunged the country into a constitutional crisis and triggered widespread calls for him to step down on the grounds that he had broken the law.
-
-Opposition parties plan to hold an impeachment vote at 4 p.m. (0700 GMT), with large demonstrations planned ahead of the vote.
-
-Yoon’s conservative People Power Party boycotted the first impeachment vote a week earlier, preventing a quorum.
-
-Since then, PPP leader Han Dong-hoon has urged party members to vote for impeachment this time, and at least seven PPP members have said they would vote to impeach.
-
-...
-
-[Data](articles/33861fe9.json)
-
-[Extended Data](ext_articles/33861fe9.ext.json)
-
----
-
-### Falling at the price of rice - continuing testing!
-
-*2024-12-14 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201234) · `ta`
-
-Sri Lanka's Consumer Affairs Authority continues nationwide raids on rice prices. Director Asela Bandara reports 75 operations completed. Imported rice stockpile and reduced paddy prices contribute to lower costs. State Trade Corporation arranging import of 5,200 metric tonnes, with first shipment arriving on 19th.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that raids on the price of rice are ongoing throughout the country.
-
-The Director of the Consumer Affairs Authority Asela Bandara said that about 75 rounds of operations are being carried out across the country.
-
-He said that the relevant authorities have been instructed to carry out circulars on weekends and holidays in the future.
-
-He also said that the price of rice has been reduced due to the imported rice stockpile and the price of paddy has been reduced in some areas.
-
-Meanwhile, arrangements have been made to import 5,200 metric tonnes of rice by the State (General) Trade Corporation.
-
-Accordingly, the first block of the imported Nadarisi is due to arrive Sri Lanka on the 19th of this month.
-
-◼️
-
-[Data](articles/a1046f54.json)
-
-[Extended Data](ext_articles/a1046f54.ext.json)
 
 ---

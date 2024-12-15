@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 04:01:16**
+As of **2024-12-16 04:26:26**
 
 ## Newspaper Stats
 
-*Scraped **60,371** Articles*
+*Scraped **60,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 614
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
-dailyftlk | 4,172
+dailyftlk | 4,173
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,352 (100.0%) of 60,371 articles have been extended.
+60,355 (100.0%) of 60,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### Leading female entrepreneurialism with empathy
+
+*2024-12-16 04:16:01* · [`dailyftlk`](https://www.ft.lk/opinion/Leading-female-entrepreneurialism-with-empathy/14-770574) · `en`
+
+Mimi Nicklin, the acclaimed bestselling Author, CEO, and multi-award-winning founder of the world’s widest-reaching empathy education platform, Empathy Everywhere, will be presenting a LIVE master class in Colombo, in partnership with the Sabrina Yusoof Foundation on 17 December.
+
+This highly anticipated master class titled ‘Leading with Empathy: Unlocking Personal Growth for a Fulfilling Life and Career’ will take place at the Sabrina Yusoof Foundation workspace in Colombo and is tailored to the powerful vision of the Sabrina Yusoof Foundation to uplift and empower female entrepreneurs.
+
+The female participants will have the opportunity to learn from Mimi, who is one of the foremost experts on emotional intelligence, communication skills and empathetic leadership, to understand how empathy can transform their professional vision and success in 2025.
+
+...
+
+[Data](articles/e0d39c5e.json)
+
+---
 
 ### SJB to propose Opposition nominee for post of Speaker
 
@@ -67,6 +83,8 @@ During her short visit, the Secretary General had a courtesy meeting with Foreig
 ...
 
 [Data](articles/af3a5442.json)
+
+[Extended Data](ext_articles/af3a5442.ext.json)
 
 ---
 
@@ -154,39 +172,61 @@ Sri Lankan President India travels today. You can stay there and expect a number
 
 ---
 
-### மனித உரிமை செயற்பாட்டாளரான அருட்தந்தை லூக் அவர்கள் தாக்கப்பட்டார்
+### Human Rights activist Blessed Luke was attacked
 
 *2024-12-16 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201380) · `ta`
 
-கிளிநொச்சியில் நத்தார் இன்னிசை வழிபாட்டுக்கு பயணித்துக் கொண்டிருந்த மனித உரிமை செயற்பாட்டாளர் அருட்தந்தை.ம.லூக். சனிக்கிழமை (14) மாலை வழி மறிக்கப்பட்டு தாக்கப்பட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-கிளிநொச்சி முறிகண்டியை சேர்ந்த தன்னை சுயாதீன ஊடகவியலாளர் என அழைத்துக் கொள்ளும் நபர் ஒருவரே இத்தாக்குதலை நடத்தி அருட்தந்தையின் கழுத்தை நெரித்து கொலை செய்ய முயன்றதாகவும்.
+
+
+Human Rights activist Blessed Luke attacked while traveling to worship in Kilinochchi. An individual claiming to be an independent journalist attempted to intervene during the assault.
+
+🟩
+
+Human Rights activist who was traveling to worship in Kilinochchi. He was attacked on Saturday (14) evening.
+
+One person who calls himself an independent journalist from Kilinochchi has tried to strangle the assault and strangle the blessing.
 
 ◼️
 
 [Data](articles/937adad2.json)
 
+[Extended Data](ext_articles/937adad2.ext.json)
+
 ---
 
-### நுவர எலிய கிங்ஸை வெற்றிகொண்ட ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட தகுதிபெற்றுக்கொண்டது
+### Jevna Titans qualified to play in the final round
 
 *2024-12-16 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201379) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (15) இரவு நடைபெற்ற ஜெவ்னா டைட்டன்ஸ் அணிக்கும் நுவர எலிய கிங்ஸ் அணிக்கும் இடையிலான லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் ஜெவ்னா டைட்டன்ஸ் 53 ஓட்டங்களால் வெற்றியீட்டியது.
+Jevna Titans wins Lanka R10 Super League Cricket match against Nuwara Eliya Kings by 53 runs. They qualify for the final round with their 4th victory. Key performances: Sarit Asalan & Dom Abeel's 89-run partnership, Karunaratne's unbeaten 56.
 
-அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் சுற்றுப் போட்டியில் ஜெவ்னா டைட்டன்ஸ் ஈட்டிய 4ஆவது வெற்றி இதுவாகும். ஜெவ்னா டைட்டன்ஸின் மற்றொரு போட்டியில் முடிவு கிட்டவில்லை.
+🟩
 
-இந்த வெற்றியுடன் 9 புள்ளிகளைப் பெற்றுள்ள ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட முதலாவது அணியாக தகுதிபெற்றுக்கொண்டது.
+Jevna Titans won by 53 runs in the Lanka R10 Super League Cricket match between Jevna Titans and Nuwara Eliya Kings at the Pallekele International Cricket Stadium on Sunday night.
 
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ஜெவ்னா டைட்டன்ஸ் அணி 10 ஓவர்களில் 4 விக்கெட்களை மாத்திரம் இழந்து 153 ஓட்டங்களைக் குவித்தது.
+This is the 4th victory that Jevna Titans earned in the inauguration of the Sri Lanka R10 Super League Cricket Tournament. Another match of Jevna Titans did not end.
 
-ஆரம்ப வீரர்களான டொம் கோஹ்லர் கெட்மோர் (7), குசல் மெண்டிஸ் (9) ஆகிய இருவரும் குறைந்த எண்ணிக்கைகளுக்கு ஆட்டம் இழந்தனர்.
+Jevna Titans qualified as the first team to play in the final round.
 
-சரித் அசலன்க, டொம் ஆபெல் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் 34 பந்துகளில் 89 ஓட்டங்களைப் பகிர்ந்து அணியைப் பலமான நிலையில் இட்டனர்.
+Jevna Titans, who were first invited to bat first in today's match, lost by 4 wickets in 10 overs and scored 153 runs.
+
+Both the initial players, Dom Kohler Ketmore (7) and Kusal Mendis (9), lost the number.
+
+Both Sarit Asalan and Dom Abeel shared 89 off 34 balls in the 3rd wicket.
+
+Sarit Asalankku scored 33 runs off 17 balls, 33 runs with 2 sixes while Dom Abeel scored 59 off 24 balls with 8 pounds and 3 sixes.
+
+Team captain David Vice continued to play with 14 runs and Twin Prideor 18 runs.
+
+In reply, the Nuwara Eliya Kings lost 8 wickets in 10 overs and lost 108 runs.
 
 ...
 
 [Data](articles/5053e7e7.json)
+
+[Extended Data](ext_articles/5053e7e7.ext.json)
 
 ---
 
@@ -2339,27 +2379,5 @@ Although political mafia are controlled, traders, officials and even the general
 [Data](articles/8d3cab10.json)
 
 [Extended Data](ext_articles/8d3cab10.ext.json)
-
----
-
-### Will 'Dr.' controversy end with the resignation?
-
-*2024-12-15 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201332) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan Speaker Ashoka Ranwala resigns amid "Dr." degree controversy. His departure marks the first such political scandal in Sri Lanka's history. The sudden resignation occurred before releasing a special report on the 17th.
-
-🟩
-
-Speaker Ashoka Ranwala was aware of the controversy over his doctorate on Friday as he suddenly resigned his post last Friday as he was known to release a special report on the 17th.. This is the first incident in Sri Lanka's politics in the history of Sri Lankan politics.
-
-◼️
-
-[Data](articles/a721b412.json)
-
-[Extended Data](ext_articles/a721b412.ext.json)
 
 ---

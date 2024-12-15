@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 18:38:19**
+As of **2024-12-15 18:51:09**
 
 ## Newspaper Stats
 
-*Scraped **60,311** Articles*
+*Scraped **60,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,726
-adaderanalk | 7,347
-tamilmirrorlk | 8,618
+adaderanalk | 7,349
+tamilmirrorlk | 8,619
 virakesarilk | 9,922
 adaderanasinhalalk | 10,430
 
@@ -26,25 +26,67 @@ adaderanasinhalalk | 10,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,283 (100.0%) of 60,311 articles have been extended.
+60,288 (100.0%) of 60,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### இரண்டு ரயில்கள் ஒன்றுடன் ஒன்று மோதி விபத்து
+### ஐந்து பிரதி அமைச்சர்கள் நியமனம்
+
+*2024-12-15 18:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐந்து-பிரதி-அமைச்சர்கள்-நியமனம்/175-348757) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் இந்திய விஜயத்தின் போது முக்கிய அமைச்சுக்களை மேற்பார்வையிட ஐந்து பிரதி அமைச்சர்கள் நியமிக்கப்பட்டுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+
+இந்த நியமனங்கள் டிஜிட்டல் பொருளாதார அமைச்சு, பாதுகாப்பு அமைச்சு, நிதி அமைச்சு, பொருளாதார ஸ்திரத்தன்மை மற்றும் தேசிய கொள்கைகள், வெளியுறவு அமைச்சு, வெளிநாட்டு
+
+நிதி, பொருளாதார ஸ்திரப்படுத்தல் மற்றும் தேசிய கொள்கைகள் அமைச்சுக்கான பதில் அமைச்சராக கலாநிதி ஹர்ஷன சூரியப்பெரும செயற்படுவார்.
+
+அருண் ஹேமச்சந்திர வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா பிரதி அமைச்சராக செயற்படுவார்.
+
+◼️
+
+[Data](articles/3214d5a9.json)
+
+---
+
+### Two trains collided with each other
 
 *2024-12-15 18:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-ரயில்கள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/175-348756) · `ta`
 
-ரஜரட்ட ருஜின மற்றும் சாகரிகா ரயில் இயந்திரங்கள் இன்று காலை ஒன்றுடன் ஒன்று மோதி ஏற்பட்ட விபத்து தொடர்பில் ரயில்வே திணைக்களம் விசாரணைகளை ஆரம்பித்துள்ளது.
+Two trains collided: Rajarata Rujina (Beliyatha-Anuradhapura) hit Sagarika (wrong path). Investigation underway. Train service disrupted tomorrow.
 
-பெலியத்தையிலிருந்து அனுராதபுரம் நோக்கி பயணித்த ரஜரட்ட ருஜின ரயில் இயந்திரத்தை மாற்றும் போது தவறான பாதையில் பயணித்தமையினால் அங்கு நிறுத்தி வைக்கப்பட்டிருந்த சாகரிகா ரயிலுடன் மோதியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-அந்த ரயிலை நாளை (16) காலை  இயக்க முடியாத நிலை ஏற்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+The Railway Department has launched an investigation into the accident that caused the Rajarata Rujina and Sagarika train machines to collide.
+
+It is reported that the Rajarata Rujina train, which was traveling from Beliyatha to Anuradhapura, was hit by the Sagarika train, which was parked on the wrong path.
+
+The Railway Department said that the train was unable to operate tomorrow morning (16) morning. Remble
 
 ◼️
 
 [Data](articles/c6d704df.json)
+
+[Extended Data](ext_articles/c6d704df.ext.json)
+
+---
+
+### Egg prices drop ahead of festive season
+
+*2024-12-15 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104260/egg-prices-drop-ahead-of-festive-season) · `en`
+
+The All Ceylon Egg Traders’ Association has announced a significant reduction in egg prices for the upcoming festive season, with retail prices now set between Rs. 30 and 35.
+
+The President of the association, Anton Appuhami explained that accordingly, regular eggs weighing less than 50 grams will be available for prices ranging from Rs. 30 to 32. For larger eggs, weighing over 55 grams, the price will be between Rs. 33 and 35.
+
+“We have decided to sell eggs at a retail price of between Rs. 30 and 35 during the festive season. Therefore, we request that every retail shop ensure eggs are sold at prices not exceeding Rs. 35 from today”, Appuhami said.
+
+This move comes after a period of high egg prices, with a single egg costing between Rs. 65 and 70 during the 2023 festive season. However, Appuhami noted that egg production has increased, leading to a surplus in the market and helping to stabilize prices.
+
+...
+
+[Data](articles/cb85beaa.json)
 
 ---
 
@@ -77,6 +119,22 @@ The community of the Bay of Bengal, the fisheries and naval area in the Bay of B
 [Data](articles/7941dae7.json)
 
 [Extended Data](ext_articles/7941dae7.ext.json)
+
+---
+
+### UN pledges support for Sri Lanka’s development
+
+*2024-12-15 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104259/un-pledges-support-for-sri-lankas-development) · `en`
+
+The United Nations (UN) has pledged its support for Sri Lanka’s development.
+
+Sri Lanka’s Ministry of Health stated that this was assured by the UN Resident Representative Marc-André Franche during a meeting held today (15) with the Minister of Health Dr. Nalinda Jayatissa.
+
+During the meeting, the UN Resident Representative has pledged support for Sri Lanka’s development, focusing on peace, unity, and sustainable progress.
+
+◼️
+
+[Data](articles/9df5fa62.json)
 
 ---
 
@@ -176,49 +234,77 @@ It is their source that Sri Lanka has not yet embraced the people of Sri Lanka a
 
 ---
 
-### பாரா­ளு­மன்ற தேர்­தல்­களில் தொடரும்  6 வீத­மான நிரா­க­ரிக்­கப்­பட்ட வாக்­குகள்
+### 6 percent rejected votes that continue in parliamentary elections
 
 *2024-12-15 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201352) · `ta`
 
-இலங்­கையில் தேர்­தல்­களைப் பொறுத்­த­வ­ரையில், பாரா­ளு­மன்றத் தேர்­த­லில் ­தொ­டர்ச்­சி ­யாக அதி­க­மான நிரா­க­ரிக்­கப்­பட்ட வாக்­குகள் பதி­வாகிக் கொண்­டி­ருப்­பதை அவ­தா­னிக்க முடி­கி­றது. 1989 ஆம் ஆண்டு முதல்  புதிய தேர்தல் முறை­மையில் 9 பாரா­ளு­மன்றத் தேர்­தல்கள் நடை­பெற்­று­விட்­டன.  இந்த 9 பாரா­ளு­மன்றத் தேர்­தல்­களை எடுத்து நோக்­கும்­போது, சரா­ச­ரி­யாக 6 வீத­மான நிரா­க­ரிக்­கப்­பட்ட வாக்­கு­களின் எண்­ணிக்கை கூடிக் குறைந்து வந்­துள்­ளதைக் காண முடி­கி­றது.
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's parliamentary elections see rising rejected votes since 1989. Average increase noted in 9 elections under new system. 6% rejected votes continue trend.
+
+🟩
+
+As for the elections in Sri Lanka, it can be observed that more rejected votes are being recorded in the parliamentary elections. Since 1989, there have been 9 parliamentary elections in the new electoral system. When looking at these nine parliamentary elections, the average number of rejected votes has increased on average.
 
 ◼️
 
 [Data](articles/0e385252.json)
 
+[Extended Data](ext_articles/0e385252.ext.json)
+
 ---
 
-### අද සිට බිත්තර මිලේ වෙනසක්
+### Egg price from today
 
 *2024-12-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204401) · `si`
 
-එළැඹෙන උත්සව සමය වෙනුවෙන් අද සිට බිත්තරයක් රුපියල් 30ත් 35ත් අතර සිල්ලර මිලට අලෙවි කිරීමට තීරණය කර තිබෙන බව සමස්ත ලංකා බිත්තර වෙළෙඳ සංගමය පවසයි.
+Egg prices: 50g egg Rs. 30, >55g egg Rs. 34. Consumers advised against buying above 55g eggs.
 
-එම සංගමයේ සභාපති ඇන්ටන් අප්පුහාමි මහතා පවසා සිටියේ, ග්‍රෑම් 50ට අඩු සාමාන්‍ය බිත්තරයක් රුපියල් 30ත් 32ත් අතර මිලකට මිලදී ගත හැකි බවයි.
+🟩
 
-එමෙන්ම ග්‍රෑම් 55ට වැඩි ලොකු බිත්තරයක් රුපියල් 33ත් 35ත් අතර මිලකට මිලදී ගැනීමේ හැකියාව තිබෙන බවද ඔහු පැවසීය.
+The All Ceylon Liber Trade Association says that an egg has been marketed at Rs.
 
-මෙම මිලගණන්වලට වෙළෙඳපොළේ බිත්තර සුලභව තිබෙන බවත්, ඊට ඉහළින් ඇති කිසිදු බිත්තරයක් මිලදී නොගන්නා ලෙස ඔහු පාරිභෝගිකයන්ගෙන් ඉල්ලා සිටියේය.
+The President of the Association Anton Appuhamy said that a normal egg under 50 grams could be purchased at Rs.
 
-"ඉදිරි උත්සව සමයේ අපි තීරණයක් අරගෙන තියෙනවා රුපියල් 30 - 35 අතර සිල්ලර මිලට බිත්තරයක් අලෙවි කිරීමට. එමනිසා අද පටන් රුපියල් 35ට අඩුවෙන් බිත්තර අලෙවිකරන මෙන් සෑම සිල්ලර කඩයකින්ම ඉල්ලා සිටිනවා".
+He also said that a large egg is more than 55 grams at a cost of Rs.3 and 35.
 
-"2023 මේ කාලසීමාවේ බිත්තරයක් තිබුණේ 65 -70 වගේ මිලකට. නමුත් බිත්තර නිෂ්පාදනය වැඩිවෙලා වෙළෙඳපොළ තුළ අද මිල සමනයකට පත්වෙලා. සියලුම ගොවියන්ගේ බිත්තර නිෂ්පාදන අතිරික්තයක් තිබෙනවා".
+He asked customers not to buy any eggs in the market with these prices.
 
-...
+"We have made a decision during the next festive season.. Therefore, it is asking for eggs for less than Rs.
+
+"2023 had an egg in this period of 65 -70. But the price of egg production has been increased and the price of the market has been concluded today. All farmers' eggs have surplus ".
+
+"A 50g egg can be purchased at Rs 30. 33 g of egg, more than 55 grams, 334. Don't take everyone more than that. There is plenty of comfort.
+
+◼️
 
 [Data](articles/187e8151.json)
 
+[Extended Data](ext_articles/187e8151.ext.json)
+
 ---
 
-### சபாநாயகரை பதவி விலகச் செய்த  அநுரவின் கடுமையான அழுத்தம்
+### The severe pressure of Anura, who resigned to the Speaker
 
 *2024-12-15 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201356) · `ta`
 
-சபாநாயகர் அசோக்க சப்புமல் ரன்வல மாத்திரமின்றி பிரதி சபாநாயகர் ரிஷ்வி சாலி, நகர அபிவிருத்தி அமைச்சர் அநுர கருணாதிலக, மின்சக்தி அமைச்சர் புண்ணியஸ்ரீ குமார ஜயக்கொடி, ஹர்ஷண சூரியப்பெரும, அனில் கயந்த, பிமல் ரத்நாயக்க மற்றும் எரங்க குணசேகர உள்ளிட்டோரின் கல்வி தகைமைகள், பட்டங்கள் உண்மையானவையா என்ற சந்தேகம் எழுந்துள்ளதாக முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேம்நாம் சி தொலவத்த கருத்து வெளியிட்டு அதிர்ச்சியை ஏற்படுத்தியுள்ளார்.
+Here's a summary of 200 characters:
+
+
+
+Speaker Ashoka Sapumal Ranwala comments on Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Power Minister Punniyasree Kumara Jayakody, and Harshana Suripperuma causing shock.
+
+🟩
+
+Speaker Ashoka Sapumal Ranwala has commented on Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Power Minister Punniyasree Kumara Jayakody, Harshana SuripperumaHe has caused shock.
 
 ◼️
 
 [Data](articles/d0c1bffb.json)
+
+[Extended Data](ext_articles/d0c1bffb.ext.json)
 
 ---
 
@@ -241,6 +327,8 @@ The Head of State, accompanied by a top-level delegation left the island this af
 ...
 
 [Data](articles/a02d91a6.json)
+
+[Extended Data](ext_articles/a02d91a6.ext.json)
 
 ---
 
@@ -2265,93 +2353,5 @@ Nugegoda scene of crime officers are conducting on-site investigations into the 
 [Data](articles/423168ec.json)
 
 [Extended Data](ext_articles/423168ec.ext.json)
-
----
-
-### Pilot project, which launched in mutilation project is successful
-
-*2024-12-15 08:09:45* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්-වන්ද්‍යාකරණයට-මාතලෙන්-ආරම්භ-කළ-නියමු-ව්‍යාපෘතිය-සාර්ථකයි/11-413631) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Successful pilot project launched in Matale District to control population growth. Residents and wildlife officials collaborate to capture birds. Government allocates funds for conservation efforts. Program implemented under President's directives.
-
-🟩
-
-The pilot project commenced on the Matale District with a view to control the rapid growth of the rapid growth in the country, the Matale Government Agent Gilakaratne says that it will be successfully implemented.
-
-Residents and Wildlife officials were caught in connecting at 40 Riyawasgama in the Harunamgama and the Rhilasgama areas in the Harunwenic area in Matale.
-
-The Government will spend Rs.
-
-Fragists who are caught using trap nests using trap nests from the Matale district to be released to the Giritale Animal Survey Center and released to the captured area with the environmentalists and released animals to the candidateThe Matale District Secretary said he will also discuss the turn.
-
-The program is being implemented in the district on the instructions of the Matale District Development Committee on the direction of the President of the President of Buddha Sasana and Cultural Dissanayake.
-
-◼️
-
-[Data](articles/49fc620b.json)
-
-[Extended Data](ext_articles/49fc620b.ext.json)
-
----
-
-### Sri Lanka expects 250,000 tourists in Dec 2024 after ending visa restrictions
-
-*2024-12-15 07:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-250000-tourists-in-dec-2024-after-ending-visa-restrictions-194325/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting 250,000 tourists in December 2024 after the new administration ended a visa system Buddhika Hewawasam, Chairman of Sri Lanka Tourism Authority and Promotions Bureau said.
-
-Sri Lanka tourism sector was hit by a visa crisis after a new visa portal operated by VFS Global and IVS-GBS made it difficult for tourists to get visas and also started charging high fees, scrapping an online system that was globally acclaimed as perhaps the easiest in the word.
-
-“First, after the September election victory, one of the first initiatives the government took was to abolish this particular visa restriction policies maintained by the previous government,” Hewasam said in a video statement.
-
-“Along with that, we created a kind of very attractive and very peaceful and harmonious environment for tourists to come to this country.”
-
-Sri Lanka has welcomed 70,000 tourists within the first 10 days of December.
-
-...
-
-[Data](articles/67d2acfc.json)
-
-[Extended Data](ext_articles/67d2acfc.ext.json)
-
----
-
-### Deadly Polaus of the son of the son
-
-*2024-12-15 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204386) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Murder in Godakawela: Son assaulted by mother over personal dispute. Victim (82) from Pallebedda. Police investigating. Separate incident in Seeduwa: 47-year-old victim, 36-year-old suspect arrested.
-
-🟩
-
-The son has been assaulted by his mother with a stick by a stall by a heated argument caused by a personal dispute.
-
-During this morning, the murder had been carried out in Godakawela, Godakawela.
-
-The deceased has been identified as 82, a resident of Pallebedda, Galuwa.
-
-The Magistrate's test on the body is due to be conducted and the Godakawela police are conducting further investigations to arrest the suspect.
-
-Meanwhile, police said that the other person had been assaulted by one person by one person and killed a dispute between two masons for the construction of a building.
-
-The murder was held in the 2nd Lane of the Seeduwa Police Division.
-
-The victims were a 47 year old resident of Waikkala, Wikekkala.
-
-The suspect, a 36 year old residents of Kekirawa has been arrested by the police.
-
-◼️
-
-[Data](articles/98436183.json)
-
-[Extended Data](ext_articles/98436183.ext.json)
 
 ---

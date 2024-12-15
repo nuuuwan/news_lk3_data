@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 10:02:44**
+As of **2024-12-15 10:15:51**
 
 ## Newspaper Stats
 
-*Scraped **60,219** Articles*
+*Scraped **60,221** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 610
-bbccomsinhala | 631
+bbccomsinhala | 632
 islandlk | 3,646
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,713
+adalk | 5,714
 adaderanalk | 7,335
 tamilmirrorlk | 8,609
 virakesarilk | 9,883
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,205 (100.0%) of 60,219 articles have been extended.
+60,208 (100.0%) of 60,221 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,21 +56,27 @@ The injured woman has been admitted to the Colombo National Hospital for treatme
 
 ---
 
-### රට රැකියා සිහින ‍පෙන් වූ ජාවාරම්කරුවෙක් අත්අඩංගුවට
+### Sri Lankan racketeer arrested
 
 *2024-12-15 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204388) · `si`
 
-විදේශ රැකියා ලබාදෙන බවට පවසා මුදල් වංචා කළ සැකකරුවෙකු හක්මණ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Sri Lankan racketeer arrested: Hakmana Police detained a 36-year-old suspect from Puhulwella for defrauding over Rs. 43 lakhs through fake foreign employment schemes.
 
-අදාළ සැකකරු සම්බන්ධයෙන් හක්මන පොලිස් ස්ථානය වෙත කරන ලද පැමිණිලි 09 කට අදාළව ඊයේ (14) එම පුද්ගලයා අත්අඩංගුවගෙන තිබුණේ කින්නියා පොලිස් වසමේදීය.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 36ක් වන පුහුල්වැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Hakmana Police have arrested a suspect who has been investigating the money that he is given foreign employment.
 
-සැකකරු විසින් රුපියල් ලක්ෂ 43 කට අධික මුදලක් වංචා කර ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The suspect was arrested yesterday (14) in connection with the suspect regarding the hackmana police station.
+
+The suspect is a 36 year old resident of the Puhulwella area.
+
+Investigations have revealed that the suspect had defrauded over Rs. 43 lakhs.
 
 ◼️
 
 [Data](articles/0cf4e01c.json)
+
+[Extended Data](ext_articles/0cf4e01c.ext.json)
 
 ---
 
@@ -116,6 +122,8 @@ Saturday afternoon, the coastguard told AFP that the number of migrants found de
 
 [Data](articles/4342514a.json)
 
+[Extended Data](ext_articles/4342514a.ext.json)
+
 ---
 
 ### Drug distributor in Wellawatte
@@ -144,25 +152,33 @@ The drug trafficking is being carried out by a drug dealer currently in prison a
 
 ---
 
-### சமுர்த்தி அலுவலக உதவியாளர் மனைவி, பிள்ளையின் முன் சுட்டுக்கொலை !
+### Samurdhi office assistant wife, shot in front of child
 
 *2024-12-15 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201298) · `ta`
 
-மீகொட - நாகஹவத்த பகுதியில்  இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Shooting kills office worker in Sri Lanka; wife, toddler witness attack
 
-காரில் பயணித்த குறித்த நபரை இலக்கு வைத்து, நேற்று சனிக்கிழமை  (14) இரவு  அடையாளம் தெரியாத இருவரால் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-பத்தரமுல்ல செத்சிரிபாயவில் உள்ள சமுர்த்தி பிரதான காரியாலயத்தில் அலுவலக உதவியாளராக கடமையாற்றிய 32 வயதுடைய  ஒரு பிள்ளையின் தந்தையே துப்பாக்கிச் சூட்டில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was killed in a shooting in the Meegoda - Nagahawatta area, police said.
 
-உயிரிழந்தவரின் சகோதரரின் வீட்டில் இருந்து மீகொட நாகஹவத்த பகுதியில்  உள்ள தனது வீட்டிற்குச் சென்று கொண்டிருந்த போதே துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+The firing was carried out by two unidentified people on Saturday night (14), targeting the man who was traveling in the car.
 
-துப்பாக்கிச் சூட்டுக்கு இலக்காகி பலத்த காயமடைந்த நபர் ஹோமாகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+The father of a 32 -year -old child, who was serving as an office assistant at Samurdhi main office in Sethsiripaya in Battaramulla, was killed in the shooting, police said.
 
-துப்பாக்கிச் சூடு நடந்தபோது அவரது ஒன்றரை வயது மகள் மற்றும் அவரது மனைவி காரில் இருந்ததாகவும்  இனந்தெரியாத நபர் ஒருவர் காரை இடைமறித்ததுடன் , மேலும் ஒருவர் துப்பாக்கிச் சூடு நடத்திவிட்ட தப்பியோடியுள்ளதாக  பொலிஸார் மேற்கொண்ட விசாரணையில் தெரியவந்துள்ளது.
+The shooting was carried out while traveling from the house of the deceased's brother to his home in Nagahawatta.
 
-...
+A man who was severely injured in the shooting has been admitted to the Homagama Hospital after he died without treatment.
+
+An investigation by police revealed that his one -and -a -half -year -old daughter and his wife were in the car during the shooting and that an unidentified person had interrupted the car and fled one another.
+
+In addition, the shooters have not yet been identified and the Meegoda police are conducting further investigations.
+
+◼️
 
 [Data](articles/d0f58453.json)
+
+[Extended Data](ext_articles/d0f58453.ext.json)
 
 ---
 
@@ -213,6 +229,24 @@ No permanent or temporary building or a store for May 13, 2025 from 1 December 1
 [Data](articles/ae6819e9.json)
 
 [Extended Data](ext_articles/ae6819e9.ext.json)
+
+---
+
+### රු. මි. 185,000  ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් 18  දා
+
+*2024-12-15 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--185-000--ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-18--දා/11-413632) · `si`
+
+රුපියල් මිලියන එක්ලක්ෂ අසූපන් දහසක්  වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර් 18 දා පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 65 ,000  ක  භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 75, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 45, 000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව සඳහන් කරයි.
+
+වෙන්දේසිය සඳහා ලංසු භාර ගැනීම දෙසැම්බර් 18  දහවල් 11.00 දක්වා සිදුකෙරෙන බවත් ලංසුවක් සඳහා අවම මුදල රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.
+
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම දෙසැම්බර් 20 දා සිදුකිරීමට නියමිතය .
+
+◼️
+
+[Data](articles/62dabd5a.json)
 
 ---
 
@@ -481,6 +515,26 @@ Parliamentarian Gajendrakumar Ponnambalam and former MP Selvarasa Gajendran part
 [Data](articles/40a92d5e.json)
 
 [Extended Data](ext_articles/40a92d5e.ext.json)
+
+---
+
+### 'අපි ස්ට්‍රෙස් එක අඩු කරගන්න ඕන නිසයි කඳු නගින්න පුරුදු වුණේ'
+
+*2024-12-15 03:44:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c047zy5v4zqo) · `si`
+
+'අපි ස්ට්‍රෙස් එක අඩු කරගන්න ඕන නිසයි කඳු නගින්න පුරුදු වුණේ'
+
+'අපි දෙන්නම වැඩ කරන්නේ කෝපරේට් වර්ල්ඩ් එකේ. වැඩ කරද්දී එන ස්ට්‍රෙස් එකත් එක්ක අපි තීරණය කළා අඩුම තරමින් මාසයකට එක පාරක් හරි කන්දක් නගින්න ඕන කියලා. එතැනින් තමයි මේ ගමන පටන් ගත්තේ.' බීබීසී සිංහල සේවය සමග අදහස් දක්වමින් ඩුබායි හි දැනට සේවය කරන ස්වරංග ජයසංක පැවසුවේය.
+
+මීට දින කිහිපයකට පෙර ලෝකයේ උසම කන්ද වන එවරස්ට් හි 'බේස් කෑම්ප්' දක්වා ගොස් නැවත පැමිණි ස්වරංග කියා සිටියේ තමන්ට මෙන්ම එම ගමනට සහභාගී වූ බිරිඳට ද එය දුෂ්කර වුවත් ඉතා හොද අත්දැකීමක් ගෙන දුන් බවයි.
+
+ඉතිහාසයේ පළමු වතාවට ලෝකයේ උසම කඳු මුදුන වන එවරස්ට් වෙත ළඟා වු ශ්‍රී ලාංකිකයා වුයේ ජයන්ති කුරුඋතුම්පාල ය. එමෙන්ම යොහාන් පීරිස් ද එම ගමනට එක්විය.
+
+ගාල්ල ප්‍රදේශයේ උපත ලබා ඇති ස්වරංග ජයසංක දැනට ඩුබායි හි ජීවත් වන අතර, ඔහු සිය බිරිඳ සමග එහි දිවි ගෙවයි. ඔහු බීබීසී සිංහල වෙත පැවසුවේ තමන් සහ බිරිඳ කඳු නැගීම ආරම්භ කලේ විශ්ව විද්‍යාලයේ ඉගෙනුම ලබන අවදියේ සිට බවයි.
+
+...
+
+[Data](articles/579b9e01.json)
 
 ---
 
@@ -2365,71 +2419,5 @@ Since India is enacted its train service, the station engines running out of the
 [Data](articles/d1a46706.json)
 
 [Extended Data](ext_articles/d1a46706.ext.json)
-
----
-
-### Imad Wasim retires from international cricket
-
-*2024-12-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204360) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Imad Wasim retires from international cricket. The Pakistani all-rounder, 35, previously retired in 2022 but returned for PSL 2023, winning a Man of the Match award. He played 35 ODIs and 75 T20s for Pakistan before retiring again in 2024, citing poor form and lack of opportunities in domestic cricket.
-
-🟩
-
-Pakistani-triorevice Imad Wasim has decided to retire from international cricket.
-
-The 35-year-old Imad Solevations retired last year from the international cricket field.
-
-However, at three the match award, he won the Man of the Match award for the performance of the Pakistan Super League.
-
-Due to that skill, Imad was returned to T20 and Twenty20.
-
-However, this year's weak sports flexibility had to leave the tournament first due to poor player style of poor player.
-
-Imad Wasim 35 ODIs and 75 T20 match played for Pakistan.
-
-Fourteen day, Imad Wasim stated that he retired from the international cricket colony for the second time.
-
-But Imads are no longer local matches and leagues.
-
-◼️
-
-[Data](articles/7883bdd8.json)
-
-[Extended Data](ext_articles/7883bdd8.ext.json)
-
----
-
-### Action Testing Activities that are being carried out
-
-*2024-12-14 09:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-முன்னெடுக்கப்படும்-அதிரடி-சோதனை-நடவடிக்கைகள்/175-348716) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Consumer Affairs Authority conducts 75 raids nationwide on rice. Future raids planned on weekends/holidays. Imported rice stockpile arrives soon, reducing prices.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that the raids on rice are ongoing across the country.
-
-Its Director Asela Bandara said that about 75 rounds were conducted across the country yesterday (14).
-
-He said that the relevant authorities have been instructed to conduct a raid on weekends and holidays in the future.
-
-In addition, the imported rice stockpile is coming to the market and the price of rice is reduced and in some areas the price is declining, he says.. Remble
-
-It is reported that the first block of 5,200 metric tonnes of rice will arrive in Sri Lanka on the 19th of this month.
-
-◼️
-
-[Data](articles/3b7d02ef.json)
-
-[Extended Data](ext_articles/3b7d02ef.ext.json)
 
 ---

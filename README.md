@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 05:53:16**
+As of **2024-12-15 06:19:42**
 
 ## Newspaper Stats
 
-*Scraped **60,199** Articles*
+*Scraped **60,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 610
 bbccomsinhala | 631
-islandlk | 3,645
+islandlk | 3,646
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,711
 adaderanalk | 7,332
-tamilmirrorlk | 8,604
+tamilmirrorlk | 8,605
 virakesarilk | 9,880
 adaderanasinhalalk | 10,409
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,186 (100.0%) of 60,199 articles have been extended.
+60,186 (100.0%) of 60,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### எலிக்காய்ச்சல் தாக்கம் குறைகிறது
+
+*2024-12-15 04:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-தாக்கம்-குறைகிறது/175-348728) · `ta`
+
+பருத்தித்துறை ஆதார வைத்தியசாலையில் எலிக்காய்ச்சல் எனச் சந்தேகிக்கப்பட்டு சேர்க்கப்படுபவர்களின் எண்ணிகை வெகுவாகக் குறைவடைந்துள்ளது.
+
+ஓரிரு தினங்களில் வைத்தியசாலையில் சேர்க்கப்படுபவர்களின் எண்ணிக்கை குறைந்து நிலைமை சரியாகிவிடும் என்று வைத்தியர்கள் நம்பிக்கை வெளியிட்டுள்ளனர்.
+
+பருத்தித்துறை ஆதார வைத்தியசாலையில் இதுவரை 66 பேர்  எலிக்காய்ச்சல் நோய் அறிகுறிகளுடன் வந்து சிகிச்சை பெற்றுள்ளார்கள். தற்போது 32 நோயாளர்கள் வைத்தியசாலையில் தங்கி சிகிச்சை பெறுகின்றார்கள். (a)
+
+◼️
+
+[Data](articles/ea403edf.json)
+
+---
 
 ### Protesters - police clash
 
@@ -2417,25 +2433,5 @@ The Department of Sabaragamuwa, Southern and Uva provinces can be in the morning
 [Data](articles/70f887ec.json)
 
 [Extended Data](ext_articles/70f887ec.ext.json)
-
----
-
-### Sampath Bank renews partnership with NCE
-
-*2024-12-14 05:47:00* · [`islandlk`](http://island.lk/sampath-bank-renews-partnership-with-nce/) · `en`
-
-Sampath Bank has once again reinforced its unwavering support for Sri Lanka’s export community by renewing its partnership with the National Chamber of Exporters (NCE) for the 32nd Annual Export Awards. This significant milestone reflects the Bank’s long-standing commitment to empowering the nation’s exporters through tailored financial solutions, fostering ethical trading practices, and driving sustainable economic growth.
-
-The official signing ceremony, held at the Sampath Bank Head Office, was attended by senior representatives from both organisations. This partnership emphasises Sampath Bank’s role as a trusted financial ally to exporters, with plans to support key NCE-led initiatives, including the much-anticipated Annual Export Awards on 6th December 2024.
-
-CSE’s bull-run continues in the wake of picked-up investor participation
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/ee4ae0c9.json)
-
-[Extended Data](ext_articles/ee4ae0c9.ext.json)
 
 ---

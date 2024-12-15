@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 17:44:16**
+As of **2024-12-15 18:03:36**
 
 ## Newspaper Stats
 
-*Scraped **60,307** Articles*
+*Scraped **60,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailymirrorlk | 4,733
 adalk | 5,725
 adaderanalk | 7,347
 tamilmirrorlk | 8,617
-virakesarilk | 9,921
-adaderanasinhalalk | 10,429
+virakesarilk | 9,922
+adaderanasinhalalk | 10,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,278 (100.0%) of 60,307 articles have been extended.
+60,278 (99.9%) of 60,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### දිවයින වටා මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා අනතුරු ඇඟවීම් නිවේදනයක්
+
+*2024-12-15 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204403) · `si`
+
+දිවයින වටා මුහුදු ප්‍රදේශ සහ ගොඩබිම සඳහා පැය 24ක් දක්වා වලංගුවන පරිදි අවදානයෙන් සිටින ලෙස දන්වා කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් වන්නේ ගිණිකොනදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශ ආශ්‍රිතව ඉදිරි පැය 24 තුල අඩු පීඩන කලාපයක් නිර්මාණය වීමේ හැකියාවක් පවතින අතර එම පද්ධතිය තවදුරටත් සෙමින් වර්ධනය වෙමින් බටහිරට බරව වයඹ දෙසට ගමන් කරනු ඇති බවය.
+
+ඉන් පසුව එළඹෙන දින දෙක තුලදී, එය දිවයිනේ උතුරුට ආසන්නව තමිල්නාඩු වෙරළ දෙසට ගමන් කිරීමේ හැකියාවක් පවතින බව ද දැනුම් දී තිබේ.
+
+•කන්කසන්තුරය සිට ත්‍රිකුණාමලය සහ මඩකලපුව හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන ගැඹුරු සහ නොගැඹුරු මුහුදු ප්‍රදේශවල සුළගේ වේගය ක්ෂණිකව පැ.කි.මී. (50-60) පමණ දක්වා ඉහළ යාමට ඉඩ ඇති හෙයින් එම මුහුදු ප්‍රදේශ විටින් විට රළු විය හැක. එම මුහුදු ප්‍රදේශවල ඇතැම් ස්ථානවල ඉතා තද වැසි හෝ ගිගුරුම් සහිත වැසි පැවතිය හැක.
+
+•කන්කසන්තුරය සිට පුත්තලම සහ කොළඹ හරහා ගාල්ල දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළගේ වේගය පැ.කි.මී. 50 පමණ දක්වා ඉහළ යාමට ඉඩ ඇති හෙයින් එම විටින් විට තරමක් රළු විය හැක.
+
+...
+
+[Data](articles/7941dae7.json)
+
+---
+
+### மதுபான அனுமதி பத்திரங்களுக்கு   கூறப்படும் நியாயங்கள்…!
+
+*2024-12-15 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201346) · `ta`
+
+நாட்டின் பொருளாதாரத்தை சீர்செய்வதற்கு மதுபான அனுமதி பத்திரங்கள் விநியோகத்தை நியாயப்படுத்தும் முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, உள்ளூராட்சி தேர்தல்களை இரத்து செய்ததன் காரணமாக  அரசாங்க பணம் 72 கோடி ரூபாவை  வீணடித்தமை பற்றி என்ன நியாயம் கூறப்போகின்றார்? 2023 ஆம் ஆண்டு உள்ளூராட்சி  மன்றத் தேர்தலுக்கான வேட்பு மனுக்கள் கோரப்பட்டு சகல செயற்பாடுகளும் முடிவடைந்த நிலையிலேயே ரணில் விக்ரமசிங்க அதை இரத்து செய்தார்.
+
+◼️
+
+[Data](articles/427d807c.json)
+
+---
 
 ### වෑන් රථයක් ප්‍රපාතයකට පෙරළෙයි
 
@@ -40,7 +72,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 මෙම වෑන් රථයේ 8 දෙනෙකු සිට ඇති අතර, ඉන් එක් අයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
 
-ගාල්ලේ සිට සංචාරයකට පැමිණි තරණයක් පිරිසක් මෙම අනතුරට මුහුණපා ඇති බව පොලීසිය පැවසීය.
+ගාල්ලේ සිට විනෝද චාරිකාවක පැමිණි පිරිසක් මෙම අනතුරට මුහුණ දී තිබේ.
 
 ◼️
 
@@ -2273,71 +2305,5 @@ The warning announcement has been issued for the Udtitha Korale, Patheddara, Pat
 [Data](articles/7406ce52.json)
 
 [Extended Data](ext_articles/7406ce52.ext.json)
-
----
-
-### Meegoda shot dead
-
-*2024-12-15 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204384) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Unidentified shooters killed two men near a house. Victim worked at Sethsiripaya. Wife and daughter present. One injured taken to hospital. Police investigating."
-
-🟩
-
-Two unidentified persons have been shot dead by two unidentified persons in a car yesterday.
-
-The shooting had been carried out from the house of the deceased's brother's house.
-
-Police say the car has parked the car and another person has done the shooting.
-
-The person who was seriously injured after being shot dead was admitted to the Homagama Base Hospital.
-
-When the shooting occurred, the daughter of the death and his wife were in the car.
-
-The deceased has served as an office assistant official at Sethsiripaya, Battaramulla, Battaramulla.
-
-The Meegoda Police are conducting further investigations and the Meegoda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/04d88d21.json)
-
-[Extended Data](ext_articles/04d88d21.ext.json)
-
----
-
-### In several areas mm. Heavy rains over 100
-
-*2024-12-15 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204383) · `si`
-
-Heavy rains expected in Eastern Province today. Showers/thundershowers possible in Central, Sabaragamuwa, Southern Provinces. Strong winds and lightning possible. Low-pressure zone near Bay of Bengal may move towards Tamil Nadu coast in next 2 days.
-
-🟩
-
-Showers or thundershowers will occur at times in the Eastern Province today (15).
-
-The department states that showers or thundershowers will occur at the evening or even night.
-
-MM to some places in the Central, Sabaragamuwa, Eastern and Southern provinces. The Department of Meteorology is prevailing that heavy rains can occur 100.
-
-In the middle of the Central, Sabaragamuwa, and Southern provinces, there are four in the morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-Meanwhile, the Met Department forecasts a low-pressure zone around the Bay of Bengal Bay of Bengal.
-
-After that, in the next two days, it is capable of moving to the Tamil Nadu coast near the north of the island.
-
-The system is demanding the next predictions and announcements issued by the Department of Meteorology, especially in the eastern and northern provinces of the island.
-
-◼️
-
-[Data](articles/6953c093.json)
-
-[Extended Data](ext_articles/6953c093.ext.json)
 
 ---

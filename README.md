@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 03:01:02**
+As of **2024-12-16 02:42:37**
 
 ## Newspaper Stats
 
-*Scraped **60,363** Articles*
+*Scraped **60,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 614
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
-dailyftlk | 4,170
+dailyftlk | 4,169
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
@@ -26,25 +26,11 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,346 (100.0%) of 60,363 articles have been extended.
+60,344 (100.0%) of 60,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
-
-### Education reforms should reckon matters if connected to market by generating creative capital
-
-*2024-12-16 02:43:20* · [`dailyftlk`](https://www.ft.lk/columns/Education-reforms-should-reckon-matters-if-connected-to-market-by-generating-creative-capital/4-770549) · `en`
-
-What is observed in the school system in Sri Lanka is, instead of encouraging students to question, they are trained to observe and uphold conformity
-
-The purpose of education should be to develop creative capital and not mere human capital as has been traditionally emphasised. Such creative capital should be global in outlook rather than national or territorial. They are today known as global citizens. The foundation for creating such global citizens should be laid from the very beginning of a student starting his education at the school level and continued through his tertiary education at universities. The role of the Government is to create the necessary environment conducive for citizens to become such creative people. This is what PM should do in her education reforms
-
-...
-
-[Data](articles/ca43cb8d.json)
-
----
 
 ### National Chamber, NEDA organise Western Province Entrepreneur Awards 2024 in grandeur
 
@@ -628,73 +614,49 @@ Many people have questioned my education qualifications. It has been accused in 
 
 ---
 
-### Slamula in a national crime discovered
+### උකුස්සා සොයාගත් ජාතික අපරාධයක සුලමුල
 
 *2024-12-15 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204406) · `si`
 
-Sri Lanka railway damage due to landslides. Advanced Italian machines imported but unused. Authorities urged to act.
+විවිධ හේතු නිසා මෙරට දුම්රිය මාර්ග අවහිරවීම් සහ ඒවාට සිදුවන හානි පිළිබඳ නිරන්තරයෙන් වාර්තා වේ.
 
-🟩
+පසුගිය දිනවල පැවති අධික වැස්සට පස්කඳු කඩාවැටී දුම්රිය මාර්ගවලට ආපදා සිදුවූ අවස්ථා කිහිපයක් වාර්තා විය.
 
-Due to various reasons is constantly reported in Sri Lanka's railway blocks and damage.
+මෙවන් අවස්ථාවලදී දුම්රිය මාර්ග යළි පිළිසකර කිරීම සඳහා සති ගණනක් ගතවන අතර ඊට දුම්රිය දෙපාර්තමේන්තුවේ සේවකයින්ගේ ශ්‍රමයත් අධික ලෙස වැය වේ.
 
-There were several opportunities for the recent disaster of five of the decomposed occasions in the recently ragged rains.
+ලොව දියුණු රටවල් මෙවන් අවස්ථාවලදී ඒවා පිළිසකර කරන්නේ තාක්ෂණය අතින් ඉහළ ආකාරයේ බහුකාර්ය යන්ත්‍ර වලිනි.
 
-It takes weeks to rehabilitate railway tracks and cost the labor of the Railway Department.
+උකුස්සා අද සඳහන් කරන්නේ මෙවැනි තාක්ෂණික යන්ත්‍ර නොමැතිව මෙරට අර්බුදයකට ලක්ව ඇති බවක් නොව එවන් තාක්ෂණික බහුකාර්ය යන්ත්‍ර 5ක් ම තිබියදී ඒවා භාවිත නොකර සිටීමේ අපරාධයක් ගැනය.
 
-The world advanced countries are in this way of transmitting technology with high-quality multipurpose machines.
+ශ්‍රී ලංකාවට ඉතාලියෙන් ගෙන්වන ලද බහු කාර්ය යන්ත්‍ර 5ක් දෙමටගොඩ මාර්ග හා කර්මාන්ත දෙපාර්තමේන්තු පරිශ්‍රයේ ගාල්කර ඇති බවට අද දෙරණ උකුස්සාට රහසිගත තොරතුරක් ලැබුණු අතර මේ සම්බන්ධයෙන් සොයා බැලීමට අද දෙරණ උකුස්සා එම ස්ථානයට ළඟාවිය.
 
-The hawk is not a crisis in Sri Lanka, but this is not enough crime without using 5 such technical multipurpose machines.
+එහිදී අපට දැකගත හැකිවුණේ බහුකාර්ය යන්ත්‍ර කිහිපයක් එම ස්ථානයේ ගාල්කර ඇති ආකාරයයි.
 
-Two multicastars brought from Italy to Sri Lanka have received a confidential information on the department of Details and Ada Derana Uk to look into the matter.
-
-There we could see some multi-multi-multiplied machines.
-
-Some of the internal parts of these machines have seen the hawk.
-
-The Uwkasa was also revealed that these machines were imported from Italy in February last year.
+මෙම යන්ත්‍රවල ඇතැම් අභ්‍යන්තර කොටස් පවා මේවන විට විනාශ වී ඇති අයුරු උකුස්සාට දක්නට ලැබුණි.
 
 ...
 
 [Data](articles/b6fe2f0e.json)
 
-[Extended Data](ext_articles/b6fe2f0e.ext.json)
-
 ---
 
-### Shanaka's all -round play, Darindu's great bowling
+### ஹம்பாந்தொட்ட பங்ளா டைகர்ஸை வெற்றிபெறச் செய்த ஷானக்கவின் சகலதுறை ஆட்டம், தரிந்துவின் அபார பந்துவீச்சு
 
 *2024-12-15 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201371) · `ta`
 
-Here's a summary of 200 characters:
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று மாலை நடைபெற்ற கண்டி போல்ட்ஸ் அணிக்கு எதிரான லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் அணித் தலைவர் தசுன் ஷானக்கவின் சகலதுறை ஆட்டம், தரிந்து ரத்நாயக்கவின் துல்லியமான பந்துவீச்சு என்பன ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணியை 47 ஓட்டங்களால் வெற்றிபெற உதவின.
 
+துடுப்பாட்டம், களத்தடுப்பு, பந்துவீச்சு ஆகிய மூன்று துறைகளிலும் தசுன் ஷானக்க அபார ஆற்றல்களை வெளிப்படுத்தினார்.
 
+இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் 10 ஓவர்களில் 6 விக்கெட்களை இழந்து 163 ஓட்டங்களைக் குவித்தது.
 
-Dasun Shanaka shines in all departments: 39*15b, 2/16 & 1/10. Dharnu Ratnayake bowls accurately. Hambantota Pangla Tigers win by 47 runs over Kandy Boltz.
+இந்த மொத்த எண்ணிக்கையானது அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் குவிக்கப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாகும்.
 
-🟩
-
-Dasun Shanaka's all -round match against the Kandy Boltz team at the Pallekele International Cricket Stadium this evening, Dasun Shanaka's all -round match and Dharnu Ratnayake's accurate bowling helped Hambantota Pangla Tigers by 47 runs.
-
-Dasun Shanaka expressed his energies in all three sectors of batting, fielding and bowling.
-
-Hambantota Bangla Tigers, who were first invited to bat first, scored 163 runs for the loss of 6 wickets in 10 overs.
-
-This total number is the highest number of India's most concentrated cricket match.
-
-Earlier, Jevna Titans scored 138 runs for the loss of 6 wickets in the match against Kalambo Jaguars on December 12.
-
-Mohammed Shazad scored 52 off 18 balls and 3 sixes on behalf of the Bangla Tigers of Hambantota, while team captain Dasun Shanaka scored 39 runs in 15 balls including 2 pounds and 4 sixes.
-
-Tananjaya Lakshan (18), Niru Udana (11) and Shabir Rahman (13 A.E.) received double digit numbers.
-
-Kandy Boltz lost by 9 wickets in 10 overs and lost 116 runs.
+இதற்கு முன்னர் கலம்போ ஜகுவார்ஸ் அணிக்கு எதிராக டிசம்பர் 12ஆம் திகதி  நடைபெற்ற போட்டியில் ஜெவ்னா டைட்டன்ஸ் பெற்ற 6 விக்கெட் இழப்புக்கு 138 ஓட்டங்களே அதிகூடிய எண்ணிக்கையாக இருந்தது.
 
 ...
 
 [Data](articles/f9c9efb2.json)
-
-[Extended Data](ext_articles/f9c9efb2.ext.json)
 
 ---
 
@@ -2389,5 +2351,25 @@ The three of them were produced before the Wellawatte Police Station and Wellawa
 [Data](articles/a873c7d5.json)
 
 [Extended Data](ext_articles/a873c7d5.ext.json)
+
+---
+
+### Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
+
+*2024-12-15 13:18:00* · [`economynextcom`](https://economynext.com/karl-marx-engels-would-have-approved-sri-lanka-rice-imports-for-working-class-analysis-194348/) · `en`
+
+ECONOMYNEXT – Sri Lanka has relaxed import licensing on rice, a staple food, till December 20, in bid to reduce rising local prices, but still kept a 220 dollar at tonne import tax in place, which is almost 50 percent duty on basic South Asian rice grades.
+
+Under the Rajapaksa regime and even earlier, Sri Lanka has imposed severe controls on the import of basic cereals, giving profits to politically powerful lobbies keeping both prices and malnutrition high.
+
+Sri Lanka to allow rice imports without licenses till December 20: Statement
+
+Going beyond taxes, import licensing was imposed, especially on maize to give profits to a collector lobby, making proteins like chicken and eggs also among the most expensive in the world. Taxes on protein rich grains like green gram was also hiked.
+
+Sri Lanka opposition laments child malnutrition as farmers protected at Rs300 cereal tax
+
+...
+
+[Data](articles/6fbffb3a.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 19:42:55**
+As of **2024-12-15 20:13:40**
 
 ## Newspaper Stats
 
-*Scraped **60,317** Articles*
+*Scraped **60,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,728
-adaderanalk | 7,349
+adaderanalk | 7,350
 tamilmirrorlk | 8,620
-virakesarilk | 9,922
-adaderanasinhalalk | 10,430
+virakesarilk | 9,928
+adaderanasinhalalk | 10,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,296 (100.0%) of 60,317 articles have been extended.
+60,301 (100.0%) of 60,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### President receives warm welcome from India
+
+*2024-12-15 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204405) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake arrives in India for a 3-day visit. He was warmly welcomed at the airport by Indian officials. The President will meet with Indian leaders, including Foreign Minister Dr. S. Jayasankara, to discuss bilateral relations and security matters.
+
+🟩
+
+President Anura Kumara Dissanayake reached India at around 5.30 pm on a three-day official visit.
+
+Indian Information and Communication Minister Dr. S. The President of India, Indian Ocean Commissioner Sanarizara, Indian Ocean, Survey, Indian Ocean, Additional Secretary to the Sri Lankan High Commissioner Survey, Indian Ocean Agran, and Indian Protocol Assignment Anushan Gambhor has been recognized by the President at Indira Gandhi International Airport.
+
+President Anura Kumara Dissanayake has been given a significant publicity in the Indian media.
+
+President Anura Kumara Dissanayake is Indian Foreign Minister Dr. S. Jayasankara is also scheduled to discuss Sri Ajith Dowal today (15) with the National Security Advisor of India.
+
+Foreign, Foreign Employment and Tourism Vijitha Herath, Labor Minister and Deputy Minister of Economic Development Prof. Anil Jayantha Fernando have joined the visit.
+
+◼️
+
+[Data](articles/a1bc6c65.json)
+
+[Extended Data](ext_articles/a1bc6c65.ext.json)
+
+---
+
+### Father of two children killed in wild elephant attack
+
+*2024-12-15 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201369) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Father of two killed in elephant attack in Anuradhapura. Police investigating incident. Body at Anuradhapura Teaching Hospital awaiting autopsy before handover to family.
+
+🟩
+
+A father of two children died on the spot, Eyabattuwa police said.
+
+Police are investigating the incident on Saturday night (14) in Ulukkulam in Anuradhapura.
+
+Investigations have revealed that the deceased is a 49 -year -old from Mahapulangulam area.
+
+The body of the deceased who died in the elephant attack has been placed in the funeral room of the Anuradhapura Teaching Hospital and the body will be handed over to relatives after autopsy.
+
+◼️
+
+[Data](articles/e993226a.json)
+
+[Extended Data](ext_articles/e993226a.ext.json)
+
+---
+
+### யாழ். சண்டிலிப்பாயில் தனது கழுத்தை தானே அறுத்த பெண்ணால் பரபரப்பு!
+
+*2024-12-15 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201368) · `ta`
+
+மானிப்பாய் பொலிஸ் பிரிவிற்குட்பட்ட சண்டிலிப்பாய் - தொட்டிலடி பகுதியில் இளம் பெண்ணொருவர் தனது கழுத்தினை தானே கூரிய ஆயுதத்தால் வெட்டியுள்ளார்.
+
+இதனால் குறித்த பெண்ணின் கழுத்தில் காயம் ஏற்பட்ட நிலையில் சங்கானை பிரதேச வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+இருப்பினும் குறித்த பெண் யார்? எந்த இடத்தை சேர்ந்தவர், கழுத்தினை அறுத்ததற்கான காரணம் என்ன? என்ற தகவல்கள் எவையும் இதுவரை வெளியாகவில்லை. மானிப்பாய் பொலிஸார் இச்சம்பவம் குறித்து தீவிர விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/026f02c0.json)
+
+---
+
+### One dead, 8 injured as van plunges into 50-foot precipice
+
+*2024-12-15 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104261/one-dead-8-injured-as-van-plunges-into-50-foot-precipice-) · `en`
+
+One person was killed while at least 08 others have been wounded following a tragic accident which occurred this afternoon (15) when a van traveling on the Riverston - Laggala road plunged into a 50-foot precipice.
+
+Police stated that the van was carrying nine passengers, one of whom was tragically killed in the accident, while eight others were left injured.
+
+The injured individuals have been rushed to Laggala Hospital for medical treatment.
+
+Police confirmed that the accident victims were part of a group from Galle who had been on an excursion.
+
+◼️
+
+[Data](articles/d8455017.json)
+
+---
+
+### දින 5ක දී පෞද්ගලික අංශය ආනයනය කළ සහල් තොගය
+
+*2024-12-15 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204404) · `si`
+
+පෞද්ගලික අංශය විසින් මේ දක්වා මෙරටට ආනයනය කර ඇති සහල් ප්‍රමාණය මෙට්‍රික් ටොන් 4,800ක් දක්වා ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා රේගුව පවසයි.
+
+රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා පැවසුවේ පසුගිය 9 වනදා සිට ඊයේ (14) දිනය දක්වා වූ කාලය තුළ එම සහල් තොගය ආනයනය කර ඇති බවය.
+
+ඊට නාඩු සහල් මෙට්‍රික් ටොන් 3,000ක් සහ සුදු කැකුළු මෙට්‍රික් ටොන් 1,800ක් ඇතුළත් වන බව ඔහු සඳහන් කළේය.
+
+මේ අතර රාජ්‍ය විවිධ නීතිගත සංස්ථාව විසින් ඇණවුම් කරන ලද මෙට්‍රික් 52,000ක සහල් තොගයේ පළමු ඇනවුම ලෙස සහල් මෙට්‍රික් ටොන් 5,200ක් ලබන 19 වනදා මෙරටට ලැබීමට නියමිතව තිබේ.
+
+දිවයින පුරා පිහිටි සතොස හා සමූපකාර අලෙවිසැල් ජාලය හරහා එම සහල් අලෙවි කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/75a297ba.json)
+
+---
 
 ### Five Reply Ministers Appointment
 
@@ -114,6 +222,56 @@ The Railway Department said that the train was unable to operate tomorrow mornin
 
 ---
 
+### ரஜரட்ட ரெஜின, சாகரிகா ரயில்களின் எஞ்ஜின்கள் ஒன்றுடன் ஒன்று மோதி விபத்து!
+
+*2024-12-15 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201365) · `ta`
+
+பெலியத்த ரயில் நிலையத்தில் இன்று ஞாயிற்றுக்கிழமை (15) காலை ரஜரட்ட ரெஜின மற்றும் சாகரிகா ரயில்களின் எஞ்ஜின்கள் ஒன்றுடன் ஒன்று மோதியதில் ஏற்பட்ட விபத்து தொடர்பில் ரயில் திணைக்களம் விசாரணைகளை ஆரம்பித்துள்ளது.
+
+பெலியத்தையிலிருந்து அனுராதபுரம் நோக்கி பயணித்த ரஜரட்ட ரெஜின ரயில் எஞ்ஜின் இயக்கத் திசையை மாற்றும்போது, அது தவறான பாதையில் பயணித்தமையினால் அங்கு நிறுத்திவைக்கப்பட்டிருந்த சாகரிகா ரயிலுடன் மோதியுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதனால் நாளை திங்கட்கிழமை (16) காலை ரயிலை இயக்க முடியாத நிலை ஏற்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+இன்று காலை இந்த விபத்து இடம்பெற்றதன் காரணமாக, பெலியத்தையிலிருந்து அநுராதபுரம் வரை 8.45 மணிக்கு இயக்கப்படவிருந்த ரஜரட்ட ரெஜின ரயில் தாமதமாகவே புறப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/de269458.json)
+
+---
+
+### தும்மலசூரியவில் இளைஞர் கொல்லப்பட்ட சம்பவம் - உயிரிழந்தவர் பெண்ணா?! - பிரேத பரிசோதனையில் அதிர்ச்சி!
+
+*2024-12-15 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201364) · `ta`
+
+தும்மலசூரிய, சியம்பலகஸ்ருப்ப பிரதேசத்தில் வெட்டிக் கொல்லப்பட்டதாக கூறப்படும் இளைஞரின் உடல் பிரேத பரிசோதனை செய்யப்பட்டபோது, உயிரிழந்த நபர் ஒரு பெண் என தெரியவந்துள்ளதாக தும்மலசூரிய பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 12ஆம் திகதி தும்மலசூரிய பிரதேசத்தில் படுகொலை செய்யப்பட்ட 39 வயதுடைய இளைஞனின் சடலம் தொடர்பில் குளியாப்பிட்டிய நீதிமன்றம் வழங்கிய உத்தரவின் பிரகாரம் குளியாப்பிட்டிய போதனா வைத்தியசாலையில் பிரேத பரிசோதனை மேற்கொள்ளப்பட்டது.
+
+உயிரிழந்தவர் தும்மலசூரிய, சியம்பலகஸ்ருப்ப பிரதேசத்தில் உள்ள பெரிய தோட்டமொன்றில் சில காலமாக வசித்து வந்ததாகவும் அவர் கைவிடப்பட்ட நாய்களை பராமரித்து வந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/afb17669.json)
+
+---
+
+### இரண்டு நீர்த்தேக்கங்களின் வான் கதவுகள் திறப்பு!
+
+*2024-12-15 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201353) · `ta`
+
+ஒரு வான் கதவு தலா 2 அடியும், மற்ற இரண்டு வான்கதவுகள் தலா 3 அடியும் திறக்கப்பட்டுள்ளன.
+
+செக்கனுக்கு 3775 கன அடி நீர் கலா ஓயாவுக்கு விடுவிக்கப்படுவதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+
+தலா ஒரு அடி திறக்கப்பட்டுள்ள இந்த வான் கதவுகள் மூலம் செக்கனுக்கு 600 கன அடி நீர் கலா ஓயாவுக்கு விடுவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/76431d32.json)
+
+---
+
 ### Egg prices drop ahead of festive season
 
 *2024-12-15 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104260/egg-prices-drop-ahead-of-festive-season) · `en`
@@ -131,6 +289,26 @@ This move comes after a period of high egg prices, with a single egg costing bet
 [Data](articles/cb85beaa.json)
 
 [Extended Data](ext_articles/cb85beaa.ext.json)
+
+---
+
+### யாழில் தனியார் பேருந்தின் சாரதி, நடத்துநரை தாக்கியவர் கைது!
+
+*2024-12-15 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201349) · `ta`
+
+புன்னாலைக்கட்டுவன் பகுதியில் வைத்து தனியார் பேருந்து ஒன்றின் சாரதி மற்றும் நடத்துநரை தாக்கிய சந்தேக நபர் ஒருவர் இன்றைய தினம் (15) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த 7 மாதங்களுக்கு முன்னர் புன்னாலைக்கட்டுவன் - யாழ்ப்பாணம் வழித்தட தனியார் பேருந்தினை மறித்து 3 பேர் கொண்ட குழுவினர், பேருந்தின் நடத்துநர் மீதும் சாரதி மீதும் தாக்குதல் மேற்கொண்டள்ளனர்.
+
+இதுகுறித்து பாதிக்கப்பட்டவர்கள் மேற்கொண்ட முறைப்பாடு தொடர்பாக தேடப்பட்டு வந்த பிரதான சந்தேக நபர் இன்றைய தினம் உரும்பிராய் பகுதியில் வைத்து, யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகருக்கு கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதுடன், இந்த சம்பவத்துடன் தொடர்புடைய மேலும் இருவர் தலைமறைவாகியுள்ளனர்.
+
+கைதானவரிடம் மேற்கொள்ளப்பட்ட ஆரம்பகட்ட விசாரணைகளில், இன்னொருவரின் தூண்டுதலின் பேரிலேயே தாங்கள் இந்த தாக்குதலை மேற்கொண்டதாக தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/db30d8f4.json)
 
 ---
 
@@ -166,23 +344,37 @@ The community of the Bay of Bengal, the fisheries and naval area in the Bay of B
 
 ---
 
-### මේ වසරේදී විදුලිය විසන්ධි කිරීම් 628286ක්
+### 628286 electricity disconnections this year
 
 *2024-12-15 17:50:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විදුලිය-විසන්ධි-කිරීම්-628286ක්/11-413651) · `si`
 
-මේ වසරේ ජනවාරි සිට ජුනි මාසය දක්වා විදුලිය විසන්ධි කිරීම්  හයලක්ෂ විසි අටදහස් දෙසිය අසූහයක් (628286ක්) සිදුවී තිබෙන බව
+Here's a summary of the text in approximately 200 characters:
 
-පසුගිය වසරෙහිදී විදුලිය විසන්ධි කිරීම්  නවලක්ෂ හැත්තෑදහස්  නවසිය තිස්තුනක් (970933ක්) සිදුව තිබෙන බවත් විදුලි විසන්ධි කිරීම සිදු කළ පසු  නැවත විදුලිය ලබා ගැනීමට රු.500ක  මුදලක් ගෙවීමට සිදුවන බවත් එම සංගමයේ  ජාතික ලේකම් සංජීව ධම්මික  සඳහන් කළේය.
 
-විදුලි බිල අධික වීම නිසා බොහෝ පිරිසකට නිසි කාලයෙහිදී විදුලි බිල ගෙවා ගත නොහැකි වන බවත් මේ නිසා විදුලි බිල 30%කින් අඩු කරන ලෙස 17දා මහජන උපයෝගිතා කොමිසමෙන් ඉල්ලා සිටින බවත් හෙතෙම පැවසීය.
 
-ලබන වසරට අදාළ විදුලි ගාස්තු සංශෝධනය සඳහා මහජන උපයෝගිතා කොමිසම විසින් මහජනතාවගෙන් ලිඛිතව හා වාචිකව අදහස් ලබා ගැනීම  අනුව ලිඛිතව හා වාචිකව තම සංගමය අදාළ ඉල්ලීම් සිදුකරන බවද ඔහු සඳහන් කළේය.
+Electricity disconnections: 628,286 homes, 5,579 businesses, 39 hotels from Jan to June. Last year: 97,093 disconnections. Average daily disconnections increased from 2,660 to 3,443. CEB struggles financially despite profits. Relief sought for January electricity bills.
 
-මේ වසරේ ජනවාරි සිට ජුනි මාසය දක්වා විදුලිය විසන්ධි කිරීම් 628286ක ප්‍රමාණය සලකා බැලීමේදී  නිවාස 505949ක,කර්මාන්තශාලා 8579ක,ආගමික ස්ථාන 2090ක,හෝටල් 39ක,රාජ්‍ය අංශයේ 359ක හා වෙනත්(කඩ සාප්පු) 111276ක විදුලිය විසන්ධි කර තිබෙන බවද හෙතෙම පැවසීය.
+🟩
+
+From January to June this year, electricity cuts have occurred to six hundred twenty-eighty thousand two hundred and eighty-eight towel (628286)
+
+After 12,940 to 900 (970933) of electricity disconnections last year, the electricity disconnected was Rs.
+
+He said that the electricity bill would not be paid by 30% due to the expulsion of the electricity bill, he said.
+
+He said the Public Utilities Commission would be requested to write and verbally comment from the public on writing and orally ideas for the revision of the next year.
+
+The number of power cuts from January to June from January to June was 628286 houses, 8579 houses, 39 hotels, 39 and other (shops) were disconnected in 111276 public sector, 39, 39 hotels and 39 hotels.
+
+He added that the average value of electricity cutting was 2660 per day in last year and is 3443.
+
+He further stated that the Electricity Board (CEB) has been severely helpless, but the CEB has been severely helpless but the Ceylon Electricity Board has been profit.
 
 ...
 
 [Data](articles/23aab403.json)
+
+[Extended Data](ext_articles/23aab403.ext.json)
 
 ---
 
@@ -1310,15 +1502,25 @@ Meanwhile, the Indian High Commission in Colombo said President Disanayaka will 
 
 ---
 
-### மீண்டும் ஏமாற்றப்படுகிறதா தமிழ் சமூகம்?
+### Is the Tamil community again deceived?
 
 *2024-12-15 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201328) · `ta`
 
-எண்ணிக்கையில் குறைவாக உள்ள சமூகங்களின் அல்லது இனங்களின் நலன்களை உறுதிப்படுத்துகின்ற விடயங்களை, சர்வஜன வாக்கெடுப்பு மூலம் நிறைவேற்றுவதும் இலகுவானதாக இருக்காது.ஏனென்றால், இன ரீதியான பிளவுகள், மதரீதியான பிளவுகள் என்பது ஆழ வேரோடியிருக்கின்ற  நாடு இது. சுதந்திரம் பெற்ற பின்னர் உருவாக்கப்பட்ட, அரசியலமைப்புகள் தமிழர்களின் கருத்துக்களை கேட்டறியாமல் அவர்களின் பங்குபற்றலின்றியே உருவாக்கப்பட்டிருந்தன.
+Here's a summary of 200 characters:
+
+
+
+Tamil community concerns about deception in referendums and constitution-making processes post-independence. Lack of representation and consideration of Tamil perspectives in creating laws affecting them.
+
+🟩
+
+It is not easy to pass through the referendum, which ensures the interests of communities or ethnic communities.. After independence, the constitutions were created without their participation without hearing the views of the Tamils.
 
 ◼️
 
 [Data](articles/160062ba.json)
+
+[Extended Data](ext_articles/160062ba.ext.json)
 
 ---
 
@@ -1518,17 +1720,27 @@ In a statement of the President's visit to India, the Indian Foreign Ministry sa
 
 ---
 
-### ආනයනික සහල් තොගයක ගුල්ලන්
+### In stock of imported rice
 
 *2024-12-15 12:23:24* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-සහල්-තොගයක-ගුල්ලන්/11-413637) · `si`
 
-පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කළ සහල් කිලෝ ග්‍රෑම් 75000ක් රට තුළට නොගැනිමට සෞඛ්‍ය අංශ විසින් අවසර දී නොමැත. මේ අනුව බහාලුම් තුනක පැවැති සහල් මෙසේ රටට නොගෙන ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-ඉන් බහාලුම් දෙකක පැවැති සහල්වල ගුල්ලන් සිට ඇති අතර තවත් බහාලුමක තිබූ සහල් ඇසුරුම් කර තිබූ මලු තුළ කල් ඉකුත් විමේ දිනය වෙනස් කර තිබී ඇත.
+
+
+Imported rice shortage: Health sector restrictions prevent private importers from bringing rice into the country. Three containers were initially blocked. Two contain rice, while one container's expiration date was altered.
+
+🟩
+
+Health sector has not been permitted by private importers to not live in the country. Accordingly, the rice held in three containers had not been brought to the country.
+
+Rice had been in rice held in two containers and has changed the date of expired in another container.
 
 ◼️
 
 [Data](articles/c86fec4f.json)
+
+[Extended Data](ext_articles/c86fec4f.ext.json)
 
 ---
 
@@ -2173,233 +2385,5 @@ Speaking at the District Development Committee meeting held at the Polonnaruwa D
 ◼️
 
 [Data](articles/47b68059.json)
-
----
-
-### Shooting in Maradana: Female injury
-
-*2024-12-15 09:25:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருதானையில்-துப்பாக்கிச்-சூடு-பெண்-காயம்/175-348732) · `ta`
-
-Colombo-13 woman shot at Maradana court. Two women arrested, one bailed. Injured woman hospitalized.
-
-🟩
-
-A 40-year-old woman from Colombo-13 has been injured in a shooting at the Maradana Malikkanda court complex, Maradana police said.
-
-According to the court, two women were arrested on Saturday (14) by the coastal police.
-
-The two were produced before the Magistrate's Magistrate on Saturday (14). The husband of a woman who came there took her on bail. Subsequently, the gunfire was carried out when he left with her husband.
-
-The injured woman has been admitted to the Colombo National Hospital for treatment.
-
-◼️
-
-[Data](articles/94e9aa2d.json)
-
-[Extended Data](ext_articles/94e9aa2d.ext.json)
-
----
-
-### Sri Lankan racketeer arrested
-
-*2024-12-15 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204388) · `si`
-
-Sri Lankan racketeer arrested: Hakmana Police detained a 36-year-old suspect from Puhulwella for defrauding over Rs. 43 lakhs through fake foreign employment schemes.
-
-🟩
-
-Hakmana Police have arrested a suspect who has been investigating the money that he is given foreign employment.
-
-The suspect was arrested yesterday (14) in connection with the suspect regarding the hackmana police station.
-
-The suspect is a 36 year old resident of the Puhulwella area.
-
-Investigations have revealed that the suspect had defrauded over Rs. 43 lakhs.
-
-◼️
-
-[Data](articles/0cf4e01c.json)
-
-[Extended Data](ext_articles/0cf4e01c.ext.json)
-
----
-
-### One person killed in Megoda firing
-
-*2024-12-15 09:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-348731) · `ta`
-
-Megoda shooting: 1 killed, 1 injured. Unidentified gunman targets 32-year-old man in his home. Wife and infant daughter present. Police investigating.
-
-🟩
-
-A 32 -year -old man has been killed in a shooting incident in Nagahawatte, Megoda.
-
-The shooting took place on Saturday (14) in his own home from his brother's house in Megoda, police said.
-
-The car is shot dead by an unidentified person. The victim's wife and one and a half -year -old daughter were in the vehicle during the shooting.
-
-A man who was severely injured has been taken to Homagama Hospital and has died without treatment.
-
-As the attackers have not yet been identified, the Meegoda police are conducting investigations.
-
-◼️
-
-[Data](articles/61012dd5.json)
-
-[Extended Data](ext_articles/61012dd5.ext.json)
-
----
-
-### Five dead, dozens missing in Greece as migrant boat sinks
-
-*2024-12-15 09:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104245/five-dead-dozens-missing-in-greece-as-migrant-boat-sinks) · `en`
-
-Five migrants died early Saturday when a migrant boat sank off Crete, Greece’s coastguard said, leaving 40 people reportedly missing while 39 survivors were rescued, all men. The boat sank 12 nautical miles southwest of the island, according to ERTNEWS, which reported the 40 missing.
-
-A huge rescue operation involving vessels and aircraft was under way in the sea near the island of Gavdos, south of Crete, after the boat capsized shortly after midnight, the coastguard said.
-
-According to the Athens News Agency, a migrant is being treated in the intensive care unit of the Chania hospital in the ICU in a serious condition while three people are also hospitalised with cardiac problems and hypothermia.
-
-Saturday afternoon, the coastguard told AFP that the number of migrants found dead had risen to five.
-
-...
-
-[Data](articles/4342514a.json)
-
-[Extended Data](ext_articles/4342514a.ext.json)
-
----
-
-### Drug distributor in Wellawatte
-
-*2024-12-15 09:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-போதைப்பொருள்-விநியோகித்தவர்-சிக்கினார்/175-348730) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 arrested in Wellawatte drug bust: 40g cocaine, 206g other drugs seized. Distributor linked to imprisoned dealer. Drugs sold to nightclubs, wealthy individuals, including university students."
-
-🟩
-
-Two persons, including the hijackers of cocaine and Kush, have been arrested by the Central Anti -Corruption Task Force on Saturday (14).
-
-A total of 40 grams of cocaine and 206 grams of drugs worth more than 6 lakh rupees have been found from the arrested suspects, and the eighteen lakhs of rupees earned by the same drug trafficking has been seized, the Central Anti -Corruption Force officials said.
-
-The drug trafficking is being carried out by a drug dealer currently in prison and the arrested drug dealer has secretly distributed drugs to popular nightclubs across the country and to the rich working in high -level work..  அத்துடன், தனியார் பல்கலைக்கழகங்களில் படிக்கும் பெரும் பணக்காரர்களின் பிள்ளைகளுக்கும் விற்பனை செய்யப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/e053c15f.json)
-
-[Extended Data](ext_articles/e053c15f.ext.json)
-
----
-
-### Samurdhi office assistant wife, shot in front of child
-
-*2024-12-15 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201298) · `ta`
-
-Shooting kills office worker in Sri Lanka; wife, toddler witness attack
-
-🟩
-
-One person was killed in a shooting in the Meegoda - Nagahawatta area, police said.
-
-The firing was carried out by two unidentified people on Saturday night (14), targeting the man who was traveling in the car.
-
-The father of a 32 -year -old child, who was serving as an office assistant at Samurdhi main office in Sethsiripaya in Battaramulla, was killed in the shooting, police said.
-
-The shooting was carried out while traveling from the house of the deceased's brother to his home in Nagahawatta.
-
-A man who was severely injured in the shooting has been admitted to the Homagama Hospital after he died without treatment.
-
-An investigation by police revealed that his one -and -a -half -year -old daughter and his wife were in the car during the shooting and that an unidentified person had interrupted the car and fled one another.
-
-In addition, the shooters have not yet been identified and the Meegoda police are conducting further investigations.
-
-◼️
-
-[Data](articles/d0f58453.json)
-
-[Extended Data](ext_articles/d0f58453.ext.json)
-
----
-
-### පළමු නිල සංචාරය අරඹමින් ජනපති ඉන්දියාවට
-
-*2024-12-15 08:52:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crrwqlp4q9ko) · `si`
-
-අනුර කුමාර දිසානායක ජනාධිපති ධුරයට පත්විමෙන් පසුව ප්‍රථම විදෙස් සංචාරය ලෙස අද (දෙසැම්බර් 15 වැනිදා) පස්වරුවේ  අසල්වැසි ඉන්දියාව බලා පිටත්ව ගියේය.
-
-ජනාධිපතිවරයා සමග විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් සහ කම්කරු අමාත්‍ය අනිල් ජයන්ත ද මෙම තෙදින නිල සංචාරය සඳහා එක්ව සිටිති.
-
-ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු ගේ ආරාධනාවකට අනුව ජනාධිපති අනුර කුමාර දිසානායක ඉන්දියාවේ සංචරයක නිරත වන බව ශ්‍රී ලංකාවේ විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේය.
-
-මෙහි දී ඉන්දීය අගමැති හමු වී එකඟතා කිහිපයකට ද එළඹීමට නියමිත බවත් මෙම සංචාරයේ දී ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු  සහ තවත් රාජ්‍යතාන්ත්‍රිකයන් කිහිපදෙනෙකු ම මුණ ගැසීමට නියමිත බවත් එම නිවේදනයේ දැක්වෙයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක, ඉන්දීය උප ජනාධිපති ශ්‍රී ජග්දීප් දන්කාර්, ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස් ජයිශංකර්, ඉන්දීය සෞඛ්‍ය අමාත්‍ය ජේ.පී.නන්ද, ඉන්දියාවේ ජාතික ආරක්ෂක උපදේශක ශ්‍රී අජිත් දෝවාල් ඇතුළු තවත් රාජතාන්ත්‍රිකයන් සමඟ සාකච්ඡා පැවැත්වීමට නියමිත බව ජනාධිපති අංශය සඳහන් කළේය.
-
-...
-
-[Data](articles/c105072d.json)
-
----
-
-### The new bishop of Mannar Diocese
-
-*2024-12-15 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201297) · `ta`
-
-New bishop appointed for Mannar Diocese by Pope Francis. Emmanuel Fernando named successor, serving since 2017. Announcement made at St. Sebastian Church.
-
-🟩
-
-The new bishop of the Mannar Diocese has been appointed by the Pope, who has served as the Mother of the Mother of the Mannar.
-
-Emmanuel Fernando, who served as the pastor of the Mannar Diocese since 2017, has been appointed by Pope Francis as the new bishop of Mannar Diocese, the Gnanaparakam Antony Pillai Adikallar, the Mannar Diocese.
-
-The news of the Pope was officially read by the Archbishop Emmanuel Fernando, the Archdiocese of Mannar at the St. Sebasriyar Perakalai, the Mannar Diocese.
-
-Jaffna Gnanaparasakam Antony Pillai Annayaka Mannar Diocese of Gurus. It is also worth noting that St. Mathinaru was fully received at the small clergy and the St. Savior High College of St. Savior, Colombo.
-
-◼️
-
-[Data](articles/2ad8925e.json)
-
-[Extended Data](ext_articles/2ad8925e.ext.json)
-
----
-
-### You may also be concerned about you in Sri Pada pilgrimage
-
-*2024-12-15 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204387) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Pada pilgrimage rules: no permanent structures, banned items, waste management, health precautions, trading restrictions, accommodation requirements.
-
-🟩
-
-Accordingly, the phillowship of the ancient Sri Pada temple in Galpottawatte and the Sri Pada Kahanduwa in the Gelpottawatte.
-
-Meanwhile, the commencement of Ratnapura District Secretary Wasantha Gunaratne has also issued a special gazette notification.
-
-The gazette notification states that the guidelines should be followed in the proof of the Siripa pilgrimage.
-
-According to the tourist trade in Sri Lanka and the trail, along with the trail, is forbidden and all that are prepared to sell should be detled with covers to protect them from flies.
-
-In the announcement, there will be prohibited by anywhere else to be retired, except or maintaining or maintaining accommodation.
-
-1. The Lihigiwela Viharaya, Uthamiwela Viharaya, Aaddiyalagena, Warragala, Coloragala, Stragunu, Medayna, Yadagatu, Medayna, needwinup, Medayayna, needi sheets.
-
-No permanent or temporary building or a store for May 13, 2025 from 1 December 13, 2025 from 14 December 13, 2025 to May 13, 2025.
-
-...
-
-[Data](articles/ae6819e9.json)
-
-[Extended Data](ext_articles/ae6819e9.ext.json)
 
 ---

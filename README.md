@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 02:42:37**
+As of **2024-12-16 03:27:07**
 
 ## Newspaper Stats
 
-*Scraped **60,362** Articles*
+*Scraped **60,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,119 @@ colombotelegraphcom | 614
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
-dailyftlk | 4,169
+dailyftlk | 4,170
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
 tamilmirrorlk | 8,622
-virakesarilk | 9,938
+virakesarilk | 9,944
 adaderanasinhalalk | 10,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,344 (100.0%) of 60,362 articles have been extended.
+60,348 (100.0%) of 60,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### மீட்டியகொட மஹவத்த பகுதியில் துப்பாக்கிச் சூடு
+
+*2024-12-16 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201383) · `ta`
+
+◼️
+
+[Data](articles/e4f67de2.json)
+
+---
+
+### Education reforms should reckon matters if connected to market by generating creative capital
+
+*2024-12-16 02:43:20* · [`dailyftlk`](https://www.ft.lk/columns/Education-reforms-should-reckon-matters-if-connected-to-market-by-generating-creative-capital/4-770549) · `en`
+
+What is observed in the school system in Sri Lanka is, instead of encouraging students to question, they are trained to observe and uphold conformity
+
+The purpose of education should be to develop creative capital and not mere human capital as has been traditionally emphasised. Such creative capital should be global in outlook rather than national or territorial. They are today known as global citizens. The foundation for creating such global citizens should be laid from the very beginning of a student starting his education at the school level and continued through his tertiary education at universities. The role of the Government is to create the necessary environment conducive for citizens to become such creative people. This is what PM should do in her education reforms
+
+...
+
+[Data](articles/ca43cb8d.json)
+
+[Extended Data](ext_articles/ca43cb8d.ext.json)
+
+---
+
+### வருமான வரி செலுத்தாதவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் - உள்ளாட்டு இறைவரி திணைக்கள ஆணையாளர்
+
+*2024-12-16 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201382) · `ta`
+
+2023, 2024 மதிப்பீட்டு வருடத்தின் எஞ்சிய வரி பணத்தை எதிர்வரும் 26ஆம் திகதிக்கு முன்னர் செலுத்துமாறு உள்ளாட்டு இறைவரித் திணைக்களம் அறிவித்துள்ளது. குறித்த திகதிக்கு முன்னர் வரி பணம் செலுத்த தவறும் நபர்கள் மற்றும் நிறுவனங்களுக்கு எந்த நிவாரணமும் வழங்கப்படாது என திணைக்களத்தின் ஆணையாளர் சேபாலிகா சந்திரசேகர தெரிவித்துள்ளார்.
+
+இதுவரை செலுத்தாத சுய மதிப்பீட்டு வரி மற்றும் எஞ்சிய வரி பணத்தை அறவிடுவதற்காக கள ஆய்வு மற்றும் உள்நாட்டு இறைவரி கட்டளை சட்டங்களின் பிரகாரம் சட்ட ரீதியில் நடவடிக்கை எடுப்பதற்கு ஆரம்பிக்கப்பட்டுள்ளது.அவர்களுக்கு எதிராக 2025 ஜனவரி மாதத்தில் சட்ட நடவடிக்கை எடுக்கப்படும் எனவும் ஆணையாளர் தெரிவித்துள்ளார்.
+
+அத்துடன் எஞ்சிய வருமான வரி பணம் செலுத்தாத நபர்களுக்கு முன் அறிவிப்பின்றி அவர்களின்  வங்கி கணக்குகளில் இருந்து பணத்தை அறவிட நடவடிக்கை எடுக்கப்படும். இதற்கு மேலதிகமாக அவர்கள் செலுத்த வேண்டிய மீதமுள்ள வரி பணத்தின் அளவுக்கமைய குற்றவியல் வழக்கு தொடுப்பதற்கு நடவடிக்கை எடுப்பதாகவும் ஆணையாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f10b0735.json)
+
+---
+
+### மீனவர்கள் நேரில் சந்திப்பது இதுவரை நடைபெறவில்லை; அவ்வாறு இடம்பெறுமாயின் பல பிரச்சினைகளுக்கு தீர்வு காண முடியும் -  இந்திய உயர் ஸ்தானிகராலயத்தின் துணைத்தூதுவர் சாய் முரளி
+
+*2024-12-16 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/201381) · `ta`
+
+மீனவர்கள் நேரில் சந்திப்பது இதுவரை நடைபெறவில்லை. அது இடம்பெறுமாயின் பல பிரச்சினைகளுக்கு தீர்வு காண முடியும் என இந்திய உயர் ஸ்தானிகராலயத்தின் யாழ்ப்பாணம் துணைத்தூதுவர் சாய் முரளி இவ்வாறு தெரிவித்தார்.
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகராலயத்தின் பெரும் பங்களிப்புடன் மிஸ்பா ஜெப மிஷனரி ஆலயத்தின் ஏற்பாட்டில் சனிக்கிழமை (14.12.2024 முல்லைத்தீவு முள்ளியவளையில் மாபெரும் நத்தார் பெருவிழா இடம்பெற்றிருந்தது. நிகழ்வின் பின்னர் இடம்பெற்ற ஊடக சந்திப்பின் போது கருத்து தெரிவிக்கையிலே இவ்வாறு தெரிவித்தார்,
+
+இந்திய மக்கள் சார்பாக மிஸ்பா ஜெப மிஷனரி ஆலய மாணவர்களுக்கு இந்திய மக்கள் சார்பாக கலந்து கொண்டு உதவித்திட்டங்களை வழங்குவதில் பெருமையடைகிறேன்.
+
+இந்திய அரசாங்கத்தினால் ஆரம்பிக்கப்பட்ட பல திட்டங்களில் குறிப்பாக வடக்கு, கிழக்கு மாகாணத்திலுள்ள மக்களுக்கு ஆதரவாக மேலும் யாழ்ப்பாண பல்கலைக்கழகம், கிழக்கு பல்கலைக்கழகம் சம்பந்தமான திட்டங்களும் அண்மையில் ஆரம்பிக்கப்பட்டிருக்கிறது
+
+...
+
+[Data](articles/1409369a.json)
+
+---
+
+### மனித உரிமை செயற்பாட்டாளரான அருட்தந்தை லூக் அவர்கள் தாக்கப்பட்டார்
+
+*2024-12-16 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201380) · `ta`
+
+கிளிநொச்சியில் நத்தார் இன்னிசை வழிபாட்டுக்கு பயணித்துக் கொண்டிருந்த மனித உரிமை செயற்பாட்டாளர் அருட்தந்தை.ம.லூக். சனிக்கிழமை (14) மாலை வழி மறிக்கப்பட்டு தாக்கப்பட்டுள்ளார்.
+
+கிளிநொச்சி முறிகண்டியை சேர்ந்த தன்னை சுயாதீன ஊடகவியலாளர் என அழைத்துக் கொள்ளும் நபர் ஒருவரே இத்தாக்குதலை நடத்தி அருட்தந்தையின் கழுத்தை நெரித்து கொலை செய்ய முயன்றதாகவும்.
+
+◼️
+
+[Data](articles/937adad2.json)
+
+---
+
+### நுவர எலிய கிங்ஸை வெற்றிகொண்ட ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட தகுதிபெற்றுக்கொண்டது
+
+*2024-12-16 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201379) · `ta`
+
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (15) இரவு நடைபெற்ற ஜெவ்னா டைட்டன்ஸ் அணிக்கும் நுவர எலிய கிங்ஸ் அணிக்கும் இடையிலான லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் ஜெவ்னா டைட்டன்ஸ் 53 ஓட்டங்களால் வெற்றியீட்டியது.
+
+அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் சுற்றுப் போட்டியில் ஜெவ்னா டைட்டன்ஸ் ஈட்டிய 4ஆவது வெற்றி இதுவாகும். ஜெவ்னா டைட்டன்ஸின் மற்றொரு போட்டியில் முடிவு கிட்டவில்லை.
+
+இந்த வெற்றியுடன் 9 புள்ளிகளைப் பெற்றுள்ள ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட முதலாவது அணியாக தகுதிபெற்றுக்கொண்டது.
+
+இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ஜெவ்னா டைட்டன்ஸ் அணி 10 ஓவர்களில் 4 விக்கெட்களை மாத்திரம் இழந்து 153 ஓட்டங்களைக் குவித்தது.
+
+ஆரம்ப வீரர்களான டொம் கோஹ்லர் கெட்மோர் (7), குசல் மெண்டிஸ் (9) ஆகிய இருவரும் குறைந்த எண்ணிக்கைகளுக்கு ஆட்டம் இழந்தனர்.
+
+சரித் அசலன்க, டொம் ஆபெல் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் 34 பந்துகளில் 89 ஓட்டங்களைப் பகிர்ந்து அணியைப் பலமான நிலையில் இட்டனர்.
+
+...
+
+[Data](articles/5053e7e7.json)
+
+---
 
 ### National Chamber, NEDA organise Western Province Entrepreneur Awards 2024 in grandeur
 
@@ -368,6 +464,24 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 
 ---
 
+### பத்தாவது பாராளுமன்றத்தின் புதிய சபாநாயகர் தெரிவு
+
+*2024-12-15 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201359) · `ta`
+
+பத்தாவது பாராளுமன்றத்தின் புதிய சபாநாயகர் தெரிவு  செவ்வாய்க்கிழமை (17) இடம்பெறவுள்ளது. சபாநாயகர் பதவிக்கு ஆளும் கட்சியான தேசிய மக்கள் சக்தி சார்பில் மூவரின் பெயர்கள் பரிந்துரைக்கப்பட்டுள்ள நிலையில்,  பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி சபாநாயகர் பதவிக்கு முன்மொழிவதாக குறிப்பிட்டுள்ளது.
+
+கல்வி தகைமை விவகாரத்தில் எழுந்த கடும் சர்ச்சையை தொடர்ந்து பத்தாவது பாராளுமன்றத்தில் சபாநாயகராக தெரிவு செய்யப்பட்ட அசோக்க சபுமல் ரன்வல கடந்த வெள்ளிக்கிழமை (13) தனது பதவியை இராஜினாமா செய்தார்.
+
+சபாநாயகரின் பதவி விலகலை ஜனாதிபதி ஏற்றுக்கொண்டதாக ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக குணநாயக்க பாராளுமன்ற செயலாளர் நாயகம் சட்டத்தரணி குஷானி ரோஹனதீரவுக்கு உத்தியோகபூர்வமாக  சனிக்கிழமை (14) அறிவித்துள்ளார்.
+
+இதற்கமைய சிறந்த மற்றும் சிரேஷ்டத்துவமிக்க ஒருவரை புதிய சபாநாயகராக தெரிவு செய்ய அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளது.
+
+...
+
+[Data](articles/aea09573.json)
+
+---
+
 ### Shooting shooting in Mahawatta Mahawatta
 
 *2024-12-15 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204409) · `si`
@@ -614,49 +728,73 @@ Many people have questioned my education qualifications. It has been accused in 
 
 ---
 
-### උකුස්සා සොයාගත් ජාතික අපරාධයක සුලමුල
+### Slamula in a national crime discovered
 
 *2024-12-15 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204406) · `si`
 
-විවිධ හේතු නිසා මෙරට දුම්රිය මාර්ග අවහිරවීම් සහ ඒවාට සිදුවන හානි පිළිබඳ නිරන්තරයෙන් වාර්තා වේ.
+Sri Lanka railway damage due to landslides. Advanced Italian machines imported but unused. Authorities urged to act.
 
-පසුගිය දිනවල පැවති අධික වැස්සට පස්කඳු කඩාවැටී දුම්රිය මාර්ගවලට ආපදා සිදුවූ අවස්ථා කිහිපයක් වාර්තා විය.
+🟩
 
-මෙවන් අවස්ථාවලදී දුම්රිය මාර්ග යළි පිළිසකර කිරීම සඳහා සති ගණනක් ගතවන අතර ඊට දුම්රිය දෙපාර්තමේන්තුවේ සේවකයින්ගේ ශ්‍රමයත් අධික ලෙස වැය වේ.
+Due to various reasons is constantly reported in Sri Lanka's railway blocks and damage.
 
-ලොව දියුණු රටවල් මෙවන් අවස්ථාවලදී ඒවා පිළිසකර කරන්නේ තාක්ෂණය අතින් ඉහළ ආකාරයේ බහුකාර්ය යන්ත්‍ර වලිනි.
+There were several opportunities for the recent disaster of five of the decomposed occasions in the recently ragged rains.
 
-උකුස්සා අද සඳහන් කරන්නේ මෙවැනි තාක්ෂණික යන්ත්‍ර නොමැතිව මෙරට අර්බුදයකට ලක්ව ඇති බවක් නොව එවන් තාක්ෂණික බහුකාර්ය යන්ත්‍ර 5ක් ම තිබියදී ඒවා භාවිත නොකර සිටීමේ අපරාධයක් ගැනය.
+It takes weeks to rehabilitate railway tracks and cost the labor of the Railway Department.
 
-ශ්‍රී ලංකාවට ඉතාලියෙන් ගෙන්වන ලද බහු කාර්ය යන්ත්‍ර 5ක් දෙමටගොඩ මාර්ග හා කර්මාන්ත දෙපාර්තමේන්තු පරිශ්‍රයේ ගාල්කර ඇති බවට අද දෙරණ උකුස්සාට රහසිගත තොරතුරක් ලැබුණු අතර මේ සම්බන්ධයෙන් සොයා බැලීමට අද දෙරණ උකුස්සා එම ස්ථානයට ළඟාවිය.
+The world advanced countries are in this way of transmitting technology with high-quality multipurpose machines.
 
-එහිදී අපට දැකගත හැකිවුණේ බහුකාර්ය යන්ත්‍ර කිහිපයක් එම ස්ථානයේ ගාල්කර ඇති ආකාරයයි.
+The hawk is not a crisis in Sri Lanka, but this is not enough crime without using 5 such technical multipurpose machines.
 
-මෙම යන්ත්‍රවල ඇතැම් අභ්‍යන්තර කොටස් පවා මේවන විට විනාශ වී ඇති අයුරු උකුස්සාට දක්නට ලැබුණි.
+Two multicastars brought from Italy to Sri Lanka have received a confidential information on the department of Details and Ada Derana Uk to look into the matter.
+
+There we could see some multi-multi-multiplied machines.
+
+Some of the internal parts of these machines have seen the hawk.
+
+The Uwkasa was also revealed that these machines were imported from Italy in February last year.
 
 ...
 
 [Data](articles/b6fe2f0e.json)
 
+[Extended Data](ext_articles/b6fe2f0e.ext.json)
+
 ---
 
-### ஹம்பாந்தொட்ட பங்ளா டைகர்ஸை வெற்றிபெறச் செய்த ஷானக்கவின் சகலதுறை ஆட்டம், தரிந்துவின் அபார பந்துவீச்சு
+### Shanaka's all -round play, Darindu's great bowling
 
 *2024-12-15 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201371) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று மாலை நடைபெற்ற கண்டி போல்ட்ஸ் அணிக்கு எதிரான லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் அணித் தலைவர் தசுன் ஷானக்கவின் சகலதுறை ஆட்டம், தரிந்து ரத்நாயக்கவின் துல்லியமான பந்துவீச்சு என்பன ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணியை 47 ஓட்டங்களால் வெற்றிபெற உதவின.
+Here's a summary of 200 characters:
 
-துடுப்பாட்டம், களத்தடுப்பு, பந்துவீச்சு ஆகிய மூன்று துறைகளிலும் தசுன் ஷானக்க அபார ஆற்றல்களை வெளிப்படுத்தினார்.
 
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் 10 ஓவர்களில் 6 விக்கெட்களை இழந்து 163 ஓட்டங்களைக் குவித்தது.
 
-இந்த மொத்த எண்ணிக்கையானது அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் குவிக்கப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாகும்.
+Dasun Shanaka shines in all departments: 39*15b, 2/16 & 1/10. Dharnu Ratnayake bowls accurately. Hambantota Pangla Tigers win by 47 runs over Kandy Boltz.
 
-இதற்கு முன்னர் கலம்போ ஜகுவார்ஸ் அணிக்கு எதிராக டிசம்பர் 12ஆம் திகதி  நடைபெற்ற போட்டியில் ஜெவ்னா டைட்டன்ஸ் பெற்ற 6 விக்கெட் இழப்புக்கு 138 ஓட்டங்களே அதிகூடிய எண்ணிக்கையாக இருந்தது.
+🟩
+
+Dasun Shanaka's all -round match against the Kandy Boltz team at the Pallekele International Cricket Stadium this evening, Dasun Shanaka's all -round match and Dharnu Ratnayake's accurate bowling helped Hambantota Pangla Tigers by 47 runs.
+
+Dasun Shanaka expressed his energies in all three sectors of batting, fielding and bowling.
+
+Hambantota Bangla Tigers, who were first invited to bat first, scored 163 runs for the loss of 6 wickets in 10 overs.
+
+This total number is the highest number of India's most concentrated cricket match.
+
+Earlier, Jevna Titans scored 138 runs for the loss of 6 wickets in the match against Kalambo Jaguars on December 12.
+
+Mohammed Shazad scored 52 off 18 balls and 3 sixes on behalf of the Bangla Tigers of Hambantota, while team captain Dasun Shanaka scored 39 runs in 15 balls including 2 pounds and 4 sixes.
+
+Tananjaya Lakshan (18), Niru Udana (11) and Shabir Rahman (13 A.E.) received double digit numbers.
+
+Kandy Boltz lost by 9 wickets in 10 overs and lost 116 runs.
 
 ...
 
 [Data](articles/f9c9efb2.json)
+
+[Extended Data](ext_articles/f9c9efb2.ext.json)
 
 ---
 
@@ -667,6 +805,8 @@ Many people have questioned my education qualifications. It has been accused in 
 ...
 
 [Data](articles/098fbe69.json)
+
+[Extended Data](ext_articles/098fbe69.ext.json)
 
 ---
 
@@ -2207,169 +2347,5 @@ It is clearly observed that the forces that are threatening the West, especially
 [Data](articles/e740ce54.json)
 
 [Extended Data](ext_articles/e740ce54.ext.json)
-
----
-
-### Opposition is a name for the appointment of the Speaker
-
-*2024-12-15 13:53:48* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයා-පත්-කිරීමේදී-විපක්ෂයෙනුත්-නමක්/11-413638) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Opposition names Speaker: MP Nalin Bandara proposes candidate at Colombo press conference."
-
-🟩
-
-MP Nalin Bandara said that the appointment of the new Speaker was proposing a name to the post, he said.
-
-He was speaking at a media briefing held in Colombo today (15).
-
-◼️
-
-[Data](articles/15ea41af.json)
-
-[Extended Data](ext_articles/15ea41af.ext.json)
-
----
-
-### Will the Confederacy again?
-
-*2024-12-15 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201334) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Tamil National Alliance parties realized their strengths. Meeting between Sridharan and Gajendrakumar uncertain about consensus outcome.
-
-🟩
-
-Most parties behaved as if they were in the Tamil National Alliance. Now all parties have been able to realize what their strengths are. The meeting between Sridharan and Gajendrakumar is now unable to guess whether the consensus between the two parties will lead.
-
-◼️
-
-[Data](articles/066dc531.json)
-
-[Extended Data](ext_articles/066dc531.ext.json)
-
----
-
-### Is China to disrupt?
-
-*2024-12-15 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201331) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"China's involvement in a financial crisis resulted in a $6 million loss. The question implies potential disruption from China's actions."
-
-🟩
-
-China would not have been forcibly forcibly $ 6 million in that crisis.
-
-◼️
-
-[Data](articles/7372e9bf.json)
-
-[Extended Data](ext_articles/7372e9bf.ext.json)
-
----
-
-### President set to leave for India today
-
-*2024-12-15 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104253/president-set-to-leave-for-india-today) · `en`
-
-President Anura Kumara Dissanayake is slated to undertake an official state visit to India today (15).
-
-Accordingly, this is the first overseas visit undertaken by the President after his assumption of office.
-
-During the visit, President Dissanayake is scheduled to meet the Indian President Smt. Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and other Indian dignitaries on a range of issues of mutual interest.
-
-The visit will further advance and consolidate the long-standing relations between the two countries, the Ministry of Foreign Affairs, Foreign Employment, and Tourism said in a statement.
-
-Meanwhile, the Indian High Commission in Colombo said President Disanayaka will also participate in a business event in Delhi to promote investment and commercial linkages between India and Sri Lanka. Further, he will visit Bodh Gaya as part of the visit.
-
-...
-
-[Data](articles/6fbd6694.json)
-
-[Extended Data](ext_articles/6fbd6694.ext.json)
-
----
-
-### Is the Tamil community again deceived?
-
-*2024-12-15 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201328) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil community concerns about deception in referendums and constitution-making processes post-independence. Lack of representation and consideration of Tamil perspectives in creating laws affecting them.
-
-🟩
-
-It is not easy to pass through the referendum, which ensures the interests of communities or ethnic communities.. After independence, the constitutions were created without their participation without hearing the views of the Tamils.
-
-◼️
-
-[Data](articles/160062ba.json)
-
-[Extended Data](ext_articles/160062ba.ext.json)
-
----
-
-### Three suspects arrested with drugs
-
-*2024-12-15 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204393) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 suspects arrested with drugs in Walana & Colinwood areas. Ages: 14, 25, 25. Hookin, Rash found. Money seized. Further investigation ongoing."
-
-🟩
-
-The Walana Anti-Corruption Unit has also been arrested for the arrest of three suspects with hookin and rash.
-
-The suspects were arrested by a team of officers in the Walawatta Police Division in Kllinwood Mawatha.
-
-The money has been taken into police custody a sum of Rs.
-
-Two more suspects have been arrested in the Colinwood Mawatha, 03 milligrams of Kashnoad.
-
-The suspects are residents of Mattakkuliya and Colombo 14 years old and 25 years old.
-
-The three of them were produced before the Wellawatte Police Station and Wellawatte police are conducting further investigations.
-
-◼️
-
-[Data](articles/a873c7d5.json)
-
-[Extended Data](ext_articles/a873c7d5.ext.json)
-
----
-
-### Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
-
-*2024-12-15 13:18:00* · [`economynextcom`](https://economynext.com/karl-marx-engels-would-have-approved-sri-lanka-rice-imports-for-working-class-analysis-194348/) · `en`
-
-ECONOMYNEXT – Sri Lanka has relaxed import licensing on rice, a staple food, till December 20, in bid to reduce rising local prices, but still kept a 220 dollar at tonne import tax in place, which is almost 50 percent duty on basic South Asian rice grades.
-
-Under the Rajapaksa regime and even earlier, Sri Lanka has imposed severe controls on the import of basic cereals, giving profits to politically powerful lobbies keeping both prices and malnutrition high.
-
-Sri Lanka to allow rice imports without licenses till December 20: Statement
-
-Going beyond taxes, import licensing was imposed, especially on maize to give profits to a collector lobby, making proteins like chicken and eggs also among the most expensive in the world. Taxes on protein rich grains like green gram was also hiked.
-
-Sri Lanka opposition laments child malnutrition as farmers protected at Rs300 cereal tax
-
-...
-
-[Data](articles/6fbffb3a.json)
 
 ---

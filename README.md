@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 14:02:10**
+As of **2024-12-15 14:27:51**
 
 ## Newspaper Stats
 
-*Scraped **60,261** Articles*
+*Scraped **60,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,718
+adalk | 5,719
 adaderanalk | 7,341
 tamilmirrorlk | 8,614
 virakesarilk | 9,901
@@ -26,63 +26,85 @@ adaderanasinhalalk | 10,420
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,236 (100.0%) of 60,261 articles have been extended.
+60,241 (100.0%) of 60,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### මත්ද්‍රව්‍ය තොගයක් සමග සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට
+### Three suspects arrested with drugs
 
 *2024-12-15 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204393) · `si`
 
-කොකෙන් සහ කුෂ් මත්ද්‍රව්‍ය සමග සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගැනීමට වලාන දූෂණ මර්දන ප්‍රහාරක ඒකකය සමත්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-වැල්ලවත්ත පොලිස් වසමේ කොලින්වුඩ් මාවත ප්‍රදේශයේදී වළාන දූෂණ මර්දන ඒකකයේ නිලධාරීන් කණ්ඩායමක් විසින් ඊයේ (13) සිදුකළ වැටලීමකදි සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
 
-මෙහිදී මත්ද්‍රව්‍ය ග්‍රෑම් 36ක්, කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 203ක් මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් බවට සැකකෙරෙන මුදල් රුපියල් 1,875,000ක් ජංගම දුරකථන 05ක් මුදල් ගණන් කිරීමේ යන්ත්‍රයක් බැංකු කාඩ්පත් 02ක් හා ඉලෙක්ට්‍රොනික් තරාදියක්ද පොලිස් භාරයට ගෙන තිබේ.
 
-සැකකරු සිදුකරනු ලැබූ අනාවරණයෙන් පසු තොරතුරු අනුව කොලින්වුඩ් මාවත ප්‍රදේශයේදී කුෂ් මත්ද්‍රව්‍ය ග්‍රෑම් 03 මිලිග්‍රෑම් 600ක් සමග තවත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+"3 suspects arrested with drugs in Walana & Colinwood areas. Ages: 14, 25, 25. Hookin, Rash found. Money seized. Further investigation ongoing."
 
-එම සැකකරුවන් අවුරුදු 24 හා 25 වයස්වල පසුවන මට්ටක්කුලිය හා කොළඹ 14 ප්‍රදේශවල පදිංචිකරුවන් වේ.
+🟩
 
-ඔවුන් තිදෙනා වැල්ලවත්ත පොලිස් ස්ථානය වෙත ඉදිරිපත් කර ඇති අතර වැල්ලවත්ත පොලීසිය වැඩිදුර විමර්ෂන සිදු කරයි.
+The Walana Anti-Corruption Unit has also been arrested for the arrest of three suspects with hookin and rash.
+
+The suspects were arrested by a team of officers in the Walawatta Police Division in Kllinwood Mawatha.
+
+The money has been taken into police custody a sum of Rs.
+
+Two more suspects have been arrested in the Colinwood Mawatha, 03 milligrams of Kashnoad.
+
+The suspects are residents of Mattakkuliya and Colombo 14 years old and 25 years old.
+
+The three of them were produced before the Wellawatte Police Station and Wellawatte police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a873c7d5.json)
 
+[Extended Data](ext_articles/a873c7d5.ext.json)
+
 ---
 
-### கல்கிசையில் ஹெரோயின், ஐஸ் போதைப்பொருட்களுடன் ஒருவர் கைது
+### One arrested with heroin and ice drugs in Kalkisa
 
 *2024-12-15 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201324) · `ta`
 
-கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட அத்திட்டிய பகுதியில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருட்களுடன் ஒருவர் நேற்று சனிக்கிழமை (14) பொலிஸாரால் கைது செய்யப்பட்டார்.
+Arrest made in Kalkisa: Man caught with heroin and ice. Police seize 101g of heroin and 50g of ice. Incident occurred in Mount Lavinia area.
 
-கல்கிசை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேக நபரிடமிருந்து 101 கிராம் 380 மில்லி கிராம் ஹெரோயின் மற்றும் 50 கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டன.
+A man was arrested by police on Saturday (14) with ice and heroin drugs in the Attitiya area of ​​the Mount Lavinia Police Division.
+
+He was arrested on the basis of information received by a group of officials of the Mount Lavinia Criminal Investigation Division.
+
+101 g 380 ml of heroin and 50g of Ice were seized by the suspect from the suspect.
 
 ◼️
 
 [Data](articles/361319d8.json)
 
+[Extended Data](ext_articles/361319d8.ext.json)
+
 ---
 
-### யாழில் பல்பொருள் விற்பனை நிலையங்களில் திருடும் கும்பல்! - பொலிஸாரின் முக்கிய அறிவிப்பு
+### Stealing gang at supermarket stalls in Jaffna- The main announcement of the police
 
 *2024-12-15 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201319) · `ta`
 
-யாழ்ப்பாணம் நகர்ப் பகுதிகளை அண்மித்துள்ள பல்பொருள் விற்பனை நிலையங்களில் திருடும் கும்பல்கள் தொடர்பான தகவல் கிடைத்தால் அறியத் தருமாறு பொலிஸார் பல்பொருள் விற்பனை நிலையங்கள் மற்றும் பொது மக்களுக்கு அறிவுறுத்தியுள்ளனர்.
+Jaffna supermarket theft gang: Police warn public to report suspicious activity. Three individuals steal goods, hide in clothing. Authorities seek information from citizens.
 
-அண்மையில் பல்பொருள் விற்பனை நிலை யங்களுக்கு மூவர் அடங்கிய கும்பல் சென்று, அங்கு பொருட்களை வாங்குவது போல சில பொருட்களை திருடி, தமது ஆடைகளுக்குள் மறைத்து எடுத்துச் சென்றமை தொடர்பான காட்சிகள் விற்பனை நிலையங்களில் பொருத்தப்பட்டுள்ள பாதுகாப்பு கண்காணிப்பு கமராக்களில் பதிவாகியுள்ளன.
+🟩
 
-இந்த கும்பல் தொடர்ச்சியாக இது போன்ற திருட்டுக்களில் ஈடுபட்டு வருவதனால், அவர்கள் தொடர்பான தகவல்களை அறிந்தால், அருகில் உள்ள பொலிஸ் நிலையத்துக்கு அறிவிக்குமாறு பொலிஸார் பொது மக்களிடம் கேட்டுக்கொண்டுள்ளனர்.
+The police have advised the public to find out about the stealing gangs in the recently near the Jaffna city areas.
+
+Recently, a gang of three people went to the supermarket, stolen some items like buying items and hidden into their clothes.
+
+Since the gang is constantly involved in such thefts, the police have asked the public to inform the nearest police station if they know the information about them.
 
 ◼️
 
 [Data](articles/2cd85498.json)
+
+[Extended Data](ext_articles/2cd85498.ext.json)
 
 ---
 
@@ -102,6 +124,8 @@ The department has cautioned that failure to meet this deadline will result in t
 
 [Data](articles/93b45a9f.json)
 
+[Extended Data](ext_articles/93b45a9f.ext.json)
+
 ---
 
 ### SJB to propose opposition-aligned Speaker for Parliament
@@ -119,6 +143,8 @@ Bandara criticized the government, alleging deceit in their handling of national
 ...
 
 [Data](articles/ab4215aa.json)
+
+[Extended Data](ext_articles/ab4215aa.ext.json)
 
 ---
 
@@ -197,6 +223,20 @@ These sluicegates, which are opened one foot at a time, will release cubic meter
 ...
 
 [Data](articles/def3383a.json)
+
+---
+
+### ආනයනික සහල් තොගයක ගුල්ලන්
+
+*2024-12-15 12:23:24* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-සහල්-තොගයක-ගුල්ලන්/11-413637) · `si`
+
+පෞද්ගලික ආනයනකරුවන් විසින් ආනයනය කළ සහල් කිලෝ ග්‍රෑම් 75000ක් රට තුළට නොගැනිමට සෞඛ්‍ය අංශ විසින් අවසර දී නොමැත. මේ අනුව බහාලුම් තුනක පැවැති සහල් මෙසේ රටට නොගෙන ඇත.
+
+ඉන් බහාලුම් දෙකක පැවැති සහල්වල ගුල්ලන් සිට ඇති අතර තවත් බහාලුමක තිබූ සහල් ඇසුරුම් කර තිබූ මලු තුළ කල් ඉකුත් විමේ දිනය වෙනස් කර තිබී ඇත.
+
+◼️
+
+[Data](articles/c86fec4f.json)
 
 ---
 
@@ -2331,19 +2371,5 @@ However, his relatives complained to the police as he was not returning home.
 [Data](articles/9d7c4a48.json)
 
 [Extended Data](ext_articles/9d7c4a48.ext.json)
-
----
-
-### Dr. C. Sivandran (1948-2024): Engineer, Industrial Entrepreneur
-
-*2024-12-14 17:03:00* · [`islandlk`](http://island.lk/dr-c-sivandran-1948-2024-engineer-industrial-entrepreneur/) · `en`
-
-Writing obituaries becomes a poignant burden when those near and dear to us keep taking their turn while we wait for ours in life’s departure lounge. I have had my share of writing obituaries in the last two years, but this one gets preciously close because Sivandran, who passed away suddenly in Semarang, Indonesia, was my roommate throughout our Peradeniya years and later after graduation. We were best friends.
-
-We were emailing on November 28 and his last email said that his health was a hassle; so, he was winding down in Indonesia and was heading home to Perth. Next day I received the sad news of his demise. “Death, be not proud,” John Donne’s Holy Sonnet came to mind, but more in anger than as assurance of what comes “one short sleep past.”
-
-...
-
-[Data](articles/a361844d.json)
 
 ---

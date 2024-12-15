@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 16:01:38**
+As of **2024-12-15 16:16:09**
 
 ## Newspaper Stats
 
-*Scraped **60,290** Articles*
+*Scraped **60,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,722
+adalk | 5,723
 adaderanalk | 7,345
-tamilmirrorlk | 8,616
+tamilmirrorlk | 8,617
 virakesarilk | 9,915
 adaderanasinhalalk | 10,424
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,256 (99.9%) of 60,290 articles have been extended.
+60,259 (99.9%) of 60,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### கல்வி அமைச்சுக்கு முன் போராடிய மேலும் மூவர் கைது
+
+*2024-12-15 15:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சுக்கு-முன்-போராடிய-மேலும்-மூவர்-கைது/175-348754) · `ta`
+
+பாடசாலை அபிவிருத்தி உத்தியோகத்தர்கள் 16,000 பேரை ஆசிரியர் தொழிலில் உள்வாங்குமாறு கோரி, கல்வி அமைச்சுக்கு முன்பாக முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் ஈடுபட்ட மேலும் 03 பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களில் இருவர் கடுவெல பதில் நீதவான் டெலனி முனசிங்க முன்னிலையில் ஆஜர்படுத்தப்பட்ட பின்னர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+இந்த சம்பவம் தொடர்பில் முன்னதாக 04 பேர் கைது செய்யப்பட்டு பின்னர் பிணையில் விடுவிக்கப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/7eb8ccc4.json)
+
+---
 
 ### Tarm fleet from a newsletter
 
@@ -78,6 +94,24 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 
 ---
 
+### ජනපති ඉන්දීය සංචාරය අරඹයි
+
+*2024-12-15 15:09:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දීය-සංචාරය-අරඹයි/11-413640) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය ප්‍රථම විදේශ සංචාරය ආරම්භ කරමින් ඉන්දියාවේ තුන් දින නිල සංචාරයක් සඳහා අද පස්වරුවේ කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය.
+
+ඔහු සමග දූත පිරිස ලෙස මහාචාර්ය අනිල් ජයන්ත, අමාත්‍ය විජිත හේරත් සහ තවත් එක් අයෙකු එක් වී සිටියහ.
+
+ඔවුන් 12/15 දින පස්වරු 02.08 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 195 දරන ගුවන් යානයෙන් ඉන්දියාවේ නවදිල්ලි නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගියහ.
+
+මෙම පිරිස සිය ඉන්දීය සංචාරය නිම කර 12/17 දින ආපසු කටුනායකට ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතය.
+
+◼️
+
+[Data](articles/90ad14e0.json)
+
+---
+
 ### Special announcement on pay tax
 
 *2024-12-15 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204396) · `si`
@@ -119,6 +153,8 @@ Accordingly, he further stated that legal proceedings against them will commence
 ◼️
 
 [Data](articles/d2b89c70.json)
+
+[Extended Data](ext_articles/d2b89c70.ext.json)
 
 ---
 
@@ -186,21 +222,31 @@ Taxation and damage policy are not directly associated with the central bank and
 
 ---
 
-### ජනපති ඉන්දියාව බලා පිටත්ව යයි
+### President leaves for India
 
 *2024-12-15 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204395) · `si`
 
-ඉන්දීය නිල සංචාරය සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු මොහොතකට පෙර දිවයියෙන් පිටත්ව ගොස් තිබේ.
+Here's a summary of 200 characters:
 
-එළඹෙන 17 වනදා දක්වා ඔහු ඉන්දියාවේ සංචාරය කිරීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
 
-ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහාතාගේ පළමු විදෙස් සංචාරය ද මෙයයි.
 
-ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා මෙම සංචාරයට එක්වෙයි.
+Sri Lanka's President Anura Kumara Dissanayake embarks on his first foreign visit to India from March 10-17. The trip follows an invitation extended by Indian President Murmu. This marks Dissanayake's inaugural international engagement since assuming office.
+
+🟩
+
+President Anura Kumara Dissanayake has been led by the Indian official visit to the life.
+
+He is to visit India until the next 17th, the External Affairs Ministry said.
+
+This is also the first foreign visit to Mr. Mahana Dissanayake after he was appointed president.
+
+The President leaves the visit on the invitation of Mrs. President Mahinda Rajapakse Mrs. Murmi.
 
 ◼️
 
 [Data](articles/225f5805.json)
+
+[Extended Data](ext_articles/225f5805.ext.json)
 
 ---
 
@@ -221,6 +267,8 @@ Syria imported food from Russia during the Assad era, but Russian wheat supplies
 ...
 
 [Data](articles/ef9a74a4.json)
+
+[Extended Data](ext_articles/ef9a74a4.ext.json)
 
 ---
 
@@ -2265,37 +2313,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/6c5e2272.json)
 
 [Extended Data](ext_articles/6c5e2272.ext.json)
-
----
-
-### Ceylinco Cancer Centre unveils refurbished interiors
-
-*2024-12-14 21:06:00* · [`islandlk`](http://island.lk/ceylinco-cancer-centre-unveils-refurbished-interiors/) · `en`
-
-The Ceylinco Cancer Centre at Park Street, Colombo 2 recently completed a major refurbishment to offer a more comfortable and aesthetically-pleasing environment for visitors. The refurbishment encompassed the entrance and reception, visitors’ lounge, the waiting area for radiation treatment and the waiting area for CT Simulator imaging.
-
-The first standalone radiation therapy centre in Sri Lanka’s private sector when it opened in September 2007, the Ceylinco Cancer Centre is equipped with a state-of-the-art Varian Clinac iX Linear Accelerator for radiation treatment, and recently acquired the latest AI-supported, four-dimensional CT Simulator from Siemens Healthcare GmbH of Germany, exclusively for treatment planning.
-
-Pictured here is the formal reopening of the refurbished Ceylinco Cancer Centre by the Chairman of Ceylinco Healthcare Services Limited (CHSL) R. Renganathan accompanied by the Company’s directors, and the refurbished reception area of the Centre.
-
-...
-
-[Data](articles/9093bdc7.json)
-
-[Extended Data](ext_articles/9093bdc7.ext.json)
-
----
-
-### Sampath Bank secures top honours at the Best Corporate Citizen Sustainability Awards 2024
-
-*2024-12-14 21:04:00* · [`islandlk`](http://island.lk/sampath-bank-secures-top-honours-at-the-best-corporate-citizen-sustainability-awards-2024/) · `en`
-
-Sampath Bank has been honoured as the Second Runner-Up in the Best Corporate Citizen Sustainability Award 2024, hosted by the Ceylon Chamber of Commerce. Widely regarded as Sri Lanka’s pinnacle of recognition for corporate sustainability, the awards ceremony took place recently at Cinnamon Grand, Colombo.
-
-...
-
-[Data](articles/20ab173d.json)
-
-[Extended Data](ext_articles/20ab173d.ext.json)
 
 ---

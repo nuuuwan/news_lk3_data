@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 14:43:01**
+As of **2024-12-15 15:01:22**
 
 ## Newspaper Stats
 
-*Scraped **60,262** Articles*
+*Scraped **60,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,719
+adalk | 5,720
 adaderanalk | 7,341
-tamilmirrorlk | 8,614
+tamilmirrorlk | 8,616
 virakesarilk | 9,901
 adaderanasinhalalk | 10,420
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 10,420
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,241 (100.0%) of 60,262 articles have been extended.
+60,244 (100.0%) of 60,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### இந்தியாவுக்கு புறப்பட்டார் ஜனாதிபதி
+
+*2024-12-15 14:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்கு-புறப்பட்டார்-ஜனாதிபதி/175-348751) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்க,  இந்தியாவுக்கு இராஜதந்திர விஜயத்தை மேற்கொண்டு சற்றுமுன் புறப்பட்டுச் சென்றார் . ஜனாதிபதித் தேர்தலின் பின்னர், புதிய ஜனாதிபதியாக தெரிவுசெய்யப்பட்ட தேசிய மக்கள் சக்தி, மக்கள் விடுதலை முன்னணியின் (ஜே.வி.பி) தலைவரான ஜனாதிபதி அனுரகுமார திசாநாயக்க, மேற்கொள்ளும் முதலாவது இராஜதந்திர விஜயமாகும்.
+
+◼️
+
+[Data](articles/f53988f7.json)
+
+---
+
+### சபாநாயகர் பதவிக்கு எம்.பியை முன்மொழியவுள்ள எதிர்க்கட்சி
+
+*2024-12-15 14:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-பதவிக்கு-எம்-பியை-முன்மொழியவுள்ள-எதிர்க்கட்சி/175-348749) · `ta`
+
+கடந்த வாரம் தனது பதவியை இராஜினாமா செய்த அசோக ரன்வலவையடுத்து செவ்வாய்க்கிழமை பாராளுமன்றம் கூடும் போது பாராளுமன்ற உறுப்பினர் ஒருவரை சபாநாயகர் பதவிக்கு எதிர்க்கட்சி முன்மொழியவுள்ளது.
+
+"எமது வேட்பாளர் தேர்ந்தெடுக்கப்பட முடியாது என்பது எங்களுக்குத் தெரியும், ஆனால் வேட்பாளர்களை ஒப்பிட்டுப் பார்க்கும் சூழ்நிலையை மக்களுக்கு உருவாக்குவோம் என்று நாங்கள் நம்புகிறோம்.
+
+நவம்பர் 21 அன்று நாங்கள் பதவிக்கு போட்டியிட்டிருந்தால் போலியாக கலாநிதி பட்டம் பெற்ற ரன்வலவை விட எதிர்க்கட்சி வேட்பாளர் சிறந்தவர் என்று மக்கள் கூறியிருப்பார்கள்” என SJB பாராளுமன்ற உறுப்பினர் நளின் பண்டார ஜயமஹா ஊடகங்களுக்கு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/449ed7bc.json)
+
+---
+
+### කථානායකවරයා පත් කිරීමේදී විපක්ෂයෙනුත් නමක්
+
+*2024-12-15 13:53:48* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයා-පත්-කිරීමේදී-විපක්ෂයෙනුත්-නමක්/11-413638) · `si`
+
+නව කථානායකවරයා පත් කිරීමේදී විපක්ෂයෙනුත් එම තනතුරට නමක් යෝජනා කරන බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පැවසීය.
+
+කොළඹ අද(15දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/15ea41af.json)
+
+---
 
 ### Three suspects arrested with drugs
 
@@ -166,45 +208,65 @@ These sluicegates, which are opened one foot at a time, will release cubic meter
 
 [Data](articles/bd587dbb.json)
 
+[Extended Data](ext_articles/bd587dbb.ext.json)
+
 ---
 
-### உழவு இயந்திரத்தில் மோதுண்டு கால்நடை பண்ணை ஊழியர் பலி
+### Livestock farm employee killed in plowing machine
 
 *2024-12-15 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201308) · `ta`
 
-நுவரெலியா - பட்டிபொல பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் நேற்று சனிக்கிழமை (14) அம்பேவெல கால்நடை பண்ணை ஊழியர் ஒருவர் கால்நடைகளுக்கு உணவு வழங்கிக்கொண்டிருந்தபோது, உழவு இயந்திரத்தில் மோதுண்டு உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+A livestock farm employee was fatally injured while feeding cattle on a plowing machine in Sri Lanka. The 55-year-old farm inspector from Ambewela died after being rushed to Nuwara Eliya Hospital. Police are investigating the incident.
 
-விபத்தில் சிக்கியவர் பலத்த காயங்களுக்குள்ளாகி நுவரெலியா வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-உயிரிழந்தவர் சிறிசமங்கம, அம்பேவெல பிரதேசத்தைச் சேர்ந்த 55 வயதுடைய பண்ணைப் பரிசோதகர் ஆவார்.
+Police said that an Ambbeewela cattle farm employee was supplying food to cattle on Saturday (14) in the Nuwara Eliya -Patipola police division.
+
+The victim was seriously injured and died after being admitted to the Nuwara Eliya Hospital, police said.
+
+The deceased is a 55 -year -old farm inspector from Sirisamangama, Ambewela.
 
 ◼️
 
 [Data](articles/4d980c42.json)
 
+[Extended Data](ext_articles/4d980c42.ext.json)
+
 ---
 
-### ජනපති අද ඉන්දීය නිල සංචාරය අරඹයි
+### President to launches Indian official visit
 
 *2024-12-15 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204392) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ඉන්දීය නිල සංචාරය අද (15) ආරම්භ වෙයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව, ජනාධිපතිවරයා අද ඉන්දියාව බලා පිටත්ව යන අතර එළඹෙන 17 වනදා දක්වා ඔහු ඉන්දියාවේ සංචාරය කිරීමට නියමිත බවයි විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
 
-ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහාතාගේ පළමු විදෙස් සංචාරය ද මෙයයි.
 
-ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා මෙම සංචාරයට එක්වෙයි.
+Sri Lankan President Anura Kumara Dissanayake begins official visit to India today. He'll meet with Indian leaders, discuss investment & trade ties, and promote Buddhist relations. This is his first foreign trip as president.
 
-ඒ අනුව මෙම සංචාරයේදී ජනාධිපතිවරයා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා හමුවී ද්විපාර්ශවීක සාකච්ඡා පැවැත්වීමට නියමිතය.
+🟩
 
-එමෙන්ම ජනාධිපතිවරයා ඉන්දීය රජයේ තවත් ප්‍රබල අමාත්‍යවරු කිහිපදෙනෙකු සමඟ ද්විපාර්ශ්වික සාකච්ඡා පවත්වනු ඇත.
+Indian official visit to President Anura Kumara Dissanayake commenced today (15).
 
-ජනාධිපතිවරයා සිය සංචාරය අතරතුර ඉන්දියාව සහ ශ්‍රී ලංකාව අතර ආයෝජන හා වාණිජ සබඳතා ප්‍රවර්ධනය කිරීමේ ව්‍යාපාරික වැඩසටහනකට ද නව දිල්ලි නුවරදී එක්වීමට නියමිත අතර බුද්ධ ගයාවේද සංචාරය කිරීමට නියමිතය.
+Accordingly, the President leaves for India today, "said External Affairs Ministry said that he will visit India until the 17th.
+
+This is also the first foreign visit to Mr. Mahana Dissanayake after he was appointed president.
+
+The President leaves the visit on the invitation of Mrs. President Mahinda Rajapakse Mrs. Murmi.
+
+Accordingly, the President is due to hold bilateral talks with Indian President Mahinda Rajapaksa and Indian Prime Minister Narendra Modi.
+
+The President will also hold bilateral talks with several other strong ministers of India.
+
+During his visit, the President is also to join the promotion of investment and commercial relationships between India and Sri Lanka and is to visit the Buddha.
+
+In a statement of the President's visit to India, the Indian Foreign Ministry says Sri Lanka is a leading neighborhood in the Indian Ocean region.
 
 ...
 
 [Data](articles/772873a5.json)
+
+[Extended Data](ext_articles/772873a5.ext.json)
 
 ---
 
@@ -2311,65 +2373,5 @@ The opposition has denounced Saturday’s election as “illegitimate” and sai
 [Data](articles/ed8d2bdd.json)
 
 [Extended Data](ext_articles/ed8d2bdd.ext.json)
-
----
-
-### Who Broke Syria?
-
-*2024-12-14 17:26:00* · [`islandlk`](http://island.lk/who-broke-syria/) · `en`
-
-By end of November, the situation in Syria was dire. Government forces were on the brink of exhaustion, stretched thin by an economic crisis that spiraled out of control. Soldiers earned a paltry $7 a month, with even high-ranking officers receiving only $40. This was in sharp contrast to militia fighters funded by external powers, who earned up to $2,000 monthly. This glaring disparity revealed not just economic fault lines but the extent of foreign intervention sustaining these militias. Meanwhile, protests erupted across Suwayda province, historically a stronghold of Assad support, highlighting widespread famine, collapsing services, and the devaluation of the Syrian pound. Discontent was palpable, threatening to upend the regime’s fragile grasp on power.
-
-...
-
-[Data](articles/f8a8b578.json)
-
----
-
-### Woman's body recovered in Kotmale reservoir
-
-*2024-12-14 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201252) · `ta`
-
-Body recovered Kotmale reservoir Talawakelle police investigation ongoing
-
-🟩
-
-Talawakelle police said that a woman has been recovered today (14) at the Talawakelle - Upper Kotmale reservoir.
-
-Police rushed to the scene and investigated the incident that the body was found near the main dam, where the air doors of the reservoir were located.
-
-Police said no information has been received so far regarding the body of the body.
-
-The body was taken to the Nuwara Eliya District General Hospital for autopsy, police said.
-
-◼️
-
-[Data](articles/a212071b.json)
-
-[Extended Data](ext_articles/a212071b.ext.json)
-
----
-
-### Two hiding a body of a deceased
-
-*2024-12-14 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204375) · `si`
-
-Two suspects arrested hiding body electrocuted person Matara Uragasmanhandiya police investigation
-
-🟩
-
-Uragasmanhandiya Police have arrested two hiding person with a body of a person who had been electrocuted.
-
-The two suspects have been arrested in the investigation carried out on information received.
-
-The deceased is that the deceased has been left to Matara to the 9 o'clock in Uragasmanhandiya, Uragasmanhandiya.
-
-However, his relatives complained to the police as he was not returning home.
-
-◼️
-
-[Data](articles/9d7c4a48.json)
-
-[Extended Data](ext_articles/9d7c4a48.ext.json)
 
 ---

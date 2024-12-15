@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 09:08:29**
+As of **2024-12-15 08:11:57**
 
 ## Newspaper Stats
 
-*Scraped **60,211** Articles*
+*Scraped **60,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,115 +16,21 @@ islandlk | 3,646
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,712
-adaderanalk | 7,334
+adalk | 5,711
+adaderanalk | 7,332
 tamilmirrorlk | 8,606
 virakesarilk | 9,881
-adaderanasinhalalk | 10,414
+adaderanasinhalalk | 10,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,198 (100.0%) of 60,211 articles have been extended.
+60,194 (100.0%) of 60,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
-
-### ශ්‍රී පාද වන්දනාවේ යන ඔබ මේ ගැනත් සැළකිළිමත් වෙන්න
-
-*2024-12-15 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204387) · `si`
-
-ඒ අනුව පැල්මඩුල්ල ගල්පොත්තාවල පුරාණ ශ්‍රී පාද විහාරස්ථානයේ සිට සාධාතුක කරඩුව, සමන්දේව ප්‍රථිමාව සහ දේව ආභරණ ශ්‍රී පාද මළුව වෙත වැඩම කරවීම ඊයේ (14) අලුයම සිදුවිය.
-
-මේ අතර සිරිපා වන්දනා සමය ආරම්භ වීමත් සමග රත්නපුර දිස්ත්‍රික් ලේකම් වසන්ත ගුණරත්න මහතා විසින් විශේෂ ගැසට් නිවේදනයක් නිකුත් කිරීමට ද පියවර ගනු ලැබීය.
-
-එම ගැසට් නිවේදනයේ සඳහන්ව ඇත්තේ ආරම්භ වූ සිරිපා වන්දනා සමය තුළ මහජනතාව පිළිපැදිය යුතු මාර්ගෝපදේශ සම්බන්ධවය.
-
-ඒ අනුව ශ්‍රී පාද මළුව විශ්‍රාම ශාලා ප්‍රදේශයන්හී මෙන්ම ගමන් මාර්ගයේ ද සංචාරක වෙළෙඳාම තහනම් වන අතර විකිණීමට තබා ඇති සියලු සකස් කළ ආහාර ද්‍රව්‍ය මැස්සන්ගෙන් ආරක්ෂා වන පරිදි ආවරණ සහිතව රඳවා තැබිය යුතු බවත් එහි සඳහන් කර තිබේ.
-
-එමෙන්ම විශ්‍රාම ශාලා ලෙස නම් කර ඇති ස්ථාන හැරුණු කොට අන් කවර ස්ථානයක හෝ තාවකාලිකව නවාතැන් සකස් කිරීම හෝ පවත්වාගෙන යාම තහනම් වනු ඇති බවත් එම නිවේදනයේ සඳහන් ව ඇත.
-
-1. ලිහිණිහෙල, පලාබද්දල විහාරස්ථානය, හැරමිටිපාන, ආඬියාමලතැන්න, වර්ණගල, සීතගඟුල, මැදහින්න, ඉඳිකටුපාන යන විශ්‍රාම ශාලා/ අම්බලම් නවාතැන් ලෙස භාවිතා කළ යුතුය.
-
-...
-
-[Data](articles/ae6819e9.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-15 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104244/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in the Eastern Province.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night.
-
-Fairly heavy showers about 75mm are likely at some places in Central, Sabaragamuwa, Eastern and Southern provinces, it added.
-
-Misty conditions can be expected in Central, and Sabaragamuwa provinces during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/12cc4f0a.json)
-
----
-
-### Youth travelling in car shot dead in Meegoda
-
-*2024-12-15 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104243/youth-travelling-in-car-shot-dead-in-meegoda) · `en`
-
-A 32-year-old person travelling in a car has been shot dead by two unidentified gunmen who ambushed his vehicle at Nagahawatte in Meegoda, police said.
-
-The deceased has been identified as a 32-year-old father of one.
-
-The shooting took place last night (14) as the victim was travelling from his brother’s residence to his own house in Nagahawatte, Meegoda.
-
-An unidentified person had stopped his vehicle, while another person had opened fire at him, the police said.
-
-The victim, who was critically injured in the shooting, had succumbed to his injuries after being admitted to the Homagama Hospital.
-
-The victim’s wife and his one-year-old daughter were also inside the car, at the time of the shooting.
-
-The deceased had been employed as an office assistant at the main office of the Department of Samurdhi Development in Sethsiripaya, Battaramulla.
-
-Nugegoda scene of crime officers are conducting on-site investigations into the incident.
-
-◼️
-
-[Data](articles/423168ec.json)
-
----
-
-### පුතුගෙන් මවට එල්ල වූ මාරාන්තික පොලුපහර
-
-*2024-12-15 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204386) · `si`
-
-පුද්ගලික ආරවුලක් හේතුවෙන් සිදු වූ බහින් බස්වීමක් දුරදිග යාමෙන් පුතා විසින් මවට පොල්ලකින් පහරදී ඝාතනය කර තිබේ.
-
-අද (15) අලුයම් කාලයේදී එම ඝාතනය සිදුකර තිබුණේ ගොඩකවෙල, බිසෝකොටුව ප්‍රදේශයේදීය.
-
-එලෙස මියගොස් ඇත්තේ, ගල්පාය, පල්ලේබැද්ද ප්‍රදේශයේ පදිංචිව සිටි 82 හැවිරිද කාන්තාවකි.
-
-මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරික්ෂණය සිදු කිරීමට නියමිතව ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා ගොඩකවෙල පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-මේ අතර ගොඩනැගිල්ලක ඉදිකිරීම් කටයුතු සඳහා පැමිණ සිටි පෙදරේරුවන් දෙදෙනෙකු අතර ඇතිවූ ආරවුලක් දුරදිග යාමෙන් එක් පුද්ගලයෙකු විසින් අනෙක් පුද්ගලයාට පහරදී ඝාතනය කර ඇති බව පොලීසිය පවසයි.
-
-එම ඝාතනය සිදුකර තිබුණේ සීදූව පොලිස් වසමේ 02 වන පටුමග ප්‍රදේශයේදීය.
-
-එලෙස මියගොස් ඇත්තේ, ජුබිලි මාවත, වයික්කාල ප්‍රදේශයේ පදිංචිව සිටි 47 හැවිරිදි පුද්ගලයෙකි.
-
-ඝාතනය සම්බන්ධයෙන් වයස අවුරුදු 36ක් වන කැකිරාව ප්‍රදේශයේ පදිංචි සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
-
-◼️
-
-[Data](articles/98436183.json)
-
----
 
 ### Landslide Warnings for several districts
 
@@ -214,33 +120,21 @@ The system is demanding the next predictions and announcements issued by the Dep
 
 ---
 
-### Some people will soon be removed from Tamil Nadu
+### ’தமிழரசில் இருந்து சிலர் விரைவில் நீக்கப்படுவர்’
 
 *2024-12-15 04:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசில்-இருந்து-சிலர்-விரைவில்-நீக்கப்படுவர்/175-348729) · `ta`
 
-Here's a summary of 200 characters:
+இலங்கைத் தமிழரசுக் கட்சியில் இருந்து சிலர் நீக்கப்படுவார்கள். சிலர் இடைநிறுத்தப்படுவார்கள் என்று இலங்கைத் தமிழரசுக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
 
+வவுனியாவில் நேற்று நடைபெற்ற இலங்கைத் தமிழரசுக் கட்சியின் மத்திய குழுக் கூட்டத்தின் பின்னர் ஊடகங்களுக்குக் கருத்துத் தெரிவிக்கும்போதே அவர் இவ்வாறு கூறினார்.
 
+கட்சிக்கு எதிராகப் போட்டியிட்டவர்களை உடனடியாகக் கட்சியிலிருந்து நீக்குவதற்குப் பொதுச் செயலாளருக்கு அதிகாரம் இருக்கின்றது என மத்திய குழு ஏற்றுக் கொண்டிருக்கின்றது. அதனைப் பொதுச்செயலாளர் எதிர்வரும் நாட்களில் செய்வார்.
 
-Sri Lankan Tamil party faces removals: Some members may be suspended due to contesting against the party. Disciplinary actions planned for others involved in party activities. This comes after a central committee meeting in Vavuniya.
+வேறு சிலர் கட்சிக்கும், கட்சியினுடைய வேட்பாளருக்கு எதிராகவும் செயற்பட்டமை தொடர்பிலும் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும். அந்த ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் வரைக்கும் அவர்கள் கட்சியின் செயற்பாடுகளில் இருந்து இடைநிறுத்தப்படுவார்கள்.
 
-🟩
-
-Some will be removed from the Sri Lankan Tamil party. Former parliamentarian MA Sumanthiran, a former parliamentarian of the Sri Lanka Tamil National Alliance (TNA), said that some would be suspended.
-
-He was speaking to the media after a central committee of the Sri Lanka Tamil National Alliance (TNA) in Vavuniya yesterday.
-
-The Central Committee accepts that the General Secretary has the power to immediately remove those who contested against the party. The General Secretary will do it in the coming days.
-
-Others will take disciplinary action on the party and the party's candidate. They will be suspended from the party's activities until that disciplinary action is taken.
-
-In the past, the TNA has taken a decisive position on issues related to constitutional creation. Some drafts have been made. We are compliant with some drafts. So. It said it was our position. (A)
-
-◼️
+...
 
 [Data](articles/85315d49.json)
-
-[Extended Data](ext_articles/85315d49.ext.json)
 
 ---
 
@@ -456,28 +350,6 @@ Deputy Minister of Finance and Planning, Deputy Minister of Finance and Planning
 
 ---
 
-### The warning of landslides warns
-
-*2024-12-14 21:49:54* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-අඟවයි/11-413627) · `si`
-
-Landslide warnings issued for Medaduwakara, Pathadumbara, Pathogabara, Hapigara, and Matale districts due to heavy rainfall. Effective from 4 PM today until 4 PM tomorrow.
-
-🟩
-
-With the high rains, the National Building Research Organization has issued four districts to 4 pm today (14) at 4 pm.
-
-Accordingly, the landslides have been issued to landslide pre-landslides in the Medaduwakara, Pathadumbara, Pathogabara, Pathadumbara, Patheadumbara, Hapigara and Matale District.
-
-The warning is valid from 4 pm to 4 pm tomorrow (14).
-
-◼️
-
-[Data](articles/93e8ae5f.json)
-
-[Extended Data](ext_articles/93e8ae5f.ext.json)
-
----
-
 ### Two persons arrested for hiding the corpse
 
 *2024-12-14 21:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலத்தை-மறைத்து-வைத்திருந்த-இருவர்-கைது/175-348726) · `ta`
@@ -600,21 +472,15 @@ Sampath Bank has been honoured as the Second Runner-Up in the Best Corporate Cit
 
 ---
 
-### Letter to the Prime Minister of India by the Tamil National People's Front
+### தமிழ்த் தேசிய மக்கள் முன்னணியினால் இந்திய பிரதமருக்கு கடிதம்
 
 *2024-12-14 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201295) · `ta`
 
-Tamil National People's Front writes to PM India, urging pressure on Sri Lanka to address Tamil ethnic issue and seek sovereignty solution during upcoming meeting between Indian and Sri Lankan leaders.
-
-🟩
-
-Sri Lankan President Anura Kumara Dissanayake will meet Indian Prime Minister. In the meantime, the Tamil National People's Front has issued a letter demanding pressure on Sri Lanka to abandon the unity of the ethnic problem of the Tamil people in Sri Lanka and reach its sovereignty solution.
+இலங்கை ஜனாதிபதி அனுரகுமார திஸாநாயக்க இந்தியப் பிரதமரைச் சந்திக்கவுள்ளார். நிலையில் இலங்கையில் தமிழ் மக்களது இனப்பிரச்சினைத் தீர்வாக ஒற்றையாட்சியை கைவிட்டு தமிழ்த் தேசம் அதன் இறைமை அங்கீகரிக்கப்ப்ட்ட சமஸ்டித் தீர்வை எட்ட இலங்கை மீது அழுத்தங்களைப் பிரயோகிக்க வலியுத்தி தமிழ்த் தேசிய மக்கள் முன்னணியினால் கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/c0e2eee7.json)
-
-[Extended Data](ext_articles/c0e2eee7.ext.json)
 
 ---
 
@@ -667,8 +533,6 @@ Beyond Escapes, an emerging travel agency in Sri Lanka, has gained widespread re
 ...
 
 [Data](articles/81ab5d81.json)
-
-[Extended Data](ext_articles/81ab5d81.ext.json)
 
 ---
 
@@ -2445,5 +2309,121 @@ He further stated that if the president will accept the resignation of the Speak
 [Data](articles/f4a7e24e.json)
 
 [Extended Data](ext_articles/f4a7e24e.ext.json)
+
+---
+
+### CAA continues raids on rice traders across the island
+
+*2024-12-14 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104226/caa-continues-raids-on-rice-traders-across-the-island) · `en`
+
+The Consumer Affairs Authority (CAA) has announced that raids are continuing across the island to monitor rice traders and stocks.
+
+CAA Director, Asela Bandara stated that approximately 75 raids were carried out across the country yesterday (14). He further mentioned that officers have been instructed to carry out such operations on the coming weekends and public holidays as well.
+
+Bandara added that with the arrival of imported rice stocks in the market, rice prices are dropping, and paddy prices are also reported to be decreasing in some areas.
+
+Meanwhile, the Sri Lanka State Trading (General) Corporation has taken measures to import 52,000 metric tons of ‘Nadu’ rice. The first consignment, consisting of 5,200 metric tons, is expected to arrive in the country on December 19.
+
+◼️
+
+[Data](articles/cbd9ee4d.json)
+
+[Extended Data](ext_articles/cbd9ee4d.ext.json)
+
+---
+
+### European Union allocates 175,000 euros for Sri Lankans affected by floods
+
+*2024-12-14 08:00:00* · [`economynextcom`](https://economynext.com/european-union-allocates-175000-euros-for-sri-lankans-affected-by-floods-194274/) · `en`
+
+ECONOMYNEXT – The European Union is allocating 175,000 euros (53.8 million rupees) to provide emergency humanitarian assistance to people affected by cyclone Fengal across Sri Lanka.
+
+The funding will benefit over 37,000 people in some of the hardest-hit areas in the eastern and northern provinces, EU in Sri Lanka said in a statement.
+
+This EU funding will support the Sri Lanka Red Cross in delivering assistance to address the basic needs of people who have lost their homes or livelihoods.
+
+Funded activities include the distribution of essential household items, school supplies and cash grants to the most vulnerable families.
+
+There will be also cleaning campaigns and actions to prevent possible outbreaks of diseases such as dengue.
+
+The funding is part of the EU’s overall contribution to the Disaster Response Emergency Fund (IFRC-DREF) of the International Federation of Red Cross and Red Crescent Societies (IFRC).
+
+...
+
+[Data](articles/2c1d7cd5.json)
+
+[Extended Data](ext_articles/2c1d7cd5.ext.json)
+
+---
+
+### Tourist arrivals in the past year reveal
+
+*2024-12-14 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204357) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"1.9M tourists visited last year, 90K+ in Dec alone. Target: 2.2M visitors this year. First time exceeding 2018 numbers since then."
+
+🟩
+
+The Tourism Development Authority (Testing) has said that nearly 1.9 million tourists have returned to the country during the past year.
+
+The Chairman Buddhika Hewawasam stated that more than 90,000 has come in December alone.
+
+He said the tourism development authority expects to visit 250,000 tourists in December alone.
+
+The tourist arrivals will meet a target of 2.2 million in this year and will become the first time since the year 2018 after 2018.
+
+◼️
+
+[Data](articles/4e0c869e.json)
+
+[Extended Data](ext_articles/4e0c869e.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-14 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104225/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Northern and Eastern provinces.
+
+Showers or thundershowers will occur at several places elsewhere during the evening or night.
+
+Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, it said.
+
+Showers can occur at some places of the coastal areas in the Western province and in Galle and Matara districts in the morning too.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Southern and Uva provinces during the morning, the Met. Department added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ce192e1a.json)
+
+[Extended Data](ext_articles/ce192e1a.ext.json)
+
+---
+
+### Heavenly Duties Or Hellish Efforts?
+
+*2024-12-14 07:44:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/heavenly-duties-or-hellish-efforts/) · `en`
+
+“The world is what it is, men who are nothing, who allow themselves to be nothing, have no place in it” ~ VS Naipaul
+
+I have a distant memory of reading a light-hearted description of heaven and hell, in common belief an inevitable destination for all earthlings; those who lead unsullied lives are directed to the former; botch your book, the man is hightailed to hell.
+
+These two places are obviously ‘constructs’ of the human imagination, by human standards and outlook, the ecstasies promised and the tortures threatened are not only of human concept but are also distinctly period defined (are there personal computers in either place?). There cannot be two more dissimilar destinations in the after-life, heaven is a joyous place of endless pleasures and creature comforts, while hell is all agony, suffering and torture.
+
+In this piece I read, the definition of heaven and hell was determined by racial differences, stereotyping the occupants in the two places.
+
+...
+
+[Data](articles/2d0d8d23.json)
+
+[Extended Data](ext_articles/2d0d8d23.ext.json)
 
 ---

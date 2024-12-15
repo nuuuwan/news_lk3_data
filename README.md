@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 13:43:09**
+As of **2024-12-15 14:02:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,420
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,233 (100.0%) of 60,261 articles have been extended.
+60,236 (100.0%) of 60,261 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -558,49 +558,83 @@ He was admitted to the Point Pedro Hospital for 5 days with a fever and immediat
 
 ---
 
-### கொடகவெலயில் மகனால் தாக்கப்பட்டு வயோதிபத் தாய் உயிரிழப்பு!
+### Elderly mother dies after being attacked by son
 
 *2024-12-15 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201306) · `ta`
 
-கொடகவெல பொலிஸ் பிரிவுக்குட்பட்ட பிசோகோட்டை பகுதியில் இன்று ஞாயிற்றுக்கிழமை (15) தடியால் தாக்கப்பட்டதில் வயோதிப பெண்ணொருவர் உயிரிழந்ததாக கொடகவெல பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-தனிப்பட்ட தகராறு காரணமாக ஏற்பட்ட வாக்குவாதத்தில் வயோதிபப் பெண்ணின் மகன் அவரை தடியால் தாக்கிவிட்டு தப்பிச் சென்றுள்ளதாக தெரியவந்துள்ளது.
+
+
+Elderly woman killed by son in dispute. Incident occurred Sunday in Kodagawela police division. Police investigating cause of attack.
+
+🟩
+
+Kodagawala police said that an elderly woman was killed in a stick on Sunday (15) in the Pisokottai area of ​​the Kodagawela police division.
+
+It has been revealed that the elderly woman's son has been attacked by a stick in a dispute caused by a personal dispute.
 
 ◼️
 
 [Data](articles/222a4bdf.json)
 
+[Extended Data](ext_articles/222a4bdf.ext.json)
+
 ---
 
-### சர்ச்­சை­யா­கிய சபாநாயகர்
+### Controversial Speaker
 
 *2024-12-15 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201312) · `ta`
 
-சபையில் தீர்ப்புக் கூற வேண்டிய சபாநாயகரே, குற்றக் கூண்டில் நிற்கும் நிலையை அசோக்க ரன்வல ஏற்படுத்தி விட்டார். நம்பிக்கையில்லா பிரேரணை வரை எதிர்க்கட்சிகள் நகர்வு எடுக்கும் வரை, அவரும் தேசிய மக்கள் சக்தியும், முடிவெடுப்பதற்கு தாமதித்தது - அவரைப் பாதுகாக்க அல்லது காப்பாற்ற முயற்சிக்கப்பட்டது என்ற உணர்வையே ஏற்படுத்தும்.
+Here's a summary of 200 characters:
+
+
+
+Speaker judges House. Opposition moves no-confidence motion. National power delayed decision. Impression: Protecting interests.
+
+🟩
+
+The Speaker who has to judge the House. Until the opposition parties move up to the motion of no confidence, he and the national power of the national people delayed the decision - the impression that he was trying to protect or protect him.
 
 ◼️
 
 [Data](articles/64103e2d.json)
 
+[Extended Data](ext_articles/64103e2d.ext.json)
+
 ---
 
-### அசாத் அரசினால் கொல்லப்பட்ட பின்னர் சிரிய எழுச்சியின் முகமாக மாறிய 13 வயது சிறுவன் - 'நாங்கள் அனுபவித்ததை அசாத்தும் அனுபவிக்கவேண்டும் " தாயின் மனக்குமுறல்
+### The 13 -year -old boy who became the face of the Syrian rise after being killed by the Assad - 'Mother's grievance
 
 *2024-12-15 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201310) · `ta`
 
-பசார் அல் அசாத்த பதவிகவிழ்ப்பதற்கான முயற்சிகள் சிரியாவின் வேறு எந்த பகுதியையும் விட டெரா என்ற சிரிய நகரத்திலேயே ஆரம்பமானது. இந்த நகரம் ஜோர்தான் சிரிய எல்லையில் காணப்படுகின்றது.
+Here's a summary of the text in approximately 200 characters:
 
-இந்த நகரத்தில் 2011 மே 21ம் திகதி சித்திரவதை செய்து சிதைக்கப்பட்ட 13 வயது ஹம்சா அல் ஹட்டிப்பின் உடலை  அசாத்தின் அதிகாரிகள் குடும்பத்தவர்களிடம் ஒப்படைத்தனர்.
 
-அவர் சித்திரவதை செய்து கொல்லப்பட்டதால் சீற்றமடைந்த பதின்மவயதினர் சுவர்களில் அசாத்திற்கு எதிரான வாசகங்களை எழுததொடங்கினார்கள். அரசாங்கத்திற்கு எதிரான ஆர்ப்பாட்டங்கள் தீவிரமடைந்தன,அதனை தொடர்ந்து அரசபடையினர் மிக மோசமான ஒடுக்குமுறைகளில் ஈடுபட்டனர்.
 
-ஆனால் நாங்கள் அந்த வீட்டிற்கு சென்றவேளை யாரும் அசாத் அரசாங்கத்தின் வீழ்ச்சியை எவரும் கொண்டாடுவதை காணமுடியவில்லை.
+Hamza al-Hattip, a 13-year-old boy, was brutally murdered in 2011, sparking protests against Assad in Tera, Syria. His mother's grief fueled anti-Assad graffiti and demonstrations. The incident intensified government oppression but also galvanized rebels.
 
-சில நிமிடங்களிற்கு முன்னர் அசாத்தின் கொடுரமான சைட்னயா  சிறைச்சாலையிலிருந்து  எடுக்கப்பட்ட ஆவணஙய்களை அந்த குடும்பத்தினருக்கு சிலர் அனுப்பிவைத்திருந்தனர். அந்த ஆவணத்தில் ஹம்சாவின் மூத்த சகோதரர் ஒமாரும் சிரிய பாதுகாப்பு படையினரால் கைதுசெய்யப்பட்டார் என்ற விடயம் காணப்படுகின்றது.
+🟩
+
+Attempts to unite Pasar al -Assad have begun in the Syrian city of Tera than any other part of Syria. The city is found on the Jordan Syrian border.
+
+On May 21, 2011, the body of 13 -year -old Hamza al -Hattip, who was tortured and mutilated on May 21, 2011, handed over the body to Assad's family.
+
+Furious as he was tortured and killed, the teenagers began to write anti -Assad on the walls. Demonstrations against the government intensified, followed by the state forces engaged in the worst oppression.
+
+But when we went to the house, no one could see anyone celebrating the fall of the Assad government.
+
+A few minutes ago, some of the family had sent documents taken from Assad's brutal Sitnaya prison to the family.. In the document, Hamza's elder brother Omar was also arrested by Syrian security forces.
+
+Their mother, Sameera, said she was waiting for her eldest son Omar to leave the prison.
+
+I was waiting for my eldest son to come today or tomorrow.
 
 ...
 
 [Data](articles/a2a8954f.json)
+
+[Extended Data](ext_articles/a2a8954f.ext.json)
 
 ---
 

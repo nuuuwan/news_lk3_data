@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 17:26:59**
+As of **2024-12-15 17:44:16**
 
 ## Newspaper Stats
 
-*Scraped **60,298** Articles*
+*Scraped **60,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,135 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,724
-adaderanalk | 7,345
+adalk | 5,725
+adaderanalk | 7,347
 tamilmirrorlk | 8,617
-virakesarilk | 9,917
-adaderanasinhalalk | 10,427
+virakesarilk | 9,921
+adaderanasinhalalk | 10,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,270 (100.0%) of 60,298 articles have been extended.
+60,278 (100.0%) of 60,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### වෑන් රථයක් ප්‍රපාතයකට පෙරළෙයි
+
+*2024-12-15 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204402) · `si`
+
+රිවස්ටන් - ලග්ගල මාර්ගයේ ගමන්ගත් වෑන් රථයක් අද (15) පස්වරුවේ අඩි 50ක පමණ ප්‍රපාතයකට පෙරළී අනතුරක් සිදුව ඇත.
+
+මෙම වෑන් රථයේ 8 දෙනෙකු සිට ඇති අතර, ඉන් එක් අයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+
+ගාල්ලේ සිට සංචාරයකට පැමිණි තරණයක් පිරිසක් මෙම අනතුරට මුහුණපා ඇති බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/28fc7310.json)
+
+---
+
+### வெளிநாட்டு வேலை பெற்றுத் தருவதாக கூறி பண மோசடி - ஒருவர் கைது
+
+*2024-12-15 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201329) · `ta`
+
+கிண்ணியா பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் வெளிநாட்டு வேலை பெற்றுத் தருவதாகக் கூறி பண மோசடி செய்த சந்தேக நபர் நேற்று சனிக்கிழமை (14 ) கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த பண மோசடி குற்றம் தொடர்பில் ஹக்மன பொலிஸ் நிலையத்துக்கு கிடைத்த 09 முறைப்பாடுகளை ஹக்மன பொலிஸ் நிலைய அதிகாரிகள் விசாரணை செய்ததையடுத்து, சம்பவத்துடன் தொடர்புடைய நபர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர் 43 இலட்சம் ரூபாவுக்கும் அதிகமான பணத்தை மோசடி செய்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/914a653a.json)
+
+---
+
+### மலையக தமிழ் மக்களுக்கு வழங்கப்பட்ட 'இந்திய தமிழர்'  என்ற அங்கீகாரம் மாற்றமடைந்து, இலங்கையர் என்ற அங்கீகாரம் கிடைக்க வேண்டும் - மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர்
+
+*2024-12-15 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201327) · `ta`
+
+இலங்கையில் மலையக வாழ் தமிழ் மக்கள் குடியேறி நான்கு தலைமுறைகளை கடந்து, 200 வருடங்களாயினும் இதுவரை காலப்பகுதியிலும் பிறப்பு சான்றிதழில் 'இந்திய தமிழர்' என்றே எழுதப்படுகிறது. ஆனால் இலங்கையில் வாழும் மலையக மக்கள் இலங்கையிலே வியர்வை சிந்தி இலங்கைக்காக உழைத்து இன்று தன்னுடைய நாடு என்ற அங்கீகாரம் இல்லாமல் வாழ்வது மாற்றமடைந்து, இலங்கையர் என்ற அங்கீகாரம் கிடைக்க வேண்டும் என மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் தெரிவித்தார்.
+
+இரா. சிவலிங்கம் ஞாபகார்த்தம் குழுவின் இரு நூல்களின் வெளியீட்டு விழா நேற்று  சனிக்கிழமை (14) கொழும்பு தமிழ் சங்கம் சங்கரப்பிள்ளை மண்டபத்தில் நடைபெற்றபோதே அவர் இதனை தெரிவித்தார்.
+
+...
+
+[Data](articles/0f94ae86.json)
+
+---
+
+### பாரா­ளு­மன்ற தேர்­தல்­களில் தொடரும்  6 வீத­மான நிரா­க­ரிக்­கப்­பட்ட வாக்­குகள்
+
+*2024-12-15 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201352) · `ta`
+
+இலங்­கையில் தேர்­தல்­களைப் பொறுத்­த­வ­ரையில், பாரா­ளு­மன்றத் தேர்­த­லில் ­தொ­டர்ச்­சி ­யாக அதி­க­மான நிரா­க­ரிக்­கப்­பட்ட வாக்­குகள் பதி­வாகிக் கொண்­டி­ருப்­பதை அவ­தா­னிக்க முடி­கி­றது. 1989 ஆம் ஆண்டு முதல்  புதிய தேர்தல் முறை­மையில் 9 பாரா­ளு­மன்றத் தேர்­தல்கள் நடை­பெற்­று­விட்­டன.  இந்த 9 பாரா­ளு­மன்றத் தேர்­தல்­களை எடுத்து நோக்­கும்­போது, சரா­ச­ரி­யாக 6 வீத­மான நிரா­க­ரிக்­கப்­பட்ட வாக்­கு­களின் எண்­ணிக்கை கூடிக் குறைந்து வந்­துள்­ளதைக் காண முடி­கி­றது.
+
+◼️
+
+[Data](articles/0e385252.json)
+
+---
+
+### අද සිට බිත්තර මිලේ වෙනසක්
+
+*2024-12-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204401) · `si`
+
+එළැඹෙන උත්සව සමය වෙනුවෙන් අද සිට බිත්තරයක් රුපියල් 30ත් 35ත් අතර සිල්ලර මිලට අලෙවි කිරීමට තීරණය කර තිබෙන බව සමස්ත ලංකා බිත්තර වෙළෙඳ සංගමය පවසයි.
+
+එම සංගමයේ සභාපති ඇන්ටන් අප්පුහාමි මහතා පවසා සිටියේ, ග්‍රෑම් 50ට අඩු සාමාන්‍ය බිත්තරයක් රුපියල් 30ත් 32ත් අතර මිලකට මිලදී ගත හැකි බවයි.
+
+එමෙන්ම ග්‍රෑම් 55ට වැඩි ලොකු බිත්තරයක් රුපියල් 33ත් 35ත් අතර මිලකට මිලදී ගැනීමේ හැකියාව තිබෙන බවද ඔහු පැවසීය.
+
+මෙම මිලගණන්වලට වෙළෙඳපොළේ බිත්තර සුලභව තිබෙන බවත්, ඊට ඉහළින් ඇති කිසිදු බිත්තරයක් මිලදී නොගන්නා ලෙස ඔහු පාරිභෝගිකයන්ගෙන් ඉල්ලා සිටියේය.
+
+"ඉදිරි උත්සව සමයේ අපි තීරණයක් අරගෙන තියෙනවා රුපියල් 30 - 35 අතර සිල්ලර මිලට බිත්තරයක් අලෙවි කිරීමට. එමනිසා අද පටන් රුපියල් 35ට අඩුවෙන් බිත්තර අලෙවිකරන මෙන් සෑම සිල්ලර කඩයකින්ම ඉල්ලා සිටිනවා".
+
+"2023 මේ කාලසීමාවේ බිත්තරයක් තිබුණේ 65 -70 වගේ මිලකට. නමුත් බිත්තර නිෂ්පාදනය වැඩිවෙලා වෙළෙඳපොළ තුළ අද මිල සමනයකට පත්වෙලා. සියලුම ගොවියන්ගේ බිත්තර නිෂ්පාදන අතිරික්තයක් තිබෙනවා".
+
+...
+
+[Data](articles/187e8151.json)
+
+---
+
+### சபாநாயகரை பதவி விலகச் செய்த  அநுரவின் கடுமையான அழுத்தம்
+
+*2024-12-15 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201356) · `ta`
+
+சபாநாயகர் அசோக்க சப்புமல் ரன்வல மாத்திரமின்றி பிரதி சபாநாயகர் ரிஷ்வி சாலி, நகர அபிவிருத்தி அமைச்சர் அநுர கருணாதிலக, மின்சக்தி அமைச்சர் புண்ணியஸ்ரீ குமார ஜயக்கொடி, ஹர்ஷண சூரியப்பெரும, அனில் கயந்த, பிமல் ரத்நாயக்க மற்றும் எரங்க குணசேகர உள்ளிட்டோரின் கல்வி தகைமைகள், பட்டங்கள் உண்மையானவையா என்ற சந்தேகம் எழுந்துள்ளதாக முன்னாள் பாராளுமன்ற உறுப்பினர் பிரேம்நாம் சி தொலவத்த கருத்து வெளியிட்டு அதிர்ச்சியை ஏற்படுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/d0c1bffb.json)
+
+---
+
+### Five Acting Ministers appointed
+
+*2024-12-15 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104258/five-acting-ministers-appointed) · `en`
+
+Acting Ministers have been appointed to five ministries in the absence of President Anura Kumara Dissanayake, who is on an official visit to India.
+
+Accordingly, Acting Ministers have been appointed to oversee the affairs of the Ministry of Finance, Planning and Digital Economy and Ministry of Defence which are under the purview of the President as well as the Ministry of Foreign Affairs, Foreign Employment and Tourism and the Ministry of Labour.
+
+Acting Minister of Digital Economy – Deputy Minister Eranga Weeraratne
+
+Acting Minister of Foreign Affairs, Foreign Employment and Tourism - Deputy Minister Arun Hemachandra
+
+Acting Minister of Finance and Planning - Deputy Minister Dr. Harshana Sooriyapperuma
+
+The Head of State, accompanied by a top-level delegation left the island this afternoon (Dec. 15), aboard a SriLankan Airlines flight.
+
+...
+
+[Data](articles/a02d91a6.json)
+
+---
 
 ### Three arrested with Kokain and Kush drugs in Wellawatte
 
@@ -59,6 +173,24 @@ The arrested persons are 24 and 25 years old from Mattakkuli and 14 areas.
 [Data](articles/8f01eedd.json)
 
 [Extended Data](ext_articles/8f01eedd.ext.json)
+
+---
+
+### Investigation launched into train collision in Beliatta
+
+*2024-12-15 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104257/investigation-launched-into-train-collision-in-beliatta-) · `en`
+
+The Department of Railway has launched an investigation into a collision that occurred at the Beliatta Railway Station earlier today (15), involving the engines of the ‘Rajarata Rajina’ and ‘Sagarika’ trains.
+
+The incident took place when the engine of the ‘Rajarata Rajina’ train, en route from Beliatta to Anuradhapura, collided with the ‘Sagarika’ train, which was stationary at the time due to an engine change.
+
+The collision caused significant damage to the ‘Sagarika train’, prompting the Railway Department to announce that it will not be operational tomorrow morning (16), according to the department.
+
+The accident also disrupted the scheduled operations of the ‘Rajarata Rajina’ train, which was set to depart Beliatta for Anuradhapura at 8.45 a.m. today. The departure has been delayed as a result of the incident.
+
+◼️
+
+[Data](articles/b72ed508.json)
 
 ---
 
@@ -216,6 +348,24 @@ The UN Residential Coordinator of the United Nations has shown that the future p
 
 ---
 
+### ප්‍රධාන පොලිස් පරීක්ෂක හප්පා පළා ගිය මෝටර් රථය හඳුනා ගනියි
+
+*2024-12-15 15:36:07* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-පොලිස්-පරීක්ෂක-හප්පා-පළා-ගිය-මෝටර්-රථය-හඳුනා-ගනියි/11-413642) · `si`
+
+මාතලේ කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරිවරයාගේ පෞද්ගලික සහායක වශයෙන් කටයුතු කළප්‍රධාන පොලිස් පරීක්ෂකසියඹලාගස්පිටියමුදියන්සේලාගේලක්ෂ්මන් බණ්ඩාර මොළගොඩ (58) මහතාගේඅබිරහස් මරණය සම්බන්ධ විමර්ශන සිදුකරන වත්තේගම පොලිසියඔහු අනතුරට ලක් කොට පලා යනමෝටර් රථයක්හඳුනාගෙන ඇති බව පවසයි.
+
+ටොයෝටා ඩීඑක්ස් වර්ගයේ කාර් රථයක්ඒ මහතාඅනතුරට ලක් කොටපලායනන අයුරුඒ අසල තිබූ ආවේක්ෂණ කැමරා පද්ධතිය වල සටහන්ව ඇති බව පවසන පොලිසියඑහි අංකතහඩුව හඳුනාගැනීම සඳහාපුළුල් විමර්ශන ආරම්භ කොට තිබේ.
+
+මාතලේ කොට්ඨාශ භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයාගේ පෞද්ගලික සහායක වශයෙන් කටයුතු කළඒ මහතාඅභිරහස් ලෙස මියගොස් සිටියදී වත්තේගම නගරයේ පෞද්ගලික බැංකුවක් ඉදිරිපිටතිබියදී ඔහුගේමෘත දේහයපොලිසිය විසින් සොයාගෙන තිබුණි.
+
+වත්තේගමනාරංදණ්ඩ ප්‍රදේශයේ පදිංචිකරුවෙකු වන ඒ මහතාපෙරේදා (14) පාන්දර5.30 ට පමණශාරීරික ව්‍යායාම් කටයුතු සඳහා නිවසෙන් පිටත්ව ගොස්සිටියදී එසේ ඔහු අනතුරටලක්ව ඇති බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/e5188dda.json)
+
+---
+
 ### Tarm fleet from a newsletter
 
 *2024-12-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204397) · `si`
@@ -270,19 +420,25 @@ There are also conditions for the formation of a windmill in the Wangala Bay on 
 
 ---
 
-### නුවරඑළිය සංචාරකයන්ගෙන් පිරෙයි
+### Nuwara Eliya Fills with Tourism
 
 *2024-12-15 15:19:22* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑළිය-සංචාරකයන්ගෙන්-පිරෙයි/10-413641) · `si`
 
-සති අන්ත නිවාඩුවත් සමග නුවරඑලිය ප්‍රදේශයට දේශිය සංචාරකයන් විශාල පිරිසක් පැමිණි බව නුවරඑලිය සංචාරක හෝටල් හිමියන් පවසයි.
+Nuwara Eliya sees surge in local tourism over weekend due to favorable weather conditions. Hotel bookings increase as visitors flock to the hill station.
 
-නුවරඑලිය ප්‍රදේශයට මේ දිනවල පවතින යහපත් කාලගුණයත් සමග දේශිය සංචාරකයන් විශාල පිරිසක් මෙසේ පැමිණ ඇති බවත්, නත්තල් උත්සවයේ නිවාඩුවට නුවරඑලිය ප්‍රදේශයේ සියළුම සංචාරක හෝටල් කාමර මේ වන විට දෙස් විදෙස් සංචාරකයන් විසින් වෙන් කරවාගෙන ඇති බවයි සංචාරක හෝටල් හිමියන් කියා සිටියේ.
+🟩
 
-සති අන්ත නිවාඩුවට නුවරඑලියට පැමිණි දේශිය සංචාරකයන් ග්‍රේගරි වැවි අශ්‍රිතව විනෝද වන අයුරු දක්නට ලැබුණි.
+The Nuwara Eliya tourist hotel owners say a large number of local tourists visited the Nuwara Eliya area with the weekend.
+
+The hotel hotel rooms have been reserved in the Nuwara Eliya area in the Nuwara Eliya area on the Welimastle, regarding the current weather these days.
+
+The local tourist arrivals arrived at the Nuwara Eliya on the weekend
 
 ◼️
 
 [Data](articles/ea479c53.json)
+
+[Extended Data](ext_articles/ea479c53.ext.json)
 
 ---
 
@@ -642,55 +798,95 @@ It is not easy to build Syria as a nation and bring back the old state. Based on
 
 ---
 
-### தேங்காய் முதல் கலாநிதி வரை
+### From coconut to doctor
 
 *2024-12-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201336) · `ta`
 
-அரசியல் மாபியாக்கள் கட்டுப்படுத்தப்பட்டாலும், வியாபாரிகள், அதிகாரிகள், ஏன் பொது மக்கள் கூட இன்னும் பழைய ‘சிஸ்டத்தில்’தான் மூழ்கிக் கிடக்கின்றார்கள்.
+Here's a summary in 200 characters:
+
+
+
+"Coconut to Doctor": Political corruption persists despite control measures. Traders, officials, and citizens struggle within outdated systems.
+
+🟩
+
+Although political mafia are controlled, traders, officials and even the general public are still drowning in the old system.
 
 ◼️
 
 [Data](articles/8d3cab10.json)
 
+[Extended Data](ext_articles/8d3cab10.ext.json)
+
 ---
 
-### இராஜினாமாவோடு  முடிவடையுமா 'கலாநிதி'  சர்ச்சைகள்?
+### Will 'Dr.' controversy end with the resignation?
 
 *2024-12-15 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201332) · `ta`
 
-தனது கலாநிதி பட்டம் தொடர்பில் எழுந்திருக்கும் சர்ச்சைகள் தொடர்பில், சபாநாயகர் அசோக்க ரன்வல  விசேட அறிக்கையை 17 ஆம் திகதி வெளியிடுவார் என்று அறியப்பட்டிருந்த நிலையில் திடீரென அவர் கடந்த   வெள்ளிக்கிழமை தனது பதவியை இராஜினாமா செய்துள்ளார். இலங்கை அரசியல் வரலாற்றில்  சபாநாயகராக தெரிவு செய்யப்பட்ட ஒருவர் மிகவும் குறுகிய காலத்தில், 21 நாட்களில், தனது பதவியை இராஜினாமா செய்துள்ள முதல் சம்பவமாக இது பதிவாகியுள்ளது.
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan Speaker Ashoka Ranwala resigns amid "Dr." degree controversy. His departure marks the first such political scandal in Sri Lanka's history. The sudden resignation occurred before releasing a special report on the 17th.
+
+🟩
+
+Speaker Ashoka Ranwala was aware of the controversy over his doctorate on Friday as he suddenly resigned his post last Friday as he was known to release a special report on the 17th.. This is the first incident in Sri Lanka's politics in the history of Sri Lankan politics.
 
 ◼️
 
 [Data](articles/a721b412.json)
 
+[Extended Data](ext_articles/a721b412.ext.json)
+
 ---
 
-### පාලන මිල ඉක්මවා සහල් විකිණු වෙළෙඳුන් 300කට අධික පිරිසකට නඩු
+### Over 300 traders sold in control over 300 traders
 
 *2024-12-15 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204394) · `si`
 
-සහල් පාලන මිල සම්බන්ධයෙන් සිදුකළ වැටලීම්වලින් මේ වන විට වෙළෙඳුන් 300කට අධික පිරිසක් නීතියේ රැහැනට හසුකර ඇතැයි පාරිභෝගික සේවා අධිකාරිය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-එම අධිකාරියේ තොරතුරු අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා පැවසුවේ පසුගිය 10 වැනිදා සිට මේ දක්වා සිදුකළ වැටලීම්වලින් මෙම පිරිස හසුකරගත් බවයි.
 
-ඒ අනුව ඔවුන්ට එරෙහිව නඩු පැවරීමේ කටයුතු හෙට දිනයේ සිට ආරම්භ කරන බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+"Over 300 traders involved in illegal activities were arrested. Director Asela Bandara announced the arrests on the 10th. Prosecution begins tomorrow."
+
+🟩
+
+Over 300 traders have been caught in the law, have been caught in the law.
+
+The Authority Director Asela Bandara said that the group was arrested on the 10th to date.
+
+He further stated that the prosecution will commence from tomorrow.
 
 ◼️
 
 [Data](articles/b1df58d5.json)
 
+[Extended Data](ext_articles/b1df58d5.ext.json)
+
 ---
 
-### சிரிய ஆட்சி மாற்றம் ஈரான் மீதான போருக்கான முஸ்தீபு?
+### Mustafabu for Syrian regime change in Iran?
 
 *2024-12-15 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201335) · `ta`
 
-மேற்குலகுக்கு குறிப்பாக இஸ்ரேலுக்கு அச்சுறுத்தலாக விளங்கிய சக்திகள் ஒவ்வொன்றாக களத்தில் இருந்து அகற்றப்பட்டு வருவதை அல்லது நலிவடையச் செய்யப்பட்டு வருவதைத் தெளிவாக அவதானிக்க முடிகின்றது.
+Here's a summary of 200 characters:
+
+
+
+Mustafa Bu for Syrian regime change in Iran? Threats to the West, especially Israel, are decreasing as opposing forces are being eliminated from the battlefield.
+
+🟩
+
+It is clearly observed that the forces that are threatening the West, especially Israel, are being removed from the field.
 
 ◼️
 
 [Data](articles/e740ce54.json)
+
+[Extended Data](ext_articles/e740ce54.ext.json)
 
 ---
 
@@ -718,27 +914,47 @@ He was speaking at a media briefing held in Colombo today (15).
 
 ---
 
-### மீண்டும் கூட்டமைப்பா?
+### Will the Confederacy again?
 
 *2024-12-15 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201334) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்புக்குள் இருந்தபோது குத்துதே குடையுதே என்றவாறு தான் பெரும்பாலான கட்சிகள் நடந்து கொண்டன. இப்போது எல்லா கட்சிகளுக்கும் தங்களின் பலம் என்ன  என்பதை தெளிவாக உணர முடிந்திருக்கிறது. சிறிதரனுக்கும் கஜேந்திரகுமாருக்கும் இடையில் நடந்துள்ள சந்திப்பு இரண்டு கட்சிகளுக்கும் இடையிலான ஒருமித்த கருத்துருவாக்கத்துக்கு வழிவக்குமா என்பதை இப்பொழுதே அனுமானிக்க முடியாது.
+Here's a summary in 200 characters:
+
+
+
+Tamil National Alliance parties realized their strengths. Meeting between Sridharan and Gajendrakumar uncertain about consensus outcome.
+
+🟩
+
+Most parties behaved as if they were in the Tamil National Alliance. Now all parties have been able to realize what their strengths are. The meeting between Sridharan and Gajendrakumar is now unable to guess whether the consensus between the two parties will lead.
 
 ◼️
 
 [Data](articles/066dc531.json)
 
+[Extended Data](ext_articles/066dc531.ext.json)
+
 ---
 
-### சீர்குலைக்கிறதா சீனா?
+### Is China to disrupt?
 
 *2024-12-15 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201331) · `ta`
 
-இலங்கையை தனது இதயத்தில் வைத்து பாதுகாக்கின்ற நாடாக இருந்திருந்தால், அந்த நெருக்கடியான சூழலில் 6 மில்லியன் டொலர்களை  பலாத்காரமாக சீனா பறித்திருக்காது.இந்த முறை சீருடைகள் முழுமையாக சீனாவில் இருந்து, மூன்று கப்பல்களில் கொண்டு வரப்பட்டதால், உள்ளூர் துணி உற்பத்தியாளர்களுக்கு பாதிப்பு ஏற்பட்டுள்ளது.
+Here's a summary in 200 characters:
+
+
+
+"China's involvement in a financial crisis resulted in a $6 million loss. The question implies potential disruption from China's actions."
+
+🟩
+
+China would not have been forcibly forcibly $ 6 million in that crisis.
 
 ◼️
 
 [Data](articles/7372e9bf.json)
+
+[Extended Data](ext_articles/7372e9bf.ext.json)
 
 ---
 
@@ -759,6 +975,8 @@ Meanwhile, the Indian High Commission in Colombo said President Disanayaka will 
 ...
 
 [Data](articles/6fbd6694.json)
+
+[Extended Data](ext_articles/6fbd6694.ext.json)
 
 ---
 
@@ -2121,247 +2339,5 @@ The system is demanding the next predictions and announcements issued by the Dep
 [Data](articles/6953c093.json)
 
 [Extended Data](ext_articles/6953c093.ext.json)
-
----
-
-### Some people will soon be removed from Tamil Nadu
-
-*2024-12-15 04:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசில்-இருந்து-சிலர்-விரைவில்-நீக்கப்படுவர்/175-348729) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan Tamil party faces removals: Some members may be suspended due to contesting against the party. Disciplinary actions planned for others involved in party activities. This comes after a central committee meeting in Vavuniya.
-
-🟩
-
-Some will be removed from the Sri Lankan Tamil party. Former parliamentarian MA Sumanthiran, a former parliamentarian of the Sri Lanka Tamil National Alliance (TNA), said that some would be suspended.
-
-He was speaking to the media after a central committee of the Sri Lanka Tamil National Alliance (TNA) in Vavuniya yesterday.
-
-The Central Committee accepts that the General Secretary has the power to immediately remove those who contested against the party. The General Secretary will do it in the coming days.
-
-Others will take disciplinary action on the party and the party's candidate. They will be suspended from the party's activities until that disciplinary action is taken.
-
-In the past, the TNA has taken a decisive position on issues related to constitutional creation. Some drafts have been made. We are compliant with some drafts. So. It said it was our position. (A)
-
-◼️
-
-[Data](articles/85315d49.json)
-
-[Extended Data](ext_articles/85315d49.ext.json)
-
----
-
-### Reduces the impact of the mice
-
-*2024-12-15 04:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-தாக்கம்-குறைகிறது/175-348728) · `ta`
-
-Sum:0
-
-🟩
-
-The number of people suspected of rashes at the Point Pedro Hospital has been drastically reduced.
-
-Doctors have expressed hope that the number of people admitted to the hospital in two days will decline and the situation will be corrected.
-
-So far, 66 people have been treated at the Point Pedro Hospital with symptoms. Currently 32 patients are staying at the hospital and receiving treatment. (A)
-
-◼️
-
-[Data](articles/ea403edf.json)
-
-[Extended Data](ext_articles/ea403edf.ext.json)
-
----
-
-### Protesters - police clash
-
-*2024-12-15 04:11:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்கள்-பொலிஸார்-முறுகல்/175-348727) · `ta`
-
-Clash between Tamil National People's Front protesters and police over idol removal causes tension. Parliamentarians participate in demonstration leading to roadblock presence.
-
-🟩
-
-Yall. The Tamil National People's Front (TNA) staged a protest yesterday demanding the removal of the idol. There was a clash between the party and the police.
-
-This caused tense environment. In addition, the police were concentrated on roadblocks.
-
-Parliamentarian Gajendrakumar Ponnambalam and former MP Selvarasa Gajendran participated in the protest. (A)
-
-◼️
-
-[Data](articles/40a92d5e.json)
-
-[Extended Data](ext_articles/40a92d5e.ext.json)
-
----
-
-### "We used to climb mountain because we wanted to reduce the streams
-
-*2024-12-15 03:44:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c047zy5v4zqo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Couple climbs mountains to reduce stress. They climbed Everest, facing challenges like low oxygen & extreme cold. Their journey began as a university romance, evolving into mountaineering adventures.
-
-🟩
-
-"We used to climb mountain because we wanted to reduce the streams
-
-'We both work in the corporateworld. We decided with the stress, which we had to climb a mountain one for at least one month. That was where this journey began. 'Winning the BBC Sinhala service, the binding in Dubai, said in Dubai.
-
-A few days ago, the backdown of the world's tallest mountain, Everest, was a good experience, even if it was difficult to attend the journey.
-
-Jayanthi Kuru Aartumpipala was the tallest mountain range in the world for the first time in the history of the history. Johann Peiris also joined the journey.
-
-Born in Galle Jayasanka is currently living in Dubai and he lives with his wife. He told the BBC Sinhala that he and wife were started from the university's study.
-
-"I studied at Faculty of Science at the University of Colombo. That is where my wife is now found other Dimuthu Nijeani Silva. In the first year of the 2013 Campus, we started this mountain of Hanthana, the mountain of love. "
-
-...
-
-[Data](articles/579b9e01.json)
-
-[Extended Data](ext_articles/579b9e01.ext.json)
-
----
-
-### 2024-12-14 (Saturday)
-
-### A group of Sri Lankans who have gone to serve Israel deported
-
-*2024-12-14 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204382) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankans serving in Israel face deportation issues. Some were sent back due to visa violations. The ambassador was arrested for escaping work. Israel emphasizes strict laws for foreign workers.
-
-🟩
-
-Several Sri Lankans who acted on the jobs of Israel and have been deported to Sri Lanka.
-
-Sri Lanka's Ambassador to Israel, Nimal Bandara, has come to Israel on the work visas and was arrested by the authorities of the authorities who escaped from the workplace.
-
-The Ambassador said that Israel is a frequently conscious country in relation to foreign workers.
-
-The Israeli authorities have emphasized that after the arrival of foreign workers in Israel, there is no legal situation in Visa Visa.
-
-Meanwhile, a Sri Lankan Ambassador to Israel, a Sri Lankan Ambassador to Sri Lanka, was deported to Sri Lanka after the breach of the terms of the service.
-
-Earlier, a Sri Lankan charged with theft of a robbery had been allegedly exiled.
-
-◼️
-
-[Data](articles/bdf5252a.json)
-
-[Extended Data](ext_articles/bdf5252a.ext.json)
-
----
-
-### Three frontrunners to become Sri Lanka’s next Speaker
-
-*2024-12-14 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104242/three-frontrunners-to-become-sri-lankas-next-speaker) · `en`
-
-Three names have been proposed for the position of Speaker of Sri Lanka’s Parliament following the resignation of MP Asoka Ranwala from the position, according to political sources.
-
-Sources indicate that the names of Deputy Speaker Dr. Rizvie Salih, MP Lakshman Nipuna Arachchi, and MP Nihal Galappaththi have been proposed as candidates to become the new Speaker.
-
-This follows the controversy surrounding former Speaker Ashoka Ranwala’s doctorate, which led to widespread public and political scrutiny.
-
-Ranwala tendered his resignation to the President yesterday (13), a move formally acknowledged today (14) by Presidential Secretary Dr. Nandika Sanath Kumanayake, who notified Secretary General of Parliament Mrs. Kushani Rohanadeera of the President’s acceptance of the resignation.
-
-Meanwhile, Parliament is scheduled to reconvene on December 17 under Deputy Speaker Dr. Rizvie Salih, with the appointment of a new Speaker expected to take place the same day, adhering to constitutional protocols.
-
-◼️
-
-[Data](articles/8e4b6658.json)
-
-[Extended Data](ext_articles/8e4b6658.ext.json)
-
----
-
-### Speaker's Resignation
-
-*2024-12-14 22:06:09* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගේ-ඉල්ලා-අස්වීම-ජනපති/11-413630) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Speaker Asoka Ranwala resigns. He wrote to the President, citing constitutional requirements. The Secretary to the President notified the Speaker General of Parliament.
-
-🟩
-
-The Secretary to the President has informed the Secretary General of Parliament that Speaker Asoka Ranwala resigns from his post informed the President.
-
-Asoka Ranwala, who was appointed as the newly Speaker of the Tenth Parliament, had written to the President that he would resign from office.
-
-According to the Constitution 64 (2) of the Constitution, the President shall inform the President by a letter under his signature.
-
-Accordingly, the Secretary to the President has made this written notice to the Secretary General of Parliament.
-
-◼️
-
-[Data](articles/d212587e.json)
-
-[Extended Data](ext_articles/d212587e.ext.json)
-
----
-
-### Heavy dedicated to the acquisition of kidney disease
-
-*2024-12-14 21:59:05* · [`adalk`](https://www.ada.lk/breaking_news/වකුගඩු-රෝගය-පිටුදැකිමට-දැඩි-ලෙස-කැපවෙනවා/11-413629) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan Health Minister Dr. Nalinda Jayatissa emphasizes government commitment to combating unidentified kidney disease. The Ministry of Health collaborates with China's Science Academy to develop prevention and treatment strategies.
-
-🟩
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa said that the current government is severely committed to suppressing the unidentified kidney disease.
-
-The Minister was addressing the inauguration of the Ministry of Health in the National Kidney Prevention and Research Unit, the National Kidney Prevention and Research Unit, the National Kidney Prevention and Research Unit, the Chinese Science Academy and Sri Lanka Scholarship Cooperation.
-
-The workshop was organized by the Prevention and Research Unit of the Ministry of Health and the Chinese Science Academy and the Sri Lankan scholars.
-
-The Ministry of Health is proposed to be recommended by the Ministry of Health and to meet the development of kidney disease and to promote the prevention of the treatment.
-
-...
-
-[Data](articles/f1628626.json)
-
-[Extended Data](ext_articles/f1628626.ext.json)
-
----
-
-### SSP's Personal Assistant Ci has died mysterious
-
-*2024-12-14 21:54:39* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-SSPගේ-පුද්ගලික-සහකාර-CI-අභිරහස්-ලෙස-මිය-ගිහින්/11-413628) · `si`
-
-Chief Inspector Lakshman Model, SSP's Personal Assistant Ci, found dead in Wattegama. Suspected to have escaped a vehicle during exercise. Police investigating under Senior Superintendent of Police Teldeniya's supervision.
-
-🟩
-
-Chief Inspector of Police (Senior STF) from the Senior Superintendent of Police in charge of the Matale Division, Lakshman Model was found mysteriously deceased in Wattegama.
-
-He was also resident of a resident of Wattegama at around 5.30 pm and then found his body in a private bank in Wattegama.
-
-Police suspect that he had escaped a vehicle while he was exercising.
-
-Wattegama Police are conducting further investigations under the supervision of Senior Superintendent of Police of Teldeniya.
-
-◼️
-
-[Data](articles/b2cbb0eb.json)
-
-[Extended Data](ext_articles/b2cbb0eb.ext.json)
 
 ---

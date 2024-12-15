@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 08:11:57**
+As of **2024-12-15 09:24:15**
 
 ## Newspaper Stats
 
-*Scraped **60,206** Articles*
+*Scraped **60,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,179 @@ islandlk | 3,646
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,711
-adaderanalk | 7,332
-tamilmirrorlk | 8,606
+adalk | 5,713
+adaderanalk | 7,334
+tamilmirrorlk | 8,608
 virakesarilk | 9,881
-adaderanasinhalalk | 10,412
+adaderanasinhalalk | 10,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,194 (100.0%) of 60,206 articles have been extended.
+60,199 (100.0%) of 60,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### மீகொட துப்பாக்கிச் சூட்டில் ஒருவர் பலி
+
+*2024-12-15 09:08:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீகொட-துப்பாக்கிச்-சூட்டில்-ஒருவர்-பலி/175-348731) · `ta`
+
+மீகொட, நாகஹவத்தையில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் 32 வயதுடைய நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+பாதிக்கப்பட்ட நபர் தனது சகோதரரின் வீட்டிலிருந்து மீகொடவில் உள்ள தனது சொந்த வீட்டிற்கு சனிக்கிழமை (14) காரில் சென்று கொண்டிருந்த போதே இந்த துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+காரை இனந்தெரியாத நபர் ஒருவர் தடுத்து நிறுத்தி துப்பாக்கிச் சூடு நடத்தியுள்ளார். துப்பாக்கிச் சூடு நடந்த போது பாதிக்கப்பட்டவரின் மனைவி மற்றும் ஒன்றரை வயது மகளும் வாகனத்தில் இருந்தனர்.
+
+பலத்த காயங்களுக்கு உள்ளான நபர் ஹோமாகம வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட நிலையில், சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+தாக்குதல் நடத்தியவர்கள் இதுவரை அடையாளம் காணப்படாத நிலையில், மீகொட பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/61012dd5.json)
+
+---
+
+### வெள்ளவத்தையில் போதைப்பொருள் விநியோகித்தவர் சிக்கினார்
+
+*2024-12-15 09:03:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தையில்-போதைப்பொருள்-விநியோகித்தவர்-சிக்கினார்/175-348730) · `ta`
+
+வெள்ளவத்தை அடுக்குமாடி குடியிருப்பில் தங்கியிருக்கும் பெரும் பணக்காரர்களின் பாவனைக்காக பாரியளவில் கொக்கெய்ன் மற்றும் குஷ் போதைப் பொருட்களை கடத்தியவர் உட்பட இருவர் மத்திய ஊழல் தடுப்பு அதிரடிப் படை அதிகாரிகளால் சனிக்கிழமை (14) கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடம் இருந்து 6 இலட்சம் ரூபாவுக்கும் அதிகமான பெறுமதியான 40 கிராம் கொக்கெய்ன் மற்றும் 206 கிராம் குஷ் போதைப் பொருள் கண்டுபிடிக்கப்பட்டதுடன், அதே போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்த பதினெட்டு இலட்சத்து 75,000 ரூபாய் பணமும் கைப்பற்றப்பட்டுள்ளது என மத்திய ஊழல் தடுப்பு அதிரடிப் படை அதிகாரிகள் தெரிவித்தனர்.
+
+தற்போது சிறையில் இருக்கும் போதைப்பொருள் வியாபாரி ஒருவரால் இந்த போதைப்பொருள் கடத்தல் நடத்தப்பட்டு வருவதாகவும், கைது செய்யப்பட்ட போதைப்பொருள் வியாபாரி நாடு முழுவதும் உள்ள பிரபல இரவு விடுதிகளுக்கும், உயர்மட்ட வேலைகளில் பணிபுரியும் பணக்காரர்களுக்கும் போதைப்பொருள்களை மிகவும் ரகசியமாக விநியோகித்து உள்ளார்.  அத்துடன், தனியார் பல்கலைக்கழகங்களில் படிக்கும் பெரும் பணக்காரர்களின் பிள்ளைகளுக்கும் விற்பனை செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e053c15f.json)
+
+---
+
+### You may also be concerned about you in Sri Pada pilgrimage
+
+*2024-12-15 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204387) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Pada pilgrimage rules: no permanent structures, banned items, waste management, health precautions, trading restrictions, accommodation requirements.
+
+🟩
+
+Accordingly, the phillowship of the ancient Sri Pada temple in Galpottawatte and the Sri Pada Kahanduwa in the Gelpottawatte.
+
+Meanwhile, the commencement of Ratnapura District Secretary Wasantha Gunaratne has also issued a special gazette notification.
+
+The gazette notification states that the guidelines should be followed in the proof of the Siripa pilgrimage.
+
+According to the tourist trade in Sri Lanka and the trail, along with the trail, is forbidden and all that are prepared to sell should be detled with covers to protect them from flies.
+
+In the announcement, there will be prohibited by anywhere else to be retired, except or maintaining or maintaining accommodation.
+
+1. The Lihigiwela Viharaya, Uthamiwela Viharaya, Aaddiyalagena, Warragala, Coloragala, Stragunu, Medayna, Yadagatu, Medayna, needwinup, Medayayna, needi sheets.
+
+No permanent or temporary building or a store for May 13, 2025 from 1 December 13, 2025 from 14 December 13, 2025 to May 13, 2025.
+
+...
+
+[Data](articles/ae6819e9.json)
+
+[Extended Data](ext_articles/ae6819e9.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-15 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104244/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in the Eastern Province.
+
+Showers or thundershowers may occur at several places elsewhere during the evening or night.
+
+Fairly heavy showers about 75mm are likely at some places in Central, Sabaragamuwa, Eastern and Southern provinces, it added.
+
+Misty conditions can be expected in Central, and Sabaragamuwa provinces during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/12cc4f0a.json)
+
+---
+
+### Youth travelling in car shot dead in Meegoda
+
+*2024-12-15 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104243/youth-travelling-in-car-shot-dead-in-meegoda) · `en`
+
+A 32-year-old person travelling in a car has been shot dead by two unidentified gunmen who ambushed his vehicle at Nagahawatte in Meegoda, police said.
+
+The deceased has been identified as a 32-year-old father of one.
+
+The shooting took place last night (14) as the victim was travelling from his brother’s residence to his own house in Nagahawatte, Meegoda.
+
+An unidentified person had stopped his vehicle, while another person had opened fire at him, the police said.
+
+The victim, who was critically injured in the shooting, had succumbed to his injuries after being admitted to the Homagama Hospital.
+
+The victim’s wife and his one-year-old daughter were also inside the car, at the time of the shooting.
+
+The deceased had been employed as an office assistant at the main office of the Department of Samurdhi Development in Sethsiripaya, Battaramulla.
+
+Nugegoda scene of crime officers are conducting on-site investigations into the incident.
+
+◼️
+
+[Data](articles/423168ec.json)
+
+---
+
+### රිලවුන් වන්ද්‍යාකරණයට මාතලෙන් ආරම්භ කළ නියමු ව්‍යාපෘතිය සාර්ථකයි
+
+*2024-12-15 08:09:45* · [`adalk`](https://www.ada.lk/breaking_news/රිලවුන්-වන්ද්‍යාකරණයට-මාතලෙන්-ආරම්භ-කළ-නියමු-ව්‍යාපෘතිය-සාර්ථකයි/11-413631) · `si`
+
+රට තුළ සීඝ්‍රයෙන්  වර්ධනය වන රිළා ගහනය පාලනය කිරීමේ අරමුණින් මාතලේ දිස්ත්‍රික්කයෙන් ආරම්භ කරන ලද වන්ද්‍යාකරණ කිරීමේ නියමු ව්‍යාපෘතිය පසුගිය (12) වන දින ආරම්භ වූ අතර එය මේ වන විට සාර්ථකව ක්‍රියාත්මක වන බව මාතලේ දිසාපති තේජානී තිලකරත්න මහත්මිය පවසයි.
+
+පසුගිය දින කීපය තුළ මාතලේ හරස්ගම හා ඉහළ හරස්ගම ප්‍රදේශයන්හි සිදු කළ රිලවුන් අල්ලා ගැනීමේ මෙහෙයුමේදී  වන්ද්‍යාකරණ කටයුතු සඳහා යොමු කිරීම සඳහා රිලවුන්  40 දෙනකු පමණ  අල්ලා ගැනීමට ප්‍රදේශවාසීන් හා වන ජීවී නිලධාරීන් සමත්ව තිබේ.
+
+මෙම  නියමු ව්‍යාපෘතිට රජය රුපියල් මිලියන 4.5 ක මුදලක් වැය කරනු ලබන අතර එහි සාර්ථකත්වය මත  ඉදිරියේදී රට පුරා මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට නියමිතය .
+
+...
+
+[Data](articles/49fc620b.json)
+
+---
+
+### පුතුගෙන් මවට එල්ල වූ මාරාන්තික පොලුපහර
+
+*2024-12-15 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204386) · `si`
+
+පුද්ගලික ආරවුලක් හේතුවෙන් සිදු වූ බහින් බස්වීමක් දුරදිග යාමෙන් පුතා විසින් මවට පොල්ලකින් පහරදී ඝාතනය කර තිබේ.
+
+අද (15) අලුයම් කාලයේදී එම ඝාතනය සිදුකර තිබුණේ ගොඩකවෙල, බිසෝකොටුව ප්‍රදේශයේදීය.
+
+එලෙස මියගොස් ඇත්තේ, ගල්පාය, පල්ලේබැද්ද ප්‍රදේශයේ පදිංචිව සිටි 82 හැවිරිද කාන්තාවකි.
+
+මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරික්ෂණය සිදු කිරීමට නියමිතව ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා ගොඩකවෙල පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+මේ අතර ගොඩනැගිල්ලක ඉදිකිරීම් කටයුතු සඳහා පැමිණ සිටි පෙදරේරුවන් දෙදෙනෙකු අතර ඇතිවූ ආරවුලක් දුරදිග යාමෙන් එක් පුද්ගලයෙකු විසින් අනෙක් පුද්ගලයාට පහරදී ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+
+එම ඝාතනය සිදුකර තිබුණේ සීදූව පොලිස් වසමේ 02 වන පටුමග ප්‍රදේශයේදීය.
+
+එලෙස මියගොස් ඇත්තේ, ජුබිලි මාවත, වයික්කාල ප්‍රදේශයේ පදිංචිව සිටි 47 හැවිරිදි පුද්ගලයෙකි.
+
+ඝාතනය සම්බන්ධයෙන් වයස අවුරුදු 36ක් වන කැකිරාව ප්‍රදේශයේ පදිංචි සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/98436183.json)
+
+---
 
 ### Landslide Warnings for several districts
 
@@ -120,21 +278,33 @@ The system is demanding the next predictions and announcements issued by the Dep
 
 ---
 
-### ’தமிழரசில் இருந்து சிலர் விரைவில் நீக்கப்படுவர்’
+### Some people will soon be removed from Tamil Nadu
 
 *2024-12-15 04:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசில்-இருந்து-சிலர்-விரைவில்-நீக்கப்படுவர்/175-348729) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியில் இருந்து சிலர் நீக்கப்படுவார்கள். சிலர் இடைநிறுத்தப்படுவார்கள் என்று இலங்கைத் தமிழரசுக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-வவுனியாவில் நேற்று நடைபெற்ற இலங்கைத் தமிழரசுக் கட்சியின் மத்திய குழுக் கூட்டத்தின் பின்னர் ஊடகங்களுக்குக் கருத்துத் தெரிவிக்கும்போதே அவர் இவ்வாறு கூறினார்.
 
-கட்சிக்கு எதிராகப் போட்டியிட்டவர்களை உடனடியாகக் கட்சியிலிருந்து நீக்குவதற்குப் பொதுச் செயலாளருக்கு அதிகாரம் இருக்கின்றது என மத்திய குழு ஏற்றுக் கொண்டிருக்கின்றது. அதனைப் பொதுச்செயலாளர் எதிர்வரும் நாட்களில் செய்வார்.
 
-வேறு சிலர் கட்சிக்கும், கட்சியினுடைய வேட்பாளருக்கு எதிராகவும் செயற்பட்டமை தொடர்பிலும் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும். அந்த ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் வரைக்கும் அவர்கள் கட்சியின் செயற்பாடுகளில் இருந்து இடைநிறுத்தப்படுவார்கள்.
+Sri Lankan Tamil party faces removals: Some members may be suspended due to contesting against the party. Disciplinary actions planned for others involved in party activities. This comes after a central committee meeting in Vavuniya.
 
-...
+🟩
+
+Some will be removed from the Sri Lankan Tamil party. Former parliamentarian MA Sumanthiran, a former parliamentarian of the Sri Lanka Tamil National Alliance (TNA), said that some would be suspended.
+
+He was speaking to the media after a central committee of the Sri Lanka Tamil National Alliance (TNA) in Vavuniya yesterday.
+
+The Central Committee accepts that the General Secretary has the power to immediately remove those who contested against the party. The General Secretary will do it in the coming days.
+
+Others will take disciplinary action on the party and the party's candidate. They will be suspended from the party's activities until that disciplinary action is taken.
+
+In the past, the TNA has taken a decisive position on issues related to constitutional creation. Some drafts have been made. We are compliant with some drafts. So. It said it was our position. (A)
+
+◼️
 
 [Data](articles/85315d49.json)
+
+[Extended Data](ext_articles/85315d49.ext.json)
 
 ---
 
@@ -350,6 +520,28 @@ Deputy Minister of Finance and Planning, Deputy Minister of Finance and Planning
 
 ---
 
+### The warning of landslides warns
+
+*2024-12-14 21:49:54* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-අඟවයි/11-413627) · `si`
+
+Landslide warnings issued for Medaduwakara, Pathadumbara, Pathogabara, Hapigara, and Matale districts due to heavy rainfall. Effective from 4 PM today until 4 PM tomorrow.
+
+🟩
+
+With the high rains, the National Building Research Organization has issued four districts to 4 pm today (14) at 4 pm.
+
+Accordingly, the landslides have been issued to landslide pre-landslides in the Medaduwakara, Pathadumbara, Pathogabara, Pathadumbara, Patheadumbara, Hapigara and Matale District.
+
+The warning is valid from 4 pm to 4 pm tomorrow (14).
+
+◼️
+
+[Data](articles/93e8ae5f.json)
+
+[Extended Data](ext_articles/93e8ae5f.ext.json)
+
+---
+
 ### Two persons arrested for hiding the corpse
 
 *2024-12-14 21:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலத்தை-மறைத்து-வைத்திருந்த-இருவர்-கைது/175-348726) · `ta`
@@ -472,15 +664,21 @@ Sampath Bank has been honoured as the Second Runner-Up in the Best Corporate Cit
 
 ---
 
-### தமிழ்த் தேசிய மக்கள் முன்னணியினால் இந்திய பிரதமருக்கு கடிதம்
+### Letter to the Prime Minister of India by the Tamil National People's Front
 
 *2024-12-14 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201295) · `ta`
 
-இலங்கை ஜனாதிபதி அனுரகுமார திஸாநாயக்க இந்தியப் பிரதமரைச் சந்திக்கவுள்ளார். நிலையில் இலங்கையில் தமிழ் மக்களது இனப்பிரச்சினைத் தீர்வாக ஒற்றையாட்சியை கைவிட்டு தமிழ்த் தேசம் அதன் இறைமை அங்கீகரிக்கப்ப்ட்ட சமஸ்டித் தீர்வை எட்ட இலங்கை மீது அழுத்தங்களைப் பிரயோகிக்க வலியுத்தி தமிழ்த் தேசிய மக்கள் முன்னணியினால் கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது.
+Tamil National People's Front writes to PM India, urging pressure on Sri Lanka to address Tamil ethnic issue and seek sovereignty solution during upcoming meeting between Indian and Sri Lankan leaders.
+
+🟩
+
+Sri Lankan President Anura Kumara Dissanayake will meet Indian Prime Minister. In the meantime, the Tamil National People's Front has issued a letter demanding pressure on Sri Lanka to abandon the unity of the ethnic problem of the Tamil people in Sri Lanka and reach its sovereignty solution.
 
 ◼️
 
 [Data](articles/c0e2eee7.json)
+
+[Extended Data](ext_articles/c0e2eee7.ext.json)
 
 ---
 
@@ -533,6 +731,8 @@ Beyond Escapes, an emerging travel agency in Sri Lanka, has gained widespread re
 ...
 
 [Data](articles/81ab5d81.json)
+
+[Extended Data](ext_articles/81ab5d81.ext.json)
 
 ---
 
@@ -2237,193 +2437,5 @@ Former diplomat and political policy critic Ashok Sajjanhar told the ETV.
 [Data](articles/4f6c11f0.json)
 
 [Extended Data](ext_articles/4f6c11f0.ext.json)
-
----
-
-### Sri Lanka records nearly 1.9 million tourist arrivals in 2024
-
-*2024-12-14 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104228/sri-lanka-records-nearly-19-million-tourist-arrivals-in-2024) · `en`
-
-The Sri Lanka Tourism Development Authority (SLTDA) has reported that nearly 1.9 million tourists have visited the island so far this year.
-
-SLTDA Chairman Buddhika Hewawasam stated that over 90,000 tourists have arrived so far in December alone. He also expressed confidence that the SLTDA expects 250,000 more tourists to visit by the end of the month.
-
-Hewawasam added that the SLTDA is aiming to reach a target of 2.2 million tourist arrivals by the end of 2024. If this target is achieved, it will mark the first time since 2018 that Sri Lanka has surpassed the two million tourist arrivals milestone.
-
-◼️
-
-[Data](articles/a676083f.json)
-
-[Extended Data](ext_articles/a676083f.ext.json)
-
----
-
-### Bill & Melinda Gates Foundation commits to expanding support in Sri Lanka
-
-*2024-12-14 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104227/bill-melinda-gates-foundation-commits-to-expanding-support-in-sri-lanka) · `en`
-
-The Bill & Melinda Gates Foundation has committed to expanding its initiatives in Sri Lanka, the President’s Media Division (PMD) stated.
-
-As part of this commitment, the Bill & Melinda Gates Foundation has agreed to provide the financial and technical assistance needed to implement nutrition projects, school meal programs for children, agriculture sector modernization project, digitalization efforts, and livestock development programs in Sri Lanka.
-
-This commitment was affirmed during a meeting held yesterday (13) at the Presidential Secretariat, according to the PMD.
-
-The discussion, chaired by Professor Anil Jayantha Fernando, Minister of Labour and Deputy Minister of Economic Development, involved officials from the Foundation.
-
-Recognizing the priorities of the new government, the Bill & Melinda Gates Foundation expressed its readiness to provide support whenever needed, the statement added.
-
-...
-
-[Data](articles/da0683fa.json)
-
-[Extended Data](ext_articles/da0683fa.ext.json)
-
----
-
-### What happens to the post of vacant Speaker
-
-*2024-12-14 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204358) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Vacant Speaker position: Nominations due 17th. First Speaker resignation in history. President decides on acceptance. If accepted, new Speaker selected via vote or nomination under normal law.
-
-🟩
-
-Political observers say that the resignation of Mr. Asoka Ranwala should be appointed to the post of a new Speaker on the 17th.
-
-The Parliament will meet on the 17th and the nominations relating to appoint a new Speaker should be submitted.
-
-Meanwhile, Prof. Prathibha Mahanamahewa says that this is the first time a Speaker has resigned in the history of the country.
-
-He said that the Speaker could give the Speaker to the Secretary General of Parliament or the President.
-
-After receiving the letter of resignation, the President could decide on the resignation letter of the Speaker.
-
-He further stated that if the president will accept the resignation of the Speaker, he will select a new Speaker and selecting a vote or nomination under normal law.
-
-◼️
-
-[Data](articles/f4a7e24e.json)
-
-[Extended Data](ext_articles/f4a7e24e.ext.json)
-
----
-
-### CAA continues raids on rice traders across the island
-
-*2024-12-14 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104226/caa-continues-raids-on-rice-traders-across-the-island) · `en`
-
-The Consumer Affairs Authority (CAA) has announced that raids are continuing across the island to monitor rice traders and stocks.
-
-CAA Director, Asela Bandara stated that approximately 75 raids were carried out across the country yesterday (14). He further mentioned that officers have been instructed to carry out such operations on the coming weekends and public holidays as well.
-
-Bandara added that with the arrival of imported rice stocks in the market, rice prices are dropping, and paddy prices are also reported to be decreasing in some areas.
-
-Meanwhile, the Sri Lanka State Trading (General) Corporation has taken measures to import 52,000 metric tons of ‘Nadu’ rice. The first consignment, consisting of 5,200 metric tons, is expected to arrive in the country on December 19.
-
-◼️
-
-[Data](articles/cbd9ee4d.json)
-
-[Extended Data](ext_articles/cbd9ee4d.ext.json)
-
----
-
-### European Union allocates 175,000 euros for Sri Lankans affected by floods
-
-*2024-12-14 08:00:00* · [`economynextcom`](https://economynext.com/european-union-allocates-175000-euros-for-sri-lankans-affected-by-floods-194274/) · `en`
-
-ECONOMYNEXT – The European Union is allocating 175,000 euros (53.8 million rupees) to provide emergency humanitarian assistance to people affected by cyclone Fengal across Sri Lanka.
-
-The funding will benefit over 37,000 people in some of the hardest-hit areas in the eastern and northern provinces, EU in Sri Lanka said in a statement.
-
-This EU funding will support the Sri Lanka Red Cross in delivering assistance to address the basic needs of people who have lost their homes or livelihoods.
-
-Funded activities include the distribution of essential household items, school supplies and cash grants to the most vulnerable families.
-
-There will be also cleaning campaigns and actions to prevent possible outbreaks of diseases such as dengue.
-
-The funding is part of the EU’s overall contribution to the Disaster Response Emergency Fund (IFRC-DREF) of the International Federation of Red Cross and Red Crescent Societies (IFRC).
-
-...
-
-[Data](articles/2c1d7cd5.json)
-
-[Extended Data](ext_articles/2c1d7cd5.ext.json)
-
----
-
-### Tourist arrivals in the past year reveal
-
-*2024-12-14 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204357) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"1.9M tourists visited last year, 90K+ in Dec alone. Target: 2.2M visitors this year. First time exceeding 2018 numbers since then."
-
-🟩
-
-The Tourism Development Authority (Testing) has said that nearly 1.9 million tourists have returned to the country during the past year.
-
-The Chairman Buddhika Hewawasam stated that more than 90,000 has come in December alone.
-
-He said the tourism development authority expects to visit 250,000 tourists in December alone.
-
-The tourist arrivals will meet a target of 2.2 million in this year and will become the first time since the year 2018 after 2018.
-
-◼️
-
-[Data](articles/4e0c869e.json)
-
-[Extended Data](ext_articles/4e0c869e.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-14 07:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104225/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Northern and Eastern provinces.
-
-Showers or thundershowers will occur at several places elsewhere during the evening or night.
-
-Fairly heavy showers about 75mm are likely at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, it said.
-
-Showers can occur at some places of the coastal areas in the Western province and in Galle and Matara districts in the morning too.
-
-Misty conditions can be expected in Central, Sabaragamuwa, Southern and Uva provinces during the morning, the Met. Department added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ce192e1a.json)
-
-[Extended Data](ext_articles/ce192e1a.ext.json)
-
----
-
-### Heavenly Duties Or Hellish Efforts?
-
-*2024-12-14 07:44:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/heavenly-duties-or-hellish-efforts/) · `en`
-
-“The world is what it is, men who are nothing, who allow themselves to be nothing, have no place in it” ~ VS Naipaul
-
-I have a distant memory of reading a light-hearted description of heaven and hell, in common belief an inevitable destination for all earthlings; those who lead unsullied lives are directed to the former; botch your book, the man is hightailed to hell.
-
-These two places are obviously ‘constructs’ of the human imagination, by human standards and outlook, the ecstasies promised and the tortures threatened are not only of human concept but are also distinctly period defined (are there personal computers in either place?). There cannot be two more dissimilar destinations in the after-life, heaven is a joyous place of endless pleasures and creature comforts, while hell is all agony, suffering and torture.
-
-In this piece I read, the definition of heaven and hell was determined by racial differences, stereotyping the occupants in the two places.
-
-...
-
-[Data](articles/2d0d8d23.json)
-
-[Extended Data](ext_articles/2d0d8d23.ext.json)
 
 ---

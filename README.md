@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 01:12:15**
+As of **2024-12-16 02:01:45**
 
 ## Newspaper Stats
 
-*Scraped **60,360** Articles*
+*Scraped **60,362** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 453
-colombotelegraphcom | 612
+colombotelegraphcom | 614
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,333 (100.0%) of 60,360 articles have been extended.
+60,338 (100.0%) of 60,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,6 +106,8 @@ BRAC International works across 14 countries with people and communities in situ
 
 [Data](articles/906daa56.json)
 
+[Extended Data](ext_articles/906daa56.ext.json)
+
 ---
 
 ### Dr. Nilupul Perera new Chairman of Lanka Hospitals Corporation
@@ -120,6 +122,8 @@ Dr. Perera brings over 18 years of extensive clinical experience to this leaders
 
 [Data](articles/6943a601.json)
 
+[Extended Data](ext_articles/6943a601.ext.json)
+
 ---
 
 ### As Dissanayake visits, India must embrace Sri Lanka’s new dawn
@@ -133,6 +137,8 @@ One side-effect of the polarising effect of nationalism and populism around the 
 ...
 
 [Data](articles/ce032134.json)
+
+[Extended Data](ext_articles/ce032134.ext.json)
 
 ---
 
@@ -149,6 +155,8 @@ Many of our previous Governments of recent times fell into major problems since 
 ...
 
 [Data](articles/f324337f.json)
+
+[Extended Data](ext_articles/f324337f.ext.json)
 
 ---
 
@@ -167,6 +175,8 @@ However, the previous Government’s decision to reduce VAT and income tax thres
 ...
 
 [Data](articles/e0783791.json)
+
+[Extended Data](ext_articles/e0783791.ext.json)
 
 ---
 
@@ -612,6 +622,16 @@ The Department of Meteorology has advised to take steps to reduce the risk of te
 
 ---
 
+### Sri Lanka’s Economic Turmoil In The 70s: Reflections & Realities Through Aththa
+
+*2024-12-15 20:16:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-economic-turmoil-in-the-70s-reflections-realities-through-aththa/) · `en`
+
+...
+
+[Data](articles/098fbe69.json)
+
+---
+
 ### Sri Lanka President arrives in India, to meet Jayashankar, Doval Sunday night
 
 *2024-12-15 20:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-arrives-in-india-to-meet-jayashankar-doval-sunday-night-194393/) · `en`
@@ -643,6 +663,16 @@ He is accompanied by Foreign Minister Vijitha Herath and Deputy Finance Minister
 ...
 
 [Data](articles/a3ed688f.json)
+
+---
+
+### President AKD: Hit The Nail On The Head Of CIABOC
+
+*2024-12-15 20:01:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-akd-hit-the-nail-on-the-head-of-ciaboc/) · `en`
+
+...
+
+[Data](articles/8fb0025e.json)
 
 ---
 
@@ -864,7 +894,7 @@ Arun Hemachandra will serve as Deputy Minister of Foreign Affairs, Foreign Emplo
 
 *2024-12-15 18:28:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-path-to-stability-balancing-geopolitical-tensions-domestic-challenges/) · `en`
 
-Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamics and domestic challenges. President Anura Kumara Dissanayake’s upcoming visits to India and China underscore the island nation’s strategic importance to these Asian giants. Both countries view Sri Lanka as pivotal in their geopolitical strategies, with India particularly concerned about China’s influence in the region. This article delves into the implications of these visits, the government’s anti-corruption drive, and Sri Lanka’s socio-political challenges in its pursuit of stability. Tshering Eudon (2024) argues that Sri Lanka’s foreign policy is shaped by domestic needs and geopolitical pressures, urging the U.S. to prioritise economic over security concerns.
+Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamics and domestic challenges. President Anura Kumara Dissanayake‘s upcoming visits to India and China underscore the island nation’s strategic importance to these Asian giants. Both countries view Sri Lanka as pivotal in their geopolitical strategies, with India particularly concerned about China’s influence in the region. This article delves into the implications of these visits, the government’s anti-corruption drive, and Sri Lanka’s socio-political challenges in its pursuit of stability. Tshering Eudon (2024) argues that Sri Lanka’s foreign policy is shaped by domestic needs and geopolitical pressures, urging the U.S. to prioritise economic over security concerns[1].
 
 ...
 
@@ -2303,49 +2333,5 @@ Sri Lanka opposition laments child malnutrition as farmers protected at Rs300 ce
 ...
 
 [Data](articles/6fbffb3a.json)
-
----
-
-### One arrested with heroin and ice drugs in Kalkisa
-
-*2024-12-15 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201324) · `ta`
-
-Arrest made in Kalkisa: Man caught with heroin and ice. Police seize 101g of heroin and 50g of ice. Incident occurred in Mount Lavinia area.
-
-🟩
-
-A man was arrested by police on Saturday (14) with ice and heroin drugs in the Attitiya area of ​​the Mount Lavinia Police Division.
-
-He was arrested on the basis of information received by a group of officials of the Mount Lavinia Criminal Investigation Division.
-
-101 g 380 ml of heroin and 50g of Ice were seized by the suspect from the suspect.
-
-◼️
-
-[Data](articles/361319d8.json)
-
-[Extended Data](ext_articles/361319d8.ext.json)
-
----
-
-### Stealing gang at supermarket stalls in Jaffna- The main announcement of the police
-
-*2024-12-15 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201319) · `ta`
-
-Jaffna supermarket theft gang: Police warn public to report suspicious activity. Three individuals steal goods, hide in clothing. Authorities seek information from citizens.
-
-🟩
-
-The police have advised the public to find out about the stealing gangs in the recently near the Jaffna city areas.
-
-Recently, a gang of three people went to the supermarket, stolen some items like buying items and hidden into their clothes.
-
-Since the gang is constantly involved in such thefts, the police have asked the public to inform the nearest police station if they know the information about them.
-
-◼️
-
-[Data](articles/2cd85498.json)
-
-[Extended Data](ext_articles/2cd85498.ext.json)
 
 ---

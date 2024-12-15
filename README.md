@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 00:43:17**
+As of **2024-12-16 00:59:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,331 (100.0%) of 60,359 articles have been extended.
+60,332 (100.0%) of 60,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Best Entrepreneur of the Year 2024 – Bronze Award – British Institute of
 ...
 
 [Data](articles/96430fcc.json)
+
+[Extended Data](ext_articles/96430fcc.ext.json)
 
 ---
 

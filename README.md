@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 10:02:44**
+As of **2024-12-15 11:01:05**
 
 ## Newspaper Stats
 
-*Scraped **60,219** Articles*
+*Scraped **60,223** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 610
-bbccomsinhala | 631
+bbccomsinhala | 632
 islandlk | 3,646
 economynextcom | 3,668
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,713
+adalk | 5,715
 adaderanalk | 7,335
-tamilmirrorlk | 8,609
+tamilmirrorlk | 8,610
 virakesarilk | 9,883
 adaderanasinhalalk | 10,415
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,205 (100.0%) of 60,219 articles have been extended.
+60,214 (100.0%) of 60,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### The President is going to India
+
+*2024-12-15 10:14:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-செல்கின்றார்-ஜனாதிபதி/175-348736) · `ta`
+
+Presidents Anura Kumara Dissanayake and Draupadi Murmu meet in India for diplomatic talks and trade promotion events. First foreign trip for Dissanayake. High-level discussions expected between leaders.
+
+🟩
+
+President Anura Kumara Dissanayake made an official visit to India today (15). This is the first foreign trip to take over as president.
+
+Indian President Draupadi Murmu has visited India from India today (15th) to 17th and will be held in India and engaged in various high -level talks.
+
+Accordingly, during the visit, Indian President Draupadi Murmu and Indian Prime Minister Narendra Modi will be engaged in various discussions.
+
+President Anura Kumara Dissanayake will also attend a trade event in Delhi with the aim of promoting investment and trade links between India and Sri Lanka.. Remble
+
+◼️
+
+[Data](articles/e3eb1f58.json)
+
+[Extended Data](ext_articles/e3eb1f58.ext.json)
+
+---
+
+### මාදුරුඔය දකුණු ඉවුරේ වැලි ජාවාරම හමුදාවටත් නවත්වන්න බැරි වෙලා
+
+*2024-12-15 09:57:35* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-දකුණු-ඉවුරේ-වැලි-ජාවාරම-හමුදාවටත්-නවත්වන්න-බැරි-වෙලා/11-413633) · `si`
+
+පොළොන්නරුව මාදුරුඔය දකුණු ඉවුර ප්‍රදේශයේ සිදුවන හා පරිමාණ වැලි ජාවාරමට ශ්‍රී ලංකා මහවැලි අධිකායේ ආරක්ෂක අංශ මෙන්ම පොලිසිය සම්පූර්ණයෙන්ම වගකිවයුතු බවත්, එම ජාවාරමට මහවැලි ආරක්ෂක අංශය සහ ඇතැම් පොලිස් නිලධාරීන් සහයෝගය ලබාදෙන බවත් ජාතික ජන බලවේගයේ පොළොන්නරුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, නිවාස සංවර්ධන නියෝජ්‍ය අමාත්‍ය ටී.බී සරත් මහතා සඳහන් කළේය.
+
+යුද හමුදාවට පවා ජාවාරම මැඩලීමට නොහැකි මට්ටමට පත්ව ඇති හෙයින්, මාදුරුඔය  වැලි ජාවාරම්කරුවන් අත්අඩංගුවට ගෙන ඔවුන්ට විරුද්ධව නීතිය ක්‍රියාත්මක කිරීමට පොලිසිය මැලි වන්නේ නම් ඊට අනුබල දෙන සියලු නිලධාරීන් ජනවාරියේ සිට මාරුවීම් ලබාදීමට පසුබට නොවන බවද ඔහු පැවැසීය.
+
+ගංජා, හෙරොයින්, අයිස්  මත්ද්‍රව්‍ය, ජාවාරම් පොළොන්නරුව දිස්ත්‍රික්කයේ බහුල වශයෙන් සිදුවන නිසා, ඒවා මර්දනය කිරීමට පොලිසිය වහාම පියවර ගන්නා ලෙසත්, මත්ද්‍රව්‍ය වලට සම්බන්ධ තම පක්ෂයේ යම් පුද්ගලයෙකු සිටී නම් ඔවුන් අත්අඩංගුවට ගැනීමට කිසිදු බාධාවක් නොවන බවත් නියෝජ්‍ය අමාත්‍යවරයා පැවැසිය.
+
+...
+
+[Data](articles/bbd4a248.json)
+
+---
 
 ### Shooting in Maradana: Female injury
 
@@ -56,21 +96,27 @@ The injured woman has been admitted to the Colombo National Hospital for treatme
 
 ---
 
-### රට රැකියා සිහින ‍පෙන් වූ ජාවාරම්කරුවෙක් අත්අඩංගුවට
+### Sri Lankan racketeer arrested
 
 *2024-12-15 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204388) · `si`
 
-විදේශ රැකියා ලබාදෙන බවට පවසා මුදල් වංචා කළ සැකකරුවෙකු හක්මණ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Sri Lankan racketeer arrested: Hakmana Police detained a 36-year-old suspect from Puhulwella for defrauding over Rs. 43 lakhs through fake foreign employment schemes.
 
-අදාළ සැකකරු සම්බන්ධයෙන් හක්මන පොලිස් ස්ථානය වෙත කරන ලද පැමිණිලි 09 කට අදාළව ඊයේ (14) එම පුද්ගලයා අත්අඩංගුවගෙන තිබුණේ කින්නියා පොලිස් වසමේදීය.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 36ක් වන පුහුල්වැල්ල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+Hakmana Police have arrested a suspect who has been investigating the money that he is given foreign employment.
 
-සැකකරු විසින් රුපියල් ලක්ෂ 43 කට අධික මුදලක් වංචා කර ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇති බව පොලීසිය පවසයි.
+The suspect was arrested yesterday (14) in connection with the suspect regarding the hackmana police station.
+
+The suspect is a 36 year old resident of the Puhulwella area.
+
+Investigations have revealed that the suspect had defrauded over Rs. 43 lakhs.
 
 ◼️
 
 [Data](articles/0cf4e01c.json)
+
+[Extended Data](ext_articles/0cf4e01c.ext.json)
 
 ---
 
@@ -116,6 +162,8 @@ Saturday afternoon, the coastguard told AFP that the number of migrants found de
 
 [Data](articles/4342514a.json)
 
+[Extended Data](ext_articles/4342514a.ext.json)
+
 ---
 
 ### Drug distributor in Wellawatte
@@ -144,41 +192,57 @@ The drug trafficking is being carried out by a drug dealer currently in prison a
 
 ---
 
-### சமுர்த்தி அலுவலக உதவியாளர் மனைவி, பிள்ளையின் முன் சுட்டுக்கொலை !
+### Samurdhi office assistant wife, shot in front of child
 
 *2024-12-15 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201298) · `ta`
 
-மீகொட - நாகஹவத்த பகுதியில்  இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Shooting kills office worker in Sri Lanka; wife, toddler witness attack
 
-காரில் பயணித்த குறித்த நபரை இலக்கு வைத்து, நேற்று சனிக்கிழமை  (14) இரவு  அடையாளம் தெரியாத இருவரால் துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-பத்தரமுல்ல செத்சிரிபாயவில் உள்ள சமுர்த்தி பிரதான காரியாலயத்தில் அலுவலக உதவியாளராக கடமையாற்றிய 32 வயதுடைய  ஒரு பிள்ளையின் தந்தையே துப்பாக்கிச் சூட்டில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+One person was killed in a shooting in the Meegoda - Nagahawatta area, police said.
 
-உயிரிழந்தவரின் சகோதரரின் வீட்டில் இருந்து மீகொட நாகஹவத்த பகுதியில்  உள்ள தனது வீட்டிற்குச் சென்று கொண்டிருந்த போதே துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளது.
+The firing was carried out by two unidentified people on Saturday night (14), targeting the man who was traveling in the car.
 
-துப்பாக்கிச் சூட்டுக்கு இலக்காகி பலத்த காயமடைந்த நபர் ஹோமாகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+The father of a 32 -year -old child, who was serving as an office assistant at Samurdhi main office in Sethsiripaya in Battaramulla, was killed in the shooting, police said.
 
-துப்பாக்கிச் சூடு நடந்தபோது அவரது ஒன்றரை வயது மகள் மற்றும் அவரது மனைவி காரில் இருந்ததாகவும்  இனந்தெரியாத நபர் ஒருவர் காரை இடைமறித்ததுடன் , மேலும் ஒருவர் துப்பாக்கிச் சூடு நடத்திவிட்ட தப்பியோடியுள்ளதாக  பொலிஸார் மேற்கொண்ட விசாரணையில் தெரியவந்துள்ளது.
+The shooting was carried out while traveling from the house of the deceased's brother to his home in Nagahawatta.
 
-...
+A man who was severely injured in the shooting has been admitted to the Homagama Hospital after he died without treatment.
+
+An investigation by police revealed that his one -and -a -half -year -old daughter and his wife were in the car during the shooting and that an unidentified person had interrupted the car and fled one another.
+
+In addition, the shooters have not yet been identified and the Meegoda police are conducting further investigations.
+
+◼️
 
 [Data](articles/d0f58453.json)
 
+[Extended Data](ext_articles/d0f58453.ext.json)
+
 ---
 
-### மன்னார் மறைமாவட்டத்தின் புதிய ஆயராக அருட்தந்தை ஞானப்பிரசாகம் அந்தோனிப்பிள்ளை அடிகளார்
+### The new bishop of Mannar Diocese
 
 *2024-12-15 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201297) · `ta`
 
-மன்னார் மறைமாவட்டத்தின் புதிய ஆயராக மருதமடு அன்னை திருத்தல பரிபாலகராக பணியாற்றிவரும் அருட்தந்தை ஞானப்பிரசாகம் அந்தோனிப்பிள்ளை அடிகளார் திருத்தந்தையினால் நியமிக்கப்பட்டுள்ளார்.
+New bishop appointed for Mannar Diocese by Pope Francis. Emmanuel Fernando named successor, serving since 2017. Announcement made at St. Sebastian Church.
 
-2017ஆம் ஆண்டு தொடக்கம் மன்னார் மறைமாவட்டத்தின் ஆயராக பணியாற்றிய இம்மானுவேல் பெர்னாண்டோ ஆண்டகை 76 வயதில் ஓய்வு பெற்றதை தொடர்ந்து அம்மறைமாவட்டத்திற்கு மன்னார் மறைமாவட்ட குருவாகிய அருட்தந்தை ஞானப்பிரசாகம் அந்தோனிப்பிள்ளை அடிகளார் புதிய ஆயராக திருத்தந்தை பிரான்சிஸ் அவர்களால் நியமிக்கப்பட்டுள்ளார்.
+🟩
 
-திருத்தந்தையின் இந்நியமன செய்தி மன்னார் புனித செபஸ்ரியார் பேராலயத்தில் மன்னார் மறைமாவட்ட குருக்களுக்கென  ஒழுங்குபடுத்தப்பட்ட சிறப்பு கூட்டத்தில் மன்னார் மறைமாவட்ட ஆயர் இம்மானுவேல் பெர்னாண்டோ ஆண்டகையினால் உத்தியோகபூர்வமாக வாசிக்கப்பட்டது.
+The new bishop of the Mannar Diocese has been appointed by the Pope, who has served as the Mother of the Mother of the Mannar.
 
-...
+Emmanuel Fernando, who served as the pastor of the Mannar Diocese since 2017, has been appointed by Pope Francis as the new bishop of Mannar Diocese, the Gnanaparakam Antony Pillai Adikallar, the Mannar Diocese.
+
+The news of the Pope was officially read by the Archbishop Emmanuel Fernando, the Archdiocese of Mannar at the St. Sebasriyar Perakalai, the Mannar Diocese.
+
+Jaffna Gnanaparasakam Antony Pillai Annayaka Mannar Diocese of Gurus. It is also worth noting that St. Mathinaru was fully received at the small clergy and the St. Savior High College of St. Savior, Colombo.
+
+◼️
 
 [Data](articles/2ad8925e.json)
+
+[Extended Data](ext_articles/2ad8925e.ext.json)
 
 ---
 
@@ -213,6 +277,34 @@ No permanent or temporary building or a store for May 13, 2025 from 1 December 1
 [Data](articles/ae6819e9.json)
 
 [Extended Data](ext_articles/ae6819e9.ext.json)
+
+---
+
+### Rs. Rs. 185,000 Treasury bill auction
+
+*2024-12-15 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--185-000--ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-18--දා/11-413632) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Central Bank of Sri Lanka conducted a Treasury bill auction on Dec 18. Bids were accepted until 11 PM. Minimum bid amount was Rs. [insert number]. Payments will be made on Dec 20.
+
+🟩
+
+The Central Bank of Sri Lanka announced that a Treasury bill auction was held on December 18 million.
+
+The Central Bank said that the Treasury bills of Rs.
+
+The Central Bank announces that the acceptance of the bids for the auction will be held up to 11.00 pm and the minimum amount of Rs.
+
+The Treasury Bill Release and the payment will be made on December 20.
+
+◼️
+
+[Data](articles/62dabd5a.json)
+
+[Extended Data](ext_articles/62dabd5a.ext.json)
 
 ---
 
@@ -296,29 +388,39 @@ The program is being implemented in the district on the instructions of the Mata
 
 ---
 
-### පුතුගෙන් මවට එල්ල වූ මාරාන්තික පොලුපහර
+### Deadly Polaus of the son of the son
 
 *2024-12-15 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204386) · `si`
 
-පුද්ගලික ආරවුලක් හේතුවෙන් සිදු වූ බහින් බස්වීමක් දුරදිග යාමෙන් පුතා විසින් මවට පොල්ලකින් පහරදී ඝාතනය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-අද (15) අලුයම් කාලයේදී එම ඝාතනය සිදුකර තිබුණේ ගොඩකවෙල, බිසෝකොටුව ප්‍රදේශයේදීය.
 
-එලෙස මියගොස් ඇත්තේ, ගල්පාය, පල්ලේබැද්ද ප්‍රදේශයේ පදිංචිව සිටි 82 හැවිරිද කාන්තාවකි.
 
-මෘත ශරීරය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරික්ෂණය සිදු කිරීමට නියමිතව ඇති අතර සැකකරු අත්අඩංගුවට ගැනීම සඳහා ගොඩකවෙල පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+Murder in Godakawela: Son assaulted by mother over personal dispute. Victim (82) from Pallebedda. Police investigating. Separate incident in Seeduwa: 47-year-old victim, 36-year-old suspect arrested.
 
-මේ අතර ගොඩනැගිල්ලක ඉදිකිරීම් කටයුතු සඳහා පැමිණ සිටි පෙදරේරුවන් දෙදෙනෙකු අතර ඇතිවූ ආරවුලක් දුරදිග යාමෙන් එක් පුද්ගලයෙකු විසින් අනෙක් පුද්ගලයාට පහරදී ඝාතනය කර ඇති බව පොලීසිය පවසයි.
+🟩
 
-එම ඝාතනය සිදුකර තිබුණේ සීදූව පොලිස් වසමේ 02 වන පටුමග ප්‍රදේශයේදීය.
+The son has been assaulted by his mother with a stick by a stall by a heated argument caused by a personal dispute.
 
-එලෙස මියගොස් ඇත්තේ, ජුබිලි මාවත, වයික්කාල ප්‍රදේශයේ පදිංචිව සිටි 47 හැවිරිදි පුද්ගලයෙකි.
+During this morning, the murder had been carried out in Godakawela, Godakawela.
 
-ඝාතනය සම්බන්ධයෙන් වයස අවුරුදු 36ක් වන කැකිරාව ප්‍රදේශයේ පදිංචි සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The deceased has been identified as 82, a resident of Pallebedda, Galuwa.
+
+The Magistrate's test on the body is due to be conducted and the Godakawela police are conducting further investigations to arrest the suspect.
+
+Meanwhile, police said that the other person had been assaulted by one person by one person and killed a dispute between two masons for the construction of a building.
+
+The murder was held in the 2nd Lane of the Seeduwa Police Division.
+
+The victims were a 47 year old resident of Waikkala, Wikekkala.
+
+The suspect, a 36 year old residents of Kekirawa has been arrested by the police.
 
 ◼️
 
 [Data](articles/98436183.json)
+
+[Extended Data](ext_articles/98436183.ext.json)
 
 ---
 
@@ -481,6 +583,38 @@ Parliamentarian Gajendrakumar Ponnambalam and former MP Selvarasa Gajendran part
 [Data](articles/40a92d5e.json)
 
 [Extended Data](ext_articles/40a92d5e.ext.json)
+
+---
+
+### "We used to climb mountain because we wanted to reduce the streams
+
+*2024-12-15 03:44:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c047zy5v4zqo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Couple climbs mountains to reduce stress. They climbed Everest, facing challenges like low oxygen & extreme cold. Their journey began as a university romance, evolving into mountaineering adventures.
+
+🟩
+
+"We used to climb mountain because we wanted to reduce the streams
+
+'We both work in the corporateworld. We decided with the stress, which we had to climb a mountain one for at least one month. That was where this journey began. 'Winning the BBC Sinhala service, the binding in Dubai, said in Dubai.
+
+A few days ago, the backdown of the world's tallest mountain, Everest, was a good experience, even if it was difficult to attend the journey.
+
+Jayanthi Kuru Aartumpipala was the tallest mountain range in the world for the first time in the history of the history. Johann Peiris also joined the journey.
+
+Born in Galle Jayasanka is currently living in Dubai and he lives with his wife. He told the BBC Sinhala that he and wife were started from the university's study.
+
+"I studied at Faculty of Science at the University of Colombo. That is where my wife is now found other Dimuthu Nijeani Silva. In the first year of the 2013 Campus, we started this mountain of Hanthana, the mountain of love. "
+
+...
+
+[Data](articles/579b9e01.json)
+
+[Extended Data](ext_articles/579b9e01.ext.json)
 
 ---
 
@@ -905,6 +1039,8 @@ AIA Sri Lanka sets new benchmarks in workplace culture – winning Best Workplac
 ...
 
 [Data](articles/bf6d2d1d.json)
+
+[Extended Data](ext_articles/bf6d2d1d.ext.json)
 
 ---
 
@@ -2313,123 +2449,5 @@ He had a service string, 150 grams of ammonium and 1 glagnite sticks.
 [Data](articles/2210c6b2.json)
 
 [Extended Data](ext_articles/2210c6b2.ext.json)
-
----
-
-### Sri Lanka’s new Speaker to be appointed on Dec. 17?
-
-*2024-12-14 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104229/sri-lankas-new-speaker-to-be-appointed-on-dec-17) · `en`
-
-Political observers have stated that the appointment of a new Speaker to fill the vacancy left by the resignation of Asoka Ranwala should likely take place on December 17.
-
-Parliament is scheduled to convene on December 17, and it is expected that the relevant nominations for the appointment of a new Speaker will be submitted on that day.
-
-Meanwhile, Prof. Prathiba Mahanamahewa commented that this is the first time in the history of Sri Lanka’s Parliament that a Speaker has resigned.
-
-He explained that the resignation notice can be submitted by the Speaker to either the Secretary General of Parliament or the President.
-
-Once the President receives the resignation letter, the President can make a decision regarding its acceptance.
-
-If the President accepts the Speaker’s resignation, a new Speaker must be elected by Parliament. This appointment can be made through a vote or nomination, in accordance with ordinary law, Prof. Mahanamahewa added.
-
-◼️
-
-[Data](articles/169851d2.json)
-
-[Extended Data](ext_articles/169851d2.ext.json)
-
----
-
-### Indian locomotives launched in Sri Lanka
-
-*2024-12-14 10:06:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-දුම්රිය-එන්ජින්-ලංකාවට-වාසිදායකයි/11-413623) · `si`
-
-India provides 22 locomotives to Sri Lanka. They were manufactured in India and gifted to Sri Lanka. The locomotives will be used for about 12 years. The Railway Department claims they can maintain the 9 station engines. Some misinformation exists about these railway engines.
-
-🟩
-
-The Railway Department says Sri Lanka has announced that there is a shortage of 10 buses and more weights in Sri Lanka.
-
-India has agreed to provide about 22 Indian trains, similar to Sri Lanka, who has been removed from the use of India and has been produced in Sri Lanka free of charge.
-
-The last cabinet was also present at the last Cabinet.. However, the Railway Department announces that many false propaganda regarding these railway engines will propagate.
-
-The Railway Department states that Sri Lanka is used for about 12 years and will be used by Sri Lanka and will be used by Sri Lanka.
-
-The Department also said that the Railway Department of Railways has 9 station engines and the railway staff is capable of maintaining them.
-
-Since India is enacted its train service, the station engines running out of the use of dictional is being used.
-
-◼️
-
-[Data](articles/d1a46706.json)
-
-[Extended Data](ext_articles/d1a46706.ext.json)
-
----
-
-### Imad Wasim retires from international cricket
-
-*2024-12-14 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204360) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Imad Wasim retires from international cricket. The Pakistani all-rounder, 35, previously retired in 2022 but returned for PSL 2023, winning a Man of the Match award. He played 35 ODIs and 75 T20s for Pakistan before retiring again in 2024, citing poor form and lack of opportunities in domestic cricket.
-
-🟩
-
-Pakistani-triorevice Imad Wasim has decided to retire from international cricket.
-
-The 35-year-old Imad Solevations retired last year from the international cricket field.
-
-However, at three the match award, he won the Man of the Match award for the performance of the Pakistan Super League.
-
-Due to that skill, Imad was returned to T20 and Twenty20.
-
-However, this year's weak sports flexibility had to leave the tournament first due to poor player style of poor player.
-
-Imad Wasim 35 ODIs and 75 T20 match played for Pakistan.
-
-Fourteen day, Imad Wasim stated that he retired from the international cricket colony for the second time.
-
-But Imads are no longer local matches and leagues.
-
-◼️
-
-[Data](articles/7883bdd8.json)
-
-[Extended Data](ext_articles/7883bdd8.ext.json)
-
----
-
-### Action Testing Activities that are being carried out
-
-*2024-12-14 09:51:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-முன்னெடுக்கப்படும்-அதிரடி-சோதனை-நடவடிக்கைகள்/175-348716) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Consumer Affairs Authority conducts 75 raids nationwide on rice. Future raids planned on weekends/holidays. Imported rice stockpile arrives soon, reducing prices.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that the raids on rice are ongoing across the country.
-
-Its Director Asela Bandara said that about 75 rounds were conducted across the country yesterday (14).
-
-He said that the relevant authorities have been instructed to conduct a raid on weekends and holidays in the future.
-
-In addition, the imported rice stockpile is coming to the market and the price of rice is reduced and in some areas the price is declining, he says.. Remble
-
-It is reported that the first block of 5,200 metric tonnes of rice will arrive in Sri Lanka on the 19th of this month.
-
-◼️
-
-[Data](articles/3b7d02ef.json)
-
-[Extended Data](ext_articles/3b7d02ef.ext.json)
 
 ---

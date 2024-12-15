@@ -1,58 +1,200 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 15:12:29**
+As of **2024-12-15 15:42:59**
 
 ## Newspaper Stats
 
-*Scraped **60,279** Articles*
+*Scraped **60,289** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 611
-bbccomsinhala | 632
+bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,720
-adaderanalk | 7,342
+adalk | 5,721
+adaderanalk | 7,345
 tamilmirrorlk | 8,616
-virakesarilk | 9,914
-adaderanasinhalalk | 10,420
+virakesarilk | 9,915
+adaderanasinhalalk | 10,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,248 (99.9%) of 60,279 articles have been extended.
+60,253 (99.9%) of 60,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### அமெரிக்காவும் அதானியும்
+### පුවත් නාළිකාවකින් ට්‍රම්ප්ට වන්දියක්
+
+*2024-12-15 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204397) · `si`
+
+තේරීපත්ව සිටින අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට එරෙහිව අසත්‍ය ප්‍රකාශ වාර්තා කළ බවට අධිකරණයේ පැවති නඩුවක් සමථයට පත්කරගැනීමට ඔහුට දැවැන්ත වන්දියක් පිරිනැමීමට ලෝකප්‍රකට ABC පුවත් නාළිකාව එකඟ වී තිබේ.
+
+ඒ අනුව ඔවුන් ට්‍රම්ප් වෙත ලබාදීමට එකඟව ඇති වන්දිය අමෙරිකානු ඩොලර් මිලියන 15කි.
+
+පසුගිය මාර්තු 10 වැනිදා පැවති රූපවාහිනී සාකච්ඡාවක් අතරතුර ජෝර්ජ් ස්ටෙෆනොපොලිස්, ට්‍රම්ප් යනු ස්ත්‍රී දූෂණයට වගකිව යුතු අයෙක් බවට අපරික්ෂාකාරීව ප්‍රකාශ කර තිබුණි.
+
+වන්දියට අමතරව ඔහු කළ ප්‍රකාශය සම්බන්ධයෙන් පෞද්ගලිකව කණගාටුව පළකරන විශේෂ ප්‍රකාශයක් ද ABC නාළිකාවේ විකාශ කිරීම නියමිතයි.
+
+◼️
+
+[Data](articles/13281602.json)
+
+---
+
+### தமி­ழர்­களின் அர­சியல் கோட்­டையில்  சிங்­களக் கட்­சியின் வெற்றி கதை
+
+*2024-12-15 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201348) · `ta`
+
+பல மூத்த அர­சி­யல்­வா­திகள் பாரா­ளு­மன்­றத்­தி­லி­ருந்து வெளி­யே­று­வதும், புதிய பாரா­ளு­மன்ற உறுப்­பி­னர்கள் பத­வி­யேற்­பதும் நாடு முழு­வதும் சமூக, அர­சியல் மற்றும் பொரு­ளா­தார மாற்­றத்­திற்­கான வலு­வான விருப்­பத்தை குறிக்­கி­றது. மக்கள் தங்கள் இனம், மதம், பாலினம் மற்றும் வயது ஆகி­ய­வற்றை மீறி, தேசிய மக்கள் சக்­திக்கு அதன் உறு­தி­மொ­ழி­களை நிறை­வேற்­று­வ­தற்­கான ஆணையை வழங்­கு­வதன் மூலம் தனித்­து­வ­மான மற்றும் முன்­னோ­டி­யில்­லாத வழி­களில் ஒன்றுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/9d0a9e7a.json)
+
+---
+
+### බදු ගෙවීම සම්බන්ධව විශේෂ නිවේදනයක්
+
+*2024-12-15 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204396) · `si`
+
+2024 වසරේ නොවැම්බර් මාසයට අදාළ එකතු කළ අගයම මත බද්ද සහ සමාජ ආරක්ෂණ දායකත්ව බද්ද ගෙවීම සම්බන්ධව දේශීය ආදායම් දෙපාර්තමේන්තුව විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන්ව ඇත්තේ 2023/2024 තක්සේරු වර්ෂයේ ආදායම් බදු වාර්තා මත ගෙවිය යුතු බද්ද තවදුරටත් ගෙවීමට අතපසු වී ඇත්නම් එය දෙසැම්බර් මස 26 වන දිනට පෙර ගෙවීමට කටයුතු කරන ලෙසය.
+
+එමෙන්ම ඕනෑම බදු වර්ගයකට අදාළව ගෙවිය යුතු ස්ව-තක්සේරු මත බදු, හිඟ බදු හෝ එකඟ වූ අතිරේක තක්සේරු මත බදු මුදල් දෙසැම්බර් 26 වැනි දිනට පෙර ගෙවීමට අපොහොසත් වන්නේ නම් ඒ සඳහා දඩ සහනයක් ලබා ගත නොහැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+තවද දැනටමත් නොගෙවූ ස්ව-තක්සේරු බදු හා හිඟ බදු අය කරගැනීම සඳහා ක්ෂේත්‍ර සමීක්ෂණ කටයුතු හා දේශීය ආදායම් අණ පනත් අනුව නීති කටයුතු කිරීම ආරම්භ කර ඇති බවත් එම දෙපාර්තමේන්තුව අදාළ නිවේදනය මගින් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/ec6aa858.json)
+
+---
+
+### Legal action against over 300 traders for rice control price violations
+
+*2024-12-15 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104256/legal-action-against-over-300-traders-for-rice-control-price-violations) · `en`
+
+The Consumer Affairs Authority (CAA) states that more than 300 traders who violated the rice control price regulations have been identified during the recent raids.
+
+CAA Director of Information Asela Bandara revealed that these traders were brought before the law during operations conducted since December 10.
+
+Accordingly, he further stated that legal proceedings against them will commence from tomorrow (15).
+
+◼️
+
+[Data](articles/d2b89c70.json)
+
+---
+
+### America and Adani
 
 *2024-12-15 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201344) · `ta`
 
-இலங்கைக்கு அமெரிக்கா கடந்த சில ஆண்டுகளில் அதிகளவு கொடைகளையும் நிதி உதவிகளையும் வழங்கி இருந்தாலும் ஒரேயடியாக 500 மில்லியனுக்கும் அதிகமான டொலர்களை வழங்குவது புதிய ஒரு விடயமாக பார்க்கப்பட்டது. கொழும்புக்கு பயணம் மேற்கொண்ட அமெரிக்க இராஜாங்க திணைக்களத்தின் தெற்கு மத்திய ஆசிய விவகாரங்களுக்கான உதவிச்செயலர் டொனால்ட் லூ ஊழல் மோசடிகளை முடிவுக்கு கொண்டு வருவது பற்றியே முக்கியமாக பேச்சு நடத்தி இருந்தார்.
+Here's a summary in 200 characters:
+
+
+
+US aid to Sri Lanka continues despite controversy. Assistant Secretary Donald Lu visits Colombo focusing on ending corruption scandals.
+
+🟩
+
+Although the United States has been offering a large number of flags and financial assistance to Sri Lanka over the past few years, it has been seen as a new issue. Donald Lu, a assistant secretary of the US State Department of the US State Department, who traveled to Colombo, was mainly in talks on the end of corruption scandals.
 
 ◼️
 
 [Data](articles/8bd3ad9f.json)
 
+[Extended Data](ext_articles/8bd3ad9f.ext.json)
+
 ---
 
-### மக்களுக்குப் பொறுப்புக்கூற வேண்டிய மத்திய வங்கியின் கடப்பாடு மேலும் வலுப்படுத்தப்பட்டுள்ளது  - இலங்கை மத்திய வங்கியின் பொருளாதார ஆராய்ச்சித் திணைக்களப் பணிப்பாளர்
+### More Honors to Australia in the second day of Head's and Smith's centuries
+
+*2024-12-15 14:48:20* · [`adalk`](https://www.ada.lk/sports/හෙඩ්ගේ-සහ-ස්මිත්ගේ-ශතක-හමුවේ-දෙවැනි-දිනයේ-වැඩි-ගෞරව-ඕස්ට්‍රේලියාවට/9-413639) · `si`
+
+Australia wins 2nd day of Test match vs Sri Lanka. Travis Head scores 152, Steve Smith 101. Jumps Bumrah takes 5/72. Australia all out for 401.
+
+🟩
+
+The second day of the third Test match between the Sri Lankan tourism and the Australian group ended today (15).
+
+Ti Australia was assaulted at the end of 101 overs, at the end of 10 wickets.
+
+Travis Hede scored 152 runs and Stephen Smith scored 101 runs.
+
+In bowling, Jumpit Bumtore took 5 wickets for 72 runs.
+
+◼️
+
+[Data](articles/7a431a09.json)
+
+[Extended Data](ext_articles/7a431a09.ext.json)
+
+---
+
+### The Central Bank's obligation to be held accountable to the people is further strengthened - the Director of the Department of Economic Research of the Central Bank of Sri Lanka
 
 *2024-12-15 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201343) · `ta`
 
-வரிக்குறைப்பு மற்றும் சேதன உரக்கொள்கை என்பன மத்திய வங்கியுடன் நேரடியாகத் தொடர்புபடாதவை என்பதுடன், அவை அரசாங்கத்தின் கொள்கைகளாகும். எனவே, அவ்விடயங்களில் மத்திய வங்கியின் ஆலோசனை ஏற்றுக்கொள்வதா, இல்லையா என்ற தீர்மானத்தை மேற்கொள்வது அரசாங்கத்தைப் பொறுத்ததாகும்.
+Central Bank accountability strengthened. Director emphasizes independence from taxation and damage policies, which are government responsibilities.
+
+🟩
+
+Taxation and damage policy are not directly associated with the central bank and are the policies of the government. Therefore, it is dependent on the government to make a decision whether or not the Central Bank adopts or not.
 
 ◼️
 
 [Data](articles/e35e125f.json)
+
+[Extended Data](ext_articles/e35e125f.ext.json)
+
+---
+
+### ජනපති ඉන්දියාව බලා පිටත්ව යයි
+
+*2024-12-15 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204395) · `si`
+
+ඉන්දීය නිල සංචාරය සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු මොහොතකට පෙර දිවයියෙන් පිටත්ව ගොස් තිබේ.
+
+එළඹෙන 17 වනදා දක්වා ඔහු ඉන්දියාවේ සංචාරය කිරීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කළේය.
+
+ජනාධිපති ධුරයට පත්වීමෙන් අනතුරුව අනුර කුමාර දිසානායක මහාතාගේ පළමු විදෙස් සංචාරය ද මෙයයි.
+
+ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මියගේ ආරාධනයකට අනුව ජනාධිපතිවරයා මෙම සංචාරයට එක්වෙයි.
+
+◼️
+
+[Data](articles/225f5805.json)
+
+---
+
+### Ukraine to set up mechanism to supply food to Syria, Zelenskiy says
+
+*2024-12-15 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104255/ukraine-to-set-up-mechanism-to-supply-food-to-syria-zelenskiy-says) · `en`
+
+Ukrainian President Volodymyr Zelenskiy said on Saturday he had instructed his government to set up supply mechanisms to deliver together with international organisations and partners food to Syria in the aftermath of the fall of President Bashar al-Assad.
+
+Ukraine has been one of the world’s top grain and oilseeds exporters, and has been exporting wheat and corn to Middle Eastern countries, but not to Syria.
+
+Syria imported food from Russia during the Assad era, but Russian wheat supplies have been suspended amid the uncertainty and payment delays, Russian and Syrian sources said on Friday.
+
+“We are ready to assist Syria in preventing a food crisis, particularly through the humanitarian program ‘Grain from Ukraine’,” Zelenskiy wrote on X.
+
+“I have instructed the government to establish food supply mechanisms in cooperation with international organizations and partners who can help.”
+
+...
+
+[Data](articles/ef9a74a4.json)
 
 ---
 
@@ -78,15 +220,37 @@ President Anura Kumara Dissanayake made a diplomatic visit to India shortly befo
 
 ---
 
-### இந்தியா - இலங்கை வரி, வணிக மற்றும்   தொழில் ஒத்துழைப்பிற்கான புதிய பரிமாணங்கள்
+### India - New Dimensions for Sri Lanka Tax, Business and Industry Cooperation
 
 *2024-12-15 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201342) · `ta`
 
-இலங்கை - இந்தியா DTAA-வில் குறிப்பிட்ட சில மேம்பாடுகள் செய்யப்பட வேண்டும். குறிப்பாக, புதிய பொருளாதார சூழ்நிலைகள் மற்றும் வர்த்தக தேவைகளுக்கு ஏற்ப ஒப்பந்தத்தை புதுப்பிக்க தேவையுண்டு.
+India-Sri Lanka tax cooperation: Updates needed for modern economic conditions and trade demands.
+
+🟩
+
+Some of the specific improvements in Sri Lanka - India DTAA. In particular, there is a need to update the contract in accordance with new economic circumstances and trade requirements.
 
 ◼️
 
 [Data](articles/b3171fc6.json)
+
+[Extended Data](ext_articles/b3171fc6.ext.json)
+
+---
+
+### President Dissanayake leaves for India
+
+*2024-12-15 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104254/president-dissanayake-leaves-for-india) · `en`
+
+President Anura Kumara Dissanayake has left the island for India, a short while ago, the President’s Media Division (PMD) said.
+
+Dissanayake left the island on a 3-day state visit to India from 15 to 17 December.
+
+During the visit, President Dissanayake is scheduled to meet the Indian President Smt. Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and other Indian dignitaries on a range of issues of mutual interest.
+
+◼️
+
+[Data](articles/6f4a37d3.json)
 
 ---
 
@@ -116,15 +280,25 @@ If we contested for office on November 21, people would have said that the Oppos
 
 ---
 
-### பிறிக்ஸ் நாணயம் சாத்தியமா?
+### Is the Curricane currency possible?
 
 *2024-12-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201340) · `ta`
 
-அமெரிக்க  டொலர் இது வரை காலமும் அனுபவித்து வந்த சர்வதேச நாணயம் என்ற மேலாண்மையை காலப் போக்கில் இழந்து விடும் என்ற ஒரு எண்ணப்பாடு அமெரிக்கப் பொருளாதார வல்லுனர்கள் மத்தியிலும் உள்ளது. இருந்த போதிலும்  டொலருக்கு இணையான பெறுமதி பிறிக்ஸ் நாடுகளின் மத்தியில் உள்ள எந்த நாணயத்திற்கும் இல்லை.
+Here's a summary in 200 characters:
+
+
+
+"Is the Hurricane currency possible? Some American economists predict the US dollar may lose its status as the world's primary currency. However, the dollar remains strong despite global economic challenges."
+
+🟩
+
+Among American economists, there is an idea that the US dollar will lose the management of the international currency that has been enjoying the time ever.. However, the value of the dollar has no currency in the midst of the Born.
 
 ◼️
 
 [Data](articles/ebd4078d.json)
+
+[Extended Data](ext_articles/ebd4078d.ext.json)
 
 ---
 
@@ -193,6 +367,22 @@ If we contested for office on November 21, people would have said that the Oppos
 ◼️
 
 [Data](articles/a721b412.json)
+
+---
+
+### පාලන මිල ඉක්මවා සහල් විකිණු වෙළෙඳුන් 300කට අධික පිරිසකට නඩු
+
+*2024-12-15 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204394) · `si`
+
+සහල් පාලන මිල සම්බන්ධයෙන් සිදුකළ වැටලීම්වලින් මේ වන විට වෙළෙඳුන් 300කට අධික පිරිසක් නීතියේ රැහැනට හසුකර ඇතැයි පාරිභෝගික සේවා අධිකාරිය පවසයි.
+
+එම අධිකාරියේ තොරතුරු අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා පැවසුවේ පසුගිය 10 වැනිදා සිට මේ දක්වා සිදුකළ වැටලීම්වලින් මෙම පිරිස හසුකරගත් බවයි.
+
+ඒ අනුව ඔවුන්ට එරෙහිව නඩු පැවරීමේ කටයුතු හෙට දිනයේ සිට ආරම්භ කරන බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/b1df58d5.json)
 
 ---
 
@@ -1318,6 +1508,28 @@ In addition, the shooters have not yet been identified and the Meegoda police ar
 
 ---
 
+### පළමු නිල සංචාරය අරඹමින් ජනපති ඉන්දියාවට
+
+*2024-12-15 08:52:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crrwqlp4q9ko) · `si`
+
+අනුර කුමාර දිසානායක ජනාධිපති ධුරයට පත්විමෙන් පසුව ප්‍රථම විදෙස් සංචාරය ලෙස අද (දෙසැම්බර් 15 වැනිදා) පස්වරුවේ  අසල්වැසි ඉන්දියාව බලා පිටත්ව ගියේය.
+
+ජනාධිපතිවරයා සමග විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, කම්කරු අමාත්‍ය අනිල් ජයන්ත  සහ නියෝජ්‍ය මුදල් අමාත්‍ය හර්ෂ සූරියප්පෙරුම මෙම තෙදින නිල සංචාරය සඳහා එක්ව සිටිති.
+
+ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු ගේ ආරාධනාවකට අනුව ජනාධිපති අනුර කුමාර දිසානායක ඉන්දියාවේ සංචරයක නිරත වන බව ශ්‍රී ලංකාවේ විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේය.
+
+මෙහි දී ඉන්දීය අගමැති හමු වී එකඟතා කිහිපයකට ද එළඹීමට නියමිත බවත් මෙම සංචාරයේ දී ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු  සහ තවත් රාජ්‍යතාන්ත්‍රිකයන් කිහිපදෙනෙකු ම මුණ ගැසීමට නියමිත බවත් එම නිවේදනයේ දැක්වෙයි.
+
+එහිදී අන්‍යෝන්‍ය වශයෙන් උනන්දුවක් දක්වන කරුණු රාශියක් පිළිබඳව ද්විපාර්ශ්වික සාකච්ඡා පවත්වන බව විදේශ කටයුතු අමාත්‍යංශය සඳහන් කරයි.
+
+දෙරට අතර ආයෝජන සහ වාණිජ සබඳතා ප්‍රවර්ධනය කිරීම සඳහා දිල්ලි නුවර පැවැත්වෙන ව්‍යාපාරික උත්සවයකට සහභාගිවීමට සැලසුම් කර ඇති ජනාධිපතිවරයා, බුද්ධගයාවේ සංචාරය කිරීමට ද නියමිතව ඇත.
+
+...
+
+[Data](articles/c105072d.json)
+
+---
+
 ### The new bishop of Mannar Diocese
 
 *2024-12-15 08:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201297) · `ta`
@@ -2059,199 +2271,5 @@ Sampath Bank has been honoured as the Second Runner-Up in the Best Corporate Cit
 [Data](articles/20ab173d.json)
 
 [Extended Data](ext_articles/20ab173d.ext.json)
-
----
-
-### Letter to the Prime Minister of India by the Tamil National People's Front
-
-*2024-12-14 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201295) · `ta`
-
-Tamil National People's Front writes to PM India, urging pressure on Sri Lanka to address Tamil ethnic issue and seek sovereignty solution during upcoming meeting between Indian and Sri Lankan leaders.
-
-🟩
-
-Sri Lankan President Anura Kumara Dissanayake will meet Indian Prime Minister. In the meantime, the Tamil National People's Front has issued a letter demanding pressure on Sri Lanka to abandon the unity of the ethnic problem of the Tamil people in Sri Lanka and reach its sovereignty solution.
-
-◼️
-
-[Data](articles/c0e2eee7.json)
-
-[Extended Data](ext_articles/c0e2eee7.ext.json)
-
----
-
-### Order to re -export imported rice
-
-*2024-12-14 20:58:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறக்குமதி-செய்யப்பட்ட-அரிசியை-மீள்-ஏற்றுமதி-செய்ய-உத்தரவு/175-348725) · `ta`
-
-Rice re-export order: 75kkg deemed unfit. Health inspectors test imports. Two out of three containers rejected. New labels added. Private importers allowed since April 4th. 2,300 metric tons imported from India.
-
-🟩
-
-It has been revealed that about 75,000 kg of rice is not inappropriate for the use of rice imported by private importers.
-
-Food and pharmaceutical inspectors of the Ministry of Health will be tested before the release of rice brought to the country.
-
-Accordingly, during the experiment, the health department did not allow the health department to release the rice in two containers of the 3 containers of the 3 containers, and the new label was pasted on top of the old labels in the rice in the other container.
-
-The government has given permission to private importers to import rice from the 4th of last month as a solution to the rice shortage in the country.
-
-Accordingly, rice is currently being imported from India and 2,300 metric tonnes of rice imported by private importers from the 4th to the afternoon (13) afternoon.
-
-◼️
-
-[Data](articles/4a264cda.json)
-
-[Extended Data](ext_articles/4a264cda.ext.json)
-
----
-
-### IIHS celebrates graduation of over 600 healthcare professionals
-
-*2024-12-14 20:53:00* · [`islandlk`](http://island.lk/iihs-celebrates-graduation-of-over-600-healthcare-professionals/) · `en`
-
-The International Institute of Health Sciences (IIHS) celebrated a major milestone with the graduation of over 600 students across various academic programs, including Foundation, Diploma, Bachelor’s, Master’s, and PhD degrees. This year’s ceremony, which also honored over 400 government nurses, highlights IIHS’s pivotal role in enhancing healthcare education in Sri Lanka and internationally. The institute has trained more than 5,000 healthcare professionals, with over 500 alumni contributing globally.
-
-...
-
-[Data](articles/30d9ee01.json)
-
-[Extended Data](ext_articles/30d9ee01.ext.json)
-
----
-
-### Beyond Escapes wins bronze medal at ICSDB Business Excellence Awards
-
-*2024-12-14 20:53:00* · [`islandlk`](http://island.lk/beyond-escapes-wins-bronze-medal-at-icsdb-business-excellence-awards/) · `en`
-
-Beyond Escapes, an emerging travel agency in Sri Lanka, has gained widespread recognition by winning the prestigious Bronze Medal for Innovative Digital and Sustainability Implementation in the In-house Category at the ICSDB Business Excellence Awards. The award ceremony, held on December 10, 2024, at Water’s Edge, was organized by the Sri Lanka Institute of Information Technology (SLIIT) Campus. Beyond Escapes triumphed over top conglomerates from various industries, underscoring the company’s commitment to innovation, sustainability, and digital transformation in the evolving travel market.
-
-...
-
-[Data](articles/81ab5d81.json)
-
-[Extended Data](ext_articles/81ab5d81.ext.json)
-
----
-
-### More information about the shooting of the Maligalle
-
-*2024-12-14 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204379) · `si`
-
-Maligakanda shooting: Couple injured, police suspect motive, CCTV footage, suspects flee on motorcycle.
-
-🟩
-
-A couple was seriously injured in a shot of a shooting of a couple in Maligakanda Court today.
-
-The police suspect the aim is that the aim is the man who was with the woman.
-
-The shooting was carried out near the Maligakanda Courts at around 3 pm today.
-
-The shooting was also recorded at a nearby CCTV camera.
-
-Police said two had fled the shooting by a motorbike with a march track by the Maligakanda Courts.
-
-Wounded by shooting TA. Niluka Dilhani is a 40 year old resident of Colombo 13.
-
-◼️
-
-[Data](articles/4848357f.json)
-
-[Extended Data](ext_articles/4848357f.ext.json)
-
----
-
-### AIA Sri Lanka sets new benchmarks in workplace culture
-
-*2024-12-14 20:52:00* · [`islandlk`](http://island.lk/aia-sri-lanka-sets-new-benchmarks-in-workplace-culture/) · `en`
-
-AIA Sri Lanka sets new benchmarks in workplace culture – winning Best Workplaces in Sri Lanka for the 12th year, Best Workplaces for Women and Young Talent, winner of the Wellbeing Champions and Sri Lanka’s Happiest Workplace in the life insurance industry.
-
-...
-
-[Data](articles/bf6d2d1d.json)
-
-[Extended Data](ext_articles/bf6d2d1d.ext.json)
-
----
-
-### Guyana: Embracing the Culture and People
-
-*2024-12-14 20:27:00* · [`islandlk`](http://island.lk/guyana-embracing-the-culture-and-people/) · `en`
-
-Before leaving Sri Lanka to work in Guyana in March 1994, I was accustomed to seeing over two dozen bodyguards and a significant security detail for heads of government attending events. Sri Lanka, being in the throes of a brutal separatist war, necessitated such precautions. Naturally, I expected a similar setup when welcoming VIPs to the Guyana Pegasus Hotel on my first day of work. Standing at the lobby entrance alongside my Deputy General Manager, Shaun, I was eager to make a good first impression in this new environment.
-
-...
-
-[Data](articles/73bb9563.json)
-
-[Extended Data](ext_articles/73bb9563.ext.json)
-
----
-
-### New Book: After Assad: Is Syria the New Libya in the Mediterranean?
-
-*2024-12-14 20:23:00* · [`islandlk`](http://island.lk/new-book-after-assad-is-syria-the-new-libya-in-the-mediterranean/) · `en`
-
-“After Assad: Is Syria the New Libya in the Mediterranean?” is a sharp and unflinching analysis of Syria’s descent into chaos. Journalist Nilantha Ilangamuwa examines the aftermath of Bashar al-Assad’s fall, highlighting the complex web of foreign interventions, regional ambitions, and internal fractures that have ravaged the country.
-
-The author reflects on his personal experiences with Syrian journalists, politicians, and activists, noting the stark contrast between the prosperous cities and the war-torn regions of the Middle East. He writes, “If you travel at night from Tehran to Doha, one side sparkles with lights, the other is cloaked in darkness, a symbol of neglect and conflict.”
-
-...
-
-[Data](articles/6a6319ef.json)
-
----
-
-### Leave responsibility for universities
-
-*2024-12-14 20:22:26* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-වරම්-නොලබන-අයගේ-වගකීම-භාර-ගන්නවා/11-413626) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ministry of Youth Affairs and Sports Deputy Minister Eranga Gunasekera emphasizes vocational training for those unable to enter universities. Focuses on connecting youth with national wealth, eradicating rural poverty, and strengthening the economy through international partnerships.
-
-🟩
-
-Eranga Gunasekera said that the Ministry of Youth Affairs and the Ministry of Sports. The Deputy Minister was speaking at a grant for the second group of Hotel Training School in Dambulla yesterday (13).
-
-Secretary to the Ministry of Sports Aruna Bandara, Youth Corps Director Brigadier R. M.S.P. Ratnayake, Dambulla Hotel Training School Major MDB. Illangasinghe, Additional Director (Administration & Finance) Attorney R. Nishantha Pushpakumara, Additional Director (Training and Development) Saman Kulasuriya and other officials participated.
-
-GCE Advanced Level. Typical and GCE. The Deputy Minister said that it is necessary to provide knowledge and skills for young people who cannot access the university system through A / L examinations.He further stated that the youth of these vocational youths will be prepared to connect the wealth of the country by contacting other ministries and other ministries.
-
-...
-
-[Data](articles/e9419267.json)
-
-[Extended Data](ext_articles/e9419267.ext.json)
-
----
-
-### Bill and Melinda Gates Foundation will expand their services
-
-*2024-12-14 20:10:54* · [`adalk`](https://www.ada.lk/breaking_news/බිල්-සහ-මෙලින්ඩා-ගේට්ස්-පදනම-ලංකාෙව්-කරන-සේවාවන්-පුළුල්--කරයි/11-413625) · `si`
-
-Bill & Melinda Gates Foundation expands services in Sri Lanka, focusing on nutrition, education, agriculture, and livestock development. They've partnered with the government to implement new initiatives, supported by financial and technological resources. The agreement was made at the Presidential Secretariat, involving key officials from both parties.
-
-🟩
-
-Nutrition projects agree to provide financial and technology facilities for school children, school children, agricultural and livestock development programs
-
-Bill and Melinda Gates Foundation focuses on expanding services in Sri Lanka.
-
-Accordingly, nutrition projects, school children have to provide financial and technical facilities for the implementation of the agricultural and livestock development programs in Sri Lanka in Sri Lanka.
-
-The agreement was held at the Presidential Secretariat with Bill and Melinda Games Foundation Officers under the patronage of Labor Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando.
-
-Bill and Melinda Gates Foundation has agreed to support the new government priorities and support it.
-
-...
-
-[Data](articles/8315897c.json)
-
-[Extended Data](ext_articles/8315897c.ext.json)
 
 ---

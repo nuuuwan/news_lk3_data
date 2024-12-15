@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 18:23:44**
+As of **2024-12-15 18:38:19**
 
 ## Newspaper Stats
 
-*Scraped **60,309** Articles*
+*Scraped **60,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,725
+adalk | 5,726
 adaderanalk | 7,347
-tamilmirrorlk | 8,617
+tamilmirrorlk | 8,618
 virakesarilk | 9,922
 adaderanasinhalalk | 10,430
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,281 (100.0%) of 60,309 articles have been extended.
+60,283 (100.0%) of 60,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### இரண்டு ரயில்கள் ஒன்றுடன் ஒன்று மோதி விபத்து
+
+*2024-12-15 18:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-ரயில்கள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/175-348756) · `ta`
+
+ரஜரட்ட ருஜின மற்றும் சாகரிகா ரயில் இயந்திரங்கள் இன்று காலை ஒன்றுடன் ஒன்று மோதி ஏற்பட்ட விபத்து தொடர்பில் ரயில்வே திணைக்களம் விசாரணைகளை ஆரம்பித்துள்ளது.
+
+பெலியத்தையிலிருந்து அனுராதபுரம் நோக்கி பயணித்த ரஜரட்ட ருஜின ரயில் இயந்திரத்தை மாற்றும் போது தவறான பாதையில் பயணித்தமையினால் அங்கு நிறுத்தி வைக்கப்பட்டிருந்த சாகரிகா ரயிலுடன் மோதியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அந்த ரயிலை நாளை (16) காலை  இயக்க முடியாத நிலை ஏற்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/c6d704df.json)
+
+---
 
 ### Sea areas and land warning announced around the island
 
@@ -108,33 +124,55 @@ A group of picnic from Galle has been accidental.
 
 ---
 
-### வெளிநாட்டு வேலை பெற்றுத் தருவதாக கூறி பண மோசடி - ஒருவர் கைது
+### Money fraud for allegedly giving a foreign job
 
 *2024-12-15 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201329) · `ta`
 
-கிண்ணியா பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் வெளிநாட்டு வேலை பெற்றுத் தருவதாகக் கூறி பண மோசடி செய்த சந்தேக நபர் நேற்று சனிக்கிழமை (14 ) கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-இந்த பண மோசடி குற்றம் தொடர்பில் ஹக்மன பொலிஸ் நிலையத்துக்கு கிடைத்த 09 முறைப்பாடுகளை ஹக்மன பொலிஸ் நிலைய அதிகாரிகள் விசாரணை செய்ததையடுத்து, சம்பவத்துடன் தொடர்புடைய நபர் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
 
-சந்தேக நபர் 43 இலட்சம் ரூபாவுக்கும் அதிகமான பணத்தை மோசடி செய்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
+
+Arrest made in Kinniya over alleged foreign job scam. Suspect defrauded 43 lakhs. Investigations ongoing.
+
+🟩
+
+The suspect was arrested on Saturday (14) for allegedly getting a foreign job in the Kinniya Police Division.
+
+The Hakmana Police Station officials investigated the nine complaints received by the Hakmana Police Station regarding the money laundering crime and the man was arrested in connection with the incident.
+
+Investigations have revealed that the suspect had defrauded more than 43 lakhs of rupees.
 
 ◼️
 
 [Data](articles/914a653a.json)
 
+[Extended Data](ext_articles/914a653a.ext.json)
+
 ---
 
-### மலையக தமிழ் மக்களுக்கு வழங்கப்பட்ட 'இந்திய தமிழர்'  என்ற அங்கீகாரம் மாற்றமடைந்து, இலங்கையர் என்ற அங்கீகாரம் கிடைக்க வேண்டும் - மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர்
+### The recognition of the 'Indian Tamil' given to the Tamil people of the hill country should be changed and the recognition of Sri Lankans - Minister of Women and Child Affairs
 
 *2024-12-15 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201327) · `ta`
 
-இலங்கையில் மலையக வாழ் தமிழ் மக்கள் குடியேறி நான்கு தலைமுறைகளை கடந்து, 200 வருடங்களாயினும் இதுவரை காலப்பகுதியிலும் பிறப்பு சான்றிதழில் 'இந்திய தமிழர்' என்றே எழுதப்படுகிறது. ஆனால் இலங்கையில் வாழும் மலையக மக்கள் இலங்கையிலே வியர்வை சிந்தி இலங்கைக்காக உழைத்து இன்று தன்னுடைய நாடு என்ற அங்கீகாரம் இல்லாமல் வாழ்வது மாற்றமடைந்து, இலங்கையர் என்ற அங்கீகாரம் கிடைக்க வேண்டும் என மகளிர் மற்றும் சிறுவர் விவகார அமைச்சர் சரோஜா சாவித்ரி போல்ராஜ் தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-இரா. சிவலிங்கம் ஞாபகார்த்தம் குழுவின் இரு நூல்களின் வெளியீட்டு விழா நேற்று  சனிக்கிழமை (14) கொழும்பு தமிழ் சங்கம் சங்கரப்பிள்ளை மண்டபத்தில் நடைபெற்றபோதே அவர் இதனை தெரிவித்தார்.
+
+
+Sri Lankan hill country Tamils seek change from "Indian Tamil" to "Sri Lankan" status. Minister emphasizes their long history and contributions to the country. Differences between hill country and Northern/Eastern Tamils noted. Government initiatives to address land and housing issues.
+
+🟩
+
+The Tamil people living in the hill country in Sri Lanka have passed four generations, 200 years and so far as the birth certificate is written as 'Indian Tamil'.. But the people of the hill country in Sri Lanka, Saroja Savitri Bolraj, Minister of Women and Child Affairs, said that the sweat in Sri Lanka should be swept to Sri Lanka and live without the recognition of her country today.
+
+Nonsense. He was speaking at the launch of the two books of the Sivalingam Memorial Committee on Saturday (14) at the Colombo Tamil Sangam Sankarapillai Hall.
+
+It is their source that Sri Lanka has not yet embraced the people of Sri Lanka as Sri Lankan. The Indian government does not have the responsibility of being responsible for the Tamil people of the hill country economically and administratively in the country, whether a foreign country or ancestral country is a society that has been abandoned from India.
 
 ...
 
 [Data](articles/0f94ae86.json)
+
+[Extended Data](ext_articles/0f94ae86.ext.json)
 
 ---
 
@@ -285,6 +323,24 @@ Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Minister o
 [Data](articles/f61cfa24.json)
 
 [Extended Data](ext_articles/f61cfa24.ext.json)
+
+---
+
+### රජරට රැජිණයි සාගරිකයි බෙලිඅත්තේදී ගැටෙයි
+
+*2024-12-15 16:24:51* · [`adalk`](https://www.ada.lk/breaking_news/රජරට-රැජිණයි-සාගරිකයි-බෙලිඅත්තේදී-ගැටෙයි/11-413643) · `si`
+
+බෙලිඅත්ත දුම්රිය ස්ථානයේදී රජරට රැජින දුම්රියේ එංජිම සාගරිකා දුම්රියේ ගැටීමෙන් සිදුවූ අනතුර සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+
+රජරට රැජින දුම්රියේ එංජිම මාරු කිරීමේදී වැරදි පීල්ලේ ධාවනය වීම හේතුවෙන් එම පීල්ලේ නවතා තිබූ සාගරිකා දුම්රියේ ගැටී අනතුර සිදුව තිබේ.
+
+අනතුරින් සාගරිකා දුම්රියට දැඩි හානි සිදුව ඇති අතර ඒ අනුව එම දුම්රිය හෙට (16) උදෑසන ධාවනයට එක් කිරීමට නොහැකි තත්ත්වයක් මතුව ඇති තිබේ.
+
+අනතුර හේතුවෙන් රජරට රැජින දුම්රිය ද ප්‍රමාද වී ධාවනය කිරීමට සිදුවිය.
+
+◼️
+
+[Data](articles/b7a9da1b.json)
 
 ---
 
@@ -2062,7 +2118,7 @@ In addition, the shooters have not yet been identified and the Meegoda police ar
 
 අනුර කුමාර දිසානායක ජනාධිපති ධුරයට පත්විමෙන් පසුව ප්‍රථම විදෙස් සංචාරය ලෙස අද (දෙසැම්බර් 15 වැනිදා) පස්වරුවේ  අසල්වැසි ඉන්දියාව බලා පිටත්ව ගියේය.
 
-ජනාධිපතිවරයා සමග විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, කම්කරු අමාත්‍ය අනිල් ජයන්ත  සහ නියෝජ්‍ය මුදල් අමාත්‍ය හර්ෂ සූරියප්පෙරුම මෙම තෙදින නිල සංචාරය සඳහා එක්ව සිටිති.
+ජනාධිපතිවරයා සමග විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් සහ කම්කරු අමාත්‍ය අනිල් ජයන්ත ද මෙම තෙදින නිල සංචාරය සඳහා එක්ව සිටිති.
 
 ඉන්දීය ජනාධිපතිනි ද්‍රෞපදී මුර්මු ගේ ආරාධනාවකට අනුව ජනාධිපති අනුර කුමාර දිසානායක ඉන්දියාවේ සංචරයක නිරත වන බව ශ්‍රී ලංකාවේ විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේය.
 
@@ -2297,41 +2353,5 @@ The suspect, a 36 year old residents of Kekirawa has been arrested by the police
 [Data](articles/98436183.json)
 
 [Extended Data](ext_articles/98436183.ext.json)
-
----
-
-### Dr. C. Sivandran (1948-2024): Engineer, Industrial Entrepreneur
-
-*2024-12-15 07:33:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-c-sivandran-1948-2024-engineer-industrial-entrepreneur/) · `en`
-
-Writing obituaries becomes a poignant burden when those near and dear to us keep taking their turn while we wait for ours in life’s departure lounge. I have had my share of writing obituaries in the last two years, but this one gets preciously close because Sivandran, who passed away suddenly in Semarang, Indonesia, was my roommate throughout our Peradeniya years and later after graduation. We were best friends.
-
-We were emailing on November 28 and his last email said that his health was a hassle; so, he was winding down in Indonesia and was heading home to Perth. Next day I received the sad news of his demise. “Death, be not proud,” John Donne’s Holy Sonnet came to mind, but more in anger than as  assurance of what comes “one short sleep past.”
-
-...
-
-[Data](articles/b5bc5d78.json)
-
----
-
-### Landslide Warnings for several districts
-
-*2024-12-15 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204385) · `si`
-
-Landslide warnings issued for Udtitha Korale, Patheddara, Pathedralumara, Rattota districts. National Building Research Organization alert valid until 4 pm.
-
-🟩
-
-Landslide warnings have been issued to several districts in several districts.
-
-According to the National Building Research Organization, a warning announcement is in effect until 4 pm.
-
-The warning announcement has been issued for the Udtitha Korale, Patheddara, Pathedralumara, Pathedralumara, Pathedral, Pathedral, Pathedral, Pathedral, Pathedral, Pathedral, Pathedral and Rattota.
-
-◼️
-
-[Data](articles/7406ce52.json)
-
-[Extended Data](ext_articles/7406ce52.ext.json)
 
 ---

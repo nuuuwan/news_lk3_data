@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 21:12:58**
+As of **2024-12-15 21:26:41**
 
 ## Newspaper Stats
 
-*Scraped **60,327** Articles*
+*Scraped **60,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,729
+adalk | 5,730
 adaderanalk | 7,350
 tamilmirrorlk | 8,620
 virakesarilk | 9,928
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,311 (100.0%) of 60,327 articles have been extended.
+60,311 (100.0%) of 60,328 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -187,6 +187,26 @@ Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Minister o
 [Data](articles/6eb39ec1.json)
 
 [Extended Data](ext_articles/6eb39ec1.ext.json)
+
+---
+
+### ඖෂධ අටක ගුණාත්මකභාවය අඩුවීම නිසා භාවිතයෙන් ඉවතට
+
+*2024-12-15 18:33:15* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-අටක-ගුණාත්මකභාවය-අඩුවීම-නිසා-භාවිතයෙන්-ඉවතට/11-413657) · `si`
+
+ඖෂධ  වර්ග අටක ගුණාත්මකභාවය අඩුවීම නිසා(quality Failure)  පසුගිය සතියෙහිදී භාවිතයෙන් ඉවත් කර තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමති සන්ධානය සඳහන් කරයි.
+
+Merapeum, Cefotaxime, Cefotaxime, imipanum, Cilastatin, Lorazepam, Calcium Gluconate, සහ Cindamicine යන ඖෂධ කාණ්ඩ අට අයත් ඖෂධවලින් කොටසක් මේ ආකාරයට ඉවත් කර තිබෙන බවද එම සංගමයේ සභාපති විශේෂඥ  චමල් සංජීව මහතා සඳහන් කළේය.
+
+පසුගිය ආණ්ඩු සමයේදී ගෙන්වූ මෙම  ඖෂධවලින් වර්ග කිහිපයක් ගෙන්වනු ලබන්නේ සමාග දෙකක්  බවත් මේ නිසා මෙම ඖෂධ වර්ගවල හිඟයක් ඉදිරියේදී ඇති විය හැකි බවත් හෙතෙම  පවසා සිටියේය.
+
+මේ පිළිබඳව වර්තමාන ආණ්ඩුව අවධානය යොමු කර  අදාළ ඖෂධ තොග කලට වෙලාවට ගෙන්වීමට කටයුතු කළ යුතු බවත් භාවිතයෙන් ඉවත් කළ ඖෂධවලට අදාළ අලාභය අදාළ සමාගම්වලින් අයකර ගත යුතු බවත් ඔහු සඳහන් කළේය.
+
+මෙම  ඉවත් කළ ඖෂධ අතර ප්‍රබල ප්‍රතිජීවක ඖෂධ රැසක් පවතින බවත් තවමත් ස්‍යෙඛ්‍ය සේවාවේ ඇතැම් ස්ථානවල ඉහළ තනතුරු දරනු ලබන්නේ ගෝඨාභය රාජපක්ෂ මහතාගේ පාලන කාලයේදී පත් කළ නිලධාරීන් බවත් ඒ මහතා පැවසීය.
+
+...
+
+[Data](articles/a71ac69a.json)
 
 ---
 
@@ -2421,35 +2441,5 @@ President Anura Kumara Dissanayake will also attend a trade event in Delhi with 
 ◼️
 
 [Data](articles/c238e69c.json)
-
----
-
-### Maduru Oya Army cannot stop sand racket at right bank
-
-*2024-12-15 09:57:35* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-දකුණු-ඉවුරේ-වැලි-ජාවාරම-හමුදාවටත්-නවත්වන්න-බැරි-වෙලා/11-413633) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Maduru Oya Army fails to stop sand racket. Police Chief blames army for inaction. Deputy Minister vows to crack down on drugs & corruption. Calls for stronger law enforcement against racketeers.
-
-🟩
-
-Sri Lanka Mahaweli Chief of Police and the Police are fully responsible for the racket of the Mahaweli Security and some police officers in the South Right Railway in the Maduru Oya South Bank area.He said.
-
-He added that if the army is unable to suppress the racket, he said that if the police fell to and enforce law against them, all the officers would not hesitate to offer transfers from January.
-
-The Deputy Minister said that the police would immediately take the immediate action to suppress the cannabis, heroin, ice drugs, and there is no obstruction to the arrest of a person involved in the drug.
-
-Mr. Sarath said that if the criminals are arrested and unable to enforce law, he will be able to inform him and the implementation of law enforcement officers will be used to inform him.
-
-Speaking at the District Development Committee meeting held at the Polonnaruwa District Secretariat on the 13th.
-
-...
-
-[Data](articles/bbd4a248.json)
-
-[Extended Data](ext_articles/bbd4a248.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 00:43:17**
+As of **2024-12-16 01:12:15**
 
 ## Newspaper Stats
 
-*Scraped **60,359** Articles*
+*Scraped **60,360** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 453
-colombotelegraphcom | 611
+colombotelegraphcom | 612
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,331 (100.0%) of 60,359 articles have been extended.
+60,333 (100.0%) of 60,360 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Best Entrepreneur of the Year 2024 – Bronze Award – British Institute of
 
 [Data](articles/96430fcc.json)
 
+[Extended Data](ext_articles/96430fcc.ext.json)
+
 ---
 
 ### C.W. Mackie appoints two new members to Board
@@ -63,6 +65,8 @@ Wickramasinghe was the former Director/Chief Executive Officer of Union Bank for
 ...
 
 [Data](articles/0a58a036.json)
+
+[Extended Data](ext_articles/0a58a036.ext.json)
 
 ---
 
@@ -853,6 +857,18 @@ Arun Hemachandra will serve as Deputy Minister of Foreign Affairs, Foreign Emplo
 [Data](articles/3214d5a9.json)
 
 [Extended Data](ext_articles/3214d5a9.ext.json)
+
+---
+
+### Sri Lanka’s Path To Stability: Balancing Geopolitical Tensions & Domestic Challenges
+
+*2024-12-15 18:28:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-path-to-stability-balancing-geopolitical-tensions-domestic-challenges/) · `en`
+
+Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamics and domestic challenges. President Anura Kumara Dissanayake’s upcoming visits to India and China underscore the island nation’s strategic importance to these Asian giants. Both countries view Sri Lanka as pivotal in their geopolitical strategies, with India particularly concerned about China’s influence in the region. This article delves into the implications of these visits, the government’s anti-corruption drive, and Sri Lanka’s socio-political challenges in its pursuit of stability. Tshering Eudon (2024) argues that Sri Lanka’s foreign policy is shaped by domestic needs and geopolitical pressures, urging the U.S. to prioritise economic over security concerns.
+
+...
+
+[Data](articles/407d8cf8.json)
 
 ---
 
@@ -2331,25 +2347,5 @@ Since the gang is constantly involved in such thefts, the police have asked the 
 [Data](articles/2cd85498.json)
 
 [Extended Data](ext_articles/2cd85498.ext.json)
-
----
-
-### IRD sets final December deadlines for defaulted tax payments
-
-*2024-12-15 13:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104252/ird-sets-final-december-deadlines-for-defaulted-tax-payments) · `en`
-
-The Department of Inland Revenue (IRD) has issued a notice to taxpayers, urging them to meet key deadlines for tax payments this December to avoid penalties and legal action.
-
-Taxpayers are reminded that the Value Added Tax (VAT) and Social Security Contribution Levy for the month of November 2024 must be paid on or before 20 December 2024.
-
-For those who have missed paying taxes due on their income tax returns for the assessment year 2023/2024, the deadline to settle these payments is 26 December 2024. Additionally, any unpaid self-assessment tax, arrears tax, or agreed additional assessment tax must also be paid by this date, the Commissioner General of the IRD noted.
-
-The department has cautioned that failure to meet this deadline will result in taxpayers losing the opportunity to seek relief from penalties for these unpaid amounts.
-
-...
-
-[Data](articles/93b45a9f.json)
-
-[Extended Data](ext_articles/93b45a9f.ext.json)
 
 ---

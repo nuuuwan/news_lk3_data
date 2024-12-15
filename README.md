@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 11:01:05**
+As of **2024-12-15 11:43:25**
 
 ## Newspaper Stats
 
-*Scraped **60,223** Articles*
+*Scraped **60,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 453
 colombotelegraphcom | 610
 bbccomsinhala | 632
 islandlk | 3,646
-economynextcom | 3,668
+economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,715
+adalk | 5,716
 adaderanalk | 7,335
-tamilmirrorlk | 8,610
+tamilmirrorlk | 8,612
 virakesarilk | 9,883
 adaderanasinhalalk | 10,415
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 10,415
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,214 (100.0%) of 60,223 articles have been extended.
+60,217 (100.0%) of 60,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### மன்னார் மறை மாவட்டத்திற்கு புதிய ஆயர் நியமனம்
+
+*2024-12-15 11:26:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னார்-மறை-மாவட்டத்திற்கு-புதிய-ஆயர்-நியமனம்/175-348739) · `ta`
+
+மறைமாவட்ட ஆயர் பணியிலிருந்து பிஷப் பிடெலிஸ் லயனல் இம்மானுவேல் பெர்னாண்டோ விலகியதையடுத்து, திருத்தந்தை பிரான்சிஸ் அவர்கள் மன்னாரின் புதிய ஆயராக வணக்கத்திற்குரிய ஞானப்பிரகாசம் அந்தோணிப்பிள்ளையை உத்தியோகபூர்வமாக நியமித்துள்ளார்.
+
+மன்னார் மறைமாவட்டத்தில் அர்ப்பணிப்புள்ள அங்கத்தவராக விளங்கிய திருத்தந்தை  ஞானப்பிரகாசம் அந்தோணிப்பிள்ளை 1994 ஆம் ஆண்டு குருத்துவம் பெற்றதிலிருந்து பல்வேறு பதவிகளில் பணியாற்றியுள்ளார்.
+
+◼️
+
+[Data](articles/97b65e8b.json)
+
+---
+
+### Another survival of the mysterious fever in Jaffna
+
+*2024-12-15 11:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-மர்மக்-காய்ச்சலால்-மற்றுமொரு-உயிர்-பறிபோனது/175-348738) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mysterious fever outbreak in Jaffna claims another victim. A 23-year-old youth from Karavetti died after 5-day hospitalization. Admitted to Point Pedro Hospital, transferred to Teaching Hospital but succumbed to illness. Cause remains unclear.
+
+🟩
+
+A youth who was suspected of being a mud in Jaffna and admitted for 3 days in the intensive care unit died yesterday (14).
+
+A 23 -year -old youth from Karavetti, Jaffna died without treatment.
+
+He was admitted to the Point Pedro Hospital for 5 days with a fever and immediately felt the serious condition of the disease that day.. Death was sent to the Teaching Hospital for further treatment. Remble
+
+◼️
+
+[Data](articles/d21e0b85.json)
+
+[Extended Data](ext_articles/d21e0b85.ext.json)
+
+---
+
+### ඉහළ ආදායම් ඇති, කුඹුරු,යාන,වාහන තිබෙන අයටත් අස්වැසුම දීලා
+
+*2024-12-15 10:15:23* · [`adalk`](https://www.ada.lk/breaking_news/ඉහළ-ආදායම්-ඇති--කුඹුරු-යාන-වාහන-තිබෙන-අයටත්-අස්වැසුම-දීලා/11-413634) · `si`
+
+රජයේ අස්වැසුම සහනාධාරය ලබාදීමේදී ඉහළ ආදායමක් උපයන,කුඹුරු,යාන,වාහන තිබෙන අයවලුන්ටත් අස්වැසුම ප්‍රතිලාභය    ලබාදීම තුළ තමන්ට එම අස්වැසුම ප්‍රතිලාභය ලබා ගැනීමේ අවස්ථාව අහිමි වී ඇති බව පොළොන්නරුව දිස්ත්‍රික්කයේ අස්වැසුම නොලැබූ හා අස්වැසුමේ අඩු ප්‍රතිලාභ ලබන ප්‍රතිලාභීන් චෝදනා කරති.
+
+දිඹුලාගල සහ වැලිකන්ද ප්‍රාදේශීය ලේකම් කොට්ඨාශවල වැලි වැලිමංකඩ හිමි, කැනීම් යන්ත්‍ර සූත්‍ර තිබෙන,යාන වාහන තිබෙන අයවලුන්ට පවා අස්වැසුම ලබාදී ඇති බවත්,විශාල ආදායමක් ලබන ඔවුන්ට අස්වැසුම ලබාදී ඇත්තේ කුමන නිර්ණායක පදනම් කරගෙනද යන්න අඩු ආදායම්ලාභී පවුල් ප්‍රශ්න කරති.
+
+ඇතැම් ගම්මානවල පොලියට මුදල් ලබාදෙන අයවලුන්ටත්, මහා පරිමාණ වෙළෙඳ ව්‍යාපාර පවත්වාගෙන ව්‍යාපාරිකයන්ටත්
+
+මෙම අස්වැසුම් ප්‍රතිලාභය ලබාදී ඇති අතර බොහෝ ගම්මානවල අඩු ආදායම්ලාභී පවුල් සහ ආබාධිත පවුල්, මෙන්ම විශේෂ අවශ්‍යතා ඇති පවුල්වලට, මව හෝ පියා අහිමි දරුවන් සිටින පවුල් වලට අස්වැසුම නොලැබෙන බවත්, එවැනි ඇතැම් පවුල්වලට ඉතා අඩු අස්වැසුම ප්‍රතිලාභය ලබාදී ඇති බවද දිඹුලාගල, තමන්කඩුව, සහ වැලිකන්ද කොට්ඨාශයේ අස්වැසුම නොලැබූ බොහෝ දෙනාම චෝදනා කරති.
+
+...
+
+[Data](articles/1d7b4af8.json)
+
+---
 
 ### The President is going to India
 
@@ -56,19 +114,33 @@ President Anura Kumara Dissanayake will also attend a trade event in Delhi with 
 
 ---
 
-### මාදුරුඔය දකුණු ඉවුරේ වැලි ජාවාරම හමුදාවටත් නවත්වන්න බැරි වෙලා
+### Maduru Oya Army cannot stop sand racket at right bank
 
 *2024-12-15 09:57:35* · [`adalk`](https://www.ada.lk/breaking_news/මාදුරුඔය-දකුණු-ඉවුරේ-වැලි-ජාවාරම-හමුදාවටත්-නවත්වන්න-බැරි-වෙලා/11-413633) · `si`
 
-පොළොන්නරුව මාදුරුඔය දකුණු ඉවුර ප්‍රදේශයේ සිදුවන හා පරිමාණ වැලි ජාවාරමට ශ්‍රී ලංකා මහවැලි අධිකායේ ආරක්ෂක අංශ මෙන්ම පොලිසිය සම්පූර්ණයෙන්ම වගකිවයුතු බවත්, එම ජාවාරමට මහවැලි ආරක්ෂක අංශය සහ ඇතැම් පොලිස් නිලධාරීන් සහයෝගය ලබාදෙන බවත් ජාතික ජන බලවේගයේ පොළොන්නරුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී, නිවාස සංවර්ධන නියෝජ්‍ය අමාත්‍ය ටී.බී සරත් මහතා සඳහන් කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-යුද හමුදාවට පවා ජාවාරම මැඩලීමට නොහැකි මට්ටමට පත්ව ඇති හෙයින්, මාදුරුඔය  වැලි ජාවාරම්කරුවන් අත්අඩංගුවට ගෙන ඔවුන්ට විරුද්ධව නීතිය ක්‍රියාත්මක කිරීමට පොලිසිය මැලි වන්නේ නම් ඊට අනුබල දෙන සියලු නිලධාරීන් ජනවාරියේ සිට මාරුවීම් ලබාදීමට පසුබට නොවන බවද ඔහු පැවැසීය.
 
-ගංජා, හෙරොයින්, අයිස්  මත්ද්‍රව්‍ය, ජාවාරම් පොළොන්නරුව දිස්ත්‍රික්කයේ බහුල වශයෙන් සිදුවන නිසා, ඒවා මර්දනය කිරීමට පොලිසිය වහාම පියවර ගන්නා ලෙසත්, මත්ද්‍රව්‍ය වලට සම්බන්ධ තම පක්ෂයේ යම් පුද්ගලයෙකු සිටී නම් ඔවුන් අත්අඩංගුවට ගැනීමට කිසිදු බාධාවක් නොවන බවත් නියෝජ්‍ය අමාත්‍යවරයා පැවැසිය.
+
+Maduru Oya Army fails to stop sand racket. Police Chief blames army for inaction. Deputy Minister vows to crack down on drugs & corruption. Calls for stronger law enforcement against racketeers.
+
+🟩
+
+Sri Lanka Mahaweli Chief of Police and the Police are fully responsible for the racket of the Mahaweli Security and some police officers in the South Right Railway in the Maduru Oya South Bank area.He said.
+
+He added that if the army is unable to suppress the racket, he said that if the police fell to and enforce law against them, all the officers would not hesitate to offer transfers from January.
+
+The Deputy Minister said that the police would immediately take the immediate action to suppress the cannabis, heroin, ice drugs, and there is no obstruction to the arrest of a person involved in the drug.
+
+Mr. Sarath said that if the criminals are arrested and unable to enforce law, he will be able to inform him and the implementation of law enforcement officers will be used to inform him.
+
+Speaking at the District Development Committee meeting held at the Polonnaruwa District Secretariat on the 13th.
 
 ...
 
 [Data](articles/bbd4a248.json)
+
+[Extended Data](ext_articles/bbd4a248.ext.json)
 
 ---
 
@@ -385,6 +457,26 @@ The program is being implemented in the district on the instructions of the Mata
 [Data](articles/49fc620b.json)
 
 [Extended Data](ext_articles/49fc620b.ext.json)
+
+---
+
+### Sri Lanka expects 250,000 tourists in Dec 2024 after ending visa restrictions
+
+*2024-12-15 07:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-expects-250000-tourists-in-dec-2024-after-ending-visa-restrictions-194325/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting 250,000 tourists in December 2024 after the new administration ended a visa system Buddhika Hewawasam, Chairman of Sri Lanka Tourism Authority and Promotions Bureau said.
+
+Sri Lanka tourism sector was hit by a visa crisis after a new visa portal operated by VFS Global and IVS-GBS made it difficult for tourists to get visas and also started charging high fees, scrapping an online system that was globally acclaimed as perhaps the easiest in the word.
+
+“First, after the September election victory, one of the first initiatives the government took was to abolish this particular visa restriction policies maintained by the previous government,” Hewasam said in a video statement.
+
+“Along with that, we created a kind of very attractive and very peaceful and harmonious environment for tourists to come to this country.”
+
+Sri Lanka has welcomed 70,000 tourists within the first 10 days of December.
+
+...
+
+[Data](articles/67d2acfc.json)
 
 ---
 
@@ -1053,6 +1145,8 @@ Before leaving Sri Lanka to work in Guyana in March 1994, I was accustomed to se
 ...
 
 [Data](articles/73bb9563.json)
+
+[Extended Data](ext_articles/73bb9563.ext.json)
 
 ---
 
@@ -2361,93 +2455,5 @@ Accordingly, the first block of the imported Nadarisi is due to arrive Sri Lanka
 [Data](articles/a1046f54.json)
 
 [Extended Data](ext_articles/a1046f54.ext.json)
-
----
-
-### Suspect arrested with stock of commercial explosives in Punewa
-
-*2024-12-14 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104231/suspect-arrested-with-stock-of-commercial-explosives-in-punewa) · `en`
-
-A person has been arrested by the police while in possession of a stock of commercial explosives.
-
-According to police, a group of officers searched a suspicious individual near the Punewa Junction in the Punewa Police Division last night (13).
-
-During the search, the police discovered a detonation cord, 150 grams of ammonium, and one gelignite stick in the suspect’s possession.
-
-The arrested individual is a 53-year-old resident of the Matugama area.
-
-◼️
-
-[Data](articles/8afb75ba.json)
-
-[Extended Data](ext_articles/8afb75ba.ext.json)
-
----
-
-### The Season of Sri Pada Pilgrimage begins
-
-*2024-12-14 10:49:31* · [`adalk`](https://www.ada.lk/religion/ශ්‍රි-පාද-වන්දනා-වාරය-ආරම්භ-කෙරේ/4-413624) · `si`
-
-Sri Pada Pilgrimage 2024-2025 begins at Pelessa Viharaya. Chief Prelate Bengamuwa Sri Dhammala launches event. Four routes opened for pilgrims. Special security measures implemented on Hatton Road.
-
-🟩
-
-Pelssa Vaconsa Viharaya, Chief Prelate of the Maha Sabaragamuwa District, the Chief Prelate of the Maha Sabaragamuwa District, the Chief Sabaragamuwa District of Uva Wellassa, the Chief Prelate of the Kandy district for the year of 2024-2025 was commenced on the Kandy district.Says Bengamuwa Sri Dhammala.
-
-Religious calendar on the Hatton line of the Galpottawawela Halpotavu Viharaya in Ratnapura and the Evevailability of the Panissawella Hatton Road, Ratnapura.After conducting a number of occasions (14), the Sriped Pilgrimage was launched after being deposited in the face of the emergence of a time.
-
-The pilgrims of the Pelpattawawela Rajamaha Viharaya which took place on four routes were started on both sides of the road.
-
-Special Cadiness Operations Hatton on the Sri Pada Hatton on the Sri Pada Hatton Road, Hatton, and Hatton Railway StationHatton Superintendent Dippi Virasey said that from the Sri Pace has been launched to the courtyard.
-
-...
-
-[Data](articles/96fb0384.json)
-
-[Extended Data](ext_articles/96fb0384.ext.json)
-
----
-
-### Landslide early warnings issued for several areas
-
-*2024-12-14 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104230/landslide-early-warnings-issued-for-several-areas) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings for multiple areas in several districts, as heavy rainfall continues in parts of the island.
-
-A senior geologist at the NBRO, Dr. Wasantha Senadeera, stated that the warnings will be in effect until 6.00 p.m. today (Dec. 14).
-
-Accordingly, a Level 2 (Amber) warning has been issued for Haputale Divisional Secretariat Division (DSD) and surrounding areas in the Badulla district.
-
-Meanwhile, a Level 1 (Yellow) warning was issued for the following areas:
-
-◼️
-
-[Data](articles/1e61aa37.json)
-
-[Extended Data](ext_articles/1e61aa37.ext.json)
-
----
-
-### Man arrested with explosives
-
-*2024-12-14 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204361) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Police arrest man with explosives near Poona Junction. Found with 150g ammonium and 1 detonator stick during inspection. Incident occurred yesterday morning.
-
-🟩
-
-A suspicious group of police officers have been inspected by a team of police officers near the Poona Junction of the Poona junction in the morning yesterday.
-
-He had a service string, 150 grams of ammonium and 1 glagnite sticks.
-
-◼️
-
-[Data](articles/2210c6b2.json)
-
-[Extended Data](ext_articles/2210c6b2.ext.json)
 
 ---

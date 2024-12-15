@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 13:12:02**
+As of **2024-12-15 13:26:44**
 
 ## Newspaper Stats
 
-*Scraped **60,251** Articles*
+*Scraped **60,252** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 453
-colombotelegraphcom | 610
+colombotelegraphcom | 611
 bbccomsinhala | 632
 islandlk | 3,646
 economynextcom | 3,669
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,226 (100.0%) of 60,251 articles have been extended.
+60,230 (100.0%) of 60,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,69 +178,97 @@ In such a backdrop, he said that he had decided to resign from the post of Speak
 
 ---
 
-### அமெ­ரிக்கத் தடையின் இலக்கு
+### The target of the US barrier
 
 *2024-12-15 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201315) · `ta`
 
-இலங்­கையில் இடம்­பெற்ற மனித உரிமை மீறல்கள் தொடர்­பாக பொறுப்­புக்­கூ­று­வ­தற்கு அமெ­ரிக்கா அழுத்தம் கொடுத்த போது அதனை எதிர்த்­தது ஜே.வி.பி. ஆனால், ராஜபக்ஷவினர் கால ஊழல் மோச­டி­க­ளுக்கு கண்­டு­பி­டித்து பொறுப்­புக்­கூ­று­வ­தற்கு அமெ­ரிக்கா தடை­களை விதித்து அழுத்தம் கொடுக்­கின்ற போது, அதனை வர­வேற்­றி­ருக்­கி­றது தேசிய மக்கள் சக்தி. இந்த இரண்டு விட­யங்­க­ளிலும் தலை­யி­டு­வது அமெ­ரிக்கா தான்.
+US barrier targets: Human rights in Sri Lanka vs. Rajapaksa corruption. JVP opposes US pressure on rights but supports on corruption. US influence on both issues.
+
+🟩
+
+The JVP opposed it when the US pressed for accountability for human rights violations in Sri Lanka. However, when the US is pressing and pressuring the Rajapaksa to find and responsible for corruption scandals, the national people's power has welcomed it.. It is the US that interferes with these two issues.
 
 ◼️
 
 [Data](articles/750a5080.json)
 
+[Extended Data](ext_articles/750a5080.ext.json)
+
 ---
 
-### இரண்டு லொறிகள் மோதியதில் ஒருவர் பலி: ஐவருக்கு காயம்
+### One person killed in two lorries
 
 *2024-12-15 11:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/இரண்டு-லொறிகள்-மோதியதில்-ஒருவர்-பலி-ஐவருக்கு-காயம்/94-348740) · `ta`
 
-இரண்டு லொறிகள் மோதியதில் ஒருவர் உயிரிழந்துள்ளதுடன் மேலும் ஐவர் காயமடைந்துள்ளதாக தம்புத்தேகம பொலிஸார் தெரிவித்தனர்.
+Accident: 1 dead, 5 injured as two lorries collide in Dambuttegama. Police suspect driver fell asleep.
 
-கொழும்பு அனுராதபுரம் ஏ28 பிரதான வீதியில் தம்புத்தேகம பெல்லன்கடவல பிரதேசத்தில் இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-பண்டாரகமவில் இருந்து அனுராதபுரம் நோக்கி மாம்பழம் ஏற்றிச்செல்ல வந்த சிறிய லொறியும், அநுராதபுரத்திலிருந்து தம்புத்தேகம நோக்கி வீதிகளின் ஓரங்களில் பதிக்கும் (இன்டர்லாக் கற்களை) ஏற்றிச் சென்ற பெரிய லொறியும் நேருக்கு நேர் மோதியதில் இந்த விபத்து ஏற்பட்டுள்ளது.
+Tambuttegama police said that one person was killed and five others were injured when two lorries collided.
 
-சிறிய ரக லொறியின் சாரதியின் நித்திரை கலக்கத்தால் இந்த விபத்து நேர்ந்துள்ளதாக பொலிஸார் சந்தேகிக்கின்றனர்.
+The accident took place in the Bellankadawala area of ​​Dambuttegama on A 28 main road in Colombo.
+
+The accident occurred when a small lorry that came from Bandaragama to Anuradhapura, and a large lorry carrying interlock stones (interlock stones) from Anuradhapura to Tambuttegama from Anuradhapura to Thambuthegama collided face -to -face.
+
+Police suspect that the accident occurred due to the sleep of the driver of the small lorry.
 
 ◼️
 
 [Data](articles/e35d4d7e.json)
 
+[Extended Data](ext_articles/e35d4d7e.ext.json)
+
 ---
 
-### රාජාංගන සහ අංගම ජලාශයේ වාන් දොරටු විවෘත කෙරේ
+### Sluice gates of Rajanganaya and Angama Reservoir Opens
 
 *2024-12-15 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204390) · `si`
 
-ඇද හැළෙන අධික වැසි හමුවේ රාජාංගනය ජලාශයේ වාන් දොරටු හතරක් විවෘත කිරීමට පියවර ගෙන තිබේ.
+Rajanganaya reservoir sluice gates opened due to heavy rains. Four gates released water: 2 to Kala Oya (3775 ft) and 2 to estates (600 ft each).
 
-එක් වාන් දොරටු දෙකක් අඩි දෙක බැගින් ද අනෙක් වාන් දොරටු දෙක අඩි තුන බැගින්ද විවෘත කිරීමට පියවර ගෙන ඇත.
+🟩
 
-මෙයින් තත්ත්පරේට ගණ අඩි 3775ක් කලා ඔයට මුදා හැරෙන බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Steps have been taken to open four sluice gates of the Rajanganaya Reservoir in the face of heavy rains.
 
-අඩි එක බැගින් විවෘත කර ඇති මෙම වාන් දොරටු හරහා තත්ත්පරයට ගණ අඩි 600ක් කලා ඔයට මුදා හැරෙනු ඇත.
+Two sluice gates of two sluice gates and the other two sluice gates have been opened to be opened.
+
+The Department of Irrigation says that 3775 feet are released to the Kala Oya.
+
+Opening of these sluice gates each, will be released to the estate 600 feet to the arts.
 
 ◼️
 
 [Data](articles/38008271.json)
 
+[Extended Data](ext_articles/38008271.ext.json)
+
 ---
 
-### கார் மோதி பொலிஸ் பரிசோதகர் உயிரிழப்பு : சந்தேக நபர் தப்பியோட்டம்
+### Car collision police inspector death: suspect escapes
 
 *2024-12-15 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201313) · `ta`
 
-வத்தேகம பொலிஸ் பிரிவுக்குட்பட்ட மடவல வத்தேகம நகரில் கார் ஒன்று மோதியதில் வீதியில் பயணித்த பொலிஸ் அதிகாரி உயிரிழந்ததாக பொலிஸார் நேற்று சனிக்கிழமை (14) தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-உயிரிழந்தவர் நாரன்தண்ட வீதி, வத்தேகம பகுதியைச் சேர்ந்த, மாத்தளை பொலிஸ் நிலையத்தில் கடமையாற்றிய பிரதான பொலிஸ் பரிசோதகர் (58 வயது) ஆவார்.
 
-வத்தேகமவிலிருந்து மாத்தளை நோக்கிச் பயணித்த கார் வீதியோரம் சென்றுகொண்டிருந்த பொலிஸ் அதிகாரி மீது மோதிவிட்டு, கார் அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-மேலும், விபத்தில் தப்பியோடிய கார் செலுத்துநரை கைது செய்வதற்கான மேலதிக விசாரணைகளை வத்தேகம பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Police inspector killed in car crash. Officer, 58, died when vehicle collided with his car in Madawala Wadegama. Suspect fled scene. Wadegama police investigating to arrest fleeing driver.
+
+🟩
+
+A police officer who was traveling on the street was killed when a car crashed into a car in Madawala Wadegama, belonging to the Wattegama police division, police said yesterday (14).
+
+The deceased was the Chief Inspector (58 years old), who was on duty at the Matale Police Station, Narandanda Road, Wadegama.
+
+The car traveling from Vathekama to Matale was on the road to a police officer and the car had fled, police said.
+
+In addition, the Wadegama police are conducting further investigations to arrest the car driver who fled the accident.
 
 ◼️
 
 [Data](articles/e05070d6.json)
+
+[Extended Data](ext_articles/e05070d6.ext.json)
 
 ---
 
@@ -967,6 +995,20 @@ The suspect, a 36 year old residents of Kekirawa has been arrested by the police
 [Data](articles/98436183.json)
 
 [Extended Data](ext_articles/98436183.ext.json)
+
+---
+
+### Dr. C. Sivandran (1948-2024): Engineer, Industrial Entrepreneur
+
+*2024-12-15 07:33:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-c-sivandran-1948-2024-engineer-industrial-entrepreneur/) · `en`
+
+Writing obituaries becomes a poignant burden when those near and dear to us keep taking their turn while we wait for ours in life’s departure lounge. I have had my share of writing obituaries in the last two years, but this one gets preciously close because Sivandran, who passed away suddenly in Semarang, Indonesia, was my roommate throughout our Peradeniya years and later after graduation. We were best friends.
+
+We were emailing on November 28 and his last email said that his health was a hassle; so, he was winding down in Indonesia and was heading home to Perth. Next day I received the sad news of his demise. “Death, be not proud,” John Donne’s Holy Sonnet came to mind, but more in anger than as  assurance of what comes “one short sleep past.”
+
+...
+
+[Data](articles/b5bc5d78.json)
 
 ---
 
@@ -2285,35 +2327,5 @@ Indian High Commissioner Sanantha said that the Government of India would contin
 [Data](articles/8e6416e4.json)
 
 [Extended Data](ext_articles/8e6416e4.ext.json)
-
----
-
-### Crime Motion Against South Korean President
-
-*2024-12-14 15:56:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்கொரிய-ஜனாதிபதிக்கு-எதிரான-குற்றப்-பிரேரணை-நிறைவேற்றம்/50-348721) · `ta`
-
-South Korean opposition passes second impeachment motion against President Yun Suk Yol. Parliament votes 204-0 to remove him from office. Prime Minister will assume presidential duties temporarily.
-
-🟩
-
-Foreign media reports that the second criminal motion brought by the Opposition parties against South Korean President Yun Suk Yol has been passed.
-
-On the night of December 3, the South Korean opposition parties brought a crime against President Yun Suk Yol on the basis of the implementation of the military law.
-
-However, the first criminal motion was defeated as the ruling People's Power Party, representing the president, boycotted the referendum and left parliament.
-
-Yesterday, the opposition parties took steps to sack the president for the second time.
-
-There, all members representing the South Korean parliament used their votes and voted in favor of 204 members.
-
-Accordingly, the dismissal against South Korean President Yun Suk Yol was passed in Parliament today.
-
-Accordingly, as the current presidency is sacked, the Prime Minister will act as president.
-
-◼️
-
-[Data](articles/098d464e.json)
-
-[Extended Data](ext_articles/098d464e.ext.json)
 
 ---

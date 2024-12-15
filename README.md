@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 03:42:42**
+As of **2024-12-16 04:01:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,351 (100.0%) of 60,371 articles have been extended.
+60,352 (100.0%) of 60,371 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ SJB MP Nalin Bandara announced the party’s decision at a press conference in C
 ...
 
 [Data](articles/5781de3e.json)
+
+[Extended Data](ext_articles/5781de3e.ext.json)
 
 ---
 

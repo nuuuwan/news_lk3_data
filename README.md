@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 00:02:30**
+As of **2024-12-16 00:27:53**
 
 ## Newspaper Stats
 
-*Scraped **60,348** Articles*
+*Scraped **60,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,207 @@ colombotelegraphcom | 611
 bbccomsinhala | 633
 islandlk | 3,646
 economynextcom | 3,671
-dailyftlk | 4,160
+dailyftlk | 4,169
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
 tamilmirrorlk | 8,622
-virakesarilk | 9,936
+virakesarilk | 9,938
 adaderanasinhalalk | 10,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,327 (100.0%) of 60,348 articles have been extended.
+60,331 (100.0%) of 60,359 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-16 (Monday)
+
+### National Chamber, NEDA organise Western Province Entrepreneur Awards 2024 in grandeur
+
+*2024-12-16 00:11:01* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-NEDA-organise-Western-Province-Entrepreneur-Awards-2024-in-grandeur/34-770543) · `en`
+
+The Best Entrepreneur of the Year 2024 – Western Province Gold Award – Union Chemicals Lanka
+
+The Best Entrepreneur of the Year 2024 – Western Province Joint Silver Award –Everbolt Engineering
+
+The Best Entrepreneur of the Year 2024 – Western Province Joint Silver Award –Infinity Green International
+
+The Best Entrepreneur of the Year 2024 – Bronze Award – British Institute of Management and Technology
+
+...
+
+[Data](articles/96430fcc.json)
+
+---
+
+### C.W. Mackie appoints two new members to Board
+
+*2024-12-16 00:06:36* · [`dailyftlk`](https://www.ft.lk/business/C-W-Mackie-appoints-two-new-members-to-Board/34-770542) · `en`
+
+C.W. Mackie PLC has announced the appointment of Indrajith Wickramasinghe and Shrihan B. Perera to its Board as Independent Non-Executive Directors with effect from 30 December 2024.
+
+The Company also announced the retirement of Ajit Jayaratne, Chrisantha Perera, Sanjeev Rajaratnam and A. Hettiarachchy from 30 December 2024.
+
+Wickramasinghe was the former Director/Chief Executive Officer of Union Bank for over nine years up to his retirement on 15 August 2024. He counts over 35 years of management experience having worked in both the financial services and FMCG sectors in local and multinational companies. He holds an MBA from the University of Sri Jayewardenepura, and is a Fellow of the Chartered Institute of Marketing UK. He has been exposed to Executive Education programs at the National University of Singapore, The Said Business School of the University of Oxford UK and INCEAD (France). He is a member of the Oxford Business Alumni, University of Oxford UK.
+
+...
+
+[Data](articles/0a58a036.json)
+
+---
+
+### Embassy in Brussels promotes SL as gateway to businesses
+
+*2024-12-16 00:01:21* · [`dailyftlk`](https://www.ft.lk/business/Embassy-in-Brussels-promotes-SL-as-gateway-to-businesses/34-770541) · `en`
+
+Sri Lankan Embassy in Brussels Minister – Commercial Thavishya Mullegamgoda
+
+Honorary Consul of Sri Lanka in Antwerp Monique De Decker-Deprez
+
+The Embassy of Sri Lanka in Brussels presented Sri Lanka’s notable economic recovery and emerging opportunities in trade, investment, and tourism sectors to over 35 prominent representatives from the Belgian private sector, on 5 December in the Antwerp Region in Belgium.
+
+...
+
+[Data](articles/eddb0021.json)
+
+[Extended Data](ext_articles/eddb0021.ext.json)
+
+---
+
 ### 2024-12-15 (Sunday)
+
+### Netherlands’ BRAC retains MTI for 10 country policy assignment
+
+*2024-12-15 23:57:28* · [`dailyftlk`](https://www.ft.lk/business/Netherlands-BRAC-retains-MTI-for-10-country-policy-assignment/34-770540) · `en`
+
+MTI Consulting CEO Hilmy Cader (left) and MTI North America Director Naush Beg
+
+Stichting BRAC International, registered in the Netherlands, has completed a strategic policy review with MTI Consulting.
+
+The scope of the assignment involved detailed review of policies and stakeholder consultations, supplemented by domain research, research of international best fit practices and subject matter expertise. MTI had consultations with the BRAC International Dhaka Office, Africa Regional Office in Kenya as well as the 10 countries in which BRAC International has operations (Afghanistan, Myanmar, Philippines, Rwanda, South Sudan, Tanzania, Uganda, Liberia, Sierra Leone, and Ghana).
+
+BRAC International works across 14 countries with people and communities in situations of poverty, illiteracy, disease and social injustice to achieve large-scale, positive changes through economic and social programmes that enable women and men to realise their potential.
+
+...
+
+[Data](articles/906daa56.json)
+
+---
+
+### Dr. Nilupul Perera new Chairman of Lanka Hospitals Corporation
+
+*2024-12-15 23:55:21* · [`dailyftlk`](https://www.ft.lk/business/Dr-Nilupul-Perera-new-Chairman-of-Lanka-Hospitals-Corporation/34-770539) · `en`
+
+Lanka Hospitals Corporation PLC, has announced the appointment of Dr. M. Nilupul Perera, a distinguished Consultant Neuro Physician, as its new Chairman.
+
+Dr. Perera brings over 18 years of extensive clinical experience to this leadership role. Throughout his illustrious career, he has served in prominent hospitals across Sri Lanka, including Base Hospital Gampola, Teaching Hospital Peradeniya, Sri Jayawardenapura Hospital, Institute of Neurology at the National Hospital of Sri Lanka, Teaching Hospital Kurunegala, and General Hospital Anuradhapura.
+
+...
+
+[Data](articles/6943a601.json)
+
+---
+
+### As Dissanayake visits, India must embrace Sri Lanka’s new dawn
+
+*2024-12-15 23:50:16* · [`dailyftlk`](https://www.ft.lk/columns/As-Dissanayake-visits-India-must-embrace-Sri-Lanka-s-new-dawn/4-770537) · `en`
+
+This week, Modi will learn that under AKD’s tenure, Sri Lanka too will seek to strike the right balance of partnerships between India, China and other global powers, in a manner that is ultimately calibrated towards the best long-term interests of Sri Lanka. Dissanayake has the savvy to appreciate the importance of maintaining strong ties with India, but is extremely unlikely to compromise his principles in doing so
+
+One side-effect of the polarising effect of nationalism and populism around the world in recent years has been a decrease in the political stability and mandate enjoyed by incumbent regimes. From the erosion of nationalist hegemony in Malaysia or India to the rise of populism in the United States and pockets of Europe, swings in both directions have led to fragile coalitions, divided legislatures and a rise in uncertainty.
+
+...
+
+[Data](articles/ce032134.json)
+
+---
+
+### Maintaining cohesiveness within NPP
+
+*2024-12-15 23:46:49* · [`dailyftlk`](https://www.ft.lk/columns/Maintainingcohesiveness-within-NPP/4-770536) · `en`
+
+How will the NPP inculcate their preference and behaviour among the new faces in the Parliament?
+
+Every single member in the party must understand and absorb the vision of the leadership of the NPP. The stated vision must be transparent and explicit. It must not provide loopholes for a cynic to implicitly translate unfavourably. They all must share the same vision as that of the leadership. Once this is established they are able to formulate the missions that are relevant for their own territories of work
+
+Many of our previous Governments of recent times fell into major problems since the leadership lost control of its party members. The problem was further compounded since quite a few of them were coalition governments. The NPP is a single party government with enormous power. Yet NPP can’t afford to remain complacent.
+
+...
+
+[Data](articles/f324337f.json)
+
+---
+
+### Increasing tax revenue without hiking tax burden
+
+*2024-12-15 23:38:25* · [`dailyftlk`](https://www.ft.lk/columns/Increasing-tax-revenue-without-hiking-tax-burden/4-770535) · `en`
+
+Taxes are certainly essential to fund public services and infrastructure, but a disproportionately high tax burden can backfire
+
+No one willingly parts what they own, unless the return is of equal or greater value, regardless of its tangibility – and this applies to taxes as well. The million-dollar question for Sri Lankan taxpayers is: what do we really get in return for the taxes we pay?
+
+Despite the Government’s efforts to promote taxation as a civic duty, flawed tax policies are undermining public trust. The fundamental principle of taxation is fairness, which means taxation should be based on ability to pay.
+
+However, the previous Government’s decision to reduce VAT and income tax thresholds and to increase their tax rates, amid inflation that has risen from 9% to an unprecedented 70% in 2022, was anything but prudent. Such a move contradicted the fundamental principle of easing the tax burden during an economic downturn.
+
+...
+
+[Data](articles/e0783791.json)
+
+---
+
+### Critique on Engineering Council of Sri Lanka, its Act and conduct
+
+*2024-12-15 23:29:37* · [`dailyftlk`](https://www.ft.lk/columns/Critique-on-Engineering-Council-of-Sri-Lanka-its-Act-and-conduct/4-770533) · `en`
+
+The circular sought to compel all engineers, including those with foreign qualifications or specialised knowledge in fields not recognised by IESL or IIESL, to conform to the ECSL’s registration requirements
+
+The absence of a properly defined hierarchy among engineering practitioners – one that accounts for both academic qualifications and practical experience – created confusion and uncertainty within the profession. It was argued that any attempt to regulate engineers without first establishing such a hierarchy was both arbitrary and irrational. This argument underscores the ECSL’s lack of preparedness and its failure to establish a coherent regulatory framework before issuing far-reaching directives through the circular
+
+...
+
+[Data](articles/e6052720.json)
+
+---
+
+### பிரபல தபேலா இசைக் கலைஞர் ஜாகிர் உசேன் காலமானார்..!
+
+*2024-12-15 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201378) · `ta`
+
+பிரபல தபேலா இசைக் கலைஞர் ஜாகிர் உசேன் உடல்நலக்குறைவால் காலமானார். அவருக்கு வயது 73. இந்திய பாரம்பரிய இசையான தபேலாவை உலகெங்கும் பறைசாற்றியவர் மும்பையைச் சேர்ந்த ஜாகிர் உசேன்.
+
+அமெரிக்காவில் வசித்து வந்த ஜாகிர் உசேனுக்கு கடந்த ஒரு வார காலமாக இதயம் தொடர்பான பிரச்சனை இருந்தது.
+
+அவருக்கு மருத்துவர்கள் தீவிர சிகிச்சை அளித்து வந்தனர். இருப்பினும், சிகிச்சை பலனளிக்காத நிலையில் ஞாயிற்றுக்கிழமை (டிச.15) அவர் காலமானார்.
+
+ஜாகிர் உசேன் 1988ல் பத்மஸ்ரீ, 2002ல் பத்ம பூஷன் மற்றும் 2023ல் பத்ம விபூஷன் ஆகிய விருதுகளை பெற்றுள்ளார்.
+
+1990ல் இந்திய அரசின் சங்கீத நாடக அகாடமி விருதும், சங்கீத நாடக அகாடமி பெல்லோஷிப், 2018ல் ரத்னா சத்யா விருதும் அவருக்கு வழங்கப்பட்டது. 2024 பிப்ரவரியில் அவர் மூன்று கிராமி விருதுகளை பெற்றுள்ளார்.
+
+◼️
+
+[Data](articles/05393725.json)
+
+---
+
+### வலய பாதுகாப்பு தொடர்பில் இந்திய பாதுகாப்பு ஆலோசகருடன் ஜனாதிபதி கலந்துரையாடல்!
+
+*2024-12-15 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201377) · `ta`
+
+வலய பாதுகாப்பு தொடர்பில் இந்திய பாதுகாப்பு ஆலோசகர் ஸ்ரீ அஜித் தோவாலுக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும் இடையில் கலந்துரையாடலொன்று இடம்பெற்றுள்ளது.
+
+உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு இந்தியாவிற்கு ஞாயிற்றுக்கிழமை (15) பிற்பகல் சென்ற ஜனாதிபதி அனுரகுமார திஸாநாயக்க உள்ளிட்ட குழுவினருக்கு புதுடில்லியில் சிறப்பான வரவேற்பு அளிக்கப்பட்டது.
+
+வெளிநாட்டு அலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ உள்ளிட்டோரும் இந்த சுற்றுப்பயணத்தில் கலந்துகொண்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9656fb4a.json)
+
+---
 
 ### Indian Foreign Minister Jaishankar meets President Anura Kumara
 
@@ -202,41 +386,63 @@ It was difficult to ascertain the precise death toll after the cyclone, which al
 
 ---
 
-### ஜனாதிபதி அநுரவிற்கு இந்தியாவில் ஆரவாரமான வரவேற்பு
+### President Anura is a cheerful welcome in India
 
 *2024-12-15 22:23:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரவிற்கு-இந்தியாவில்-ஆரவாரமான-வரவேற்பு/175-348774) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க இன்று (15) பிற்பகல் 5.30 மணியளவில் புதுடில்லி இந்திராகாந்தி விமான நிலையத்தை சென்றடைந்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-இந்திய தகவல் தொழில்நுட்ப அமைச்சர் கலாநிதி எஸ்.முருகன், இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, இந்து சமுத்திர வலயத்தின் மேலதிகச் செயலாளர் புனித் அகர்வால், இந்திய உபசரணைப் பிரதானி அன்ஷுமன் கவூர் உள்ளிட்ட இராஜதந்திரிகள் ஜனாதிபதிக்கு விமான நிலையத்தில் சிறப்பு வரவேற்பளித்தனர்.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் விஜயம் தொடர்பில் இந்திய ஊடகங்கள் சிறப்பாக பிரசாரம் செய்திருந்ததுடன், புதுடில்லி நகரின் பிரதான சுற்றுவட்டாரத்தில் ஜனாதிபதி மற்றும் பிரதமர் நரேந்திர மோடியின் புகைப்படங்கள் அடங்கிய பதாகைகளும் காட்சிப்படுத்தப்பட்டிருந்தன.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க, இந்திய வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர், இந்திய பாதுகாப்பு  ஆலோசகர் ஸ்ரீ அஜித் தோவால்  உள்ளிட்டவர்களை இன்று (15) இரவு சந்தித்து கலந்துரையாடவுள்ளார்.
+Pres. Anura Kumara Dissanayake arrives in New Delhi. Welcomed by IT Min., High Comm'r, & officials. Media campaign features Pres. & PM Modi. To meet with External Affairs Min. & Defense Advisor.
 
-...
+🟩
+
+President Anura Kumara Dissanayake arrived at the Indira Gandhi airport in New Delhi at 5.30 pm today.
+
+Indian Information Technology Minister Dr. S. Murugan, Indian High Commissioner Santosh Ja, Additional Secretary of the Indian Ocean Zone, Punit Agarwal and Indian Treatment Chief Ansuman Kavur gave a special welcome to the President at the airport.
+
+The Indian media has made a special campaign on the visit of President Anura Kumara Dissanayake and the banners of President and Prime Minister Narendra Modi in the main surroundings of New Delhi.
+
+President Anura Kumara Dissanayake, Indian External Affairs Minister Dr. S. Jaishankar and Indian Defense Advisor Sri Ajith Doa will meet with the meeting.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath. (A)
+
+◼️
 
 [Data](articles/c8a389c9.json)
 
+[Extended Data](ext_articles/c8a389c9.ext.json)
+
 ---
 
-### ජනපති ඉන්දීය රාජ්‍ය තාන්ත්‍රික සාකච්ඡා අරඹයි
+### President launches Indian diplomatic talks
 
 *2024-12-15 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204408) · `si`
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක් සඳහා සහභාගි වී සිටින ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (15) රාත්‍රියේදී ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා හමු වූ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+Sri Lankan President Anura Kumara Dissanayake visits India for diplomatic talks. Discusses economic revival, tourism, investments, and energy cooperation. Focuses on promoting fisheries, national unity, and Indo-Sri Lanka relations.
 
-එමෙන්ම එරට මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතා රාමන් මහත්මිය සහ ඉන්දියාවේ ජාතික ආරක්ෂක උපදේශක ශ්‍රී අජිත් දොවාල් යන මහත්ම මහත්මීන් මෙහිදී හමු වී ඇත.
+🟩
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ආචාර්ය එස්. ජයිශංකර් මහතා අතර පැවැත් වූ හමුවේදී මෙරට ආර්ථික පුනරදයක් ඇතිකිරීම සඳහා ඉන්දියාවේ දැවැන්ත වෙළෙඳපොළ ප්‍රයෝජනයට ගැනීමේ හැකියාව පිළිබඳ වැඩි අවධානයට ලක්ව ඇත.
+President Anura Kumara Dissanayake has participated in a three-day official visit to India at Indian External Affairs Dr. S.. The Presidential Media Unit said he met Mr. Jeyishankar.
 
-එමෙන්ම ශ්‍රී ලංකාවේ සංචාරක, ආයෝජනය සහ බලශක්ති ක්ෂේත්‍ර සඳහා සහාය දැක්වීමට ඉන්දියානු රජය එකඟතාවය පළකරන බවද ජයිශංකර් මහතා ජනාධිපතිවරයා හමුවේ පවසා තිබේ.
+Mrs. Namula Sehaetha Raman and Sri Ajith DhoWal has also been found.
 
-මීට අමතරව ධීවර කර්මාන්තය සහ ජාතික සමගිය ප්‍රවර්ධනය කිරීම ඇතුළු අන්‍යොන්‍ය වශයෙන් උනන්දුවක් දක්වන ක්ෂේත්‍ර පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානය යොමුකර ඇත.
+President Anura Kumara Dissanayake and Dr. S.. At the meeting held between Mr. Jeyzankar, India's massive market capacity was attracted to a country's economic revival.
+
+The Indian government has agreed to support Sri Lanka's tourism, investment and energy areas.
+
+In addition, the discussion has also focused on the fields of interested in the promotion of fisheries and national unity.
+
+Meanwhile, the President and Nirmala Sehaetha Raman have been extensively discussed in the discussion between Mrs. Indo-Sri Lanka and expanding investment opportunities between the two countries.
+
+Most of the Indians have paid more attention to Sri Lanka's agricultural and digital infrastructure development.
 
 ...
 
 [Data](articles/6a2e235d.json)
+
+[Extended Data](ext_articles/6a2e235d.ext.json)
 
 ---
 
@@ -260,17 +466,23 @@ Later tonight, President Anura Kumara Dissanayake is scheduled to hold discussio
 
 ---
 
-### ඉන්දියාවේ දී ඇගයූ තරිඳුගේ හැකියාව
+### Tharindu's ability evaluated in India
 
 *2024-12-15 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204407) · `si`
 
-ඉන්දියාවේ මුම්බායි නුවර පැවති 'සැන්චුවරි ඒෂියා වයිල්ඩ් ලයිෆ් ෆොටෝග්‍රැෆර් ඔෆ් දි ඉයර්' තරගාවලියේදී වසරේ විශිෂ්ටතම ඡායාරූපකරණයට හිමි සම්මානය දිනාගැනීමට ශ්‍රී ලංකාවේ තරිඳු ඩිල්ෂාන් සෙන්දනායක සමත්විය.
+Tharindu Dilshan wins Great Photography Award in Mumbai, India. First Sri Lankan to receive this wildlife photography honor.
 
-වනජීවී ඡායාරූපකරණය වෙනුවෙන් පැවැත්වෙන මෙම තරගාවලියේදී මෙම සම්මානය ජයගත් පළමු ශ්‍රී ලාංකිකයා තරිඳු ඩිල්ෂාන් සෙන්දනායක වේ.
+🟩
+
+Tharindu Dilshan Saenenayake in Sri Lanka to win the Great Photography Award of the Year at Mumbai, India.
+
+Tharindu Dilshan is the first Sri Lankan to win the award in this tournament for wildlife photography.
 
 ◼️
 
 [Data](articles/70afa668.json)
+
+[Extended Data](ext_articles/70afa668.ext.json)
 
 ---
 
@@ -2139,275 +2351,5 @@ The department has cautioned that failure to meet this deadline will result in t
 [Data](articles/93b45a9f.json)
 
 [Extended Data](ext_articles/93b45a9f.ext.json)
-
----
-
-### SJB to propose opposition-aligned Speaker for Parliament
-
-*2024-12-15 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104251/sjb-to-propose-opposition-aligned-speaker-for-parliament) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Nalin Bandara announced that the opposition plans to propose a new Speaker for Parliament, representing the opposition, next Tuesday (17).
-
-Speaking at a media conference held in Colombo today (15), MP Bandara expressed concerns over recent developments in Parliament and the country’s governance.
-
-“The Parliament will convene on Tuesday, and a new Speaker must be appointed. We intend to present a Speaker who truly represents the opposition, not someone with questionable credentials,” Bandara stated, adding that no specific name has been proposed yet, but a meeting will be held tomorrow (16) to finalize the decision.
-
-Bandara criticized the government, alleging deceit in their handling of national issues. “We are deeply disappointed that they have misled the entire country. They claim to clean up Parliament but have instead undermined education qualifications and governance,” he said.
-
-...
-
-[Data](articles/ab4215aa.json)
-
-[Extended Data](ext_articles/ab4215aa.ext.json)
-
----
-
-### Four sluice gates opened in Rajanganaya Reservoir
-
-*2024-12-15 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104250/four-sluice-gates-opened-in-rajanganaya-reservoir) · `en`
-
-Four sluice gates of the Rajanganaya Reservoir have been opened following heavy rainfall.
-
-The Department of Irrigation stated that steps have been taken to open one of the two sluice gates by two feet each and the other gate by three feet each.
-
-It is reported that approximately 3,775 cubic meters of water per second is being released into the Kala Oya from the opened sluice gates.
-
-Meanwhile, two sluice gates have been opened in the Angama Reservoir.
-
-These sluicegates, which are opened one foot at a time, will release cubic meters of water per second into the Kala Oya, according to the Department of Irrigation.
-
-◼️
-
-[Data](articles/bd587dbb.json)
-
-[Extended Data](ext_articles/bd587dbb.ext.json)
-
----
-
-### Livestock farm employee killed in plowing machine
-
-*2024-12-15 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201308) · `ta`
-
-A livestock farm employee was fatally injured while feeding cattle on a plowing machine in Sri Lanka. The 55-year-old farm inspector from Ambewela died after being rushed to Nuwara Eliya Hospital. Police are investigating the incident.
-
-🟩
-
-Police said that an Ambbeewela cattle farm employee was supplying food to cattle on Saturday (14) in the Nuwara Eliya -Patipola police division.
-
-The victim was seriously injured and died after being admitted to the Nuwara Eliya Hospital, police said.
-
-The deceased is a 55 -year -old farm inspector from Sirisamangama, Ambewela.
-
-◼️
-
-[Data](articles/4d980c42.json)
-
-[Extended Data](ext_articles/4d980c42.ext.json)
-
----
-
-### President to launches Indian official visit
-
-*2024-12-15 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204392) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake begins official visit to India today. He'll meet with Indian leaders, discuss investment & trade ties, and promote Buddhist relations. This is his first foreign trip as president.
-
-🟩
-
-Indian official visit to President Anura Kumara Dissanayake commenced today (15).
-
-Accordingly, the President leaves for India today, "said External Affairs Ministry said that he will visit India until the 17th.
-
-This is also the first foreign visit to Mr. Mahana Dissanayake after he was appointed president.
-
-The President leaves the visit on the invitation of Mrs. President Mahinda Rajapakse Mrs. Murmi.
-
-Accordingly, the President is due to hold bilateral talks with Indian President Mahinda Rajapaksa and Indian Prime Minister Narendra Modi.
-
-The President will also hold bilateral talks with several other strong ministers of India.
-
-During his visit, the President is also to join the promotion of investment and commercial relationships between India and Sri Lanka and is to visit the Buddha.
-
-In a statement of the President's visit to India, the Indian Foreign Ministry says Sri Lanka is a leading neighborhood in the Indian Ocean region.
-
-...
-
-[Data](articles/772873a5.json)
-
-[Extended Data](ext_articles/772873a5.ext.json)
-
----
-
-### In stock of imported rice
-
-*2024-12-15 12:23:24* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-සහල්-තොගයක-ගුල්ලන්/11-413637) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Imported rice shortage: Health sector restrictions prevent private importers from bringing rice into the country. Three containers were initially blocked. Two contain rice, while one container's expiration date was altered.
-
-🟩
-
-Health sector has not been permitted by private importers to not live in the country. Accordingly, the rice held in three containers had not been brought to the country.
-
-Rice had been in rice held in two containers and has changed the date of expired in another container.
-
-◼️
-
-[Data](articles/c86fec4f.json)
-
-[Extended Data](ext_articles/c86fec4f.ext.json)
-
----
-
-### Decision to ask for an explanation from parliamentary officials
-
-*2024-12-15 12:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உத்தியோகத்தர்களிடம்-விளக்கம்-கேட்க-முடிவு/175-348744) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliament investigating incorrect academic credentials online. Officials reviewing MP information on website. Mistake found in Minister Harshana Nanayakkara's profile. Corrective action underway to remove false degree claim.
-
-🟩
-
-Following the discovery of some degrees, the process of re -checking and renewing all the MPs on the parliamentary website is underway.
-
-Parliamentary officials have also decided to ask those in charge of renewing information on the Internet.
-
-Meanwhile, the Department of Communications of Parliament said that the title of Dr. Harshana Nanayakkara has been mentioned before the Minister of Justice and National Integration, Harshana Nanayakkara.
-
-It is noteworthy that Harshana Nanayakkara did not mention the doctor's degree in the information provided to Parliament.
-
-The degree of exhibition in front of the minister's name is the result of a mistake in entering the corresponding data. Accordingly, steps have been taken to correct this mistake.
-
-◼️
-
-[Data](articles/e0340c64.json)
-
-[Extended Data](ext_articles/e0340c64.ext.json)
-
----
-
-### What is the future of one million Eelam Tamils ​​who have taken refuge in Tamil Nadu?
-
-*2024-12-15 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201320) · `ta`
-
-Future uncertain for 1m Eelam Tamils in Tamil Nadu. Past resettlement efforts insufficient. Ongoing challenges remain.
-
-🟩
-
-Some activities have been carried out in the past to resettle Eelam Tamils ​​in Tamil Nadu. A few thousand Eelam Tamils ​​have returned home. But it was not enough.
-
-◼️
-
-[Data](articles/eaf6baba.json)
-
-[Extended Data](ext_articles/eaf6baba.ext.json)
-
----
-
-### The regime crisis and the geopolitical, the global crisis
-
-*2024-12-15 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201317) · `ta`
-
-Sri Lanka faces dual crises: regime and geopolitical. Global powers vie for influence, with US-India and China competing for interests. Competition spreads to Jaffna, impacting local politics.
-
-🟩
-
-The second is the geopolitical crisis. Sri Lanka has become a global politics competition. Geological and geopolitical forces have a major role in determining the political affairs of Sri Lanka. There is fierce competition in maintaining their interests between the US -Indian partnership and China with conflicting interests. Today, the competition has begun to spread to Jaffna.
-
-◼️
-
-[Data](articles/5651295c.json)
-
-[Extended Data](ext_articles/5651295c.ext.json)
-
----
-
-### Bus - motorcycle accident;Death
-
-*2024-12-15 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201314) · `ta`
-
-Motorcycle-Bus collision: One killed on Wellawaya road. Driver injured, died untreated. Bus driver arrested.
-
-🟩
-
-One person was killed on Saturday (14) when a bus collided with a motorcycle on the Wellawaya road in Thanamalwila police division.
-
-The bus was traveling from Wellawaya to Thanamalwila and crashed into a motorcycle in Parakramapura area.
-
-A motorcycle driver who was injured in the accident was admitted to the Tanamalwila Hospital and died without treatment.
-
-The body was placed in the funeral room of the Tanamalwila hospital and the bus driver was arrested.
-
-◼️
-
-[Data](articles/bd2fefbd.json)
-
-[Extended Data](ext_articles/bd2fefbd.ext.json)
-
----
-
-### Controversy on Speaker: Government's action is welcome - Jeevan
-
-*2024-12-15 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201281) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jeevan Thondaman welcomes govt's effort to address Speaker Asoka Ranwala's resignation controversy. He criticizes govt's selection process for key positions, saying proper oversight could've prevented the issue.
-
-🟩
-
-Although the resignation of Speaker Asoka Ranwala is essential, United National Party (UNP) parliamentarian Jeevan Thondaman has said that the government's efforts to repair the situation are welcome, but the government's attempt to repair the situation is welcome, but the government's decision to decide on important posts.
-
-In the midst of a controversy over the doctor's degree, the Speaker has resigned as his Speaker. This is the first time a Speaker resigns in the history of Parliament of Sri Lanka.
-
-In this case, United National Party (UNP) MP Jeevan Thondaman made this statement on his official X.
-
-The resignation of Speaker Ashoka Ranwala reflects the impatient deficiency in the government's decision when choosing important positions for important positions. I appreciate the government's attempt to correct this situation in particular. It is clear that this problem may have been avoided with the right supervision.
-
-...
-
-[Data](articles/97bef1c8.json)
-
-[Extended Data](ext_articles/97bef1c8.ext.json)
-
----
-
-### Opposition is a name for the post of Speaker
-
-*2024-12-15 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204391) · `si`
-
-N
-
-🟩
-
-Parliamentarian Nalin Bandara says that the Opposition is named for a name for the post of Speaker.
-
-He was speaking at a media briefing in Colombo today (15).
-
-The name is proposed at the 17th meeting of the 17th meeting, MP Nalin Bandara.
-
-"The JVP must act as a responsible party. Clearly, the Speaker is not enough to resign. The people of the country have been mislead. You have to leave his own MP. We have a serious criticism in this regard. We hope to suggest a speech on Tuesday. Because we have no faith in the qualifications or confidence of the person who despises Speaker. There is serious doubt about this. The next time we can't be deceived. We too were deceived. So we will definitely suggest the next parliamentary opposition. But it does not guarantee the false educational guy. "
-
-Meanwhile, there was an intense controversy in the country recently regarding the doctorate in the country recently.
-
-In such a backdrop, he said that he had decided to resign from the post of Speaker.
-
-...
-
-[Data](articles/e9838c73.json)
-
-[Extended Data](ext_articles/e9838c73.ext.json)
 
 ---

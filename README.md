@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 16:42:01**
+As of **2024-12-15 16:59:42**
 
 ## Newspaper Stats
 
-*Scraped **60,292** Articles*
+*Scraped **60,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ islandlk | 3,646
 economynextcom | 3,669
 dailyftlk | 4,160
 dailymirrorlk | 4,733
-adalk | 5,723
+adalk | 5,724
 adaderanalk | 7,345
 tamilmirrorlk | 8,617
-virakesarilk | 9,915
-adaderanasinhalalk | 10,424
+virakesarilk | 9,917
+adaderanasinhalalk | 10,427
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,265 (100.0%) of 60,292 articles have been extended.
+60,265 (99.9%) of 60,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### Three arrested with Kokain and Kush drugs in Wellawatte
+
+*2024-12-15 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201322) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"3 arrests made in Wellawatte: 26yo from Dehiwala caught with 36g cocaine & 203g kush. Investigation led to arrest of 2 more: 24yo from Mattakkuli & 25yo from 14 area. Total seizures: cocaine, kush, cash, phones, scales."
+
+🟩
+
+Three suspects have been arrested with cocaine and kush narcotics in the Colingwood Mawatha area of ​​the Wellawatte Police Division, police said.
+
+A 26 -year -old from Dehiwala area was arrested yesterday (14) during a round -up by a group of officials of the Valana Anti -Corruption Unit.
+
+The suspect seized 36 grams of cocaine, 203 grams of kush drugs, 1,875,000 rupees, 05 mobile phones, 05 mobile phones, money counting machine, 02 bank cards and electronic scales.
+
+Following the investigation into the suspect, two more suspects were arrested with 33 grams of 600 milligrams of kush drugs in the Colingwood Mawatha area.
+
+The arrested persons are 24 and 25 years old from Mattakkuli and 14 areas.
+
+◼️
+
+[Data](articles/8f01eedd.json)
+
+[Extended Data](ext_articles/8f01eedd.ext.json)
+
+---
+
+### වැඩබලන අමාත්‍යවරු 05 දෙනෙක් පත් කෙරේ
+
+*2024-12-15 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204400) · `si`
+
+නිල සංචාරයක් සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා දිවයිනෙන් පිටත්ව යාම හේතුවෙන් අමාත්‍යාංශ 05ක් සඳහා වැඩබලන අමාත්‍යවරු පත් කර තිබේ.
+
+ජනාධිපතිවරයා යටතේ පවතින ඩිජිටල් ආර්ථික අමාත්‍යාංශය, ආරක්ෂක අමාත්‍යාංශය සහ මුදල් හා ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය යන අමාත්‍යාංශය 03 සඳහා මෙන්ම විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය හා කම්කරු අමාත්‍යාංශය සඳහා ද මෙලෙස වැඩබලන අමාත්‍යවරු පත් කර ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදය කරයි.
+
+*ඩිජිටල් ආර්ථික වැඩබලන අමාත්‍යවරයා ලෙස ඩිජිටල් ආර්ථික නියෝජ්‍ය අමාත්‍ය ඉංජිනේරු එරංග වීරරත්න මහතා
+
+*ආරක්ෂක වැඩබලන අමාත්‍යවරයා ලෙස ආරක්ෂක නියෝජ්‍ය අමාත්‍ය අරුණ ජයසේකර මහතා
+
+*මුදල් හා ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන වැඩබලන අමාත්‍යවරයා ලෙස මුදල් හා ක්‍රම සම්පාදන නියෝජ්‍ය අමාත්‍ය ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා
+
+*විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක වැඩබලන අමාත්‍යවරයා ලෙස විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය අරුන් හේමචන්ද්‍ර මහතා
+
+*කම්කරු වැඩබලන අමාත්‍යවරයා ලෙස කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා, ලෙස පත් කිරීම් කර ඇති බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/f61cfa24.json)
+
+---
+
+### வடக்கில் உயிர்­களை  காவு­கொள்ளும் காய்ச்சல்
+
+*2024-12-15 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201354) · `ta`
+
+வயல்­களில் வேலை செய்யும் விவ­சா­யிகள், சேற்று நிலங்­களில் பயிர்ச்­செய்­கை­களில் ஈடு­ப­டு­ப­வர்கள், ஆறுகள் அல்­லது வயல் வெளி­களில் செங்கல் தயா­ரித்தல் அல்­லது மணல் அள்­ளுதல் போன்ற செயற்­பா­டு­களில் ஈடு­ப­டு­ப­வர்கள், இரத்­தி­னக்கல் சுரங்கத் தொழி­லா­ளர்கள், சேற்று நிலம் அல்­லது நீர் தேங்­கிய இடங்­களில் விளை­யாட்டு அல்­லது செயற்­பா­டு­களில் ஈடு­ப­வர்கள் இந்த நோய்த் தாக்­கத்­துக்கு இல­கு­வாக உள்­ளாகக் கூடி­ய­வர்­க­ளாக உள்­ளனர்.
+
+◼️
+
+[Data](articles/e78e2786.json)
+
+---
+
+### රජරට රැජින හා සාගරිකා එකිනෙක ගැටීම ගැන විමර්ශනයක්
+
+*2024-12-15 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204399) · `si`
+
+අද (15) පෙරවරුවේ බෙලිඅත්ත දුම්රිය ස්ථානයේ දී රජරට රැජින හා සාගරිකා දුම්රියේ එංජිම එකිනෙක ගැටීමෙන් සිදුවූ අනතුර සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව විමර්ශනයක් ආරම්භ කර තිබේ.
+
+බෙලිඅත්තේ සිට අනුරාධපුරය දක්වා ධාවන වූ රජරට රැජින දුම්රියේ එංජිම මාරු කිරීමේදී වැරදි පීල්ලේ ධාවනය වීම හේතුවෙන් එහි නවතා තිබූ සාගරිකා දුම්රියේ ගැටී අනතුර සිදුව ඇති බව වාර්තා වේ.
+
+දුම්රිය දෙපාර්තමේන්තුව පවසා සිටියේ, එම දුම්රිය හෙට (16) උදෑසන ධාවනයට එක් කිරීමට නොහැකි තත්ත්වයක් මතුව ඇති බවයි.
+
+මෙම අනතුර හේතුවෙන් අද පෙ.ව. 8.45ට බෙලිඅත්තේ සිට අනුරාධපුර බලා ධාවනය වීමට නියමිතව තිබූ රජරට රැජින දුම්රිය ද ප්‍රමාද වී ධාවනය කිරීමට සිදුවිය.
+
+◼️
+
+[Data](articles/bede4cca.json)
+
+---
+
+### பொலிஸார் என கூறி குடும்பஸ்தரை தாக்கிய கும்பல் - முல்லைத்தீவில் சம்பவம்
+
+*2024-12-15 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201341) · `ta`
+
+முல்லைத்தீவு முள்ளியவளை தண்ணீரூற்று பிரதேசத்தில் வீட்டிலிருந்த குடும்பஸ்தர் ஒருவர் மீது நேற்று சனிக்கிழமை (14) வெள்ளை வேனில் வந்த சிலர் தாக்குதல் நடத்தியதில், பாதிக்கப்பட்ட நபர் முல்லைத்தீவு மாவட்ட மருத்துவமனையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணத்தைச் சேர்ந்த நபர்கள் என சந்தேகிக்கப்படுபவர்களுக்கும்  தாக்குதலுக்கு இலக்கான குடும்பஸ்தருக்கும் இடையில் கொடுக்கல் - வாங்கல் பிரச்சினை ஒன்று ஏற்பட்டுள்ளது.
+
+இந்நிலையில், யாழ்ப்பாணத்தில் இருந்து வெள்ளை வேனில் சென்ற கும்பல், முல்லைத்தீவு பொலிஸ் என கூறி இந்த குடும்பஸ்தரை அவரது வீட்டுக்குள் அழைத்துச் சென்று தாக்கியுள்ளது.
+
+இந்த சம்பவத்தில் ஊற்றங்கரை வீதி தண்ணீரூற்று முள்ளியவளையை சேர்ந்த 44 வயது நபர், படுகாயமடைந்த நிலையில் அவரது உறவினர்களால் மீட்கப்பட்டு முல்லைத்தீவு மாவட்ட மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/2a06a68c.json)
+
+---
 
 ### Three more arrested for fighting before the Ministry of Education
 
@@ -55,6 +157,24 @@ Earlier, four people were arrested and released on bail in connection with the i
 [Data](articles/7eb8ccc4.json)
 
 [Extended Data](ext_articles/7eb8ccc4.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ අභිවෘද්දිය වෙනුවෙන් ඉදිරියටත් සහාය
+
+*2024-12-15 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204398) · `si`
+
+ශ්‍රී ලංකාවේ අභිවෘද්ධිය වෙනුවෙන් තාක්ෂණික සහ මූල්‍ය සහාය ඉදිරියට ද නොඅඩුව ලබා දෙන බව එක්සත් ජාතීන්ගේ සංවිධානයේ මෙරට නේවාසික සම්බන්ධීකාරක මාක් ඇන්ඩ්‍රෆ්‍රෙන්ච් මහතා පවසයි.
+
+සෞඛ්‍ය අමාත්‍යංශය පැවසුවේ සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා හමුවු අවස්ථාවේ දී ඔහු මේ බව සඳහන් කළ බවය.
+
+දීර්ඝ කාලයක් පුරා මෙරට රජය සහ ජනතාව සමඟ ගෙනගිය හවුල්කාරිත්වය තවත් ශක්තිමත් කරමින් ඉදිරියට ද ඒ සඳහා අඛණ්ඩව කටයුතු කරන බව ඔහු එහිදී සඳහන් කර තිබේ.
+
+මෙහිදී එක්සත් ජාතීන්ගේ සංවිධානයේ මෙරට නේවාසික සම්බන්ධීකාරකවරයා පෙන්වාදී ඇත්තේ පසුගිය මැතිවරණය තුළ ලබාදුන් විශාල ජනවරමත් සමග මහජන අපේක්ෂාවන් ද ඉහළ මට්ටමක පවතින බැවින් ඉදිරි කාලසීමාව අභියෝගාත්මක වනු ඇති බවය.
+
+◼️
+
+[Data](articles/f625d063.json)
 
 ---
 
@@ -83,6 +203,48 @@ ABC channel is also a special statement expressed in person regarding the statem
 [Data](articles/13281602.json)
 
 [Extended Data](ext_articles/13281602.ext.json)
+
+---
+
+### Kankesanthurai - Naga Shipping Service Retrieved in January with various facilities
+
+*2024-12-15 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201316) · `ta`
+
+N
+
+🟩
+
+The ship's service between Kankesanthurai and Nagapattinam will commence with the six -day advanced facilities for six days from January, said Ponnusamy Sundarraj, the head of the Kankesanthurai and Nagapattinam Shipping Service.
+
+Yall. He said this while addressing a press conference held at the Media Center yesterday (14).
+
+In India. In particular, it provides more than 500 paramilitary transport services under the leadership of the individual.
+
+In addition, our other company, Subam, has invested in the Kankesanthurai and Nagapattinam shipping service.. Subsequently, the shipping service was launched last August, but the service has now been suspended due to climate precautions.
+
+There are also conditions for the formation of a windmill in the Wangala Bay on the 23rd of this month. Thus, we have adjourned the shipping service that was arranged to resume on the 19th.
+
+...
+
+[Data](articles/def3383a.json)
+
+[Extended Data](ext_articles/def3383a.ext.json)
+
+---
+
+### නුවරඑළිය සංචාරකයන්ගෙන් පිරෙයි
+
+*2024-12-15 15:19:22* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑළිය-සංචාරකයන්ගෙන්-පිරෙයි/10-413641) · `si`
+
+සති අන්ත නිවාඩුවත් සමග නුවරඑලිය ප්‍රදේශයට දේශිය සංචාරකයන් විශාල පිරිසක් පැමිණි බව නුවරඑලිය සංචාරක හෝටල් හිමියන් පවසයි.
+
+නුවරඑලිය ප්‍රදේශයට මේ දිනවල පවතින යහපත් කාලගුණයත් සමග දේශිය සංචාරකයන් විශාල පිරිසක් මෙසේ පැමිණ ඇති බවත්, නත්තල් උත්සවයේ නිවාඩුවට නුවරඑලිය ප්‍රදේශයේ සියළුම සංචාරක හෝටල් කාමර මේ වන විට දෙස් විදෙස් සංචාරකයන් විසින් වෙන් කරවාගෙන ඇති බවයි සංචාරක හෝටල් හිමියන් කියා සිටියේ.
+
+සති අන්ත නිවාඩුවට නුවරඑලියට පැමිණි දේශිය සංචාරකයන් ග්‍රේගරි වැවි අශ්‍රිතව විනෝද වන අයුරු දක්නට ලැබුණි.
+
+◼️
+
+[Data](articles/ea479c53.json)
 
 ---
 
@@ -417,36 +579,6 @@ Syria's civil war is the worst humanitarian crisis of our time. More than half o
 [Data](articles/249363da.json)
 
 [Extended Data](ext_articles/249363da.ext.json)
-
----
-
-### Three arrested with Kokain and Kush drugs in Wellawatte
-
-*2024-12-15 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201322) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrests made in Wellawatte: 26yo from Dehiwala caught with 36g cocaine & 203g kush. Investigation led to arrest of 2 more: 24yo from Mattakkuli & 25yo from 14 area. Total seizures: cocaine, kush, cash, phones, scales."
-
-🟩
-
-Three suspects have been arrested with cocaine and kush narcotics in the Colingwood Mawatha area of ​​the Wellawatte Police Division, police said.
-
-A 26 -year -old from Dehiwala area was arrested yesterday (14) during a round -up by a group of officials of the Valana Anti -Corruption Unit.
-
-The suspect seized 36 grams of cocaine, 203 grams of kush drugs, 1,875,000 rupees, 05 mobile phones, 05 mobile phones, money counting machine, 02 bank cards and electronic scales.
-
-Following the investigation into the suspect, two more suspects were arrested with 33 grams of 600 milligrams of kush drugs in the Colingwood Mawatha area.
-
-The arrested persons are 24 and 25 years old from Mattakkuli and 14 areas.
-
-◼️
-
-[Data](articles/8f01eedd.json)
-
-[Extended Data](ext_articles/8f01eedd.ext.json)
 
 ---
 
@@ -797,32 +929,6 @@ In a statement of the President's visit to India, the Indian Foreign Ministry sa
 [Data](articles/772873a5.json)
 
 [Extended Data](ext_articles/772873a5.ext.json)
-
----
-
-### Kankesanthurai - Naga Shipping Service Retrieved in January with various facilities
-
-*2024-12-15 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201316) · `ta`
-
-N
-
-🟩
-
-The ship's service between Kankesanthurai and Nagapattinam will commence with the six -day advanced facilities for six days from January, said Ponnusamy Sundarraj, the head of the Kankesanthurai and Nagapattinam Shipping Service.
-
-Yall. He said this while addressing a press conference held at the Media Center yesterday (14).
-
-In India. In particular, it provides more than 500 paramilitary transport services under the leadership of the individual.
-
-In addition, our other company, Subam, has invested in the Kankesanthurai and Nagapattinam shipping service.. Subsequently, the shipping service was launched last August, but the service has now been suspended due to climate precautions.
-
-There are also conditions for the formation of a windmill in the Wangala Bay on the 23rd of this month. Thus, we have adjourned the shipping service that was arranged to resume on the 19th.
-
-...
-
-[Data](articles/def3383a.json)
-
-[Extended Data](ext_articles/def3383a.ext.json)
 
 ---
 
@@ -2219,149 +2325,5 @@ Wattegama Police are conducting further investigations under the supervision of 
 [Data](articles/b2cbb0eb.json)
 
 [Extended Data](ext_articles/b2cbb0eb.ext.json)
-
----
-
-### President's first foreign visit
-
-*2024-12-14 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204381) · `si`
-
-Sri Lankan President Anura Kumara Dissanayake embarks on first foreign visit to India tomorrow. He'll hold bilateral talks with Indian leaders and promote investment ties between the nations.
-
-🟩
-
-President Anura Kumara Dissanayake on official visit to India from 15th tomorrow (15).
-
-The first foreign tour passes by the presidency.
-
-The President joins the visit on an invitation to Indian President Mrs. President Mahinda Rajapaksa.
-
-Accordingly, the President is due to hold bilateral talks with Indian President Mahinda Rajapaksa and Indian Prime Minister Narendra Modi.
-
-The President will also hold bilateral talks with several other strong ministers of India.
-
-During his visit, the President is also to join the promotion of investment and commercial relationships between India and Sri Lanka and is to visit the Buddha.
-
-In a statement on the President's visit to India, the Indian Foreign Ministry states that Sri Lanka is one of the closest neighboring neighborhood in the Indian Ocean region.
-
-Deputy Minister of Finance and Planning, Deputy Minister of Finance and Planning, Minister of Finance and Planning is due to join the tour of Minister Vijitha Herath.
-
-◼️
-
-[Data](articles/7d0921b7.json)
-
-[Extended Data](ext_articles/7d0921b7.ext.json)
-
----
-
-### The warning of landslides warns
-
-*2024-12-14 21:49:54* · [`adalk`](https://www.ada.lk/breaking_news/නාය-යෑමේ-අනතුරු-අඟවයි/11-413627) · `si`
-
-Landslide warnings issued for Medaduwakara, Pathadumbara, Pathogabara, Hapigara, and Matale districts due to heavy rainfall. Effective from 4 PM today until 4 PM tomorrow.
-
-🟩
-
-With the high rains, the National Building Research Organization has issued four districts to 4 pm today (14) at 4 pm.
-
-Accordingly, the landslides have been issued to landslide pre-landslides in the Medaduwakara, Pathadumbara, Pathogabara, Pathadumbara, Patheadumbara, Hapigara and Matale District.
-
-The warning is valid from 4 pm to 4 pm tomorrow (14).
-
-◼️
-
-[Data](articles/93e8ae5f.json)
-
-[Extended Data](ext_articles/93e8ae5f.ext.json)
-
----
-
-### Two persons arrested for hiding the corpse
-
-*2024-12-14 21:41:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடலத்தை-மறைத்து-வைத்திருந்த-இருவர்-கைது/175-348726) · `ta`
-
-Two persons arrested for concealing a death: police report details electrocution near Matara, illegal electric fence used for hunting, suspects charged with installing fence and hiding victim's body.
-
-🟩
-
-Police have arrested two persons for allegedly hiding the body of a man who had been electrocuted in the Matara - Valungurugetiya area.
-
-They have tried to hide the body of a person who died in an illegal electric fence used to hunt animals.
-
-Accordingly, two suspects have been arrested for fitting the electric fence and the person who was trapped in an electric fence he was fitted, said they had died.
-
-◼️
-
-[Data](articles/bc4145d4.json)
-
-[Extended Data](ext_articles/bc4145d4.ext.json)
-
----
-
-### New Bishop of Mannar appointed
-
-*2024-12-14 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104241/new-bishop-of-mannar-appointed-) · `en`
-
-Pope Francis has officially appointed Reverend Gnanapragasam Anthonypillai, the administrator of the ‘Our Lady of Madhu National Shrine’ in Mannar, as the new Bishop of Mannar.
-
-The Pope has accepted the resignation of Bishop Fidelis Lionel Emmanuel Fernando from the pastoral care of the diocese of Mannar, a statement said.
-
-Rev. Anthonypillai, a dedicated clergy member of the Mannar Diocese, has served in various capacities since his ordination as a priest on April 7, 1994.
-
-Born on 12 July 1965 in Adampan, in the diocese of Mannar, he studied philosophy and theology at the Saint Francis Xavier Major Seminary in Jaffna.
-
-After ordination, he held the roles of parish vicar of Murunkan (1994-1996), secretary to the bishop (1996-1999), parish priest of Cheddikulam (1999-2003), parish priest of Pallimunai (2003-2006), parish priest of Vankalai (2006-2009), rector of the diocesan minor seminary (2014-2018), and parish priest of Saint Sebastian Cathedral (2018-2021) and Pesalai (2021-2023).
-
-...
-
-[Data](articles/aa234315.json)
-
-[Extended Data](ext_articles/aa234315.ext.json)
-
----
-
-### Restaurant conducted by a Welipenna Arastena
-
-*2024-12-14 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204380) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Welipenna Arastena restaurant clash: 3 injured, arrests made. Long-standing dispute over food service led to confrontation involving sharp weapons. Residents from Welipenna, Deniyaya, and Itapana areas involved.
-
-🟩
-
-The Welipenna police states that three were injured in a confrontation took place in the Welipenna Stores Junction in the Welipenna Police Division.
-
-The conflict has a long-standing dispute about the food obtained when three people went to the restaurant this evening.
-
-Restaurant employees have been attacked with sharp weapons and three persons were injured and arrested by the Welipenna Police.
-
-The residents of the Welipenna, Deniyaya and Itapana area have been identified.
-
-◼️
-
-[Data](articles/c90f619f.json)
-
-[Extended Data](ext_articles/c90f619f.ext.json)
-
----
-
-### Exterminators PLC clinched gold at Sri Lanka Entrepreneur Awards
-
-*2024-12-14 21:07:00* · [`islandlk`](http://island.lk/exterminators-plc-clinched-gold-at-sri-lanka-entrepreneur-awards/) · `en`
-
-Exterminators PLC, Sri Lanka’s leading pest management company, won gold at the Sri Lanka Entrepreneur Awards (Western Province) on Dec 11. The event, organized by the National Chamber of Commerce and the National Enterprise Development Authority, celebrates excellence in entrepreneurship. Exterminators’ recognition highlights its achievements in innovation, financial performance, and corporate social responsibility. The company has earned 67 awards, including certifications in environmental leadership and corporate governance. Founded in 1998 by Marlon Ferreira, Exterminators has become Asia’s first publicly listed, carbon-neutral pest control company, exemplifying a commitment to sustainability and ethical business practices alongside commercial success.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/6c5e2272.json)
-
-[Extended Data](ext_articles/6c5e2272.ext.json)
 
 ---

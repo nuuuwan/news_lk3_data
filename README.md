@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 06:48:36**
+As of **2024-12-15 08:11:57**
 
 ## Newspaper Stats
 
-*Scraped **60,201** Articles*
+*Scraped **60,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,125 @@ dailyftlk | 4,160
 dailymirrorlk | 4,733
 adalk | 5,711
 adaderanalk | 7,332
-tamilmirrorlk | 8,605
-virakesarilk | 9,880
-adaderanasinhalalk | 10,409
+tamilmirrorlk | 8,606
+virakesarilk | 9,881
+adaderanasinhalalk | 10,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,189 (100.0%) of 60,201 articles have been extended.
+60,194 (100.0%) of 60,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
+
+### Landslide Warnings for several districts
+
+*2024-12-15 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204385) · `si`
+
+Landslide warnings issued for Udtitha Korale, Patheddara, Pathedralumara, Rattota districts. National Building Research Organization alert valid until 4 pm.
+
+🟩
+
+Landslide warnings have been issued to several districts in several districts.
+
+According to the National Building Research Organization, a warning announcement is in effect until 4 pm.
+
+The warning announcement has been issued for the Udtitha Korale, Patheddara, Pathedralumara, Pathedralumara, Pathedral, Pathedral, Pathedral, Pathedral, Pathedral, Pathedral, Pathedral and Rattota.
+
+◼️
+
+[Data](articles/7406ce52.json)
+
+[Extended Data](ext_articles/7406ce52.ext.json)
+
+---
+
+### Meegoda shot dead
+
+*2024-12-15 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204384) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Unidentified shooters killed two men near a house. Victim worked at Sethsiripaya. Wife and daughter present. One injured taken to hospital. Police investigating."
+
+🟩
+
+Two unidentified persons have been shot dead by two unidentified persons in a car yesterday.
+
+The shooting had been carried out from the house of the deceased's brother's house.
+
+Police say the car has parked the car and another person has done the shooting.
+
+The person who was seriously injured after being shot dead was admitted to the Homagama Base Hospital.
+
+When the shooting occurred, the daughter of the death and his wife were in the car.
+
+The deceased has served as an office assistant official at Sethsiripaya, Battaramulla, Battaramulla.
+
+The Meegoda Police are conducting further investigations and the Meegoda Police are conducting further investigations.
+
+◼️
+
+[Data](articles/04d88d21.json)
+
+[Extended Data](ext_articles/04d88d21.ext.json)
+
+---
+
+### In several areas mm. Heavy rains over 100
+
+*2024-12-15 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204383) · `si`
+
+Heavy rains expected in Eastern Province today. Showers/thundershowers possible in Central, Sabaragamuwa, Southern Provinces. Strong winds and lightning possible. Low-pressure zone near Bay of Bengal may move towards Tamil Nadu coast in next 2 days.
+
+🟩
+
+Showers or thundershowers will occur at times in the Eastern Province today (15).
+
+The department states that showers or thundershowers will occur at the evening or even night.
+
+MM to some places in the Central, Sabaragamuwa, Eastern and Southern provinces. The Department of Meteorology is prevailing that heavy rains can occur 100.
+
+In the middle of the Central, Sabaragamuwa, and Southern provinces, there are four in the morning.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
+
+Meanwhile, the Met Department forecasts a low-pressure zone around the Bay of Bengal Bay of Bengal.
+
+After that, in the next two days, it is capable of moving to the Tamil Nadu coast near the north of the island.
+
+The system is demanding the next predictions and announcements issued by the Department of Meteorology, especially in the eastern and northern provinces of the island.
+
+◼️
+
+[Data](articles/6953c093.json)
+
+[Extended Data](ext_articles/6953c093.ext.json)
+
+---
+
+### ’தமிழரசில் இருந்து சிலர் விரைவில் நீக்கப்படுவர்’
+
+*2024-12-15 04:13:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசில்-இருந்து-சிலர்-விரைவில்-நீக்கப்படுவர்/175-348729) · `ta`
+
+இலங்கைத் தமிழரசுக் கட்சியில் இருந்து சிலர் நீக்கப்படுவார்கள். சிலர் இடைநிறுத்தப்படுவார்கள் என்று இலங்கைத் தமிழரசுக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+வவுனியாவில் நேற்று நடைபெற்ற இலங்கைத் தமிழரசுக் கட்சியின் மத்திய குழுக் கூட்டத்தின் பின்னர் ஊடகங்களுக்குக் கருத்துத் தெரிவிக்கும்போதே அவர் இவ்வாறு கூறினார்.
+
+கட்சிக்கு எதிராகப் போட்டியிட்டவர்களை உடனடியாகக் கட்சியிலிருந்து நீக்குவதற்குப் பொதுச் செயலாளருக்கு அதிகாரம் இருக்கின்றது என மத்திய குழு ஏற்றுக் கொண்டிருக்கின்றது. அதனைப் பொதுச்செயலாளர் எதிர்வரும் நாட்களில் செய்வார்.
+
+வேறு சிலர் கட்சிக்கும், கட்சியினுடைய வேட்பாளருக்கு எதிராகவும் செயற்பட்டமை தொடர்பிலும் ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும். அந்த ஒழுக்காற்று நடவடிக்கை எடுக்கப்படும் வரைக்கும் அவர்கள் கட்சியின் செயற்பாடுகளில் இருந்து இடைநிறுத்தப்படுவார்கள்.
+
+...
+
+[Data](articles/85315d49.json)
+
+---
 
 ### Reduces the impact of the mice
 
@@ -362,6 +468,20 @@ Sampath Bank has been honoured as the Second Runner-Up in the Best Corporate Cit
 
 [Data](articles/20ab173d.json)
 
+[Extended Data](ext_articles/20ab173d.ext.json)
+
+---
+
+### தமிழ்த் தேசிய மக்கள் முன்னணியினால் இந்திய பிரதமருக்கு கடிதம்
+
+*2024-12-14 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201295) · `ta`
+
+இலங்கை ஜனாதிபதி அனுரகுமார திஸாநாயக்க இந்தியப் பிரதமரைச் சந்திக்கவுள்ளார். நிலையில் இலங்கையில் தமிழ் மக்களது இனப்பிரச்சினைத் தீர்வாக ஒற்றையாட்சியை கைவிட்டு தமிழ்த் தேசம் அதன் இறைமை அங்கீகரிக்கப்ப்ட்ட சமஸ்டித் தீர்வை எட்ட இலங்கை மீது அழுத்தங்களைப் பிரயோகிக்க வலியுத்தி தமிழ்த் தேசிய மக்கள் முன்னணியினால் கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c0e2eee7.json)
+
 ---
 
 ### Order to re -export imported rice
@@ -399,6 +519,8 @@ The International Institute of Health Sciences (IIHS) celebrated a major milesto
 ...
 
 [Data](articles/30d9ee01.json)
+
+[Extended Data](ext_articles/30d9ee01.ext.json)
 
 ---
 
@@ -2303,145 +2425,5 @@ In this piece I read, the definition of heaven and hell was determined by racial
 [Data](articles/2d0d8d23.json)
 
 [Extended Data](ext_articles/2d0d8d23.ext.json)
-
----
-
-### Reach related raid
-
-*2024-12-14 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204356) · `si`
-
-Consumer Affairs Authority conducts 75 rice raids island-wide. Price drop expected due to increased imports. State Commerce Corporation importing 5,200 metric tons of nadu rice, first shipment arriving 19th.
-
-🟩
-
-The Consumer Affairs Authority says that raids on rice islandwide is still underway.
-
-The Director Asela Bandara said that about 75 raids were carried out island yesterday (14).
-
-He said the relevant officers had instructed to raid on the weekend and the weekends and holidays.
-
-He also said that the price of rice is decreasing with the increase in rice prices with the decrease in the importation of the imported rice.
-
-Meanwhile, the State Commerce Corporation has also taken steps to import 5,200 metric tons of nadu rice.
-
-It is reported that the first consignment is due to be received on the 19th of this month.
-
-◼️
-
-[Data](articles/c5fb733e.json)
-
-[Extended Data](ext_articles/c5fb733e.ext.json)
-
----
-
-### Rediscovering The Good In Religion This Holiday Season
-
-*2024-12-14 07:23:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rediscovering-the-good-in-religion-this-holiday-season/) · `en`
-
-Every day, headlines are filled with words like deposed, disgraced, defrocked, or displaced—often tied to controversies involving religious authorities or the struggles of various religious groups. Even for someone like me, skeptical of religion in general, this overwhelming negativity seems suspiciously one-sided. How could something that so much of humanity believes in be reduced to nothing but conflict and failure?
-
-Before seeking the good in religions, perhaps we must first confront where we’ve gone wrong. It seems evident that many religions have been transformed into tribal factions vying for power and dominance, losing sight of their core purpose: self-improvement, introspection, salvation, and the pursuit of higher ideals. Instead of fostering unity or moral growth, religion has often become a weapon—used to rally against perceived enemies, threaten with damnation, and fortify an “us versus them” mentality.
-
-...
-
-[Data](articles/86d1c84e.json)
-
-[Extended Data](ext_articles/86d1c84e.ext.json)
-
----
-
-### Today's full moon day is today
-
-*2024-12-14 06:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204355) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Full moon day today: Buddhists worldwide celebrate end of pilgrimage. In Sri Lanka, Poya day marks Buddha's footprint discovery. Important events include Sangamitta ceremony and Derana live broadcast from Kurunduwatta Bodhiru Viharaya.
-
-🟩
-
-All Buddhists worldwide have shown the end of the pilgrimage of pilgrimage and the focal moon day (14) is today.
-
-The Buddhists in Sri Lanka is also considered a very important poly day of Poya.
-
-The Sanmboamitta has taken place to take place to join the table of seven days after a sea-wide branch of Sri Maha Bodhi.
-
-Another 11 Buddhist monks with Sangamitta is operated on the day.
-
-Another important event on the Umeduwap ​​Poya Day is the beginning of the Buddha's son's son's son's design.
-
-Accordingly, the phrase and the Lord Jewelry to the Phrows Kahand of the Galpottawatte of Pelmadulla have come to the phrote house of the Sri Pada Kimballa.
-
-Fields of Uduppi Poya Day. M. The 120th Live Broadcasting of the Derana is scheduled to be held in the Kurunduwatta Bodhiru Viharaya in Galle today.
-
-◼️
-
-[Data](articles/3b8e3b8f.json)
-
-[Extended Data](ext_articles/3b8e3b8f.ext.json)
-
----
-
-### Ashoka Ranwala: Decision to resign from the post of Speaker and national immigrants
-
-*2024-12-14 06:39:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36e5jj085wo) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka Speaker Ashoka Ranwala resigns amid educational qualifications controversy. He claims ability to produce relevant documents but decides to step down. Opposition initiates no-confidence motion. Experts criticize government's handling of situation and call for transparency.
-
-🟩
-
-Ashoka Ranwala: Decision to resign from the post of Speaker and national immigrants
-
-The controversy of the educational qualifications of Speaker Ashoka Ranwala became a challenging Litmus to protect the legitimacy of the government.
-
-As a Speaker of Sri Lanka, the Speaker of Sri Lanka will be appointed as the Speaker of Sri Lanka with the summer of the Sri Lankan history with the decision to resign from his post on December 13.
-
-His tenure is limited to 22 days according to the President's resignation.
-
-From November 21, he had questioned various people on social media from the time he was appointed as Mr. Kathhanayaka.
-
-It was finally ended with a serious social impact to resign from the gold from gold from gold.
-
-Ashoka Ranwala: What did the Speaker tell the BBC about his degree that led to controversy?
-
-A press release issued by Ashoka Ranwala (December 13) The Media Division of the National Zoo was issued to the media.
-
-...
-
-[Data](articles/0a172f6b.json)
-
-[Extended Data](ext_articles/0a172f6b.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-12-14 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204354) · `si`
-
-Heavy rains forecasted for Northern, Eastern, Western, Sabaragamuwa, Central provinces and Galle, Matara districts. Severe rain possible in some areas. Showers expected in the evening/night.
-
-🟩
-
-Several spells of showers may occur in the Northern and Eastern Provinces.
-
-Showers or thundershowers will occur at the evening or even night in other areas.
-
-Some locations in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. About 75 can cause severe rain.
-
-Some places in the Western Province and in the Galle and Matara Districts can also be rains.
-
-The Department of Sabaragamuwa, Southern and Uva provinces can be in the morning.
-
-◼️
-
-[Data](articles/70f887ec.json)
-
-[Extended Data](ext_articles/70f887ec.ext.json)
 
 ---

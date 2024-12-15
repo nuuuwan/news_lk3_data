@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-15 16:16:09**
+As of **2024-12-15 16:26:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,259 (99.9%) of 60,292 articles have been extended.
+60,262 (100.0%) of 60,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-15 (Sunday)
 
-### கல்வி அமைச்சுக்கு முன் போராடிய மேலும் மூவர் கைது
+### Three more arrested for fighting before the Ministry of Education
 
 *2024-12-15 15:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சுக்கு-முன்-போராடிய-மேலும்-மூவர்-கைது/175-348754) · `ta`
 
-பாடசாலை அபிவிருத்தி உத்தியோகத்தர்கள் 16,000 பேரை ஆசிரியர் தொழிலில் உள்வாங்குமாறு கோரி, கல்வி அமைச்சுக்கு முன்பாக முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் ஈடுபட்ட மேலும் 03 பேர் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-அவர்களில் இருவர் கடுவெல பதில் நீதவான் டெலனி முனசிங்க முன்னிலையில் ஆஜர்படுத்தப்பட்ட பின்னர் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
 
-இந்த சம்பவம் தொடர்பில் முன்னதாக 04 பேர் கைது செய்யப்பட்டு பின்னர் பிணையில் விடுவிக்கப்பட்டமை குறிப்பிடத்தக்கது. R
+
+"3 arrests outside Education Ministry over teacher salary demands. 2 released on bail. Incident echoes earlier 4 arrests. Protesters seek 16,000 rupees for school development officers."
+
+🟩
+
+Three more people have been arrested in front of the Ministry of Education, demanding that school development officers get 16,000 in the teacher business.
+
+Two of them have been released on bail after being produced before the Kaduwela Magistrate Teleni Munasinghe.
+
+Earlier, four people were arrested and released on bail in connection with the incident.. Remble
 
 ◼️
 
 [Data](articles/7eb8ccc4.json)
+
+[Extended Data](ext_articles/7eb8ccc4.ext.json)
 
 ---
 
@@ -94,21 +104,31 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 
 ---
 
-### ජනපති ඉන්දීය සංචාරය අරඹයි
+### President launches Indian
 
 *2024-12-15 15:09:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දීය-සංචාරය-අරඹයි/11-413640) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය ප්‍රථම විදේශ සංචාරය ආරම්භ කරමින් ඉන්දියාවේ තුන් දින නිල සංචාරයක් සඳහා අද පස්වරුවේ කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගිය බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය.
+Here's a summary of 200 characters:
 
-ඔහු සමග දූත පිරිස ලෙස මහාචාර්ය අනිල් ජයන්ත, අමාත්‍ය විජිත හේරත් සහ තවත් එක් අයෙකු එක් වී සිටියහ.
 
-ඔවුන් 12/15 දින පස්වරු 02.08 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 195 දරන ගුවන් යානයෙන් ඉන්දියාවේ නවදිල්ලි නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගියහ.
 
-මෙම පිරිස සිය ඉන්දීය සංචාරය නිම කර 12/17 දින ආපසු කටුනායකට ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතය.
+Sri Lanka President Anura Kumara Dissanayake begins foreign trip from Katunayake airport. Joined by Prof. Anil Jayantha and Minister Vijitha Herath. Traveling on SriLankan Airlines flight UL195. Returning to Katunayake airport on 12/17.
+
+🟩
+
+President Anura Kumara Dissanayake commenced his first foreign trip to the Katunayake airport this afternoon.
+
+Professor Anil Jayantha, Minister Vijitha Herath and another were joined by the delegation with him.
+
+They fell to SriLankan Airlines UL, SriLankan Airlines, 195, on the 195th-195's flight.
+
+The group will return to Katunayake airport on 12/17 on 12/17.
 
 ◼️
 
 [Data](articles/90ad14e0.json)
+
+[Extended Data](ext_articles/90ad14e0.ext.json)
 
 ---
 
@@ -325,6 +345,8 @@ During the visit, President Dissanayake is scheduled to meet the Indian Presiden
 ◼️
 
 [Data](articles/6f4a37d3.json)
+
+[Extended Data](ext_articles/6f4a37d3.ext.json)
 
 ---
 

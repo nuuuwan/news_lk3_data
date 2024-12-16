@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 12:43:23**
+As of **2024-12-16 12:03:00**
 
 ## Newspaper Stats
 
-*Scraped **60,419** Articles*
+*Scraped **60,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 614
 bbccomsinhala | 634
-islandlk | 3,655
+islandlk | 3,654
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,743
+adalk | 5,742
 adaderanalk | 7,355
 tamilmirrorlk | 8,634
 virakesarilk | 9,945
@@ -26,43 +26,11 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,398 (100.0%) of 60,419 articles have been extended.
+60,393 (100.0%) of 60,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
-
-### Mrs. B becomes PM and I the Secretary to the world’s first woman prime minster
-
-*2024-12-16 11:41:00* · [`islandlk`](http://island.lk/mrs-b-becomes-pm-and-i-the-secretary-to-the-worlds-first-woman-prime-minster/) · `en`
-
-Anura bothered about his mother seeing his school report before he did
-
-(Excerpted from Rendering Unto Caesar, by Bradman Weerakoon, Secretary to the Prime Minister)
-
-In 1960, as she rode to power, after a grueling campaign, as the world’s first-ever woman prime minister, Sirima Bandaranaike was making the global headlines and taking Ceylon too into the limelight, which was to last for decades. The world wondered as to how this phenomenon, of a woman being chosen to be prime minister, had occurred in Ceylon. Was it some peculiar provision of dynastic succession by which the wife succeeded to a vacancy caused by the death of a husband Could such a thing occur only in an Asian country? Was it, as uncharitable political opponents would say, a consequence of the enormous wave of sympathy that followed close on the tragic death of a popular leader? Was the phenomenon connected mystically with the primacy of motherhood’ (matar) so central a part of the culture of the Indian subcontinent?
-
-...
-
-[Data](articles/4bf6a347.json)
-
-[Extended Data](ext_articles/4bf6a347.ext.json)
-
----
-
-### The Silence of the Speaker and other matters
-
-*2024-12-16 11:30:00* · [`islandlk`](http://island.lk/the-silence-of-the-speaker-and-other-matters/) · `en`
-
-It is more than two weeks since the matter of the Speaker, Asoka Ranwala’s doctorate, or lack of it, was raised in public. If he does have one, it is sufficient time for him to have produced the necessary evidence and laid to rest the ongoing speculation. When my daughter acquired a doctorate from a university in England, she was ceremoniously presented with an ornately inscribed scroll, on thick, parchment paper , along with a foolish hat.
-
-To me, a non-academic, it seemed a paltry outcome for the several years of intense study which preceded the award but that, apparently, is how these systems work. Perhaps Waseda University of Japan, the institution alleged to have conferred the doctoral degree on Ranwala, does not emulate old-fashioned British institutions, but there still needs to be tangible, physical evidence of such an award, with which Ranwala came away from that institution.
-
-...
-
-[Data](articles/30fa7f34.json)
-
----
 
 ### Police officer killed
 
@@ -87,22 +55,6 @@ The suspects are from Matale and Udaspattu area aged 46 and 48.
 [Data](articles/5f447059.json)
 
 [Extended Data](ext_articles/5f447059.ext.json)
-
----
-
-### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
-
-*2024-12-16 11:23:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
-
-‘We in Lanka feel that our fight for freedom is being fought largely in India’
-
-We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
-
-Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
-
-...
-
-[Data](articles/42a20cca.json)
 
 ---
 
@@ -270,29 +222,23 @@ Question - 02: 2024 How much did the government borrow?
 
 ---
 
-### Father and daughter seriously from shooting in Meetiyagoda
+### මීටියාගොඩ වෙඩි තැබිමකින් පියාට හා දියණියට බරපතලයි
 
 *2024-12-16 09:51:42* · [`adalk`](https://www.ada.lk/breaking_news/මීටියාගොඩ-වෙඩි-තැබිමකින්-පියාට-හා-දියණියට-බරපතලයි/11-413660) · `si`
 
-Shooting incident in Meetiyagoda: Father-daughter injured, others killed. Police investigating personal dispute, not underworld clash. Suspect identified, fled scene.
+මීටියාගොඩ , බලිමුල්ල නිවසකට ඊයේ (15) රෑ කඩාවැදුණු පිරිසක් විසින් කළ වෙඩි තැබීමකින් නිවසේ සිටි පියා හා දියණිය බරපතල තුවාල ලබා ඇති බවත් ඔවුන් බලපිටිය රෝහලට ඇතුළත් කළ බවත්  මීටියාගොඩ පොලීසිය කියයි.
 
-🟩
+මෙසේ වෙඩි වැදී ඇත්තේ පනස්එක් හැවිරිදි රවීන්ද්‍ර ගුණතිලක නමැත්තාට සහ විසිනම හැවිරිදි රමයා ගුණතිලක නමැත්තියකටයි.
 
-The father and daughter of the house were seriously injured in a shooting at Meetiyagoda and a group of people who were shot dead at the Balamur Hall yesterday (15).
+ත්‍රීරෝද රථයකින් පැමිණි පිරිසක් පිස්තෝල වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදු කොට ඇති බව මුලික පරීක්ෂණවලදී අනාවරණයවූ බවද පොලීසිය කියයි.
 
-The fifty-year-old Ravindra Gunatilleke, who was fifty-year-old Ravindra Gunatilleke, who was born to the man of the man and Ramaya Gunatilleke.
+වෙඩි තැබීම සිදු කළ සැකකරු හදුනාගෙන ඇති බවත් ඔහු එම ප්‍රදේශයේම පදිංචි අයෙක් බවත් සැකකරු ඇතුලු පිරිස ප්‍රදේශයෙන් පලාගොස් ඇති බවත් පොලීසිය කියයි.
 
-Investigations have revealed that a group of three-wheeler has been shot with a pistol type firearm.
-
-The suspect had been identified as a resident of the area and the suspect, including the suspect, had fled the area.
-
-Police also say that a personal dispute has been shot and is not a clash between underworld.
+පෞද්ගලික ආරවුලකට වෙඩි තැබීම සිදු කරන්නට ඇති බවත් මෙය පාතාල කණ්ඩායම් අතර ගැටුමක් නොවන බවත් පොලීසිය වැඩිදුරටත් කියයි.
 
 ◼️
 
 [Data](articles/bf285416.json)
-
-[Extended Data](ext_articles/bf285416.ext.json)
 
 ---
 
@@ -321,8 +267,6 @@ The more liquid S&P SL20 was up 1.28 percent, or 54.24 points, at 4,298.
 ◼️
 
 [Data](articles/2e1965df.json)
-
-[Extended Data](ext_articles/2e1965df.ext.json)
 
 ---
 
@@ -726,8 +670,6 @@ In talks with External Affairs Minister Jaishankar the potential for utilizing I
 
 [Data](articles/9708ad60.json)
 
-[Extended Data](ext_articles/9708ad60.ext.json)
-
 ---
 
 ### Selection of the new Speaker tomorrow
@@ -1030,39 +972,27 @@ In reply, the Nuwara Eliya Kings lost 8 wickets in 10 overs and lost 108 runs.
 
 ---
 
-### Oh. One travet from text to the Tea Degree - Sri Lanka Fitness Guide
+### සා. පෙළ සිට ආචාර්ය උපාධිය දක්වා ඇති එක ම ගමන්මග - ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකය
 
 *2024-12-16 01:37:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dx5kl7012o) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+සා. පෙළ සිට ආචාර්ය උපාධිය දක්වා ඇති එක ම ගමන්මග - ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකය
 
+මහාචාර්ය තනතුරු, අචාර්ය උපාධි සහ අධ්‍යාපන මට්ටම් පිළිබඳව ශ්‍රී ලංකාව තුළ මේ වන විට දැඩි කතාබහක් නිර්මාණය වී තිබේ.
 
+ආචාර්ය උපාධියක් ඇතැයි කී කතානායකවරයාගේ එම උපාධි ප්‍රශ්නය කෙළවර වූයේ, ඔහුට ධූරයෙන් ඉල්ලා අස්වීමට සිදුවීමෙනි.
 
-Sri Lanka Fitness Guide outlines 12-layer education system. Includes GCE exams, degrees, diplomas, and NVQ levels. Describes qualification requirements for each layer and research expectations for higher degrees.
+මේ අතර, මහාචාර්ය නාමය භාවිත කළ ඇතැමුන් ඒවා වෙබ් අඩවිවලින් ඉවත් කර ගෙන ඇති බවට ද, ඩිප්ලෝමාධාරීන් ඉන්ජිනේරුවරුන් ලෙස හඳුන්වාගෙන ඇති බවට ද විවිධ චෝදනා මෙන් ම උපහාසයන් ද සමාජ මාධ්‍ය තුළ සංසරණය වෙමින් පවතී.
 
-🟩
+ඇතැමුන් ආචාර්ය, මහාචාර්ය නාමයන් කෙලෙස භාවිත කළ ද, ශ්‍රී ලංකාවේ එවැනි නාමයන් භාවිත කිරීමේ නිශ්චිත ක්‍රමවේදයක් පවතී.
 
-Oh. One travet from text to the Tea Degree - Sri Lanka Fitness Guide
+ඒ පිළිබඳව, ශ්‍රී ලංකා විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව විසින් නිකුත් කරනු ලැබ ඇති 'ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකය' (Sri Lanka Qualifications Framework) මගින් නිශ්චිතව පැහැදිලි කර තිබේ.
 
-Professor's posts, Deferator and Education levels have been created in Sri Lanka at present.
-
-The graduation question of the Speaker to resign from his post.
-
-Meanwhile, some of the Professor name had been identified as the engineers, Diploma holders have been identified as engineers and sarcasmists, as well as sarcasmists.
-
-Some have a specific methodology to use such names in Sri Lanka, even if they used the professor names.
-
-It is clearly explained by the Sri Lanka Fitness Guide to the Sri Lanka Fitness Commission (SLI) has been issued by the Sri Lanka University Grants Commission.
-
-'Sri Lankan fitness guide consists of twelve layers. Learning Fruit and Learning Diversity Requirements The Sri Lanka Fitness Guide is high.
-
-Sri Lanka Fitness Guide Layers, the minimum academic requirements of each layer and the minimum studies required for each layer are also required.
+'ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශය ස්ථර දොළහකින් සමන්විත වේ. ඉගැනුම් ඵල හා ඉගැනුම් විවිධත්ව අවශ්‍යතා ඒ එක් එක් ස්ථරය සමග ඉහළ යයි,' ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකයේ සඳහන් වෙයි.
 
 ...
 
 [Data](articles/300b3f67.json)
-
-[Extended Data](ext_articles/300b3f67.ext.json)
 
 ---
 
@@ -2371,5 +2301,99 @@ Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Foreign Af
 [Data](articles/34a86c13.json)
 
 [Extended Data](ext_articles/34a86c13.ext.json)
+
+---
+
+### A private bus driver in Jaffna arrested for assaulting conductor
+
+*2024-12-15 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201349) · `ta`
+
+Jaffna private bus driver assaulted conductor arrested suspect identified Urumpirai police investigation ongoing
+
+🟩
+
+A suspect who assaulted a driver and conductor of a private bus in Punnalaikkattuvan has been arrested by police today (15).
+
+A group of three people attacked the conductor of the bus and attacked the driver of the bus seven months ago.
+
+The main suspect, who was searching for a complaint by the victims, has been arrested today in the Urumpirai area and has been arrested on the basis of confidential information available to the Jaffna District Senior Superintendent of Police.
+
+The arrested suspect has been handed over to the Jaffna Police Station and two more people have been involved in the incident.
+
+In the preliminary inquiries carried out by the detainee, they said they had carried out the attack at the instigation of another.
+
+The incident took place on 17.04.2024, and the private bus union had launched a protest on 20.04.2024 demanding the arrest of the suspects.
+
+◼️
+
+[Data](articles/db30d8f4.json)
+
+[Extended Data](ext_articles/db30d8f4.ext.json)
+
+---
+
+### Sea areas and land warning announced around the island
+
+*2024-12-15 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204403) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Low-pressure system in Bay of Bengal; winds 50-60 knots; rough seas; heavy showers possible; warnings for coastal areas and fishing communities; impact expected in eastern and northern regions of the island.
+
+🟩
+
+The Department of Meteorology has issued an announcement to bear the sea areas and land to be valid for 24 hrs in the island.
+
+It states that a low-pressure zone will be able to create a low-pressure zone in the next 24 hours in the Bay of Bengal area.
+
+The next two days, it has been informed that it is the ability to move to the Tamil Nadu coast near the north of the island.
+
+• Winds the speed of the coast extending from Kankasanthurai to Pottuvil via Pottuvil.. The sea areas can be rough at times as (50-60). Heavy showers or thundershowers may occur in some places in the sea areas.
+
+• Winds from Kankesanthurai to Galle through Galle and Colombo.. It can be slightly rough because of the time to rise up to 50.
+
+The community of the Bay of Bengal, the fisheries and naval area in the Bay of Bengal area has been asked to be aware of the next predictions and announcements issued by the Department of Meteorology.
+
+...
+
+[Data](articles/7941dae7.json)
+
+[Extended Data](ext_articles/7941dae7.ext.json)
+
+---
+
+### 628286 electricity disconnections this year
+
+*2024-12-15 17:50:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විදුලිය-විසන්ධි-කිරීම්-628286ක්/11-413651) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Electricity disconnections: 628,286 homes, 5,579 businesses, 39 hotels from Jan to June. Last year: 97,093 disconnections. Average daily disconnections increased from 2,660 to 3,443. CEB struggles financially despite profits. Relief sought for January electricity bills.
+
+🟩
+
+From January to June this year, electricity cuts have occurred to six hundred twenty-eighty thousand two hundred and eighty-eight towel (628286)
+
+After 12,940 to 900 (970933) of electricity disconnections last year, the electricity disconnected was Rs.
+
+He said that the electricity bill would not be paid by 30% due to the expulsion of the electricity bill, he said.
+
+He said the Public Utilities Commission would be requested to write and verbally comment from the public on writing and orally ideas for the revision of the next year.
+
+The number of power cuts from January to June from January to June was 628286 houses, 8579 houses, 39 hotels, 39 and other (shops) were disconnected in 111276 public sector, 39, 39 hotels and 39 hotels.
+
+He added that the average value of electricity cutting was 2660 per day in last year and is 3443.
+
+He further stated that the Electricity Board (CEB) has been severely helpless, but the CEB has been severely helpless but the Ceylon Electricity Board has been profit.
+
+...
+
+[Data](articles/23aab403.json)
+
+[Extended Data](ext_articles/23aab403.ext.json)
 
 ---

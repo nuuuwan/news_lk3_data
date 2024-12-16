@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 11:16:00**
+As of **2024-12-16 12:03:00**
 
 ## Newspaper Stats
 
-*Scraped **60,411** Articles*
+*Scraped **60,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 453
 colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,654
-economynextcom | 3,671
+economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,741
+adalk | 5,742
 adaderanalk | 7,355
-tamilmirrorlk | 8,632
+tamilmirrorlk | 8,634
 virakesarilk | 9,945
 adaderanasinhalalk | 10,441
 
@@ -26,29 +26,115 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,387 (100.0%) of 60,411 articles have been extended.
+60,393 (100.0%) of 60,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### ෂකීබ් පන්දුව දමා ගසනවාද? පන්දු යැවීමත් අත්හිටුවයි
+### Police officer killed
+
+*2024-12-16 11:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்-பலி-இருவர்-கைது/175-348793) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Police officer killed in Vathegama road accident. Two suspects arrested: 46-year-old driver in Matale & 48-year-old aider from Udaspattu area.
+
+🟩
+
+Two suspects have been arrested in connection with the road accident in the Vathegama area last Saturday.
+
+The driver of the car was arrested yesterday in Matale with the car used during the incident and another suspect who helped him to cover the car was arrested, police said.
+
+The suspects are from Matale and Udaspattu area aged 46 and 48.
+
+◼️
+
+[Data](articles/5f447059.json)
+
+[Extended Data](ext_articles/5f447059.ext.json)
+
+---
+
+### Unidentified corpse recovery
+
+*2024-12-16 11:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளம்-தெரியாத-சடலம்-மீட்பு/175-348792) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Body found at DSI Kalupatti. Age: 65-70. Height: 5'8". At Colombo National Hospital. Police investigating."
+
+🟩
+
+An unidentified body was found yesterday at the DSI building in Kalupatti, police said.
+
+It is thought that the deceased may be between the ages of 65 and 70 and a height of 05 feet 08 inches.
+
+The body is being kept at the Colombo National Hospital and the Kaluppitti police are conducting further investigations.
+
+◼️
+
+[Data](articles/6afd697e.json)
+
+[Extended Data](ext_articles/6afd697e.ext.json)
+
+---
+
+### Shawkub put the ball?Bowling suspended
 
 *2024-12-16 10:53:16* · [`adalk`](https://www.ada.lk/sports/ෂකීබ්-පන්දුව-දමා-ගසනවාද--පන්දු-යැවීමත්-අත්හිටුවයි/9-413661) · `si`
 
-බංග්ලාදේශ තුන් ඉරියව් ක්‍රීඩක ශකීබ් අල් හසන්ගේ පන්දු යැවීම අත්හිටුවා ඇති බව බංග්ලාදේශ ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත.
+Here's a summary in 200 characters:
 
-ඒ අනුව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය (අයි.සී.සී) අනුමත කරන ලද දේශීය මෙන්ම ජාත්‍යන්තර තරග වලදී පන්දු යැවීම මෙලෙස අත්හිටුවා තිබේ.
 
-පන්දුව දමා ගැසීමේ චෝදනාව මත මෙලෙස ඔහුගේ පන්දු යැවීම අත්හිටුවා ඇත.
 
-ඒ අනුව ඔහුට පන්දු යැවීමේ ඉරියව්ව නැවත පරික්ෂා කිරීමට සිදුවේ.
+Shakib Al Hasan's bowling suspended due to illegal action. ICC rules require re-checking his bowling technique. He's currently playing in the Lanka Premier League.
 
-ශකීබ් අල් හසන් මේ දින වල ශ්‍රී ලංකාවේ පැවැත්වෙන ලංකා ටී10 ලීග් තරගාවලියේ ගෝල් මාවල්ස් කණ්ඩායම නියෝජනය කරමින් ක්‍රීඩා කරනු ලබයි.
+🟩
+
+Bangladesh three postpoles Shake Al Hazan bowling has been suspended in announcement, Bangladesh cricket has said.
+
+Accordingly, the International Cricket Council (ICC) has been suspended in local and international matches.
+
+His bowling suspended on charges of killing the ball.
+
+Accordingly, he has to check bowling posture again.
+
+Shakib al Hassan players playing the Goal Maval Maval Maval Maval Maval Maval of Lanka T-10 League these days.
 
 ◼️
 
 [Data](articles/aeef0516.json)
+
+[Extended Data](ext_articles/aeef0516.ext.json)
+
+---
+
+### Germany’s labour market shortages a boon for Indian workers
+
+*2024-12-16 10:43:00* · [`economynextcom`](https://economynext.com/germanys-labour-market-shortages-a-boon-for-indian-workers-194431/) · `en`
+
+ECONOMYNEXT – Germany is facing increased shortages in the labour market and is looking at India to fill that vacuum.
+
+While the shortage is mostly in the healthcare, IT, and engineering sectors, the country is seeing an increased need for skilled workers in other trades too.
+
+One initiative to address the shortage in the healthcare sector was the direct agreement signed between Germany and the State government of Kerala for the recruitment of nurses.
+
+That success may lead to similar collaborations with other State governments such as Madya Pradesh, Tamil Nadu and Maharashtra.
+
+Germany is also fast becoming the country of choice for Indians pursuing higher studies.
+
+Recent reports indicate that nearly 12.3 per cent (43, 000) of the international student body in Germany comprises Indians. They have now replaced Chinese students as the frontrunners.
+
+...
+
+[Data](articles/30987d0f.json)
+
+[Extended Data](ext_articles/30987d0f.ext.json)
 
 ---
 
@@ -133,6 +219,54 @@ Question - 02: 2024 How much did the government borrow?
 [Data](articles/d78647ca.json)
 
 [Extended Data](ext_articles/d78647ca.ext.json)
+
+---
+
+### මීටියාගොඩ වෙඩි තැබිමකින් පියාට හා දියණියට බරපතලයි
+
+*2024-12-16 09:51:42* · [`adalk`](https://www.ada.lk/breaking_news/මීටියාගොඩ-වෙඩි-තැබිමකින්-පියාට-හා-දියණියට-බරපතලයි/11-413660) · `si`
+
+මීටියාගොඩ , බලිමුල්ල නිවසකට ඊයේ (15) රෑ කඩාවැදුණු පිරිසක් විසින් කළ වෙඩි තැබීමකින් නිවසේ සිටි පියා හා දියණිය බරපතල තුවාල ලබා ඇති බවත් ඔවුන් බලපිටිය රෝහලට ඇතුළත් කළ බවත්  මීටියාගොඩ පොලීසිය කියයි.
+
+මෙසේ වෙඩි වැදී ඇත්තේ පනස්එක් හැවිරිදි රවීන්ද්‍ර ගුණතිලක නමැත්තාට සහ විසිනම හැවිරිදි රමයා ගුණතිලක නමැත්තියකටයි.
+
+ත්‍රීරෝද රථයකින් පැමිණි පිරිසක් පිස්තෝල වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදු කොට ඇති බව මුලික පරීක්ෂණවලදී අනාවරණයවූ බවද පොලීසිය කියයි.
+
+වෙඩි තැබීම සිදු කළ සැකකරු හදුනාගෙන ඇති බවත් ඔහු එම ප්‍රදේශයේම පදිංචි අයෙක් බවත් සැකකරු ඇතුලු පිරිස ප්‍රදේශයෙන් පලාගොස් ඇති බවත් පොලීසිය කියයි.
+
+පෞද්ගලික ආරවුලකට වෙඩි තැබීම සිදු කරන්නට ඇති බවත් මෙය පාතාල කණ්ඩායම් අතර ගැටුමක් නොවන බවත් පොලීසිය වැඩිදුරටත් කියයි.
+
+◼️
+
+[Data](articles/bf285416.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 290.20/40 to dollar, bonds steady
+
+*2024-12-16 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-290-20-40-to-dollar-bonds-steady-194414/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.20/40 to the US dollar in Monday early trade weaker from Friday’s close of 290.15/30, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.35/50 percent.
+
+A bond maturing on 15.10.2027 was quoted at 9.90/10.10 percent, from 9.95/10.10 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.20/25 percent, up from 10.18/28 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.70/76 percent, down from 10.70/80 percent.
+
+A bond maturing on 15.05.2030 was quoted at 10.90/11.10 percent, from 10.95/11.10 percent.
+
+Sri Lanka has received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange.
+
+In equities, the All Share Price Index was up 0.81 percent or 114.99 points, at 14,320.
+
+The more liquid S&P SL20 was up 1.28 percent, or 54.24 points, at 4,298.
+
+◼️
+
+[Data](articles/2e1965df.json)
 
 ---
 
@@ -518,51 +652,91 @@ The President and Indian Finance and Corporate Affairs, Indian Finance and Corpo
 
 ---
 
-### නව කථානායකවරයා තෝරා පත්කර ගැනීම හෙට
+### Sri Lanka President in economic talks with Indian finance, foreign ministers
+
+*2024-12-16 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-in-economic-talks-with-indian-finance-foreign-ministers-194403/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has discussed expanding economic ties between the two countries in talks with Finance Minister Nirmala Sitharaman, and External Affairs Minister S Jaishankar, a statement said.
+
+“Extensive discussions were held between President Dissanayake and Minister Sitharaman on enhancing Indo-Sri Lankan economic cooperation and expanding investment opportunities between the two countries,” the President’s media office said.
+
+“The talks also covered bringing more Indian tourists to Sri Lanka, modernizing Sri Lanka’s agriculture sector, and developing digital infrastructure.”
+
+In talks with External Affairs Minister Jaishankar the potential for utilizing India’s vast market to aid Sri Lanka’s economic recovery was explored.
+
+“The discussions also addressed areas of mutual interest, such as advancing the fisheries industry and fostering national unity in Sri Lanka,” the statement said.
+
+...
+
+[Data](articles/9708ad60.json)
+
+---
+
+### Selection of the new Speaker tomorrow
 
 *2024-12-16 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204412) · `si`
 
-ඒ අනුව මෙම සතිය තුළ පාර්ලිමේන්තුව රැස්වී හෙට සහ අනිද්දා (17) යන දින දෙක සඳහා සීමාවනු ඇත.
+Parliament meets tomorrow to elect new Speaker. Activities resume after Ashoka Ranwala's resignation. Government proposes candidate, Deputy Speaker also suggests one. Ruling party decides today. Opposition MP Nalin Bandara proposes opposition member for Speaker.
 
-මෙහිදී දැනට පුරප්පාඩුව පවතින කථානායක ධුරය සඳහා නව කථානායකවරයෙකු තෝරා පත්කර ගැනීමට නියමිතය.
+🟩
 
-ඉන් අනතුරුව පාර්ලිමේන්තුවේ කටයුතු සාමාන්‍ය පරිදි ආරම්භ වනු ඇති බව වාර්තා වේ.
+Accordingly, the Parliament will meet with the two days tomorrow and tomorrow (17).
 
-හෙට උදෑසන 9.30 සිට 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂාවෙන් යොමු කරන ප්‍රශ්න සඳහා මීට ප්‍රථම වෙන්කර තිබුණි.
+A new Speaker is to be elected vacant Speaker.
 
-කෙසේවෙතත් නව කථානායකවරයෙකු තෝරා පත්කර ගැනීම ආරම්භයේ දී ම සිදුවන අතර ඒ සඳහා යම් වේලාවක් ගත වනු ඇති බව සඳහන්ය.
+It is reported that the activities of Parliament will be normal.
 
-කථානායකවරයා ලෙස කටයුතු අශෝක රන්වල මහතාගේ ඉල්ලා අස්වීම ජනාධිපතිවරයා පිළිගැනීමත් සමග මේ වන විට 10වන පාර්ලිමේන්තුවේ කථානායක ධුරය පුරප්පාඩුව පවතී.
+The first has been allocated for issues that direct the verbal answer to 10 am to 10.30am.
 
-කෙසේවෙතත් කථානායක ධුරය සඳහා ආණ්ඩු පක්ෂයෙන් මේ වන විටත් නම් 3ක් යෝජනා වී ඇති අතර වත්මන් නියෝජ්‍ය කථානායකවරයාගේ නම ද ඒ සඳහා යෝජනා වී ඇති බව සඳහන්ය.
+However, it will take place at the beginning of the selection of a new Speaker.
 
-පවතින තත්වය තුළ නව කථානායකවරයා සම්බන්ධයෙන් අවසන් තීරණයක් ගැනීම සඳහා ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායමේ රැස්වීමක් අද දිනයේ දී පැවැත්වෙනු ඇත.
+Ashoka Ranwala Resignation of Ashoka Ranwala, the resignation of Mr. Asoka Ranwala, is now vacant by the Speaker of the 10th Parliament.
+
+However, the government has already been proposed by the government for the Speaker and the current Deputy Speaker has also proposed it.
+
+In the prevailing situation, a meeting of the ruling party group will be held today for a final decision on the new Speaker.
+
+Meanwhile, former parliamentarian Askara Marasinghe said that it is not an act of proposing a Member of Parliament from the Opposition for the Speaker.
 
 ...
 
 [Data](articles/be9e3a64.json)
 
+[Extended Data](ext_articles/be9e3a64.ext.json)
+
 ---
 
-### උතුරු - නැගෙනහිර ජනතාවට විශේෂ දැනුම්දීමක්
+### Special notice to the North and East people
 
 *2024-12-16 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204410) · `si`
 
-ගිණිකොනදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශ ආශ්‍රිතව ඉදිරි පැය 24 තුළ අඩු පීඩන කලාපයක් නිර්මාණය වීමේ හැකියාවක් පවතින අතර එම පද්ධතිය තවදුරටත් සෙමින් වර්ධනය වෙමින් බටහිරට බරව වයඹ දෙසට ගමන් කරනු ඇත.
+Here's a summary of 200 characters:
 
-ඉන් පසුව එළඹෙන දින දෙක තුළදී, එය දිවයිනේ උතුරුට ආසන්නව තමිල්නාඩු වෙරළ දෙසට ගමන් කිරීමේ හැකියාවක් පවතී.
 
-මෙම පද්ධතිය සම්බන්ධව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන ඉදිරි අනාවැකි සහ නිවේදන පිළිබඳව, විශේෂයෙන්ම දිවයිනේ නැගෙනහිර සහ උතුරු පළාත්වල වෙසෙන මහජනතාව අවධානයෙන් පසුවන ලෙස ඉල්ලා සිටී.
 
-උතුරු, නැගෙනහිර, උතුරු-මැද, ඌව සහ වයඹ පළාත්වලත් මාතලේසහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ. සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Weather alert: Low-pressure zone forming Bay of Bengal. Possible Tamil Nadu coastal impact in 2 days. Heavy rains (100mm) expected in Northern, Eastern, North-Central, Uva provinces. Strong winds (40km/h) forecasted in Northern, North-Central, Northwestern regions. Thunderstorms possible nationwide. Public advised to be cautious.
 
-උතුරු, නැගෙනහිර, උතුරු-මැද සහ ඌව පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 100 පමණ තද වැසි ඇතිවිය හැක.
+🟩
 
-උතුරු, උතුරු-මැද සහ වයඹ පළාත්වලත් මාතලේ සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 40 ක පමණතරමක තද සුළං ඇතිවිය හැකිය.
+There is a possibility of creating a lower pressure zone in the next 24 hours in the Bay of Bay of Bengal area.
+
+After that, in the next two days, it is capable of moving to the Tamil Nadu coast near the north of the island.
+
+The meteorological Department of Meteorological Department requests the next predictions and announcements issued in the eastern and northern provinces of the island.
+
+Showers or thundershowers will occur at times in the Northern, Eastern, North-Central, Uva and North Western Provinces. Showers or thundershowers will occur at the evening or night.
+
+MM in the Northern, Eastern, North-Central and Uva provinces. Heavy rain can occur around 100.
+
+From time to time in the Northern, North-Central and Northwestern provinces, Matale and Trincomalee districts.. There are about 40 high winds.
+
+In the middle of the middle, Sabaragamuwa and Southern provinces can last a night.
 
 ...
 
 [Data](articles/472acbd8.json)
+
+[Extended Data](ext_articles/472acbd8.ext.json)
 
 ---
 
@@ -2221,139 +2395,5 @@ He further stated that the Electricity Board (CEB) has been severely helpless, b
 [Data](articles/23aab403.json)
 
 [Extended Data](ext_articles/23aab403.ext.json)
-
----
-
-### UN pledges support for Sri Lanka’s development
-
-*2024-12-15 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104259/un-pledges-support-for-sri-lankas-development) · `en`
-
-The United Nations (UN) has pledged its support for Sri Lanka’s development.
-
-Sri Lanka’s Ministry of Health stated that this was assured by the UN Resident Representative Marc-André Franche during a meeting held today (15) with the Minister of Health Dr. Nalinda Jayatissa.
-
-During the meeting, the UN Resident Representative has pledged support for Sri Lanka’s development, focusing on peace, unity, and sustainable progress.
-
-◼️
-
-[Data](articles/9df5fa62.json)
-
-[Extended Data](ext_articles/9df5fa62.ext.json)
-
----
-
-### Reasoning for alcoholic clearance…!
-
-*2024-12-15 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201346) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former President Ranil Wickremesinghe justifies liquor permits to boost economy. He claims 72 crore rupee loss from cancelled local gov't elections. Cancellation occurred after all 2023 election activities ended.
-
-🟩
-
-Former President Ranil Wickremesinghe, who is justifying the distribution of liquor permits to repair the country's economy, is going to say that the government wasted 72 crores of rupees due to the cancellation of local government elections?Ranil Wickremesinghe canceled it at the end of all the activities for the 2023 local government elections.
-
-◼️
-
-[Data](articles/427d807c.json)
-
-[Extended Data](ext_articles/427d807c.ext.json)
-
----
-
-### A van falls into precipice
-
-*2024-12-15 17:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204402) · `si`
-
-Van crashes 50ft down precipice, 1 dead. Group of picnickers from Galle involved.
-
-🟩
-
-A van traveling along the Rivaston - Laggala road, a crash has been destroyed by about 50 feet in precipice this afternoon.
-
-The van had been in eight, one of them died, police said.
-
-A group of picnic from Galle has been accidental.
-
-◼️
-
-[Data](articles/28fc7310.json)
-
-[Extended Data](ext_articles/28fc7310.ext.json)
-
----
-
-### Money fraud for allegedly giving a foreign job
-
-*2024-12-15 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201329) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Kinniya over alleged foreign job scam. Suspect defrauded 43 lakhs. Investigations ongoing.
-
-🟩
-
-The suspect was arrested on Saturday (14) for allegedly getting a foreign job in the Kinniya Police Division.
-
-The Hakmana Police Station officials investigated the nine complaints received by the Hakmana Police Station regarding the money laundering crime and the man was arrested in connection with the incident.
-
-Investigations have revealed that the suspect had defrauded more than 43 lakhs of rupees.
-
-◼️
-
-[Data](articles/914a653a.json)
-
-[Extended Data](ext_articles/914a653a.ext.json)
-
----
-
-### නව කථානායක පත්කිරීම අනිද්දා
-
-*2024-12-15 17:29:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-කථානායක-පත්කිරීම-අනිද්දා/11-413649) · `si`
-
-මෙම සතියේ පාර්ලිමේන්තුව 17දා සහ අනිද්දා 18දා යන දින දෙකේදී රැස්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කර තිබේ. හෙට දිනයේ පාර්ලිමේන්තුව ආරම්භයේදී නවක මන්ත්‍රීවරුන්ගේ දිවුරුම් දීම සිදු කිරීමට නියමිතව ඇත.
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස ෆයිසර් මුස්තාපා මහතාද, සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර සඳහා සුජීව සේනසිංහ, නිසාම් කාර්යප්පර්, මුහම්මදු ඉස්මයිල් මුත්තු මුහම්මදු සහ මනෝ ගනේෂන් යන මහත්වරුන්ද නම් කර ගැසට් නිවේදනයකින් ප්‍රකාශයට පත් කර තිබේ.
-
-ඒ අනුව ඔවුන් හෙට දිනයේ නියෝජ්‍ය කථානායක වෛද්‍ය රිස්වි සාලි  මහතා ඉදිරියේ දිවුරුම් දීමට නියමිතව ඇත.
-
-අනතුරුව නව කථානායකවරයෙකු පත් කර ගැනීම සිදු කිරීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය ‘අද’පුවත්පතට පැවසුවාය.
-
-10 වැනි පාර්ලිමේන්තුවේ අභිනව කථානායකවරයා ලෙස පත් වූ අසෝක රංවල මහතා පසුගියදා ඉල්ලා අස්වීමෙන් පසු කථානායක ධුරයේ පුරපාඩුවක් ඇති විය.
-
-...
-
-[Data](articles/969eb41d.json)
-
----
-
-### The recognition of the 'Indian Tamil' given to the Tamil people of the hill country should be changed and the recognition of Sri Lankans - Minister of Women and Child Affairs
-
-*2024-12-15 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201327) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan hill country Tamils seek change from "Indian Tamil" to "Sri Lankan" status. Minister emphasizes their long history and contributions to the country. Differences between hill country and Northern/Eastern Tamils noted. Government initiatives to address land and housing issues.
-
-🟩
-
-The Tamil people living in the hill country in Sri Lanka have passed four generations, 200 years and so far as the birth certificate is written as 'Indian Tamil'.. But the people of the hill country in Sri Lanka, Saroja Savitri Bolraj, Minister of Women and Child Affairs, said that the sweat in Sri Lanka should be swept to Sri Lanka and live without the recognition of her country today.
-
-Nonsense. He was speaking at the launch of the two books of the Sivalingam Memorial Committee on Saturday (14) at the Colombo Tamil Sangam Sankarapillai Hall.
-
-It is their source that Sri Lanka has not yet embraced the people of Sri Lanka as Sri Lankan. The Indian government does not have the responsibility of being responsible for the Tamil people of the hill country economically and administratively in the country, whether a foreign country or ancestral country is a society that has been abandoned from India.
-
-...
-
-[Data](articles/0f94ae86.json)
-
-[Extended Data](ext_articles/0f94ae86.ext.json)
 
 ---

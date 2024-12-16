@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 21:01:58**
+As of **2024-12-16 21:27:06**
 
 ## Newspaper Stats
 
-*Scraped **60,517** Articles*
+*Scraped **60,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,93 @@ islandlk | 3,655
 economynextcom | 3,682
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,756
+adalk | 5,757
 adaderanalk | 7,375
 tamilmirrorlk | 8,646
-virakesarilk | 9,969
+virakesarilk | 9,971
 adaderanasinhalalk | 10,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,462 (99.9%) of 60,517 articles have been extended.
+60,465 (99.9%) of 60,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### 19 வயதுக்குட்பட்ட பெண்கள் ஆசிய கிண்ணம்: பாகிஸ்தானை அதிரவைத்து வெற்றியீட்டியது நேபாளம்
+### யாழ் மாவட்டத்தில் எலிக் காய்ச்சலினால் 85 பேர் பாதிப்பு
 
-*2024-12-16 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201458) · `ta`
+*2024-12-16 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201460) · `ta`
 
-மலேசியாவின் கோலாலம்பூரில் அமைந்துள்ள பேயுமாஸ் ஓவல் விளையாட்டரங்கில் இன்று நடைபெற்ற ஏ குழுவுக்கான 19 வயதுக்குட்பட்ட பெண்களுக்கான ஆசிய கிண்ண கிரிக்கெட் போட்டியில் பாகிஸ்தானை முற்றிலும் எதிர்பாராத விதமாக 6 விக்கெட்களால் நேபாளம் வெற்றிகொண்டது.
+யாழ் மாவட்டத்தில் எலிக் காய்ச்சலினால் 85 பேர் இதுவரை பாதிக்கப்பட்டுள்ளனர் என யாழ்ப்பாண பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஆறுமுகம் கேதீஸ்வரன் தெரிவித்தார்.
 
-இப் போட்டி முடிவை அடுத்து பிரதான கிண்ணத்திற்கான இரண்டாம் சுற்றில் விளையாட பி குழுவிலிருந்து இந்தியாவும் நேபாளமும் தகுதிபெற்றுள்ளன.
+யாழ்ப்பாணத்தில் திங்கட்கிழமை (16) நடைபெற்ற ஊடக சந்திப்பில் கருத்து தெரிவித்த போதே இதனைத் தெரிவித்தார்.
 
-19 வயதுக்குட்பட்ட பாகிஸ்தான் பெண்கள் அணியினால் நிர்ணயிக்கப்பட்ட 105 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட நேபாள பெண்கள் அணி 19 ஓவர்களில் 4 விக்கெட்களை இழந்து 105 ஓட்டங்களைப் பெற்று அபார வெற்றியீட்டியது.
+தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 21 பேரும் யாழ் போதனா வைத்தியசாலையில் 11 பேரும் இந்நோய்க்காகச் சிகிச்சைபெற்று வருகின்றனர்.
 
-அணித் தலைவி பூஜா மஹாட்டோ 47 பந்துகளில் ஆட்டம் இழக்காமல் 47 ஓட்டங்களைப் பெற்று அணியின் வெற்றியில் பிரதான பங்காற்றினார்.
+கடந்த 24 மணிநேரத்தில் புதிதாக பருத்தித்துறை ஆதார வைத்தியசாலைக்கு 9 நோயாளர்களும் யாழ் போதனா வைத்தியசாலைக்கு 4 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
 
-பூஜா மஹாட்டோவும் சீமானா ஆகிய இருவரும் பிரிக்கப்படாத 5ஆவது விக்கெட்டில் 39 ஓட்டங்களைப் பகிர்ந்து ஒரு ஓவர் மீதம் இருக்கையில் நேபாளத்தின் வெற்றியை உறுதிசெய்தனர்.
+சனிக்கிழமை (14) இரவு யாழ் போதனா வைத்தியசாலையில் கரவெட்டி சுகாதார வைத்திய அதிகாரி பிரிவில் துன்னாலை கிராமத்தைச் சேர்ந்த 23 வயதான இளைஞர் ஒருவர் எலிக்காய்ச்சல் நோய் காரணமாக உயிரிழந்துள்ளார். இத்துடன் இதுவரை யாழ் மாவட்டத்தில் எலிக்காய்ச்சல் காரணமாக 7 இறப்புக்கள் ஏற்பட்டுள்ளன.
 
 ...
 
+[Data](articles/e1be7a54.json)
+
+---
+
+### எதிர்க்கட்சியின் சபாநாயகர் பதவிக்கு ராேஹினி விஜேரத்ன
+
+*2024-12-16 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201459) · `ta`
+
+எதிர்க்கட்சியில் இருந்து சபாநாயகர் பதவிக்கு ஐக்கிய மக்கள் சக்தியின் மாத்தளை மாவட்ட பாராளுமன்ற உறுப்பினர் ராேஹின குமாரி விஜேரத்னவின் பெயரை பிரேரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற குழு 15ஆம் திகதி ஞாயிற்றுக்கிழமை கூடி, இதுதொடர்பாக ஆராந்தபோதே இந்த தீர்மானத்தை மேற்கொண்டுள்ளதாக தெரியவருகிறது.
+
+கலாநிதி பட்டம் தொடர்பில் எழுந்த சர்ச்சையை அடுத்து சபாநாயகர் பதவியை அசோக்க ரன்வல இராஜினாமா செய்ததன் மூலம் சபாநாயகர் பதவிக்கான வெற்றிடம் பாராளுமன்றத்தில் ஏற்பட்டுள்ளது.
+
+இந்நிலையில் பாராளுமன்றம் இன்று கூடுகின்றபோது, புதிய சபாநாயகர் ஒருவரை தெரிவு செய்யும் நடவடிக்கை இடம்பெறும். இதன்போது புதிய சபாநாயகர் ஒருவரை பிரேரிக்கும்போது எதிர்க்கட்சியில் இருந்தும் ஒருவரை பிரேரிப்பதாக ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்திருந்தார்.
+
+அதன் பிரகாரம் பாராளுமன்ற உறுப்பினர் ராேஹினி குமாரி விஜேரத்னவின் பெயரை பிரேரிப்பதற்கு ஐக்கிய மக்கள் சக்தி தீர்மானித்துள்ளது.
+
+...
+
+[Data](articles/8e8ab73c.json)
+
+---
+
+### Asian Bowl: Nepal
+
+*2024-12-16 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201458) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Nepal wins against Pakistan in Under-19 Asian Cup cricket. Nepal scored 105/4 in 19 overs, led by Pooja Mahato's 47*. India and Nepal qualify for the next round. Pakistan scored 104/5 in 20 overs. Komal Khan top-scored for Pakistan with 38*.
+
+🟩
+
+Nepal won Pakistan by 6 wickets in a 19 -year -old Asian Cup cricket match for the A group held at the Bayumas Oval Stadium in Kuala Lumpur, Malaysia.
+
+India and Nepal are qualified from the B team to play in the second round for the main bowl following the match.
+
+Under -19 Nepal women under the age of 19 scored 105 runs for the loss of 4 wickets in 19 overs.
+
+Team captain Pooja Mahato played a major role in the team's victory with 47 runs without losing 47 balls.
+
+Both Pooja Mahato and Seemana shared 39 runs in the 5th wicketless 5th wicket and confirmed Nepal's victory.
+
+Sony Bagrin scored 13 runs than Mahato, Sanaa Parveen scored 10 runs and Sanaa Perveen 10 runs.
+
+Earlier, Pakistan scored 104 runs for the loss of 5 wickets in 20 overs.
+
+Komal Khan scored 38 runs, Maham Anis scored 29 runs, Ravil Barhan 13 and team captain Zubishan Ayas 12 runs.
+
+◼️
+
 [Data](articles/10c7d17d.json)
+
+[Extended Data](ext_articles/10c7d17d.ext.json)
 
 ---
 
@@ -130,33 +184,51 @@ Speaking to the media in Anuradhapura, the Minister said.
 
 ---
 
-### நாட்டின் சில பகுதிகளில் மண்சரிவு அபாய எச்சரிக்கை
+### A warning of landslides in some parts of the country
 
 *2024-12-16 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201455) · `ta`
 
-குறித்த எச்சரிக்கை அறிவிப்பு 16ஆம் திகதி திங்கட்கிழமை மாலை 4 மணி முதல் 17ஆம் திகதி செவ்வாய்க்கிழமை மாலை 4 மணி வரை அமுலில் இருக்கும் என்று தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+Landslide warnings issued for specific areas: Badulla, Kurunegala, and Matale districts on 16th-17th. Affected regions include Hallyela, Pasarai, Medathumbara, Padatumbara, Rathikama, Rathottai, and Ambankanga Koralaya.
 
-இதன்படி, பதுளை மாவட்டத்தின் ஹப்புத்தளை எல்ல, ஹாலிஎல மற்றும் பசறை, கண்டி மாவட்டத்தின் மெததும்பர மற்றும் பாததும்பர,  குருநாகல் மாவட்டத்தில் ரிதீகம, மாத்தளை மாவட்டத்தின் ரத்தோட்டை, அம்பன்கங்க கோரலய ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கே இந்த எச்சரிக்கை அறிவிப்பு விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The National Building Research Institute said that the warning announcement will be in effect on Monday, 16th and 17th Tuesday.
+
+Accordingly, the warning has been issued to the Divisional Secretariat Divisions of the Badulla District, Hallyela and Pasarai, Medathumbara and Padatumbara in Kurunegala District, Rathikama, Matale District, Rathottai and Ambankanga Koralaya in Kurunegala District.
 
 ◼️
 
 [Data](articles/a82d4152.json)
 
+[Extended Data](ext_articles/a82d4152.ext.json)
+
 ---
 
-### சர்வதேச இறையாண்மை பத்திர மறுசீரமைப்பு உடன்படிக்கை; ரணிலின் வேலைத்திட்டத்தின் தொடர்ச்சியை முன்னெடுப்பதாகும்
+### International Sovereignty Reorganization Agreement;Is to carry out the continuation of Ranil's program
 
 *2024-12-16 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201454) · `ta`
 
-சர்வதேச இறையாண்மை பத்திர மறுசீரமைப்பு உடன்படிக்கை முன்னாள் ஜனாதிபதி ரணிலின் வேலைத்திட்டத்தின் தொடர்ச்சியை முன்னெடுப்பதாக உள்ளதென்று முன்னிலை சோசலிசக் கட்சி தெரிவித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-அக்கட்சி விடுத்துள்ள ஊடக அறிவிப்பில் மேற்கண்டவாறு தெரிவித்துள்ளதோடு அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது,
 
-சர்வதேச இறையாண்மை பத்திரங்களின் மறுசீரமைப்பை இலங்கை வெற்றிகரமாக நிறைவு செய்துள்ளதாக நிதி அமைச்சு டிசம்பர் 14ஆம் திகதி அறிக்கை ஒன்றை வெளியிட்டுள்ளது.  98 சதவீதமான சர்வதேச இறையாண்மை பத்திரம் வைத்திருப்பவர்கள் பத்திரப் பரிமாற்றத்தில் விருப்பம் தெரிவித்துள்ளதாகவும், எதிர்காலத்தில் இலங்கையின் சர்வதேச இறையாண்மை பத்திரங்களின் மறுசீரமைப்பு தற்போதுள்ள பத்திரங்களுக்கு புதிய பத்திரங்களை பரிமாறிக்கொள்வதன் மூலம் ஆரம்பிக்கப்படும் எனவும் நிதி அமைச்சு தெரிவித்துள்ளது.
+
+Sri Lanka's International Sovereignty Reform Agreement continues former Pres. Ranil's program. 98% bondholders agreed to exchange. Critics claim it favors lenders over Sri Lanka, potentially increasing debt burden despite promised 15% reduction. Transparency issues raise concerns among citizens and opposition parties.
+
+🟩
+
+The Frontline Socialist Party has said that the International Sovereignty Reform Agreement is launching the continuation of the former President Ranil's program.
+
+The statement issued by the party said in the statement and further stated in the report.
+
+The Ministry of Finance has issued a statement on December 14 that Sri Lanka has successfully completed the restructuring of international sovereignty bonds.The Ministry of Finance said that 98 percent of international sovereignty bond holders have expressed their willingness in the bond exchange and the restoration of Sri Lanka's international sovereignty bonds will be launched by exchange of new bonds to existing bonds.
+
+The National People's Power Government came to power and on September 19, 2024, Sri Lanka was invited to exchange its bonds with new bonds on November 25, 2024, according to a policy agreement signed with the International Investor Bonds and two local lending company representatives.
 
 ...
 
 [Data](articles/68997a59.json)
+
+[Extended Data](ext_articles/68997a59.ext.json)
 
 ---
 
@@ -317,6 +389,22 @@ The police said in court, the police said in court, the police stated in the cou
 [Data](articles/97f40bb0.json)
 
 [Extended Data](ext_articles/97f40bb0.ext.json)
+
+---
+
+### ත්‍රීපෝෂ  අඛණ්ඩව ලබාදීම ප්‍රමුඛ අරමුණක්
+
+*2024-12-16 18:18:49* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීපෝෂ--අඛණ්ඩව-ලබාදීම-ප්‍රමුඛ-අරමුණක්/11-413675) · `si`
+
+මෙරට ළදරුවන්ට හා මවුවරුන්ට ඉහළම පෝෂණ ගුණයෙන් පරිපූර්ණ, සුව ගුණ සපිරි ත්‍රීපෝෂ අතිරේක  ආහාරය  අඛණ්ඩව ලබාදීම සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රමුඛතම අරමුණක් බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කරයි.
+
+අමාත්‍යවරයා මේ බව සදහන් කරනු ලැබුයේ ලෝක ආහාර වැඩසටහනේ (World Food Programme) මෙරට නියෝජිතයන් සහ ශ්‍රී ලංකා ත්‍රීපෝෂ සමාගමේ කළමණාකාරීත්වය සමග‍ පසුගියදා සෞඛ්‍ය අමාත්‍යාංශයේදී පැවැත්වූ විශේෂ සාකච්ඡාවක දීය.
+
+ත්‍රීපෝෂ ප්‍රතිලාභීන් වන ළදරුවන්ට, ගර්භනී සහ කිරිදෙන මව්වරුන්ට ත්‍රීපෝෂ අතිරේක ආහාරය ලබාදීමේ වැඩසටහන වඩාත් ඵළදායීතාවයෙන්, විධිමත්ව, කාර්යක්ෂමව සහ සෞඛ්‍යාරක්ෂිතව ඉදිරියටත් ක්‍රියාත්මක කිරීම පිළිබදව මෙහිදී ඉතා දීර්ඝ වශයෙන් සාකච්ඡා කෙරිණි.
+
+...
+
+[Data](articles/696a9cb8.json)
 
 ---
 
@@ -2259,73 +2347,5 @@ The deceased is a 29 year old resident of Dambulla Road, Dambulla Road.
 [Data](articles/f8e9f58b.json)
 
 [Extended Data](ext_articles/f8e9f58b.ext.json)
-
----
-
-### New Speaker of Parliament to be elected tomorrow
-
-*2024-12-16 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104272/new-speaker-of-parliament-to-be-elected-tomorrow) · `en`
-
-The appointment of a new Speaker of Sri Lanka’s Parliament to fill the vacancy created by the resignation of MP Asoka Ranwala will take place tomorrow (Dec. 17).
-
-Parliament is scheduled to convene on December 17 and 18 and the relevant nominations for the appointment of a new Speaker will be submitted on the first day.
-
-Meanwhile, three names have been proposed from the ruling party for the position of Speaker of Sri Lanka’s Parliament. The names include current Deputy Speaker Dr. Rizvie Salih, MP Lakshman Nipuna Arachchi, and MP Nihal Galappaththi.
-
-It was reported that the ruling party Parliamentary group will meet today (15), to reach a final decision regarding the new appointment.
-
-The opposition has stated that they will also propose a name for the Speaker of Parliament, representing the opposition.
-
-However, former MP Ashu Marasinghe expressed that it is inappropriate to suggest an opposition-aligned MP for the position.
-
-...
-
-[Data](articles/8f5bd511.json)
-
-[Extended Data](ext_articles/8f5bd511.ext.json)
-
----
-
-### Sri Lankans shine at ‘Sanctuary Asia Wildlife Photography Awards 2024’
-
-*2024-12-16 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104271/sri-lankans-shine-at-sanctuary-asia-wildlife-photography-awards-2024) · `en`
-
-Three Sri Lankan photographers made headlines with their remarkable captures at the prestigious ‘Sanctuary Asia Wildlife Photography Awards 2024’, showcasing the beauty and challenges of wildlife through their lenses.
-
-Sri Lanka’s Tharindu Dilshan Sendanayake claimed the coveted first prize with his breathtaking photograph titled ‘Primal Fury’, taken at Yala National Park. The image vividly captures a dramatic life-or-death struggle between a dominant Sri Lankan leopard (Panthera pardus kotiya) and a wild pig (Sus scrofa affinis), creating a masterpiece reminiscent of a Renaissance painting. The intense scene unfolds as the leopard, startled mid-mating, defends itself against the charging wild pig.
-
-This extraordinary depiction of the wild earned Tharindu a grand prize of INR 150,000.
-
-...
-
-[Data](articles/0bc3edb8.json)
-
----
-
-### Has the government fall into a major crisis?
-
-*2024-12-16 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-நெருக்கடிக்குள்-அரசாங்கம்-வீழ்ந்துள்ளதா/175-348787) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's 2024 government borrowing: 3,670 billion rupees GFN. Actual loan: 1,903 billion rupees Jan-Sep. Projected: 1,612 billion rupees Oct-Dec. Domestic credit: 1,445 billion rupees; foreign loans: 415 billion rupees. No risk of exceeding 2024 debt targets.
-
-🟩
-
-During the last presidential election, there were various comments about the government's obtaining loans. However, some argue that the government is getting more debts. Some people respond that the government receives loans is acceptable. In this case, there are conflicting claims that the loans received in this position are to address the deficit of the budget, or to repay the loans we have already received.. Factcheck.lk clarifies three key questions about the Sri Lankan government's obtaining loans.
-
-Governments get loans for three main reasons. First to make the main financial deficit. To pay off the second loans and interest. Third to pay maturity loans.
-
-If the government is considering these three reasons for one thing, it is the total value of the debt that the government has to obtain every year. This is what we call the GFN (Gross Financing Need) total financial service.
-
-Question - 02: 2024 How much did the government borrow?
-
-...
-
-[Data](articles/d78647ca.json)
-
-[Extended Data](ext_articles/d78647ca.ext.json)
 
 ---

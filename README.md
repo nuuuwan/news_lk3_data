@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 13:02:08**
+As of **2024-12-16 13:44:11**
 
 ## Newspaper Stats
 
-*Scraped **60,421** Articles*
+*Scraped **60,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,271 @@ islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,744
-adaderanalk | 7,355
-tamilmirrorlk | 8,635
-virakesarilk | 9,945
-adaderanasinhalalk | 10,441
+adalk | 5,745
+adaderanalk | 7,364
+tamilmirrorlk | 8,638
+virakesarilk | 9,950
+adaderanasinhalalk | 10,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,399 (100.0%) of 60,421 articles have been extended.
+60,409 (99.9%) of 60,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### தவறான தரவுகள்;CID சென்றார் நீதியமைச்சர்
+### Sri Lankan President - Indian Prime Minister meets Delhi
+
+*2024-12-16 13:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஜனாதிபதி-இந்திய-பிரதமர்-டெல்லியில்-சந்திப்பு/175-348796) · `ta`
+
+N
+
+🟩
+
+Indian Prime Minister Narendra Modi and Sri Lankan President Anura Kumara Dissanayake met at the Hyderabad residence in Delhi on Monday.
+
+Earlier, Sri Lankan President Anura Kumara Dissanayake paid tribute to Mahatma Gandhi's statue in Rajkot. Minister of State for Information and Broadcasting L. Murugan was also present.
+
+◼️
+
+[Data](articles/3464fa3c.json)
+
+[Extended Data](ext_articles/3464fa3c.ext.json)
+
+---
+
+### Prem and Thakur further remanded
+
+*2024-12-16 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204427) · `si`
+
+Colombo Magistrate's Court remands Gold Mavals team owner arrested in Lanka T10 cricket tournament. Suspect to appear in court on 18th after informing official compartment about criminal disadvantage. Indian national arrested by Sports Pollution Prevention Unit of TNA.
+
+🟩
+
+The Colombo Magistrate's Court presented the owner of the Gold Mavals team, who was arrested and remanded.
+
+The suspect was arrested in the Lanka T10 cricket tournament held in the Lanka T10 cricket tournament held in Kandy.
+
+The complaint was called before Colombo Major Magistrate Thilina Gamage today (16).
+
+The defendant had informed the defendant's official compartment in the official compartment of the criminal disadvantage.
+
+The Colombo Chief Magistrate ordered that the suspect was produced before courts on the 18th.
+
+The Indian national had recently been arrested by the Sports Pollution Prevention Unit of the Sports Corruption Unit of the TNA.
+
+◼️
+
+[Data](articles/b5716fc1.json)
+
+[Extended Data](ext_articles/b5716fc1.ext.json)
+
+---
+
+### Complaints at CIT regarding false data
+
+*2024-12-16 13:05:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-தரவுகள்-குறித்து-சி-ஐ-டியில்-முறைப்பாடு/175-348795) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Minister Harshana Nanayakkara filed a complaint with CID about false data on Parliament's website. He suspects someone may have uploaded this to slander him or undermine his political trust. The Minister believes the CID will investigate further.
+
+🟩
+
+Justice and National Integration Minister Harshana Nanayakkara has lodged a complaint with the Criminal Investigation Department today (16) regarding the upload of false data on the official website of Parliament.
+
+Has anyone entered false information in order to slander him or break his confidence in his politics?He told the media that he was suspicious.
+
+However, the Minister of Justice added that the Criminal Investigation Department has lodged a complaint with the Criminal Investigation Department.. Remble
+
+◼️
+
+[Data](articles/ab1f047e.json)
+
+[Extended Data](ext_articles/ab1f047e.ext.json)
+
+---
+
+### Anura and Modi in bilateral discussion
+
+*2024-12-16 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204426) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Presidents Anura Kumara Dissanayake and Narendra Modi met in New Delhi. Foreign ministers Vijitha Herath and S.Jaishankar attended. Bilateral discussion took place at Hyderabad House in New Delhi.
+
+🟩
+
+President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi held a bilateral discussion in the Hyderabad center in New Delhi.
+
+Foreign Ministers of the two countries, Vijitha Herath and Dr. S.. Jeyishankar and others joined.
+
+◼️
+
+[Data](articles/0f20954f.json)
+
+[Extended Data](ext_articles/0f20954f.ext.json)
+
+---
+
+### Incorrect data; CID went to Justice Minister
 
 *2024-12-16 12:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-தரவுகள்-CID-சென்றார்-நீதியமைச்சர்/175-348794) · `ta`
 
-நீதி அமைச்சர் ஹர்ஷன நாணயக்கார தனது கல்வித் தகுதி தொடர்பான பிழையான தரவுகள் பாராளுமன்ற தரவுத்தளத்தில் பதிவு செய்யப்பட்டமை தொடர்பில் விசாரணை நடத்துமாறு குற்றப் புலனாய்வு திணைக்களத்தில் (CID) முறைப்பாடு செய்துள்ளார்.
+Sri Lanka: Justice Minister Harshana Nanayakkara complains about false academic qualifications on parliamentary database. CID investigates.
 
-நீதியமைச்சர், சட்டத்தரணி ஹர்ஷன நாணயக்காரவின் கல்வித் தகைமைகள் தொடர்பான விவரங்கள் பாராளுமன்ற இணையத்தளத்தில் தவறாக பதிவேற்றப்பட்டுள்ளதை மேற்கோள்காட்டி, அவை தவறானவை என கடந்த வாரம் இலங்கை பாராளுமன்றம் ஒப்புக்கொண்டது.
+🟩
+
+Minister of Justice Harshana Nanayakkara has lodged a complaint with the Criminal Investigation Department (CID) to investigate the registration of his educational qualification in the Parliamentary Database.
+
+Last week, the Sri Lankan parliament acknowledged that the details of the academic qualifications of the Justice Minister and Attorney Harshana Nanayakkara had been falsely uploaded to the parliamentary website.
 
 ◼️
 
 [Data](articles/784d3fc9.json)
+
+[Extended Data](ext_articles/784d3fc9.ext.json)
+
+---
+
+### President meets Prime Minister Anura Muddi
+
+*2024-12-16 12:48:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-අගමැති-මෝදි-හමුවෙයි/11-413664) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake met Indian PM Narendra Modi in Delhi. They held bilateral talks at Hyderabad House. The meeting focused on strengthening ties between the two nations.
+
+🟩
+
+President Anura Kumara Dissanayake met with Indian Prime Minister Narendra Moodi.
+
+Video |PM MODI (@narendramodi) Welcomes Sri Lankan president anura kumara dissanayake
+
+(@anuradisanayake) at Hyderabad HOUSE, DELHI, AHADe of thehead Bilateral Talks.
+
+◼️
+
+[Data](articles/10dac759.json)
+
+[Extended Data](ext_articles/10dac759.ext.json)
+
+---
+
+### Complaint at the Justice Minister Criminal Investigation Department
+
+*2024-12-16 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201399) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Justice Minister Harshana Nanayakkara filed a complaint with the Criminal Investigation Department regarding changes to the educational qualifications listed on Parliament's official website for Members of Parliament.
+
+🟩
+
+The educational qualification of members has been changed on the official website of Parliament in the Profile of Members of Parliament.
+
+Justice Minister Harshana Nanayakkara has lodged a complaint with the Criminal Investigation Department today (16).
+
+◼️
+
+[Data](articles/fb633f4e.json)
+
+[Extended Data](ext_articles/fb633f4e.ext.json)
+
+---
+
+### 14 teachers suspended with fake educational certificates in North Central Province
+
+*2024-12-16 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201392) · `ta`
+
+14 teachers suspended in North Central Province for fake certificates. Since 1997, 14 educators dismissed for falsified credentials. Committee formed to verify documents. Some used fake foreign university degrees.
+
+🟩
+
+Sirimavan Dharmasena, Secretary of the North Central Provincial Ministry of Education, said that 14 graduate and training teachers have been suspended for submitting fake educational certificates and copies in the North Central Province.
+
+Since 1997, 14 teachers have been suspended for work in schools in the North Central Province.
+
+The dismissal teachers have been working for eight to twenty -five years in schools in the North Central Province.
+
+Chief Ministry Secretary Sirimavan Dharmasena said that the GCE Ordinary Level, GCE Advanced Level and Degree Certificates have been found to be fake.
+
+In addition, a committee has been appointed by the Provincial Public Service Commission to verify the certificates and other documents of these teachers.
+
+Secretary of the North Central Provincial Education Ministry Sirimavan Dharmasena added that some of the teachers who have been suspended have submitted fake graduate certificates of universities abroad to receive a teacher degree.
+
+◼️
+
+[Data](articles/7c379e60.json)
+
+[Extended Data](ext_articles/7c379e60.ext.json)
+
+---
+
+### 17-year-old girl killed in road accident in Kandy
+
+*2024-12-16 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104276/17-year-old-girl-killed-in-road-accident-in-kandy) · `en`
+
+A 17-year-old girl has died following a road accident on William Gopallawa Mawatha in Kandy early this morning (16).
+
+The accident occurred when a scooter motorcycle traveling from Gatambe to Kandy had collided with a vehicle near the Fish Market.
+
+The teenage girl, who was riding pillion on the motorcycle with her father, was tragically killed after being run over by another vehicle following the collision.
+
+The victim, a resident of Gelioya in Kandy, was pronounced dead at the scene. Her father, who was riding the motorcycle, had escaped without injuries.
+
+◼️
+
+[Data](articles/20419e2f.json)
+
+---
+
+### Lanka T10 match-fixing scandal: Indian team owner to make confidential statement to court
+
+*2024-12-16 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104275/lanka-t10-match-fixing-scandal-indian-team-owner-to-make-confidential-statement-to-court-) · `en`
+
+The Indian owner of the ‘Galle Marvels’ team in the Lanka T10 Super League, who was arrested on Thursday (12) over match-fixing allegations, has been ordered to be further remanded until December 18 after being produced before the Colombo Magistrate’s Court today (16).
+
+The case was taken up before Colombo Magistrate Thilina Gamage this morning.
+
+During the trial, the defendant Indian national has informed the court that he is prepared to provide a confidential statement to the magistrate regarding the accusations, under the Article 127 of the Code Of Criminal Procedure.
+
+Accordingly, the Magistrate ordered the suspect to be presented to the court on December 18 for providing the statement and to remand him in custody until then.
+
+The Indian national, Prem Thakur, who owns a franchise in the tournament, was taken into custody by Sri Lanka Police on Thursday in Kandy’s Pallekele stadium, where the league is taking place.
+
+...
+
+[Data](articles/6d9c7829.json)
+
+---
+
+### Justice Minister files complaint with CID over false information on Parliament website
+
+*2024-12-16 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104274/justice-minister-files-complaint-with-cid-over-false-information-on-parliament-website) · `en`
+
+Minister of Justice and National Integration, Attorney-at-Law Harshana Nanayakkara lodged a complaint with the Criminal Investigation Department (CID) today (16) regarding the publication of incorrect information on the official website of the Parliament of Sri Lanka.
+
+Speaking to the media, the Minister expressed concerns that someone may have deliberately entered false data to tarnish his reputation or erode public trust in his political career.
+
+This controversy began when the Parliament website mistakenly listed the Minister’s name as “Dr. Harshana Nanayakkara,” and later corrected it by removing the ‘Dr.’ title following a complaint made by the Minister.
+
+The Minister of Justice also stated that the Parliamentary Secretariat had subsequently sent him a letter stating that there had been an error in uploading the names.
+
+...
+
+[Data](articles/54bb64cb.json)
 
 ---
 
@@ -61,6 +299,42 @@ In 1960, as she rode to power, after a grueling campaign, as the world’s first
 [Data](articles/4bf6a347.json)
 
 [Extended Data](ext_articles/4bf6a347.ext.json)
+
+---
+
+### පියා සමග යතුරුපැදියේ ගිය දියණියට අත් වූ ඉරණම
+
+*2024-12-16 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204424) · `si`
+
+අද (16) උදෑසන මහනුවර, විලියම් ගොපල්ලව මාවතේ, මත්ස්‍ය වෙළෙඳපොළ ඉදිරිපිට දී ගැටඹේ දෙස සිට මහනුවර දක්වා ගමන්ගත් යතුරුපැදියක් වාහනයක ගැටී අනතුරට ලක්ව තිබේ.
+
+අනතුරින් යතුරුපැදියේ ගමන්ගත් පියා හා දියණිය වාහනයේ ගැටී ඇදවැටි ඇති අතර එම අවස්ථාවේදී වෙනත් වාහනයකට දියණියගේ හිස යට වී ඇති බව වාර්තා වේ.
+
+අනතුරට ලක්වූ 17 හැවිරිදි දියණිය එම ස්ථානයේ ම මියගොස් ඇති අතර ඇය මහනුවර ගෙලිඔය ප්‍රදේශයේ පදිංචිකාරිණියකි.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ අනතුරින් පියාට කිසිදු තුවාලයක් සිදු වූ නොමැති බවය.
+
+"ට්‍රැෆික් එක තිබුණා . එක පාරම වාහනයටක් දැම්මා මම බ්‍රේක් කරා. මට හිතා ගන්න බෑ ලිස්සලා වැටුණා. දෙන්නාම එක පැත්තට වැටුනේ. කොහොම හරි වාහනයක් උඩින් ගිහින් තියෙනවා. මම දකිනකොට වෙලා ඉවරයි."
+
+◼️
+
+[Data](articles/98553624.json)
+
+---
+
+### The Silence of the Speaker and other matters
+
+*2024-12-16 11:30:00* · [`islandlk`](http://island.lk/the-silence-of-the-speaker-and-other-matters/) · `en`
+
+It is more than two weeks since the matter of the Speaker, Asoka Ranwala’s doctorate, or lack of it, was raised in public. If he does have one, it is sufficient time for him to have produced the necessary evidence and laid to rest the ongoing speculation. When my daughter acquired a doctorate from a university in England, she was ceremoniously presented with an ornately inscribed scroll, on thick, parchment paper , along with a foolish hat.
+
+To me, a non-academic, it seemed a paltry outcome for the several years of intense study which preceded the award but that, apparently, is how these systems work. Perhaps Waseda University of Japan, the institution alleged to have conferred the doctoral degree on Ranwala, does not emulate old-fashioned British institutions, but there still needs to be tangible, physical evidence of such an award, with which Ranwala came away from that institution.
+
+...
+
+[Data](articles/30fa7f34.json)
+
+[Extended Data](ext_articles/30fa7f34.ext.json)
 
 ---
 
@@ -90,6 +364,40 @@ The suspects are from Matale and Udaspattu area aged 46 and 48.
 
 ---
 
+### අධිකරණ ඇමතිගෙන් CIDයට පැමිණිල්ලක්
+
+*2024-12-16 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204423) · `si`
+
+පාර්ලිමේන්තු නිල වෙබ් අඩවියට ව්‍යාජ දත්ත ඇතුළත් කර තිබීම සම්බන්ධයෙන් අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+
+යම් අයෙක් තමාව අපකීර්තියට පත්කිරීමට හෝ තම දේශපාලනය කෙරෙහි ඇති විශ්වාසය බිඳදැමීමේ අරමුණින් ව්‍යාජ දත්ත ඇතුළත් කිරීමක් කළා දැයි සැක සහිත බව අමාත්‍යවරයා මෙහිදී මාධ්‍යයට අදහස් දක්වමින් පැවසීය.
+
+පාර්ලිමේන්තු නිල වෙබ් අඩවියේ "ආචාර්ය හර්ෂණ නානායක්කාර" යනුවෙන් පළ කර තිබී පසුව අමාත්‍යවරයා සිදුකළ පැමිණිල්ලක් මත එය නිවැරදි කිරීමත් සමග පසුගිය දා මහත් ආන්දෝලනයක් හට ගත්තේය.
+
+පසුව පාර්ලිමේන්තු මහලේකම් කාර්යාලය විසින් නම් උඩුගත කිරීමේ දී සිදුවු වැරදීමක් ලෙස දක්වමින් තමාට ලිපියක් එවා ඇතැයි ද අධිකරණ අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/0725cc34.json)
+
+---
+
+### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
+
+*2024-12-16 11:23:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
+
+‘We in Lanka feel that our fight for freedom is being fought largely in India’
+
+We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
+
+Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
+
+...
+
+[Data](articles/42a20cca.json)
+
+---
+
 ### Unidentified corpse recovery
 
 *2024-12-16 11:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளம்-தெரியாத-சடலம்-மீட்பு/175-348792) · `ta`
@@ -113,6 +421,44 @@ The body is being kept at the Colombo National Hospital and the Kaluppitti polic
 [Data](articles/6afd697e.json)
 
 [Extended Data](ext_articles/6afd697e.ext.json)
+
+---
+
+### ராஜாங்கனை பகுதியில் போதைப்பொருட்களுடன் சந்தேகநபர் கைது!
+
+*2024-12-16 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201394) · `ta`
+
+அநுராதபுரம், ராஜாங்கனை பகுதியில் போதைப்பொருட்களை வைத்திருந்த சந்தேக நபர் ஒருவரை கைது செய்துள்ளதாக ராஜாங்கனை பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸாருக்கு கிடைத்த தகவலுக்கமைய நேற்று ஞாயிற்றுக்கிழமை (15) ஆம் திகதி இரவு ராஜாங்கனை பொலிஸ் பிரிவின் யாய 17 பஹளமாரகஹவெவ பகுதியில் நடத்திய சுற்றிவளைப்பின் போது சந்தேக நபரை கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபரிடமிருந்து 46 கிராம் 100 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மற்றும் 18 கிராம் 450 மில்லி கிராம் ஐஸ் போதைப்பொருட்கள்  ராஜாங்கனை பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+கைதுசெய்யப்பட்டவர் 46 வயதுடைய பஹளமாரகஹவெவ பகுதியை சேர்ந்தவர் என ஆரம்பகட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளதுடன் சந்தேக நபரை தடுத்து வைத்து விசாரணை மேற்கொள்வதற்காக நீதிமன்ற தடுப்புக் காவல் உத்தரவு பெறப்படவுள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/81a357d6.json)
+
+---
+
+### Modi attends ceremonial welcome for President Dissanayake at Rashtrapati Bhavan
+
+*2024-12-16 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104273/modi-attends-ceremonial-welcome-for-president-dissanayake-at-rashtrapati-bhavan) · `en`
+
+President Anura Kumara Dissanayake, on his maiden foreign visit since assuming office, was accorded a grand ceremonial welcome at the Rashtrapati Bhavan in New Delhi, the official residence of the Indian President, earlier today (16).
+
+The event marked the commencement of his three-day official visit to India.
+
+Indian Prime Minister Narendra Modi, alongside several diplomats, were present at the ceremony to extend a warm reception to the Sri Lankan leader.
+
+President Dissanayake, who assumed office in September following his victory in Sri Lanka’s presidential and parliamentary elections, was welcomed by Indian President Droupadi Murmu and Prime Minister Narendra Modi.
+
+During the ceremonial reception, President Murmu and President Dissanayake introduced their respective ministers, diplomats, and senior officials, emphasising the warm ties between the two nations.
+
+...
+
+[Data](articles/f9d7e30e.json)
 
 ---
 
@@ -143,6 +489,20 @@ Shakib al Hassan players playing the Goal Maval Maval Maval Maval Maval Maval of
 [Data](articles/aeef0516.json)
 
 [Extended Data](ext_articles/aeef0516.ext.json)
+
+---
+
+### ஜனாதிபதி அநுரகுமாரவை இந்திய ஜனாதிபதி, பிரதமர் வரவேற்றனர்
+
+*2024-12-16 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201393) · `ta`
+
+இந்தியாவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்கவை இன்று திங்கட்கிழமை (16) இந்திய ஜனாதிபதி திரௌபதி முர்மு மற்றும் பிரதமர் நரேந்திர மோடி ஆகியோர் வரவேற்றனர்.
+
+இந்த சம்பிரதாயபூர்வ வரவேற்பு நிகழ்வு புது டில்லியில் உள்ள இந்திய ஜனாதிபதி மாளிகையில் நடைபெற்றுள்ளது.
+
+◼️
+
+[Data](articles/b16a59e9.json)
 
 ---
 
@@ -196,6 +556,72 @@ In addition, Dr. S. Jaishankar, who cooperates in the country's tourism, investm
 
 ---
 
+### ஜனாதிபதி மற்றும் இந்திய இராஜதந்திரிகளுக்கு இடையில் பேச்சுவார்தை
+
+*2024-12-16 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201391) · `ta`
+
+இந்தியாவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தங்கியிருக்கும் புதுடில்லி ITC MAURYA ஹோட்டலுக்கு வருகைத் தந்த இந்திய நிதி மற்றும் நிறுவன அலுவல்கள் அமைச்சர் நிர்மலா சீதாராமன், வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர், (Dr.S.jayashankar) மற்றும் இந்திய பாதுகாப்பு ஆலோசகர் ஸ்ரீ அஜித் தோவால் ஆகியோர் ஜனாதிபதியை சந்தித்து கலந்துரையாடினர்.
+
+இந்தியா – இலங்கை பொருளாதார ஒத்துழைப்புக்களை பலப்படுத்திக்கொள்ளல் மற்றும் இருநாடுகளுக்கும் இடையிலான முதலீட்டு வாய்ப்புக்களை விரிவுபடுத்திக்கொள்வது தொடர்பில் ஜனாதிபதி மற்றும் இந்திய நிதி, நிறுவன அலுவல்கள் அமைச்சர் நிர்மலா சீதாராமன் ஆகியோருக்கு இடையிலான சந்திப்பில் விரிவாக கலந்துரையாடப்பட்டது.
+
+அதேநேரம் இந்திய சுற்றுலாப் பயணிகளை இலங்கைக்கு அதிகளவில் அழைத்து வருவது மற்றும் இலங்கையின் விவசாய நவீனமயமாக்கல், டிஜிட்டல் உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி குறித்தும் கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/bf9fb2b5.json)
+
+---
+
+### ජනපති අනුරට ඉන්දියාවේ දී රාජකීය පිළිගැනීමක්
+
+*2024-12-16 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204422) · `si`
+
+ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ඉන්දීය ජනාධිපති නිලනිවස වන රාෂ්ට්‍රපතිභවන්හීදී අද (16) පෙරවරුවේ පැවැත්විණ.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා, අශ්වාරෝහකයන් පෙරටු කොට ගනිමින් රාෂ්ට්‍රපතිභවන් වෙත කැඳවා ගෙන ඒමෙන් අනතුරුව ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය සහ අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා විසින් මහත් හරසරින් පිළිගනු ලැබීය.
+
+එහිදී පූර්ණ රාජ්‍ය ගෞරව සහිතව ආචාර වෙඩිමුර 21ක් පවත්වා ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගනු ලැබිණි. අනතුරුව ජනාධිපතිවරයා විසින් ඉන්දීය හමුදා ආචාර පෙළපාලියේ හරසර පිළිගනු ලැබීය.
+
+ඉන්පසුව දෙරටේ නායකයන්ට දෙපාර්ශ්වයේ නියෝජිත පිරිස හඳුන්වා දීම සිදු කෙරිණි. ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවයට රාජ්‍ය තාන්ත්‍රකයෝ රැසක් එක්ව සිටියහ.
+
+පිළිගැනීමේ නිල උත්සවයෙන් අනතුරුව රාජ්ඝාට්හි පිහිටි මහත්මා ගාන්ධි ස්මාරකයට උපහාර දැක්වීමටද ජනාධිපතිවරයා එක්විය.
+
+...
+
+[Data](articles/b4a8ff68.json)
+
+---
+
+### Today's event to officially welcome the president
+
+*2024-12-16 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதியை-உத்தியோகபூர்வமாக-வரவேற்கும்-நிகழ்வு-இன்று/150-348789) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Presidential visit to India: Official welcome, economic cooperation, defense talks, cultural exchange.
+
+🟩
+
+The official visit to India on a three -day official visit to India will be held on Monday (16) at the official residence of the President of India.
+
+The President and his crew pasted at around 5.30 pm yesterday (15) at around 5.30 pm.
+
+There, the Minister of Communications, Dr. S.. Murugan, Indian High Commissioner Santosh Ja and diplomats greeted the President at the airport.
+
+Subsequently, Minister of State for Finance and Institutions of India, Nirmala Sitharaman, Minister of State for Foreign Affairs. Jaishankar and India's National Security Adviser Ajit Dowal have held talks with the president.
+
+It is reported that the meeting between the President Nirmala Sita Raman and the Minister of India and the Minister of Finance and Corporation Nirmala Sita Raman was discussed to increase the Indian -Sri Lankan economic cooperation and expand the investment opportunities between the two countries.
+
+...
+
+[Data](articles/a2b68161.json)
+
+[Extended Data](ext_articles/a2b68161.ext.json)
+
+---
+
 ### Today's event to officially welcome the president
 
 *2024-12-16 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-உத்தியோகபூர்வமாக-வரவேற்கும்-நிகழ்வு-இன்று/175-348789) · `ta`
@@ -223,6 +649,58 @@ It is reported that the meeting between the President Nirmala Sita Raman and the
 [Data](articles/e685e3f6.json)
 
 [Extended Data](ext_articles/e685e3f6.ext.json)
+
+---
+
+### විදුලි සැර වැදී තරුණයෙක් මරුට
+
+*2024-12-16 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204420) · `si`
+
+පාළු ඉඩමකට අනාරක්ෂිතව විදුලිය ලබාගැනීම සඳහා ඇද තිබූ කම්බියක ගැටී මෙම තරුණයා මියගොස් ඇති බවට මුලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ 29 හැවිරිදි දඹුල්ල පාර, මැල්සිරිපුර ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/f8e9f58b.json)
+
+---
+
+### New Speaker of Parliament to be elected tomorrow
+
+*2024-12-16 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104272/new-speaker-of-parliament-to-be-elected-tomorrow) · `en`
+
+The appointment of a new Speaker of Sri Lanka’s Parliament to fill the vacancy created by the resignation of MP Asoka Ranwala will take place tomorrow (Dec. 17).
+
+Parliament is scheduled to convene on December 17 and 18 and the relevant nominations for the appointment of a new Speaker will be submitted on the first day.
+
+Meanwhile, three names have been proposed from the ruling party for the position of Speaker of Sri Lanka’s Parliament. The names include current Deputy Speaker Dr. Rizvie Salih, MP Lakshman Nipuna Arachchi, and MP Nihal Galappaththi.
+
+It was reported that the ruling party Parliamentary group will meet today (15), to reach a final decision regarding the new appointment.
+
+The opposition has stated that they will also propose a name for the Speaker of Parliament, representing the opposition.
+
+However, former MP Ashu Marasinghe expressed that it is inappropriate to suggest an opposition-aligned MP for the position.
+
+...
+
+[Data](articles/8f5bd511.json)
+
+---
+
+### Sri Lankans shine at ‘Sanctuary Asia Wildlife Photography Awards 2024’
+
+*2024-12-16 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104271/sri-lankans-shine-at-sanctuary-asia-wildlife-photography-awards-2024) · `en`
+
+Three Sri Lankan photographers made headlines with their remarkable captures at the prestigious ‘Sanctuary Asia Wildlife Photography Awards 2024’, showcasing the beauty and challenges of wildlife through their lenses.
+
+Sri Lanka’s Tharindu Dilshan Sendanayake claimed the coveted first prize with his breathtaking photograph titled ‘Primal Fury’, taken at Yala National Park. The image vividly captures a dramatic life-or-death struggle between a dominant Sri Lankan leopard (Panthera pardus kotiya) and a wild pig (Sus scrofa affinis), creating a masterpiece reminiscent of a Renaissance painting. The intense scene unfolds as the leopard, startled mid-mating, defends itself against the charging wild pig.
+
+This extraordinary depiction of the wild earned Tharindu a grand prize of INR 150,000.
+
+...
+
+[Data](articles/0bc3edb8.json)
 
 ---
 
@@ -392,6 +870,96 @@ Sagir Hussein has also been awarded the Academy of the Government of India. Remb
 
 ---
 
+### Public consultation for electricity tariff revision begins tomorrow
+
+*2024-12-16 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104270/public-consultation-for-electricity-tariff-revision-begins-tomorrow) · `en`
+
+The public consultation conducted by the Public Utilities Commission of Sri Lanka (PUCSL) regarding the proposed tariff revision is scheduled to get underway from tomorrow (Dec. 17).
+
+Accordingly, the general public are allowed to submit their opinions regarding the matter virtually or in writing before January 08, 2024.
+
+Post – Public Consultation on electricity tariff, Public Utilities Commission of Sri Lanka, BOC Corporate Tower, Colombo 03
+
+Meanwhile, the final decision of the PUCSL on the proposed electricity tariff revisions will be announced on 17 January 2025.
+
+On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months.
+
+...
+
+[Data](articles/e482c3fe.json)
+
+---
+
+### ශකිබ් අල්-හසන් ට තහනමක්
+
+*2024-12-16 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204418) · `si`
+
+බංග්ලාදේශ ක්‍රිකට් කණ්ඩායමේ හිටපු නායක ශකිබ් අල්-හසන් ට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ අනුමැතිය ඇති ජාතික ක්‍රිකට් සංගම් මගින් සංවිධානය කරනු ලබන දේශීය හෝ විදේශීය තරගාවලිවලදී පන්දු යැවීම අත්හිටුවා තිබේ.
+
+බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය නිවේදනයක් නිකුත් කරමින් ඒ බව පැවසීය.
+
+එංගලන්ත සහ වේල්ස් ක්‍රිකට් පාලක මණ්ඩලය මගින් එරට පැවැත්වෙන ක්‍රිකට් තරගවලදී ශකිබ් ට පන්දු යැවීම පසුගියදා තහනම් කළේය.
+
+ඒ පසුගිය සැප්තැම්බර් මාසයේ පැවති එංගලන්ත ප්‍රාන්ත ක්‍රිකට් තරගයකදී ඔහු පන්දුව දමා ගැසූ බවට චෝදනා කරමිනි.
+
+ඒ අනුව ශකිබ් සිය පන්දු යැවීමේ ඉරියව්ව නැවත පරීක්ෂණයකට ලක්කළ යුතුය.
+
+ගෝල් මාවල්ස් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කරන ශකිබ් පසුගිය තරග දෙකේදී ම පන්දු යැව්වේ නැත.
+
+ටෙස්ට් සහ T20 ජාත්‍යන්තර තරගවලින් සමුගත් ශකිබ් අල් හසන් එක්දින ජාත්‍යන්තර තරග සඳහා තවමත් බංග්ලාදේශය නියෝජනය කරයි.
+
+◼️
+
+[Data](articles/3431fe80.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය ගැන මහජන අදහස් ලබාගැනීම හෙට සිට
+
+*2024-12-16 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204417) · `si`
+
+විදුලි ගාස්තු සංශෝධන යෝජනාව සඳහා මහජන අදහස් ලබා ගැනීමේ කටයුතු හෙට (17) දිනයේ සිට ආරම්භ කරන බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
+
+අදාළ යෝජනා විදුලි ගාස්තු පිළිබඳ මහජන උපදේශනය, ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව, 6 වන මහල, ලංකා බැංකු වෙළෙඳ කුලුන, කොළඹ 03 යන ලිපිනයට මෙන්ම info@pucsl.gov.lk යන විද්‍යුත් තැපෑල ඔස්සේ යොමු කළ හැකි වේ.
+
+එමෙන්ම වට්ස්ඇප් අංක 076 42 710 30 අදහස් හා යෝජනා ඉදිරිපත් කළ හැකිය.
+
+මහජන උපයෝගීතා කොමිසමට පැමිණ හෝ පළාත් මට්ටමෙන් වෙන්කර ඇති ස්ථානවල දී අදහස් ඉදිරිපත් කළ හැකි බව එම කොමිසම සඳහන් කළේය.
+
+නව වසරේ මුල් මාස 06 කාලය සඳහා විදුලි ගාස්තු සංශෝධනයකින් තොරව පවත්වාගෙන යා යුතු බවට විදුලි බලමණ්ඩලය යෝජනා කර තිබුණි.
+
+ඒ අනුව එම යෝජනාව කොමිසම විසින් සමාලෝචනයකට ලක්කිරීමට තීරණය කර ඇති අතර එම යෝජනා ඇතුළත් කෙටුම්පත මහජන අදහස් සඳහා ප්‍රදර්ශනය කිරීමට ද නියමිතය.
+
+ලංකා විදුලි බලමණ්ඩලය ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ අවසන් තීරණය ලබන වසරේ ජනවාරි මස 17වනදා දැනුම් දීමට නියමිත බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/57a64aa5.json)
+
+---
+
+### Hundreds feared dead on Mayotte after Cyclone Chido
+
+*2024-12-16 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104268/hundreds-feared-dead-on-mayotte-after-cyclone-chido) · `en`
+
+A senior official said Sunday that the death toll from cyclone Chido’s passage across Mayotte would be in the hundreds, perhaps even thousands, as France rushed in rescue workers and supplies.
+
+Their efforts will be hindered by the damage to airports and electricity distribution in the French Indian Ocean territory.
+
+Even before the cyclone’s passage, clean drinking water was already subject to chronic shortages.
+
+“I think there will definitely be several hundred, perhaps we will come close to a thousand or even several thousand” deaths, prefect Francois-Xavier Bieuville told broadcaster Mayotte la Premiere.
+
+It would be “very difficult to reach a final count” given that most residents are Muslim, traditionally burying their dead within 24 hours, Bieuville added.
+
+EU chief Ursula von der Leyen on Sunday pledged help from the bloc.
+
+...
+
+[Data](articles/1a28f307.json)
+
+---
+
 ### One person was killed in a dispute between two people in Kokkilai!
 
 *2024-12-16 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201385) · `ta`
@@ -417,6 +985,26 @@ Further investigations into the incident are being carried out by the Kokkulai p
 [Data](articles/765f10d5.json)
 
 [Extended Data](ext_articles/765f10d5.ext.json)
+
+---
+
+### Three employees suspended over Beliatta train collision
+
+*2024-12-16 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104267/three-employees-suspended-over-beliatta-train-collision) · `en`
+
+The Department of Railways stated that three employees have been suspended over the train collision that occurred at the Beliatta Railway Station on Sunday (15), involving the engines of the ‘Rajarata Rajina’ and ‘Sagarika’ trains.
+
+The incident took place when the engine of the ‘Rajarata Rajina’ train, en route from Beliatta to Anuradhapura, collided with the ‘Sagarika’ train, which was stationary at the time due to an engine change.
+
+The collision caused significant damage to the ‘Sagarika train’, and the train was not operational this morning (16) due to the incident.
+
+The department had launched an investigation into the matter on Sunday.
+
+Deputy General Manager of Railways N.J. Indipolage said that accordingly, three employees involved with the incident were suspended from duty following the investigation.
+
+...
+
+[Data](articles/8bcdabcd.json)
 
 ---
 
@@ -1176,6 +1764,8 @@ Salasi Lanka services include structural strengthening, waterproofing, concrete 
 
 [Data](articles/89b91dc6.json)
 
+[Extended Data](ext_articles/89b91dc6.ext.json)
+
 ---
 
 ### National Chamber, NEDA organise Western Province Entrepreneur Awards 2024 in grandeur
@@ -1709,665 +2299,5 @@ Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Her
 [Data](articles/604f3ea1.json)
 
 [Extended Data](ext_articles/604f3ea1.ext.json)
-
----
-
-### President Anura's visit to Sri Lanka - Indian Information Technology Minister
-
-*2024-12-15 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201374) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Indian IT Minister Dr. S. Murugan says President Anura Kumara Dissanayake's visit enhances Sri Lanka-India friendship. The President was welcomed specially in New Delhi during his visit on Sunday. Foreign Affairs Minister Vijitha Herath and Deputy Industry Minister Anil Jayantha Fernando joined the tour.
-
-🟩
-
-Indian Information Technology Minister Dr. S. Murugan has said that the visit of President Anura Kumara Dissanayake will enhance the deeper friendship between Sri Lanka and India.
-
-President Anura Kumara Dissanayake, who visited India on Sunday (15), made a special welcome in New Delhi.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Deputy Minister of Industry and Economic Development Professor Anil Jayantha Fernando also participated in the tour.
-
-◼️
-
-[Data](articles/edc52dcd.json)
-
-[Extended Data](ext_articles/edc52dcd.ext.json)
-
----
-
-### Sudden change in weather
-
-*2024-12-15 21:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானிலையில்-திடீர்-மாற்றம்-வெளிவந்த-முக்கிய-அறிக்கை/175-348773) · `ta`
-
-Weather alert: Low winds in SE Bengal Sea, storms in East Sri Lanka, heavy rains in central regions, snowfall in southern provinces. Thunderstorms and lightning risks advised.
-
-🟩
-
-The Department of Meteorology has predicted that low winds are likely to develop in the Southeast Bengal Sea today.
-
-It is also reported that the organization is slowly formed and moving to the northwest and moving towards the coast of Tamil Nadu for the next two days.
-
-At the same time, there will be rains or thunderstorms in the Eastern Province from time to time, and in other areas, there will be widespread showers or thunderstorms in the evening or night.
-
-Heavy rains are likely to occur in some parts of the Central, Sabaragamuwa, Eastern and Southern Provinces.
-
-At the same time, the Central, Sabaragamuwa and Southern Provinces are expected to have snowfall in the morning.
-
-The Department of Meteorology has advised to take steps to reduce the risk of temporary heavy winds and lightning with thunderstorms. Remble
-
-◼️
-
-[Data](articles/09aa6d41.json)
-
-[Extended Data](ext_articles/09aa6d41.ext.json)
-
----
-
-### Government on debt renovation issue - Namal Rajapaksa
-
-*2024-12-15 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201372) · `ta`
-
-Namal Rajapaksa criticizes government's dual stance on debt restructuring. Accuses Ranil Wickremesinghe of implementing IMF policies without benefits. Calls for transparency in debt issues.
-
-🟩
-
-Did former President Ranil Wickremesinghe throw me on the hanging bridge?Or people should examine whether the President has thrown Dissanayake?. Ranil Wickremesinghe has actually taken the president. Sri Lanka's PA's parliamentarian Namal Rajapaksa said the government is working on a double stance on the issue of debt.
-
-He was speaking to the media after attending an event in Colombo on Sunday (15).
-
-Ashoka Ranwala's resignation. Many have mentioned the educational qualifications that the President does not have to enter politics because of the fact that he will form a parliament that only includes the educated.
-
-Many people have questioned my education qualifications. It has been accused in the past. I am formally educated. I will respond to the best documents if those who make criticism on social media are properly challenging my education qualification.
-
-...
-
-[Data](articles/f28e5dcd.json)
-
-[Extended Data](ext_articles/f28e5dcd.ext.json)
-
----
-
-### Slamula in a national crime discovered
-
-*2024-12-15 21:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204406) · `si`
-
-Sri Lanka railway damage due to landslides. Advanced Italian machines imported but unused. Authorities urged to act.
-
-🟩
-
-Due to various reasons is constantly reported in Sri Lanka's railway blocks and damage.
-
-There were several opportunities for the recent disaster of five of the decomposed occasions in the recently ragged rains.
-
-It takes weeks to rehabilitate railway tracks and cost the labor of the Railway Department.
-
-The world advanced countries are in this way of transmitting technology with high-quality multipurpose machines.
-
-The hawk is not a crisis in Sri Lanka, but this is not enough crime without using 5 such technical multipurpose machines.
-
-Two multicastars brought from Italy to Sri Lanka have received a confidential information on the department of Details and Ada Derana Uk to look into the matter.
-
-There we could see some multi-multi-multiplied machines.
-
-Some of the internal parts of these machines have seen the hawk.
-
-The Uwkasa was also revealed that these machines were imported from Italy in February last year.
-
-...
-
-[Data](articles/b6fe2f0e.json)
-
-[Extended Data](ext_articles/b6fe2f0e.ext.json)
-
----
-
-### Shanaka's all -round play, Darindu's great bowling
-
-*2024-12-15 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201371) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dasun Shanaka shines in all departments: 39*15b, 2/16 & 1/10. Dharnu Ratnayake bowls accurately. Hambantota Pangla Tigers win by 47 runs over Kandy Boltz.
-
-🟩
-
-Dasun Shanaka's all -round match against the Kandy Boltz team at the Pallekele International Cricket Stadium this evening, Dasun Shanaka's all -round match and Dharnu Ratnayake's accurate bowling helped Hambantota Pangla Tigers by 47 runs.
-
-Dasun Shanaka expressed his energies in all three sectors of batting, fielding and bowling.
-
-Hambantota Bangla Tigers, who were first invited to bat first, scored 163 runs for the loss of 6 wickets in 10 overs.
-
-This total number is the highest number of India's most concentrated cricket match.
-
-Earlier, Jevna Titans scored 138 runs for the loss of 6 wickets in the match against Kalambo Jaguars on December 12.
-
-Mohammed Shazad scored 52 off 18 balls and 3 sixes on behalf of the Bangla Tigers of Hambantota, while team captain Dasun Shanaka scored 39 runs in 15 balls including 2 pounds and 4 sixes.
-
-Tananjaya Lakshan (18), Niru Udana (11) and Shabir Rahman (13 A.E.) received double digit numbers.
-
-Kandy Boltz lost by 9 wickets in 10 overs and lost 116 runs.
-
-...
-
-[Data](articles/f9c9efb2.json)
-
-[Extended Data](ext_articles/f9c9efb2.ext.json)
-
----
-
-### Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
-
-*2024-12-15 20:18:00* · [`economynextcom`](https://economynext.com/karl-marx-engels-would-have-approved-sri-lanka-rice-imports-for-working-class-analysis-194348/) · `en`
-
-ECONOMYNEXT – Sri Lanka has relaxed import licensing on rice, a staple food, till December 20, in bid to reduce rising local prices, but still kept a 220 dollar at tonne import tax in place, which is almost 50 percent duty on basic South Asian rice grades.
-
-Under the Rajapaksa regime and even earlier, Sri Lanka has imposed severe controls on the import of basic cereals, giving profits to politically powerful lobbies keeping both prices and malnutrition high.
-
-Sri Lanka to allow rice imports without licenses till December 20: Statement
-
-Going beyond taxes, import licensing was imposed, especially on maize to give profits to a collector lobby, making proteins like chicken and eggs also among the most expensive in the world. Taxes on protein rich grains like green gram was also hiked.
-
-Sri Lanka opposition laments child malnutrition as farmers protected at Rs300 cereal tax
-
-...
-
-[Data](articles/6fbffb3a.json)
-
----
-
-### Sri Lanka’s Economic Turmoil In The 70s: Reflections & Realities Through Aththa
-
-*2024-12-15 20:16:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-economic-turmoil-in-the-70s-reflections-realities-through-aththa/) · `en`
-
-...
-
-[Data](articles/098fbe69.json)
-
-[Extended Data](ext_articles/098fbe69.ext.json)
-
----
-
-### Sri Lanka President arrives in India, to meet Jayashankar, Doval Sunday night
-
-*2024-12-15 20:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-arrives-in-india-to-meet-jayashankar-doval-sunday-night-194393/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayaka arrived in India Sunday and will meet External Affairs Minister S Jayashankar, and National Security Advisor Ajith Doval.
-
-President Dissanayake was welcomed at the airport by Information and Communications Minister S Murugan, High Commissioner to Colombo Santosh Jha, among other top officials, a statement said.
-
-President Dissanayake will be in India till December 17 and is due to meet President and Prime Minister Modhi.
-
-He is accompanied by Foreign Minister Vijitha Herath and Deputy Finance Minister Anil Jayantha Fernando. (Colombo/Dec16/2024)
-
-◼️
-
-[Data](articles/f3e51bbe.json)
-
-[Extended Data](ext_articles/f3e51bbe.ext.json)
-
----
-
-### Welcome to New Delhi
-
-*2024-12-15 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201370) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Pres. Anura Kumara Dissanayake welcomed in New Delhi. Met IT Min., FM, & Defense Advisor. Indian media coverage. Key officials present: Vijitha Herath, Anil Jayantha Fernando.
-
-🟩
-
-President Anura Kumara Dissanayake, who visited India on Sunday (15), made a special welcome in New Delhi.
-
-Indian Information Technology Minister Dr S.Murugan, Indian High Commissioner Santosh Jha, (Santosh JHA), Additional Secretary of the Indian Ocean Zone, Puneet AgrawalSpecial welcome at the station.
-
-The Indian media has made a special campaign on the visit of President Anura Kumara Dissanayake and the banners of President and Prime Minister Narendra Modi in the main surroundings of New Delhi.
-
-President Anura Kumara Dissanayake and Indian Foreign Minister Dr. S. Jaishankar (Dr.. S. Jayashankar and Indian Defense Advisor Sri Ajith Doval will meet with the people.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Deputy Minister of Industry and Economic Development Professor Anil Jayantha Fernando were also present.
-
-◼️
-
-[Data](articles/a3ed688f.json)
-
-[Extended Data](ext_articles/a3ed688f.ext.json)
-
----
-
-### President AKD: Hit The Nail On The Head Of CIABOC
-
-*2024-12-15 20:01:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-akd-hit-the-nail-on-the-head-of-ciaboc/) · `en`
-
-...
-
-[Data](articles/8fb0025e.json)
-
-[Extended Data](ext_articles/8fb0025e.ext.json)
-
----
-
-### President receives warm welcome from India
-
-*2024-12-15 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204405) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake arrives in India for a 3-day visit. He was warmly welcomed at the airport by Indian officials. The President will meet with Indian leaders, including Foreign Minister Dr. S. Jayasankara, to discuss bilateral relations and security matters.
-
-🟩
-
-President Anura Kumara Dissanayake reached India at around 5.30 pm on a three-day official visit.
-
-Indian Information and Communication Minister Dr. S. The President of India, Indian Ocean Commissioner Sanarizara, Indian Ocean, Survey, Indian Ocean, Additional Secretary to the Sri Lankan High Commissioner Survey, Indian Ocean Agran, and Indian Protocol Assignment Anushan Gambhor has been recognized by the President at Indira Gandhi International Airport.
-
-President Anura Kumara Dissanayake has been given a significant publicity in the Indian media.
-
-President Anura Kumara Dissanayake is Indian Foreign Minister Dr. S. Jayasankara is also scheduled to discuss Sri Ajith Dowal today (15) with the National Security Advisor of India.
-
-Foreign, Foreign Employment and Tourism Vijitha Herath, Labor Minister and Deputy Minister of Economic Development Prof. Anil Jayantha Fernando have joined the visit.
-
-◼️
-
-[Data](articles/a1bc6c65.json)
-
-[Extended Data](ext_articles/a1bc6c65.ext.json)
-
----
-
-### Father of two children killed in wild elephant attack
-
-*2024-12-15 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201369) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Father of two killed in elephant attack in Anuradhapura. Police investigating incident. Body at Anuradhapura Teaching Hospital awaiting autopsy before handover to family.
-
-🟩
-
-A father of two children died on the spot, Eyabattuwa police said.
-
-Police are investigating the incident on Saturday night (14) in Ulukkulam in Anuradhapura.
-
-Investigations have revealed that the deceased is a 49 -year -old from Mahapulangulam area.
-
-The body of the deceased who died in the elephant attack has been placed in the funeral room of the Anuradhapura Teaching Hospital and the body will be handed over to relatives after autopsy.
-
-◼️
-
-[Data](articles/e993226a.json)
-
-[Extended Data](ext_articles/e993226a.ext.json)
-
----
-
-### Yall. The woman who cut off her neck in Chandilipayi
-
-*2024-12-15 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201368) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Woman cuts neck in Chandilipayi. Admitted to hospital. Police investigating motive and location. No details released yet.
-
-🟩
-
-A young woman in the Chandilipayi - Thottilady area belonging to the Manipay police division has cut her neck with a sharp weapon.
-
-The woman has been admitted to the Sanganai Divisional Hospital for treatment.
-
-Who is the woman, however?What is the reason for the location of the neck?No information has been released yet. Manipay police are conducting serious investigations into the incident.
-
-◼️
-
-[Data](articles/026f02c0.json)
-
-[Extended Data](ext_articles/026f02c0.ext.json)
-
----
-
-### One dead, 8 injured as van plunges into 50-foot precipice
-
-*2024-12-15 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104261/one-dead-8-injured-as-van-plunges-into-50-foot-precipice-) · `en`
-
-One person was killed while at least 08 others have been wounded following a tragic accident which occurred this afternoon (15) when a van traveling on the Riverston - Laggala road plunged into a 50-foot precipice.
-
-Police stated that the van was carrying nine passengers, one of whom was tragically killed in the accident, while eight others were left injured.
-
-The injured individuals have been rushed to Laggala Hospital for medical treatment.
-
-Police confirmed that the accident victims were part of a group from Galle who had been on an excursion.
-
-◼️
-
-[Data](articles/d8455017.json)
-
-[Extended Data](ext_articles/d8455017.ext.json)
-
----
-
-### The private sector imported rice imported in 5 days
-
-*2024-12-15 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204404) · `si`
-
-Private sector imports 4,800 metric tons of rice in 5 days. 3,000 metric tons Nadu rice, 1,800 metric tons white rice. 5,200 metric tons more expected. To be sold at Sathosa and Co-operative outlets nationwide.
-
-🟩
-
-The private sector has increased to 4,800 metric tons, the private sector has increased to 4,800 metric tons.
-
-Customs Media Spokesperson, Director General of Customs, Savi Arukgoda said that the stock of rice was imported from the 9th and 14th.
-
-He added that 3,000 metric tons of Nadu rice and 1,800 metric tons of white riders.
-
-Meanwhile, 5,200 metric tons of rice is to be received by the 19th of the 6th metric tons of rice ordered by the State Various State Corporation.
-
-The rice is to be sold across the Sathosa and Co-operative Outlets island wide.
-
-◼️
-
-[Data](articles/75a297ba.json)
-
-[Extended Data](ext_articles/75a297ba.ext.json)
-
----
-
-### Five Reply Ministers Appointment
-
-*2024-12-15 18:42:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐந்து-பதில்-அமைச்சர்கள்-நியமனம்/175-348758) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Five new ministers appointed: Digital Economy, Defense, Finance & Economic Development, Foreign Affairs, Tourism & Industry. Deputy ministers promoted: Eranga Veeraratne, Harshana Surayapperuma, Arun Hemachandra, Mahinda Jayasinghe.
-
-🟩
-
-Ministers have been appointed in response to five ministries due to the departure of President Anura Kumara Dissanayake on an official visit.
-
-Accordingly, ministers have been appointed in response to the Ministries of Digital Economy, Defense Ministry and Finance and Planning and Economic Development under the President and Ministers of Foreign Affairs, Foreign Employment and Tourism and Industry.
-
-Accordingly, the Deputy Minister of Economic Economic Economic Economic Economic Economic Minister, Eranga Veeraratne, has been appointed as the Minister of Economic Economy.
-
-Deputy Minister of Finance and Planning, Dr. Harshana Surayapperuma has been appointed as the Minister of Finance and Planning and Economic Development.
-
-Deputy Minister of Foreign Employment Arun Hemachandra has been appointed as the Minister of Foreign Affairs, Foreign Employment and Tourism.
-
-Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Minister of Labor, the Presidential Media Unit said. Remble
-
-◼️
-
-[Data](articles/6eb39ec1.json)
-
-[Extended Data](ext_articles/6eb39ec1.ext.json)
-
----
-
-### Eight drugs are reduced by use of quality
-
-*2024-12-15 18:33:15* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-අටක-ගුණාත්මකභාවය-අඩුවීම-නිසා-භාවිතයෙන්-ඉවතට/11-413657) · `si`
-
-Eight drugs quality reduced: UPFA claims removal due to failure. Chamal Sanjeewa criticizes import shortages. Government urged to address issue and recover losses from responsible companies. Unexpected antibiotics mentioned, linked to Gotabhaya Rajapaksa's tenure. Continuous medication concerns raised.
-
-🟩
-
-According to medical and civil rights, the UPFA says that the quality of eight medicines (Quality Failure has been removed last week.
-
-Chamal Sanjeewa said that the Chamal Sanjeewa said that a portion of the Association of Eight Pharmaceuticals, Culcium Glucoconate, and Cindamicine pharmacies.
-
-He said several types of these drugs imported during the last governance and that there would be two companies and the shortage of these drugs could occur.
-
-He said that the current government should pay attention to this and that the losses should be recovered from the relevant companies.
-
-He said that there were many unexpected antibiotic drugs between these removed drugs and the higher positions in some parts of Gotabhaya Rajapaksa.
-
-It is said that continuous medications related to continuous medications are being opened and the current government should take the necessary action.
-
-◼️
-
-[Data](articles/a71ac69a.json)
-
-[Extended Data](ext_articles/a71ac69a.ext.json)
-
----
-
-### Appointment of five Deputy Ministers
-
-*2024-12-15 18:31:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐந்து-பிரதி-அமைச்சர்கள்-நியமனம்/175-348757) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Five deputy ministers appointed: Digital Economy, Defense, Finance, Economic Stability & National Policies, Foreign Affairs. Dr. Harshana Suriya as Finance Minister, Arun Hemachandra as Deputy Foreign Minister.
-
-🟩
-
-The Presidential Media Division (PMD) has said that five deputy ministers have been appointed to oversee the major ministries during the visit of President Anura Kumara Dissanayake.
-
-These appointments are Digital Economic Ministry, Ministry of Defense, Ministry of Finance, Economic Stability and National Policies, Foreign Ministry, Foreign
-
-Dr. Harshana Suriya will act as Minister of Finance, Economic Strength and National Policies.
-
-Arun Hemachandra will serve as Deputy Minister of Foreign Affairs, Foreign Employment and Tourism.
-
-◼️
-
-[Data](articles/3214d5a9.json)
-
-[Extended Data](ext_articles/3214d5a9.ext.json)
-
----
-
-### Sri Lanka’s Path To Stability: Balancing Geopolitical Tensions & Domestic Challenges
-
-*2024-12-15 18:28:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-path-to-stability-balancing-geopolitical-tensions-domestic-challenges/) · `en`
-
-Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamics and domestic challenges. President Anura Kumara Dissanayake‘s upcoming visits to India and China underscore the island nation’s strategic importance to these Asian giants. Both countries view Sri Lanka as pivotal in their geopolitical strategies, with India particularly concerned about China’s influence in the region. This article delves into the implications of these visits, the government’s anti-corruption drive, and Sri Lanka’s socio-political challenges in its pursuit of stability. Tshering Eudon (2024) argues that Sri Lanka’s foreign policy is shaped by domestic needs and geopolitical pressures, urging the U.S. to prioritise economic over security concerns[1].
-
-...
-
-[Data](articles/407d8cf8.json)
-
-[Extended Data](ext_articles/407d8cf8.ext.json)
-
----
-
-### Two trains collided with each other
-
-*2024-12-15 18:27:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-ரயில்கள்-ஒன்றுடன்-ஒன்று-மோதி-விபத்து/175-348756) · `ta`
-
-Two trains collided: Rajarata Rujina (Beliyatha-Anuradhapura) hit Sagarika (wrong path). Investigation underway. Train service disrupted tomorrow.
-
-🟩
-
-The Railway Department has launched an investigation into the accident that caused the Rajarata Rujina and Sagarika train machines to collide.
-
-It is reported that the Rajarata Rujina train, which was traveling from Beliyatha to Anuradhapura, was hit by the Sagarika train, which was parked on the wrong path.
-
-The Railway Department said that the train was unable to operate tomorrow morning (16) morning. Remble
-
-◼️
-
-[Data](articles/c6d704df.json)
-
-[Extended Data](ext_articles/c6d704df.ext.json)
-
----
-
-### Rajarata Regina, Sagarika Trains
-
-*2024-12-15 18:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201365) · `ta`
-
-Railway collision: Rajarata Regina, Sagarika trains. Investigation underway after morning accident at Beliyatta Station. Train hit while on wrong path. Delayed service expected.
-
-🟩
-
-The Railway Department has launched an investigation into the accident when the engine of Rajarata Regina and Sagarika trains collided with one another at the Beliyatta Railway Station this morning.
-
-It is reported that the Rajarata Regina train traveling from Beliyatha to Anuradhapura has been hit with a train that was parked there as it was traveling on the wrong path.
-
-The Railway Department said that the train could not be operated tomorrow morning.
-
-Due to the accident this morning, the Rajarata Regina train, which was to be operated at 8.45 am from Beliyatta to Anuradhapura, was delayed.
-
-◼️
-
-[Data](articles/de269458.json)
-
-[Extended Data](ext_articles/de269458.ext.json)
-
----
-
-### ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම අද රැස්වෙයි
-
-*2024-12-15 18:24:53* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂ-මන්ත්‍රී-කණ්ඩායම-අද-රැස්වෙයි/11-413655) · `si`
-
-නව කතානායකවරයෙක් පත් කරගැනීම පිළිබඳව සහ ඉදිරි පාර්ලිමේන්තු කටයුතු පිළිබඳව සාකච්ඡා කිරීම වෙනුවෙන් අද (16දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.
-
-නව කතානායකවරයා ලෙස නිහාල් ගලප්පත්‍ති, ලක්ෂ්මන් නිපුණාරච්චි යන මහත්වරුන්ගේ නම් යෝජනා වී ඇති බව ද වාර්තා විය. ඒ පිළිබඳව අවසන් තීරණයක් ගැනීම වෙනුවෙන් ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.
-
-මේ අතර තවදුරටත් වාර්තා වූයේ හිටපු කතානායක අශෝක රන්වල මහතාගේ අධ්‍යාපන සහතික ද නුදුරේදී ම ඉදිරිපත් කිරීමට නියමිත බවයි.
-
-◼️
-
-[Data](articles/0d49e5f8.json)
-
----
-
-### In the case of a youth killed in Dummalausuriya - the deceased woman?!- Shock in the autopsy!
-
-*2024-12-15 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201364) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Body of 39-year-old male found dead in Dummalausuriya identified as female during autopsy. Victim lived in Siyambalakasura area and cared for stray dogs. Police investigation ongoing.
-
-🟩
-
-The body of a young man who was allegedly hacked to death in the Siyambalakasura area in Dummalausuriya was reported to be a woman who was found as a woman, police said.
-
-An autopsy was carried out at the Kiliyapitiya Teaching Hospital on the orders of the Kiliyapitiya court on the body of a 39 -year -old youth who was assassinated in Dummalazuriya on the 12th.
-
-The deceased has been living in a large garden in Siyambalakasura, Dummalazuriya and he has been maintaining abandoned dogs, police said.
-
-◼️
-
-[Data](articles/afb17669.json)
-
-[Extended Data](ext_articles/afb17669.ext.json)
-
----
-
-### 2018ට සාපේක්ෂව 2023දී  ඝාතන හා අපරාධවල සියයට 50ක වර්ධනයක්
-
-*2024-12-15 18:21:05* · [`adalk`](https://www.ada.lk/breaking_news/2018ට-සාපේක්ෂව-2023දී--ඝාතන-හා-අපරාධවල-සියයට-50ක-වර්ධනයක්/11-413654) · `si`
-
-මනුෂ්‍ය ඝාතන, බරපතල තුවාල සිදු කිරීම්, ගෙවල් බිදීම් හා මංකොල්ල කෑම් 2018 වර්ෂයට සාපේක්ෂව 2023 වර්ෂයේ 50% ක වර්ධනයක් පෙන්නුම් කරන බවත් වසර 06 ක කාලය තුල 2023වර්ෂය වැඩිම අපරාධ වාර්තා වූ බවත් ශ්‍රී ලංකා පොලීසිය සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ.
-
-පසුගිය වසර 06 ක කාලය තුල මනුෂ්‍ය ඝාතන, බරපතල තුවාල සිදු කිරීම්, ගෙවල් බිදීම් හා මංකොල්ල කෑම් විසදීමේ අඩුම ප්‍රතිශතය වාර්තා වන්නේද 2023 දී බවද එම වාර්තාවේ වැඩි දුරටත් සදහන් කර ඇත. 2018 දී ගෙවල් බිදුම් විසදීමේ ප්‍රතිශතය 60% සිට 2023 වන විට 50% දක්වාත් 2018 දීකොල්ලකෑම් විසදීමේ ප්‍රතිශතය 75% සිට 2023 වන විට 61% දක්වාත් පහත වැටී තිබුණ බවද විගණන වාර්තාව මගින් පෙන්වා දි තිබේ.
-
-2018 අංක 19 දරණ ජාතික විගණන පනත සහ 1971 අංක 38 දරණ මුදල් පනත අනුව 2023.12.31 දක්වාශ්‍රී ලංකා පොලීසියේ කටයුතු ජාතික විගණන මහ ලේකම් කාර්යාලය මගින් විගණනය කර 2024 දී ඉදිරිපත් කරන ලද විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සදහන් වේ.
-
-...
-
-[Data](articles/08d9afba.json)
-
----
-
-### Opening the air doors of two reservoirs!
-
-*2024-12-15 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201353) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Two reservoirs: One door open 2 feet, others 3 feet each. 3775 cubic feet released from second. With all doors open 1 foot, 600 cubic feet per second released.
-
-🟩
-
-One air door has been opened by 2 feet and the other two skyscrapers are 3 feet each.
-
-The Irrigation Department has said that 3775 cubic feet of water for the second is released.
-
-With these air doors opened one foot each, 600 cubic feet of water per second is released.
-
-◼️
-
-[Data](articles/76431d32.json)
-
-[Extended Data](ext_articles/76431d32.ext.json)
-
----
-
-### Egg prices drop ahead of festive season
-
-*2024-12-15 18:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104260/egg-prices-drop-ahead-of-festive-season) · `en`
-
-The All Ceylon Egg Traders’ Association has announced a significant reduction in egg prices for the upcoming festive season, with retail prices now set between Rs. 30 and 35.
-
-The President of the association, Anton Appuhami explained that accordingly, regular eggs weighing less than 50 grams will be available for prices ranging from Rs. 30 to 32. For larger eggs, weighing over 55 grams, the price will be between Rs. 33 and 35.
-
-“We have decided to sell eggs at a retail price of between Rs. 30 and 35 during the festive season. Therefore, we request that every retail shop ensure eggs are sold at prices not exceeding Rs. 35 from today”, Appuhami said.
-
-This move comes after a period of high egg prices, with a single egg costing between Rs. 65 and 70 during the 2023 festive season. However, Appuhami noted that egg production has increased, leading to a surplus in the market and helping to stabilize prices.
-
-...
-
-[Data](articles/cb85beaa.json)
-
-[Extended Data](ext_articles/cb85beaa.ext.json)
-
----
-
-### පොලිස් කොස්තාපල්වරුන්ගේ හා වරියන්ගේ සියයට 50ක හිඟයක්
-
-*2024-12-15 18:05:31* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-කොස්තාපල්වරුන්ගේ-හා-වරියන්ගේ-සියයට-50ක-හිඟයක්/11-413653) · `si`
-
-ශ්‍රී ලංකා පොලීසියේ පිරිමි හා කාන්තා පොලිස් කොස්තාපල් තනතුරු අනුමත ප්‍රමාණයට වඩා 50% කට ආසන්න ප්‍රමාණයක් පුරප්පාඩුව තිබෙන බව ජාතික විගණන මහ ලේකම් කාර්යාලය සිදුකරන ලද විගණන පරීක්ෂණයකදී තහවුරු වී තිබේ.
-
-පිරිමි පොලිස් කොස්තාපල් තනතුරු 60,000 ක් සහ කාන්තා පොලිස් කොස්තාපල් තනතුරු 10,000 ක් පොලිස් දෙපාර්තමේන්තුව සදහා අනුමත වි ඇතත් 2023 වර්ෂය වන විට සිටියේ පිරිමි පොලිස් කොස්තාපල්වරුන් 30,909 ක් හා කාන්තා පොලිස් කොස්තාපල්වරියන් 5,980 ක්  පමණක් බවද විගණන මහ ලේකම් කාර්යාලය සිය වාර්තාව මගින් පෙන්වා දී ඇත. මේ අනුව පිරිමි පොලිස් කොස්තාපල්වරුන් 29,091 ක් හා කාන්තා පොලිස් කොස්තාපල්වරියන් 4,020 ක පුරප්පාඩු තිබෙන බවද විගණන මහ ලේකම් කාර්යාලය මගින් ඉදිරිපත් කරන ලද විගණන වාර්තාවේ සදහන්ය.
-
-...
-
-[Data](articles/623cace8.json)
-
----
-
-### Acting Ministers appoint
-
-*2024-12-15 18:00:05* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-අමාත්‍යවරු-පත්කරයි/11-413652) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-President Anura Kumara Dissanayake visits 5 ministries. Deputy Minister Aruna Jayasekara leads Digital Economy, Finance, and Economic Development. Dr. Harshana Soiyapperuma oversees Foreign Affairs and Foreign Employment. Mahinda Jayasinghe manages Labor.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed as President Anura Kumara Dissanayake for an official visit to 5 ministries.
-
-Deputy Minister Aruna Jayasekara and Deputy Minister Aruna Jayasekara and Deputy Minister Aruna Jayasekara and Deputy Minister Dr. Harshana Soiyapperuma have been appointed as the Ministry of Digital Economic Ministry and the Ministry of Finance and Finance Ministry and Economic Development Ministry.
-
-Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Foreign Affairs and Foreign Employment Activity Minister and the Labor of Labor.
-
-◼️
-
-[Data](articles/34a86c13.json)
-
-[Extended Data](ext_articles/34a86c13.ext.json)
 
 ---

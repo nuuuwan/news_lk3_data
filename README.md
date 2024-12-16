@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 19:27:44**
+As of **2024-12-16 19:03:42**
 
 ## Newspaper Stats
 
@@ -26,13 +26,13 @@ adaderanasinhalalk | 10,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,449 (99.9%) of 60,500 articles have been extended.
+60,445 (99.9%) of 60,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### Sri Lanka, India plan second ferry connection
+### Sri Lanka, India discuss passenger ferry service between Rameshwaram and Talaimannar
 
 *2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-discuss-passenger-ferry-service-between-rameshwaram-and-talaimannar-194528/) · `en`
 
@@ -49,8 +49,6 @@ Both leaders stressed the need for building further connectivity. (Colombo/Dec16
 ◼️
 
 [Data](articles/e95caea3.json)
-
-[Extended Data](ext_articles/e95caea3.ext.json)
 
 ---
 
@@ -128,8 +126,6 @@ In a joint statement, the both countries said President Dissanayake and Prime Mi
 
 [Data](articles/4989c042.json)
 
-[Extended Data](ext_articles/4989c042.ext.json)
-
 ---
 
 ### Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady
@@ -151,8 +147,6 @@ A bond maturing on 15.05.2030 closed stable at 10.90/11.10 percent. (Colombo/Dec
 ◼️
 
 [Data](articles/e1bf0f6d.json)
-
-[Extended Data](ext_articles/e1bf0f6d.ext.json)
 
 ---
 
@@ -216,25 +210,19 @@ The discussion also focuses on the establishment of the electricity, digital and
 
 ---
 
-### A man arrested with domestic gun in Anuradhapura
+### அநுராதபுரத்தில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது!
 
 *2024-12-16 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201445) · `ta`
 
-Man arrested with homemade gun in Anuradhapura's Kekirawa area. 46-year-old suspect caught during police raid based on tip-off.
+அநுராதபுரம், கெக்கிராவ பொலிஸ் பிரிவுக்கு உட்பட்ட கொட்டல்பத்த பிரதேசத்தில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (15 ) கெக்கிராவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
 
-🟩
+கெக்கிராவ பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
 
-A suspect has been arrested by Kekirawa police on Sunday (15) with a locally manufactured gun in Kotalpatta area belonging to the Kekirawa Police Division of Anuradhapura.
-
-The suspect has been arrested during a raid carried out on the basis of confidential information received by the Kekirawa police station.
-
-The suspect was 46 years old from Kekirawa, Anuradhapura.
+கைது செய்யப்பட்ட சந்தேக நபர் அநுராதபுரம், கெக்கிராவ பிரதேசத்தைச் சேர்ந்த 46 வயதுடையவர் ஆவார்.
 
 ◼️
 
 [Data](articles/01e2fa91.json)
-
-[Extended Data](ext_articles/01e2fa91.ext.json)
 
 ---
 

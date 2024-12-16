@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 13:44:11**
+As of **2024-12-16 14:03:25**
 
 ## Newspaper Stats
 
-*Scraped **60,447** Articles*
+*Scraped **60,449** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 453
+dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,745
+adalk | 5,746
 adaderanalk | 7,364
 tamilmirrorlk | 8,638
 virakesarilk | 9,950
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,409 (99.9%) of 60,447 articles have been extended.
+60,409 (99.9%) of 60,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -382,22 +382,6 @@ The suspects are from Matale and Udaspattu area aged 46 and 48.
 
 ---
 
-### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
-
-*2024-12-16 11:23:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
-
-‘We in Lanka feel that our fight for freedom is being fought largely in India’
-
-We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
-
-Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
-
-...
-
-[Data](articles/42a20cca.json)
-
----
-
 ### Unidentified corpse recovery
 
 *2024-12-16 11:12:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடையாளம்-தெரியாத-சடலம்-மீட்பு/175-348792) · `ta`
@@ -439,6 +423,24 @@ The body is being kept at the Colombo National Hospital and the Kaluppitti polic
 ◼️
 
 [Data](articles/81a357d6.json)
+
+---
+
+### සාගරිකා හා රජරට රැජිනගේ ගැටුමට තිදෙනෙකුගේ වැඩ තහනම්
+
+*2024-12-16 11:03:26* · [`adalk`](https://www.ada.lk/breaking_news/සාගරිකා-හා-රජරට-රැජිනගේ-ගැටුමට-තිදෙනෙකුගේ-වැඩ-තහනම්/11-413662) · `si`
+
+බෙලිඅත්ත දුම්රිය ස්ථානයේ දී සාගරිකා දුම්රිය හා රජරට රැජින දුම්රියේ එංජිම ගැටීමෙන් සිදුවූ අනතුර සම්බන්ධයෙන් තිදෙනෙකුගේ වැඩතහනමට ලක්කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+බෙලිඅත්ත දුම්රිය ස්ථානයේ මෙහෙයුම් ස්ථානාධිපති, රජරට රැජින දුම්රියේ රියදුරු හා රියදුරු සහායකගේ සේවය මෙසේ අත්හිටුවා ඇත.
+
+බෙලිඅත්තේ සිට අනුරාධපුරය දක්වා ධාවන කිරීමට සැලසුම්කර තිබු රජරට රැජිණ දුම්රියේ එංජිම මාරු කිරීමේදී එය වැරදි පීල්ලේ ධාවනය වීම හේතුවෙන් එහි නවතා තිබූ සාගරිකා දුම්රියේ ගැටී ඊයේ (15) පෙරවරුවේදි මෙම අනතුර සිදුවිි.
+
+මේ සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ. අනතුරින් සාගරිකා දුම්රියට දැඩි හානි සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/5090661c.json)
 
 ---
 
@@ -1420,6 +1422,20 @@ The female participants will have the opportunity to learn from Mimi, who is one
 
 ---
 
+### 
+
+*2024-12-16 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85220) · `en`
+
+“Bala Annai” : an Up,Close and Personal Account about LTTE Political Strategist Anton  Stanislaus Balasingham.
+
+The  current controversy surrounding speaker Ashoka Sapumal Ranwala’s higher educational qualifications  evoke memories of an earlier controversy of a similar  nature concerning a prominent person associated with the Liberation Tigers of Tamil Eelam(LTTE).  The rumpus then was about the LTTE political strategist Anton Stanislaus Balasingham who was frequently referred to as Dr.Balasingham in the media. This was widely disputed by members of organizations opposed to the LTTE.It was  said that Balasingham had never acquired a doctoral degree and was therefore  a “pretender doctor”.
+
+...
+
+[Data](articles/04b94a24.json)
+
+---
+
 ### SJB to propose Opposition nominee for post of Speaker
 
 *2024-12-16 03:29:30* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-propose-Opposition-nominee-for-post-of-Speaker/56-770566) · `en`
@@ -2277,27 +2293,5 @@ Tharindu Dilshan is the first Sri Lankan to win the award in this tournament for
 [Data](articles/70afa668.json)
 
 [Extended Data](ext_articles/70afa668.ext.json)
-
----
-
-### Indian Finance Minister Nirmala Sitharaman
-
-*2024-12-15 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201375) · `ta`
-
-N
-
-🟩
-
-Indian Finance Minister Nirmala Sitharaman has told President Anura Kumara Dissanayake that he will be friendly with Sri Lanka.
-
-President Anura Kumara Dissanayake, who visited India on Sunday (15), made a special welcome in New Delhi.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Deputy Minister of Industry and Economic Development Professor Anil Jayantha Fernando also participated in the tour.
-
-◼️
-
-[Data](articles/604f3ea1.json)
-
-[Extended Data](ext_articles/604f3ea1.ext.json)
 
 ---

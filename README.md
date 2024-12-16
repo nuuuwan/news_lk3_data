@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 05:01:41**
+As of **2024-12-17 05:12:51**
 
 ## Newspaper Stats
 
-*Scraped **60,551** Articles*
+*Scraped **60,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 634
-islandlk | 3,655
+islandlk | 3,656
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,503 (99.9%) of 60,551 articles have been extended.
+60,505 (99.9%) of 60,552 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1272,6 +1272,8 @@ The CAA Chairman further said that legal cases are being filed and judicial proc
 
 [Data](articles/d22fbd9e.json)
 
+[Extended Data](ext_articles/d22fbd9e.ext.json)
+
 ---
 
 ### Maithri has no chairman of the Freedom Party
@@ -1402,25 +1404,31 @@ The police have seized 14 grams of ice and 05 g of 200 ml of heroin from the sus
 
 ---
 
-### மீண்டும் இந்தியாவுக்கு விஜயம் செய்கிறார் ரணில் !
+### Ranil visit India again!
 
 *2024-12-16 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201434) · `ta`
 
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் 22ஆம் திகதி ஞாயிற்றுக்கிழமை இந்தியாவுக்கு விஜயம் மேற்கொள்ள இருக்கிறார். அவர் இரண்டு மாதங்களுக்குள் இந்தியாவுக்கு பயணிப்பது இரண்டாவது தடவையாகும்.
+Ranil Wickremesinghe visits India twice in two months. He'll attend special meetings and visit the Atal Bihari Vajpayee Memorial. His trip includes exploring ancient Indian sites and lasting over a week.
 
-ரணில் விக்ரமசிங்கவின் இந்தமுறை இந்தியா பயணத்தின்போது பல விசேட சந்திப்புக்களை நடத்தவுள்ளதாக அரசியல் வட்டாரங்களில் இருந்து தெரியவருகிறது.
+🟩
 
-இதற்கு மேலதிகமாக அவர் எதிர்வரும் 27ஆம் திகதி அடல் பிகார் வாஜ்பாய் நினைவு பேருரையையும் நிகழ்த்தவுள்ளார்.
+Former President Ranil Wickremesinghe is due to visit India on Sunday 22nd. It is the second time he travels to India within two months.
 
-அத்துடன் இந்தமுறை இந்திய விஜயத்தின்போது ரணில் விக்ரமசிங்க அங்கு ஒரு வாரத்துக்கும் அதிக காலம் தங்கி இருப்பார் என தெரியவருகிறது.
+Ranil Wickremesinghe's visit to India will hold several special meetings during India's visit.
 
-இந்த பயணத்தின்போது அவர் இந்தியாவின் புராதன இடங்களை கண்டுகளிப்பதற்காக அதிக காலத்தை ஒதுக்கி இருப்பதாக தெரியவருகிறது.
+In addition, he will also perform the Atal Bihar Vajpayee Memorial on the 27th.
 
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கடந்த நவம்பர் மாதம் 21ஆம் திகதி முதல் 30ஆம் திகதிவரை இந்தியாவுக்கு விஜயம் மேற்கொண்டிருந்தமை குறிப்பிடத்தக்கதாகும்.
+It is also revealed that Ranil Wickremesinghe will stay there for more than a week during his visit to India.
+
+It is revealed that he has been set aside for the ancient places of India on this trip.
+
+It is noteworthy that former President Ranil Wickremesinghe visited India from November 21 to 30.
 
 ◼️
 
 [Data](articles/ef7e0c55.json)
+
+[Extended Data](ext_articles/ef7e0c55.ext.json)
 
 ---
 

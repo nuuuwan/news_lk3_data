@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 12:03:00**
+As of **2024-12-16 13:02:08**
 
 ## Newspaper Stats
 
-*Scraped **60,417** Articles*
+*Scraped **60,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 614
 bbccomsinhala | 634
-islandlk | 3,654
+islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,742
+adalk | 5,744
 adaderanalk | 7,355
-tamilmirrorlk | 8,634
+tamilmirrorlk | 8,635
 virakesarilk | 9,945
 adaderanasinhalalk | 10,441
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,393 (100.0%) of 60,417 articles have been extended.
+60,399 (100.0%) of 60,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### தவறான தரவுகள்;CID சென்றார் நீதியமைச்சர்
+
+*2024-12-16 12:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-தரவுகள்-CID-சென்றார்-நீதியமைச்சர்/175-348794) · `ta`
+
+நீதி அமைச்சர் ஹர்ஷன நாணயக்கார தனது கல்வித் தகுதி தொடர்பான பிழையான தரவுகள் பாராளுமன்ற தரவுத்தளத்தில் பதிவு செய்யப்பட்டமை தொடர்பில் விசாரணை நடத்துமாறு குற்றப் புலனாய்வு திணைக்களத்தில் (CID) முறைப்பாடு செய்துள்ளார்.
+
+நீதியமைச்சர், சட்டத்தரணி ஹர்ஷன நாணயக்காரவின் கல்வித் தகைமைகள் தொடர்பான விவரங்கள் பாராளுமன்ற இணையத்தளத்தில் தவறாக பதிவேற்றப்பட்டுள்ளதை மேற்கோள்காட்டி, அவை தவறானவை என கடந்த வாரம் இலங்கை பாராளுமன்றம் ஒப்புக்கொண்டது.
+
+◼️
+
+[Data](articles/784d3fc9.json)
+
+---
+
+### Mrs. B becomes PM and I the Secretary to the world’s first woman prime minster
+
+*2024-12-16 11:41:00* · [`islandlk`](http://island.lk/mrs-b-becomes-pm-and-i-the-secretary-to-the-worlds-first-woman-prime-minster/) · `en`
+
+Anura bothered about his mother seeing his school report before he did
+
+(Excerpted from Rendering Unto Caesar, by Bradman Weerakoon, Secretary to the Prime Minister)
+
+In 1960, as she rode to power, after a grueling campaign, as the world’s first-ever woman prime minister, Sirima Bandaranaike was making the global headlines and taking Ceylon too into the limelight, which was to last for decades. The world wondered as to how this phenomenon, of a woman being chosen to be prime minister, had occurred in Ceylon. Was it some peculiar provision of dynastic succession by which the wife succeeded to a vacancy caused by the death of a husband Could such a thing occur only in an Asian country? Was it, as uncharitable political opponents would say, a consequence of the enormous wave of sympathy that followed close on the tragic death of a popular leader? Was the phenomenon connected mystically with the primacy of motherhood’ (matar) so central a part of the culture of the Indian subcontinent?
+
+...
+
+[Data](articles/4bf6a347.json)
+
+[Extended Data](ext_articles/4bf6a347.ext.json)
+
+---
 
 ### Police officer killed
 
@@ -222,23 +254,29 @@ Question - 02: 2024 How much did the government borrow?
 
 ---
 
-### මීටියාගොඩ වෙඩි තැබිමකින් පියාට හා දියණියට බරපතලයි
+### Father and daughter seriously from shooting in Meetiyagoda
 
 *2024-12-16 09:51:42* · [`adalk`](https://www.ada.lk/breaking_news/මීටියාගොඩ-වෙඩි-තැබිමකින්-පියාට-හා-දියණියට-බරපතලයි/11-413660) · `si`
 
-මීටියාගොඩ , බලිමුල්ල නිවසකට ඊයේ (15) රෑ කඩාවැදුණු පිරිසක් විසින් කළ වෙඩි තැබීමකින් නිවසේ සිටි පියා හා දියණිය බරපතල තුවාල ලබා ඇති බවත් ඔවුන් බලපිටිය රෝහලට ඇතුළත් කළ බවත්  මීටියාගොඩ පොලීසිය කියයි.
+Shooting incident in Meetiyagoda: Father-daughter injured, others killed. Police investigating personal dispute, not underworld clash. Suspect identified, fled scene.
 
-මෙසේ වෙඩි වැදී ඇත්තේ පනස්එක් හැවිරිදි රවීන්ද්‍ර ගුණතිලක නමැත්තාට සහ විසිනම හැවිරිදි රමයා ගුණතිලක නමැත්තියකටයි.
+🟩
 
-ත්‍රීරෝද රථයකින් පැමිණි පිරිසක් පිස්තෝල වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදු කොට ඇති බව මුලික පරීක්ෂණවලදී අනාවරණයවූ බවද පොලීසිය කියයි.
+The father and daughter of the house were seriously injured in a shooting at Meetiyagoda and a group of people who were shot dead at the Balamur Hall yesterday (15).
 
-වෙඩි තැබීම සිදු කළ සැකකරු හදුනාගෙන ඇති බවත් ඔහු එම ප්‍රදේශයේම පදිංචි අයෙක් බවත් සැකකරු ඇතුලු පිරිස ප්‍රදේශයෙන් පලාගොස් ඇති බවත් පොලීසිය කියයි.
+The fifty-year-old Ravindra Gunatilleke, who was fifty-year-old Ravindra Gunatilleke, who was born to the man of the man and Ramaya Gunatilleke.
 
-පෞද්ගලික ආරවුලකට වෙඩි තැබීම සිදු කරන්නට ඇති බවත් මෙය පාතාල කණ්ඩායම් අතර ගැටුමක් නොවන බවත් පොලීසිය වැඩිදුරටත් කියයි.
+Investigations have revealed that a group of three-wheeler has been shot with a pistol type firearm.
+
+The suspect had been identified as a resident of the area and the suspect, including the suspect, had fled the area.
+
+Police also say that a personal dispute has been shot and is not a clash between underworld.
 
 ◼️
 
 [Data](articles/bf285416.json)
+
+[Extended Data](ext_articles/bf285416.ext.json)
 
 ---
 
@@ -267,6 +305,8 @@ The more liquid S&P SL20 was up 1.28 percent, or 54.24 points, at 4,298.
 ◼️
 
 [Data](articles/2e1965df.json)
+
+[Extended Data](ext_articles/2e1965df.ext.json)
 
 ---
 
@@ -670,6 +710,8 @@ In talks with External Affairs Minister Jaishankar the potential for utilizing I
 
 [Data](articles/9708ad60.json)
 
+[Extended Data](ext_articles/9708ad60.ext.json)
+
 ---
 
 ### Selection of the new Speaker tomorrow
@@ -972,27 +1014,39 @@ In reply, the Nuwara Eliya Kings lost 8 wickets in 10 overs and lost 108 runs.
 
 ---
 
-### සා. පෙළ සිට ආචාර්ය උපාධිය දක්වා ඇති එක ම ගමන්මග - ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකය
+### Oh. One travet from text to the Tea Degree - Sri Lanka Fitness Guide
 
 *2024-12-16 01:37:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dx5kl7012o) · `si`
 
-සා. පෙළ සිට ආචාර්ය උපාධිය දක්වා ඇති එක ම ගමන්මග - ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකය
+Here's a summary of the text in approximately 200 characters:
 
-මහාචාර්ය තනතුරු, අචාර්ය උපාධි සහ අධ්‍යාපන මට්ටම් පිළිබඳව ශ්‍රී ලංකාව තුළ මේ වන විට දැඩි කතාබහක් නිර්මාණය වී තිබේ.
 
-ආචාර්ය උපාධියක් ඇතැයි කී කතානායකවරයාගේ එම උපාධි ප්‍රශ්නය කෙළවර වූයේ, ඔහුට ධූරයෙන් ඉල්ලා අස්වීමට සිදුවීමෙනි.
 
-මේ අතර, මහාචාර්ය නාමය භාවිත කළ ඇතැමුන් ඒවා වෙබ් අඩවිවලින් ඉවත් කර ගෙන ඇති බවට ද, ඩිප්ලෝමාධාරීන් ඉන්ජිනේරුවරුන් ලෙස හඳුන්වාගෙන ඇති බවට ද විවිධ චෝදනා මෙන් ම උපහාසයන් ද සමාජ මාධ්‍ය තුළ සංසරණය වෙමින් පවතී.
+Sri Lanka Fitness Guide outlines 12-layer education system. Includes GCE exams, degrees, diplomas, and NVQ levels. Describes qualification requirements for each layer and research expectations for higher degrees.
 
-ඇතැමුන් ආචාර්ය, මහාචාර්ය නාමයන් කෙලෙස භාවිත කළ ද, ශ්‍රී ලංකාවේ එවැනි නාමයන් භාවිත කිරීමේ නිශ්චිත ක්‍රමවේදයක් පවතී.
+🟩
 
-ඒ පිළිබඳව, ශ්‍රී ලංකා විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව විසින් නිකුත් කරනු ලැබ ඇති 'ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකය' (Sri Lanka Qualifications Framework) මගින් නිශ්චිතව පැහැදිලි කර තිබේ.
+Oh. One travet from text to the Tea Degree - Sri Lanka Fitness Guide
 
-'ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශය ස්ථර දොළහකින් සමන්විත වේ. ඉගැනුම් ඵල හා ඉගැනුම් විවිධත්ව අවශ්‍යතා ඒ එක් එක් ස්ථරය සමග ඉහළ යයි,' ශ්‍රී ලංකා යෝග්‍යතා මාර්ගෝපදේශකයේ සඳහන් වෙයි.
+Professor's posts, Deferator and Education levels have been created in Sri Lanka at present.
+
+The graduation question of the Speaker to resign from his post.
+
+Meanwhile, some of the Professor name had been identified as the engineers, Diploma holders have been identified as engineers and sarcasmists, as well as sarcasmists.
+
+Some have a specific methodology to use such names in Sri Lanka, even if they used the professor names.
+
+It is clearly explained by the Sri Lanka Fitness Guide to the Sri Lanka Fitness Commission (SLI) has been issued by the Sri Lanka University Grants Commission.
+
+'Sri Lankan fitness guide consists of twelve layers. Learning Fruit and Learning Diversity Requirements The Sri Lanka Fitness Guide is high.
+
+Sri Lanka Fitness Guide Layers, the minimum academic requirements of each layer and the minimum studies required for each layer are also required.
 
 ...
 
 [Data](articles/300b3f67.json)
+
+[Extended Data](ext_articles/300b3f67.ext.json)
 
 ---
 
@@ -2278,6 +2332,20 @@ This move comes after a period of high egg prices, with a single egg costing bet
 
 ---
 
+### පොලිස් කොස්තාපල්වරුන්ගේ හා වරියන්ගේ සියයට 50ක හිඟයක්
+
+*2024-12-15 18:05:31* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-කොස්තාපල්වරුන්ගේ-හා-වරියන්ගේ-සියයට-50ක-හිඟයක්/11-413653) · `si`
+
+ශ්‍රී ලංකා පොලීසියේ පිරිමි හා කාන්තා පොලිස් කොස්තාපල් තනතුරු අනුමත ප්‍රමාණයට වඩා 50% කට ආසන්න ප්‍රමාණයක් පුරප්පාඩුව තිබෙන බව ජාතික විගණන මහ ලේකම් කාර්යාලය සිදුකරන ලද විගණන පරීක්ෂණයකදී තහවුරු වී තිබේ.
+
+පිරිමි පොලිස් කොස්තාපල් තනතුරු 60,000 ක් සහ කාන්තා පොලිස් කොස්තාපල් තනතුරු 10,000 ක් පොලිස් දෙපාර්තමේන්තුව සදහා අනුමත වි ඇතත් 2023 වර්ෂය වන විට සිටියේ පිරිමි පොලිස් කොස්තාපල්වරුන් 30,909 ක් හා කාන්තා පොලිස් කොස්තාපල්වරියන් 5,980 ක්  පමණක් බවද විගණන මහ ලේකම් කාර්යාලය සිය වාර්තාව මගින් පෙන්වා දී ඇත. මේ අනුව පිරිමි පොලිස් කොස්තාපල්වරුන් 29,091 ක් හා කාන්තා පොලිස් කොස්තාපල්වරියන් 4,020 ක පුරප්පාඩු තිබෙන බවද විගණන මහ ලේකම් කාර්යාලය මගින් ඉදිරිපත් කරන ලද විගණන වාර්තාවේ සදහන්ය.
+
+...
+
+[Data](articles/623cace8.json)
+
+---
+
 ### Acting Ministers appoint
 
 *2024-12-15 18:00:05* · [`adalk`](https://www.ada.lk/breaking_news/වැඩ-බලන-අමාත්‍යවරු-පත්කරයි/11-413652) · `si`
@@ -2301,99 +2369,5 @@ Deputy Minister of Labor Mahinda Jayasinghe has been appointed as the Foreign Af
 [Data](articles/34a86c13.json)
 
 [Extended Data](ext_articles/34a86c13.ext.json)
-
----
-
-### A private bus driver in Jaffna arrested for assaulting conductor
-
-*2024-12-15 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201349) · `ta`
-
-Jaffna private bus driver assaulted conductor arrested suspect identified Urumpirai police investigation ongoing
-
-🟩
-
-A suspect who assaulted a driver and conductor of a private bus in Punnalaikkattuvan has been arrested by police today (15).
-
-A group of three people attacked the conductor of the bus and attacked the driver of the bus seven months ago.
-
-The main suspect, who was searching for a complaint by the victims, has been arrested today in the Urumpirai area and has been arrested on the basis of confidential information available to the Jaffna District Senior Superintendent of Police.
-
-The arrested suspect has been handed over to the Jaffna Police Station and two more people have been involved in the incident.
-
-In the preliminary inquiries carried out by the detainee, they said they had carried out the attack at the instigation of another.
-
-The incident took place on 17.04.2024, and the private bus union had launched a protest on 20.04.2024 demanding the arrest of the suspects.
-
-◼️
-
-[Data](articles/db30d8f4.json)
-
-[Extended Data](ext_articles/db30d8f4.ext.json)
-
----
-
-### Sea areas and land warning announced around the island
-
-*2024-12-15 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204403) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Low-pressure system in Bay of Bengal; winds 50-60 knots; rough seas; heavy showers possible; warnings for coastal areas and fishing communities; impact expected in eastern and northern regions of the island.
-
-🟩
-
-The Department of Meteorology has issued an announcement to bear the sea areas and land to be valid for 24 hrs in the island.
-
-It states that a low-pressure zone will be able to create a low-pressure zone in the next 24 hours in the Bay of Bengal area.
-
-The next two days, it has been informed that it is the ability to move to the Tamil Nadu coast near the north of the island.
-
-• Winds the speed of the coast extending from Kankasanthurai to Pottuvil via Pottuvil.. The sea areas can be rough at times as (50-60). Heavy showers or thundershowers may occur in some places in the sea areas.
-
-• Winds from Kankesanthurai to Galle through Galle and Colombo.. It can be slightly rough because of the time to rise up to 50.
-
-The community of the Bay of Bengal, the fisheries and naval area in the Bay of Bengal area has been asked to be aware of the next predictions and announcements issued by the Department of Meteorology.
-
-...
-
-[Data](articles/7941dae7.json)
-
-[Extended Data](ext_articles/7941dae7.ext.json)
-
----
-
-### 628286 electricity disconnections this year
-
-*2024-12-15 17:50:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විදුලිය-විසන්ධි-කිරීම්-628286ක්/11-413651) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Electricity disconnections: 628,286 homes, 5,579 businesses, 39 hotels from Jan to June. Last year: 97,093 disconnections. Average daily disconnections increased from 2,660 to 3,443. CEB struggles financially despite profits. Relief sought for January electricity bills.
-
-🟩
-
-From January to June this year, electricity cuts have occurred to six hundred twenty-eighty thousand two hundred and eighty-eight towel (628286)
-
-After 12,940 to 900 (970933) of electricity disconnections last year, the electricity disconnected was Rs.
-
-He said that the electricity bill would not be paid by 30% due to the expulsion of the electricity bill, he said.
-
-He said the Public Utilities Commission would be requested to write and verbally comment from the public on writing and orally ideas for the revision of the next year.
-
-The number of power cuts from January to June from January to June was 628286 houses, 8579 houses, 39 hotels, 39 and other (shops) were disconnected in 111276 public sector, 39, 39 hotels and 39 hotels.
-
-He added that the average value of electricity cutting was 2660 per day in last year and is 3443.
-
-He further stated that the Electricity Board (CEB) has been severely helpless, but the CEB has been severely helpless but the Ceylon Electricity Board has been profit.
-
-...
-
-[Data](articles/23aab403.json)
-
-[Extended Data](ext_articles/23aab403.ext.json)
 
 ---

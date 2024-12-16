@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 06:48:52**
+As of **2024-12-16 07:31:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,365 (100.0%) of 60,383 articles have been extended.
+60,367 (100.0%) of 60,383 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -316,6 +316,8 @@ Takshila Jayakody, a midwife said that providing care for pregnant patients and 
 
 [Data](articles/5fc08ae4.json)
 
+[Extended Data](ext_articles/5fc08ae4.ext.json)
+
 ---
 
 ### Huawei holds South Asia Supplier Convention 2024 in Sri Lanka
@@ -333,6 +335,8 @@ Over 140 participants from Bangladesh, Nepal, the Maldives, and Sri Lanka gather
 ...
 
 [Data](articles/0ecf0517.json)
+
+[Extended Data](ext_articles/0ecf0517.ext.json)
 
 ---
 

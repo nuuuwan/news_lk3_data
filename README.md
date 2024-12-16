@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 10:02:22**
+As of **2024-12-16 10:43:34**
 
 ## Newspaper Stats
 
-*Scraped **60,406** Articles*
+*Scraped **60,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,654
 economynextcom | 3,671
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,738
+adalk | 5,739
 adaderanalk | 7,355
-tamilmirrorlk | 8,630
+tamilmirrorlk | 8,632
 virakesarilk | 9,945
 adaderanasinhalalk | 10,441
 
@@ -26,23 +26,99 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,383 (100.0%) of 60,406 articles have been extended.
+60,385 (100.0%) of 60,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### பெரும் நெருக்கடிக்குள் அரசாங்கம் வீழ்ந்துள்ளதா?
+### இந்திய இராஜதந்திரிகளுடன் சந்திப்பு
+
+*2024-12-16 10:28:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இராஜதந்திரிகளுடன்-சந்திப்பு/175-348790) · `ta`
+
+இந்தியாவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தங்கியிருக்கும் புதுடில்லி ITC MAURYA ஹோட்டலுக்கு வருகைத் தந்த இந்திய நிதி மற்றும் நிறுவன அலுவல்கள் அமைச்சர் நிர்மலா சீதாராமன், வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர், Dr.S.jayashankar) மற்றும் இந்திய பாதுகாப்பு ஆலோசகர் ஸ்ரீ அஜித் தோவால் ஆகியோர் ஜனாதிபதியை சந்தித்து கலந்துரையாடினர்.
+
+இந்தியா – இலங்கை பொருளாதார ஒத்துழைப்புக்களை பலப்படுத்திக்கொள்ளல் மற்றும் இருநாடுகளுக்கும் இடையிலான முதலீட்டு வாய்ப்புக்களை விரிவுபடுத்திக்கொள்வது தொடர்பில் ஜனாதிபதி மற்றும் இந்திய நிதி, நிறுவன அலுவல்கள் அமைச்சர் நிர்மலா சீதாராமன் ஆகியோருக்கு இடையிலான சந்திப்பில் விரிவாக கலந்துரையாடப்பட்டது.
+
+அதேநேரம் இந்திய சுற்றுலாப் பயணிகளை இலங்கைக்கு அதிகளவில் அழைத்து வருவது மற்றும் இலங்கையின் விவசாய நவீனமயமாக்கல், டிஜிட்டல் உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி குறித்தும் கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/f473eb89.json)
+
+---
+
+### Today's event to officially welcome the president
+
+*2024-12-16 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-உத்தியோகபூர்வமாக-வரவேற்கும்-நிகழ்வு-இன்று/175-348789) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Presidential visit to India: Official welcome, economic cooperation talks, defense discussions, cultural exchanges.
+
+🟩
+
+The official visit to India on a three -day official visit to India will be held on Monday (16) at the official residence of the President of India.
+
+The President and his crew, which began the President's first overseas visit, reached the Indira Gandhi International Airport in New Delhi, India, at around 5.30 pm yesterday.
+
+There, the Minister of Communications, Dr. S.. Murugan, Indian High Commissioner Santosh Ja and diplomats greeted the President at the airport.
+
+Subsequently, Minister of State for Finance and Institutions of India, Nirmala Sitharaman, Minister of State for Foreign Affairs. Jaishankar and India's National Security Adviser Ajit Dowal have held talks with the president.
+
+It is reported that the meeting between the President Nirmala Sita Raman and the Minister of India and the Minister of Finance and Corporation Nirmala Sita Raman was discussed to increase the Indian -Sri Lankan economic cooperation and expand the investment opportunities between the two countries.
+
+...
+
+[Data](articles/e685e3f6.json)
+
+[Extended Data](ext_articles/e685e3f6.ext.json)
+
+---
+
+### Has the government fall into a major crisis?
 
 *2024-12-16 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-நெருக்கடிக்குள்-அரசாங்கம்-வீழ்ந்துள்ளதா/175-348787) · `ta`
 
-கடந்த ஜனாதிபதி தேர்தலின் போது, அரசாங்கம் கடன்களை பெற்றுக்கொள்வது தொடர்பில் பல்வேறு கருத்துக்கள் வெளியாகியிருந்தன. எனினும் அரசாங்கம் அதிகமாக கடன்களை பெற்றுக்கொள்வதாக சிலர் வாதிடுகின்றனர். அரசாங்கம் கடன்களை பெற்றுக்கொள்வது ஏற்றுக்கொள்ளகூடியது என சிலர் பதிலளிக்கின்றனர். இந்த நிலையில் பெற்றுக்கொள்கின்ற கடன்கள் வரவு செலவு திட்டத்தின் பற்றாக்குறையை நிவர்த்தி செய்வதற்காகவா, அல்லது நாங்கள் ஏற்கனவே பெற்றுக்கொண்டுள்ள கடன்களை மீள செலுத்துவதற்காகவா என்று முரண்பட்ட கூற்றுக்கள் காணப்படுகின்றன. இலங்கை அரசாங்கம் கடன்களை பெற்றுக்கொள்வது தொடர்பில் மூன்று முக்கிய கேள்விகளை FactCheck.lk தெளிவுபடுத்துகின்றது.
+Here's a summary of the text in approximately 200 characters:
 
-அரசாங்கங்கள் மூன்று பிரதான காரணங்களுக்காக கடன்களை பெறுகின்றன. முதலாவதாக பிரதான நிதி பற்றாக்குறையை நிவரத்தி செய்வதற்கு. இரண்டாவது கடன்கள் மற்றும் வட்டியை செலுத்துவதற்கு. மூன்றாவதாக முதிர்வு கடன்களை அடைப்பதற்கு.
+
+
+Sri Lanka's 2024 government borrowing: 3,670 billion rupees GFN. Actual loan: 1,903 billion rupees Jan-Sep. Projected: 1,612 billion rupees Oct-Dec. Domestic credit: 1,445 billion rupees; foreign loans: 415 billion rupees. No risk of exceeding 2024 debt targets.
+
+🟩
+
+During the last presidential election, there were various comments about the government's obtaining loans. However, some argue that the government is getting more debts. Some people respond that the government receives loans is acceptable. In this case, there are conflicting claims that the loans received in this position are to address the deficit of the budget, or to repay the loans we have already received.. Factcheck.lk clarifies three key questions about the Sri Lankan government's obtaining loans.
+
+Governments get loans for three main reasons. First to make the main financial deficit. To pay off the second loans and interest. Third to pay maturity loans.
+
+If the government is considering these three reasons for one thing, it is the total value of the debt that the government has to obtain every year. This is what we call the GFN (Gross Financing Need) total financial service.
+
+Question - 02: 2024 How much did the government borrow?
 
 ...
 
 [Data](articles/d78647ca.json)
+
+[Extended Data](ext_articles/d78647ca.ext.json)
+
+---
+
+### නව කථානායක පොලොන්නරුවේ වෛද්‍ය ජගත් වික්‍රමරත්න?
+
+*2024-12-16 09:29:50* · [`adalk`](https://www.ada.lk/breaking_news/නව-කථානායක-පොලොන්නරුවේ-වෛද්‍ය-ජගත්-වික්‍රමරත්න-/11-413659) · `si`
+
+නව කතානායකවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ නම යෝජනා වී ඇති බව ද වාර්තා වේ. ඒ පිළිබඳව අවසන් තීරණය ගැනීම වෙනුවෙන් ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම අද (16දා) රැස්වීමට නියමිතය. ඔහු පොළොන්නරුව දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුවට තේරී පත් වූ මන්ත්‍රීවරයෙකි.
+
+නව කතානායකවරයෙක් පත් කරගැනීම පිළිබඳව සහ ඉදිරි පාර්ලිමේන්තු කටයුතු පිළිබඳව සාකච්ඡා කිරීම වෙනුවෙන් අද (16දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.
+
+මේ අතර තවදුරටත් වාර්තා වූයේ හිටපු කතානායක අශෝක රන්වල මහතාගේ අධ්‍යාපන සහතික ද නුදුරේදී ම ඉදිරිපත් කිරීමට නියමිත බවයි.
+
+◼️
+
+[Data](articles/b34b60ce.json)
 
 ---
 
@@ -2261,91 +2337,5 @@ As for the elections in Sri Lanka, it can be observed that more rejected votes a
 [Data](articles/0e385252.json)
 
 [Extended Data](ext_articles/0e385252.ext.json)
-
----
-
-### Egg price from today
-
-*2024-12-15 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204401) · `si`
-
-Egg prices: 50g egg Rs. 30, >55g egg Rs. 34. Consumers advised against buying above 55g eggs.
-
-🟩
-
-The All Ceylon Liber Trade Association says that an egg has been marketed at Rs.
-
-The President of the Association Anton Appuhamy said that a normal egg under 50 grams could be purchased at Rs.
-
-He also said that a large egg is more than 55 grams at a cost of Rs.3 and 35.
-
-He asked customers not to buy any eggs in the market with these prices.
-
-"We have made a decision during the next festive season.. Therefore, it is asking for eggs for less than Rs.
-
-"2023 had an egg in this period of 65 -70. But the price of egg production has been increased and the price of the market has been concluded today. All farmers' eggs have surplus ".
-
-"A 50g egg can be purchased at Rs 30. 33 g of egg, more than 55 grams, 334. Don't take everyone more than that. There is plenty of comfort.
-
-◼️
-
-[Data](articles/187e8151.json)
-
-[Extended Data](ext_articles/187e8151.ext.json)
-
----
-
-### The severe pressure of Anura, who resigned to the Speaker
-
-*2024-12-15 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201356) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Ashoka Sapumal Ranwala comments on Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Power Minister Punniyasree Kumara Jayakody, and Harshana Suripperuma causing shock.
-
-🟩
-
-Speaker Ashoka Sapumal Ranwala has commented on Deputy Speaker Rishwi Sally, Urban Development Minister Anura Karunathilaka, Power Minister Punniyasree Kumara Jayakody, Harshana SuripperumaHe has caused shock.
-
-◼️
-
-[Data](articles/d0c1bffb.json)
-
-[Extended Data](ext_articles/d0c1bffb.ext.json)
-
----
-
-### Lalith Religious Government Reign from Dubai to Hungawella
-
-*2024-12-15 17:16:30* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-රාජ්‍යයේ-සිට-හංවැල්ලේ-නොනිල-රජකම්-කරන-බස්-ලලිත්/11-413647) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Businessmen flee Hanwella due to threats. Police investigate Lalith Kannanara for 5 murders & extortion. Luxury homes abandoned, families terrorized. Security forces seek arrest warrant.
-
-🟩
-
-Police say that many businessmen have left their businessmen closed down their businesses, centered from hiding in Dubai to Hanwella and extortion.
-
-Police have also used police protection in the Hanwella area in the face of the criminal.
-
-The 34-year-old criminal is a man of the police in the police book that the five murders are needed by the police.
-
-The assassination of the Muslim businessman of Hanwella on December 18, 2022, the murder of the Muslim businessman in Hanwella, 1722, was severely conversing.
-
-It was also the case .It 's that simple.
-
-Lalith Kanganan bush was first given to the victim. It is due to the assassination of the person and the assassination of the people.
-
-According to police, Manna Roshan was killed in the Hanwella area on December 25, 2023, as well as the crimes of Rosan in Hanwella area on December 25, 2023.
-
-...
-
-[Data](articles/447e0570.json)
-
-[Extended Data](ext_articles/447e0570.ext.json)
 
 ---

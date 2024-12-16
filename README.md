@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 03:43:09**
+As of **2024-12-17 04:26:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,493 (99.9%) of 60,549 articles have been extended.
+60,498 (99.9%) of 60,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -840,45 +840,69 @@ Sri Lanka’s previous government has imposed a temporary one-year ban on all fo
 
 [Data](articles/511b4e09.json)
 
+[Extended Data](ext_articles/511b4e09.ext.json)
+
 ---
 
-### මියන්මාර සයිබර් අපරාධ කඳවුරුවල රඳවා ගෙන සිටි ශ්‍රී ලාංකිකයින් පිරිසක් දිවයිනට
+### Sri Lankans detained in Myanmar cyber crime camps
 
 *2024-12-16 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204439) · `si`
 
-මියන්මාර මිනිස් ජාවාරම්කරුවන්ගේ ග්‍රහණයේ සිටි කාන්තාවන් 08ක් ඇතුළු 27 දෙනෙකුගෙන් යුතු කණ්ඩායමක් අද (16) දිවයිනට පැමිණ තිබේ.
+Sri Lankans detained in Myanmar cyber crime camps: 8 women return home, 14 still held. Government seeks help to rescue 63 victims. Foreign Employment Bureau advised to follow proper procedures for repatriation.
 
-අද පස්වරුවේ බැංකොක් සිට කටුනායකට පැමිණි ශ්‍රීලංකන් ගුවන් යානයෙන් ඔවුන් දිවයිනට පැමිණි ඇත.
+🟩
 
-ඔවුන් පදිංචි ස්ථාන කරා ආරක්ෂිතව රැගෙන යාමට කටයුතු යොදා තිබුණු බව වාර්තා වෙයි.
+A group of eight women in the control of Myanmar human traffickers has arrived in Sri Lanka today (16).
 
-මේ අතර තවත් 14 දෙනෙකුගෙන් යුතු කණ්ඩායමක් මියන්මාරයේ මිනිස් ජාවරම්කරුවන්ගේ ග්‍රහණයේ සිටින බවට වාර්තා වේ.
+They had arrived in the island on SriLankan flight from Banguchchiya to Katunayake this afternoon.
 
-ඔවුන් ගෙන්වා ගැනීමට අවශ්‍ය කටයුතු යොදන ලෙස පසුගිය දා අමාත්‍ය විජිත හේරත් මහතා උපදෙස් දී තිබුණි.
+It is reported that they had taken measures to take their residence safely.
 
-නව රජය පත් වීමෙන් පසු මියන්මාරයේ මිනිස් ජාවාරම් කඳවුරුවල සිර වී සිටි 63ක් දිවයිනට පැමිණ තිබේ.
+Meanwhile, a group of 14 others are in the grip of the human racards of Myanmar.
 
-මිනිස් ජාවාරම්වල ගොදුරු බවට පත් නොවීම සඳහා බලයලත් ක්‍රියා පටිපාටිවලට අනිවාර්යයෙන් අනුගත වන ලෙස විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය විදේශ රැකියා අපේක්ෂාවෙන් සිටින අයගෙන් ඉල්ලා සිටී.
+Minister Vijitha Herath was instructed to use the arrangements to be taken to bring them to bring them.
+
+At the island, 63 trapped in Myanmar's human traffic camps after the new government was elected.
+
+The Ministry of Foreign Affairs and Tourism has requested the foreign employment to adapt to foreign employment to adapt authorized procedures for the victims of human trafficking.
 
 ◼️
 
 [Data](articles/c8e2c06f.json)
 
+[Extended Data](ext_articles/c8e2c06f.ext.json)
+
 ---
 
-### ඩී.එම්.ටී. ලිපිකරුගේ හා බිරිඳගේ නමින් රු. කෝටි ගණනක බැංකු ගිණුම් හා වත්කම්
+### DMT. The name of the clerk and wife. Billions of bank accounts and assets
 
 *2024-12-16 18:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ඩී-එම්-ටී--ලිපිකරුගේ-හා-බිරිඳගේ-නමින්-රු--කෝටි-ගණනක-බැංකු-ගිණුම්-හා-වත්කම්/11-413679) · `si`
 
-රුපියල් කෝටි ගණනක මුදල් හා වත්කම් උපයාගෙන ගෙන ඇති ආකාරය හෙළි කිරීමට අපොහොසත් වූ බව කියන මෝටර් රථ ප්‍රවාහන කොමසාරිස් දෙපාර්තමේන්තුවේ ලිපිකරුවෙකුගේ හා ඔහුගේ බිරිඳගේ නමින් මෙන්ම, ව්‍යාපාරිකයෙකුගේ නමින් පවත්වාගෙන යන රාජ්‍ය සහ පෞද්ගලික බැංකුවල ගිණුම් මාස තුනක කාලයක් සඳහා අත්හිටුවීමට කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා අද (16ද) නියම කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම මුදල් උපයා ගත් ආකාරයේ හෙළිකර ගැනීම සඳහා විමර්ශනයක් ආරම්භ කර ඇති බව කියමින් අල්ලස් කොමිසමේ නිලධාරීන් කළ ඉල්ලීමක් පිළිගත් විනිසුරුවරයා එලෙස නියම කළේය.
 
-ලබන වසරේ මාර්තු මස 16වෙනිදා දක්වා බලපැවැත්වෙන අන්දමට අදාළ බැංකු ගිණුම්වල ඇති මුදල් ඉවත් කර ගැනීම වළකාලමින් ගිණුම් අත්හිටුවීමට නියම කළ විනිසුරුවරයා, ඒ බව අදාළ බැංකුවල කළමනාකරුවන්ට දැනුම් දීමටද නියම කළේය.
+
+Colombo High Court Judge Adurdarandi orders suspension of bank accounts belonging to MG Dharmaratne and his wife Shami Priyanka Perera. Investigation by Bribery Commission reveals billions in assets across multiple banks. Judge grants temporary freeze on accounts pending further inquiry.
+
+🟩
+
+Colombo High Court Judge Adurdarandi today (16 () fixed.
+
+The judge accepted a request made by the Bribery Commission, claiming that an investigation has been launched to expose this money.
+
+The judge ordered to be suspended to be suspended to be suspended to be suspended in the relevant banks.
+
+The bank accounts were banned by MG, a resident of the Commissioner of Motor Traffic. Channa Roitha's and his wife, Shami Priyanka Perera, is a businessman. There are several accounts run by Dharmaratne's names in government and private banks.
+
+The Bribery officials of the Bribery Commission filed a report on the progress of the investigations into the incident.
+
+The officials informed of the cash out of a joint account of a joint account of a joint account in the name of the suspect couple, the Bribery ActShe was told to suspend the relevant bank accounts to seven days according to the powers he had received.
 
 ...
 
 [Data](articles/6996b0ce.json)
+
+[Extended Data](ext_articles/6996b0ce.ext.json)
 
 ---
 
@@ -897,6 +921,8 @@ Sri Lanka’s CEB is developing two off shore sites, for wind power, with one lo
 ...
 
 [Data](articles/dbe8f471.json)
+
+[Extended Data](ext_articles/dbe8f471.ext.json)
 
 ---
 
@@ -917,6 +943,8 @@ Both leaders stressed the need for building further connectivity. (Colombo/Dec16
 ◼️
 
 [Data](articles/9d327cd6.json)
+
+[Extended Data](ext_articles/9d327cd6.ext.json)
 
 ---
 

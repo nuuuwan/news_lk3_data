@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 07:31:42**
+As of **2024-12-16 08:10:46**
 
 ## Newspaper Stats
 
-*Scraped **60,383** Articles*
+*Scraped **60,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,654
 economynextcom | 3,671
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,732
+adalk | 5,735
 adaderanalk | 7,353
-tamilmirrorlk | 8,622
+tamilmirrorlk | 8,625
 virakesarilk | 9,944
 adaderanasinhalalk | 10,436
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,367 (100.0%) of 60,383 articles have been extended.
+60,368 (100.0%) of 60,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### வடக்கை நோக்கி வரும் மற்றுமொரு புதிய ஆபத்து
+
+*2024-12-16 08:02:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கை-நோக்கி-வரும்-மற்றுமொரு-புதிய-ஆபத்து/175-348777) · `ta`
+
+அடுத்த 24 மணி நேரத்தில் தென்கிழக்கு வங்கக்கடலில் குறைந்த காற்றழுத்த தாழ்வு பிரதேசம் உருவாக வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்கம் கூறியுள்ளது.
+
+அது ஒரு நன்கு அமைந்த குறைந்த அழுத்தப் பிரதேசமாக விருத்தியடைந்து மேற்கு - வடமேற்குத் திசையில் நகரக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+அடுத்த இரண்டு நாட்களில் இலங்கையின் வடக்குப் பகுதியை அண்டியதாக தமிழ்நாடு கரையை நோக்கி அது நகரக் கூடும் என எதிர்பார்க்கப்படுவதாக அறிவித்துள்ளது.
+
+பொதுமக்கள், குறிப்பாக வடக்கு மற்றும் கிழக்கு மாகாணங்களில் வசிப்பவர்கள் இவ்விடயம் தொடர்பாக வளிமண்டலவியல் திணைக்களத்தால் வழங்கப்படும் எதிர்கால ஆலோசனைகள் தொடர்பாக அவதானமாக இருக்குமாறு வேண்டிக் கொள்ளப்படுகிறீர்கள்.
+
+வடக்கு, கிழக்கு, வடமத்திய, ஊவா மற்றும் வடமேல் மாகாணங்களிலும் மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/914f61a5.json)
+
+---
+
+### குறைந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாக வாய்ப்பு
+
+*2024-12-16 07:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-தாழ்வு-மண்டலம்-உருவாக-வாய்ப்பு/175-348776) · `ta`
+
+எதிர்வரும் 24 மணி நேரத்தில் தென்கிழக்கு வங்கக்கடலில் குறைந்த காற்றழுத்த தாழ்வு மண்டலம் உருவாக வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேலும் அந்த அமைப்பு மெதுவாக உருவாகி, மேற்கு வடமேற்கு நோக்கி நகர்ந்து, அடுத்த 2 நாட்களுக்கு வடக்கே தமிழக கடற்கரையை நோக்கி நகர வாய்ப்புள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+அதேவேளை, வடக்கு, கிழக்கு, வடமத்திய மற்றும் ஊவா மாகாணங்களிலும் மாத்தளை மாவட்டத்திலும் சில இடங்களில் 100 மில்லிமீற்றர் வரை பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/de633401.json)
+
+---
+
+### ஜெய்சங்கர் - அநுர சந்திப்பு
+
+*2024-12-16 07:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெய்சங்கர்-அநுர-சந்திப்பு/175-348775) · `ta`
+
+இந்தியாவுக்கு உத்தியோகப்பூர்வ விஜயம் மேற்கொண்டுள்ள இலங்கை ஜனாதிபதி அனுரகுமார திசாநாயக்கவை மத்திய வெளியுறவுத்துறை அமைச்சர் எஸ்.ஜெய்சங்கர் சந்தித்தார்.
+
+இந்தியாவுக்கான அவரது முதலாவது உத்தியோகபூர்வ விஜயத்தின் ஆரம்பத்தில் சந்தித்தமையையிட்டு பெருமகிழ்வடைகின்றேன். இந்தியாவின் அயலுறவுக்கு முதலிடம் கொள்கை மற்றும் SAGAR கோட்பாடு ஆகிய இரண்டிலும் இலங்கை மிகமுக்கியமான இடத்தினைக் கொண்டுள்ளது என்றார்.
+
+தனது சுற்றுப்பயணத்தில் இந்திய ஜனாதிபதி திரவுபதி முர்மு மற்றும் பிரதமர் மோடி ஆகியோரை சந்திக்கிறார் அநுர. அப்போது இருநாடுகள் இடையே நிலவும் மீனவர்கள் பிரச்சனை உள்ளிட்ட பல்வேறு பிரச்சனைகள் குறித்தும், எதிர்கால திட்டங்கள் பற்றியும் ஆலோசிக்கப்படலாம் என கூறப்படுகிறது. R
+
+◼️
+
+[Data](articles/b47c1866.json)
+
+---
 
 ### Building ‘generational companies’ through Japanese business practices
 
@@ -353,6 +407,8 @@ Dr. Perera has garnered international experience during his tenure in Australia.
 ...
 
 [Data](articles/8b80e761.json)
+
+[Extended Data](ext_articles/8b80e761.ext.json)
 
 ---
 
@@ -1070,6 +1126,26 @@ Kandy Boltz lost by 9 wickets in 10 overs and lost 116 runs.
 
 ---
 
+### Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
+
+*2024-12-15 20:18:00* · [`economynextcom`](https://economynext.com/karl-marx-engels-would-have-approved-sri-lanka-rice-imports-for-working-class-analysis-194348/) · `en`
+
+ECONOMYNEXT – Sri Lanka has relaxed import licensing on rice, a staple food, till December 20, in bid to reduce rising local prices, but still kept a 220 dollar at tonne import tax in place, which is almost 50 percent duty on basic South Asian rice grades.
+
+Under the Rajapaksa regime and even earlier, Sri Lanka has imposed severe controls on the import of basic cereals, giving profits to politically powerful lobbies keeping both prices and malnutrition high.
+
+Sri Lanka to allow rice imports without licenses till December 20: Statement
+
+Going beyond taxes, import licensing was imposed, especially on maize to give profits to a collector lobby, making proteins like chicken and eggs also among the most expensive in the world. Taxes on protein rich grains like green gram was also hiked.
+
+Sri Lanka opposition laments child malnutrition as farmers protected at Rs300 cereal tax
+
+...
+
+[Data](articles/6fbffb3a.json)
+
+---
+
 ### Sri Lanka’s Economic Turmoil In The 70s: Reflections & Realities Through Aththa
 
 *2024-12-15 20:16:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-economic-turmoil-in-the-70s-reflections-realities-through-aththa/) · `en`
@@ -1415,6 +1491,22 @@ Due to the accident this morning, the Rajarata Regina train, which was to be ope
 [Data](articles/de269458.json)
 
 [Extended Data](ext_articles/de269458.ext.json)
+
+---
+
+### ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම අද රැස්වෙයි
+
+*2024-12-15 18:24:53* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂ-මන්ත්‍රී-කණ්ඩායම-අද-රැස්වෙයි/11-413655) · `si`
+
+නව කතානායකවරයෙක් පත් කරගැනීම පිළිබඳව සහ ඉදිරි පාර්ලිමේන්තු කටයුතු පිළිබඳව සාකච්ඡා කිරීම වෙනුවෙන් අද (16දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.
+
+නව කතානායකවරයා ලෙස නිහාල් ගලප්පත්‍ති, ලක්ෂ්මන් නිපුණාරච්චි යන මහත්වරුන්ගේ නම් යෝජනා වී ඇති බව ද වාර්තා විය. ඒ පිළිබඳව අවසන් තීරණයක් ගැනීම වෙනුවෙන් ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.
+
+මේ අතර තවදුරටත් වාර්තා වූයේ හිටපු කතානායක අශෝක රන්වල මහතාගේ අධ්‍යාපන සහතික ද නුදුරේදී ම ඉදිරිපත් කිරීමට නියමිත බවයි.
+
+◼️
+
+[Data](articles/0d49e5f8.json)
 
 ---
 
@@ -1892,6 +1984,22 @@ The Head of State, accompanied by a top-level delegation left the island this af
 
 ---
 
+### ඊ ග්‍රාම නිලධාරී ව්‍යාපෘතියට වැය කළ ලක්ෂ 153ක් නිෂ්ඵල වෙයිද?
+
+*2024-12-15 16:47:55* · [`adalk`](https://www.ada.lk/breaking_news/ඊ ග්‍රාම-නිලධාරී-ව්‍යාපෘතියට-වැය-කළ-ලක්ෂ-153ක්-නිෂ්ඵල-වෙයිද-/11-413644) · `si`
+
+ඊ-ග්‍රාම නිලධාරී ව්‍යාපෘතියේ මෘදුකාංග සංවර්ධන හා විවිධ කටයුතු සඳහා රුපියල් එක්කෝටි පනස් තුන් ලක්ෂයකට අධික මුදලක් වැය කර ඇතත්, ඊට අදාළව ග්‍රාම නිලධාරීන් පුහුණු කිරීමේ කටයුතු කර නැතැයි තොරතුරු අනාවරණය වේ. මේ හේතුව මත වහාම ස්වාධීන කමිටුවක් පත්කර පරීක්ෂණයක් සිදුකර ඊට වගකිවයුතු නිලධාරීන්ගෙන් අලාභය අය කිරීමට අධිකරණ රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා පළාත් පාලන සහ කම්කරු අමාත්‍යාංශය තීරණය කර ඇත.
+
+ව්‍යාපෘතිය සම්බන්ධයෙන් කරන ලද විගණන විමසුමේදී අනාවරණය වී ඇත්තේ 2021 වර්ෂය සඳහා වූ ප්‍රසම්පාදන සැලහේමෙහි ව්‍යාපෘතියේ මෘදුකාංග සංවර්ධනය වෙනුවෙන් සන්නිවේදන සහ ප්‍රචාරණය සඳහා වූ අවශ්‍ය අයිතම නිර්මාණය කිරීම ඇතුළත් කර නොතිබූ බවය.
+
+එමෙන්ම, සන්නිවේදන සහ ප්‍රචාරණය හා ඊට අදාළ දෑ සපයා ගැනීම සම්බන්ධයෙන් ප්‍රසම්පාදන මණ්ඩලයේ දැනුවත් වීමකින් තොරව ඍජුවම “සැලසිනේ” ආයතනයෙන් මිල ගණන් ලබාගෙන ඇති අතර එම ආයතනය සමඟ විධිමත් ගිවිසුමක් අත්සන් නොකර රුපියල් එක්කෝටි තිස්නව ලක්ෂයකට අධික අතිකාරමක් එම ආයතනයට අමාත්‍යාංශයෙන් ගෙවා තිබෙන බවද අභ්‍යන්තර විගණන පරීක්ෂණවලදී තහවුරු වී තිබේ.
+
+...
+
+[Data](articles/4f6e9e0b.json)
+
+---
+
 ### Three arrested with Kokain and Kush drugs in Wellawatte
 
 *2024-12-15 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201322) · `ta`
@@ -2210,162 +2318,18 @@ There are also conditions for the formation of a windmill in the Wangala Bay on 
 
 ---
 
-### Nuwara Eliya Fills with Tourism
+### නුවරඑළිය සංචාරකයන්ගෙන් පිරෙයි
 
-*2024-12-15 15:19:22* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑළිය-සංචාරකයන්ගෙන්-පිරෙයි/10-413641) · `si`
+*2024-12-15 15:19:22* · [`adalk`](https://www.ada.lk/uncategorized/නුවරඑළිය-සංචාරකයන්ගෙන්-පිරෙයි/1-413641) · `si`
 
-Nuwara Eliya sees surge in local tourism over weekend due to favorable weather conditions. Hotel bookings increase as visitors flock to the hill station.
+සති අන්ත නිවාඩුවත් සමග නුවරඑලිය ප්‍රදේශයට දේශිය සංචාරකයන් විශාල පිරිසක් පැමිණි බව නුවරඑලිය සංචාරක හෝටල් හිමියන් පවසයි.
 
-🟩
+නුවරඑලිය ප්‍රදේශයට මේ දිනවල පවතින යහපත් කාලගුණයත් සමග දේශිය සංචාරකයන් විශාල පිරිසක් මෙසේ පැමිණ ඇති බවත්, නත්තල් උත්සවයේ නිවාඩුවට නුවරඑලිය ප්‍රදේශයේ සියළුම සංචාරක හෝටල් කාමර මේ වන විට දෙස් විදෙස් සංචාරකයන් විසින් වෙන් කරවාගෙන ඇති බවයි සංචාරක හෝටල් හිමියන් කියා සිටියේ.
 
-The Nuwara Eliya tourist hotel owners say a large number of local tourists visited the Nuwara Eliya area with the weekend.
-
-The hotel hotel rooms have been reserved in the Nuwara Eliya area in the Nuwara Eliya area on the Welimastle, regarding the current weather these days.
-
-The local tourist arrivals arrived at the Nuwara Eliya on the weekend
+සති අන්ත නිවාඩුවට නුවරඑලියට පැමිණි දේශිය සංචාරකයන් ග්‍රේගරි වැවි අශ්‍රිතව විනෝද වන අයුරු දක්නට ලැබුණි.
 
 ◼️
 
-[Data](articles/ea479c53.json)
-
-[Extended Data](ext_articles/ea479c53.ext.json)
-
----
-
-### President launches Indian
-
-*2024-12-15 15:09:23* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ඉන්දීය-සංචාරය-අරඹයි/11-413640) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka President Anura Kumara Dissanayake begins foreign trip from Katunayake airport. Joined by Prof. Anil Jayantha and Minister Vijitha Herath. Traveling on SriLankan Airlines flight UL195. Returning to Katunayake airport on 12/17.
-
-🟩
-
-President Anura Kumara Dissanayake commenced his first foreign trip to the Katunayake airport this afternoon.
-
-Professor Anil Jayantha, Minister Vijitha Herath and another were joined by the delegation with him.
-
-They fell to SriLankan Airlines UL, SriLankan Airlines, 195, on the 195th-195's flight.
-
-The group will return to Katunayake airport on 12/17 on 12/17.
-
-◼️
-
-[Data](articles/90ad14e0.json)
-
-[Extended Data](ext_articles/90ad14e0.ext.json)
-
----
-
-### Special announcement on pay tax
-
-*2024-12-15 15:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204396) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Pay tax notice: Income tax returns from Nov 2024 must be settled by Dec 26. Failure to pay may lead to legal action under Inland Revenue Ordinances."
-
-🟩
-
-The Department of Inland Revenue has issued a special announcement regarding the value of appreciation for November 2024.
-
-It is stated that if the income tax returns of the Valuation Year has not been able to pay further, it will be taken to pay before December 26.
-
-The Department says that if taxes will be paid on December 26, the Department says that if taxes are failing to pay taxes on the reserves, taxes or agreed taxes due to the additional taxes or agreed taxes due to any tax.
-
-The Department has initiated legal action on field surveys and the Inland Revenue Ordinances to recover unpaid self-assessment tax and arrears.
-
-◼️
-
-[Data](articles/ec6aa858.json)
-
-[Extended Data](ext_articles/ec6aa858.ext.json)
-
----
-
-### Legal action against over 300 traders for rice control price violations
-
-*2024-12-15 15:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104256/legal-action-against-over-300-traders-for-rice-control-price-violations) · `en`
-
-The Consumer Affairs Authority (CAA) states that more than 300 traders who violated the rice control price regulations have been identified during the recent raids.
-
-CAA Director of Information Asela Bandara revealed that these traders were brought before the law during operations conducted since December 10.
-
-Accordingly, he further stated that legal proceedings against them will commence from tomorrow (15).
-
-◼️
-
-[Data](articles/d2b89c70.json)
-
-[Extended Data](ext_articles/d2b89c70.ext.json)
-
----
-
-### America and Adani
-
-*2024-12-15 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201344) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US aid to Sri Lanka continues despite controversy. Assistant Secretary Donald Lu visits Colombo focusing on ending corruption scandals.
-
-🟩
-
-Although the United States has been offering a large number of flags and financial assistance to Sri Lanka over the past few years, it has been seen as a new issue. Donald Lu, a assistant secretary of the US State Department of the US State Department, who traveled to Colombo, was mainly in talks on the end of corruption scandals.
-
-◼️
-
-[Data](articles/8bd3ad9f.json)
-
-[Extended Data](ext_articles/8bd3ad9f.ext.json)
-
----
-
-### More Honors to Australia in the second day of Head's and Smith's centuries
-
-*2024-12-15 14:48:20* · [`adalk`](https://www.ada.lk/sports/හෙඩ්ගේ-සහ-ස්මිත්ගේ-ශතක-හමුවේ-දෙවැනි-දිනයේ-වැඩි-ගෞරව-ඕස්ට්‍රේලියාවට/9-413639) · `si`
-
-Australia wins 2nd day of Test match vs Sri Lanka. Travis Head scores 152, Steve Smith 101. Jumps Bumrah takes 5/72. Australia all out for 401.
-
-🟩
-
-The second day of the third Test match between the Sri Lankan tourism and the Australian group ended today (15).
-
-Ti Australia was assaulted at the end of 101 overs, at the end of 10 wickets.
-
-Travis Hede scored 152 runs and Stephen Smith scored 101 runs.
-
-In bowling, Jumpit Bumtore took 5 wickets for 72 runs.
-
-◼️
-
-[Data](articles/7a431a09.json)
-
-[Extended Data](ext_articles/7a431a09.ext.json)
-
----
-
-### The Central Bank's obligation to be held accountable to the people is further strengthened - the Director of the Department of Economic Research of the Central Bank of Sri Lanka
-
-*2024-12-15 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201343) · `ta`
-
-Central Bank accountability strengthened. Director emphasizes independence from taxation and damage policies, which are government responsibilities.
-
-🟩
-
-Taxation and damage policy are not directly associated with the central bank and are the policies of the government. Therefore, it is dependent on the government to make a decision whether or not the Central Bank adopts or not.
-
-◼️
-
-[Data](articles/e35e125f.json)
-
-[Extended Data](ext_articles/e35e125f.ext.json)
+[Data](articles/3e3bb642.json)
 
 ---

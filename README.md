@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 02:02:01**
+As of **2024-12-16 23:43:29**
 
 ## Newspaper Stats
 
-*Scraped **60,543** Articles*
+*Scraped **60,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,655
 economynextcom | 3,685
-dailyftlk | 4,181
+dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,759
 adaderanalk | 7,379
@@ -26,133 +26,27 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,485 (99.9%) of 60,543 articles have been extended.
+60,476 (99.9%) of 60,537 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-12-17 (Tuesday)
-
-### Engaging civil society to further support education system in Sri Lanka
-
-*2024-12-17 01:20:04* · [`dailyftlk`](https://www.ft.lk/columns/Engaging-civil-society-to-further-support-education-system-in-Sri-Lanka/4-770600) · `en`
-
-When reviewing civil society’s involvement in supporting the education system in Sri Lanka, we find that existing opportunities are minimum. It is not that civil society in Sri Lanka has not contributed – however given the vast potential for collaboration and partnership, impact has been limited, largely due to the ad hoc nature of interventions.
-
-The role of civil society and contribution towards development cannot be undermined. Recently UN Secretary-General António Guterres’s remarks to the United Nations Civil Society Conference in support of the Summit of the Future on 14 May 2024, further reiterated the importance of this role: “Time and again, I have witnessed the enormous impact of civil society in every corner of the world. I see you easing suffering, pushing for peace and justice, mobilising for change.”
-
-...
-
-[Data](articles/a3edf087.json)
-
----
-
-### Misalignment: Unnoticed culprit in organisational ineffectiveness
-
-*2024-12-17 01:11:25* · [`dailyftlk`](https://www.ft.lk/columns/Misalignment-Unnoticed-culprit-in-organisational-ineffectiveness/4-770599) · `en`
-
-Organisational misalignment is the silent killer of a business’s effectiveness and prosperity
-
-Achieving the level of organisational alignment needed to provide a competitive advantage is not an easy task in today’s fast-paced business environment. Businesses today are more complex than ever before. Market conditions and working environments are evolving at an accelerated pace, making it imperative for businesses to react and make decisions quickly. To respond successfully to change, organisations need a clear understanding of their processes, tools, and data and how they all fit together. If this does not happen effectively, an inevitable corollary is the formation of organisational silos
-
-...
-
-[Data](articles/4dcef59c.json)
-
----
-
-### Has NPP Government ever thought about cleaning this “vulgarised society”?
-
-*2024-12-17 01:00:49* · [`dailyftlk`](https://www.ft.lk/columns/Has-NPP-Government-ever-thought-about-cleaning-this-vulgarised-society/4-770598) · `en`
-
-This country now needs a system of responsible governance that can clean up the State, and resurrect a decent and civilised society
-
-Here in Sri Lanka, we need a government with a plan to arrest this massive breakdown of the social fabric. Breakdown in social responsibility, ethics, social values, discipline, respect and dignity of private and community life. It needs an integrated program to simultaneously clean up the whole State machinery as well. Make it clean and efficient in handling issues with social responsibility. Can the NPP Government therefore present its social development program in detail, including reforms they propose to clean up the State machinery? In short, what is their program to reduce growing numbers in crime?
-
-...
-
-[Data](articles/e0f0ee50.json)
-
-[Extended Data](ext_articles/e0f0ee50.ext.json)
-
----
-
-### Reforming Sri Lanka’s public sector: Pathway to sustainable development
-
-*2024-12-17 00:54:44* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-Sri-Lanka-s-public-sector-Pathway-to-sustainable-development/4-770597) · `en`
-
-As Sri Lanka charts its path toward recovery and development, the public sector must evolve into a catalyst for progress rather than a constraint
-
-Sri Lanka’s public sector has become a focal point of intense debate, reflecting its critical role in governance, service delivery, and employment. However, its inefficiencies, fiscal burdens, and disparities in resource allocation have come under sharp scrutiny amid escalating economic pressures. The expanding public workforce, while offering job security and supporting livelihoods, poses pressing challenges that demand urgent attention. Modernising and innovating this pivotal sector, along with ensuring fair and effective resource distribution, is essential to overcoming these hurdles and steering Sri Lanka toward sustainable development.
-
-...
-
-[Data](articles/f4e5de8d.json)
-
-[Extended Data](ext_articles/f4e5de8d.ext.json)
-
----
-
-### Hidden cost of traffic lights: Colombo’s silent economic burden
-
-*2024-12-17 00:46:02* · [`dailyftlk`](https://www.ft.lk/columns/Hidden-cost-of-traffic-lights-Colombo-s-silent-economic-burden/4-770596) · `en`
-
-Approximately one million commuters lose an hour in traffic on a daily basis
-
-Adding insult to injury, during peak hours, these high-tech traffic lights are often switched off, with traffic police manually directing vehicles. This is not only a waste of investment but also doubles operational costs, as manpower replaces technology. Such inefficiencies reflect a broader systemic failure: investments made without proper monitoring or outcome evaluation
-
-...
-
-[Data](articles/cc5d7648.json)
-
-[Extended Data](ext_articles/cc5d7648.ext.json)
-
----
-
-### India and Sri Lanka issue joint statement fostering partnerships for shared future
-
-*2024-12-17 00:00:38* · [`dailyftlk`](https://www.ft.lk/news/India-and-Sri-Lanka-issue-joint-statement-fostering-partnerships-for-shared-future/56-770585) · `en`
-
-Indian Prime Minister Narendra Modi and Sri Lanka President Anura Kumara Dissanayake chair bilateral talks in New Delhi
-
-Prime Minister of India Narendra Modi and President of Sri Lanka Anura Kumara Dissanayake yesterday had comprehensive and fruitful discussions at their meeting in New Delhi during the latter’s State visit to the Republic of India.
-
-The two leaders reaffirmed that the India-Sri Lanka bilateral partnership is underpinned by deep-rooted cultural and civilisational ties, geographical proximity and the people-to-people relations.
-
-...
-
-[Data](articles/2bb42785.json)
-
-[Extended Data](ext_articles/2bb42785.ext.json)
-
----
-
 ### 2024-12-16 (Monday)
 
-### Hambantota Bangla Tigers and Goal Marwals qualify for the final round of the Lanka R10 Super League
+### லங்கா ரி10 சுப்பர் லீக் இறுதிச் சுற்றுக்கு ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ், கோல் மார்வல்ஸ் அணிகளும் தகுதி
 
 *2024-12-16 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201463) · `ta`
 
-Hambantota Bangla Tigers & Goal Marwals qualify for Lanka R10 Super League final. Jevna Titans leads with 4 wins, followed by 2-win teams. Weather may affect final matches.
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்றுவரும் அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட்டின் இறுதிச் சுற்றில் விளையாட மேலும் இரண்டு அணிகள் தகுதி பெற்றுள்ளன.
 
-🟩
+இச் சுற்றுப் போட்டியில் முதலாவது அணியாக ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட தகுதிபெற்ற நிலையில், இன்று நடைபெறவிருந்த 3 போட்டிகளும் மழையினால் கைவிடப்பட்டதால் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ், கோல் மார்வல்ஸ் ஆகிய அணிகளும் இறுதிச் சுற்றுக்கு முன்னேறியுள்ளன.
 
-Two more teams have qualified to play in the final round of the inaugural Lanka R10 Super League cricket, which is being held at the Pallekele International Cricket Stadium in Kandy.
+ஜெவ்னா டைட்டன்ஸ் 4 வெற்றிகள், 2 முடிவில்லாத பெறுபேறுகள் ஆகியவற்றடன் 10 புள்ளிகளைப் பெற்று அணிகள் நிலையில் அசைக்க முடியாத முதலிடத்தில் இருக்கிறது.
 
-While Jevna Titans qualified to play in the final round of the tournament, the three matches to be held today and the Hambantota Bangla Tigers and Cole Marwals have advanced to the final round.
+ஹாம்பந்தொட்ட பங்ளா டைகர்ஸ் அணியும் கோல் மார்வல்ஸ் அணியும் தலா 2 வெற்றிகள், ஒரு தொல்வி, 3 முடிவில்லா பெறுபேறுகள் ஆகியவற்றுடன் தலா 7 புள்ளிகளைப்  பெற்று  நிகர ஓட்ட வேக அடிப்படையில் முறையே 2ஆம், 3ஆம் இடங்களில் இருக்கின்றன.
 
-Jevna Titans tops the list with 4 wins and 2 endless results.
-
-Hampantota Bangla Tigers and Goal Marwals are 2 wins each, with a strike and 3 endless results, with 7 points each.
-
-The three teams, Kalambo Jaguars, Kandy Boltz and Nuwara Eliya Kings, who have scored 4 points each with 2 defeats and 4 endless results, are in the 4th, 5th and 6th respectively.
-
-The last match of these three teams will be determined by which team will go to the final round. Perhaps the 3 matches involving these 3 teams are not played due to inclement weather.
-
-◼️
+...
 
 [Data](articles/a95707df.json)
-
-[Extended Data](ext_articles/a95707df.ext.json)
 
 ---
 
@@ -170,31 +64,19 @@ President Dissanayake, who is on a three-day official visit to India, his maiden
 
 [Data](articles/fcdeff08.json)
 
-[Extended Data](ext_articles/fcdeff08.ext.json)
-
 ---
 
-### President meets the President
+### ජනපති සහ ඉන්දීය ජනපතිනිය අතර හමුවක්
 
 *2024-12-16 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204443) · `si`
 
-Here's a summary in 200 characters:
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය හමුවී තිබේ.
 
-
-
-Sri Lankan President Anura Kumara Dissanayake met Indian President. He stated India continues to support Sri Lanka as a close and reliable partner.
-
-🟩
-
-President Anura Kumara Dissanayake met with Indian President Mrs. Murd. Mrs. Murmo.
-
-The President has said that India continues to support the Government of Sri Lanka as a close and reliable partner in Sri Lanka as a close and reliable partner.
+මෙම හමුවේදී ඉන්දීය ජනාධිපතිවරිය, පවසා ඇත්තේ, සමීප සහ විශ්වාසනීය හවුල්කරුවෙකු ලෙස ශ්‍රී ලංකාවේ තිරසාර ආර්ථික සංවර්ධනය සඳහා ශ්‍රී ලංකා රජය ගෙන යන ප්‍රයත්නයන් සඳහා ඉන්දියාව අඛණ්ඩව සහාය දක්වන බවය.
 
 ◼️
 
 [Data](articles/072d2f95.json)
-
-[Extended Data](ext_articles/072d2f95.ext.json)
 
 ---
 
@@ -273,8 +155,6 @@ Since the formation of the new government, a total of 63 Sri Lankans, who were h
 ...
 
 [Data](articles/357b79b1.json)
-
-[Extended Data](ext_articles/357b79b1.ext.json)
 
 ---
 
@@ -687,8 +567,6 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 ...
 
 [Data](articles/a760c533.json)
-
-[Extended Data](ext_articles/a760c533.ext.json)
 
 ---
 
@@ -2299,5 +2177,135 @@ The victim, a resident of Gelioya in Kandy, was pronounced dead at the scene. He
 [Data](articles/20419e2f.json)
 
 [Extended Data](ext_articles/20419e2f.ext.json)
+
+---
+
+### Lanka T10 match-fixing scandal: Indian team owner to make confidential statement to court
+
+*2024-12-16 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104275/lanka-t10-match-fixing-scandal-indian-team-owner-to-make-confidential-statement-to-court-) · `en`
+
+The Indian owner of the ‘Galle Marvels’ team in the Lanka T10 Super League, who was arrested on Thursday (12) over match-fixing allegations, has been ordered to be further remanded until December 18 after being produced before the Colombo Magistrate’s Court today (16).
+
+The case was taken up before Colombo Magistrate Thilina Gamage this morning.
+
+During the trial, the defendant Indian national has informed the court that he is prepared to provide a confidential statement to the magistrate regarding the accusations, under the Article 127 of the Code Of Criminal Procedure.
+
+Accordingly, the Magistrate ordered the suspect to be presented to the court on December 18 for providing the statement and to remand him in custody until then.
+
+The Indian national, Prem Thakur, who owns a franchise in the tournament, was taken into custody by Sri Lanka Police on Thursday in Kandy’s Pallekele stadium, where the league is taking place.
+
+...
+
+[Data](articles/6d9c7829.json)
+
+[Extended Data](ext_articles/6d9c7829.ext.json)
+
+---
+
+### Sri Lanka sells extra Rs4.2bn Treasury bonds after auction
+
+*2024-12-16 12:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs4-2bn-treasury-bonds-after-auction-194443/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 4.259 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold a 15 September 2029 maturity bond (LKB00629I154) at a weighted average yield rate of 10.75 percent.
+
+Date of settlement of the above issuance is 16 December 2024. (Colombo/Dec16/2024)
+
+◼️
+
+[Data](articles/04e76061.json)
+
+---
+
+### Justice Minister files complaint with CID over false information on Parliament website
+
+*2024-12-16 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104274/justice-minister-files-complaint-with-cid-over-false-information-on-parliament-website) · `en`
+
+Minister of Justice and National Integration, Attorney-at-Law Harshana Nanayakkara lodged a complaint with the Criminal Investigation Department (CID) today (16) regarding the publication of incorrect information on the official website of the Parliament of Sri Lanka.
+
+Speaking to the media, the Minister expressed concerns that someone may have deliberately entered false data to tarnish his reputation or erode public trust in his political career.
+
+This controversy began when the Parliament website mistakenly listed the Minister’s name as “Dr. Harshana Nanayakkara,” and later corrected it by removing the ‘Dr.’ title following a complaint made by the Minister.
+
+The Minister of Justice also stated that the Parliamentary Secretariat had subsequently sent him a letter stating that there had been an error in uploading the names.
+
+...
+
+[Data](articles/54bb64cb.json)
+
+[Extended Data](ext_articles/54bb64cb.ext.json)
+
+---
+
+### There are 21 livestock and 70 lives of wild elephants in Polonnaruwa alone
+
+*2024-12-16 11:57:31* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-පමණක්-මිනිස්-ජීවිත-21-ක්-සහ-වන-අලින්ගේ-ජීවිත-70-ක්-අහිමි-වෙයි/11-413663) · `si`
+
+Polonnaruwa: 21 humans, 70 elephants killed in conflicts. Human activities like habitat destruction and poaching cause elephant deaths. 104 humans, 600 elephants lost since 2017.
+
+🟩
+
+In the wild Polonnaruwa, the Polonnaruwa Wildlife Zone has lost 21 human lives and 70 lives in the Polonnaruwa and 70 lives in human conflicts and 70 lives in the Polonnaruwa.
+
+Elephant victims, collision, hit by train, hunted
+
+According to a Wildlife Officer of the Polonnaruwa Zonal Office, we said that the lives of the elephants have been lost due to human activity.
+
+He said that the abuse of the wild elephants are cleansed by the habitat and large scale plantation in the unauthorized reserves, including a few things to the victim of the elephant attack, have caused human lives in the elephant.
+
+The Department of Wildlife Zonal Register has revealed that 104 people of the Polonnaruwa had died in 2023 from 2023.
+
+The country has lost 600 elephants due to human activity in the wild Polonnaruwa since 2017, and 189 human lives have been lost in the same period
+
+◼️
+
+[Data](articles/56309ae2.json)
+
+[Extended Data](ext_articles/56309ae2.ext.json)
+
+---
+
+### Mrs. B becomes PM and I the Secretary to the world’s first woman prime minster
+
+*2024-12-16 11:41:00* · [`islandlk`](http://island.lk/mrs-b-becomes-pm-and-i-the-secretary-to-the-worlds-first-woman-prime-minster/) · `en`
+
+Anura bothered about his mother seeing his school report before he did
+
+(Excerpted from Rendering Unto Caesar, by Bradman Weerakoon, Secretary to the Prime Minister)
+
+In 1960, as she rode to power, after a grueling campaign, as the world’s first-ever woman prime minister, Sirima Bandaranaike was making the global headlines and taking Ceylon too into the limelight, which was to last for decades. The world wondered as to how this phenomenon, of a woman being chosen to be prime minister, had occurred in Ceylon. Was it some peculiar provision of dynastic succession by which the wife succeeded to a vacancy caused by the death of a husband Could such a thing occur only in an Asian country? Was it, as uncharitable political opponents would say, a consequence of the enormous wave of sympathy that followed close on the tragic death of a popular leader? Was the phenomenon connected mystically with the primacy of motherhood’ (matar) so central a part of the culture of the Indian subcontinent?
+
+...
+
+[Data](articles/4bf6a347.json)
+
+[Extended Data](ext_articles/4bf6a347.ext.json)
+
+---
+
+### The fate of the daughter who went to the motorcycle with father
+
+*2024-12-16 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204424) · `si`
+
+Motorcycle collision kills 17-year-old girl in Kandy. Father injured, driver flees scene. Traffic congestion reported.
+
+🟩
+
+A motorbike collided with a motorcycle in front of the fish market, Kandy, William Gopallawa road in Kandy this morning.
+
+The father and daughter of the motorcycle were collided with the vehicle and the daughter was in the head of the head of another vehicle.
+
+The 17-year-old daughter has died in that location and is a resident of Gelioya, Kandy.
+
+The Ada Derana reporter said that the father had no injury in the accident.
+
+"There was the traffic. One pattle was put into the vehicle, I was brayke. I can't imagine. Both fell to the side. Have gone over a car. It's over when I see. "
+
+◼️
+
+[Data](articles/98553624.json)
+
+[Extended Data](ext_articles/98553624.ext.json)
 
 ---

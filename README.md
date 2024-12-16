@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 14:29:39**
+As of **2024-12-16 14:43:15**
 
 ## Newspaper Stats
 
-*Scraped **60,454** Articles*
+*Scraped **60,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,746
+adalk | 5,747
 adaderanalk | 7,365
 tamilmirrorlk | 8,638
 virakesarilk | 9,953
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,411 (99.9%) of 60,454 articles have been extended.
+60,411 (99.9%) of 60,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -371,6 +371,26 @@ The Minister of Justice also stated that the Parliamentary Secretariat had subse
 ...
 
 [Data](articles/54bb64cb.json)
+
+---
+
+### පොලොන්නරුවෙන් පමණක් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වෙයි
+
+*2024-12-16 11:57:31* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-පමණක්-මිනිස්-ජීවිත-21-ක්-සහ-වන-අලින්ගේ-ජීවිත-70-ක්-අහිමි-වෙයි/11-413663) · `si`
+
+මේ වසරේ ගත වූ කාලය තුළ පොළොන්නරුව වනජීවී කලාපයේ පමණක් අලි මිනිස් ගැටුම් වලින් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වී ඇති බව පොළොන්නරුව වනජීවී කලාප කාර්යාලයේ තොරතුරු සනාථ කරයි.
+
+විදුලි සැර වැදීම්,හක්ක පටස් වලට අලි ගොදුරු වීම, දුම්රියේ ගැටීම, දඩයම් කරුවන්ගේ  වෙඩි තැබීම්, ඇතුළු
+
+මිනිස් ක්‍රියාකාරකම් හේතුවෙන් මෙලෙස වන අලින්ගේ ජීවිත  අහිමි වී ඇති බව පොළොන්නරුව කලාප කාර්යාලයේ වනජීවී නිලධාරියකු අප කළ විමසීමකදී සඳහන් කළේය.
+
+වන අලින්ගේ වාසස්ථාන ශුද්ධ පවිත්‍ර කර මහා පරිමාණයෙන් වගාවන් සිදු කිරීම, අනවසරයෙන් රක්ෂිත තුළට ඇතුළුවීමෙන් අලි ප්‍රහාරයට ගොදුරු වීම, වන අලි ගම් වැදීමෙන් ගොවියන් වන අලින්ට ගොදුරුවීම ඇතුළු කරුණු කිහිපයක්  වන අලින්ගෙන් මිනිස් ජීවිත විනාශයට හේතු වී ඇති බවද හෙතෙම කීය.
+
+වන අලි ප්‍රහාරවලින් 2023 වසරේ මිනිස් ජීවිත 39 ක් අකාලයේ රටට අහිමි වී ඇති අතර, එම වසරේ වන අලි 104 දෙනෙකු මියගොස් ඇති බවද පොළොන්නරුව වනජීවී කලාප කාර්යාලීය සංඛ්‍යා ලේඛනය තොරතුරු අනාවරණය කරයි.
+
+...
+
+[Data](articles/56309ae2.json)
 
 ---
 
@@ -2221,35 +2241,5 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 [Data](articles/9d0a9e7a.json)
 
 [Extended Data](ext_articles/9d0a9e7a.ext.json)
-
----
-
-### New Speaker of the Tenth Parliament
-
-*2024-12-15 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201359) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New Speaker election in 10th Parliament on Tuesday. Three nominees: Nihal Kalaththi, Lakshman Y4:0, Mohamed Rizvi Sali. Ashoka Sabumal Ranwala resigned due to qualification controversy. Government prioritizes experienced candidate. JVP monitoring MP behavior after election.
-
-🟩
-
-The new Speaker of the Tenth Parliament will be held on Tuesday (17). The name of the trio has been nominated on behalf of the ruling party, the ruling party, the main opposition party, the main opposition party, which is proposing the post of Speaker.
-
-Ashoka Sabumal Ranwala, who was elected as Speaker in the Tenth Parliament following the fierce controversy over the education qualifications, resigned from his post last Friday (13).
-
-President of the President, Dr. Nandika Gunanayake, has officially announced to the Attorney General Kushani Rohanadeera on Saturday that the President has accepted the resignation of the Speaker.
-
-The government has paid special attention to the election of the new Speaker of the best and senior.
-
-The names of the senior members of the ruling party, Nihal Kalathathi and Lakshman expert, and the names of Deputy Speaker Mohamed Rizvi Sali have been nominated for the post of Speaker. However, the final decision has not been made.
-
-...
-
-[Data](articles/aea09573.json)
-
-[Extended Data](ext_articles/aea09573.ext.json)
 
 ---

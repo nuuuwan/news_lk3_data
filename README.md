@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 17:00:47**
+As of **2024-12-16 17:12:05**
 
 ## Newspaper Stats
 
-*Scraped **60,471** Articles*
+*Scraped **60,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,82 @@ economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,751
-adaderanalk | 7,365
+adaderanalk | 7,370
 tamilmirrorlk | 8,644
 virakesarilk | 9,955
-adaderanasinhalalk | 10,454
+adaderanasinhalalk | 10,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,434 (99.9%) of 60,471 articles have been extended.
+60,435 (99.9%) of 60,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### ”எதிர்காலத்தில் மைத்திரி உரிமை கோர மாட்டார்”
+### සහල් වැඩිමිලට විකුණූ වෙළෙඳසැල් 6කට සිදුවූ දේ
+
+*2024-12-16 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204435) · `si`
+
+උත්සව සමයේ මේ දක්වා කාලය තුළ සහල් පාලන මිලට අලෙවි නොකිරීම සම්බන්ධ වැටලීම් 342ක් සිදුකර ඇති බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+
+එම අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා සඳහන් කළේ පසුගිය 17 වැනිදා සිට අද (16) දක්වා කාලය තුළ එම  වැටලීම් සිදුකර ඇති බවයි.
+
+ඒ අනුව අදාළ වැටලීම්වලින් 6කට අදාළව අධිකරණ තීන්දු ලැබී ඇති අතර එමගින් රුපියල් ලක්ෂ 7ක මුදලක් දඩ ලෙස අය කරගන්නා ලෙසට තීන්දු ලැබී තිබේ.
+
+එමෙන්ම අනෙකුත් වැටලීම්වලටද මේ වනවිට නඩු පවරා අධිකරණමය තීන්දු ගනිමින් සිටින බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/22ab285d.json)
+
+---
+
+### දිවයිනේ ප්‍රධාන ජලාශවල ජල ධාරිතාව ඉහළ යයි
+
+*2024-12-16 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204434) · `si`
+
+පසුගිය 16 වන දින සිට උතුරු, උතුරු මැද, නැගෙනහිර පළාත්වලට පසුගිය දිනවල ඇද හැළුණු අධික වර්ෂාව හමුවේ දිවයිනේ ප්‍රධාන සහ මධ්‍යම ජලාශ බොහෝ ප්‍රමාණයක වාන් දොරටු විවෘත කිරීමට මේ වන විට පියවර ගෙන ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පවසන්නේ දිවයිනේ ප්‍රධාන ජලාශ 73න් 31ක් මේ වන විටත් වාන් දමමින් පවතින බවය.
+
+දිවයිනේ ප්‍රධාන ජලාශවල ජල ධාරිතාව අනුව අම්පාර දිස්ත්‍රික්කයේ 72%ක්, අනුරාධපුර, හම්බන්තොට සහ කුරුණෑගල දිස්ත්‍රික්කවල 90%ක්, ගාල්ල, මහනුවර, පුත්තලම දිස්ත්‍රික්කවල 98%ක්, මොණරාගල, පොළොන්නරුව සහ මන්නාරම දිස්ත්‍රික්කවල 80%ක්, බදුල්ල දිස්ත්‍රික්කය 68%ක්, මඩකළපුව දිස්ත්‍රික්කය 63%ක්, ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ 76%ක්ද වශයෙන් සටහන් වන බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වේ.
+
+ඒ අනුව දිවයිනේ ප්‍රධාන ජලාශවල සමස්ත ජල ධාරිතාව 80.2% දක්වා ඉහළ නැග තිබේ.
+
+...
+
+[Data](articles/1c8c9a08.json)
+
+---
+
+### “Maithri will not claim the right in the future”
 
 *2024-12-16 16:41:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்காலத்தில்-மைத்திரி-உரிமை-கோர-மாட்டார்/175-348805) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவிக்கு எதிர்காலத்தில் எந்த உரிமையும் கோரப் போவதில்லை என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனது சட்டத்தரணி ஊடாக இன்று மேன்முறையீட்டு நீதிமன்றத்தில் தெரிவித்துள்ளார்.
+Here's a summary in approximately 200 characters:
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவி தொடர்பில் கொழும்பு மாவட்ட நீதிமன்றம் பிறப்பித்த உத்தரவை அவமதித்ததாகக் கூறி தனது கட்சிக்காரருக்கு எதிராக தாக்கல் செய்யப்பட்டுள்ள நீதிமன்ற அவமதிப்பு மனுவுக்கு தீர்வு காணக்கூடிய சாத்தியம் காணப்படுவதாக முன்னாள் ஜனாதிபதி சார்பில் ஆஜரான ஜனாதிபதி சட்டத்தரணி மைத்திரி குணரத்ன நீதிமன்றத்திற்கு அறிவித்தார்.
 
-எதிர்காலத்தில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் பதவிக்கு தனது கட்சிக்காரர் உரிமை கோர மாட்டார் என அவர் நீதிமன்றத்திற்கு உறுதியளித்தார்.
 
-2024 ஆம் ஆண்டு ஏப்ரல் 24 ஆம் திகதி கொழும்பு மாவட்ட நீதிமன்றத்தினால் வழங்கப்பட்ட இடைக்காலத் தடை உத்தரவை மீறியதாகக் கூறி, நீதிமன்றத்தை அவமதித்த குற்றத்திற்காக மைத்திரிபால சிறிசேனவை தண்டிக்க உத்தரவிடுமாறு கோரி ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்பாட்டாளர் மொன்டேக் சரத்சந்திர இந்த மனுவை தாக்கல் செய்திருந்தார்.
+"Former Pres. Maithripala Sirisena won't contest SLFP leadership. His lawyer says no future claims. Contempt case settled after court injunction."
+
+🟩
+
+Former President Maithripala Sirisena told the appeals court today that he would not seek any rights in the future for the Sri Lanka Freedom Party (SLFP) leader.
+
+Former President's Attorney Maithri Gunaratne informed the court on behalf of the former president that it would be possible to address the contempt of court petition filed against his party claiming that he had insulted the Colombo district court order on the post of leader of the Sri Lanka Freedom Party (SLFP).
+
+He assured the court that his party would not claim the post of leader of the Sri Lanka Freedom Party in the future.
+
+Sri Lanka Freedom Party (SLFP) activist Montek Sarathchandra filed the petition demanding that Maithripala Sirisena be punished for contempt of court on April 24, 2024, claiming to have violated the interim injunction issued by the Colombo District Court.
 
 ...
 
 [Data](articles/8d07c303.json)
+
+[Extended Data](ext_articles/8d07c303.ext.json)
 
 ---
 
@@ -178,6 +224,22 @@ The Public Utilities Commission said that the final decision on the Electricity 
 
 ---
 
+### Death toll in Gaza Strip from Israel-Hamas war tops 45,000, Palestinians say
+
+*2024-12-16 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104282/death-toll-in-gaza-strip-from-israel-hamas-war-tops-45000-palestinians-say) · `en`
+
+The death toll in the Gaza Strip from the 14-month war between Israel and Hamas militants has topped 45,000 people, Palestinian health officials said Monday, with 52 dead arriving at hospitals across the bombed-out strip over the past 24 hours.
+
+The Gaza Health Ministry does not distinguish between civilians and combatants in its count, but it has said that more than half of the fatalities are women and children. The Israeli military says it has killed more than 17,000 militants, without providing evidence.
+
+The Health Ministry said 45,028 people have been killed and 106,962 have been wounded since the start of the war. It has said the real toll is higher because thousands of bodies are still buried under rubble or in areas that medics cannot access. The latest war has been by far the deadliest round of fighting between Israel and Hamas, with the death toll now amounting to roughly 2% of Gaza’s entire prewar population of about 2.3 million.
+
+...
+
+[Data](articles/d80d9453.json)
+
+---
+
 ### Explanation for the owner of the Galle Marvels team
 
 *2024-12-16 15:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மார்வெல்ஸ்-அணியின்-உரிமையாளருக்கு-விளக்கமறியல்/175-348798) · `ta`
@@ -214,6 +276,24 @@ The suspect was arrested on charges of advising one of his team players in the L
 
 ---
 
+### ASPI crosses 14,500 points to set new all-time high
+
+*2024-12-16 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104281/aspi-crosses-14500-points-to-set-new-all-time-high) · `en`
+
+The All-Share Price Index (ASPI) of the Colombo Stock Exchange has exceeded the 14,500-points mark for the first time in history.
+
+Accordingly, the index gained 295 points (2.08%) to close at 14,500.44 points today (16), marking a new all-time high.
+
+Meanwhile, the S&P SL20 increased by 105.37 points (2.48%) to reach 4,349.82 points at the close of trading today.
+
+Today’s total turnover was recorded as over Rs. 8.27 billion while the number of shares traded is over 211 million.
+
+◼️
+
+[Data](articles/fa53cbec.json)
+
+---
+
 ### ශිෂ්‍යත්ව විභාගයට අදාළ පෙත්සම් විභාගය හෙටට කල්යයි
 
 *2024-12-16 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204430) · `si`
@@ -247,6 +327,46 @@ The suspect was arrested on charges of advising one of his team players in the L
 ...
 
 [Data](articles/a3a7a727.json)
+
+---
+
+### Modi assures India’s continued economic support for Sri Lanka
+
+*2024-12-16 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104280/modi-assures-indias-continued-economic-support-for-sri-lanka) · `en`
+
+President Anura Kumara Dissanayake has extended an invitation to Indian Prime Minister Narendra Modi to visit Sri Lanka, during the joint media briefing held in New Delhi this afternoon (16).
+
+Meanwhile, he also stated that PM Modi had assured continued economic support for Sri Lanka.
+
+During the meeting, the Sri Lankan leader assured that the island nation would not allow the country to be used in “a manner that is detrimental to the interest of India”.
+
+“I have also given an assurance to the Prime Minister of India that we will not allow our land to be used in any way in a manner that is detrimental to the interest of India. The cooperation with India will certainly flourish and I want to reassure our continued support for India,” Dissanayake said after the interaction.
+
+PM Modi said: “We completely agree that our security interests are interlinked. We have decided to finalise the Defence Cooperation Agreement soon.”
+
+...
+
+[Data](articles/b4e808da.json)
+
+---
+
+### India will supply LNG to Sri Lanka’s power plants, announces PM Modi
+
+*2024-12-16 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104279/india-will-supply-lng-to-sri-lankas-power-plants-announces-pm-modi) · `en`
+
+India plans to supply liquefied natural gas to Sri Lanka’s power plants and will work on connecting the power grids of the two countries as well as lay a petroleum pipeline between the neighbours, Indian Prime Minister Narendra Modi announced on Monday.
+
+Modi was speaking at a joint press briefing with Sri Lankan President Anura Kumara Dissanayake in New Delhi.
+
+India will collaborate with Sri Lanka on a Unique Digital Identity program, said PM Modi.
+
+He highlighted India’s robust support to Sri Lanka’s development. “India has so far provided 5 billion dollars in line of credit and grant assistance to Sri Lanka. We have cooperation in all 25 districts of Sri Lanka, and the selection of our projects is always based on the development priorities of the partner countries,” he said.
+
+He also announced India’s decision to grant assistance for the rehabilitation of the Maho-Anuradhapura railway signalling system and Kankesanthurai Port.
+
+...
+
+[Data](articles/ef3bc920.json)
 
 ---
 
@@ -321,6 +441,20 @@ LANKA T10 ලීග් ක්‍රිකට් තරගාවලියේ ප�
 ◼️
 
 [Data](articles/719c4c3f.json)
+
+---
+
+### Sri Lanka and India sign MoU to avoid double taxation
+
+*2024-12-16 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104278/sri-lanka-and-india-sign-mou-to-avoid-double-taxation) · `en`
+
+Sri Lanka and India today exchanged a Memorandum of Understanding (MoU) to avoid double taxation and to train Sri Lankan civil administrators at the Indian National Centre for Good Governance.
+
+The signing of the MoU was carried out in the presence of Indian Prime Minister Narendra Modi and Sri Lankan President Anura Kumara Dissanayake, who is on a three-day state visit to India.
+
+◼️
+
+[Data](articles/0919f236.json)
 
 ---
 
@@ -508,13 +642,13 @@ President Anura Kumara Dissanayake has held bilateral discussions with the India
 
 Present at the discussion were Sri Lanka’s Minister of Foreign Affairs Vijitha Herath and his Indian counterpart Dr. S. Jaishankar.
 
-President Dissanayake, on his maiden foreign visit since assuming office, was accorded a grand ceremonial welcome at the Rashtrapati Bhavan in New Delhi, the official residence of the Indian President, earlier today (16).
+During the meeting, the Sri Lankan leader assured that the island nation would not allow the country to be used in “a manner that is detrimental to the interest of India”.
 
-Later in the day, President Dissanayake is scheduled to meet with Indian Vice President Jagdeep Dhankhar, as well as hold talks with Indian President Droupadi Murmu at Rashtrapati Bhavan.
+“I have also given an assurance to the Prime Minister of India that we will not allow our land to be used in any way in a manner that is detrimental to the interest of India. The cooperation with India will certainly flourish and I want to reassure our continued support for India,” Dissanayake said after the interaction.
 
-The agenda also includes the signing of key Memorandums of Understanding (MoUs), extensive bilateral discussions, and a joint press briefing.
+PM Modi said: “We completely agree that our security interests are interlinked. We have decided to finalise the Defence Cooperation Agreement soon.”
 
-◼️
+...
 
 [Data](articles/b61793c0.json)
 
@@ -2209,135 +2343,5 @@ Sri Lanka Fitness Guide Layers, the minimum academic requirements of each layer 
 [Data](articles/300b3f67.json)
 
 [Extended Data](ext_articles/300b3f67.ext.json)
-
----
-
-### Singer Group recognised at TAGS Awards 2024 with two Gold awards
-
-*2024-12-16 01:21:00* · [`islandlk`](http://island.lk/singer-group-recognised-at-tags-awards-2024-with-two-gold-awards/) · `en`
-
-Singer Group’s outstanding success at the TAGS Awards 2024, highlighted by two Gold Awards and multiple recognitions, underscores its unwavering commitment to corporate excellence and its dedication to sustainable and responsible business practices.
-
-As a member of the Hayleys Group of Companies, Singer has leveraged decades of expertise to remain a pioneer in delivering innovative and dependable solutions to its customers. This remarkable achievement at the TAGS Awards 2024 reaffirms the Group’s steadfast focus on excellence, integrity, and community engagement, setting the stage for continued growth and long-term success.
-
-Adding to the accolades, Singer Finance (Lanka) PLC secured the Gold Award under the category of Finance Companies, Leasing Companies & Other Financial Institutions (Total Group Assets Between 25bn to 75bn). The company’s commitment to upholding industry best practices and fostering sustainable growth earned it this prestigious distinction.
-
-...
-
-[Data](articles/32978fe6.json)
-
-[Extended Data](ext_articles/32978fe6.ext.json)
-
----
-
-### DIMO dominates CMA excellence in Integrated Reporting Awards 2024
-
-*2024-12-16 01:17:00* · [`islandlk`](http://island.lk/dimo-dominates-cma-excellence-in-integrated-reporting-awards-2024/) · `en`
-
-DIMO dazzled at the CMA Excellence in Integrated Reporting Awards 2024, securing the prestigious Overall Gold award and five other accolades for exceptional integrated reporting. Their accomplishments include being named among the Top 5 Excellent Integrated Reports, winning the Best Integrated Report in the Diversified Holdings Sector as a “Joint Winner”, and receiving Special Awards for Best Disclosure on Value Creation, Best Concise Integrated Report, and Integrated Thinking.  Pictured here, DIMO Leadership receiving the overall Gold award at the Awards Ceremony.
-
-Huawei holds South Asia Supplier Convention 2024 in Sri Lanka
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/8cf83a0d.json)
-
-[Extended Data](ext_articles/8cf83a0d.ext.json)
-
----
-
-### IIHS takes public health and midwifery studies to degree level as nursing elevated to doctorate programmes
-
-*2024-12-16 01:14:00* · [`islandlk`](http://island.lk/iihs-takes-public-health-and-midwifery-studies-to-degree-level-as-nursing-elevated-to-doctorate-programmes/) · `en`
-
-The International Institute of Health Sciences (IIHS) has introduced several new degree courses aimed at a number of health professionals, including nurses and midwives. Through these programmes, professionals will get the opportunity to acquire locally and internationally recognised knowledge and skills.
-
-A key example of IIHS’s commitment to empowering healthcare professionals is the introduction of the degree programme for Public Health and Midwifery.
-
-Takshila Jayakody, a midwife said that providing care for pregnant patients and offering assistance during delivery and the postpartum period is an important role. Gaining professional qualifications in the field will make midwifery a viable career path for us in Sri Lanka and abroad. We had only studied midwifery at diploma level. But now, we can study up to the degree level. The programmes at IIHS give us the opportunity to gain international-level knowledge, which in turn allows us to provide superior service to our community.”
-
-...
-
-[Data](articles/5fc08ae4.json)
-
-[Extended Data](ext_articles/5fc08ae4.ext.json)
-
----
-
-### Huawei holds South Asia Supplier Convention 2024 in Sri Lanka
-
-*2024-12-16 01:13:00* · [`islandlk`](http://island.lk/huawei-holds-south-asia-supplier-convention-2024-in-sri-lanka/) · `en`
-
-Huawei’s South Asia Supplier Convention 2024, held at ITC Ratnadipa on 29th November, brought together key partners from Bangladesh, Nepal, the Maldives, and Sri Lanka to explore new opportunities for collaboration and strengthen the region’s partner ecosystem.
-
-The event served as a platform to share Huawei’s strategic vision for the coming years, deliver insights into the rapidly evolving ICT landscape, and recognize the contributions of partners who have played an important role in driving the company’s growth in South Asia.
-
-With a focus on mutual growth, the convention highlighted emerging opportunities in areas such as 5G, AI, cloud computing, and digital power.
-
-Over 140 participants from Bangladesh, Nepal, the Maldives, and Sri Lanka gathered for the Huawei South Asia Supplier Convention 2024.
-
-...
-
-[Data](articles/0ecf0517.json)
-
-[Extended Data](ext_articles/0ecf0517.ext.json)
-
----
-
-### Dr. Nilupul Perera appointed as chairman of Lanka Hospitals
-
-*2024-12-16 01:05:00* · [`islandlk`](http://island.lk/dr-nilupul-perera-appointed-as-chairman-of-lanka-hospitals/) · `en`
-
-Lanka Hospitals Corporation PLC has announced the appointment of Dr. M. Nilupul Perera, Consultant Neuro Physician, as its new chairman, effective 5th December 2024.
-
-Dr. Nilupul Perera brings over 18 years of extensive clinical experience to this leadership role. He has served in hospitals across Sri Lanka, including Base Hospital Gampola, Teaching Hospital Peradeniya, Sri Jayawardenapura Hospital, Institute of Neurology at the National Hospital of Sri Lanka, Teaching Hospital Kurunegala, and General Hospital Anuradhapura.
-
-Dr. Perera has garnered international experience during his tenure in Australia. He worked as a Clinical Research Fellow at the National Stroke Research Institute in Victoria and provided clinical services at Austin Health Hospital. His academic contributions include serving as a Clinical Tutor and Examiner at the University of Melbourne and publishing research papers that have gained recognition in Australia.
-
-...
-
-[Data](articles/8b80e761.json)
-
-[Extended Data](ext_articles/8b80e761.ext.json)
-
----
-
-### Sri Lanka’s Industrial production increased by 7% in October 2024
-
-*2024-12-16 01:03:00* · [`islandlk`](http://island.lk/sri-lankas-industrial-production-increased-by-7-in-october-2024/) · `en`
-
-The Index of Industrial Production (IIP) in October 2024 increased by 7.0 per cent to 95.5 compared to October 2023, mainly contributed by the increases reported in the manufacture of Coke and refined petroleum products (38.6 per cent), Wearing apparel (7.8 per cent) and Beverages (27.6 per cent), according to the Weekly Economic Indicators report of the Central Bank.
-
-“Between December 09th and 13th, 2024, crude oil prices generally trended upward driven by escalating geopolitical tensions in the Middle East, expectations of increased demand from China, and the European Union’s decision to impose additional sanctions on Russia. However, prices slightly dipped towards the end of the period, influenced by the International Energy Agency’s forecast of ample supply. Overall, Brent and WTI prices increased by US dollars 1.91 and US dollars 2.42 per barrel, respectively, during this timeframe, it noted.
-
-...
-
-[Data](articles/41c5a56a.json)
-
-[Extended Data](ext_articles/41c5a56a.ext.json)
-
----
-
-### Waterproofing expert – Salasi Lanka Engineering Services launches website
-
-*2024-12-16 01:01:00* · [`islandlk`](http://island.lk/waterproofing-expert-salasi-lanka-engineering-services-launches-website/) · `en`
-
-Salasi Lanka Engineering Services, a subsidiary of Salasi Lanka (Pvt) Limited launched its website (www.sles.lk) at its head office in Maradana on December 11.
-
-Chairman of Salasi Lanka and Salasi Lanka Engineering Services, U.A. Padukka said that the main objective of introducing the website was to make the general public aware of the products and services offered by the company.
-
-Teresa Lim, Zonal Business Promotion Manager of Ardex – Quickseal Singapore that works with Salasi Lanka Group was present along with the top management of the Salasi Lanka and Salasi Lanka Engineering Services, to take part in the website launch.
-
-Salasi Lanka services include structural strengthening, waterproofing, concrete repair and rehabilitation, industrial flooring, specialized coating , thermal insulation , injection grouting and controlled demolition.
-
-...
-
-[Data](articles/89b91dc6.json)
-
-[Extended Data](ext_articles/89b91dc6.ext.json)
 
 ---

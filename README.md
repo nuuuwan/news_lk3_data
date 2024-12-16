@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 15:43:24**
+As of **2024-12-16 16:02:15**
 
 ## Newspaper Stats
 
-*Scraped **60,456** Articles*
+*Scraped **60,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,748
 adaderanalk | 7,365
-tamilmirrorlk | 8,638
+tamilmirrorlk | 8,639
 virakesarilk | 9,953
 adaderanasinhalalk | 10,450
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,422 (99.9%) of 60,456 articles have been extended.
+60,424 (99.9%) of 60,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### காலி மார்வெல்ஸ் அணியின் உரிமையாளருக்கு விளக்கமறியல்
+
+*2024-12-16 15:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மார்வெல்ஸ்-அணியின்-உரிமையாளருக்கு-விளக்கமறியல்/175-348798) · `ta`
+
+ஆட்ட நிர்ணய குற்றச்சாட்டில் கைது செய்யப்பட்ட லங்கா T10 சுப்பர் லீக் தொடரின் காலி மார்வெல்ஸ் அணியின் உரிமையாளரான இந்திய பிரஜை பிரேம் தக்கரை எதிர்வரும் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+கண்டி, பல்லேகலயில் நடைபெற்று வரும் லங்கா T10 சுப்பர் லீக் கிரிக்கட் போட்டியில் தனது அணியின் வீரர் ஒருவருக்கு ஆட்ட நிர்ணய ஆலோசனை வழங்கிய குற்றச்சாட்டின் பேரில் சந்தேகநபர் கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/ad5e3789.json)
+
+---
 
 ### Prime Minister Modi invites President Mahinda Rajapaksa visiting Sri Lanka
 
@@ -618,39 +632,55 @@ The body is being kept at the Colombo National Hospital and the Kaluppitti polic
 
 ---
 
-### ராஜாங்கனை பகுதியில் போதைப்பொருட்களுடன் சந்தேகநபர் கைது!
+### Suspect arrested for drugs in Rajanganaya area
 
 *2024-12-16 11:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201394) · `ta`
 
-அநுராதபுரம், ராஜாங்கனை பகுதியில் போதைப்பொருட்களை வைத்திருந்த சந்தேக நபர் ஒருவரை கைது செய்துள்ளதாக ராஜாங்கனை பொலிஸார் தெரிவித்தனர்.
+Arrest made in Rajanganaya: 46g heroin, 18g ice seized. Suspect, 46, from Bahalamarakahawewa. Court order pending for questioning.
 
-பொலிஸாருக்கு கிடைத்த தகவலுக்கமைய நேற்று ஞாயிற்றுக்கிழமை (15) ஆம் திகதி இரவு ராஜாங்கனை பொலிஸ் பிரிவின் யாய 17 பஹளமாரகஹவெவ பகுதியில் நடத்திய சுற்றிவளைப்பின் போது சந்தேக நபரை கைது செய்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேகநபரிடமிருந்து 46 கிராம் 100 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மற்றும் 18 கிராம் 450 மில்லி கிராம் ஐஸ் போதைப்பொருட்கள்  ராஜாங்கனை பொலிஸார் கைப்பற்றியுள்ளனர்.
+Rajanganaya police said that a suspect had been arrested for possessing drugs in Rajanganaya, Anuradhapura.
 
-கைதுசெய்யப்பட்டவர் 46 வயதுடைய பஹளமாரகஹவெவ பகுதியை சேர்ந்தவர் என ஆரம்பகட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளதுடன் சந்தேக நபரை தடுத்து வைத்து விசாரணை மேற்கொள்வதற்காக நீதிமன்ற தடுப்புக் காவல் உத்தரவு பெறப்படவுள்ளது என பொலிஸார் தெரிவித்தனர்.
+According to information received by the police, the suspect was arrested during a raid on the Rajanganaya Police Division on Sunday (15) night.
+
+The Rajanganai police have seized 46 grams of heroin and 18 grams of 450 milligrams of ice from the suspect.
+
+Preliminary inquiries have revealed that the arrested was 46 -year -old Bahalamarakahawewa area and a court detention order would be obtained for interrogation of the suspect.
 
 ◼️
 
 [Data](articles/81a357d6.json)
 
+[Extended Data](ext_articles/81a357d6.ext.json)
+
 ---
 
-### සාගරිකා හා රජරට රැජිනගේ ගැටුමට තිදෙනෙකුගේ වැඩ තහනම්
+### Three suspended for the conflict of Sagina and Rajarata Queen
 
 *2024-12-16 11:03:26* · [`adalk`](https://www.ada.lk/breaking_news/සාගරිකා-හා-රජරට-රැජිනගේ-ගැටුමට-තිදෙනෙකුගේ-වැඩ-තහනම්/11-413662) · `si`
 
-බෙලිඅත්ත දුම්රිය ස්ථානයේ දී සාගරිකා දුම්රිය හා රජරට රැජින දුම්රියේ එංජිම ගැටීමෙන් සිදුවූ අනතුර සම්බන්ධයෙන් තිදෙනෙකුගේ වැඩතහනමට ලක්කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Here's a summary of 200 characters:
 
-බෙලිඅත්ත දුම්රිය ස්ථානයේ මෙහෙයුම් ස්ථානාධිපති, රජරට රැජින දුම්රියේ රියදුරු හා රියදුරු සහායකගේ සේවය මෙසේ අත්හිටුවා ඇත.
 
-බෙලිඅත්තේ සිට අනුරාධපුරය දක්වා ධාවන කිරීමට සැලසුම්කර තිබු රජරට රැජිණ දුම්රියේ එංජිම මාරු කිරීමේදී එය වැරදි පීල්ලේ ධාවනය වීම හේතුවෙන් එහි නවතා තිබූ සාගරිකා දුම්රියේ ගැටී ඊයේ (15) පෙරවරුවේදි මෙම අනතුර සිදුවිි.
 
-මේ සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව විශේෂ විමර්ශනයක් ආරම්භ කර තිබේ. අනතුරින් සාගරිකා දුම්රියට දැඩි හානි සිදුව තිබුණි.
+Three railway staff suspended over Beliatta train collision. Driver, assistant, and another staffer accused of negligence. Accident involved Weliata Queen train and Maraika train. Railway Department investigating. Saravana train severely damaged.
+
+🟩
+
+The Railway Department states that three persons have been tributed to the train of the train from the train of the train in Beliatta Station.
+
+The driver of the Beliatta Railway Station, the driver and driver's assistant's service of the Rajarata Queen Train.
+
+The accident occurred at the Weliata Queen's train, which was planted in the Visit train, which was planted in the Maraika train, which had been parked on the wrongly dried train.
+
+Railway Department has launched a special investigation in this regard. The Saravana train was severely damaged in the accident.
 
 ◼️
 
 [Data](articles/5090661c.json)
+
+[Extended Data](ext_articles/5090661c.ext.json)
 
 ---
 
@@ -2283,29 +2313,5 @@ In reply, Goal Marwals lost only 3 wickets in 7.1 overs and scored 83 runs.
 [Data](articles/9e5ea125.json)
 
 [Extended Data](ext_articles/9e5ea125.ext.json)
-
----
-
-### Two persons arrested for kidnapping wooden boards worth Rs 15 lakhs in Jaffna
-
-*2024-12-15 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201351) · `ta`
-
-Two men caught smuggling wood worth 15 lakh rupees to Jaffna. Police stopped illegal transport, arrested duo, and detained them for court appearance.
-
-🟩
-
-Two persons have been arrested by the Chavakachcheri police who illegally smuggled wooden boards worth Rs 15 lakhs to Jaffna.
-
-When the Tipper vehicle was taken to Jaffna without permission, the Chavakachcheri police had retrieved a tipper vehicle on the basis of confidential information.
-
-Subsequently, the police seized the tipper vehicle and arrested the two passengers.
-
-The police have taken up the detainees at the police station and have taken steps to appear in court.
-
-◼️
-
-[Data](articles/4c8ea0dd.json)
-
-[Extended Data](ext_articles/4c8ea0dd.ext.json)
 
 ---

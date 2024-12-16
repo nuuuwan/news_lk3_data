@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 19:18:06**
+As of **2024-12-16 19:03:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,447 (99.9%) of 60,500 articles have been extended.
+60,445 (99.9%) of 60,500 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,8 +49,6 @@ Both leaders stressed the need for building further connectivity. (Colombo/Dec16
 ◼️
 
 [Data](articles/e95caea3.json)
-
-[Extended Data](ext_articles/e95caea3.ext.json)
 
 ---
 
@@ -127,8 +125,6 @@ In a joint statement, the both countries said President Dissanayake and Prime Mi
 ...
 
 [Data](articles/4989c042.json)
-
-[Extended Data](ext_articles/4989c042.ext.json)
 
 ---
 

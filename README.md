@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 15:02:15**
+As of **2024-12-16 15:26:51**
 
 ## Newspaper Stats
 
-*Scraped **60,455** Articles*
+*Scraped **60,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,747
+adalk | 5,748
 adaderanalk | 7,365
 tamilmirrorlk | 8,638
 virakesarilk | 9,953
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,416 (99.9%) of 60,455 articles have been extended.
+60,420 (99.9%) of 60,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### ශ්‍රී ලංකාවේ සංචාරයක නිරත වන ලෙස ජනපති අනුරගෙන් අගමැති මෝදිට ආරාධනා
+
+*2024-12-16 14:24:06* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-සංචාරයක-නිරත-වන-ලෙස-ජනපති-අනුරගෙන්-අගමැති-මෝදිට-ආරාධනා/11-413666) · `si`
+
+ශ්‍රී ලංකාවේ සංචාරයක නිරත වන ලෙස ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිට ආරාධනා කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+ශ්‍රී ලංකා ජනපති සහ ඉන්දීය අගමැති එකට එක්ව මීට සුළු මොහොතකට පෙර ඉන්දියාවේදී පැවති ඒකාබද්ධ මාධ්‍ය හමුවේදී අදහස් දක්වමින් ජනාධිපතිවරයා මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/7bac1294.json)
+
+---
 
 ### Joint News discussion conducted by the President and the Indian Prime Minister
 
@@ -410,25 +424,35 @@ The Minister of Justice also stated that the Parliamentary Secretariat had subse
 
 [Data](articles/54bb64cb.json)
 
+[Extended Data](ext_articles/54bb64cb.ext.json)
+
 ---
 
-### පොලොන්නරුවෙන් පමණක් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වෙයි
+### There are 21 livestock and 70 lives of wild elephants in Polonnaruwa alone
 
 *2024-12-16 11:57:31* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-පමණක්-මිනිස්-ජීවිත-21-ක්-සහ-වන-අලින්ගේ-ජීවිත-70-ක්-අහිමි-වෙයි/11-413663) · `si`
 
-මේ වසරේ ගත වූ කාලය තුළ පොළොන්නරුව වනජීවී කලාපයේ පමණක් අලි මිනිස් ගැටුම් වලින් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වී ඇති බව පොළොන්නරුව වනජීවී කලාප කාර්යාලයේ තොරතුරු සනාථ කරයි.
+Polonnaruwa: 21 humans, 70 elephants killed in conflicts. Human activities like habitat destruction and poaching cause elephant deaths. 104 humans, 600 elephants lost since 2017.
 
-විදුලි සැර වැදීම්,හක්ක පටස් වලට අලි ගොදුරු වීම, දුම්රියේ ගැටීම, දඩයම් කරුවන්ගේ  වෙඩි තැබීම්, ඇතුළු
+🟩
 
-මිනිස් ක්‍රියාකාරකම් හේතුවෙන් මෙලෙස වන අලින්ගේ ජීවිත  අහිමි වී ඇති බව පොළොන්නරුව කලාප කාර්යාලයේ වනජීවී නිලධාරියකු අප කළ විමසීමකදී සඳහන් කළේය.
+In the wild Polonnaruwa, the Polonnaruwa Wildlife Zone has lost 21 human lives and 70 lives in the Polonnaruwa and 70 lives in human conflicts and 70 lives in the Polonnaruwa.
 
-වන අලින්ගේ වාසස්ථාන ශුද්ධ පවිත්‍ර කර මහා පරිමාණයෙන් වගාවන් සිදු කිරීම, අනවසරයෙන් රක්ෂිත තුළට ඇතුළුවීමෙන් අලි ප්‍රහාරයට ගොදුරු වීම, වන අලි ගම් වැදීමෙන් ගොවියන් වන අලින්ට ගොදුරුවීම ඇතුළු කරුණු කිහිපයක්  වන අලින්ගෙන් මිනිස් ජීවිත විනාශයට හේතු වී ඇති බවද හෙතෙම කීය.
+Elephant victims, collision, hit by train, hunted
 
-වන අලි ප්‍රහාරවලින් 2023 වසරේ මිනිස් ජීවිත 39 ක් අකාලයේ රටට අහිමි වී ඇති අතර, එම වසරේ වන අලි 104 දෙනෙකු මියගොස් ඇති බවද පොළොන්නරුව වනජීවී කලාප කාර්යාලීය සංඛ්‍යා ලේඛනය තොරතුරු අනාවරණය කරයි.
+According to a Wildlife Officer of the Polonnaruwa Zonal Office, we said that the lives of the elephants have been lost due to human activity.
 
-...
+He said that the abuse of the wild elephants are cleansed by the habitat and large scale plantation in the unauthorized reserves, including a few things to the victim of the elephant attack, have caused human lives in the elephant.
+
+The Department of Wildlife Zonal Register has revealed that 104 people of the Polonnaruwa had died in 2023 from 2023.
+
+The country has lost 600 elephants due to human activity in the wild Polonnaruwa since 2017, and 189 human lives have been lost in the same period
+
+◼️
 
 [Data](articles/56309ae2.json)
+
+[Extended Data](ext_articles/56309ae2.ext.json)
 
 ---
 
@@ -450,23 +474,29 @@ In 1960, as she rode to power, after a grueling campaign, as the world’s first
 
 ---
 
-### පියා සමග යතුරුපැදියේ ගිය දියණියට අත් වූ ඉරණම
+### The fate of the daughter who went to the motorcycle with father
 
 *2024-12-16 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204424) · `si`
 
-අද (16) උදෑසන මහනුවර, විලියම් ගොපල්ලව මාවතේ, මත්ස්‍ය වෙළෙඳපොළ ඉදිරිපිට දී ගැටඹේ දෙස සිට මහනුවර දක්වා ගමන්ගත් යතුරුපැදියක් වාහනයක ගැටී අනතුරට ලක්ව තිබේ.
+Motorcycle collision kills 17-year-old girl in Kandy. Father injured, driver flees scene. Traffic congestion reported.
 
-අනතුරින් යතුරුපැදියේ ගමන්ගත් පියා හා දියණිය වාහනයේ ගැටී ඇදවැටි ඇති අතර එම අවස්ථාවේදී වෙනත් වාහනයකට දියණියගේ හිස යට වී ඇති බව වාර්තා වේ.
+🟩
 
-අනතුරට ලක්වූ 17 හැවිරිදි දියණිය එම ස්ථානයේ ම මියගොස් ඇති අතර ඇය මහනුවර ගෙලිඔය ප්‍රදේශයේ පදිංචිකාරිණියකි.
+A motorbike collided with a motorcycle in front of the fish market, Kandy, William Gopallawa road in Kandy this morning.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ අනතුරින් පියාට කිසිදු තුවාලයක් සිදු වූ නොමැති බවය.
+The father and daughter of the motorcycle were collided with the vehicle and the daughter was in the head of the head of another vehicle.
 
-"ට්‍රැෆික් එක තිබුණා . එක පාරම වාහනයටක් දැම්මා මම බ්‍රේක් කරා. මට හිතා ගන්න බෑ ලිස්සලා වැටුණා. දෙන්නාම එක පැත්තට වැටුනේ. කොහොම හරි වාහනයක් උඩින් ගිහින් තියෙනවා. මම දකිනකොට වෙලා ඉවරයි."
+The 17-year-old daughter has died in that location and is a resident of Gelioya, Kandy.
+
+The Ada Derana reporter said that the father had no injury in the accident.
+
+"There was the traffic. One pattle was put into the vehicle, I was brayke. I can't imagine. Both fell to the side. Have gone over a car. It's over when I see. "
 
 ◼️
 
 [Data](articles/98553624.json)
+
+[Extended Data](ext_articles/98553624.ext.json)
 
 ---
 
@@ -512,21 +542,29 @@ The suspects are from Matale and Udaspattu area aged 46 and 48.
 
 ---
 
-### අධිකරණ ඇමතිගෙන් CIDයට පැමිණිල්ලක්
+### Minister of Justice a complaint under CID
 
 *2024-12-16 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204423) · `si`
 
-පාර්ලිමේන්තු නිල වෙබ් අඩවියට ව්‍යාජ දත්ත ඇතුළත් කර තිබීම සම්බන්ධයෙන් අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා අද (16) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+Justice Minister Harshana Nanayakkara filed CID complaint alleging false data entry to discredit him politically. He denies any wrongdoing, stating he's a lawyer with 25 years experience and his Facilities Information Sheet was correct.
 
-යම් අයෙක් තමාව අපකීර්තියට පත්කිරීමට හෝ තම දේශපාලනය කෙරෙහි ඇති විශ්වාසය බිඳදැමීමේ අරමුණින් ව්‍යාජ දත්ත ඇතුළත් කිරීමක් කළා දැයි සැක සහිත බව අමාත්‍යවරයා මෙහිදී මාධ්‍යයට අදහස් දක්වමින් පැවසීය.
+🟩
 
-පාර්ලිමේන්තු නිල වෙබ් අඩවියේ "ආචාර්ය හර්ෂණ නානායක්කාර" යනුවෙන් පළ කර තිබී පසුව අමාත්‍යවරයා සිදුකළ පැමිණිල්ලක් මත එය නිවැරදි කිරීමත් සමග පසුගිය දා මහත් ආන්දෝලනයක් හට ගත්තේය.
+Minister of Justice and National Integration Harshana Nanayakkara has lodged a complaint with the CID today (16).
 
-පසුව පාර්ලිමේන්තු මහලේකම් කාර්යාලය විසින් නම් උඩුගත කිරීමේ දී සිදුවු වැරදීමක් ලෙස දක්වමින් තමාට ලිපියක් එවා ඇතැයි ද අධිකරණ අමාත්‍යවරයා මෙහිදී පැවසීය.
+The Minister spoke to the medium, said the Minister said that if a person had a false data entry to discredit him or to break his politics, he said.
 
-...
+The Minister recently arisen with the correlation of the Minister on a complaint made by the Minister's Official Web Site.
+
+The Minister said that he had sent a letter from the upphanity of the names of the Divisional Secretariat.
+
+"I am a lawyer who is engaged in the 25-year lawyers. I've never mentioned duties before my name. No solid card is attacked. I had clearly corrected the Facilities Information Sheet I Filled. There was no doctor. Where is this coming. Anyone emerges suspicion of suspicion of doubt when it comes to a whole. "
+
+◼️
 
 [Data](articles/0725cc34.json)
+
+[Extended Data](ext_articles/0725cc34.ext.json)
 
 ---
 
@@ -2261,23 +2299,5 @@ The police have taken up the detainees at the police station and have taken step
 [Data](articles/4c8ea0dd.json)
 
 [Extended Data](ext_articles/4c8ea0dd.ext.json)
-
----
-
-### The Sinhalese party's success story in the political fortress of Tamils
-
-*2024-12-15 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201348) · `ta`
-
-Sinhalese party gains in Tamil stronghold. Senior politicians leave, new faces enter. Strong desire for social, political, economic change nationwide. Unity across races, religions, genders, ages. Promise to empower national people's power.
-
-🟩
-
-Many senior politicians leaving parliament and new parliamentarians are the stronger desire for social, political and economic change across the country. People are united in unique and unprecedented ways, despite their race, religion, gender and age, by giving a decree to fulfill its promises to the national people's power.
-
-◼️
-
-[Data](articles/9d0a9e7a.json)
-
-[Extended Data](ext_articles/9d0a9e7a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 10:43:34**
+As of **2024-12-16 11:01:41**
 
 ## Newspaper Stats
 
-*Scraped **60,409** Articles*
+*Scraped **60,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,654
 economynextcom | 3,671
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,739
+adalk | 5,740
 adaderanalk | 7,355
 tamilmirrorlk | 8,632
 virakesarilk | 9,945
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,385 (100.0%) of 60,409 articles have been extended.
+60,387 (100.0%) of 60,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### இந்திய இராஜதந்திரிகளுடன் சந்திப்பு
+### Meeting with Indian diplomats
 
 *2024-12-16 10:28:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இராஜதந்திரிகளுடன்-சந்திப்பு/175-348790) · `ta`
 
-இந்தியாவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க தங்கியிருக்கும் புதுடில்லி ITC MAURYA ஹோட்டலுக்கு வருகைத் தந்த இந்திய நிதி மற்றும் நிறுவன அலுவல்கள் அமைச்சர் நிர்மலா சீதாராமன், வெளிவிவகார அமைச்சர் கலாநிதி எஸ்.ஜெய்சங்கர், Dr.S.jayashankar) மற்றும் இந்திய பாதுகாப்பு ஆலோசகர் ஸ்ரீ அஜித் தோவால் ஆகியோர் ஜனாதிபதியை சந்தித்து கலந்துரையாடினர்.
+Indian diplomats meet Sri Lankan officials at ITC Maurya Hotel in New Delhi. Discussions focus on strengthening economic ties, expanding investments, and addressing common challenges like fisheries and national unity. Security and defense cooperation also on agenda.
 
-இந்தியா – இலங்கை பொருளாதார ஒத்துழைப்புக்களை பலப்படுத்திக்கொள்ளல் மற்றும் இருநாடுகளுக்கும் இடையிலான முதலீட்டு வாய்ப்புக்களை விரிவுபடுத்திக்கொள்வது தொடர்பில் ஜனாதிபதி மற்றும் இந்திய நிதி, நிறுவன அலுவல்கள் அமைச்சர் நிர்மலா சீதாராமன் ஆகியோருக்கு இடையிலான சந்திப்பில் விரிவாக கலந்துரையாடப்பட்டது.
+🟩
 
-அதேநேரம் இந்திய சுற்றுலாப் பயணிகளை இலங்கைக்கு அதிகளவில் அழைத்து வருவது மற்றும் இலங்கையின் விவசாய நவீனமயமாக்கல், டிஜிட்டல் உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி குறித்தும் கலந்துரையாடப்பட்டது.
+President of India, Nirmala Sitharaman, Minister of Foreign Affairs, Dr. S. Jaishankar, Dr.S.Jayashankar and Indian Defense Advisor Sri Ajith Dawal, who visited the ITC Maurya Hotel in New Delhi, who is on a three -day official visit to India.
+
+The meeting between the President and the Minister of Finance and Corporation Nirmala Sitharaman was discussed in detail to strengthen the India -Sri Lanka economic cooperation and expand the investment opportunities between the two countries.
+
+At the same time, India was discussing the most brought to Sri Lanka and the development of Sri Lanka's agricultural modernization and digital infrastructure.
+
+The meeting between the President and the Minister of State for External Affairs, Dr. S. Jaishankar, was friendly and focused on using India's largest market for the economic revival of Sri Lanka.
+
+In addition, Dr. S. Jaishankar, who cooperates in the country's tourism, investment and strength sectors, agreed.
 
 ...
 
 [Data](articles/f473eb89.json)
+
+[Extended Data](ext_articles/f473eb89.ext.json)
 
 ---
 
@@ -106,19 +116,29 @@ Question - 02: 2024 How much did the government borrow?
 
 ---
 
-### නව කථානායක පොලොන්නරුවේ වෛද්‍ය ජගත් වික්‍රමරත්න?
+### New Speaker Poonna Medical Wickramaratne?
 
 *2024-12-16 09:29:50* · [`adalk`](https://www.ada.lk/breaking_news/නව-කථානායක-පොලොන්නරුවේ-වෛද්‍ය-ජගත්-වික්‍රමරත්න-/11-413659) · `si`
 
-නව කතානායකවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ නම යෝජනා වී ඇති බව ද වාර්තා වේ. ඒ පිළිබඳව අවසන් තීරණය ගැනීම වෙනුවෙන් ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම අද (16දා) රැස්වීමට නියමිතය. ඔහු පොළොන්නරුව දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුවට තේරී පත් වූ මන්ත්‍රීවරයෙකි.
+Here's a summary of the text in approximately 200 characters:
 
-නව කතානායකවරයෙක් පත් කරගැනීම පිළිබඳව සහ ඉදිරි පාර්ලිමේන්තු කටයුතු පිළිබඳව සාකච්ඡා කිරීම වෙනුවෙන් අද (16දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.
 
-මේ අතර තවදුරටත් වාර්තා වූයේ හිටපු කතානායක අශෝක රන්වල මහතාගේ අධ්‍යාපන සහතික ද නුදුරේදී ම ඉදිරිපත් කිරීමට නියමිත බවයි.
+
+Jagath Wickramaratne, MP, may become the new Speaker. A government meeting today will decide. He represents Polonnaruwa. The ruling party will discuss Speaker appointment and future Parliament matters. Former Speaker Asoka Ranwala's educational certificates will be presented soon.
+
+🟩
+
+It is reported that the new Speaker, MP Jagath Wickramaratne has been proposed to be proposed.. The Government Member of Parliament to meet today (16) to meet the final decision. He was elected to Parliament from the Polonnaruwa district.
+
+The ruling party team will meet today (16) to discuss the appointment of a new Speaker and discussing the next Parliamentary matters.
+
+Meanwhile, former Speaker Asoka Ranwala, the educational certificates of former Speaker, the educational certificates will be presented in the near future.
 
 ◼️
 
 [Data](articles/b34b60ce.json)
+
+[Extended Data](ext_articles/b34b60ce.ext.json)
 
 ---
 
@@ -2318,24 +2338,20 @@ It is their source that Sri Lanka has not yet embraced the people of Sri Lanka a
 
 ---
 
-### 6 percent rejected votes that continue in parliamentary elections
+### ලංවිම ණය බර රු. බිලියන 289.4 ක්
 
-*2024-12-15 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201352) · `ta`
+*2024-12-15 17:24:34* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-ණය-බර-රු--බිලියන-289-4-ක්/11-413648) · `si`
 
-Here's a summary of 200 characters:
+ලංකා විදුලි බල මණ්ඩලය විසින් ගෙවිය යුතු ණය සහ ව්‍යාපෘති ණය වශයෙන් මෙම වර්ෂයේ 2024 ජනවාරි 01 වැනිදා සිට ජුනි මස 30 වැනි දින දක්වා මාස 06 ක කාලසීමාව තුළදී රුපියල් බිලියන 289.4 කමුදලක් ගෙවීමට තිබූ බැව් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති වසර මැද මූල්‍ය තත්ත්වය පිළිබඳව ශ්‍රී ලංකා මහා බැංකුවට නිකුත් කර තිබූ කාර්ය සාධක වාර්තාවකින් අනාවරණය වෙයි.
 
+2023 වර්ෂය අවසානය වන විට එය රුපියල් බිලියන 263.6 ක මුදලක් ගෙවිය යුතු ණය වශයෙන් පැවතුණි. ගෙවිය යුතු ණය සහ ව්‍යාපෘති ණය මෙම වර්ෂයේ ජූනි මස අවසානය වන විට 9.8% කින් වැඩි වී ඇත.
 
+විදුලි බල මණ්ඩලය විසින් ලංකා ඛනිජ තෙල් සංස්ථාවට සහ ස්වාධීන බලශක්ති ගැනුම්කරුවන්ට සහ මෙම වර්ෂයේ ජූනි මස අවසන් වන විට රුපියල් මිලියන 17.4 ක මුදලක් ගෙවීමට සිදුවී තිබිණි.
 
-Sri Lanka's parliamentary elections see rising rejected votes since 1989. Average increase noted in 9 elections under new system. 6% rejected votes continue trend.
-
-🟩
-
-As for the elections in Sri Lanka, it can be observed that more rejected votes are being recorded in the parliamentary elections. Since 1989, there have been 9 parliamentary elections in the new electoral system. When looking at these nine parliamentary elections, the average number of rejected votes has increased on average.
+කෙසේ වුවද ලංකාව විදුලි වල මණ්ඩලය මෙම 2024 වර්ෂයේ ජනවාරි 01 වැනි දා සිට ජුනි මස 30 වැනි දින දක්වා මාස 06(හය) ක කාලසීමාව තුළ රුපියල් බිලියන 119.2 ක  ශුද්ධ ලාභයක් වාර්තා කොට තිබුණි.
 
 ◼️
 
-[Data](articles/0e385252.json)
-
-[Extended Data](ext_articles/0e385252.ext.json)
+[Data](articles/7a6e82c3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 09:24:16**
+As of **2024-12-16 09:34:41**
 
 ## Newspaper Stats
 
-*Scraped **60,401** Articles*
+*Scraped **60,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,654
 economynextcom | 3,671
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,736
+adalk | 5,737
 adaderanalk | 7,355
-tamilmirrorlk | 8,627
+tamilmirrorlk | 8,629
 virakesarilk | 9,945
 adaderanasinhalalk | 10,441
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,377 (100.0%) of 60,401 articles have been extended.
+60,380 (100.0%) of 60,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### Problem with the titles of many MPs
+
+*2024-12-16 09:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-பல-எம்-பிக்களின்-பட்டங்கள்-தொடர்பில்-சிக்கல்/175-348784) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Doubts raised about educational qualifications of 5 ministers. Questions about Anura Karunathilaka's degree. Political parties seeking info under Info Act. Some MPs removed qualifications from Facebook. Oppn claims deletion occurred earlier. Qualifications mentioned in election materials.
+
+🟩
+
+Many political parties have raised doubts about the educational qualifications and degrees of five ministers.
+
+Questions have been raised regarding the degree of Education of the Ministry of Urban Development, Construction and Housing, Anura Karunathilaka.
+
+It is also stated that the political parties are making efforts to obtain information on their educational qualifications under the Information Act.
+
+Meanwhile, reliable sources say that some MPs of the National People's Party have suddenly removed the educational qualifications posted on their Facebook page.
+
+However, a member of the Opposition said that it was clear that it was clear that when checking the History of those Facebook accounts, it was clear that it was deleted a few days ago.
+
+In addition, some MPs in the general election campaign banners and posters have clearly stated that these educational qualifications have been clearly stated by the opposition parties.. Remble
+
+◼️
+
+[Data](articles/d5bc8ab3.json)
+
+[Extended Data](ext_articles/d5bc8ab3.ext.json)
+
+---
+
+### Famous Tabela music genius Sakir Hussein has passed away
+
+*2024-12-16 09:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-தபேலா-இசை-மேதை-சாகிர்-ஹுசைன்-காலமானார்/175-348782) · `ta`
+
+Sakir Hussein, renowned Tabela music maestro, passes away at 73. Awarded Padma Shri, Padma Bhushan, Padma Vibhushan.
+
+🟩
+
+The famous Tabela music genius Sakir Hussein passed away today at the age of 73.
+
+Foreign media have reported that it has passed away as she was receiving treatment at a hospital in the United States.
+
+He is a famous Tabela musician and has won various awards including Padma Shri, Padma Bhushan and Padma Vibhushan.
+
+Sagir Hussein has also been awarded the Academy of the Government of India. Remble
+
+◼️
+
+[Data](articles/14c2f786.json)
+
+[Extended Data](ext_articles/14c2f786.ext.json)
+
+---
 
 ### One person was killed in a dispute between two people in Kokkilai!
 
@@ -204,21 +260,31 @@ Meanwhile, the Department of Meteorology has advised that heavy rains are likely
 
 ---
 
-### ජනපති ඉන්දියාවේදි විශේෂ හමු කිහිපයක
+### In several special meetings in India
 
 *2024-12-16 07:59:00* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-ඉන්දියාවේදි-විශේෂ-හමු-කිහිපයක/10-413658) · `si`
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත  ජනපති අනුර කුමාර දිසානායක මහත.ා නවාතැන්ගෙන සිටින නවදිල්ලි නුවර ITC MAURYA හෝටලය වෙත ඊයේ (15) පැමිණි ඉන්දීය මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතා රාමන්, විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් (Dr. S. Jaishankar) සහ ඉන්දියාවේ ජාතික ආරක්ෂක උපදේශක ශ්‍රී අජිත් දොවාල් (Shri Ajith Doval) යන මහත්ම මහත්මීන් ජනපති හා සාකච්ඡා පවත්වා තිබේ.
+India:0
 
-ඉන්දු - ශ්‍රී ලංකා ආර්ථික සහයෝගීතාව ඉහළ නංවා ගැනීම මෙන්ම දෙරට අතර ආයෝජන අවස්ථා පුළුල් කර ගැනීම පිළිබඳව ඉන්දීය මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතා රාමන් මහත්මිය හා ජනපති  අතර පැවති හමුවේදී පුළුල් ලෙස සාකච්ඡා වී තිබේ.
+🟩
 
-එසේම ඉන්දියානු සංචාරකයින් වැඩි වශයෙන් ශ්‍රී ලංකාවට ගෙන්වා ගැනීම, ශ්‍රී ලංකාවේ කෘෂි නවීකරණ සහ ඩිජිටල් යටිතල පහසුකම් සංවර්ධනය පිළිබඳව ද මෙහිදි සාකච්ඡා විය.
+President Anura Kumara Dissanayake on three-day official visit to India. Jeyasankar (dr. S. Jishankar and the National Security Advisor of India (Sri Ajith Dowal) and Sri Ajith Dovoal have held discussions.
 
-විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්.ජයිශංකර් මහතා අතර හමුව ඉතා සුහදශීලි ලෙස පැවැත්වුණු අතර ශ්‍රී ලංකාවේ ආර්ථික පුනරදය ඇති කිරීම සඳහා ඉන්දියාවේ දැවැන්ත වෙළඳපොළ ප්‍රයෝජනයට ගැනීමේ හැකියාව පිළිබඳ එහිදී අවධානයට ලක් ව තිබේ.
+Indian Finance and Corporate Affairs Minister Namula Seetha Raman, Minister of Indian Finance and Corporate Affairs, is widely discussed at the meeting of the Indo-Sri Lanka to enhance investment opportunities between the two countries.
+
+It was also discussed that Indian tourists to bring more Indian tourism and digital infrastructure development.
+
+Foreign Minister Dr. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S.S.
+
+Dr. S. S.Shasankar said that the Indian government expresses the sovereporty in Sri Lanka's tourism, investment and energy areas (DR. S. JAKankar said.
+
+The discussion also focused on the areas of interested in the fisheries and national unity.
 
 ...
 
 [Data](articles/07462989.json)
+
+[Extended Data](ext_articles/07462989.ext.json)
 
 ---
 
@@ -2267,51 +2333,5 @@ The Head of State, accompanied by a top-level delegation left the island this af
 [Data](articles/a02d91a6.json)
 
 [Extended Data](ext_articles/a02d91a6.ext.json)
-
----
-
-### ඊ ග්‍රාම නිලධාරී ව්‍යාපෘතියට වැය කළ ලක්ෂ 153ක් නිෂ්ඵල වෙයිද?
-
-*2024-12-15 16:47:55* · [`adalk`](https://www.ada.lk/breaking_news/ඊ ග්‍රාම-නිලධාරී-ව්‍යාපෘතියට-වැය-කළ-ලක්ෂ-153ක්-නිෂ්ඵල-වෙයිද-/11-413644) · `si`
-
-ඊ-ග්‍රාම නිලධාරී ව්‍යාපෘතියේ මෘදුකාංග සංවර්ධන හා විවිධ කටයුතු සඳහා රුපියල් එක්කෝටි පනස් තුන් ලක්ෂයකට අධික මුදලක් වැය කර ඇතත්, ඊට අදාළව ග්‍රාම නිලධාරීන් පුහුණු කිරීමේ කටයුතු කර නැතැයි තොරතුරු අනාවරණය වේ. මේ හේතුව මත වහාම ස්වාධීන කමිටුවක් පත්කර පරීක්ෂණයක් සිදුකර ඊට වගකිවයුතු නිලධාරීන්ගෙන් අලාභය අය කිරීමට අධිකරණ රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා පළාත් පාලන සහ කම්කරු අමාත්‍යාංශය තීරණය කර ඇත.
-
-ව්‍යාපෘතිය සම්බන්ධයෙන් කරන ලද විගණන විමසුමේදී අනාවරණය වී ඇත්තේ 2021 වර්ෂය සඳහා වූ ප්‍රසම්පාදන සැලහේමෙහි ව්‍යාපෘතියේ මෘදුකාංග සංවර්ධනය වෙනුවෙන් සන්නිවේදන සහ ප්‍රචාරණය සඳහා වූ අවශ්‍ය අයිතම නිර්මාණය කිරීම ඇතුළත් කර නොතිබූ බවය.
-
-එමෙන්ම, සන්නිවේදන සහ ප්‍රචාරණය හා ඊට අදාළ දෑ සපයා ගැනීම සම්බන්ධයෙන් ප්‍රසම්පාදන මණ්ඩලයේ දැනුවත් වීමකින් තොරව ඍජුවම “සැලසිනේ” ආයතනයෙන් මිල ගණන් ලබාගෙන ඇති අතර එම ආයතනය සමඟ විධිමත් ගිවිසුමක් අත්සන් නොකර රුපියල් එක්කෝටි තිස්නව ලක්ෂයකට අධික අතිකාරමක් එම ආයතනයට අමාත්‍යාංශයෙන් ගෙවා තිබෙන බවද අභ්‍යන්තර විගණන පරීක්ෂණවලදී තහවුරු වී තිබේ.
-
-...
-
-[Data](articles/4f6e9e0b.json)
-
----
-
-### Three arrested with Kokain and Kush drugs in Wellawatte
-
-*2024-12-15 16:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201322) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"3 arrests made in Wellawatte: 26yo from Dehiwala caught with 36g cocaine & 203g kush. Investigation led to arrest of 2 more: 24yo from Mattakkuli & 25yo from 14 area. Total seizures: cocaine, kush, cash, phones, scales."
-
-🟩
-
-Three suspects have been arrested with cocaine and kush narcotics in the Colingwood Mawatha area of ​​the Wellawatte Police Division, police said.
-
-A 26 -year -old from Dehiwala area was arrested yesterday (14) during a round -up by a group of officials of the Valana Anti -Corruption Unit.
-
-The suspect seized 36 grams of cocaine, 203 grams of kush drugs, 1,875,000 rupees, 05 mobile phones, 05 mobile phones, money counting machine, 02 bank cards and electronic scales.
-
-Following the investigation into the suspect, two more suspects were arrested with 33 grams of 600 milligrams of kush drugs in the Colingwood Mawatha area.
-
-The arrested persons are 24 and 25 years old from Mattakkuli and 14 areas.
-
-◼️
-
-[Data](articles/8f01eedd.json)
-
-[Extended Data](ext_articles/8f01eedd.ext.json)
 
 ---

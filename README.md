@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 23:43:29**
+As of **2024-12-17 01:00:15**
 
 ## Newspaper Stats
 
-*Scraped **60,537** Articles*
+*Scraped **60,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,655
 economynextcom | 3,685
-dailyftlk | 4,175
+dailyftlk | 4,177
 dailymirrorlk | 4,733
 adalk | 5,759
 adaderanalk | 7,379
@@ -26,27 +26,71 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,476 (99.9%) of 60,537 articles have been extended.
+60,482 (99.9%) of 60,539 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-12-16 (Monday)
+### 2024-12-17 (Tuesday)
 
-### லங்கா ரி10 சுப்பர் லீக் இறுதிச் சுற்றுக்கு ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ், கோல் மார்வல்ஸ் அணிகளும் தகுதி
+### Hidden cost of traffic lights: Colombo’s silent economic burden
 
-*2024-12-16 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201463) · `ta`
+*2024-12-17 00:46:02* · [`dailyftlk`](https://www.ft.lk/columns/Hidden-cost-of-traffic-lights-Colombo-s-silent-economic-burden/4-770596) · `en`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்றுவரும் அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட்டின் இறுதிச் சுற்றில் விளையாட மேலும் இரண்டு அணிகள் தகுதி பெற்றுள்ளன.
+Approximately one million commuters lose an hour in traffic on a daily basis
 
-இச் சுற்றுப் போட்டியில் முதலாவது அணியாக ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட தகுதிபெற்ற நிலையில், இன்று நடைபெறவிருந்த 3 போட்டிகளும் மழையினால் கைவிடப்பட்டதால் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ், கோல் மார்வல்ஸ் ஆகிய அணிகளும் இறுதிச் சுற்றுக்கு முன்னேறியுள்ளன.
-
-ஜெவ்னா டைட்டன்ஸ் 4 வெற்றிகள், 2 முடிவில்லாத பெறுபேறுகள் ஆகியவற்றடன் 10 புள்ளிகளைப் பெற்று அணிகள் நிலையில் அசைக்க முடியாத முதலிடத்தில் இருக்கிறது.
-
-ஹாம்பந்தொட்ட பங்ளா டைகர்ஸ் அணியும் கோல் மார்வல்ஸ் அணியும் தலா 2 வெற்றிகள், ஒரு தொல்வி, 3 முடிவில்லா பெறுபேறுகள் ஆகியவற்றுடன் தலா 7 புள்ளிகளைப்  பெற்று  நிகர ஓட்ட வேக அடிப்படையில் முறையே 2ஆம், 3ஆம் இடங்களில் இருக்கின்றன.
+Adding insult to injury, during peak hours, these high-tech traffic lights are often switched off, with traffic police manually directing vehicles. This is not only a waste of investment but also doubles operational costs, as manpower replaces technology. Such inefficiencies reflect a broader systemic failure: investments made without proper monitoring or outcome evaluation
 
 ...
 
+[Data](articles/cc5d7648.json)
+
+---
+
+### India and Sri Lanka issue joint statement fostering partnerships for shared future
+
+*2024-12-17 00:00:38* · [`dailyftlk`](https://www.ft.lk/news/India-and-Sri-Lanka-issue-joint-statement-fostering-partnerships-for-shared-future/56-770585) · `en`
+
+Indian Prime Minister Narendra Modi and Sri Lanka President Anura Kumara Dissanayake chair bilateral talks in New Delhi
+
+Prime Minister of India Narendra Modi and President of Sri Lanka Anura Kumara Dissanayake yesterday had comprehensive and fruitful discussions at their meeting in New Delhi during the latter’s State visit to the Republic of India.
+
+The two leaders reaffirmed that the India-Sri Lanka bilateral partnership is underpinned by deep-rooted cultural and civilisational ties, geographical proximity and the people-to-people relations.
+
+...
+
+[Data](articles/2bb42785.json)
+
+[Extended Data](ext_articles/2bb42785.ext.json)
+
+---
+
+### 2024-12-16 (Monday)
+
+### Hambantota Bangla Tigers and Goal Marwals qualify for the final round of the Lanka R10 Super League
+
+*2024-12-16 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201463) · `ta`
+
+Hambantota Bangla Tigers & Goal Marwals qualify for Lanka R10 Super League final. Jevna Titans leads with 4 wins, followed by 2-win teams. Weather may affect final matches.
+
+🟩
+
+Two more teams have qualified to play in the final round of the inaugural Lanka R10 Super League cricket, which is being held at the Pallekele International Cricket Stadium in Kandy.
+
+While Jevna Titans qualified to play in the final round of the tournament, the three matches to be held today and the Hambantota Bangla Tigers and Cole Marwals have advanced to the final round.
+
+Jevna Titans tops the list with 4 wins and 2 endless results.
+
+Hampantota Bangla Tigers and Goal Marwals are 2 wins each, with a strike and 3 endless results, with 7 points each.
+
+The three teams, Kalambo Jaguars, Kandy Boltz and Nuwara Eliya Kings, who have scored 4 points each with 2 defeats and 4 endless results, are in the 4th, 5th and 6th respectively.
+
+The last match of these three teams will be determined by which team will go to the final round. Perhaps the 3 matches involving these 3 teams are not played due to inclement weather.
+
+◼️
+
 [Data](articles/a95707df.json)
+
+[Extended Data](ext_articles/a95707df.ext.json)
 
 ---
 
@@ -64,19 +108,31 @@ President Dissanayake, who is on a three-day official visit to India, his maiden
 
 [Data](articles/fcdeff08.json)
 
+[Extended Data](ext_articles/fcdeff08.ext.json)
+
 ---
 
-### ජනපති සහ ඉන්දීය ජනපතිනිය අතර හමුවක්
+### President meets the President
 
 *2024-12-16 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204443) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය හමුවී තිබේ.
+Here's a summary in 200 characters:
 
-මෙම හමුවේදී ඉන්දීය ජනාධිපතිවරිය, පවසා ඇත්තේ, සමීප සහ විශ්වාසනීය හවුල්කරුවෙකු ලෙස ශ්‍රී ලංකාවේ තිරසාර ආර්ථික සංවර්ධනය සඳහා ශ්‍රී ලංකා රජය ගෙන යන ප්‍රයත්නයන් සඳහා ඉන්දියාව අඛණ්ඩව සහාය දක්වන බවය.
+
+
+Sri Lankan President Anura Kumara Dissanayake met Indian President. He stated India continues to support Sri Lanka as a close and reliable partner.
+
+🟩
+
+President Anura Kumara Dissanayake met with Indian President Mrs. Murd. Mrs. Murmo.
+
+The President has said that India continues to support the Government of Sri Lanka as a close and reliable partner in Sri Lanka as a close and reliable partner.
 
 ◼️
 
 [Data](articles/072d2f95.json)
+
+[Extended Data](ext_articles/072d2f95.ext.json)
 
 ---
 
@@ -155,6 +211,8 @@ Since the formation of the new government, a total of 63 Sri Lankans, who were h
 ...
 
 [Data](articles/357b79b1.json)
+
+[Extended Data](ext_articles/357b79b1.ext.json)
 
 ---
 
@@ -567,6 +625,8 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 ...
 
 [Data](articles/a760c533.json)
+
+[Extended Data](ext_articles/a760c533.ext.json)
 
 ---
 
@@ -2263,49 +2323,5 @@ The country has lost 600 elephants due to human activity in the wild Polonnaruwa
 [Data](articles/56309ae2.json)
 
 [Extended Data](ext_articles/56309ae2.ext.json)
-
----
-
-### Mrs. B becomes PM and I the Secretary to the world’s first woman prime minster
-
-*2024-12-16 11:41:00* · [`islandlk`](http://island.lk/mrs-b-becomes-pm-and-i-the-secretary-to-the-worlds-first-woman-prime-minster/) · `en`
-
-Anura bothered about his mother seeing his school report before he did
-
-(Excerpted from Rendering Unto Caesar, by Bradman Weerakoon, Secretary to the Prime Minister)
-
-In 1960, as she rode to power, after a grueling campaign, as the world’s first-ever woman prime minister, Sirima Bandaranaike was making the global headlines and taking Ceylon too into the limelight, which was to last for decades. The world wondered as to how this phenomenon, of a woman being chosen to be prime minister, had occurred in Ceylon. Was it some peculiar provision of dynastic succession by which the wife succeeded to a vacancy caused by the death of a husband Could such a thing occur only in an Asian country? Was it, as uncharitable political opponents would say, a consequence of the enormous wave of sympathy that followed close on the tragic death of a popular leader? Was the phenomenon connected mystically with the primacy of motherhood’ (matar) so central a part of the culture of the Indian subcontinent?
-
-...
-
-[Data](articles/4bf6a347.json)
-
-[Extended Data](ext_articles/4bf6a347.ext.json)
-
----
-
-### The fate of the daughter who went to the motorcycle with father
-
-*2024-12-16 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204424) · `si`
-
-Motorcycle collision kills 17-year-old girl in Kandy. Father injured, driver flees scene. Traffic congestion reported.
-
-🟩
-
-A motorbike collided with a motorcycle in front of the fish market, Kandy, William Gopallawa road in Kandy this morning.
-
-The father and daughter of the motorcycle were collided with the vehicle and the daughter was in the head of the head of another vehicle.
-
-The 17-year-old daughter has died in that location and is a resident of Gelioya, Kandy.
-
-The Ada Derana reporter said that the father had no injury in the accident.
-
-"There was the traffic. One pattle was put into the vehicle, I was brayke. I can't imagine. Both fell to the side. Have gone over a car. It's over when I see. "
-
-◼️
-
-[Data](articles/98553624.json)
-
-[Extended Data](ext_articles/98553624.ext.json)
 
 ---

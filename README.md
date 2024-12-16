@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 04:43:00**
+As of **2024-12-17 05:01:41**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,500 (99.9%) of 60,551 articles have been extended.
+60,503 (99.9%) of 60,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### ஜனாதிபதிக்கும் இந்திய ஜனாதிபதிக்கும் இடையில் சந்திப்பு
+### Meeting between President and Indian President
 
 *2024-12-17 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201465) · `ta`
 
-இந்த சந்திப்பில், இலங்கையின் நிலையான பொருளாதார அபிவிருத்திக்கான இலங்கை அரசாங்கத்தின் முயற்சிகளுக்கு நெருக்கமான மற்றும் நம்பகமான பங்காளியாக இந்தியா தொடர்ந்து ஆதரவளிக்கும் என இந்திய ஜனாதிபதி தெரிவித்துள்ளார்.
+India supports Sri Lanka's economic growth. Meeting between leaders reaffirms cooperation.
+
+🟩
+
+At this meeting, India will continue to support the Sri Lankan government's efforts for Sri Lanka's sustainable economic development, India will continue to support it.
 
 ◼️
 
 [Data](articles/639503c3.json)
+
+[Extended Data](ext_articles/639503c3.ext.json)
 
 ---
 
@@ -72,23 +78,31 @@ The Sri Lankan government has agreed to focus on investment opportunities in Sri
 
 ---
 
-### ஜனாதிபதிக்கும் இந்திய முன்னணி வர்த்தக பிரதிநிதிகளுக்குமிடையில் கலந்துரையாடல் - இலங்கையில் முதலீடுகள் தொடர்பில் கவனம் செலுத்த விருப்பம் தெரிவிப்பு
+### Discussion between President and Indian Business Representatives - Investments in Sri Lanka
 
 *2024-12-17 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201464) · `ta`
 
-மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இந்தியா சென்றுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, திங்கட்கிழமை (16) பிற்பகல் புதுடில்லியில் இந்திய முன்னணி வர்த்தகப் பிரதிநிதிகளுடன் கலந்துரையாடலில் ஈடுபட்டார்.
+Sri Lankan President Anura Kumara Dissanayake met Indian business leaders in New Delhi. He encouraged investment in Sri Lanka, focusing on digital economy, tourism, renewable energy, and IT. The meeting aimed to strengthen trade ties between the two countries.
 
-இந்திய கைத்தொழில் சம்மேளத்தினால் ஏற்பாடு செய்யப்பட்ட இந்த கலந்துரையாடலில் இந்தியாவின் முன்னணி தொழில் முனைவோர் கலந்து கொண்டனர்.
+🟩
 
-இலங்கையில் முதலீடு செய்வதற்கான சாதகமான சூழல் குறித்து விளக்கமளித்த ஜனாதிபதி அநுரகுமார திசாநாயக்க, இலங்கையில் முதலீடு செய்யுமாறு இந்திய தொழில் முனைவோரிடம் கோரிக்கை விடுத்தார்.
+President Anura Kumara Dissanayake, who has visited India on a three -day official visit, held a discussion with Indian leading business representatives in New Delhi on Monday afternoon.
 
-இரு நாடுகளுக்கும் இடையிலான முதலீடு மற்றும் வர்த்தக உறவுகளை விரிவுபடுத்தும் நோக்கில் நடைபெற்ற இந்த கலந்துரையாடலில் டிஜிட்டல் பொருளாதாரம், சுற்றுலா, புதுப்பிக்கத்தக்க எரிசக்தி மற்றும் தகவல் தொழில்நுட்பம் ஆகிய துறைகள் குறித்து விசேட கவனம் செலுத்தப்பட்டது.
+India's leading entrepreneurs participated in the discussion organized by the Indian Industry Federation.
 
-இதன்படி, இரு நாடுகளுக்கும் இடையிலான வர்த்தக நடவடிக்கைகளின் அடிப்படையில் இலங்கையில் முதலீட்டு வாய்ப்புகளை விஸ்தரிப்பது குறித்து கலந்துரையாடப்பட்டது.
+President Anura Kumara Dissanayake, who explained the favorable environment in Sri Lanka, asked the Indian entrepreneurs to invest in Sri Lanka.
+
+The discussion was held to expand the investment and trade ties between the two countries and special attention to the sectors of digital economics, tourism, renewable energy and information technology.
+
+Accordingly, on the basis of trade activities between the two countries, the expanding of investment opportunities in Sri Lanka was discussed.
+
+The Sri Lankan government has agreed to focus on investment opportunities in Sri Lanka and the Sri Lankan government has agreed to provide the necessary investment facilities.
 
 ...
 
 [Data](articles/367af1ee.json)
+
+[Extended Data](ext_articles/367af1ee.ext.json)
 
 ---
 
@@ -1114,19 +1128,31 @@ The police said in court, the police said in court, the police stated in the cou
 
 ---
 
-### ත්‍රීපෝෂ  අඛණ්ඩව ලබාදීම ප්‍රමුඛ අරමුණක්
+### The main purpose of providing the three-citizens
 
 *2024-12-16 18:18:49* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීපෝෂ--අඛණ්ඩව-ලබාදීම-ප්‍රමුඛ-අරමුණක්/11-413675) · `si`
 
-මෙරට ළදරුවන්ට හා මවුවරුන්ට ඉහළම පෝෂණ ගුණයෙන් පරිපූර්ණ, සුව ගුණ සපිරි ත්‍රීපෝෂ අතිරේක  ආහාරය  අඛණ්ඩව ලබාදීම සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රමුඛතම අරමුණක් බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-අමාත්‍යවරයා මේ බව සදහන් කරනු ලැබුයේ ලෝක ආහාර වැඩසටහනේ (World Food Programme) මෙරට නියෝජිතයන් සහ ශ්‍රී ලංකා ත්‍රීපෝෂ සමාගමේ කළමණාකාරීත්වය සමග‍ පසුගියදා සෞඛ්‍ය අමාත්‍යාංශයේදී පැවැත්වූ විශේෂ සාකච්ඡාවක දීය.
 
-ත්‍රීපෝෂ ප්‍රතිලාභීන් වන ළදරුවන්ට, ගර්භනී සහ කිරිදෙන මව්වරුන්ට ත්‍රීපෝෂ අතිරේක ආහාරය ලබාදීමේ වැඩසටහන වඩාත් ඵළදායීතාවයෙන්, විධිමත්ව, කාර්යක්ෂමව සහ සෞඛ්‍යාරක්ෂිතව ඉදිරියටත් ක්‍රියාත්මක කිරීම පිළිබදව මෙහිදී ඉතා දීර්ඝ වශයෙන් සාකච්ඡා කෙරිණි.
+
+Sri Lanka's Health Minister Dr. Nalinda Jayatissa discusses infant and maternal nutrition with World Food Program officials. Focuses on providing high-quality nutrients through efficient programs to combat malnutrition. Emphasizes education and ensuring food safety standards.
+
+🟩
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa emphasizes the main objective of the Ministry of Health to provide the highest nutritional equipment to infants and mothers in Sri Lanka.
+
+The Minister was speaking at a special discussion held in the Ministry of Health with the administrative representatives of the World Food Program and the management of the Government of Sri Lanka.
+
+The three-centered infants, who are pregnant and militant mothers, the program provides the three-way efficiency of the three-productive food, formally, efficiently and hostile continuously and healthly and healthy and hostility.
+
+Families of Food Production Organization (Nutrients)The discussion was held with the objective of doing.
 
 ...
 
 [Data](articles/696a9cb8.json)
+
+[Extended Data](ext_articles/696a9cb8.ext.json)
 
 ---
 

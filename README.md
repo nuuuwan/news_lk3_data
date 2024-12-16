@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 15:02:15**
+As of **2024-12-16 15:14:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,416 (99.9%) of 60,455 articles have been extended.
+60,418 (99.9%) of 60,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -410,25 +410,35 @@ The Minister of Justice also stated that the Parliamentary Secretariat had subse
 
 [Data](articles/54bb64cb.json)
 
+[Extended Data](ext_articles/54bb64cb.ext.json)
+
 ---
 
-### පොලොන්නරුවෙන් පමණක් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වෙයි
+### There are 21 livestock and 70 lives of wild elephants in Polonnaruwa alone
 
 *2024-12-16 11:57:31* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-පමණක්-මිනිස්-ජීවිත-21-ක්-සහ-වන-අලින්ගේ-ජීවිත-70-ක්-අහිමි-වෙයි/11-413663) · `si`
 
-මේ වසරේ ගත වූ කාලය තුළ පොළොන්නරුව වනජීවී කලාපයේ පමණක් අලි මිනිස් ගැටුම් වලින් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වී ඇති බව පොළොන්නරුව වනජීවී කලාප කාර්යාලයේ තොරතුරු සනාථ කරයි.
+Polonnaruwa: 21 humans, 70 elephants killed in conflicts. Human activities like habitat destruction and poaching cause elephant deaths. 104 humans, 600 elephants lost since 2017.
 
-විදුලි සැර වැදීම්,හක්ක පටස් වලට අලි ගොදුරු වීම, දුම්රියේ ගැටීම, දඩයම් කරුවන්ගේ  වෙඩි තැබීම්, ඇතුළු
+🟩
 
-මිනිස් ක්‍රියාකාරකම් හේතුවෙන් මෙලෙස වන අලින්ගේ ජීවිත  අහිමි වී ඇති බව පොළොන්නරුව කලාප කාර්යාලයේ වනජීවී නිලධාරියකු අප කළ විමසීමකදී සඳහන් කළේය.
+In the wild Polonnaruwa, the Polonnaruwa Wildlife Zone has lost 21 human lives and 70 lives in the Polonnaruwa and 70 lives in human conflicts and 70 lives in the Polonnaruwa.
 
-වන අලින්ගේ වාසස්ථාන ශුද්ධ පවිත්‍ර කර මහා පරිමාණයෙන් වගාවන් සිදු කිරීම, අනවසරයෙන් රක්ෂිත තුළට ඇතුළුවීමෙන් අලි ප්‍රහාරයට ගොදුරු වීම, වන අලි ගම් වැදීමෙන් ගොවියන් වන අලින්ට ගොදුරුවීම ඇතුළු කරුණු කිහිපයක්  වන අලින්ගෙන් මිනිස් ජීවිත විනාශයට හේතු වී ඇති බවද හෙතෙම කීය.
+Elephant victims, collision, hit by train, hunted
 
-වන අලි ප්‍රහාරවලින් 2023 වසරේ මිනිස් ජීවිත 39 ක් අකාලයේ රටට අහිමි වී ඇති අතර, එම වසරේ වන අලි 104 දෙනෙකු මියගොස් ඇති බවද පොළොන්නරුව වනජීවී කලාප කාර්යාලීය සංඛ්‍යා ලේඛනය තොරතුරු අනාවරණය කරයි.
+According to a Wildlife Officer of the Polonnaruwa Zonal Office, we said that the lives of the elephants have been lost due to human activity.
 
-...
+He said that the abuse of the wild elephants are cleansed by the habitat and large scale plantation in the unauthorized reserves, including a few things to the victim of the elephant attack, have caused human lives in the elephant.
+
+The Department of Wildlife Zonal Register has revealed that 104 people of the Polonnaruwa had died in 2023 from 2023.
+
+The country has lost 600 elephants due to human activity in the wild Polonnaruwa since 2017, and 189 human lives have been lost in the same period
+
+◼️
 
 [Data](articles/56309ae2.json)
+
+[Extended Data](ext_articles/56309ae2.ext.json)
 
 ---
 

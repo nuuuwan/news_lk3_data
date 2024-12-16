@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 18:40:58**
+As of **2024-12-16 19:03:42**
 
 ## Newspaper Stats
 
-*Scraped **60,491** Articles*
+*Scraped **60,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,655
-economynextcom | 3,674
+economynextcom | 3,682
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,753
+adalk | 5,754
 adaderanalk | 7,370
 tamilmirrorlk | 8,645
 virakesarilk | 9,962
@@ -26,91 +26,187 @@ adaderanasinhalalk | 10,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,441 (99.9%) of 60,491 articles have been extended.
+60,445 (99.9%) of 60,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### ”நாமல் மோசடி செய்து பட்டம் பெற்றதற்கான ஆதாரங்கள் உள்ளன”
+### Sri Lanka, India discuss passenger ferry service between Rameshwaram and Talaimannar
+
+*2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-discuss-passenger-ferry-service-between-rameshwaram-and-talaimannar-194528/) · `en`
+
+ECONOMYNEXT – Sri Lanka and India have discussed resuming a second passenger ferry service between the island and the sub-continent during President Anura Dissanayake’s state visit.
+
+“While expressing satisfaction at the resumption of the passenger ferry service between Nagapattinam and Kankesanthurai, they agreed that officials should work towards the early recommencement of the passenger ferry service between Rameshwaram and Talaimannar,” a statement issued after Dissanayake met Indian Prime Minister Narendra Modi read.
+
+The ferry service between Nagappatinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka commenced on October 14, 2023.
+
+India has agreed to fund the renovation of Kankesanthurai port in the north of the island through grant assistance.
+
+Both leaders stressed the need for building further connectivity. (Colombo/Dec16/2024)
+
+◼️
+
+[Data](articles/e95caea3.json)
+
+---
+
+### "There is evidence of the degree of fraud and graduated"
 
 *2024-12-16 18:33:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-மோசடி-செய்து-பட்டம்-பெற்றதற்கான-ஆதாரங்கள்-உள்ளன/175-348807) · `ta`
 
-முன்னாள் அமைச்சர் நாமல் ராஜபக்ஷவுக்கு 11 வருடங்களுக்கு முன்னர் சட்டப் பரீட்சையின் போது முன்னுரிமை அளிக்கப்பட்டதாக குற்றப் புலனாய்வு திணைக்களத்தில் (CID) சிவில் சமூக பிரதிநிதி ஒருவர் இன்று (16) முறைப்பாடு செய்துள்ளார்.
+Namal Rajapaksa fraud allegations: Former minister accused of cheating in 2011 legal exam. Civil society group lodges CID complaint seeking investigation and cancellation of his law degree. Speaker calls for resignation of MPs without valid qualifications.
 
-மோசடி, ஊழல் மற்றும் விரயத்திறகு எதிரான பிரஜைகள் இயக்கத்தின் தலைவர் ஜமுனி கமந்த துஷாரவினால் இந்த முறைப்பாடு சமர்ப்பிக்கப்பட்டுள்ளது.
+🟩
 
-முறைப்பாட்டை பதிவு செய்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த கமந்த துஷார, ராஜபக்ச மோசடி செய்து சட்டப் பட்டம் பெற்றதற்கான ஆதாரங்கள் இருப்பதாகக் கூறினார்.
+A civil society representative has lodged a complaint with the Criminal Investigation Department (CID) today (16) that former minister Namal Rajapaksa was given priority during the legal exam 11 years ago.
 
-ராஜபக்சே தனது சட்டப் பரீட்சைக்கு அமரும் போது தனியறையில் இரண்டு சட்டத்தரணிகள் அவருக்கு உதவியதாக துஷார மேலும் குற்றம் சாட்டினார். இந்த விவகாரத்தை சிஐடி உடனடியாக விசாரிக்க வேண்டும் என்று அவர் வலியுறுத்தினார்.
+The complaint has been submitted by Jamuni Kamantha Dushara, the leader of the citizens' movement against fraud, corruption and waste.
 
-“நாமல் ராஜபக்சவின் சட்டப் பட்டம் மோசடியானது என்பது நிரூபிக்கப்பட்டால், பட்டம் உடனடியாக ரத்து செய்யப்பட வேண்டும், மேலும் சம்பந்தப்பட்ட அனைத்து அதிகாரிகளுக்கும் எதிராக சட்ட நடவடிக்கை எடுக்கப்பட வேண்டும்” என்று துஷார கோரினார்.
+Kamantha Dushara, who spoke to the media after lodging a complaint, said that Rajapakse had evidence of a law degree.
+
+Dushara further accused two lawyers of helping him while Rajapakse was sitting in his legal exam.. He urged the CIT to investigate the matter immediately.
+
+"If Namal Rajapaksa's legal degree is fraudulent, the degree should be immediately canceled and legal action should be taken against all concerned authorities."
 
 ...
 
 [Data](articles/eaa010be.json)
 
+[Extended Data](ext_articles/eaa010be.ext.json)
+
 ---
 
-### ව්‍යාජ හමුදා බුද්ධි අංශ හැඳුනුම්පතක් සමග අයෙක් අත්අඩංගුවට
+### Suspect arrested with fake military intelligence
 
 *2024-12-16 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204438) · `si`
 
-හමුදා බුද්ධි අංශ නිලධාරීන් භාවිත කරන හැඳුනුම්පතට සමාන ව්‍යාජ හැඳුනුම්පතක් සන්තකයේ තබාගෙන භාවිත කළ බව කියන සැකකාර පුද්ගලයෙක් ව මෙම මස 20 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත් පවිත්‍රා සංජීවනී පතිරාජ මහත්මිය අද (16) නියෝග කළාය.
+Here's a summary of 200 characters:
 
-පෑලියගොඩ පොලීසිය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ විරාජ් මධුසංක නැමැත්තෙකු  එසේ රක්ෂිත බන්ධනාගාර ගත කිරීමට නියම කෙරුණි.
 
-පෑලියගොඩ පොලිස්බල ප්‍රදේශය තුළ මාර්ග බාධකයකදී සැකකාර පුද්ගලයා පරීක්ෂාවට ලක් කිරීමේදී ඔහු සතුව තිබේ එම සැකසහිත හැඳුනුම්පත අත්අඩංගුවට ගත් බවද පොලිසිය අධිකරණයට දැන්වීය.
 
-සැකකාර පුද්ගලයා අත්අඩංගුවට ගෙන සිදුකළ ප්‍රශ්න කිරීම්වලදී මේ වනවිට හමුදාවේ සක්‍රීය සේවයේ යෙදී සිටින පුද්ගලයෙකු විසින් ඔහුට එම හැඳුනුම්පත සකස් කරදී ඇති බවට කරුණු අනාවරණය වූ බවද පොලීසිය අධිකරණය දැන්වූ කරුණුවලින් හෙළිවිය.
+Person arrested using fake military ID in Colombo. Magistrate orders remand. Police investigating illegal activities. Suspect linked to active military personnel.
 
-සිද්ධිය සම්බන්ධයෙන් කරුණු දක්වමින් පොලීසිය අධිකරණය හමුවේ කියා සිටියේ එය භාවිත කරමින් සැකකාර පුද්ගලයා කිසියම් නීතිවිරෝධී ක්‍රියාවන් සිදුකර තිබේද නැද්ද යන්න පිළිබඳව තවදුරටත් විමර්ශන සිදුකරන බවය.
+🟩
 
-...
+Colombo Additional Magistrate Pavithra Ms. Pavithraja Pathiraja ordered that a person who was using a pseudo-identity card.
+
+A person named Peliyagoda police arrested by police arrested by police and was also ordered to be remanded.
+
+The police informed the court when the suspect had been arrested in the Peliyagoda Police area in Peliyagoda Police area.
+
+The police have revealed that the identity of the suspect is now aware that he has been prepared by a person who is active in the military.
+
+The police said in court that the suspect was investigating whether the suspect had performed any illegal activities using it.
+
+The police said in court, the police said in court, the police stated in the court.
+
+◼️
 
 [Data](articles/97f40bb0.json)
 
+[Extended Data](ext_articles/97f40bb0.ext.json)
+
 ---
 
-### අඟුලාන ප්‍රදේශයේ තිබී බිළිඳු මළ සිරුරක් හමුවෙයි
+### Sri Lanka leader assures secured Indian Ocean region in Delhi visit
+
+*2024-12-16 18:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-assures-secured-indian-ocean-region-in-delhi-visit-194520/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake assured to ensure a free, open, safe and secure Indian Ocean Region, when he met Indian Prime Minister Narendra Modi in New Delhi on Monday (16).
+
+President Dissanayake is India on a three-day official visit through Tuesday (17) to discuss bilateral relations and other cooperation including defence.
+
+This is Dissanayake’s first foreign visit since elected as the president in September this year following a landslide win in the parliamentary polls last week.
+
+In a joint statement, the both countries said President Dissanayake and Prime Minister Modi acknowledged the importance of regular dialogue based on mutual trust and transparency and giving primacy to each other’s security concerns, recognizing shared security interests of India and Sri Lanka, both leaders.
+
+...
+
+[Data](articles/4989c042.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady
+
+*2024-12-16 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-290-70-80-to-dollar-bonds-steady-194487/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 290.70/80 to the US dollar on Monday from 290.15/30 to the US dollar on Friday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.40/50 percent, up from 9.35/50 percent.
+
+A bond maturing on 15.10.2027 closed at 9.90/10.00 percent, down from 9.95/10.10 percent.
+
+A bond maturing on 15.03.2028 closed at 10.15/25 percent, down from 10.20/30 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.70/80 percent.
+
+A bond maturing on 15.05.2030 closed stable at 10.90/11.10 percent. (Colombo/Dec16/2024)
+
+◼️
+
+[Data](articles/e1bf0f6d.json)
+
+---
+
+### Infantry found in Angulana
 
 *2024-12-16 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204437) · `si`
 
-අඟුලාන දුම්රියපොළ පාරේ ඇළ මාර්ගයේ තිබී අලුත උපන් බිළිඳෙකුගේ මළ සිරුරක් හමුව තිබේ.
+Newborn body found in canal near railway station. Garbage collectors discovered infant remains. Police investigation ongoing due to decomposition.
 
-අදාළ ඇළ මාර්ගයේ කසළ ඉවත් කරන පුද්ගලයින් දෙදෙනෙකුට අද (16)  එම බිළිඳු මළසිරුර හමුව ඇත.
+🟩
 
-අදාළ පුද්ගලයින් දෙදෙනා ඇළ මාර්ගයේ කසළ ඉවත් කරමින් යන අවස්ථාවේ සැකසහිත පොහොර උරයක් ගොඩදමා තිබේ.
+The body of a newborn was found on the Angulana Railway Station Road Road.
 
-ඉන්පසුව එම පුද්ගලයින් දෙදෙනා ඒ පිළිබඳව පොලීසිය දැනුවත් කිරීමෙන් පසු පොලිස් නිලධාරීන් පැමිණ අලුත උපන් බිළිඳු මළ සිරුරක් බව තහවුරු කර ගෙන තිබේ.
+Two people who remove the garbage on the relevant canal have met with the infant.
 
-ගල්කිස්ස අපරාධ ස්ථාන පරීක්ෂණ නිලධාරීන් පැමිණ මූලික විමර්ශන කටයුතු සිදුකළ ඇති අතර මොරටුව වැඩ බලන මහෙස්ත්‍රාත්වරයා පැමිණ මළ සිරුර පිළිබඳව මහෙස්ත්‍රාත් කටයුතු සිදු කරන ලදි.
+The two persons have landed a fertilizer stupid at the end of the garbage on the canal.
 
-මෙම බිළිඳු මළසිරුර දින කිහිපයකට පෙර මෙම ඇළ මාර්ගයට දමා ඇති බවත් සිරුර නරක්වී ඇති බැවින් නියමිත වයස තීරණය කළ නොහැකි බව පොලීසිය පැවසීය.
+Afterwards, the two men were informed of the police after the police had come to the police and confirmed that the police were a newborn body.
+
+Mt.
+
+The infant has been thrown into the canal a few days ago, police said the police could not be determined as the body was spoiled.
 
 ◼️
 
 [Data](articles/7a7ffcb3.json)
 
+[Extended Data](ext_articles/7a7ffcb3.ext.json)
+
 ---
 
-### මෙරට සිවිල් සේවකයන් රැසකට ඉදිරි වසර පහ තුළ ඉන්දියාවේ පුහුණුව
+### Training in India for several civil servants in Sri Lanka
 
 *2024-12-16 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204436) · `si`
 
-ඉදිරි වසර පහ තුළ ශ්‍රී ලංකාවේ සිවිල් සේවකයින් 1500කට ආසන්න ප්‍රමාණයකට ඉන්දියාවේ පුහුණුව ලබා දීමට ඉන්දියාවේදී පුහුණුව ලබාදීමට ද ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි එකඟතාව පළ කර තිබේ.
+Here's a summary in 200 characters:
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක  මහතා සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා අතර සාකච්ඡාව අග්‍රාමාත්‍ය නිල නිවස වන හයිද්‍රාබාද් මැදුරේදී  අද (16) පස්වරුවේ පැවැත්විණි.
 
-එහිදී ද්විත්ව බදුකරණය වැළැක්වීම සහ රාජ්‍ය නිලධාරීන්ගේ ශක්‍යතා වර්ධනය පිළිබඳ අවබෝධතා ගිවිසුම්  හුවමාරු කර ගත් බව ජනාධිපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ දැක්වේ.
 
-ඉන්දීය විදේශ ප්‍රතිපත්තිය තුළ ශ්‍රී ලංකාවට විශේෂ ස්ථානයක් හිමිව ඇති බව තමන් හොඳින් දන්නා බව ජනාධිපති අනුර කුමාර දිසානායක මහතා ඒකාබද්ධ මාධ්‍ය හමුවේදී සිහිපත් කළේය.
+India offers training to 1500 Sri Lankan civil servants over 5 years. Discusses cooperation in agriculture, dairy, fisheries, renewable energy, infrastructure, and marine security.
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා මෙහිදී පවසා ඇත්තේ ජනාධිපති අනුර කුමාර දිසානායක මහතා පළමු විදෙස් සංචාරය සඳහා ඉන්දියාව තෝරා ගැනීම පිළිබඳ තමා සතුටු වන බවය.
+🟩
+
+Indian Prime Minister Narendra Mugse has agreed to provide training in India to nearly 1500 civil servants in Sri Lanka in the next five years.
+
+President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi on a three-day official visit to India was held at the Venerable Heidrabad, the official residence of Indian Prime Minister.
+
+The Presidential Media Unit of the Presidential Media Unit has been exchanged to prevent dual taxation and exchanged MoUs to exchanged MoUs.
+
+President Anura Kumara Dissanayake recalled that Sri Lanka is well aware that Sri Lanka has a special place in the Indian Foreign Policy.
+
+Indian Prime Minister Narendra Modi has said that he is pleased to choose India for the first foreign tour.
+
+The discussion also focuses on the establishment of the electricity, digital and power pipeline between the two countries to strengthen the three physical, digital and energy towers to the relationship between the two countries.
 
 ...
 
 [Data](articles/1a56dbea.json)
+
+[Extended Data](ext_articles/1a56dbea.ext.json)
 
 ---
 
@@ -254,6 +350,22 @@ Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that other
 
 ---
 
+### බලශක්ති අමාත්‍ය ඉංජිනේරු ජයකොඩි සිය උපාධිය ගැන කියයි
+
+*2024-12-16 16:53:41* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-අමාත්‍ය-ඉංජිනේරු-ජයකොඩි-සිය-උපාධිය-ගැන-කියයි/11-413670) · `si`
+
+බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතාගේ අධ්‍යාපන සුදුසුකම් පිළිබදව විශේෂයෙන් සමාජ මාධ්‍ය ඇතුළු විවිධ මාධ්‍ය හරහා සාවද්‍ය තොරතුරු පතුරවන්නන්ට එරෙහිව අමාත්‍යවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+
+තමන් පේරාදෙණිය විශ්ව විද්‍යාලයේ ඉංජිනේරු පීඨයේ අධ්‍යාපනය ලබා විදුලි හා ඉලෙක්ට්‍රොනික් ඉංජිනේරුවෙකු ලෙස උපාධිය ලබාගත් බවත් තමාගේ උපාධි සුදුසුකම් ප්‍රශ්න කරමින් පුද්ගලිකව තමාවත් නව රජයත් අපහසුතාවයට පත් කිරීමට බංකොලොත් දේශපාලන කණ්ඩායම් වල අනුග්‍රහය ලබන සමහර මාධ්‍ය ක්‍රියාකරමින් සිටින බව අමාත්‍යවරයා පවසයි.
+
+මේ අනුව සාවද්‍ය තොරතුරු පතුරවන පුද්ගලයින් හා ආයතන පිළිබදව සොයා බලන ලෙස ඉල්ලා අමාත්‍යවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අද පස්වරුවේ පැමිණිල්ලක් ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/8c038553.json)
+
+---
+
 ### Water capacity in the main reservoirs of the island increases
 
 *2024-12-16 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204434) · `si`
@@ -277,6 +389,26 @@ The Irrigation Department also requests the public to focus on the announcements
 [Data](articles/1c8c9a08.json)
 
 [Extended Data](ext_articles/1c8c9a08.ext.json)
+
+---
+
+### Sri Lanka stocks hit new high
+
+*2024-12-16 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-hit-new-high-194481/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader ASPI closed up 2.08 percent, or 295.10 points, at 14,500; while the more liquid S&P SL20 Index closed up 2.48 percent, or 105.37 points, at 4,349.
+
+Top turnover generators were Ceylinco Holdings (up at 3,045.75), John Keells Holdings (up at 21.70), Sampath Bank (up at 108.75), Hatton National Bank (up at 274.00), and Pan Asia Banking Corporation.
+
+Top positive contributors to the ASPI included Commercial Bank (up at 134.25), and LOLC Holdings (up at 553.25).
+
+Banking stocks fared well after the ISB announcement on Friday.
+
+...
+
+[Data](articles/ff44d472.json)
 
 ---
 
@@ -376,6 +508,28 @@ He also announced that India has decided to provide assistance to rehabilitation
 
 ---
 
+### Sri Lanka, India leaders discuss energy connectivity, fishermen’s issue
+
+*2024-12-16 16:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-leaders-discuss-energy-connectivity-fishermens-issue-194471/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake and Indian Prime Minister Narendra Modi discussed energy connectivity including picking up pace on the Sampur project, during Dissanayake’s first foreign State visit since assuming office.
+
+Modi and Dissanayake addressed a joint press conference in New Delhi and outlined their vision for strengthening bilateral ties.
+
+“In our economic cooperation, we have laid emphasis on investment-led growth and connectivity,” Modi, who spoke in Hindi, was quoted as saying in Indian media.
+
+“We have decided that physical, digital, and energy connectivity will be important pillars of our partnership.
+
+“Work will be done for establishing electricity grid connectivity and a multi-product petroleum pipeline.
+
+Bilateral trade will be boosted by signing the stalled ETCA agreement, he said.
+
+...
+
+[Data](articles/c544de91.json)
+
+---
+
 ### Diminishing eggs
 
 *2024-12-16 16:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைவிலை-குறைகிறது/175-348801) · `ta`
@@ -425,6 +579,22 @@ The Public Utilities Commission said that the final decision on the Electricity 
 [Data](articles/099451a2.json)
 
 [Extended Data](ext_articles/099451a2.ext.json)
+
+---
+
+### Sri Lanka India joint statement after meeting between President Dissanayake and PM Modi
+
+*2024-12-16 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-joint-statement-after-meeting-between-president-dissanayake-and-pm-modi-194473/) · `en`
+
+ECONOMYNEXT – A joint statement was released after a meeting between Sri Lanka President Anura Kumara Dissanayake and Prime Minister Narendra Modi of India.
+
+Prime Minister of India His Excellency Shri Narendra Modi and President of Sri Lanka His Excellency Anura Kumara Disanayaka had comprehensive and fruitful discussions at their meeting in New Delhi on 16 December 2024, during the latter’s State Visit to the Republic of India.
+
+2. The two leaders reaffirmed that the India-Sri Lanka bilateral partnership is underpinned by deep-rooted cultural and civilizational ties, geographical proximity and the people-to-people relations.
+
+...
+
+[Data](articles/e40c0cd6.json)
 
 ---
 
@@ -962,6 +1132,28 @@ Foreign Ministers of the two countries, Vijitha Herath and Dr. S.. Jeyishankar a
 
 ---
 
+### Sri Lanka rice importers forced to cancel orders amid state food controls
+
+*2024-12-16 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-importers-forced-to-cancel-orders-amid-state-food-controls-194445/) · `en`
+
+ECONOMYNEXT – Several Sri Lanka importers have cancelled orders for rice due to a narrow window to ship products, and price controls, with bad weather in India leading to vessel delays, trade sources said.
+
+Sri Lanka lifted food controls on the people through licensing, imposed during Rajapaksa regimes, till December 20, allowing private companies to import rice.
+
+“There has been bad weather in Tamil Nadu which delayed shipping,” an industry official said. “We were only given till December 20.
+
+“We cannot do miracles. There is the threat of re-exports if there is a delay. So many importers have cancelled orders.
+
+In addition to the small window, a tax of 65 rupees a kilo (about 220 US dollars a tonne or close to 50 percent of the export prices of 450 dollars plus) imposed on the people, remains.
+
+Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
+
+...
+
+[Data](articles/bbf298eb.json)
+
+---
+
 ### Incorrect data; CID went to Justice Minister
 
 *2024-12-16 12:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-தரவுகள்-CID-சென்றார்-நீதியமைச்சர்/175-348794) · `ta`
@@ -1099,6 +1291,22 @@ The Indian national, Prem Thakur, who owns a franchise in the tournament, was ta
 [Data](articles/6d9c7829.json)
 
 [Extended Data](ext_articles/6d9c7829.ext.json)
+
+---
+
+### Sri Lanka sells extra Rs4.2bn Treasury bonds after auction
+
+*2024-12-16 12:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs4-2bn-treasury-bonds-after-auction-194443/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 4.259 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold a 15 September 2029 maturity bond (LKB00629I154) at a weighted average yield rate of 10.75 percent.
+
+Date of settlement of the above issuance is 16 December 2024. (Colombo/Dec16/2024)
+
+◼️
+
+[Data](articles/04e76061.json)
 
 ---
 
@@ -2109,241 +2317,5 @@ Meanwhile, the Department of Meteorology has advised that heavy rains are likely
 [Data](articles/de633401.json)
 
 [Extended Data](ext_articles/de633401.ext.json)
-
----
-
-### In several special meetings in India
-
-*2024-12-16 07:59:00* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-ඉන්දියාවේදි-විශේෂ-හමු-කිහිපයක/10-413658) · `si`
-
-India:0
-
-🟩
-
-President Anura Kumara Dissanayake on three-day official visit to India. Jeyasankar (dr. S. Jishankar and the National Security Advisor of India (Sri Ajith Dowal) and Sri Ajith Dovoal have held discussions.
-
-Indian Finance and Corporate Affairs Minister Namula Seetha Raman, Minister of Indian Finance and Corporate Affairs, is widely discussed at the meeting of the Indo-Sri Lanka to enhance investment opportunities between the two countries.
-
-It was also discussed that Indian tourists to bring more Indian tourism and digital infrastructure development.
-
-Foreign Minister Dr. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S. S.S.
-
-Dr. S. S.Shasankar said that the Indian government expresses the sovereporty in Sri Lanka's tourism, investment and energy areas (DR. S. JAKankar said.
-
-The discussion also focused on the areas of interested in the fisheries and national unity.
-
-...
-
-[Data](articles/07462989.json)
-
-[Extended Data](ext_articles/07462989.ext.json)
-
----
-
-### ජනපති ඉන්දියාවේදි විශේෂ හමු කිහිපයක
-
-*2024-12-16 07:59:00* · [`adalk`](https://www.ada.lk/uncategorized/ජනපති-ඉන්දියාවේදි-විශේෂ-හමු-කිහිපයක/1-413658) · `si`
-
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත  ජනපති අනුර කුමාර දිසානායක මහත.ා නවාතැන්ගෙන සිටින නවදිල්ලි නුවර ITC MAURYA හෝටලය වෙත ඊයේ (15) පැමිණි ඉන්දීය මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතා රාමන්, විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් (Dr. S. Jaishankar) සහ ඉන්දියාවේ ජාතික ආරක්ෂක උපදේශක ශ්‍රී අජිත් දොවාල් (Shri Ajith Doval) යන මහත්ම මහත්මීන් ජනපති හා සාකච්ඡා පවත්වා තිබේ.
-
-ඉන්දු - ශ්‍රී ලංකා ආර්ථික සහයෝගීතාව ඉහළ නංවා ගැනීම මෙන්ම දෙරට අතර ආයෝජන අවස්ථා පුළුල් කර ගැනීම පිළිබඳව ඉන්දීය මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතා රාමන් මහත්මිය හා ජනපති  අතර පැවති හමුවේදී පුළුල් ලෙස සාකච්ඡා වී තිබේ.
-
-එසේම ඉන්දියානු සංචාරකයින් වැඩි වශයෙන් ශ්‍රී ලංකාවට ගෙන්වා ගැනීම, ශ්‍රී ලංකාවේ කෘෂි නවීකරණ සහ ඩිජිටල් යටිතල පහසුකම් සංවර්ධනය පිළිබඳව ද මෙහිදි සාකච්ඡා විය.
-
-විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්.ජයිශංකර් මහතා අතර හමුව ඉතා සුහදශීලි ලෙස පැවැත්වුණු අතර ශ්‍රී ලංකාවේ ආර්ථික පුනරදය ඇති කිරීම සඳහා ඉන්දියාවේ දැවැන්ත වෙළඳපොළ ප්‍රයෝජනයට ගැනීමේ හැකියාව පිළිබඳ එහිදී අවධානයට ලක් ව තිබේ.
-
-...
-
-[Data](articles/7c172378.json)
-
----
-
-### Working in the train accident of Beliwatta
-
-*2024-12-16 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204416) · `si`
-
-Beliwatta train crash: Two trains collided at station. Three injured. Alternative transport arranged.
-
-🟩
-
-According to the Railway Department, three persons have been involved in the accident that two trains were collided at the Beliatta Station.
-
-The transfer of engaging in the Beliatta to Anuradhapura at the Beliatta Station, the wrongly accident had been hit by the accident.
-
-Accordingly, three employees of three employees have been implemented in the incident.. Mr. Sampantha said.
-
-He also said that necessary steps have been taken to deploy alternative trains instead of trains.
-
-◼️
-
-[Data](articles/26d8877e.json)
-
-[Extended Data](ext_articles/26d8877e.ext.json)
-
----
-
-### Jaishankar - Anura Meeting
-
-*2024-12-16 07:49:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெய்சங்கர்-அநுர-சந்திப்பு/175-348775) · `ta`
-
-S. Jaishankar met Sri Lankan President Anura Kumara Dissanayake during his India visit. They discussed bilateral relations, maritime security, and fishermen disputes.
-
-🟩
-
-Union Minister of State for Foreign Affairs S. Jaishankar met Sri Lankan President Anura Kumara Dissanayake, who is on an official visit to India.
-
-I am proud to meet at the beginning of his first official visit to India. He said Sri Lanka is the most important place in both policy and Sagar theory for India's foreign exchange.
-
-Anura meets Indian President Draupadi Murmu and Prime Minister Modi on his tour. It is said that the fishermen's disputes, including the problem of fishermen, may be consulted on the problems and future plans.. Remble
-
-◼️
-
-[Data](articles/b47c1866.json)
-
-[Extended Data](ext_articles/b47c1866.ext.json)
-
----
-
-### The mother died commits suicide
-
-*2024-12-16 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204414) · `si`
-
-Son kills mother, then self in Godakawela. Residents report son was previously injured in conflict between Sri Lanka and Guruherawa in Udawalawe.
-
-🟩
-
-The son who had killed his mother had committed suicide while he had been attacked with a sharp weapon and killed his mother with a sharp weapon.
-
-Her son had been assaulted by her son in Godakawela, Godakawela area.
-
-Residents of the area told police that the son had been committed to the area after the man had been shot dead by firearms of Sri Lanka and Guruherawa in Udawalawe.
-
-◼️
-
-[Data](articles/5a5a7222.json)
-
-[Extended Data](ext_articles/5a5a7222.ext.json)
-
----
-
-### The official celebration of the President's welcome today
-
-*2024-12-16 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204413) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake arrives in India for 3-day visit. Official ceremony begins at 10 AM. Met with Indian officials, discussing economy, tourism, and energy. To visit Mahatma Gandhi monument and meet PM Modi.
-
-🟩
-
-The official ceremony of President Anura Kumara Dissanayake is conducting a three-day official visit to India today (16) in the Indian official residence, British.
-
-The official ceremony of the President will begin this morning at 10 am.
-
-The flight of the President and the President arrived at the Indira Gandhi International Airport in New Delhi, India, Lanka's first foreign visit yesterday (15).
-
-Last Information and Communication Minister Dr. S. The President has been welcomed at the airport, including Indian High Commissioner of Indian High Commissioner of Sri Lanka.
-
-Subsequently, the President was produced by Indian Finance and Corporate Affairs, Industry Minister Dr. S. San. The President has held discussions with the President of Jeyasankar and India's National Security Advisor.
-
-The President and Indian Finance and Corporate Affairs, Indian Finance and Corporate Affairs, Indian Finance and Corporate Affairs, Namula Sita Raman, has been discussed in the meetings.
-
-...
-
-[Data](articles/bad090ce.json)
-
-[Extended Data](ext_articles/bad090ce.ext.json)
-
----
-
-### Sri Lanka President in economic talks with Indian finance, foreign ministers
-
-*2024-12-16 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-in-economic-talks-with-indian-finance-foreign-ministers-194403/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has discussed expanding economic ties between the two countries in talks with Finance Minister Nirmala Sitharaman, and External Affairs Minister S Jaishankar, a statement said.
-
-“Extensive discussions were held between President Dissanayake and Minister Sitharaman on enhancing Indo-Sri Lankan economic cooperation and expanding investment opportunities between the two countries,” the President’s media office said.
-
-“The talks also covered bringing more Indian tourists to Sri Lanka, modernizing Sri Lanka’s agriculture sector, and developing digital infrastructure.”
-
-In talks with External Affairs Minister Jaishankar the potential for utilizing India’s vast market to aid Sri Lanka’s economic recovery was explored.
-
-“The discussions also addressed areas of mutual interest, such as advancing the fisheries industry and fostering national unity in Sri Lanka,” the statement said.
-
-...
-
-[Data](articles/9708ad60.json)
-
-[Extended Data](ext_articles/9708ad60.ext.json)
-
----
-
-### Selection of the new Speaker tomorrow
-
-*2024-12-16 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204412) · `si`
-
-Parliament meets tomorrow to elect new Speaker. Activities resume after Ashoka Ranwala's resignation. Government proposes candidate, Deputy Speaker also suggests one. Ruling party decides today. Opposition MP Nalin Bandara proposes opposition member for Speaker.
-
-🟩
-
-Accordingly, the Parliament will meet with the two days tomorrow and tomorrow (17).
-
-A new Speaker is to be elected vacant Speaker.
-
-It is reported that the activities of Parliament will be normal.
-
-The first has been allocated for issues that direct the verbal answer to 10 am to 10.30am.
-
-However, it will take place at the beginning of the selection of a new Speaker.
-
-Ashoka Ranwala Resignation of Ashoka Ranwala, the resignation of Mr. Asoka Ranwala, is now vacant by the Speaker of the 10th Parliament.
-
-However, the government has already been proposed by the government for the Speaker and the current Deputy Speaker has also proposed it.
-
-In the prevailing situation, a meeting of the ruling party group will be held today for a final decision on the new Speaker.
-
-Meanwhile, former parliamentarian Askara Marasinghe said that it is not an act of proposing a Member of Parliament from the Opposition for the Speaker.
-
-...
-
-[Data](articles/be9e3a64.json)
-
-[Extended Data](ext_articles/be9e3a64.ext.json)
-
----
-
-### Special notice to the North and East people
-
-*2024-12-16 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204410) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Weather alert: Low-pressure zone forming Bay of Bengal. Possible Tamil Nadu coastal impact in 2 days. Heavy rains (100mm) expected in Northern, Eastern, North-Central, Uva provinces. Strong winds (40km/h) forecasted in Northern, North-Central, Northwestern regions. Thunderstorms possible nationwide. Public advised to be cautious.
-
-🟩
-
-There is a possibility of creating a lower pressure zone in the next 24 hours in the Bay of Bay of Bengal area.
-
-After that, in the next two days, it is capable of moving to the Tamil Nadu coast near the north of the island.
-
-The meteorological Department of Meteorological Department requests the next predictions and announcements issued in the eastern and northern provinces of the island.
-
-Showers or thundershowers will occur at times in the Northern, Eastern, North-Central, Uva and North Western Provinces. Showers or thundershowers will occur at the evening or night.
-
-MM in the Northern, Eastern, North-Central and Uva provinces. Heavy rain can occur around 100.
-
-From time to time in the Northern, North-Central and Northwestern provinces, Matale and Trincomalee districts.. There are about 40 high winds.
-
-In the middle of the middle, Sabaragamuwa and Southern provinces can last a night.
-
-...
-
-[Data](articles/472acbd8.json)
-
-[Extended Data](ext_articles/472acbd8.ext.json)
 
 ---

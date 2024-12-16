@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 18:03:55**
+As of **2024-12-16 18:24:19**
 
 ## Newspaper Stats
 
-*Scraped **60,479** Articles*
+*Scraped **60,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,752
+adalk | 5,753
 adaderanalk | 7,370
 tamilmirrorlk | 8,644
 virakesarilk | 9,955
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,441 (99.9%) of 60,479 articles have been extended.
+60,441 (99.9%) of 60,480 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,22 @@ The Irrigation Department also requests the public to focus on the announcements
 [Data](articles/1c8c9a08.json)
 
 [Extended Data](ext_articles/1c8c9a08.ext.json)
+
+---
+
+### මාතලේ SSP ගේ පුද්ගලික සහකාර CI අනතුරට ලක්කර පළා ගිය රියදුරු අල්ලයි
+
+*2024-12-16 16:45:51* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-SSP-ගේ-පුද්ගලික-සහකාර-CI-අනතුරට-ලක්කර-පළා-ගිය-රියදුරු-අල්ලයි/11-413669) · `si`
+
+මාතලේ කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයාගේ පුද්ගලික සහකාර තනතුරේ රාජකාරි ඉටුකරමින් සිටි ප්‍රධාන පොලිස් පරීක්ෂක එස්.පී.එම්.එල්.බී මොලගොඩ මහතා අනතුරට ලක්කර පලාගිය කාර් රථයේ රියදුරු මාතලේ පොලිස් වසමේ උකුවෙල ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+අනතුරින් සුසුම්නාවට බරපතල හානි සිදුවීමෙන් ප්‍රධාන පොලිස් පරීක්ෂකවරයා එම ස්ථානයේම ජීවිතක්ෂයට පත්විය.
+
+සිසිටිවි දර්ශන සහ අනෙකුත් හෝඩුවාවන් ඇසුරෙන් මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශය සහ මාතලේ පොලිස් ස්ථානය විමර්ශන සිදුකර15 වන දින වයස අවුරුදු 46 ක් වන සැකකාර රියදුරු දුම්කොලවත්ත, මාතලේ ප්‍රදේශයේදී අත්අඩංගුවට ගත් අතර අනතුරෙන් පසු අදාල කාර් රථය සැඟවීමට ආධාර අනුබල දුන් වයස අවුරුදු 48 ක් වන කලල්පිටිය,උකුවෙල ප්‍රදේශයේ පදිංචිකරුවෙකු පිළිබඳව අනාවරණය වීමෙන් මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශයේ නිලධාරීන් එම සැකකරුද කාර් රථය සමඟ අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/c2d33a3d.json)
 
 ---
 
@@ -2345,39 +2361,5 @@ One person who calls himself an independent journalist from Kilinochchi has trie
 [Data](articles/937adad2.json)
 
 [Extended Data](ext_articles/937adad2.ext.json)
-
----
-
-### Jevna Titans qualified to play in the final round
-
-*2024-12-16 02:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201379) · `ta`
-
-Jevna Titans wins Lanka R10 Super League Cricket match against Nuwara Eliya Kings by 53 runs. They qualify for the final round with their 4th victory. Key performances: Sarit Asalan & Dom Abeel's 89-run partnership, Karunaratne's unbeaten 56.
-
-🟩
-
-Jevna Titans won by 53 runs in the Lanka R10 Super League Cricket match between Jevna Titans and Nuwara Eliya Kings at the Pallekele International Cricket Stadium on Sunday night.
-
-This is the 4th victory that Jevna Titans earned in the inauguration of the Sri Lanka R10 Super League Cricket Tournament. Another match of Jevna Titans did not end.
-
-Jevna Titans qualified as the first team to play in the final round.
-
-Jevna Titans, who were first invited to bat first in today's match, lost by 4 wickets in 10 overs and scored 153 runs.
-
-Both the initial players, Dom Kohler Ketmore (7) and Kusal Mendis (9), lost the number.
-
-Both Sarit Asalan and Dom Abeel shared 89 off 34 balls in the 3rd wicket.
-
-Sarit Asalankku scored 33 runs off 17 balls, 33 runs with 2 sixes while Dom Abeel scored 59 off 24 balls with 8 pounds and 3 sixes.
-
-Team captain David Vice continued to play with 14 runs and Twin Prideor 18 runs.
-
-In reply, the Nuwara Eliya Kings lost 8 wickets in 10 overs and lost 108 runs.
-
-...
-
-[Data](articles/5053e7e7.json)
-
-[Extended Data](ext_articles/5053e7e7.ext.json)
 
 ---

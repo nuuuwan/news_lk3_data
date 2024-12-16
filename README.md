@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 09:08:21**
+As of **2024-12-16 09:24:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,375 (100.0%) of 60,401 articles have been extended.
+60,377 (100.0%) of 60,401 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,6 +124,8 @@ Following the meeting last night (15) with Sri Lanka’s President Anura Kumara 
 
 [Data](articles/0661608d.json)
 
+[Extended Data](ext_articles/0661608d.ext.json)
+
 ---
 
 ### North and East alerted as low-pressure system develops in Bay of Bengal
@@ -145,6 +147,8 @@ Showers or thundershowers may occur at several places elsewhere during the eveni
 ...
 
 [Data](articles/3697371a.json)
+
+[Extended Data](ext_articles/3697371a.ext.json)
 
 ---
 

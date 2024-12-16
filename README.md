@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 09:43:24**
+As of **2024-12-16 10:02:22**
 
 ## Newspaper Stats
 
-*Scraped **60,404** Articles*
+*Scraped **60,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,654
 economynextcom | 3,671
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,737
+adalk | 5,738
 adaderanalk | 7,355
-tamilmirrorlk | 8,629
+tamilmirrorlk | 8,630
 virakesarilk | 9,945
 adaderanasinhalalk | 10,441
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,380 (100.0%) of 60,404 articles have been extended.
+60,383 (100.0%) of 60,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### பெரும் நெருக்கடிக்குள் அரசாங்கம் வீழ்ந்துள்ளதா?
+
+*2024-12-16 09:51:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்-நெருக்கடிக்குள்-அரசாங்கம்-வீழ்ந்துள்ளதா/175-348787) · `ta`
+
+கடந்த ஜனாதிபதி தேர்தலின் போது, அரசாங்கம் கடன்களை பெற்றுக்கொள்வது தொடர்பில் பல்வேறு கருத்துக்கள் வெளியாகியிருந்தன. எனினும் அரசாங்கம் அதிகமாக கடன்களை பெற்றுக்கொள்வதாக சிலர் வாதிடுகின்றனர். அரசாங்கம் கடன்களை பெற்றுக்கொள்வது ஏற்றுக்கொள்ளகூடியது என சிலர் பதிலளிக்கின்றனர். இந்த நிலையில் பெற்றுக்கொள்கின்ற கடன்கள் வரவு செலவு திட்டத்தின் பற்றாக்குறையை நிவர்த்தி செய்வதற்காகவா, அல்லது நாங்கள் ஏற்கனவே பெற்றுக்கொண்டுள்ள கடன்களை மீள செலுத்துவதற்காகவா என்று முரண்பட்ட கூற்றுக்கள் காணப்படுகின்றன. இலங்கை அரசாங்கம் கடன்களை பெற்றுக்கொள்வது தொடர்பில் மூன்று முக்கிய கேள்விகளை FactCheck.lk தெளிவுபடுத்துகின்றது.
+
+அரசாங்கங்கள் மூன்று பிரதான காரணங்களுக்காக கடன்களை பெறுகின்றன. முதலாவதாக பிரதான நிதி பற்றாக்குறையை நிவரத்தி செய்வதற்கு. இரண்டாவது கடன்கள் மற்றும் வட்டியை செலுத்துவதற்கு. மூன்றாவதாக முதிர்வு கடன்களை அடைப்பதற்கு.
+
+...
+
+[Data](articles/d78647ca.json)
+
+---
 
 ### Problem with the titles of many MPs
 
@@ -288,21 +302,27 @@ The discussion also focused on the areas of interested in the fisheries and nati
 
 ---
 
-### බෙලිඅත්තේ දුම්රිය අනතුරට තිදෙනෙකුගේ වැඩතහනම්
+### Working in the train accident of Beliwatta
 
 *2024-12-16 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204416) · `si`
 
-බෙලිඅත්ත දුම්රිය ස්ථානයේ දී දුම්රිය දෙකක් එකිනෙක ගැටීමෙන් සිදුවූ අනතුර සම්බන්ධයෙන් තිදෙනෙකුගේ වැඩතහනමට ලක්කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Beliwatta train crash: Two trains collided at station. Three injured. Alternative transport arranged.
 
-බෙලිඅත්ත දුම්රිය ස්ථානයේ දී බෙලිඅත්තේ සිට අනුරාධපුරය දක්වා ධාවන කිරීමට සැලසුම්කර තිබු රජරට රැජිණ දුම්රියේ එංජිම මාරු කිරීමේදී එය වැරදි පීල්ලේ ධාවනය වීම හේතුවෙන් එහි නවතා තිබූ සාගරිකා දුම්රියේ ගැටී ඊයේ (15) පෙරවරුවේ අනතුරක් සිදුව තිබුණි.
+🟩
 
-ඒ අනුව එම සිද්ධිය සම්බන්ධයෙන් මේ වන විට එහි සේවකයින් තිදෙනෙකුගේ වැඩතහනමට ලක් කර ඇති බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්.ජේ. ඉඳිපොලගේ මහතා සඳහන් කළේය.
+According to the Railway Department, three persons have been involved in the accident that two trains were collided at the Beliatta Station.
 
-එමෙන්ම අදාළ දුම්රියන් වෙනුවට විකල්ප දුම්රියන් යෙදවීමට ද අවශ්‍ය පියවර ගෙන ඇති බව ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+The transfer of engaging in the Beliatta to Anuradhapura at the Beliatta Station, the wrongly accident had been hit by the accident.
+
+Accordingly, three employees of three employees have been implemented in the incident.. Mr. Sampantha said.
+
+He also said that necessary steps have been taken to deploy alternative trains instead of trains.
 
 ◼️
 
 [Data](articles/26d8877e.json)
+
+[Extended Data](ext_articles/26d8877e.ext.json)
 
 ---
 
@@ -328,39 +348,57 @@ Anura meets Indian President Draupadi Murmu and Prime Minister Modi on his tour.
 
 ---
 
-### මව මැරූ පුතා සියදිවි නසාගනී
+### The mother died commits suicide
 
 *2024-12-16 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204414) · `si`
 
-පුද්ගලික ආරවුලක් මත ඇති වූ බහින් බස්වීමක් දුරදිග ගිය අවස්ථාවේදී තියුණු ආයුධයකින් පහරදී සිය මව ඝාතනය කළ පුත්‍රයා සියදිවි නසාගෙන ඇති බව පොලීසිය පවසයි.
+Son kills mother, then self in Godakawela. Residents report son was previously injured in conflict between Sri Lanka and Guruherawa in Udawalawe.
 
-ඊයේ (15) ගොඩකවෙල, බිසෝකොටුව ප්‍රදේශයේදී 82 හැවිරිදි කාන්තාවක්ව සිය පුතා විසින් මෙලෙස පහරදී ඝාතනය කර තිබුණි.
+🟩
 
-පසුව එම පුත්‍රයා ප්‍රදේශයෙන් පළා ගොස් සිට ඇති අතර පසුව එම පුද්ගලයා ද උඩවලව, ගුරුමඩයාය ප්‍රදේශයේදී මෙරට නිෂ්පාදිත ගිනිඅවියකින් වෙඩි තබාගෙන සියදිවි හානිකර ගෙන ඇති බවට ප්‍රදේශවාසීන් විසින් පොලිස් ස්ථානය වෙත දැනුම් දී ඇත.
+The son who had killed his mother had committed suicide while he had been attacked with a sharp weapon and killed his mother with a sharp weapon.
+
+Her son had been assaulted by her son in Godakawela, Godakawela area.
+
+Residents of the area told police that the son had been committed to the area after the man had been shot dead by firearms of Sri Lanka and Guruherawa in Udawalawe.
 
 ◼️
 
 [Data](articles/5a5a7222.json)
 
+[Extended Data](ext_articles/5a5a7222.ext.json)
+
 ---
 
-### ජනපති පිළිගැනීමේ නිල උත්සවය අද
+### The official celebration of the President's welcome today
 
 *2024-12-16 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204413) · `si`
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය අද (16) ඉන්දීය ජනපති නිල නිවස වන රාෂ්ඨපතිබවන් හී දී පැවැත්වීමට නියමිතය.
+Here's a summary of 200 characters:
 
-අද පෙරවරු 10ට ජනාධිපතිවරයා පිළිගැනීමේ නිල උත්සවය ආරම්භ වනු ඇත.
 
-ජනාධිපතිවරයාගේ පළමු විදෙස් සංචාරය ආරම්භ කරමින් ඊයේ (15) පස්වරු 5.30ට පමණ ජනාධිපතිවරයා ඇතුළු දුත පිරිස රැගත් ගුවන් යානය ඉන්දියාවේ නවදිල්ලි නුවර ඉන්දිරා ගාන්ධි ජාත්‍යන්තර ගුවන්තොටුපොළ වෙත ළඟා වුණි.
 
-එහිදී එරට තොරතුරු හා සන්නිවේදන අමාත්‍ය ආචාර්ය එස්. මුරුගන්, ශ්‍රීලංකාවේ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ජා ඇතුළු රාජ්‍යතාන්ත්‍රිකයන් පිරිසක් ගුවන්තොටුපොළේදී ජනාධිපතිවරයා මහත් හරසරින් පිළිගනු ලැබීය.
+Pres. Anura Kumara Dissanayake arrives in India for 3-day visit. Official ceremony begins at 10 AM. Met with Indian officials, discussing economy, tourism, and energy. To visit Mahatma Gandhi monument and meet PM Modi.
 
-ඉන් අනතුරුව ජනාධිපතිවරයා ඉන්දීය මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතාරාමන්, විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් සහ ඉන්දියාවේ ජාතික ආරක්ෂක උපදේශක ශ්‍රී අජිත් දොවාල් යන මහත්ම මහත්මීන් ජනාධිපතිවරයා සමග සාකච්ඡා පවත්වා තිබේ.
+🟩
+
+The official ceremony of President Anura Kumara Dissanayake is conducting a three-day official visit to India today (16) in the Indian official residence, British.
+
+The official ceremony of the President will begin this morning at 10 am.
+
+The flight of the President and the President arrived at the Indira Gandhi International Airport in New Delhi, India, Lanka's first foreign visit yesterday (15).
+
+Last Information and Communication Minister Dr. S. The President has been welcomed at the airport, including Indian High Commissioner of Indian High Commissioner of Sri Lanka.
+
+Subsequently, the President was produced by Indian Finance and Corporate Affairs, Industry Minister Dr. S. San. The President has held discussions with the President of Jeyasankar and India's National Security Advisor.
+
+The President and Indian Finance and Corporate Affairs, Indian Finance and Corporate Affairs, Indian Finance and Corporate Affairs, Namula Sita Raman, has been discussed in the meetings.
 
 ...
 
 [Data](articles/bad090ce.json)
+
+[Extended Data](ext_articles/bad090ce.ext.json)
 
 ---
 
@@ -2309,29 +2347,5 @@ According to police, Manna Roshan was killed in the Hanwella area on December 25
 [Data](articles/447e0570.json)
 
 [Extended Data](ext_articles/447e0570.ext.json)
-
----
-
-### Five Acting Ministers appointed
-
-*2024-12-15 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104258/five-acting-ministers-appointed) · `en`
-
-Acting Ministers have been appointed to five ministries in the absence of President Anura Kumara Dissanayake, who is on an official visit to India.
-
-Accordingly, Acting Ministers have been appointed to oversee the affairs of the Ministry of Finance, Planning and Digital Economy and Ministry of Defence which are under the purview of the President as well as the Ministry of Foreign Affairs, Foreign Employment and Tourism and the Ministry of Labour.
-
-Acting Minister of Digital Economy – Deputy Minister Eranga Weeraratne
-
-Acting Minister of Foreign Affairs, Foreign Employment and Tourism - Deputy Minister Arun Hemachandra
-
-Acting Minister of Finance and Planning - Deputy Minister Dr. Harshana Sooriyapperuma
-
-The Head of State, accompanied by a top-level delegation left the island this afternoon (Dec. 15), aboard a SriLankan Airlines flight.
-
-...
-
-[Data](articles/a02d91a6.json)
-
-[Extended Data](ext_articles/a02d91a6.ext.json)
 
 ---

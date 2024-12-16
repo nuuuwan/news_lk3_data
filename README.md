@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 22:18:21**
+As of **2024-12-16 22:30:03**
 
 ## Newspaper Stats
 
-*Scraped **60,526** Articles*
+*Scraped **60,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 3,685
 dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,758
-adaderanalk | 7,375
-tamilmirrorlk | 8,646
-virakesarilk | 9,971
+adaderanalk | 7,377
+tamilmirrorlk | 8,647
+virakesarilk | 9,973
 adaderanasinhalalk | 10,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,468 (99.9%) of 60,526 articles have been extended.
+60,468 (99.9%) of 60,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### ஐ.ம.சக்தியிலிருந்து விலகினார் ஜகத் குமார
+
+*2024-12-16 22:24:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சக்தியிலிருந்து-விலகினார்-ஜகத்-குமார/175-348811) · `ta`
+
+கடந்த ஜனாதிபதி தேர்தலின் போது ஸ்ரீலங்கா பொதுஜன பெரமுனவில் இருந்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஜகத் குமார அந்தக் கட்சியிலிருந்தும் விலகியுள்ளார்.
+
+அண்மையில் கட்சியில் இணைந்துகொண்ட பிரதிநிதிகளுக்கு நீதி வழங்காமை உள்ளிட்ட பல்வேறு காரணங்களை முன்வைத்து தாம் ஐக்கிய மக்கள் சக்தியிலிருந்து விலகுவதாக அவர் குறிப்பிட்டுள்ளார்.
+
+தேசிய பட்டியல் உறுப்பினர் தெரிவின்போது, கடந்த தேர்தலில் எதிர்க்கட்சியினால் முன்னிலைப்படுத்தப்பட்ட முன்னாள் அமைச்சர் டலஸ் அழகப்பெரும இணைத்துக்கொள்ளப்படவில்லை.
+
+பொதுத் தேர்தல் நிறைவடைந்து கடந்த ஒருமாத காலமாக அவர்கள் முன்னெடுக்கும் விடயங்களை அவதானித்துக் கொண்டிருந்தேன்.
+
+ஆகவே, ஐக்கிய மக்கள் சக்தியிலிருந்து விலகி எதிர்வரும் காலங்களில் தாம் சுயாதீனமாக செயற்படவுள்ளதாக முன்னாள் நாடாளுமன்ற உறுப்பினர் ஜகத் குமார தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/ff5ed381.json)
+
+---
+
+### அரிசி விலை விவகாரத்தில் அரசாங்கமும் அரிசி ஆலை உரிமையாளர்களுமே வெற்றி பெற்றுள்ளனர் - கயந்த கருணாதிலக
+
+*2024-12-16 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201462) · `ta`
+
+அரிசி விலை விவகாரத்தில் அரசாங்கமும் அரிசி ஆலை உரிமையாளர்களுமே வெற்றி பெற்றுள்ளனர். ஆனால் நுகர்வோரும் விவசாயிகளும் தோல்வியடைந்துள்ளனர். சாதாரண மக்களின் தேங்காய் சம்பளுடனான சோறு என்ற உணவு கூட இந்த அரசாங்கத்தால் கேள்விக்குள்ளாக்கப்பட்டுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கயந்த கருணாதிலக தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+அரிசி விலை விவகாரத்தில் அரசாங்கமும் அரிசி ஆலை உரிமையாளர்களுமே வெற்றி பெற்றுள்ளனர். ஆனால் நுகர்வோரும் விவசாயிகளும் தோல்வியடைந்துள்ளனர். கடந்த ஆட்சி காலத்தில் அரிசி இறக்குமதி செய்யப்பட்ட போது, அரிசியை இறக்குமதி செய்வதற்கு அரசாங்கம் எதற்கு என ஜே.வி.பி.யினர் கேள்வியெழுப்பினர். ஆனால் இன்று அவர்கள் அதனையே செய்கின்றனர்.
+
+...
+
+[Data](articles/44e2a20d.json)
+
+---
+
+### யாழ்ப்பாணத்தில் திடீர் சுகவீனம் ஏற்பட்ட குடும்பப் பெண் உயிரிழப்பு!
+
+*2024-12-16 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201461) · `ta`
+
+யாழ்ப்பாணம் - தெல்லிப்பழையில் திடீர் சுகவீனம் ஏற்பட்ட குடும்பப் பெண்ணொருவர் திங்கட்கிழமை (16) உயிரிழந்துள்ளார்.
+
+மாவைகலட்டி, தெல்லிப்பழை பகுதியைச் சேர்ந்த 44 வயதான மூன்று பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண்ணுக்கும் அவரது குழந்தைக்கும் உடல் சுகயீனம் ஏற்பட்ட நிலையில் ஞாயிற்றுக்கிழமை (15) சிகிச்சைக்காக அளவெட்டி வைத்தியசாலைக்கு சென்று மருந்து எடுத்துக்கொண்டு வீடு திரும்பியுள்ளார்.
+
+வீடு சென்ற பெண்ணுக்கு மீண்டும் உடல் சுகயீனம் ஏற்பட்ட நிலையில் மயக்கமுற்றுள்ளார். அவரை தெல்லிப்பழை ஆதார வைத்தியசாலைக்கு கொண்டு சென்றவேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்தனர்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். மரணத்திற்கான காரணம் தெரியவராத நிலையில் உடற்கூற்று மாதிரிகள் கொழும்பிற்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6670ec52.json)
+
+---
+
+### Maximum retail prices to be imposed on several key items - Minister
+
+*2024-12-16 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104290/maximum-retail-prices-to-be-imposed-on-several-key-items-minister) · `en`
+
+Minister Wasantha Samarasinghe says the government has decided to impose maximum retail prices on a range of essential items in the future.
+
+He made these remarks today (16) while speaking to the media in Anuradhapura.
+
+The Minister highlighted the disparity between production costs and market prices, stating, “ A water bottle that sells for Rs. 100 can be sold for less than Rs. 40. A packet of salt, produced at a cost of Rs. 52, is being sold for Rs. 100.”
+
+He expressed concern over inefficiencies in the salt industry and other sectors, pointing out that the high retail prices of essential goods have placed an undue burden on consumers.
+
+In response, the Consumer Affairs Authority (CAA), in collaboration with the Consumer Council, is taking steps to determine and regulate maximum retail prices for several items.
+
+Minister Samarasinghe assured that these measures will be finalized and implemented in the near future to ease the strain on consumers.
+
+◼️
+
+[Data](articles/5af73f3a.json)
+
+---
 
 ### Indian business consent for investment in Sri Lanka
 
@@ -189,6 +267,24 @@ This was followed by a meeting between Indian Health Minister and Bharatiya Jana
 [Data](articles/f2ba3106.json)
 
 [Extended Data](ext_articles/f2ba3106.ext.json)
+
+---
+
+### President AKD meets India’s Vice President and Health Minister
+
+*2024-12-16 20:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104289/president-akd-meets-indias-vice-president-and-health-minister) · `en`
+
+President Anura Kumara Dissanayake held a meeting with Indian Vice-President, Jagdeep Dhankhar this afternoon (16).
+
+During the discussion, Vice President Dhankhar extended his congratulations to President Dissanayake on his significant victory in Sri Lanka’s recent Presidential and General Elections, the President’s Media Division (PMD) stated.
+
+The meeting focused on strengthening bilateral ties, with key discussions centred on economic cooperation, advancements in agriculture, and digitalization.
+
+Later, President Dissanayake met with Indian Health Minister and Bharatiya Janata Party (BJP) President Jagat Prakash Nadda, the statement added.
+
+◼️
+
+[Data](articles/d7fe2438.json)
 
 ---
 
@@ -2181,133 +2277,5 @@ Preliminary inquiries have revealed that the arrested was 46 -year -old Bahalama
 [Data](articles/81a357d6.json)
 
 [Extended Data](ext_articles/81a357d6.ext.json)
-
----
-
-### Three suspended for the conflict of Sagina and Rajarata Queen
-
-*2024-12-16 11:03:26* · [`adalk`](https://www.ada.lk/breaking_news/සාගරිකා-හා-රජරට-රැජිනගේ-ගැටුමට-තිදෙනෙකුගේ-වැඩ-තහනම්/11-413662) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Three railway staff suspended over Beliatta train collision. Driver, assistant, and another staffer accused of negligence. Accident involved Weliata Queen train and Maraika train. Railway Department investigating. Saravana train severely damaged.
-
-🟩
-
-The Railway Department states that three persons have been tributed to the train of the train from the train of the train in Beliatta Station.
-
-The driver of the Beliatta Railway Station, the driver and driver's assistant's service of the Rajarata Queen Train.
-
-The accident occurred at the Weliata Queen's train, which was planted in the Visit train, which was planted in the Maraika train, which had been parked on the wrongly dried train.
-
-Railway Department has launched a special investigation in this regard. The Saravana train was severely damaged in the accident.
-
-◼️
-
-[Data](articles/5090661c.json)
-
-[Extended Data](ext_articles/5090661c.ext.json)
-
----
-
-### Modi attends ceremonial welcome for President Dissanayake at Rashtrapati Bhavan
-
-*2024-12-16 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104273/modi-attends-ceremonial-welcome-for-president-dissanayake-at-rashtrapati-bhavan) · `en`
-
-President Anura Kumara Dissanayake, on his maiden foreign visit since assuming office, was accorded a grand ceremonial welcome at the Rashtrapati Bhavan in New Delhi, the official residence of the Indian President, earlier today (16).
-
-The event marked the commencement of his three-day official visit to India.
-
-Indian Prime Minister Narendra Modi, alongside several diplomats, were present at the ceremony to extend a warm reception to the Sri Lankan leader.
-
-President Dissanayake, who assumed office in September following his victory in Sri Lanka’s presidential and parliamentary elections, was welcomed by Indian President Droupadi Murmu and Prime Minister Narendra Modi.
-
-During the ceremonial reception, President Murmu and President Dissanayake introduced their respective ministers, diplomats, and senior officials, emphasising the warm ties between the two nations.
-
-...
-
-[Data](articles/f9d7e30e.json)
-
-[Extended Data](ext_articles/f9d7e30e.ext.json)
-
----
-
-### Shawkub put the ball?Bowling suspended
-
-*2024-12-16 10:53:16* · [`adalk`](https://www.ada.lk/sports/ෂකීබ්-පන්දුව-දමා-ගසනවාද--පන්දු-යැවීමත්-අත්හිටුවයි/9-413661) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Shakib Al Hasan's bowling suspended due to illegal action. ICC rules require re-checking his bowling technique. He's currently playing in the Lanka Premier League.
-
-🟩
-
-Bangladesh three postpoles Shake Al Hazan bowling has been suspended in announcement, Bangladesh cricket has said.
-
-Accordingly, the International Cricket Council (ICC) has been suspended in local and international matches.
-
-His bowling suspended on charges of killing the ball.
-
-Accordingly, he has to check bowling posture again.
-
-Shakib al Hassan players playing the Goal Maval Maval Maval Maval Maval Maval of Lanka T-10 League these days.
-
-◼️
-
-[Data](articles/aeef0516.json)
-
-[Extended Data](ext_articles/aeef0516.ext.json)
-
----
-
-### Indian President and Prime Minister welcomed President Anura Kumara
-
-*2024-12-16 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201393) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Indian Prez Draupadi Murmu & PM Narendra Modi welcomed Sri Lankan Prez Anura Kumara Dissanayake on his 3-day India visit. Ceremony at Rashtrapati Bhavan in New Delhi.
-
-🟩
-
-President Draupadi Murmu and Prime Minister Narendra Modi welcomed President Anura Kumara Dissanayake, who is on a three -day official visit to India.
-
-The ceremony was held at the President's House in New Delhi.
-
-◼️
-
-[Data](articles/b16a59e9.json)
-
-[Extended Data](ext_articles/b16a59e9.ext.json)
-
----
-
-### Germany’s labour market shortages a boon for Indian workers
-
-*2024-12-16 10:43:00* · [`economynextcom`](https://economynext.com/germanys-labour-market-shortages-a-boon-for-indian-workers-194431/) · `en`
-
-ECONOMYNEXT – Germany is facing increased shortages in the labour market and is looking at India to fill that vacuum.
-
-While the shortage is mostly in the healthcare, IT, and engineering sectors, the country is seeing an increased need for skilled workers in other trades too.
-
-One initiative to address the shortage in the healthcare sector was the direct agreement signed between Germany and the State government of Kerala for the recruitment of nurses.
-
-That success may lead to similar collaborations with other State governments such as Madya Pradesh, Tamil Nadu and Maharashtra.
-
-Germany is also fast becoming the country of choice for Indians pursuing higher studies.
-
-Recent reports indicate that nearly 12.3 per cent (43, 000) of the international student body in Germany comprises Indians. They have now replaced Chinese students as the frontrunners.
-
-...
-
-[Data](articles/30987d0f.json)
-
-[Extended Data](ext_articles/30987d0f.ext.json)
 
 ---

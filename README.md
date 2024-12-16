@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 19:03:42**
+As of **2024-12-16 19:42:58**
 
 ## Newspaper Stats
 
-*Scraped **60,500** Articles*
+*Scraped **60,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,655
 economynextcom | 3,682
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,754
+adalk | 5,755
 adaderanalk | 7,370
 tamilmirrorlk | 8,645
 virakesarilk | 9,962
@@ -26,13 +26,13 @@ adaderanasinhalalk | 10,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,445 (99.9%) of 60,500 articles have been extended.
+60,452 (99.9%) of 60,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### Sri Lanka, India discuss passenger ferry service between Rameshwaram and Talaimannar
+### Sri Lanka, India plan second ferry connection
 
 *2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-discuss-passenger-ferry-service-between-rameshwaram-and-talaimannar-194528/) · `en`
 
@@ -49,6 +49,8 @@ Both leaders stressed the need for building further connectivity. (Colombo/Dec16
 ◼️
 
 [Data](articles/e95caea3.json)
+
+[Extended Data](ext_articles/e95caea3.ext.json)
 
 ---
 
@@ -126,6 +128,8 @@ In a joint statement, the both countries said President Dissanayake and Prime Mi
 
 [Data](articles/4989c042.json)
 
+[Extended Data](ext_articles/4989c042.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady
@@ -147,6 +151,8 @@ A bond maturing on 15.05.2030 closed stable at 10.90/11.10 percent. (Colombo/Dec
 ◼️
 
 [Data](articles/e1bf0f6d.json)
+
+[Extended Data](ext_articles/e1bf0f6d.ext.json)
 
 ---
 
@@ -175,6 +181,24 @@ The infant has been thrown into the canal a few days ago, police said the police
 [Data](articles/7a7ffcb3.json)
 
 [Extended Data](ext_articles/7a7ffcb3.ext.json)
+
+---
+
+### මෛත්‍රී ආයේ නිදහස් පක්ෂයේ සභාපතිධුරයට ඉදිරිපත් වන්නේ නැතිලු
+
+*2024-12-16 17:42:56* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-ආයේ-නිදහස්-පක්ෂයේ-සභාපතිධුරයට-ඉදිරිපත්-වන්නේ-නැතිලු/11-413672) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා මින් ඉදිරියට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරය සඳහා ඉදිරිපත් නොවන බව ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අද අභියාචනාධිකරණයට  දැනුම් දුන්නේය.
+
+අධිකරණයට අපහාස කළ බවට චෝදනා කරමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකුවන  මොන්ටේගු සරත්චන්ද්‍ර මහතා විසින් ගොනුකර තිබු  පෙත්සම සමථයකට පත්වූ අවස්ථාවේදී ඒ බව දැනුම් දුන් මෛත්‍රී පාලසිරිසෙන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ වත්මන් සභාපති නිමල් සිරිපාල ද සිල්වා සහ ලේකම්වරයා සම්බන්ධයෙන්  විරුද්ධත්වයක් නැති බවද වැඩිදුරටත් දැනුම් දුන්නේය.
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්ධුල කරුණාරත්න සහ  විනිසුරු ශෂී මහේන්ද්‍රන් යන මහත්වරුන් හමුවේ පෙත්සම කැඳවනු ලැබීය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වන  මොන්ටේගු සරත්චන්ද්‍ර මහතා විසින් ගොනුකර තිබු පෙත්සමේ වග උත්තරකරු දෙස දෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා නම්කර තිබිණි.
+
+...
+
+[Data](articles/8670a0a8.json)
 
 ---
 
@@ -210,69 +234,95 @@ The discussion also focuses on the establishment of the electricity, digital and
 
 ---
 
-### அநுராதபுரத்தில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது!
+### A man arrested with domestic gun in Anuradhapura
 
 *2024-12-16 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201445) · `ta`
 
-அநுராதபுரம், கெக்கிராவ பொலிஸ் பிரிவுக்கு உட்பட்ட கொட்டல்பத்த பிரதேசத்தில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (15 ) கெக்கிராவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Man arrested with homemade gun in Anuradhapura's Kekirawa area. 46-year-old suspect caught during police raid based on tip-off.
 
-கெக்கிராவ பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் அநுராதபுரம், கெக்கிராவ பிரதேசத்தைச் சேர்ந்த 46 வயதுடையவர் ஆவார்.
+A suspect has been arrested by Kekirawa police on Sunday (15) with a locally manufactured gun in Kotalpatta area belonging to the Kekirawa Police Division of Anuradhapura.
+
+The suspect has been arrested during a raid carried out on the basis of confidential information received by the Kekirawa police station.
+
+The suspect was 46 years old from Kekirawa, Anuradhapura.
 
 ◼️
 
 [Data](articles/01e2fa91.json)
 
+[Extended Data](ext_articles/01e2fa91.ext.json)
+
 ---
 
-### இந்திய பிரதமரை இலங்கை வருமாறு அழைப்பு விடுத்தார் ஜனாதிபதி அநுர
+### President Anura invited the Prime Minister of India to come to Sri Lanka
 
 *2024-12-16 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201422) · `ta`
 
-இந்தியாவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இந்திய பிரதமர் நரேந்திர மோடியை இலங்கைக்கு வருகை தருமாறு அழைப்பு விடுத்துள்ளார்.
+Sri Lanka's President Anura Kumara Dissanayake invites Indian PM Narendra Modi to visit during his 3-day official trip to India. Meeting took place in New Delhi on 16th.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவும், இந்திய பிரதமர் நரேந்திர மோடிக்கும் இடையில் இன்று திங்கட்கிழமை (16) புதுடில்லியில் நடைபெற்றது.
+🟩
+
+President Anura Kumara Dissanayake, who is on a three -day official visit to India, has called for Indian Prime Minister Narendra Modi to visit Sri Lanka.
+
+President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi were held in New Delhi today (16).
 
 ◼️
 
 [Data](articles/f5fed895.json)
 
+[Extended Data](ext_articles/f5fed895.ext.json)
+
 ---
 
-### கல்கிசையில் ஐஸ், ஹெரோயினுடன் இருவர் கைது!
+### Two persons arrested with ice and heroin in Kalkisa
 
 *2024-12-16 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201443) · `ta`
 
-கல்கிசை பொலிஸ் பிரிவுக்கு உட்பட்ட வெடிகந்த , பொருபன ஆகிய பிரதேசங்களில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களுடன் இரண்டு சந்தேக நபர்கள் நேற்று ஞாயிற்றுக்கிழமை (15) கைது செய்யப்பட்டுள்ளதாக கல்கிசை பொலிஸார் தெரிவித்தனர்.
+Two arrests made in Kalkisa: 28-year-old and 35-year-old men caught with 14g ice and 5g heroin. Raid conducted based on tip-off.
 
-கல்கிசை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் இரத்மலான பிரதேசத்தைச் சேர்ந்த 28 மற்றும் 35 வயதுடையவர்கள் ஆவர்.
+Two suspects have been arrested yesterday (15) with heroin and ice drugs in the area of ​​the Mount Lavinia Police Division.
 
-சந்தேக நபர்களிடம் இருந்து  14 கிராம் ஐஸ் போதைப்பொருள் மற்றும் 05 கிராம் 200 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+The suspects have been arrested during a raid carried out on a confidential information received by the police station officials.
+
+The arrested suspects were 28 and 35 years old from Ratmala.
+
+The police have seized 14 grams of ice and 05 g of 200 ml of heroin from the suspects.
 
 ◼️
 
 [Data](articles/eecb8fa8.json)
 
+[Extended Data](ext_articles/eecb8fa8.ext.json)
+
 ---
 
-### கதாநாயகியுடன் டூயட் பாடிய ரோபோ சங்கர்
+### Robot Shankar sung duet with heroine
 
 *2024-12-16 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201435) · `ta`
 
-தமிழ் திரையுலகில் நகைச்சுவை நடிகராகவும், குணச்சித்திர நடிகராகவும் வலம் வரும் ரோபோ சங்கர் கதையின் நாயகனாக 'அம்பி ' எனும் திரைப்படத்தில் நடித்திருக்கிறார். இந்த திரைப்படத்தில் அவர் கதாநாயகியுடன் இணைந்து டூயட் பாடும் காட்சிகள் இடம் பிடித்திருக்கிறது. இப்படத்தின் மூலம் மரத்தை சுற்றி நாயகிகளுடன் டூயட் பாடும் நட்சத்திர நடிகர்களின் பட்டியலில் ரோபோ சங்கரும் இணைந்திருக்கிறார்.
+Robot Shankar stars in Ambi, singing duets with the heroine. Directed by Passer J., featuring Aswini Chandrasekhar, Ramesh Khanna. Music by B. Muralitharan. Producer Prasanthi Francis describes it as a family entertainment film about a naive hero named Ambi.
 
-இயக்குநர் பாஸர் ஜெ. எல்வின் இயக்கத்தில் உருவாகி வரும் 'அம்பி' எனும் திரைப்படத்தில் ரோபோ சங்கர், அஸ்வினி சந்திரசேகர், ரமேஷ் கண்ணா, கஞ்சா கருப்பு, இமான் அண்ணாச்சி, மோகன் வைத்யா, நமோ நாராயணா, மீசை ராஜேந்திரன், சேரன் ராஜ், ஷர்மிளா , ஆர்த்தி, வித்யா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-வெற்றிவேல் முருகன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஏ. பி. முரளிதரன் இசையமைத்திருக்கிறார்.
+Robot Shankar, who is a comedian and character actor in Tamil film industry, is the hero of the story 'Ambi'. In this movie she has a duet singing scenes with the heroine. Robot Shankar has joined the list of duet actors who sing with heroes around the tree.
 
-ஃபேமிலி என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை டி2 மீடியா நிறுவனம் சார்பில் தயாரிப்பாளர் எஃப். பிரசாந்தி பிரான்சிஸ் தயாரித்திருக்கிறார்.
+Director Passer J. Robot Shankar, Aswini Chandrasekhar, Ramesh Khanna, Kanja Black, Iman Annacci, Mohan Vaidya, Namo Narayana, Mustache Rajendran, Cheran Raj, Sharmila, Aarti, Vidya.
+
+The film has been recorded by Vijayvel Murugan. B.. Muralitharan has composed the music.
+
+The film, which is ready for Family Entertainment, is the producer F.. Produced by Prasanthi Francis.
+
+Speaking of the film, the director said, "The hero of the story is a naively scared as 'Ambi'.. Is there. But for those around him because of the circumstances, the hero looks like a hero and lucky.
 
 ...
 
 [Data](articles/936235b7.json)
+
+[Extended Data](ext_articles/936235b7.ext.json)
 
 ---
 
@@ -2295,27 +2345,5 @@ Mm in some places in the North, Eastern, North Central and Uva Provinces and Mat
 [Data](articles/914f61a5.json)
 
 [Extended Data](ext_articles/914f61a5.ext.json)
-
----
-
-### The chance of the lower winds
-
-*2024-12-16 07:59:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-தாழ்வு-மண்டலம்-உருவாக-வாய்ப்பு/175-348776) · `ta`
-
-Low winds developing in Southeast Bengal Sea within 24 hours. System forming, moving NW towards Tamil Nadu coast over next two days. Heavy rainfall expected in parts of Northern, Eastern, North Central, Uva Provinces and Matale District.
-
-🟩
-
-The Department of Meteorology has predicted that low winds in the Southeast Bengal Sea are likely to develop in the next 24 hours.
-
-It is also reported that the organization is slowly formed and moving to the northwest and moving towards the coast of Tamil Nadu for the next two days.
-
-Meanwhile, the Department of Meteorology has advised that heavy rains are likely to occur in some parts of the North, Eastern, North Central and Uva Provinces and Matale District.. (A)
-
-◼️
-
-[Data](articles/de633401.json)
-
-[Extended Data](ext_articles/de633401.ext.json)
 
 ---

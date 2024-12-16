@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 10:28:38**
+As of **2024-12-16 10:02:22**
 
 ## Newspaper Stats
 
-*Scraped **60,407** Articles*
+*Scraped **60,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,738
 adaderanalk | 7,355
-tamilmirrorlk | 8,631
+tamilmirrorlk | 8,630
 virakesarilk | 9,945
 adaderanasinhalalk | 10,441
 
@@ -26,41 +26,11 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,384 (100.0%) of 60,407 articles have been extended.
+60,383 (100.0%) of 60,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
-
-### Today's event to officially welcome the president
-
-*2024-12-16 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-உத்தியோகபூர்வமாக-வரவேற்கும்-நிகழ்வு-இன்று/175-348789) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential visit to India: Official welcome, economic cooperation talks, defense discussions, cultural exchanges.
-
-🟩
-
-The official visit to India on a three -day official visit to India will be held on Monday (16) at the official residence of the President of India.
-
-The President and his crew, which began the President's first overseas visit, reached the Indira Gandhi International Airport in New Delhi, India, at around 5.30 pm yesterday.
-
-There, the Minister of Communications, Dr. S.. Murugan, Indian High Commissioner Santosh Ja and diplomats greeted the President at the airport.
-
-Subsequently, Minister of State for Finance and Institutions of India, Nirmala Sitharaman, Minister of State for Foreign Affairs. Jaishankar and India's National Security Adviser Ajit Dowal have held talks with the president.
-
-It is reported that the meeting between the President Nirmala Sita Raman and the Minister of India and the Minister of Finance and Corporation Nirmala Sita Raman was discussed to increase the Indian -Sri Lankan economic cooperation and expand the investment opportunities between the two countries.
-
-...
-
-[Data](articles/e685e3f6.json)
-
-[Extended Data](ext_articles/e685e3f6.ext.json)
-
----
 
 ### பெரும் நெருக்கடிக்குள் அரசாங்கம் வீழ்ந்துள்ளதா?
 
@@ -2343,5 +2313,39 @@ Speaker Ashoka Sapumal Ranwala has commented on Deputy Speaker Rishwi Sally, Urb
 [Data](articles/d0c1bffb.json)
 
 [Extended Data](ext_articles/d0c1bffb.ext.json)
+
+---
+
+### Lalith Religious Government Reign from Dubai to Hungawella
+
+*2024-12-15 17:16:30* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-රාජ්‍යයේ-සිට-හංවැල්ලේ-නොනිල-රජකම්-කරන-බස්-ලලිත්/11-413647) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Businessmen flee Hanwella due to threats. Police investigate Lalith Kannanara for 5 murders & extortion. Luxury homes abandoned, families terrorized. Security forces seek arrest warrant.
+
+🟩
+
+Police say that many businessmen have left their businessmen closed down their businesses, centered from hiding in Dubai to Hanwella and extortion.
+
+Police have also used police protection in the Hanwella area in the face of the criminal.
+
+The 34-year-old criminal is a man of the police in the police book that the five murders are needed by the police.
+
+The assassination of the Muslim businessman of Hanwella on December 18, 2022, the murder of the Muslim businessman in Hanwella, 1722, was severely conversing.
+
+It was also the case .It 's that simple.
+
+Lalith Kanganan bush was first given to the victim. It is due to the assassination of the person and the assassination of the people.
+
+According to police, Manna Roshan was killed in the Hanwella area on December 25, 2023, as well as the crimes of Rosan in Hanwella area on December 25, 2023.
+
+...
+
+[Data](articles/447e0570.json)
+
+[Extended Data](ext_articles/447e0570.ext.json)
 
 ---

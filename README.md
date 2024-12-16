@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 02:14:37**
+As of **2024-12-17 03:43:09**
 
 ## Newspaper Stats
 
-*Scraped **60,545** Articles*
+*Scraped **60,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,655
 economynextcom | 3,685
-dailyftlk | 4,183
+dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,759
 adaderanalk | 7,379
-tamilmirrorlk | 8,648
+tamilmirrorlk | 8,649
 virakesarilk | 9,974
 adaderanasinhalalk | 10,464
 
@@ -26,11 +26,101 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,486 (99.9%) of 60,545 articles have been extended.
+60,493 (99.9%) of 60,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### President discusses with Indian leading traders
+
+*2024-12-17 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-முன்னணி-வர்த்தகர்களுடன்-ஜனாதிபதி-கலந்துரையாடல்/175-348813) · `ta`
+
+Sri Lankan President Anura Kumara Dissanayake met Indian business leaders in New Delhi. He promoted Sri Lanka as an investment destination, focusing on digital economy, tourism, renewable energy, and IT. The meeting aimed to boost bilateral trade and investment.
+
+🟩
+
+President Anura Kumara Dissanayake, who was on a three -day official visit to India, held a discussion with Indian leading business representatives in New Delhi yesterday afternoon.
+
+India's leading entrepreneurs participated in the discussion organized by the Indian Industry Federation.
+
+President Anura Kumara Dissanayake, who explained the favorable environment in Sri Lanka, asked the Indian entrepreneurs to invest in Sri Lanka.
+
+The discussion was held to expand the investment and trade ties between the two countries and special attention to the sectors of digital economics, tourism, renewable energy and information technology.
+
+Accordingly, on the basis of trade activities between the two countries, the expanding of investment opportunities in Sri Lanka was discussed.
+
+The Sri Lankan government has agreed to focus on investment opportunities in Sri Lanka and the Sri Lankan government has agreed to provide the necessary investment facilities.
+
+...
+
+[Data](articles/217463b2.json)
+
+[Extended Data](ext_articles/217463b2.ext.json)
+
+---
+
+### False ‘Dr.’ title: Justice Minister suspects deliberate sabotage attempt
+
+*2024-12-17 02:11:43* · [`dailyftlk`](https://www.ft.lk/news/False-Dr-title-Justice-Minister-suspects-deliberate-sabotage-attempt/56-770614) · `en`
+
+Says reference to him as Dr. Harshana Nanayakkara may be deliberate attempt to defame him and undermine public confidence in his political career
+
+Claims it was no honest mistake and suggests that an unknown person had altered his credentials in an act of sabotage
+
+Assures has never used the title Dr. in his career or in any official capacity
+
+Justice and National Integration Minister Harshana Nanayakkara has filed a formal complaint with the Criminal Investigation Department (CID) requesting an investigation into the inclusion of incorrect educational qualifications under his name on the Parliament website.
+
+Speaking to the media, Minister Nanayakkara raised concerns that the false entry, which listed him as “Dr. Harshana Nanayakkara,” may have been a deliberate attempt to defame him and undermine public confidence in his political career.
+
+...
+
+[Data](articles/317e3746.json)
+
+[Extended Data](ext_articles/317e3746.ext.json)
+
+---
+
+### Complaint lodged against Namal Rajapaksa over alleged Law College exam fraud
+
+*2024-12-17 02:09:37* · [`dailyftlk`](https://www.ft.lk/news/Complaint-lodged-against-Namal-Rajapaksa-over-alleged-Law-College-exam-fraud/56-770613) · `en`
+
+Citizen’s Movement Against Fraud, Corruption, and Waste Chairperson Jamuni Kamantha Thushara filed a complaint with the Criminal Investigation Department (CID) yesterday, alleging irregularities in MP Namal Rajapaksa’s Sri Lanka Law College examination.
+
+Speaking to the media after lodging the complaint, Thushara accused Rajapaksa of receiving preferential treatment during a competitive Law College examination held 11 years ago. He claimed that a witness is prepared to testify that Rajapaksa cheated during the exam.
+
+“There is evidence that Namal Rajapaksa sat for the Law College exam in a special air-conditioned room, where he was assisted by two lawyers to complete the examination,” Thushara alleged.
+
+...
+
+[Data](articles/83894deb.json)
+
+[Extended Data](ext_articles/83894deb.ext.json)
+
+---
+
+### Sri Lanka and India sign MoUs to prevent double taxation, strengthen capacity building of Govt. officials
+
+*2024-12-17 02:07:09* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-India-sign-MoUs-to-prevent-double-taxation-strengthen-capacity-building-of-Govt-officials/56-770612) · `en`
+
+Extends invitation to Indian Prime Minister to visit Sri Lanka
+
+President Anura Kumara Dissanayake yesterday called on Indian Prime Minister Narendra Modi during his three-day official visit to India at the Prime Minister’s official residence, Hyderabad House.
+
+Following discussions, Memoranda of Understandings (MoUs) on the avoidance of double taxation and capacity building for Government officials were exchanged in the presence of the leaders of both countries.
+
+During a joint press briefing, President Dissanayake highlighted that he is well aware of the special importance Sri Lanka holds within India’s foreign policy. Prime Minister Modi expressed his delight that President Dissanayake chose India for his first official foreign visit as the President of Sri Lanka.
+
+The discussions also focused on strengthening Sri Lanka’s ties with India by establishing electricity grid connections and a multi-product petroleum pipeline.
+
+...
+
+[Data](articles/d0136c66.json)
+
+[Extended Data](ext_articles/d0136c66.ext.json)
+
+---
 
 ### ACCA Sri Lanka presents Budget proposals for 2025 to Deputy Minister of Finance
 
@@ -48,6 +138,8 @@ Titled ‘From Recovery to Sustainability – Crafting Sri Lanka’s Economic Bl
 
 [Data](articles/4543526f.json)
 
+[Extended Data](ext_articles/4543526f.ext.json)
+
 ---
 
 ### Hayleys Fentons sole Lankan company among top three in construction sector at SAFA Awards
@@ -63,6 +155,8 @@ The event celebrated excellence in financial reporting and corporate governance 
 ...
 
 [Data](articles/e2ff8024.json)
+
+[Extended Data](ext_articles/e2ff8024.ext.json)
 
 ---
 
@@ -93,6 +187,8 @@ Achieving the level of organisational alignment needed to provide a competitive 
 ...
 
 [Data](articles/4dcef59c.json)
+
+[Extended Data](ext_articles/4dcef59c.ext.json)
 
 ---
 
@@ -2195,97 +2291,5 @@ Foreign Ministers of the two countries, Vijitha Herath and Dr. S.. Jeyishankar a
 [Data](articles/0f20954f.json)
 
 [Extended Data](ext_articles/0f20954f.ext.json)
-
----
-
-### Sri Lanka rice importers forced to cancel orders amid state food controls
-
-*2024-12-16 12:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-importers-forced-to-cancel-orders-amid-state-food-controls-194445/) · `en`
-
-ECONOMYNEXT – Several Sri Lanka importers have cancelled orders for rice due to a narrow window to ship products, and price controls, with bad weather in India leading to vessel delays, trade sources said.
-
-Sri Lanka lifted food controls on the people through licensing, imposed during Rajapaksa regimes, till December 20, allowing private companies to import rice.
-
-“There has been bad weather in Tamil Nadu which delayed shipping,” an industry official said. “We were only given till December 20.
-
-“We cannot do miracles. There is the threat of re-exports if there is a delay. So many importers have cancelled orders.
-
-In addition to the small window, a tax of 65 rupees a kilo (about 220 US dollars a tonne or close to 50 percent of the export prices of 450 dollars plus) imposed on the people, remains.
-
-Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis
-
-...
-
-[Data](articles/bbf298eb.json)
-
----
-
-### Incorrect data; CID went to Justice Minister
-
-*2024-12-16 12:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-தரவுகள்-CID-சென்றார்-நீதியமைச்சர்/175-348794) · `ta`
-
-Sri Lanka: Justice Minister Harshana Nanayakkara complains about false academic qualifications on parliamentary database. CID investigates.
-
-🟩
-
-Minister of Justice Harshana Nanayakkara has lodged a complaint with the Criminal Investigation Department (CID) to investigate the registration of his educational qualification in the Parliamentary Database.
-
-Last week, the Sri Lankan parliament acknowledged that the details of the academic qualifications of the Justice Minister and Attorney Harshana Nanayakkara had been falsely uploaded to the parliamentary website.
-
-◼️
-
-[Data](articles/784d3fc9.json)
-
-[Extended Data](ext_articles/784d3fc9.ext.json)
-
----
-
-### President meets Prime Minister Anura Muddi
-
-*2024-12-16 12:48:33* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-අගමැති-මෝදි-හමුවෙයි/11-413664) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake met Indian PM Narendra Modi in Delhi. They held bilateral talks at Hyderabad House. The meeting focused on strengthening ties between the two nations.
-
-🟩
-
-President Anura Kumara Dissanayake met with Indian Prime Minister Narendra Moodi.
-
-Video |PM MODI (@narendramodi) Welcomes Sri Lankan president anura kumara dissanayake
-
-(@anuradisanayake) at Hyderabad HOUSE, DELHI, AHADe of thehead Bilateral Talks.
-
-◼️
-
-[Data](articles/10dac759.json)
-
-[Extended Data](ext_articles/10dac759.ext.json)
-
----
-
-### Complaint at the Justice Minister Criminal Investigation Department
-
-*2024-12-16 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201399) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Justice Minister Harshana Nanayakkara filed a complaint with the Criminal Investigation Department regarding changes to the educational qualifications listed on Parliament's official website for Members of Parliament.
-
-🟩
-
-The educational qualification of members has been changed on the official website of Parliament in the Profile of Members of Parliament.
-
-Justice Minister Harshana Nanayakkara has lodged a complaint with the Criminal Investigation Department today (16).
-
-◼️
-
-[Data](articles/fb633f4e.json)
-
-[Extended Data](ext_articles/fb633f4e.ext.json)
 
 ---

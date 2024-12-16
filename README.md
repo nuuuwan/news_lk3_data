@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 16:02:15**
+As of **2024-12-16 16:17:20**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 10,450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,424 (99.9%) of 60,457 articles have been extended.
+60,426 (99.9%) of 60,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### காலி மார்வெல்ஸ் அணியின் உரிமையாளருக்கு விளக்கமறியல்
+### Explanation for the owner of the Galle Marvels team
 
 *2024-12-16 15:42:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மார்வெல்ஸ்-அணியின்-உரிமையாளருக்கு-விளக்கமறியல்/175-348798) · `ta`
 
-ஆட்ட நிர்ணய குற்றச்சாட்டில் கைது செய்யப்பட்ட லங்கா T10 சுப்பர் லீக் தொடரின் காலி மார்வெல்ஸ் அணியின் உரிமையாளரான இந்திய பிரஜை பிரேம் தக்கரை எதிர்வரும் 18 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Colombo Magistrate's Court orders arrest of Indian citizen Prem Takkarai, owner of Galle Marvels team in Lanka T10 Super League, for advising a player during the tournament in Kandy.
 
-கண்டி, பல்லேகலயில் நடைபெற்று வரும் லங்கா T10 சுப்பர் லீக் கிரிக்கட் போட்டியில் தனது அணியின் வீரர் ஒருவருக்கு ஆட்ட நிர்ணய ஆலோசனை வழங்கிய குற்றச்சாட்டின் பேரில் சந்தேகநபர் கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+🟩
+
+The Colombo Magistrate's Court has ordered the Indian citizen Prem Takkarai, the owner of the Galle Marvels team of the Lanka T10 Super League, which was arrested on charges of the match.
+
+The suspect was arrested on charges of advising one of his team players in the Lanka T10 Super League Cricket Tournament in Pallekele, Kandy.. Remble
 
 ◼️
 
 [Data](articles/ad5e3789.json)
+
+[Extended Data](ext_articles/ad5e3789.ext.json)
 
 ---
 
@@ -701,6 +707,8 @@ During the ceremonial reception, President Murmu and President Dissanayake intro
 ...
 
 [Data](articles/f9d7e30e.json)
+
+[Extended Data](ext_articles/f9d7e30e.ext.json)
 
 ---
 

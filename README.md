@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 17:12:05**
+As of **2024-12-16 17:44:55**
 
 ## Newspaper Stats
 
-*Scraped **60,478** Articles*
+*Scraped **60,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,655
 economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,751
+adalk | 5,752
 adaderanalk | 7,370
 tamilmirrorlk | 8,644
 virakesarilk | 9,955
@@ -26,45 +26,63 @@ adaderanasinhalalk | 10,456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,435 (99.9%) of 60,478 articles have been extended.
+60,441 (99.9%) of 60,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### සහල් වැඩිමිලට විකුණූ වෙළෙඳසැල් 6කට සිදුවූ දේ
+### What happened to six shops sold for the rice elder
 
 *2024-12-16 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204435) · `si`
 
-උත්සව සමයේ මේ දක්වා කාලය තුළ සහල් පාලන මිලට අලෙවි නොකිරීම සම්බන්ධ වැටලීම් 342ක් සිදුකර ඇති බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි.
+Here's a summary of 200 characters:
 
-එම අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා සඳහන් කළේ පසුගිය 17 වැනිදා සිට අද (16) දක්වා කාලය තුළ එම  වැටලීම් සිදුකර ඇති බවයි.
 
-ඒ අනුව අදාළ වැටලීම්වලින් 6කට අදාළව අධිකරණ තීන්දු ලැබී ඇති අතර එමගින් රුපියල් ලක්ෂ 7ක මුදලක් දඩ ලෙස අය කරගන්නා ලෙසට තීන්දු ලැබී තිබේ.
 
-එමෙන්ම අනෙකුත් වැටලීම්වලටද මේ වනවිට නඩු පවරා අධිකරණමය තීන්දු ගනිමින් සිටින බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ සභාපති හේමන්ත සමරකෝන් මහතා පැවසීය.
+Consumer Affairs Authority conducted 342 rice price control raids since the festival season. Six shops were raided, resulting in court orders to recover money. More raids will be prosecuted, awaiting judicial decisions.
+
+🟩
+
+According to the Consumer Affairs Authority, 342 raids have been conducted in rice control price so far since the festive season.
+
+Chairman of the Authority Hemantha Samarakoon said that the raids were carried out from the 17th to this time.
+
+Accordingly, court rulings have been received in relation to six raids, which has been made to recover a sum of Rs.
+
+Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that other raids will be prosecuted and is taking over judicial decisions.
 
 ◼️
 
 [Data](articles/22ab285d.json)
 
+[Extended Data](ext_articles/22ab285d.ext.json)
+
 ---
 
-### දිවයිනේ ප්‍රධාන ජලාශවල ජල ධාරිතාව ඉහළ යයි
+### Water capacity in the main reservoirs of the island increases
 
 *2024-12-16 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204434) · `si`
 
-පසුගිය 16 වන දින සිට උතුරු, උතුරු මැද, නැගෙනහිර පළාත්වලට පසුගිය දිනවල ඇද හැළුණු අධික වර්ෂාව හමුවේ දිවයිනේ ප්‍රධාන සහ මධ්‍යම ජලාශ බොහෝ ප්‍රමාණයක වාන් දොරටු විවෘත කිරීමට මේ වන විට පියවර ගෙන ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Main reservoirs' water capacity increases: 80.2%. 31 out of 73 major reservoirs spilled. 92% Ampara, 98% Kandy/Pollonnaruwa/ Puttalam/Badulla/Batticaloa/Trincomalee districts affected. Public advised to check disaster management announcements.
 
-එම දෙපාර්තමේන්තුව පවසන්නේ දිවයිනේ ප්‍රධාන ජලාශ 73න් 31ක් මේ වන විටත් වාන් දමමින් පවතින බවය.
+🟩
 
-දිවයිනේ ප්‍රධාන ජලාශවල ජල ධාරිතාව අනුව අම්පාර දිස්ත්‍රික්කයේ 72%ක්, අනුරාධපුර, හම්බන්තොට සහ කුරුණෑගල දිස්ත්‍රික්කවල 90%ක්, ගාල්ල, මහනුවර, පුත්තලම දිස්ත්‍රික්කවල 98%ක්, මොණරාගල, පොළොන්නරුව සහ මන්නාරම දිස්ත්‍රික්කවල 80%ක්, බදුල්ල දිස්ත්‍රික්කය 68%ක්, මඩකළපුව දිස්ත්‍රික්කය 63%ක්, ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ 76%ක්ද වශයෙන් සටහන් වන බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වේ.
+The Department of Irrigation says that many of the main and middle reservoirs in the country has been increased from the Northern and North Central and Eastern Provinces from the 16th.
 
-ඒ අනුව දිවයිනේ ප්‍රධාන ජලාශවල සමස්ත ජල ධාරිතාව 80.2% දක්වා ඉහළ නැග තිබේ.
+The department states that 31 of the 73 major reservoirs in the country are already spilled.
 
-...
+92% of the Ampara reservoirs in the island, 98% of the Ampara, Kandy, Polonnaruwa and Puttalam Districts, Badulla District 68%, Batticaloa DistrictThe department has issued the statement issued by 63%, 76% in the Trincomalee district.
+
+Accordingly, the overall water capacity of the country's main reservoirs has increased to 80.2%.
+
+The Irrigation Department also requests the public to focus on the announcements issued by the disaster management centers that have been released on the reservoir reservoirs, as the spill reservoirs are less or more.
+
+◼️
 
 [Data](articles/1c8c9a08.json)
+
+[Extended Data](ext_articles/1c8c9a08.ext.json)
 
 ---
 
@@ -122,6 +140,32 @@ Moreover, social media users are advised to stop sharing such misinformation and
 
 ---
 
+### India gas from India to power plants
+
+*2024-12-16 16:30:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විදුලි-බලාගාරවලට-ඉන්දියාවෙන්-ගෑස්/11-413668) · `si`
+
+India to supply LNG to Sri Lanka power plants. PM Modi announces $5 billion aid for Sri Lankan development. Assistance for railway signal system and port rehabilitation.
+
+🟩
+
+Indian Prime Minister Narendra Modi said India Narendra Modi said that India plans to provide LNG (LNG) to power plants in Sri Lanka.
+
+Narendra Modi said this at a joint press conference held by President Anura Kumara Dissanayake held on a three-day official visit to India.
+
+The Prime Minister said that Sri Lanka is cooperating with Sri Lanka for a digital identity program.
+
+The Prime Minister of the Indian Prime Minister said that India has provided US $ 5 billion loans and grant of credit to Sri Lanka for the development of Sri Lanka.
+
+He also announced that India has decided to provide assistance to rehabilitation of Mahawa - Anuradhapura Railway Signal Signal System and the Kankesanthurai Port
+
+◼️
+
+[Data](articles/d8a37162.json)
+
+[Extended Data](ext_articles/d8a37162.ext.json)
+
+---
+
 ### Diminishing eggs
 
 *2024-12-16 16:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டைவிலை-குறைகிறது/175-348801) · `ta`
@@ -174,53 +218,81 @@ The Public Utilities Commission said that the final decision on the Electricity 
 
 ---
 
-### அர்ச்சுனாவுக்கு பிணை
+### Bail to Archana
 
 *2024-12-16 16:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அர்ச்சுனாவுக்கு-பிணை/71-348799) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் அதிகாரிகளின் பணிக்கு இடையூறு விளைவித்த குற்றச்சாட்டில் நீதிமன்றில் சரணடைந்த பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனாவுக்கு பிணை வழங்கப்பட்டது.
+Here's a summary of 200 characters:
 
-யாழ்ப்பாண போதனா வைத்தியசாலைக்கு சென்று அதன் பணிப்பாளர் வைத்தியர் சத்தியமூர்த்தியுடன் தர்க்கத்தில் ஈடுபட்டமை தொடர்பாக, பொலிஸில் முறைப்பாடு செய்யப்பட்டிருந்தது.
+
+
+Parliamentarian Archana Ramanathan, accused of disrupting hospital operations, granted bail after surrendering to court charges. Police complaint filed against her at Jaffna Teaching Hospital for engaging in argument with director Dr. Satyamurthy.
+
+🟩
+
+Parliamentarian Ramanathan Archana, who surrendered to the court on charges of disrupting the work of the authorities at the Jaffna Teaching Hospital, was granted bail.
+
+The police had lodged a complaint with the Jaffna Teaching Hospital to engage in logic with its director Dr. Satyamurthy.
 
 ◼️
 
 [Data](articles/4e91e842.json)
 
+[Extended Data](ext_articles/4e91e842.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයක් සඳහා නායයෑම් අනතුරු ඇඟවීම්
+### Landslide warnings for several areas
 
 *2024-12-16 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204433) · `si`
 
-ප්‍රදේශ කිහිපයක් සඳහා නයයෑමේ පූර්ව අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමට පියවර ගෙන තිබේ.
+Here's a summary of 200 characters:
 
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පැවසුවේ අදියර 1 යටතේ අද (16)  පස්වරු 4  සිට හෙට (17) පස්වරු 4 දක්වා මෙම අනතුරු ඇඟවීමේ නිවේදනය බල පැවැත්වෙනු ඇති බවය.
 
-ඒ අනුව බදුල්ල දිස්ත්‍රික්කයේ හපුතලේ ඇල්ල, හාලිඇල සහ පස්සර, මහනුවර දිස්ත්‍රික්කයේ මැදදුම්බර සහ පාතදුම්බර, කුරුණෑගල දිස්ත්‍රික්කයේ රිදීගම, මාතලේ දිස්ත්‍රික්කයේ රත්තොට, අඹන්ගඟ කෝරලය යන ප්‍රාදේශීය ලේකම් කොට්ඨාස සඳහා මෙම අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර තිබේ.
+
+"Landslide warnings issued for Haliele/Passara (Badulla), Haputale/Kandy, Ridtumbara/Matale, Rattota/Matale. Warning announcements from 4pm today to 4pm tomorrow."
+
+🟩
+
+Steps have been taken to issue a prior warning announcement for several areas.
+
+The National Building Research Organization said that this warning announcement will be held from 4 pm today (16) at 4 pm tomorrow.
+
+The warning announcement has been issued to the Divisional Secretariat Divisions in Haliele and Passara, Badulla District, Haputale, Haliela and Passara, Kandy District, Ridtumbara, Matale District, Rattota, Matale District.
 
 ◼️
 
 [Data](articles/a48295b2.json)
 
+[Extended Data](ext_articles/a48295b2.ext.json)
+
 ---
 
-### ජනපති අනුරට ඉන්දියාවෙන් උණුසුම් පිළිගැනීමක්
+### President receives warm welcome from India
 
 *2024-12-16 16:14:43* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-අනුරට-ඉන්දියාවෙන්-උණුසුම්-පිළිගැනීමක්/10-413667) · `si`
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ඉන්දීය ජනාධිපති නිලනිවස වන රාෂ්ට්‍රපති භවන්හීදී අද (16) පෙරවරුවේ පැවැත්විණ.
+India welcomes President Anura Kumara Dissanayake with ceremonial honors. He met PM Modi, planted a tree, and discussed investments with business leaders during his three-day visit.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා, අශ්වාරෝහකයන් පෙරටු කොට ගනිමින් රාෂ්ට්‍රපති භවන් වෙත කැඳවා ගෙන ඒමෙන් අනතුරුව ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය  සහ අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා විසින් මහත් හරසරින් පිළිගනු ලැබීය.
+🟩
 
-එහිදී පූර්ණ රාජ්‍ය ගෞරව සහිතව ආචාර වෙඩිමුර 21ක් පවත්වා  ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගනු ලැබිණි. අනතුරුව ජනාධිපතිවරයා විසින් ඉන්දීය හමුදා ආචාර පෙළපාලියේ හරසර පිළිගනු ලැබීය.
+The official festival of President Anura Kumara Dissanayake on a three-day official visit to India was held this morning.
 
-ඉන්පසුව දෙරටේ නායකයන්ට දෙපාර්ශ්වයේ නියෝජිත පිරිස හඳුන්වා දීම සිදු කෙරිණි. ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවයට රාජ්‍ය තාන්ත්‍රකයෝ රැසක් එක්ව සිටියහ.
+President Anura Kumara Dissanayake was convened to Raztrarian Bhavan by filming the cavalry and was welcomed by the President's President Murmi and Prime Minister Narendra Modi.
 
-පිළිගැනීමේ නිල උත්සවයෙන් අනතුරුව රාජ්ඝාට්හි පිහිටි මහත්මා ගාන්ධි ස්මාරකයට උපහාර දැක්වීමටද ජනාධිපතිවරයා එක් විය.
+President Anura Kumara Dissanayake accepted 21 salute with full state hostility and 21. The President was later accepted by the President.
+
+Subsequently, the two-sides of the two countries were introduced to the leaders of the country. A number of government diligents were present at the official ceremony of President Anura Kumara Dissanayake.
+
+The President also joined the hearer of the Mahma Gandhi monument in Rajouthth following the official ceremony.
+
+Anura Kumara Dissanayake, who planted a Dissan of Gandhi Shuffer in Rajoutt, was then signed in the book of Guest.
 
 ...
 
 [Data](articles/2e7d4208.json)
+
+[Extended Data](ext_articles/2e7d4208.ext.json)
 
 ---
 
@@ -2307,41 +2379,5 @@ In reply, the Nuwara Eliya Kings lost 8 wickets in 10 overs and lost 108 runs.
 [Data](articles/5053e7e7.json)
 
 [Extended Data](ext_articles/5053e7e7.ext.json)
-
----
-
-### Oh. One travet from text to the Tea Degree - Sri Lanka Fitness Guide
-
-*2024-12-16 01:37:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dx5kl7012o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka Fitness Guide outlines 12-layer education system. Includes GCE exams, degrees, diplomas, and NVQ levels. Describes qualification requirements for each layer and research expectations for higher degrees.
-
-🟩
-
-Oh. One travet from text to the Tea Degree - Sri Lanka Fitness Guide
-
-Professor's posts, Deferator and Education levels have been created in Sri Lanka at present.
-
-The graduation question of the Speaker to resign from his post.
-
-Meanwhile, some of the Professor name had been identified as the engineers, Diploma holders have been identified as engineers and sarcasmists, as well as sarcasmists.
-
-Some have a specific methodology to use such names in Sri Lanka, even if they used the professor names.
-
-It is clearly explained by the Sri Lanka Fitness Guide to the Sri Lanka Fitness Commission (SLI) has been issued by the Sri Lanka University Grants Commission.
-
-'Sri Lankan fitness guide consists of twelve layers. Learning Fruit and Learning Diversity Requirements The Sri Lanka Fitness Guide is high.
-
-Sri Lanka Fitness Guide Layers, the minimum academic requirements of each layer and the minimum studies required for each layer are also required.
-
-...
-
-[Data](articles/300b3f67.json)
-
-[Extended Data](ext_articles/300b3f67.ext.json)
 
 ---

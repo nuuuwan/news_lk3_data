@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 12:19:19**
+As of **2024-12-16 12:03:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,394 (100.0%) of 60,417 articles have been extended.
+60,393 (100.0%) of 60,417 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,29 +222,23 @@ Question - 02: 2024 How much did the government borrow?
 
 ---
 
-### Father and daughter seriously from shooting in Meetiyagoda
+### මීටියාගොඩ වෙඩි තැබිමකින් පියාට හා දියණියට බරපතලයි
 
 *2024-12-16 09:51:42* · [`adalk`](https://www.ada.lk/breaking_news/මීටියාගොඩ-වෙඩි-තැබිමකින්-පියාට-හා-දියණියට-බරපතලයි/11-413660) · `si`
 
-Shooting incident in Meetiyagoda: Father-daughter injured, others killed. Police investigating personal dispute, not underworld clash. Suspect identified, fled scene.
+මීටියාගොඩ , බලිමුල්ල නිවසකට ඊයේ (15) රෑ කඩාවැදුණු පිරිසක් විසින් කළ වෙඩි තැබීමකින් නිවසේ සිටි පියා හා දියණිය බරපතල තුවාල ලබා ඇති බවත් ඔවුන් බලපිටිය රෝහලට ඇතුළත් කළ බවත්  මීටියාගොඩ පොලීසිය කියයි.
 
-🟩
+මෙසේ වෙඩි වැදී ඇත්තේ පනස්එක් හැවිරිදි රවීන්ද්‍ර ගුණතිලක නමැත්තාට සහ විසිනම හැවිරිදි රමයා ගුණතිලක නමැත්තියකටයි.
 
-The father and daughter of the house were seriously injured in a shooting at Meetiyagoda and a group of people who were shot dead at the Balamur Hall yesterday (15).
+ත්‍රීරෝද රථයකින් පැමිණි පිරිසක් පිස්තෝල වර්ගයේ ගිනි අවියකින් වෙඩි තැබීම සිදු කොට ඇති බව මුලික පරීක්ෂණවලදී අනාවරණයවූ බවද පොලීසිය කියයි.
 
-The fifty-year-old Ravindra Gunatilleke, who was fifty-year-old Ravindra Gunatilleke, who was born to the man of the man and Ramaya Gunatilleke.
+වෙඩි තැබීම සිදු කළ සැකකරු හදුනාගෙන ඇති බවත් ඔහු එම ප්‍රදේශයේම පදිංචි අයෙක් බවත් සැකකරු ඇතුලු පිරිස ප්‍රදේශයෙන් පලාගොස් ඇති බවත් පොලීසිය කියයි.
 
-Investigations have revealed that a group of three-wheeler has been shot with a pistol type firearm.
-
-The suspect had been identified as a resident of the area and the suspect, including the suspect, had fled the area.
-
-Police also say that a personal dispute has been shot and is not a clash between underworld.
+පෞද්ගලික ආරවුලකට වෙඩි තැබීම සිදු කරන්නට ඇති බවත් මෙය පාතාල කණ්ඩායම් අතර ගැටුමක් නොවන බවත් පොලීසිය වැඩිදුරටත් කියයි.
 
 ◼️
 
 [Data](articles/bf285416.json)
-
-[Extended Data](ext_articles/bf285416.ext.json)
 
 ---
 

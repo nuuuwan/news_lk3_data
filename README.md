@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 14:03:25**
+As of **2024-12-16 14:17:53**
 
 ## Newspaper Stats
 
-*Scraped **60,449** Articles*
+*Scraped **60,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 3,674
 dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,746
-adaderanalk | 7,364
+adaderanalk | 7,365
 tamilmirrorlk | 8,638
-virakesarilk | 9,950
-adaderanasinhalalk | 10,449
+virakesarilk | 9,953
+adaderanasinhalalk | 10,450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,409 (99.9%) of 60,449 articles have been extended.
+60,411 (99.9%) of 60,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### ජනපති සහ ඉන්දීය අග්‍රාමාත්‍යවරයා පවත්වන ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ජාව
+
+*2024-12-16 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204428) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ඉන්දීය අග්‍රාමාත්‍ය නරේන්දු මෝදි සහභාගි වන ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාව මේ වනවිට ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/f26dcffb.json)
+
+---
+
+### அநுராதபுரத்தில் இரு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதி விபத்து ; ஒருவர் பலி
+
+*2024-12-16 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201404) · `ta`
+
+அநுராதபுரம் விளச்சிய வீதியின் லோலுகஸ்வெவ பகுதியில் இரு மோட்டார் சைக்கிள்கள் நேருக்கு நேர் மோதி விபத்து இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விபத்தில் பலத்த காயங்களுக்குள்ளான மூவரை வைத்தியசாலையில் அனுமதித்ததன் பின்னர் மோட்டார் சைக்கிள் ஓட்டுனர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அநுராதபுரம் பொலிஸ் பிரிவின் விளச்சிய வீதி லோலுகஸ்வெவ பகுதியில் நேற்று ஞாயிற்றுக்கிழமை (15)  இவ்விபத்துச் சம்பவம் இடம்பெற்றுள்ளதாக அநுராதபுரம் தலைமையக பொலிஸ் நிலைய போக்குவரத்து பொலிஸார் தெரிவித்தனர்.
+
+லோலுகஸ்வெவ, அநுராதபுரம் பகுதியை வசிப்பிடமாக கொண்ட 62 வயதுடய ஒருவரே சம்பவத்தில் உயிரிழந்துள்ளார.
+
+பொலிஸார் மேற்கொண்ட மேலதிக விசாரணையில், விளச்சிய வீதியின் லோலுகஸ்வெவ பகுதியிலிருந்து பசவக்குளம் பகுதிக்கு சென்றுகொண்டிருந்த மோட்டார் சைக்கிளும் எதிர் திசையில் வந்த மோட்டார் சைக்கிளும் நேருக்கு நேர் மோதியதில் இவ்விபத்து இடம்பெற்றுள்ளமை தெரியவந்துள்ளது.
+
+மேலும், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை அநுராதபுரம் தலைமையக பொலிஸ் நிலைய போக்குவரத்து பொலிஸார் மேற்கொண்டுவருகின்றனர்.
+
+◼️
+
+[Data](articles/150ab874.json)
+
+---
+
+### பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டிருந்த சந்தேக நபர் தப்பியோட்டம் !
+
+*2024-12-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201398) · `ta`
+
+அநுராதபுரம் மாவட்டம், தலாவ பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த சந்தேக நபர் ஒருவர் கைரேகைகளை பெற்றுக் கொள்வதற்காக குற்றப் புலனாய்வுப் பிரிவிற்கு அழைத்துச் செல்லப்பட்டு மீண்டும் பொலிஸ் நிலையத்திற்கு கொண்டு வரப்பட்ட போது பொலிஸ் காவலில் இருந்து தப்பிச் சென்றுள்ளதாக தலாவ பொலிஸார் தெரிவித்தனர்.
+
+தலாவ கம்பிரிஸ்வெவ பகுதியைச் சேர்ந்த 19 வயதுடைய இளைஞரே இவ்வாறு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வீடொன்றை உடைத்து சொத்துக்களை திருடிய சம்பவம் தொடர்பில் கடந்த 12ஆம் திகதி தலாவ பொலிஸாருக்கு கிடைக்கப்பெற்ற முறைப்பாட்டின் அடிப்படையில் தலாவ பொலிஸ் உத்தியோகத்தர் குழுவினால் கடந்த சனிக்கிழமை (14) சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர் பொலிஸ் தடுப்பு காவலில் வைக்கப்பட்டிருந்த நிலையில, கைரேகைகளை பெற்றுக் கொள்வதற்காக குற்றப் புலனாய்வுப் பிரிவிற்கு அழைத்துச் செல்லப்பட்டு மீண்டும் பொலிஸ் நிலையத்திற்கு கொண்டு வரப்பட்ட போது பொலிஸ் அதிகாரிகளை தள்ளிவிட்டு அங்கிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/36d6b7c7.json)
+
+---
+
+### ஜனாதிபதி அநுரகுமார - இந்திய பிரதமருக்கு இடையில் சந்திப்பு
+
+*2024-12-16 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201412) · `ta`
+
+இந்தியாவுக்கான மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இந்திய பிரதமர் நரேந்திர மோடியை சந்தித்துள்ளார்.
+
+இதன்போது வர்த்தகம், முதலீடு, அபிவிருத்தி மற்றும் பாதுகாப்பு ஒத்துழைப்பு ஆகியவற்றை உள்ளடக்கிய விரிவான கலந்துரையாடல் நடைபெறும் என எதிர்பார்க்கப்படுகிறது.
+
+◼️
+
+[Data](articles/268d0496.json)
+
+---
 
 ### Sri Lankan President - Indian Prime Minister meets Delhi
 
@@ -103,6 +169,26 @@ However, the Minister of Justice added that the Criminal Investigation Departmen
 [Data](articles/ab1f047e.json)
 
 [Extended Data](ext_articles/ab1f047e.ext.json)
+
+---
+
+### President Dissanayake meets Indian PM
+
+*2024-12-16 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104277/president-dissanayake-meets-indian-pm) · `en`
+
+President Anura Kumara Dissanayake has held bilateral discussions with the Indian Prime Minister, Narendra Modi, in New Delhi.
+
+Present at the discussion were Sri Lanka’s Minister of Foreign Affairs Vijitha Herath and his Indian counterpart Dr. S. Jaishankar.
+
+President Dissanayake, on his maiden foreign visit since assuming office, was accorded a grand ceremonial welcome at the Rashtrapati Bhavan in New Delhi, the official residence of the Indian President, earlier today (16).
+
+Later in the day, President Dissanayake is scheduled to meet with Indian Vice President Jagdeep Dhankhar, as well as hold talks with Indian President Droupadi Murmu at Rashtrapati Bhavan.
+
+The agenda also includes the signing of key Memorandums of Understanding (MoUs), extensive bilateral discussions, and a joint press briefing.
+
+◼️
+
+[Data](articles/b61793c0.json)
 
 ---
 
@@ -244,6 +330,8 @@ The victim, a resident of Gelioya in Kandy, was pronounced dead at the scene. He
 
 [Data](articles/20419e2f.json)
 
+[Extended Data](ext_articles/20419e2f.ext.json)
+
 ---
 
 ### Lanka T10 match-fixing scandal: Indian team owner to make confidential statement to court
@@ -263,6 +351,8 @@ The Indian national, Prem Thakur, who owns a franchise in the tournament, was ta
 ...
 
 [Data](articles/6d9c7829.json)
+
+[Extended Data](ext_articles/6d9c7829.ext.json)
 
 ---
 
@@ -379,6 +469,22 @@ The suspects are from Matale and Udaspattu area aged 46 and 48.
 ...
 
 [Data](articles/0725cc34.json)
+
+---
+
+### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
+
+*2024-12-16 11:23:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
+
+‘We in Lanka feel that our fight for freedom is being fought largely in India’
+
+We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
+
+Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
+
+...
+
+[Data](articles/42a20cca.json)
 
 ---
 
@@ -1422,11 +1528,9 @@ The female participants will have the opportunity to learn from Mimi, who is one
 
 ---
 
-### 
+### “Bala Annai” : an Up,Close and Personal Account about LTTE Political Strategist Anton  Stanislaus Balasingham.
 
 *2024-12-16 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85220) · `en`
-
-“Bala Annai” : an Up,Close and Personal Account about LTTE Political Strategist Anton  Stanislaus Balasingham.
 
 The  current controversy surrounding speaker Ashoka Sapumal Ranwala’s higher educational qualifications  evoke memories of an earlier controversy of a similar  nature concerning a prominent person associated with the Liberation Tigers of Tamil Eelam(LTTE).  The rumpus then was about the LTTE political strategist Anton Stanislaus Balasingham who was frequently referred to as Dr.Balasingham in the media. This was widely disputed by members of organizations opposed to the LTTE.It was  said that Balasingham had never acquired a doctoral degree and was therefore  a “pretender doctor”.
 
@@ -2147,151 +2251,5 @@ The names of the senior members of the ruling party, Nihal Kalathathi and Lakshm
 [Data](articles/aea09573.json)
 
 [Extended Data](ext_articles/aea09573.ext.json)
-
----
-
-### Shooting shooting in Mahawatta Mahawatta
-
-*2024-12-15 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204409) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Shooting in Mahawatta: 1 killed in Meetiyagoda. 3 suspects fled by three-wheeler. 2 injured taken to Balapitiya Hospital."
-
-🟩
-
-Shortly before a shooting was shot dead in Meetiyagoda.
-
-The shooting has fled by three of three persons from a three-wheeler.
-
-It is reported that two injured in the shooting have been admitted to the Balapitiya Hospital.
-
-◼️
-
-[Data](articles/b20e4be3.json)
-
-[Extended Data](ext_articles/b20e4be3.ext.json)
-
----
-
-### Cyclone slams into France’s Mayotte archipelago, killing at least 11
-
-*2024-12-15 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104263/cyclone-slams-into-frances-mayotte-archipelago-killing-at-least-11) · `en`
-
-At least 11 people were killed after a cyclone slammed into Mayotte, the most intense storm to hit the French Indian Ocean archipelago north of Madagascar in nearly a century, French weather forecasters and authorities said on Sunday.
-
-Cyclone Chido swept through Mayotte overnight, Meteo-France said, bringing winds of more than 200 kph (124 mph) and damaging makeshift housing, government buildings and a hospital. It was the strongest storm in more than 90 years to hit the islands, the forecaster said.
-
-It was difficult to ascertain the precise death toll after the cyclone, which also raised concerns about access to food, water and sanitation, authorities said.
-
-“For the toll, it’s going to be complicated, because Mayotte is a Muslim land where the dead are buried within 24 hours,” a French interior ministry official said.
-
-...
-
-[Data](articles/2cfafbec.json)
-
-[Extended Data](ext_articles/2cfafbec.ext.json)
-
----
-
-### President Anura is a cheerful welcome in India
-
-*2024-12-15 22:23:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அநுரவிற்கு-இந்தியாவில்-ஆரவாரமான-வரவேற்பு/175-348774) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake arrives in New Delhi. Welcomed by IT Min., High Comm'r, & officials. Media campaign features Pres. & PM Modi. To meet with External Affairs Min. & Defense Advisor.
-
-🟩
-
-President Anura Kumara Dissanayake arrived at the Indira Gandhi airport in New Delhi at 5.30 pm today.
-
-Indian Information Technology Minister Dr. S. Murugan, Indian High Commissioner Santosh Ja, Additional Secretary of the Indian Ocean Zone, Punit Agarwal and Indian Treatment Chief Ansuman Kavur gave a special welcome to the President at the airport.
-
-The Indian media has made a special campaign on the visit of President Anura Kumara Dissanayake and the banners of President and Prime Minister Narendra Modi in the main surroundings of New Delhi.
-
-President Anura Kumara Dissanayake, Indian External Affairs Minister Dr. S. Jaishankar and Indian Defense Advisor Sri Ajith Doa will meet with the meeting.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath. (A)
-
-◼️
-
-[Data](articles/c8a389c9.json)
-
-[Extended Data](ext_articles/c8a389c9.ext.json)
-
----
-
-### President launches Indian diplomatic talks
-
-*2024-12-15 22:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204408) · `si`
-
-Sri Lankan President Anura Kumara Dissanayake visits India for diplomatic talks. Discusses economic revival, tourism, investments, and energy cooperation. Focuses on promoting fisheries, national unity, and Indo-Sri Lanka relations.
-
-🟩
-
-President Anura Kumara Dissanayake has participated in a three-day official visit to India at Indian External Affairs Dr. S.. The Presidential Media Unit said he met Mr. Jeyishankar.
-
-Mrs. Namula Sehaetha Raman and Sri Ajith DhoWal has also been found.
-
-President Anura Kumara Dissanayake and Dr. S.. At the meeting held between Mr. Jeyzankar, India's massive market capacity was attracted to a country's economic revival.
-
-The Indian government has agreed to support Sri Lanka's tourism, investment and energy areas.
-
-In addition, the discussion has also focused on the fields of interested in the promotion of fisheries and national unity.
-
-Meanwhile, the President and Nirmala Sehaetha Raman have been extensively discussed in the discussion between Mrs. Indo-Sri Lanka and expanding investment opportunities between the two countries.
-
-Most of the Indians have paid more attention to Sri Lanka's agricultural and digital infrastructure development.
-
-...
-
-[Data](articles/6a2e235d.json)
-
-[Extended Data](ext_articles/6a2e235d.ext.json)
-
----
-
-### President Dissanayake receives warm welcome in India
-
-*2024-12-15 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104262/president-dissanayake-receives-warm-welcome-in-india) · `en`
-
-President Anura Kumara Dissanayake arrived in India today (15) at around 5:30 p.m via the Indira Gandhi International Airport in New Delhi.
-
-He was warmly welcomed by India’s Minister of State for Information and Broadcasting, Dr. S. Murugan, Indian High Commissioner to Sri Lanka Santosh Jha, Additional Secretary of the Indian Ocean Region Puneet Agrawal, Chief of Protocol Anshuman Gaur, and other diplomatic officials, the President’s Media Division (PMD) reported.
-
-The Indian media gave significant coverage to the President’s arrival. Around major roundabouts in New Delhi, billboards featuring the images of both President Dissanayake and Prime Minister Narendra Modi were prominently displayed, the PMD said in a statement.
-
-Later tonight, President Anura Kumara Dissanayake is scheduled to hold discussions with India’s Minister of External Affairs, Dr. S. Jaishankar, and National Security Advisor, Shri Ajit Doval, it added.
-
-...
-
-[Data](articles/94c9db7b.json)
-
-[Extended Data](ext_articles/94c9db7b.ext.json)
-
----
-
-### Tharindu's ability evaluated in India
-
-*2024-12-15 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204407) · `si`
-
-Tharindu Dilshan wins Great Photography Award in Mumbai, India. First Sri Lankan to receive this wildlife photography honor.
-
-🟩
-
-Tharindu Dilshan Saenenayake in Sri Lanka to win the Great Photography Award of the Year at Mumbai, India.
-
-Tharindu Dilshan is the first Sri Lankan to win the award in this tournament for wildlife photography.
-
-◼️
-
-[Data](articles/70afa668.json)
-
-[Extended Data](ext_articles/70afa668.ext.json)
 
 ---

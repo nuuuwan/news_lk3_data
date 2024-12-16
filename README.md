@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 21:43:22**
+As of **2024-12-16 22:02:44**
 
 ## Newspaper Stats
 
-*Scraped **60,522** Articles*
+*Scraped **60,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 634
 islandlk | 3,655
-economynextcom | 3,682
+economynextcom | 3,685
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,757
+adalk | 5,758
 adaderanalk | 7,375
 tamilmirrorlk | 8,646
 virakesarilk | 9,971
@@ -26,31 +26,37 @@ adaderanasinhalalk | 10,463
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,465 (99.9%) of 60,522 articles have been extended.
+60,466 (99.9%) of 60,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
 
-### මෙරට ආයෝජනයට ඉන්දීය ව්‍යාපාරිකයන්ගේ කැමැත්ත
+### Indian business consent for investment in Sri Lanka
 
 *2024-12-16 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204442) · `si`
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක  මහතා නවදිල්ලි නුවර දී අද (16) පස්වරුවේ ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් සමඟ සාකච්ඡාවකට  එක් විය.
+Sri Lanka seeks Indian investment in key sectors like digital economy, tourism, and IT during President Anura Kumara Dissanayake's visit to India.
 
-ඉන්දියානු කර්මාන්ත සම්මේලනය විසින් සංවිධානය කරන ලද මෙම සාකච්ඡාවට ඉන්දියාවේ ප්‍රමුඛතම ව්‍යවසායකයන් සහභාගී විය.
+🟩
 
-ශ්‍රී ලංකාවේ ආයෝජනවලට ඇති හිතකර පරිසරය පහදා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ශ්‍රී ලංකාවේ ආයෝජනය කරන ලෙස ඉන්දීය ව්‍යවසායකයන්ගෙන් ඉල්ලා සිටියේය.
+President Anura Kumara Dissanayake on a three-day official visit to India at New Delhi was discussing with the Indian Large Business Representatives.
 
-දෙරට අතර ආයෝජන සහ වාණිජ සම්බන්ධතා පුළුල් කිරීමේ අරමුණෙන් පැවති එම සාකච්ඡාවේදී ඩිජිටල්  ආර්ථික, සංචාරක, පුනර්ජනනීය බලශක්ති සහ තොරතුරු තාක්ෂණ යන  ක්ෂේත්‍ර පිළිබඳව විශේෂ අවධානය යොමු කෙරිණි.
+Organized by the Indian Industry Federation, India's leading entrepreneurs participated in this discussion.
 
-ඒ අනුව දෙරට අතර වෙළෙඳ කටයුතු මුල්කර ගනිමින් ශ්‍රී ලංකාවේ ආයෝජන අවස්ථා පුළුල් කිරීම පිළිබඳව සාකච්ඡාවට ලක් විය.
+President Anura Kumara Dissanayake demanded the Indian entrepreneurs to invest in Sri Lanka's investment in Sri Lanka.
 
-මෙහිදී ශ්‍රී ලංකාවේ අයෝජන අවස්ථා  කෙරෙහි යොමු වීමට ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් කැමැත්ත පළ කළ අතර ඒ සඳහා අවශ්‍ය ආයෝජන පහසුකම් සැපයීමට ශ්‍රී ලංකා රජය එකඟ විය.
+The discussion focused on the aim of expanding investment and commercial relations between the two countries, special attention was held in the fields of digital economic, tourism and IT.
+
+Accordingly, the two countries discussed the expansion of investment opportunities in Sri Lanka with trade.
+
+The Government of Sri Lanka agreed to focus on the investment opportunities in Sri Lanka here.
 
 ◼️
 
 [Data](articles/78bd80d9.json)
+
+[Extended Data](ext_articles/78bd80d9.ext.json)
 
 ---
 
@@ -306,6 +312,24 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 
 ---
 
+### India confident of Sri Lanka giving due care for concerns over Chinese research ship visits
+
+*2024-12-16 19:07:00* · [`economynextcom`](https://economynext.com/india-confident-of-sri-lanka-giving-due-care-for-concerns-over-chinese-research-ship-visits-194548/) · `en`
+
+ECONOMYNEXT – India is confident that Sri Lanka will give due care for the security concerns over the visits of Chinese research vessels, the Indian Foreign Secretary Shri Vikram Misri said.
+
+The Foreign Secretary’s comments for questions at a media briefing came after Sri Lanka President Anura Kumara Dissanayake met India’s Prime Minister Narendra Modi on a three-day official visit.
+
+“Our understanding is that the Sri Lanka government is looking at this issue,” Misri told reporters when he was asked if the Indian side discussed extending the ban on foreign research vessels.
+
+Sri Lanka’s previous government has imposed a temporary one-year ban on all foreign research vessels visiting Sri Lanka for research purposes. The move came in December last year after strong security concerns raised by India.
+
+...
+
+[Data](articles/511b4e09.json)
+
+---
+
 ### මියන්මාර සයිබර් අපරාධ කඳවුරුවල රඳවා ගෙන සිටි ශ්‍රී ලාංකිකයින් පිරිසක් දිවයිනට
 
 *2024-12-16 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204439) · `si`
@@ -330,6 +354,44 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 
 ---
 
+### India eyes joint Sri Lanka offshore wind power development in Palk Straits
+
+*2024-12-16 18:52:00* · [`economynextcom`](https://economynext.com/india-eyes-joint-sri-lanka-offshore-wind-power-development-in-palk-straits-194546/) · `en`
+
+ECONOMYNEXT – India is eyeing joint development of offshore wind power potential in the Palk Straits with Sri Lanka, according to a statement released after a meeting between President Anura Dissanayake and Prime Minister Narenda Modi.
+
+A wind power plant negotiated without competitive tender to India’s Adani group in Mannar with a high plant factor has been controversial due to its high price and the deal is currently in court.
+
+Sri Lanka’s CEB is developing two off shore sites, for wind power, with one location off Mannar.
+
+“Emphasizing the need for reliable, affordable and timely energy resources for ensuring energy security and meeting basic needs of the people, both leaders underscored the importance of strengthening cooperation in the energy sector and facilitation towards timely implementation of ongoing energy cooperation projects between India and Sri Lanka,” the statement said.
+
+...
+
+[Data](articles/dbe8f471.json)
+
+---
+
+### Sri Lanka, India plan second ferry connection
+
+*2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-plan-second-ferry-connection-194528/) · `en`
+
+ECONOMYNEXT – Sri Lanka and India have discussed resuming a second passenger ferry service between the island and the sub-continent during President Anura Dissanayake’s state visit.
+
+“While expressing satisfaction at the resumption of the passenger ferry service between Nagapattinam and Kankesanthurai, they agreed that officials should work towards the early recommencement of the passenger ferry service between Rameshwaram and Talaimannar,” a statement issued after Dissanayake met Indian Prime Minister Narendra Modi read.
+
+The ferry service between Nagappatinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka commenced on October 14, 2023.
+
+India has agreed to fund the renovation of Kankesanthurai port in the north of the island through grant assistance.
+
+Both leaders stressed the need for building further connectivity. (Colombo/Dec16/2024)
+
+◼️
+
+[Data](articles/9d327cd6.json)
+
+---
+
 ### Sri Lanka, India plan second ferry connection
 
 *2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-discuss-passenger-ferry-service-between-rameshwaram-and-talaimannar-194528/) · `en`
@@ -349,6 +411,22 @@ Both leaders stressed the need for building further connectivity. (Colombo/Dec16
 [Data](articles/e95caea3.json)
 
 [Extended Data](ext_articles/e95caea3.ext.json)
+
+---
+
+### කොටස් වෙළඳපොළ වාර්තා අලුත් කරයි
+
+*2024-12-16 18:37:16* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-වාර්තා-අලුත්-කරයි/11-413677) · `si`
+
+ශ්‍රී ලංකා කොටස් වෙළඳපොළ ඉතිහාසය තුළ දැවැන්ත කඩයිමක් පසුකරමින් අද දිනයේදී කොළඹ කොටස් හුවමාරුවේ සමස්ත මිල දර්ශකය ඒකක 14500 සීමාව ඉක්මවා ගියේය.
+
+ඒ අනුව අද දිනයේදී සමස්ත මිල දර්ශකය ඒකක 295.1කින් එනම් සියයට 2.08කින් ඉහළ ගියේය. මේ අතර එස්. ඇන්ඩ් පී. දර්ශකයද ඒකක 105.37කින් ඉහළ ගොස් ඒකක 4349ක් දක්වා ඉහළට ගියේය.
+
+එසේම කොටස් වෙළඳපොළ පිරිවැටුමද රුපියල් බිලියන 8.2ක දැවැන්ත අගයක් වාර්තා කළේය.
+
+◼️
+
+[Data](articles/401c6177.json)
 
 ---
 
@@ -2219,117 +2297,5 @@ Recent reports indicate that nearly 12.3 per cent (43, 000) of the international
 [Data](articles/30987d0f.json)
 
 [Extended Data](ext_articles/30987d0f.ext.json)
-
----
-
-### Meeting with Indian diplomats
-
-*2024-12-16 10:28:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இராஜதந்திரிகளுடன்-சந்திப்பு/175-348790) · `ta`
-
-Indian diplomats meet Sri Lankan officials at ITC Maurya Hotel in New Delhi. Discussions focus on strengthening economic ties, expanding investments, and addressing common challenges like fisheries and national unity. Security and defense cooperation also on agenda.
-
-🟩
-
-President of India, Nirmala Sitharaman, Minister of Foreign Affairs, Dr. S. Jaishankar, Dr.S.Jayashankar and Indian Defense Advisor Sri Ajith Dawal, who visited the ITC Maurya Hotel in New Delhi, who is on a three -day official visit to India.
-
-The meeting between the President and the Minister of Finance and Corporation Nirmala Sitharaman was discussed in detail to strengthen the India -Sri Lanka economic cooperation and expand the investment opportunities between the two countries.
-
-At the same time, India was discussing the most brought to Sri Lanka and the development of Sri Lanka's agricultural modernization and digital infrastructure.
-
-The meeting between the President and the Minister of State for External Affairs, Dr. S. Jaishankar, was friendly and focused on using India's largest market for the economic revival of Sri Lanka.
-
-In addition, Dr. S. Jaishankar, who cooperates in the country's tourism, investment and strength sectors, agreed.
-
-...
-
-[Data](articles/f473eb89.json)
-
-[Extended Data](ext_articles/f473eb89.ext.json)
-
----
-
-### Negotiations between the president and the Indian diplomats
-
-*2024-12-16 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201391) · `ta`
-
-India-Sri Lanka talks: Economic ties, agriculture, digital growth, tourism, defense cooperation.
-
-🟩
-
-President of India, Nirmala Sitharaman, Minister of State for Foreign Affairs, Dr. S. Jaishankar, (Dr.S.Jayashankar) and Indian Defense Advisor Sri Ajith Dawal.
-
-The meeting between the President and the Minister of Finance and Corporation Nirmala Sitharaman was discussed in detail on strengthening India and Sri Lanka's economic cooperation and expanding investment opportunities between the two countries.
-
-At the same time, India was discussing the most brought to Sri Lanka and the development of Sri Lanka's agricultural modernization and digital infrastructure.
-
-The meeting between the President and the Minister of State for External Affairs, Dr. S. Jaishankar, was friendly and focused on using India's largest market for the economic revival of Sri Lanka.
-
-In addition, Dr. S. Jaishankar, who cooperates in the country's tourism, investment and strength sectors, agreed.
-
-The focus was on alien issues for both countries, including the fisheries sector and the development of national unity.
-
-...
-
-[Data](articles/bf9fb2b5.json)
-
-[Extended Data](ext_articles/bf9fb2b5.ext.json)
-
----
-
-### President welcomes the President in India
-
-*2024-12-16 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204422) · `si`
-
-Sri Lankan President Anura Kumara Dissanayake visits India. Welcomed with 21-gun salute. Met with Indian PM Modi. Paid tribute to Gandhi memorial. Discusses investments with Indian business leaders.
-
-🟩
-
-The official festival of President Anura Kumara Dissanayake on three-day official visit to India was held this morning at Indian Presidential Chief Prelate.
-
-President Anura Kumara Dissanayake was convened to the Raztraphon and the President of India was welcomed by the President of India and Prime Minister Narendra Modi.
-
-President Anura Kumara Dissanayake accepted 21 salute with full state hostility and 21. The President was later accepted by the President.
-
-Subsequently, the two-sides of the two countries were introduced to the leaders of the country. A number of government diligents were present at the official ceremony of President Anura Kumara Dissanayake.
-
-The President also had to pay tribute to the Mahma Gandhi monument in Rajouthth following the official ceremony of the reception.
-
-Anura Kumara Dissanayake, who planted a Dissan of Gandhi Shuffer in Rajoutt, was then signed in the book of Guest.
-
-...
-
-[Data](articles/b4a8ff68.json)
-
-[Extended Data](ext_articles/b4a8ff68.ext.json)
-
----
-
-### Today's event to officially welcome the president
-
-*2024-12-16 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதியை-உத்தியோகபூர்வமாக-வரவேற்கும்-நிகழ்வு-இன்று/150-348789) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential visit to India: Official welcome, economic cooperation, defense talks, cultural exchange.
-
-🟩
-
-The official visit to India on a three -day official visit to India will be held on Monday (16) at the official residence of the President of India.
-
-The President and his crew pasted at around 5.30 pm yesterday (15) at around 5.30 pm.
-
-There, the Minister of Communications, Dr. S.. Murugan, Indian High Commissioner Santosh Ja and diplomats greeted the President at the airport.
-
-Subsequently, Minister of State for Finance and Institutions of India, Nirmala Sitharaman, Minister of State for Foreign Affairs. Jaishankar and India's National Security Adviser Ajit Dowal have held talks with the president.
-
-It is reported that the meeting between the President Nirmala Sita Raman and the Minister of India and the Minister of Finance and Corporation Nirmala Sita Raman was discussed to increase the Indian -Sri Lankan economic cooperation and expand the investment opportunities between the two countries.
-
-...
-
-[Data](articles/a2b68161.json)
-
-[Extended Data](ext_articles/a2b68161.ext.json)
 
 ---

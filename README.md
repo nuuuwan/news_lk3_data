@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 23:26:49**
+As of **2024-12-16 23:43:29**
 
 ## Newspaper Stats
 
-*Scraped **60,533** Articles*
+*Scraped **60,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,685
 dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,759
-adaderanalk | 7,377
+adaderanalk | 7,379
 tamilmirrorlk | 8,648
-virakesarilk | 9,973
-adaderanasinhalalk | 10,463
+virakesarilk | 9,974
+adaderanasinhalalk | 10,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,473 (99.9%) of 60,533 articles have been extended.
+60,476 (99.9%) of 60,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### லங்கா ரி10 சுப்பர் லீக் இறுதிச் சுற்றுக்கு ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ், கோல் மார்வல்ஸ் அணிகளும் தகுதி
+
+*2024-12-16 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201463) · `ta`
+
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்றுவரும் அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட்டின் இறுதிச் சுற்றில் விளையாட மேலும் இரண்டு அணிகள் தகுதி பெற்றுள்ளன.
+
+இச் சுற்றுப் போட்டியில் முதலாவது அணியாக ஜெவ்னா டைட்டன்ஸ் இறுதிச் சுற்றில் விளையாட தகுதிபெற்ற நிலையில், இன்று நடைபெறவிருந்த 3 போட்டிகளும் மழையினால் கைவிடப்பட்டதால் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ், கோல் மார்வல்ஸ் ஆகிய அணிகளும் இறுதிச் சுற்றுக்கு முன்னேறியுள்ளன.
+
+ஜெவ்னா டைட்டன்ஸ் 4 வெற்றிகள், 2 முடிவில்லாத பெறுபேறுகள் ஆகியவற்றடன் 10 புள்ளிகளைப் பெற்று அணிகள் நிலையில் அசைக்க முடியாத முதலிடத்தில் இருக்கிறது.
+
+ஹாம்பந்தொட்ட பங்ளா டைகர்ஸ் அணியும் கோல் மார்வல்ஸ் அணியும் தலா 2 வெற்றிகள், ஒரு தொல்வி, 3 முடிவில்லா பெறுபேறுகள் ஆகியவற்றுடன் தலா 7 புள்ளிகளைப்  பெற்று  நிகர ஓட்ட வேக அடிப்படையில் முறையே 2ஆம், 3ஆம் இடங்களில் இருக்கின்றன.
+
+...
+
+[Data](articles/a95707df.json)
+
+---
+
+### Indian President hosts banquet in honor of President Dissanayake
+
+*2024-12-16 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104292/indian-president-hosts-banquet-in-honor-of-president-dissanayake-) · `en`
+
+Indian President Droupadi Murmu has received Sri Lankan President Anura Kumara Dissanayake at the Rashtrapati Bhavan in New Delhi and hosted a banquet in his honor.
+
+“The President said that as a close and trusted partner, India would continue to support the Sri Lankan Government’s efforts for the sustainable economic development of Sri Lanka,” the President of India  posted on X (formerly Twitter).
+
+President Dissanayake, who is on a three-day official visit to India, his maiden foreign trip after taking office, had also met with Indian Prime Minister Narendra Modi and several Indian ministers today.
+
+◼️
+
+[Data](articles/fcdeff08.json)
+
+---
+
+### ජනපති සහ ඉන්දීය ජනපතිනිය අතර හමුවක්
+
+*2024-12-16 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204443) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන්දීය ජනාධිපති ද්‍රෞපදී මුර්මු මහත්මිය හමුවී තිබේ.
+
+මෙම හමුවේදී ඉන්දීය ජනාධිපතිවරිය, පවසා ඇත්තේ, සමීප සහ විශ්වාසනීය හවුල්කරුවෙකු ලෙස ශ්‍රී ලංකාවේ තිරසාර ආර්ථික සංවර්ධනය සඳහා ශ්‍රී ලංකා රජය ගෙන යන ප්‍රයත්නයන් සඳහා ඉන්දියාව අඛණ්ඩව සහාය දක්වන බවය.
+
+◼️
+
+[Data](articles/072d2f95.json)
+
+---
 
 ### Scholarship affair;Postponement of the case until tomorrow
 
@@ -85,6 +133,28 @@ Former parliamentarian Jagath Kumara has said that he will act independently in 
 [Data](articles/ff5ed381.json)
 
 [Extended Data](ext_articles/ff5ed381.ext.json)
+
+---
+
+### 27 Sri Lankans rescued from Myanmar cybercrime camps return home
+
+*2024-12-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104291/27-sri-lankans-rescued-from-myanmar-cybercrime-camps-return-home) · `en`
+
+A group of 27 Sri Lankans, including eight women, who were victims of human traffickers in Myanmar, has returned to the country today (16).
+
+They arrived at the Bandaranaike International Airport (BIA) in Katunayake onboard a SriLankan Airlines flight from Bangkok, Thailand.
+
+It is reported that arrangements have been made to ensure their safe transport to their respective residences.
+
+Meanwhile, it has been reported that another group of 14 Sri Lankans remain in captivity of human traffickers in Myanmar.
+
+Foreign Minister Vijitha Herath has instructed the relevant authorities to take immediate action to facilitate their safe return.
+
+Since the formation of the new government, a total of 63 Sri Lankans, who were held in human trafficking camps in Myanmar, have been successfully repatriated.
+
+...
+
+[Data](articles/357b79b1.json)
 
 ---
 
@@ -242,21 +312,35 @@ A 23 -year -old youth from Tunnalai village died of a fever at the Karavetti Hea
 
 ---
 
-### எதிர்க்கட்சியின் சபாநாயகர் பதவிக்கு ராேஹினி விஜேரத்ன
+### Rahini Wijeratne for the post of Speaker of the Opposition
 
 *2024-12-16 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201459) · `ta`
 
-எதிர்க்கட்சியில் இருந்து சபாநாயகர் பதவிக்கு ஐக்கிய மக்கள் சக்தியின் மாத்தளை மாவட்ட பாராளுமன்ற உறுப்பினர் ராேஹின குமாரி விஜேரத்னவின் பெயரை பிரேரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது. ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற குழு 15ஆம் திகதி ஞாயிற்றுக்கிழமை கூடி, இதுதொடர்பாக ஆராந்தபோதே இந்த தீர்மானத்தை மேற்கொண்டுள்ளதாக தெரியவருகிறது.
+Here's a summary of 200 characters:
 
-கலாநிதி பட்டம் தொடர்பில் எழுந்த சர்ச்சையை அடுத்து சபாநாயகர் பதவியை அசோக்க ரன்வல இராஜினாமா செய்ததன் மூலம் சபாநாயகர் பதவிக்கான வெற்றிடம் பாராளுமன்றத்தில் ஏற்பட்டுள்ளது.
 
-இந்நிலையில் பாராளுமன்றம் இன்று கூடுகின்றபோது, புதிய சபாநாயகர் ஒருவரை தெரிவு செய்யும் நடவடிக்கை இடம்பெறும். இதன்போது புதிய சபாநாயகர் ஒருவரை பிரேரிக்கும்போது எதிர்க்கட்சியில் இருந்தும் ஒருவரை பிரேரிப்பதாக ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்திருந்தார்.
 
-அதன் பிரகாரம் பாராளுமன்ற உறுப்பினர் ராேஹினி குமாரி விஜேரத்னவின் பெயரை பிரேரிப்பதற்கு ஐக்கிய மக்கள் சக்தி தீர்மானித்துள்ளது.
+Rahini Wijeratne nominated as Opposition Speaker. United People's Power party decides her candidacy. New Speaker election in Parliament today. Sri Lanka PA supports Jagath Wickramaratne for Speaker position.
 
-...
+🟩
+
+Matale District Parliamentarian Rahina Kumari Wijeratne has decided to name the name of the United People's Power. The United People's Power Parliamentary Committee gathered on Sunday, the 15th, and it was revealed that the decision was made when it was Oranda.
+
+The vacuum for the post of Speaker has been caused by the resignation of the Speaker of the Speaker following the controversy over the doctor's degree.
+
+When Parliament meets today, a new Speaker will be elected. United People's Shakti MP Nalin Bandara has said that he would propose a new Speaker when the opposition was proposed.
+
+Accordingly, the United People's Power has decided to nominate the name of Parliamentarian Rahini Kumari Wijeratne.
+
+Meanwhile, Sri Lanka PA is supported by the United People's Power to support a relevant member for the post of Speaker.
+
+It has been decided to nominate the name of the new Speaker of the Polonnaruwa District, Dr. Jagath Wickramaratne.
+
+◼️
 
 [Data](articles/8e8ab73c.json)
+
+[Extended Data](ext_articles/8e8ab73c.ext.json)
 
 ---
 
@@ -341,6 +425,8 @@ Later, President Dissanayake met with Indian Health Minister and Bharatiya Janat
 ◼️
 
 [Data](articles/d7fe2438.json)
+
+[Extended Data](ext_articles/d7fe2438.ext.json)
 
 ---
 
@@ -440,19 +526,27 @@ The National People's Power Government came to power and on September 19, 2024, 
 
 ---
 
-### நாமல் ராஜபக்ஷவின் சட்டமாணி பட்டம் : முறைக்கேடான வகையில் பரீட்சைக்கு தோற்றினாரா? குற்றப்புலனாய்வு திணைக்களத்தில் முறைப்பாடு
+### Namal Rajapaksa's Law Degree: Did you miss the exam?Complaint at the Criminal Investigation Department
 
 *2024-12-16 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201453) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ பிரத்தியேக குளிர் அறையில் இரண்டு சட்டத்தரணிகளின் ஒத்துழைப்புடன் சட்டமாணி பரீட்சை எழுதினார் என்ற குற்றச்சாட்டு ஆதாரபூர்வமாக முன்வைக்கப்பட்டுள்ளது. இவ்விவகாரம் குறித்து முறையான விசாரணைகளை மேற்கொண்டு நாமல் ராஜபக்ஷவின் சட்டமாணி பட்டத்தை இரத்துச் செய்து முறைகேடான செயற்பாட்டுக்கு ஒத்தாசையளித்த அரச அதிகாரிகளுக்கு எதிராக நடவடிக்கை எடுக்குமாறு ஜனாதிபதியிடம் வலியுறுத்துவதாக இலஞ்ச,ஊழலுக்கு எதிரான மக்கள் அமைப்பின் தலைவர் ஜாமுனி காமந்த துஷாரா தெரிவித்தார்.
+Namal Rajapaksa law degree controversy: Allegations of cheating in 2011 exam. Complaint filed with CID. Opposition calls for action against officials involved.
 
-நாமல் ராஜபக்ஷவின் சட்டமாணி பட்டம் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் திங்கட்கிழமை (16) முறைப்பாடளித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ 11 ஆண்டுகளுக்கு முன்னர் சட்டமாணி பரீட்சைக்கு தோற்றிய விவகாரம் இன்று வரை பேசப்படுகிறது.முறையற்ற வகையில் பரீட்சைக்கு தோற்றியதாகவும் குற்றஞ்சாட்டப்படுகிறது.
+The allegation that Namal Rajapaksa's parliamentarian Namal Rajapaksa wrote the examination with the cooperation of two lawyers in the exclusive cold room.. Jamuni Kamantha Dushara, the leader of the People's Organization against Bribery and Corruption, said that he urged the president to take action against Namal Rajapaksa's legislative degree and take action against the government officials who had abused the law.
+
+He made this comment to the media after lodging a complaint with the Criminal Investigation Department on Monday (16) of Namal Rajapaksa's law.
+
+Sri Lanka PA's parliamentarian Namal Rajapaksa has been talking about the appearance of the Law Examination 11 years ago.
+
+A Sri Lankan from abroad has challenged Namal Rajapaksa's legislative title as the educational qualification of MPs is now a major speech.
 
 ...
 
 [Data](articles/c44595ba.json)
+
+[Extended Data](ext_articles/c44595ba.ext.json)
 
 ---
 
@@ -2213,91 +2307,5 @@ The Ada Derana reporter said that the father had no injury in the accident.
 [Data](articles/98553624.json)
 
 [Extended Data](ext_articles/98553624.ext.json)
-
----
-
-### The Silence of the Speaker and other matters
-
-*2024-12-16 11:30:00* · [`islandlk`](http://island.lk/the-silence-of-the-speaker-and-other-matters/) · `en`
-
-It is more than two weeks since the matter of the Speaker, Asoka Ranwala’s doctorate, or lack of it, was raised in public. If he does have one, it is sufficient time for him to have produced the necessary evidence and laid to rest the ongoing speculation. When my daughter acquired a doctorate from a university in England, she was ceremoniously presented with an ornately inscribed scroll, on thick, parchment paper , along with a foolish hat.
-
-To me, a non-academic, it seemed a paltry outcome for the several years of intense study which preceded the award but that, apparently, is how these systems work. Perhaps Waseda University of Japan, the institution alleged to have conferred the doctoral degree on Ranwala, does not emulate old-fashioned British institutions, but there still needs to be tangible, physical evidence of such an award, with which Ranwala came away from that institution.
-
-...
-
-[Data](articles/30fa7f34.json)
-
-[Extended Data](ext_articles/30fa7f34.ext.json)
-
----
-
-### Police officer killed
-
-*2024-12-16 11:24:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தர்-பலி-இருவர்-கைது/175-348793) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Police officer killed in Vathegama road accident. Two suspects arrested: 46-year-old driver in Matale & 48-year-old aider from Udaspattu area.
-
-🟩
-
-Two suspects have been arrested in connection with the road accident in the Vathegama area last Saturday.
-
-The driver of the car was arrested yesterday in Matale with the car used during the incident and another suspect who helped him to cover the car was arrested, police said.
-
-The suspects are from Matale and Udaspattu area aged 46 and 48.
-
-◼️
-
-[Data](articles/5f447059.json)
-
-[Extended Data](ext_articles/5f447059.ext.json)
-
----
-
-### Minister of Justice a complaint under CID
-
-*2024-12-16 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204423) · `si`
-
-Justice Minister Harshana Nanayakkara filed CID complaint alleging false data entry to discredit him politically. He denies any wrongdoing, stating he's a lawyer with 25 years experience and his Facilities Information Sheet was correct.
-
-🟩
-
-Minister of Justice and National Integration Harshana Nanayakkara has lodged a complaint with the CID today (16).
-
-The Minister spoke to the medium, said the Minister said that if a person had a false data entry to discredit him or to break his politics, he said.
-
-The Minister recently arisen with the correlation of the Minister on a complaint made by the Minister's Official Web Site.
-
-The Minister said that he had sent a letter from the upphanity of the names of the Divisional Secretariat.
-
-"I am a lawyer who is engaged in the 25-year lawyers. I've never mentioned duties before my name. No solid card is attacked. I had clearly corrected the Facilities Information Sheet I Filled. There was no doctor. Where is this coming. Anyone emerges suspicion of suspicion of doubt when it comes to a whole. "
-
-◼️
-
-[Data](articles/0725cc34.json)
-
-[Extended Data](ext_articles/0725cc34.ext.json)
-
----
-
-### JRJ to Nehru: “India’s freedom is Lanka’s freedom too”
-
-*2024-12-16 11:23:00* · [`islandlk`](http://island.lk/jrj-to-nehru-indias-freedom-is-lankas-freedom-too/) · `en`
-
-‘We in Lanka feel that our fight for freedom is being fought largely in India’
-
-We continue the correspondence between Pandit Jawaharlal Nehru and Mr. J.R. Jayewardene in the pre-independence period excerpted from Jayewardene’s book, Men and Memories.
-
-Thank you for your letter of the 15th August which I have shown to our President, Maulana Abul Kalam Azad. We shall be glad to meet the deputation from the Ceylon National Congress whenever it comes here. I agree with you entirely that our discussions should not be restricted to any particular issues but should cover future relations with India and Ceylon.
-
-...
-
-[Data](articles/42a20cca.json)
-
-[Extended Data](ext_articles/42a20cca.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 21:27:06**
+As of **2024-12-16 21:43:22**
 
 ## Newspaper Stats
 
-*Scraped **60,520** Articles*
+*Scraped **60,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 5,757
 adaderanalk | 7,375
 tamilmirrorlk | 8,646
 virakesarilk | 9,971
-adaderanasinhalalk | 10,461
+adaderanasinhalalk | 10,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,465 (99.9%) of 60,520 articles have been extended.
+60,465 (99.9%) of 60,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### මෙරට ආයෝජනයට ඉන්දීය ව්‍යාපාරිකයන්ගේ කැමැත්ත
+
+*2024-12-16 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204442) · `si`
+
+ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක  මහතා නවදිල්ලි නුවර දී අද (16) පස්වරුවේ ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් සමඟ සාකච්ඡාවකට  එක් විය.
+
+ඉන්දියානු කර්මාන්ත සම්මේලනය විසින් සංවිධානය කරන ලද මෙම සාකච්ඡාවට ඉන්දියාවේ ප්‍රමුඛතම ව්‍යවසායකයන් සහභාගී විය.
+
+ශ්‍රී ලංකාවේ ආයෝජනවලට ඇති හිතකර පරිසරය පහදා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ශ්‍රී ලංකාවේ ආයෝජනය කරන ලෙස ඉන්දීය ව්‍යවසායකයන්ගෙන් ඉල්ලා සිටියේය.
+
+දෙරට අතර ආයෝජන සහ වාණිජ සම්බන්ධතා පුළුල් කිරීමේ අරමුණෙන් පැවති එම සාකච්ඡාවේදී ඩිජිටල්  ආර්ථික, සංචාරක, පුනර්ජනනීය බලශක්ති සහ තොරතුරු තාක්ෂණ යන  ක්ෂේත්‍ර පිළිබඳව විශේෂ අවධානය යොමු කෙරිණි.
+
+ඒ අනුව දෙරට අතර වෙළෙඳ කටයුතු මුල්කර ගනිමින් ශ්‍රී ලංකාවේ ආයෝජන අවස්ථා පුළුල් කිරීම පිළිබඳව සාකච්ඡාවට ලක් විය.
+
+මෙහිදී ශ්‍රී ලංකාවේ අයෝජන අවස්ථා  කෙරෙහි යොමු වීමට ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් කැමැත්ත පළ කළ අතර ඒ සඳහා අවශ්‍ය ආයෝජන පහසුකම් සැපයීමට ශ්‍රී ලංකා රජය එකඟ විය.
+
+◼️
+
+[Data](articles/78bd80d9.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රී අර්ච්චුනාට ඇප
+
+*2024-12-16 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204441) · `si`
+
+යාපනය ශික්ෂණ රෝහලට පැමිණ එහි අධ්‍යක්ෂකවරයාට සහ නිලධාරීන්ට බැන තර්ජනය කළේ යැයි චෝදනා එල්ලවූ පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා සහ කාන්තාවක් ඇප මත මුදා හැර තිබේ.
+
+යාපනය ශික්ෂණ රෝහලේ අධ්‍යක්ෂ කලනිති ඩී සත්‍යමූර්ති විසින් මෙම නඩුව ගොනු කර තිබුණි.
+
+පසුගිය 09 වැනිදා පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතා සහ අදාළ කාන්තාව මෙලෙස එම රෝහලේ අධ්‍යක්ෂවරයාට සහ නිලධාරීන්ට බැන තර්ජනය කෙරුණු අතර ඒ අනුව රෝහල් අධ්‍යක්ෂවරයා විසින් මෙම නඩුව ගොනු කරනු ලැබීය.
+
+◼️
+
+[Data](articles/6b23acd6.json)
+
+---
 
 ### யாழ் மாவட்டத்தில் எலிக் காய்ச்சலினால் 85 பேர் பாதிப்பு
 
@@ -2293,59 +2331,5 @@ It is reported that the meeting between the President Nirmala Sita Raman and the
 [Data](articles/a2b68161.json)
 
 [Extended Data](ext_articles/a2b68161.ext.json)
-
----
-
-### Today's event to officially welcome the president
-
-*2024-12-16 10:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-உத்தியோகபூர்வமாக-வரவேற்கும்-நிகழ்வு-இன்று/175-348789) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Presidential visit to India: Official welcome, economic cooperation talks, defense discussions, cultural exchanges.
-
-🟩
-
-The official visit to India on a three -day official visit to India will be held on Monday (16) at the official residence of the President of India.
-
-The President and his crew, which began the President's first overseas visit, reached the Indira Gandhi International Airport in New Delhi, India, at around 5.30 pm yesterday.
-
-There, the Minister of Communications, Dr. S.. Murugan, Indian High Commissioner Santosh Ja and diplomats greeted the President at the airport.
-
-Subsequently, Minister of State for Finance and Institutions of India, Nirmala Sitharaman, Minister of State for Foreign Affairs. Jaishankar and India's National Security Adviser Ajit Dowal have held talks with the president.
-
-It is reported that the meeting between the President Nirmala Sita Raman and the Minister of India and the Minister of Finance and Corporation Nirmala Sita Raman was discussed to increase the Indian -Sri Lankan economic cooperation and expand the investment opportunities between the two countries.
-
-...
-
-[Data](articles/e685e3f6.json)
-
-[Extended Data](ext_articles/e685e3f6.ext.json)
-
----
-
-### Youth dies after falling
-
-*2024-12-16 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204420) · `si`
-
-Here's a 200-character summary:
-
-
-
-29-year-old youth dies after falling. Initial investigations reveal victim was killed by unprotected electricity in Dambulla Road.
-
-🟩
-
-Initial investigations have revealed that the youth was killed and the victim had been killed and killed by a wide land to obtain unprotected electricity.
-
-The deceased is a 29 year old resident of Dambulla Road, Dambulla Road.
-
-◼️
-
-[Data](articles/f8e9f58b.json)
-
-[Extended Data](ext_articles/f8e9f58b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 04:42:54**
+As of **2024-12-16 05:52:21**
 
 ## Newspaper Stats
 
-*Scraped **60,372** Articles*
+*Scraped **60,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 453
 colombotelegraphcom | 614
 bbccomsinhala | 633
-islandlk | 3,646
+islandlk | 3,654
 economynextcom | 3,671
-dailyftlk | 4,173
+dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,731
 adaderanalk | 7,353
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,356 (100.0%) of 60,372 articles have been extended.
+60,363 (100.0%) of 60,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### Building ‘generational companies’ through Japanese business practices
+
+*2024-12-16 04:23:38* · [`dailyftlk`](https://www.ft.lk/columns/Building-generational-companies-through-Japanese-business-practices/4-770576) · `en`
+
+Japanese long-lived companies are pioneers, consistently challenging conventional wisdom to deliver solutions that resonate with customers
+
+A thought-provoking seminar on ‘Building generational companies using Japanese practices’ captivated an audience of entrepreneurs, family business owners, and corporate professionals. Prof. Keiichi Tao, a seasoned expert in Japanese business philosophy, led the seminar, unveiling the secrets behind Japan’s remarkable legacy of long-lived companies. The event explored key themes such as the significance of mission-driven leadership, innovative adaptability, and the integration of community values into business operations.
+
+...
+
+[Data](articles/6209b075.json)
+
+[Extended Data](ext_articles/6209b075.ext.json)
+
+---
+
+### Strategic thinking to corporate success in a challenging world
+
+*2024-12-16 04:19:09* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-thinking-to-corporate-success-in-a-challenging-world/4-770575) · `en`
+
+Realistic decision-makers base their choices on facts and strategic alignment with the company’s aims
+
+In today’s highly competitive marketplace, company success is dependent on the capacity of management to respond to corporate challenges which require strategic thinking. This entails not just imagining long-term goals that are consistent with an organisation’s mission, but also spotting market possibilities and risks. Strategic thinking necessitates a thorough knowledge of market trends, competitive dynamics, and internal strengths and limitations (Goldman, 2012). Nevertheless, many leaders pursue strategic thinking with an idealistic perspective, developing unrealistic approaches to company difficulties. As a result, solutions may be impractical and fail to successfully address real-world problems.
+
+...
+
+[Data](articles/b9b8d72c.json)
+
+[Extended Data](ext_articles/b9b8d72c.ext.json)
+
+---
 
 ### Leading female entrepreneurialism with empathy
 
@@ -229,6 +261,122 @@ In reply, the Nuwara Eliya Kings lost 8 wickets in 10 overs and lost 108 runs.
 [Data](articles/5053e7e7.json)
 
 [Extended Data](ext_articles/5053e7e7.ext.json)
+
+---
+
+### Singer Group recognised at TAGS Awards 2024 with two Gold awards
+
+*2024-12-16 01:21:00* · [`islandlk`](http://island.lk/singer-group-recognised-at-tags-awards-2024-with-two-gold-awards/) · `en`
+
+Singer Group’s outstanding success at the TAGS Awards 2024, highlighted by two Gold Awards and multiple recognitions, underscores its unwavering commitment to corporate excellence and its dedication to sustainable and responsible business practices.
+
+As a member of the Hayleys Group of Companies, Singer has leveraged decades of expertise to remain a pioneer in delivering innovative and dependable solutions to its customers. This remarkable achievement at the TAGS Awards 2024 reaffirms the Group’s steadfast focus on excellence, integrity, and community engagement, setting the stage for continued growth and long-term success.
+
+Adding to the accolades, Singer Finance (Lanka) PLC secured the Gold Award under the category of Finance Companies, Leasing Companies & Other Financial Institutions (Total Group Assets Between 25bn to 75bn). The company’s commitment to upholding industry best practices and fostering sustainable growth earned it this prestigious distinction.
+
+...
+
+[Data](articles/32978fe6.json)
+
+---
+
+### DIMO dominates CMA excellence in Integrated Reporting Awards 2024
+
+*2024-12-16 01:17:00* · [`islandlk`](http://island.lk/dimo-dominates-cma-excellence-in-integrated-reporting-awards-2024/) · `en`
+
+DIMO dazzled at the CMA Excellence in Integrated Reporting Awards 2024, securing the prestigious Overall Gold award and five other accolades for exceptional integrated reporting. Their accomplishments include being named among the Top 5 Excellent Integrated Reports, winning the Best Integrated Report in the Diversified Holdings Sector as a “Joint Winner”, and receiving Special Awards for Best Disclosure on Value Creation, Best Concise Integrated Report, and Integrated Thinking.  Pictured here, DIMO Leadership receiving the overall Gold award at the Awards Ceremony.
+
+Huawei holds South Asia Supplier Convention 2024 in Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/8cf83a0d.json)
+
+---
+
+### IIHS takes public health and midwifery studies to degree level as nursing elevated to doctorate programmes
+
+*2024-12-16 01:14:00* · [`islandlk`](http://island.lk/iihs-takes-public-health-and-midwifery-studies-to-degree-level-as-nursing-elevated-to-doctorate-programmes/) · `en`
+
+The International Institute of Health Sciences (IIHS) has introduced several new degree courses aimed at a number of health professionals, including nurses and midwives. Through these programmes, professionals will get the opportunity to acquire locally and internationally recognised knowledge and skills.
+
+A key example of IIHS’s commitment to empowering healthcare professionals is the introduction of the degree programme for Public Health and Midwifery.
+
+Takshila Jayakody, a midwife said that providing care for pregnant patients and offering assistance during delivery and the postpartum period is an important role. Gaining professional qualifications in the field will make midwifery a viable career path for us in Sri Lanka and abroad. We had only studied midwifery at diploma level. But now, we can study up to the degree level. The programmes at IIHS give us the opportunity to gain international-level knowledge, which in turn allows us to provide superior service to our community.”
+
+...
+
+[Data](articles/5fc08ae4.json)
+
+---
+
+### Huawei holds South Asia Supplier Convention 2024 in Sri Lanka
+
+*2024-12-16 01:13:00* · [`islandlk`](http://island.lk/huawei-holds-south-asia-supplier-convention-2024-in-sri-lanka/) · `en`
+
+Huawei’s South Asia Supplier Convention 2024, held at ITC Ratnadipa on 29th November, brought together key partners from Bangladesh, Nepal, the Maldives, and Sri Lanka to explore new opportunities for collaboration and strengthen the region’s partner ecosystem.
+
+The event served as a platform to share Huawei’s strategic vision for the coming years, deliver insights into the rapidly evolving ICT landscape, and recognize the contributions of partners who have played an important role in driving the company’s growth in South Asia.
+
+With a focus on mutual growth, the convention highlighted emerging opportunities in areas such as 5G, AI, cloud computing, and digital power.
+
+Over 140 participants from Bangladesh, Nepal, the Maldives, and Sri Lanka gathered for the Huawei South Asia Supplier Convention 2024.
+
+...
+
+[Data](articles/0ecf0517.json)
+
+---
+
+### Dr. Nilupul Perera appointed as chairman of Lanka Hospitals
+
+*2024-12-16 01:05:00* · [`islandlk`](http://island.lk/dr-nilupul-perera-appointed-as-chairman-of-lanka-hospitals/) · `en`
+
+Lanka Hospitals Corporation PLC has announced the appointment of Dr. M. Nilupul Perera, Consultant Neuro Physician, as its new chairman, effective 5th December 2024.
+
+Dr. Nilupul Perera brings over 18 years of extensive clinical experience to this leadership role. He has served in hospitals across Sri Lanka, including Base Hospital Gampola, Teaching Hospital Peradeniya, Sri Jayawardenapura Hospital, Institute of Neurology at the National Hospital of Sri Lanka, Teaching Hospital Kurunegala, and General Hospital Anuradhapura.
+
+Dr. Perera has garnered international experience during his tenure in Australia. He worked as a Clinical Research Fellow at the National Stroke Research Institute in Victoria and provided clinical services at Austin Health Hospital. His academic contributions include serving as a Clinical Tutor and Examiner at the University of Melbourne and publishing research papers that have gained recognition in Australia.
+
+...
+
+[Data](articles/8b80e761.json)
+
+---
+
+### Sri Lanka’s Industrial production increased by 7% in October 2024
+
+*2024-12-16 01:03:00* · [`islandlk`](http://island.lk/sri-lankas-industrial-production-increased-by-7-in-october-2024/) · `en`
+
+The Index of Industrial Production (IIP) in October 2024 increased by 7.0 per cent to 95.5 compared to October 2023, mainly contributed by the increases reported in the manufacture of Coke and refined petroleum products (38.6 per cent), Wearing apparel (7.8 per cent) and Beverages (27.6 per cent), according to the Weekly Economic Indicators report of the Central Bank.
+
+“Between December 09th and 13th, 2024, crude oil prices generally trended upward driven by escalating geopolitical tensions in the Middle East, expectations of increased demand from China, and the European Union’s decision to impose additional sanctions on Russia. However, prices slightly dipped towards the end of the period, influenced by the International Energy Agency’s forecast of ample supply. Overall, Brent and WTI prices increased by US dollars 1.91 and US dollars 2.42 per barrel, respectively, during this timeframe, it noted.
+
+...
+
+[Data](articles/41c5a56a.json)
+
+---
+
+### Waterproofing expert – Salasi Lanka Engineering Services launches website
+
+*2024-12-16 01:01:00* · [`islandlk`](http://island.lk/waterproofing-expert-salasi-lanka-engineering-services-launches-website/) · `en`
+
+Salasi Lanka Engineering Services, a subsidiary of Salasi Lanka (Pvt) Limited launched its website (www.sles.lk) at its head office in Maradana on December 11.
+
+Chairman of Salasi Lanka and Salasi Lanka Engineering Services, U.A. Padukka said that the main objective of introducing the website was to make the general public aware of the products and services offered by the company.
+
+Teresa Lim, Zonal Business Promotion Manager of Ardex – Quickseal Singapore that works with Salasi Lanka Group was present along with the top management of the Salasi Lanka and Salasi Lanka Engineering Services, to take part in the website launch.
+
+Salasi Lanka services include structural strengthening, waterproofing, concrete repair and rehabilitation, industrial flooring, specialized coating , thermal insulation , injection grouting and controlled demolition.
+
+...
+
+[Data](articles/89b91dc6.json)
 
 ---
 
@@ -568,21 +716,33 @@ Many senior politicians leaving parliament and new parliamentarians are the stro
 
 ---
 
-### பத்தாவது பாராளுமன்றத்தின் புதிய சபாநாயகர் தெரிவு
+### New Speaker of the Tenth Parliament
 
 *2024-12-15 22:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201359) · `ta`
 
-பத்தாவது பாராளுமன்றத்தின் புதிய சபாநாயகர் தெரிவு  செவ்வாய்க்கிழமை (17) இடம்பெறவுள்ளது. சபாநாயகர் பதவிக்கு ஆளும் கட்சியான தேசிய மக்கள் சக்தி சார்பில் மூவரின் பெயர்கள் பரிந்துரைக்கப்பட்டுள்ள நிலையில்,  பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி சபாநாயகர் பதவிக்கு முன்மொழிவதாக குறிப்பிட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-கல்வி தகைமை விவகாரத்தில் எழுந்த கடும் சர்ச்சையை தொடர்ந்து பத்தாவது பாராளுமன்றத்தில் சபாநாயகராக தெரிவு செய்யப்பட்ட அசோக்க சபுமல் ரன்வல கடந்த வெள்ளிக்கிழமை (13) தனது பதவியை இராஜினாமா செய்தார்.
 
-சபாநாயகரின் பதவி விலகலை ஜனாதிபதி ஏற்றுக்கொண்டதாக ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக குணநாயக்க பாராளுமன்ற செயலாளர் நாயகம் சட்டத்தரணி குஷானி ரோஹனதீரவுக்கு உத்தியோகபூர்வமாக  சனிக்கிழமை (14) அறிவித்துள்ளார்.
 
-இதற்கமைய சிறந்த மற்றும் சிரேஷ்டத்துவமிக்க ஒருவரை புதிய சபாநாயகராக தெரிவு செய்ய அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளது.
+New Speaker election in 10th Parliament on Tuesday. Three nominees: Nihal Kalaththi, Lakshman Y4:0, Mohamed Rizvi Sali. Ashoka Sabumal Ranwala resigned due to qualification controversy. Government prioritizes experienced candidate. JVP monitoring MP behavior after election.
+
+🟩
+
+The new Speaker of the Tenth Parliament will be held on Tuesday (17). The name of the trio has been nominated on behalf of the ruling party, the ruling party, the main opposition party, the main opposition party, which is proposing the post of Speaker.
+
+Ashoka Sabumal Ranwala, who was elected as Speaker in the Tenth Parliament following the fierce controversy over the education qualifications, resigned from his post last Friday (13).
+
+President of the President, Dr. Nandika Gunanayake, has officially announced to the Attorney General Kushani Rohanadeera on Saturday that the President has accepted the resignation of the Speaker.
+
+The government has paid special attention to the election of the new Speaker of the best and senior.
+
+The names of the senior members of the ruling party, Nihal Kalathathi and Lakshman expert, and the names of Deputy Speaker Mohamed Rizvi Sali have been nominated for the post of Speaker. However, the final decision has not been made.
 
 ...
 
 [Data](articles/aea09573.json)
+
+[Extended Data](ext_articles/aea09573.ext.json)
 
 ---
 
@@ -930,21 +1090,37 @@ He is accompanied by Foreign Minister Vijitha Herath and Deputy Finance Minister
 
 [Data](articles/f3e51bbe.json)
 
+[Extended Data](ext_articles/f3e51bbe.ext.json)
+
 ---
 
-### ஜனாதிபதி உள்ளிட்ட குழுவினருக்கு புதுடெல்லியில் சிறப்பான வரவேற்பு!
+### Welcome to New Delhi
 
 *2024-12-15 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201370) · `ta`
 
-உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு இந்தியாவிற்கு இன்று ஞாயிற்றுக்கிழமை (15) பிற்பகல் சென்ற ஜனாதிபதி அனுரகுமார திஸாநாயக்க உள்ளிட்ட குழுவினருக்கு புதுடில்லியில் சிறப்பான வரவேற்பு அளிக்கப்பட்டது.
+Here's a 200-character summary:
 
-இந்திய தகவல் தொழில்நுட்ப அமைச்சர் கலாநிதி எஸ்.முருகன் (Dr S.Murugan) , இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, (Santosh Jha), இந்து சமுத்திர வலயத்தின் மேலதிகச் செயலாளர் புனித் அகர்வால் (Puneet Agrawal), இந்திய உபசரணைப் பிரதானி அன்ஷுமன் கவூர் (Anshuman Gaur) உள்ளிட்ட இராஜதந்திரிகள் ஜனாதிபதிக்கு விமான நிலையத்தில் சிறப்பு வரவேற்பளித்தனர்.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் விஜயம் தொடர்பில் இந்திய ஊடகங்கள் சிறப்பாக பிரசாரம் செய்திருந்ததுடன், புதுடில்லி நகரின் பிரதான சுற்றுவட்டாரத்தில் ஜனாதிபதி மற்றும் பிரதமர் நரேந்திர மோடியின் புகைப்படங்கள் அடங்கிய பதாகைகளும் காட்சிப்படுத்தப்பட்டிருந்தன.
 
-...
+Pres. Anura Kumara Dissanayake welcomed in New Delhi. Met IT Min., FM, & Defense Advisor. Indian media coverage. Key officials present: Vijitha Herath, Anil Jayantha Fernando.
+
+🟩
+
+President Anura Kumara Dissanayake, who visited India on Sunday (15), made a special welcome in New Delhi.
+
+Indian Information Technology Minister Dr S.Murugan, Indian High Commissioner Santosh Jha, (Santosh JHA), Additional Secretary of the Indian Ocean Zone, Puneet AgrawalSpecial welcome at the station.
+
+The Indian media has made a special campaign on the visit of President Anura Kumara Dissanayake and the banners of President and Prime Minister Narendra Modi in the main surroundings of New Delhi.
+
+President Anura Kumara Dissanayake and Indian Foreign Minister Dr. S. Jaishankar (Dr.. S. Jayashankar and Indian Defense Advisor Sri Ajith Doval will meet with the people.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Deputy Minister of Industry and Economic Development Professor Anil Jayantha Fernando were also present.
+
+◼️
 
 [Data](articles/a3ed688f.json)
+
+[Extended Data](ext_articles/a3ed688f.ext.json)
 
 ---
 
@@ -955,6 +1131,8 @@ He is accompanied by Foreign Minister Vijitha Herath and Deputy Finance Minister
 ...
 
 [Data](articles/8fb0025e.json)
+
+[Extended Data](ext_articles/8fb0025e.ext.json)
 
 ---
 
@@ -1181,6 +1359,8 @@ Sri Lanka stands at a critical juncture, navigating complex geopolitical dynamic
 ...
 
 [Data](articles/407d8cf8.json)
+
+[Extended Data](ext_articles/407d8cf8.ext.json)
 
 ---
 
@@ -2187,199 +2367,5 @@ The President leaves the visit on the invitation of Mrs. President Mahinda Rajap
 [Data](articles/225f5805.json)
 
 [Extended Data](ext_articles/225f5805.ext.json)
-
----
-
-### Ukraine to set up mechanism to supply food to Syria, Zelenskiy says
-
-*2024-12-15 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104255/ukraine-to-set-up-mechanism-to-supply-food-to-syria-zelenskiy-says) · `en`
-
-Ukrainian President Volodymyr Zelenskiy said on Saturday he had instructed his government to set up supply mechanisms to deliver together with international organisations and partners food to Syria in the aftermath of the fall of President Bashar al-Assad.
-
-Ukraine has been one of the world’s top grain and oilseeds exporters, and has been exporting wheat and corn to Middle Eastern countries, but not to Syria.
-
-Syria imported food from Russia during the Assad era, but Russian wheat supplies have been suspended amid the uncertainty and payment delays, Russian and Syrian sources said on Friday.
-
-“We are ready to assist Syria in preventing a food crisis, particularly through the humanitarian program ‘Grain from Ukraine’,” Zelenskiy wrote on X.
-
-“I have instructed the government to establish food supply mechanisms in cooperation with international organizations and partners who can help.”
-
-...
-
-[Data](articles/ef9a74a4.json)
-
-[Extended Data](ext_articles/ef9a74a4.ext.json)
-
----
-
-### The President has departed to India
-
-*2024-12-15 14:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்கு-புறப்பட்டார்-ஜனாதிபதி/175-348751) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake visits India post-election. First foreign trip as JVP leader. Diplomatic relations strengthened.
-
-🟩
-
-President Anura Kumara Dissanayake made a diplomatic visit to India shortly before. After the presidential election, President Anura Kumara Dissanayake, the leader of the National People's Liberation Front (JVP), was the first diplomatic visit to the National People's Liberation Front (JVP).
-
-◼️
-
-[Data](articles/f53988f7.json)
-
-[Extended Data](ext_articles/f53988f7.ext.json)
-
----
-
-### India - New Dimensions for Sri Lanka Tax, Business and Industry Cooperation
-
-*2024-12-15 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201342) · `ta`
-
-India-Sri Lanka tax cooperation: Updates needed for modern economic conditions and trade demands.
-
-🟩
-
-Some of the specific improvements in Sri Lanka - India DTAA. In particular, there is a need to update the contract in accordance with new economic circumstances and trade requirements.
-
-◼️
-
-[Data](articles/b3171fc6.json)
-
-[Extended Data](ext_articles/b3171fc6.ext.json)
-
----
-
-### President Dissanayake leaves for India
-
-*2024-12-15 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104254/president-dissanayake-leaves-for-india) · `en`
-
-President Anura Kumara Dissanayake has left the island for India, a short while ago, the President’s Media Division (PMD) said.
-
-Dissanayake left the island on a 3-day state visit to India from 15 to 17 December.
-
-During the visit, President Dissanayake is scheduled to meet the Indian President Smt. Droupadi Murmu and hold bilateral discussions with Prime Minister Narendra Modi and other Indian dignitaries on a range of issues of mutual interest.
-
-◼️
-
-[Data](articles/6f4a37d3.json)
-
-[Extended Data](ext_articles/6f4a37d3.ext.json)
-
----
-
-### Opposition to MP for Speaker
-
-*2024-12-15 14:34:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகர்-பதவிக்கு-எம்-பியை-முன்மொழியவுள்ள-எதிர்க்கட்சி/175-348749) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Opposition proposes MP as Speaker; acknowledges defeat but aims to create comparison with incumbent Asoka Ranwala. SJB MP Nalin Bandara criticizes Ranwala as "fake-up".
-
-🟩
-
-The Opposition will propose a Member of Parliament when the parliament will convene on Tuesday after Asoka Ranwala, who resigned from his post last week.
-
-“We know that our candidate cannot be elected, but we hope that we will create a situation where people are comparing the candidates.
-
-If we contested for office on November 21, people would have said that the Opposition candidate would be better than Ranwala, who was a fake -up, ”SJB MP Nalin Bandara Jayamaha told the media.
-
-◼️
-
-[Data](articles/449ed7bc.json)
-
-[Extended Data](ext_articles/449ed7bc.ext.json)
-
----
-
-### Is the Curricane currency possible?
-
-*2024-12-15 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201340) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Is the Hurricane currency possible? Some American economists predict the US dollar may lose its status as the world's primary currency. However, the dollar remains strong despite global economic challenges."
-
-🟩
-
-Among American economists, there is an idea that the US dollar will lose the management of the international currency that has been enjoying the time ever.. However, the value of the dollar has no currency in the midst of the Born.
-
-◼️
-
-[Data](articles/ebd4078d.json)
-
-[Extended Data](ext_articles/ebd4078d.ext.json)
-
----
-
-### President Bashar al -Assad, who ended the half -century dictatorship of the half -century
-
-*2024-12-15 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201338) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Syrian Civil War: President Assad ends decades-long rule. Crisis displaces over 11 million, killing half Syria's pre-war population. Worst humanitarian disaster of our era.
-
-🟩
-
-Syria's civil war is the worst humanitarian crisis of our time. More than half of the country's pre -war population -11 million people -killed. Or forced to leave their homes.
-
-◼️
-
-[Data](articles/249363da.json)
-
-[Extended Data](ext_articles/249363da.ext.json)
-
----
-
-### Syria standing in a decisive junction on political journey
-
-*2024-12-15 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201337) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Syria faces challenges uniting diverse ethnic and religious groups. Rebuilding requires strong governance to overcome regional divisions and create a unified national identity.
-
-🟩
-
-It is not easy to build Syria as a nation and bring back the old state. Based on the basis of ethnic and religious sects and regional divisive people, the governance administration that can unite.
-
-◼️
-
-[Data](articles/d7f0c313.json)
-
-[Extended Data](ext_articles/d7f0c313.ext.json)
-
----
-
-### From coconut to doctor
-
-*2024-12-15 14:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201336) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Coconut to Doctor": Political corruption persists despite control measures. Traders, officials, and citizens struggle within outdated systems.
-
-🟩
-
-Although political mafia are controlled, traders, officials and even the general public are still drowning in the old system.
-
-◼️
-
-[Data](articles/8d3cab10.json)
-
-[Extended Data](ext_articles/8d3cab10.ext.json)
 
 ---

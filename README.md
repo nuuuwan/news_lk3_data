@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 05:52:21**
+As of **2024-12-16 06:48:52**
 
 ## Newspaper Stats
 
-*Scraped **60,382** Articles*
+*Scraped **60,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,654
 economynextcom | 3,671
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,731
+adalk | 5,732
 adaderanalk | 7,353
 tamilmirrorlk | 8,622
 virakesarilk | 9,944
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,363 (100.0%) of 60,382 articles have been extended.
+60,365 (100.0%) of 60,383 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -278,6 +278,8 @@ Adding to the accolades, Singer Finance (Lanka) PLC secured the Gold Award under
 
 [Data](articles/32978fe6.json)
 
+[Extended Data](ext_articles/32978fe6.ext.json)
+
 ---
 
 ### DIMO dominates CMA excellence in Integrated Reporting Awards 2024
@@ -295,6 +297,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/8cf83a0d.json)
+
+[Extended Data](ext_articles/8cf83a0d.ext.json)
 
 ---
 
@@ -1706,6 +1710,26 @@ Investigations have revealed that the suspect had defrauded more than 43 lakhs o
 
 ---
 
+### නව කථානායක පත්කිරීම අනිද්දා
+
+*2024-12-15 17:29:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-කථානායක-පත්කිරීම-අනිද්දා/11-413649) · `si`
+
+මෙම සතියේ පාර්ලිමේන්තුව 17දා සහ අනිද්දා 18දා යන දින දෙකේදී රැස්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කර තිබේ. හෙට දිනයේ පාර්ලිමේන්තුව ආරම්භයේදී නවක මන්ත්‍රීවරුන්ගේ දිවුරුම් දීම සිදු කිරීමට නියමිතව ඇත.
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස ෆයිසර් මුස්තාපා මහතාද, සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර සඳහා සුජීව සේනසිංහ, නිසාම් කාර්යප්පර්, මුහම්මදු ඉස්මයිල් මුත්තු මුහම්මදු සහ මනෝ ගනේෂන් යන මහත්වරුන්ද නම් කර ගැසට් නිවේදනයකින් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව ඔවුන් හෙට දිනයේ නියෝජ්‍ය කථානායක වෛද්‍ය රිස්වි සාලි  මහතා ඉදිරියේ දිවුරුම් දීමට නියමිතව ඇත.
+
+අනතුරුව නව කථානායකවරයෙකු පත් කර ගැනීම සිදු කිරීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය ‘අද’පුවත්පතට පැවසුවාය.
+
+10 වැනි පාර්ලිමේන්තුවේ අභිනව කථානායකවරයා ලෙස පත් වූ අසෝක රංවල මහතා පසුගියදා ඉල්ලා අස්වීමෙන් පසු කථානායක ධුරයේ පුරපාඩුවක් ඇති විය.
+
+...
+
+[Data](articles/969eb41d.json)
+
+---
+
 ### The recognition of the 'Indian Tamil' given to the Tamil people of the hill country should be changed and the recognition of Sri Lankans - Minister of Women and Child Affairs
 
 *2024-12-15 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201327) · `ta`
@@ -2339,33 +2363,5 @@ Taxation and damage policy are not directly associated with the central bank and
 [Data](articles/e35e125f.json)
 
 [Extended Data](ext_articles/e35e125f.ext.json)
-
----
-
-### President leaves for India
-
-*2024-12-15 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204395) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake embarks on his first foreign visit to India from March 10-17. The trip follows an invitation extended by Indian President Murmu. This marks Dissanayake's inaugural international engagement since assuming office.
-
-🟩
-
-President Anura Kumara Dissanayake has been led by the Indian official visit to the life.
-
-He is to visit India until the next 17th, the External Affairs Ministry said.
-
-This is also the first foreign visit to Mr. Mahana Dissanayake after he was appointed president.
-
-The President leaves the visit on the invitation of Mrs. President Mahinda Rajapakse Mrs. Murmi.
-
-◼️
-
-[Data](articles/225f5805.json)
-
-[Extended Data](ext_articles/225f5805.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 20:28:05**
+As of **2024-12-16 20:43:12**
 
 ## Newspaper Stats
 
-*Scraped **60,503** Articles*
+*Scraped **60,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 3,682
 dailyftlk | 4,175
 dailymirrorlk | 4,733
 adalk | 5,756
-adaderanalk | 7,370
+adaderanalk | 7,375
 tamilmirrorlk | 8,646
-virakesarilk | 9,962
-adaderanasinhalalk | 10,459
+virakesarilk | 9,968
+adaderanasinhalalk | 10,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,458 (99.9%) of 60,503 articles have been extended.
+60,460 (99.9%) of 60,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### இந்திய உப ஜனாதிபதியை சந்தித்தார் ஜனாதிபதி அநுரகுமார திசாநாயக்க
+
+*2024-12-16 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201457) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இந்திய உப ஜனாதிபதிக்கும் இடையில் சந்திப்பு இந்திய சுகாதார அமைச்சரையும் சந்தித்தார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இந்திய உப ஜனாதிபதி ஜக்தீப் தன்கருக்கும் இடையிலான சந்திப்பு திங்கட்கிழமை (16) பிற்பகல் நடைபெற்றது.
+
+கடந்த ஜனாதிபதித் தேர்தல் மற்றும் பொதுத் தேர்தலில் கிடைத்த  பெரு வெற்றிக்கு ஜனாதிபதி அநுர குமார திசானாயக்கவிற்கு இந்திய உப ஜனாதிபதி  வாழ்த்துக்களை தெரிவித்தார்.
+
+பொருளாதார ஒத்துழைப்பு, விவசாயம் மற்றும் டிஜிட்டல் மயமாக்கல் போன்ற விடயங்கள் குறித்து இதன் போது ஆராயப்பட்டது.
+
+அதனைத் தொடர்ந்து   இந்திய சுகாதார அமைச்சரும் பாரதீய ஜனதா கட்சியின் தலைவருமான ஜகத் பிரகாஷ் நட்டாவிற்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் இடையில் சந்திப்பொன்று நடைபெற்றது.
+
+◼️
+
+[Data](articles/f2ba3106.json)
+
+---
 
 ### Rice sales at high prices - Judgment at the end
 
@@ -55,6 +75,112 @@ Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that the c
 [Data](articles/6e57f339.json)
 
 [Extended Data](ext_articles/6e57f339.ext.json)
+
+---
+
+### භාණ්ඩ කිහිපයකට උපරිම සිල්ලර මිලක්
+
+*2024-12-16 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204440) · `si`
+
+ඉදිරියේදී භාණ්ඩ ගණනාවකට උපරිම සිල්ලර මිලක් පැනවීමට තීරණය කර ඇති බව අමාත්‍ය වසන්ත සමරසිංහ මහතා පවසයි.
+
+අද (16) අනුරාධපුර ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+
+"කුකුල් මස් විතරක් නෙමයි වතුර බෝතලේ ඉදන්... රුපියල් 100යට විකුණන වතුර බෝතලය රුපියල් 40ට අඩුවෙන් විකුණන් පුළුවන්. ලුණු පැකට් එක රුපියල් 52කට දාන්නේ ඒක රුපියල් 100ට විකුණන්නේ. මේ ලුණු කර්මාන්තයේ ලුණු නෑ කියලා දැන් ප්‍රශ්නයක් තියෙනවා. වතුර බෝතලේ ඉදන්ම අපේ රටේ ප්‍රශ්නයක් තියෙනවා වෙළෙඳපොළ ඇතුළේ පාරිභෝගිකයාට බරපතළ බරක් දරන්න වෙලා තියෙනවා. ඒ නිසා මේ වෙනකොට පාරිභෝගික අධිකාරිය හරහා තියෙනව පාරිභෝගික කවුන්සිලය මේ උපරිම සිල්ලර මිල තීරණ කිරීම සඳහා භාණ්ඩ ගණනාවක මිල තීරණය කිරීමට අවශ්‍ය කටයුතු සිදුකරමින් තියෙනවා. ඉදිරියේදී ඒවා දැනගන්න ලැබෙයි."
+
+◼️
+
+[Data](articles/310ba4d7.json)
+
+---
+
+### நாட்டின் சில பகுதிகளில் மண்சரிவு அபாய எச்சரிக்கை
+
+*2024-12-16 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201455) · `ta`
+
+குறித்த எச்சரிக்கை அறிவிப்பு 16ஆம் திகதி திங்கட்கிழமை மாலை 4 மணி முதல் 17ஆம் திகதி செவ்வாய்க்கிழமை மாலை 4 மணி வரை அமுலில் இருக்கும் என்று தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+இதன்படி, பதுளை மாவட்டத்தின் ஹப்புத்தளை எல்ல, ஹாலிஎல மற்றும் பசறை, கண்டி மாவட்டத்தின் மெததும்பர மற்றும் பாததும்பர,  குருநாகல் மாவட்டத்தில் ரிதீகம, மாத்தளை மாவட்டத்தின் ரத்தோட்டை, அம்பன்கங்க கோரலய ஆகிய பிரதேச செயலகப் பிரிவுகளுக்கே இந்த எச்சரிக்கை அறிவிப்பு விடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a82d4152.json)
+
+---
+
+### சர்வதேச இறையாண்மை பத்திர மறுசீரமைப்பு உடன்படிக்கை; ரணிலின் வேலைத்திட்டத்தின் தொடர்ச்சியை முன்னெடுப்பதாகும்
+
+*2024-12-16 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201454) · `ta`
+
+சர்வதேச இறையாண்மை பத்திர மறுசீரமைப்பு உடன்படிக்கை முன்னாள் ஜனாதிபதி ரணிலின் வேலைத்திட்டத்தின் தொடர்ச்சியை முன்னெடுப்பதாக உள்ளதென்று முன்னிலை சோசலிசக் கட்சி தெரிவித்துள்ளது.
+
+அக்கட்சி விடுத்துள்ள ஊடக அறிவிப்பில் மேற்கண்டவாறு தெரிவித்துள்ளதோடு அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது,
+
+சர்வதேச இறையாண்மை பத்திரங்களின் மறுசீரமைப்பை இலங்கை வெற்றிகரமாக நிறைவு செய்துள்ளதாக நிதி அமைச்சு டிசம்பர் 14ஆம் திகதி அறிக்கை ஒன்றை வெளியிட்டுள்ளது.  98 சதவீதமான சர்வதேச இறையாண்மை பத்திரம் வைத்திருப்பவர்கள் பத்திரப் பரிமாற்றத்தில் விருப்பம் தெரிவித்துள்ளதாகவும், எதிர்காலத்தில் இலங்கையின் சர்வதேச இறையாண்மை பத்திரங்களின் மறுசீரமைப்பு தற்போதுள்ள பத்திரங்களுக்கு புதிய பத்திரங்களை பரிமாறிக்கொள்வதன் மூலம் ஆரம்பிக்கப்படும் எனவும் நிதி அமைச்சு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/68997a59.json)
+
+---
+
+### நாமல் ராஜபக்ஷவின் சட்டமாணி பட்டம் : முறைக்கேடான வகையில் பரீட்சைக்கு தோற்றினாரா? குற்றப்புலனாய்வு திணைக்களத்தில் முறைப்பாடு
+
+*2024-12-16 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201453) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ பிரத்தியேக குளிர் அறையில் இரண்டு சட்டத்தரணிகளின் ஒத்துழைப்புடன் சட்டமாணி பரீட்சை எழுதினார் என்ற குற்றச்சாட்டு ஆதாரபூர்வமாக முன்வைக்கப்பட்டுள்ளது. இவ்விவகாரம் குறித்து முறையான விசாரணைகளை மேற்கொண்டு நாமல் ராஜபக்ஷவின் சட்டமாணி பட்டத்தை இரத்துச் செய்து முறைகேடான செயற்பாட்டுக்கு ஒத்தாசையளித்த அரச அதிகாரிகளுக்கு எதிராக நடவடிக்கை எடுக்குமாறு ஜனாதிபதியிடம் வலியுறுத்துவதாக இலஞ்ச,ஊழலுக்கு எதிரான மக்கள் அமைப்பின் தலைவர் ஜாமுனி காமந்த துஷாரா தெரிவித்தார்.
+
+நாமல் ராஜபக்ஷவின் சட்டமாணி பட்டம் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் திங்கட்கிழமை (16) முறைப்பாடளித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ 11 ஆண்டுகளுக்கு முன்னர் சட்டமாணி பரீட்சைக்கு தோற்றிய விவகாரம் இன்று வரை பேசப்படுகிறது.முறையற்ற வகையில் பரீட்சைக்கு தோற்றியதாகவும் குற்றஞ்சாட்டப்படுகிறது.
+
+...
+
+[Data](articles/c44595ba.json)
+
+---
+
+### New Speaker to be elected tomorrow after new MPs take oath
+
+*2024-12-16 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104288/new-speaker-to-be-elected-tomorrow-after-new-mps-take-oath) · `en`
+
+Parliament will convene tomorrow (17) where a new Speaker shall be elected following the Oaths and Affirmation of new Members of Parliament as provided by Standing Orders and the Constitution, said the Secretary General of Parliament, Mrs. Kushani Rohanadeera.
+
+The matter was discussed when the Committee on Parliamentary Business met today (16), chaired by the Deputy Speaker Dr. Rizvie Salih.
+
+Several amendments have also been made to the previously decided Business of the House related to December 17 and 18, the statement said.
+
+Accordingly, the Official Oath or Affirmation for the new Members has been allotted from 9:30 a.m. to 9:45 a.m. on Tuesday, December 17.
+
+Three Members nominated from the National List of the Samagi Jana Balawegaya (SJB) and a Member nominated from the National List of the New Democratic Front (NDF) are scheduled to take oath accordingly.
+
+...
+
+[Data](articles/a760c533.json)
+
+---
+
+### මියන්මාර සයිබර් අපරාධ කඳවුරුවල රඳවා ගෙන සිටි ශ්‍රී ලාංකිකයින් පිරිසක් දිවයිනට
+
+*2024-12-16 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204439) · `si`
+
+මියන්මාර මිනිස් ජාවාරම්කරුවන්ගේ ග්‍රහණයේ සිටි කාන්තාවන් 08ක් ඇතුළු 27 දෙනෙකුගෙන් යුතු කණ්ඩායමක් අද (16) දිවයිනට පැමිණ තිබේ.
+
+අද පස්වරුවේ බැංකොක් සිට කටුනායකට පැමිණි ශ්‍රීලංකන් ගුවන් යානයෙන් ඔවුන් දිවයිනට පැමිණි ඇත.
+
+ඔවුන් පදිංචි ස්ථාන කරා ආරක්ෂිතව රැගෙන යාමට කටයුතු යොදා තිබුණු බව වාර්තා වෙයි.
+
+මේ අතර තවත් 14 දෙනෙකුගෙන් යුතු කණ්ඩායමක් මියන්මාරයේ මිනිස් ජාවරම්කරුවන්ගේ ග්‍රහණයේ සිටින බවට වාර්තා වේ.
+
+ඔවුන් ගෙන්වා ගැනීමට අවශ්‍ය කටයුතු යොදන ලෙස පසුගිය දා අමාත්‍ය විජිත හේරත් මහතා උපදෙස් දී තිබුණි.
+
+නව රජය පත් වීමෙන් පසු මියන්මාරයේ මිනිස් ජාවාරම් කඳවුරුවල සිර වී සිටි 63ක් දිවයිනට පැමිණ තිබේ.
+
+මිනිස් ජාවාරම්වල ගොදුරු බවට පත් නොවීම සඳහා බලයලත් ක්‍රියා පටිපාටිවලට අනිවාර්යයෙන් අනුගත වන ලෙස විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශය විදේශ රැකියා අපේක්ෂාවෙන් සිටින අයගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/c8e2c06f.json)
 
 ---
 
@@ -103,6 +229,26 @@ Dushara further accused two lawyers of helping him while Rajapakse was sitting i
 [Data](articles/eaa010be.json)
 
 [Extended Data](ext_articles/eaa010be.ext.json)
+
+---
+
+### சர்வதேச ரி20யில் ஆர்ஜன்டீன வீரர் ஃபெனெல் 4 பந்துகளில் 4 விக்கெட்களை வீழ்த்தி அரிய சாதனை
+
+*2024-12-16 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201451) · `ta`
+
+சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 4 பந்துகளில் 4 விக்கெட்களை வீழ்த்தியோர் வரிசையில் ஆர்ஜன்டீன வேகப்பந்துவீச்சாளர் ஹேர்னன் ஃபெனெல் இணைந்துகொண்டுள்ளார்.
+
+அத்துடன் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் இரண்டு தடவைகள் ஹெட் - ட்ரிக் நிகழ்த்திய வீரர்களுக்கான அரிய சாதனை ஏடுகளிலும் அவர் இணைந்துகொண்டுள்ளார்.
+
+அடுத்த ஐசிசி ஆடவர் உலகக் கிண்ணத்துக்கான உப பிராந்திய அமெரிக்காக்கள் (Americas) தகுதிகாண் சுற்றிலேயே ஆர்ஜன்டீன வீரர் இந்த அரிய சாதனையை நிலைநாட்டினார்.
+
+புவனஸ் அயர்ஸ் விளையாட்டரங்கில் நடைபெற்ற கேமன் தீவுகள் அணிக்கு எதிரான போட்டியின் கடைசி ஓவரின் கடைசி 4 பந்துகளில் ஹேர்னன் ஃபெனெல் 4 விக்கெட்களைக் கைப்பற்றினார்.
+
+இதன் மூலம் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 4 பந்துகளில் 4 விக்கெட்களை வீழ்த்தியோர் வரிசையில் ஆறாவது வீரராக ஃபெனெல் இடம்பிடித்துள்ளார்.
+
+...
+
+[Data](articles/bb1e31e9.json)
 
 ---
 
@@ -158,21 +304,31 @@ In a joint statement, the both countries said President Dissanayake and Prime Mi
 
 ---
 
-### රු. 50000ක් ජනපති ප්‍රදානය ලෙසින් සෑම නිවසකටම දෙන කථාව අසත්‍යයි
+### Rs. The story of every house as a grant of 500,000 is false
 
 *2024-12-16 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/රු--50000ක්-ජනපති-ප්‍රදානය-ලෙසින්-සෑම-නිවසකටම-දෙන-කථාව-අසත්‍යයි/11-413674) · `si`
 
-ජනාධිපති ප්‍රදානය යන මාතෘකාව යටතේ රුපියල් 50000ක දීමනාවක් සෑම නිවසකට ලබා දෙන බවට ස ඳහන් කරමින් ව්‍යාජ පුවතක් මේ වන විට සමාජ ජාල ඔස්සේ සංසරණය බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව කියයි.
+Here's a summary in 200 characters:
 
-එසේම වැඩිදුර තොරතු ලබා ගන්නා ලෙස දන්වමින් එම ප්‍රවෘත්තිය සමග ව්‍යාජ සම්බන්ධතාවක්ද (link) ​සඳහන් කර ඇති බවද ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
 
-මෙම ප්‍රවෘත්තිය සම්පූර්ණයෙන්ම අසත්‍ය බවත් රජය මෙවැනි වැඩසටහනක් සම්බන්ධ තීරණයක් ගෙන ඇත්නම් අමාත්‍ය මණ්ඩල තීරණ දැනුම් දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී මහජනරතාවට හා ජනමාධ්‍ය වෙත එම තීරණය දැනුම් දීම රජයේ ක්‍රමවේදය බවද එම නිවේදනයේ දැක්වෙයි.
 
-මෙවැනි අසත්‍ය ප්‍රවෘත්ති පළකිරීමෙන් වළකින ලෙස සමාජ මාධ්‍ය ක්‍රියාකාරීන්ගෙන් ඉල්ලා සිටින බවත් පදනමකින් තොර අසත්‍ය ප්‍රවෘත්ති පිළිගැනීමෙන් හෝ හුවමාරු කිරීමෙන් වළකින ලෙස ජනතාවගෙන් ඉල්ලා සිටින බවත් එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+False claim: Every house gets 500,000 rupees grant. Info Dept denies. Govt warns against spreading fake news. Social media activists asked to verify before sharing.
+
+🟩
+
+According to the Government Information Department, the circulation of a pseudo-record is a proportion of Rs.
+
+The report of the Information Department also stated that he is also mentioned to obtain further information.
+
+The report also means that the government is fully false and the government has decided to inform the Cabinet Decisions and the Messianics to inform the public.
+
+The statement further states that social media activists are requested to express their false news to avoiding the basis of false news without baseless news.
 
 ◼️
 
 [Data](articles/282f9da4.json)
+
+[Extended Data](ext_articles/282f9da4.ext.json)
 
 ---
 
@@ -225,6 +381,24 @@ The infant has been thrown into the canal a few days ago, police said the police
 [Data](articles/7a7ffcb3.json)
 
 [Extended Data](ext_articles/7a7ffcb3.ext.json)
+
+---
+
+### CAA conducts 342 raids on rice traders; fines imposed over 6
+
+*2024-12-16 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104286/caa-conducts-342-raids-on-rice-traders-fines-imposed-over-6) · `en`
+
+The Consumer Affairs Authority (CAA) says that 342 raids have been carried out so far ahead of the festive season with regard to selling rice above the controlled price.
+
+CAA Chairman Hemantha Samarakoon stated that these raids were carried out between November 17 and today (Dec. 16).
+
+Accordingly, court rulings have been received with regard to 06 of these raids, and fines of Rs. 700,000 have been imposed.
+
+The CAA Chairman further said that legal cases are being filed and judicial proceeding are proceeding regarding the remaining raids.
+
+◼️
+
+[Data](articles/d22fbd9e.json)
 
 ---
 
@@ -356,6 +530,28 @@ The police have seized 14 grams of ice and 05 g of 200 ml of heroin from the sus
 
 ---
 
+### மீண்டும் இந்தியாவுக்கு விஜயம் செய்கிறார் ரணில் !
+
+*2024-12-16 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201434) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க எதிர்வரும் 22ஆம் திகதி ஞாயிற்றுக்கிழமை இந்தியாவுக்கு விஜயம் மேற்கொள்ள இருக்கிறார். அவர் இரண்டு மாதங்களுக்குள் இந்தியாவுக்கு பயணிப்பது இரண்டாவது தடவையாகும்.
+
+ரணில் விக்ரமசிங்கவின் இந்தமுறை இந்தியா பயணத்தின்போது பல விசேட சந்திப்புக்களை நடத்தவுள்ளதாக அரசியல் வட்டாரங்களில் இருந்து தெரியவருகிறது.
+
+இதற்கு மேலதிகமாக அவர் எதிர்வரும் 27ஆம் திகதி அடல் பிகார் வாஜ்பாய் நினைவு பேருரையையும் நிகழ்த்தவுள்ளார்.
+
+அத்துடன் இந்தமுறை இந்திய விஜயத்தின்போது ரணில் விக்ரமசிங்க அங்கு ஒரு வாரத்துக்கும் அதிக காலம் தங்கி இருப்பார் என தெரியவருகிறது.
+
+இந்த பயணத்தின்போது அவர் இந்தியாவின் புராதன இடங்களை கண்டுகளிப்பதற்காக அதிக காலத்தை ஒதுக்கி இருப்பதாக தெரியவருகிறது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கடந்த நவம்பர் மாதம் 21ஆம் திகதி முதல் 30ஆம் திகதிவரை இந்தியாவுக்கு விஜயம் மேற்கொண்டிருந்தமை குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/ef7e0c55.json)
+
+---
+
 ### Robot Shankar sung duet with heroine
 
 *2024-12-16 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201435) · `ta`
@@ -425,6 +621,22 @@ When the director describes the film, “There will be many special reasons for 
 [Data](articles/b38039ee.json)
 
 [Extended Data](ext_articles/b38039ee.ext.json)
+
+---
+
+### President Dissanayake may reconsider 13A - Austin Fernando
+
+*2024-12-16 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104285/president-dissanayake-may-reconsider-13a-austin-fernando) · `en`
+
+The Former Sri Lankan High Commissioner to India, Austin Fernando, claims that there is a possibility that incumbent President Anura Dissanayake may reconsider the 13th Amendment to the Constitution when proposing a new Constitution.
+
+Speaking during Ada Derana’s current affairs program ‘@HydePark’, he noted that it is an excellent intension of the government to reduce corruption and bring back some of the money that are due to Sri Lanka but are hidden elsewhere.
+
+Meanwhile, he also highlighted that, under its vision statement, India has proposed development plans for Sri Lanka and emphasized that Sri Lanka must navigate those plans carefully to avoid impacting relations with other foreign allies.
+
+◼️
+
+[Data](articles/793dbd91.json)
 
 ---
 
@@ -548,6 +760,8 @@ Banking stocks fared well after the ISB announcement on Friday.
 
 [Data](articles/ff44d472.json)
 
+[Extended Data](ext_articles/ff44d472.ext.json)
+
 ---
 
 ### මාතලේ SSP ගේ පුද්ගලික සහකාර CI අනතුරට ලක්කර පළා ගිය රියදුරු අල්ලයි
@@ -563,6 +777,26 @@ Banking stocks fared well after the ISB announcement on Friday.
 ...
 
 [Data](articles/c2d33a3d.json)
+
+---
+
+### Man sentenced to 12 years RI for importing ecstasy pills
+
+*2024-12-16 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104284/man-sentenced-to-12-years-ri-for-importing-ecstasy-pills) · `en`
+
+The Colombo High Court today sentenced a defendant to 12 years of rigorous imprisonment after he was found guilty over the importation of over 5,000 ecstasy pills into the country from France in 2020.
+
+The accused, who is a resident of Meeraniya Street in Colombo 12, was apprehended by the Police Narcotics Bureau (PNB) on July 10, 2020, in connection with an incident involving the importation of 5,716 ecstasy pills from France.
+
+The Attorney General subsequently filed charges against him, leading to a lengthy trial at the Colombo High Court.
+
+Delivering the verdict today, the judge found defendant guilty of the charges and underscored the seriousness of the crime.
+
+Prior to the sentencing, Senior State Counsel Lishan Rathnayake, representing the prosecution, highlighted the growing trend today of the country’s youth abusing such illegal drugs. He called on the court to issue a sentence that would act as a strong deterrent against such crimes.
+
+...
+
+[Data](articles/0caedc1e.json)
 
 ---
 
@@ -591,6 +825,24 @@ Sri Lanka Freedom Party (SLFP) activist Montek Sarathchandra filed the petition 
 [Data](articles/8d07c303.json)
 
 [Extended Data](ext_articles/8d07c303.ext.json)
+
+---
+
+### Landslide early warnings issued for 4 districts
+
+*2024-12-16 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104283/landslide-early-warnings-issued-for-4-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings for multiple areas in several districts, as heavy rainfall continues in parts of the island.
+
+The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (Dec. 17).
+
+Accordingly, a Level 1 (Yellow) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Kandy, Kurunegala and Matale districts as follows:
+
+Badulla:  Haputhale, Ella, Hali Ela and Passara Divisional Secretariat DSDs and surrounding areas
+
+◼️
+
+[Data](articles/33c11001.json)
 
 ---
 
@@ -1042,7 +1294,11 @@ Sri Lanka and India today exchanged a Memorandum of Understanding (MoU) to avoid
 
 The signing of the MoU was carried out in the presence of Indian Prime Minister Narendra Modi and Sri Lankan President Anura Kumara Dissanayake, who is on a three-day state visit to India.
 
-◼️
+President Dissanayake held discussions with Indian Prime Minister Narendra Modi today (16) at the Prime Minister’s official residence, Hyderabad House.
+
+Following the discussions, Memoranda of Understandings (MoU) on the avoidance of double taxation and capacity building for government officials were exchanged in the presence of the leaders of both countries.
+
+...
 
 [Data](articles/0919f236.json)
 
@@ -2061,323 +2317,5 @@ Police also say that a personal dispute has been shot and is not a clash between
 [Data](articles/bf285416.json)
 
 [Extended Data](ext_articles/bf285416.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 290.20/40 to dollar, bonds steady
-
-*2024-12-16 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-290-20-40-to-dollar-bonds-steady-194414/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.20/40 to the US dollar in Monday early trade weaker from Friday’s close of 290.15/30, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.35/50 percent.
-
-A bond maturing on 15.10.2027 was quoted at 9.90/10.10 percent, from 9.95/10.10 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.20/25 percent, up from 10.18/28 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.70/76 percent, down from 10.70/80 percent.
-
-A bond maturing on 15.05.2030 was quoted at 10.90/11.10 percent, from 10.95/11.10 percent.
-
-Sri Lanka has received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange.
-
-In equities, the All Share Price Index was up 0.81 percent or 114.99 points, at 14,320.
-
-The more liquid S&P SL20 was up 1.28 percent, or 54.24 points, at 4,298.
-
-◼️
-
-[Data](articles/2e1965df.json)
-
-[Extended Data](ext_articles/2e1965df.ext.json)
-
----
-
-### New Speaker Poonna Medical Wickramaratne?
-
-*2024-12-16 09:29:50* · [`adalk`](https://www.ada.lk/breaking_news/නව-කථානායක-පොලොන්නරුවේ-වෛද්‍ය-ජගත්-වික්‍රමරත්න-/11-413659) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Jagath Wickramaratne, MP, may become the new Speaker. A government meeting today will decide. He represents Polonnaruwa. The ruling party will discuss Speaker appointment and future Parliament matters. Former Speaker Asoka Ranwala's educational certificates will be presented soon.
-
-🟩
-
-It is reported that the new Speaker, MP Jagath Wickramaratne has been proposed to be proposed.. The Government Member of Parliament to meet today (16) to meet the final decision. He was elected to Parliament from the Polonnaruwa district.
-
-The ruling party team will meet today (16) to discuss the appointment of a new Speaker and discussing the next Parliamentary matters.
-
-Meanwhile, former Speaker Asoka Ranwala, the educational certificates of former Speaker, the educational certificates will be presented in the near future.
-
-◼️
-
-[Data](articles/b34b60ce.json)
-
-[Extended Data](ext_articles/b34b60ce.ext.json)
-
----
-
-### Problem with the titles of many MPs
-
-*2024-12-16 09:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-பல-எம்-பிக்களின்-பட்டங்கள்-தொடர்பில்-சிக்கல்/175-348784) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Doubts raised about educational qualifications of 5 ministers. Questions about Anura Karunathilaka's degree. Political parties seeking info under Info Act. Some MPs removed qualifications from Facebook. Oppn claims deletion occurred earlier. Qualifications mentioned in election materials.
-
-🟩
-
-Many political parties have raised doubts about the educational qualifications and degrees of five ministers.
-
-Questions have been raised regarding the degree of Education of the Ministry of Urban Development, Construction and Housing, Anura Karunathilaka.
-
-It is also stated that the political parties are making efforts to obtain information on their educational qualifications under the Information Act.
-
-Meanwhile, reliable sources say that some MPs of the National People's Party have suddenly removed the educational qualifications posted on their Facebook page.
-
-However, a member of the Opposition said that it was clear that it was clear that when checking the History of those Facebook accounts, it was clear that it was deleted a few days ago.
-
-In addition, some MPs in the general election campaign banners and posters have clearly stated that these educational qualifications have been clearly stated by the opposition parties.. Remble
-
-◼️
-
-[Data](articles/d5bc8ab3.json)
-
-[Extended Data](ext_articles/d5bc8ab3.ext.json)
-
----
-
-### Famous Tabela music genius Sakir Hussein has passed away
-
-*2024-12-16 09:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபல-தபேலா-இசை-மேதை-சாகிர்-ஹுசைன்-காலமானார்/175-348782) · `ta`
-
-Sakir Hussein, renowned Tabela music maestro, passes away at 73. Awarded Padma Shri, Padma Bhushan, Padma Vibhushan.
-
-🟩
-
-The famous Tabela music genius Sakir Hussein passed away today at the age of 73.
-
-Foreign media have reported that it has passed away as she was receiving treatment at a hospital in the United States.
-
-He is a famous Tabela musician and has won various awards including Padma Shri, Padma Bhushan and Padma Vibhushan.
-
-Sagir Hussein has also been awarded the Academy of the Government of India. Remble
-
-◼️
-
-[Data](articles/14c2f786.json)
-
-[Extended Data](ext_articles/14c2f786.ext.json)
-
----
-
-### Public consultation for electricity tariff revision begins tomorrow
-
-*2024-12-16 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104270/public-consultation-for-electricity-tariff-revision-begins-tomorrow) · `en`
-
-The public consultation conducted by the Public Utilities Commission of Sri Lanka (PUCSL) regarding the proposed tariff revision is scheduled to get underway from tomorrow (Dec. 17).
-
-Accordingly, the general public are allowed to submit their opinions regarding the matter virtually or in writing before January 08, 2024.
-
-Post – Public Consultation on electricity tariff, Public Utilities Commission of Sri Lanka, BOC Corporate Tower, Colombo 03
-
-Meanwhile, the final decision of the PUCSL on the proposed electricity tariff revisions will be announced on 17 January 2025.
-
-On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months.
-
-...
-
-[Data](articles/e482c3fe.json)
-
----
-
-### ශකිබ් අල්-හසන් ට තහනමක්
-
-*2024-12-16 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204418) · `si`
-
-බංග්ලාදේශ ක්‍රිකට් කණ්ඩායමේ හිටපු නායක ශකිබ් අල්-හසන් ට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ අනුමැතිය ඇති ජාතික ක්‍රිකට් සංගම් මගින් සංවිධානය කරනු ලබන දේශීය හෝ විදේශීය තරගාවලිවලදී පන්දු යැවීම අත්හිටුවා තිබේ.
-
-බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය නිවේදනයක් නිකුත් කරමින් ඒ බව පැවසීය.
-
-එංගලන්ත සහ වේල්ස් ක්‍රිකට් පාලක මණ්ඩලය මගින් එරට පැවැත්වෙන ක්‍රිකට් තරගවලදී ශකිබ් ට පන්දු යැවීම පසුගියදා තහනම් කළේය.
-
-ඒ පසුගිය සැප්තැම්බර් මාසයේ පැවති එංගලන්ත ප්‍රාන්ත ක්‍රිකට් තරගයකදී ඔහු පන්දුව දමා ගැසූ බවට චෝදනා කරමිනි.
-
-ඒ අනුව ශකිබ් සිය පන්දු යැවීමේ ඉරියව්ව නැවත පරීක්ෂණයකට ලක්කළ යුතුය.
-
-ගෝල් මාවල්ස් කණ්ඩායම වෙනුවෙන් ක්‍රීඩා කරන ශකිබ් පසුගිය තරග දෙකේදී ම පන්දු යැව්වේ නැත.
-
-ටෙස්ට් සහ T20 ජාත්‍යන්තර තරගවලින් සමුගත් ශකිබ් අල් හසන් එක්දින ජාත්‍යන්තර තරග සඳහා තවමත් බංග්ලාදේශය නියෝජනය කරයි.
-
-◼️
-
-[Data](articles/3431fe80.json)
-
----
-
-### විදුලි ගාස්තු සංශෝධනය ගැන මහජන අදහස් ලබාගැනීම හෙට සිට
-
-*2024-12-16 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204417) · `si`
-
-විදුලි ගාස්තු සංශෝධන යෝජනාව සඳහා මහජන අදහස් ලබා ගැනීමේ කටයුතු හෙට (17) දිනයේ සිට ආරම්භ කරන බව ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව පවසයි.
-
-අදාළ යෝජනා විදුලි ගාස්තු පිළිබඳ මහජන උපදේශනය, ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිෂන් සභාව, 6 වන මහල, ලංකා බැංකු වෙළෙඳ කුලුන, කොළඹ 03 යන ලිපිනයට මෙන්ම info@pucsl.gov.lk යන විද්‍යුත් තැපෑල ඔස්සේ යොමු කළ හැකි වේ.
-
-එමෙන්ම වට්ස්ඇප් අංක 076 42 710 30 අදහස් හා යෝජනා ඉදිරිපත් කළ හැකිය.
-
-මහජන උපයෝගීතා කොමිසමට පැමිණ හෝ පළාත් මට්ටමෙන් වෙන්කර ඇති ස්ථානවල දී අදහස් ඉදිරිපත් කළ හැකි බව එම කොමිසම සඳහන් කළේය.
-
-නව වසරේ මුල් මාස 06 කාලය සඳහා විදුලි ගාස්තු සංශෝධනයකින් තොරව පවත්වාගෙන යා යුතු බවට විදුලි බලමණ්ඩලය යෝජනා කර තිබුණි.
-
-ඒ අනුව එම යෝජනාව කොමිසම විසින් සමාලෝචනයකට ලක්කිරීමට තීරණය කර ඇති අතර එම යෝජනා ඇතුළත් කෙටුම්පත මහජන අදහස් සඳහා ප්‍රදර්ශනය කිරීමට ද නියමිතය.
-
-ලංකා විදුලි බලමණ්ඩලය ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ අවසන් තීරණය ලබන වසරේ ජනවාරි මස 17වනදා දැනුම් දීමට නියමිත බව මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/57a64aa5.json)
-
----
-
-### Hundreds feared dead on Mayotte after Cyclone Chido
-
-*2024-12-16 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104268/hundreds-feared-dead-on-mayotte-after-cyclone-chido) · `en`
-
-A senior official said Sunday that the death toll from cyclone Chido’s passage across Mayotte would be in the hundreds, perhaps even thousands, as France rushed in rescue workers and supplies.
-
-Their efforts will be hindered by the damage to airports and electricity distribution in the French Indian Ocean territory.
-
-Even before the cyclone’s passage, clean drinking water was already subject to chronic shortages.
-
-“I think there will definitely be several hundred, perhaps we will come close to a thousand or even several thousand” deaths, prefect Francois-Xavier Bieuville told broadcaster Mayotte la Premiere.
-
-It would be “very difficult to reach a final count” given that most residents are Muslim, traditionally burying their dead within 24 hours, Bieuville added.
-
-EU chief Ursula von der Leyen on Sunday pledged help from the bloc.
-
-...
-
-[Data](articles/1a28f307.json)
-
----
-
-### One person was killed in a dispute between two people in Kokkilai!
-
-*2024-12-16 08:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201385) · `ta`
-
-Kokkilai: Two men from Nuwara Eliya killed in drug-related dispute. Police arrested suspect, conducting further investigation.
-
-🟩
-
-An incident where a family member was beaten to death in Kokkilai Karnataka took place last night (15).
-
-Two people from Nuwara Eliya, Kandy, have been staying in the Mullaitivu Kokkulai Karnataka Karnataka.
-
-The two men living in Nuwara Eliya have been beaten to death after the two became addicted to drugs.
-
-The police rushed to the scene after the Kokkulai police were informed of the incident and sent the deceased person to the hospital for autopsy.
-
-A 42 -year -old suspect from Maskeliya area in Nuwara Eliya has been arrested by the police.
-
-Further investigations into the incident are being carried out by the Kokkulai police.
-
-◼️
-
-[Data](articles/765f10d5.json)
-
-[Extended Data](ext_articles/765f10d5.ext.json)
-
----
-
-### Three employees suspended over Beliatta train collision
-
-*2024-12-16 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104267/three-employees-suspended-over-beliatta-train-collision) · `en`
-
-The Department of Railways stated that three employees have been suspended over the train collision that occurred at the Beliatta Railway Station on Sunday (15), involving the engines of the ‘Rajarata Rajina’ and ‘Sagarika’ trains.
-
-The incident took place when the engine of the ‘Rajarata Rajina’ train, en route from Beliatta to Anuradhapura, collided with the ‘Sagarika’ train, which was stationary at the time due to an engine change.
-
-The collision caused significant damage to the ‘Sagarika train’, and the train was not operational this morning (16) due to the incident.
-
-The department had launched an investigation into the matter on Sunday.
-
-Deputy General Manager of Railways N.J. Indipolage said that accordingly, three employees involved with the incident were suspended from duty following the investigation.
-
-...
-
-[Data](articles/8bcdabcd.json)
-
----
-
-### Intensive security measures in Jaffna
-
-*2024-12-16 08:29:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணத்தில்-பாதுகாப்பு-நடவடிக்கைகள்-தீவிரம்/175-348779) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Security tightened in Jaffna amid fever outbreak. 76 cases reported. Director warns of dengue and rat fever due to weather conditions. Casualties increasing.
-
-🟩
-
-Director of Regional Health Services in Jaffna, A Ketheeswaran said that safety measures are being carried out in the Jaffna district.
-
-He also said that 76 people have been affected by the fever in the Jaffna district.
-
-Jaffna Regional Health Services Director A Ketheeswaran has urged the dengue and rat fever in the Jaffna district due to the inclement weather.
-
-Also, it has been reported that many casualties have been caused by the fever. Remble
-
-◼️
-
-[Data](articles/be55cde5.json)
-
-[Extended Data](ext_articles/be55cde5.ext.json)
-
----
-
-### Landslide alert extension for 4 districts
-
-*2024-12-16 08:27:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாவட்டங்களுக்கு-மண்சரிவு-எச்சரிக்கை-நீடிப்பு/175-348778) · `ta`
-
-Landslide warning issued for Kandy, Badulla, Matale & Kurunegala districts due to heavy rain. Incident reported in Ella-Namunukula area of Badulla district.
-
-🟩
-
-The National Building Research Institute has said that due to the inclement weather, four districts have been warned.
-
-Accordingly, the landslide risk has been extended to the districts of Kandy, Badulla, Matale and Kurunegala.
-
-The Badulla District Disaster Management Center said that there was a landslide in the Ella - Namunukula Factory Division. (A)
-
-◼️
-
-[Data](articles/98b40a33.json)
-
-[Extended Data](ext_articles/98b40a33.ext.json)
-
----
-
-### Sri Lanka key to India’s neighborhood first policy and SAGAR vision - Jaishankar
-
-*2024-12-16 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104266/sri-lanka-key-to-indias-neighborhood-first-policy-and-sagar-vision-jaishankar-) · `en`
-
-India’s External Affairs Minister S. Jaishankar underscored Sri Lanka’s pivotal role in India’s Neighborhood First policy and SAGAR (Security and Growth for All in the Region) Outlook during his meeting with Sri Lankan President Anura Kumara Dissanayake on Sunday.
-
-Following the meeting last night (15) with Sri Lanka’s President Anura Kumara Dissanayake, who is on a state visit to India, Dr. Jaishankar noted that he is confident Dissanayake’s talks with Indian Prime Minister Narendra Modi today will lead to greater trust and deeper cooperation.
-
-“Pleased to call on President Anura Kumara Dissanayake at the start of his first State Visit to India. Sri Lanka is key to both India’s Neighborhood First policy and SAGAR Outlook. Confident that the talks with PM Narendra Modi tomorrow will lead to greater trust and deeper cooperation,” Jaishankar posted on X (formerly Twitter).
-
-◼️
-
-[Data](articles/0661608d.json)
-
-[Extended Data](ext_articles/0661608d.ext.json)
 
 ---

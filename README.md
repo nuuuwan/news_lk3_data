@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 04:26:56**
+As of **2024-12-17 04:43:00**
 
 ## Newspaper Stats
 
-*Scraped **60,549** Articles*
+*Scraped **60,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ dailymirrorlk | 4,733
 adalk | 5,759
 adaderanalk | 7,379
 tamilmirrorlk | 8,649
-virakesarilk | 9,974
+virakesarilk | 9,976
 adaderanasinhalalk | 10,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,498 (99.9%) of 60,549 articles have been extended.
+60,500 (99.9%) of 60,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### ஜனாதிபதிக்கும் இந்திய ஜனாதிபதிக்கும் இடையில் சந்திப்பு
+
+*2024-12-17 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201465) · `ta`
+
+இந்த சந்திப்பில், இலங்கையின் நிலையான பொருளாதார அபிவிருத்திக்கான இலங்கை அரசாங்கத்தின் முயற்சிகளுக்கு நெருக்கமான மற்றும் நம்பகமான பங்காளியாக இந்தியா தொடர்ந்து ஆதரவளிக்கும் என இந்திய ஜனாதிபதி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/639503c3.json)
+
+---
 
 ### President discusses with Indian leading traders
 
@@ -57,6 +69,26 @@ The Sri Lankan government has agreed to focus on investment opportunities in Sri
 [Data](articles/217463b2.json)
 
 [Extended Data](ext_articles/217463b2.ext.json)
+
+---
+
+### ஜனாதிபதிக்கும் இந்திய முன்னணி வர்த்தக பிரதிநிதிகளுக்குமிடையில் கலந்துரையாடல் - இலங்கையில் முதலீடுகள் தொடர்பில் கவனம் செலுத்த விருப்பம் தெரிவிப்பு
+
+*2024-12-17 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201464) · `ta`
+
+மூன்று நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு இந்தியா சென்றுள்ள ஜனாதிபதி அநுரகுமார திசாநாயக்க, திங்கட்கிழமை (16) பிற்பகல் புதுடில்லியில் இந்திய முன்னணி வர்த்தகப் பிரதிநிதிகளுடன் கலந்துரையாடலில் ஈடுபட்டார்.
+
+இந்திய கைத்தொழில் சம்மேளத்தினால் ஏற்பாடு செய்யப்பட்ட இந்த கலந்துரையாடலில் இந்தியாவின் முன்னணி தொழில் முனைவோர் கலந்து கொண்டனர்.
+
+இலங்கையில் முதலீடு செய்வதற்கான சாதகமான சூழல் குறித்து விளக்கமளித்த ஜனாதிபதி அநுரகுமார திசாநாயக்க, இலங்கையில் முதலீடு செய்யுமாறு இந்திய தொழில் முனைவோரிடம் கோரிக்கை விடுத்தார்.
+
+இரு நாடுகளுக்கும் இடையிலான முதலீடு மற்றும் வர்த்தக உறவுகளை விரிவுபடுத்தும் நோக்கில் நடைபெற்ற இந்த கலந்துரையாடலில் டிஜிட்டல் பொருளாதாரம், சுற்றுலா, புதுப்பிக்கத்தக்க எரிசக்தி மற்றும் தகவல் தொழில்நுட்பம் ஆகிய துறைகள் குறித்து விசேட கவனம் செலுத்தப்பட்டது.
+
+இதன்படி, இரு நாடுகளுக்கும் இடையிலான வர்த்தக நடவடிக்கைகளின் அடிப்படையில் இலங்கையில் முதலீட்டு வாய்ப்புகளை விஸ்தரிப்பது குறித்து கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/367af1ee.json)
 
 ---
 
@@ -970,19 +1002,25 @@ Both leaders stressed the need for building further connectivity. (Colombo/Dec16
 
 ---
 
-### කොටස් වෙළඳපොළ වාර්තා අලුත් කරයි
+### Stock market records renewed
 
 *2024-12-16 18:37:16* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-වාර්තා-අලුත්-කරයි/11-413677) · `si`
 
-ශ්‍රී ලංකා කොටස් වෙළඳපොළ ඉතිහාසය තුළ දැවැන්ත කඩයිමක් පසුකරමින් අද දිනයේදී කොළඹ කොටස් හුවමාරුවේ සමස්ත මිල දර්ශකය ඒකක 14500 සීමාව ඉක්මවා ගියේය.
+Colombo Stock Exchange records: Total price index exceeds 14,500 units. Overall price index rises 295.1 points (2.08%). S&P indicator increases from 105.37 to 4,349. Market turnover reaches Rs. 8.2 billion.
 
-ඒ අනුව අද දිනයේදී සමස්ත මිල දර්ශකය ඒකක 295.1කින් එනම් සියයට 2.08කින් ඉහළ ගියේය. මේ අතර එස්. ඇන්ඩ් පී. දර්ශකයද ඒකක 105.37කින් ඉහළ ගොස් ඒකක 4349ක් දක්වා ඉහළට ගියේය.
+🟩
 
-එසේම කොටස් වෙළඳපොළ පිරිවැටුමද රුපියල් බිලියන 8.2ක දැවැන්ත අගයක් වාර්තා කළේය.
+The total price index on the Colombo Stock Exchange has crossed the 14500 units of the Colombo Stock Exchange.
+
+Accordingly, the overall price index increased by 295.1 points, 25.1 or 2.08 per cent. Meanwhile S. And P. The indicator has gone up from 105.37 points to 4349 units.
+
+The stock market turnover also recorded a tremendous value of Rs. 8.2 billion.
 
 ◼️
 
 [Data](articles/401c6177.json)
+
+[Extended Data](ext_articles/401c6177.ext.json)
 
 ---
 
@@ -1012,23 +1050,35 @@ Dushara further accused two lawyers of helping him while Rajapakse was sitting i
 
 ---
 
-### சர்வதேச ரி20யில் ஆர்ஜன்டீன வீரர் ஃபெனெல் 4 பந்துகளில் 4 விக்கெட்களை வீழ்த்தி அரிய சாதனை
+### Argentine player Benell took 4 wickets off 4 balls in international T20
 
 *2024-12-16 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201451) · `ta`
 
-சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 4 பந்துகளில் 4 விக்கெட்களை வீழ்த்தியோர் வரிசையில் ஆர்ஜன்டீன வேகப்பந்துவீச்சாளர் ஹேர்னன் ஃபெனெல் இணைந்துகொண்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-அத்துடன் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் இரண்டு தடவைகள் ஹெட் - ட்ரிக் நிகழ்த்திய வீரர்களுக்கான அரிய சாதனை ஏடுகளிலும் அவர் இணைந்துகொண்டுள்ளார்.
 
-அடுத்த ஐசிசி ஆடவர் உலகக் கிண்ணத்துக்கான உப பிராந்திய அமெரிக்காக்கள் (Americas) தகுதிகாண் சுற்றிலேயே ஆர்ஜன்டீன வீரர் இந்த அரிய சாதனையை நிலைநாட்டினார்.
 
-புவனஸ் அயர்ஸ் விளையாட்டரங்கில் நடைபெற்ற கேமன் தீவுகள் அணிக்கு எதிரான போட்டியின் கடைசி ஓவரின் கடைசி 4 பந்துகளில் ஹேர்னன் ஃபெனெல் 4 விக்கெட்களைக் கைப்பற்றினார்.
+Argentine player Benell achieves rare feat in T20 cricket by taking 4 wickets in 4 balls. He joins elite group including Rashid Khan, Lasith Malinga, and others. Benell also records second hat-trick in international T20s. His team loses despite his impressive performance.
 
-இதன் மூலம் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் 4 பந்துகளில் 4 விக்கெட்களை வீழ்த்தியோர் வரிசையில் ஆறாவது வீரராக ஃபெனெல் இடம்பிடித்துள்ளார்.
+🟩
+
+Argentine fast bowler Harneen Fennel has joined the line of 4 wickets in 4 balls in international T20 cricket.
+
+He has also joined the rare record for the players who performed head -trick twice in international T20 cricket.
+
+The Argentine player set this rare record in the next ICC men's World Cup for the World Cup.
+
+Harnan Benell took 4 wickets at the last 4 balls of the last over of the last over of the Cauman Islands team at Bhuvanus Aires Stadium.
+
+With this, Benell has become the sixth player in the international T20 cricket match.
+
+Prior to this, Rashid Khan (Afghanistan Victory Ireland 2019), Lasith Malinga (Sri Lanka's New Zealand 2019), Cardis Chamefar (Ireland opposite Netherlands 2021), Jason Holder (West Indies opposite UK 2022), Vasim Yakoop 2024They set up a landmark record.
 
 ...
 
 [Data](articles/bb1e31e9.json)
+
+[Extended Data](ext_articles/bb1e31e9.ext.json)
 
 ---
 
@@ -2273,51 +2323,5 @@ However, the Minister of Justice added that the Criminal Investigation Departmen
 [Data](articles/ab1f047e.json)
 
 [Extended Data](ext_articles/ab1f047e.ext.json)
-
----
-
-### President Dissanayake meets Indian PM
-
-*2024-12-16 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104277/president-dissanayake-meets-indian-pm) · `en`
-
-President Anura Kumara Dissanayake has held bilateral discussions with the Indian Prime Minister, Narendra Modi, in New Delhi.
-
-Present at the discussion were Sri Lanka’s Minister of Foreign Affairs Vijitha Herath and his Indian counterpart Dr. S. Jaishankar.
-
-During the meeting, the Sri Lankan leader assured that the island nation would not allow the country to be used in “a manner that is detrimental to the interest of India”.
-
-“I have also given an assurance to the Prime Minister of India that we will not allow our land to be used in any way in a manner that is detrimental to the interest of India. The cooperation with India will certainly flourish and I want to reassure our continued support for India,” Dissanayake said after the interaction.
-
-PM Modi said: “We completely agree that our security interests are interlinked. We have decided to finalise the Defence Cooperation Agreement soon.”
-
-...
-
-[Data](articles/b61793c0.json)
-
-[Extended Data](ext_articles/b61793c0.ext.json)
-
----
-
-### Anura and Modi in bilateral discussion
-
-*2024-12-16 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204426) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Presidents Anura Kumara Dissanayake and Narendra Modi met in New Delhi. Foreign ministers Vijitha Herath and S.Jaishankar attended. Bilateral discussion took place at Hyderabad House in New Delhi.
-
-🟩
-
-President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi held a bilateral discussion in the Hyderabad center in New Delhi.
-
-Foreign Ministers of the two countries, Vijitha Herath and Dr. S.. Jeyishankar and others joined.
-
-◼️
-
-[Data](articles/0f20954f.json)
-
-[Extended Data](ext_articles/0f20954f.ext.json)
 
 ---

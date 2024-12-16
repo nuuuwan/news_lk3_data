@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-16 19:42:58**
+As of **2024-12-16 20:28:05**
 
 ## Newspaper Stats
 
-*Scraped **60,501** Articles*
+*Scraped **60,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,655
 economynextcom | 3,682
 dailyftlk | 4,175
 dailymirrorlk | 4,733
-adalk | 5,755
+adalk | 5,756
 adaderanalk | 7,370
-tamilmirrorlk | 8,645
+tamilmirrorlk | 8,646
 virakesarilk | 9,962
 adaderanasinhalalk | 10,459
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,452 (99.9%) of 60,501 articles have been extended.
+60,458 (99.9%) of 60,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-16 (Monday)
+
+### Rice sales at high prices - Judgment at the end
+
+*2024-12-16 20:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-விலைக்கு-அரிசி-விற்பனை-இறுதியில்-கிடைத்த-தீர்ப்பு/175-348809) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Consumer Affairs Authority Chairman Hemantha Samarakoon reports 342 inspections for rice sales during festivals. Penalties totaling 600,000 rupees were issued. Court rulings are pending for additional cases.
+
+🟩
+
+Consumer Affairs Authority Chairman Hemantha Samarakoon said that 342 rounds have been conducted from the 17th to the 16th of this month regarding the lack of selling rice at the festive season.
+
+Accordingly, the judgment of 6 lakhs of rupees has been granted to pay a penalty of Rs.
+
+Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that the court rulings were being filed for other surroundings.. Remble
+
+◼️
+
+[Data](articles/6e57f339.json)
+
+[Extended Data](ext_articles/6e57f339.ext.json)
+
+---
 
 ### Sri Lanka, India plan second ferry connection
 
@@ -132,6 +158,24 @@ In a joint statement, the both countries said President Dissanayake and Prime Mi
 
 ---
 
+### රු. 50000ක් ජනපති ප්‍රදානය ලෙසින් සෑම නිවසකටම දෙන කථාව අසත්‍යයි
+
+*2024-12-16 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/රු--50000ක්-ජනපති-ප්‍රදානය-ලෙසින්-සෑම-නිවසකටම-දෙන-කථාව-අසත්‍යයි/11-413674) · `si`
+
+ජනාධිපති ප්‍රදානය යන මාතෘකාව යටතේ රුපියල් 50000ක දීමනාවක් සෑම නිවසකට ලබා දෙන බවට ස ඳහන් කරමින් ව්‍යාජ පුවතක් මේ වන විට සමාජ ජාල ඔස්සේ සංසරණය බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව කියයි.
+
+එසේම වැඩිදුර තොරතු ලබා ගන්නා ලෙස දන්වමින් එම ප්‍රවෘත්තිය සමග ව්‍යාජ සම්බන්ධතාවක්ද (link) ​සඳහන් කර ඇති බවද ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+මෙම ප්‍රවෘත්තිය සම්පූර්ණයෙන්ම අසත්‍ය බවත් රජය මෙවැනි වැඩසටහනක් සම්බන්ධ තීරණයක් ගෙන ඇත්නම් අමාත්‍ය මණ්ඩල තීරණ දැනුම් දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී මහජනරතාවට හා ජනමාධ්‍ය වෙත එම තීරණය දැනුම් දීම රජයේ ක්‍රමවේදය බවද එම නිවේදනයේ දැක්වෙයි.
+
+මෙවැනි අසත්‍ය ප්‍රවෘත්ති පළකිරීමෙන් වළකින ලෙස සමාජ මාධ්‍ය ක්‍රියාකාරීන්ගෙන් ඉල්ලා සිටින බවත් පදනමකින් තොර අසත්‍ය ප්‍රවෘත්ති පිළිගැනීමෙන් හෝ හුවමාරු කිරීමෙන් වළකින ලෙස ජනතාවගෙන් ඉල්ලා සිටින බවත් එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/282f9da4.json)
+
+---
+
 ### Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady
 
 *2024-12-16 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-290-70-80-to-dollar-bonds-steady-194487/) · `en`
@@ -184,21 +228,33 @@ The infant has been thrown into the canal a few days ago, police said the police
 
 ---
 
-### මෛත්‍රී ආයේ නිදහස් පක්ෂයේ සභාපතිධුරයට ඉදිරිපත් වන්නේ නැතිලු
+### Maithri has no chairman of the Freedom Party
 
 *2024-12-16 17:42:56* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-ආයේ-නිදහස්-පක්ෂයේ-සභාපතිධුරයට-ඉදිරිපත්-වන්නේ-නැතිලු/11-413672) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා මින් ඉදිරියට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරය සඳහා ඉදිරිපත් නොවන බව ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අද අභියාචනාධිකරණයට  දැනුම් දුන්නේය.
+Here's a summary in 200 characters:
 
-අධිකරණයට අපහාස කළ බවට චෝදනා කරමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකුවන  මොන්ටේගු සරත්චන්ද්‍ර මහතා විසින් ගොනුකර තිබු  පෙත්සම සමථයකට පත්වූ අවස්ථාවේදී ඒ බව දැනුම් දුන් මෛත්‍රී පාලසිරිසෙන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ වත්මන් සභාපති නිමල් සිරිපාල ද සිල්වා සහ ලේකම්වරයා සම්බන්ධයෙන්  විරුද්ධත්වයක් නැති බවද වැඩිදුරටත් දැනුම් දුන්නේය.
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්ධුල කරුණාරත්න සහ  විනිසුරු ශෂී මහේන්ද්‍රන් යන මහත්වරුන් හමුවේ පෙත්සම කැඳවනු ලැබීය.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයෙකු වන  මොන්ටේගු සරත්චන්ද්‍ර මහතා විසින් ගොනුකර තිබු පෙත්සමේ වග උත්තරකරු දෙස දෙස හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා නම්කර තිබිණි.
+Maithri Gunaratne: Former President Maithripala Sirisena won't contest SLFP chair. Petition filed against him settled out of court.
+
+🟩
+
+President's Counsel Maithree Gunaratne informed the Court of Appeal today that former President Maithripala Sirisena would not contest for the Sri Lanka Freedom Party Chairman.
+
+Maithri Palsena, an executive filed by the Sri Lanka Freedom Party (SLFP) was not objected to the Sri Lanka Freedom Party, Nimal Siripala de Silva and the secretary of the Sri Lanka Freedom Party (SLFP) against former President Maithripala Sirisena.He further stated that he said.
+
+Chairman of the Court of Appeal, Judge Nissanka Bandula Karunaratne and Justice Shashi Mahendran were summoned.
+
+Former President Maithripala Sirisena, the respondous was named at the petition filed by the Sri Lanka Freedom Party Executive Committee Montegu Sarathrandra.
+
+The petition has been submitted by the Colombo District Court prevented the Colombo District Court from being an interim injunction by highlighting Maithripala Sirisena.
 
 ...
 
 [Data](articles/8670a0a8.json)
+
+[Extended Data](ext_articles/8670a0a8.ext.json)
 
 ---
 
@@ -326,49 +382,75 @@ Speaking of the film, the director said, "The hero of the story is a naively sca
 
 ---
 
-### சிவகார்த்திகேயன்- ஜெயம் ரவி இணைந்து மிரட்டும் புதிய படத்தின் தொடக்க விழா
+### Sivakarthikeyan- Jayam Ravi's inauguration of the new movie
 
 *2024-12-16 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201436) · `ta`
 
-'அமரன்' எனும் மிகப் பிரம்மாண்டமான வெற்றி படத்திற்கு பிறகு நடிகர் சிவகார்த்திகேயன் நடிப்பில் தயாராகும் பெயரிடப்படாத திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+Sivakarthikeyan stars in new film "Suraru Pottu" alongside Jayam Ravi. Directed by Sudha Kongara, music by V. Prakash Kumar. Inaugurated in Chennai with cast attendance. First collaboration between Sivakarthikeyan, Jayam Ravi, and director.
 
-'சூரரைப் போற்று' எனும் திரைப்படத்தின் மூலம் இந்திய திரையுலகத்தை திரும்பி பார்க்க வைத்த இயக்குநர் சுதா கொங்காரா இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் சிவ கார்த்திகேயன், ஜெயம் ரவி, அதர்வா, ஸ்ரீ லீலா உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+🟩
 
-ரவி கே .சந்திரன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ. வி. பிரகாஷ் குமார் இசையமைக்கிறார். பிரம்மாண்டமான பட்ஜட்டில் எக்சன் என்டர்டெய்னராக உருவாகும் இந்த திரைப்படத்தை டான் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ஆகாஷ் பாஸ்கரன் தயாரிக்கிறார்.
+After the biggest hit film 'Amaran', the inauguration of the unnamed film starring actor Sivakarthikeyan was held in Chennai.
 
-...
+The film 'Suraru Pottu', which is back to the Indian film industry, will be starring in the untitled film directed by Sudha Kongara and many others including Shiva Karthikeyan, Jayam Ravi, Atharva, Sri Leela.
+
+Ravi K. Chandran. V.. Prakash Kumar is composed. The film is being produced by Dan Pictures Company, which is being produced by Akash Baskaran on behalf of Dan Pictures.
+
+The inauguration of the film was held in Chennai. The film crew participated in this moment. Sivakarthikeyan plays the hero of the story and Jayam Ravi is the opposite of the film. Also actor Atharva appears in a special look. Sivakarthikeyan, Jayam Ravi and Sudha Kongara have formed a coalition for the first time.
+
+◼️
 
 [Data](articles/b0d48631.json)
 
+[Extended Data](ext_articles/b0d48631.ext.json)
+
 ---
 
-### சைக்கோ திரில்லராக உருவாகும் 'இரவின் விழிகள்'
+### 'The nightmares of the night'
 
 *2024-12-16 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201439) · `ta`
 
-நடிகர் மகேந்திரா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'இரவின் விழிகள்' எனும் திரைப்படம் சைக்கோ திரில்லராக தயாராகி இருக்கிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+"Night Vaikkal: A Psycho Thriller Starring Mahendra, Directed by Bhaskar, Produced by Mahendra Film Factory. Special Screenplay, First Look Released, Teaser Soon."
 
-நடிகரும், இயக்குநருமான சிக்கல் ராஜேஷ் இயக்கத்தில் உருவாகி வரும் 'இரவின் விழிகள் 'எனும் திரைப்படத்தில் மகேந்திரா, நீமா ரே , நிழல்கள் ரவி , அஸ்மிதா , கும்தாஜ் , சேரன் ராஜ் , சிசர் மனோகர் , ஈஸ்வர் சந்திரபாபு , கிளி ராமச்சந்திரன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பாஸ்கர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஏ .எம் .அசார் இசையமைத்திருக்கிறார். சைக்கோ திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை மகேந்திரா ஃபிலிம் ஃபேக்டரி நிறுவனம் சார்பில் நடிகர் மகேந்திரா தயாரித்திருக்கிறார்.
+🟩
 
-படத்தைப் பற்றி இயக்குநர் விவரிக்கையில் , '' ஒருவன் சைக்கோவாக மாறுவதற்கு பல பிரத்யேக காரணங்கள் இருக்கும். இந்த கதையில் கதையின் நாயகன் சைக்கோவாக மாறுவதற்கு இந்த சமூகத்தின் மீதான கோபமும், ஒரு பொதுப்படையான விடயமும் காரணமாக இருக்கிறது. அது என்ன? என்பதை சுவராசியமான திரைக்கதையுடன் விவரித்திருக்கிறோம் '' என்றார்.
+The film crew has said that the movie 'Night Vaikkal' is ready to be a psycho thriller.
+
+Mahendra, Neema Ray, Shadows Ravi, Azmita, Kumtaj, Cheran Raj, Cicer Manohar, Eswar Chandrababu, Kili Ramachandran and many others are starring in the film 'Night Vaikkal', which is being directed by Actor and Director.. Bhaskar is composed by AM.. The film is being produced by Actor Mahendra on behalf of Mahendra Film Factory.
+
+When the director describes the film, “There will be many special reasons for one to become a psycho. The man of the story in this story is the cause of the anger of this community and a common sense. What is it?We have described it with a special screenplay. ”
 
 ...
 
 [Data](articles/b38039ee.json)
 
+[Extended Data](ext_articles/b38039ee.ext.json)
+
 ---
 
-### காதல் என்பது பொதுவுடமை' மூலம் மீண்டும் கலை சேவையை தொடரும் நடிகர் வினீத்
+### Actor Vineeth continues to continue the art service through love
 
 *2024-12-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201437) · `ta`
 
-1992 ஆம் ஆண்டில் வெளியான 'ஆவாரம் பூ 'எனும் படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் வினீத்  2005 ஆம் ஆண்டில் வெளியான 'சந்திரமுகி 'எனும் திரைப்படத்தின் மூலம் பிரபலமானார். அதன் பிறகு மிக சில தமிழ் படங்களில் மட்டுமே நடித்த நடிகர் வினீத் சில ஆண்டுகள் இடைவெளிக்குப் பிறகு மீண்டும் 'காதல் என்பது பொதுவுடமை 'எனும் தமிழ் படத்தில் நடித்திருக்கிறார்.
+Here's a summary of 200 characters:
 
-'லென்ஸ்', 'தலை குத்தல்' போன்ற தேசிய அளவிலான விருதுகளை வென்ற படைப்புகளை இயக்கிய இயக்குநர் ஜெயப்பிரகாஷ் ராதாகிருஷ்ணன் இயக்கத்தில் உருவாகி இருக்கும் 'காதல் என்பது பொதுவுடமை ' எனும் திரைப்படத்தில் வினீத் , லிஜாமோள் ஜோஸ் ,ரோகிணி ,கலேஷ், தீபா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஸ்ரீ சரவணன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கண்ணன் நாராயணன் இசையமைத்திருக்கிறார்.
+
+
+Actor Vineeth stars in "Kadavam is Public", a Tamil film exploring love and psychology. Directed by Jayaprakash Radhakrishnan, it's set for release on Valentine's Day 2025.
+
+🟩
+
+Actor Vineeth, who made his debut in 1992 with the film 'Avaram Poo', became famous for his film 'Chandramukhi'.. Since then, only a few Tamil films, actor Vineeth has once again starred in the Tamil film 'Kadi is Public'.
+
+Directed by director Jayaprakash Radhakrishnan, who has directed national awards such as 'Lens' and 'Head Kuttupal', 'Kadavam is the Communist Party' starring Vineet, Lijamol Jose, Rohini, Kalesh, Deepa and many others.. Kannan Narayanan has composed the film, which is being recorded by Sri Saravanan.
+
+The film, which talks about love, has been co -produced by Simatry Cinemas, Man Guint Cinemas, Nith Productions and Klaing Tungsten.. The film was made on behalf of Creative Entertainment and Distributor Company.. Dhananjayan offers.
 
 ...
 
 [Data](articles/397defbd.json)
+
+[Extended Data](ext_articles/397defbd.ext.json)
 
 ---
 
@@ -400,19 +482,25 @@ Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that other
 
 ---
 
-### බලශක්ති අමාත්‍ය ඉංජිනේරු ජයකොඩි සිය උපාධිය ගැන කියයි
+### Minister of Energy Minister of Energy Sri Lanka says about his degree
 
 *2024-12-16 16:53:41* · [`adalk`](https://www.ada.lk/breaking_news/බලශක්ති-අමාත්‍ය-ඉංජිනේරු-ජයකොඩි-සිය-උපාධිය-ගැන-කියයි/11-413670) · `si`
 
-බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතාගේ අධ්‍යාපන සුදුසුකම් පිළිබදව විශේෂයෙන් සමාජ මාධ්‍ය ඇතුළු විවිධ මාධ්‍ය හරහා සාවද්‍ය තොරතුරු පතුරවන්නන්ට එරෙහිව අමාත්‍යවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+Energy Minister Kumara Jayakody faces complaint over educational claims. He asserts engineering degree from Peradeniya University, while critics question its validity on social media.
 
-තමන් පේරාදෙණිය විශ්ව විද්‍යාලයේ ඉංජිනේරු පීඨයේ අධ්‍යාපනය ලබා විදුලි හා ඉලෙක්ට්‍රොනික් ඉංජිනේරුවෙකු ලෙස උපාධිය ලබාගත් බවත් තමාගේ උපාධි සුදුසුකම් ප්‍රශ්න කරමින් පුද්ගලිකව තමාවත් නව රජයත් අපහසුතාවයට පත් කිරීමට බංකොලොත් දේශපාලන කණ්ඩායම් වල අනුග්‍රහය ලබන සමහර මාධ්‍ය ක්‍රියාකරමින් සිටින බව අමාත්‍යවරයා පවසයි.
+🟩
 
-මේ අනුව සාවද්‍ය තොරතුරු පතුරවන පුද්ගලයින් හා ආයතන පිළිබදව සොයා බලන ලෙස ඉල්ලා අමාත්‍යවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අද පස්වරුවේ පැමිණිල්ලක් ඉදිරිපත් කළේය.
+The Minister of Criminal Investigations has lodged a complaint with the Criminal Investigation Department against Energy Minister of Energy Minister, Kumara Jayakody, especially social media.
+
+The Minister said that some of the media is devoted as a Bachelor of Engineering and Electronic Engineer and is also working to embarrass himself from the Faculty of Engineering at the University of Peradeniya.
+
+The Minister lodged a complaint with the Criminal Investigation Department this afternoon demanding false information and institutions.
 
 ◼️
 
 [Data](articles/8c038553.json)
+
+[Extended Data](ext_articles/8c038553.ext.json)
 
 ---
 
@@ -2291,59 +2379,5 @@ Following the meeting last night (15) with Sri Lanka’s President Anura Kumara 
 [Data](articles/0661608d.json)
 
 [Extended Data](ext_articles/0661608d.ext.json)
-
----
-
-### North and East alerted as low-pressure system develops in Bay of Bengal
-
-*2024-12-16 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104265/north-and-east-alerted-as-low-pressure-system-develops-in-bay-of-bengal) · `en`
-
-The Department of Meteorology announced that a low-pressure area is likely to form over southeast Bay of Bengal during the next  24 hours.
-
-In its latest forecast, the department mentioned that it is likely to intensify further and move west-northwestwards towards the Tamil Nadu coast, close to North of Sri Lanka during the subsequent two days.
-
-The general public, particularly living in the Eastern and Northern provinces are requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regard.
-
-Meanwhile, the Met. Department said that cloudy skies can be expected over most parts of the island today (16).
-
-Showers or thundershowers will occur at times in Northern, Eastern, North-central, Uva and North-western provinces and in Matale and Nuwaraeliya districts.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night, it added.
-
-...
-
-[Data](articles/3697371a.json)
-
-[Extended Data](ext_articles/3697371a.ext.json)
-
----
-
-### Another new risk that comes to the north
-
-*2024-12-16 08:02:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கை-நோக்கி-வரும்-மற்றுமொரு-புதிய-ஆபத்து/175-348777) · `ta`
-
-New cyclone threat: Southeastern Bengal Sea low-pressure system moving NW, affecting Northern & Eastern Provinces. Heavy rainfall, thunderstorms, strong winds forecasted. Public advised to prepare for potential disruptions.
-
-🟩
-
-The Department of Meteorology has said that in the next 24 hours, low -lying areas in the southeastern Bengal Sea are likely.
-
-It is a well -stained low -pressure area and is possible to move in the western -northwest direction.
-
-It has been announced that it is expected to move towards the coast of Tamil Nadu that it is surrounded by the northern part of Sri Lanka over the next two days.
-
-The public, especially in the Northern and Eastern Provinces, are requested to be concerned about the future suggestions provided by the Department of Meteorology on this issue.
-
-Rainfall or thunderstorms are expected in the North, Eastern, North Central, Uva and North Western Provinces and Matale and Nuwara Eliya districts.
-
-Rain or thunderstorms can occur in the evening or night in other areas.
-
-Mm in some places in the North, Eastern, North Central and Uva Provinces and Matale District. Heavy rains of up to 100.
-
-...
-
-[Data](articles/914f61a5.json)
-
-[Extended Data](ext_articles/914f61a5.ext.json)
 
 ---

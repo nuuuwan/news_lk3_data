@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 20:01:35**
+As of **2024-12-17 20:43:10**
 
 ## Newspaper Stats
 
-*Scraped **60,675** Articles*
+*Scraped **60,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,155 @@ islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,781
-adaderanalk | 7,400
+adalk | 5,782
+adaderanalk | 7,401
 tamilmirrorlk | 8,668
-virakesarilk | 9,994
-adaderanasinhalalk | 10,486
+virakesarilk | 10,000
+adaderanasinhalalk | 10,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,602 (99.9%) of 60,675 articles have been extended.
+60,607 (99.9%) of 60,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### கலம்போ ஜகுவார்ஸை ஜெவ்னா டைட்டன்ஸின் துனித் வெல்லாலகே, குசல் மெண்டிஸ் ஆகியோர் வெளியேற்றினர்
+
+*2024-12-17 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201535) · `ta`
+
+கண்டி பல்லேகலையில் நடைபெற்றுவரும் லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியிலிருந்து கலம்போ ஜகுவார்ஸ் அணியை துனித் வெல்லாலகேயின் துல்லியமான பந்துவீச்சும் குசல் மெண்டிஸின் அதிரடி துடுப்பாட்டமும் வெளியேற்றின.
+
+இன்று நடைபெற்ற கடைசிக் கட்டப் போட்டியில் கலம்போ ஜகுவார்ஸ் அணியை எதிர்த்தாடிய ஜெவ்னா டைட்டன்ஸ் 9 விக்கெட்களால் அமோக வெற்றியீட்டியது.
+
+இதன் மூலம் இந்த சுற்றுப் போட்டியில் தோல்வி அடையாத ஒரே ஒரு அணி என்ற பெருமையைப் பெற்றுக்கொண்ட ஜெவ்னா டைட்டன்ஸ், நாளை நடைபெறவுள்ள முதலாவது தகுதிகாண் போட்டியில் விளையாடவுள்ளது.
+
+இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கலம்போ ஜகுவார்ஸ் 10 ஓவர்களில் 8 விக்கெட்களை இழந்து 99 ஓட்டங்ளை மாத்திரம் பெற்றது.
+
+ரமேஷ் மெண்டிஸ் திறமையாகத் துடுப்பெடுத்தாடி ஆட்டம் இழக்காமல் 28 ஓட்டங்களைப் பெற்றார். அவரைவிட அசிப் அலி (18), கமிந்து மெண்டிஸ் (17), நஜிபுல்லா ஸத்ரான் (12) ஆகியோரே 10 ஓட்டங்களுக்கு மேல் பெற்றனர்.
+
+பந்துவீச்சில் துனித் வெல்லாலகே 5 ஓட்டங்களுக்கு 3 விக்கெட்களையும் லஹிரு குமார 19 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+
+...
+
+[Data](articles/05a593ba.json)
+
+---
+
+### Concerace in the village of Divulapitiya
+
+*2024-12-17 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204470) · `si`
+
+Supreme Court removes safety guards from Divulapitiya village. Petition granted, affecting 618 Sinhalese families since 1974. Basic human rights violations cited. Case to resume September 10.
+
+🟩
+
+The Supreme Court today (17) to be heard to be heard to remove the safety guards to the government's authorities to be removed and the people who have been built around the Village of Divulapitiya.Granted permission.
+
+The Mahaweli Authority of the Eastern Province, the Mahaweli Authority of the Eastern Province, the Mahaweli Authority of the Eastern Province, has been released to the Eastern Province.
+
+Revice of Ven. Bebidge Nalaka Thera and HH. The court issued the order after a petition filed by a group of villagers including Sugathapala and RLRjapathiks.
+
+This petition was considered in the face of a Supreme Court panel across the Supreme Court Judge of Priyantha Fernando, Preet Padman Surasena.
+
+Attorney at Law Kanishka Vitharana, who appeared in behalf of the petition, claiming the roads in the Eastern Village, and the basic human rights that the people of the village have been violated freely.
+
+...
+
+[Data](articles/8ace45bb.json)
+
+[Extended Data](ext_articles/8ace45bb.ext.json)
+
+---
+
+### PHI lays causing food shops near Colombo National Hospital
+
+*2024-12-17 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204469) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo National Hospital area food shops raided. Public Health Inspectors found expired bread, unsuitable fruits, and unworthy meat sold to humans.
+
+🟩
+
+The hawksa was revealed today (17) that the people who visit the Colombo National Hospital enjoying more foods in several hotels.
+
+Many people visit the Colombo National Hospital take food at the Punchi Borella area.
+
+In some airports, there were information that there was a number of information that the unworthy emax is sold to human consumption.
+
+Accordingly, the Public Health Inspectors of the Borella Medical Officer of the Medical Officers were rocked today.
+
+There he also destroyed the level of food that should not be given to any of those who should not give to any of the shops.
+
+The second market, which the Public Health Inspectors raided, was not second.
+
+Another store that was raided was found in sales of an expired bread.
+
+Meanwhile, public health inspectors also checked the temporary food shops at the Colombo Exhibition and Convention Center.
+
+It was discovered while preparing to use the unsuitable fruits inadequacy to human consumption.
+
+◼️
+
+[Data](articles/23f55f5f.json)
+
+[Extended Data](ext_articles/23f55f5f.ext.json)
+
+---
+
+### கால்நடைகளில் இருந்து எலிக்காய்ச்சல் பரவுகின்றதா? - ஆய்வு செய்வதற்கு கொழும்பில் இருந்து யாழுக்கு செல்கிறது விசேட குழு!
+
+*2024-12-17 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201534) · `ta`
+
+யாழ்ப்பாணம் மாவட்டத்தில் எலிக்காய்ச்சல் நோய் காரணமாக இதுவரை 99 பேர் பாதிக்கப்பட்டுள்ளனர். தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 23 பேரும் யாழ் போதனா வைத்தியசாலையில் 6 பேரும் சிகிச்சைபெற்று வருகின்றனர் என யாழ்ப்பாண மாவட்ட சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஆ.கேதீஸ்வரன் தெரிவித்துள்ளார்.
+
+இன்றையதினம் அவரது அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த 24 மணிநேரத்தில் பருத்தித்துறை ஆதார வைத்தியசாலையில் 9 நோயாளர்களும் யாழ் போதனா வைத்தியசாலையில் 5 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
+
+கடந்த 24 மணிநேரத்தில் இந்நோய் காரணமாக எந்தவொரு இறப்பும் ஏற்படவில்லை. இதுவரை யாழ்ப்பாணம் மாவட்டத்தில் இந்நோய் காரணமாக 7 இறப்புக்கள் ஏற்பட்டுள்ளன.
+
+குறிப்பாக பருத்தித்துறை, கரவெட்டி சுகாதார வைத்திய அதிகாரி பிரிவுகளிலே எலிக்காய்ச்சலை பரப்புகின்ற பற்றீரியா அந்த பிரதேசங்களில் இருக்கின்ற கால்நடைகளில் இருக்கலாம் என சந்தேகிக்கப்படுகிறது.
+
+...
+
+[Data](articles/8bd3ddcd.json)
+
+---
+
+### The murder case in Mahara prisoner is over
+
+*2024-12-17 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204468) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Mahara Prison murder case closed. Attorney General maintains stance. Magistrate ends prosecution citing lack of evidence. Disagreement over legality of deaths. Case final unless Court of Appeal intervenes.
+
+🟩
+
+The Attorney General has informed the Magistrate's Court today that there is no change in the stance taken by the Attorney General to end the prisoner murder case at Mahara Prison.
+
+Welisara Magistratesitha Dhammika Uddana decided to end the prosecution of Mahara who could not maintain the law and maintain the law.
+
+The law and the STF in the Welisara Magistrate's Court today (17) was recalled at the Welisara Magistrate's Court today for an PCR invaching the police and the police.
+
+The Deputy Solicitor General Janaka Janaka Janaka Banda Bandara explained the steps taken by the Attorney General to cover up the proceedings due to the commitment of death.
+
+...
+
+[Data](articles/82dfaa93.json)
+
+[Extended Data](ext_articles/82dfaa93.ext.json)
+
+---
 
 ### Ranil praised Anura
 
@@ -58,6 +192,42 @@ I appreciate President Anura Kumara Dissanayake for the development of the Econo
 
 ---
 
+### President Dissanayake offers prayer at Mahabodhi Temple
+
+*2024-12-17 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104316/president-dissanayake-offers-prayer-at-mahabodhi-temple) · `en`
+
+President Anura Kumara Dissanayake, who is currently on an official visit to India, arrived in Bodh Gaya this morning (17).
+
+He paid homage at the Mahabodhi Temple and the sacred Sri Maha Bodhi Tree, the site where Prince Siddhartha attained enlightenment, and received blessings.
+
+Bodh Gaya is one of the four main sacred sites associated with the life of Gautama Buddha, holding immense significance for Buddhists. In 2002, the Mahabodhi Temple in Bodh Gaya was designated a UNESCO World Heritage Site.
+
+The General Secretary of Maha Bodhi Society of India, Venerable Pelwatte Seewalee Thero, and the Head of the Sarnath Center, Venerable Rathmalwala Sumiththananda Nayake Thero, extended blessings to the President during the occasion.
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, along with the Minister of Labour and Deputy Minister of Economic Development, Prof. Anil Jayantha Fernando also participated in the event.
+
+◼️
+
+[Data](articles/74109d13.json)
+
+---
+
+### தேர்தல் செலவு அறிக்கையை சமர்ப்பிக்க தவறிய வேட்பாளர்களுக்கெதிராக சட்ட நடவடிக்கை - தேர்தல் ஆணைக்குழு
+
+*2024-12-17 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201533) · `ta`
+
+பாராளுமன்றத் தேர்தலில் போட்டியிட்டு தேர்தல் செலவு அறிக்கையை சமர்ப்பிக்காத வேட்பாளர்கள் உட்பட 1040 பேர் மீது சட்ட நடவடிக்கை எடுக்கத் திட்டமிட்டுள்ளதாக தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க, சம்பந்தப்பட்ட தரப்பினர் தொடர்பில் பொலிஸாரிடம் அறிக்கை தாக்கல் செய்யப்பட்டுள்ளதாக உறுதிப்படுத்தியுள்ளார். இதில் 900க்கும் மேற்பட்ட வேட்பாளர்கள், பல அரசியல் கட்சிப் பிரதிநிதிகள் மற்றும் பல தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர்கள் உள்ளனர்.
+
+2024 பாராளுமன்றத் தேர்தலுக்கான தேர்தல் செலவு அறிக்கையை சமர்ப்பிப்பதற்கான கால அவகாசம் கடந்த 6ஆம் திகதி நள்ளிரவுடன் முடிவடைந்தது. அறிக்கைகளை சமர்பிக்கத் தவறி சட்ட நடவடிக்கைக்கு முகம் கொடுக்கும் வேட்பாளர்கள் எதிர்காலத்தில் மாகாண சபை அல்லது உள்ளூராட்சி சபைத் தேர்தல்களில் போட்டியிட முடியாமல் தகுதி நீக்கம் செய்யப்படுவார்கள் என்றும் தேர்தல் ஆணைக்குழுவின் தலைவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/4cd08d98.json)
+
+---
+
 ### Army security will be deleted next week
 
 *2024-12-17 19:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முப்படை-பாதுகாப்பு-அடுத்த-வாரம்-நீக்கப்படும்/175-348857) · `ta`
@@ -77,6 +247,46 @@ He added that the decision will be taken only after reviewing the security of th
 [Data](articles/642c3368.json)
 
 [Extended Data](ext_articles/642c3368.ext.json)
+
+---
+
+### கொவிட்டில் தகனம் செய்யப்பட்ட நபர்களின் உறவினர்களுக்கு நட்டஈடு வழங்க வேண்டும் - எதிர்க்கட்சித் தலைவர் சஜித் அரசாங்கத்திடம் கோரிக்கை
+
+*2024-12-17 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201532) · `ta`
+
+கொவிட் தொற்றில் மரணித்தவர்களை தகனம் செய்ய வேண்டும் என்ற கடந்த அரசாங்கத்தின் தீர்மானம் ஒரு இனத்தை இலக்குவைத்து மேற்கொள்ளப்பட்டதாகும். அதனால் பாதிக்கப்பட்டவர்களுக்கு நட்டஈடு வழங்க அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+கொவிட் வைரஸ் பரவல் காலத்தில் ஒரு இனத்தையும் மதத்தையும் இலக்கு வைத்தே கோட்டாபய ராஜபக்ஷ் அரசாங்கம் நடந்து கொண்டது. கோட்டாபய ராஜபக்ஷ் அரசாங்கம் உலக சுகாதார நிறுவனம் வழங்கிய வழிகாட்டுதல்களையும் மீறி செயற்பட்டது. உரிமைகள் மீறப்பட்ட இஸ்லாமிய சமூகத்தினருக்கு, பாதிக்கப்பட்ட முஸ்லிம்களுக்கும் நீதி நிலைநாட்டப்பட வேண்டும்.
+
+அதனால் கடந்த அரசாங்கத்தின் பிழையான தீர்மானத்தால் தகனம் செய்யப்பட்டநபர்களின் குடுபங்களுக்கு  இழப்பீட்டொன்றை வழங்குமாறு கேட்டுக்கொள்கிறேன்.
+
+...
+
+[Data](articles/bde29104.json)
+
+---
+
+### China's ACWF Vice President meets with Sri Lankan Prime Minister
+
+*2024-12-17 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201531) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Chinese ACWF VP Sang Tongmey meets Sri Lankan PM Harini Amarasuriya. Discusses women's empowerment, health, education, and economic participation. China shares advancements in women's employment and representation.
+
+🟩
+
+Vice President of the All Chinese Women's Federation (ACWF), Mrs. Sang Tongmey, met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
+
+Prime Minister Dr. Amarasuriya welcomed Mrs. Sang Tongmey and her delegation and praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
+
+...
+
+[Data](articles/f77f2fae.json)
+
+[Extended Data](ext_articles/f77f2fae.ext.json)
 
 ---
 
@@ -101,6 +311,24 @@ He said that the details of the parliamentary website could be recreated for ten
 [Data](articles/fe18f41b.json)
 
 [Extended Data](ext_articles/fe18f41b.ext.json)
+
+---
+
+### මන්ත්‍රීවරුන් හැදින්වීමේදී ආචාර්ය, මහාචාර් හා වෛද්‍ය වැනි පට්ටම් එපා
+
+*2024-12-17 18:53:36* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරුන්-හැදින්වීමේදී-ආචාර්ය--මහාචාර්-හා-වෛද්‍ය-වැනි-පට්ටම්-එපා/11-413706) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන් කුමන වෘත්තියක් නියෝජනය කළද, පාර්ලිමේන්තුව තුළ හැඳින්වීමේදී ආචාර්ය, වෛද්‍ය වැනි එම වෘත්තීන් අනුව හැඳින්වීම ඉදිරියේදී නොකරන ලෙස යෝජනාවක් ඉදිරිපත් කරන බව සර්වජන බලයේ පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේදී අද (17දා) නව කථානායකවරයාට සුබ පතමින් කළ ප්‍රකාශයේදී හෙතෙම මේ බව සඳහන් කළේය.
+
+“මම යෝජනාවක් වශයෙන් කියන්න කැමතියි, මෙවර මේ ප්‍රශ්නය මතු වුණු ආකාරයත්, ඒ පසුබිමත් සලකා වගේම, අනෙකුත් කරුණුත් සලකා අපේ මේ මන්ත්‍රීවරුන්ට නම ඉදිරියෙන් තිබෙන ආචාර්ය, මහාචාර්ය වැනි වෘත්තීන් අනුව හැඳින්වීම් ඉදිරියේදී නොකරන ලෙස. කථානායකතුමා වෛද්‍යවරයෙක්.
+
+මේවා වෘත්තීන්. මම හිතනවා මේ සභාවේ ආමන්ත්‍රණයේදී මේවා සියල්ල අපි ඉවත් කළොත් අපේ නිර්දන පාන්තික දේශපාලනයටත් හොඳයි. මේ පාර්ලිමේන්තුවේ විවිධ වෘත්තීන් කරන අය ඉන්නවා. මහාචාර්යවරයා අදාළ වන්නේ විශ්වවිද්‍යාලයට, වෛද්‍යවරයා අදාළ වන්නේ රෝහලට. මම යෝජනාවක් හැටියට කරනවා අපි මේ සභාව තුළ එකිනෙකාට ආමන්ත්‍රණය කිරීමේදී මේ ඉදිරියෙන් තිබෙන කෑලි ටික ඉවත් කර ගත්තා නම් හොඳයි කියලා.”
+
+◼️
+
+[Data](articles/807b0729.json)
 
 ---
 
@@ -136,17 +364,23 @@ John Amaratunga Rs.. 4 million, former MP Wimalaweera Dissanayake Rs.. 3 million
 
 ---
 
-### උපාධියෙන් ඔබ්බට ගිය සහතිකත් මම හෙට ඉදිරිපත් කරනවා
+### I will be presented tomorrow
 
 *2024-12-17 18:31:12* · [`adalk`](https://www.ada.lk/breaking_news/උපාධියෙන්-ඔබ්බට-ගිය-සහතිකත්-මම-හෙට-ඉදිරිපත්-කරනවා/11-413703) · `si`
 
-අමාත්‍ය නලින්ද ජයතිස්ස මහතා සඳහන් කළ පරිදිම තම අධ්‍යාපන සුදුසුකම් හෙට දිනයේදී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පැවැසීය.
+Sajith Premadasa to present educational qualifications in Parliament tomorrow, including degree certificate and other assurances, as requested by Minister Nalinda Jayatissa.
 
-“අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඉල්ලීමක් කළා මම ලබපු අධ්‍යාපන සුදුසුකම් ඉදිරිපත් කරන්න කියලා. හෙට උදේට මම ලබපු සියලු අධ්‍යාපන සුදුසුකම් ටික මේ සභාවේ ඉදිරිපත් කරනවා. උපාධි සහතිකය පමණක් නෙමෙයි ඉන් ඔබ්බටත් ගිය හැම සහතිකයක්ම ඉදිරිපත් කරන්න බලාපොරොත්තු වෙනවා.”
+🟩
+
+Opposition Leader Sajith Premadasa said his educational qualifications will be presented to Parliament tomorrow as stated by Minister Nalinda Jayatissa.
+
+"Minister Nalinda Jayatissa requested to submit the educational qualifications I received. The congregation presents all the educational qualifications tomorrow morning. I hope to present all the assurances that are not only the degree certificate. "
 
 ◼️
 
 [Data](articles/7393651d.json)
+
+[Extended Data](ext_articles/7393651d.ext.json)
 
 ---
 
@@ -204,30 +438,6 @@ In the meantime, there is a settlement ordered the parties to inform the court t
 
 ---
 
-### China's ACWF Vice President meets with Sri Lankan Prime Minister
-
-*2024-12-17 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201531) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Chinese ACWF VP Sang Tongmey meets Sri Lankan PM Harini Amarasuriya. Discusses women's empowerment, health, education, and economic participation. China shares advancements in women's employment and representation.
-
-🟩
-
-Vice President of the All Chinese Women's Federation (ACWF), Mrs. Sang Tongmey, met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
-
-Prime Minister Dr. Amarasuriya welcomed Mrs. Sang Tongmey and her delegation and praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
-
-...
-
-[Data](articles/f77f2fae.json)
-
-[Extended Data](ext_articles/f77f2fae.ext.json)
-
----
-
 ### Order to check the court at Jaffna
 
 *2024-12-17 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204466) · `si`
@@ -280,21 +490,63 @@ The further states that President Anura Kumara Dissanayake is praising the Econo
 
 ---
 
-### ගසක අත්තක් කඩා වැටී පෙරපාසලේ සෙල්ලම් කරමින් සිටි දරුවා මරුට
+### சபாநாயகர் அனைத்து பாராளுமன்ற உறுப்பினர்களதும் உரிமைகளை பாதுகாக்க நடவடிக்கை எடுப்பாரென நம்புகிறோம்- சஜித்
+
+*2024-12-17 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201516) · `ta`
+
+சபாநாயகருக்கு எதிராக நம்பிக்கையில்லாப் பிரேரணையை சமர்ப்பிக்க வேண்டிய தேவைப்பாடு மீண்டும் ஏற்படாதவாறு நடந்து கொள்ள வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (17) புதிய சபாநாயகராக தெரிவுசெய்யப்பட்ட ஜகத் விக்ரமரத்னவுக்கு வாழ்த்து தெரிவித்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+பாராளுமன்ற உறுப்பினர்களின் உரிமைகளைப் பாதுகாத்துக் கொண்டு, மக்களுக்கு மேலும் உகந்த சேவையை வழங்கும் பயணத்தில் சபாநாயகருக்கு தனித்துவமான வகிபங்கு இருக்கிறது. 225 பாராளுமன்ற உறுப்பினர்களும் மக்களுக்கு  தரமான சேவையை வழங்குவதில் சபாநாயகரின் பங்களிப்பு தனித்துவமானது.
+
+சகல உறுப்பினர்களினதும் கருத்துக்களையும் முன்மொழிவுகளையும் வேறுபாடின்றி கேட்பதன் மூலம் ஜனநாயகத்தை வலுப்படுத்துவதில் முக்கிய பங்காளராக சபாநாயகர் மாறுகிறார்.  எனவே புதிய சபாநாயகராக தெரிவு செய்யப்பட்டமைக்கு எதிர்க்கட்சி சார்ப்பில் வாழ்த்துக்களை தெரிவித்துக்கொள்கிறேன்.
+
+...
+
+[Data](articles/b58a5bd0.json)
+
+---
+
+### Child killed in a tree and playing a branch
 
 *2024-12-17 16:57:25* · [`adalk`](https://www.ada.lk/breaking_news/ගසක-අත්තක්-කඩා-වැටී-පෙරපාසලේ-සෙල්ලම්-කරමින්-සිටි-දරුවා-මරුට/11-413697) · `si`
 
-හොරොව්පොතාන  පොලිස් වසමේ ඇලපත්වැව ප්‍රදේශයේ පිහිටි පෙර පාසලක මිදුලේ සෙල්ලම් කරමින් සිටි කුඩා දරුවෙකුගේ ඇඟ මතට, ගසක අත්තක් කඩා වැටීම හේතුවෙන් අනුරාධපුර ශික්ෂණ රෝහලට ඇතුලත් කර ප්‍රතිකාර ලබමින් සිටි කුඩා දරුවෙකු ඊයේ (16දා) ජීවිතක්ෂයට පත් වූ බව හොරොව්පොතාන පොලිසිය පවසයි.
+Child dies after falling from tree while playing branch in Sri Lanka
 
-මෙලෙස අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ , ඇලපත්වැව, මොරකෑව හොරොව්පොතාන  ලිපිනයේ පදිංචිව සිටි ආර්.කේ. නෙසදු දුලාෂ් පෙරේරා නැමැති  වයස අවුරුදු 5යි මාස 6ක පිරිමි දරුවෙකි.
+🟩
 
-මොරවැව ප්‍රදේශයේ පිහිටි පෙර පාසලක ඉගෙනුම ලබමින් සිටි මෙම දරුවා පෙර පාසල් අවසන් වීමෙන් අනතුරුව සෙල්ලම්  කරමින් සිටියදී, ගසක අත්තක් කඩා වැටීම හේතුවෙන් ඉකුත් 12දා මෙම අනතුර සිදුව තිබූ බව පොලිසිය කියයි.
+A small child who was admitted to the Anuradhapura Teaching Hospital has been admitted to the Anuradhapura Teaching Hospital due to a small child who was playing in the courtyard of a previous school in Apuram area in Horowpowa area.
 
-එදින පෙර පාසල නිම වීමෙන් අනතුරුව පෙර පාසල් ගුරුවරිය දෙමාපියන් පිරිසක් කැඳවා, පෙර පාසලේ වර්ෂ අවසාන විවිධ ප්‍රසංගය සම්බන්ධයෙන් සාකච්ඡා කරමින් සිටියදී, එම දරුවා ගල් කැට වගයක් රැගෙන ඒ ආසන්නයෙන් සෙල්ලම් කරමින් සිට ඇති එම දරුවාගේ මවගේ  ප්‍රකාශ වල සටහන්වේ.
+The deceased has been identified as Elawewa, Morawawa resident of the Morawawa Horowpothana address. Dullah Perera is a 5-month old boy.
+
+The accident had occurred on the 12th of the end of the pre-school, while the child was running after the end of the preschool, the child was running after the end of the pre-school.
+
+The preschool teacher summoned a group of parents after the end of the previous school, while discussing the final role in the previous school, the child was playing with a rock and playing nearby statements.
+
+The child's uncle was switched by a branch of a tree and was immediately rose to the Horowpothana Teaching Hospital.
 
 ...
 
 [Data](articles/7872a740.json)
+
+[Extended Data](ext_articles/7872a740.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதிகளுக்கு வழங்கப்பட்டுள்ள இராணுவ பாதுகாப்பு நீக்கப்படும் - ஆனந்த விஜேபால
+
+*2024-12-17 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201515) · `ta`
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்புக்காக மாத்திரம் இந்த ஆண்டில் இதுவரையான காலப்பகுதியில் மாத்திரம் 1448 மில்லியன் ரூபா செலவிடப்பட்டுள்ளது. ஜனாதிபதிகளுக்கு வழங்கப்பட்டுள்ள இராணுவ பாதுகாப்பு எதிர்வரும் வாரத்தில் இருந்து நீக்கப்படும். பொலிஸ் பாதுகாப்பு மாத்திரம் வழங்கப்படும். அரச சொத்துக்களை தனிப்பட்ட தேவைக்களுக்காக பயன்படுத்த இடமளிக்க முடியாது. முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு ஆறு மாதத்துக்கு ஒருமுறை மீள்பரிசீலனை செய்யப்படும் என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற விவகாரங்கள் அமைச்சர் ஆனந்த விஜேபால தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (17) நடைபெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பில் ஈடுபடுத்தப்பட்டிருந்த பாதுகாப்பு உத்தியோகஸ்த்தர்கள் சேவையில் இருந்து மீளழைக்கப்பட்டமை தொடர்பில் ஒருதரப்பினர் மாறுப்பட்ட கருத்துக்களை குறிப்பிடுவதை தெளிவுப்படுத்த வேண்டும்.
+
+...
+
+[Data](articles/1f6c7373.json)
 
 ---
 
@@ -2139,249 +2391,5 @@ The conversation also emphasized expanding investment opportunities in Sri Lanka
 ...
 
 [Data](articles/b5225b0b.json)
-
----
-
-### Tsunami warning was issued
-
-*2024-12-17 08:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனாமி-எச்சரிக்கை-விடுக்கப்பட்டது/50-348827) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Powerful 7.4 magnitude earthquake hits near Vanuatu. Tsunami warning issued for surrounding islands and New Zealand.
-
-🟩
-
-It is reported that a powerful earthquake has been reported to be a 7.4 magnitude of the Richter Scale near the Vanuwatu Island in the Pacific Ocean.
-
-In this case, the surrounding islands and New Zealand have been issued a tsunami warning.
-
-◼️
-
-[Data](articles/5a8f16c7.json)
-
-[Extended Data](ext_articles/5a8f16c7.ext.json)
-
----
-
-### Teacher and teenage student killed in shooting at Christian school in Wisconsin
-
-*2024-12-17 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104295/teacher-and-teenage-student-killed-in-shooting-at-christian-school-in-wisconsin) · `en`
-
-A teenage student opened fire with a handgun Monday at a Christian school in Wisconsin, killing a teacher and another teenager during the final week before Christmas break. The shooter also died, police said.
-
-The shooting occurred in a study hall and was reported to police by a second grader, police said at a Monday night press conference. Wisconsin police identified the shooter as a 15-year-old female student.
-
-The shooter also wounded six others at Abundant Life Christian School, including two students who were in critical condition, Madison Police Chief Shon Barnes said. A teacher and three students had been taken to a hospital with less serious injuries, and two of them had been released by Monday evening.
-
-“Every child, every person in that building is a victim and will be a victim forever. ... We need to figure out and try to piece together what exactly happened,” Barnes said.
-
-...
-
-[Data](articles/c11e6998.json)
-
----
-
-### Gazette issued confirming Asoka Ranwala’s resignation as Speaker
-
-*2024-12-17 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104294/gazette-issued-confirming-asoka-ranwalas-resignation-as-speaker-) · `en`
-
-The official Gazette notification confirming the resignation of Asoka Ranwala from the position of Speaker of Parliament has been issued, signed by the Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-According to the notification, Ranwala has resigned from the position effective from December 13.
-
-Meanwhile, the opposition has also decided to propose a candidate from the opposition for the vacant position of the Speaker.
-
-Opposition Leader Sajith Premadasa stated that the proposal will be made with the consensus of all opposition parties. He made this announcement while addressing the media after a parliamentary group meeting held last evening (16).
-
-Meanwhile, the ruling party also held a parliamentary group meeting yesterday, during which a final agreement was reached regarding the new Speaker.
-
-Chief Government Whip and Minister of Health and Media, Dr. Nalinda Jayatissa, confirmed that the appointment of the new Speaker will be made when the Parliament convenes today.
-
-◼️
-
-[Data](articles/fb9f16f6.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-17 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104293/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the low-pressure area over southwest Bay of Bengal is located to the east of the island as of this morning (17), and it is expected to gradually move west-northwestwards, moving towards the Tamil Nadu coast near the northern coast of Sri Lanka during the next 48 hours.
-
-Cloudy skies can be expected over most parts of the island, it said.
-
-Showers or thundershowers will occur at times in Northern, Eastern, North-central, Uva, Central and North-western provinces, the Met. Department said.
-
-Fairly heavy showers above 75mm are likely at some places in Northern, Eastern, North-central and North-western provinces and in Matale District.
-
-Showers or thundershowers may occur at several places elsewhere during the evening or night, the statement added.
-
-Fairly strong winds of about 40 kmph can be expected at times over Northern, North-central and North-western provinces and in Matale and Trincomalee districts.
-
-...
-
-[Data](articles/075575d7.json)
-
----
-
-### ලංකාවේ ආයෝජනයට ඉන්දීය ව්‍යාපාරිකයන්ගේ කැමැත්ත
-
-*2024-12-17 08:16:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආයෝජනයට-ඉන්දීය-ව්‍යාපාරිකයන්ගේ-කැමැත්ත/11-413682) · `si`
-
-ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක  මහතා නවදිල්ලි නුවර දී ඊයේ (16) පස්වරුවේ ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් සමඟ සාකච්ඡාවකට  එක් විය.
-
-ඉන්දියානු කර්මාන්ත සම්මේලනය විසින් සංවිධානය කරන ලද මෙම සාකච්ඡාවට ඉන්දියාවේ ප්‍රමුඛතම ව්‍යවසායකයන් සහභාගී විය.
-
-ශ්‍රී ලංකාවේ ආයෝජනවලට ඇති හිතකර පරිසරය පහදා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ශ්‍රී ලංකාවේ ආයෝජනය කරන ලෙස ඉන්දීය ව්‍යවසායකයන්ගෙන් ඉල්ලා සිටියේය.
-
-දෙරට අතර ආයෝජන සහ වාණිජ සම්බන්ධතා පුළුල් කිරීමේ අරමුණෙන් පැවති මෙම සාකච්ඡාවේදී ඩිජිටල්  ආර්ථික, සංචාරක, පුනර්ජනනීය බලශක්ති සහ තොරතුරු තාක්ෂණ යන  ක්ෂේත්‍ර පිළිබඳව විශේෂ අවධානය යොමු කෙරිණි.
-
-ඒ අනුව දෙරට අතර වෙළෙඳ කටයුතු මුල්කර ගනිමින් ශ්‍රී ලංකාවේ ආයෝජන අවස්ථා පුළුල් කිරීම පිළිබඳව සාකච්ඡාවට ලක් විය.
-
-මෙහිදී ශ්‍රී ලංකාවේ අයෝජන අවස්ථා  කෙරෙහි යොමු වීමට ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් කැමැත්ත පළ කළ අතර ඒ සඳහා අවශ්‍ය ආයෝජන පහසුකම් සැපයීමට ශ්‍රී ලංකා රජය එකඟ විය.
-
-...
-
-[Data](articles/db00b33a.json)
-
----
-
-### මීටියාගොඩ වෙඩිතැබීමට 4ක් අත්අඩංගුවට
-
-*2024-12-17 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204450) · `si`
-
-මීටියාගොඩ, මහවත්ත ප්‍රදේශයේ සිදුවූ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-මීටියාගොඩ පොලීසියට ලැබුණු තොරතුරකට අනුව ඊයේ (16) පස්වරුවේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග මහතා සඳහන් කළේය.
-
-පෙරේදා රාත්‍රී ත්‍රිරෝද රථයකින් පැමිණි පුද්ගලයින් කිහිපදෙනෙකු විසින් නිවසක සිටි පුද්ගලයෙකුට සහ ඔහුගේ දියණියට වෙඩි තබා තිබූ අතර එහිදී තුවාල ලැබූ ඔවුන් ප්‍රතිකාර සඳහා බලපිටිය රෝහලට ඇතුළත් කරනු ලැබීය.
-
-පියාගේ උදරයට සහ දියණියගේ පාදයකට වෙඩි වැදී ඇති බව පොලීසිය සඳහන් කළේය.
-
-අදාළ සිද්ධියට සම්බන්ධ ප්‍රධාන සැකකරු ඇතුළු සිව්දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/b1337056.json)
-
----
-
-### Bolivia opens fuel imports in Sri Lanka-style move amid money printing
-
-*2024-12-17 07:59:00* · [`economynextcom`](https://economynext.com/bolivia-opens-fuel-imports-in-sri-lanka-style-move-amid-money-printing-194564/) · `en`
-
-ECONOMYNEXT – Bolivia has authorized 27 companies to import fuel, breaking the monopoly of state-run Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) media reports said, as fuel shortages and queues hit the country amid foreign exchange shortages.
-
-“I went to the pump on Calle 35 in Chasquipampa and there was nothing, then to the one on Calle 21 in Los Pinos and there was none either,” a fuel user was quoted as saying by the publication El Diario.
-
-In late November even worse queues and diesel and petroleum had bigger shortages, the newspaper said.
-
-Bolivia was once a natural gas exporter and the YPFB was broken up and privatized under a rightwing president.
-
-However, the domestic currency Boliviano collapsed from around 6.0 to the US dollar to 2,000 to 7.4 to the US dollar two years later as macroeconomists printed money.
-
-In the inflation and stabilization crisis that followed, leftist President Eva Morales came to power amid public protests.
-
-...
-
-[Data](articles/95f63ac3.json)
-
----
-
-### Tsunami threat to Vanuatu has passed: Update
-
-*2024-12-17 07:58:00* · [`economynextcom`](https://economynext.com/tsunami-threat-to-vanuatu-has-passed-update-194605/) · `en`
-
-ECONOMYNEXT-  A tsunami warning has been issued for the Pacific Island of Vanuatu and nearby areas, after a 7.4 magnitude earthquake has been updated to say the threat has now passed.
-
-Minor sea level fluctions may still continue, the Pacific Tsunami Warning centre said.
-
-* AN EARTHQUAKE WITH A PRELIMINARY MAGNITUDE OF 7.3 OCCURRED IN
-
-THE VANUATU ISLANDS AT 0147 UTC ON TUESDAY DECEMBER 17 2024.
-
-* REMAIN OBSERVANT AND EXERCISE NORMAL CAUTION NEAR THE SEA.
-
-* MINOR SEA LEVEL FLUCTUATIONS MAY OCCUR IN SOME COASTAL AREAS
-
-A tsunami warning has been issued for the Pacific Island of Vanuatu and nearby areas, after a 7.4 magnitude earthquake.
-
-FIJI… KERMADEC ISLANDS… KIRIBATI… NEW CALEDONIA… PAPUA NEW GUINEA… SOLOMON ISLANDS… TUVALU… AND     WALLIS AND FUTUNA.
-
-**** NOTICE **** NOTICE **** NOTICE **** NOTICE **** NOTICE *****
-
-THIS MESSAGE IS ISSUED FOR INFORMATION ONLY IN SUPPORT OF THE
-
-MEANT FOR NATIONAL AUTHORITIES IN EACH COUNTRY OF THAT SYSTEM.
-
-...
-
-[Data](articles/2bc24656.json)
-
----
-
-### මහ මැතිවරණයේ අපේක්ෂකයින්ගේ ආදායම් වියදම් වාර්තා අද ප්‍රසිද්ධ කෙරේ
-
-*2024-12-17 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204449) · `si`
-
-පාර්ලිමේන්තු මැතිවරණයට තරග කරනු ලැබූ සියලු අපේක්ෂකයින්, පක්ෂ ලේකම්වරුන්, ස්වාධීන කණ්ඩායම් නායකයින් සහ ජාතික ලැයිස්තු අපේක්ෂකයින්ගේ ආදායම් වියදම් වාර්තා අද (17) දිනයේ සිට ප්‍රසිද්ධියට පත්කරන බව මැතිවරණ කොමිශන් සභාව පවසයි.
-
-මැතිවරණ කොමිශන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා සදහන් කළේ සියලු දිස්ත්‍රික් ලේකම් කාර්යාලවල සහ රාජගිරියේ පිහිටි මැතිවරණ කොමිශන් සභා කාර්යාලයේ අදාළ වාර්තා ප්‍රසිද්ධියට පත්කරන බවය.
-
-මැතිවරණ වියදම් නියාමනය කිරීමේ පනතට අනුව පාර්ලිමේන්තු මැතිවරණයේ ආදායම් වියදම් වාර්තා බාරදීමට ලබාදී තිබු කාලය පසුගිය දෙසැම්බර් මස 6 වන දින මධ්‍යම රාත්‍රියෙන් අවසන් විය.
-
-එම කාලය තුළ දිස්ත්‍රික් මට්ටමින් දේශපාලන පක්ෂ නියෝජනය කරමින් තරග කරන ලද අපේක්ෂකයින් 8361 දෙනාගෙන් 7412 දෙනෙකු ආදායම් වියදම් වාර්තා බාර දී තිබේ.
-
-මැතිවරණ කොමිශන් සභාව සදහන් කළේ ස්වාධීන කණ්ඩායම්වලින් තරග කරන ලද අපේක්ෂකයින් 690 දෙනාගෙන් 493 දෙනෙකු ආදායම් වියදම් වාර්තා බාර දී ඇති අතර ජාතික ලැයිස්තු අපේක්ෂකයින් 527 දෙනාගෙන් 434 දෙනෙකු වාර්තා බාරදී ඇති බවය.
-
-...
-
-[Data](articles/da3dce81.json)
-
----
-
-### විදෙස් ජාතික පවුලක්ම දියවැලකට හසුවෙයි
-
-*2024-12-17 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204448) · `si`
-
-හික්කඩුව වෙරළ තීරයේ දියනාමින් සිටි රුසියානු ජාතික සිව් දෙනෙකු දියවැලකට හසුව ගසාගෙන යමින් සිටිය දී බේරාගෙන තිබේ.
-
-පොලීසිය පැවසුවේ, හික්කඩුව පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් වහාම ක්‍රියාත්මක වී අනතුරට පත් සිව්දෙනාගේ දිවි බේරාගෙන ගොඩබිමට ගෙනැවිත් ඇති බව පොලීසිය පවසයි.
-
-දිය අනතුරින් මුදාගත් පිරිමි පුද්ගලයා වයස අවුරුදු 40ක් හා කාන්තාව වයස අවුරුදු 39ක්ද, දැරිවියන් දෙදෙනා අවුරුදු 07 හා 13 යන වයස් වල පසුවන එකම පවුලේ සාමාජිකයන් වන අතර ඔවුන් රුසියානු ජාතික බව පොලීසිය පවසයි.
-
-හික්කඩුව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරනු ලබන පොලිස් ජීවිතාරක්ෂක ඒකකයේ පොලිස් පරික්ෂක හේවගේ, පොලිස් කොස්තාපල් 96793 ඒකනායක, පොලිස් කොස්තාපල් 102748 දිසානායක හා පොලිස් කොස්තාපල් 105456 ජයසිංහ යන නිලධාරීන් විසින් මෙම දිවි බේරා ගැනීම සිදුකර ඇත.
-
-◼️
-
-[Data](articles/effaf529.json)
-
----
-
-### කථානායක ධුරයෙන් ඉල්ලා අස්වීමට අදාළ ගැසට්ටුව එළියට
-
-*2024-12-17 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204447) · `si`
-
-අශෝක සපුමල් රන්වල මහතා කථානායක ධුරයෙන් ඉල්ලා අස්වීමට අදාළ ගැසට් නිවේදනය නිකුත් කර තිබේ.
-
-ජනාධිපති ලේකම් ආචාර්ය එන්.එස්. කුමානායක මහතාගේ අත්සනින් යුක්තව නිකුත් කර ඇති ගැසට් නිවේදනයට අනුව දෙසැම්බර් මස 13 වන දින සිට ක්‍රියාත්මක වන පරිදි අශෝක රන්වල සිය ධුරයෙන් ඉල්ලා අස්වී ඇති බව සඳහන්ය.
-
-අශෝක රන්වල මහතාගේ ඉල්ලා අස්වීමෙන් පුරප්පාඩු වූ කථානායක ධුරය සඳහා විපක්ෂයෙන් ද නමක් යෝජනා කිරීමට මේ වන විට තීරණය කර තිබේ.
-
-විපක්ෂයේ සියලු පක්ෂවල එකඟතාවයෙන් අදාළ යෝජනාව සිදුකිරීමට බලාපොරොත්තු වන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සඳහන් කළේය.
-
-ඊයේ (16) පස්වරුවේ පැවති පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායම් රැස්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් විපක්ෂ නායකවරයා මේ බව සඳහන් කළේය.
-
-මේ අතර ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම ද ඊයේ පස්වරුවේ රැස්වී නව කථානායකවරයා සම්බන්ධයෙන් අවසන් එකඟතාවයකට පැමිණ තිබේ.
-
-අද පාර්ලිමේන්තුව රැස්වීමෙන් අනතුරුව නව කථානායකවරයා පත්කිරීම සිදුකර ගන්නා බව ආණ්ඩු පක්ෂයේ ප්‍රධාන සංවිධායක, සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/adf587cc.json)
 
 ---

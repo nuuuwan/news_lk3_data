@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 21:27:15**
+As of **2024-12-17 21:14:53**
 
 ## Newspaper Stats
 
-*Scraped **60,691** Articles*
+*Scraped **60,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,783
 adaderanalk | 7,401
-tamilmirrorlk | 8,670
+tamilmirrorlk | 8,669
 virakesarilk | 10,000
 adaderanasinhalalk | 10,489
 
@@ -26,47 +26,27 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,611 (99.9%) of 60,691 articles have been extended.
+60,609 (99.9%) of 60,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### ஜனாதிபதி நிதியத்தை  முன்னாள் எம்.பிகளே அனுபவித்தனர்
-
-*2024-12-17 21:14:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-நிதியத்தை-முன்னாள்-எம்-பிகளே-அனுபவித்தனர்/150-348873) · `ta`
-
-முன்னாள் அமைச்சர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி நிதியத்தின் மூல நோக்கத்திற்கு அப்பாற்பட்ட மருத்துவ சிகிச்சைக்கான நிதியுதவியை பெற்றுக்கொண்டுள்ளதாக பாராளுமன்றத்தில் இன்று தெரிவிக்கப்பட்டுள்ளது.
-
-வறிய மற்றும் பிற்படுத்தப்பட்ட மக்களுக்கு ஆதரவளிக்கும் வகையில் இந்த நிதியத்தில் இருந்து பல முன்னாள் அமைச்சர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் உதவிகளைப் பெற்றுள்ளதாக அரசாங்கத்தின் பிரதம கொறடா நளிந்த ஜயதிஸ்ஸ சபையில் தெரிவித்தார்.
-
-...
-
-[Data](articles/2d37ad41.json)
-
----
-
-### Yall. In the district, 99 people
+### யாழ். மாவட்டத்தில் 99 பேருக்கு எலிக்காய்ச்சல்
 
 *2024-12-17 20:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-மாவட்டத்தில்-99-பேருக்கு-எலிக்காய்ச்சல்/175-348872) · `ta`
 
-N
+யாழ்ப்பாணம் மாவட்டத்தில் எலிக்காய்ச்சல் நோய் காரணமாக இதுவரை 99 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் ஆறுமுகம் கேதீஸ்வரன் தெரிவித்துள்ளார்.
 
-🟩
+தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 23 பேரும், யாழ்ப்பாணம் போதனா வைத்தியசாலையில் 6 பேரும் சிகிச்சை பெற்று வருவதாக அவர் விடுத்துள்ள ஊடக அறிக்கை ஒன்றில் குறிப்பிடப்பட்டுள்ளது.
 
-Jaffna District Health Services Director Dr. Arumugam Ketheeswaran said that 99 people have been affected by the disease in the Jaffna district.
+கடந்த 24 மணிநேரத்தில் பருத்தித்துறை ஆதார வைத்தியசாலையில் 9 நோயாளர்களும், யாழ்ப்பாணம் போதனா வைத்தியசாலையில் 5 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
 
-In a media statement, he said that 23 persons are being treated at the Point Pedro Hospital and 6 at the Jaffna Teaching Hospital.
-
-In the last 24 hours, 9 patients at the Point Pedro Base Hospital and 5 patients at the Jaffna Teaching Hospital have been admitted to the Elike.
-
-So far, 7 deaths have been reported due to the disease in the Jaffna district.R
+இதுவரை யாழ்ப்பாணம் மாவட்டத்தில் இந்த நோய் காரணமாக 7 இறப்புக்கள் பதிவாகியுள்ளன.  R
 
 ◼️
 
 [Data](articles/89e8bf66.json)
-
-[Extended Data](ext_articles/89e8bf66.ext.json)
 
 ---
 
@@ -271,8 +251,6 @@ Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, alo
 ◼️
 
 [Data](articles/74109d13.json)
-
-[Extended Data](ext_articles/74109d13.ext.json)
 
 ---
 
@@ -2411,5 +2389,23 @@ Police Spokesman SSP Buddhika Manathunga stated that four individuals, including
 ...
 
 [Data](articles/2cddbb97.json)
+
+---
+
+### Sri Lanka’s CT CLSA widens units trust access with Cargills supermarket banking
+
+*2024-12-17 09:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-ct-clsa-widens-units-trust-access-with-cargills-supermarket-banking-194645/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s CT CLSA Asset Management said it was partnering with Cargills Bank to widen public access units through the Cargills supermarket chain.
+
+“This initiative leverages Cargills Bank’s extensive island wide supermarket banking network via the Cargills Food City supermarket chain,” CT CLSA Asset Management said in a statement.
+
+“This partnership underscores CT CLSA Asset Management’s commitment to promote inclusivity by bringing essential financial services closer to Unitholders across all 25 districts in Sri Lanka.”
+
+Cargills Bank will act as the collection agent for unit trust funds managed by CT CLSA Asset Management. Investors are able to subscribe to units at 530 outlets made up of Cargills Food City, Cargills Express and Cargills Food Hall outlets.
+
+...
+
+[Data](articles/ae25872e.json)
 
 ---

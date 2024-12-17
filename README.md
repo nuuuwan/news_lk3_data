@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 18:40:47**
+As of **2024-12-17 19:03:44**
 
 ## Newspaper Stats
 
-*Scraped **60,667** Articles*
+*Scraped **60,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,50 +17,134 @@ economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,779
-adaderanalk | 7,399
-tamilmirrorlk | 8,664
+adaderanalk | 7,400
+tamilmirrorlk | 8,665
 virakesarilk | 9,994
-adaderanasinhalalk | 10,485
+adaderanasinhalalk | 10,486
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,591 (99.9%) of 60,667 articles have been extended.
+60,596 (99.9%) of 60,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### சீனாவின் ACWF துணைத் தலைவர், இலங்கைப் பிரதமருடன் சந்திப்பு
+### ஜனாதிபதி நிதியத்திலிருந்து பணம் பெற்றவர்களின் பெயர்கள் வெளியீடு
+
+*2024-12-17 18:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்திலிருந்து-பணம்-பெற்றவர்களின்-பெயர்கள்-வெளியீடு/175-348855) · `ta`
+
+முன்னாள் அமைச்சர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி நிதியத்தின் பிரதான நோக்கத்திற்கு அப்பாற்பட்ட மருத்துவ சிகிச்சைக்கான நிதியுதவியை பெற்றுக்கொண்டுள்ளதாக பாராளுமன்றத்தில் இன்று தெரிவிக்கப்பட்டுள்ளது.
+
+வறிய மற்றும் பின்தங்கிய மக்களுக்கு ஆதரவளிப்பதை மையமாகக் கொண்ட இந்நிதியை பல முன்னாள் அமைச்சர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் பெற்றுள்ளதாக அரசாங்கத்தின் பிரதம கொறடா நளிந்த ஜயதிஸ்ஸ சபையில் தெரிவித்தார்.
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல ரூ. 11 மில்லியன் ஐப் பெற்றுள்ளதுடன், ராஜித சேனாரத்னவுக்கு ரூ. 10 மில்லியன் வழங்கப்பட்டுள்ளது.
+
+முன்னாள் அமைச்சர் அலெக் அலுவிஹாரே ரூ. 2.2 மில்லியன் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினரான அவரது மகன் ரஞ்சித் அலுவிஹாரே ரூ. 4.6 மில்லியன் நிதியையும் பெற்றுள்ளனர்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் ராஜித் சொய்சா ரூ. 18 மில்லியன் ஐப் பெற்றுள்ளதுடன், முன்னாள் சபாநாயகர் ஜோசப் மைக்கல் பெரேரா ரூ. 2.7 மில்லியன் நிதியைப் பெற்றுள்ளார்.
+
+...
+
+[Data](articles/0d045530.json)
+
+---
+
+### Vanuatu hit by magnitude 7.4 earthquake, UN reports six unconfirmed deaths
+
+*2024-12-17 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104315/vanuatu-hit-by-magnitude-74-earthquake-un-reports-six-unconfirmed-deaths) · `en`
+
+(Reuters) - An earthquake of magnitude 7.4 struck Vanuatu’s capital Port Vila on Tuesday, with the United Nations reporting six unconfirmed deaths and that two reservoirs and a hospital had been damaged.
+
+State broadcaster VBTC showed footage of vehicles crushed under the debris of collapsed buildings and boulders strewn across a highway. Drone footage showed landslips near a shipping terminal.
+
+Communications networks on the Pacific archipelago were down, New Zealand said.
+
+Australia’s Foreign Minister Penny Wong said there was significant damage and Australia was preparing to deploy assistance including urban search and rescue and emergency medical teams on Wednesday.
+
+Port Vila’s international airport was closed, Vanuatu’s High Commission in Canberra said.
+
+The U.N. Office for the Coordination of Humanitarian Affairs estimated 116,000 people had been affected by the earthquake. It said there were six unconfirmed deaths and damage to the two main water reservoirs.
+
+...
+
+[Data](articles/10ee9921.json)
+
+---
+
+### ශිෂ්‍යත්ව විභාගය ගැන ඉදිරිපත්කළ පෙත්සම් ගැන දුන් නියෝගය
+
+*2024-12-17 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204467) · `si`
+
+ඉකුත්දා අවසන් වූ පහ වසර ශිෂ්‍යත්ව විභාගයේ කලින් ප්‍රශ්න තුනක් පිටවූ බව කියන පළමු ප්‍රශ්න පත්‍රය සඳහා යළි විභාගයක් පවත්වන ලෙස නියෝග නිකුත් කරන්නැයි ඉල්ලා එම විභාගයට ඉදිරිපත් වූ සිසු සිසුවියන් සහ ඔවුන්ගේ දෙමව්පියන් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් හතරක් පිළිබඳ විභාගය අද (17) ශ්‍රේෂ්ඨාධිකරණය හමුවේ යළි ආරම්භ විය.
+
+යසන්ත කෝදාගොඩ, කුමුදුනී වික්‍රමසිංහ සහ අර්ජුන ඔබේසේකර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ඉදිරියේ එම පෙත්සම් විභාගය පැවැත්වීය.
+
+අද දින පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරු විසින් කරුණු ඉදිරිපත් කිරීම අවසන් කළහ.
+
+හෙට (18) දිනයේ වගඋත්තරකාර පාර්ශ්වයේ නීතිඥවරු කරුණු ඉදිරිපත් කිරීමට නියමිතය.
+
+ඒ අතරතුර යම් සමථයක් තිබේ නම් හෙට දින අධිකරණයට දැනුම්දෙන ලෙසත් විනිසුරු මඩුල්ල විසින් පාර්ශ්වකරුවන්ට නියෝග කළේය.
+
+◼️
+
+[Data](articles/b26747ad.json)
+
+---
+
+### China's ACWF Vice President meets with Sri Lankan Prime Minister
 
 *2024-12-17 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201531) · `ta`
 
-அனைத்து சீன பெண்கள் சம்மேளனத்தின் (ACWF) துணைத் தலைவியான திருமதி சாங் டோங்மேய், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை பிரதமர் அலுவலகத்தில் சந்தித்து, பெண்கள் வலுவூட்டல் மற்றும் அபிவிருத்தி தொடர்பான பரஸ்பர முயற்சிகள் குறித்து கலந்துரையாடினார்.
+Here's a summary of 200 characters:
 
-திருமதி சாங் டோங்மேய் மற்றும் அவரது தூதுக்குழுவினரை வரவேற்ற பிரதமர் கலாநிதி அமரசூரிய, இலங்கைக்கும் சீனாவுக்கும் இடையிலான நீடித்த நட்புறவைப் பாராட்டினர். இந்த கலந்துரையாடல் பெண்களின் சுகாதாரம், கல்வி மற்றும் பொருளாதாரப் பங்கேற்பு ஆகியவற்றில் பகிரப்பட்ட சவால்கள் மற்றும் வாய்ப்புகளை மையமாகக் கொண்டிருந்தது. பெண்களின் தொழிற்படை ஈடுபாடு மற்றும் கீழ்மட்ட பிரதிநிதித்துவத்தை அதிகரிப்பது உட்பட சீனாவின் முன்னேற்றங்கள் குறித்து திருமதி சாங் டோங்மேய் விளக்கினார்.
+
+
+Chinese ACWF VP Sang Tongmey meets Sri Lankan PM Harini Amarasuriya. Discusses women's empowerment, health, education, and economic participation. China shares advancements in women's employment and representation.
+
+🟩
+
+Vice President of the All Chinese Women's Federation (ACWF), Mrs. Sang Tongmey, met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
+
+Prime Minister Dr. Amarasuriya welcomed Mrs. Sang Tongmey and her delegation and praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
 
 ...
 
 [Data](articles/f77f2fae.json)
 
+[Extended Data](ext_articles/f77f2fae.ext.json)
+
 ---
 
-### යාපනය ප්‍රදේශයේ වායු ගුණත්වය පිළිබඳව පරීක්ෂාකර අධිකරණයට දන්වන්නැයි නියෝගයක්
+### Order to check the court at Jaffna
 
 *2024-12-17 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204466) · `si`
 
-යාපනය ප්‍රදේශයේ වායු ගුණත්වය පිළිබඳව මාසයක් පුරා අඛන්ඩව පරීක්ෂණ කර එහි අහිතකර කාරක තිබේදැයි අධිකරණයට කරුණු ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙස අභියාචනාධිකරණය විසින් අද (17) මධ්‍යම පරිසර අධිකාරියට නියෝග කළේය.
+Court orders CEA to act on Jaffna air quality; petitioner claims lack of proper investigation by authorities; next hearing on March 6.
 
-එවැනි පරීක්ෂණයකදී යාපනය ප්‍රදේශයේ වායුවේ අහිතකර කාරක අන්තර්ගත වන බවට තොරතුරු අනාවරණය වන්නේ නම් ඒ පිළිබඳව ජනතාව දැනුවත් කිරීමේ යාන්ත්‍රණයක් සකස් කිරීමට ඇති හැකියාව සොයාබලා අධිකරණයට දැනුම්දෙන ලෙසත් අධිකරණය විසින් පරිසර අමාත්‍යවරයා ඇතුළු පිරිසකට නියෝග කර තිබුණි.
+🟩
 
-යාපනය ප්‍රදේශයේ පදිංචි වෛද්‍ය උමාසුකී නඩරාජා මහත්මිය විසින් ඉදිරිපත් කළ පෙත්සමක් සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්ධුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+The Court of Appeal today (17) ordered the Central Environmental Authority to take action to proceed with the court months of air quality in Jaffna.
 
-පෙත්සම්කාරිය වෙනුවෙන් පෙනී සිටි නීතීඥ රවින්මද්‍රනාත් දාබරේ මහතා අධිකරණයට දැනුම් දුන්නේ යුද්ධයෙන් පීඩාවට පත් වූ යාපනය අර්ධද්වීප ප්‍රදේශයේ වායු ගුණත්වය පිළිබඳව වගකිවයුතු රාජ්‍ය ආයතන විසින් මේ දක්වා විධිමත් පරීක්ෂණයක් සිදු කර නොමැති බවයි.
+The court had ordered a group of the Minister of Environmental Minister to prove the possibility of awareness of the gas in such a test.
 
-...
+A petition filed by Dr. Umasaida Nadaraja, a resident of Jaffna, issued the order by the Court of Appeal.
+
+Rubawatte, who appeared on behalf of the petitioner, informed the court that a proper investigation was not conducted by state institutions responsible for air quality in the war.
+
+The lawyer said that the lawyer of the local polluting was caused by the authorities in the Jaffna, was causing the air pollution in the area.
+
+After considering the submissions, the judges were issued to be heard to hear the petition.
+
+The petition was then examined on March 6.
+
+◼️
 
 [Data](articles/845f049a.json)
+
+[Extended Data](ext_articles/845f049a.ext.json)
 
 ---
 
@@ -86,17 +170,23 @@ The further states that President Anura Kumara Dissanayake is praising the Econo
 
 ---
 
-### தகனமா ? அடக்கமா ? விவகாரத்தில் பாதிக்கப்பட்ட தரப்பினருக்கு இழப்பீட்டை வழங்குங்கள்- சஜித்
+### Block?Is it supposed?Provide compensation to the victims of the affair- Sajith
 
 *2024-12-17 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201509) · `ta`
 
-கொரோனா, கோவிட் வைரஸ் பரவல் காலத்தில் ஒரு இனத்தையும் மதத்தையும் இலக்கு வைத்து கோட்டாபய ராஜபக்ச அரசாங்கம் நடந்து கொண்டது. கோட்டாபய ராஜபக்ச அரசாங்கம் உலக சுகாதார ஸ்தாபனம் வழங்கிய வழிகாட்டுதல்களையும் மீறி செயற்பட்டது. உரிமைகள் மீறப்பட்ட இஸ்லாமிய சமூகத்தினருக்கு, பாதிக்கப்பட்ட முஸ்லிம்களுக்கும் நீதி நிலைநாட்டப்பட வேண்டும்.
+Sajith Premadasa demands compensation for Muslim victims of alleged discrimination under Gotabhaya Rajapaksa's COVID-19 response.
 
-இதனால் பாதிக்கப்பட்ட  தரப்பினருக்கு இழப்பீட்டை வழங்குமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று செவ்வாய்க்கிழமை (17) பாராளுமன்றத்தில் கோரிக்கை விடுத்தார்.
+🟩
+
+The Gotabhaya Rajapaksa government was aimed at a race and religion during the spread of the Corona and the Kovit virus.The Gotabhaya Rajapakse government has acted in violation of the guidelines provided by the World Health Organization.Justice should be established for the violated Islamic community and the affected Muslims.
+
+Opposition Leader Sajith Premadasa today (17) demanded compensation to the affected parties.
 
 ◼️
 
 [Data](articles/89156df2.json)
+
+[Extended Data](ext_articles/89156df2.ext.json)
 
 ---
 
@@ -303,6 +393,8 @@ The year-on-year GDP growth rate for the third quarter of year 2024 has been rep
 ◼️
 
 [Data](articles/a09c5853.json)
+
+[Extended Data](ext_articles/a09c5853.ext.json)
 
 ---
 
@@ -1360,6 +1452,8 @@ The more liquid S&P SL20 was down 0.34 percent, or 14.93 points, at 4,334.
 
 [Data](articles/cd1d182a.json)
 
+[Extended Data](ext_articles/cd1d182a.ext.json)
+
 ---
 
 ### ශිත සෘතුවත් සමගින් කසකස්තාන සංචාරකයන් ලංකාවට එයි
@@ -2275,83 +2369,5 @@ At this meeting, India will continue to support the Sri Lankan government's effo
 [Data](articles/639503c3.json)
 
 [Extended Data](ext_articles/639503c3.ext.json)
-
----
-
-### President discusses with Indian leading traders
-
-*2024-12-17 02:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-முன்னணி-வர்த்தகர்களுடன்-ஜனாதிபதி-கலந்துரையாடல்/175-348813) · `ta`
-
-Sri Lankan President Anura Kumara Dissanayake met Indian business leaders in New Delhi. He promoted Sri Lanka as an investment destination, focusing on digital economy, tourism, renewable energy, and IT. The meeting aimed to boost bilateral trade and investment.
-
-🟩
-
-President Anura Kumara Dissanayake, who was on a three -day official visit to India, held a discussion with Indian leading business representatives in New Delhi yesterday afternoon.
-
-India's leading entrepreneurs participated in the discussion organized by the Indian Industry Federation.
-
-President Anura Kumara Dissanayake, who explained the favorable environment in Sri Lanka, asked the Indian entrepreneurs to invest in Sri Lanka.
-
-The discussion was held to expand the investment and trade ties between the two countries and special attention to the sectors of digital economics, tourism, renewable energy and information technology.
-
-Accordingly, on the basis of trade activities between the two countries, the expanding of investment opportunities in Sri Lanka was discussed.
-
-The Sri Lankan government has agreed to focus on investment opportunities in Sri Lanka and the Sri Lankan government has agreed to provide the necessary investment facilities.
-
-...
-
-[Data](articles/217463b2.json)
-
-[Extended Data](ext_articles/217463b2.ext.json)
-
----
-
-### Discussion between President and Indian Business Representatives - Investments in Sri Lanka
-
-*2024-12-17 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201464) · `ta`
-
-Sri Lankan President Anura Kumara Dissanayake met Indian business leaders in New Delhi. He encouraged investment in Sri Lanka, focusing on digital economy, tourism, renewable energy, and IT. The meeting aimed to strengthen trade ties between the two countries.
-
-🟩
-
-President Anura Kumara Dissanayake, who has visited India on a three -day official visit, held a discussion with Indian leading business representatives in New Delhi on Monday afternoon.
-
-India's leading entrepreneurs participated in the discussion organized by the Indian Industry Federation.
-
-President Anura Kumara Dissanayake, who explained the favorable environment in Sri Lanka, asked the Indian entrepreneurs to invest in Sri Lanka.
-
-The discussion was held to expand the investment and trade ties between the two countries and special attention to the sectors of digital economics, tourism, renewable energy and information technology.
-
-Accordingly, on the basis of trade activities between the two countries, the expanding of investment opportunities in Sri Lanka was discussed.
-
-The Sri Lankan government has agreed to focus on investment opportunities in Sri Lanka and the Sri Lankan government has agreed to provide the necessary investment facilities.
-
-...
-
-[Data](articles/367af1ee.json)
-
-[Extended Data](ext_articles/367af1ee.ext.json)
-
----
-
-### False ‘Dr.’ title: Justice Minister suspects deliberate sabotage attempt
-
-*2024-12-17 02:11:43* · [`dailyftlk`](https://www.ft.lk/news/False-Dr-title-Justice-Minister-suspects-deliberate-sabotage-attempt/56-770614) · `en`
-
-Says reference to him as Dr. Harshana Nanayakkara may be deliberate attempt to defame him and undermine public confidence in his political career
-
-Claims it was no honest mistake and suggests that an unknown person had altered his credentials in an act of sabotage
-
-Assures has never used the title Dr. in his career or in any official capacity
-
-Justice and National Integration Minister Harshana Nanayakkara has filed a formal complaint with the Criminal Investigation Department (CID) requesting an investigation into the inclusion of incorrect educational qualifications under his name on the Parliament website.
-
-Speaking to the media, Minister Nanayakkara raised concerns that the false entry, which listed him as “Dr. Harshana Nanayakkara,” may have been a deliberate attempt to defame him and undermine public confidence in his political career.
-
-...
-
-[Data](articles/317e3746.json)
-
-[Extended Data](ext_articles/317e3746.ext.json)
 
 ---

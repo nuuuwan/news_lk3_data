@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 01:27:31**
+As of **2024-12-18 01:43:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,626 (99.9%) of 60,709 articles have been extended.
+60,627 (99.9%) of 60,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -887,6 +887,8 @@ A bond maturing on 15.09.2029 closed at 10.67/73 percent, down from 10.70/80 per
 ◼️
 
 [Data](articles/b7be7768.json)
+
+[Extended Data](ext_articles/b7be7768.ext.json)
 
 ---
 

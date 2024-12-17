@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 16:17:11**
+As of **2024-12-17 16:42:39**
 
 ## Newspaper Stats
 
-*Scraped **60,651** Articles*
+*Scraped **60,656** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
-bbccomsinhala | 635
+bbccomsinhala | 636
 islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,775
+adalk | 5,776
 adaderanalk | 7,397
 tamilmirrorlk | 8,663
-virakesarilk | 9,991
-adaderanasinhalalk | 10,480
+virakesarilk | 9,992
+adaderanasinhalalk | 10,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,575 (99.9%) of 60,651 articles have been extended.
+60,577 (99.9%) of 60,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### Sri Lanka economy increased by 5.5% in the third quarter of 2024
+
+*2024-12-17 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204462) · `si`
+
+Sri Lanka's economy grew 5.5% in Q3 2024, with agriculture at 4.0% and industry at 2.6%. GDP increase noted but specific figure not provided.
+
+🟩
+
+The GDP was increased to Rs.
+
+Accordingly, the growth of GDP is a 5.5 percent growth in the third quarter of 2024.
+
+The Department of Census and Statistics have been estimated to be estimated and other macroeconomic indicators of the year 2024 (from July 01 to September 30) and fixed price (2015).
+
+In the third quarter of 2024, agricultural economic activities, industrial economic activities, industrial purposes and services have been recorded at 4.0 percent and 2.6 percent respectively.
+
+◼️
+
+[Data](articles/88c415fb.json)
+
+[Extended Data](ext_articles/88c415fb.ext.json)
+
+---
+
+### Former MPs who cash funds from the President
+
+*2024-12-17 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204463) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former MPs received funds from the President's Relief Fund. Minister Nalinda Jayatissa disclosed this in Parliament. The fund aims to support poverty relief. W. Fonseka received Rs. 55 million. Payments were made between 2005-2024.
+
+🟩
+
+Minister Nalinda Jayatissa revealed in parliament today (17).
+
+He said the fund was allocated for welfare of the country's poverty relief.
+
+"There is a fund that can help your children can help. The President's Fund Act. It clearly states how to help. "
+
+4 To provide a grant for those who have served for the nation
+
+"I have the information about payment from the 2005 -2024 presidential fund."
+
+"These are directly. There are a few more ... to make a little hard to find. "
+
+W. Fonseka (not Sarath Fonseka) - Rs. 55
+
+"That the selection of this is given to the above divisions."
+
+◼️
+
+[Data](articles/ffc22abe.json)
+
+[Extended Data](ext_articles/ffc22abe.ext.json)
+
+---
 
 ### Petition against Archana
 
@@ -72,6 +132,36 @@ The Consumer Affairs Authority officials the customer service authority conducts
 
 ---
 
+### சகல உறுப்பினர்களின் உரிமைகளையும் பாதுகாப்பேன் பத்தாவது பாராளுமன்றம் நாட்டின் சக வாழ்வை மேம்படுத்த வேண்டும் - சபாநாயகர்
+
+*2024-12-17 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201513) · `ta`
+
+சட்டவாக்கத்துறையின் கடமைகளை சிறந்த முறையில் நிறைவேற்றுவதற்கு அனைத்து உறுப்பினர்களின் ஒத்துழைப்புக்களையும் எதிர்பார்க்கிறேன். மக்கள் பிரதிநிதி என்ற வகையில் அனைத்து பாராளுமன்ற உறுப்பினர்களின் உரிமைகளையும், சிறப்புரிமைகளையும் பாதுகாப்பேன்.பத்தாவது பாராளுமன்றம் இனம், மதம் என்ற வரையறைகளுக்கு அப்பாற்பட்டு  நாட்டின் சகவாழ்வு மற்றும் மக்களின் அபிலாசைகள் ஆகியவற்றை  மேம்படுத்துவதற்கு  சிறந்த எடுத்துக்காட்டாக  செயற்பட  சகல உறுப்பினர்களின் ஒத்துழைப்பையும் எதிர்பார்க்கிறேன் என சபாநாயகர் வைத்தியர் ஜகத் விக்கிரமரத்ன  சபைக்கு அறிவித்தார்.
+
+பாராளுமன்ற அமர்வு இன்று செவ்வாய்க்கிழமை (17) நடைபெற்றது. இதன்போது  சபைக்கு விசேட அறிவிப்பை விடுத்த சபாநாயகர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/24854ad6.json)
+
+---
+
+### ජනපති බුද්ධගයාවට යයි
+
+*2024-12-17 15:38:56* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-බුද්ධගයාවට-යයි/10-413691) · `si`
+
+තෙදින ඉන්දීය නිල සංචාරයක නිරත වූ ජනපති අනුර කුමාර දිසානායක මහතා අද (17) පෙරවරුවේ ‍බුද්ධගයාවට පැමිණ සිදුහත් කුමරු බුද්ධත්වය ලැබූ ස්ථානයේ පිහිටා ඇති මහා විහාරය සහ ශ්‍රී මහා බෝධීන් වහන්සේ වැඳ පුදා ගෙන ආශීර්වාද ලබා ගත්තේය.
+
+මෙහිදී ඉන්දියානු මහාබෝධි සමාගමේ මහ ලේකම් පූජ්‍ය පැලවත්තේ සීවලි ස්වාමීන්වහන්සේ සහ සාරනාත් මධ්‍යස්ථානාධිපති පූජ්‍ය රත්මල්වල සුමිත්තානන්ද ස්වාමීන්වහන්සේ ජනපතිවරයා වෙත ආශිර්වාද කරන ලදී.
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු යන මහත්වරුද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/e02e6107.json)
+
+---
+
 ### Opposition focusing on govt MPs’ qualifications due to absence of corruption – PM
 
 *2024-12-17 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104312/opposition-focusing-on-govt-mps-qualifications-due-to-absence-of-corruption-pm) · `en`
@@ -101,6 +191,8 @@ PM Amarasuriya added that such scrutiny did not apply to the Ministers and MPs o
 හෙට (18) උදෑසන තමා සතු සියලුම අධ්‍යාපන සුදුසුකම් පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (17) පාර්ලිමේන්තුවේදී පැවසීය.
 
 ඔහු ඒ බව සඳහන් කළේ අමාත්‍ය නලින්ද ජයතිස්ස මහතා නැඟූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+
+"හෙට උදේට මම ලබපු සියලුම අධ්‍යාපන සුදුසුකම් ටික මේ සභාවේ ඉදිරිපත් කරන්න අදහස් කරනවා. උපාධි සහතිකය පමණක් නොවෙයි. ඉන් ඔබ්බටත් ගිය හැම සහතිකයක්ම ඉදිරිපත් කරනවා."
 
 ◼️
 
@@ -881,6 +973,26 @@ Sri Lanka, which defaulted on its foreign debt for the first time in May 2022 du
 [Data](articles/84f6db28.json)
 
 [Extended Data](ext_articles/84f6db28.ext.json)
+
+---
+
+### ශ්‍රී ලාංකික සංක්‍රමණිකයින් දියෙගෝ ගාර්සියාහි නීති විරෝධී ලෙස රඳවා ගෙන සිට ඇතැයි හෙළි වේ
+
+*2024-12-17 10:46:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0ew9np49epo) · `si`
+
+ශ්‍රී ලාංකික සංක්‍රමණිකයින් දියෙගෝ ගාර්සියාහි නීති විරෝධී ලෙස රඳවා ගෙන සිට ඇතැයි හෙළි වේ
+
+බ්‍රිතාන්‍යයට අයත් දූරස්ථ භූමි ප්‍රදේශයක් වන දියෙගෝ ගාර්සියාහි ශ්‍රී ලාංකික දෙමළ සංක්‍රමණිකයන් වසර ගණනාවක් පුරා නීතිවිරෝධී ලෙස රඳවා තබාගෙන ඇති බවට විනිසුරුවරයෙකු තීන්දු කර තිබේ.
+
+2021 වසරේදී, දෙමළ ජාතිකයින් රැසක් රහසිගත බ්‍රිතාන්‍ය සහ ඇමෙරිකා එක්සත් ජනපද හමුදා කඳවුරක් පිහිටා ඇති මෙම ඉන්දියානු සාගර දූපතේ සරණාගතභාවය ඉල්ලා සිටි පළමු පුද්ගලයින් බවට පත්වූහ.
+
+වසර ගණනාවක් ඔවුන් කුඩා ආරක්‍ෂිත වැටක් සහිත කඳවුරක රඳවා සිටි අතර ඔවුන්ගේ යහපැවැත්ම සඳහා බ්‍රිතාන්‍ය රජය විසින් "එක් වරක් පමණක් ගනු ලබන" තීරණයක් ලෙස හඳුන්වමින් මෙම මස මුලදී ඔවුන්ව එරටට ගෙන යනු ලැබිණි.
+
+ඇතැම් සංක්‍රමණිකයන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයෙකු පැවසුවේ, මෙය සිදු කිරීමට හැකි වූයේ කෙසේ ද යන්න පිළිබඳව ප්‍රශ්න කළ යුතු බව ය. බ්‍රිතාන්‍ය රජයේ ප්‍රකාශකයෙකු පැවසුවේ "මෙම තීන්දුව ගැන ප්‍රවේශමෙන් සලකා බලන" බව ය.
+
+...
+
+[Data](articles/5c015699.json)
 
 ---
 
@@ -2151,103 +2263,5 @@ The two leaders reaffirmed that the India-Sri Lanka bilateral partnership is und
 [Data](articles/2bb42785.json)
 
 [Extended Data](ext_articles/2bb42785.ext.json)
-
----
-
-### 2024-12-16 (Monday)
-
-### Hambantota Bangla Tigers and Goal Marwals qualify for the final round of the Lanka R10 Super League
-
-*2024-12-16 23:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201463) · `ta`
-
-Hambantota Bangla Tigers & Goal Marwals qualify for Lanka R10 Super League final. Jevna Titans leads with 4 wins, followed by 2-win teams. Weather may affect final matches.
-
-🟩
-
-Two more teams have qualified to play in the final round of the inaugural Lanka R10 Super League cricket, which is being held at the Pallekele International Cricket Stadium in Kandy.
-
-While Jevna Titans qualified to play in the final round of the tournament, the three matches to be held today and the Hambantota Bangla Tigers and Cole Marwals have advanced to the final round.
-
-Jevna Titans tops the list with 4 wins and 2 endless results.
-
-Hampantota Bangla Tigers and Goal Marwals are 2 wins each, with a strike and 3 endless results, with 7 points each.
-
-The three teams, Kalambo Jaguars, Kandy Boltz and Nuwara Eliya Kings, who have scored 4 points each with 2 defeats and 4 endless results, are in the 4th, 5th and 6th respectively.
-
-The last match of these three teams will be determined by which team will go to the final round. Perhaps the 3 matches involving these 3 teams are not played due to inclement weather.
-
-◼️
-
-[Data](articles/a95707df.json)
-
-[Extended Data](ext_articles/a95707df.ext.json)
-
----
-
-### ‘Family Movers celebrates 35 years of happy moving experiences’
-
-*2024-12-16 22:59:00* · [`islandlk`](http://island.lk/family-movers-celebrates-35-years-of-happy-moving-experiences/) · `en`
-
-Family Movers (Pvt) Ltd – the leading all-in-one relocation service provider in Sri Lanka, will be celebrating its 35th Anniversary this year. Family Movers has been providing relocation services for homes and offices since its inception in 1989 ensuring safety, security, and most of all, peace of mind with customized solutions. They take over full responsibility for all challenges relating to relocating a home or an office, from packing, transporting, dismantling, and reassembling furniture, and unpacking at the destination. The Family Movers portfolio includes international relocation services which are also seamlessly handled from pickup to destination. Additionally, Family Movers provides secure short- and long-term storage facilities on raised platforms to protect customer’s valuable goods with safety and security.
-
-...
-
-[Data](articles/8921e7a4.json)
-
-[Extended Data](ext_articles/8921e7a4.ext.json)
-
----
-
-### Lolc Al-Falaah voted Best Islamic Leasing Provider at ifn Global Poll 2024
-
-*2024-12-16 22:55:00* · [`islandlk`](http://island.lk/lolc-al-falaah-voted-best-islamic-leasing-provider-at-ifn-global-poll-2024/) · `en`
-
-LOLC Al-Falaah, the alternate financing unit of LOLC Finance, has once again cemented its legacy as a trailblazer in the Islamic finance landscape by being voted the “Best Islamic Leasing Provider (Global)” in the IFN Non-Banking Financial Institutions Poll 2024. This marks the third time in four years that Al-Falaah has achieved this No.1 position in this global accolade, underscoring its excellence as the most preferred alternate financial services provider.
-
-...
-
-[Data](articles/5798d8b4.json)
-
-[Extended Data](ext_articles/5798d8b4.ext.json)
-
----
-
-### Special training on the ills of dangerous drug addiction
-
-*2024-12-16 22:55:00* · [`islandlk`](http://island.lk/special-training-on-the-ills-of-dangerous-drug-addiction/) · `en`
-
-Kangaroo Cabs Pvt. Ltd. conducted a one-day training program, as a corporate social responsibility project recently, for its chauffeurs to inform them of the ills of dangerous drug addiction. The event was held at Hotel Viluxey, Maharagama, under the direction of the company’s top management with Director Operations Thushara Fonseka playing a key role in the venture.
-
-The special training event also saw the participation of Deputy Director of the Police Narcotic Bureau (PNB) ASP Namal Perera, who imparted instructions to the chauffeurs under the direction of DIG Oshana Hewawitharana of the PNB.
-
-Kandy to get a mega bookstore from a publisher who learned the trade page-by-page
-
-Lolc Al-Falaah voted Best Islamic Leasing Provider at ifn Global Poll 2024
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/d6e94306.json)
-
----
-
-### Bourse’s bullishness enhances as external bond exchange process concludes
-
-*2024-12-16 22:52:00* · [`islandlk`](http://island.lk/bourses-bullishness-enhances-as-external-bond-exchange-process-concludes/) · `en`
-
-The stock market was extremely bullish yesterday due to the conclusion of the external bond exchange process during the weekend. This created strong momentum in the market resulting in the All Share Price Index crossing the 14,500 mark, market analysts said.
-
-Sri Lanka received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange, market sources said.
-
-Amid those developments, the All Share Price Index went up by 295.10 points, while S and P SL20 rose by 111.9 points. Turnover at Rs 8.27 billion with 16 crossings.
-
-...
-
-[Data](articles/2ecef353.json)
-
-[Extended Data](ext_articles/2ecef353.ext.json)
 
 ---

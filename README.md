@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 09:20:05**
+As of **2024-12-17 09:32:04**
 
 ## Newspaper Stats
 
-*Scraped **60,567** Articles*
+*Scraped **60,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,666
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,761
+adalk | 5,762
 adaderanalk | 7,379
 tamilmirrorlk | 8,651
 virakesarilk | 9,976
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,522 (99.9%) of 60,567 articles have been extended.
+60,524 (99.9%) of 60,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### சுனாமி எச்சரிக்கை விடுக்கப்பட்டது
+### Tsunami warning was issued
 
 *2024-12-17 08:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சுனாமி-எச்சரிக்கை-விடுக்கப்பட்டது/50-348827) · `ta`
 
-பசுபிக் கடலில் வனுவாட்டு தீவுக்கு அருகே ரிக்டர் அளவுகோலில் 7.4 ஆக சக்திவாய்ந்த நிலநடுக்கம் ஒன்று ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Here's a summary of 200 characters:
 
-இந்த நிலையில் சுற்றியுள்ள தீவுகள் மற்றும் நியூசிலாந்துக்கு சுனாமி எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக வௌிநாட்டு ஊடகங்கள் செய்தி வௌியிட்டுள்ளன.R
+
+
+Powerful 7.4 magnitude earthquake hits near Vanuatu. Tsunami warning issued for surrounding islands and New Zealand.
+
+🟩
+
+It is reported that a powerful earthquake has been reported to be a 7.4 magnitude of the Richter Scale near the Vanuwatu Island in the Pacific Ocean.
+
+In this case, the surrounding islands and New Zealand have been issued a tsunami warning.
 
 ◼️
 
 [Data](articles/5a8f16c7.json)
+
+[Extended Data](ext_articles/5a8f16c7.ext.json)
 
 ---
 
@@ -1380,6 +1390,22 @@ The statement further states that social media activists are requested to expres
 
 ---
 
+### මාස 11ට කොළඹ ගිනි ගැනීම් 268 ක්
+
+*2024-12-16 17:55:08* · [`adalk`](https://www.ada.lk/breaking_news/මාස-11ට-කොළඹ-ගිනි-ගැනීම්-268-ක්/11-413673) · `si`
+
+මෙම වර්ෂයේ ගෙවී ගිය මාස 11 තුළ ( ජනවාරි සිට නොවැම්බර් දක්වා) කොළඹ නගර සීමාව තුළ පමණක්  ගිනි ගැනීම්  268 ක් සිදු වී ඇතැයි කොළඹ මහ නගර සභාවේ ගිනි නිවීම් සේවා දෙපාර්තමේන්තුවේ පාලන මැදිරි භාර නිලධාරී කේ.  පි. ආර් . නානයක්කාර මහතා පැවසීය.
+
+එම ගිනිගැනීම් පාලනය කිරීමට අමතරව පුද්ගලයින්ගෙන් සහ සත්ත්වයින්ගේ ජීවිත ගලවා ගැනීම්   37 ක් හදිසි ආපදා අවස්ථාවන් 54 ක් මෙන්ම ගිලන් රථ සේවාවන් 65 ක්  සිදු කරඇත.
+
+එම කාලය තුළදී ප්‍රාදේශීය ගිනි නිවීම්  සේවා නිලධාරී රෝහණ නිශාන්ත සේනානායක මහතාගේ  නියමයෙන් සියලුම කාර්ය මණ්ඩලය එම සියලුම කර්තව්‍යන් සිදුකිරීම සඳහා දායකත්වය ලබා දී ඇතැයි  හෙතෙම වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/e3cb01e3.json)
+
+---
+
 ### Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady
 
 *2024-12-16 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-290-70-80-to-dollar-bonds-steady-194487/) · `en`
@@ -2250,19 +2276,29 @@ Today’s total turnover was recorded as over Rs. 8.27 billion while the number 
 
 ---
 
-### ශිෂ්‍යත්ව විභාගයට අදාළ පෙත්සම් විභාගය හෙටට කල්යයි
+### Petitions pertaining to scholarship examination postponed tomorrow
 
 *2024-12-16 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204430) · `si`
 
-මෙවර පහ වසර ශිෂ්‍යත්ව විභාගයේ කලින් ප්‍රශ්න තුනක් පිට වූ බව කියන පළමු ප්‍රශ්න පත්‍රය සඳහා යළි විභාගයක් පවත්වන ලෙස නියෝග නිකුත් කරන්නැයි ඉල්ලා එම විභාගයට ඉදිරිපත් වූ සිසු සිසුවියන් සහ ඔවුන්ගේ දෙමව්පියන් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් හතරක්  අද (16) ශ්‍රේෂ්ඨාධිකරණය ඉදිරියේ විභාගයට ගෙන තිබේ.
+Scholarship exam postponed due to petitions. Supreme Court hearing ongoing. Petitioners seek justice for rural students. Respondents considering free marks for certain questions. Next hearing tomorrow.
 
-යසන්ත කෝදාගොඩ, කුමුදුනී වික්‍රමසිංහ සහ අර්ජුන ඔබේසේකර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ එම පෙත්සම් විභාගයට ගත් බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-පෙත්සම්කාර පාර්ශවය වෙනුවෙන් පෙනීසිටි ජනාධිපති නීතිඥ සාලිය පිරිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් සඳහන් කළේ මෙවර ශිෂ්‍යත්ව විභාගයේ පළමුවන ප්‍රශ්න පත්‍රයේ කලින් පිටවූ බව කියන ප්‍රශ්න තුන සඳහා නිදහස් ලකුණු ලබාදීමට තීරණය කිරීම සඳහා පදනම් වී ඇති විද්වත් කමිටු වාර්තාව සකස් කර ඇත්තේ ඊට සම්බන්ධ සමස්ත ක්‍රියාවලිය කෙරෙහි අවධානය යොමු කිරීමකින් තොරව බවයි.
+The students and their fundamental rights petitions were taken up before the Supreme Court today (16) to issue orders for the first question paper of the Year 5 scholarship examination.
+
+The petitions were taken up before the three-member Supreme Court Bench, "Yasantha Kodagoda and Kumuduni Wickremasinghe and Arjuna Obeysekere."
+
+President's Counsel Salviman appeared in court on behalf of the petitioner side, said the report based on the entire scholarship committee to be exposed to the first question of the scholarship examination.That is not without making.
+
+The scholarship exam is a very crucial examination and that the President's Counsel to include in the rural lawyers to adopt popular schools in the rural areas.
+
+He said that if there were any injustice in this exam, it would be adversely affected by the entire student community.
 
 ...
 
 [Data](articles/4e4ff40a.json)
+
+[Extended Data](ext_articles/4e4ff40a.ext.json)
 
 ---
 
@@ -2359,25 +2395,5 @@ He also announced India’s decision to grant assistance for the rehabilitation 
 ◼️
 
 [Data](articles/9c634826.json)
-
----
-
-### Prime Minister Modi invites President Mahinda Rajapaksa visiting Sri Lanka
-
-*2024-12-16 14:24:06* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-සංචාරයක-නිරත-වන-ලෙස-ජනපති-අනුරගෙන්-අගමැති-මෝදිට-ආරාධනා/11-413666) · `si`
-
-N
-
-🟩
-
-President Anura Kumara Dissanayake said Indian Prime Minister Narendra Modi invites Sri Lanka's visit to Sri Lanka.
-
-The President made these comments at a joint press conference held in India shortly before the Indian Prime Minister.
-
-◼️
-
-[Data](articles/7bac1294.json)
-
-[Extended Data](ext_articles/7bac1294.ext.json)
 
 ---

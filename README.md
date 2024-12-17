@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 11:01:33**
+As of **2024-12-17 11:27:29**
 
 ## Newspaper Stats
 
-*Scraped **60,595** Articles*
+*Scraped **60,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,129 @@ islandlk | 3,666
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,765
-adaderanalk | 7,384
+adalk | 5,767
+adaderanalk | 7,388
 tamilmirrorlk | 8,655
-virakesarilk | 9,981
+virakesarilk | 9,984
 adaderanasinhalalk | 10,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,536 (99.9%) of 60,595 articles have been extended.
+60,539 (99.9%) of 60,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### மனோ கணேசன் சத்திப்பிரமாணம்
+### අසෝක රන්වල කථානායක පුටුවෙන් ආණ්ඩු පක්ෂයේ තුන්වන පේළියට
+
+*2024-12-17 11:07:43* · [`adalk`](https://www.ada.lk/breaking_news/අසෝක-රන්වල-කථානායක-පුටුවෙන්-ආණ්ඩු-පක්ෂයේ-තුන්වන-පේළියට/11-413686) · `si`
+
+හිටපු කථානායක අසෝන රන්වල මහතාට ආණ්ඩු පක්ෂයේ තුන්වෙනි පෙළ 15 වැනි (55) ආසනය පැනවීමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/59776c2c.json)
+
+---
+
+### ஹிக்கடுவை கடலில் அடித்துச் செல்லப்பட்ட ரஷ்ய பிரஜைகள் மீட்பு !
+
+*2024-12-17 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201477) · `ta`
+
+ஹிக்கடுவை கடலில் அடித்துச் செல்லப்பட்ட நான்கு ரஷ்ய பிரஜைகள் ஹிக்கடுவை பொலிஸ் உயிர்காப்பு பிரிவினரால் காப்பாற்றப்பட்டுள்ளனர்.
+
+ஒரே குடும்பத்தை சேர்ந்த 40 வயதுடைய நபரும் 39 வயதுடைய பெண்ணும் , 07 மற்றும் 13 வயதுடைய இரு சிறுமிகளுமே காப்பாற்றப்பட்டுள்ளனர்.
+
+ரஷ்ய பிரஜைகள் நால்வரும் நேற்று திங்கட்கிழமை (16) ஹிக்கடுவை கடலில் நீராடிக் கொண்டிருந்துள்ள நிலையில் திடீரென கடலில் அடித்துச் செல்லப்பட்டுள்ளனர்.
+
+இதன்போது அங்கு கடமையில் இருந்த ஹிக்கடுவை பொலிஸ் உயிர்காப்பு பிரிவினர் ரஷ்ய பிரஜைகள் நால்வரையும் காப்பாற்றி கரைக்கு கொண்டு சென்று அவர்களுக்கு முதலுதவி அளித்துள்ளனர்.
+
+◼️
+
+[Data](articles/a1e0fd05.json)
+
+---
+
+### Mano Ganesan Chhattipramanam
 
 *2024-12-17 10:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-சத்திப்பிரமாணம்/175-348834) · `ta`
 
-தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன், பாராளுமன்ற உறுப்பினராக  பிரதி சபாநாயகர் முன்னிலையில் புதன்கிழமை (17) சத்திப்பிரமாணம் செய்துகொண்டார்.
+Here's a summary of 200 characters:
+
+
+
+Mano Ganesan, Tamil Progressive Alliance leader, spoke in Parliament on 17th, addressing Deputy Speaker.
+
+🟩
+
+Mano Ganesan, the leader of the Tamil Progressive Alliance, was speaking as a Member of Parliament on Wednesday (17) in the presence of Deputy Speaker.
 
 ◼️
 
 [Data](articles/165fe1e6.json)
 
+[Extended Data](ext_articles/165fe1e6.ext.json)
+
 ---
 
-### ACWF துணைத் தலைவர், பிரதமருடன் சந்திப்பு
+### கொலை சம்பவத்துடன் தொடர்புடைய மூவர் கைது!
+
+*2024-12-17 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201480) · `ta`
+
+பதுளை, மஹியங்கனை பொலிஸ் பிரிவுக்கு உட்பட்ட வதகஹதோவ பிரதேசத்தில் கடந்த 02 ஆம் திகதி 44 வயதுடைய நபர் ஒருவர் சுட்டுக் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மூன்று சந்தேக நபர்கள் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக மஹியங்கனை பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 36, 44 மற்றும் 51 வயதுடைய கொடபோருவத்த பகுதியைச் சேர்ந்தவர்கள் ஆவர்.
+
+இதன்போது, சந்தேக நபர்களில் ஒருவர் கொலை செய்யப்பட்டவரை உள்நாட்டுத் துப்பாக்கியால் சுட்டுக் கொலை செய்துள்ளார்.
+
+◼️
+
+[Data](articles/fe5da6b2.json)
+
+---
+
+### ACWF Vice President, Meeting with Prime Minister
 
 *2024-12-17 10:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ACWF-துணைத்-தலைவர்-பிரதமருடன்-சந்திப்பு/175-348833) · `ta`
 
-அனைத்து சீன பெண்கள் சம்மேளனத்தின் (ACWF) துணைத் தலைவியான சாங் டோங்மேய், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை பிரதமர் அலுவலகத்தில் சந்தித்து, பெண்கள் வலுவூட்டல் மற்றும் அபிவிருத்தி தொடர்பான பரஸ்பர முயற்சிகள் குறித்து கலந்துரையாடினார்.
+Here's a summary of 200 characters:
 
-சாங் டோங்மேய் மற்றும் அவரது தூதுக்குழுவினரை வரவேற்ற பிரதமர் கலாநிதி அமரசூரிய, இலங்கைக்கும் சீனாவுக்கும் இடையிலான நீடித்த நட்புறவைப் பாராட்டினர். இந்த கலந்துரையாடல் பெண்களின் சுகாதாரம், கல்வி மற்றும் பொருளாதாரப் பங்கேற்பு ஆகியவற்றில் பகிரப்பட்ட சவால்கள் மற்றும் வாய்ப்புகளை மையமாகக் கொண்டிருந்தது. பெண்களின் தொழிற்படை ஈடுபாடு மற்றும் கீழ்மட்ட பிரதிநிதித்துவத்தை அதிகரிப்பது உட்பட சீனாவின் முன்னேற்றங்கள் குறித்து திருமதி சாங் டோங்மேய் விளக்கினார்.
+
+
+"ACWF VP meets SL PM: Discusses women's empowerment, health, education & economy. China shares progress in gender equality & political representation. Diplomatic officials attend."
+
+🟩
+
+Chang Tongmey, Vice President of the All Chinese Women's Federation (ACWF), met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
+
+Prime Minister Dr. Amarasuriya, who welcomed Sang Tongmey and his delegation, praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
 
 ...
 
 [Data](articles/75490a8f.json)
+
+[Extended Data](ext_articles/75490a8f.ext.json)
+
+---
+
+### அன்டன் பாலசிங்கத்துடனான அனுபவங்களின் நினைவுகள்
+
+*2024-12-17 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201481) · `ta`
+
+கடந்த வாரம் பாராளுமன்ற சபாநாயகர் அசோகா சப்புமால் ரண்வலவை பதவியில் இருந்து விலகவைத்த அவரது உயர்கல்வித் தகைமைகள் தொடர்பான சர்ச்சை விடுதலை புலிகள் இயக்கத்துடன் சம்பந்தப்பட்ட முக்கிய பிரமுகர் ஒருவர் தொடர்பிலான இதே போன்ற முன்னைய சர்ச்சை ஒன்றை நினைவுபடுத்துகிறது.
+
+ஊடகங்களில் அடிக்கடி கலாநிதி பாலசிங்கம் என்று குறிப்பிடப்பட்ட விடுதலை புலிகளின் அரசியல் ஆலோசகர் அன்டன் ஸ்ரனிஸ்லோஸ் பாலசிங்கம் பற்றியதே அந்த குழப்பமாகும்.
+
+விடுதலை புலிகளுக்கு எதிரான இயக்கங்களின் உறுப்பினர்கள் பாலசிங்கம் ஒரு கலாநிதி அல்ல என்று பரவலாக  மறுதலித்தனர். பாலசிங்கம் ஒருபோதுமே கலாநிதி பட்டத்தை பெறவில்லை என்றும் அதனால் அவர் ஒரு " பாசாங்கு கலாநிதி " என்றும் கூறப்பட்டது.
+
+அந்த நேரத்தில் நடந்தது இதுதான். இளம் பராயத்தில் ஏ.பி.ஸ்ரனிஸ்லோஸ் என்று அறியப்பட்ட பாலசிங்கம் பேராதனை பல்கலைக்கழகத்தில் கல்விகற்று கலைமாணி ( B.A. degree ) பட்டம் பெற்றவர்.பிறகு பிரிட்டனுக்கு சென்ற பாலசிங்கம் சவுத்பாங்க் லண்டன் பொலிரெக்னிக்கில் முதுமாணி (M.A. degree) பட்டத்தை பெற்றார். மார்க்சிசத்தின் உளவியல் ( Psycology  of Marxism ) தொடர்பாகவே அவரது ஆய்வு அமைந்தது.
+
+...
+
+[Data](articles/d878b7ff.json)
 
 ---
 
@@ -113,6 +197,26 @@ He added that four suspects have been arrested in connection with the investigat
 [Data](articles/2b34fc3d.json)
 
 [Extended Data](ext_articles/2b34fc3d.ext.json)
+
+---
+
+### Four new MPs sworn in
+
+*2024-12-17 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104301/four-new-mps-sworn-in) · `en`
+
+Four new National List Members of Parliament were sworn in before the Deputy Speaker this morning (17).
+
+Accordingly, Faiszer Musthapha of the New Democratic Front (NDF) and Sujeewa Senasinghe, Mano Ganesan, and Mohamed Ismail of the Samagi Jana Balawegaya (SJB) took oath as Members of Parliament following the commencement of today”s parliamentary session.
+
+On December 12, the SJB announced the nominations for its four remaining National List MP seats, naming Mano Ganesan, Nizam Kariapper, Sujeewa Senasinghe, and Mohamed Ismail.
+
+However, only three SJB National List MPs were sworn in today, as Nizam Kariapper was not present to take oath.
+
+Meanwhile, on December 11, the Election Commission of Sri Lanka issued a Gazette notification confirming Faiszer Musthapha”s appointment as an MP through the National List of the NDF, which contested the 2024 General Election under the “Gas Cylinder” symbol.
+
+◼️
+
+[Data](articles/1ec81f53.json)
 
 ---
 
@@ -186,21 +290,33 @@ According to a gazette notification issued with the signature of the President's
 
 ---
 
-### உலக அரபு மொழி தினம்: அரபு மொழியை காக்க சவூதியின் முன்னணி பங்கு
+### World Arabic Day: Saudi's leading role to protect Arabic
 
 *2024-12-17 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/201473) · `ta`
 
-வருடாந்தம் டிசம்பர் 18ஆம் திகதியன்று, அரபு மொழியின் செழுமை மற்றும் அதன் பெறுமையை பறைசாற்றும் விதத்தில் உலகம் முழுவதும் உள்ள கோடிக்கணக்கான மக்கள் உலக அரபு மொழி தினத்தைக் கொண்டாட ஒன்றிணைகின்றனர். 400 மில்லியனுக்கும் மேற்பட்ட மக்களால் 25 நாடுகளில் பேசப்படும் அரபு மொழி வெறும் மொழியாக இல்லாமல், கலாச்சாரம், பாரம்பரியம், மற்றும் அறிவாற்றலின் கோணங்களில் எல்லைகளை கடந்த ஒரு முக்கிய தூணாக விளங்குகிறது.
+Here's a summary of the text in approximately 200 characters:
 
-அரபு மொழியானது மனிதரின் அழகிய, அறிவார்ந்த மற்றும் ஆன்மீகமான தகவல்களை பரிமாறும் ஆற்றலின் சான்றாகவும் ஊடகமாகவும் விளங்குகிறது.
 
-பண்டைய அரபு கவிதைகளின் கவியரங்குகளிலிருந்து பள்ளிவாசல்கள், கட்டிடங்களின் சுவர்களை அலங்கரிக்கும் சிக்கலான எழுத்தணிகள் வரை, அரபு மொழி பல நூற்றாண்டுகளாக கலைப் பாரம்பரியத்தையும், கலாச்சாரத்தையும் கடத்தும்  கப்பலாக இருந்து வருகிறது.
 
-மேலும், அரபு மொழி இஸ்லாமிய பொற்காலத்தில் அறிவியல், தத்துவம், மற்றும் இலக்கியத்தின் பொதுமொழியாக விளங்கி மகத்தான பங்களிப்புகளைச் செய்துள்ளது மறைக்கப்பட்ட உண்மையாக இருக்கிறது.
+World Arabic Day celebrates Arabic language & culture. Saudi Arabia leads efforts to preserve & promote Arabic through initiatives in AI, education, literature, & cultural events. Challenges remain, but progress continues to strengthen Arabic's global importance.
+
+🟩
+
+On December 18, millions of people around the world unite to celebrate World Arabic Day to proclaim the richness and prosperity of the Arabic language.. The Arabic language spoken in 25 countries by more than 400 million people is a major pillar of culture, tradition, and intellectuals.
+
+The Arabic language is a proof and medium of man who serves the beautiful, intelligent and spiritual information of man.
+
+From the poetry of ancient Arabic poetry to the complex writings that decorate the walls of the buildings, the Arabic language has been a ship that transacted artistic heritage and culture for centuries.
+
+Moreover, it is a hidden fact that the Arabic language has made enormous contributions to the public language of science, philosophy and literature during the Islamic Golden Age.
+
+Scholars such as Al-Barafi, Ibn Sina (Avisenna), and Al-Quarismmi have written all the works in the Arabic language, which have been a guide to modern discovery in many fields from medicine to mathematics.
 
 ...
 
 [Data](articles/e1d4f9fc.json)
+
+[Extended Data](ext_articles/e1d4f9fc.ext.json)
 
 ---
 
@@ -228,6 +344,28 @@ According to a gazette notification issued with the signature of the President's
 
 ---
 
+### Jagath Wickremeratne appointed new Speaker
+
+*2024-12-17 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104300/jagath-wickremeratne-appointed-new-speaker-) · `en`
+
+National People’s Power (NPP) Member of Parliament Dr. Jagath Wickramaratne has been unanimously appointed as the new Speaker of Sri Lanka’s Parliament.
+
+The Polonnaruwa District MP was nominated by Prime Minister Dr. Harini Amarasuriya following the commencement of today’s parliamentary session.
+
+The proposal was seconded by the Leader of the House, Minister Bimal Ratnayake.
+
+Accordingly, the Deputy Speaker, Dr. Rizvie Salih announced to the House that Dr. Wickremeratne was unanimously appointed as the new Speaker of the Tenth Parliament as no other names were proposed.
+
+The appointment comes following the resignation of MP Asoka Ranwala from the position on December 13, amidst the controversy surrounding his educational qualifications. The President had later accepted his letter of resignation.
+
+The opposition had previously stated that they would also propose a name for the Speaker of Parliament, representing the opposition, however, no such proposal was made today.
+
+...
+
+[Data](articles/0d4fb3fe.json)
+
+---
+
 ### නව කථානායක ලෙස වෛද්‍ය ජගත් වික්‍රමරත්න තෝරා පත්වෙයි
 
 *2024-12-17 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204454) · `si`
@@ -245,6 +383,46 @@ According to a gazette notification issued with the signature of the President's
 ◼️
 
 [Data](articles/53278ae2.json)
+
+---
+
+### Sri Lanka and Malaysia discuss investment opportunities and tourism
+
+*2024-12-17 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104299/sri-lanka-and-malaysia-discuss-investment-opportunities-and-tourism-) · `en`
+
+High Commissioner of Malaysia to Sri Lanka, Badli Hisham bin Adam has met with Prime Minister Dr. Harini Amarasuriya at the Prime Minister”s Office to discuss avenues for enhancing economic, cultural, and tourism ties between the two nations.
+
+During the discussion, the high commissioner reaffirmed Malaysia”s commitment to the longstanding bilateral relationship, the PM”s Media Division stated.
+
+Discussions focused on investment opportunities, collaboration in sectors like telecommunications and automobile assembly, and promoting Sri Lankan tourism in Malaysia, the statement added.
+
+The Sri Lankan delegation at the meeting included Mr. Pradeep Saputhanthri, Secretary to the Prime Minister, Ms. Sagarika Bogahawatta, Additional Secretary to the Prime Minister, Ms. Sashikala Premawardhane, Director General for Southeast Asia & Central Asia, and Ms. Thilini Ihalage, Director of the Southeast Asia & Central Asia Division at the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/ee9daf74.json)
+
+---
+
+### Four arrested over Meetiyagoda shooting
+
+*2024-12-17 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104298/four-arrested-over-meetiyagoda-shooting) · `en`
+
+Police have arrested four suspects in connection with the shooting incident that took place in the Mahawatta area of Meetiyagoda.
+
+Police Spokesman SSP Buddhika Manathunga stated that the suspects were arrested during a raid carried out last evening (16), following a tip-off received by Meetiyagoda Police.
+
+The shooting incident occurred on Sunday night when several individuals arrived in a three-wheeler and opened fire on a man and his daughter who were inside their home.
+
+The injured were admitted to the Balapitiya Base Hospital for treatment.
+
+Police stated that the father had been shot in the abdomen and the daughter had been shot in the leg.
+
+Police Spokesman SSP Buddhika Manathunga stated that four individuals, including the main suspect, have been arrested in connection with the shooting.
+
+◼️
+
+[Data](articles/e982c0d2.json)
 
 ---
 
@@ -1628,6 +1806,26 @@ The Ministry of Foreign Affairs and Tourism has requested the foreign employment
 
 ---
 
+### යෝධ නිදිකුම්බා රටට දැඩි හානියක් සිදුකරලා
+
+*2024-12-16 19:00:56* · [`adalk`](https://www.ada.lk/breaking_news/යෝධ-නිදිකුම්බා-රටට-දැඩි-හානියක්-සිදුකරලා/11-413680) · `si`
+
+ලොව දරුණුතම ආක්‍රමණික ආගන්තුක විශේෂ 100ට ඇතුළත් යෝධ නිදිකුම්බා (Giant Mimosa / Giant Sensitive Plant) මෙරට පරිසර පද්ධතිය ඉතා හානිකර ලෙස ආක්‍රමණය කර ඇති බවට මේ වන විට හඳුනාගෙන තිබේ.
+
+මහවැලි ගඟේ තැන්නෙකුඹුර ප්‍රදේශයෙන් 1997 වර්ෂයේදී මෙරටින් මුල් වරට වාර්තා කර තිබූ අතර, මහවැලි ගඟෙන් ලබා ගන්නා වැලි ඔස්සේ ශ්‍රී ලංකාවේ බොහෝ ප්‍රදේශවලට මේ වන විට පැතිර ගොස් ඇත.
+
+ඒ අනුව මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කිරීමක නිරත වූ ජ්‍යෙෂ්ඨ පරිසර නීතිඥ, ආචාර්ය ජගත් ගුණවර්ධන මහතා පෙන්වා දුන්නේ,
+
+“මේ වන විට දශක 02ක කාලයක් පුරා යෝධ නිදිකුම්බා ශාකය කොළඹ සහ තදාසන්න ප්‍රදේශවලින් හමුවනවා වැලි මගින් ප්‍රචාරණය වීමෙන්.
+
+මේ ශාක ඝනව වර්ධනය වී ප්‍රදේශයක් මුළුමනින් වසා ගන්නවා. ඒ නිසාම ජල මාර්ගවල වර්ධනය වී රොන් මඩ සහ ශාක කොටස් රඳවා ගැනීම නිසා ජල මාර්ග අවහිර වීමට සහ ගොඩ වී යාමට හේතු කාරකයක් වනවා. මේවායෙහි තිබෙන අධික කටු නිසා ඒවා උගුල්ලා දැමීම වැනි ක්‍රමවලින් ඉවත් කිරීම දුෂ්කරයි. ඒ වගේම මෙහි බීජ සහිත ඵලයේ කොටස් ජලයේ පාවෙන බැවින් ජලය ඔස්සේත් ව්‍යාප්ත වනවා.
+
+...
+
+[Data](articles/03f697d8.json)
+
+---
+
 ### DMT. The name of the clerk and wife. Billions of bank accounts and assets
 
 *2024-12-16 18:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ඩී-එම්-ටී--ලිපිකරුගේ-හා-බිරිඳගේ-නමින්-රු--කෝටි-ගණනක-බැංකු-ගිණුම්-හා-වත්කම්/11-413679) · `si`
@@ -2115,219 +2313,5 @@ The suspect was 46 years old from Kekirawa, Anuradhapura.
 [Data](articles/01e2fa91.json)
 
 [Extended Data](ext_articles/01e2fa91.ext.json)
-
----
-
-### Rs. 10 billion in water to Amoxilin consignment
-
-*2024-12-16 17:34:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇමොක්සිලින්-තොගයකට-වැයකළ-රුපියල්-කෝටි-10-ක්-වතුරේ/11-413671) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-National Audit Office finds Rs. 10 billion misused in importing Amoxicillin. Report reveals State Pharmaceutical Manufacturing Corporation overpaid for unimported goods. Audit recommends reviewing corporate premises for unique raw materials.
-
-🟩
-
-National Audit office reveals that Rs..
-
-Audit office relatives regarding the promotional manufacturing Corporation of State Pharmaceutical Manufacturing Corporation to import the amount of products that were not imported at the same time.The audit report released is stated.
-
-The audit shows that the cost of the corporation to the review of the corporate premises regarding the unique raw materials for the review of those recommendations.
-
-◼️
-
-[Data](articles/1f3018b1.json)
-
-[Extended Data](ext_articles/1f3018b1.ext.json)
-
----
-
-### President Anura invited the Prime Minister of India to come to Sri Lanka
-
-*2024-12-16 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201422) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake invites Indian PM Narendra Modi to visit during his 3-day official trip to India. Meeting took place in New Delhi on 16th.
-
-🟩
-
-President Anura Kumara Dissanayake, who is on a three -day official visit to India, has called for Indian Prime Minister Narendra Modi to visit Sri Lanka.
-
-President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi were held in New Delhi today (16).
-
-◼️
-
-[Data](articles/f5fed895.json)
-
-[Extended Data](ext_articles/f5fed895.ext.json)
-
----
-
-### Two persons arrested with ice and heroin in Kalkisa
-
-*2024-12-16 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201443) · `ta`
-
-Two arrests made in Kalkisa: 28-year-old and 35-year-old men caught with 14g ice and 5g heroin. Raid conducted based on tip-off.
-
-🟩
-
-Two suspects have been arrested yesterday (15) with heroin and ice drugs in the area of ​​the Mount Lavinia Police Division.
-
-The suspects have been arrested during a raid carried out on a confidential information received by the police station officials.
-
-The arrested suspects were 28 and 35 years old from Ratmala.
-
-The police have seized 14 grams of ice and 05 g of 200 ml of heroin from the suspects.
-
-◼️
-
-[Data](articles/eecb8fa8.json)
-
-[Extended Data](ext_articles/eecb8fa8.ext.json)
-
----
-
-### Ranil visit India again!
-
-*2024-12-16 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201434) · `ta`
-
-Ranil Wickremesinghe visits India twice in two months. He'll attend special meetings and visit the Atal Bihari Vajpayee Memorial. His trip includes exploring ancient Indian sites and lasting over a week.
-
-🟩
-
-Former President Ranil Wickremesinghe is due to visit India on Sunday 22nd. It is the second time he travels to India within two months.
-
-Ranil Wickremesinghe's visit to India will hold several special meetings during India's visit.
-
-In addition, he will also perform the Atal Bihar Vajpayee Memorial on the 27th.
-
-It is also revealed that Ranil Wickremesinghe will stay there for more than a week during his visit to India.
-
-It is revealed that he has been set aside for the ancient places of India on this trip.
-
-It is noteworthy that former President Ranil Wickremesinghe visited India from November 21 to 30.
-
-◼️
-
-[Data](articles/ef7e0c55.json)
-
-[Extended Data](ext_articles/ef7e0c55.ext.json)
-
----
-
-### Robot Shankar sung duet with heroine
-
-*2024-12-16 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201435) · `ta`
-
-Robot Shankar stars in Ambi, singing duets with the heroine. Directed by Passer J., featuring Aswini Chandrasekhar, Ramesh Khanna. Music by B. Muralitharan. Producer Prasanthi Francis describes it as a family entertainment film about a naive hero named Ambi.
-
-🟩
-
-Robot Shankar, who is a comedian and character actor in Tamil film industry, is the hero of the story 'Ambi'. In this movie she has a duet singing scenes with the heroine. Robot Shankar has joined the list of duet actors who sing with heroes around the tree.
-
-Director Passer J. Robot Shankar, Aswini Chandrasekhar, Ramesh Khanna, Kanja Black, Iman Annacci, Mohan Vaidya, Namo Narayana, Mustache Rajendran, Cheran Raj, Sharmila, Aarti, Vidya.
-
-The film has been recorded by Vijayvel Murugan. B.. Muralitharan has composed the music.
-
-The film, which is ready for Family Entertainment, is the producer F.. Produced by Prasanthi Francis.
-
-Speaking of the film, the director said, "The hero of the story is a naively scared as 'Ambi'.. Is there. But for those around him because of the circumstances, the hero looks like a hero and lucky.
-
-...
-
-[Data](articles/936235b7.json)
-
-[Extended Data](ext_articles/936235b7.ext.json)
-
----
-
-### Sivakarthikeyan- Jayam Ravi's inauguration of the new movie
-
-*2024-12-16 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201436) · `ta`
-
-Sivakarthikeyan stars in new film "Suraru Pottu" alongside Jayam Ravi. Directed by Sudha Kongara, music by V. Prakash Kumar. Inaugurated in Chennai with cast attendance. First collaboration between Sivakarthikeyan, Jayam Ravi, and director.
-
-🟩
-
-After the biggest hit film 'Amaran', the inauguration of the unnamed film starring actor Sivakarthikeyan was held in Chennai.
-
-The film 'Suraru Pottu', which is back to the Indian film industry, will be starring in the untitled film directed by Sudha Kongara and many others including Shiva Karthikeyan, Jayam Ravi, Atharva, Sri Leela.
-
-Ravi K. Chandran. V.. Prakash Kumar is composed. The film is being produced by Dan Pictures Company, which is being produced by Akash Baskaran on behalf of Dan Pictures.
-
-The inauguration of the film was held in Chennai. The film crew participated in this moment. Sivakarthikeyan plays the hero of the story and Jayam Ravi is the opposite of the film. Also actor Atharva appears in a special look. Sivakarthikeyan, Jayam Ravi and Sudha Kongara have formed a coalition for the first time.
-
-◼️
-
-[Data](articles/b0d48631.json)
-
-[Extended Data](ext_articles/b0d48631.ext.json)
-
----
-
-### 'The nightmares of the night'
-
-*2024-12-16 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201439) · `ta`
-
-"Night Vaikkal: A Psycho Thriller Starring Mahendra, Directed by Bhaskar, Produced by Mahendra Film Factory. Special Screenplay, First Look Released, Teaser Soon."
-
-🟩
-
-The film crew has said that the movie 'Night Vaikkal' is ready to be a psycho thriller.
-
-Mahendra, Neema Ray, Shadows Ravi, Azmita, Kumtaj, Cheran Raj, Cicer Manohar, Eswar Chandrababu, Kili Ramachandran and many others are starring in the film 'Night Vaikkal', which is being directed by Actor and Director.. Bhaskar is composed by AM.. The film is being produced by Actor Mahendra on behalf of Mahendra Film Factory.
-
-When the director describes the film, “There will be many special reasons for one to become a psycho. The man of the story in this story is the cause of the anger of this community and a common sense. What is it?We have described it with a special screenplay. ”
-
-...
-
-[Data](articles/b38039ee.json)
-
-[Extended Data](ext_articles/b38039ee.ext.json)
-
----
-
-### President Dissanayake may reconsider 13A - Austin Fernando
-
-*2024-12-16 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104285/president-dissanayake-may-reconsider-13a-austin-fernando) · `en`
-
-The Former Sri Lankan High Commissioner to India, Austin Fernando, claims that there is a possibility that incumbent President Anura Dissanayake may reconsider the 13th Amendment to the Constitution when proposing a new Constitution.
-
-Speaking during Ada Derana’s current affairs program ‘@HydePark’, he noted that it is an excellent intension of the government to reduce corruption and bring back some of the money that are due to Sri Lanka but are hidden elsewhere.
-
-Meanwhile, he also highlighted that, under its vision statement, India has proposed development plans for Sri Lanka and emphasized that Sri Lanka must navigate those plans carefully to avoid impacting relations with other foreign allies.
-
-◼️
-
-[Data](articles/793dbd91.json)
-
-[Extended Data](ext_articles/793dbd91.ext.json)
-
----
-
-### Actor Vineeth continues to continue the art service through love
-
-*2024-12-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201437) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Actor Vineeth stars in "Kadavam is Public", a Tamil film exploring love and psychology. Directed by Jayaprakash Radhakrishnan, it's set for release on Valentine's Day 2025.
-
-🟩
-
-Actor Vineeth, who made his debut in 1992 with the film 'Avaram Poo', became famous for his film 'Chandramukhi'.. Since then, only a few Tamil films, actor Vineeth has once again starred in the Tamil film 'Kadi is Public'.
-
-Directed by director Jayaprakash Radhakrishnan, who has directed national awards such as 'Lens' and 'Head Kuttupal', 'Kadavam is the Communist Party' starring Vineet, Lijamol Jose, Rohini, Kalesh, Deepa and many others.. Kannan Narayanan has composed the film, which is being recorded by Sri Saravanan.
-
-The film, which talks about love, has been co -produced by Simatry Cinemas, Man Guint Cinemas, Nith Productions and Klaing Tungsten.. The film was made on behalf of Creative Entertainment and Distributor Company.. Dhananjayan offers.
-
-...
-
-[Data](articles/397defbd.json)
-
-[Extended Data](ext_articles/397defbd.ext.json)
 
 ---

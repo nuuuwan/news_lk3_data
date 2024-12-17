@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 11:01:33**
+As of **2024-12-17 11:15:07**
 
 ## Newspaper Stats
 
-*Scraped **60,595** Articles*
+*Scraped **60,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,666
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,765
+adalk | 5,766
 adaderanalk | 7,384
 tamilmirrorlk | 8,655
 virakesarilk | 9,981
@@ -26,35 +26,55 @@ adaderanasinhalalk | 10,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,536 (99.9%) of 60,595 articles have been extended.
+60,538 (99.9%) of 60,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### மனோ கணேசன் சத்திப்பிரமாணம்
+### Mano Ganesan Chhattipramanam
 
 *2024-12-17 10:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-சத்திப்பிரமாணம்/175-348834) · `ta`
 
-தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன், பாராளுமன்ற உறுப்பினராக  பிரதி சபாநாயகர் முன்னிலையில் புதன்கிழமை (17) சத்திப்பிரமாணம் செய்துகொண்டார்.
+Here's a summary of 200 characters:
+
+
+
+Mano Ganesan, Tamil Progressive Alliance leader, spoke in Parliament on 17th, addressing Deputy Speaker.
+
+🟩
+
+Mano Ganesan, the leader of the Tamil Progressive Alliance, was speaking as a Member of Parliament on Wednesday (17) in the presence of Deputy Speaker.
 
 ◼️
 
 [Data](articles/165fe1e6.json)
 
+[Extended Data](ext_articles/165fe1e6.ext.json)
+
 ---
 
-### ACWF துணைத் தலைவர், பிரதமருடன் சந்திப்பு
+### ACWF Vice President, Meeting with Prime Minister
 
 *2024-12-17 10:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ACWF-துணைத்-தலைவர்-பிரதமருடன்-சந்திப்பு/175-348833) · `ta`
 
-அனைத்து சீன பெண்கள் சம்மேளனத்தின் (ACWF) துணைத் தலைவியான சாங் டோங்மேய், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை பிரதமர் அலுவலகத்தில் சந்தித்து, பெண்கள் வலுவூட்டல் மற்றும் அபிவிருத்தி தொடர்பான பரஸ்பர முயற்சிகள் குறித்து கலந்துரையாடினார்.
+Here's a summary of 200 characters:
 
-சாங் டோங்மேய் மற்றும் அவரது தூதுக்குழுவினரை வரவேற்ற பிரதமர் கலாநிதி அமரசூரிய, இலங்கைக்கும் சீனாவுக்கும் இடையிலான நீடித்த நட்புறவைப் பாராட்டினர். இந்த கலந்துரையாடல் பெண்களின் சுகாதாரம், கல்வி மற்றும் பொருளாதாரப் பங்கேற்பு ஆகியவற்றில் பகிரப்பட்ட சவால்கள் மற்றும் வாய்ப்புகளை மையமாகக் கொண்டிருந்தது. பெண்களின் தொழிற்படை ஈடுபாடு மற்றும் கீழ்மட்ட பிரதிநிதித்துவத்தை அதிகரிப்பது உட்பட சீனாவின் முன்னேற்றங்கள் குறித்து திருமதி சாங் டோங்மேய் விளக்கினார்.
+
+
+"ACWF VP meets SL PM: Discusses women's empowerment, health, education & economy. China shares progress in gender equality & political representation. Diplomatic officials attend."
+
+🟩
+
+Chang Tongmey, Vice President of the All Chinese Women's Federation (ACWF), met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
+
+Prime Minister Dr. Amarasuriya, who welcomed Sang Tongmey and his delegation, praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
 
 ...
 
 [Data](articles/75490a8f.json)
+
+[Extended Data](ext_articles/75490a8f.ext.json)
 
 ---
 
@@ -1628,6 +1648,26 @@ The Ministry of Foreign Affairs and Tourism has requested the foreign employment
 
 ---
 
+### යෝධ නිදිකුම්බා රටට දැඩි හානියක් සිදුකරලා
+
+*2024-12-16 19:00:56* · [`adalk`](https://www.ada.lk/breaking_news/යෝධ-නිදිකුම්බා-රටට-දැඩි-හානියක්-සිදුකරලා/11-413680) · `si`
+
+ලොව දරුණුතම ආක්‍රමණික ආගන්තුක විශේෂ 100ට ඇතුළත් යෝධ නිදිකුම්බා (Giant Mimosa / Giant Sensitive Plant) මෙරට පරිසර පද්ධතිය ඉතා හානිකර ලෙස ආක්‍රමණය කර ඇති බවට මේ වන විට හඳුනාගෙන තිබේ.
+
+මහවැලි ගඟේ තැන්නෙකුඹුර ප්‍රදේශයෙන් 1997 වර්ෂයේදී මෙරටින් මුල් වරට වාර්තා කර තිබූ අතර, මහවැලි ගඟෙන් ලබා ගන්නා වැලි ඔස්සේ ශ්‍රී ලංකාවේ බොහෝ ප්‍රදේශවලට මේ වන විට පැතිර ගොස් ඇත.
+
+ඒ අනුව මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කිරීමක නිරත වූ ජ්‍යෙෂ්ඨ පරිසර නීතිඥ, ආචාර්ය ජගත් ගුණවර්ධන මහතා පෙන්වා දුන්නේ,
+
+“මේ වන විට දශක 02ක කාලයක් පුරා යෝධ නිදිකුම්බා ශාකය කොළඹ සහ තදාසන්න ප්‍රදේශවලින් හමුවනවා වැලි මගින් ප්‍රචාරණය වීමෙන්.
+
+මේ ශාක ඝනව වර්ධනය වී ප්‍රදේශයක් මුළුමනින් වසා ගන්නවා. ඒ නිසාම ජල මාර්ගවල වර්ධනය වී රොන් මඩ සහ ශාක කොටස් රඳවා ගැනීම නිසා ජල මාර්ග අවහිර වීමට සහ ගොඩ වී යාමට හේතු කාරකයක් වනවා. මේවායෙහි තිබෙන අධික කටු නිසා ඒවා උගුල්ලා දැමීම වැනි ක්‍රමවලින් ඉවත් කිරීම දුෂ්කරයි. ඒ වගේම මෙහි බීජ සහිත ඵලයේ කොටස් ජලයේ පාවෙන බැවින් ජලය ඔස්සේත් ව්‍යාප්ත වනවා.
+
+...
+
+[Data](articles/03f697d8.json)
+
+---
+
 ### DMT. The name of the clerk and wife. Billions of bank accounts and assets
 
 *2024-12-16 18:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ඩී-එම්-ටී--ලිපිකරුගේ-හා-බිරිඳගේ-නමින්-රු--කෝටි-ගණනක-බැංකු-ගිණුම්-හා-වත්කම්/11-413679) · `si`
@@ -2303,31 +2343,5 @@ Meanwhile, he also highlighted that, under its vision statement, India has propo
 [Data](articles/793dbd91.json)
 
 [Extended Data](ext_articles/793dbd91.ext.json)
-
----
-
-### Actor Vineeth continues to continue the art service through love
-
-*2024-12-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201437) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Actor Vineeth stars in "Kadavam is Public", a Tamil film exploring love and psychology. Directed by Jayaprakash Radhakrishnan, it's set for release on Valentine's Day 2025.
-
-🟩
-
-Actor Vineeth, who made his debut in 1992 with the film 'Avaram Poo', became famous for his film 'Chandramukhi'.. Since then, only a few Tamil films, actor Vineeth has once again starred in the Tamil film 'Kadi is Public'.
-
-Directed by director Jayaprakash Radhakrishnan, who has directed national awards such as 'Lens' and 'Head Kuttupal', 'Kadavam is the Communist Party' starring Vineet, Lijamol Jose, Rohini, Kalesh, Deepa and many others.. Kannan Narayanan has composed the film, which is being recorded by Sri Saravanan.
-
-The film, which talks about love, has been co -produced by Simatry Cinemas, Man Guint Cinemas, Nith Productions and Klaing Tungsten.. The film was made on behalf of Creative Entertainment and Distributor Company.. Dhananjayan offers.
-
-...
-
-[Data](articles/397defbd.json)
-
-[Extended Data](ext_articles/397defbd.ext.json)
 
 ---

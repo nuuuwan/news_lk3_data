@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 14:43:19**
+As of **2024-12-17 15:02:06**
 
 ## Newspaper Stats
 
-*Scraped **60,636** Articles*
+*Scraped **60,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,772
-adaderanalk | 7,393
+adaderanalk | 7,395
 tamilmirrorlk | 8,661
-virakesarilk | 9,987
-adaderanasinhalalk | 10,478
+virakesarilk | 9,991
+adaderanasinhalalk | 10,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,562 (99.9%) of 60,636 articles have been extended.
+60,565 (99.9%) of 60,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### பொலிஸ் தடுப்பு காவலில் இருந்து தப்பிச் சென்ற சந்தேக நபர் கைது
+
+*2024-12-17 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201502) · `ta`
+
+பொலிஸ் தடுப்பு காவலில் இருந்து தப்பிச் சென்ற சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக தலாவ பொலிஸார் தெரிவித்தனர்.
+
+அநுராதபுரம், தலாவ கம்பிரிஸ்வெவ பகுதியைச் சேர்ந்த 19 வயதுடைய இளைஞரே கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர் தலாவ பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த போது கைரேகைகளை பெற்றுக் கொள்வதற்காக குற்றப் புலனாய்வுப் பிரிவிற்கு அழைத்துச் செல்லப்பட்டு மீண்டும் பொலிஸ் நிலையத்திற்கு கொண்டு வரப்பட்ட வேளையில் பொலிஸ் காவலில் இருந்து தப்பிச் சென்றிருந்தார்.
+
+சந்தேக நபர், கடந்த 12ஆம் திகதி வீடு புகுந்து சொத்துக்களை திருடிச் சென்ற சம்பவம் தொடர்பில் தலாவ பொலிஸாருக்கு கிடைக்கப்பெற்ற முறைப்பாட்டின் அடிப்படையில் கடந்த 14 ஆம் திகதி தலாவ பொலிஸாரால் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0f5bb3eb.json)
+
+---
+
+### ஜனாதிபதி அநுரகுமார திஸாநாயக்க புத்த கயாவுக்கு விஜயம் !
+
+*2024-12-17 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201503) · `ta`
+
+இந்தியாவுக்கு 3 நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இன்று செவ்வாய்க்கிழமை (17) புத்த கயாவிலுள்ள மகாபோதிக்கு விஜயம் செய்துள்ளார்.
+
+◼️
+
+[Data](articles/04edebc0.json)
+
+---
 
 ### I am not a specialist, Deputy Speaker
 
@@ -53,6 +83,76 @@ Deputy Speaker Rizvi Sally made it clear today that he was not a specialist and 
 [Data](articles/7773e913.json)
 
 [Extended Data](ext_articles/7773e913.ext.json)
+
+---
+
+### Indictments filed against biomedical engineer attached to Health Ministry
+
+*2024-12-17 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104310/indictments-filed-against-biomedical-engineer-attached-to-health-ministry) · `en`
+
+Indictments have been filed before the Colombo High Court today (17) against a biomedical engineer attached to the Division of Biomedical Engineering Services at the Ministry of Health, alleging that he caused financial losses to the government through the purchase of 35 operating room lamps in 2015.
+
+Accordingly, the indictments filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) were handed over before the Colombo High Court Judge Nawarathne Marasinghe today.
+
+Subsequently, the court ordered the defendant to be released on two surety bails of Rs. 2.5 million each and a cash bail of Rs. 25,000.
+
+Furthermore, the court imposed an overseas travel ban against him until the hearing of the case is conclude, and ordered him to hand over his passport to the court.
+
+◼️
+
+[Data](articles/2d151b85.json)
+
+---
+
+### வவுனியாவில் உள்நாட்டுத் துப்பாக்கிகளுடன் மூவர் கைது !
+
+*2024-12-17 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201495) · `ta`
+
+வவுனியா - புளியங்குளம் பகுதியில் உள்நாட்டுத் துப்பாக்கிகளுடன் மூன்று சந்தேக நபர்கள் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக புளியங்குளம் பொலிஸார் தெரிவித்தனர்.
+
+புளியங்குளம் பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட மூன்று சுற்றிவளைப்புக்களின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 18, 19 மற்றும் 24 வயதுடையவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/1a1aa7a2.json)
+
+---
+
+### ආණ්ඩුවේ දූෂණ වංචා නොමැති නිසා අධ්‍යාපනය හොයනවා - අගමැතිනි
+
+*2024-12-17 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204460) · `si`
+
+ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරුන්ගේ සුදුසුකම් සම්බන්ධව විපක්ෂය සෙවීමට උත්සාහ කරනුයේ ජාතික ජනබලවේග ආණ්ඩුවේ සොරකම් ගැන සෙවීමට නොහැකි නිසාවෙන් බව අග්‍රාමාත්‍ය හරිනි අමරසූරිය පවසයි.
+
+අද (17) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඇය පැවසුවේ පෙර පැවැති රජයන්වල මන්ත්‍රීවරුන්, ඇමතිවරුන්ගේ සොයන ලද්දේ දූෂණ වංචා බවය.
+
+"අපේ ආණ්ඩුව ඇතුලේ ඉන්න මන්ත්‍රීවරුන්ගේ, ඇමතිවරුන්ගේ කොලෆිකේෂන් ගැන පුදුම උනන්දුවක් ඇතිවෙලා තියෙනවා. මෙතන ඉන්න අපි බොහෝ දෙනෙක්ගේ කොලෆිකේෂන් ගැන හොයනවා, සෙටිෆිකේට්ස් ඉල්ලනවා. අරක ඉල්ලනනවා... මේක ඉල්ලනවා.
+
+පුදුම උනන්දුවක් දක්වනවා. අපි එක අතකින් සතුටු වෙනවා ඉස්සර මේ අමාත්‍යවරුන්, ආණ්ඩු අයගේ අයගේ අධ්‍යාපන සුදුසුකම් ගැන නෙමේනේ හෙව්වේ. හොරකම් ගැන හෙව්වේ. අපේ හොරකම් ගැන හොයන්න බැහැනේ  ඉතිං ඒ නිසා අධ්‍යාපන සුදුසුකම් ගැන මෙච්චර උනන්දුවක් දක්වන එක ගැන මේක ටිකක් දියුණුවක් කියලා ගන්නත් පුළුවන්."
+
+◼️
+
+[Data](articles/44070529.json)
+
+---
+
+### வவுனியாவில் தொடர்ச்சியாக வாகன பற்றரிகளை திருடிவந்த இருவர் கைது
+
+*2024-12-17 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201491) · `ta`
+
+வவுனியா நெளுக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட வேப்பங்குளம் பகுதியில் உள்ள வாகன தரிப்பிடம் ஒன்றில் வாகன பற்றரிகளை களவாடிய குற்றச்சாட்டில் இருவரை நெளுக்குளம் பொலிஸார் கைது செய்துள்ளனர்.
+
+குறித்த வாகன தரிப்பிடத்தில் வாகன பற்றரிகள் களவாடப்பட்டுள்ளதாக நெளுக்குளம் பொலிஸாருக்கு கிடைத்த முறைப்பாட்டுக்கமைய நெளுக்குளம் பொலிஸார் இரகசிய விசாரணைகளை முன்னெடுத்திருந்தனர்.
+
+இதன்போது நான்கு வாகன பற்றரிகளுடன் இரு சந்தேகநபர்களை  கைது செய்துள்ளதுடன், குறித்த குற்றச்செயலுக்கு பயன்படுத்தபட்டது என சந்தேகிக்கப்படும் முச்சக்கரவண்டி ஒன்றினையும் பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+மேலும், கைது செய்யப்பட்ட சந்தேகநபர்கள் மேலதிக விசாரணைகளின் பின்னர்  நீதவான் நீதிமன்றில் முன்னிலைப்படுத்துவதற்குரிய நடவடிக்கையினை நெளுக்குளம் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/d5dfb140.json)
 
 ---
 
@@ -143,6 +243,24 @@ Russia's Investigation Committee said that Lieutenant General Igor Grillov, the 
 [Data](articles/6e1d02f4.json)
 
 [Extended Data](ext_articles/6e1d02f4.ext.json)
+
+---
+
+### Tri-forces security for ex-Presidents to be withdrawn from next week
+
+*2024-12-17 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104307/tri-forces-security-for-ex-presidents-to-be-withdrawn-from-next-week) · `en`
+
+The tri-forces personnel assigned to provide security to former presidents will be withdrawn from next week and only police security will continue to be provided, Minister of Public Security Ananda Wijepala said.
+
+Speaking during today’s (17) parliamentary session, the Minister highlighted that the police protection will be provided to each former President in accordance with the outcomes of the security assessment conducted every 06 months.
+
+Accordingly, the security for former heads of state would now be based on biannual security assessments. This decision comes as part of the government’s efforts to reassess and reduce public spending, particularly in the face of ongoing economic challenges, according to Minister Wijepala.
+
+Commenting further regarding the matter, Minister Wijepala highlighted the substantial financial burden that the government has shouldered in the form of security expenses for former presidents.
+
+...
+
+[Data](articles/a295d28e.json)
 
 ---
 
@@ -424,21 +542,35 @@ In his address, Dr. Wickramaratne underscored the importance of cooperation amon
 
 ---
 
-### අභිනව කථානායක වතගොත
+### New Speaker
 
 *2024-12-17 11:21:09* · [`adalk`](https://www.ada.lk/opinion/අභිනව-කථානායක-වතගොත/2-413688) · `si`
 
-කථානායක අශෝක රන්වල මහතාගේ ඉල්ලා අස් වීමෙන්  පුරප්පාඩු වූ කථානායක ධූරය සඳහා ශ්‍රී ලංකාවේ  23 වන කතා නායකවරයා ලෙස වෛද්‍ය අයි.ඩබ්ලිව්,එම්. ජගත් වික්‍රමරත්න මහතා තේරි පත්විය.
+Here's a 200-character summary:
 
-පොළොන්නරුව හිඟුරක්ගොඩ රෝහලේදී 1968 පෙබරවාරි 02 උපත ලබා ඇති ජගත් වික්‍රමරත්න මහතා, පිරිමි දරුවන් තිදෙනෙකු සහ ගැහැණු දරුවන් දෙදෙනකුගේ පවුලේ දෙවෙනි පිරිමි දරුවා විය.
 
-පොළොන්නරුව ගල්අමුණ විද්‍යාලයෙන් මූලික අධ්‍යාපනය ලබා ඇති වික්‍රමරත්න මහතා මහනුවර ධර්මරාජ විද්‍යාලයෙන් උසස් අධ්‍යාපනය හදාරමින්,පේරාදෙණිය වෛද්‍ය පීඨයේදී 1990, වසරේ සිට 1996 දක්වා වෛද්‍ය විද්‍යාව හදාරා අනතුරුව, කොළඹ  විශ්ව විද්‍යාලයෙන් වෛද්‍ය පරිපාලන උපාධිය ලබා 1997 සිට 1998  සීමාවාසික වෛද්‍ය නිලධාරියෙකු ලෙස, මහනුවර ශික්ෂණ රෝහලේ සේවය කර ඇත.
 
-දරුවන් තිදෙනෙකුගේ පියෙකු වන වික්‍රමරත්න මහතාගේ බිරිදද ,පොළොන්නරුව මහ රෝහලේ හෙද නිලධාරීනියක් ලෙස කටයුතු කරන්නීය.
+Jagath Wickramaratne, born in Polonnaruwa, educated at Peradeniya and Colombo universities. Worked as Director at Anuradhapura Teaching Hospital and Deputy Director at Trincomalee General Hospital. Elected Member of Parliament with 51,391 preferential votes. Sworn in as 23rd Speaker of Sri Lanka's Parliament.
+
+🟩
+
+Dr. I.W. I.W. I.W. I.W. I.W. I.W.. Mr. Wickramaratne was elected.
+
+Jagath Wickramaratne, who was born in the Hingurakgoda Hospital, Polonnaruwa, was born on 2 February and the second boy of two girls' family.
+
+Wickremaratne, who has been admitted to the College of Polonnaruwa Galgama Kalamuna College, has passed medical degree from the University of Peradeniya, the University of Colombo.Have.
+
+Wickremaratne's father, a father of three children, is a nurse at the Polonnaruwa General Hospital.
+
+Dr. Jagath Wickramaratne, who has been involved in the field of field, and is the Director of the Anuradhapura, Teaching Hospital, Anuradhapura and Deputy Director, Trincomalee and April to 2019.The National Kidney Disease has also served as Deputy Director of the Special Director.
+
+Dr. Jagath Wickramaratne, who has been working to the public as a reputable doctor for a period of time, is a medical doctor who has served a humble honest service from the Polonnaruwa National Hospital.
 
 ...
 
 [Data](articles/09a8b9d5.json)
+
+[Extended Data](ext_articles/09a8b9d5.ext.json)
 
 ---
 
@@ -576,6 +708,8 @@ Sri Lanka, which defaulted on its foreign debt for the first time in May 2022 du
 
 [Data](articles/84f6db28.json)
 
+[Extended Data](ext_articles/84f6db28.ext.json)
+
 ---
 
 ### Sri Lanka ISB holders get US$10.4bn and Rs155bn bonds in default exchange
@@ -599,6 +733,8 @@ Sri Lanka will also issue 215 million dollars of bond as a fee for those who acc
 ◼️
 
 [Data](articles/735f2b9a.json)
+
+[Extended Data](ext_articles/735f2b9a.ext.json)
 
 ---
 
@@ -2093,191 +2229,5 @@ Since the formation of the new government, a total of 63 Sri Lankans, who were h
 [Data](articles/357b79b1.json)
 
 [Extended Data](ext_articles/357b79b1.ext.json)
-
----
-
-### The government and the owners of the rice mill have been successful in the price of rice - Gayantha Karunathilaka
-
-*2024-12-16 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201462) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government wins rice price battle, consumers & farmers lose. Coconut price surges from 120 to over 220 rupees. Farmers struggle with crop damage. Those claiming foreign education face title issues.
-
-🟩
-
-The government and the owners of the rice mill have won the rice price issue. But consumer and farmers have failed. United People's Power Parliamentarian Gayantha Karunathilaka said that the government has also questioned the food of the coconut salary with ordinary people.
-
-He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Monday (16).
-
-The government and the owners of the rice mill have won the rice price issue. But consumer and farmers have failed. When rice was imported during the last regime, the JVP questioned what the government was to import rice. But today they do the same.
-
-At the same time, the monkeys are asking what the farmers can do if we can do what we can do if it is raining and the crop is affected by the government.. People have begun to question what the government is.
-
-...
-
-[Data](articles/44e2a20d.json)
-
-[Extended Data](ext_articles/44e2a20d.ext.json)
-
----
-
-### Family girl death in Jaffna
-
-*2024-12-16 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201461) · `ta`
-
-Family woman dies in Jaffna; mother of 3-year-old children; sudden death investigation ongoing
-
-🟩
-
-A family woman died on Monday (16).
-
-The mother of three -year -old children from Mawaikalati, Tellippalai area has died.
-
-The woman and her baby were ill and returned home for treatment on Sunday (15) for treatment.
-
-The woman who went home rejoins the body of the body. The doctors said he had already died when he was taken to Tellipallai Base Hospital.
-
-Sudden Death Investigation Officer A. Jayapalasingham. Anatomical samples have been sent to Colombo as the cause of death is unknown.
-
-◼️
-
-[Data](articles/6670ec52.json)
-
-[Extended Data](ext_articles/6670ec52.ext.json)
-
----
-
-### Maximum retail prices to be imposed on several key items - Minister
-
-*2024-12-16 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104290/maximum-retail-prices-to-be-imposed-on-several-key-items-minister) · `en`
-
-Minister Wasantha Samarasinghe says the government has decided to impose maximum retail prices on a range of essential items in the future.
-
-He made these remarks today (16) while speaking to the media in Anuradhapura.
-
-The Minister highlighted the disparity between production costs and market prices, stating, “ A water bottle that sells for Rs. 100 can be sold for less than Rs. 40. A packet of salt, produced at a cost of Rs. 52, is being sold for Rs. 100.”
-
-He expressed concern over inefficiencies in the salt industry and other sectors, pointing out that the high retail prices of essential goods have placed an undue burden on consumers.
-
-In response, the Consumer Affairs Authority (CAA), in collaboration with the Consumer Council, is taking steps to determine and regulate maximum retail prices for several items.
-
-Minister Samarasinghe assured that these measures will be finalized and implemented in the near future to ease the strain on consumers.
-
-◼️
-
-[Data](articles/5af73f3a.json)
-
-[Extended Data](ext_articles/5af73f3a.ext.json)
-
----
-
-### Indian business consent for investment in Sri Lanka
-
-*2024-12-16 21:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204442) · `si`
-
-Sri Lanka seeks Indian investment in key sectors like digital economy, tourism, and IT during President Anura Kumara Dissanayake's visit to India.
-
-🟩
-
-President Anura Kumara Dissanayake on a three-day official visit to India at New Delhi was discussing with the Indian Large Business Representatives.
-
-Organized by the Indian Industry Federation, India's leading entrepreneurs participated in this discussion.
-
-President Anura Kumara Dissanayake demanded the Indian entrepreneurs to invest in Sri Lanka's investment in Sri Lanka.
-
-The discussion focused on the aim of expanding investment and commercial relations between the two countries, special attention was held in the fields of digital economic, tourism and IT.
-
-Accordingly, the two countries discussed the expansion of investment opportunities in Sri Lanka with trade.
-
-The Government of Sri Lanka agreed to focus on the investment opportunities in Sri Lanka here.
-
-◼️
-
-[Data](articles/78bd80d9.json)
-
-[Extended Data](ext_articles/78bd80d9.ext.json)
-
----
-
-### Parliamentarian Archchritan bailed
-
-*2024-12-16 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204441) · `si`
-
-Parliamentarian Ramanathan Achidhan and a woman released on bail. Case filed by Jaffna Teaching Hospital director. Both accused of threatening hospital staff.
-
-🟩
-
-Parliamentarian Ramanathan Achidhan and a woman released on bail.
-
-The case was filed by the Director of the Jaffna Teaching Hospital.
-
-He was also threatened by MP Ramanathan Arachchi and the woman who was involved in the hospital and the hospital director.
-
-◼️
-
-[Data](articles/6b23acd6.json)
-
-[Extended Data](ext_articles/6b23acd6.ext.json)
-
----
-
-### 85 people in Jaffna district
-
-*2024-12-16 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201460) · `ta`
-
-85 fever cases in Jaffna; 21 treated, 1 death reported; 7 confirmed as leptospirosis; preventive measures for farmers and fishermen; livestock investigation ongoing.
-
-🟩
-
-85 people have been affected by the fever in the Jaffna district, said Dr. Arumugam Ketheeswaran, Director of the Jaffna Regional Health Services Services.
-
-He was speaking at a media briefing held in Jaffna on Monday (16).
-
-At present, 21 persons are being treated at the Point Pedro Hospital and 11 at the Jaffna Teaching Hospital.
-
-In the last 24 hours, 9 patients have been admitted to the Point Pedro Hospital and 4 patients to the Jaffna Teaching Hospital have been admitted to the Jaffna Teaching Hospital.
-
-A 23 -year -old youth from Tunnalai village died of a fever at the Karavetti Health Officer Division at the Jaffna Teaching Hospital on Saturday night (14). In addition, there have been 7 deaths due to the flu in the Jaffna district.
-
-...
-
-[Data](articles/e1be7a54.json)
-
-[Extended Data](ext_articles/e1be7a54.ext.json)
-
----
-
-### Rahini Wijeratne for the post of Speaker of the Opposition
-
-*2024-12-16 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201459) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rahini Wijeratne nominated as Opposition Speaker. United People's Power party decides her candidacy. New Speaker election in Parliament today. Sri Lanka PA supports Jagath Wickramaratne for Speaker position.
-
-🟩
-
-Matale District Parliamentarian Rahina Kumari Wijeratne has decided to name the name of the United People's Power. The United People's Power Parliamentary Committee gathered on Sunday, the 15th, and it was revealed that the decision was made when it was Oranda.
-
-The vacuum for the post of Speaker has been caused by the resignation of the Speaker of the Speaker following the controversy over the doctor's degree.
-
-When Parliament meets today, a new Speaker will be elected. United People's Shakti MP Nalin Bandara has said that he would propose a new Speaker when the opposition was proposed.
-
-Accordingly, the United People's Power has decided to nominate the name of Parliamentarian Rahini Kumari Wijeratne.
-
-Meanwhile, Sri Lanka PA is supported by the United People's Power to support a relevant member for the post of Speaker.
-
-It has been decided to nominate the name of the new Speaker of the Polonnaruwa District, Dr. Jagath Wickramaratne.
-
-◼️
-
-[Data](articles/8e8ab73c.json)
-
-[Extended Data](ext_articles/8e8ab73c.ext.json)
 
 ---

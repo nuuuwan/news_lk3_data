@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 11:01:33**
+As of **2024-12-17 11:43:57**
 
 ## Newspaper Stats
 
-*Scraped **60,595** Articles*
+*Scraped **60,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,48 +13,320 @@ dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 635
 islandlk | 3,666
-economynextcom | 3,685
+economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,765
-adaderanalk | 7,384
+adalk | 5,767
+adaderanalk | 7,392
 tamilmirrorlk | 8,655
-virakesarilk | 9,981
-adaderanasinhalalk | 10,474
+virakesarilk | 9,984
+adaderanasinhalalk | 10,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,536 (99.9%) of 60,595 articles have been extended.
+60,545 (99.9%) of 60,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### மனோ கணேசன் சத்திப்பிரமாணம்
+### The cyclist who saved the ninety-surviving cyclist
+
+*2024-12-17 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204456) · `si`
+
+A 75-year-old cyclist was rescued after being pushed by a truck driver in Bandaragama. The incident occurred on a road leading to Kalutara. Police arrested the truck driver from Ruwanwella.
+
+🟩
+
+Bandaragama police said that the elderly person who was pushing a bicycling in Bandaragama this morning (17), the Bandaragama police said.
+
+The 75 year old person has been rescued from the Bandaragama Maswila.
+
+The tipper, which was stolen from Bandaragama to Kalutara road to Kalutara road to Kalutara road, has collapsed to Kalutara with the arrival of the inexpensive person to Kalutara road.
+
+Tipur car driver from Ruwanwella has been arrested by police.
+
+◼️
+
+[Data](articles/9f145754.json)
+
+[Extended Data](ext_articles/9f145754.ext.json)
+
+---
+
+### New Speaker urges ruling and opposition parties to collaborate for national progress
+
+*2024-12-17 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104305/new-speaker-urges-ruling-and-opposition-parties-to-collaborate-for-national-progress) · `en`
+
+The newly-appointed Speaker of Parliament, Dr. Jagath Wickramaratne, says he will have to take on a challenging role in fulfilling his responsibility as a legislator for the greater good.
+
+He stated this after assuming duties as the new Speaker of Sri Lanka’s Parliament this morning (17).
+
+In his address, Dr. Wickramaratne underscored the importance of cooperation among all Members of Parliament, regardless of political affiliation. He emphasized that mutual understanding and collaboration between the ruling party and the opposition is essential to achieving progress.
+
+“As long as I hold this esteemed position, I promise to work to the utmost of my ability to protect the rights of all of you as representatives of the people. Thank you again to the entire House. I once again request everyone’s support in making the 10th Parliament an ideal Parliament that will fulfill the aspirations of the people and the well-being of the country, regardless of race or religion,” he added.
+
+...
+
+[Data](articles/4530c8b9.json)
+
+[Extended Data](ext_articles/4530c8b9.ext.json)
+
+---
+
+### Sri Lanka’s ambitious governance and macro-linked bonds explained
+
+*2024-12-17 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104304/sri-lankas-ambitious-governance-and-macro-linked-bonds-explained) · `en`
+
+Sri Lanka’s restructuring of $12.55 billion in international bond debt is set to lead to the launch of a series of new, as-yet-untested instruments linked to economic growth and governance.
+
+Observers say it is one of the most complex set of instruments ever arranged in a restructuring. The bonds aim to give the country additional debt relief if the economy falters and to encourage it to improve its governance.
+
+The governance-linked bond (GLB) is the first of its kind and is designed to reward Sri Lanka for transparency and effective economic management by reducing the interest on its debt. To earn that reduction, Sri Lanka must meet targets, or key performance indicators (KPIs), seen as indicating better governance.
+
+The first KPI demands that Sri Lanka exceed a baseline ratio set by the International Monetary Fund (IMF) for total revenue to GDP in both 2026 and 2027, which the Fund has projected at 15.3% and 15.4% respectively.
+
+...
+
+[Data](articles/c0e66a6f.json)
+
+---
+
+### Troops of the ruling party respond to the third line of Speaker of Asoka
+
+*2024-12-17 11:07:43* · [`adalk`](https://www.ada.lk/breaking_news/අසෝක-රන්වල-කථානායක-පුටුවෙන්-ආණ්ඩු-පක්ෂයේ-තුන්වන-පේළියට/11-413686) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Troops of the ruling party respond to Speaker Asoka's third line. Former Speaker Asa Yadawala secured the governing party's 55th seat.
+
+🟩
+
+Former Speaker Asa Yadawala has made the seat of the Governing Party (55).
+
+◼️
+
+[Data](articles/59776c2c.json)
+
+[Extended Data](ext_articles/59776c2c.ext.json)
+
+---
+
+### Russian citizens rescued in the sea
+
+*2024-12-17 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201477) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+4 Russian citizens rescued: 1 man, 1 woman, 2 girls ages 7 & 13. Swept away by Hikkaduwa Sea on Mon. Hikkaduwa Police saved them.
+
+🟩
+
+Four Russian citizens who were swept away by the Hikkaduwa Sea have been rescued by the Hikkaduwa Police Life Division.
+
+A 40 -year -old man from the same family and a 39 -year -old woman and two girls aged 07 and 13 have been rescued.
+
+Four Russian citizens were suddenly swept away by the Hikkaduwa sea on Monday (16).
+
+The Hikkaduwa Police, which was on duty there, saved all four Russian citizens and took them to shore.
+
+◼️
+
+[Data](articles/a1e0fd05.json)
+
+[Extended Data](ext_articles/a1e0fd05.ext.json)
+
+---
+
+### Dayasiri summoned to SLFP’s disciplinary committee
+
+*2024-12-17 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104303/dayasiri-summoned-to-slfps-disciplinary-committee) · `en`
+
+The Sri Lanka Freedom Party’s (SLFP) disciplinary committee has summoned Member of Parliament Dayasiri Jayasekara, the party’s General Secretary Duminda Dissanayake said.
+
+He revealed that charges have been brought against Jayasekara for allegedly acting in a manner that goes against the party’s decisions.
+
+Dissanayake made this statement while speaking to the media at the SLFP headquarters.
+
+The prolonged internal crisis of the SLFP, once one of the largest political parties of the country, began as the then-Chairman of the party former President Maithripala Sirisena ousted Jayasekara from the SLFP and stripped him of his position as the party’s General Secretary on September 05, 2023.
+
+...
+
+[Data](articles/e91fbfdf.json)
+
+---
+
+### Sri Lanka’s bondholders sign off on USD 12.55 billion debt overhaul
+
+*2024-12-17 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104302/sri-lankas-bondholders-sign-off-on-usd-1255-billion-debt-overhaul) · `en`
+
+Sri Lanka’s bondholders signed off on the government’s proposal to restructure its $12.55 billion of international bonds, a key step in finalising the island nation’s debt rework.
+
+Final results showed holders representing 97.86% of the outstanding principal on the existing bonds voted in favour of the plan, which will swap Sri Lanka’s defaulted bonds for a series of new fixed income instruments, the government said in a statement dated Dec. 16.
+
+Sri Lanka, which defaulted on its foreign debt for the first time in May 2022 due to its high debt burden and dwindling foreign exchange reserves, had said on Friday that initial results showed holders representing 96% of the outstanding principal on the existing bonds voted in favour of the restructuring plan.
+
+...
+
+[Data](articles/84f6db28.json)
+
+---
+
+### Sri Lanka ISB holders get US$10.4bn and Rs155bn bonds in default exchange
+
+*2024-12-17 10:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-holders-get-us10-4bn-and-rs155bn-bonds-in-default-exchange-194677/) · `en`
+
+ECONOMYNEXT – Sri Lanka will issue GDP linked bonds of 10.4 billion US dollars including governance of bonds of 1.6 billion dollars and rupee bonds of 155 billion as part of a restructure of defaulted securities, a statement on the Singapore Stock Exchange said.
+
+The new bonds will be issued on December 20 with the required minimum thresholds being met.
+
+In a 2022 bond 73 percent acceptance to exchange has been received.
+
+The residual 2022 bonds will continue to trade in that security, the statement said.
+
+The holdout investor Hamilton Reserve is claiming a 25 percent share in the security.
+
+Related Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
+
+Sri Lanka will also issue 215 million dollars of bond as a fee for those who accepted the offer to exchagne. (Colombo/Dec17/2024)
+
+◼️
+
+[Data](articles/735f2b9a.json)
+
+---
+
+### Sri Lanka rupee trades flat at 290.75/80 to dollar, bonds steady
+
+*2024-12-17 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-290-75-80-to-dollar-bonds-steady-194668/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.75/80 to the US dollar in Tuesday early trade slightly weaker from Monday’s close of 290.70/80, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/52 percent, from 9.40/50 percent.
+
+A bond maturing on 15.10.2027 was quoted at 9.85/90 percent, down from 9.90/10.00 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.15/20 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.25/30 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.35/40 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.65/75 percent, down from 10.70/80 percent.
+
+The central bank announced that 185 billion rupees of treasury bills are to be auctioned on Wednesday.
+
+In equities, the All Share Price Index was down 0.63 percent or 91.27 points, at 14,409.
+
+The more liquid S&P SL20 was down 0.34 percent, or 14.93 points, at 4,334.
+
+◼️
+
+[Data](articles/cd1d182a.json)
+
+---
+
+### Mano Ganesan Chhattipramanam
 
 *2024-12-17 10:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-சத்திப்பிரமாணம்/175-348834) · `ta`
 
-தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன், பாராளுமன்ற உறுப்பினராக  பிரதி சபாநாயகர் முன்னிலையில் புதன்கிழமை (17) சத்திப்பிரமாணம் செய்துகொண்டார்.
+Here's a summary of 200 characters:
+
+
+
+Mano Ganesan, Tamil Progressive Alliance leader, spoke in Parliament on 17th, addressing Deputy Speaker.
+
+🟩
+
+Mano Ganesan, the leader of the Tamil Progressive Alliance, was speaking as a Member of Parliament on Wednesday (17) in the presence of Deputy Speaker.
 
 ◼️
 
 [Data](articles/165fe1e6.json)
 
+[Extended Data](ext_articles/165fe1e6.ext.json)
+
 ---
 
-### ACWF துணைத் தலைவர், பிரதமருடன் சந்திப்பு
+### Three arrested in connection with murder
+
+*2024-12-17 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201480) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"3 arrested over murder: 44yo man killed in Vadakahadowa, Badulla. Suspects aged 36, 44 & 51 from Kodaporuwatta. One suspect fatally shot."
+
+🟩
+
+A 44 -year -old man was arrested in connection with the shooting of a 44 -year -old man in the Vadakahadowa area, which belongs to the Mahiyanganaya police division, Badulla, Mahiyanganaya police said.
+
+The arrested suspects are from the 36, 44 and 51 -year -old Kodaporuwatta area.
+
+During this time, one of the suspects had been shot dead by a domestic firearm.
+
+◼️
+
+[Data](articles/fe5da6b2.json)
+
+[Extended Data](ext_articles/fe5da6b2.ext.json)
+
+---
+
+### ACWF Vice President, Meeting with Prime Minister
 
 *2024-12-17 10:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ACWF-துணைத்-தலைவர்-பிரதமருடன்-சந்திப்பு/175-348833) · `ta`
 
-அனைத்து சீன பெண்கள் சம்மேளனத்தின் (ACWF) துணைத் தலைவியான சாங் டோங்மேய், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை பிரதமர் அலுவலகத்தில் சந்தித்து, பெண்கள் வலுவூட்டல் மற்றும் அபிவிருத்தி தொடர்பான பரஸ்பர முயற்சிகள் குறித்து கலந்துரையாடினார்.
+Here's a summary of 200 characters:
 
-சாங் டோங்மேய் மற்றும் அவரது தூதுக்குழுவினரை வரவேற்ற பிரதமர் கலாநிதி அமரசூரிய, இலங்கைக்கும் சீனாவுக்கும் இடையிலான நீடித்த நட்புறவைப் பாராட்டினர். இந்த கலந்துரையாடல் பெண்களின் சுகாதாரம், கல்வி மற்றும் பொருளாதாரப் பங்கேற்பு ஆகியவற்றில் பகிரப்பட்ட சவால்கள் மற்றும் வாய்ப்புகளை மையமாகக் கொண்டிருந்தது. பெண்களின் தொழிற்படை ஈடுபாடு மற்றும் கீழ்மட்ட பிரதிநிதித்துவத்தை அதிகரிப்பது உட்பட சீனாவின் முன்னேற்றங்கள் குறித்து திருமதி சாங் டோங்மேய் விளக்கினார்.
+
+
+"ACWF VP meets SL PM: Discusses women's empowerment, health, education & economy. China shares progress in gender equality & political representation. Diplomatic officials attend."
+
+🟩
+
+Chang Tongmey, Vice President of the All Chinese Women's Federation (ACWF), met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
+
+Prime Minister Dr. Amarasuriya, who welcomed Sang Tongmey and his delegation, praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
 
 ...
 
 [Data](articles/75490a8f.json)
+
+[Extended Data](ext_articles/75490a8f.ext.json)
+
+---
+
+### Memories of experiences with Anton Balasingham
+
+*2024-12-17 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201481) · `ta`
+
+This appears to be a personal narrative or memoir rather than a programming or technical question. I'm an AI assistant focused on coding and technical topics. Could you please provide a specific programming or technical question I can assist with?
+
+🟩
+
+The controversy over his higher education qualifications that resigned from the post of Parliament Speaker Ashoka Sapumal Ranwala last week recalls a similar controversy over a prominent figure in connection with the LTTE.
+
+The confusion is about LTTE political advisor Anton Srinislos Balasingham, who is often referred to as Dr. Balasingham in the media.
+
+Members of the movements against the LTTE widely denied that Balasingham was not a doctor. Balasingham has never received a doctor's degree and therefore he is said to be a "pretense".
+
+This is what happened at the time. Balasingham, Known as AP Srinislos at Young Paradise, at the University of Peradeniya (B.A.). Degree. Degree) received the title. His study was based on the psychology of Marxism.
+
+Subsequently, Professor John Rayler began to study the Marx's Theory of Alienation in Sociology under the Professor of Socialistics.. Balasingham did not complete the study of the doctor's degree as he began to engage in liberation politics.
+
+...
+
+[Data](articles/d878b7ff.json)
+
+[Extended Data](ext_articles/d878b7ff.ext.json)
 
 ---
 
@@ -113,6 +385,26 @@ He added that four suspects have been arrested in connection with the investigat
 [Data](articles/2b34fc3d.json)
 
 [Extended Data](ext_articles/2b34fc3d.ext.json)
+
+---
+
+### Four new MPs sworn in
+
+*2024-12-17 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104301/four-new-mps-sworn-in) · `en`
+
+Four new National List Members of Parliament were sworn in before the Deputy Speaker this morning (17).
+
+Accordingly, Faiszer Musthapha of the New Democratic Front (NDF) and Sujeewa Senasinghe, Mano Ganesan, and Mohamed Ismail of the Samagi Jana Balawegaya (SJB) took oath as Members of Parliament following the commencement of today”s parliamentary session.
+
+On December 12, the SJB announced the nominations for its four remaining National List MP seats, naming Mano Ganesan, Nizam Kariapper, Sujeewa Senasinghe, and Mohamed Ismail.
+
+However, only three SJB National List MPs were sworn in today, as Nizam Kariapper was not present to take oath.
+
+Meanwhile, on December 11, the Election Commission of Sri Lanka issued a Gazette notification confirming Faiszer Musthapha”s appointment as an MP through the National List of the NDF, which contested the 2024 General Election under the “Gas Cylinder” symbol.
+
+◼️
+
+[Data](articles/1ec81f53.json)
 
 ---
 
@@ -186,21 +478,33 @@ According to a gazette notification issued with the signature of the President's
 
 ---
 
-### உலக அரபு மொழி தினம்: அரபு மொழியை காக்க சவூதியின் முன்னணி பங்கு
+### World Arabic Day: Saudi's leading role to protect Arabic
 
 *2024-12-17 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/201473) · `ta`
 
-வருடாந்தம் டிசம்பர் 18ஆம் திகதியன்று, அரபு மொழியின் செழுமை மற்றும் அதன் பெறுமையை பறைசாற்றும் விதத்தில் உலகம் முழுவதும் உள்ள கோடிக்கணக்கான மக்கள் உலக அரபு மொழி தினத்தைக் கொண்டாட ஒன்றிணைகின்றனர். 400 மில்லியனுக்கும் மேற்பட்ட மக்களால் 25 நாடுகளில் பேசப்படும் அரபு மொழி வெறும் மொழியாக இல்லாமல், கலாச்சாரம், பாரம்பரியம், மற்றும் அறிவாற்றலின் கோணங்களில் எல்லைகளை கடந்த ஒரு முக்கிய தூணாக விளங்குகிறது.
+Here's a summary of the text in approximately 200 characters:
 
-அரபு மொழியானது மனிதரின் அழகிய, அறிவார்ந்த மற்றும் ஆன்மீகமான தகவல்களை பரிமாறும் ஆற்றலின் சான்றாகவும் ஊடகமாகவும் விளங்குகிறது.
 
-பண்டைய அரபு கவிதைகளின் கவியரங்குகளிலிருந்து பள்ளிவாசல்கள், கட்டிடங்களின் சுவர்களை அலங்கரிக்கும் சிக்கலான எழுத்தணிகள் வரை, அரபு மொழி பல நூற்றாண்டுகளாக கலைப் பாரம்பரியத்தையும், கலாச்சாரத்தையும் கடத்தும்  கப்பலாக இருந்து வருகிறது.
 
-மேலும், அரபு மொழி இஸ்லாமிய பொற்காலத்தில் அறிவியல், தத்துவம், மற்றும் இலக்கியத்தின் பொதுமொழியாக விளங்கி மகத்தான பங்களிப்புகளைச் செய்துள்ளது மறைக்கப்பட்ட உண்மையாக இருக்கிறது.
+World Arabic Day celebrates Arabic language & culture. Saudi Arabia leads efforts to preserve & promote Arabic through initiatives in AI, education, literature, & cultural events. Challenges remain, but progress continues to strengthen Arabic's global importance.
+
+🟩
+
+On December 18, millions of people around the world unite to celebrate World Arabic Day to proclaim the richness and prosperity of the Arabic language.. The Arabic language spoken in 25 countries by more than 400 million people is a major pillar of culture, tradition, and intellectuals.
+
+The Arabic language is a proof and medium of man who serves the beautiful, intelligent and spiritual information of man.
+
+From the poetry of ancient Arabic poetry to the complex writings that decorate the walls of the buildings, the Arabic language has been a ship that transacted artistic heritage and culture for centuries.
+
+Moreover, it is a hidden fact that the Arabic language has made enormous contributions to the public language of science, philosophy and literature during the Islamic Golden Age.
+
+Scholars such as Al-Barafi, Ibn Sina (Avisenna), and Al-Quarismmi have written all the works in the Arabic language, which have been a guide to modern discovery in many fields from medicine to mathematics.
 
 ...
 
 [Data](articles/e1d4f9fc.json)
+
+[Extended Data](ext_articles/e1d4f9fc.ext.json)
 
 ---
 
@@ -216,6 +520,24 @@ According to a gazette notification issued with the signature of the President's
 
 ---
 
+### Sri Lanka elects Jagath Wickramaratne as speaker
+
+*2024-12-17 09:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-elects-jagath-wickramaratne-as-speaker-194656/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s ruling National People’s Party lawmakers have elected Jagath Wickramaratne as Speaker of the tenth parliament.
+
+He replaces Ashoka Ranwala who resigned after a month in the post after his claim to have a PhD was questioned.
+
+Wickramaratne’s name was proposed by Prime Minister Harini Amarasuriya, and seconded by Bimal Rathnayake.
+
+Deputy Speaker Rizvie Salih’s credentials have also been questioned. (Colombo/Dec17/2024)
+
+◼️
+
+[Data](articles/40e9f82d.json)
+
+---
+
 ### புதிய சபாநாயகராக ஜகத் விக்கிரமரத்ன தெரிவு
 
 *2024-12-17 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201475) · `ta`
@@ -225,6 +547,28 @@ According to a gazette notification issued with the signature of the President's
 ◼️
 
 [Data](articles/413ea75f.json)
+
+---
+
+### Jagath Wickremeratne appointed new Speaker
+
+*2024-12-17 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104300/jagath-wickremeratne-appointed-new-speaker-) · `en`
+
+National People’s Power (NPP) Member of Parliament Dr. Jagath Wickramaratne has been unanimously appointed as the new Speaker of Sri Lanka’s Parliament.
+
+The Polonnaruwa District MP was nominated by Prime Minister Dr. Harini Amarasuriya following the commencement of today’s parliamentary session.
+
+The proposal was seconded by the Leader of the House, Minister Bimal Ratnayake.
+
+Accordingly, the Deputy Speaker, Dr. Rizvie Salih announced to the House that Dr. Wickremeratne was unanimously appointed as the new Speaker of the Tenth Parliament as no other names were proposed.
+
+The appointment comes following the resignation of MP Asoka Ranwala from the position on December 13, amidst the controversy surrounding his educational qualifications. The President had later accepted his letter of resignation.
+
+The opposition had previously stated that they would also propose a name for the Speaker of Parliament, representing the opposition, however, no such proposal was made today.
+
+...
+
+[Data](articles/0d4fb3fe.json)
 
 ---
 
@@ -248,17 +592,63 @@ According to a gazette notification issued with the signature of the President's
 
 ---
 
+### Sri Lanka and Malaysia discuss investment opportunities and tourism
+
+*2024-12-17 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104299/sri-lanka-and-malaysia-discuss-investment-opportunities-and-tourism-) · `en`
+
+High Commissioner of Malaysia to Sri Lanka, Badli Hisham bin Adam has met with Prime Minister Dr. Harini Amarasuriya at the Prime Minister”s Office to discuss avenues for enhancing economic, cultural, and tourism ties between the two nations.
+
+During the discussion, the high commissioner reaffirmed Malaysia”s commitment to the longstanding bilateral relationship, the PM”s Media Division stated.
+
+Discussions focused on investment opportunities, collaboration in sectors like telecommunications and automobile assembly, and promoting Sri Lankan tourism in Malaysia, the statement added.
+
+The Sri Lankan delegation at the meeting included Mr. Pradeep Saputhanthri, Secretary to the Prime Minister, Ms. Sagarika Bogahawatta, Additional Secretary to the Prime Minister, Ms. Sashikala Premawardhane, Director General for Southeast Asia & Central Asia, and Ms. Thilini Ihalage, Director of the Southeast Asia & Central Asia Division at the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/ee9daf74.json)
+
+---
+
+### Four arrested over Meetiyagoda shooting
+
+*2024-12-17 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104298/four-arrested-over-meetiyagoda-shooting) · `en`
+
+Police have arrested four suspects in connection with the shooting incident that took place in the Mahawatta area of Meetiyagoda.
+
+Police Spokesman SSP Buddhika Manathunga stated that the suspects were arrested during a raid carried out last evening (16), following a tip-off received by Meetiyagoda Police.
+
+The shooting incident occurred on Sunday night when several individuals arrived in a three-wheeler and opened fire on a man and his daughter who were inside their home.
+
+The injured were admitted to the Balapitiya Base Hospital for treatment.
+
+Police stated that the father had been shot in the abdomen and the daughter had been shot in the leg.
+
+Police Spokesman SSP Buddhika Manathunga stated that four individuals, including the main suspect, have been arrested in connection with the shooting.
+
+◼️
+
+[Data](articles/e982c0d2.json)
+
+---
+
 ### පාර්ලිමේන්තු මන්ත්‍රීවරුන් කිහිපදෙනෙකු දිවුරුම් දෙයි
 
 *2024-12-17 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204453) · `si`
 
-ඒ අද (17) උදෑසන ආරම්භ වූ පාර්ලිමේන්තු සභාවාරයේදී නියෝජ්‍ය කථානායකවරයා ඉදිරියේය.
+10 වන පාර්ලිමේන්තුවේ නව පාර්ලිමේන්තු මන්ත්‍රීවරු සිව්දෙනෙක් නියෝජ්‍ය කථානායක රිස්වි සාලි මහතා ඉදිරියේ අද (17) දිවුරුම් දුන්හ.
 
-එහිදී නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ වෙනුවෙන් එහි ජාතික ලැයිස්තුවෙන් තේරී පත්වූ ෆයිසර් මුස්තාෆා මහතා නව මන්ත්‍රී ධුරයේ දිවුරුම් දුන්නේය.
+සමගි ජන බලවේගය නියෝජනය කරමින් ජාතික ලැයිතු මන්ත්‍රීවරුන් ලෙස අර්ජුන සුජීව සේනසිංහ, මුහම්මදු ඉස්මායිල් මුත්තු මුහම්මදු සහ මනෝ ගනේෂන් යන මන්ත්‍රීවරුන් සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නියෝජනය කරමින් ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස මොහොමඩ් ෆයිෂර් මුස්තාෆා යන මන්ත්‍රීවරුන් මෙසේ දිවුරුම් දුන්හ.
 
-මේ අතර සමගි ජන බලවේගය නියෝජනය කරමින් එහි ජාතික ලැයිස්තුවෙන් තේරී පත්වූ සුජීව සේනසිංහ, මුහම්මදු ඉස්මයිල් මුත්තු මුහම්මදු මහතා සහ මනෝ ගනේෂන් මහතා ද අද උදෑසන නියෝජ්‍ය කථානායවරයා ඉදිරියේ දිවුරුම් දුන්නේය.
+නියෝජ්‍ය කථානායකවරයා ඉදිරියේ දිවුරුම්දීමෙන් පසු මෙම නව මන්ත්‍රීවරුන් පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය ඉදිරියේදී මන්ත්‍රී නාමලේඛනයේ අත්සන් තැබූහ.
 
-◼️
+පසුගිය නොවැම්බර් 21 වැනිදා 10 වෙනි පාර්ලිමේන්තුවේ පළමු සභාවාරය අභිනවයෙන් රැස් වූ අතර එදින අභිනව මන්ත්‍රීවරුන් සිය දිවුරුම්දීම සිදු කළේය.
+
+ඒ වන විට සමගි ජන බලවේගයට හිමිව තිබූ ජාතික ලැයිස්තු මන්ත්‍රීධුර 4ක් සඳහා නම් ගැසට්කොට නොතිබුණු අතර පසුගිය 12 වෙනිදා මෙම නව මන්ත්‍රීවරුන්ගේ නම් ඇතුළත් ගැසට් නිවේදනය මැතිවරණ කොමිෂන් සභාව විසින් නිකුත්කොට තිබුණි.
+
+ඒ අනුව මෙසේ එම මන්ත්‍රීවරුන් සිව්දෙනා අතරින් තිදෙනෙකු අද දිවුරුම්දීම සිදුවිය.
+
+...
 
 [Data](articles/c1157310.json)
 
@@ -283,6 +673,24 @@ According to a gazette notification issued with the signature of the President's
 ...
 
 [Data](articles/2cddbb97.json)
+
+---
+
+### Sri Lanka’s CT CLSA widens units trust access with Cargills supermarket banking
+
+*2024-12-17 09:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-ct-clsa-widens-units-trust-access-with-cargills-supermarket-banking-194645/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s CT CLSA Asset Management said it was partnering with Cargills Bank to widen public access units through the Cargills supermarket chain.
+
+“This initiative leverages Cargills Bank’s extensive island wide supermarket banking network via the Cargills Food City supermarket chain,” CT CLSA Asset Management said in a statement.
+
+“This partnership underscores CT CLSA Asset Management’s commitment to promote inclusivity by bringing essential financial services closer to Unitholders across all 25 districts in Sri Lanka.”
+
+Cargills Bank will act as the collection agent for unit trust funds managed by CT CLSA Asset Management. Investors are able to subscribe to units at 530 outlets made up of Cargills Food City, Cargills Express and Cargills Food Hall outlets.
+
+...
+
+[Data](articles/ae25872e.json)
 
 ---
 
@@ -467,6 +875,60 @@ Fairly strong winds of about 40 kmph can be expected at times over Northern, Nor
 ◼️
 
 [Data](articles/b1337056.json)
+
+---
+
+### Bolivia opens fuel imports in Sri Lanka-style move amid money printing
+
+*2024-12-17 07:59:00* · [`economynextcom`](https://economynext.com/bolivia-opens-fuel-imports-in-sri-lanka-style-move-amid-money-printing-194564/) · `en`
+
+ECONOMYNEXT – Bolivia has authorized 27 companies to import fuel, breaking the monopoly of state-run Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) media reports said, as fuel shortages and queues hit the country amid foreign exchange shortages.
+
+“I went to the pump on Calle 35 in Chasquipampa and there was nothing, then to the one on Calle 21 in Los Pinos and there was none either,” a fuel user was quoted as saying by the publication El Diario.
+
+In late November even worse queues and diesel and petroleum had bigger shortages, the newspaper said.
+
+Bolivia was once a natural gas exporter and the YPFB was broken up and privatized under a rightwing president.
+
+However, the domestic currency Boliviano collapsed from around 6.0 to the US dollar to 2,000 to 7.4 to the US dollar two years later as macroeconomists printed money.
+
+In the inflation and stabilization crisis that followed, leftist President Eva Morales came to power amid public protests.
+
+...
+
+[Data](articles/95f63ac3.json)
+
+---
+
+### Tsunami threat to Vanuatu has passed: Update
+
+*2024-12-17 07:58:00* · [`economynextcom`](https://economynext.com/tsunami-threat-to-vanuatu-has-passed-update-194605/) · `en`
+
+ECONOMYNEXT-  A tsunami warning has been issued for the Pacific Island of Vanuatu and nearby areas, after a 7.4 magnitude earthquake has been updated to say the threat has now passed.
+
+Minor sea level fluctions may still continue, the Pacific Tsunami Warning centre said.
+
+* AN EARTHQUAKE WITH A PRELIMINARY MAGNITUDE OF 7.3 OCCURRED IN
+
+THE VANUATU ISLANDS AT 0147 UTC ON TUESDAY DECEMBER 17 2024.
+
+* REMAIN OBSERVANT AND EXERCISE NORMAL CAUTION NEAR THE SEA.
+
+* MINOR SEA LEVEL FLUCTUATIONS MAY OCCUR IN SOME COASTAL AREAS
+
+A tsunami warning has been issued for the Pacific Island of Vanuatu and nearby areas, after a 7.4 magnitude earthquake.
+
+FIJI… KERMADEC ISLANDS… KIRIBATI… NEW CALEDONIA… PAPUA NEW GUINEA… SOLOMON ISLANDS… TUVALU… AND     WALLIS AND FUTUNA.
+
+**** NOTICE **** NOTICE **** NOTICE **** NOTICE **** NOTICE *****
+
+THIS MESSAGE IS ISSUED FOR INFORMATION ONLY IN SUPPORT OF THE
+
+MEANT FOR NATIONAL AUTHORITIES IN EACH COUNTRY OF THAT SYSTEM.
+
+...
+
+[Data](articles/2bc24656.json)
 
 ---
 
@@ -1628,6 +2090,26 @@ The Ministry of Foreign Affairs and Tourism has requested the foreign employment
 
 ---
 
+### යෝධ නිදිකුම්බා රටට දැඩි හානියක් සිදුකරලා
+
+*2024-12-16 19:00:56* · [`adalk`](https://www.ada.lk/breaking_news/යෝධ-නිදිකුම්බා-රටට-දැඩි-හානියක්-සිදුකරලා/11-413680) · `si`
+
+ලොව දරුණුතම ආක්‍රමණික ආගන්තුක විශේෂ 100ට ඇතුළත් යෝධ නිදිකුම්බා (Giant Mimosa / Giant Sensitive Plant) මෙරට පරිසර පද්ධතිය ඉතා හානිකර ලෙස ආක්‍රමණය කර ඇති බවට මේ වන විට හඳුනාගෙන තිබේ.
+
+මහවැලි ගඟේ තැන්නෙකුඹුර ප්‍රදේශයෙන් 1997 වර්ෂයේදී මෙරටින් මුල් වරට වාර්තා කර තිබූ අතර, මහවැලි ගඟෙන් ලබා ගන්නා වැලි ඔස්සේ ශ්‍රී ලංකාවේ බොහෝ ප්‍රදේශවලට මේ වන විට පැතිර ගොස් ඇත.
+
+ඒ අනුව මේ පිළිබඳ වැඩිදුරටත් පැහැදිලි කිරීමක නිරත වූ ජ්‍යෙෂ්ඨ පරිසර නීතිඥ, ආචාර්ය ජගත් ගුණවර්ධන මහතා පෙන්වා දුන්නේ,
+
+“මේ වන විට දශක 02ක කාලයක් පුරා යෝධ නිදිකුම්බා ශාකය කොළඹ සහ තදාසන්න ප්‍රදේශවලින් හමුවනවා වැලි මගින් ප්‍රචාරණය වීමෙන්.
+
+මේ ශාක ඝනව වර්ධනය වී ප්‍රදේශයක් මුළුමනින් වසා ගන්නවා. ඒ නිසාම ජල මාර්ගවල වර්ධනය වී රොන් මඩ සහ ශාක කොටස් රඳවා ගැනීම නිසා ජල මාර්ග අවහිර වීමට සහ ගොඩ වී යාමට හේතු කාරකයක් වනවා. මේවායෙහි තිබෙන අධික කටු නිසා ඒවා උගුල්ලා දැමීම වැනි ක්‍රමවලින් ඉවත් කිරීම දුෂ්කරයි. ඒ වගේම මෙහි බීජ සහිත ඵලයේ කොටස් ජලයේ පාවෙන බැවින් ජලය ඔස්සේත් ව්‍යාප්ත වනවා.
+
+...
+
+[Data](articles/03f697d8.json)
+
+---
+
 ### DMT. The name of the clerk and wife. Billions of bank accounts and assets
 
 *2024-12-16 18:52:58* · [`adalk`](https://www.ada.lk/breaking_news/ඩී-එම්-ටී--ලිපිකරුගේ-හා-බිරිඳගේ-නමින්-රු--කෝටි-ගණනක-බැංකු-ගිණුම්-හා-වත්කම්/11-413679) · `si`
@@ -1829,505 +2311,5 @@ Prior to this, Rashid Khan (Afghanistan Victory Ireland 2019), Lasith Malinga (S
 [Data](articles/bb1e31e9.json)
 
 [Extended Data](ext_articles/bb1e31e9.ext.json)
-
----
-
-### Suspect arrested with fake military intelligence
-
-*2024-12-16 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204438) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Person arrested using fake military ID in Colombo. Magistrate orders remand. Police investigating illegal activities. Suspect linked to active military personnel.
-
-🟩
-
-Colombo Additional Magistrate Pavithra Ms. Pavithraja Pathiraja ordered that a person who was using a pseudo-identity card.
-
-A person named Peliyagoda police arrested by police arrested by police and was also ordered to be remanded.
-
-The police informed the court when the suspect had been arrested in the Peliyagoda Police area in Peliyagoda Police area.
-
-The police have revealed that the identity of the suspect is now aware that he has been prepared by a person who is active in the military.
-
-The police said in court that the suspect was investigating whether the suspect had performed any illegal activities using it.
-
-The police said in court, the police said in court, the police stated in the court.
-
-◼️
-
-[Data](articles/97f40bb0.json)
-
-[Extended Data](ext_articles/97f40bb0.ext.json)
-
----
-
-### The main purpose of providing the three-citizens
-
-*2024-12-16 18:18:49* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීපෝෂ--අඛණ්ඩව-ලබාදීම-ප්‍රමුඛ-අරමුණක්/11-413675) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's Health Minister Dr. Nalinda Jayatissa discusses infant and maternal nutrition with World Food Program officials. Focuses on providing high-quality nutrients through efficient programs to combat malnutrition. Emphasizes education and ensuring food safety standards.
-
-🟩
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa emphasizes the main objective of the Ministry of Health to provide the highest nutritional equipment to infants and mothers in Sri Lanka.
-
-The Minister was speaking at a special discussion held in the Ministry of Health with the administrative representatives of the World Food Program and the management of the Government of Sri Lanka.
-
-The three-centered infants, who are pregnant and militant mothers, the program provides the three-way efficiency of the three-productive food, formally, efficiently and hostile continuously and healthly and healthy and hostility.
-
-Families of Food Production Organization (Nutrients)The discussion was held with the objective of doing.
-
-...
-
-[Data](articles/696a9cb8.json)
-
-[Extended Data](ext_articles/696a9cb8.ext.json)
-
----
-
-### Sri Lanka leader assures secured Indian Ocean region in Delhi visit
-
-*2024-12-16 18:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-assures-secured-indian-ocean-region-in-delhi-visit-194520/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake assured to ensure a free, open, safe and secure Indian Ocean Region, when he met Indian Prime Minister Narendra Modi in New Delhi on Monday (16).
-
-President Dissanayake is India on a three-day official visit through Tuesday (17) to discuss bilateral relations and other cooperation including defence.
-
-This is Dissanayake’s first foreign visit since elected as the president in September this year following a landslide win in the parliamentary polls last week.
-
-In a joint statement, the both countries said President Dissanayake and Prime Minister Modi acknowledged the importance of regular dialogue based on mutual trust and transparency and giving primacy to each other’s security concerns, recognizing shared security interests of India and Sri Lanka, both leaders.
-
-...
-
-[Data](articles/4989c042.json)
-
-[Extended Data](ext_articles/4989c042.ext.json)
-
----
-
-### Rs. The story of every house as a grant of 500,000 is false
-
-*2024-12-16 18:05:39* · [`adalk`](https://www.ada.lk/breaking_news/රු--50000ක්-ජනපති-ප්‍රදානය-ලෙසින්-සෑම-නිවසකටම-දෙන-කථාව-අසත්‍යයි/11-413674) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-False claim: Every house gets 500,000 rupees grant. Info Dept denies. Govt warns against spreading fake news. Social media activists asked to verify before sharing.
-
-🟩
-
-According to the Government Information Department, the circulation of a pseudo-record is a proportion of Rs.
-
-The report of the Information Department also stated that he is also mentioned to obtain further information.
-
-The report also means that the government is fully false and the government has decided to inform the Cabinet Decisions and the Messianics to inform the public.
-
-The statement further states that social media activists are requested to express their false news to avoiding the basis of false news without baseless news.
-
-◼️
-
-[Data](articles/282f9da4.json)
-
-[Extended Data](ext_articles/282f9da4.ext.json)
-
----
-
-### 268 firearms in Colombo at 11 months
-
-*2024-12-16 17:55:08* · [`adalk`](https://www.ada.lk/breaking_news/මාස-11ට-කොළඹ-ගිනි-ගැනීම්-268-ක්/11-413673) · `si`
-
-Colombo: 268 firearms seized in 11 months. Fire Services Officer P.R. Nanayakkara reports 37 emergency responses, including 54 fire emergencies and 65 other services. Staff contributed to all functions during this period.
-
-🟩
-
-In the Colombo Municipal Council FireSront Fire Services Officer, Colombo Municipal Council Fire Services OfficerP. R. Nanayakkara said.
-
-In addition to controlling the fire, 37 emergency disaster moments, including 54 emergency services, as well as 65 emergency services.
-
-During that period, all staff have contributed to all the functions to carry out all these functions during that period.
-
-◼️
-
-[Data](articles/e3cb01e3.json)
-
-[Extended Data](ext_articles/e3cb01e3.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady
-
-*2024-12-16 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-290-70-80-to-dollar-bonds-steady-194487/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 290.70/80 to the US dollar on Monday from 290.15/30 to the US dollar on Friday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 percent, up from 9.35/50 percent.
-
-A bond maturing on 15.10.2027 closed at 9.90/10.00 percent, down from 9.95/10.10 percent.
-
-A bond maturing on 15.03.2028 closed at 10.15/25 percent, down from 10.20/30 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.70/80 percent.
-
-A bond maturing on 15.05.2030 closed stable at 10.90/11.10 percent. (Colombo/Dec16/2024)
-
-◼️
-
-[Data](articles/e1bf0f6d.json)
-
-[Extended Data](ext_articles/e1bf0f6d.ext.json)
-
----
-
-### Infantry found in Angulana
-
-*2024-12-16 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204437) · `si`
-
-Newborn body found in canal near railway station. Garbage collectors discovered infant remains. Police investigation ongoing due to decomposition.
-
-🟩
-
-The body of a newborn was found on the Angulana Railway Station Road Road.
-
-Two people who remove the garbage on the relevant canal have met with the infant.
-
-The two persons have landed a fertilizer stupid at the end of the garbage on the canal.
-
-Afterwards, the two men were informed of the police after the police had come to the police and confirmed that the police were a newborn body.
-
-Mt.
-
-The infant has been thrown into the canal a few days ago, police said the police could not be determined as the body was spoiled.
-
-◼️
-
-[Data](articles/7a7ffcb3.json)
-
-[Extended Data](ext_articles/7a7ffcb3.ext.json)
-
----
-
-### CAA conducts 342 raids on rice traders; fines imposed over 6
-
-*2024-12-16 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104286/caa-conducts-342-raids-on-rice-traders-fines-imposed-over-6) · `en`
-
-The Consumer Affairs Authority (CAA) says that 342 raids have been carried out so far ahead of the festive season with regard to selling rice above the controlled price.
-
-CAA Chairman Hemantha Samarakoon stated that these raids were carried out between November 17 and today (Dec. 16).
-
-Accordingly, court rulings have been received with regard to 06 of these raids, and fines of Rs. 700,000 have been imposed.
-
-The CAA Chairman further said that legal cases are being filed and judicial proceeding are proceeding regarding the remaining raids.
-
-◼️
-
-[Data](articles/d22fbd9e.json)
-
-[Extended Data](ext_articles/d22fbd9e.ext.json)
-
----
-
-### Maithri has no chairman of the Freedom Party
-
-*2024-12-16 17:42:56* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-ආයේ-නිදහස්-පක්ෂයේ-සභාපතිධුරයට-ඉදිරිපත්-වන්නේ-නැතිලු/11-413672) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Maithri Gunaratne: Former President Maithripala Sirisena won't contest SLFP chair. Petition filed against him settled out of court.
-
-🟩
-
-President's Counsel Maithree Gunaratne informed the Court of Appeal today that former President Maithripala Sirisena would not contest for the Sri Lanka Freedom Party Chairman.
-
-Maithri Palsena, an executive filed by the Sri Lanka Freedom Party (SLFP) was not objected to the Sri Lanka Freedom Party, Nimal Siripala de Silva and the secretary of the Sri Lanka Freedom Party (SLFP) against former President Maithripala Sirisena.He further stated that he said.
-
-Chairman of the Court of Appeal, Judge Nissanka Bandula Karunaratne and Justice Shashi Mahendran were summoned.
-
-Former President Maithripala Sirisena, the respondous was named at the petition filed by the Sri Lanka Freedom Party Executive Committee Montegu Sarathrandra.
-
-The petition has been submitted by the Colombo District Court prevented the Colombo District Court from being an interim injunction by highlighting Maithripala Sirisena.
-
-...
-
-[Data](articles/8670a0a8.json)
-
-[Extended Data](ext_articles/8670a0a8.ext.json)
-
----
-
-### Training in India for several civil servants in Sri Lanka
-
-*2024-12-16 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204436) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-India offers training to 1500 Sri Lankan civil servants over 5 years. Discusses cooperation in agriculture, dairy, fisheries, renewable energy, infrastructure, and marine security.
-
-🟩
-
-Indian Prime Minister Narendra Mugse has agreed to provide training in India to nearly 1500 civil servants in Sri Lanka in the next five years.
-
-President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi on a three-day official visit to India was held at the Venerable Heidrabad, the official residence of Indian Prime Minister.
-
-The Presidential Media Unit of the Presidential Media Unit has been exchanged to prevent dual taxation and exchanged MoUs to exchanged MoUs.
-
-President Anura Kumara Dissanayake recalled that Sri Lanka is well aware that Sri Lanka has a special place in the Indian Foreign Policy.
-
-Indian Prime Minister Narendra Modi has said that he is pleased to choose India for the first foreign tour.
-
-The discussion also focuses on the establishment of the electricity, digital and power pipeline between the two countries to strengthen the three physical, digital and energy towers to the relationship between the two countries.
-
-...
-
-[Data](articles/1a56dbea.json)
-
-[Extended Data](ext_articles/1a56dbea.ext.json)
-
----
-
-### A man arrested with domestic gun in Anuradhapura
-
-*2024-12-16 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201445) · `ta`
-
-Man arrested with homemade gun in Anuradhapura's Kekirawa area. 46-year-old suspect caught during police raid based on tip-off.
-
-🟩
-
-A suspect has been arrested by Kekirawa police on Sunday (15) with a locally manufactured gun in Kotalpatta area belonging to the Kekirawa Police Division of Anuradhapura.
-
-The suspect has been arrested during a raid carried out on the basis of confidential information received by the Kekirawa police station.
-
-The suspect was 46 years old from Kekirawa, Anuradhapura.
-
-◼️
-
-[Data](articles/01e2fa91.json)
-
-[Extended Data](ext_articles/01e2fa91.ext.json)
-
----
-
-### Rs. 10 billion in water to Amoxilin consignment
-
-*2024-12-16 17:34:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇමොක්සිලින්-තොගයකට-වැයකළ-රුපියල්-කෝටි-10-ක්-වතුරේ/11-413671) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-National Audit Office finds Rs. 10 billion misused in importing Amoxicillin. Report reveals State Pharmaceutical Manufacturing Corporation overpaid for unimported goods. Audit recommends reviewing corporate premises for unique raw materials.
-
-🟩
-
-National Audit office reveals that Rs..
-
-Audit office relatives regarding the promotional manufacturing Corporation of State Pharmaceutical Manufacturing Corporation to import the amount of products that were not imported at the same time.The audit report released is stated.
-
-The audit shows that the cost of the corporation to the review of the corporate premises regarding the unique raw materials for the review of those recommendations.
-
-◼️
-
-[Data](articles/1f3018b1.json)
-
-[Extended Data](ext_articles/1f3018b1.ext.json)
-
----
-
-### President Anura invited the Prime Minister of India to come to Sri Lanka
-
-*2024-12-16 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201422) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake invites Indian PM Narendra Modi to visit during his 3-day official trip to India. Meeting took place in New Delhi on 16th.
-
-🟩
-
-President Anura Kumara Dissanayake, who is on a three -day official visit to India, has called for Indian Prime Minister Narendra Modi to visit Sri Lanka.
-
-President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi were held in New Delhi today (16).
-
-◼️
-
-[Data](articles/f5fed895.json)
-
-[Extended Data](ext_articles/f5fed895.ext.json)
-
----
-
-### Two persons arrested with ice and heroin in Kalkisa
-
-*2024-12-16 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201443) · `ta`
-
-Two arrests made in Kalkisa: 28-year-old and 35-year-old men caught with 14g ice and 5g heroin. Raid conducted based on tip-off.
-
-🟩
-
-Two suspects have been arrested yesterday (15) with heroin and ice drugs in the area of ​​the Mount Lavinia Police Division.
-
-The suspects have been arrested during a raid carried out on a confidential information received by the police station officials.
-
-The arrested suspects were 28 and 35 years old from Ratmala.
-
-The police have seized 14 grams of ice and 05 g of 200 ml of heroin from the suspects.
-
-◼️
-
-[Data](articles/eecb8fa8.json)
-
-[Extended Data](ext_articles/eecb8fa8.ext.json)
-
----
-
-### Ranil visit India again!
-
-*2024-12-16 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201434) · `ta`
-
-Ranil Wickremesinghe visits India twice in two months. He'll attend special meetings and visit the Atal Bihari Vajpayee Memorial. His trip includes exploring ancient Indian sites and lasting over a week.
-
-🟩
-
-Former President Ranil Wickremesinghe is due to visit India on Sunday 22nd. It is the second time he travels to India within two months.
-
-Ranil Wickremesinghe's visit to India will hold several special meetings during India's visit.
-
-In addition, he will also perform the Atal Bihar Vajpayee Memorial on the 27th.
-
-It is also revealed that Ranil Wickremesinghe will stay there for more than a week during his visit to India.
-
-It is revealed that he has been set aside for the ancient places of India on this trip.
-
-It is noteworthy that former President Ranil Wickremesinghe visited India from November 21 to 30.
-
-◼️
-
-[Data](articles/ef7e0c55.json)
-
-[Extended Data](ext_articles/ef7e0c55.ext.json)
-
----
-
-### Robot Shankar sung duet with heroine
-
-*2024-12-16 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201435) · `ta`
-
-Robot Shankar stars in Ambi, singing duets with the heroine. Directed by Passer J., featuring Aswini Chandrasekhar, Ramesh Khanna. Music by B. Muralitharan. Producer Prasanthi Francis describes it as a family entertainment film about a naive hero named Ambi.
-
-🟩
-
-Robot Shankar, who is a comedian and character actor in Tamil film industry, is the hero of the story 'Ambi'. In this movie she has a duet singing scenes with the heroine. Robot Shankar has joined the list of duet actors who sing with heroes around the tree.
-
-Director Passer J. Robot Shankar, Aswini Chandrasekhar, Ramesh Khanna, Kanja Black, Iman Annacci, Mohan Vaidya, Namo Narayana, Mustache Rajendran, Cheran Raj, Sharmila, Aarti, Vidya.
-
-The film has been recorded by Vijayvel Murugan. B.. Muralitharan has composed the music.
-
-The film, which is ready for Family Entertainment, is the producer F.. Produced by Prasanthi Francis.
-
-Speaking of the film, the director said, "The hero of the story is a naively scared as 'Ambi'.. Is there. But for those around him because of the circumstances, the hero looks like a hero and lucky.
-
-...
-
-[Data](articles/936235b7.json)
-
-[Extended Data](ext_articles/936235b7.ext.json)
-
----
-
-### Sivakarthikeyan- Jayam Ravi's inauguration of the new movie
-
-*2024-12-16 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201436) · `ta`
-
-Sivakarthikeyan stars in new film "Suraru Pottu" alongside Jayam Ravi. Directed by Sudha Kongara, music by V. Prakash Kumar. Inaugurated in Chennai with cast attendance. First collaboration between Sivakarthikeyan, Jayam Ravi, and director.
-
-🟩
-
-After the biggest hit film 'Amaran', the inauguration of the unnamed film starring actor Sivakarthikeyan was held in Chennai.
-
-The film 'Suraru Pottu', which is back to the Indian film industry, will be starring in the untitled film directed by Sudha Kongara and many others including Shiva Karthikeyan, Jayam Ravi, Atharva, Sri Leela.
-
-Ravi K. Chandran. V.. Prakash Kumar is composed. The film is being produced by Dan Pictures Company, which is being produced by Akash Baskaran on behalf of Dan Pictures.
-
-The inauguration of the film was held in Chennai. The film crew participated in this moment. Sivakarthikeyan plays the hero of the story and Jayam Ravi is the opposite of the film. Also actor Atharva appears in a special look. Sivakarthikeyan, Jayam Ravi and Sudha Kongara have formed a coalition for the first time.
-
-◼️
-
-[Data](articles/b0d48631.json)
-
-[Extended Data](ext_articles/b0d48631.ext.json)
-
----
-
-### 'The nightmares of the night'
-
-*2024-12-16 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201439) · `ta`
-
-"Night Vaikkal: A Psycho Thriller Starring Mahendra, Directed by Bhaskar, Produced by Mahendra Film Factory. Special Screenplay, First Look Released, Teaser Soon."
-
-🟩
-
-The film crew has said that the movie 'Night Vaikkal' is ready to be a psycho thriller.
-
-Mahendra, Neema Ray, Shadows Ravi, Azmita, Kumtaj, Cheran Raj, Cicer Manohar, Eswar Chandrababu, Kili Ramachandran and many others are starring in the film 'Night Vaikkal', which is being directed by Actor and Director.. Bhaskar is composed by AM.. The film is being produced by Actor Mahendra on behalf of Mahendra Film Factory.
-
-When the director describes the film, “There will be many special reasons for one to become a psycho. The man of the story in this story is the cause of the anger of this community and a common sense. What is it?We have described it with a special screenplay. ”
-
-...
-
-[Data](articles/b38039ee.json)
-
-[Extended Data](ext_articles/b38039ee.ext.json)
-
----
-
-### President Dissanayake may reconsider 13A - Austin Fernando
-
-*2024-12-16 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104285/president-dissanayake-may-reconsider-13a-austin-fernando) · `en`
-
-The Former Sri Lankan High Commissioner to India, Austin Fernando, claims that there is a possibility that incumbent President Anura Dissanayake may reconsider the 13th Amendment to the Constitution when proposing a new Constitution.
-
-Speaking during Ada Derana’s current affairs program ‘@HydePark’, he noted that it is an excellent intension of the government to reduce corruption and bring back some of the money that are due to Sri Lanka but are hidden elsewhere.
-
-Meanwhile, he also highlighted that, under its vision statement, India has proposed development plans for Sri Lanka and emphasized that Sri Lanka must navigate those plans carefully to avoid impacting relations with other foreign allies.
-
-◼️
-
-[Data](articles/793dbd91.json)
-
-[Extended Data](ext_articles/793dbd91.ext.json)
-
----
-
-### Actor Vineeth continues to continue the art service through love
-
-*2024-12-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201437) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Actor Vineeth stars in "Kadavam is Public", a Tamil film exploring love and psychology. Directed by Jayaprakash Radhakrishnan, it's set for release on Valentine's Day 2025.
-
-🟩
-
-Actor Vineeth, who made his debut in 1992 with the film 'Avaram Poo', became famous for his film 'Chandramukhi'.. Since then, only a few Tamil films, actor Vineeth has once again starred in the Tamil film 'Kadi is Public'.
-
-Directed by director Jayaprakash Radhakrishnan, who has directed national awards such as 'Lens' and 'Head Kuttupal', 'Kadavam is the Communist Party' starring Vineet, Lijamol Jose, Rohini, Kalesh, Deepa and many others.. Kannan Narayanan has composed the film, which is being recorded by Sri Saravanan.
-
-The film, which talks about love, has been co -produced by Simatry Cinemas, Man Guint Cinemas, Nith Productions and Klaing Tungsten.. The film was made on behalf of Creative Entertainment and Distributor Company.. Dhananjayan offers.
-
-...
-
-[Data](articles/397defbd.json)
-
-[Extended Data](ext_articles/397defbd.ext.json)
 
 ---

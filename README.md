@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 05:52:24**
+As of **2024-12-17 06:48:30**
 
 ## Newspaper Stats
 
-*Scraped **60,552** Articles*
+*Scraped **60,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 634
-islandlk | 3,656
+islandlk | 3,666
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,759
 adaderanalk | 7,379
-tamilmirrorlk | 8,649
+tamilmirrorlk | 8,650
 virakesarilk | 9,976
 adaderanasinhalalk | 10,464
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,510 (99.9%) of 60,552 articles have been extended.
+60,511 (99.9%) of 60,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### President Engages in Talks with Indian Business Leaders
+
+*2024-12-17 04:58:00* · [`islandlk`](http://island.lk/president-engages-in-talks-with-indian-business-leaders/) · `en`
+
+President Anura Kumara Dissanayake, currently on a three-day official visit to India, participated in a discussion with leading Indian business representatives on Monday (16) in New Delhi.
+
+This discussion, organized by the Confederation of Indian Industry (CII), brought together some of India’s most prominent entrepreneurs. President Dissanayake highlighted the investor-friendly environment in Sri Lanka and invited Indian entrepreneurs to explore investment opportunities in the country.
+
+The discussion, aimed at strengthening investment and trade relations between the two nations, focused on key areas such as the digital economy, tourism, renewable energy, and information technology.
+
+The conversation also emphasized expanding investment opportunities in Sri Lanka by leveraging trade between the two countries.
+
+During the meeting, Indian business leaders expressed their willingness to invest in Sri Lanka, and the Sri Lankan government pledged to provide necessary investment facilitation.
+
+...
+
+[Data](articles/2341e79b.json)
+
+[Extended Data](ext_articles/2341e79b.ext.json)
+
+---
+
+### இலங்கை - இந்திய ஜனாதிபதிகள் சந்திப்பு
+
+*2024-12-17 03:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-ஜனாதிபதிகள்-சந்திப்பு/175-348814) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும் இந்திய ஜனாதிபதி திரௌபதி முர்முவுக்கும் இடையிலான சந்திப்பு நேற்று மாலை புதுடில்லியில் உள்ள ராஷ்டிரபதி பவனில் நடைபெற்றது.
+
+இந்தச் சந்திப்பின்போது, இந்திய - இலங்கை இடையிலான நீண்டகால நட்புறவை வலுப்படுத்துவது மற்றும் பிராந்திய பாதுகாப்பை வலுப்படுத்துவது குறித்து கருத்துப் பரிமாறப்பட்டது.
+
+சிநேகபூர்வ சந்திப்பின் பின்னர் இந்திய ஜனாதிபதி திரௌபதி முர்மு, ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு இராப்போசன விருந்து வழங்கினார்.
+
+வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சரும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ ஆகியோரும் இந்தச் சந்திப்பில் இணைந்து கொண்டனர். (a)
+
+◼️
+
+[Data](articles/173c493a.json)
+
+---
 
 ### Meeting between President and Indian President
 
@@ -331,6 +371,46 @@ The last match of these three teams will be determined by which team will go to 
 [Data](articles/a95707df.json)
 
 [Extended Data](ext_articles/a95707df.ext.json)
+
+---
+
+### ‘Family Movers celebrates 35 years of happy moving experiences’
+
+*2024-12-16 22:59:00* · [`islandlk`](http://island.lk/family-movers-celebrates-35-years-of-happy-moving-experiences/) · `en`
+
+Family Movers (Pvt) Ltd – the leading all-in-one relocation service provider in Sri Lanka, will be celebrating its 35th Anniversary this year. Family Movers has been providing relocation services for homes and offices since its inception in 1989 ensuring safety, security, and most of all, peace of mind with customized solutions. They take over full responsibility for all challenges relating to relocating a home or an office, from packing, transporting, dismantling, and reassembling furniture, and unpacking at the destination. The Family Movers portfolio includes international relocation services which are also seamlessly handled from pickup to destination. Additionally, Family Movers provides secure short- and long-term storage facilities on raised platforms to protect customer’s valuable goods with safety and security.
+
+...
+
+[Data](articles/8921e7a4.json)
+
+---
+
+### Lolc Al-Falaah voted Best Islamic Leasing Provider at ifn Global Poll 2024
+
+*2024-12-16 22:55:00* · [`islandlk`](http://island.lk/lolc-al-falaah-voted-best-islamic-leasing-provider-at-ifn-global-poll-2024/) · `en`
+
+LOLC Al-Falaah, the alternate financing unit of LOLC Finance, has once again cemented its legacy as a trailblazer in the Islamic finance landscape by being voted the “Best Islamic Leasing Provider (Global)” in the IFN Non-Banking Financial Institutions Poll 2024. This marks the third time in four years that Al-Falaah has achieved this No.1 position in this global accolade, underscoring its excellence as the most preferred alternate financial services provider.
+
+...
+
+[Data](articles/5798d8b4.json)
+
+---
+
+### Bourse’s bullishness enhances as external bond exchange process concludes
+
+*2024-12-16 22:52:00* · [`islandlk`](http://island.lk/bourses-bullishness-enhances-as-external-bond-exchange-process-concludes/) · `en`
+
+The stock market was extremely bullish yesterday due to the conclusion of the external bond exchange process during the weekend. This created strong momentum in the market resulting in the All Share Price Index crossing the 14,500 mark, market analysts said.
+
+Sri Lanka received acceptances on an offer to exchange defaulted 2022 bonds of only 73 percent, in which Hamilton Reserve, a holdout investor has a stake, according to preliminary data filed with the London Stock Exchange, market sources said.
+
+Amid those developments, the All Share Price Index went up by 295.10 points, while S and P SL20 rose by 111.9 points. Turnover at Rs 8.27 billion with 16 crossings.
+
+...
+
+[Data](articles/2ecef353.json)
 
 ---
 
@@ -2251,131 +2331,5 @@ Further investigations into the incident are being carried out by the Anuradhapu
 [Data](articles/150ab874.json)
 
 [Extended Data](ext_articles/150ab874.ext.json)
-
----
-
-### Suspect of police detention
-
-*2024-12-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201398) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Police detain suspect in Anuradhapura. 19-year-old from Talawa Kambiriswewa arrested on 14th. Taken to CID for fingerprints, returned to station. Escaped while in custody.
-
-🟩
-
-The suspect who was detained at the Talawa Police Station in Anuradhapura district was taken to the Criminal Investigation Division to get fingerprints and was taken back to the police station, police said.
-
-The 19 -year -old youth from the Talawa Kambiriswewa area escaped, police said.
-
-The suspect was arrested by the Talawa Police Officer on Saturday (14) based on a complaint made to the Talawa Police on the 12th of this month.
-
-Subsequently, the suspect was taken to the Criminal Investigation Division to obtain fingerprints and was taken back to the police station when the suspect was kept in police custody, police said.
-
-◼️
-
-[Data](articles/36d6b7c7.json)
-
-[Extended Data](ext_articles/36d6b7c7.ext.json)
-
----
-
-### President Anura Kumara - Indian Prime Minister
-
-*2024-12-16 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201412) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake met Indian PM Narendra Modi during his 3-day visit. They're expected to discuss trade, investment, development, and security cooperation comprehensively.
-
-🟩
-
-President Anura Kumara Dissanayake, who is on a three -day official visit to India, has met Indian Prime Minister Narendra Modi.
-
-It is expected that a comprehensive discussion will be held on trade, investment, development and security cooperation.
-
-◼️
-
-[Data](articles/268d0496.json)
-
-[Extended Data](ext_articles/268d0496.ext.json)
-
----
-
-### Sri Lankan President - Indian Prime Minister meets Delhi
-
-*2024-12-16 13:30:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ஜனாதிபதி-இந்திய-பிரதமர்-டெல்லியில்-சந்திப்பு/175-348796) · `ta`
-
-N
-
-🟩
-
-Indian Prime Minister Narendra Modi and Sri Lankan President Anura Kumara Dissanayake met at the Hyderabad residence in Delhi on Monday.
-
-Earlier, Sri Lankan President Anura Kumara Dissanayake paid tribute to Mahatma Gandhi's statue in Rajkot. Minister of State for Information and Broadcasting L. Murugan was also present.
-
-◼️
-
-[Data](articles/3464fa3c.json)
-
-[Extended Data](ext_articles/3464fa3c.ext.json)
-
----
-
-### Prem and Thakur further remanded
-
-*2024-12-16 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204427) · `si`
-
-Colombo Magistrate's Court remands Gold Mavals team owner arrested in Lanka T10 cricket tournament. Suspect to appear in court on 18th after informing official compartment about criminal disadvantage. Indian national arrested by Sports Pollution Prevention Unit of TNA.
-
-🟩
-
-The Colombo Magistrate's Court presented the owner of the Gold Mavals team, who was arrested and remanded.
-
-The suspect was arrested in the Lanka T10 cricket tournament held in the Lanka T10 cricket tournament held in Kandy.
-
-The complaint was called before Colombo Major Magistrate Thilina Gamage today (16).
-
-The defendant had informed the defendant's official compartment in the official compartment of the criminal disadvantage.
-
-The Colombo Chief Magistrate ordered that the suspect was produced before courts on the 18th.
-
-The Indian national had recently been arrested by the Sports Pollution Prevention Unit of the Sports Corruption Unit of the TNA.
-
-◼️
-
-[Data](articles/b5716fc1.json)
-
-[Extended Data](ext_articles/b5716fc1.ext.json)
-
----
-
-### Complaints at CIT regarding false data
-
-*2024-12-16 13:05:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-தரவுகள்-குறித்து-சி-ஐ-டியில்-முறைப்பாடு/175-348795) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Harshana Nanayakkara filed a complaint with CID about false data on Parliament's website. He suspects someone may have uploaded this to slander him or undermine his political trust. The Minister believes the CID will investigate further.
-
-🟩
-
-Justice and National Integration Minister Harshana Nanayakkara has lodged a complaint with the Criminal Investigation Department today (16) regarding the upload of false data on the official website of Parliament.
-
-Has anyone entered false information in order to slander him or break his confidence in his politics?He told the media that he was suspicious.
-
-However, the Minister of Justice added that the Criminal Investigation Department has lodged a complaint with the Criminal Investigation Department.. Remble
-
-◼️
-
-[Data](articles/ab1f047e.json)
-
-[Extended Data](ext_articles/ab1f047e.ext.json)
 
 ---

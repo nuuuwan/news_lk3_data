@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 01:12:15**
+As of **2024-12-18 00:29:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,626 (99.9%) of 60,709 articles have been extended.
+60,625 (99.9%) of 60,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -869,8 +869,6 @@ Sri Lanka has sought the help of BRICS members to push for its own membership.
 ...
 
 [Data](articles/f64dd301.json)
-
-[Extended Data](ext_articles/f64dd301.ext.json)
 
 ---
 

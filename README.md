@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 08:09:35**
+As of **2024-12-17 06:48:30**
 
 ## Newspaper Stats
 
-*Scraped **60,565** Articles*
+*Scraped **60,563** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
-bbccomsinhala | 635
+bbccomsinhala | 634
 islandlk | 3,666
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,760
+adalk | 5,759
 adaderanalk | 7,379
 tamilmirrorlk | 8,650
 virakesarilk | 9,976
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,514 (99.9%) of 60,565 articles have been extended.
+60,511 (99.9%) of 60,563 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,31 +54,21 @@ During the meeting, Indian business leaders expressed their willingness to inves
 
 ---
 
-### Sri Lanka -India President Meeting
+### இலங்கை - இந்திய ஜனாதிபதிகள் சந்திப்பு
 
 *2024-12-17 03:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-ஜனாதிபதிகள்-சந்திப்பு/175-348814) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும் இந்திய ஜனாதிபதி திரௌபதி முர்முவுக்கும் இடையிலான சந்திப்பு நேற்று மாலை புதுடில்லியில் உள்ள ராஷ்டிரபதி பவனில் நடைபெற்றது.
 
+இந்தச் சந்திப்பின்போது, இந்திய - இலங்கை இடையிலான நீண்டகால நட்புறவை வலுப்படுத்துவது மற்றும் பிராந்திய பாதுகாப்பை வலுப்படுத்துவது குறித்து கருத்துப் பரிமாறப்பட்டது.
 
+சிநேகபூர்வ சந்திப்பின் பின்னர் இந்திய ஜனாதிபதி திரௌபதி முர்மு, ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு இராப்போசன விருந்து வழங்கினார்.
 
-Indian President Draupadi Murmu hosted Sri Lankan President Anura Kumara Dissanayake at Rashtrapati Bhavan. They discussed strengthening bilateral ties and regional security. A dinner was held after the meeting, attended by key officials including Vijitha Herath and Anil Jayantha Fernando.
-
-🟩
-
-A meeting between President Anura Kumara Dissanayake and Indian President Draupadi Murmu was held at Rashtrapati Bhavan in New Delhi yesterday evening.
-
-During the meeting, the Indian and Sri Lanka were exposed to strengthening long -term friendships and strengthening regional security.
-
-Following the meeting, Indian President Draupadi Murmu presented a dinner party to President Anurakumara Dissanayake.
-
-Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and Deputy Minister of Industry and Economic Development Professor Anil Jayantha Fernando were also present at the meeting.. (A)
+வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சரும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ ஆகியோரும் இந்தச் சந்திப்பில் இணைந்து கொண்டனர். (a)
 
 ◼️
 
 [Data](articles/173c493a.json)
-
-[Extended Data](ext_articles/173c493a.ext.json)
 
 ---
 
@@ -256,30 +246,6 @@ The event celebrated excellence in financial reporting and corporate governance 
 
 ---
 
-### මීළඟ කතානායක ධූරයට පත්වන්නේ කවුද?
-
-*2024-12-17 01:46:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6238y0wywro) · `si`
-
-දස වැනි පාර්ලිමේන්තුව ආරම්භ වී මාසයක් ගතවන්නටත් ප්‍රථම අද (දෙසැම්බර් 17 වැනි දා) යළි කතානායකවරයෙකු තෝර පත් ගැනීමට සිදුව තිබේ.
-
-කතානායක ලෙස පත් කරගනු ලැබු අශෝක රන්වල මන්ත්‍රීවරයාගේ අධ්‍යාපන සුදුසුකම් මුල් කරගනිමින්, සමාජයේ ඒ පිළිබඳව නිර්මාණය වු අන්දෝලනාත්මක තත්ත්වය හේතුවෙන් (දෙසැම්බර් 13 වැනි දා) ඔහු ධූරයෙන් ඉල්ලා අස්විය.
-
-ඒ අනුව අද (දෙසැම්බර් 17 වැනි දා) රැස්වන පාර්ලිමේන්තුව  නව කතානායකවරයෙකු තෝර පත් කර ගැනීමට නියමිතව ඇත.
-
-'අපේ ආණ්ඩුවේ මොන වගකීම දැරුවත් වැරැද්දක් කර ඇත්නම් අපි ක්‍රියා මාර්ග ගන්නවා'
-
-යළි නව කතානායකවරයෙකු තෝරා පත් කර ගැනීමට සිදුවන පාර්ලිමේන්තුවේ අද දවසේ ක්‍රියාවලිය සම්බන්ධයෙන් බීබීසි සිංහල විසින් පාර්ලිමේන්තුවෙන් විමසනු ලැබීය.
-
-පාර්ලිමේන්තු නියෝජ්‍ය කතානායකවරයා ගේ ප්‍රධානත්වයෙන් අද පෙරවරු 9.30ට පාර්ලිමේන්තු කටයුතු ආරම්භ කිරීමෙන් පසුව නව මන්ත්‍රීවරුන් 5 දෙනෙකු දිව්රුම් දීමට නියමිතව තිබේ. ‍
-
-අනතුරුව නව කතානායකවරයෙකු තෝරාගන්නා බව පාර්ලිමේන්තුවේ වේත්‍රධාරි කුෂාන් සම්පත් ජයරත්න බීබීසී සිංහල වෙත කියා සිටියේ ය.
-
-...
-
-[Data](articles/45bbd484.json)
-
----
-
 ### Engaging civil society to further support education system in Sri Lanka
 
 *2024-12-17 01:20:04* · [`dailyftlk`](https://www.ft.lk/columns/Engaging-civil-society-to-further-support-education-system-in-Sri-Lanka/4-770600) · `en`
@@ -418,8 +384,6 @@ Family Movers (Pvt) Ltd – the leading all-in-one relocation service provider i
 
 [Data](articles/8921e7a4.json)
 
-[Extended Data](ext_articles/8921e7a4.ext.json)
-
 ---
 
 ### Lolc Al-Falaah voted Best Islamic Leasing Provider at ifn Global Poll 2024
@@ -431,8 +395,6 @@ LOLC Al-Falaah, the alternate financing unit of LOLC Finance, has once again cem
 ...
 
 [Data](articles/5798d8b4.json)
-
-[Extended Data](ext_articles/5798d8b4.ext.json)
 
 ---
 
@@ -985,20 +947,6 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 [Data](articles/a760c533.json)
 
 [Extended Data](ext_articles/a760c533.ext.json)
-
----
-
-### සතොසත් වී මිලදී ගැනීමට යයි
-
-*2024-12-16 19:07:51* · [`adalk`](https://www.ada.lk/breaking_news/සතොසත්-වී-මිලදී-ගැනීමට-යයි/11-413681) · `si`
-
-එළැඹෙන මහ කන්නයේදී සතොස හරහා ගොවීන්ගෙන් සාධාරණ මිලට වී මිලදී ගැනීමට කටයුතු කරන බව වෙළ﻿ඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පවසයි.
-
-එම වී තොග සහල් බවට පරිවර්තනය කිරීම රජය මැදිහත්ව සිදුකරන බවත් ඒ හරහා සහල් වෙළඳ පොළ තුලිතව පාලනය කිරීමට කටයුතු කරන බවද අමාත්‍යවරයා පැවැසීය.
-
-◼️
-
-[Data](articles/1259dd03.json)
 
 ---
 
@@ -2333,5 +2281,55 @@ Following the discussions, Memoranda of Understandings (MoU) on the avoidance of
 ...
 
 [Data](articles/0919f236.json)
+
+---
+
+### Joint News discussion conducted by the President and the Indian Prime Minister
+
+*2024-12-16 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204428) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"Joint press conference between Sri Lanka's President Anura Kumara Dissanayake and India's Prime Minister Narender Modi launched."
+
+🟩
+
+The Joint press conference also launched by President Anura Kumara Dissanayake and Indian Prime Minister Narelul.
+
+◼️
+
+[Data](articles/f26dcffb.json)
+
+[Extended Data](ext_articles/f26dcffb.ext.json)
+
+---
+
+### Two motorcycles collided head -on in Anuradhapura;One killed
+
+*2024-12-16 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201404) · `ta`
+
+Motorcycle collision kills one in Anuradhapura. Two vehicles crashed head-on on Vilachiya Road. Driver, 62, died from injuries. Police investigating cause.
+
+🟩
+
+Two motorcycles collided head -on in the Lolukaswewa area of ​​Vilachiya Road, Anuradhapura, police said.
+
+A motorcycle driver died after being admitted to the hospital after he was admitted to the hospital with serious injuries, police said.
+
+The incident took place on Sunday (15) at the Lolukaswewa area of ​​the Anuradhapura Police Division, the traffic police of the Anuradhapura Police Station.
+
+Lolukaswewa, a 62 -year -old man who lives in the Anuradhapura area, died in the incident.
+
+Further investigations by the police revealed that the motorcycle and a motorcycle in the opposite direction collided head -on from the Lolukaswewa area of ​​Vilachiya Road to Pasavakkulam.
+
+Further investigations into the incident are being carried out by the Anuradhapura Headquarters Police Station Traffic Police.
+
+◼️
+
+[Data](articles/150ab874.json)
+
+[Extended Data](ext_articles/150ab874.ext.json)
 
 ---

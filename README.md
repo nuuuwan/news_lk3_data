@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 15:02:06**
+As of **2024-12-17 15:27:19**
 
 ## Newspaper Stats
 
@@ -26,39 +26,55 @@ adaderanasinhalalk | 10,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,565 (99.9%) of 60,643 articles have been extended.
+60,570 (99.9%) of 60,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### பொலிஸ் தடுப்பு காவலில் இருந்து தப்பிச் சென்ற சந்தேக நபர் கைது
+### Suspect arrested for escape from police detention
 
 *2024-12-17 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201502) · `ta`
 
-பொலிஸ் தடுப்பு காவலில் இருந்து தப்பிச் சென்ற சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக தலாவ பொலிஸார் தெரிவித்தனர்.
+Arrested: 19-year-old escapes police detention, rearrested after fleeing CID fingerprinting. Incident occurred during investigation of home entry complaint.
 
-அநுராதபுரம், தலாவ கம்பிரிஸ்வெவ பகுதியைச் சேர்ந்த 19 வயதுடைய இளைஞரே கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேக நபர் தலாவ பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டிருந்த போது கைரேகைகளை பெற்றுக் கொள்வதற்காக குற்றப் புலனாய்வுப் பிரிவிற்கு அழைத்துச் செல்லப்பட்டு மீண்டும் பொலிஸ் நிலையத்திற்கு கொண்டு வரப்பட்ட வேளையில் பொலிஸ் காவலில் இருந்து தப்பிச் சென்றிருந்தார்.
+A suspect who escaped from police detention has been arrested on Monday (16), Talawa police said.
 
-சந்தேக நபர், கடந்த 12ஆம் திகதி வீடு புகுந்து சொத்துக்களை திருடிச் சென்ற சம்பவம் தொடர்பில் தலாவ பொலிஸாருக்கு கிடைக்கப்பெற்ற முறைப்பாட்டின் அடிப்படையில் கடந்த 14 ஆம் திகதி தலாவ பொலிஸாரால் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.
+The 19 -year -old youth from the Talawa Kambiriswewa area of ​​Anuradhapura has been arrested.
+
+The suspect was taken to the Criminal Investigation Department to get fingerprints at the Talawa police station and fled the police custody while brought back to the police station.
+
+It is noteworthy that the suspect was arrested by the Talawa police on the 14th of this month on a complaint made to the Talawa police in connection with the incident where the suspect had entered the house on the 12th.
 
 ◼️
 
 [Data](articles/0f5bb3eb.json)
 
+[Extended Data](ext_articles/0f5bb3eb.ext.json)
+
 ---
 
-### ஜனாதிபதி அநுரகுமார திஸாநாயக்க புத்த கயாவுக்கு விஜயம் !
+### President Anura Kumara Dissanayake visits Buddha Gaya
 
 *2024-12-17 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201503) · `ta`
 
-இந்தியாவுக்கு 3 நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருக்கும் ஜனாதிபதி அநுரகுமார திசாநாயக்க இன்று செவ்வாய்க்கிழமை (17) புத்த கயாவிலுள்ள மகாபோதிக்கு விஜயம் செய்துள்ளார்.
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake visited Mahabodhi Temple in Bodh Gaya during his 3-day India trip on Tuesday (17).
+
+🟩
+
+President Anura Kumara Dissanayake, who is on a three -day official visit to India, visited Mahabodi in Buddha Gaya on Tuesday (17).
 
 ◼️
 
 [Data](articles/04edebc0.json)
+
+[Extended Data](ext_articles/04edebc0.ext.json)
 
 ---
 
@@ -102,39 +118,61 @@ Furthermore, the court imposed an overseas travel ban against him until the hear
 
 [Data](articles/2d151b85.json)
 
+[Extended Data](ext_articles/2d151b85.ext.json)
+
 ---
 
-### வவுனியாவில் உள்நாட்டுத் துப்பாக்கிகளுடன் மூவர் கைது !
+### Three arrested with domestic guns in Vavuniya
 
 *2024-12-17 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201495) · `ta`
 
-வவுனியா - புளியங்குளம் பகுதியில் உள்நாட்டுத் துப்பாக்கிகளுடன் மூன்று சந்தேக நபர்கள் நேற்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுள்ளதாக புளியங்குளம் பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-புளியங்குளம் பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட மூன்று சுற்றிவளைப்புக்களின் போதே சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 18, 19 மற்றும் 24 வயதுடையவர்கள் ஆவர்.
+
+"3 arrested with homemade weapons in Vavuniya. Ages: 18, 19, 24. Arrested after 3 raids based on tip-offs."
+
+🟩
+
+Three suspects were arrested yesterday (16) with domestic guns in the Vavuniya - Puliyankulam area, Puliyankulam police said.
+
+The suspects have been arrested during three rounds carried out on the basis of confidential information received by Puliyankulam Police Station.
+
+The arrested suspects were 18, 19 and 24 years old.
 
 ◼️
 
 [Data](articles/1a1aa7a2.json)
 
+[Extended Data](ext_articles/1a1aa7a2.ext.json)
+
 ---
 
-### ආණ්ඩුවේ දූෂණ වංචා නොමැති නිසා අධ්‍යාපනය හොයනවා - අගමැතිනි
+### Due to the lack of corruption of the government, I'm looking for education - Prime Minister
 
 *2024-12-17 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204460) · `si`
 
-ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරුන්ගේ සුදුසුකම් සම්බන්ධව විපක්ෂය සෙවීමට උත්සාහ කරනුයේ ජාතික ජනබලවේග ආණ්ඩුවේ සොරකම් ගැන සෙවීමට නොහැකි නිසාවෙන් බව අග්‍රාමාත්‍ය හරිනි අමරසූරිය පවසයි.
+Here's a 200-character summary:
 
-අද (17) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඇය පැවසුවේ පෙර පැවැති රජයන්වල මන්ත්‍රීවරුන්, ඇමතිවරුන්ගේ සොයන ලද්දේ දූෂණ වංචා බවය.
 
-"අපේ ආණ්ඩුව ඇතුලේ ඉන්න මන්ත්‍රීවරුන්ගේ, ඇමතිවරුන්ගේ කොලෆිකේෂන් ගැන පුදුම උනන්දුවක් ඇතිවෙලා තියෙනවා. මෙතන ඉන්න අපි බොහෝ දෙනෙක්ගේ කොලෆිකේෂන් ගැන හොයනවා, සෙටිෆිකේට්ස් ඉල්ලනවා. අරක ඉල්ලනනවා... මේක ඉල්ලනවා.
 
-පුදුම උනන්දුවක් දක්වනවා. අපි එක අතකින් සතුටු වෙනවා ඉස්සර මේ අමාත්‍යවරුන්, ආණ්ඩු අයගේ අයගේ අධ්‍යාපන සුදුසුකම් ගැන නෙමේනේ හෙව්වේ. හොරකම් ගැන හෙව්වේ. අපේ හොරකම් ගැන හොයන්න බැහැනේ  ඉතිං ඒ නිසා අධ්‍යාපන සුදුසුකම් ගැන මෙච්චර උනන්දුවක් දක්වන එක ගැන මේක ටිකක් දියුණුවක් කියලා ගන්නත් පුළුවන්."
+Prime Minister Harini Amarasuriya accuses opposition of investigating government corruption regarding ruling party members' qualifications. She claims previous governments were corrupt and seeks transparency in ministers' educational backgrounds.
+
+🟩
+
+Prime Minister Harini Amarasuriya says that the opposition is trying to find the government's stealing regarding the qualifications of the ruling party members.
+
+Speaking in Parliament today (17), she said that MPs of previous governments and MPs were found to be corruption.
+
+"There is a wonderful interest in the Coluphas of the Ministers in our government. We're looking into the coluphas of so many of us, asking for the coluphas. Ask for the arrest ... Asking for this.
+
+Is a wonderful interest. We are happy with the ministers, governments, who were not the educational qualifications of their governments. He was looking for theft. Therefore, it is possible to make a little progress that we cannot find out about our heal. "
 
 ◼️
 
 [Data](articles/44070529.json)
+
+[Extended Data](ext_articles/44070529.ext.json)
 
 ---
 

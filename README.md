@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 16:42:39**
+As of **2024-12-17 17:02:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,577 (99.9%) of 60,656 articles have been extended.
+60,581 (99.9%) of 60,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,33 +132,57 @@ The Consumer Affairs Authority officials the customer service authority conducts
 
 ---
 
-### சகல உறுப்பினர்களின் உரிமைகளையும் பாதுகாப்பேன் பத்தாவது பாராளுமன்றம் நாட்டின் சக வாழ்வை மேம்படுத்த வேண்டும் - சபாநாயகர்
+### The Tenth Parliament will protect the rights of all members
 
 *2024-12-17 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201513) · `ta`
 
-சட்டவாக்கத்துறையின் கடமைகளை சிறந்த முறையில் நிறைவேற்றுவதற்கு அனைத்து உறுப்பினர்களின் ஒத்துழைப்புக்களையும் எதிர்பார்க்கிறேன். மக்கள் பிரதிநிதி என்ற வகையில் அனைத்து பாராளுமன்ற உறுப்பினர்களின் உரிமைகளையும், சிறப்புரிமைகளையும் பாதுகாப்பேன்.பத்தாவது பாராளுமன்றம் இனம், மதம் என்ற வரையறைகளுக்கு அப்பாற்பட்டு  நாட்டின் சகவாழ்வு மற்றும் மக்களின் அபிலாசைகள் ஆகியவற்றை  மேம்படுத்துவதற்கு  சிறந்த எடுத்துக்காட்டாக  செயற்பட  சகல உறுப்பினர்களின் ஒத்துழைப்பையும் எதிர்பார்க்கிறேன் என சபாநாயகர் வைத்தியர் ஜகத் விக்கிரமரத்ன  சபைக்கு அறிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்ற அமர்வு இன்று செவ்வாய்க்கிழமை (17) நடைபெற்றது. இதன்போது  சபைக்கு விசேட அறிவிப்பை விடுத்த சபாநாயகர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+
+Tenth Parliament protects rights, seeks member cooperation for better legislative performance. Speaker Jagath Wickramaratne emphasizes unity beyond racial religious differences.
+
+🟩
+
+I look forward to the cooperation of all members to fulfill the duties of the legislative sector better. Speaker Dr. Jagath Wickramaratne told the House that I would expect the cooperation of all members to act as an excellent example to improve the country's coexistence and the aspirations of the country beyond the definitions of race and religion.
+
+The parliamentary session was held on Tuesday (17). The Speaker made a special announcement to the House.
+
+I would like to express my sincere gratitude to all the Members of Parliament for the Choosing and congratulations to the Speaker of Parliament.. This parliament is more responsible than the past to fulfill the expectations and expectations of the nation.
+
+I am well aware that the arrangements of the constitution, the arrangements of the Parliamentary Standing Ordinance, and the examples of the former Speaker's examples of the examples of the former speakers are neutral, and the challenging responsibilities are given to the post of Speaker.
 
 ...
 
 [Data](articles/24854ad6.json)
 
+[Extended Data](ext_articles/24854ad6.ext.json)
+
 ---
 
-### ජනපති බුද්ධගයාවට යයි
+### President leaves Buddhagaya
 
 *2024-12-17 15:38:56* · [`adalk`](https://www.ada.lk/picture_story/ජනපති-බුද්ධගයාවට-යයි/10-413691) · `si`
 
-තෙදින ඉන්දීය නිල සංචාරයක නිරත වූ ජනපති අනුර කුමාර දිසානායක මහතා අද (17) පෙරවරුවේ ‍බුද්ධගයාවට පැමිණ සිදුහත් කුමරු බුද්ධත්වය ලැබූ ස්ථානයේ පිහිටා ඇති මහා විහාරය සහ ශ්‍රී මහා බෝධීන් වහන්සේ වැඳ පුදා ගෙන ආශීර්වාද ලබා ගත්තේය.
+Here's a 200-character summary:
 
-මෙහිදී ඉන්දියානු මහාබෝධි සමාගමේ මහ ලේකම් පූජ්‍ය පැලවත්තේ සීවලි ස්වාමීන්වහන්සේ සහ සාරනාත් මධ්‍යස්ථානාධිපති පූජ්‍ය රත්මල්වල සුමිත්තානන්ද ස්වාමීන්වහන්සේ ජනපතිවරයා වෙත ආශිර්වාද කරන ලදී.
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත්, කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු යන මහත්වරුද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+President Anura Kumara Dissanayake visited Buddhagaya, blessing Maha Vihara. Accompanied by officials, he attended ceremonies at Sri Maha Viharaya.
+
+🟩
+
+President Anura Kumara Dissanayake on a three-day Indian official visit to Buddhagaya this morning and had blessed the Maha Vihara and the Sri Maha Viharaya and the Sri Maha Viharaya.
+
+The General Secretary of the Maha Maha Secretary to the General Secretary of the Maha Sodhila, Ven.
+
+External Affairs, Foreign Employment and Tourism and Tourism Vijitha Herath, Labor Minister and Deputy Minister of Economic Development Vijaya Anil Jayantha Fernando were also present.
 
 ◼️
 
 [Data](articles/e02e6107.json)
+
+[Extended Data](ext_articles/e02e6107.ext.json)
 
 ---
 
@@ -184,19 +208,29 @@ PM Amarasuriya added that such scrutiny did not apply to the Ministers and MPs o
 
 ---
 
-### සජිත්ගේ අධ්‍යාපන සුදුසුකම් පාර්ලිමේන්තුවට ඉදිරිපත් කරන්න සැරසෙයි
+### Sajith's educational qualifications is to be presented to Parliament
 
 *2024-12-17 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204461) · `si`
 
-හෙට (18) උදෑසන තමා සතු සියලුම අධ්‍යාපන සුදුසුකම් පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (17) පාර්ලිමේන්තුවේදී පැවසීය.
+Here's a summary of 200 characters:
 
-ඔහු ඒ බව සඳහන් කළේ අමාත්‍ය නලින්ද ජයතිස්ස මහතා නැඟූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
 
-"හෙට උදේට මම ලබපු සියලුම අධ්‍යාපන සුදුසුකම් ටික මේ සභාවේ ඉදිරිපත් කරන්න අදහස් කරනවා. උපාධි සහතිකය පමණක් නොවෙයි. ඉන් ඔබ්බටත් ගිය හැම සහතිකයක්ම ඉදිරිපත් කරනවා."
+
+Sajith Premadasa promises to present all his educational qualifications in Parliament tomorrow, including certificates beyond his degree. He made this statement in response to a question from Minister Nalinda Jayatissa during a parliamentary session.
+
+🟩
+
+Leader of the Opposition Sajith Premadasa said in parliament today (17) this morning.
+
+He was responding to a question raised by Minister Nalinda Jayatissa.
+
+"All the educational qualifications I have received tomorrow morning means to come in this House. Not only the degree certificate.Every assurance beyond it is all. "
 
 ◼️
 
 [Data](articles/bf246494.json)
+
+[Extended Data](ext_articles/bf246494.ext.json)
 
 ---
 
@@ -215,6 +249,8 @@ The petitioning party has pointed out that it is unlawful to submit nominations 
 ...
 
 [Data](articles/a6153ead.json)
+
+[Extended Data](ext_articles/a6153ead.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 23:45:58**
+As of **2024-12-18 00:18:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,623 (99.9%) of 60,709 articles have been extended.
+60,624 (99.9%) of 60,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -578,21 +578,33 @@ Prime Minister Dr. Amarasuriya welcomed Mrs. Sang Tongmey and her delegation and
 
 ---
 
-### கொவிட் தொற்றால் மரணித்து தகனம் செய்தோரின் பெயர் விபரங்களை வெளியிடுவது எவ்வாறு மருத்துவ நெறிமுறைக்கு முரணாகிறது - ஹக்கீம் கேள்வி
+### How to release the name of the name of the cremators who died in a kovit
 
 *2024-12-17 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201525) · `ta`
 
-கொவிட் தொற்றில் மரணித்து தகனம் செய்யப்பட்டவர்களின் பெயர் விபரங்களை வெளியிடுவதற்கு வைத்திய நெறிமுறையில் இடமில்லை. அதனால் அனை வெளியிட முடியாது என சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிக்கிழமை (17) வாய்மூல விடைக்கான கேள்வி நேரத்தின்போது எதிர்க்கட்சி உறுப்பனிர் ரவூப் ஹக்கீம் கேட்ட கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
 
-ரவூப் ஹக்கீம் தனது கேள்வியில், கொவிட் 19 வைரஸ் தொற்றின் காரணமாக உயிரிழந்தவர்களின் சடலங்களை தகனம் செய்ய வேண்டும் என அரசாங்கத்தால் மேற்கொள்ளப்பட்ட தீர்மானத்துக்கு அமைவாக, தகனம் செய்யப்பட்ட சடலங்களின் எண்ணிக்கை யாது?
 
-அவ்வாறு மரணித்த ஒவ்வொரு நபரினதும் பெயர், பாலினம், இனம், சமயம் நெருங்கிய உறவினரின் பெயர், முகவரி, சடலம் தகனம் செய்யப்பட்ட திகதி மற்றும் இடம் தனித்தனியே தெரிவிக்க முடியுமா என கேட்கப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+Health Minister Nalinda Jayatissa refuses to release names of cremators who died from COVID-19, citing medical ethics. Opposition member Rauf Hakeem questions this decision, arguing it's crucial information for transparency.
+
+🟩
+
+There is no place for medical ethics to publish details. Health Minister Nalinda Jayatissa said that all could not be released.
+
+He was responding to a question asked by Opposition member Rauf Hakeem during the Question Time on Tuesday (17) in Parliament.
+
+In his question, Rauf Hakeem said, "What is the number of cremations burned in accordance with the government's decision to create the bodies of the victims of the Kovit 19 virus?"
+
+Responding to a question asked if the name, gender, race, religion of every person who died, the name, address, body of the body, the date of cremation and the place of cremation could be reported separately.
+
+13183 people have been cremated in the death of Kovit. However, the name, gender, ethnicity, religion, the name, address, body cremation date and location are unable to publish information.. This is because these issues cannot be revealed in accordance with the Basic Ethics of the Information Act No. 12, 2016.
 
 ...
 
 [Data](articles/8a37f274.json)
+
+[Extended Data](ext_articles/8a37f274.ext.json)
 
 ---
 

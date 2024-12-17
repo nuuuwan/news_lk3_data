@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 17:12:00**
+As of **2024-12-17 17:44:30**
 
 ## Newspaper Stats
 
-*Scraped **60,657** Articles*
+*Scraped **60,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,100 @@ economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,777
-adaderanalk | 7,397
-tamilmirrorlk | 8,663
+adaderanalk | 7,399
+tamilmirrorlk | 8,664
 virakesarilk | 9,992
-adaderanasinhalalk | 10,482
+adaderanasinhalalk | 10,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,581 (99.9%) of 60,657 articles have been extended.
+60,585 (99.9%) of 60,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### හිටපු ජනපතිවරුන්ගේ ත්‍රිවිධ හමුදා ආරක්ෂාව ලබන සතියේදී ඉවතට
+### හිටපු ජනපති රනිල්ගෙන් ජනපති අනුර ට ප්‍රශංසා
+
+*2024-12-17 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204465) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සහ ජනාධිපති අනුර කුමාර දිසානායක යන මහත්වරුන් ඊයේ (16) නවදිල්ලියේ දී නිකුත් කරන ලද ඒකාබද්ධ ප්‍රකාශය ඉන්දු-ලංකා සහයෝගීතාව තවදුරටත් ස්ථායිකර ශක්තිමත් කරවන බැවින් එය සාදරයෙන් පිළිගන්නා වර්ධනයක් බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් හිටපු ජනාධිපතිවරයා මේ බව සඳහන් කර තිබේ.
+
+එහි වැඩිදුරටත් සඳහන් වන්නේ කලාපීය බලශක්ති සහ කාර්මික කේන්ද්‍රස්ථානයක් ලෙස ත්‍රිකුණාමලය සංවර්ධනය කරමින්, ආර්ථික හා තාක්ෂණික සහයෝගීතා ගිවිසුම සමඟින් ඉදිරියටයාම පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතාට ප්‍රශංසා කරන බවය.
+
+◼️
+
+[Data](articles/fd9c5a80.json)
+
+---
+
+### මහින්දගේ ආරක්ෂාව කප්පාදු කිරීම ගැන ඩි වී චානක ප්‍රශ්න කරයි
+
+*2024-12-17 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204464) · `si`
+
+හිටපු ජනාධිපතිවරුන් වන මහින්ද රාජපක්ෂ මහතාට සහ රනිල් වික්‍රමසිංහ මහතාට එකම මට්ටමේ ආරක්ෂාවක් ලබාදීමට තීන්දු කළේ කුමන පදනමක් යටතේ ද යන්න පාර්ලිමේන්තු මන්ත්‍රී ඩි. වී. චානක මහතා අද (17) පාර්ලිමේන්තුවේදී ප්‍රශ්න කළේය.
+
+ඔහු පැවසුවේ හිටපු ජනාධිපති මහින්ද රජපක්ෂ මහතාගේ ආරක්ෂාව වෙනුවෙන් යොදවා සිටි ත්‍රිවිධ හමුදාවේ ආරක්ෂක නිලධාරීන් සියලුදෙනා ඉවත් කිරීමට වත්මන් ආණ්ඩුව කටයුතු කරන බවට වාර්තා වී ඇති බවය.
+
+...
+
+[Data](articles/0aadad49.json)
+
+---
+
+### Sajith to present all his educational qualifications to Parliament tomorrow
+
+*2024-12-17 16:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104314/sajith-to-present-all-his-educational-qualifications-to-parliament-tomorrow) · `en`
+
+Opposition Leader Sajith Premadasa stated in Parliament today (17) that he will present all of his educational qualification certificates to the House tomorrow morning (18).
+
+He made this statement in response to a question raised by Minister Dr. Nalinda Jayatissa.
+
+“I plan to present all the educational qualifications I have obtained to the Parliament tomorrow morning. Not just the degree certificate but all the other additional certificates as well,” the Opposition Leader added.
+
+◼️
+
+[Data](articles/92b7aed5.json)
+
+---
+
+### Armed Forces 'armed Forces' protection removed next week
 
 *2024-12-17 16:23:12* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-ත්‍රිවිධ-හමුදා-ආරක්ෂාව-ලබන-සතියේදී-ඉවතට/11-413694) · `si`
 
-හිටපු ජනපතිවරුන්ට ලබාදී ඇති ත්‍රිවිධ හමුදා ආරක්ෂාව ලබන සතියේදී ඉවත් කරන බවත් හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව මාස හයකට වරක් තක්සේරු කරන බවත් මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා අද පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කරමින් පැවැසීය.
+Here's a summary of 200 characters:
 
-හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාට පොලීස් නිලධාරීන් 60ක් ත්‍රිවිධ හමුදාවේ නිලධාරීන් 228ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස 11 හමාරක කාලය තුළ රුපියල් මිලියන 710ක වැය බරක් දරා ඇත.
 
-හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාට පොලීස් නිලධාරීන් 60ක් ත්‍රිවිධ හමුදාවේ නිලධාරීන් 4ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස 11 හමාරක කාලය තුළ රුපියල් මිලියන 207ක වැය බරක් දරා ඇත.
 
-හිටපු ජනපති ගෝඨාභය රාජපක්ෂ මහතාට පොලීස් නිලධාරීන් 22ක් ත්‍රිවිධ හමුදාවේ නිලධාරීන් 188ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස 11 හමාරක කාලය තුළ රුපියල් මිලියන 367ක වැය බරක් දරා ඇත.
+Defense Minister Ananda Wijepala announces removal of presidential security next week. Former presidents Mahinda Rajapaksa, Maithripala Sirisena, Gotabhaya Rajapaksa, Ranil Wickremesinghe, Chandrika Bandaranaike, and Hema Premadasa had varying levels of protection and costs over 11.5 months.
 
-හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතාට පොලීස් නිලධාරීන් 60ක්  ත්‍රිවිධ හමුදාවේ නිලධාරීන් 57ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස දෙකක කාලය තුළ රුපියල් මිලියන 82ක වැය බරක් දරා ඇත.
+🟩
+
+The Minister of Defense Minister Ananda Wijepala said that the security former president will be removed from next week and assessed the security of the former Presidentials.
+
+The former President Mahinda Rajapaksa has provided 228 police officers and Rs. 710 million has been buried during the 11 and a half months.
+
+Former President Maithripala Sirisena has provided security of six police officers and four million officers have been protected and Rs.
+
+Former President Gotabhaya Rajapaksa has provided 228 police officers and Rs. 367 million has been buried during the 11 and a half months.
+
+Former President Ranil Wickremesinghe has been provided with 57 police officers and Rs. 82 million for two months.
+
+Former President Chandrika Bandaranaike has been buried at 11 and a half months for 60 police officers.
+
+Ms. Hema Premadasa has provided the security of 10 police officers and 11 and a half months Rs. 32.
+
+The Minister pointed out that Rs.
 
 ...
 
 [Data](articles/8f506024.json)
+
+[Extended Data](ext_articles/8f506024.ext.json)
 
 ---
 
@@ -109,6 +171,48 @@ W. Fonseka (not Sarath Fonseka) - Rs. 55
 [Data](articles/ffc22abe.json)
 
 [Extended Data](ext_articles/ffc22abe.ext.json)
+
+---
+
+### Sri Lanka’s economy grows 5.5% in Q3 2024
+
+*2024-12-17 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104313/sri-lankas-economy-grows-55-in-q3-2024-) · `en`
+
+The year-on-year GDP growth rate for the third quarter of 2024 has been reported as 5.5 percent of positive growth rate, the Department of Census and Statistics indicated.
+
+Accordingly, the GDP for the third quarter of 2024 at constant price (2015) has increased up to Rs. 3,151,941 million from Rs. 2,987,544 million which recorded in the third quarter of 2023.
+
+The year-on-year GDP growth rate for the third quarter of year 2024 has been reported as 5.5 percent of positive growth rate, while the Agricultural, Industrial and Services activities expanded by 3.0 percent, 10.8 percent and 2.6 percent respectively in the third quarter of 2024, according to the department.
+
+◼️
+
+[Data](articles/a09c5853.json)
+
+---
+
+### The petition is being heard against Archana
+
+*2024-12-17 15:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-எதிராக-மனு-விசாரணைக்கு-வருகிறது/175-348844) · `ta`
+
+Petition against Archana: Osala Herath seeks invalidation of her parliament seat. Case to be heard Jan 15. Court considers petition. Defendants: Arjuna Ramanathan and Parliament Secretary General. Petitioner claims Arjuna should've resigned before contesting.
+
+🟩
+
+The petition filed by Abhinava Nisaba Peramuna's leader Osala Herath, demanding the invalid of the parliamentarian of Dr. Archana Ramanathan, will be taken up for consideration on January 15 next year.
+
+The petition was considered on Tuesday (17) in the presence of a session of the Court of Appeal, Sobhitha Rajakaruna and Mahan Gopallawa.
+
+The defendants of the petition were Member of Parliament Dr. Arjuna Ramanathan and the Secretary General of Parliament.
+
+Dr. Arjuna Ramanathan, a Member of Parliament, served as a government doctor while contesting for parliament.
+
+The petitioner stated in his petition that according to the parliamentary election and other constitutional law, he should have resigned from his post while contesting the parliamentary elections, but he did not do so.
+
+◼️
+
+[Data](articles/1879e873.json)
+
+[Extended Data](ext_articles/1879e873.ext.json)
 
 ---
 
@@ -320,17 +424,27 @@ President Anura Kumara Dissanayake, who is on a three -day official visit to Ind
 
 ---
 
-### නව මන්ත්‍රීවරුන් සිව්දෙනෙකු දිවුරුම් දෙයි
+### Four new MPs sworn in
 
 *2024-12-17 14:09:15* · [`adalk`](https://www.ada.lk/breaking_news/නව-මන්ත්‍රීවරුන්-සිව්දෙනෙකු-දිවුරුම්-දෙයි/11-413690) · `si`
 
-දසවැනි පාර්ලිමේන්තුවේ නව පාර්ලිමේන්තු මන්ත්‍රීවරු සිව්දෙනෙක් නියෝජ්‍ය කථානායක වෛද්‍ය රිස්වි සාලි මහතා ඉදිරියේ ඊයේ (17දා) දිවුරුම් දුන්හ.
+Here's a summary in 200 characters:
 
-සමගි ජන බලවේගය නියෝජනය කරමින් ජාතික ලැයිතු මන්ත්‍රීවරුන් ලෙස සුජීව සේනසිංහ, මුහම්මදු ඉස්මායිල් මුත්තු මුහම්මදු සහ මනෝ ගනේෂන් යන මන්ත්‍රීවරුන් සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නියෝජනය කරමින් ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස ෆයිෂර් මුස්තාෆා යන මන්ත්‍රීවරුන් මෙසේ දිවුරුම් දුන්හ.
+
+
+"4 new MPs sworn in: Fishers Mustafa (National List) & Manoil Pattu (New Democratic Front) join 3rd Parliament."
+
+🟩
+
+Four new Members of Parliament in the Third Parliament took oaths before Deputy Speaker Dr. Risvi Sally yesterday (17).
+
+As a National List MP, Fishers Mustafa represent a national list of Muhammudu Muhammudu Muhammudu Muhammudu Muhammudu Muhammudu Muhammudu Muhammudu Muhammudu Muhammudu and Manoil Pattu and the New Democratic Front.
 
 ◼️
 
 [Data](articles/312fec99.json)
+
+[Extended Data](ext_articles/312fec99.ext.json)
 
 ---
 
@@ -682,19 +796,31 @@ In such cases, security authorities have been ordered to handle the situation wi
 
 ---
 
-### வைத்தியர் அருச்சுனா மற்றும் சட்டத்தரணிக்கு பிணை
+### Bail for the doctor Aruchuna and the lawyer
 
 *2024-12-17 11:58:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அருச்சுனா-மற்றும்-சட்டத்தரணிக்கு-பிணை/175-348838) · `ta`
 
-யாழ்ப்பாண போதனா வைத்தியசாலைக்குள் அத்துமீறி நுழைந்தமை தொடர்பிலான வழக்கில் நாடாளுமன்ற உறுப்பினர் வைத்தியர் அருச்சுனா இராமநாதன் மற்றும் சட்டத்தரணி என். கௌசல்யா ஆகியோரை தலா 100,000 ரூபாய் பெறுமதியான ஆள் பிணையில் செல்ல யாழ். நீதவான் நீதிமன்றம் அனுமதித்துள்ளது.
+Doctor Aruchuna and lawyer granted bail. Magistrate warns against disrupting hospital operations. Case adjourned to Feb 7. Hospital bars MP entry without permission. Security to escort MP to police if unauthorized access attempted.
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குள் கடந்த வாரம் நாடாளுமன்ற உறுப்பினர் வைத்தியர் அருச்சுனா மற்றும் சட்டத்தரணி என். கௌசல்யா ஆகியோர் அத்துமீறி நுழைந்து வைத்தியர்களின் கடமைக்கு இடையூறு விளைவித்ததாக வைத்தியசாலை பணிப்பாளர் த. சத்தியமூர்த்தி யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+🟩
 
-குறித்த வழக்கு திங்கட்கிழமை யாழ். நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோthu, குற்றம் சாட்டப்பட்ட வைத்தியர் மற்றும் சட்டத்தரணி ஆகிய இருவரும் மன்றில் முன்னிலையாகி இருந்தனர்.
+Parliamentarian Aruchuna Ramanathan and Attorney N.. Kausalya is worth Rs.. The Magistrate's Court has allowed.
+
+Parliamentarian Aruchuna and Attorney N.. The Director of the Hospital has interrupted the doctors' duty. Sathyamoorthy had lodged a complaint at the Jaffna Police Station.
+
+Jaffna on Monday. The Thu, the accused doctor and the lawyer were present in the forum, while he was taken up for hearing at the Magistrate's Court.
+
+During the hearing, the magistrate advised the suspects not to engage in activities such as infringement and disruption to the complainant without the permission of the Director, and allowed the suspects to go on bail of Rs 100,000 each.
+
+The Magistrate, who advised the police to obtain the advice of the Attorney General on the case, adjourned the case to February 07.
+
+The court has also banned the hospital administration to obtain permission from the hospital in order to go to the Jaffna Bodhana Hospital.
 
 ...
 
 [Data](articles/d017084c.json)
+
+[Extended Data](ext_articles/d017084c.ext.json)
 
 ---
 
@@ -1052,7 +1178,7 @@ Sri Lanka, which defaulted on its foreign debt for the first time in May 2022 du
 
 ---
 
-### Sri Lanka ISB holders get US$10.4bn and Rs155bn bonds in default exchange
+### Sri Lanka ISB holders to get US$10.4bn and Rs155bn in new bonds on Dec 20
 
 *2024-12-17 10:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-holders-get-us10-4bn-and-rs155bn-bonds-in-default-exchange-194677/) · `en`
 
@@ -2221,85 +2347,5 @@ Leader Minister Bimal Ratnayake (December 16) at a press conference held at a pr
 [Data](articles/45bbd484.json)
 
 [Extended Data](ext_articles/45bbd484.ext.json)
-
----
-
-### Engaging civil society to further support education system in Sri Lanka
-
-*2024-12-17 01:20:04* · [`dailyftlk`](https://www.ft.lk/columns/Engaging-civil-society-to-further-support-education-system-in-Sri-Lanka/4-770600) · `en`
-
-When reviewing civil society’s involvement in supporting the education system in Sri Lanka, we find that existing opportunities are minimum. It is not that civil society in Sri Lanka has not contributed – however given the vast potential for collaboration and partnership, impact has been limited, largely due to the ad hoc nature of interventions.
-
-The role of civil society and contribution towards development cannot be undermined. Recently UN Secretary-General António Guterres’s remarks to the United Nations Civil Society Conference in support of the Summit of the Future on 14 May 2024, further reiterated the importance of this role: “Time and again, I have witnessed the enormous impact of civil society in every corner of the world. I see you easing suffering, pushing for peace and justice, mobilising for change.”
-
-...
-
-[Data](articles/a3edf087.json)
-
-[Extended Data](ext_articles/a3edf087.ext.json)
-
----
-
-### Misalignment: Unnoticed culprit in organisational ineffectiveness
-
-*2024-12-17 01:11:25* · [`dailyftlk`](https://www.ft.lk/columns/Misalignment-Unnoticed-culprit-in-organisational-ineffectiveness/4-770599) · `en`
-
-Organisational misalignment is the silent killer of a business’s effectiveness and prosperity
-
-Achieving the level of organisational alignment needed to provide a competitive advantage is not an easy task in today’s fast-paced business environment. Businesses today are more complex than ever before. Market conditions and working environments are evolving at an accelerated pace, making it imperative for businesses to react and make decisions quickly. To respond successfully to change, organisations need a clear understanding of their processes, tools, and data and how they all fit together. If this does not happen effectively, an inevitable corollary is the formation of organisational silos
-
-...
-
-[Data](articles/4dcef59c.json)
-
-[Extended Data](ext_articles/4dcef59c.ext.json)
-
----
-
-### Has NPP Government ever thought about cleaning this “vulgarised society”?
-
-*2024-12-17 01:00:49* · [`dailyftlk`](https://www.ft.lk/columns/Has-NPP-Government-ever-thought-about-cleaning-this-vulgarised-society/4-770598) · `en`
-
-This country now needs a system of responsible governance that can clean up the State, and resurrect a decent and civilised society
-
-Here in Sri Lanka, we need a government with a plan to arrest this massive breakdown of the social fabric. Breakdown in social responsibility, ethics, social values, discipline, respect and dignity of private and community life. It needs an integrated program to simultaneously clean up the whole State machinery as well. Make it clean and efficient in handling issues with social responsibility. Can the NPP Government therefore present its social development program in detail, including reforms they propose to clean up the State machinery? In short, what is their program to reduce growing numbers in crime?
-
-...
-
-[Data](articles/e0f0ee50.json)
-
-[Extended Data](ext_articles/e0f0ee50.ext.json)
-
----
-
-### Reforming Sri Lanka’s public sector: Pathway to sustainable development
-
-*2024-12-17 00:54:44* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-Sri-Lanka-s-public-sector-Pathway-to-sustainable-development/4-770597) · `en`
-
-As Sri Lanka charts its path toward recovery and development, the public sector must evolve into a catalyst for progress rather than a constraint
-
-Sri Lanka’s public sector has become a focal point of intense debate, reflecting its critical role in governance, service delivery, and employment. However, its inefficiencies, fiscal burdens, and disparities in resource allocation have come under sharp scrutiny amid escalating economic pressures. The expanding public workforce, while offering job security and supporting livelihoods, poses pressing challenges that demand urgent attention. Modernising and innovating this pivotal sector, along with ensuring fair and effective resource distribution, is essential to overcoming these hurdles and steering Sri Lanka toward sustainable development.
-
-...
-
-[Data](articles/f4e5de8d.json)
-
-[Extended Data](ext_articles/f4e5de8d.ext.json)
-
----
-
-### Hidden cost of traffic lights: Colombo’s silent economic burden
-
-*2024-12-17 00:46:02* · [`dailyftlk`](https://www.ft.lk/columns/Hidden-cost-of-traffic-lights-Colombo-s-silent-economic-burden/4-770596) · `en`
-
-Approximately one million commuters lose an hour in traffic on a daily basis
-
-Adding insult to injury, during peak hours, these high-tech traffic lights are often switched off, with traffic police manually directing vehicles. This is not only a waste of investment but also doubles operational costs, as manpower replaces technology. Such inefficiencies reflect a broader systemic failure: investments made without proper monitoring or outcome evaluation
-
-...
-
-[Data](articles/cc5d7648.json)
-
-[Extended Data](ext_articles/cc5d7648.ext.json)
 
 ---

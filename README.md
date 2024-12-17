@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 13:27:00**
+As of **2024-12-17 13:44:26**
 
 ## Newspaper Stats
 
-*Scraped **60,629** Articles*
+*Scraped **60,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,59 +12,159 @@ newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 635
-islandlk | 3,667
+islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,771
 adaderanalk | 7,393
 tamilmirrorlk | 8,660
-virakesarilk | 9,985
-adaderanasinhalalk | 10,477
+virakesarilk | 9,987
+adaderanasinhalalk | 10,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,553 (99.9%) of 60,629 articles have been extended.
+60,558 (99.9%) of 60,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### தோட்ட உட்கட்டமைப்பு அமைச்சின் வழிகாட்டலில் மலையக இளைஞர், யுவதிகளுக்கு தொழில் வழிகாட்டல் செயலமர்வு
+### 4 National List Members of Parliament as Members of Parliament
+
+*2024-12-17 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201478) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Four new National List MPs sworn in: Arjuna Sujeewa Senasinghe, Mohammed Ismail Muthu Muhammad, Mano Ganesha, and Faizer Mustafa. Representing United People's Power and New Democratic Front parties."
+
+🟩
+
+Four new Members of Parliament in the Tenth Parliament were sworn in on Tuesday (17) in the presence of Deputy Speaker of the House, Rizvi Sally.
+
+Arjuna Sujeewa Senasinghe, Mohammed Ismail Muthu Muhammad, Mano Ganesha and Mano Ganesha as National List MPs representing the United People's Power and Hon.
+
+After the swearing in the presence of the Deputy Speaker, they also signed the Members of Parliament in the presence of Parliamentary Secretary Kushani Rohanadeera.
+
+The first session of the tenth parliament was held on November 21 and the new members were sworn in that day.. Four National List for the United People's Power has not been released in the name of the Gazette. On the 12th, the Election Commission issued a gazette containing the names of the new MPs. Accordingly, three of the four national list MPs sworn in today.
+
+...
+
+[Data](articles/3859c15b.json)
+
+[Extended Data](ext_articles/3859c15b.ext.json)
+
+---
+
+### Duration of the Ministry of Health on a matter of corruption
+
+*2024-12-17 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204459) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Colombo High Court case: Minister of Health faces trial over 2015 bribery allegations involving a biomedical engineer at the Ministry of Health.
+
+🟩
+
+The Minister of Health was held in the Colombo High Court today (17) against a biomedical engineer attached to a biomedical engineer attached to the Biological Engineer at the Ministry of Health in 2015.
+
+The indictments were filed by the Bribery Commission before Colombo High Court Judge Navaratne Marasinghe today.
+
+◼️
+
+[Data](articles/97e92aad.json)
+
+[Extended Data](ext_articles/97e92aad.ext.json)
+
+---
+
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2024-12-17 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201492) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (17)  மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.4435 ரூபா ஆகவும் விற்பனை விலை 295.0915 ரூபா ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/31baf383.json)
+
+---
+
+### ரஷ்யாவின் கதிரியக்க, இரசாயன, உயிரியல் பாதுகாப்புப் படைப்பிரிவின் தளபதி குண்டு வெடிப்பில் பலி
+
+*2024-12-17 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201499) · `ta`
+
+மொஸ்கோவில் இடம்பெற்ற குண்டுவெடிப்பில், ரஷ்யாவின் கதிரியக்க, இரசாயன, உயிரியல் பாதுகாப்புப் படைப்பிரிவின் தளபதியும் அவரது உதவியாளரும் உயிரிழந்துள்ளனர்.
+
+கதிரியக்க, இரசாயன, உயிரியல் பாதுகாப்புப் படைப்பிரிவின் தளபதியான லெப்டினன்ட் ஜெனரல் இகோர் கிரில்லோவ் செவ்வாய்கிழமை அதிகாலை குடியிருப்புத் தொகுதியிலிருந்து வெளியேறும்போது மின்சார ஸ்கூட்டரில் மறைத்து வைக்கப்பட்டிருந்த சாதனம் வெடிக்கச் செய்யப்பட்டதாக ரஷ்யாவின் விசாரணைக் குழு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6e1d02f4.json)
+
+---
+
+### Under the guidance of the Ministry of Plantation Infrastructure
 
 *2024-12-17 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201489) · `ta`
 
-பதுளை மாவட்டத்தில் உள்ள மலையக இளைஞர், யுவதிகளுக்கு தொழில் வாய்ப்புகளை பெற்றுக் கொடுப்பதற்கான விசேட தொழில் வழிகாட்டல் பயிற்சி கருத்தரங்கு தோட்ட உட்கட்டமைப்பு அமைச்சின் ஆலோசனை வழிகாட்டலின் கீழ் எதிர்வரும் 19 ஆம் திகதி மு.ப.9.00 மணிக்கு ஊவா மாகாண சபை கேட்போர் கூடத்தில் நடைபெறவுள்ளது.
+Here's a summary of 200 characters:
 
-இக்கருத்தரங்கிற்கு வெளிநாட்டு வேலைவாய்ப்பு பணியகம், இலங்கை ஹோட்டல் முகாமைத்துவ மற்றும் சுற்றுலா அதிகார சபை, தேசிய இளைஞர் சேவைகள் மன்றம், தேசிய தொழிற்பயிற்சிகள் முகாமைத்துவ நிலையம், ஊவா மாகாண சபை, தொழில்நுட்பக் கல்லூரி, கைத்தொழில் அமைச்சு, பொறியியல் கல்லூரி மற்றும்  வீதி அபிவிருத்தி அதிகார சபை ஆகிய அரச நிறுவனங்கள் அனுசரணை வழங்குகின்றன.
 
-கருத்தரங்கில் கலந்து கொள்ளவுள்ளோர் 0760787141, 0750461915, 0779270057, 0772042674 ஆகிய தொலைபேசி இலக்கங்களுடன் தொடர்பு கொண்டு மேலதிக தகவல்களை பெற்றுக் கொள்ளுமாறு ஏற்பாட்டாளர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+Employment seminar for youth in Badulla district on 19th. Organized by Ministry of Plantation Infrastructure & partners. Contact: 0760787141, 0750461915, 0779270057, 0772042674.
+
+🟩
+
+A special professional guidance training seminar for providing employment opportunities to the youth and youth in Badulla district will be held at the Uva Provincial Council auditorium at 9.00 pm on the 19th of this month.
+
+The Foreign Employment Bureau, Sri Lanka Hotel Management and Tourism Authority, National Youth Services Council, National Vocational Training Management Center, Uva Provincial Council, Technical College, Industrial Ministry, Engineering College and Road Development Authority.
+
+Those who attend the seminar have been requested to contact 0760787141, 0750461915, 0779270057 and 0772042674.
 
 ◼️
 
 [Data](articles/7a551475.json)
 
+[Extended Data](ext_articles/7a551475.ext.json)
+
 ---
 
-### හිටපු ජනපතිවරුට ලබා දී ඇති ත්‍රිවිධ හමුදාව ලබන සතියේ සිට ඉවතට
+### The three armed former presidents have been removed from next week
 
 *2024-12-17 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204458) · `si`
 
-පොලීසිය විසින් සපයා ඇති ආරක්ෂාව හැරුණු කොට හිටපු ජනාධිපතිවරුන් වෙත ලබා දී ඇති සියලුම ත්‍රිවිධ හමුදා එලැඹෙන සතියේ සිට ඉවත් කිරීමට පියවර ගන්නා බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-අද පාර්ලිමේන්තුවේදී මේ සම්බන්ධව අදහස් දක්වමින් ඔහු පැවසුවේ මාස 6කට වරක් කරනු ලබන ආරක්ෂක තක්සේරුවේදී ඊට අනුකූලව ආරක්ෂාව සපයනු ඇති බවය.
 
-මෙහිදී අමාත්‍යවරයා හිටපු ජනාධිපතිවරුන් වෙනුවෙන් යොදවා ඇති ආරක්ෂක නිලධාරීන් ප්‍රමාණයද අමාත්‍යවරයා මෙහිදි කරුනු අනාවරණය කරනු ලැබීය.
 
-එහිදී අදහස් දක්වමින් ඔහු පැවසුවේ මහජනතාවගේ මුදල් රජය විසින් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව වෙනුවෙන් වැය කරනු ලබන අතර එම මුදල රුපියල් මිලියන 1448ක් බවය.
+Three former presidents' security details reduced. Presidential Defense Minister Ananda Wijepala announced removal of armed forces for ex-presidents. Security reassessment every 6 months. Cost: Rs. 1,448 million. Details vary per president.
 
-"අදත් හිටපු ජනාධිප මහින්ද රාජපක්ෂ මහතාට පොලීසියේ 60ක් සහ ත්‍රිවිධ හමුදාවේ 228ක් වශයෙන් නිලධාරීන් ආරක්ෂාවට සහ අනෙකුත් කටයුතුවලට යොදලා තියෙනවා. මෛත්‍රිපාල සිරිසේන හිටපු ජනාධිපතිවරයාට හමුදා නිලධාරීන් 4ක් සහ පොලිස් නිලධාරීන් 60ක් ආරක්ෂකයින් වශයෙන් යොදලා තියෙනවා.
+🟩
+
+According to the Presidential Defense Minister Ananda Wijepala, the three Armed Forces given to former presidents have been removed from the pursuit of former presidents.
+
+In Parliament today, he said that he would provide security in accordance with security assessment every six months.
+
+The Minister also revealed the amount of security personnel deployed for the former presidents.
+
+Speaking athe, he said that the government's money is spent on the safety of former presidents and that Rs. 1448 million.
+
+"Former President Mahinda Rajapaksa today, 60 policemen have been deployed and 228 of the three-armed forces. Maithripala Sirisena has been deployed former President and 60 policemen.
+
+The President has also provided security forces 188 and 22 policemen in the three armed forces. Ranil Wickremesinghe has been deployed for the former President, former President Chandrika Bandaranaike, 60 policemen to be protected today. "
 
 ...
 
 [Data](articles/99e97f66.json)
+
+[Extended Data](ext_articles/99e97f66.ext.json)
 
 ---
 
@@ -141,6 +241,8 @@ Russia’s radioactive, chemical and biological defence troops, known as RKhBZ, 
 ◼️
 
 [Data](articles/57d2f538.json)
+
+[Extended Data](ext_articles/57d2f538.ext.json)
 
 ---
 
@@ -773,18 +875,6 @@ Scholars such as Al-Barafi, Ibn Sina (Avisenna), and Al-Quarismmi have written a
 [Data](articles/e1d4f9fc.json)
 
 [Extended Data](ext_articles/e1d4f9fc.ext.json)
-
----
-
-### 4 தேசிய பட்டியல் உறுப்பினர்கள் பாராளுமன்ற உறுப்பினர்களாக சத்தியப்பிரமாணம்
-
-*2024-12-17 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201478) · `ta`
-
-ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினர்களான மனோ கணேஷன், முஹம்மது இஸ்மாயில் முத்து முஹம்மது மற்றும் சுஜீவ சேனசிங்க மற்றும்  புதிய ஜனநாயக முன்னணியின்  தேசிய பட்டியல் உறுப்பினரான பைஸர் முஸ்தபா ஆகியோர் இன்று செவ்வாய்க்கிழமை (17) பாராளுமன்ற உறுப்பினர்களாக சத்தியப்பிரமாணம் செய்துகொண்டனர்.
-
-◼️
-
-[Data](articles/3859c15b.json)
 
 ---
 
@@ -1752,6 +1842,28 @@ LOLC Al-Falaah, the alternate financing unit of LOLC Finance, has once again cem
 
 ---
 
+### Special training on the ills of dangerous drug addiction
+
+*2024-12-16 22:55:00* · [`islandlk`](http://island.lk/special-training-on-the-ills-of-dangerous-drug-addiction/) · `en`
+
+Kangaroo Cabs Pvt. Ltd. conducted a one-day training program, as a corporate social responsibility project recently, for its chauffeurs to inform them of the ills of dangerous drug addiction. The event was held at Hotel Viluxey, Maharagama, under the direction of the company’s top management with Director Operations Thushara Fonseka playing a key role in the venture.
+
+The special training event also saw the participation of Deputy Director of the Police Narcotic Bureau (PNB) ASP Namal Perera, who imparted instructions to the chauffeurs under the direction of DIG Oshana Hewawitharana of the PNB.
+
+Kandy to get a mega bookstore from a publisher who learned the trade page-by-page
+
+Lolc Al-Falaah voted Best Islamic Leasing Provider at ifn Global Poll 2024
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/d6e94306.json)
+
+---
+
 ### Bourse’s bullishness enhances as external bond exchange process concludes
 
 *2024-12-16 22:52:00* · [`islandlk`](http://island.lk/bourses-bullishness-enhances-as-external-bond-exchange-process-concludes/) · `en`
@@ -1767,6 +1879,20 @@ Amid those developments, the All Share Price Index went up by 295.10 points, whi
 [Data](articles/2ecef353.json)
 
 [Extended Data](ext_articles/2ecef353.ext.json)
+
+---
+
+### Kandy to get a mega bookstore from a publisher who learned the trade page-by-page
+
+*2024-12-16 22:52:00* · [`islandlk`](http://island.lk/kandy-to-get-a-mega-bookstore-from-a-publisher-who-learned-the-trade-page-by-page/) · `en`
+
+Kandy, the largest city in the Central Province of Sri Lanka, will see the grand opening of a mega, cozy bookstore on 20th December 2024, equal in importance or quality to any highly patronized bookstore in Colombo, N.B. Basnayake, Managing Director of N.B. Basnayake Company Pvt. Ltd., told The Island Financial Review last week.
+
+We listened to the entrepreneurial journey of the man born in Hasalaka and studied at Rahula Vidyalaya, Katugastota who had his nose buried in the library books during his school days and came up the hard way.
+
+...
+
+[Data](articles/6e485a70.json)
 
 ---
 
@@ -2157,121 +2283,5 @@ This was followed by a meeting between Indian Health Minister and Bharatiya Jana
 [Data](articles/f2ba3106.json)
 
 [Extended Data](ext_articles/f2ba3106.ext.json)
-
----
-
-### President AKD meets India’s Vice President and Health Minister
-
-*2024-12-16 20:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104289/president-akd-meets-indias-vice-president-and-health-minister) · `en`
-
-President Anura Kumara Dissanayake held a meeting with Indian Vice-President, Jagdeep Dhankhar this afternoon (16).
-
-During the discussion, Vice President Dhankhar extended his congratulations to President Dissanayake on his significant victory in Sri Lanka’s recent Presidential and General Elections, the President’s Media Division (PMD) stated.
-
-The meeting focused on strengthening bilateral ties, with key discussions centred on economic cooperation, advancements in agriculture, and digitalization.
-
-Later, President Dissanayake met with Indian Health Minister and Bharatiya Janata Party (BJP) President Jagat Prakash Nadda, the statement added.
-
-◼️
-
-[Data](articles/d7fe2438.json)
-
-[Extended Data](ext_articles/d7fe2438.ext.json)
-
----
-
-### Rice sales at high prices - Judgment at the end
-
-*2024-12-16 20:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-விலைக்கு-அரிசி-விற்பனை-இறுதியில்-கிடைத்த-தீர்ப்பு/175-348809) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Consumer Affairs Authority Chairman Hemantha Samarakoon reports 342 inspections for rice sales during festivals. Penalties totaling 600,000 rupees were issued. Court rulings are pending for additional cases.
-
-🟩
-
-Consumer Affairs Authority Chairman Hemantha Samarakoon said that 342 rounds have been conducted from the 17th to the 16th of this month regarding the lack of selling rice at the festive season.
-
-Accordingly, the judgment of 6 lakhs of rupees has been granted to pay a penalty of Rs.
-
-Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that the court rulings were being filed for other surroundings.. Remble
-
-◼️
-
-[Data](articles/6e57f339.json)
-
-[Extended Data](ext_articles/6e57f339.ext.json)
-
----
-
-### Maximum retail price to several items
-
-*2024-12-16 19:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204440) · `si`
-
-Samarasinghe imposes max retail prices on items like chicken, water bottles, salt packets. Consumer Council sets prices to ease market burden.
-
-🟩
-
-Minister Wasantha Samarasinghe says that he has decided to impose maximum retail price for many items in the future.
-
-Speaking to the media in Anuradhapura, the Minister said.
-
-"The chicken is not just water.. Water bottle sells under Rs. 100 can be sold under Rs. The salt packet is placed at Rs.. There's a problem now that there is no salt in the salt industry. There is a problem in our country, has a problem in the market and has a serious burden on the market. Therefore, the Consumer Council has already taken steps to determine a number of goods to decide this maximum retail price decision making this maximum retail price decision.. They will be found in the future. "
-
-◼️
-
-[Data](articles/310ba4d7.json)
-
-[Extended Data](ext_articles/310ba4d7.ext.json)
-
----
-
-### A warning of landslides in some parts of the country
-
-*2024-12-16 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201455) · `ta`
-
-Landslide warnings issued for specific areas: Badulla, Kurunegala, and Matale districts on 16th-17th. Affected regions include Hallyela, Pasarai, Medathumbara, Padatumbara, Rathikama, Rathottai, and Ambankanga Koralaya.
-
-🟩
-
-The National Building Research Institute said that the warning announcement will be in effect on Monday, 16th and 17th Tuesday.
-
-Accordingly, the warning has been issued to the Divisional Secretariat Divisions of the Badulla District, Hallyela and Pasarai, Medathumbara and Padatumbara in Kurunegala District, Rathikama, Matale District, Rathottai and Ambankanga Koralaya in Kurunegala District.
-
-◼️
-
-[Data](articles/a82d4152.json)
-
-[Extended Data](ext_articles/a82d4152.ext.json)
-
----
-
-### International Sovereignty Reorganization Agreement;Is to carry out the continuation of Ranil's program
-
-*2024-12-16 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201454) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's International Sovereignty Reform Agreement continues former Pres. Ranil's program. 98% bondholders agreed to exchange. Critics claim it favors lenders over Sri Lanka, potentially increasing debt burden despite promised 15% reduction. Transparency issues raise concerns among citizens and opposition parties.
-
-🟩
-
-The Frontline Socialist Party has said that the International Sovereignty Reform Agreement is launching the continuation of the former President Ranil's program.
-
-The statement issued by the party said in the statement and further stated in the report.
-
-The Ministry of Finance has issued a statement on December 14 that Sri Lanka has successfully completed the restructuring of international sovereignty bonds.The Ministry of Finance said that 98 percent of international sovereignty bond holders have expressed their willingness in the bond exchange and the restoration of Sri Lanka's international sovereignty bonds will be launched by exchange of new bonds to existing bonds.
-
-The National People's Power Government came to power and on September 19, 2024, Sri Lanka was invited to exchange its bonds with new bonds on November 25, 2024, according to a policy agreement signed with the International Investor Bonds and two local lending company representatives.
-
-...
-
-[Data](articles/68997a59.json)
-
-[Extended Data](ext_articles/68997a59.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 03:42:42**
+As of **2024-12-18 02:26:51**
 
 ## Newspaper Stats
 
-*Scraped **60,715** Articles*
+*Scraped **60,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,165 +18,55 @@ dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,785
 adaderanalk | 7,401
-tamilmirrorlk | 8,672
-virakesarilk | 10,012
+tamilmirrorlk | 8,671
+virakesarilk | 10,010
 adaderanasinhalalk | 10,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,635 (99.9%) of 60,715 articles have been extended.
+60,629 (99.9%) of 60,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### We make a decision to insult religious traditions
-
-*2024-12-18 03:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமய-மரபுகளை-அவமதிக்கும்-தீர்மானத்தை-மேற்கொள்ளோம்/175-348875) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-PM Harini Amarasuriya criticizes cremation policy as unjust to religions & families. She vows to prevent similar decisions affecting religious traditions.
-
-🟩
-
-Prime Minister Harini Amarasuriya told Parliament yesterday (17) that the injustice inflicted on religious traditions and mothers could never be justified by cremation of the victims of the infection.
-
-The resolution of the last government is not in any way justified. It is a resolution of the most sensitive and most cruel. The family is able to express their grief and reduce grief through the customs that are fulfilled after a death. That is why it has been given religious values.
-
-Such traditions are very important in the uncertainty like the Kovit infection. In this case, such a terrible decision cannot be allowed in any way. Politics or any other reason for that is not valid. It is unreasonable to make such a decision without scientific basis. Therefore, our government will never make any resolution that will cause such suffering to any sect or to insult religious traditions.
-
-...
-
-[Data](articles/301c9f70.json)
-
-[Extended Data](ext_articles/301c9f70.ext.json)
-
----
-
-### Create a people's movement for the task of carrying out the Himalayan Declaration;The insistence of a variety of participants
-
-*2024-12-18 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201544) · `ta`
-
-Sum:0
-
-🟩
-
-The district -level conversations in Jaffna and Kilinochchi have been urged to immediately create a people's movement to advance the Himalayan Declaration as a national conversation.
-
-The Himalayan Debate on the Himalayan Debate in the country was held in Kilinochchi and Jaffna on the 16th and 17th.
-
-Representatives of Buddhist, Hindu, Catolic, Islamic leaders and representatives of the multi -faceted civil society, youth and civilians were present.
-
-During this event, the Himalayasanadanam had a good time to be addressed at the national level. Therefore, all the participants accepted that a national discussion should be carried out immediately.
-
-In addition, the participants also called for the great task of continuing to carry out the Himalayan Debate within the Buddhist organizations and limited civil organizations, including the World Tamil Congress.
-
-...
-
-[Data](articles/41c790a5.json)
-
-[Extended Data](ext_articles/41c790a5.ext.json)
-
----
-
-### The government has not corrected a subtitle even though the International Monetary Monetary Fund has come to an end - Harshadi Silva
-
-*2024-12-18 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201543) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government fails to revise IMF agreement despite opportunity. Opposition criticizes lack of action on economic reforms. National production increases but government faces criticism over future projections.
-
-🟩
-
-Opposition member Harshadi Silva said the government had not taken steps to revise a verse, despite the opportunity to amend the International Monetary Fund Agreement.
-
-He was speaking on Tuesday (17) in Parliament.
-
-The President, who has visited India, has come to the Indian government to make the country the economy of the country and the government has come to various consensus.. We are happy with this. We must have the best relationship with our recent country India. It is a country that can always cooperate with us.
-
-However, the National People's Power has said that it will not have any contact with India regarding the petroleum pipe.. Similarly, it was reported that the power was not connected.
-
-But now we know that the government has agreed to these two issues. Our position is to take place. We do not say that the consensus of the Monetary Fund is like that. Instead, I should make amendments to it and go ahead.
-
-...
-
-[Data](articles/33495e52.json)
-
-[Extended Data](ext_articles/33495e52.ext.json)
-
----
-
-### How many people have been placed under the Prevention of Terrorism Act?- The Attorney General's Department has released data on the request request
+### பயங்கரவாதத்தடைச்சட்டத்தின்கீழ் தடுப்புக்காவலில் வைக்கப்பட்டிருப்போர் எத்தனை பேர்? - தகவல் கோரிக்கைக்கு அமைய தரவுகளை வெளியிட்டது சட்டமா அதிபர் திணைக்களம்
 
 *2024-12-18 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201542) · `ta`
 
-Here's a summary in 200 characters:
+சட்டமா அதிபர் திணைக்களத்தின் தரவுகளின்படி கடந்த ஏப்ரல் மாதம் வரையான காலப்பகுதியில் விடுதலைப்புலிகள் இயக்கத்துடன் தொடர்புடைய குற்றங்களுக்காக 6 பேரும், உயிர்த்த ஞாயிறுதினத்தாக்குதல்களுடன் தொடர்புடைய குற்றங்களுக்காக 24 பேரும் பயங்கரவாதத்தடைச்சட்டத்தின்கீழ் தடுப்புக்காவலில் வைக்கப்பட்டுள்ளனர்.
 
-
-
-6 LTTE-related arrests under Prevention of Terrorism Act; 24 for Easter Sunday attacks. 81 released on bail between 2020-2023. Concerns raised about frequent arrests and questioning.
-
-🟩
-
-According to the data of the Attorney General's Department, 6 persons for crimes associated with the Liberation Tigers of Tamil Eelam (LTTE) and 24 crimes related to the survival Sunday attacks have been kept under the Prevention of Terrorism Act.
-
-Ambika Sakkunanathan, one of the activists who are carrying out the pro -activities, has been urged to repeal the Terrorism Act, which has been urged to completely abolish the international human rights and humanitarian laws.
-
-According to the data provided by the Attorney General's Department, six people have been detained for crimes related to the Liberation Tigers of Tamil Eelam (LTTE) under the Terrorism Act and 34 have been released on bail without being sued.. Meanwhile, the number of those who have been filed and released on bail is 49 and the number of those released in the period between 2020 and 2023 is 81.
+சர்வதேச மனித உரிமைகள் மற்றும் மனிதாபிமான சட்டங்களுக்குப் புறம்பான பயங்கரவாதத்தடைச்சட்டம் முற்றாக நீக்கப்படவேண்டும் எனத் தொடர்ச்சியாக வலியுறுத்தி வருவதுடன், அதனை முன்னிறுத்திய நடவடிக்கைகளை முன்னெடுத்துவரும் செயற்பாட்டாளர்களில் ஒருவரான அம்பிகா சற்குணநாதன், கடந்த ஏப்ரல் மாதம் வரையான காலப்பகுதியில் பயங்கரவாதத்தடைச்சட்டத்தின்கீழ் தடுத்துவைக்கப்பட்டிருப்போரின் எண்ணிக்கை தொடர்பான விபரங்களை தகவல் அறியும் உரிமைச்சட்டத்தின் ஊடாக சட்டமா அதிபர் திணைக்களத்திடம் கோரிப்பெற்றிருக்கிறார்.
 
 ...
 
 [Data](articles/abf47f38.json)
 
-[Extended Data](ext_articles/abf47f38.ext.json)
-
 ---
 
 ### 2024-12-17 (Tuesday)
 
-### Lanka R10 Super League
+### லங்கா ரி10 சுப்பர் லீக்:  கோல் மார்வல்ஸ் அணியை வீழ்த்தி 2ஆம் இடத்தைப் பெற்றது ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ்
 
 *2024-12-17 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201540) · `ta`
 
-Here's a 200-character summary:
+ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணிக்கும் கோல் மார்வல்ஸ் அணிக்கும் இடையில் கண்டி பல்லேகலை சர்வதேச விளையாட்டரங்கில் செவ்வாய்க்கிழமை (17) இரவு நடைபெற்ற மிகவும் இறுக்கமான லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியில் 4 பந்துகள் மீதமிருக்க 5 விக்கெட்களால் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் வெற்றி பெற்றது.
 
+இந்தப் போட்டியுடன் அங்குரார்ப்பண லங்கா ரி20 சுப்பர் லீக் கிரிக்கெட்டில் முதல் சுற்று நிறைவு பெற்றது.
 
+இந்த வெற்றியுடன் அணிகள் நிலையில் ஹம்பாந்தொட்ட பங்களா டைகர்ஸ் 9 புள்ளிகளைப் பெற்று இரண்டாம் இடத்தை அடைந்தது.
 
-Hambantota Bangla Tigers win by 5 wickets vs Goal Marwal in Lanka R10 Super League. Shakib Al Hasan top scores with 43. Hambantota leads with 9 points after first round. Next matches: Hambantota vs Jeewana Titans, Kandy Boltz vs Goal Marwal.
+இன்று நடைபெற்ற கடைசி முதல் சுற்றுப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் அணி கடும் சிரமத்திற்கு மத்தியில் 10 ஓவர்களில் 6 விக்கெட்களை இழந்து 82 ஓட்டங்களை மாத்திரம் பெற்றது.
 
-🟩
+பங்களாதேஷ் வீரர் ஷக்கிப் அல் ஹசன் மாத்திரம் திறமையாகத் துடுப்பெடுத்தாடி 18 பந்துகளை எதிர்கொண்டு 4 பவுண்டறிகள், 3 சிக்ஸ்கள் உட்பட ஆட்டம் இழக்காமல் 43 ஓட்டங்களைப் பெற்றார்.
 
-Hambantota Bangla Tigers won by 5 wickets to remain 4 balls in the Tuesday night (17) at the Pallekele International Stadium in Kandy between Hambanta Bangla Tigers and Goal Marwal.
-
-The match was completed in the first round of the inaugural Lanka R20 Super League cricket.
-
-With this victory, the teams were in second place with 9 points in Hambantota Bungalow.
-
-In the last first round of the first round of the first round, the Goal Marwal team, who was first invited to bat, scored only 82 runs for the loss of 6 wickets in 10 overs.
-
-Bangladeshi player Shakib Al Hasan was the only ones who faced 18 balls and scored 43 runs without losing 4 pounds and 3 sixes.
-
-Only Alex Hales (14) received a double -digit number than him.
-
-Ratnayake took 2 wickets for 10 runs while Sahan Arachike took 2 wickets for 11 runs.
-
-Hambantota Bangla Tigers lost 5 wickets in 9.2 overs and scored 84 runs.
-
-The Hambantota Bangla Tigers were bowled out for 57 in 6.4 overs.
+அவரை விட அலெக்ஸ் ஹேல்ஸ் (14) மட்டுமே இரட்டை இலக்க எண்ணிக்கையைப் பெற்றார்.
 
 ...
 
 [Data](articles/2817bfa3.json)
-
-[Extended Data](ext_articles/2817bfa3.ext.json)
 
 ---
 
@@ -556,29 +446,17 @@ I appreciate President Anura Kumara Dissanayake for the development of the Econo
 
 ---
 
-### Welcome to Prime Minister Modi's emphasis on the 13th Amendment - MA Sumanthiran
+### 13 ஆம் திருத்தத்தை உள்ளடக்கிய பிரதமர் மோடியின் வலியுறுத்தலை வரவேற்கிறோம் - எம்.ஏ.சுமந்திரன்
 
 *2024-12-17 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201518) · `ta`
 
-Here's a summary of 200 characters:
+அரசியலமைப்பை முழுமையாக நடைமுறைப்படுத்துமாறு இந்தியப்பிரதமர் நரேந்திர மோடியினால் வலியுறுத்தப்பட்டிருக்கும் நிலையில், அதனுள் 13 ஆவது திருத்தமும் உள்ளடங்குவதனால் அவ்வலியுறுத்தலை தாம் வரவேற்பதாக இலங்கைத் தமிழரசுக்கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
 
-
-
-Indian PM Modi emphasizes full implementation of Sri Lanka's constitution & provincial council elections. Former TNA MP MA Sumanthiran welcomes this stance. However, absence of Tamil aspirations & 13th Amendment in joint statement raises concerns.
-
-🟩
-
-Former Sri Lankan TNA parliamentarian MA Sumanthiran said he would welcome the request as the 13th Amendment within it was urged by Indian Prime Minister Narendra Modi to fully implement the Constitution.
-
-However, if the Sri Lankan government does not agree to include them in the joint report, it will be a sign that they will be retreated from the already promised promises.
-
-A bilateral meeting between President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi on Monday (16). Indian Prime Minister Narendra Modi said, “We hope that the Sri Lankan government will fully fulfill the aspirations of the Tamil people.. At the same time, the Sri Lankan government should show his commitment to the issue by fully implementing the constitution and holding the provincial council election.
+இருப்பினும் அவற்றை கூட்டறிக்கையில் உள்ளடக்குவதற்கு இலங்கை அரசாங்கம் உடன்பட்டிருக்காவிடின், ஏற்கனவே வழங்கிய வாக்குறுதிகளிலிருந்து அவர்கள் பின்வாங்குவதற்கான அறிகுறியாகவே அதனைக் கருதவேண்டியிருக்கும் எனவும் அவர் குறிப்பிட்டார்.
 
 ...
 
 [Data](articles/ae6d5047.json)
-
-[Extended Data](ext_articles/ae6d5047.ext.json)
 
 ---
 
@@ -2559,5 +2437,81 @@ Sri Lanka will also issue 215 million dollars of bond as a fee for those who acc
 [Data](articles/735f2b9a.json)
 
 [Extended Data](ext_articles/735f2b9a.ext.json)
+
+---
+
+### Sri Lanka ISB holders to get US$10.4bn and Rs155bn in new bonds on Dec 20
+
+*2024-12-17 10:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-holders-to-get-us10-4bn-and-rs155bn-in-new-bonds-on-dec-20-194677/) · `en`
+
+ECONOMYNEXT – Sri Lanka will issue GDP linked bonds of 10.4 billion US dollars including governance of bonds of 1.6 billion dollars and rupee bonds of 155 billion as part of a restructure of defaulted securities, a statement on the Singapore Stock Exchange said.
+
+The new bonds will be issued on December 20 with the required minimum thresholds being met.
+
+In a 2022 bond 73 percent acceptance to exchange has been received.
+
+The residual 2022 bonds will continue to trade in that security, the statement said.
+
+The holdout investor Hamilton Reserve is claiming a 25 percent share in the security.
+
+Related Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
+
+Sri Lanka will also issue 215 million dollars of bond as a fee for those who accepted the offer to exchagne. (Colombo/Dec17/2024)
+
+◼️
+
+[Data](articles/fcf14329.json)
+
+---
+
+### Sri Lanka rupee trades flat at 290.75/80 to dollar, bonds steady
+
+*2024-12-17 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-290-75-80-to-dollar-bonds-steady-194668/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 290.75/80 to the US dollar in Tuesday early trade slightly weaker from Monday’s close of 290.70/80, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/52 percent, from 9.40/50 percent.
+
+A bond maturing on 15.10.2027 was quoted at 9.85/90 percent, down from 9.90/10.00 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.15/20 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.25/30 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.35/40 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.65/75 percent, down from 10.70/80 percent.
+
+The central bank announced that 185 billion rupees of treasury bills are to be auctioned on Wednesday.
+
+In equities, the All Share Price Index was down 0.63 percent or 91.27 points, at 14,409.
+
+The more liquid S&P SL20 was down 0.34 percent, or 14.93 points, at 4,334.
+
+◼️
+
+[Data](articles/cd1d182a.json)
+
+[Extended Data](ext_articles/cd1d182a.ext.json)
+
+---
+
+### ශිත සෘතුවත් සමගින් කසකස්තාන සංචාරකයන් ලංකාවට එයි
+
+*2024-12-17 10:44:24* · [`adalk`](https://www.ada.lk/breaking_news/ශිත-සෘතුවත්-සමගින්-කසකස්තාන-සංචාරකයන්-ලංකාවට-එයි/11-413685) · `si`
+
+ලොව පුරා ශීත ඍතුව ආරම්භ වී තිබීමත් සමග කසකස්තානයේ සිට එරට සංචාරකයන් පිරිසක් රැගත් ප්‍රථම ගුවන් යානය ඊයේ  කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+සවස 06.00 ට කසකස්තානයේ අල්මාආටා ජාත්‍යන්තර ගුවන් තොටුපොළේ සිට එයාර් අස්තානා ගුවන් සේවයේ කේ.සී.- 167 දරන ගුවන් යානය කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ගුවන් ගමන සදහා එයාර් අස්තානා ගුවන් සේවය , එයාර් බස් ඒ.320 වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එහි ගුවන් මගීන් 150 දෙනෙකු සහ කාර්යය මණ්ඩලය 08 දෙනෙකු පැමිණ සිටියහ.
+
+මෙම ගුවන් යානා මින් පසු සෑම සතියකම  දින 04 ක් කසකස්තානයේ අල්මාආටා ජාත්‍යන්තර ගුවන් තොටුපොළේ සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිතය.
+
+ගුවන් යානයෙන් පැමිණි කසකස්තාන ජාතික ගුවන් මගීන් උත්කර්ෂවත් අන්දමින් පිළිගැනීමට ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයේ නිලධාරීන් මෙන්ම කටුනායක ගුවන් තොටුපොළ බලධාරීන් ද පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/e0f705f2.json)
 
 ---

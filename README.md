@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 12:03:10**
+As of **2024-12-17 12:43:16**
 
 ## Newspaper Stats
 
-*Scraped **60,617** Articles*
+*Scraped **60,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,666
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,768
+adalk | 5,769
 adaderanalk | 7,392
-tamilmirrorlk | 8,655
+tamilmirrorlk | 8,659
 virakesarilk | 9,984
 adaderanasinhalalk | 10,476
 
@@ -26,23 +26,135 @@ adaderanasinhalalk | 10,476
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,545 (99.9%) of 60,617 articles have been extended.
+60,550 (99.9%) of 60,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### රුසියානු ආරක්ෂක ප්‍රධානියෙක් ඝාතනය කෙරේ
+### MP Archana is prohibited to log in
+
+*2024-12-17 11:58:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-அர்ச்சுனா-உள்நுழைய-தடை/175-348838) · `ta`
+
+MP Archana barred from entering Jaffna Bodhana Hospital due to court order. Hospital administration must seek permission before allowing entry. Security personnel instructed to hand over MP to police if attempting unauthorized access.
+
+🟩
+
+The Director of the Jaffna Teaching Hospital has notified the Parliamentarian that the parliamentarian Archana will be admitted to the Jaffna Bodhana Hospital only as a patient.
+
+The Jaffna Magistrate's Court yesterday issued a bail worth Rs 100,000.
+
+The court has also banned the hospital administration to obtain permission from the hospital in order to go to the Jaffna Bodhana Hospital.
+
+In accordance with this order, the hospital administration has informed the MP that he will not be allowed to enter the hospital premises for any purpose other than the patient.
+
+Moreover, the hospital has issued a directive to its security authorities to hand over the MP to the Jaffna police, if they try to go inside without proper permission.
+
+In such cases, security authorities have been ordered to handle the situation without being forced to harass or harass.
+
+◼️
+
+[Data](articles/3e60a559.json)
+
+[Extended Data](ext_articles/3e60a559.ext.json)
+
+---
+
+### "Don't introduce titles"
+
+*2024-12-17 11:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டங்களைக்-கூறி-அறிமுகப்படுத்த-வேண்டாம்/175-348837) · `ta`
+
+Parliamentarian Dilith Jayaweera proposes avoiding use of academic titles when introducing MPs, citing potential for social division. He suggests focusing on professions rather than degrees in parliamentary settings.
+
+🟩
+
+Parliamentarian Dilith Jayaweera proposed that when introducing MPs in the House, the doctors and professors should avoid degrees and it will lead to social division.
+
+He told Parliament that MPs from various industries are in the House and that they should be avoided from introducing them with previous titles.
+
+"The doctor is suitable for hospitals and is suitable for Professor Universities. Therefore, I propose to avoid using their topics in the congregation, ”he said.
+
+◼️
+
+[Data](articles/5097de32.json)
+
+[Extended Data](ext_articles/5097de32.ext.json)
+
+---
+
+### The youth who killed in coconut estate is a woman in the mortality investigation
+
+*2024-12-17 11:51:21* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-වත්තේදී-ඝාතනයවූ-තරුණයා-මරණ-පරීක්ෂණයේදී-කාන්තාවක්-වෙයි/11-413689) · `si`
+
+A young woman was found dead in a house with many dogs and cats. Initial reports claimed it was a man, but autopsy revealed it was a female victim. The cause of death was determined to be from severe cuts. The incident occurred in a rental property in Siyambalawasuppu.
+
+🟩
+
+Do Dummalasuriya Police have suffered mysteriously killed a young man in a house in a residential Sooriyawatta, with dogs and cats. When the murdered body was summoned to the post mortem, she had said that she had been identified as their youngest daughter.
+
+Police who were assisted and the police were killed in the Kuliyapitiya Teaching Hospital for the death inspection of the assassination. At the death inscription, the death process has been assassinated that he was a woman who was not a male.
+
+The number of post mortem has been confirmed that the woman is a death caused by bloodshed with cut wounds.
+
+Dummalagey has maintained the location of these animals in a rented estate in the Siyambalawasuppu area.
+
+More than 50 dogs were present at the place, Dummulasuriya Peliyya added.
+
+◼️
+
+[Data](articles/73af5bd4.json)
+
+[Extended Data](ext_articles/73af5bd4.ext.json)
+
+---
+
+### Russian defense chief is assassinated
 
 *2024-12-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204457) · `si`
 
-රුසියාවේ මොස්කව් නගරයට ආසන්නයේ නිවාස සංකීර්ණයක් අසල සිදුවූ පිපිරීමකින් පුද්ගලයින් දෙදෙනෙක් මියගොස් තිබේ.
+Russian defense chief assassinated: Explosion kills two near Moscow. Lieutenant General Iref reportedly accused of chemical weapons involvement.
 
-ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ, ඉන් මියගිය එක් අයෙක් රුසියාවේ විකිරණ රසායන හා ජීව රසායන ආරක්ෂක බළකායේ ප්‍රධානියා වන ලුතිනන් ජෙනරාල් ඉගො කිරිලොෆ් බවයි.
+🟩
+
+Two people were killed in an explosion near a housing complex near Moscow, Russia.
+
+The international media reported that one of them died, Lieutenant General Ireff, the head of radiation chemistry and biochemical security force in Russia.
+
+The media reports that he was accused of chemical weapons.
 
 ◼️
 
 [Data](articles/ae3dcf0c.json)
+
+[Extended Data](ext_articles/ae3dcf0c.ext.json)
+
+---
+
+### Rameswaram- Talaimannar Ship Traffic soon ...
+
+*2024-12-17 11:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராமேஸ்வரம்-தலைமன்னார்-கப்பல்-போக்குவரத்து-விரைவில்/175-348835) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"PM Modi announces ship traffic between Rameswaram-Talaimannar to address fishermen issues. Discusses strengthening India-Sri Lanka ties, cooperation in energy sectors, and financial aid for Kankesan port rehabilitation."
+
+🟩
+
+Agreed when the Sri Lankan President was discussed with the humanitarian to access the fishermen's livelihood problem. Shipping will be started up to Rameswaram-Talaimannar, ”Prime Minister Modi said.
+
+Sri Lankan President Anura Kumara Dissanayake, who arrived in India, met Prime Minister Modi in Delhi. At that time, the two leaders were considering strengthening relations between the two countries.
+
+During the meeting, President Anura Kumara Dissanayake said: Prime Minister Modi urged a permanent solution to the fishermen's problem. Thanks for the best welcome of India.
+
+India will be committed to the security of Sri Lanka. Indian fishermen should avoid using a brief web. Fisheries will be affected by a shortness. India has come forward to digitally provide services to the people. When Sri Lanka met the financial crisis, India helped. Thus he said.
+
+...
+
+[Data](articles/8e51e20b.json)
+
+[Extended Data](ext_articles/8e51e20b.ext.json)
 
 ---
 
@@ -265,6 +377,18 @@ Mano Ganesan, the leader of the Tamil Progressive Alliance, was speaking as a Me
 [Data](articles/165fe1e6.json)
 
 [Extended Data](ext_articles/165fe1e6.ext.json)
+
+---
+
+### மனோ கணேசன் சத்தியப்பிரமாணம்
+
+*2024-12-17 10:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-சத்தியப்பிரமாணம்/175-348834) · `ta`
+
+தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன், பாராளுமன்ற உறுப்பினராக  பிரதி சபாநாயகர் முன்னிலையில் செவ்வாய்க்கிழமை (17) சத்திப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/c67aab8c.json)
 
 ---
 
@@ -2175,119 +2299,5 @@ The officials informed of the cash out of a joint account of a joint account of 
 [Data](articles/6996b0ce.json)
 
 [Extended Data](ext_articles/6996b0ce.ext.json)
-
----
-
-### India eyes joint Sri Lanka offshore wind power development in Palk Straits
-
-*2024-12-16 18:52:00* · [`economynextcom`](https://economynext.com/india-eyes-joint-sri-lanka-offshore-wind-power-development-in-palk-straits-194546/) · `en`
-
-ECONOMYNEXT – India is eyeing joint development of offshore wind power potential in the Palk Straits with Sri Lanka, according to a statement released after a meeting between President Anura Dissanayake and Prime Minister Narenda Modi.
-
-A wind power plant negotiated without competitive tender to India’s Adani group in Mannar with a high plant factor has been controversial due to its high price and the deal is currently in court.
-
-Sri Lanka’s CEB is developing two off shore sites, for wind power, with one location off Mannar.
-
-“Emphasizing the need for reliable, affordable and timely energy resources for ensuring energy security and meeting basic needs of the people, both leaders underscored the importance of strengthening cooperation in the energy sector and facilitation towards timely implementation of ongoing energy cooperation projects between India and Sri Lanka,” the statement said.
-
-...
-
-[Data](articles/dbe8f471.json)
-
-[Extended Data](ext_articles/dbe8f471.ext.json)
-
----
-
-### Sri Lanka, India plan second ferry connection
-
-*2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-plan-second-ferry-connection-194528/) · `en`
-
-ECONOMYNEXT – Sri Lanka and India have discussed resuming a second passenger ferry service between the island and the sub-continent during President Anura Dissanayake’s state visit.
-
-“While expressing satisfaction at the resumption of the passenger ferry service between Nagapattinam and Kankesanthurai, they agreed that officials should work towards the early recommencement of the passenger ferry service between Rameshwaram and Talaimannar,” a statement issued after Dissanayake met Indian Prime Minister Narendra Modi read.
-
-The ferry service between Nagappatinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka commenced on October 14, 2023.
-
-India has agreed to fund the renovation of Kankesanthurai port in the north of the island through grant assistance.
-
-Both leaders stressed the need for building further connectivity. (Colombo/Dec16/2024)
-
-◼️
-
-[Data](articles/9d327cd6.json)
-
-[Extended Data](ext_articles/9d327cd6.ext.json)
-
----
-
-### Sri Lanka, India plan second ferry connection
-
-*2024-12-16 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-india-discuss-passenger-ferry-service-between-rameshwaram-and-talaimannar-194528/) · `en`
-
-ECONOMYNEXT – Sri Lanka and India have discussed resuming a second passenger ferry service between the island and the sub-continent during President Anura Dissanayake’s state visit.
-
-“While expressing satisfaction at the resumption of the passenger ferry service between Nagapattinam and Kankesanthurai, they agreed that officials should work towards the early recommencement of the passenger ferry service between Rameshwaram and Talaimannar,” a statement issued after Dissanayake met Indian Prime Minister Narendra Modi read.
-
-The ferry service between Nagappatinam in India and Kankesanthurai (KKS) near Jaffna in the Northern Province of Sri Lanka commenced on October 14, 2023.
-
-India has agreed to fund the renovation of Kankesanthurai port in the north of the island through grant assistance.
-
-Both leaders stressed the need for building further connectivity. (Colombo/Dec16/2024)
-
-◼️
-
-[Data](articles/e95caea3.json)
-
-[Extended Data](ext_articles/e95caea3.ext.json)
-
----
-
-### Parliament gathers
-
-*2024-12-16 18:44:11* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-රැස්වෙයි/11-413678) · `si`
-
-Parliament meets today at 09:30 AM. Dr. Jagath Wickramaratne proposed as new Speaker. Chief Opposition Whip Gayantha Karunatilake confirms voting if multiple nominations. Election arrangements ready. Speaker Asoka Rangwala resigned.
-
-🟩
-
-Parliament is scheduled to meet at 09.30 am today (17). A new Speaker is to be appointed today.
-
-It has been decided to propose the name of Dr. Jagath Wickramaratne for the post of Speaker.
-
-Meanwhile Chief Opposition Whip, Member of Parliamentary WhipGayantha Karunatilake told 'Today'.
-
-If more than one proposal is presented in appointing a Speaker, a voting is done.
-
-Accordingly, if more than one nomination date, Ms. Kushani Rohana said that all arrangements were prepared to hold the election.
-
-Speaker Asoka Rangwala, who was appointed at the beginning of the 10th parliament, resigned from a man who was appointed to appoint a new Speaker.
-
-◼️
-
-[Data](articles/75235eb5.json)
-
-[Extended Data](ext_articles/75235eb5.ext.json)
-
----
-
-### Stock market records renewed
-
-*2024-12-16 18:37:16* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-වාර්තා-අලුත්-කරයි/11-413677) · `si`
-
-Colombo Stock Exchange records: Total price index exceeds 14,500 units. Overall price index rises 295.1 points (2.08%). S&P indicator increases from 105.37 to 4,349. Market turnover reaches Rs. 8.2 billion.
-
-🟩
-
-The total price index on the Colombo Stock Exchange has crossed the 14500 units of the Colombo Stock Exchange.
-
-Accordingly, the overall price index increased by 295.1 points, 25.1 or 2.08 per cent. Meanwhile S. And P. The indicator has gone up from 105.37 points to 4349 units.
-
-The stock market turnover also recorded a tremendous value of Rs. 8.2 billion.
-
-◼️
-
-[Data](articles/401c6177.json)
-
-[Extended Data](ext_articles/401c6177.ext.json)
 
 ---

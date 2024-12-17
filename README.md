@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 04:01:37**
+As of **2024-12-18 04:42:56**
 
 ## Newspaper Stats
 
-*Scraped **60,715** Articles*
+*Scraped **60,718** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 616
 bbccomsinhala | 636
 islandlk | 3,669
 economynextcom | 3,698
-dailyftlk | 4,186
+dailyftlk | 4,189
 dailymirrorlk | 4,733
 adalk | 5,785
 adaderanalk | 7,401
@@ -26,11 +26,57 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,636 (99.9%) of 60,715 articles have been extended.
+60,639 (99.9%) of 60,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### Commercial High Court halts winding up of Almar Teas filed by Commercial Bank
+
+*2024-12-18 04:33:14* · [`dailyftlk`](https://www.ft.lk/business/Commercial-High-Court-halts-winding-up-of-Almar-Teas-filed-by-Commercial-Bank/34-770637) · `en`
+
+The Commercial Bank of Ceylon PLC instituted a winding up application bearing No. HC (Civil) 44/2024/CO by Petition dated 27 June 2024 against Almar Teas Ltd. under the provisions of the Companies Act, No. 07 of 2007 on the basis that that Almar Teas Ltd. failed to honour a statutory demand and thus should be deemed insolvent. On such basis publications effected and the matter was fixed for inquiry on 20 December 2024.
+
+However, Almar Teas Ltd. by way of a Motion dated 6 November 2024 preferred an application and moved that the entire winding up application is per incuriam, grossly misconceived and untenable in law and sought for the immediate dismissal of the winding up application.
+
+...
+
+[Data](articles/84939d16.json)
+
+---
+
+### UK-Sri Lanka Trade Mission boosts women entrepreneurs’ export potential
+
+*2024-12-18 04:32:56* · [`dailyftlk`](https://www.ft.lk/business/UK-Sri-Lanka-Trade-Mission-boosts-women-entrepreneurs-export-potential/34-770636) · `en`
+
+The Sri Lanka Export Development Board (EDB) and the International Trade Centre (ITC) co-organised a series of factory visits as part of the UK-Sri Lanka Trade Mission under the SheTrades Commonwealth+ Program.
+
+59 factory visits were held from 2-6 December, the initiative brought buyers from the West and North Yorkshire Chamber of Commerce and the Greater Birmingham Chamber of Commerce to Sri Lanka, highlighting women-led businesses across Colombo, Gampaha, Kalutara, Kurunegala, Kandy, Matale, Galle, Matara, Jaffna, Mullaitivu and Kilinochchi.
+
+This program provided participating women entrepreneurs with unparalleled opportunities to connect with UK buyers, showcase their products and explore new export markets, particularly in the UK. Representing sectors such as apparel and agri-food, these businesses demonstrated the quality, innovation, and sustainability of Sri Lanka’s women-led enterprises.
+
+...
+
+[Data](articles/c431aff3.json)
+
+---
+
+### Vidullanka’s first Guyanese EPC project inaugurated
+
+*2024-12-18 04:31:01* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-first-Guyanese-EPC-project-inaugurated/34-770635) · `en`
+
+Team Vidul with the special attendees at the inauguration, including the Prime Minister of Guyana Brigadier (Ret’d) Mark Phillips (centre)
+
+Vidullanka PLC’s first project under its $ 12.85 million Engineering Procurement and Construction contract with the Guyana Energy Agency, the 0.7MW Moco Moco Mini Hydropower Plant, was inaugurated on 13 December 2024. The ceremony was graced by the presence of the Prime Minister of Guyana Brigadier (Ret’d) Mark Phillips, as well as key representatives of the Government and local authorities, the Guyana Energy Agency (GEA), the Lethem Power Company and the community.
+
+In 2022, Vidullanka PLC won a competitive tender to the GEA’s EPC contract to enhance the capacity and reconstruct the Moco Moco Mini Hydropower Plant and construct a brand-new project, the 1.5MW Kumu Mini Hydropower Plant. This achievement marks a milestone for the company as its first EPC contract to be undertaken in South America.
+
+...
+
+[Data](articles/15845483.json)
+
+---
 
 ### We make a decision to insult religious traditions
 
@@ -1332,6 +1378,8 @@ Crossings were recorded on Commercial Bank, Aitken Spence, and John Keells Holdi
 
 [Data](articles/59d55d3f.json)
 
+[Extended Data](ext_articles/59d55d3f.ext.json)
+
 ---
 
 ### Armed Forces 'armed Forces' protection removed next week
@@ -1467,6 +1515,8 @@ Construction was up 23.8 percent, wood products was up 10.7 percent and electric
 ...
 
 [Data](articles/4a2fefea.json)
+
+[Extended Data](ext_articles/4a2fefea.ext.json)
 
 ---
 
@@ -1647,6 +1697,8 @@ Donald Trump’s surprising return to the presidency, becoming only the second U
 ...
 
 [Data](articles/f297091c.json)
+
+[Extended Data](ext_articles/f297091c.ext.json)
 
 ---
 
@@ -2495,81 +2547,5 @@ The prolonged internal crisis of the SLFP, once one of the largest political par
 [Data](articles/e91fbfdf.json)
 
 [Extended Data](ext_articles/e91fbfdf.ext.json)
-
----
-
-### Sri Lanka’s bondholders sign off on USD 12.55 billion debt overhaul
-
-*2024-12-17 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104302/sri-lankas-bondholders-sign-off-on-usd-1255-billion-debt-overhaul) · `en`
-
-Sri Lanka’s bondholders signed off on the government’s proposal to restructure its $12.55 billion of international bonds, a key step in finalising the island nation’s debt rework.
-
-Final results showed holders representing 97.86% of the outstanding principal on the existing bonds voted in favour of the plan, which will swap Sri Lanka’s defaulted bonds for a series of new fixed income instruments, the government said in a statement dated Dec. 16.
-
-Sri Lanka, which defaulted on its foreign debt for the first time in May 2022 due to its high debt burden and dwindling foreign exchange reserves, had said on Friday that initial results showed holders representing 96% of the outstanding principal on the existing bonds voted in favour of the restructuring plan.
-
-...
-
-[Data](articles/84f6db28.json)
-
-[Extended Data](ext_articles/84f6db28.ext.json)
-
----
-
-### Sri Lankan immigrants have been illegally detained in the Diyago Garcia
-
-*2024-12-17 10:46:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0ew9np49epo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Tamil immigrants illegally detained on Diego Garcia. Judge rules detention unlawful. Conditions described as "open prison". Sexual abuse allegations. Camp closure ordered. Historical context of Chagos archipelago acquisition by UK.
-
-🟩
-
-Sri Lankan immigrants have been illegally detained in the Diyago Garcia
-
-A judge has decided that the Sri Lankan Tamils ​​in Daego Garcia, a British country area, has been illegally detained for many years.
-
-In 2021, many Tamils ​​have become the first people who have claimed to have a British and US military base.
-
-For many years, they were detained in a small protective fence and was taken to their well-being, as a "only once taken by the British government to the country in early this month.
-
-A lawyer who appeared for some migrants said that this should be questioned about how to do this. A British government spokesman said, "Carefully consider this decision."
-
-Diyago Garcia is never "a long-standing place for immigrants and" the government said, "Inherited over a long-standard deep trouble under the past," said the spokesperson.
-
-...
-
-[Data](articles/5c015699.json)
-
-[Extended Data](ext_articles/5c015699.ext.json)
-
----
-
-### Sri Lanka ISB holders to get US$10.4bn and Rs155bn in new bonds on Dec 20
-
-*2024-12-17 10:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-holders-get-us10-4bn-and-rs155bn-bonds-in-default-exchange-194677/) · `en`
-
-ECONOMYNEXT – Sri Lanka will issue GDP linked bonds of 10.4 billion US dollars including governance of bonds of 1.6 billion dollars and rupee bonds of 155 billion as part of a restructure of defaulted securities, a statement on the Singapore Stock Exchange said.
-
-The new bonds will be issued on December 20 with the required minimum thresholds being met.
-
-In a 2022 bond 73 percent acceptance to exchange has been received.
-
-The residual 2022 bonds will continue to trade in that security, the statement said.
-
-The holdout investor Hamilton Reserve is claiming a 25 percent share in the security.
-
-Related Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
-
-Sri Lanka will also issue 215 million dollars of bond as a fee for those who accepted the offer to exchagne. (Colombo/Dec17/2024)
-
-◼️
-
-[Data](articles/735f2b9a.json)
-
-[Extended Data](ext_articles/735f2b9a.ext.json)
 
 ---

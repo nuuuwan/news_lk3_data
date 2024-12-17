@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 04:42:56**
+As of **2024-12-18 05:12:33**
 
 ## Newspaper Stats
 
-*Scraped **60,718** Articles*
+*Scraped **60,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 616
 bbccomsinhala | 636
 islandlk | 3,669
 economynextcom | 3,698
-dailyftlk | 4,189
+dailyftlk | 4,195
 dailymirrorlk | 4,733
 adalk | 5,785
 adaderanalk | 7,401
@@ -26,11 +26,113 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,639 (99.9%) of 60,718 articles have been extended.
+60,641 (99.9%) of 60,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### Govt. reveals MPs benefitted from President’s Fund
+
+*2024-12-18 04:42:29* · [`dailyftlk`](https://www.ft.lk/news/Govt-reveals-MPs-benefitted-from-President-s-Fund/56-770643) · `en`
+
+Chief Government Whip and Minister Dr. Nalinda Jayatissa yesterday revealed to the House that 34 former Prime Ministers, Ministers, MPs and Advisers have disproportionately benefitted from the President’s Fund, receiving financial assistance for medical treatment that goes beyond the fund’s original purpose of support the poor and underprivileged.
+
+Detailing the payments allocated to MPs from the President’s Fund between 2005 and 2024, he questioned the purposes for which such large amounts had been drawn by politicians.
+
+Former Minister of Health Keheliya Rambukwella received Rs. 11 million, while Rajitha Senaratne was granted Rs. 10 million. Former Minister Alek Aluvihare received Rs. 2.2 million, and his son Ranjith Aluvihare, a former MP, received Rs. 4.6 million. The fund also released Rs. 30 million to former Prime Minister D. M. Jayaratne.
+
+...
+
+[Data](articles/6c2a91d1.json)
+
+---
+
+### President pays homage at Bodh Gaya
+
+*2024-12-18 04:40:55* · [`dailyftlk`](https://www.ft.lk/news/President-pays-homage-at-Bodh-Gaya/56-770642) · `en`
+
+President Anura Kumara Dissanayake, who is currently on an official visit to India, paid homage at Bodh Gaya yesterday.
+
+He paid homage at the Mahabodhi Temple and the sacred Sri Maha Bodhi tree, the site where Prince Siddhartha attained enlightenment, and received blessings.
+
+Bodh Gaya is one of the four main sacred sites associated with the life of Gautama Buddha, holding immense significance for Buddhists. In 2002, the Mahabodhi Temple in Bodh Gaya was designated a UNESCO World Heritage Site.
+
+The General Secretary of Maha Bodhi Society of India, Ven. Pelwatte Seewalee Thero and Sarnath Centre Head Ven. Rathmalwala Sumiththananda Nayake Thero, extended blessings to the President during the occasion.
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, along with the Minister of Labour and Deputy Minister of Economic Development, Prof. Anil Jayantha Fernando were also present.
+
+◼️
+
+[Data](articles/2f69e678.json)
+
+---
+
+### Tri-force security for former Presidents to be withdrawn from next week
+
+*2024-12-18 04:39:16* · [`dailyftlk`](https://www.ft.lk/news/Tri-force-security-for-former-Presidents-to-be-withdrawn-from-next-week/56-770641) · `en`
+
+Public Security Minister reveals Govt. has spent Rs. 1,488 million over past 11 and a half months on the security of former Presidents
+
+Says move to reduce security expenditures on former Presidents aims to address public dissatisfaction with excessive spending on politicians
+
+Stresses current security arrangements are based on proper assessments, with input from Chitrasiri Committee
+
+Minister of Public Security Ananda Wijepala announced in Parliament yesterday that tri-force personnel assigned for the security of former Presidents will be withdrawn starting next week. The move comes amidst concerns over excessive public expenditure, with the Government having spent Rs. 1,488 million on the security of former presidents over the past eleven and a half months.
+
+Delivering a special statement, Minister Wijepala emphasised that the decision aims to reduce unnecessary spending of public funds while addressing public discontent.
+
+...
+
+[Data](articles/04fbe189.json)
+
+---
+
+### Customs says 9,500 tons of rice imported so far
+
+*2024-12-18 04:38:38* · [`dailyftlk`](https://www.ft.lk/news/Customs-says-9-500-tons-of-rice-imported-so-far/56-770640) · `en`
+
+The Sri Lanka Customs announced today that a total of 9,500 metric tons of rice has been imported into the country as of now.
+
+Customs Spokesman and Additional Director General Seevali Arukgoda stated that the imported stock includes 3,300 metric tons of raw and 6,200 metric tons of nadu rice.
+
+However, the concession period for importing rice will end at noon on Friday (20), he said.
+
+◼️
+
+[Data](articles/ad79abe8.json)
+
+---
+
+### CoA to hear petition challenging MP Archchuna’s Parliamentary seat on 15 January
+
+*2024-12-18 04:38:16* · [`dailyftlk`](https://www.ft.lk/news/CoA-to-hear-petition-challenging-MP-Archchuna-s-Parliamentary-seat-on-15-January/56-770639) · `en`
+
+The Court of Appeal has ordered that a petition challenging the Parliamentary seat of Jaffna District Independent Group MP Ramanathan Archchuna be considered on 15 January. The petition seeks a writ of certiorari to nullify his position as a Member of Parliament.
+
+The petition by Abhinava Niwahal Peramuna Chairperson Oshala Herath was taken up today before a bench comprising Justices Sobitha Rajakaruna and Mahen Gopallawa yesterday. After initial deliberations, the court scheduled the petition for 15 January to examine the facts in detail.
+
+The petitioner contends that MP Ramanathan Archchuna submitted his nomination papers during the last General Election while still serving as a doctor employed in the State sector. Herath argues that this act is illegal as it violates the Elections Act, which prohibits individuals holding Government office from contesting elections without first resigning.
+
+...
+
+[Data](articles/b552f4ff.json)
+
+---
+
+### Conglomerates to SMEs shine in night of enriching corporate reporting excellence at CA Sri Lanka’s TAGS Awards 2024
+
+*2024-12-18 04:37:08* · [`dailyftlk`](https://www.ft.lk/business/Conglomerates-to-SMEs-shine-in-night-of-enriching-corporate-reporting-excellence-at-CA-Sri-Lanka-s-TAGS-Awards-2024/34-770638) · `en`
+
+The much-anticipated grand finale of the 59th TAGS Awards 2024, organised by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), celebrated excellence in corporate reporting, with a diverse range of organisations – from multinationals and conglomerates to SMEs and NGOs – showcasing their commitment to high standards in financial and non-financial reporting by embracing the principles of transparency, accountability, governance, and sustainability while also leading the way in raising the standards of corporate reporting.
+
+Held amidst much celebration at the Shangri-La Colombo on 12 December in the presence of the country’s corporate elite, the event highlighted the transformative role of enriching corporate reporting practices, complemented by a digital edge.
+
+...
+
+[Data](articles/59f09aea.json)
+
+---
 
 ### Commercial High Court halts winding up of Almar Teas filed by Commercial Bank
 
@@ -43,6 +145,8 @@ However, Almar Teas Ltd. by way of a Motion dated 6 November 2024 preferred an a
 ...
 
 [Data](articles/84939d16.json)
+
+[Extended Data](ext_articles/84939d16.ext.json)
 
 ---
 
@@ -59,6 +163,8 @@ This program provided participating women entrepreneurs with unparalleled opport
 ...
 
 [Data](articles/c431aff3.json)
+
+[Extended Data](ext_articles/c431aff3.ext.json)
 
 ---
 
@@ -2395,157 +2501,5 @@ In his address, Dr. Wickramaratne underscored the importance of cooperation amon
 [Data](articles/4530c8b9.json)
 
 [Extended Data](ext_articles/4530c8b9.ext.json)
-
----
-
-### New Speaker
-
-*2024-12-17 11:21:09* · [`adalk`](https://www.ada.lk/opinion/අභිනව-කථානායක-වතගොත/2-413688) · `si`
-
-Here's a 200-character summary:
-
-
-
-Jagath Wickramaratne, born in Polonnaruwa, educated at Peradeniya and Colombo universities. Worked as Director at Anuradhapura Teaching Hospital and Deputy Director at Trincomalee General Hospital. Elected Member of Parliament with 51,391 preferential votes. Sworn in as 23rd Speaker of Sri Lanka's Parliament.
-
-🟩
-
-Dr. I.W. I.W. I.W. I.W. I.W. I.W.. Mr. Wickramaratne was elected.
-
-Jagath Wickramaratne, who was born in the Hingurakgoda Hospital, Polonnaruwa, was born on 2 February and the second boy of two girls' family.
-
-Wickremaratne, who has been admitted to the College of Polonnaruwa Galgama Kalamuna College, has passed medical degree from the University of Peradeniya, the University of Colombo.Have.
-
-Wickremaratne's father, a father of three children, is a nurse at the Polonnaruwa General Hospital.
-
-Dr. Jagath Wickramaratne, who has been involved in the field of field, and is the Director of the Anuradhapura, Teaching Hospital, Anuradhapura and Deputy Director, Trincomalee and April to 2019.The National Kidney Disease has also served as Deputy Director of the Special Director.
-
-Dr. Jagath Wickramaratne, who has been working to the public as a reputable doctor for a period of time, is a medical doctor who has served a humble honest service from the Polonnaruwa National Hospital.
-
-...
-
-[Data](articles/09a8b9d5.json)
-
-[Extended Data](ext_articles/09a8b9d5.ext.json)
-
----
-
-### Sri Lanka’s ambitious governance and macro-linked bonds explained
-
-*2024-12-17 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104304/sri-lankas-ambitious-governance-and-macro-linked-bonds-explained) · `en`
-
-Sri Lanka’s restructuring of $12.55 billion in international bond debt is set to lead to the launch of a series of new, as-yet-untested instruments linked to economic growth and governance.
-
-Observers say it is one of the most complex set of instruments ever arranged in a restructuring. The bonds aim to give the country additional debt relief if the economy falters and to encourage it to improve its governance.
-
-The governance-linked bond (GLB) is the first of its kind and is designed to reward Sri Lanka for transparency and effective economic management by reducing the interest on its debt. To earn that reduction, Sri Lanka must meet targets, or key performance indicators (KPIs), seen as indicating better governance.
-
-The first KPI demands that Sri Lanka exceed a baseline ratio set by the International Monetary Fund (IMF) for total revenue to GDP in both 2026 and 2027, which the Fund has projected at 15.3% and 15.4% respectively.
-
-...
-
-[Data](articles/c0e66a6f.json)
-
-[Extended Data](ext_articles/c0e66a6f.ext.json)
-
----
-
-### 27 more Lankans who were forced in cyber camps in Myanmar
-
-*2024-12-17 11:08:51* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සයිබර්-කඳවුරුවල-බලෙන්-රඳවාගෙන-සිටි-තවත්-ලාංකිකයන්-27ක්-බේරා-ගැනෙති/11-413687) · `si`
-
-Sri Lankans freed from Myanmar cyber camps arrive at Katunayake airport. 27 detainees flown to Thailand. Rescue efforts led by Buddhist monk Maligawal Essaji Thero. Six others from Nepal, Russia, Malaysia also rescued. 14 Sri Lankans still in captivity. International Organization for Migration facilitates repatriation process.
-
-🟩
-
-The 27 Sri Lankans who were forcibly detained in Myanmar cyber cyber crimes camps were taken to the Katunayake airport.
-
-They were released from the camp and brought to Thailand from Bangkok, SriLankan Airlines UL to the Katunayake Airport on 405. 405.
-
-Maligawal Essaji Thero had also reached the Katunayake airport from the airport.
-
-The Lord told the journalists there, the Lord said:
-
-"As a single person, I went to myanmar's camp, 14-day massive effort and handed over the people of Sri Lanka to Thailand border. I also saved six Nepalians and Russian and Malaysia.
-
-These young children were in the middle of these camps two and a half years. There are still 14 other Sri Lankan children in those camps.
-
-I reject the news, which was propagated on certain media that I got the money to save these children. The President of our Government, or the President of our Government, is ready to come forward, to rescue the rest of Sri Lankans, "he added.
-
-...
-
-[Data](articles/e4eadac6.json)
-
-[Extended Data](ext_articles/e4eadac6.ext.json)
-
----
-
-### Troops of the ruling party respond to the third line of Speaker of Asoka
-
-*2024-12-17 11:07:43* · [`adalk`](https://www.ada.lk/breaking_news/අසෝක-රන්වල-කථානායක-පුටුවෙන්-ආණ්ඩු-පක්ෂයේ-තුන්වන-පේළියට/11-413686) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Troops of the ruling party respond to Speaker Asoka's third line. Former Speaker Asa Yadawala secured the governing party's 55th seat.
-
-🟩
-
-Former Speaker Asa Yadawala has made the seat of the Governing Party (55).
-
-◼️
-
-[Data](articles/59776c2c.json)
-
-[Extended Data](ext_articles/59776c2c.ext.json)
-
----
-
-### Russian citizens rescued in the sea
-
-*2024-12-17 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201477) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-4 Russian citizens rescued: 1 man, 1 woman, 2 girls ages 7 & 13. Swept away by Hikkaduwa Sea on Mon. Hikkaduwa Police saved them.
-
-🟩
-
-Four Russian citizens who were swept away by the Hikkaduwa Sea have been rescued by the Hikkaduwa Police Life Division.
-
-A 40 -year -old man from the same family and a 39 -year -old woman and two girls aged 07 and 13 have been rescued.
-
-Four Russian citizens were suddenly swept away by the Hikkaduwa sea on Monday (16).
-
-The Hikkaduwa Police, which was on duty there, saved all four Russian citizens and took them to shore.
-
-◼️
-
-[Data](articles/a1e0fd05.json)
-
-[Extended Data](ext_articles/a1e0fd05.ext.json)
-
----
-
-### Dayasiri summoned to SLFP’s disciplinary committee
-
-*2024-12-17 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104303/dayasiri-summoned-to-slfps-disciplinary-committee) · `en`
-
-The Sri Lanka Freedom Party’s (SLFP) disciplinary committee has summoned Member of Parliament Dayasiri Jayasekara, the party’s General Secretary Duminda Dissanayake said.
-
-He revealed that charges have been brought against Jayasekara for allegedly acting in a manner that goes against the party’s decisions.
-
-Dissanayake made this statement while speaking to the media at the SLFP headquarters.
-
-The prolonged internal crisis of the SLFP, once one of the largest political parties of the country, began as the then-Chairman of the party former President Maithripala Sirisena ousted Jayasekara from the SLFP and stripped him of his position as the party’s General Secretary on September 05, 2023.
-
-...
-
-[Data](articles/e91fbfdf.json)
-
-[Extended Data](ext_articles/e91fbfdf.ext.json)
 
 ---

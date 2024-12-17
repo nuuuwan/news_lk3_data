@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 09:43:32**
+As of **2024-12-17 10:03:54**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,526 (99.9%) of 60,569 articles have been extended.
+60,530 (99.9%) of 60,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### කථානායකගේ ඉල්ලා අස්වීම නිවේදනය කරමින් ගැසට්ටුවක්
+### A gazetted by announcing the resignation of Speaker
 
 *2024-12-17 09:18:49* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගේ-ඉල්ලා-අස්වීම-නිවේදනය-කරමින්-ගැසට්ටුවක්/11-413683) · `si`
 
-අශෝක සපුමල් රන්වල මහතා කථානායක ධුරයෙන් ඉල්ලා අස්වී ඇති බව  අති විශේෂ ගැසට්  නිවේදනයකින් ප්‍රකාශයට පත්කර තිබේ.
+Here's a summary of 200 characters:
 
-ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 64 (2) ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ කථානායක අශෝක සපුමල් රන්වල මහතා 2024 දෙසැම්බර් 13 දා සිට ක්‍රියාත්මක වන පරිදි කථානායක ධුරයෙන්  ඉල්ලා අස්වී ඇති බව  ජනාධිපතිවරයාගේ නියමය පරිදි  ජනාධිපති ලේකම් ආචාර්ය එන්.එස්.කුමානායක මහතා විසින් ඊයේ (16) දාතමින්  නිකුත් කෙරුණු මෙම ගැසට් නිවේදනයේ සඳහන්වේ.
+
+
+Speaker Asoka Sapumal Ranwala resigns on Dec 13, 2024, as per Constitutional Amendment gazette notification.
+
+🟩
+
+Asoka Sapumal Ranwala has been announced in a special gazette notification that Mr. Ranwala has resigned from the post of Speaker.
+
+Speaker Asoka Sapumal Ranwala has resigned from the post of Speaker on 13th December 2024, according to the Constitution of Amendment.The announcement states.
 
 ◼️
 
 [Data](articles/018719de.json)
+
+[Extended Data](ext_articles/018719de.ext.json)
 
 ---
 
@@ -2370,6 +2380,8 @@ PM Modi said: “We completely agree that our security interests are interlinked
 
 [Data](articles/b4e808da.json)
 
+[Extended Data](ext_articles/b4e808da.ext.json)
+
 ---
 
 ### India will supply LNG to Sri Lanka’s power plants, announces PM Modi
@@ -2390,22 +2402,30 @@ He also announced India’s decision to grant assistance for the rehabilitation 
 
 [Data](articles/ef3bc920.json)
 
+[Extended Data](ext_articles/ef3bc920.ext.json)
+
 ---
 
-### அரிய வகை வலம்புரிச் சங்கு, சிப்பிகளுடன் இருவர் கைது !
+### Two persons arrested with rare Valamburichi conch and oysters!
 
 *2024-12-16 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201413) · `ta`
 
-அநுராதபுரம், ரம்பேவ பிரதேசத்தில் அரிய வகை வலம்புரிச் சங்கு மற்றும் இரண்டு சிப்பிகளை 10 இலட்சம் ரூபாய்க்கு விற்பனை செய்ய முயன்ற இரண்டு சந்தேக நபர்கள் இன்று திங்கட்கிழமை (16) கைது செய்யப்பட்டுயள்ளதாக மீரிகம விமானப்படை புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.
+Two priests arrested selling rare Valamburichi conch and oysters in Anuradhapura.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் இருவரும் அநுராதபுரத்தில் உள்ள தேவாலயம் ஒன்றில் பணிபுரியும் பூசாரிகள் ஆவர்.
+🟩
 
-இரு சந்தேக நபர்கள் அரிய வகை வலம்புரிச் சங்கு மற்றும் சிப்பிகளை விற்பனை செய்ய முயல்வதாக மீரிகம விமானப்படை புலனாய்வு பிரிவினருக்குக் தகவல் கிடைத்துள்ளது.
+Two suspects have been arrested today (16) who attempted to sell rare Valamburich Sangu and two oysters in Rambawewa area in Anuradhapura, Mirigama Air Force Intelligence Unit said.
 
-இதனையடுத்து, மீரிகம விமானப்படை புலனாய்வு பிரிவின் அதிகாரிகள் சிலர் இந்த விலையுயர்ந்த பொருட்களை கொள்வனவு செய்யும் போர்வையில் சந்தேக நபர்களுடன் தொடர்புகளை பேணி அவர்களை கைது செய்துள்ளனர்.
+The two suspects are priests working at a church in Anuradhapura.
+
+The Mirigama Air Force Intelligence Unit has received information that the two suspects are trying to sell rare Valamburichi conch and oysters.
+
+Subsequently, some of the officials of the Mirigama Air Force Intelligence Unit have arrested the suspects under the guise of purchasing these expensive items.
 
 ◼️
 
 [Data](articles/19510c57.json)
+
+[Extended Data](ext_articles/19510c57.ext.json)
 
 ---

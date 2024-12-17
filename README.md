@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 18:24:22**
+As of **2024-12-17 18:40:47**
 
 ## Newspaper Stats
 
-*Scraped **60,664** Articles*
+*Scraped **60,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailymirrorlk | 4,733
 adalk | 5,779
 adaderanalk | 7,399
 tamilmirrorlk | 8,664
-virakesarilk | 9,992
-adaderanasinhalalk | 10,484
+virakesarilk | 9,994
+adaderanasinhalalk | 10,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,588 (99.9%) of 60,664 articles have been extended.
+60,591 (99.9%) of 60,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### சீனாவின் ACWF துணைத் தலைவர், இலங்கைப் பிரதமருடன் சந்திப்பு
+
+*2024-12-17 18:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201531) · `ta`
+
+அனைத்து சீன பெண்கள் சம்மேளனத்தின் (ACWF) துணைத் தலைவியான திருமதி சாங் டோங்மேய், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவை பிரதமர் அலுவலகத்தில் சந்தித்து, பெண்கள் வலுவூட்டல் மற்றும் அபிவிருத்தி தொடர்பான பரஸ்பர முயற்சிகள் குறித்து கலந்துரையாடினார்.
+
+திருமதி சாங் டோங்மேய் மற்றும் அவரது தூதுக்குழுவினரை வரவேற்ற பிரதமர் கலாநிதி அமரசூரிய, இலங்கைக்கும் சீனாவுக்கும் இடையிலான நீடித்த நட்புறவைப் பாராட்டினர். இந்த கலந்துரையாடல் பெண்களின் சுகாதாரம், கல்வி மற்றும் பொருளாதாரப் பங்கேற்பு ஆகியவற்றில் பகிரப்பட்ட சவால்கள் மற்றும் வாய்ப்புகளை மையமாகக் கொண்டிருந்தது. பெண்களின் தொழிற்படை ஈடுபாடு மற்றும் கீழ்மட்ட பிரதிநிதித்துவத்தை அதிகரிப்பது உட்பட சீனாவின் முன்னேற்றங்கள் குறித்து திருமதி சாங் டோங்மேய் விளக்கினார்.
+
+...
+
+[Data](articles/f77f2fae.json)
+
+---
+
+### යාපනය ප්‍රදේශයේ වායු ගුණත්වය පිළිබඳව පරීක්ෂාකර අධිකරණයට දන්වන්නැයි නියෝගයක්
+
+*2024-12-17 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204466) · `si`
+
+යාපනය ප්‍රදේශයේ වායු ගුණත්වය පිළිබඳව මාසයක් පුරා අඛන්ඩව පරීක්ෂණ කර එහි අහිතකර කාරක තිබේදැයි අධිකරණයට කරුණු ඉදිරිපත් කිරීමට පියවර ගන්නා ලෙස අභියාචනාධිකරණය විසින් අද (17) මධ්‍යම පරිසර අධිකාරියට නියෝග කළේය.
+
+එවැනි පරීක්ෂණයකදී යාපනය ප්‍රදේශයේ වායුවේ අහිතකර කාරක අන්තර්ගත වන බවට තොරතුරු අනාවරණය වන්නේ නම් ඒ පිළිබඳව ජනතාව දැනුවත් කිරීමේ යාන්ත්‍රණයක් සකස් කිරීමට ඇති හැකියාව සොයාබලා අධිකරණයට දැනුම්දෙන ලෙසත් අධිකරණය විසින් පරිසර අමාත්‍යවරයා ඇතුළු පිරිසකට නියෝග කර තිබුණි.
+
+යාපනය ප්‍රදේශයේ පදිංචි වෛද්‍ය උමාසුකී නඩරාජා මහත්මිය විසින් ඉදිරිපත් කළ පෙත්සමක් සලකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්ධුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කළේය.
+
+පෙත්සම්කාරිය වෙනුවෙන් පෙනී සිටි නීතීඥ රවින්මද්‍රනාත් දාබරේ මහතා අධිකරණයට දැනුම් දුන්නේ යුද්ධයෙන් පීඩාවට පත් වූ යාපනය අර්ධද්වීප ප්‍රදේශයේ වායු ගුණත්වය පිළිබඳව වගකිවයුතු රාජ්‍ය ආයතන විසින් මේ දක්වා විධිමත් පරීක්ෂණයක් සිදු කර නොමැති බවයි.
+
+...
+
+[Data](articles/845f049a.json)
+
+---
 
 ### Ranil praises President Anura
 
@@ -51,6 +83,20 @@ The further states that President Anura Kumara Dissanayake is praising the Econo
 [Data](articles/fd9c5a80.json)
 
 [Extended Data](ext_articles/fd9c5a80.ext.json)
+
+---
+
+### தகனமா ? அடக்கமா ? விவகாரத்தில் பாதிக்கப்பட்ட தரப்பினருக்கு இழப்பீட்டை வழங்குங்கள்- சஜித்
+
+*2024-12-17 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201509) · `ta`
+
+கொரோனா, கோவிட் வைரஸ் பரவல் காலத்தில் ஒரு இனத்தையும் மதத்தையும் இலக்கு வைத்து கோட்டாபய ராஜபக்ச அரசாங்கம் நடந்து கொண்டது. கோட்டாபய ராஜபக்ச அரசாங்கம் உலக சுகாதார ஸ்தாபனம் வழங்கிய வழிகாட்டுதல்களையும் மீறி செயற்பட்டது. உரிமைகள் மீறப்பட்ட இஸ்லாமிய சமூகத்தினருக்கு, பாதிக்கப்பட்ட முஸ்லிம்களுக்கும் நீதி நிலைநாட்டப்பட வேண்டும்.
+
+இதனால் பாதிக்கப்பட்ட  தரப்பினருக்கு இழப்பீட்டை வழங்குமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று செவ்வாய்க்கிழமை (17) பாராளுமன்றத்தில் கோரிக்கை விடுத்தார்.
+
+◼️
+
+[Data](articles/89156df2.json)
 
 ---
 
@@ -78,21 +124,31 @@ He said that the present government was reported to remove all the security offi
 
 ---
 
-### මන්ත්‍රී අර්චුනාට යාපනය රෝහලෙන් කොන්දේසියක්
+### Detail of MP Patrictio for Jaffna Hospital
 
 *2024-12-17 16:50:38* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-අර්චුනාට-යාපනය-රෝහලෙන්-කොන්දේසියක්/11-413696) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්චුනා මහතාට ඉදිරියේදී රෝගියෙක් වශයෙන් හැර වෙනත් කිසිදු හේතුවක් මත යාපනය ශික්ෂණ රෝහලට ඇතුල් වීමට අවසර නොමැති බවට යාපනය ශික්ෂණ රෝහලේ රෝහල් අධ්‍යක්ෂක කාර්යාලය මගින් දැනුම් දී ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-මන්ත්‍රීවරයාට ඒරෙහිව යාපනය අධිකරණයේදී ගොනුකර තිබූ නඩුවකට පෙනී සිටි මන්ත්‍රී රාමනාදන් අරුචුනාට රුපියල් ලක්ෂයක ශරීර ඇප ඊයේ (16) දින නියම වූ අතර නඩුව එළැඹෙන වසරේ (2025) පෙබරවරී 07 වනදාට කල් තැබීමෙන් පසුව යාපනය ශික්ෂණ රෝහල මගින් මේ බව දැනුම් දී ඇත.
 
-එමෙන්ම යපනය අධිකරණය මගින් අර්චුනා මන්ත්‍රීවරයාට යපනය ශික්ෂණ රේහලට අවසරයකින් තොරව ඇතුල් වීමට නොහැකි බවටද ඇතුල් වන්නේනම් රෝහල් පාලනාධිකාරියෙන් අවසරයක් ලබාගත යුතු බවටද නියෝග කොට තිබුණි.
 
-එවන් පසුබිමක යාපනය ශික්ෂණ රෝහල විසින් මෙලෙස දැනුම් දී ඇත්තේ අර්චුනා මන්ත්‍රීවරයා මන්ත්‍රීවරයා යාපනය ශික්ෂණ රෝහල් පරික්ශ්‍රයට අනවසරයෙන් ඇතුල් වන්නේනම් ඔහුට පහරදීමක් හෝ හිරිහැරයක් නොකොට ඔහුව යාපනය පොලීසියට භාරදීමට රෝහල් ආරක්ෂක අංශ දැනුවත් කොට ඇති බවටය.
+Jaffna Teaching Hospital denies entry to its office. Court case involving MP Ramanathan. Parliamentarian barred from entering without permission. Hospital claims unauthorized access attempts.
+
+🟩
+
+The office of the Jaffna Teaching Hospital has not been allowed to enter the Jaffna Teaching Hospital on any other reason.
+
+The Jaffna Teaching Hospital (Jaffna Teaching Hospital) has informed MP Ramanathan, who appeared in a case filed by the Manara Jaffna court.
+
+The delegation also ordered that the parliamentary manager is not able to enter the parliament without allowing the parliamentary transfer without permission.
+
+The Jaffna Teaching Hospital has informed the Jaffna Teaching Hospital that MP is unauthorized and handed over to the Jaffna Teaching Hospital temptation, if MP is unauthorized or hacked to attack the hospital.
 
 ◼️
 
 [Data](articles/5770d3a1.json)
+
+[Extended Data](ext_articles/5770d3a1.ext.json)
 
 ---
 
@@ -110,21 +166,31 @@ He made this statement in response to a question raised by Minister Dr. Nalinda 
 
 [Data](articles/92b7aed5.json)
 
+[Extended Data](ext_articles/92b7aed5.ext.json)
+
 ---
 
-### සාත්තු සේවා විෂය නිර්දේශයේ සංශෝධනයක්
+### An amendment of the nursing service syllabus
 
 *2024-12-17 16:35:34* · [`adalk`](https://www.ada.lk/breaking_news/සාත්තු-සේවා-විෂය-නිර්දේශයේ-සංශෝධනයක්/11-413695) · `si`
 
-සාත්තු සේවා (caregivers) විදේශ රැකියා සදහා ලබා දෙන පුහුණුවට අදාළ දැනට පවතින විෂය නිර්දේශය සංශෝධනය කිරීමට තෘතියික හා වෘත්තීය අධ්‍යාපන කොමිෂන් සභාව (TVEC) විසින් තීරණය කර තිබේ.
+N
 
-එම විෂය නිර්දේශයේ සිදු කල සංශෝධනය පිළිබදව දැනුවත් කිරීම සදහා වූ වැඩසටහන ඊයේ දින (2024.12.16) ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශ ශ්‍රවණාගාරයේදී පැවැත්විණ. මෙලෙස සංශෝධනය සිදු කොට ඇත්තේ පැවති  විෂය නිර්දේශයේ පවත්නා වූ නොගැළපීම් සහ පැරණි විෂය නිර්දේශය යටතේ වෙනත් රටවලට ඇති ඉල්ලුමට අනුව සැපයුම ලබා දීම සදහා පුහුණුව ප්‍රමාණවත් නොවීම හේතුවෙන් මෙය සෑම රටකටම ගැළපෙන ලෙස තෘතියික හා වෘත්තීය අධ්‍යාපන කොමිෂන් සභාව (TVEC) මෙම නව සංශෝධනය හදුන්වා දී තිබේ. සෑම වසර තුනකටම වරක් මෙම සංශෝධනයන් සිදු කරන බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සදහන් කරයි .
+🟩
 
-මෙම සංශෝධිත විෂය නිර්දේශය  ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ පන්නිපිටිය, දඹුල්ල, රත්නපුර, බදුල්ල, තංගල්ල හා පොළොන්නරුව යන පුහුණු මධ්‍යස්ථානයන්හි මෙන්ම කාර්යාංශයේ අනුමැතිය ලද පෞද්ගලික පුහුණු මධ්‍යස්ථාන 28 ක් තුළ ඉදිරියේ දී ක්‍රියාත්මක කිරීමට නියමිතය.
+The Tertiary and Vocational Education Commission (TVEC) has decided to revise the present syllabus related to the existing syllabus related to foreign employment.
+
+Awareness program to educate the amendment of the syllabus at the Sri Lanka Bureau of Foreign Employment Station (SLBFE). This amendment has been introduced to suit all countries to sufficient training in the syllabus of the syllabus and the demand for other countries under the ancient syllabus.. The Sri Lanka Bureau of Foreign Employment states that once every three years will be performed every three years.
+
+This revised syllabus is to be implemented in Pannipitiya, Dambulla, Ratnapura, Badulla, Tangalle and Polonnaruwa, Badulla, Tangalle and Polonnaruwa.
+
+Awareness on this amended new syllabus was held under the patronage of Dr. Sudath Damasinghe at the Sri Jayewardenepura Hospital. The Tertiary and Vocational Education Commission (TvC Additional Director General W.A Wijesinghe was made to educate the new syllabus.
 
 ...
 
 [Data](articles/fbf9a61b.json)
+
+[Extended Data](ext_articles/fbf9a61b.ext.json)
 
 ---
 
@@ -1488,17 +1554,15 @@ He added that four suspects have been arrested in connection with the investigat
 
 *2024-12-17 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104301/four-new-mps-sworn-in) · `en`
 
-Four new National List Members of Parliament were sworn in before the Deputy Speaker this morning (17).
+Four new National List Members of Parliament were sworn in before the Deputy Speaker Dr. Rizvie Salih this morning (17).
 
-Accordingly, Faiszer Musthapha of the New Democratic Front (NDF) and Sujeewa Senasinghe, Mano Ganesan, and Mohamed Ismail of the Samagi Jana Balawegaya (SJB) took oath as Members of Parliament following the commencement of today”s parliamentary session.
+Accordingly, Faiszer Musthapha of the New Democratic Front (NDF) and Arjuna Sujeewa Senasinghe, Muhammadu Ismail Muththu Muhammedu, and Mano Ganesan of the Samagi Jana Balawegaya (SJB) took oath as Members of Parliament following the commencement of today’s parliamentary session.
 
-On December 12, the SJB announced the nominations for its four remaining National List MP seats, naming Mano Ganesan, Nizam Kariapper, Sujeewa Senasinghe, and Mohamed Ismail.
+Following the swearing-in ceremony before the Deputy Speaker, the newly appointed Members of Parliament signed in the Member Roll in the presence of the Secretary-General of Parliament, Mrs. Kushani Rohanadeera.
 
-However, only three SJB National List MPs were sworn in today, as Nizam Kariapper was not present to take oath.
+The first session of the Tenth Parliament convened on November 21, during which newly appointed Members of Parliament took their oaths. At the time, the four National List Member names allocated to the Samagi Jana Balawegaya (SJB) was yet to be published via a Gazzete notification.
 
-Meanwhile, on December 11, the Election Commission of Sri Lanka issued a Gazette notification confirming Faiszer Musthapha”s appointment as an MP through the National List of the NDF, which contested the 2024 General Election under the “Gas Cylinder” symbol.
-
-◼️
+...
 
 [Data](articles/1ec81f53.json)
 
@@ -1638,7 +1702,7 @@ Deputy Speaker Rizvie Salih’s credentials have also been questioned. (Colombo/
 
 *2024-12-17 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104300/jagath-wickremeratne-appointed-new-speaker-) · `en`
 
-National People’s Power (NPP) Member of Parliament Dr. Jagath Wickramaratne has been unanimously appointed as the new Speaker of Sri Lanka’s Parliament.
+National People’s Power (NPP) Member of Parliament Dr. Jagath Wickramaratne has been unanimously elected as the new Speaker of Sri Lanka’s Parliament.
 
 The Polonnaruwa District MP was nominated by Prime Minister Dr. Harini Amarasuriya following the commencement of today’s parliamentary session.
 
@@ -1646,9 +1710,9 @@ The proposal was seconded by the Leader of the House, Minister Bimal Ratnayake.
 
 Accordingly, the Deputy Speaker, Dr. Rizvie Salih announced to the House that Dr. Wickremeratne was unanimously appointed as the new Speaker of the Tenth Parliament as no other names were proposed.
 
-The appointment comes following the resignation of MP Asoka Ranwala from the position on December 13, amidst the controversy surrounding his educational qualifications. The President had later accepted his letter of resignation.
+The Prime Minister and the Leader of the House, who proposed and seconded the name of the Speaker, then escorted the new Speaker to his seat as per tradition.
 
-The opposition had previously stated that they would also propose a name for the Speaker of Parliament, representing the opposition, however, no such proposal was made today.
+Prime Minister Dr. Harini Amarasuriya, Leader of the Opposition Sajith Premadasa and other party leaders congratulated the new Speaker on his election.
 
 ...
 
@@ -2289,65 +2353,5 @@ Speaking to the media, Minister Nanayakkara raised concerns that the false entry
 [Data](articles/317e3746.json)
 
 [Extended Data](ext_articles/317e3746.ext.json)
-
----
-
-### Complaint lodged against Namal Rajapaksa over alleged Law College exam fraud
-
-*2024-12-17 02:09:37* · [`dailyftlk`](https://www.ft.lk/news/Complaint-lodged-against-Namal-Rajapaksa-over-alleged-Law-College-exam-fraud/56-770613) · `en`
-
-Citizen’s Movement Against Fraud, Corruption, and Waste Chairperson Jamuni Kamantha Thushara filed a complaint with the Criminal Investigation Department (CID) yesterday, alleging irregularities in MP Namal Rajapaksa’s Sri Lanka Law College examination.
-
-Speaking to the media after lodging the complaint, Thushara accused Rajapaksa of receiving preferential treatment during a competitive Law College examination held 11 years ago. He claimed that a witness is prepared to testify that Rajapaksa cheated during the exam.
-
-“There is evidence that Namal Rajapaksa sat for the Law College exam in a special air-conditioned room, where he was assisted by two lawyers to complete the examination,” Thushara alleged.
-
-...
-
-[Data](articles/83894deb.json)
-
-[Extended Data](ext_articles/83894deb.ext.json)
-
----
-
-### Sri Lanka and India sign MoUs to prevent double taxation, strengthen capacity building of Govt. officials
-
-*2024-12-17 02:07:09* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-India-sign-MoUs-to-prevent-double-taxation-strengthen-capacity-building-of-Govt-officials/56-770612) · `en`
-
-Extends invitation to Indian Prime Minister to visit Sri Lanka
-
-President Anura Kumara Dissanayake yesterday called on Indian Prime Minister Narendra Modi during his three-day official visit to India at the Prime Minister’s official residence, Hyderabad House.
-
-Following discussions, Memoranda of Understandings (MoUs) on the avoidance of double taxation and capacity building for Government officials were exchanged in the presence of the leaders of both countries.
-
-During a joint press briefing, President Dissanayake highlighted that he is well aware of the special importance Sri Lanka holds within India’s foreign policy. Prime Minister Modi expressed his delight that President Dissanayake chose India for his first official foreign visit as the President of Sri Lanka.
-
-The discussions also focused on strengthening Sri Lanka’s ties with India by establishing electricity grid connections and a multi-product petroleum pipeline.
-
-...
-
-[Data](articles/d0136c66.json)
-
-[Extended Data](ext_articles/d0136c66.ext.json)
-
----
-
-### ACCA Sri Lanka presents Budget proposals for 2025 to Deputy Minister of Finance
-
-*2024-12-17 02:03:12* · [`dailyftlk`](https://www.ft.lk/business/ACCA-Sri-Lanka-presents-Budget-proposals-for-2025-to-Deputy-Minister-of-Finance/34-770611) · `en`
-
-ACCA Sri Lanka Chairman Chaaminda Kumarasiri (left) hands over the proposal for
-
-2025 National Budget to Deputy Minister of Finance Dr. Harshana Sooriyapperuma
-
-The Association of Chartered Certified Accountants (ACCA) Sri Lanka recently presented its comprehensive set of proposals for the 2025 National Budget to Deputy Minister of Finance Dr. Harshana Sooriyapperuma.
-
-Titled ‘From Recovery to Sustainability – Crafting Sri Lanka’s Economic Blueprint for 2025,’ the proposals focus on creating sustainable economic growth, enhancing public welfare, and ensuring fiscal responsibility amid Sri Lanka’s current economic challenges.
-
-...
-
-[Data](articles/4543526f.json)
-
-[Extended Data](ext_articles/4543526f.ext.json)
 
 ---

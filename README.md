@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 13:02:02**
+As of **2024-12-17 13:13:21**
 
 ## Newspaper Stats
 
-*Scraped **60,624** Articles*
+*Scraped **60,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,82 @@ economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,770
-adaderanalk | 7,392
+adaderanalk | 7,393
 tamilmirrorlk | 8,660
-virakesarilk | 9,984
-adaderanasinhalalk | 10,476
+virakesarilk | 9,985
+adaderanasinhalalk | 10,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,551 (99.9%) of 60,624 articles have been extended.
+60,553 (99.9%) of 60,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### zoom இல் கலந்துரையாடாமல் வொஷிங்டன் சென்றது ஏன்?
+### தோட்ட உட்கட்டமைப்பு அமைச்சின் வழிகாட்டலில் மலையக இளைஞர், யுவதிகளுக்கு தொழில் வழிகாட்டல் செயலமர்வு
+
+*2024-12-17 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201489) · `ta`
+
+பதுளை மாவட்டத்தில் உள்ள மலையக இளைஞர், யுவதிகளுக்கு தொழில் வாய்ப்புகளை பெற்றுக் கொடுப்பதற்கான விசேட தொழில் வழிகாட்டல் பயிற்சி கருத்தரங்கு தோட்ட உட்கட்டமைப்பு அமைச்சின் ஆலோசனை வழிகாட்டலின் கீழ் எதிர்வரும் 19 ஆம் திகதி மு.ப.9.00 மணிக்கு ஊவா மாகாண சபை கேட்போர் கூடத்தில் நடைபெறவுள்ளது.
+
+இக்கருத்தரங்கிற்கு வெளிநாட்டு வேலைவாய்ப்பு பணியகம், இலங்கை ஹோட்டல் முகாமைத்துவ மற்றும் சுற்றுலா அதிகார சபை, தேசிய இளைஞர் சேவைகள் மன்றம், தேசிய தொழிற்பயிற்சிகள் முகாமைத்துவ நிலையம், ஊவா மாகாண சபை, தொழில்நுட்பக் கல்லூரி, கைத்தொழில் அமைச்சு, பொறியியல் கல்லூரி மற்றும்  வீதி அபிவிருத்தி அதிகார சபை ஆகிய அரச நிறுவனங்கள் அனுசரணை வழங்குகின்றன.
+
+கருத்தரங்கில் கலந்து கொள்ளவுள்ளோர் 0760787141, 0750461915, 0779270057, 0772042674 ஆகிய தொலைபேசி இலக்கங்களுடன் தொடர்பு கொண்டு மேலதிக தகவல்களை பெற்றுக் கொள்ளுமாறு ஏற்பாட்டாளர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/7a551475.json)
+
+---
+
+### හිටපු ජනපතිවරුට ලබා දී ඇති ත්‍රිවිධ හමුදාව ලබන සතියේ සිට ඉවතට
+
+*2024-12-17 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204458) · `si`
+
+පොලීසිය විසින් සපයා ඇති ආරක්ෂාව හැරුණු කොට හිටපු ජනාධිපතිවරුන් වෙත ලබා දී ඇති සියලුම ත්‍රිවිධ හමුදා එලැඹෙන සතියේ සිට ඉවත් කිරීමට පියවර ගන්නා බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
+
+අද පාර්ලිමේන්තුවේදී මේ සම්බන්ධව අදහස් දක්වමින් ඔහු පැවසුවේ මාස 6කට වරක් කරනු ලබන ආරක්ෂක තක්සේරුවේදී ඊට අනුකූලව ආරක්ෂාව සපයනු ඇති බවය.
+
+මෙහිදී අමාත්‍යවරයා හිටපු ජනාධිපතිවරුන් වෙනුවෙන් යොදවා ඇති ආරක්ෂක නිලධාරීන් ප්‍රමාණයද අමාත්‍යවරයා මෙහිදි කරුනු අනාවරණය කරනු ලැබීය.
+
+එහිදී අදහස් දක්වමින් ඔහු පැවසුවේ මහජනතාවගේ මුදල් රජය විසින් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව වෙනුවෙන් වැය කරනු ලබන අතර එම මුදල රුපියල් මිලියන 1448ක් බවය.
+
+"අදත් හිටපු ජනාධිප මහින්ද රාජපක්ෂ මහතාට පොලීසියේ 60ක් සහ ත්‍රිවිධ හමුදාවේ 228ක් වශයෙන් නිලධාරීන් ආරක්ෂාවට සහ අනෙකුත් කටයුතුවලට යොදලා තියෙනවා. මෛත්‍රිපාල සිරිසේන හිටපු ජනාධිපතිවරයාට හමුදා නිලධාරීන් 4ක් සහ පොලිස් නිලධාරීන් 60ක් ආරක්ෂකයින් වශයෙන් යොදලා තියෙනවා.
+
+...
+
+[Data](articles/99e97f66.json)
+
+---
+
+### Why did Washington go without discussing with Zoom?
 
 *2024-12-17 12:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/zoom-இல்-கலந்துரையாடாமல்-வொஷிங்டன்-சென்றது-ஏன்/175-348839) · `ta`
 
-சர்வதேச நாணய நிதியம் அதன் விரிவாக்கப்பட்ட நிதி வசதி குறித்து zoom செயலியின் மூலமாக விவாதம் நடத்த ஒப்புக்கொண்ட போதிலும், மத்திய வங்கி மற்றும் நிதி அமைச்சக அதிகாரிகள் பெரும் தொகையை செலவிட்டு வொஷிங்டனுக்கு சென்றது ஏன் என்று எதிர்க்கட்சி எம்.பி சாமர சம்பத் இன்று கேள்வி எழுப்பினார்.
+Here's a summary of 200 characters:
 
-வொஷிங்டனில் நடைபெற்ற சர்வதேச நாணய நிதியத்தின் கலந்துரையாடலில் நிதி, திட்டமிடல் மற்றும் பொருளாதார அபிவிருத்தி அமைச்சின் நான்கு அதிகாரிகளும் மத்திய வங்கியின் ஐந்து அதிகாரிகளும் கலந்துகொண்டதாகவும் அதனைத் தொடர்ந்து வொஷிங்டனில் இடம்பெற்ற கலந்துரையாடல்களில் பங்கேற்பதற்கான தீர்மானம் அரசாங்கம் மற்றும் IMF இடையே ஒரு ஒப்பந்தத்தின் அடிப்படையில் எடுக்கப்பட்டதாகவும் பிரதி நிதி அமைச்சர் கலாநிதி ஹர்ஷன சூரியப்பெரும தெரிவித்தார்.
 
-கலந்துரையாடல்களின் சிக்கலான தன்மை, சம்பந்தப்பட்ட நிறுவனங்களின் எண்ணிக்கை மற்றும் நடத்த திட்டமிடப்பட்ட கலந்துரையாடல்களின் எண்ணிக்கை ஆகியவற்றின் காரணமாக வொஷிங்டன் கலந்துரையாடலில் பங்கேற்க அரசாங்கம் தீர்மானித்ததாக அமைச்சர் கூறினார்.
+
+Washington discussion: IMF Zoom agreement questioned. Finance officials spent $7.05M on travel. Minister denies airplane travel claim.
+
+🟩
+
+Opposition MP Sampath today questioned why the International Monetary Fund agreed to discuss its expanded funding through the Zoom processor, but the central bank and finance ministry officials spent huge amounts of money.
+
+Deputy Minister of Finance, Dr. Harshana Suriya, said that four officials of the Ministry of Finance, Planning and Economic Development and five officials of the Ministry of Finance, Planning and Economic Development participated in the discussion held in Washington, followed by a contract between the government and the IMF in Washington.
+
+The Minister said that the government decided to participate in the Washington discussion due to the complexity of the discussions, the number of the concerned companies and the number of discussions scheduled.
+
+He said the International Monetary Fund and the government had agreed to hold part of the discussion in Washington and that the IMF team had agreed to come to Sri Lanka for the other half.
 
 ...
 
 [Data](articles/78e53008.json)
+
+[Extended Data](ext_articles/78e53008.ext.json)
 
 ---
 
@@ -73,6 +121,26 @@ In such cases, security authorities have been ordered to handle the situation wi
 [Data](articles/3e60a559.json)
 
 [Extended Data](ext_articles/3e60a559.ext.json)
+
+---
+
+### Bomb kills chief of Russian nuclear protection forces in Moscow
+
+*2024-12-17 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104306/bomb-kills-chief-of-russian-nuclear-protection-forces-in-moscow) · `en`
+
+A bomb hidden in an electric scooter killed a senior Russian general in charge of nuclear protection forces in Moscow on Tuesday, Russia’s investigative committee said.
+
+Lieutenant General Igor Kirillov, who is chief of Russia’s Nuclear, Biological and Chemical Protection Troops, was killed outside an apartment building on Ryazansky Prospekt, which starts road some 7 km (4 miles) southeast of the Kremlin.
+
+“Igor Kirillov, the head of the radiation, chemical and biological protection forces of the armed forces of the Russian Federation, and his assistant were killed,” the investigative committee said.
+
+Photographs posted on Russian Telegram channels showed a shattered entrance to a building littered with rubble and two bodies lying in the blood-stained snow.
+
+Russia’s radioactive, chemical and biological defence troops, known as RKhBZ, are special forces who operate under conditions of radioactive, chemical and biological contamination.
+
+◼️
+
+[Data](articles/57d2f538.json)
 
 ---
 
@@ -303,6 +371,8 @@ The prolonged internal crisis of the SLFP, once one of the largest political par
 ...
 
 [Data](articles/e91fbfdf.json)
+
+[Extended Data](ext_articles/e91fbfdf.ext.json)
 
 ---
 
@@ -748,11 +818,11 @@ The opposition had previously stated that they would also propose a name for the
 
 ---
 
-### නව කථානායක ලෙස වෛද්‍ය ජගත් වික්‍රමරත්න තෝරා පත්වෙයි
+### නව කථානායක ලෙස වෛද්‍ය ජගත් වික්‍රමරත්නව පත් කෙරේ
 
 *2024-12-17 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204454) · `si`
 
-10 වන පාර්ලිමේන්තුවේ නව කථානායකවරයා ලෙස ජාතික ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී  වෛද්‍ය ජගත් වික්‍රමරත්න මහතා තේරී පත්විය.
+10 වන පාර්ලිමේන්තුවේ නව කථානායකවරයා ලෙස ජාතික ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී  වෛද්‍ය ජගත් වික්‍රමරත්න මහතා පත් කර තිබේ.
 
 නව කථානායකවරයා වෙනුවෙන් වූ යෝජනාව අග්‍රාමාත්‍ය හරිනි අමරසූරිය විසින් ගෙන ආ අතර සභා නායක බිමල් රත්නායක විසින් විසින් එය ස්ථීර කරනු ලැබීය.
 
@@ -2211,79 +2281,5 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 [Data](articles/a760c533.json)
 
 [Extended Data](ext_articles/a760c533.ext.json)
-
----
-
-### Early to go to buy
-
-*2024-12-16 19:07:51* · [`adalk`](https://www.ada.lk/breaking_news/සතොසත්-වී-මිලදී-ගැනීමට-යයි/11-413681) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Trade Minister buys rice fairly from farmers via Sathosuro. Government intervenes to convert paddy to rice.
-
-🟩
-
-Minister of Trade to purchase a fair pricing from Farmers through Sathosuro, says the Minister of Trade to buy fair.
-
-The Minister said that the government intervened to convert that paddy into rice, the Minister said that the government intervened to intervene.
-
-◼️
-
-[Data](articles/1259dd03.json)
-
-[Extended Data](ext_articles/1259dd03.ext.json)
-
----
-
-### India confident of Sri Lanka giving due care for concerns over Chinese research ship visits
-
-*2024-12-16 19:07:00* · [`economynextcom`](https://economynext.com/india-confident-of-sri-lanka-giving-due-care-for-concerns-over-chinese-research-ship-visits-194548/) · `en`
-
-ECONOMYNEXT – India is confident that Sri Lanka will give due care for the security concerns over the visits of Chinese research vessels, the Indian Foreign Secretary Shri Vikram Misri said.
-
-The Foreign Secretary’s comments for questions at a media briefing came after Sri Lanka President Anura Kumara Dissanayake met India’s Prime Minister Narendra Modi on a three-day official visit.
-
-“Our understanding is that the Sri Lanka government is looking at this issue,” Misri told reporters when he was asked if the Indian side discussed extending the ban on foreign research vessels.
-
-Sri Lanka’s previous government has imposed a temporary one-year ban on all foreign research vessels visiting Sri Lanka for research purposes. The move came in December last year after strong security concerns raised by India.
-
-...
-
-[Data](articles/511b4e09.json)
-
-[Extended Data](ext_articles/511b4e09.ext.json)
-
----
-
-### Sri Lankans detained in Myanmar cyber crime camps
-
-*2024-12-16 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204439) · `si`
-
-Sri Lankans detained in Myanmar cyber crime camps: 8 women return home, 14 still held. Government seeks help to rescue 63 victims. Foreign Employment Bureau advised to follow proper procedures for repatriation.
-
-🟩
-
-A group of eight women in the control of Myanmar human traffickers has arrived in Sri Lanka today (16).
-
-They had arrived in the island on SriLankan flight from Banguchchiya to Katunayake this afternoon.
-
-It is reported that they had taken measures to take their residence safely.
-
-Meanwhile, a group of 14 others are in the grip of the human racards of Myanmar.
-
-Minister Vijitha Herath was instructed to use the arrangements to be taken to bring them to bring them.
-
-At the island, 63 trapped in Myanmar's human traffic camps after the new government was elected.
-
-The Ministry of Foreign Affairs and Tourism has requested the foreign employment to adapt to foreign employment to adapt authorized procedures for the victims of human trafficking.
-
-◼️
-
-[Data](articles/c8e2c06f.json)
-
-[Extended Data](ext_articles/c8e2c06f.ext.json)
 
 ---

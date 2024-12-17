@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 17:02:23**
+As of **2024-12-17 17:12:00**
 
 ## Newspaper Stats
 
-*Scraped **60,656** Articles*
+*Scraped **60,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,776
+adalk | 5,777
 adaderanalk | 7,397
 tamilmirrorlk | 8,663
 virakesarilk | 9,992
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,581 (99.9%) of 60,656 articles have been extended.
+60,581 (99.9%) of 60,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### හිටපු ජනපතිවරුන්ගේ ත්‍රිවිධ හමුදා ආරක්ෂාව ලබන සතියේදී ඉවතට
+
+*2024-12-17 16:23:12* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-ත්‍රිවිධ-හමුදා-ආරක්ෂාව-ලබන-සතියේදී-ඉවතට/11-413694) · `si`
+
+හිටපු ජනපතිවරුන්ට ලබාදී ඇති ත්‍රිවිධ හමුදා ආරක්ෂාව ලබන සතියේදී ඉවත් කරන බවත් හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව මාස හයකට වරක් තක්සේරු කරන බවත් මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා අද පාර්ලිමේන්තුවේදී විශේෂ ප්‍රකාශයක් කරමින් පැවැසීය.
+
+හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාට පොලීස් නිලධාරීන් 60ක් ත්‍රිවිධ හමුදාවේ නිලධාරීන් 228ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස 11 හමාරක කාලය තුළ රුපියල් මිලියන 710ක වැය බරක් දරා ඇත.
+
+හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාට පොලීස් නිලධාරීන් 60ක් ත්‍රිවිධ හමුදාවේ නිලධාරීන් 4ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස 11 හමාරක කාලය තුළ රුපියල් මිලියන 207ක වැය බරක් දරා ඇත.
+
+හිටපු ජනපති ගෝඨාභය රාජපක්ෂ මහතාට පොලීස් නිලධාරීන් 22ක් ත්‍රිවිධ හමුදාවේ නිලධාරීන් 188ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස 11 හමාරක කාලය තුළ රුපියල් මිලියන 367ක වැය බරක් දරා ඇත.
+
+හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතාට පොලීස් නිලධාරීන් 60ක්  ත්‍රිවිධ හමුදාවේ නිලධාරීන් 57ක් ආරක්ෂාව ලබා දී ඇති බවත්  ඒ වෙනුවෙන් මාස දෙකක කාලය තුළ රුපියල් මිලියන 82ක වැය බරක් දරා ඇත.
+
+...
+
+[Data](articles/8f506024.json)
+
+---
 
 ### Sri Lanka economy increased by 5.5% in the third quarter of 2024
 
@@ -2281,23 +2301,5 @@ Adding insult to injury, during peak hours, these high-tech traffic lights are o
 [Data](articles/cc5d7648.json)
 
 [Extended Data](ext_articles/cc5d7648.ext.json)
-
----
-
-### India and Sri Lanka issue joint statement fostering partnerships for shared future
-
-*2024-12-17 00:00:38* · [`dailyftlk`](https://www.ft.lk/news/India-and-Sri-Lanka-issue-joint-statement-fostering-partnerships-for-shared-future/56-770585) · `en`
-
-Indian Prime Minister Narendra Modi and Sri Lanka President Anura Kumara Dissanayake chair bilateral talks in New Delhi
-
-Prime Minister of India Narendra Modi and President of Sri Lanka Anura Kumara Dissanayake yesterday had comprehensive and fruitful discussions at their meeting in New Delhi during the latter’s State visit to the Republic of India.
-
-The two leaders reaffirmed that the India-Sri Lanka bilateral partnership is underpinned by deep-rooted cultural and civilisational ties, geographical proximity and the people-to-people relations.
-
-...
-
-[Data](articles/2bb42785.json)
-
-[Extended Data](ext_articles/2bb42785.ext.json)
 
 ---

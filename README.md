@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 23:14:55**
+As of **2024-12-17 23:27:04**
 
 ## Newspaper Stats
 
@@ -26,31 +26,45 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,620 (99.9%) of 60,702 articles have been extended.
+60,621 (99.9%) of 60,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### லங்கா ரி10 சுப்பர் லீக் ப்ளே ஓவ் சுற்றில் கடைசி அணியாக கண்டி போல்ட்ஸ் இணைந்தது
+### Kandy Boltz joined the last team in the Sri Lanka R10 Super League Play Ove round
 
 *2024-12-17 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201539) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (17) இரவு நடைபெற்ற நுவர எலிய கிங்ஸ் அணிக்கு எதிரான போட்டியில் 5 ஓட்டங்களால் வெற்றிபெற்ற கண்டி போல்ட்ஸ் அணி, கடைசி அணியாக ப்ளே ஓவ் சுற்றில் விளையாட தகுதிபெற்றது.
+Kandy Boltz qualifies for playout round, beating Nuwara Eliya Kings by 5 runs. Kandy Boltz scored 111/9 in 10 overs, led by Beth and Nissanka's 41. Nuwara Eliya lost 106/5, Gayle Mayers scoring 36 off 15 balls.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த கண்டி போல்ட்ஸ் அணி 10 ஓவர்களில் 9 விக்கெட்களை இழந்து 111 ஓட்டங்களைப் பெற்றது.
+🟩
 
-பெத்தும் நிஸ்ஸன்க 41 ஓட்டங்களையும் ஷெஹான் ஜயசூரிய 33 ஓட்டங்களையும் தினேஷ் சந்திமால் 13 ஓட்டங்களையும் பெற்றனர்.
+The Kandy Boltz team qualified for the playout round by 5 runs against the Nuwara Eliya Kings in the Pallekele International Cricket Stadium on Tuesday (17).
 
-பந்துவீச்சில் கசுன் ராஜித்த 16 ஓட்டங்களுக்கு 4 விக்கெட்களையும் லஹிரு மதுஷன்க 9 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+Kandy Boltz, who decided to bat first in the match, scored 111 runs for the loss of 9 wickets in 10 overs.
 
-பதிலுக்கு துடுப்பெடுத்தாடிய நுவர எலிய கிங்ஸ் 10 ஓவர்களில் 5 விக்கெட்களை இழந்து 106 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+Beth and Nissanka scored 41 runs, Shehan Jayasuriya 33 and Dinesh Chandimal scored 13 runs.
 
-கய்ல் மயர்ஸ், அவிஷ்க பெர்னாண்டோ ஆகிய இருவரும் அதிரடியாகத் துடுப்பெடுத்தாடி 21 பந்துகளில் 42 ஓட்டங்களைப் பகிர்ந்து எதிரணிக்கு கிளியை ஏற்படுத்தினர்.
+Kasun Rajitha took 4 wickets for 16 runs and Lahiru Madushank 2 wickets for 9 runs.
+
+In reply, Nuwara Eliya Kings lost 5 wickets in 10 overs and lost 106 runs.
+
+Gayle Mayers and Avishka Fernando played a stunning bats and shared 42 runs off 21 balls.
+
+The Nuwara Eliya Kings team was out of the way after Kill Mayers lost 15 balls with a pound of 36 and 5 sixes.
+
+5 wickets and 31 runs fell by Nuwara Eliya Kings.
+
+On the one hand, Avishka Fernando faced 26 balls and loses 50 runs, including 3 pounds and 4 sixes.
+
+But he was unable to stop qualifying for the Kandy Bolts team.
 
 ...
 
 [Data](articles/49d0e38e.json)
+
+[Extended Data](ext_articles/49d0e38e.ext.json)
 
 ---
 

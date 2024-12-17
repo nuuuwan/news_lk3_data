@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 04:01:37**
+As of **2024-12-18 04:15:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,636 (99.9%) of 60,715 articles have been extended.
+60,638 (99.9%) of 60,715 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1332,6 +1332,8 @@ Crossings were recorded on Commercial Bank, Aitken Spence, and John Keells Holdi
 
 [Data](articles/59d55d3f.json)
 
+[Extended Data](ext_articles/59d55d3f.ext.json)
+
 ---
 
 ### Armed Forces 'armed Forces' protection removed next week
@@ -1467,6 +1469,8 @@ Construction was up 23.8 percent, wood products was up 10.7 percent and electric
 ...
 
 [Data](articles/4a2fefea.json)
+
+[Extended Data](ext_articles/4a2fefea.ext.json)
 
 ---
 

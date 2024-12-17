@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 17:44:30**
+As of **2024-12-17 18:24:22**
 
 ## Newspaper Stats
 
-*Scraped **60,662** Articles*
+*Scraped **60,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,777
+adalk | 5,779
 adaderanalk | 7,399
 tamilmirrorlk | 8,664
 virakesarilk | 9,992
@@ -26,39 +26,73 @@ adaderanasinhalalk | 10,484
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,585 (99.9%) of 60,662 articles have been extended.
+60,588 (99.9%) of 60,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### හිටපු ජනපති රනිල්ගෙන් ජනපති අනුර ට ප්‍රශංසා
+### Ranil praises President Anura
 
 *2024-12-17 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204465) · `si`
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සහ ජනාධිපති අනුර කුමාර දිසානායක යන මහත්වරුන් ඊයේ (16) නවදිල්ලියේ දී නිකුත් කරන ලද ඒකාබද්ධ ප්‍රකාශය ඉන්දු-ලංකා සහයෝගීතාව තවදුරටත් ස්ථායිකර ශක්තිමත් කරවන බැවින් එය සාදරයෙන් පිළිගන්නා වර්ධනයක් බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Ranil Wickremesinghe praises President Anura Kumara Dissanayake for strengthening Indo-Lanka cooperation, particularly economic and technical agreements.
 
-නිවේදනයක් නිකුත් කරමින් හිටපු ජනාධිපතිවරයා මේ බව සඳහන් කර තිබේ.
+🟩
 
-එහි වැඩිදුරටත් සඳහන් වන්නේ කලාපීය බලශක්ති සහ කාර්මික කේන්ද්‍රස්ථානයක් ලෙස ත්‍රිකුණාමලය සංවර්ධනය කරමින්, ආර්ථික හා තාක්ෂණික සහයෝගීතා ගිවිසුම සමඟින් ඉදිරියටයාම පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතාට ප්‍රශංසා කරන බවය.
+Former President Ranil Wickremesinghe says that Indian Prime Minister Narendra Modi and President Anura Kumara Dissanayake has further strengthened the Indo-Lanka cooperation yesterday.
+
+The former President has made this statement.
+
+The further states that President Anura Kumara Dissanayake is praising the Economic and Technical Cooperation Agreement with the Economic and Technical Cooperation Agreement.
 
 ◼️
 
 [Data](articles/fd9c5a80.json)
 
+[Extended Data](ext_articles/fd9c5a80.ext.json)
+
 ---
 
-### මහින්දගේ ආරක්ෂාව කප්පාදු කිරීම ගැන ඩි වී චානක ප්‍රශ්න කරයි
+### Di Chanaka questions about cutting the security of Mahinda
 
 *2024-12-17 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204464) · `si`
 
-හිටපු ජනාධිපතිවරුන් වන මහින්ද රාජපක්ෂ මහතාට සහ රනිල් වික්‍රමසිංහ මහතාට එකම මට්ටමේ ආරක්ෂාවක් ලබාදීමට තීන්දු කළේ කුමන පදනමක් යටතේ ද යන්න පාර්ලිමේන්තු මන්ත්‍රී ඩි. වී. චානක මහතා අද (17) පාර්ලිමේන්තුවේදී ප්‍රශ්න කළේය.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු පැවසුවේ හිටපු ජනාධිපති මහින්ද රජපක්ෂ මහතාගේ ආරක්ෂාව වෙනුවෙන් යොදවා සිටි ත්‍රිවිධ හමුදාවේ ආරක්ෂක නිලධාරීන් සියලුදෙනා ඉවත් කිරීමට වත්මන් ආණ්ඩුව කටයුතු කරන බවට වාර්තා වී ඇති බවය.
+
+
+Parliamentarian Di Chanaka questioned the removal of military security for former President Mahinda Rajapaksa. He claimed only 60 police officers now protect him, down from armed forces previously. Defense Minister Ananda Wijepala responded, stating a review reduced security needs and costs.
+
+🟩
+
+Parliamentarian Dr. Di. Di. Di. Di. Di. Di. Di. Di. Di. President Mahinda Rajapaksa and Ranil Wickremesinghe decided to provide the same protection. Paddy. Chanaka questioned in Parliament today (17).
+
+He said that the present government was reported to remove all the security officers of the Armed Forces who were deployed for the security of the former President Mahinda Rajapaksa.
 
 ...
 
 [Data](articles/0aadad49.json)
+
+[Extended Data](ext_articles/0aadad49.ext.json)
+
+---
+
+### මන්ත්‍රී අර්චුනාට යාපනය රෝහලෙන් කොන්දේසියක්
+
+*2024-12-17 16:50:38* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රී-අර්චුනාට-යාපනය-රෝහලෙන්-කොන්දේසියක්/11-413696) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්චුනා මහතාට ඉදිරියේදී රෝගියෙක් වශයෙන් හැර වෙනත් කිසිදු හේතුවක් මත යාපනය ශික්ෂණ රෝහලට ඇතුල් වීමට අවසර නොමැති බවට යාපනය ශික්ෂණ රෝහලේ රෝහල් අධ්‍යක්ෂක කාර්යාලය මගින් දැනුම් දී ඇත.
+
+මන්ත්‍රීවරයාට ඒරෙහිව යාපනය අධිකරණයේදී ගොනුකර තිබූ නඩුවකට පෙනී සිටි මන්ත්‍රී රාමනාදන් අරුචුනාට රුපියල් ලක්ෂයක ශරීර ඇප ඊයේ (16) දින නියම වූ අතර නඩුව එළැඹෙන වසරේ (2025) පෙබරවරී 07 වනදාට කල් තැබීමෙන් පසුව යාපනය ශික්ෂණ රෝහල මගින් මේ බව දැනුම් දී ඇත.
+
+එමෙන්ම යපනය අධිකරණය මගින් අර්චුනා මන්ත්‍රීවරයාට යපනය ශික්ෂණ රේහලට අවසරයකින් තොරව ඇතුල් වීමට නොහැකි බවටද ඇතුල් වන්නේනම් රෝහල් පාලනාධිකාරියෙන් අවසරයක් ලබාගත යුතු බවටද නියෝග කොට තිබුණි.
+
+එවන් පසුබිමක යාපනය ශික්ෂණ රෝහල විසින් මෙලෙස දැනුම් දී ඇත්තේ අර්චුනා මන්ත්‍රීවරයා මන්ත්‍රීවරයා යාපනය ශික්ෂණ රෝහල් පරික්ශ්‍රයට අනවසරයෙන් ඇතුල් වන්නේනම් ඔහුට පහරදීමක් හෝ හිරිහැරයක් නොකොට ඔහුව යාපනය පොලීසියට භාරදීමට රෝහල් ආරක්ෂක අංශ දැනුවත් කොට ඇති බවටය.
+
+◼️
+
+[Data](articles/5770d3a1.json)
 
 ---
 
@@ -75,6 +109,22 @@ He made this statement in response to a question raised by Minister Dr. Nalinda 
 ◼️
 
 [Data](articles/92b7aed5.json)
+
+---
+
+### සාත්තු සේවා විෂය නිර්දේශයේ සංශෝධනයක්
+
+*2024-12-17 16:35:34* · [`adalk`](https://www.ada.lk/breaking_news/සාත්තු-සේවා-විෂය-නිර්දේශයේ-සංශෝධනයක්/11-413695) · `si`
+
+සාත්තු සේවා (caregivers) විදේශ රැකියා සදහා ලබා දෙන පුහුණුවට අදාළ දැනට පවතින විෂය නිර්දේශය සංශෝධනය කිරීමට තෘතියික හා වෘත්තීය අධ්‍යාපන කොමිෂන් සභාව (TVEC) විසින් තීරණය කර තිබේ.
+
+එම විෂය නිර්දේශයේ සිදු කල සංශෝධනය පිළිබදව දැනුවත් කිරීම සදහා වූ වැඩසටහන ඊයේ දින (2024.12.16) ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශ ශ්‍රවණාගාරයේදී පැවැත්විණ. මෙලෙස සංශෝධනය සිදු කොට ඇත්තේ පැවති  විෂය නිර්දේශයේ පවත්නා වූ නොගැළපීම් සහ පැරණි විෂය නිර්දේශය යටතේ වෙනත් රටවලට ඇති ඉල්ලුමට අනුව සැපයුම ලබා දීම සදහා පුහුණුව ප්‍රමාණවත් නොවීම හේතුවෙන් මෙය සෑම රටකටම ගැළපෙන ලෙස තෘතියික හා වෘත්තීය අධ්‍යාපන කොමිෂන් සභාව (TVEC) මෙම නව සංශෝධනය හදුන්වා දී තිබේ. සෑම වසර තුනකටම වරක් මෙම සංශෝධනයන් සිදු කරන බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය සදහන් කරයි .
+
+මෙම සංශෝධිත විෂය නිර්දේශය  ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ පන්නිපිටිය, දඹුල්ල, රත්නපුර, බදුල්ල, තංගල්ල හා පොළොන්නරුව යන පුහුණු මධ්‍යස්ථානයන්හි මෙන්ම කාර්යාංශයේ අනුමැතිය ලද පෞද්ගලික පුහුණු මධ්‍යස්ථාන 28 ක් තුළ ඉදිරියේ දී ක්‍රියාත්මක කිරීමට නියමිතය.
+
+...
+
+[Data](articles/fbf9a61b.json)
 
 ---
 
@@ -1158,23 +1208,35 @@ Sri Lanka, which defaulted on its foreign debt for the first time in May 2022 du
 
 ---
 
-### ශ්‍රී ලාංකික සංක්‍රමණිකයින් දියෙගෝ ගාර්සියාහි නීති විරෝධී ලෙස රඳවා ගෙන සිට ඇතැයි හෙළි වේ
+### Sri Lankan immigrants have been illegally detained in the Diyago Garcia
 
 *2024-12-17 10:46:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0ew9np49epo) · `si`
 
-ශ්‍රී ලාංකික සංක්‍රමණිකයින් දියෙගෝ ගාර්සියාහි නීති විරෝධී ලෙස රඳවා ගෙන සිට ඇතැයි හෙළි වේ
+Here's a summary of the text in approximately 200 characters:
 
-බ්‍රිතාන්‍යයට අයත් දූරස්ථ භූමි ප්‍රදේශයක් වන දියෙගෝ ගාර්සියාහි ශ්‍රී ලාංකික දෙමළ සංක්‍රමණිකයන් වසර ගණනාවක් පුරා නීතිවිරෝධී ලෙස රඳවා තබාගෙන ඇති බවට විනිසුරුවරයෙකු තීන්දු කර තිබේ.
 
-2021 වසරේදී, දෙමළ ජාතිකයින් රැසක් රහසිගත බ්‍රිතාන්‍ය සහ ඇමෙරිකා එක්සත් ජනපද හමුදා කඳවුරක් පිහිටා ඇති මෙම ඉන්දියානු සාගර දූපතේ සරණාගතභාවය ඉල්ලා සිටි පළමු පුද්ගලයින් බවට පත්වූහ.
 
-වසර ගණනාවක් ඔවුන් කුඩා ආරක්‍ෂිත වැටක් සහිත කඳවුරක රඳවා සිටි අතර ඔවුන්ගේ යහපැවැත්ම සඳහා බ්‍රිතාන්‍ය රජය විසින් "එක් වරක් පමණක් ගනු ලබන" තීරණයක් ලෙස හඳුන්වමින් මෙම මස මුලදී ඔවුන්ව එරටට ගෙන යනු ලැබිණි.
+Sri Lankan Tamil immigrants illegally detained on Diego Garcia. Judge rules detention unlawful. Conditions described as "open prison". Sexual abuse allegations. Camp closure ordered. Historical context of Chagos archipelago acquisition by UK.
 
-ඇතැම් සංක්‍රමණිකයන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයෙකු පැවසුවේ, මෙය සිදු කිරීමට හැකි වූයේ කෙසේ ද යන්න පිළිබඳව ප්‍රශ්න කළ යුතු බව ය. බ්‍රිතාන්‍ය රජයේ ප්‍රකාශකයෙකු පැවසුවේ "මෙම තීන්දුව ගැන ප්‍රවේශමෙන් සලකා බලන" බව ය.
+🟩
+
+Sri Lankan immigrants have been illegally detained in the Diyago Garcia
+
+A judge has decided that the Sri Lankan Tamils ​​in Daego Garcia, a British country area, has been illegally detained for many years.
+
+In 2021, many Tamils ​​have become the first people who have claimed to have a British and US military base.
+
+For many years, they were detained in a small protective fence and was taken to their well-being, as a "only once taken by the British government to the country in early this month.
+
+A lawyer who appeared for some migrants said that this should be questioned about how to do this. A British government spokesman said, "Carefully consider this decision."
+
+Diyago Garcia is never "a long-standing place for immigrants and" the government said, "Inherited over a long-standard deep trouble under the past," said the spokesperson.
 
 ...
 
 [Data](articles/5c015699.json)
+
+[Extended Data](ext_articles/5c015699.ext.json)
 
 ---
 
@@ -2287,65 +2349,5 @@ Titled ‘From Recovery to Sustainability – Crafting Sri Lanka’s Economic Bl
 [Data](articles/4543526f.json)
 
 [Extended Data](ext_articles/4543526f.ext.json)
-
----
-
-### Hayleys Fentons sole Lankan company among top three in construction sector at SAFA Awards
-
-*2024-12-17 01:58:21* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-sole-Lankan-company-among-top-three-in-construction-sector-at-SAFA-Awards/34-770610) · `en`
-
-Hayleys Fentons team celebrates Bronze win at SAFA Awards, marking a milestone as only top-ranked company in Sri Lanka for reporting excellence
-
-Hayleys Fentons Ltd. was recognised at the prestigious SAFA Best Presented Annual Report Awards 2023. Organised by the South Asian Federation of Accountants (SAFA) in collaboration with the Institute of Chartered Accountants of Sri Lanka, the ceremony took place in Colombo recently.
-
-The event celebrated excellence in financial reporting and corporate governance across the region. The SAFA Best Presented Annual Report Award acknowledges organisations for their exceptional achievement in preparing and disclosing financial statements of the highest standard, aligning with the International Accounting Standards Board (IASB) framework to ensure relevance, reliability, and objectivity.
-
-...
-
-[Data](articles/e2ff8024.json)
-
-[Extended Data](ext_articles/e2ff8024.ext.json)
-
----
-
-### Who is the next Speaker?
-
-*2024-12-17 01:46:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6238y0wywro) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New Speaker selection process begins after Asoka Ranwala resigns. Parliament opens December 17 at 9:30 AM. Five new MPs will be sworn in first. Then election for new Speaker will take place. Several names proposed including Deputy Speaker Risvi Mohammed and MPs Nihal Galappaththi, Lakshman Nakuna Arachchi. Opposition plans to suggest candidate but does not guarantee qualifications.
-
-🟩
-
-A Speaker again has to be selected before the aftermath of the Ten Commonwealth (December 17).
-
-Asoka resigned from the post (December 13), as the Speaker was appointed as the Speaker.
-
-Accordingly, Parliament will be selected today (December 17).
-
-'If we have done wrong with our government, we take action,'
-
-BBC asked Parliament for today's process of today's process of electioning again.
-
-Five new MPs are to be sworn in after the commencement of Parliamentary Affairs at 9.30 am under the patronage of the Deputy Speaker of Parliament.. ‍
-
-The Hon. Sampath Jayaratne told the Sinhala that he chooses a new Speaker.
-
-"The deputy speaker comes to the chair. Then new MPs are sworn in, "he explained.
-
-The Venerable Kushan explained resources if several names for the post of Speaker.
-
-"Then there's secret voter. The MP gets the Speaker. "
-
-Leader Minister Bimal Ratnayake (December 16) at a press conference held at a press conference to inform the latest Parliament.
-
-...
-
-[Data](articles/45bbd484.json)
-
-[Extended Data](ext_articles/45bbd484.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 08:56:01**
+As of **2024-12-17 08:35:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,516 (99.9%) of 60,566 articles have been extended.
+60,515 (99.9%) of 60,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -467,8 +467,6 @@ Amid those developments, the All Share Price Index went up by 295.10 points, whi
 ...
 
 [Data](articles/2ecef353.json)
-
-[Extended Data](ext_articles/2ecef353.ext.json)
 
 ---
 

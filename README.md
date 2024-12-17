@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 23:27:04**
+As of **2024-12-17 23:45:58**
 
 ## Newspaper Stats
 
-*Scraped **60,702** Articles*
+*Scraped **60,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 455
 colombotelegraphcom | 616
 bbccomsinhala | 636
 islandlk | 3,669
-economynextcom | 3,691
+economynextcom | 3,698
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,785
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,621 (99.9%) of 60,702 articles have been extended.
+60,623 (99.9%) of 60,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -476,19 +476,33 @@ He added that the decision will be taken only after reviewing the security of th
 
 ---
 
-### மஹிந்தவின் பாதுகாப்பை குறைக்க வேண்டாம் : ரணிலுடன் மஹிந்தவை எவ்வாறு ஒப்பிடமுடியும் - டி.வி. சானக கேள்வி
+### Do not reduce the safety of Mahinda: How to compare Mahinda with Ranil - TV. Dignity question
 
 *2024-12-17 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201520) · `ta`
 
-விடுதலை புலிகளின் கொள்கையுடைய புலம்பெயர் அமைப்புக்களின் நோக்கங்களுக்கு அமைய முன்னாள் மஹிந்த ராஜபக்ஷவின் பாதுகாப்பை குறைக்க வேண்டாம். ரணில் விக்கிரமசிங்கவுக்கு இணையாக எவ்வாறு மஹிந்த ராஜபக்ஷவுக்கு பாதுகாப்பளிக்க முடியும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் டி.வி. சானக கேள்வியெழுப்பினார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாதுகாப்பு தரப்பினர் மஹிந்த ராஜபக்ஷவுக்கு பாதுகாப்பளிப்பதற்கு வழங்கப்பட்டார்களே தவிர அவரது தென்னந்தோப்பில் வேலை செய்வதற்கல்ல, என ஆளும் தரப்பினர் செனரத் குறிப்பிட்டதை தொடர்ந்து பாராளுமன்ற உறுப்பினர் டி.வி. சானகவுக்கும், ஆளும் தரப்பின் உறுப்பினர்களுக்குமிடையில் கடும் தர்க்கம் நிலவியது.
 
-பாராளுமன்றத்தில்  செவ்வாய்க்கிழமை (17) நடைபெற்ற பாடசாலை மாணவர்களுக்கான காகிதாதிகளுக்கான குறை நிரப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றிய பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் டி.வி. சானக,
+
+Security concerns raised about reducing protection for former President Mahinda Rajapaksa. Public Security Minister cites cost savings but opposition claims it's unsafe. Debate centers on comparing security measures for Mahinda vs current leader Ranil Wickremesinghe.
+
+🟩
+
+Do not reduce the safety of former Mahinda Rajapakse, according to the objectives of the LTTE's policymakers. Sri Lanka PA MP TV Member of Parliament for Ranil Wickremesinghe. Chanaka questioned.
+
+The security forces were given to Mahinda Rajapaksa and not to work in his south, not to work in his south, followed by MP TV Member TV Member TV. There was fierce logic between Chanaka and members of the ruling party.
+
+TV Member of Parliament, TV, speaking at the debate on the Motion on the Public Students' Public Students. Chanaka,
+
+The Public Security Minister told the House of Representatives. He stated that only 60 policemen were to be protected by the complete removal of the military security provided to the former president.
+
+It is decided to cancel the military security provided to Mahinda Rajapakse, who ended the war when the police and the Special Task Force were granted security to the security forces when they were taken to court.
 
 ...
 
 [Data](articles/b1ce4901.json)
+
+[Extended Data](ext_articles/b1ce4901.ext.json)
 
 ---
 
@@ -516,19 +530,27 @@ And there is no problem in providing the names of the cremated persons.All right
 
 ---
 
-### போலியான குற்றச்சாட்டை நளின் பண்டார வாபஸ் பெற வேண்டும் - சபை முதல்வர் வலியுறுத்தல்
+### Nalin Bandara withdrawn
 
 *2024-12-17 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201523) · `ta`
 
-கல்வி அமைச்சின் முன்பாக போராட்டத்தில் ஈடுபட்ட அபிவிருத்தி உத்தியோகஸ்த்தர்கள் பயங்கரவாத தடைச்சட்டத்தின் கீழ் கைது செய்யப்படவில்லை என்று பொதுமக்கள் பாதுகாப்பு அமைச்சர் குறிப்பிட்டுள்ளார். ஆகவே பயங்கரவாத தடைச்சட்டத்துக்கு அமைய கைது இடம்பெற்றதாக எதிர்க்கட்சியின் உறுப்பினர் நளின் பண்டார குறிப்பிட்ட பொய்யான கருத்தை அவர் மீளப் பெற வேண்டும் என சபை முதல்வர் பிமல் ரத்நாயக்க தெரிவித்தார்.
+N
 
-பயங்கரவாத தடைச்சட்டத்தின் கைதுகள் இடம்பெறவில்லையாயின் அதனை வரவேற்பேன். பொதுமக்கள் பாதுகாப்பு அமைச்சர் கூற்றை ஆராய்ந்ததன் பின்னர் நாளை குறிப்பிட்ட கருத்தை மீளப்பெறுவது குறித்து குறிப்பிடுகிறேன் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் நடைபெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றிய பொதுமக்கள் பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால, கல்வி அமைச்சின் முன்பாக போராட்டத்தில் ஈடுபட்ட அபிவிருத்தி உத்தியோகஸ்த்தர்கள் பயங்கரவாத தடைச்சட்டத்தின் கீழ் கைது செய்யப்பட்டதாக எதிர்க்கட்சியின் உறுப்பினர் நளின் பண்டார குறிப்பிட்ட கருத்து முற்றிலும் பொய்யானது.
+The Minister of Public Security has stated that the development officials who have been protesting in front of the Ministry of Education have not been arrested under the Terrorism Act.. Opposition member Nalin Bandara has said that he should recover the false view of the arrest of the Terrorism Act.
+
+If the arrests of the Terrorism Act do not take place, I will welcome it. United People's Power Member Nalin Bandara said that after reviewing the Public Security Minister's claim, I will refer to tomorrow's notion.
+
+Speaking at the session in Parliament, Public Security Minister Ananda Wijebala, who was protesting in the Ministry of Education, was arrested by the Opposition Member Nalin Bandara, who was arrested under the Terrorism Act.
+
+During the protest, the police attacked the police and violently arrested the authorities of the Public Act.. No one has been arrested under the PTA. Said.
 
 ...
 
 [Data](articles/41786c54.json)
+
+[Extended Data](ext_articles/41786c54.ext.json)
 
 ---
 
@@ -806,6 +828,44 @@ The petition was then examined on March 6.
 
 ---
 
+### India will back Sri Lanka’s BRICS membership request when consensus reached: Foreign Secretary
+
+*2024-12-17 17:21:00* · [`economynextcom`](https://economynext.com/india-will-back-sri-lankas-brics-membership-request-when-consensus-reached-foreign-secretary-194871/) · `en`
+
+ECONOMYNEXT – India will back Sri Lanka’s bid to become a member of BRICS group when the World’s powerful South-South corporation considers news membership, India’s Foreign Secretary Shri Vikram Misri said.
+
+Sri Lanka’s application to become a member in the BRICS (Brazil, Russia, India, China, and South Africa) was not accepted by the group’s current membership in October when President Anura Kumara Dissanayake’s government applied for the membership.
+
+However, Sri Lanka’s request to become a member of BRICS’ New Development Bank (NDB) was accepted in the October summit held in Russia.
+
+BRICS, an economic and political group, has been gaining increasing relevance in recent years.
+
+It poses several potential challenges to the global dominance of the United States and the central role of the U.S. dollar in international trade and finance.
+
+Sri Lanka has sought the help of BRICS members to push for its own membership.
+
+...
+
+[Data](articles/f64dd301.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 291.15/25 to dollar, bonds steady
+
+*2024-12-17 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-15-25-to-dollar-bonds-steady-194843/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.15/25 to the US dollar on Tuesday from 290.70/80 to the US dollar on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.45/50 percent, up from 9.40/50 percent.
+
+A bond maturing on 15.09.2029 closed at 10.67/73 percent, down from 10.70/80 percent. (Colombo/Dec17/2024)
+
+◼️
+
+[Data](articles/b7be7768.json)
+
+---
+
 ### පිස්තෝලයක හැඩය ගත් මැණිකක් හමුවෙයි
 
 *2024-12-17 17:16:57* · [`adalk`](https://www.ada.lk/breaking_news/පිස්තෝලයක-හැඩය-ගත්-මැණිකක්-හමුවෙයි/11-413699) · `si`
@@ -1020,6 +1080,32 @@ Awareness on this amended new syllabus was held under the patronage of Dr. Sudat
 
 ---
 
+### Sri Lanka stocks close up after some profit taking
+
+*2024-12-17 16:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-some-profit-taking-194643/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader ASPI closed up 11 percent, or 16.02 points, at 14,516.46; while the more liquid S&P SL20 Index closed up 80 percent, or 34.75 points, at 4,384.75.
+
+“There was a bit of selling in the early part due to profit taking, but buying was too strong so market recovered after the selling pressures seen midday,” market participants said.
+
+Sampath Bank closed down at 107.75, HNB closed down at 272.00, and DFCC Bank closed down at 91.00.
+
+“Retail investor interest was also seen in consumer and hotel stocks.”
+
+Top positive contributors to the ASPI were John Keells Holdings (up at 22.30), Commercial Bank (up at 137.50 ), NDB (up at 89.40), Cargills (Ceylon) (up at 405 ), and Lanka IOC (up at 124.50).
+
+Top turnover generators were Commercial Bank, John Keells Holdings, Hatton National Bank, Aitken Spence (), and Sampath Bank.
+
+Crossings were recorded on Commercial Bank, Aitken Spence, and John Keells Holdings.
+
+...
+
+[Data](articles/59d55d3f.json)
+
+---
+
 ### Armed Forces 'armed Forces' protection removed next week
 
 *2024-12-17 16:23:12* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපතිවරුන්ගේ-ත්‍රිවිධ-හමුදා-ආරක්ෂාව-ලබන-සතියේදී-ඉවතට/11-413694) · `si`
@@ -1131,6 +1217,28 @@ The year-on-year GDP growth rate for the third quarter of year 2024 has been rep
 [Data](articles/a09c5853.json)
 
 [Extended Data](ext_articles/a09c5853.ext.json)
+
+---
+
+### Sri Lanka GDP grows 5.5-pct in third quarter 2024
+
+*2024-12-17 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-gdp-grows-5-5-pct-in-third-quarter-2024-194803/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross domestic product expanded 5.5 percent in the third quarter of 2024, up from 1.2 percent a year ago, the state statistics office said, as the central bank providing stability with largely deflationary policy.
+
+Sri Lanka’s private credit expanded with falling interest rates and imports were picking up the Department of Census and Statistics said.
+
+The “increase in imports of investment goods as well as intermediate goods such as textile and textile articles and cement mainly facilitated to the recorded high growth in apparel industry and construction industry respectively,” the statement said.
+
+The agricultural sector grew 3.0 percent despite coconuts shrinking 11.5 percent. Tea expanded 16.3 percent and rice expanded 4.3 percent.
+
+The industrial sector expanded 10.8 percent with apparels up 13.5 percent.
+
+Construction was up 23.8 percent, wood products was up 10.7 percent and electricity and gas was up 15.2 percent.
+
+...
+
+[Data](articles/4a2fefea.json)
 
 ---
 
@@ -1331,6 +1439,32 @@ The petitioning party has pointed out that it is unlawful to submit nominations 
 [Data](articles/a6153ead.json)
 
 [Extended Data](ext_articles/a6153ead.ext.json)
+
+---
+
+### Sri Lanka coconut production dropped 17.8-pct in September: CBSL
+
+*2024-12-17 15:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-production-dropped-17-8-pct-in-september-cbsl-194675/) · `en`
+
+ECONOMYNEXT – Coconut production in Sri Lanka declined by 17.8 percent in September this year compared to September 2023, central bank data showed.
+
+“Coconut production experienced a significant decline of 17.8% in September 2024,” the CBSL agriculture data bulletin for November stated.
+
+Coconut prices in the domestic market have been steadily rising since October.
+
+According to the Coconut Development Authority data, the wholesale price for a large nut was between 160-170 rupees and 130-140 rupees for small nuts on December 16.
+
+A nut was retailing between 175 and 190 rupees at supermarkets.
+
+Sri Lanka coconut auction postponed for the second week due to lack of nuts
+
+For January to September 2023 it was 2,381 million nuts. There was 2,286 million nuts produced in the same period this year.
+
+The Coconut Development Authority postponed the weekly auction for a second consecutive week due to a lack of nuts, its officials said.
+
+...
+
+[Data](articles/049b2405.json)
 
 ---
 
@@ -1613,6 +1747,28 @@ The US dollar purchasing price was 286.4435 rupees and the sales price were 295.
 [Data](articles/31baf383.json)
 
 [Extended Data](ext_articles/31baf383.ext.json)
+
+---
+
+### Sri Lanka President meets Indian businessmen: In pictures
+
+*2024-12-17 13:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-indian-businessmen-in-pictures-194737/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake, who is on an official visit to India, met with leading Indian business representatives on Monday.
+
+The event was organized by the Confederation of Indian Industry (CII).
+
+Dissanayake highlighted the investor-friendly environment in Sri Lanka and invited Indian entrepreneurs to explore investment opportunities in the country, his media division said.
+
+“The discussion, aimed at strengthening investment and trade relations between the two nations, focused on key areas such as the digital economy, tourism, renewable energy, and information technology.”
+
+Expanding investment opportunities in Sri Lanka by leveraging trade between the two countries was also discussed.
+
+Dissanayake’s party, the Janatha Vimukthi Peramuna, has been extremely critical of Indian involvement in the island in the past, often rallying protests, pickets and boycotts that have led to Indians abandoning projects.
+
+...
+
+[Data](articles/610193f9.json)
 
 ---
 
@@ -2190,6 +2346,30 @@ Sri Lanka will also issue 215 million dollars of bond as a fee for those who acc
 
 ---
 
+### Sri Lanka ISB holders to get US$10.4bn and Rs155bn in new bonds on Dec 20
+
+*2024-12-17 10:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-isb-holders-to-get-us10-4bn-and-rs155bn-in-new-bonds-on-dec-20-194677/) · `en`
+
+ECONOMYNEXT – Sri Lanka will issue GDP linked bonds of 10.4 billion US dollars including governance of bonds of 1.6 billion dollars and rupee bonds of 155 billion as part of a restructure of defaulted securities, a statement on the Singapore Stock Exchange said.
+
+The new bonds will be issued on December 20 with the required minimum thresholds being met.
+
+In a 2022 bond 73 percent acceptance to exchange has been received.
+
+The residual 2022 bonds will continue to trade in that security, the statement said.
+
+The holdout investor Hamilton Reserve is claiming a 25 percent share in the security.
+
+Related Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody’s
+
+Sri Lanka will also issue 215 million dollars of bond as a fee for those who accepted the offer to exchagne. (Colombo/Dec17/2024)
+
+◼️
+
+[Data](articles/fcf14329.json)
+
+---
+
 ### Sri Lanka rupee trades flat at 290.75/80 to dollar, bonds steady
 
 *2024-12-17 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-flat-at-290-75-80-to-dollar-bonds-steady-194668/) · `en`
@@ -2299,177 +2479,5 @@ During this time, one of the suspects had been shot dead by a domestic firearm.
 [Data](articles/fe5da6b2.json)
 
 [Extended Data](ext_articles/fe5da6b2.ext.json)
-
----
-
-### ACWF Vice President, Meeting with Prime Minister
-
-*2024-12-17 10:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ACWF-துணைத்-தலைவர்-பிரதமருடன்-சந்திப்பு/175-348833) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"ACWF VP meets SL PM: Discusses women's empowerment, health, education & economy. China shares progress in gender equality & political representation. Diplomatic officials attend."
-
-🟩
-
-Chang Tongmey, Vice President of the All Chinese Women's Federation (ACWF), met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
-
-Prime Minister Dr. Amarasuriya, who welcomed Sang Tongmey and his delegation, praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
-
-...
-
-[Data](articles/75490a8f.json)
-
-[Extended Data](ext_articles/75490a8f.ext.json)
-
----
-
-### Memories of experiences with Anton Balasingham
-
-*2024-12-17 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201481) · `ta`
-
-This appears to be a personal narrative or memoir rather than a programming or technical question. I'm an AI assistant focused on coding and technical topics. Could you please provide a specific programming or technical question I can assist with?
-
-🟩
-
-The controversy over his higher education qualifications that resigned from the post of Parliament Speaker Ashoka Sapumal Ranwala last week recalls a similar controversy over a prominent figure in connection with the LTTE.
-
-The confusion is about LTTE political advisor Anton Srinislos Balasingham, who is often referred to as Dr. Balasingham in the media.
-
-Members of the movements against the LTTE widely denied that Balasingham was not a doctor. Balasingham has never received a doctor's degree and therefore he is said to be a "pretense".
-
-This is what happened at the time. Balasingham, Known as AP Srinislos at Young Paradise, at the University of Peradeniya (B.A.). Degree. Degree) received the title. His study was based on the psychology of Marxism.
-
-Subsequently, Professor John Rayler began to study the Marx's Theory of Alienation in Sociology under the Professor of Socialistics.. Balasingham did not complete the study of the doctor's degree as he began to engage in liberation politics.
-
-...
-
-[Data](articles/d878b7ff.json)
-
-[Extended Data](ext_articles/d878b7ff.ext.json)
-
----
-
-### New Speaker accepted responsibility
-
-*2024-12-17 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204455) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New Speaker accepts responsibility for client goodwill. Promises to work with all MPs without opposition. Aims to defend the nation and improve citizens' welfare.
-
-🟩
-
-The new Speaker, Speaker, says that he will have a challenging role in fulfillment of the responsibility of the client contributor to the goodwill.
-
-He was speaking at the post of Hon.
-
-Speaking further Mr. Jagath Wickramaratne said that everyone should act with the support of all MPs without opposition.
-
-Dr. Jagath Wickramaratne said:
-
-"As people representatives until I have put this supreme rank, you promise to work with the amount of energy to defend yourself. Thanks again to the whole congregation. I have again requested everyone to make the country's well-being and popular perths of population. "
-
-◼️
-
-[Data](articles/11b06646.json)
-
-[Extended Data](ext_articles/11b06646.ext.json)
-
----
-
-### Four arrested
-
-*2024-12-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201474) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"4 suspects arrested in Galle shooting case. Police rounded them up in Meediyagoda. Incident occurred when they fired shots at a house in Mahawatta area."
-
-🟩
-
-Four suspects in connection with the shooting incident in Mahawatta area in Galle, Meetiyagoda, Galle, have been arrested by the Meediyagoda police on Monday (16).
-
-Police Media Spokesperson Senior Police Superintendent Buddhika Manathanga said that the suspects were arrested in a roundup of the Meediyagoda police.
-
-Some of the suspects who were traveling in a three -wheeler to Mahawatta area in Meediyagoda last night fired a father and daughter in a house.
-
-He added that four suspects have been arrested in connection with the investigation by the police.
-
-◼️
-
-[Data](articles/2b34fc3d.json)
-
-[Extended Data](ext_articles/2b34fc3d.ext.json)
-
----
-
-### Four new MPs sworn in
-
-*2024-12-17 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104301/four-new-mps-sworn-in) · `en`
-
-Four new National List Members of Parliament were sworn in before the Deputy Speaker Dr. Rizvie Salih this morning (17).
-
-Accordingly, Faiszer Musthapha of the New Democratic Front (NDF) and Arjuna Sujeewa Senasinghe, Muhammadu Ismail Muththu Muhammedu, and Mano Ganesan of the Samagi Jana Balawegaya (SJB) took oath as Members of Parliament following the commencement of today’s parliamentary session.
-
-Following the swearing-in ceremony before the Deputy Speaker, the newly appointed Members of Parliament signed in the Member Roll in the presence of the Secretary-General of Parliament, Mrs. Kushani Rohanadeera.
-
-The first session of the Tenth Parliament convened on November 21, during which newly appointed Members of Parliament took their oaths. At the time, the four National List Member names allocated to the Samagi Jana Balawegaya (SJB) was yet to be published via a Gazzete notification.
-
-...
-
-[Data](articles/1ec81f53.json)
-
----
-
-### New Speaker from Polonnarnar
-
-*2024-12-17 10:06:23* · [`adalk`](https://www.ada.lk/breaking_news/නව-කථානායක-පොලොන්නරුවෙන්/11-413684) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Jagath Wickramaratne (National Jathika Force) elected new Speaker of Parliament. Proposed by Prime Minister Harin Amarasuriya and Leader of the House Bimal Ratnayake. Replacing Asoka Ranwala.
-
-🟩
-
-Parliamentarian Jagath Wickramaratne of the National Jathika Force of the Polonnaruwa District is elected as the new Speaker of Parliament.
-
-Prime Minister Harin Amarasuriya proposed his name by the Leader of the House Bimal Ratnayake. Mr. Asoka Ranwala was empowered by the post of Speaker.
-
-◼️
-
-[Data](articles/481c2c74.json)
-
-[Extended Data](ext_articles/481c2c74.ext.json)
-
----
-
-### The new Speaker's choice
-
-*2024-12-17 10:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-சபாநாயகர்-தெரிவு/175-348831) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-The new Speaker's choice: Pimal Ratnayake, Chief Minister, proposed by Prime Minister Harini.
-
-🟩
-
-Pimal Ratnayake, the Chief Minister and Minister of the Prime Minister Harini proposed his name
-
-◼️
-
-[Data](articles/df2178f2.json)
-
-[Extended Data](ext_articles/df2178f2.ext.json)
 
 ---

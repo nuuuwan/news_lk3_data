@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 06:48:30**
+As of **2024-12-17 08:35:41**
 
 ## Newspaper Stats
 
-*Scraped **60,563** Articles*
+*Scraped **60,566** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
-bbccomsinhala | 634
+bbccomsinhala | 635
 islandlk | 3,666
 economynextcom | 3,685
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,759
+adalk | 5,761
 adaderanalk | 7,379
 tamilmirrorlk | 8,650
 virakesarilk | 9,976
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,511 (99.9%) of 60,563 articles have been extended.
+60,515 (99.9%) of 60,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,21 +54,31 @@ During the meeting, Indian business leaders expressed their willingness to inves
 
 ---
 
-### இலங்கை - இந்திய ஜனாதிபதிகள் சந்திப்பு
+### Sri Lanka -India President Meeting
 
 *2024-12-17 03:09:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-ஜனாதிபதிகள்-சந்திப்பு/175-348814) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும் இந்திய ஜனாதிபதி திரௌபதி முர்முவுக்கும் இடையிலான சந்திப்பு நேற்று மாலை புதுடில்லியில் உள்ள ராஷ்டிரபதி பவனில் நடைபெற்றது.
+Here's a summary of the text in approximately 200 characters:
 
-இந்தச் சந்திப்பின்போது, இந்திய - இலங்கை இடையிலான நீண்டகால நட்புறவை வலுப்படுத்துவது மற்றும் பிராந்திய பாதுகாப்பை வலுப்படுத்துவது குறித்து கருத்துப் பரிமாறப்பட்டது.
 
-சிநேகபூர்வ சந்திப்பின் பின்னர் இந்திய ஜனாதிபதி திரௌபதி முர்மு, ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு இராப்போசன விருந்து வழங்கினார்.
 
-வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சரும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ ஆகியோரும் இந்தச் சந்திப்பில் இணைந்து கொண்டனர். (a)
+Indian President Draupadi Murmu hosted Sri Lankan President Anura Kumara Dissanayake at Rashtrapati Bhavan. They discussed strengthening bilateral ties and regional security. A dinner was held after the meeting, attended by key officials including Vijitha Herath and Anil Jayantha Fernando.
+
+🟩
+
+A meeting between President Anura Kumara Dissanayake and Indian President Draupadi Murmu was held at Rashtrapati Bhavan in New Delhi yesterday evening.
+
+During the meeting, the Indian and Sri Lanka were exposed to strengthening long -term friendships and strengthening regional security.
+
+Following the meeting, Indian President Draupadi Murmu presented a dinner party to President Anurakumara Dissanayake.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath and Deputy Minister of Industry and Economic Development Professor Anil Jayantha Fernando were also present at the meeting.. (A)
 
 ◼️
 
 [Data](articles/173c493a.json)
+
+[Extended Data](ext_articles/173c493a.ext.json)
 
 ---
 
@@ -246,6 +256,48 @@ The event celebrated excellence in financial reporting and corporate governance 
 
 ---
 
+### Who is the next Speaker?
+
+*2024-12-17 01:46:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6238y0wywro) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New Speaker selection process begins after Asoka Ranwala resigns. Parliament opens December 17 at 9:30 AM. Five new MPs will be sworn in first. Then election for new Speaker will take place. Several names proposed including Deputy Speaker Risvi Mohammed and MPs Nihal Galappaththi, Lakshman Nakuna Arachchi. Opposition plans to suggest candidate but does not guarantee qualifications.
+
+🟩
+
+A Speaker again has to be selected before the aftermath of the Ten Commonwealth (December 17).
+
+Asoka resigned from the post (December 13), as the Speaker was appointed as the Speaker.
+
+Accordingly, Parliament will be selected today (December 17).
+
+'If we have done wrong with our government, we take action,'
+
+BBC asked Parliament for today's process of today's process of electioning again.
+
+Five new MPs are to be sworn in after the commencement of Parliamentary Affairs at 9.30 am under the patronage of the Deputy Speaker of Parliament.. ‍
+
+The Hon. Sampath Jayaratne told the Sinhala that he chooses a new Speaker.
+
+"The deputy speaker comes to the chair. Then new MPs are sworn in, "he explained.
+
+The Venerable Kushan explained resources if several names for the post of Speaker.
+
+"Then there's secret voter. The MP gets the Speaker. "
+
+Leader Minister Bimal Ratnayake (December 16) at a press conference held at a press conference to inform the latest Parliament.
+
+...
+
+[Data](articles/45bbd484.json)
+
+[Extended Data](ext_articles/45bbd484.ext.json)
+
+---
+
 ### Engaging civil society to further support education system in Sri Lanka
 
 *2024-12-17 01:20:04* · [`dailyftlk`](https://www.ft.lk/columns/Engaging-civil-society-to-further-support-education-system-in-Sri-Lanka/4-770600) · `en`
@@ -384,6 +436,8 @@ Family Movers (Pvt) Ltd – the leading all-in-one relocation service provider i
 
 [Data](articles/8921e7a4.json)
 
+[Extended Data](ext_articles/8921e7a4.ext.json)
+
 ---
 
 ### Lolc Al-Falaah voted Best Islamic Leasing Provider at ifn Global Poll 2024
@@ -395,6 +449,8 @@ LOLC Al-Falaah, the alternate financing unit of LOLC Finance, has once again cem
 ...
 
 [Data](articles/5798d8b4.json)
+
+[Extended Data](ext_articles/5798d8b4.ext.json)
 
 ---
 
@@ -950,6 +1006,20 @@ Three Members nominated from the National List of the Samagi Jana Balawegaya (SJ
 
 ---
 
+### සතොසත් වී මිලදී ගැනීමට යයි
+
+*2024-12-16 19:07:51* · [`adalk`](https://www.ada.lk/breaking_news/සතොසත්-වී-මිලදී-ගැනීමට-යයි/11-413681) · `si`
+
+එළැඹෙන මහ කන්නයේදී සතොස හරහා ගොවීන්ගෙන් සාධාරණ මිලට වී මිලදී ගැනීමට කටයුතු කරන බව වෙළ﻿ඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා පවසයි.
+
+එම වී තොග සහල් බවට පරිවර්තනය කිරීම රජය මැදිහත්ව සිදුකරන බවත් ඒ හරහා සහල් වෙළඳ පොළ තුලිතව පාලනය කිරීමට කටයුතු කරන බවද අමාත්‍යවරයා පැවැසීය.
+
+◼️
+
+[Data](articles/1259dd03.json)
+
+---
+
 ### India confident of Sri Lanka giving due care for concerns over Chinese research ship visits
 
 *2024-12-16 19:07:00* · [`economynextcom`](https://economynext.com/india-confident-of-sri-lanka-giving-due-care-for-concerns-over-chinese-research-ship-visits-194548/) · `en`
@@ -1437,6 +1507,22 @@ The suspect was 46 years old from Kekirawa, Anuradhapura.
 [Data](articles/01e2fa91.json)
 
 [Extended Data](ext_articles/01e2fa91.ext.json)
+
+---
+
+### ඇමොක්සිලින් තොගයකට වැයකළ රුපියල් කෝටි 10 ක් වතුරේ
+
+*2024-12-16 17:34:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇමොක්සිලින්-තොගයකට-වැයකළ-රුපියල්-කෝටි-10-ක්-වතුරේ/11-413671) · `si`
+
+රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාවේ ප්‍රසම්පාදන කමිටුව  මගින් තාක්ෂණික ඇගයීම් කමිටුවේ  හා තත්ත්ව පාලන අංශයේ නිර්දේශ නොසලකා ඉකුත් වසරේදී විදේශයකින්  මිලට ගත් ඇමොක්සිලින් ඖෂධ අමුද්‍රව්‍ය කිලෝ ග්‍රෑම් 9000 ක තොගයක් ගුණාත්මක බවින් අසමත්වීම නිසා ඒ සඳහා දරා තිබූ රුපියල් 104,844,337 ක මුදල අනාර්ථික පිරිවැයක් වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+ඉකුත් වසරේ අවශ්‍යතාවය වෙනුවෙන්වූ මෙම සමස්ත අමුද්‍රව්‍ය ප්‍රමාණය එකවර ආනයනය නොකර කිලෝ ග්‍රෑම් 25 ක් පමණක් සපයාගෙන සිදුකළ නිෂ්පාදනයන්ගේ ගුණාත්මකභාවය පරීක්ෂා කර ප්‍රගතිය සාර්ථකනම් ඉතිරි ප්‍රමාණය ආනයනය කරන ලෙසට සංස්ථාවේ තාක්ෂණික හා තත්ත්ව පාලන කමිටු මගින් නිර්දේශ කර තිබු බව රාජ්‍ය ඖෂධ නිෂ්පාදන සංස්ථාව සම්බන්ධයෙන් ඉකුත් වසරට අදාලව විගණන කාර්යාලය නිකුත් කල විගණන වාර්තාවේ සඳහන් වේ.
+
+එම නිර්දේශ නොසලකා ආනයනය කළ සමස්ත අමුද්‍රව්‍ය තොගය සමාලෝචිත විගණිත දිනය දක්වා මාස දහයක කාලයක් සංස්ථා පරිශ්‍රයේ නිෂ්ක්‍රීය ලෙස තිබීමෙන් ඒ සඳහා දැරූ වියදම අනාර්ථික වී ඇති බවද නියමිත පරීක්ෂාවලින් පසුව ගුණාත්මක බවින් ඉහල අමුද්‍රව්‍ය ලබා ගැනීමට කටයුතු කළයුතු බව  විගණනයෙන් පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/1f3018b1.json)
 
 ---
 
@@ -2263,73 +2349,5 @@ LANKA T10 ලීග් ක්‍රිකට් තරගාවලියේ ප�
 ◼️
 
 [Data](articles/719c4c3f.json)
-
----
-
-### Sri Lanka and India sign MoU to avoid double taxation
-
-*2024-12-16 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104278/sri-lanka-and-india-sign-mou-to-avoid-double-taxation) · `en`
-
-Sri Lanka and India today exchanged a Memorandum of Understanding (MoU) to avoid double taxation and to train Sri Lankan civil administrators at the Indian National Centre for Good Governance.
-
-The signing of the MoU was carried out in the presence of Indian Prime Minister Narendra Modi and Sri Lankan President Anura Kumara Dissanayake, who is on a three-day state visit to India.
-
-President Dissanayake held discussions with Indian Prime Minister Narendra Modi today (16) at the Prime Minister’s official residence, Hyderabad House.
-
-Following the discussions, Memoranda of Understandings (MoU) on the avoidance of double taxation and capacity building for government officials were exchanged in the presence of the leaders of both countries.
-
-...
-
-[Data](articles/0919f236.json)
-
----
-
-### Joint News discussion conducted by the President and the Indian Prime Minister
-
-*2024-12-16 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204428) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Joint press conference between Sri Lanka's President Anura Kumara Dissanayake and India's Prime Minister Narender Modi launched."
-
-🟩
-
-The Joint press conference also launched by President Anura Kumara Dissanayake and Indian Prime Minister Narelul.
-
-◼️
-
-[Data](articles/f26dcffb.json)
-
-[Extended Data](ext_articles/f26dcffb.ext.json)
-
----
-
-### Two motorcycles collided head -on in Anuradhapura;One killed
-
-*2024-12-16 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201404) · `ta`
-
-Motorcycle collision kills one in Anuradhapura. Two vehicles crashed head-on on Vilachiya Road. Driver, 62, died from injuries. Police investigating cause.
-
-🟩
-
-Two motorcycles collided head -on in the Lolukaswewa area of ​​Vilachiya Road, Anuradhapura, police said.
-
-A motorcycle driver died after being admitted to the hospital after he was admitted to the hospital with serious injuries, police said.
-
-The incident took place on Sunday (15) at the Lolukaswewa area of ​​the Anuradhapura Police Division, the traffic police of the Anuradhapura Police Station.
-
-Lolukaswewa, a 62 -year -old man who lives in the Anuradhapura area, died in the incident.
-
-Further investigations by the police revealed that the motorcycle and a motorcycle in the opposite direction collided head -on from the Lolukaswewa area of ​​Vilachiya Road to Pasavakkulam.
-
-Further investigations into the incident are being carried out by the Anuradhapura Headquarters Police Station Traffic Police.
-
-◼️
-
-[Data](articles/150ab874.json)
-
-[Extended Data](ext_articles/150ab874.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 14:02:52**
+As of **2024-12-17 14:17:51**
 
 ## Newspaper Stats
 
-*Scraped **60,634** Articles*
+*Scraped **60,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,771
 adaderanalk | 7,393
-tamilmirrorlk | 8,660
+tamilmirrorlk | 8,661
 virakesarilk | 9,987
 adaderanasinhalalk | 10,478
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,558 (99.9%) of 60,634 articles have been extended.
+60,561 (99.9%) of 60,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### நான் விசேட வைத்திய நிபுணரல்ல;பிரதி சபாநாயகர்
+
+*2024-12-17 14:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-விசேட-வைத்திய-நிபுணரல்ல-பிரதி-சபாநாயகர்/175-348841) · `ta`
+
+தான் ஒரு விசேட வைத்திய நிபுணர் அல்ல என்றும் தனது உத்தியோகபூர்வ கடிதங்களிலும், விசிட்டிங் கார்டுகளிலும், மருந்துச் சீட்டுகளிலும் அவ்வாறான தலைப்பைப் பயன்படுத்தியதில்லை என்றும் பிரதி சபாநாயகர் ரிஸ்வி சாலி இன்று தெளிவுபடுத்தினார்.
+
+"தேர்தல் பிரசாரத்தின் போது என்னை விசேட வைத்தியர் என்று அழைக்கக்கூடாது என்று நான் திட்டவட்டமாக கூறியுள்ளேன்," என்று அவர் பாராளுமன்றத்தில் கூறினார்.
+
+◼️
+
+[Data](articles/7773e913.json)
+
+---
 
 ### 4 National List Members of Parliament as Members of Parliament
 
@@ -84,29 +98,41 @@ The indictments were filed by the Bribery Commission before Colombo High Court J
 
 ---
 
-### இன்றைய நாணயமாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-12-17 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201492) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (17)  மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.4435 ரூபா ஆகவும் விற்பனை விலை 295.0915 ரூபா ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar exchange rate: 286.4435 INR buy, 295.0915 INR sell.
+
+🟩
+
+The US dollar purchasing price was 286.4435 rupees and the sales price were 295.0915 rupees based on the currency exchange rate released by the Central Bank on Tuesday (17).
 
 ◼️
 
 [Data](articles/31baf383.json)
 
+[Extended Data](ext_articles/31baf383.ext.json)
+
 ---
 
-### ரஷ்யாவின் கதிரியக்க, இரசாயன, உயிரியல் பாதுகாப்புப் படைப்பிரிவின் தளபதி குண்டு வெடிப்பில் பலி
+### Commander of the radioactive, chemical and biological safety forces of Russia killed in bomb blast
 
 *2024-12-17 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201499) · `ta`
 
-மொஸ்கோவில் இடம்பெற்ற குண்டுவெடிப்பில், ரஷ்யாவின் கதிரியக்க, இரசாயன, உயிரியல் பாதுகாப்புப் படைப்பிரிவின் தளபதியும் அவரது உதவியாளரும் உயிரிழந்துள்ளனர்.
+Russian military officer dies in Moscow explosion
 
-கதிரியக்க, இரசாயன, உயிரியல் பாதுகாப்புப் படைப்பிரிவின் தளபதியான லெப்டினன்ட் ஜெனரல் இகோர் கிரில்லோவ் செவ்வாய்கிழமை அதிகாலை குடியிருப்புத் தொகுதியிலிருந்து வெளியேறும்போது மின்சார ஸ்கூட்டரில் மறைத்து வைக்கப்பட்டிருந்த சாதனம் வெடிக்கச் செய்யப்பட்டதாக ரஷ்யாவின் விசாரணைக் குழு தெரிவித்துள்ளது.
+🟩
+
+The commander of the radioactive, chemical and biological security forces of Russia has died in the blast in Moscow.
+
+Russia's Investigation Committee said that Lieutenant General Igor Grillov, the commander of the radioactive, chemical, and biological security forces, had exploded on an electric scooter when he left the residential seat on Tuesday morning.
 
 ◼️
 
 [Data](articles/6e1d02f4.json)
+
+[Extended Data](ext_articles/6e1d02f4.ext.json)
 
 ---
 
@@ -408,25 +434,33 @@ The first KPI demands that Sri Lanka exceed a baseline ratio set by the Internat
 
 ---
 
-### මියන්මාරයේ සයිබර් කඳවුරුවල බලෙන් රඳවාගෙන සිටි තවත් ලාංකිකයන් 27ක් බේරා ගැනෙති
+### 27 more Lankans who were forced in cyber camps in Myanmar
 
 *2024-12-17 11:08:51* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සයිබර්-කඳවුරුවල-බලෙන්-රඳවාගෙන-සිටි-තවත්-ලාංකිකයන්-27ක්-බේරා-ගැනෙති/11-413687) · `si`
 
-මියන්මාරයේ සයිබර් අපරාධ කදවුරක බලහත්කාරයෙන් රදවා තබා ගෙන සිටි ශ්‍රී ලාංකිකයන් 27 දෙනෙකු බේරා ගෙන 12/16 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි.
+Sri Lankans freed from Myanmar cyber camps arrive at Katunayake airport. 27 detainees flown to Thailand. Rescue efforts led by Buddhist monk Maligawal Essaji Thero. Six others from Nepal, Russia, Malaysia also rescued. 14 Sri Lankans still in captivity. International Organization for Migration facilitates repatriation process.
 
-ඔවුන් එම කදවුරෙන් මුදා ගෙන තායිලන්තය වෙත රැගෙන විත් , එරට බැංකොක් නුවර ගුවන් තොටුපොළේ සිට 12/16 දින පස්වරු 04.10 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 405 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-මේ සදහා මුල් වී ක්‍රියා කළ මාළිගාවිළ අස්සජි හිමියන් ද මෙම ශ්‍රී ලාංකිකයන් පිරිස පැමිණි ගුවන් යානයෙන්ම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+The 27 Sri Lankans who were forcibly detained in Myanmar cyber cyber crimes camps were taken to the Katunayake airport.
 
-එහිදී මාධ්‍යවේදීන් වෙත අදහස් පළ කළ එම ස්වාමීන්වහන්සේ මෙසේ පැවැසූහ,
+They were released from the camp and brought to Thailand from Bangkok, SriLankan Airlines UL to the Katunayake Airport on 405. 405.
 
-"මම තනි පුද්ගලයෙකු වශයෙන් මියන්මාරයේ එම කදවුරට ගිහිල්ලා , දින 14 ක දැවැන්ත උත්සාහයකින් පසුව මෙම ශ්‍රී ලාංකිකයන් පිරිස බේරා ගෙන තායිලන්ත දේශසීමාව වෙත රැගෙන විත් භාර දුන්නා . ඒ විතරක් නෙමෙයි ඔවුන් අතර සිටි නේපාල ජාතිකයන් 06 දෙනෙකු සහ රුසියානු සහ මැලේසියානු ජාතිකයෙකුත් මම බේරා ගෙන ආවා .
+Maligawal Essaji Thero had also reached the Katunayake airport from the airport.
 
-මේ තරුණ දරුවෝ අවුරුදු දෙකක් , දෙකහමාරක් මේ කදවුරු වල දුක් ගැහැට මැද සිටියා. තවත් ශ්‍රී ලාංකික දරුවන් 14 දෙනෙකු තවමත් ඒ කදවුරු වල ඉන්නවා.
+The Lord told the journalists there, the Lord said:
+
+"As a single person, I went to myanmar's camp, 14-day massive effort and handed over the people of Sri Lanka to Thailand border. I also saved six Nepalians and Russian and Malaysia.
+
+These young children were in the middle of these camps two and a half years. There are still 14 other Sri Lankan children in those camps.
+
+I reject the news, which was propagated on certain media that I got the money to save these children. The President of our Government, or the President of our Government, is ready to come forward, to rescue the rest of Sri Lankans, "he added.
 
 ...
 
 [Data](articles/e4eadac6.json)
+
+[Extended Data](ext_articles/e4eadac6.ext.json)
 
 ---
 
@@ -2253,35 +2287,5 @@ Komal Khan scored 38 runs, Maham Anis scored 29 runs, Ravil Barhan 13 and team c
 [Data](articles/10c7d17d.json)
 
 [Extended Data](ext_articles/10c7d17d.ext.json)
-
----
-
-### President Anura Kumara Dissanayake meets the Vice President of India
-
-*2024-12-16 20:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201457) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake met Indian Vice President Jakdeep Tankar. They discussed economic cooperation, agriculture, and digitalization. The VP congratulated him on his election victory. A separate meeting with India's Health Minister was also held.
-
-🟩
-
-President Anurakumara met with the Indian Health Minister at a meeting between the Deputy President of India.
-
-The meeting between President Anura Kumara Dissanayake and Indian Vice President Jakdeep Tankar was held on Monday (16).
-
-The Vice President congratulated President Anura Kumara Dissanayake for the big victory in the last presidential and general election.
-
-During this time, issues such as economic cooperation, agriculture and digitalization.
-
-This was followed by a meeting between Indian Health Minister and Bharatiya Janata Party (BJP) leader Jagath Prakash Natta and President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/f2ba3106.json)
-
-[Extended Data](ext_articles/f2ba3106.ext.json)
 
 ---

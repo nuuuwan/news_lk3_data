@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 14:17:51**
+As of **2024-12-17 14:29:48**
 
 ## Newspaper Stats
 
-*Scraped **60,635** Articles*
+*Scraped **60,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,771
+adalk | 5,772
 adaderanalk | 7,393
 tamilmirrorlk | 8,661
 virakesarilk | 9,987
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,561 (99.9%) of 60,635 articles have been extended.
+60,562 (99.9%) of 60,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### நான் விசேட வைத்திய நிபுணரல்ல;பிரதி சபாநாயகர்
+### I am not a specialist, Deputy Speaker
 
 *2024-12-17 14:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-விசேட-வைத்திய-நிபுணரல்ல-பிரதி-சபாநாயகர்/175-348841) · `ta`
 
-தான் ஒரு விசேட வைத்திய நிபுணர் அல்ல என்றும் தனது உத்தியோகபூர்வ கடிதங்களிலும், விசிட்டிங் கார்டுகளிலும், மருந்துச் சீட்டுகளிலும் அவ்வாறான தலைப்பைப் பயன்படுத்தியதில்லை என்றும் பிரதி சபாநாயகர் ரிஸ்வி சாலி இன்று தெளிவுபடுத்தினார்.
+Here's a summary of 200 characters:
 
-"தேர்தல் பிரசாரத்தின் போது என்னை விசேட வைத்தியர் என்று அழைக்கக்கூடாது என்று நான் திட்டவட்டமாக கூறியுள்ளேன்," என்று அவர் பாராளுமன்றத்தில் கூறினார்.
+
+
+Deputy Speaker Rizvi Sally clarified he's no specialist, never used medical terms in official communications. He stated this during the election campaign, emphasizing he shouldn't be called a specialist doctor.
+
+🟩
+
+Deputy Speaker Rizvi Sally made it clear today that he was not a specialist and not used such a topic in his official letters, visiting cards and pharmaceutical cards.
+
+"I have stated that I should not call me a special doctor during the election campaign," he told parliament.
 
 ◼️
 
 [Data](articles/7773e913.json)
+
+[Extended Data](ext_articles/7773e913.ext.json)
 
 ---
 
@@ -411,6 +421,24 @@ In his address, Dr. Wickramaratne underscored the importance of cooperation amon
 [Data](articles/4530c8b9.json)
 
 [Extended Data](ext_articles/4530c8b9.ext.json)
+
+---
+
+### අභිනව කථානායක වතගොත
+
+*2024-12-17 11:21:09* · [`adalk`](https://www.ada.lk/opinion/අභිනව-කථානායක-වතගොත/2-413688) · `si`
+
+කථානායක අශෝක රන්වල මහතාගේ ඉල්ලා අස් වීමෙන්  පුරප්පාඩු වූ කථානායක ධූරය සඳහා ශ්‍රී ලංකාවේ  23 වන කතා නායකවරයා ලෙස වෛද්‍ය අයි.ඩබ්ලිව්,එම්. ජගත් වික්‍රමරත්න මහතා තේරි පත්විය.
+
+පොළොන්නරුව හිඟුරක්ගොඩ රෝහලේදී 1968 පෙබරවාරි 02 උපත ලබා ඇති ජගත් වික්‍රමරත්න මහතා, පිරිමි දරුවන් තිදෙනෙකු සහ ගැහැණු දරුවන් දෙදෙනකුගේ පවුලේ දෙවෙනි පිරිමි දරුවා විය.
+
+පොළොන්නරුව ගල්අමුණ විද්‍යාලයෙන් මූලික අධ්‍යාපනය ලබා ඇති වික්‍රමරත්න මහතා මහනුවර ධර්මරාජ විද්‍යාලයෙන් උසස් අධ්‍යාපනය හදාරමින්,පේරාදෙණිය වෛද්‍ය පීඨයේදී 1990, වසරේ සිට 1996 දක්වා වෛද්‍ය විද්‍යාව හදාරා අනතුරුව, කොළඹ  විශ්ව විද්‍යාලයෙන් වෛද්‍ය පරිපාලන උපාධිය ලබා 1997 සිට 1998  සීමාවාසික වෛද්‍ය නිලධාරියෙකු ලෙස, මහනුවර ශික්ෂණ රෝහලේ සේවය කර ඇත.
+
+දරුවන් තිදෙනෙකුගේ පියෙකු වන වික්‍රමරත්න මහතාගේ බිරිදද ,පොළොන්නරුව මහ රෝහලේ හෙද නිලධාරීනියක් ලෙස කටයුතු කරන්නීය.
+
+...
+
+[Data](articles/09a8b9d5.json)
 
 ---
 
@@ -2251,41 +2279,5 @@ It has been decided to nominate the name of the new Speaker of the Polonnaruwa D
 [Data](articles/8e8ab73c.json)
 
 [Extended Data](ext_articles/8e8ab73c.ext.json)
-
----
-
-### Asian Bowl: Nepal
-
-*2024-12-16 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201458) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Nepal wins against Pakistan in Under-19 Asian Cup cricket. Nepal scored 105/4 in 19 overs, led by Pooja Mahato's 47*. India and Nepal qualify for the next round. Pakistan scored 104/5 in 20 overs. Komal Khan top-scored for Pakistan with 38*.
-
-🟩
-
-Nepal won Pakistan by 6 wickets in a 19 -year -old Asian Cup cricket match for the A group held at the Bayumas Oval Stadium in Kuala Lumpur, Malaysia.
-
-India and Nepal are qualified from the B team to play in the second round for the main bowl following the match.
-
-Under -19 Nepal women under the age of 19 scored 105 runs for the loss of 4 wickets in 19 overs.
-
-Team captain Pooja Mahato played a major role in the team's victory with 47 runs without losing 47 balls.
-
-Both Pooja Mahato and Seemana shared 39 runs in the 5th wicketless 5th wicket and confirmed Nepal's victory.
-
-Sony Bagrin scored 13 runs than Mahato, Sanaa Parveen scored 10 runs and Sanaa Perveen 10 runs.
-
-Earlier, Pakistan scored 104 runs for the loss of 5 wickets in 20 overs.
-
-Komal Khan scored 38 runs, Maham Anis scored 29 runs, Ravil Barhan 13 and team captain Zubishan Ayas 12 runs.
-
-◼️
-
-[Data](articles/10c7d17d.json)
-
-[Extended Data](ext_articles/10c7d17d.ext.json)
 
 ---

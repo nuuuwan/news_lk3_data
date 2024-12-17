@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 13:13:21**
+As of **2024-12-17 13:27:00**
 
 ## Newspaper Stats
 
-*Scraped **60,627** Articles*
+*Scraped **60,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 454
 colombotelegraphcom | 614
 bbccomsinhala | 635
-islandlk | 3,666
+islandlk | 3,667
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,770
+adalk | 5,771
 adaderanalk | 7,393
 tamilmirrorlk | 8,660
 virakesarilk | 9,985
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,553 (99.9%) of 60,627 articles have been extended.
+60,553 (99.9%) of 60,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -303,6 +303,28 @@ The first KPI demands that Sri Lanka exceed a baseline ratio set by the Internat
 [Data](articles/c0e66a6f.json)
 
 [Extended Data](ext_articles/c0e66a6f.ext.json)
+
+---
+
+### මියන්මාරයේ සයිබර් කඳවුරුවල බලෙන් රඳවාගෙන සිටි තවත් ලාංකිකයන් 27ක් බේරා ගැනෙති
+
+*2024-12-17 11:08:51* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-සයිබර්-කඳවුරුවල-බලෙන්-රඳවාගෙන-සිටි-තවත්-ලාංකිකයන්-27ක්-බේරා-ගැනෙති/11-413687) · `si`
+
+මියන්මාරයේ සයිබර් අපරාධ කදවුරක බලහත්කාරයෙන් රදවා තබා ගෙන සිටි ශ්‍රී ලාංකිකයන් 27 දෙනෙකු බේරා ගෙන 12/16 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි.
+
+ඔවුන් එම කදවුරෙන් මුදා ගෙන තායිලන්තය වෙත රැගෙන විත් , එරට බැංකොක් නුවර ගුවන් තොටුපොළේ සිට 12/16 දින පස්වරු 04.10 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 405 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+මේ සදහා මුල් වී ක්‍රියා කළ මාළිගාවිළ අස්සජි හිමියන් ද මෙම ශ්‍රී ලාංකිකයන් පිරිස පැමිණි ගුවන් යානයෙන්ම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+එහිදී මාධ්‍යවේදීන් වෙත අදහස් පළ කළ එම ස්වාමීන්වහන්සේ මෙසේ පැවැසූහ,
+
+"මම තනි පුද්ගලයෙකු වශයෙන් මියන්මාරයේ එම කදවුරට ගිහිල්ලා , දින 14 ක දැවැන්ත උත්සාහයකින් පසුව මෙම ශ්‍රී ලාංකිකයන් පිරිස බේරා ගෙන තායිලන්ත දේශසීමාව වෙත රැගෙන විත් භාර දුන්නා . ඒ විතරක් නෙමෙයි ඔවුන් අතර සිටි නේපාල ජාතිකයන් 06 දෙනෙකු සහ රුසියානු සහ මැලේසියානු ජාතිකයෙකුත් මම බේරා ගෙන ආවා .
+
+මේ තරුණ දරුවෝ අවුරුදු දෙකක් , දෙකහමාරක් මේ කදවුරු වල දුක් ගැහැට මැද සිටියා. තවත් ශ්‍රී ලාංකික දරුවන් 14 දෙනෙකු තවමත් ඒ කදවුරු වල ඉන්නවා.
+
+...
+
+[Data](articles/e4eadac6.json)
 
 ---
 
@@ -1748,6 +1770,22 @@ Amid those developments, the All Share Price Index went up by 295.10 points, whi
 
 ---
 
+### Mesmeric beauty of dragonflies and damselflies in SLT’s 2025 calendar
+
+*2024-12-16 22:50:00* · [`islandlk`](http://island.lk/mesmeric-beauty-of-dragonflies-and-damselflies-in-slts-2025-calendar/) · `en`
+
+SLT-Mobitel has once again raised the bar with the launch of its highly anticipated 2025 calendar, this year dedicated to the mesmerizing world of Sri Lanka’s dragonflies and damselflies.
+
+Themed “Dragonflies of Sri Lanka,” this calendar continues the 19-year tradition of highlighting the island’s natural and cultural heritage, making it one of the most sought-after annual publications in the country, SLT Chief Executive Officer Janaka Abeysinghe said, speaking at the launch on Thursday at the SrI Lanka Telecom Headquarters in Colombo,
+
+This year’s calendar focuses on the vibrant and captivating world of dragonflies, showcasing their stunning beauty and highlighting their crucial role in maintaining the health of ecosystems countrywide.
+
+...
+
+[Data](articles/67a9b841.json)
+
+---
+
 ### Indian President hosts banquet in honor of President Dissanayake
 
 *2024-12-16 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104292/indian-president-hosts-banquet-in-honor-of-president-dissanayake-) · `en`
@@ -2235,51 +2273,5 @@ The National People's Power Government came to power and on September 19, 2024, 
 [Data](articles/68997a59.json)
 
 [Extended Data](ext_articles/68997a59.ext.json)
-
----
-
-### Namal Rajapaksa's Law Degree: Did you miss the exam?Complaint at the Criminal Investigation Department
-
-*2024-12-16 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201453) · `ta`
-
-Namal Rajapaksa law degree controversy: Allegations of cheating in 2011 exam. Complaint filed with CID. Opposition calls for action against officials involved.
-
-🟩
-
-The allegation that Namal Rajapaksa's parliamentarian Namal Rajapaksa wrote the examination with the cooperation of two lawyers in the exclusive cold room.. Jamuni Kamantha Dushara, the leader of the People's Organization against Bribery and Corruption, said that he urged the president to take action against Namal Rajapaksa's legislative degree and take action against the government officials who had abused the law.
-
-He made this comment to the media after lodging a complaint with the Criminal Investigation Department on Monday (16) of Namal Rajapaksa's law.
-
-Sri Lanka PA's parliamentarian Namal Rajapaksa has been talking about the appearance of the Law Examination 11 years ago.
-
-A Sri Lankan from abroad has challenged Namal Rajapaksa's legislative title as the educational qualification of MPs is now a major speech.
-
-...
-
-[Data](articles/c44595ba.json)
-
-[Extended Data](ext_articles/c44595ba.ext.json)
-
----
-
-### New Speaker to be elected tomorrow after new MPs take oath
-
-*2024-12-16 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104288/new-speaker-to-be-elected-tomorrow-after-new-mps-take-oath) · `en`
-
-Parliament will convene tomorrow (17) where a new Speaker shall be elected following the Oaths and Affirmation of new Members of Parliament as provided by Standing Orders and the Constitution, said the Secretary General of Parliament, Mrs. Kushani Rohanadeera.
-
-The matter was discussed when the Committee on Parliamentary Business met today (16), chaired by the Deputy Speaker Dr. Rizvie Salih.
-
-Several amendments have also been made to the previously decided Business of the House related to December 17 and 18, the statement said.
-
-Accordingly, the Official Oath or Affirmation for the new Members has been allotted from 9:30 a.m. to 9:45 a.m. on Tuesday, December 17.
-
-Three Members nominated from the National List of the Samagi Jana Balawegaya (SJB) and a Member nominated from the National List of the New Democratic Front (NDF) are scheduled to take oath accordingly.
-
-...
-
-[Data](articles/a760c533.json)
-
-[Extended Data](ext_articles/a760c533.ext.json)
 
 ---

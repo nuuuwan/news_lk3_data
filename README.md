@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 15:27:19**
+As of **2024-12-17 15:43:12**
 
 ## Newspaper Stats
 
-*Scraped **60,643** Articles*
+*Scraped **60,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,772
-adaderanalk | 7,395
+adaderanalk | 7,397
 tamilmirrorlk | 8,661
 virakesarilk | 9,991
-adaderanasinhalalk | 10,479
+adaderanasinhalalk | 10,480
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,570 (99.9%) of 60,643 articles have been extended.
+60,572 (99.9%) of 60,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### Opposition focusing on govt MPs’ qualifications due to absence of corruption – PM
+
+*2024-12-17 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104312/opposition-focusing-on-govt-mps-qualifications-due-to-absence-of-corruption-pm) · `en`
+
+Prime Minister Dr. Harini Amarasuriya says the opposition is focusing on looking into the qualifications of ruling party MPs due to their inability to find corruption within the National People’s Power (NPP) government.
+
+Speaking in Parliament today (17), the Prime Minister remarked that in the past MPs and Ministers of previous governments were primarily probed over corruption and fraud charges.
+
+“There is now a surprising interest in the qualifications of our government’s MPs and ministers. They are requesting for certificates and various other documents,” she said.
+
+PM Amarasuriya added that such scrutiny did not apply to the Ministers and MPs of the previous governments.
+
+“On one hand we are happy because in the past, the qualifications of the Ministers or government MPs were not looked into but their corruption. Since they cannot accuse us of such corruption, they are now fixated on our qualifications. In a way, this is an improvement,” she said.
+
+◼️
+
+[Data](articles/beceaadb.json)
+
+---
+
+### සජිත්ගේ අධ්‍යාපන සුදුසුකම් පාර්ලිමේන්තුවට ඉදිරිපත් කරන්න සැරසෙයි
+
+*2024-12-17 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204461) · `si`
+
+හෙට (18) උදෑසන තමා සතු සියලුම අධ්‍යාපන සුදුසුකම් පාර්ලිමේන්තුවට ඉදිරිපත් කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (17) පාර්ලිමේන්තුවේදී පැවසීය.
+
+ඔහු ඒ බව සඳහන් කළේ අමාත්‍ය නලින්ද ජයතිස්ස මහතා නැඟූ ප්‍රශ්නයකට පිළිතුරු දෙමිනි.
+
+◼️
+
+[Data](articles/bf246494.json)
+
+---
+
+### Petition challenging Archchuna’s MP post fixed for consideration
+
+*2024-12-17 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104311/petition-challenging-archchunas-mp-post-fixed-for-consideration) · `en`
+
+The Court of Appeal fixed for consideration on January 15, 2025 a quo warranto petition filed seeking a writ order disqualifying Jaffna District Independent MP Ramanathan Archchuna from holding a parliamentary seat.
+
+The petition filed by the Chairman of ‘Abhinawa Niwahal Peramuna’ Oshala Herath was taken up before a two-member Appeals Court bench comprising Justices Sobhitha Rajakaruna and Mahen Gopallawa today (17).
+
+The petitioner has alleged in his petition that MP Ramanathan Archchuna has handed over his nominations for the 2024 General Election without resigning from his post as a government medical officer.
+
+The petitioning party has pointed out that it is unlawful to submit nominations for an election without resigning from a post an individual holds in the public service and that this is in violation of the provisions of the Elections Act.
+
+...
+
+[Data](articles/a6153ead.json)
+
+---
 
 ### Suspect arrested for escape from police detention
 
@@ -114,7 +166,9 @@ Subsequently, the court ordered the defendant to be released on two surety bails
 
 Furthermore, the court imposed an overseas travel ban against him until the hearing of the case is conclude, and ordered him to hand over his passport to the court.
 
-◼️
+In addition, another bail condition was imposed on the defendant which requires him to report to the Bribery Commission on the last Sunday of every month.
+
+...
 
 [Data](articles/2d151b85.json)
 
@@ -176,21 +230,27 @@ Is a wonderful interest. We are happy with the ministers, governments, who were 
 
 ---
 
-### வவுனியாவில் தொடர்ச்சியாக வாகன பற்றரிகளை திருடிவந்த இருவர் கைது
+### Two persons arrested for stealing vehicles in Vavuniya
 
 *2024-12-17 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201491) · `ta`
 
-வவுனியா நெளுக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட வேப்பங்குளம் பகுதியில் உள்ள வாகன தரிப்பிடம் ஒன்றில் வாகன பற்றரிகளை களவாடிய குற்றச்சாட்டில் இருவரை நெளுக்குளம் பொலிஸார் கைது செய்துள்ளனர்.
+Two arrests made in Vavuniya for stolen vehicles. Nelukkulam police investigation ongoing. Four vehicle thefts reported. Three-wheeler seized as evidence. Suspects to be presented in court soon.
 
-குறித்த வாகன தரிப்பிடத்தில் வாகன பற்றரிகள் களவாடப்பட்டுள்ளதாக நெளுக்குளம் பொலிஸாருக்கு கிடைத்த முறைப்பாட்டுக்கமைய நெளுக்குளம் பொலிஸார் இரகசிய விசாரணைகளை முன்னெடுத்திருந்தனர்.
+🟩
 
-இதன்போது நான்கு வாகன பற்றரிகளுடன் இரு சந்தேகநபர்களை  கைது செய்துள்ளதுடன், குறித்த குற்றச்செயலுக்கு பயன்படுத்தபட்டது என சந்தேகிக்கப்படும் முச்சக்கரவண்டி ஒன்றினையும் பொலிஸார் கைப்பற்றியுள்ளனர்.
+Nelukkulam police have arrested two persons for allegedly stolen vehicle bargains at a vehicle parking lot in Veppankulam area of ​​the Vavuniya Nelukulam police division.
 
-மேலும், கைது செய்யப்பட்ட சந்தேகநபர்கள் மேலதிக விசாரணைகளின் பின்னர்  நீதவான் நீதிமன்றில் முன்னிலைப்படுத்துவதற்குரிய நடவடிக்கையினை நெளுக்குளம் பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+The Nelukkulam police have launched a secret inquiries on the complaint received by the Nelukkulam Police that the vehicle bargains have been stolen in the vehicle parking lot.
+
+Two suspects have been arrested with four vehicle bats and police have seized a three -wheeler suspected to have been used for the crime.
+
+In addition, the Nelukkulam police are taking steps to present the Magistrate's Court after further investigations.
 
 ◼️
 
 [Data](articles/d5dfb140.json)
+
+[Extended Data](ext_articles/d5dfb140.ext.json)
 
 ---
 
@@ -299,6 +359,8 @@ Commenting further regarding the matter, Minister Wijepala highlighted the subst
 ...
 
 [Data](articles/a295d28e.json)
+
+[Extended Data](ext_articles/a295d28e.ext.json)
 
 ---
 
@@ -2187,85 +2249,5 @@ The President has said that India continues to support the Government of Sri Lan
 [Data](articles/072d2f95.json)
 
 [Extended Data](ext_articles/072d2f95.ext.json)
-
----
-
-### Scholarship affair;Postponement of the case until tomorrow
-
-*2024-12-16 22:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விவகாரம்-நாளை-வரை-வழக்கு-ஒத்திவைப்பு/175-348812) · `ta`
-
-High Court hears Grade Five Scholarship Exam case; petitions demand re-conduct; President's Attorney argues injustice; hearing postponed until tomorrow.
-
-🟩
-
-Four fundamental rights petitions filed by the students and their parents were taken up for hearing in the High Court today, demanding an order to re -conduct the recently completed Grade Five Scholarship Examination.
-
-President's Attorney Saliya Peiris, who appeared on behalf of the petitioner, pointed out that a panel of experts decided to provide free of charge for the 3 questions allegedly released in advance.
-
-As a result, if any injustice in the exam is done, the entire student community will be affected, he said.
-
-In this case, the petitioner brought to the notice of the court demanding that the examination be held.
-
-The judiciary has postponed the hearing of the petition tomorrow. Remble
-
-◼️
-
-[Data](articles/2e511fd3.json)
-
-[Extended Data](ext_articles/2e511fd3.ext.json)
-
----
-
-### Jagath Kumara quit
-
-*2024-12-16 22:24:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சக்தியிலிருந்து-விலகினார்-ஜகத்-குமார/175-348811) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jagath Kumara quits United People's Power. Cites lack of justice and exclusion of Dullas Alahapperuma. Plans to act independently.
-
-🟩
-
-Former parliamentarian Jagath Kumara, who joined the United People's Power from the Sri Lanka PA in the last presidential election, has quit the party.
-
-He noted that he would withdraw from the United People's Power for a variety of reasons, including the lack of justice to the representatives of the party.
-
-When the National List member was speaking, former minister Dullas Alahapperuma, who was presented by the opposition in the last election, was not included in the last election.
-
-I have been watching what they have been carrying out for the past one month after the general election was over.
-
-Former parliamentarian Jagath Kumara has said that he will act independently in the coming years and act independently in the future.. Remble
-
-◼️
-
-[Data](articles/ff5ed381.json)
-
-[Extended Data](ext_articles/ff5ed381.ext.json)
-
----
-
-### 27 Sri Lankans rescued from Myanmar cybercrime camps return home
-
-*2024-12-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104291/27-sri-lankans-rescued-from-myanmar-cybercrime-camps-return-home) · `en`
-
-A group of 27 Sri Lankans, including eight women, who were victims of human traffickers in Myanmar, has returned to the country today (16).
-
-They arrived at the Bandaranaike International Airport (BIA) in Katunayake onboard a SriLankan Airlines flight from Bangkok, Thailand.
-
-It is reported that arrangements have been made to ensure their safe transport to their respective residences.
-
-Meanwhile, it has been reported that another group of 14 Sri Lankans remain in captivity of human traffickers in Myanmar.
-
-Foreign Minister Vijitha Herath has instructed the relevant authorities to take immediate action to facilitate their safe return.
-
-Since the formation of the new government, a total of 63 Sri Lankans, who were held in human trafficking camps in Myanmar, have been successfully repatriated.
-
-...
-
-[Data](articles/357b79b1.json)
-
-[Extended Data](ext_articles/357b79b1.ext.json)
 
 ---

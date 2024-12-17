@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 15:43:12**
+As of **2024-12-17 16:17:11**
 
 ## Newspaper Stats
 
-*Scraped **60,646** Articles*
+*Scraped **60,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,772
+adalk | 5,775
 adaderanalk | 7,397
-tamilmirrorlk | 8,661
+tamilmirrorlk | 8,663
 virakesarilk | 9,991
 adaderanasinhalalk | 10,480
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,480
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,572 (99.9%) of 60,646 articles have been extended.
+60,575 (99.9%) of 60,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### Petition against Archana
+
+*2024-12-17 15:51:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனாவுக்கு-எதிராக-மனு/175-348844) · `ta`
+
+Archana petitions Court of Appeal, claims ineligible for MP position.
+
+🟩
+
+According to reports, Archana has filed a petition in the Court of Appeal, claiming that he is not eligible to hold the post of MP.
+
+◼️
+
+[Data](articles/7f114414.json)
+
+[Extended Data](ext_articles/7f114414.ext.json)
+
+---
+
+### Greater kilos of rice to the market in 9 days
+
+*2024-12-17 15:50:17* · [`adalk`](https://www.ada.lk/breaking_news/දින-9කදී-පොලොන්නරුවේ-මහා-පරිමාණ-මෝල්-සහල්-කිලෝ-කෝටියක්-වෙළඳපොළට-දෙයි/11-413692) · `si`
+
+Large quantities of rice entering market in 9 days: Half Nadu variety. Consumer Affairs Authority supervises release from Polonnaruwa mills.
+
+🟩
+
+A large kg of rice is released into the market under the supervision of customer service supervision officers in a large number of rice mills in the Polonnaruwa District. It was reported that half of it was Nadu rice.
+
+Under the observation of the officers of the Polonnaruwa District Customer Affairs Authority, the market has been released to the market.
+
+The Consumer Affairs Authority officials the customer service authority conducts the calculation of rice products that will be released from rice mills today.
+
+◼️
+
+[Data](articles/e0f6cf64.json)
+
+[Extended Data](ext_articles/e0f6cf64.ext.json)
+
+---
 
 ### Opposition focusing on govt MPs’ qualifications due to absence of corruption – PM
 
@@ -49,6 +89,8 @@ PM Amarasuriya added that such scrutiny did not apply to the Ministers and MPs o
 ◼️
 
 [Data](articles/beceaadb.json)
+
+[Extended Data](ext_articles/beceaadb.ext.json)
 
 ---
 
@@ -127,6 +169,20 @@ President Anura Kumara Dissanayake, who is on a three -day official visit to Ind
 [Data](articles/04edebc0.json)
 
 [Extended Data](ext_articles/04edebc0.ext.json)
+
+---
+
+### නව මන්ත්‍රීවරුන් සිව්දෙනෙකු දිවුරුම් දෙයි
+
+*2024-12-17 14:09:15* · [`adalk`](https://www.ada.lk/breaking_news/නව-මන්ත්‍රීවරුන්-සිව්දෙනෙකු-දිවුරුම්-දෙයි/11-413690) · `si`
+
+දසවැනි පාර්ලිමේන්තුවේ නව පාර්ලිමේන්තු මන්ත්‍රීවරු සිව්දෙනෙක් නියෝජ්‍ය කථානායක වෛද්‍ය රිස්වි සාලි මහතා ඉදිරියේ ඊයේ (17දා) දිවුරුම් දුන්හ.
+
+සමගි ජන බලවේගය නියෝජනය කරමින් ජාතික ලැයිතු මන්ත්‍රීවරුන් ලෙස සුජීව සේනසිංහ, මුහම්මදු ඉස්මායිල් මුත්තු මුහම්මදු සහ මනෝ ගනේෂන් යන මන්ත්‍රීවරුන් සහ නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නියෝජනය කරමින් ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු ලෙස ෆයිෂර් මුස්තාෆා යන මන්ත්‍රීවරුන් මෙසේ දිවුරුම් දුන්හ.
+
+◼️
+
+[Data](articles/312fec99.json)
 
 ---
 
@@ -475,6 +531,22 @@ In such cases, security authorities have been ordered to handle the situation wi
 [Data](articles/3e60a559.json)
 
 [Extended Data](ext_articles/3e60a559.ext.json)
+
+---
+
+### வைத்தியர் அருச்சுனா மற்றும் சட்டத்தரணிக்கு பிணை
+
+*2024-12-17 11:58:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அருச்சுனா-மற்றும்-சட்டத்தரணிக்கு-பிணை/175-348838) · `ta`
+
+யாழ்ப்பாண போதனா வைத்தியசாலைக்குள் அத்துமீறி நுழைந்தமை தொடர்பிலான வழக்கில் நாடாளுமன்ற உறுப்பினர் வைத்தியர் அருச்சுனா இராமநாதன் மற்றும் சட்டத்தரணி என். கௌசல்யா ஆகியோரை தலா 100,000 ரூபாய் பெறுமதியான ஆள் பிணையில் செல்ல யாழ். நீதவான் நீதிமன்றம் அனுமதித்துள்ளது.
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குள் கடந்த வாரம் நாடாளுமன்ற உறுப்பினர் வைத்தியர் அருச்சுனா மற்றும் சட்டத்தரணி என். கௌசல்யா ஆகியோர் அத்துமீறி நுழைந்து வைத்தியர்களின் கடமைக்கு இடையூறு விளைவித்ததாக வைத்தியசாலை பணிப்பாளர் த. சத்தியமூர்த்தி யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+
+குறித்த வழக்கு திங்கட்கிழமை யாழ். நீதவான் நீதிமன்றில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோthu, குற்றம் சாட்டப்பட்ட வைத்தியர் மற்றும் சட்டத்தரணி ஆகிய இருவரும் மன்றில் முன்னிலையாகி இருந்தனர்.
+
+...
+
+[Data](articles/d017084c.json)
 
 ---
 
@@ -2177,77 +2249,5 @@ Amid those developments, the All Share Price Index went up by 295.10 points, whi
 [Data](articles/2ecef353.json)
 
 [Extended Data](ext_articles/2ecef353.ext.json)
-
----
-
-### Kandy to get a mega bookstore from a publisher who learned the trade page-by-page
-
-*2024-12-16 22:52:00* · [`islandlk`](http://island.lk/kandy-to-get-a-mega-bookstore-from-a-publisher-who-learned-the-trade-page-by-page/) · `en`
-
-Kandy, the largest city in the Central Province of Sri Lanka, will see the grand opening of a mega, cozy bookstore on 20th December 2024, equal in importance or quality to any highly patronized bookstore in Colombo, N.B. Basnayake, Managing Director of N.B. Basnayake Company Pvt. Ltd., told The Island Financial Review last week.
-
-We listened to the entrepreneurial journey of the man born in Hasalaka and studied at Rahula Vidyalaya, Katugastota who had his nose buried in the library books during his school days and came up the hard way.
-
-...
-
-[Data](articles/6e485a70.json)
-
----
-
-### Mesmeric beauty of dragonflies and damselflies in SLT’s 2025 calendar
-
-*2024-12-16 22:50:00* · [`islandlk`](http://island.lk/mesmeric-beauty-of-dragonflies-and-damselflies-in-slts-2025-calendar/) · `en`
-
-SLT-Mobitel has once again raised the bar with the launch of its highly anticipated 2025 calendar, this year dedicated to the mesmerizing world of Sri Lanka’s dragonflies and damselflies.
-
-Themed “Dragonflies of Sri Lanka,” this calendar continues the 19-year tradition of highlighting the island’s natural and cultural heritage, making it one of the most sought-after annual publications in the country, SLT Chief Executive Officer Janaka Abeysinghe said, speaking at the launch on Thursday at the SrI Lanka Telecom Headquarters in Colombo,
-
-This year’s calendar focuses on the vibrant and captivating world of dragonflies, showcasing their stunning beauty and highlighting their crucial role in maintaining the health of ecosystems countrywide.
-
-...
-
-[Data](articles/67a9b841.json)
-
----
-
-### Indian President hosts banquet in honor of President Dissanayake
-
-*2024-12-16 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104292/indian-president-hosts-banquet-in-honor-of-president-dissanayake-) · `en`
-
-Indian President Droupadi Murmu has received Sri Lankan President Anura Kumara Dissanayake at the Rashtrapati Bhavan in New Delhi and hosted a banquet in his honor.
-
-“The President said that as a close and trusted partner, India would continue to support the Sri Lankan Government’s efforts for the sustainable economic development of Sri Lanka,” the President of India  posted on X (formerly Twitter).
-
-President Dissanayake, who is on a three-day official visit to India, his maiden foreign trip after taking office, had also met with Indian Prime Minister Narendra Modi and several Indian ministers today.
-
-◼️
-
-[Data](articles/fcdeff08.json)
-
-[Extended Data](ext_articles/fcdeff08.ext.json)
-
----
-
-### President meets the President
-
-*2024-12-16 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204443) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake met Indian President. He stated India continues to support Sri Lanka as a close and reliable partner.
-
-🟩
-
-President Anura Kumara Dissanayake met with Indian President Mrs. Murd. Mrs. Murmo.
-
-The President has said that India continues to support the Government of Sri Lanka as a close and reliable partner in Sri Lanka as a close and reliable partner.
-
-◼️
-
-[Data](articles/072d2f95.json)
-
-[Extended Data](ext_articles/072d2f95.ext.json)
 
 ---

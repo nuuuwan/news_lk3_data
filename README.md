@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 05:27:32**
+As of **2024-12-17 05:52:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,505 (99.9%) of 60,552 articles have been extended.
+60,510 (99.9%) of 60,552 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1518,6 +1518,8 @@ Meanwhile, he also highlighted that, under its vision statement, India has propo
 
 [Data](articles/793dbd91.json)
 
+[Extended Data](ext_articles/793dbd91.ext.json)
+
 ---
 
 ### Actor Vineeth continues to continue the art service through love
@@ -1644,19 +1646,31 @@ Banking stocks fared well after the ISB announcement on Friday.
 
 ---
 
-### මාතලේ SSP ගේ පුද්ගලික සහකාර CI අනතුරට ලක්කර පළා ගිය රියදුරු අල්ලයි
+### SSP's personal Assistant Ci crashed driver
 
 *2024-12-16 16:45:51* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-SSP-ගේ-පුද්ගලික-සහකාර-CI-අනතුරට-ලක්කර-පළා-ගිය-රියදුරු-අල්ලයි/11-413669) · `si`
 
-මාතලේ කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයාගේ පුද්ගලික සහකාර තනතුරේ රාජකාරි ඉටුකරමින් සිටි ප්‍රධාන පොලිස් පරීක්ෂක එස්.පී.එම්.එල්.බී මොලගොඩ මහතා අනතුරට ලක්කර පලාගිය කාර් රථයේ රියදුරු මාතලේ පොලිස් වසමේ උකුවෙල ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+Here's a summary of the text in approximately 200 characters:
 
-අනතුරින් සුසුම්නාවට බරපතල හානි සිදුවීමෙන් ප්‍රධාන පොලිස් පරීක්ෂකවරයා එම ස්ථානයේම ජීවිතක්ෂයට පත්විය.
 
-සිසිටිවි දර්ශන සහ අනෙකුත් හෝඩුවාවන් ඇසුරෙන් මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශය සහ මාතලේ පොලිස් ස්ථානය විමර්ශන සිදුකර15 වන දින වයස අවුරුදු 46 ක් වන සැකකාර රියදුරු දුම්කොලවත්ත, මාතලේ ප්‍රදේශයේදී අත්අඩංගුවට ගත් අතර අනතුරෙන් පසු අදාල කාර් රථය සැඟවීමට ආධාර අනුබල දුන් වයස අවුරුදු 48 ක් වන කලල්පිටිය,උකුවෙල ප්‍රදේශයේ පදිංචිකරුවෙකු පිළිබඳව අනාවරණය වීමෙන් මාතලේ කොට්ඨාස අපරාධ විමර්ශන අංශයේ නිලධාරීන් එම සැකකරුද කාර් රථය සමඟ අත්අඩංගුවට ගෙන තිබේ.
 
-...
+Chief Inspector S.M.L.B. Molagoda, SSP's personal assistant, was involved in a fatal car crash. He was driving when the accident occurred. The Matale Police Station is investigating. Suspects have been arrested. Further inquiries are ongoing.
+
+🟩
+
+Chief Inspector of Police (SSP) of the Senior Superintendent of Police of the Senior Superintendent of Police (SSP) in the Senior Superintendent of Police (SSP) has been arrested by the police investigation into the accident.
+
+The Chief Inspector General Inspector was killed when he was seriously damaged in the accident.
+
+The Matale Division Criminal Investigation Division and the Matale Police Station in the 15th of the 15th of the accident have been arrested in the 15rd and the age of 15 years after investigating in the 15rd of the 15rd crash.The Matale Division Criminal Investigation Unit has been arrested by the Matale Division Criminal Investigation Division by the reveal of a resident of the area.
+
+Chief Inspector of Police S.M.LB Molagoda was inaugurated in Wattegama while he was left home at the time of the 14th to work on the 14th.. The village Mullaitha police are conducting further investigations into the suspects.
+
+◼️
 
 [Data](articles/c2d33a3d.json)
+
+[Extended Data](ext_articles/c2d33a3d.ext.json)
 
 ---
 
@@ -1677,6 +1691,8 @@ Prior to the sentencing, Senior State Counsel Lishan Rathnayake, representing th
 ...
 
 [Data](articles/0caedc1e.json)
+
+[Extended Data](ext_articles/0caedc1e.ext.json)
 
 ---
 
@@ -1723,6 +1739,8 @@ Badulla:  Haputhale, Ella, Hali Ela and Passara Divisional Secretariat DSDs and
 ◼️
 
 [Data](articles/33c11001.json)
+
+[Extended Data](ext_articles/33c11001.ext.json)
 
 ---
 
@@ -1797,6 +1815,8 @@ Bilateral trade will be boosted by signing the stalled ETCA agreement, he said.
 ...
 
 [Data](articles/c544de91.json)
+
+[Extended Data](ext_articles/c544de91.ext.json)
 
 ---
 

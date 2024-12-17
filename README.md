@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 11:43:57**
+As of **2024-12-17 12:03:10**
 
 ## Newspaper Stats
 
-*Scraped **60,615** Articles*
+*Scraped **60,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,35 @@ islandlk | 3,666
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,767
+adalk | 5,768
 adaderanalk | 7,392
 tamilmirrorlk | 8,655
 virakesarilk | 9,984
-adaderanasinhalalk | 10,475
+adaderanasinhalalk | 10,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,545 (99.9%) of 60,615 articles have been extended.
+60,545 (99.9%) of 60,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### රුසියානු ආරක්ෂක ප්‍රධානියෙක් ඝාතනය කෙරේ
+
+*2024-12-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204457) · `si`
+
+රුසියාවේ මොස්කව් නගරයට ආසන්නයේ නිවාස සංකීර්ණයක් අසල සිදුවූ පිපිරීමකින් පුද්ගලයින් දෙදෙනෙක් මියගොස් තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය වාර්තා කළේ, ඉන් මියගිය එක් අයෙක් රුසියාවේ විකිරණ රසායන හා ජීව රසායන ආරක්ෂක බළකායේ ප්‍රධානියා වන ලුතිනන් ජෙනරාල් ඉගො කිරිලොෆ් බවයි.
+
+◼️
+
+[Data](articles/ae3dcf0c.json)
+
+---
 
 ### The cyclist who saved the ninety-surviving cyclist
 
@@ -855,6 +869,28 @@ Fairly strong winds of about 40 kmph can be expected at times over Northern, Nor
 ...
 
 [Data](articles/075575d7.json)
+
+---
+
+### ලංකාවේ ආයෝජනයට ඉන්දීය ව්‍යාපාරිකයන්ගේ කැමැත්ත
+
+*2024-12-17 08:16:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ආයෝජනයට-ඉන්දීය-ව්‍යාපාරිකයන්ගේ-කැමැත්ත/11-413682) · `si`
+
+ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක  මහතා නවදිල්ලි නුවර දී ඊයේ (16) පස්වරුවේ ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් සමඟ සාකච්ඡාවකට  එක් විය.
+
+ඉන්දියානු කර්මාන්ත සම්මේලනය විසින් සංවිධානය කරන ලද මෙම සාකච්ඡාවට ඉන්දියාවේ ප්‍රමුඛතම ව්‍යවසායකයන් සහභාගී විය.
+
+ශ්‍රී ලංකාවේ ආයෝජනවලට ඇති හිතකර පරිසරය පහදා දුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ශ්‍රී ලංකාවේ ආයෝජනය කරන ලෙස ඉන්දීය ව්‍යවසායකයන්ගෙන් ඉල්ලා සිටියේය.
+
+දෙරට අතර ආයෝජන සහ වාණිජ සම්බන්ධතා පුළුල් කිරීමේ අරමුණෙන් පැවති මෙම සාකච්ඡාවේදී ඩිජිටල්  ආර්ථික, සංචාරක, පුනර්ජනනීය බලශක්ති සහ තොරතුරු තාක්ෂණ යන  ක්ෂේත්‍ර පිළිබඳව විශේෂ අවධානය යොමු කෙරිණි.
+
+ඒ අනුව දෙරට අතර වෙළෙඳ කටයුතු මුල්කර ගනිමින් ශ්‍රී ලංකාවේ ආයෝජන අවස්ථා පුළුල් කිරීම පිළිබඳව සාකච්ඡාවට ලක් විය.
+
+මෙහිදී ශ්‍රී ලංකාවේ අයෝජන අවස්ථා  කෙරෙහි යොමු වීමට ඉන්දීය මහා පරිමාණ ව්‍යාපාරික නියෝජිතයන් කැමැත්ත පළ කළ අතර ඒ සඳහා අවශ්‍ය ආයෝජන පහසුකම් සැපයීමට ශ්‍රී ලංකා රජය එකඟ විය.
+
+...
+
+[Data](articles/db00b33a.json)
 
 ---
 
@@ -2253,63 +2289,5 @@ The stock market turnover also recorded a tremendous value of Rs. 8.2 billion.
 [Data](articles/401c6177.json)
 
 [Extended Data](ext_articles/401c6177.ext.json)
-
----
-
-### "There is evidence of the degree of fraud and graduated"
-
-*2024-12-16 18:33:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-மோசடி-செய்து-பட்டம்-பெற்றதற்கான-ஆதாரங்கள்-உள்ளன/175-348807) · `ta`
-
-Namal Rajapaksa fraud allegations: Former minister accused of cheating in 2011 legal exam. Civil society group lodges CID complaint seeking investigation and cancellation of his law degree. Speaker calls for resignation of MPs without valid qualifications.
-
-🟩
-
-A civil society representative has lodged a complaint with the Criminal Investigation Department (CID) today (16) that former minister Namal Rajapaksa was given priority during the legal exam 11 years ago.
-
-The complaint has been submitted by Jamuni Kamantha Dushara, the leader of the citizens' movement against fraud, corruption and waste.
-
-Kamantha Dushara, who spoke to the media after lodging a complaint, said that Rajapakse had evidence of a law degree.
-
-Dushara further accused two lawyers of helping him while Rajapakse was sitting in his legal exam.. He urged the CIT to investigate the matter immediately.
-
-"If Namal Rajapaksa's legal degree is fraudulent, the degree should be immediately canceled and legal action should be taken against all concerned authorities."
-
-...
-
-[Data](articles/eaa010be.json)
-
-[Extended Data](ext_articles/eaa010be.ext.json)
-
----
-
-### Argentine player Benell took 4 wickets off 4 balls in international T20
-
-*2024-12-16 18:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201451) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Argentine player Benell achieves rare feat in T20 cricket by taking 4 wickets in 4 balls. He joins elite group including Rashid Khan, Lasith Malinga, and others. Benell also records second hat-trick in international T20s. His team loses despite his impressive performance.
-
-🟩
-
-Argentine fast bowler Harneen Fennel has joined the line of 4 wickets in 4 balls in international T20 cricket.
-
-He has also joined the rare record for the players who performed head -trick twice in international T20 cricket.
-
-The Argentine player set this rare record in the next ICC men's World Cup for the World Cup.
-
-Harnan Benell took 4 wickets at the last 4 balls of the last over of the last over of the Cauman Islands team at Bhuvanus Aires Stadium.
-
-With this, Benell has become the sixth player in the international T20 cricket match.
-
-Prior to this, Rashid Khan (Afghanistan Victory Ireland 2019), Lasith Malinga (Sri Lanka's New Zealand 2019), Cardis Chamefar (Ireland opposite Netherlands 2021), Jason Holder (West Indies opposite UK 2022), Vasim Yakoop 2024They set up a landmark record.
-
-...
-
-[Data](articles/bb1e31e9.json)
-
-[Extended Data](ext_articles/bb1e31e9.ext.json)
 
 ---

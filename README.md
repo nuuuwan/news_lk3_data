@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 10:43:13**
+As of **2024-12-17 11:01:33**
 
 ## Newspaper Stats
 
-*Scraped **60,594** Articles*
+*Scraped **60,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,186
 dailymirrorlk | 4,733
 adalk | 5,765
 adaderanalk | 7,384
-tamilmirrorlk | 8,654
+tamilmirrorlk | 8,655
 virakesarilk | 9,981
 adaderanasinhalalk | 10,474
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,536 (99.9%) of 60,594 articles have been extended.
+60,536 (99.9%) of 60,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
+
+### மனோ கணேசன் சத்திப்பிரமாணம்
+
+*2024-12-17 10:37:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-சத்திப்பிரமாணம்/175-348834) · `ta`
+
+தமிழ் முற்போக்கு கூட்டணியின் தலைவர் மனோ கணேசன், பாராளுமன்ற உறுப்பினராக  பிரதி சபாநாயகர் முன்னிலையில் புதன்கிழமை (17) சத்திப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/165fe1e6.json)
+
+---
 
 ### ACWF துணைத் தலைவர், பிரதமருடன் சந்திப்பு
 
@@ -2317,33 +2329,5 @@ The film, which talks about love, has been co -produced by Simatry Cinemas, Man 
 [Data](articles/397defbd.json)
 
 [Extended Data](ext_articles/397defbd.ext.json)
-
----
-
-### What happened to six shops sold for the rice elder
-
-*2024-12-16 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204435) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Consumer Affairs Authority conducted 342 rice price control raids since the festival season. Six shops were raided, resulting in court orders to recover money. More raids will be prosecuted, awaiting judicial decisions.
-
-🟩
-
-According to the Consumer Affairs Authority, 342 raids have been conducted in rice control price so far since the festive season.
-
-Chairman of the Authority Hemantha Samarakoon said that the raids were carried out from the 17th to this time.
-
-Accordingly, court rulings have been received in relation to six raids, which has been made to recover a sum of Rs.
-
-Hemantha Samarakoon, Chairman of the Consumer Affairs Authority, said that other raids will be prosecuted and is taking over judicial decisions.
-
-◼️
-
-[Data](articles/22ab285d.json)
-
-[Extended Data](ext_articles/22ab285d.ext.json)
 
 ---

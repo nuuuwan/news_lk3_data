@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-17 20:43:10**
+As of **2024-12-17 21:14:53**
 
 ## Newspaper Stats
 
-*Scraped **60,686** Articles*
+*Scraped **60,690** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 454
-colombotelegraphcom | 614
+colombotelegraphcom | 616
 bbccomsinhala | 636
 islandlk | 3,669
 economynextcom | 3,691
 dailyftlk | 4,186
 dailymirrorlk | 4,733
-adalk | 5,782
+adalk | 5,783
 adaderanalk | 7,401
-tamilmirrorlk | 8,668
+tamilmirrorlk | 8,669
 virakesarilk | 10,000
 adaderanasinhalalk | 10,489
 
@@ -26,31 +26,65 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,607 (99.9%) of 60,686 articles have been extended.
+60,609 (99.9%) of 60,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-17 (Tuesday)
 
-### கலம்போ ஜகுவார்ஸை ஜெவ்னா டைட்டன்ஸின் துனித் வெல்லாலகே, குசல் மெண்டிஸ் ஆகியோர் வெளியேற்றினர்
+### யாழ். மாவட்டத்தில் 99 பேருக்கு எலிக்காய்ச்சல்
+
+*2024-12-17 20:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-மாவட்டத்தில்-99-பேருக்கு-எலிக்காய்ச்சல்/175-348872) · `ta`
+
+யாழ்ப்பாணம் மாவட்டத்தில் எலிக்காய்ச்சல் நோய் காரணமாக இதுவரை 99 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் ஆறுமுகம் கேதீஸ்வரன் தெரிவித்துள்ளார்.
+
+தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 23 பேரும், யாழ்ப்பாணம் போதனா வைத்தியசாலையில் 6 பேரும் சிகிச்சை பெற்று வருவதாக அவர் விடுத்துள்ள ஊடக அறிக்கை ஒன்றில் குறிப்பிடப்பட்டுள்ளது.
+
+கடந்த 24 மணிநேரத்தில் பருத்தித்துறை ஆதார வைத்தியசாலையில் 9 நோயாளர்களும், யாழ்ப்பாணம் போதனா வைத்தியசாலையில் 5 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இதுவரை யாழ்ப்பாணம் மாவட்டத்தில் இந்த நோய் காரணமாக 7 இறப்புக்கள் பதிவாகியுள்ளன.  R
+
+◼️
+
+[Data](articles/89e8bf66.json)
+
+---
+
+### Jevna Titans's Dunit Vellalake and Kusal Mendis evacuated Kalambo Jaguarz
 
 *2024-12-17 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201535) · `ta`
 
-கண்டி பல்லேகலையில் நடைபெற்றுவரும் லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட் போட்டியிலிருந்து கலம்போ ஜகுவார்ஸ் அணியை துனித் வெல்லாலகேயின் துல்லியமான பந்துவீச்சும் குசல் மெண்டிஸின் அதிரடி துடுப்பாட்டமும் வெளியேற்றின.
+Here's a summary of the text in approximately 200 characters:
 
-இன்று நடைபெற்ற கடைசிக் கட்டப் போட்டியில் கலம்போ ஜகுவார்ஸ் அணியை எதிர்த்தாடிய ஜெவ்னா டைட்டன்ஸ் 9 விக்கெட்களால் அமோக வெற்றியீட்டியது.
 
-இதன் மூலம் இந்த சுற்றுப் போட்டியில் தோல்வி அடையாத ஒரே ஒரு அணி என்ற பெருமையைப் பெற்றுக்கொண்ட ஜெவ்னா டைட்டன்ஸ், நாளை நடைபெறவுள்ள முதலாவது தகுதிகாண் போட்டியில் விளையாடவுள்ளது.
 
-இன்றைய போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கலம்போ ஜகுவார்ஸ் 10 ஓவர்களில் 8 விக்கெட்களை இழந்து 99 ஓட்டங்ளை மாத்திரம் பெற்றது.
+Jevna Titans defeated Kalambo Jaguars in Lanka R10 Super League. Kusal Mendis & Sarit Asalanka shared 98 runs. Mendis hit 16* (11 fours, 5 sixes). Titans won by 9 wickets.
 
-ரமேஷ் மெண்டிஸ் திறமையாகத் துடுப்பெடுத்தாடி ஆட்டம் இழக்காமல் 28 ஓட்டங்களைப் பெற்றார். அவரைவிட அசிப் அலி (18), கமிந்து மெண்டிஸ் (17), நஜிபுல்லா ஸத்ரான் (12) ஆகியோரே 10 ஓட்டங்களுக்கு மேல் பெற்றனர்.
+🟩
 
-பந்துவீச்சில் துனித் வெல்லாலகே 5 ஓட்டங்களுக்கு 3 விக்கெட்களையும் லஹிரு குமார 19 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+Tunit Vellake's accurate bowling and Kusal Mendis's action dismissed the Kalambo Jaguars team from the Lanka R10 Super League cricket match at Pallekele in Kandy.
+
+Jevna Titans won by 9 wickets in the last phase of today.
+
+Jevna Titans, who became the only team that has not lost the tournament, will play the first qualifying match tomorrow.
+
+In today's match, Kalambo Jaguars lost 8 wickets in 10 overs and scored 99 runs.
+
+Ramesh Mendis scored 28 runs without losing the game efficiently. Asif Ali (18), Kamindu Mendis (17) and Najibullah Saadran (12) scored more than 10 runs.
+
+In the bowling, Dunit Vellalake took 3 wickets for 5 runs while Lahiru Kumara took 2 wickets for 19 runs.
+
+In reply, Jevna Titans lost only one wicket in 5.4 overs and scored 100 runs.
+
+Early player Kevin Wickham lost the game without the flow. (2 - 1 wig.)
+
+However, Kusal Mendis and Sarit Asalanka shared 98 runs off 30 balls in the second wicketless 2 -wicket.
 
 ...
 
 [Data](articles/05a593ba.json)
+
+[Extended Data](ext_articles/05a593ba.ext.json)
 
 ---
 
@@ -118,23 +152,31 @@ It was discovered while preparing to use the unsuitable fruits inadequacy to hum
 
 ---
 
-### கால்நடைகளில் இருந்து எலிக்காய்ச்சல் பரவுகின்றதா? - ஆய்வு செய்வதற்கு கொழும்பில் இருந்து யாழுக்கு செல்கிறது விசேட குழு!
+### Does the fever spread from cattle?- Special team from Colombo to Jaffna to study!
 
 *2024-12-17 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201534) · `ta`
 
-யாழ்ப்பாணம் மாவட்டத்தில் எலிக்காய்ச்சல் நோய் காரணமாக இதுவரை 99 பேர் பாதிக்கப்பட்டுள்ளனர். தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 23 பேரும் யாழ் போதனா வைத்தியசாலையில் 6 பேரும் சிகிச்சைபெற்று வருகின்றனர் என யாழ்ப்பாண மாவட்ட சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி ஆ.கேதீஸ்வரன் தெரிவித்துள்ளார்.
+Fever outbreak in Jaffna: 99 cases, 23 hospitalized. Cattle suspected as source. Special team from Colombo to investigate. Vaccination efforts underway. No child under 15 affected.
 
-இன்றையதினம் அவரது அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த 24 மணிநேரத்தில் பருத்தித்துறை ஆதார வைத்தியசாலையில் 9 நோயாளர்களும் யாழ் போதனா வைத்தியசாலையில் 5 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
+99 people in Jaffna district. Jaffna District Health Services Director Dr. A Ketheeswaran said that 23 persons are currently being treated at the Point Pedro Base Hospital and six are being treated at the Jaffna Teaching Hospital.
 
-கடந்த 24 மணிநேரத்தில் இந்நோய் காரணமாக எந்தவொரு இறப்பும் ஏற்படவில்லை. இதுவரை யாழ்ப்பாணம் மாவட்டத்தில் இந்நோய் காரணமாக 7 இறப்புக்கள் ஏற்பட்டுள்ளன.
+He said this at a media briefing held at his office today. As he further stated,
 
-குறிப்பாக பருத்தித்துறை, கரவெட்டி சுகாதார வைத்திய அதிகாரி பிரிவுகளிலே எலிக்காய்ச்சலை பரப்புகின்ற பற்றீரியா அந்த பிரதேசங்களில் இருக்கின்ற கால்நடைகளில் இருக்கலாம் என சந்தேகிக்கப்படுகிறது.
+In the last 24 hours, 9 patients at the Point Pedro Base Hospital and 5 patients at the Jaffna Teaching Hospital have been admitted to the Jaffna Teaching Hospital.
+
+No death caused by the disease in the last 24 hours. So far, there have been 7 deaths due to the disease in the Jaffna district.
+
+It is suspected that the cattle in those areas, especially in the Point Pedro and Karavedti Health Medical Officer's Divisions.
+
+So we had requested permission from the Department of Livestock Production Health to confirm this. Accordingly, a special team from the Department of Livestock Production Health will visit the Jaffna district tomorrow.
 
 ...
 
 [Data](articles/8bd3ddcd.json)
+
+[Extended Data](ext_articles/8bd3ddcd.ext.json)
 
 ---
 
@@ -435,6 +477,28 @@ In the meantime, there is a settlement ordered the parties to inform the court t
 [Data](articles/b26747ad.json)
 
 [Extended Data](ext_articles/b26747ad.ext.json)
+
+---
+
+### පුද්ගලික අංශයට සහල් ආනයනය කිරීමට දුන් කාලය අද රාත්‍රී 12න් අවසන්
+
+*2024-12-17 18:20:00* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලික-අංශයට-සහල්-ආනයනය-කිරීමට-දුන්-කාලය-අද-රාත්‍රී-12න්-අවසන්/11-413702) · `si`
+
+විදේශ රටවලින් සහල් ගෙන්වීමට ලබා දී තිබෙන කාලය මේ මස 20වන දින රාත්‍රී 12.00න් අවසන් වන බව රේගු දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+අද (17දා) දහවල් වන විට සහල් මෙට්‍රික් ටොන් 9,500ක් ආනයනය කර තිබෙන බවත්, එම සහල් තොග අතර කැකුළු සහල් මෙට්‍රික් ටොන් 3,300 ක් හා නාඩු සහල්  මෙට්‍රික් ටොන් 6,200ක් තිබෙන බවද පෙන්වා දෙයි.
+
+රජය විසින් පසුගිය 04වනදා සිට සහල් ආනයනය සඳහා අවසරය ලබාදුන් අතර, මේ අනුව පසුගිය 10වනදා සිට සහල් ගෙන්වීම ආරම්භ විය.
+
+මෙරටට රැගෙන ආ සහල්  කිලෝ හැත්තපන්දහසක පමණ ප්‍රමාණයක් පරිභෝජනයට නුසුදුසු වීම නිසා රේගු දෙපාර්තමේන්තුව විසින් නැවත රැගෙන යන ලෙසට ආනයනකරුවන්ට දැනුම් දීමට කටයුතු කළේය.
+
+මෙම සහල් අතර ගුල්ලන් ගැසූ සහල් කිලෝ පනස්දහසක් හා කල් ඉකුත් වූ දින සඳහන් ලේබල් සහිත සහල් කිලෝ විසිපන්දහසක් ඇතුළත් විය.
+
+රට තුළට රැගෙන එන සහල් තොග රේගුවෙන් නිෂ්‍කාශනය කිරීමේ කටයුතු කඩිනම්ව සිදුවන අතර, ශ්‍රී ලංකා රේගුවේ අවදානම් කළමනාකරණ, මධ්‍යම භාණ්ඩ පරීක්ෂණ, නිවාරණ හා සටහන්කර යන අංශ එකතුව විශේෂ වැඩපිළිවෙළක් තුළින් ඉතා ඉක්මනින් සහල් තොග රේගුවෙන් නිදහස් කිරීමට කටයුතු කරනු ලබයි.
+
+◼️
+
+[Data](articles/9e3ccba6.json)
 
 ---
 
@@ -946,6 +1010,18 @@ He was responding to a question raised by Minister Nalinda Jayatissa.
 
 ---
 
+### For Trump’s Second Term Foreign Policy, Think More “Nixon Doctrine” Than “America First”
+
+*2024-12-17 15:12:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/for-trumps-second-term-foreign-policy-think-more-nixon-doctrine-than-america-first/) · `en`
+
+Donald Trump’s surprising return to the presidency, becoming only the second U.S. leader to serve non-consecutive terms after Grover Cleveland, has reignited familiar fears in the international community. Commentators are warning of a looming isolationist turn in American foreign policy, with critics raising alarm over potential retrenchment from global leadership and a subsequent backslide of democratic values and human rights in the world.
+
+...
+
+[Data](articles/f297091c.json)
+
+---
+
 ### Petition challenging Archchuna’s MP post fixed for consideration
 
 *2024-12-17 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104311/petition-challenging-archchunas-mp-post-fixed-for-consideration) · `en`
@@ -963,6 +1039,24 @@ The petitioning party has pointed out that it is unlawful to submit nominations 
 [Data](articles/a6153ead.json)
 
 [Extended Data](ext_articles/a6153ead.ext.json)
+
+---
+
+### Papal Claims Based On Matthew 16:18-19: How Biblical Are They?
+
+*2024-12-17 15:02:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/papal-claims-based-on-matthew-1618-19-how-biblical-are-they/) · `en`
+
+Recently, Jerome Fernando, leader of Prophet Jerome Fernando Ministries, who not so long ago landed in hot water because of his controversial remarks about religions, was again in the news. This time over his ordination as a bishop in his church.
+
+This had apparently caused confusion among Roman Catholic Church members, for a statement issued by the Catholic Bishops Conference in Sri Lanka dated 9 December has clarified that Jerome Fernando is not a Bishop of the Catholic Church, and therefore their members should not be “deceived.”
+
+Catholic Bishop is a continuation of the successors of the apostles of Jesus. Every Catholic Bishop is one of the direct successors of the eleven apostles, except for the Apostle Peter who is the head of the apostles. The direct successor of St. Peter is His Holiness Pope. [sic]
+
+Mr Jerome Fernando…has no official apostolic succession in the Catholic Church….
+
+...
+
+[Data](articles/bac9d47b.json)
 
 ---
 
@@ -2313,83 +2407,5 @@ Cargills Bank will act as the collection agent for unit trust funds managed by C
 ...
 
 [Data](articles/ae25872e.json)
-
----
-
-### දයාසිරිව ශ්‍රීලනිප විනය කමිටුවට කැඳවයි
-
-*2024-12-17 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204451) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රි දයාසිරි ජයසේකර මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ විනය කමිටුවට කැඳවා ඇති බව එම පක්ෂයේ මහලේකම් දුමින්ද දිසානායක මහතා පවසයි.
-
-ඔහු පෙන්වා දෙන්නේ, පක්ෂයේ තීන්දු තීරණවලට පටහැනිව කටයුතු කිරීම සම්බන්ධයෙන් දයාසිරි ජයසේකර මහතාට එරෙහිව චෝදනා ගොනුකර ඇති බවය.
-
-ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් දුමින්ද දිසානායක මහතා මේ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/ecda4558.json)
-
----
-
-### A gazetted by announcing the resignation of Speaker
-
-*2024-12-17 09:18:49* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකගේ-ඉල්ලා-අස්වීම-නිවේදනය-කරමින්-ගැසට්ටුවක්/11-413683) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Speaker Asoka Sapumal Ranwala resigns on Dec 13, 2024, as per Constitutional Amendment gazette notification.
-
-🟩
-
-Asoka Sapumal Ranwala has been announced in a special gazette notification that Mr. Ranwala has resigned from the post of Speaker.
-
-Speaker Asoka Sapumal Ranwala has resigned from the post of Speaker on 13th December 2024, according to the Constitution of Amendment.The announcement states.
-
-◼️
-
-[Data](articles/018719de.json)
-
-[Extended Data](ext_articles/018719de.ext.json)
-
----
-
-### General Election candidates’ expense reports to be publicized from today
-
-*2024-12-17 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104297/general-election-candidates-expense-reports-to-be-publicized-from-today) · `en`
-
-The Election Commission says that the election expense reports of all candidates, party secretaries, independent group leaders and national list candidates who contested the 2024 General Election will be made public from today onwards (17).
-
-The Chairman of the Election Commission, R.M.A.L. Ratnayake, stated that these income and expenditure reports will be made public at every District Secretariat and the Election Commission’s office in Rajagiriya.
-
-According to the Regulation of the Election Expenditure Act, the deadline for submitting income and expenditure reports for the 2024 General Election was midnight on December 06.
-
-During that period, 7,412 of the 8,361 candidates who contested representing political parties at the district level have submitted their income and expenditure reports.
-
-...
-
-[Data](articles/27d8605e.json)
-
----
-
-### President engages in talks with Indian business leaders
-
-*2024-12-17 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104296/president-engages-in-talks-with-indian-business-leaders) · `en`
-
-President Anura Kumara Dissanayake, currently on a three-day official visit to India, participated in a discussion with leading Indian business representatives yesterday (16) in New Delhi.
-
-This discussion, organized by the Confederation of Indian Industry (CII), brought together some of India”s most prominent entrepreneurs, the President”s Media Division (PMD) stated.
-
-President Dissanayake highlighted the investor-friendly environment in Sri Lanka and invited Indian entrepreneurs to explore investment opportunities in the country.
-
-The discussion, aimed at strengthening investment and trade relations between the two nations, focused on key areas such as the digital economy, tourism, renewable energy, and information technology, the statement said.
-
-The conversation also emphasized expanding investment opportunities in Sri Lanka by leveraging trade between the two countries.
-
-...
-
-[Data](articles/b5225b0b.json)
 
 ---

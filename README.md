@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 13:01:32**
+As of **2024-12-18 13:26:59**
 
 ## Newspaper Stats
 
-*Scraped **60,801** Articles*
+*Scraped **60,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,678
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,793
+adalk | 5,794
 adaderanalk | 7,412
-tamilmirrorlk | 8,691
+tamilmirrorlk | 8,692
 virakesarilk | 10,019
 adaderanasinhalalk | 10,504
 
@@ -26,27 +26,63 @@ adaderanasinhalalk | 10,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,684 (99.8%) of 60,801 articles have been extended.
+60,687 (99.8%) of 60,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### வவுனியாவில் மாரடைப்பால் 45 பேர் மரணம்
+### 79 -year -old elderly
+
+*2024-12-18 13:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-தேடி-விளம்பரம்-செய்த-79-வயதான-முதியவர்/175-348905) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+79-year-old widower seeks bride via newspaper ad, uses crutches due to knee pain. Father of five children, twice married. Aims to find loving partner despite family objections.
+
+🟩
+
+News about the 79 -year -old man who went to the press advertising office with the help of a crutch to find a woman after publishing a wedding advertisement in a newspaper has been reported in Mawanella area.
+
+A 79 -year -old man, the father of five children, went to the newspaper advertising office to publish a wedding advertisement.
+
+The father of five children was first married to a woman and had three children.
+
+Later, a long day ago, the childless widow brought home and the family carried her with her.  தனது இரண்டாவது மனைவி மூலம் இரண்டு குழந்தைகளைப் பெற்றெடுத்தார், அவருக்கு மொத்தம் ஐந்து குழந்தைகள் உள்ளனர்.
+
+Currently, five children are married and live in separate houses and only elderly couples live in the main house.. Five children often take care of their parents' grief and happiness and adjust their shortcomings.
+
+...
+
+[Data](articles/b3867972.json)
+
+[Extended Data](ext_articles/b3867972.ext.json)
+
+---
+
+### 45 people die in a heart attack in Vavuniya
 
 *2024-12-18 12:46:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-மாரடைப்பால்-45-பேர்-மரணம்/175-348904) · `ta`
 
-வவுனியா பொது வைத்தியசாலையில் இவ்வாண்டு ஜனவரி முதல் அக்டோபர் வரையிலான 10 மாத காலப்பகுதியில் மாரடைப்பால் 45 பேர் மரணம் அடைந்திருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+45 heart attack deaths reported at Vavuniya hospital Jan-Oct. Ages: 20-40 (13), 40-60 (13), 60+ (31). Health Dept cites rising trend. RTI request filed.
 
-தகவல் அறியும் உரிமைச் சட்டத்தின் ஊடாக கோரப்பட்ட தகவலுக்கு அமைய குறித்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதன் பிரகாரம் 20 வயது தொடக்கம் 40 வயதுக்கு உட்பட்டவர்களில்    ஒருவரும்,  40 வயது  தொடக்கம் 60  வயதுக்கு உட்பட்டவர்களில்  13 பேரும், 60 வயது  தொடக்கம் 100 வயதுக்கு உட்பட்டவர்களில் 31 பேருமாக 45 பேர் இவ்வாறு மாரடைப்பால் மரணமாகியுள்ளனர்.
+45 people have died of a heart attack during the 10 -month period from January to October this year at the Vavuniya General Hospital.
 
-வவுனியாவில் மாரடைப்பால் மரணிப்போரின் எண்ணிக்கை அண்மைக்காலமாக அதிகரித்து காணப்பட்ட நிலையில் அதற்கான பல்வேறு காரணங்களும் சுகாதார திணைக்களத்தினால் தெரிவிக்கப்பட்டுள்ளது.
+The matter has been reported to be sought through the Right to Information Act.
+
+Accordingly, one of the 20 to 40 years of age, 13 from the age of 40 to 60, and 31 in the age of 60 to 100 years, 45 have died of a heart attack.
+
+The Department of Health has stated that the number of heart attacks in Vavuniya has increased in recent years.
 
 ◼️
 
 [Data](articles/d53dbcb0.json)
+
+[Extended Data](ext_articles/d53dbcb0.ext.json)
 
 ---
 
@@ -144,21 +180,31 @@ The other members of the group have been appointed as Harshana Suriyaparuma, Rav
 
 ---
 
-### முகநூல் காதல் ; நண்பியின் வீட்டிற்கு சென்ற சிறுமி வன்புணர்வு
+### Facebook love;The little girl who went to his friend's house
 
 *2024-12-18 12:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முகநூல்-காதல்-நண்பியின்-வீட்டிற்கு-சென்ற-சிறுமி-வன்புணர்வு/76-348903) · `ta`
 
-முகநூல் ஊடாக  அறிந்துக்கொண்ட 17 வயதுடைய சிறுமியை பாலியல் பலாத்காரம் செய்த இளைஞன் புத்தல பொலிஸாரால்  செவ்வாய்க்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+Here's a summary in 200 characters:
 
-புத்தல பிரதேசத்தை சேர்ந்த 17 வயதுடைய சிறுமி ஒருவர்  படல்கும்புரை பிரதேசத்தை சேர்ந்த 19 வயதுடைய இளைஞனை கடந்த ஒரு மாதத்திற்கு முன்னர் முகநூல் ஊடாக  அறிந்துக்கொண்டு அவருடன் காதல் உறவில் ஈடுபட்டுள்ளார்.
 
-குறித்த சிறுமி கடந்த 16ம் திகதி தனது நண்பியின் வீட்டிற்கு சென்ற நிலையில் காதலனையும் சந்தித்துள்ளார். அதன் பின்னர்,குறித்த இளைஞன், சிறுமியை வீட்டில் விடுவதாக கூறி முச்சக்கர வண்டியில் ஏற்றிச் செல்லும் போது, ​​புத்தல வீதியில் உள்ள தேக்குமரக்காட்டுக்கு அருகில் முச்சக்கர வண்டியை நிறுத்தி வலுக்கட்டாயமாக சிறுமியை பாலியல் பலாத்காரம் செய்துள்ளார்.
 
-இது தொடர்பில் குறித்த சிறுமி தாய், தந்தையிடம் தெரிவித்ததையடுத்து அவர்கள் பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டிற்கு பின்னர் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன்   சிறுமி வைத்திய பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+17-year-old girl from Budhala loves 19-year-old boy from Padalgamburai. She visited friend's house on 16th. Boyfriend took her home on three-wheeler but forcibly raped her near Thekumarakkad. Police arrested suspect after girl's complaint. She's hospitalized for medical exam.
+
+🟩
+
+A young man was arrested by Budhala police on Tuesday (17).
+
+A 17 -year -old girl from Budhala area has been in love with a 19 -year -old youth from Padalgamburai.
+
+The girl also met her boyfriend as she went to her friend's house on the 16th. Subsequently, when the young man was riding a three -wheeler claiming to leave the girl at home, she had forcibly raped a three -wheeler near Thekumarakkad on the Budhala road.
+
+The suspect has been arrested after a complaint lodged at the police station after the girl informed her father and father and has been admitted to the Moneragala District General Hospital for medical examination.
 
 ◼️
 
 [Data](articles/32d360c1.json)
+
+[Extended Data](ext_articles/32d360c1.ext.json)
 
 ---
 
@@ -643,6 +689,22 @@ The Foreign Employment Bureau further stated that any information regarding thes
 ◼️
 
 [Data](articles/ce1b744a.json)
+
+---
+
+### රනිල් අනුරව අගයයි
+
+*2024-12-18 10:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-අනුරව-අගයයි/11-413710) · `si`
+
+ශ්‍රි ලංකාව හා ඉන්දියාව අතර ක්‍රියාත්මක කිරිමට යෝජිත අර්ථික හා තාක්ෂණික සහයෝගිතා ගිවිසුම (ETCA)  ඉදිරියට ගෙන යාමට ජනපති අනුර කුමාර දිසානායක මහතාගේ ඉන්දිය සංචාරයේදි තීරණය කිරිම සම්බන්ධයෙන් හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා ජනපති අනුර කුමාර දිසානායක මහතාව අගයා තිබේ.
+
+විශේෂ ප්‍රකාශයක් කරමින් ඔහු පවසන්නේ මෙම ගිවිසුම  ඉදිරියට ගෙන යාමට තිරණය කිරීමත් ත්‍රිකුණාමලය කලාපයේ බලශක්ති හා කාර්මික කලාපයක් ලෙස සංවර්ධනය කිරිමට කැමැත්ත ප්‍රකාශ කිරිමත් සම්බන්ධයෙන් තමන් අනුර කුමාර දිසානායක මහතාව අගයන බවයි.
+
+අනුර කුමාර දිසානායක මහතා හා ඉන්දිය අග්‍රාමාත්‍යවරයා කළ ඒකාබද්ධ ප්‍රකාශය පිළිගන්නා බවත් මේ හරහා සබඳතා තවදුරටත්  ශක්තිමත් වන බවත් රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/868e956a.json)
 
 ---
 
@@ -2189,57 +2251,5 @@ He added that legal action has already been taken against the seven candidates w
 [Data](articles/4cd08d98.json)
 
 [Extended Data](ext_articles/4cd08d98.ext.json)
-
----
-
-### Army security will be deleted next week
-
-*2024-12-17 19:10:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முப்படை-பாதுகாப்பு-அடுத்த-வாரம்-நீக்கப்படும்/175-348857) · `ta`
-
-S:0
-
-🟩
-
-Public Security Minister Ananda Wijebala has said that the government has decided to remove the security provided by the former presidents from next week.
-
-In the last eleven months, the minister said that 1,448 million rupees has been spent to maintain former presidents and it is a waste of public money.
-
-He added that the decision will be taken only after reviewing the security of the former presidents every six months.
-
-◼️
-
-[Data](articles/642c3368.json)
-
-[Extended Data](ext_articles/642c3368.ext.json)
-
----
-
-### Do not reduce the safety of Mahinda: How to compare Mahinda with Ranil - TV. Dignity question
-
-*2024-12-17 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201520) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Security concerns raised about reducing protection for former President Mahinda Rajapaksa. Public Security Minister cites cost savings but opposition claims it's unsafe. Debate centers on comparing security measures for Mahinda vs current leader Ranil Wickremesinghe.
-
-🟩
-
-Do not reduce the safety of former Mahinda Rajapakse, according to the objectives of the LTTE's policymakers. Sri Lanka PA MP TV Member of Parliament for Ranil Wickremesinghe. Chanaka questioned.
-
-The security forces were given to Mahinda Rajapaksa and not to work in his south, not to work in his south, followed by MP TV Member TV Member TV. There was fierce logic between Chanaka and members of the ruling party.
-
-TV Member of Parliament, TV, speaking at the debate on the Motion on the Public Students' Public Students. Chanaka,
-
-The Public Security Minister told the House of Representatives. He stated that only 60 policemen were to be protected by the complete removal of the military security provided to the former president.
-
-It is decided to cancel the military security provided to Mahinda Rajapakse, who ended the war when the police and the Special Task Force were granted security to the security forces when they were taken to court.
-
-...
-
-[Data](articles/b1ce4901.json)
-
-[Extended Data](ext_articles/b1ce4901.ext.json)
 
 ---

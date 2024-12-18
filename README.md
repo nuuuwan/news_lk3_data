@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 15:02:04**
+As of **2024-12-18 15:26:53**
 
 ## Newspaper Stats
 
-*Scraped **60,820** Articles*
+*Scraped **60,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,795
+adalk | 5,796
 adaderanalk | 7,418
 tamilmirrorlk | 8,694
 virakesarilk | 10,020
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,699 (99.8%) of 60,820 articles have been extended.
+60,703 (99.8%) of 60,821 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,30 @@ President Anura Dissanayake said in Parliament today (18)
 [Data](articles/e0db067b.json)
 
 [Extended Data](ext_articles/e0db067b.ext.json)
+
+---
+
+### No agreement betrayed the country
+
+*2024-12-18 13:24:29* · [`adalk`](https://www.ada.lk/breaking_news/රට-පාවාදෙන-කිසිදු-ගිවිසුමක්-අත්සන්-කරලා-නෑ/11-413713) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"No agreement has compromised national interests," stated Minister Vijitha Herath. The current government maintains transparency in all diplomatic deals, ensuring no harmful pacts were made without public knowledge or consent.
+
+🟩
+
+Minister of External Affairs and Tourism Vijitha Herath said that the present government has not signed any agreement that betrayed the country.
+
+He was speaking at a statement today (18).
+
+◼️
+
+[Data](articles/70553e5e.json)
+
+[Extended Data](ext_articles/70553e5e.ext.json)
 
 ---
 
@@ -382,27 +406,41 @@ The country’s Christian community had shrunk dramatically, having been targete
 
 [Data](articles/1c6ccc00.json)
 
+[Extended Data](ext_articles/1c6ccc00.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் சுற்றிவளைப்பு ; போதைப்பொருட்களுடன் நால்வர் கைது!
+### Circumstance across the country;Four arrested with drugs
 
 *2024-12-18 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201560) · `ta`
 
-நாடளாவிய ரீதியில் பொலிஸாரினால் நேற்று செவ்வாய்க்கிழமை (17) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களுடன்  சந்தேகநபர் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-மஹரகம பொலிஸ் பிரிவுக்குட்பட்ட ரயில்வே  நிலைய வீதி - நுகேகொட பகுதியில் 05 கிராம் 900 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் வைத்திருந்த சந்தேக நபர் ஒருவர் கைது  செய்யப்பட்டுள்ளார்.
 
-இதேவேளை, பேலியகொடை பொலிஸ் பிரிவுக்குட்பட்ட துடுகெமுனு மாவத்தை மற்றும் திப்பிட்டிகொட பகுதியில் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
 
-கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து 11 கிராம் 800 மில்லிகிராம்  ஐஸ் போதைப்பொருள் மற்றும் 10 கிராம் 300 மில்லிகிராம் ஹெராயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளனர்.
+"4 arrests made nationwide: heroin & ice seized. Suspects aged 31&32 from Peliyagoda & Kelaniya. Further investigations ongoing."
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 31 மற்றும் 32 வயதுடைய பேலியகொட மற்றும் களனி பகுதிகளை சேர்ந்தவர்களாவர்.
+🟩
 
-அத்தோடு, கம்பஹா பொலிஸ் பிரிவுக்குட்பட்ட உடுகம்பலை சந்தியில் 11 கிராம் 300 மில்லிகிராம் ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+Four suspects have been arrested with heroin and ice drugs in a roundabout carried out by police nationwide on Tuesday (17).
 
-...
+A suspect has been arrested for possessing 05 grams of 900 milligrams of heroin in the Railway Station Road - Nugegoda, which belongs to the Maharagama Police Division.
+
+Meanwhile, two suspects have been arrested in the Paliyagoda Police Division, Tudukamunu Mawatha and Tipitikoda area.
+
+The arrested suspects have seized 11 grams of 800 milligrams of ice and 10 grams of 300 milligrams of heroin.
+
+The arrested suspects are from Peliyagoda and Kelaniya, aged 31 and 32.
+
+In addition, a suspect has been arrested for possessing 11 grams of 300 milligrams of ice at Udugampalai junction under the Gampaha Police Division.
+
+In addition, the police have said that further investigations are being carried out in connection with the suspects involved in the incident.
+
+◼️
 
 [Data](articles/e07f55e4.json)
+
+[Extended Data](ext_articles/e07f55e4.ext.json)
 
 ---
 
@@ -423,6 +461,8 @@ Delivering a special statement in Parliament today (18), the Head of State infor
 ...
 
 [Data](articles/03271055.json)
+
+[Extended Data](ext_articles/03271055.ext.json)
 
 ---
 
@@ -2201,21 +2241,5 @@ Amid those developments both indices moved upwards. All Share Price Index up by 
 ...
 
 [Data](articles/24002fd2.json)
-
----
-
-### Union Bank rings in the season with Christmas Carols
-
-*2024-12-17 23:01:00* · [`islandlk`](http://island.lk/union-bank-rings-in-the-season-with-christmas-carols/) · `en`
-
-Ushering in the festive season Union Bank held its annual Christmas Carols at the St Andrew’s Scots Kirk church. The festive evening brought the Union Bank staff and their families together for a joyous occasion of fellowship and a cheerful rendition of carols.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/1b96097a.json)
 
 ---

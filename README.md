@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 22:02:54**
+As of **2024-12-18 22:18:38**
 
 ## Newspaper Stats
 
-*Scraped **60,857** Articles*
+*Scraped **60,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,807
-adaderanalk | 7,423
+adaderanalk | 7,426
 tamilmirrorlk | 8,701
 virakesarilk | 10,026
-adaderanasinhalalk | 10,513
+adaderanasinhalalk | 10,516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,748 (99.8%) of 60,857 articles have been extended.
+60,750 (99.8%) of 60,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### 16,000 MT of rice imported within two weeks
+
+*2024-12-18 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104341/16000-mt-of-rice-imported-within-two-weeks) · `en`
+
+Around 16,000 metric tonnes of rice has been imported to Sri Lanka as of 3:30 p.m. today (18), following the relaxing of import restrictions on rice.
+
+Additional Director General of Customs and Customs Media Spokesperson, Seevali Arukgoda, stated that this total includes 6,000 metric tonnes of Red Raw Rice and 10,000 metric tonnes of Nadu Rice.
+
+Accordingly, since the restrictions on rice imports were lifted on December 04, a total of 16,000 metric tonnes of rice has been imported into the country thus far.
+
+◼️
+
+[Data](articles/484165c1.json)
+
+---
 
 ### Palma, Yogets will be eliminated
 
@@ -62,6 +78,72 @@ The President said, "We have reached compliance with the International Monetary 
 
 ---
 
+### වනසත්ව ප්‍රශ්නයට අමෙරිකාවත් මැදිහත් වෙයි
+
+*2024-12-18 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204500) · `si`
+
+වනසතුන්ගෙන් සිදුවන හානි වළක්වා ගැනීම සඳහා අවශ්‍ය තාක්ෂණික සහ උපදේශක සහාය අමෙරිකාවෙන් ලබාගැනීමට රජයේ අවධානය යොමුව තිබේ.
+
+අමෙරිකාවේ මෙරට තානාපති ජූලි චන්ග් මහත්මිය සහ කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ. ඩී. ලාල්කාන්ත මහතා අතර කෘෂිකර්ම අමාත්‍යාංශයේ අද (18) පැවති විශේෂ හමුවකදී මේ පිළිබඳ දීර්ඝ ලෙසින් සාකච්ඡා පවත්වා ඇත.
+
+මීට අතරව දේශීය නිෂ්පාදන සඳහා අවශ්‍ය විදේශ වෙළෙඳපොළ සොයාගැනීම, දේශීය ගොවි සමාගම් සංකල්පය ඉදිරියට ගෙනයාමට අවශ්‍ය සහාය ලබාගැනීම සම්බන්ධයෙන්ද අවධානය යොමුකර ඇත.
+
+දෙපාර්ශ්වය අතර පැවැත් වූ මෙම සාකච්ඡාවේදී ශ්‍රී ලංකාවේ පොල්කිරි හා පොල් ආශ්‍රිත නිෂ්පාදන නවීකරණය කිරීමට අවශ්‍ය සහාය ලබාදීමට අමෙරිකාවේ එකඟතාව හිමිව තිබේ.
+
+එමෙන්ම කාලගුණ විපර්යාස හමුවේ කෘෂිකර්මාන්තයට සිදුවන අභියෝග ඵලදායී ආකාරයෙන් කලමනාකරණය කිරීමට අවශ්‍ය තාක්ෂණික සහ උපදේශන සහාය ලබාදීමට ද චූලි චන්ග් මහත්මිය සිය කැමැත්ත පළකර ඇත.
+
+තවද දේශීය ගොවියාගේ ආර්ථිකය නඟාසිටුවීම සඳහා අවශ්‍ය අමෙරිකානු සහාය ලබාගත හැකි ආකාරය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා කර ඇත.
+
+...
+
+[Data](articles/c796ccc8.json)
+
+---
+
+### Passenger boat capsizes off Mumbai coast with more than 80 on board
+
+*2024-12-18 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104340/passenger-boat-capsizes-off-mumbai-coast-with-more-than-80-on-board) · `en`
+
+A boat carrying 80 passengers and five crew members capsized off the coast of India’s financial capital Mumbai after a speedboat struck it on Wednesday, local and government officials said.
+
+A total of 75 people, and all five crew members, were rescued, while one was dead, the Brihanmumbai Municipal Corporation, the city’s civic body, in a statement.
+
+Rescue operations for the remaining five people were in progress, it added. Local TV showed rescue workers in lifejackets near the capsized vessel.
+
+A speedboat crashed into the vessel, causing it to capsize, said Devendra Fadnavis, chief minister of Maharashtra state, of which Mumbai is capital.
+
+Local TV channels showed a speedboat carrying at least five people hitting the passenger vehicle, causing the accident.
+
+“The speedboat crashed into our boat and water started entering our boat and it overturned. The driver asked us to wear lifejackets,” a passenger on board the vessel told ABP Majha news channel.
+
+...
+
+[Data](articles/5e821dd4.json)
+
+---
+
+### ව්‍යවසායකයන්ගේ බැංකු ණය ප්‍රතිව්‍යුහගත කළ හැකි අයුරු
+
+*2024-12-18 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204499) · `si`
+
+බැංකු ණය ලබාගෙන එම ණය නැවත ගෙවීමේ අර්බුදයකට ලක්ව සිටින සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයන්ට, එම ණය ප්‍රතිව්‍යුහගතකිරීමට අවස්ථාව ලබාදෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) දින පාර්ලිමේන්තුවේදී පැවසීය.
+
+පරාටේ නීතිය ක්‍රියාත්මක කිරීම අත්හිටුවීම ට ගෙන ඇති තීරණය දීර්ඝ කිරීමට පියවර ගෙන ඇත්තේ සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායක ක්ෂේත්‍රය තවමත් ප්‍රකෘති තත්ත්වයට පැමිණ නොමැති නිසා බවද ඔහු මෙහිදී පැවසීය.
+
+පරාටේ නීතිය ක්‍රියාත්මක කිරීම අත්හිටුවීම මේ මස 15වනදා අවසන්වීමට නියමිතව තිබූ අතර, පසුව එය 2025 වසරේ මාර්තු 31 දක්වා දීර්ඝ කළේය.
+
+මෙම දීර්ඝ කිරීමත් සමග එක් එක් ව්‍යවසායකයන් ඔවුන් ලබාගත් ණය ප්‍රමාණයන් අනුව ණය ප්‍රතිව්‍යුහගතකළ හැකි ආකාරය සම්බන්ධයෙන් රජය සැලසුම් සකසා තිබේ.
+
+පරාටේ නීතිය දීර්ඝ කිරීම පිළිබඳ සිදුකළ අධ්‍යයනයේදී ණයගැතියන්ගෙන් 99%ක්ම, රුපියල් මිලියන 25ට වඩා අඩු ණය පැහැරහරින්නන් බව හෙළි වී ඇත.
+
+කෙසේ නමුත් පරාටේ නීතිය මුළුමනින්ම අත්හිටුවා තිබීමෙන් බැංකු පද්ධතිය කඩාවැටිය හැකි බව ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/57d60965.json)
+
+---
+
 ### Payment to students from 2025
 
 *2024-12-18 19:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-தொடக்கம்-மாணவர்களுக்கு-கொடுப்பனவு/175-348919) · `ta`
@@ -88,6 +170,26 @@ Accordingly, children between the ages of five and sixteen are scheduled to pay 
 
 ---
 
+### ටොයෝටා ලංකා ගෙන් වූ අලුත්ම වාහන
+
+*2024-12-18 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204498) · `si`
+
+අදියර වශයෙන් වාහන ආනයන සීමා ලිහිල් කිරීමට රජය තීරණය කිරීමත් සමග ටොයෝටා ලංකා සමාගම සිය පළමු වාහන ප්‍රමාණය මෙරටට ගෙන්වා තිබේ.
+
+ආර්ථික අර්බුදකාරී වාතාවරණය හමුවේ මෙරට විදේශ විනිමය සංචිත පහළ යාමත් සමග වාහන ආනයනයට සීමා පැනවීමට ඉකුත් රජය පියවර ගත්තේය.
+
+කෙසේ නමුත් ක්‍රමිකව ආර්ථිකය ප්‍රකෘතිමත් වෙමින් පැවතීමත්, විදේශ විනිමය සංචිත යළි ඉහළ යාමත් හමුවේ ආනයන සීමා ලිහිල් කරමින් අදියර කිහිපයක් යටතේ නැවත වාහන ආනයනයට රජය තීරණය කළේය.
+
+කෙසේ නමුත් ඒ සඳහා පළමුව අවසර හිමිවුණේ සංචාරක කර්මාන්තයට යොදාගැනෙන වාහන ආනයනය කිරීමට.
+
+එම තීරණයෙන් පසු ටොයෝටා ලංකා සමාගම සිය පළමු වාහන තොගය මෙලෙස දිවයිනට ගෙන්වා තිබේ.
+
+◼️
+
+[Data](articles/435fd6fd.json)
+
+---
+
 ### O/L Date Notification
 
 *2024-12-18 19:21:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-நடைபெறும்-திகதி-அறிவிப்பு/175-348918) · `ta`
@@ -108,21 +210,47 @@ The Commissioner General of Examinations HJMC has made arrangements to conduct t
 
 ---
 
-### නවසීලන්තයට එරෙහි විස්සයි 20 සංචිතය නම් කරයි
+### Sri Lanka to give free visas to 39 countries - Foreign Minister
+
+*2024-12-18 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104339/sri-lanka-to-give-free-visas-to-39-countries-foreign-minister) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs, Vijitha Herath, has provided an update on the country’s strategic efforts to revitalize its tourism sector, which has faced unprecedented challenges in recent years due to the Easter Sunday attacks, the COVID-19 pandemic, and the economic crisis.
+
+Speaking at the India Foundation Program, Herath stated, “We too had such a big tourism before the Easter Sunday attack, 2018. We got (the) highest amounts of tourists. And at that time, according to my memory, we earned four billion (dollars).”
+
+Herath pointed out the compounding challenges Sri Lanka faced due to these crises: “After the Easter Sunday attack, there was a COVID-19 situation. After that, the economic crisis was there. Because of those three factors, we faced so many difficulties. The first one was the Easter Sunday attack. The second one was COVID-19. The third one was the economic crisis. Now, all those factors are not there,” he explained, adding that these barriers are no longer present.
+
+...
+
+[Data](articles/e2865109.json)
+
+---
+
+### The Twenty20 squad against New Zealand is named
 
 *2024-12-18 18:45:33* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-විස්සයි-20-සංචිතය-නම්-කරයි/9-413726) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම හා නවසීලන්ත කණ්ඩායම අතර නවසීලන්තයේදී පැවැත්වීමට නියමිත තරග තුනකින් සමන්විත විස්සයි20 තරගාවලිය වෙනුවෙන් ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+Here's a summary of 200 characters:
 
-චරිත් අසලංකගේ නායකත්වයෙන් යුත් මෙම සංචිතය නවසීලන්ත කණ්ඩායම නොවැම්බර් මාසයේදී ශ්‍රී ලංකාවේ කළ තරග සංචාරයේදී ශ්‍රී ලංකාව වෙනුවෙන් නම් වූ විස්සයි20 ක්‍රීඩකයන් සියලු දෙනාම ඇතුළත්ව සිටියි.
 
-දෙසැම්බර් 28, දෙසැම්බර් 30 හා ජනවාරි 02 දා විස්සයි20 තරග තුන පැවැත්වෙන අතර ඉන් අනතුරුව එක්දින තරගාවලිය පැවැත්වෙයි.
 
-ශ්‍රී ලංකා සංචිතය - චරිත් අසලංක (නායක), පැතුම් නිශ්ශංක, කුසල් මෙන්ඩිස්, කුසල් පෙරේරා, අවිශ්ක ප්‍රනාන්දු, කමිඳු මෙන්ඩිස්, දිනේෂ් චන්දිමාල්,භානුක රාජපක්ෂ, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, ජෙෆ්රි වැන්ඩේ, චමිඳු වික්‍රමසිංහ, මතීෂ පතිරණ, ණුවන් තුෂාර, අවිශ්ක ප්‍රනාන්දු, බිනුර ප්‍රනාන්දු
+Sri Lanka names T20 squad: Charith Soli leads. Matches vs NZ on Dec 28, 30 & Jan 3. ODI series follows. Key players: Pathum Nissanka, Kusal Mendis, Binura Fernando.
+
+🟩
+
+The Sri Lankan squad has been named for the Sri Lankan team and New Zealand.
+
+The squad led by Charith was the most part of the Twenty20 players named Sri Lanka in November.
+
+Twenty20 matches will be held on December 28, December 30 and January 30 and then the ODI series will be held.
+
+Sri Lanka squad - Charith Soli (Leader), Wish Nissanka, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Perera, Kusal Menday, Kusal Menday, Kusal Menday, Kusal Menday, Kusal Menday.Fernando, Binura Fernando
 
 ◼️
 
 [Data](articles/9aff6c34.json)
+
+[Extended Data](ext_articles/9aff6c34.ext.json)
 
 ---
 
@@ -1154,6 +1282,10 @@ He revealed this while delivering a special statement during the parliamentary s
 
 He stated that the import restrictions on personal-use vehicles are proposed to be lifted starting February 01, 2025, while the import restrictions on passenger buses and special-purpose vehicles has already been lifted as of December 14, 2024.
 
+The then government of Sri Lanka had decided to suspend vehicle imports in 2021 due to the economic crisis triggered by the Covid-19 pandemic.
+
+As the severe economic crisis continued to persist, authorities decided to further continue with the restrictions on vehicle imports. Meanwhile, in June 2024, the Ministry of Finance had announced a plan to gradually lift the restrictions by 2025.
+
 ◼️
 
 [Data](articles/c8134b52.json)
@@ -1872,9 +2004,13 @@ Strengthening cooperation in disease control, sustainable developments, improvin
 
 *2024-12-18 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104325/harsha-de-silva-appointed-copf-chairman-) · `en`
 
-SJB Member of Parliament, Dr. Harsha de Silva has been appointed as the Chairman of the Committee on Public Finance (COPF).
+SJB Member of Parliament Dr. Harsha de Silva has been appointed as the Chair of the Committee on Public Finance (COPF).
 
-The appointment was formally announced today by the Speaker of Parliament, Dr. Jagath Wickramaratne.
+The nomination of (Dr.) Harsha de Silva as the Chair by the Committee of Selection to serve on the Committee on Public Finance was made in terms of the provisions of the Standing Order 121 of Parliament and the motion agreed to by Parliament on the 6th December 2024.
+
+The list of Members of Parliament was subsequently announced to the House by the  Speaker today (18).
+
+Accordingly, the following Members of Parliament have been appointed to serve on the Committee on Public Finance:
 
 ◼️
 
@@ -2220,6 +2356,8 @@ Faiszer Musthapha of the New Democratic Front (NDF), along with Arjuna Sujeewa S
 
 [Data](articles/04e0b486.json)
 
+[Extended Data](ext_articles/04e0b486.ext.json)
+
 ---
 
 ### මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකුගේ නිවසට වෙඩි
@@ -2307,117 +2445,5 @@ Faiszer Musthapha of the New Democratic Front (NDF), along with Arjuna Sujeewa S
 ◼️
 
 [Data](articles/b0dd0c26.json)
-
----
-
-### Former president Ranil hails Sri Lanka-India joint statement
-
-*2024-12-18 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104321/former-president-ranil-hails-sri-lanka-india-joint-statement) · `en`
-
-Former president Ranil Wickremesinghe on Tuesday hailed the joint statement issued by India and Sri Lanka during the island’s President Anura Kumara Disanayaka’s visit to India, saying it will further deepen bilateral cooperation.
-
-India and Sri Lanka issued the joint statement after Prime Minister Narendra Modi and President Disanayaka held comprehensive and fruitful discussions in New Delhi on Monday.
-
-In a statement here, Wickremesinghe welcomed the development, saying it further deepens Indo-Lanka cooperation.
-
-“I also commend President Anura Kumara Disanayaka for going ahead with the economic and technical cooperation agreement (ETCA) and the development of Trincomalee as a regional energy and industrial hub,” he said.
-
-...
-
-[Data](articles/930f7ae8.json)
-
----
-
-### ஜனாதிபதி நாடு திரும்பினார்
-
-*2024-12-18 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201548) · `ta`
-
-இந்தியாவிற்கான இருநாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி அநுரகுமார திசாநாயக்க செவ்வாய்க்கிழமை (17) நாட்டை வந்தடைந்தார்.
-
-இந்திய ஜனாதிபதி திரௌபதி முர்முவின் அழைப்பின் பேரில் ஜனாதிபதி அநுரகுமார திசாநாயக்க இந்த விஜயத்தை மேற்கொண்டிருந்ததுடன், இதன்போது இந்திய பிரதமர் நரேந்திர மோடி, இந்திய அரசாங்கத்தின் அமைச்சர்கள் மற்றும் இந்தியாவின் முன்னணி வர்த்தகர்களுடன் இருதரப்பு பேச்சுவார்த்தைகளிலும் கலந்துகொண்டார்.
-
-வௌிநாட்டு அலுவல்கள், வௌிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ ஆகியோர் இந்த விஜயத்தில் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/abcdc5db.json)
-
----
-
-### Adani Group dealings with other countries not Sri Lanka’s concern – President
-
-*2024-12-18 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104320/adani-group-dealings-with-other-countries-not-sri-lankas-concern-president) · `en`
-
-Sri Lankan President Anura Kumara Dissanayake said his government is not concerned with Adani Group’s dealings with other countries, but is instead focused only on what the conglomerate does in Sri Lanka.
-
-He said his “stable government” intends to “pave the way” for more Indian investments. “We don’t have any concerns over how they (Adani) work with other countries. What is important for us is how they work with us,” Dissanayake told ET in an exclusive interview on Tuesday.
-
-“We are basically concerned about our investments, our development. We will be looking at how they have worked in our country. If they have worked in a manner that suits us, fits our initiatives, we don’t mind working with Adani Group.”
-
-The business house, which has important investments in Sri Lanka, is under the scanner in the US and contesting an indictment by the FBI.
-
-...
-
-[Data](articles/5d23a9dc.json)
-
----
-
-### President returns to island after India visit
-
-*2024-12-18 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104319/president-returns-to-island-after-india-visit) · `en`
-
-President Anura Kumara Dissanayake returned to the island yesterday (17) after successfully concluding a three-day official visit to India, according to President’s Media Division (PMD).
-
-President Anura Kumara Dissanayake undertook this visit at the invitation of Indian President Droupadi Murmu.
-
-During the visit, the President engaged in several bilateral discussions with Indian Prime Minister Narendra Modi, Indian government ministers, and leading Indian business magnates.
-
-The delegation accompanying the President included Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, as well as Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando.
-
-◼️
-
-[Data](articles/dc0398e7.json)
-
----
-
-### පොල්වතු හිමියන්ට සහනාධාරයක්
-
-*2024-12-18 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204477) · `si`
-
-වර්තමානයේ පවතින පොල් අර්බුදයට විසඳුමක් ලෙස පොල් වතුහිමියන්ට පොහොර සහනාධාර ලබාදීමට පියවර ගන්නා බව සමන්ත විද්‍යාරත්ත නියෝජ්‍ය අමාත්‍යවරයා පවසයි.
-
-ඔහු සඳහන් කළේ, දිවයිනට ආනයනය කළ පොහොර මෙට්ට්‍රක්ටොන් 55,000න්  මෙට්ට්‍රක්ටොන් 27,500ක් පොල් වගාකරුවන් සඳහා ලබා දීමට නියමිත බවය.
-
-"අපේ අමාත්‍යාංශයේ අක්කර දස දහස් ගණනක තියෙන පොල් වතුවල අවුරුදු 5කින් පොහොර දාලා නෑ. ඒ කියන්නේ අස්වැන්න අඩුයි. සාමාන්‍ය ජනතාවත් පොහොර දාගන්න පුළුවන් තත්ත්වයක හිටියේ නෑ. පොහොර නැවක් ආවා පහුගිය කාලයේ කැබිනට් එකේ කතා කරලා ඒ පොහොර නැවෙන් භාගයක් පොල් වගාවට ලබාදෙන්න අපි තීරණය කළා."
-
-ලබන වසර වන විට දැනට පවතින පොල් අර්බුදයට විසඳුම් සෙවීමට හැකි වනු ඇති බව සමන්ත විද්‍යාරත්ත නියෝජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/0034fa78.json)
-
----
-
-### President to completes Indian visit
-
-*2024-12-18 08:18:20* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සංචාරය-නිම-කළ-ජනපති-දිවයිනට/11-413708) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake completed his visit to India. He arrived back at Katunayake Airport on 12/17, accompanied by ministers. The delegation departed from Katunayake airport on 11/15 for the trip.
-
-🟩
-
-President Anura Kumara Dissanayake has also reaffed at night to the Katunayake Airport on the night of 12/17.
-
-Minister Professor Anil Jayantha and his group including Minister Vijitha Herath had returned from the plane.
-
-They were 12/17 at Navilley, India from New Delhi, India from New Delhi, India - The Airport on the 196 was on the Katunayake airport.
-
-The President and the Sri Lankan delegation left on the Katunayake airport for his visit to India on 45/15.
-
-◼️
-
-[Data](articles/0de7759c.json)
-
-[Extended Data](ext_articles/0de7759c.ext.json)
 
 ---

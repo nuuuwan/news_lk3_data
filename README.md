@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 12:43:25**
+As of **2024-12-18 13:01:32**
 
 ## Newspaper Stats
 
-*Scraped **60,799** Articles*
+*Scraped **60,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,793
 adaderanalk | 7,412
-tamilmirrorlk | 8,689
+tamilmirrorlk | 8,691
 virakesarilk | 10,019
 adaderanasinhalalk | 10,504
 
@@ -26,27 +26,55 @@ adaderanasinhalalk | 10,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,682 (99.8%) of 60,799 articles have been extended.
+60,684 (99.8%) of 60,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### வாகன இறக்குமதிக்கான அனுமதி மூன்று வழிமுறைகளில் வழங்கப்படும் : ஜனாதிபதி
+### வவுனியாவில் மாரடைப்பால் 45 பேர் மரணம்
+
+*2024-12-18 12:46:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-மாரடைப்பால்-45-பேர்-மரணம்/175-348904) · `ta`
+
+வவுனியா பொது வைத்தியசாலையில் இவ்வாண்டு ஜனவரி முதல் அக்டோபர் வரையிலான 10 மாத காலப்பகுதியில் மாரடைப்பால் 45 பேர் மரணம் அடைந்திருப்பதாக தெரிவிக்கப்பட்டுள்ளது.
+
+தகவல் அறியும் உரிமைச் சட்டத்தின் ஊடாக கோரப்பட்ட தகவலுக்கு அமைய குறித்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+இதன் பிரகாரம் 20 வயது தொடக்கம் 40 வயதுக்கு உட்பட்டவர்களில்    ஒருவரும்,  40 வயது  தொடக்கம் 60  வயதுக்கு உட்பட்டவர்களில்  13 பேரும், 60 வயது  தொடக்கம் 100 வயதுக்கு உட்பட்டவர்களில் 31 பேருமாக 45 பேர் இவ்வாறு மாரடைப்பால் மரணமாகியுள்ளனர்.
+
+வவுனியாவில் மாரடைப்பால் மரணிப்போரின் எண்ணிக்கை அண்மைக்காலமாக அதிகரித்து காணப்பட்ட நிலையில் அதற்கான பல்வேறு காரணங்களும் சுகாதார திணைக்களத்தினால் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d53dbcb0.json)
+
+---
+
+### Permission for vehicle imports will be issued in three instructions: President
 
 *2024-12-18 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201564) · `ta`
 
-வாகன இறக்குமதிக்கான அனுமதி மூன்று வழிமுறைகளில் வழங்கப்படுமென ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்றில் இன்று புதன்கிழமை (18) உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
 
-2022 மற்றும் 2023 ஆம் ஆண்டு கால சூழல் இனியொருபோதும் தோற்றம் பெறாது என்றும் 2025 ஆம் ஆண்டு முதல் உழைக்கும் போது செலுத்தும் வரி திருத்தம் செய்யப்படும் என்றும் ஜனாதிபதி குறிப்பிட்டார்.
 
-சேவை ஏற்றுமதி மீதான வரி 15 சதவீதமாக அமுல்படுத்தப்படும் என்றும் தெரிவித்த ஜனாதிபதி, குறைந்த வருமானம் பெறுவோர் மீது புதிய வரிகளை விதிக்கும் நோக்கம் கிடையாது என்றும் தெரிவித்தார்.
+Vehicle import permissions to be issued in three stages. President Anura Kumara Dissanayake addressed Parliament on 18th. Environment of 2022/23 won't persist; tax amendments from 2025. 15% tax on service exports; no new taxes for low-income earners.
+
+🟩
+
+President Anura Kumara Dissanayake said that permission for vehicle imports will be issued in three instructions.
+
+President Anura Kumara Dissanayake said this while addressing the Parliament on Wednesday (18).
+
+The President noted that the environment of 2022 and 2023 will not appear anymore and that the tax amendment will be amended at work since 2025.
+
+The President said the tax on service exports would be implemented at a 15 per cent and that there was no intention of imposing new taxes on low income earners.
 
 ◼️
 
 [Data](articles/fd262bd6.json)
+
+[Extended Data](ext_articles/fd262bd6.ext.json)
 
 ---
 
@@ -68,25 +96,31 @@ Nizam Kariyapar was sworn in as the National List MP of the United People's Powe
 
 ---
 
-### PAYE tax වෙනස් වෙන්නේ මෙහෙමයි
+### This is how the Paye Tax changes
 
 *2024-12-18 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204487) · `si`
 
-උපයන විට බදු සීමාව මසකට රුපියල් 100,000 සිට රුපියල් 150,000 දක්වා වැඩි කිරීමට IMF සමග එකඟතාවයකට පැමිණි බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) පාර්ලිමේන්තුවේදී පැවසීය.
+Paye Tax change: President agrees to increase tax limit to Rs. 150,000 monthly. Those earning this amount will pay no income tax. Relief increased for lower-income earners.
 
-"තුන්වෙනි සමාලෝචනය පටන් ගන්නකොට අපේ යෝජනාවන් වුණේ වෘත්තීයවේදීන් මත පනවා තිබූ උපයනවිට ගෙවන බද්ද පිළිබඳව.
+🟩
 
-"අපි නැවත සාකච්ඡා ආරම්භ කළා. බද්ද පනවන සීමාව ලක්ෂයකට උඩ. අපි එය 150,000 දක්වා වැඩි කරගන්න සමත් වුණා."
+President Anura Kumara Dissanayake said in parliament today that it was in agreement with the IMF to increase the tax limit to Rs. 150,000 per month.
 
-"ඒ වගේම 6%ක බද්දකට යටත් වනපරිදි පුද්ගලික ආදායම් බද්දේ 1 වන කාණ්ඩය රු 500,000 සිට රු ලක්ෂ 10 දක්වා සංශෝධනය ලබාගන්න අපි සමත් වුණා."
+"When we start the third review, our suggestions were on the tax paying on professionals.
 
-"ඒ අනුව 150,000ක් මාසෙකට වැටුපක් ගන්න කෙනෙකුගේ බදු 100%ක් නිදහස්. රු 200,000ක් වැටුපක් ගන්න කෙනෙකුගේ බද්ද 71%කින් නිදහස්."
+"We started discussions again. The limit on the tax imposing. We managed to increase it to 150,000. "
 
-"වැඩි ආදායම් ලබාගන්නා අයට අඩු සහනයකුත් අඩු ආදායමක් ගන්නා අයට වැඩි සහනයකුත් ලෙස අපි උපයනවිට ගෙවන බද්ද සංශෝධනය කරගන්න සමත් වුණා."
+"We were able to revise the revision of Rs 500,000 to Rs 500,000 to Rs. 500,000."
+
+"As per 150,000, one's taxes will be 100% free of paying a salary for a month. 200,000 to make a salary of Rs.
+
+"To those who earn more incomes, we have been able to amend more relief to those who earn less comfort."
 
 ◼️
 
 [Data](articles/bf55a2e6.json)
+
+[Extended Data](ext_articles/bf55a2e6.ext.json)
 
 ---
 
@@ -125,6 +159,20 @@ The other members of the group have been appointed as Harshana Suriyaparuma, Rav
 ◼️
 
 [Data](articles/32d360c1.json)
+
+---
+
+### தரம் 5 பரீட்சை விவகாரம்;உயர் நீதிமன்றத்தின் உத்தரவு
+
+*2024-12-18 12:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தரம்-5-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றத்தின்-உத்தரவு/150-348902) · `ta`
+
+2024 தரம் 05 புலமைப்பரிசில் பரீட்சையின் வினாக்கள் கசிந்தமை குறித்த விசாரணைகள் தொடர்பான விரிவான அறிக்கையை சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுத் திணைக்களத்திற்கு (CID) இலங்கை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+விசாரணைகள் தொடர்பான விரிவான அறிக்கையை நாளை (டிசம்பர் 19) காலை 09.00 மணிக்குள் சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/813af869.json)
 
 ---
 
@@ -2193,53 +2241,5 @@ It is decided to cancel the military security provided to Mahinda Rajapakse, who
 [Data](articles/b1ce4901.json)
 
 [Extended Data](ext_articles/b1ce4901.ext.json)
-
----
-
-### Compensation to relatives of persons who have been cremated in the Kovit -Opposition Leader Sajith demands
-
-*2024-12-17 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201532) · `ta`
-
-Sajith Premadasa calls for compensation for COVID-19 cremation victims' families, citing alleged discrimination and WHO guideline violations.
-
-🟩
-
-The last government's resolution to cremate those who died in the Kovit infection targets a nation. Opposition leader Sajith Premadasa said the government should take action to pay compensation to the victims.
-
-The Gotabhaya Rajapaksa government was aimed at a race and religion during the spread of the Kovit virus.. The Gotabhaya Rajapaksa government has acted in violation of the guidelines provided by the World Health Organization. Justice should be established for the violated Islamic community and the affected Muslims.
-
-So I urge you to pay compensation for the fugitives of the people who have been cremated by the wrong decision of the last government.
-
-And there is no problem in providing the names of the cremated persons.All rights have all the rights to know these details for victim families. So, as Rauf Hakeem has heard, the government should take steps to provide details of the people who died in the Kovit infection.
-
-...
-
-[Data](articles/bde29104.json)
-
-[Extended Data](ext_articles/bde29104.ext.json)
-
----
-
-### Nalin Bandara withdrawn
-
-*2024-12-17 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201523) · `ta`
-
-N
-
-🟩
-
-The Minister of Public Security has stated that the development officials who have been protesting in front of the Ministry of Education have not been arrested under the Terrorism Act.. Opposition member Nalin Bandara has said that he should recover the false view of the arrest of the Terrorism Act.
-
-If the arrests of the Terrorism Act do not take place, I will welcome it. United People's Power Member Nalin Bandara said that after reviewing the Public Security Minister's claim, I will refer to tomorrow's notion.
-
-Speaking at the session in Parliament, Public Security Minister Ananda Wijebala, who was protesting in the Ministry of Education, was arrested by the Opposition Member Nalin Bandara, who was arrested under the Terrorism Act.
-
-During the protest, the police attacked the police and violently arrested the authorities of the Public Act.. No one has been arrested under the PTA. Said.
-
-...
-
-[Data](articles/41786c54.json)
-
-[Extended Data](ext_articles/41786c54.ext.json)
 
 ---

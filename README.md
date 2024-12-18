@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 08:51:57**
+As of **2024-12-18 09:19:45**
 
 ## Newspaper Stats
 
@@ -26,39 +26,55 @@ adaderanasinhalalk | 10,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,649 (99.8%) of 60,743 articles have been extended.
+60,653 (99.9%) of 60,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### பாடசாலை மாணவர்களுக்கு மகிழ்ச்சியான செய்தி
+### Happy news to school students
 
 *2024-12-18 08:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-348879) · `ta`
 
-2025ஆம் ஆண்டு தொடக்கத்திலிருந்து பொருளாதார ரீதியாகப் பின்தங்கிய குடும்பங்களைச் சேர்ந்த 125,000 மாணவர்களுக்கு 6,000 ரூபாய் கொடுப்பனவு வழங்கப்படும் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+Here's a summary in 200 characters:
 
-கடந்த காலங்களில் ஏற்பட்ட பொருளாதார நெருக்கடியின் போது பாடசாலை மாணவர்களில் 55 வீதத்திற்கும் அதிகமானோர் அதிக பொருளாதார பிரச்சினைகளுக்கு முகங்கொடுத்தனர்.  R
+
+
+PM Harini Amarasuriya announces financial aid for 125,000 economically disadvantaged students, each receiving Rs 6,000 from 2025. This support aims to address economic challenges faced by over 55% of school children during previous crises.
+
+🟩
+
+Prime Minister Harini Amarasuriya has said that 125,000 students from economically disadvantaged families will be paid Rs 6,000 from the beginning of 2025.
+
+During the economic crisis in the past, more than 55 percent of school children faced more economic problems.R
 
 ◼️
 
 [Data](articles/e96f0225.json)
 
+[Extended Data](ext_articles/e96f0225.ext.json)
+
 ---
 
-### චීනයේ ඉහළ නියෝජිතයෙක් අගමැතිනිය හමුවෙයි
+### China's top representative meets the Prime Minister
 
 *2024-12-18 08:03:08* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-ඉහළ-නියෝජිතයෙක්-අගමැතිනිය-හමුවෙයි/11-413707) · `si`
 
-චීන මහජන දේශපාලන උපදේශන සම්මේලනයේ (CPPCC) ජාතික කමිටුවේ උප සභාපතිනි,  Qin Boyong මහත්මිය  දෙසැම්බර් 17 වැනිදා පාර්ලිමේන්තුවේදී අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය  හමුවිය.
+Chinese delegation led by Premier Qin Boyong meets Sri Lankan PM Dr. Haraini Amarasuriya. Discussions focus on strengthening bilateral ties, trade, industrial relations, disease control, sustainable development. Chinese Ambassador Qi Zhenhong and Sri Lankan officials attend.
 
-Qin Boyong මහත්මිය ඇතුළු දූත පිරිස පිළිගත් අග්‍රාමාත්‍යවරිය දෙරට අතර දීර්ඝකාලීන මිත්‍රත්වය අගය කරමින් ද්විපාර්ශ්වික සබඳතා ශක්තිමත් කිරීමේ වැදගත්කම අවධාරණය කළාය. රෝග පාලනය, තිරසාර සංවර්ධනය සහ බහුවිධ ක්ෂේත්‍රයන්හි වෙළඳ සහ කාර්මික සම්බන්ධතාවන් ශක්තිමත් කිරීම පිළිබඳ මෙම හමුවේදී වැඩිදුරටත් සාකච්ඡා කෙරිණ.
+🟩
 
-ශ්‍රී ලංකාවේ චීන තානාපති Qi Zhenhong, අග්‍රාමාත්‍ය ලේකම් ප්‍රදීප් සපුතන්ත්‍රි, අග්‍රාමාත්‍ය අතිරේක ලේකම් සාගරිකා බෝගහවත්ත, අග්‍රාමාත්‍ය මාධ්‍ය ලේකම් විජිතා බස්නායක, විදේශ කටයුතු අමාත්‍යාංශයේ නැගෙනහිර ආසියාව පිළිබඳ අධ්‍යක්ෂ ජනරාල් එස්. රුවන්ති දෙල්පිටිය සහ එම අංශයේ අධ්‍යක්ෂ උදානි ගුණවර්ධන යන මහත්ම මහත්මීන් මෙම අවස්ථාවට එක්ව සිටියහ.
+Mrs. Prime Minister Dr. Haraini Amarasuriya met the Prime Minister Dr. Welini Amarasuriya (CPPCC).
+
+The Prime Minister of Qin Boyong and Delegation, the Prime Minister emphasized the importance of strengthening bilateral relations between the two countries. The meeting, the meeting was held regarding the development of trade and industrial relations in disease control, sustainable development and multiple sectors.
+
+Ambassador of China in Sri Lanka Qi Zhenhong, Pradeep Communication, Prime Minister's Media Secretary to the Director General of the Ministry of External Affairs. Mr. Ruwanthi, Delpitiya and Director of the division director Upani Gunawardena were present at the occasion.
 
 ◼️
 
 [Data](articles/6ca74d3f.json)
+
+[Extended Data](ext_articles/6ca74d3f.ext.json)
 
 ---
 
@@ -266,6 +282,8 @@ Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, alo
 
 [Data](articles/2f69e678.json)
 
+[Extended Data](ext_articles/2f69e678.ext.json)
+
 ---
 
 ### Tri-force security for former Presidents to be withdrawn from next week
@@ -285,6 +303,8 @@ Delivering a special statement, Minister Wijepala emphasised that the decision a
 ...
 
 [Data](articles/04fbe189.json)
+
+[Extended Data](ext_articles/04fbe189.ext.json)
 
 ---
 
@@ -2132,7 +2152,7 @@ The petitioning party has pointed out that it is unlawful to submit nominations 
 
 ---
 
-### Sri Lanka coconut production dropped 17.8-pct in September: CBSL
+### Sri Lanka coconut production dropped 17.8-pct in September
 
 *2024-12-17 15:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-production-dropped-17-8-pct-in-september-cbsl-194675/) · `en`
 

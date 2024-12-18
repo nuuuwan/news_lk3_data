@@ -1,36 +1,108 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 13:26:59**
+As of **2024-12-18 13:43:38**
 
 ## Newspaper Stats
 
-*Scraped **60,803** Articles*
+*Scraped **60,815** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 616
-bbccomsinhala | 636
+bbccomsinhala | 637
 islandlk | 3,678
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,794
-adaderanalk | 7,412
-tamilmirrorlk | 8,692
+adaderanalk | 7,418
+tamilmirrorlk | 8,694
 virakesarilk | 10,019
-adaderanasinhalalk | 10,504
+adaderanasinhalalk | 10,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,687 (99.8%) of 60,803 articles have been extended.
+60,690 (99.8%) of 60,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### අමෙරිකානුවන් කැලඹූ හඳුනානොගත් අභ්‍යවකාශ වස්තූන්
+
+*2024-12-18 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204490) · `si`
+
+අමෙරිකාවේ නිව් ජර්සි ප්‍රාන්තය ඇතුළු ස්ථාන රැසක රාත්‍රී අහසේ හඳුනානොගත් අභ්‍යවකාශ වස්තූන් නිරීක්ෂණය වන්නේ මාසයකට වැඩි කාලයක සිටය.
+
+එම වස්තූන් කිහිපයක් පසුගියදා වොෂින්ටන් ඩීසී අගනුවරදී මෙන්ම නිව්යෝර්ක් ප්‍රාන්තයෙන් ද නිරීක්ෂණය වුණි.
+
+අසාමාන්‍ය ලෙස දිස්වන මේ වස්තූන් මොනවාද යන්න පැහැදිලිව අනාවරණ කිරීමට අමෙරිකානු ආරක්ෂක අමාත්‍යංශය පවා සමත්ව නැහැ.
+
+ඔවුන් පවසා ඇත්තේ මේ වස්තූන් විදෙස් රටවලට අයත් ඩ්‍රෝන යානා නොවන බව පමණයි.
+
+මෙම වස්තූන් මොනවාද යන්න ජනතාවට දැනුම්දීමේ වගකීම අමෙරිකානු ආරක්ෂක අංශ සතුව ඇතැයි තේරීපත්ව ඇති අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසයි.
+
+"අපේ හමුදාව සහ ජනාධිපතිවරයා ඇත්ත දන්නවා. අමුතු දෙයක් වෙනවා. ඒක මිනිස්සුන්ට කියන්න මිනිස්සු ඇත්ත දැනගන්න කැමතියි."
+
+◼️
+
+[Data](articles/95715918.json)
+
+---
+
+### பெப்ரவரி முதல் வாகன இறக்குமதிக்கு அனுமதி
+
+*2024-12-18 13:26:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-முதல்-வாகன-இறக்குமதிக்கு-அனுமதி/175-348907) · `ta`
+
+பெப்ரவரி முதலாம் திகதி முதல் தனிப்பட்ட பாவனைக்கான கார்களை இறக்குமதி செய்வதற்கு முன்மொழியப்பட்டுள்ளதாக ஜனாதிபதி அனுர திசாநாயக்க பாராளுமன்றத்தில் இன்று (18) தெரிவித்தார்.
+
+“இதனால் மீண்டும் டொலர் நெருக்கடியை சந்திக்க நேரிடும் என்பதில் சந்தேகம் வேண்டாம், மத்திய வங்கியுடன் நீண்ட நாட்களாக விவாதித்து, வெளியேறும் டொலர்களை புரிந்து கொண்டு இதைச் செய்கிறோம். அதனால்தான் நாங்கள் உழைத்தோம். வாகனச் சந்தையை கடுமையான ஸ்திரத்தன்மையுடன் திறக்க வேண்டும்” என்று ஜனாதிபதி கூறினார்.
+
+◼️
+
+[Data](articles/e0db067b.json)
+
+---
+
+### வருமான வரி வரம்பு அதிகரிப்பு
+
+*2024-12-18 13:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/வருமான-வரி-வரம்பு-அதிகரிப்பு/47-348906) · `ta`
+
+வருமான வரி வரம்பை மாதாந்தம் 100,000 ரூபாயிலிருந்து 150,000 ரூபாவாக அதிகரிப்பதற்கு சர்வதேச நாணய நிதியத்துடன் இணக்கம் எட்டப்பட்டதாக ஜனாதிபதி அனுரகுமார திசாநாயக்க பாராளுமன்றத்தில் இன்று (18)  தெரிவித்தார்.
+
+தனிநபர் வருமான வரியின் வகை 1 6% வரிக்கு உட்பட்டது   இதன்படி மாதம் 150,000 சம்பளம் பெறுபவருக்கு 100% வரிவிலக்கு உண்டு. 200,000 சம்பாதிக்கும் நபருக்கு 71% வரியிலிருந்து விலக்கு அளிக்கப்படுகிறது.
+
+அதிக வருமானம் பெறுவோருக்கு குறைந்த நிவாரணமும், குறைந்த வருமானம் பெறுவோருக்கு அதிக நிவாரணமும் அளிக்கும் வகையில் வருமான வரியை திருத்தியமைப்பதில் நாம் வெற்றி பெற்றுள்ளோம் என ஜனாதிபதி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/db14583f.json)
+
+---
+
+### කෙහෙළියගේ තවත් බැංකු ගිණුම් දෙකක් අත්හිටුවයි
+
+*2024-12-18 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204489) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ ජංගම හා ස්ථාවර තැන්පතු ගිණුම් දෙකක් සතියක කාලයක් සඳහා අත්හිටුවීමට අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව නියෝග කර තිබේ.
+
+අදාළ ගිණුම් දෙකෙහි ශේෂයන්හි එකතුව රුපියල් ලක්ෂ 200ක් පමණ වේ.
+
+2023 අංක 9 දරන දුෂණ විරෝධී පනතේ 53(1) වගන්තිය ප්‍රකාරව ඊයේ (17) දින සිට අදාළ අත්හිටුවීම සිදුකිරීමට නියෝග කර ඇත.
+
+තවද අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව මෙම අත්හිටුවීමේ නියෝගය තවදුරටත් දීර්ඝ කරගැනීමට කොමිෂන් සභාව බලාපොරොත්තු වේ.
+
+මීට පෙරද අවස්ථා කිහිපයකදී මෙම විමර්ශනයන්ට අදාළව හිටපු සෞඛ්‍ය අමාත්‍යවරයාගේ සහ ඔහුගේ බිරිඳ ඇතුළු ඥාතීන් කිහිපදෙනෙකුගේ වත්කම් ගණනාවක් අත්හිටුවීමට අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/d82239dd.json)
+
+---
 
 ### 79 -year -old elderly
 
@@ -62,6 +134,56 @@ Currently, five children are married and live in separate houses and only elderl
 
 ---
 
+### Sri Lanka to allow vehicle imports from February 2025
+
+*2024-12-18 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104333/sri-lanka-to-allow-vehicle-imports-from-february-2025-) · `en`
+
+President Anura Kumara Dissanayake has announced that the government has decided to allow the import of vehicles for personal use, with effect from February 01, 2025.
+
+He revealed this while delivering a special statement during the parliamentary session today (18).
+
+He stated that the import restrictions on personal-use vehicles are proposed to be lifted starting February 01, 2025, while the import restrictions on passenger buses and special-purpose vehicles has already been lifted as of December 14, 2024.
+
+◼️
+
+[Data](articles/c8134b52.json)
+
+---
+
+### Withholding Tax to be increased to 10%
+
+*2024-12-18 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104332/withholding-tax-to-be-increased-to-10-) · `en`
+
+President Anura Kumara Dissanayake announced that the Withholding Tax will be increased from 5% to 10%.
+
+Speaking in Parliament today (18), he said that the government agreed with the International Monetary Fund (IMF) to reduce tax on services exports from the existing 30% to 15%.
+
+He said it was also agreed to increase the Withholding Tax from 5% to 10%.
+
+◼️
+
+[Data](articles/840e6dcf.json)
+
+---
+
+### පෙබරවාරි 01 සිට පෞද්ගලික පරිහරණය සඳහා වාහන ආනයනයට ඉඩ
+
+*2024-12-18 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204488) · `si`
+
+2025 වර්ෂයේ පෙබරවාරි 01 සිට පෞද්ගලික පරිහරණය සඳහා වාහන ආනයනයට අවස්ථාව සැලසීමට රජය සැලසුම් කර ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) පැවසීය.
+
+එහිදී ජනාධිපතිවරයා පැවසුවේ ශ්‍රී ලංකාවේ වාහන ආනයනයට පනවා ඇති සීමා ක්‍රමානුකූලව විවෘත කළ යුතු බවයි.
+
+"එයත් එක්ක ගොඩනැගුන කර්මාන්තයක් තියෙනවා. ව්‍යවසායකයින් ඉන්නවා. ඒ නිසා දීර්ඝ කාලයක් මෙම වාහන වෙළෙඳපොළ වසාගෙන සිටීමේ හැකියාවක් නෑ."
+
+ඒ අනුව කාණ්ඩ තුනකින් වාහන ආනයනයට අවසර දීමට රජය සැලසුම් කර ඇති බව ජනපතිවරයා පැවසීය.
+
+...
+
+[Data](articles/222c6866.json)
+
+---
+
 ### 45 people die in a heart attack in Vavuniya
 
 *2024-12-18 12:46:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-மாரடைப்பால்-45-பேர்-மரணம்/175-348904) · `ta`
@@ -83,6 +205,28 @@ The Department of Health has stated that the number of heart attacks in Vavuniya
 [Data](articles/d53dbcb0.json)
 
 [Extended Data](ext_articles/d53dbcb0.ext.json)
+
+---
+
+### Pope assassination plot foiled by UK intelligence
+
+*2024-12-18 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104331/pope-assassination-plot-foiled-by-uk-intelligence) · `en`
+
+A plot to assassinate Pope Francis during a trip to Iraq was stopped following a tip-off from British intelligence, according to his upcoming autobiography.
+
+The Pope writes that, after landing in Baghdad in March 2021, he was told an event at which he was set to appear was being targeted by two suicide bombers.
+
+Both attackers were subsequently intercepted and killed, he said in excerpts published by Italian newspaper Corriere della Sera.
+
+The visit, which took place over three days during the coronavirus pandemic, was the first ever to Iraq by a pope and saw an intense security operation.
+
+The years before had seen increased sectarian violence in Iraq, with fighting between Shia and Sunni Muslims as well as the persecution of religious minorities.
+
+The country’s Christian community had shrunk dramatically, having been targeted in particular by the Islamic State group and other Sunni extremists.
+
+...
+
+[Data](articles/1c6ccc00.json)
 
 ---
 
@@ -111,6 +255,26 @@ The President said the tax on service exports would be implemented at a 15 per c
 [Data](articles/fd262bd6.json)
 
 [Extended Data](ext_articles/fd262bd6.ext.json)
+
+---
+
+### Govt to raise PAYE tax threshold to Rs. 150,000 – President
+
+*2024-12-18 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104330/govt-to-raise-paye-tax-threshold-to-rs-150000-president-) · `en`
+
+President Anura Kumara Dissanayake says that the government was able to reach an agreement with the International Monetary Fund (IMF) to increase the Pay As You Earn (PAYE) Tax exemption limit from Rs. 100,000 to Rs. 150,000.
+
+Delivering a special statement in Parliament today (18), the Head of State informed the House that following discussions with the IMF on the third review of the Extended Fund Facility (EFF) for Sri Lanka, it was agreed to increase the income tax threshold (tax-free) from a monthly income of Rs. 100,000 to Rs. 150,000.
+
+“When the third review began, our proposals were on the income tax imposed on professionals. We resumed discussions. The tax threshold was over Rs. 100,000. We were able to increase it to Rs. 150,000,” President Dissanayake said.
+
+“We were also able to get the first bracket of personal income tax revised from Rs. 500,000 to Rs. 1 million, subject to a tax rate of 6%.”
+
+“Accordingly, someone earning a salary of Rs. 150,000 per month is 100% tax exempt.
+
+...
+
+[Data](articles/03271055.json)
 
 ---
 
@@ -180,6 +344,22 @@ The other members of the group have been appointed as Harshana Suriyaparuma, Rav
 
 ---
 
+### Govt aims to raise foreign reserves to $15.1 billion by 2028 – President
+
+*2024-12-18 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104329/govt-aims-to-raise-foreign-reserves-to-151-billion-by-2028-president) · `en`
+
+President Anura Kumara Dissanayake stated that the government’s aim is to raise the country’s foreign exchange reserves to USD 15.1 billion by the year 2028.
+
+Delivering a special statement in Parliament today (18), the President expressed confidence that his government would still be in power in 2028.
+
+The President also expressed his strong confidence that the situation that existed in 2022 will never again occur in the country.
+
+◼️
+
+[Data](articles/47ae0d1f.json)
+
+---
+
 ### Facebook love;The little girl who went to his friend's house
 
 *2024-12-18 12:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முகநூல்-காதல்-நண்பியின்-வீட்டிற்கு-சென்ற-சிறுமி-வன்புணர்வு/76-348903) · `ta`
@@ -208,17 +388,27 @@ The suspect has been arrested after a complaint lodged at the police station aft
 
 ---
 
-### தரம் 5 பரீட்சை விவகாரம்;உயர் நீதிமன்றத்தின் உத்தரவு
+### Grade 5 Examination Affairs; order of the High Court
 
 *2024-12-18 12:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தரம்-5-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றத்தின்-உத்தரவு/150-348902) · `ta`
 
-2024 தரம் 05 புலமைப்பரிசில் பரீட்சையின் வினாக்கள் கசிந்தமை குறித்த விசாரணைகள் தொடர்பான விரிவான அறிக்கையை சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுத் திணைக்களத்திற்கு (CID) இலங்கை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Here's a summary of 200 characters:
 
-விசாரணைகள் தொடர்பான விரிவான அறிக்கையை நாளை (டிசம்பர் 19) காலை 09.00 மணிக்குள் சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+
+CID ordered to investigate 2024 Grade 05 Scholarship Exam leak. Report due December 19, 9 AM.
+
+🟩
+
+The Criminal Investigation Department (CID) has ordered the Criminal Investigation Department (CID) to submit a detailed report on investigations into the leak of the 2024 Grade 05 Scholarship Examination.
+
+The court has ordered the Criminal Investigation Department to submit a detailed report on the investigation tomorrow (December 19) by 09.00 am.
 
 ◼️
 
 [Data](articles/813af869.json)
+
+[Extended Data](ext_articles/813af869.ext.json)
 
 ---
 
@@ -298,31 +488,67 @@ He strongly stated that the country will never again have to be resurrected in t
 
 ---
 
-### பதவி விலகத் தயார் என்கிறார் சஜித்
+### Sajith says he is ready to resign
 
 *2024-12-18 11:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகத்-தயார்-என்கிறார்-சஜித்/175-348899) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ, தான் கற்ற கல்வி, தன்னுடைய பட்டங்கள் தொடர்பில் பாராளுமன்றத்தில் ஆவணங்களை சமர்ப்பித்து உரையாற்றிக்கொண்டிருக்கின்றார்.
+Here's a summary of 200 characters:
 
-தான் சமர்ப்பித்துக்கும் ஆவணங்கள் அனைத்தும் உண்மையும். அதில் தவறு இருக்குமாயின் யாராவது கண்டறிந்தால், எம்.பி பதவியிலும் இருந்தும் எதிர்க்கட்சித் தலைவர் பதவியில் இருந்தும் ஏன்? அரசியலில் இருக்கும் விலகத் தயார் என்றார்.
 
-நான், எனது பிறப்புச்சான்றிதழையும் எடுத்துவந்தேன். யாராவது கேள்வி கேட்பார்கள் என்று நினைத்துதான் அவ்வாறு எடுத்துவந்தேன் என்றார்.
+
+Opposition Leader Sajith Premadasa addresses Parliament about his degrees. He claims all submitted documents are true. If there's a mistake, he questions why it matters given his position. He states readiness to leave politics, mentioning his birth certificate as evidence.
+
+🟩
+
+Opposition Leader Sajith Premadasa has been addressing the documents in Parliament regarding his degrees and his degrees.
+
+All the documents he submits are true. If there is a mistake in it, why is it from the post of MP and the Leader of the Opposition?He said he was ready to quit politics.
+
+I also took my birth certificate. I thought that someone would ask the question.
 
 ◼️
 
 [Data](articles/8ebe2cb4.json)
 
+[Extended Data](ext_articles/8ebe2cb4.ext.json)
+
 ---
 
-### සජිත් අධ්‍යාපන සුදුසුකම් ඉදිරිපත් කරයි
+### President participates in parliamentary proceedings
+
+*2024-12-18 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104328/president-participates-in-parliamentary-proceedings) · `en`
+
+President Anura Kumara Dissanayake arrived in Parliament a short while ago and is currently taking part in the ongoing parliamentary proceedings, said Ada Derana reporter.
+
+The President, who had been on a three-day official visit to India, had only returned to the island last night (17).
+
+President Dissanayake is currently delivering a special statement in the House regarding Sri Lanka’s IMF agreement and the present economic situation in the country.
+
+◼️
+
+[Data](articles/6f58cdd8.json)
+
+---
+
+### Sajith offers educational qualifications
 
 *2024-12-18 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204485) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සිය අධ්‍යාපන සුදුසුකම් අද (18) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+Here's a summary of 200 characters:
+
+
+
+Sajith Premadasa presents educational qualifications to Parliament. Opposition leader showcases academic achievements during session on 18th day.
+
+🟩
+
+Opposition Leader Sajith Premadasa presented his educational qualifications to parliament today (18).
 
 ◼️
 
 [Data](articles/82ccc1be.json)
+
+[Extended Data](ext_articles/82ccc1be.ext.json)
 
 ---
 
@@ -1232,6 +1458,30 @@ Deflationary policy also allows the central bank to repay debt it has taken from
 
 ---
 
+### කාණ්ඩ තුනකින් වාහන වෙළෙඳපොළ යළි විවෘත කෙරේ
+
+*2024-12-18 07:31:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4x7n8n342o) · `si`
+
+කාණ්ඩ තුනකින් වාහන වෙළෙඳපොළ යළි විවෘත කිරීම සඳහා සැලසුම් කර ඇතැයි ජනාධිපති අනුර කුමාර දිසානායක පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ, අද (දෙසැ. 18) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමිනි.
+
+ඒ අනුව, 2025 වසරේ පෙබරවාරි මස 1 වන දා සිට සිට පෞද්ගලික ප්‍රයෝජනය සඳහා මෝටර් රථ ආනයනය කිරීමට සැලසුම් කර ඇති බව ඔහු එහිදී පැවසීය.
+
+"භාණ්ඩ ප්‍රවාහනය සඳහා මෝටර් රථ, ඒ වගේ ම පෞද්ගලික ප්‍රයෝජනය සඳහා මෝටර් රථ අපි විවෘත කරන්න සැලසුම් කරලා තියෙනවා. පෞද්ගලික ප්‍රයෝජනය සඳහා මෝටර් රථ වාහන ආනයනය 2025 පෙබරවාරි මාසයේ පළවෙනි දින සිට යෝජනාවට අපි ඇතුළු කරලා තියෙනවා ක්‍රියාත්මක කරන්න," ජනාධිපතිවරයා සඳහන් කළේ ය.
+
+ඊට අමතරව, මගී ප්‍රවාහන බස් රථ හා විශේෂ කාර්යයන් සඳහා භාවිත කෙරෙන ආනයනය මෝටර් රථ මෙම වසරේ දෙසැම්බර් මස 14 වන දා සිට විවෘත කර ඇති බව ද ජනාධිපවරයා එහිදී පැවසීය.
+
+ජනාධිපතිවරයා එහිදී අවධාරණය කළේ, "දීර්ඝ කාලයක් මේ වාහන වෙළෙඳපොළ වසාගෙන සිටීමේ හැකියාවක් නැහැ," යනුවෙනි.
+
+වාහන ගෙන්වීම ගැන ආණ්ඩුවේ සැලසුම් මොනවා ද?: 'පාවිච්චි කළ වාහනයක මිලට අලුත් වාහනයක්'
+
+...
+
+[Data](articles/df39e0a9.json)
+
+---
+
 ### Several spells of showers expected in parts of the country
 
 *2024-12-18 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104317/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
@@ -1911,345 +2161,5 @@ Former Health Minister Keheliya Rambukwella. 11 million, Rajitha Senaratne Rs.. 
 [Data](articles/2d37ad41.json)
 
 [Extended Data](ext_articles/2d37ad41.ext.json)
-
----
-
-### The Mullivaikkal Memorial should be set up as a witness to the bargain;Ravikaran MP emphasizes in Parliament
-
-*2024-12-17 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201537) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-MP Ravikaran urges setting up a memorial at Mullivaikkal to honor victims of the 2009 war. He emphasizes its importance for Tamil nationalism and cultural heritage.
-
-🟩
-
-Wannimavatta MP Durairasa Ravikaran has urged a memorial to be set up as a witness to the Mullivaikkal memorial.
-
-He was speaking at a debate on the International Sovereignty Reorganization on Tuesday (17) in Parliament.
-
-On November 27, 2024, our people were comforted and comforted and comforted their sentiments without any difficulties for their relationships.
-
-Tamils, who have been subjected to a series of ethnicity in Sri Lanka, have been subjected to racism in the final war in 2009.
-
-With the pains of the final battle, a large number of people who lost their relationships in the war are still living with their feelings.
-
-Wouldn't anyone save themselves?From the longest, to the elders, to the adults, the "hungry and hunger", the parents of the parents who do not cry when they do not cry, the bunkers are not able to escape the bunkers, and the bombs have fallen into the bombs and the bombs falling into the bodies.
-
-...
-
-[Data](articles/7fe4222b.json)
-
-[Extended Data](ext_articles/7fe4222b.ext.json)
-
----
-
-### Yall. In the district, 99 people
-
-*2024-12-17 20:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-மாவட்டத்தில்-99-பேருக்கு-எலிக்காய்ச்சல்/175-348872) · `ta`
-
-N
-
-🟩
-
-Jaffna District Health Services Director Dr. Arumugam Ketheeswaran said that 99 people have been affected by the disease in the Jaffna district.
-
-In a media statement, he said that 23 persons are being treated at the Point Pedro Hospital and 6 at the Jaffna Teaching Hospital.
-
-In the last 24 hours, 9 patients at the Point Pedro Base Hospital and 5 patients at the Jaffna Teaching Hospital have been admitted to the Elike.
-
-So far, 7 deaths have been reported due to the disease in the Jaffna district.R
-
-◼️
-
-[Data](articles/89e8bf66.json)
-
-[Extended Data](ext_articles/89e8bf66.ext.json)
-
----
-
-### Parliament was chaired by Deputy Speaker Rizvi Sally;Academic logic
-
-*2024-12-17 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201536) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Parliament debated educational qualifications. Opposition leader Sajith Premadasa offered to submit certificates. Minister Harshana Nanayakkara stated foreign degrees aren't valid locally.
-
-🟩
-
-There was a stringent logic in Parliament on Tuesday (17) regarding educational qualifications. Some of the MPs submitted their educational certificates to the House.Parliament was chaired by Deputy Speaker Rizvi Sally on Tuesday.
-
-The main opposition party, United People's Power MP. Kavinda Jayawardene addressed the congregation with his education and degree certificates.
-
-At the same time, Deputy Speaker Rizvi Sally said that he was not a specialist and had not used such a topic in his official letters, visiting cards and pharmaceutical cards.
-
-Dilith Jayaweera, the chairman of the universal power, said, "It is also good for the lower level politics to eliminate the use of professors and doctors in front of the names of MPs.. Otherwise, it is like pushing those who do not have a degree. Here, the professor said that the university and the doctor applies to the hospital.
-
-...
-
-[Data](articles/497a5226.json)
-
-[Extended Data](ext_articles/497a5226.ext.json)
-
----
-
-### Jevna Titans's Dunit Vellalake and Kusal Mendis evacuated Kalambo Jaguarz
-
-*2024-12-17 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201535) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Jevna Titans defeated Kalambo Jaguars in Lanka R10 Super League. Kusal Mendis & Sarit Asalanka shared 98 runs. Mendis hit 16* (11 fours, 5 sixes). Titans won by 9 wickets.
-
-🟩
-
-Tunit Vellake's accurate bowling and Kusal Mendis's action dismissed the Kalambo Jaguars team from the Lanka R10 Super League cricket match at Pallekele in Kandy.
-
-Jevna Titans won by 9 wickets in the last phase of today.
-
-Jevna Titans, who became the only team that has not lost the tournament, will play the first qualifying match tomorrow.
-
-In today's match, Kalambo Jaguars lost 8 wickets in 10 overs and scored 99 runs.
-
-Ramesh Mendis scored 28 runs without losing the game efficiently. Asif Ali (18), Kamindu Mendis (17) and Najibullah Saadran (12) scored more than 10 runs.
-
-In the bowling, Dunit Vellalake took 3 wickets for 5 runs while Lahiru Kumara took 2 wickets for 19 runs.
-
-In reply, Jevna Titans lost only one wicket in 5.4 overs and scored 100 runs.
-
-Early player Kevin Wickham lost the game without the flow. (2 - 1 wig.)
-
-However, Kusal Mendis and Sarit Asalanka shared 98 runs off 30 balls in the second wicketless 2 -wicket.
-
-...
-
-[Data](articles/05a593ba.json)
-
-[Extended Data](ext_articles/05a593ba.ext.json)
-
----
-
-### Concerace in the village of Divulapitiya
-
-*2024-12-17 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204470) · `si`
-
-Supreme Court removes safety guards from Divulapitiya village. Petition granted, affecting 618 Sinhalese families since 1974. Basic human rights violations cited. Case to resume September 10.
-
-🟩
-
-The Supreme Court today (17) to be heard to be heard to remove the safety guards to the government's authorities to be removed and the people who have been built around the Village of Divulapitiya.Granted permission.
-
-The Mahaweli Authority of the Eastern Province, the Mahaweli Authority of the Eastern Province, the Mahaweli Authority of the Eastern Province, has been released to the Eastern Province.
-
-Revice of Ven. Bebidge Nalaka Thera and HH. The court issued the order after a petition filed by a group of villagers including Sugathapala and RLRjapathiks.
-
-This petition was considered in the face of a Supreme Court panel across the Supreme Court Judge of Priyantha Fernando, Preet Padman Surasena.
-
-Attorney at Law Kanishka Vitharana, who appeared in behalf of the petition, claiming the roads in the Eastern Village, and the basic human rights that the people of the village have been violated freely.
-
-...
-
-[Data](articles/8ace45bb.json)
-
-[Extended Data](ext_articles/8ace45bb.ext.json)
-
----
-
-### PHI lays causing food shops near Colombo National Hospital
-
-*2024-12-17 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204469) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo National Hospital area food shops raided. Public Health Inspectors found expired bread, unsuitable fruits, and unworthy meat sold to humans.
-
-🟩
-
-The hawksa was revealed today (17) that the people who visit the Colombo National Hospital enjoying more foods in several hotels.
-
-Many people visit the Colombo National Hospital take food at the Punchi Borella area.
-
-In some airports, there were information that there was a number of information that the unworthy emax is sold to human consumption.
-
-Accordingly, the Public Health Inspectors of the Borella Medical Officer of the Medical Officers were rocked today.
-
-There he also destroyed the level of food that should not be given to any of those who should not give to any of the shops.
-
-The second market, which the Public Health Inspectors raided, was not second.
-
-Another store that was raided was found in sales of an expired bread.
-
-Meanwhile, public health inspectors also checked the temporary food shops at the Colombo Exhibition and Convention Center.
-
-It was discovered while preparing to use the unsuitable fruits inadequacy to human consumption.
-
-◼️
-
-[Data](articles/23f55f5f.json)
-
-[Extended Data](ext_articles/23f55f5f.ext.json)
-
----
-
-### Does the fever spread from cattle?- Special team from Colombo to Jaffna to study!
-
-*2024-12-17 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201534) · `ta`
-
-Fever outbreak in Jaffna: 99 cases, 23 hospitalized. Cattle suspected as source. Special team from Colombo to investigate. Vaccination efforts underway. No child under 15 affected.
-
-🟩
-
-99 people in Jaffna district. Jaffna District Health Services Director Dr. A Ketheeswaran said that 23 persons are currently being treated at the Point Pedro Base Hospital and six are being treated at the Jaffna Teaching Hospital.
-
-He said this at a media briefing held at his office today. As he further stated,
-
-In the last 24 hours, 9 patients at the Point Pedro Base Hospital and 5 patients at the Jaffna Teaching Hospital have been admitted to the Jaffna Teaching Hospital.
-
-No death caused by the disease in the last 24 hours. So far, there have been 7 deaths due to the disease in the Jaffna district.
-
-It is suspected that the cattle in those areas, especially in the Point Pedro and Karavedti Health Medical Officer's Divisions.
-
-So we had requested permission from the Department of Livestock Production Health to confirm this. Accordingly, a special team from the Department of Livestock Production Health will visit the Jaffna district tomorrow.
-
-...
-
-[Data](articles/8bd3ddcd.json)
-
-[Extended Data](ext_articles/8bd3ddcd.ext.json)
-
----
-
-### The murder case in Mahara prisoner is over
-
-*2024-12-17 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204468) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mahara Prison murder case closed. Attorney General maintains stance. Magistrate ends prosecution citing lack of evidence. Disagreement over legality of deaths. Case final unless Court of Appeal intervenes.
-
-🟩
-
-The Attorney General has informed the Magistrate's Court today that there is no change in the stance taken by the Attorney General to end the prisoner murder case at Mahara Prison.
-
-Welisara Magistratesitha Dhammika Uddana decided to end the prosecution of Mahara who could not maintain the law and maintain the law.
-
-The law and the STF in the Welisara Magistrate's Court today (17) was recalled at the Welisara Magistrate's Court today for an PCR invaching the police and the police.
-
-The Deputy Solicitor General Janaka Janaka Janaka Banda Bandara explained the steps taken by the Attorney General to cover up the proceedings due to the commitment of death.
-
-...
-
-[Data](articles/82dfaa93.json)
-
-[Extended Data](ext_articles/82dfaa93.ext.json)
-
----
-
-### Ranil praised Anura
-
-*2024-12-17 19:17:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவை-பாராட்டினார்-ரணில்/175-348858) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former President Ranil Wickremesinghe praises Anura Kumara Dissanayake for developing economic and technical cooperation agreements. He welcomes the joint statement between PM Modi and Anura Kumara Dissanayake, which strengthens Indo-Sri Lankan relations and positions Trincomalee as a regional energy center.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that Indian Prime Minister Narendra Modi and President Anura Kumara Dissanayake released a joint statement in New Delhi yesterday.
-
-Prime Minister Narendra Modi and President Anuragumara Dissanayake yesterday's joint statement in New Delhi is a welcome progress, as it further deepened and strengthens Indo-Sri Lankan cooperation.
-
-I appreciate President Anura Kumara Dissanayake for the development of the Economic and Technical Cooperation Agreement and Trincomalee as a Regional Energy and Industry Center. Remble
-
-◼️
-
-[Data](articles/fd9ddedb.json)
-
-[Extended Data](ext_articles/fd9ddedb.ext.json)
-
----
-
-### Welcome to Prime Minister Modi's emphasis on the 13th Amendment - MA Sumanthiran
-
-*2024-12-17 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201518) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Indian PM Modi emphasizes full implementation of Sri Lanka's constitution & provincial council elections. Former TNA MP MA Sumanthiran welcomes this stance. However, absence of Tamil aspirations & 13th Amendment in joint statement raises concerns.
-
-🟩
-
-Former Sri Lankan TNA parliamentarian MA Sumanthiran said he would welcome the request as the 13th Amendment within it was urged by Indian Prime Minister Narendra Modi to fully implement the Constitution.
-
-However, if the Sri Lankan government does not agree to include them in the joint report, it will be a sign that they will be retreated from the already promised promises.
-
-A bilateral meeting between President Anura Kumara Dissanayake and Indian Prime Minister Narendra Modi on Monday (16). Indian Prime Minister Narendra Modi said, “We hope that the Sri Lankan government will fully fulfill the aspirations of the Tamil people.. At the same time, the Sri Lankan government should show his commitment to the issue by fully implementing the constitution and holding the provincial council election.
-
-...
-
-[Data](articles/ae6d5047.json)
-
-[Extended Data](ext_articles/ae6d5047.ext.json)
-
----
-
-### President Dissanayake offers prayer at Mahabodhi Temple
-
-*2024-12-17 19:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104316/president-dissanayake-offers-prayer-at-mahabodhi-temple) · `en`
-
-President Anura Kumara Dissanayake, who is currently on an official visit to India, arrived in Bodh Gaya this morning (17).
-
-He paid homage at the Mahabodhi Temple and the sacred Sri Maha Bodhi Tree, the site where Prince Siddhartha attained enlightenment, and received blessings.
-
-Bodh Gaya is one of the four main sacred sites associated with the life of Gautama Buddha, holding immense significance for Buddhists. In 2002, the Mahabodhi Temple in Bodh Gaya was designated a UNESCO World Heritage Site.
-
-The General Secretary of Maha Bodhi Society of India, Venerable Pelwatte Seewalee Thero, and the Head of the Sarnath Center, Venerable Rathmalwala Sumiththananda Nayake Thero, extended blessings to the President during the occasion.
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, along with the Minister of Labour and Deputy Minister of Economic Development, Prof. Anil Jayantha Fernando also participated in the event.
-
-◼️
-
-[Data](articles/74109d13.json)
-
-[Extended Data](ext_articles/74109d13.ext.json)
-
----
-
-### Legal action against candidates who failed to submit election cost report - Election Commission
-
-*2024-12-17 19:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201533) · `ta`
-
-Election Commission warns 1040 candidates for failing to submit election cost report. Legal action planned, including disqualification from future polls. Deadline was June 6, 2024. Seven candidates previously penalized for similar offense in presidential election.
-
-🟩
-
-The Election Commission has said that 1040 candidates, including candidates who are not contesting the parliamentary elections and submitting the election report, are planning to take legal action.
-
-Election Commission Chairman RMAL. Ratnayake has confirmed that a report has been filed with the police regarding the concerned parties. It has over 900 candidates, several political party representatives and many national list MPs.
-
-The deadline for submitting the election cost report for the 2024 parliamentary election ended on the 6th of this month. The chairman of the Election Commission said that candidates who failed to submit reports and face legal action would be disqualified in the future without being able to contest the provincial council or local government elections.
-
-He added that legal action has already been taken against the seven candidates who have not submitted the cost report in the presidential election.
-
-◼️
-
-[Data](articles/4cd08d98.json)
-
-[Extended Data](ext_articles/4cd08d98.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 05:12:33**
+As of **2024-12-18 05:51:27**
 
 ## Newspaper Stats
 
-*Scraped **60,724** Articles*
+*Scraped **60,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 616
 bbccomsinhala | 636
-islandlk | 3,669
+islandlk | 3,677
 economynextcom | 3,698
-dailyftlk | 4,195
+dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,785
 adaderanalk | 7,401
@@ -26,11 +26,67 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,641 (99.9%) of 60,724 articles have been extended.
+60,642 (99.8%) of 60,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### Yukthi outraged by extractive external debt restructuring agreement
+
+*2024-12-18 05:21:21* · [`dailyftlk`](https://www.ft.lk/opinion/Yukthi-outraged-by-extractive-external-debt-restructuring-agreement/14-770659) · `en`
+
+If the current Government is truly committed to providing social welfare and addressing the needs of the people suffering the most, it must avoid future borrowings in the capital markets
+
+Following is a statement by Yukthi, calling for economic policies that lead to a process of sustainable development that uplifts working people. It opposes a return to high-interest international capital markets, which have already created an intolerable burden for the people
+
+On 13 December 2024, the Secretary to the Ministry of Finance announced the “successful expiration of its consent solicitation and exchange offer related to its international sovereign bonds.” The initial proposal for a deal had been concluded during a blackout period two days before the Presidential election that was held on 21 September 2024. It is a disastrous agreement that has been forced upon Sri Lanka. It will cost the country billions of dollars and it will likely lead to repeated cycles of default in the near future.
+
+...
+
+[Data](articles/90f2fefa.json)
+
+---
+
+### Violating people’s sovereignty
+
+*2024-12-18 05:16:56* · [`dailyftlk`](https://www.ft.lk/columns/Violating-people-s-sovereignty/4-770658) · `en`
+
+Unfortunately, Sri Lanka’s legislators have contrived to adversely impact on the peoples’ rights especially when it comes to the electoral process
+
+Sri Lanka’s citizenry is in a way fortunate that there is a written down constitution – a variety of benefits behold its citizenry. Successive political legislators have however, contrived to be guilty of violating the rights of the people – when it comes to elections.
+
+A written down constitution like Sri Lanka has, offers plenty of balance and equity for all:
+
+A written constitution provides a clear and definite framework for government structure, powers, and limitations. It outlines the rights of citizens and the responsibilities of the government that is easily accessible and understood by all.
+
+Our constitution includes rights that guarantee fundamental rights and freedoms for citizens. This protects individuals from potential abuses of power by the government and ensures that rights are upheld and respected.
+
+...
+
+[Data](articles/f0bf4745.json)
+
+---
+
+### National security only through national harmony – a response
+
+*2024-12-18 05:12:32* · [`dailyftlk`](https://www.ft.lk/columns/National-security-only-through-national-harmony-a-response/4-770657) · `en`
+
+Who deprived the equal rights of Tamils? Not the Sinhalese but the Vellala Tamils themselves
+
+Capt. (Rtd) Rajaratne has written the above article, appeared in Daily FT on 6 December 2024 (https://www.ft.lk/columns/National-security-only-through-national-harmony/4-770154).
+
+Rajaratne implies that the Tamils are subjected to inequality, injustice, oppression, marginalisation, and deprivation. The commemoration of the dead LTTE cadre in the north, he says, was a stark indictment of the failures of the successive Governments to fulfil the aspirations of the Tamil community for equality, justice, liberation, inclusivity, and opportunity.
+
+The above article, in its entirety, is an attempt to convince the reader that Tamils in Sri Lanka are discriminated against and their grievances are not addressed properly. The above implication, which is far from truth, is exactly what the separatists want the world to know to justify their claim for a federal/independent state.
+
+...
+
+[Data](articles/2f4dfb89.json)
+
+[Extended Data](ext_articles/2f4dfb89.ext.json)
+
+---
 
 ### Govt. reveals MPs benefitted from President’s Fund
 
@@ -332,6 +388,32 @@ The Hambantota Bangla Tigers were bowled out for 57 in 6.4 overs.
 
 ---
 
+### NDB achieves unprecedented milestone as the first Sri Lankan bank certified in ISO Trio—ISO 27001:2022, ISO 22301:2019, and ISO 20000:2018
+
+*2024-12-17 23:08:00* · [`islandlk`](http://island.lk/ndb-achieves-unprecedented-milestone-as-the-first-sri-lankan-bank-certified-in-iso-trio-iso-270012022-iso-223012019-and-iso-200002018/) · `en`
+
+NDB Bank has reached an extraordinary milestone by becoming the first commercial bank in Sri Lanka to secure all three globally recognised ISO certifications: ISO 27001:2022 for Information Security, ISO 22301:2019 for Business Continuity Management, and most recently, ISO 20000:2018 for IT Service Management.
+
+The attainment of ISO 20000:2018 underscores the Bank’s commitment to operational excellence and delivering secure, resilient, and high-quality IT services that meet the evolving needs of customers and stakeholders.
+
+...
+
+[Data](articles/2696d4ce.json)
+
+---
+
+### Sampath Bank partners with Cybersource from Visa to enhance digital payment solutions for businesses
+
+*2024-12-17 23:08:00* · [`islandlk`](http://island.lk/sampath-bank-partners-with-cybersource-from-visa-to-enhance-digital-payment-solutions-for-businesses/) · `en`
+
+Sampath Bank announces its successful integration with the payment gateway Cybersource, further strengthening its position as a leader in digital banking. Through this partnership, Sampath Bank is committed to offering seamless payment solutions to businesses that unlock opportunities for growth and success. This integration with Cybersource, a Visa solution, enhances secure, user-friendly transactions while equipping merchants with advanced fraud management tools, detailed reporting capabilities and adaptable payment processes tailored to their unique needs.
+
+...
+
+[Data](articles/cc9e0fe5.json)
+
+---
+
 ### Kandy Boltz joined the last team in the Sri Lanka R10 Super League Play Ove round
 
 *2024-12-17 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201539) · `ta`
@@ -365,6 +447,50 @@ But he was unable to stop qualifying for the Kandy Bolts team.
 [Data](articles/49d0e38e.json)
 
 [Extended Data](ext_articles/49d0e38e.ext.json)
+
+---
+
+### HNB General Insurance secures top honors at SLIM National Sales Awards 2024
+
+*2024-12-17 23:05:00* · [`islandlk`](http://island.lk/hnb-general-insurance-secures-top-honors-at-slim-national-sales-awards-2024/) · `en`
+
+HNB General Insurance (HNBGI) demonstrated its excellence by securing three prestigious awards at the National Sales Awards 2024, organized by the Sri Lanka Institute of Marketing (SLIM). This premier event is the pinnacle of recognition for sales professionals across industries in Sri Lanka.
+
+Reflecting HNBGI’s exceptional sales achievements during the 2023–24 period, the company’s Channel Development Manager, Danidu T. Galappaththi, clinched the coveted Silver Award under the National Sales Manager category. Danidu’s multifaceted contributions have been instrumental in driving HNBGI’s sales success. His leadership encompassed managing a dynamic sales team to achieve enhanced performance, leveraging innovative technologies, and adopting strategies such as product diversification and bundling to penetrate new market segments.
+
+...
+
+[Data](articles/d1b767e8.json)
+
+---
+
+### Thyaga’s ‘Dading, Biding, Gifting’ campaign
+
+*2024-12-17 23:05:00* · [`islandlk`](http://island.lk/thyagas-dading-biding-gifting-campaign/) · `en`
+
+Sri Lanka’s leading gifting platform, Thyaga has launched the “Dading, Biding, Gifting” campaign, just in time for the festive season. The initiative aims to address the challenge of finding the perfect gift by providing flexibility and personalization through Thyaga Gift Vouchers.
+
+Gift recipients are spoiled for choice with access to a wide network of over 150 leading merchants offering thousands of products and services. From daily essentials to luxury items, the vouchers ensure flexibility by allowing partial redemption across multiple merchants and transactions. Every rupee of the voucher’s value goes directly to the recipient, free from additional fees or charges.
+
+Thyaga offers effortless gifting for personal and corporate needs. Over 300 top Sri Lankan companies use its physical and virtual vouchers. Instant access, customization options, personal messages, and elegant packaging ensure a seamless and meaningful experience, making each gift feel special for both giver and receiver.
+
+...
+
+[Data](articles/ddcfc655.json)
+
+---
+
+### Share trading ends higher with healthy turnover levels
+
+*2024-12-17 23:03:00* · [`islandlk`](http://island.lk/share-trading-ends-higher-with-healthy-turnover-levels/) · `en`
+
+The Colombo Stock Exchange (CSE) yesterday witnessed some selling pressure after recording 16 consecutive sessions in an upward trend as the trading shifted to profit takings by investors, market analysts said.
+
+Amid those developments both indices moved upwards. All Share Price Index up by 16 points while S and P SL20 up by 31.3 points. Turnover stood at Rs 6.3 billion with tree crossings. Those crossings were reported in Commercial Bank, which crossed 2.7 million shares to the tune of Rs 375 million and its share price traded at Rs 137, Aitken Spence 75000 shares crossed to the tune of Rs 105 million and its share price traded at Rs 140, and JKH four million shares crossed to the tune of Rs 89 million and its share price traded at Rs 22.40.
+
+...
+
+[Data](articles/24002fd2.json)
 
 ---
 
@@ -2309,197 +2435,5 @@ In such cases, security authorities have been ordered to handle the situation wi
 [Data](articles/3e60a559.json)
 
 [Extended Data](ext_articles/3e60a559.ext.json)
-
----
-
-### Bail for the doctor Aruchuna and the lawyer
-
-*2024-12-17 11:58:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்-அருச்சுனா-மற்றும்-சட்டத்தரணிக்கு-பிணை/175-348838) · `ta`
-
-Doctor Aruchuna and lawyer granted bail. Magistrate warns against disrupting hospital operations. Case adjourned to Feb 7. Hospital bars MP entry without permission. Security to escort MP to police if unauthorized access attempted.
-
-🟩
-
-Parliamentarian Aruchuna Ramanathan and Attorney N.. Kausalya is worth Rs.. The Magistrate's Court has allowed.
-
-Parliamentarian Aruchuna and Attorney N.. The Director of the Hospital has interrupted the doctors' duty. Sathyamoorthy had lodged a complaint at the Jaffna Police Station.
-
-Jaffna on Monday. The Thu, the accused doctor and the lawyer were present in the forum, while he was taken up for hearing at the Magistrate's Court.
-
-During the hearing, the magistrate advised the suspects not to engage in activities such as infringement and disruption to the complainant without the permission of the Director, and allowed the suspects to go on bail of Rs 100,000 each.
-
-The Magistrate, who advised the police to obtain the advice of the Attorney General on the case, adjourned the case to February 07.
-
-The court has also banned the hospital administration to obtain permission from the hospital in order to go to the Jaffna Bodhana Hospital.
-
-...
-
-[Data](articles/d017084c.json)
-
-[Extended Data](ext_articles/d017084c.ext.json)
-
----
-
-### Bomb kills chief of Russian nuclear protection forces in Moscow
-
-*2024-12-17 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104306/bomb-kills-chief-of-russian-nuclear-protection-forces-in-moscow) · `en`
-
-A bomb hidden in an electric scooter killed a senior Russian general in charge of nuclear protection forces in Moscow on Tuesday, Russia’s investigative committee said.
-
-Lieutenant General Igor Kirillov, who is chief of Russia’s Nuclear, Biological and Chemical Protection Troops, was killed outside an apartment building on Ryazansky Prospekt, which starts road some 7 km (4 miles) southeast of the Kremlin.
-
-“Igor Kirillov, the head of the radiation, chemical and biological protection forces of the armed forces of the Russian Federation, and his assistant were killed,” the investigative committee said.
-
-Photographs posted on Russian Telegram channels showed a shattered entrance to a building littered with rubble and two bodies lying in the blood-stained snow.
-
-Russia’s radioactive, chemical and biological defence troops, known as RKhBZ, are special forces who operate under conditions of radioactive, chemical and biological contamination.
-
-◼️
-
-[Data](articles/57d2f538.json)
-
-[Extended Data](ext_articles/57d2f538.ext.json)
-
----
-
-### "Don't introduce titles"
-
-*2024-12-17 11:53:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டங்களைக்-கூறி-அறிமுகப்படுத்த-வேண்டாம்/175-348837) · `ta`
-
-Parliamentarian Dilith Jayaweera proposes avoiding use of academic titles when introducing MPs, citing potential for social division. He suggests focusing on professions rather than degrees in parliamentary settings.
-
-🟩
-
-Parliamentarian Dilith Jayaweera proposed that when introducing MPs in the House, the doctors and professors should avoid degrees and it will lead to social division.
-
-He told Parliament that MPs from various industries are in the House and that they should be avoided from introducing them with previous titles.
-
-"The doctor is suitable for hospitals and is suitable for Professor Universities. Therefore, I propose to avoid using their topics in the congregation, ”he said.
-
-◼️
-
-[Data](articles/5097de32.json)
-
-[Extended Data](ext_articles/5097de32.ext.json)
-
----
-
-### The youth who killed in coconut estate is a woman in the mortality investigation
-
-*2024-12-17 11:51:21* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-වත්තේදී-ඝාතනයවූ-තරුණයා-මරණ-පරීක්ෂණයේදී-කාන්තාවක්-වෙයි/11-413689) · `si`
-
-A young woman was found dead in a house with many dogs and cats. Initial reports claimed it was a man, but autopsy revealed it was a female victim. The cause of death was determined to be from severe cuts. The incident occurred in a rental property in Siyambalawasuppu.
-
-🟩
-
-Do Dummalasuriya Police have suffered mysteriously killed a young man in a house in a residential Sooriyawatta, with dogs and cats. When the murdered body was summoned to the post mortem, she had said that she had been identified as their youngest daughter.
-
-Police who were assisted and the police were killed in the Kuliyapitiya Teaching Hospital for the death inspection of the assassination. At the death inscription, the death process has been assassinated that he was a woman who was not a male.
-
-The number of post mortem has been confirmed that the woman is a death caused by bloodshed with cut wounds.
-
-Dummalagey has maintained the location of these animals in a rented estate in the Siyambalawasuppu area.
-
-More than 50 dogs were present at the place, Dummulasuriya Peliyya added.
-
-◼️
-
-[Data](articles/73af5bd4.json)
-
-[Extended Data](ext_articles/73af5bd4.ext.json)
-
----
-
-### Russian defense chief is assassinated
-
-*2024-12-17 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204457) · `si`
-
-Russian defense chief assassinated: Explosion kills two near Moscow. Lieutenant General Iref reportedly accused of chemical weapons involvement.
-
-🟩
-
-Two people were killed in an explosion near a housing complex near Moscow, Russia.
-
-The international media reported that one of them died, Lieutenant General Ireff, the head of radiation chemistry and biochemical security force in Russia.
-
-The media reports that he was accused of chemical weapons.
-
-◼️
-
-[Data](articles/ae3dcf0c.json)
-
-[Extended Data](ext_articles/ae3dcf0c.ext.json)
-
----
-
-### Rameswaram- Talaimannar Ship Traffic soon ...
-
-*2024-12-17 11:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராமேஸ்வரம்-தலைமன்னார்-கப்பல்-போக்குவரத்து-விரைவில்/175-348835) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"PM Modi announces ship traffic between Rameswaram-Talaimannar to address fishermen issues. Discusses strengthening India-Sri Lanka ties, cooperation in energy sectors, and financial aid for Kankesan port rehabilitation."
-
-🟩
-
-Agreed when the Sri Lankan President was discussed with the humanitarian to access the fishermen's livelihood problem. Shipping will be started up to Rameswaram-Talaimannar, ”Prime Minister Modi said.
-
-Sri Lankan President Anura Kumara Dissanayake, who arrived in India, met Prime Minister Modi in Delhi. At that time, the two leaders were considering strengthening relations between the two countries.
-
-During the meeting, President Anura Kumara Dissanayake said: Prime Minister Modi urged a permanent solution to the fishermen's problem. Thanks for the best welcome of India.
-
-India will be committed to the security of Sri Lanka. Indian fishermen should avoid using a brief web. Fisheries will be affected by a shortness. India has come forward to digitally provide services to the people. When Sri Lanka met the financial crisis, India helped. Thus he said.
-
-...
-
-[Data](articles/8e51e20b.json)
-
-[Extended Data](ext_articles/8e51e20b.ext.json)
-
----
-
-### The cyclist who saved the ninety-surviving cyclist
-
-*2024-12-17 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204456) · `si`
-
-A 75-year-old cyclist was rescued after being pushed by a truck driver in Bandaragama. The incident occurred on a road leading to Kalutara. Police arrested the truck driver from Ruwanwella.
-
-🟩
-
-Bandaragama police said that the elderly person who was pushing a bicycling in Bandaragama this morning (17), the Bandaragama police said.
-
-The 75 year old person has been rescued from the Bandaragama Maswila.
-
-The tipper, which was stolen from Bandaragama to Kalutara road to Kalutara road to Kalutara road, has collapsed to Kalutara with the arrival of the inexpensive person to Kalutara road.
-
-Tipur car driver from Ruwanwella has been arrested by police.
-
-◼️
-
-[Data](articles/9f145754.json)
-
-[Extended Data](ext_articles/9f145754.ext.json)
-
----
-
-### New Speaker urges ruling and opposition parties to collaborate for national progress
-
-*2024-12-17 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104305/new-speaker-urges-ruling-and-opposition-parties-to-collaborate-for-national-progress) · `en`
-
-The newly-appointed Speaker of Parliament, Dr. Jagath Wickramaratne, says he will have to take on a challenging role in fulfilling his responsibility as a legislator for the greater good.
-
-He stated this after assuming duties as the new Speaker of Sri Lanka’s Parliament this morning (17).
-
-In his address, Dr. Wickramaratne underscored the importance of cooperation among all Members of Parliament, regardless of political affiliation. He emphasized that mutual understanding and collaboration between the ruling party and the opposition is essential to achieving progress.
-
-“As long as I hold this esteemed position, I promise to work to the utmost of my ability to protect the rights of all of you as representatives of the people. Thank you again to the entire House. I once again request everyone’s support in making the 10th Parliament an ideal Parliament that will fulfill the aspirations of the people and the well-being of the country, regardless of race or religion,” he added.
-
-...
-
-[Data](articles/4530c8b9.json)
-
-[Extended Data](ext_articles/4530c8b9.ext.json)
 
 ---

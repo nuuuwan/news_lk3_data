@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 05:26:46**
+As of **2024-12-18 05:12:33**
 
 ## Newspaper Stats
 
-*Scraped **60,725** Articles*
+*Scraped **60,724** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 616
 bbccomsinhala | 636
 islandlk | 3,669
 economynextcom | 3,698
-dailyftlk | 4,196
+dailyftlk | 4,195
 dailymirrorlk | 4,733
 adalk | 5,785
 adaderanalk | 7,401
@@ -26,29 +26,11 @@ adaderanasinhalalk | 10,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,641 (99.9%) of 60,725 articles have been extended.
+60,641 (99.9%) of 60,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
-
-### National security only through national harmony – a response
-
-*2024-12-18 05:12:32* · [`dailyftlk`](https://www.ft.lk/columns/National-security-only-through-national-harmony-a-response/4-770657) · `en`
-
-Who deprived the equal rights of Tamils? Not the Sinhalese but the Vellala Tamils themselves
-
-Capt. (Rtd) Rajaratne has written the above article, appeared in Daily FT on 6 December 2024 (https://www.ft.lk/columns/National-security-only-through-national-harmony/4-770154).
-
-Rajaratne implies that the Tamils are subjected to inequality, injustice, oppression, marginalisation, and deprivation. The commemoration of the dead LTTE cadre in the north, he says, was a stark indictment of the failures of the successive Governments to fulfil the aspirations of the Tamil community for equality, justice, liberation, inclusivity, and opportunity.
-
-The above article, in its entirety, is an attempt to convince the reader that Tamils in Sri Lanka are discriminated against and their grievances are not addressed properly. The above implication, which is far from truth, is exactly what the separatists want the world to know to justify their claim for a federal/independent state.
-
-...
-
-[Data](articles/2f4dfb89.json)
-
----
 
 ### Govt. reveals MPs benefitted from President’s Fund
 
@@ -2499,5 +2481,25 @@ Tipur car driver from Ruwanwella has been arrested by police.
 [Data](articles/9f145754.json)
 
 [Extended Data](ext_articles/9f145754.ext.json)
+
+---
+
+### New Speaker urges ruling and opposition parties to collaborate for national progress
+
+*2024-12-17 11:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104305/new-speaker-urges-ruling-and-opposition-parties-to-collaborate-for-national-progress) · `en`
+
+The newly-appointed Speaker of Parliament, Dr. Jagath Wickramaratne, says he will have to take on a challenging role in fulfilling his responsibility as a legislator for the greater good.
+
+He stated this after assuming duties as the new Speaker of Sri Lanka’s Parliament this morning (17).
+
+In his address, Dr. Wickramaratne underscored the importance of cooperation among all Members of Parliament, regardless of political affiliation. He emphasized that mutual understanding and collaboration between the ruling party and the opposition is essential to achieving progress.
+
+“As long as I hold this esteemed position, I promise to work to the utmost of my ability to protect the rights of all of you as representatives of the people. Thank you again to the entire House. I once again request everyone’s support in making the 10th Parliament an ideal Parliament that will fulfill the aspirations of the people and the well-being of the country, regardless of race or religion,” he added.
+
+...
+
+[Data](articles/4530c8b9.json)
+
+[Extended Data](ext_articles/4530c8b9.ext.json)
 
 ---

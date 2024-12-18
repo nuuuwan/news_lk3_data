@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 13:43:38**
+As of **2024-12-18 14:02:42**
 
 ## Newspaper Stats
 
-*Scraped **60,815** Articles*
+*Scraped **60,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 616
 bbccomsinhala | 637
-islandlk | 3,678
+islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
@@ -26,45 +26,65 @@ adaderanasinhalalk | 10,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,690 (99.8%) of 60,815 articles have been extended.
+60,692 (99.8%) of 60,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### අමෙරිකානුවන් කැලඹූ හඳුනානොගත් අභ්‍යවකාශ වස්තූන්
+### Americans disturbed space objects
 
 *2024-12-18 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204490) · `si`
 
-අමෙරිකාවේ නිව් ජර්සි ප්‍රාන්තය ඇතුළු ස්ථාන රැසක රාත්‍රී අහසේ හඳුනානොගත් අභ්‍යවකාශ වස්තූන් නිරීක්ෂණය වන්නේ මාසයකට වැඩි කාලයක සිටය.
+Here's a summary of the text in approximately 200 characters:
 
-එම වස්තූන් කිහිපයක් පසුගියදා වොෂින්ටන් ඩීසී අගනුවරදී මෙන්ම නිව්යෝර්ක් ප්‍රාන්තයෙන් ද නිරීක්ෂණය වුණි.
 
-අසාමාන්‍ය ලෙස දිස්වන මේ වස්තූන් මොනවාද යන්න පැහැදිලිව අනාවරණ කිරීමට අමෙරිකානු ආරක්ෂක අමාත්‍යංශය පවා සමත්ව නැහැ.
 
-ඔවුන් පවසා ඇත්තේ මේ වස්තූන් විදෙස් රටවලට අයත් ඩ්‍රෝන යානා නොවන බව පමණයි.
+Unidentified space objects spotted over New Jersey, Washington D.C., and New York. Military unsure of origin. President Trump claims U.S. authorities will reveal truth about anomalies.
 
-මෙම වස්තූන් මොනවාද යන්න ජනතාවට දැනුම්දීමේ වගකීම අමෙරිකානු ආරක්ෂක අංශ සතුව ඇතැයි තේරීපත්ව ඇති අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසයි.
+🟩
 
-"අපේ හමුදාව සහ ජනාධිපතිවරයා ඇත්ත දන්නවා. අමුතු දෙයක් වෙනවා. ඒක මිනිස්සුන්ට කියන්න මිනිස්සු ඇත්ත දැනගන්න කැමතියි."
+For more than a month, space objects uncovered in the sky of New Jersey Prefecture observation of more than a month.
+
+Several objects were also observed in Washington DC capital and New York State.
+
+The Ministry of Defense has not even been able to clearly reveal the abnormal objects.
+
+They have said that these objects were not in foreign countries.
+
+The US President Donald Trump says that the American security forces have the responsibility of informing the public to inform people what they are responsible.
+
+"Our Army and the President know the truth. Something strange is going to be. People want to know the truth to tell people. "
 
 ◼️
 
 [Data](articles/95715918.json)
 
+[Extended Data](ext_articles/95715918.ext.json)
+
 ---
 
-### பெப்ரவரி முதல் வாகன இறக்குமதிக்கு அனுமதி
+### Allow vehicle imports from February
 
 *2024-12-18 13:26:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-முதல்-வாகன-இறக்குமதிக்கு-அனுமதி/175-348907) · `ta`
 
-பெப்ரவரி முதலாம் திகதி முதல் தனிப்பட்ட பாவனைக்கான கார்களை இறக்குமதி செய்வதற்கு முன்மொழியப்பட்டுள்ளதாக ஜனாதிபதி அனுர திசாநாயக்க பாராளுமன்றத்தில் இன்று (18) தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-“இதனால் மீண்டும் டொலர் நெருக்கடியை சந்திக்க நேரிடும் என்பதில் சந்தேகம் வேண்டாம், மத்திய வங்கியுடன் நீண்ட நாட்களாக விவாதித்து, வெளியேறும் டொலர்களை புரிந்து கொண்டு இதைச் செய்கிறோம். அதனால்தான் நாங்கள் உழைத்தோம். வாகனச் சந்தையை கடுமையான ஸ்திரத்தன்மையுடன் திறக்க வேண்டும்” என்று ஜனாதிபதி கூறினார்.
+
+
+Sri Lanka's President Anura Dissanayake announced in Parliament that vehicle imports will resume starting in February. He emphasized the need for stability in the market due to potential dollar shortages. This decision aims to address economic challenges and restore the automotive industry.
+
+🟩
+
+President Anura Dissanayake said in Parliament today (18)
+
+“Do not doubt that this will face the dollar crisis again.. That's why we worked. The vehicle market should be opened with severe stability, ”the President said.
 
 ◼️
 
 [Data](articles/e0db067b.json)
+
+[Extended Data](ext_articles/e0db067b.ext.json)
 
 ---
 

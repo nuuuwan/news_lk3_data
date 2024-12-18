@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 04:27:00**
+As of **2024-12-19 04:43:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,782 (99.8%) of 60,907 articles have been extended.
+60,783 (99.8%) of 60,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -141,6 +141,8 @@ The celebration was graced by Board of Investment Chairman Arjuna Herath and Al 
 ...
 
 [Data](articles/2bb0b589.json)
+
+[Extended Data](ext_articles/2bb0b589.ext.json)
 
 ---
 

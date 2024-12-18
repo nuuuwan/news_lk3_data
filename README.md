@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 02:14:06**
+As of **2024-12-19 02:28:44**
 
 ## Newspaper Stats
 
-*Scraped **60,892** Articles*
+*Scraped **60,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,201
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
-tamilmirrorlk | 8,703
+tamilmirrorlk | 8,704
 virakesarilk | 10,036
 adaderanasinhalalk | 10,518
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,769 (99.8%) of 60,892 articles have been extended.
+60,771 (99.8%) of 60,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Gazette Issue in connection with vehicle import
+
+*2024-12-19 02:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-வர்த்தமானி-வெளியீடு/175-348937) · `ta`
+
+Here's a summary of the Gazette issue related to vehicle import in approximately 200 characters:
+
+
+
+"Minister Anura Kumara Dissanayake signed a Gazette Notification regarding vehicle imports. This notification addresses key aspects of importing vehicles, including regulations, procedures, and any changes to existing policies."
+
+🟩
+
+The Gazette Notification has been issued with the signature of the Minister of Finance, Planning and Economic Development President Anura Kumara Dissanayake.. (A)
+
+◼️
+
+[Data](articles/8cb0cc74.json)
+
+[Extended Data](ext_articles/8cb0cc74.ext.json)
+
+---
 
 ### Socomec forms strategic alliance with Venora Group to advance power monitoring solutions in Sri Lanka
 
@@ -361,6 +383,8 @@ Ms. Qin Boyong noted that China looks forward to continuing its work with the ne
 ...
 
 [Data](articles/ad78456f.json)
+
+[Extended Data](ext_articles/ad78456f.ext.json)
 
 ---
 
@@ -2449,27 +2473,5 @@ A bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arju
 [Data](articles/b8f4666e.json)
 
 [Extended Data](ext_articles/b8f4666e.ext.json)
-
----
-
-### President arrives in Parliament
-
-*2024-12-18 11:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පාර්ලිමේන්තුවට-පැමිණෙයි/11-413711) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake recently visited Parliament. This event marks his first appearance in the legislative body since taking office."
-
-🟩
-
-President Anura Kumara Dissanayake arrived in the parliament few months ago.
-
-◼️
-
-[Data](articles/13be70cd.json)
-
-[Extended Data](ext_articles/13be70cd.ext.json)
 
 ---

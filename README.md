@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 20:42:57**
+As of **2024-12-18 21:43:35**
 
 ## Newspaper Stats
 
-*Scraped **60,854** Articles*
+*Scraped **60,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,805
+adalk | 5,806
 adaderanalk | 7,423
-tamilmirrorlk | 8,700
+tamilmirrorlk | 8,701
 virakesarilk | 10,026
 adaderanasinhalalk | 10,513
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,740 (99.8%) of 60,854 articles have been extended.
+60,746 (99.8%) of 60,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### Palma, Yogets will be eliminated
+
+*2024-12-18 21:14:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-யோகட்களின்-வற்-வரி-நீக்கப்படும்/175-348921) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka: Palma and Yogat elimination plans. Government aims to remove tax on domestic milk and yogurt for child nutrition. Service export tax reduced from 30% to 15%. IMF compliance increases restricted tax from 5% to 10%.
+
+🟩
+
+The last government has also been charged with goods including Palma and Yogat.
+
+However, President Anura Kumara Dissanayake has said that the third review with the IMF has been reached in order to eliminate the tax on domestic milk and yoga, which is aimed at raising the nutrition level of children.
+
+Moreover, during the last government's period, service export tax was 30 percent.
+
+Compliance has been reached to reduce it to 15 percent internationally.
+
+The President said, "We have reached compliance with the International Monetary Fund to increase the restricted tax from 5 percent to 10 percent.". Remble
+
+◼️
+
+[Data](articles/68ae442d.json)
+
+[Extended Data](ext_articles/68ae442d.ext.json)
+
+---
 
 ### Payment to students from 2025
 
@@ -78,6 +108,34 @@ The Commissioner General of Examinations HJMC has made arrangements to conduct t
 
 ---
 
+### In the first quarter of 2025 a bottle of water worth of quality
+
+*2024-12-18 18:30:34* · [`adalk`](https://www.ada.lk/breaking_news/අඩු-මිලට-ප්‍රමිතියෙන්-යුත්-මත්-වතුර-බෝතලයක්-2025-මුල්-කාර්තුවේදී/11-413725) · `si`
+
+Colombo introduces quality liquor bottles in Q1 2025 to combat illegal alcohol. Excise Commissioner plans increased raids and aims to reduce illegal liquor consumption, potentially impacting 30% of excise tax revenue.
+
+🟩
+
+Amortality of the year to rescue illegal liquor use, the Excise Commissioner General of Excise Kumara said he would introduce a quality of liquor bottle to the market.
+
+Speaking at a media briefing in Colombo, he said that the program was expected to be implemented in Colombo and around 30 percent of the Excase tax revenue.
+
+He also said that after introducing the new liquor bottle, he will increase the raids for illegal liquor raids and eradicate from the country.
+
+"Illegal liquor has expanded today. These illegal liquor has lost about 30 percent of the excise tax revenue as the estimate. We can't do this alcohol.
+
+As the raids, you have to bring an alternative proposal to the public. So there is an idea that the Ministry of Finance and produce a bottle of alcohol.
+
+It examines it from the Analyst's Department and giving approval to the market. This is not a program to increase excise revenue or promoting alcohol.
+
+...
+
+[Data](articles/d8bb5bb6.json)
+
+[Extended Data](ext_articles/d8bb5bb6.ext.json)
+
+---
+
 ### Ordinary Levels will be announced
 
 *2024-12-18 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204497) · `si`
@@ -114,21 +172,27 @@ The Examinations Department announced that the 2024 (2025) G.C.E. Ordinary Level
 
 ---
 
-### මුදල් පිළිබඳ කාරක සභාවේ සභාපති ධුරය යළිත් හර්ෂට
+### Harsha to Harsha again
 
 *2024-12-18 17:50:50* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-පිළිබඳ-කාරක-සභාවේ-සභාපති-ධුරය-යළිත්-හර්ෂට/11-413724) · `si`
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති ධුරය සදහා පාර්ලිමේන්තු මන්ත්‍රී  ආචාර්ය හර්ෂ ද සිල්වා මහතා පත් කර තිබේ.
+Dr. Harsha de Silva named Chairman of Public Finance Committee. Other members: Ravi Karunanayake, Harsiri Karunanayake, Wijesiri Basnayake, Lakmali Hemachandra. Appointments made by Speaker of Parliament.
 
-ඒ අනුව ඊයේ (17) රැස්වූ පාර්ලිමේන්තු තේරීම් කාරක සභාව විසින් පාර්ලිමේන්තුවේ ස්ථාවර නියෝග 121 හි විධිවිධාන සහ 2024 දෙසැම්බර් 06 දින පාර්ලිමේන්තුව විසින් සම්මත කරන ලද යෝජනාව ප්‍රකාරව රජයේ මුදල් පිළිබඳ කාරක සභාවට සාමාජික මන්ත්‍රීවරයන් පත් කිරීම සිදුවූ අතර එහිදී සභාපතිවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පත්කර ඇත.
+🟩
 
-මෙසේ පත්කළ සාමාජික මන්ත්‍රීවරයන්ගේ නම් කථානායකවරයා විසින් අද (18) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+MP Dr. Harsha de Silva has been appointed as the Chairman of the Committee on Public Finance Chairman.
 
-ඒ අනුව ආචාර්ය හර්ෂණ සූරියප්පෙරුම, රවී කරුණානායක, හර්ෂණ රාජකරුණා, නිමල් පලිහේන, විජේසිරි බස්නායක, තිළිණ සමරකෝන්, නීතිඥ ලක්මාලි හේමචන්ද්‍ර යන මන්ත්‍රීවරයන් මුදල් පිළිබඳ කාරක සභාවේ සේවය කිරීම සඳහා පත් කොට තිබේ.
+Accordingly, the provisions of the Parliamentary Select Committee of Parliament yesterday (17) were appointed as the Chairman of the Public Finance Committee as the Chairman Dr. Harsha de Silva as the ChairmanMr. Mr.
+
+The Speaker of this was the Speaker of the Member MPs to be announced today (18).
+
+Accordingly, Dr. Harshikara Sooriyana, Ravi Karunanayake, Harsiri Karunanayake, Wijesiri Basnayake and Attorney Lakmali Basnayake and Attorney Lakmali Basnayake and Attorney Lakmali Hemachandra have been appointed to serve in the Committee on Finance.
 
 ◼️
 
 [Data](articles/fee48538.json)
+
+[Extended Data](ext_articles/fee48538.ext.json)
 
 ---
 
@@ -456,19 +520,25 @@ The Wildlife officials said that the LTTE was a 10-year-old tiger to the Hatton 
 
 ---
 
-### ஹட்டன் - போடைஸ் பகுதியில் உடல்பகுதிகள் வெட்டப்பட்ட நிலையில் சிறுத்தை மீட்பு - பொலிஸார் விசாரணை
+### Leopard Rescue - Police Investigate
 
 *2024-12-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201584) · `ta`
 
-ஹட்டன் பொலிஸ் பிரிவுக்குட்பட்ட போடைஸ் தோட்டம் பகுதியில் இன்று புதன்கிழமை (18) சிறுத்தை ஒன்று இறந்து கிடந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+Leopard found dead at Bodice Estate. Hatton Police investigating with Nalladhani Wildlife Officers. Case reported to Hatton court.
 
-ஹட்டன் பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நல்லதண்ணி வனவிலங்கு அதிகாரிகளுடன் இணைந்து விசாரணைகளை மேற்கொண்டுள்ளனர்.
+🟩
 
-குறித்த சம்பவம் தொடர்பில் ஹட்டன் நீதிமன்றத்திற்கு அறிவிக்கப்பட்டுள்ளதாகவும் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளதாகவும்  பொலிஸார் தெரிவித்துள்ளனர்.
+A leopard was found dead on Wednesday (18) at the Bodice Estate, which belongs to the Hatton Police Division, police said.
+
+Based on the information received by the Hatton Police Station, Nalladhani Wildlife Officers are conducting investigations.
+
+The Hatton court has been notified of the incident and further investigations are being carried out, police said.
 
 ◼️
 
 [Data](articles/f9088938.json)
+
+[Extended Data](ext_articles/f9088938.ext.json)
 
 ---
 
@@ -580,25 +650,33 @@ He added that legal action will be taken against them and complains to the CID r
 
 ---
 
-### நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துக்களில் நால்வர் பலி!
+### Four killed in vehicle accidents in different parts of the country
 
 *2024-12-18 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201575) · `ta`
 
-நாட்டின் வெவ்வேறு பகுதிகளில் நேற்று  செவ்வாய்க்கிழமை (17) ஏற்பட்ட வாகன விபத்தில் நால்வர் உயிரிழந்துள்ளனர்.
+Vehicle accidents claim four lives across Sri Lanka: Chilaw, Kalutara, Wellawaya, and Colombo. Multiple collisions involving motorcycles, vans, and pedestrians reported. Investigations ongoing.
 
-தொடுவாவ பொலிஸ் பிரிவுக்குட்பட்ட சிலாபம்  பிரதான வீதியின் மஹவெவ பகுதியில் சிலாபத்திலிருந்து கொழும்பு நோக்கி பயணித்த வேன் ஒன்று எதிர்திசையில் வந்த மோட்டார் சைக்கிள் மீது மோதி ஏற்பட்ட விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் மற்றும் அவரது மகள் படுகாயமடைந்துள்ளதுடன், மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் சிகிச்சை பலனின்றி சாரதி உயிரிழந்துள்ளார்.
+Four people were killed in a vehicle accident on Tuesday (17) in different parts of the country.
 
-சடலம் மாரவில வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், வேன் சாரதி கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+One person was killed when a van traveling from Chilaw to Colombo from Chilaw in the Mahawewa area of ​​Chilaw, which belongs to the Tuttuwawa police division, was killed in a motorcycle collision with a motorcycle.
 
-இதேவேளை, களுத்துறை – ஹொரணை வீதியின் கல்பாத்த பிரதேசத்தில் துவிச்சக்கரவண்டியை கட்டுப்படுத்த முடியாமல் எதிர்திசையில் வந்த மோட்டார் சைக்கிளுடன் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+The driver of the motorcycle and her daughter were injured in the accident and the driver died after being admitted to the Marawila Hospital.
 
-விபத்தில் சைக்கிளில் பயணித்தவர் படுகாயமடைந்து கல்பாத்த வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மேலதிக சிகிச்சைக்காக ஹொரணை வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+The body has been placed in the funeral room of the Marawila Hospital and the driver of the van has been arrested, police said.
+
+Meanwhile, a motorcycle collided with a motorcycle in the Kalpatha area of ​​the Kalutara -Horana road.
+
+The bicycle was injured in the accident and was admitted to the Kalpatha Hospital after being transferred to the Horana Hospital for further treatment.
+
+The death of an 83 -year -old from Kalpatha, Kalutara.
 
 ...
 
 [Data](articles/efc204cd.json)
+
+[Extended Data](ext_articles/efc204cd.ext.json)
 
 ---
 
@@ -724,21 +802,27 @@ Accordingly, the verdict on these petitions will be announced on the 31st.
 
 ---
 
-### மொரகொல்லாகம பகுதியில் உள்நாட்டு துப்பாக்கியுடன் இரு சந்தேகநபர்கள்  கைது!
+### Two suspects arrested with domestic gun in Moragollagama
 
 *2024-12-18 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201573) · `ta`
 
-மொரகொல்லாகம பொலிஸ் பிரிவுக்குட்பட்ட கல்கிரியா கந்த பகுதியில் உள்நாட்டில்  தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேகநபர்கள் இருவர்  மொரகொல்லாகம பொலிஸ் அதிகாரிகளினால் கைது செய்யப்பட்டுள்ளார்.
+Two suspects arrested with homemade gun in Moragollagama. Police raid nets 21-year-old and 30-year-old locals. Investigation ongoing.
 
-மொரகொல்லாகம பொலிஸ் நிலைய அதிகாரிகளினால்  நேற்று செவ்வாய்க்கிழமை (17) மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின் போதே  உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் இரண்டு சந்தேக நபர்கள் செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 21 மற்றும் 30 வயதுடைய மடகல்ல  மற்றும் மொரகொல்லாகம பகுதியைச்  சேர்ந்தவர்களாவர்.
+Two suspects have been arrested by Moragollagama police officers with a locally manufactured gun in the Calgiria Kanda area belonging to the Moragollagama Police Division.
 
-மேலும், குறித்த கைது நடவடிக்கை தொடர்பில் மொரகொல்லாகம பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Two suspects were made with a locally manufactured gun during a raid carried out by the Moragollagama police station on Tuesday (17).
+
+The arrested suspects are from Madagalla and Moragollagama, aged 21 and 30.
+
+In addition, the Moragollagama police are conducting further investigations into the arrest.
 
 ◼️
 
 [Data](articles/9d0b8924.json)
+
+[Extended Data](ext_articles/9d0b8924.ext.json)
 
 ---
 
@@ -2333,49 +2417,5 @@ During the economic crisis in the past, more than 55 percent of school children 
 [Data](articles/e96f0225.json)
 
 [Extended Data](ext_articles/e96f0225.ext.json)
-
----
-
-### ජනපති දිවයිනට
-
-*2024-12-18 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204476) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ දූත පිරිස සිය තෙදින ඉන්දීය සංචාරය නිමා කරමින් දිවයිනට පැමිණ තිබේ.
-
-අද දෙරණ ගුවන්තොටුපොළ වාර්තාකරු සඳහන් කළේ ඊයේ (17) රාත්‍රී 10ට පමණ ජනාධිපතිවරයා සහ දූත පිරිස කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි බවය.
-
-ජනාධිපතිවරයා සමග දූත පිරිස ලෙස සහභාගී වූ අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත, අමාත්‍ය විජිත හේරත් ඇතුළු ඇතුළු පිරිස ද එම ගුවන් යානයෙන්ම ආපසු පැමිණ තිබුණි.
-
-ඉන්දියාවේ නවදිල්ලි නුවර සිට ශ්‍රීලන්කන් ගුවන් සේවයේ යූ.එල්.- 196 දරණ ගුවන් යානයෙන් ජනාධිපතිවරයා ඇතුළු පිරිස කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි බව සඳහන්ය.
-
-ජනාධිපතිවරයා ඇතුළු ශ්‍රී ලංකා දූත පිරිස ඉකුත් 15 දින සිය ඉන්දීය සංචාරය සඳහා පිටත්ව ගියේය.
-
-ඉන්දීය අග්‍රාමාත්‍යවරයා, ජනාධිපතිය, ඇතුළු රාජ්‍ය ත්‍රාන්ත්‍රිතයින් පිරිසක් හමුවී සාකච්ඡා පැවැත්වූ අතර දෙරට අතර ගිවිසුම් කිහිපයකටද අත්සන් තැබුණි.
-
-◼️
-
-[Data](articles/f6ddcc24.json)
-
----
-
-### China's top representative meets the Prime Minister
-
-*2024-12-18 08:03:08* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-ඉහළ-නියෝජිතයෙක්-අගමැතිනිය-හමුවෙයි/11-413707) · `si`
-
-Chinese delegation led by Premier Qin Boyong meets Sri Lankan PM Dr. Haraini Amarasuriya. Discussions focus on strengthening bilateral ties, trade, industrial relations, disease control, sustainable development. Chinese Ambassador Qi Zhenhong and Sri Lankan officials attend.
-
-🟩
-
-Mrs. Prime Minister Dr. Haraini Amarasuriya met the Prime Minister Dr. Welini Amarasuriya (CPPCC).
-
-The Prime Minister of Qin Boyong and Delegation, the Prime Minister emphasized the importance of strengthening bilateral relations between the two countries. The meeting, the meeting was held regarding the development of trade and industrial relations in disease control, sustainable development and multiple sectors.
-
-Ambassador of China in Sri Lanka Qi Zhenhong, Pradeep Communication, Prime Minister's Media Secretary to the Director General of the Ministry of External Affairs. Mr. Ruwanthi, Delpitiya and Director of the division director Upani Gunawardena were present at the occasion.
-
-◼️
-
-[Data](articles/6ca74d3f.json)
-
-[Extended Data](ext_articles/6ca74d3f.ext.json)
 
 ---

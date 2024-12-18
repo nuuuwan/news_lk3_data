@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 14:02:42**
+As of **2024-12-18 14:17:03**
 
 ## Newspaper Stats
 
-*Scraped **60,817** Articles*
+*Scraped **60,820** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,794
+adalk | 5,795
 adaderanalk | 7,418
 tamilmirrorlk | 8,694
-virakesarilk | 10,019
-adaderanasinhalalk | 10,507
+virakesarilk | 10,020
+adaderanasinhalalk | 10,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,692 (99.8%) of 60,817 articles have been extended.
+60,695 (99.8%) of 60,820 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### රඳවා තබා ගැනීමේ බද්ද සියයට 10 දක්වා ඉහළට
+
+*2024-12-18 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204491) · `si`
+
+රඳවා තබා ගැනීමේ බද්ද 5% සිට 10% දක්වා වැඩි කිරීමට IMF සමග එකඟතාවයකට පැමිණි බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) පාර්ලිමේන්තුවේදී අනාවරණය කළේය.
+
+"රඳවා තබාගැනීමේ බද්ද 5% සිට 10% දක්වා වැඩි කිරීමට අපි එකඟතාවයකට ආවා."
+
+"සාමාන්‍යයෙන් වැඩිහිටි අය, විශ්‍රාමිකයන් යම් මුදල් ප්‍රමාණයක් බැංකුවල තැන්පත් කරලා ඒ ලැබෙන පොලියෙන් ජීවත් වෙනවා."
+
+"සාමාන්‍යයෙන් මාසයකට රු 150,000ක් පොලියට වැටුණොත් තමයි එයා බද්දට යටත් වෙන්නේ.  නමුත් රඳවා තබාගැනීමේ බද්ද හරහා සිදුවිය හැකි දේ තමයි රු 150,000කට යටින් ගත්තත් රඳවා ගැනීමේ බද්දක් ලෙස පැනවීමේ හැකියාව තිබීම."
+
+"ඒ නිසා අපි දේශීය ආදායම් බදු දෙපාර්තමේන්තුවේ නව අංශයක් විවෘත කරනවා..ඕනෑම පුරවැසියෙකුට තමන්ගේ බැංකු ගිණුමකින් මේ බද්දට ඇතුළත් නොවේ කියලා තමන් උපකල්පනය කරනවා නම් දේශීය ආදායම් බදු දෙපාර්තමේන්තුවට ගිහින් තමන්ගේ බදු තත්ත්වය ඉදිරිපත් කරලා ඒ බද්දට ඇතුළත්වීම වළක්වා ගැනීමට හැකියාව ලැබෙන පරිදි."
+
+...
+
+[Data](articles/93bbfd64.json)
+
+---
 
 ### Americans disturbed space objects
 
@@ -88,39 +108,83 @@ President Anura Dissanayake said in Parliament today (18)
 
 ---
 
-### வருமான வரி வரம்பு அதிகரிப்பு
+### Increase Income Tax limit
 
 *2024-12-18 13:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/வருமான-வரி-வரம்பு-அதிகரிப்பு/47-348906) · `ta`
 
-வருமான வரி வரம்பை மாதாந்தம் 100,000 ரூபாயிலிருந்து 150,000 ரூபாவாக அதிகரிப்பதற்கு சர்வதேச நாணய நிதியத்துடன் இணக்கம் எட்டப்பட்டதாக ஜனாதிபதி அனுரகுமார திசாநாயக்க பாராளுமன்றத்தில் இன்று (18)  தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-தனிநபர் வருமான வரியின் வகை 1 6% வரிக்கு உட்பட்டது   இதன்படி மாதம் 150,000 சம்பளம் பெறுபவருக்கு 100% வரிவிலக்கு உண்டு. 200,000 சம்பாதிக்கும் நபருக்கு 71% வரியிலிருந்து விலக்கு அளிக்கப்படுகிறது.
 
-அதிக வருமானம் பெறுவோருக்கு குறைந்த நிவாரணமும், குறைந்த வருமானம் பெறுவோருக்கு அதிக நிவாரணமும் அளிக்கும் வகையில் வருமான வரியை திருத்தியமைப்பதில் நாம் வெற்றி பெற்றுள்ளோம் என ஜனாதிபதி தெரிவித்தார்.
+
+Pres. Anura Kumara Dissanayake: IMF-compliant income tax hike from Rs 100k to Rs 150k/month. Type 1: 6% tax on 100% exemption for 150k salary. 200k earners get 71% tax relief.
+
+🟩
+
+President Anura Kumara Dissanayake said in Parliament today (18) that the International Monetary Fund has been complied with the International Monetary Fund to increase the income tax limit from Rs 100,000 to Rs 150,000 per month.
+
+Type 1 6% of the individual income tax is taxed by a 100% tax exemption for 150,000 salary per month. The person who earns 200,000 is exempted from 71% tax.
+
+The President said, "We have succeeded in revising the income tax to provide low relief for higher income and higher income."
 
 ◼️
 
 [Data](articles/db14583f.json)
 
+[Extended Data](ext_articles/db14583f.ext.json)
+
 ---
 
-### කෙහෙළියගේ තවත් බැංකු ගිණුම් දෙකක් අත්හිටුවයි
+### Permission for vehicle imports will be issued in three instructions: President
+
+*2024-12-18 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201564) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Vehicle import permissions to be issued in three stages. President Anura Kumara Dissanayake addressed Parliament on 18th. Environment of 2022/23 won't persist; tax amendments from 2025. 15% tax on service exports; no new taxes for low-income earners.
+
+🟩
+
+President Anura Kumara Dissanayake said that permission for vehicle imports will be issued in three instructions.
+
+President Anura Kumara Dissanayake said this while addressing the Parliament on Wednesday (18).
+
+The President noted that the environment of 2022 and 2023 will not appear anymore and that the tax amendment will be amended at work since 2025.
+
+The President said the tax on service exports would be implemented at a 15 per cent and that there was no intention of imposing new taxes on low income earners.
+
+◼️
+
+[Data](articles/fd262bd6.json)
+
+[Extended Data](ext_articles/fd262bd6.ext.json)
+
+---
+
+### Keheliya's two more bank accounts suspended
 
 *2024-12-18 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204489) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ ජංගම හා ස්ථාවර තැන්පතු ගිණුම් දෙකක් සතියක කාලයක් සඳහා අත්හිටුවීමට අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව නියෝග කර තිබේ.
+Keheliya Rambukwella's 2 bank accounts suspended: 200L balance under anti-corruption law. Commission may extend if case goes to court.
 
-අදාළ ගිණුම් දෙකෙහි ශේෂයන්හි එකතුව රුපියල් ලක්ෂ 200ක් පමණ වේ.
+🟩
 
-2023 අංක 9 දරන දුෂණ විරෝධී පනතේ 53(1) වගන්තිය ප්‍රකාරව ඊයේ (17) දින සිට අදාළ අත්හිටුවීම සිදුකිරීමට නියෝග කර ඇත.
+The Commission of Bribery or Corruption Commission has ordered the suspension of two mobile and fixed deposit accounts of former Health Minister Keheliya Rambukwella for a week.
 
-තවද අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව මෙම අත්හිටුවීමේ නියෝගය තවදුරටත් දීර්ඝ කරගැනීමට කොමිෂන් සභාව බලාපොරොත්තු වේ.
+The sum of the balances of the two accounts is Rs. 200 lakhs.
 
-මීට පෙරද අවස්ථා කිහිපයකදී මෙම විමර්ශනයන්ට අදාළව හිටපු සෞඛ්‍ය අමාත්‍යවරයාගේ සහ ඔහුගේ බිරිඳ ඇතුළු ඥාතීන් කිහිපදෙනෙකුගේ වත්කම් ගණනාවක් අත්හිටුවීමට අල්ලස් හෝ දුෂණ චෝදනා විමර්ශන කොමිෂන් සභාව කටයුතු කර ඇත.
+Section 53 (1) of the anti-corruption Act, No. 9 of the anti-Corruption Act, No. 53 (17) has been suspended.
+
+The Commission is expected to extend the suspension of the suspension after being produced in court.
+
+The Commission has taken the Bribery or Corruption Commission to suspend a number of assets of the former Minister of Health and his wife in several occasions.
 
 ◼️
 
 [Data](articles/d82239dd.json)
+
+[Extended Data](ext_articles/d82239dd.ext.json)
 
 ---
 
@@ -154,6 +218,20 @@ Currently, five children are married and live in separate houses and only elderl
 
 ---
 
+### පෙබරවාරියේ සිට වාහන ආනයනයට අවසර ලැබෙයි
+
+*2024-12-18 13:03:17* · [`adalk`](https://www.ada.lk/breaking_news/පෙබරවාරියේ-සිට-වාහන-ආනයනයට-අවසර-ලැබෙයි/11-413712) · `si`
+
+පෞද්ගලික පරිහරණය සඳහා මෝටර් රථ ආනයනය ලබන පෙබරවාරි පළවෙනිදා සිට ක්‍රියාත්මක කරන්නට යොජනා කර තිබෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද ( 18) පාර්ලිමේන්තුවේදී පැවසීය.
+
+මහබැංකුව  සමග දීර්ඝ සාකච්ඡාවකින් අනතුරුව ඒ පිළිබඳව අවබෝධයෙන් සිදුකරන බවද ජනාධිපතිවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/0bfb9cf7.json)
+
+---
+
 ### Sri Lanka to allow vehicle imports from February 2025
 
 *2024-12-18 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104333/sri-lanka-to-allow-vehicle-imports-from-february-2025-) · `en`
@@ -167,6 +245,28 @@ He stated that the import restrictions on personal-use vehicles are proposed to 
 ◼️
 
 [Data](articles/c8134b52.json)
+
+[Extended Data](ext_articles/c8134b52.ext.json)
+
+---
+
+### Harsha de Silva appointed as the Chairman of the Committee on Government Fund
+
+*2024-12-18 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201556) · `ta`
+
+Harsha de Silva named Chairman of Government Fund Committee. Members: Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon, Lakmali Hemachandra.
+
+🟩
+
+United People's Power Member Harsha de Silva has been appointed as the Chairman of the Government Fund Committee.
+
+The other members of the group have been appointed as Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon and Lakmali Hemachandra.
+
+◼️
+
+[Data](articles/06833c0a.json)
+
+[Extended Data](ext_articles/06833c0a.ext.json)
 
 ---
 
@@ -250,31 +350,25 @@ The country’s Christian community had shrunk dramatically, having been targete
 
 ---
 
-### Permission for vehicle imports will be issued in three instructions: President
+### நாடளாவிய ரீதியில் சுற்றிவளைப்பு ; போதைப்பொருட்களுடன் நால்வர் கைது!
 
-*2024-12-18 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201564) · `ta`
+*2024-12-18 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201560) · `ta`
 
-Here's a summary of 200 characters:
+நாடளாவிய ரீதியில் பொலிஸாரினால் நேற்று செவ்வாய்க்கிழமை (17) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களுடன்  சந்தேகநபர் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
 
+மஹரகம பொலிஸ் பிரிவுக்குட்பட்ட ரயில்வே  நிலைய வீதி - நுகேகொட பகுதியில் 05 கிராம் 900 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் வைத்திருந்த சந்தேக நபர் ஒருவர் கைது  செய்யப்பட்டுள்ளார்.
 
+இதேவேளை, பேலியகொடை பொலிஸ் பிரிவுக்குட்பட்ட துடுகெமுனு மாவத்தை மற்றும் திப்பிட்டிகொட பகுதியில் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
 
-Vehicle import permissions to be issued in three stages. President Anura Kumara Dissanayake addressed Parliament on 18th. Environment of 2022/23 won't persist; tax amendments from 2025. 15% tax on service exports; no new taxes for low-income earners.
+கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து 11 கிராம் 800 மில்லிகிராம்  ஐஸ் போதைப்பொருள் மற்றும் 10 கிராம் 300 மில்லிகிராம் ஹெராயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளனர்.
 
-🟩
+கைது செய்யப்பட்ட சந்தேகநபர்கள் 31 மற்றும் 32 வயதுடைய பேலியகொட மற்றும் களனி பகுதிகளை சேர்ந்தவர்களாவர்.
 
-President Anura Kumara Dissanayake said that permission for vehicle imports will be issued in three instructions.
+அத்தோடு, கம்பஹா பொலிஸ் பிரிவுக்குட்பட்ட உடுகம்பலை சந்தியில் 11 கிராம் 300 மில்லிகிராம் ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
 
-President Anura Kumara Dissanayake said this while addressing the Parliament on Wednesday (18).
+...
 
-The President noted that the environment of 2022 and 2023 will not appear anymore and that the tax amendment will be amended at work since 2025.
-
-The President said the tax on service exports would be implemented at a 15 per cent and that there was no intention of imposing new taxes on low income earners.
-
-◼️
-
-[Data](articles/fd262bd6.json)
-
-[Extended Data](ext_articles/fd262bd6.ext.json)
+[Data](articles/e07f55e4.json)
 
 ---
 
@@ -341,26 +435,6 @@ President Anura Kumara Dissanayake said in parliament today that it was in agree
 [Data](articles/bf55a2e6.json)
 
 [Extended Data](ext_articles/bf55a2e6.ext.json)
-
----
-
-### Harsha de Silva appointed as the Chairman of the Committee on Government Fund
-
-*2024-12-18 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201556) · `ta`
-
-Harsha de Silva named Chairman of Government Fund Committee. Members: Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon, Lakmali Hemachandra.
-
-🟩
-
-United People's Power Member Harsha de Silva has been appointed as the Chairman of the Government Fund Committee.
-
-The other members of the group have been appointed as Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon and Lakmali Hemachandra.
-
-◼️
-
-[Data](articles/06833c0a.json)
-
-[Extended Data](ext_articles/06833c0a.ext.json)
 
 ---
 
@@ -2109,77 +2183,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/1b96097a.json)
-
----
-
-### Yall. Order to investigate the quality of the air in the district
-
-*2024-12-17 22:02:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்டத்தின்-காற்றின்-தரத்தை-ஆராய-உத்தரவு/71-348874) · `ta`
-
-Court orders CEA to monitor Jaffna district air quality for a month. Report adverse findings. Public to explore warning system if harmful conditions detected.
-
-🟩
-
-Yall. The Court of Appeal has ordered the Central Environmental Authority to conduct a series of examinations for a month of air quality of the district and submit a report to the court if there are adverse factors.
-
-In addition, the court has also ordered the public to investigate the possibility of setting up a mechanism to instruct the public if the quality of air is found to be harmful to the Jaffna district during the examination.
-
-◼️
-
-[Data](articles/8a9f7146.json)
-
-[Extended Data](ext_articles/8a9f7146.ext.json)
-
----
-
-### Our desire is to bring back the Sri Lankan refugees in Tamil Nadu - the Governor of the Northern Province
-
-*2024-12-17 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201538) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-Governor of the Northern Province, Na Vedanayagan, said that it is our desire to return to the country to return to the country.
-
-UNHCR. Sanjita Sathyamoorthy, who served as the head of the National Office of the organization, met the Governor of the Northern Province at the Governor's Secretariat on Monday evening (16.12.2024).
-
-UNHCR has a variety of help in the past. The governor, who remembered the provision of the organization, thanked him.
-
-The UNHCR has made arrangements for the return of Sri Lankan refugees in the state of Tamil Nadu, especially in the state of Tamil Nadu.. The governor also pointed out that the role of the organization was immense.
-
-The Governor, who has expressed his desire to bring the Sri Lankan refugees in Tamil Nadu to the country, confirmed the land, housing scheme, livelihood assistance and employment for those who do not have land, "he said.. The governor said he was expecting cooperation.
-
-◼️
-
-[Data](articles/58829cbb.json)
-
-[Extended Data](ext_articles/58829cbb.ext.json)
-
----
-
-### Former MPs enjoyed the President's Fund
-
-*2024-12-17 21:14:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-நிதியத்தை-முன்னாள்-எம்-பிகளே-அனுபவித்தனர்/150-348873) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Sri Lankan politicians received medical funds from the Presidential Fund. Notable recipients include Keheliya Rambukwella (Rs. 11m), Rajitha Senaratne (Rs. 10m), and TM Jayaratna (Rs. 30m). The fund was managed by presidents Mahinda Rajapaksa, Maithripala Sirisena, and Ranil Wickremesinghe.
-
-🟩
-
-Former ministers and parliamentarians have received funding for medical treatment beyond the source of the Presidential Fund.
-
-The Prime Minister of the Government, the Namantha Jayatissa House, told the government that many former ministers and MPs have received assistance from the fund to support the poor and backward people.
-
-Former Health Minister Keheliya Rambukwella. 11 million, Rajitha Senaratne Rs.. 10 million. Former Minister Alek Aluvihare is Rs.. 2.2 million, and his son Ranjith Aluvihare, former MP. 4.6 million. Funds and Rs.. Former Prime Minister TM. 30 million to Jayaratna. Former parliamentarian Rajith Soyza for Rs.. 18 million, for former Speaker Joseph Michael Perera Rs.. 2.7 million. John Amaratunga Rs.. 4 million, former MP Wimalaweera Dissanayake. 3 million. Vidura Wickremanayake. 1.5 million.
-
-...
-
-[Data](articles/2d37ad41.json)
-
-[Extended Data](ext_articles/2d37ad41.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 23:01:16**
+As of **2024-12-18 23:43:40**
 
 ## Newspaper Stats
 
-*Scraped **60,871** Articles*
+*Scraped **60,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,134 @@ dbsjeyarajcom | 455
 colombotelegraphcom | 618
 bbccomsinhala | 639
 islandlk | 3,680
-economynextcom | 3,703
+economynextcom | 3,711
 dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,808
-adaderanalk | 7,426
-tamilmirrorlk | 8,701
+adaderanalk | 7,427
+tamilmirrorlk | 8,703
 virakesarilk | 10,031
-adaderanasinhalalk | 10,516
+adaderanasinhalalk | 10,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,754 (99.8%) of 60,871 articles have been extended.
+60,759 (99.8%) of 60,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### Free Visa for 39 countries
+
+*2024-12-18 23:14:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/39-நாடுகளுக்கு-இலவச-விசா/175-348929) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"39 countries to offer free visas starting Jan 2025: Sri Lanka's FM Vijitha Herath. Aimed at boosting tourism, including from India."
+
+🟩
+
+Sri Lanka's Foreign Minister Vijitha Herath said that in early January 2025, 39 countries will issue free visa.
+
+He said that the move would facilitate foreign tourists, including India, coming to Sri Lanka.. Remble
+
+◼️
+
+[Data](articles/45a37b41.json)
+
+[Extended Data](ext_articles/45a37b41.ext.json)
+
+---
+
+### Increase in the number of victims of mice
+
+*2024-12-18 23:07:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சலால்-பாதிக்கப்பட்டோரின்-எண்ணிக்கை-அதிகரிப்பு/175-348923) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Mouse-borne illness outbreak: 7,200 vaccinated, 110 infected. 28 at Point Pedro Hospital, 8 at teaching hospital. 6 new cases in 24 hours. 7 deaths reported in Jaffna district."
+
+🟩
+
+Yall. About 7,200 people have been given vaccine, with 110 people have been affected by the disease in the district.. Director of Regional Health Services, Dr. A. Ketheeswaran said.
+
+Currently 28 people at the Point Pedro Hospital. Eight people are being treated at the teaching hospital.
+
+In the last 24 hours, 6 patients at the Point Pedro Hospital. Five patients have been admitted to the Teaching Hospital with mice.
+
+Jaffna so far. It is noteworthy that 7 deaths due to the disease in the district. Remble
+
+◼️
+
+[Data](articles/e3b859dd.json)
+
+[Extended Data](ext_articles/e3b859dd.ext.json)
+
+---
+
+### රියදුරා නැති අතරේ අධිවේගයේ ගිය අරුම පුදුම යෑම
+
+*2024-12-18 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204502) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න සේවා මධ්‍යස්ථානය ආසන්නයේදී කොළඹ දෙසට ගමන් කරන මංතීරුවක, ගාල්ල දෙසට මෝටර් රථයක් ධාවනය කළ පුද්ගලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+වැලිපැන්න පොලීසිය සඳහන් කළේ මානසික රෝගයක් සඳහා ප්‍රතිකාර ලබාගැනීම සඳහා ගාල්ලේ සිට කොළඹ දක්වා මෝටර් රථයකින් ගමන් කරමින් සිටි අයෙකු මෙලෙස අත්අඩංගුවට ගත් බවයි.
+
+මෙම පුද්ගලයා වැලිපැන්න සේවා මධ්‍යස්ථායේදී සිය රියදුරා වැසිකිළියට ගිය පසු මෝටර් රථය රැගෙන මෙලෙස වැරදි මංතීරුවේ ධාවනය කර තිබේ.
+
+මෙම සිදුවීම අධිවේගී මාර්ගයේ ගමන්ගත් තවත් මෝටර් රථයක තිබූ ආරක්ෂිත කැමරාවක ද සටහන්ව ඇත.
+
+◼️
+
+[Data](articles/bf6a8eb6.json)
+
+---
+
+### අද මගේ අන්තිම දවස  - අශ්වින්
+
+*2024-12-18 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204501) · `si`
+
+ඉන්දියාවෙන් බිහිවූ විශිෂ්ට පිට දඟ පන්දු යවන්නෙක් වන රවිචන්ද්‍රන් අශ්වින් ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදී තිබේ.
+
+ඔස්ට්‍රේලියාව සහ ඉන්දියාව අතර බ්‍රිස්බෙන්හිදී අද (18) අවසන් වූ තුන්වැනි ටෙස්ට් තරගය අවසානයේ ඔහු ඒ බව නිවේදනය කර තිබුණි.
+
+බෝඩර්-ගවස්කාර් කුසලානය වෙනුවෙන් පැවැත්වෙන තරග 5කින් යුත් තරගාවලියේ තවත් තරග 2ක් ඉතිරිව තිබියදී ඔහු මෙම තීරණය ප්‍රකාශයට පත්කිරීම විශේෂත්වයක්ය.
+
+2010 වසරේ සිට වසර 14කට වැඩි කාලයක් ආකෘති ත්‍රිත්වය යටතේම ඉන්දියාව නියෝජනය කළ අශ්වින්, ටෙස්ට් පිටියෙන් සමුගන්නා විට ටෙස්ට් කඩුලු 537ක් බිඳහෙළා සිටියේය.
+
+මේ වනවිට 38 වියේ පසුවන අශ්වින් ටෙස්ට් පිටියෙන් සමුගන්නේ අනිල් කුම්බ්ලේගෙන් පසු ඉන්දියාව වෙනුවෙන් වැඩිම ටෙස්ට් කඩුලු දවාළු පන්දු යවන්නා ලෙසය.
+
+එමෙන්ම අශ්වින් ලොව වැඩිම ටෙස්ට් කඩුලු දවාළු පන්දු යවන්නන් අතර මේ වනවිට 7වැනි ස්ථානයේ රැඳී සිටියි.
+
+◼️
+
+[Data](articles/651f93b0.json)
+
+---
+
+### President expresses gratitude to China for debt restructuring support and economic assistance
+
+*2024-12-18 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104342/president-expresses-gratitude-to-china-for-debt-restructuring-support-and-economic-assistance) · `en`
+
+President Anura Kumara Dissanayake has expressed his gratitude to the Chinese government for its support during debt restructuring as well as in the face of the economic crisis.
+
+He stated that his appreciation extends to China’s assistance in the debt restructuring program and its provision of loans to Sri Lanka during the economic challenges.
+
+President Dissanayake made these remarks during a meeting with Ms. Qin Boyong, Vice Chairperson of the National Committee of the Chinese People’s Political Consultative Conference (CPPCC), held today (18) at the Parliamentary Complex, the President’s Media Division (PMD) reported.
+
+Ms. Qin Boyong noted that China looks forward to continuing its work with the new government of Sri Lanka, further strengthening the longstanding relationship between the two countries.
+
+...
+
+[Data](articles/ad78456f.json)
+
+---
 
 ### Lanka R10 Super League - 2024: Jevna entered the first team as the first team
 
@@ -174,25 +284,39 @@ Local TV channels showed a speedboat carrying at least five people hitting the p
 
 ---
 
-### ව්‍යවසායකයන්ගේ බැංකු ණය ප්‍රතිව්‍යුහගත කළ හැකි අයුරු
+### How to Restructrate Entrepreneurs
 
 *2024-12-18 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204499) · `si`
 
-බැංකු ණය ලබාගෙන එම ණය නැවත ගෙවීමේ අර්බුදයකට ලක්ව සිටින සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායකයන්ට, එම ණය ප්‍රතිව්‍යුහගතකිරීමට අවස්ථාව ලබාදෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) දින පාර්ලිමේන්තුවේදී පැවසීය.
+Here's a 200-character summary:
 
-පරාටේ නීතිය ක්‍රියාත්මක කිරීම අත්හිටුවීම ට ගෙන ඇති තීරණය දීර්ඝ කිරීමට පියවර ගෙන ඇත්තේ සුළු හා මධ්‍ය පරිමාණ ව්‍යවසායක ක්ෂේත්‍රය තවමත් ප්‍රකෘති තත්ත්වයට පැමිණ නොමැති නිසා බවද ඔහු මෙහිදී පැවසීය.
 
-පරාටේ නීතිය ක්‍රියාත්මක කිරීම අත්හිටුවීම මේ මස 15වනදා අවසන්වීමට නියමිතව තිබූ අතර, පසුව එය 2025 වසරේ මාර්තු 31 දක්වා දීර්ඝ කළේය.
 
-මෙම දීර්ඝ කිරීමත් සමග එක් එක් ව්‍යවසායකයන් ඔවුන් ලබාගත් ණය ප්‍රමාණයන් අනුව ණය ප්‍රතිව්‍යුහගතකළ හැකි ආකාරය සම්බන්ධයෙන් රජය සැලසුම් සකසා තිබේ.
+Sri Lankan government extends loan restructuring for small entrepreneurs until March 31, 2025. Borrowers under Rs. 25M can restructure by December 15, 2025. Those with loans between Rs. 25-50M have until September 15, 2025.
 
-පරාටේ නීතිය දීර්ඝ කිරීම පිළිබඳ සිදුකළ අධ්‍යයනයේදී ණයගැතියන්ගෙන් 99%ක්ම, රුපියල් මිලියන 25ට වඩා අඩු ණය පැහැරහරින්නන් බව හෙළි වී ඇත.
+🟩
 
-කෙසේ නමුත් පරාටේ නීතිය මුළුමනින්ම අත්හිටුවා තිබීමෙන් බැංකු පද්ධතිය කඩාවැටිය හැකි බව ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+President Anura Kumara Dissanayake said in parliament today (18) that small and medium-scale entrepreneurs are allowed to restructure the loans from obtaining bank loans.
+
+He said that steps have been taken to extend the decision to the suspension of the Parade law, he has not yet reached the recovery.
+
+The suspension of the Parade law was due to be completed on the 15th of this month and later extended it to 31st March 2025.
+
+With this extension, the government has arranged for each entrepreneurs to restructure credit according to their loans.
+
+The study on the extension of the Parade law has been revealed that 99% of the borrowers have been released than Rs. 25 million.
+
+However, the President pointed out that the banking system can collapse using the Paradic law completely suspended.
+
+Accordingly, the loan has been given to December 15, 2025 to restructure the loans to be paid less than Rs. 25 million.
+
+The debt payers should be produced before March 31st of next year.
 
 ...
 
 [Data](articles/57d60965.json)
+
+[Extended Data](ext_articles/57d60965.ext.json)
 
 ---
 
@@ -222,23 +346,29 @@ Accordingly, children between the ages of five and sixteen are scheduled to pay 
 
 ---
 
-### ටොයෝටා ලංකා ගෙන් වූ අලුත්ම වාහන
+### The latest vehicles from Toyota Lanka
 
 *2024-12-18 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204498) · `si`
 
-අදියර වශයෙන් වාහන ආනයන සීමා ලිහිල් කිරීමට රජය තීරණය කිරීමත් සමග ටොයෝටා ලංකා සමාගම සිය පළමු වාහන ප්‍රමාණය මෙරටට ගෙන්වා තිබේ.
+Toyota Lanka introduces first vehicle after government lifts import restrictions due to economic recovery and increased forex reserves.
 
-ආර්ථික අර්බුදකාරී වාතාවරණය හමුවේ මෙරට විදේශ විනිමය සංචිත පහළ යාමත් සමග වාහන ආනයනයට සීමා පැනවීමට ඉකුත් රජය පියවර ගත්තේය.
+🟩
 
-කෙසේ නමුත් ක්‍රමිකව ආර්ථිකය ප්‍රකෘතිමත් වෙමින් පැවතීමත්, විදේශ විනිමය සංචිත යළි ඉහළ යාමත් හමුවේ ආනයන සීමා ලිහිල් කරමින් අදියර කිහිපයක් යටතේ නැවත වාහන ආනයනයට රජය තීරණය කළේය.
+With the decision to relax the government to relax the vehicle import boundaries, Toyota Lanka has brought its first vehicle size.
 
-කෙසේ නමුත් ඒ සඳහා පළමුව අවසර හිමිවුණේ සංචාරක කර්මාන්තයට යොදාගැනෙන වාහන ආනයනය කිරීමට.
+The government took measures to impose restrictions with the importation of foreign exchange reserves in the face of the economic crisis.
 
-එම තීරණයෙන් පසු ටොයෝටා ලංකා සමාගම සිය පළමු වාහන තොගය මෙලෙස දිවයිනට ගෙන්වා තිබේ.
+However, the government has decided to import vehicles again under several stages, with the recovery of the economy and increase the forex reserves.
+
+However, it was first allowed to import vehicles used in tourism.
+
+After that decision, Toyota Lanka has brought its first vehicle to the island.
 
 ◼️
 
 [Data](articles/435fd6fd.json)
+
+[Extended Data](ext_articles/435fd6fd.ext.json)
 
 ---
 
@@ -262,19 +392,25 @@ The Commissioner General of Examinations HJMC has made arrangements to conduct t
 
 ---
 
-### கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சை நடைபெறும் திகதி அறிவிப்பு
+### Date of the Education General Assanding Examination
 
 *2024-12-18 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201608) · `ta`
 
-கல்விப் பொதுத் தராதர சாதாரண தரப் பரீட்சை மார்ச் மாதம் நடைபெறும் என பரீட்சைகள் திணைக்களம் புதன்கிழமை (18) பிற்பகல் அறிவித்துள்ளது.
+GCE Ordinary Level Exam scheduled March 17-26, 2025. Contact department via phone/email for details.
 
-பரீட்சை ஆணையாளர் நாயகம் எச். ஜே. எம். சி. இவ்வருடத்திற்கான பொதுப் பரீட்சை 2025 ஆம் ஆண்டு மார்ச் மாதம் 17 ஆம் திகதி முதல் 26 ஆம் திகதி வரை நடைபெறுவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளதாக அமித் ஜயசுந்தர தெரிவித்தார்.
+🟩
 
-இது தொடர்பான மேலதிக தகவல்களுக்கு தொலைபேசி இலக்கங்கள் மற்றும் மின்னஞ்சல் முகவரிகளையும் பரீட்சை திணைக்களம் அறிமுகப்படுத்தியுள்ளது.
+The Department of Examinations announced on Wednesday afternoon (18) that the GCE Ordinary Level Examination will be held in March.
+
+The Commissioner of Examination. J.. M.. C. Amit Jayasundera said that the General Examination for this year will be held from March 17 to 26, 2025.
+
+The Department of Examination has also introduced telephone numbers and email addresses for further information.
 
 ◼️
 
 [Data](articles/ce2f4212.json)
+
+[Extended Data](ext_articles/ce2f4212.ext.json)
 
 ---
 
@@ -309,6 +445,24 @@ Herath pointed out the compounding challenges Sri Lanka faced due to these crise
 ...
 
 [Data](articles/80976514.json)
+
+---
+
+### China reveals plans to resume maritime research after Sri Lanka’s one-year ban
+
+*2024-12-18 18:46:00* · [`economynextcom`](https://economynext.com/china-reveals-plans-to-resume-maritime-research-after-sri-lankas-one-year-ban-195057/) · `en`
+
+ECONOMYNEXT – China is planning to start its maritime research in the Indian Ocean, a top Beijing government official said, as a temporary one-year ban imposed due to strong Indian protests comes to an end in January 2025.
+
+Sri Lanka’s previous government has imposed a temporary one-year ban on all foreign research vessels visiting Sri Lanka for research purposes. The move came in December last year after strong security concerns raised by India on Chinese research vessels.
+
+Qin Boyong, Vice Chairperson of the National Committee of the Chinese People’s Political Consultative Conference (CPPCC) discussed the plans to resume maritime research when she met President Anura Kumara Dissanayake on Wednesday (18).
+
+During the meeting, President Dissanayake highlighted the importance of completing the unfinished sections of the
+
+...
+
+[Data](articles/b8880167.json)
 
 ---
 
@@ -447,6 +601,26 @@ In addition, Diyathalawa police are conducting further investigations into the a
 [Data](articles/b35f72f6.json)
 
 [Extended Data](ext_articles/b35f72f6.ext.json)
+
+---
+
+### Sri Lanka to hike withholding tax on deposits to 10-pct, low earners exempt
+
+*2024-12-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-hike-withholding-tax-on-deposits-to-10-pct-low-earners-exempt-195036/) · `en`
+
+ECONOMYNEXT – Sri Lanka has agreed with the International Monetary Fund to raise withholding tax on deposits to 10 percent from 5 percent but exemptions will be given for lower income brackets, President Anura Kumara Dissanayake said.
+
+Depositors who earn less than 150,000 rupees a month can get a direction from the Department of Inland Revenue to get an exemption, he said.
+
+Others whose income tax bracket is below 10 percent, will be able to reclaim the extra taxes, he said.
+
+A special unit will be set up in the Department of Inland Revenue, to advice the public he said.
+
+The intention of the changes was not to get extra taxes from people but to widen the tax net, he said. (Colombo/Dec18/2024)
+
+◼️
+
+[Data](articles/ee0f1806.json)
 
 ---
 
@@ -613,6 +787,30 @@ Meanwhile, the conflict between the General Assembly, the General Front and the 
 ...
 
 [Data](articles/413e755b.json)
+
+---
+
+### Sri Lanka stocks close up despite early profit taking
+
+*2024-12-18 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-despite-early-profit-taking-195053/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange ended firmer on Wednesday, after a drop in the early trade, data on its site showed.
+
+The broader ASPI closed up 0.67 percent, or 97.84 points, at 14,614.30; while the more liquid S&P SL20 Index closed up 0.45 percent, or 19.56 points, at 4,404.13.
+
+“There was profit taking early in the trade, but we saw buyers came in after that. With the fixed income returns are on the decline, investors are now buying stocks,” a stock broker said.
+
+There was a continued rallying in banking stocks, they said.
+
+Hatton National Bank closed 1.3 percent up at 275.50, and DFCC Bank closed 0.3 percent firmer at 91.30.
+
+“Banking shares are gaining because investors see no impact from the sovereign debt restructuring.”
+
+Foreign investors bought a net of 100.7 million worth of shares on Wednesday (18).
+
+...
+
+[Data](articles/0cf45766.json)
 
 ---
 
@@ -1034,6 +1232,26 @@ Meanwhile, when the final exam of the Law Degree, the MP who went to the exam ha
 
 ---
 
+### Sri Lanka Treasuries yields marginally down
+
+*2024-12-18 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-marginally-down-195033/) · `en`
+
+ECONOMYNEXT – Sri Lanka Treasuries yields edged lower across maturities at Wednesday’s auction, with all 185 billion rupees of bills offered being sold, data from the state debt office showed.
+
+The 3 month yield fell 03 basis points to 8.66 percent, with 65 billion rupees rupees sold.
+
+The 6 month yield fell 07 basis points to 8.81 percent, with 75 billion rupees of bills sold.
+
+Te 12-month yield fell 05 basis points to 9.02 percent, with 45 billion rupees of bills sold.
+
+All maturities are offered on tap after the auction. (Colombo/Dec18/2024)
+
+◼️
+
+[Data](articles/a12837c0.json)
+
+---
+
 ### Verdict on petitions over Grade 5 Scholarship Exam on Dec. 31
 
 *2024-12-18 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104335/verdict-on-petitions-over-grade-5-scholarship-examondec31) · `en`
@@ -1134,6 +1352,28 @@ In addition, the Moragollagama police are conducting further investigations into
 
 ---
 
+### Sri Lanka to give smallest defaulted borrowers till Dec 2025 to restructure loans
+
+*2024-12-18 14:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-smallest-defaulted-borrowers-till-dec-2025-to-restructure-loans-195031/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s small defaulting borrowers with loans below 25 million rupees will be given time till December 2025 to restructure loans after a parate execution suspension ends in March 2025, President Anura Kumara Dissanayake said.
+
+The suspension on parate execution or foreclosure, was suspended till December 15 after the last currency crisis triggered bad loans.
+
+By end September 2025 there were loan in arrears of 1,385 billion rupees relating 752,896 borrowers.
+
+“But 99 percent of these borrowers have taken loans below 25 million rupees,” President Dissanayake said.
+
+“Due to a sweeping suspension of parate execution the banking system can also become unstable. They also have peoples’ deposits. It is not other money. So, we have to be mindful of the safety of people’s deposits.
+
+“The impact of the collapse of finance companies were not felt by the directors or owners. It was felt by depositors. Some committed suicide.
+
+...
+
+[Data](articles/c2316075.json)
+
+---
+
 ### Shots fired at drug trafficker’s house in Homagama
 
 *2024-12-18 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104334/shots-fired-at-drug-traffickers-house-in-homagama) · `en`
@@ -1157,6 +1397,46 @@ However, none of the occupants in the house were injured in the shooting, althou
 [Data](articles/c1a1a85e.json)
 
 [Extended Data](ext_articles/c1a1a85e.ext.json)
+
+---
+
+### Sri Lanka PAYE tax thresholds to be raised, minimum Rs150,000: President
+
+*2024-12-18 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-paye-tax-thresholds-to-be-raised-minimum-rs150000-president-194957/) · `en`
+
+ECONOMYNEXT – Sri Lanka has negotiated with the International Monetary Fund to raise the income tax threshold to 150,000 rupees a month from the current 100,000 rupees, President Anura Kumara Dissanayake said.
+
+“The wages of a person earning 150,000 rupees will be 100 percent free from tax,” President Dissanayake told parliament.
+
+“The 6 percent tax on the first slab of 500,000 rupees will be raised to one million rupees.”
+
+“The tax on someone earning 200,000 rupees will be 71 percent free of tax. The salary of a person earning 250,000 will be 61 percent free. The salary of a person earning 300,000 rupees will be 47 percent freed.
+
+“The salary of a person who gets 350,000 a month will be 25 percent freed.
+
+“We have been able to revise PAYE tax to give bigger benefits to lower income earnings and lower benefits to higher income earners.”
+
+...
+
+[Data](articles/b31cbd7a.json)
+
+---
+
+### Sri Lanka’s Ceylon Electricity Board appoints two new directors
+
+*2024-12-18 13:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-electricity-board-appoints-two-new-directors-194953/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state Ceylon Electricity Board has appointed two new members to the Board, the firm said in a stock exchange filling.
+
+U.N Mallawarachchi and H M J M Herath have been appointed, replacing K V C Dilrukshi and HP Niroshan as non executive/ independent director.
+
+Mallawarachchi is also serving in the capacity of director at Department of National planning and SAHASYA Investment Ltd.
+
+Herath serves as the additional secretary (Development) in Ministry of Public Administration. (Colombo/Dec18/2024)
+
+◼️
+
+[Data](articles/278a78d2.json)
 
 ---
 
@@ -1323,6 +1603,32 @@ The President said, "We have succeeded in revising the income tax to provide low
 [Data](articles/db14583f.json)
 
 [Extended Data](ext_articles/db14583f.ext.json)
+
+---
+
+### Sri Lanka to allow private vehicle imports from February 2025: President
+
+*2024-12-18 13:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-private-vehicle-imports-from-february-2025-president-194954/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow private vehicle imports from February 01, 2025, President Anura Kumara Dissanayake told parliament.
+
+The decision has been made after discussions with the central bank after assessing the impact on foreign exchange he said.
+
+“Do not have any fears that we will face another foreign currency crises because of car imports,” President Dissanayake said.
+
+“We have estimated the outflow of dollar for car imports. But to turn the economy around we decided we have to open imports.
+
+Passenger buses and special purpose vehicles have been allowed from December 14, he said.
+
+Sri Lanka PAYE tax thresholds to be raised, minimum Rs150,000: President
+
+Sri Lanka banned over 3,000 imports as money printing to cut rates started in 2020, but the country lost all its reserves and eventually defaulted.
+
+Foreign exchange reserves would not be used for imports, unless liquidity is injected by the central bank to suppress rates, analysts have pointed out.
+
+...
+
+[Data](articles/dd2414c8.json)
 
 ---
 
@@ -2141,313 +2447,5 @@ A bond maturing on 15.09.2029 was quoted at 10.65/70 down from 10.67/73 percent.
 [Data](articles/372f0f07.json)
 
 [Extended Data](ext_articles/372f0f07.ext.json)
-
----
-
-### CPPCC’s Vice-Chairwoman calls on PM Harini
-
-*2024-12-18 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104326/cppccs-vice-chairwoman-calls-on-pm-harini) · `en`
-
-The Vice-Chairwoman of the National Committee of the Chinese People’s Political Consultative Conference (CPPCC) at the Vice Premier Level, Ms. Qin Boyong, has paid a courtesy call on Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, at the Parliament of Sri Lanka.
-
-The Prime Minister welcomed Ms. Qin Boyong and her delegation, appreciating the longstanding friendship and underscoring the importance of strengthening bilateral relations, the Prime Minister’s Media Division reported.
-
-Strengthening cooperation in disease control, sustainable developments, improving trade and cooperation in multilateral forums were discussed further, the statement said.
-
-...
-
-[Data](articles/9c9afc60.json)
-
-[Extended Data](ext_articles/9c9afc60.ext.json)
-
----
-
-### Harsha de Silva appointed COPF chairman
-
-*2024-12-18 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104325/harsha-de-silva-appointed-copf-chairman-) · `en`
-
-SJB Member of Parliament Dr. Harsha de Silva has been appointed as the Chair of the Committee on Public Finance (COPF).
-
-The nomination of (Dr.) Harsha de Silva as the Chair by the Committee of Selection to serve on the Committee on Public Finance was made in terms of the provisions of the Standing Order 121 of Parliament and the motion agreed to by Parliament on the 6th December 2024.
-
-The list of Members of Parliament was subsequently announced to the House by the  Speaker today (18).
-
-Accordingly, the following Members of Parliament have been appointed to serve on the Committee on Public Finance:
-
-◼️
-
-[Data](articles/3534ae20.json)
-
-[Extended Data](ext_articles/3534ae20.ext.json)
-
----
-
-### Recovery of sea cards
-
-*2024-12-18 10:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுக்கி-வைக்கப்பட்டிருந்த-கடல்-அட்டைகள்-மீட்பு/175-348888) · `ta`
-
-India seizes 450kg processed sea cards worth ₹5 crore in Ramanathapuram district near Sri Lanka border.
-
-🟩
-
-Ramanathapuram district of India has confiscated 450 kg of processed sea cards worth 50 lakh kg of marine cards, which were smuggled into a house from Vedalai South Street next to the Mandapam, and handed over the seawater cards to the Forest Officer.
-
-Ramanathapuram district Rameswaram, Mandapam Vedalai, Marikkayarpattinam, Kalimankundu, Kundal, Kundal, is very close to Sri Lanka.
-
-In the early hours of Tuesday (17), the Ramanathapuram District Police Superintendent's Division of Police has reportedly been subjected to the information available in a house on South Street, South Street.
-
-◼️
-
-[Data](articles/c77865c8.json)
-
-[Extended Data](ext_articles/c77865c8.ext.json)
-
----
-
-### Government Cashier Business Headship
-
-*2024-12-18 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204481) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dr. Harsha de Silva named Chairman of Public Finance Committee. Members: Harsiri Surakarana, Harsiri Karunanayake, Harsiri Basnayake, Tilmarna Samarakoon, Lakmali Hemachandra.
-
-🟩
-
-Dr. Harsha de Silva has been appointed as the Chairman of the Committee on Public Finance.
-
-Members of the Committee, Harsiri Surakarana, Harsiri Karunanayake, Harsiri Basnayake, and Tilmarna, Tilmiri Samarakoon, and Lakmali Hemachandra.
-
-◼️
-
-[Data](articles/478bddac.json)
-
-[Extended Data](ext_articles/478bddac.ext.json)
-
----
-
-### Suspect arrested for showcase in supermarkets
-
-*2024-12-18 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201551) · `ta`
-
-Arrest made in supermarket theft case: Suspect detained by Maharagama police for stolen goods.
-
-🟩
-
-A suspect was arrested by the Maharagama police on Tuesday (17).
-
-A team of officials of the Maharagama Police Station have been arrested on the basis of information received during a criminal activity in the Bodhivatta area under the Maharagama Police Division.
-
-During the investigation into the suspect, it was revealed that the suspect was involved in incidents of stolen assets and stolen property.
-
-During further investigations, police seized some of the assets stolen by the suspect.
-
-In addition, the Maharagama police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/93996dd6.json)
-
-[Extended Data](ext_articles/93996dd6.ext.json)
-
----
-
-### Fertilizer subsidies for coconut plantation owners
-
-*2024-12-18 10:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104324/fertilizer-subsidies-for-coconut-plantation-owners) · `en`
-
-Deputy Minister Samantha Vidyarathna announced plans to provide fertilizer subsidies to coconut plantation owners as a measure to resolve the prevailing coconut shortage in the country.
-
-Speaking on the matter, the Deputy Minister revealed that out of the 55,000 metric tons of fertilizer recently imported, a total of 27,500 metric tons will be allocated for coconut cultivation.
-
-“Our ministry’s coconut plantations, spanning tens of thousands of acres, have not been fertilized for five years, resulting in reduced harvests. The general public was also unable to apply fertilizer. Following a recent shipment of fertilizer, we decided in a Cabinet discussion to allocate half of it for coconut cultivation,” he explained.
-
-The Deputy Minister expressed optimism that this initiative would help resolve the crisis by the coming year.
-
-◼️
-
-[Data](articles/9c670acc.json)
-
-[Extended Data](ext_articles/9c670acc.ext.json)
-
----
-
-### Sajith Premadasa reveals educational qualifications from pre-school to university
-
-*2024-12-18 10:10:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czjdml9wvwpo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sajith Premadasa presents educational qualifications to parliament. He faces questioning about his credentials. A heated exchange occurs between Namal Rajapaksa and Wasantha Samarasinghe over tax-free limits and the assassination of Sarah Sharif.
-
-🟩
-
-Sajith Premadasa reveals educational qualifications from pre-school to university
-
-Opposition Leader Sajith Premadasa presented all its educational qualifications today (December 18) to parliament.
-
-Health and Mass Media Medical Minister Dr. Nalinda Jayatissa was questioned by the Opposition Leader Sajith Premadasa's educational qualifications.
-
-The opposition leader told parliament that today is presented all his educational qualifications today (Dec. 18) to parliament.
-
-Accordingly, Opposition Leader Sajith Premadasa presented its education suit of its education to Parliament.
-
-Meanwhile MP Namal Rajapaksa urged MP Wasantha Samarasinghe regarding the statement made by Minister Wasantha Samarasinghe in the Sri Lanka General Manager MP Namal Rajapaksa.
-
-Minister Wasantha Samarasinghe and Namal Rajapaksa had a heated exchange of words.
-
-Paye Tax: Tax free limits from the lack of Rs. '
-
-Assassination of Sarah Sharif: father and minor mother sentenced to death
-
-...
-
-[Data](articles/47912dbe.json)
-
-[Extended Data](ext_articles/47912dbe.ext.json)
-
----
-
-### Sri Lanka sees foreign outflows from govt securities for first time in 13 weeks
-
-*2024-12-18 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-outflows-from-govt-securities-for-first-time-in-13-weeks-194935/) · `en`
-
-ECONOMYNEXT – Sri Lanka witnessed foreigners selling its government securities for the first time in 13 weeks after the island nation saw foreign inflow of nearly $100 million in the previous 12 straight weeks, the Central Bank data showed.
-
-Analysts said foreign investors are worried about possible reverse in rupee appreciation amid Sri Lanka’s impending decision to relax imports.
-
-“Foreign investors have been taking risks and buying Sri Lanka government securities for the past three months because they had been expecting rupee appreciation and further reduction in the market interest rates,” a Colombo-based currency dealer told EconomyNext.
-
-Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
-
-...
-
-[Data](articles/3d8fe371.json)
-
-[Extended Data](ext_articles/3d8fe371.ext.json)
-
----
-
-### Large scale foreign employment scam uncovered
-
-*2024-12-18 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104323/large-scale-foreign-employment-scam-uncovered-) · `en`
-
-Information has been revealed regarding a financial scam falsely promising foreign employment, carried out using photographs of officials of the Sri Lanka Bureau of Foreign Employment (SLBFE).
-
-The SLBFE issued a statement, revealing that this financial scam is being carried out by creating WhatsApp links using photos of senior SLBFE officials and claiming to offer foreign employment opportunities in Israel.
-
-Several complaints have been received regarding this scam, which has been committed by misusing photos posted on the bureau’s official Facebook page.
-
-Accordingly, the Foreign Employment Bureau urges the public to be cautious and avoid falling victim to such fraudsters.
-
-The Foreign Employment Bureau further stated that any information regarding these fraudulent activities should be reported to the bureau’s hotline at 1989 or via WhatsApp at 071 759 35 93.
-
-◼️
-
-[Data](articles/ce1b744a.json)
-
-[Extended Data](ext_articles/ce1b744a.ext.json)
-
----
-
-### Ranil value Anura
-
-*2024-12-18 10:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-අනුරව-අගයයි/11-413710) · `si`
-
-Ranil Wickremesinghe supports ETCA agreement with India, recommends Anura Kumara Dissanayake. Aims to develop Trincomalee as energy-industrial zone, strengthening ties between Sri Lanka and India.
-
-🟩
-
-Former President Ranil Wickremesinghe has decided to decide on President Anura Kumara Dissanayake to determine the proposed renowned and technical cooperation agreement (ETCA) to implement Sri Lanka and Technology (ETCA).
-
-Special Statement, he said he would appreciate the decision to proceed with the agreement and declare the consent to develop the Trincomalee Energy Zone as an energy and industrial zone.
-
-Ranil Wickremesinghe says that Anura Kumara Dissanayake and the Indian Prime Minister will accept the Indian Prime Minister and the connections further strengthen ties.
-
-◼️
-
-[Data](articles/868e956a.json)
-
-[Extended Data](ext_articles/868e956a.ext.json)
-
----
-
-### Nizam Karpper is sworn in as MP
-
-*2024-12-18 10:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிசாம்-காரியப்பர்-எம்-பியாக-பதவிப்பிரமாணம்/175-348886) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Nizam Kariyapper sworn in as MP from National List of United People's Power party.
-
-🟩
-
-Nizam Kariyapper has been sworn in as a Member of Parliament from the National List of the United People's Power.
-
-◼️
-
-[Data](articles/878f61c8.json)
-
-[Extended Data](ext_articles/878f61c8.ext.json)
-
----
-
-### Shooter on the house
-
-*2024-12-18 09:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-சரமாரியாக-துப்பாக்கிச்-சூடு/175-348885) · `ta`
-
-Summarized: "Multiple shootings reported at suspected drug dealer's house in Homagama. Two men on motorcycle fled scene. Possible foreign drug lord involvement."
-
-🟩
-
-Meegoda police said that several shootings were carried out on a house allegedly belonging to a drug dealer located in the Panagoda area of ​​Homagama.
-
-Preliminary inquiries revealed that two unidentified men on a motorcycle had fled after fleeing.
-
-A top official of the Megoda Police Station said that the shooting may have been carried out under the guidance of another major drug dealer abroad.
-
-◼️
-
-[Data](articles/a31741f1.json)
-
-[Extended Data](ext_articles/a31741f1.ext.json)
-
----
-
-### Father killed in accident: daughter injured
-
-*2024-12-18 09:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-தந்தை-பலி-மகள்-படுகாயம்/94-348884) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Motorcycle-van collision kills father, injures 24-year-old daughter. Jude Niroshan (50) dies; daughter hospitalized. Accident occurred on Colombo-Chilaw road. Van, owned by state agency, veered off road and hit motorcycle.
-
-🟩
-
-The father was killed when a motorcycle and van crashed into an accident and the daughter was admitted to the hospital.
-
-Jude Niroshan (50 years old) from Bambala area died in the accident.
-
-A 24 -year -old daughter of the deceased is being treated at the Marawila Hospital with injuries.
-
-The accident took place on Tuesday afternoon when he returned home from a relative's home with her daughter near Maha Veva Nagar on the Colombo -Chilaw main road.
-
-Police said the van that was involved in the crash was owned by a particular state agency.
-
-The van driver's sleep was mixed with the van, leaving the road and hitting the motorcycle on the opposite side and crashed into the building on the side of the road.
-
-◼️
-
-[Data](articles/6e544548.json)
-
-[Extended Data](ext_articles/6e544548.ext.json)
 
 ---

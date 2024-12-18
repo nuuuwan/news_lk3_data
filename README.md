@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 01:26:47**
+As of **2024-12-19 01:43:52**
 
 ## Newspaper Stats
 
-*Scraped **60,891** Articles*
+*Scraped **60,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 618
 bbccomsinhala | 639
 islandlk | 3,680
 economynextcom | 3,711
-dailyftlk | 4,200
+dailyftlk | 4,201
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,767 (99.8%) of 60,891 articles have been extended.
+60,768 (99.8%) of 60,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Socomec forms strategic alliance with Venora Group to advance power monitoring solutions in Sri Lanka
+
+*2024-12-19 01:26:39* · [`dailyftlk`](https://www.ft.lk/business/Socomec-forms-strategic-alliance-with-Venora-Group-to-advance-power-monitoring-solutions-in-Sri-Lanka/34-770684) · `en`
+
+Socomec Greater India Regional Managing Director Meenu Singhal (left) and Boxy Director Sayuru Gunawardana with the agreement in hand
+
+Boxy Director Sayuru Gunawardana (left) and Socomec Emerging Markets General Manager Suhard Amit with the partnership plaque
+
+Venora Group of Companies Chairman and Managing Director Eng. Sagara Gunawardana (right) launching the Boxy official website
+
+Socomec, a France-based specialist in low voltage power management with over a century of expertise, has announced a strategic partnership with Boxy a subsidiary of the Venora Group—one of Sri Lanka’s leading players in Electrical Engineering and Telecommunication.
+
+This collaboration aims to strengthen power metering and monitoring solutions in the Sri Lankan market, aligning with the region’s growing focus on sustainability and efficient energy management.
+
+...
+
+[Data](articles/b7db9b09.json)
+
+[Extended Data](ext_articles/b7db9b09.ext.json)
+
+---
 
 ### Lessons from Bangladesh’s foreign power purchases
 
@@ -2439,29 +2461,5 @@ President Anura Kumara Dissanayake arrived in the parliament few months ago.
 [Data](articles/13be70cd.json)
 
 [Extended Data](ext_articles/13be70cd.ext.json)
-
----
-
-### Harsha appointed as Cobb Group Chairman
-
-*2024-12-18 11:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-குழு-தலைவராக-ஹர்ஷ-நியமனம்/175-348896) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Harsha de Silva named COPF Chairman. Jagath Wickramaratne announces appointments. Members include Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon, Lakmali Hemachandra.
-
-🟩
-
-Speaker Jagath Wickramaratne today announced that SJB MP Harsha de Silva has been appointed as the Chairman of the Public Finance Committee (COPF).
-
-Members of Parliament Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon and Lakmali Hemachandra have been appointed as members of the committee.
-
-◼️
-
-[Data](articles/108cef3a.json)
-
-[Extended Data](ext_articles/108cef3a.ext.json)
 
 ---

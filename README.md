@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 22:18:38**
+As of **2024-12-18 22:29:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,750 (99.8%) of 60,863 articles have been extended.
+60,752 (99.8%) of 60,863 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Accordingly, since the restrictions on rice imports were lifted on December 04, 
 ◼️
 
 [Data](articles/484165c1.json)
+
+[Extended Data](ext_articles/484165c1.ext.json)
 
 ---
 
@@ -78,25 +80,33 @@ The President said, "We have reached compliance with the International Monetary 
 
 ---
 
-### වනසත්ව ප්‍රශ්නයට අමෙරිකාවත් මැදිහත් වෙයි
+### US will intervene to the forest issue
 
 *2024-12-18 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204500) · `si`
 
-වනසතුන්ගෙන් සිදුවන හානි වළක්වා ගැනීම සඳහා අවශ්‍ය තාක්ෂණික සහ උපදේශක සහාය අමෙරිකාවෙන් ලබාගැනීමට රජයේ අවධානය යොමුව තිබේ.
+US intervention in forest issues: Government seeks technical support to prevent wildlife damage. Ambassador Chang discusses agricultural modernization, climate resilience, and market expansion for local farmers.
 
-අමෙරිකාවේ මෙරට තානාපති ජූලි චන්ග් මහත්මිය සහ කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ. ඩී. ලාල්කාන්ත මහතා අතර කෘෂිකර්ම අමාත්‍යාංශයේ අද (18) පැවති විශේෂ හමුවකදී මේ පිළිබඳ දීර්ඝ ලෙසින් සාකච්ඡා පවත්වා ඇත.
+🟩
 
-මීට අතරව දේශීය නිෂ්පාදන සඳහා අවශ්‍ය විදේශ වෙළෙඳපොළ සොයාගැනීම, දේශීය ගොවි සමාගම් සංකල්පය ඉදිරියට ගෙනයාමට අවශ්‍ය සහාය ලබාගැනීම සම්බන්ධයෙන්ද අවධානය යොමුකර ඇත.
+The government is focusing in the US to obtain the necessary technical and advisory support to prevent damages caused by wildlife.
 
-දෙපාර්ශ්වය අතර පැවැත් වූ මෙම සාකච්ඡාවේදී ශ්‍රී ලංකාවේ පොල්කිරි හා පොල් ආශ්‍රිත නිෂ්පාදන නවීකරණය කිරීමට අවශ්‍ය සහාය ලබාදීමට අමෙරිකාවේ එකඟතාව හිමිව තිබේ.
+Ambassador in the United States, July Chang, Agriculture, Livestock, Lands, Land and Irrigation. D. Among the Ministry of Agriculture was held at a special meeting held today (18).
 
-එමෙන්ම කාලගුණ විපර්යාස හමුවේ කෘෂිකර්මාන්තයට සිදුවන අභියෝග ඵලදායී ආකාරයෙන් කලමනාකරණය කිරීමට අවශ්‍ය තාක්ෂණික සහ උපදේශන සහාය ලබාදීමට ද චූලි චන්ග් මහත්මිය සිය කැමැත්ත පළකර ඇත.
+In the meantime, the discovery of foreign markets for local products is also focused on the support of the local farmer companies before.
 
-තවද දේශීය ගොවියාගේ ආර්ථිකය නඟාසිටුවීම සඳහා අවශ්‍ය අමෙරිකානු සහාය ලබාගත හැකි ආකාරය පිළිබඳව දීර්ඝ ලෙස සාකච්ඡා කර ඇත.
+The United States has been able to support the modernization of coconut based products in Sri Lanka at the discussion held between the two parties.
+
+Mr. Chang, also has agreed to provide technical and consultancy assistance to agriculture in the face of weather forest management.
+
+It has also discussed how to obtain American support to uplift the local farmer's economy.
+
+In addition, the focus is also focused on the help of local farmer companies and to obtain the support of Sri Lankan workers in the United States.
 
 ...
 
 [Data](articles/c796ccc8.json)
+
+[Extended Data](ext_articles/c796ccc8.ext.json)
 
 ---
 

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 15:43:20**
+As of **2024-12-18 16:42:42**
 
 ## Newspaper Stats
 
-*Scraped **60,822** Articles*
+*Scraped **60,827** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 616
-bbccomsinhala | 637
+bbccomsinhala | 638
 islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,796
+adalk | 5,799
 adaderanalk | 7,418
-tamilmirrorlk | 8,695
+tamilmirrorlk | 8,696
 virakesarilk | 10,020
 adaderanasinhalalk | 10,508
 
@@ -26,27 +26,91 @@ adaderanasinhalalk | 10,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,706 (99.8%) of 60,822 articles have been extended.
+60,715 (99.8%) of 60,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### ரம்புக்வெல்லவின் வங்கிக் கணக்குகள் இடைநிறுத்தம்
+### අධ්‍යාපන සහතික බොරුනම් සජිත් ඉල්ලා අස්වෙයි
+
+*2024-12-18 16:17:34* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-සහතික-බොරුනම්-සජිත්-ඉල්ලා-අස්වෙයි/11-413716) · `si`
+
+තම අධ්‍යාපන සුදුසුකම් සම්බන්ධයෙන් පාර්ලිමේන්තුවට ඉදිරිපත් කළ කරුණු කාරණා අසත්‍ය බව ඔප්පු කළ හොත් තමන් විපක්ෂනායක ධුරයෙන් මෙන්ම පාර්ලිමේන්තු මන්ත්‍රීධුරයෙන් ඉවත් වන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පාර්ලිමේන්තුවට සඳහන් කළේය.
+
+අමාත්‍ය නලින්ද ජයතිස්ස මහතා පාර්ලිමේන්තුවේදී ඊයේ ඉදිරිපත් කළ කරුණු සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+
+තමන් ලන්ඩන් ඕලෙවල් හා ලන්ඩන් ඒ ලෙවල් සමත්ව උපාධිය සම්පූර්ණ කළ බවත් පසුව පශ්චාත් උපාධිය හැදැරීමට කටයුතු කළත් තම පියාගේ අභාවයත් සමග එය සම්පූර්ණ කිරීමට නොහැකි වූ බවත් එ මහතා පැවැසීය.
+
+◼️
+
+[Data](articles/c409dd3c.json)
+
+---
+
+### පඩි දෙගුණයක් කර ගත්තෙත් නෑ, මහජන මුදලින් කජු කෑවෙත් නෑ
+
+*2024-12-18 16:10:57* · [`adalk`](https://www.ada.lk/breaking_news/පඩි-දෙගුණයක්-කර-ගත්තෙත්-නෑ--මහජන-මුදලින්-කජු-කෑවෙත්-නෑ/11-413715) · `si`
+
+තම පඩිය හා දීමනා දෙගුණයකින් වැඩි කරගෙන ඇති බවට ඇතැම් මාධ්‍ය පළකළ වාර්තා අසත්‍ය බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ සභාපති එස්. රාජකරුණා මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එසේම තෙල් සංස්ථාවේ අධ්‍යක්ෂවරු මහජන මුදලින් කජු ආහාරට ගත් බවටත් එම පුවත්වල වාර්තා කළ බවත් එයද අසත්‍යබව සභාපතිවරයා නිවේදනය කරයි.
+
+මේ හරහා තමාට මෙන්ම ඛනිජ තෙල් නීතිගත සංස්ථාවේද කීර්ති නාමයට බරපතල හානියක් සිදුව ඇති බවත් ඔහු පැවැසීය.
+
+මේ අනුව ඔවුන්ට එරෙහිව නීතිමය පියවර ගන්නා බවත් ඇතැම් කරුණු සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කරන බවත් ඔහු වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/0c5b1925.json)
+
+---
+
+### Namal challenged the Minister of Commerce
+
+*2024-12-18 15:45:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-அமைச்சருக்கு-சவால்-விடுத்தார்-நாமல்/175-348912) · `ta`
+
+Namal Rajapaksa challenges Minister over exam claim. He vows to resign if proven alone in exam room. Law college affected by accusations. Samarasinghe asks Namal to clarify exam details.
+
+🟩
+
+SLPP MP Namal Rajapaksa challenges today (18) if he fails to prove that I (Namal) wrote the legislative exam in the AC room alone.
+
+During the parliamentary debate, MP Namal said he would resign from the post of MP if he had proved that he had written the legislative exam in a private room.
+
+Parliamentarian Rajapaksa added, “The law college and the entire legal department are affected by the deliberate accusation.. The time has come for us to avoid such unfounded allegations. ”
+
+Meanwhile, when the final exam of the Law Degree, the MP who went to the exam hall with him. Minister Samarasinghe added that Namal Rajapaksa should clarify.
+
+◼️
+
+[Data](articles/878f871f.json)
+
+[Extended Data](ext_articles/878f871f.ext.json)
+
+---
+
+### Bank Accounts of Rambukwella
 
 *2024-12-18 15:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரம்புக்வெல்லவின்-வங்கிக்-கணக்குகள்-இடைநிறுத்தம்/175-348910) · `ta`
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் சுமார் 20 மில்லியன் ரூபாய் சேமிப்புடனான நடப்புக் கணக்கு மற்றும் நிலையான வைப்புக் கணக்கு, இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரணை செய்யும் ஆணைக்குழுவால் இடைநிறுத்தப்பட்டுள்ளது.
+Keheliya Rambukwella's bank accounts suspended over bribery allegations. Two accounts worth 20 million rupees frozen for 7 days under Prevention of Corruption Act. Additional assets of Rambukwella family members previously frozen. Colombo High Court issues 3-month suspension on private bank savings and life insurance policies worth 97.125 million rupees in Rambukwella's family members' names.
 
-ஊழல் தடுப்புச் சட்டத்தின் கீழ் விசாரணைகள் தொடர்பாக இரண்டு கணக்குகளும் ஏழு நாட்களுக்கு இடைநிறுத்தப்பட்டுள்ளதாகவும், நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் இடைநிறுத்தம் நீடிக்கப்படும் என்று எதிர்பார்க்கப்படுவதாகவும் ஆணையம் தெரிவித்துள்ளது.
+🟩
 
-இதற்கு முன்னர், ரம்புக்வெல்ல, அவரது மனைவி மற்றும் ஏனைய உறவினர்களுக்குச் சொந்தமான பல சொத்துக்கள் தொடர் விசாரணைகளின் ஒரு பகுதியாக முடக்கப்பட்டன.
+Former Health Minister Keheliya Rambukwella's about 20 million rupee storage has been suspended by the Commission to Investigate Bribery or Corruption charges.
 
-ஜூலை 5, 2024 அன்று, ரம்புக்வெல்லவின் மனைவி, மூன்று மகள்கள் மற்றும் ஒரு மருமகன் ஆகியோரின் பெயரில் இருந்த 97.125 மில்லியன் ரூபாய் பெறுமதிமிக்க தனியார் வங்கி சேமிப்புகள் , ஆயுள் காப்புறுதிக் கொள்கைகள் நிலையான வைப்பு மற்றும் காப்பீட்டுக் கொள்கைகளை கொழும்பு மேல் நீதிமன்றம் மூன்று மாதங்களுக்கு இடைநிறுத்த உத்தரவு பிறப்பித்தது.
+The Commission said the two accounts have been suspended for seven days under the Prevention of Corruption Act and the suspension is expected to be extended after being produced in court.
+
+Prior to this, many assets belonging to Rambukwella, his wife and other relatives were frozen as part of a series of investigations.
+
+On July 5, 2024, the Colombo High Court issued a three -month suspension of private bank savings, life insurance policies worth Rs 97.125 million in the name of Rambukwella's wife, three daughters and a nephew.
 
 ◼️
 
 [Data](articles/cc236240.json)
+
+[Extended Data](ext_articles/cc236240.ext.json)
 
 ---
 
@@ -83,6 +147,30 @@ President Anura Kumara Dissanayake today (18) revealed that the IMF has agreed t
 [Data](articles/93bbfd64.json)
 
 [Extended Data](ext_articles/93bbfd64.ext.json)
+
+---
+
+### New MP sworn in
+
+*2024-12-18 13:37:59* · [`adalk`](https://www.ada.lk/breaking_news/නව-මන්ත්‍රීවරයෙක්-දිවුරුම්-දෙයි/11-413714) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New MP sworn in: Reconciliation representative joins Third Parliament. After oath, Speaker signs certificate.
+
+🟩
+
+He was sworn in as a new Member of the Third Parliament in the Third Parliament, representing the reconciliation force.
+
+After the swearing in was sworn in before the Speaker, he was signed by the Secretary-General of Parliament.
+
+◼️
+
+[Data](articles/f532e50f.json)
+
+[Extended Data](ext_articles/f532e50f.ext.json)
 
 ---
 
@@ -784,15 +872,25 @@ A bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arju
 
 ---
 
-### ජනපති පාර්ලිමේන්තුවට පැමිණෙයි
+### President arrives in Parliament
 
 *2024-12-18 11:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පාර්ලිමේන්තුවට-පැමිණෙයි/11-413711) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තු සභාගර්භයට පැමිණියේය.
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake recently visited Parliament. This event marks his first appearance in the legislative body since taking office."
+
+🟩
+
+President Anura Kumara Dissanayake arrived in the parliament few months ago.
 
 ◼️
 
 [Data](articles/13be70cd.json)
+
+[Extended Data](ext_articles/13be70cd.ext.json)
 
 ---
 
@@ -820,17 +918,27 @@ Members of Parliament Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajaka
 
 ---
 
-### ජනපති පාර්ලිමේන්තුවට
+### President to Parliament
 
 *2024-12-18 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204484) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු සංකීර්ණයට පැමිණියේය.
+Here's a summary in 200 characters:
 
-ඉන්දියාවේ තෙදින නිල සංචාරයක් සඳහා එක්වූ ජනාධිපතිවරයා, ඊයේ (17) රාත්‍රියේ දිවයිනට පැමිණියේය.
+
+
+Pres. Anura Kumara Dissanayake arrives at Parliament. He's visiting India for a 3-day trip, landing last night.
+
+🟩
+
+President Anura Kumara Dissanayake arrived at the Parliament complex shortly before.
+
+The President arrived in the island last night, the President joined the three-day official visit to India.
 
 ◼️
 
 [Data](articles/1e2e8dbd.json)
+
+[Extended Data](ext_articles/1e2e8dbd.ext.json)
 
 ---
 
@@ -964,6 +1072,8 @@ Strengthening cooperation in disease control, sustainable developments, improvin
 
 [Data](articles/9c9afc60.json)
 
+[Extended Data](ext_articles/9c9afc60.ext.json)
+
 ---
 
 ### Harsha de Silva appointed COPF chairman
@@ -977,6 +1087,8 @@ The appointment was formally announced today by the Speaker of Parliament, Dr. J
 ◼️
 
 [Data](articles/3534ae20.json)
+
+[Extended Data](ext_articles/3534ae20.ext.json)
 
 ---
 
@@ -1072,6 +1184,44 @@ The Deputy Minister expressed optimism that this initiative would help resolve t
 
 ---
 
+### Sajith Premadasa reveals educational qualifications from pre-school to university
+
+*2024-12-18 10:10:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czjdml9wvwpo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sajith Premadasa presents educational qualifications to parliament. He faces questioning about his credentials. A heated exchange occurs between Namal Rajapaksa and Wasantha Samarasinghe over tax-free limits and the assassination of Sarah Sharif.
+
+🟩
+
+Sajith Premadasa reveals educational qualifications from pre-school to university
+
+Opposition Leader Sajith Premadasa presented all its educational qualifications today (December 18) to parliament.
+
+Health and Mass Media Medical Minister Dr. Nalinda Jayatissa was questioned by the Opposition Leader Sajith Premadasa's educational qualifications.
+
+The opposition leader told parliament that today is presented all his educational qualifications today (Dec. 18) to parliament.
+
+Accordingly, Opposition Leader Sajith Premadasa presented its education suit of its education to Parliament.
+
+Meanwhile MP Namal Rajapaksa urged MP Wasantha Samarasinghe regarding the statement made by Minister Wasantha Samarasinghe in the Sri Lanka General Manager MP Namal Rajapaksa.
+
+Minister Wasantha Samarasinghe and Namal Rajapaksa had a heated exchange of words.
+
+Paye Tax: Tax free limits from the lack of Rs. '
+
+Assassination of Sarah Sharif: father and minor mother sentenced to death
+
+...
+
+[Data](articles/47912dbe.json)
+
+[Extended Data](ext_articles/47912dbe.ext.json)
+
+---
+
 ### Sri Lanka sees foreign outflows from govt securities for first time in 13 weeks
 
 *2024-12-18 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-outflows-from-govt-securities-for-first-time-in-13-weeks-194935/) · `en`
@@ -1087,6 +1237,8 @@ Sri Lanka has been maintaining deflationary policies and import curbs amid decli
 ...
 
 [Data](articles/3d8fe371.json)
+
+[Extended Data](ext_articles/3d8fe371.ext.json)
 
 ---
 
@@ -2153,103 +2305,5 @@ The Hambantota Bangla Tigers were bowled out for 57 in 6.4 overs.
 [Data](articles/2817bfa3.json)
 
 [Extended Data](ext_articles/2817bfa3.ext.json)
-
----
-
-### NDB achieves unprecedented milestone as the first Sri Lankan bank certified in ISO Trio—ISO 27001:2022, ISO 22301:2019, and ISO 20000:2018
-
-*2024-12-17 23:08:00* · [`islandlk`](http://island.lk/ndb-achieves-unprecedented-milestone-as-the-first-sri-lankan-bank-certified-in-iso-trio-iso-270012022-iso-223012019-and-iso-200002018/) · `en`
-
-NDB Bank has reached an extraordinary milestone by becoming the first commercial bank in Sri Lanka to secure all three globally recognised ISO certifications: ISO 27001:2022 for Information Security, ISO 22301:2019 for Business Continuity Management, and most recently, ISO 20000:2018 for IT Service Management.
-
-The attainment of ISO 20000:2018 underscores the Bank’s commitment to operational excellence and delivering secure, resilient, and high-quality IT services that meet the evolving needs of customers and stakeholders.
-
-...
-
-[Data](articles/2696d4ce.json)
-
-[Extended Data](ext_articles/2696d4ce.ext.json)
-
----
-
-### Sampath Bank partners with Cybersource from Visa to enhance digital payment solutions for businesses
-
-*2024-12-17 23:08:00* · [`islandlk`](http://island.lk/sampath-bank-partners-with-cybersource-from-visa-to-enhance-digital-payment-solutions-for-businesses/) · `en`
-
-Sampath Bank announces its successful integration with the payment gateway Cybersource, further strengthening its position as a leader in digital banking. Through this partnership, Sampath Bank is committed to offering seamless payment solutions to businesses that unlock opportunities for growth and success. This integration with Cybersource, a Visa solution, enhances secure, user-friendly transactions while equipping merchants with advanced fraud management tools, detailed reporting capabilities and adaptable payment processes tailored to their unique needs.
-
-...
-
-[Data](articles/cc9e0fe5.json)
-
-[Extended Data](ext_articles/cc9e0fe5.ext.json)
-
----
-
-### Kandy Boltz joined the last team in the Sri Lanka R10 Super League Play Ove round
-
-*2024-12-17 23:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201539) · `ta`
-
-Kandy Boltz qualifies for playout round, beating Nuwara Eliya Kings by 5 runs. Kandy Boltz scored 111/9 in 10 overs, led by Beth and Nissanka's 41. Nuwara Eliya lost 106/5, Gayle Mayers scoring 36 off 15 balls.
-
-🟩
-
-The Kandy Boltz team qualified for the playout round by 5 runs against the Nuwara Eliya Kings in the Pallekele International Cricket Stadium on Tuesday (17).
-
-Kandy Boltz, who decided to bat first in the match, scored 111 runs for the loss of 9 wickets in 10 overs.
-
-Beth and Nissanka scored 41 runs, Shehan Jayasuriya 33 and Dinesh Chandimal scored 13 runs.
-
-Kasun Rajitha took 4 wickets for 16 runs and Lahiru Madushank 2 wickets for 9 runs.
-
-In reply, Nuwara Eliya Kings lost 5 wickets in 10 overs and lost 106 runs.
-
-Gayle Mayers and Avishka Fernando played a stunning bats and shared 42 runs off 21 balls.
-
-The Nuwara Eliya Kings team was out of the way after Kill Mayers lost 15 balls with a pound of 36 and 5 sixes.
-
-5 wickets and 31 runs fell by Nuwara Eliya Kings.
-
-On the one hand, Avishka Fernando faced 26 balls and loses 50 runs, including 3 pounds and 4 sixes.
-
-But he was unable to stop qualifying for the Kandy Bolts team.
-
-...
-
-[Data](articles/49d0e38e.json)
-
-[Extended Data](ext_articles/49d0e38e.ext.json)
-
----
-
-### HNB General Insurance secures top honors at SLIM National Sales Awards 2024
-
-*2024-12-17 23:05:00* · [`islandlk`](http://island.lk/hnb-general-insurance-secures-top-honors-at-slim-national-sales-awards-2024/) · `en`
-
-HNB General Insurance (HNBGI) demonstrated its excellence by securing three prestigious awards at the National Sales Awards 2024, organized by the Sri Lanka Institute of Marketing (SLIM). This premier event is the pinnacle of recognition for sales professionals across industries in Sri Lanka.
-
-Reflecting HNBGI’s exceptional sales achievements during the 2023–24 period, the company’s Channel Development Manager, Danidu T. Galappaththi, clinched the coveted Silver Award under the National Sales Manager category. Danidu’s multifaceted contributions have been instrumental in driving HNBGI’s sales success. His leadership encompassed managing a dynamic sales team to achieve enhanced performance, leveraging innovative technologies, and adopting strategies such as product diversification and bundling to penetrate new market segments.
-
-...
-
-[Data](articles/d1b767e8.json)
-
-[Extended Data](ext_articles/d1b767e8.ext.json)
-
----
-
-### Thyaga’s ‘Dading, Biding, Gifting’ campaign
-
-*2024-12-17 23:05:00* · [`islandlk`](http://island.lk/thyagas-dading-biding-gifting-campaign/) · `en`
-
-Sri Lanka’s leading gifting platform, Thyaga has launched the “Dading, Biding, Gifting” campaign, just in time for the festive season. The initiative aims to address the challenge of finding the perfect gift by providing flexibility and personalization through Thyaga Gift Vouchers.
-
-Gift recipients are spoiled for choice with access to a wide network of over 150 leading merchants offering thousands of products and services. From daily essentials to luxury items, the vouchers ensure flexibility by allowing partial redemption across multiple merchants and transactions. Every rupee of the voucher’s value goes directly to the recipient, free from additional fees or charges.
-
-Thyaga offers effortless gifting for personal and corporate needs. Over 300 top Sri Lankan companies use its physical and virtual vouchers. Instant access, customization options, personal messages, and elegant packaging ensure a seamless and meaningful experience, making each gift feel special for both giver and receiver.
-
-...
-
-[Data](articles/ddcfc655.json)
 
 ---

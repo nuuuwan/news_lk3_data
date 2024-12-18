@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 14:43:06**
+As of **2024-12-18 15:02:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,696 (99.8%) of 60,820 articles have been extended.
+60,699 (99.8%) of 60,820 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,17 +234,27 @@ Currently, five children are married and live in separate houses and only elderl
 
 ---
 
-### පෙබරවාරියේ සිට වාහන ආනයනයට අවසර ලැබෙයි
+### Import of vehicles from February will be allowed
 
 *2024-12-18 13:03:17* · [`adalk`](https://www.ada.lk/breaking_news/පෙබරවාරියේ-සිට-වාහන-ආනයනයට-අවසර-ලැබෙයි/11-413712) · `si`
 
-පෞද්ගලික පරිහරණය සඳහා මෝටර් රථ ආනයනය ලබන පෙබරවාරි පළවෙනිදා සිට ක්‍රියාත්මක කරන්නට යොජනා කර තිබෙන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද ( 18) පාර්ලිමේන්තුවේදී පැවසීය.
+Here's a summary of 200 characters:
 
-මහබැංකුව  සමග දීර්ඝ සාකච්ඡාවකින් අනතුරුව ඒ පිළිබඳව අවබෝධයෙන් සිදුකරන බවද ජනාධිපතිවරයා වැඩිදුරටත් පැවසීය.
+
+
+Car imports resume Feb 18: President Anura Kumara Dissanayake announces private vehicle imports will restart on February 18 after discussions with the Central Bank.
+
+🟩
+
+President Anura Kumara Dissanayake said in parliament today that the importation of cars for private use has been proposed to be implemented on February 18.
+
+The President added that after a lengthy discussion with the Central Bank, the President added.
 
 ◼️
 
 [Data](articles/0bfb9cf7.json)
+
+[Extended Data](ext_articles/0bfb9cf7.ext.json)
 
 ---
 
@@ -300,23 +310,31 @@ He said it was also agreed to increase the Withholding Tax from 5% to 10%.
 
 [Data](articles/840e6dcf.json)
 
+[Extended Data](ext_articles/840e6dcf.ext.json)
+
 ---
 
-### පෙබරවාරි 01 සිට පෞද්ගලික පරිහරණය සඳහා වාහන ආනයනයට ඉඩ
+### Vehicle imported for private use from February 01
 
 *2024-12-18 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204488) · `si`
 
-2025 වර්ෂයේ පෙබරවාරි 01 සිට පෞද්ගලික පරිහරණය සඳහා වාහන ආනයනයට අවස්ථාව සැලසීමට රජය සැලසුම් කර ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) පැවසීය.
+Sri Lanka to lift vehicle import restrictions for private use starting Feb 1, 2025, says President Anura Kumara Dissanayake. Government aims to boost economy by opening market to cars and passenger buses.
 
-එහිදී ජනාධිපතිවරයා පැවසුවේ ශ්‍රී ලංකාවේ වාහන ආනයනයට පනවා ඇති සීමා ක්‍රමානුකූලව විවෘත කළ යුතු බවයි.
+🟩
 
-"එයත් එක්ක ගොඩනැගුන කර්මාන්තයක් තියෙනවා. ව්‍යවසායකයින් ඉන්නවා. ඒ නිසා දීර්ඝ කාලයක් මෙම වාහන වෙළෙඳපොළ වසාගෙන සිටීමේ හැකියාවක් නෑ."
+President Anura Kumara Dissanayake said that the government plans to import vehicles to import vehicles for personal use from February 01, March 01.
 
-ඒ අනුව කාණ්ඩ තුනකින් වාහන ආනයනයට අවසර දීමට රජය සැලසුම් කර ඇති බව ජනපතිවරයා පැවසීය.
+The President said the restrictions on importation of vehicles in Sri Lanka should be effectively opened.
+
+"There is a building built with him. There are entrepreneurs. Therefore, this vehicle cannot cover the market for a long time. "
+
+Accordingly, the government has planned to be permitted to import vehicles in three categories.
 
 ...
 
 [Data](articles/222c6866.json)
+
+[Extended Data](ext_articles/222c6866.ext.json)
 
 ---
 

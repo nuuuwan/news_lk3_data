@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 12:17:55**
+As of **2024-12-18 12:43:25**
 
 ## Newspaper Stats
 
-*Scraped **60,796** Articles*
+*Scraped **60,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,77 +18,189 @@ dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,793
 adaderanalk | 7,412
-tamilmirrorlk | 8,688
-virakesarilk | 10,018
-adaderanasinhalalk | 10,503
+tamilmirrorlk | 8,689
+virakesarilk | 10,019
+adaderanasinhalalk | 10,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,678 (99.8%) of 60,796 articles have been extended.
+60,682 (99.8%) of 60,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### அரசாங்க நிதி பற்றிய குழுவின் தலைவராக ஹர்ஷ டி சில்வா நியமனம்
+### வாகன இறக்குமதிக்கான அனுமதி மூன்று வழிமுறைகளில் வழங்கப்படும் : ஜனாதிபதி
 
-*2024-12-18 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201556) · `ta`
+*2024-12-18 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201564) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா அரசாங்க நிதி பற்றிய குழுவின் தலைவராக நியமிக்கப்பட்டுள்ளார்.
+வாகன இறக்குமதிக்கான அனுமதி மூன்று வழிமுறைகளில் வழங்கப்படுமென ஜனாதிபதி அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
 
-அத்துடன் ஹர்ஷன சூரியப்பெரும, ரவி கருணாநாயக்க, ஹர்ஷன ராஜகருணா, நிமல் பலிஹேன, விஜேசிறி பஸ்நாயக்க, திலின சமரகோன் மற்றும் லக்மாலி ஹேமச்சந்திர ஆகியோர் குழுவின் ஏனைய உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளனர்.
+பாராளுமன்றில் இன்று புதன்கிழமை (18) உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+2022 மற்றும் 2023 ஆம் ஆண்டு கால சூழல் இனியொருபோதும் தோற்றம் பெறாது என்றும் 2025 ஆம் ஆண்டு முதல் உழைக்கும் போது செலுத்தும் வரி திருத்தம் செய்யப்படும் என்றும் ஜனாதிபதி குறிப்பிட்டார்.
+
+சேவை ஏற்றுமதி மீதான வரி 15 சதவீதமாக அமுல்படுத்தப்படும் என்றும் தெரிவித்த ஜனாதிபதி, குறைந்த வருமானம் பெறுவோர் மீது புதிய வரிகளை விதிக்கும் நோக்கம் கிடையாது என்றும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/fd262bd6.json)
+
+---
+
+### Nizam Kariyapper is the Member of Parliament for the National List
+
+*2024-12-18 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201550) · `ta`
+
+Nizam Kariyapper sworn in as National List MP for United People's Power on 18th.
+
+🟩
+
+Nizam Kariyapar was sworn in as the National List MP of the United People's Power today (18).
+
+◼️
+
+[Data](articles/7a5f65bf.json)
+
+[Extended Data](ext_articles/7a5f65bf.ext.json)
+
+---
+
+### PAYE tax වෙනස් වෙන්නේ මෙහෙමයි
+
+*2024-12-18 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204487) · `si`
+
+උපයන විට බදු සීමාව මසකට රුපියල් 100,000 සිට රුපියල් 150,000 දක්වා වැඩි කිරීමට IMF සමග එකඟතාවයකට පැමිණි බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (18) පාර්ලිමේන්තුවේදී පැවසීය.
+
+"තුන්වෙනි සමාලෝචනය පටන් ගන්නකොට අපේ යෝජනාවන් වුණේ වෘත්තීයවේදීන් මත පනවා තිබූ උපයනවිට ගෙවන බද්ද පිළිබඳව.
+
+"අපි නැවත සාකච්ඡා ආරම්භ කළා. බද්ද පනවන සීමාව ලක්ෂයකට උඩ. අපි එය 150,000 දක්වා වැඩි කරගන්න සමත් වුණා."
+
+"ඒ වගේම 6%ක බද්දකට යටත් වනපරිදි පුද්ගලික ආදායම් බද්දේ 1 වන කාණ්ඩය රු 500,000 සිට රු ලක්ෂ 10 දක්වා සංශෝධනය ලබාගන්න අපි සමත් වුණා."
+
+"ඒ අනුව 150,000ක් මාසෙකට වැටුපක් ගන්න කෙනෙකුගේ බදු 100%ක් නිදහස්. රු 200,000ක් වැටුපක් ගන්න කෙනෙකුගේ බද්ද 71%කින් නිදහස්."
+
+"වැඩි ආදායම් ලබාගන්නා අයට අඩු සහනයකුත් අඩු ආදායමක් ගන්නා අයට වැඩි සහනයකුත් ලෙස අපි උපයනවිට ගෙවන බද්ද සංශෝධනය කරගන්න සමත් වුණා."
+
+◼️
+
+[Data](articles/bf55a2e6.json)
+
+---
+
+### Harsha de Silva appointed as the Chairman of the Committee on Government Fund
+
+*2024-12-18 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201556) · `ta`
+
+Harsha de Silva named Chairman of Government Fund Committee. Members: Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon, Lakmali Hemachandra.
+
+🟩
+
+United People's Power Member Harsha de Silva has been appointed as the Chairman of the Government Fund Committee.
+
+The other members of the group have been appointed as Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon and Lakmali Hemachandra.
 
 ◼️
 
 [Data](articles/06833c0a.json)
 
+[Extended Data](ext_articles/06833c0a.ext.json)
+
 ---
 
-### தரம் 5 பரீட்சை விவகாரம்;உயர் நீதிமன்றத்தின் உத்தரவு
+### முகநூல் காதல் ; நண்பியின் வீட்டிற்கு சென்ற சிறுமி வன்புணர்வு
+
+*2024-12-18 12:11:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/முகநூல்-காதல்-நண்பியின்-வீட்டிற்கு-சென்ற-சிறுமி-வன்புணர்வு/76-348903) · `ta`
+
+முகநூல் ஊடாக  அறிந்துக்கொண்ட 17 வயதுடைய சிறுமியை பாலியல் பலாத்காரம் செய்த இளைஞன் புத்தல பொலிஸாரால்  செவ்வாய்க்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+
+புத்தல பிரதேசத்தை சேர்ந்த 17 வயதுடைய சிறுமி ஒருவர்  படல்கும்புரை பிரதேசத்தை சேர்ந்த 19 வயதுடைய இளைஞனை கடந்த ஒரு மாதத்திற்கு முன்னர் முகநூல் ஊடாக  அறிந்துக்கொண்டு அவருடன் காதல் உறவில் ஈடுபட்டுள்ளார்.
+
+குறித்த சிறுமி கடந்த 16ம் திகதி தனது நண்பியின் வீட்டிற்கு சென்ற நிலையில் காதலனையும் சந்தித்துள்ளார். அதன் பின்னர்,குறித்த இளைஞன், சிறுமியை வீட்டில் விடுவதாக கூறி முச்சக்கர வண்டியில் ஏற்றிச் செல்லும் போது, ​​புத்தல வீதியில் உள்ள தேக்குமரக்காட்டுக்கு அருகில் முச்சக்கர வண்டியை நிறுத்தி வலுக்கட்டாயமாக சிறுமியை பாலியல் பலாத்காரம் செய்துள்ளார்.
+
+இது தொடர்பில் குறித்த சிறுமி தாய், தந்தையிடம் தெரிவித்ததையடுத்து அவர்கள் பொலிஸ் நிலையத்தில் செய்த முறைப்பாட்டிற்கு பின்னர் சந்தேக நபர் கைது செய்யப்பட்டுள்ளதுடன்   சிறுமி வைத்திய பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/32d360c1.json)
+
+---
+
+### Grade 5 Examination Affairs; order of the High Court
 
 *2024-12-18 12:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றத்தின்-உத்தரவு/175-348902) · `ta`
 
-2024 தரம் 05 புலமைப்பரிசில் பரீட்சையின் வினாக்கள் கசிந்தமை குறித்த விசாரணைகள் தொடர்பான விரிவான அறிக்கையை சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுத் திணைக்களத்திற்கு (CID) இலங்கை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Here's a summary of 200 characters:
 
-விசாரணைகள் தொடர்பான விரிவான அறிக்கையை நாளை (டிசம்பர் 19) காலை 09.00 மணிக்குள் சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+
+CID ordered to investigate 2024 Grade 05 Scholarship Exam leak. Court demands detailed report by Dec 19, 9 AM.
+
+🟩
+
+The Criminal Investigation Department (CID) has ordered the Criminal Investigation Department (CID) to submit a detailed report on investigations into the leak of the 2024 Grade 05 Scholarship Examination.
+
+The court has ordered the Criminal Investigation Department to submit a detailed report on the investigation tomorrow (December 19) by 09.00 am.
 
 ◼️
 
 [Data](articles/f06af9e3.json)
 
+[Extended Data](ext_articles/f06af9e3.ext.json)
+
 ---
 
-### ஜனாதிபதி மாளிகையை இடமாற்றும் திட்டம் ஒத்திவைப்பு
+### Postponement plan to relocate presidential palace
 
 *2024-12-18 12:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாளிகையை-இடமாற்றும்-திட்டம்-ஒத்திவைப்பு/175-348901) · `ta`
 
-ஜனாதிபதி மாளிகை, அலரிமாளிகை, பிரதமர் அலுவலகம் மற்றும் ஜனாதிபதி செயலகம் ஆகியவற்றை ஸ்ரீ ஜயவர்தனபுர கோட்டைக்கு மாற்றும் திட்டத்தை தேசிய மக்கள் சக்தி தலைமையிலான புதிய அரசாங்கம் கிடப்பில் போட்டுள்ளதாக தெரிய வருகிறது.
+Here's a summary of 200 characters:
 
-கடந்த அரசாங்கம் இந்த அலுவலகங்களை இடமாற்றம் செய்ய திட்டமிட்டதுடன், இதன் மூலம் அவற்றின் தற்போதைய கட்டிடங்கள் கொழும்பு பாரம்பரிய கட்டிடங்களாக சுற்றுலாத்துறைக்காக அபிவிருத்தி செய்யப்படுவதற்காக எத்தனிக்கப்பட்டது. கடந்த அரசாங்கம் 2025 ஆம் ஆண்டு வரவு-செலவுத் திட்டத்தில் இத்திட்டத்தை நிறைவேற்றுவதற்கு நிதி ஒதுக்கீடு செய்ய திட்டமிட்டிருந்தது.
 
-எவ்வாறாயினும், இந்த திட்டம் தற்போதைய அரசாங்கத்தால் கிடப்பில் போடப்பட்டுள்ளதாகவும், அவற்றைப் பயன்படுத்துவதற்கான மாற்றுத் திட்டம் குறித்து இன்னும் இறுதி முடிவு எடுக்கப்படவில்லை என்றும் நகர அபிவிருத்தி அமைச்சின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+New government delays relocating presidential palace. Previous plan was to move to Sri Jayawardenapura Fort. Current status uncertain. Old government intended to develop current buildings for tourism. New government focuses on other projects like postal building in Nuwara Eliya.
+
+🟩
+
+The new government led by the National People's Power is reportedly launching a plan to transfer the President's House, the Allaimalai, the Prime Minister's Office and the Presidential Secretariat to Sri Jayawardenapura Fort.
+
+The last government has planned to relocate these offices and thereby develop their current buildings for tourism as traditional buildings in Colombo.. The last government was planning to allocate funds to implement the project in the 2025 budget.
+
+However, a top official of the Ministry of Urban Development said that the project has been left by the current government and has not yet taken a final decision on the alternative plan for using them.
 
 ...
 
 [Data](articles/edb78f47.json)
 
+[Extended Data](ext_articles/edb78f47.ext.json)
+
 ---
 
-### මතක තියාගන්න 2028දී තියෙන්නෙත් අපේ ආණ්ඩුව - ජනපති
+### Remember, our government is in 2028 - President
 
 *2024-12-18 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204486) · `si`
 
-2028 වන විට විදෙස් සංචිත ඩොලර් බිලියන 15.1 දක්වා වර්ධනය කර ගැනීම ආණ්ඩුවේ අභිප්‍රාය වන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a summary of 200 characters:
 
-පාර්ලිමේන්තු සභාගර්භයට පැමිණි ජනාධිපතිවරයා විශේෂ ප්‍රකාශයක් සිදුකරමින් පවසා සිටියේ, 2028 වසරේ පවතින්නේ ද තම ආණ්ඩුවක් බවය.
 
-එමෙන්ම යළි කිසිදිනක 2022 පැවති තත්ත්වය රට තුළ යළි ඇති නොවෙනු ඇති බව ද ජනාධිපතිවරයා දැඩි විශ්වාසයෙන් මෙහිදී පැවසීය.
+
+In 2028, President Anura Kumara Dissanayake aims to boost foreign reserves to $15.1 billion. He vows to prevent economic collapse, emphasizing stability and growth.
+
+🟩
+
+President Anura Kumara Dissanayake says that by the government's intent to increase the foreign reserves to US $ 15.1 billion.
+
+The President made a special statement from the parliamentary coalition, said that 2028 would last year.
+
+He strongly stated that the country will never again have to be resurrected in the country.
 
 ◼️
 
 [Data](articles/7b6f1846.json)
+
+[Extended Data](ext_articles/7b6f1846.ext.json)
 
 ---
 
@@ -445,24 +557,6 @@ The Deputy Minister expressed optimism that this initiative would help resolve t
 [Data](articles/9c670acc.json)
 
 [Extended Data](ext_articles/9c670acc.ext.json)
-
----
-
-### Nizam Kariyapper is the Member of Parliament for the National List
-
-*2024-12-18 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201550) · `ta`
-
-Nizam Kariyapper sworn in as National List MP for United People's Power on 18th.
-
-🟩
-
-Nizam Kariyapar was sworn in as the National List MP of the United People's Power today (18).
-
-◼️
-
-[Data](articles/7a5f65bf.json)
-
-[Extended Data](ext_articles/7a5f65bf.ext.json)
 
 ---
 
@@ -2147,83 +2241,5 @@ During the protest, the police attacked the police and violently arrested the au
 [Data](articles/41786c54.json)
 
 [Extended Data](ext_articles/41786c54.ext.json)
-
----
-
-### China's ACWF Vice President meets with Sri Lankan Prime Minister
-
-*2024-12-17 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201531) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Chinese ACWF VP Sang Tongmey meets Sri Lankan PM Harini Amarasuriya. Discusses women's empowerment, health, education, and economic participation. China shares advancements in women's employment and representation.
-
-🟩
-
-Vice President of the All Chinese Women's Federation (ACWF), Mrs. Sang Tongmey, met Prime Minister Harini Amarasuriya at the Prime Minister's Office and discussed mutual efforts on women's reinforcement and development.
-
-Prime Minister Dr. Amarasuriya welcomed Mrs. Sang Tongmey and her delegation and praised the lasting friendship between Sri Lanka and China. This discussion focused on the challenges and opportunities shared in women's health, education and economic participation. Mrs. Chang Tongmey explained China's advances, including the involvement of women's employment and the increase in lower level representation.
-
-...
-
-[Data](articles/f77f2fae.json)
-
-[Extended Data](ext_articles/f77f2fae.ext.json)
-
----
-
-### How to release the name of the name of the cremators who died in a kovit
-
-*2024-12-17 19:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201525) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Health Minister Nalinda Jayatissa refuses to release names of cremators who died from COVID-19, citing medical ethics. Opposition member Rauf Hakeem questions this decision, arguing it's crucial information for transparency.
-
-🟩
-
-There is no place for medical ethics to publish details. Health Minister Nalinda Jayatissa said that all could not be released.
-
-He was responding to a question asked by Opposition member Rauf Hakeem during the Question Time on Tuesday (17) in Parliament.
-
-In his question, Rauf Hakeem said, "What is the number of cremations burned in accordance with the government's decision to create the bodies of the victims of the Kovit 19 virus?"
-
-Responding to a question asked if the name, gender, race, religion of every person who died, the name, address, body of the body, the date of cremation and the place of cremation could be reported separately.
-
-13183 people have been cremated in the death of Kovit. However, the name, gender, ethnicity, religion, the name, address, body cremation date and location are unable to publish information.. This is because these issues cannot be revealed in accordance with the Basic Ethics of the Information Act No. 12, 2016.
-
-...
-
-[Data](articles/8a37f274.json)
-
-[Extended Data](ext_articles/8a37f274.ext.json)
-
----
-
-### “Make it up until corrected”
-
-*2024-12-17 19:01:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருத்தப்படும்-வரை-முடக்கி-வைக்கவும்/175-348856) · `ta`
-
-"Justice Minister calls for suspension of parliamentary website due to incorrect data. He urges officials to correct all errors before reopening."
-
-🟩
-
-Justice Minister Harshana Nanayakkara today called on the parliamentary website to suspend the website until the wrong data on parliamentary members is amended.
-
-The Minister said in Parliament that the details of a large number of parliamentarians have been incorrectly uploaded on the parliamentary website.
-
-He said that the details of the parliamentary website could be recreated for ten years, and the parliamentary website should be maintained properly so that MPs are not embarrassed.
-
-“I urge the office of the General Secretary to reopen the parliamentary website, rectify the errors and rectify 100 percent errors,” he said.
-
-◼️
-
-[Data](articles/fe18f41b.json)
-
-[Extended Data](ext_articles/fe18f41b.ext.json)
 
 ---

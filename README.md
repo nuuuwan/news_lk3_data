@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 15:02:04**
+As of **2024-12-18 15:13:59**
 
 ## Newspaper Stats
 
-*Scraped **60,820** Articles*
+*Scraped **60,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,795
+adalk | 5,796
 adaderanalk | 7,418
 tamilmirrorlk | 8,694
 virakesarilk | 10,020
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,699 (99.8%) of 60,820 articles have been extended.
+60,700 (99.8%) of 60,821 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,20 @@ President Anura Dissanayake said in Parliament today (18)
 [Data](articles/e0db067b.json)
 
 [Extended Data](ext_articles/e0db067b.ext.json)
+
+---
+
+### රට පාවාදෙන කිසිදු ගිවිසුමක් අත්සන් කරලා නෑ
+
+*2024-12-18 13:24:29* · [`adalk`](https://www.ada.lk/breaking_news/රට-පාවාදෙන-කිසිදු-ගිවිසුමක්-අත්සන්-කරලා-නෑ/11-413713) · `si`
+
+කිසිදු ආකාරයකට රට පාවාදෙන කිසිදු ගිවිසුමක් වත්මන් ආණ්ඩුව ඉන්දියාව සමග අත්සන් කර නොමැති බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේදී අද (18දා) ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සදහන් කළේය.
+
+◼️
+
+[Data](articles/70553e5e.json)
 
 ---
 
@@ -381,6 +395,8 @@ The country’s Christian community had shrunk dramatically, having been targete
 ...
 
 [Data](articles/1c6ccc00.json)
+
+[Extended Data](ext_articles/1c6ccc00.ext.json)
 
 ---
 
@@ -2201,21 +2217,5 @@ Amid those developments both indices moved upwards. All Share Price Index up by 
 ...
 
 [Data](articles/24002fd2.json)
-
----
-
-### Union Bank rings in the season with Christmas Carols
-
-*2024-12-17 23:01:00* · [`islandlk`](http://island.lk/union-bank-rings-in-the-season-with-christmas-carols/) · `en`
-
-Ushering in the festive season Union Bank held its annual Christmas Carols at the St Andrew’s Scots Kirk church. The festive evening brought the Union Bank staff and their families together for a joyous occasion of fellowship and a cheerful rendition of carols.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/1b96097a.json)
 
 ---

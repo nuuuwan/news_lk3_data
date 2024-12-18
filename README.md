@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 00:18:11**
+As of **2024-12-19 00:59:50**
 
 ## Newspaper Stats
 
-*Scraped **60,889** Articles*
+*Scraped **60,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 618
 bbccomsinhala | 639
 islandlk | 3,680
 economynextcom | 3,711
-dailyftlk | 4,198
+dailyftlk | 4,200
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
@@ -26,29 +26,73 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,761 (99.8%) of 60,889 articles have been extended.
+60,764 (99.8%) of 60,891 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-19 (Thursday)
+
+### Lessons from Bangladesh’s foreign power purchases
+
+*2024-12-19 00:31:20* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-from-Bangladesh-s-foreign-power-purchases/4-770675) · `en`
+
+Why are these countries scrambling for dollars to pay for essential electricity?
+
+The core question all energy-importing countries face is dependence. Modern societies cannot function without electricity. The cost of not having electricity is almost always higher than even the cost of buying emergency power. How can a government allow such matters to be controlled by foreign companies or governments?
+
+“Did you hear that Adani is refusing to supply Bangladesh with electricity?” a friend asked me recently. I knew it was a loaded question, my friend being a nationalist. “You recall we had no power because we couldn’t pay for shiploads of fuel and coal just a few years back?” I asked back.
+
+...
+
+[Data](articles/352b4caf.json)
+
+[Extended Data](ext_articles/352b4caf.ext.json)
+
+---
+
+### AKD’s Delhi success, ‘end of crisis’ announcement, axial Anuranomics shift
+
+*2024-12-19 00:19:55* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-Delhi-success-end-of-crisis-announcement-axial-Anuranomics-shift/4-770673) · `en`
+
+“Today we open a new chapter of our history and turn the page
+
+President Anura Kumara Dissanayake’s rise to the top bears some resemblance to that of Prime Minister Narendra Modi. His Indian visit was a triumph for him, and overall, a win for Sri Lanka.
+
+He thanked India fulsomely for its economic support, arrived at convergence on a number of economic initiatives, and tabled some others. Sadly, he couldn’t secure a commitment on the piratical incursions by Indian fishermen. Connectivity of electric grids and building a pipeline are to “continue to be considered” but Anura didn’t sign-off on these projects which would ensure a dangerous, vulnerable dependence.
+
+...
+
+[Data](articles/e6e77174.json)
+
+---
+
 ### 2024-12-18 (Wednesday)
 
-### லங்கா ரி10 சுப்பர் லீக் இறுதிப் போட்டியில் ஜெவ்னா டைட்டன்ஸை எதிர்த்தாட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் தகுதிபெற்றது
+### Hambantota Bangla Tigers qualified to oppose Jevna Titans in the Lanka R10 Super League final
 
 *2024-12-18 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/201612) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (19) நடைபெறவுள்ள அங்கரார்ப்பண லங்கா ரி10 சுப்பர் லீக் இறுதிப் போட்டியில் ஜெவ்னா டைட்டன்ஸ் அணியை எதிர்த்தாட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணி தகுதிபெற்றுக்கொண்டது.
+Hambantota Bangla Tigers qualify for Lanka R10 Super League final against Jevna Titans on Thursday at Pallekel International Cricket Stadium. They won the second qualifying match by 4 wickets, while Goal Marwals won the first qualifying match. Key performances include Moin Subasinghe's 32 runs, Lahiru Udara and Shakib Al Hasan's 12 runs each, and Dasun Shanaka's 47 runs.
 
-முதலாவது தகுதிகாண் போட்டியில் தோல்வி  அடைந்த ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணியும் நீக்கல் போட்டியில் வெற்றிபெற்ற கோல் மார்வல்ஸ் அணியும் சற்று நேரத்துக்கு முன்னர் நிறைவுபெற்ற இரண்டாவது தகுதிகாண் போட்டியில் மோதியதில் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணி 4 விக்கெட்களால் வெற்றிபெற்று இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் அணி 10 ஓவர்களில் 9 விக்கெட்களை இழந்து 90 ஓட்டங்களைப் பெற்றது.
+Hambantota Bangla Tigers qualified to oppose Jevna Titans in the final of the Angarapana Lanka R10 Super League final to be held on Thursday (19) at the Pallekel International Cricket Stadium in Kandy.
 
-கோல் மார்வல்ஸ் அணியின் ஆரம்பம் சிறப்பாக அமையவில்லை. முதல் 3 வீரர்கள் களம் விட்டு வெளியேறியிருந்தபோது அதன் மொத்த எண்ணிக்கை 23 ஓட்டங்களாக இருந்தது.
+Hambantota Bangla Tigers won the match by 4 wickets in the second qualifying match and the Goal Marwals won the first qualifying match and the winning match of the first qualifying match.
 
-எனினும் அடுத்த நான்கு துடுப்பாட்ட வீரர்களும் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்று அணியை கௌரவமான நிலையில் இட்டனர்.
+The Goal Marwals team, who was first invited to bat first in the upting match, scored 90 runs for the loss of 9 wickets in 10 overs.
+
+The start of the goal Marvels team is not better. The total number was 23 runs when the first 3 players left the field.
+
+However, the next four batsmen got the double -digit number and set the team in honor.
+
+Moin Subasinghe scored 32 runs without losing, Lahiru Udara and Shakib Al Hasan scored 12 runs and Samindu Wickremasinghe 11 runs.
 
 ...
 
 [Data](articles/d94199a6.json)
+
+[Extended Data](ext_articles/d94199a6.ext.json)
 
 ---
 
@@ -104,19 +148,33 @@ Jaffna so far. It is noteworthy that 7 deaths due to the disease in the district
 
 ---
 
-### அமைச்சரவை அமைச்சர்களின் கல்வித் தகைமையை பகிரங்கப்படுத்துங்கள் - எதிர்க்கட்சி ஆளும் தரப்புக்கு சவால்
+### Publicity of Cabinet Ministers's educational qualification - challenge to the ruling party of the opposition
 
 *2024-12-18 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201595) · `ta`
 
-எதிர்க்கட்சியின் உறுப்பினர் அஜித் பி. பெரேரா உயர் சட்டத்தரணி என்ற பதத்தை பயன்படுத்துவது சட்டவிரோதமானது இலங்கை நீதி கட்டமைப்பில் அவ்வாறானதொரு பதவி கிடையாது என நீதியமைச்சர் ஹர்ஷ நாணயக்கார குறிப்பிட்ட கருத்துக்கு அஜித் பி.பெரேரா கடும் எதிர்ப்பை வெளிப்படுத்தினார்.
+Here's a summary of the text in approximately 200 characters:
 
-இல்லாத கலாநிதி பட்டத்தை பயன்படுத்தியவர்கள் உண்மை வெளிப்படும் என்ற அச்சத்தில் பாராளுமன்றத்துக்கு அறிவித்து விட்டு சுயவிபரக் கோவையில் இருந்து கலாநிதி பட்டத்தை நீக்கியுள்ளார்கள். இவர்களின் செயற்பாடு வெட்ககேடானது என அஜித் பி. பெரேரா கடுமையாக சாடியதை தொடர்ந்து ஆளும் மற்றும் எதிர்க்கட்சி உறுப்பினர்களுக்கிடையில் கடும் தர்க்கம் நிலவியுள்ளது.
 
-பாராளுமன்றத்தில் புதன்கிழமை (18)  நடைபெற்ற பாடசாலை மாணவர்களுக்கான காகிதாதிகளுக்கான குறை நிரப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றிய ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி. பெரேரா,
+
+Opposition MP Ajith B. Perera denies being "high lawyer" despite Justice Minister's claims. Perera accuses minister of lying about his qualifications. Ruling and opposition engage in heated debate over cabinet ministers' educational backgrounds.
+
+🟩
+
+Opposition member Ajith B. Ajith P. Perera expressed strong opposition to the notion that Perera's high lawyer is illegal.
+
+Those who have not used the degree in the absence of the degree have been removed from the Profile Kovil in fear that the truth will be revealed.. Ajith B. Following Perera, there has been fierce logic between the ruling and opposition members.
+
+United People's Power Member of Parliament Ajith B.. Perera,
+
+In the absence of I am not in Parliament yesterday (17), the Justice Minister made allegations about my educational qualifications. I am acting as Advisory Attorney as Article 23 of 2023. So I serve as the Council Attorney. He said the council could be referred to as a high lawyer.
+
+Speaking at the event, Justice Harshana Nanayakkara, Ajith P, Perera received the title of high lawyer. I urged only the degree to be submitted to the council.
 
 ...
 
 [Data](articles/3adc2fe4.json)
+
+[Extended Data](ext_articles/3adc2fe4.ext.json)
 
 ---
 
@@ -2381,47 +2439,5 @@ Members of Parliament Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajaka
 [Data](articles/108cef3a.json)
 
 [Extended Data](ext_articles/108cef3a.ext.json)
-
----
-
-### President to Parliament
-
-*2024-12-18 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204484) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake arrives at Parliament. He's visiting India for a 3-day trip, landing last night.
-
-🟩
-
-President Anura Kumara Dissanayake arrived at the Parliament complex shortly before.
-
-The President arrived in the island last night, the President joined the three-day official visit to India.
-
-◼️
-
-[Data](articles/1e2e8dbd.json)
-
-[Extended Data](ext_articles/1e2e8dbd.ext.json)
-
----
-
-### Supreme Court order on CID about scholarship issues
-
-*2024-12-18 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204483) · `si`
-
-Supreme Court orders CID to investigate Year 5 scholarship exam first question paper issues.
-
-🟩
-
-The Supreme Court today ordered the CID today to file a detailed report on the first question paper of the Year 5 scholarship examination.
-
-◼️
-
-[Data](articles/39943217.json)
-
-[Extended Data](ext_articles/39943217.ext.json)
 
 ---

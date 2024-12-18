@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 05:51:27**
+As of **2024-12-18 07:31:33**
 
 ## Newspaper Stats
 
-*Scraped **60,735** Articles*
+*Scraped **60,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,785
 adaderanalk | 7,401
-tamilmirrorlk | 8,672
+tamilmirrorlk | 8,673
 virakesarilk | 10,012
-adaderanasinhalalk | 10,489
+adaderanasinhalalk | 10,491
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,642 (99.8%) of 60,735 articles have been extended.
+60,645 (99.8%) of 60,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### குறைந்த காற்றழுத்த தாழ்வு பகுதியின் தற்போதைய நிலை என்ன?
+
+*2024-12-18 07:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-தாழ்வு-பகுதியின்-தற்போதைய-நிலை-என்ன/175-348876) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடாவில் குறைந்த காற்றழுத்த தாழ்வு பகுதி தற்போது (18) நாட்டின் வடகிழக்கில் உள்ளது. மேலும் படிப்படியாக மேற்கு, வடமேற்கு நோக்கி நகரும் என்று எதிர்பார்க்கப்படுகிறது.
+
+வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் சில தடவைகள் மழை பெய்யுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+
+ஊவா மற்றும் மத்திய மாகாணங்களிலும் இரத்தினபுரி, மட்டக்களப்பு, அம்பாறை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடமேற்கு மற்றும் மேல் மாகாணங்களில் காலை வேளையில் சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் வௌியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+நாட்டின் வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணிக்கு 30-40 கிலோமீற்றர் வரை காற்று வீசக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/d2235bc9.json)
+
+---
+
+### හිටපු සුරාබදු කොමසාරිස් ජෙනරාල්වරයාට විදේශ ගතවීමට අවසර
+
+*2024-12-18 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204473) · `si`
+
+අධිකරණයට අපහාස කළේ, යැයි චෝදනා කරමින් ගොනුකර තිබෙන පෙත්සමක වගඋත්තරකරුවකු ලෙස නම් කර සිටින තමන්ට පුද්ගලික කටයුත්තක් සඳහා විදේශ ගතවීමට අවසර දෙන ලෙස හිටපු සුරාබදු කොමසාරිස් ජෙනරාල් එම්.ජේ. ගුණසිරි මහතා කළ ඉල්ලීමකට ශ්‍රේෂ්ඨාධිකරණ අවසර ලබා දුන්නේය.
+
+හිටපු සුරාබදු කොමසාරිස් ජෙනරාල්වරයා වෙනුවෙන් ගොනුකර තිබූ මෝසමක් සලකා බැලීමෙන් අනතුරුව ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම අවසරය ලබා දුන්හ.
+
+ඉකුත් පාලන සමයේ අධිකරණ නියෝග උල්ලංඝනය කරමින් මත්පැන් බලපත්‍ර නිකුත් කිරීම තුළින් අධිකරණයට අපහාස කොට ඇතැයි චෝදනා කරමින් ගොනුකර ඇති පෙත්සමක වගඋත්තරකරුවකු ලෙස නම් කර සිටින අතර එහිදී හිටපු සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් තමා අධිකරණයේ අවසරයකින් තොරව විදේශගත නොවන බවට මීට පෙර ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රතිඥාවක් ලබා දී තිබුණි.
+
+...
+
+[Data](articles/4874b5c4.json)
+
+---
+
+### Showers in several areas today
+
+*2024-12-18 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204471) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers forecasted in North, Central provinces today. Thunderstorms possible in Uva, Central regions at night. Strong winds expected. Public advised to take precautions against lightning accidents."
+
+🟩
+
+The Met Department forecasts that several showers could occur in the North and North and Central provinces today (18).
+
+Showers or thundershowers will occur at several night or night in the Uva and Central provinces, in the Uva and Central provinces, in Ratnapura, Batticaloa, Ampara and Hambantota districts.
+
+From the North and North-Media provinces of the North and the North and North-Media, Trincomalee District.. The Department of Meteorology announces that there are about courageous winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+Meanwhile, the lowest pressure zone of the South Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay Bay Sea is expected to move the West.
+
+◼️
+
+[Data](articles/87570794.json)
+
+[Extended Data](ext_articles/87570794.ext.json)
+
+---
 
 ### Yukthi outraged by extractive external debt restructuring agreement
 
@@ -45,6 +111,8 @@ On 13 December 2024, the Secretary to the Ministry of Finance announced the “s
 ...
 
 [Data](articles/90f2fefa.json)
+
+[Extended Data](ext_articles/90f2fefa.ext.json)
 
 ---
 
@@ -65,6 +133,8 @@ Our constitution includes rights that guarantee fundamental rights and freedoms 
 ...
 
 [Data](articles/f0bf4745.json)
+
+[Extended Data](ext_articles/f0bf4745.ext.json)
 
 ---
 
@@ -2347,93 +2417,5 @@ Those who attend the seminar have been requested to contact 0760787141, 07504619
 [Data](articles/7a551475.json)
 
 [Extended Data](ext_articles/7a551475.ext.json)
-
----
-
-### The three armed former presidents have been removed from next week
-
-*2024-12-17 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204458) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Three former presidents' security details reduced. Presidential Defense Minister Ananda Wijepala announced removal of armed forces for ex-presidents. Security reassessment every 6 months. Cost: Rs. 1,448 million. Details vary per president.
-
-🟩
-
-According to the Presidential Defense Minister Ananda Wijepala, the three Armed Forces given to former presidents have been removed from the pursuit of former presidents.
-
-In Parliament today, he said that he would provide security in accordance with security assessment every six months.
-
-The Minister also revealed the amount of security personnel deployed for the former presidents.
-
-Speaking athe, he said that the government's money is spent on the safety of former presidents and that Rs. 1448 million.
-
-"Former President Mahinda Rajapaksa today, 60 policemen have been deployed and 228 of the three-armed forces. Maithripala Sirisena has been deployed former President and 60 policemen.
-
-The President has also provided security forces 188 and 22 policemen in the three armed forces. Ranil Wickremesinghe has been deployed for the former President, former President Chandrika Bandaranaike, 60 policemen to be protected today. "
-
-...
-
-[Data](articles/99e97f66.json)
-
-[Extended Data](ext_articles/99e97f66.ext.json)
-
----
-
-### Why did Washington go without discussing with Zoom?
-
-*2024-12-17 12:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/zoom-இல்-கலந்துரையாடாமல்-வொஷிங்டன்-சென்றது-ஏன்/175-348839) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Washington discussion: IMF Zoom agreement questioned. Finance officials spent $7.05M on travel. Minister denies airplane travel claim.
-
-🟩
-
-Opposition MP Sampath today questioned why the International Monetary Fund agreed to discuss its expanded funding through the Zoom processor, but the central bank and finance ministry officials spent huge amounts of money.
-
-Deputy Minister of Finance, Dr. Harshana Suriya, said that four officials of the Ministry of Finance, Planning and Economic Development and five officials of the Ministry of Finance, Planning and Economic Development participated in the discussion held in Washington, followed by a contract between the government and the IMF in Washington.
-
-The Minister said that the government decided to participate in the Washington discussion due to the complexity of the discussions, the number of the concerned companies and the number of discussions scheduled.
-
-He said the International Monetary Fund and the government had agreed to hold part of the discussion in Washington and that the IMF team had agreed to come to Sri Lanka for the other half.
-
-...
-
-[Data](articles/78e53008.json)
-
-[Extended Data](ext_articles/78e53008.ext.json)
-
----
-
-### MP Archana is prohibited to log in
-
-*2024-12-17 11:58:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-அர்ச்சுனா-உள்நுழைய-தடை/175-348838) · `ta`
-
-MP Archana barred from entering Jaffna Bodhana Hospital due to court order. Hospital administration must seek permission before allowing entry. Security personnel instructed to hand over MP to police if attempting unauthorized access.
-
-🟩
-
-The Director of the Jaffna Teaching Hospital has notified the Parliamentarian that the parliamentarian Archana will be admitted to the Jaffna Bodhana Hospital only as a patient.
-
-The Jaffna Magistrate's Court yesterday issued a bail worth Rs 100,000.
-
-The court has also banned the hospital administration to obtain permission from the hospital in order to go to the Jaffna Bodhana Hospital.
-
-In accordance with this order, the hospital administration has informed the MP that he will not be allowed to enter the hospital premises for any purpose other than the patient.
-
-Moreover, the hospital has issued a directive to its security authorities to hand over the MP to the Jaffna police, if they try to go inside without proper permission.
-
-In such cases, security authorities have been ordered to handle the situation without being forced to harass or harass.
-
-◼️
-
-[Data](articles/3e60a559.json)
-
-[Extended Data](ext_articles/3e60a559.ext.json)
 
 ---

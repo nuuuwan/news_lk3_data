@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 12:03:01**
+As of **2024-12-18 12:17:55**
 
 ## Newspaper Stats
 
-*Scraped **60,785** Articles*
+*Scraped **60,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,159 @@ islandlk | 3,678
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,792
-adaderanalk | 7,409
-tamilmirrorlk | 8,685
-virakesarilk | 10,017
-adaderanasinhalalk | 10,500
+adalk | 5,793
+adaderanalk | 7,412
+tamilmirrorlk | 8,688
+virakesarilk | 10,018
+adaderanasinhalalk | 10,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,675 (99.8%) of 60,785 articles have been extended.
+60,678 (99.8%) of 60,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### பாராளுமன்றத்துக்கு வந்தார் ஜனாதிபதி
+### அரசாங்க நிதி பற்றிய குழுவின் தலைவராக ஹர்ஷ டி சில்வா நியமனம்
+
+*2024-12-18 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201556) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா அரசாங்க நிதி பற்றிய குழுவின் தலைவராக நியமிக்கப்பட்டுள்ளார்.
+
+அத்துடன் ஹர்ஷன சூரியப்பெரும, ரவி கருணாநாயக்க, ஹர்ஷன ராஜகருணா, நிமல் பலிஹேன, விஜேசிறி பஸ்நாயக்க, திலின சமரகோன் மற்றும் லக்மாலி ஹேமச்சந்திர ஆகியோர் குழுவின் ஏனைய உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/06833c0a.json)
+
+---
+
+### தரம் 5 பரீட்சை விவகாரம்;உயர் நீதிமன்றத்தின் உத்தரவு
+
+*2024-12-18 12:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றத்தின்-உத்தரவு/175-348902) · `ta`
+
+2024 தரம் 05 புலமைப்பரிசில் பரீட்சையின் வினாக்கள் கசிந்தமை குறித்த விசாரணைகள் தொடர்பான விரிவான அறிக்கையை சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுத் திணைக்களத்திற்கு (CID) இலங்கை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+விசாரணைகள் தொடர்பான விரிவான அறிக்கையை நாளை (டிசம்பர் 19) காலை 09.00 மணிக்குள் சமர்ப்பிக்குமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/f06af9e3.json)
+
+---
+
+### ஜனாதிபதி மாளிகையை இடமாற்றும் திட்டம் ஒத்திவைப்பு
+
+*2024-12-18 12:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாளிகையை-இடமாற்றும்-திட்டம்-ஒத்திவைப்பு/175-348901) · `ta`
+
+ஜனாதிபதி மாளிகை, அலரிமாளிகை, பிரதமர் அலுவலகம் மற்றும் ஜனாதிபதி செயலகம் ஆகியவற்றை ஸ்ரீ ஜயவர்தனபுர கோட்டைக்கு மாற்றும் திட்டத்தை தேசிய மக்கள் சக்தி தலைமையிலான புதிய அரசாங்கம் கிடப்பில் போட்டுள்ளதாக தெரிய வருகிறது.
+
+கடந்த அரசாங்கம் இந்த அலுவலகங்களை இடமாற்றம் செய்ய திட்டமிட்டதுடன், இதன் மூலம் அவற்றின் தற்போதைய கட்டிடங்கள் கொழும்பு பாரம்பரிய கட்டிடங்களாக சுற்றுலாத்துறைக்காக அபிவிருத்தி செய்யப்படுவதற்காக எத்தனிக்கப்பட்டது. கடந்த அரசாங்கம் 2025 ஆம் ஆண்டு வரவு-செலவுத் திட்டத்தில் இத்திட்டத்தை நிறைவேற்றுவதற்கு நிதி ஒதுக்கீடு செய்ய திட்டமிட்டிருந்தது.
+
+எவ்வாறாயினும், இந்த திட்டம் தற்போதைய அரசாங்கத்தால் கிடப்பில் போடப்பட்டுள்ளதாகவும், அவற்றைப் பயன்படுத்துவதற்கான மாற்றுத் திட்டம் குறித்து இன்னும் இறுதி முடிவு எடுக்கப்படவில்லை என்றும் நகர அபிவிருத்தி அமைச்சின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/edb78f47.json)
+
+---
+
+### මතක තියාගන්න 2028දී තියෙන්නෙත් අපේ ආණ්ඩුව - ජනපති
+
+*2024-12-18 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204486) · `si`
+
+2028 වන විට විදෙස් සංචිත ඩොලර් බිලියන 15.1 දක්වා වර්ධනය කර ගැනීම ආණ්ඩුවේ අභිප්‍රාය වන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+පාර්ලිමේන්තු සභාගර්භයට පැමිණි ජනාධිපතිවරයා විශේෂ ප්‍රකාශයක් සිදුකරමින් පවසා සිටියේ, 2028 වසරේ පවතින්නේ ද තම ආණ්ඩුවක් බවය.
+
+එමෙන්ම යළි කිසිදිනක 2022 පැවති තත්ත්වය රට තුළ යළි ඇති නොවෙනු ඇති බව ද ජනාධිපතිවරයා දැඩි විශ්වාසයෙන් මෙහිදී පැවසීය.
+
+◼️
+
+[Data](articles/7b6f1846.json)
+
+---
+
+### பதவி விலகத் தயார் என்கிறார் சஜித்
+
+*2024-12-18 11:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகத்-தயார்-என்கிறார்-சஜித்/175-348899) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ, தான் கற்ற கல்வி, தன்னுடைய பட்டங்கள் தொடர்பில் பாராளுமன்றத்தில் ஆவணங்களை சமர்ப்பித்து உரையாற்றிக்கொண்டிருக்கின்றார்.
+
+தான் சமர்ப்பித்துக்கும் ஆவணங்கள் அனைத்தும் உண்மையும். அதில் தவறு இருக்குமாயின் யாராவது கண்டறிந்தால், எம்.பி பதவியிலும் இருந்தும் எதிர்க்கட்சித் தலைவர் பதவியில் இருந்தும் ஏன்? அரசியலில் இருக்கும் விலகத் தயார் என்றார்.
+
+நான், எனது பிறப்புச்சான்றிதழையும் எடுத்துவந்தேன். யாராவது கேள்வி கேட்பார்கள் என்று நினைத்துதான் அவ்வாறு எடுத்துவந்தேன் என்றார்.
+
+◼️
+
+[Data](articles/8ebe2cb4.json)
+
+---
+
+### සජිත් අධ්‍යාපන සුදුසුකම් ඉදිරිපත් කරයි
+
+*2024-12-18 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204485) · `si`
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සිය අධ්‍යාපන සුදුසුකම් අද (18) පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/82ccc1be.json)
+
+---
+
+### The President came to Parliament
 
 *2024-12-18 11:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்தார்-ஜனாதிபதி/175-348897) · `ta`
 
-இந்திய விஜயத்தை முடித்துக்கொண்டு இன்று (18) காலை நாடு திரும்பிய ஜனாதிபதி அனுரகுமார திசாநாயக்க, சற்றுமுன்னர் பாராளுமன்றத்துக்கு வருகைதந்தார்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President Anuragumara Dissanayake returns from India, arrives at Parliament shortly after landing."
+
+🟩
+
+President Anuragumara Dissanayake, who returned to the country this morning after completing his visit to India, arrived in Parliament shortly before.
 
 ◼️
 
 [Data](articles/522618d7.json)
+
+[Extended Data](ext_articles/522618d7.ext.json)
+
+---
+
+### Grade 5 Exam paper leak: CID ordered to submit report tomorrow
+
+*2024-12-18 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104327/grade-5-exam-paper-leak-cid-ordered-to-submit-report-tomorrow) · `en`
+
+The Supreme Court has directed the Criminal Investigation Department (CID) to submit a comprehensive report on the ongoing investigation into the leaking of three questions from the first question paper of the recent Grade 5 Scholarship Examination.
+
+The court instructed the CID to submit the detailed report by 9.00 a.m. tomorrow (19).
+
+The directive was issued during a hearing this morning, where four fundamental rights petitions, filed by a group of students who sat for the examination and their parents, seeking an order to re-conduct the examination due to the early release of the questions, were taken up today.
+
+A bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arjuna Obeysekera issued the order and began deliberations on the matter. The hearing of the petitions is set to continue today.
+
+...
+
+[Data](articles/b8f4666e.json)
+
+---
+
+### ජනපති පාර්ලිමේන්තුවට පැමිණෙයි
+
+*2024-12-18 11:29:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-පාර්ලිමේන්තුවට-පැමිණෙයි/11-413711) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු මොහොතකට පෙර පාර්ලිමේන්තු සභාගර්භයට පැමිණියේය.
+
+◼️
+
+[Data](articles/13be70cd.json)
 
 ---
 
@@ -65,6 +193,20 @@ Members of Parliament Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajaka
 [Data](articles/108cef3a.json)
 
 [Extended Data](ext_articles/108cef3a.ext.json)
+
+---
+
+### ජනපති පාර්ලිමේන්තුවට
+
+*2024-12-18 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204484) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු සංකීර්ණයට පැමිණියේය.
+
+ඉන්දියාවේ තෙදින නිල සංචාරයක් සඳහා එක්වූ ජනාධිපතිවරයා, ඊයේ (17) රාත්‍රියේ දිවයිනට පැමිණියේය.
+
+◼️
+
+[Data](articles/1e2e8dbd.json)
 
 ---
 
@@ -184,6 +326,36 @@ A bond maturing on 15.09.2029 was quoted at 10.65/70 down from 10.67/73 percent.
 
 ---
 
+### CPPCC’s Vice-Chairwoman calls on PM Harini
+
+*2024-12-18 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104326/cppccs-vice-chairwoman-calls-on-pm-harini) · `en`
+
+The Vice-Chairwoman of the National Committee of the Chinese People’s Political Consultative Conference (CPPCC) at the Vice Premier Level, Ms. Qin Boyong, has paid a courtesy call on Prime Minister of Sri Lanka, Dr. Harini Amarasuriya, at the Parliament of Sri Lanka.
+
+The Prime Minister welcomed Ms. Qin Boyong and her delegation, appreciating the longstanding friendship and underscoring the importance of strengthening bilateral relations, the Prime Minister’s Media Division reported.
+
+Strengthening cooperation in disease control, sustainable developments, improving trade and cooperation in multilateral forums were discussed further, the statement said.
+
+...
+
+[Data](articles/9c9afc60.json)
+
+---
+
+### Harsha de Silva appointed COPF chairman
+
+*2024-12-18 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104325/harsha-de-silva-appointed-copf-chairman-) · `en`
+
+SJB Member of Parliament, Dr. Harsha de Silva has been appointed as the Chairman of the Committee on Public Finance (COPF).
+
+The appointment was formally announced today by the Speaker of Parliament, Dr. Jagath Wickramaratne.
+
+◼️
+
+[Data](articles/3534ae20.json)
+
+---
+
 ### Recovery of sea cards
 
 *2024-12-18 10:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுக்கி-வைக்கப்பட்டிருந்த-கடல்-அட்டைகள்-மீட்பு/175-348888) · `ta`
@@ -272,17 +444,25 @@ The Deputy Minister expressed optimism that this initiative would help resolve t
 
 [Data](articles/9c670acc.json)
 
+[Extended Data](ext_articles/9c670acc.ext.json)
+
 ---
 
-### தேசிய பட்டியல் பாராளுமன்ற உறுப்பினராக நிஸாம் காரியப்பர் சத்தியப்பிரமாணம்
+### Nizam Kariyapper is the Member of Parliament for the National List
 
 *2024-12-18 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201550) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் பாராளுமன்ற உறுப்பினராக நிஸாம் காரியப்பர் சபாநாயகர் முன்னிலையில் இன்று புதன்கிழமை (18) சத்தியப்பிரமாணம் செய்து கொண்டார்.
+Nizam Kariyapper sworn in as National List MP for United People's Power on 18th.
+
+🟩
+
+Nizam Kariyapar was sworn in as the National List MP of the United People's Power today (18).
 
 ◼️
 
 [Data](articles/7a5f65bf.json)
+
+[Extended Data](ext_articles/7a5f65bf.ext.json)
 
 ---
 
@@ -2045,277 +2225,5 @@ He said that the details of the parliamentary website could be recreated for ten
 [Data](articles/fe18f41b.json)
 
 [Extended Data](ext_articles/fe18f41b.ext.json)
-
----
-
-### Do not be as few as Dr., Maheathar and Medical
-
-*2024-12-17 18:53:36* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීවරුන්-හැදින්වීමේදී-ආචාර්ය--මහාචාර්-හා-වෛද්‍ය-වැනි-පට්ටම්-එපා/11-413706) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dilith Jayaweera proposes removing titles like "Dr." from Parliament addresses. He suggests addressing members based on their profession rather than honorary titles. This would maintain professionalism while avoiding confusion between roles outside Parliament.
-
-🟩
-
-Members of Parliament, no matter what Parliament has represented Parliament, the Introduction to those professions such as Dr. and Medicine, the universal authority Dilith Jayaweera said that the introduction to those professions such as Dr. and Medicine.
-
-He was responding to the new Speaker this morning (17) in Parliament.
-
-"I'd like to say, as a proposal, and consider that this question, and consider the name of these measures to the name of these MPs, as well as the name of these MPs in the future.. The Speaker is a doctor.
-
-These are professionals. I hope that if we remove all these in this House, we will be good for our desirmed. There are people who do different professionals in Parliament. The professor applies to the university, the doctor applies to the hospital. I do better if we have removed the pieces in this congregation when we address each other in this congregation. "
-
-◼️
-
-[Data](articles/807b0729.json)
-
-[Extended Data](ext_articles/807b0729.ext.json)
-
----
-
-### Publication of the names of the money earners from the Presidential Fund
-
-*2024-12-17 18:51:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியத்திலிருந்து-பணம்-பெற்றவர்களின்-பெயர்கள்-வெளியீடு/175-348855) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Former politicians receive medical funds meant for poor. PM criticizes misuse of Presidential Fund.
-
-🟩
-
-Former ministers and parliamentarians have received funding for medical treatment beyond the main purpose of the Presidential Fund.
-
-The Prime Minister of the government, Nalinda Jayatissa, told the government that many former ministers and parliamentarians had received the fund, which focuses on the poorest and disadvantaged people.
-
-Former Health Minister Keheliya Rambukwella. 11 million has been received and Rajitha Senaratne is Rs.. 10 million has been provided.
-
-Former Minister Alek Aluvihare is Rs.. 2.2 million and his son Ranjith Aluvihare, a former MP. 4.6 million has also received funds.
-
-Former parliamentarian Rajid Soyza Rs.. He has received 18 million and former Speaker Joseph Michael Perera Rs.. He has received 2.7 million funds.
-
-John Amaratunga Rs.. 4 million, former MP Wimalaweera Dissanayake Rs.. 3 million and Vidura Wickramanayake Rs.. They also received 1.5 million.
-
-...
-
-[Data](articles/0d045530.json)
-
-[Extended Data](ext_articles/0d045530.ext.json)
-
----
-
-### තෙවැනි කාර්තුවේදී දළ දේශීය නිෂ්පාදිතයේ සියයට 5.5 ක වර්ධනයක්
-
-*2024-12-17 18:45:56* · [`adalk`](https://www.ada.lk/breaking_news/තෙවැනි-කාර්තුවේදී-දළ-දේශීය-නිෂ්පාදිතයේ-සියයට-5-5-ක-වර්ධනයක්/11-413705) · `si`
-
-2024 වසරේ තෙවැනි කාර්තුවේදී (ජූලි 01 සිට සැප්තැම්බර් 30 දක්වා) මෙරට දළ දේශීය නිෂ්පාදිතය (GDP) රුපියල් මිලියන 3,151,941ක් බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.ඒ අනුව මෙය 2023 වසරේ තෙවැනි කාර්තුවට සාපේක්ෂව සියයට 5.5ක ධනාත්මක වර්ධනයක් බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-මෙම කාලසීමාවේදීකෘෂිකාර්මික, කර්මාන්ත සහ සේවා අංශ මෙරට ආර්ථිකය වෙත ලබාදී ඇති දායකත්වය පිළිවෙලින් සියයට 8.2ක්, සියයට 27.3ක් සහ සියයට 55.5ක් වෙයි. ඒ අනුව මෙය පිළිවෙලින් සියයට 3ක, සියයට10.8ක සහ සියයට 2.6ක ධන වර්ධනයක් වාර්තා කිරිමක් ලෙස සටහන්ව තිබේ.
-
-මේ අතර භාණ්ඩ හා සේවා මත අය කෙරෙන බදු (සහනාධාර අඩු කළ) 2024 තෙවැනි කාර්තුවේදී සියයට8.9ක් ලෙස සටහන්ව ඇති අතර, මෙය සියයට 13ක වර්ධනයක් ලෙස වාර්තා වී තිබේ.
-
-විශේෂයෙන්ම 2024 තෙවැනි කාර්තුව වන විට පොලී අනුපාතවල සැලකිය යුතු පහත වැටීමක් දක්නට ලැබුණු බවත්, එය විශේෂයෙන්ම පෞද්ගලික අංශයද ඇතුළුව දේශීය ණය සැපයුම සඳහා පහසුවක්වූ බවත් එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
-
-...
-
-[Data](articles/488a0c90.json)
-
----
-
-### I will be presented tomorrow
-
-*2024-12-17 18:31:12* · [`adalk`](https://www.ada.lk/breaking_news/උපාධියෙන්-ඔබ්බට-ගිය-සහතිකත්-මම-හෙට-ඉදිරිපත්-කරනවා/11-413703) · `si`
-
-Sajith Premadasa to present educational qualifications in Parliament tomorrow, including degree certificate and other assurances, as requested by Minister Nalinda Jayatissa.
-
-🟩
-
-Opposition Leader Sajith Premadasa said his educational qualifications will be presented to Parliament tomorrow as stated by Minister Nalinda Jayatissa.
-
-"Minister Nalinda Jayatissa requested to submit the educational qualifications I received. The congregation presents all the educational qualifications tomorrow morning. I hope to present all the assurances that are not only the degree certificate. "
-
-◼️
-
-[Data](articles/7393651d.json)
-
-[Extended Data](ext_articles/7393651d.ext.json)
-
----
-
-### Vanuatu hit by magnitude 7.4 earthquake, UN reports six unconfirmed deaths
-
-*2024-12-17 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104315/vanuatu-hit-by-magnitude-74-earthquake-un-reports-six-unconfirmed-deaths) · `en`
-
-(Reuters) - An earthquake of magnitude 7.4 struck Vanuatu’s capital Port Vila on Tuesday, with the United Nations reporting six unconfirmed deaths and that two reservoirs and a hospital had been damaged.
-
-State broadcaster VBTC showed footage of vehicles crushed under the debris of collapsed buildings and boulders strewn across a highway. Drone footage showed landslips near a shipping terminal.
-
-Communications networks on the Pacific archipelago were down, New Zealand said.
-
-Australia’s Foreign Minister Penny Wong said there was significant damage and Australia was preparing to deploy assistance including urban search and rescue and emergency medical teams on Wednesday.
-
-Port Vila’s international airport was closed, Vanuatu’s High Commission in Canberra said.
-
-The U.N. Office for the Coordination of Humanitarian Affairs estimated 116,000 people had been affected by the earthquake. It said there were six unconfirmed deaths and damage to the two main water reservoirs.
-
-...
-
-[Data](articles/10ee9921.json)
-
-[Extended Data](ext_articles/10ee9921.ext.json)
-
----
-
-### Order on the petitions filed on the scholarship examination
-
-*2024-12-17 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204467) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Scholarship exam petition case heard by Supreme Court judges Yasantha Kodagoda, Kumuduni Wickremasinghe, and Arjuna Obeysekere. Petitioners presented facts. Respondents' attorneys to appear tomorrow. Court orders parties to inform settlement by then.
-
-🟩
-
-Four students who have been submitted to the examination and their parents have been sent to the examination for the first question paper that had been sent back to the examination in the year 5 scholarship examination were to be held recently.Started.
-
-The petition was held before the three-member Supreme Court Judge of Yasantha Kodagoda and Kumuduni Wickremasinghe and Arjuna Obeysekere.
-
-The petitioners of the petitioner ended the submission of the facts.
-
-Attorneys on the respondents will be presented tomorrow (18).
-
-In the meantime, there is a settlement ordered the parties to inform the court tomorrow.
-
-◼️
-
-[Data](articles/b26747ad.json)
-
-[Extended Data](ext_articles/b26747ad.ext.json)
-
----
-
-### The time to import rice to the private sector is overnight tonight
-
-*2024-12-17 18:20:00* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලික-අංශයට-සහල්-ආනයනය-කිරීමට-දුන්-කාලය-අද-රාත්‍රී-12න්-අවසන්/11-413702) · `si`
-
-Rice imports update: Overnight delivery to private sector, 9500 metric tons imported today, 25kg bags labeled, customs clearance process ongoing.
-
-🟩
-
-The time spent to import rice from foreign countries will end on the 20th of this month.
-
-At the time of the afternoon, 9,500 metric tons of rice have been imported today (17th has been imported and 6,300 metric tons of rice and 6,200 metric tons of nadu rice.
-
-The government has authorized rice from the 4th and the rice was imported from the 10th to import.
-
-The Department of Customs to inform the importers to be taken back by the Customs Department due to the unsucquietive of the rice to Sri Lanka.
-
-The rice included twenty-five kilograms of rice with the labels of rice.
-
-Clearing from the rice management, central goods, prevention management, central goods, and noted partitions in Sri Lanka Customs, will be released from a special program.
-
-◼️
-
-[Data](articles/9e3ccba6.json)
-
-[Extended Data](ext_articles/9e3ccba6.ext.json)
-
----
-
-### Some MPs from the Presidential Fund. Taken up the money up to 300 lakhs
-
-*2024-12-17 18:06:40* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලින්-ඇතැම්-මන්ත්‍රීවරු-රු--ලක්ෂ-300ක්-දක්වා-මුදල්-අරගෙන/11-413701) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-MPs from the Presidential Fund misused funds totaling over 300 lakhs. Payments were made to opposition leaders for drug purchases. Notable recipients include Nalinda Jayatissa, P. Harrison, and others. Expenditures range from 10 lakhs to 300 lakhs per individual. The fund's purpose is unclear, raising questions about its use for poverty reduction, religious purposes, or knowledge development.
-
-🟩
-
-Under the four presidentials, the Presidential Fund has been provided to the opposition MPs to obtain drugs from the Presidential Fund.
-
-He made a statement to Rs.
-
-The Chief Government Whip, Health and Mass Media, Nalinda Jayatissa said:
-
-...
-
-[Data](articles/30b21a4d.json)
-
-[Extended Data](ext_articles/30b21a4d.ext.json)
-
----
-
-### Order to check the court at Jaffna
-
-*2024-12-17 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204466) · `si`
-
-Court orders CEA to act on Jaffna air quality; petitioner claims lack of proper investigation by authorities; next hearing on March 6.
-
-🟩
-
-The Court of Appeal today (17) ordered the Central Environmental Authority to take action to proceed with the court months of air quality in Jaffna.
-
-The court had ordered a group of the Minister of Environmental Minister to prove the possibility of awareness of the gas in such a test.
-
-A petition filed by Dr. Umasaida Nadaraja, a resident of Jaffna, issued the order by the Court of Appeal.
-
-Rubawatte, who appeared on behalf of the petitioner, informed the court that a proper investigation was not conducted by state institutions responsible for air quality in the war.
-
-The lawyer said that the lawyer of the local polluting was caused by the authorities in the Jaffna, was causing the air pollution in the area.
-
-After considering the submissions, the judges were issued to be heard to hear the petition.
-
-The petition was then examined on March 6.
-
-◼️
-
-[Data](articles/845f049a.json)
-
-[Extended Data](ext_articles/845f049a.ext.json)
-
----
-
-### දුම්රිය නිල නිවාසවල මාසික ජල බිල්පතට අය කිරීම රු. 5යි
-
-*2024-12-17 17:58:50* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-නිල-නිවාසවල-මාසික-ජල-බිල්පතට-අය-කිරීම-රු--5යි/11-413700) · `si`
-
-දුම්රිය දෙපාර්තමේන්තුවට අයත් රත්මලාන, කොතලාවලපුර දුම්රිය නිවාස 546 සඳහා එම නිවාසවල පදිංචි එක් නිලධාරියකුගෙන් ජලබිල්පත් වෙනුවෙන් මසකට රුපියල් 05ක මුදලක් අයකිරිම නිසා ඉකුත් වසර  තුන තුළ (2021 පෙබරවාරි 06 සිට 2023 දෙසැම්බර් 31 දක්වා) ජලබිල්පත් ලෙස රුපියල් නවකෝටි විසිතුන්ලක්ෂ අනූඅටදහස් පන්සිය තිස්දෙකක (92,398,532 ) මුදලක්  දෙපාර්තමේන්තුව විසින්  දරා ඇති බැව් ජාතික විගණන කාර්යාලය පවසයි.
-
-රත්මලාන  ප්‍රධාන යාන්ත්‍රික ඉංජිනේරු උප දෙපාර්තමේන්තුවේ කොතලාවලපුර දුම්රිය නිවාස 546 සඳහා ජලබිල්පත් ලෙස වසරකට රුපියල් මිලියන 30කට අධික මුදලක්  දුම්රිය දෙපාර්තමේන්තුව විසින් දරනු ලබන බවද විගණන වාර්තාවේ සඳහන් වේ.
-
-...
-
-[Data](articles/5d29814a.json)
-
----
-
-### India will back Sri Lanka’s BRICS membership when consensus reached: Foreign Secretary
-
-*2024-12-17 17:21:00* · [`economynextcom`](https://economynext.com/india-will-back-sri-lankas-brics-membership-when-consensus-reached-foreign-secretary-194871/) · `en`
-
-ECONOMYNEXT – India will back Sri Lanka’s bid to become a member of BRICS group when the World’s powerful South-South corporation considers news membership, India’s Foreign Secretary Shri Vikram Misri said.
-
-Sri Lanka’s application to become a member in the BRICS (Brazil, Russia, India, China, and South Africa) was not accepted by the group’s current membership in October when President Anura Kumara Dissanayake’s government applied for the membership.
-
-However, Sri Lanka’s request to become a member of BRICS’ New Development Bank (NDB) was accepted in the October summit held in Russia.
-
-BRICS, an economic and political group, has been gaining increasing relevance in recent years.
-
-It poses several potential challenges to the global dominance of the United States and the central role of the U.S. dollar in international trade and finance.
-
-Sri Lanka has sought the help of BRICS members to push for its own membership.
-
-...
-
-[Data](articles/6a98b151.json)
 
 ---

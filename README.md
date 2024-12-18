@@ -1,68 +1,224 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 16:42:42**
+As of **2024-12-18 17:27:22**
 
 ## Newspaper Stats
 
-*Scraped **60,827** Articles*
+*Scraped **60,837** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 616
-bbccomsinhala | 638
+bbccomsinhala | 639
 islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,799
-adaderanalk | 7,418
-tamilmirrorlk | 8,696
+adalk | 5,801
+adaderanalk | 7,421
+tamilmirrorlk | 8,698
 virakesarilk | 10,020
-adaderanasinhalalk | 10,508
+adaderanasinhalalk | 10,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,715 (99.8%) of 60,827 articles have been extended.
+60,721 (99.8%) of 60,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### අධ්‍යාපන සහතික බොරුනම් සජිත් ඉල්ලා අස්වෙයි
+### அறிக்கை சமர்ப்பிக்குமாறு பிரதமர் பணிப்புரை
+
+*2024-12-18 17:05:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-சமர்ப்பிக்குமாறு-பிரதமர்-பணிப்புரை/175-348915) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழகத்தின் விவசாய பீடத்தின் இரண்டாம் வருட மாணவர்கள் 7 பேர் பல்கலைக்கழக மருத்துவ நிலையத்தில் தடுப்பூசி போட்டுக்கொண்டதன் காரணமாக சுகவீனமடைந்த சம்பவம் தொடர்பில் விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்குமாறு அதிகாரிகளுக்கு பிரதமர் ஹரினி அமரசூரிய பணிப்புரை விடுத்துள்ளார்.
+
+மாணவர்களின் நிலைமையை மதிப்பீடு செய்து விசாரணைகளை துரிதப்படுத்துமாறு பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவின் தலைவர், விவசாய விஞ்ஞான பீடத்தின் பீடாதிபதி மற்றும் பலாங்கொடை ஆதார வைத்தியசாலையின் வைத்திய அதிகாரி ஆகியோருக்கு பிரதமர் பணிப்புரை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/a2c6300a.json)
+
+---
+
+### Leopard's mundam recovery
+
+*2024-12-18 16:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுத்தையின்-முண்டம்-மீட்பு/76-348914) · `ta`
+
+Here's a summary of the incident in approximately 200 characters:
+
+
+
+Leopard found dead in Hatton forest. Head & four legs severed. 10-year-old leopard sent for autopsy. Incident reported to police & wildlife officials.
+
+🟩
+
+The incident took place on Wednesday (18), where a leopard was caught and killing a leopard's head and four legs.
+
+Hatton police have been informed by plantation workers that a leopard is found dead in the forest of the Bodice estate belonging to the Hatton Police Division.
+
+According to the Nallathani Wildlife Office, the leopard's head was cut off and four legs were cut when they rushed to the scene.
+
+The body of a 10 -year -old leopard has been produced before the Hatton Magistrate's Court and has been sent to the Randenigala Wildlife Veterinary Hospital for autopsy.
+
+◼️
+
+[Data](articles/a392ade9.json)
+
+[Extended Data](ext_articles/a392ade9.ext.json)
+
+---
+
+### කඳුකර කොටියෙක් ඝාතනය කර හිස හා පාද කපාගෙන ගිහින්
+
+*2024-12-18 16:41:48* · [`adalk`](https://www.ada.lk/breaking_news/කඳුකර-කොටියෙක්-ඝාතනය-කර-හිස-හා-පාද-කපාගෙන-ගිහින්/11-413718) · `si`
+
+මන්දක් අටවා කදුකර කොටියෙකු ඝාතනය කර කදුකර කොටියාගේ හිස සහ පාද හතර කපාගෙන ගොස් ඇති බව නල්ලතන්නිය වනජිවි කාර්යාලයේ නිලධාරින් පැවසිය.
+
+හැටන් පොලිස් වසමට අයත් පොඩයිස් වතුයායේ ළදු කැළැවක මියගිය කොටියෙකුගේ සිරුරක් ඇති බවට එම වතුයායේ වතු කම්කරුවන් විසින් හැටන් පොලිසියට (18) දින ලබාදුන් දැනුම් දිමක් මත පොලිස් නිලධාරින් විසින් ඒ සම්බන්ධයෙන් නල්ලතන්නිය වනජිවි කාර්යාලයේ නිලධාරින් දැනුවත් කර ඇත.
+
+හැටන් පොලිසියේ නිලධාරින් සහ නල්ලතන්නිය වනජිවි කාර්යාලයේ නිලධාරින් කොටියාගේ සිරුර සොයාගත් අවස්තාවේ කොටියාගේ හිස සහ පාද හතර දඩයම්කරුවන් විසින් කපාගෙන ගොස් ඇති බවයි වනජිවි නිලධාරින් කියා සිටියේ.
+
+මෙසේ ඝාතනය කර ඇත්තේ අවු 10 ක් පමණ වයසැති හොදින් වැඩුණු කදුකර කොටියෙකු බවත්, කොටියාගේ සිරුර හැටන් මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර පශ්චාත් මරණ පරික්ෂණ සදහා රණ්දෙණිගල වනජිවි පශුවෛද්‍ය රෝහල වෙත යොමු කරන බවද වනජිවි නිලධාරින් පැවසිය.
+
+◼️
+
+[Data](articles/2658c162.json)
+
+---
+
+### The lease limit by earn is Rs.. From 100000 to Rs. Up to 150000
+
+*2024-12-18 16:30:17* · [`adalk`](https://www.ada.lk/breaking_news/උපයන-විට-ගෙවන-බද්දේ-සීමාව-රු--100000සිට-රු--150000ක්-දක්වා-ඉහළට/11-413717) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+IMF agrees to increase minimum income tax threshold. Private income tax rate reduced from 6% to 5%. Salary above 2 lakh exempt from tax. Export service tax increased from 5% to 10%. Local dairy products tax-free for child nutrition.
+
+🟩
+
+President Anura Kumara Dissanayake said in Parliament that the International Monetary Fund has agreed to increase the minimum limit of Rs.
+
+Also, the first category of private income tax submitted to 6% per cent Rs.. The President said that the amendments to the increase from 500,000 to Rs.
+
+The salary of the salary of a monthly salary is exempt from tax exempt and the tax is released by 71 percent.
+
+The Top General said that the tax of a two-lakh-salary of Rs.
+
+The President also stated that the value of the value of local yogurt and fresh milk production in the nutrition of children is being removed.
+
+The President said that the Tax Tax for the export of services to the exports of services due to be charged next year, the International Monetary Fund has been agreed to agree with the IMF.
+
+However, he added that the retention tax was agreed to increase from 5 percent to 10 percent.
+
+◼️
+
+[Data](articles/6c752903.json)
+
+[Extended Data](ext_articles/6c752903.ext.json)
+
+---
+
+### Latest gazette notification issued on imports
+
+*2024-12-18 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204493) · `si`
+
+Here's a summary of the gazette notification in approximately 200 characters:
+
+
+
+"Pres. Anura Kumara Dissanayake issues special gazette on vehicle imports. Latest notification available on Scribd."
+
+🟩
+
+President Anura Kumara Dissanayake issued a special gazette notification regarding the import of vehicles.
+
+The latest gazette notification of vehicles by poornima on scribd
+
+◼️
+
+[Data](articles/b225b9cb.json)
+
+[Extended Data](ext_articles/b225b9cb.ext.json)
+
+---
+
+### Latenam Sajith resigns education certificates
 
 *2024-12-18 16:17:34* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-සහතික-බොරුනම්-සජිත්-ඉල්ලා-අස්වෙයි/11-413716) · `si`
 
-තම අධ්‍යාපන සුදුසුකම් සම්බන්ධයෙන් පාර්ලිමේන්තුවට ඉදිරිපත් කළ කරුණු කාරණා අසත්‍ය බව ඔප්පු කළ හොත් තමන් විපක්ෂනායක ධුරයෙන් මෙන්ම පාර්ලිමේන්තු මන්ත්‍රීධුරයෙන් ඉවත් වන බව විපක්ෂනායක සජිත් ප්‍රේමදාස මහතා පාර්ලිමේන්තුවට සඳහන් කළේය.
+Sajith Premadasa denies falsifying education credentials. Claims completed London degrees but couldn't finish due to father's death. Responding to allegations made by Minister Nalinda Jayatissa.
 
-අමාත්‍ය නලින්ද ජයතිස්ස මහතා පාර්ලිමේන්තුවේදී ඊයේ ඉදිරිපත් කළ කරුණු සම්බන්ධයෙන් පාර්ලිමේන්තුවේදී පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+🟩
 
-තමන් ලන්ඩන් ඕලෙවල් හා ලන්ඩන් ඒ ලෙවල් සමත්ව උපාධිය සම්පූර්ණ කළ බවත් පසුව පශ්චාත් උපාධිය හැදැරීමට කටයුතු කළත් තම පියාගේ අභාවයත් සමග එය සම්පූර්ණ කිරීමට නොහැකි වූ බවත් එ මහතා පැවැසීය.
+The Opposition Leader Sajith Premadasa told Parliament that if the facts to parliament regarding their educational qualifications prove that matters is false.
+
+He was responding to Parliament in Parliament regarding the matters presented by Minister Nalinda Jayatissa yesterday.
+
+He said that he had completed the London Orle and London that Level Graduate Degree and later graduate, but he could not complete it with his father's death.
 
 ◼️
 
 [Data](articles/c409dd3c.json)
 
+[Extended Data](ext_articles/c409dd3c.ext.json)
+
 ---
 
-### පඩි දෙගුණයක් කර ගත්තෙත් නෑ, මහජන මුදලින් කජු කෑවෙත් නෑ
+### No weights doubled, cashews ate the money
 
 *2024-12-18 16:10:57* · [`adalk`](https://www.ada.lk/breaking_news/පඩි-දෙගුණයක්-කර-ගත්තෙත්-නෑ--මහජන-මුදලින්-කජු-කෑවෙත්-නෑ/11-413715) · `si`
 
-තම පඩිය හා දීමනා දෙගුණයකින් වැඩි කරගෙන ඇති බවට ඇතැම් මාධ්‍ය පළකළ වාර්තා අසත්‍ය බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ සභාපති එස්. රාජකරුණා මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+Here's a summary in 200 characters:
 
-එසේම තෙල් සංස්ථාවේ අධ්‍යක්ෂවරු මහජන මුදලින් කජු ආහාරට ගත් බවටත් එම පුවත්වල වාර්තා කළ බවත් එයද අසත්‍යබව සභාපතිවරයා නිවේදනය කරයි.
 
-මේ හරහා තමාට මෙන්ම ඛනිජ තෙල් නීතිගත සංස්ථාවේද කීර්ති නාමයට බරපතල හානියක් සිදුව ඇති බවත් ඔහු පැවැසීය.
 
-මේ අනුව ඔවුන්ට එරෙහිව නීතිමය පියවර ගන්නා බවත් ඇතැම් කරුණු සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කරන බවත් ඔහු වැඩිදුරටත් පවසයි.
+Ceylon Petroleum Corp. Chairman Rajakaruna accuses directors of misusing funds for cashew cultivation. He vows legal action and CID complaint, citing damage to company reputation.
+
+🟩
+
+Ceylon Petroleum Corporation Chairmanshipi The Chairman of the Ceylon Petroleum Corporation. Mr. Rajakaruna issues a statement, says Mr. Rajakaruna.
+
+The Chairman has announced that the directors of the Petrole Corporation were able to feed cashew in public money.
+
+He said that the reputation was severely damaged by the reputation of the petroleum and Corporation.
+
+He added that legal action will be taken against them and complains to the CID regarding certain matters.
 
 ◼️
 
 [Data](articles/0c5b1925.json)
+
+[Extended Data](ext_articles/0c5b1925.ext.json)
+
+---
+
+### Keheliya’s two bank accounts with Rs. 20 mln balance frozen
+
+*2024-12-18 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104336/keheliyas-two-bank-accounts-with-rs-20-mln-balance-frozen) · `en`
+
+The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has ordered to freeze two current and fixed deposit accounts belonging to former Minister Keheliya Rambukwella for a period of one week.
+
+The combined balance of the two bank accounts in question is around Rs. 20 million.
+
+In accordance with Section 53(1) of the Anti-Corruption Act, No. 09 of 2023, the suspension was ordered to be implemented effective from yesterday (17).
+
+The Bribery Commission intends to seek an extension of the suspension order once it is presented before court.
+
+Previously, the Bribery Commission took action to freeze various assets belonging to the former Health Minister and several of his family members, including his wife, as part of ongoing investigations.
+
+◼️
+
+[Data](articles/19c26d9a.json)
+
+[Extended Data](ext_articles/19c26d9a.ext.json)
 
 ---
 
@@ -90,6 +246,28 @@ Meanwhile, when the final exam of the Law Degree, the MP who went to the exam ha
 
 ---
 
+### Verdict on petitions over Grade 5 Scholarship Exam on Dec. 31
+
+*2024-12-18 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104335/verdict-on-petitions-over-grade-5-scholarship-examondec31) · `en`
+
+The Supreme Court announced that the verdict on the fundamental rights petitions filed seeking an order to re-conduct the 2024 Grade 5 Scholarship Examination, will be delivered on December 31, 2024.
+
+This was announced by the Supreme Court after concluding the hearing related to the petitions, which have been filed by filed by a group of students who sat for the examination and their parents.
+
+The petitions were heard before a judge bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arjuna Obeysekera over a period of three full days.
+
+Accordingly, the presenting of oral submissions of all the attorneys for the petitioning and respondent parties were concluded this evening (18).
+
+Thereafter, it was ordered that if there are any written submission, they be submitted before 9.00 a.m. tomorrow (19).
+
+Accordingly, it was announced that the verdict related to the peitions will be delivered on December 31.
+
+...
+
+[Data](articles/6df30fa7.json)
+
+---
+
 ### Bank Accounts of Rambukwella
 
 *2024-12-18 15:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரம்புக்வெல்லவின்-வங்கிக்-கணக்குகள்-இடைநிறுத்தம்/175-348910) · `ta`
@@ -111,6 +289,52 @@ On July 5, 2024, the Colombo High Court issued a three -month suspension of priv
 [Data](articles/cc236240.json)
 
 [Extended Data](ext_articles/cc236240.ext.json)
+
+---
+
+### ශිෂ්‍යත්ව විභාගය පිළිබඳ ගොනුකළ පෙත්සම්වල තීන්දුව 31වනදා
+
+*2024-12-18 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204492) · `si`
+
+05 වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රය සඳහා යළි විභාගය පවත්වන ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ඊට සහභාගී වූ සිසු සිසුවියන් හා ඔවුන්ගේ දෙමව්පියන් විසින් ඉදිරිපත් කළ මූලික මිනිස් අයිතිවාසිකම් පෙත්සම් පිළිබඳ විභාගය ශ්‍රේෂ්ඨාධිකරණය අද (18) අවසන් කළේය.
+
+ඒ අනුව එහි තීන්දුව ලබන 31 වනදා ප්‍රකාශයට පත් කරන බව නිවේදනය කළේය.
+
+යසන්ත කෝදාගොඩ, කුමුදුනී වික්‍රමසිංහ සහ අර්ජුන ඔබේසේකර යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම් පුරා දින තුනක් තිස්සේ විභාගයට ගැණුනි.
+
+ඒ අනුව පෙත්සම්කාර හා වගඋත්තරකාර පාර්ශවයේ සියලුම නීතිඥවරුන්ගේ වාචික දේශන ඉදිරිපත් කිරීම අද සවස අවසන් විය.
+
+ඉන් අනතුරුව ලිඛිත දේශන තිබේනම් ඒවා හෙට (19) පෙ.ව. 9.00 පෙර ඉදිරිපත් කරන ලෙස නියෝග කළේය.
+
+ඒ අනුව මෙම පෙත්සම්වලට අදාළ තීන්දුව ලබන 31  වනදා ප්‍රකාශයට පත්කරන බව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/347842a0.json)
+
+---
+
+### Shots fired at drug trafficker’s house in Homagama
+
+*2024-12-18 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104334/shots-fired-at-drug-traffickers-house-in-homagama) · `en`
+
+A residence said to belong to a drug trafficker, located in the Ranaviru Gama area of Homagama, was shot at early this morning (18), Meegoda Police said.
+
+Police stated that preliminary investigations have revealed two unidentified gunmen who arrived on a motorcycle had carried out the shooting, and then fled the scene.
+
+Police also revealed that the shooting was carried out using a 9mm pistol.
+
+Accordingly, two bullet casings and a live bullet were found on the road in front of the house.
+
+The shooting is suspected to have been ordered by a major drug trafficker hiding overseas, a high ranking officer of Meegoda Police said.
+
+The owner of the house is believed to have been involved in purchasing drugs from several drug traffickers, which may have been the motive behind the shooting.
+
+However, none of the occupants in the house were injured in the shooting, although two bullets had hit the wall and a window of the house.
+
+...
+
+[Data](articles/c1a1a85e.json)
 
 ---
 
@@ -434,9 +658,11 @@ President Anura Kumara Dissanayake announced that the Withholding Tax will be in
 
 Speaking in Parliament today (18), he said that the government agreed with the International Monetary Fund (IMF) to reduce tax on services exports from the existing 30% to 15%.
 
-He said it was also agreed to increase the Withholding Tax from 5% to 10%.
+He said that an agreement was also reached to increase the Withholding Tax from 5% to 10%.
 
-◼️
+“Usually, elderly people, pensioners, deposit a certain amount of money in banks and live off the interest they earn. Usually, they are subject to tax if they earn Rs. 150,000 per month in interest. But what can happen through withholding tax is that even if it is less than Rs. 150,000, it can be subjected to withholding tax,” he said.
+
+...
 
 [Data](articles/840e6dcf.json)
 
@@ -957,6 +1183,30 @@ The Supreme Court today ordered the CID today to file a detailed report on the f
 [Data](articles/39943217.json)
 
 [Extended Data](ext_articles/39943217.ext.json)
+
+---
+
+### වායු දූෂණය : 'මේ තත්ත්වය ලබන පෙබරවාරි වෙනකම් තියෙන්න පුළුවන්'
+
+*2024-12-18 11:01:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpdnj7qpvxxo) · `si`
+
+වායු දූෂණය : 'මේ තත්ත්වය ලබන පෙබරවාරි වෙනකම් තියෙන්න පුළුවන්'
+
+දිවයිනේ ප්‍රදේශ රැසක අද (දෙසැම්බර් 18 වනදා ) වන විට වායු දූෂණ මට්ටම ඉහළ අගයක් ගෙන තිබේ.
+
+වායු තත්ත්ව දර්ශකයට (Air Quality Index) අනුව කොළඹ වායු ගුණාත්මක දර්ශකය ඒකක 158ක් ලෙස සටහන් විය. එය සෞඛ්‍යයට හිතකර නොවන තත්ත්වයක් ලෙස වර්ගීකරණයකර තිබේ.
+
+මිට අමතරව අද උදෑසන යාපනය දිස්ත්‍රික්කයේ වායු තත්ත්ව දර්ශකය ඒකක 154-160ත් ලෙස සටහන්ව තිබු බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නිකුත් කළ වාර්තා වේ සඳහන් වේ.
+
+කොළඹ නගරය ඇතුළුව දිවයිනේ ප්‍රදේශ රැසක දහවල් වන විටත් අහස මීදුම් පටලයකින් වැසි තිබෙන ආකාරයක් දක්නට ලැබුණි.
+
+මේ වන විට දිවයිනට බලපා ඇති වායු දූෂණ මට්ටම ලබන වසරේ පෙබරවාරි දක්වා පැවතිය හැකි බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ වායු දූෂණ කළමනාකරණ ඒකකයේ ප්‍රධාන විද්‍යාඥ සරත් ප්‍රේමසිරි බීබීසී සිංහල සේවයට පැවසුවේය.
+
+ඔහු පැවසුවේ දකුණු ආසියානු කලාපයේ ඇතිවී තිබෙන වායු දූෂණ මට්ටම ඉහළ යාම හේතුවෙන් විටින් විට මෙරට වායු දුෂණ මට්ටමද ඉහළ යා හැකි බවයි.
+
+...
+
+[Data](articles/a95ee7de.json)
 
 ---
 
@@ -2071,239 +2321,5 @@ However, the concession period for importing rice will end at noon on Friday (20
 [Data](articles/ad79abe8.json)
 
 [Extended Data](ext_articles/ad79abe8.ext.json)
-
----
-
-### CoA to hear petition challenging MP Archchuna’s Parliamentary seat on 15 January
-
-*2024-12-18 04:38:16* · [`dailyftlk`](https://www.ft.lk/news/CoA-to-hear-petition-challenging-MP-Archchuna-s-Parliamentary-seat-on-15-January/56-770639) · `en`
-
-The Court of Appeal has ordered that a petition challenging the Parliamentary seat of Jaffna District Independent Group MP Ramanathan Archchuna be considered on 15 January. The petition seeks a writ of certiorari to nullify his position as a Member of Parliament.
-
-The petition by Abhinava Niwahal Peramuna Chairperson Oshala Herath was taken up today before a bench comprising Justices Sobitha Rajakaruna and Mahen Gopallawa yesterday. After initial deliberations, the court scheduled the petition for 15 January to examine the facts in detail.
-
-The petitioner contends that MP Ramanathan Archchuna submitted his nomination papers during the last General Election while still serving as a doctor employed in the State sector. Herath argues that this act is illegal as it violates the Elections Act, which prohibits individuals holding Government office from contesting elections without first resigning.
-
-...
-
-[Data](articles/b552f4ff.json)
-
-[Extended Data](ext_articles/b552f4ff.ext.json)
-
----
-
-### Conglomerates to SMEs shine in night of enriching corporate reporting excellence at CA Sri Lanka’s TAGS Awards 2024
-
-*2024-12-18 04:37:08* · [`dailyftlk`](https://www.ft.lk/business/Conglomerates-to-SMEs-shine-in-night-of-enriching-corporate-reporting-excellence-at-CA-Sri-Lanka-s-TAGS-Awards-2024/34-770638) · `en`
-
-The much-anticipated grand finale of the 59th TAGS Awards 2024, organised by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), celebrated excellence in corporate reporting, with a diverse range of organisations – from multinationals and conglomerates to SMEs and NGOs – showcasing their commitment to high standards in financial and non-financial reporting by embracing the principles of transparency, accountability, governance, and sustainability while also leading the way in raising the standards of corporate reporting.
-
-Held amidst much celebration at the Shangri-La Colombo on 12 December in the presence of the country’s corporate elite, the event highlighted the transformative role of enriching corporate reporting practices, complemented by a digital edge.
-
-...
-
-[Data](articles/59f09aea.json)
-
-[Extended Data](ext_articles/59f09aea.ext.json)
-
----
-
-### Commercial High Court halts winding up of Almar Teas filed by Commercial Bank
-
-*2024-12-18 04:33:14* · [`dailyftlk`](https://www.ft.lk/business/Commercial-High-Court-halts-winding-up-of-Almar-Teas-filed-by-Commercial-Bank/34-770637) · `en`
-
-The Commercial Bank of Ceylon PLC instituted a winding up application bearing No. HC (Civil) 44/2024/CO by Petition dated 27 June 2024 against Almar Teas Ltd. under the provisions of the Companies Act, No. 07 of 2007 on the basis that that Almar Teas Ltd. failed to honour a statutory demand and thus should be deemed insolvent. On such basis publications effected and the matter was fixed for inquiry on 20 December 2024.
-
-However, Almar Teas Ltd. by way of a Motion dated 6 November 2024 preferred an application and moved that the entire winding up application is per incuriam, grossly misconceived and untenable in law and sought for the immediate dismissal of the winding up application.
-
-...
-
-[Data](articles/84939d16.json)
-
-[Extended Data](ext_articles/84939d16.ext.json)
-
----
-
-### UK-Sri Lanka Trade Mission boosts women entrepreneurs’ export potential
-
-*2024-12-18 04:32:56* · [`dailyftlk`](https://www.ft.lk/business/UK-Sri-Lanka-Trade-Mission-boosts-women-entrepreneurs-export-potential/34-770636) · `en`
-
-The Sri Lanka Export Development Board (EDB) and the International Trade Centre (ITC) co-organised a series of factory visits as part of the UK-Sri Lanka Trade Mission under the SheTrades Commonwealth+ Program.
-
-59 factory visits were held from 2-6 December, the initiative brought buyers from the West and North Yorkshire Chamber of Commerce and the Greater Birmingham Chamber of Commerce to Sri Lanka, highlighting women-led businesses across Colombo, Gampaha, Kalutara, Kurunegala, Kandy, Matale, Galle, Matara, Jaffna, Mullaitivu and Kilinochchi.
-
-This program provided participating women entrepreneurs with unparalleled opportunities to connect with UK buyers, showcase their products and explore new export markets, particularly in the UK. Representing sectors such as apparel and agri-food, these businesses demonstrated the quality, innovation, and sustainability of Sri Lanka’s women-led enterprises.
-
-...
-
-[Data](articles/c431aff3.json)
-
-[Extended Data](ext_articles/c431aff3.ext.json)
-
----
-
-### Vidullanka’s first Guyanese EPC project inaugurated
-
-*2024-12-18 04:31:01* · [`dailyftlk`](https://www.ft.lk/business/Vidullanka-s-first-Guyanese-EPC-project-inaugurated/34-770635) · `en`
-
-Team Vidul with the special attendees at the inauguration, including the Prime Minister of Guyana Brigadier (Ret’d) Mark Phillips (centre)
-
-Vidullanka PLC’s first project under its $ 12.85 million Engineering Procurement and Construction contract with the Guyana Energy Agency, the 0.7MW Moco Moco Mini Hydropower Plant, was inaugurated on 13 December 2024. The ceremony was graced by the presence of the Prime Minister of Guyana Brigadier (Ret’d) Mark Phillips, as well as key representatives of the Government and local authorities, the Guyana Energy Agency (GEA), the Lethem Power Company and the community.
-
-In 2022, Vidullanka PLC won a competitive tender to the GEA’s EPC contract to enhance the capacity and reconstruct the Moco Moco Mini Hydropower Plant and construct a brand-new project, the 1.5MW Kumu Mini Hydropower Plant. This achievement marks a milestone for the company as its first EPC contract to be undertaken in South America.
-
-...
-
-[Data](articles/15845483.json)
-
-[Extended Data](ext_articles/15845483.ext.json)
-
----
-
-### We make a decision to insult religious traditions
-
-*2024-12-18 03:02:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமய-மரபுகளை-அவமதிக்கும்-தீர்மானத்தை-மேற்கொள்ளோம்/175-348875) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-PM Harini Amarasuriya criticizes cremation policy as unjust to religions & families. She vows to prevent similar decisions affecting religious traditions.
-
-🟩
-
-Prime Minister Harini Amarasuriya told Parliament yesterday (17) that the injustice inflicted on religious traditions and mothers could never be justified by cremation of the victims of the infection.
-
-The resolution of the last government is not in any way justified. It is a resolution of the most sensitive and most cruel. The family is able to express their grief and reduce grief through the customs that are fulfilled after a death. That is why it has been given religious values.
-
-Such traditions are very important in the uncertainty like the Kovit infection. In this case, such a terrible decision cannot be allowed in any way. Politics or any other reason for that is not valid. It is unreasonable to make such a decision without scientific basis. Therefore, our government will never make any resolution that will cause such suffering to any sect or to insult religious traditions.
-
-...
-
-[Data](articles/301c9f70.json)
-
-[Extended Data](ext_articles/301c9f70.ext.json)
-
----
-
-### Create a people's movement for the task of carrying out the Himalayan Declaration;The insistence of a variety of participants
-
-*2024-12-18 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201544) · `ta`
-
-Sum:0
-
-🟩
-
-The district -level conversations in Jaffna and Kilinochchi have been urged to immediately create a people's movement to advance the Himalayan Declaration as a national conversation.
-
-The Himalayan Debate on the Himalayan Debate in the country was held in Kilinochchi and Jaffna on the 16th and 17th.
-
-Representatives of Buddhist, Hindu, Catolic, Islamic leaders and representatives of the multi -faceted civil society, youth and civilians were present.
-
-During this event, the Himalayasanadanam had a good time to be addressed at the national level. Therefore, all the participants accepted that a national discussion should be carried out immediately.
-
-In addition, the participants also called for the great task of continuing to carry out the Himalayan Debate within the Buddhist organizations and limited civil organizations, including the World Tamil Congress.
-
-...
-
-[Data](articles/41c790a5.json)
-
-[Extended Data](ext_articles/41c790a5.ext.json)
-
----
-
-### The government has not corrected a subtitle even though the International Monetary Monetary Fund has come to an end - Harshadi Silva
-
-*2024-12-18 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201543) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government fails to revise IMF agreement despite opportunity. Opposition criticizes lack of action on economic reforms. National production increases but government faces criticism over future projections.
-
-🟩
-
-Opposition member Harshadi Silva said the government had not taken steps to revise a verse, despite the opportunity to amend the International Monetary Fund Agreement.
-
-He was speaking on Tuesday (17) in Parliament.
-
-The President, who has visited India, has come to the Indian government to make the country the economy of the country and the government has come to various consensus.. We are happy with this. We must have the best relationship with our recent country India. It is a country that can always cooperate with us.
-
-However, the National People's Power has said that it will not have any contact with India regarding the petroleum pipe.. Similarly, it was reported that the power was not connected.
-
-But now we know that the government has agreed to these two issues. Our position is to take place. We do not say that the consensus of the Monetary Fund is like that. Instead, I should make amendments to it and go ahead.
-
-...
-
-[Data](articles/33495e52.json)
-
-[Extended Data](ext_articles/33495e52.ext.json)
-
----
-
-### How many people have been placed under the Prevention of Terrorism Act?- The Attorney General's Department has released data on the request request
-
-*2024-12-18 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201542) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-6 LTTE-related arrests under Prevention of Terrorism Act; 24 for Easter Sunday attacks. 81 released on bail between 2020-2023. Concerns raised about frequent arrests and questioning.
-
-🟩
-
-According to the data of the Attorney General's Department, 6 persons for crimes associated with the Liberation Tigers of Tamil Eelam (LTTE) and 24 crimes related to the survival Sunday attacks have been kept under the Prevention of Terrorism Act.
-
-Ambika Sakkunanathan, one of the activists who are carrying out the pro -activities, has been urged to repeal the Terrorism Act, which has been urged to completely abolish the international human rights and humanitarian laws.
-
-According to the data provided by the Attorney General's Department, six people have been detained for crimes related to the Liberation Tigers of Tamil Eelam (LTTE) under the Terrorism Act and 34 have been released on bail without being sued.. Meanwhile, the number of those who have been filed and released on bail is 49 and the number of those released in the period between 2020 and 2023 is 81.
-
-...
-
-[Data](articles/abf47f38.json)
-
-[Extended Data](ext_articles/abf47f38.ext.json)
-
----
-
-### 2024-12-17 (Tuesday)
-
-### Lanka R10 Super League
-
-*2024-12-17 23:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201540) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Hambantota Bangla Tigers win by 5 wickets vs Goal Marwal in Lanka R10 Super League. Shakib Al Hasan top scores with 43. Hambantota leads with 9 points after first round. Next matches: Hambantota vs Jeewana Titans, Kandy Boltz vs Goal Marwal.
-
-🟩
-
-Hambantota Bangla Tigers won by 5 wickets to remain 4 balls in the Tuesday night (17) at the Pallekele International Stadium in Kandy between Hambanta Bangla Tigers and Goal Marwal.
-
-The match was completed in the first round of the inaugural Lanka R20 Super League cricket.
-
-With this victory, the teams were in second place with 9 points in Hambantota Bungalow.
-
-In the last first round of the first round of the first round, the Goal Marwal team, who was first invited to bat, scored only 82 runs for the loss of 6 wickets in 10 overs.
-
-Bangladeshi player Shakib Al Hasan was the only ones who faced 18 balls and scored 43 runs without losing 4 pounds and 3 sixes.
-
-Only Alex Hales (14) received a double -digit number than him.
-
-Ratnayake took 2 wickets for 10 runs while Sahan Arachike took 2 wickets for 11 runs.
-
-Hambantota Bangla Tigers lost 5 wickets in 9.2 overs and scored 84 runs.
-
-The Hambantota Bangla Tigers were bowled out for 57 in 6.4 overs.
-
-...
-
-[Data](articles/2817bfa3.json)
-
-[Extended Data](ext_articles/2817bfa3.ext.json)
 
 ---

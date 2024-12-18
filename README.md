@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 04:15:53**
+As of **2024-12-19 04:27:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,780 (99.8%) of 60,907 articles have been extended.
+60,782 (99.8%) of 60,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,6 +106,8 @@ During the proceedings, the defendants agreed to adhere to the Supreme Court’s
 
 [Data](articles/2795ecd2.json)
 
+[Extended Data](ext_articles/2795ecd2.ext.json)
+
 ---
 
 ### LAUGFS Gas wins Gold  at TAGS Awards 2024
@@ -121,6 +123,8 @@ The TAGS Awards, celebrated for 59 years, is a hallmark event recognising excell
 ...
 
 [Data](articles/3708f3ed.json)
+
+[Extended Data](ext_articles/3708f3ed.ext.json)
 
 ---
 

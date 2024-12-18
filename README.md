@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 10:02:31**
+As of **2024-12-18 10:15:55**
 
 ## Newspaper Stats
 
-*Scraped **60,747** Articles*
+*Scraped **60,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,789
 adaderanalk | 7,401
-tamilmirrorlk | 8,678
+tamilmirrorlk | 8,680
 virakesarilk | 10,012
 adaderanasinhalalk | 10,491
 
@@ -26,61 +26,119 @@ adaderanasinhalalk | 10,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,658 (99.9%) of 60,747 articles have been extended.
+60,661 (99.9%) of 60,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### விபத்தில் தந்தை பலி: மகள் படுகாயம்
+### நிசாம் காரியப்பர் எம்.பியாக பதவிப்பிரமாணம்
+
+*2024-12-18 10:06:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிசாம்-காரியப்பர்-எம்-பியாக-பதவிப்பிரமாணம்/175-348886) · `ta`
+
+நிசாம் காரியப்பர்  ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியலில் இருந்து பாராளுமன்ற உறுப்பினராக பதவியேற்றுள்ளார்.
+
+◼️
+
+[Data](articles/878f61c8.json)
+
+---
+
+### வீட்டின் மீது சரமாரியாக துப்பாக்கிச் சூடு
+
+*2024-12-18 09:56:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டின்-மீது-சரமாரியாக-துப்பாக்கிச்-சூடு/175-348885) · `ta`
+
+ஹோமாகம பனாகொட பெலடகொட பிரதேசத்தில் அமைந்துள்ள போதைப்பொருள் வியாபாரிக்கு சொந்தமானது என கூறப்படும் வீடொன்றின் மீது புதன்கிழமை (18) காலை பல துப்பாக்கிச் சூட்டுக்கள் இடம்பெற்றுள்ளதாக மீகொட பொலிஸார் தெரிவித்தனர்.
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக முதற்கட்ட விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வெளிநாட்டில் உள்ள மற்றுமொரு முக்கிய போதைப்பொருள் வியாபாரியின் வழிகாட்டலின் பேரில் இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டிருக்கலாம் என சந்தேகிக்கப்படுவதாக மெகொட பொலிஸ் நிலையத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a31741f1.json)
+
+---
+
+### Father killed in accident: daughter injured
 
 *2024-12-18 09:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-தந்தை-பலி-மகள்-படுகாயம்/94-348884) · `ta`
 
-மோட்டார் சைக்கிளும் வேனும் மோதி விபத்துக்குள்ளானதில் மோட்டார் சைக்கிளில் பயணித்த தந்தை உயிரிழந்துள்ளதுடன் மகளும் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தொடுவாவ பொலிஸார் தெரிவிக்கின்றனர்.
+Here's a summary of 200 characters:
 
-இந்த விபத்தில் பம்பல பிரதேசத்தைச் சேர்ந்த ஜூட் நிரோஷன் (வயது 50) உயிரிழந்துள்ளார்.
 
-உயிரிழந்தவரின் 24  வயதுடைய மகள் காயமடைந்த நிலையில் மாரவில வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
 
-கொழும்பு - சிலாபம் பிரதான வீதியில் மஹா வெவ நகருக்கு அருகில் தனது மகளுடன் உறவினர் வீட்டில் இருந்து வீடு திரும்பிய வேளையில் இந்த விபத்து செவ்வாய்க்கிழமை (17) பிற்பகல் இடம்பெற்றுள்ளது.
+Motorcycle-van collision kills father, injures 24-year-old daughter. Jude Niroshan (50) dies; daughter hospitalized. Accident occurred on Colombo-Chilaw road. Van, owned by state agency, veered off road and hit motorcycle.
 
-விபத்துக்குள்ளான வேன் குறிப்பிட்ட அரச நிறுவனத்திற்கு சொந்தமான வேன் எனவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-வேன் சாரதியின் நித்திரை கலக்கத்தால் வான், வீதியை விட்டு விலகி, எதிர்திசையில் வந்த மோட்டார் சைக்கிள் மீது பாய்ந்து வீதியின் ஓரத்தில் இருந்த கட்டிடத்தில் மோதியுள்ளது.
+The father was killed when a motorcycle and van crashed into an accident and the daughter was admitted to the hospital.
+
+Jude Niroshan (50 years old) from Bambala area died in the accident.
+
+A 24 -year -old daughter of the deceased is being treated at the Marawila Hospital with injuries.
+
+The accident took place on Tuesday afternoon when he returned home from a relative's home with her daughter near Maha Veva Nagar on the Colombo -Chilaw main road.
+
+Police said the van that was involved in the crash was owned by a particular state agency.
+
+The van driver's sleep was mixed with the van, leaving the road and hitting the motorcycle on the opposite side and crashed into the building on the side of the road.
 
 ◼️
 
 [Data](articles/6e544548.json)
 
+[Extended Data](ext_articles/6e544548.ext.json)
+
 ---
 
-### கொழும்பிலிருந்து சென்ற அதிசொகுசு பேருந்து, விபத்து
+### Busy bus from Colombo
 
 *2024-12-18 09:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கொழும்பிலிருந்து-சென்ற-அதிசொகுசு-பேருந்து-விபத்து/71-348883) · `ta`
 
-கொழும்பிலிருந்து பயணிகளை ஏற்றி வந்த அதிசொகுசு பேருந்து, கொடிகாமம் - மீசாலை பகுதிகளுக்கு இடையே ஏ9 வீதியில் வைத்து லாண்ட் மாஸ்டரை மோதி விபத்துக்குள்ளானதில் சிலர் காயமடைந்த சம்பவம் புதன்கிழமை (18) அதிகாலை    இடம்பெற்றுள்ளது.
+Here's a summary of 200 characters:
 
-விபத்தில் காயமடைந்தவர்கள், சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன் அதில் சிலர் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+
+Colombo-bound bus crash: Land Master hits A9 road near Kodikamam-Meesalai. Injured taken to Chavakachcheri and Jaffna hospitals.
+
+🟩
+
+The incident took place on Wednesday morning (18) when a Land Master crashed into an A9 road between the Kodikamam -Meesalai area, which was carrying passengers from Colombo.
+
+The injured have been admitted to the Chavakachcheri Resource Hospital and some of them have been transferred to the Jaffna Teaching Hospital for further treatment.
 
 ◼️
 
 [Data](articles/440b11f4.json)
 
+[Extended Data](ext_articles/440b11f4.ext.json)
+
 ---
 
-### ஜனாதிபதி   நாடு திரும்பினார்
+### The President returned to the country
 
 *2024-12-18 09:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நாடு-திரும்பினார்/175-348882) · `ta`
 
-இந்தியாவிற்கான இருநாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி அநுரகுமார திசாநாயக்க செவ்வாய்கிழமை (17) நாட்டை வந்தடைந்தார்.
+Here's a summary of 200 characters:
 
-இந்திய ஜனாதிபதி திரௌபதி முர்முவின் அழைப்பின் பேரில் ஜனாதிபதி அநுரகுமார திசாநாயக்க இந்த விஜயத்தை மேற்கொண்டிருந்ததுடன், இதன்போது இந்திய பிரதமர் நரேந்திர மோடி, இந்திய அரசாங்கத்தின் அமைச்சர்கள் மற்றும் இந்தியாவின் முன்னணி வர்த்தகர்களுடன் இருதரப்பு பேச்சுவார்த்தைகளிலும் கலந்துகொண்டார்.
 
-வௌிநாட்டு அலுவல்கள், வௌிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ ஆகியோர் இந்த விஜயத்தில் கலந்து கொண்டனர்.
+
+Pres. Anura Kumara Dissanayake returns from India visit. Attended bilateral talks with PM Modi & Indian officials. Accompanied by Min. Vijitha Herath & Prof. Anil Jayantha Fernando.
+
+🟩
+
+President Anura Kumara Dissanayake, who was on a two -day official visit to India, arrived in the country on Tuesday (17).
+
+President Anurakumara Dissanayake made the visit at the invitation of Indian President Draupadi Murmu and attended bilateral talks with Indian Prime Minister Narendra Modi, ministers of the Indian government and India's leading traders.
+
+Minister of Foreign Affairs, Foreign Employment and Tourism Minister Vijitha Herath, Minister of Industry and Economic Development Professor Anil Jayantha Fernando were also present.
 
 ◼️
 
 [Data](articles/63d3f50a.json)
+
+[Extended Data](ext_articles/63d3f50a.ext.json)
 
 ---
 
@@ -2367,53 +2425,5 @@ Deputy Speaker Rizvi Sally made it clear today that he was not a specialist and 
 [Data](articles/7773e913.json)
 
 [Extended Data](ext_articles/7773e913.ext.json)
-
----
-
-### Indictments filed against biomedical engineer attached to Health Ministry
-
-*2024-12-17 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104310/indictments-filed-against-biomedical-engineer-attached-to-health-ministry) · `en`
-
-Indictments have been filed before the Colombo High Court today (17) against a biomedical engineer attached to the Division of Biomedical Engineering Services at the Ministry of Health, alleging that he caused financial losses to the government through the purchase of 35 operating room lamps in 2015.
-
-Accordingly, the indictments filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) were handed over before the Colombo High Court Judge Nawarathne Marasinghe today.
-
-Subsequently, the court ordered the defendant to be released on two surety bails of Rs. 2.5 million each and a cash bail of Rs. 25,000.
-
-Furthermore, the court imposed an overseas travel ban against him until the hearing of the case is conclude, and ordered him to hand over his passport to the court.
-
-In addition, another bail condition was imposed on the defendant which requires him to report to the Bribery Commission on the last Sunday of every month.
-
-...
-
-[Data](articles/2d151b85.json)
-
-[Extended Data](ext_articles/2d151b85.ext.json)
-
----
-
-### Three arrested with domestic guns in Vavuniya
-
-*2024-12-17 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201495) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"3 arrested with homemade weapons in Vavuniya. Ages: 18, 19, 24. Arrested after 3 raids based on tip-offs."
-
-🟩
-
-Three suspects were arrested yesterday (16) with domestic guns in the Vavuniya - Puliyankulam area, Puliyankulam police said.
-
-The suspects have been arrested during three rounds carried out on the basis of confidential information received by Puliyankulam Police Station.
-
-The arrested suspects were 18, 19 and 24 years old.
-
-◼️
-
-[Data](articles/1a1aa7a2.json)
-
-[Extended Data](ext_articles/1a1aa7a2.ext.json)
 
 ---

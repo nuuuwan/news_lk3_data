@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 05:26:56**
+As of **2024-12-19 04:43:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,786 (99.8%) of 60,907 articles have been extended.
+60,783 (99.8%) of 60,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -250,8 +250,6 @@ Colombo School of Arts and Sciences (CSAS) recently concluded a panel discussion
 
 [Data](articles/659a2b20.json)
 
-[Extended Data](ext_articles/659a2b20.ext.json)
-
 ---
 
 ### Sharing empathy with children this festive season
@@ -263,8 +261,6 @@ The Christmas season is a special time filled with joy, excitement, and giving. 
 ...
 
 [Data](articles/9ffb2c81.json)
-
-[Extended Data](ext_articles/9ffb2c81.ext.json)
 
 ---
 
@@ -693,8 +689,6 @@ The inauguration ceremony, attended by David Rosell, his daughter Sophie Rosell 
 ...
 
 [Data](articles/8ecb8156.json)
-
-[Extended Data](ext_articles/8ecb8156.ext.json)
 
 ---
 

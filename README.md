@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 05:51:27**
+As of **2024-12-18 06:48:31**
 
 ## Newspaper Stats
 
-*Scraped **60,735** Articles*
+*Scraped **60,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 5,785
 adaderanalk | 7,401
 tamilmirrorlk | 8,672
 virakesarilk | 10,012
-adaderanasinhalalk | 10,489
+adaderanasinhalalk | 10,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,642 (99.8%) of 60,735 articles have been extended.
+60,643 (99.8%) of 60,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට අදත් වැසි
+
+*2024-12-18 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204471) · `si`
+
+උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් අද (18) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ඌව සහ මධ්‍යම පළාත්වලත් රත්නපුර, මඩකලපුව, අම්පාර සහ හම්බන්තොට දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+දිවයිනේ උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+මේ අතර නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පවතින අඩු පීඩන කලාපය අද (18) උදෑසන වන විට දිවයිනට ඊසාන දෙසින් පිහිටා ඇති අතර, එය ක්‍රමයෙන් බටහිරට බරව වයඹ දෙසට ගමන් කරනු ඇතැයි බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/87570794.json)
+
+---
 
 ### Yukthi outraged by extractive external debt restructuring agreement
 
@@ -45,6 +65,8 @@ On 13 December 2024, the Secretary to the Ministry of Finance announced the “s
 ...
 
 [Data](articles/90f2fefa.json)
+
+[Extended Data](ext_articles/90f2fefa.ext.json)
 
 ---
 
@@ -2407,33 +2429,5 @@ He said the International Monetary Fund and the government had agreed to hold pa
 [Data](articles/78e53008.json)
 
 [Extended Data](ext_articles/78e53008.ext.json)
-
----
-
-### MP Archana is prohibited to log in
-
-*2024-12-17 11:58:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-அர்ச்சுனா-உள்நுழைய-தடை/175-348838) · `ta`
-
-MP Archana barred from entering Jaffna Bodhana Hospital due to court order. Hospital administration must seek permission before allowing entry. Security personnel instructed to hand over MP to police if attempting unauthorized access.
-
-🟩
-
-The Director of the Jaffna Teaching Hospital has notified the Parliamentarian that the parliamentarian Archana will be admitted to the Jaffna Bodhana Hospital only as a patient.
-
-The Jaffna Magistrate's Court yesterday issued a bail worth Rs 100,000.
-
-The court has also banned the hospital administration to obtain permission from the hospital in order to go to the Jaffna Bodhana Hospital.
-
-In accordance with this order, the hospital administration has informed the MP that he will not be allowed to enter the hospital premises for any purpose other than the patient.
-
-Moreover, the hospital has issued a directive to its security authorities to hand over the MP to the Jaffna police, if they try to go inside without proper permission.
-
-In such cases, security authorities have been ordered to handle the situation without being forced to harass or harass.
-
-◼️
-
-[Data](articles/3e60a559.json)
-
-[Extended Data](ext_articles/3e60a559.ext.json)
 
 ---

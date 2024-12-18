@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 05:01:27**
+As of **2024-12-19 04:43:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,784 (99.8%) of 60,907 articles have been extended.
+60,783 (99.8%) of 60,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -249,8 +249,6 @@ Colombo School of Arts and Sciences (CSAS) recently concluded a panel discussion
 ...
 
 [Data](articles/659a2b20.json)
-
-[Extended Data](ext_articles/659a2b20.ext.json)
 
 ---
 

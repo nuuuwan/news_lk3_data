@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 09:19:45**
+As of **2024-12-18 09:43:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,653 (99.9%) of 60,743 articles have been extended.
+60,656 (99.9%) of 60,743 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -322,6 +322,8 @@ However, the concession period for importing rice will end at noon on Friday (20
 
 [Data](articles/ad79abe8.json)
 
+[Extended Data](ext_articles/ad79abe8.ext.json)
+
 ---
 
 ### CoA to hear petition challenging MP Archchuna’s Parliamentary seat on 15 January
@@ -338,6 +340,8 @@ The petitioner contends that MP Ramanathan Archchuna submitted his nomination pa
 
 [Data](articles/b552f4ff.json)
 
+[Extended Data](ext_articles/b552f4ff.ext.json)
+
 ---
 
 ### Conglomerates to SMEs shine in night of enriching corporate reporting excellence at CA Sri Lanka’s TAGS Awards 2024
@@ -351,6 +355,8 @@ Held amidst much celebration at the Shangri-La Colombo on 12 December in the pre
 ...
 
 [Data](articles/59f09aea.json)
+
+[Extended Data](ext_articles/59f09aea.ext.json)
 
 ---
 

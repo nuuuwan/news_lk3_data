@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 09:43:27**
+As of **2024-12-18 10:02:31**
 
 ## Newspaper Stats
 
-*Scraped **60,743** Articles*
+*Scraped **60,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,677
 economynextcom | 3,698
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,788
+adalk | 5,789
 adaderanalk | 7,401
-tamilmirrorlk | 8,675
+tamilmirrorlk | 8,678
 virakesarilk | 10,012
 adaderanasinhalalk | 10,491
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 10,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,656 (99.9%) of 60,743 articles have been extended.
+60,658 (99.9%) of 60,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### விபத்தில் தந்தை பலி: மகள் படுகாயம்
+
+*2024-12-18 09:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-தந்தை-பலி-மகள்-படுகாயம்/94-348884) · `ta`
+
+மோட்டார் சைக்கிளும் வேனும் மோதி விபத்துக்குள்ளானதில் மோட்டார் சைக்கிளில் பயணித்த தந்தை உயிரிழந்துள்ளதுடன் மகளும் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக தொடுவாவ பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த விபத்தில் பம்பல பிரதேசத்தைச் சேர்ந்த ஜூட் நிரோஷன் (வயது 50) உயிரிழந்துள்ளார்.
+
+உயிரிழந்தவரின் 24  வயதுடைய மகள் காயமடைந்த நிலையில் மாரவில வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றார்.
+
+கொழும்பு - சிலாபம் பிரதான வீதியில் மஹா வெவ நகருக்கு அருகில் தனது மகளுடன் உறவினர் வீட்டில் இருந்து வீடு திரும்பிய வேளையில் இந்த விபத்து செவ்வாய்க்கிழமை (17) பிற்பகல் இடம்பெற்றுள்ளது.
+
+விபத்துக்குள்ளான வேன் குறிப்பிட்ட அரச நிறுவனத்திற்கு சொந்தமான வேன் எனவும் பொலிஸார் தெரிவித்தனர்.
+
+வேன் சாரதியின் நித்திரை கலக்கத்தால் வான், வீதியை விட்டு விலகி, எதிர்திசையில் வந்த மோட்டார் சைக்கிள் மீது பாய்ந்து வீதியின் ஓரத்தில் இருந்த கட்டிடத்தில் மோதியுள்ளது.
+
+◼️
+
+[Data](articles/6e544548.json)
+
+---
+
+### கொழும்பிலிருந்து சென்ற அதிசொகுசு பேருந்து, விபத்து
+
+*2024-12-18 09:50:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கொழும்பிலிருந்து-சென்ற-அதிசொகுசு-பேருந்து-விபத்து/71-348883) · `ta`
+
+கொழும்பிலிருந்து பயணிகளை ஏற்றி வந்த அதிசொகுசு பேருந்து, கொடிகாமம் - மீசாலை பகுதிகளுக்கு இடையே ஏ9 வீதியில் வைத்து லாண்ட் மாஸ்டரை மோதி விபத்துக்குள்ளானதில் சிலர் காயமடைந்த சம்பவம் புதன்கிழமை (18) அதிகாலை    இடம்பெற்றுள்ளது.
+
+விபத்தில் காயமடைந்தவர்கள், சாவகச்சேரி ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன் அதில் சிலர் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/440b11f4.json)
+
+---
+
+### ஜனாதிபதி   நாடு திரும்பினார்
+
+*2024-12-18 09:49:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நாடு-திரும்பினார்/175-348882) · `ta`
+
+இந்தியாவிற்கான இருநாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி அநுரகுமார திசாநாயக்க செவ்வாய்கிழமை (17) நாட்டை வந்தடைந்தார்.
+
+இந்திய ஜனாதிபதி திரௌபதி முர்முவின் அழைப்பின் பேரில் ஜனாதிபதி அநுரகுமார திசாநாயக்க இந்த விஜயத்தை மேற்கொண்டிருந்ததுடன், இதன்போது இந்திய பிரதமர் நரேந்திர மோடி, இந்திய அரசாங்கத்தின் அமைச்சர்கள் மற்றும் இந்தியாவின் முன்னணி வர்த்தகர்களுடன் இருதரப்பு பேச்சுவார்த்தைகளிலும் கலந்துகொண்டார்.
+
+வௌிநாட்டு அலுவல்கள், வௌிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத், தொழில் அமைச்சர் மற்றும் பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் பேராசிரியர் அனில் ஜயந்த பெர்னாண்டோ ஆகியோர் இந்த விஜயத்தில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/63d3f50a.json)
+
+---
+
+### ඉන්දීය සංචාරය නිම කළ ජනපති දිවයිනට
+
+*2024-12-18 08:18:20* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-සංචාරය-නිම-කළ-ජනපති-දිවයිනට/11-413708) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය තුන් දින ඉන්දීය සංචාරය නිමා කර 12/17 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා ද සනාථ කළේය.
+
+ඔහු සමග දූත පිරිස ලෙස සහභාගී වූ අමාත්‍ය  මහාචාර්ය අනිල් ජයන්ත , අමාත්‍ය විජිත හේරත් ඇතුළු ඇතුළු පිරිස ද එම ගුවන් යානයෙන්ම ආපසු පැමිණ තිබුණි.
+
+ඔවුන් 12/17 දින රාත්‍රී 10.00 ට ඉන්දියාවේ නවදිල්ලි නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 196 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+ජනාධිපතිවරයා ඇතුළු ශ්‍රී ලංකා දූත පිරිස ඉකුත් 12/15 දින සිය ඉන්දීය සංචාරය සදහා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් ගියේය.
+
+◼️
+
+[Data](articles/0de7759c.json)
+
+---
 
 ### Happy news to school students
 
@@ -408,6 +478,8 @@ In 2022, Vidullanka PLC won a competitive tender to the GEA’s EPC contract to 
 
 [Data](articles/15845483.json)
 
+[Extended Data](ext_articles/15845483.ext.json)
+
 ---
 
 ### We make a decision to insult religious traditions
@@ -569,6 +641,8 @@ The attainment of ISO 20000:2018 underscores the Bank’s commitment to operatio
 ...
 
 [Data](articles/2696d4ce.json)
+
+[Extended Data](ext_articles/2696d4ce.ext.json)
 
 ---
 
@@ -2341,109 +2415,5 @@ The arrested suspects were 18, 19 and 24 years old.
 [Data](articles/1a1aa7a2.json)
 
 [Extended Data](ext_articles/1a1aa7a2.ext.json)
-
----
-
-### Due to the lack of corruption of the government, I'm looking for education - Prime Minister
-
-*2024-12-17 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204460) · `si`
-
-Here's a 200-character summary:
-
-
-
-Prime Minister Harini Amarasuriya accuses opposition of investigating government corruption regarding ruling party members' qualifications. She claims previous governments were corrupt and seeks transparency in ministers' educational backgrounds.
-
-🟩
-
-Prime Minister Harini Amarasuriya says that the opposition is trying to find the government's stealing regarding the qualifications of the ruling party members.
-
-Speaking in Parliament today (17), she said that MPs of previous governments and MPs were found to be corruption.
-
-"There is a wonderful interest in the Coluphas of the Ministers in our government. We're looking into the coluphas of so many of us, asking for the coluphas. Ask for the arrest ... Asking for this.
-
-Is a wonderful interest. We are happy with the ministers, governments, who were not the educational qualifications of their governments. He was looking for theft. Therefore, it is possible to make a little progress that we cannot find out about our heal. "
-
-◼️
-
-[Data](articles/44070529.json)
-
-[Extended Data](ext_articles/44070529.ext.json)
-
----
-
-### Two persons arrested for stealing vehicles in Vavuniya
-
-*2024-12-17 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201491) · `ta`
-
-Two arrests made in Vavuniya for stolen vehicles. Nelukkulam police investigation ongoing. Four vehicle thefts reported. Three-wheeler seized as evidence. Suspects to be presented in court soon.
-
-🟩
-
-Nelukkulam police have arrested two persons for allegedly stolen vehicle bargains at a vehicle parking lot in Veppankulam area of ​​the Vavuniya Nelukulam police division.
-
-The Nelukkulam police have launched a secret inquiries on the complaint received by the Nelukkulam Police that the vehicle bargains have been stolen in the vehicle parking lot.
-
-Two suspects have been arrested with four vehicle bats and police have seized a three -wheeler suspected to have been used for the crime.
-
-In addition, the Nelukkulam police are taking steps to present the Magistrate's Court after further investigations.
-
-◼️
-
-[Data](articles/d5dfb140.json)
-
-[Extended Data](ext_articles/d5dfb140.ext.json)
-
----
-
-### 4 National List Members of Parliament as Members of Parliament
-
-*2024-12-17 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201478) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Four new National List MPs sworn in: Arjuna Sujeewa Senasinghe, Mohammed Ismail Muthu Muhammad, Mano Ganesha, and Faizer Mustafa. Representing United People's Power and New Democratic Front parties."
-
-🟩
-
-Four new Members of Parliament in the Tenth Parliament were sworn in on Tuesday (17) in the presence of Deputy Speaker of the House, Rizvi Sally.
-
-Arjuna Sujeewa Senasinghe, Mohammed Ismail Muthu Muhammad, Mano Ganesha and Mano Ganesha as National List MPs representing the United People's Power and Hon.
-
-After the swearing in the presence of the Deputy Speaker, they also signed the Members of Parliament in the presence of Parliamentary Secretary Kushani Rohanadeera.
-
-The first session of the tenth parliament was held on November 21 and the new members were sworn in that day.. Four National List for the United People's Power has not been released in the name of the Gazette. On the 12th, the Election Commission issued a gazette containing the names of the new MPs. Accordingly, three of the four national list MPs sworn in today.
-
-...
-
-[Data](articles/3859c15b.json)
-
-[Extended Data](ext_articles/3859c15b.ext.json)
-
----
-
-### Duration of the Ministry of Health on a matter of corruption
-
-*2024-12-17 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204459) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Colombo High Court case: Minister of Health faces trial over 2015 bribery allegations involving a biomedical engineer at the Ministry of Health.
-
-🟩
-
-The Minister of Health was held in the Colombo High Court today (17) against a biomedical engineer attached to a biomedical engineer attached to the Biological Engineer at the Ministry of Health in 2015.
-
-The indictments were filed by the Bribery Commission before Colombo High Court Judge Navaratne Marasinghe today.
-
-◼️
-
-[Data](articles/97e92aad.json)
-
-[Extended Data](ext_articles/97e92aad.ext.json)
 
 ---

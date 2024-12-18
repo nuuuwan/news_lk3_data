@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 11:44:11**
+As of **2024-12-18 12:03:01**
 
 ## Newspaper Stats
 
-*Scraped **60,784** Articles*
+*Scraped **60,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,792
 adaderanalk | 7,409
-tamilmirrorlk | 8,684
+tamilmirrorlk | 8,685
 virakesarilk | 10,017
 adaderanasinhalalk | 10,500
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,675 (99.8%) of 60,784 articles have been extended.
+60,675 (99.8%) of 60,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### பாராளுமன்றத்துக்கு வந்தார் ஜனாதிபதி
+
+*2024-12-18 11:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்தார்-ஜனாதிபதி/175-348897) · `ta`
+
+இந்திய விஜயத்தை முடித்துக்கொண்டு இன்று (18) காலை நாடு திரும்பிய ஜனாதிபதி அனுரகுமார திசாநாயக்க, சற்றுமுன்னர் பாராளுமன்றத்துக்கு வருகைதந்தார்.
+
+◼️
+
+[Data](articles/522618d7.json)
+
+---
 
 ### Harsha appointed as Cobb Group Chairman
 
@@ -2305,29 +2317,5 @@ Sri Lanka has sought the help of BRICS members to push for its own membership.
 ...
 
 [Data](articles/6a98b151.json)
-
----
-
-### India will back Sri Lanka’s BRICS membership when consensus reached: Foreign Secretary
-
-*2024-12-17 17:21:00* · [`economynextcom`](https://economynext.com/india-will-back-sri-lankas-brics-membership-request-when-consensus-reached-foreign-secretary-194871/) · `en`
-
-ECONOMYNEXT – India will back Sri Lanka’s bid to become a member of BRICS group when the World’s powerful South-South corporation considers news membership, India’s Foreign Secretary Shri Vikram Misri said.
-
-Sri Lanka’s application to become a member in the BRICS (Brazil, Russia, India, China, and South Africa) was not accepted by the group’s current membership in October when President Anura Kumara Dissanayake’s government applied for the membership.
-
-However, Sri Lanka’s request to become a member of BRICS’ New Development Bank (NDB) was accepted in the October summit held in Russia.
-
-BRICS, an economic and political group, has been gaining increasing relevance in recent years.
-
-It poses several potential challenges to the global dominance of the United States and the central role of the U.S. dollar in international trade and finance.
-
-Sri Lanka has sought the help of BRICS members to push for its own membership.
-
-...
-
-[Data](articles/f64dd301.json)
-
-[Extended Data](ext_articles/f64dd301.ext.json)
 
 ---

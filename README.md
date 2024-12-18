@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 21:43:35**
+As of **2024-12-18 22:02:54**
 
 ## Newspaper Stats
 
-*Scraped **60,856** Articles*
+*Scraped **60,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,806
+adalk | 5,807
 adaderanalk | 7,423
 tamilmirrorlk | 8,701
 virakesarilk | 10,026
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,513
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,746 (99.8%) of 60,856 articles have been extended.
+60,748 (99.8%) of 60,857 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -105,6 +105,24 @@ The Commissioner General of Examinations HJMC has made arrangements to conduct t
 [Data](articles/8256ba6c.json)
 
 [Extended Data](ext_articles/8256ba6c.ext.json)
+
+---
+
+### නවසීලන්තයට එරෙහි විස්සයි 20 සංචිතය නම් කරයි
+
+*2024-12-18 18:45:33* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-විස්සයි-20-සංචිතය-නම්-කරයි/9-413726) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම හා නවසීලන්ත කණ්ඩායම අතර නවසීලන්තයේදී පැවැත්වීමට නියමිත තරග තුනකින් සමන්විත විස්සයි20 තරගාවලිය වෙනුවෙන් ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+
+චරිත් අසලංකගේ නායකත්වයෙන් යුත් මෙම සංචිතය නවසීලන්ත කණ්ඩායම නොවැම්බර් මාසයේදී ශ්‍රී ලංකාවේ කළ තරග සංචාරයේදී ශ්‍රී ලංකාව වෙනුවෙන් නම් වූ විස්සයි20 ක්‍රීඩකයන් සියලු දෙනාම ඇතුළත්ව සිටියි.
+
+දෙසැම්බර් 28, දෙසැම්බර් 30 හා ජනවාරි 02 දා විස්සයි20 තරග තුන පැවැත්වෙන අතර ඉන් අනතුරුව එක්දින තරගාවලිය පැවැත්වෙයි.
+
+ශ්‍රී ලංකා සංචිතය - චරිත් අසලංක (නායක), පැතුම් නිශ්ශංක, කුසල් මෙන්ඩිස්, කුසල් පෙරේරා, අවිශ්ක ප්‍රනාන්දු, කමිඳු මෙන්ඩිස්, දිනේෂ් චන්දිමාල්,භානුක රාජපක්ෂ, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, ජෙෆ්රි වැන්ඩේ, චමිඳු වික්‍රමසිංහ, මතීෂ පතිරණ, ණුවන් තුෂාර, අවිශ්ක ප්‍රනාන්දු, බිනුර ප්‍රනාන්දු
+
+◼️
+
+[Data](articles/9aff6c34.json)
 
 ---
 
@@ -2034,21 +2052,29 @@ The Foreign Employment Bureau further stated that any information regarding thes
 
 [Data](articles/ce1b744a.json)
 
+[Extended Data](ext_articles/ce1b744a.ext.json)
+
 ---
 
-### රනිල් අනුරව අගයයි
+### Ranil value Anura
 
 *2024-12-18 10:07:28* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-අනුරව-අගයයි/11-413710) · `si`
 
-ශ්‍රි ලංකාව හා ඉන්දියාව අතර ක්‍රියාත්මක කිරිමට යෝජිත අර්ථික හා තාක්ෂණික සහයෝගිතා ගිවිසුම (ETCA)  ඉදිරියට ගෙන යාමට ජනපති අනුර කුමාර දිසානායක මහතාගේ ඉන්දිය සංචාරයේදි තීරණය කිරිම සම්බන්ධයෙන් හිටපු ජනපති රනිල් වික්‍රමසිංහ මහතා ජනපති අනුර කුමාර දිසානායක මහතාව අගයා තිබේ.
+Ranil Wickremesinghe supports ETCA agreement with India, recommends Anura Kumara Dissanayake. Aims to develop Trincomalee as energy-industrial zone, strengthening ties between Sri Lanka and India.
 
-විශේෂ ප්‍රකාශයක් කරමින් ඔහු පවසන්නේ මෙම ගිවිසුම  ඉදිරියට ගෙන යාමට තිරණය කිරීමත් ත්‍රිකුණාමලය කලාපයේ බලශක්ති හා කාර්මික කලාපයක් ලෙස සංවර්ධනය කිරිමට කැමැත්ත ප්‍රකාශ කිරිමත් සම්බන්ධයෙන් තමන් අනුර කුමාර දිසානායක මහතාව අගයන බවයි.
+🟩
 
-අනුර කුමාර දිසානායක මහතා හා ඉන්දිය අග්‍රාමාත්‍යවරයා කළ ඒකාබද්ධ ප්‍රකාශය පිළිගන්නා බවත් මේ හරහා සබඳතා තවදුරටත්  ශක්තිමත් වන බවත් රනිල් වික්‍රමසිංහ මහතා පවසයි.
+Former President Ranil Wickremesinghe has decided to decide on President Anura Kumara Dissanayake to determine the proposed renowned and technical cooperation agreement (ETCA) to implement Sri Lanka and Technology (ETCA).
+
+Special Statement, he said he would appreciate the decision to proceed with the agreement and declare the consent to develop the Trincomalee Energy Zone as an energy and industrial zone.
+
+Ranil Wickremesinghe says that Anura Kumara Dissanayake and the Indian Prime Minister will accept the Indian Prime Minister and the connections further strengthen ties.
 
 ◼️
 
 [Data](articles/868e956a.json)
+
+[Extended Data](ext_articles/868e956a.ext.json)
 
 ---
 
@@ -2393,29 +2419,5 @@ The President and the Sri Lankan delegation left on the Katunayake airport for h
 [Data](articles/0de7759c.json)
 
 [Extended Data](ext_articles/0de7759c.ext.json)
-
----
-
-### Happy news to school students
-
-*2024-12-18 08:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-348879) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-PM Harini Amarasuriya announces financial aid for 125,000 economically disadvantaged students, each receiving Rs 6,000 from 2025. This support aims to address economic challenges faced by over 55% of school children during previous crises.
-
-🟩
-
-Prime Minister Harini Amarasuriya has said that 125,000 students from economically disadvantaged families will be paid Rs 6,000 from the beginning of 2025.
-
-During the economic crisis in the past, more than 55 percent of school children faced more economic problems.R
-
-◼️
-
-[Data](articles/e96f0225.json)
-
-[Extended Data](ext_articles/e96f0225.ext.json)
 
 ---

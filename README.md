@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 07:31:33**
+As of **2024-12-18 08:31:32**
 
 ## Newspaper Stats
 
-*Scraped **60,738** Articles*
+*Scraped **60,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,677
 economynextcom | 3,698
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,785
+adalk | 5,787
 adaderanalk | 7,401
-tamilmirrorlk | 8,673
+tamilmirrorlk | 8,675
 virakesarilk | 10,012
 adaderanasinhalalk | 10,491
 
@@ -26,45 +26,101 @@ adaderanasinhalalk | 10,491
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,645 (99.8%) of 60,738 articles have been extended.
+60,649 (99.8%) of 60,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### குறைந்த காற்றழுத்த தாழ்வு பகுதியின் தற்போதைய நிலை என்ன?
+### பாடசாலை மாணவர்களுக்கு மகிழ்ச்சியான செய்தி
 
-*2024-12-18 07:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-தாழ்வு-பகுதியின்-தற்போதைய-நிலை-என்ன/175-348876) · `ta`
+*2024-12-18 08:08:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-மாணவர்களுக்கு-மகிழ்ச்சியான-செய்தி/175-348879) · `ta`
 
-தென்மேற்கு வங்காள விரிகுடாவில் குறைந்த காற்றழுத்த தாழ்வு பகுதி தற்போது (18) நாட்டின் வடகிழக்கில் உள்ளது. மேலும் படிப்படியாக மேற்கு, வடமேற்கு நோக்கி நகரும் என்று எதிர்பார்க்கப்படுகிறது.
+2025ஆம் ஆண்டு தொடக்கத்திலிருந்து பொருளாதார ரீதியாகப் பின்தங்கிய குடும்பங்களைச் சேர்ந்த 125,000 மாணவர்களுக்கு 6,000 ரூபாய் கொடுப்பனவு வழங்கப்படும் என பிரதமர் கலாநிதி ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
 
-வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் சில தடவைகள் மழை பெய்யுமென வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
+கடந்த காலங்களில் ஏற்பட்ட பொருளாதார நெருக்கடியின் போது பாடசாலை மாணவர்களில் 55 வீதத்திற்கும் அதிகமானோர் அதிக பொருளாதார பிரச்சினைகளுக்கு முகங்கொடுத்தனர்.  R
 
-ஊவா மற்றும் மத்திய மாகாணங்களிலும் இரத்தினபுரி, மட்டக்களப்பு, அம்பாறை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+◼️
 
-வடமேற்கு மற்றும் மேல் மாகாணங்களில் காலை வேளையில் சிறிதளவு மழை பெய்யக்கூடுமென வளிமண்டலவியல் திணைக்களம் வௌியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-நாட்டின் வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணிக்கு 30-40 கிலோமீற்றர் வரை காற்று வீசக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/d2235bc9.json)
+[Data](articles/e96f0225.json)
 
 ---
 
-### හිටපු සුරාබදු කොමසාරිස් ජෙනරාල්වරයාට විදේශ ගතවීමට අවසර
+### Alert on massive fraud
+
+*2024-12-18 07:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாரியளவிலான-மோசடி-தொடர்பில்-எச்சரிக்கை/175-348878) · `ta`
+
+Here's a summary of the alert in 200 characters:
+
+
+
+Massive fraud detected at Sri Lanka's Foreign Employment Bureau. "Remble" likely refers to a specific case or individual involved in the fraud scheme.
+
+🟩
+
+Sri Lanka's Foreign Employment Bureau. Remble
+
+◼️
+
+[Data](articles/1f1f5134.json)
+
+[Extended Data](ext_articles/1f1f5134.ext.json)
+
+---
+
+### What is the current state of the low -lying area?
+
+*2024-12-18 07:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-தாழ்வு-பகுதியின்-தற்போதைய-நிலை-என்ன/175-348876) · `ta`
+
+Southwest Bengal Bay low-lying areas: Northeast expected to shift west/northwest. Rainfall/thunderstorms forecasted for Northern, North Central Provinces, Trincomalee District. Wind speeds up to 30-40 km/h in northern regions. Lightning risks advised.
+
+🟩
+
+The lowest low -lying area in the Southwest Bengal Bay is currently in the northeast of the country (18). It is also expected to move to the west and northwest.
+
+The Department of Meteorology has announced that it will rain some times in the Northern and North Central Provinces and Trincomalee District.
+
+Rainfall or thunderstorms are expected in the evening or night in some places in Uva and Central Provinces and Ratnapura, Batticaloa, Ampara and Hambantota districts.
+
+The Department of Meteorology said in a statement that there would be some rainfall in the morning in the northwestern and Western provinces.
+
+Winds are likely to blow up to 30-40 km / h in the country's northern and northern provinces and Trincomalee district.
+
+Can temporarily blow heavy winds during thunderstorms. Therefore, the Department of Meteorology has advised the public to take necessary precautions to reduce the risk of lightning.. Remble
+
+◼️
+
+[Data](articles/d2235bc9.json)
+
+[Extended Data](ext_articles/d2235bc9.ext.json)
+
+---
+
+### Former Excise Commissioner General allowed to go abroad
 
 *2024-12-18 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204473) · `si`
 
-අධිකරණයට අපහාස කළේ, යැයි චෝදනා කරමින් ගොනුකර තිබෙන පෙත්සමක වගඋත්තරකරුවකු ලෙස නම් කර සිටින තමන්ට පුද්ගලික කටයුත්තක් සඳහා විදේශ ගතවීමට අවසර දෙන ලෙස හිටපු සුරාබදු කොමසාරිස් ජෙනරාල් එම්.ජේ. ගුණසිරි මහතා කළ ඉල්ලීමකට ශ්‍රේෂ්ඨාධිකරණ අවසර ලබා දුන්නේය.
+Sum:0
 
-හිටපු සුරාබදු කොමසාරිස් ජෙනරාල්වරයා වෙනුවෙන් ගොනුකර තිබූ මෝසමක් සලකා බැලීමෙන් අනතුරුව ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම අවසරය ලබා දුන්හ.
+🟩
 
-ඉකුත් පාලන සමයේ අධිකරණ නියෝග උල්ලංඝනය කරමින් මත්පැන් බලපත්‍ර නිකුත් කිරීම තුළින් අධිකරණයට අපහාස කොට ඇතැයි චෝදනා කරමින් ගොනුකර ඇති පෙත්සමක වගඋත්තරකරුවකු ලෙස නම් කර සිටින අතර එහිදී හිටපු සුරාබදු කොමසාරිස් ජනරාල්වරයා විසින් තමා අධිකරණයේ අවසරයකින් තොරව විදේශගත නොවන බවට මීට පෙර ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රතිඥාවක් ලබා දී තිබුණි.
+Former Excise Commissioner General MJ, who is named as a respondent, is a respondent, who is named as a respondent from a petition filed by the accusation of the judiciary.. Supreme Court permission granted Mr. Gunasiri's request.
 
-...
+After considering the motion filed by the former Excise Commissioner General, the three-member Supreme Court Bench, Akzanpi and Priyantha Fernando were given permission.
+
+A petition filed by the issuance of liquor licenses, a petition filed by the Issuing Liquor License has been named as a respondent.
+
+President's Counsel Romesh de Silva, who was submitting a motion for the former Excise Commissioner General, is in need to visit Australia for a private affair from 22nd to February 28 and the courtship of January 22Asked.
+
+The Licensed Liquor of the petition was not protesting against the petition.
+
+Accordingly, the judge has ordered the demand for the Commissioner General of Excise.
+
+◼️
 
 [Data](articles/4874b5c4.json)
+
+[Extended Data](ext_articles/4874b5c4.ext.json)
 
 ---
 
@@ -171,6 +227,8 @@ Former Minister of Health Keheliya Rambukwella received Rs. 11 million, while Ra
 ...
 
 [Data](articles/6c2a91d1.json)
+
+[Extended Data](ext_articles/6c2a91d1.ext.json)
 
 ---
 
@@ -1372,7 +1430,7 @@ The petition was then examined on March 6.
 
 ---
 
-### India will back Sri Lanka’s BRICS membership request when consensus reached: Foreign Secretary
+### India will back Sri Lanka’s BRICS membership when consensus reached: Foreign Secretary
 
 *2024-12-17 17:21:00* · [`economynextcom`](https://economynext.com/india-will-back-sri-lankas-brics-membership-request-when-consensus-reached-foreign-secretary-194871/) · `en`
 
@@ -1459,6 +1517,22 @@ The further states that President Anura Kumara Dissanayake is praising the Econo
 [Data](articles/fd9c5a80.json)
 
 [Extended Data](ext_articles/fd9c5a80.ext.json)
+
+---
+
+### උසස්වීම් නැතිව පොලීසියේ 8197කට අසාධාරණයක්
+
+*2024-12-17 17:05:43* · [`adalk`](https://www.ada.lk/breaking_news/උසස්වීම්-නැතිව-පොලීසියේ-8197කට-අසාධාරණයක්/11-413698) · `si`
+
+පොලිස් කොස්තාපල් තනතුරේ සිට ප්‍රධාන පොලිස් පරීක්ෂක තනතුර දක්වා  සේවය කරන පිරිස්වලට උසස් වීම් ලබා දීමේ ප්‍රමාදය නිසා නිලධාරීන් 8197කට දැඩි අසාධාරණයක් සිදුව තිබේ.
+
+ඇතැම් පොලිස් නිලධාරීන්ට ආසන්න උසස් වීම් ලබා දීමට නියමිතව තිබුණේ 2020 වසරේ පෙබරවාරි 08වන දින බවත්, මේ ආකාරයට පහළ ශ්‍රේණිවල සේවය කරන පිරිස්වලට වසර තුන, හතරක සිට උසස් වීම් ලබා දීමක් සිදුවී නොමැති බවත් අසාධාරණයට පත් පොලිස් නිලධාරීහු සඳහන් කරති.
+
+උසස් වීම් නොලැබීමේ ගැටලුවට මුහුණ දී සිටින පිරිස් සැලකීමේදී පොලිස් සැරයන්වරුන් 4,178ක්, පොලිස් පරීක්ෂකවරුන් 1,273 ක්, උපපොලිස් පරීක්ෂකවරුන් 948 ක්, ප්‍රධාන පොලිස් පරීක්ෂකවරුන් 305 ක්, කාන්තා ප්‍රධාන පොලිස් පරීක්ෂකවරියන් 14 ක්, කාන්තා උපපොලිස් පරික්ෂකවරියන් 142 ක්,  කාන්තා පොලිස් කොස්තාපල්වරියන් 653 ක්, පොලිස් කොස්තාපල්වරුන් 245 ක්,  මහ සැරයන්වරුන් 50 ක්, ප්‍රවාහන අංශයේ සේවය කරන උපපොලිස් පරික්ෂකවරුන් 98 ක්  හා පොලිස්  රියදුරු කොස්තාපල්  හා  සැරයන්  තනතුරේ සේවය කරන පිරිසක්ද සිටී.
+
+...
+
+[Data](articles/3ba55766.json)
 
 ---
 
@@ -1795,6 +1869,24 @@ The year-on-year GDP growth rate for the third quarter of year 2024 has been rep
 [Data](articles/a09c5853.json)
 
 [Extended Data](ext_articles/a09c5853.ext.json)
+
+---
+
+### ලංගම මහනුවර ප්‍රාදේශිකයේ ඩිපෝ 7ක බස් රථ 25ක් ධාවනයෙන් ඉවත් කරලා
+
+*2024-12-17 16:03:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-මහනුවර-ප්‍රාදේශිකයේ-ඩිපෝ-7ක-බස්-රථ-25ක්-ධාවනයෙන්-ඉවත්-කරලා/11-413693) · `si`
+
+මහනුවර ශ්‍රී ලංගම ප්‍රාදේශිකයට අයත් ඩිපෝ 07ක බස් රථ 25ක් රියදුරු කොන්දොස්තර හිගය හේතුවෙන් ධාවනයෙන් ඉවත් කිරීමට සිදුව තිබෙන බව එහි මහනුවර ප්‍රාදේශීය කළමනාකාර ප්‍රසන්න දෙල්ලංග මහතා පවසයි.
+
+මහනුවර දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු රැස්වීමේදී ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ මහනුවර උතුර, මහනුවර දකුණ, යටිනුවර, වත්තේගම, තෙල්දෙණිය, මාතලේ සහ උඩදුම්බර යන ඩිපෝවලට අයත් බස්රථ 75ක් එසේ ධාවනයෙන් ඉවත් කිරීමට සිදුව තිබෙන බවයි.
+
+එම ඩිපෝවල රියදුරු පුරප්පාඩු 75 ක් පමණද කොන්දොස්තර පුරප්පාඩුව 33ක් පමණද තිබෙන බව අවධාරණය කළ ඒ මහතා පසුගිය රජය සමයේදී අලුත් බස් රථ 47 ක් ලංගම මහනුවර ප්‍රාදේශිකය වෙත ලබා දුන් බවත් එම එක බස් රථයක් සඳහා මාසිකව රුපියල් 165,000ක ලීසිං මුදලක් ගෙවීමට තිබෙන බවද අවධාරණය කළේය.
+
+එම ලීසිං මුදල් ඩිපෝ හතේ ආදායමෙන් සපයා ගත යුතුව තිබෙන බව පැවසූ කළමනාකාරවරයා ලාභ නොලබන මාර්ගවල පවා ලංගම බස් ධාවනය කරන බවත් එම පාඩුව ලාභ ලබන මාර්ගවලින් ආවරණය කර ගන්නා බවද ඒ මහතා කීය.
+
+◼️
+
+[Data](articles/6b84a241.json)
 
 ---
 
@@ -2329,93 +2421,5 @@ The US dollar purchasing price was 286.4435 rupees and the sales price were 295.
 [Data](articles/31baf383.json)
 
 [Extended Data](ext_articles/31baf383.ext.json)
-
----
-
-### Sri Lanka President meets Indian businessmen: In pictures
-
-*2024-12-17 13:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-indian-businessmen-in-pictures-194737/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake, who is on an official visit to India, met with leading Indian business representatives on Monday.
-
-The event was organized by the Confederation of Indian Industry (CII).
-
-Dissanayake highlighted the investor-friendly environment in Sri Lanka and invited Indian entrepreneurs to explore investment opportunities in the country, his media division said.
-
-“The discussion, aimed at strengthening investment and trade relations between the two nations, focused on key areas such as the digital economy, tourism, renewable energy, and information technology.”
-
-Expanding investment opportunities in Sri Lanka by leveraging trade between the two countries was also discussed.
-
-Dissanayake’s party, the Janatha Vimukthi Peramuna, has been extremely critical of Indian involvement in the island in the past, often rallying protests, pickets and boycotts that have led to Indians abandoning projects.
-
-...
-
-[Data](articles/610193f9.json)
-
----
-
-### Commander of the radioactive, chemical and biological safety forces of Russia killed in bomb blast
-
-*2024-12-17 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201499) · `ta`
-
-Russian military officer dies in Moscow explosion
-
-🟩
-
-The commander of the radioactive, chemical and biological security forces of Russia has died in the blast in Moscow.
-
-Russia's Investigation Committee said that Lieutenant General Igor Grillov, the commander of the radioactive, chemical, and biological security forces, had exploded on an electric scooter when he left the residential seat on Tuesday morning.
-
-◼️
-
-[Data](articles/6e1d02f4.json)
-
-[Extended Data](ext_articles/6e1d02f4.ext.json)
-
----
-
-### Tri-forces security for ex-Presidents to be withdrawn from next week
-
-*2024-12-17 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104307/tri-forces-security-for-ex-presidents-to-be-withdrawn-from-next-week) · `en`
-
-The tri-forces personnel assigned to provide security to former presidents will be withdrawn from next week and only police security will continue to be provided, Minister of Public Security Ananda Wijepala said.
-
-Speaking during today’s (17) parliamentary session, the Minister highlighted that the police protection will be provided to each former President in accordance with the outcomes of the security assessment conducted every 06 months.
-
-Accordingly, the security for former heads of state would now be based on biannual security assessments. This decision comes as part of the government’s efforts to reassess and reduce public spending, particularly in the face of ongoing economic challenges, according to Minister Wijepala.
-
-Commenting further regarding the matter, Minister Wijepala highlighted the substantial financial burden that the government has shouldered in the form of security expenses for former presidents.
-
-...
-
-[Data](articles/a295d28e.json)
-
-[Extended Data](ext_articles/a295d28e.ext.json)
-
----
-
-### Under the guidance of the Ministry of Plantation Infrastructure
-
-*2024-12-17 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201489) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Employment seminar for youth in Badulla district on 19th. Organized by Ministry of Plantation Infrastructure & partners. Contact: 0760787141, 0750461915, 0779270057, 0772042674.
-
-🟩
-
-A special professional guidance training seminar for providing employment opportunities to the youth and youth in Badulla district will be held at the Uva Provincial Council auditorium at 9.00 pm on the 19th of this month.
-
-The Foreign Employment Bureau, Sri Lanka Hotel Management and Tourism Authority, National Youth Services Council, National Vocational Training Management Center, Uva Provincial Council, Technical College, Industrial Ministry, Engineering College and Road Development Authority.
-
-Those who attend the seminar have been requested to contact 0760787141, 0750461915, 0779270057 and 0772042674.
-
-◼️
-
-[Data](articles/7a551475.json)
-
-[Extended Data](ext_articles/7a551475.ext.json)
 
 ---

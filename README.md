@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 00:28:58**
+As of **2024-12-19 00:18:11**
 
 ## Newspaper Stats
 
@@ -26,37 +26,29 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,762 (99.8%) of 60,889 articles have been extended.
+60,761 (99.8%) of 60,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### Hambantota Bangla Tigers qualified to oppose Jevna Titans in the Lanka R10 Super League final
+### லங்கா ரி10 சுப்பர் லீக் இறுதிப் போட்டியில் ஜெவ்னா டைட்டன்ஸை எதிர்த்தாட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் தகுதிபெற்றது
 
 *2024-12-18 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/201612) · `ta`
 
-Hambantota Bangla Tigers qualify for Lanka R10 Super League final against Jevna Titans on Thursday at Pallekel International Cricket Stadium. They won the second qualifying match by 4 wickets, while Goal Marwals won the first qualifying match. Key performances include Moin Subasinghe's 32 runs, Lahiru Udara and Shakib Al Hasan's 12 runs each, and Dasun Shanaka's 47 runs.
+கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (19) நடைபெறவுள்ள அங்கரார்ப்பண லங்கா ரி10 சுப்பர் லீக் இறுதிப் போட்டியில் ஜெவ்னா டைட்டன்ஸ் அணியை எதிர்த்தாட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணி தகுதிபெற்றுக்கொண்டது.
 
-🟩
+முதலாவது தகுதிகாண் போட்டியில் தோல்வி  அடைந்த ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணியும் நீக்கல் போட்டியில் வெற்றிபெற்ற கோல் மார்வல்ஸ் அணியும் சற்று நேரத்துக்கு முன்னர் நிறைவுபெற்ற இரண்டாவது தகுதிகாண் போட்டியில் மோதியதில் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணி 4 விக்கெட்களால் வெற்றிபெற்று இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
 
-Hambantota Bangla Tigers qualified to oppose Jevna Titans in the final of the Angarapana Lanka R10 Super League final to be held on Thursday (19) at the Pallekel International Cricket Stadium in Kandy.
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் அணி 10 ஓவர்களில் 9 விக்கெட்களை இழந்து 90 ஓட்டங்களைப் பெற்றது.
 
-Hambantota Bangla Tigers won the match by 4 wickets in the second qualifying match and the Goal Marwals won the first qualifying match and the winning match of the first qualifying match.
+கோல் மார்வல்ஸ் அணியின் ஆரம்பம் சிறப்பாக அமையவில்லை. முதல் 3 வீரர்கள் களம் விட்டு வெளியேறியிருந்தபோது அதன் மொத்த எண்ணிக்கை 23 ஓட்டங்களாக இருந்தது.
 
-The Goal Marwals team, who was first invited to bat first in the upting match, scored 90 runs for the loss of 9 wickets in 10 overs.
-
-The start of the goal Marvels team is not better. The total number was 23 runs when the first 3 players left the field.
-
-However, the next four batsmen got the double -digit number and set the team in honor.
-
-Moin Subasinghe scored 32 runs without losing, Lahiru Udara and Shakib Al Hasan scored 12 runs and Samindu Wickremasinghe 11 runs.
+எனினும் அடுத்த நான்கு துடுப்பாட்ட வீரர்களும் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்று அணியை கௌரவமான நிலையில் இட்டனர்.
 
 ...
 
 [Data](articles/d94199a6.json)
-
-[Extended Data](ext_articles/d94199a6.ext.json)
 
 ---
 

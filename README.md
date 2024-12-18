@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 18:24:09**
+As of **2024-12-18 18:39:52**
 
 ## Newspaper Stats
 
-*Scraped **60,838** Articles*
+*Scraped **60,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
 adalk | 5,802
-adaderanalk | 7,421
+adaderanalk | 7,422
 tamilmirrorlk | 8,698
-virakesarilk | 10,020
-adaderanasinhalalk | 10,510
+virakesarilk | 10,026
+adaderanasinhalalk | 10,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,726 (99.8%) of 60,838 articles have been extended.
+60,727 (99.8%) of 60,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### සාමාන්‍ය පෙළ පැවැත්වෙන දින නිවේදනය කෙරේ
+
+*2024-12-18 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204497) · `si`
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ විභාගය මාර්තු මාසයේදී පැවැත්වෙන බව විභාග දෙපාර්තමේන්තුව අද (18) පස්වරුවේ නිවේදනය කළේය.
+
+විභාග කොමසාරිස් ජනරාල් එච්. ජේ. එම්. සී. අමිත් ජයසුන්දර මහතා දන්වා සිටියේ, මෙවර සාමාන්‍ය පෙළ විභාගය 2025 වසරේ මාර්තු 17 වනදා සිට එම මස  26 වැනිදා දක්වා පැවැත්වීමට කටයුතු යොදා තිබෙන බවය.
+
+එමෙන්ම මේ සම්බන්ධයෙන් වැඩිදුර තොරතුරු දැන ගැනීම සඳහා දුරකථන අංක හා විද්‍යුත් තැපෑල ලිපිනයක්ද විභාග දෙපාර්තමේන්තුව විසින් හඳුන්වා දී ඇත.
+
+◼️
+
+[Data](articles/ab411075.json)
+
+---
+
+### தியத்தலாவை பகுதியில் அனுமதிப்பத்திரம் இன்றி சட்டவிரோதமாக மணல் கடத்தலில் ஈடுபட்ட  சந்தேக நபர் கைது !
+
+*2024-12-18 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201606) · `ta`
+
+தியத்தலாவை பொலிஸ் பிரிவுக்குட்பட்ட அளுத்வெல பகுதியில் அனுமதிப்பத்திரம் இன்றி சட்டவிரோதமாக மணல் கடத்தலில் ஈடுபட்ட  சந்தேக நபர் கைது  செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹப்புத்தளை பொலிஸ் விசேட அதிரடிப்படை முகாமின் அதிகாரிகளினால்  அளுத்வெல பகுதியில் சோதனை நடத்திய போது  அனுமதிப்பத்திரம் இன்றி மணல் கடத்திய சந்தேக நபரை கைது செய்துள்ளனர்.
+
+மேலும், குறித்த கைது நடவடிக்கை  தொடர்பான மேலதிக விசாரணைகளை தியத்தலாவை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/b35f72f6.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை விவகாரம் ; தீர்ப்பு இம்மாதம் இறுதியில்
+
+*2024-12-18 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201597) · `ta`
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளில் மூன்று வினாக்கள் கசிந்த சம்பவம் தொடர்பான  வழக்கு விசாரணை நிறைவடைந்துள்ளது.
+
+இந்நிலையில், இந்த வழக்கு குறித்து தீர்ப்பு இம்மாதம் 31 ஆம் திகதி அறிவிக்கப்படும் என உயர் நீதிமன்றம் அறிவித்துள்ளது.
+
+கடந்த செப்டம்பர் மாதம் 15 ஆம் திகதி தரம் 5 புலமைப்பரிசில் பரீட்சை நடைபெற்றது. இதன்போது,  குறித்த பரீட்சையின் 3 வினாக்கள் கசிந்தமை வெளியானது.
+
+இந்நிலையில், பரீட்சைக்கு தோற்றிய மாணவர்கள் மற்றும் அவர்களது பெற்றோர்கள் இணைந்து மனு தாக்கல் செய்திருந்தனர்.
+
+இந்த மனுக்கள் நீதியரசர்கள் யசந்த கோத்தாகொட, குமுதினி விக்கிரமசிங்க மற்றும் அர்ஜுன ஒபேசேகர ஆகியோர் அடங்கிய நீதியரசர்கள் குழாம் முன்னிலையில் மூன்று நாட்கள் முழுவதுமாக விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இதன்படி, மனு மற்றும் பிரதிவாதிகள் சார்பில் அனைத்து சட்டத்தரணிகளின் வாய்மூல சமர்ப்பணங்கள் இன்று புதன்கிழமை (18) மாலையுடன் நிறைவடைந்தன.
+
+அதன்பின், ஏதேனும் எழுத்துப்பூர்வ மனுக்கள் இருந்தால், நாளை வியாழக்கிழமை (19) காலை 9.00 மணிக்கு முன் சமர்ப்பிக்க வேண்டும் என உத்தரவிடப்பட்டது.
+
+◼️
+
+[Data](articles/c1f46883.json)
+
+---
+
+### 16 deaths reported in fatal accidents on expressways so far this year
+
+*2024-12-18 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104337/16-deaths-reported-in-fatal-accidents-on-expressways-so-far-this-year) · `en`
+
+Sri Lanka Police says that a total of 16 people have died in 12 fatal accidents on the expressways of Sri Lanka as of December 14 this year.
+
+Police reported that 5 individuals have sustained serious injuries, while another 77 suffered minor injuries from accidents on the expressways.
+
+Additionally, 404 property damage cases have been recorded due to these incidents.
+
+The majority of these accidents were caused by drivers’ inability to control their vehicle speeds, the Police said.
+
+Police Spokesman SSP K.B. Manathunga further explained the situation, saying, “There have been 16 fatalities and 5 serious injuries in road accidents on the existing expressways in Sri Lanka so far. Investigations have revealed the underlying causes of these accidents. Two main factors contribute to this is careless and reckless driving, and the second is excessive fatigue on the part of the driver.”
+
+...
+
+[Data](articles/202ccc4c.json)
+
+---
+
+### ශ්‍රී ලංකා විස්සයි20 සංචිතය නම් කෙරේ
+
+*2024-12-18 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204496) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිතව තිබෙන නවසීලන්ත තරග සංචාරයේ විස්සයි20 තරගාවලිය සඳහා තෝරාගත් සංචිතය ක්‍රිකට් තේරීම් කමිටුව අද (18) පස්වරුවේ ප්‍රකාශයට පත් කළේය.
+
+චරිත් අසලංකගේ නායකත්වයෙන් යුත් මෙම සංචිතය ක්‍රීඩකයන් 16 දෙනෙකුගෙන් සමන්විත වේ.
+
+ශ්‍රී ලංකා කණ්ඩායම තරග 3 බැගින් වූ විස්සයි20 හා එක්දින තරගාවලිකට ක්‍රීඩාකරන අතර, ඉන් පළමුව විස්සයි20 තරගාවලිය පැවැත්වේ.
+
+එම තරග මේ මස 28, 30 සහ 2025 වසරේ ජනවාරි 2 යන දිනවල පැවැත්වීමට සැලසුම්කර තිබේ.
+
+ශ්‍රී ලංකා කණ්ඩායම දෙසැම්බර් 20 වනදා නවසීලන්තය බලා පිටත්ව යාමට නියමිතව ඇත.
+
+චරිත් අසලංක (නායක), පැතුම් නිස්සංක, කුසල් මෙන්ඩිස්, කුසල් ජනිත් පෙරේරා, අවිශ්ක ප්‍රනාන්දු, කමිඳු මෙන්ඩිස්, දිනේෂ් චන්දිමාල්, භානුක රාජපක්ෂ, වනිඳු හසරංග, මහීෂ් තීක්ෂණ, ජෙෆ්රි වැන්ඩර්සේ, චමිදු වික්‍රමසිංහ, මතීෂ පතිරණ, නුවන් තුෂාර, අසිත ප්‍රනාන්දු, බිනුර ප්‍රනාන්දු
+
+◼️
+
+[Data](articles/fa5ac51b.json)
+
+---
 
 ### PM Directorate to submit the report
 
@@ -56,21 +154,67 @@ The Prime Minister has issued a directive to the Chairman of the University Gran
 
 ---
 
-### රු. කෝටි දෙකක මුදල් ඇති කෙහෙළියගේ ගිණුම් දෙකක් සතියකට තහනම්
+### Rs. Two Kehelda's accounts with money in two million dollars banned
 
 *2024-12-18 17:04:16* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-දෙකක-මුදල්-ඇති-කෙහෙළියගේ-ගිණුම්-දෙකක්-සතියකට-තහනම්/11-413720) · `si`
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ  නමින් බැංකු දෙකක පවත්වාගෙන යන ස්ථාවර හා ජංගම ගිණුම් දෙකක ඇති රුපියල් ලක්ෂ 200කට අධික මුදලක් ලබා ගැනීම හා අන් අයට පැවරීම වළක්වාලමින් අල්ලස් කොමිෂසම දින හතක කාලයක්ත සඳහා අදාළ බැංකු දෙකට හනම් නියෝග නිකුත් කොට ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-අදාළ බැංකු දෙකේ තැන්පත් කොට ඇති මුදල් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්කල්ල මහතා විසින්උපයා ගත් ආකාරය පිළිබඳව අල්ලස් කොමිසම ආරම්භ කොට ඇති විමර්ශනයකට අනුව අල්ලස්කො මිසම අදාළ බැංකු දෙකට එම තහනම් නියෝගය නිකුත් කොට ඇත.
 
-පසුගිය රාජ්‍ය සමයේදී අමාත්‍ය මණ්ඩලය නොමග යවමින් ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ලැබුණු මුදල් මගින් තත්ත්වයෙන් බාල ඖෂධ ගෙන්වා අදාල මුදල් වංචා කළ බවට කියන සිද්ධියක  සැකකරුවකු වන හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්ගල්ල මහතා මේ වන විට ඇප මත මුදාහැරුණු ලැබ සිටි.
 
-බාල ඖෂධ ජාවාරම සම්බන්ධයෙන් රහස් පොලිසිය විමර්ශනය කරන අතර කෙහෙළිය රඹුක්කැල්ල මහතා නීති විරෝධී ආකාරයෙන් මුදල් උපයා ගෙන ඇති බවට අල්ලස් කොමිසමට ලැබුණු පැමිණිලිවලට අනුව අල්ලස් පනත යටතේ වෙනමම විමර්ශන ආරම්භ කොට ඇත.
+Bribery Commission bans two bank accounts holding $2M linked to ex-Health Minister Keheliya Rambukwella. Investigation ongoing for alleged corruption and drug trafficking.
+
+🟩
+
+The Bribery Commission has issued orders for a seven-day banking banks for a period of seven days of the name of former Health Minister Keheliya Rambukwella.
+
+The bribery orders have been issued to the two banks, the bribe of the bribes, which have been initiated by the Bribery Commission regarding the investigation of the Bribery Commission on the investigation of the Bribery Commission.
+
+Former Health Minister Keheliya Rambukgalla, a suspect, has been released on bail after the government has misled the Cabinet of Cabinet.
+
+The Criminal Investigations Department investigates substandard drug trafficking and Keheliya Rambukkal has been earned by the complaints received by the Bribery Act, according to the complaints received by the Bribery Act.
 
 ...
 
 [Data](articles/a9010b4c.json)
+
+[Extended Data](ext_articles/a9010b4c.ext.json)
+
+---
+
+### ஜனாதிபதியின் இந்திய விஜயத்தில் அளிக்கப்பட்ட  வாக்குறுதிகளை தாமதமின்றி நடைமுறைப்படுத்துங்கள் - சுரேஷ் பிரேமச்சந்திரன் வலியுறுத்தல்
+
+*2024-12-18 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201586) · `ta`
+
+ஜனாதிபதி அநுரகுமார தனது முதலாவது வெளிநாட்டு விஜயத்தினை இந்தியாவுக்கு மேற்கொண்டிருந்த நிலையில் அவர் அங்கு வழங்கிய வாக்குறுதிமொழிகளை உடனடியாக நடைமுறைப்படுத்த வேண்டும் என்று ஈழ மக்கள் புரட்சிகர விடுதலை முன்னணியின் தலைவர் சுரேஷ் க. பிரேமச்சந்திரன் தெரிவித்தார்.
+
+இலங்கை ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் இந்திய விஜயத்தின்போது மேற்கொள்ளப்பட்ட இருதரப்புப் பேச்சுவார்த்தைகள் மற்றும் கூட்டு பத்திரிகையாளர் மாநாடு குறித்தும் அங்கு தெரிவிக்கப்பட்ட கருத்துகள் தொடர்பிலும் கருத்து வெளியிடும்போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+இலங்கையின் புதிய ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது முதலாவது உத்தியோகபூர்வ வெளிநாட்டு விஜயமாக இந்தியா சென்று வந்துள்ளார். ஜனாதிபதி அங்கம் வகிக்கும் மக்கள் விடுதலை முன்னணி என்ற கட்சி ஆரம்பத்திலிருந்து இந்திய எதிர்ப்பு வாதத்தை தனது கட்சியின் கொள்கையாகக் கொண்டிருந்தது.
+
+இப்பொழுது தேசிய மக்கள் சக்தி என்ற பெயரில் ஆட்சி அமைத்திருக்கக்கூடிய அனுர அரசாங்கமானது தனது முதலாவது உத்தியோகபூர்வ விஜயத்தை இந்தியாவிற்கு மேற்கொள்ளக்கூடிய அளவிற்கு பூகோள பிராந்திய அரசியல் சூழல் உருவாகியுள்ளது.
+
+...
+
+[Data](articles/1d482e56.json)
+
+---
+
+### සහල් මෙට්‍රික්ටොන් 16000ක් ගෙනත්
+
+*2024-12-18 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204495) · `si`
+
+සහල් ආනයනය සඳහා පනවා තිබූ සීමා ලිහිල් කිරීමෙන් පසු අද (18) සවස 3:30 පමණ වනවිට ශ්‍රී ලංකාවට ආනයනය කර ඇති සහල් ප්‍රමාණය මෙට්‍රික්ටොන් 16,000 කි.
+
+ඉන් මෙට්‍රික්ටොන් 6,000ක් කැකුළු සහල් වන අතර ඉතිරි 10,000 නාඩු සහල් වෙයි.
+
+රේගු දෙපාර්තමේන්තුවේ අතිරේක අධ්‍යක්ෂ ජනරාල්, රේගු මාධ්‍ය ප්‍රකාශක සීවලී අරුක්ගොඩ මහතා ඒ බව පැවසීය.
+
+පසුගිය දෙසැම්බර් 04 වනදා සිට සහල් ආනයනය සඳහා පනවා තිබූ සීමා ඉවත් කිරීමෙන් පසු මේ දක්වා සහල් මෙට්‍රික්ටොන් 16,000ක් මෙලෙස රැගෙනවිත් තිබේ.
+
+◼️
+
+[Data](articles/175d2055.json)
 
 ---
 
@@ -127,6 +271,22 @@ The Wildlife officials said that the LTTE was a 10-year-old tiger to the Hatton 
 [Data](articles/2658c162.json)
 
 [Extended Data](ext_articles/2658c162.ext.json)
+
+---
+
+### ஹட்டன் - போடைஸ் பகுதியில் உடல்பகுதிகள் வெட்டப்பட்ட நிலையில் சிறுத்தை மீட்பு - பொலிஸார் விசாரணை
+
+*2024-12-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201584) · `ta`
+
+ஹட்டன் பொலிஸ் பிரிவுக்குட்பட்ட போடைஸ் தோட்டம் பகுதியில் இன்று புதன்கிழமை (18) சிறுத்தை ஒன்று இறந்து கிடந்ததாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹட்டன் பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நல்லதண்ணி வனவிலங்கு அதிகாரிகளுடன் இணைந்து விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+குறித்த சம்பவம் தொடர்பில் ஹட்டன் நீதிமன்றத்திற்கு அறிவிக்கப்பட்டுள்ளதாகவும் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளதாகவும்  பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/f9088938.json)
 
 ---
 
@@ -235,6 +395,28 @@ He added that legal action will be taken against them and complains to the CID r
 [Data](articles/0c5b1925.json)
 
 [Extended Data](ext_articles/0c5b1925.ext.json)
+
+---
+
+### நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற வாகன விபத்துக்களில் நால்வர் பலி!
+
+*2024-12-18 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201575) · `ta`
+
+நாட்டின் வெவ்வேறு பகுதிகளில் நேற்று  செவ்வாய்க்கிழமை (17) ஏற்பட்ட வாகன விபத்தில் நால்வர் உயிரிழந்துள்ளனர்.
+
+தொடுவாவ பொலிஸ் பிரிவுக்குட்பட்ட சிலாபம்  பிரதான வீதியின் மஹவெவ பகுதியில் சிலாபத்திலிருந்து கொழும்பு நோக்கி பயணித்த வேன் ஒன்று எதிர்திசையில் வந்த மோட்டார் சைக்கிள் மீது மோதி ஏற்பட்ட விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் மற்றும் அவரது மகள் படுகாயமடைந்துள்ளதுடன், மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் சிகிச்சை பலனின்றி சாரதி உயிரிழந்துள்ளார்.
+
+சடலம் மாரவில வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், வேன் சாரதி கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதேவேளை, களுத்துறை – ஹொரணை வீதியின் கல்பாத்த பிரதேசத்தில் துவிச்சக்கரவண்டியை கட்டுப்படுத்த முடியாமல் எதிர்திசையில் வந்த மோட்டார் சைக்கிளுடன் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் சைக்கிளில் பயணித்தவர் படுகாயமடைந்து கல்பாத்த வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மேலதிக சிகிச்சைக்காக ஹொரணை வைத்தியசாலைக்கு மாற்றப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/efc204cd.json)
 
 ---
 
@@ -357,6 +539,24 @@ Accordingly, the verdict on these petitions will be announced on the 31st.
 [Data](articles/347842a0.json)
 
 [Extended Data](ext_articles/347842a0.ext.json)
+
+---
+
+### மொரகொல்லாகம பகுதியில் உள்நாட்டு துப்பாக்கியுடன் இரு சந்தேகநபர்கள்  கைது!
+
+*2024-12-18 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201573) · `ta`
+
+மொரகொல்லாகம பொலிஸ் பிரிவுக்குட்பட்ட கல்கிரியா கந்த பகுதியில் உள்நாட்டில்  தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேகநபர்கள் இருவர்  மொரகொல்லாகம பொலிஸ் அதிகாரிகளினால் கைது செய்யப்பட்டுள்ளார்.
+
+மொரகொல்லாகம பொலிஸ் நிலைய அதிகாரிகளினால்  நேற்று செவ்வாய்க்கிழமை (17) மேற்கொள்ளப்பட்ட சோதனை நடவடிக்கையின் போதே  உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் இரண்டு சந்தேக நபர்கள் செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் 21 மற்றும் 30 வயதுடைய மடகல்ல  மற்றும் மொரகொல்லாகம பகுதியைச்  சேர்ந்தவர்களாவர்.
+
+மேலும், குறித்த கைது நடவடிக்கை தொடர்பில் மொரகொல்லாகம பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/9d0b8924.json)
 
 ---
 
@@ -2121,235 +2321,5 @@ Deflationary policy also allows the central bank to repay debt it has taken from
 ...
 
 [Data](articles/df39e0a9.json)
-
----
-
-### Several spells of showers expected in parts of the country
-
-*2024-12-18 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104317/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
-
-The Meteorology Department says the low pressure area over the southwest Bay of Bengal is currently located to the east of the Sri Lanka, and it is expected to gradually move west-northwestwards.
-
-Several spells of showers will occur in Northern and North-central provinces and in Trincomalee district.
-
-Showers or thundershowers may occur at few places in the Uva and Central provinces and in Rathnapura, Batticaloa, Ampara and Hambantota districts during the evening or night, the Met. Department said.
-
-A few showers are likely over the North-western and Western provinces during the morning.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern and North-central provinces and in Trincomalee district, it said.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5e1e8df0.json)
-
----
-
-### What is the current state of the low -lying area?
-
-*2024-12-18 07:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-காற்றழுத்த-தாழ்வு-பகுதியின்-தற்போதைய-நிலை-என்ன/175-348876) · `ta`
-
-Southwest Bengal Bay low-lying areas: Northeast expected to shift west/northwest. Rainfall/thunderstorms forecasted for Northern, North Central Provinces, Trincomalee District. Wind speeds up to 30-40 km/h in northern regions. Lightning risks advised.
-
-🟩
-
-The lowest low -lying area in the Southwest Bengal Bay is currently in the northeast of the country (18). It is also expected to move to the west and northwest.
-
-The Department of Meteorology has announced that it will rain some times in the Northern and North Central Provinces and Trincomalee District.
-
-Rainfall or thunderstorms are expected in the evening or night in some places in Uva and Central Provinces and Ratnapura, Batticaloa, Ampara and Hambantota districts.
-
-The Department of Meteorology said in a statement that there would be some rainfall in the morning in the northwestern and Western provinces.
-
-Winds are likely to blow up to 30-40 km / h in the country's northern and northern provinces and Trincomalee district.
-
-Can temporarily blow heavy winds during thunderstorms. Therefore, the Department of Meteorology has advised the public to take necessary precautions to reduce the risk of lightning.. Remble
-
-◼️
-
-[Data](articles/d2235bc9.json)
-
-[Extended Data](ext_articles/d2235bc9.ext.json)
-
----
-
-### Former Excise Commissioner General allowed to go abroad
-
-*2024-12-18 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204473) · `si`
-
-Sum:0
-
-🟩
-
-Former Excise Commissioner General MJ, who is named as a respondent, is a respondent, who is named as a respondent from a petition filed by the accusation of the judiciary.. Supreme Court permission granted Mr. Gunasiri's request.
-
-After considering the motion filed by the former Excise Commissioner General, the three-member Supreme Court Bench, Akzanpi and Priyantha Fernando were given permission.
-
-A petition filed by the issuance of liquor licenses, a petition filed by the Issuing Liquor License has been named as a respondent.
-
-President's Counsel Romesh de Silva, who was submitting a motion for the former Excise Commissioner General, is in need to visit Australia for a private affair from 22nd to February 28 and the courtship of January 22Asked.
-
-The Licensed Liquor of the petition was not protesting against the petition.
-
-Accordingly, the judge has ordered the demand for the Commissioner General of Excise.
-
-◼️
-
-[Data](articles/4874b5c4.json)
-
-[Extended Data](ext_articles/4874b5c4.ext.json)
-
----
-
-### Showers in several areas today
-
-*2024-12-18 06:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204471) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers forecasted in North, Central provinces today. Thunderstorms possible in Uva, Central regions at night. Strong winds expected. Public advised to take precautions against lightning accidents."
-
-🟩
-
-The Met Department forecasts that several showers could occur in the North and North and Central provinces today (18).
-
-Showers or thundershowers will occur at several night or night in the Uva and Central provinces, in the Uva and Central provinces, in Ratnapura, Batticaloa, Ampara and Hambantota districts.
-
-From the North and North-Media provinces of the North and the North and North-Media, Trincomalee District.. The Department of Meteorology announces that there are about courageous winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Meanwhile, the lowest pressure zone of the South Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay Bay Sea is expected to move the West.
-
-◼️
-
-[Data](articles/87570794.json)
-
-[Extended Data](ext_articles/87570794.ext.json)
-
----
-
-### Yukthi outraged by extractive external debt restructuring agreement
-
-*2024-12-18 05:21:21* · [`dailyftlk`](https://www.ft.lk/opinion/Yukthi-outraged-by-extractive-external-debt-restructuring-agreement/14-770659) · `en`
-
-If the current Government is truly committed to providing social welfare and addressing the needs of the people suffering the most, it must avoid future borrowings in the capital markets
-
-Following is a statement by Yukthi, calling for economic policies that lead to a process of sustainable development that uplifts working people. It opposes a return to high-interest international capital markets, which have already created an intolerable burden for the people
-
-On 13 December 2024, the Secretary to the Ministry of Finance announced the “successful expiration of its consent solicitation and exchange offer related to its international sovereign bonds.” The initial proposal for a deal had been concluded during a blackout period two days before the Presidential election that was held on 21 September 2024. It is a disastrous agreement that has been forced upon Sri Lanka. It will cost the country billions of dollars and it will likely lead to repeated cycles of default in the near future.
-
-...
-
-[Data](articles/90f2fefa.json)
-
-[Extended Data](ext_articles/90f2fefa.ext.json)
-
----
-
-### Violating people’s sovereignty
-
-*2024-12-18 05:16:56* · [`dailyftlk`](https://www.ft.lk/columns/Violating-people-s-sovereignty/4-770658) · `en`
-
-Unfortunately, Sri Lanka’s legislators have contrived to adversely impact on the peoples’ rights especially when it comes to the electoral process
-
-Sri Lanka’s citizenry is in a way fortunate that there is a written down constitution – a variety of benefits behold its citizenry. Successive political legislators have however, contrived to be guilty of violating the rights of the people – when it comes to elections.
-
-A written down constitution like Sri Lanka has, offers plenty of balance and equity for all:
-
-A written constitution provides a clear and definite framework for government structure, powers, and limitations. It outlines the rights of citizens and the responsibilities of the government that is easily accessible and understood by all.
-
-Our constitution includes rights that guarantee fundamental rights and freedoms for citizens. This protects individuals from potential abuses of power by the government and ensures that rights are upheld and respected.
-
-...
-
-[Data](articles/f0bf4745.json)
-
-[Extended Data](ext_articles/f0bf4745.ext.json)
-
----
-
-### National security only through national harmony – a response
-
-*2024-12-18 05:12:32* · [`dailyftlk`](https://www.ft.lk/columns/National-security-only-through-national-harmony-a-response/4-770657) · `en`
-
-Who deprived the equal rights of Tamils? Not the Sinhalese but the Vellala Tamils themselves
-
-Capt. (Rtd) Rajaratne has written the above article, appeared in Daily FT on 6 December 2024 (https://www.ft.lk/columns/National-security-only-through-national-harmony/4-770154).
-
-Rajaratne implies that the Tamils are subjected to inequality, injustice, oppression, marginalisation, and deprivation. The commemoration of the dead LTTE cadre in the north, he says, was a stark indictment of the failures of the successive Governments to fulfil the aspirations of the Tamil community for equality, justice, liberation, inclusivity, and opportunity.
-
-The above article, in its entirety, is an attempt to convince the reader that Tamils in Sri Lanka are discriminated against and their grievances are not addressed properly. The above implication, which is far from truth, is exactly what the separatists want the world to know to justify their claim for a federal/independent state.
-
-...
-
-[Data](articles/2f4dfb89.json)
-
-[Extended Data](ext_articles/2f4dfb89.ext.json)
-
----
-
-### Govt. reveals MPs benefitted from President’s Fund
-
-*2024-12-18 04:42:29* · [`dailyftlk`](https://www.ft.lk/news/Govt-reveals-MPs-benefitted-from-President-s-Fund/56-770643) · `en`
-
-Chief Government Whip and Minister Dr. Nalinda Jayatissa yesterday revealed to the House that 34 former Prime Ministers, Ministers, MPs and Advisers have disproportionately benefitted from the President’s Fund, receiving financial assistance for medical treatment that goes beyond the fund’s original purpose of support the poor and underprivileged.
-
-Detailing the payments allocated to MPs from the President’s Fund between 2005 and 2024, he questioned the purposes for which such large amounts had been drawn by politicians.
-
-Former Minister of Health Keheliya Rambukwella received Rs. 11 million, while Rajitha Senaratne was granted Rs. 10 million. Former Minister Alek Aluvihare received Rs. 2.2 million, and his son Ranjith Aluvihare, a former MP, received Rs. 4.6 million. The fund also released Rs. 30 million to former Prime Minister D. M. Jayaratne.
-
-...
-
-[Data](articles/6c2a91d1.json)
-
-[Extended Data](ext_articles/6c2a91d1.ext.json)
-
----
-
-### President pays homage at Bodh Gaya
-
-*2024-12-18 04:40:55* · [`dailyftlk`](https://www.ft.lk/news/President-pays-homage-at-Bodh-Gaya/56-770642) · `en`
-
-President Anura Kumara Dissanayake, who is currently on an official visit to India, paid homage at Bodh Gaya yesterday.
-
-He paid homage at the Mahabodhi Temple and the sacred Sri Maha Bodhi tree, the site where Prince Siddhartha attained enlightenment, and received blessings.
-
-Bodh Gaya is one of the four main sacred sites associated with the life of Gautama Buddha, holding immense significance for Buddhists. In 2002, the Mahabodhi Temple in Bodh Gaya was designated a UNESCO World Heritage Site.
-
-The General Secretary of Maha Bodhi Society of India, Ven. Pelwatte Seewalee Thero and Sarnath Centre Head Ven. Rathmalwala Sumiththananda Nayake Thero, extended blessings to the President during the occasion.
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism Vijitha Herath, along with the Minister of Labour and Deputy Minister of Economic Development, Prof. Anil Jayantha Fernando were also present.
-
-◼️
-
-[Data](articles/2f69e678.json)
-
-[Extended Data](ext_articles/2f69e678.ext.json)
-
----
-
-### Tri-force security for former Presidents to be withdrawn from next week
-
-*2024-12-18 04:39:16* · [`dailyftlk`](https://www.ft.lk/news/Tri-force-security-for-former-Presidents-to-be-withdrawn-from-next-week/56-770641) · `en`
-
-Public Security Minister reveals Govt. has spent Rs. 1,488 million over past 11 and a half months on the security of former Presidents
-
-Says move to reduce security expenditures on former Presidents aims to address public dissatisfaction with excessive spending on politicians
-
-Stresses current security arrangements are based on proper assessments, with input from Chitrasiri Committee
-
-Minister of Public Security Ananda Wijepala announced in Parliament yesterday that tri-force personnel assigned for the security of former Presidents will be withdrawn starting next week. The move comes amidst concerns over excessive public expenditure, with the Government having spent Rs. 1,488 million on the security of former presidents over the past eleven and a half months.
-
-Delivering a special statement, Minister Wijepala emphasised that the decision aims to reduce unnecessary spending of public funds while addressing public discontent.
-
-...
-
-[Data](articles/04fbe189.json)
-
-[Extended Data](ext_articles/04fbe189.ext.json)
 
 ---

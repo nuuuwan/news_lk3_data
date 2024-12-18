@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 11:26:45**
+As of **2024-12-18 11:44:11**
 
 ## Newspaper Stats
 
-*Scraped **60,775** Articles*
+*Scraped **60,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 616
 bbccomsinhala | 636
-islandlk | 3,677
-economynextcom | 3,698
+islandlk | 3,678
+economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,790
+adalk | 5,792
 adaderanalk | 7,409
-tamilmirrorlk | 8,683
+tamilmirrorlk | 8,684
 virakesarilk | 10,017
 adaderanasinhalalk | 10,500
 
@@ -26,35 +26,75 @@ adaderanasinhalalk | 10,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,669 (99.8%) of 60,775 articles have been extended.
+60,675 (99.8%) of 60,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
 
-### ශිෂ්‍යත්ව ප්‍රශ්න පිටවීම ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් CIDයට නියෝගයක්
+### Harsha appointed as Cobb Group Chairman
+
+*2024-12-18 11:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-குழு-தலைவராக-ஹர்ஷ-நியமனம்/175-348896) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Harsha de Silva named COPF Chairman. Jagath Wickramaratne announces appointments. Members include Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon, Lakmali Hemachandra.
+
+🟩
+
+Speaker Jagath Wickramaratne today announced that SJB MP Harsha de Silva has been appointed as the Chairman of the Public Finance Committee (COPF).
+
+Members of Parliament Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon and Lakmali Hemachandra have been appointed as members of the committee.
+
+◼️
+
+[Data](articles/108cef3a.json)
+
+[Extended Data](ext_articles/108cef3a.ext.json)
+
+---
+
+### Supreme Court order on CID about scholarship issues
 
 *2024-12-18 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204483) · `si`
 
-පසුගියදා අවසන් වූ පහ වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රයේ ප්‍රශ්න තුනක් කලින් පිටවූ බව කියන සිද්ධියට අදාළව සිදුකරන විමර්ශන පිළිබඳ සවිස්තර වාර්තාවක් හෙට (19) පෙරවරු 9.00ට පෙර අධිකරණය හමුවේ ගොනුකරන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (18) අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවට නියෝග කළේය.
+Supreme Court orders CID to investigate Year 5 scholarship exam first question paper issues.
+
+🟩
+
+The Supreme Court today ordered the CID today to file a detailed report on the first question paper of the Year 5 scholarship examination.
 
 ◼️
 
 [Data](articles/39943217.json)
 
+[Extended Data](ext_articles/39943217.ext.json)
+
 ---
 
-### உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன்  சந்தேகநபர் கைது !
+### Suspect arrested for locally manufactured gun
 
 *2024-12-18 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201553) · `ta`
 
-உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன்  சந்தேகநபரொருவர் குருவிட்ட பொலிஸாரினால் செவ்வாய்க்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-குருவிட்ட பொலிஸ் பிரிவுக்குட்பட்ட வெலிஹிந்த பகுதியில், குருவிட்ட பொலிஸ் நிலைய அதிகாரிகள் குழுவினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புக்கு அமைய உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேக நபர்  கைது செய்யப்பட்டுள்ளார்.
+
+
+Arrest made in Kuruwita: Suspect caught with homemade firearm in Velihena area on Tuesday.
+
+🟩
+
+The suspect was arrested on Tuesday (17) by a suspect with a locally manufactured gun.
+
+The suspect has been arrested with a locally manufactured gun in the Velihena area of ​​the Kuruwita Police Division.
 
 ◼️
 
 [Data](articles/5a0cf547.json)
+
+[Extended Data](ext_articles/5a0cf547.ext.json)
 
 ---
 
@@ -110,6 +150,28 @@ In addition, the suspect is to be produced before the Hatton Magistrate's Court 
 
 ---
 
+### Sri Lanka rupee weaker at 291.25/50 to US dollar, bonds steady
+
+*2024-12-18 10:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-weaker-at-291-25-50-to-us-dollar-bonds-steady-194937/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee traded weaker at 291.25/50 to the US dollar in the spot market, slightly weaker from 291.15/25 to the US dollar while bond yields were steady, ahead of a bill auction, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent down from 9.45/50 percent.
+
+A bond maturing on 01.05.2027 was quoted at 9.70/80 percent down from 9.75/85 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.20/25 percent, up from 10.10/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.65/70 down from 10.67/73 percent. (Colombo/Dec17/2024)
+
+◼️
+
+[Data](articles/372f0f07.json)
+
+[Extended Data](ext_articles/372f0f07.ext.json)
+
+---
+
 ### Recovery of sea cards
 
 *2024-12-18 10:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுக்கி-வைக்கப்பட்டிருந்த-கடல்-அட்டைகள்-மீட்பு/175-348888) · `ta`
@@ -132,37 +194,53 @@ In the early hours of Tuesday (17), the Ramanathapuram District Police Superinte
 
 ---
 
-### රජයේ මුදල් කාරක සභාවේ මුල් පුටුව හර්ෂට
+### Government Cashier Business Headship
 
 *2024-12-18 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204481) · `si`
 
-රාජ්‍ය මුදල් පිළිබඳ කාරක සභාවේ සභාපතිවරයා ලෙස ආචාර්ය හර්ෂ ද සිල්වා මහතා පත්කර තිබේ.
+Here's a summary in 200 characters:
 
-එම කාරක සභාවේ අනෙකුත් සාමාජික මන්ත්‍රීවරු වන්නේ, හර්ෂණ සූරියප්පෙරුම මහතා, රවී කරුණානායක මහතා, හර්ෂණ රාජකරුණා මහතා, නිමල් පලිහේන මහතා, විජේසිරි බස්නායක මහතා, තිළිණ සමරකෝන් මහතා, සහ ලක්මාලි හේමචන්ද්‍ර මහත්මිය.
+
+
+Dr. Harsha de Silva named Chairman of Public Finance Committee. Members: Harsiri Surakarana, Harsiri Karunanayake, Harsiri Basnayake, Tilmarna Samarakoon, Lakmali Hemachandra.
+
+🟩
+
+Dr. Harsha de Silva has been appointed as the Chairman of the Committee on Public Finance.
+
+Members of the Committee, Harsiri Surakarana, Harsiri Karunanayake, Harsiri Basnayake, and Tilmarna, Tilmiri Samarakoon, and Lakmali Hemachandra.
 
 ◼️
 
 [Data](articles/478bddac.json)
 
+[Extended Data](ext_articles/478bddac.ext.json)
+
 ---
 
-### பல்பொருள் அங்காடிகளில் கைவரிசை காட்டிய சந்தேக நபர் கைது !
+### Suspect arrested for showcase in supermarkets
 
 *2024-12-18 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201551) · `ta`
 
-பல்பொருள் அங்காடிகளை உடைத்து சொத்துக்களை திருடிய சந்தேக நபர் ஒருவர் மஹரகம பொலிஸாரினால் நேற்று செவ்வாய்க்கிழமை (17) கைது செய்யப்பட்டுள்ளார்.
+Arrest made in supermarket theft case: Suspect detained by Maharagama police for stolen goods.
 
-மஹரகம பொலிஸ் நிலையத்தின் அதிகாரிகள் குழுவொன்று மஹரகம பொலிஸ் பிரிவுக்குட்பட்ட போதிவத்த பகுதியில் குற்றத்தடுப்பு நடவடிக்கையில் ஈடுபட்டிருந்த போது  கிடைத்த தகவலின் அடிப்படையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, மஹரகம மற்றும் மிரிஹான பொலிஸ் பிரிவுக்குட்பட்ட பல்பொருள் அங்காடிகளுக்குள் நுழைந்து சொத்துக்களை திருடிய சம்பவங்களுடன் தொடர்புடைய சந்தேக நபர் என தெரியவந்துள்ளது.
+A suspect was arrested by the Maharagama police on Tuesday (17).
 
-மேலதிக விசாரணைகளின் போது சந்தேக நபரால் திருடப்பட்ட சொத்துக்களில்  சிலவற்றை பொலிஸார் கைப்பற்றியுள்ளனர்.
+A team of officials of the Maharagama Police Station have been arrested on the basis of information received during a criminal activity in the Bodhivatta area under the Maharagama Police Division.
 
-மேலும், குறித்த சம்பவம் தொடர்பில் மஹரகம பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+During the investigation into the suspect, it was revealed that the suspect was involved in incidents of stolen assets and stolen property.
+
+During further investigations, police seized some of the assets stolen by the suspect.
+
+In addition, the Maharagama police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/93996dd6.json)
+
+[Extended Data](ext_articles/93996dd6.ext.json)
 
 ---
 
@@ -193,6 +271,24 @@ The Deputy Minister expressed optimism that this initiative would help resolve t
 ◼️
 
 [Data](articles/7a5f65bf.json)
+
+---
+
+### Sri Lanka sees foreign outflows from govt securities for first time in 13 weeks
+
+*2024-12-18 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-outflows-from-govt-securities-for-first-time-in-13-weeks-194935/) · `en`
+
+ECONOMYNEXT – Sri Lanka witnessed foreigners selling its government securities for the first time in 13 weeks after the island nation saw foreign inflow of nearly $100 million in the previous 12 straight weeks, the Central Bank data showed.
+
+Analysts said foreign investors are worried about possible reverse in rupee appreciation amid Sri Lanka’s impending decision to relax imports.
+
+“Foreign investors have been taking risks and buying Sri Lanka government securities for the past three months because they had been expecting rupee appreciation and further reduction in the market interest rates,” a Colombo-based currency dealer told EconomyNext.
+
+Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
+
+...
+
+[Data](articles/3d8fe371.json)
 
 ---
 
@@ -377,6 +473,22 @@ Faiszer Musthapha of the New Democratic Front (NDF), along with Arjuna Sujeewa S
 ...
 
 [Data](articles/5cdec2da.json)
+
+---
+
+### විදුලි ගාස්තු ගැන කොමිෂමේ තීන්දුව ජනවාරි 17 දා
+
+*2024-12-18 09:36:22* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-ගැන-කොමිෂමේ-තීන්දුව-ජනවාරි-17-දා/11-413709) · `si`
+
+ලංකා විදුලි බල මන්ඩලය විසින් 2025 වර්ෂය සඳහා යෝජනා කර ඇති වීදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන්  අවසාන තීරණය මහජන අදහස් විමසීමකින් පසුව ලබන වසරේ ජනවාරි 17 දින ලබාදීමට  ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව තීරණය කරයි.
+
+ඒ අනුව එම යෝජිත විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජනතාවගේ ලිඛිත  අදහස් හා යෝජනා මෙම  දෙසැම්බර් 17  දින සිට 2025 ජනවාරි 08 දක්වා භාරගන්නා බවත්  වාචික අදහස් දැක්වීමේ සැසි  මෙම මස  27 සිට  ලබන වසරේ  ජනවාරි 10 දක්වා සියලු පළාත් ආවරණය කෙරෙන පරිදි පැවැත්වෙන බවද එම කොමිෂන් සභාව පවසයි .
+
+විදුලි බල මණ්ඩලය  විසින් ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව වෙත ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනා  සමාලෝචනය කිරීමෙන් පසු කෙටුම්පත් කල  උපදේශන පත්‍රිකාව www.pucsl.gov .lk වෙබ් අඩවියට පිවිස පරිශීලනය කල හැකි බව එම කොමිෂන් සභාව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/382a06b5.json)
 
 ---
 
@@ -697,6 +809,30 @@ Speaking after visiting two mass grave sites in the towns of Qutayfah and Najha 
 ...
 
 [Data](articles/8f5ffc17.json)
+
+---
+
+### Sri Lanka Debt to GDP ratio 101.8-pct of GDP in Sept 2024
+
+*2024-12-18 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-debt-to-gdp-ratio-101-8-pct-of-gdp-in-sept-2024-194881/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central government debt fell to 101.8 percent of gross domestic product in September 2024, down from 105.49 percent in December 2023, based on latest official data.
+
+Rolling annual GDP was 29,146 billion rupees based on the third quarter data released by the Department of Census and Statistics.
+
+Central government debt went up to 30,025 billion rupees in September 2024 from 29,146 billion in December 2023.
+
+Foreign debt fell to 11,699 billion rupees in September 2024 in rupee terms, from 12,094 billion rupees in December 2023.
+
+Domestic debt rose to 18,326 billion rupees in September from 17,052 billion rupees.
+
+Sri Lanka’s central bank has kept broadly deflationary policy up to the September 2024, allowing maturing foreign debt to be paid while collecting reserves.
+
+Deflationary policy also allows the central bank to repay debt it has taken from the Reserve Bank of India.
+
+...
+
+[Data](articles/f95c95d4.json)
 
 ---
 
@@ -1291,6 +1427,22 @@ Amid those developments both indices moved upwards. All Share Price Index up by 
 ...
 
 [Data](articles/24002fd2.json)
+
+---
+
+### Union Bank rings in the season with Christmas Carols
+
+*2024-12-17 23:01:00* · [`islandlk`](http://island.lk/union-bank-rings-in-the-season-with-christmas-carols/) · `en`
+
+Ushering in the festive season Union Bank held its annual Christmas Carols at the St Andrew’s Scots Kirk church. The festive evening brought the Union Bank staff and their families together for a joyous occasion of fellowship and a cheerful rendition of carols.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/1b96097a.json)
 
 ---
 
@@ -2120,6 +2272,42 @@ The petition was then examined on March 6.
 
 ---
 
+### දුම්රිය නිල නිවාසවල මාසික ජල බිල්පතට අය කිරීම රු. 5යි
+
+*2024-12-17 17:58:50* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-නිල-නිවාසවල-මාසික-ජල-බිල්පතට-අය-කිරීම-රු--5යි/11-413700) · `si`
+
+දුම්රිය දෙපාර්තමේන්තුවට අයත් රත්මලාන, කොතලාවලපුර දුම්රිය නිවාස 546 සඳහා එම නිවාසවල පදිංචි එක් නිලධාරියකුගෙන් ජලබිල්පත් වෙනුවෙන් මසකට රුපියල් 05ක මුදලක් අයකිරිම නිසා ඉකුත් වසර  තුන තුළ (2021 පෙබරවාරි 06 සිට 2023 දෙසැම්බර් 31 දක්වා) ජලබිල්පත් ලෙස රුපියල් නවකෝටි විසිතුන්ලක්ෂ අනූඅටදහස් පන්සිය තිස්දෙකක (92,398,532 ) මුදලක්  දෙපාර්තමේන්තුව විසින්  දරා ඇති බැව් ජාතික විගණන කාර්යාලය පවසයි.
+
+රත්මලාන  ප්‍රධාන යාන්ත්‍රික ඉංජිනේරු උප දෙපාර්තමේන්තුවේ කොතලාවලපුර දුම්රිය නිවාස 546 සඳහා ජලබිල්පත් ලෙස වසරකට රුපියල් මිලියන 30කට අධික මුදලක්  දුම්රිය දෙපාර්තමේන්තුව විසින් දරනු ලබන බවද විගණන වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/5d29814a.json)
+
+---
+
+### India will back Sri Lanka’s BRICS membership when consensus reached: Foreign Secretary
+
+*2024-12-17 17:21:00* · [`economynextcom`](https://economynext.com/india-will-back-sri-lankas-brics-membership-when-consensus-reached-foreign-secretary-194871/) · `en`
+
+ECONOMYNEXT – India will back Sri Lanka’s bid to become a member of BRICS group when the World’s powerful South-South corporation considers news membership, India’s Foreign Secretary Shri Vikram Misri said.
+
+Sri Lanka’s application to become a member in the BRICS (Brazil, Russia, India, China, and South Africa) was not accepted by the group’s current membership in October when President Anura Kumara Dissanayake’s government applied for the membership.
+
+However, Sri Lanka’s request to become a member of BRICS’ New Development Bank (NDB) was accepted in the October summit held in Russia.
+
+BRICS, an economic and political group, has been gaining increasing relevance in recent years.
+
+It poses several potential challenges to the global dominance of the United States and the central role of the U.S. dollar in international trade and finance.
+
+Sri Lanka has sought the help of BRICS members to push for its own membership.
+
+...
+
+[Data](articles/6a98b151.json)
+
+---
+
 ### India will back Sri Lanka’s BRICS membership when consensus reached: Foreign Secretary
 
 *2024-12-17 17:21:00* · [`economynextcom`](https://economynext.com/india-will-back-sri-lankas-brics-membership-request-when-consensus-reached-foreign-secretary-194871/) · `en`
@@ -2141,187 +2329,5 @@ Sri Lanka has sought the help of BRICS members to push for its own membership.
 [Data](articles/f64dd301.json)
 
 [Extended Data](ext_articles/f64dd301.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 291.15/25 to dollar, bonds steady
-
-*2024-12-17 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-291-15-25-to-dollar-bonds-steady-194843/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 291.15/25 to the US dollar on Tuesday from 290.70/80 to the US dollar on Monday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.45/50 percent, up from 9.40/50 percent.
-
-A bond maturing on 15.09.2029 closed at 10.67/73 percent, down from 10.70/80 percent. (Colombo/Dec17/2024)
-
-◼️
-
-[Data](articles/b7be7768.json)
-
-[Extended Data](ext_articles/b7be7768.ext.json)
-
----
-
-### Meet the shape of shaped in a pistol
-
-*2024-12-17 17:16:57* · [`adalk`](https://www.ada.lk/breaking_news/පිස්තෝලයක-හැඩය-ගත්-මැණිකක්-හමුවෙයි/11-413699) · `si`
-
-Pink sapphire gem discovered in Ratnapura, shaped like a pistol. Found in a private museum owned by a gem businessman. Unique natural formation attracts attention from foreign tourists.
-
-🟩
-
-A pink safar gem melts in the Apathatha area, which was shaped in a pistol, was found in a private museum belonging to a gem businessman in Ratnapura.
-
-The entrepreneur has purchased a gem stone in Ratnapura and the entrepreneur in the Ratnapura area.. There are two wonderful gem stones at the gem museum belonging to Mr. Nandana.
-
-Twenty-top Twenty-three high carrots in Menkgala, shaped in a pistol. Mr. Nandana said that two of the white hooks were created by nature.
-
-This special Menikgala has purchased in Rathtapura town and the five posts are overweight. Nandana said that these gems cannot be paid because of this wonderful creation.
-
-The owner said that the gem muse is being carried out with the sale of foreign tourists to the Ratnapura area due to Ratnapura, with the sale of foreign tourists to the Ratnapura area.
-
-◼️
-
-[Data](articles/1edb16d4.json)
-
-[Extended Data](ext_articles/1edb16d4.ext.json)
-
----
-
-### Ranil praises President Anura
-
-*2024-12-17 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204465) · `si`
-
-Ranil Wickremesinghe praises President Anura Kumara Dissanayake for strengthening Indo-Lanka cooperation, particularly economic and technical agreements.
-
-🟩
-
-Former President Ranil Wickremesinghe says that Indian Prime Minister Narendra Modi and President Anura Kumara Dissanayake has further strengthened the Indo-Lanka cooperation yesterday.
-
-The former President has made this statement.
-
-The further states that President Anura Kumara Dissanayake is praising the Economic and Technical Cooperation Agreement with the Economic and Technical Cooperation Agreement.
-
-◼️
-
-[Data](articles/fd9c5a80.json)
-
-[Extended Data](ext_articles/fd9c5a80.ext.json)
-
----
-
-### උසස්වීම් නැතිව පොලීසියේ 8197කට අසාධාරණයක්
-
-*2024-12-17 17:05:43* · [`adalk`](https://www.ada.lk/breaking_news/උසස්වීම්-නැතිව-පොලීසියේ-8197කට-අසාධාරණයක්/11-413698) · `si`
-
-පොලිස් කොස්තාපල් තනතුරේ සිට ප්‍රධාන පොලිස් පරීක්ෂක තනතුර දක්වා  සේවය කරන පිරිස්වලට උසස් වීම් ලබා දීමේ ප්‍රමාදය නිසා නිලධාරීන් 8197කට දැඩි අසාධාරණයක් සිදුව තිබේ.
-
-ඇතැම් පොලිස් නිලධාරීන්ට ආසන්න උසස් වීම් ලබා දීමට නියමිතව තිබුණේ 2020 වසරේ පෙබරවාරි 08වන දින බවත්, මේ ආකාරයට පහළ ශ්‍රේණිවල සේවය කරන පිරිස්වලට වසර තුන, හතරක සිට උසස් වීම් ලබා දීමක් සිදුවී නොමැති බවත් අසාධාරණයට පත් පොලිස් නිලධාරීහු සඳහන් කරති.
-
-උසස් වීම් නොලැබීමේ ගැටලුවට මුහුණ දී සිටින පිරිස් සැලකීමේදී පොලිස් සැරයන්වරුන් 4,178ක්, පොලිස් පරීක්ෂකවරුන් 1,273 ක්, උපපොලිස් පරීක්ෂකවරුන් 948 ක්, ප්‍රධාන පොලිස් පරීක්ෂකවරුන් 305 ක්, කාන්තා ප්‍රධාන පොලිස් පරීක්ෂකවරියන් 14 ක්, කාන්තා උපපොලිස් පරික්ෂකවරියන් 142 ක්,  කාන්තා පොලිස් කොස්තාපල්වරියන් 653 ක්, පොලිස් කොස්තාපල්වරුන් 245 ක්,  මහ සැරයන්වරුන් 50 ක්, ප්‍රවාහන අංශයේ සේවය කරන උපපොලිස් පරික්ෂකවරුන් 98 ක්  හා පොලිස්  රියදුරු කොස්තාපල්  හා  සැරයන්  තනතුරේ සේවය කරන පිරිසක්ද සිටී.
-
-...
-
-[Data](articles/3ba55766.json)
-
----
-
-### We hope that the Speaker will take steps to protect the rights of all MPs- Sajith
-
-*2024-12-17 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201516) · `ta`
-
-Sajith Premadasa urges Speaker to protect MP rights, avoid confidence vote repetition. He congratulates Jagath Wickramaratne as new Speaker, emphasizing democracy strengthening role.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the need to submit a no -confidence motion against the Speaker should not be repeated.
-
-He was speaking on Tuesday (17) in Parliament and congratulated Jagath Wickramaratne, who was elected as the new Speaker.
-
-The Speaker has a unique role in the journey of protecting the rights of MPs and providing more conducive services to the people. The Speaker's contribution to the 225 Members of Parliament to provide quality service to the people is unique.
-
-The Speaker becomes an important part of strengthening democracy by listening to the ideas and proposals of all members.So I congratulate the Opposition in the Opposition on the election as the new Speaker.
-
-At the same time, we had to take a no -confidence motion against the former Speaker. I pray that the Speaker should carry out his work better and that we should not repeat the need to submit a no -confidence motion against the Speaker.
-
-◼️
-
-[Data](articles/b58a5bd0.json)
-
-[Extended Data](ext_articles/b58a5bd0.ext.json)
-
----
-
-### Child killed in a tree and playing a branch
-
-*2024-12-17 16:57:25* · [`adalk`](https://www.ada.lk/breaking_news/ගසක-අත්තක්-කඩා-වැටී-පෙරපාසලේ-සෙල්ලම්-කරමින්-සිටි-දරුවා-මරුට/11-413697) · `si`
-
-Child dies after falling from tree while playing branch in Sri Lanka
-
-🟩
-
-A small child who was admitted to the Anuradhapura Teaching Hospital has been admitted to the Anuradhapura Teaching Hospital due to a small child who was playing in the courtyard of a previous school in Apuram area in Horowpowa area.
-
-The deceased has been identified as Elawewa, Morawawa resident of the Morawawa Horowpothana address. Dullah Perera is a 5-month old boy.
-
-The accident had occurred on the 12th of the end of the pre-school, while the child was running after the end of the preschool, the child was running after the end of the pre-school.
-
-The preschool teacher summoned a group of parents after the end of the previous school, while discussing the final role in the previous school, the child was playing with a rock and playing nearby statements.
-
-The child's uncle was switched by a branch of a tree and was immediately rose to the Horowpothana Teaching Hospital.
-
-...
-
-[Data](articles/7872a740.json)
-
-[Extended Data](ext_articles/7872a740.ext.json)
-
----
-
-### Military security provided to former presidents - Ananda Wijebala
-
-*2024-12-17 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201515) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka reduces presidential security costs: Military protection ends, police-only security for ex-presidents starting next week. Annual savings estimated at 1200 million rupees. Security details reduced for all former presidents. Government maintains responsibility for overall public safety despite criticism.
-
-🟩
-
-1448 million rupees has been spent so far this year only for the protection of former presidents.The military security provided to the presidents will be removed from the coming week. Only the police protection will be provided. Cannot accommodate state assets for personal needs. Minister of Public Security and Parliamentary Affairs, Ananda Wijepala, said that the security of former presidents will be recovered every six months.
-
-He was speaking at a special statement during a session held in Parliament on Tuesday (17).
-
-The security officials who were involved in the security of former President Mahinda Rajapaksa should be made clear that one of them should be referred to as the recovery of the service.
-
-The people made a coup in the hope that the political culture should be changed and the people's tax credits should be reduced to politicians.. People are strongly criticized for not adopting street laws with the entourage.
-
-...
-
-[Data](articles/1f6c7373.json)
-
-[Extended Data](ext_articles/1f6c7373.ext.json)
-
----
-
-### Block?Is it supposed?Provide compensation to the victims of the affair- Sajith
-
-*2024-12-17 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/201509) · `ta`
-
-Sajith Premadasa demands compensation for Muslim victims of alleged discrimination under Gotabhaya Rajapaksa's COVID-19 response.
-
-🟩
-
-The Gotabhaya Rajapaksa government was aimed at a race and religion during the spread of the Corona and the Kovit virus.The Gotabhaya Rajapakse government has acted in violation of the guidelines provided by the World Health Organization.Justice should be established for the violated Islamic community and the affected Muslims.
-
-Opposition Leader Sajith Premadasa today (17) demanded compensation to the affected parties.
-
-◼️
-
-[Data](articles/89156df2.json)
-
-[Extended Data](ext_articles/89156df2.ext.json)
 
 ---

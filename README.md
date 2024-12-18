@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 00:18:11**
+As of **2024-12-19 01:26:47**
 
 ## Newspaper Stats
 
-*Scraped **60,889** Articles*
+*Scraped **60,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 618
 bbccomsinhala | 639
 islandlk | 3,680
 economynextcom | 3,711
-dailyftlk | 4,198
+dailyftlk | 4,200
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
@@ -26,29 +26,75 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,761 (99.8%) of 60,889 articles have been extended.
+60,767 (99.8%) of 60,891 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-19 (Thursday)
+
+### Lessons from Bangladesh’s foreign power purchases
+
+*2024-12-19 00:31:20* · [`dailyftlk`](https://www.ft.lk/columns/Lessons-from-Bangladesh-s-foreign-power-purchases/4-770675) · `en`
+
+Why are these countries scrambling for dollars to pay for essential electricity?
+
+The core question all energy-importing countries face is dependence. Modern societies cannot function without electricity. The cost of not having electricity is almost always higher than even the cost of buying emergency power. How can a government allow such matters to be controlled by foreign companies or governments?
+
+“Did you hear that Adani is refusing to supply Bangladesh with electricity?” a friend asked me recently. I knew it was a loaded question, my friend being a nationalist. “You recall we had no power because we couldn’t pay for shiploads of fuel and coal just a few years back?” I asked back.
+
+...
+
+[Data](articles/352b4caf.json)
+
+[Extended Data](ext_articles/352b4caf.ext.json)
+
+---
+
+### AKD’s Delhi success, ‘end of crisis’ announcement, axial Anuranomics shift
+
+*2024-12-19 00:19:55* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-Delhi-success-end-of-crisis-announcement-axial-Anuranomics-shift/4-770673) · `en`
+
+“Today we open a new chapter of our history and turn the page
+
+President Anura Kumara Dissanayake’s rise to the top bears some resemblance to that of Prime Minister Narendra Modi. His Indian visit was a triumph for him, and overall, a win for Sri Lanka.
+
+He thanked India fulsomely for its economic support, arrived at convergence on a number of economic initiatives, and tabled some others. Sadly, he couldn’t secure a commitment on the piratical incursions by Indian fishermen. Connectivity of electric grids and building a pipeline are to “continue to be considered” but Anura didn’t sign-off on these projects which would ensure a dangerous, vulnerable dependence.
+
+...
+
+[Data](articles/e6e77174.json)
+
+[Extended Data](ext_articles/e6e77174.ext.json)
+
+---
+
 ### 2024-12-18 (Wednesday)
 
-### லங்கா ரி10 சுப்பர் லீக் இறுதிப் போட்டியில் ஜெவ்னா டைட்டன்ஸை எதிர்த்தாட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் தகுதிபெற்றது
+### Hambantota Bangla Tigers qualified to oppose Jevna Titans in the Lanka R10 Super League final
 
 *2024-12-18 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/201612) · `ta`
 
-கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (19) நடைபெறவுள்ள அங்கரார்ப்பண லங்கா ரி10 சுப்பர் லீக் இறுதிப் போட்டியில் ஜெவ்னா டைட்டன்ஸ் அணியை எதிர்த்தாட ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணி தகுதிபெற்றுக்கொண்டது.
+Hambantota Bangla Tigers qualify for Lanka R10 Super League final against Jevna Titans on Thursday at Pallekel International Cricket Stadium. They won the second qualifying match by 4 wickets, while Goal Marwals won the first qualifying match. Key performances include Moin Subasinghe's 32 runs, Lahiru Udara and Shakib Al Hasan's 12 runs each, and Dasun Shanaka's 47 runs.
 
-முதலாவது தகுதிகாண் போட்டியில் தோல்வி  அடைந்த ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணியும் நீக்கல் போட்டியில் வெற்றிபெற்ற கோல் மார்வல்ஸ் அணியும் சற்று நேரத்துக்கு முன்னர் நிறைவுபெற்ற இரண்டாவது தகுதிகாண் போட்டியில் மோதியதில் ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் அணி 4 விக்கெட்களால் வெற்றிபெற்று இறுதிப் போட்டியில் விளையாட தகுதிபெற்றது.
+🟩
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட கோல் மார்வல்ஸ் அணி 10 ஓவர்களில் 9 விக்கெட்களை இழந்து 90 ஓட்டங்களைப் பெற்றது.
+Hambantota Bangla Tigers qualified to oppose Jevna Titans in the final of the Angarapana Lanka R10 Super League final to be held on Thursday (19) at the Pallekel International Cricket Stadium in Kandy.
 
-கோல் மார்வல்ஸ் அணியின் ஆரம்பம் சிறப்பாக அமையவில்லை. முதல் 3 வீரர்கள் களம் விட்டு வெளியேறியிருந்தபோது அதன் மொத்த எண்ணிக்கை 23 ஓட்டங்களாக இருந்தது.
+Hambantota Bangla Tigers won the match by 4 wickets in the second qualifying match and the Goal Marwals won the first qualifying match and the winning match of the first qualifying match.
 
-எனினும் அடுத்த நான்கு துடுப்பாட்ட வீரர்களும் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்று அணியை கௌரவமான நிலையில் இட்டனர்.
+The Goal Marwals team, who was first invited to bat first in the upting match, scored 90 runs for the loss of 9 wickets in 10 overs.
+
+The start of the goal Marvels team is not better. The total number was 23 runs when the first 3 players left the field.
+
+However, the next four batsmen got the double -digit number and set the team in honor.
+
+Moin Subasinghe scored 32 runs without losing, Lahiru Udara and Shakib Al Hasan scored 12 runs and Samindu Wickremasinghe 11 runs.
 
 ...
 
 [Data](articles/d94199a6.json)
+
+[Extended Data](ext_articles/d94199a6.ext.json)
 
 ---
 
@@ -104,39 +150,65 @@ Jaffna so far. It is noteworthy that 7 deaths due to the disease in the district
 
 ---
 
-### அமைச்சரவை அமைச்சர்களின் கல்வித் தகைமையை பகிரங்கப்படுத்துங்கள் - எதிர்க்கட்சி ஆளும் தரப்புக்கு சவால்
+### Publicity of Cabinet Ministers's educational qualification - challenge to the ruling party of the opposition
 
 *2024-12-18 22:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201595) · `ta`
 
-எதிர்க்கட்சியின் உறுப்பினர் அஜித் பி. பெரேரா உயர் சட்டத்தரணி என்ற பதத்தை பயன்படுத்துவது சட்டவிரோதமானது இலங்கை நீதி கட்டமைப்பில் அவ்வாறானதொரு பதவி கிடையாது என நீதியமைச்சர் ஹர்ஷ நாணயக்கார குறிப்பிட்ட கருத்துக்கு அஜித் பி.பெரேரா கடும் எதிர்ப்பை வெளிப்படுத்தினார்.
+Here's a summary of the text in approximately 200 characters:
 
-இல்லாத கலாநிதி பட்டத்தை பயன்படுத்தியவர்கள் உண்மை வெளிப்படும் என்ற அச்சத்தில் பாராளுமன்றத்துக்கு அறிவித்து விட்டு சுயவிபரக் கோவையில் இருந்து கலாநிதி பட்டத்தை நீக்கியுள்ளார்கள். இவர்களின் செயற்பாடு வெட்ககேடானது என அஜித் பி. பெரேரா கடுமையாக சாடியதை தொடர்ந்து ஆளும் மற்றும் எதிர்க்கட்சி உறுப்பினர்களுக்கிடையில் கடும் தர்க்கம் நிலவியுள்ளது.
 
-பாராளுமன்றத்தில் புதன்கிழமை (18)  நடைபெற்ற பாடசாலை மாணவர்களுக்கான காகிதாதிகளுக்கான குறை நிரப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றிய ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அஜித் பி. பெரேரா,
+
+Opposition MP Ajith B. Perera denies being "high lawyer" despite Justice Minister's claims. Perera accuses minister of lying about his qualifications. Ruling and opposition engage in heated debate over cabinet ministers' educational backgrounds.
+
+🟩
+
+Opposition member Ajith B. Ajith P. Perera expressed strong opposition to the notion that Perera's high lawyer is illegal.
+
+Those who have not used the degree in the absence of the degree have been removed from the Profile Kovil in fear that the truth will be revealed.. Ajith B. Following Perera, there has been fierce logic between the ruling and opposition members.
+
+United People's Power Member of Parliament Ajith B.. Perera,
+
+In the absence of I am not in Parliament yesterday (17), the Justice Minister made allegations about my educational qualifications. I am acting as Advisory Attorney as Article 23 of 2023. So I serve as the Council Attorney. He said the council could be referred to as a high lawyer.
+
+Speaking at the event, Justice Harshana Nanayakkara, Ajith P, Perera received the title of high lawyer. I urged only the degree to be submitted to the council.
 
 ...
 
 [Data](articles/3adc2fe4.json)
 
+[Extended Data](ext_articles/3adc2fe4.ext.json)
+
 ---
 
-### நியூஸிலாந்துக்கு எதிரான ரி20 தொடருக்கான இலங்கை அணியில் வெல்லாலகேவுக்கு இடம் இல்லை; பானுக்க ராஜபக்ஷவுக்கு வாய்ப்பு
+### Vellalake has no place in the Sri Lankan squad for the T20 series against New Zealand;Opportunity for Panuka Rajapaksa
 
 *2024-12-18 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201610) · `ta`
 
-நியூஸிலாந்துக்கு எதிராக இம் மாத இறுதியில் ஆரம்பமாகவுள்ள 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடருக்கான 16 வீரர்களைக் கொண்ட இலங்கை குழாத்தை ஸ்ரீலங்கா கிரிக்கெட் புதன்கிழமை (18) மாலை வெளியிட்டது.
+Here's a summary of the text in approximately 200 characters:
 
-அதேவேளை, பானுக்க ராஜபக்ஷவுக்கு இடம் வழங்கப்பட்டுள்ளமை ஆச்சரியத்தை தோற்றுவிக்கிறது. கடந்த இரண்டு வருடங்களில் துடுப்பெடுத்தாடிய 6 போட்டிகளில் அவரால் பெறப்பட்ட அதிகபட்ச இன்னிங்ஸ் எண்ணிக்கை 17 ஓட்டங்களாகும்.
 
-அவருக்குப் பதிலாக வளர்ந்துவரும், இன்னும் பல்லாண்டுகள் விளையாடக்கூடியவர் எனக் கருதப்படும் வெல்லாலகேவுக்கு வாய்ப்பு வழங்கியிருந்தால் நலமாக இருந்திருக்கும் என்பது சில கிரிக்கெட் விமர்சகர்களின் கருத்தாகும்.
 
-சரித் அசலன்க தலைமையிலான இலங்கை குழாத்தில் இளம் சகலதுறை வீரர் சமிந்து விக்ரமசிங்க இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+Sri Lanka names 16-player squad for NZ T20 series. Panuka Rajapaksa included despite low form. Critics suggest replacing Vellalake. Sarith Asalanka leads team. Dinesh Chandimal returns after 2-year gap. Matches on Dec 28-30.
 
-இது இவ்வாறிருக்க, லங்கா ரி10 சுப்பர் லீக் போட்டியில் துடுப்பாட்டத்தில் அசத்திய தினேஷ் சந்திமாலுக்கு மற்றொரு வாய்ப்பு வழங்கப்பட்டுள்ளது. அவர் கடைசியாக 2022இலேயே சர்வதேச ரி20 போட்டியில் விளையாடி இருந்தார்.
+🟩
+
+Sri Lanka Cricket on Wednesday evening (18), a 16 -player for the three -match international T20 cricket series against New Zealand.
+
+At the same time, it is surprising that Panuka Rajapaksa has been given space. In the last two years, the highest innings scored by her in 6 matches were 17 runs.
+
+Some cricket critics have suggested that it would have been good if he had given Vellalake a chance to be replaced and considered to be a decades.
+
+Sarith Asalann -led Sri Lankan group Samindu Wickremasinghe has been recruited.
+
+In this case, Dinesh Chandimal has been given another chance in the Lanka R10 Super League match.. He last played in the International R20 match in 2022.
+
+The first two international T20 cricket matches between Sri Lanka and New Zealand will be held on December 28 and 30 at the Mount Mount Mount Mount Mount.
 
 ...
 
 [Data](articles/fa9b6aa2.json)
+
+[Extended Data](ext_articles/fa9b6aa2.ext.json)
 
 ---
 
@@ -164,21 +236,31 @@ The incident is also recorded in another car on the highway.
 
 ---
 
-### இந்தியாவுடனான எட்கா ஒப்பந்தம் :அரசாங்கத்தின் நிலைப்பாடு என்ன ? - ஐக்கிய மக்கள் சக்தி கேள்வி
+### Edka Agreement with India: What is the government's position?- The question of the United People's Power
 
 *2024-12-18 22:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201605) · `ta`
 
-இந்தியாவுடனான எட்கா ஒப்பந்தம் தொடர்பில் அரசாங்கத்தின் நிலைப்பாட்டை ஜனாதிபதி நாட்டு மக்களுக்கு வெளிப்படையாக குறிப்பிட வேண்டும். இந்தியாவுடன் கைச்சாத்திடப்பட்ட ஒப்பந்தங்கள் பற்றி ஜனாதிபதி எதனையும் குறிப்பிடவில்லை. பொருளாதார வங்குரோத்து நிலைமைக்கு மக்கள் விடுதலை முன்னணியும் பொறுப்புக் கூற வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்தும பண்டார தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்றத்தில் புதன்கிழமை (18) நடைபெற்ற பாடசாலை மாணவர்களுக்கான காகிதாதிகளுக்கான குறை நிரப்பு பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-பாடசாலை மாணவர்களின் கல்வி கற்றலுக்கு நிதியுதவி வழங்கும் வகையிலான குறைநிரப்பு பிரேரணை மீதான விவாதம் நடத்தப்படுகிறது. கடந்த கால அரசாங்கங்களை விமர்சித்து ஆளும் தரப்பினர்களில் பெரும்பாலானோர் இலவச கல்வியின் ஊடாகவே கல்வி கற்றுள்ளார்கள். முன்னேற்றமடைந்துள்ளார்கள் என்று குறிப்பிட வேண்டும்.
 
-வறுமையின் காரணமாக எந்தவொரு பிள்ளையும் பாடசாலை கல்வியை கைவிட கூடாது என்று குறிப்பிட்டு ஜே.ஆர் ஜயவர்தனவின் அரசாங்கம் இலவச பாடநூல் திட்டத்தை அறிமுகப்படுத்தியது.
+Sri Lanka's government position on Edka Agreement with India unclear. President Anura Kumara Dissanayake silent on pact. Opposition criticizes economic policies, calls for transparency on foreign deals.
+
+🟩
+
+The President should openly state the government's position on the Edka Agreement with India. The President does not mention any agreements signed with India. United People's Power MP Ranjith Mathuma Bandara said the Janatha Vimukthi Peramuna (JVP) should be held accountable for the economic bankruptcy situation.
+
+He was speaking at the debate on the Motion on the Public Students' Public Advancement Motion for School Students held in Parliament on Wednesday (18).
+
+Debate on the Motion Motion to provide financial assistance to school students' educational learning. Most of the ruling parties criticized past governments are educated through free education. It must be noted that they have improved.
+
+JR Jayawardene's government introduced the free textbook program, noting that no child should abandon school education due to poverty.
 
 ...
 
 [Data](articles/f42f503b.json)
+
+[Extended Data](ext_articles/f42f503b.ext.json)
 
 ---
 
@@ -2381,47 +2463,5 @@ Members of Parliament Harshana Suriyapperuma, Ravi Karunanayake, Harshana Rajaka
 [Data](articles/108cef3a.json)
 
 [Extended Data](ext_articles/108cef3a.ext.json)
-
----
-
-### President to Parliament
-
-*2024-12-18 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204484) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake arrives at Parliament. He's visiting India for a 3-day trip, landing last night.
-
-🟩
-
-President Anura Kumara Dissanayake arrived at the Parliament complex shortly before.
-
-The President arrived in the island last night, the President joined the three-day official visit to India.
-
-◼️
-
-[Data](articles/1e2e8dbd.json)
-
-[Extended Data](ext_articles/1e2e8dbd.ext.json)
-
----
-
-### Supreme Court order on CID about scholarship issues
-
-*2024-12-18 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204483) · `si`
-
-Supreme Court orders CID to investigate Year 5 scholarship exam first question paper issues.
-
-🟩
-
-The Supreme Court today ordered the CID today to file a detailed report on the first question paper of the Year 5 scholarship examination.
-
-◼️
-
-[Data](articles/39943217.json)
-
-[Extended Data](ext_articles/39943217.ext.json)
 
 ---

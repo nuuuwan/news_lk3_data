@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 03:42:54**
+As of **2024-12-19 04:15:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,777 (99.8%) of 60,907 articles have been extended.
+60,780 (99.8%) of 60,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ He stated that his appreciation extends to China’s assistance in the debt rest
 
 [Data](articles/485acb7c.json)
 
+[Extended Data](ext_articles/485acb7c.ext.json)
+
 ---
 
 ### Sri Lanka imports 16,000 tons  of rice so far to address shortage
@@ -70,6 +72,8 @@ On 7 December, President Anura Kumara Dissanayake announced a new MRP and wholes
 
 [Data](articles/710d3ff6.json)
 
+[Extended Data](ext_articles/710d3ff6.ext.json)
+
 ---
 
 ### St. Benedict’s urges funding for STEM Centre to empower futures
@@ -83,6 +87,8 @@ STEM education is central to 21st century learning as it integrates the areas of
 ...
 
 [Data](articles/ac30f112.json)
+
+[Extended Data](ext_articles/ac30f112.ext.json)
 
 ---
 

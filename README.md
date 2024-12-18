@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 03:26:51**
+As of **2024-12-19 02:43:10**
 
 ## Newspaper Stats
 
-*Scraped **60,901** Articles*
+*Scraped **60,893** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
-colombotelegraphcom | 619
+colombotelegraphcom | 618
 bbccomsinhala | 639
 islandlk | 3,680
 economynextcom | 3,711
-dailyftlk | 4,208
+dailyftlk | 4,201
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
@@ -26,123 +26,11 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,774 (99.8%) of 60,901 articles have been extended.
+60,771 (99.8%) of 60,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
-
-### Sundararaj appointed to LOLC Holdings, Brown and Co., Boards
-
-*2024-12-19 03:13:40* · [`dailyftlk`](https://www.ft.lk/business/Sundararaj-appointed-to-LOLC-Holdings-Brown-and-Co-Boards/34-770715) · `en`
-
-K. Sundararaj has been appointed to the Boards of LOLC Holdings PLC and Brown and Company PLC as an Independent Non-Executive Director with effect from 1 January 2025.
-
-Sundararaj counts over 29 years’ experience in accounting, auditing, and tax consulting. He started his career as a Chartered Accountant in 1998 and is currently serving as the Tax Partner in Amerasekera & Co, Chartered Accountants.
-
-Sundararaj is a Fellow Member of the Institute of Chartered Accountants of Sri Lanka and holds a Master of Business Administration in Finance from the University of Colombo.
-
-◼️
-
-[Data](articles/0581cda3.json)
-
----
-
-### Musings on Budget: Insider perspectives with Murtaza Jafferjee today
-
-*2024-12-19 03:11:40* · [`dailyftlk`](https://www.ft.lk/business/Musings-on-Budget-Insider-perspectives-with-Murtaza-Jafferjee-today/34-770714) · `en`
-
-The Advocata Institute invites the public to join an enlightening and engaging Zoom webinar featuring Advocata Institute Chair Murtaza Jafferjee.
-
-He will offer crucial insights into economic policy and fiscal strategy, going live on 19 December, starting at 5:30 p.m.
-
-This event promises to deconstruct prevalent fiscal misconceptions and shed light on fundamental economic concepts. It is designed for professionals and enthusiasts alike who are looking to enhance their understanding of complex economic frameworks and policies.
-
-The webinar will cover integral components of the national Budget, such as the balance of payments, intricacies of tax policy, economic impacts of sectoral taxes, and VAT exemptions and strategic thresholds.
-
-Those interested in the webinar can join the live event on Zoom by registering at the link below:
-
-◼️
-
-[Data](articles/80937d2e.json)
-
----
-
-### CA Sri Lanka unveils “Legacy Lane” history wall to celebrate 65th anniversary
-
-*2024-12-19 03:10:03* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-unveils-Legacy-Lane-history-wall-to-celebrate-65th-anniversary/34-770713) · `en`
-
-CA Sri Lanka Legacy Lane being declared open by President Heshana Kuruppu, Vice President Tishan Subasinghe, Immediate Past President Sanjaya Bandara
-
-The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) has marked its 65th anniversary with the unveiling of a history wall, aptly named “Legacy Lane,” as a tribute to its illustrious journey since its establishment in 1959.
-
-Officially launched on 13 December 2024 by CA Sri Lanka President Heshana Kuruppu and Vice President Tishan Subasinghe, in the presence of members of the council and staff, the “Legacy Lane” offers a nostalgic glimpse into CA Sri Lanka’s remarkable past since its establishment by an Act of Parliament in 1959.
-
-The 65th anniversary celebrations began on the morning of 13 December with a multi-religious observance, bringing together blessings from all faiths. This was followed by the launch of the Legacy Lane history wall and concluded with an all-night pirith ceremony on 14 December.
-
-...
-
-[Data](articles/e6682275.json)
-
----
-
-### Childhood bullying and economic impact
-
-*2024-12-19 02:47:41* · [`dailyftlk`](https://www.ft.lk/opinion/Childhood-bullying-and-economic-impact/14-770709) · `en`
-
-Scars from bullying in schools are permanent, some are on medications, and it has led to a very poor quality of life
-
-Bullying is when someone repeatedly and on purpose hurts someone else who is usually weaker than them. As a society we have repeatedly pointed fingers at the political class for their poor behaviour. Recent election results suggest we decided to do something about it. Few have had the courage to look at a more sinister problem staring them straight in the face. Most people either have first-hand experience or witnessed bullying during their time in school and have chosen to ignore or supress those memories.
-
-...
-
-[Data](articles/51443109.json)
-
-[Extended Data](ext_articles/51443109.ext.json)
-
----
-
-### Children first: Proposal for protection and promotion of child rights submitted to President
-
-*2024-12-19 02:40:32* · [`dailyftlk`](https://www.ft.lk/opinion/Children-first-Proposal-for-protection-and-promotion-of-child-rights-submitted-to-President/14-770708) · `en`
-
-Child protection has become a national crisis in our paradise island
-
-Stop Child Cruelty Trust (SCCT) and Child Protection Alliance (CPA) comprising 13 credible organisations committed to protect and promote the rights of children have appealed to President Anura Kumara Dissanayake and the newly elected Government of Sri Lanka (GOSL) to elevate child welfare to the heart of national governance ushering a new dawn firmly focusing on the true beneficiaries of the future, our children first.
-
-The ‘Summary proposal for the protection and promotion of child rights – A dawn of a new era’ highlights that citizens under the age of 18 years constitute 25% of Sri Lanka’s population. Although Sri Lanka ratified the UN Convention of the Rights of the Child (UNCRC) in 1991, child protection has become a national crisis in our paradise island. The proposal defines the objectives that GOSL should focus on as short-term (0-6 months), medium-term (6 months-2 years) and long-term (2-4 years).
-
-...
-
-[Data](articles/1a6e2fb9.json)
-
-[Extended Data](ext_articles/1a6e2fb9.ext.json)
-
----
-
-### “Shifting the Tides”: CSAS focuses on teenage mental health
-
-*2024-12-19 02:38:26* · [`dailyftlk`](https://www.ft.lk/opinion/Shifting-the-Tides-CSAS-focuses-on-teenage-mental-health/14-770707) · `en`
-
-Colombo School of Arts and Sciences (CSAS) recently concluded a panel discussion and a parental workshop on teenage mental health. With the growing concerns surrounding teenage mental health, CSAS took the initiative to organise both a panel discussion and workshop for parents of teenagers, to educate them on the challenges faced by their children.
-
-...
-
-[Data](articles/659a2b20.json)
-
----
-
-### Sharing empathy with children this festive season
-
-*2024-12-19 02:34:37* · [`dailyftlk`](https://www.ft.lk/opinion/Sharing-empathy-with-children-this-festive-season/14-770706) · `en`
-
-The Christmas season is a special time filled with joy, excitement, and giving. However, this year, the festive season occurs during a period of global complexity, including the cost-of-living crisis and the absence of peace in many regions. Parents might use this time to teach children about empathy and kindness as an alternative approach to the joy of giving. It is meaningful to remind younger individuals that giving takes many forms—kindness, listening, perspective, and joy. While many children eagerly await gifts from the North Pole, it is important for them to recognise that the season encompasses much more than wrapped presents.
-
-...
-
-[Data](articles/9ffb2c81.json)
-
----
 
 ### Gazette Issue in connection with vehicle import
 
@@ -558,20 +446,6 @@ Accordingly, since the restrictions on rice imports were lifted on December 04, 
 
 ---
 
-### Can Philanthropy Bridge The Digital Disparities For Students In Rural Sri Lanka?
-
-*2024-12-18 21:29:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-philanthropy-bridge-the-digital-disparities-for-students-in-rural-sri-lanka/) · `en`
-
-Philanthropy embodies the spirit of giving and community support, particularly in underserved regions. A remarkable example of this is the recent donation of a Hybrid Valmark Technology Center in a remote village in Kalutara, Sri Lanka, by David Rosell and the Valmark Corporation. This initiative has brought together modern technological resources, including a smart board and five computers to Presidents School (Agamethi Vidyalaya-Panapitiya, Kalutarao). The center hopes the technology will be instrumental in connecting students from President’s College to the broader global community.
-
-The inauguration ceremony, attended by David Rosell, his daughter Sophie Rosell and Heather Ewing. David Rosell, a celebrated author hails from Bend Oregon, USA. Five years ago, he visited Sri Lanka with his daughter Sophie and was, “Captivated  by the beauty and warmth of this extraordinary country,” he said.
-
-...
-
-[Data](articles/8ecb8156.json)
-
----
-
 ### Palma, Yogets will be eliminated
 
 *2024-12-18 21:14:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-யோகட்களின்-வற்-வரி-நீக்கப்படும்/175-348921) · `ta`
@@ -799,8 +673,6 @@ Herath pointed out the compounding challenges Sri Lanka faced due to these crise
 ...
 
 [Data](articles/e2865109.json)
-
-[Extended Data](ext_articles/e2865109.ext.json)
 
 ---
 
@@ -2417,5 +2289,189 @@ The court has ordered the Criminal Investigation Department to submit a detailed
 [Data](articles/813af869.json)
 
 [Extended Data](ext_articles/813af869.ext.json)
+
+---
+
+### Grade 5 Examination Affairs; order of the High Court
+
+*2024-12-18 12:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-5-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றத்தின்-உத்தரவு/175-348902) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+CID ordered to investigate 2024 Grade 05 Scholarship Exam leak. Court demands detailed report by Dec 19, 9 AM.
+
+🟩
+
+The Criminal Investigation Department (CID) has ordered the Criminal Investigation Department (CID) to submit a detailed report on investigations into the leak of the 2024 Grade 05 Scholarship Examination.
+
+The court has ordered the Criminal Investigation Department to submit a detailed report on the investigation tomorrow (December 19) by 09.00 am.
+
+◼️
+
+[Data](articles/f06af9e3.json)
+
+[Extended Data](ext_articles/f06af9e3.ext.json)
+
+---
+
+### Postponement plan to relocate presidential palace
+
+*2024-12-18 12:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாளிகையை-இடமாற்றும்-திட்டம்-ஒத்திவைப்பு/175-348901) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New government delays relocating presidential palace. Previous plan was to move to Sri Jayawardenapura Fort. Current status uncertain. Old government intended to develop current buildings for tourism. New government focuses on other projects like postal building in Nuwara Eliya.
+
+🟩
+
+The new government led by the National People's Power is reportedly launching a plan to transfer the President's House, the Allaimalai, the Prime Minister's Office and the Presidential Secretariat to Sri Jayawardenapura Fort.
+
+The last government has planned to relocate these offices and thereby develop their current buildings for tourism as traditional buildings in Colombo.. The last government was planning to allocate funds to implement the project in the 2025 budget.
+
+However, a top official of the Ministry of Urban Development said that the project has been left by the current government and has not yet taken a final decision on the alternative plan for using them.
+
+...
+
+[Data](articles/edb78f47.json)
+
+[Extended Data](ext_articles/edb78f47.ext.json)
+
+---
+
+### Remember, our government is in 2028 - President
+
+*2024-12-18 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204486) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+In 2028, President Anura Kumara Dissanayake aims to boost foreign reserves to $15.1 billion. He vows to prevent economic collapse, emphasizing stability and growth.
+
+🟩
+
+President Anura Kumara Dissanayake says that by the government's intent to increase the foreign reserves to US $ 15.1 billion.
+
+The President made a special statement from the parliamentary coalition, said that 2028 would last year.
+
+He strongly stated that the country will never again have to be resurrected in the country.
+
+◼️
+
+[Data](articles/7b6f1846.json)
+
+[Extended Data](ext_articles/7b6f1846.ext.json)
+
+---
+
+### Sajith says he is ready to resign
+
+*2024-12-18 11:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதவி-விலகத்-தயார்-என்கிறார்-சஜித்/175-348899) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Opposition Leader Sajith Premadasa addresses Parliament about his degrees. He claims all submitted documents are true. If there's a mistake, he questions why it matters given his position. He states readiness to leave politics, mentioning his birth certificate as evidence.
+
+🟩
+
+Opposition Leader Sajith Premadasa has been addressing the documents in Parliament regarding his degrees and his degrees.
+
+All the documents he submits are true. If there is a mistake in it, why is it from the post of MP and the Leader of the Opposition?He said he was ready to quit politics.
+
+I also took my birth certificate. I thought that someone would ask the question.
+
+◼️
+
+[Data](articles/8ebe2cb4.json)
+
+[Extended Data](ext_articles/8ebe2cb4.ext.json)
+
+---
+
+### President participates in parliamentary proceedings
+
+*2024-12-18 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104328/president-participates-in-parliamentary-proceedings) · `en`
+
+President Anura Kumara Dissanayake arrived in Parliament a short while ago and is currently taking part in the ongoing parliamentary proceedings, said Ada Derana reporter.
+
+The President, who had been on a three-day official visit to India, had only returned to the island last night (17).
+
+President Dissanayake is currently delivering a special statement in the House regarding Sri Lanka’s IMF agreement and the present economic situation in the country.
+
+◼️
+
+[Data](articles/6f58cdd8.json)
+
+[Extended Data](ext_articles/6f58cdd8.ext.json)
+
+---
+
+### Sajith offers educational qualifications
+
+*2024-12-18 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204485) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sajith Premadasa presents educational qualifications to Parliament. Opposition leader showcases academic achievements during session on 18th day.
+
+🟩
+
+Opposition Leader Sajith Premadasa presented his educational qualifications to parliament today (18).
+
+◼️
+
+[Data](articles/82ccc1be.json)
+
+[Extended Data](ext_articles/82ccc1be.ext.json)
+
+---
+
+### The President came to Parliament
+
+*2024-12-18 11:43:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-வந்தார்-ஜனாதிபதி/175-348897) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President Anuragumara Dissanayake returns from India, arrives at Parliament shortly after landing."
+
+🟩
+
+President Anuragumara Dissanayake, who returned to the country this morning after completing his visit to India, arrived in Parliament shortly before.
+
+◼️
+
+[Data](articles/522618d7.json)
+
+[Extended Data](ext_articles/522618d7.ext.json)
+
+---
+
+### Grade 5 Exam paper leak: CID ordered to submit report tomorrow
+
+*2024-12-18 11:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104327/grade-5-exam-paper-leak-cid-ordered-to-submit-report-tomorrow) · `en`
+
+The Supreme Court has directed the Criminal Investigation Department (CID) to submit a comprehensive report on the ongoing investigation into the leaking of three questions from the first question paper of the recent Grade 5 Scholarship Examination.
+
+The court instructed the CID to submit the detailed report by 9.00 a.m. tomorrow (19).
+
+The directive was issued during a hearing this morning, where four fundamental rights petitions, filed by a group of students who sat for the examination and their parents, seeking an order to re-conduct the examination due to the early release of the questions, were taken up today.
+
+A bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arjuna Obeysekera issued the order and began deliberations on the matter. The hearing of the petitions is set to continue today.
+
+...
+
+[Data](articles/b8f4666e.json)
+
+[Extended Data](ext_articles/b8f4666e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-18 15:02:04**
+As of **2024-12-18 15:43:20**
 
 ## Newspaper Stats
 
-*Scraped **60,820** Articles*
+*Scraped **60,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,680
 economynextcom | 3,703
 dailyftlk | 4,198
 dailymirrorlk | 4,733
-adalk | 5,795
+adalk | 5,796
 adaderanalk | 7,418
-tamilmirrorlk | 8,694
+tamilmirrorlk | 8,695
 virakesarilk | 10,020
 adaderanasinhalalk | 10,508
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,699 (99.8%) of 60,820 articles have been extended.
+60,706 (99.8%) of 60,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-18 (Wednesday)
+
+### ரம்புக்வெல்லவின் வங்கிக் கணக்குகள் இடைநிறுத்தம்
+
+*2024-12-18 15:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரம்புக்வெல்லவின்-வங்கிக்-கணக்குகள்-இடைநிறுத்தம்/175-348910) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் சுமார் 20 மில்லியன் ரூபாய் சேமிப்புடனான நடப்புக் கணக்கு மற்றும் நிலையான வைப்புக் கணக்கு, இலஞ்சம் அல்லது ஊழல் குற்றச்சாட்டுகளை விசாரணை செய்யும் ஆணைக்குழுவால் இடைநிறுத்தப்பட்டுள்ளது.
+
+ஊழல் தடுப்புச் சட்டத்தின் கீழ் விசாரணைகள் தொடர்பாக இரண்டு கணக்குகளும் ஏழு நாட்களுக்கு இடைநிறுத்தப்பட்டுள்ளதாகவும், நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் இடைநிறுத்தம் நீடிக்கப்படும் என்று எதிர்பார்க்கப்படுவதாகவும் ஆணையம் தெரிவித்துள்ளது.
+
+இதற்கு முன்னர், ரம்புக்வெல்ல, அவரது மனைவி மற்றும் ஏனைய உறவினர்களுக்குச் சொந்தமான பல சொத்துக்கள் தொடர் விசாரணைகளின் ஒரு பகுதியாக முடக்கப்பட்டன.
+
+ஜூலை 5, 2024 அன்று, ரம்புக்வெல்லவின் மனைவி, மூன்று மகள்கள் மற்றும் ஒரு மருமகன் ஆகியோரின் பெயரில் இருந்த 97.125 மில்லியன் ரூபாய் பெறுமதிமிக்க தனியார் வங்கி சேமிப்புகள் , ஆயுள் காப்புறுதிக் கொள்கைகள் நிலையான வைப்பு மற்றும் காப்பீட்டுக் கொள்கைகளை கொழும்பு மேல் நீதிமன்றம் மூன்று மாதங்களுக்கு இடைநிறுத்த உத்தரவு பிறப்பித்தது.
+
+◼️
+
+[Data](articles/cc236240.json)
+
+---
 
 ### Detention Tax up to 10 percent
 
@@ -121,6 +139,30 @@ President Anura Dissanayake said in Parliament today (18)
 [Data](articles/e0db067b.json)
 
 [Extended Data](ext_articles/e0db067b.ext.json)
+
+---
+
+### No agreement betrayed the country
+
+*2024-12-18 13:24:29* · [`adalk`](https://www.ada.lk/breaking_news/රට-පාවාදෙන-කිසිදු-ගිවිසුමක්-අත්සන්-කරලා-නෑ/11-413713) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"No agreement has compromised national interests," stated Minister Vijitha Herath. The current government maintains transparency in all diplomatic deals, ensuring no harmful pacts were made without public knowledge or consent.
+
+🟩
+
+Minister of External Affairs and Tourism Vijitha Herath said that the present government has not signed any agreement that betrayed the country.
+
+He was speaking at a statement today (18).
+
+◼️
+
+[Data](articles/70553e5e.json)
+
+[Extended Data](ext_articles/70553e5e.ext.json)
 
 ---
 
@@ -382,27 +424,41 @@ The country’s Christian community had shrunk dramatically, having been targete
 
 [Data](articles/1c6ccc00.json)
 
+[Extended Data](ext_articles/1c6ccc00.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் சுற்றிவளைப்பு ; போதைப்பொருட்களுடன் நால்வர் கைது!
+### Circumstance across the country;Four arrested with drugs
 
 *2024-12-18 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201560) · `ta`
 
-நாடளாவிய ரீதியில் பொலிஸாரினால் நேற்று செவ்வாய்க்கிழமை (17) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஹெரோயின் மற்றும் ஐஸ் போதைப்பொருட்களுடன்  சந்தேகநபர் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-மஹரகம பொலிஸ் பிரிவுக்குட்பட்ட ரயில்வே  நிலைய வீதி - நுகேகொட பகுதியில் 05 கிராம் 900 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் வைத்திருந்த சந்தேக நபர் ஒருவர் கைது  செய்யப்பட்டுள்ளார்.
 
-இதேவேளை, பேலியகொடை பொலிஸ் பிரிவுக்குட்பட்ட துடுகெமுனு மாவத்தை மற்றும் திப்பிட்டிகொட பகுதியில் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
 
-கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து 11 கிராம் 800 மில்லிகிராம்  ஐஸ் போதைப்பொருள் மற்றும் 10 கிராம் 300 மில்லிகிராம் ஹெராயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளனர்.
+"4 arrests made nationwide: heroin & ice seized. Suspects aged 31&32 from Peliyagoda & Kelaniya. Further investigations ongoing."
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 31 மற்றும் 32 வயதுடைய பேலியகொட மற்றும் களனி பகுதிகளை சேர்ந்தவர்களாவர்.
+🟩
 
-அத்தோடு, கம்பஹா பொலிஸ் பிரிவுக்குட்பட்ட உடுகம்பலை சந்தியில் 11 கிராம் 300 மில்லிகிராம் ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+Four suspects have been arrested with heroin and ice drugs in a roundabout carried out by police nationwide on Tuesday (17).
 
-...
+A suspect has been arrested for possessing 05 grams of 900 milligrams of heroin in the Railway Station Road - Nugegoda, which belongs to the Maharagama Police Division.
+
+Meanwhile, two suspects have been arrested in the Paliyagoda Police Division, Tudukamunu Mawatha and Tipitikoda area.
+
+The arrested suspects have seized 11 grams of 800 milligrams of ice and 10 grams of 300 milligrams of heroin.
+
+The arrested suspects are from Peliyagoda and Kelaniya, aged 31 and 32.
+
+In addition, a suspect has been arrested for possessing 11 grams of 300 milligrams of ice at Udugampalai junction under the Gampaha Police Division.
+
+In addition, the police have said that further investigations are being carried out in connection with the suspects involved in the incident.
+
+◼️
 
 [Data](articles/e07f55e4.json)
+
+[Extended Data](ext_articles/e07f55e4.ext.json)
 
 ---
 
@@ -423,6 +479,8 @@ Delivering a special statement in Parliament today (18), the Head of State infor
 ...
 
 [Data](articles/03271055.json)
+
+[Extended Data](ext_articles/03271055.ext.json)
 
 ---
 
@@ -485,6 +543,8 @@ The President also expressed his strong confidence that the situation that exist
 ◼️
 
 [Data](articles/47ae0d1f.json)
+
+[Extended Data](ext_articles/47ae0d1f.ext.json)
 
 ---
 
@@ -656,6 +716,8 @@ President Dissanayake is currently delivering a special statement in the House r
 
 [Data](articles/6f58cdd8.json)
 
+[Extended Data](ext_articles/6f58cdd8.ext.json)
+
 ---
 
 ### Sajith offers educational qualifications
@@ -717,6 +779,8 @@ A bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arju
 ...
 
 [Data](articles/b8f4666e.json)
+
+[Extended Data](ext_articles/b8f4666e.ext.json)
 
 ---
 
@@ -2187,35 +2251,5 @@ Thyaga offers effortless gifting for personal and corporate needs. Over 300 top 
 ...
 
 [Data](articles/ddcfc655.json)
-
----
-
-### Share trading ends higher with healthy turnover levels
-
-*2024-12-17 23:03:00* · [`islandlk`](http://island.lk/share-trading-ends-higher-with-healthy-turnover-levels/) · `en`
-
-The Colombo Stock Exchange (CSE) yesterday witnessed some selling pressure after recording 16 consecutive sessions in an upward trend as the trading shifted to profit takings by investors, market analysts said.
-
-Amid those developments both indices moved upwards. All Share Price Index up by 16 points while S and P SL20 up by 31.3 points. Turnover stood at Rs 6.3 billion with tree crossings. Those crossings were reported in Commercial Bank, which crossed 2.7 million shares to the tune of Rs 375 million and its share price traded at Rs 137, Aitken Spence 75000 shares crossed to the tune of Rs 105 million and its share price traded at Rs 140, and JKH four million shares crossed to the tune of Rs 89 million and its share price traded at Rs 22.40.
-
-...
-
-[Data](articles/24002fd2.json)
-
----
-
-### Union Bank rings in the season with Christmas Carols
-
-*2024-12-17 23:01:00* · [`islandlk`](http://island.lk/union-bank-rings-in-the-season-with-christmas-carols/) · `en`
-
-Ushering in the festive season Union Bank held its annual Christmas Carols at the St Andrew’s Scots Kirk church. The festive evening brought the Union Bank staff and their families together for a joyous occasion of fellowship and a cheerful rendition of carols.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/1b96097a.json)
 
 ---

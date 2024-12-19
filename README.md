@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 10:43:21**
+As of **2024-12-19 11:27:24**
 
 ## Newspaper Stats
 
-*Scraped **60,941** Articles*
+*Scraped **60,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,257 @@ islandlk | 3,689
 economynextcom | 3,711
 dailyftlk | 4,217
 dailymirrorlk | 4,733
-adalk | 5,812
-adaderanalk | 7,429
-tamilmirrorlk | 8,709
-virakesarilk | 10,039
-adaderanasinhalalk | 10,525
+adalk | 5,813
+adaderanalk | 7,433
+tamilmirrorlk | 8,712
+virakesarilk | 10,042
+adaderanasinhalalk | 10,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,805 (99.8%) of 60,941 articles have been extended.
+60,810 (99.8%) of 60,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Carrom board case, against Mahindananda and Nalin Fernando, postponed
+
+*2024-12-19 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204513) · `si`
+
+Carrom board case against Mahindananda Aluthgamage and Nalin Fernando postponed. Bribery Commission hearing rescheduled for January 22. Judge orders lawyers to submit written arguments. Nalin Fernando granted leave to travel abroad from January 10-16. Immigration authorities notified.
+
+🟩
+
+Former Sports Minister Mahindananda Aluthgamage and former Minister of Sports Mahindananda Aluthgamage and former Trade Minister Nalin Fernando alleged that Sathosa was imported at the 2015 presidential election.The case has been recalled before the Bribery Commission of Colombo today (19), the Bribery Commission of Colombo today.
+
+The case was called before Pradeep Hettiarachchi, Pradeep Hettiarachchi, Pradeep Abeyratne and Mahein Weeraman.
+
+Accordingly, the Judge Madulla ordered the lawyers to submit written and verbal lectures related to the case on January 22.
+
+The judge panel Nalin Fernando, who accepted a request made by lawyers, was able to go abroad from 10th to 16th January to 16th.
+
+The order was also referred to to the Controller of Immigration and Emigration.
+
+◼️
+
+[Data](articles/7a3ec656.json)
+
+[Extended Data](ext_articles/7a3ec656.ext.json)
+
+---
+
+### Warrior
+
+*2024-12-19 10:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரருக்கு-பிடியாணை/175-348946) · `ta`
+
+Colombo Magistrate's Court orders arrest of Galagoda Ate Gnanasara Thera for religious contempt case. Case verdict adjourned to January 9 due to defendant's absence citing illness.
+
+🟩
+
+The Colombo Magistrate's Court has ordered the arrest of the Galagoda Ate Gnanasara Thera, who was referred to as the defendant in the case of religious contempt, and the arrest of him for not appearing in court today (19).
+
+The verdict of the case was to be announced today (19), and Gnanasara Thera did not appear in court.
+
+The lawyer appearing on behalf of Gnanasara Thera told the court that he could not appear in court because he was ill.
+
+Colombo Additional Magistrate Basan Amarasena adjourned the verdict of the case to January 9.
+
+◼️
+
+[Data](articles/7923f6cb.json)
+
+[Extended Data](ext_articles/7923f6cb.ext.json)
+
+---
+
+### Archana filed a defamation case
+
+*2024-12-19 10:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனா-மீது-அவதூறு-வழக்குத்-தாக்கல்/175-348945) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dr. Sathiyamoorthy sues Archana for defamation over comments about him. Case heard in Jaffna court. Archana claims innocence, seeks protection from slander charges. Judge issues interim injunction against Archana. Next hearing scheduled for 30th.
+
+🟩
+
+The Director of the Jaffna Bodhana Hospital, Dr. Sathiyamoorthy, filed a defamation case against Archana Archana on Wednesday (18).
+
+Additional District Judge A. Anandarajah was summoned in the Jaffna Mawatha Court on the issue of the case.
+
+Attorney -at -Law Dr. Quruparan was arranged on behalf of the prosecutor.
+
+When the medical expert was in the detention of Satyamoorthy, he was in the process of his detention of the opponent, Ramanathan Asaruna, and on 09.12.The petition has been indicted and sued for defamation through the video.
+
+It was also stated in the House that Ramanathan Archana, who is against the medical expert Satyamoorthy, will continue to express his contribution to his dignity and Keerthi.
+
+A long submission was presented in the court of the court, pointing out the law and the judgments issued by the courts regarding the fact that he had no truth in the comments that he had claimed to have no truth.
+
+...
+
+[Data](articles/a4fe7cd6.json)
+
+[Extended Data](ext_articles/a4fe7cd6.ext.json)
+
+---
+
+### ඥානසාර හිමිට වරෙන්තු
+
+*2024-12-19 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204512) · `si`
+
+ඉස්ලාම් දහමට අපහාස කළේ යැයි ගොනුකර ඇති නඩුවක විත්තිකරුවකු ලෙස නම්කර සිටින බොදුබල සේනා සංවිධානයේ ලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් එම නඩුව කැඳවූ අවස්ථාවේ අද (19) අධිකරණයේ පෙනී නොසිටීම හේතුවෙන් උන්වහන්සේ අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කළේය.
+
+මෙම නඩුවේ තීන්දුව අද (19) දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණි.
+
+එහෙත් නඩුව කැඳවූ අවස්ථාවේදී ඥානසාර හිමියන් අධිකරණයේ පෙනී සිටියේ නැත.
+
+ඥානසාර හිමියන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට කරුණු දක්වමින් තමා සේවාදායක හිමියන් අසනීප තත්ත්වයෙන් පසුවන නිසා අධිකරණයට පැමිණීමට නොහැකි වූ බව සඳහන් කළේය.
+
+ඉදිරිපත් වූ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා නඩු තීන්දුව ප්‍රකාශ කිරීම ජනවාරි මස 09 වනදා තෙක් කල් තැබීය.
+
+ඒ අනුව ඥානසාර හිමියන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+◼️
+
+[Data](articles/a2feb5ac.json)
+
+---
+
+### Sri Lankan jailed for 37 years for killing wife with axe in front of teenage children
+
+*2024-12-19 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104348/sri-lankan-jailed-for-37-years-for-killing-wife-with-axe-in-front-of-teenage-children) · `en`
+
+A killer has been jailed for 37 years for murdering his wife with an axe in front of their teenage children, in what a judge has described as a brutal and horrific attack.
+
+Dinush Kurera, 47, blinked and looked straight ahead as Victorian Supreme Court Justice Amanda Fox handed down his sentence today.
+
+Kurera claimed he was acting in self-defence when he repeatedly stabbed his wife Nelomie Perera with an axe and knife at her Melbourne home on December 3, 2022.
+
+But a jury rejected his story and in August found him guilty of murder after only three hours of deliberations.
+
+Justice Fox described the fatal attack as brutal and horrific, saying Kurera had clearly been in a rage.
+
+“You were motivated by anger and saw everything of the prism of entitlement and ownership,” she said in her sentence.
+
+“In your mind, Nelomie deserved to be killed for leaving you, excluding you from your house and seeing other men.”
+
+...
+
+[Data](articles/d1be5a97.json)
+
+---
+
+### கொட்டகலையில் இடம்பெற்ற ரயில் விபத்தில் குடும்பஸ்தர் உயிரிழப்பு !
+
+*2024-12-19 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201621) · `ta`
+
+திம்புள்ள – பத்தனை பொலிஸ் பிரிவிற்குட்பட்ட கொட்டகலை பகுதியில் ரயிலில் மோதி குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவம் இன்றைய தினம் வியாழக்கிழமை  (19) அதிகாலை இடம்பெற்றிருக்கலாம் என பொலிஸார் தெரிவித்தனர்.
+
+கொட்டகலை ரயில் நிலையத்திற்கு அருகாமையில் கொழும்பில் இருந்து பதுளை நோக்கி சென்று கொண்டிருந்த இரவு நேர ரயிலில் மோதுண்டே குறித்த நபர் உயிரிழந்துள்ளார் என தெரிவிக்கப்படுகின்றது.
+
+உயிரிழந்தவர் கொட்டகலை கங்கைபுரத்தை சேர்ந்த  40 வயதுடைய ஒரு பிள்ளையின் தந்தை என பொலிஸாரால் அடையாளம் காணப்பட்டுள்ளார்.
+
+உயிரிழந்தவரின் சடலம் கொட்டகலை ரயில் நிலையத்தில் ஒப்படைக்கப்பட்டு வைத்திய பரிசோதனைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலைக்கு அனுப்புவதற்கான நடவடிக்கைகளை மேற்கொண்டுள்ளதாக ரயில்வே நிலையத்தின் அதிகாரியொருவர் தெரிவித்தார்.
+
+குறித்த நபர் தற்கொலை செய்து கொண்டாரா? அல்லது புகையிரதத்தில் மோதுண்டு இறந்தாரா? என்பது தொடர்பாக பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/4f18ffca.json)
+
+---
+
+### மின் கம்பத்தில் மோதி மோட்டார் சைக்கிள் விபத்து ; இளைஞன் பலி!
+
+*2024-12-19 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201622) · `ta`
+
+கடவத்தை பொலிஸ் பிரிவிற்கு உட்பட்ட கடவத்தை - மாவரமண்டிய வீதியில்  நேற்று புதன்கிழமை (18) மோட்டார் சைக்கிள் ஒன்று விபத்துக்குள்ளானதில் இளைஞன் ஒருவன் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+செலுத்துனரின் கட்டுப்பாட்டை இழந்த மோட்டார் சைக்கிள் ஒன்று வீதியை விட்டு விலகி அருகிலிருந்த மின் கம்பத்தில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தின் போது மோட்டார் சைக்கிளின் செலுத்துனரும் பின்புறத்தில் பயணித்த நபரும் படுகாயமடைந்துள்ள நிலையில் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்டபின்னர் மோட்டார் சைக்கிளின் செலுத்துனர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/6e0fdf20.json)
+
+---
+
+### The Funeral of Hindus in Borel will be modernized
+
+*2024-12-19 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201618) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo Municipal Council plans to modernize Hindu cremation facilities in Borella. Chief Medical Officer Keerthika Ratnawardena assures funding for improvements, including drainage construction. Project set to begin in February 2025.
+
+🟩
+
+Keerthika Ratnawardena, Chief Medical Officer of the Colombo Municipal Council, assured that the cremation of the bodies of the Hindu people in Porala, which is maintained by the Colombo Municipal Council, will be modernized and modernized.
+
+A recent report in the Weerakesari newspaper that the cremation area of ​​the Borella Kanatha, belonging to the Colombo Municipal Council, has been cremated.
+
+The Colombo Municipal Council, the former member of the Colombo Municipal Council, Chidambaram Pillai Lion Manoharan, has informed Keerthika Ratnawardena to the Colombo Municipal Council.
+
+...
+
+[Data](articles/7f69f84c.json)
+
+[Extended Data](ext_articles/7f69f84c.ext.json)
+
+---
+
+### තානායම තුළ දී පොලිස් කොස්තාපල්ට මාරාන්තික ප්‍රහාරයක්
+
+*2024-12-19 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204511) · `si`
+
+හොරණ තානායම තුළ දී පුද්ගලයෙකු විසින් පොලිස් කොස්තාපල්වරයෙකුට හිස් මත්පැන් බෝතලයක් කඩා ප්‍රහාරයක් එල්ල කර තිබේ.
+
+අප වාර්තාකරු පැවසුවේ, අදාළ ප්‍රහාරයෙන් තුවාල ලැබු පොලිස් නිලධාරියා හොරණ දිස්ත්‍රික් රෝහලට ඇතුළත් කර බවය.
+
+මෙසේ තුවාල ලබා ඇත්තේ, මොරගහහේන පොලීසියට අනුයුක්තව රාජකාරියේ යෙදෙන පොලිස් කොස්තාපල්වරයෙකු බව පොලීසිය පැවසීය.
+
+ඊයේ (18) රාත්‍රියේ තුවාල ලැබූ පොලිස් කොස්තාපල්වරයා සේවය අවසන් වීමෙන් පසු හොරණ තානායම වෙත පැමිණ ඇති අතර ඔහු මත්පැන් ස්වල්පයක් පානය කරන විට එහි සිටි පුද්ගලයෙකු සමග බහින්බස්වීමත් සිදුව ඇත.
+
+ඉන් අනතුරුව පොලිස් සැරයන්වරයා එම ස්ථානයෙන් පිටවී යනවාත් සමග ම සැකකරු මෙම ප්‍රහාරය එල්ල කර තිබේ.
+
+ප්‍රහාරයෙන් පොලිස් කොස්තාපල්වරයාගේ මුහුණට, හිසට සහ එක් අතකට තුවාල සිදුව ඇත.
+
+සැකකරුව ඊයේ රාත්‍රියේම හොරණ පොලීසිය මඟින් අත්අඩංගුවට ගෙන ඇති අතර අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/853cf8b3.json)
+
+---
+
+### அரிசிக்கு தொடர்ந்தும் தட்டுப்பாடு
+
+*2024-12-19 09:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசிக்கு-தொடர்ந்தும்-தட்டுப்பாடு/175-348943) · `ta`
+
+அரிசிக்கான கட்டுப்பாட்டு விலை அமுல்படுத்தப்பட்டுள்ள போதிலும் சந்தையில் சில அரிசி வகைகளுக்குத் தொடர்ந்தும் தட்டுப்பாடு நிலவுவதாகத் தெரிவிக்கப்படுகிறது.
+
+அரிசி தட்டுப்பாட்டை நிவர்த்திப்பதற்காக அரசாங்கம் அரிசியை இறக்குமதி செய்வதற்கு நடவடிக்கை எடுத்துள்ள போதிலும் சந்தைக்கு இதுவரையில் உரிய முறையில் அரிசி கிடைப்பதில்லை என வர்த்தகர்கள் தெரிவிக்கின்றனர்.
+
+இலங்கையில் நாளாந்தம் 6,500 முதல் 6,600 மெற்றிக் டன் அரிசி மக்கள் பாவனைக்காக நுகரப்படுவதாகத் தெரிவிக்கப்படுகிறது.
+
+இந்தநிலையில் தட்டுப்பாட்டிற்குத் தீர்வாக நேற்று பிற்பகல் வரை சுமார் 16,000 மெற்றிக் டன் அரிசி இலங்கைக்கு இறக்குமதி செய்யப்பட்டுள்ளதாக சுங்க பேச்சாளர் சிவலி அருக்கொட தெரிவித்துள்ளார்.
+
+அதில் 6,000 மெற்றிக் டன் பச்சை அரிசியும், 10,000 மெற்றிக் டன் நாட்டு அரிசியும் அடங்குவதாக அவர் சுட்டிக்காட்டியுள்ளார். R
+
+◼️
+
+[Data](articles/54103e00.json)
+
+---
 
 ### Continue to shorten the rice
 
@@ -55,6 +291,20 @@ He pointed out that it includes 6,000 metric tonnes of green rice and 10,000 met
 [Data](articles/c6fed803.json)
 
 [Extended Data](ext_articles/c6fed803.ext.json)
+
+---
+
+### பேராதனையில் கிணற்றில் விழுந்து மூதாட்டி உயிரிழப்பு !
+
+*2024-12-19 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201620) · `ta`
+
+கண்டி,பேராதனை பொலிஸ் பிரிவுக்கு உட்பட்ட தொடம்வல, முருதலாவ பிரதேசத்தில் கிணற்றில் விழுந்து மூதாட்டி ஒருவர் உயிரிழந்துள்ளதாக பேராதனை பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தன்று, உயிரிழந்த மூதாட்டியின் மகள் மூதாட்டி வீட்டில் இல்லாதிருப்பதை அவதானித்து அவரை தேடும் பணியில் ஈடுபட்ட போது மூதாட்டி வீட்டின் அருகே உள்ள கிணற்றில் விழுந்து கிடப்பதை கண்டுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/e9b79b60.json)
 
 ---
 
@@ -132,37 +382,81 @@ He said that only a series of trials were found to be unable to save people from
 
 ---
 
-### பொரளையிலுள்ள இந்துக்களின் தகனசாலை நவீனமயப்படுத்தப்படும் : லயன் மனோகரனிடம் கொழும்பு மாநகர சபையின் பிரதான வைத்திய அதிகாரி உறுதி
+### Diplomatic steps to reclaim social security funds of Sri Lankan workers in Cyprus
 
-*2024-12-19 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201618) · `ta`
+*2024-12-19 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104347/diplomatic-steps-to-reclaim-social-security-funds-of-sri-lankan-workers-in-cyprus) · `en`
 
-கொழும்பு மாநகர சபையினால் பராமரிக்கப்படும் பொரளையில் உள்ள இந்து மக்களின் உடல்களை தகனம் செய்யும் தகனசாலையை மீள நிர்மாணித்து நவீனமயப்படுத்தப்படுமென கொழும்பு மாநகர சபையின் பிரதான வைத்திய அதிகாரி கீர்த்திகா ரட்ணவர்தன உறுதியளித்தார்.
+National People’s Power (NPP) Member of Parliament Lakshman Nipuna Arachchi has announced that diplomatic measures will be initiated to secure the release of social security funds owed to Sri Lankan workers employed in Cyprus.
 
-கொழும்பு மாநகர சபைக்கு சொந்தமான பொரளை கனத்தையிலுள்ள இந்து மக்களின் இறந்த உடல்களை தகனம் செய்யும் தகனசாலைப் பகுதி பராமரிப்பின்றி காணப்படுவதாக வீரகேசரி பத்திரிகையில் அண்மையில் செய்தியொன்று வெளியாகியிருந்தது.
+Speaking at a ceremony in Colombo, the MP highlighted that a significant issue has emerged, where Sri Lankan workers in Cyprus are unable to reclaim the social security contributions deducted from their salaries.
 
-கொழும்பு மாநகர சபையின் முன்னாள் உறுப்பினரான சிதம்பரம்பிள்ளை லயன் மனோகரன் குறித்த செய்தி தொடர்பில், கொழும்பு மாநகர சபையின் பிரதான வைத்திய அதிகாரி கீர்த்திகா ரட்ணவர்தனவுக்கு தெரியப்படுத்தியதுடன்  கலந்துரையாடலை மேற்கொண்டுள்ளார்.
+He assured that steps are being taken to address the matter and facilitate the return of these funds to Sri Lanka.
 
-...
+◼️
 
-[Data](articles/7f69f84c.json)
+[Data](articles/5bbce00b.json)
 
 ---
 
-### ஹம்பாந்தோட்டை முதலீட்டு வலயத்தில் சீன நிறுவனங்களை அமைத்து உலகளவில் இலங்கைக்கு சிறந்த பிரவேசத்தை ஏற்படுத்துவோம் - ஜனதிபதியிடம் சீன அதிகாரி கின் பொயோங் தெரிவிப்பு
+### Chinese officer Kin Poyong reports to the President of the Hambantota Investment Zone
 
 *2024-12-19 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201617) · `ta`
 
-ஹம்பாந்தோட்டை முதலீட்டு வலயத்தை அண்மித்து சீன நிறுவனங்களை அமைத்து உலக அளவில் இலங்கைக்கு மிகச் சிறந்ததொரு பிரவேசத்தை ஏற்படுத்தித் கொடுக்க எதிர்பார்த்திருப்பதாக சீன மக்கள் குடியரசின் அரசியல் ஆலோசனை சம்மேளன (CPPCC) தேசியக் குழுவின் உப தலைவர் கின் பொயோங்  ஜனாதிபதியிடம் தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-இதேவேளை, கடன் மறுசீரமைப்பு வேலைத்திட்டத்திற்கு ஒத்துழைப்பு வழங்கியமை மற்றும் பொருளாதார நெருக்கடிக்கு மத்தியில் இலங்கைக்கு கடன் பெற்றுக்கொடுத்தமைக்காக சீன அரசாங்கத்துக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க நன்றி தெரிவித்தார்.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் சீன மக்கள் குடியரசின் அரசியல் ஆலோசனைக் சம்மேளன (CPPCC) தேசியக் குழுவின் உப தலைவர் கின் பொயோங் (Qin Boyong) ஆகியோருக்கு இடையில் பாராளுமன்ற கட்டிடத் தொகுதியில் நேற்று புதன்கிழமை (18) நடைபெற்ற சந்திப்பின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
 
-சீனாவுக்கும் இலங்கைக்கும் இடையில் காணப்படும் நீண்டகால உறவுகளை மேலும் வலுப்படுத்தி, புதிய அரசாங்கத்துடன் தொடர்ந்தும் செயற்பட எதிர்பார்த்திருப்பதாகவும் கின் பொயோங் தெரிவித்தார்.
+Chinese VP Kin Poyong met Sri Lankan Pres. Dissanayake about Chinese firms in Hambantota. Pres. thanked China for economic aid & debt restructuring. Both discussed strengthening ties & completing projects like Central Expressway & Colombo Port City.
+
+🟩
+
+The Vice President of the National Committee of the People's Republic of China (CPPCC), Kin Poyong, told the president that the Chinese Republic of India (CPPCC) was looking to set up Chinese companies near the Hambantota Investment Zone
+
+Meanwhile, President Anura Kumara Dissanayake thanked the Chinese government for the cooperation of the debt restructuring program and the loan to Sri Lanka amid the economic crisis.
+
+The President made this statement during a meeting held at the Parliament building on Wednesday (18) between President Anura Kumara Dissanayake and the Vice President of the National Committee of the People's Republic of China (CPPCC).
+
+Kin Poyong said he was looking forward to strengthening the long -term relations between China and Sri Lanka and continues to work with the new government.
 
 ...
 
 [Data](articles/0de7154e.json)
+
+[Extended Data](ext_articles/0de7154e.ext.json)
+
+---
+
+### 2024 census completed, preliminary report within a month
+
+*2024-12-19 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104346/2024-census-completed-preliminary-report-within-a-month) · `en`
+
+The Department of Census and Statistics has completed the final phase of this year’s Population and Housing Census, with data collection focusing on homeless individuals conducted yesterday (18), between 10:00 p.m. and 12:00 midnight.
+
+Director General of the Department, Anoja Seneviratne, announced that the completion of this phase marks the conclusion of the 2024 census activities. However, the next five days will be allocated for updating and finalizing the collected data.
+
+The nationwide census, which began on October 7, aimed to gather comprehensive information on individuals and housing. The Department has urged households that have not been visited by census officers to report their situation by calling the hotline 1901.
+
+Seneviratne further confirmed that a preliminary report on the census findings will be released within a month following the conclusion of the data updating process.
+
+◼️
+
+[Data](articles/6d01a86c.json)
+
+---
+
+### Sri Lanka’s candidate elected to UNESCO’s Intangible Cultural Heritage Evaluation Body
+
+*2024-12-19 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104345/sri-lankas-candidate-elected-to-unescos-intangible-cultural-heritage-evaluation-body) · `en`
+
+Sri Lanka’s candidate, Dr. Bilinda Devage Nandadeva was elected as an expert to the prestigious Evaluation Body of UNESCO’s 2003 Convention for the Safeguarding of the Intangible Cultural Heritage (ICH) at the 19th Session of the ICH Committee Meeting held in Asunción, Paraguay.
+
+Dr. B. D. Nandadeva, a distinguished scholar with over forty years of experience in cultural heritage, will serve a four year term on the ICH Evaluation Body. He has extensive knowledge and experience in the work of the ICH Intergovernmental Committee and in the inscription process.
+
+The ICH Evaluation Body comprises twelve (12) members, including six (06) state-nominated experts and six (06) representatives of accredited non-governmental organizations, ensuring diverse geographic representation and expertise across various sectors.
+
+...
+
+[Data](articles/78e4cbb3.json)
 
 ---
 
@@ -1438,6 +1732,24 @@ The Department of Examination has also introduced telephone numbers and email ad
 
 ---
 
+### 2030දී 60ට වැඩි ජනතාව වැඩියෙන් සිටින රටවල් 05 අතරට ලංකාවත්
+
+*2024-12-18 19:14:52* · [`adalk`](https://www.ada.lk/breaking_news/2030දී-60ට-වැඩි-ජනතාව-වැඩියෙන්-සිටින-රටවල්-05-අතරට-ලංකාවත්/11-413731) · `si`
+
+වර්ෂ 2030 වන විට ලොව වයස 60ට වැඩි ජනතාව වැඩියෙන් සිටින රටවල් 05 අතරට ශ්‍රී ලංකාව පැමිණෙන බව සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේදී ඊයේ (18දා) පැවති මාධ්‍ය හමුවකදී අනාවරණය විය.
+
+ඒ අනුව මේ පිළිබඳ නව සෞඛ්‍ය අමාත්‍යවරයා අවධානය යොමු කොට ඊට අදාළව සෞඛ්‍ය අමාත්‍යාංශයේ කටයුතුද මෙහෙයවනු ඇතැයි විශ්වාස කරන බව මාධ්‍ය හමුවට සම්පත් දායකයන් ලෙස එක් වූ විශේෂඥ වෛද්‍යවරුන් ඇතුළු පිරිස ප්‍රකාශ කළහ.
+
+මේ අතර මෙහිදී අදහස් දක්වමින් ශ්‍රී ලංකා හදිසි ප්‍රතිකාර විශේෂඥ වෛද්‍යවරුන්ගේ සංගමයේ සභාපති, විශේෂඥ වෛද්‍ය ඉනුක ගුණවර්ධන මහතා සඳහන් කර සිටියේ ‘ඇදුම‘ අවදානම අතින් ලෝකයේ අවදානම්ම රටවල් 10 අතර ශ්‍රී ලංකාව සිටින බවයි. ඒ අනුව එය භයානක හා අවධානය යොමු විය යුතු තත්ත්වයක් වන බවද ඔහු අවධාරණය කළේය.
+
+‘ශ්‍රී ලංකාවේ හදිසි ප්‍රතිකාර සේවාවෙන් උපරිම ප්‍රයෝජන ගන්නේ කෙසේද? යන මැයෙන් මෙම මාධ්‍ය සාකච්ඡාව පැවැත්විණි.
+
+◼️
+
+[Data](articles/06d196fa.json)
+
+---
+
 ### සහල් ටොන් 16000ක් ආනයනය කරලා
 
 *2024-12-18 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ටොන්-16000ක්-ආනයනය-කරලා/11-413730) · `si`
@@ -1985,345 +2297,5 @@ One of the most pressing failures of President Anura Kumara Dissanayake’s gove
 ...
 
 [Data](articles/66e661b2.json)
-
----
-
-### Rs. Two Kehelda's accounts with money in two million dollars banned
-
-*2024-12-18 17:04:16* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-දෙකක-මුදල්-ඇති-කෙහෙළියගේ-ගිණුම්-දෙකක්-සතියකට-තහනම්/11-413720) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Bribery Commission bans two bank accounts holding $2M linked to ex-Health Minister Keheliya Rambukwella. Investigation ongoing for alleged corruption and drug trafficking.
-
-🟩
-
-The Bribery Commission has issued orders for a seven-day banking banks for a period of seven days of the name of former Health Minister Keheliya Rambukwella.
-
-The bribery orders have been issued to the two banks, the bribe of the bribes, which have been initiated by the Bribery Commission regarding the investigation of the Bribery Commission on the investigation of the Bribery Commission.
-
-Former Health Minister Keheliya Rambukgalla, a suspect, has been released on bail after the government has misled the Cabinet of Cabinet.
-
-The Criminal Investigations Department investigates substandard drug trafficking and Keheliya Rambukkal has been earned by the complaints received by the Bribery Act, according to the complaints received by the Bribery Act.
-
-...
-
-[Data](articles/a9010b4c.json)
-
-[Extended Data](ext_articles/a9010b4c.ext.json)
-
----
-
-### Practice the promises made on the president's visit without delay - Suresh Premachandran insists
-
-*2024-12-18 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201586) · `ta`
-
-Summarize:0
-
-🟩
-
-President Anura Kumara has made his first foreign visit to India, saying that the promises he made there should be implemented immediately.. Premachandran said.
-
-He said this while commenting on the two -sided talks and the joint press conferences held during the visit of Sri Lanka's President Anura Kumara Dissanayake.
-
-Sri Lanka's new President Anura Kumara Dissanayake has visited India as his first official foreign visit to India. The party, the Janatha Vimukthi Peramuna (JVP), which is a member of the president, has been the party's policy of anti -Indianism since the beginning.
-
-The Global Regional political environment has created its first official visit to India, which is now the ruler of the National People's Power.
-
-When the Indo-Sri Lanka Agreement was established in 1987, it included two strata. One of them is the solution to the problem of the Tamil people of Eelam. The second is that Sri Lanka should not be the place of any external forces that are the safety of India.
-
-...
-
-[Data](articles/1d482e56.json)
-
-[Extended Data](ext_articles/1d482e56.ext.json)
-
----
-
-### Bringing 16,000 MT of Rice
-
-*2024-12-18 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204495) · `si`
-
-Sri Lanka imports 16,000 MT of rice today. 6,000 MT regular rice, 10,000 MT enriched rice. Total rice imports since Dec 4: 16,000 MT.
-
-🟩
-
-The amount of rice has been imported to Sri Lanka today (18) at around 3:30 pm today, the amount of rice imported to Sri Lanka today (18).
-
-6,000 metrics are rice and the remaining 10,000 are riches.
-
-Customs Media Spokesperson Savi Arukgoda said the Additional Director General of the Customs Department, Customs Media Spokesman Savi Arukgoda.
-
-Since December 4, the removal of rice imposed on the importation of rice, 16,000 MT of rice have been taken so far.
-
-◼️
-
-[Data](articles/175d2055.json)
-
-[Extended Data](ext_articles/175d2055.ext.json)
-
----
-
-### Leopard's mundam recovery
-
-*2024-12-18 16:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிறுத்தையின்-முண்டம்-மீட்பு/76-348914) · `ta`
-
-Here's a summary of the incident in approximately 200 characters:
-
-
-
-Leopard found dead in Hatton forest. Head & four legs severed. 10-year-old leopard sent for autopsy. Incident reported to police & wildlife officials.
-
-🟩
-
-The incident took place on Wednesday (18), where a leopard was caught and killing a leopard's head and four legs.
-
-Hatton police have been informed by plantation workers that a leopard is found dead in the forest of the Bodice estate belonging to the Hatton Police Division.
-
-According to the Nallathani Wildlife Office, the leopard's head was cut off and four legs were cut when they rushed to the scene.
-
-The body of a 10 -year -old leopard has been produced before the Hatton Magistrate's Court and has been sent to the Randenigala Wildlife Veterinary Hospital for autopsy.
-
-◼️
-
-[Data](articles/a392ade9.json)
-
-[Extended Data](ext_articles/a392ade9.ext.json)
-
----
-
-### හිටපු ජනපති  නාමයෝජනා භාරදෙන දින සුභ පතන්න ගිය ඩිපෝ කළමණාකරු ඇතුළු හයකගේ වැඩ තහනම්
-
-*2024-12-18 16:57:22* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති--නාමයෝජනා-භාරදෙන-දින-සුභ-පතන්න-ගිය-ඩිපෝ-කළමණාකරු-ඇතුළු-හයකගේ-වැඩ-තහනම්/11-413719) · `si`
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගිය ජනාධිපතිවරණයට නාමයෝජනා භාරදෙන දිනයේ ඔහුට සුභ පතන්නට ලංගම බස් රථයකින් බොරැල්ල මැතිවරණ කාර්යාලය අසලට ගිය ඩිපෝ කළමණාකරුවෙකු ඇතුළු හය දෙනෙකු ගේ වැඩ තහනම් කර ඇති බව කළුතර දිස්ත්‍රික් ලංගම ප්‍රාදේශීය කාර්යාලය සදහන් කරයි.
-
-මෙසේ වැඩ තහනමට ලක්ව ඇත්තේ හොරණ ඩිපෝ කළමණාකරු , සහකාර කළමණාකරු (පාලන) සහ තවත් සේවකයින් සිව්දෙනෙකු ගේ බව සදහන් වේ.
-
-පසුගිය ජනාධිපතිවරණයේදී හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නාමයෝජනා භාරදෙන දිනයේ ඔහුට සුභපැතීම සහ සහය පලකිරීම සදහා NB 6182 දරණ හොරණ ඩිපෝවට අයත් බස් රථයෙන්  ඔවුන් හයදෙනා රාජකාරි කාලය තුලදී බොරැල්ල දක්වා ගමන්කර ඇති බවට සදහන්ව ඇති බව ලංගම කළුතර උසස් නිළධාරියෙක් පැවසීය .
-
-එම ලංගම නිළධාරින් දෙදෙනා සහ සේවකයින් සිව්දෙනා ලංගම බස් රථයෙන්  බොරැල්ලට ගමන් කර ඇති බවට මැතිවරණ කොමිෂමට ලද පැමිණිල්ලක් මත සිදුකල විමර්ශන වලින් පසු වැඩ තහනම සිදුකර ඇති බවද ප්‍රකාශකයා කීය.
-
-ලංගම මුලස්ථානයේ ප්‍රධාන විනය කළමණාකරු විසින් එකී වැඩ තහනම් නියෝගය නිකුත් කර ඇති බවද සදහන් වේ.
-
-...
-
-[Data](articles/21d9fc7e.json)
-
----
-
-### Akram Khan’s Classical Intensive In Jaffna: Seeking Cultural Transmission Between Bodies
-
-*2024-12-18 16:49:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akram-khans-classical-intensive-in-jaffna-seeking-cultural-transmission-between-bodies/) · `en`
-
-Akram Khan is a world renowned dancer, choreographer and the founder of Akram Khan Company (AKC) in the UK. He has been an impactful dancer and choreographer who has initially been trained as a Kathak dancer during his apprenticeship under various Kathak Gurus in Asia and elsewhere. He and his dance company has created numerous dance productions that surpass the traditional boundaries. Akram Khan is a recipient of top awards including two Laurence Olivier Awards, the Bessie Award (New York Dance and Performance Award), the prestigious ISPA (International Society for the Performing Arts) Distinguished Artist Award, the Fred and Adele Astaire Award, the Herald Archangel Award at the Edinburgh International Festival, the South Bank Sky Arts Award, and ten Critics’ Circle National Dance Awards for his company.
-
-...
-
-[Data](articles/cbad79bb.json)
-
----
-
-### The head and foot was cut by a mountain tiger
-
-*2024-12-18 16:41:48* · [`adalk`](https://www.ada.lk/breaking_news/කඳුකර-කොටියෙක්-ඝාතනය-කර-හිස-හා-පාද-කපාගෙන-ගිහින්/11-413718) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mountain tiger attacks officials: Head and paws severed. Officials claim LTTE involvement. Tiger submitted to court as evidence.
-
-🟩
-
-Nallathanner officials said the Nullaathani's office had been moved to death and cut a tiger head and four feet.
-
-Police officers have informed the officials of the Nallutunner office on the launcher of the Hatton Police in a nearby clay venture in the Hatton Police Division (18).
-
-The wildlife officials said that the officials of the Wallowan office were cut by the LTTE's office officials and the Nallathan office officials of the Wallowan Office.
-
-The Wildlife officials said that the LTTE was a 10-year-old tiger to the Hatton Magistrate's Court and submitting the LTTE into the Hatton Magistrate's Court.
-
-◼️
-
-[Data](articles/2658c162.json)
-
-[Extended Data](ext_articles/2658c162.ext.json)
-
----
-
-### Leopard Rescue - Police Investigate
-
-*2024-12-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/201584) · `ta`
-
-Leopard found dead at Bodice Estate. Hatton Police investigating with Nalladhani Wildlife Officers. Case reported to Hatton court.
-
-🟩
-
-A leopard was found dead on Wednesday (18) at the Bodice Estate, which belongs to the Hatton Police Division, police said.
-
-Based on the information received by the Hatton Police Station, Nalladhani Wildlife Officers are conducting investigations.
-
-The Hatton court has been notified of the incident and further investigations are being carried out, police said.
-
-◼️
-
-[Data](articles/f9088938.json)
-
-[Extended Data](ext_articles/f9088938.ext.json)
-
----
-
-### The lease limit by earn is Rs.. From 100000 to Rs. Up to 150000
-
-*2024-12-18 16:30:17* · [`adalk`](https://www.ada.lk/breaking_news/උපයන-විට-ගෙවන-බද්දේ-සීමාව-රු--100000සිට-රු--150000ක්-දක්වා-ඉහළට/11-413717) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-IMF agrees to increase minimum income tax threshold. Private income tax rate reduced from 6% to 5%. Salary above 2 lakh exempt from tax. Export service tax increased from 5% to 10%. Local dairy products tax-free for child nutrition.
-
-🟩
-
-President Anura Kumara Dissanayake said in Parliament that the International Monetary Fund has agreed to increase the minimum limit of Rs.
-
-Also, the first category of private income tax submitted to 6% per cent Rs.. The President said that the amendments to the increase from 500,000 to Rs.
-
-The salary of the salary of a monthly salary is exempt from tax exempt and the tax is released by 71 percent.
-
-The Top General said that the tax of a two-lakh-salary of Rs.
-
-The President also stated that the value of the value of local yogurt and fresh milk production in the nutrition of children is being removed.
-
-The President said that the Tax Tax for the export of services to the exports of services due to be charged next year, the International Monetary Fund has been agreed to agree with the IMF.
-
-However, he added that the retention tax was agreed to increase from 5 percent to 10 percent.
-
-◼️
-
-[Data](articles/6c752903.json)
-
-[Extended Data](ext_articles/6c752903.ext.json)
-
----
-
-### Latest gazette notification issued on imports
-
-*2024-12-18 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204493) · `si`
-
-Here's a summary of the gazette notification in approximately 200 characters:
-
-
-
-"Pres. Anura Kumara Dissanayake issues special gazette on vehicle imports. Latest notification available on Scribd."
-
-🟩
-
-President Anura Kumara Dissanayake issued a special gazette notification regarding the import of vehicles.
-
-The latest gazette notification of vehicles by poornima on scribd
-
-◼️
-
-[Data](articles/b225b9cb.json)
-
-[Extended Data](ext_articles/b225b9cb.ext.json)
-
----
-
-### Latenam Sajith resigns education certificates
-
-*2024-12-18 16:17:34* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-සහතික-බොරුනම්-සජිත්-ඉල්ලා-අස්වෙයි/11-413716) · `si`
-
-Sajith Premadasa denies falsifying education credentials. Claims completed London degrees but couldn't finish due to father's death. Responding to allegations made by Minister Nalinda Jayatissa.
-
-🟩
-
-The Opposition Leader Sajith Premadasa told Parliament that if the facts to parliament regarding their educational qualifications prove that matters is false.
-
-He was responding to Parliament in Parliament regarding the matters presented by Minister Nalinda Jayatissa yesterday.
-
-He said that he had completed the London Orle and London that Level Graduate Degree and later graduate, but he could not complete it with his father's death.
-
-◼️
-
-[Data](articles/c409dd3c.json)
-
-[Extended Data](ext_articles/c409dd3c.ext.json)
-
----
-
-### No weights doubled, cashews ate the money
-
-*2024-12-18 16:10:57* · [`adalk`](https://www.ada.lk/breaking_news/පඩි-දෙගුණයක්-කර-ගත්තෙත්-නෑ--මහජන-මුදලින්-කජු-කෑවෙත්-නෑ/11-413715) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Ceylon Petroleum Corp. Chairman Rajakaruna accuses directors of misusing funds for cashew cultivation. He vows legal action and CID complaint, citing damage to company reputation.
-
-🟩
-
-Ceylon Petroleum Corporation Chairmanshipi The Chairman of the Ceylon Petroleum Corporation. Mr. Rajakaruna issues a statement, says Mr. Rajakaruna.
-
-The Chairman has announced that the directors of the Petrole Corporation were able to feed cashew in public money.
-
-He said that the reputation was severely damaged by the reputation of the petroleum and Corporation.
-
-He added that legal action will be taken against them and complains to the CID regarding certain matters.
-
-◼️
-
-[Data](articles/0c5b1925.json)
-
-[Extended Data](ext_articles/0c5b1925.ext.json)
-
----
-
-### Amplifon-Infomate partnership aims to foster the BPM talent pool in Sri Lanka
-
-*2024-12-18 16:05:27* · [`dailyftlk`](https://www.ft.lk/business/Amplifon-Infomate-partnership-aims-to-foster-the-BPM-talent-pool-in-Sri-Lanka/34-770669) · `en`
-
-Amplifon, a global leader in audiology recently announced a strategic partnership with Infomate, one of Sri Lanka’s most experienced shared services and Business Process Management (BPM) as its partner for a range of back-office services.
-
-With the strategic intent to focus on its core operations and access talent globally, Amplifon’s senior management believes that this partnership has many strategic benefits including the opportunity to leverage Sri Lanka’s world class talent pool together with process improvements and cost efficiencies. “Infomate has  expertise in conducting these operations and we selected them as our potential BPM partner because they ticked all the boxes we needed,” said Shehan Thambimuttu, Amplifon’s Director, Corporate Procurement- Australia and New Zealand.
-
-...
-
-[Data](articles/73fee661.json)
-
----
-
-### Four killed in vehicle accidents in different parts of the country
-
-*2024-12-18 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201575) · `ta`
-
-Vehicle accidents claim four lives across Sri Lanka: Chilaw, Kalutara, Wellawaya, and Colombo. Multiple collisions involving motorcycles, vans, and pedestrians reported. Investigations ongoing.
-
-🟩
-
-Four people were killed in a vehicle accident on Tuesday (17) in different parts of the country.
-
-One person was killed when a van traveling from Chilaw to Colombo from Chilaw in the Mahawewa area of ​​Chilaw, which belongs to the Tuttuwawa police division, was killed in a motorcycle collision with a motorcycle.
-
-The driver of the motorcycle and her daughter were injured in the accident and the driver died after being admitted to the Marawila Hospital.
-
-The body has been placed in the funeral room of the Marawila Hospital and the driver of the van has been arrested, police said.
-
-Meanwhile, a motorcycle collided with a motorcycle in the Kalpatha area of ​​the Kalutara -Horana road.
-
-The bicycle was injured in the accident and was admitted to the Kalpatha Hospital after being transferred to the Horana Hospital for further treatment.
-
-The death of an 83 -year -old from Kalpatha, Kalutara.
-
-...
-
-[Data](articles/efc204cd.json)
-
-[Extended Data](ext_articles/efc204cd.ext.json)
 
 ---

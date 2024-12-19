@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 13:43:37**
+As of **2024-12-19 14:02:51**
 
 ## Newspaper Stats
 
-*Scraped **60,986** Articles*
+*Scraped **60,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,816
 adaderanalk | 7,437
-tamilmirrorlk | 8,720
+tamilmirrorlk | 8,722
 virakesarilk | 10,048
 adaderanasinhalalk | 10,531
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,823 (99.7%) of 60,986 articles have been extended.
+60,823 (99.7%) of 60,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### 103 பேருடன் முள்ளிவாய்க்காலில் கரையொதுங்கிய படகு
+
+*2024-12-19 13:43:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/103-பேருடன்-முள்ளிவாய்க்காலில்-கரையொதுங்கிய-படகு/175-348960) · `ta`
+
+முள்ளிவாய்க்கால் மேற்கு கடற்கரையில்  வெளிநாட்டு பிரஜைகள் 103 பேருடன்    படகொன்று   வியாழக்கிழமை (19) கரையொதுங்கியுள்ளது.
+
+மியன்மாரில் இருந்து 103 பயணிகளுடன் படகொன்று திசைமாறி வந்து கரையொதுங்கியுள்ளது. குறித்த படகில் 25 க்கும் மேற்பட்ட சிறுவர்களும்  உள்ளடங்கியிருக்கின்றனர்.
+
+அவர்களை  மீட்டு கரைக்கு  கொண்டுவரும் நடவடிக்கையில்  முல்லைத்தீவு மீனவர்கள்,  கடற்படையினர், இராணுவத்தினர், பொலிஸார் ஈடுபட்டு வருகின்றனர்.
+
+குறித்த படகில் இருப்பவர்களுக்கு  உணவுகள், உலருணவுகளை  முல்லைத்தீவு மீனவர் சங்கத்தினர்  வழங்கினர். படகில் இருந்தவர்களில் சிலர் மயக்கமடைந்த நிலையிலும், சிலர் சுகயீனமுற்ற நிலையிலும் உள்ளனர் என்று தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/8d0b677a.json)
+
+---
+
+### இலங்கை பொலிஸாருக்கு வாகனங்கள் வாங்க இந்தியா நிதியுதவி
+
+*2024-12-19 13:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பொலிஸாருக்கு-வாகனங்கள்-வாங்க-இந்தியா-நிதியுதவி/175-348959) · `ta`
+
+இலங்கை பொலிஸாருக்கான வாகன தேவைகளை பூர்த்தி செய்வதற்கு 300 மில்லியன் இலங்கை ரூபாயை மானியமாக வழங்க இந்திய அரசாங்கம் இணங்கியுள்ளது.
+
+அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ இதனைத் தெரிவித்தார்.
+
+இந்த உதவித்தொகையை பயன்படுத்தி வடக்கு மற்றும் கிழக்கு பொலிஸ் நிலையங்களின் கடமை தேவைகளுக்காக கெப் வண்டிகளை வழங்க திட்டமிடப்பட்டுள்ளது.
+
+இதன்படி, குறித்த நன்கொடையை பெற்றுக்கொள்வதற்காக இரு தரப்புக்கும் இடையில் புரிந்துணர்வு உடன்படிக்கையை ஏற்படுத்துவதற்கு பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ea713bb5.json)
+
+---
 
 ### Sri Lanka and India to cooperate on digitalisation
 
@@ -1112,7 +1148,7 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
-### Fed claims Us economic expansions solid, cuts rate to 4.50-4.75-pct, stocks tank
+### Fed claims US economic expansions ‘solid’, cuts rate to 4.50-4.75-pct, stocks tank
 
 *2024-12-19 08:07:00* · [`economynextcom`](https://economynext.com/fed-claims-us-economic-expansions-solid-cuts-rate-to-4-50-4-75-pct-stocks-tank-195060/) · `en`
 
@@ -1340,7 +1376,7 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
 
-සජිත් ප්‍රේමදාස පෙර පාසලේ සිට විශ්වවිද්‍යාලය දක්වා අධ්‍යාපන සුදුසුකම් හෙළි කරයි
+සාරා ෂරීෆ් ඝාතනය: පියා සහ සුළු මවට ජීවිතාන්තය දක්වා සිර දඬුවම්
 
 ◼️
 
@@ -2231,65 +2267,5 @@ In addition, the focus is also focused on the help of local farmer companies and
 [Data](articles/c796ccc8.json)
 
 [Extended Data](ext_articles/c796ccc8.ext.json)
-
----
-
-### Passenger boat capsizes off Mumbai coast with more than 80 on board
-
-*2024-12-18 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104340/passenger-boat-capsizes-off-mumbai-coast-with-more-than-80-on-board) · `en`
-
-A boat carrying 80 passengers and five crew members capsized off the coast of India’s financial capital Mumbai after a speedboat struck it on Wednesday, local and government officials said.
-
-A total of 75 people, and all five crew members, were rescued, while one was dead, the Brihanmumbai Municipal Corporation, the city’s civic body, in a statement.
-
-Rescue operations for the remaining five people were in progress, it added. Local TV showed rescue workers in lifejackets near the capsized vessel.
-
-A speedboat crashed into the vessel, causing it to capsize, said Devendra Fadnavis, chief minister of Maharashtra state, of which Mumbai is capital.
-
-Local TV channels showed a speedboat carrying at least five people hitting the passenger vehicle, causing the accident.
-
-“The speedboat crashed into our boat and water started entering our boat and it overturned. The driver asked us to wear lifejackets,” a passenger on board the vessel told ABP Majha news channel.
-
-...
-
-[Data](articles/5e821dd4.json)
-
-[Extended Data](ext_articles/5e821dd4.ext.json)
-
----
-
-### How to Restructrate Entrepreneurs
-
-*2024-12-18 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204499) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan government extends loan restructuring for small entrepreneurs until March 31, 2025. Borrowers under Rs. 25M can restructure by December 15, 2025. Those with loans between Rs. 25-50M have until September 15, 2025.
-
-🟩
-
-President Anura Kumara Dissanayake said in parliament today (18) that small and medium-scale entrepreneurs are allowed to restructure the loans from obtaining bank loans.
-
-He said that steps have been taken to extend the decision to the suspension of the Parade law, he has not yet reached the recovery.
-
-The suspension of the Parade law was due to be completed on the 15th of this month and later extended it to 31st March 2025.
-
-With this extension, the government has arranged for each entrepreneurs to restructure credit according to their loans.
-
-The study on the extension of the Parade law has been revealed that 99% of the borrowers have been released than Rs. 25 million.
-
-However, the President pointed out that the banking system can collapse using the Paradic law completely suspended.
-
-Accordingly, the loan has been given to December 15, 2025 to restructure the loans to be paid less than Rs. 25 million.
-
-The debt payers should be produced before March 31st of next year.
-
-...
-
-[Data](articles/57d60965.json)
-
-[Extended Data](ext_articles/57d60965.ext.json)
 
 ---

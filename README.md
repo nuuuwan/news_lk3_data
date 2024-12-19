@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 04:43:00**
+As of **2024-12-20 05:01:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,908 (99.7%) of 61,087 articles have been extended.
+60,910 (99.7%) of 61,087 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1780,6 +1780,8 @@ Previously, the compulsory retirement age for government medical officers was lo
 
 [Data](articles/977d9a43.json)
 
+[Extended Data](ext_articles/977d9a43.ext.json)
+
 ---
 
 ### For the past 20 years. Tissa
@@ -1812,19 +1814,31 @@ He also accused the multi -rupee financial fraud of fraud. He said that about 20
 
 ---
 
-### ජනපති ආරක්ෂක ප්‍රධානියා ඉවත් කළ යුතුයි
+### President needs to be removed
 
 *2024-12-19 15:46:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ආරක්ෂක-ප්‍රධානියා-ඉවත්-කළ-යුතුයි/11-413739) · `si`
 
-හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව කප්පාදු කිරීම වැරදි ක්‍රියාවක් බවත් ප්‍රභූ ආරක්ෂාවට යොදවා සිටි හමුදාව ඉවත් කළ පොලීසිය පමණක් යෙදවීම වැරදි දෙයක් බවත් හිටපු මන්ත්‍රී උදය ගම්මන්පිල මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-"අපේ පක්ෂයෙන් හිටපු ජනපතිවරයෙකු නෑ.  ඒ නිසා හිටපු ජනපතිවරුන්ගේ ආරක්ෂාව කප්පාදු කිරීමේ ජනප්‍රිය තීන්දුවට අපටත් හුරේ දාන්න පුළුවන්.  නමුත් හිටපු ජනාධිපතිවරුන්ට ආරක්ෂාව ලබා දීමේ තාර්කික බව තේරුම් නොගත්තොත් අපට මහ විනාශයක් වෙන්න පුළුවන්.  අද ආරක්ෂාව ලබන මහින්ද සහ ගෝඨාභය කියන ජනාධිපතිවරුන් කොටි ත්‍රස්තවාදය පරාජය කිරීමට තීරණාත්මක කාර්යභාරයක් ඉටු කලා.
 
-ඒ නිසා දෙමළ බෙදුම්වාදින්ගේ වෛරයට එතුමන්ලා අද බඳුන් වෙලා ඉන්නේ. හිටපු ජනපති සිරිසේනත් වැඩබලන ආරක්ෂක ඇමති විධියට කටයුතු කලා විතරක් නොවේ පස් වතාවක් කොටි ත්‍රස්තවාදින් මරා දාන්න වෑයම් කරපු නායකයෙක්.  තනතුරෙන් විශ්‍රාම ගත්තාට පස්සේ ආරක්ෂාව නැති වෙනවා නම් තනතුරේ ඉන්න කාලයේ අවදානම් තීන්දු ගන්න පැකිලෙනවා.
+
+Former MP Udaya Gammanpila criticizes removing presidential security, saying it's misguided. He argues the army protects against threats like terrorism and drugs. Gammanpila suggests redeploying elite police units instead of reducing military protection.
+
+🟩
+
+Former MP Udaya Gammanpila says that pruning the security of former presidents is wrong and that the army has been deployed to eliminated the army has been misleading is wrong.
+
+"There is no president of our party. Therefore, we can be haomed by the popular decision of the defenses of former presidents.Played a role.
+
+Therefore, he is the hatred of Tamil separatists. Former President Sirisena has not only worked as acting Defense Minister but also tried to kill Tigers five times.If he retired from the post, if security is lost, there is a hesitate to take risks in the position.
+
+The leaders will only take leather decision to suppress the drug racket, terrorism, underworld, only if they get the assurance of their lives. Otherwise we don't get angry.That is five years in that position.The greatest tenth.Then we will remember the presidents will be taken to the delay.
 
 ...
 
 [Data](articles/cc16b90c.json)
+
+[Extended Data](ext_articles/cc16b90c.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 02:02:07**
+As of **2024-12-20 02:27:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,37 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,890 (99.7%) of 61,084 articles have been extended.
+60,894 (99.7%) of 61,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### விமானத்தில் பெண்ணிடம் அநாகரிகமாக நடந்துகொண்ட இலங்கை பிரஜைக்கு எதிராக அவுஸ்திரேலியாவில் வழக்குப்பதிவு
+### Australia's case against Sri Lankan citizen
 
 *2024-12-20 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201701) · `ta`
 
-சர்வதேச விமானத்தில் பெண் பயணியிடம் தகாத முறையில் நடந்துகொண்ட இலங்கையைச்சேர்ந்த நபர், அநாகரிகமாக நடந்துகொண்டார் என்ற குற்றச்சாட்டில் வியாழக்கிழமை (19) மெல்பேர்ன் நகரின் ப்ரோமேடோஸ் நீதிவான் நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-இலங்கையிலிருந்து புதன்கிழமை (18) மெல்பேர்னுக்கு பயணமான விமானத்தில் 41 வயதான ஆண் ஒருவர் பெண் பயணியிடம் அநாகரிகமான முறையில் நடந்துகொண்டிருக்கிறார். அதனையடுத்து இச்சம்பவம் தொடர்பில் குறித்த பெண் விமானசேவை ஊழியர்களுக்கு அறியப்படுத்தியதுடன், அவர்கள் அவுஸ்திரேலிய பெடரல் பொலிஸில் முறைப்பாடளித்தனர். அதன்படி குறித்த விமானம் மெல்பேர்னில் தரையிறங்கியவுடன் அவுஸ்திரேலிய பெடரல் பொலிஸார் இச்சம்பவம் பற்றி பயணிகளிடமும், விமானசேவை ஊழியர்களிடமும் விசாரணைகளை மேற்கொண்டனர்.
 
-இந்நிலையில் அவுஸ்திரேலியாவின் 1991 ஆம் ஆண்டு குற்றங்கள் (விமானசேவை) சட்டத்தின் 15(1) சரத்தின் பிரகாரம் அநாகரிகமான முறையில் நடந்துகொண்ட குற்றத்துக்காக குறித்த நபருக்கு எதிராக வழக்கு பதிவுசெய்யப்பட்டுள்ளது.
 
-...
+Sri Lankan man charged under Australia's 1991 Crimes (Air Service) Act for alleged inappropriate behavior towards a female passenger on a flight from Sri Lanka to Melbourne. Case heard at Melbourne's Bromatos Magistrate's Court, with bail granted and next hearing on January 9, 2025.
+
+🟩
+
+Melbourne's Bromatos Magistrate's Court on Thursday (19) has been produced before the Melbourne City's Bromatos Magistrate's Court on charges of acting inappropriately to a female passenger on an international plane.
+
+A 41 -year -old man on a flight from Sri Lanka to Melbourne on Wednesday (18). Subsequently, the female flight attendants were informed about the incident and they lodged a complaint with the Australian Federal Police.. Accordingly, when the plane landed in Melbourne, the Australian Federal police investigated the incident and investigated the incident with passengers and airline staff.
+
+In this case, Australia's 1991 Crimes (Air Service) Act has been booked against the person for allegedly behaving in a manner that has been abusive.
+
+Accordingly, the man who was produced before the Melbourne's Bromatos Magistrate's Court yesterday (19) has been released on bail and has been ordered to appear again on January 9, 2025.
+
+◼️
 
 [Data](articles/a67c5769.json)
+
+[Extended Data](ext_articles/a67c5769.ext.json)
 
 ---
 
@@ -276,29 +288,37 @@ Police have also found the firearm that was used for the murder.
 
 ---
 
-### වසර 15කට පසු ලංකාවට ගෙන්වන ලුණු
+### Salt importing after 15 years
 
 *2024-12-19 21:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204532) · `si`
 
-රට තුළ ලුණු හිඟයක් ඇතිවෙතැයි අනිසි බියක් ඇතිකර නොගන්නා ලෙස ලුණු නිෂ්පාදකයින්ගේ සංගමය ජනතාවගෙන් ඉල්ලා සිටියි.
+Sri Lanka faces salt shortage due to reduced production. Government approves import of 30,000 metric tons. Local markets have sufficient stock. Salt production affected by increased rainfall.
 
-ඔවුන් පවසන්නේ දේශීය වෙළෙඳපොළ තුළ අවශ්‍ය තරම් ලුණු මිලදී ගැනීමට තිබෙන බවයි.
+🟩
 
-රට තුළ උද්ගත වියහැකි ලුණු හිඟයට පිළියමක් ලෙස ලුණු මෙට්‍රික් ටොන් 30,000ක් ආනයනය කිරීම සඳහා කැබිනට් අනුමැතිය මේ වනවිට හිමිව තිබේ.
+The Salt-Manufacturers Association requests the public not to be terrified that there is a shortage of salt in the country.
 
-ලුණු නිෂ්පාදකයින්ගේ සංගමය පවසන්නේ සාමාන්‍ය පරිභෝජනය සඳහා මෙලෙස ශ්‍රී ලංකාවට ලුණු ආනයනය කෙරෙන්නේ වසර 15කට පමණ පසුව බවයි.
+They say they have enough salt in the local market.
 
-මෙරට ජනතාවගේ ලුණු අවශ්‍යතාව සම්පූර්ණ කිරීම සඳහා ලුණු නිෂ්පාදනය කෙරෙන්නේ හම්බන්තොට, පුත්තලම, මන්නාරම, අලිමංකඩ සහ ත්‍රිකුණාමලය ආදී ප්‍රදේශවල පිහිටි ලුණු ලේවායන්වලින්ය.
+The Cabinet approval has been given to importing 30,000 metric tons of salt as a remedy of the country.
 
-ඉන් 50%ක් රාජ්‍ය අංශයෙන් ද 50% ක් පෞද්ගලික අංශයෙන්ද නිෂ්පාදනය කෙරේ.
+Salt Manufacturers Association says Sri Lanka is imported about 15 years after the average consumption.
 
-නමුත් මේ වසරේ ලුණු නිෂ්පාදනය මෙට්‍රික් ටොන් 200,000ක් ලෙස අපේක්ෂා කළද මේ වනවිට සැලකිය යුතු ලෙස ලුණු නිෂ්පාදනය පහත බැස තිබේ.
+Salt is produced from Hambantota, Puttalam, Mannar, Elephant Pass and Trincomalee such as to complete the salt need of the people of Sri Lanka.
 
-ඊට ප්‍රධාන හේතුවක් වී ඇත්තේ 70%ක පමණ ලුණු නිෂ්පාදනයක් සිදුකෙරෙන ජුලි සහ ඔක්තෝබර් අතර මහ කන්නය පුරා වර්ෂා සහිත අයහපත් කාලගුණයක් පැවතීමයි.
+50% of them are produced by 50% of the public sector.
+
+However, the salt production was expected to be 200,000 metric tons, but the salt production has been reduced significantly.
+
+One of the main reasons is that there is a 70% more rain-based inclement weather throughout the Maha season.
+
+As a result, the expected amount of salt has not been fulfilled.
 
 ...
 
 [Data](articles/eb29d118.json)
+
+[Extended Data](ext_articles/eb29d118.ext.json)
 
 ---
 
@@ -360,29 +380,39 @@ The incident has caused disruptions to train traffic on the main line toward Kan
 
 [Data](articles/9e8dbd4a.json)
 
+[Extended Data](ext_articles/9e8dbd4a.ext.json)
+
 ---
 
-### ගාල්ල බන්ධනාගාරයේ පාතාල කල්ලි ගැටුමක්
+### Underworld gangs at Galle prison clash
 
 *2024-12-19 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204531) · `si`
 
-ගාල්ල බන්ධනාගාරය තුළදී අද (19) උදෑසන රැඳවියන් දෙපිරිසක් අතර හටගත් ගැටුමකදී තියුණු ආයුධවලින් පහරදීම හේතුවෙන් සිව්දෙනෙකු තුවාල තබා ඇති බව වාර්තා වෙයි.
+Clash erupts in Galle Prison between underworld gangs. Four inmates injured by sharp weapons. Prison officials intervene, transfer victims to Boossa Prison.
 
-ගාල්ල බන්ධනාගරයේ රඳවා සිටින අපරාධ කල්ලි දෙකක සාමාජිකයින් අතර එම ගැටුම හටගෙන තිබුණි.
+🟩
 
-බන්ධනාගාර ආරංචි මාර්ග සඳහන් කළේ අනුර පුෂ්පකුමාර හෙවත් "බටු මීයා" නමැති අපරාධකරුගේ පාර්ශ්වය සහ කරන්දෙණිය සුද්දා නමැති අපරාධකරුගේ පාර්ශ්වය අතර ගැටුම හටගෙන ඇති බවයි.
+Four were wounded due to sharp weapons during a clash between two groups in the Galle Prison this morning.
 
-එහිදී "බටු මීයා" නමැති රැඳවියා සහ ඔහුගේ සමීපතමයන් තිදෙනෙකු තුවාල ලබා තිබේ.
+The clash had occurred among two criminal groups held in the Galle prison.
 
-"බටු මීයා" සහ ඔහුගේ සගයින් තිදෙනා බන්ධනාගාරගත කෙරුණේ මීටියාගොඩ බෙලිමුල්ල ප්‍රදේශයේ නිවසක සිටි පියෙකුට සහ දියණියකට වෙඩිතැබීමේ සිද්ධියක් සම්බන්ධයෙනි.
+According to Prison sources, the clash broke out between Anura Pushpakumara or "Battle of the 'criminalian party and the criminal criminal named Karandeniya Suddha.
 
-එහිදී ඔහු පොලීසියට පවසා තිබුණේ කරන්දෙණිය සුද්දාගේ පාර්ශ්වය විසින් තමන්ව ඝාතනය කිරීමට සූදානම්ව සිටි බවත්, ඊට ආධාර අනුබලදුන් පුද්ගලයෙකු ඉළක්ක කර වෙඩිතැබීම සිදුකළ බවටයි.
+There, the detainees, "Batu Meea" and three of his closeest were injured.
 
-ඒ අනුව  ගාල්ල බන්ධනාගාරයට යැවුණු ඔවුන් රඳවා සිටි වාට්ටුවෙහි කරන්දෙණිය සුද්දාගේ පර්ශ්වයට අයත් සැකකරුවන් පිරිසක්ද සිට තිබුණි.
+The "Batu Meea" and his colleagues were imprisoned by a shooting incident in Meetiyagoda Belimulla area.
+
+He told the police that he was preparing to kill himself by the party of Karandeniya and a person who had a supported person was spread and supported.
+
+Accordingly, the suspects of the Karandeniya Suddha Suddha was also present at the ward that they were detected to the Galle Prison.
+
+The party of Karandeniya Suda has been injured by the "Battle Mother 'and his colleagues with sharp weapons.
 
 ...
 
 [Data](articles/c6d29655.json)
+
+[Extended Data](ext_articles/c6d29655.ext.json)
 
 ---
 

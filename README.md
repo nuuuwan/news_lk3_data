@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 06:15:06**
+As of **2024-12-19 06:48:38**
 
 ## Newspaper Stats
 
-*Scraped **60,916** Articles*
+*Scraped **60,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,214
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
-tamilmirrorlk | 8,704
+tamilmirrorlk | 8,705
 virakesarilk | 10,036
 adaderanasinhalalk | 10,518
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,788 (99.8%) of 60,916 articles have been extended.
+60,788 (99.8%) of 60,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -265,6 +265,20 @@ The Christmas season is a special time filled with joy, excitement, and giving. 
 [Data](articles/9ffb2c81.json)
 
 [Extended Data](ext_articles/9ffb2c81.ext.json)
+
+---
+
+### அதிவேக நெடுஞ்சாலையில் சாரதிகள் அவதானம்
+
+*2024-12-19 02:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-சாரதிகள்-அவதானம்/175-348938) · `ta`
+
+இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் அதிவேக நெடுஞ்சாலைகளில் ஏற்பட்ட விபத்துகளில் 16 பேர் உயிரிழந்துள்ளனர் என பொலிஸ் பேச்சாளர் சிரேஷ்ட பொலிஸ்  அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+
+அதிவேக நெடுஞ்சாலையில் வாகனத்தைச் செலுத்தும் போது வீதி விதிகளை மீறிச் செயற்பட வேண்டாம் எனவும் அவர் தெரிவித்துள்ளார்.  (a)
+
+◼️
+
+[Data](articles/9afb0449.json)
 
 ---
 
@@ -2351,25 +2365,5 @@ The other members of the group have been appointed as Harshana Suriyaparuma, Rav
 [Data](articles/06833c0a.json)
 
 [Extended Data](ext_articles/06833c0a.ext.json)
-
----
-
-### Withholding Tax to be increased to 10%
-
-*2024-12-18 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104332/withholding-tax-to-be-increased-to-10-) · `en`
-
-President Anura Kumara Dissanayake announced that the Withholding Tax will be increased from 5% to 10%.
-
-Speaking in Parliament today (18), he said that the government agreed with the International Monetary Fund (IMF) to reduce tax on services exports from the existing 30% to 15%.
-
-He said that an agreement was also reached to increase the Withholding Tax from 5% to 10%.
-
-“Usually, elderly people, pensioners, deposit a certain amount of money in banks and live off the interest they earn. Usually, they are subject to tax if they earn Rs. 150,000 per month in interest. But what can happen through withholding tax is that even if it is less than Rs. 150,000, it can be subjected to withholding tax,” he said.
-
-...
-
-[Data](articles/840e6dcf.json)
-
-[Extended Data](ext_articles/840e6dcf.ext.json)
 
 ---

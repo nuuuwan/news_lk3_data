@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 05:51:46**
+As of **2024-12-19 06:15:06**
 
 ## Newspaper Stats
 
-*Scraped **60,908** Articles*
+*Scraped **60,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 619
 bbccomsinhala | 639
-islandlk | 3,681
+islandlk | 3,689
 economynextcom | 3,711
 dailyftlk | 4,214
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,788 (99.8%) of 60,908 articles have been extended.
+60,788 (99.8%) of 60,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -601,6 +601,68 @@ Ashwin is also the highest Test bowlers in the 7th.
 [Data](articles/651f93b0.json)
 
 [Extended Data](ext_articles/651f93b0.ext.json)
+
+---
+
+### Eva and Sri Lanka Red Cross launch nationwide menstrual health campaign for schools
+
+*2024-12-18 22:14:00* · [`islandlk`](http://island.lk/eva-and-sri-lanka-red-cross-launch-nationwide-menstrual-health-campaign-for-schools/) · `en`
+
+Eva joined forces with the Sri Lanka Red Cross Society (SLRC) to launch an island-wide Menstrual Health and Hygiene Awareness Programme.
+
+Aimed at reaching schools across the island during 2025, this initiative seeks to equip students with vital knowledge while addressing stigmas surrounding menstruation.
+
+The launch event was held recently at the Sri Lanka Red Cross premises in Colombo, marking the beginning of this transformative effort, setting the stage for a nationwide movement towards enabling awareness, knowledge, and inclusion.
+
+...
+
+[Data](articles/6376acae.json)
+
+---
+
+### Students from Sri Lanka achieve top results in Outstanding Cambridge Learner Awards
+
+*2024-12-18 22:12:00* · [`islandlk`](http://island.lk/students-from-sri-lanka-achieve-top-results-in-outstanding-cambridge-learner-awards/) · `en`
+
+The International Education group at Cambridge University Press & Assessment (Cambridge) is delighted to announce the winners of the Outstanding Cambridge Learner Awards in Sri Lanka. The awards celebrate the outstanding academic achievements of secondary school learners in Sri Lanka in the November 2023 and June 2024 Cambridge examination series.
+
+Over 162 students in Sri Lanka will receive awards for exceptional performance in Cambridge IGCSE™, O Level and International AS & A Level examinations, including 3 students who achieved the highest marks in the world and 75 students who attained the highest marks in Sri Lanka in a single subject.
+
+...
+
+[Data](articles/89ffc6bb.json)
+
+---
+
+### CEAT launches new paradigm ‘Europe Range’ of high performance radial tyres in Sri Lanka
+
+*2024-12-18 22:12:00* · [`islandlk`](http://island.lk/ceat-launches-new-paradigm-europe-range-of-high-performance-radial-tyres-in-sri-lanka/) · `en`
+
+Sri Lankan automobile enthusiasts can now access global-standard, high-performance radial tyres with the launch of the ‘Europe Range’ by CEAT Kelani Holdings for luxury cars and SUVs.
+
+Comprising of 19 tyre sizes in six different patterns, these tyres for rim sizes of 16 to 18 inches, are classified High Performance (HP) and Ultra High-Performance (UHP) according to European parameters, and have been developed and tested at the CEAT R&D Center in Frankfurt, Germany.
+
+“With this range, which is already in use on European roads, CEAT continues to move up the quality ladder to offer new paradigm products to Sri Lankan consumers,” CEAT Kelani Chief Operating Officer Shamal Gunawardene said. “These tyres represent significant improvements in critical areas such as driving stability, precision steering and braking response in diverse conditions and terrain, making them an exciting addition to our vast radial tyre portfolio.”
+
+...
+
+[Data](articles/ccbb0c34.json)
+
+---
+
+### Decision on vehicle imports helps rally stocks
+
+*2024-12-18 22:09:00* · [`islandlk`](http://island.lk/decision-on-vehicle-imports-helps-rally-stocks/) · `en`
+
+The stock market yesterday slid downwards to 100 points but subsequently moved up due to President Anura Kumara Dissanayake’s statement in Parliament on the lifting of the ban on vehicle imports.
+
+This triggered a rally among stocks in the vehicle imports related companies and banking sector counters, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 132.5 points while S and P SL20 rose by 29.5 points. Turnover stood at Rs 6.01 billion with twelve crossings.
+
+...
+
+[Data](articles/75e83125.json)
 
 ---
 
@@ -2309,111 +2371,5 @@ He said that an agreement was also reached to increase the Withholding Tax from 
 [Data](articles/840e6dcf.json)
 
 [Extended Data](ext_articles/840e6dcf.ext.json)
-
----
-
-### Vehicle imported for private use from February 01
-
-*2024-12-18 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204488) · `si`
-
-Sri Lanka to lift vehicle import restrictions for private use starting Feb 1, 2025, says President Anura Kumara Dissanayake. Government aims to boost economy by opening market to cars and passenger buses.
-
-🟩
-
-President Anura Kumara Dissanayake said that the government plans to import vehicles to import vehicles for personal use from February 01, March 01.
-
-The President said the restrictions on importation of vehicles in Sri Lanka should be effectively opened.
-
-"There is a building built with him. There are entrepreneurs. Therefore, this vehicle cannot cover the market for a long time. "
-
-Accordingly, the government has planned to be permitted to import vehicles in three categories.
-
-...
-
-[Data](articles/222c6866.json)
-
-[Extended Data](ext_articles/222c6866.ext.json)
-
----
-
-### 45 people die in a heart attack in Vavuniya
-
-*2024-12-18 12:46:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-மாரடைப்பால்-45-பேர்-மரணம்/175-348904) · `ta`
-
-45 heart attack deaths reported at Vavuniya hospital Jan-Oct. Ages: 20-40 (13), 40-60 (13), 60+ (31). Health Dept cites rising trend. RTI request filed.
-
-🟩
-
-45 people have died of a heart attack during the 10 -month period from January to October this year at the Vavuniya General Hospital.
-
-The matter has been reported to be sought through the Right to Information Act.
-
-Accordingly, one of the 20 to 40 years of age, 13 from the age of 40 to 60, and 31 in the age of 60 to 100 years, 45 have died of a heart attack.
-
-The Department of Health has stated that the number of heart attacks in Vavuniya has increased in recent years.
-
-◼️
-
-[Data](articles/d53dbcb0.json)
-
-[Extended Data](ext_articles/d53dbcb0.ext.json)
-
----
-
-### Pope assassination plot foiled by UK intelligence
-
-*2024-12-18 12:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104331/pope-assassination-plot-foiled-by-uk-intelligence) · `en`
-
-A plot to assassinate Pope Francis during a trip to Iraq was stopped following a tip-off from British intelligence, according to his upcoming autobiography.
-
-The Pope writes that, after landing in Baghdad in March 2021, he was told an event at which he was set to appear was being targeted by two suicide bombers.
-
-Both attackers were subsequently intercepted and killed, he said in excerpts published by Italian newspaper Corriere della Sera.
-
-The visit, which took place over three days during the coronavirus pandemic, was the first ever to Iraq by a pope and saw an intense security operation.
-
-The years before had seen increased sectarian violence in Iraq, with fighting between Shia and Sunni Muslims as well as the persecution of religious minorities.
-
-The country’s Christian community had shrunk dramatically, having been targeted in particular by the Islamic State group and other Sunni extremists.
-
-...
-
-[Data](articles/1c6ccc00.json)
-
-[Extended Data](ext_articles/1c6ccc00.ext.json)
-
----
-
-### Circumstance across the country;Four arrested with drugs
-
-*2024-12-18 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201560) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"4 arrests made nationwide: heroin & ice seized. Suspects aged 31&32 from Peliyagoda & Kelaniya. Further investigations ongoing."
-
-🟩
-
-Four suspects have been arrested with heroin and ice drugs in a roundabout carried out by police nationwide on Tuesday (17).
-
-A suspect has been arrested for possessing 05 grams of 900 milligrams of heroin in the Railway Station Road - Nugegoda, which belongs to the Maharagama Police Division.
-
-Meanwhile, two suspects have been arrested in the Paliyagoda Police Division, Tudukamunu Mawatha and Tipitikoda area.
-
-The arrested suspects have seized 11 grams of 800 milligrams of ice and 10 grams of 300 milligrams of heroin.
-
-The arrested suspects are from Peliyagoda and Kelaniya, aged 31 and 32.
-
-In addition, a suspect has been arrested for possessing 11 grams of 300 milligrams of ice at Udugampalai junction under the Gampaha Police Division.
-
-In addition, the police have said that further investigations are being carried out in connection with the suspects involved in the incident.
-
-◼️
-
-[Data](articles/e07f55e4.json)
-
-[Extended Data](ext_articles/e07f55e4.ext.json)
 
 ---

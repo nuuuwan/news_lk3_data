@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 10:02:24**
+As of **2024-12-19 10:27:40**
 
 ## Newspaper Stats
 
-*Scraped **60,937** Articles*
+*Scraped **60,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 619
 bbccomsinhala | 640
 islandlk | 3,689
 economynextcom | 3,711
-dailyftlk | 4,215
+dailyftlk | 4,217
 dailymirrorlk | 4,733
-adalk | 5,811
+adalk | 5,812
 adaderanalk | 7,429
-tamilmirrorlk | 8,708
+tamilmirrorlk | 8,709
 virakesarilk | 10,039
 adaderanasinhalalk | 10,525
 
@@ -26,61 +26,109 @@ adaderanasinhalalk | 10,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,801 (99.8%) of 60,937 articles have been extended.
+60,805 (99.8%) of 60,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
 
-### அடுத்த 2 நாட்களில் வானிலையில் மாற்றம்
+### Continue to shorten the rice
+
+*2024-12-19 09:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்தும்-அரிசிக்கு-தட்டுப்பாடு/175-348943) · `ta`
+
+Sri Lanka faces rice shortage despite price controls. Government imports 16,000 metric tonnes, including 6,000 green rice and 10,000 regular rice. Daily consumption: 6,500-6,600 metric tonnes. Market still lacks sufficient supply.
+
+🟩
+
+Although the control prices for rice have been implemented, there is a shortage of rice varieties in the market.
+
+Traders say that the government has taken steps to import rice to address the shortage of rice but the market has not yet received rice.
+
+It is reported that 6,500 to 6,600 metric tonnes of rice is being consumed for use daily in Sri Lanka.
+
+Customs spokesman Sivali Arukkoda said that about 16,000 metric tonnes of rice was imported to Sri Lanka till yesterday afternoon as a solution to the shortage.
+
+He pointed out that it includes 6,000 metric tonnes of green rice and 10,000 metric tons of rice. Remble
+
+◼️
+
+[Data](articles/c6fed803.json)
+
+[Extended Data](ext_articles/c6fed803.ext.json)
+
+---
+
+### Change in weather in the next 2 days
 
 *2024-12-19 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-2-நாட்களில்-வானிலையில்-மாற்றம்/175-348942) · `ta`
 
-தென்மேற்கு வங்காள விரிகுடா கடற்பரப்புகளுக்கு மேலாக விருத்தியடைந்த குறைந்த அழுத்தப் பிரதேசம் மேலும் வடமேற்கு திசையில் நகர்ந்து அடுத்த 2 நாட்களில் வட தமிழகம் மற்றும் தெற்கு ஆந்திரா கடற்கரையை நோக்கி  நகர வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Weather forecast: Low-pressure system moves NW, affecting TN & AP coasts. Rainfall in northern provinces, thundershowers in eastern regions. Snowfall in central provinces. Lightning warnings issued.
 
-வடக்கு, வடமேல் மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சிறிதளவு மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Department of Meteorology has predicted that the low -pressure territory that has developed above the southwestern Bengal bay seas can move in the northwestern direction and move towards the coast of North Tamil Nadu and South Andhra Pradesh over the next two days.
 
-வடக்கு, வடமத்திய, மத்திய, சப்ரகமுவ மற்றும் கிழக்கு மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+The weather forecast has stated that there will be some rainfall in the Northern, North Western and Western Provinces and Galle and Matara districts.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொதுமக்களை அறிவுறுத்தியுள்ளது. R
+In the Eastern and Uva provinces, there may be rain or thunderstorm in the evening or night.
+
+The Northern, North Central, Central, Sabaragamuwa and Eastern Provinces are expected to have snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The Department of Meteorology has advised the public to take necessary precautions to reduce the effects of lightning impacts.. Remble
 
 ◼️
 
 [Data](articles/720944e4.json)
 
+[Extended Data](ext_articles/720944e4.ext.json)
+
 ---
 
-### මගී ප්‍රවාහන යාත්‍රාවක් අනතුරට ලක්වී ජීවිත 13ක් අහිමි වෙයි
+### 13 lives lost in accident
 
 *2024-12-19 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204510) · `si`
 
-ඉන්දියාවේ මුම්බායි වෙරළට ඔබ්බෙන් වු මුහුදු ප්‍රදේශයේදී මගී ප්‍රවාහන යාත්‍රාවක එරට නාවික හමුදා බෝට්ටුවක් ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් 13 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary of 200 characters:
+
+
+
+"13 die in India boat crash: A passenger ship sank off the coast, claiming 13 lives in a tragic maritime incident."
+
+🟩
+
+Thirteen persons were killed in a criminal boat accident of a passenger vessel in the sea area of ​​India.
 
 ◼️
 
 [Data](articles/72f4b64e.json)
 
+[Extended Data](ext_articles/72f4b64e.ext.json)
+
 ---
 
-### தரம் குறைந்த புதிய மதுபான போத்தல் அறிமுகம்
+### Introduction of low quality new liquor bottle
 
 *2024-12-19 09:22:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-குறைந்த-புதிய-மதுபான-போத்தல்-அறிமுகம்/175-348941) · `ta`
 
-இலங்கையில் போலி மதுபானம் பரவுவதற்கு மாற்றாக தரம் குறைந்த மதுபான போத்தல் ஒன்றை அறிமுகப்படுத்தியுள்ளதாக கலால் திணைக்கள ஆணையாளர் நாயகம் யூ.எல். உதய குமார பெரேரா தெரிவித்துள்ளார்.
+Sri Lanka introduces low-quality liquor bottles to combat fake alcohol. New bottles to hit markets by April 2024. Illegal liquor caused 30% drop in excise tax revenue. Aim: Protect consumers from counterfeit drinks. Trial measures failed; new approach deemed necessary.
 
-அடுத்த வருடம் ஏப்ரல் மாதத்துக்குள் புதிய மதுபான போத்தல் சந்தைக்கு அறிமுகப்படுத்தப்படும் என ஆணையாளர் நாயகம் தெரிவித்தார்.
+🟩
 
-மேலும், கலால் வரி வருவாய் 30 சதவீதம் குறைந்ததற்கு சட்டவிரோத மதுபானமே காரணம் என்றும், இது தொடர்பாக நடத்தப்பட்ட ஆய்வுகளின் படி உறுதி செய்யப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+The Commissioner General of Excise has introduced a low quality liquor bottle as an alternative to the spread of fake liquor in Sri Lanka.. Udaya Kumara Perera said.
 
-எனவே இந்த போலி மதுபானங்களில் இருந்து மக்களை காப்பாற்றும் வகையில் இந்த புதிய மதுபான போத்தல்களை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+The Commissioner General said that the new liquor bottle market will be introduced by April next year.
 
-தொடர் சோதனைகளால் மாத்திரம் சட்டவிரோத மதுபானங்களில் இருந்து மக்களை காப்பாற்ற முடியாது என கண்டறியப்பட்டுள்ளதாகவும், இந்த சோதனை நடவடிக்கைகளின் போது இந்த புதிய மாற்று மது போத்தல்களை மக்களுக்கு அறிமுகம் செய்ய திட்டமிடப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார். R
+He also said that illegal liquor was the cause of the decline in excise tax revenues by 30 per cent and that it was confirmed according to the study conducted.
+
+He added that steps will be taken to introduce these new liquor bottles to protect people from these fake liquor.
+
+He said that only a series of trials were found to be unable to save people from illegal alcoholic beverages and that this new alternative was to be introduced to the people during these tests.. Remble
 
 ◼️
 
 [Data](articles/de180e2d.json)
+
+[Extended Data](ext_articles/de180e2d.ext.json)
 
 ---
 
@@ -549,6 +597,20 @@ The 65th anniversary celebrations began on the morning of 13 December with a mul
 [Data](articles/e6682275.json)
 
 [Extended Data](ext_articles/e6682275.ext.json)
+
+---
+
+### Flexiprint wins Best Exporter Award together with Merit Award for Manufacturing Category at Western Province Entrepreneur Awards 2024
+
+*2024-12-19 02:56:54* · [`dailyftlk`](https://www.ft.lk/business/Flexiprint-wins-Best-Exporter-Awardtogether-with-Merit-Award-for-Manufacturing-Category-at-Western-Province-Entrepreneur-Awards-2024/34-770712) · `en`
+
+Flexiprint Ltd., the leader in printing tea bag tags, envelopes and pyramid tags attached mesh announced that it has been honoured with the “Best Exporter Award” and the Merit Award for Industry/ Manufacturing sector – Large category 2024 at Western Province Entrepreneur Awards Ceremony awarded by National Enterprise Development Authority together with The National Chamber of Commerce of Sri Lanka that was held at BMICH on 11 December.
+
+This prestigious recognition is given to Flexiprint excelling in their international trade and export performance. This award highlights their outstanding contributions to economic growth, innovation, and the global marketplace. The award recognises Flexiprint’s outstanding performance in international trade, its significant contributions to the global market, and its role in driving economic growth.
+
+...
+
+[Data](articles/eeb8264e.json)
 
 ---
 
@@ -1373,6 +1435,24 @@ The Department of Examination has also introduced telephone numbers and email ad
 [Data](articles/ce2f4212.json)
 
 [Extended Data](ext_articles/ce2f4212.ext.json)
+
+---
+
+### සහල් ටොන් 16000ක් ආනයනය කරලා
+
+*2024-12-18 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ටොන්-16000ක්-ආනයනය-කරලා/11-413730) · `si`
+
+සහල් ආනයනය සඳහා පනවා තිබූ සීමා ලිහිල් කිරීමෙන් පසු ගෙවීගිය  දින 08 කයෙහිදී  සහල් මෙට්‍රික් ටොන්16000 ක් මෙරටට ගෙන්වා තිබේ.
+
+මෙම  සහල් ප්‍රමාණයෙන්  මෙට්‍රික් ටොන්  6000ක්  කැකුළු සහල් ද, ඉතිරි ටොන් 10000 නාඩු සහල්ද වේ.
+
+රජය විසින් පසුගිය 04 වැනි දා සිට සහල් ආනයනය සඳහා අවසර ලබා දීමේ තීරණයක් ගත් අතර පසුගිය 10 වැනි දින සිට මෙරටට සහල් ගෙන්වීම  සිදුකරනු ලබයි.
+
+මේ අනුව 10 වැනි දින සිට ඊයේ (18) සවස 3.00 දක්වා කාලයෙහිදී මෙරටට සහල් මෙට්‍රික් ටොන්  16000ක්  ගෙන්වා තිබෙන බව රේගු දෙපාරමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/4a112e16.json)
 
 ---
 
@@ -2204,6 +2284,20 @@ He added that legal action will be taken against them and complains to the CID r
 
 ---
 
+### Amplifon-Infomate partnership aims to foster the BPM talent pool in Sri Lanka
+
+*2024-12-18 16:05:27* · [`dailyftlk`](https://www.ft.lk/business/Amplifon-Infomate-partnership-aims-to-foster-the-BPM-talent-pool-in-Sri-Lanka/34-770669) · `en`
+
+Amplifon, a global leader in audiology recently announced a strategic partnership with Infomate, one of Sri Lanka’s most experienced shared services and Business Process Management (BPM) as its partner for a range of back-office services.
+
+With the strategic intent to focus on its core operations and access talent globally, Amplifon’s senior management believes that this partnership has many strategic benefits including the opportunity to leverage Sri Lanka’s world class talent pool together with process improvements and cost efficiencies. “Infomate has  expertise in conducting these operations and we selected them as our potential BPM partner because they ticked all the boxes we needed,” said Shehan Thambimuttu, Amplifon’s Director, Corporate Procurement- Australia and New Zealand.
+
+...
+
+[Data](articles/73fee661.json)
+
+---
+
 ### Four killed in vehicle accidents in different parts of the country
 
 *2024-12-18 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201575) · `ta`
@@ -2231,95 +2325,5 @@ The death of an 83 -year -old from Kalpatha, Kalutara.
 [Data](articles/efc204cd.json)
 
 [Extended Data](ext_articles/efc204cd.ext.json)
-
----
-
-### Keheliya’s two bank accounts with Rs. 20 mln balance frozen
-
-*2024-12-18 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104336/keheliyas-two-bank-accounts-with-rs-20-mln-balance-frozen) · `en`
-
-The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has ordered to freeze two current and fixed deposit accounts belonging to former Minister Keheliya Rambukwella for a period of one week.
-
-The combined balance of the two bank accounts in question is around Rs. 20 million.
-
-In accordance with Section 53(1) of the Anti-Corruption Act, No. 09 of 2023, the suspension was ordered to be implemented effective from yesterday (17).
-
-The Bribery Commission intends to seek an extension of the suspension order once it is presented before court.
-
-Previously, the Bribery Commission took action to freeze various assets belonging to the former Health Minister and several of his family members, including his wife, as part of ongoing investigations.
-
-◼️
-
-[Data](articles/19c26d9a.json)
-
-[Extended Data](ext_articles/19c26d9a.ext.json)
-
----
-
-### Namal challenged the Minister of Commerce
-
-*2024-12-18 15:45:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தக-அமைச்சருக்கு-சவால்-விடுத்தார்-நாமல்/175-348912) · `ta`
-
-Namal Rajapaksa challenges Minister over exam claim. He vows to resign if proven alone in exam room. Law college affected by accusations. Samarasinghe asks Namal to clarify exam details.
-
-🟩
-
-SLPP MP Namal Rajapaksa challenges today (18) if he fails to prove that I (Namal) wrote the legislative exam in the AC room alone.
-
-During the parliamentary debate, MP Namal said he would resign from the post of MP if he had proved that he had written the legislative exam in a private room.
-
-Parliamentarian Rajapaksa added, “The law college and the entire legal department are affected by the deliberate accusation.. The time has come for us to avoid such unfounded allegations. ”
-
-Meanwhile, when the final exam of the Law Degree, the MP who went to the exam hall with him. Minister Samarasinghe added that Namal Rajapaksa should clarify.
-
-◼️
-
-[Data](articles/878f871f.json)
-
-[Extended Data](ext_articles/878f871f.ext.json)
-
----
-
-### Sri Lanka Treasuries yields marginally down
-
-*2024-12-18 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-marginally-down-195033/) · `en`
-
-ECONOMYNEXT – Sri Lanka Treasuries yields edged lower across maturities at Wednesday’s auction, with all 185 billion rupees of bills offered being sold, data from the state debt office showed.
-
-The 3 month yield fell 03 basis points to 8.66 percent, with 65 billion rupees rupees sold.
-
-The 6 month yield fell 07 basis points to 8.81 percent, with 75 billion rupees of bills sold.
-
-Te 12-month yield fell 05 basis points to 9.02 percent, with 45 billion rupees of bills sold.
-
-All maturities are offered on tap after the auction. (Colombo/Dec18/2024)
-
-◼️
-
-[Data](articles/a12837c0.json)
-
----
-
-### Verdict on petitions over Grade 5 Scholarship Exam on Dec. 31
-
-*2024-12-18 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104335/verdict-on-petitions-over-grade-5-scholarship-examondec31) · `en`
-
-The Supreme Court announced that the verdict on the fundamental rights petitions filed seeking an order to re-conduct the 2024 Grade 5 Scholarship Examination, will be delivered on December 31, 2024.
-
-This was announced by the Supreme Court after concluding the hearing related to the petitions, which have been filed by filed by a group of students who sat for the examination and their parents.
-
-The petitions were heard before a judge bench comprising Justices Yasantha Kodagoda, Kumudini Wickremasinghe, and Arjuna Obeysekera over a period of three full days.
-
-Accordingly, the presenting of oral submissions of all the attorneys for the petitioning and respondent parties were concluded this evening (18).
-
-Thereafter, it was ordered that if there are any written submission, they be submitted before 9.00 a.m. tomorrow (19).
-
-Accordingly, it was announced that the verdict related to the peitions will be delivered on December 31.
-
-...
-
-[Data](articles/6df30fa7.json)
-
-[Extended Data](ext_articles/6df30fa7.ext.json)
 
 ---

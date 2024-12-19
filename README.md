@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 05:01:19**
+As of **2024-12-20 05:12:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,910 (99.7%) of 61,087 articles have been extended.
+60,912 (99.7%) of 61,087 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1842,25 +1842,31 @@ The leaders will only take leather decision to suppress the drug racket, terrori
 
 ---
 
-### ඔස්ට්‍රේලියාවේදී බිරිඳව ඝාතනය කළ දිනුෂ්ට දීර්ඝ සිරදඬුවමක්
+### A prolonged prison was killed in Australia
 
 *2024-12-19 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204523) · `si`
 
-ඔස්ට්‍රේලියාවේදී සිය දරුවන් ඉදිරියේදී බිරිඳට පොරොවකින් පහරදී ඝාතනය කිරීමේ චෝදනාවට වැරදිකරු වූ ශ්‍රී ලාංකිකයෙක් ට වසර 37ක සිරදඬුවම් නියම කිරීමට එරට අධිකරණයක් තීන්දුකර තිබේ.
+Sri Lankan man sentenced to 37 years for killing wife in Australia. Judge describes case as brutal.
 
-එසේ සිරදඬුවම් නියම කෙරුණේ දිනුෂ් කුරේරා නම් 47 හැවිරිදි පුද්ගලයෙක් ටය.
+🟩
 
-එම කුරිරු ඝාතනය පිළිබඳ තොරතුරු ඊයේ වික්ටෝරියා ප්‍රාන්ත ශ්‍රේෂ්ඨාධිකරණයේදී විස්තර කර තිබුණි.
+A Sri Lankan has been sentenced to 37 years in prison, who was guilty of his children in Australia in Australia.
 
-විනිසුරු අමන්ඩා ෆොක්ස් පැවසුවේ කුරේරා ට සමාව දීමක් සම්බන්ධයෙන් සලකා බැලිය හැක්කේ වසර 30කට පසුව බවයි.
+The 47-year-old man named Beurera was sentenced to Dinush Qurara.
 
-මීට වසර 2කට පමණ පෙර කුරේරා විසින් පොරොවකින් පහරදී සිය බිරිඳ වන නෙලෝමී පෙරේරා ව ඝාතනය කර තිබුණි.
+The Victoria's state was described as the details of the brutal killing yesterday.
 
-සිය සැමියාගෙන් වෙන්වීම සඳහා ඇය සූදානමින් සිටි බව ද අධිකරණයේදී හෙළිවිය.
+Judge Fox said Kosrara was about 30 years after the apology.
+
+Some 2 years ago, Kurara had been assaulted by Kurara, Nelomi Perera.
+
+She was ready to separate from her husband.
 
 ◼️
 
 [Data](articles/2af609fe.json)
+
+[Extended Data](ext_articles/2af609fe.ext.json)
 
 ---
 
@@ -1881,6 +1887,8 @@ Accordingly, the financing will support the construction of 6 new grid substatio
 ...
 
 [Data](articles/f9291673.json)
+
+[Extended Data](ext_articles/f9291673.ext.json)
 
 ---
 

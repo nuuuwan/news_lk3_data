@@ -1,36 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 06:48:38**
+As of **2024-12-19 07:31:14**
 
 ## Newspaper Stats
 
-*Scraped **60,917** Articles*
+*Scraped **60,922** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 619
-bbccomsinhala | 639
+bbccomsinhala | 640
 islandlk | 3,689
 economynextcom | 3,711
 dailyftlk | 4,214
 dailymirrorlk | 4,733
 adalk | 5,808
 adaderanalk | 7,427
-tamilmirrorlk | 8,705
+tamilmirrorlk | 8,706
 virakesarilk | 10,036
-adaderanasinhalalk | 10,518
+adaderanasinhalalk | 10,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,788 (99.8%) of 60,917 articles have been extended.
+60,789 (99.8%) of 60,922 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### ජන හා නිවාස සංගනනය අවසන් - පළමු වාර්තාව මසක් තුළ
+
+*2024-12-19 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204506) · `si`
+
+මෙවර ජන හා නිවාස සංගනනයට අදාළව හිසට වහලක් නොමැති පුද්ගලයින්ගේ තොරතුරු රැස් කිරීමේ කටයුතු ඊයේ (18) දිනයේ සිදුකර තිබේ.
+
+ඊයේ රාත්‍රී 10.00 සිට මධ්‍යම රාත්‍රී 12.00 දක්වා කාලය තුළ එම තොරතුරු රැස් කිරීම් සිදුකෙරුණු බව ජන ලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් අනෝජා සෙනෙවිරත්න මහත්මිය පැවසුවාය.
+
+ඒ අනුව මෙවර සංගනනයේ කටයුතු අවසන් කෙරුණ අතර ඉදිරි දින 05ක කාලය සංගනන කටයුතු යාවත්කාලීන කිරීම සඳහා අවස්ථාව ලබා දී තිබේ.
+
+පසුගිය ඔක්තෝබර් 07 වන දින සිට ‍ජන හා නිවාස සංගනනයේ පුද්ගලයින්ගේ සහ නිවාසවල තොරතුරු රැස්කිරීමේ කටයුතු ආරම්භ කෙරුණි.
+
+මේ දක්වා තොරතුරු ලබාගැනීම සඳහා නිවෙස් වෙත සංගනන නිල‍ධාරී පැමිණ නොමැති නම් ඒ පිළිබඳව 1901 කෙටි දුරකථන අංකය ඔස්සේ දැනුම්දෙන ලෙස ද ජන ලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව ජනතාවට දැනුම්දෙයි.
+
+සංගනන කටයුතු යාවත්කාලීන කිරීමෙන් අනතුරුව මාසයක් ඇතුළත මූලික වාර්තාව නිකුත් කිරීමට කටයුතු කරන බව ජන ලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් අනෝජා සෙනෙවිරත්න මහත්මිය පැවසුවාය.
+
+◼️
+
+[Data](articles/c58cfecd.json)
+
+---
+
+### Hambantota Bangla Tigers qualified to oppose Jevna Titans in the Lanka R10 Super League final
+
+*2024-12-19 07:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201612) · `ta`
+
+Hambantota Bangla Tigers qualify for Lanka R10 Super League final against Jevna Titans on Thursday at Pallekel International Cricket Stadium. They won the second qualifying match by 4 wickets, while Goal Marwals won the first qualifying match. Key performances include Moin Subasinghe's 32 runs, Lahiru Udara and Shakib Al Hasan's 12 runs each, and Dasun Shanaka's 47 runs.
+
+🟩
+
+Hambantota Bangla Tigers qualified to oppose Jevna Titans in the final of the Angarapana Lanka R10 Super League final to be held on Thursday (19) at the Pallekel International Cricket Stadium in Kandy.
+
+Hambantota Bangla Tigers won the match by 4 wickets in the second qualifying match and the Goal Marwals won the first qualifying match and the winning match of the first qualifying match.
+
+The Goal Marwals team, who was first invited to bat first in the upting match, scored 90 runs for the loss of 9 wickets in 10 overs.
+
+The start of the goal Marvels team is not better. The total number was 23 runs when the first 3 players left the field.
+
+However, the next four batsmen got the double -digit number and set the team in honor.
+
+Moin Subasinghe scored 32 runs without losing, Lahiru Udara and Shakib Al Hasan scored 12 runs and Samindu Wickremasinghe 11 runs.
+
+...
+
+[Data](articles/d94199a6.json)
+
+[Extended Data](ext_articles/d94199a6.ext.json)
+
+---
+
+### චීනයෙන් ලබාදෙන සහයෝගයට ජනපතිගෙන් පැසසුම්
+
+*2024-12-19 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204505) · `si`
+
+ණය ප්‍රතිව්‍යුහගතකරණ වැඩපිලිවෙලට සහාය ලබාදීම පිළිබඳව සහ ආර්ථික අර්බුදය හමුවේ ශ්‍රී ලංකාවට ණය ලබාදීම පිළිබඳව චීන රජයට ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය කෘතඥතාව පළ කර තිබේ.
+
+මෙරට ආපදා තත්ත්වයන්වල දී ආධාර ලබාදීම මෙන්ම පාසල් දරුවන්ට නිල ඇදුම් ලබාදීම පිළිබඳව ද ජනාධිපතිවරයා චීන රජයට සිය ස්තූතිය පළ කර ඇති බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+චීන මහජන දේශපාලන උපදේශන සම්මේලනයේ ජාතික කමිටුවේ උප සභාපතිනි කිං බොයොං මහත්මිය හමුවූ අවස්ථාවේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කර තිබේ.
+
+චීනය සහ ශ්‍රී ලංකාව අතර පවතින දිගුකාලීන සබඳතා තවදුරටත් ශක්තිමත් කරමින් නව රජය සමග ඉදිරියට කටයුතු කිරීමට බලාපොරොත්තු වන බව කිං බොයොං මහත්මිය මෙහිදි ප්‍රකාශ කර ඇති බව සඳහන්ය.
+
+අතර මඟ නතර වී ඇති මධ්‍යම අධිවේගී මාර්ගයේ චීනයට අයත් කොටස අවසන් කළ යුතු බව පෙන්වාදුන් ජනාධිපති අනුර කුමාර දිසානායක මහතා කොළඹ වරාය නගරය සහ හම්බන්තොට දිස්ත්‍රික්කය කේන්ද්‍ර කරගනිමින් ක්‍රියාත්මක කෙරෙන සැපයුම් මධ්‍යස්ථානය සහ ආයතනික ව්‍යාපෘති කඩිනමින් ආරම්භ කිරීමට බලාපොරොත්තු වන බව ද ප්‍රකාශ කර තිබේ.
+
+...
+
+[Data](articles/849ca0d5.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-12-19 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204503) · `si`
+
+උතුරු, වයඹ සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශ ආශ්‍රිතව පවතින අඩුපීඩන කලාපය තවදුරටත් වයඹ දෙසට ගමන් කරමින් ඉදිරි දින දෙක තුළදී, උතුරු තමිල්නාඩු සහ දකුණු අන්ද්‍රා ප්‍රදේශ වෙරළ දෙසට ගමන් කිරීමේ හැකියාවක් පවතී.
+
+උතුරු, උතුරුමැද, මධ්‍යම, සබරගමුව සහ නැගෙනහිර පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/d0f6d045.json)
+
+---
 
 ### President appreciates China for debt support, eyes strengthening bilateral ties
 
@@ -143,6 +233,24 @@ The celebration was graced by Board of Investment Chairman Arjuna Herath and Al 
 [Data](articles/2bb0b589.json)
 
 [Extended Data](ext_articles/2bb0b589.ext.json)
+
+---
+
+### மணல் கடத்திய வாகனம் மீது துப்பாக்கிச் சூடு
+
+*2024-12-19 03:16:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மணல்-கடத்திய-வாகனம்-மீது-துப்பாக்கிச்-சூடு/175-348939) · `ta`
+
+மணல் கடத்திய டிப்பர் வாகனம் ஒன்றைப் பொலிஸார் துப்பாக்கிப்  பிரயோகம் மேற்கொண்டு கைப்பற்றியுள்ளனர்.
+
+நேற்று புதன்கிழமை யாழ். வடமராட்சி, வல்லிபுரம் பகுதியில் சட்டவிரோத முறையில் மணல் அகழ்ந்து கொண்டு தப்பிச் சென்ற டிப்பர் வாகனத்தைப்  பருத்தித்துறை பொலிஸார் வல்லிபுரம் - ஆனைவிழுந்தன் வீதியில் வைத்து நிறுத்துமாறு பொலிஸார் கோரியபோது அது தப்பியோட முற்பட்டது. இதன்போது பொலிஸார் துப்பாக்கிப் பிரயோகம் நடத்தி அதைக் கைப்பற்றினர்.
+
+கடத்தக்காரர்கள் தப்பித்த நிலையில், டிப்பர் வாகனம் பருத்தித்துறை பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளது.
+
+இந்தச் சம்பவம் தொடர்பில் பருத்தித்துறைப் பொலிஸார் மேலதிக விசாரணை மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/8adb2a76.json)
 
 ---
 
@@ -268,17 +376,27 @@ The Christmas season is a special time filled with joy, excitement, and giving. 
 
 ---
 
-### அதிவேக நெடுஞ்சாலையில் சாரதிகள் அவதானம்
+### Absolutely on the highway drivers
 
 *2024-12-19 02:19:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-சாரதிகள்-அவதானம்/175-348938) · `ta`
 
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் அதிவேக நெடுஞ்சாலைகளில் ஏற்பட்ட விபத்துகளில் 16 பேர் உயிரிழந்துள்ளனர் என பொலிஸ் பேச்சாளர் சிரேஷ்ட பொலிஸ்  அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-அதிவேக நெடுஞ்சாலையில் வாகனத்தைச் செலுத்தும் போது வீதி விதிகளை மீறிச் செயற்பட வேண்டாம் எனவும் அவர் தெரிவித்துள்ளார்.  (a)
+
+
+Highway accidents claim 16 lives this year. Police warn against violating traffic rules while driving on highways.
+
+🟩
+
+Police spokesman Senior Superintendent of Police Buddhika Manatunga said that 16 people were killed in accidents on highways during this year.
+
+He said that when driving on the highway, the road should not be violated.(a)
 
 ◼️
 
 [Data](articles/9afb0449.json)
+
+[Extended Data](ext_articles/9afb0449.ext.json)
 
 ---
 
@@ -301,6 +419,30 @@ The Gazette Notification has been issued with the signature of the Minister of F
 [Data](articles/8cb0cc74.json)
 
 [Extended Data](ext_articles/8cb0cc74.ext.json)
+
+---
+
+### ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
+
+*2024-12-19 01:32:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c70e7vyxqqeo) · `si`
+
+ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
+
+ජනාධිපති අරමුදලින් මුදල් ලබා ගත් මැති ඇමැතිවරුන් මෙන්ම දේශපාලනයට සම්බන්ධ පිරිස්වල ලැයිස්තුවක් පාර්ලිමේන්තුවේදී හෙළි කිරිමත් සමග ජනාධිපති අරමුදල අවභාවිත කිරිම ගැන කතා බහක් සමාජය තුළ නිර්මාණය වී තිබේ.
+
+සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස විසින් දෙසැම්බර් 17 වැනි දා ජනාධිපති අරමුදල හරහා ලක්ෂ ගණනින් මුදල් ලබා ගත්තා යැයි කියන වත්මන් පාර්ලිමේන්තුවේ මන්ත්‍රීවරුන් මෙන්ම හිටපු මැති ඇමැතිවරුන්ගේ නම් ලැයිස්තුවක් පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබීය.
+
+ජනාධිපති අරමුදල යනු කුමක් ද? ඉන් අරමුදල් ලබා ගත හැකි අය කවුරුන් ද යන්න බීබීසී සිංහල සේවය සොයා බැලුවේය.
+
+හිටපු ජනාධිපති ජේ. ආර්. ජයවර්ධනගේ ධූර කාලය තුළ පරිත්‍යාගශීලීන්ගේ මුල්‍යමය දායකත්වයෙන් රු.237,120 ක මූලික ප්‍රාග්ධනයකින් ජනාධිපති අරමුදල ආරම්භ කර කිබේ.
+
+එම අරමුදල 1978 අංක 7 දරන පනතින් මෙරට පාර්ලිමේන්තුවේ සම්මත වු ආයතනයක් ලෙස පිහිටුවා ඇත.
+
+මෙය ජනාධිපතිවරයාගේ අරමුදල නමින් හඳුන්වනු ලබන අතර එය කළමනාකරණය කරමින් පනතේ විධිවිධානයන්ට අනුව ක්‍රියාකිරීමේ බලය, ධූරය දරන ජනාධිපතිවරයා හට පැවරේ.
+
+...
+
+[Data](articles/3fa67a37.json)
 
 ---
 
@@ -363,34 +505,6 @@ He thanked India fulsomely for its economic support, arrived at convergence on a
 ---
 
 ### 2024-12-18 (Wednesday)
-
-### Hambantota Bangla Tigers qualified to oppose Jevna Titans in the Lanka R10 Super League final
-
-*2024-12-18 23:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/201612) · `ta`
-
-Hambantota Bangla Tigers qualify for Lanka R10 Super League final against Jevna Titans on Thursday at Pallekel International Cricket Stadium. They won the second qualifying match by 4 wickets, while Goal Marwals won the first qualifying match. Key performances include Moin Subasinghe's 32 runs, Lahiru Udara and Shakib Al Hasan's 12 runs each, and Dasun Shanaka's 47 runs.
-
-🟩
-
-Hambantota Bangla Tigers qualified to oppose Jevna Titans in the final of the Angarapana Lanka R10 Super League final to be held on Thursday (19) at the Pallekel International Cricket Stadium in Kandy.
-
-Hambantota Bangla Tigers won the match by 4 wickets in the second qualifying match and the Goal Marwals won the first qualifying match and the winning match of the first qualifying match.
-
-The Goal Marwals team, who was first invited to bat first in the upting match, scored 90 runs for the loss of 9 wickets in 10 overs.
-
-The start of the goal Marvels team is not better. The total number was 23 runs when the first 3 players left the field.
-
-However, the next four batsmen got the double -digit number and set the team in honor.
-
-Moin Subasinghe scored 32 runs without losing, Lahiru Udara and Shakib Al Hasan scored 12 runs and Samindu Wickremasinghe 11 runs.
-
-...
-
-[Data](articles/d94199a6.json)
-
-[Extended Data](ext_articles/d94199a6.ext.json)
-
----
 
 ### Free Visa for 39 countries
 
@@ -2243,127 +2357,5 @@ The President said the tax on service exports would be implemented at a 15 per c
 [Data](articles/fd262bd6.json)
 
 [Extended Data](ext_articles/fd262bd6.ext.json)
-
----
-
-### Keheliya's two more bank accounts suspended
-
-*2024-12-18 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204489) · `si`
-
-Keheliya Rambukwella's 2 bank accounts suspended: 200L balance under anti-corruption law. Commission may extend if case goes to court.
-
-🟩
-
-The Commission of Bribery or Corruption Commission has ordered the suspension of two mobile and fixed deposit accounts of former Health Minister Keheliya Rambukwella for a week.
-
-The sum of the balances of the two accounts is Rs. 200 lakhs.
-
-Section 53 (1) of the anti-corruption Act, No. 9 of the anti-Corruption Act, No. 53 (17) has been suspended.
-
-The Commission is expected to extend the suspension of the suspension after being produced in court.
-
-The Commission has taken the Bribery or Corruption Commission to suspend a number of assets of the former Minister of Health and his wife in several occasions.
-
-◼️
-
-[Data](articles/d82239dd.json)
-
-[Extended Data](ext_articles/d82239dd.ext.json)
-
----
-
-### 79 -year -old elderly
-
-*2024-12-18 13:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-தேடி-விளம்பரம்-செய்த-79-வயதான-முதியவர்/175-348905) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-79-year-old widower seeks bride via newspaper ad, uses crutches due to knee pain. Father of five children, twice married. Aims to find loving partner despite family objections.
-
-🟩
-
-News about the 79 -year -old man who went to the press advertising office with the help of a crutch to find a woman after publishing a wedding advertisement in a newspaper has been reported in Mawanella area.
-
-A 79 -year -old man, the father of five children, went to the newspaper advertising office to publish a wedding advertisement.
-
-The father of five children was first married to a woman and had three children.
-
-Later, a long day ago, the childless widow brought home and the family carried her with her.  தனது இரண்டாவது மனைவி மூலம் இரண்டு குழந்தைகளைப் பெற்றெடுத்தார், அவருக்கு மொத்தம் ஐந்து குழந்தைகள் உள்ளனர்.
-
-Currently, five children are married and live in separate houses and only elderly couples live in the main house.. Five children often take care of their parents' grief and happiness and adjust their shortcomings.
-
-...
-
-[Data](articles/b3867972.json)
-
-[Extended Data](ext_articles/b3867972.ext.json)
-
----
-
-### Import of vehicles from February will be allowed
-
-*2024-12-18 13:03:17* · [`adalk`](https://www.ada.lk/breaking_news/පෙබරවාරියේ-සිට-වාහන-ආනයනයට-අවසර-ලැබෙයි/11-413712) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Car imports resume Feb 18: President Anura Kumara Dissanayake announces private vehicle imports will restart on February 18 after discussions with the Central Bank.
-
-🟩
-
-President Anura Kumara Dissanayake said in parliament today that the importation of cars for private use has been proposed to be implemented on February 18.
-
-The President added that after a lengthy discussion with the Central Bank, the President added.
-
-◼️
-
-[Data](articles/0bfb9cf7.json)
-
-[Extended Data](ext_articles/0bfb9cf7.ext.json)
-
----
-
-### Sri Lanka to allow vehicle imports from February 2025
-
-*2024-12-18 13:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104333/sri-lanka-to-allow-vehicle-imports-from-february-2025-) · `en`
-
-President Anura Kumara Dissanayake has announced that the government has decided to allow the import of vehicles for personal use, with effect from February 01, 2025.
-
-He revealed this while delivering a special statement during the parliamentary session today (18).
-
-He stated that the import restrictions on personal-use vehicles are proposed to be lifted starting February 01, 2025, while the import restrictions on passenger buses and special-purpose vehicles has already been lifted as of December 14, 2024.
-
-The then government of Sri Lanka had decided to suspend vehicle imports in 2021 due to the economic crisis triggered by the Covid-19 pandemic.
-
-As the severe economic crisis continued to persist, authorities decided to further continue with the restrictions on vehicle imports. Meanwhile, in June 2024, the Ministry of Finance had announced a plan to gradually lift the restrictions by 2025.
-
-◼️
-
-[Data](articles/c8134b52.json)
-
-[Extended Data](ext_articles/c8134b52.ext.json)
-
----
-
-### Harsha de Silva appointed as the Chairman of the Committee on Government Fund
-
-*2024-12-18 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201556) · `ta`
-
-Harsha de Silva named Chairman of Government Fund Committee. Members: Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon, Lakmali Hemachandra.
-
-🟩
-
-United People's Power Member Harsha de Silva has been appointed as the Chairman of the Government Fund Committee.
-
-The other members of the group have been appointed as Harshana Suriyaparuma, Ravi Karunanayake, Harshana Rajakaruna, Nimal Balihena, Wijesiri Basnayake, Thilina Samarakoon and Lakmali Hemachandra.
-
-◼️
-
-[Data](articles/06833c0a.json)
-
-[Extended Data](ext_articles/06833c0a.ext.json)
 
 ---

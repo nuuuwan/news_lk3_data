@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 19:18:28**
+As of **2024-12-19 19:44:06**
 
 ## Newspaper Stats
 
-*Scraped **61,046** Articles*
+*Scraped **61,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,824
 adaderanalk | 7,444
-tamilmirrorlk | 8,730
+tamilmirrorlk | 8,732
 virakesarilk | 10,068
 adaderanasinhalalk | 10,544
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,855 (99.7%) of 61,046 articles have been extended.
+60,858 (99.7%) of 61,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Cardinal comment on 21/4 attack investigations
+
+*2024-12-19 19:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதல்-விசாரணைகள்-குறித்து-கர்தினால்-கருத்து/175-348975) · `ta`
+
+Cardinal Malcolm Ranjith: Government investigating Easter Sunday blasts progress shared periodically. New inquiry planned at St. Sebastian Church. Confident criminals will face justice.
+
+🟩
+
+Archbishop of Colombo Cardinal Malcolm Ranjith said that the current government is hoping to establish justice by uncovering the truth to the victims of the Easter Sunday blast.
+
+Responding to questions raised by journalists, Cardinal said, "The government periodically tells us about the progress of the investigation."
+
+“There seems to be an open investigation into the government's assassination. This is clear from the conversations they held with us about the progress of the investigation, ”he emphasized.
+
+“So we are confident that the criminals will be put before the law,” he reiterated.
+
+President Anura Kumara Dissanayake visited the St. Sebastian Church in Katuwapitiya after taking office, where a new inquiry would be held on Easter Sunday bombings.
+
+◼️
+
+[Data](articles/28fadde1.json)
+
+[Extended Data](ext_articles/28fadde1.ext.json)
+
+---
+
+### Crash accident
+
+*2024-12-19 19:07:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழலொறி-கவிழ்ந்து-விபத்து/175-348974) · `ta`
+
+Lorry carrying fruits crashes on Colombo-Kandi expressway. Vehicle collapses near 39th km mark. No injuries reported. Fruits spill onto road. Incident occurred on Thursday evening.
+
+🟩
+
+A lorry carrying fruits near the 39th kilometer stone of the Colombo -Kandi Central Expressway collapsed on Thursday evening, the Meerigama Highway Police said.
+
+The lorry that traveled from Kurunegala to Meerigama. Thus, fruits are scattered across the street. However, there was no danger to the passengers, police said.
+
+◼️
+
+[Data](articles/832373dc.json)
+
+[Extended Data](ext_articles/832373dc.ext.json)
+
+---
 
 ### Will the theft money be brought back to Sri Lanka?
 
@@ -90,17 +136,27 @@ The film's music launch was held in Chennai on the 27th of this month.. Former U
 
 ---
 
-### ஜெயம் ரவி நடிக்கும் 'காதலிக்க நேரமில்லை' படத்தின் புதிய பாடல் வெளியீடு
+### Jaime Ravi's new song release
 
 *2024-12-19 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201688) · `ta`
 
-தமிழில் முன்னணி நட்சத்திர நடிகரான ஜெயம் ரவி நடிப்பில் தயாராகி இருக்கும் 'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தில் இடம்பெற்ற 'லாவெண்டர் நேரமே..' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of 200 characters:
 
-இயக்குநர் கிருத்திகா உதயநிதி இயக்கத்தில் உருவாகி வரும் 'காதலிக்க நேரமில்லை ' எனும் திரைப்படத்தில் ஜெயம் ரவி , நித்யா மேனன் , யோகி பாபு, வினய் ராய்,  டி. ஜே. பானு, ஜான் கொக்கன், லால் ,லக்ஷ்மி ராமகிருஷ்ணன், மனோ, வினோதினி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கேவ்மிக் ஆரே ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசைப்புயல்' ஏ .ஆர். ரஹ்மான் இசையமைத்திருக்கிறார். காதலை மையப்படுத்திய இந்த திரைப்படத்தை ரெட் ஜெயன்ட் மூவிஸ் நிறுவனம் தயாரித்திருக்கிறது.
+
+
+"Lavender Time" song from "Kadikaikkam Time" movie featuring Jayam Ravi, Nithya Menon. Music by A.R. Rahman. Lyrics by Masuk Raghuman. Sung by Alexandra Joy. Attracted young fans with its romantic melody.
+
+🟩
+
+The song 'Lavender Time ..' has been released in the movie 'Kadikaikkam Time', which is ready to star in Tamil, starring star actor Jayam Ravi and the lyrics for the song.
+
+Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, D.. J.. Banu, John Kokan, Lal, Lakshmi Ramakrishnan, Mano, Vinodini and many others have been cast. The film, which has been cinematographed by Cavemic Are, 'ARR'. Rahman has composed the music. The film is centered on the romantic film, produced by Red Giant Movies.
 
 ...
 
 [Data](articles/3be1b7b0.json)
+
+[Extended Data](ext_articles/3be1b7b0.ext.json)
 
 ---
 
@@ -2231,47 +2287,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The Depa
 [Data](articles/720944e4.json)
 
 [Extended Data](ext_articles/720944e4.ext.json)
-
----
-
-### Sri Lanka opposition pleads for cut in 40-pct rice tax
-
-*2024-12-19 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-pleads-to-cut-40-pct-food-tax-as-price-controls-trigger-shortages-195070/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s opposition legislators pleaded with the government to cut a 40 percent food tax on rice amid a rise in rice consumption that pushed up prices amid import controls, but has since turned into shortages due to enforcement of price controls.
-
-The state allowed rice to be imported till December 2024 in a small concession to the public who have been battered by a currency collapse from flexible inflation targeting, but did not remove the food tax.
-
-Food taxes are imposed at high levels in Sri Lanka to protect producer lobbies keep food prices above global levels and operate an autarky (self-sufficiency)
-
-“Importers have to pay on average about 150 rupees kilo to Indian suppliers,” opposition legislator Mujiber Rahuman said.
-
-“You are slapping 65 rupees at the port as tax. By the time the rice comes out of the port the price is 215 rupees. There is a price control of 220 rupees.
-
-...
-
-[Data](articles/de55e142.json)
-
----
-
-### 13 lives lost in accident
-
-*2024-12-19 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204510) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"13 die in India boat crash: A passenger ship sank off the coast, claiming 13 lives in a tragic maritime incident."
-
-🟩
-
-Thirteen persons were killed in a criminal boat accident of a passenger vessel in the sea area of ​​India.
-
-◼️
-
-[Data](articles/72f4b64e.json)
-
-[Extended Data](ext_articles/72f4b64e.ext.json)
 
 ---

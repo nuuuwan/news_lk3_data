@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 21:27:08**
+As of **2024-12-19 21:43:14**
 
 ## Newspaper Stats
 
-*Scraped **61,054** Articles*
+*Scraped **61,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,689
 economynextcom | 3,716
 dailyftlk | 4,217
 dailymirrorlk | 4,733
-adalk | 5,826
+adalk | 5,827
 adaderanalk | 7,444
-tamilmirrorlk | 8,733
+tamilmirrorlk | 8,735
 virakesarilk | 10,070
 adaderanasinhalalk | 10,544
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,865 (99.7%) of 61,054 articles have been extended.
+60,865 (99.7%) of 61,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### கருணா CID-யில் வாக்குமூலம்
+
+*2024-12-19 21:32:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கருணா-CID-யில்-வாக்குமூலம்/175-348979) · `ta`
+
+கிழக்கு பல்கலைக்கழக முன்னாள் உபவேந்தர் சுப்பிரமணியம் ரவீந்திரநாத் கடந்த 2006ம் ஆண்டு கடத்தப்பட்டு காணாமல் ஆக்கப்பட்டமை தொடர்பில் வாக்குமூலம் வழங்குவதற்காக கருணா அம்மான் என்றழைக்கப்படும் முன்னாள் பிரதி அமைச்சர் விநாயகமூர்த்தி முரளிதரன் இன்று (19) குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகியிருந்தார்.
+
+கடந்த 2006ஆம் ஆண்டு டிசம்பர் மாதம் 15ஆம் திகதி கிழக்கு பல்கலைக்கழக முன்னாள் உபவேந்தர், கொழும்பில் இலங்கை விஞ்ஞான முன்னேற்றச் சங்கம் கூட்டத்தில் கலந்து கொண்டு பின்னர் மட்டக்களப்பு நோக்கி திரும்பிக் கொண்டிருந்த போது, இனம் தெரியாத ஆயததாரிகளால் கடத்தப்பட்டு காணாமல் ஆக்கப்பட்டார்.
+
+இந்த சம்பவம் தொடர்பாக குற்றப்புலனாய்வு திணைக்களத்தினர் விசாரணைகளை மேற்கொண்டுவரும் நிலையில், கருணா இன்று கொழும்பிலுள்ள குற்றப்புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டிருந்தார்.
+
+வாக்குமூலம் வழங்கியதன் பின்னர்  ஊடகங்களுக்கு கருத்து தெரிவித்த கருணா அம்மான், தன்னிடம் உபவேந்தர் கடத்தப்பட்டு காணாமல் ஆக்கப்பட்ட விசாரணைகளுக்கு அமைய வாக்குமூலம் பெறப்பட்டதாக தெரிவித்தார்.  R
+
+◼️
+
+[Data](articles/803fd7bd.json)
+
+---
+
+### ரயில் சேவையில் பாதிப்பு
+
+*2024-12-19 21:22:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவையில்-பாதிப்பு/175-348978) · `ta`
+
+ரம்புக்கனையில் ரயில் ஒன்று தடம்புரண்டதால் மலையக ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு நிலையம் அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/0998d59a.json)
+
+---
 
 ### Risk of attacking the north of the north
 
@@ -531,6 +561,24 @@ Doctor. Upali Pannilake is an official of the Public Corporation, he is not elig
 ...
 
 [Data](articles/3a36dc51.json)
+
+---
+
+### හිටපු ජනපති රනිල්ගේ ආරක්ෂාවට මිලියන 82ක් වැයවූ කථාව අසත්‍යලු
+
+*2024-12-19 17:22:26* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්ගේ-ආරක්ෂාවට-මිලියන-82ක්-වැයවූ-කථාව-අසත්‍යලු/11-413746) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරක්ෂක වියදම් වෙනුවෙන් ඉකුත් මාස එකොළහකට රුපියල් මිලියන 82ක් වැය වූ බවට කෙරුණු ප්‍රකාශ සත්‍යයෙන් තොර බව  ඒ මහතාගේ කාර්යාලය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+හිටපු ජනපතිවරයා වෙනුවෙන් අමතර වියදම්  වැය කෙරුණේ වාහන සහ ඉන්ධන සඳහා පමණක් බවත් එය සැලකිය යුතු මුදලක් නොවන බවත් පෙන්වා දෙයි.
+
+වැඩිම මුදලක් වැය වන්නේ රජයේ සේවකයන් වන ආරක්ෂක නිලධාරීන්ගේ වේතන සඳහා බවත් ඔවුන් කුමන තැනක රාජකාරී කළත් ආරක්ෂක නිලධාරීන්ට හිමි වැටුප ගෙවිය යුතු බවත් සඳහන් කරයි.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරක්ෂක වියදම් සඳහා රුපියල් මිලියන 82ක් ඉකුත් මාස එකොළහේදී වැය වූ බවට ගණන් හදා ඇත්තේ ආරක්ෂක නිලධාරීන්ට ගෙවන ලද වැටුප ද සමග බවත් එම ගණනය කිරීම වැරදි බවත් එම නිසා ප්‍රකාශ කෙරුණු ගණන් හිලව් නිවැරදි නොවන බවත් නිවේදනයෙන් පෙන්වා දෙයි
+
+◼️
+
+[Data](articles/8306ff3c.json)
 
 ---
 
@@ -2289,65 +2337,5 @@ The Colombo Municipal Council, the former member of the Colombo Municipal Counci
 [Data](articles/7f69f84c.json)
 
 [Extended Data](ext_articles/7f69f84c.ext.json)
-
----
-
-### තානායම තුළ දී පොලිස් කොස්තාපල්ට මාරාන්තික ප්‍රහාරයක්
-
-*2024-12-19 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204511) · `si`
-
-හොරණ තානායම තුළ දී පුද්ගලයෙකු විසින් පොලිස් කොස්තාපල්වරයෙකුට හිස් මත්පැන් බෝතලයක් කඩා ප්‍රහාරයක් එල්ල කර තිබේ.
-
-අප වාර්තාකරු පැවසුවේ, අදාළ ප්‍රහාරයෙන් තුවාල ලැබු පොලිස් නිලධාරියා හොරණ දිස්ත්‍රික් රෝහලට ඇතුළත් කර බවය.
-
-මෙසේ තුවාල ලබා ඇත්තේ, මොරගහහේන පොලීසියට අනුයුක්තව රාජකාරියේ යෙදෙන පොලිස් කොස්තාපල්වරයෙකු බව පොලීසිය පැවසීය.
-
-ඊයේ (18) රාත්‍රියේ තුවාල ලැබූ පොලිස් කොස්තාපල්වරයා සේවය අවසන් වීමෙන් පසු හොරණ තානායම වෙත පැමිණ ඇති අතර ඔහු මත්පැන් ස්වල්පයක් පානය කරන විට එහි සිටි පුද්ගලයෙකු සමග බහින්බස්වීමත් සිදුව ඇත.
-
-ඉන් අනතුරුව පොලිස් සැරයන්වරයා එම ස්ථානයෙන් පිටවී යනවාත් සමග ම සැකකරු මෙම ප්‍රහාරය එල්ල කර තිබේ.
-
-ප්‍රහාරයෙන් පොලිස් කොස්තාපල්වරයාගේ මුහුණට, හිසට සහ එක් අතකට තුවාල සිදුව ඇත.
-
-සැකකරුව ඊයේ රාත්‍රියේම හොරණ පොලීසිය මඟින් අත්අඩංගුවට ගෙන ඇති අතර අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/853cf8b3.json)
-
----
-
-### Sri Lanka rupee depreciates to 292.70/293.00 to US dollar, bonds up
-
-*2024-12-19 10:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-to-292-70-293-00-to-us-dollar-bonds-up-195081/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated steeply to 292.70/293.00 to the US dollar in the spot market, from 291.25/50 to the US dollar the previous day, while bond yields were up, dealers said.
-
-Analysts had warned that if excess liquidity was allowed to build up, including from acquisition of dollars, the currency will weaken when they are used for imports as domestic prices are pushed up from higher demand.
-
-If domestic demand and credit is pushed up from liquidity from central bank dollar rupee swaps the same consequence will happen as there was no commitment to defend the currency against excess liquidity under a so-called flexible exchange rate.
-
-Flexible exchange rates, coupled with money printed to reach high cost of living targets, have triggered social unrest and also sovereign default in reserve collecting central banks.
-
-A bond maturing on 15.09.2027 was quoted at 9.75/80 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.10/15 percent.
-
-...
-
-[Data](articles/72a3246b.json)
-
----
-
-### මෝටර් වාහන ආනයනයට අදාළ රෙගුලාසි නිකුත් කරයි
-
-*2024-12-19 09:57:55* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-වාහන-ආනයනයට-අදාළ-රෙගුලාසි-නිකුත්-කරයි/11-413734) · `si`
-
-රජය විසින් මෝටර් වාහන ආනයන ඳසහා වූ තාවකාලික අත්හිටුවිම ඉවත් කිරිමත් සමගින් මෝටර් වාහන ආනයනයට අදාළ රෙගුලාසි
-
-මුදල්,ක්‍රමසම්පාදන හා ආර්ථික සංවර්ධන අමාත්‍යාංශය විසින් නිකුත් කර තිබේ. මෙම රෙගුලාසි වාහන ගෙන්විමට අදාළව පළමු අදියරට අදාළ වෙයි.
-
-◼️
-
-[Data](articles/40a94ad6.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 09:30:16**
+As of **2024-12-19 09:43:41**
 
 ## Newspaper Stats
 
-*Scraped **60,928** Articles*
+*Scraped **60,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,128 @@ economynextcom | 3,711
 dailyftlk | 4,214
 dailymirrorlk | 4,733
 adalk | 5,811
-adaderanalk | 7,427
-tamilmirrorlk | 8,706
-virakesarilk | 10,036
-adaderanasinhalalk | 10,524
+adaderanalk | 7,429
+tamilmirrorlk | 8,708
+virakesarilk | 10,039
+adaderanasinhalalk | 10,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,798 (99.8%) of 60,928 articles have been extended.
+60,799 (99.8%) of 60,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### அடுத்த 2 நாட்களில் வானிலையில் மாற்றம்
+
+*2024-12-19 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-2-நாட்களில்-வானிலையில்-மாற்றம்/175-348942) · `ta`
+
+தென்மேற்கு வங்காள விரிகுடா கடற்பரப்புகளுக்கு மேலாக விருத்தியடைந்த குறைந்த அழுத்தப் பிரதேசம் மேலும் வடமேற்கு திசையில் நகர்ந்து அடுத்த 2 நாட்களில் வட தமிழகம் மற்றும் தெற்கு ஆந்திரா கடற்கரையை நோக்கி  நகர வாய்ப்புள்ளதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+வடக்கு, வடமேல் மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சிறிதளவு மழை பெய்யக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் மாலை அல்லது இரவு நேரங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+வடக்கு, வடமத்திய, மத்திய, சப்ரகமுவ மற்றும் கிழக்கு மாகாணங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொதுமக்களை அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/720944e4.json)
+
+---
+
+### මගී ප්‍රවාහන යාත්‍රාවක් අනතුරට ලක්වී ජීවිත 13ක් අහිමි වෙයි
+
+*2024-12-19 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204510) · `si`
+
+ඉන්දියාවේ මුම්බායි වෙරළට ඔබ්බෙන් වු මුහුදු ප්‍රදේශයේදී මගී ප්‍රවාහන යාත්‍රාවක එරට නාවික හමුදා බෝට්ටුවක් ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයින් 13 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/72f4b64e.json)
+
+---
+
+### தரம் குறைந்த புதிய மதுபான போத்தல் அறிமுகம்
+
+*2024-12-19 09:22:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-குறைந்த-புதிய-மதுபான-போத்தல்-அறிமுகம்/175-348941) · `ta`
+
+இலங்கையில் போலி மதுபானம் பரவுவதற்கு மாற்றாக தரம் குறைந்த மதுபான போத்தல் ஒன்றை அறிமுகப்படுத்தியுள்ளதாக கலால் திணைக்கள ஆணையாளர் நாயகம் யூ.எல். உதய குமார பெரேரா தெரிவித்துள்ளார்.
+
+அடுத்த வருடம் ஏப்ரல் மாதத்துக்குள் புதிய மதுபான போத்தல் சந்தைக்கு அறிமுகப்படுத்தப்படும் என ஆணையாளர் நாயகம் தெரிவித்தார்.
+
+மேலும், கலால் வரி வருவாய் 30 சதவீதம் குறைந்ததற்கு சட்டவிரோத மதுபானமே காரணம் என்றும், இது தொடர்பாக நடத்தப்பட்ட ஆய்வுகளின் படி உறுதி செய்யப்பட்டுள்ளதாகவும் அவர் கூறினார்.
+
+எனவே இந்த போலி மதுபானங்களில் இருந்து மக்களை காப்பாற்றும் வகையில் இந்த புதிய மதுபான போத்தல்களை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+தொடர் சோதனைகளால் மாத்திரம் சட்டவிரோத மதுபானங்களில் இருந்து மக்களை காப்பாற்ற முடியாது என கண்டறியப்பட்டுள்ளதாகவும், இந்த சோதனை நடவடிக்கைகளின் போது இந்த புதிய மாற்று மது போத்தல்களை மக்களுக்கு அறிமுகம் செய்ய திட்டமிடப்பட்டுள்ளதாகவும் அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/de180e2d.json)
+
+---
+
+### பொரளையிலுள்ள இந்துக்களின் தகனசாலை நவீனமயப்படுத்தப்படும் : லயன் மனோகரனிடம் கொழும்பு மாநகர சபையின் பிரதான வைத்திய அதிகாரி உறுதி
+
+*2024-12-19 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201618) · `ta`
+
+கொழும்பு மாநகர சபையினால் பராமரிக்கப்படும் பொரளையில் உள்ள இந்து மக்களின் உடல்களை தகனம் செய்யும் தகனசாலையை மீள நிர்மாணித்து நவீனமயப்படுத்தப்படுமென கொழும்பு மாநகர சபையின் பிரதான வைத்திய அதிகாரி கீர்த்திகா ரட்ணவர்தன உறுதியளித்தார்.
+
+கொழும்பு மாநகர சபைக்கு சொந்தமான பொரளை கனத்தையிலுள்ள இந்து மக்களின் இறந்த உடல்களை தகனம் செய்யும் தகனசாலைப் பகுதி பராமரிப்பின்றி காணப்படுவதாக வீரகேசரி பத்திரிகையில் அண்மையில் செய்தியொன்று வெளியாகியிருந்தது.
+
+கொழும்பு மாநகர சபையின் முன்னாள் உறுப்பினரான சிதம்பரம்பிள்ளை லயன் மனோகரன் குறித்த செய்தி தொடர்பில், கொழும்பு மாநகர சபையின் பிரதான வைத்திய அதிகாரி கீர்த்திகா ரட்ணவர்தனவுக்கு தெரியப்படுத்தியதுடன்  கலந்துரையாடலை மேற்கொண்டுள்ளார்.
+
+...
+
+[Data](articles/7f69f84c.json)
+
+---
+
+### ஹம்பாந்தோட்டை முதலீட்டு வலயத்தில் சீன நிறுவனங்களை அமைத்து உலகளவில் இலங்கைக்கு சிறந்த பிரவேசத்தை ஏற்படுத்துவோம் - ஜனதிபதியிடம் சீன அதிகாரி கின் பொயோங் தெரிவிப்பு
+
+*2024-12-19 09:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201617) · `ta`
+
+ஹம்பாந்தோட்டை முதலீட்டு வலயத்தை அண்மித்து சீன நிறுவனங்களை அமைத்து உலக அளவில் இலங்கைக்கு மிகச் சிறந்ததொரு பிரவேசத்தை ஏற்படுத்தித் கொடுக்க எதிர்பார்த்திருப்பதாக சீன மக்கள் குடியரசின் அரசியல் ஆலோசனை சம்மேளன (CPPCC) தேசியக் குழுவின் உப தலைவர் கின் பொயோங்  ஜனாதிபதியிடம் தெரிவித்துள்ளார்.
+
+இதேவேளை, கடன் மறுசீரமைப்பு வேலைத்திட்டத்திற்கு ஒத்துழைப்பு வழங்கியமை மற்றும் பொருளாதார நெருக்கடிக்கு மத்தியில் இலங்கைக்கு கடன் பெற்றுக்கொடுத்தமைக்காக சீன அரசாங்கத்துக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க நன்றி தெரிவித்தார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க மற்றும் சீன மக்கள் குடியரசின் அரசியல் ஆலோசனைக் சம்மேளன (CPPCC) தேசியக் குழுவின் உப தலைவர் கின் பொயோங் (Qin Boyong) ஆகியோருக்கு இடையில் பாராளுமன்ற கட்டிடத் தொகுதியில் நேற்று புதன்கிழமை (18) நடைபெற்ற சந்திப்பின் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+சீனாவுக்கும் இலங்கைக்கும் இடையில் காணப்படும் நீண்டகால உறவுகளை மேலும் வலுப்படுத்தி, புதிய அரசாங்கத்துடன் தொடர்ந்தும் செயற்பட எதிர்பார்த்திருப்பதாகவும் கின் பொயோங் தெரிவித்தார்.
+
+...
+
+[Data](articles/0de7154e.json)
+
+---
+
+### 13 die as Indian navy speedboat crashes into passenger ferry off Mumbai
+
+*2024-12-19 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104344/13-die-as-indian-navy-speedboat-crashes-into-passenger-ferry-off-mumbai) · `en`
+
+An Indian navy speedboat crashed into a ferry carrying over 100 people to a popular tourist destination off Mumbai on Wednesday, killing at least 13, the navy said.
+
+A navy statement said 99 ferry passengers were rescued. They were on their way to Elephanta Island when the speedboat circled and collided with the ferry “Neelkamal.”
+
+The speedboat was undergoing engine tests and lost control, the statement said.
+
+The dead included one navy personnel and two others on a navy craft, it said.
+
+The tourists were picked up by navy and civilian boats and transferred to jetties and hospitals in the vicinity, the statement said. Four helicopters and 11 naval craft were used in the rescue.
+
+The Elephanta Caves on the island have temples and images from Hindu mythology and are a popular tourist destination off Mumbai, India’s financial and entertainment capital.
+
+◼️
+
+[Data](articles/009bc73b.json)
+
+---
 
 ### Sri Lankans in crisis in Cyprus
 
@@ -51,6 +159,26 @@ He was speaking at a function in Colombo that the money is taking necessary acti
 [Data](articles/bafa0464.json)
 
 [Extended Data](ext_articles/bafa0464.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-12-19 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104343/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the low-pressure area is in the Southwest Bay of Bengal is likely to move further north-westwards towards the north Tamil Nadu and south Andhra Pradesh coast during the next 2 days.
+
+Several spells of showers may occur in Northern, Northwestern and Western provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at several places in the Eastern and Uva provinces during the evening or night,the statement added.
+
+Misty conditions can be expected particularly in Northern, North-Central, Central, Sabaragamwa and Eastern provinces during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7deeced9.json)
 
 ---
 
@@ -886,6 +1014,8 @@ Over 162 students in Sri Lanka will receive awards for exceptional performance i
 
 [Data](articles/89ffc6bb.json)
 
+[Extended Data](ext_articles/89ffc6bb.ext.json)
+
 ---
 
 ### CEAT launches new paradigm ‘Europe Range’ of high performance radial tyres in Sri Lanka
@@ -1465,6 +1595,22 @@ In addition, Diyathalawa police are conducting further investigations into the a
 [Data](articles/b35f72f6.json)
 
 [Extended Data](ext_articles/b35f72f6.ext.json)
+
+---
+
+### பயங்கரவாதத்தடைச்சட்டம், நிகழ்நிலைக்காப்புச்சட்டத்தை  உடன் நீக்கி உங்கள் தேர்தல்கால வாக்குறுதியை ஈடேற்றுங்கள்  - ஒடுக்குமுறைச்சட்டங்களுக்கு எதிரான கூட்டிணைவு  ஜனாதிபதியிடம் கடிதம் மூலம் வலியுறுத்தல்
+
+*2024-12-18 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201603) · `ta`
+
+பயங்கரவாதத்தடைச்சட்டம் மற்றும் நிகழ்நிலைக்காப்புச்சட்டம் ஆகிய ஒடுக்குமுறைச்சட்டங்களை நீக்குவதன் ஊடாகவே உங்களது தேர்தல்கால வாக்குறுதிகளை நிறைவேற்றமுடியும். அத்தோடு ஜனநாயகத்தை வலுப்படுத்துவதிலும், மனித உரிமைகளைப் பாதுகாப்பதிலும் நீங்கள் கொண்டிருக்கும் அர்ப்பணிப்புடன்கூடிய கடப்பாட்டினை மீளுறுதிப்படுத்தமுடியும் என 66 அமைப்புக்களை உள்ளடக்கிய 'ஒடுக்குமுறைச்சட்டங்களுக்கு எதிரான கூட்டிணைவு' ஜனாதிபதி அநுரகுமார திஸாநாயக்கவிடம் சுட்டிக்காட்டியுள்ளது.
+
+ஒடுக்குமுறைச்சட்டங்கள் உடனடியாக நீக்கப்படவேண்டியதன் அவசியத்தை வலியுறுத்தி மேற்குறிப்பிட்ட ஒடுக்குமுறைச்சட்டங்களுக்கு எதிரான கூட்டிணைவு ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு கடிதமொன்றை அனுப்பிவைத்திருக்கிறது. அக்கடிதத்தில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+சிவில் சமூக அமைப்புக்கள், ஊடகக்குழுக்கள், தொழிற்சங்கங்கள், தொழிற்துறை நிபுணர்குழுக்கள் என்பன உள்ளடங்கலாக 66 அமைப்புக்களின் கூட்டிணைவான நாம் ஒடுக்குமுறைச்சட்டங்களுக்கு எதிராக ஒன்றிணைந்திருக்கின்றோம்.
+
+...
+
+[Data](articles/ace6074d.json)
 
 ---
 
@@ -2181,205 +2327,5 @@ On July 5, 2024, the Colombo High Court issued a three -month suspension of priv
 [Data](articles/cc236240.json)
 
 [Extended Data](ext_articles/cc236240.ext.json)
-
----
-
-### Petitions filed on scholarship examination on 31st
-
-*2024-12-18 15:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204492) · `si`
-
-Supreme Court hears scholarship exam petitions over 3 days. Verdict expected on 31st after written submissions tomorrow.
-
-🟩
-
-The Supreme Court today (18) the Supreme Court today (18), the Supreme Court today (18) was held today (18).
-
-Accordingly, the verdict announced the 31st of the 31st.
-
-Throughout the petitions, the petitions were taken up for three days before the Supreme Court Judge of Yasantha Kodagoda and Kumuduni Wickremasinghe and Arjuna Obeysekere.
-
-Accordingly, the oral lectures of all lawyers in the petitioner and respondents ended this evening.
-
-Subsequently, if you have written lectures, they will resume tomorrow (19). Ordered to be presented before 9.00.
-
-Accordingly, the verdict on these petitions will be announced on the 31st.
-
-◼️
-
-[Data](articles/347842a0.json)
-
-[Extended Data](ext_articles/347842a0.ext.json)
-
----
-
-### Two suspects arrested with domestic gun in Moragollagama
-
-*2024-12-18 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201573) · `ta`
-
-Two suspects arrested with homemade gun in Moragollagama. Police raid nets 21-year-old and 30-year-old locals. Investigation ongoing.
-
-🟩
-
-Two suspects have been arrested by Moragollagama police officers with a locally manufactured gun in the Calgiria Kanda area belonging to the Moragollagama Police Division.
-
-Two suspects were made with a locally manufactured gun during a raid carried out by the Moragollagama police station on Tuesday (17).
-
-The arrested suspects are from Madagalla and Moragollagama, aged 21 and 30.
-
-In addition, the Moragollagama police are conducting further investigations into the arrest.
-
-◼️
-
-[Data](articles/9d0b8924.json)
-
-[Extended Data](ext_articles/9d0b8924.ext.json)
-
----
-
-### Sri Lanka to give smallest defaulted borrowers till Dec 2025 to restructure loans
-
-*2024-12-18 14:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-smallest-defaulted-borrowers-till-dec-2025-to-restructure-loans-195031/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s small defaulting borrowers with loans below 25 million rupees will be given time till December 2025 to restructure loans after a parate execution suspension ends in March 2025, President Anura Kumara Dissanayake said.
-
-The suspension on parate execution or foreclosure, was suspended till December 15 after the last currency crisis triggered bad loans.
-
-By end September 2025 there were loan in arrears of 1,385 billion rupees relating 752,896 borrowers.
-
-“But 99 percent of these borrowers have taken loans below 25 million rupees,” President Dissanayake said.
-
-“Due to a sweeping suspension of parate execution the banking system can also become unstable. They also have peoples’ deposits. It is not other money. So, we have to be mindful of the safety of people’s deposits.
-
-“The impact of the collapse of finance companies were not felt by the directors or owners. It was felt by depositors. Some committed suicide.
-
-...
-
-[Data](articles/c2316075.json)
-
----
-
-### Shots fired at drug trafficker’s house in Homagama
-
-*2024-12-18 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104334/shots-fired-at-drug-traffickers-house-in-homagama) · `en`
-
-A residence said to belong to a drug trafficker, located in the Ranaviru Gama area of Homagama, was shot at early this morning (18), Meegoda Police said.
-
-Police stated that preliminary investigations have revealed two unidentified gunmen who arrived on a motorcycle had carried out the shooting, and then fled the scene.
-
-Police also revealed that the shooting was carried out using a 9mm pistol.
-
-Accordingly, two bullet casings and a live bullet were found on the road in front of the house.
-
-The shooting is suspected to have been ordered by a major drug trafficker hiding overseas, a high ranking officer of Meegoda Police said.
-
-The owner of the house is believed to have been involved in purchasing drugs from several drug traffickers, which may have been the motive behind the shooting.
-
-However, none of the occupants in the house were injured in the shooting, although two bullets had hit the wall and a window of the house.
-
-...
-
-[Data](articles/c1a1a85e.json)
-
-[Extended Data](ext_articles/c1a1a85e.ext.json)
-
----
-
-### Sri Lanka PAYE tax thresholds to be raised, minimum Rs150,000: President
-
-*2024-12-18 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-paye-tax-thresholds-to-be-raised-minimum-rs150000-president-194957/) · `en`
-
-ECONOMYNEXT – Sri Lanka has negotiated with the International Monetary Fund to raise the income tax threshold to 150,000 rupees a month from the current 100,000 rupees, President Anura Kumara Dissanayake said.
-
-“The wages of a person earning 150,000 rupees will be 100 percent free from tax,” President Dissanayake told parliament.
-
-“The 6 percent tax on the first slab of 500,000 rupees will be raised to one million rupees.”
-
-“The tax on someone earning 200,000 rupees will be 71 percent free of tax. The salary of a person earning 250,000 will be 61 percent free. The salary of a person earning 300,000 rupees will be 47 percent freed.
-
-“The salary of a person who gets 350,000 a month will be 25 percent freed.
-
-“We have been able to revise PAYE tax to give bigger benefits to lower income earnings and lower benefits to higher income earners.”
-
-...
-
-[Data](articles/b31cbd7a.json)
-
----
-
-### Sri Lanka’s Ceylon Electricity Board appoints two new directors
-
-*2024-12-18 13:56:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylon-electricity-board-appoints-two-new-directors-194953/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state Ceylon Electricity Board has appointed two new members to the Board, the firm said in a stock exchange filling.
-
-U.N Mallawarachchi and H M J M Herath have been appointed, replacing K V C Dilrukshi and HP Niroshan as non executive/ independent director.
-
-Mallawarachchi is also serving in the capacity of director at Department of National planning and SAHASYA Investment Ltd.
-
-Herath serves as the additional secretary (Development) in Ministry of Public Administration. (Colombo/Dec18/2024)
-
-◼️
-
-[Data](articles/278a78d2.json)
-
----
-
-### Detention Tax up to 10 percent
-
-*2024-12-18 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204491) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-IMF agrees to increase detention tax from 5% to 10%. Pensioners can save money without paying full tax. New tax section opens. Low-income tax rates applied. Value-added tax reduced on local dairy products. Service tax lowered from 30% to 15%.
-
-🟩
-
-President Anura Kumara Dissanayake today (18) revealed that the IMF has agreed to increase the retention tax to 5% to 10%.
-
-"We agreed to increase the retention tax from 5% to 10%."
-
-"Generally, older ones, pensioners deposit a certain amount of money and live in their interest."
-
-"If Rs..  නමුත් රඳවා තබාගැනීමේ බද්ද හරහා සිදුවිය හැකි දේ තමයි රු 150,000කට යටින් ගත්තත් රඳවා ගැනීමේ බද්දක් ලෙස පැනවීමේ හැකියාව තිබීම."
-
-"Therefore, we open a new section of the Inland Revenue Tax department.
-
-"The prospect is to give you the opportunity to apply for the tax limit and low income tax rates to the Inland Revenue Tax ratios, less than Rs."
-
-"And we came to the third review, and remove the value added to local milk and yogurt products to enhance the nutrition of our children."
-
-"The last government agreed that the tax was 30% for services. It came to an agreement to reduce it to 15%. "
-
-◼️
-
-[Data](articles/93bbfd64.json)
-
-[Extended Data](ext_articles/93bbfd64.ext.json)
-
----
-
-### New MP sworn in
-
-*2024-12-18 13:37:59* · [`adalk`](https://www.ada.lk/breaking_news/නව-මන්ත්‍රීවරයෙක්-දිවුරුම්-දෙයි/11-413714) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New MP sworn in: Reconciliation representative joins Third Parliament. After oath, Speaker signs certificate.
-
-🟩
-
-He was sworn in as a new Member of the Third Parliament in the Third Parliament, representing the reconciliation force.
-
-After the swearing in was sworn in before the Speaker, he was signed by the Secretary-General of Parliament.
-
-◼️
-
-[Data](articles/f532e50f.json)
-
-[Extended Data](ext_articles/f532e50f.ext.json)
 
 ---

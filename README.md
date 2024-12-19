@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 18:54:01**
+As of **2024-12-19 19:08:03**
 
 ## Newspaper Stats
 
-*Scraped **61,044** Articles*
+*Scraped **61,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,823
 adaderanalk | 7,444
-tamilmirrorlk | 8,729
+tamilmirrorlk | 8,730
 virakesarilk | 10,068
 adaderanasinhalalk | 10,544
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,853 (99.7%) of 61,044 articles have been extended.
+60,854 (99.7%) of 61,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Will the theft money be brought back to Sri Lanka?
+
+*2024-12-19 18:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டுப்-பணம்-மீண்டும்-இலங்கைக்கு-கொண்டு-வரப்படுமா/175-348973) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Masked woman claims to return stolen assets from Uganda to Sri Lanka. MP Nilanti confirms recovery plans. Controversy surrounds alleged stolen funds before elections.
+
+🟩
+
+The incident has attracted the attention of everyone who has questioned whether a masked woman is planning to recover stolen assets allegedly stolen in Uganda, as she stated to get votes for NPP MP Nilanti Kothachi.
+
+During a cultural event, MP Nilanti confronted many satire questions regarding the current issue.
+
+Will the masked woman bring about a new government?Will the theft money hidden in Uganda be brought back to Sri Lanka?Asked.
+
+MP to answer the questions. Yes, respectively, respectively!We will, of course. "
+
+It is noteworthy that the controversy made by MP Nilanti before the election on the allegedly stolen assets hidden in Uganda.
+
+<IFrame Width = "Height =" 544 "SRC =" https://www.youtube.com/embed/saw6rxdasq0 Uganda? & quot; "Frameborder = "Allow =" ACCELERATER; en> </ iFrame>>>>>
+
+◼️
+
+[Data](articles/3457d1be.json)
+
+[Extended Data](ext_articles/3457d1be.ext.json)
+
+---
 
 ### 'அன்பு செலுத்த ஆறறிவு தேவையில்லை. அன்பு ஒன்றே போதும்' - கூரன்
 
@@ -2237,21 +2269,5 @@ He said that only a series of trials were found to be unable to save people from
 [Data](articles/de180e2d.json)
 
 [Extended Data](ext_articles/de180e2d.ext.json)
-
----
-
-### Diplomatic steps to reclaim social security funds of Sri Lankan workers in Cyprus
-
-*2024-12-19 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104347/diplomatic-steps-to-reclaim-social-security-funds-of-sri-lankan-workers-in-cyprus) · `en`
-
-National People’s Power (NPP) Member of Parliament Lakshman Nipuna Arachchi has announced that diplomatic measures will be initiated to secure the release of social security funds owed to Sri Lankan workers employed in Cyprus.
-
-Speaking at a ceremony in Colombo, the MP highlighted that a significant issue has emerged, where Sri Lankan workers in Cyprus are unable to reclaim the social security contributions deducted from their salaries.
-
-He assured that steps are being taken to address the matter and facilitate the return of these funds to Sri Lanka.
-
-◼️
-
-[Data](articles/5bbce00b.json)
 
 ---

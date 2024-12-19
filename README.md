@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 09:43:41**
+As of **2024-12-19 10:02:24**
 
 ## Newspaper Stats
 
-*Scraped **60,936** Articles*
+*Scraped **60,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 619
 bbccomsinhala | 640
 islandlk | 3,689
 economynextcom | 3,711
-dailyftlk | 4,214
+dailyftlk | 4,215
 dailymirrorlk | 4,733
 adalk | 5,811
 adaderanalk | 7,429
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,799 (99.8%) of 60,936 articles have been extended.
+60,801 (99.8%) of 60,937 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -554,6 +554,20 @@ The 65th anniversary celebrations began on the morning of 13 December with a mul
 
 ### Childhood bullying and economic impact
 
+*2024-12-19 02:47:41* · [`dailyftlk`](https://www.ft.lk/columns/Childhood-bullying-and-economic-impact/4-770709) · `en`
+
+Scars from bullying in schools are permanent, some are on medications, and it has led to a very poor quality of life
+
+Bullying is when someone repeatedly and on purpose hurts someone else who is usually weaker than them. As a society we have repeatedly pointed fingers at the political class for their poor behaviour. Recent election results suggest we decided to do something about it. Few have had the courage to look at a more sinister problem staring them straight in the face. Most people either have first-hand experience or witnessed bullying during their time in school and have chosen to ignore or supress those memories.
+
+...
+
+[Data](articles/30ddfa1c.json)
+
+---
+
+### Childhood bullying and economic impact
+
 *2024-12-19 02:47:41* · [`dailyftlk`](https://www.ft.lk/opinion/Childhood-bullying-and-economic-impact/14-770709) · `en`
 
 Scars from bullying in schools are permanent, some are on medications, and it has led to a very poor quality of life
@@ -1032,6 +1046,8 @@ Comprising of 19 tyre sizes in six different patterns, these tyres for rim sizes
 
 [Data](articles/ccbb0c34.json)
 
+[Extended Data](ext_articles/ccbb0c34.ext.json)
+
 ---
 
 ### Decision on vehicle imports helps rally stocks
@@ -1047,6 +1063,8 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/75e83125.json)
+
+[Extended Data](ext_articles/75e83125.ext.json)
 
 ---
 
@@ -2303,29 +2321,5 @@ Accordingly, it was announced that the verdict related to the peitions will be d
 [Data](articles/6df30fa7.json)
 
 [Extended Data](ext_articles/6df30fa7.ext.json)
-
----
-
-### Bank Accounts of Rambukwella
-
-*2024-12-18 15:20:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரம்புக்வெல்லவின்-வங்கிக்-கணக்குகள்-இடைநிறுத்தம்/175-348910) · `ta`
-
-Keheliya Rambukwella's bank accounts suspended over bribery allegations. Two accounts worth 20 million rupees frozen for 7 days under Prevention of Corruption Act. Additional assets of Rambukwella family members previously frozen. Colombo High Court issues 3-month suspension on private bank savings and life insurance policies worth 97.125 million rupees in Rambukwella's family members' names.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella's about 20 million rupee storage has been suspended by the Commission to Investigate Bribery or Corruption charges.
-
-The Commission said the two accounts have been suspended for seven days under the Prevention of Corruption Act and the suspension is expected to be extended after being produced in court.
-
-Prior to this, many assets belonging to Rambukwella, his wife and other relatives were frozen as part of a series of investigations.
-
-On July 5, 2024, the Colombo High Court issued a three -month suspension of private bank savings, life insurance policies worth Rs 97.125 million in the name of Rambukwella's wife, three daughters and a nephew.
-
-◼️
-
-[Data](articles/cc236240.json)
-
-[Extended Data](ext_articles/cc236240.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 02:27:12**
+As of **2024-12-20 02:42:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,894 (99.7%) of 61,084 articles have been extended.
+60,896 (99.7%) of 61,084 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -416,33 +416,49 @@ The party of Karandeniya Suda has been injured by the "Battle Mother 'and his co
 
 ---
 
-### எதிர்க்கட்சித் தலைவர் - நோர்வே தூதுவருக்கிடையில் சந்திப்பு
+### Opposition Leader - Meeting between Norway Ambassador
 
 *2024-12-19 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201696) · `ta`
 
-நோர்வே தூதுவர் மே-எலின் ஸ்டினர் மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோருக்கிடையில் வியாழக்கிழமை (19) கொழும்பில் உள்ள எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் விசேட சந்திப்பொன்று இடம்பெற்றது.
+Here's a summary of 200 characters:
 
-இந்த சந்திப்பின் போது, தற்போதைய இலங்கையின் சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் குறித்து இரு தரப்பினரும் விரிவாக கலந்துரையாடினர்.
 
-வங்குரோத்து நிலையில் இருந்து நாட்டை மீட்டெடுக்கத் தேவையான உதவிகளை வழங்குமாறும், அதற்கு எதிர்க்கட்சி என்ற முறையில் முழு ஆதரவை வழங்குவதாகவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நோர்வே தூதுவரிடம் தெரிவித்தார்.
+
+Norwegian Ambassador May-Ein Star met Opposition Leader Sajith Premadasa in Colombo. They discussed Sri Lanka's social, economic, and political issues. Premadasa requested Norwegian assistance to restore the country and opposition support.
+
+🟩
+
+A special meeting was held on Thursday (19) at the Opposition Leader's Office in Colombo between Norwegian Ambassador May-Ein Star and Opposition Leader Sajith Premadasa.
+
+During the meeting, both sides discussed in detail the social, economic and political issues of Sri Lanka.
+
+Opposition Leader Sajith Premadasa told the Norwegian Ambassador to provide the necessary assistance to restore the country from the bankruptcy and provide full support as an opposition party.
 
 ◼️
 
 [Data](articles/1bc43716.json)
 
+[Extended Data](ext_articles/1bc43716.ext.json)
+
 ---
 
-### ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+### Railway delay on the main road
 
 *2024-12-19 20:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204530) · `si`
 
-කොළඹ කොටුවේ සිට රඹුක්කන බලා ධාවනය වූ දුම්රියක්, ගමනාන්තය අවසන්කර අංගනය වෙත ධාවනය කිරීමේ දී රඹුක්කන දුම්රිය ස්ථානයේ දී අද (19) සවස පිලීපැනීමකට ලක්ව තිබේ.
+Train delayed: Colombo Fort to Rambukkana route affected. Obstruction near Rambukkana Railway Station causing disruption to Kandy and Badulla services.
 
-මේ හේතුවෙන් ප්‍රධාන මාර්ගයේ මහනුවර හා බදුල්ල බලා ධාවනය වන දුම්රිය ගමනාගමනයට බාධා මතුව ඇත.
+🟩
+
+A train traveling from Colombo Fort to Rambukkana has been awarded today (19) at the Rambukkana Railway Station.
+
+The train traveling to Kandy and Badulla is obstructed.
 
 ◼️
 
 [Data](articles/87524783.json)
+
+[Extended Data](ext_articles/87524783.ext.json)
 
 ---
 

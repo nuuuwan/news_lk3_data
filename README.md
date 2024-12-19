@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 03:27:04**
+As of **2024-12-20 03:42:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,901 (99.7%) of 61,086 articles have been extended.
+60,902 (99.7%) of 61,086 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1360,19 +1360,27 @@ Two of the four suspects who were arrested and interrogated in connection with t
 
 ---
 
-### இந்தியாவுடனான எட்கா ஒப்பந்தத்தை கைச்சாத்திடுவதற்கு ஒருபோதும் இடமளிக்க போவதில்லை - சரத் வீரசேகர
+### Edka is never going to sign the Edka Agreement with India - Sarath Weerasekera
 
 *2024-12-19 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201669) · `ta`
 
-அரசியலமைப்பின் 13 ஆவது திருத்தம் தொடர்பில் நாட்டு சிங்கள மக்களுக்கு ஒன்றையும், இந்தியாவுக்கு பிறிதொன்றையும் ஜனாதிபதி குறிப்பிடுகிறார். இந்தியாவுடனான எட்கா ஒப்பந்தத்தை கைச்சாத்திடுவதற்கு ஒருபோதும் இடமளிக்க போவதில்லை. தேசபற்றுள்ளவர்களை ஒன்றிணைத்து போராட்டத்தில் ஈடுபடுவோம் என பொதுஜன பெரமுனவின் முன்னாள் பாராளுமன்ற உறுப்பினர் சரத் வீரசேகர தெரிவித்தார்.
+Sarath Weerasekera opposes Edka Agreement signing with India, citing concerns over 13th Amendment and provincial councils. He warns against potential negative impacts and calls for unity among patriotic groups.
 
-குறுகிய அரசியல் தேவைக்காக மக்கள் விடுதலை முன்னணி தனது அடிப்படை கொள்கைகளை மாற்றியுள்ளமை கவலைக்குரியது.1987 ஆம் ஆண்டு இலங்கை - இந்திய ஒப்பந்தம் கைச்சாத்திடப்பட்ட போது மக்கள் விடுதலை முன்னணி  கடும் எதிர்ப்பை வெளிப்படுத்தியது. இவர்களின் போராட்டம் பிற்காலத்தில் நாட்டில் இனக்கலவரம் தோற்றம் பெறுவதற்கு ஒரு காரணியாக அமைந்தது.
+🟩
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க அரசியலமைப்பின் 13 ஆவது திருத்தம் பற்றி சிங்கள மக்களிடம் ஒன்றையும், இந்தியாவுக்கு பிறிதொன்றையும் குறிப்பிடுகிறார். 13 ஆவது திருத்தம், மாகாண சபை முறைமை தொடர்பில் நாட்டு மக்களிடம் வெளிப்படை தன்மையுடன் செயற்பட வேண்டிய பொறுப்பு ஜனாதிபதிக்கும், அரசாங்கத்துக்கும் உண்டு.
+The President mentions one thing for the Sinhalese people and India on the 13th Amendment of the Constitution. Edka will never be allowed to sign the agreement with India. Former MP Sarath Weerasekera, a former PA MP, said that we will join the patriotic people.
+
+It is worrying that the Janatha Vimukthi Peramuna (JVP) expressed fierce opposition when the Sri Lanka -India Agreement was signed in 1987.. Their struggle later became a reason for the emergence of ethnicity in the country.
+
+President Anura Kumara Dissanayake refers to the 13th Amendment to the Sinhalese and another to India. The President and the government have the responsibility of the 13th Amendment and the provincial council system to act with transparency.
+
+Former President Ranil Wickremesinghe has approved the formal implementation of the agreements with India. Special attention should be paid to the President's Prime Minister Modi, who is taking steps to sign the Edka Agreement.
 
 ...
 
 [Data](articles/4a8cb884.json)
+
+[Extended Data](ext_articles/4a8cb884.ext.json)
 
 ---
 

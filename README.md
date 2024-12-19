@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 08:08:09**
+As of **2024-12-19 08:31:57**
 
 ## Newspaper Stats
 
-*Scraped **60,923** Articles*
+*Scraped **60,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adalk | 5,809
 adaderanalk | 7,427
 tamilmirrorlk | 8,706
 virakesarilk | 10,036
-adaderanasinhalalk | 10,521
+adaderanasinhalalk | 10,524
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,791 (99.8%) of 60,923 articles have been extended.
+60,793 (99.8%) of 60,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### සයිප්‍රස් ගිය ලාංකිකයින් අර්බුදයක
+
+*2024-12-19 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204509) · `si`
+
+සයිප්‍රසයේ සේවයේ නිරත මෙරට ශ්‍රමිකයින් සතු සමාජ අරක්ෂණ අරමුදල් නිදහස් කරගැනීමට රාජතාන්ත්‍රික මට්ටමින් පියවර ගන්නා බව ජාතික ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ලක්ෂ්මන් නිපුණආරච්චි මහතා පවසයි.
+
+මන්ත්‍රීවරයා පවසන්නේ, සයිප්‍රසයේ සේවයේ නිරත මෙරට ශ්‍රමිකයින්ගේ වැටුපෙන් සමාජ ආරක්ෂණ අරමුදල් ලෙස ලබාගන්නා මුදල් ඔවුන්ට යළි නොලැබෙන තත්ත්වයක් නිර්මාණය වී ඇති බවය.
+
+ඒ අනුව අදාළ මුදල් මෙරටට ලබා ගැනීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගනිමින් සිටින බව  කොළඹ ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් ලක්ෂ්මන් නිපුණආරච්චි මන්ත්‍රීවරයා පැවසුවේය.
+
+◼️
+
+[Data](articles/bafa0464.json)
+
+---
+
+### පාසල් නිවාඩුවේ සහ උත්සව සමයේ හදිසි අනතුරුවල ඉහළයාමක්
+
+*2024-12-19 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204508) · `si`
+
+පාසල් නිවාඩු කාලය සහ උත්සව කාලය එළඹීමත් සමග හදිසි අනතුරුවල ඉහළ යාමේ ප්‍රවණතාවක් පවතින බව සෞඛ්‍ය අමාත්‍යාංශයේ බෝ නොවන රෝග ඒකකයේ විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පවසයි.
+
+ඔහු පෙන්වාදෙන්නේ, මාර්ග අනතුරු, දියේ ගිලීම්, සතුන් සපාකෑම් සහ ආහාර විෂවීම් හේතුවෙන් සිදුවන අනතුරු ඉහළ ගොස් ඇති බවය.
+
+කෙසේවෙතත් උත්සව සමයේ රතිඤ්ඤා ඇතුළු ගිනිකෙළි හේතුවෙන් සිදුවන අනතුරුවල යම් අඩුවීමක් දක්නට ලැබෙන බව ද සඳහන්ය.
+
+රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ කැඳවා තිබු මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා මෙම අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/771c687c.json)
+
+---
+
+### විදුලි සැරට බිලි වූ මල්කැකුළ
+
+*2024-12-19 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204507) · `si`
+
+නවගත්තේගම පොලිස් වසමේ තරණගහවැව ප්‍රදේශයේ දී ගැහැණු දරුවෙකුට විදුලි සැර වැදී ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ, විදුලි සැර වැදුණු දරුවාව පුත්තලම රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බවය.
+
+එලෙස මියගොස් ඇත්තේ 14 හැවිරිදි ඉහළ කුරුකැටියාව, නවගත්තේගම ප්‍රදේශයේ පදිංචිකාරියකි.
+
+අනාරක්ෂිත විදුලි රැහැනක් මඟින් බ්ලෙන්ඩරයකට විදුලිය ලබාගෙන එය ක්‍රියාත්මක කිරීමට යෑමේ දී දැරියට විදුලි සැර වැදී ජීවිතක්ෂයට පත්ව ඇතැයි විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/c9e16cbb.json)
+
+---
 
 ### Census and Housing Census Complaint - First Report
 
@@ -118,23 +170,33 @@ President Anura Kumara Dissanayake has said that the Colombo Port City and Corpo
 
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-12-19 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204503) · `si`
 
-උතුරු, වයඹ සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසිවාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Here's a summary in 200 characters:
 
-නැගෙනහිර සහ ඌව පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
 
-නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශ ආශ්‍රිතව පවතින අඩුපීඩන කලාපය තවදුරටත් වයඹ දෙසට ගමන් කරමින් ඉදිරි දින දෙක තුළදී, උතුරු තමිල්නාඩු සහ දකුණු අන්ද්‍රා ප්‍රදේශ වෙරළ දෙසට ගමන් කිරීමේ හැකියාවක් පවතී.
 
-උතුරු, උතුරුමැද, මධ්‍යම, සබරගමුව සහ නැගෙනහිර පළාත්වල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+"Showers in North, Wayamba, West, Galle, Matara. Night thundershowers in East, Uva. Morning rain in North, Central, Sabaragamuwa, East. Thunderstorm warnings issued."
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+🟩
+
+The Department of Meteorology announces several closure in the North, Wayamba and Western provinces and the Galle and Matara districts.
+
+Showers or night thundershowers will occur at night or nights in the East and Uva provinces.
+
+The decline zone near the Bay of Bengal Bay of Bengal
+
+In the morning, the North, North Central, Central, Sabaragamuwa and Eastern Provinces can be found in the morning.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/d0f6d045.json)
+
+[Extended Data](ext_articles/d0f6d045.ext.json)
 
 ---
 
@@ -252,21 +314,31 @@ The celebration was graced by Board of Investment Chairman Arjuna Herath and Al 
 
 ---
 
-### மணல் கடத்திய வாகனம் மீது துப்பாக்கிச் சூடு
+### Firing on the sand -smuggled vehicle
 
 *2024-12-19 03:16:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மணல்-கடத்திய-வாகனம்-மீது-துப்பாக்கிச்-சூடு/175-348939) · `ta`
 
-மணல் கடத்திய டிப்பர் வாகனம் ஒன்றைப் பொலிஸார் துப்பாக்கிப்  பிரயோகம் மேற்கொண்டு கைப்பற்றியுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-நேற்று புதன்கிழமை யாழ். வடமராட்சி, வல்லிபுரம் பகுதியில் சட்டவிரோத முறையில் மணல் அகழ்ந்து கொண்டு தப்பிச் சென்ற டிப்பர் வாகனத்தைப்  பருத்தித்துறை பொலிஸார் வல்லிபுரம் - ஆனைவிழுந்தன் வீதியில் வைத்து நிறுத்துமாறு பொலிஸார் கோரியபோது அது தப்பியோட முற்பட்டது. இதன்போது பொலிஸார் துப்பாக்கிப் பிரயோகம் நடத்தி அதைக் கைப்பற்றினர்.
 
-கடத்தக்காரர்கள் தப்பித்த நிலையில், டிப்பர் வாகனம் பருத்தித்துறை பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளது.
 
-இந்தச் சம்பவம் தொடர்பில் பருத்தித்துறைப் பொலிஸார் மேலதிக விசாரணை மேற்கொண்டு வருகின்றனர். (a)
+Police fired on smuggled tipper truck in Jaffna. Vehicle fled illegally in Vadamarachchi, Vallipuram area. Seized near Point Pedro after chase. Detained at Point Pedro Police Station. Investigation ongoing.
+
+🟩
+
+Police fired a tipper vehicle that was smuggled into the sand.
+
+Jaffna on Wednesday. When the police demanded that the tipper vehicle escaped illegally in Vadamarachchi, Vallipuram area, the police demanded that the Point Pedro Police be placed on the Vallipuram - Annivundan road.. The police fired and seized it.
+
+The tipper vehicle has been detained at the Point Pedro Police Station as the crocoders escaped.
+
+Point Pedro Police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/8adb2a76.json)
+
+[Extended Data](ext_articles/8adb2a76.ext.json)
 
 ---
 
@@ -2289,81 +2361,5 @@ President Anura Dissanayake said in Parliament today (18)
 [Data](articles/e0db067b.json)
 
 [Extended Data](ext_articles/e0db067b.ext.json)
-
----
-
-### No agreement betrayed the country
-
-*2024-12-18 13:24:29* · [`adalk`](https://www.ada.lk/breaking_news/රට-පාවාදෙන-කිසිදු-ගිවිසුමක්-අත්සන්-කරලා-නෑ/11-413713) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"No agreement has compromised national interests," stated Minister Vijitha Herath. The current government maintains transparency in all diplomatic deals, ensuring no harmful pacts were made without public knowledge or consent.
-
-🟩
-
-Minister of External Affairs and Tourism Vijitha Herath said that the present government has not signed any agreement that betrayed the country.
-
-He was speaking at a statement today (18).
-
-◼️
-
-[Data](articles/70553e5e.json)
-
-[Extended Data](ext_articles/70553e5e.ext.json)
-
----
-
-### Increase Income Tax limit
-
-*2024-12-18 13:21:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/வருமான-வரி-வரம்பு-அதிகரிப்பு/47-348906) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake: IMF-compliant income tax hike from Rs 100k to Rs 150k/month. Type 1: 6% tax on 100% exemption for 150k salary. 200k earners get 71% tax relief.
-
-🟩
-
-President Anura Kumara Dissanayake said in Parliament today (18) that the International Monetary Fund has been complied with the International Monetary Fund to increase the income tax limit from Rs 100,000 to Rs 150,000 per month.
-
-Type 1 6% of the individual income tax is taxed by a 100% tax exemption for 150,000 salary per month. The person who earns 200,000 is exempted from 71% tax.
-
-The President said, "We have succeeded in revising the income tax to provide low relief for higher income and higher income."
-
-◼️
-
-[Data](articles/db14583f.json)
-
-[Extended Data](ext_articles/db14583f.ext.json)
-
----
-
-### Sri Lanka to allow private vehicle imports from February 2025: President
-
-*2024-12-18 13:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allow-private-vehicle-imports-from-february-2025-president-194954/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow private vehicle imports from February 01, 2025, President Anura Kumara Dissanayake told parliament.
-
-The decision has been made after discussions with the central bank after assessing the impact on foreign exchange he said.
-
-“Do not have any fears that we will face another foreign currency crises because of car imports,” President Dissanayake said.
-
-“We have estimated the outflow of dollar for car imports. But to turn the economy around we decided we have to open imports.
-
-Passenger buses and special purpose vehicles have been allowed from December 14, he said.
-
-Sri Lanka PAYE tax thresholds to be raised, minimum Rs150,000: President
-
-Sri Lanka banned over 3,000 imports as money printing to cut rates started in 2020, but the country lost all its reserves and eventually defaulted.
-
-Foreign exchange reserves would not be used for imports, unless liquidity is injected by the central bank to suppress rates, analysts have pointed out.
-
-...
-
-[Data](articles/dd2414c8.json)
 
 ---

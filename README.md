@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 17:12:13**
+As of **2024-12-19 17:44:31**
 
 ## Newspaper Stats
 
-*Scraped **61,022** Articles*
+*Scraped **61,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,689
 economynextcom | 3,716
 dailyftlk | 4,217
 dailymirrorlk | 4,733
-adalk | 5,821
+adalk | 5,822
 adaderanalk | 7,441
 tamilmirrorlk | 8,727
 virakesarilk | 10,057
@@ -26,41 +26,63 @@ adaderanasinhalalk | 10,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,845 (99.7%) of 61,022 articles have been extended.
+60,848 (99.7%) of 61,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
 
-### மருமகளின் உதடுகளை தண்டித்த மாமியார்
+### The mother -in -law who punished the lips of the daughter -in -law
 
 *2024-12-19 16:56:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகளின்-உதடுகளை-தண்டித்த-மாமியார்/175-348966) · `ta`
 
-குறிப்பாக மருமகளின் உதடுகள் சிவப்பது மாமியாரால் பார்க்க முடியாத ஒன்றாக இருந்தது. அதை வெளிப்படையாக எதிர்க்கும் சக்தி அவளிடம் இல்லை. மகன் வெளிநாட்டில் கஷ்டப்பட்டு அனுப்பிய பணத்தில் மருமகள் ஆடை அணிவதை இந்த மாமியாரால் ஜீரணிக்க முடியவில்லை.
+Here's a 200-character summary:
 
-மருமகளுக்குப் பிரச்சனை என்றால் மகன் மருமகளின் பக்கம் போவார் என்பது இந்த மாமியாருக்குத் தெரியும், ஆனால் வேறு வழியின்றி மகனிடம் பொறுமையாக இருக்க வேண்டும் என மாமியார் நினைத்துக்கொண்டார்.
 
-மருமகளின் உதடு சிவந்திருப்பதைப் பார்க்கும் போதெல்லாம், மருமகள் பச்சையாக இறைச்சியை சாப்பிட்டது போல் மாமியாருக்கு இருந்தது. இதைபற்றி மாமியர் எடுத்துரைத்த போதும் மருமகள் அதை ஒரு பொருட்டாக எடுத்துக் கொள்ளவில்லை. மாமியார் ஒன்றும் சொல்லாமல் இருந்தும் இந்த சம்பவத்தில் கோபமடைந்தார்.
 
-அன்று ட்ரிப் போகும் உற்சாகத்தில் இருந்த மருமகள் லிப் கலர் டியூப்பை திறந்து கண்ணாடி முன் நின்று உதடுகளுக்கு பூசிவிட்டு உதடுகளை கவ்வினாள்.
+Mother-in-law punishes daughter-in-law's lips over lipstick use. Daughter-in-law applies chili powder to lips. Incident occurs in a remote village in Galle district.
+
+🟩
+
+The lips of the daughter -in -law, especially the mother -in -law, were unable to see. She does not have the power to obviously resist it. The mother -in -law was unable to digest the daughter -in -law dressing in the money she had sent abroad.
+
+The mother -in -law knew that the son -in -law would go to the daughter -in -law, but the mother -in -law thought that the son should be patient.
+
+Whenever the daughter -in -law's lips were red, the mother -in -law had a green meal like the daughter -in -law ate meat. The daughter -in -law did not take it as a matter. The mother -in -law was angry at the incident despite not saying anything.
+
+The daughter -in -law, who was excited about the trip, opened the lip color tube and stood in front of the mirror and licked her lips.
+
+After a while, she grabbed the lips and said, "Buddha's mother, I could not delay," she ran towards the water pipe fitted in the kitchen to wash away the lips.
 
 ...
 
 [Data](articles/d4b24bf8.json)
 
+[Extended Data](ext_articles/d4b24bf8.ext.json)
+
 ---
 
-### கைதிகளுக்கு இடையில் தகராறு ; இருவர் காயம்
+### Conflict between prisoners;Two people injured
 
 *2024-12-19 16:45:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளுக்கு-இடையில்-தகராறு-இருவர்-காயம்/175-348965) · `ta`
 
-காலி சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள சில கைதிகளுக்கு இடையில் ஏற்பட்ட தகராறில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு இரு கைதிகள் காயமடைந்துள்ள சம்பவம் வியாழக்கிழமை (19) இன்று இடம்பெற்றதாக சிறைச்சாலை அதிகாரிகள்  தெரிவித்துள்ளனர்.
+Here's a summary in 200 characters:
 
-காலி மீட்டியாகொடை பிரதேசத்தில் திங்கட்கிழமை (16)  அன்று  இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவம் தொடர்பில் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்ட நான்கு சந்தேக நபர்களில் இருவரே குறித்த துப்பாக்கிச் சூட்டில்  காயமடைந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+
+Prisoners clash; two injured. Incident occurred Thursday at Galle Prison. Two suspects from Meediyagoda shooting arrested and interrogated.
+
+🟩
+
+Prison officials said that the incident took place on Thursday (19) that two prisoners were injured in a dispute between some prisoners detained at the Galle Prison.
+
+Two of the four suspects who were arrested and interrogated in connection with the shooting incident on Monday (16) in Meediyagoda, Galle, were injured in the shooting.
 
 ◼️
 
 [Data](articles/efa57bea.json)
+
+[Extended Data](ext_articles/efa57bea.ext.json)
 
 ---
 
@@ -149,6 +171,36 @@ It is reported that a navy boat from Trincomalee will be rescued from the boat.
 [Data](articles/f82d4c45.json)
 
 [Extended Data](ext_articles/f82d4c45.ext.json)
+
+---
+
+### A.M. from Archuna. Jaffna hospital lawsuit demanding compensation
+
+*2024-12-19 15:52:28* · [`adalk`](https://www.ada.lk/breaking_news/අර්චුනාගෙන්-රු-මි--100-ක-වන්දියක්-ඉල්ලා-යාපනය-රෝහලෙන්-නඩු/11-413740) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Jaffna hospital director sues for defamation after Archuna residents file compensation claim. Case involves alleged threats, insults, and obstruction of hospital staff. Multiple legal actions ongoing.
+
+🟩
+
+Director of Jaffna Teaching Hospital demanding a sum of Rs.. A defamation case has been filed in Jaffna's presence by the Jaffna district.
+
+The director director was filed by the hospital on the 17th to obstruct the staff of the Jaffna General Assembly and to interrupt the staff of the hospital.
+
+The director of the hospital states that the case of the Archuna and insulting persons in the threatening and insulting, the insult is to be filed by a suicide.
+
+The director of the hospital also also displayed the case by MP at the District Development Committee, the MP and in various places from various places.
+
+It is interesting that the Archthata has brought about 20 cases by various people in the Aharawasa.
+
+◼️
+
+[Data](articles/c1be5962.json)
+
+[Extended Data](ext_articles/c1be5962.ext.json)
 
 ---
 
@@ -2154,6 +2206,8 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 දේශීය ලුණු නිෂ්පාදකයින් විසින් කරන ලද ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව ලුණු ආනයනය කිරීමට අවසර ලබා දී තිබෙන බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස වැඩිදුරටත් පැවසීය.
 
+අමාත්‍යවරයෙකුගේ මන්ත්‍රී ධුරය බල රහිත කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක්
+
 ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
 
 ◼️
@@ -2255,23 +2309,5 @@ The TAGS Awards, celebrated for 59 years, is a hallmark event recognising excell
 [Data](articles/3708f3ed.json)
 
 [Extended Data](ext_articles/3708f3ed.ext.json)
-
----
-
-### Serendib Flour Mills celebrates 15+ years of ‘Nourishing the Nation’ with gala event
-
-*2024-12-19 03:19:56* · [`dailyftlk`](https://www.ft.lk/business/Serendib-Flour-Mills-celebrates-15-years-of-Nourishing-the-Nation-with-gala-event/34-770716) · `en`
-
-Serendib Flour Mills CEO Vijay Sharma (seventh from left), BOI Chairman Arjuna Herath (centre), and Al-Ghurair Foods CEO Turgut Yeğenağa (ninth from left), along with distributors of Serendib Flour Mills who have been with the company since its inception
-
-Serendib Flour Mills (SFML), a cornerstone of Sri Lanka’s food industry, celebrated over 15 years of purposefully nourishing the nation with a gala event held on 5 December, at the Taj Samudra Hotel. The evening was a significant corporate milestone in SFML’s journey of transforming Sri Lanka’s wider food ecosystem since its establishment in 2008.
-
-The celebration was graced by Board of Investment Chairman Arjuna Herath and Al Ghurair Foods UAE CEO Turgut Yeğenağa alongside other distinguished guests from the industry. The audience included the members of the Serendib distribution network, financial providers, key customers, staff and well-wishers.
-
-...
-
-[Data](articles/2bb0b589.json)
-
-[Extended Data](ext_articles/2bb0b589.ext.json)
 
 ---

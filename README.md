@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 14:02:51**
+As of **2024-12-19 14:28:59**
 
 ## Newspaper Stats
 
-*Scraped **60,988** Articles*
+*Scraped **60,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,689
 economynextcom | 3,716
 dailyftlk | 4,217
 dailymirrorlk | 4,733
-adalk | 5,816
+adalk | 5,817
 adaderanalk | 7,437
-tamilmirrorlk | 8,722
+tamilmirrorlk | 8,723
 virakesarilk | 10,048
 adaderanasinhalalk | 10,531
 
@@ -26,45 +26,85 @@ adaderanasinhalalk | 10,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,823 (99.7%) of 60,988 articles have been extended.
+60,827 (99.7%) of 60,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
 
-### 103 பேருடன் முள்ளிவாய்க்காலில் கரையொதுங்கிய படகு
+### Boat on the coast of Mullivaikkal with 103 people
 
 *2024-12-19 13:43:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/103-பேருடன்-முள்ளிவாய்க்காலில்-கரையொதுங்கிய-படகு/175-348960) · `ta`
 
-முள்ளிவாய்க்கால் மேற்கு கடற்கரையில்  வெளிநாட்டு பிரஜைகள் 103 பேருடன்    படகொன்று   வியாழக்கிழமை (19) கரையொதுங்கியுள்ளது.
+Here's a 200-character summary:
 
-மியன்மாரில் இருந்து 103 பயணிகளுடன் படகொன்று திசைமாறி வந்து கரையொதுங்கியுள்ளது. குறித்த படகில் 25 க்கும் மேற்பட்ட சிறுவர்களும்  உள்ளடங்கியிருக்கின்றனர்.
 
-அவர்களை  மீட்டு கரைக்கு  கொண்டுவரும் நடவடிக்கையில்  முல்லைத்தீவு மீனவர்கள்,  கடற்படையினர், இராணுவத்தினர், பொலிஸார் ஈடுபட்டு வருகின்றனர்.
 
-குறித்த படகில் இருப்பவர்களுக்கு  உணவுகள், உலருணவுகளை  முல்லைத்தீவு மீனவர் சங்கத்தினர்  வழங்கினர். படகில் இருந்தவர்களில் சிலர் மயக்கமடைந்த நிலையிலும், சிலர் சுகயீனமுற்ற நிலையிலும் உள்ளனர் என்று தெரிவிக்கப்படுகின்றது.
+Boat off Mullivaikkal coast rescues 103 Myanmar nationals, including over 25 children. Navy, soldiers, police assist. Some boatmen ill/unconscious. Fishermen's association provides aid.
+
+🟩
+
+A boat with 103 foreign citizens on the west coast of Mullivaikkal on Thursday (19).
+
+A boat with 103 passengers from Myanmar has been diverted. The boat includes more than 25 boys.
+
+Mullaitivu fishermen, navy, soldiers and police are engaged in the rescue of them.
+
+Mullaitivu Fishermen Association provided food and dryness to those on the boat. It is reported that some of the boatmen are unconscious and some are ill.
 
 ◼️
 
 [Data](articles/8d0b677a.json)
 
+[Extended Data](ext_articles/8d0b677a.ext.json)
+
 ---
 
-### இலங்கை பொலிஸாருக்கு வாகனங்கள் வாங்க இந்தியா நிதியுதவி
+### India funds to buy vehicles for police
+
+*2024-12-19 13:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-வாகனங்கள்-வாங்க-இந்தியா-நிதியுதவி/175-348959) · `ta`
+
+India provides 300mn LKR subsidy for Sri Lanka police vehicles. Funds allocated for keb carts in North & East police stations. Memorandum of understanding to be signed for donation.
+
+🟩
+
+The Indian government has agreed to subsidize 300 million Sri Lankan rupees to meet the vehicle needs of the Sri Lankan police.
+
+Cabinet Spokesperson Minister Nalinda Jayatissa said this at a press conference announcing the Cabinet decisions.
+
+It is planned to provide keb carts for the duty of the North and East police stations using this scholarship.
+
+Accordingly, Minister Nalinda Jayatissa said that the Cabinet has approved the proposal submitted by the Minister of Public Security and Parliamentary Affairs to make a memorandum of understanding between the two sides to obtain the donation.
+
+◼️
+
+[Data](articles/2707b491.json)
+
+[Extended Data](ext_articles/2707b491.ext.json)
+
+---
+
+### India funds to buy vehicles for Sri Lankan police
 
 *2024-12-19 13:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பொலிஸாருக்கு-வாகனங்கள்-வாங்க-இந்தியா-நிதியுதவி/175-348959) · `ta`
 
-இலங்கை பொலிஸாருக்கான வாகன தேவைகளை பூர்த்தி செய்வதற்கு 300 மில்லியன் இலங்கை ரூபாயை மானியமாக வழங்க இந்திய அரசாங்கம் இணங்கியுள்ளது.
+India provides 300M Lankan rupees to fund vehicles for Sri Lankan police. Keb cart distribution planned for North and East stations. Memorandum of understanding to be signed for donation.
 
-அமைச்சரவை முடிவுகளை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ இதனைத் தெரிவித்தார்.
+🟩
 
-இந்த உதவித்தொகையை பயன்படுத்தி வடக்கு மற்றும் கிழக்கு பொலிஸ் நிலையங்களின் கடமை தேவைகளுக்காக கெப் வண்டிகளை வழங்க திட்டமிடப்பட்டுள்ளது.
+The Indian government has agreed to subsidize 300 million Sri Lankan rupees to meet the vehicle needs of the Sri Lankan police.
 
-இதன்படி, குறித்த நன்கொடையை பெற்றுக்கொள்வதற்காக இரு தரப்புக்கும் இடையில் புரிந்துணர்வு உடன்படிக்கையை ஏற்படுத்துவதற்கு பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சர் சமர்ப்பித்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Cabinet Spokesperson Minister Nalinda Jayatissa said this at a press conference announcing the Cabinet decisions.
+
+It is planned to provide keb carts for the duty of the North and East police stations using this scholarship.
+
+Accordingly, Minister Nalinda Jayatissa said that the Cabinet has approved the proposal submitted by the Minister of Public Security and Parliamentary Affairs to make a memorandum of understanding between the two sides to obtain the donation.
 
 ◼️
 
 [Data](articles/ea713bb5.json)
+
+[Extended Data](ext_articles/ea713bb5.ext.json)
 
 ---
 
@@ -81,6 +121,8 @@ India as an expert in information technology and digital innovation, Jayatissa s
 ...
 
 [Data](articles/076d4163.json)
+
+[Extended Data](ext_articles/076d4163.ext.json)
 
 ---
 
@@ -829,6 +871,20 @@ A bond maturing on 15.02.2028 was quoted at 10.10/15 percent.
 ...
 
 [Data](articles/72a3246b.json)
+
+---
+
+### මෝටර් වාහන ආනයනයට අදාළ රෙගුලාසි නිකුත් කරයි
+
+*2024-12-19 09:57:55* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-වාහන-ආනයනයට-අදාළ-රෙගුලාසි-නිකුත්-කරයි/11-413734) · `si`
+
+රජය විසින් මෝටර් වාහන ආනයන ඳසහා වූ තාවකාලික අත්හිටුවිම ඉවත් කිරිමත් සමගින් මෝටර් වාහන ආනයනයට අදාළ රෙගුලාසි
+
+මුදල්,ක්‍රමසම්පාදන හා ආර්ථික සංවර්ධන අමාත්‍යාංශය විසින් නිකුත් කර තිබේ. මෙම රෙගුලාසි වාහන ගෙන්විමට අදාළව පළමු අදියරට අදාළ වෙයි.
+
+◼️
+
+[Data](articles/40a94ad6.json)
 
 ---
 
@@ -2207,65 +2263,5 @@ The inauguration ceremony, attended by David Rosell, his daughter Sophie Rosell 
 [Data](articles/8ecb8156.json)
 
 [Extended Data](ext_articles/8ecb8156.ext.json)
-
----
-
-### Palma, Yogets will be eliminated
-
-*2024-12-18 21:14:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-யோகட்களின்-வற்-வரி-நீக்கப்படும்/175-348921) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: Palma and Yogat elimination plans. Government aims to remove tax on domestic milk and yogurt for child nutrition. Service export tax reduced from 30% to 15%. IMF compliance increases restricted tax from 5% to 10%.
-
-🟩
-
-The last government has also been charged with goods including Palma and Yogat.
-
-However, President Anura Kumara Dissanayake has said that the third review with the IMF has been reached in order to eliminate the tax on domestic milk and yoga, which is aimed at raising the nutrition level of children.
-
-Moreover, during the last government's period, service export tax was 30 percent.
-
-Compliance has been reached to reduce it to 15 percent internationally.
-
-The President said, "We have reached compliance with the International Monetary Fund to increase the restricted tax from 5 percent to 10 percent.". Remble
-
-◼️
-
-[Data](articles/68ae442d.json)
-
-[Extended Data](ext_articles/68ae442d.ext.json)
-
----
-
-### US will intervene to the forest issue
-
-*2024-12-18 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204500) · `si`
-
-US intervention in forest issues: Government seeks technical support to prevent wildlife damage. Ambassador Chang discusses agricultural modernization, climate resilience, and market expansion for local farmers.
-
-🟩
-
-The government is focusing in the US to obtain the necessary technical and advisory support to prevent damages caused by wildlife.
-
-Ambassador in the United States, July Chang, Agriculture, Livestock, Lands, Land and Irrigation. D. Among the Ministry of Agriculture was held at a special meeting held today (18).
-
-In the meantime, the discovery of foreign markets for local products is also focused on the support of the local farmer companies before.
-
-The United States has been able to support the modernization of coconut based products in Sri Lanka at the discussion held between the two parties.
-
-Mr. Chang, also has agreed to provide technical and consultancy assistance to agriculture in the face of weather forest management.
-
-It has also discussed how to obtain American support to uplift the local farmer's economy.
-
-In addition, the focus is also focused on the help of local farmer companies and to obtain the support of Sri Lankan workers in the United States.
-
-...
-
-[Data](articles/c796ccc8.json)
-
-[Extended Data](ext_articles/c796ccc8.ext.json)
 
 ---

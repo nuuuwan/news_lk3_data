@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 04:27:21**
+As of **2024-12-20 04:43:00**
 
 ## Newspaper Stats
 
@@ -26,23 +26,35 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,906 (99.7%) of 61,087 articles have been extended.
+60,908 (99.7%) of 61,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### ’பொறுப்புக்கூறலை அர்த்தமுள்ளதாக்குக’
+### Make the accounting accountability meaningful
 
 *2024-12-20 04:12:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொறுப்புக்கூறலை-அர்த்தமுள்ளதாக்குக/175-348992) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் மனித உரிமைகள் பேரவையில், இலங்கை அரசுக்கு இனியும் கால நீடிப்பும் அரசியல் வெளியும் வழங்காது, பொறுப்புக்கூறல் தொடர்பான குற்றவியல் பொறுப்புத் தொடர்பான சர்வதேச விசாரணையை நோக்கி அடுத்த கட்ட நடவடிக்கைகள் முன்னெடுக்கப்படும் விதத்தில் அடுத்த தீர்மானத்தில் தகுந்த தரமுயர்த்தல் மேற்கொள்ளப்பட வேண்டும் என்பது எமது மக்களின் எதிர்பார்ப்பாக உள்ளது எனவும் இலங்கை தொடர்பான தீர்மானங்களைப் பிரேரிக்கும் மையக் குழு நாடுகளிடம் இந்தத் தரமுயர்த்தலை நாம் வேண்டி நிற்கின்றோம் என்றும் இலங்கைத் தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர்  சிவஞானம் சிறீதரன் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனுக்கும்  கனேடிய வெளிவிகார அமைச்சின் இந்தோ – பசுபிக் பிராந்தியங்களுக்கான பிரதி அமைச்சர் வெல்டன் எப் உள்ளிட்ட கனேடிய அரசியல் தரப்பினருக்கும் இடையிலான உத்தியோகபூர்வ சந்திப்பு நேற்று (19) கனடா – ஒட்டாவாவில் உள்ள அமைச்சு அலுவலகத்தில் நடைபெற்றது.
 
-...
+
+UNHRC drops Sri Lanka from its list. Next resolution expected to strengthen international investigation into criminal liability for accountability. TNA MP Sivagnanam Sreedharan meets Canadian officials to discuss this matter.
+
+🟩
+
+The United Nations Human Rights Council (UNHRC) will no longer provide the Sri Lankan government, and it is the expectation that our people are expecting appropriate upgrading the next resolution to the next resolution on the International International Investigation of Criminal Liability on Accountability Criminal Liability.Sivagnanam Sreedharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), said.
+
+The official meeting between the Canadian Foreign Ministry MP Sivagnanam Sreedharan and the Deputy Minister of the Indo -Pacific Regions, Welton F.
+
+It is noteworthy that a written request was submitted to the Deputy Minister of Canadian by MP Sreedharan. (A)
+
+◼️
 
 [Data](articles/bdfd0544.json)
+
+[Extended Data](ext_articles/bdfd0544.ext.json)
 
 ---
 
@@ -1666,19 +1678,31 @@ The police said that there are currently nearly 25 small children of the vessel,
 
 ---
 
-### 121,000 කට බදු අඩු කර, ඉතිරිකිරීමේ ගිණුම් ලක්ෂ 161 කට රැදවුම් බදු වැඩි කරලා
+### 121,000 deduction of taxes and increase the detention taxes for Rs. 161,000
 
 *2024-12-19 15:58:53* · [`adalk`](https://www.ada.lk/breaking_news/121-000-කට-බදු-අඩු-කර--ඉතිරිකිරීමේ-ගිණුම්-ලක්ෂ-161-කට-රැදවුම්-බදු-වැඩි-කරලා/11-413741) · `si`
 
-ආණ්ඩුව විසින් ප්‍රකාශයට පත් කර ඇති බදු සංශෝධන මගින් උපයන විට ගෙවීමේ බද්ද (PayE tax) ගෙවූ 121,000 කට සහන ලබා දී, ස්ථීර සහ ඉතිරිකිරීමේ ගිණුම් ලක්ෂ 161 කට බලපාන පරිදි රැදවුම් බද්ද 5% කින් ඉහත දමා ඇස්බැන්දුමකින් රටම රවටා ඇති යැ මාතලේ දිස්ත්‍රික් මන්ත්‍රී රෝහිණී කවිරත්න පවසයි.
+Here's a summary in 200 characters:
 
-මැතිවරණ සමයේ දී රට රවටමින් උපයන විට ගෙවීමේ බදු සීමාව රු. ලක්ෂ දෙකක් කරන බව පැවසූ අනුර කුමාර දිසානායක මැතිතුමා ඊයේ එය රු. 150,000 ක් කරන බව නිවේදනය කළේය.  අදාළ බද්ද ගෙවන පුද්ගලයින් 121,000 කට එමගින් වාසියක් සැලසේ.
 
-ඒ සමඟම රජය දැනට 5% ක් වන රැදවුම් බද්ද 10% දක්වා වැඩි කර ඇත. ලංකාවේ ඉතිරිකිරීමේ ගිණුම් ලක්ෂ 161 ක් පවතින අතර එයින් ගිණුම් ලක්ෂ 50 ක් මාසික ක්‍රියාකාරී මට්ටමේ පවතී.  මේ සියළුම ගිණුම් සඳහා ලැබෙන පොලිය 5% ක බදු වැඩිවීමට යටත් කොට ඇත.
+
+Tax deductions: 121,000. Increased detention tax: 161,000. Relief tax rate raised from 5% to 10%. Savings interest taxed. Economic crisis affects low-income savers.
+
+🟩
+
+Matale District MP Rohini Kaviratne has been deceased with 5% of the relief tax on payment of relief and savings and the relief base of Rs.Says.
+
+When the country earns the country during the election season, the tax limit of Rs. Mr. Anura Kumara Dissanayake said two million was Rs.. 150,000 announced.It provides an advantage to 121,000 people who pay the relevant tax.
+
+At the same time the government has already increased the detention tax of 5% to 10%. There are 161 lakhs of savings in Sri Lanka, and 50 lakhs are available at a monthly basis.Interest for all these accounts has been subordinated to tax increase.
+
+Sri Lanka's economy continues to shrink in the face of the current crisis. The lower middle class of the society is getting a clear requirement to meet their daily needs. However, it is impossible for all the savings account holders of the country, which includes the lowest income of the country.
 
 ...
 
 [Data](articles/6657e275.json)
+
+[Extended Data](ext_articles/6657e275.ext.json)
 
 ---
 

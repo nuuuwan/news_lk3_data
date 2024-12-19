@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 19:08:03**
+As of **2024-12-19 19:18:28**
 
 ## Newspaper Stats
 
-*Scraped **61,045** Articles*
+*Scraped **61,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,689
 economynextcom | 3,716
 dailyftlk | 4,217
 dailymirrorlk | 4,733
-adalk | 5,823
+adalk | 5,824
 adaderanalk | 7,444
 tamilmirrorlk | 8,730
 virakesarilk | 10,068
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,854 (99.7%) of 61,045 articles have been extended.
+60,855 (99.7%) of 61,046 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,17 +64,29 @@ It is noteworthy that the controversy made by MP Nilanti before the election on 
 
 ---
 
-### 'அன்பு செலுத்த ஆறறிவு தேவையில்லை. அன்பு ஒன்றே போதும்' - கூரன்
+### 'Love does not require the glory. Love is enough ' - Koran
 
 *2024-12-19 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201687) · `ta`
 
-இயக்குநரும், நடிகருமான எஸ். ஏ. சந்திரசேகரன் அழுத்தமான வேடத்தில் நடித்திருக்கும் ' கூரன் ' எனும் திரைப்படத்தின் இசை வெளியீட்டு விழா சென்னையில் பிரம்மாண்டமாக நடைபெற்றது. இந்நிகழ்வில் படக்குழுவினருடன் முன்னாள் மத்திய அமைச்சரும், விலங்குகள் நல ஆர்வலருமான திருமதி. மேனகா சஞ்சய் காந்தி பங்கு சிறப்பு அதிதியாக பங்கு பற்றினார். இவருடன் இயக்குநர்கள் எம். ராஜேஷ் ,பொன். ராம் , விஜய் அண்டனி ஆகியோரும் பங்கு பற்றினர்.
+Here's a summary of the text in approximately 200 characters:
 
-அறிமுக இயக்குநர் நிதின் வேம்படி இயக்கத்தில் உருவாகி இருக்கும் ' கூரன்' எனும் திரைப்படத்தில் எஸ். ஏ. சந்திரசேகரன், பாலாஜி சக்திவேல், வை. ஜி .மகேந்திரன், சத்யன், இந்திரஜா ரோபோ சங்கர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். மார்ட்டின் தன்ராஜ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சித்தார்த் விபின் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை கனா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் விக்கி தயாரித்திருக்கிறார்.
+
+
+"Kuran" movie music launch: Chandrasekaran stars, Menaka Gandhi attends. Film about animal rights, directed by Rajesh, Ram, Vijay Antony. Music by Siddharth Vipin. Expected to highlight dog welfare and legal rights.
+
+🟩
+
+Director and actor. A.. The music launch of the movie 'Kuran' starring Chandrasekaran in the role of 'Kuran' was held in Chennai. Former Union Minister and Animal Welfare Rights with the film crew. Menaka Sanjay Gandhi participated as a special guest. Directors with him. Rajesh, gold. Ram and Vijay Antony also participated.
+
+S. S.. A.. Chandrasekaran, Balaji Sakthivel,. G. Mahendran, Satyan, Indiraja Robot Shankar and many others have played. Siddharth Vipin has composed the film, which has been recorded by Martin Tanraj. The film was produced by Vicky on behalf of Kana Productions.
+
+The film's music launch was held in Chennai on the 27th of this month.. Former Union Minister and Animal Welfare Activist Mrs. Menaka Gandhi said, “I have seen this movie. The film talks about the dog's legal right. You need to realize that there is no difference in creatures. There will be no peace within us until we stop attacking animals. We must recognize and recognize that all living things are the same.
 
 ...
 
 [Data](articles/12edc860.json)
+
+[Extended Data](ext_articles/12edc860.ext.json)
 
 ---
 
@@ -523,6 +535,24 @@ Since the country's gross domestic product has increased, we have received a par
 [Data](articles/47906c16.json)
 
 [Extended Data](ext_articles/47906c16.ext.json)
+
+---
+
+### පෙරපාසල් දරුවන්ගේ උදෑසන ආහාරයට ගෙවන මුදල රු. 100ක් දක්වා ඉහළට
+
+*2024-12-19 16:10:24* · [`adalk`](https://www.ada.lk/breaking_news/පෙරපාසල්-දරුවන්ගේ-උදෑසන-ආහාරයට-ගෙවන-මුදල-රු--100ක්-දක්වා-ඉහළට/11-413742) · `si`
+
+පෙර පාසල් සහ මුල් ළමාවිය සංවර්ධන මධ්‍යස්ථානවල දරුවන් සඳහා උදෑසන ආහාර වේලක් ලබා දීමේ වැඩසටහන සඳහා කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වී  තිබේ. ලබන වසරේ දරුවන් 155,000කට පමණ මෙම වැඩසටහනින් ප්‍රතිලාභ ලබා දීමට අපේක්ෂා කෙරේ.
+
+මුල් ළමාවිය සංවර්ධනය පිළිබඳව ජාතික ලේකම් කාර්යාලය විසින් 2017 වර්ෂයේ සිට සෞඛ්‍ය අමාත්‍යාංශයේ තාක්ෂණික මඟපෙන්වීම යටතේ අඩු බර සහිත දරුවන් වැඩි ප්‍රතිශතයක් සිටින මුල් ළමාවිය සංවර්ධන මධ්‍යස්ථාන/පෙර පාසල් දරුවන් සඳහා උදෑසන ආහාරවේල ලබා දීමේ වැඩසටහනක් ක්‍රියාත්මක කරනු ලබයි.
+
+දැනට එක් දරුවෙකු සඳහා දිනකට රුපියල් 60/-ක් ලබා දෙනු ලබන අතර,. වර්තමානයේ ආහාර ද්‍රව්‍යවල මිල ගණන් ඉහළ යාම හේතුවෙන් එම මුදල ප්‍රමාණවත් නොවන බැවින්, ඒය රුපියල් 100/- දක්වා වැඩි කිරීමටත්  මෙම යෝජනාව ඉදිරිපත් වී තිබේ.
+
+, "අඩු බර සහිත දරුවන් වැඩි ප්‍රතිශතයක් සිටින පෙර පාසල්" යන නිර්ණායකය පදනම් කර ගෙන තෝරා ගනු ලබන මුල් ළමාවිය සංවර්ධන මධ්‍යස්ථාන/පෙර පාසල්වල එම වැඩසටහන ඉදිරියට ක්‍රියාත්මක කිරීමටත් කාන්තා සහ ළමා කටයුතු අමාත්‍යවරිය ඉදිරිපත් කළ එම යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමි වී තිබේ.
+
+◼️
+
+[Data](articles/4951da9f.json)
 
 ---
 
@@ -2243,31 +2273,5 @@ Thirteen persons were killed in a criminal boat accident of a passenger vessel i
 [Data](articles/72f4b64e.json)
 
 [Extended Data](ext_articles/72f4b64e.ext.json)
-
----
-
-### Introduction of low quality new liquor bottle
-
-*2024-12-19 09:22:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரம்-குறைந்த-புதிய-மதுபான-போத்தல்-அறிமுகம்/175-348941) · `ta`
-
-Sri Lanka introduces low-quality liquor bottles to combat fake alcohol. New bottles to hit markets by April 2024. Illegal liquor caused 30% drop in excise tax revenue. Aim: Protect consumers from counterfeit drinks. Trial measures failed; new approach deemed necessary.
-
-🟩
-
-The Commissioner General of Excise has introduced a low quality liquor bottle as an alternative to the spread of fake liquor in Sri Lanka.. Udaya Kumara Perera said.
-
-The Commissioner General said that the new liquor bottle market will be introduced by April next year.
-
-He also said that illegal liquor was the cause of the decline in excise tax revenues by 30 per cent and that it was confirmed according to the study conducted.
-
-He added that steps will be taken to introduce these new liquor bottles to protect people from these fake liquor.
-
-He said that only a series of trials were found to be unable to save people from illegal alcoholic beverages and that this new alternative was to be introduced to the people during these tests.. Remble
-
-◼️
-
-[Data](articles/de180e2d.json)
-
-[Extended Data](ext_articles/de180e2d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 00:42:37**
+As of **2024-12-20 01:12:12**
 
 ## Newspaper Stats
 
-*Scraped **61,081** Articles*
+*Scraped **61,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,38 @@ dailymirrorlk | 4,733
 adalk | 5,827
 adaderanalk | 7,447
 tamilmirrorlk | 8,735
-virakesarilk | 10,076
+virakesarilk | 10,077
 adaderanasinhalalk | 10,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,884 (99.7%) of 61,081 articles have been extended.
+60,885 (99.7%) of 61,082 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-20 (Friday)
+
+### முள்ளிவாய்க்காலில் 100 ற்கும்  அதிகமான மியன்மார் அகதிகளுடன் கரையொதுங்கிய நாட்டுப்படகை திருகோணமலைக்கு கொண்டு செல்லும் கடற்படை
+
+*2024-12-20 01:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201699) · `ta`
+
+முல்லைத்தீவு முள்ளிவாய்க்கால் மேற்கு கடற்கரையில் கரையொதுங்கிய மியன்மார் அகதிகளை கொண்ட நாட்டுப்படகை திருகோணமலைக்கு கொண்டு செல்ல கடற்படையினர் நடவடிக்கைகளை மேற்கொண்டுள்ளனர்.
+
+முல்லைத்தீவு முள்ளிவாய்க்கால் மேற்கு கடற்பகுதியில் வியாழக்கிழமை (19.12.2024) காலை மியன்மார் அகதிகள் சுமார் 100 ற்கும் அதிகமானவர்களுடன்  நாட்டுப்படகு ஒன்று கரையொதுங்கியிருந்தது. குறித்த கப்பலில் சிறுவர்கள், கர்ப்பிணி பெண்கள்  உட்பட்ட 100 ற்கும் அதிகமானவர்கள் இருந்துள்ளனர்.
+
+மியன்மாரில் நடக்கும் உள்நாட்டு யுத்தம் காரணமாக தமது உயிரை காப்பாற்றிக்கொள்ள வேறு எந்த நாட்டிலாவது தஞ்சங்கோருவதற்கு குறித்த மக்கள் நாட்டுப்படகில் புறப்பட்டுள்ளனர்.
+
+இந்நிலையில் தற்போதைய காலநிலை காரணமாக காற்று இழுவை அதிகமாக இருந்ததனால் படகு இலங்கையை நோக்கி தள்ளப்பட்டதன் காரணமாகவே குறித்த கப்பல் முள்ளிவாய்க்காலில் கரையொதுங்கியுள்ளது.
+
+குறித்த கப்பலில் இருப்பவர்கள் சுமார் பத்து நாட்களாக கப்பலில் இருந்ததனால் உணவுகள் எதுவும் இன்றி அவதிப்பட்டுள்ளனர், சிலர் மயக்கமும் அடைந்துள்ளனர்.
+
+...
+
+[Data](articles/8c8b2e57.json)
+
+---
 
 ### 2024-12-19 (Thursday)
 
@@ -86,21 +108,35 @@ Asked what he might be able to offer Trump, Putin dismissed an assertion that Ru
 
 ---
 
-### ஜெவ்னா டைட்டன்ஸை வீழ்த்தி அங்குரார்ப்பன லங்கா ரி10 சம்பியனானது ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ்
+### Hambantota Bangla Tigers
 
 *2024-12-19 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201697) · `ta`
 
-ஜெவ்னா டைட்டன்ஸ் அணிக்கு எதிராக கண்டி பல்லேகலை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் இன்று வியாழக்கிழமை (19) இரவு நடைபெற்ற இறுதிப் போட்டியில் 26 ஓட்டங்களால் வெற்றியீட்டியதன் மூலம் அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் கிரிக்கெட்டில்   முதலாவது சம்பியன் பட்டத்தை சூடி ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் வரலாறு படைத்தது.
+Here's a summary of the text in approximately 200 characters:
 
-ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நடத்தப்பட்ட அங்குரார்ப்பண லங்கா ரி10 சுப்பர் லீக் அத்தியாயத்தின் தொடக்கப் போட்டியிலும் முதாலாவது தகுதிகாண் போட்டியிலும்  ஜெவ்னா டைட்டன்ஸிடம் தோல்வி அடைந்த ஹம்பாந்தொட்ட பங்ளா டைகர்ஸ் இறுதிப் போட்டியில் பதிலடி கொடுத்து வெற்றியீட்டி முந்தைய தோல்விகளை நிவர்த்தி செய்துகொண்டது.
 
-முதல் சுற்றிலும் தகுதிகாண் சுற்றிலும் தோல்வி அடையாத அணியாக இறுதிப் போட்டியில் விளையாடியதால் ஜெவ்னா டைட்டன்ஸ் வெற்றிபெறும் என்றே பலரும் எதிர்பார்த்தனர்.
 
-ஆனால் நாணய சுழற்சியில் வெற்றிபெற்றும் ஜெவ்னா டைட்டன்ஸ் களத்தடுப்பை தெரிவு செய்ததால் தோல்வியைத் தழுவ நேரிட்டது.
+Hambantota Bangla Tigers won inaugural Lanka R10 Super League Cricket title, defeating Jevna Titans by 26 runs. Key performances: Shevan Deniel (26 runs), Dasun Shanaka (21 runs). Jevna Titans' Tom Abeel scored 54 not out. Dasun Shanaka took 2 wickets for 4 runs. Hambantota Bangla Tigers earned Rs. 2 crore 10 lakhs prize money.
+
+🟩
+
+Hambantota Bangla Tigers made the first championship title in the inauguration of the inner Lanka R10 Super League Cricket by 26 runs in the final of the final of the final of the final of the last night (19) at the Pallekele International Cricket Stadium in Kandy against the Jevena Titans.
+
+The Hambantota Bangla Tigers, who lost to Jevna Titans in the opening match of the Sri Lanka Cricket and the inauguration of the Sri Lanka Cricket Institute and the Mudal Eligibility Tournament.
+
+Jevna Titans expected that the Titans would win as they played in the final as a team that did not lose in the first round and qualifying round.
+
+But the winning of the currency spin, Jevna was a failure of the Titans.
+
+Hambantota Bangla Tigers, who were first invited to bat first, scored 133 runs for the loss of 7 wickets in 10 overs.
+
+Gusal Perera (9) failed to shine again. But in the first wicket, he shared 35 runs off 16 balls with Mohammed Shazat.
 
 ...
 
 [Data](articles/1b5e88bd.json)
+
+[Extended Data](ext_articles/1b5e88bd.ext.json)
 
 ---
 
@@ -2321,35 +2357,5 @@ Answers - No need to be discussed at yesterday's cabinet. Before that, we had a 
 [Data](articles/eacc9e02.json)
 
 [Extended Data](ext_articles/eacc9e02.ext.json)
-
----
-
-### Please give us the name of the burned Janasas - please request the government of Rishad Bathiudeen
-
-*2024-12-19 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201631) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Request government reveal names of COVID victims. Health Minister urged to publish list of those who died from Kovit infection. Opposition criticizes delay in releasing information, citing public right to know.
-
-🟩
-
-The Health Minister should take steps to publish the name of the Janasas who died in a kovit infection. All Ceylon People's Congress leader Rishad Bathiudeen said that he did not revise the answer to the council yesterday.
-
-He said this while addressing the second day of debate on the Paper Students' Motion for School Students in Parliament on Wednesday (18).
-
-The Minister of Health in Parliament regarding the burning of the Janasas who died in the Kovit infection is not corrected to us. No one, including the president in this government, is supported by this Janasa burning. One hundred percent is against it.
-
-But after the last 4 and 5 years, Kottaya Rajapaksa went on to sit on the seat and act in favor of Kota, delaying the outdoor of Kota.. We don't expect that action to you.
-
-So we need to take steps to provide us with the names of the burned Janasas.
-
-...
-
-[Data](articles/c9a19216.json)
-
-[Extended Data](ext_articles/c9a19216.ext.json)
 
 ---

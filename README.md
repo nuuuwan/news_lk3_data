@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 09:20:51**
+As of **2024-12-19 09:30:16**
 
 ## Newspaper Stats
 
-*Scraped **60,927** Articles*
+*Scraped **60,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,689
 economynextcom | 3,711
 dailyftlk | 4,214
 dailymirrorlk | 4,733
-adalk | 5,810
+adalk | 5,811
 adaderanalk | 7,427
 tamilmirrorlk | 8,706
 virakesarilk | 10,036
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,524
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,797 (99.8%) of 60,927 articles have been extended.
+60,798 (99.8%) of 60,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -870,6 +870,8 @@ The launch event was held recently at the Sri Lanka Red Cross premises in Colomb
 
 [Data](articles/6376acae.json)
 
+[Extended Data](ext_articles/6376acae.ext.json)
+
 ---
 
 ### Students from Sri Lanka achieve top results in Outstanding Cambridge Learner Awards
@@ -1241,6 +1243,26 @@ Herath pointed out the compounding challenges Sri Lanka faced due to these crise
 [Data](articles/e2865109.json)
 
 [Extended Data](ext_articles/e2865109.ext.json)
+
+---
+
+### මේ වසරේදී අධිවේගයේ අනතුරුවලින් 16ක් මරුට
+
+*2024-12-18 19:07:41* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-අධිවේගයේ-අනතුරුවලින්-16ක්-මරුට/11-413729) · `si`
+
+අධිවේගී මාර්ගවල මේ වසරේ ගෙවීගිය කාලය තුළදී සිදුවූ රිය අනතුරුවලින් පුද්ගල මරණ 16ක් සිදු වී පුද්ගලයන් 05දෙනෙකු බරපතළ තුවාල ලබා තිබෙන බව පොලීසිය සඳහන් කරයි.
+
+මෙරට තුළ අධිවේගී මාර්ග තුනක් පවතින අතර, එනම් දක්ෂිණ අධිවේගී මාර්ගය, පිටත වටරවුම් අධිවේගී මාර්ගය, කොළඹ කටුනායක අධිවේගී මාර්ගවල මෙම අනතුරු සිදුව තිබේ.
+
+අපරික්ෂාකාරී හා නොසැලිකිලිමත් රිය ධාවනය හා රියදුරුට තිබෙන අධික විඩාව නිසා අධිවේගී මාර්ගවල රිය අනතුරු සිදුවීමට ප්‍රධාන හේතූන් වි තිබෙන බවද පෙන්වා දෙයි.
+
+මේ නිසා අධිවේගී මාර්ගවල රිය ධාවන කිරීමේදී මාර්ග නීති පිළිපදිමින් රිය ධාවනය කරන ලෙසත්, අධිවේගී මාර්ගවල රිය ධාවනය කිරීමේදී සාමාන්‍ය මාර්ගවල රිය ධාවනය කරන වේගයට වඩා වේගය වැඩි බවද සඳහන් කරයි.
+
+මේ නිසා අධිවේගී මාර්ගය තුළදී රිය අනතුරුක් සිදුවුහොත් ජීවිතවලට සිදුවන හානිය වැඩි බවත්, දැඩි මහන්සියකින් සිටින අවස්ථාවක රිය ධාවනය නොකරන ලෙසත් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/174db765.json)
 
 ---
 
@@ -2359,37 +2381,5 @@ After the swearing in was sworn in before the Speaker, he was signed by the Secr
 [Data](articles/f532e50f.json)
 
 [Extended Data](ext_articles/f532e50f.ext.json)
-
----
-
-### Americans disturbed space objects
-
-*2024-12-18 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204490) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Unidentified space objects spotted over New Jersey, Washington D.C., and New York. Military unsure of origin. President Trump claims U.S. authorities will reveal truth about anomalies.
-
-🟩
-
-For more than a month, space objects uncovered in the sky of New Jersey Prefecture observation of more than a month.
-
-Several objects were also observed in Washington DC capital and New York State.
-
-The Ministry of Defense has not even been able to clearly reveal the abnormal objects.
-
-They have said that these objects were not in foreign countries.
-
-The US President Donald Trump says that the American security forces have the responsibility of informing the public to inform people what they are responsible.
-
-"Our Army and the President know the truth. Something strange is going to be. People want to know the truth to tell people. "
-
-◼️
-
-[Data](articles/95715918.json)
-
-[Extended Data](ext_articles/95715918.ext.json)
 
 ---

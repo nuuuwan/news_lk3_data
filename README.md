@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 20:27:19**
+As of **2024-12-19 20:01:43**
 
 ## Newspaper Stats
 
-*Scraped **61,053** Articles*
+*Scraped **61,052** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
-colombotelegraphcom | 620
+colombotelegraphcom | 619
 bbccomsinhala | 644
 islandlk | 3,689
 economynextcom | 3,716
@@ -26,71 +26,49 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,861 (99.7%) of 61,053 articles have been extended.
+60,858 (99.7%) of 61,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
 
-### Risk of attacking the north of the north
+### வடக்கில் பரவியுள்ள எலிக்காய்ச்சல் விலங்குகளையும் தாக்கும் அபாயம் - வைத்தியர் எஸ்.வசீகரன்
 
 *2024-12-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201677) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வடக்கு மாகாணத்தில் தற்போது பரவியுள்ள எலிக்காய்ச்சல் நோயானது மனிதர்கள் உள்ளிட்ட பல்வேறு விலங்குகளிலும் ஏற்படக்கூடிய அபாயம் காணப்படுவதாக வடக்கு மாகாண கால்நடை சுகாதார உற்பத்தி திணைக்கழகத்தின் மாகாணபணிப்பாளர் வைத்தியர் எஸ்.வசீகரன் தெரிவித்துள்ளார்.
 
+எலிக்காய்ச்சல் தொடர்பில் விளக்கமளிக்கும் ஊடக சந்திப்பு திருநெல்வேலியில் உள்ள கால்நடை சுகாதார உற்பத்தி திணைக்களத்தில் வியாழக்கிழமை (19) இடம்பெற்ற போதே மேற்கண்டவாறு தெரிவித்தார்.
 
+எலியின் சிறுநீர் மற்றும் மலம் மூலம் வெளியேறும் இப் பக்ரீரியாவானது மழை காலங்களில் மழைநீர் மற்றும் வெள்ளத்தில் கலந்து அயற்புறங்களுக்கு பரவும்.
 
-Mulch fever spreads through contaminated water, affecting humans and animals. Bacteria from rat urine/feces can penetrate skin/mouth. Disease occurs in dogs, goats, cattle, pigs. Blood/urine tests confirm presence. Prevention measures include avoiding contaminated water sources and proper hygiene practices. Vaccines available nationwide.
+தொற்றடைந்த நீரை பருகுவதாலோ அன்றி காயமுற்ற தோல், கண், வாய் போன்ற பகுதிகளில் தொடுகை உறும் வேளைகளில் இப் பக்றீரியா உடலுள் ஊடுருவிச் செல்லும் வாய்ப்புள்ளது.
 
-🟩
-
-Provincial Director of the Northern Provincial Department of Livestock Health Production, Dr. S.Sashekaran, said that the present spread of mulch fever in the Northern Province is at risk in various animals, including humans.
-
-He made this statement at a media briefing on the fever on Thursday (19) at the Livestock Health Production Department in Tirunelveli.
-
-The bacteria, which exits the urine and feces of the rat, can spread rainwater and floods during the rainy season.
-
-Drinking infected water, but in the skin, eye, and mouth, this bacteria can penetrate the body.
-
-The same bacteria are also likely to cause the disease in dogs, goats, cattle and pigs.
-
-The disease can cause the disease in the environment where these animals live in the environment and the disease can cause the disease in the environment.
-
-Just as the blood tests are committed to the blood of the human blood, the blood and urine of the breeding animals can be examined and the presence of the pathogen can be confirmed.
+இதே பக்றீரியாக்கள் நாய், ஆடு, மாடு, பன்றி போன்ற வளர்ப்பு மிருகங்களில் கூட இந்நோயினை ஏற்படுத்திவிடவும் வாய்ப்புக்கள் உண்டு.
 
 ...
 
 [Data](articles/575a2275.json)
 
-[Extended Data](ext_articles/575a2275.ext.json)
-
 ---
 
-### Allow renovation
+### சுகததாச விளையாட்டு வளாகத்தை புனரமைக்க அனுமதி
 
 *2024-12-19 19:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகததாச-விளையாட்டு-வளாகத்தை-புனரமைக்க-அனுமதி/175-348977) · `ta`
 
-Renovation approved for Sugathadasa National Sports Complex. Cabinet grants funds for track repair, football ground preparation, timing system installation, and lighting tower reconstruction to ensure international-standard facilities for Sri Lankan athletes.
+சுகததாச தேசிய விளையாட்டு வளாகத்தை சர்வதேச தரத்திற்கு ஏற்ப புனரமைப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கப்பட்டுள்ளது.
 
-🟩
+சுகததாச தேசிய விளையாட்டு வளாகம் சர்வதேச அளவில் அங்கீகரிக்கப்பட்ட விளையாட்டு வளாகமாகும், இது தரம் 1 விளையாட்டு வசதிகளை வழங்குகிறது.
 
-Cabinet approval has been granted to rehabilitate the National Sports Complex of the Sugathadasa National Sports Complex.
+400 மீற்றர், 200 மீற்றர் மற்றும் 80 மீற்றர் செயற்கை தடங்களைக் கொண்ட இலங்கையில் உள்ள ஒரே விளையாட்டு வளாகம் இது சர்வதேச தரத்திற்கு ஏற்ப சகல வசதிகளையும் கொண்டது.
 
-The Sugathadasa National Sports Complex is an internationally recognized sports complex, which offers Grade 1 sports facilities.
+2018 ஆம் ஆண்டு செயற்கை தடம் புனரமைக்கப்பட்டது, ஆனால் தற்போது அதில் பல விரிசல்கள் காணப்படுவதால், இது தேசிய மட்ட விளையாட்டுகளுக்கு பொருத்தமற்றது என இலங்கை தடகள சங்கம் தெரிவித்துள்ளது.
 
-The only sports complex in Sri Lanka with 400 meters, 200 meters and 80 meters artificial tracks, which have all the amenities according to international standards.
+அந்தவகையில், இலங்கை விளையாட்டு வீரர்களை தேசிய மற்றும் சர்வதேச போட்டிகளுக்கு அனுப்புவதற்கு தேவையான வசதிகளை ஏற்படுத்திக்கொடுக்கும் நோக்கத்துடன் சர்வதேச தரத்திற்கமைய இந்த தடத்தை புனரமைப்பது தேசிய முன்னுரிமையாக அடையாளம் காணப்பட்டுள்ளது.
 
-The Sri Lanka Athletics Association said that the artificial track was reconstructed in 2018, but now there are many cracks in it.
-
-In that case, the renovation of the trail has been identified as a national priority to provide Sri Lankan athletes to national and international competitions.
-
-Accordingly, the Cabinet has approved the proposal put forward by the Minister of Sports to carry out tasks such as rehabilitation of the tracks, preparing the football grounds, installing time engines and reconstruction of lighting towers.
-
-◼️
+...
 
 [Data](articles/eedb5283.json)
-
-[Extended Data](ext_articles/eedb5283.ext.json)
 
 ---
 
@@ -120,29 +98,17 @@ President Anura Kumara Dissanayake visited the St. Sebastian Church in Katuwapit
 
 ---
 
-### We expect the current president to create a new constitution and pass it- former Speaker Karujayasuriya
+### தற்போதைய ஜனாதிபதியாவது புதிய அரசியலமைப்பை உருவாக்கி அதனை நிறைவேற்றுவார் என எதிர்பார்க்கின்றோம் - முன்னாள் சபாநாயகர் கருஜயசூரிய
 
 *2024-12-19 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201693) · `ta`
 
-Here's a summary of 200 characters:
+முன்னாள் ஜனாதிபதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவால் உருவாக்கப்பட்ட அரசியலமைப்பு அன்று நிறைவேற்றப்பட்டிருந்தால், இன்று நாடு பாரியளவில் முன்னேற்றமடைந்திருக்கும். தற்போதைய ஜனாதிபதியாவது அதனை நிறைவேற்றுவார் என எதிர்பார்ப்பதாக முன்னாள் சபாநாயகர் கருஜயசூரிய தெரிவித்தார்.
 
-
-
-Former Speaker Karujayasuriya expects current president to create new constitution, citing former President Chandrika Bandaranaike Kumaratunga's failed attempt. He hopes this will bring national unity and economic/social change. The statement was made during an event providing cancer relief, commemorating victims of a 1998 suicide bombing in Colombo.
-
-🟩
-
-If the constitution was passed by former President Chandrika Bandaranaike Kumaratunga, the country would have improved today. Former Speaker Karujayasuriya said he expects the current president to fulfill it.
-
-The event was held on Wednesday (18) to provide relief to the Maharaka Indira Cancer Eradication Organization, which was aimed at former President Chandrika Bandaranaike Kumaratunga in Colombo 25 years after the suicide bombing in Colombo.. He said this while addressing the event.
-
-Former Speaker Karu Jayasuriya, former President Chandrika Kumaratunga, has forgotten the efforts to create a new constitution and create national unity.. He has held 21 meetings for this. I have also participated in them. No politician has expressed opposition to that constitution.
+முன்னாள் ஜனாதிபதி சந்திரிகா பண்டாரநாயக்க குமாரதுங்கவை இலக்காகக் கொண்டு கொழும்பில் தற்கொலை குண்டு தாக்குதல் மேற்கொள்ளப்பட்டு 25 ஆண்டுகள் நிறைவடைந்துள்ளமையை முன்னிட்டு மஹரக இந்திரா புற்றுநோய் ஒழிப்பு அமைப்பிற்கு நிவாரணங்களை வழங்கும் நிகழ்வு புதன்கிழமை (18) இடம்பெற்றது. இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றிய போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
 ...
 
 [Data](articles/7d3069df.json)
-
-[Extended Data](ext_articles/7d3069df.ext.json)
 
 ---
 

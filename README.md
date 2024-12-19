@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 11:27:24**
+As of **2024-12-19 11:43:57**
 
 ## Newspaper Stats
 
-*Scraped **60,955** Articles*
+*Scraped **60,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 455
 colombotelegraphcom | 619
 bbccomsinhala | 640
 islandlk | 3,689
-economynextcom | 3,711
+economynextcom | 3,714
 dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,813
 adaderanalk | 7,433
-tamilmirrorlk | 8,712
+tamilmirrorlk | 8,715
 virakesarilk | 10,042
 adaderanasinhalalk | 10,528
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 10,528
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,810 (99.8%) of 60,955 articles have been extended.
+60,815 (99.8%) of 60,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Action to publish the Gazette Notification
+
+*2024-12-19 11:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-அறிவித்தலை-வெளியிட-நடவடிக்கை/175-348949) · `ta`
+
+Daily Mirror publishes Gazette Notification due to over 200 specialists facing retirement. Health Minister submits new note after Appeal Court maintains 2018 doctor retirement age ruling.
+
+🟩
+
+Daily Mirror has decided to take steps to publish a gazette notification, as more than 200 experts are at risk of retirement in the wake of the unrest and uncertainty of the retirement of specialist experts.
+
+Health Minister Nalinda Jayatissa has submitted a new note on the issue, with the Appeal Court's decision to continue the retirement age of doctors who specialize in state hospitals, as in effect from 2018, has been issued by the Court of Appeal.
+
+◼️
+
+[Data](articles/8f004374.json)
+
+[Extended Data](ext_articles/8f004374.ext.json)
+
+---
+
+### S/The Examination in March 2025
+
+*2024-12-19 11:22:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-மார்ச்சில்-சா-த-பரீட்சை/175-348948) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+GCE Ordinary Level Exam 2025: Scheduled March 17-26, 2025. Announced by Commissioner General of Examinations Amit Jayasundara.
+
+🟩
+
+The Department of Examinations has announced that the GCE Ordinary Level Examination will be held in March 2025.
+
+The Commissioner General of Examinations Amit Jayasundara said that this year's general examination will be held from March 17 to 26, 2025.
+
+◼️
+
+[Data](articles/941a00a1.json)
+
+[Extended Data](ext_articles/941a00a1.ext.json)
+
+---
+
+### Raid
+
+*2024-12-19 11:22:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபச்சார-விடுதி-சுற்றிவளைப்பு/175-348947) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Police raid arrests 5 women aged 24-43 from Ayurvedic spas near Maliban junction. Operated as prostitutes, residents of Matale, Yakkalamulla, Mawanella, Bendra, Panadura."
+
+🟩
+
+Two prostitutes operating under the guise of Ayurvedic Spas are surrounded by Malkisai Beach Road and near the Maliban junction.
+
+Five women have been arrested following a confidential information received by the police following a raid by the Mount Lavinia Police.
+
+The arrested women are between the ages of 24 - 43 who are residing in Matale, Yakkalamulla, Mawanella, Bendra and Panadura areas.
+
+◼️
+
+[Data](articles/018438c1.json)
+
+[Extended Data](ext_articles/018438c1.ext.json)
+
+---
 
 ### Carrom board case, against Mahindananda and Nalin Fernando, postponed
 
@@ -114,25 +184,31 @@ A long submission was presented in the court of the court, pointing out the law 
 
 ---
 
-### ඥානසාර හිමිට වරෙන්තු
+### Gnanasara Thero warrants
 
 *2024-12-19 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204512) · `si`
 
-ඉස්ලාම් දහමට අපහාස කළේ යැයි ගොනුකර ඇති නඩුවක විත්තිකරුවකු ලෙස නම්කර සිටින බොදුබල සේනා සංවිධානයේ ලේකම් පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් එම නඩුව කැඳවූ අවස්ථාවේ අද (19) අධිකරණයේ පෙනී නොසිටීම හේතුවෙන් උන්වහන්සේ අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස දන්වා කොළඹ මහෙස්ත්‍රාත් අධිකරණය වරෙන්තු නිකුත් කළේය.
+Colombo Magistrate's Court issues warrant for Bodu Bala Sena leader Gnanasara Thera's arrest. Case adjourned to January 9 due to Thera's absence, citing illness.
 
-මෙම නඩුවේ තීන්දුව අද (19) දින ප්‍රකාශයට පත් කිරීමට නියමිතව තිබුණි.
+🟩
 
-එහෙත් නඩුව කැඳවූ අවස්ථාවේදී ඥානසාර හිමියන් අධිකරණයේ පෙනී සිටියේ නැත.
+The Colombo Magistrate's Court issued a warrant at the arrest of the Bodu Bala Sena (BBSA Gnanasara Thera was appointed as a defendant in the court today.
 
-ඥානසාර හිමියන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයා අධිකරණයට කරුණු දක්වමින් තමා සේවාදායක හිමියන් අසනීප තත්ත්වයෙන් පසුවන නිසා අධිකරණයට පැමිණීමට නොහැකි වූ බව සඳහන් කළේය.
+The verdict in this case was to be announced today (19).
 
-ඉදිරිපත් වූ කරුණු සලකා බැලූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා නඩු තීන්දුව ප්‍රකාශ කිරීම ජනවාරි මස 09 වනදා තෙක් කල් තැබීය.
+But the Gnanasara Thera did not appear in court when the case was taken up.
 
-ඒ අනුව ඥානසාර හිමියන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+The lawyer appearing on behalf of Gnanasara Thera, the lawyer said he was unable to come to court, as the server owners were ill.
+
+Colombo Additional Magistrate Pradesman Amarasene adjourned the case until the 9th of January.
+
+The Magistrate ordered that Gnanasara Thera was arrested and produced before court.
 
 ◼️
 
 [Data](articles/a2feb5ac.json)
+
+[Extended Data](ext_articles/a2feb5ac.ext.json)
 
 ---
 
@@ -157,6 +233,8 @@ Justice Fox described the fatal attack as brutal and horrific, saying Kurera had
 ...
 
 [Data](articles/d1be5a97.json)
+
+[Extended Data](ext_articles/d1be5a97.ext.json)
 
 ---
 
@@ -248,6 +326,28 @@ The Colombo Municipal Council, the former member of the Colombo Municipal Counci
 
 ---
 
+### Sri Lanka rupee depreciates to 292.70/293.00 to US dollar, bonds up
+
+*2024-12-19 10:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-to-292-70-293-00-to-us-dollar-bonds-up-195081/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated steeply to 292.70/293.00 to the US dollar in the spot market, from 291.25/50 to the US dollar the previous day, while bond yields were up, dealers said.
+
+Analysts had warned that if excess liquidity was allowed to build up, including from acquisition of dollars, the currency will weaken when they are used for imports as domestic prices are pushed up from higher demand.
+
+If domestic demand and credit is pushed up from liquidity from central bank dollar rupee swaps the same consequence will happen as there was no commitment to defend the currency against excess liquidity under a so-called flexible exchange rate.
+
+Flexible exchange rates, coupled with money printed to reach high cost of living targets, have triggered social unrest and also sovereign default in reserve collecting central banks.
+
+A bond maturing on 15.09.2027 was quoted at 9.75/80 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/15 percent.
+
+...
+
+[Data](articles/72a3246b.json)
+
+---
+
 ### அரிசிக்கு தொடர்ந்தும் தட்டுப்பாடு
 
 *2024-12-19 09:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசிக்கு-தொடர்ந்தும்-தட்டுப்பாடு/175-348943) · `ta`
@@ -331,6 +431,26 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The Depa
 [Data](articles/720944e4.json)
 
 [Extended Data](ext_articles/720944e4.ext.json)
+
+---
+
+### Sri Lanka opposition pleads to cut 40-pct food tax as price controls trigger shortages
+
+*2024-12-19 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-pleads-to-cut-40-pct-food-tax-as-price-controls-trigger-shortages-195070/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s opposition legislators pleaded with the government to cut a 40 percent food tax on rice amid a rise in rice consumption that pushed up prices amid import controls, but has since turned into shortages due to enforcement of price controls.
+
+The state allowed rice to be imported till December 2024 in a small concession to the public who have been battered by a currency collapse from flexible inflation targeting, but did not remove the food tax.
+
+Food taxes are imposed at high levels in Sri Lanka to protect producer lobbies keep food prices above global levels and operate an autarky (self-sufficiency)
+
+“Importers have to pay on average about 150 rupees kilo to Indian suppliers,” opposition legislator Mujiber Rahuman said.
+
+“You are slapping 65 rupees at the port as tax. By the time the rice comes out of the port the price is 215 rupees. There is a price control of 220 rupees.
+
+...
+
+[Data](articles/de55e142.json)
 
 ---
 
@@ -521,6 +641,28 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/7deeced9.json)
+
+---
+
+### Fed claims Us economic expansions solid, cuts rate to 4.50-4.75-pct, stocks tank
+
+*2024-12-19 08:07:00* · [`economynextcom`](https://economynext.com/fed-claims-us-economic-expansions-solid-cuts-rate-to-4-50-4-75-pct-stocks-tank-195060/) · `en`
+
+ECONOMYNEXT – The US Federal Reserve said economy continued to “expand at a solid pace” cutting rates 25 basis points to to 4.25/50 percent, under its confused mandate of boosting employment with ‘monetary policy’ and maintaining low index inflation.
+
+“Recent indicators suggest that economic activity has continued to expand at a solid pace,” Fed chief Jerome Powell said.
+
+“Since earlier in the year, labor market conditions have generally eased, and the unemployment rate has moved up but remains low.
+
+“Inflation has made progress toward the Committee’s 2 percent objective but remains somewhat elevated.”
+
+The S&P 500 fell 2.9 percent, just shy of its biggest loss for the year, to pull further from its all-time high set a couple weeks ago. The Dow Jones Industrial Average lost 1,123 points, or 2.6 percent, and the Nasdaq composite dropped 3.6 percent.
+
+Stocks tumbled party due what the Fed calls ‘forward guidance’ hinting that there may be only two rate cuts next year.
+
+...
+
+[Data](articles/4595543f.json)
 
 ---
 
@@ -2173,129 +2315,5 @@ Meanwhile, the conflict between the General Assembly, the General Front and the 
 ...
 
 [Data](articles/307c26f3.json)
-
----
-
-### ஜனாதிபதி அநுரகுமார திசாநாயக்க அடுத்த மாதம் சீனாவுக்கு விஜயம்  -  வெளிவிவகார அமைச்சர் விஜித ஹேரத்
-
-*2024-12-18 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201588) · `ta`
-
-இந்தியாவுக்கான விஜயத்தினை அடுத்து, ஜனாதிபதி அநுரகுமார திசாநாயக்க அடுத்த மாதம் சீனாவுக்குச் செல்வுள்ளார் என்று வெளிவிவகார அமைச்சர் விஜித ஹேரத்  இந்தியாவில் வைத்து தெரிவித்துள்ளதாக 'தி ஹிந்து' செய்தி வெளியிட்டுள்ளது.
-
-அத்துடன் புதிதாக தெரிவுசெய்யப்பட்டுள்ள அரசாங்கம் 'இருதரப்ப-கூட்டுவெற்றி' என்ற கோட்பாட்டுடன் அனைத்து நாடுகளுடன் உறவுகளை பேணவுள்ளதாகவும் அவர் கூறியுள்ளார் என்றும் அச்செய்தியில் குறிப்பிட்டுள்ளது.
-
-டில்லியில் உள்ள இந்தியன் பவுண்டேசனில் ஒழுங்கப்பட்ட நிகழ்வென்றில் பங்கேற்று உரையாற்றிய வெளிவிவகார அமைச்சர் விஜித ஹேரத் மேற்கண்டவாறு தெரிவித்ததோடு நாங்கள் ஒரு புதிய அரசாங்கமாக, சீனாவுடனும், இந்தியாவுடனும், அமெரிக்கா, ரஷ்யா, கியூபா மற்றும் வட கொரியா போன்ற பிற நாடுகளுடனும் நல்ல உறவைக் கொண்டிருக்கவே விரும்புகின்றோம். அதற்காக அர்ப்பணிப்புடன் செயற்படுகின்றோம் என்றும் அவர் கூறியுள்ளதாகவும் அச்செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/9cef1d40.json)
-
----
-
-### நாட்டை காட்டிக்காெடுக்கும் எந்த ஒப்பந்தத்திலும் இந்தியாவுடன் கைச்சாத்திடவில்லை - அமைச்சர் விஜித்த ஹேரத்
-
-*2024-12-18 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201590) · `ta`
-
-இந்தியாவுடன் வலுசக்தி ஒப்பந்தம் தொடர்பில் நடவடிக்கை எடுக்க ஜனாதிபதி அநுரகுமார திஸாநாயக்கவுக்கு அது தொடர்பில் மக்கள் ஆணை இருக்கிறது. அதன் பிரகாரம்  உற்பத்தி செய்யும் மேலதிக வலுசக்தியை பிம்ஸ்டெக் வலயத்துக்குள் ஏற்றுமதி செய்து நாட்டுக்கு நன்மை ஏற்படுத்த நடவடிக்கை எடுப்போம். நாட்டை காட்டிக்காெடுக்கும் எந்த ஒப்பந்தத்திலும் நாங்கள் இந்தியாவுடன் கைச்சாத்திட்டதில்லை என வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் புதன்கிழமை (18) வாய்மூல விடைக்கான கேள்வி நேரத்தின்போது, எதிர்க்கட்சி உறுப்பினர் நளின் பண்டார எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-நளின் பண்டார தனது கேள்வியின்போது, முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இந்தியாவுடன் ஏற்படுத்திக்கொண்டுள்ள ஒப்பந்தங்கள் அனைத்துக்கும் ஜனாதிபதி அநுரகுமார திஸாநாயக்க இந்திய விஜயத்தின்போது அதற்கு அனுமதி வழங்கியுள்ளார்.
-
-அதேநேரம் எட்கா ஒப்பந்தத்துக்கு எதிர்ப்பு தெரிவித்துவந்த மக்கள் விடுதலை முன்னணி, தற்போது அந்த எதிர்ப்பை வபஸ் பெற்றுக்கொள்கிறதா என கேட்கிறேன்.
-
-...
-
-[Data](articles/413e755b.json)
-
----
-
-### Sri Lanka stocks close up despite early profit taking
-
-*2024-12-18 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-despite-early-profit-taking-195053/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange ended firmer on Wednesday, after a drop in the early trade, data on its site showed.
-
-The broader ASPI closed up 0.67 percent, or 97.84 points, at 14,614.30; while the more liquid S&P SL20 Index closed up 0.45 percent, or 19.56 points, at 4,404.13.
-
-“There was profit taking early in the trade, but we saw buyers came in after that. With the fixed income returns are on the decline, investors are now buying stocks,” a stock broker said.
-
-There was a continued rallying in banking stocks, they said.
-
-Hatton National Bank closed 1.3 percent up at 275.50, and DFCC Bank closed 0.3 percent firmer at 91.30.
-
-“Banking shares are gaining because investors see no impact from the sovereign debt restructuring.”
-
-Foreign investors bought a net of 100.7 million worth of shares on Wednesday (18).
-
-...
-
-[Data](articles/0cf45766.json)
-
----
-
-### Sri Lanka is named Sri Lanka 20 squad
-
-*2024-12-18 17:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204496) · `si`
-
-Sri Lanka names 20-player squad for T20 tournament. Led by Charith, team plays 3 matches starting Jan 28, 2025. Departure for New Zealand set for Dec 20. Squad includes Kusal Mendis, Kusal Mendanda, and others.
-
-🟩
-
-Sri Lanka cricket team has declared the selected pool for the Twenty20 tournament today (18).
-
-The squad, led by Charith, consists of 16 players.
-
-The Sri Lankan team playes Twenty20s and ODIs for 3 matches, and first the T20 tournament will be held first.
-
-These matches are scheduled to be held on January 28, 30, 20, 2025.
-
-Sri Lanka is due to leave for New Zealand on December 20.
-
-Charith Sidenns, Kusal Mendis, Kusal Mendandanda, Ganduka Vandaranga, Chamindu Wandimasinghe, Jenanu Wanderna, Asitha Wandiran, Asitha Fernando, Banura Fernando, BuddhaFernando
-
-◼️
-
-[Data](articles/fa5ac51b.json)
-
-[Extended Data](ext_articles/fa5ac51b.ext.json)
-
----
-
-### PM Directorate to submit the report
-
-*2024-12-18 17:05:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-சமர்ப்பிக்குமாறு-பிரதமர்-பணிப்புரை/175-348915) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prime Minister Harini Amarasuriya orders investigation into vaccine-related incidents at University Medical Center. Directs UGC Chair, Agriculture Faculty Dean, and Balangoda Hospital Medical Officer to assess student status.
-
-🟩
-
-Prime Minister Harini Amarasuriya has directed the authorities to investigate the incident and submit a report on the incident of illicit incidents due to the vaccine at the University Medical Center.
-
-The Prime Minister has issued a directive to the Chairman of the University Grants Commission, the Faculty of the Faculty of Agricultural Sciences and the Medical Officer of the Balangoda Resource Hospital to evaluate the status of the students.
-
-◼️
-
-[Data](articles/a2c6300a.json)
-
-[Extended Data](ext_articles/a2c6300a.ext.json)
-
----
-
-### 90 Days Of AKD’s Presidency
-
-*2024-12-18 17:04:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/90-days-of-akds-presidency/) · `en`
-
-The first 90 days of the President’s tenure serves as a prelude to the leadership expected over the next five years. While initial steps like limiting expenses and curbing waste were commendable, the government has failed to deliver clear solutions to key issues impacting the people. This period highlights the administration’s shortcomings, particularly in planning, risk assessment, and crisis management when addressing critical matters.
-
-One of the most pressing failures of President Anura Kumara Dissanayake’s government is the inability to recognise and confront the deep-rooted control of state machinery by Rajapaksa and Wickremesinghe loyalists. For the last three decades—since 1994 under Chandrika Kumaratunga, Mahinda Rajapaksa, and Ranil Wickremesinghe—government offices, public institutions, military, police, and the foreign service have been systematically filled with political appointees, loyalists, and close confidantes of these regimes.
-
-...
-
-[Data](articles/66e661b2.json)
 
 ---

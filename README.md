@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 20:15:23**
+As of **2024-12-19 20:01:43**
 
 ## Newspaper Stats
 
@@ -26,43 +26,29 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,859 (99.7%) of 61,052 articles have been extended.
+60,858 (99.7%) of 61,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
 
-### Risk of attacking the north of the north
+### வடக்கில் பரவியுள்ள எலிக்காய்ச்சல் விலங்குகளையும் தாக்கும் அபாயம் - வைத்தியர் எஸ்.வசீகரன்
 
 *2024-12-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201677) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+வடக்கு மாகாணத்தில் தற்போது பரவியுள்ள எலிக்காய்ச்சல் நோயானது மனிதர்கள் உள்ளிட்ட பல்வேறு விலங்குகளிலும் ஏற்படக்கூடிய அபாயம் காணப்படுவதாக வடக்கு மாகாண கால்நடை சுகாதார உற்பத்தி திணைக்கழகத்தின் மாகாணபணிப்பாளர் வைத்தியர் எஸ்.வசீகரன் தெரிவித்துள்ளார்.
 
+எலிக்காய்ச்சல் தொடர்பில் விளக்கமளிக்கும் ஊடக சந்திப்பு திருநெல்வேலியில் உள்ள கால்நடை சுகாதார உற்பத்தி திணைக்களத்தில் வியாழக்கிழமை (19) இடம்பெற்ற போதே மேற்கண்டவாறு தெரிவித்தார்.
 
+எலியின் சிறுநீர் மற்றும் மலம் மூலம் வெளியேறும் இப் பக்ரீரியாவானது மழை காலங்களில் மழைநீர் மற்றும் வெள்ளத்தில் கலந்து அயற்புறங்களுக்கு பரவும்.
 
-Mulch fever spreads through contaminated water, affecting humans and animals. Bacteria from rat urine/feces can penetrate skin/mouth. Disease occurs in dogs, goats, cattle, pigs. Blood/urine tests confirm presence. Prevention measures include avoiding contaminated water sources and proper hygiene practices. Vaccines available nationwide.
+தொற்றடைந்த நீரை பருகுவதாலோ அன்றி காயமுற்ற தோல், கண், வாய் போன்ற பகுதிகளில் தொடுகை உறும் வேளைகளில் இப் பக்றீரியா உடலுள் ஊடுருவிச் செல்லும் வாய்ப்புள்ளது.
 
-🟩
-
-Provincial Director of the Northern Provincial Department of Livestock Health Production, Dr. S.Sashekaran, said that the present spread of mulch fever in the Northern Province is at risk in various animals, including humans.
-
-He made this statement at a media briefing on the fever on Thursday (19) at the Livestock Health Production Department in Tirunelveli.
-
-The bacteria, which exits the urine and feces of the rat, can spread rainwater and floods during the rainy season.
-
-Drinking infected water, but in the skin, eye, and mouth, this bacteria can penetrate the body.
-
-The same bacteria are also likely to cause the disease in dogs, goats, cattle and pigs.
-
-The disease can cause the disease in the environment where these animals live in the environment and the disease can cause the disease in the environment.
-
-Just as the blood tests are committed to the blood of the human blood, the blood and urine of the breeding animals can be examined and the presence of the pathogen can be confirmed.
+இதே பக்றீரியாக்கள் நாய், ஆடு, மாடு, பன்றி போன்ற வளர்ப்பு மிருகங்களில் கூட இந்நோயினை ஏற்படுத்திவிடவும் வாய்ப்புக்கள் உண்டு.
 
 ...
 
 [Data](articles/575a2275.json)
-
-[Extended Data](ext_articles/575a2275.ext.json)
 
 ---
 

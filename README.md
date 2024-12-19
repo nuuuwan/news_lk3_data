@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 23:27:11**
+As of **2024-12-19 23:43:34**
 
 ## Newspaper Stats
 
-*Scraped **61,057** Articles*
+*Scraped **61,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 455
 colombotelegraphcom | 620
 bbccomsinhala | 644
 islandlk | 3,689
-economynextcom | 3,716
+economynextcom | 3,725
 dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,827
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,877 (99.7%) of 61,057 articles have been extended.
+60,879 (99.7%) of 61,066 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -376,6 +376,24 @@ The official meeting with Canadian political parties, including the Deputy Minis
 
 ---
 
+### Chinese medical ship to call on Sri Lanka for health system backing
+
+*2024-12-19 18:28:00* · [`economynextcom`](https://economynext.com/chinese-medical-ship-to-call-on-sri-lanka-for-health-system-backing-195341/) · `en`
+
+ECONOMYNEXT – A Chinese medical will arrive in Sri Lanka from December 21-28 to back the island nation’s healthcare system, Cabinet Spokesman and Health Minister Nalinda Jayatissa said on Thursday (19).
+
+From 21-28, a medical ship, with 200 crew, is coming to Sri Lanka and they are supporting our health system from the Chinese vessel,” Jayatissa told reporters
+
+“We don’t have any objection to that,” he said with the context of the island nation’s one-year ban on foreign research vessels.
+
+The Cabinet Spokesman in the same media briefing said the ban, imposed by the previous government, has been now relaxed and the government will consider requests by foreign research vessels on a case by case basis. (Colombo/December 19/2024)
+
+◼️
+
+[Data](articles/59a3e26a.json)
+
+---
+
 ### 3 Questions Leaked Affairs: Confidential Report Handling
 
 *2024-12-19 18:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வினாக்கள்-கசிந்த-விவகாரம்-இரகசிய-அறிக்கை-கையளிப்பு/175-348970) · `ta`
@@ -570,6 +588,28 @@ Doctor. Upali Pannilake is an official of the Public Corporation, he is not elig
 
 ---
 
+### Sri Lanka to conduct population census from Dec 19 to 23
+
+*2024-12-19 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-conduct-population-census-from-dec-19-to-23-195334/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s statistics office said its representatives are visiting homes from December 19 to 23 to conduct a population census of the country, after completing a count of homeless people on December 18.
+
+The Department of Census and Statistics said it expected public support to complete the census.
+
+“They will collect data on population size, geographic distribution, education levels, language skills, computer literacy, reading and writing skills, job descriptions, physical and mental disabilities, as well as housing information,” the statement said.
+
+“All Census Officers are bound not to disclose the personal information obtained from you to any party.”
+
+The data will be used in the country’s national policy formulation, planning and public administration mechanism, the department said.
+
+The census is conducted every ten years. The collection of information is scheduled to end on December 23.
+
+...
+
+[Data](articles/c985dbdb.json)
+
+---
+
 ### Investigations search for Jude Shamantha Jayama
 
 *2024-12-19 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204528) · `si`
@@ -629,6 +669,44 @@ Announcement that the estimated salary former President Ranil Wickremesinghe was
 [Data](articles/8306ff3c.json)
 
 [Extended Data](ext_articles/8306ff3c.ext.json)
+
+---
+
+### Sri Lanka relaxes one-year ban on foreign research ships amid geopolitical tussle
+
+*2024-12-19 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-relaxes-one-year-ban-on-foreign-research-ships-amid-geopolitical-tussle-195327/) · `en`
+
+ECONOMYNEXT – Sri Lanka has relaxed its one-year ban imposed on foreign research vessels coming into the island nation’s water for research purposes and future requests will be considered on case by case basis, Cabinet Spokesman said.
+
+The move comes amid China has been in the process to send its research ships into the Sri Lankan water belonging to the Indian Ocean, a move Indian has strongly raised concerns over the region’s security.
+
+“We are dealing with these two countries in a very diplomatic manner. We are very open,” Cabinet Spokesman Nalinda Jayatissa told reporters when asked the government’s stance on the foreign research vessel ban imposed last year after strong Indian objection to Chinese research vessels coming into Sri Lankan waters.
+
+“Whenever research vessels come, we can study, we can investigate (look into) it and we can negotiate with the relevant parties,” he said.
+
+...
+
+[Data](articles/ee54a80c.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 292.90/293.30 to dollar, bonds up
+
+*2024-12-19 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-90-293-30-to-dollar-bonds-up-195324/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 292.90/293.30 to the US dollar on Thursday after opening at 292.70/293.00 to the dollar, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 9.45/55 percent, up from 9.40/50 percent.
+
+A bond maturing on 15.09.2027 closed at 9.80/90 percent, up from 9.75/80 percent.
+
+A bond maturing on 15.09.2029 closed at 10.70/75 percent, up from 10.65/70 percent.
+
+A bond maturing on 01.12.2031 closed at 11.35/45 percent. (Colombo/Dec19/2024)
+
+◼️
+
+[Data](articles/5c3b6494.json)
 
 ---
 
@@ -731,6 +809,26 @@ Police also revealed that nearly 25 children are among the refugees on board the
 [Data](articles/43a9b2a6.json)
 
 [Extended Data](ext_articles/43a9b2a6.ext.json)
+
+---
+
+### Sri Lanka stocks close up, S&P SL20 down due to profit taking in banks
+
+*2024-12-19 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sp-sl20-down-due-to-profit-taking-in-banks-194991/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader ASPI closed up 0.27 percent, or 39.96 points, at 14,654.26; while the more liquid S&P SL20 Index closed down 0.32 percent, or 14.01 points, at 4,390.12.
+
+“Market remains bullish, there continuous volumes,” market participants said. “The S&P SL20 was down mainly because of some profit taking in banking stocks.”
+
+Top positive contributors to the ASPI were Ceylon Cold Stores (up at 76.80), PGP Glass Ceylon (up at 34.00), John Keells Holdings (up at 22.60), Dipped Products (up at 52.40) and Lanka IOC (up at 129.50).
+
+“Retail and high net worth individuals were seen driving buying sentiment, particularly in consumer stocks like LMF and CCS on the back of the government’s announcement of raising the PAYE threshold and the perception that consumers will now have more disposable income.”
+
+...
+
+[Data](articles/84184c5d.json)
 
 ---
 
@@ -856,19 +954,27 @@ The Cabinet has approved the proposal submitted by the Minister of Women and Chi
 
 ---
 
-### டிஜிட்டல் பரிமாற்றம் குறித்து இந்தியாவுடன் புரிந்துணர்வு ஒப்பந்தம்  - அரசாங்கம்
+### Memorandum of Understanding with India on digital exchange - government
 
 *2024-12-19 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201665) · `ta`
 
-டிஜிட்டல் அபிவிருத்திக்காக நடைமுறைப்படுத்தப்பட்ட வெற்றிகரமான டிஜிட்டல் தீர்வுகளைப் பரிமாற்றம் செய்கின்ற ஒத்துழைப்புக்கள் தொடர்பாக இந்தியாவுடன் புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட அரசாங்கம் தீர்மானித்துள்ளது.
+Sri Lanka signs MoU with India for digital development cooperation. Agreement focuses on transferring successful digital solutions in areas like financial tech, AI, and digital infrastructure. This partnership aims to enhance Sri Lanka's digital capabilities through various activities and improve bilateral relations.
 
-தகவல் தொழிநுட்பத்தின் மற்றும் டிஜிட்டல் புத்தாக்கத்தில் முன்னணி வகிக்கின்ற இந்திய இலத்திரனியல் - அரச நிர்வாகம், நிதித் தொழிநுட்ப முறைமை, செயற்கை நுண்ணறிவு மற்றும் டிஜிட்டல் உட்கட்டமைப்பு வசதிகள் போன்ற துறைகளில் பெற்றுக் கொண்டுள்ள விசேட நிபுணத்துவ அறிவு பல்வித செயற்பாடுகள் மூலமாக இலங்கையில் டிஜிட்டல் அபிவிருத்திக்குப் பெற்றுக் கொள்வதற்கான இயலுமை கிட்டியுள்ளது.
+🟩
 
-அதற்கமைய, இலங்கையில் டிஜிட்டல் பொருளாதாரத்தை டிஜிட்டல் பொருளாதார அமைச்சு மற்றும் இந்தியாவின் இலத்திரனியல் மற்றும் தகவல் தொழிநுட்ப அமைச்சுக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தத்தில் கையொப்பமிடுவதற்கு இருதரப்புக்கும் இடையிலான ஆரம்ப உடன்பாடுகள் எட்டப்பட்டுள்ளன.
+The government has decided to sign a Memorandum of Understanding (MoU) with India on the cooperation of the transfers of successful digital solutions implemented for digital development.
+
+The specialist knowledge of the Indian Electronic - State Administration, Financial Technology, Artificial Intelligence and Digital Infrastructure, which is the leading in information technology and digital innovation, is capable of obtaining digital development in Sri Lanka through a variety of activities.
+
+Accordingly, the preliminary agreements between the two sides have reached the signing of the Digital Economic Ministry in Sri Lanka and the Ministry of Economic and Information Technology in India.
+
+Thereby, when the implementation of the officials of the digital development sector and implementing digital development solutions, it is possible to improve the company's institutional cooperation between the two countries.
 
 ...
 
 [Data](articles/91081b84.json)
+
+[Extended Data](ext_articles/91081b84.ext.json)
 
 ---
 
@@ -902,19 +1008,47 @@ Since the country's gross domestic product has increased, we have received a par
 
 ---
 
-### குரங்குகளை சீனாவுக்கு ஏற்றுமதி செய்யும் தீர்மானமில்லை - அரசாங்கம்
+### No decision to export monkeys to China - government
 
 *2024-12-19 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201661) · `ta`
 
-விவசாய நடவடிக்கைகள் மற்றும் மக்களின் அன்றாட செயற்பாடுகளுக்கு பாதிப்புக்களை ஏற்படுத்தும் குரங்குகள் உள்ளிட்ட வன விலங்குகள் குறித்து குறுகிய காலத்தில் நடைமுறைப்படுத்தக் கூடிய திட்டங்கள் தொடர்பில் ஆராயப்பட்டு வருகிறது. எனினும் குரங்குகளை சீனாவுக்கு ஏற்றுமதி செய்வது குறித்து எவ்வித தீர்மானமும் எடுக்கப்படவில்லை என அமைச்சரவை பேச்சாளர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+S0:0
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு  வியாழக்கிழமை (19) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-குரங்குகள் தொடர்பான பிரச்சினை குறித்து விவசாய அமைச்சு அவதானம் செலுத்தி அதற்குரிய நடவடிக்கைகளையும் முன்னெடுத்து வருகிறது. தொழிநுட்ப அமைச்சு இது குறித்து அவதானம் செலுத்தியுள்ளது. ஆனால் இது வெ வ்வேறு மட்டங்களில் சிக்கலுக்குரிய பிரச்சினையாகியுள்ளது. சூழல் சமநிலையின்மையால் இப்பிரச்சினை உக்கிரமடைந்துள்ளது. இது தொடர்பில் முன்வைக்கப்பட்டுள்ள பெரும்பாலான யோசனைகள் நீண்டகால திட்டங்களாகும்.
+Wildlife, including monkeys, which can affect agricultural activities and people's daily activities. However, Cabinet spokesman Nalinda Jayatissa said no decision has been taken to export monkeys to China.
+
+He further stated that the weekly press conference to announce the Cabinet decisions was held on Thursday (19).
+
+The Ministry of Agriculture is paying attention to the issue of monkeys. The Ministry of Technology has paid attention to this. But this has become a problem with various levels. The problem has been intensified by the lack of environmental balance. Most of the ideas put forward in this regard are long -term projects.
+
+Cannot wait for farmers and people until they are implemented. So short -term projects are currently being investigated. Care has been paid to people like monkeys to transport animals to other parts of the country to transport and reproductive control. On the contrary, he said no decision was made to export monkeys to China.
+
+◼️
+
+[Data](articles/8eeb7740.json)
+
+[Extended Data](ext_articles/8eeb7740.ext.json)
+
+---
+
+### Sri Lanka’s CEB borrows US$150mn ADB loan to fix grid for renewables
+
+*2024-12-19 16:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-borrows-us150mn-adb-loan-to-fix-grid-for-renewables-195281/) · `en`
+
+ECONOMYNEXT – State-run Ceylon Electricity Board said it had inked a 150 million dollar loan with the Asian Development Bank to upgrade its grid to accommodate more renewable energy, and boost stability.
+
+“Through these funds, several essential projects in CEB’s long-term transmission plan will be implemented over 2025-2027, which will improve the overall reliability and stability of the grid,” the CEB said in a statement.
+
+“Transmission assets built through this loan will enable the integration of planned large-scale renewable energy developments to the national grid.”
+
+The funds will be used to build 6 new grid substations, 87 kilometres of 132 kV transmission lines, 45 km of 220 kV transmission lines and augment existing grid substations.
+
+CEB and its distribution subsidiary Lanka Electricity Company (LECO), serve over 7.5 million electricity customers, through
 
 ...
 
-[Data](articles/8eeb7740.json)
+[Data](articles/b715b711.json)
 
 ---
 
@@ -1509,6 +1643,46 @@ He was speaking at a press briefing held in the press conference held today (19)
 [Data](articles/25c06fb9.json)
 
 [Extended Data](ext_articles/25c06fb9.ext.json)
+
+---
+
+### Sri Lanka to import 30,000 metric tons of non-iodized salt
+
+*2024-12-19 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-30000-metric-tons-of-non-iodized-salt-195163/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to allow the import of 30,000 metric tonnes of salt amidst a possible shortage in the first quarter of 2025, minister Nalinda Jayatissa said.
+
+“The adverse weather conditions that prevailed could contribute to a possible shortage of salt arising in the first quarter of 2025, especially in the industrial sector,” Jayatissa told reporters on Thursday.
+
+Salt manufacturers have asked permission to import salt, he said.
+
+The non-iodised raw salt will be imported by the State Trading Corporation and distributed by local salt manufacturers the minister said. (Colombo/Dec19/2024)
+
+◼️
+
+[Data](articles/05510381.json)
+
+---
+
+### Sri Lanka to continue Special Commodity food taxes to protect farmers
+
+*2024-12-19 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-continue-special-commodity-food-taxes-to-protect-farmers-195205/) · `en`
+
+ECONOMYENXT – Sri Lanka’s cabinet has decided not to abolish a Special Commodity Levy Act to maintain protection to farmers, and its impact on food prices, a government statement said.
+
+On March 25, 2024, the then cabinet had decided to abolish the SCL Act and replace the tax with value added tax.
+
+The cabinet decided to reverse the decision to abolish the SCL Tax as the state will not be able to give protection to farmers and the impact on food prices.
+
+While the SCL Act has the salutary effect on avoiding tax-on-tax, where value added tax is charged on top of other import duties as Sri Lanka has a plethora of border taxes, SCL levies are also imposed at very high rates on basic foods that provide calories to the malnourished.
+
+High taxes on maize in particular makes protein for the children of poor families expensive.
+
+Sri Lanka’s protectionist taxes, imposed under a self-sufficiency ideology and promote ‘domestic production’ pits farmers against malnourished children, critics have said.
+
+...
+
+[Data](articles/6b4753a3.json)
 
 ---
 
@@ -2249,201 +2423,5 @@ Colombo Additional Magistrate Basan Amarasena adjourned the verdict of the case 
 [Data](articles/7923f6cb.json)
 
 [Extended Data](ext_articles/7923f6cb.ext.json)
-
----
-
-### Archana filed a defamation case
-
-*2024-12-19 10:49:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்ச்சுனா-மீது-அவதூறு-வழக்குத்-தாக்கல்/175-348945) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Dr. Sathiyamoorthy sues Archana for defamation over comments about him. Case heard in Jaffna court. Archana claims innocence, seeks protection from slander charges. Judge issues interim injunction against Archana. Next hearing scheduled for 30th.
-
-🟩
-
-The Director of the Jaffna Bodhana Hospital, Dr. Sathiyamoorthy, filed a defamation case against Archana Archana on Wednesday (18).
-
-Additional District Judge A. Anandarajah was summoned in the Jaffna Mawatha Court on the issue of the case.
-
-Attorney -at -Law Dr. Quruparan was arranged on behalf of the prosecutor.
-
-When the medical expert was in the detention of Satyamoorthy, he was in the process of his detention of the opponent, Ramanathan Asaruna, and on 09.12.The petition has been indicted and sued for defamation through the video.
-
-It was also stated in the House that Ramanathan Archana, who is against the medical expert Satyamoorthy, will continue to express his contribution to his dignity and Keerthi.
-
-A long submission was presented in the court of the court, pointing out the law and the judgments issued by the courts regarding the fact that he had no truth in the comments that he had claimed to have no truth.
-
-...
-
-[Data](articles/a4fe7cd6.json)
-
-[Extended Data](ext_articles/a4fe7cd6.ext.json)
-
----
-
-### Gnanasara Thero warrants
-
-*2024-12-19 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204512) · `si`
-
-Colombo Magistrate's Court issues warrant for Bodu Bala Sena leader Gnanasara Thera's arrest. Case adjourned to January 9 due to Thera's absence, citing illness.
-
-🟩
-
-The Colombo Magistrate's Court issued a warrant at the arrest of the Bodu Bala Sena (BBSA Gnanasara Thera was appointed as a defendant in the court today.
-
-The verdict in this case was to be announced today (19).
-
-But the Gnanasara Thera did not appear in court when the case was taken up.
-
-The lawyer appearing on behalf of Gnanasara Thera, the lawyer said he was unable to come to court, as the server owners were ill.
-
-Colombo Additional Magistrate Pradesman Amarasene adjourned the case until the 9th of January.
-
-The Magistrate ordered that Gnanasara Thera was arrested and produced before court.
-
-◼️
-
-[Data](articles/a2feb5ac.json)
-
-[Extended Data](ext_articles/a2feb5ac.ext.json)
-
----
-
-### Sri Lankan man charged for alleged sexual assault on Melbourne flight
-
-*2024-12-19 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104349/sri-lankan-man-charged-for-alleged-sexual-assault-on-melbourne-flight) · `en`
-
-A Sri Lankan man faced Broadmeadows Magistrates Court today (19 December, 2024) charged with allegedly committing an act of indecency on board an international flight.
-
-The Australian Federal Police (AFP) will allege the man, 41, committed an act of indecency on a female passenger during a flight from Sri Lanka to Melbourne yesterday (Wednesday 18 December, 2024). The passenger alerted airline staff to the incident, who then notified the AFP.
-
-AFP officers interviewed passengers and airline staff when the aircraft arrived at Melbourne Airport.
-
-The man was charged with one count of an act of indecency, contrary to section 60 (1) of the Crimes Act 1900 (ACT), by virtue of section 15 (1) of the Crimes (Aviation) Act 1991 (Cth).
-
-This offence carries a maximum penalty of 7 years’ imprisonment.
-
-He was granted bail and is expected to appear at Melbourne Magistrate’s Court on 9 January, 2025.
-
-...
-
-[Data](articles/771fd70a.json)
-
----
-
-### අමාත්‍යවරයෙකුගේ මන්ත්‍රී ධුරය බල රහිත කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක්
-
-*2024-12-19 10:36:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgpjj51llko) · `si`
-
-අමාත්‍යවරයෙකුගේ මන්ත්‍රී ධුරය බල රහිත කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක්
-
-අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ ගේ පාර්ලිමේන්තු මන්ත්‍රී ධූරය බල රහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබේ.
-
-පෙත්සම ඉදිරිපත් කර ඇත්තේ, අභිනව නිවහල් පෙරමුණේ සභාපති ඔෂල හෙරත් විසිනි.
-
-එහි වගඋත්තරකරුවන් ලෙස අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ,  පාර්ලිමේන්තු මහ ලේකම්,  රුහුණු විශ්ව විද්‍යාලය සහ එහි උප කුලපති ඇතුළු පිරිසක් නම් කර තිබේ.
-
-පෙත්සම්කරු කියා සිටින්නේ අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ පසුගිය මහ මැතිවරණයෙන් අනතුරුව ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු වශයෙන් පාර්ලිමේන්තුවට පත්කළ බවයි.
-
-උපාලි පන්නිලගේ අමාත්‍යවරයා පාර්ලිමේන්තු මන්ත්‍රීවරයකු වශයෙන් පත් කරන අවස්ථාවේදී ඔහු රුහුණු විශ්ව විද්‍යාලයේ සමාජ විද්‍යා මහාචාර්යවරයෙකු වශයෙන් සේවය කරමින් සිටි බවට තොරතුරු ලැබී ඇතැයි, පෙත්සමේ සඳහන්වේ.
-
-රජයේ සේවයේ නිරතව සිටියදී මෙලෙස පාර්ලිමේන්තු මන්ත්‍රීවරයකු වශයෙන් පත්කිරීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 91 ව්‍යවස්ථාව යටතේ නීතියට පටහැනි බවත් එය පාර්ලිමේන්තුවට තේරී පත්වීමට නුසුදුසුකමක් බවත් පෙත්සමේ පෙන්වා  දී ඇත.
-
-...
-
-[Data](articles/476f857e.json)
-
----
-
-### Sri Lankan jailed for 37 years for killing wife with axe in front of teenage children
-
-*2024-12-19 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104348/sri-lankan-jailed-for-37-years-for-killing-wife-with-axe-in-front-of-teenage-children) · `en`
-
-A killer has been jailed for 37 years for murdering his wife with an axe in front of their teenage children, in what a judge has described as a brutal and horrific attack.
-
-Dinush Kurera, 47, blinked and looked straight ahead as Victorian Supreme Court Justice Amanda Fox handed down his sentence today.
-
-Kurera claimed he was acting in self-defence when he repeatedly stabbed his wife Nelomie Perera with an axe and knife at her Melbourne home on December 3, 2022.
-
-But a jury rejected his story and in August found him guilty of murder after only three hours of deliberations.
-
-Justice Fox described the fatal attack as brutal and horrific, saying Kurera had clearly been in a rage.
-
-“You were motivated by anger and saw everything of the prism of entitlement and ownership,” she said in her sentence.
-
-“In your mind, Nelomie deserved to be killed for leaving you, excluding you from your house and seeing other men.”
-
-...
-
-[Data](articles/d1be5a97.json)
-
-[Extended Data](ext_articles/d1be5a97.ext.json)
-
----
-
-### கொட்டகலையில் இடம்பெற்ற ரயில் விபத்தில் குடும்பஸ்தர் உயிரிழப்பு !
-
-*2024-12-19 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201621) · `ta`
-
-திம்புள்ள – பத்தனை பொலிஸ் பிரிவிற்குட்பட்ட கொட்டகலை பகுதியில் ரயிலில் மோதி குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த சம்பவம் இன்றைய தினம் வியாழக்கிழமை  (19) அதிகாலை இடம்பெற்றிருக்கலாம் என பொலிஸார் தெரிவித்தனர்.
-
-கொட்டகலை ரயில் நிலையத்திற்கு அருகாமையில் கொழும்பில் இருந்து பதுளை நோக்கி சென்று கொண்டிருந்த இரவு நேர ரயிலில் மோதுண்டே குறித்த நபர் உயிரிழந்துள்ளார் என தெரிவிக்கப்படுகின்றது.
-
-உயிரிழந்தவர் கொட்டகலை கங்கைபுரத்தை சேர்ந்த  40 வயதுடைய ஒரு பிள்ளையின் தந்தை என பொலிஸாரால் அடையாளம் காணப்பட்டுள்ளார்.
-
-உயிரிழந்தவரின் சடலம் கொட்டகலை ரயில் நிலையத்தில் ஒப்படைக்கப்பட்டு வைத்திய பரிசோதனைக்காக டிக்கோயா கிளங்கன் ஆதார வைத்தியசாலைக்கு அனுப்புவதற்கான நடவடிக்கைகளை மேற்கொண்டுள்ளதாக ரயில்வே நிலையத்தின் அதிகாரியொருவர் தெரிவித்தார்.
-
-குறித்த நபர் தற்கொலை செய்து கொண்டாரா? அல்லது புகையிரதத்தில் மோதுண்டு இறந்தாரா? என்பது தொடர்பாக பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/4f18ffca.json)
-
----
-
-### மின் கம்பத்தில் மோதி மோட்டார் சைக்கிள் விபத்து ; இளைஞன் பலி!
-
-*2024-12-19 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201622) · `ta`
-
-கடவத்தை பொலிஸ் பிரிவிற்கு உட்பட்ட கடவத்தை - மாவரமண்டிய வீதியில்  நேற்று புதன்கிழமை (18) மோட்டார் சைக்கிள் ஒன்று விபத்துக்குள்ளானதில் இளைஞன் ஒருவன் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-செலுத்துனரின் கட்டுப்பாட்டை இழந்த மோட்டார் சைக்கிள் ஒன்று வீதியை விட்டு விலகி அருகிலிருந்த மின் கம்பத்தில் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
-
-விபத்தின் போது மோட்டார் சைக்கிளின் செலுத்துனரும் பின்புறத்தில் பயணித்த நபரும் படுகாயமடைந்துள்ள நிலையில் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்டபின்னர் மோட்டார் சைக்கிளின் செலுத்துனர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/6e0fdf20.json)
-
----
-
-### The Funeral of Hindus in Borel will be modernized
-
-*2024-12-19 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201618) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Municipal Council plans to modernize Hindu cremation facilities in Borella. Chief Medical Officer Keerthika Ratnawardena assures funding for improvements, including drainage construction. Project set to begin in February 2025.
-
-🟩
-
-Keerthika Ratnawardena, Chief Medical Officer of the Colombo Municipal Council, assured that the cremation of the bodies of the Hindu people in Porala, which is maintained by the Colombo Municipal Council, will be modernized and modernized.
-
-A recent report in the Weerakesari newspaper that the cremation area of ​​the Borella Kanatha, belonging to the Colombo Municipal Council, has been cremated.
-
-The Colombo Municipal Council, the former member of the Colombo Municipal Council, Chidambaram Pillai Lion Manoharan, has informed Keerthika Ratnawardena to the Colombo Municipal Council.
-
-...
-
-[Data](articles/7f69f84c.json)
-
-[Extended Data](ext_articles/7f69f84c.ext.json)
 
 ---

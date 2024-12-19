@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 09:06:34**
+As of **2024-12-19 09:20:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,524
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,795 (99.8%) of 60,927 articles have been extended.
+60,797 (99.8%) of 60,927 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,21 +78,31 @@ Addressing a media briefing held at the Government Information Department, Speci
 
 ---
 
-### විදුලි සැරට බිලි වූ මල්කැකුළ
+### Fleet of electric sixth
 
 *2024-12-19 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204507) · `si`
 
-නවගත්තේගම පොලිස් වසමේ තරණගහවැව ප්‍රදේශයේ දී ගැහැණු දරුවෙකුට විදුලි සැර වැදී ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-පොලීසිය පැවසුවේ, විදුලි සැර වැදුණු දරුවාව පුත්තලම රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇති බවය.
 
-එලෙස මියගොස් ඇත්තේ 14 හැවිරිදි ඉහළ කුරුකැටියාව, නවගත්තේගම ප්‍රදේශයේ පදිංචිකාරියකි.
 
-අනාරක්ෂිත විදුලි රැහැනක් මඟින් බ්ලෙන්ඩරයකට විදුලිය ලබාගෙන එය ක්‍රියාත්මක කිරීමට යෑමේ දී දැරියට විදුලි සැර වැදී ජීවිතක්ෂයට පත්ව ඇතැයි විමර්ශනවලදී අනාවරණය වී තිබේ.
+Electricity-related incident: Girl (14) dies in Athnahawewa, Nawanenigama. Police investigation reveals she used electricity from a blender, causing her death. Incident occurred near Puttalam Hospital.
+
+🟩
+
+Electricity spreading to a girl in the Athnahawewa area in Nawanenigama Police.
+
+Police said that the police had died on admission to the Puttalam Hospital.
+
+The deceased has been identified as a 14 year old crying is a resident of Nawagaththegama.
+
+Investigations have revealed that the girl has died after making electricity to a blender by obtaining electricity to a blender and implementing it.
 
 ◼️
 
 [Data](articles/c9e16cbb.json)
+
+[Extended Data](ext_articles/c9e16cbb.ext.json)
 
 ---
 
@@ -522,27 +532,41 @@ The Gazette Notification has been issued with the signature of the Minister of F
 
 ---
 
-### ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
+### Can you get aid from the Presidential Fund like the elites?
 
 *2024-12-19 01:32:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c70e7vyxqqeo) · `si`
 
-ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
+Here's a summary of the text in approximately 200 characters:
 
-ජනාධිපති අරමුදලින් මුදල් ලබා ගත් මැති ඇමැතිවරුන් මෙන්ම දේශපාලනයට සම්බන්ධ පිරිස්වල ලැයිස්තුවක් පාර්ලිමේන්තුවේදී හෙළි කිරිමත් සමග ජනාධිපති අරමුදල අවභාවිත කිරිම ගැන කතා බහක් සමාජය තුළ නිර්මාණය වී තිබේ.
 
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස විසින් දෙසැම්බර් 17 වැනි දා ජනාධිපති අරමුදල හරහා ලක්ෂ ගණනින් මුදල් ලබා ගත්තා යැයි කියන වත්මන් පාර්ලිමේන්තුවේ මන්ත්‍රීවරුන් මෙන්ම හිටපු මැති ඇමැතිවරුන්ගේ නම් ලැයිස්තුවක් පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබීය.
 
-ජනාධිපති අරමුදල යනු කුමක් ද? ඉන් අරමුදල් ලබා ගත හැකි අය කවුරුන් ද යන්න බීබීසී සිංහල සේවය සොයා බැලුවේය.
+Presidential Fund aid eligibility criteria controversy. Politicians listed receiving funds. Conditions for public applicants vs. elites unclear. Fund uses lottery revenue and donations. Supports healthcare, education, and welfare programs. Application process detailed but not fully transparent.
 
-හිටපු ජනාධිපති ජේ. ආර්. ජයවර්ධනගේ ධූර කාලය තුළ පරිත්‍යාගශීලීන්ගේ මුල්‍යමය දායකත්වයෙන් රු.237,120 ක මූලික ප්‍රාග්ධනයකින් ජනාධිපති අරමුදල ආරම්භ කර කිබේ.
+🟩
 
-එම අරමුදල 1978 අංක 7 දරන පනතින් මෙරට පාර්ලිමේන්තුවේ සම්මත වු ආයතනයක් ලෙස පිහිටුවා ඇත.
+Can you get aid from the Presidential Fund like the elites?
 
-මෙය ජනාධිපතිවරයාගේ අරමුදල නමින් හඳුන්වනු ලබන අතර එය කළමනාකරණය කරමින් පනතේ විධිවිධානයන්ට අනුව ක්‍රියාකිරීමේ බලය, ධූරය දරන ජනාධිපතිවරයා හට පැවරේ.
+A list of ministers and politicians who have received funds from the Presidential Fund have been made in a talk club about the misbehavid of the Presidential Fund.
+
+A list of names of the present MPs of the Presidency and former MPs who are named after the presidential fund of Health and Mass Media, Nalinda Jayatissa had received hundreds of thousands across the Presidential Fund.
+
+What is the President Fund?The BBC looked at the Sinhala served whether who could obtain funding.
+
+Former President J. R. The Presidential Fund has launched a core capital of Rs.
+
+The fund has been established as an institution by the Act No. 7 of 1978.
+
+This is called the President's Fund and the President is entrusted with the power to act according to the provisions of the Act.
+
+The Auditor General of the Government Auditor General is audited annually.
+
+Can politicians be "burnoT"? Is it a condition that should hide it?
 
 ...
 
 [Data](articles/3fa67a37.json)
+
+[Extended Data](ext_articles/3fa67a37.ext.json)
 
 ---
 

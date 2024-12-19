@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 13:27:09**
+As of **2024-12-19 13:43:37**
 
 ## Newspaper Stats
 
-*Scraped **60,984** Articles*
+*Scraped **60,986** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 455
 colombotelegraphcom | 619
 bbccomsinhala | 642
 islandlk | 3,689
-economynextcom | 3,714
+economynextcom | 3,716
 dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,816
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,823 (99.7%) of 60,984 articles have been extended.
+60,823 (99.7%) of 60,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### Sri Lanka and India to cooperate on digitalisation
+
+*2024-12-19 12:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-india-to-cooperate-on-digitalisation-195170/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to sign a memorandum of understanding between the Ministry of Digital Economy of Sri Lanka and the Ministry of Electronics and Information Technology of India, to cooperate on digitalisation.
+
+This will help “to develop the capacities of officials in the field of digital transformation and promote institutional cooperation between the two countries in the implementation of digital solutions” cabinet spokesman minister Nalinda Jayatissa said.
+
+India as an expert in information technology and digital innovation, Jayatissa said, has the potential to leverage its expertise in areas such as e-Governance, fintech, artificial intelligence and digital infrastructure to aid Sri Lanka’s digitalisation process.
+
+...
+
+[Data](articles/076d4163.json)
+
+---
 
 ### Loyal abuse: boyfriend arrested;Siddappa to Siddappa
 
@@ -105,6 +121,24 @@ Responding to a question, he said the opposition leader did not submit his certi
 [Data](articles/fc007a54.json)
 
 [Extended Data](ext_articles/fc007a54.ext.json)
+
+---
+
+### Indian Rs300mn grant for Sri Lanka’s Police to buy cabs to use in north
+
+*2024-12-19 11:58:00* · [`economynextcom`](https://economynext.com/indian-rs300mn-grant-for-sri-lankas-police-to-buy-cabs-to-use-in-north-195094/) · `en`
+
+ECONOMYNEXT – India has agreed to provide a financial grant of 300 million rupees for Sri Lanka Police to buy vehicles.
+
+“It is planned to use the grant to provide cabs for the duty needs of police stations in the Northern Province,” a cabinet statement said.
+
+Sri Lanka’s Cabinet of Ministers have approved the proposal to enter into a memorandum of understanding between the two governments to obtain the grant.
+
+The island nation’s Police use Mahindra Scorpio jeeps widely. (Colombo/Dec19/2024)
+
+◼️
+
+[Data](articles/2525c358.json)
 
 ---
 
@@ -2257,57 +2291,5 @@ The debt payers should be produced before March 31st of next year.
 [Data](articles/57d60965.json)
 
 [Extended Data](ext_articles/57d60965.ext.json)
-
----
-
-### Payment to students from 2025
-
-*2024-12-18 19:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-தொடக்கம்-மாணவர்களுக்கு-கொடுப்பனவு/175-348919) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliament passes bill for student payments from 2025. Government offers scholarships to reduce educational impact on vulnerable children aged 5-16.
-
-🟩
-
-An additional assessment of payment of school students was passed today (18) in Parliament without a referendum. The debate on this was held yesterday and today.
-
-The government has decided to provide a scholarship for their education from 2025 to reduce the adverse impact on the education of vulnerable schoolchildren.
-
-Accordingly, children between the ages of five and sixteen are scheduled to pay a child of Rs.
-
-◼️
-
-[Data](articles/8cef9568.json)
-
-[Extended Data](ext_articles/8cef9568.ext.json)
-
----
-
-### The latest vehicles from Toyota Lanka
-
-*2024-12-18 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204498) · `si`
-
-Toyota Lanka introduces first vehicle after government lifts import restrictions due to economic recovery and increased forex reserves.
-
-🟩
-
-With the decision to relax the government to relax the vehicle import boundaries, Toyota Lanka has brought its first vehicle size.
-
-The government took measures to impose restrictions with the importation of foreign exchange reserves in the face of the economic crisis.
-
-However, the government has decided to import vehicles again under several stages, with the recovery of the economy and increase the forex reserves.
-
-However, it was first allowed to import vehicles used in tourism.
-
-After that decision, Toyota Lanka has brought its first vehicle to the island.
-
-◼️
-
-[Data](articles/435fd6fd.json)
-
-[Extended Data](ext_articles/435fd6fd.ext.json)
 
 ---

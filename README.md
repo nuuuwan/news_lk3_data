@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 04:43:02**
+As of **2024-12-19 05:51:46**
 
 ## Newspaper Stats
 
-*Scraped **60,907** Articles*
+*Scraped **60,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 619
 bbccomsinhala | 639
-islandlk | 3,680
+islandlk | 3,681
 economynextcom | 3,711
 dailyftlk | 4,214
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,783 (99.8%) of 60,907 articles have been extended.
+60,788 (99.8%) of 60,908 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -250,6 +250,8 @@ Colombo School of Arts and Sciences (CSAS) recently concluded a panel discussion
 
 [Data](articles/659a2b20.json)
 
+[Extended Data](ext_articles/659a2b20.ext.json)
+
 ---
 
 ### Sharing empathy with children this festive season
@@ -261,6 +263,8 @@ The Christmas season is a special time filled with joy, excitement, and giving. 
 ...
 
 [Data](articles/9ffb2c81.json)
+
+[Extended Data](ext_articles/9ffb2c81.ext.json)
 
 ---
 
@@ -690,6 +694,8 @@ The inauguration ceremony, attended by David Rosell, his daughter Sophie Rosell 
 
 [Data](articles/8ecb8156.json)
 
+[Extended Data](ext_articles/8ecb8156.ext.json)
+
 ---
 
 ### Palma, Yogets will be eliminated
@@ -924,21 +930,29 @@ Herath pointed out the compounding challenges Sri Lanka faced due to these crise
 
 ---
 
-### තනිවම නීති විභාගය කළා කියලා ඔප්පු කළොත් මන්ත්‍රීකමින් යනවා
+### MP goes by MP if he proved to be heard alone
 
 *2024-12-18 19:03:14* · [`adalk`](https://www.ada.lk/breaking_news/තනිවම-නීති-විභාගය-කළා-කියලා-ඔප්පු-කළොත්-මන්ත්‍රීකමින්-යනවා/11-413728) · `si`
 
-2010 වසරේදී නීති විද්‍යාලයේ අවසන් වසරේ විභාගයට ලියන අවස්ථාවේ තනිවම විභාගය ලියූ බවට ඔප්පු කළහොත් තමා මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වන බවත්, එසේ නොමැතිනම් අමාත්‍ය වසන්ත සමරසිංහ මහතා අමාත්‍ය ධුරයෙන් ඉල්ලා අස්විය යුතු බවත්, ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පැවසීය.
+Sri Lanka MP Namal Rajapaksa faces allegations over law exam claims. Minister Wasantha Samarasinghe promises investigation. Rajapaksa threatens resignation if accusations proven. Political implications and legal proceedings discussed in Parliament.
 
-පාර්ලිමේන්තුවේදී අද (18දා) ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-ඊට තමා සූදානම් බවත්, ඒ සම්බන්ධයෙන් පරීක්ෂණ ආරම්භ කරන බවත් ඊට ප්‍රතිචාර දක්වමින් අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+The Sri Lanka General Man Rajal Rajapaksa said that he should resign from the MP, if he was asked to hear the examination at the end of the final year at the last year.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ - ඊයේ දිනයේ මම පාර්ලිමේන්තුවේ නොසිටි අවස්ථාවේ එක්තරා අමාත්‍යවරයෙක් දරුණු චෝදනාවක් එල්ල කළා. ඒ චෝදනාවේ එක් කාරණයක් එල්ල වෙන්නේ නීති විද්‍යාලයට. තවත් කාරණයක් එල්ල වෙන්නේ මේ රටේ නීති පද්ධතියට. මොකද එහි සඳහන් කරනවා මරණ තර්ජන තිබුණු නිසා එක්තරා මහාචාර්යවරයෙක් රටින් පිටව ගියා කියලා. අධිකරන ඇමතිවරයාත් ඉන්නවා.
+He said this in Parliament today (18).
+
+Minister Wasantha Samarasinghe said that he was about to be prepared and investigations into the matter.
+
+Namal Rajapaksa, MP Namal Rajapaksa and I was not in Parliament yesterday, a minister has made a severe allegation. One of the charges will be made to the Law College. Another point is being posed to the legal system of the country. Because there is a professor that a professor left the country because of death threats. There is also the Minister of Justice.
+
+Now you have the government of you. If he mentions such deaths, do a test on it. If there is a complaint about writing the examination, conduct an investigation into it. And there is a talented Minister awareness. Who was informed?Where isWhere are theThe church did not specify how about how to say. Not to the country.
 
 ...
 
 [Data](articles/80976514.json)
+
+[Extended Data](ext_articles/80976514.ext.json)
 
 ---
 
@@ -957,6 +971,8 @@ During the meeting, President Dissanayake highlighted the importance of completi
 ...
 
 [Data](articles/b8880167.json)
+
+[Extended Data](ext_articles/b8880167.ext.json)
 
 ---
 

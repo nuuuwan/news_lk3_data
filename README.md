@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 20:43:23**
+As of **2024-12-19 21:14:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,861 (99.7%) of 61,054 articles have been extended.
+60,865 (99.7%) of 61,054 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -248,39 +248,59 @@ Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, D.. J.. Banu, John Kokan, Lal, L
 
 ---
 
-### இயக்குநர் லோகேஷ் கனகராஜ் தயாரிக்கும் 'மிஸ்டர். பாரத் ' படத்தின் பிரத்யேக காணொளி வெளியீடு
+### Produced by Director Lokesh Kanakaraj 'Mister. Exclusive video release of Bharat '
 
 *2024-12-19 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201689) · `ta`
 
-வலையொளி எனும் சமூக ஊடக தளத்தில் பிரபலமான நடிகர் பாரத் முதன்மையான கதாபாத்திரத்தில் நடிக்கும் 'மிஸ்டர். பாரத் 'எனும் திரைப்படத்தின் அறிமுக காணொளி வெளியிடப்பட்டிருக்கிறது.
+Here's a 200-character summary:
 
-வலையொளி எனும் சமூக ஊடக தளத்திற்கான காணொளிகளை இயக்கிய இயக்குநர் நிரஞ்சன் இயக்கத்தில் உருவாகும் 'மிஸ்டர். பாரத்' எனும் திரைப்படத்தில் பாரத், சம்யுக்தா விஸ்வநாதன், பால சரவணன், நிதி பிரதீப் ,ஆர். சுந்தர்ராஜன் , லிங்கா,  ஆதித்யா கதிர் உள்ளிட்ட பலர் நடிக்கிறார்கள். ஓம் நாராயண் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு பிரணவ் முனி ராஜ் இசையமைக்கிறார்.
 
-அவல நகைச்சுவையை மையப்படுத்தி தயாராகும் இந்த திரைப்படத்தை ஜி ஸ்குவாட் எனும் நிறுவனம் சார்பில் பிரபல நட்சத்திர இயக்குநரான லோகேஷ் கனகராஜ்- ஜெகதீஷ் பழனிசாமி , சுதன் சுந்தரம் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
 
-இப்படத்தைப் பற்றிய அறிமுக காணொளி வெளியிடப்பட்டிருக்கிறது. அதில் இடம்பெறும் காட்சிகள் இணைய தலைமுறை ரசிகர்களை வெகுவாக கவர்ந்திருக்கிறது. இதனால் இந்த காணொளி வெளியான குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+"Exclusive video release: Bharat, directed by Lokesh Kanakaraj and Niranjan. Starring Bharat, Samyukta Viswanathan, Bala Saravanan. Music by Om Narayan. Produced by Avala Comedy, co-produced by J Squat. Internet generation scenes. Over 1 million views."
+
+🟩
+
+Popular actor Bharat on the social media site called Valadi. The debut video of the movie Bharat 'has been released.
+
+Directed by Director Niranjan, who directed videos for the social media site called Valayoli. Bharat, Samyukta Viswanathan, Bala Saravanan, Finance Pradeep, R. Sundarrajan, Linga, Aditya Kadir. Pranav Muni Raj is composed by Om Narayan.
+
+The film is being produced by Avala comedy and is co-produced by Lokesh Kanakaraj- Jagadish Palanisamy and Sudan Sundaram on behalf of J Squat.
+
+Introduction to the film has been released. The scenes featured in the Internet generation. Thus, within a short period of time, the video has been visited by more than a million viewers.
 
 ◼️
 
 [Data](articles/dc5578ad.json)
 
+[Extended Data](ext_articles/dc5578ad.ext.json)
+
 ---
 
-### கடவத்தையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+### A man arrested with ice drugs in Kadavatha
 
 *2024-12-19 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201686) · `ta`
 
-கடவத்தை பொலிஸ் பிரிவுக்கு உட்பட்ட பியன்வல பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று புதன்கிழமை ( 18) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-கடவத்தை பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
 
-கைது செய்யப்பட்ட சந்தேக நபர் கொனஹேன பிரதேசத்தை சேர்ந்த 40 வயதுடையவர் ஆவார்.
 
-இவரிடம் இருந்து 10 கிராம் 300 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+Man arrested in Kadavatha for possessing ice drugs. Police raided based on tip-off, seizing 10g of 300mg ice. Suspect, 40-year-old from Konahena, detained by Kadawatha police on Wednesday.
+
+🟩
+
+A suspect was arrested by police on Wednesday (18) in Bianwala area, which belongs to the Kadawatha Police Division.
+
+The suspect has been arrested during a raid carried out on the basis of confidential information received by a group of Kadawatha police station officials.
+
+The arrested suspect is a 40 -year -old from Konahena.
+
+10 grams of 300 milligrams of ice has been seized by the police.
 
 ◼️
 
 [Data](articles/a9c40cfc.json)
+
+[Extended Data](ext_articles/a9c40cfc.ext.json)
 
 ---
 
@@ -310,21 +330,33 @@ The official meeting with Canadian political parties, including the Deputy Minis
 
 ---
 
-### 3 வினாக்கள் கசிந்த விவகாரம்: இரகசிய அறிக்கை கையளிப்பு
+### 3 Questions Leaked Affairs: Confidential Report Handling
 
 *2024-12-19 18:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வினாக்கள்-கசிந்த-விவகாரம்-இரகசிய-அறிக்கை-கையளிப்பு/175-348970) · `ta`
 
-ஐந்தம் தர புலமைப்பரிசில் பரீட்சை வினாத்தாளில் பகுதி I வினாத்தாளில் மூன்று கேள்விகள் கசியவிட்ட சம்பவம் தொடர்பான விசாரணைகளின் விரிவான தகவல்கள் அடங்கிய இரகசிய அறிக்கையை குற்றப் புலனாய்வு திணைக்கள பணிப்பாளர் உயர் நீதிமன்றில் வியாழக்கிழமை (19) கையளித்துள்ளார்.
+Here's a summary in 200 characters:
 
-செப்டம்பர் 15ஆம் திகதி நடைபெற்ற 5 வருட புலமைப்பரிசில் பரீட்சையின் பகுதி I வினாத்தாளை இரத்து செய்து அதற்கான பரீட்சையை மீண்டும் நடத்துமாறு பரீட்சைகள் ஆணையாளர் நாயகத்திற்கு இடைக்காலத் தடையுத்தரவு பிறப்பிக்கக் கோரி நான்கு அடிப்படை உரிமை மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன.
 
-நீதிமன்றத்தால் விடுக்கப்பட்ட உத்தரவுக்கு அமைய, புலனாய்வுத் திணைக்களத்தின் பணிப்பாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் திருமதி. இமேஷா முத்துமாலி, அது தொடர்பான அறிக்கையை கையளித்தார்
 
-இந்த மனு உயர் நீதிமன்ற நீதியரசர்களான யசந்த கோதாகொட, குமுதுனி விக்கிரமசிங்க மற்றும் அர்ஜுன ஒபேசேகர ஆகியோர் அடங்கிய அமர்வு முன் பரிசீலிக்கப்பட்டது.
+Leaked exam questions scandal: CID report submitted, interim injunction sought against exam officials. High Court to deliver verdict on Nov 11.
+
+🟩
+
+The Director of the Criminal Investigation Department on Thursday (19) handed over a confidential report containing detailed reports of the incident in which three questions were leaked in the area I questionnaire in the Fifth Scholarship Examination Questionnaire.
+
+Four fundamental rights petitions have been filed demanding an interim injunction to the Commissioner General of Examinations to cancel the five -year scholarship examination of the five -year scholarship examination.
+
+Director of Investigation Department, Senior Police Superintendent. Imesha Muthumali handed over the report
+
+The petition was considered before a session of High Court Judges Yasantha Gothagoda, Kumuduni Wickramasinghe and Arjuna Obeeskera.
+
+In the petitions filed by the parents of a group of students who appeared for the fifth year scholarship examination, some, including the Commissioner General of Examinations, have been referred to as defendants.
 
 ...
 
 [Data](articles/de19320e.json)
+
+[Extended Data](ext_articles/de19320e.ext.json)
 
 ---
 
@@ -382,25 +414,39 @@ Everyone should remember that democracy in this country is still in effect becau
 
 ---
 
-### ජන හා නිවාස සංගණනය ගැන විශේෂ පණිවුඩයක්
+### Special Message to Census of Population and Housing
 
 *2024-12-19 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204529) · `si`
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් සිදුකරනු ලබන ජන හා නිවාස සංගණනය ට අදාළ ව පදිංචි ස්ථානයක් නිශ්චිතව නොමැති යාචකයින් වැනි පුද්ගලයින්ගේ තොරතුරු රැස් කිරීම ඊයේ (18) රාත්‍රියේ දී සිදුකර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-දිස්ත්‍රික් 25 ම ආවරණය කරමින් මෙම කටයුත්ත ද ඊයේ සාර්ථකව අවසන් කළ බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
 
-මීට අමතරව සාමාන්‍ය පදිංචියක් සහිත පුද්ගලයින්ගෙන් ලබා ගත් තොරතුරු “සංගණන දිනය“ ලෙස හඳුනාගත් අද දිනය පදනම් කර ගනිමින් සංශෝධනය කිරීම දෙසැ.19 සිට දෙසැම්බර් 23 දක්වා සිදු කෙරේ.
 
-ඒ සඳහා ද නොමසුරු සහයෝගය ලබාදෙන ලෙස ජනතාවගෙන් එම දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+"Census update: Data collected on homeless individuals. Revision of Census Day announced. Public support requested. Census crucial for national policies & governance. Conducted every 10 years. Phase 1 covers selected areas. Phase 2 begins Dec 7, 2024. Accurate information mandatory."
 
-මෙම සංගණනයෙන් ලබාගන්නා තොරතුරු ඉදිරි වසර 10 තුළ රටේ ජාතික ප්‍රතිපත්ති සම්පාදනයට, සැලසුම් සකස් කිරීමට සහ රාජ්‍ය පරිපාලන යාන්ත්‍රනයට ද අවශ්‍ය වන දත්ත සම්පාදනය කිරීමට වැදගත් වෙයි.
+🟩
 
-ශ්‍රී ලංකාවේ ජන හා නිවාස සංගණනය ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් වසර දහයකට වරක් පවත්වනු ලබයි.
+The collection of persons such as the deficiencies that have been conducted by the Department of Census and Statistics have collect information on persons with no specific beggars yesterday (18).
+
+The event was successfully completed yesterday, covering this task yesterday.
+
+In addition, a revision of the "Census Day" will be revised by today, based on today's census date.
+
+The Department also requests the public to provide generous support.
+
+The information from this census is important to provide the country's national policy tools, plans and public administration mechanism.
+
+Census of the Department of Census and Housing is conducted by the Department of Census and Statistics every ten years.
+
+The first phase of this census was allocated to small parts of the entire island, based on the Grama Niladhari Divisions of the GN and the second stage of buildings and units of red labels in 2023.
+
+The list was started on October 7, 2024, on the 7th of December 2024, on the basis of the list.
 
 ...
 
 [Data](articles/0afbf918.json)
+
+[Extended Data](ext_articles/0afbf918.ext.json)
 
 ---
 

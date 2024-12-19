@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 15:02:01**
+As of **2024-12-19 15:27:13**
 
 ## Newspaper Stats
 
-*Scraped **60,992** Articles*
+*Scraped **60,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,817
 adaderanalk | 7,437
-tamilmirrorlk | 8,724
+tamilmirrorlk | 8,725
 virakesarilk | 10,048
 adaderanasinhalalk | 10,531
 
@@ -26,29 +26,61 @@ adaderanasinhalalk | 10,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,830 (99.7%) of 60,992 articles have been extended.
+60,834 (99.7%) of 60,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
 
-### தவறான திசையில் வாகனத்தை செலுத்தியவர் கைது
+### Increase of food allowance to pre -school minors
+
+*2024-12-19 15:02:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-சிறார்களுக்கு-உணவு-கொடுப்பனவு-அதிகரிப்பு/175-348963) · `ta`
+
+Cabinet approves increase in breakfast payments for pre-schoolers from 60 to 100 rupees daily. Aim to provide food allowance to 155,000 pre-school children starting 2025.
+
+🟩
+
+The Cabinet has approved to increase the breakfast payments given to early child development centers and pre -school children since 2025.
+
+Accordingly, the government has decided to increase the 60 rupees per day per child to 100 rupees.
+
+In addition, steps have been taken to increase the number of pre -school children who receive food allowance to 155,000.
+
+This was announced at a press conference announcing the Cabinet decisions held today (19).
+
+◼️
+
+[Data](articles/a56a99d3.json)
+
+[Extended Data](ext_articles/a56a99d3.ext.json)
+
+---
+
+### Arrest of the man who drove the vehicle in the wrong direction
 
 *2024-12-19 14:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-திசையில்-வாகனத்தை-செலுத்தியவர்-கைது/175-348962) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் (E01) தவறான திசையில் வாகனத்தை செலுத்திய ஒருவரை அதிவேக நெடுஞ்சாலை பொலிஸாரால் புதன்கிழமை (18)  கைது செய்துள்ளனர்.
+Man drives car wrong direction on highway, causes traffic issue. Stopped by police, released after mental health assessment.
 
-மனநலம் குன்றிய ஒருவரை சிகிச்சைக்காக ஏற்றிக்கொண்டு மத்தலயிலிருந்து கொட்டாவ நோக்கிச் சென்ற கார் வெலிப்பென்ன தெற்கு அதிவேக நெடுஞ்சாலை சேவைப் பகுதியில் நிறுத்தப்பட்டது.
+🟩
 
-வாகனத்தை ஓட்டிச் சென்ற நபர், ஓய்வறையைப் பயன்படுத்துவதற்காக நிறுத்தியதாக பிரிவின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+A man who drove the vehicle in the wrong direction on the Southern Highway (E01) was arrested by the Highway Highway Police on Wednesday (18).
 
-சாரதி, கழிவறையைப் பயன்படுத்துவதற்காக காரை விட்டு வெளியேறிய சிறிது நேரத்திலேயே, மனநலம் குன்றிய நபர் தனது குடும்ப உறுப்பினர்களுடன் காரை மாத்தறை நோக்கி அதிவேக நெடுஞ்சாலையில் தவறான திசையில் ஓட்டிச் சென்றுள்ளார். இதனால் ஏனைய வாகன சாரதிகளுக்கு பெரும் அசௌகரியம் ஏற்பட்டது.
+The car traveling from Mattala to Kottawa was parked in the southern high -speed highway service at Mattalai for treatment.
 
-கார் தவறான திசையில் மாத்தறை நோக்கி சுமார் ஐந்து கிலோமீட்டர் தூரம் பயணித்தது. பின்னர், குருந்துகஹஹெதெக்ம இடமாறலில் அதிவேக நெடுஞ்சாலை பொலிஸார் காரை நிறுத்தி வாகனத்தை செலுத்தி வந்த நபரை கைது செய்தனர்.
+A top official of the division said that the person who drove the vehicle had stopped using the restroom.
 
-...
+Shortly after leaving the car to use the toilet, the mentally ill man drove the car with his family members in a false direction on the highway towards Matara Matara. This caused great discomfort to other motorists.
+
+The car traveled about five kilometers towards Matara in the wrong direction. Subsequently, the highway police stopped the car and arrested the man who was driving the vehicle.
+
+After examining the situation, the police advised the driver to release the car and provide the patient immediately.
+
+◼️
 
 [Data](articles/e6cf639d.json)
+
+[Extended Data](ext_articles/e6cf639d.ext.json)
 
 ---
 
@@ -450,6 +482,8 @@ Cabinet Spokesman Minister Dr. Nalinda Jayatissa confirmed that the approval was
 
 [Data](articles/877410a6.json)
 
+[Extended Data](ext_articles/877410a6.ext.json)
+
 ---
 
 ### Action to publish the Gazette Notification
@@ -472,19 +506,27 @@ Health Minister Nalinda Jayatissa has submitted a new note on the issue, with th
 
 ---
 
-### வர்த்தமானியை வெளியிட நடவடிக்கை
+### Action to release the Gazette
 
 *2024-12-19 11:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானியை-வெளியிட-நடவடிக்கை/175-348949) · `ta`
 
-வைத்திய நிபுணர்களின் ஓய்வு பெறும் வயது வர்த்தமானியில் வெளியிடப்படாதமை குறித்த அமைதியின்மை மற்றும் நிச்சயமற்ற தன்மையை அடுத்து, 200 இற்கும் மேற்பட்ட நிபுணர்கள் முன்கூட்டியே ஓய்வு பெறக்கூடிய அபாயம் உள்ளதால், அரச நிர்வாக அமைச்சு வர்த்தமானி அறிவித்தலை வெளியிட நடவடிக்கை எடுக்க தீர்மானித்துள்ளதாக டெய்லி மிரர் தெரிவித்துள்ளது.
+Daily Mirror publishes gazette to prevent doctor retirements due to court ruling extending retirement age to 63. Health Minister submits new note, but Ministry of Public Administration delays circular publication, creating uncertainty for over 200 specialists.
 
-அரச வைத்தியசாலைகளில் நிபுணத்துவம் பெற்ற வைத்தியர்களின் ஓய்வுபெறும் வயதை, 2018ஆம் ஆண்டு முதல் நடைமுறையில் உள்ளவாறு 63 வயதாகவே தொடர வேண்டும் என மேன்முறையீட்டு நீதிமன்றம் வழங்கிய தீர்ப்பை முன்வைத்து, சுகாதார அமைச்சர் நளிந்த ஜயதிஸ்ஸ இந்த விடயம் தொடர்பாக புதிய குறிப்பொன்றை சமர்ப்பித்ததாக தகவலறிந்த வட்டாரங்கள் தெரிவித்தன.
+🟩
 
-குறித்த சுற்றறிக்கை அல்லது வர்த்தமானியை வெளியிடுவதில் ஏற்பட்ட தாமதம் இலங்கையில் 200 இற்கும் மேற்பட்ட விசேட வைத்தியர்களை முன்கூட்டிய ஓய்வு பெறும் அபாயத்தில் தள்ளியுள்ளது.
+Daily Mirror has decided to take action to publish a gazette notification, as more than 200 experts are at risk of retirement in the wake of the unrest and uncertainty of not being released in the retirement age of doctors.
+
+Health Minister Nalinda Jayatissa has submitted a new note on the issue, with the Appeal Court's decision to continue the retirement age of doctors who specialize in state hospitals, as in effect from 2018, has been issued by the Court of Appeal.
+
+The delay in publishing the circular or gazette has threatened more than 200 special doctors in Sri Lanka at risk of retirement.
+
+Despite the decision of the Court of Appeal to extend the retirement age of special doctors in government hospitals to 63 and the Cabinet approval on June 19, 2024, the Ministry of Public Administration has delayed the implementation of the decision in the form of an official circular or gazette.
 
 ...
 
 [Data](articles/9a778790.json)
+
+[Extended Data](ext_articles/9a778790.ext.json)
 
 ---
 
@@ -1036,7 +1078,7 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The Depa
 
 ---
 
-### Sri Lanka opposition pleads to cut 40-pct food tax as price controls trigger shortages
+### Sri Lanka opposition pleads for cut in 40-pct rice tax
 
 *2024-12-19 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-opposition-pleads-to-cut-40-pct-food-tax-as-price-controls-trigger-shortages-195070/) · `en`
 
@@ -1230,7 +1272,7 @@ He was speaking at a function in Colombo that the money is taking necessary acti
 
 *2024-12-19 08:18:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cge92r12v9jo) · `si`
 
-මියන්මාර් ජාතිකයින් පිරිසක් රැගත් බහුදින ධීවර යාත්‍රාවක් මුලතිව්, මුල්ලිවයික්කාල් වෙරළ තීරයට පැමිණ ඇතැයි මුලිතිව් නාවික හමුදාව සහ පොලිසිය පවසයි.
+මියන්මාර් ජාතිකයින් පිරිසක් රැගත් බහුදින ධීවර යාත්‍රාවක් මුලතිව්, මුල්ලිවයික්කාල් වෙරළ තීරයට පැමිණ ඇතැයි මුලිතිව් නාවික හමුදා නිලධාරීන් පිරිසක් සහ පොලිසිය පවසති.
 
 ඔවුන් පවසන්නේ, අදාළ යාත්‍රාවේ මියන්මාර් වැසියන් 100 දෙනෙකුට අධික පිරිසක් සිටින බව ය.
 
@@ -1242,7 +1284,11 @@ He was speaking at a function in Colombo that the money is taking necessary acti
 
 මේ අතර, යාත්‍රාව තුළ දරුවන් 25කට ආසන්න පිරිසක් සිටින බව අනාවරණය වී ඇති බව ද පොලිසිය සඳහන් කළේ ය.
 
-...
+ප්‍රභූන්ට මෙන් ඔබටත් ජනාධිපති අරමුදලින් ආධාර ලබා ගන්න පුළුවන් ද?
+
+සාරා ෂරීෆ් ඝාතනය: පියා සහ සුළු මවට ජීවිතාන්තය දක්වා සිර දඬුවම්
+
+◼️
 
 [Data](articles/f4f0cb15.json)
 
@@ -2251,45 +2297,5 @@ Ms. Qin Boyong noted that China looks forward to continuing its work with the ne
 [Data](articles/ad78456f.json)
 
 [Extended Data](ext_articles/ad78456f.ext.json)
-
----
-
-### Lanka R10 Super League - 2024: Jevna entered the first team as the first team
-
-*2024-12-18 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/201609) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jevna Titans won Lanka R10 Super League 2024 final, defeating Hambantota Bangla Tigers by 85 runs. Travin Mathews' 4/13 led the victory, while Kusal Mendis top-scored with 47.
-
-🟩
-
-Jevna Titans qualified as the first and unsuccessful team to play in the final of the Sri Lanka Cricket Cricket Cricket Cricket in the Kandy Pallekele International Cricket Stadium.
-
-Jevna Titans entered the final of the first qualifying match in Pallekele on Wednesday (18).
-
-Jevna Titans played a major role in the success of the Jevna Titans, the second 4 wickets pile of Travin Mathews.
-
-Jevna Titans scored 124 runs for the loss of 4 wickets in 10 overs.
-
-Tom Kohler Ketmore and Gusal Mendis shared 29 runs in the opening wicket with 10 runs.
-
-Sarit Asalann dismissed with 17 runs in the 2nd wicket with Kusal Mendis. (53 - 2 wig.)
-
-Gusal Mendis and Tom Abeel then shared 51 runs off 25 balls in the 3rd wicket.
-
-Tom Abell scored 23 runs off 12 balls and lost his self in the 9th over.
-
-Team captain David Vice, who entered the last over, faced 5 balls and scored 18 runs without a single pound and 2 sixes.
-
-On the other hand, Kusal Mendis was run out of the last ball with 47 runs off 25 balls and 4 sixes.
-
-...
-
-[Data](articles/da586574.json)
-
-[Extended Data](ext_articles/da586574.ext.json)
 
 ---

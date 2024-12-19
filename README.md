@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 22:43:07**
+As of **2024-12-19 23:13:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,544
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,873 (99.7%) of 61,057 articles have been extended.
+60,877 (99.7%) of 61,057 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -730,27 +730,41 @@ Police also revealed that nearly 25 children are among the refugees on board the
 
 [Data](articles/43a9b2a6.json)
 
+[Extended Data](ext_articles/43a9b2a6.ext.json)
+
 ---
 
-### අමාත්‍යවරයෙකුගේ මන්ත්‍රී ධුරය බලරහිත කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක්
+### Petition to the Court of Appeal demanding a locomotive of a minister
 
 *2024-12-19 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204526) · `si`
 
-අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ මහතාගේ පාර්ලිමේන්තු මන්ත්‍රී ධුරය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-අභිනව නිවහල් පෙරමුණේ සභාපති ඔෂල හේරත් මහතා විසින් පෙත්සම ඉදිරිපත් කර තිබුණි.
 
-එහි වගඋත්තරකරුවන් ලෙස අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ, පාර්ලිමේන්තු මහලේකම්, රුහුණු විශ්වවිද්‍යාලය සහ එහි උපකුලපති ඇතුළු පිරිසක් නම් කර තිබේ.
 
-පෙත්සම්කරු කියා සිටින්නේ අමාත්‍ය ආචාර්ය උපාලි පන්නිලගේ මහතා පසුගිය මහ මැතිවරණයෙන් අනතුරුව ජාතික ලැයිස්තු මන්ත්‍රීවරයෙකු වශයෙන් පාර්ලිමේන්තුවට පත්කළ බවයි.
+Court of Appeal petition challenges Minister Dr. Upali Pannila's eligibility as MP due to alleged violation of constitutional law regarding government appointments.
 
-උපාලි පන්නිලගේ අමාත්‍යවරයා පාර්ලිමේන්තු මන්ත්‍රීවරයකු වශයෙන් පත්කරන අවස්ථාවේදී ඔහු රුහුණු විශ්වවිද්‍යාලයේ සමාජ විද්‍යා මහාචාර්යවරයෙකු වශයෙන් සේවය කරමින් සිටි බවට තොරතුරු ලැබී තිබෙන බවත් පෙත්සමේ සඳහන් වෙයි.
+🟩
 
-රජයේ සේවයේ නිරතව සිටියදී මෙලෙස පාර්ලිමේන්තු මන්ත්‍රීවරයකු වශයෙන් පත්කිරීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 91 ව්‍යවස්ථාව යටතේ නීතියට පටහැනි බවත් එය පාර්ලිමේන්තුවට තේරීපත්වීමට නුසුදුසුකමක් බවත් පෙත්සමේ පෙන්වා  දී තිබුණි.
+The Court of Appeal has presented a petition to the issue of a balicitious writ commander to issue a parliamentary view of Hon. Dr. Upali Panilage.
 
-...
+The petition was presented by the President of the New Thirty Front.
+
+Dr. Upali Pannila, Minister Dr. Upali Pannila, Minister of Dr. Upali Pannila, the Secretary General of Ruhuna University and its Vice President have been named as respondents.
+
+The petitioner says that Minister Dr. Upali Pannila was appointed as a National List MP and was appointed as a National List.
+
+The petition states that the Minister of Upali Pannila was a Member of Parliament, the petition states that he was serving as a social science professor at the University of Ruhuna.
+
+The appointment of a Member of Parliament as a Member of Government Member of Article 91 of the Constitution had been contrary to the law and it was not to be charged to Parliament.
+
+Accordingly, Minister Dr. Upali Pannila was not eligible to select and vote for the election and the Petitioner Appeal.
+
+◼️
 
 [Data](articles/ec797ca3.json)
+
+[Extended Data](ext_articles/ec797ca3.ext.json)
 
 ---
 
@@ -778,43 +792,67 @@ Two of the four suspects who were arrested and interrogated in connection with t
 
 ---
 
-### මෛත්‍රී සමාව දුන් රෝයල් පාක් ඝාතකයා සිටින තැන සොයා විමර්ශන ආරම්භ කළා
+### Maithri forgiven, Royal Pak was set up in search of the killer
 
 *2024-12-19 16:28:28* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-සමාව-දුන්-රෝයල්-පාක්-ඝාතකයා-සිටින-තැන-සොයා-විමර්ශන-ආරම්භ-කළා/11-413743) · `si`
 
-රෝයල් පාක් මිනීමැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියමව සිටියදී ජනාධිපති සමාව ලබා දීමෙන් අනතුරුව  රටින් පළා ගොස් සිටින ජූඩ් ශාමන්ත ජයමහ නමැත්තා මේ වන විට රැඳී සිටින ස්ථානය අනාවරණය කර ගැනීම සඳහා අවශ්‍ය විමර්ශන  ආරම්භ කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (19)දැනුම් දුන්නේය.
+Here's a summary of the text in approximately 200 characters:
 
-එම වරදකරුට ජනාධිපති සමාව ලබා දීමට එරෙහිව ගොනු කළ පෙත්සමක් කැඳවූ අවස්ථාවේදී නීතිපති වරයා වෙනුවෙන් පෙනී සිටි රජයේ නීතීඥවරයා මේ බව දන්වා සිටියේය.
 
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීති පද්මන් සූරසේන, ශිරාන් ගුණරත්න සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල  හමුවේ මෙම පෙත්සම සලකා බැලීණ.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් මෝසමක් ඉදිරිපත් කරමින් රජයේ නීතීඥවරයා සදහන් කළේ මෙම විත්තිකරු  රැඳී සිටින ස්ථානය අනාවරණය කර ගැනීම සඳහා ජාත්‍යන්තර පොලිසිය හරහා විමර්ශන ආරම්භ කර ඇති බවය.
+Supreme Court case update: Maithri's pardon, Royal Pak investigation, Attorney General's progress on death sentence location, State Counsel submissions, Women's Media Union fundamental rights petition, Sanjeewa Jayawardena representing petitioner.
 
-එසේම ඔහුගේ බැංකු ගිණුම්  සම්බන්ධයෙන් විමර්ශනය කරන බවද එහිදී සඳහන් කෙරිණ.
+🟩
 
-ඉදිරිපත් වූ කරුණු සලකා බැලූ විනිසුරු මඩුල්ල එදින මෙම කටයුතුවල ප්‍රගතිය දැනුම් දෙන ලෙස රජයේ නීතිඥවරයාට නියම කළේය.
+The Attorney General also informed the Supreme Court today (19) that he had begun to uncover the location of the country when he was sentenced to death.
+
+The State Counsel appearing on behalf of the Attorney General were informed when a petition filed against the conviction was taken against the conviction.
+
+The petition was in the face of the Supreme Court Judge Shiran Gunaratne and Priyantha Fernando, the Supreme Court Judge.
+
+The State Counsel said that the monastery was presented to the Attorney General.
+
+It also examines his bank accounts.
+
+After considering the submissions, the judge's lawyer ordered the lawyer to inform the progress of this work on that day.
+
+The Supreme Court, who had heard a fundamental rights petition filed by the Women's Media Union, the Supreme Court decided that former President Maithripala Sirisena was awarded by former President Maithripala Sirisena.Accordingly, the presidential pardon was free.
 
 ...
 
 [Data](articles/63a6f14b.json)
 
+[Extended Data](ext_articles/63a6f14b.ext.json)
+
 ---
 
-### முன்பள்ளிப் பிள்ளைகளுக்கான காலை உணவு வேலைத்திட்டத்தை முன்னெடுக்க அரசாங்கம் தீர்மானம்
+### Government resolution to carry out breakfast program for pre -school children
 
 *2024-12-19 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201657) · `ta`
 
-முன் பிள்ளைப்பருவ அபிவிருத்தி நிலையங்கள் மற்றும் முன்பள்ளிப் பிள்ளைகளுக்கான காலை உணவு வழங்கும் வேலைத்திட்டத்தை முன்னெடுப்பதற்கு அரசாங்கம் தீர்மானித்துள்ளது.
+Here's a summary in 200 characters:
 
-முன் பிள்ளைப்பருவ அபிவிருத்தி தொடர்பான தேசிய செயலகத்தால் 2017 ஆம் ஆண்டு தொடக்கம் சுகாதார அமைச்சின் தொழிநுட்ப வழிகாட்டலின் கீழ் எடை குறைந்த பிள்ளைகள் அதிகமாகவுள்ள முன் பிள்ளைப்பருவ அபிவிருத்தி நிலையங்கள் மற்றும் முன்பள்ளிப் பிள்ளைகளுக்கான காலை உணவு வழங்கும் வேலைத்திட்டம் நடைமுறைப்படுத்தப்பட்டு வருகின்றது.
 
-தற்போது ஒரு பிள்ளைக்கு நாளொன்றுக்கு 60 ரூபா வழங்கப்படுவதுடன், 2025 ஆம் ஆண்டில் 155,000 பிள்ளைகள் பயனடையவுள்ளனர்.
 
-சமகாலத்தில் உணவுப் பொருட்களின் விலை அதிகரித்துள்ளமையால், ஒரு பிள்ளைக்கு நாளொன்றுக்கு ஒதுக்கப்படுகின்ற 60 ரூபா தொகை போதுமானதாக இன்மையால், குறித்த தொகையை 100 ரூபாவாக அதிகரிப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+"Govt launches breakfast program for pre-schoolers. 155,000 children to receive daily meals worth 60 Rupees each. Program aims to support child development centers and pre-schools."
 
-...
+🟩
+
+The government has decided to carry out a breakfast program for pre -child development centers and pre -school children.
+
+From 2017, the National Secretariat on Child Development has been implementing a program to provide breakfast for pre -school children under the technical guidelines of the Ministry of Health from the Ministry of Health.
+
+At present, a child will be paid 60 rupees per day and 155,000 children will benefit in 2025.
+
+Due to the increase in food prices in the contemporary times, the amount of Rs.
+
+The Cabinet has approved the proposal submitted by the Minister of Women and Child Affairs to continue the program of childbirth development centers or pre -schools before being selected based on the criterion of 'pre -schools that are high in weightal children'.
+
+◼️
 
 [Data](articles/1e5b1207.json)
+
+[Extended Data](ext_articles/1e5b1207.ext.json)
 
 ---
 

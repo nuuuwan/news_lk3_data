@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 01:42:54**
+As of **2024-12-20 02:02:07**
 
 ## Newspaper Stats
 
-*Scraped **61,083** Articles*
+*Scraped **61,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ dailymirrorlk | 4,733
 adalk | 5,827
 adaderanalk | 7,447
 tamilmirrorlk | 8,735
-virakesarilk | 10,078
+virakesarilk | 10,079
 adaderanasinhalalk | 10,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,889 (99.7%) of 61,083 articles have been extended.
+60,890 (99.7%) of 61,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### வெளிநாடுகளில் உள்ள இலங்கையர்கள் தேர்தல்களில் வாக்களிப்பதற்கான வசதி ஏற்படுத்திக் கொடுக்கப்படும் - அருண் ஹேமச்சந்திரா
+### விமானத்தில் பெண்ணிடம் அநாகரிகமாக நடந்துகொண்ட இலங்கை பிரஜைக்கு எதிராக அவுஸ்திரேலியாவில் வழக்குப்பதிவு
+
+*2024-12-20 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201701) · `ta`
+
+சர்வதேச விமானத்தில் பெண் பயணியிடம் தகாத முறையில் நடந்துகொண்ட இலங்கையைச்சேர்ந்த நபர், அநாகரிகமாக நடந்துகொண்டார் என்ற குற்றச்சாட்டில் வியாழக்கிழமை (19) மெல்பேர்ன் நகரின் ப்ரோமேடோஸ் நீதிவான் நீதிமன்றத்தில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+
+இலங்கையிலிருந்து புதன்கிழமை (18) மெல்பேர்னுக்கு பயணமான விமானத்தில் 41 வயதான ஆண் ஒருவர் பெண் பயணியிடம் அநாகரிகமான முறையில் நடந்துகொண்டிருக்கிறார். அதனையடுத்து இச்சம்பவம் தொடர்பில் குறித்த பெண் விமானசேவை ஊழியர்களுக்கு அறியப்படுத்தியதுடன், அவர்கள் அவுஸ்திரேலிய பெடரல் பொலிஸில் முறைப்பாடளித்தனர். அதன்படி குறித்த விமானம் மெல்பேர்னில் தரையிறங்கியவுடன் அவுஸ்திரேலிய பெடரல் பொலிஸார் இச்சம்பவம் பற்றி பயணிகளிடமும், விமானசேவை ஊழியர்களிடமும் விசாரணைகளை மேற்கொண்டனர்.
+
+இந்நிலையில் அவுஸ்திரேலியாவின் 1991 ஆம் ஆண்டு குற்றங்கள் (விமானசேவை) சட்டத்தின் 15(1) சரத்தின் பிரகாரம் அநாகரிகமான முறையில் நடந்துகொண்ட குற்றத்துக்காக குறித்த நபருக்கு எதிராக வழக்கு பதிவுசெய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a67c5769.json)
+
+---
+
+### Sri Lankans abroad will be provided with voting in elections - Arun Hemachandra
 
 *2024-12-20 01:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201700) · `ta`
 
-வெளிநாடுகளில் உள்ள இலங்கையர்கள் தேர்தல்களில் வாக்களிப்பதற்கான வசதி ஏற்படுத்திக் கொடுக்கப்படும். ஜனாதிபதி அநுரகுமார திசாநாயக்க இவ்விடயம் தொடர்பில் தேர்தல்கள் ஆணைக்குழுவுக்கு அறிவுறுத்தியுள்ளார். இது மக்களின் அரசாங்கம் ஆகவே மக்களுக்கு வழங்கிய வாக்குறுதிகளை முறையாக நிறைவேற்றுவோம் என வெளிவிவகாரம், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அபிவிருத்தி பிரதி அமைச்சர் அருண் ஹேமச்சந்திரா தெரிவித்தார்.
+Sri Lankans abroad to vote in elections. Government promises fulfilled. International Migration Day marked. Economic crisis addressed. Family remittances valued at $5.96B. Special concessions for overseas workers. CID investigates e-8 system issues.
 
-சர்வதேச புலம்பெயர்ந்தோர் தினத்தை முன்னிட்டு புதன்கிழமை (18) கொழும்பு பண்டாரநாயக்க ஞாபகாரத்த சர்வதேச மாநாட்டு மண்டபத்தில் நடைபெற்ற நிகழ்வில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-உலகளாவிய ரீதியில் பரந்து வாழும் புலம்பெயர்ந்தோர் அதேபோல் தமது சொந்த இடங்களில் இருந்து வெளியேறி வாழ்பவர்களின் உரிமைகளுக்காகவே சர்வதேச புலம்பெயர்ந்தோர் தினம் அங்கீகரிக்கப்பட்டுள்ளது.பொருளாதார நெருக்கடியின் போது புலம்பெயர்ந்தோர் அந்நிய செலாவணி ஊடாக இலங்கைக்கு ஒத்துழைப்பு வழங்காமல் இருந்திருந்தால் நெருக்கடி மேலும் தீவிரமடைந்திருக்கும்.
+Sri Lankans abroad will be provided with voting in elections. President Anura Kumara Dissanayake has advised the Election Commission on this issue. Deputy Minister of External Affairs, Foreign Employment and Tourism Development Arun Hemachandra said that this is the government's government and the promises made to the people.
+
+He was speaking at a function held at the Bandaranaike Memorial International Conference Hall in Colombo on Wednesday (18) to mark the International Migration Day.
+
+The International Migrant Day has been recognized for the rights of those who live globally, as well as the rights of those who have left their own places. The crisis will be intensified if the immigrants did not cooperate with Sri Lanka through foreign exchange during the economic crisis.
+
+Debt Setting up with the International Monetary Fund is nearing completion.. The value of family money transfers is $ 4.48 billion in the year of August this year.
 
 ...
 
 [Data](articles/07c2a258.json)
+
+[Extended Data](ext_articles/07c2a258.ext.json)
 
 ---
 
@@ -2353,33 +2377,5 @@ The Cabinet spokesman said imports should be completed by January 31, 2025.
 [Data](articles/54b77940.json)
 
 [Extended Data](ext_articles/54b77940.ext.json)
-
----
-
-### 65 rupees for imported rice is unreasonable - Mujibur Rahman
-
-*2024-12-19 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/201632) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: Imported rice costs 65 rupees per kg, deemed unreasonable. Government faces high import taxes. Rice manufacturers increase prices despite controlled market rates. Private importers struggle to profit due to high costs and low selling prices.
-
-🟩
-
-Rice manufacturers exploit people on the one hand and the government on the other hand survives the high tax on rice imports. It is unreasonable to levy 65 rupees for imported 1 kilogram of rice.United People's Power MP Mujibur Rahman urged the government to reduce the import duty on the market.
-
-He said this while addressing the debate on the Motion of Paper Students for School Students in Parliament on Wednesday (18).
-
-President Anura Kumara Dissanayake is saying that he will provide relief in March and April next year.The government has temporarily eliminated the definition of rice imports to address the problem of rice. On the other hand, the government has taken steps to import 70 thousand metric tonnes of rice.
-
-The President engaged in talks with main rice manufacturers 5 times to address the shortage of rice. At the request of the rice manufacturers, the price of rice has increased and the Gazette Notification has been published.
-
-...
-
-[Data](articles/7a217bbd.json)
-
-[Extended Data](ext_articles/7a217bbd.ext.json)
 
 ---

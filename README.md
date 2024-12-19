@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-19 14:43:43**
+As of **2024-12-19 15:02:01**
 
 ## Newspaper Stats
 
-*Scraped **60,990** Articles*
+*Scraped **60,992** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 455
 colombotelegraphcom | 619
-bbccomsinhala | 642
+bbccomsinhala | 643
 islandlk | 3,689
 economynextcom | 3,716
 dailyftlk | 4,217
 dailymirrorlk | 4,733
 adalk | 5,817
 adaderanalk | 7,437
-tamilmirrorlk | 8,723
+tamilmirrorlk | 8,724
 virakesarilk | 10,048
 adaderanasinhalalk | 10,531
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,830 (99.7%) of 60,990 articles have been extended.
+60,830 (99.7%) of 60,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-19 (Thursday)
+
+### தவறான திசையில் வாகனத்தை செலுத்தியவர் கைது
+
+*2024-12-19 14:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-திசையில்-வாகனத்தை-செலுத்தியவர்-கைது/175-348962) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் (E01) தவறான திசையில் வாகனத்தை செலுத்திய ஒருவரை அதிவேக நெடுஞ்சாலை பொலிஸாரால் புதன்கிழமை (18)  கைது செய்துள்ளனர்.
+
+மனநலம் குன்றிய ஒருவரை சிகிச்சைக்காக ஏற்றிக்கொண்டு மத்தலயிலிருந்து கொட்டாவ நோக்கிச் சென்ற கார் வெலிப்பென்ன தெற்கு அதிவேக நெடுஞ்சாலை சேவைப் பகுதியில் நிறுத்தப்பட்டது.
+
+வாகனத்தை ஓட்டிச் சென்ற நபர், ஓய்வறையைப் பயன்படுத்துவதற்காக நிறுத்தியதாக பிரிவின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+சாரதி, கழிவறையைப் பயன்படுத்துவதற்காக காரை விட்டு வெளியேறிய சிறிது நேரத்திலேயே, மனநலம் குன்றிய நபர் தனது குடும்ப உறுப்பினர்களுடன் காரை மாத்தறை நோக்கி அதிவேக நெடுஞ்சாலையில் தவறான திசையில் ஓட்டிச் சென்றுள்ளார். இதனால் ஏனைய வாகன சாரதிகளுக்கு பெரும் அசௌகரியம் ஏற்பட்டது.
+
+கார் தவறான திசையில் மாத்தறை நோக்கி சுமார் ஐந்து கிலோமீட்டர் தூரம் பயணித்தது. பின்னர், குருந்துகஹஹெதெக்ம இடமாறலில் அதிவேக நெடுஞ்சாலை பொலிஸார் காரை நிறுத்தி வாகனத்தை செலுத்தி வந்த நபரை கைது செய்தனர்.
+
+...
+
+[Data](articles/e6cf639d.json)
+
+---
 
 ### Boat on the coast of Mullivaikkal with 103 people
 
@@ -1206,6 +1226,28 @@ He was speaking at a function in Colombo that the money is taking necessary acti
 
 ---
 
+### මියන්මාර් සරණාගතයින් රැගත් යාත්‍රාවක් මුලතිව් වෙරළට ගොඩගසයි
+
+*2024-12-19 08:18:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cge92r12v9jo) · `si`
+
+මියන්මාර් ජාතිකයින් පිරිසක් රැගත් බහුදින ධීවර යාත්‍රාවක් මුලතිව්, මුල්ලිවයික්කාල් වෙරළ තීරයට පැමිණ ඇතැයි මුලිතිව් නාවික හමුදාව සහ පොලිසිය පවසයි.
+
+ඔවුන් පවසන්නේ, අදාළ යාත්‍රාවේ මියන්මාර් වැසියන් 100 දෙනෙකුට අධික පිරිසක් සිටින බව ය.
+
+මියන්මාරයේ සිට සරණාගතයින් ලෙස නීතිවිරෝධීව වෙනත් රටකට  යමින් සිටියදී එම බහුදින යාත්‍රාව එලෙස මුල්ලිවයික්කාල් වෙරළ තීරයට පැමිණ ඇති බව ය.
+
+අදාළ ධීවර යාත්‍රාවේ ගමන්ගත් පිරිස සඳහා ප්‍රමාණවත් ආහාර හා ජලය නොමැති වීම හේතුවෙන් යාත්‍රාව මුල්ලිවයික්කාල් වෙරළ තීරයට පැමිණ ඇති බව අප වාර්තාකරු පැවසීය.
+
+යාත්‍රාවේ සිටින පිරිස වෙත අවශ්‍ය ආහාර ද්‍රව්‍ය හා ජලය ලබාදීම නාවික හමුදාව විසින් සිදුකරනු ලබන බවත්, යාත්‍රාව සහ මගීන් සම්බන්ධයෙන් ගන්නා පියවර කුමක් ද යන්න සම්බන්ධයෙන් සලකා බලන බවත් පොලිසිය හා නාවික හමුදාව පැවසීය.
+
+මේ අතර, යාත්‍රාව තුළ දරුවන් 25කට ආසන්න පිරිසක් සිටින බව අනාවරණය වී ඇති බව ද පොලිසිය සඳහන් කළේ ය.
+
+...
+
+[Data](articles/f4f0cb15.json)
+
+---
+
 ### Several spells of showers expected in parts of the island
 
 *2024-12-19 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104343/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
@@ -2249,39 +2291,5 @@ On the other hand, Kusal Mendis was run out of the last ball with 47 runs off 25
 [Data](articles/da586574.json)
 
 [Extended Data](ext_articles/da586574.ext.json)
-
----
-
-### 16,000 MT of rice imported within two weeks
-
-*2024-12-18 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104341/16000-mt-of-rice-imported-within-two-weeks) · `en`
-
-Around 16,000 metric tonnes of rice has been imported to Sri Lanka as of 3:30 p.m. today (18), following the relaxing of import restrictions on rice.
-
-Additional Director General of Customs and Customs Media Spokesperson, Seevali Arukgoda, stated that this total includes 6,000 metric tonnes of Red Raw Rice and 10,000 metric tonnes of Nadu Rice.
-
-Accordingly, since the restrictions on rice imports were lifted on December 04, a total of 16,000 metric tonnes of rice has been imported into the country thus far.
-
-◼️
-
-[Data](articles/484165c1.json)
-
-[Extended Data](ext_articles/484165c1.ext.json)
-
----
-
-### Can Philanthropy Bridge The Digital Disparities For Students In Rural Sri Lanka?
-
-*2024-12-18 21:29:53* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/can-philanthropy-bridge-the-digital-disparities-for-students-in-rural-sri-lanka/) · `en`
-
-Philanthropy embodies the spirit of giving and community support, particularly in underserved regions. A remarkable example of this is the recent donation of a Hybrid Valmark Technology Center in a remote village in Kalutara, Sri Lanka, by David Rosell and the Valmark Corporation. This initiative has brought together modern technological resources, including a smart board and five computers to Presidents School (Agamethi Vidyalaya-Panapitiya, Kalutarao). The center hopes the technology will be instrumental in connecting students from President’s College to the broader global community.
-
-The inauguration ceremony, attended by David Rosell, his daughter Sophie Rosell and Heather Ewing. David Rosell, a celebrated author hails from Bend Oregon, USA. Five years ago, he visited Sri Lanka with his daughter Sophie and was, “Captivated  by the beauty and warmth of this extraordinary country,” he said.
-
-...
-
-[Data](articles/8ecb8156.json)
-
-[Extended Data](ext_articles/8ecb8156.ext.json)
 
 ---

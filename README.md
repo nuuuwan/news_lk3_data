@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 18:37:33**
+As of **2024-12-20 18:50:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,982 (99.6%) of 61,211 articles have been extended.
+60,985 (99.6%) of 61,211 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,47 +78,77 @@ The current government is working hard and dedicated to control chronic kidney d
 
 ---
 
-### எட்கா ஒப்பந்தத்தில் கைச்சாத்திடுவதற்கான இணக்கப்பாடு எதுவும் எட்டப்படவில்லை - ஜனாதிபதியின் இந்திய விஜயத்தை அடுத்து கிளம்பிய சர்ச்சைக்கு அரசாங்கம் விளக்கம்
+### No compliance with signing the Edka Agreement has been reached
 
 *2024-12-20 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201767) · `ta`
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் இந்திய விஜயத்தை அடுத்து எட்கா ஒப்பந்தம் கைச்சாத்திடப்படவிருப்பதாக சில அரசியல்வாதிகளால் கூறப்படும் கருத்துக்கள் முற்றிலும் பொய்யானவை எனச் சுட்டிக்காட்டிய வெளிவிவகார அமைச்சர் விஜித்த ஹேரத், எட்கா ஒப்பந்தம் குறித்த பேச்சுவார்த்தைகளைத் தொடர்ந்து முன்னெடுப்பதற்கு இணக்கம் காணப்பட்டதே தவிர, அவ்வொப்பந்தத்தில் கைச்சாத்திடுவதற்கு இணக்கப்பாடு எட்டப்படவில்லை எனத் தெரிவித்தார்.
+Sri Lanka-India relations update: No Edka Agreement signed; bilateral deals on public servants & tax law; ongoing Edka negotiations; President denies Adani influence; discussions on economic cooperation, security, development, oil tanks, fisheries, debt relief.
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் அண்மைய இந்திய விஜயத்தின்போது ஆராயப்பட்ட விடயங்கள் மற்றும் கைச்சாத்திடப்பட்ட ஒப்பந்தங்கள் குறித்துத் தெளிவுபடுத்தும் நோக்கிலான ஊடகவியலாளர் சந்திப்பொன்று வெள்ளிக்கிழமை (20) கொழும்பிலுள்ள அரசாங்கத் தகவல் திணைக்களத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+🟩
+
+External Affairs Minister Vijitha Herath said that some politicians claiming that the Edka deal would be signed following the Indian visit to President Anura Kumara Dissanayake was completely false.
+
+A media briefing was organized at the Government Information Department in Colombo on Friday (20) to clarify the issues and signed agreements examined during the recent visit to President Anura Kumara Dissanayake.
+
+External Affairs Minister Vijitha Herath said that President Anuragumara Dissanayake's three -day state visit to India during a three -day state visit to India has reached bilateral agreements on two agreements on the provision of 1500 public servants in India and the Double Tax Lawing Agreement.
+
+Meanwhile, Minister Vijitha Herath said that during a meeting with Prime Minister Modi, the long -standing talks between Sri Lanka and India have been agreed to continue negotiations on the Economic and Technical Cooperation Agreement (Edka).
 
 ...
 
 [Data](articles/3cde05ab.json)
 
+[Extended Data](ext_articles/3cde05ab.ext.json)
+
 ---
 
-### அரிசி இறக்குமதிக்கான காலவகாசம் ஜனவரி 10 வரை நீட்டிப்பு 40,500 மெற்றிக் தொன் அரிசி இறக்குமதி - சுங்கத் திணைக்களம்
+### Time of Rice Importation Till January 10
 
 *2024-12-20 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201766) · `ta`
 
-தனியார் வர்த்தகர்களுக்கு அரிசி இறக்குமதிக்காக வழங்கப்பட்ட காலவகாசம் எதிர்வரும் ஜனவரி மாதம் 10 ஆம் திகதி வரை நீட்டிக்கப்பட்டுள்ளது. இதுவரையான காலப்பகுதிக்குள் தனியார் வர்த்தகர்கள் 40,500 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளதாகவும், அவற்றில் 95 சதவீதமானவை விடுவிக்கப்பட்டுள்ளாகவும் சுங்கத் திணைக்களம் குறிப்பிட்டுள்ளது.
+Rice import deadline extended to Jan 10: Private traders import 40,500 metric tonnes; 95% released. Government allows private sector imports to address shortage. Customs Department instructs re-export of 75,000 kilos.
 
-சந்தையில் நிலவிய அரிசி தட்டுப்பாட்டுக்கு தீர்வாக அரிசி இறக்குமதி மீது விக்கப்பட்டிருந்த வரையறை தற்காலிகமாக நீக்கப்பட்டு,தனியார் துறையினர் அரிசி இறக்குமதி செய்வதற்கு அரசாங்கம் இம்மாதம் 10 ஆம் திகதி அனுமதி வழங்கியது.
+🟩
 
-இதற்கமைய இக்காலப்பகுதியில் தனியார்  தரப்பினர் இறக்குமதி செய்த அரிசி தொகையில் 75 ஆயிரம் கிலோ கிராம் அரிசி மனித பாவனைக்கு உகந்ததல்ல என்று கண்டறியப்பட்டு அவற்றை மீள் ஏற்றுமதி செய்யுமாறு குறித்த இறக்குமதியாளர்களுக்கு சுங்கத் திணைக்களம் அறிவுறுத்தியுள்ளது.
+The timeline given to private traders for the importation of rice has been extended until the 10th of January. According to the Customs Department, private traders have imported 40,500 metric tonnes of rice and 95 per cent of them have been released.
+
+As a solution to the shortage of rice in the market, the definition of rice imports has been temporarily removed and the government has granted permission to import rice by the private sector this month.
+
+Accordingly, the Customs Department has instructed the importers to re -export 75 thousand kilos of rice in the amount of rice imported by private parties during this period.
+
+The private sector imported 40,500 metric tonnes of rice until Thursday (19). The Customs Department said that 17,500 metric tonnes of green rice and 23,000 metric tonnes of rice were released and 95 per cent had been released.
 
 ...
 
 [Data](articles/d2c1cf3b.json)
 
+[Extended Data](ext_articles/d2c1cf3b.ext.json)
+
 ---
 
-### எந்தவொரு உத்தியோகத்தருக்கும் அநீதி இழைக்கப்பட்டால் அந்த நபரின் பாதுகாப்பிற்காக நான் முன் நிற்பேன் - ஜனாதிபதி
+### I will stand before the protection of that person if any official is wronged - the President
 
 *2024-12-20 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201758) · `ta`
 
-அரச நிறுவனமொன்றில் நியாயமான சேவையைப் பெற்றுக்கொள்ள முடியும் என்று மக்களுக்கு சிறிதும் நம்பிக்கை இல்லை. அரசாங்கம் என்ற வகையில் முழுக் கட்டமைப்பும் சரிவை கண்டுள்ளது.மக்கள் ஆணையின் எதிர்பார்ப்புகளுக்கு அரசியல் அதிகாரம் மட்டுமல்ல அரச சேவையும் பொறுப்புக் கூற வேண்டும் என்பதாகும். தற்போதுள்ள அரச நிறுவனங்களை மீளாய்வு செய்ய நியமிக்கப்பட்டிருக்கும் புதிய குழுவின் ஊடாக அரசியல் செல்வாக்கை பொருட்படுத்தாமல் அவை தொடர்பில் தீர்மானம் மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-அத்துடன் எமது நாட்டை புதிய நிலைக்கு உயர்த்தி வைப்பதற்காக மேற்கொள்ளப்படும் பணியை நிறைவேற்றும் போது எந்தவொரு உத்தியோகத்தருக்கும் அசௌகரியம், அநீதி அல்லது அசாதாரணம் இழைக்கப்பட்டால் அந்த நபரின் பாதுகாப்பிற்காக நான் முன் நிற்பேன். எவரேனும் அதிகாரியொருவர் அந்த திட்டத்தை சிதைக்கும் நோக்கில் தாமதப்படுத்தாவாராயின் அதற்கும் நியாயமான முறையில் நடவடிக்கை எடுக்கப்படும் என ஜனாதிபதி உறுதியளித்தார்.
+
+
+Presidential address: Commitment to fairness, anti-corruption efforts, restructuring state institutions, promoting education, digital initiatives, and balancing political power with public service.
+
+🟩
+
+People have no confidence that people can get a fair service in a state agency. As a government, the entire structure has declined.. President Anurakumara Dissanayake said that action would be taken to take a decision regarding the political influence of the new committee to review existing state institutions.
+
+And when the task of raising our country to a new level, I will stand before any officer's uncomfortable, injustice or unhappiness for the safety of the person.. The President promised that if a person was delayed to disrupt the plan, it would be fair to take a fair action.
+
+President Anura Kumara Dissanayake said this while addressing the District Secretary's Government Agent Conference held at the Auditorium of the Ministry of Home Affairs at the 'Nila Medura' building in Narahenpita on Friday (20).
 
 ...
 
 [Data](articles/851eba6d.json)
+
+[Extended Data](ext_articles/851eba6d.ext.json)
 
 ---
 

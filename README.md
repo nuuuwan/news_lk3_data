@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 16:42:32**
+As of **2024-12-20 17:00:14**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 10,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,969 (99.6%) of 61,198 articles have been extended.
+60,971 (99.6%) of 61,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### පොහොට්ටුවේ නව ජාතික කැඳවුම්කරු ඩී වී චානක
+### New National Convener in Poight D V Chanaka
 
 *2024-12-20 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204557) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ නව ජාතික කැඳවුම්කරු ලෙස ඩී. වී. චානක මන්ත්‍රීවරයා තෝරාගෙන ඇති බව වාර්තා වෙයි.
+Here's a summary in 200 characters:
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ විජේරාම නිවසේ අද (20) පැවති රැස්වීමකදී චානක මහතා ව එම තනතුර සඳහා තෝරාගෙන තිබුණි.
 
-මේ අතර හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා ට නව ග්‍රාමීය නායකයින් සහ කොට්ඨාස නායකයින් පත්කිරීමේ සංවිධාන කටයුතු භාර දී තිබේ.
+
+Chanaka MP named new National Convener of Sri Lanka General Convener. Selected at meeting held at Wijerama's house. Johnston Fernando handed over rural leaders and divisions.
+
+🟩
+
+D. As the new National Convener of the Sri Lanka General Convener. Paddy. It is reported that Chanaka MP has been selected.
+
+Mr. Chanaka had been selected at a meeting held at the Wijerama's house today (20).
+
+Meanwhile, former Parliamentarian Johnston Fernando has handed over the new rural leaders and divisions.
 
 ◼️
 
 [Data](articles/1bd6dfef.json)
 
+[Extended Data](ext_articles/1bd6dfef.ext.json)
+
 ---
 
-### පිරිවෙන් සාමාන්‍ය පෙළ විභාගයට අයදුම්පත් කැඳවයි
+### Applications are invited for Pirivena GCE Ordinary Level examination
 
 *2024-12-20 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204556) · `si`
 
-2025 මාර්තු මාසයේදී පැවැත්වීමට නියමිත “පිරිවෙන් සාමාන්‍ය පෙළ විභාගය - 2024 (2025)” සඳහා මාර්ගගතව අයදුම්පත් කැඳවා තිබේ.
+Pirivena GCE Ordinary Level exam applications open online March 2025. Register on donenets.lk from Dec 20, 2024 to Jan 15, 2025. Contact Ministry of Education for username/password issues.
 
-විභාග දෙපාර්තමේන්තුව නිවේදනය කළේ, උක්ත විභාගය සඳහා අයදුම්පත් ඉදිරිපත් කළ හැකි අධ්‍යාපන අමාත්‍යාංශයේ ලියාපදිංචි මූලික පිරිවෙන්, මහ පිරිවෙන්, බෞද්ධ සීලමාතා අධ්‍යාපන ආයතන හා විශේෂ පිරිවෙන්වලට අදාළ පරිශීලක නාම හා මුරපද මේ වන විට නිකුත් කර ඇති බවය.
+🟩
 
-පරිශීලක නාම හා මුරපද නොලද ලියාපදිංචි පිරිවෙන් වේ නම්, ඒ පිළිබඳව අධ්‍යපන අමාත්‍යාංශයේ පිරිවෙන් අධ්‍යාපන අංශයෙන් විමසිය යුතුය.
+Applications have been called online for the "Piriven GCE (T20 Examination - 2024 (2025)" in March 2025.
 
-අයදුම්පත සම්පූර්ණ කිරීම සඳහා ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුවේ, නිල වෙබ් අඩවිය https://donenets.lk වෙත පිවිස " අපගේ සේවා” යටතේ ඇති “Piriven Exam Information Center” මත Click කිරීම මඟින් හෝ,
+The Examinations Department announced the registration of the Ministry of Education, the registration of the Ministry of Education and the following usernames and passwords related to special Pirivenasha educational institutions and special Paddays.
 
-මාර්ගගත අයදුම්පත් ඉදිරිපත් කිරීම පිළිබඳ උපදෙස් ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තු වෙබ් අඩවියේ පළ කර ඇත.
+If the usernames and non-password is unattended, the Piriven Educational Division of the Ministry of Education should be informed of the matter.
 
-මාර්ගගත අයදුම්පත් භාරගැනීම 2024 දෙසැම්බර් මස 20 දින පෙ.ව. 9.00ට ආරම්භ වන අතර 2025 ජනවාරි මස 15 දින ප.ව. 9.00ට අවසන් වේ.
+Visit the Department of Examinations, Department of Examinations, the official website of the Sri Lanka Examinations, Videout httpS://donenets.lk and click on "Our Service" or click on "Piriven Exam Information Center" or,
+
+Advice on online application form has been published on the Department of Examinations website.
+
+On December 20, 2024. Starts at 9.00 and on January 15, 2025 pm. Ends at 9.00.
 
 ◼️
 
 [Data](articles/bfed3047.json)
+
+[Extended Data](ext_articles/bfed3047.ext.json)
 
 ---
 

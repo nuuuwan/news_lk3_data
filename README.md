@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 22:27:23**
+As of **2024-12-20 23:01:21**
 
 ## Newspaper Stats
 
-*Scraped **61,237** Articles*
+*Scraped **61,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 646
 islandlk | 3,704
-economynextcom | 3,730
+economynextcom | 3,738
 dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,837
-adaderanalk | 7,468
+adaderanalk | 7,469
 tamilmirrorlk | 8,755
 virakesarilk | 10,107
 adaderanasinhalalk | 10,580
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,007 (99.6%) of 61,237 articles have been extended.
+61,008 (99.6%) of 61,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### Sri Lanka to soon formulate national policy on visits by foreign research vessels
+
+*2024-12-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104385/sri-lanka-to-soon-formulate-national-policy-on-visits-by-foreign-research-vessels) · `en`
+
+Sri Lanka will soon formulate a national policy on allowing visits by foreign research vessels, Foreign Minister Vijitha Herath said here on Friday, amidst frequent docking requests from Chinese surveillance ships which raised concerns in India.
+
+Herath’s comments came days after Sri Lankan President Anura Kumara Dissanayake’s visit to India.
+
+In January, Sri Lanka enforced a year-long moratorium on foreign marine scientific research survey vessels operating in its waters and the Exclusive Economic Zone after strong security concerns were raised by India and the US following frequent docking requests from hi-tech Chinese surveillance vessels.
+
+Sri Lanka’s moratorium on allowing research vessels is still in force which would be reviewed appropriately, Herath said.
+
+Upon his return to Colombo from India, Dissanayake held a meeting with a top Chinese government official who expressed China’s wish to see Chinese research ships resuming their visits to Colombo.
+
+...
+
+[Data](articles/b4d60caa.json)
+
+[Extended Data](ext_articles/b4d60caa.ext.json)
+
+---
 
 ### ධරණී වෙතින් "පත්තරෙන් නත්තල්" ප්‍රජා සත්කාරක වැඩසටහනක්
 
@@ -472,6 +494,28 @@ A discussion was held at the Ministry of Youth Affairs and Sports today (20) bet
 
 ---
 
+### Sri Lanka won’t allow harming economy, country in Indian projects: FM
+
+*2024-12-20 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-wont-allow-harming-economy-country-in-indian-projects-fm-195623/) · `en`
+
+ECONOMYNEXT – Sri Lanka will not allow any Indian projects that will be harmful either to the island nation’s economy or the country, Foreign Minister Vijitha Herath said.
+
+Explaining President Anura Kumara Dissanayake this week’s Indian visit, he said only two memorandum of understandings (MOUs) were signed while most of the other projects were discussed.
+
+“We would not arrive at any decision that would be harmful for our economy or our country,” Herath told reporters on Friday in Colombo.
+
+President Dissanayake during the visit discussed projects related to connectivity, energy, culture and education, and regional security among many other topics.
+
+Both countries signed deals to avoid double taxation and train 1,500 Sri Lankan civil administrators at the Indian National Centre for Good Governance.
+
+“Those are the only two MOUs we signed. No other projects were signed,” the Foreign Minister, who was also part of Dissanayake’s Indian delegation, said.
+
+...
+
+[Data](articles/1f4a635b.json)
+
+---
+
 ### There are many investments in Sri Lanka
 
 *2024-12-20 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204562) · `si`
@@ -740,6 +784,48 @@ He further stated that the number of raids conducted during the festive season h
 
 ---
 
+### Sri Lanka President pledges to reform public sector
+
+*2024-12-20 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-pledges-to-reform-public-sector-195603/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Dissanayake has promised to reform the country’s public service into a modern, efficient system.
+
+“Transforming Sri Lanka’s public service into a modern, efficient system is a challenge we are committed to overcoming,” Dissanayake said on social media platform X.
+
+“We’re building a better future, from structural reforms to digital initiatives and overseas training to rebuild trust in state institutions.”
+
+Dissanayake pledged to reform Sri Lanka’s public service with structural changes, digital projects, and training programs,” his media division said.
+
+“He emphasized accountability and fairness to rebuild trust in state institutions.”
+
+Dissanayake, and his People’s National Party, received a large number of public sector votes in the presidential and general elections as evidenced by the postal vote.
+
+...
+
+[Data](articles/f665ea34.json)
+
+---
+
+### Sri Lanka rupee depreciates further to close at 293.50/294.00 to dollar, bonds down
+
+*2024-12-20 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-further-to-close-at-293-50-294-00-to-dollar-bonds-down-195564/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.50/294.00 to the US dollar on Friday from 292.90/293.30 the previous day, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 9.45/50 percent, down from 9.45/55 percent.
+
+A bond maturing on 15.09.2027 closed at 9.70/85 percent, down from 9.80/90 percent.
+
+A bond maturing on 15.09.2029 closed at 10.65/75 percent, down from 10.70/75 percent.
+
+A bond maturing on 15.05.2030 closed at 10.95/11.10 percent. (Colombo/Dec20/2024)
+
+◼️
+
+[Data](articles/9f1b4064.json)
+
+---
+
 ### Increase number of dengue patients in Gampaha district
 
 *2024-12-20 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201747) · `ta`
@@ -854,6 +940,30 @@ The duo was brought back to the island on March 15 after Malagasy defence offici
 
 ---
 
+### Sri Lanka stocks close up, turnover Rs9.23bn
+
+*2024-12-20 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs9-23bn-195534/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 1.07 percent, or 156.44 points, at 14,810; while the more liquid S&P SL20 Index closed up 0.70 percent, or 30.67 points, at 4,420.
+
+Turnover was a record 9.23 billion. This was the highest since February 7 this year when they CSE recorded a turnover of 12 billion rupees.
+
+“The market is doing really well,” market participants said. “There’s a lot of new money coming in.”
+
+Top positive contributors to the ASPI were Central Finance Company (up at 167.25), Ceylon Cold Stores (up at 84.00), Melstacorp (up at 115.75), Access Engineering (up at 34.20) and Chevron Lubricants Lanka (up at 147.00).
+
+“Interest continued to come into the consumer stocks, CCS, and LMF.”
+
+Top turnover generators were Sierra Cables (up at 12.90), Hatton National Bank (down at 272.00), Royal Ceramics (up at 39.20), Lanka Milk Foods (up at 44.30), and Access Engineering (up at 34.20).
+
+...
+
+[Data](articles/61cbc4ee.json)
+
+---
+
 ### Foreign Minister clarifies govt’s stance on ETCA with India
 
 *2024-12-20 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104379/foreign-minister-clarifies-govts-stance-on-etca-with-india) · `en`
@@ -923,6 +1033,26 @@ On December 20, 2024. Starts at 9.00 and on January 15, 2025 pm. Ends at 9.00.
 [Data](articles/bfed3047.json)
 
 [Extended Data](ext_articles/bfed3047.ext.json)
+
+---
+
+### Sri Lanka FM clarifies foreign research ship ban; says moratorium ends on Dec 31
+
+*2024-12-20 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-fm-clarifies-foreign-research-ship-ban-says-moratorium-ends-on-dec-31-195538/) · `en`
+
+ECONOMYNEXT – Sri Lanka Foreign Minister Vijitha Herath, clarifying the government’s decision on one-year temporary ban over foreign research vessels said the moratorium is ending on December 31 and it has not relaxed yet.
+
+Cabinet Spokesman Nalinda Jayatissa on Thursday said the ban had been relaxed and requests for foreign research vessels will be considered on a case by case basis.
+
+Sri Lanka is under pressure from India not to allow Chinese research vessels citing security concerns.
+
+“It will continue until 31st of December,” Minister Herath told reporters on Friday (19).
+
+Sri Lanka temporarily banned foreign research ships for one-year citing it wants to establish a SOP (Standard Operation Procedure) for such vessels and all other vessels before removing the ban. However, Sri Lanka’s Foreign Ministry officials say there was no such SOP established.
+
+...
+
+[Data](articles/103deee8.json)
 
 ---
 
@@ -1087,6 +1217,28 @@ Following institutions on proposed schemes issued by the Central Bank are as fol
 [Data](articles/80c4b784.json)
 
 [Extended Data](ext_articles/80c4b784.ext.json)
+
+---
+
+### Sri Lanka cannot decide on Adani wind project until court decision: Minister
+
+*2024-12-20 14:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-cannot-decide-on-adani-wind-project-until-court-decision-minister-195514/) · `en`
+
+ECONOMYNEXT – Sri Lanka cannot make a final decision on a proposed wind power plant by India’s Adani group as there was an ongoing court case, Foreign Minister Vijitha Herath said.
+
+“That case is before courts,” Herath told reporters Friday. “The court has not given a decision yet.”
+
+Sri Lanka cannot make a final decision until the court decision comes, he said.
+
+Activists petitioned courts saying the wind plant caused environmental harm.
+
+The wind farm in Mannar in particular had come under fire after a tender to purchase power was decided without competitive bidding was sharply higher than prices by competitive bidding for the same area.
+
+Sri Lanka however is going ahead with an Adani-backed container terminal in the Port of Colombo. Tax breaks for the projects were tabled in parliament. (Colombo/Dec20/2024)
+
+◼️
+
+[Data](articles/f0ebea04.json)
 
 ---
 
@@ -1343,6 +1495,24 @@ A special security programme will also be implemented island wide to safeguard r
 [Data](articles/ea874d47.json)
 
 [Extended Data](ext_articles/ea874d47.ext.json)
+
+---
+
+### WHT 100-pct increase strain on Sri Lankans reliant on interest income: Former minister
+
+*2024-12-20 13:48:00* · [`economynextcom`](https://economynext.com/wht-100-pct-increase-strain-on-sri-lankans-reliant-on-interest-income-former-minister-195507/) · `en`
+
+ECONOMYNEXT – The doubling of the withholding tax from 5 percent to 10 percent adds strain on low and middle-income earners reliant on interest income, Sri Lanka’s former minister of state for finance, Shehan Semasinghe has said.
+
+On Wednesday, President Anura Dissanayake announced that the withholding tax will be increased.
+
+“While the tax revision is a positive step, the 100% increase in withholding tax from 5% to 10% reduces disposable income and adds strain on low and middle-income earners reliant on interest income,” Semasinghe said on social media platform X.
+
+Although aimed at offsetting the country’s revenue losses from higher tax-free thresholds, it is unclear if adjusted marginal tax rates are proposed, he said.
+
+...
+
+[Data](articles/7eeaf544.json)
 
 ---
 
@@ -1892,6 +2062,22 @@ Accordingly, the next hearing of the case is scheduled for January 27, 2025.
 
 ---
 
+### German supply chain act could affect Sri Lanka’s apparel SMEs: Panel
+
+*2024-12-20 11:45:00* · [`economynextcom`](https://economynext.com/german-supply-chain-act-could-affect-sri-lankas-apparel-smes-panel-193893/) · `en`
+
+ECONOMYNEXT – Germany’s Supply Chain Act could marginalise Sri Lanka’s small and medium enterprises (SME) in the apparel industry as the cost of auditing and acquiring certifications increase, industry representatives and analysts have said.
+
+“Industry stakeholders make clear that most apparel manufacturers in Sri Lanka are SMEs, and that the top 20 companies in the industry account for around 80 percent of the exports,” attorney-at-law Shyamali Ranaraja told a forum on the act’s implications.
+
+The forum on ‘Exploring the Impact of Germany’s Supply Chain Act on Sri Lanka’s Key Industries’ was organised by the Friedrich Naumann Foundation in Sri Lanka as it exited the country.
+
+...
+
+[Data](articles/5d909202.json)
+
+---
+
 ### SC upholds death sentence for Vass Gunawardena and four others
 
 *2024-12-20 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104370/sc-upholds-death-sentence-for-vass-gunawardena-and-four-others) · `en`
@@ -2269,189 +2455,5 @@ Firms in the industrial zone will be able to use the container terminal in the H
 ...
 
 [Data](articles/4acb42a9.json)
-
----
-
-### மீகொடை துப்பாக்கிச் சூடு ; சந்தேகநபர் கைது
-
-*2024-12-20 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201706) · `ta`
-
-மீகொடை, நாகஹவத்தை பகுதியில் கடந்த 14ஆம் திகதி நபர் ஒருவரை சுட்டுக் கொன்ற சந்தேகநபரை மேற்கு தெற்கு குற்றத்தடுப்பு பிரிவினர் கைது செய்துள்ளனர்.
-
-சந்தேக நபர்  இராணுவத்தில் இருந்து தப்பியோடிய 27 வயதுடையவர் எனவும்  கொலை செய்யப்பட்ட நபரின் வீட்டிற்கு அருகில் வசித்து வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-துப்பாக்கிச் சூடு நடத்தப்பட்ட மறுநாள், கொலை செய்யப்பட்ட நபரின் வீட்டுக்குச் சென்று இறந்த உடலுக்கு இறுதி அஞ்சலி செலுத்தியதாக பொலிஸார்  தெரிவித்தனர்.
-
-சந்தேகநபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, மீகொடை பொடி தனா வழங்கிய ஒப்பந்தத்தின் அடிப்படையில் இந்தக் கொலை இடம்பெற்றுள்ளதாக தெரியவந்துள்ளது.
-
-மீகொட பொடி தனாவுக்கும் கொலை செய்யப்பட்ட நபருக்கும் இடையில்  விருந்தொன்றில் ஏற்பட்ட சண்டையே கொலைக்கு காரணம் என தெரியவந்துள்ளது.
-
-பொடி தனாவுடன் இருந்த நட்பின் காரணமாக பணம் பெற்றுக்கொள்ளாமல் இந்த கொலையை செய்ததாக சந்தேக நபர் பொலிஸாரிடம் தெரிவித்ததாக தெரிவிக்கப்படுகிறது.
-
-...
-
-[Data](articles/8682a537.json)
-
----
-
-### Clean Sri Lanka - Gazette Notification Release
-
-*2024-12-20 09:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Clean-Sri-Lanka-வர்த்தமானி-அறிவித்தல்-வெளியீடு/175-348998) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: New 18-member Presidential Secretariat formed under President Dissanayake to oversee "Clean Sri Lanka" initiative. Gazette notification released, detailing roles and responsibilities.
-
-🟩
-
-The Gazette Notification has been issued by announcing a 18 -member Presidential Secretariat, including the President's Secretary, to implement the "Clean Sri Lanka" program.
-
-The Gazette Notification has been issued by the President of the President on the Directorate of President Anuragumara Dissanayake. Remble
-
-◼️
-
-[Data](articles/35625b52.json)
-
-[Extended Data](ext_articles/35625b52.ext.json)
-
----
-
-### Government extends rice importation period
-
-*2024-12-20 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104365/government-extends-rice-importation-period) · `en`
-
-The government has announced its decision to extend the period for rice importation until January 10, 2025, with the final agreement expected to be confirmed at the Cabinet meeting scheduled for Monday (23).
-
-Cabinet Spokesman Minister Dr. Nalinda Jayatissa stated yesterday (19) that measures would be taken to extend the rice import period as necessary. Accordingly, a Gazette notification formalizing the extension will be issued on December 24, 2024.
-
-The current authorization for rice imports is set to expire at midnight today (20). Without an extension, any rice stocks imported after this deadline will need to be re-exported, according to Additional Director General of Customs and Customs Media Spokesperson Seevali Arukgoda.
-
-Since the government granted permission for rice importation on December 4, the private sector has imported a total of 35,600 metric tons of rice. Of this, nearly 20,000 metric tons consist of Nadu rice, while 16,000 metric tons comprise Kekulu rice.
-
-...
-
-[Data](articles/c9fb2745.json)
-
----
-
-### සිවිල් පුරවැසියන්ට දුන් ගිනිඅවි ගැන හෙළිදරව්වක්
-
-*2024-12-20 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204541) · `si`
-
-ජීවිත ආරක්‍ෂාව සඳහා සිවිල් පුරවැසියන්ට ලබා දී ඇති ගිනිඅවි සහ පතරොම්වලින් සියයට 85ක් බලපත්‍රලාභීන් විසින් යළි භාරදී ඇති බව ආරක්ෂක අමාත්‍යාංශය පවසයි.
-
-ප්‍රමාණාත්මකව සමාලෝචනය කිරීම සඳහා සිවිල් පුරවැසියන්ට තම ජීවිත ආරක්‍ෂාව සඳහා ආරක්‍ෂක අමාත්‍යාංශය විසින් ලබාදී තිබූ සියලුම වර්ගයේ ගිනිඅවි හා පතරොම් නොවැම්බර් 21 දිනට පෙර නැවත රජයට භාරදෙන ලෙස ආරක්‍ෂක අමාත්‍යාංශය පසුගියදා දැනුම් දුන්නේය.
-
-කෙසේ නමුත් පසුව එම දිනය 2024 දෙසැම්බර් මස 31 දක්වා දීර්ඝ කළේය.
-
-කිසියම් පුද්ගලයකුට ගිනිඅවි තවදුරටත් ළඟ තබාගැනීමට අවශ්‍ය නම් එම අවශ්‍යතාවය පැහැදිලි කරමින් ඔක්තෝබර් 30 වන දිනට පෙර ආරක්‍ෂක අමාත්‍යාංශයට අභියාචනා ඉදිරිපත් කරන ලෙස දැනුම් දී තිබුණි.
-
-එම අභියාචනා ඉදිරිපත් කළ බලපත්‍රලාභින්ගේ ගිනිඅවි පරික්‍ෂා කර සමාලෝචනය කිරීම සඳහා ආරක්‍ෂක අමාත්‍යාංශය වෙත ගිනිඅවිය සමග අදාළ ලේඛන ඉදිරිපත් කරන ලෙසට ඔවුන්ට දැනුම් දී ඇත.
-
-ජීවිත ආරක්‍ෂාව සඳහා එක් පුද්ගලයෙකුට එක්ගිනි අවියක් පමණක් ලබාදීමට ආරක්‍ෂක අමාත්‍යාංශය තීරණය කර ඇති අතර, එලෙස ගිනිඅවි ලබාදීමද බුද්ධි වාර්තාවන් මත පදනම්ව සිදුකරන බව සඳහන්ය.
-
-...
-
-[Data](articles/9840c7d9.json)
-
----
-
-### Sri Lanka rupee opens flat at 292.90/293.00 to US dollar, bonds steady
-
-*2024-12-20 09:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-90-293-00-to-us-dollar-bonds-steady-195368/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 292.90/293.30 to the US dollar in the spot market, from the previous day, while bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 9.40/50 percent, down from 9.45/55 percent.
-
-A bond maturing on 15.10.2027 was quoted at 9.75/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.10/20 percent, up from 10.10/15 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.20/30 percent, down from 10.20/25 percent.
-
-In equities, the All Share Price Index was up 0.32 percent or 46.88 points, at 14,701.
-
-The more liquid S&P SL20 was up 0.47 percent, or 20.74 points, at 4,410.
-
-◼️
-
-[Data](articles/d60cb792.json)
-
----
-
-### ஊழலுக்கு எதிரான அரசாங்கத்தின் நிகழ்ச்சித் திட்டம் உத்வேகம்  பெறுகிறது
-
-*2024-12-20 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201705) · `ta`
-
-பொறுப்புக்கூறும் கடப்பாடுடைய அரசாங்கத்துக்காக மக்கள் அளித்த ஆணை அருகித் தேய்ந்து போவதற்கு தேசிய மக்கள் சக்தி அரசாங்கம் அனுமதிக்கப் போவதில்லை என்று பாராளுமன்ற சபாநாயகர் பதவியை துறந்த பின்புலத்தில் ஜனாதிபதி அநுரா குமார திசாநாயக்க  செய்த அறிவிப்பு தேசிய மக்கள் சக்தியை அதிகாரத்துக்கு  கொண்டுவந்த தேர்தல்களின்போது  மக்களுக்கு அளித்த வாக்குறுதியின் தடத்தில் அமைந்திருக்கிறது.
-
-மக்கள் தங்கள் மீது வைத்திருக்கும் நம்பிக்கையை பேணிக்காப்பதில் உள்ள உறுதிப்பாட்டை மீளவலியுறுத்தியிருக்கும் ஜனாதிபதி எந்த தரத்தில் இருப்பவர்களாக இருந்தாலும் தவறிழைப்பவர்களுக்கு எதிராக தனது அரசாங்கம் தீர்க்கமான நடவடிக்கையை எடுத்தே தீரும் என்று தெரிவித்ததுடன்  மக்களின் ஆணையைப் போற்றி மதித்து சகல மட்டங்களிலும் பொறுப்புக்கூறலை உறுதிப்டுத்தும் அரசாங்கத்தின் குறிக்கோளை அழுத்திக் கூறியிருக்கிறார்.
-
-...
-
-[Data](articles/0e0ee85d.json)
-
----
-
-### The new alliance is formed
-
-*2024-12-20 08:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உருவாகின்றது-புதிய-கூட்டணி/175-348997) · `ta`
-
-New alliance formed: Democratic Front, SLFP unite. Former ministers lead coalition. Kanjana Wijesekera joins soon.
-
-🟩
-
-A discussion between members of the new Democratic Front and some of its partners, including the Sri Lanka Freedom Party (SLFP), contested the gas cylinder symbol in the last general election.
-
-According to former Minister Lasantha Alagavanna, who participated in the discussion, a new political coalition has been formed under the leadership of former Minister Anura Priyadarshana Yapa.
-
-Also, former minister Kanjana Wijesekera has been joining the new coalition soon.. Remble
-
-◼️
-
-[Data](articles/7e73837b.json)
-
-[Extended Data](ext_articles/7e73837b.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-20 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104364/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in Uva, Central and Eastern provinces and in Hambantota and Polonnaruwa districts during the evening or night, the Met. Department said.
-
-Fairly heavy showers above 50 mm are likely at some places in Uva Province.
-
-Misty conditions can be expected at some places in Central, Uva and Eastern provinces during the morning, the statement added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/11847740.json)
-
----
-
-### Gazette issued appointing 18-member ‘Clean Sri Lanka’ task force
-
-*2024-12-20 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104363/gazette-issued-appointing-18-member-clean-sri-lanka-task-force-) · `en`
-
-A Gazette notification has been issued appointing an 18-member Presidential Task Force, including the President’s Secretary, to oversee the implementation of the ‘Clean Sri Lanka’ initiative.
-
-This initiative aligns with the President’s policy statement, “A Rich Country, a Beautiful Life,” and aims to launch a transformative national mission addressing the well-being, reconciliation, and progress of the nation.
-
-The gazette was issued yesterday (19) under the signature of the Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-The task force members include the Secretary to the President, the Commanders of the Tri-Forces, the Acting Inspector General of Police (IGP), and the Chairman of the Urban Development Authority (UDA).
-
-...
-
-[Data](articles/88b1dd56.json)
 
 ---

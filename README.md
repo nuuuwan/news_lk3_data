@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 21:02:00**
+As of **2024-12-20 21:27:09**
 
 ## Newspaper Stats
 
-*Scraped **61,225** Articles*
+*Scraped **61,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 3,704
 economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,836
-adaderanalk | 7,467
+adalk | 5,837
+adaderanalk | 7,468
 tamilmirrorlk | 8,753
-virakesarilk | 10,103
-adaderanasinhalalk | 10,576
+virakesarilk | 10,106
+adaderanasinhalalk | 10,578
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,996 (99.6%) of 61,225 articles have been extended.
+61,000 (99.6%) of 61,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### The US will cooperate with the current government's future development projects - Julie Song
+
+*2024-12-20 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201772) · `ta`
+
+US Ambassador Julie Song promises cooperation with Sri Lanka's development projects, including law enforcement and cybersecurity initiatives.
+
+🟩
+
+US Ambassador to Sri Lanka, Julie Song, said the US was ready to further strengthen diplomatic ties between Sri Lanka and the US and promised to cooperate with the current government's future development plans.
+
+US Ambassador to Sri Lanka Julie Song, Minister of Public Security and Parliamentary Affairs Ananda Wijeyapala and Deputy Minister Sunil Vattakala met with the Public Security Ministry in Colombo yesterday.
+
+US Ambassador to Sri Lanka, Julie Song, said that it was the US's expectation that Sri Lanka should become a developed country.
+
+He promised that the United States will cooperate with the future development programs that the current government is carrying out.
+
+The ambassador, Julie Song, who praised the new government's attempts to uphold law and order in the country without political interference, said that he would also cooperate with the measures taken to control the activities of the drug and the worldwide groups.
+
+...
+
+[Data](articles/72686f8b.json)
+
+[Extended Data](ext_articles/72686f8b.ext.json)
+
+---
+
+### Shooting at Kalutara Tourism Hotel
+
+*2024-12-20 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204567) · `si`
+
+Here's a summary of the incident in 200 characters:
+
+
+
+"Gunfire erupts at Kalutara tourist hotel after security clash with rowdy youths. No injuries reported. Police investigating."
+
+🟩
+
+Police say a shooting took place at a Kalutara tourist hotel.
+
+Kalutara South Police said that the hotel was shot dead to control a clash between security personnel and outside youths.
+
+Police say that a group of youths on the beach in front of the tourist hotel have been drinking, police said.
+
+According to the police, one security officer had assaulted and found that a high management officer of the hotel where the hotel remained in the place was shot dead by its registration firearm.
+
+No one was injured in the shooting and the youths have fled and the police are conducting further investigations.
+
+◼️
+
+[Data](articles/9dc8a5c1.json)
+
+[Extended Data](ext_articles/9dc8a5c1.ext.json)
+
+---
 
 ### Firing in the empty
 
@@ -53,6 +109,72 @@ It is reported that two men on a motorcycle were shot dead when the man was trav
 [Data](articles/161186bf.json)
 
 [Extended Data](ext_articles/161186bf.ext.json)
+
+---
+
+### சித்திரைப் புத்தாண்டுக்கு முன்னர் உள்ளுராட்சிமன்றத் தேர்தல் - ஜனாதிபதி அனுரகுமார திஸாநாயக்க
+
+*2024-12-20 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201771) · `ta`
+
+உள்ளுராட்சி மன்ற தேர்தல் அடுத்த வருடம் சிங்கள, தமிழ் புத்தாண்டுக்கு முன்னதாக நடத்தப்படும் என ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+மாகாண சபைத் தேர்தலும் அடுத்த வருடத்திற்குள் நடத்தப்படும் என்றும் ஜனாதிபதி தெரிவித்துள்ளார். ஜனாதிபதி அநுரகுமார திசாநாயக்க  மல்வத்து மற்றும் அஸ்கிரிய மகாநாயக்க தேரர்களை சந்தித்து ஆசிர்வாதம் பெற்றுக் கொண்டார்.
+
+முதலில் மல்வத்து விகாரைக்கு சென்ற ஜனாதிபதி மல்வத்து மகாநாயக்க தேரர் வண. திப்படுவாவே ஸ்ரீ சுமங்கல தேரரை சந்தித்து அவரிடம் நலம் விசாரித்ததுடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+தற்போதைய அரசியல் நிலைமைகள் மற்றும் ஜனாதிபதியின் அண்மைய இந்திய விஜயம்  குறித்தும் கலந்துரையாடப்பட்டது.
+
+அதனையடுத்து மல்வத்து மகாநாயக்க தேரர் தலைமையிலான மகா சங்கத்தினர் செத் பிரித் பாராயணம் செய்து ஜனாதிபதிக்கு ஆசி வழங்கினர்.
+
+அதனையடுத்து அஸ்கிரிய விகாரைக்கு சென்ற ஜனாதிபதி அநுரகுமார திசாநாயக்க அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் வண. வரகாகொட ஸ்ரீ ஞானரத்தன தேரரை சந்தித்து ஆசி பெற்றுக்கொண்டார்.
+
+...
+
+[Data](articles/cf8ee80b.json)
+
+---
+
+### මෙරටට පැමිණි මියන්මාර ජාතිකයින් ගැන ගත් තීරණය
+
+*2024-12-20 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204566) · `si`
+
+මුලතිව්හි, මුල්ලිවයික්කාල් මුහුදු ප්‍රදේශයට පැමිණ සිටියදී සොයාගැනුණු මියන්මාර සරණාගතයින් අද (20) ත්‍රිකුණාමලයට රැගෙන එනු ලැබීය.
+
+විදේශ කටයුතු අමාත්‍යංශය පැවසුවේ, මෙම සරණාගතයින් සම්බන්ධයෙන් මෙරට නීතිය සහ ජාත්‍යන්තර නීතිය අනුව කටයුතු කරන බවය.
+
+මියන්මාරයේ පවතින ගැටුම්කාරී වාතාවරණය හමුවේ මෙම සරණාගතයින් පිරිස මීට දින 16කට පෙර එරටින් පිටව ඇත්තේ යාත්‍රා 3ක් යොදා ගනිමිනි.
+
+කෙසේ වෙතත්, අතරමගදී යාත්‍රා 2ක් කාර්මික දෝෂවලට ලක්වීම හේතුවෙන් ඒවායේ සිටි පිරිසද මෙම යාත්‍රාවට ගොඩවී තිබේ.
+
+ගමන අතරතුරදී කුඩා දරුවන් සිව්දෙනෙකු ඇතුළුව පුද්ගලයින් 6 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇත්තේ රෝගාබාධ ඇතුළු කරුණු හේතුවෙනි.
+
+ඊයේ (19) මුලතිව් හි මුල්ලිවයික්කාල් වෙත පැමිණ සිටි මෙම පිරිස ප්‍රදේශයේ ධීවරයින් විසින් දැක තිබූ අතර පසුව ඒ සම්බන්ධයෙන් ආරක්ෂක අංශ දැනුවත් කෙරුණි.
+
+ඒ අනුව 102 දෙනෙකුගෙන් යුත් මියන්මාර සරණාගතයින් පිරිස 12 දෙනෙකුගෙන් සමන්විත යාත්‍රාවේ කාර්ය මණ්ඩලය අද පෙරවරුවේ ත්‍රිකුණාමලය අෂ්රොෆ් ජැටිය වෙතට ගෙනඑනු ලැබුවේ ශ්‍රී ලංකා නාවික හමුදාවේ මැදිහත් වීමෙනි.
+
+නිසි ලෙස ආහාරපාන නොලැබීම හමුවේ මෙම පිරිස දුර්වල තත්ත්වයක පසුවුණි.
+
+...
+
+[Data](articles/ab580706.json)
+
+---
+
+### Motorcyclist killed in shooting at Dadalla
+
+*2024-12-20 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104384/motorcyclist-killed-in-shooting-at-dadalla) · `en`
+
+UPDATE (8.12 p.m.): The person injured in the shooting incident at Dadalla in Galle has succumbed to his injuries after being admitted to the Karapitiya Hospital, police confirmed.
+
+Earlier, it was reported that a person riding a motorcycle has been injured in a shooting incident at Dadalla, Galle.
+
+Police said that two gunmen who were on a motorcycle had opened fire at victim who was also riding a motorcycle, before fleeing the scene.
+
+The injured individual was rushed to the Karapitiya Hospital for treatment following the shooting.
+
+◼️
+
+[Data](articles/9f68d272.json)
 
 ---
 
@@ -426,39 +548,79 @@ The Secretary of the President, Dr. S.. Kumanayaka has published a special gazet
 
 ---
 
-### දින 10කදී සහල් වැටලීම් 578ක්
+### திங்களன்று கொழும்பு துறைமுகத்தை வந்தடையவுள்ள இந்திய கடற்படை கப்பல்கள்
+
+*2024-12-20 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201761) · `ta`
+
+இந்திய கடலோர பாதுகாப்பு படையின் 4 கப்பல்கள் கொழும்பு மற்றும் காலி துறைமுகங்களுக்கு விஜயம் செய்யவுள்ளன. இந்திய கடலோர பாதுகாப்பு படை கப்பல்களான வைபவ் மற்றும் அபிராஜ்   திங்கட்கிழமை (23) கொழும்பு துறைமுகத்தை வந்தடையவுள்ளன.
+
+இக்கப்பல்கள் 23 - 27 வரை அங்கு நங்கூரமிடப்பட்டிருக்கும் என்பதோடு, ஏனைய இரு கப்பல்களும் 29ஆம் திகதி முதல் ஜனவரி 2ஆம் திகதி வரை காலி துறைமுகத்துக்கும் செல்லவுள்ளன.
+
+இக்கப்பல்களின் கட்டளை அதிகாரிகள் இலங்கை கடலோரக் பாதுகாப்பு படையின் பணிப்பாளர் நாயகம் மற்றும் ஏனைய சிரேஷ்ட அதிகாரிகளை சந்திக்கவுள்ளனர்.  மேலும் தீயணைப்பு, அனர்த்தங்கள், கடல் மாசடைவை எதிர்கொள்ளல் உள்ளிட்ட பல்வேறு தொழில்முறை தொடர்புகள் பற்றிய கூட்டுப் பயிற்சி ஆகியவை விஜயத்தின் போது இடம்பெறவுள்ளன.
+
+இவை தவிர யோகா நிகழ்வுகளும் ஏற்பாடு செய்யப்பட்டுள்ளன.  பிளாஸ்டிக் மாசுபாட்டிற்கு எதிரான விழிப்புணர்வை நோக்கிய பயணத்தின் போது கப்பல்கள் கடற்கரையை சுத்தம் செய்தல் மற்றும் நடைபயிற்சி போன்ற சமூக செயற்பாடுகளிலும் இக்கப்பல்கள் ஈடுபடவுள்ளன.
+
+...
+
+[Data](articles/eb0edf27.json)
+
+---
+
+### 578 riders in 10 days
 
 *2024-12-20 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204560) · `si`
 
-පසුගිය දින 10ක කාලය තුළ දිවයින පුරා සහල් වැටලීම් 578ක් සිදුකර ඇති බව පාරිභෝගික අධිකාරිය පවසයි.
+Here's a summary of 200 characters:
 
-එහි වැඩබලන අධ්‍යක්ෂ ජනරාල් තිලකරත්න බණ්ඩා මහතා පැවසුවේ ඇතැම් ස්ථාන කිහිපයක වැඩි මිලට සහල් අලෙවි කිරීම සම්බන්ධව ලද පැමිණිලි අනුව දිස්ත්‍රික් මට්ටමින් නිලධාරීන් යොදවා වැටලීම් සිදුකළ බවය.
 
-එමෙන්ම පසුගිය දිනවල වෙළෙඳපොළ තුළ සහල් ඌනතා මට්ටමක් පැවැතියද මේ වන විට එම ඌනතාව සඳහා පිළියම් යොදමින් පවතින බැවින් මේ වන විට වෙළෙඳපොළ තුළ සහල් සුලභතාවය ක්‍රමානුකූලව වැඩිවන බව නිරීක්ෂණය වී ඇතැයිද ඔහු පවසයි.
 
-ඔහු පැවසුවේ සහල් ආනයනය දීර්ඝ කර ඇති බැවින් උත්සව සමයේදී වෙළෙඳපොළ තුළ සහල් හිඟතාවයකින් තොරව සැපයීමට හැකියාව ලැබෙනු ඇති බවය.
+"578 rice raids in 10 days: Acting DG Tillakaratne Banda leads crackdown on price gouging. Market shortage addressed via increased imports. Raids to intensify during festivals."
 
-මේ අතර උත්සව සමයේ සිදුකරනු ලබන වැටලීම් සංඛ්‍යාව වැඩි කිරීමට තීරණය කර ඇති බවත් මේ අනුව තොග සහ සිල්ලර වෙළඳාම් සම්බන්ධවද වැටලීම් සිදුකරන බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+🟩
+
+578 rice raids have been carried out island wide during the past 10 days.
+
+Acting Director General Tillakaratne Banda said that the raids were carried out by the complaints regarding the marketing of rice at a higher price.
+
+He also said that a rice deficiency at the market has been observed at the market, as he is now increasing the availability of rice in the market.
+
+He said that the import of rice was extended, and during the festive season would be able to supply without rice.
+
+He further stated that the number of raids conducted during the festive season has decided to increase the number of raids on consumers and retail.
 
 ◼️
 
 [Data](articles/40e90077.json)
 
+[Extended Data](ext_articles/40e90077.ext.json)
+
 ---
 
-### கம்பஹா மாவட்டத்தில் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு!
+### Increase number of dengue patients in Gampaha district
 
 *2024-12-20 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201747) · `ta`
 
-கம்பஹா மாவட்டத்தில் இவ்வருடத்தின் இதுவரையான காலப்பகுதியில் 50 ஆயிரத்துக்கும் மேற்பட்ட டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளதுடன் 4 மரணங்களும் பதிவாகியுள்ளன. ஆகையால் டெங்கு அபாயத்தைக் கட்டுக்குள் கொண்டு வர டிசம்பர் 21 ஆம் திகதி கம்பஹா மாவட்டத்தில் உள்ள சகல கிராமங்களையும் உள்ளடக்கிய வகையில் ஒரு நாள் டெங்கு ஒழிப்பு விசேட வேலைத்திட்டம் முன்னெடுக்கப்பட உள்ளதாக கம்பஹா மாவட்ட செயலாளர் லலித் கமகே  தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-டெங்கு பரவல் குறித்து நேற்று முன்தினம் புதன்கிழமை (18) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-கம்பஹா மாவட்டம் கடந்த ஒரு சில வருடங்களாக டெங்கு அதி உயர் அபாய மிக்க வளையமாக அடையாளப்படுத்தப்பட்டுள்ளது. இவ்வருடத்தின் இதுவரையான காலப்பகுதியில் அடையாளம் காணப்பட்டுள்ள டெங்கு நோயாளர்களின் எண்ணிக்கை 50 ஆயிரத்தை கடந்துள்ளதுடன் 4 மரணங்களும் பதிவாகியுள்ளன. டெங்கு அபாயத்தைக் கட்டுக்குள் கொண்டு வருவதற்கு விசேட வேலைத்திட்டங்களை செயல்படுத்துமாறு உரிய அதிகாரிகளுக்கு ஆலோசனை வழங்கியிருந்தோம்.
+
+"Gampaha: Over 50k dengue cases, 4 deaths. One-day eradication program Dec 21. All villages involved. Public urged to clean homes and surroundings. 32 casualties reported locally; 47,599 nationwide."
+
+🟩
+
+More than 50 thousand dengue patients have been identified and 4 deaths have been reported in the Gampaha district so far this year.. Therefore, a one -day dengue eradication program is to be carried out on Denga on Dengue on the 21st of December, including all the villages in the Gampaha district, said Gampaha District Secretary Lalith Kamage.
+
+He made this comment while speaking to the media on Wednesday (18) on the spread of dengue.
+
+Gampaha district has been identified as a high -risk ring for the past few years. The number of dengue patients identified during this year has exceeded 50 thousand and 4 deaths have been reported.. We have advised the relevant authorities to implement special programs to control the risk of dengue.
+
+Accordingly, a special dengue eradication program is to be carried out to include about 1,177 village divisions under all the Divisional Secretariat Divisions of the Gampaha District.
 
 ...
 
 [Data](articles/a7d0cac2.json)
+
+[Extended Data](ext_articles/a7d0cac2.ext.json)
 
 ---
 
@@ -791,6 +953,26 @@ How to accept the use of the President's Fund for the medical expenses of the po
 [Data](articles/03c74de4.json)
 
 [Extended Data](ext_articles/03c74de4.ext.json)
+
+---
+
+### රු. කෝටි 5ක ජංගම දුරකතන හා සන්නිවේදන උපාංග තොගයක් අල්ලයි
+
+*2024-12-20 14:27:38* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-5ක-ජංගම-දුරකතන-හා-සන්නිවේදන-උපාංග-තොගයක්-අල්ලයි/11-413756) · `si`
+
+රුපියල් කෝටි පහක් පමණ වටිනා ජංගම දුරකථන ඇතුළු විද්‍යුත් සන්නිවේදන උපකරණ තොගයක් සමග ඒවා නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ ගුවන් මගීන් තිදෙනකු  12/20 දින කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොවුන් අතරින් පළමු ගුවන් මගීන් දෙදෙනා 12/20 දින අලුයම 12.30 ට ඩුබායි සිට එෆ්.ඉසෙඩ්.- 569 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් දෙදෙනා කොළඹ ප්‍රදේශයේ පදිංචි 38 හැවිරිදි සහ 25 හැවිරිදි ව්‍යාපාරිකයන් දෙදෙනෙකි .
+
+එසේම තවත් කොළඹ ප්‍රදේශයේ පදිංචි 32 හැවිරිදි ව්‍යාපාරිකයෙකු 12/20 දින උදෑසන 09.45 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් විසින් රැගෙන ආ  ජංගම දුරකථන 309 ක් , ටැබ් පරිගණක 08 ක් , ජංගම දුරකථන උපාංග  , ලැප්ටොප් 12 ක් , මැක් බුක් 02 ක් , අයි පෑඩ් 04 ක් , ස්මාර්ට් වර්ගයේ ඔරලෝසු 20 ක් ,  රවුටර් 05 ක් , ඉයර් බඩ්ස් 30 ක් රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි .
+
+...
+
+[Data](articles/a7b9d41e.json)
 
 ---
 
@@ -2227,127 +2409,5 @@ Link Natural, a subsidiary of CIC Holdings, was honoured to declare its ongoing 
 [Data](articles/e25fbbdb.json)
 
 [Extended Data](ext_articles/e25fbbdb.ext.json)
-
----
-
-### Align Dental Care pioneers Southeast Asia’s first certified Digital Smile Design clinic
-
-*2024-12-20 06:30:54* · [`dailyftlk`](https://www.ft.lk/business/Align-Dental-Care-pioneers-Southeast-Asia-s-first-certified-Digital-Smile-Design-clinic/34-770761) · `en`
-
-Align Dental Care has revolutionised dental aesthetics in Southeast Asia with its exclusive certification as the region’s only Digital Smile Design (DSD) clinic, combining artistry with innovation to craft confident and radiant smiles.
-
-“DSD is more than futuristic dental technology; it’s a life-changing experience.
-
-Our patients don’t just leave with a beautiful smile – they walk out with renewed confidence, improved oral health, and the emotional joy of seeing their dream smile come to life. This fusion of clinical precision and emotional satisfaction is what truly sets us apart,” said Align Dental Care Founder Dr. Nasar Abdul Wadood.
-
-...
-
-[Data](articles/8bdec7aa.json)
-
-[Extended Data](ext_articles/8bdec7aa.ext.json)
-
----
-
-### Rain in several areas today
-
-*2024-12-20 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204536) · `si`
-
-Heavy rain warnings issued for Western, Sabaragamuwa, Galle, Matara, Uva, Polonnaruwa, Hambantota. Thunderstorms may cause strong winds and lightning. Public advised to take precautions.
-
-🟩
-
-Showers will occur at times in the Western and Sabaragamuwa provinces and in the Galle and Matara districts, the Met Department said.
-
-Showers or night thundershowers will occur at several places in the Uva and Polonnaruwa districts, Hambantota and Polonnaruwa Districts.. Heavy rains can occur in more than 50.
-
-In some places in some places in the Central, Uva and Eastern provinces can last a morning.
-
-The Meteorological Department also requests the public to take necessary measures to reduce the damages caused by temporary winds and lightning activities possible with thunderstorms.
-
-◼️
-
-[Data](articles/106fae73.json)
-
-[Extended Data](ext_articles/106fae73.ext.json)
-
----
-
-### Salasi Lanka Engineering Services launches new website
-
-*2024-12-20 06:29:49* · [`dailyftlk`](https://www.ft.lk/business/Salasi-Lanka-Engineering-Services-launches-new-website/34-770760) · `en`
-
-Salasi Lanka Ltd., a leading private company engaged in the construction field since 2000 has announced the launch of its new web site www.sles.lk.
-
-Speaking at the launch of the website Salasi Lanka and Salasi Lanka Engineering Services Chairman U.A. Padukka said the main objective of introducing the www.sles.lk website is to give an opportunity to make the customers and the public and private institutions aware of the correct and latest construction activities offered by the above said companies.
-
-Padukka explained that through the launching of this website, customers can obtain the services from his companies without calling over at the companies, and to know about the projects relevant to the construction field in which Salasi Lanka Engineering Services plays its part and to obtain instructions regarding various items marketed by his companies.
-
-...
-
-[Data](articles/add9bc7d.json)
-
-[Extended Data](ext_articles/add9bc7d.ext.json)
-
----
-
-### Family Movers celebrates 35 years of happy moving experiences
-
-*2024-12-20 06:28:19* · [`dailyftlk`](https://www.ft.lk/business/Family-Movers-celebrates-35-years-of-happy-moving-experiences/34-770759) · `en`
-
-...
-
-[Data](articles/9ed998c3.json)
-
-[Extended Data](ext_articles/9ed998c3.ext.json)
-
----
-
-### Waqf or Habs? Urgent need for strong and independent Waqf Board
-
-*2024-12-20 06:26:44* · [`dailyftlk`](https://www.ft.lk/columns/Waqf-or-Habs-Urgent-need-for-strong-and-independent-Waqf-Board/4-770758) · `en`
-
-The Waqf Board’s role is not just to preserve property but to ensure that these assets are used effectively to benefit the community
-
-In recent times, the removal and appointment of Waqf Board members have become a subject of intense controversy, driven by political pressures that undermine the very essence of the Waqf system. This interference not only dilutes the authority of the Waqf Board but also threatens its role as a pillar of Islamic social welfare. The Waqf, as an institution founded on the principles of Sharia law, is meant to be a self-sustaining force for good, benefiting generations to come. Yet, when political motives enter the picture, the sanctity and independence of the Waqf are compromised, turning it into a mere shadow of its potential.
-
-...
-
-[Data](articles/acce6d52.json)
-
-[Extended Data](ext_articles/acce6d52.ext.json)
-
----
-
-### Politics of MMDA reform and system change
-
-*2024-12-20 06:22:02* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-MMDA-reform-and-system-change/4-770757) · `en`
-
-The time is ripe for the new Government that is committed for system change to take up the issue of implementing those MMDA reforms
-
-“System change” was the magical slogan coined by the Aragalaya youth, and that slogan turned out to be the magnetic vote puller for Anura Kumara Dissanayake (AKD) and his National People’s Power (NPP) at the Presidential and General Elections respectively. Although in their public campaigns AKD and NPP identified the post-independence political culture of ethnonationalism and its corrupt system of governance as the two crucial areas to be ended or radically reformed through a social revolution there are also other elements under the old system that requires reforms. In respect of the Muslim community, the Muslim Marriage and Divorce Act (MMDA) of 1951 is one such area that requires urgent reforms.
-
-...
-
-[Data](articles/aa7181d3.json)
-
-[Extended Data](ext_articles/aa7181d3.ext.json)
-
----
-
-### Overview of Sri Lanka’s Speakers from Francis Molamure to Asoka Ranwala
-
-*2024-12-20 06:15:28* · [`dailyftlk`](https://www.ft.lk/columns/Overview-of-Sri-Lanka-s-Speakers-from-Francis-Molamure-to-Asoka-Ranwala/4-770756) · `en`
-
-Ranwala Arachchige Asoka Sapumal Ranwala blazed across the parliamentary skies of the Democratic Socialist Republic of Sri Lanka for a brief period. The National People’s Power (NPP) Gampaha district MP served as Sri Lanka’s Speaker from 21 November to 13 December 2024 for 22 days.
-
-As is well known Ranwala was in the eye of a political storm due to the authenticity of his higher educational qualifications being publicly disputed. He was challenged to prove that he had acquired a doctoral degree from Japan as claimed by him. Unable to do so, Asoka Ranwala had no choice other than to tender his resignation to President Anura Kumara Dissanayake.
-
-On 17 December 2024, Idampitiyegedara Wanigasuriya Mudiyanselage Jagath Wickramaratne was elected as Speaker. The election was unanimous. Dr. Jagath Wickramarathe who was elected on the NPP ticket from Polonnaruwa district is a medical doctor.
-
-...
-
-[Data](articles/ba601561.json)
-
-[Extended Data](ext_articles/ba601561.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 01:43:22**
+As of **2024-12-21 02:26:56**
 
 ## Newspaper Stats
 
-*Scraped **61,262** Articles*
+*Scraped **61,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
 tamilmirrorlk | 8,755
-virakesarilk | 10,107
+virakesarilk | 10,108
 adaderanasinhalalk | 10,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,022 (99.6%) of 61,262 articles have been extended.
+61,026 (99.6%) of 61,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### Is India changing the toughness of India?Questions that arise in the context of New Delhi Talks
+
+*2024-12-21 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201774) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Pres. Dissanayake's India visit focuses on economic aid, trade cooperation, security assurances, BRICS membership, Tamil rights, and fisheries disputes. Key: no use of Sri Lankan land against India, support for Tamil aspirations, and resolving fishermen conflicts.
+
+🟩
+
+There were two reasons why President Anura Kumara Dissanayake's visit to India and his talks with Indian Prime Minister Narendra Modi gained much importance in the media.
+
+The first is the leader of a party that was one of his major policies of Indian opposition. They had long traveled with that policy. It is through it that the party strengthened.
+
+The second, his JVP. Was identified as a Chinese pro organization. The reflection of the Chinese Tutu in Colombo on the victory of the National People's Power in the general election also strengthened this view.
+
+During his visit to New Delhi, President Dissanayake revealed the most relaxed diplomacy in the wake of the intensification of Sri Lanka -based Chinese -Indian power competition.
+
+The attitude of Dissanayake was seen as the one who accepted the importance of India in the South Asian region. That is, the history of the JVP in the past has been confirmed during this visit that the President is changing the severe course of India.
+
+...
+
+[Data](articles/a0ea1d75.json)
+
+[Extended Data](ext_articles/a0ea1d75.ext.json)
+
+---
 
 ### President pledges reforms to revitalise public sector
 
@@ -75,6 +105,8 @@ Pointing out that the date of the sentence was very important, he requested the 
 ...
 
 [Data](articles/a2417fbe.json)
+
+[Extended Data](ext_articles/a2417fbe.ext.json)
 
 ---
 
@@ -128,6 +160,8 @@ Speaking at the conference, Lanka Business TV Founder and CEO Jayantha Kovilagod
 
 [Data](articles/982c7ee6.json)
 
+[Extended Data](ext_articles/982c7ee6.ext.json)
+
 ---
 
 ### Ceylon tea promotion adds flavour to Marco Polo tribute in Venice
@@ -143,6 +177,8 @@ Held as the last of a series of events organised honouring Marco Polo’s legacy
 ...
 
 [Data](articles/36f60f62.json)
+
+[Extended Data](ext_articles/36f60f62.ext.json)
 
 ---
 
@@ -2367,21 +2403,5 @@ Accordingly, the next hearing of the case is scheduled for January 27, 2025.
 ◼️
 
 [Data](articles/80d243f0.json)
-
----
-
-### German supply chain act could affect Sri Lanka’s apparel SMEs: Panel
-
-*2024-12-20 11:45:00* · [`economynextcom`](https://economynext.com/german-supply-chain-act-could-affect-sri-lankas-apparel-smes-panel-193893/) · `en`
-
-ECONOMYNEXT – Germany’s Supply Chain Act could marginalise Sri Lanka’s small and medium enterprises (SME) in the apparel industry as the cost of auditing and acquiring certifications increase, industry representatives and analysts have said.
-
-“Industry stakeholders make clear that most apparel manufacturers in Sri Lanka are SMEs, and that the top 20 companies in the industry account for around 80 percent of the exports,” attorney-at-law Shyamali Ranaraja told a forum on the act’s implications.
-
-The forum on ‘Exploring the Impact of Germany’s Supply Chain Act on Sri Lanka’s Key Industries’ was organised by the Friedrich Naumann Foundation in Sri Lanka as it exited the country.
-
-...
-
-[Data](articles/5d909202.json)
 
 ---

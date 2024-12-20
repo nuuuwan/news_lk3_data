@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 20:42:42**
+As of **2024-12-20 21:02:00**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,994 (99.6%) of 61,225 articles have been extended.
+60,996 (99.6%) of 61,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### காலியில் துப்பாக்கிச்சூடு
+### Firing in the empty
 
 *2024-12-20 20:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-துப்பாக்கிச்சூடு/175-349011) · `ta`
 
-காலி - தடெல்ல பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கராப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-குறித்த நபர் மோட்டார் சைக்கிளில் பயணித்த போது, ​​மற்றொரு மோட்டார் சைக்கிளில் வந்த இருவர் துப்பாக்கிச் சூடு நடத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+
+Shooting incident in Galle-Talalla: One person injured, admitted to Karapitiya hospital. Two men on a motorcycle reportedly killed while riding.
+
+🟩
+
+One person was injured in a shooting in Galle - Talalla area and was admitted to the Karapitiya hospital, police said.
+
+It is reported that two men on a motorcycle were shot dead when the man was traveling on a motorcycle.. Remble
 
 ◼️
 
 [Data](articles/161186bf.json)
+
+[Extended Data](ext_articles/161186bf.ext.json)
 
 ---
 
@@ -386,21 +396,33 @@ President Anura Kumara Dissanayake said this while addressing the District Secre
 
 ---
 
-### தூய்மையான இலங்கை நிகழ்ச்சித் திட்டத்துக்காக 18 உறுப்பினர்களுடன் ஜனாதிபதி செயலணி ஸ்தாபிப்பு
+### Presidential Secretariat establishment with 18 members for a clean Sri Lanka program
 
 *2024-12-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201756) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் ஆலோசனைக்கமைய தூய்மையான இலங்கை ( Clean Sri Lanka ) கருத்திட்டத்தை திட்டமிட்டு, நடைமுறைப்படுத்துவதற்காக அரசியலமைப்பின் 33 ஆம் உறுப்புரையின் பிரகாரம் 18 உறுப்பினர்களை உள்ளடக்கிய வகையில் ஜனாதிபதி செயலணி ஸ்தாபிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-ஜனாதிபதியின் செயலாளர் கலாநிதி என்.எஸ். குமாநாயக்க, இராணுவத் தளபதி, கடற்படைத் தளபதி, விமானப்படைத் தளபதி, பதில் பொலிஸ்மா அதிபர்,நகர அபிவிருத்தி  அதிகார சபையின் தலைவர் பொறியிலாளர் குமுது லால் டி சில்வா ஆகியோர் அரச நிர்வாக கட்டமைப்பில் சார்பிலும்,
 
-துறைசார் அடிப்படையில் ஐ.எஸ் ஜயரத்ன, கிஹான் டி சில்வா,சந்தியா சல்காது, கலாநிதி காமினி பட்டுவிடகே,கலாநிதி அனுருத்த கமகே, தில்ருக் வனசிங்க, தீபால் சூரியராராச்சி,சிசிர அமரபந்து, கிரிஷாந்த குரே, ஐயது பெரேரா,ருவன் வீரசூரிய, தயால் கருணாரத்ன ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
 
-ஜனாதிபதி செயலணியின் தலைவராக ஜனாதிபதியின் செயலாளர் கலாநிதி எஸ்.குமாநாயக்க, மற்றும் செயலாளராக ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ஆர்.டீ. அபொன்சு நியமிக்கப்பட்டுள்ளார்.
+Establishment of 18-member Presidential Secretariat for "Clean Sri Lanka" program under Article 33 of the Constitution. Members include military commanders, officials, and experts. Aim: Improve social, cultural, and moral conditions through national-level projects.
+
+🟩
+
+On the advice of President Anura Kumara Dissanayake, the Presidential Secretariat has been established in accordance with Article 33 of the Constitution to plan and implement the Clean Sri Lanka.
+
+President's Secretary Dr. NS. Kumanayake, Army Commander, Navy Commander, Air Force Commander, Reply Inspector General, Urban Development Authority Chairman Kumudu Lal de Silva
+
+On the basis of a sector, IS Jayaratne, Kihan de Silva, Sandhya Salkadu, Dr. Gamini Pattidage, Dr. Anurutha Kamage, Dilrukku Vanasinghe, Deepal Suriyarachchi, Sisira Amarapandu, Krishantha Kure, Ayyadu Perera
+
+President of the President, Dr. S. Kumanayake as the President of the Presidential Secretariat, and the Senior Additional Secretary of the President. Abonsu has been appointed.
+
+The Secretary of the President, Dr. S.. Kumanayaka has published a special gazette notification by describing the appointment of a member of the Kumanayaka Secretariat, and the purpose of the Secretary.
 
 ...
 
 [Data](articles/b327735a.json)
+
+[Extended Data](ext_articles/b327735a.ext.json)
 
 ---
 

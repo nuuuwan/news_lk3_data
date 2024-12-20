@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 07:30:32**
+As of **2024-12-20 08:05:50**
 
 ## Newspaper Stats
 
-*Scraped **61,122** Articles*
+*Scraped **61,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,699
 economynextcom | 3,725
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,827
+adalk | 5,828
 adaderanalk | 7,447
-tamilmirrorlk | 8,738
+tamilmirrorlk | 8,739
 virakesarilk | 10,081
 adaderanasinhalalk | 10,551
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,919 (99.7%) of 61,122 articles have been extended.
+60,920 (99.7%) of 61,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### பல பகுதிகளில் மழை பெய்யும்
+
+*2024-12-20 07:43:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-மழை-பெய்யும்/175-348996) · `ta`
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+ஊவா, மத்திய மற்றும் கிழக்கு மாகாணங்களிலும் ஹம்பாந்தோட்டை மற்றும் பொலன்னறுவை மாவட்டங்களிலும் மாலை அல்லது இரவு வேளைகளில் சில இடங்களில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடும் எனவும் ஊவா மாகாணத்தில் சில இடங்களில் 50 மில்லி மீற்றர் அளவில் மழை பெய்யக்கூடும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+மத்திய, ஊவா மற்றும் கிழக்கு மாகாணங்களில் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை நிலவும்.
+
+இடியுடன் கூடிய மழையுடன் அப்பிரதேசங்களில் தற்காலிக பலத்த காற்று வீசக்கூடுவதுடன், மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களை அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/78487a0b.json)
+
+---
 
 ### Link Natural honoured at Best Corporate Citizen Sustainability Award 2024
 
@@ -61,6 +79,8 @@ Our patients don’t just leave with a beautiful smile – they walk out with re
 ...
 
 [Data](articles/8bdec7aa.json)
+
+[Extended Data](ext_articles/8bdec7aa.ext.json)
 
 ---
 
@@ -1642,6 +1662,24 @@ He added that these matters have been informed the court through a motion.
 
 ---
 
+### බෙන්තොට රෝහලේ ඊ.සී.ජි. යන්ත්‍රය හොරු ගෙනිහින්
+
+*2024-12-19 17:30:36* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-රෝහලේ-ඊ-සී-ජි--යන්ත්‍රය-හොරු-ගෙනිහින්/11-413747) · `si`
+
+බෙන්තොට රජයේ රෝහලේ හදිසි ප්‍රතිකාර අංශයේ තිබූ රුපියල් දෙලක්ෂ විසිපන්දාහක් පමණ වටිනා ඊ.සී.ජී. යන්ත්‍රය ඊයේ  (18) රාත්‍රියේ කිසිවෙකු විසින් සොරාගෙන ගොස් ඇතැයි බෙන්තොට පොලිසිය කියයි.
+
+ඊයේ (18) රාත්‍රී අටට පමණ මෙම යන්ත්‍රයෙන් රෝගියකු පරීක්ෂා කළ බවත් අළුයම දෙකට පමණ වන විට එම යන්ත්‍රය තිබූ ස්ථානයේ නොතිබූ බවත් සඳහන් කරමින් රෝහලේ රාත්‍රී සේවයේ යෙදී සිටි හෙද නිලධාරිනියක විසින් අද (19) පොලීසියට පැමිණිල්ලක් කර ඇතැයි පොලීසිය පැවසීය.
+
+මෙම රෝහලේ ආරක්ෂක නිලධාරීන් හෝ මුරකරුවන් නොමැති බවත්  සිද්ධිය වූ අවස්ථාවේ එය තිබූ ඒකකයේ  ප්‍රධාන දොරටුව  අගුළු දමා වසා දමා තිබියදී මෙම සොරකම සිදුවී ඇති බවත් පොලිසිය කියයි .
+
+බෙන්තොට පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක තුෂාර කාරියවසම් ,අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක ධනංජය රාජපක්ෂ යන මහත්වරු සිද්ධිය පිළිබඳව විමර්ශන කටයුතු සිදුකරති.
+
+◼️
+
+[Data](articles/039e58ef.json)
+
+---
+
 ### 82 million speaking speech to Ranil's security
 
 *2024-12-19 17:22:26* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්ගේ-ආරක්ෂාවට-මිලියන-82ක්-වැයවූ-කථාව-අසත්‍යලු/11-413746) · `si`
@@ -2289,63 +2327,5 @@ Previously, the compulsory retirement age for government medical officers was lo
 [Data](articles/977d9a43.json)
 
 [Extended Data](ext_articles/977d9a43.ext.json)
-
----
-
-### For the past 20 years. Tissa
-
-*2024-12-19 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201644) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Co-op sector scams: 700+ complaints in 20 years; 1700 out of 2000 societies non-functional; 700 closed; millions affected; 1100-page complaint filed; new govt urged to act.
-
-🟩
-
-The Co -operative Department, Social activist and trade union DK said that over the past 20 years in the co -operative sector, several lakhs of rupees have been fraudulent and more than 700 complaints have been made.. Keerthi Tissa said.
-
-He made this statement during a media briefing held at Devon Hotel, Kandy.
-
-He said that the Co -operative Department has been severely affected by the action of a few officers in the co -operative sector and some officials are avoiding action.. He said that many of the Rathu rights, a partner in the coalition sector, have been violated.
-
-He said that over the past 20 years, about 700 complaints have been made by various parties regarding the Co -operative Department, but no action has been taken so far.
-
-He also accused the multi -rupee financial fraud of fraud. He said that about 2000 co -operative societies were registered across the country, of which 1700 unions were not operating properly, of which 700 were closed.
-
-...
-
-[Data](articles/f630575f.json)
-
-[Extended Data](ext_articles/f630575f.ext.json)
-
----
-
-### President needs to be removed
-
-*2024-12-19 15:46:24* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ආරක්ෂක-ප්‍රධානියා-ඉවත්-කළ-යුතුයි/11-413739) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former MP Udaya Gammanpila criticizes removing presidential security, saying it's misguided. He argues the army protects against threats like terrorism and drugs. Gammanpila suggests redeploying elite police units instead of reducing military protection.
-
-🟩
-
-Former MP Udaya Gammanpila says that pruning the security of former presidents is wrong and that the army has been deployed to eliminated the army has been misleading is wrong.
-
-"There is no president of our party. Therefore, we can be haomed by the popular decision of the defenses of former presidents.Played a role.
-
-Therefore, he is the hatred of Tamil separatists. Former President Sirisena has not only worked as acting Defense Minister but also tried to kill Tigers five times.If he retired from the post, if security is lost, there is a hesitate to take risks in the position.
-
-The leaders will only take leather decision to suppress the drug racket, terrorism, underworld, only if they get the assurance of their lives. Otherwise we don't get angry.That is five years in that position.The greatest tenth.Then we will remember the presidents will be taken to the delay.
-
-...
-
-[Data](articles/cc16b90c.json)
-
-[Extended Data](ext_articles/cc16b90c.ext.json)
 
 ---

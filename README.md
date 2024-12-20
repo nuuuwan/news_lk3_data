@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 02:26:56**
+As of **2024-12-21 02:42:39**
 
 ## Newspaper Stats
 
-*Scraped **61,263** Articles*
+*Scraped **61,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
-tamilmirrorlk | 8,755
+tamilmirrorlk | 8,756
 virakesarilk | 10,108
 adaderanasinhalalk | 10,580
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,026 (99.6%) of 61,263 articles have been extended.
+61,027 (99.6%) of 61,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### அரசாங்க அதிபர்களுடன் ஜனாதிபதி கலந்துரையாடல்
+
+*2024-12-21 02:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அதிபர்களுடன்-ஜனாதிபதி-கலந்துரையாடல்/175-349026) · `ta`
+
+நாட்டின் அரச சேவையை முறையான அரச பொறிமுறையாக மாற்றுவதற்கான சவால் தம்முன் காணப்படுவதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவிக்கிறார்.
+
+நாரஹேன்பிட்டியிலுள்ள 'நில மெதுர' கட்டடத்தில் நேற்று (20) நடைபெற்ற மாவட்ட செயலாளர்கள் மற்றும் அரசாங்க அதிபர்களுடனான கலந்துரையாடலில் உரையாற்றும் போதே ஜனாதிபதி இதனை குறிப்பிட்டார்.
+
+நாட்டில் தற்போதுள்ள அரச நிறுவனங்களை மீளாய்வு செய்ய நியமிக்கப்பட்டிருக்கும், புதிய குழுவின் ஊடாக அரசியல் செல்வாக்கைப் பொருள் படுத்தாமல், அவை தொடர்பில் தீர்மானம் மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+அரச நிறுவனமொன்றில் நியாயமான சேவையைப் பெற்றுக்கொள்ள முடியும் என்று மக்களுக்கு சிறிதும் நம்பிக்கை இல்லை என்றும், அரசு என்ற வகையில் முழுக் கட்டமைப்பும் சரிவைக் கண்டுள்ளதெனவும் தெரிவித்தார்.
+
+சரிவடைந்திருக்கும், கட்டமைப்பை மீள உருவாக்க நாம் தயாரா? இல்லையா? என்பது குறித்து எம்மை நாமே கேள்வி கேட்டுக்கொள்ள வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார். (a)
+
+◼️
+
+[Data](articles/15509741.json)
+
+---
 
 ### Is India changing the toughness of India?Questions that arise in the context of New Delhi Talks
 
@@ -195,6 +215,8 @@ Credit card purchases made at point-of-sale terminals, along with online transac
 ...
 
 [Data](articles/48abc471.json)
+
+[Extended Data](ext_articles/48abc471.ext.json)
 
 ---
 
@@ -2381,27 +2403,5 @@ Therefore, the Minister of Foreign and the Government will be a policy decision 
 [Data](articles/d2691d4b.json)
 
 [Extended Data](ext_articles/d2691d4b.ext.json)
-
----
-
-### Lanka T10 match-fixing scandal: Indian team owner granted bail
-
-*2024-12-20 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104372/lanka-t10-match-fixing-scandal-indian-team-owner-granted-bail-) · `en`
-
-The Colombo Magistrate’s Court has granted bail to the Indian owner of the ‘Galle Marvels’ team in the Lanka T10 Super League, Prem Thakur, who had been remanded in custody over allegations of match-fixing during the Lanka T10 cricket tournament in Kandy’s Pallekele Stadium.
-
-The case was heard before Colombo Chief Magistrate Thilina Gamage today (20), where Thakur’s legal representatives requested his release on bail.
-
-In response, Senior State Counsel Udara Karunatilaka, representing the prosecution, requested that the court issue a suitable order that would allow the suspect to remain in Sri Lanka.
-
-In response, the court released Thakur on a cash bail of Rs. 500,000, along with two sureties of Rs. 5,000,000 each.
-
-Additionally, the court imposed an overseas travel ban and ordered Thakur to appear before the Special Investigation Unit for Prevention of Offenses Relating to Sports, on every Wednesday.
-
-Accordingly, the next hearing of the case is scheduled for January 27, 2025.
-
-◼️
-
-[Data](articles/80d243f0.json)
 
 ---

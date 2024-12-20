@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 15:43:12**
+As of **2024-12-20 16:01:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,963 (99.6%) of 61,191 articles have been extended.
+60,965 (99.6%) of 61,191 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,21 +112,33 @@ Accordingly, Judge Aditya Patapandike told the defendants that the High Court ha
 
 ---
 
-### කරාඹු වැටුනාට වන්දි ඉල්ලයි
+### Seeks compensation for the clove
 
 *2024-12-20 14:26:50* · [`adalk`](https://www.ada.lk/breaking_news/කරාඹු-වැටුනාට-වන්දි-ඉල්ලයි/11-413755) · `si`
 
-පසුගිය දිනවල එක දිගට ඇදහැළුණු වර්ෂාව හේතුවෙන් මාතලේ දිස්ත්‍රික්කයේ ප්‍රදෙශ රැසක ලපටි කරාඹු නටුවෙන් ගැලවී වැටීමෙන් විශාල අස්වනු හානියක් සිදුව ඇති බැවින් සුදුසු වන්දියක් ලබා දෙන ලෙස වගා කරුවන් රජයෙන් ඉල්ලයි. .
+Here's a summary of 200 characters:
 
-ලබන පෙබරවාරි මාසයේදී අස්වනු නෙලීමට තිබු කරාඹු පළදාව එක දිගට පැවැති වර්ෂාවත් සමග දින කීපයකින් හැලි ගොස් ඇති අතර මේ තත්වය හේතුවෙන් වගාකරුවන් ගැටළු රැසකට මුහුණ දී ඇති බව මාතලේ දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී අනාවරණය විය.
 
-මාතලේ උකුවෙල, වැහිගල හා ඔිවිලි කන්ද ඇතුළු ප්‍රදේශ රැසක මෙම වගාහානිය සිදුව තිබේ.
 
-මෙම තත්වය සම්බන්ධයෙන් අදහස් දක්වමින් අපනයන කෘෂිකර්ම දෙපාර්තමේන්තුවේ නිලධාරින් පැවැසුවේ , දින හතරක් පහක් වැනි කෙටි කාලයකින් ලපටි කරාඹු නටුවෙන් ගැලවීයාම නිසා ප්‍රතිකාරයක් කිරීමටවත් අවස්ථාවක් නොලැබුණ බවයි.
+Matale District farmers seek compensation due to reduced rainfall. Crop costs increased, affecting Ukuwela, Wehiragala, and Ovilipa areas. Department of Export Agriculture investigates fungal disease. Agricultural Insurance Board representatives discuss potential payouts.
+
+🟩
+
+Due to the last days, the plant demands the government to give a suitable increase in the fall of a number of rains in the Matale District due to the last days.. .
+
+The costume of the cost of harvesting in February was revealed in several days along with the year, and the Matale District Agriculture Committee revealed that the growers were facing many problems.
+
+The cost has taken place in the Ukuwela, Wehiragala and Ovilipa Kanda, Matale.
+
+Commenting on the situation, the officers of the Department of Export Agriculture said that a castle was not allowed to do a treatment due to the carpet, escape the rope of the rope of four days.
+
+However, the official added that the leaves are currently being researched and the leaves are still being researched as a fungal disease of the crops.. The farmer pointed out that the cost of the harvest is not a risk of the yarn.
 
 ...
 
 [Data](articles/75a18e89.json)
+
+[Extended Data](ext_articles/75a18e89.ext.json)
 
 ---
 
@@ -188,19 +200,31 @@ Speaking at a special press conference held at the Government Information Depart
 
 ---
 
-### නෙවිල් සිල්වා යළි රිමාන්ඩ්
+### Neville Silva remanded again
 
 *2024-12-20 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204550) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසයේ හිටපු අධ්‍යක්ෂ, සහකාර පොලිස් අධිකාරි නෙවිල් ද සිල්වා මහතා දෙසැම්බර් 30 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට රත්නපුර අතිරේක මහෙස්ත්‍රාත් දුනීසා හේසානි රුද්‍රි මහත්මිය නියෝග කළාය.
+Neville Silva remanded until Dec 30 on Colombo Crimes Division complaint. Arrested without proper investigation, claims lawyer. CID officers state suspect acted as corporation.
 
-රුපියල් කෝටි 14ක් වටිනා මැණික් සහ වාහන ඇතුළු දේපොළ තොගයක් බලහත්කාරයෙන් ලබාගත් බව කියන සිද්ධියක් සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාසයට කළ පැමිණිල්ලකට අනුව එම දේපොළ ඒකපාර්ශිකව පැමිණිලිකරුට ලබාදීම ගැන අත්අඩංගුවට ගත් සැකකාර නෙවිල් ද සිල්වා මහතාට එල්ල වී ඇති චෝදනාවයි.
+🟩
 
-2023 වසරේ අගෝස්තු 2 වනදා කුරුවිට මැණික් ව්‍යාපාරිකයෙකු කොළඹ අපරාධ කොට්ඨාසය වෙත පැමිණ ඔහුට අයත් රුපියල් කෝටි 14ක් පමණ වටිනා දේපොළ බලහත්කාරයෙන් ලබාගත් බවට පැමිණිල්ලක් කර තිබු බව එම පැමිණිල්ලට අනුව සැකකාර සහකාර පොලිස් අධිකාරිවරයා ඒකපාර්ශ්වික ලෙස කටයුතු කර ඇතැයි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මහජන පැමිණලි අංශයට ලද පැමිණිල්ලක් අනුව සහකාර පොලිස් අධිකාරිවරයාව පසුගිය දෙසැම්බර් 9 වන දා අත්අඩංගුවට ගෙන පසුව රත්නපුර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබිය.
+Support Superintendent of Police Neville de Silva was remanded until December 30, Ratnapura, Ratnapura.
+
+According to a complaint lodged with the Colombo Crimes Division, the allegation of the suspects Neville de Silva arrested on a complaint to the Colombo Crimes Division according to a complaint to the Colombo Crimes Division.
+
+According to the complaint, a complaint was lodged a complaint to the Colombo Criminal inquiry into the Colombo Crimes Division on August 2, 2023.The Superintendent of Police was arrested on December 9 and later produced before the Ratnapura Magistrate's Court.
+
+President's Counsel Nalinda Indratissa stated that the suspect had been arrested without proper investigation.
+
+The President's Counsel presented the court that a person had complained about Rs..
+
+The Nugegoda person had informed the Colombo Crimes Division that the Gem Ruki businessman had been hiding during the Colombo Crimes Division for a long time.
 
 ...
 
 [Data](articles/70103569.json)
+
+[Extended Data](ext_articles/70103569.ext.json)
 
 ---
 

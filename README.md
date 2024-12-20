@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 22:02:19**
+As of **2024-12-20 22:16:30**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,003 (99.6%) of 61,234 articles have been extended.
+61,005 (99.6%) of 61,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### ஜனவரியில் சீனா செல்கின்றார் ஜனாதிபதி
+### China visits China in January
 
 *2024-12-20 21:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரியில்-சீனா-செல்கின்றார்-ஜனாதிபதி/175-349025) · `ta`
 
-ஜனவரி மாதம் ஆரம்பத்தில் சீனாவுக்கு உத்தியோகபூர்வ விஜயம் செய்யவுள்ளதாக ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-மகாசங்கத்தினரை சந்தித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இதனை குறிப்பிட்டார். R
+
+
+Sri Lankan President Anura Kumara Dissanayake plans to visit China in early January. He announced this during a press conference after meeting religious leaders. The trip aims to strengthen bilateral ties between the two nations.
+
+🟩
+
+President Anura Kumara Dissanayake said he would make an official visit to China early in January.
+
+He said this while commenting to the media after meeting the Mahasanga. Remble
 
 ◼️
 
 [Data](articles/10ada0e7.json)
+
+[Extended Data](ext_articles/10ada0e7.ext.json)
 
 ---
 
@@ -237,6 +247,8 @@ The injured individual was rushed to the Karapitiya Hospital for treatment follo
 ◼️
 
 [Data](articles/9f68d272.json)
+
+[Extended Data](ext_articles/9f68d272.ext.json)
 
 ---
 

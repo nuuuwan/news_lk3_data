@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 09:43:27**
+As of **2024-12-20 10:27:33**
 
 ## Newspaper Stats
 
-*Scraped **61,128** Articles*
+*Scraped **61,129** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 455
+dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 645
 islandlk | 3,699
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,929 (99.7%) of 61,128 articles have been extended.
+60,932 (99.7%) of 61,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### Clean Sri Lanka - வர்த்தமானி அறிவித்தல் வெளியீடு
+### Clean Sri Lanka - Gazette Notification Release
 
 *2024-12-20 09:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Clean-Sri-Lanka-வர்த்தமானி-அறிவித்தல்-வெளியீடு/175-348998) · `ta`
 
-“கிளீன் ஸ்ரீலங்கா” வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்காக ஜனாதிபதியின் செயலாளர் உட்பட 18 பேர் கொண்ட ஜனாதிபதி செயலணியொன்றை அறிவித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் பணிப்புரைக்கு அமைய ஜனாதிபதி செயலாளரினால் இந்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது. R
+
+
+Sri Lanka: New 18-member Presidential Secretariat formed under President Dissanayake to oversee "Clean Sri Lanka" initiative. Gazette notification released, detailing roles and responsibilities.
+
+🟩
+
+The Gazette Notification has been issued by announcing a 18 -member Presidential Secretariat, including the President's Secretary, to implement the "Clean Sri Lanka" program.
+
+The Gazette Notification has been issued by the President of the President on the Directorate of President Anuragumara Dissanayake. Remble
 
 ◼️
 
 [Data](articles/35625b52.json)
+
+[Extended Data](ext_articles/35625b52.ext.json)
 
 ---
 
@@ -264,6 +274,8 @@ Sri Lanka’s new President Anura Kumara Dissanayake is on a State visit to Indi
 
 [Data](articles/d330dec6.json)
 
+[Extended Data](ext_articles/d330dec6.ext.json)
+
 ---
 
 ### Beyond qualifications: Essence of leadership
@@ -293,6 +305,8 @@ However, less than a month after the last General Election, this very principle 
 ...
 
 [Data](articles/b9f6d811.json)
+
+[Extended Data](ext_articles/b9f6d811.ext.json)
 
 ---
 
@@ -1110,6 +1124,18 @@ The party of Karandeniya Suda has been injured by the "Battle Mother 'and his co
 
 ---
 
+### “Bala Annai” : an Up,Close and Personal Account about LTTE Political Strategist Anton  Stanislaus Balasingham.
+
+*2024-12-19 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85220) · `en`
+
+The  current controversy surrounding speaker Ashoka Sapumal Ranwala’s higher educational qualifications  evoke memories of an earlier controversy of a similar  nature concerning a prominent person associated with the Liberation Tigers of Tamil Eelam(LTTE).  The rumpus then was about the LTTE political strategist Anton Stanislaus Balasingham who was frequently referred to as Dr.Balasingham in the media. This was widely disputed by members of organizations opposed to the LTTE.It was  said that Balasingham had never acquired a doctoral degree and was therefore  a “pretender doctor”.
+
+...
+
+[Data](articles/04b94a24.json)
+
+---
+
 ### Opposition Leader - Meeting between Norway Ambassador
 
 *2024-12-19 20:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201696) · `ta`
@@ -1545,6 +1571,22 @@ The brother of the arrested suspect is a 28 -year -old from Minuwangoda Heanadiy
 [Data](articles/ca93c82d.json)
 
 [Extended Data](ext_articles/ca93c82d.ext.json)
+
+---
+
+### “பாலா அண்ணை “: அரசியல் ஆலோசகர் அன்டன் ஸ்ரனிஸ்லோஸ் பாலசிங்கத்துடனான அனுபவங்களின்  நினைவுகள்.
+
+*2024-12-19 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85235) · `en`
+
+கடந்த வாரம் பாராளுமன்ற சபாநாயகர் அசோகா சப்புமால் ரண்வலவை பதவியில் இருந்து விலகவைத்த அவரது உயர்கல்வித் தகைமைகள் தொடர்பான சர்ச்சை விடுதலை புலிகள் இயக்கத்துடன் சம்பந்தப்பட்ட முக்கிய பிரமுகர் ஒருவர் தொடர்பிலான இதே போன்ற முன்னைய சர்ச்சை ஒன்றை நினைவுபடுத்துகிறது.
+
+ஊடகங்களில் அடிக்கடி கலாநிதி பாலசிங்கம் என்று குறிப்பிடப்பட்ட விடுதலை புலிகளின் அரசியல் ஆலோசகர் அன்டன் ஸ்ரனிஸ்லோஸ் பாலசிங்கம் பற்றியதே அந்த குழப்பமாகும்.
+
+விடுதலை புலிகளுக்கு எதிரான இயக்கங்களின் உறுப்பினர்கள் பாலசிங்கம் ஒரு கலாநிதி அல்ல என்று பரவலாக  மறுதலித்தனர். பாலசிங்கம் ஒருபோதுமே கலாநிதி பட்டத்தை பெறவில்லை என்றும் அதனால் அவர் ஒரு ” பாசாங்கு கலாநிதி ” என்றும் கூறப்பட்டது.
+
+...
+
+[Data](articles/0a64172c.json)
 
 ---
 
@@ -2267,63 +2309,5 @@ CEB and its distribution subsidiary Lanka Electricity Company (LECO), serve over
 [Data](articles/b715b711.json)
 
 [Extended Data](ext_articles/b715b711.ext.json)
-
----
-
-### Amount paid to pre-school children is Rs.. Up to 100
-
-*2024-12-19 16:10:24* · [`adalk`](https://www.ada.lk/breaking_news/පෙරපාසල්-දරුවන්ගේ-උදෑසන-ආහාරයට-ගෙවන-මුදල-රු--100ක්-දක්වා-ඉහළට/11-413742) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Rs. 100 daily allowance for pre-schoolers. Cabinet approves breakfast program for 155,000 children next year. National Secretariat to implement from 2017. Current rate: Rs. 60/day. Proposal to increase allowance. Women and Child Affairs Ministry leads initiative.
-
-🟩
-
-Cabinet approved for a breakfast for children in preschool and early childhood development centers. The program is expected to benefit from about 155,000 children next year.
-
-The National Secretariat will be implemented by the National Secretariat in the Ministry of Health to the Early Childhood Development from 2017, a breakdown program for early childhood development centers / pre-school children.
-
-Currently Rs. 60 / - is given per day for a child,. The proposal has also been forwarded to increase the amount to Rs.
-
-The proposal of Women and Child Affairs, the Cabinet has approved the proposal of the "Pre-School Development Centers / Pre-Schools", which is based on the "Pre-Schools' to the Pre-Schools" Pre-Schools.
-
-◼️
-
-[Data](articles/4951da9f.json)
-
-[Extended Data](ext_articles/4951da9f.ext.json)
-
----
-
-### Mullivaikkal coast
-
-*2024-12-19 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204524) · `si`
-
-Here's a 200-character summary:
-
-
-
-Refugees from Myanmar arrive at Mullivaikkal coast in Mullaitivu. Fishing vessels bring food and water due to scarcity. Navy provides supplies, police report 25 children on board.
-
-🟩
-
-Mullaitivu, Mullaitivu, a multi-wheeler has arrived at Mullaitivu Coastal Coast, Mullaitivu.
-
-They had come to Mullivaikkal coast with refugees as refugees from Myanmar.
-
-It is reported that the fishing vessels have come to the Mullivaik Coast with the scarcity of food and water.
-
-The Security Authorities said that the Navy's providing food and water supply to the crowd is that the navy is in the future.
-
-The police said that there are currently nearly 25 small children of the vessel, police said.
-
-◼️
-
-[Data](articles/7b11ab34.json)
-
-[Extended Data](ext_articles/7b11ab34.ext.json)
 
 ---

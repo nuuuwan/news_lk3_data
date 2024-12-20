@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 17:00:14**
+As of **2024-12-20 17:27:34**
 
 ## Newspaper Stats
 
-*Scraped **61,198** Articles*
+*Scraped **61,200** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 3,701
 economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,835
+adalk | 5,836
 adaderanalk | 7,462
 tamilmirrorlk | 8,750
-virakesarilk | 10,096
+virakesarilk | 10,097
 adaderanasinhalalk | 10,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,971 (99.6%) of 61,198 articles have been extended.
+60,974 (99.6%) of 61,200 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### பாடசாலை மாணவனிடம் பணத்தை மோசடி செய்த இருவர் கைது !
+
+*2024-12-20 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201735) · `ta`
+
+14 வயதுடைய பாடசாலை மாணவன் ஒருவனுக்கு கையடக்கத் தொலைபேசி வாங்கித் தருவதாகக் கூறி 30 இலட்சம் ரூபாவுக்கும் அதிகமான பணத்தை மோசடி செய்த சம்பவம் தொடர்பில் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பயாகல பொலிஸார் தெரிவித்தனர்.
+
+பயாகல மற்றும் மக்கொன  ஆகிய பிரதேசங்களைச் சேர்ந்த 18 மற்றும் 21 வயதுடைய இருவரே கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த பாடசாலை மாணவன் தனது தந்தை மற்றும் இரண்டு மூத்த சகோதரிகளுடன் பயாகல பிரதேசத்தில் ஒன்றாக வசித்து வந்துள்ளார்.
+
+இந்நிலையில், பாடசாலை மாணவன் தனது தந்தை வாங்கிக் கொடுத்த கையடக்கத் தொலைபேசியை தொலைத்துள்ளார்.
+
+இதனால் இந்த  பாடசாலை மாணவன் தனது அயல் வீட்டில் வசிக்கும் நண்பனின்  மூத்த சகோதரனிடம் தனக்கு ஒரு கையடக்கத் தொலைபேசியை வாங்கித் தருமாறு கோரியுள்ளார்.
+
+இதன்போது, சந்தேக நபர் , கையடக்கத் தொலைபேசியை வாங்கித் தருவதற்கு பணம் அல்லது தங்க நகைகள் வேண்டும் என  பாடசாலை மாணவனிடம் கூறியுள்ளார்.
+
+இதனால் இந்த பாடசாலை  மாணவன் வீட்டில் உள்ள அலுமாரியில் இருந்த சுமார் முப்பது இலட்சம் ரூபா பெறுமதியான தங்க நகைகளை சந்தேக நபருக்கு கொடுத்துள்ளார்.
+
+...
+
+[Data](articles/eebeb138.json)
+
+---
 
 ### New National Convener in Poight D V Chanaka
 
@@ -158,6 +182,8 @@ However, speaking at a special press conference held at the Department of Govern
 
 [Data](articles/3f8e7138.json)
 
+[Extended Data](ext_articles/3f8e7138.ext.json)
+
 ---
 
 ### Minister denies agreement on Indian oil pipelines in Sri Lanka
@@ -178,27 +204,39 @@ Apart from that, he dismissed claims that an agreement had been reached to lay a
 
 [Data](articles/e9764b45.json)
 
+[Extended Data](ext_articles/e9764b45.ext.json)
+
 ---
 
-### කුඩු සළිඳුට ඇප
+### Kuduwe gets bail
 
 *2024-12-20 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204553) · `si`
 
-සළිඳු මල්ෂික ගුණරත්න නොහොත් "කුඩු සළිඳු" රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප තුනක් මත නිදහස් කරන ලෙස පානදුර මහාධිකරණ විනිසුරු සමන් කුමාර මහතා විසින් නියෝග කර තිබේ.
+Here's a summary of 200 characters:
 
-එකී ශරීර ඇපවලට අමතරව සැකකරු වෙත දැඩි ඇප කොන්දේසි ද නිකුත් කර ඇත.
 
-සැකකරු 2023 මාර්තු මස 15 දින මැඩගස්කරයේදී අත්අඩංගුවට ගෙන දිවයිනට රැගෙනවිත්
 
-අංක 96863 සහ 85145/22 දරණ නඩුවලට අදාළව රිමාන්ඩ් බන්ධනාගාර ගතකර සිට පානදුර මහාධිකරණයට ඉදිරිපත් කිරීමෙන් පසු මෙසේ ඇප මත නිදහස් කර ලෙස නියෝග කර තිබේ.
+Panadura High Court Judge Saman Kumara released on bail for Rs. 3 lakhs with strict guarantees. Arrested in Madagascar on March 15, 2023, accused of terrorist activities and murder. Represented by attorneys Jaliya Samarasinghe, Jayaratha Kalupahana, and others. Cases 96863 and 85145/22 submitted.
 
-ත්‍රස්තවාදී ක්‍රියා සිදුකිරීම සහ මනුෂ්‍ය ඝාතනයක් සිදුකර ඇති බවට ඔහුට එරෙහිව චෝදනා නඟා තිබුණි.
+🟩
 
-නීතිඥ ජාලිය සමරසිංහ, ජයබදු  කළුපහන, හේමන්ත කුමාර ,අශෝක ධර්මරත්න, බී ඒ ආර් බමුණුසිංහ, ශානිකා කාරියවසම්, සංජුලා සුරවීර සහ එච්. කේ. කේ. හීනටිගල යන නීතිඥ මහත්ම මහත්මීන් විත්තිය වෙනුවෙන් පෙනී සිටියහ.
+Panadura High Court Judge Saman Kumara has been released to release the three bail of Rs.
+
+In addition to the bail, the suspect has also issued strict guarantee to the suspect.
+
+The suspect was arrested in Madagascar on 15th March, 2023
+
+Remanded by the Panadura High Court has been released on bail after being submitted to the cases from No. 96863 and 85145/22.
+
+He was accused of carrying out terrorist activities and killing a human killing.
+
+Attorney Jaliya Samarasinghe, Jayaratha Kalupahana, Wimala Dharmaratne, Askey Dharmaratne, Bamunasinghe, Shani Kariyawasam, Shanika Kariyawasam and Sanja Siracle and Harmony. K. K. He appeared for the accused by Attorney at the law.
 
 ◼️
 
 [Data](articles/c9fe3437.json)
+
+[Extended Data](ext_articles/c9fe3437.ext.json)
 
 ---
 
@@ -331,6 +369,20 @@ On December 13, he was remanded until today (20) after being produced before the
 [Data](articles/74701e55.json)
 
 [Extended Data](ext_articles/74701e55.ext.json)
+
+---
+
+### ශ්‍රි ලංකා ක්‍රිකට් ඡන්ද හිමි සාමාජිකයන්ගේ සංඛ්‍යාව 87කින් පහළට
+
+*2024-12-20 14:20:19* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකා-ක්‍රිකට්-ඡන්ද-හිමි-සාමාජිකයන්ගේ-සංඛ්‍යාව-87කින්-පහළට/11-413754) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ඡන්දය හිමි සාමාජිකයන්ගේ සංඛ්‍යාව 147 සිට 60 දක්වා සැලකිය යුතු ප්‍රමාණයකින් අඩුකිරීමට ශ්‍රි ලංකා ක්‍රිකට් ආයතනයේ අද පැවැත්වූ විශේෂ මහා  රැස්විමේදි අනුමැතිය ලබාදී තිබේ.‍
+
+ක්‍රිකට් ආයතනයේ ඡන්ද ප්‍රමාණය සම්බන්ධයෙන් දැඩි කතා බහක් නිර්මාණය වූ අතර ඒහිදි බොහෝ දෙනෙක් යෝජනා කර තිබුණේ ඡන්ද හිමි සාමාජිකයන්ගේ සංඛ්‍යාව සැලකිය යුතු ප්‍රමාණයකින් අඩු කළ යුතු බවයි.
+
+◼️
+
+[Data](articles/c969eabc.json)
 
 ---
 
@@ -2099,35 +2151,5 @@ The annual report of Aitken Spence Hotel Holdings PLC presented under the theme 
 ...
 
 [Data](articles/988efc66.json)
-
----
-
-### DIMO shines at TAGS Awards 2024, clinching the prestigious Overall Silver Award
-
-*2024-12-20 04:51:00* · [`islandlk`](http://island.lk/dimo-shines-at-tags-awards-2024-clinching-the-prestigious-overall-silver-award/) · `en`
-
-DIMO triumphed at the TAGS Awards 2024, winning the prestigious Silver Award for Overall Excellence in Corporate Reporting. The company also earned a Gold Award and four Silver Awards, highlighting its commitment to Transparency, Accountability, Governance, and Sustainability. The accolades included a Gold Award for Diversified Holdings (Group Turnover Up to 100bn) and Silver Awards for Integrated Reporting, Corporate Governance Disclosure – Non-Financial Services, Sustainability Reporting, and Digitally Transformative Reporting.
-
-Gahanath Pandithage (Group Managing Director/CEO) and Suresh Gooneratne (Executive Director/CFO) received the Overall Silver Award on behalf of the company. DIMO’s 2023/24 Annual Report, themed ‘Agile By Nature’ with a Dragonfly metaphor, introduced an innovative braille synopsis for the visually impaired and featured a dedicated microsite, enhancing its digital engagement.
-
-Cool Planet lights up the holidays with festive cheer and seasonal collections
-
-...
-
-[Data](articles/68f8068a.json)
-
----
-
-### CSE energized by government’s decision on withholding tax
-
-*2024-12-20 04:50:00* · [`islandlk`](http://island.lk/cse-energized-by-governments-decision-on-withholding-tax/) · `en`
-
-President Anura Kumara Dissanayake’s statement in parliament on increasing withholding tax on conservative investments, such as fixed deposits and savings, from 5 percent to 10 percent, positively impacted the stock market and attracted more local and foreign investors, market analysts said.
-
-This new withholdings tax increase by the government does not apply to stock market transactions. Amid those developments mixed reactions were noted in both indices yesterday. The All Share Price Index went up by 39.96 points, while S and P SL20 went down by 3.28 points. Turnover stood at Rs 5.8 billion with 12 crossings.
-
-...
-
-[Data](articles/0219c4d9.json)
 
 ---

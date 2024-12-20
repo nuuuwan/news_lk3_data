@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 23:13:03**
+As of **2024-12-20 23:26:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,010 (99.6%) of 61,246 articles have been extended.
+61,011 (99.6%) of 61,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -164,23 +164,35 @@ Similarly, the provincial council election will be held next year, the President
 
 ---
 
-### ජනපතිගේ නව බදු ප්‍රතිපත්තියට වෘත්තියවේදීන් ගත් තීරණය
+### Professional decision on the new tax policy of the President
 
 *2024-12-20 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204568) · `si`
 
-ආදයම් බදු සම්බන්ධව ජනාධිපතිවරයා ගත් තීන්දුව සම්බන්ධව සිය සංගමය සතුටු වන බව වෘත්තියවේදීන්ගේ වෘත්තිය සමිති එකමුතුව පවසයි.
+Here's a summary of 200 characters:
 
-එම එකමුතුව වෙනුවෙන් අද (20) පැවැති මාධ්‍ය හමුවට එක්වූ රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් සුගතදාස මහතා පැවසුවේ පසුගිය කාලයේදී වෘත්තීයවේදීන්ගේ වැටුප බද්දට යටත් වීම හේතුවෙන් වෘත්තිකයන් විශාල පිරිසක් රට අත්හැර ගොස් ඇති බවය.
 
-එමෙන්ම මෙම බදු ක්‍රමය හේතුවෙන් වෘත්තියවේදීන් දැඩි අපසුතාවයකට පත්වූ බවත් මේ හේතුවෙන් විවිධ උද්ඝෝෂණ සහ වැඩවර්ජන පවා සිදු කිරීමට සිදු වූ බවත් ඔහු පැවසීය.
 
-වර්තමාන රජය මෙම බදු සීමාව වැඩි කිරීමට තීරණය කිරීම වෘත්තියවේදීන් ගැන අවධානය යොමු කරමින් ඔවුන්ගේ ප්‍රශ්න දෙස සිතා බලා ගෙන ඇති තීරණයක් බැවින් එම තීරණය ඉතා වැදගත් බවද ඔහු මෙහිදී පැවසීය.
+Professional unions welcome President's tax decision. GMOA General Secretary criticizes income tax impact on professionals. FUTA expresses concern over excessive tax burden. New policy expected from January, aiming for fair tax system.
 
-මේ හේතුවෙන් වෘත්තියවේදීන් එකමුතුව රැස්වී මෙම බදු ක්‍රමය සාධාරණීකරණය කර ගැනීම සඳහා ජනාධිපතිවරයා සමග සාකච්ඡාවක් ලබා ගැනීමටත් ඉදිරියේදී බදු ක්‍රමය ලිහිල් කරන ආකාරය පිළිබඳව සහ පවතින බදු ක්‍රමය සාධාරණීකරණය කිරීම සඳහා ගන්නා පියවර පිළිබඳව දැනගැනීමටත් මෙන්ම තමන්ගේ ගැටළු ඉදිරිපත් කිරීමට පියවර ගන්නා බවද ඔහු පැවසීය.
+🟩
+
+Professionalist trade unions say they are happy with the President's decision on income taxes.
+
+The General Secretary of the Government Medical Officers Association, the General Secretary of the Government Medical Officers Association (GMOA), the General Secretary of the Government Medical Officers Association (GMOA) said that a large number of professionals had left the country due to the tax on trade.
+
+He also said that the professionalists were deeply impressed due to this tax system and that there were many agitations and strikes as a result of this.
+
+He also said that the decision to increase this tax limit is vital, "he is very important.
+
+As a result, professionals will meet with the presence of the Tax and to justify the Tax System and to justify the prevailing tax system and to justify their problems.
+
+Speaking at the Federation of University Teachers' Societies Associations (FUTA), a large number of taxes in the last two years has been charged, it has exceeded the expected tax revenue.
 
 ...
 
 [Data](articles/8d495d11.json)
+
+[Extended Data](ext_articles/8d495d11.ext.json)
 
 ---
 

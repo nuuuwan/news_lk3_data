@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 18:50:20**
+As of **2024-12-20 19:02:46**
 
 ## Newspaper Stats
 
-*Scraped **61,211** Articles*
+*Scraped **61,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,836
-adaderanalk | 7,464
-tamilmirrorlk | 8,750
+adaderanalk | 7,466
+tamilmirrorlk | 8,751
 virakesarilk | 10,103
-adaderanasinhalalk | 10,572
+adaderanasinhalalk | 10,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,985 (99.6%) of 61,211 articles have been extended.
+60,985 (99.6%) of 61,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### ‘நெருக்கடிக்கு தீர்வு காண தேசிய ஒலிம்பிக் குழு உடனடியாக தலையிடும்‘
+
+*2024-12-20 18:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடிக்கு-தீர்வு-காண-தேசிய-ஒலிம்பிக்-குழு-உடனடியாக-தலையிடும்/175-349009) · `ta`
+
+தற்போதைய நெருக்கடிக்கு விரைவான தீர்வு காண தேசிய ஒலிம்பிக் குழு உடனடியாக தலையிடும் என, விளையாட்டுத்துறை அமைச்சர் சுனில் குமார கமகே இன்று (20) தெரிவித்தார்.
+
+இலங்கை தேசிய ஒலிம்பிக் கமிட்டியில் தற்போது நிலவும் நெருக்கடிகள் குறித்து கேட்டறிவதற்காக விளையாட்டு அமைச்சர் சுனில் குமார கமகே மற்றும் தேசிய ஒலிம்பிக் குழு உறுப்பினர் சங்க பிரதிநிதிகள் ஆகியோருக்கு இடையிலான கலந்துரையாடல், இளைஞர் விவகார மற்றும் விளையாட்டு அமைச்சில், இன்று (20) நடைபெற்றது.
+
+◼️
+
+[Data](articles/d50d8080.json)
+
+---
+
+### බ්‍රිතාන්‍යයෙන් ශ්‍රී ලංකාවට ආයෝජන මාර්ග රැසක්
+
+*2024-12-20 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204562) · `si`
+
+බලයට පත්වී කෙටි කාලයක් තුළ ආණ්ඩුව ආර්ථික ස්ථායීකරණය සම්බන්ධයෙන් ලබා ඇති ප්‍රගතිය පැසසිය යුතු බව ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් ඇන්ඩෘ පැට්‍රික් මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ මුදල් හා ක්‍රම සම්පාදන නියෝජ්‍ය අමාත්‍ය ආචාර්ය හර්ෂණ සූරියප්පෙරුම මහතා සමග අද (20) මුදල් අමාත්‍යාංශයේදී පැවැති හමුවකදීය.
+
+මෙහිදී මෙරට භාණ්ඩ බ්‍රිතාන්‍ය වෙළෙඳපොළ වෙත අපනයනය කිරීම සඳහා උපරිම සහය ලබා දීමට සූදානම් බව පැවසු මහාකොමසාරිස්වරයා පැවැසුවේ ලබන වසරේ මුල් කාලයේදී ව්‍යාපාරික අවස්ථා හඳුනා ගැනීම අරමුණු කරගනිමින් ව්‍යාපාරිකයින් පිරිසක් ශ්‍රී ලංකාවේ සංචාරයක ද නිරත වීමට සූදානම් බවය.
+
+මෙරට කාබනික කෘෂිභෝග අපනයනය සඳහා එට වෙළෙඳපොළ තුළ ඉහළ ශක්‍යතාවක් පවතින බවත් ඇඟලුම්, කෘෂි නිෂ්පාදන, ස්වභාවික රූපලාවන්‍ය නිෂ්පාදන වැනි විවිධ නිෂ්පාදන සඳහා රට වෙළෙඳපොළ තුළ ඉඩත් පවතින බවත් බ්‍රිතාන්‍ය මහකොමසාරිස්වරයා එහිදී පැවසීය.
+
+තවද මෙරටට පැමිණෙන සංචාරකයන්ගෙන් ප්‍රමුඛ ස්ථානයක් බ්‍රිතාන්‍ය ජාතිකයන්ට හිමි වන බැවින් ඒ තුළින් ඉහළ විදේශ විනිමය ප්‍රමාණයක් රට තුළට ලැබෙන බවත් ඔහු සඳහන් කළේය.
+
+...
+
+[Data](articles/365be14d.json)
+
+---
+
+### President reveals plans to transform public service into streamlined state mechanism
+
+*2024-12-20 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104382/president-reveals-plans-to-transform-public-service-into-streamlined-state-mechanism) · `en`
+
+President Anura Kumara Dissanayake has highlighted the critical challenge of transforming Sri Lanka’s public service into an efficient state mechanism. He pointed out that the newly appointed committee tasked with reviewing state institutions would make decisions without being influenced by political pressures.
+
+The President shared these views while addressing the District Secretaries and Divisional Secretaries conference today (20) at the Ministry of Home Affairs Auditorium, located in the “Nila Medura” building in Narahenpita,  the President’s Media Division (PMD) reported.
+
+President Dissanayake noted that the public service, which has undergone multiple name changes from Government Agents to District Secretaries, boasts a history of nearly 200 years. He emphasized its pivotal role in steering the country towards a new direction.
+
+...
+
+[Data](articles/e9127f8d.json)
+
+---
 
 ### Ransey's husband remanded for assaulting police
 
@@ -99,6 +149,22 @@ Meanwhile, Minister Vijitha Herath said that during a meeting with Prime Ministe
 [Data](articles/3cde05ab.json)
 
 [Extended Data](ext_articles/3cde05ab.ext.json)
+
+---
+
+### D.V. Chanaka appointed SLPP’s National Convenor
+
+*2024-12-20 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104381/dv-chanaka-appointed-slpps-national-convenor) · `en`
+
+SLPP Member of Parliament D.V. Chanaka has been appointed as the National Convenor of the Sri Lanka Podujana Peramuna (SLPP).
+
+The former state minister was appointed to the post of SLPP National Convenor during a meeting held at former President Mahinda Rajapaksa’s residence in Wijerama today (20).
+
+Meanwhile, former MP Johnston Fernando has been assigned with the responsibility of overseeing and organizing the appointments of new rural and divisional leaders of the party.
+
+◼️
+
+[Data](articles/067494aa.json)
 
 ---
 
@@ -2195,71 +2261,5 @@ The disparity is glaring when compared to the payments made to diesel and wind p
 ...
 
 [Data](articles/c480e01d.json)
-
----
-
-### Ravi, Asela appointed to DIMO Board
-
-*2024-12-20 05:33:18* · [`dailyftlk`](https://www.ft.lk/business/Ravi-Asela-appointed-to-DIMO-Board/34-770748) · `en`
-
-Diesel & Motor Engineering PLC (DIMO) has announced the appointment of Ravi Jayawardene and Asela Perera as Independent Non-Executive Directors with effect from 1 January 2025.
-
-Jayawardena is the current Group Chief Executive Officer at Maliban Group, which includes Maliban Biscuit Manufactories Ltd., Maliban Milk Products Ltd., Maliban Dairy and Agri Products Ltd., and Little Lion Associates Ltd., and is a key member of the senior strategic management team of the Maliban Group.
-
-He currently serves as an Independent Non-Executive Director of Cargills Bank PLC. He is also an Independent Director of the Postgraduate Institute of Management (PIM). He is a former Country Head of Sales at Coca-Cola Sri Lanka.
-
-...
-
-[Data](articles/f0071980.json)
-
----
-
-### Divasa Pharma emphasises compliance with all NMRA regulations
-
-*2024-12-20 05:31:24* · [`dailyftlk`](https://www.ft.lk/business/Divasa-Pharma-emphasises-compliance-with-all-NMRA-regulations/34-770747) · `en`
-
-Divasa Pharma Ltd., providing factual clarity on recent allegations made in Parliament, says the company was issued a license to sell medicine by wholesale by the National Medicines Regulatory Authority (NMRA) on 18 August 2018, which has been continuously renewed to date.
-
-Accordingly, Divasa Pharma Ltd. has been a local authorised distributor of George Steuart Health Ltd., for some of its products, including COVID-19 PCR and RAT kits. As such, Divasa Pharma has legitimately marketed and sold COVID-19 PCR and RAT kits to the local market including to public healthcare institutions and private healthcare institutions, under guidelines issued by the Health Ministry. These PCR and RAT Kits were sold at the NMRA stipulated price or less, the company said in a statement.
-
-“At no point has Divasa Pharma Ltd. imported any PCR or RAT kits to Sri Lanka,” it added.
-
-...
-
-[Data](articles/129ee39d.json)
-
----
-
-### Chitral Wijesinha appointed to Boards of Brown & Co., and Browns Investments
-
-*2024-12-20 05:31:05* · [`dailyftlk`](https://www.ft.lk/business/Chitral-Wijesinha-appointed-to-Boards-of-Brown-Co-and-Browns-Investments/34-770746) · `en`
-
-Chitral Wijesinha has been appointed to the Boards of Brown & Company PLC and Browns Investments PLC as Independent Non-Executive Director with effect from 1 January 2025.
-
-Chitral has over 27 years of experience in the financial services industry, specialising in managing investments for retail and wholesale clients. He possesses extensive expertise in banking and finance, with a particular focus on Treasury Management, Investment and Retirement Planning, and Superannuation.
-
-His deep understanding of industry practices, regulations, legislation, and market trends, combined with his knowledge of current market dynamics, enables him to consistently perform at a high standard.
-
-...
-
-[Data](articles/462fc8a3.json)
-
----
-
-### Godrej NX Pro Digi Lockers launched in SL
-
-*2024-12-20 05:29:51* · [`dailyftlk`](https://www.ft.lk/business/Godrej-NX-Pro-Digi-Lockers-launched-in-SL/34-770745) · `en`
-
-Elite Radio & Engineering Co., Ltd., trusted since 1959 has introduced the Godrej NX Pro Digi Lockers, the ultimate solution for home and hotel security.
-
-With a sleek and compact design, these lockers offer advanced features like a Digital Locking System, LED Indicators, and Dual Access, ensuring top-notch protection and user-friendly operation.
-
-Available in sizes 15L, 25L, 30L, and 40L, these lockers provide ample storage capacity in a sturdy, space-efficient build. Perfect for safeguarding cash, jewellery, and important documents, they combine spacious design with enhanced security and emergency access options.
-
-“Starting at just Rs. 42,000.00 + VAT, the Godrej NX Pro Digi Lockers are a smart investment in your peace of mind,” a spokesman said.
-
-◼️
-
-[Data](articles/69aa78a2.json)
 
 ---

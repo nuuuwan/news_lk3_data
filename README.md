@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 23:43:32**
+As of **2024-12-21 00:02:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,011 (99.6%) of 61,246 articles have been extended.
+61,013 (99.6%) of 61,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -548,6 +548,8 @@ Both countries signed deals to avoid double taxation and train 1,500 Sri Lankan 
 
 [Data](articles/1f4a635b.json)
 
+[Extended Data](ext_articles/1f4a635b.ext.json)
+
 ---
 
 ### There are many investments in Sri Lanka
@@ -837,6 +839,8 @@ Dissanayake, and his People’s National Party, received a large number of publi
 ...
 
 [Data](articles/f665ea34.json)
+
+[Extended Data](ext_articles/f665ea34.ext.json)
 
 ---
 

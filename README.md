@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 14:16:00**
+As of **2024-12-20 14:42:35**
 
 ## Newspaper Stats
 
-*Scraped **61,169** Articles*
+*Scraped **61,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,833
 adaderanalk | 7,455
-tamilmirrorlk | 8,749
+tamilmirrorlk | 8,750
 virakesarilk | 10,089
 adaderanasinhalalk | 10,557
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,955 (99.7%) of 61,169 articles have been extended.
+60,957 (99.7%) of 61,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### வாஸ் குணவர்தன உள்ளிட்ட ஐவருக்கு விதிக்கப்பட்ட மரண தண்டனை உறுதியானது
+
+*2024-12-20 14:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாஸ்-குணவர்தன-உள்ளிட்ட-ஐவருக்கு-விதிக்கப்பட்ட-மரண-தண்டனை-உறுதியானது/175-349008) · `ta`
+
+தொழிலதிபர் மொஹமட் ஷியாம் கொலை சம்பவம் தொடர்பில் முன்னாள் பிரதி பொலிஸ் மா அதிபர் வாஸ் குணவர்தன உட்பட ஐந்து பிரதிவாதிகளுக்கு கொழும்பு மேல் நீதிமன்றத்தின் மூவரடங்கிய நீதிபதி குழாம் விதித்த மரண தண்டனையை, உயர் நீதிமன்றம் உறுதி செய்துள்ளது.
+
+முன்னாள் பிரதி பொலிஸ் மா அதிபர் வாஸ் குணவர்தன, அவரது மகன் ரவிந்து குணவர்தன மற்றும் குறித்த வழக்கில் குற்றஞ்சாட்டப்பட்ட ஐவரும் சிறைச்சாலை அதிகாரிகளினால் நீதிமன்றில், இன்று முன்னிலைப்படுத்தப்பட்டனர்.
+
+குறித்த தண்டனைக்கு எதிராக பிரதிவாதிகள் முன்வைத்த மேன்முறையீட்டு மனுக்களை உயர் நீதிமன்றம் நிராகரித்துள்ளதாக, கொழும்பு மேல் நீதிமன்ற நீதிபதி ஆதித்ய படபாண்டிகே, பிரதிவாதிகளுக்கு அறிவித்தார்.
+
+அதன்படி, கொழும்பு மேல் நீதிமன்றத்தின் மூவரடங்கிய நீதிபதிகள் குழுவினால் விதிக்கப்பட்ட மரண தண்டனையை உயர் நீதிமன்றம் உறுதி செய்துள்ளதாக, பிரதிவாதிகளுக்கு நீதிபதி ஆதித்ய படபாண்டிகே தெரிவித்தார். AN
+
+◼️
+
+[Data](articles/71b34038.json)
+
+---
 
 ### Permit Permission to import rice
 
@@ -110,19 +128,25 @@ At the time, 360 kg of rice, including 21 kg of rice and 05 kg of rice, were fou
 
 ---
 
-### ඉන්දියාව හා ශ්‍රි ලංකාව යා කරන තෙල් නළය ඉදි කිරිමට එකඟවිමක් වූයේ නෑ
+### India and Sri Lanka were not agree to construct the oil pipe
 
 *2024-12-20 12:38:13* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාව-හා-ශ්‍රි-ලංකාව-යා-කරන-තෙල්-නළය-ඉදි-කිරිමට-එකඟවිමක්-වූයේ-නෑ/11-413751) · `si`
 
-ඉන්දියාව හා ශ්‍රී ලංකාව යා කරමින් ඉදිකිරිමට යෝජිත තෙල් නළ මාර්ගය ඉදිකිරිම සම්බන්ධයෙන් අවසන් තිරණයකට ජනපතිවරයාගේ ඉන්දිය සංචාරයේදි නොපැමිණි බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පැවැසීය.
+India, Sri Lanka disagree on oil pipeline construction. Foreign Affairs Minister Vijitha Herath states no final decision made. Mentioned Anura Kumara Dissanayake's proposal involving UAE assistance.
 
-ජනපතිවරයාගේ ඉන්දිය සංචාරය සම්බන්ධයෙන් දැනුවත් කිරිමට රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ  පැවැති මාධ්‍ය හමුවේදී ඔහු මේ බව පැවැසියට.
+🟩
 
-ඉන්දියාව හා ශ්‍රි ලංකාව යා කරන තෙල් නළයක් එක්සත් අරාබි එමිර් රාජ්‍යයේද සහාය ඇතිව ඉදි කිරීම පිළිබඳව වූ යෝජනාවක් සම්බන්ධයෙන් වූ සාකච්ඡා ඉදිරියට ගෙන යාමට පමණක් අනුර කුමාර දිසානායක මහතාගේ ඉන්දීය සංචාරයේදි එකඟ වූ බව අමාත්‍යවරයා මෙහිදි වැඩිදුරටත් පැවැසිය.
+Foreign Affairs Minister Vijitha Herath said that India and Sri Lanka had not come to a final decision on the construction of the fuel pipeline.
+
+He was speaking at a press conference held at the Government Information Department to educate the President's visit to India.
+
+The Minister further stated that Anura Kumara Dissanayake agreed to proceed with a proposal on India and Sri Lanka with the assistance of the construction of the United Arabian Emer state.
 
 ◼️
 
 [Data](articles/ee5b964e.json)
+
+[Extended Data](ext_articles/ee5b964e.ext.json)
 
 ---
 
@@ -621,6 +645,8 @@ Nigerian President Bola Tinubu expressed his condolences through a statement fro
 ...
 
 [Data](articles/62ae1baa.json)
+
+[Extended Data](ext_articles/62ae1baa.ext.json)
 
 ---
 
@@ -2173,31 +2199,5 @@ President Anura Kumara Dissanayake visited the St. Sebastian Church in Katuwapit
 [Data](articles/28fadde1.json)
 
 [Extended Data](ext_articles/28fadde1.ext.json)
-
----
-
-### We expect the current president to create a new constitution and pass it- former Speaker Karujayasuriya
-
-*2024-12-19 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/201693) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Speaker Karujayasuriya expects current president to create new constitution, citing former President Chandrika Bandaranaike Kumaratunga's failed attempt. He hopes this will bring national unity and economic/social change. The statement was made during an event providing cancer relief, commemorating victims of a 1998 suicide bombing in Colombo.
-
-🟩
-
-If the constitution was passed by former President Chandrika Bandaranaike Kumaratunga, the country would have improved today. Former Speaker Karujayasuriya said he expects the current president to fulfill it.
-
-The event was held on Wednesday (18) to provide relief to the Maharaka Indira Cancer Eradication Organization, which was aimed at former President Chandrika Bandaranaike Kumaratunga in Colombo 25 years after the suicide bombing in Colombo.. He said this while addressing the event.
-
-Former Speaker Karu Jayasuriya, former President Chandrika Kumaratunga, has forgotten the efforts to create a new constitution and create national unity.. He has held 21 meetings for this. I have also participated in them. No politician has expressed opposition to that constitution.
-
-...
-
-[Data](articles/7d3069df.json)
-
-[Extended Data](ext_articles/7d3069df.ext.json)
 
 ---

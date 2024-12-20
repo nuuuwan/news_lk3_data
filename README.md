@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 03:12:06**
+As of **2024-12-21 03:42:44**
 
 ## Newspaper Stats
 
-*Scraped **61,264** Articles*
+*Scraped **61,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
 tamilmirrorlk | 8,756
-virakesarilk | 10,108
+virakesarilk | 10,110
 adaderanasinhalalk | 10,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,029 (99.6%) of 61,264 articles have been extended.
+61,031 (99.6%) of 61,266 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,46 @@ Are we ready to rebuild the structure?Or not?President Anura Kumara Dissanayake 
 [Data](articles/15509741.json)
 
 [Extended Data](ext_articles/15509741.ext.json)
+
+---
+
+### The detention of 12 of Myanmar refugees in the coastal boat
+
+*2024-12-21 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201776) · `ta`
+
+Myanmar refugees detained in Sri Lanka: 12 held, 103 others admitted to refugee center. Court orders registration under Immigration Act.
+
+🟩
+
+The 115 Rohingyas from Myanmar were taken to the Trincomalee Ashraf landing department from Mullaitivu on Friday (20) and handed over to the Trincomalee Department of Police.
+
+After investigating the voting of the passengers on the boat, the Trincomalee court was produced in the presence of Magistrate Abdul Salam Sahir.
+
+Attorney -at -Law. De. Sashni presented his application to the Justice to send them to the refugees in Nugegoda, the refugee shelter in Nugegoda.
+
+In response, the police ordered the police to send their application to the refugee camp on Saturday (21) as they could not be sent to the Mirigan area on Saturday (21).
+
+The Magistrate's police have ordered the police to register the case in accordance with the Immigration and Emigration Act, according to the Immigration Act.
+
+103 persons have been admitted to the appropriate school with the need for food health facilities.. They include women and boys.
+
+◼️
+
+[Data](articles/6fc9e68b.json)
+
+[Extended Data](ext_articles/6fc9e68b.ext.json)
+
+---
+
+### சாணக்கியன், சுமந்திரன் நோர்வே தூதுவருடன் கலந்துரையாடல்!
+
+*2024-12-21 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201775) · `ta`
+
+இந்தியாவுக்கும் இலங்கைக்குமான நோர்வே தூதுவரை H.E. May-Elin Stener, 20ஆம் திகதி வெள்ளிக்கிழமை சந்தித்து எமது மக்களின் பல முக்கிய விடயங்கள் மற்றும் சமகால அரசியல் தொடர்பாக தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியனும் முன்னாள் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதி சட்டத்தரணியுமான ம. சுமந்திரனுடன் சந்தித்து கலந்துரையாடினர்.
+
+◼️
+
+[Data](articles/f05a5767.json)
 
 ---
 
@@ -275,6 +315,8 @@ The discussion was moderated by University of Jaffna Senior Lecturer Dr. Mahendr
 ...
 
 [Data](articles/5e8aa961.json)
+
+[Extended Data](ext_articles/5e8aa961.ext.json)
 
 ---
 
@@ -2367,53 +2409,5 @@ Former Member of Parliament. Dileepan and his former secretary Dinesh have been 
 ...
 
 [Data](articles/0df29726.json)
-
----
-
-### IMF to review Sri Lanka’s recent tax revisions
-
-*2024-12-20 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104373/imf-to-review-sri-lankas-recent-tax-revisions) · `en`
-
-The International Monetary Fund (IMF) will review Sri Lanka’s recent tax revisions and a full assessment of these revisions will be included in the staff report, which will follow the Executive Board’s approval of the Extended Fund Facility (EFF) program for Sri Lanka, a spokesperson said.
-
-On November 23, IMF staff and the Sri Lankan authorities reached Staff-Level Agreement on the Third Review under the EFF arrangement and once the review is completed or approved by the IMF Executive Board, Sri Lanka will have access to $333 million.
-
-“With respect to what comes next, the Executive Board meeting is expected to take place in the coming months following the implementation by the authorities of the prior actions,” IMF spokesperson Julie Kozack said on Thursday responding to questions during a press briefing.
-
-...
-
-[Data](articles/33eeeff9.json)
-
----
-
-### Himali Arunatilleke has not committed any fraud - Minister Vijitha
-
-*2024-12-20 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204545) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan Minister denies fraud claims against diplomat Himali Arunatilleke. Minister states no personal fraud occurred regarding salary payments. Legal action taken by Australia against Arunatilleke. Government policy decision needed on this matter.
-
-🟩
-
-Minister Vijitha Herath says that allegations leveled against the former Deputy High Commissioner to the Australian High Commission, said.
-
-Addressing a media briefing in the Department of Government Information, the Minister said that she had not had any fraud about paying salary to a maid.
-
-Mrs. Himali Arytehilaka is currently serving as the Permanent Representative of the Geneva Human Rights Council and is still serving in the country.
-
-She was fined for $ 100,000 in the Federal Court of Australia against the Deputy High Commissioner of Australia as a Deputy High Commissioner to the Australian High Commission.
-
-The Minister said that he had not committed any private fraud on the matter and the salaries of the people who work for diplomats are paid for diplomatic people.
-
-Therefore, the Minister of Foreign and the Government will be a policy decision in the future as a government of the inconvenience of Himali Auntehika.
-
-...
-
-[Data](articles/d2691d4b.json)
-
-[Extended Data](ext_articles/d2691d4b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 10:43:10**
+As of **2024-12-20 11:26:46**
 
 ## Newspaper Stats
 
-*Scraped **61,140** Articles*
+*Scraped **61,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,234 @@ dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 645
 islandlk | 3,699
-economynextcom | 3,725
+economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,829
-adaderanalk | 7,450
+adalk | 5,830
+adaderanalk | 7,454
 tamilmirrorlk | 8,742
-virakesarilk | 10,086
-adaderanasinhalalk | 10,554
+virakesarilk | 10,089
+adaderanasinhalalk | 10,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,933 (99.7%) of 61,140 articles have been extended.
+60,938 (99.6%) of 61,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### அரிசி இறக்குமதி செய்வதற்கான கால அவகாசம் நீடிக்க தீர்மானம்
+### கலன்பிந்துனுவெவயில் உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது !
 
-*2024-12-20 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201709) · `ta`
+*2024-12-20 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201716) · `ta`
 
-அரிசியை இறக்குமதி செய்வதற்கு வழங்கப்பட்ட  கால அவகாசம்  2025 ஆம் ஆண்டு ஜனவரி மாதம் 10 ஆம் திகதி வரை நீடிக்க அரசாங்கம் தீர்மானித்துள்ளது.
+கலன்பிந்துனுவெவ, மொறகொட பிரிவுக்குட்பட்ட பிரதேசத்தில் உள்நாட்டுத் துப்பாக்கியை வைத்திருந்த சந்தேக நபர் ஒருவர் பொலிஸாரால் நேற்று வியாழக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
 
-எதிர்வரும் திங்கட்கிழமை நடைபெறவுள்ள அமைச்சரவைக் கூட்டத்தில் அது தொடர்பான இறுதி தீர்மானம் எடுக்கப்படும்.
+பொலிஸாருக்கு கிடைத்த தகவலொன்றுக்கமைய மொறகொட பொலிஸ் பிரிவின் மஹதிவுள்வெவ பகுதி வீடொன்றில் நடத்திய சுற்றிவளைப்பின் போது சந்தேக நபர் ஒருவரை கைது செய்துள்ளதுடன், சட்டவிரோத துப்பாக்கி ஒன்றையும் மொறகொட பொலிஸ் நிலைய குற்றத்தடுப்பு பிரிவு பொலிஸார் கைப்பற்றியுள்ளனர்.
 
-அரிசி இறக்குமதிக்கு வழங்கப்பட்டுள்ள கால அவகாசத்தை நீடிக்க நடவடிக்கை எடுப்பதாக அமைச்சரவைப் பேச்சாளர் நலிந்த ஜயதிஸ்ஸ நேற்று வியாழக்கிழமை (19) தெரிவித்திருந்தார்.
+◼️
 
-இதன்படி, அரிசி இறக்குமதியை நீடிப்பதற்கான வர்த்தமானி அறிவிப்பு எதிர்வரும் 24ஆம் திகதி வெளியிடப்படும் என குறிப்பிடப்பட்டுள்ளது.
+[Data](articles/1bc9bf16.json)
 
-அரிசி ஏற்றுமதிக்கு அரசாங்கம் வழங்கிய கால அவகாசம் இன்று வெள்ளிக்கிழமை  (20) நள்ளிரவு 12 .00 மணியுடன் நிறைவடைகிறது.
+---
 
-அரிசி இறக்குமதிக்கான கால அவகாசம் நீடிக்கப்படாவிட்டால், இன்றைய தினம் நள்ளிரவு 12 மணிக்குப் பின்னர் இலங்கைக்கு இறக்குமதி செய்யப்படும் அரிசி கையிருப்பை மீண்டும் ஏற்றுமதி செய்ய நேரிடும் என சுங்க ஊடகப் பேச்சாளர் மேலதிக சுங்கப் பணிப்பாளர் நாயகம் சிவலி அருக்கொட தெரிவித்தார்.
+### எனது தோல்விக்கு சமூக ஊடகங்களும் ஒரு காரணம் -  டக்ளஸ் தேவானந்தா
+
+*2024-12-20 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201713) · `ta`
+
+எனது தோல்விக்கு சமூக ஊடகங்களும் ஒரு காரணம் என முன்னாள் கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+
+இந்த தேர்தலில் எமக்கு பின்னடைவு ஏற்பட்டுள்ளது. அதனை சமாளிக்க அரசியலில் தற்காலிக ஓய்வு என்றும் கூறலாம். அமைச்சராக இருந்த போது, தலைக்கு மேலாக வேலை இருந்தது. தற்போது அது இல்லை.
+
+இதனால் கட்சிக்குள் உள்ள குறைப்பாடுகளை நீக்க அது தொடர்பில் ஆராய்கிறோம். குறைகளை நிவர்த்தி செய்ய நடவடிக்கை எடுத்துள்ளதுடன், கட்சியின் கொள்கை தொடர்பில் மக்கள் மத்தியில் கொண்டு செல்வதற்கும் நடவடிக்கைகளை எடுத்துள்ளோம். மிக விரைவில் கட்சியின் தேசிய மாநாட்டையும் நடாத்த உள்ளோம்.
+
+டக்ளஸின் வீழ்ச்சிக்கும், அநுராவின் எழுச்சிக்கும் சமூக வலைத்தளங்களே காரணம். சமூக வலைத்தளங்கள் ஊடாக எனக்கு எதிராக பொய்யான பரப்புரைகளை மேற்கொண்டனர்.
+
+என்னுடைய பெயரை பயன்படுத்தி அவர்கள் வருமானம் பெற்றுக்கொள்வதால், அவர்களின் வருமானத்தை தடுக்க விரும்பாததால், அவர்களின் வீடியோக்களை பெரிது படுத்தவில்லை.
+
+...
+
+[Data](articles/4a691e9c.json)
+
+---
+
+### The Supreme Court confirms the death penalty of the accused including Vaas
+
+*2024-12-20 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204543) · `si`
+
+Supreme Court confirms death penalty for Vaas and others. Former DIG Vass Gunawardena and son face execution for murdering businessman Mohammed Shyam. Appeals rejected; no specific execution date set; lawyer seeks presidential pardon. Colombo High Court Judge emphasizes Supreme Court's authority on final decree.
+
+🟩
+
+Former DIG Vass Gunawardena, including former DIG Vass Gunawardena, had confirmed the death penalty of the murder of millionaire businessman Mohammed Shyam today (20).
+
+Former DIG Vass Gunawardena, his son Ravindu Gunawardena, his son Ravindu Gunawardena, had been produced before the prison officials.
+
+The Colombo High Court Judge Advanced President informed the defendants that the Court of defendants had rejected the appeals by the defendants.
+
+Accordingly, the defendants have confirmed the death penalty of a three-member High Court Judge of Colombo and Adadi Paneenditha informed the defendants.
+
+The lawyer appearing on behalf of the accused, the lawyer pointed out that the Supreme Court not stated that the defendants would not specify the date of the punishment of the accused.
+
+If the defendants expect a presidential pardon, the lawyer, which was the most important day, was asked to issue an order on the date of the punishment.
+
+...
+
+[Data](articles/a8eb9a6b.json)
+
+[Extended Data](ext_articles/a8eb9a6b.ext.json)
+
+---
+
+### Is there an oil pipe in India?
+
+*2024-12-20 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204542) · `si`
+
+India does not have oil pipelines in Sri Lanka. Minister Vijitha Herath clarified during his visit, stating no agreement was made for oil pipelines between India and Sri Lanka. Construction work is ongoing between Sri Lanka and UAE.
+
+🟩
+
+Minister of External Affairs Vijitha Herath said that Indian fuel pipes were not in agreement in Sri Lanka during his visit to India.
+
+He was speaking at a special press conference held at the Government Information today (20th) this morning to announce the President's visit.
+
+The Minister said that India and Sri Lanka, Sri Lanka and the United Arab Emirates Kingdom also have the construction work.
+
+He said that he had come to the agreement proceeding.
+
+Apart from that, the creation of the news that an oil pipe was agreed to Sri Lanka was inaccurate.
+
+◼️
+
+[Data](articles/4a874876.json)
+
+[Extended Data](ext_articles/4a874876.ext.json)
+
+---
+
+### Deputy Minister discusses challenges hindering Sri Lankan industries’ growth with WB officials
+
+*2024-12-20 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104369/deputy-minister-discusses-challenges-hindering-sri-lankan-industries-growth-with-wb-officials) · `en`
+
+Deputy Minister of Industries and Entrepreneurship Development Chathuranga Abeysinghe has met with the World Bank’s Country Manager, Gevorg Sargsyan, and discussed several structural challenges that have hindered the growth of Sri Lankan industries over the past four decades.
+
+He said these include the absence of a national integrated industrial plan, limited access to capital for industrialists, weak institutional support for industrial growth, a lack of anti-dumping policies to protect local industries and the shortage of a skilled workforce essential for sustainable development.
+
+Furthermore, the discussion has also addressed contemporary issues, including the adverse impacts of recent tax policy changes and the challenges arising from non-performing debts.
+
+In addition, the deputy minister said they outlined their strategic vision for industrial development, short-term goals, and the specific forms of assistance that are required to achieve these objectives.
+
+...
+
+[Data](articles/d8ba0fa7.json)
+
+---
+
+### Foreign Minister’s special press conference
+
+*2024-12-20 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104368/foreign-ministers-special-press-conference) · `en`
+
+Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath is currently holding a special press conference to provide insights into President Anura Kumara’s recent visit to India.
+
+◼️
+
+[Data](articles/62dd7003.json)
+
+---
+
+### Yall. A man arrested for allegedly biting a hospital guard
+
+*2024-12-20 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201711) · `ta`
+
+Man arrested for biting hospital guard in Jaffna. Incident occurred during visitation. Police intervened after guards were attacked. Suspect handed over to Jaffna police station.
+
+🟩
+
+A man was arrested on Thursday (19) on charges of biting a Jaffna Teaching Hospital guard.
+
+After the teaching hospital visitor ended, the person who tried to get into the patient's hostel was stopped by the hospital guards, who had been booked with the guards and bitten one of them.
+
+Following the other guards, the police arrested the man and handed it over to the Jaffna police.
+
+◼️
+
+[Data](articles/bb16ea92.json)
+
+[Extended Data](ext_articles/bb16ea92.ext.json)
+
+---
+
+### Sri Lanka automotive sector group explore Thailand business opportunities
+
+*2024-12-20 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-automotive-sector-group-explore-thailand-business-opportunities-195350/) · `en`
+
+ECONOMYNEXT – Representatives from nine Sri Lankan automotive sector companies visited Thailand recently on an exposure and study tour, to explore business opportunities and strategies for entering the Thai automotive market.
+
+This was organized by the Export Development Board, the Sri Lanka Embassy in Thailand, the Sri Lanka Automobile Component Manufacturers Association, and the Thai-Sri Lanka Chamber of Commerce.
+
+“The main objective of the program was to enhance participants’ knowledge of the automotive components sector while providing exposure to emerging market trends and potential business opportunities,” the EDB said in a statement.
+
+The group toured key automotive industry sites, including the SAIC Motor – MG car manufacturing plant.
+
+“The visit provided firsthand insights into vehicle assembly technologies, including electric, hybrid, and conventional vehicles. Participants observed advanced machinery and assembly lines with an annual production capacity exceeding 40,000 units.”
+
+...
+
+[Data](articles/fee1f901.json)
+
+[Extended Data](ext_articles/fee1f901.ext.json)
+
+---
+
+### Decision to prolong the time period of importing rice
+
+*2024-12-20 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201709) · `ta`
+
+Sri Lanka extends rice import deadline to Jan 10, 2025. Cabinet to decide on Monday. Gazette notice on Nov 24. Rice export ban ends Fri noon. Private sector imported 35,600 MT so far. State reserves 52,000 MT incoming. Sathosa has 10,400 MT in market.
+
+🟩
+
+The government has decided to extend the period of time to import rice until January 10, 2025.
+
+A final decision will be taken at the Cabinet meeting to be held on Monday.
+
+Cabinet spokesman Nalinda Jayatissa said yesterday (19) that steps are being taken to extend the time being given to rice imports.
+
+Accordingly, the gazette notification for the extension of rice imports will be released on the 24th of this month.
+
+The government's deadline for rice exports ends at 12:00 pm on Friday (20).
+
+Customs Media Spokesperson Sivali Arukoda said that if the time for the import of rice imports is not extended, the rice imported rice imported to Sri Lanka will be re -exported after 12 midnight.
+
+The private sector has imported 35,600 metric tonnes of rice to Sri Lanka until yesterday afternoon.
+
+The Customs spokesman said there were about 20,000 metric tonnes of the queen and 16,000 metric tons of red.
 
 ...
 
 [Data](articles/66d58158.json)
+
+[Extended Data](ext_articles/66d58158.ext.json)
+
+---
+
+### CBSL names 20 institutions being investigated over prohibited schemes
+
+*2024-12-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104367/cbsl-names-20-institutions-being-investigated-over-prohibited-schemes) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has initiated proactive measures to address the alarming increase in prohibited schemes, which poses risks to the financial system stability and protection of the general public from such schemes.
+
+These measures include conducting investigations under Section 83C(3) of the Banking Act to identify individuals or entities that have contravened or may contravene the provisions of Section 83C(1), which prohibits the initiation, promotion, advertisement, conduct, financing, management, or direction of such schemes.
+
+By using its investigative powers CBSL aims to effectively identify and mitigate violations, thereby safeguarding the integrity of the financial sector and protecting the public, said CBSL in a statement.
+
+Additionally, CBSL has provided law enforcement authorities with information, documents, books, and records obtained during these investigations, supporting the prosecution of those violating Section 83C(1).
+
+...
+
+[Data](articles/92f87cad.json)
 
 ---
 
@@ -70,6 +260,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Crowd crush kills 35 children at funfair in Nigeria, police say
+
+*2024-12-20 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104366/crowd-crush-kills-35-children-at-funfair-in-nigeria-police-say) · `en`
+
+At least 35 children were killed and six others critically injured in a crowd crush at a funfair in southwest Nigeria on Wednesday, police said.
+
+Eight people have been arrested for their alleged involvement in the incident at the Islamic school in the city of Ibadan, an Oyo state police spokesperson said in a statement Thursday.
+
+The event’s main sponsor is among those detained, police said.
+
+According to local radio station Agidigbo FM, the organizers of the event – identified as the Women in Need of Guidance and Support (WING) – expected to host 5,000 children under the age of 13 at the free event, where they could win prizes like scholarships.
+
+Nigerian President Bola Tinubu expressed his condolences through a statement from his spokesperson, state news agency NAN News reported.
+
+...
+
+[Data](articles/62ae1baa.json)
+
+---
+
 ### முள்ளிவாய்க்காலில் கரை ஒதுங்கிய மியன்மார் படகு திருகோணமலை துறைமுகத்தை வந்தடைந்தது
 
 *2024-12-20 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201707) · `ta`
@@ -83,6 +293,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1a4cdbe5.json)
+
+---
+
+### Sri Lanka’s China-backed Hambanota industrial park gets mattress export firm
+
+*2024-12-20 09:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambanota-industrial-park-gets-mattress-export-firm-195405/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hambantota International Port Group said its industrial park has got a 25 million dollar investment for a mattress producing factory that will export 7,000 containers of products a year.
+
+Comfort Mattress Lanka will construct a 62,000-square-meter factory to make sponge mattress manufacturing on a 30-year renewable lease agreement with HIGP.
+
+It will import raw materials through global supply chain involving South East Asia and China and make the product in Sri Lanka for export.
+
+Firms in the industrial zone will be able to use the container terminal in the Hambantota Port, Chief Executive Wilson Qu said in a statement.
+
+“The container yard we are developing will handle transhipment and strengthen HIP’s positioning as a gateway port,” he said.
+
+“We anticipate heightened interest in the industrial park over the coming years, and as Sri Lanka’s economy stabilises, we foresee industries outside the port taking advantage of HIP’s strategic location.”
+
+...
+
+[Data](articles/4acb42a9.json)
 
 ---
 
@@ -169,6 +401,30 @@ Since the government granted permission for rice importation on December 4, the 
 ...
 
 [Data](articles/9840c7d9.json)
+
+---
+
+### Sri Lanka rupee opens flat at 292.90/293.00 to US dollar, bonds steady
+
+*2024-12-20 09:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-90-293-00-to-us-dollar-bonds-steady-195368/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 292.90/293.30 to the US dollar in the spot market, from the previous day, while bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent, down from 9.45/55 percent.
+
+A bond maturing on 15.10.2027 was quoted at 9.75/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/20 percent, up from 10.10/15 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.20/30 percent, down from 10.20/25 percent.
+
+In equities, the All Share Price Index was up 0.32 percent or 46.88 points, at 14,701.
+
+The more liquid S&P SL20 was up 0.47 percent, or 20.74 points, at 4,410.
+
+◼️
+
+[Data](articles/d60cb792.json)
 
 ---
 
@@ -298,7 +554,7 @@ The Department of Meteorology has advised the general public to take steps to re
 
 ---
 
-### ක්ලීන් ශ්‍රී ලංකා බලකායට සාමාජිකයන් 18ක්
+### ක්ලීන් ශ්‍රී ලංකා බළකායට සාමාජිකයන් 18ක්
 
 *2024-12-20 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204539) · `si`
 
@@ -317,6 +573,28 @@ The Department of Meteorology has advised the general public to take steps to re
 ◼️
 
 [Data](articles/f35b4bef.json)
+
+---
+
+### Sri Lanka extends exchange controls devised by central bank till June
+
+*2024-12-20 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-exchange-controls-devised-by-central-bank-till-june-195357/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved and extension of exchange controls in a proposed by the central bank to extend for six months exchange controls which expired on December 19.
+
+The cabinet has approved extending the exchange control regulation for another six months.
+
+The exchange controls have been revised, a post-cabinet statement said without specifying the changes.
+
+The June 2024 regulations were also less tighter than the earlier ones.
+
+Sri Lanka and other central banks which go to the International Monetary Fund regularly impose exchange control on the people due to deep flaws in their operating framework where monetary policy is in fundamental conflict with exchange rate policy.
+
+When the policy conflicts intensify due to open market operations to narrowly target a policy rate, exchange controls are intensified instead of correcting monetary policy.
+
+...
+
+[Data](articles/8ff2760f.json)
 
 ---
 
@@ -458,6 +736,28 @@ On 17 December 2024, Idampitiyegedara Wanigasuriya Mudiyanselage Jagath Wickrama
 
 ---
 
+### Sri Lanka to review role of 115 state entities costing Rs140bn a year
+
+*2024-12-20 06:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-review-role-of-115-state-entities-costing-rs140bn-a-year-195228/) · `en`
+
+ECONOMYNEXT – Sri Lanka will review the role of 115 state entities which cost 140 billion rupees a year to maintain, Cabinet Spokesman Nalinda Jayatissa said.
+
+Sri Lanka now has 86 departments, 25 district secretariats, and 339 divisional secretariats; 340 enterprises owned by the government and 115 non-commercial state statutory institutions other than police.
+
+“There are boards, commissions, foundations, universities and statutory entities,” Jayatissa said.
+
+“In the 2024 budget, 140 billion rupees was allocated for these entities.”
+
+The 115 non-commercial state statutory institutions come under the supervision of the Department of National Budget and 51 institutions under the Department of Public Enterprises.
+
+The purpose of these establishments has decreased over time, or the entities have lost its timeliness, and they lack or have very little power to initiate programs, and sometimes overlap with other establishments, Jayatissa said.
+
+...
+
+[Data](articles/b80b20e2.json)
+
+---
+
 ### “Will ensure 2022-23 crisis never recurs in Sri Lanka”: President tells Parliament
 
 *2024-12-20 06:09:49* · [`dailyftlk`](https://www.ft.lk/opinion/Will-ensure-2022-23-crisis-never-recurs-in-Sri-Lanka-President-tells-Parliament/14-770755) · `en`
@@ -528,13 +828,13 @@ However, less than a month after the last General Election, this very principle 
 
 *2024-12-20 05:36:52* · [`dailyftlk`](https://www.ft.lk/opinion/Proposed-personal-income-tax-change-benefits-extended-to-all-Suresh-Perera/14-770750) · `en`
 
-KPMG Sri Lanka Principal – Tax and Regulatory Suresh R.I. Perera
-
 KPMG Sri Lanka Principal – Tax and Regulatory Suresh R.I. Perera speaks about the change to be introduced to the personal income tax structure and its impact. He also explains the concept of 18% VAT on digital services
+
+KPMG Sri Lanka Principal – Tax and Regulatory Suresh R.I. Perera
 
 Q: Explain the change to be introduced to the personal income tax structure and the impact.
 
-A: Overall, irrespective of the quantum of the salary of the person everyone will experience a reduction in the taxes paid. Since the personal relief (tax free threshold) has increased from Rs. 100,000 to Rs. 150,000 per month, up to 150,000 per month salary there will not be any income tax payable. Any one receiving salary over Rs. 400,000 per month will experience a tax saving of Rs. 20,500 per month.
+Overall, irrespective of the quantum of the salary of the person everyone will experience a reduction in the taxes paid. Since the personal relief (tax free threshold) has increased from Rs. 100,000 to Rs. 150,000 per month, up to 150,000 per month salary there will not be any income tax payable. Any one receiving salary over Rs. 400,000 per month will experience a tax saving of Rs. 20,500 per month.
 
 ...
 
@@ -1891,359 +2191,5 @@ Wickremesinghe said that at the same time, relief must be provided to the people
 [Data](articles/415039b3.json)
 
 [Extended Data](ext_articles/415039b3.ext.json)
-
----
-
-### Youth arrested with drugs in Kandy
-
-*2024-12-19 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201680) · `ta`
-
-Kadugannawa police arrest 28-year-old youth in Kandy with 72g hash and 69g ice.
-
-🟩
-
-A youth has been arrested by Kadugannawa police on Wednesday (18) with hash and ice drugs in Madarankoda area belonging to the Kadugannawa police division in Kandy.
-
-The suspect has been arrested during a raid carried out on the basis of confidential information received by a group of police officers to Kadukannawa.
-
-The arrested suspect is a 28 -year -old youth from Veelagama, Kandy.
-
-72 grams of 390 milligrams of hash from the suspect and 69 grams of 110 milligrams of ice have been seized by the police.
-
-◼️
-
-[Data](articles/4ebb0e77.json)
-
-[Extended Data](ext_articles/4ebb0e77.ext.json)
-
----
-
-### Ritmanu challenged another's MP post
-
-*2024-12-19 18:03:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றொருவரின்-எம்-பி-பதவியை-சவாலுக்கு-உட்படுத்தி-ரிட்மனு/175-348969) · `ta`
-
-Writ petition challenges MP eligibility due to university employment conflict.
-
-🟩
-
-A writ petition has been filed in the High Court, challenging the post of another MP.
-
-Minister of Rural Development, Social Security and Social Reinforcement. Upali Pannilake, Member of Parliament (MP) is not eligible. The petition states that he is the minister and is not eligible to hold office.
-
-In the writ petition, it was mentioned that he was an employee at Ruhunu University when he was appointed as a Member of Parliament and the Cabinet Minister.
-
-The petition has been filed by social and political activist Osala Herath. In the wine, the minister. Upali Pannilake (First Deputy), Parliamentary Secretary General Kushani Anusha Rohanadeera, Professor of Ruhunu University. Sujeeva Amarasena, Rukunu University and the Attorney General have been referred to as defendants.
-
-Doctor. Upali Pannilake is an official of the Public Corporation, he is not eligible to be elected as a Member of Parliament based on the Constitution or to vote in Parliament.
-
-...
-
-[Data](articles/5c53e1a7.json)
-
-[Extended Data](ext_articles/5c53e1a7.ext.json)
-
----
-
-### Sri Lanka to conduct population census from Dec 19 to 23
-
-*2024-12-19 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-conduct-population-census-from-dec-19-to-23-195334/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s statistics office said its representatives are visiting homes from December 19 to 23 to conduct a population census of the country, after completing a count of homeless people on December 18.
-
-The Department of Census and Statistics said it expected public support to complete the census.
-
-“They will collect data on population size, geographic distribution, education levels, language skills, computer literacy, reading and writing skills, job descriptions, physical and mental disabilities, as well as housing information,” the statement said.
-
-“All Census Officers are bound not to disclose the personal information obtained from you to any party.”
-
-The data will be used in the country’s national policy formulation, planning and public administration mechanism, the department said.
-
-The census is conducted every ten years. The collection of information is scheduled to end on December 23.
-
-...
-
-[Data](articles/c985dbdb.json)
-
-[Extended Data](ext_articles/c985dbdb.ext.json)
-
----
-
-### Investigations search for Jude Shamantha Jayama
-
-*2024-12-19 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204528) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Supreme Court hears Mail Park murder case appeal. Attorney General informs court of ongoing investigations led by international police. Three-judge panel to report back on March 12th.
-
-🟩
-
-The Attorney General has informed the Supreme Court today (19) that the defendant of the Royal Shamha Jayamaha, who has been sentenced to death in the Mail Park murder case.
-
-The Supreme Court had been imposed by the Supreme Court who had been asked by the Supreme Court of the Women's Media Union and that the Constitution has been contradicted to the Constitution.
-
-The Supreme Court said that the Attorney General had then informed the court to inform the court of action.
-
-Accordingly, the petition was called before the Supreme Court Judge Shiran Gunaratne and Priyantha Fernando and Priyantha Fernando.
-
-The State Counsel appearing on behalf of the Attorney General have informed the court that investigations have been started through the International Police to uncover this accused.
-
-In addition, the State Counsel has informed the court that investigating the functioning of the accused.
-
-He added that these matters have been informed the court through a motion.
-
-...
-
-[Data](articles/3a36dc51.json)
-
-[Extended Data](ext_articles/3a36dc51.ext.json)
-
----
-
-### බෙන්තොට රෝහලේ ඊ.සී.ජි. යන්ත්‍රය හොරු ගෙනිහින්
-
-*2024-12-19 17:30:36* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-රෝහලේ-ඊ-සී-ජි--යන්ත්‍රය-හොරු-ගෙනිහින්/11-413747) · `si`
-
-බෙන්තොට රජයේ රෝහලේ හදිසි ප්‍රතිකාර අංශයේ තිබූ රුපියල් දෙලක්ෂ විසිපන්දාහක් පමණ වටිනා ඊ.සී.ජී. යන්ත්‍රය ඊයේ  (18) රාත්‍රියේ කිසිවෙකු විසින් සොරාගෙන ගොස් ඇතැයි බෙන්තොට පොලිසිය කියයි.
-
-ඊයේ (18) රාත්‍රී අටට පමණ මෙම යන්ත්‍රයෙන් රෝගියකු පරීක්ෂා කළ බවත් අළුයම දෙකට පමණ වන විට එම යන්ත්‍රය තිබූ ස්ථානයේ නොතිබූ බවත් සඳහන් කරමින් රෝහලේ රාත්‍රී සේවයේ යෙදී සිටි හෙද නිලධාරිනියක විසින් අද (19) පොලීසියට පැමිණිල්ලක් කර ඇතැයි පොලීසිය පැවසීය.
-
-මෙම රෝහලේ ආරක්ෂක නිලධාරීන් හෝ මුරකරුවන් නොමැති බවත්  සිද්ධිය වූ අවස්ථාවේ එය තිබූ ඒකකයේ  ප්‍රධාන දොරටුව  අගුළු දමා වසා දමා තිබියදී මෙම සොරකම සිදුවී ඇති බවත් පොලිසිය කියයි .
-
-බෙන්තොට පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක තුෂාර කාරියවසම් ,අපරාධ අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක ධනංජය රාජපක්ෂ යන මහත්වරු සිද්ධිය පිළිබඳව විමර්ශන කටයුතු සිදුකරති.
-
-◼️
-
-[Data](articles/039e58ef.json)
-
----
-
-### 82 million speaking speech to Ranil's security
-
-*2024-12-19 17:22:26* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්ගේ-ආරක්ෂාවට-මිලියන-82ක්-වැයවූ-කථාව-අසත්‍යලු/11-413746) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Statement clarifies 82mn spent on Ranil Wickremesinghe's security. Expenditure includes salaries, not just vehicles/fuel. Highest costs are for government servant and security personnel wages. No significant increase from previous years.
-
-🟩
-
-The office said that the claims that the security expenditure was spent on the security expenditure incurred on the security expenditure of former President Ranil Wickremesinghe was released in a statement.
-
-Additional expenditures were spent on the former President and that it was not only for vehicles and fuel and was not a significant amount.
-
-The highest amount of money is spent on salaries of government servants, the salary of security personnel, no matter what they do.
-
-Announcement that the estimated salary former President Ranil Wickremesinghe was spent on the security expenditure of former President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/8306ff3c.json)
-
-[Extended Data](ext_articles/8306ff3c.ext.json)
-
----
-
-### Sri Lanka relaxes one-year ban on foreign research ships amid geopolitical tussle
-
-*2024-12-19 17:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-relaxes-one-year-ban-on-foreign-research-ships-amid-geopolitical-tussle-195327/) · `en`
-
-ECONOMYNEXT – Sri Lanka has relaxed its one-year ban imposed on foreign research vessels coming into the island nation’s water for research purposes and future requests will be considered on case by case basis, Cabinet Spokesman said.
-
-The move comes amid China has been in the process to send its research ships into the Sri Lankan water belonging to the Indian Ocean, a move Indian has strongly raised concerns over the region’s security.
-
-“We are dealing with these two countries in a very diplomatic manner. We are very open,” Cabinet Spokesman Nalinda Jayatissa told reporters when asked the government’s stance on the foreign research vessel ban imposed last year after strong Indian objection to Chinese research vessels coming into Sri Lankan waters.
-
-“Whenever research vessels come, we can study, we can investigate (look into) it and we can negotiate with the relevant parties,” he said.
-
-...
-
-[Data](articles/ee54a80c.json)
-
-[Extended Data](ext_articles/ee54a80c.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 292.90/293.30 to dollar, bonds up
-
-*2024-12-19 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-90-293-30-to-dollar-bonds-up-195324/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 292.90/293.30 to the US dollar on Thursday after opening at 292.70/293.00 to the dollar, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 9.45/55 percent, up from 9.40/50 percent.
-
-A bond maturing on 15.09.2027 closed at 9.80/90 percent, up from 9.75/80 percent.
-
-A bond maturing on 15.09.2029 closed at 10.70/75 percent, up from 10.65/70 percent.
-
-A bond maturing on 01.12.2031 closed at 11.35/45 percent. (Colombo/Dec19/2024)
-
-◼️
-
-[Data](articles/5c3b6494.json)
-
-[Extended Data](ext_articles/5c3b6494.ext.json)
-
----
-
-### Sajith's educational qualifications to Hansard department
-
-*2024-12-19 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204527) · `si`
-
-Opposition Leader Sajith Premadasa's educational qualifications documents handed to Parliament's Hansard Department.
-
-🟩
-
-Steps and other documents relating to the educational qualifications of Opposition Leader Sajith Premadasa have been given to the Hansard Department of Parliament today (19).
-
-The Opposition Leader's office was informed of the media and said that Sajith Premadasa had taken measures and other matters.
-
-It is said that Minister Nalinda Jayatissa responded to the inquiry made by the Parliamentary Leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/6db4c39f.json)
-
-[Extended Data](ext_articles/6db4c39f.ext.json)
-
----
-
-### A secret report to the CID about the scholarship question paper
-
-*2024-12-19 17:04:33* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-ප්‍රශ්න-පත්‍රය-පිටවීම-ගැන-සී-අයි-ඩී-යේ-රහසිගත-වාර්තාවක්-අධිකරණයට/11-413745) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-CID report details 2001 scholarship exam cheating scandal. Four Fundamental Rights petitions filed against exam questions. Report handed to Supreme Court judges. Parents named as respondents. Court orders CID investigation.
-
-🟩
-
-The Criminal Investigation Department (CID) handed over a detailed report in detail information on the 2001 scholarship examination examination examination examination examination.
-
-The first question paper of the Year 5 scholarship examination last September was criminated by four fundamental rights petitions.When the Director of the Department of Investigations, Senior Superintendent of Police, I Merasha Mummali handed over the report to the Supreme Court.
-
-The petition was in the face of the judge of Yasantha Kodagoda, Kumuduni Wickremasinghe, and Arjuna Obeysekere.
-
-The Commissioner General of Examinations and several others have been named as the respondents from the parents of the Year 5 scholarship examination.
-
-The Supreme Court yesterday had ordered the Criminal Investigation Department at the time of the earliest investigations on the earlier of the announcement examination.The Superintendent of Police was produced in court Mali Mali.
-
-...
-
-[Data](articles/059ea32f.json)
-
-[Extended Data](ext_articles/059ea32f.ext.json)
-
----
-
-### The mother -in -law who punished the lips of the daughter -in -law
-
-*2024-12-19 16:56:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகளின்-உதடுகளை-தண்டித்த-மாமியார்/175-348966) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mother-in-law punishes daughter-in-law's lips over lipstick use. Daughter-in-law applies chili powder to lips. Incident occurs in a remote village in Galle district.
-
-🟩
-
-The lips of the daughter -in -law, especially the mother -in -law, were unable to see. She does not have the power to obviously resist it. The mother -in -law was unable to digest the daughter -in -law dressing in the money she had sent abroad.
-
-The mother -in -law knew that the son -in -law would go to the daughter -in -law, but the mother -in -law thought that the son should be patient.
-
-Whenever the daughter -in -law's lips were red, the mother -in -law had a green meal like the daughter -in -law ate meat. The daughter -in -law did not take it as a matter. The mother -in -law was angry at the incident despite not saying anything.
-
-The daughter -in -law, who was excited about the trip, opened the lip color tube and stood in front of the mirror and licked her lips.
-
-After a while, she grabbed the lips and said, "Buddha's mother, I could not delay," she ran towards the water pipe fitted in the kitchen to wash away the lips.
-
-...
-
-[Data](articles/d4b24bf8.json)
-
-[Extended Data](ext_articles/d4b24bf8.ext.json)
-
----
-
-### Boat carrying over 100 Myanmar refugees reaches Mullaitivu
-
-*2024-12-19 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104358/boat-carrying-over-100-myanmar-refugees-reaches-mullaitivu) · `en`
-
-A boat carrying over 100 refugees from Myanmar has reached the shores of the Mullivaikkal area in Mullaitivu, according to Sri Lanka Navy and Police officers in Mullaitivu.
-
-The refugees were reportedly being illegally transported from Myanmar to another country in the muti-day vessel when they had faced a shortage of food and water mid-sea, forcing the boat to land at the Mullivaikkal coast.
-
-Security authorities have confirmed that the Sri Lanka Navy is providing food and water to the refugees, and that the future course of action with regard to the refugees is under consideration.
-
-Police also revealed that nearly 25 children are among the refugees on board the vessel.
-
-◼️
-
-[Data](articles/43a9b2a6.json)
-
-[Extended Data](ext_articles/43a9b2a6.ext.json)
-
----
-
-### Sri Lanka stocks close up, S&P SL20 down due to profit taking in banks
-
-*2024-12-19 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-sp-sl20-down-due-to-profit-taking-in-banks-194991/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader ASPI closed up 0.27 percent, or 39.96 points, at 14,654.26; while the more liquid S&P SL20 Index closed down 0.32 percent, or 14.01 points, at 4,390.12.
-
-“Market remains bullish, there continuous volumes,” market participants said. “The S&P SL20 was down mainly because of some profit taking in banking stocks.”
-
-Top positive contributors to the ASPI were Ceylon Cold Stores (up at 76.80), PGP Glass Ceylon (up at 34.00), John Keells Holdings (up at 22.60), Dipped Products (up at 52.40) and Lanka IOC (up at 129.50).
-
-“Retail and high net worth individuals were seen driving buying sentiment, particularly in consumer stocks like LMF and CCS on the back of the government’s announcement of raising the PAYE threshold and the perception that consumers will now have more disposable income.”
-
-...
-
-[Data](articles/84184c5d.json)
-
-[Extended Data](ext_articles/84184c5d.ext.json)
-
----
-
-### Petition to the Court of Appeal demanding a locomotive of a minister
-
-*2024-12-19 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204526) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court of Appeal petition challenges Minister Dr. Upali Pannila's eligibility as MP due to alleged violation of constitutional law regarding government appointments.
-
-🟩
-
-The Court of Appeal has presented a petition to the issue of a balicitious writ commander to issue a parliamentary view of Hon. Dr. Upali Panilage.
-
-The petition was presented by the President of the New Thirty Front.
-
-Dr. Upali Pannila, Minister Dr. Upali Pannila, Minister of Dr. Upali Pannila, the Secretary General of Ruhuna University and its Vice President have been named as respondents.
-
-The petitioner says that Minister Dr. Upali Pannila was appointed as a National List MP and was appointed as a National List.
-
-The petition states that the Minister of Upali Pannila was a Member of Parliament, the petition states that he was serving as a social science professor at the University of Ruhuna.
-
-The appointment of a Member of Parliament as a Member of Government Member of Article 91 of the Constitution had been contrary to the law and it was not to be charged to Parliament.
-
-Accordingly, Minister Dr. Upali Pannila was not eligible to select and vote for the election and the Petitioner Appeal.
-
-◼️
-
-[Data](articles/ec797ca3.json)
-
-[Extended Data](ext_articles/ec797ca3.ext.json)
 
 ---

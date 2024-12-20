@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 05:51:05**
+As of **2024-12-20 06:48:17**
 
 ## Newspaper Stats
 
-*Scraped **61,108** Articles*
+*Scraped **61,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,187 @@ colombotelegraphcom | 620
 bbccomsinhala | 644
 islandlk | 3,699
 economynextcom | 3,725
-dailyftlk | 4,228
+dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,827
 adaderanalk | 7,447
-tamilmirrorlk | 8,736
+tamilmirrorlk | 8,737
 virakesarilk | 10,081
-adaderanasinhalalk | 10,550
+adaderanasinhalalk | 10,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,917 (99.7%) of 61,108 articles have been extended.
+60,918 (99.7%) of 61,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### Link Natural honoured at Best Corporate Citizen Sustainability Award 2024
+
+*2024-12-20 06:31:55* · [`dailyftlk`](https://www.ft.lk/business/Link-Natural-honoured-at-Best-Corporate-Citizen-Sustainability-Award-2024/34-770762) · `en`
+
+From left: Link Natural Products Head of Agriculture/ Manager – CSR and ER Priyantha Collonnege, Chief Operating Officer Chamari Wickramathilake, and Chief Executive Officer Ashan Ransilige accept award for Best Sustainability Projects Award 2024, at Best Corporate Citizen Sustainability Awards of Ceylon Chamber of Commerce
+
+Link Natural, a subsidiary of CIC Holdings, was honoured to declare its ongoing dedication to sustainability through the ‘Saara Osu’ project. Recently, the project was recognised with the Best Sustainability Projects Award 2024, at The Best Corporate Citizen Sustainability Awards organised by the Ceylon Chamber of Commerce.
+
+...
+
+[Data](articles/e25fbbdb.json)
+
+---
+
+### Align Dental Care pioneers Southeast Asia’s first certified Digital Smile Design clinic
+
+*2024-12-20 06:30:54* · [`dailyftlk`](https://www.ft.lk/business/Align-Dental-Care-pioneers-Southeast-Asia-s-first-certified-Digital-Smile-Design-clinic/34-770761) · `en`
+
+Align Dental Care has revolutionised dental aesthetics in Southeast Asia with its exclusive certification as the region’s only Digital Smile Design (DSD) clinic, combining artistry with innovation to craft confident and radiant smiles.
+
+“DSD is more than futuristic dental technology; it’s a life-changing experience.
+
+Our patients don’t just leave with a beautiful smile – they walk out with renewed confidence, improved oral health, and the emotional joy of seeing their dream smile come to life. This fusion of clinical precision and emotional satisfaction is what truly sets us apart,” said Align Dental Care Founder Dr. Nasar Abdul Wadood.
+
+...
+
+[Data](articles/8bdec7aa.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැස්ස
+
+*2024-12-20 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204536) · `si`
+
+අද (20) බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව, මධ්‍යම සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට සහ පොළොන්නරුව දිස්ත්‍රික්කවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින්තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර, ඌව පළාතේ ඇතැම් ස්ථානවලට මි.මී. 50 වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+මීට අමතරව මධ්‍යම, ඌව සහ නැගෙනහිර පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/106fae73.json)
+
+---
+
+### Salasi Lanka Engineering Services launches new website
+
+*2024-12-20 06:29:49* · [`dailyftlk`](https://www.ft.lk/business/Salasi-Lanka-Engineering-Services-launches-new-website/34-770760) · `en`
+
+Salasi Lanka Ltd., a leading private company engaged in the construction field since 2000 has announced the launch of its new web site www.sles.lk.
+
+Speaking at the launch of the website Salasi Lanka and Salasi Lanka Engineering Services Chairman U.A. Padukka said the main objective of introducing the www.sles.lk website is to give an opportunity to make the customers and the public and private institutions aware of the correct and latest construction activities offered by the above said companies.
+
+Padukka explained that through the launching of this website, customers can obtain the services from his companies without calling over at the companies, and to know about the projects relevant to the construction field in which Salasi Lanka Engineering Services plays its part and to obtain instructions regarding various items marketed by his companies.
+
+...
+
+[Data](articles/add9bc7d.json)
+
+---
+
+### Family Movers celebrates 35 years of happy moving experiences
+
+*2024-12-20 06:28:19* · [`dailyftlk`](https://www.ft.lk/business/Family-Movers-celebrates-35-years-of-happy-moving-experiences/34-770759) · `en`
+
+...
+
+[Data](articles/9ed998c3.json)
+
+---
+
+### Waqf or Habs? Urgent need for strong and independent Waqf Board
+
+*2024-12-20 06:26:44* · [`dailyftlk`](https://www.ft.lk/columns/Waqf-or-Habs-Urgent-need-for-strong-and-independent-Waqf-Board/4-770758) · `en`
+
+The Waqf Board’s role is not just to preserve property but to ensure that these assets are used effectively to benefit the community
+
+In recent times, the removal and appointment of Waqf Board members have become a subject of intense controversy, driven by political pressures that undermine the very essence of the Waqf system. This interference not only dilutes the authority of the Waqf Board but also threatens its role as a pillar of Islamic social welfare. The Waqf, as an institution founded on the principles of Sharia law, is meant to be a self-sustaining force for good, benefiting generations to come. Yet, when political motives enter the picture, the sanctity and independence of the Waqf are compromised, turning it into a mere shadow of its potential.
+
+...
+
+[Data](articles/acce6d52.json)
+
+---
+
+### Politics of MMDA reform and system change
+
+*2024-12-20 06:22:02* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-MMDA-reform-and-system-change/4-770757) · `en`
+
+The time is ripe for the new Government that is committed for system change to take up the issue of implementing those MMDA reforms
+
+“System change” was the magical slogan coined by the Aragalaya youth, and that slogan turned out to be the magnetic vote puller for Anura Kumara Dissanayake (AKD) and his National People’s Power (NPP) at the Presidential and General Elections respectively. Although in their public campaigns AKD and NPP identified the post-independence political culture of ethnonationalism and its corrupt system of governance as the two crucial areas to be ended or radically reformed through a social revolution there are also other elements under the old system that requires reforms. In respect of the Muslim community, the Muslim Marriage and Divorce Act (MMDA) of 1951 is one such area that requires urgent reforms.
+
+...
+
+[Data](articles/aa7181d3.json)
+
+---
+
+### Overview of Sri Lanka’s Speakers from Francis Molamure to Asoka Ranwala
+
+*2024-12-20 06:15:28* · [`dailyftlk`](https://www.ft.lk/columns/Overview-of-Sri-Lanka-s-Speakers-from-Francis-Molamure-to-Asoka-Ranwala/4-770756) · `en`
+
+Ranwala Arachchige Asoka Sapumal Ranwala blazed across the parliamentary skies of the Democratic Socialist Republic of Sri Lanka for a brief period. The National People’s Power (NPP) Gampaha district MP served as Sri Lanka’s Speaker from 21 November to 13 December 2024 for 22 days.
+
+As is well known Ranwala was in the eye of a political storm due to the authenticity of his higher educational qualifications being publicly disputed. He was challenged to prove that he had acquired a doctoral degree from Japan as claimed by him. Unable to do so, Asoka Ranwala had no choice other than to tender his resignation to President Anura Kumara Dissanayake.
+
+On 17 December 2024, Idampitiyegedara Wanigasuriya Mudiyanselage Jagath Wickramaratne was elected as Speaker. The election was unanimous. Dr. Jagath Wickramarathe who was elected on the NPP ticket from Polonnaruwa district is a medical doctor.
+
+...
+
+[Data](articles/ba601561.json)
+
+---
+
+### “Will ensure 2022-23 crisis never recurs in Sri Lanka”: President tells Parliament
+
+*2024-12-20 06:09:49* · [`dailyftlk`](https://www.ft.lk/opinion/Will-ensure-2022-23-crisis-never-recurs-in-Sri-Lanka-President-tells-Parliament/14-770755) · `en`
+
+Following is the full text of the special statement made by President Anura Kumara Dissanayake in Parliament on Wednesday
+
+Yesterday, we engaged in a robust three-hour debate on debt restructuring. That discussion provided an opportunity to outline the roadmap that has led us to the current stage and to highlight the achievements we have made thus far. I will not delve into lengthy explanations, but I must address a narrative being propagated, a narrative that seeks to instil fear by suggesting that Sri Lanka may face bankruptcy again in 2028. Let me state firmly: under our leadership, we will never allow a situation like 2022-23 to reoccur in our country. In 2028, this Government will still be in power, and we will have achieved stability and resilience.
+
+We are confident in our goal of increasing Sri Lanka’s foreign exchange reserves to USD 15.1 billion by 2028. This is not just an aspiration; it is a commitment that we are diligently working to fulfil.
+
+...
+
+[Data](articles/5c677291.json)
+
+---
+
+### How India and Sri Lanka can go from aid to trade
+
+*2024-12-20 06:06:29* · [`dailyftlk`](https://www.ft.lk/columns/How-India-and-Sri-Lanka-can-go-from-aid-to-trade/4-770754) · `en`
+
+Delhi-Colombo economic partnership can become a model for South Asia, enhance India’s Neighbourhood First Policy and its status as a regional power
+
+Sri Lanka’s new President Anura Kumara Dissanayake is on a State visit to India, his first foreign trip. Dissanayake was given a high ceremonial welcome by his counterpart, President Droupadi Murmu, and received with warmth by Prime Minister Modi at Rashtraprati Bhavan. In the joint statement released thereafter, India has pledged to supply LNG gas to Sri Lanka, enhance INR-LKR trade settlements between the two countries, boost education and technology exchanges and encourage Indian FDI in Sri Lanka.
+
+...
+
+[Data](articles/d330dec6.json)
+
+---
+
+### Beyond qualifications: Essence of leadership
+
+*2024-12-20 05:59:49* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-qualifications-Essence-of-leadership/4-770752) · `en`
+
+By balancing qualifications with real-world exposure and diverse experiences, organisations can promote a culture where innovation flourishes and resilience thrives
+
+In a world where academic achievements often overshadow other dimensions of human potential, the belief that qualifications alone define effective leadership is a widespread misconception. While degrees and certifications can indicate intellectual capability, they fail to capture the true essence of leadership. Authentic leadership transcends formal education; it is a complex interplay of emotional intelligence, empathy, vision, and the ability to inspire action. These attributes are cultivated through experience, exposure, self-awareness, and an innate understanding of human behaviour and societal dynamics.
+
+...
+
+[Data](articles/88c01f5a.json)
+
+[Extended Data](ext_articles/88c01f5a.ext.json)
+
+---
 
 ### Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025
 
@@ -313,6 +477,26 @@ Cool Planet lights up the holidays with festive cheer and seasonal collections
 ...
 
 [Data](articles/68f8068a.json)
+
+---
+
+### எலிக் காய்ச்சல் நோயால் 121 பேர் பாதிப்பு
+
+*2024-12-20 04:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்-காய்ச்சல்-நோயால்-121-பேர்-பாதிப்பு/175-348993) · `ta`
+
+யாழ். மாவட்டத்தில் எலிக்காய்ச்சல் நோய் காரணமாக இதுவரை 121 பேர் பாதிக்கப்பட்டுள்ளனர் என பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்தியகலாநிதி ஆ.கேதீஸ்வரன் குறிப்பிட்டுள்ளார்.
+
+தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 32 பேரும் யாழ் போதனா வைத்தியசாலையில் 8 பேரும் சிகிச்சைபெற்று வருகின்றனர்.
+
+கடந்த 24 மணிநேரத்தில் பருத்தித்துறை ஆதார வைத்தியசாலையில் 6 நோயாளர்களும், யாழ் போதனா வைத்தியசாலையில் 5 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
+
+எலிக்காய்ச்சல் நோய் வராமல் தடுப்பதற்காக தடுப்பு மருந்து வழங்கும் பணிகள் தொடர்ந்து இடம்பெற்று வருகின்றது.
+
+நேற்று முந்தினன் வரை ஏறத்தாழ 8300 பேருக்கு தடுப்பு மருந்துகள் வழங்கப்பட்டுள்ளன. மேலும் பாதிக்கப்பட்ட சுகாதார வைத்திய அதிகாரி பிரிவுகளில் காய்ச்சல் நோயாளர்களை இனங்காண்பதற்காக சுகாதாரப் பணியாளர்கள் வீடுவீடாகச் சென்று ஆய்வுகளை மேற்கொண்டு வருகின்றனர்.
+
+...
+
+[Data](articles/ecb890ea.json)
 
 ---
 
@@ -2173,275 +2357,5 @@ Accordingly, the financing will support the construction of 6 new grid substatio
 [Data](articles/f9291673.json)
 
 [Extended Data](ext_articles/f9291673.ext.json)
-
----
-
-### The government is ready to extend Limited days of importing rice
-
-*2024-12-19 15:24:05* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ආනයනය-සීමා-ලිහිල්-කිරීමේ-දින-දීර්ඝ-කිරීමට-රජය-සූදානම්/11-413738) · `si`
-
-Government extends limited rice import period, imports 22,000 metric tons, expects 10,000 more today.
-
-🟩
-
-Cabinet Publisher, Health and Mass Media Minister Dr. Nalinda Jayatissa said that 22,000 metric tons of rice have been imported.
-
-Addressing the Cabinet Decision in the Department of Government Information. He added that another 10,000 metrics of rice is to be received today.
-
-The Minister also said that the government is ready to extend limitations of the Limited Import of Rice regarding the value of the market.
-
-◼️
-
-[Data](articles/e3900d6b.json)
-
-[Extended Data](ext_articles/e3900d6b.ext.json)
-
----
-
-### $ 150 million loan to CEB from Asian Development Bank
-
-*2024-12-19 15:22:47* · [`adalk`](https://www.ada.lk/breaking_news/ආසියානු-සංවර්ධන-බැංකුවෙන්-ලංවිමට-ඩොලර්-මිලියන-150-ක-ණයක්/11-413737) · `si`
-
-Asian Development Bank lends $150m to Ceylon Electricity Board for electricity system improvement projects. Loan agreement signed Nov 19, 2024. Funds to enhance stability and support large-scale renewable energy initiatives. CEB serves 7.5 million consumers with 34,400 km transmission network.
-
-🟩
-
-The Asian Development Bank (ADB) was signed by the Ceylon Electricity Board (CEB) to sign agreements to the Ceylon Electricity Board in November 19, 2024. The main conclusion was carried out in October to obtain this loan through the Government of Sri Lanka.
-
-These projects are scheduled to conduct a number of essential projects to improve the stability of the country's electricity system.. There are also a number of essential transmission waves to be added to the large-scale renewable projects to be built in the future.
-
-Ceylon Electricity Board and its affiliated company distributes electricity to the 7.5 million consumers. The Transmission of the Ceylon Electricity Board (CEB) and the Transmission of Ceylon Electricity Board (CEB) consuming 34400 category transmission network consists of 90 grid subloads.
-
-◼️
-
-[Data](articles/5450c1e1.json)
-
-[Extended Data](ext_articles/5450c1e1.ext.json)
-
----
-
-### Two persons arrested for kidnapping beedi leaves in lorry
-
-*2024-12-19 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/201652) · `ta`
-
-Two men, aged 21 & 33, arrested for stealing 1204kg beedi leaves in a lorry. Police stopped & pursued vehicle in Polwatta area.
-
-🟩
-
-Two suspects have been arrested on Wednesday (18) for kidnapping beedi leaves in the Polwatta area belonging to the Puttalam and Wennappuwa police division.
-
-Some police officers of the Wennappuwa police station have tried to stop a suspicious lorry in the Polwatta area.
-
-Later, some police officers chased the lorry and arrested the suspects.
-
-The arrested suspects were 21 and 33 years old from Kandana and Kochchikadai.
-
-The lorry has been seized from 1,204 kg of beedi leaves, police said.
-
-◼️
-
-[Data](articles/50ad2d08.json)
-
-[Extended Data](ext_articles/50ad2d08.ext.json)
-
----
-
-### $ 150 million to come from Asian Development Bank
-
-*2024-12-19 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204522) · `si`
-
-Asian Development Bank lends $150m to Ceylon Electricity Board for power projects. Funds to build transmission lines, substations, and distribute electricity to 7.5 million customers.
-
-🟩
-
-The agreement was signed today (19) to the Ceylon Electricity Board (CEB) for the project for the projects of the Ceylon Electricity Board.
-
-The basic discussions of the Ceylon Electricity Board through the Government of Sri Lanka were carried out in October.
-
-Accordingly, the loan was approved in November last year.
-
-The Electricity Board (CEB) has planned to conduct a number of essential projects to improve the power stability of the country.
-
-It is expected to construct a number of essential transmission projects and several necessary transmission projects to collect to the large amount of renewable projects to be constructed in the country.
-
-Accordingly, 6 new grid subloads will be constructed, kilometer through this loan. 87 length k.V. Construction of Transmission Wire of 132 km. 45 k.v.220 converting transmission wire routes and increase the capacity of two substation substation.
-
-...
-
-[Data](articles/66451011.json)
-
-[Extended Data](ext_articles/66451011.ext.json)
-
----
-
-### Increase in deaths due to a heart attack in Vavuniya
-
-*2024-12-19 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/201645) · `ta`
-
-Heart attacks claim 45 lives at Vavuniya hospital from Jan-Oct. Most victims: 20-40 (13), 40-60 (13), 60-100 (31) years old. Health Dept cites various factors for surge.
-
-🟩
-
-The Vavuniya Health Department said that 45 people have died of a heart attack at the Vavuniya General Hospital from January to October this year.
-
-Accordingly, one of the 20s to 40 years of age, 13 people aged 40 to 60, and 31 out of 60 to 100 years of age, 45 have died of a heart attack.
-
-The Department of Health has stated various reasons for the recent increase in a heart attack in Vavuniya.
-
-◼️
-
-[Data](articles/023f853e.json)
-
-[Extended Data](ext_articles/023f853e.ext.json)
-
----
-
-### Increase of food allowance to pre -school minors
-
-*2024-12-19 15:02:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்பள்ளி-சிறார்களுக்கு-உணவு-கொடுப்பனவு-அதிகரிப்பு/175-348963) · `ta`
-
-Cabinet approves increase in breakfast payments for pre-schoolers from 60 to 100 rupees daily. Aim to provide food allowance to 155,000 pre-school children starting 2025.
-
-🟩
-
-The Cabinet has approved to increase the breakfast payments given to early child development centers and pre -school children since 2025.
-
-Accordingly, the government has decided to increase the 60 rupees per day per child to 100 rupees.
-
-In addition, steps have been taken to increase the number of pre -school children who receive food allowance to 155,000.
-
-This was announced at a press conference announcing the Cabinet decisions held today (19).
-
-◼️
-
-[Data](articles/a56a99d3.json)
-
-[Extended Data](ext_articles/a56a99d3.ext.json)
-
----
-
-### Don't he misconduate the Presidential Fund?
-
-*2024-12-19 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204521) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential Fund misuse alleged: Cabinet Spokesperson Nalinda Jayatissa reveals upcoming document detailing fund usage since 1978. Claims politicians misused funds for personal gain, including Chandrika Kumaratunga and current officials. Morality questioned as investigations planned.
-
-🟩
-
-Cabinet Spokesperson Minister Nalinda Jayatissa says another document will be released from the Presidential Fund.
-
-The Minister recently responded in parliament recently, a journalist asked a journalist at a media briefing.
-
-However, the Minister said that the Presidential Fund was unique to go.
-
-...
-
-[Data](articles/e9139482.json)
-
-[Extended Data](ext_articles/e9139482.ext.json)
-
----
-
-### Arrest of the man who drove the vehicle in the wrong direction
-
-*2024-12-19 14:36:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறான-திசையில்-வாகனத்தை-செலுத்தியவர்-கைது/175-348962) · `ta`
-
-Man drives car wrong direction on highway, causes traffic issue. Stopped by police, released after mental health assessment.
-
-🟩
-
-A man who drove the vehicle in the wrong direction on the Southern Highway (E01) was arrested by the Highway Highway Police on Wednesday (18).
-
-The car traveling from Mattala to Kottawa was parked in the southern high -speed highway service at Mattalai for treatment.
-
-A top official of the division said that the person who drove the vehicle had stopped using the restroom.
-
-Shortly after leaving the car to use the toilet, the mentally ill man drove the car with his family members in a false direction on the highway towards Matara Matara. This caused great discomfort to other motorists.
-
-The car traveled about five kilometers towards Matara in the wrong direction. Subsequently, the highway police stopped the car and arrested the man who was driving the vehicle.
-
-After examining the situation, the police advised the driver to release the car and provide the patient immediately.
-
-◼️
-
-[Data](articles/e6cf639d.json)
-
-[Extended Data](ext_articles/e6cf639d.ext.json)
-
----
-
-### Sri Lanka Police to receive Rs. 300M Indian grant for new vehicles
-
-*2024-12-19 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104355/sri-lanka-police-to-receive-rs-300m-indian-grant-for-new-vehicles) · `en`
-
-The Government of India has agreed to provide financial assistance amounting to Sri Lankan Rs. 300 million to address vehicle requirements for the Sri Lanka Police, Cabinet Spokesman Minister Dr. Nalinda Jayatissa announced during the Cabinet press briefing held today (19).
-
-The grant will be utilized to supply vehicle to meet the operational needs of police stations in the Northern Province.
-
-Accordingly, the Cabinet of ministers has approved a proposal submitted by the Minister of Public Security and Parliamentary Affairs to enter into a Memorandum of Understanding (MoU) between the two countries to formalize the grant.
-
-◼️
-
-[Data](articles/ae3b9128.json)
-
----
-
-### மினுவாங்கொடையில் ஹெரோயினுடன் ஒருவர் கைது !
-
-*2024-12-19 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201649) · `ta`
-
-கம்பஹா, மினுவாங்கொடை பொலிஸ் பிரிவிற்கு உட்பட்ட பத்தட்டுவன பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று புதன்கிழமை (18) கைது செய்யப்பட்டுள்ளார்.
-
-கம்பஹா குற்றப் புலனாய்வு பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கம்பஹா பிரதேசத்தைச் சேர்ந்த 27 வயதுடையவர் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து 5 கிராம் 130 மில்லி கிராம் ஹெரொயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர்மேலதிக விசாரணைகளுக்காக மினுவாங்கொடை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/5cea7859.json)
-
----
-
-### யாழ். ஆழியவளையில் இரவோடு இரவாக இடம்பெறும் பாரிய மணல் கொள்ளை
-
-*2024-12-19 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201647) · `ta`
-
-யாழ்ப்பாணம் - வடமராட்சி கிழக்கு, ஆழியவளை பகுதியில் இரவோடு இரவாக சட்டவிரோதமாக மணல் அகழப்படுவதாக அப்பகுதி மக்கள் புதன்கிழமை (18) தெரிவித்தனர்.
-
-ஆழியவளை பகுதியில் மணல் சட்டவிரோதமாக அகழப்படுவதாக பொலிஸாருக்கும் சம்பந்தப்பட்ட அதிகாரிகளுக்கும் தெரியப்படுத்தப்பட்டபோதும் அவர்களால் அந்த மணல் கொள்ளையை கட்டுப்படுத்த முடியவில்லை என்று கூறப்படுகிறது.
-
-நள்ளிரவு நேரம் காவலாளர்கள் நிறுத்தப்பட்டு, JCB இயந்திரம் கொண்டு  டிப்பர்கள் மூலம் மணல் கடத்தல்காரர்களினால் மணல் கொள்ளையிடப்படும் சம்பவம் தொடர்ந்து இடம்பெற்று வருவதாகவும் அப்பிரதேச மக்கள் குற்றம் சாட்டுகின்றனர்.
-
-பாதைகளை அழித்து வீதிக்கு அருகில் வைத்தே பெருமளவான மணல் வளம் சூறையாடப்பட்டு, மணல் கொண்டு செல்லப்படுகிறது. இதனால் சீரற்று காணப்படும் அந்த பாதைகளில் தற்போது பயணிக்க முடியாத நிலை ஏற்பட்டுள்ளது என்றும் கூறுகின்றனர்.
-
-கிராம அலுவலர் ஊடாக மருதங்கேணி பிரதேச செயலர் மற்றும்  மருதங்கேணி பொலிஸாருக்கு அறிவித்தும் இதுவரை மணல் கொள்ளை தடுத்து நிறுத்தப்படவில்லை எனவும் பொலிஸார் யாரையும் இதுவரை கைது செய்யவில்லை என்றும் பிரதேச மக்கள் தெரிவித்தனர்.
-
-...
-
-[Data](articles/963159f8.json)
-
----
-
-### පෙර පාසල් දරුවන්ට ලබාදෙන ආහාර දීමනාව වැඩි කෙරේ
-
-*2024-12-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204520) · `si`
-
-මුල් ළමාවිය සංවර්ධන මධ්‍යස්ථාන හා පෙර පාසල් දරුවන් සඳහා ලබාදෙන උදෑසන ආහාර වේල 2025 වර්ෂයේ සිට දරුවන් 155,000ක් දක්වා වැඩි කිරීමට කැබිනට් අනුමැතිය හිමිවි තිබේ.
-
-ඒ අනුව මේ වනවිට එක් දරුවෙකුට දිනකට ලබාදෙන රුපියල් 60ක මුදල රුපියල් 100 දක්වා වැඩි කිරීමටත් රජය තීරණය කර ඇත.
-
-අද (19) පැවති කැබිනට් තීරණ දැනුම් දිමේ ප්‍රවෘත්ති සාකච්ඡාවේදි මේ පිළිබඳ කරුණු පැහැදිලි කෙරුණි.
-
-◼️
-
-[Data](articles/09fbe74e.json)
 
 ---

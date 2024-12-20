@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 02:42:39**
+As of **2024-12-21 03:12:06**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,027 (99.6%) of 61,264 articles have been extended.
+61,029 (99.6%) of 61,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### அரசாங்க அதிபர்களுடன் ஜனாதிபதி கலந்துரையாடல்
+### President discussion with government principals
 
 *2024-12-21 02:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அதிபர்களுடன்-ஜனாதிபதி-கலந்துரையாடல்/175-349026) · `ta`
 
-நாட்டின் அரச சேவையை முறையான அரச பொறிமுறையாக மாற்றுவதற்கான சவால் தம்முன் காணப்படுவதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவிக்கிறார்.
+Here's a summary of 200 characters:
 
-நாரஹேன்பிட்டியிலுள்ள 'நில மெதுர' கட்டடத்தில் நேற்று (20) நடைபெற்ற மாவட்ட செயலாளர்கள் மற்றும் அரசாங்க அதிபர்களுடனான கலந்துரையாடலில் உரையாற்றும் போதே ஜனாதிபதி இதனை குறிப்பிட்டார்.
 
-நாட்டில் தற்போதுள்ள அரச நிறுவனங்களை மீளாய்வு செய்ய நியமிக்கப்பட்டிருக்கும், புதிய குழுவின் ஊடாக அரசியல் செல்வாக்கைப் பொருள் படுத்தாமல், அவை தொடர்பில் தீர்மானம் மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
 
-அரச நிறுவனமொன்றில் நியாயமான சேவையைப் பெற்றுக்கொள்ள முடியும் என்று மக்களுக்கு சிறிதும் நம்பிக்கை இல்லை என்றும், அரசு என்ற வகையில் முழுக் கட்டமைப்பும் சரிவைக் கண்டுள்ளதெனவும் தெரிவித்தார்.
+Pres. Anura Kumara Dissanayake discusses transforming state service into proper mechanism. Plans to review institutions without political influence. Expresses concern over public lack of confidence in fair state services. Challenges rebuilding structure.
 
-சரிவடைந்திருக்கும், கட்டமைப்பை மீள உருவாக்க நாம் தயாரா? இல்லையா? என்பது குறித்து எம்மை நாமே கேள்வி கேட்டுக்கொள்ள வேண்டும் என்றும் ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார். (a)
+🟩
+
+President Anura Kumara Dissanayake says that the challenge to transform the country's state service into a proper state mechanism is seen.
+
+The President made this statement while addressing a discussion with District Secretaries and Government Agent at the 'Nila Medura' building in Narahenpita yesterday (20).
+
+The President pointed out that the decision will be taken to review the existing state institutions in the country, without the political influence through the new committee.
+
+He said that the people have no confidence that a fair service can be obtained in a state agency and that as a state, the full structure has seen a decline.
+
+Are we ready to rebuild the structure?Or not?President Anura Kumara Dissanayake urged us to question ourselves. (A)
 
 ◼️
 
 [Data](articles/15509741.json)
+
+[Extended Data](ext_articles/15509741.ext.json)
 
 ---
 
@@ -247,6 +257,8 @@ This year marks the beginning of the second golden decade of the Belt and Road I
 ...
 
 [Data](articles/e231b72e.json)
+
+[Extended Data](ext_articles/e231b72e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 12:02:53**
+As of **2024-12-20 12:43:15**
 
 ## Newspaper Stats
 
-*Scraped **61,157** Articles*
+*Scraped **61,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 645
-islandlk | 3,699
+islandlk | 3,701
 economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,830
+adalk | 5,831
 adaderanalk | 7,455
-tamilmirrorlk | 8,742
+tamilmirrorlk | 8,745
 virakesarilk | 10,089
 adaderanasinhalalk | 10,557
 
@@ -26,29 +26,87 @@ adaderanasinhalalk | 10,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,940 (99.6%) of 61,157 articles have been extended.
+60,945 (99.6%) of 61,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### හිමාලි අරුණතිලක කිසිදු වංචාවක් සිදුකර නෑ - ඇමති විජිත
+### மியன்மார் படகு விவகாரம்: 115 பேரிடமும் விசாரணை
+
+*2024-12-20 12:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மார்-படகு-விவகாரம்-115-பேரிடமும்-விசாரணை/175-349001) · `ta`
+
+மியான்மார் படகில் திருகோணமலைக்கு கொண்டுவரப்பட்ட 35 ஆண்கள்,25 பெண்கள்,43 சிறுவர் மற்றும்12 படகோட்டிகள் உற்பட 115 பேரிடமும் திருகோணமலை துறைமுக பொலிஸார் வாக்கு மூலம் பெற்றுக்கொண்டிருக்கின்றனர்.
+
+வாக்குமூலம் பெற்றுக்கொண்டதன் பின்னர்,    அனைவரையும் திருகோணமலை நீதிவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட உள்ளதாகவும்,அதன் பின்பு நீதிமன்றம் வழங்கும் உத்தரவிற்கு அமையவே  இவர்களை குறித்து முடிவெடுக்கப்படும் என்றும் பொலிஸார் கூறினர்.
+
+◼️
+
+[Data](articles/12848305.json)
+
+---
+
+### “அரசியல் இலஞ்சம் பெற்ற இருவர் போட்டியிடவில்லை”
+
+*2024-12-20 12:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-இலஞ்சம்-பெற்ற-இருவர்-போட்டியிடவில்லை/175-349000) · `ta`
+
+எங்கள் எம்.பிக்கள் இருவர் மதுபானசாலைகள் அமைப்பதற்கு அனுமதி பெற்றுக்கொடுத்ததாக ஒப்புக்கொண்டார்கள். அவ்விருவரும் இம் முறை தேர்தல் போட்டியிடவில்லை என யாழ். மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+பருத்தித்துறை வி.எம் றோட்டில் உள்ள யாழ் வடமராட்சி ஊடக இல்லத்தில்  வியாழக்கிழமை (19)  நடத்திய பத்திரிகையாளர்  சந்திப்பில் கலந்துகொண்டு கருத்து​ தெரிவித்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+ஒவ்வொரு மாவட்டத்துக்கும் மதுபானசாலைகள் அனுமதிக்கு ஒரு வரையறை உண்டு அந்த வரையறைக்குள் இந்த அனுமதியைப் பெற்றுள்ளார்களா. ஆனால் அவர்கள் இம் முறை தேர்தலில் போட்டியிடவில்லை.
+
+கடந்த காலங்களில் 361 மதுபானசாலைகளுக்கு அனுமதி வழங்கப்பட்டுள்ளது. இது ஒரு வகையில் அரசியல் இலஞ்சமாகும். இவை எம்.பிக்களின் சிபாரிசில் செய்யப்பட்டுள்ளன. இதனை வெளிப்படுத்துவோம் என தேர்தல் பிரச்சாரத்தின் போது தெரிவிக்கப்பட்டது. ஆனால் வெறுமனே அத்தனை மதுபானசாலைகளுக்கும் அனுமதி வழங்கப்பட்டுள்ள போதும் எந்தெந்த எம்.பிக்களின் சிபாரிசில் அவை வழங்கப்பட்டது.எனத் தெரிவிக்கப்படவில்லை.
+
+...
+
+[Data](articles/15184fb9.json)
+
+---
+
+### காசோலை மோசடி: முன்னாள் எம்.பி கைது
+
+*2024-12-20 12:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காசோலை-மோசடி-முன்னாள்-எம்-பி-கைது/175-348999) · `ta`
+
+காசோலை மோசடி தொடர்பில் முன்னாள் பாராளுமன்ற உறுப்பினர் கு. திலீபன் மற்றும் அவரின் முன்னாள் செயலாளர் தினேஷ் ஆகியோர் வவுனியா பொலிஸாரால் கைது செய்யப்பட்டு வவுனியா நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டுள்ளனர்.
+
+காணி ஒன்றை குத்தகை அடிப்படையில் பெற்றுத்தரவும் கூறி 20 லட்சம் ரூபாய் காசோலை மோசடி தொடர்பில் இருவரும் பொலிஸாரால் கைது செய்யப்பட்டனர். இருவரும் வவுனியா நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர்.
+
+◼️
+
+[Data](articles/64c16818.json)
+
+---
+
+### Himali Arunatilleke has not committed any fraud - Minister Vijitha
 
 *2024-12-20 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204545) · `si`
 
-ඔස්ට්‍රේලියානු මහ කොමසාරිස් කාර්යාලයේ හිටපු නියෝජ්‍ය මහ කොමසාරිස්වරියක් ලෙස සේවය කළ හිමාලි අරුණාතිලක මහත්මිය සම්බන්ධයෙන් එල්ල වන චෝදනා සම්පූර්ණයෙන්ම අසත්‍ය බව අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+Here's a summary in 200 characters:
 
-රජයේ ප්‍රවෘත්ති දෙපාර්තුමේන්තුවේ අද (20)﻿ පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරයා පවසා සිටියේ, සේවිකාවකට වැටුප් ගෙවීම සම්බන්ධයෙන් ඇය කිසිදු වංචාවක් සිදුකර නොමැති බවය.
 
-හිමාලි අරුණාතිලක මහත්මිය මේ වනවිට ජිනීවා මානව හිමිකම් කවුන්සිලයේ ශ්‍රී ලංකාවේ නිත්‍ය නියෝජිතවරිය ලෙස කටයුතු කරන අතර ඇය රට වෙනුවෙන් අදටත් සේවය කරමින් සිටින බව ද අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
 
-ඇය ඔස්ට්‍රේලියානු මහ කොමසාරිස් කාර්යාලයේ නියෝජ්‍ය මහ කොමසාරිස්වරියක් ලෙස සේවය කරමින් සිටිය දී මෙරට සේවිකාවකට නිසි ලෙස වැටුප් නොගෙවීම සම්බන්ධයෙන් ඇයට එරෙහිව ඔස්ට්‍රේලියාවේ ෆෙඩරල් අධිකරණයේදී ඩොලර් ලක්ෂයකට අධික දඩයක් නියම කෙරුණි.
+Sri Lankan Minister denies fraud claims against diplomat Himali Arunatilleke. Minister states no personal fraud occurred regarding salary payments. Legal action taken by Australia against Arunatilleke. Government policy decision needed on this matter.
 
-ඒ සම්බන්ධයෙන් මාධ්‍යවේදියෙක් අසන ලද පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා සඳහන් කළේ, ඇය කිසිදු පෞද්ගලික වංචාවක් සිදුකර නොමැති අතර රාජ්‍ය තාන්ත්‍රික පුද්ගලයින් සඳහා සේවයේ නිරත අයට වැටුප් ගෙවනු ලබන්නේ ලංකා ආණ්ඩුවෙන් බවය.
+🟩
+
+Minister Vijitha Herath says that allegations leveled against the former Deputy High Commissioner to the Australian High Commission, said.
+
+Addressing a media briefing in the Department of Government Information, the Minister said that she had not had any fraud about paying salary to a maid.
+
+Mrs. Himali Arytehilaka is currently serving as the Permanent Representative of the Geneva Human Rights Council and is still serving in the country.
+
+She was fined for $ 100,000 in the Federal Court of Australia against the Deputy High Commissioner of Australia as a Deputy High Commissioner to the Australian High Commission.
+
+The Minister said that he had not committed any private fraud on the matter and the salaries of the people who work for diplomats are paid for diplomatic people.
+
+Therefore, the Minister of Foreign and the Government will be a policy decision in the future as a government of the inconvenience of Himali Auntehika.
 
 ...
 
 [Data](articles/d2691d4b.json)
+
+[Extended Data](ext_articles/d2691d4b.ext.json)
 
 ---
 
@@ -71,6 +129,8 @@ He pointed out that this detail was crucial if the defendants were hoping for a 
 ...
 
 [Data](articles/6383ca8c.json)
+
+[Extended Data](ext_articles/6383ca8c.ext.json)
 
 ---
 
@@ -123,6 +183,22 @@ News can be seen through newspapers, televisions and radio in the past. Currentl
 [Data](articles/4a691e9c.json)
 
 [Extended Data](ext_articles/4a691e9c.ext.json)
+
+---
+
+### ’ක්ලීන් ශ්‍රී ලංකා’ ජනාධිපති  කාර්ය සාධක බලකාය පිහිටුවමින් අති විශේෂ ගැසට්ටුවක්
+
+*2024-12-20 11:13:30* · [`adalk`](https://www.ada.lk/breaking_news/’ක්ලීන්-ශ්‍රී-ලංකා’-ජනාධිපති--කාර්ය-සාධක-බලකාය-පිහිටුවමින්-අති-විශේෂ-ගැසට්ටුවක්/11-413749) · `si`
+
+රජය මගින් ක්‍රියාත්මක කිරීමට නියමිත  "ක්ලීන් ශ්‍රී ලංකා"  වැඩ සටහන සැලසුම් කර ක්‍රියාත්මක කිරීම සඳහා වන ජනාධිපති කාර්ය සාධක බලකාය ස්ථාපිත කර  එහි සාමාජිකයන් පත් කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ඊයේ (19) දාතමින් අති විශේෂ ගැසට් පත්‍රයක් ප්‍රකාශයට පත් කෙරිණි .
+
+ඒ අනුව " ක්ලීන් ශ්‍රී ලංකා"  ජනාධිපති කාර්ය සාධක බලකායේ සාමාජිකයන් ලෙස ජනාධිපති ලේකම් එන්.එස්.කුමානායක ,යුධ හමුදාපති,ගුවන් හමුදාපති ,නාවික හමුදාපති, වැඩ බලන පොලිස්පති ඩබ්ලිව් .එල්.ඒ.සමන් ප්‍රියන්ත ,නාගරික සංවර්ධන අධිකාරියේ සභාපති ඉන්ජිනේරු කුමුදුලාල් ද සිල්වා,අයි.එස්.ජයරත්න ,ගිහාන්ද සිල්වා,සන්ධ්‍යා සල්ගාදු,ආචාර්ය ගාමිණී බටුවිටගේ,ආචාර්ය අනුරුද්ධ ගමගේ,දිල්රුක්  වනසිංහ, දීපාල් සූරියආරච්චි , සිසිර අමරබන්දු, ක්‍රිශාන්ත කුරේ, ජයතු පෙරේරා ,රුවන් වීරසූරිය , දයාන් කරුනාරත්න යන මහත්වරුන් හා නිලධාරීන් ජනාධිපතිවරයා විසින්  පත් කරනු ලැබ සිටිති.
+
+මෙම කාර්ය සාධක බලකායේ සභාපති ලෙස ජනාධිපති ලේකම් එන්.එස්.කුමානායක මහතාද, ලේකම් හා කැඳවුම්කරු ලෙස ජනාධිපති ජෙෂ්ඨ අතිරේක ලේකම්  ජී.එම්.ආර්.ඩී.අපෝන්සු මහතාද පත්කල බව ගැසට් නිවේදනයේ සඳහන්වේ.
+
+...
+
+[Data](articles/b29fba95.json)
 
 ---
 
@@ -196,6 +272,8 @@ In addition, the deputy minister said they outlined their strategic vision for i
 
 [Data](articles/d8ba0fa7.json)
 
+[Extended Data](ext_articles/d8ba0fa7.ext.json)
+
 ---
 
 ### Foreign Minister’s special press conference
@@ -207,6 +285,8 @@ Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath is 
 ◼️
 
 [Data](articles/62dd7003.json)
+
+[Extended Data](ext_articles/62dd7003.ext.json)
 
 ---
 
@@ -301,6 +381,8 @@ Additionally, CBSL has provided law enforcement authorities with information, do
 ...
 
 [Data](articles/92f87cad.json)
+
+[Extended Data](ext_articles/92f87cad.ext.json)
 
 ---
 
@@ -1094,6 +1176,20 @@ The TAGS Awards, celebrated for 59 years, is a hallmark event recognising excell
 
 ---
 
+### NDB Bank triumphs with 8 prestigious awards at National Sales Awards 2024
+
+*2024-12-20 04:58:00* · [`islandlk`](http://island.lk/ndb-bank-triumphs-with-8-prestigious-awards-at-national-sales-awards-2024/) · `en`
+
+NDB Bank celebrates a momentous achievement at the National Sales Awards (NSA) 2024, organised by the Sri Lanka Institute of Marketing (SLIM). The Bank’s sales team excelled at this year’s ceremony, securing eight distinguished awards.
+
+The highlight of the evening was Kasun Jayawardana, who claimed the coveted Gold Award for Overall National Sales Manager, underscoring his leadership and remarkable contributions to the sales function. In the Front-Liner Banking category, Nethmi Kumarihami brought home the Gold Award, while Kaveesha Weerarathne secured the Silver Award, reflecting their dedication to delivering exceptional service at the forefront of banking operations.
+
+...
+
+[Data](articles/a0df28aa.json)
+
+---
+
 ### ComBank tops banking sector in LMD’s first Corporate Happiness Index
 
 *2024-12-20 04:56:00* · [`islandlk`](http://island.lk/combank-tops-banking-sector-in-lmds-first-corporate-happiness-index/) · `en`
@@ -1153,6 +1249,20 @@ Cool Planet lights up the holidays with festive cheer and seasonal collections
 ...
 
 [Data](articles/68f8068a.json)
+
+---
+
+### CSE energized by government’s decision on withholding tax
+
+*2024-12-20 04:50:00* · [`islandlk`](http://island.lk/cse-energized-by-governments-decision-on-withholding-tax/) · `en`
+
+President Anura Kumara Dissanayake’s statement in parliament on increasing withholding tax on conservative investments, such as fixed deposits and savings, from 5 percent to 10 percent, positively impacted the stock market and attracted more local and foreign investors, market analysts said.
+
+This new withholdings tax increase by the government does not apply to stock market transactions. Amid those developments mixed reactions were noted in both indices yesterday. The All Share Price Index went up by 39.96 points, while S and P SL20 went down by 3.28 points. Turnover stood at Rs 5.8 billion with 12 crossings.
+
+...
+
+[Data](articles/0219c4d9.json)
 
 ---
 
@@ -2045,151 +2155,5 @@ The arrested suspect is a 40 -year -old from Konahena.
 [Data](articles/a9c40cfc.json)
 
 [Extended Data](ext_articles/a9c40cfc.ext.json)
-
----
-
-### Help make Sri Lanka's accountability meaningful;Sreedharan MP requests Canadian government
-
-*2024-12-19 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/201684) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka accountability push: TNA MP Sreedharan seeks Canadian support for UN Human Rights Council resolution on international inquiry into war crimes and ethnic cleansing.
-
-🟩
-
-At the United Nations Human Rights Council, the Government of Sri Lanka will no longer provide the Sri Lankan government, and it is the expectation that the next resolution will be taken up in the next resolution to take the next step towards the international inquiry into criminal accountability.
-
-Sivagnanam Sreedharan, a member of the Sri Lanka Tamil National Alliance (TNA) parliamentarian and chairman of parliamentary committees, said that the central committee to propose resolutions related to Sri Lanka.
-
-The official meeting with Canadian political parties, including the Deputy Minister of the Indo -Pacific Regions of the Indo -Pacific Regions, was held yesterday at the Ministry office in Ottawa.
-
-...
-
-[Data](articles/a21c55d5.json)
-
-[Extended Data](ext_articles/a21c55d5.ext.json)
-
----
-
-### Chinese medical ship to call on Sri Lanka for health system backing
-
-*2024-12-19 18:28:00* · [`economynextcom`](https://economynext.com/chinese-medical-ship-to-call-on-sri-lanka-for-health-system-backing-195341/) · `en`
-
-ECONOMYNEXT – A Chinese medical will arrive in Sri Lanka from December 21-28 to back the island nation’s healthcare system, Cabinet Spokesman and Health Minister Nalinda Jayatissa said on Thursday (19).
-
-From 21-28, a medical ship, with 200 crew, is coming to Sri Lanka and they are supporting our health system from the Chinese vessel,” Jayatissa told reporters
-
-“We don’t have any objection to that,” he said with the context of the island nation’s one-year ban on foreign research vessels.
-
-The Cabinet Spokesman in the same media briefing said the ban, imposed by the previous government, has been now relaxed and the government will consider requests by foreign research vessels on a case by case basis. (Colombo/December 19/2024)
-
-◼️
-
-[Data](articles/59a3e26a.json)
-
-[Extended Data](ext_articles/59a3e26a.ext.json)
-
----
-
-### 3 Questions Leaked Affairs: Confidential Report Handling
-
-*2024-12-19 18:22:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-வினாக்கள்-கசிந்த-விவகாரம்-இரகசிய-அறிக்கை-கையளிப்பு/175-348970) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Leaked exam questions scandal: CID report submitted, interim injunction sought against exam officials. High Court to deliver verdict on Nov 11.
-
-🟩
-
-The Director of the Criminal Investigation Department on Thursday (19) handed over a confidential report containing detailed reports of the incident in which three questions were leaked in the area I questionnaire in the Fifth Scholarship Examination Questionnaire.
-
-Four fundamental rights petitions have been filed demanding an interim injunction to the Commissioner General of Examinations to cancel the five -year scholarship examination of the five -year scholarship examination.
-
-Director of Investigation Department, Senior Police Superintendent. Imesha Muthumali handed over the report
-
-The petition was considered before a session of High Court Judges Yasantha Gothagoda, Kumuduni Wickramasinghe and Arjuna Obeeskera.
-
-In the petitions filed by the parents of a group of students who appeared for the fifth year scholarship examination, some, including the Commissioner General of Examinations, have been referred to as defendants.
-
-...
-
-[Data](articles/de19320e.json)
-
-[Extended Data](ext_articles/de19320e.ext.json)
-
----
-
-### Two persons arrested with ice drugs in Katunayake
-
-*2024-12-19 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/201683) · `ta`
-
-Katunayake police arrest two for ice drugs. One suspect's brother also detained. Five court cases pending against brother.
-
-🟩
-
-Two suspects have been arrested by the Katunayake Police on Wednesday (18) with ice drugs in the Heinadian area belonging to the Katunayake Police Division.
-
-The suspect has been arrested in connection with the confidential information received by the Katunayake Police Station.
-
-The suspect's brother has been arrested during further inquiries into the suspect.
-
-Investigations have revealed that 05 seats have been issued at the Minuwangoda Magistrate's Court against the suspect's brother.
-
-The brother of the arrested suspect is a 28 -year -old from Minuwangoda Heanadiyana.
-
-◼️
-
-[Data](articles/ca93c82d.json)
-
-[Extended Data](ext_articles/ca93c82d.ext.json)
-
----
-
-### “பாலா அண்ணை “: அரசியல் ஆலோசகர் அன்டன் ஸ்ரனிஸ்லோஸ் பாலசிங்கத்துடனான அனுபவங்களின்  நினைவுகள்.
-
-*2024-12-19 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85235) · `en`
-
-கடந்த வாரம் பாராளுமன்ற சபாநாயகர் அசோகா சப்புமால் ரண்வலவை பதவியில் இருந்து விலகவைத்த அவரது உயர்கல்வித் தகைமைகள் தொடர்பான சர்ச்சை விடுதலை புலிகள் இயக்கத்துடன் சம்பந்தப்பட்ட முக்கிய பிரமுகர் ஒருவர் தொடர்பிலான இதே போன்ற முன்னைய சர்ச்சை ஒன்றை நினைவுபடுத்துகிறது.
-
-ஊடகங்களில் அடிக்கடி கலாநிதி பாலசிங்கம் என்று குறிப்பிடப்பட்ட விடுதலை புலிகளின் அரசியல் ஆலோசகர் அன்டன் ஸ்ரனிஸ்லோஸ் பாலசிங்கம் பற்றியதே அந்த குழப்பமாகும்.
-
-விடுதலை புலிகளுக்கு எதிரான இயக்கங்களின் உறுப்பினர்கள் பாலசிங்கம் ஒரு கலாநிதி அல்ல என்று பரவலாக  மறுதலித்தனர். பாலசிங்கம் ஒருபோதுமே கலாநிதி பட்டத்தை பெறவில்லை என்றும் அதனால் அவர் ஒரு ” பாசாங்கு கலாநிதி ” என்றும் கூறப்பட்டது.
-
-...
-
-[Data](articles/0a64172c.json)
-
----
-
-### Military Protection for former Presidents
-
-*2024-12-19 18:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/201682) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Security reduction for former presidents criticized. Sri Lanka PA calls for reinstatement of military protection, citing ongoing threats from diasporas and separatists. Former leaders' safety crucial given their role in ending civil war.
-
-🟩
-
-Former President Mahinda Rajapakse's security has been reduced to avenge Rajapaksa. Diasporas still act against the Rajapaksas. Sri Lanka PA, Parliamentarian DV Sanaka said the government should reclaim the decision on the elimination of military security provided to former presidents.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Thursday (19).
-
-The security of former presidents has improperly reduced. Former President Chandrika Bandaranaike Kumaratunga, Mahinda Rajapaksa and Gotabhaya Rajapakse made tough decisions to end the 30 -year war.
-
-Everyone should remember that democracy in this country is still in effect because former President Mahinda Rajapakse has made a firm decision to end the 30 -year war.. It should also be remembered that the People's Liberation Front was able to go to the North and Eastern Provinces and engage in election campaigns.
-
-...
-
-[Data](articles/40286664.json)
-
-[Extended Data](ext_articles/40286664.ext.json)
 
 ---

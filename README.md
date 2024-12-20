@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 01:43:22**
+As of **2024-12-21 02:02:00**
 
 ## Newspaper Stats
 
-*Scraped **61,262** Articles*
+*Scraped **61,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
 tamilmirrorlk | 8,755
-virakesarilk | 10,107
+virakesarilk | 10,108
 adaderanasinhalalk | 10,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,022 (99.6%) of 61,262 articles have been extended.
+61,024 (99.6%) of 61,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### இந்தியா குறித்த கடும்போக்கை மாற்றிக்கொண்டுள்ளாரா அநுர?; புதுடில்லிப் பேச்சுக்களின் பின்னணியில் எழும் கேள்விகள்
+
+*2024-12-21 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201774) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயகவின் இந்திய விஜயமும், இந்தியப் பிரதமர் நரேந்திர மோடியுடன் அவா் நடத்திய பேச்சுக்களும் ஊடகங்களில் அதிக அளவுக்கு முக்கியத்துவம் பெற்றமைக்கு இரண்டு காரணங்கள் இருந்தன.
+
+முதலாவது, அவா் இந்திய எதிர்ப்பை தமது பிரதான கொள்கைகளில் ஒன்றாகக் கொண்டிருந்த கட்சி ஒன்றின் தலைவர் என்பது. அந்தக் கொள்கையுடன் தான் அவர்கள் நீண்டகாலம் பயணித்திருந்தாா்கள். அதன் மூலமாகத்தான் கட்சியையும் வலுப்படுத்தினாா்கள்.
+
+இரண்டாவது, அவரது ஜே.வி.பி. ஒரு சீன சார்பு அமைப்பாக அடையாளம் காணப்பட்டிருந்தது. தேசிய மக்கள் சக்தி பொதுத் தேர்தலில் பெற்ற வெற்றி குறித்த கொழும்பிலுள்ள சீனத் துாதுவின் பிரதிபலிப்புக்களும் இந்தக் கருத்துக்கு வலுச் சேர்த்திருந்தது.
+
+இலங்கையை மையப்படுத்திய சீன - இந்திய வல்லரசுப் போட்டி தீவிரம் அடைந்திருக்கும் பின்னணியில் மிகவும் நிதானமாக செயற்படும் இராஜதந்திரத்தை புதுடில்லி விஜயத்தின் போது ஜனாதிபதி திசநாயக்க வெளிப்படுத்தினார்.
+
+...
+
+[Data](articles/a0ea1d75.json)
+
+---
 
 ### President pledges reforms to revitalise public sector
 
@@ -75,6 +93,8 @@ Pointing out that the date of the sentence was very important, he requested the 
 ...
 
 [Data](articles/a2417fbe.json)
+
+[Extended Data](ext_articles/a2417fbe.ext.json)
 
 ---
 
@@ -127,6 +147,8 @@ Speaking at the conference, Lanka Business TV Founder and CEO Jayantha Kovilagod
 ...
 
 [Data](articles/982c7ee6.json)
+
+[Extended Data](ext_articles/982c7ee6.ext.json)
 
 ---
 
@@ -2367,21 +2389,5 @@ Accordingly, the next hearing of the case is scheduled for January 27, 2025.
 ◼️
 
 [Data](articles/80d243f0.json)
-
----
-
-### German supply chain act could affect Sri Lanka’s apparel SMEs: Panel
-
-*2024-12-20 11:45:00* · [`economynextcom`](https://economynext.com/german-supply-chain-act-could-affect-sri-lankas-apparel-smes-panel-193893/) · `en`
-
-ECONOMYNEXT – Germany’s Supply Chain Act could marginalise Sri Lanka’s small and medium enterprises (SME) in the apparel industry as the cost of auditing and acquiring certifications increase, industry representatives and analysts have said.
-
-“Industry stakeholders make clear that most apparel manufacturers in Sri Lanka are SMEs, and that the top 20 companies in the industry account for around 80 percent of the exports,” attorney-at-law Shyamali Ranaraja told a forum on the act’s implications.
-
-The forum on ‘Exploring the Impact of Germany’s Supply Chain Act on Sri Lanka’s Key Industries’ was organised by the Friedrich Naumann Foundation in Sri Lanka as it exited the country.
-
-...
-
-[Data](articles/5d909202.json)
 
 ---

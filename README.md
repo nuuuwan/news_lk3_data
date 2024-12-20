@@ -1,36 +1,76 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 19:42:45**
+As of **2024-12-20 20:01:19**
 
 ## Newspaper Stats
 
-*Scraped **61,219** Articles*
+*Scraped **61,224** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 456
 colombotelegraphcom | 620
-bbccomsinhala | 645
+bbccomsinhala | 646
 islandlk | 3,704
 economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,836
-adaderanalk | 7,466
+adaderanalk | 7,467
 tamilmirrorlk | 8,752
 virakesarilk | 10,103
-adaderanasinhalalk | 10,573
+adaderanasinhalalk | 10,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,989 (99.6%) of 61,219 articles have been extended.
+60,990 (99.6%) of 61,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### ගාල්ල දඩල්ලේ වෙඩිතැබීමක්
+
+*2024-12-20 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204565) · `si`
+
+ගාල්ල දඩල්ල ප්‍රදේශයේදී සිදුකළ වෙඩි තැබීමකින් එක් පුද්ගලයෙක් තුවාල ලබා තිබේ.
+
+පොලීසිය පැවසුවේ තුවාල ලැබූ පුද්ගලයාව කරාපිටිය රෝහලට ඇතුළු කළ බවයි.
+
+එම පුද්ගලයා යතුරුපැදියකින් ගමන් කරමින් සිටින විට වෙනත් යතුරුපැදියකින් පුද්ගලයින් දෙදෙනෙක් විසින් එම වෙඩිතැබීම සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/c6b15635.json)
+
+---
+
+### ඔබේ වැටුප අනුව ගෙවිය යුතු PAYE tax මෙන්න
+
+*2024-12-20 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204564) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය වැඩසටහන යටතේ මෙරටට හිමිවූ තුන්වැනි වාරිකය පිළිබඳ සමාලෝචනයේ ප්‍රතිඵල සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා පසුගිය 18 වැනිදා පාර්ලිමේන්තුවට පැමිණ දැනුම් දුන්නේය.
+
+එහිදී ජනාධිපතිවරයා උපයන විට අයකෙරෙන බදු සම්බන්ධයෙන් ද පාර්ලිමේන්තුව දැනුම්වත් කළේය.
+
+ජනාධිපතිවරයා පැවසුවේ ජාත්‍යන්තර මූල්‍ය අරමුදල සමග එකඟතාවය මත උපයන විට බදු අයකෙරෙන අවම සීමාව මසකට රුපියල් 100,000 සිට රුපියල් 150,000 දක්වා ඉහළ නැංවීමට තීරණය කළ බවයි.
+
+ඒ අනුව රුපියල් 150,000ක මාසික වැටුපක් හිමි අයෙක් උපයන විට බද්දෙන් 100%කින් නිදහස් වෙයි.
+
+රුපියල් 150,000ක වැටුපක් ලබන පුද්ගලයෙකු මීට පෙර උපයන විට බදු ලෙස රුපියල් 3,500 ගෙවා තිබූ අතර නව සංශෝධනය අනුව උපයන විට බදු ගෙවිය යුතු වන්නේ නැත.
+
+රුපියල් 200,000ක වැටුපක් හිමි පුද්ගලයෙකු මීට පෙර උපයන විට බදු ලෙස රුපියල් 10,500ක් ගෙවා තිබූ අතර නව සංශෝධනය අනුව ගෙවිය යුතු වන්නේ රුපියල් 3,000ක මුදලකි.
+
+රුපියල් 300,000ක වැටුපක් හිමි පුද්ගලයෙක් රුපියල් 35,000ක් උපයන විට බදු ලෙස ගෙවා තිබූ අතර නව සංශෝධනය අනුව ගෙවිය යුතු මුදල රුපියල් 18,500 දක්වා අඩුවෙයි.
+
+...
+
+[Data](articles/c220e279.json)
+
+---
 
 ### President - Mahanayaka Thera meets
 
@@ -59,6 +99,40 @@ Deputy Minister of Transport and Multiple Dr. Prasanna Gunasena and Parliamentar
 [Data](articles/121dfd4a.json)
 
 [Extended Data](ext_articles/121dfd4a.ext.json)
+
+---
+
+### LG Election before Sinhala and Tamil New Year – President
+
+*2024-12-20 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104383/lg-election-before-sinhala-and-tamil-new-year-president) · `en`
+
+President Anura Kumara Dissanayake says that the Local Government Elections will be held next year before the Sinhala and Tamil New Year.
+
+The Provincial Council elections will also be held within next year, he said, during a visit to Kandy today (20).
+
+◼️
+
+[Data](articles/86357923.json)
+
+---
+
+### නුවර ගිය ජනපතිගෙන් ඉදිරි මැතිවරණ ගැන ඉඟියක්
+
+*2024-12-20 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204563) · `si`
+
+පළාත් පාලන මැතිවරණය එළැඹෙන සිංහල අලුත් අවුරුද්දට පෙර පැවැත්වීමට නියමිත බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඒ සඳහා වූ නාමයෝජනා නැවත කැඳවීමට අදාළ පනත මේ වනවිට සකස් කර ඇති බවද  ජනාධිපතිවරයා සඳහන් කළේය.
+
+අද (20) පස්වරුවේ මල්වතු හා අස්ගිරි මහා නා හිමිපාණන් වහන්සේලා බැහැ දැක ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
+
+"පළාත් පාලන මාතිවරණය 2023 මාර්තු මාසයේ පැවැත්වීමට නාමයෝජනා කැඳවුවා. නමුත් ඒ වෙලාවේ හිටපු පක්ෂත් අද නෑ. සමහර සන්ධාන කැඩිලා. ඒ නිසා ඒ නාමයෝජනා කැන්සල් කරලා අලුත් නාමයෝජනා කැ﻿ඳවිය යුතු බව අපි හිතනවා. ඒ නිසා අපි පසුගිය දා කැබිනට් මණ්ඩලය තීරණයක් අරන් දැනට නාමයෝජනා කැන්සල් කිරීමට අදාළ පනත සකස් කරලා තියෙන්නේ. ඒක ජනවාරියේ පාර්ලිමේන්තුවට ඉදිරිපත් කරනවා. ඊට පස්සේ නැවත නාමයෝජනා කැඳවලා අපි පළාත් පාලන මැතිවරණය පැවැත්වීමට අවුරුද්දට කලින් කටයුතු සුදානම් කරනවා."
+
+මේ අතර පළාත් සභා මැතිවරණය ගැටලු ගණනාවක් හිරවී ඇති බවත් ඒ නිසාවෙන් එය ලබන වසර ඇතුළත පැවැත්වීමට කටයුතු කරන බවත් ජනාධිපතිවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/98a4b9ed.json)
 
 ---
 
@@ -209,6 +283,8 @@ Meanwhile, former MP Johnston Fernando has been assigned with the responsibility
 ◼️
 
 [Data](articles/067494aa.json)
+
+[Extended Data](ext_articles/067494aa.ext.json)
 
 ---
 
@@ -915,6 +991,28 @@ Meanwhile, India has decided to consider the loan assistance provided by India t
 [Data](articles/0331ecac.json)
 
 [Extended Data](ext_articles/0331ecac.ext.json)
+
+---
+
+### Colombo Night Life: 'ෆුල් සර්විස් ද? නෝර්මල් ද?'
+
+*2024-12-20 13:30:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9wlk42jgv4o) · `si`
+
+ස්පා, ෆුට් කෙයාර් සහ ආයුර්වේද සම්බාහන යන විවිධ නම්වලින් කොළඹ හා තදාසන්න ප්‍රදේශවල විවිධ සම්බාහන මධ්‍යස්ථාන පවත්වා ගෙන යනු ලැබේ.
+
+බොහෝ විට එක් ස්ථානයක දිගු කාලයක් පවත්වා ගෙන නොයන මෙම මධ්‍යස්ථාන මේ වන විට කොළඹින් බැහැර ප්‍රදේශවලට ද වේගයෙන් ව්‍යාප්ත වෙමින් ඇත.
+
+මෙම ස්ථානවලින් සපයන සේවා මොනවා ද යන්න කොළඹ නගරයේ සහ අවට ප්‍රදේශවල රාත්‍රි කාලයේ සංචාරය කරමින් අප සොයා බැලුවෙමු.
+
+හිස සම්බාහනය, උරහිස් සම්බාහනය , පාද සම්බාහනය හෝ සම්පූර්ණ සිරුර සම්බාහනය යන සම්බාහන ක්‍රම වෙනුවට දැන් මේවා බොහොමයක ඇත්තේ 'ෆුල් සර්විස්' හෝ 'නෝර්මල් සර්විස්' යනුවෙන් නම් කරන ලද ක්‍රම බව අප කළ සංචාරයේදී හෙළිවිය.
+
+බොරැල්ල කොට්ටාව මාර්ගයේ ගමන් ගන්නා ඕනෑ ම අයෙකුට තලවතුගොඩ යනු ඉතා හුරුපුරුදු නගරයකි.
+
+තායිලන්තයේ පතායා නගරයේ තරම් නොවූවත්, රාත්‍රියේ විදුලි ආලෝකයෙන්  බැංකොක් අසිරිය ගන්නා තලවතුගොඩ, කළල්ගොඩ සිට පන්නිපිටිය දක්වා කොටසට මේ වන විට ප්‍රදේශයට විශේෂීකරණයක් ආරෝපණය කර තිබේ.
+
+...
+
+[Data](articles/2cd850bd.json)
 
 ---
 
@@ -2203,91 +2301,5 @@ The purpose of these establishments has decreased over time, or the entities hav
 ...
 
 [Data](articles/b80b20e2.json)
-
----
-
-### “Will ensure 2022-23 crisis never recurs in Sri Lanka”: President tells Parliament
-
-*2024-12-20 06:09:49* · [`dailyftlk`](https://www.ft.lk/opinion/Will-ensure-2022-23-crisis-never-recurs-in-Sri-Lanka-President-tells-Parliament/14-770755) · `en`
-
-Following is the full text of the special statement made by President Anura Kumara Dissanayake in Parliament on Wednesday
-
-Yesterday, we engaged in a robust three-hour debate on debt restructuring. That discussion provided an opportunity to outline the roadmap that has led us to the current stage and to highlight the achievements we have made thus far. I will not delve into lengthy explanations, but I must address a narrative being propagated, a narrative that seeks to instil fear by suggesting that Sri Lanka may face bankruptcy again in 2028. Let me state firmly: under our leadership, we will never allow a situation like 2022-23 to reoccur in our country. In 2028, this Government will still be in power, and we will have achieved stability and resilience.
-
-We are confident in our goal of increasing Sri Lanka’s foreign exchange reserves to USD 15.1 billion by 2028. This is not just an aspiration; it is a commitment that we are diligently working to fulfil.
-
-...
-
-[Data](articles/5c677291.json)
-
-[Extended Data](ext_articles/5c677291.ext.json)
-
----
-
-### How India and Sri Lanka can go from aid to trade
-
-*2024-12-20 06:06:29* · [`dailyftlk`](https://www.ft.lk/columns/How-India-and-Sri-Lanka-can-go-from-aid-to-trade/4-770754) · `en`
-
-Delhi-Colombo economic partnership can become a model for South Asia, enhance India’s Neighbourhood First Policy and its status as a regional power
-
-Sri Lanka’s new President Anura Kumara Dissanayake is on a State visit to India, his first foreign trip. Dissanayake was given a high ceremonial welcome by his counterpart, President Droupadi Murmu, and received with warmth by Prime Minister Modi at Rashtraprati Bhavan. In the joint statement released thereafter, India has pledged to supply LNG gas to Sri Lanka, enhance INR-LKR trade settlements between the two countries, boost education and technology exchanges and encourage Indian FDI in Sri Lanka.
-
-...
-
-[Data](articles/d330dec6.json)
-
-[Extended Data](ext_articles/d330dec6.ext.json)
-
----
-
-### Beyond qualifications: Essence of leadership
-
-*2024-12-20 05:59:49* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-qualifications-Essence-of-leadership/4-770752) · `en`
-
-By balancing qualifications with real-world exposure and diverse experiences, organisations can promote a culture where innovation flourishes and resilience thrives
-
-In a world where academic achievements often overshadow other dimensions of human potential, the belief that qualifications alone define effective leadership is a widespread misconception. While degrees and certifications can indicate intellectual capability, they fail to capture the true essence of leadership. Authentic leadership transcends formal education; it is a complex interplay of emotional intelligence, empathy, vision, and the ability to inspire action. These attributes are cultivated through experience, exposure, self-awareness, and an innate understanding of human behaviour and societal dynamics.
-
-...
-
-[Data](articles/88c01f5a.json)
-
-[Extended Data](ext_articles/88c01f5a.ext.json)
-
----
-
-### Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025
-
-*2024-12-20 05:39:39* · [`dailyftlk`](https://www.ft.lk/columns/Politics-aside-5-critical-steps-to-safeguard-Sri-Lanka-s-hard-won-gains-in-2025/4-770751) · `en`
-
-This week, social media was abuzz with controversy surrounding the qualifications of certain politicians within the ruling party and Opposition. The Opposition emphasised the importance of transparency and honesty in leadership, arguing that openly sharing qualifications is essential for maintaining public trust and accountability. They assert that this underscores a core principle of democratic governance: honesty as the foundation of public trust as highlighted by the NPP.
-
-However, less than a month after the last General Election, this very principle seems to have backfired on the NPP, following the Speaker’s debacle. It is worth noting that educational qualifications are not a requirement to serve as a Member of Parliament in Sri Lanka. The eligibility criteria are limited to citizenship and being over 18 years of age.
-
-...
-
-[Data](articles/b9f6d811.json)
-
-[Extended Data](ext_articles/b9f6d811.ext.json)
-
----
-
-### “Proposed personal income tax change benefits extended to all”: Suresh Perera
-
-*2024-12-20 05:36:52* · [`dailyftlk`](https://www.ft.lk/opinion/Proposed-personal-income-tax-change-benefits-extended-to-all-Suresh-Perera/14-770750) · `en`
-
-KPMG Sri Lanka Principal – Tax and Regulatory Suresh R.I. Perera speaks about the change to be introduced to the personal income tax structure and its impact. He also explains the concept of 18% VAT on digital services
-
-KPMG Sri Lanka Principal – Tax and Regulatory Suresh R.I. Perera
-
-Q: Explain the change to be introduced to the personal income tax structure and the impact.
-
-Overall, irrespective of the quantum of the salary of the person everyone will experience a reduction in the taxes paid. Since the personal relief (tax free threshold) has increased from Rs. 100,000 to Rs. 150,000 per month, up to 150,000 per month salary there will not be any income tax payable. Any one receiving salary over Rs. 400,000 per month will experience a tax saving of Rs. 20,500 per month.
-
-...
-
-[Data](articles/88cb2e2e.json)
-
-[Extended Data](ext_articles/88cb2e2e.ext.json)
 
 ---

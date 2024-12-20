@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 00:02:45**
+As of **2024-12-21 00:16:39**
 
 ## Newspaper Stats
 
-*Scraped **61,246** Articles*
+*Scraped **61,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 620
 bbccomsinhala | 646
 islandlk | 3,704
 economynextcom | 3,738
-dailyftlk | 4,238
+dailyftlk | 4,241
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
@@ -26,9 +26,55 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,013 (99.6%) of 61,246 articles have been extended.
+61,015 (99.6%) of 61,249 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-21 (Saturday)
+
+### Climate change adaptation, biodiversity conservation, and the means of implementation
+
+*2024-12-21 00:06:12* · [`dailyftlk`](https://www.ft.lk/columns/Climate-change-adaptation-biodiversity-conservation-and-the-means-of-implementation/4-770826) · `en`
+
+The twin crises of climate change and biodiversity loss are fundamentally interlinked, and addressing them independently is no longer feasible
+
+Climate change is affecting countries, communities, and natural ecosystems across the world in unprecedented ways. Sea level rise, temperature increase, shifting rainfall patterns, more frequent extreme weather events, and other climate-related impacts are putting immense pressure on both human societies and the natural environments upon which they rely. The twin crises of climate change and biodiversity loss are fundamentally linked, and addressing them independently of each other is no longer feasible.
+
+...
+
+[Data](articles/f9148a60.json)
+
+---
+
+### Is Sri Lanka ready to face a possible dementia epidemic?
+
+*2024-12-21 00:03:42* · [`dailyftlk`](https://www.ft.lk/columns/Is-Sri-Lanka-ready-to-face-a-possible-dementia-epidemic/4-770825) · `en`
+
+Social aspects of dementia are becoming increasingly important as part of a wider shift in emphasis from cure to care
+
+Dementia indeed is a very sad disease where the personality, habits and the routine of a loved one could drastically change, and family members would find it extremely stressful to recognise and deal with this “new person” who has evolved from the one they once knew. Dementia persons are by and large helpless and need care for even the most mundane tasks. In increasingly changing extended family life situations where home care for dementia patients has, and is becoming a major challenge, anecdotal evidence relating to how even dementia afflicted parents have been driven away from their homes or kept locked in rooms, are abound
+
+...
+
+[Data](articles/888f0edc.json)
+
+---
+
+### Untold lessons: Economic insights from history for Sri Lanka’s crisis
+
+*2024-12-21 00:00:17* · [`dailyftlk`](https://www.ft.lk/columns/Untold-lessons-Economic-insights-from-history-for-Sri-Lanka-s-crisis/4-770824) · `en`
+
+To achieve lasting growth and better manage its debt, the country must implement critical structural reforms
+
+With a new Government in power, Sri Lanka finds itself grappling with immense economic challenges. The burden of enormous debts continues to weigh heavily on a fragile economy, necessitating robust growth to overcome these hardships. However, achieving such growth is complicated by a governmental predisposition toward centralised economic control, rooted in socialist-communal ideologies.
+
+These challenges are not unique to Sri Lanka; they echo the historical pitfalls of centralised economic systems. This essay explores three illustrative examples from history: The failed socialism of the Plymouth Colony, the rapid recovery during the Forgotten Depression of 1920-1921, and the transformative innovation of the Gilded Age.
+
+...
+
+[Data](articles/dd7f2c5a.json)
+
+---
 
 ### 2024-12-20 (Friday)
 
@@ -862,6 +908,8 @@ A bond maturing on 15.05.2030 closed at 10.95/11.10 percent. (Colombo/Dec20/2024
 
 [Data](articles/9f1b4064.json)
 
+[Extended Data](ext_articles/9f1b4064.ext.json)
+
 ---
 
 ### Increase number of dengue patients in Gampaha district
@@ -975,6 +1023,8 @@ The duo was brought back to the island on March 15 after Malagasy defence offici
 ...
 
 [Data](articles/48bb94c2.json)
+
+[Extended Data](ext_articles/48bb94c2.ext.json)
 
 ---
 
@@ -2427,71 +2477,5 @@ Currently entered Ukraine and continues to attack Russian forces. Likewise, Ukra
 [Data](articles/2a0acefc.json)
 
 [Extended Data](ext_articles/2a0acefc.ext.json)
-
----
-
-### Crowd crush kills 35 children at funfair in Nigeria, police say
-
-*2024-12-20 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104366/crowd-crush-kills-35-children-at-funfair-in-nigeria-police-say) · `en`
-
-At least 35 children were killed and six others critically injured in a crowd crush at a funfair in southwest Nigeria on Wednesday, police said.
-
-Eight people have been arrested for their alleged involvement in the incident at the Islamic school in the city of Ibadan, an Oyo state police spokesperson said in a statement Thursday.
-
-The event’s main sponsor is among those detained, police said.
-
-According to local radio station Agidigbo FM, the organizers of the event – identified as the Women in Need of Guidance and Support (WING) – expected to host 5,000 children under the age of 13 at the free event, where they could win prizes like scholarships.
-
-Nigerian President Bola Tinubu expressed his condolences through a statement from his spokesperson, state news agency NAN News reported.
-
-...
-
-[Data](articles/62ae1baa.json)
-
-[Extended Data](ext_articles/62ae1baa.ext.json)
-
----
-
-### Myanmar boat reaches Trincomalee port at Mullivaikkal
-
-*2024-12-20 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201707) · `ta`
-
-Myanmar boat arrives Trincomalee port with 103 passengers. Arrangements made for accommodation and food. Boat carrying 35 children and a female teacher.
-
-🟩
-
-The Myanmar boat, which was shocked by 103 passengers on the west coast of Mullivaikkal, arrived at the port of Ashraf Trincomalee this morning.
-
-Arrangements have been made to stay in the Trincomalee court and then stay at the Namala Vidyalaya. Other facilities, including food for them, are being carried out by the Trincomalee Pattanam and the Divisional Secretariat and other state departments are ready.
-
-A boat with 103 foreign passengers on the west coast of Mullivaikkal was on Thursday (19) ashore. The boat is diverted and the boat includes 35 boys and a teacher woman.
-
-◼️
-
-[Data](articles/1a4cdbe5.json)
-
-[Extended Data](ext_articles/1a4cdbe5.ext.json)
-
----
-
-### Sri Lanka’s China-backed Hambanota industrial park gets mattress export firm
-
-*2024-12-20 09:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambanota-industrial-park-gets-mattress-export-firm-195405/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hambantota International Port Group said its industrial park has got a 25 million dollar investment for a mattress producing factory that will export 7,000 containers of products a year.
-
-Comfort Mattress Lanka will construct a 62,000-square-meter factory to make sponge mattress manufacturing on a 30-year renewable lease agreement with HIGP.
-
-It will import raw materials through global supply chain involving South East Asia and China and make the product in Sri Lanka for export.
-
-Firms in the industrial zone will be able to use the container terminal in the Hambantota Port, Chief Executive Wilson Qu said in a statement.
-
-“The container yard we are developing will handle transhipment and strengthen HIP’s positioning as a gateway port,” he said.
-
-“We anticipate heightened interest in the industrial park over the coming years, and as Sri Lanka’s economy stabilises, we foresee industries outside the port taking advantage of HIP’s strategic location.”
-
-...
-
-[Data](articles/4acb42a9.json)
 
 ---

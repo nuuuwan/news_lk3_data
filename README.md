@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 23:01:21**
+As of **2024-12-20 23:13:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,008 (99.6%) of 61,246 articles have been extended.
+61,010 (99.6%) of 61,246 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,23 +54,33 @@ Upon his return to Colombo from India, Dissanayake held a meeting with a top Chi
 
 ---
 
-### ධරණී වෙතින් "පත්තරෙන් නත්තල්" ප්‍රජා සත්කාරක වැඩසටහනක්
+### Dr. Dr. Christmas Community Care Program
 
 *2024-12-20 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204569) · `si`
 
-ධරණි පුවත්පත සංවිධාන කරන "පත්තරෙන් නත්තල්" ප්‍රජා සත්කාරක වැඩසටහන යටතේ හලාවත පදවියේ ජනතාවට බෙදාදීම සඳහා වියළි සළාක හලාවත රදගුරු මැදුරට භාරදීම අද (20) සිදු කෙරිණි.
+Here's a summary of 200 characters:
 
-මෙවර අසිරිමත් නත්තල වෙනුවෙන් ධරණි පුවත්පත සංවිධාන කරන "පත්තරෙන් නත්තල්" වැඩසටහන පැවැත්වුණේ හලාවත නගරය කේන්ද්‍ර කරගනිමිනි.
 
-ඒ අනුව අද උදෑසන ධරණි පුවත්පත් කණ්ඩායම හලාවත පදවියේ ජනතාවට බෙදාදීම සඳහා වියළි සළාක රැගෙන හලාවතට පැමිණි අතර එම කණ්ඩායමට පියතුමන්ලාගේ ආශිර්වාදයද හිමි විය.
 
-අනතුරුව කණ්ඩායම එම වියළි ද්‍රව්‍ය හලාවත රදගුරු මැදුරට භාරදීම සිදු කෙරිණි.
+"Dr. Christmas Community Care Program: Dry rations distributed to Chilaw residents under Bishop's guidance. Organized by Dhenan newspaper. Team blessed by father, handed over to Chilaw Bishop. Arrangements made for Puttalam district delivery."
 
-ධරණි කණ්ඩායම විසින් පරිත්‍යාග කරනු ලැබූ මෙම වියළි සලාක ඉදිරියේ පුත්තලම් දිස්ත්‍රික්කයේ ජනතාවට ලබාදීමට මේවන විට සියලු කටයුතු සූදානම් කර තිබේ.
+🟩
+
+Draging the dry rations to the Bishop of Chilaw under the 'Christmas Coal Care Program' was handed over to the people of Chilaw under the Community Care Program of the Dharinna.
+
+This time the Dhenan newspaper organizes the acknow්බියා, the newspaper 'program was held in Chilaw town.
+
+Accordingly, the ackrogaden newspaper team took the dry rallies to the people of Chilaw, and the group won the team with the blessings of the father.
+
+The team then handed over the dry items to the Chilaw Bishop in the Chilaw.
+
+All arrangements have been made to deliver the people of Puttalam in the Puttalam district in the Puttalam District.
 
 ◼️
 
 [Data](articles/31fbe199.json)
+
+[Extended Data](ext_articles/31fbe199.ext.json)
 
 ---
 
@@ -98,19 +108,31 @@ He said this while commenting to the media after meeting the Mahasanga. Remble
 
 ---
 
-### மீகொட பகுதியில் இடம்பெற்ற துப்பாக்கிப் பிரயோகத்துடன்  தொடர்புடைய பிரதான சந்தேகநபர் உட்பட இருவர் துப்பாக்கியுடன் கைது
+### Two persons, including a main suspect in connection with the shooting in the Meegoda area
 
 *2024-12-20 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201773) · `ta`
 
-மீகொட பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் இடம்பெற்ற துப்பாக்கிப் பிரயோகத்துடன் தொடர்புடைய பிரதான சந்தேகநபர் உட்பட இருவர் ரி 56 ரக துப்பாக்கியுடன் மேல் மாகாண தெற்கு மாவட்ட குற்றத்தடுப்பு பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-மீகொட பொலிஸ் பிரிவுக்குட்பட்ட நாகஹவத்தை பகுதியில் கடந்த 14 ஆம் திகதி காரில் பயணித்த நபர் ஒருவர் மீது மோட்டார் முச்சக்கர வண்டியில் வருகை தந்திருந்த மூவர் மேற்கொண்ட துப்பாக்கிச் சூட்டில் படுகாயமடைந்த நபர் உயிரிழந்திருந்தார்.
 
-மேற்படி சம்பவம் தொடர்பில் விசாரணைகள் அதிகாரிகளால் முன்னெடுக்கப்பட்டிருந்தன. இந்நிலையில் நேற்று முன்தினம் புதன்கிழமை காலை மீகொட புவக்வத்தை வீதியில் வைத்து குற்றச் செயலுடன் தொடர்புடைய பிரதான சந்தேகநபர் மேல் மாகாண தெற்கு மாவட்ட குற்றத்தடுப்பு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+Arrests made in Meegoda shooting case: Main suspect & accomplice detained. Ice seized. Dispute over wedding attendance led to gunfire. Further probes ongoing.
+
+🟩
+
+Two persons, including the main suspect in connection with the gunfight in the Meegoda police division, have been arrested by the Western Province Southern District Crime Division officials.
+
+A man who was traveling in a motorist in a motorist on the 14th of the Nagahawatte area of ​​the Meegoda Police Division was killed in a gunman.
+
+Investigations were carried out by the authorities regarding the incident. In this backdrop, the main suspect in connection with the crime on Wednesday morning on the Migoda Poomakwatte road was arrested by the Western Province Southern District Crime Branch.
+
+11 grams of 380 milligrams of ice has been seized from the suspect. Following the investigation into the suspect, a further suspect has been informed about the suspect. The suspect who assisted the crime has been arrested in the Kurunduwatte area.. Both suspects belong to the 27 and 29 -year -old Padukku and Megoda area.
 
 ...
 
 [Data](articles/68cd1570.json)
+
+[Extended Data](ext_articles/68cd1570.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 05:51:05**
+As of **2024-12-20 06:13:04**
 
 ## Newspaper Stats
 
-*Scraped **61,108** Articles*
+*Scraped **61,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 620
 bbccomsinhala | 644
 islandlk | 3,699
 economynextcom | 3,725
-dailyftlk | 4,228
+dailyftlk | 4,229
 dailymirrorlk | 4,733
 adalk | 5,827
 adaderanalk | 7,447
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,917 (99.7%) of 61,108 articles have been extended.
+60,917 (99.7%) of 61,109 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### Beyond qualifications: Essence of leadership
+
+*2024-12-20 05:59:49* · [`dailyftlk`](https://www.ft.lk/columns/Beyond-qualifications-Essence-of-leadership/4-770752) · `en`
+
+By balancing qualifications with real-world exposure and diverse experiences, organisations can promote a culture where innovation flourishes and resilience thrives
+
+In a world where academic achievements often overshadow other dimensions of human potential, the belief that qualifications alone define effective leadership is a widespread misconception. While degrees and certifications can indicate intellectual capability, they fail to capture the true essence of leadership. Authentic leadership transcends formal education; it is a complex interplay of emotional intelligence, empathy, vision, and the ability to inspire action. These attributes are cultivated through experience, exposure, self-awareness, and an innate understanding of human behaviour and societal dynamics.
+
+...
+
+[Data](articles/88c01f5a.json)
+
+---
 
 ### Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025
 
@@ -2427,21 +2441,5 @@ Accordingly, the Cabinet of ministers has approved a proposal submitted by the M
 ...
 
 [Data](articles/963159f8.json)
-
----
-
-### පෙර පාසල් දරුවන්ට ලබාදෙන ආහාර දීමනාව වැඩි කෙරේ
-
-*2024-12-19 14:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204520) · `si`
-
-මුල් ළමාවිය සංවර්ධන මධ්‍යස්ථාන හා පෙර පාසල් දරුවන් සඳහා ලබාදෙන උදෑසන ආහාර වේල 2025 වර්ෂයේ සිට දරුවන් 155,000ක් දක්වා වැඩි කිරීමට කැබිනට් අනුමැතිය හිමිවි තිබේ.
-
-ඒ අනුව මේ වනවිට එක් දරුවෙකුට දිනකට ලබාදෙන රුපියල් 60ක මුදල රුපියල් 100 දක්වා වැඩි කිරීමටත් රජය තීරණය කර ඇත.
-
-අද (19) පැවති කැබිනට් තීරණ දැනුම් දිමේ ප්‍රවෘත්ති සාකච්ඡාවේදි මේ පිළිබඳ කරුණු පැහැදිලි කෙරුණි.
-
-◼️
-
-[Data](articles/09fbe74e.json)
 
 ---

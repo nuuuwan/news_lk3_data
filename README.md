@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 21:27:09**
+As of **2024-12-20 21:43:27**
 
 ## Newspaper Stats
 
-*Scraped **61,232** Articles*
+*Scraped **61,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,468
-tamilmirrorlk | 8,753
+tamilmirrorlk | 8,754
 virakesarilk | 10,106
 adaderanasinhalalk | 10,578
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,000 (99.6%) of 61,232 articles have been extended.
+61,001 (99.6%) of 61,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### ஜனாதிபதி வெளியிட்ட அதிரடி அறிவிப்பு
+
+*2024-12-20 21:34:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-வெளியிட்ட-அதிரடி-அறிவிப்பு/150-349013) · `ta`
+
+எதிர்வரும் வருடம் சித்திரை தமிழ் சிங்கள புத்தாண்டிற்கு முன்னதாக உள்ளூராட்சி மன்றத் தேர்தல்  நடாத்தப்படும் என ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்துள்ளார்.
+
+அதற்காக வேட்புமனுக்களை மீள அழைப்பது பொருத்தமானதாக இருக்கும் என ஜனாதிபதி மேலும் தெரிவித்தார்.
+
+மல்வத்து மற்றும் அஸ்கிரி மகாநாயக்க தேரரை சந்தித்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+அதேபோல், மாகாண சபை தேர்தலும் அடுத்த வருடத்தில் நடாத்தப்படும் என ஜனாதிபதி தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/86480a2e.json)
+
+---
 
 ### The US will cooperate with the current government's future development projects - Julie Song
 
@@ -112,25 +130,35 @@ It is reported that two men on a motorcycle were shot dead when the man was trav
 
 ---
 
-### சித்திரைப் புத்தாண்டுக்கு முன்னர் உள்ளுராட்சிமன்றத் தேர்தல் - ஜனாதிபதி அனுரகுமார திஸாநாயக்க
+### Local Government Election - President Anuragumara Dissanayake
 
 *2024-12-20 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201771) · `ta`
 
-உள்ளுராட்சி மன்ற தேர்தல் அடுத்த வருடம் சிங்கள, தமிழ் புத்தாண்டுக்கு முன்னதாக நடத்தப்படும் என ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-மாகாண சபைத் தேர்தலும் அடுத்த வருடத்திற்குள் நடத்தப்படும் என்றும் ஜனாதிபதி தெரிவித்துள்ளார். ஜனாதிபதி அநுரகுமார திசாநாயக்க  மல்வத்து மற்றும் அஸ்கிரிய மகாநாயக்க தேரர்களை சந்தித்து ஆசிர்வாதம் பெற்றுக் கொண்டார்.
 
-முதலில் மல்வத்து விகாரைக்கு சென்ற ஜனாதிபதி மல்வத்து மகாநாயக்க தேரர் வண. திப்படுவாவே ஸ்ரீ சுமங்கல தேரரை சந்தித்து அவரிடம் நலம் விசாரித்ததுடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
 
-தற்போதைய அரசியல் நிலைமைகள் மற்றும் ஜனாதிபதியின் அண்மைய இந்திய விஜயம்  குறித்தும் கலந்துரையாடப்பட்டது.
+"Local govt & provincial council elections next year: President Anura Kumara Dissanayake meets Buddhist leaders, receives blessings. Political discussions & future tasks mentioned."
 
-அதனையடுத்து மல்வத்து மகாநாயக்க தேரர் தலைமையிலான மகா சங்கத்தினர் செத் பிரித் பாராயணம் செய்து ஜனாதிபதிக்கு ஆசி வழங்கினர்.
+🟩
 
-அதனையடுத்து அஸ்கிரிய விகாரைக்கு சென்ற ஜனாதிபதி அநுரகுமார திசாநாயக்க அஸ்கிரிய பீடத்தின் மகாநாயக்க தேரர் வண. வரகாகொட ஸ்ரீ ஞானரத்தன தேரரை சந்தித்து ஆசி பெற்றுக்கொண்டார்.
+President Anuragumara Dissanayake has said that the local government elections will be held ahead of the Sinhala and Tamil New Year next year.
+
+The President also said that the provincial council election will also be held within the next year. President Anura Kumara Dissanayake met Malwathu and Asgiriya Mahanayaka Thera and received blessings.
+
+President Malwathu Mahanayaka Thera Vana first visited the Malwathu Vihara. Tedaduwaway met Sri Sumangala Thera and inquired about him and discussed it.
+
+The current political situation and the recent visit to the President were discussed.
+
+Subsequently, the Maha Sangha led by Malwathu Mahanayaka Thera recited the Seth Prith and blessed the President.
+
+President Anura Kumara Dissanayake, who then visited the Asgiriya Vihara, the Mahanayaka Thera of the Asgiriya Faculty. Varakagoda met Sri Gnanarathana Thera and blessed.
 
 ...
 
 [Data](articles/cf8ee80b.json)
+
+[Extended Data](ext_articles/cf8ee80b.ext.json)
 
 ---
 
@@ -2393,21 +2421,5 @@ When the policy conflicts intensify due to open market operations to narrowly ta
 ...
 
 [Data](articles/8ff2760f.json)
-
----
-
-### Link Natural honoured at Best Corporate Citizen Sustainability Award 2024
-
-*2024-12-20 06:31:55* · [`dailyftlk`](https://www.ft.lk/business/Link-Natural-honoured-at-Best-Corporate-Citizen-Sustainability-Award-2024/34-770762) · `en`
-
-From left: Link Natural Products Head of Agriculture/ Manager – CSR and ER Priyantha Collonnege, Chief Operating Officer Chamari Wickramathilake, and Chief Executive Officer Ashan Ransilige accept award for Best Sustainability Projects Award 2024, at Best Corporate Citizen Sustainability Awards of Ceylon Chamber of Commerce
-
-Link Natural, a subsidiary of CIC Holdings, was honoured to declare its ongoing dedication to sustainability through the ‘Saara Osu’ project. Recently, the project was recognised with the Best Sustainability Projects Award 2024, at The Best Corporate Citizen Sustainability Awards organised by the Ceylon Chamber of Commerce.
-
-...
-
-[Data](articles/e25fbbdb.json)
-
-[Extended Data](ext_articles/e25fbbdb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 12:43:15**
+As of **2024-12-20 13:26:46**
 
 ## Newspaper Stats
 
-*Scraped **61,163** Articles*
+*Scraped **61,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,831
 adaderanalk | 7,455
-tamilmirrorlk | 8,745
+tamilmirrorlk | 8,747
 virakesarilk | 10,089
 adaderanasinhalalk | 10,557
 
@@ -26,55 +26,137 @@ adaderanasinhalalk | 10,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,945 (99.6%) of 61,163 articles have been extended.
+60,951 (99.7%) of 61,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### மியன்மார் படகு விவகாரம்: 115 பேரிடமும் விசாரணை
+### Dealer arrested for hiding rice
+
+*2024-12-20 13:03:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அரிசியை-மறைத்த-வியாபாரி-கைது/76-349004) · `ta`
+
+Dealer arrested for concealing rice. Police and Consumer Service officials seized hidden grains in Nuwara Eliya. Investigation led by Superintendent Prasadi Weerasekera. 360 kg rice discovered, including 26 kg.
+
+🟩
+
+Police officers and Nuwara Eliya Consumer Service Authority officials have seized a rice who had been hidden by the Consumer Service Officers.
+
+Based on some information received from several customers in Ginigathena area, the police officer Viraj Vidanage, the Commander of the Police Station, Viraj Vidanage, the Commander of the Police Station, Viraj Vidanage, Nuwara Eliya District Customer Service Officers, on the work of the Superintendent of Police, Prasadi Weerasekera in charge of the Hatton Division.
+
+At the time, 360 kg of rice, including 21 kg of rice and 05 kg of rice, were found from the store.
+
+◼️
+
+[Data](articles/dbead30f.json)
+
+[Extended Data](ext_articles/dbead30f.ext.json)
+
+---
+
+### For Rishad's claim: Ulama Corporation condemns
+
+*2024-12-20 12:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிசாத்தின்-கூற்றுக்கு-உல-மா-க-ட்சி-கண்டனம்/175-349002) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ulama Corp criticizes MP Rishad Badidin over claims about Al-Alim exams. They argue against equating Moulavi qualifications with Al-Alim certifications, citing unfair treatment of Moulavi teachers. The party demands Rishad retract his statement.
+
+🟩
+
+The Paradise Member of Parliament, Rishad Badidin, has said that it is the ignorance of the party that has said that Al -Alim's examination is the only one who is the author of the Moulavimar as teachers.
+
+Al -Alim said in a press release sent to the media regarding the exam.
+
+The reason for the creation of the Almighty It does not mean that the smaller is better than the rim.
+
+But then Rishad Badiudeen and Rauf Hakim were the ministers who were ministers, and the Moulavi editor of the Moulavi Editor to the Editor. Since then, the Ulama Party has been in the process.
+
+If a person who has been held at the GCE high -rise, the teacher's appointment is available for three years at Kalvikkaluri.
+
+But if a Moulavi is available for a Moulavi, it is the great injustice it is to Moulavi to pass the Moulavi and end the GCE high -level and to pass the Al -Alim exam.
+
+...
+
+[Data](articles/950f0ecf.json)
+
+[Extended Data](ext_articles/950f0ecf.ext.json)
+
+---
+
+### Myanmar Boat affair: 115 people
 
 *2024-12-20 12:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மார்-படகு-விவகாரம்-115-பேரிடமும்-விசாரணை/175-349001) · `ta`
 
-மியான்மார் படகில் திருகோணமலைக்கு கொண்டுவரப்பட்ட 35 ஆண்கள்,25 பெண்கள்,43 சிறுவர் மற்றும்12 படகோட்டிகள் உற்பட 115 பேரிடமும் திருகோணமலை துறைமுக பொலிஸார் வாக்கு மூலம் பெற்றுக்கொண்டிருக்கின்றனர்.
+Here's a summary of 200 characters:
 
-வாக்குமூலம் பெற்றுக்கொண்டதன் பின்னர்,    அனைவரையும் திருகோணமலை நீதிவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட உள்ளதாகவும்,அதன் பின்பு நீதிமன்றம் வழங்கும் உத்தரவிற்கு அமையவே  இவர்களை குறித்து முடிவெடுக்கப்படும் என்றும் பொலிஸார் கூறினர்.
+
+
+Myanmar Boat Affair: 115 rescued. 35 men, 25 women, 43 children arrived in Trincomalee on 12 sailboats. Police to produce all before court for further action.
+
+🟩
+
+The Trincomalee port police have received 35 men, 25 women, 43 children and 12 sailboats brought to Trincomalee on the Myanmar boat.
+
+After receiving the affidavit, the police said that all would be produced before the Trincomalee Magistrate's Court and that the decision would be made in accordance with the court order.
 
 ◼️
 
 [Data](articles/12848305.json)
 
+[Extended Data](ext_articles/12848305.ext.json)
+
 ---
 
-### “அரசியல் இலஞ்சம் பெற்ற இருவர் போட்டியிடவில்லை”
+### “Two political bribes are not contesting”
 
 *2024-12-20 12:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-இலஞ்சம்-பெற்ற-இருவர்-போட்டியிடவில்லை/175-349000) · `ta`
 
-எங்கள் எம்.பிக்கள் இருவர் மதுபானசாலைகள் அமைப்பதற்கு அனுமதி பெற்றுக்கொடுத்ததாக ஒப்புக்கொண்டார்கள். அவ்விருவரும் இம் முறை தேர்தல் போட்டியிடவில்லை என யாழ். மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+"Two former MPs agreed to recommend liquor store licenses without contesting recent elections. 361 licenses issued, sparking political bribery allegations. High Court case pending on district liquor store limits."
 
-பருத்தித்துறை வி.எம் றோட்டில் உள்ள யாழ் வடமராட்சி ஊடக இல்லத்தில்  வியாழக்கிழமை (19)  நடத்திய பத்திரிகையாளர்  சந்திப்பில் கலந்துகொண்டு கருத்து​ தெரிவித்த போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ஒவ்வொரு மாவட்டத்துக்கும் மதுபானசாலைகள் அனுமதிக்கு ஒரு வரையறை உண்டு அந்த வரையறைக்குள் இந்த அனுமதியைப் பெற்றுள்ளார்களா. ஆனால் அவர்கள் இம் முறை தேர்தலில் போட்டியிடவில்லை.
+Two of our MPs agreed that they were allowed to set up liquor stores. Jaffna has not contested the election. Former parliamentarian MA Sumanthiran said.
 
-கடந்த காலங்களில் 361 மதுபானசாலைகளுக்கு அனுமதி வழங்கப்பட்டுள்ளது. இது ஒரு வகையில் அரசியல் இலஞ்சமாகும். இவை எம்.பிக்களின் சிபாரிசில் செய்யப்பட்டுள்ளன. இதனை வெளிப்படுத்துவோம் என தேர்தல் பிரச்சாரத்தின் போது தெரிவிக்கப்பட்டது. ஆனால் வெறுமனே அத்தனை மதுபானசாலைகளுக்கும் அனுமதி வழங்கப்பட்டுள்ள போதும் எந்தெந்த எம்.பிக்களின் சிபாரிசில் அவை வழங்கப்பட்டது.எனத் தெரிவிக்கப்படவில்லை.
+He said this while participating in a press conference held at the Jaffna Vadamarachchi Media House in VM Road in Point Pedro on Thursday (19).
+
+Each district has a definition of liquor schools permits.. But they did not contest the election this time.
+
+361 liquor schools have been granted permission in the past. This is a political bribery. These have been made on the recommendation of MPs. It was announced during the election campaign that we would reveal this. But even though all the liquor schools were allowed, they were given in the recommendation of any MPs.
+
+This is a type of political bribery. The High Court has a case regarding how many schools a district should be located. I hope that its verdict will be released in January.
 
 ...
 
 [Data](articles/15184fb9.json)
 
+[Extended Data](ext_articles/15184fb9.ext.json)
+
 ---
 
-### காசோலை மோசடி: முன்னாள் எம்.பி கைது
+### Check fraud: former MP arrested
 
 *2024-12-20 12:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காசோலை-மோசடி-முன்னாள்-எம்-பி-கைது/175-348999) · `ta`
 
-காசோலை மோசடி தொடர்பில் முன்னாள் பாராளுமன்ற உறுப்பினர் கு. திலீபன் மற்றும் அவரின் முன்னாள் செயலாளர் தினேஷ் ஆகியோர் வவுனியா பொலிஸாரால் கைது செய்யப்பட்டு வவுனியா நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டுள்ளனர்.
+Here's a summary in 200 characters:
 
-காணி ஒன்றை குத்தகை அடிப்படையில் பெற்றுத்தரவும் கூறி 20 லட்சம் ரூபாய் காசோலை மோசடி தொடர்பில் இருவரும் பொலிஸாரால் கைது செய்யப்பட்டனர். இருவரும் வவுனியா நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்டனர்.
+
+
+Former MP Dileepan and his former secretary Dinesh arrested by Vavuniya police for fraud involving 20 lakhs rupees related to a lease deal. Produced before Vavuniya court.
+
+🟩
+
+Former Member of Parliament. Dileepan and his former secretary Dinesh have been arrested by the Vavuniya police and produced before the Vavuniya court.
+
+20 lakhs of rupees was arrested by police in connection with a lease. Both were produced before the Vavuniya Court.
 
 ◼️
 
 [Data](articles/64c16818.json)
+
+[Extended Data](ext_articles/64c16818.ext.json)
 
 ---
 
@@ -186,19 +268,31 @@ News can be seen through newspapers, televisions and radio in the past. Currentl
 
 ---
 
-### ’ක්ලීන් ශ්‍රී ලංකා’ ජනාධිපති  කාර්ය සාධක බලකාය පිහිටුවමින් අති විශේෂ ගැසට්ටුවක්
+### 'Clene Sri Lanka' was a special gazette
 
 *2024-12-20 11:13:30* · [`adalk`](https://www.ada.lk/breaking_news/’ක්ලීන්-ශ්‍රී-ලංකා’-ජනාධිපති--කාර්ය-සාධක-බලකාය-පිහිටුවමින්-අති-විශේෂ-ගැසට්ටුවක්/11-413749) · `si`
 
-රජය මගින් ක්‍රියාත්මක කිරීමට නියමිත  "ක්ලීන් ශ්‍රී ලංකා"  වැඩ සටහන සැලසුම් කර ක්‍රියාත්මක කිරීම සඳහා වන ජනාධිපති කාර්ය සාධක බලකාය ස්ථාපිත කර  එහි සාමාජිකයන් පත් කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් ඊයේ (19) දාතමින් අති විශේෂ ගැසට් පත්‍රයක් ප්‍රකාශයට පත් කෙරිණි .
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අනුව " ක්ලීන් ශ්‍රී ලංකා"  ජනාධිපති කාර්ය සාධක බලකායේ සාමාජිකයන් ලෙස ජනාධිපති ලේකම් එන්.එස්.කුමානායක ,යුධ හමුදාපති,ගුවන් හමුදාපති ,නාවික හමුදාපති, වැඩ බලන පොලිස්පති ඩබ්ලිව් .එල්.ඒ.සමන් ප්‍රියන්ත ,නාගරික සංවර්ධන අධිකාරියේ සභාපති ඉන්ජිනේරු කුමුදුලාල් ද සිල්වා,අයි.එස්.ජයරත්න ,ගිහාන්ද සිල්වා,සන්ධ්‍යා සල්ගාදු,ආචාර්ය ගාමිණී බටුවිටගේ,ආචාර්ය අනුරුද්ධ ගමගේ,දිල්රුක්  වනසිංහ, දීපාල් සූරියආරච්චි , සිසිර අමරබන්දු, ක්‍රිශාන්ත කුරේ, ජයතු පෙරේරා ,රුවන් වීරසූරිය , දයාන් කරුනාරත්න යන මහත්වරුන් හා නිලධාරීන් ජනාධිපතිවරයා විසින්  පත් කරනු ලැබ සිටිති.
 
-මෙම කාර්ය සාධක බලකායේ සභාපති ලෙස ජනාධිපති ලේකම් එන්.එස්.කුමානායක මහතාද, ලේකම් හා කැඳවුම්කරු ලෙස ජනාධිපති ජෙෂ්ඨ අතිරේක ලේකම්  ජී.එම්.ආර්.ඩී.අපෝන්සු මහතාද පත්කල බව ගැසට් නිවේදනයේ සඳහන්වේ.
 
-...
+"Clene Sri Lanka" gazette issued by President Anura Kumara Dissanayake. Appointed Presidential Task Force led by Jayaratne, Silva, Sooriyarathna, Weerasuriya. Task Force aims to implement "Clean Sri Lanka" program focusing on social, environmental, and ethical awakening.
+
+🟩
+
+President Anura Kumara Dissanayake was announced by President Anura Kumara Dissanayake yesterday (19), appointing the Presidential Task Force to plan and implementing the "Clein Sri Lanka 'program.
+
+Accordingly, the Secretary to the Presidential Task Force is the members of the Presidential Task Force.The President was appointed by the President of the President of the ISF Jayaratne, Gihananda Silva, Dr. Anural Sooriyaara, Dilruh Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya.Are there.
+
+Presidential Secretary of the President NS Senge Secretary NSM Jayantha was appointed as the Secretary to the Secretary to the Secretary to the Secretary and the Convener of the President.
+
+The Task Force also assigned to present the "Clean Sri Lanka 'program to the President on the basis of the purpose of planning, operation, implementing the" Clin Sri Lanka "to meet the objectives of the social, environmental, environmental and ethical awakening.
+
+◼️
 
 [Data](articles/b29fba95.json)
+
+[Extended Data](ext_articles/b29fba95.ext.json)
 
 ---
 
@@ -2099,61 +2193,5 @@ Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, D.. J.. Banu, John Kokan, Lal, L
 [Data](articles/3be1b7b0.json)
 
 [Extended Data](ext_articles/3be1b7b0.ext.json)
-
----
-
-### Produced by Director Lokesh Kanakaraj 'Mister. Exclusive video release of Bharat '
-
-*2024-12-19 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201689) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Exclusive video release: Bharat, directed by Lokesh Kanakaraj and Niranjan. Starring Bharat, Samyukta Viswanathan, Bala Saravanan. Music by Om Narayan. Produced by Avala Comedy, co-produced by J Squat. Internet generation scenes. Over 1 million views."
-
-🟩
-
-Popular actor Bharat on the social media site called Valadi. The debut video of the movie Bharat 'has been released.
-
-Directed by Director Niranjan, who directed videos for the social media site called Valayoli. Bharat, Samyukta Viswanathan, Bala Saravanan, Finance Pradeep, R. Sundarrajan, Linga, Aditya Kadir. Pranav Muni Raj is composed by Om Narayan.
-
-The film is being produced by Avala comedy and is co-produced by Lokesh Kanakaraj- Jagadish Palanisamy and Sudan Sundaram on behalf of J Squat.
-
-Introduction to the film has been released. The scenes featured in the Internet generation. Thus, within a short period of time, the video has been visited by more than a million viewers.
-
-◼️
-
-[Data](articles/dc5578ad.json)
-
-[Extended Data](ext_articles/dc5578ad.ext.json)
-
----
-
-### A man arrested with ice drugs in Kadavatha
-
-*2024-12-19 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201686) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man arrested in Kadavatha for possessing ice drugs. Police raided based on tip-off, seizing 10g of 300mg ice. Suspect, 40-year-old from Konahena, detained by Kadawatha police on Wednesday.
-
-🟩
-
-A suspect was arrested by police on Wednesday (18) in Bianwala area, which belongs to the Kadawatha Police Division.
-
-The suspect has been arrested during a raid carried out on the basis of confidential information received by a group of Kadawatha police station officials.
-
-The arrested suspect is a 40 -year -old from Konahena.
-
-10 grams of 300 milligrams of ice has been seized by the police.
-
-◼️
-
-[Data](articles/a9c40cfc.json)
-
-[Extended Data](ext_articles/a9c40cfc.ext.json)
 
 ---

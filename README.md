@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 20:14:30**
+As of **2024-12-20 20:27:05**
 
 ## Newspaper Stats
 
-*Scraped **61,224** Articles*
+*Scraped **61,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,836
 adaderanalk | 7,467
-tamilmirrorlk | 8,752
+tamilmirrorlk | 8,753
 virakesarilk | 10,103
 adaderanasinhalalk | 10,576
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,576
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,992 (99.6%) of 61,224 articles have been extended.
+60,994 (99.6%) of 61,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### காலியில் துப்பாக்கிச்சூடு
+
+*2024-12-20 20:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-துப்பாக்கிச்சூடு/175-349011) · `ta`
+
+காலி - தடெல்ல பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கராப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த நபர் மோட்டார் சைக்கிளில் பயணித்த போது, ​​மற்றொரு மோட்டார் சைக்கிளில் வந்த இருவர் துப்பாக்கிச் சூடு நடத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/161186bf.json)
+
+---
 
 ### Shooting in Galle Dadlla
 
@@ -136,25 +150,37 @@ The Provincial Council elections will also be held within next year, he said, du
 
 [Data](articles/86357923.json)
 
+[Extended Data](ext_articles/86357923.ext.json)
+
 ---
 
-### නුවර ගිය ජනපතිගෙන් ඉදිරි මැතිවරණ ගැන ඉඟියක්
+### President of the President's President's President
 
 *2024-12-20 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204563) · `si`
 
-පළාත් පාලන මැතිවරණය එළැඹෙන සිංහල අලුත් අවුරුද්දට පෙර පැවැත්වීමට නියමිත බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a summary in 200 characters:
 
-ඒ සඳහා වූ නාමයෝජනා නැවත කැඳවීමට අදාළ පනත මේ වනවිට සකස් කර ඇති බවද  ජනාධිපතිවරයා සඳහන් කළේය.
 
-අද (20) පස්වරුවේ මල්වතු හා අස්ගිරි මහා නා හිමිපාණන් වහන්සේලා බැහැ දැක ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
 
-"පළාත් පාලන මාතිවරණය 2023 මාර්තු මාසයේ පැවැත්වීමට නාමයෝජනා කැඳවුවා. නමුත් ඒ වෙලාවේ හිටපු පක්ෂත් අද නෑ. සමහර සන්ධාන කැඩිලා. ඒ නිසා ඒ නාමයෝජනා කැන්සල් කරලා අලුත් නාමයෝජනා කැ﻿ඳවිය යුතු බව අපි හිතනවා. ඒ නිසා අපි පසුගිය දා කැබිනට් මණ්ඩලය තීරණයක් අරන් දැනට නාමයෝජනා කැන්සල් කිරීමට අදාළ පනත සකස් කරලා තියෙන්නේ. ඒක ජනවාරියේ පාර්ලිමේන්තුවට ඉදිරිපත් කරනවා. ඊට පස්සේ නැවත නාමයෝජනා කැඳවලා අපි පළාත් පාලන මැතිවරණය පැවැත්වීමට අවුරුද්දට කලින් කටයුතු සුදානම් කරනවා."
+Sri Lanka's President Anura Kumara Dissanayake announces local gov't election before new year. Nomination recall bill to be presented to Parliament in January. Provincial council elections delayed until next year due to issues.
 
-මේ අතර පළාත් සභා මැතිවරණය ගැටලු ගණනාවක් හිරවී ඇති බවත් ඒ නිසාවෙන් එය ලබන වසර ඇතුළත පැවැත්වීමට කටයුතු කරන බවත් ජනාධිපතිවරයා වැඩිදුරටත් පැවසීය.
+🟩
+
+President Anura Kumara Dissanayake says that the local government election is scheduled to be held before the new year.
+
+The bill has been prepared to recall the nominations for the nomination.
+
+Speaking to the media, the President made these comments addressing the media following the clashes of the Malwatte and Asgiri Maha Na Thera this afternoon.
+
+"The nominations called for in March 2023. But today, former parties have not today. Some alliances are broken. So we think that nomination should be castly and the new nominations should be cut. Therefore, we have recently decided the Cabinet of Cabinet at present, the bill related to nomination casual. It is presented to Parliament in January. Then we call the local government election before the year will be arranged before the year. "
+
+Meanwhile, the President added that the provincial council elections were stuck in a number of issues and it will be held next year.
 
 ◼️
 
 [Data](articles/98a4b9ed.json)
+
+[Extended Data](ext_articles/98a4b9ed.ext.json)
 
 ---
 
@@ -2301,27 +2327,5 @@ On 17 December 2024, Idampitiyegedara Wanigasuriya Mudiyanselage Jagath Wickrama
 [Data](articles/ba601561.json)
 
 [Extended Data](ext_articles/ba601561.ext.json)
-
----
-
-### Sri Lanka to review role of 115 state entities costing Rs140bn a year
-
-*2024-12-20 06:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-review-role-of-115-state-entities-costing-rs140bn-a-year-195228/) · `en`
-
-ECONOMYNEXT – Sri Lanka will review the role of 115 state entities which cost 140 billion rupees a year to maintain, Cabinet Spokesman Nalinda Jayatissa said.
-
-Sri Lanka now has 86 departments, 25 district secretariats, and 339 divisional secretariats; 340 enterprises owned by the government and 115 non-commercial state statutory institutions other than police.
-
-“There are boards, commissions, foundations, universities and statutory entities,” Jayatissa said.
-
-“In the 2024 budget, 140 billion rupees was allocated for these entities.”
-
-The 115 non-commercial state statutory institutions come under the supervision of the Department of National Budget and 51 institutions under the Department of Public Enterprises.
-
-The purpose of these establishments has decreased over time, or the entities have lost its timeliness, and they lack or have very little power to initiate programs, and sometimes overlap with other establishments, Jayatissa said.
-
-...
-
-[Data](articles/b80b20e2.json)
 
 ---

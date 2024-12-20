@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 08:26:03**
+As of **2024-12-20 08:47:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,922 (99.7%) of 61,125 articles have been extended.
+60,925 (99.7%) of 61,125 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,6 +132,8 @@ Padukka explained that through the launching of this website, customers can obta
 
 [Data](articles/add9bc7d.json)
 
+[Extended Data](ext_articles/add9bc7d.ext.json)
+
 ---
 
 ### Family Movers celebrates 35 years of happy moving experiences
@@ -141,6 +143,8 @@ Padukka explained that through the launching of this website, customers can obta
 ...
 
 [Data](articles/9ed998c3.json)
+
+[Extended Data](ext_articles/9ed998c3.ext.json)
 
 ---
 
@@ -155,6 +159,8 @@ In recent times, the removal and appointment of Waqf Board members have become a
 ...
 
 [Data](articles/acce6d52.json)
+
+[Extended Data](ext_articles/acce6d52.ext.json)
 
 ---
 

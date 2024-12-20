@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 03:42:44**
+As of **2024-12-21 04:27:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,031 (99.6%) of 61,266 articles have been extended.
+61,035 (99.6%) of 61,266 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,15 +90,21 @@ The Magistrate's police have ordered the police to register the case in accordan
 
 ---
 
-### சாணக்கியன், சுமந்திரன் நோர்வே தூதுவருடன் கலந்துரையாடல்!
+### Chanakyan, Sumanthiran discussed with Norwegian Ambassador!
 
 *2024-12-21 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201775) · `ta`
 
-இந்தியாவுக்கும் இலங்கைக்குமான நோர்வே தூதுவரை H.E. May-Elin Stener, 20ஆம் திகதி வெள்ளிக்கிழமை சந்தித்து எமது மக்களின் பல முக்கிய விடயங்கள் மற்றும் சமகால அரசியல் தொடர்பாக தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியனும் முன்னாள் பாராளுமன்ற உறுப்பினரும் ஜனாதிபதி சட்டத்தரணியுமான ம. சுமந்திரனுடன் சந்தித்து கலந்துரையாடினர்.
+Sumanthiran meets Norwegian Ambassador: Discusses key issues and current political topics with Chanakyan, ex-MP and Presidential lawyer.
+
+🟩
+
+H.E.. May-Elin Stener met on Friday the 20th and the TNA MP on many important issues and contemporary politics. Chanakyan and former MP and President's lawyer. They met with Sumanthiran.
 
 ◼️
 
 [Data](articles/f05a5767.json)
+
+[Extended Data](ext_articles/f05a5767.ext.json)
 
 ---
 
@@ -332,6 +338,8 @@ Consul General participated in the event as the Chief Guest, alongside other dig
 
 [Data](articles/647e4e87.json)
 
+[Extended Data](ext_articles/647e4e87.ext.json)
+
 ---
 
 ### Sri Lanka wins many trophies including 16 championship trophies at the UCMAS International Competition in New Delhi
@@ -390,6 +398,8 @@ Dementia indeed is a very sad disease where the personality, habits and the rout
 
 [Data](articles/888f0edc.json)
 
+[Extended Data](ext_articles/888f0edc.ext.json)
+
 ---
 
 ### Untold lessons: Economic insights from history for Sri Lanka’s crisis
@@ -405,6 +415,8 @@ These challenges are not unique to Sri Lanka; they echo the historical pitfalls 
 ...
 
 [Data](articles/dd7f2c5a.json)
+
+[Extended Data](ext_articles/dd7f2c5a.ext.json)
 
 ---
 

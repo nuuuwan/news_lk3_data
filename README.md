@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 11:43:40**
+As of **2024-12-20 12:02:53**
 
 ## Newspaper Stats
 
-*Scraped **61,155** Articles*
+*Scraped **61,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,112 @@ economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,830
-adaderanalk | 7,454
+adaderanalk | 7,455
 tamilmirrorlk | 8,742
 virakesarilk | 10,089
-adaderanasinhalalk | 10,556
+adaderanasinhalalk | 10,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,938 (99.6%) of 61,155 articles have been extended.
+60,940 (99.6%) of 61,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### கலன்பிந்துனுவெவயில் உள்நாட்டுத் துப்பாக்கியுடன் ஒருவர் கைது !
+### හිමාලි අරුණතිලක කිසිදු වංචාවක් සිදුකර නෑ - ඇමති විජිත
+
+*2024-12-20 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204545) · `si`
+
+ඔස්ට්‍රේලියානු මහ කොමසාරිස් කාර්යාලයේ හිටපු නියෝජ්‍ය මහ කොමසාරිස්වරියක් ලෙස සේවය කළ හිමාලි අරුණාතිලක මහත්මිය සම්බන්ධයෙන් එල්ල වන චෝදනා සම්පූර්ණයෙන්ම අසත්‍ය බව අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+රජයේ ප්‍රවෘත්ති දෙපාර්තුමේන්තුවේ අද (20)﻿ පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරයා පවසා සිටියේ, සේවිකාවකට වැටුප් ගෙවීම සම්බන්ධයෙන් ඇය කිසිදු වංචාවක් සිදුකර නොමැති බවය.
+
+හිමාලි අරුණාතිලක මහත්මිය මේ වනවිට ජිනීවා මානව හිමිකම් කවුන්සිලයේ ශ්‍රී ලංකාවේ නිත්‍ය නියෝජිතවරිය ලෙස කටයුතු කරන අතර ඇය රට වෙනුවෙන් අදටත් සේවය කරමින් සිටින බව ද අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+ඇය ඔස්ට්‍රේලියානු මහ කොමසාරිස් කාර්යාලයේ නියෝජ්‍ය මහ කොමසාරිස්වරියක් ලෙස සේවය කරමින් සිටිය දී මෙරට සේවිකාවකට නිසි ලෙස වැටුප් නොගෙවීම සම්බන්ධයෙන් ඇයට එරෙහිව ඔස්ට්‍රේලියාවේ ෆෙඩරල් අධිකරණයේදී ඩොලර් ලක්ෂයකට අධික දඩයක් නියම කෙරුණි.
+
+ඒ සම්බන්ධයෙන් මාධ්‍යවේදියෙක් අසන ලද පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා සඳහන් කළේ, ඇය කිසිදු පෞද්ගලික වංචාවක් සිදුකර නොමැති අතර රාජ්‍ය තාන්ත්‍රික පුද්ගලයින් සඳහා සේවයේ නිරත අයට වැටුප් ගෙවනු ලබන්නේ ලංකා ආණ්ඩුවෙන් බවය.
+
+...
+
+[Data](articles/d2691d4b.json)
+
+---
+
+### SC upholds death sentence for Vass Gunawardena and four others
+
+*2024-12-20 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104370/sc-upholds-death-sentence-for-vass-gunawardena-and-four-others) · `en`
+
+The Supreme Court has upheld the death sentence imposed on former DIG Vass Gunawardena and four others, who were convicted over the abduction and murder of businessman Mohammed Siyam in 2013.
+
+The defendants were informed of this decision today in the Colombo High Court.
+
+Prison officials presented the five defendants in the case, including former Deputy Inspector General of Police (DIG) Vass Gunawardena and his son, Ravindu Gunawardena, before the court which announced the decision today.
+
+Colombo High Court Judge Aditya Patabendige informed the defendants that their appeals had been rejected, and the death sentence imposed by a three-member Colombo High Court bench had been upheld.
+
+The attorney representing the defendants raised concerns regarding the implementation date of the sentence, noting that the Supreme Court had not specified when the death sentence would be enforced.
+
+He pointed out that this detail was crucial if the defendants were hoping for a presidential pardon.
+
+...
+
+[Data](articles/6383ca8c.json)
+
+---
+
+### One person arrested with domestic gun in Kalapindunuwe
 
 *2024-12-20 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201716) · `ta`
 
-கலன்பிந்துனுவெவ, மொறகொட பிரிவுக்குட்பட்ட பிரதேசத்தில் உள்நாட்டுத் துப்பாக்கியை வைத்திருந்த சந்தேக நபர் ஒருவர் பொலிஸாரால் நேற்று வியாழக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-பொலிஸாருக்கு கிடைத்த தகவலொன்றுக்கமைய மொறகொட பொலிஸ் பிரிவின் மஹதிவுள்வெவ பகுதி வீடொன்றில் நடத்திய சுற்றிவளைப்பின் போது சந்தேக நபர் ஒருவரை கைது செய்துள்ளதுடன், சட்டவிரோத துப்பாக்கி ஒன்றையும் மொறகொட பொலிஸ் நிலைய குற்றத்தடுப்பு பிரிவு பொலிஸார் கைப்பற்றியுள்ளனர்.
+
+
+Person arrested with domestic firearm in Kalapindunuwe area. Incident occurred on Thursday (19) during police raid in Mahadivulva, Moragoda Police Division.
+
+🟩
+
+A suspect who had a domestic gun in the Kalanpindunuwewa area area was arrested by police on Thursday (19).
+
+According to the information received by the police, a suspect was arrested during a raid on the Mahadivulva area of ​​the Moragoda Police Division.
 
 ◼️
 
 [Data](articles/1bc9bf16.json)
 
+[Extended Data](ext_articles/1bc9bf16.ext.json)
+
 ---
 
-### எனது தோல்விக்கு சமூக ஊடகங்களும் ஒரு காரணம் -  டக்ளஸ் தேவானந்தா
+### Social media is also a reason for my failure - Douglas Devananda
 
 *2024-12-20 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201713) · `ta`
 
-எனது தோல்விக்கு சமூக ஊடகங்களும் ஒரு காரணம் என முன்னாள் கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தெரிவித்துள்ளார்.
+Douglas Devananda attributes election loss to social media misinformation. He claims false propaganda spread via social platforms contributed to his defeat. The former fisheries minister accuses a Jaffna businessman of spreading slander, citing unresolved trade issues as motivation.
 
-இந்த தேர்தலில் எமக்கு பின்னடைவு ஏற்பட்டுள்ளது. அதனை சமாளிக்க அரசியலில் தற்காலிக ஓய்வு என்றும் கூறலாம். அமைச்சராக இருந்த போது, தலைக்கு மேலாக வேலை இருந்தது. தற்போது அது இல்லை.
+🟩
 
-இதனால் கட்சிக்குள் உள்ள குறைப்பாடுகளை நீக்க அது தொடர்பில் ஆராய்கிறோம். குறைகளை நிவர்த்தி செய்ய நடவடிக்கை எடுத்துள்ளதுடன், கட்சியின் கொள்கை தொடர்பில் மக்கள் மத்தியில் கொண்டு செல்வதற்கும் நடவடிக்கைகளை எடுத்துள்ளோம். மிக விரைவில் கட்சியின் தேசிய மாநாட்டையும் நடாத்த உள்ளோம்.
+Former Fisheries Minister Douglas Devananda said social media was also the reason for my failure.
 
-டக்ளஸின் வீழ்ச்சிக்கும், அநுராவின் எழுச்சிக்கும் சமூக வலைத்தளங்களே காரணம். சமூக வலைத்தளங்கள் ஊடாக எனக்கு எதிராக பொய்யான பரப்புரைகளை மேற்கொண்டனர்.
+We have a setback in this election. It can also be called a temporary rest in politics. When was the minister, there was work on the head. At present it is not.
 
-என்னுடைய பெயரை பயன்படுத்தி அவர்கள் வருமானம் பெற்றுக்கொள்வதால், அவர்களின் வருமானத்தை தடுக்க விரும்பாததால், அவர்களின் வீடியோக்களை பெரிது படுத்தவில்லை.
+Thus we examine the reduction within the party. We have taken steps to address the grievances and take steps to bring the people to the policy of the party. We will also hold the party's national conference very soon.
+
+Social websites are responsible for the fall of Douglas and the rise of Anura. They carried out false propaganda against me through social websites.
+
+They do not exacerbate their videos because they do not want to prevent their income because they are using my name.
+
+News can be seen through newspapers, televisions and radio in the past. Currently, with a hand phone, from the sewage to the bedroom to the bedroom, it is easy to watch the videos, so it reaches people.
 
 ...
 
 [Data](articles/4a691e9c.json)
+
+[Extended Data](ext_articles/4a691e9c.ext.json)
 
 ---
 
@@ -2131,65 +2191,5 @@ Everyone should remember that democracy in this country is still in effect becau
 [Data](articles/40286664.json)
 
 [Extended Data](ext_articles/40286664.ext.json)
-
----
-
-### Special Message to Census of Population and Housing
-
-*2024-12-19 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204529) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Census update: Data collected on homeless individuals. Revision of Census Day announced. Public support requested. Census crucial for national policies & governance. Conducted every 10 years. Phase 1 covers selected areas. Phase 2 begins Dec 7, 2024. Accurate information mandatory."
-
-🟩
-
-The collection of persons such as the deficiencies that have been conducted by the Department of Census and Statistics have collect information on persons with no specific beggars yesterday (18).
-
-The event was successfully completed yesterday, covering this task yesterday.
-
-In addition, a revision of the "Census Day" will be revised by today, based on today's census date.
-
-The Department also requests the public to provide generous support.
-
-The information from this census is important to provide the country's national policy tools, plans and public administration mechanism.
-
-Census of the Department of Census and Housing is conducted by the Department of Census and Statistics every ten years.
-
-The first phase of this census was allocated to small parts of the entire island, based on the Grama Niladhari Divisions of the GN and the second stage of buildings and units of red labels in 2023.
-
-The list was started on October 7, 2024, on the 7th of December 2024, on the basis of the list.
-
-...
-
-[Data](articles/0afbf918.json)
-
-[Extended Data](ext_articles/0afbf918.ext.json)
-
----
-
-### Sri Lanka must stick with IMF programme in ‘good times and bad’ – Ranil
-
-*2024-12-19 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104359/sri-lanka-must-stick-with-imf-programme-in-good-times-and-bad-ranil) · `en`
-
-Former President Ranil Wickremesinghe says that criticism pertaining to the country’s economy should be made within the framework of the International Monetary Fund (IMF) agreement.
-
-Issuing a special statement today (19), he emphasized that it is necessary to move forward and protect the IMF agreement and that neither the government nor the opposition has the ability to exit that agreement.
-
-“If we do so, economic problems will arise in this country again,” he warned.
-
-The former President said that Sri Lanka is preparing to issue new international bond coupons before December 20 and that all related activities are now completed.
-
-“All we have to do now is issue a declaration that we have come out of bankruptcy. After that, the banks will also take the necessary relief measures.”
-
-Wickremesinghe said that at the same time, relief must be provided to the people. “We have talked about this before. Every possible relief should be provided urgently.”
-
-...
-
-[Data](articles/415039b3.json)
-
-[Extended Data](ext_articles/415039b3.ext.json)
 
 ---

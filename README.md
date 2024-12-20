@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 16:01:43**
+As of **2024-12-20 16:15:23**
 
 ## Newspaper Stats
 
-*Scraped **61,191** Articles*
+*Scraped **61,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,835
-adaderanalk | 7,460
+adaderanalk | 7,462
 tamilmirrorlk | 8,750
 virakesarilk | 10,096
-adaderanasinhalalk | 10,564
+adaderanasinhalalk | 10,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,965 (99.6%) of 61,191 articles have been extended.
+60,967 (99.6%) of 61,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### ලොව පුරා බිලියන 4කට ආසන්න පිරිසකට මොළය ආශ්‍රිත රෝගයක්
+
+*2024-12-20 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204555) · `si`
+
+මොළයේ සෞඛ්‍ය ප්‍රවර්ධනය කිරිම සදහා ලොව ප්‍රථම වරට මහජනතාව දැනුවත් කිරීමේ අරමුණින් විශේෂ පුහුණුව ලත් 100 දෙනෙකුගෙන් යුත් සන්නාම තානාපතිවරුන් හෙවත් ජනතාව දැනුවත් කිරීමේ කණ්ඩායමක් ස්වේච්ඡා සේවය සදහා යොමු කරවීම සෞඛ්‍ය අමාත්‍යවරයාගේ ප්‍රධානත්නවයෙන් ඊයේ (19) සිදුවිය.
+
+ඒ (19) රත්මලාන ශ්‍රීමත් ජෝන් කොතලාවල ආරක්‍ෂක විශ්ව විද්‍යාලයේ දීය.
+
+එම විශ්ව විද්‍යාලය හා ඊට අනුබද්ධ රෝහල මගින් එම ආයතන දෙකේ සියළු අංශ නියෝජනය වන පරිදි තෝරාගත් 100 දෙනෙකුගෙන් යුත් කණ්ඩායම විශේෂ පුහුණුවකින් පසු මෙලෙස සන්නාම තානාපතිවරුන් ලෙස පත් කර තිබේ.
+
+එම සන්නාම තානාපතිවරුන් “මොළයේ සුවයට නිවැරදි කරුණු 10 ක්” නම් වූ මොළයේ සෞඛ්‍ය ප්‍රවර්ධනය සදහා වූ ප්‍රධාන කරුණු 10 ක් පිළිබදව ඉදිරියේ දී ජනතාව දැනුවත් කිරීම සදහා සමාජගතවීමට නියමිතය.
+
+...
+
+[Data](articles/fbec5821.json)
+
+---
+
+### ජූලි චන්ග් මහජන ආරක්ෂක අමාත්‍යවරයා හමුවෙයි
+
+*2024-12-20 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204554) · `si`
+
+ශ්‍රී ලංකාවේ අමෙරිකානු තානාපතිනී ජූලී චන්ග් මහත්මිය අද (20) මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍ය ආනන්ද විජේපාල මහතා හා නියෝජ්‍ය අමාත්‍ය සුනිල් වටගල මහතා හමුවීම සඳහා බත්තරමුල්ල, සුහුරුපාය පිහිටි මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු අමාත්‍යාංශයට පැමිණියාය.
+
+ශ්‍රී ලංකාව සහ අමෙරිකාව අතර රාජ්‍ය තාන්ත්‍රික සබඳතාවයන් ශක්තිමත් කරගැනීම  පිළිබඳව එහිදී සාකච්ඡා කෙරුණු අතර ශ්‍රී ලංකාව සංවර්ධිත රටක් වනු දැකීම අමෙරිකාවේ අපේක්ෂාව වන බවත් රජයේ ඉදිරි සංවර්ධන කටයුතු සඳහා අමෙරිකා එක්සත් ජනපදයේ සහයෝගය ලබා දෙන බවත් ජුලී චන්ග් මහත්මිය මෙහිදී සඳහන් කළාය.
+
+තවදුරටත් එතුමිය සඳහන් කර ඇත්තේ, දේශපාලන බලපෑම්වලින් තොරව නීතිය හා සාමය ස්ථාපිත කිරීම සඳහා නව රජය ගන්නා උත්සාහය අගය කරන බවත්‍, මත්ද්‍රව්‍ය හා පාතාල ක්‍රියාකාරකම් මර්දනය සඳහා පූර්ණ සහයෝගය ලබාදීමට බලාපොරොත්තු වන බවත්ය.
+
+එසේම සයිබර් අවකාශයේ සුරක්ෂිතභාවය ආරක්ෂා කිරීමට අවශ්‍ය තාක්ෂණික දැනුම සහ සහයෝගීතාවය ලබා දීමට සූදානම් බවත් ඇය පවසා තිබුණි.
+
+මෙම අවස්ථාවට අමාත්‍යාංශ ලේකම් රවී සෙනෙවිරත්න මහතා ද සහභාගී විය.
+
+◼️
+
+[Data](articles/cb7a553e.json)
+
+---
+
+### Foreign Minister denies allegations against diplomat Himalee Arunatilaka
+
+*2024-12-20 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104378/foreign-minister-denies-allegations-against-diplomat-himalee-arunatilaka) · `en`
+
+Sri Lanka’s Foreign Affairs Minister Vijitha Herath says the allegations levelled against the former Deputy High Commissioner of Sri Lanka to Australia Himalee Arunatilaka, are completely false.
+
+Arunatilaka, who currently serves as Sri Lanka’s Permanent Representative to the UN in Geneva, was recently fined more than $100,000 in the Australian federal court, in addition to more than $500,000 in unpaid wages and interest to a Sri Lankan domestic worker for breaches of employment laws, while she was serving as the island nation’s Deputy High Commissioner in Australia.
+
+However, speaking at a special press conference held at the Department of Government Information this morning (20), the Foreign Minister claimed that Ambassador Arunatilaka had not committed any offence regarding the payment of salaries to the employee in question.
+
+...
+
+[Data](articles/3f8e7138.json)
+
+---
+
+### Minister denies agreement on Indian oil pipelines in Sri Lanka
+
+*2024-12-20 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104377/minister-denies-agreement-on-indian-oil-pipelines-in-sri-lanka) · `en`
+
+Sri Lanka’s Foreign Minister, Vijitha Herath, clarified that no agreement had been reached regarding the construction of Indian oil pipelines in Sri Lanka, during President Anura Kumara Dissanayake’s recent visit to India.
+
+He made this statement at a special press briefing held at the Department of Government Information this morning (20) to provide insights into President Anura Kumara’s recent visit to India.
+
+However, the Foreign Minister stated the construction of oil pipelines between India, Sri Lanka, and the United Arab Emirates (UAE) had been proposed.
+
+He stated that an agreement had been reached to continue these discussions further.
+
+Apart from that, he dismissed claims that an agreement had been reached to lay any Indian oil pipeline in Sri Lanka, calling such news false.
+
+...
+
+[Data](articles/e9764b45.json)
+
+---
+
+### කුඩු සළිඳුට ඇප
+
+*2024-12-20 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204553) · `si`
+
+සළිඳු මල්ෂික ගුණරත්න නොහොත් "කුඩු සළිඳු" රුපියල් ලක්ෂ 10 බැගින් වූ ශරීර ඇප තුනක් මත නිදහස් කරන ලෙස පානදුර මහාධිකරණ විනිසුරු සමන් කුමාර මහතා විසින් නියෝග කර තිබේ.
+
+එකී ශරීර ඇපවලට අමතරව සැකකරු වෙත දැඩි ඇප කොන්දේසි ද නිකුත් කර ඇත.
+
+සැකකරු 2023 මාර්තු මස 15 දින මැඩගස්කරයේදී අත්අඩංගුවට ගෙන දිවයිනට රැගෙනවිත්
+
+අංක 96863 සහ 85145/22 දරණ නඩුවලට අදාළව රිමාන්ඩ් බන්ධනාගාර ගතකර සිට පානදුර මහාධිකරණයට ඉදිරිපත් කිරීමෙන් පසු මෙසේ ඇප මත නිදහස් කර ලෙස නියෝග කර තිබේ.
+
+ත්‍රස්තවාදී ක්‍රියා සිදුකිරීම සහ මනුෂ්‍ය ඝාතනයක් සිදුකර ඇති බවට ඔහුට එරෙහිව චෝදනා නඟා තිබුණි.
+
+නීතිඥ ජාලිය සමරසිංහ, ජයබදු  කළුපහන, හේමන්ත කුමාර ,අශෝක ධර්මරත්න, බී ඒ ආර් බමුණුසිංහ, ශානිකා කාරියවසම්, සංජුලා සුරවීර සහ එච්. කේ. කේ. හීනටිගල යන නීතිඥ මහත්ම මහත්මීන් විත්තිය වෙනුවෙන් පෙනී සිටියහ.
+
+◼️
+
+[Data](articles/c9fe3437.json)
+
+---
 
 ### Central Bank announced on illegal financial proposals
 
@@ -228,25 +324,35 @@ The Nugegoda person had informed the Colombo Crimes Division that the Gem Ruki b
 
 ---
 
-### පරිභෝජනයට නුසුදුසු අමුද්‍රව්‍ය ඇති බීම මෙතරම් තොගයක්
+### Drinks with ingredients unsuitable for consumption so much
 
 *2024-12-20 13:59:31* · [`adalk`](https://www.ada.lk/breaking_news/පරිභෝජනයට-නුසුදුසු-අමුද්‍රව්‍ය-ඇති-බීම-මෙතරම්-තොගයක්/11-413753) · `si`
 
-මිනිස් පරිභෝජනයට නුසුදුසු කෘත්‍රිම අමුද්‍රව්‍ය අඩංගු සිසිල් බීම බෝතල් විශාල ප්‍රමාණයක් මඩකලපුවේදී සෞඛ්‍ය බලධාරීන් භාරයට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මඩකලපුව දිස්ත්‍රික් ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය එස්.මුරලීස්වරන්ගේ උපදෙස් මත මඩකලපුව සෞඛ්‍ය වෛද්‍ය නිලධාරී වෛද්‍ය ඊ.උදයකුමාර් මහතාගේ මඟපෙන්වීම මත කෝට්ටේමුනේ  මහජන සෞඛ්‍ය පරීක්ෂක ආර්.මිතුන්රාජ් මහතා ප්‍රමුඛ මහජන සෞඛ්‍ය නිලධාරීන් එම හදිසි මෙහෙයුම් සිදුකර නීති විරෝධී බීම වර්ග සොයා ගන්නා ලදි
 
-මිනිස් පරිභෝජනයට නුසුදුසු අම්ල සිසිල් බීම බෝතල්වලට ඇතුළත් කර ඊට නුසුදුසු වර්ණය  අමුණා ඇති බවට සෞඛ්‍ය බලධාරීන් සිසිල් බීම නිෂ්පාදකයාට, බෙදාහරින්නාට සහ අලෙවිකරුට එරෙහිව නඩු පවරා ඇත.
 
-15,000 බැගින් සහ නිෂ්පාදකයාගෙන් රුපියල් 30,000 ක් මුළු දඩ මුදල 60,000 කි.
+Soft drinks with harmful ingredients seized in Batticaloa. Health authorities sue manufacturers and dealers. Court orders destruction of contaminated beverages.
 
-මඩකලපුව මහේස්ත්‍රාත් අධිකරණයේ විනිසුරු දර්ශිනී මහත්මිය නියෝග කළේ මෙම සිසිල් බීම වර්ග විනාශ කර වෙනත් අලෙවිසැල්වලින්ද එම බීම බැහැර කරන ලෙසයි.
+🟩
 
-මිනිස් පරිභෝජනයට නුසුදුසු මෙම  බීම බෝතල් අද පෙරවරුවේ විනාශ කර ඇත. ( I J )
+A large number of soft drinks containing software inappropriate inappropriate inappropriate ingredients have been taken into custody in Batticaloa.
+
+Divisional Health Services Director Regional Health Services Dr. SM Medical Officer of the People's Health Officers, Hon.
+
+The health authorities have sued the cool drinker, dealer, dealer, and the dealer that the inappropriate acid is inserted into bottles inappropriate.
+
+15,000 each and Rs 30,000 a total of Rs. 30,000.
+
+The Batticaloa Magistrate's Court Ms. Fourtsek Drinks ordered to destroy these soft drinks and exclude the drinks during other outlets.
+
+These dawns have been destroyed this morning to the human consumption of human consumption. (I J)
 
 ◼️
 
 [Data](articles/df61883c.json)
+
+[Extended Data](ext_articles/df61883c.ext.json)
 
 ---
 
@@ -267,6 +373,8 @@ A special security programme will also be implemented island wide to safeguard r
 ◼️
 
 [Data](articles/ea874d47.json)
+
+[Extended Data](ext_articles/ea874d47.ext.json)
 
 ---
 
@@ -680,13 +788,15 @@ Former Member of Parliament. Dileepan and his former secretary Dinesh have been 
 
 *2024-12-20 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204546) · `si`
 
-ශ්‍රී ලංකාව මෑතකදී සිදුකිරීමට යෝජනා කළ බදු සංශෝධන ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් සමාලෝචනය කිරීමට නියමිත බව ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි.
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය වැඩසටහන යටතේ අමෙරිකානු ඩොලර් මිලියන 333ක මීළඟ ණය වාරිකය නිකුත් කිරීම සඳහා IMF විධායක අධ්‍යක්ෂ මණ්ඩලය විසින් ණය වැඩසටහනේ තුන්වැනි ඇගයීම ඉදිරි මාස කිහිපය තුළ සලකාබලන බව IMF සන්නිවේදන අධ්‍යක්ෂිකා ජුලි කොසැක් මහත්මිය පවසයි.
 
-ශ්‍රී ලංකාවේ ක්‍රියාත්මක වන විස්තීර්ණ ණය පහසුකමට අදාළ වැඩසටහන සම්බන්ධයෙන් වූ තෙවැනි සමාලෝචනය IMF විධායක මණ්ඩලයේ අනුමැතිය හිමිවීමට නියමිතය.
+ශ්‍රී ලංකා රජය විසින් ඊට අදාළ පූර්ව ක්‍රියාමාර්ග සම්පූර්ණ කිරීමෙන් පසු එම සලකා බැලීම සිදුකරන බව ඊයේ (19) පැවැති මාධ්‍ය හමුවේදී ජූලි කොසැක් මහත්මිය සඳහන් කළාය.
 
-එම තක්සේරුව පිළිබඳ සම්පූර්ණ විස්තරය ජාත්‍යන්තර මූල්‍ය අරමුදලේ කාර්ය මණ්ඩල වාර්තාවට ඇතුළු කරන බව එහි සන්නිවේදන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජූලි කොසැක් පවසා ඇති බව සඳහන් ය.
+එසේම ජනාධිපතිවරයා විසින් ප්‍රකාශයට පත්කරන ලද බදු සංශෝධන ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ඉදිරියේදී සමාලෝචනය කරන බවත් ඇය පැවසුවාය.
 
-◼️
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ සවිස්තරාත්මක විග්‍රහය මීළඟ ණය වාරිකය අනුමත කිරීමෙන් පසු පළකරන වාර්තාවට IMF කාර්ය මණ්ඩලයේ වාර්තාවට ඇතුළත් කරන බවද ඇය කියා සිටියාය.
+
+...
 
 [Data](articles/0df29726.json)
 
@@ -1983,137 +2093,5 @@ This new withholdings tax increase by the government does not apply to stock mar
 ...
 
 [Data](articles/59aa5c63.json)
-
----
-
-### எலிக் காய்ச்சல் நோயால் 121 பேர் பாதிப்பு
-
-*2024-12-20 04:15:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்-காய்ச்சல்-நோயால்-121-பேர்-பாதிப்பு/175-348993) · `ta`
-
-யாழ். மாவட்டத்தில் எலிக்காய்ச்சல் நோய் காரணமாக இதுவரை 121 பேர் பாதிக்கப்பட்டுள்ளனர் என பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்தியகலாநிதி ஆ.கேதீஸ்வரன் குறிப்பிட்டுள்ளார்.
-
-தற்போது பருத்தித்துறை ஆதார வைத்தியசாலையில் 32 பேரும் யாழ் போதனா வைத்தியசாலையில் 8 பேரும் சிகிச்சைபெற்று வருகின்றனர்.
-
-கடந்த 24 மணிநேரத்தில் பருத்தித்துறை ஆதார வைத்தியசாலையில் 6 நோயாளர்களும், யாழ் போதனா வைத்தியசாலையில் 5 நோயாளர்களும் எலிக்காய்ச்சலுடன் அனுமதிக்கப்பட்டுள்ளனர்.
-
-எலிக்காய்ச்சல் நோய் வராமல் தடுப்பதற்காக தடுப்பு மருந்து வழங்கும் பணிகள் தொடர்ந்து இடம்பெற்று வருகின்றது.
-
-நேற்று முந்தினன் வரை ஏறத்தாழ 8300 பேருக்கு தடுப்பு மருந்துகள் வழங்கப்பட்டுள்ளன. மேலும் பாதிக்கப்பட்ட சுகாதார வைத்திய அதிகாரி பிரிவுகளில் காய்ச்சல் நோயாளர்களை இனங்காண்பதற்காக சுகாதாரப் பணியாளர்கள் வீடுவீடாகச் சென்று ஆய்வுகளை மேற்கொண்டு வருகின்றனர்.
-
-...
-
-[Data](articles/ecb890ea.json)
-
----
-
-### Make the accounting accountability meaningful
-
-*2024-12-20 04:12:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொறுப்புக்கூறலை-அர்த்தமுள்ளதாக்குக/175-348992) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-UNHRC drops Sri Lanka from its list. Next resolution expected to strengthen international investigation into criminal liability for accountability. TNA MP Sivagnanam Sreedharan meets Canadian officials to discuss this matter.
-
-🟩
-
-The United Nations Human Rights Council (UNHRC) will no longer provide the Sri Lankan government, and it is the expectation that our people are expecting appropriate upgrading the next resolution to the next resolution on the International International Investigation of Criminal Liability on Accountability Criminal Liability.Sivagnanam Sreedharan, Member of Parliament of the Sri Lanka Tamil National Alliance (TNA), said.
-
-The official meeting between the Canadian Foreign Ministry MP Sivagnanam Sreedharan and the Deputy Minister of the Indo -Pacific Regions, Welton F.
-
-It is noteworthy that a written request was submitted to the Deputy Minister of Canadian by MP Sreedharan. (A)
-
-◼️
-
-[Data](articles/bdfd0544.json)
-
-[Extended Data](ext_articles/bdfd0544.ext.json)
-
----
-
-### Sri Lankans sentenced to 37 years in prison in Australia
-
-*2024-12-20 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201703) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan man sentenced to 37 years in Australian court for murdering wife with axe in Melbourne. Judge calls it "heinous" act. Trial concluded with conviction in August.
-
-🟩
-
-Australia's Victoria High Court has sentenced Dinush Kurara, a Sri Lankan resident of Australia and sentenced to 37 years in prison.
-
-Dinush Kuerra was assassinated by an ax and assassinated his wife Nellomi Perera at a residence in Melbourne on December 3, 2022, and that the murder was for the sake of the defense.
-
-As the trial of the incident took place in the Victoria High Court, the court rejected the reasons stated by Dinush Kuerra and found him guilty last August.
-
-In this case, Victoria High Court Judge Amanda Fox, who described the murder as a 'bad' assassination, has sentenced Dinush Kurara to 37 years in prison for the offense.
-
-◼️
-
-[Data](articles/5694ae76.json)
-
-[Extended Data](ext_articles/5694ae76.ext.json)
-
----
-
-### Israeli soldier who killed Palestinian people
-
-*2024-12-20 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201702) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lankan govt urged to arrest Israeli soldier Kal Ferrenbuk over Palestinian killings. The Hint Rajab Foundation filed ICC complaint & sought Interpol red notice.
-
-🟩
-
-The 'The Hint Rajab Foundation' has urged the Israeli soldier, Kal Ferrenbuk, who is responsible for the killing of the Palestinian people and the disgrace of the dead, and that the Sri Lankan government should take immediate action to arrest him.
-
-The 'The Hint Rajab Foundation' is an end to the NGOs that operates Belgium in order to commemorate all those killed in Gaza.
-
-The organization said that Israeli soldier, Kal Ferrenbook, who is responsible for the death of the Palestinian people and the disrespectful of the bodies of those killed, said he was in Colombo.
-
-The Sri Lankan government has urged the Sri Lankan government to take immediate action to arrest him and provide necessary cooperation to the International Criminal Court in this regard.
-
-The 'The Hint Rajab Foundation', which has lodged a complaint with the International Criminal Court, has also discussed with the Interpol on the issue of a red notification against the soldier.
-
-◼️
-
-[Data](articles/c9c13fd6.json)
-
-[Extended Data](ext_articles/c9c13fd6.ext.json)
-
----
-
-### Australia's case against Sri Lankan citizen
-
-*2024-12-20 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201701) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan man charged under Australia's 1991 Crimes (Air Service) Act for alleged inappropriate behavior towards a female passenger on a flight from Sri Lanka to Melbourne. Case heard at Melbourne's Bromatos Magistrate's Court, with bail granted and next hearing on January 9, 2025.
-
-🟩
-
-Melbourne's Bromatos Magistrate's Court on Thursday (19) has been produced before the Melbourne City's Bromatos Magistrate's Court on charges of acting inappropriately to a female passenger on an international plane.
-
-A 41 -year -old man on a flight from Sri Lanka to Melbourne on Wednesday (18). Subsequently, the female flight attendants were informed about the incident and they lodged a complaint with the Australian Federal Police.. Accordingly, when the plane landed in Melbourne, the Australian Federal police investigated the incident and investigated the incident with passengers and airline staff.
-
-In this case, Australia's 1991 Crimes (Air Service) Act has been booked against the person for allegedly behaving in a manner that has been abusive.
-
-Accordingly, the man who was produced before the Melbourne's Bromatos Magistrate's Court yesterday (19) has been released on bail and has been ordered to appear again on January 9, 2025.
-
-◼️
-
-[Data](articles/a67c5769.json)
-
-[Extended Data](ext_articles/a67c5769.ext.json)
 
 ---

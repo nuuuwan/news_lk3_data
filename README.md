@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 13:26:46**
+As of **2024-12-20 13:43:43**
 
 ## Newspaper Stats
 
-*Scraped **61,165** Articles*
+*Scraped **61,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,701
 economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,831
+adalk | 5,832
 adaderanalk | 7,455
-tamilmirrorlk | 8,747
+tamilmirrorlk | 8,748
 virakesarilk | 10,089
 adaderanasinhalalk | 10,557
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,951 (99.7%) of 61,165 articles have been extended.
+60,953 (99.7%) of 61,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### Explanation of the President's Indian visit
+
+*2024-12-20 13:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-இந்திய-விஜயம்-குறித்து-விளக்கம்/175-349006) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Presidential visit to India: External Affairs Minister Vijitha Herath discusses regional security, Indian-Sri Lankan fishermen issues, and India's loan for railway modernization.
+
+🟩
+
+External Affairs Minister Vijitha Herath said that no one has been discussed in this country to threaten the security of the region.
+
+He was speaking at a special media briefing to explain the official visit to India's official visit to President Anura Kumara Dissanayake.
+
+Minister Vijitha Herath said that during a discussion between the Prime Minister of India and the President, the Indian -Sri Lankan fishermen had urged the immediate intervention to provide a permanent solution to the issue.
+
+Meanwhile, India has decided to consider the loan assistance provided by India to modernize the Mahawa-Omanthai railway line, the minister said.
+
+◼️
+
+[Data](articles/0331ecac.json)
+
+[Extended Data](ext_articles/0331ecac.ext.json)
+
+---
 
 ### Dealer arrested for hiding rice
 
@@ -133,6 +161,32 @@ This is a type of political bribery. The High Court has a case regarding how man
 [Data](articles/15184fb9.json)
 
 [Extended Data](ext_articles/15184fb9.ext.json)
+
+---
+
+### Vass Gunawardena has been condemned and the death penalty
+
+*2024-12-20 12:18:59* · [`adalk`](https://www.ada.lk/breaking_news/වාස්-ගුණවර්ධන-ඇතුළු-5ට-පැණවූ-මරණ-දඩුවම-තහවුරුයි/11-413750) · `si`
+
+Here's a 200-character summary:
+
+
+
+Former DIG Vass Gunawardena sentenced to death penalty. Son Ravindu also implicated. Case presented in Colombo High Court. Supreme Court to hear appeals against punishment.
+
+🟩
+
+The death penalty for former DIG Vaas Gunawardena, including former DIG Vass Gunawardena, has confirmed by former DIG Vass Gunawardena.
+
+Former DIG Vass Gunawardena, his son Ravindu Gunawardena, his son Ravindu Gunawardena, his son Ravindu Gunawardena, his son, Ravindu Gunawardena, was presented to the Colombo High Court today (20).
+
+The Supreme Court informed the appeals by the defendants against punishment.
+
+◼️
+
+[Data](articles/3454dc31.json)
+
+[Extended Data](ext_articles/3454dc31.ext.json)
 
 ---
 
@@ -2143,55 +2197,5 @@ It is noteworthy that the controversy made by MP Nilanti before the election on 
 [Data](articles/3457d1be.json)
 
 [Extended Data](ext_articles/3457d1be.ext.json)
-
----
-
-### 'Love does not require the glory. Love is enough ' - Koran
-
-*2024-12-19 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201687) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Kuran" movie music launch: Chandrasekaran stars, Menaka Gandhi attends. Film about animal rights, directed by Rajesh, Ram, Vijay Antony. Music by Siddharth Vipin. Expected to highlight dog welfare and legal rights.
-
-🟩
-
-Director and actor. A.. The music launch of the movie 'Kuran' starring Chandrasekaran in the role of 'Kuran' was held in Chennai. Former Union Minister and Animal Welfare Rights with the film crew. Menaka Sanjay Gandhi participated as a special guest. Directors with him. Rajesh, gold. Ram and Vijay Antony also participated.
-
-S. S.. A.. Chandrasekaran, Balaji Sakthivel,. G. Mahendran, Satyan, Indiraja Robot Shankar and many others have played. Siddharth Vipin has composed the film, which has been recorded by Martin Tanraj. The film was produced by Vicky on behalf of Kana Productions.
-
-The film's music launch was held in Chennai on the 27th of this month.. Former Union Minister and Animal Welfare Activist Mrs. Menaka Gandhi said, “I have seen this movie. The film talks about the dog's legal right. You need to realize that there is no difference in creatures. There will be no peace within us until we stop attacking animals. We must recognize and recognize that all living things are the same.
-
-...
-
-[Data](articles/12edc860.json)
-
-[Extended Data](ext_articles/12edc860.ext.json)
-
----
-
-### Jaime Ravi's new song release
-
-*2024-12-19 18:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/201688) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Lavender Time" song from "Kadikaikkam Time" movie featuring Jayam Ravi, Nithya Menon. Music by A.R. Rahman. Lyrics by Masuk Raghuman. Sung by Alexandra Joy. Attracted young fans with its romantic melody.
-
-🟩
-
-The song 'Lavender Time ..' has been released in the movie 'Kadikaikkam Time', which is ready to star in Tamil, starring star actor Jayam Ravi and the lyrics for the song.
-
-Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, D.. J.. Banu, John Kokan, Lal, Lakshmi Ramakrishnan, Mano, Vinodini and many others have been cast. The film, which has been cinematographed by Cavemic Are, 'ARR'. Rahman has composed the music. The film is centered on the romantic film, produced by Red Giant Movies.
-
-...
-
-[Data](articles/3be1b7b0.json)
-
-[Extended Data](ext_articles/3be1b7b0.ext.json)
 
 ---

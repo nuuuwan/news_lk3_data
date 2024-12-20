@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 09:27:12**
+As of **2024-12-20 08:47:20**
 
 ## Newspaper Stats
 
-*Scraped **61,127** Articles*
+*Scraped **61,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,699
 economynextcom | 3,725
 dailyftlk | 4,238
 dailymirrorlk | 4,733
-adalk | 5,829
+adalk | 5,828
 adaderanalk | 7,447
-tamilmirrorlk | 8,741
+tamilmirrorlk | 8,740
 virakesarilk | 10,081
 adaderanasinhalalk | 10,551
 
@@ -26,33 +26,11 @@ adaderanasinhalalk | 10,551
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,928 (99.7%) of 61,127 articles have been extended.
+60,925 (99.7%) of 61,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
-
-### The new alliance is formed
-
-*2024-12-20 08:49:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உருவாகின்றது-புதிய-கூட்டணி/175-348997) · `ta`
-
-New alliance formed: Democratic Front, SLFP unite. Former ministers lead coalition. Kanjana Wijesekera joins soon.
-
-🟩
-
-A discussion between members of the new Democratic Front and some of its partners, including the Sri Lanka Freedom Party (SLFP), contested the gas cylinder symbol in the last general election.
-
-According to former Minister Lasantha Alagavanna, who participated in the discussion, a new political coalition has been formed under the leadership of former Minister Anura Priyadarshana Yapa.
-
-Also, former minister Kanjana Wijesekera has been joining the new coalition soon.. Remble
-
-◼️
-
-[Data](articles/7e73837b.json)
-
-[Extended Data](ext_articles/7e73837b.ext.json)
-
----
 
 ### Rainfall in many areas
 
@@ -198,8 +176,6 @@ The time is ripe for the new Government that is committed for system change to t
 
 [Data](articles/aa7181d3.json)
 
-[Extended Data](ext_articles/aa7181d3.ext.json)
-
 ---
 
 ### Overview of Sri Lanka’s Speakers from Francis Molamure to Asoka Ranwala
@@ -215,8 +191,6 @@ On 17 December 2024, Idampitiyegedara Wanigasuriya Mudiyanselage Jagath Wickrama
 ...
 
 [Data](articles/ba601561.json)
-
-[Extended Data](ext_articles/ba601561.ext.json)
 
 ---
 
@@ -1998,28 +1972,6 @@ Two of the four suspects who were arrested and interrogated in connection with t
 
 ---
 
-### බස් රථවලින් දිනකට කප්පම් ලබාගැනීම රු.  කෝටියක්
-
-*2024-12-19 16:39:47* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථවලින්-දිනකට-කප්පම්-ලබාගැනීම-රු---කෝටියක්/11-413744) · `si`
-
-බස් රථවලින්  කප්පම්  ලබා ගැනීම දිගින් දිගටම ඉහළ යමින් තිබෙන බවත් මේ පිළිබඳව වර්තමාන ආණ්ඩුව කඩිනමින් අවධානය යොමු කළ යුතු බවත් ලංකා පෞද්ගලික බස්හිමියන්ගේ සංගමය සඳහන් කරයි.
-
-රුපියල් 100, 200 වශයෙන් පැවැති දෛනික කප්පම් මුදල් ප්‍රමාණය මේ වන විට රුපියල් 500 හා රුපියල් 1000 දක්වා ඉහළ ගොස් තිබෙන බවද එම සංගමයේ සභාපති ගැමුණු විජේරත්ත මහතා සඳහන් කළේය.
-
-බස් නැවතුම් පොළවල සිටින ඇතැම් වෙලාව සටහන් කරුවන්  බස් රථ ගමන් ආරම්භ  කරන අවස්ථාවෙහිදී බස් රථවලින් මුදල්  ලබා ගනිමින් තිබෙන බවද හෙතෙම පැවසීය.
-
-බස් නැවතුම්පොළවල් ආසන්නව සිටින බාහිර පුද්ගලයන් විසින් ද  බස් රථවලින් කප්පම් මුදල් ලබා ගනිමින් තිබෙන බවත් මේ පිළිබඳව  අවස්ථා ගණනාවකදීම පොලීසියට පැමිණිලි කර තිබෙන බවත් ඔහු සඳහන් කළේය.
-
-මේ ආකාරයට දිවයින පුරාම ධවනය වන බස් රථවලින් දිනකට ආසන්න වශයෙන් රුපියල් කෝටියක පමණ මුදලක් කප්පම් මුදල් වශයෙන් අයකර ගන්නා බවට තොරතරු ලැබී තිබෙන බවද පැවසීය.
-
-කෙටි ගමන් සේවා බස් රථ සැලකීමේදී උදේ කාලයේදී එක් වෙලාව සටහන් කරුවෙකු හා සවස් කාලයේදී තවත් වෙලාව සටහන් කරුවන් සිටින ස්ථාන තිබෙන බවද සඳහන් කළේය.
-
-...
-
-[Data](articles/73474e5a.json)
-
----
-
 ### Edka is never going to sign the Edka Agreement with India - Sarath Weerasekera
 
 *2024-12-19 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201669) · `ta`
@@ -2337,5 +2289,63 @@ Sri Lanka's economy continues to shrink in the face of the current crisis. The l
 [Data](articles/6657e275.json)
 
 [Extended Data](ext_articles/6657e275.ext.json)
+
+---
+
+### Update: Food distribution to Myanmar refugees in Mullivaikkal
+
+*2024-12-19 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201658) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Myanmar refugees in Mullivaikkal face hardship. 103-person group includes 35 boys and a teacher. Local association provides aid. Some are ill/unconscious. Rescue efforts underway, including naval assistance from Trincomalee.
+
+🟩
+
+The Myanmar Folklore with 103 people on the west coast of Mullivaikkal consists of 35 boys and a teacher.
+
+The Mullaitivu Fishermen's Association has provided food and dryness to those on the ship, some of which are unconscious and ill.
+
+They have visited the Mullaitivu District Health Medical Officer and Deputy Director of the District Fisheries Department of Fisheries, Navy, Member of Parliament Durairasa Ravikaran and journalists.
+
+It is reported that a navy boat from Trincomalee will be rescued from the boat.
+
+◼️
+
+[Data](articles/f82d4c45.json)
+
+[Extended Data](ext_articles/f82d4c45.ext.json)
+
+---
+
+### A.M. from Archuna. Jaffna hospital lawsuit demanding compensation
+
+*2024-12-19 15:52:28* · [`adalk`](https://www.ada.lk/breaking_news/අර්චුනාගෙන්-රු-මි--100-ක-වන්දියක්-ඉල්ලා-යාපනය-රෝහලෙන්-නඩු/11-413740) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Jaffna hospital director sues for defamation after Archuna residents file compensation claim. Case involves alleged threats, insults, and obstruction of hospital staff. Multiple legal actions ongoing.
+
+🟩
+
+Director of Jaffna Teaching Hospital demanding a sum of Rs.. A defamation case has been filed in Jaffna's presence by the Jaffna district.
+
+The director director was filed by the hospital on the 17th to obstruct the staff of the Jaffna General Assembly and to interrupt the staff of the hospital.
+
+The director of the hospital states that the case of the Archuna and insulting persons in the threatening and insulting, the insult is to be filed by a suicide.
+
+The director of the hospital also also displayed the case by MP at the District Development Committee, the MP and in various places from various places.
+
+It is interesting that the Archthata has brought about 20 cases by various people in the Aharawasa.
+
+◼️
+
+[Data](articles/c1be5962.json)
+
+[Extended Data](ext_articles/c1be5962.ext.json)
 
 ---

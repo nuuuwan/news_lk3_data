@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 18:03:48**
+As of **2024-12-20 18:24:07**
 
 ## Newspaper Stats
 
-*Scraped **61,200** Articles*
+*Scraped **61,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,170 @@ economynextcom | 3,730
 dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,836
-adaderanalk | 7,462
+adaderanalk | 7,464
 tamilmirrorlk | 8,750
-virakesarilk | 10,097
-adaderanasinhalalk | 10,569
+virakesarilk | 10,103
+adaderanasinhalalk | 10,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,978 (99.6%) of 61,200 articles have been extended.
+60,980 (99.6%) of 61,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### පොලීසියට පහරදුන් රංගන ශිල්පිණී මහේෂිගේ සැමියා රිමාන්ඩ්
+
+*2024-12-20 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204561) · `si`
+
+ප්‍රසිද්ධ රංගන ශිල්පිනී මහේෂි මධුශංකාගේ සැමියා විසින් පොලිස් නිලධාරීන් දෙදෙනෙකුට පහරදීමේ සිද්ධියක් හේතුවෙන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව එළැඹෙන 30 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+
+◼️
+
+[Data](articles/b81cadf5.json)
+
+---
+
+### எமது அரசாங்கம் நீண்டகால சிறுநீரக நோயைக் கட்டுப்படுத்துவதற்கு கடுமையாகவும் அர்ப்பணிப்புடனும் செயற்படுகிறோம் - வைத்தியர் நளிந்த ஜயதிஸ்ஸ
+
+*2024-12-20 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201768) · `ta`
+
+இலங்கையில் பாரிய சுகாதாரப் பிரச்சினையாக மாறியுள்ள நீண்டகால சிறுநீரக நோயைக் கட்டுப்படுத்துவதற்கு தற்போதைய அரசாங்கம் கடுமையாக உழைப்பதோடு அர்ப்பணிப்புடனும் செயற்படுவதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+பத்தரமுல்லையில் பகுதியில் கடந்த சனிக்கிழமை (14) சுகாதார அமைச்சின் தேசிய சிறுநீரக நோய் தடுப்பு மற்றும் ஆய்வுப் பிரிவு, சீன விஞ்ஞானக் கழகத்தால் ஏற்பாடு செய்யப்பட்ட ஆய்வு அறிக்கை வெளியீட்டு விழாவில் கலந்து கொண்டு உரையாற்றும் போதே அமைச்சர் இதனைத் தெரிவித்தார்.
+
+நாட்டின் மிக முக்கியமான சுகாதார சவாலை எதிர் கொள்வதற்காக ஒத்துழைப்பு மற்றும் பளிப்பை வழங்கிய சீன அரசாங்கம் மற்றும் சீன அறிவியல் அகாடமிக்கு எனது நன்றியைத் தெரிவித்துக் கொள்கிறேன்.
+
+இலங்கைக்கு பாரிய சுகாதாரப் பிரச்சினையாக மாறியுள்ள நீண்டகால சிறுநீரக நோயைக் கட்டுப்படுத்த தற்போதைய அரசாங்கம் கடுமையாக உழைப்பதுடன் அர்ப்பணிப்புடனும் செயற்பட்டு வருகின்றது. அதற்கமைய முன்னெடுக்கப்பட்டு வரும் இத்தகைய செயலமர்வுகள் மற்றும் புதிய ஆய்வுகள் அறிவையும் விஞ்ஞானத்தையும் பகிர்ந்து கொள்வதற்கான களமாக அமைகின்றன.
+
+...
+
+[Data](articles/adc95659.json)
+
+---
+
+### எட்கா ஒப்பந்தத்தில் கைச்சாத்திடுவதற்கான இணக்கப்பாடு எதுவும் எட்டப்படவில்லை - ஜனாதிபதியின் இந்திய விஜயத்தை அடுத்து கிளம்பிய சர்ச்சைக்கு அரசாங்கம் விளக்கம்
+
+*2024-12-20 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201767) · `ta`
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் இந்திய விஜயத்தை அடுத்து எட்கா ஒப்பந்தம் கைச்சாத்திடப்படவிருப்பதாக சில அரசியல்வாதிகளால் கூறப்படும் கருத்துக்கள் முற்றிலும் பொய்யானவை எனச் சுட்டிக்காட்டிய வெளிவிவகார அமைச்சர் விஜித்த ஹேரத், எட்கா ஒப்பந்தம் குறித்த பேச்சுவார்த்தைகளைத் தொடர்ந்து முன்னெடுப்பதற்கு இணக்கம் காணப்பட்டதே தவிர, அவ்வொப்பந்தத்தில் கைச்சாத்திடுவதற்கு இணக்கப்பாடு எட்டப்படவில்லை எனத் தெரிவித்தார்.
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் அண்மைய இந்திய விஜயத்தின்போது ஆராயப்பட்ட விடயங்கள் மற்றும் கைச்சாத்திடப்பட்ட ஒப்பந்தங்கள் குறித்துத் தெளிவுபடுத்தும் நோக்கிலான ஊடகவியலாளர் சந்திப்பொன்று வெள்ளிக்கிழமை (20) கொழும்பிலுள்ள அரசாங்கத் தகவல் திணைக்களத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+...
+
+[Data](articles/3cde05ab.json)
+
+---
+
+### அரிசி இறக்குமதிக்கான காலவகாசம் ஜனவரி 10 வரை நீட்டிப்பு 40,500 மெற்றிக் தொன் அரிசி இறக்குமதி - சுங்கத் திணைக்களம்
+
+*2024-12-20 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201766) · `ta`
+
+தனியார் வர்த்தகர்களுக்கு அரிசி இறக்குமதிக்காக வழங்கப்பட்ட காலவகாசம் எதிர்வரும் ஜனவரி மாதம் 10 ஆம் திகதி வரை நீட்டிக்கப்பட்டுள்ளது. இதுவரையான காலப்பகுதிக்குள் தனியார் வர்த்தகர்கள் 40,500 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளதாகவும், அவற்றில் 95 சதவீதமானவை விடுவிக்கப்பட்டுள்ளாகவும் சுங்கத் திணைக்களம் குறிப்பிட்டுள்ளது.
+
+சந்தையில் நிலவிய அரிசி தட்டுப்பாட்டுக்கு தீர்வாக அரிசி இறக்குமதி மீது விக்கப்பட்டிருந்த வரையறை தற்காலிகமாக நீக்கப்பட்டு,தனியார் துறையினர் அரிசி இறக்குமதி செய்வதற்கு அரசாங்கம் இம்மாதம் 10 ஆம் திகதி அனுமதி வழங்கியது.
+
+இதற்கமைய இக்காலப்பகுதியில் தனியார்  தரப்பினர் இறக்குமதி செய்த அரிசி தொகையில் 75 ஆயிரம் கிலோ கிராம் அரிசி மனித பாவனைக்கு உகந்ததல்ல என்று கண்டறியப்பட்டு அவற்றை மீள் ஏற்றுமதி செய்யுமாறு குறித்த இறக்குமதியாளர்களுக்கு சுங்கத் திணைக்களம் அறிவுறுத்தியுள்ளது.
+
+...
+
+[Data](articles/d2c1cf3b.json)
+
+---
+
+### எந்தவொரு உத்தியோகத்தருக்கும் அநீதி இழைக்கப்பட்டால் அந்த நபரின் பாதுகாப்பிற்காக நான் முன் நிற்பேன் - ஜனாதிபதி
+
+*2024-12-20 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201758) · `ta`
+
+அரச நிறுவனமொன்றில் நியாயமான சேவையைப் பெற்றுக்கொள்ள முடியும் என்று மக்களுக்கு சிறிதும் நம்பிக்கை இல்லை. அரசாங்கம் என்ற வகையில் முழுக் கட்டமைப்பும் சரிவை கண்டுள்ளது.மக்கள் ஆணையின் எதிர்பார்ப்புகளுக்கு அரசியல் அதிகாரம் மட்டுமல்ல அரச சேவையும் பொறுப்புக் கூற வேண்டும் என்பதாகும். தற்போதுள்ள அரச நிறுவனங்களை மீளாய்வு செய்ய நியமிக்கப்பட்டிருக்கும் புதிய குழுவின் ஊடாக அரசியல் செல்வாக்கை பொருட்படுத்தாமல் அவை தொடர்பில் தீர்மானம் மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+அத்துடன் எமது நாட்டை புதிய நிலைக்கு உயர்த்தி வைப்பதற்காக மேற்கொள்ளப்படும் பணியை நிறைவேற்றும் போது எந்தவொரு உத்தியோகத்தருக்கும் அசௌகரியம், அநீதி அல்லது அசாதாரணம் இழைக்கப்பட்டால் அந்த நபரின் பாதுகாப்பிற்காக நான் முன் நிற்பேன். எவரேனும் அதிகாரியொருவர் அந்த திட்டத்தை சிதைக்கும் நோக்கில் தாமதப்படுத்தாவாராயின் அதற்கும் நியாயமான முறையில் நடவடிக்கை எடுக்கப்படும் என ஜனாதிபதி உறுதியளித்தார்.
+
+...
+
+[Data](articles/851eba6d.json)
+
+---
+
+### தூய்மையான இலங்கை நிகழ்ச்சித் திட்டத்துக்காக 18 உறுப்பினர்களுடன் ஜனாதிபதி செயலணி ஸ்தாபிப்பு
+
+*2024-12-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201756) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் ஆலோசனைக்கமைய தூய்மையான இலங்கை ( Clean Sri Lanka ) கருத்திட்டத்தை திட்டமிட்டு, நடைமுறைப்படுத்துவதற்காக அரசியலமைப்பின் 33 ஆம் உறுப்புரையின் பிரகாரம் 18 உறுப்பினர்களை உள்ளடக்கிய வகையில் ஜனாதிபதி செயலணி ஸ்தாபிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதியின் செயலாளர் கலாநிதி என்.எஸ். குமாநாயக்க, இராணுவத் தளபதி, கடற்படைத் தளபதி, விமானப்படைத் தளபதி, பதில் பொலிஸ்மா அதிபர்,நகர அபிவிருத்தி  அதிகார சபையின் தலைவர் பொறியிலாளர் குமுது லால் டி சில்வா ஆகியோர் அரச நிர்வாக கட்டமைப்பில் சார்பிலும்,
+
+துறைசார் அடிப்படையில் ஐ.எஸ் ஜயரத்ன, கிஹான் டி சில்வா,சந்தியா சல்காது, கலாநிதி காமினி பட்டுவிடகே,கலாநிதி அனுருத்த கமகே, தில்ருக் வனசிங்க, தீபால் சூரியராராச்சி,சிசிர அமரபந்து, கிரிஷாந்த குரே, ஐயது பெரேரா,ருவன் வீரசூரிய, தயால் கருணாரத்ன ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+
+ஜனாதிபதி செயலணியின் தலைவராக ஜனாதிபதியின் செயலாளர் கலாநிதி எஸ்.குமாநாயக்க, மற்றும் செயலாளராக ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ஆர்.டீ. அபொன்சு நியமிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/b327735a.json)
+
+---
+
+### දින 10කදී සහල් වැටලීම් 578ක්
+
+*2024-12-20 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204560) · `si`
+
+පසුගිය දින 10ක කාලය තුළ දිවයින පුරා සහල් වැටලීම් 578ක් සිදුකර ඇති බව පාරිභෝගික අධිකාරිය පවසයි.
+
+එහි වැඩබලන අධ්‍යක්ෂ ජනරාල් තිලකරත්න බණ්ඩා මහතා පැවසුවේ ඇතැම් ස්ථාන කිහිපයක වැඩි මිලට සහල් අලෙවි කිරීම සම්බන්ධව ලද පැමිණිලි අනුව දිස්ත්‍රික් මට්ටමින් නිලධාරීන් යොදවා වැටලීම් සිදුකළ බවය.
+
+එමෙන්ම පසුගිය දිනවල වෙළෙඳපොළ තුළ සහල් ඌනතා මට්ටමක් පැවැතියද මේ වන විට එම ඌනතාව සඳහා පිළියම් යොදමින් පවතින බැවින් මේ වන විට වෙළෙඳපොළ තුළ සහල් සුලභතාවය ක්‍රමානුකූලව වැඩිවන බව නිරීක්ෂණය වී ඇතැයිද ඔහු පවසයි.
+
+ඔහු පැවසුවේ සහල් ආනයනය දීර්ඝ කර ඇති බැවින් උත්සව සමයේදී වෙළෙඳපොළ තුළ සහල් හිඟතාවයකින් තොරව සැපයීමට හැකියාව ලැබෙනු ඇති බවය.
+
+මේ අතර උත්සව සමයේ සිදුකරනු ලබන වැටලීම් සංඛ්‍යාව වැඩි කිරීමට තීරණය කර ඇති බවත් මේ අනුව තොග සහ සිල්ලර වෙළඳාම් සම්බන්ධවද වැටලීම් සිදුකරන බවත් ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/40e90077.json)
+
+---
+
+### கம்பஹா மாவட்டத்தில் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பு!
+
+*2024-12-20 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201747) · `ta`
+
+கம்பஹா மாவட்டத்தில் இவ்வருடத்தின் இதுவரையான காலப்பகுதியில் 50 ஆயிரத்துக்கும் மேற்பட்ட டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளதுடன் 4 மரணங்களும் பதிவாகியுள்ளன. ஆகையால் டெங்கு அபாயத்தைக் கட்டுக்குள் கொண்டு வர டிசம்பர் 21 ஆம் திகதி கம்பஹா மாவட்டத்தில் உள்ள சகல கிராமங்களையும் உள்ளடக்கிய வகையில் ஒரு நாள் டெங்கு ஒழிப்பு விசேட வேலைத்திட்டம் முன்னெடுக்கப்பட உள்ளதாக கம்பஹா மாவட்ட செயலாளர் லலித் கமகே  தெரிவித்தார்.
+
+டெங்கு பரவல் குறித்து நேற்று முன்தினம் புதன்கிழமை (18) ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+கம்பஹா மாவட்டம் கடந்த ஒரு சில வருடங்களாக டெங்கு அதி உயர் அபாய மிக்க வளையமாக அடையாளப்படுத்தப்பட்டுள்ளது. இவ்வருடத்தின் இதுவரையான காலப்பகுதியில் அடையாளம் காணப்பட்டுள்ள டெங்கு நோயாளர்களின் எண்ணிக்கை 50 ஆயிரத்தை கடந்துள்ளதுடன் 4 மரணங்களும் பதிவாகியுள்ளன. டெங்கு அபாயத்தைக் கட்டுக்குள் கொண்டு வருவதற்கு விசேட வேலைத்திட்டங்களை செயல்படுத்துமாறு உரிய அதிகாரிகளுக்கு ஆலோசனை வழங்கியிருந்தோம்.
+
+...
+
+[Data](articles/a7d0cac2.json)
+
+---
+
+### රාජ්‍ය සේවය කප්පාදු නොකරන බව ජනපති කියයි
+
+*2024-12-20 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204558) · `si`
+
+කිසිදු අයුරකින් රාජ්‍ය සේවය කප්පාදු කිරීමට තමන් බලාපොරොත්තු නොවන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව පැවසුවේ නාරාහේන්පිට ‘නිල මැදුර’ ගොඩනැගිල්ලේ ස්වදේශ කටයුතු අමාත්‍යාංශ ශ්‍රවණාගාරයේ  අද (20) පැවැති දිස්ත්‍රික් ලේකම්/දිසාපති සමුළුව අමතමිනි.
+
+එහිදි ජනාධිපතිවරයා පැවසුවේ රාජ්‍ය සේවය කප්පාදු නොකරන නමුත් රාජ්‍ය සේවය පවත්වාගෙන යාම සඳහා දරන වැය බර සම්බන්ධව ගැටලුවක් ඇති බවය.
+
+මේ හේතුවෙන් එක් අධිෂ්ඨානය සිටිමින් රාජ්‍ය සේවය යම් විධිමත් යාන්ත්‍රණයකට ගෙන ආ යුතු බවද ජනාධිපතිවරයා එහිදී පැවසීය.
+
+එමෙන්ම මෙම කාර්යයන් ක්‍රියාත්මක කිරීමේදී දේශපාලන අධිකාරිය ලෙස සිය උපරිම දායකත්වය ලබා දෙන බවත් මෙම කර්තව්‍ය සාර්ථක වනුයේ රාජ්‍ය නිලධාරීන් ඊට දක්වන දායකත්වය මත බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජන වරමේ අපේක්ෂාවන් 80%ක්ම පෙන්වා ඇත්තේ රාජ්‍ය සේවකයන් බැවින් දේශපාලන අධිකාරියේ කාර්යයන්ට සිය කැමැත්ත, අනුමැතිය ලබා දී ඇති බවත් මෙම ද්විත්වය පරස්පර කණ්ඩායම් දෙකක් නොවන සමපාත කණ්ඩායම් දෙකක් බවත් ජනාධිපතිවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/3ef1154d.json)
+
+---
 
 ### Two persons arrested for allegedly defrauding school student
 
@@ -61,6 +211,44 @@ Later, the suspect pawned the jewelery and received a mobile phone of the school
 [Data](articles/eebeb138.json)
 
 [Extended Data](ext_articles/eebeb138.ext.json)
+
+---
+
+### ‘Kudu Salindu’ granted bail
+
+*2024-12-20 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104380/kudu-salindu-granted-bail) · `en`
+
+The Panadura Magistrate’s Court has granted bail to notorious underworld figure and drug kingpin Salindu Malshitha Gunaratne, also known as ‘Kudu Salindu’, on three sureties of Rs. 01 million each.
+
+The order was issued by Panadura Chief Magistrate Saman Kumara when a case filed against him was taken up before the court today (20).
+
+In addition to the three sureties, the suspect was ordered released under strict bail conditions.
+
+On March 01, 2023, Nadun Chinthaka Wickremeratne alias ‘Harak Kata’ and his infamous accomplice Salindu Malshika alias ‘Kudu Salindu’ were arrested in Madagascar in a joint operation by the INTERPOL and Malagasy law enforcement authorities and Customs officials.
+
+The duo was brought back to the island on March 15 after Malagasy defence officials informed the Sri Lankan Foreign Ministry of the arrest of 8 suspects including the two Sri Lankan underworld figures.
+
+...
+
+[Data](articles/48bb94c2.json)
+
+---
+
+### Foreign Minister clarifies govt’s stance on ETCA with India
+
+*2024-12-20 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104379/foreign-minister-clarifies-govts-stance-on-etca-with-india) · `en`
+
+Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath stated that the incumbent government of Sri Lanka has neither signed nor implemented the Economic and Technical Cooperation Agreement (ETCA) with India.
+
+Responding to reports regarding the various agreements signed during President Anura Kumara Dissanayake’s recent visit to India, Minister Herath clarified that there is a need to update the Indo - Sri Lanka Free Trade Agreement (ISFTA), which was signed several decades ago.
+
+Speaking at a special press conference held at the Department of Government Information today (20), the Minister emphasized that the government is working within the framework of the existing free trade agreement.
+
+“There is also a need to update it. We hope to renew and take forward this agreement which was signed several decades ago, with the expansion of the market,” he said.
+
+...
+
+[Data](articles/c2ea1725.json)
 
 ---
 
@@ -624,21 +812,31 @@ The Police Media Spokesperson also stated that a special program is being implem
 
 ---
 
-### கல்கிசையில் ஹெரோயினுடன் மூவர் கைது !
+### Three arrested with heroin in Kalkisa
 
 *2024-12-20 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201727) · `ta`
 
-கல்கிசை பொலிஸ் பிரிவுக்கு உட்பட்ட படோவிட்ட மற்றும் கட்டுகுருந்துவத்தை ஆகிய பிரதேசங்களில் ஹெரோயின் போதைப்பொருளுடன் மூன்று சந்தேக நபர்கள் நேற்று வியாழக்கிழமை (19) கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-கல்கிசை பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட மூன்று சுற்றிவளைப்புக்களின் போதே  சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் கல்கிசை மற்றும் பொரலஸ்கமுவ ஆகிய பிரதேசங்களைச் சேர்ந்த  26 , 29 வயதுடையவர்கள் ஆவர்.
 
-சந்தேக நபர்களிடம் இருந்து 10 கிராம் 660 மில்லி கிராம் ஹெரோயின் , 05 கிராம் 300 மில்லி கிராம் ஹெரோயின் மற்றும் 06 கிராம் 350 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+"3 arrested with heroin in Kalkisa: 2 men aged 26 & 29 from Mt. Lavinia & Boraleskamuwa. Police seized 22g of heroin in 3 raids."
+
+🟩
+
+Three suspects have been arrested yesterday (19) with heroin drugs in the areas of Badovitta and Katukurunduwatte, which belongs to the Mount Lavinia Police Division.
+
+The suspects have been arrested during the three rounds of raids carried out on the basis of information received by the Criminal Investigation Division of the Mount Lavinia Police.
+
+The arrested suspects are 26 and 29 years old from Mount Mount Lavinia and Boraleskamuwa.
+
+10 g 660 ml of heroin, 05 g 300 ml of heroin and 06 g 350 g 350 ml of heroin have been seized by the police.
 
 ◼️
 
 [Data](articles/8877026c.json)
+
+[Extended Data](ext_articles/8877026c.ext.json)
 
 ---
 
@@ -657,6 +855,8 @@ Further, in order to strengthen the transparency in financial management, the me
 ...
 
 [Data](articles/9f8a9f48.json)
+
+[Extended Data](ext_articles/9f8a9f48.ext.json)
 
 ---
 
@@ -2015,173 +2215,5 @@ Available in sizes 15L, 25L, 30L, and 40L, these lockers provide ample storage c
 ◼️
 
 [Data](articles/69aa78a2.json)
-
----
-
-### Sri Lanka to partner with India for digital transformation
-
-*2024-12-20 05:29:30* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-to-partner-with-India-for-digital-transformation/34-770744) · `en`
-
-Sri Lanka is set to strengthen its digital transformation efforts by leveraging India’s expertise in e-governance, financial technology (FinTech) strategies, artificial intelligence (AI) and digital infrastructure.
-
-The Cabinet of Ministers has approved a proposal by President Anura Kumara Dissanayake in his capacity as the Digital Economy Minister to formalise this collaboration through a Memorandum of Understanding (MoU) with India’s Electronics and Information Technology Ministry.
-
-“The proposed MoU aims to enhance institutional cooperation between the two countries, focusing on capacity building for Government officials in Sri Lanka and the implementation of innovative digital solutions,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday. The collaboration is expected to address gaps in technical expertise and accelerate the implementation of digital transformation strategies and solutions.
-
-...
-
-[Data](articles/afc737cc.json)
-
----
-
-### Cabinet approves Rs. 25 m allocation for temporary care homes operations
-
-*2024-12-20 05:28:19* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-Rs-25-m-allocation-for-temporary-care-homes-operations/56-770743) · `en`
-
-The Cabinet of Ministers has green lighted a proposal by Women and Child Affairs Ministry to allocate Rs. 25 million for 2025, with provisions for subsequent years to be included in future annual Budgets.
-
-The funding aims to support temporary care homes that provide protection and rehabilitation for victimised women countrywide.
-
-At present, the Ministry operates 10 temporary care homes in Gampaha, Rathnapura, Moneragala, Colombo, Matara, Batticaloa, Mullaitivu, Jaffna and two in Anuradhapura. A new facility is also set to open in Nuwara Eliya in January 2025, extending the program’s reach to address growing demand.
-
-Since 2020, these care homes have provided assistance to 2,852 victimised women. However, the Ministry has faced financial constraints incurring Rs. 60.35 million in expenses for administrative and maintenance purposes, whilst receiving only Rs. 37.69 million in the Budget. As a result, unpaid bills amounting to Rs. 22 million remain pending.
-
-...
-
-[Data](articles/3399d1c9.json)
-
----
-
-### Govt. increases daily allocation for preschool breakfast program
-
-*2024-12-20 05:27:13* · [`dailyftlk`](https://www.ft.lk/news/Govt-increases-daily-allocation-for-preschool-breakfast-program/56-770742) · `en`
-
-In a move to combat malnutrition among preschool children, the Cabinet of Ministers at their meeting on Wednesday approved increasing the daily allowance for the National Secretariat on Early Child Development’s breakfast program.
-
-The decision raises the per child allocation from Rs. 60 to Rs. 100 reflecting the rising cost of food items.
-
-The program launched in 2017 under the technical guidance of the Health Ministry provides nutritious breakfasts to children in early childhood development centres and preschools with high prevalence of underweight children.
-
-“For 2025, the initiative is expected to benefit around 155,000 children,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said.
-
-...
-
-[Data](articles/ed05132e.json)
-
----
-
-### Petition filed against Minister Upali Pannilage over MP eligibility
-
-*2024-12-20 05:26:48* · [`dailyftlk`](https://www.ft.lk/news/Petition-filed-against-Minister-Upali-Pannilage-over-MP-eligibility/56-770741) · `en`
-
-A writ petition has been filed before the Court of Appeal seeking a declaration that the Rural Development, Social Security, and Community Empowerment Minister Prof. Upali Pannilage is disqualified from serving as a Member of Parliament and is therefore ineligible to hold office as an MP.
-
-The petition, filed by social and political activist Oshala Herath, alleges that Prof. Pannilage was employed by the University of Ruhuna, a public corporation, at the time of his appointment as an MP and subsequently as a Cabinet Minister. The petitioner contends that this contravenes the provisions of Sri Lanka’s Constitution, which disqualifies individuals with interests in public contracts from being elected to Parliament.
-
-The respondents in the petition include Minister Prof. Pannilage as the first respondent, Secretary General of Parliament Kushani Anusha Rohanadeera, Vice Chancellor of the University of Ruhuna Prof. Sujeewa Amarasena, the University of Ruhuna, and the Attorney General.
-
-...
-
-[Data](articles/0dc0ecb8.json)
-
----
-
-### Pan Asia Bank partners with the National Chamber of Commerce and NEDA
-
-*2024-12-20 05:08:00* · [`islandlk`](http://island.lk/pan-asia-bank-partners-with-the-national-chamber-of-commerce-and-neda/) · `en`
-
-Pan Asia Bank is proud to have been a pivotal partner of the Western Province Entrepreneur Awards 2024. Organized by the National Chamber of Commerce of Sri Lanka (NCCSL) in collaboration with the National Enterprise Development Authority (NEDA), this annual awards event celebrates and recognizes the achievements of entrepreneurs across the Western Province.
-
-As a forward-thinking financial institution, Pan Asia Bank remains committed to embracing and uplift entrepreneurship, which are key to driving economic growth for local Sri Lankan communities. The awards served as a platform to honor outstanding entrepreneurs across multiple sectors, which included Industry/Manufacturing, Agriculture/Livestock/Fisheries, and Hospitality/Tourism & Other Services.
-
-...
-
-[Data](articles/0b1f0346.json)
-
----
-
-### Cool Planet lights up the holidays with festive cheer and seasonal collections
-
-*2024-12-20 05:08:00* · [`islandlk`](http://island.lk/cool-planet-lights-up-the-holidays-with-festive-cheer-and-seasonal-collections/) · `en`
-
-Cool Planet, Sri Lanka’s premier retail destination, is making the festive season brighter than ever this December with “Light Up the Moment.” This festive theme brings joy to holiday shopping with exclusive collections, exciting activities, and unmatched promotions, offering something special for every member of the family. Adding to the holiday spirit, all Cool Planet outlets are adorned with vibrant Christmas décor, creating a magical atmosphere for shoppers.
-
-...
-
-[Data](articles/a7b7221b.json)
-
----
-
-### LAUGFS Gas wins Gold at TAGS Awards 2024
-
-*2024-12-20 05:08:00* · [`islandlk`](http://island.lk/laugfs-gas-wins-gold-at-tags-awards-2024/) · `en`
-
-LAUGFS Gas PLC, a leading energy solutions provider, has once again demonstrated its leadership and excellence in corporate reporting by clinching the prestigious Gold Award in the Power & Energy category at the TAGS Awards 2024, organised by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka). This significant recognition marks another milestone for LAUGFS Gas, highlighting its unwavering commitment to transparency, sustainability, and impactful stakeholder communication.
-
-The TAGS Awards, celebrated for 59 years, is a hallmark event recognising excellence in corporate reporting, promoting accountability, and encouraging innovation in financial and non-financial disclosures. LAUGFS Gas’s victory at this year’s awards underscores its adherence to the globally recognised Global Reporting Initiative (GRI) Sustainability Reporting Standards, ensuring clarity and consistency in its disclosures.
-
-...
-
-[Data](articles/e66769df.json)
-
----
-
-### NDB Bank triumphs with 8 prestigious awards at National Sales Awards 2024
-
-*2024-12-20 04:58:00* · [`islandlk`](http://island.lk/ndb-bank-triumphs-with-8-prestigious-awards-at-national-sales-awards-2024/) · `en`
-
-NDB Bank celebrates a momentous achievement at the National Sales Awards (NSA) 2024, organised by the Sri Lanka Institute of Marketing (SLIM). The Bank’s sales team excelled at this year’s ceremony, securing eight distinguished awards.
-
-The highlight of the evening was Kasun Jayawardana, who claimed the coveted Gold Award for Overall National Sales Manager, underscoring his leadership and remarkable contributions to the sales function. In the Front-Liner Banking category, Nethmi Kumarihami brought home the Gold Award, while Kaveesha Weerarathne secured the Silver Award, reflecting their dedication to delivering exceptional service at the forefront of banking operations.
-
-...
-
-[Data](articles/a0df28aa.json)
-
----
-
-### ComBank tops banking sector in LMD’s first Corporate Happiness Index
-
-*2024-12-20 04:56:00* · [`islandlk`](http://island.lk/combank-tops-banking-sector-in-lmds-first-corporate-happiness-index/) · `en`
-
-The Commercial Bank of Ceylon has been ranked No 1 among Sri Lankan banks in the inaugural Corporate Happiness Index (CHI) just released by LMD magazine.
-
-The Bank has also been ranked one of Sri Lanka’s “happiest second homes” taking fifth place overall in the ranking, following the high positions it achieved in the 16 attributes that made up the survey conducted by PepperCube Consultants for this pioneering initiative.
-
-Remarkably, Commercial Bank was the highest-ranked bank in 14 of the 16 attributes, leading the banking sector in several fundamentally-important aspects related to employees, such as ‘Remuneration scales,’ ‘Rewards & Perks,’ ‘Career progression,’ ‘Work environment,’ ‘Gender balance,’ ‘Health & wellbeing,’ ‘Work-life balance,’ ‘Workplace diversity,’ and ‘Workplace flexibility.’
-
-Commercial Bank was also ranked No 1 in the banking sector for ‘Financial stability,’ ‘Corporate leadership,’ ‘Workplace camaraderie,’ ‘Open culture’ and ‘Recreational facilities.’
-
-...
-
-[Data](articles/25ed00e0.json)
-
----
-
-### KR Ravindran  honoured for DEI by IFC/WIM
-
-*2024-12-20 04:54:00* · [`islandlk`](http://island.lk/kr-ravindran-honoured-for-dei-by-ifc-wim/) · `en`
-
-One of Sri Lanka respected business leaders and the only Sri Lankan to head the Rotary Global as Rotary International President based in Chicago , US- K R Ravindran was recognized by WIM /IFC ( member of World Bank) in Sri Lanka for his role played in promoting DEI in Rotary and his work place .
-
-Ravindran co-founded Printcare Plc with the late Merrill J Fernando nearly 40 years ago. Printcare is one of South Asia’s highly respected, diversified printing and packaging companies with multiple manufacturing plants in Sri Lanka, India, and Africa. Printcare is also well known in the industry as a sought-after employer. It promotes DEI strongly, offers several worker-friendly schemes, employs physically and mentally challenged people, and works with and supports the schools and community around its plants
-
-...
-
-[Data](articles/315a04a7.json)
-
----
-
-### Aitken Spence companies recognised at the TAGS awards by CA Sri Lanka
-
-*2024-12-20 04:53:00* · [`islandlk`](http://island.lk/aitken-spence-companies-recognised-at-the-tags-awards-by-ca-sri-lanka/) · `en`
-
-The annual report of Aitken Spence PLC presented under the theme ‘The Power to Inspire’ won the ‘Silver’ award under the Diversified Holdings (Group Turnover Up to 100bn) at the 59th TAGS Awards 2024 (Transparency, Accountability, Governance, and Sustainability), organised by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka). The Company received certificate recognitions for corporate governance disclosure – non-financial services, sustainability reporting and integrated reporting.
-
-The annual report of Aitken Spence Hotel Holdings PLC presented under the theme ‘Unforgettable: People, Connections and Memories’, once again won the ‘Gold’ award in the Hotel Sector category. This is the fifth consecutive year that Aitken Spence Hotels won this award.
-
-...
-
-[Data](articles/988efc66.json)
 
 ---

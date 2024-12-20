@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 00:42:54**
+As of **2024-12-21 01:43:22**
 
 ## Newspaper Stats
 
-*Scraped **61,251** Articles*
+*Scraped **61,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 620
 bbccomsinhala | 646
 islandlk | 3,704
 economynextcom | 3,738
-dailyftlk | 4,243
+dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
@@ -26,11 +26,201 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,017 (99.6%) of 61,251 articles have been extended.
+61,022 (99.6%) of 61,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### President pledges reforms to revitalise public sector
+
+*2024-12-21 01:05:33* · [`dailyftlk`](https://www.ft.lk/news/President-pledges-reforms-to-revitalise-public-sector/56-770853) · `en`
+
+Says challenge of transforming public service into streamlined State mechanism lies ahead of us
+
+Points to newly appointed committee to make impartial decisions without political interference
+
+Opines no intention to downsize public service, while admitting concerns about high expenditure involved
+
+Calls to maintain harmony and mutual accountability between public officials and political authorities
+
+Assures to defend public officials facing unjust challenges; warns against neglect or obstruction of duties
+
+President Anura Kumara Dissanayake yesterday underscored the urgent need to overhaul public service, pointing to the critical challenge of transforming Sri Lanka’s public service into an efficient state mechanism.
+
+Addressing a conference of District Secretaries and Divisional Secretaries at the Home Affairs Ministry Auditorium, located in the “Nila Medura” building in Narahenpita, he outlined a vision for a more efficient and trustworthy State mechanism.
+
+...
+
+[Data](articles/e076df63.json)
+
+[Extended Data](ext_articles/e076df63.ext.json)
+
+---
+
+### SC upholds death sentence for ex-top cop Vass Gunawardena
+
+*2024-12-21 01:04:54* · [`dailyftlk`](https://www.ft.lk/news/SC-upholds-death-sentence-for-ex-top-cop-Vass-Gunawardena/56-770852) · `en`
+
+The Colombo High Court yesterday announced that the Supreme Court has upheld its previous verdict sentencing five defendants, including former DIG Vass Gunawardena, to death in the 2013 kidnapping and murder of businessman Mohamed Shiyam.
+
+The Colombo High Court announced this decision after former DIG Vass Gunawardena, his son Ravindu Gunawardena, and three police officers were produced before the court by prison officials yesterday.
+
+Colombo High Court Judge Aditya Patabendige informed the defendants that the Supreme Court had rejected their appeal in this case and upheld the death sentence.
+
+Counsel Rahul Jayathilake, appearing for the accused, informed the court that the Supreme Court had not specified a date for the effective date of the sentence pronounced by the High Court in November 2015.
+
+Pointing out that the date of the sentence was very important, he requested the court to issue an order in this regard as it was not mentioned in the Supreme Court order.
+
+...
+
+[Data](articles/a2417fbe.json)
+
+---
+
+### D.V. Chanaka appointed as new SLPP National Organiser
+
+*2024-12-21 01:04:42* · [`dailyftlk`](https://www.ft.lk/news/D-V-Chanaka-appointed-as-new-SLPP-National-Organiser/56-770851) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Hambantota District MP D.V. Chanaka has been appointed as the new National Organiser of the party replacing MP Namal Rajapaksa. This key decision was announced during the SLPP Executive Council meeting held at the official residence of former President Mahinda Rajapaksa in Colombo yesterday.
+
+Political commentators suggest that D.V. Chanaka’s appointment signals Namal Rajapaksa’s preparation for a more prominent leadership role within the party.
+
+At the same meeting, it was revealed that former MP Johnston Fernando has been entrusted with the responsibility of appointing new leaders at both grassroots and District levels, as part of the party’s organisational restructuring.
+
+The gathering was attended by prominent SLPP members, including Chairperson Uduwala Dhammarathana Thera, General Secretary Sagara Kariyawasam, National Organiser Namal Rajapaksa, Johnston Fernando, Sanjeewa Edirimanna, and C.B. Ratnayake, among others.
+
+◼️
+
+[Data](articles/27189bab.json)
+
+[Extended Data](ext_articles/27189bab.ext.json)
+
+---
+
+### 1st Annual General Meeting of Sri Lanka – Indonesia Business Council of the Ceylon Chamber of Commerce
+
+*2024-12-21 01:02:08* · [`dailyftlk`](https://www.ft.lk/business/1st-Annual-General-Meeting-of-Sri-Lanka-Indonesia-Business-Council-of-the-Ceylon-Chamber-of-Commerce/34-770849) · `en`
+
+The 1st Annual General Meeting of the Sri Lanka – Indonesia Business Council was held at Jetwing Colombo Seven. Ambassador Dewi Gustina Tobing graced the occasion as the Chief Guest for the evening.
+
+In her remarks, the Ambassador commended the SLIBC for its successful first year, highlighting a 12.76% increase in trade value between Indonesia and Sri Lanka from January to September 2024 compared to the same period the previous year. She expressed confidence in the future potential of trade relations between the two countries and emphasized the SLIBC’s role as a strategic partner for the Indonesian Embassy.
+
+The keynote speaker for the evening Anushka Wijesinha discussed Sri Lanka’s international trade in a shifting global context. He focused on Sri Lanka’s trade performance and his role in the economic crisis, new dynamics and shifts in international trade and concluded with his personal reflections on the Sri Lanka – Indonesia PTA and way forward.
+
+...
+
+[Data](articles/a0068dae.json)
+
+[Extended Data](ext_articles/a0068dae.ext.json)
+
+---
+
+### Lanka Business TV’s “Entrepreneur” Kurunegala Business and Investment Summit receives overwhelming response
+
+*2024-12-21 01:01:27* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Business-TV-s-Entrepreneur-Kurunegala-Business-and-Investment-Summit-receives-overwhelming-response/34-770848) · `en`
+
+The highly popular Lanka Business TV “Entrepreneur” Business and Investment Summit was recently held with great enthusiasm at “The Epitome” Hotel, Kurunegala with the participation of a large number of entrepreneurs and those interested in entrepreneurship.
+
+Speaking at the conference, Lanka Business TV Founder and CEO Jayantha Kovilagodage said that in the future, such business and investment conferences are planned to be held in various parts of Sri Lanka and that creating such awareness to boost the small and medium-sized business sector in the country has now become a national necessity.
+
+...
+
+[Data](articles/982c7ee6.json)
+
+---
+
+### Ceylon tea promotion adds flavour to Marco Polo tribute in Venice
+
+*2024-12-21 01:00:33* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-tea-promotion-adds-flavour-to-Marco-Polo-tribute-in-Venice/34-770847) · `en`
+
+The Consulate General of Sri Lanka in Milan hosted a Ceylon tea promotional event on 12 December 2024 in Venice, Italy.
+
+The event was organised in collaboration with the National Committee and the AR-Tea Academy in Venice for the commemoration of the 700th death anniversary of the legendary Italian explorer Marco Polo.
+
+Held as the last of a series of events organised honouring Marco Polo’s legacy, the event centred on promoting Ceylon Tea. It attracted a vibrant audience of tea experts, enthusiasts and cultural connoisseurs of the city of Venice. The gathering featured insightful presentations from Italian agents of Mlesna and PMD Tea, who highlighted the rich heritage, distinct flavours and global appeal of Ceylon Tea.
+
+...
+
+[Data](articles/36f60f62.json)
+
+---
+
+### Rs. 3 m in bill wipeouts for 60 ComBank credit card holders this month
+
+*2024-12-21 00:59:09* · [`dailyftlk`](https://www.ft.lk/business/Rs-3-m-in-bill-wipeouts-for-60-ComBank-credit-card-holders-this-month/34-770846) · `en`
+
+The Commercial Bank of Ceylon has announced an exciting initiative to enhance the spirit of seasonal shopping. The bank is set to wipe out Rs. 3 million from the December spends of its customers, giving them the perfect opportunity to indulge in the holiday shopping spree with added zest.
+
+Any personal credit card holder of Commercial Bank that spends a minimum of Rs. 75,000 in December will be eligible to go into a draw at which 60 lucky cardholders will each win a bill wipeout up to Rs. 50,000, the bank said.
+
+Credit card purchases made at point-of-sale terminals, along with online transactions and payments via the Q+ payment app in the month of December, will be eligible for this exciting windfall.
+
+...
+
+[Data](articles/48abc471.json)
+
+---
+
+### 200 youth complete Japan’s Specified Skilled Worker – Nursing Care training
+
+*2024-12-21 00:40:02* · [`dailyftlk`](https://www.ft.lk/news/200-youth-complete-Japan-s-Specified-Skilled-Worker-Nursing-Care-training/56-770840) · `en`
+
+200 youth from across Sri Lanka have successfully completed the Specified Skilled Worker (SSW) – Nursing Care training program, marking a significant step towards better job opportunities both locally and abroad.
+
+The most recent cohort of 55 students received their certificates at a ceremony held in Kandy, with Ambassador of Japan Isomata Akio, as the chief guest, alongside the participation of Embassy of Japan Second Secretary Inoue Hiroki, ILO Country Office for Sri Lanka and the Maldives Director Joni Simpson, and officials from National Youth Services Council (NYSC).
+
+This milestone marks the successful completion of the training of several batches of students from Kandy, Matara, Kurunegala, and Pandura. This program, conducted by the National Youth Services Council, and the International Labour Organisation (ILO), empowers youth with critical skills for Japan’s growing nursing care sector.
+
+...
+
+[Data](articles/47a2f52a.json)
+
+[Extended Data](ext_articles/47a2f52a.ext.json)
+
+---
+
+### Communist Party of China brings Silk Road Link platform to Sri Lanka
+
+*2024-12-21 00:39:18* · [`dailyftlk`](https://www.ft.lk/news/Communist-Party-of-China-brings-Silk-Road-Link-platform-to-Sri-Lanka/56-770839) · `en`
+
+This year marks the beginning of the second golden decade of the Belt and Road Initiative (BRI) proposed by Chinese President Xi Jinping. From 16 to 18 December, the International Department of the Central Committee of the Communist Party of China (CPC) brought its Silk Road Link platform to Sri Lanka for the first time, collaborating with the ruling party JVP, friendly organisations, and others to host multiple “Lighting Up the Countryside” public welfare events. These activities aim to enhance people-to-people connectivity and support the high-quality BRI cooperation between China and Sri Lanka.
+
+...
+
+[Data](articles/e231b72e.json)
+
+---
+
+### Bishop Duleep de Chickera launches his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’
+
+*2024-12-21 00:36:58* · [`dailyftlk`](https://www.ft.lk/news/Bishop-Duleep-de-Chickera-launches-his-latest-book-Beyond-checkpoints-Stories-of-human-resilience-in-troubled-Sri-Lanka/56-770838) · `en`
+
+From left: Gihan de Chickera, Moderator Dr. Mahendran Thiruvarangan, Manikya Kodithuwakku, Suramya Hettiarachchi and Bishop Duleep de Chickera
+
+A conversation with Bishop Duleep de Chickera on his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’, took place recently at the Diocesan Chambers, Cathedral of Christ the Living Saviour, Bauddhaloka Mawatha Colombo 7.
+
+The discussion was moderated by University of Jaffna Senior Lecturer Dr. Mahendran Thiruvarangan, while selected passages from the book were read and commented on by educator and story-teller Suramya Hettiarachchi. Published in 2023, and now in its second print, ‘Beyond Checkpoints’ recently won a State Literary Award.
+
+...
+
+[Data](articles/5e8aa961.json)
+
+---
+
+### High Commission of India supports underprivileged students in Mullaitivu ahead of Christmas
+
+*2024-12-21 00:34:56* · [`dailyftlk`](https://www.ft.lk/news/High-Commission-of-India-supports-underprivileged-students-in-Mullaitivu-ahead-of-Christmas/56-770837) · `en`
+
+With Christmas 2024 around the corner, Consul General of India in Jaffna, Sai Murali, on behalf of the High Commission of India in Colombo and on behalf of the people of India, donated school bags, notebooks and study kits to 400 underprivileged students in Mulliyawalai, Mullaitivu District.
+
+Consul General participated in the event as the Chief Guest, alongside other dignitaries including Mizpah Prayer Missionary Church Founder and President Rev. J. J. Sarangapani, Brigadier Jayavinth of the 59 Division, Mullaitivu, as well as principals, teachers, youth, students and parents from the local community.
+
+...
+
+[Data](articles/647e4e87.json)
+
+---
 
 ### Sri Lanka wins many trophies including 16 championship trophies at the UCMAS International Competition in New Delhi
 
@@ -41,6 +231,8 @@ The UCMAS Sri Lanka contingent was successful in winning 16 championships, 16 fi
 ...
 
 [Data](articles/f39b9402.json)
+
+[Extended Data](ext_articles/f39b9402.ext.json)
 
 ---
 
@@ -2191,273 +2383,5 @@ The forum on ‘Exploring the Impact of Germany’s Supply Chain Act on Sri Lank
 ...
 
 [Data](articles/5d909202.json)
-
----
-
-### SC upholds death sentence for Vass Gunawardena and four others
-
-*2024-12-20 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104370/sc-upholds-death-sentence-for-vass-gunawardena-and-four-others) · `en`
-
-The Supreme Court has upheld the death sentence imposed on former DIG Vass Gunawardena and four others, who were convicted over the abduction and murder of businessman Mohammed Siyam in 2013.
-
-The defendants were informed of this decision today in the Colombo High Court.
-
-Prison officials presented the five defendants in the case, including former Deputy Inspector General of Police (DIG) Vass Gunawardena and his son, Ravindu Gunawardena, before the court which announced the decision today.
-
-Colombo High Court Judge Aditya Patabendige informed the defendants that their appeals had been rejected, and the death sentence imposed by a three-member Colombo High Court bench had been upheld.
-
-The attorney representing the defendants raised concerns regarding the implementation date of the sentence, noting that the Supreme Court had not specified when the death sentence would be enforced.
-
-He pointed out that this detail was crucial if the defendants were hoping for a presidential pardon.
-
-...
-
-[Data](articles/6383ca8c.json)
-
-[Extended Data](ext_articles/6383ca8c.ext.json)
-
----
-
-### One person arrested with domestic gun in Kalapindunuwe
-
-*2024-12-20 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/201716) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Person arrested with domestic firearm in Kalapindunuwe area. Incident occurred on Thursday (19) during police raid in Mahadivulva, Moragoda Police Division.
-
-🟩
-
-A suspect who had a domestic gun in the Kalanpindunuwewa area area was arrested by police on Thursday (19).
-
-According to the information received by the police, a suspect was arrested during a raid on the Mahadivulva area of ​​the Moragoda Police Division.
-
-◼️
-
-[Data](articles/1bc9bf16.json)
-
-[Extended Data](ext_articles/1bc9bf16.ext.json)
-
----
-
-### Social media is also a reason for my failure - Douglas Devananda
-
-*2024-12-20 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/201713) · `ta`
-
-Douglas Devananda attributes election loss to social media misinformation. He claims false propaganda spread via social platforms contributed to his defeat. The former fisheries minister accuses a Jaffna businessman of spreading slander, citing unresolved trade issues as motivation.
-
-🟩
-
-Former Fisheries Minister Douglas Devananda said social media was also the reason for my failure.
-
-We have a setback in this election. It can also be called a temporary rest in politics. When was the minister, there was work on the head. At present it is not.
-
-Thus we examine the reduction within the party. We have taken steps to address the grievances and take steps to bring the people to the policy of the party. We will also hold the party's national conference very soon.
-
-Social websites are responsible for the fall of Douglas and the rise of Anura. They carried out false propaganda against me through social websites.
-
-They do not exacerbate their videos because they do not want to prevent their income because they are using my name.
-
-News can be seen through newspapers, televisions and radio in the past. Currently, with a hand phone, from the sewage to the bedroom to the bedroom, it is easy to watch the videos, so it reaches people.
-
-...
-
-[Data](articles/4a691e9c.json)
-
-[Extended Data](ext_articles/4a691e9c.ext.json)
-
----
-
-### 'Clene Sri Lanka' was a special gazette
-
-*2024-12-20 11:13:30* · [`adalk`](https://www.ada.lk/breaking_news/’ක්ලීන්-ශ්‍රී-ලංකා’-ජනාධිපති--කාර්ය-සාධක-බලකාය-පිහිටුවමින්-අති-විශේෂ-ගැසට්ටුවක්/11-413749) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Clene Sri Lanka" gazette issued by President Anura Kumara Dissanayake. Appointed Presidential Task Force led by Jayaratne, Silva, Sooriyarathna, Weerasuriya. Task Force aims to implement "Clean Sri Lanka" program focusing on social, environmental, and ethical awakening.
-
-🟩
-
-President Anura Kumara Dissanayake was announced by President Anura Kumara Dissanayake yesterday (19), appointing the Presidential Task Force to plan and implementing the "Clein Sri Lanka 'program.
-
-Accordingly, the Secretary to the Presidential Task Force is the members of the Presidential Task Force.The President was appointed by the President of the President of the ISF Jayaratne, Gihananda Silva, Dr. Anural Sooriyaara, Dilruh Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya, Dayan Weerasuriya.Are there.
-
-Presidential Secretary of the President NS Senge Secretary NSM Jayantha was appointed as the Secretary to the Secretary to the Secretary to the Secretary and the Convener of the President.
-
-The Task Force also assigned to present the "Clean Sri Lanka 'program to the President on the basis of the purpose of planning, operation, implementing the" Clin Sri Lanka "to meet the objectives of the social, environmental, environmental and ethical awakening.
-
-◼️
-
-[Data](articles/b29fba95.json)
-
-[Extended Data](ext_articles/b29fba95.ext.json)
-
----
-
-### The Supreme Court confirms the death penalty of the accused including Vaas
-
-*2024-12-20 11:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204543) · `si`
-
-Supreme Court confirms death penalty for Vaas and others. Former DIG Vass Gunawardena and son face execution for murdering businessman Mohammed Shyam. Appeals rejected; no specific execution date set; lawyer seeks presidential pardon. Colombo High Court Judge emphasizes Supreme Court's authority on final decree.
-
-🟩
-
-Former DIG Vass Gunawardena, including former DIG Vass Gunawardena, had confirmed the death penalty of the murder of millionaire businessman Mohammed Shyam today (20).
-
-Former DIG Vass Gunawardena, his son Ravindu Gunawardena, his son Ravindu Gunawardena, had been produced before the prison officials.
-
-The Colombo High Court Judge Advanced President informed the defendants that the Court of defendants had rejected the appeals by the defendants.
-
-Accordingly, the defendants have confirmed the death penalty of a three-member High Court Judge of Colombo and Adadi Paneenditha informed the defendants.
-
-The lawyer appearing on behalf of the accused, the lawyer pointed out that the Supreme Court not stated that the defendants would not specify the date of the punishment of the accused.
-
-If the defendants expect a presidential pardon, the lawyer, which was the most important day, was asked to issue an order on the date of the punishment.
-
-...
-
-[Data](articles/a8eb9a6b.json)
-
-[Extended Data](ext_articles/a8eb9a6b.ext.json)
-
----
-
-### Is there an oil pipe in India?
-
-*2024-12-20 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204542) · `si`
-
-India does not have oil pipelines in Sri Lanka. Minister Vijitha Herath clarified during his visit, stating no agreement was made for oil pipelines between India and Sri Lanka. Construction work is ongoing between Sri Lanka and UAE.
-
-🟩
-
-Minister of External Affairs Vijitha Herath said that Indian fuel pipes were not in agreement in Sri Lanka during his visit to India.
-
-He was speaking at a special press conference held at the Government Information today (20th) this morning to announce the President's visit.
-
-The Minister said that India and Sri Lanka, Sri Lanka and the United Arab Emirates Kingdom also have the construction work.
-
-He said that he had come to the agreement proceeding.
-
-Apart from that, the creation of the news that an oil pipe was agreed to Sri Lanka was inaccurate.
-
-◼️
-
-[Data](articles/4a874876.json)
-
-[Extended Data](ext_articles/4a874876.ext.json)
-
----
-
-### Deputy Minister discusses challenges hindering Sri Lankan industries’ growth with WB officials
-
-*2024-12-20 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104369/deputy-minister-discusses-challenges-hindering-sri-lankan-industries-growth-with-wb-officials) · `en`
-
-Deputy Minister of Industries and Entrepreneurship Development Chathuranga Abeysinghe has met with the World Bank’s Country Manager, Gevorg Sargsyan, and discussed several structural challenges that have hindered the growth of Sri Lankan industries over the past four decades.
-
-He said these include the absence of a national integrated industrial plan, limited access to capital for industrialists, weak institutional support for industrial growth, a lack of anti-dumping policies to protect local industries and the shortage of a skilled workforce essential for sustainable development.
-
-Furthermore, the discussion has also addressed contemporary issues, including the adverse impacts of recent tax policy changes and the challenges arising from non-performing debts.
-
-In addition, the deputy minister said they outlined their strategic vision for industrial development, short-term goals, and the specific forms of assistance that are required to achieve these objectives.
-
-...
-
-[Data](articles/d8ba0fa7.json)
-
-[Extended Data](ext_articles/d8ba0fa7.ext.json)
-
----
-
-### Foreign Minister’s special press conference
-
-*2024-12-20 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104368/foreign-ministers-special-press-conference) · `en`
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath is currently holding a special press conference to provide insights into President Anura Kumara’s recent visit to India.
-
-◼️
-
-[Data](articles/62dd7003.json)
-
-[Extended Data](ext_articles/62dd7003.ext.json)
-
----
-
-### Yall. A man arrested for allegedly biting a hospital guard
-
-*2024-12-20 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201711) · `ta`
-
-Man arrested for biting hospital guard in Jaffna. Incident occurred during visitation. Police intervened after guards were attacked. Suspect handed over to Jaffna police station.
-
-🟩
-
-A man was arrested on Thursday (19) on charges of biting a Jaffna Teaching Hospital guard.
-
-After the teaching hospital visitor ended, the person who tried to get into the patient's hostel was stopped by the hospital guards, who had been booked with the guards and bitten one of them.
-
-Following the other guards, the police arrested the man and handed it over to the Jaffna police.
-
-◼️
-
-[Data](articles/bb16ea92.json)
-
-[Extended Data](ext_articles/bb16ea92.ext.json)
-
----
-
-### Sri Lanka automotive sector group explore Thailand business opportunities
-
-*2024-12-20 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-automotive-sector-group-explore-thailand-business-opportunities-195350/) · `en`
-
-ECONOMYNEXT – Representatives from nine Sri Lankan automotive sector companies visited Thailand recently on an exposure and study tour, to explore business opportunities and strategies for entering the Thai automotive market.
-
-This was organized by the Export Development Board, the Sri Lanka Embassy in Thailand, the Sri Lanka Automobile Component Manufacturers Association, and the Thai-Sri Lanka Chamber of Commerce.
-
-“The main objective of the program was to enhance participants’ knowledge of the automotive components sector while providing exposure to emerging market trends and potential business opportunities,” the EDB said in a statement.
-
-The group toured key automotive industry sites, including the SAIC Motor – MG car manufacturing plant.
-
-“The visit provided firsthand insights into vehicle assembly technologies, including electric, hybrid, and conventional vehicles. Participants observed advanced machinery and assembly lines with an annual production capacity exceeding 40,000 units.”
-
-...
-
-[Data](articles/fee1f901.json)
-
-[Extended Data](ext_articles/fee1f901.ext.json)
-
----
-
-### Decision to prolong the time period of importing rice
-
-*2024-12-20 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201709) · `ta`
-
-Sri Lanka extends rice import deadline to Jan 10, 2025. Cabinet to decide on Monday. Gazette notice on Nov 24. Rice export ban ends Fri noon. Private sector imported 35,600 MT so far. State reserves 52,000 MT incoming. Sathosa has 10,400 MT in market.
-
-🟩
-
-The government has decided to extend the period of time to import rice until January 10, 2025.
-
-A final decision will be taken at the Cabinet meeting to be held on Monday.
-
-Cabinet spokesman Nalinda Jayatissa said yesterday (19) that steps are being taken to extend the time being given to rice imports.
-
-Accordingly, the gazette notification for the extension of rice imports will be released on the 24th of this month.
-
-The government's deadline for rice exports ends at 12:00 pm on Friday (20).
-
-Customs Media Spokesperson Sivali Arukoda said that if the time for the import of rice imports is not extended, the rice imported rice imported to Sri Lanka will be re -exported after 12 midnight.
-
-The private sector has imported 35,600 metric tonnes of rice to Sri Lanka until yesterday afternoon.
-
-The Customs spokesman said there were about 20,000 metric tonnes of the queen and 16,000 metric tons of red.
-
-...
-
-[Data](articles/66d58158.json)
-
-[Extended Data](ext_articles/66d58158.ext.json)
 
 ---

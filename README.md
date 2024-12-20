@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 00:42:54**
+As of **2024-12-21 00:59:04**
 
 ## Newspaper Stats
 
-*Scraped **61,251** Articles*
+*Scraped **61,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 620
 bbccomsinhala | 646
 islandlk | 3,704
 economynextcom | 3,738
-dailyftlk | 4,243
+dailyftlk | 4,247
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
@@ -26,11 +26,69 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,017 (99.6%) of 61,251 articles have been extended.
+61,018 (99.6%) of 61,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### 200 youth complete Japan’s Specified Skilled Worker – Nursing Care training
+
+*2024-12-21 00:40:02* · [`dailyftlk`](https://www.ft.lk/news/200-youth-complete-Japan-s-Specified-Skilled-Worker-Nursing-Care-training/56-770840) · `en`
+
+200 youth from across Sri Lanka have successfully completed the Specified Skilled Worker (SSW) – Nursing Care training program, marking a significant step towards better job opportunities both locally and abroad.
+
+The most recent cohort of 55 students received their certificates at a ceremony held in Kandy, with Ambassador of Japan Isomata Akio, as the chief guest, alongside the participation of Embassy of Japan Second Secretary Inoue Hiroki, ILO Country Office for Sri Lanka and the Maldives Director Joni Simpson, and officials from National Youth Services Council (NYSC).
+
+This milestone marks the successful completion of the training of several batches of students from Kandy, Matara, Kurunegala, and Pandura. This program, conducted by the National Youth Services Council, and the International Labour Organisation (ILO), empowers youth with critical skills for Japan’s growing nursing care sector.
+
+...
+
+[Data](articles/47a2f52a.json)
+
+---
+
+### Communist Party of China brings Silk Road Link platform to Sri Lanka
+
+*2024-12-21 00:39:18* · [`dailyftlk`](https://www.ft.lk/news/Communist-Party-of-China-brings-Silk-Road-Link-platform-to-Sri-Lanka/56-770839) · `en`
+
+This year marks the beginning of the second golden decade of the Belt and Road Initiative (BRI) proposed by Chinese President Xi Jinping. From 16 to 18 December, the International Department of the Central Committee of the Communist Party of China (CPC) brought its Silk Road Link platform to Sri Lanka for the first time, collaborating with the ruling party JVP, friendly organisations, and others to host multiple “Lighting Up the Countryside” public welfare events. These activities aim to enhance people-to-people connectivity and support the high-quality BRI cooperation between China and Sri Lanka.
+
+...
+
+[Data](articles/e231b72e.json)
+
+---
+
+### Bishop Duleep de Chickera launches his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’
+
+*2024-12-21 00:36:58* · [`dailyftlk`](https://www.ft.lk/news/Bishop-Duleep-de-Chickera-launches-his-latest-book-Beyond-checkpoints-Stories-of-human-resilience-in-troubled-Sri-Lanka/56-770838) · `en`
+
+From left: Gihan de Chickera, Moderator Dr. Mahendran Thiruvarangan, Manikya Kodithuwakku, Suramya Hettiarachchi and Bishop Duleep de Chickera
+
+A conversation with Bishop Duleep de Chickera on his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’, took place recently at the Diocesan Chambers, Cathedral of Christ the Living Saviour, Bauddhaloka Mawatha Colombo 7.
+
+The discussion was moderated by University of Jaffna Senior Lecturer Dr. Mahendran Thiruvarangan, while selected passages from the book were read and commented on by educator and story-teller Suramya Hettiarachchi. Published in 2023, and now in its second print, ‘Beyond Checkpoints’ recently won a State Literary Award.
+
+...
+
+[Data](articles/5e8aa961.json)
+
+---
+
+### High Commission of India supports underprivileged students in Mullaitivu ahead of Christmas
+
+*2024-12-21 00:34:56* · [`dailyftlk`](https://www.ft.lk/news/High-Commission-of-India-supports-underprivileged-students-in-Mullaitivu-ahead-of-Christmas/56-770837) · `en`
+
+With Christmas 2024 around the corner, Consul General of India in Jaffna, Sai Murali, on behalf of the High Commission of India in Colombo and on behalf of the people of India, donated school bags, notebooks and study kits to 400 underprivileged students in Mulliyawalai, Mullaitivu District.
+
+Consul General participated in the event as the Chief Guest, alongside other dignitaries including Mizpah Prayer Missionary Church Founder and President Rev. J. J. Sarangapani, Brigadier Jayavinth of the 59 Division, Mullaitivu, as well as principals, teachers, youth, students and parents from the local community.
+
+...
+
+[Data](articles/647e4e87.json)
+
+---
 
 ### Sri Lanka wins many trophies including 16 championship trophies at the UCMAS International Competition in New Delhi
 
@@ -41,6 +99,8 @@ The UCMAS Sri Lanka contingent was successful in winning 16 championships, 16 fi
 ...
 
 [Data](articles/f39b9402.json)
+
+[Extended Data](ext_articles/f39b9402.ext.json)
 
 ---
 
@@ -2369,95 +2429,5 @@ In addition, the deputy minister said they outlined their strategic vision for i
 [Data](articles/d8ba0fa7.json)
 
 [Extended Data](ext_articles/d8ba0fa7.ext.json)
-
----
-
-### Foreign Minister’s special press conference
-
-*2024-12-20 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104368/foreign-ministers-special-press-conference) · `en`
-
-Minister of Foreign Affairs, Foreign Employment, and Tourism, Vijitha Herath is currently holding a special press conference to provide insights into President Anura Kumara’s recent visit to India.
-
-◼️
-
-[Data](articles/62dd7003.json)
-
-[Extended Data](ext_articles/62dd7003.ext.json)
-
----
-
-### Yall. A man arrested for allegedly biting a hospital guard
-
-*2024-12-20 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201711) · `ta`
-
-Man arrested for biting hospital guard in Jaffna. Incident occurred during visitation. Police intervened after guards were attacked. Suspect handed over to Jaffna police station.
-
-🟩
-
-A man was arrested on Thursday (19) on charges of biting a Jaffna Teaching Hospital guard.
-
-After the teaching hospital visitor ended, the person who tried to get into the patient's hostel was stopped by the hospital guards, who had been booked with the guards and bitten one of them.
-
-Following the other guards, the police arrested the man and handed it over to the Jaffna police.
-
-◼️
-
-[Data](articles/bb16ea92.json)
-
-[Extended Data](ext_articles/bb16ea92.ext.json)
-
----
-
-### Sri Lanka automotive sector group explore Thailand business opportunities
-
-*2024-12-20 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-automotive-sector-group-explore-thailand-business-opportunities-195350/) · `en`
-
-ECONOMYNEXT – Representatives from nine Sri Lankan automotive sector companies visited Thailand recently on an exposure and study tour, to explore business opportunities and strategies for entering the Thai automotive market.
-
-This was organized by the Export Development Board, the Sri Lanka Embassy in Thailand, the Sri Lanka Automobile Component Manufacturers Association, and the Thai-Sri Lanka Chamber of Commerce.
-
-“The main objective of the program was to enhance participants’ knowledge of the automotive components sector while providing exposure to emerging market trends and potential business opportunities,” the EDB said in a statement.
-
-The group toured key automotive industry sites, including the SAIC Motor – MG car manufacturing plant.
-
-“The visit provided firsthand insights into vehicle assembly technologies, including electric, hybrid, and conventional vehicles. Participants observed advanced machinery and assembly lines with an annual production capacity exceeding 40,000 units.”
-
-...
-
-[Data](articles/fee1f901.json)
-
-[Extended Data](ext_articles/fee1f901.ext.json)
-
----
-
-### Decision to prolong the time period of importing rice
-
-*2024-12-20 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/201709) · `ta`
-
-Sri Lanka extends rice import deadline to Jan 10, 2025. Cabinet to decide on Monday. Gazette notice on Nov 24. Rice export ban ends Fri noon. Private sector imported 35,600 MT so far. State reserves 52,000 MT incoming. Sathosa has 10,400 MT in market.
-
-🟩
-
-The government has decided to extend the period of time to import rice until January 10, 2025.
-
-A final decision will be taken at the Cabinet meeting to be held on Monday.
-
-Cabinet spokesman Nalinda Jayatissa said yesterday (19) that steps are being taken to extend the time being given to rice imports.
-
-Accordingly, the gazette notification for the extension of rice imports will be released on the 24th of this month.
-
-The government's deadline for rice exports ends at 12:00 pm on Friday (20).
-
-Customs Media Spokesperson Sivali Arukoda said that if the time for the import of rice imports is not extended, the rice imported rice imported to Sri Lanka will be re -exported after 12 midnight.
-
-The private sector has imported 35,600 metric tonnes of rice to Sri Lanka until yesterday afternoon.
-
-The Customs spokesman said there were about 20,000 metric tonnes of the queen and 16,000 metric tons of red.
-
-...
-
-[Data](articles/66d58158.json)
-
-[Extended Data](ext_articles/66d58158.ext.json)
 
 ---

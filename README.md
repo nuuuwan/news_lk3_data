@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 13:43:43**
+As of **2024-12-20 14:03:07**
 
 ## Newspaper Stats
 
-*Scraped **61,167** Articles*
+*Scraped **61,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,832
 adaderanalk | 7,455
-tamilmirrorlk | 8,748
+tamilmirrorlk | 8,749
 virakesarilk | 10,089
 adaderanasinhalalk | 10,557
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-60,953 (99.7%) of 61,167 articles have been extended.
+60,953 (99.6%) of 61,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
+
+### அரிசியை இறக்குமதி செய்வதற்கான அனுமதி காலம் நீடிப்பு
+
+*2024-12-20 13:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-இறக்குமதி-செய்வதற்கான-அனுமதி-காலம்-நீடிப்பு/175-349007) · `ta`
+
+அரிசியை இறக்குமதி செய்வதற்கான அனுமதியை எதிர்வரும் ஜனவரி மாதம் 10ஆம் திகதி வரை நீடிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+வர்த்தகம் மற்றும் நுகர்வோர் பாதுகாப்பு அமைச்சில் இடம்பெற்ற கலந்துரையாடலின் போதே, இத்தீர்மானம் எட்டப்பட்டுள்ளது.
+
+அரிசியை இறக்குமதி செய்வதற்கான அனுமதி இன்றுடன் முடிவடையவிருந்த நிலையிலேயே, அக்காலம்,ஜனவரி மாதம் 10ஆம் திகதி வரை நீடிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இதேவேளை, இதுவரை நாடளாவிய ரீதியில், தனியார் இறக்குமதியாளர்களினால் இறக்குமதி செய்யப்பட்ட 35,600 மெற்றிக் தொன் அரிசி கிடைக்கப்பெற்றுள்ளதாக, சுங்கத் திணைக்களம் தெரிவித்துள்ளது. AN
+
+◼️
+
+[Data](articles/21c35f67.json)
+
+---
 
 ### Explanation of the President's Indian visit
 
@@ -2165,37 +2183,5 @@ The lorry that traveled from Kurunegala to Meerigama. Thus, fruits are scattered
 [Data](articles/832373dc.json)
 
 [Extended Data](ext_articles/832373dc.ext.json)
-
----
-
-### Will the theft money be brought back to Sri Lanka?
-
-*2024-12-19 18:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டுப்-பணம்-மீண்டும்-இலங்கைக்கு-கொண்டு-வரப்படுமா/175-348973) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Masked woman claims to return stolen assets from Uganda to Sri Lanka. MP Nilanti confirms recovery plans. Controversy surrounds alleged stolen funds before elections.
-
-🟩
-
-The incident has attracted the attention of everyone who has questioned whether a masked woman is planning to recover stolen assets allegedly stolen in Uganda, as she stated to get votes for NPP MP Nilanti Kothachi.
-
-During a cultural event, MP Nilanti confronted many satire questions regarding the current issue.
-
-Will the masked woman bring about a new government?Will the theft money hidden in Uganda be brought back to Sri Lanka?Asked.
-
-MP to answer the questions. Yes, respectively, respectively!We will, of course. "
-
-It is noteworthy that the controversy made by MP Nilanti before the election on the allegedly stolen assets hidden in Uganda.
-
-<IFrame Width = "Height =" 544 "SRC =" https://www.youtube.com/embed/saw6rxdasq0 Uganda? & quot; "Frameborder = "Allow =" ACCELERATER; en> </ iFrame>>>>>
-
-◼️
-
-[Data](articles/3457d1be.json)
-
-[Extended Data](ext_articles/3457d1be.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 04:27:08**
+As of **2024-12-21 04:42:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,035 (99.6%) of 61,266 articles have been extended.
+61,036 (99.6%) of 61,266 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1393,6 +1393,8 @@ Top turnover generators were Sierra Cables (up at 12.90), Hatton National Bank (
 ...
 
 [Data](articles/61cbc4ee.json)
+
+[Extended Data](ext_articles/61cbc4ee.ext.json)
 
 ---
 

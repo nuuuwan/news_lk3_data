@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-20 21:43:27**
+As of **2024-12-20 22:02:19**
 
 ## Newspaper Stats
 
-*Scraped **61,233** Articles*
+*Scraped **61,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,238
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,468
-tamilmirrorlk | 8,754
+tamilmirrorlk | 8,755
 virakesarilk | 10,106
 adaderanasinhalalk | 10,578
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 10,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,001 (99.6%) of 61,233 articles have been extended.
+61,003 (99.6%) of 61,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-20 (Friday)
 
-### ஜனாதிபதி வெளியிட்ட அதிரடி அறிவிப்பு
+### ஜனவரியில் சீனா செல்கின்றார் ஜனாதிபதி
+
+*2024-12-20 21:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரியில்-சீனா-செல்கின்றார்-ஜனாதிபதி/175-349025) · `ta`
+
+ஜனவரி மாதம் ஆரம்பத்தில் சீனாவுக்கு உத்தியோகபூர்வ விஜயம் செய்யவுள்ளதாக ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+மகாசங்கத்தினரை சந்தித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இதனை குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/10ada0e7.json)
+
+---
+
+### Action Notification issued by the President
 
 *2024-12-20 21:34:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-வெளியிட்ட-அதிரடி-அறிவிப்பு/150-349013) · `ta`
 
-எதிர்வரும் வருடம் சித்திரை தமிழ் சிங்கள புத்தாண்டிற்கு முன்னதாக உள்ளூராட்சி மன்றத் தேர்தல்  நடாத்தப்படும் என ஜனாதிபதி அநுர குமார திசாநாயக்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-அதற்காக வேட்புமனுக்களை மீள அழைப்பது பொருத்தமானதாக இருக்கும் என ஜனாதிபதி மேலும் தெரிவித்தார்.
 
-மல்வத்து மற்றும் அஸ்கிரி மகாநாயக்க தேரரை சந்தித்த பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
 
-அதேபோல், மாகாண சபை தேர்தலும் அடுத்த வருடத்தில் நடாத்தப்படும் என ஜனாதிபதி தெரிவித்துள்ளார். R
+"President Anura Kumara Dissanayake announces local gov't & provincial council elections for next year. Nominations to be reclaimed ahead of Tamil Sinhala New Year."
+
+🟩
+
+President Anura Kumara Dissanayake has said that the local government elections will be held ahead of the Tamil Sinhala New Year in the coming year.
+
+The President added that it would be appropriate to reclaim the nominations.
+
+The President made this statement while addressing the media after meeting Malwathu and Asgiri Mahanayaka Thera.
+
+Similarly, the provincial council election will be held next year, the President said. Remble
 
 ◼️
 
 [Data](articles/86480a2e.json)
+
+[Extended Data](ext_articles/86480a2e.ext.json)
 
 ---
 
@@ -162,29 +186,39 @@ President Anura Kumara Dissanayake, who then visited the Asgiriya Vihara, the Ma
 
 ---
 
-### මෙරටට පැමිණි මියන්මාර ජාතිකයින් ගැන ගත් තීරණය
+### Decision taken about Myanmar nationals who arrived in Sri Lanka
 
 *2024-12-20 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204566) · `si`
 
-මුලතිව්හි, මුල්ලිවයික්කාල් මුහුදු ප්‍රදේශයට පැමිණ සිටියදී සොයාගැනුණු මියන්මාර සරණාගතයින් අද (20) ත්‍රිකුණාමලයට රැගෙන එනු ලැබීය.
+Myanmar refugees arrive in Sri Lanka, face legal scrutiny, medical aid, court appearance.
 
-විදේශ කටයුතු අමාත්‍යංශය පැවසුවේ, මෙම සරණාගතයින් සම්බන්ධයෙන් මෙරට නීතිය සහ ජාත්‍යන්තර නීතිය අනුව කටයුතු කරන බවය.
+🟩
 
-මියන්මාරයේ පවතින ගැටුම්කාරී වාතාවරණය හමුවේ මෙම සරණාගතයින් පිරිස මීට දින 16කට පෙර එරටින් පිටව ඇත්තේ යාත්‍රා 3ක් යොදා ගනිමිනි.
+Meanmar refugees were taken to Trincomalee today (20), who was found in Mullaitivu, who was found in Mullivaikkal areas.
 
-කෙසේ වෙතත්, අතරමගදී යාත්‍රා 2ක් කාර්මික දෝෂවලට ලක්වීම හේතුවෙන් ඒවායේ සිටි පිරිසද මෙම යාත්‍රාවට ගොඩවී තිබේ.
+The External Affairs Ministry said that this refugees will be in accordance with the law and international law in Sri Lanka.
 
-ගමන අතරතුරදී කුඩා දරුවන් සිව්දෙනෙකු ඇතුළුව පුද්ගලයින් 6 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇත්තේ රෝගාබාධ ඇතුළු කරුණු හේතුවෙනි.
+The refugees were exhausted from the conflict in Myanmar.
 
-ඊයේ (19) මුලතිව් හි මුල්ලිවයික්කාල් වෙත පැමිණ සිටි මෙම පිරිස ප්‍රදේශයේ ධීවරයින් විසින් දැක තිබූ අතර පසුව ඒ සම්බන්ධයෙන් ආරක්ෂක අංශ දැනුවත් කෙරුණි.
+However, the vessels have been landed on the vessels due to two vessels in the same way.
 
-ඒ අනුව 102 දෙනෙකුගෙන් යුත් මියන්මාර සරණාගතයින් පිරිස 12 දෙනෙකුගෙන් සමන්විත යාත්‍රාවේ කාර්ය මණ්ඩලය අද පෙරවරුවේ ත්‍රිකුණාමලය අෂ්රොෆ් ජැටිය වෙතට ගෙනඑනු ලැබුවේ ශ්‍රී ලංකා නාවික හමුදාවේ මැදිහත් වීමෙනි.
+Six persons, including four children, have died of illnesses.
 
-නිසි ලෙස ආහාරපාන නොලැබීම හමුවේ මෙම පිරිස දුර්වල තත්ත්වයක පසුවුණි.
+The fishermen were seen by the fishermen in the area yesterday (19).
+
+Accordingly, the Jethof jetty of 10 meanmar refugees was brought to the Ashroff jetty this morning by the Intervention of the Sri Lanka Navy.
+
+They were poorly in poor manner in the manner in which it was not properly eaten.
+
+Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra was also present at the occasion.
+
+Later, the Sri Lankan authorities later established a mobile medical camp was established to inspect the health of myanmar refugees.
 
 ...
 
 [Data](articles/ab580706.json)
+
+[Extended Data](ext_articles/ab580706.ext.json)
 
 ---
 
@@ -2399,27 +2433,5 @@ The Department of Meteorology has advised the general public to take steps to re
 ◼️
 
 [Data](articles/f35b4bef.json)
-
----
-
-### Sri Lanka extends exchange controls devised by central bank till June
-
-*2024-12-20 07:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-exchange-controls-devised-by-central-bank-till-june-195357/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved and extension of exchange controls in a proposed by the central bank to extend for six months exchange controls which expired on December 19.
-
-The cabinet has approved extending the exchange control regulation for another six months.
-
-The exchange controls have been revised, a post-cabinet statement said without specifying the changes.
-
-The June 2024 regulations were also less tighter than the earlier ones.
-
-Sri Lanka and other central banks which go to the International Monetary Fund regularly impose exchange control on the people due to deep flaws in their operating framework where monetary policy is in fundamental conflict with exchange rate policy.
-
-When the policy conflicts intensify due to open market operations to narrowly target a policy rate, exchange controls are intensified instead of correcting monetary policy.
-
-...
-
-[Data](articles/8ff2760f.json)
 
 ---

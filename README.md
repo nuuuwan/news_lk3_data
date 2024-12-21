@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 14:29:59**
+As of **2024-12-21 14:42:57**
 
 ## Newspaper Stats
 
-*Scraped **61,322** Articles*
+*Scraped **61,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,841
-adaderanalk | 7,479
+adaderanalk | 7,480
 tamilmirrorlk | 8,768
 virakesarilk | 10,119
-adaderanasinhalalk | 10,589
+adaderanasinhalalk | 10,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,084 (99.6%) of 61,322 articles have been extended.
+61,084 (99.6%) of 61,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### ආචාර්ය නාමය ගැන තිදෙනෙකුගෙන්  CID ප්‍රකාශ ගනී
+
+*2024-12-21 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204581) · `si`
+
+පාර්ලිමේන්තු වෙබ් අඩවියේ අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍ය හර්ෂණ නානායක්කාර මහතාගේ නම ඉදිරියේ  "ආචාර්ය" නාමයක් සටහන්වීමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව, පාර්ලිමේන්තු නිලධාරීන්ගෙන් ප්‍රකාශ සටහන් කරගෙන තිබේ.
+
+ඊයේ (20) පාර්ලිමේන්තුවට පැමිණි එම දෙපාර්තමේන්තුවේ නිලධාරීන් කණ්ඩායමක් පාර්ලිමේන්තුවේ සහකාර මහලේකම්වරයා ඇතුළු නිලධාරීන් තිදෙනෙකුගෙන් ඒ පිළිබඳ ප්‍රකාශ සටහන් කරගෙන ඇති බව වාර්තා විය.
+
+තමාට නොමැති ආචාර්ය නාමයක් පාර්ලිමේන්තු වෙබ් අඩවියේ තම නම ඉදිරියේ වැරදියට සඳහන් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අමාත්‍ය නීතීඥ හර්ෂණ නානායක්කාර මහතා පසුගියදා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+
+ඒ අනුව සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මෙලෙස ඊයේ දිනයේ පාර්ලිමේන්තු නිලධාරීන් පිරිසකගෙන් ප්‍රකාශ සටහන් කරගැනීමට පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/0fff5400.json)
+
+---
+
+### Pakistan military court jails 25 over 2023 attacks
+
+*2024-12-21 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104396/pakistan-military-court-jails-25-over-2023-attacks) · `en`
+
+Twenty-five civilians were sentenced by a Pakistani military court to periods of two to 10 years of “rigorous imprisonment” in connection with attacks on military facilities in 2023, the armed forces’ media wing said on Saturday.
+
+The ruling underscores concerns among supporters of jailed former prime minister Imran Khan that military courts are going to play a bigger role in cases involving the 72-year-old, who is facing multiple charges including allegedly inciting attacks against the armed forces.
+
+Thousands of Khan supporters stormed military installations and torched a general’s house on May 9, 2023 to protest against the former premier’s arrest by paramilitary soldiers. At least eight people were killed in the violence.
+
+The military’s Inter-Services Public Relations office said the sentences handed down on Saturday were an “important milestone in dispensation of justice to the nation”.
+
+...
+
+[Data](articles/e2e5e00e.json)
+
+---
+
+### ඝාතන 5ක සැකකරුවෙක් වූ පැතුම් සොයා ආ වෙඩිල්ල
+
+*2024-12-21 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204579) · `si`
+
+පුද්ගල ඝාතන 5ක පමණ සැකකරුවකු වන පැතුම් නොහොත් 'ලොක්කා' ඊයේ (20) රාත්‍රියේ නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩි තබා ඝාතනය කර තිබුණි.
+
+ගාල්ල - දඩල්ල ප්‍රදේශීයේදී ලොක්කා නැමැත්තා කාන්තාවක් සමග යතුරුපැදියකින් ගමන්කරමින් සිටියදී ඔහුට වෙඩි තබා ඇති බව වාර්තා විය.
+
+ගාල්ල - දඩල්ල කනත්ත ආසන්නයේදී ඊයේ සවස 6.50ට පමණ එම වෙඩි තැබීම සිදුකර තිබුණි.
+
+තවත් යතුරුපැදියකින් පැමිණි වෙඩික්කරුවන් දෙදෙනෙකු විසින් ටී-56 වර්ගයේ ගිනි අවියකින් වෙඩිතැබීම සිදුකර පලාගොස් තිබූ බව සඳහන් ය.
+
+වෙඩි ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ ලොක්කා නැමැත්තා ගාල්ල රෝහලට ඇතුළත් කරන විටත් මියගොස් සිට ඇති අතර ඔහු සමග යතුරුපැදියේ ගමන්ගත් කාන්තාවට ද වෙඩිවැදී තුවාල සිදුව තිබුණි.
+
+ගාල්ල, මැලෑගොඩ ප්‍රදේශයේ පදිංචිකරුවකු වන ඝාතනයට ලක් වූ පුද්ගලයා, පුද්ගල ඝාතන 5ක පමණ සැකකරුවකු බවත්, මත්ද්‍රව්‍ය ජාවාරම් සිදුකර ඇති බවත් පොලීසිය පවසයි.
+
+පොලීසිය සැක පළ කරන්නේ මත්ද්‍රව්‍ය ජාවාරමේදී ඇති වූ ගැටුමක් මුල්කර ගිනිමින් මෙම ඝාතනය සිදුකර ඇති බවයි.
+
+සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන දකුණු පළාත භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පති මහේෂ් සේනාරත්න මහතාගේ උපදෙස් මත සිදුකෙරෙයි.
+
+◼️
+
+[Data](articles/390c9d3b.json)
+
+---
 
 ### Central Bank has taken legal action against 20 prohibition projects
 
@@ -2241,87 +2303,5 @@ The private sector imported 40,500 metric tonnes of rice until Thursday (19). Th
 [Data](articles/d2c1cf3b.json)
 
 [Extended Data](ext_articles/d2c1cf3b.ext.json)
-
----
-
-### I will stand before the protection of that person if any official is wronged - the President
-
-*2024-12-20 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201758) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential address: Commitment to fairness, anti-corruption efforts, restructuring state institutions, promoting education, digital initiatives, and balancing political power with public service.
-
-🟩
-
-People have no confidence that people can get a fair service in a state agency. As a government, the entire structure has declined.. President Anurakumara Dissanayake said that action would be taken to take a decision regarding the political influence of the new committee to review existing state institutions.
-
-And when the task of raising our country to a new level, I will stand before any officer's uncomfortable, injustice or unhappiness for the safety of the person.. The President promised that if a person was delayed to disrupt the plan, it would be fair to take a fair action.
-
-President Anura Kumara Dissanayake said this while addressing the District Secretary's Government Agent Conference held at the Auditorium of the Ministry of Home Affairs at the 'Nila Medura' building in Narahenpita on Friday (20).
-
-...
-
-[Data](articles/851eba6d.json)
-
-[Extended Data](ext_articles/851eba6d.ext.json)
-
----
-
-### Presidential Secretariat establishment with 18 members for a clean Sri Lanka program
-
-*2024-12-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201756) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Establishment of 18-member Presidential Secretariat for "Clean Sri Lanka" program under Article 33 of the Constitution. Members include military commanders, officials, and experts. Aim: Improve social, cultural, and moral conditions through national-level projects.
-
-🟩
-
-On the advice of President Anura Kumara Dissanayake, the Presidential Secretariat has been established in accordance with Article 33 of the Constitution to plan and implement the Clean Sri Lanka.
-
-President's Secretary Dr. NS. Kumanayake, Army Commander, Navy Commander, Air Force Commander, Reply Inspector General, Urban Development Authority Chairman Kumudu Lal de Silva
-
-On the basis of a sector, IS Jayaratne, Kihan de Silva, Sandhya Salkadu, Dr. Gamini Pattidage, Dr. Anurutha Kamage, Dilrukku Vanasinghe, Deepal Suriyarachchi, Sisira Amarapandu, Krishantha Kure, Ayyadu Perera
-
-President of the President, Dr. S. Kumanayake as the President of the Presidential Secretariat, and the Senior Additional Secretary of the President. Abonsu has been appointed.
-
-The Secretary of the President, Dr. S.. Kumanayaka has published a special gazette notification by describing the appointment of a member of the Kumanayaka Secretariat, and the purpose of the Secretary.
-
-...
-
-[Data](articles/b327735a.json)
-
-[Extended Data](ext_articles/b327735a.ext.json)
-
----
-
-### Indian naval ships arriving in Colombo Port on Monday
-
-*2024-12-20 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201761) · `ta`
-
-Indian naval ships arrive Colombo Port Monday. Four Coast Guard vessels visit ports. Joint training exercises planned. Yoga events and environmental cleanups scheduled. Visit aims to enhance maritime security cooperation between India and Sri Lanka.
-
-🟩
-
-4 ships of the Indian Coast Guard will visit Colombo and Galle Ports. Indian Coast Guard ships Vaibhav and Abiraj will arrive in Colombo Port on Monday (23).
-
-The ships will be anchored from 23 - 27, and the other two ships will go to the Galle port from 29th to January 29th.
-
-The Commanding Officers of the Ship will meet with the Director General of the Sri Lanka Coast Guard and other senior officials.Also, joint training on various professional contacts, including firefighters, disasters and sea pollution, will be held during the visit.
-
-Apart from this, yoga events have also been organized.These ships will also be involved in social activities such as cleaning and walking of ships during a journey to raise awareness against plastic pollution.
-
-Sri Lanka Coast Guard staff will be allowed to view and improve awareness about the Indian Coast Guard and its capabilities.
-
-...
-
-[Data](articles/eb0edf27.json)
-
-[Extended Data](ext_articles/eb0edf27.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 23:00:51**
+As of **2024-12-21 23:27:01**
 
 ## Newspaper Stats
 
-*Scraped **61,351** Articles*
+*Scraped **61,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,842
-adaderanalk | 7,487
+adaderanalk | 7,488
 tamilmirrorlk | 8,771
-virakesarilk | 10,122
-adaderanasinhalalk | 10,603
+virakesarilk | 10,123
+adaderanasinhalalk | 10,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,137 (99.7%) of 61,351 articles have been extended.
+61,141 (99.7%) of 61,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### 67,000 metricton to Sri Lanka
+
+*2024-12-21 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204598) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+67,000 metric tons of rice imported to Sri Lanka. Government allows private and public sector importers until yesterday. Breakdown: 28,500 metric tons of rice, 38,500 metric tons of mresco rice. Separate incident: Robbery reported in Ampara's Paragahakele area.
+
+🟩
+
+Sri Lanka Customs today stated that 67,000 metricton has been imported to the country during the period of imports of rice.
+
+As a remedy in the market, the government has authorized the private sector and government importers to import rice only until yesterday.
+
+The Customs Media Spokesperson said that 67,000 metric tons of rice have been imported in this period and 28,500 metric tonnes are rice and 38,500 mresco rice will be rice.
+
+Meanwhile, several persons who robbed money from the Consumer Affairs Authorities have reported information from Paragahakele area in Ampara.
+
+◼️
+
+[Data](articles/07f334ff.json)
+
+[Extended Data](ext_articles/07f334ff.ext.json)
+
+---
+
+### Iceland gets new government under Social Democrat Frostadottir
+
+*2024-12-21 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104405/iceland-gets-new-government-under-social-democrat-frostadottir) · `en`
+
+Iceland’s president presented a new government on Saturday under Social Democratic Prime Minister Kristrun Frostadottir that aims to cut inflation and interest rates and hold a referendum on European Union membership by 2027, public broadcaster RUV said.
+
+Frostadottir’s centre-left Social Democratic Alliance became the biggest party in a snap election on Nov. 30, and has agreed to form a coalition government with the centrist People’s Party and the left-leaning, pro-European Reform Party, RUV said.
+
+Thorgerdur Katrin Gunnarsdottir, leader of the Reform Party, will be minister of foreign affairs, it added.
+
+It will be the first time in Iceland that the leaders of all the governing parties will be women, and the first time that the country will have a female prime minister and a female president - Halla Tomasdottir - simultaneously, the broadcaster said.
+
+A live stream from RUV showed the leaders of the three coalition parties hugging after they signed an agreement on forming a government.
+
+...
+
+[Data](articles/85530c99.json)
+
+[Extended Data](ext_articles/85530c99.ext.json)
+
+---
 
 ### President Dissanayake to visit China mid-January: Report
 
@@ -671,6 +721,24 @@ He was also able to make significant performance during the visit of the Sri Lan
 [Data](articles/ba3db70a.json)
 
 [Extended Data](ext_articles/ba3db70a.ext.json)
+
+---
+
+### நாளை மீண்டும் டில்லி செல்கிறார் - முன்னாள் ஜனாதிபதி ரணில்
+
+*2024-12-21 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201803) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஞாயிற்றுக்கிழமை (22)  மீண்டும் இந்தியா செல்லவுள்ளார். இவ்வாண்டில் ஒரு மாத கால இடைவெளிக்குள் இரண்டாவது தனிப்பட்ட விஜயமாக நாளை அவர் டில்லி செல்லவுள்ளார். இந்த விஜயத்தின் போது பல்வேறு முக்கிய சந்திப்புக்களில் ஈடுபடவுள்ளார்.
+
+குறிப்பாக இவ்விஜயத்தின் போது எதிர்வரும் 27ஆம் திகதி இந்தியாவின் மறைந்த முன்னாள் பிரதமர் அடல் பிஹாரி வாஜ்பாய் நினைவேந்தல் உரையை ஆற்றவுள்ளார். இந்நிகழ்வு டில்லியிலுள்ள இந்திய ஹாபிடேட் சென்டர் கேட்போர் கூடத்தில் நடைபெறவுள்ளது.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது ஒரு வார இந்திய விஜயத்தின் போது, அந்நாட்டு புராதன வரலாற்று முக்கியத்துவம் வாய்ந்த இடங்களைப் பார்வையிடவுள்ளார். அது மாத்திரமின்றி முக்கிய இரகசிய அரசியல் சந்திப்புக்களிலும் அவர் ஈடுபடவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+நாட்டில் பொதுத் தேர்தல் நிறைவடைந்து ஒரு வாரத்தில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்தியா சென்றிருந்தார். நவம்பர் 21 - 30 வரையான குறித்த விஜயத்தில் மத்திய பிரதேசத்திலுள்ள ஸ்ரீ சத்ய சாய் வித்யா விஹாரில் உரையாற்றியிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/db9acf8b.json)
 
 ---
 
@@ -2321,55 +2389,5 @@ The psychiatric ward is plagued by the worst living conditions in the facility
 [Data](articles/3d5d8c3c.json)
 
 [Extended Data](ext_articles/3d5d8c3c.ext.json)
-
----
-
-### Climate change adaptation, biodiversity conservation, and the means of implementation
-
-*2024-12-21 00:06:12* · [`dailyftlk`](https://www.ft.lk/columns/Climate-change-adaptation-biodiversity-conservation-and-the-means-of-implementation/4-770826) · `en`
-
-The twin crises of climate change and biodiversity loss are fundamentally interlinked, and addressing them independently is no longer feasible
-
-Climate change is affecting countries, communities, and natural ecosystems across the world in unprecedented ways. Sea level rise, temperature increase, shifting rainfall patterns, more frequent extreme weather events, and other climate-related impacts are putting immense pressure on both human societies and the natural environments upon which they rely. The twin crises of climate change and biodiversity loss are fundamentally linked, and addressing them independently of each other is no longer feasible.
-
-...
-
-[Data](articles/f9148a60.json)
-
-[Extended Data](ext_articles/f9148a60.ext.json)
-
----
-
-### Is Sri Lanka ready to face a possible dementia epidemic?
-
-*2024-12-21 00:03:42* · [`dailyftlk`](https://www.ft.lk/columns/Is-Sri-Lanka-ready-to-face-a-possible-dementia-epidemic/4-770825) · `en`
-
-Social aspects of dementia are becoming increasingly important as part of a wider shift in emphasis from cure to care
-
-Dementia indeed is a very sad disease where the personality, habits and the routine of a loved one could drastically change, and family members would find it extremely stressful to recognise and deal with this “new person” who has evolved from the one they once knew. Dementia persons are by and large helpless and need care for even the most mundane tasks. In increasingly changing extended family life situations where home care for dementia patients has, and is becoming a major challenge, anecdotal evidence relating to how even dementia afflicted parents have been driven away from their homes or kept locked in rooms, are abound
-
-...
-
-[Data](articles/888f0edc.json)
-
-[Extended Data](ext_articles/888f0edc.ext.json)
-
----
-
-### Untold lessons: Economic insights from history for Sri Lanka’s crisis
-
-*2024-12-21 00:00:17* · [`dailyftlk`](https://www.ft.lk/columns/Untold-lessons-Economic-insights-from-history-for-Sri-Lanka-s-crisis/4-770824) · `en`
-
-To achieve lasting growth and better manage its debt, the country must implement critical structural reforms
-
-With a new Government in power, Sri Lanka finds itself grappling with immense economic challenges. The burden of enormous debts continues to weigh heavily on a fragile economy, necessitating robust growth to overcome these hardships. However, achieving such growth is complicated by a governmental predisposition toward centralised economic control, rooted in socialist-communal ideologies.
-
-These challenges are not unique to Sri Lanka; they echo the historical pitfalls of centralised economic systems. This essay explores three illustrative examples from history: The failed socialism of the Plymouth Colony, the rapid recovery during the Forgotten Depression of 1920-1921, and the transformative innovation of the Gilded Age.
-
-...
-
-[Data](articles/dd7f2c5a.json)
-
-[Extended Data](ext_articles/dd7f2c5a.ext.json)
 
 ---

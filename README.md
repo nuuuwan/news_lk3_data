@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 17:44:05**
+As of **2024-12-21 18:03:39**
 
 ## Newspaper Stats
 
-*Scraped **61,335** Articles*
+*Scraped **61,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,841
-adaderanalk | 7,480
+adaderanalk | 7,484
 tamilmirrorlk | 8,770
 virakesarilk | 10,122
-adaderanasinhalalk | 10,596
+adaderanasinhalalk | 10,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,106 (99.6%) of 61,335 articles have been extended.
+61,106 (99.6%) of 61,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### කොළඹ - නුවර මාර්ගයේ තවත් අනතුරක්
+
+*2024-12-21 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204592) · `si`
+
+කොළඹ - නුවර මාර්ගයේ උතුවන්කන්ද ප්‍රදේශයේ නුවර දෙසට ධාවනය වෙමින් තිබු  ලොරි රථයක් රියදුරුට පාලනයෙන් ගිලිහි අනතුරක් සිදුව තිබේ.
+
+එහිදී අදාළ ලොරි රථය තවත් ලොරියක හා ගොඩනැගිලි දෙකකට හානි කරමින් අනතුරට පත්ව ඇතැයි කෑගල්ල පොලීසිය පවසයි.
+
+මහනුවර සිට කොළඹ බලා ධාවනය වු ලොරි රථයේ රියදුරා හා සහයකයා ආහාර ගැනීම සඳහා හෝටලයක් ආසන්නයේ සිය ලොරි රථය නවතා තිබේ.
+
+එහිදී කොළඹ සිට නුවර දෙසට ධාවනය වු ලොරි රථයේ රථයේ රියදුරාට නින්ද යාම හේතුවෙන් මාර්ගයේ දකුණු පසට ධාවනය වි නවතා තිබු ලොරියේ වැදි මෙම අනතුර සිදුව තිබේ.
+
+අනතුරින් කිසිවෙකුටත් හානි සිදුවී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් අදාළ ලොරි රථයේ රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සිද්ධිය සම්බන්දයෙන් කෑගල්ල පොලීසිය  විමර්ශණ ආරම්භ කර ඇති අතර සිදුව ඇති හානිය තක්සේරු කර නොමැති බවද පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/4d0b4a22.json)
+
+---
+
+### සහල් සොරකම් කළ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-12-21 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204591) · `si`
+
+සහල් කිලෝ 1000කට ආසන්න ප්‍රමාණයක් සොරකම් කළ පුද්ගලයන් දෙදෙනෙකු කළුතර දකුණ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සැකකරුවන් දෙදෙනා කළුතර සෙන්ට්‍රල් හන්දිය ප්‍රදේශයේ තොග වශයෙන් සහල් අලෙවි කරනු ලබන වෙළෙඳසැලක සහල් සොරකම් කර ඇත.
+
+රාත්‍රී කාලයේදී ත්‍රිරෝද රථ දෙකක් යොදාගෙන සොරකම සිදුකරන ආකාරය අසල තිබූ වෙළෙඳසැලක CCTV කැමරාවක සටහන්වී තිබේ.
+
+◼️
+
+[Data](articles/fdd74b15.json)
+
+---
+
+### Treasury Secretary hails Sri Lanka exiting default after ‘painful reforms’ and complex debt restructuring
+
+*2024-12-21 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104400/treasury-secretary-hails-sri-lanka-exiting-default-after-painful-reforms-and-complex-debt-restructuring) · `en`
+
+The Secretary to the Treasury Mainda Siriwardena says that 20 December 2024 marked a major milestone in Sri Lanka’s economic recovery process as the country officially exited sovereign default.
+
+Posting on ‘X’ (formerly Twitter) after Fitch Ratings upgraded Sri Lanka to ‘CCC+’, the Treasury Secretary noted that this has been a long and difficult journey, comprising painful reforms and a very complex debt restructuring.
+
+“Whilst this rating upgrade is a crucial milestone, I firmly believe this is just the start of Sri Lanka’s journey towards prosperity for all, where everyone should make their utmost contribution”, he added.
+
+Furthermore, Siriwardena stated that there is no room to repeat policy errors by relying on dogmatic beliefs, ideological leanings, and being led by false narratives which typically lead to unrealistic and unsustainable policies.
+
+...
+
+[Data](articles/e21ffe01.json)
+
+---
 
 ### Plan to extend the time of running the lotus tower
 
@@ -126,6 +182,22 @@ The Elections Commission also stated that steps will be taken to provide a list 
 
 ---
 
+### Gold prices surge in Sri Lanka
+
+*2024-12-21 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104399/gold-prices-surge-in-sri-lanka) · `en`
+
+Gold prices in Sri Lanka have seen a notable increase, according to the latest market data from the Colombo Gold Centre.
+
+As of this morning (21), the price of a pound of 22-carat gold has risen to Rs. 193,200, marking a jump from Rs. 190,500 recorded just two days ago (19).
+
+Similarly, the price of 24-carat gold has increased by Rs. 2,000, bringing it to Rs. 210,000 per pound today.
+
+◼️
+
+[Data](articles/ca111a4f.json)
+
+---
+
 ### சிறந்த நடிகருக்கான விருதை வென்ற 'மக்கள் செல்வன்' விஜய் சேதுபதி
 
 *2024-12-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201804) · `ta`
@@ -188,6 +260,24 @@ The bus belonging to the Teldeniya Depot, owned by the Sri Lanka Transport Board
 
 ---
 
+### 5 injured as bus topples off road in Kadugannawa
+
+*2024-12-21 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104398/5-injured-as-bus-topples-off-road-in-kadugannawa) · `en`
+
+A passenger bus belonging to the Sri Lanka Transport Board (SLTB) has toppled off the road near the Dawson’s Tower in Kadugannawa, injuring 5 passengers who were travelling in the bus, Ada Derana reporter said.
+
+The bus, attached to the Theldeniya SLTB Depot, was travelling from Colombo to Kandy when it veered off the road, hit a tree and toppled.
+
+Five individuals who sustained injuries during the incident have been admitted to hospital for treatment.
+
+Police suspect that the accident was caused by a brakes failure of the bus, according to the reporter.
+
+◼️
+
+[Data](articles/8b7eb5fe.json)
+
+---
+
 ### A horrific bus accident in Kaduganna
 
 *2024-12-21 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204584) · `si`
@@ -237,6 +327,22 @@ Meanwhile, the price of a 280,000 karattle poultry has risen to Rs. 2,000 today.
 [Data](articles/360c97b1.json)
 
 [Extended Data](ext_articles/360c97b1.ext.json)
+
+---
+
+### CID records statements from officials over false information on Parliament website
+
+*2024-12-21 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104397/cid-records-statements-from-officials-over-false-information-on-parliament-website-) · `en`
+
+A team from the Criminal Investigation Department (CID) has visited Parliament yesterday (20) and recorded statements from three officials, including the Assistant Secretary General of Parliament, regarding the incorrect use of the title “Dr.” before the name of Minister of Justice and National Integration Harshana Nanayakkara.
+
+The issue came to light after Minister Nanayakkara lodged a formal complaint with the CID, asserting that he had never held a doctorate and that someone may have deliberately entered false data to tarnish his reputation or erode public trust in his political career.
+
+In response, the CID launched a probe to identify the cause of the error and determine accountability. As part of the investigation, statements were recorded from parliamentary officials involved in the incident.
+
+...
+
+[Data](articles/e445c9e1.json)
 
 ---
 
@@ -2221,175 +2327,5 @@ President Anura Kumara Dissanayake, who then visited the Asgiriya Vihara, the Ma
 [Data](articles/cf8ee80b.json)
 
 [Extended Data](ext_articles/cf8ee80b.ext.json)
-
----
-
-### Decision taken about Myanmar nationals who arrived in Sri Lanka
-
-*2024-12-20 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204566) · `si`
-
-Myanmar refugees arrive in Sri Lanka, face legal scrutiny, medical aid, court appearance.
-
-🟩
-
-Meanmar refugees were taken to Trincomalee today (20), who was found in Mullaitivu, who was found in Mullivaikkal areas.
-
-The External Affairs Ministry said that this refugees will be in accordance with the law and international law in Sri Lanka.
-
-The refugees were exhausted from the conflict in Myanmar.
-
-However, the vessels have been landed on the vessels due to two vessels in the same way.
-
-Six persons, including four children, have died of illnesses.
-
-The fishermen were seen by the fishermen in the area yesterday (19).
-
-Accordingly, the Jethof jetty of 10 meanmar refugees was brought to the Ashroff jetty this morning by the Intervention of the Sri Lanka Navy.
-
-They were poorly in poor manner in the manner in which it was not properly eaten.
-
-Deputy Minister of Foreign Affairs and Foreign Affairs Arun Hemachandra was also present at the occasion.
-
-Later, the Sri Lankan authorities later established a mobile medical camp was established to inspect the health of myanmar refugees.
-
-...
-
-[Data](articles/ab580706.json)
-
-[Extended Data](ext_articles/ab580706.ext.json)
-
----
-
-### Motorcyclist killed in shooting at Dadalla
-
-*2024-12-20 19:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104384/motorcyclist-killed-in-shooting-at-dadalla) · `en`
-
-UPDATE (8.12 p.m.): The person injured in the shooting incident at Dadalla in Galle has succumbed to his injuries after being admitted to the Karapitiya Hospital, police confirmed.
-
-Earlier, it was reported that a person riding a motorcycle has been injured in a shooting incident at Dadalla, Galle.
-
-Police said that two gunmen who were on a motorcycle had opened fire at victim who was also riding a motorcycle, before fleeing the scene.
-
-The injured individual was rushed to the Karapitiya Hospital for treatment following the shooting.
-
-The shooting occurred on the Galle-Colombo main road near the Dadalla cemetery at around 6:50 p.m. today (20).
-
-The injured man was immediately rushed to the Karapitiya Hospital for treatment but later succumbed to his injuries.
-
-The deceased has been identified as 38-year-old Melegoda Wanchawala Patabendige Pathum, alias ‘Lokka’, police said.
-
-...
-
-[Data](articles/9f68d272.json)
-
-[Extended Data](ext_articles/9f68d272.ext.json)
-
----
-
-### Shooting in Galle Dadlla
-
-*2024-12-20 19:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204565) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Galle: Shooting in Dadalla injures one. Victim hospitalized at Karapitiya Hospital. Incident occurred while riding motorcycle. Police investigating.
-
-🟩
-
-One person was injured in a shooting in the Dadalla area in Galle.
-
-The police said that the injured person was admitted to the Karapitiya Hospital.
-
-When the man was traveling from a motorcycle, the shooting had been shot.
-
-◼️
-
-[Data](articles/c6b15635.json)
-
-[Extended Data](ext_articles/c6b15635.ext.json)
-
----
-
-### Here is the Paye Tax to pay by your pay
-
-*2024-12-20 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204564) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake addressed Parliament about IMF's Third Currency Program. He increased the minimum wage threshold from Rs. 100k to Rs. 150k. For salaries above Rs. 150k, 100% tax applies. Examples: Rs. 200k = Rs. 10,500 tax; Rs. 300k = Rs. 35,000 tax; Rs. 500k = Rs. 106,500 tax.
-
-🟩
-
-President Anura Kumara Dissanayake visited the Parliament on the 18th of this month on the consequences of the Third Currency Program of the International Monetary Fund.
-
-Parliament was also informed of taxes when the President earns.
-
-The President said that the minimum limit to the IMF was decided to increase the minimum limit of Rs. 100,000 to Rs. 150,000 per month.
-
-Accordingly, 100% of the tax will be released when one occupies a monthly salary of Rs 150,000.
-
-A person who is being paid a salary of Rs. 150,000 has been paid Rs.
-
-A person who owns a salary of Rs. 200,000 was Rs. 10,500 and Rs.
-
-A salary of Rs. 300,000 was paid as taxes at Rs. 35,000.
-
-A person who owns a salary of Rs 500,000 was Rs. 106,500 and Rs.
-
-◼️
-
-[Data](articles/c220e279.json)
-
-[Extended Data](ext_articles/c220e279.ext.json)
-
----
-
-### President - Mahanayaka Thera meets
-
-*2024-12-20 19:09:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மகாநாயக்க-தேரர்கள்-சந்திப்பு/175-349010) · `ta`
-
-Sri Lanka: President meets Buddhist leaders, discusses politics and future projects.
-
-🟩
-
-President Anura Kumara Dissanayake met today (20) and met the Asgiriya Mahanayaka Thera.
-
-President, Malwathu Mahanayaka Thera, who first went to the Malwathu Vihara. Tedaduwaway met Sri Sumangala Thera and inquired about him and discussed it.
-
-The current political situation and the recent visit to the President were discussed.
-
-Subsequently, the Maha Sangha led by Malwathu Mahanayaka Thera recited the Seth Prith and blessed the President.
-
-Following this, President Anuragumara Dissanayake, who visited the Asgiriya Vihara, said that the Mahanayaka Thera of the Asgiriya Faculty. Varakagoda met Sri Gnanarathana Thera and blessed.
-
-Thera of the Asgiriya Faculty. Dammadasi Thera, Deputy Registrar. Narambanaway Ananda Thera, Vikarapati of the Elderly Rajamaka Vihara, Murutheniye Dammarathana Thera, and others were recited and blessed with the president's future work.
-
-Deputy Minister of Transport and Multiple Dr. Prasanna Gunasena and Parliamentarian Dhanura Dissanayake were also present.
-
-◼️
-
-[Data](articles/121dfd4a.json)
-
-[Extended Data](ext_articles/121dfd4a.ext.json)
-
----
-
-### LG Election before Sinhala and Tamil New Year – President
-
-*2024-12-20 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104383/lg-election-before-sinhala-and-tamil-new-year-president) · `en`
-
-President Anura Kumara Dissanayake says that the Local Government Elections will be held next year before the Sinhala and Tamil New Year.
-
-The Provincial Council elections will also be held within next year, he said, during a visit to Kandy today (20).
-
-◼️
-
-[Data](articles/86357923.json)
-
-[Extended Data](ext_articles/86357923.ext.json)
 
 ---

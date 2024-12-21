@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 10:42:59**
+As of **2024-12-21 11:01:10**
 
 ## Newspaper Stats
 
-*Scraped **61,284** Articles*
+*Scraped **61,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,72 @@ economynextcom | 3,738
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
-adaderanalk | 7,469
+adaderanalk | 7,473
 tamilmirrorlk | 8,765
-virakesarilk | 10,110
-adaderanasinhalalk | 10,580
+virakesarilk | 10,114
+adaderanasinhalalk | 10,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,059 (99.6%) of 61,284 articles have been extended.
+61,061 (99.6%) of 61,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### சடுதியாக குறைந்தது முட்டை விலை
+### LGBTQ பிரிவினரை நமது சமூகம் புரிந்து கொண்டுள்ளதா?
+
+*2024-12-21 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201781) · `ta`
+
+‘ஆணுக்கு  இன்னுமொரு ஆண் மீதும் ஒரு  பெண்ணுக்கு இன்னுமொரு பெண் மீதும் ஈர்ப்பு ஏற்படுவது ஒரு நோயல்ல. அதே போன்று இருபாலீர்ப்பு குணமுள்ளவர்கள், திருநர்கள்  இவ்வாறானவர் எமது சமூகத்திலிருந்து ஒதுக்கப்பட வேண்டியவர்கள் அல்லர். இதுவும் இயற்கையின் படைப்புகளில் ஒன்று. ஹோர்மோன்களின் விளைவுகளால் ஏற்படும் மாற்றங்கள் இவை. அதற்கு இந்த பிரிவினரை அலட்சியப்படுத்துவதும், ஒதுக்கி வைப்பதும் அவர்களை குற்றவாளிகள் போன்று பார்ப்பதும் தீர்வாகாது.    இவ்வாறானவர்களின்   மனநிலையறிந்து அவர்களை முதலில் புரிந்து கொள்வதே  நாம் செய்ய வேண்டிய பிரதான காரியமாகும். ஏனென்றால் எமக்குத் தெரிந்தோ தெரியாமலோ  சமூகங்களின் மத்தியில் இந்த பிரிவின் இருப்பதைப் போன்றே எமது குடும்பத்திலும், உறவினர்களிலும் இவ்வாறானவர்கள் இருக்கலாம்’  என்கிறார் சுகாதார அமைச்சின் கொள்கை பகுப்பாய்வு மற்றும் அபிவிருத்திக்கான பணிப்பாளரும் சமூதாய மருத்துவருமான வைத்தியர் ஜானகி விதானபத்திரன.
+
+...
+
+[Data](articles/7ce7a20c.json)
+
+---
+
+### Mutantly at least egg prices
 
 *2024-12-21 10:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடுதியாக-குறைந்தது-முட்டை-விலை/175-349035) · `ta`
 
-நாட்டில் சில பகுதிகளில் முட்டை விலை சடுதியாக குறைந்து வருவதாக முட்டை வியாபாரிகள் தெரிவிக்கின்றனர்.
+Here's a summary of the text in approximately 200 characters:
 
-இதன்படி, முன்னர் 40 ரூபாய் தொடக்கம் 45 ரூபாய் வரையில் விற்பனை செய்யப்பட்ட முட்டை தற்போது 25 ரூபாய் தொடக்கம் 30 ரூபாய் வரையில் விற்பனை செய்யப்படுவதாக வியாபாரிகள் குறிப்பிடுகின்றனர்.
 
-ஜாஎல, கந்தானை, ராகம உள்ளிட்ட பிரதேசங்களில் முட்டையின் விலை குறைந்துள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+Egg prices drop nationwide: Previously Rs 40-45, now Rs 25-30. Reduction seen in Ja Ela, Kandana, Ragama. Merchants report decline in certain regions.
+
+🟩
+
+Egg merchants say egg prices are declining in some parts of the country.
+
+Accordingly, merchants say that the egg, which was previously sold at Rs 40 to Rs 45, is currently being sold at Rs 25 to Rs 30.
+
+Egg prices have been reduced in areas including Ja Ela, Kandana and Ragama. Remble
 
 ◼️
 
 [Data](articles/6fdf8759.json)
+
+[Extended Data](ext_articles/6fdf8759.ext.json)
+
+---
+
+### මියන්මාර සරණාගතයින් රැගෙන ආ යාත්‍රාවේ කාර්ය මණ්ඩලය ට දුන් නියෝගය
+
+*2024-12-21 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204575) · `si`
+
+මුලතිව් වෙල්ලමුල්ලිවයිකාල් වෙරළට ඔබ්බෙන් වූ මුහුදට පාවී ආ මියන්මාර් සරනාගතයින් සහිත යාත්‍රාවේ සිටි කාර්ය මණ්ඩලය ලබන 31 වනදා දක්වා රකිෂිත බන්ධනාගාර ගත කර තිබේ.
+
+අදාළ යාත්‍රාවේ සිටි කාර්ය මණ්ඩලයේ 12 දෙනෙකු මෙලෙස රක්ෂිත බන්ධනාගාර ගත කර ඇති බව වාර්තා වේ.
+
+පසුගිය බ්‍රහස්පතින්දා මෙම මියන්මාර් සරණාගතයින් සියයට අධික පිරිසක් සමග යාත්‍රාව නාවික හමුදාව විසින් සිය භාරයට ගත්තේය.
+
+◼️
+
+[Data](articles/41cab9b6.json)
 
 ---
 
@@ -71,6 +109,58 @@ In addition, four women, including three women, have been admitted to the Karapi
 [Data](articles/8c436adc.json)
 
 [Extended Data](ext_articles/8c436adc.ext.json)
+
+---
+
+### பல ஆண்டுகாலமாக அரசியலில் செல்வாக்கு செலுத்தும் அரசியல்வாதிகளுக்கு கோடிக்கணக்கில் எவ்வாறு நிதியளிக்க முடியும் - ஜாமுனி காமந்த துஷார
+
+*2024-12-21 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201751) · `ta`
+
+ஜனாதிபதி நிதியத்தில் இருந்து நன்கொடை அல்லது நிதியுதவி பெற வேண்டுமாயின் குடும்ப உறுப்பினர்களின் மாத வருமானம் 1 இலட்சத்துக்கும் குறைவானதாக காணப்பட வேண்டும் என்ற நிபந்தனை காணப்படுகின்ற  நிலையில் பல ஆண்டுகாலமாக அரசியலில் செல்வாக்கு செலுத்திய அரசியல்வாதிகளுக்கு எவ்வாறு கோடிக்கணக்கில்  நிதியளிக்க முடியும்.
+
+முறையற்ற இந்த செயற்பாடு குறித்து முறையான விசாரணைகளை மேற்கொண்டு வழங்கிய நிதியை மீளப்பெற வேண்டும் என இலஞ்ச, ஊழலுக்கு எதிரான மக்கள் அமைப்பின் தலைவர் ஜாமுனி காமந்த துஷார தெரிவித்தார்.
+
+2005 முதல் 2024 வரையான காலப்பகுதியில் ஜனாதிபதி நிதியத்தில் இருந்து 10 இலட்சம் முதல் கோடி கணக்கில் நிதி பெற்றுக்கொண்ட அரசியல்வாதிகளின் பெயர் பட்டியலை சுகாதாரத்துறை அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ அண்மையில் வெளியிட்டார். இவ்விடயம் குறித்து குற்றப்புலனாய்வு திணைக்களத்தில் வெள்ளிக்கிழமை (20) முறைப்பாடளித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+வறுமை நிலையில் உள்ள மக்களின் நலன்புரி தேவைகள் மற்றும் வாழ்வியல் மேம்பாட்டுக்காகவே ஜனாதிபதி நிதியம் 1978 ஆம் ஆண்டு ஸ்தாபிக்கப்பட்டது.
+
+...
+
+[Data](articles/91ce043b.json)
+
+---
+
+### Sri Lanka to build on, maintain relations with Saudi Arabia: envoy
+
+*2024-12-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104389/sri-lanka-to-build-on-maintain-relations-with-saudi-arabia-envoy) · `en`
+
+Sri Lankan Ambassador in Riyadh Omar Lebbe Ameer Ajwad expressed his desire to elevate bilateral relations to new heights as Saudi Arabia and Sri Lanka celebrate 50 years of diplomatic ties.
+
+In an exclusive interview with Arab News, Ajwad said: “Saudi Arabia and Sri Lanka are celebrating the 50th anniversary of the establishment of diplomatic relations.”
+
+He added: “Sri Lanka and Saudi Arabia have a very long background of ties. According to the history books, it started in the seventh century … when Sri Lankan King Aggrabodhi III dispatched a delegation on a fact-finding mission to Saudi Arabia, on the request of the Arab people who were living in Sri Lanka at that time. The king sent an envoy to Madinah to learn about Islam from Prophet Muhammad.”
+
+...
+
+[Data](articles/4cc622dd.json)
+
+---
+
+### දක්ෂිණ අධිවේගයේ අනතුරක්
+
+*2024-12-21 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204574) · `si`
+
+අක්ෂිණ අධිවේගී මාර්ගයේ පින්නදූව අන්තර් හුවමාරුව ආසන්නයේ අද (21) අළුයම සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තවත් පස් දෙනෙකු තුවාල ලබා තිබේ.
+
+පොලීසිය සඳහන් කළේ කොට්ටාව සිට ගාල්ල බලා ධාවන වූ වෑන් රථයක්, ඉදිරියෙන් ගමන් කළ ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බවයි.
+
+අනතුරින් තුවාල ලැබූ වෑන් රථයේ ගමන් කළ 62 හැවිරිදි පුද්ගයෙකු මියගොස් ඇති අතර, තවත් කාන්තාවන් සිව්දෙනෙකු ඇතුළු පුද්ගලයින් පස් දෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා කරාපිටිය රෝහලට ඇතුළත් කර තිබ‍ෙ
+
+වෑන් රථයේ රියදුරුට නින්ද යාමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/1b2943bf.json)
 
 ---
 
@@ -142,6 +232,40 @@ This shows the risk of restructuring success, positive macroeconomic indexes and
 
 ---
 
+### அவுஸ்திரேலிய நீதிமன்றத்தினால் குற்றஞ்சாட்டப்பட்ட  இராஜதந்திரி ஹிமாலி அருணதிலக தவறிழைக்கவில்லை - வெளிவிவகார அமைச்சர் விளக்கம்
+
+*2024-12-21 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201752) · `ta`
+
+வெளிநாடுகளில் பணியாற்றும் இராஜதந்திரிகளால் இலங்கையிலிருந்து அழைத்துச்செல்லப்படும் பணியாட்களுக்கான சம்பளத்தை அரசாங்கமே வழங்கும் என்றும், அச்சம்பளம் இலங்கையில் நடைமுறையிலிருக்கும் சம்பள நிர்ணய விதிகளுக்கு அமைவாகவே தீர்மானிக்கப்படும் என்றும் சுட்டிக்காட்டிய வெளிவிவகார அமைச்சர் விஜித்த ஹேரத், அதனடிப்படையில் நோக்குகையில் அண்மையில் சர்ச்சைக்குள்ளான ஹிமாலி அருணதிலகவினால் எவ்வித தவறும் இழைக்கப்படவில்லை என விளக்கமளித்தார்.
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் அண்மைய இந்திய விஜயத்தின்போது ஆராயப்பட்ட விடயங்கள் மற்றும் கைச்சாத்திடப்பட்ட ஒப்பந்தங்கள் குறித்துத் தெளிவுபடுத்தும் நோக்கிலான ஊடகவியலாளர் சந்திப்பொன்று வெள்ளிக்கிழமை (20) கொழும்பிலுள்ள அரசாங்கத் தகவல் திணைக்களத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+...
+
+[Data](articles/f5d23819.json)
+
+---
+
+### දුනිත් ඉවත්කළ හේතුව චරිත් කියයි
+
+*2024-12-21 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204573) · `si`
+
+නවසීලන්ත තණතීරුවල ක්‍රීඩාකිරීමේදී අතිරේක වේගපන්දු යවන්නෙකුට අවස්ථාව ලබාදිය යුතු බැවින් දුනිත් වෙල්ලලාගේ සංචිතයෙන් ඉවත් කිරීමට සිදු වූ බව ශ්‍රී ලංකා නායක චරිත් අසලංක පැවසීය.
+
+තරග තුන බැගින් වූ එක්දින හා විස්සයි20 තරගාවලියකට ක්‍රීඩාකිරීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ඊයේ (20) රාත්‍රියේ නවසීලන්තය බලා පිටත්ව ගිය අතර, දිවයිනෙන් පිටවත් යාමට පෙර මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පවසා සිටියේය.
+
+"ක්‍රීඩකයන් හොඳ මානසිකත්වයෙන් ඉන්නවා. T-10 තරගාවලිය ක්‍රීඩා කරලා හොඳින් ලකුණු අතරත්, කඩුලු අතරත් හිටියා. ඒක හොඳ සූදානමක් කණ්ඩායමට.
+
+අභියෝගාත්මක තරගාවලියක්. නවසීලන්තය ඔවුන්ගේ රටේදී ගොඩක් ශක්තිමත්. කණ්ඩායමේ ගොඩක් ලොකු වෙනස්කම්  කරන්නේ නෑ. නමුත් අත්දැකීම් බහුල ක්‍රීඩකයන්ගේ අත්දැකීම්, නවකයන්ට ලබාදීමේ බලාපොරොත්තුවක් තියෙනවා.
+
+නවසීලන්තයේ ක්‍රීඩාකරද්දී අතිරේක වේගපන්දු යවන්නෙකුට අවස්ථාව ලබාදෙන්න ඕන නිසයි දුනිත් කණ්ඩායමෙන් ඉවත්කළේ. ඒක හරි අමාරු තීරණයක්. මටත් තේරීම් කමිටුවටත්, පුහුණුකරුටත් අමාරු තීරණයක් වුණා. නවසීලන්තයේ වගේ තණතීරුවල ක්‍රීඩා කරද්දී සමහර වෙලාවට මේ තීරණ ගන්න වෙනවා".
+
+...
+
+[Data](articles/4a6e9b8c.json)
+
+---
+
 ### The possibility of rain in the evening or at night
 
 *2024-12-21 09:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலையில்-அல்லது-இரவில்-மழைக்கான-சாத்தியம்/175-349031) · `ta`
@@ -207,6 +331,126 @@ Here's a summary in 200 characters:
 [Data](articles/e0391002.json)
 
 [Extended Data](ext_articles/e0391002.ext.json)
+
+---
+
+### Two dead, dozens injured in car attack on German Christmas market
+
+*2024-12-21 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104388/two-dead-dozens-injured-in-car-attack-on-german-christmas-market) · `en`
+
+Two people have been killed, including a child, and dozens injured after a car drove into a crowd at a Christmas market in the eastern German city of Magdeburg, officials say.
+
+In a statement, authorities said 68 people had been injured, 15 of whom seriously.
+
+Reiner Haseloff, the premier of the state of Saxony-Anhalt, told reporters at the scene that the suspect - who has been arrested - was a 50-year-old Saudi citizen who arrived in Germany in 2006 and had worked as a doctor.
+
+He said a preliminary investigation suggested the alleged attack was acting as a lone wolf and that he could not rule out further deaths due to the number of injured.
+
+The suspected attacker’s motive is unclear, and he has no known links to Islamist extremism.
+
+Footage from the scene shows numerous emergency services vehicles attending while people lay on the ground.
+
+Unverified video on social media purports to show a car ploughing into the crowd at the market.
+
+...
+
+[Data](articles/d468e695.json)
+
+---
+
+### Fitch upgrades Sri Lanka to ‘CCC+’
+
+*2024-12-21 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104387/fitch-upgrades-sri-lanka-to-ccc) · `en`
+
+Fitch Ratings has upgraded Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) to ‘CCC+’ from ‘RD’ (Restricted Default), citing the completion of the international sovereign bond restructuring and an improved outlook for macroeconomic indicators.
+
+Fitch typically does not assign an Outlook to sovereigns with a rating of ‘CCC+’ or below.
+
+Fitch has also upgraded the Local-Currency IDR to ‘CCC+’, from ‘CCC-’, to align with the Long-Term Foreign-Currency IDR, as the risk of another default on local-currency debt has been reduced by the completion of the international sovereign bond restructuring and an improved outlook for macroeconomic indicators.
+
+Sri Lanka completed the local-currency portion of its domestic debt optimisation in September 2023, following the exchange of treasury bills and provisional advances held by Central Bank of Sri Lanka’s into new treasury bonds and bills.
+
+...
+
+[Data](articles/182eb26f.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-12-21 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104386/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers will occur at several places in Eastern, Central and Uva provinces and in Hambantota and Polonnaruwa districts during the evening or night.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa, Uva and Eastern provinces during the morning, the Met. Department added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e71e5c4d.json)
+
+---
+
+### ණය ශ්‍රේණිගත කිරීම්වලින් ශ්‍රී ලංකාවට උසස්වීමක්
+
+*2024-12-21 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204572) · `si`
+
+ශ්‍රී ලංකාවේ ණය ශ්‍රේණිගත කිරීම්වල ධනාත්මක ප්‍රවණතාවක් පෙන්නුම් කරන බව ෆිච් රේටින් සමාගම පවසයි.
+
+මේ හේතුවෙන් අදාළ සමාගම විසින් මෙරට ණය ශ්‍රේණිගත කිරීම් සඳහා උසස්වීමක් ප්‍රකාශයට පත්කර ඇති බව වාර්තා වේ.
+
+ඒ අනුව දිගුකාලීන විදේශ මුදල් නිකුත් කරන්නන්ගේ ශ්‍රේණිගත කිරීම CCC සෘණ මට්ටමේ සිට CCC ධන මට්ටම දක්වා අදාළ උසස් වීම ලබා දී ඇති බව සඳහන්ය.
+
+ජාත්‍යන්තර ණය ප්‍රතිව්‍යූහගත කිරීමේ සාර්ථකත්වය වැඩි දියුණුකළ සාර්ව ආරිථික දර්ශක සහ දේශීය මුදල් පැහැරහැරීමේ අවධානම අඩුකිරීම මෙමගින් පිළිඹිබු කරන බව ෆිච් රේටින් සමාගම පවසයි.
+
+මේ අතර විදේශ ණය ප්‍රතිව්‍යුහගතකරණයට අනුව භාණ්ඩාගාර බැඳුම්කර අටක් මගින් ජාත්‍යන්තර ස්වෛරී බැඳුම්කර හුවමාරු කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+මහ බැංකුව පෙන්වා දෙන්නේ මෙම සියලු බැඳුම්කර රුපියල් මිලියන දහනවදහස් හාරසිය හැටහයයි දශම එකක වෙන්කළ මුදලකින් සමන්විත බවය.
+
+◼️
+
+[Data](articles/846d44e1.json)
+
+---
+
+### ජර්මනියේ නත්තල් වෙළෙඳපොළක අනතුරක්
+
+*2024-12-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204571) · `si`
+
+නැගෙනහිර ජර්මනියේ මැග්ඩෙබර්ග් නගරයේ නත්තල් වෙළෙඳපොළකට මෝටර් රථයක් ධාවන කිරීමෙන් සිදුවූ අනතුරකින් කුඩා ළමයෙකු ඇතුළු පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ අනතුරින් තවත් 60කට අධික පිරිසක් තුවාල ලබා ඇති බවයි.
+
+ඊයේ (21) පස්වරුවේ පුද්ගලයෙකු මෝටර් රථයක් වෙළෙඳපොළ තුළට ධාවන කර මෙම අනතුර සිදුකර ඇති බව සඳහන්ය.
+
+අනතුර සිදුකළ රියඳුරු පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර, ඔහු 50 හැවිරිදි සෞදි අරාබියානු ජාතිකයෙකු බවට අනාවරණය කරගෙන ඇත.
+
+සැකකරු අදාළ මෝටර් රථය කුලියට ගෙන හිතාමතා මෙම අනතුර සිදුකර ඇති අතර, එය ත්‍රස්තවාදී ක්‍රියාවක් බව එරට පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/f8d26082.json)
+
+---
+
+### ඇතැම් ස්ථානවල මීදුම් සහිත තත්ත්වයක්
+
+*2024-12-21 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204570) · `si`
+
+අද (21) බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+එමෙන්ම නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වලත් හම්බන්තොට සහ පොළොන්නරුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මීට අමතරව මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/ff460fa6.json)
 
 ---
 
@@ -1688,6 +1932,24 @@ Later, the suspect pawned the jewelery and received a mobile phone of the school
 
 ---
 
+### அரச சேவையை முறையான அரச பொறிமுறையாக மாற்றும் சவால் எம்முன் உள்ளது - ஜனாதிபதி
+
+*2024-12-20 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201743) · `ta`
+
+எமது நாட்டின் அரச சேவையை முறையான அரச பொறிமுறையாக மாற்றும் சவால் எம்முன் உள்ளதாக ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+எமது நாட்டில் தற்போதுள்ள அரச நிறுவனங்களை மீளாய்வு செய்ய நியமிக்கப்பட்டிருக்கும், புதிய குழுவின் ஊடாக அரசியல் செல்வாக்கை பொருட்படுத்தாமல், அவை தொடர்பில் தீர்மானம் மேற்கொள்ள நடவடிக்கை எடுக்கப்படும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+நாரஹேன்பிட்டியில் உள்ள 'நில மெதுர' கட்டிடத்தில்  அமைந்துள்ள உள்நாட்டலுவல்கள் அமைச்சின் கேட்போர் கூடத்தில் இன்று வெள்ளிக்கிழமை (20) நடைபெற்ற மாவட்ட செயலாளர்  மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+அரசாங்க அதிபரிலிருந்து மாவட்டச் செயலாளர் என பதவிப் பெயர் மாற்றம் பெற்ற இந்த சேவையானது  200 வருடங்கள் பழமையானது எனவும், எமது நாட்டை புதிய திசையில் வழிநடத்துவதில் பெரும் பங்காற்றியுள்ளதாகவும் ஜனாதிபதி அநுரகுமார திசாநாயக்க குறிப்பிட்டார்.
+
+...
+
+[Data](articles/4f7586b4.json)
+
+---
+
 ### ‘Kudu Salindu’ granted bail
 
 *2024-12-20 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104380/kudu-salindu-granted-bail) · `en`
@@ -2091,385 +2353,5 @@ Accordingly, Judge Aditya Patapandike told the defendants that the High Court ha
 [Data](articles/71b34038.json)
 
 [Extended Data](ext_articles/71b34038.ext.json)
-
----
-
-### Seeks compensation for the clove
-
-*2024-12-20 14:26:50* · [`adalk`](https://www.ada.lk/breaking_news/කරාඹු-වැටුනාට-වන්දි-ඉල්ලයි/11-413755) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Matale District farmers seek compensation due to reduced rainfall. Crop costs increased, affecting Ukuwela, Wehiragala, and Ovilipa areas. Department of Export Agriculture investigates fungal disease. Agricultural Insurance Board representatives discuss potential payouts.
-
-🟩
-
-Due to the last days, the plant demands the government to give a suitable increase in the fall of a number of rains in the Matale District due to the last days.. .
-
-The costume of the cost of harvesting in February was revealed in several days along with the year, and the Matale District Agriculture Committee revealed that the growers were facing many problems.
-
-The cost has taken place in the Ukuwela, Wehiragala and Ovilipa Kanda, Matale.
-
-Commenting on the situation, the officers of the Department of Export Agriculture said that a castle was not allowed to do a treatment due to the carpet, escape the rope of the rope of four days.
-
-However, the official added that the leaves are currently being researched and the leaves are still being researched as a fungal disease of the crops.. The farmer pointed out that the cost of the harvest is not a risk of the yarn.
-
-...
-
-[Data](articles/75a18e89.json)
-
-[Extended Data](ext_articles/75a18e89.ext.json)
-
----
-
-### Former CCD Director further remanded
-
-*2024-12-20 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104376/former-ccd-director-further-remanded) · `en`
-
-Former Director of the Colombo Crimes Division (CCD), Assistant Superintendent of Police (ASP) Neville Silva, who was remanded in custody following his arrest, has been further remanded until December 30.
-
-ASP Silva was arrested by the Criminal Investigation Department (CID) at the Police Field Force Headquarters on December 9 and produced before court on December 10.
-
-The CID had launched an investigation based on a complaint that ASP Silva had allegedly acted in a biased manner toward a complainant when investigating a case filed with the CCD in August 2023.
-
-It has been confirmed that during the investigation, ASP Silva had aided and abetted in an incident of abduction and wrongful confinement.
-
-On December 13, he was remanded until today (20) after being produced before the court.
-
-◼️
-
-[Data](articles/74701e55.json)
-
-[Extended Data](ext_articles/74701e55.ext.json)
-
----
-
-### Sri Lanka Cricket Elections Members Down by 87
-
-*2024-12-20 14:20:19* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකා-ක්‍රිකට්-ඡන්ද-හිමි-සාමාජිකයන්ගේ-සංඛ්‍යාව-87කින්-පහළට/11-413754) · `si`
-
-Sri Lanka Cricket reduces election members from 147 to 60. Decision made after strong debate on vote count reduction.
-
-🟩
-
-Sri Lanka Cricket (SLC) has approved the special meeting of the SLC to reduce the number of SLC election members to 147 to 60.
-
-A strong speech was created in the number of votes cricket, and many of them had suggested that the number of electoral members should be reduced.
-
-◼️
-
-[Data](articles/c969eabc.json)
-
-[Extended Data](ext_articles/c969eabc.ext.json)
-
----
-
-### Government stand on Etka Agreement
-
-*2024-12-20 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204551) · `si`
-
-Sri Lanka's External Affairs Minister Vijitha Herath clarifies:
-
-
-
-1. Current govt hasn't implemented Etka Agreement with India
-
-2. Aims to update old Indo-Sri Lanka Free Trade Agreement
-
-3. Will focus on economic growth without harming national interests
-
-
-
-Herath emphasizes cooperation for mutual benefit.
-
-🟩
-
-External Affairs Minister Vijitha Herath says that the current government has not been signed or implemented the Etka 'Etka' Agreement between Sri Lanka and India.
-
-However, there is hope to update the Indo-Sri Lanka Free Trade Agreement signed several decades ago, he said.
-
-He was responding to reports that President Anura Kumara Dissanayake recently signed the implementation of various agreements.
-
-Speaking at a special press conference held at the Government Information Department (20th) this morning, the Minister further stated,
-
-...
-
-[Data](articles/49593aee.json)
-
-[Extended Data](ext_articles/49593aee.ext.json)
-
----
-
-### Neville Silva remanded again
-
-*2024-12-20 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204550) · `si`
-
-Neville Silva remanded until Dec 30 on Colombo Crimes Division complaint. Arrested without proper investigation, claims lawyer. CID officers state suspect acted as corporation.
-
-🟩
-
-Support Superintendent of Police Neville de Silva was remanded until December 30, Ratnapura, Ratnapura.
-
-According to a complaint lodged with the Colombo Crimes Division, the allegation of the suspects Neville de Silva arrested on a complaint to the Colombo Crimes Division according to a complaint to the Colombo Crimes Division.
-
-According to the complaint, a complaint was lodged a complaint to the Colombo Criminal inquiry into the Colombo Crimes Division on August 2, 2023.The Superintendent of Police was arrested on December 9 and later produced before the Ratnapura Magistrate's Court.
-
-President's Counsel Nalinda Indratissa stated that the suspect had been arrested without proper investigation.
-
-The President's Counsel presented the court that a person had complained about Rs..
-
-The Nugegoda person had informed the Colombo Crimes Division that the Gem Ruki businessman had been hiding during the Colombo Crimes Division for a long time.
-
-...
-
-[Data](articles/70103569.json)
-
-[Extended Data](ext_articles/70103569.ext.json)
-
----
-
-### Drinks with ingredients unsuitable for consumption so much
-
-*2024-12-20 13:59:31* · [`adalk`](https://www.ada.lk/breaking_news/පරිභෝජනයට-නුසුදුසු-අමුද්‍රව්‍ය-ඇති-බීම-මෙතරම්-තොගයක්/11-413753) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Soft drinks with harmful ingredients seized in Batticaloa. Health authorities sue manufacturers and dealers. Court orders destruction of contaminated beverages.
-
-🟩
-
-A large number of soft drinks containing software inappropriate inappropriate inappropriate ingredients have been taken into custody in Batticaloa.
-
-Divisional Health Services Director Regional Health Services Dr. SM Medical Officer of the People's Health Officers, Hon.
-
-The health authorities have sued the cool drinker, dealer, dealer, and the dealer that the inappropriate acid is inserted into bottles inappropriate.
-
-15,000 each and Rs 30,000 a total of Rs. 30,000.
-
-The Batticaloa Magistrate's Court Ms. Fourtsek Drinks ordered to destroy these soft drinks and exclude the drinks during other outlets.
-
-These dawns have been destroyed this morning to the human consumption of human consumption. (I J)
-
-◼️
-
-[Data](articles/df61883c.json)
-
-[Extended Data](ext_articles/df61883c.ext.json)
-
----
-
-### Police to launch special security program for festive season
-
-*2024-12-20 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104375/police-to-launch-special-security-program-for-festive-season) · `en`
-
-Sri Lanka Police says a comprehensive security programme has been planned to ensure public safety during the upcoming Christmas and New Year festive season.
-
-Speaking to the media, Police Spokesman SSP Buddhika Manathunga stated that over 6,500 officers have been deployed in the Western Province alone to maintain security and order.
-
-Additionally, more than 500 police officers dressed in civilian attire will be stationed near religious sites and crowded shopping areas to monitor and identify potential criminal activities.
-
-A special security programme will also be implemented island wide to safeguard religious places of worship, including Catholic churches.
-
-“We need your cooperation to ensure safety. Report any suspicious individuals to the nearest police station and remain vigilant about your belongings and money,” SSP Manathunga urged the public.
-
-◼️
-
-[Data](articles/ea874d47.json)
-
-[Extended Data](ext_articles/ea874d47.ext.json)
-
----
-
-### WHT 100-pct increase strain on Sri Lankans reliant on interest income: Former minister
-
-*2024-12-20 13:48:00* · [`economynextcom`](https://economynext.com/wht-100-pct-increase-strain-on-sri-lankans-reliant-on-interest-income-former-minister-195507/) · `en`
-
-ECONOMYNEXT – The doubling of the withholding tax from 5 percent to 10 percent adds strain on low and middle-income earners reliant on interest income, Sri Lanka’s former minister of state for finance, Shehan Semasinghe has said.
-
-On Wednesday, President Anura Dissanayake announced that the withholding tax will be increased.
-
-“While the tax revision is a positive step, the 100% increase in withholding tax from 5% to 10% reduces disposable income and adds strain on low and middle-income earners reliant on interest income,” Semasinghe said on social media platform X.
-
-Although aimed at offsetting the country’s revenue losses from higher tax-free thresholds, it is unclear if adjusted marginal tax rates are proposed, he said.
-
-...
-
-[Data](articles/7eeaf544.json)
-
-[Extended Data](ext_articles/7eeaf544.ext.json)
-
----
-
-### Permit Permission to import rice
-
-*2024-12-20 13:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-இறக்குமதி-செய்வதற்கான-அனுமதி-காலம்-நீடிப்பு/175-349007) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Rice import permit extended to Jan 10th. Decision made at Ministry of Commerce. 35,600 metric tonnes imported so far.
-
-🟩
-
-Permission to import rice has been decided to extend until January 10th.
-
-The resolution was reached during a discussion held at the Ministry of Commerce and Consumer Protection.
-
-The period is scheduled to be extended till the 10th of January as the permit to import rice is due to end today.
-
-Meanwhile, 35,600 metric tonnes of rice has been imported by private importers across the country, the Customs Department said.An
-
-◼️
-
-[Data](articles/21c35f67.json)
-
-[Extended Data](ext_articles/21c35f67.ext.json)
-
----
-
-### Explanation of the President's Indian visit
-
-*2024-12-20 13:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-இந்திய-விஜயம்-குறித்து-விளக்கம்/175-349006) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Presidential visit to India: External Affairs Minister Vijitha Herath discusses regional security, Indian-Sri Lankan fishermen issues, and India's loan for railway modernization.
-
-🟩
-
-External Affairs Minister Vijitha Herath said that no one has been discussed in this country to threaten the security of the region.
-
-He was speaking at a special media briefing to explain the official visit to India's official visit to President Anura Kumara Dissanayake.
-
-Minister Vijitha Herath said that during a discussion between the Prime Minister of India and the President, the Indian -Sri Lankan fishermen had urged the immediate intervention to provide a permanent solution to the issue.
-
-Meanwhile, India has decided to consider the loan assistance provided by India to modernize the Mahawa-Omanthai railway line, the minister said.
-
-◼️
-
-[Data](articles/0331ecac.json)
-
-[Extended Data](ext_articles/0331ecac.ext.json)
-
----
-
-### Colombo Night Life: 'Is ful servicIs the nomel? '
-
-*2024-12-20 13:30:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9wlk42jgv4o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo nightlife features massage centers offering various services, including "full service." Many centers provide sexual labor alongside massages. The industry is controversial, with concerns about STDs and exploitation.
-
-🟩
-
-Various massage centers are maintained in Colombo and suburbs with different names of Spain, Futs, Ayurvedic massage.
-
-These centers are often expanding to areas from Colombo.
-
-We also visited the night in Colombo and surrounding areas where the services provided by these places.
-
-In the visit of 'Full Service' or 'Nomel Service', have been named the methods of the head massage, shoulder massage, foot massage or complete body massage methods.
-
-Talawatugoda is a familiar city for anyone traveling along the Borella Kottawa.
-
-Although not as far as Petivat in Thailae, the Bangkok to Pannugoda, Thalawathugoda, has been attributed to the area.
-
-Borella - Kottawa Road No. 174 bus route 174 bus route. But now that road is the most popular because of the massage centers on either side of the road.
-
-We went to several massage centers in Thalawathugoda to look into the services provided by this gase.
-
-...
-
-[Data](articles/2cd850bd.json)
-
-[Extended Data](ext_articles/2cd850bd.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-12-20 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201728) · `ta`
-
-US dollar exchange rate: Buy 288.5761 rupees, Sell 297.339 rupees. Central Bank rate issued Friday (20).
-
-🟩
-
-The US dollar purchasing price was 288.5761 rupees and the sales price were 297.339 rupees based on the currency exchange rate issued by the Central Bank on Friday (20).
-
-◼️
-
-[Data](articles/7737528e.json)
-
-[Extended Data](ext_articles/7737528e.ext.json)
-
----
-
-### Police protection is courageous during festive season
-
-*2024-12-20 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204549) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Police deploy 40,000 officers across Western Province for festive season security. 500 officers assigned to religious sites. Special program implemented island-wide to safeguard Catholic Church. Public urged to report suspicious activities and remain vigilant about personal belongings.
-
-🟩
-
-The police have prepared a special security program for the protection of the public with the dawn of the coming year.
-
-Speaking to the media, law spokesman, law spokesman Buddhika Manatunga stated that more than 6,500 police officers have been deployed in the Western Province alone.
-
-Meanwhile, more than 40,000 police officers will be utilized covering churches, shops and markets.
-
-Meanwhile, the police spokesman said that more than 500 police officers planned to serve the most religious places and criminals in the most religious places and shops.
-
-The Police Media Spokesperson also stated that a special program is being implemented island wide to safeguard the Catholic Church.
-
-"All of this requires your support for you. Inform the nearest police to the nearest people near you. Be constantly careful about your property, money. "
-
-◼️
-
-[Data](articles/d820c6dd.json)
-
-[Extended Data](ext_articles/d820c6dd.ext.json)
-
----
-
-### Three arrested with heroin in Kalkisa
-
-*2024-12-20 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201727) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"3 arrested with heroin in Kalkisa: 2 men aged 26 & 29 from Mt. Lavinia & Boraleskamuwa. Police seized 22g of heroin in 3 raids."
-
-🟩
-
-Three suspects have been arrested yesterday (19) with heroin drugs in the areas of Badovitta and Katukurunduwatte, which belongs to the Mount Lavinia Police Division.
-
-The suspects have been arrested during the three rounds of raids carried out on the basis of information received by the Criminal Investigation Division of the Mount Lavinia Police.
-
-The arrested suspects are 26 and 29 years old from Mount Mount Lavinia and Boraleskamuwa.
-
-10 g 660 ml of heroin, 05 g 300 ml of heroin and 06 g 350 g 350 ml of heroin have been seized by the police.
-
-◼️
-
-[Data](articles/8877026c.json)
-
-[Extended Data](ext_articles/8877026c.ext.json)
 
 ---

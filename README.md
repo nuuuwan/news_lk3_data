@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 02:01:38**
+As of **2024-12-22 02:12:25**
 
 ## Newspaper Stats
 
-*Scraped **61,356** Articles*
+*Scraped **61,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,842
 adaderanalk | 7,488
-tamilmirrorlk | 8,772
+tamilmirrorlk | 8,773
 virakesarilk | 10,123
 adaderanasinhalalk | 10,604
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 10,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,153 (99.7%) of 61,356 articles have been extended.
+61,154 (99.7%) of 61,357 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-22 (Sunday)
+
+### கொரிய தூதுவருடன் சஜித் சந்திப்பு
+
+*2024-12-22 02:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரிய-தூதுவருடன்-சஜித்-சந்திப்பு/175-349056) · `ta`
+
+இலங்கைக்கான தென் கொரிய தூதுவர் மியோன் லீ, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இதன்போது, இலங்கைக்கும் தென் கொரியாவுக்கும் இடையில் நல்லுறவைப் பேணிவருகின்றமைக்கு அந்த நாட்டின் தூதுவருக்கு எதிர்க்கட்சித் தலைவர் சஜித்   நன்றி தெரிவித்தார் என அவரது ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+அத்துடன், தென் கொரிய அரசாங்கம் இலங்கையர்களுக்கு வழங்கியுள்ள வேலைவாய்ப்புக்கான ஒதுக்கீட்டை, மேலும் அதிகரிக்குமாறு அந்த நாட்டின் தூதுவரிடம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கோரிக்கை விடுத்துள்ளார். (a)
+
+◼️
+
+[Data](articles/fde872eb.json)
+
+---
 
 ### 2024-12-21 (Saturday)
 
@@ -2401,21 +2419,5 @@ The discussion was moderated by University of Jaffna Senior Lecturer Dr. Mahendr
 [Data](articles/5e8aa961.json)
 
 [Extended Data](ext_articles/5e8aa961.ext.json)
-
----
-
-### High Commission of India supports underprivileged students in Mullaitivu ahead of Christmas
-
-*2024-12-21 00:34:56* · [`dailyftlk`](https://www.ft.lk/news/High-Commission-of-India-supports-underprivileged-students-in-Mullaitivu-ahead-of-Christmas/56-770837) · `en`
-
-With Christmas 2024 around the corner, Consul General of India in Jaffna, Sai Murali, on behalf of the High Commission of India in Colombo and on behalf of the people of India, donated school bags, notebooks and study kits to 400 underprivileged students in Mulliyawalai, Mullaitivu District.
-
-Consul General participated in the event as the Chief Guest, alongside other dignitaries including Mizpah Prayer Missionary Church Founder and President Rev. J. J. Sarangapani, Brigadier Jayavinth of the 59 Division, Mullaitivu, as well as principals, teachers, youth, students and parents from the local community.
-
-...
-
-[Data](articles/647e4e87.json)
-
-[Extended Data](ext_articles/647e4e87.ext.json)
 
 ---

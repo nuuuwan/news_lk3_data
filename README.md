@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 14:42:57**
+As of **2024-12-21 15:01:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,084 (99.6%) of 61,325 articles have been extended.
+61,087 (99.6%) of 61,325 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -476,19 +476,29 @@ The injured individuals have been admitted to Hatton and Dick Oya Hospitals, acc
 
 ---
 
-### හැටන් - මහනුවර මාර්ගයේ බස් රථයක් අනතුරකට
+### Bus accident on Hatton-Kandy road
 
 *2024-12-21 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204576) · `si`
 
-හැටන් සිට මහනුවර බලා ගමන්ගත් පෞද්ගලික බස් රථයක් අද (21) පෙරවරුවේ අනතුරකට ලක්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම බස් රථය මාර්ගයෙන් ඉවතට ගොස් අසල තිබූ තේ වත්තට පෙරළී ගොස් ඇත.
 
-අනතුර සිදුවන අවස්ථාවේ බස් රථයේ මගීන් 20ත් 25ත් අතර ප්‍රමාණයක් සිට ඇති අතර, ඔවුන් සියලු දෙනාම තුවාල ලබා දික්ඔය සහ වටවල රෝහල්වලට ඇතුළත් කර තිබේ.
+
+"Private bus crashes on Hatton-Kandy road. Vehicle veered off course, landing in nearby tea garden. Estimated 20-25 passengers injured, hospitalized at Dikoya and Watawala hospitals."
+
+🟩
+
+A private bus traveling from Hatton has been in a crash today (21).
+
+The bus had gone out of the road and fell into the nearby tea garden.
+
+At the time of the accident, the bus had been increased by 20 to 25 passengers, and they were admitted to Dikoya and Watawala hospitals.
 
 ◼️
 
 [Data](articles/f7452455.json)
+
+[Extended Data](ext_articles/f7452455.ext.json)
 
 ---
 
@@ -756,19 +766,25 @@ Attorney Harshana Nanayakkara recently lodged a complaint with the Criminal Inve
 
 ---
 
-### පළාත් පාලන මැතිවරණය අවුරුද්දට පෙර, පළාත් සභාව ලබන වසර තුළදි
+### The local government elections are the year in the next year
 
 *2024-12-21 09:33:54* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-අවුරුද්දට-පෙර--පළාත්-සභාව-ලබන-වසර-තුළදි/11-413758) · `si`
 
-පළාත් පාලන මැතිවරණය ලබන වසරේ සිංහල හා හින්දු අලුත් අවුරුද්දට පෙර පවත්වන බවත් පළාත් සභා මැතිවරණය ලබන වසර ඇතුළත පවත්වන බවත් ජනපති අනුර කුමාර දිසානායක මහතා පැවැසිය.
+Local government elections scheduled for next year, preceding Sinhala Hindu New Year. Provincial council election also planned within same timeframe. President announces bill to cancel last year's nominations.
 
-පළාත් පාලන මැතිවරණයට අදාළව පසුගිය වසරේ කැඳවූ නාම යොජනා අවලංගු කිරිමට අදාළ පනත සකස් කර ඇති බවත් එය ලබන වසරේ ජනවාරි මාසයේදි පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කර ගන්නා බවත් ජනපතිවරයා පැවැසීය.
+🟩
 
-මහනුවරදි මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු තවදුරටත් සඳහන් කළේ පළාත් සභා මැතිවරණය ගැටලු ගණනාවක් හේතුවෙන් හිර වි ඇති බවයි.
+The local government elections are held before the Sinhala and Hindu New Year next year and the provincial council election said that the provincial council election was conducted within the next year.
+
+The President said that the bill had been prepared to cancel the names of the nominations of the nomination last year.
+
+Speaking to the ...
 
 ◼️
 
 [Data](articles/e543e74d.json)
+
+[Extended Data](ext_articles/e543e74d.ext.json)
 
 ---
 
@@ -792,17 +808,27 @@ This shows the risk of restructuring success, positive macroeconomic indexes and
 
 ---
 
-### அவுஸ்திரேலிய நீதிமன்றத்தினால் குற்றஞ்சாட்டப்பட்ட  இராஜதந்திரி ஹிமாலி அருணதிலக தவறிழைக்கவில்லை - வெளிவிவகார அமைச்சர் விளக்கம்
+### Diplomatic Himali Arunathilaka accused by Australian court
 
 *2024-12-21 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201752) · `ta`
 
-வெளிநாடுகளில் பணியாற்றும் இராஜதந்திரிகளால் இலங்கையிலிருந்து அழைத்துச்செல்லப்படும் பணியாட்களுக்கான சம்பளத்தை அரசாங்கமே வழங்கும் என்றும், அச்சம்பளம் இலங்கையில் நடைமுறையிலிருக்கும் சம்பள நிர்ணய விதிகளுக்கு அமைவாகவே தீர்மானிக்கப்படும் என்றும் சுட்டிக்காட்டிய வெளிவிவகார அமைச்சர் விஜித்த ஹேரத், அதனடிப்படையில் நோக்குகையில் அண்மையில் சர்ச்சைக்குள்ளான ஹிமாலி அருணதிலகவினால் எவ்வித தவறும் இழைக்கப்படவில்லை என விளக்கமளித்தார்.
+Sri Lankan diplomat Himali Arunathilaka faces legal action in Australia. External Affairs Minister Vijitha Herath clarifies government policy on diplomat salaries and employment practices.
 
-ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் அண்மைய இந்திய விஜயத்தின்போது ஆராயப்பட்ட விடயங்கள் மற்றும் கைச்சாத்திடப்பட்ட ஒப்பந்தங்கள் குறித்துத் தெளிவுபடுத்தும் நோக்கிலான ஊடகவியலாளர் சந்திப்பொன்று வெள்ளிக்கிழமை (20) கொழும்பிலுள்ள அரசாங்கத் தகவல் திணைக்களத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது.
+🟩
+
+External Affairs Minister Vijitha Herath pointed out that the government will provide the salaries of employees being taken from Sri Lanka by foreign diplomats and will be decided in accordance with the salary rules in Sri Lanka.
+
+A media briefing was organized at the Government Information Department in Colombo on Friday (20) to clarify the issues and signed agreements examined during the recent visit to President Anura Kumara Dissanayake.
+
+There, a journalist was questioned about the ruling imposed by the Australian Federal Court against Himali Arunathilaka, who is currently the permanent resident of Sri Lanka in Sri Lanka for the United Nations.
+
+Responding to this, Minister Vijitha Herath explained that when diplomats hold positions abroad, they would be able to take their homework from Sri Lanka and that the salaries of the workers would not be paid by the government and not by the diplomat.
 
 ...
 
 [Data](articles/f5d23819.json)
+
+[Extended Data](ext_articles/f5d23819.ext.json)
 
 ---
 

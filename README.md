@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 22:27:00**
+As of **2024-12-21 23:00:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,133 (99.6%) of 61,351 articles have been extended.
+61,137 (99.7%) of 61,351 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -92,21 +92,31 @@ Shortly after the accident, it is also reported that a person has been removed u
 
 ---
 
-### වෛද්‍යවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කරන ගැසට්ටුව නිකුත් කෙරේ
+### Gazette is issued to extend the retirement age of doctors
 
 *2024-12-21 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204597) · `si`
 
-සියලු වෛද්‍යවරුන්ගේ අනිවාර්යය විශ්‍රාම ගැන්වීමේ වයස් සීමාව අවුරුදු 63ක් විය යුතු බව සඳහන් කරමින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary of 200 characters:
 
-විශ්‍රාම වැටුප් ව්‍යවස්ථා සංශෝධන පනත ප්‍රකාරව 2022 දෙසැම්බර් මස 12 වන දින පළ කර තිබූ ගැසට් නිවේදනය සංශෝධනය කරමින් එම ගැසට් නිවේදනය නිකුත් කර ඇති බව සඳහන්ය.
 
-ඒ අනුව විශේෂඥ වෛද්‍යවරුන්ගේ, ශ්‍රේණිගත වෛද්‍ය හා දන්ත වෛද්‍ය නිලධාරීන්ගේ, වෛද්‍ය පරිපාලන ශ්‍රේණිවල සියලුම නිලධාරීන්ගේ, විශේෂඥ දන්ත වෛද්‍යවරුන්ගේ සහ ලියාපදිංචි වෛද්‍ය වෘත්තිකයන්ගේ අනිවාර්ය විශ්‍රාම ගැන්වීමේ වයස අවුරුදු 63 විය යුතු බව අදාළ ගැසට් නිවේදනයේ දැක්වෙයි.
 
-රාජ්‍ය පරිපාලන, පළාත් සභා හා පළාත් පාලන අමාත්‍යවරයා නිකුත් කර ඇති මෙම ගැසට් නිවේදනයේ විධිවිධාන 2023 වසරේ ජනවාරි මස 01 වන දින සිට බලාත්මක විය යුතු බව ද එහි  දැක්වෙයි.
+"Gazette extends doctor retirement age to 63. Amends previous notice from Dec 12, 2022. Applies to all medical professionals, specialists, and graduates. Notification sent to Public Administration, Provincial Councils, and Local Government Minister."
+
+🟩
+
+A special gazette notification has been issued noted that the age group of all doctors should be 63 years.
+
+It is said that the gazette notification had been issued by amending the gazette notification published on December 12, 2022.
+
+Accordingly, the compulsory retirement of all officers, specialist dentists and registered medical professionals of specialist doctors, medical and dental graduates and medical administrative graduates should be 63 years of age.
+
+The provisions of the gazette notification have been issued to the Public Administration, Provincial Councils and Local Government Minister.
 
 ◼️
 
 [Data](articles/406b91d5.json)
+
+[Extended Data](ext_articles/406b91d5.ext.json)
 
 ---
 

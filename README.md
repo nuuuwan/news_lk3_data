@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 08:24:59**
+As of **2024-12-21 08:39:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,045 (99.6%) of 61,274 articles have been extended.
+61,047 (99.6%) of 61,274 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,35 +100,55 @@ The NDB Shilpa Children’s Savings Account encourages children to embrace the i
 
 ---
 
-### நோர்வே தூதுவருடன் சுமந்திரன், சாணக்கியன் சந்திப்பு
+### Sumanthiran and Chanakyan meet with Norwegian Ambassador
 
 *2024-12-21 02:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோர்வே-தூதுவருடன்-சுமந்திரன்-சாணக்கியன்-சந்திப்பு/175-349028) · `ta`
 
-இலங்கைக்கான நோர்வே தூதுவரை இலங்கைத் தமிழரசுக் கட்சியின் முக்கியஸ்தர்கள் நேற்று சந்தித்து கலந்துரையாடினர்.
+Here's a summary of 200 characters:
 
-தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன், முன்னாள் பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் ஆகியோரே நோர்வே தூதுவருடனான சந்திப்பில் கலந்துகொண்டார்கள்.
 
-எமது மக்களின் பல முக்கிய விடயங்கள் மற்றும் சமகால அரசியல் நிலவரங்கள் தொடர்பாக இதன்போது பேசினோம் என்று பாராளுமன்ற உறுப்பினர் சாணக்கியன் தெரிவித்தார். (a)
+
+TNA leaders Sumanthiran & Chanakyan meet Norwegian Ambassador. Discuss "important issues" & current political situation.
+
+🟩
+
+Leaders of the Sri Lanka Tamil National Alliance (TNA) met with the Norwegian Ambassador to Sri Lanka yesterday.
+
+TNA MP. Chanakyan and former parliamentarian president MA Sumanthiran attended the meeting with the Norwegian Ambassador.
+
+"We have spoken about the many important issues and contemporary political situation of our people," Parliamentarian Chanakyan said. (A)
 
 ◼️
 
 [Data](articles/8d65d4a4.json)
 
+[Extended Data](ext_articles/8d65d4a4.ext.json)
+
 ---
 
-### யாழ். விபத்தில் இளைஞர் உயிரிழப்பு
+### Yall. Youth dies in accident
 
 *2024-12-21 02:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-விபத்தில்-இளைஞர்-உயிரிழப்பு/175-349027) · `ta`
 
-யாழ்ப்பாணம், மண்கும்பான் பகுதியில் நேற்று (20) இடம்பெற்ற வீதி விபத்தில் இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-மண்டைதீவு பகுதியைச் சேர்ந்த 21 வயதான அன்ரனி பிரான்சிஸ் நிலோஜன் என்பவரே உயிரிழந்துள்ளார்.
 
-யாழ்ப்பாணம் - ஊர்காவற்துறையில் வீதியில் இடம்பெற்ற கார் - மோட்டார் சைக்கிள் விபத்திலேயே குறித்த இளைஞர் உயிரிழந்துள்ளார்.
+
+"21-year-old Antony Francis Nilojan from Mandi Island fatally injured in car-motorcycle crash on Jaffna-Kayts road. Incident occurred in Mankumban area of Jaffna."
+
+🟩
+
+A youth was killed in a road accident in Mankumban area in Jaffna yesterday (20).
+
+The deceased is 21 -year -old Antony Francis Nilojan, a native of Mandi Island.
+
+Youth died in a car - motorcycle accident on the road in Kayts in Jaffna - Kayts.
 
 ◼️
 
 [Data](articles/928ad59b.json)
+
+[Extended Data](ext_articles/928ad59b.ext.json)
 
 ---
 

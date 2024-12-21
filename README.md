@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 15:26:42**
+As of **2024-12-21 16:01:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,090 (99.6%) of 61,325 articles have been extended.
+61,092 (99.6%) of 61,325 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -850,23 +850,31 @@ Responding to this, Minister Vijitha Herath explained that when diplomats hold p
 
 ---
 
-### දුනිත් ඉවත්කළ හේතුව චරිත් කියයි
+### Charith says the reason for removed
 
 *2024-12-21 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204573) · `si`
 
-නවසීලන්ත තණතීරුවල ක්‍රීඩාකිරීමේදී අතිරේක වේගපන්දු යවන්නෙකුට අවස්ථාව ලබාදිය යුතු බැවින් දුනිත් වෙල්ලලාගේ සංචිතයෙන් ඉවත් කිරීමට සිදු වූ බව ශ්‍රී ලංකා නායක චරිත් අසලංක පැවසීය.
+Sri Lanka's captain Charith explains removing a bowler: "Difficult decision made by us and the coach. New Zealand pitches require such choices."
 
-තරග තුන බැගින් වූ එක්දින හා විස්සයි20 තරගාවලියකට ක්‍රීඩාකිරීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ඊයේ (20) රාත්‍රියේ නවසීලන්තය බලා පිටත්ව ගිය අතර, දිවයිනෙන් පිටවත් යාමට පෙර මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පවසා සිටියේය.
+🟩
 
-"ක්‍රීඩකයන් හොඳ මානසිකත්වයෙන් ඉන්නවා. T-10 තරගාවලිය ක්‍රීඩා කරලා හොඳින් ලකුණු අතරත්, කඩුලු අතරත් හිටියා. ඒක හොඳ සූදානමක් කණ්ඩායමට.
+The Sri Lankan captain Charith said that the supplementary bowler had to be removed from the squad of Wellala's squad at the New Zealand pitching.
 
-අභියෝගාත්මක තරගාවලියක්. නවසීලන්තය ඔවුන්ගේ රටේදී ගොඩක් ශක්තිමත්. කණ්ඩායමේ ගොඩක් ලොකු වෙනස්කම්  කරන්නේ නෑ. නමුත් අත්දැකීම් බහුල ක්‍රීඩකයන්ගේ අත්දැකීම්, නවකයන්ට ලබාදීමේ බලාපොරොත්තුවක් තියෙනවා.
+The Sri Lankan cricket team departed to New Zealand last night, speaking to the media before leaving the island.
 
-නවසීලන්තයේ ක්‍රීඩාකරද්දී අතිරේක වේගපන්දු යවන්නෙකුට අවස්ථාව ලබාදෙන්න ඕන නිසයි දුනිත් කණ්ඩායමෙන් ඉවත්කළේ. ඒක හරි අමාරු තීරණයක්. මටත් තේරීම් කමිටුවටත්, පුහුණුකරුටත් අමාරු තීරණයක් වුණා. නවසීලන්තයේ වගේ තණතීරුවල ක්‍රීඩා කරද්දී සමහර වෙලාවට මේ තීරණ ගන්න වෙනවා".
+"Players are in good mindset. T-10 tournament and was well-scored between the wickets. It's a good preparation team.
+
+Challenging tournament. New Zealand is very strong in their country. The group does not make a lot of big changes. But there is an expectation of experiences and newcomers.
+
+Diser was removed from the group that the additional fast bowler wanted to be given the opportunity to play in New Zealand.. That's a difficult decision. It was a difficult decision to me and the coach and the coach. Playing in pitchers like New Zealand sometimes has to make these decisions. "
+
+The Twenty20 tournament will be held first in the Twenty20 Tournament and ODI series between the two countries.
 
 ...
 
 [Data](articles/4a6e9b8c.json)
+
+[Extended Data](ext_articles/4a6e9b8c.ext.json)
 
 ---
 
@@ -959,6 +967,8 @@ Unverified video on social media purports to show a car ploughing into the crowd
 ...
 
 [Data](articles/d468e695.json)
+
+[Extended Data](ext_articles/d468e695.ext.json)
 
 ---
 

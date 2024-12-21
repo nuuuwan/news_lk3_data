@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 04:13:12**
+As of **2024-12-22 03:42:33**
 
 ## Newspaper Stats
 
-*Scraped **61,359** Articles*
+*Scraped **61,358** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 456
-colombotelegraphcom | 622
+colombotelegraphcom | 621
 bbccomsinhala | 647
 islandlk | 3,710
 economynextcom | 3,744
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,165 (99.7%) of 61,359 articles have been extended.
+61,163 (99.7%) of 61,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -131,20 +131,6 @@ Meanwhile, several persons who robbed money from the Consumer Affairs Authoritie
 [Data](articles/07f334ff.json)
 
 [Extended Data](ext_articles/07f334ff.ext.json)
-
----
-
-### The Optimistic Kingfisher – Children’s Natural History Guide
-
-*2024-12-21 22:29:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-optimistic-kingfisher-childrens-natural-history-guide/) · `en`
-
-Chris Devonshire-Ellis is well-known for his work in foreign investment, but he’s also a writer. Over the years, he’s contributed to music magazines, interviewing legendary jazz and soul musicians like Luther Vandross and George Clinton. He’s also authored several business books, expat stories about life in China, and even a travel guide to Mongolia. However, The Optimistic Kingfisher marks his debut as a children’s author, published by The Jam Fruit Tree Publications.
-
-“The idea for the book came about when I had a few young Russian children visiting me in Sri Lanka. To entertain them, I started creating stories, and they loved them so much that they asked for them every night before bed,” Chris shared. “When the pandemic hit, I decided to revisit these stories, reached out to some artist friends to illustrate them, and eventually published them. The team at The Jam Fruit Tree Publications did an incredible job bringing these stories to life in print.”
-
-...
-
-[Data](articles/b5165737.json)
 
 ---
 
@@ -2421,5 +2407,19 @@ This milestone marks the successful completion of the training of several batche
 [Data](articles/47a2f52a.json)
 
 [Extended Data](ext_articles/47a2f52a.ext.json)
+
+---
+
+### Communist Party of China brings Silk Road Link platform to Sri Lanka
+
+*2024-12-21 00:39:18* · [`dailyftlk`](https://www.ft.lk/news/Communist-Party-of-China-brings-Silk-Road-Link-platform-to-Sri-Lanka/56-770839) · `en`
+
+This year marks the beginning of the second golden decade of the Belt and Road Initiative (BRI) proposed by Chinese President Xi Jinping. From 16 to 18 December, the International Department of the Central Committee of the Communist Party of China (CPC) brought its Silk Road Link platform to Sri Lanka for the first time, collaborating with the ruling party JVP, friendly organisations, and others to host multiple “Lighting Up the Countryside” public welfare events. These activities aim to enhance people-to-people connectivity and support the high-quality BRI cooperation between China and Sri Lanka.
+
+...
+
+[Data](articles/e231b72e.json)
+
+[Extended Data](ext_articles/e231b72e.ext.json)
 
 ---

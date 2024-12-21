@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 23:27:01**
+As of **2024-12-21 23:43:17**
 
 ## Newspaper Stats
 
-*Scraped **61,354** Articles*
+*Scraped **61,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 647
 islandlk | 3,710
-economynextcom | 3,743
+economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,842
 adaderanalk | 7,488
-tamilmirrorlk | 8,771
+tamilmirrorlk | 8,772
 virakesarilk | 10,123
 adaderanasinhalalk | 10,604
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,141 (99.7%) of 61,354 articles have been extended.
+61,143 (99.7%) of 61,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### அதி விசேட வர்த்தமானி அறிவித்தல் வௌியானது
+
+*2024-12-21 23:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-விசேட-வர்த்தமானி-அறிவித்தல்-வௌியானது/175-349055) · `ta`
+
+அனைத்து மருத்துவர்களின் கட்டாய ஓய்வு வயதெல்லை 63 ஆக குறிப்பிட்டு அதி விசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+ஓய்வூதிய அரசியலமைப்பு திருத்தச் சட்டத்தின்படி, 2022 டிசம்பர் 12 ஆம் திகதி வெளியிடப்பட்ட வர்த்தமானி அறிவித்தல் திருத்தப்பட்டு மேற்படி வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+அதற்கமைய, மருத்துவ நிபுணர்கள், தர மருத்துவ மற்றும் பல் மருத்துவ அலுவலர்கள், மருத்துவ நிர்வாக தரத்திலுள்ள எல்லா அலுவலர்கள், பல் மருத்துவ நிபுணர்கள் மற்றும் பதிவுசெய்யப்பட்ட மருத்துவ தொழிலாளர்களின் கட்டாய ஓய்வு வயதெல்லை 63 ஆக இருக்க வேண்டும் என குறிப்பிடப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ef940b6c.json)
+
+---
+
+### Sri Lanka should avoid stop-go cycles, Treasury Secy says after default exit
+
+*2024-12-21 23:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-avoid-stop-go-cycles-treasury-secy-says-after-default-exit-195740/) · `en`
+
+ECONOMYNEXT – Sri Lanka has to avoid ‘stop-go’ (boom-bust) cycles involving unsustainable monetary and fiscal stimulus that lead to crises, Treasury Secretary Mahinda Siriwardana has said after Fitch upgraded Sri Lanka from default status.
+
+Sri Lanka completed a restructuring of sovereign bonds on December 20, and the country was classified as CCC+, 5 levels above restructured default.
+
+“All the hard work and sacrifice, particularly by the people of Sri Lanka, has now paid off and Sri Lanka has the opportunity for a fresh start in the New Year,” Siriwardana said in an x.com post.
+
+“However, this growth cannot come at he expense of economic stability,” Siriwardana said.
+
+“All too often in the past, whenever the economy has stabilized following a shock, we are too eager to provide unsustainable fiscal and monetary stimulus to re-invigorate growth.
+
+“The result is a rapid return to instability – which has characterized several stop-go cycles in Sri Lanka’s post-independence economic history.”
+
+...
+
+[Data](articles/f3752f39.json)
+
+---
 
 ### 67,000 metricton to Sri Lanka
 
@@ -724,21 +762,27 @@ He was also able to make significant performance during the visit of the Sri Lan
 
 ---
 
-### நாளை மீண்டும் டில்லி செல்கிறார் - முன்னாள் ஜனாதிபதி ரணில்
+### Going back to Delhi tomorrow - former President Ranil
 
 *2024-12-21 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201803) · `ta`
 
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஞாயிற்றுக்கிழமை (22)  மீண்டும் இந்தியா செல்லவுள்ளார். இவ்வாண்டில் ஒரு மாத கால இடைவெளிக்குள் இரண்டாவது தனிப்பட்ட விஜயமாக நாளை அவர் டில்லி செல்லவுள்ளார். இந்த விஜயத்தின் போது பல்வேறு முக்கிய சந்திப்புக்களில் ஈடுபடவுள்ளார்.
+Ranil Wickremesinghe returns to India tomorrow for Delhi visit. Attends meetings, visits historical sites, and participates in secret political gatherings. Speech by Atal Bihari Vajpayee scheduled for 27th at Indian Hopead Center.
 
-குறிப்பாக இவ்விஜயத்தின் போது எதிர்வரும் 27ஆம் திகதி இந்தியாவின் மறைந்த முன்னாள் பிரதமர் அடல் பிஹாரி வாஜ்பாய் நினைவேந்தல் உரையை ஆற்றவுள்ளார். இந்நிகழ்வு டில்லியிலுள்ள இந்திய ஹாபிடேட் சென்டர் கேட்போர் கூடத்தில் நடைபெறவுள்ளது.
+🟩
 
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது ஒரு வார இந்திய விஜயத்தின் போது, அந்நாட்டு புராதன வரலாற்று முக்கியத்துவம் வாய்ந்த இடங்களைப் பார்வையிடவுள்ளார். அது மாத்திரமின்றி முக்கிய இரகசிய அரசியல் சந்திப்புக்களிலும் அவர் ஈடுபடவுள்ளதாக தெரிவிக்கப்படுகிறது.
+Former President Ranil Wickremesinghe will return to India on Sunday (22). He will go to Delhi as the second personal visit tomorrow. During the visit, he will attend various important meetings.
 
-நாட்டில் பொதுத் தேர்தல் நிறைவடைந்து ஒரு வாரத்தில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்தியா சென்றிருந்தார். நவம்பர் 21 - 30 வரையான குறித்த விஜயத்தில் மத்திய பிரதேசத்திலுள்ள ஸ்ரீ சத்ய சாய் வித்யா விஹாரில் உரையாற்றியிருந்தமை குறிப்பிடத்தக்கது.
+Former Prime Minister of India, Atal Bihari Vajpayee, will make a speech on the 27th of this month.. The event will be held at the Indian Hopead Center Auditorium in Delhi.
+
+Former President Ranil Wickremesinghe will visit places of ancient historical significance during his weekly visit to India. It is reported that he will also attend major secret political meetings.
+
+Former President Ranil Wickremesinghe visited India within a week after the general election in the country. It is noteworthy that Sri Satya Sai Vidya in Madhya Pradesh addressed the visit from November 21 to 30.
 
 ◼️
 
 [Data](articles/db9acf8b.json)
+
+[Extended Data](ext_articles/db9acf8b.ext.json)
 
 ---
 
@@ -2361,33 +2405,5 @@ Consul General participated in the event as the Chief Guest, alongside other dig
 [Data](articles/647e4e87.json)
 
 [Extended Data](ext_articles/647e4e87.ext.json)
-
----
-
-### Sri Lanka wins many trophies including 16 championship trophies at the UCMAS International Competition in New Delhi
-
-*2024-12-21 00:33:48* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-wins-many-trophies-including-16-championship-trophies-at-the-UCMAS-International-Competition-in-New-Delhi/56-770836) · `en`
-
-The UCMAS Sri Lanka contingent was successful in winning 16 championships, 16 first runners up and 20 second runners up trophies at the UCMAS International Level Competition held recently in New Delhi. The Sri Lanka Team was also successful in winning the Bronze Trophy amongst the many international participants at the World Cup Tournament held there.
-
-...
-
-[Data](articles/f39b9402.json)
-
-[Extended Data](ext_articles/f39b9402.ext.json)
-
----
-
-### Human rights and inhuman wrongs
-
-*2024-12-21 00:09:34* · [`dailyftlk`](https://www.ft.lk/columns/Human-rights-and-inhuman-wrongs/4-770827) · `en`
-
-The psychiatric ward is plagued by the worst living conditions in the facility
-
-...
-
-[Data](articles/3d5d8c3c.json)
-
-[Extended Data](ext_articles/3d5d8c3c.ext.json)
 
 ---

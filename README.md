@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 08:39:29**
+As of **2024-12-21 09:02:06**
 
 ## Newspaper Stats
 
-*Scraped **61,274** Articles*
+*Scraped **61,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
-tamilmirrorlk | 8,758
+tamilmirrorlk | 8,759
 virakesarilk | 10,110
 adaderanasinhalalk | 10,580
 
@@ -26,11 +26,21 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,047 (99.6%) of 61,274 articles have been extended.
+61,048 (99.6%) of 61,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### ஜனாதிபதியின் தாய் வைத்தியசாலையில் அனுமதி
+
+*2024-12-21 08:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தாய்-வைத்தியசாலையில்-அனுமதி/175-349029) · `ta`
+
+◼️
+
+[Data](articles/e0391002.json)
+
+---
 
 ### Stocks transit from gloom to radiance
 
@@ -2142,25 +2152,39 @@ Meanwhile, India has decided to consider the loan assistance provided by India t
 
 ---
 
-### Colombo Night Life: 'ෆුල් සර්විස් ද? නෝර්මල් ද?'
+### Colombo Night Life: 'Is ful servicIs the nomel? '
 
 *2024-12-20 13:30:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9wlk42jgv4o) · `si`
 
-ස්පා, ෆුට් කෙයාර් සහ ආයුර්වේද සම්බාහන යන විවිධ නම්වලින් කොළඹ හා තදාසන්න ප්‍රදේශවල විවිධ සම්බාහන මධ්‍යස්ථාන පවත්වා ගෙන යනු ලැබේ.
+Here's a summary of the text in approximately 200 characters:
 
-බොහෝ විට එක් ස්ථානයක දිගු කාලයක් පවත්වා ගෙන නොයන මෙම මධ්‍යස්ථාන මේ වන විට කොළඹින් බැහැර ප්‍රදේශවලට ද වේගයෙන් ව්‍යාප්ත වෙමින් ඇත.
 
-මෙම ස්ථානවලින් සපයන සේවා මොනවා ද යන්න කොළඹ නගරයේ සහ අවට ප්‍රදේශවල රාත්‍රි කාලයේ සංචාරය කරමින් අප සොයා බැලුවෙමු.
 
-හිස සම්බාහනය, උරහිස් සම්බාහනය , පාද සම්බාහනය හෝ සම්පූර්ණ සිරුර සම්බාහනය යන සම්බාහන ක්‍රම වෙනුවට දැන් මේවා බොහොමයක ඇත්තේ 'ෆුල් සර්විස්' හෝ 'නෝර්මල් සර්විස්' යනුවෙන් නම් කරන ලද ක්‍රම බව අප කළ සංචාරයේදී හෙළිවිය.
+Colombo nightlife features massage centers offering various services, including "full service." Many centers provide sexual labor alongside massages. The industry is controversial, with concerns about STDs and exploitation.
 
-බොරැල්ල කොට්ටාව මාර්ගයේ ගමන් ගන්නා ඕනෑ ම අයෙකුට තලවතුගොඩ යනු ඉතා හුරුපුරුදු නගරයකි.
+🟩
 
-තායිලන්තයේ පතායා නගරයේ තරම් නොවූවත්, රාත්‍රියේ විදුලි ආලෝකයෙන්  බැංකොක් අසිරිය ගන්නා තලවතුගොඩ, කළල්ගොඩ සිට පන්නිපිටිය දක්වා කොටසට මේ වන විට ප්‍රදේශයට විශේෂීකරණයක් ආරෝපණය කර තිබේ.
+Various massage centers are maintained in Colombo and suburbs with different names of Spain, Futs, Ayurvedic massage.
+
+These centers are often expanding to areas from Colombo.
+
+We also visited the night in Colombo and surrounding areas where the services provided by these places.
+
+In the visit of 'Full Service' or 'Nomel Service', have been named the methods of the head massage, shoulder massage, foot massage or complete body massage methods.
+
+Talawatugoda is a familiar city for anyone traveling along the Borella Kottawa.
+
+Although not as far as Petivat in Thailae, the Bangkok to Pannugoda, Thalawathugoda, has been attributed to the area.
+
+Borella - Kottawa Road No. 174 bus route 174 bus route. But now that road is the most popular because of the massage centers on either side of the road.
+
+We went to several massage centers in Thalawathugoda to look into the services provided by this gase.
 
 ...
 
 [Data](articles/2cd850bd.json)
+
+[Extended Data](ext_articles/2cd850bd.ext.json)
 
 ---
 
@@ -2387,37 +2411,5 @@ The Minister further stated that Anura Kumara Dissanayake agreed to proceed with
 [Data](articles/ee5b964e.json)
 
 [Extended Data](ext_articles/ee5b964e.ext.json)
-
----
-
-### For Rishad's claim: Ulama Corporation condemns
-
-*2024-12-20 12:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிசாத்தின்-கூற்றுக்கு-உல-மா-க-ட்சி-கண்டனம்/175-349002) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ulama Corp criticizes MP Rishad Badidin over claims about Al-Alim exams. They argue against equating Moulavi qualifications with Al-Alim certifications, citing unfair treatment of Moulavi teachers. The party demands Rishad retract his statement.
-
-🟩
-
-The Paradise Member of Parliament, Rishad Badidin, has said that it is the ignorance of the party that has said that Al -Alim's examination is the only one who is the author of the Moulavimar as teachers.
-
-Al -Alim said in a press release sent to the media regarding the exam.
-
-The reason for the creation of the Almighty It does not mean that the smaller is better than the rim.
-
-But then Rishad Badiudeen and Rauf Hakim were the ministers who were ministers, and the Moulavi editor of the Moulavi Editor to the Editor. Since then, the Ulama Party has been in the process.
-
-If a person who has been held at the GCE high -rise, the teacher's appointment is available for three years at Kalvikkaluri.
-
-But if a Moulavi is available for a Moulavi, it is the great injustice it is to Moulavi to pass the Moulavi and end the GCE high -level and to pass the Al -Alim exam.
-
-...
-
-[Data](articles/950f0ecf.json)
-
-[Extended Data](ext_articles/950f0ecf.ext.json)
 
 ---

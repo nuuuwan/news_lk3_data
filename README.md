@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 12:27:26**
+As of **2024-12-21 12:43:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,067 (99.6%) of 61,306 articles have been extended.
+61,069 (99.6%) of 61,306 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,8 @@ Police stated that the van driver had fallen asleep at the wheel leading to the 
 ◼️
 
 [Data](articles/d6341908.json)
+
+[Extended Data](ext_articles/d6341908.ext.json)
 
 ---
 
@@ -246,21 +248,27 @@ He added: “Sri Lanka and Saudi Arabia have a very long background of ties. Acc
 
 ---
 
-### දක්ෂිණ අධිවේගයේ අනතුරක්
+### An accident on Southern Expressway
 
 *2024-12-21 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204574) · `si`
 
-අක්ෂිණ අධිවේගී මාර්ගයේ පින්නදූව අන්තර් හුවමාරුව ආසන්නයේ අද (21) අළුයම සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තවත් පස් දෙනෙකු තුවාල ලබා තිබේ.
+Accident on Southern Expressway: 1 dead, 5 injured near Etinaduwa interchange. Van collided with lorry; driver asleep. Victim, 62, taken to Karapitiya Hospital.
 
-පොලීසිය සඳහන් කළේ කොට්ටාව සිට ගාල්ල බලා ධාවන වූ වෑන් රථයක්, ඉදිරියෙන් ගමන් කළ ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව ඇති බවයි.
+🟩
 
-අනතුරින් තුවාල ලැබූ වෑන් රථයේ ගමන් කළ 62 හැවිරිදි පුද්ගයෙකු මියගොස් ඇති අතර, තවත් කාන්තාවන් සිව්දෙනෙකු ඇතුළු පුද්ගලයින් පස් දෙනෙකු තුවාල ලබා ප්‍රතිකාර සඳහා කරාපිටිය රෝහලට ඇතුළත් කර තිබ‍ෙ
+A person was killed and five others wounded in an accident near the Etinaduwa interchange on the synanado highway.
 
-වෑන් රථයේ රියදුරුට නින්ද යාමෙන් මෙම අනතුර සිදුව ඇති බව පොලීසිය පැවසීය.
+Police said that the accident had occurred when a van to Galle to Galle to Galle was a lorry.
+
+A 62-year-old man was killed in the van and was rushed to the Karapitiya Hospital for treatment and injuring five other women.
+
+The accident had occurred when the driver of the van was sleeping.
 
 ◼️
 
 [Data](articles/1b2943bf.json)
+
+[Extended Data](ext_articles/1b2943bf.ext.json)
 
 ---
 

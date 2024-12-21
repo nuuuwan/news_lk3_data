@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 16:01:17**
+As of **2024-12-21 16:42:35**
 
 ## Newspaper Stats
 
-*Scraped **61,325** Articles*
+*Scraped **61,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,841
 adaderanalk | 7,480
-tamilmirrorlk | 8,768
+tamilmirrorlk | 8,769
 virakesarilk | 10,119
 adaderanasinhalalk | 10,591
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 10,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,092 (99.6%) of 61,325 articles have been extended.
+61,097 (99.6%) of 61,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### Five injured in an altercation accident
+
+*2024-12-21 15:58:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுமொரு-விபத்தில்-ஐவர்-படுகாயம்/175-349039) · `ta`
+
+Here's a summary of the incident in approximately 200 characters:
+
+
+
+"5 injured as bus crashes into tree on Colombo-Kandy Rd. Vehicle from Teldeniya Depot, SLTB. Accident occurred near Tassan Tower."
+
+🟩
+
+Five people were injured when a bus crashed into a tree in the Tassan Tower area of ​​Colombo -Kandy Road.
+
+The bus belonging to the Teldeniya Depot, owned by the Sri Lanka Transport Board, crashed.
+
+◼️
+
+[Data](articles/026ccc26.json)
+
+[Extended Data](ext_articles/026ccc26.ext.json)
+
+---
 
 ### CID declares in three of the doctoral name
 
@@ -988,6 +1012,8 @@ Sri Lanka completed the local-currency portion of its domestic debt optimisation
 
 [Data](articles/182eb26f.json)
 
+[Extended Data](ext_articles/182eb26f.ext.json)
+
 ---
 
 ### Fairly heavy showers expected in parts of the island
@@ -1006,27 +1032,35 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 [Data](articles/e71e5c4d.json)
 
+[Extended Data](ext_articles/e71e5c4d.ext.json)
+
 ---
 
-### ණය ශ්‍රේණිගත කිරීම්වලින් ශ්‍රී ලංකාවට උසස්වීමක්
+### Sri Lanka promoted to Sri Lanka from credit ratings
 
 *2024-12-21 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204572) · `si`
 
-ශ්‍රී ලංකාවේ ණය ශ්‍රේණිගත කිරීම්වල ධනාත්මක ප්‍රවණතාවක් පෙන්නුම් කරන බව ෆිච් රේටින් සමාගම පවසයි.
+Sri Lanka's credit rating upgraded by Fitch: Long-term forex borrowing grade improved from CCC to CCC+. Positive outlook reflects improving economic indicators and reduced debt risk. Central Bank restructured foreign debt, exchanging 8 international sovereign bonds worth Rs. 19,466.1 million.
 
-මේ හේතුවෙන් අදාළ සමාගම විසින් මෙරට ණය ශ්‍රේණිගත කිරීම් සඳහා උසස්වීමක් ප්‍රකාශයට පත්කර ඇති බව වාර්තා වේ.
+🟩
 
-ඒ අනුව දිගුකාලීන විදේශ විනිමය ණය නිකුත් ශ්‍රේණිය RD මට්ටමේ සිට CCC+ මට්ටම දක්වා උසස් කර තිබෙන අතර, දේශීය විනිමය ණය නිකුත් ශ්‍රේණිය CCC- සිට CCC+ දක්වා ඉහළ නංවා තිබේ.
+Fitch Rating Company says Sri Lanka's credit ratings are positive.
 
-ජාත්‍යන්තර ණය ප්‍රතිව්‍යූහගත කිරීමේ සාර්ථකත්වය වැඩි දියුණුකළ සාර්ව ආරිථික දර්ශක සහ දේශීය මුදල් පැහැරහැරීමේ අවධානම අඩුකිරීම මෙමගින් පිළිඹිබු කරන බව ෆිච් රේටින් සමාගම පවසයි.
+As a result, the company has declared a promotion to credit ratings in Sri Lanka.
 
-මේ අතර විදේශ ණය ප්‍රතිව්‍යුහගතකරණයට අනුව භාණ්ඩාගාර බැඳුම්කර අටක් මගින් ජාත්‍යන්තර ස්වෛරී බැඳුම්කර හුවමාරු කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Accordingly, the long-term forex borrowing grade is up to the CCC + grade rd to CCC + grade from CCC to CCC.
 
-මහ බැංකුව පෙන්වා දෙන්නේ මෙම සියලු බැඳුම්කර රුපියල් මිලියන 19,466.1ක වෙන්කළ මුදලකින් සමන්විත බවය.
+Fitch Rating Company says that this reflects the risk of improving the successful macroftestical indicators and the risk of improving the success of international debt.
+
+Meanwhile, the Central Bank of Sri Lanka (SLTB) has exchanged international sovereignty bonds by eight Treasury Bonds as per the restructuring of foreign debt.
+
+The Central Bank points out that all these bonds are made up of the allocation of the allocation of Rs. 19,466.1 million.
 
 ◼️
 
 [Data](articles/846d44e1.json)
+
+[Extended Data](ext_articles/846d44e1.ext.json)
 
 ---
 
@@ -1047,6 +1081,8 @@ The series that did not meet the threshold was a 2022 bond where Hamilton Reserv
 ...
 
 [Data](articles/1e32ff63.json)
+
+[Extended Data](ext_articles/1e32ff63.ext.json)
 
 ---
 
@@ -2333,29 +2369,5 @@ Meanwhile, former MP Johnston Fernando has been assigned with the responsibility
 [Data](articles/067494aa.json)
 
 [Extended Data](ext_articles/067494aa.ext.json)
-
----
-
-### Time of Rice Importation Till January 10
-
-*2024-12-20 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201766) · `ta`
-
-Rice import deadline extended to Jan 10: Private traders import 40,500 metric tonnes; 95% released. Government allows private sector imports to address shortage. Customs Department instructs re-export of 75,000 kilos.
-
-🟩
-
-The timeline given to private traders for the importation of rice has been extended until the 10th of January. According to the Customs Department, private traders have imported 40,500 metric tonnes of rice and 95 per cent of them have been released.
-
-As a solution to the shortage of rice in the market, the definition of rice imports has been temporarily removed and the government has granted permission to import rice by the private sector this month.
-
-Accordingly, the Customs Department has instructed the importers to re -export 75 thousand kilos of rice in the amount of rice imported by private parties during this period.
-
-The private sector imported 40,500 metric tonnes of rice until Thursday (19). The Customs Department said that 17,500 metric tonnes of green rice and 23,000 metric tonnes of rice were released and 95 per cent had been released.
-
-...
-
-[Data](articles/d2c1cf3b.json)
-
-[Extended Data](ext_articles/d2c1cf3b.ext.json)
 
 ---

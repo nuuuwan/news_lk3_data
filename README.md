@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 19:42:37**
+As of **2024-12-21 20:12:35**
 
 ## Newspaper Stats
 
-*Scraped **61,344** Articles*
+*Scraped **61,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 5,841
 adaderanalk | 7,485
 tamilmirrorlk | 8,770
 virakesarilk | 10,122
-adaderanasinhalalk | 10,600
+adaderanasinhalalk | 10,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,118 (99.6%) of 61,344 articles have been extended.
+61,120 (99.6%) of 61,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### හැටන් බස් රථ අනතුරේ තවත් තොරතුරු රැසක් එළියට
+
+*2024-12-21 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204595) · `si`
+
+පෞද්ගලික බස් රථයක් මල්ලිඅප්පුව ප්‍රදේශයේදී අද පෙරවරු 10ට පමණ අනතුරට පත්විය.
+
+එම බස් රථය අනතුරට ලක්ව තිබුණේ හැටන් සිට මහනුවර බලා ධාවනය වෙමින් තිබියදීය.
+
+රියැදුරුට බස් රථය පාලනය කරගැනීමට නොහැකිවීමෙන් එය මාර්ගයෙන් ඉවතට පැන අඩි 20ක පමණ කොන්ක්‍රීට් බැම්මකින් පහළට වැටී තිබුණි.
+
+එම අනතුරින් අනතුරින් තුවාල ලැබූ රියැදුරු සහ සහයක ඇතුළු 53 දෙනෙකු දික්ඔය රජයේ දිස්ත්‍රික් මූලික රෝහලට ඇතුළත් කෙරුණි.
+
+එහිදී පුද්ගලයින් තිදෙනෙකු ජීවිතක්ෂයට පත්වූ අතර, එලෙස මියගොස් තිබුණේ හැටන් ප්‍රදේශයේ පදිංචි වයස අවුරුදු  14ක පාසල් ශිෂ්‍යයෙක්, 68 හැවිරිදි මහනුවර පදිංචිකරුවෙක් සහ කාන්තාවක්ය.
+
+අප වාර්තාකරු පැවසුවේ, පාසල් සිසුවා සිය සහෝදරිය සමඟ බෙහෙත් ගැනීමට යන අතුරතුරදී එම අනතුරට මුහුණ දී ඇති බවය.
+
+තුවාල ලැබූවන් අතරින් 10 දෙනෙකු මහනුවර ශික්ෂණ රෝහලට යොමුකෙරුණු බවත්, ඉන් 4 දෙනෙකුගේ තත්ත්වය බරපතළ බවත් රෝහල් ආරංචි මාර්ග ප්‍රකාශ කළේය.
+
+තිදෙනකුට මරු කැඳවූ අනතුර සම්බන්ධයෙන් පොලිසිය බස් රථ රියැදුරාගෙන් ප්‍රශ්න කර තිබේ.
+
+එහිදී රියදුරු පවසා ඇත්තේ, බස් රථය තම පාලනයෙන් ගිලිහී ගොස් දොර විවෘත වී තමා බස් රථයෙන් එළියට වැටීමට ගිය බවය.
+
+...
+
+[Data](articles/40d8242a.json)
+
+---
 
 ### Taiwan turns up parliament to earn
 
@@ -1630,6 +1658,8 @@ President Dissanayake said there was no pressure from India to hold provincial e
 
 [Data](articles/3f7320a2.json)
 
+[Extended Data](ext_articles/3f7320a2.ext.json)
+
 ---
 
 ### Stocks transit from gloom to radiance
@@ -2343,31 +2373,5 @@ Speaking at the Federation of University Teachers' Societies Associations (FUTA)
 [Data](articles/8d495d11.json)
 
 [Extended Data](ext_articles/8d495d11.ext.json)
-
----
-
-### The US will cooperate with the current government's future development projects - Julie Song
-
-*2024-12-20 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201772) · `ta`
-
-US Ambassador Julie Song promises cooperation with Sri Lanka's development projects, including law enforcement and cybersecurity initiatives.
-
-🟩
-
-US Ambassador to Sri Lanka, Julie Song, said the US was ready to further strengthen diplomatic ties between Sri Lanka and the US and promised to cooperate with the current government's future development plans.
-
-US Ambassador to Sri Lanka Julie Song, Minister of Public Security and Parliamentary Affairs Ananda Wijeyapala and Deputy Minister Sunil Vattakala met with the Public Security Ministry in Colombo yesterday.
-
-US Ambassador to Sri Lanka, Julie Song, said that it was the US's expectation that Sri Lanka should become a developed country.
-
-He promised that the United States will cooperate with the future development programs that the current government is carrying out.
-
-The ambassador, Julie Song, who praised the new government's attempts to uphold law and order in the country without political interference, said that he would also cooperate with the measures taken to control the activities of the drug and the worldwide groups.
-
-...
-
-[Data](articles/72686f8b.json)
-
-[Extended Data](ext_articles/72686f8b.ext.json)
 
 ---

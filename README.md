@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 11:27:00**
+As of **2024-12-21 11:43:22**
 
 ## Newspaper Stats
 
-*Scraped **61,298** Articles*
+*Scraped **61,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 647
 islandlk | 3,710
-economynextcom | 3,738
+economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,062 (99.6%) of 61,298 articles have been extended.
+61,062 (99.6%) of 61,303 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -173,6 +173,26 @@ He added: “Sri Lanka and Saudi Arabia have a very long background of ties. Acc
 ◼️
 
 [Data](articles/1b2943bf.json)
+
+---
+
+### Sri Lanka allows import of buses, go-karts, stiff penalties for unsold stocks
+
+*2024-12-21 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-import-of-buses-go-karts-stiff-penalties-for-unsold-stocks-195705/) · `en`
+
+ECONOMYNEXT – Sri Lanka has allowed the import of buses, special purpose vehicles like cranes and gully bowsers and small motorized vehicles like go karts with penalties if importers carry large unsold stocks for over three months.
+
+The first stage of import relaxation stated through a gazette issued on December 18.
+
+Sri Lanka has suffered imports controls, exchange controls, depreciation and social unrest due to initially central bank re-finance of rural credit, purchase of maturing debt from past deficits to keep rates down (direct market operations) and inflationary open market operations after the end of a civil war.
+
+Sri Lanka’s central bank has cut rates to 8.00 percent and also started a ‘single policy rate’ ahead of opening vehicle imports.
+
+Analysts had warned that it could lead to a credit shock being accommodated by the central bank with negative consequence on the exchange rate, which is in any under an inconsistent policy.
+
+...
+
+[Data](articles/79747911.json)
 
 ---
 
@@ -428,6 +448,26 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
+### Fitch upgrades Sri Lanka out of default despite holdout Hamilton Reserve
+
+*2024-12-21 07:57:00* · [`economynextcom`](https://economynext.com/fitch-upgrades-sri-lanka-out-of-default-despite-holdout-hamilton-reserve-195663/) · `en`
+
+ECONOMYNEXT- Fitch Ratings said it was upgrading Sri Lanka’s foreign currency rating out of restricted default (RD) status, to CCC+ after 98 percent of bondholders accepted an offer to restructure defaulted bonds with new securities issued on December 20.
+
+“The upgrade of the Long-Term Foreign-Currency IDR (issuer default rating) reflects Fitch’s assessment that Sri Lanka has normalised relations with a majority of creditors, after the announcement of final results of the invitation to exchange the outstanding stock of international sovereign bonds…” the rating agency said.
+
+“One bond series with non-aggregated collective action clauses did not meet the required 75 percent level.
+
+“Without this bond series, the acceptance results imply a restructuring of 96% of total commercial external debt.”
+
+The series that did not meet the threshold was a 2022 bond where Hamilton Reserve, a holdout investors hold about 25 percent of the outstanding.
+
+...
+
+[Data](articles/1e32ff63.json)
+
+---
+
 ### ජර්මනියේ නත්තල් වෙළෙඳපොළක අනතුරක්
 
 *2024-12-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204571) · `si`
@@ -448,6 +488,28 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
+### Sri Lanka repays local ISB holders with up to 18-year rupee bonds
+
+*2024-12-21 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-repays-local-isb-holders-with-up-to-18-year-rupee-bonds-195629/) · `en`
+
+ECONOMYNEXT – Sri Lanka has repaid defaulted local bondholders with floating rate rupee bonds maturing between March 2023 to September 2043, as part of restructuring of a defaulted ISBs carried out on December 20.
+
+Sri Lanka has issued 8 tranches of bonds of 19.46 billion rupees to local bondholders totaling 155.7 billion rupees.
+
+The local bondholders, mainly banks, which had seen bad loans hurting capital, do not face a principal reduction.
+
+The bonds will be paid a coupon 50 basis points above the central banks standing lending facility rate.
+
+The SLFR rate used will be the six-month historical average calculated 30 days before the interest payment date.
+
+Foreign holders could also opt for the local option up to a ceiling.
+
+...
+
+[Data](articles/cf7fa6f1.json)
+
+---
+
 ### ඇතැම් ස්ථානවල මීදුම් සහිත තත්ත්වයක්
 
 *2024-12-21 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204570) · `si`
@@ -463,6 +525,30 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/ff460fa6.json)
+
+---
+
+### Sri Lanka local body polls before April festival, provincial within 2025: President
+
+*2024-12-21 05:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-local-body-polls-before-april-festival-provincial-within-2025-president-195661/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to hold the once delayed elections for local bodies before the April New Year festival, after bringing a law to cancel nominations, President Anura Kumara Dissanayake said.
+
+“Even some of the parties that existed at the time nominations were called no longer exists,” President Dissanayake told reporters.
+
+“So we think the (old) nominations should be cancelled and new nominations should be called. We plan to bring the bill cancel nominations to parliament in January.
+
+“There are some problems relating to provincial council elections. So we hope to hold them during next year.”
+
+A so-called ‘delimitation committee’ must be appointed following an amendment to the Provincial Council law in 2017.
+
+Either the amendment must be reversed or the delimitation committee must decide new redraw electoral boundaries.
+
+President Dissanayake said there was no pressure from India to hold provincial elections.
+
+...
+
+[Data](articles/3f7320a2.json)
 
 ---
 
@@ -2267,103 +2353,5 @@ Following institutions on proposed schemes issued by the Central Bank are as fol
 [Data](articles/80c4b784.json)
 
 [Extended Data](ext_articles/80c4b784.ext.json)
-
----
-
-### Sri Lanka cannot decide on Adani wind project until court decision: Minister
-
-*2024-12-20 14:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-cannot-decide-on-adani-wind-project-until-court-decision-minister-195514/) · `en`
-
-ECONOMYNEXT – Sri Lanka cannot make a final decision on a proposed wind power plant by India’s Adani group as there was an ongoing court case, Foreign Minister Vijitha Herath said.
-
-“That case is before courts,” Herath told reporters Friday. “The court has not given a decision yet.”
-
-Sri Lanka cannot make a final decision until the court decision comes, he said.
-
-Activists petitioned courts saying the wind plant caused environmental harm.
-
-The wind farm in Mannar in particular had come under fire after a tender to purchase power was decided without competitive bidding was sharply higher than prices by competitive bidding for the same area.
-
-Sri Lanka however is going ahead with an Adani-backed container terminal in the Port of Colombo. Tax breaks for the projects were tabled in parliament. (Colombo/Dec20/2024)
-
-◼️
-
-[Data](articles/f0ebea04.json)
-
-[Extended Data](ext_articles/f0ebea04.ext.json)
-
----
-
-### Former representatives of the presidential fund…
-
-*2024-12-20 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201733) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Presidential Fund misuse: Former officials receive large sums for medical expenses, while common citizens get minimal aid. Critics argue this practice is unfair and difficult for the president to justify.
-
-🟩
-
-How to accept the use of the President's Fund for the medical expenses of the poor people for the use of MPs and ministers for their medical expenses?Are they not so difficult for the president to take financial money?From 2005 to 2024, the National People's Power recently exposed the details of those who received money from the Presidential Fund for their exclusive medical expenses.. Former Prime Minister DMK Jayaratne has received Rs 3 crore, former minister Keheliya one and a half crore rupees and former minister Rajitha Senaratne has received Rs.. The amount of treatment is available to a person who is usually sick is his treatment. But all politicians have received ten lakhs.
-
-◼️
-
-[Data](articles/03c74de4.json)
-
-[Extended Data](ext_articles/03c74de4.ext.json)
-
----
-
-### Rs. 5 million mobile telecommunications accessories arrested
-
-*2024-12-20 14:27:38* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-5ක-ජංගම-දුරකතන-හා-සන්නිවේදන-උපාංග-තොගයක්-අල්ලයි/11-413756) · `si`
-
-Sri Lanka: Mobile accessories worth Rs. 5 million seized at Katunayake airport. Three businessmen arrested for smuggling 309 phones, 8 watches, and other items. Investigation ongoing.
-
-🟩
-
-Katunayake airport customs customs have been arrested by the Katunayaka airport on 12/20.
-
-The first two passengers were 12/20 days at 12.30 am on Dubai to the Katunayake airport.
-
-The two were 38-year-old and 25-year-old businessmen from Colombo.
-
-Another 32, a 32 year old resident of Colombo, from Dubai to SriLankan Airlines to the Katunayake airport on the 226-owned airport.
-
-They brought 309 mobile phones, 08 cuckle watches, five smarter clocks, five roughs, five roughs, five-brdsHad been arrested.
-
-Katunayake Airport Customs officers have further investigations and investigate further investigations.
-
-◼️
-
-[Data](articles/a7b9d41e.json)
-
-[Extended Data](ext_articles/a7b9d41e.ext.json)
-
----
-
-### The death sentence imposed on five, including Vas Gunawardena, is firm
-
-*2024-12-20 14:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாஸ்-குணவர்தன-உள்ளிட்ட-ஐவருக்கு-விதிக்கப்பட்ட-மரண-தண்டனை-உறுதியானது/175-349008) · `ta`
-
-Supreme Court affirms death sentences for five, including ex-police officer Vas Gunawardena, for businessman Mohamed Shyam's murder.
-
-🟩
-
-The Supreme Court has upheld the death sentence imposed by a three -member judge of the Colombo High Court for five defendants, including former Deputy Inspector General of Police Vas Gunawardena in connection with the murder of businessman Mohamed Shyam.
-
-Former Deputy Inspector General of Police Vas Gunawardena, his son Ravindu Gunawardena and five accused in the case were produced before the court today.
-
-Colombo High Court Judge Aditya Patabandike informed the defendants that the High Court has rejected the appeals filed by the defendants against the sentence.
-
-Accordingly, Judge Aditya Patapandike told the defendants that the High Court has upheld the death sentence imposed by a three -member panel of judges of the Colombo High Court.An
-
-◼️
-
-[Data](articles/71b34038.json)
-
-[Extended Data](ext_articles/71b34038.ext.json)
 
 ---

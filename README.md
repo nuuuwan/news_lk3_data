@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 18:35:36**
+As of **2024-12-21 18:45:13**
 
 ## Newspaper Stats
 
-*Scraped **61,341** Articles*
+*Scraped **61,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,841
-adaderanalk | 7,484
+adaderanalk | 7,485
 tamilmirrorlk | 8,770
 virakesarilk | 10,122
-adaderanasinhalalk | 10,598
+adaderanasinhalalk | 10,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,109 (99.6%) of 61,341 articles have been extended.
+61,111 (99.6%) of 61,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### තායිවාන පාර්ලිමේන්තුව කණපිට හරවයි
+
+*2024-12-21 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204594) · `si`
+
+තායිවානයේ ප්‍රධාන විපක්ෂය වන ක්වාමින්ග්ටාන් පක්ෂය යෝජනා කළ නව කෙටුම්පතක් මුල් කරගෙන එරට පාර්ලිමේන්තුවේ නොසන්සුන් තත්ත්වයක් උද්ගතවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මතභේදයට තුඩු දී ඇති විපක්ෂයේ යෝජනා මගින් අධිකරණ පද්ධතියේ සංශෝධන මෙන්ම නුසුදුසු රජයේ නිලධාරීන් ධුරයෙන් පහකිරීම සම්බන්ධ නව නීති හඳුන්වාදී තිබුණි.
+
+කෙසේ වුවද පාලක ප්‍රජාතන්ත්‍රවාදී ප්‍රගතිශීලි පක්ෂය පවසන්නේ යෝජිත නීති එරට ව්‍යවස්ථාවට පටහැනි බවය.
+
+ඒ අනුව පාලක පක්ෂයේ මන්ත්‍රීවරුන් සභා ගර්භයට ඇතුළු වීම වැළැක්වීමට විපක්ෂය කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/67118c2c.json)
+
+---
+
+### අපිරිසිදු ආපනශාලා සොයා පිටකොටුවේ සිදුකළ හදිසි වැටලීම
+
+*2024-12-21 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204593) · `si`
+
+කොළඹ පිටකොටුව බෝධිරාජා මාවතේ ඇති ආපනශාලා ජින්තුපිටිය සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයේ නිලධාරීන් සහ මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් අද (21) පෙරවරුවේ හදිසි වැටලීමක් සිදුකර තිබේ.
+
+එහිදී ඇතැම් ආපනශාලා ඉතා අපිරිසිදු තත්ත්වයේ පැවැති අතර මුළුතැන්ගෙය ආශ්‍රිතව ආහාර පිසින ස්ථානයන් හී මීයන්ගේ අසූචි පැවතීම සහ මීයන්ගේ අසූචි ආහාර පිසින භාජනවලට එකතු කිරීම නිලධාරීන්ගේ දැඩි දෝෂ දර්ශනයට ද ලක් විය.
+
+තවද ඇතැම් ආපනශාලා හී ආහාර පිසින ස්ථානයන් හි සුරතල් බළලුන් පවා සිටින අයුරුද මෙහිදි දක්නට ලැබිණි.
+
+වැටලීම් සිදුකරනු ලබන අවස්ථාවේදී ආපනශාලා හිමිකරුවන් සහ අදාළ නිලධාරීන් අතර උණුසුම් තත්ත්වයක්ද නිර්මාණය වූ අතර ඇතැම් වෙළෙඳසැල් හිමියන් පැවසුවේ මීයන් ගහනය වැඩි බවත් නගර සභාව විසින් මේ සඳහා පිළියම් යෙදීමක් සිදු නොකරන බවත්ය.
+
+මෙහිදී සෞඛ්‍ය වෛද්‍ය නිලධාරීවරයා අදාළ වෙළෙඳසැල් වෙත දැඩි ලෙස අවවාද කර ඇති අතර කෑම සකස් කිරීම සඳහා කැඩී බිඳි ගිය නුසුදුසු ප්ලාස්ටික් භාජන ඉවත් කරන ලෙසද ආපනශාලා හිමියන් වෙත උපදෙස් ලබා දුන්නේය.
+
+තවද අපිරිසිදු ලෙස ආහාර පිසින ලද ආපන ශාලා සියල්ලටම නඩු පැවරීමටද අදාළ නිලධාරීන් පියවර ගනු ලැබීය.
+
+◼️
+
+[Data](articles/3934b758.json)
+
+---
+
+### Sri Lanka repays local ISB holders with new rupee bonds
+
+*2024-12-21 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104402/sri-lanka-repays-local-isb-holders-with-new-rupee-bonds) · `en`
+
+Sri Lanka has repaid defaulted local bondholders with floating-rate rupee bonds, maturing between March 2023 and September 2043, as part of the restructuring of defaulted International Sovereign Bonds (ISBs), which was completed on December 20.
+
+Sri Lanka has issued 8 tranches of bonds of Rs. 19.46 billion to local bondholders totaling Rs. 155.7 billion.
+
+The local bondholders, mainly banks, which had seen bad loans hurting capital, do not face a principal reduction, according to the Central Bank of Sri Lanka (CBSL).
+
+The bonds will carry a coupon rate 50 basis points above the central bank’s Standing Lending Facility (SLF) rate. The SLF rate used will be the six-month historical average, calculated 30 days prior to the interest payment date.
+
+◼️
+
+[Data](articles/2b89b9c9.json)
+
+---
 
 ### Another accident on Colombo-Kandy road
 
@@ -178,21 +236,27 @@ The Elections Commission also stated that steps will be taken to provide a list 
 
 ---
 
-### தம்புள்ளையில் தென்னந்தோப்பில் காட்டு யானைகள் அட்டகாசம் !
+### Wild elephants at Dambulla
 
 *2024-12-21 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201816) · `ta`
 
-தம்புள்ளை, வெவலவெவ, அலகொலவெவ பிரதேசத்தில் உள்ள 30 ஏக்கர் தென்னந்தோப்பு ஒன்றிற்குள் புகுந்த காட்டு யானைகள் கூட்டம் பல தென்னை மரங்களை சேதப்படுத்தியுள்ளதாக பிரதேசவாசிகள் தெரிவித்துள்ளனர்.
+Wild elephants in Dambulla damage coconut trees. Residents report issue lasting 10 years. Owners seek government intervention.
 
-சுமார் 10 ஆண்டு காலமாக தென்னந்தோப்புகளில் அவ்வப்போது காட்டு யானைகள் புகுந்து அட்டகாசம் செய்து வருகின்றதாக பிரதேசவாசிகள் தெரிவித்துள்ளனர்.
+🟩
 
-இந்த பிரச்சனைக்கு இதுவரை எந்த தீர்வும் கிடைக்கவில்லை என தென்னந்தோப்புகளின் உரிமையாளர்கள் தெரிவிக்கின்றனர்.
+Residents have said that the crowds of wild elephants in Dambulla, Walawewa and Alaolawewa area have damaged many coconut trees.
 
-எனவே, இந்த விடயம் தொடர்பில் அதிகாரிகள் கவனம் செலுத்த வேண்டுமென பிரதேசவாசிகளும் தென்னந்தோப்புகளின் உரிமையாளர்களும் கோரிக்கை விடுத்துள்ளனர்.
+Residents have said that wild elephants have been in the South for about 10 years.
+
+Owners of the South Societies say that there is no solution to the problem.
+
+Therefore, the residents and the owners of the south have called for the authorities to pay attention to the issue.
 
 ◼️
 
 [Data](articles/4ddc542f.json)
+
+[Extended Data](ext_articles/4ddc542f.ext.json)
 
 ---
 
@@ -209,6 +273,8 @@ Similarly, the price of 24-carat gold has increased by Rs. 2,000, bringing it to
 ◼️
 
 [Data](articles/ca111a4f.json)
+
+[Extended Data](ext_articles/ca111a4f.ext.json)
 
 ---
 
@@ -2255,91 +2321,5 @@ The ambassador, Julie Song, who praised the new government's attempts to uphold 
 [Data](articles/72686f8b.json)
 
 [Extended Data](ext_articles/72686f8b.ext.json)
-
----
-
-### Shooting at Kalutara Tourism Hotel
-
-*2024-12-20 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204567) · `si`
-
-Here's a summary of the incident in 200 characters:
-
-
-
-"Gunfire erupts at Kalutara tourist hotel after security clash with rowdy youths. No injuries reported. Police investigating."
-
-🟩
-
-Police say a shooting took place at a Kalutara tourist hotel.
-
-Kalutara South Police said that the hotel was shot dead to control a clash between security personnel and outside youths.
-
-Police say that a group of youths on the beach in front of the tourist hotel have been drinking, police said.
-
-According to the police, one security officer had assaulted and found that a high management officer of the hotel where the hotel remained in the place was shot dead by its registration firearm.
-
-No one was injured in the shooting and the youths have fled and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/9dc8a5c1.json)
-
-[Extended Data](ext_articles/9dc8a5c1.ext.json)
-
----
-
-### Firing in the empty
-
-*2024-12-20 20:16:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-துப்பாக்கிச்சூடு/175-349011) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Shooting incident in Galle-Talalla: One person injured, admitted to Karapitiya hospital. Two men on a motorcycle reportedly killed while riding.
-
-🟩
-
-One person was injured in a shooting in Galle - Talalla area and was admitted to the Karapitiya hospital, police said.
-
-It is reported that two men on a motorcycle were shot dead when the man was traveling on a motorcycle.. Remble
-
-◼️
-
-[Data](articles/161186bf.json)
-
-[Extended Data](ext_articles/161186bf.ext.json)
-
----
-
-### Local Government Election - President Anuragumara Dissanayake
-
-*2024-12-20 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/201771) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Local govt & provincial council elections next year: President Anura Kumara Dissanayake meets Buddhist leaders, receives blessings. Political discussions & future tasks mentioned."
-
-🟩
-
-President Anuragumara Dissanayake has said that the local government elections will be held ahead of the Sinhala and Tamil New Year next year.
-
-The President also said that the provincial council election will also be held within the next year. President Anura Kumara Dissanayake met Malwathu and Asgiriya Mahanayaka Thera and received blessings.
-
-President Malwathu Mahanayaka Thera Vana first visited the Malwathu Vihara. Tedaduwaway met Sri Sumangala Thera and inquired about him and discussed it.
-
-The current political situation and the recent visit to the President were discussed.
-
-Subsequently, the Maha Sangha led by Malwathu Mahanayaka Thera recited the Seth Prith and blessed the President.
-
-President Anura Kumara Dissanayake, who then visited the Asgiriya Vihara, the Mahanayaka Thera of the Asgiriya Faculty. Varakagoda met Sri Gnanarathana Thera and blessed.
-
-...
-
-[Data](articles/cf8ee80b.json)
-
-[Extended Data](ext_articles/cf8ee80b.ext.json)
 
 ---

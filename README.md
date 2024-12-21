@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 18:03:39**
+As of **2024-12-21 18:35:36**
 
 ## Newspaper Stats
 
@@ -26,47 +26,59 @@ adaderanasinhalalk | 10,598
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,106 (99.6%) of 61,341 articles have been extended.
+61,109 (99.6%) of 61,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### කොළඹ - නුවර මාර්ගයේ තවත් අනතුරක්
+### Another accident on Colombo-Kandy road
 
 *2024-12-21 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204592) · `si`
 
-කොළඹ - නුවර මාර්ගයේ උතුවන්කන්ද ප්‍රදේශයේ නුවර දෙසට ධාවනය වෙමින් තිබු  ලොරි රථයක් රියදුරුට පාලනයෙන් ගිලිහි අනතුරක් සිදුව තිබේ.
+Colombo-Kandy road accident: Lorry damaged, driver arrested, investigation ongoing.
 
-එහිදී අදාළ ලොරි රථය තවත් ලොරියක හා ගොඩනැගිලි දෙකකට හානි කරමින් අනතුරට පත්ව ඇතැයි කෑගල්ල පොලීසිය පවසයි.
+🟩
 
-මහනුවර සිට කොළඹ බලා ධාවනය වු ලොරි රථයේ රියදුරා හා සහයකයා ආහාර ගැනීම සඳහා හෝටලයක් ආසන්නයේ සිය ලොරි රථය නවතා තිබේ.
+A lorry that was traveling to Kandy on the Colombo-Kandy road has been in control of the driver.
 
-එහිදී කොළඹ සිට නුවර දෙසට ධාවනය වු ලොරි රථයේ රථයේ රියදුරාට නින්ද යාම හේතුවෙන් මාර්ගයේ දකුණු පසට ධාවනය වි නවතා තිබු ලොරියේ වැදි මෙම අනතුර සිදුව තිබේ.
+The lorry was damaged by another lorry and two buildings.
 
-අනතුරින් කිසිවෙකුටත් හානි සිදුවී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් අදාළ ලොරි රථයේ රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The driver of the lorry and the assistant from Kandy to Colombo has parked his lorry near the hotel to eat.
 
-සිද්ධිය සම්බන්දයෙන් කෑගල්ල පොලීසිය  විමර්ශණ ආරම්භ කර ඇති අතර සිදුව ඇති හානිය තක්සේරු කර නොමැති බවද පොලීසිය පවසයි.
+The accident had taken place in the lorry south of the road due to the lorry driver in Colombo to Kandy.
+
+The lorry driver has been arrested by the vehicle of the lorry regarding the accident.
+
+The Kegalle Police have begun investigations into the incident and the damage has not been assessed.
 
 ◼️
 
 [Data](articles/4d0b4a22.json)
 
+[Extended Data](ext_articles/4d0b4a22.ext.json)
+
 ---
 
-### සහල් සොරකම් කළ දෙදෙනෙක් අත්අඩංගුවට
+### Two suspects who stole rice
 
 *2024-12-21 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204591) · `si`
 
-සහල් කිලෝ 1000කට ආසන්න ප්‍රමාණයක් සොරකම් කළ පුද්ගලයන් දෙදෙනෙකු කළුතර දකුණ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Kalutara South Police arrest two suspects stealing 1000kg rice from Central Junction shop. CCTV footage shows thieves using three-wheelers at night.
 
-මෙම සැකකරුවන් දෙදෙනා කළුතර සෙන්ට්‍රල් හන්දිය ප්‍රදේශයේ තොග වශයෙන් සහල් අලෙවි කරනු ලබන වෙළෙඳසැලක සහල් සොරකම් කර ඇත.
+🟩
 
-රාත්‍රී කාලයේදී ත්‍රිරෝද රථ දෙකක් යොදාගෙන සොරකම සිදුකරන ආකාරය අසල තිබූ වෙළෙඳසැලක CCTV කැමරාවක සටහන්වී තිබේ.
+The Kalutara South Police have arrested two persons who stole nearly 1000 kg of rice.
+
+The two suspects have stolen the rice of a shop selling rice in the Kalutara Central Junction.
+
+The CCTV camera of a CCTV camera has been recorded using two three wheelers during the night.
 
 ◼️
 
 [Data](articles/fdd74b15.json)
+
+[Extended Data](ext_articles/fdd74b15.ext.json)
 
 ---
 
@@ -85,6 +97,8 @@ Furthermore, Siriwardena stated that there is no room to repeat policy errors by
 ...
 
 [Data](articles/e21ffe01.json)
+
+[Extended Data](ext_articles/e21ffe01.ext.json)
 
 ---
 

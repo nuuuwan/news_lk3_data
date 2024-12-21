@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 05:27:11**
+As of **2024-12-21 05:50:48**
 
 ## Newspaper Stats
 
-*Scraped **61,266** Articles*
+*Scraped **61,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 456
 colombotelegraphcom | 620
 bbccomsinhala | 646
-islandlk | 3,704
+islandlk | 3,710
 economynextcom | 3,738
 dailyftlk | 4,254
 dailymirrorlk | 4,733
@@ -26,11 +26,71 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,037 (99.6%) of 61,266 articles have been extended.
+61,041 (99.6%) of 61,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### Stocks transit from gloom to radiance
+
+*2024-12-21 04:49:00* · [`islandlk`](http://island.lk/stocks-transit-from-gloom-to-radiance/) · `en`
+
+The stock market yesterday got off to a gloomy start but later became extremely bullish due to the settlement of bonds and the starting of debt servicing for external creditors.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 156 points while S and P SL20 rose by 30.3 points.
+
+Turnover touched Rs 9.2 billion with 26 crossings. Out of the turnover Rs 2.1 billion came from 26 crossings and 555 shares were transferred.
+
+In the retail market, top six performing companies that contributed to the turnover were; Sierra Cables Rs 508 million (40.3 million shares traded), HNB Rs 307 million (1.1 million shares traded), Royal Ceramic Rs 298 million (7.7 million shares traded), LMF Rs 293 million (6.5 million shares traded), Dipped Products Rs 259 million (4.7 million shares traded) and JKH Rs 24 million (11 million shares traded). During the day 897 million shares volumes changed hands in 43000 transaction.
+
+...
+
+[Data](articles/0d68a825.json)
+
+---
+
+### Tourist Service Center and Welcome Center in North Central Province
+
+*2024-12-21 04:48:00* · [`islandlk`](http://island.lk/tourist-service-center-and-welcome-center-in-north-central-province/) · `en`
+
+A significant milestone in Sri Lanka’s tourism development was marked on 12th December 2024 with the opening and transfer ceremony of the Tourist Service Center and Welcome Center in Habarana, North Central Province. The project, launched in collaboration between Sri Lanka and the Republic of Korea in 2021, represents a step forward in promoting sustainable tourism and empowering local communities.
+
+The ceremony was attended by Mr. Wasantha Kumara Wimalasiri, Governor of the North Central Province, Mr. S.L. Nazeer, Additional Secretary of the Ministry of Foreign Affairs, Foreign Employment, and Tourism, and Mr. Buddhika Hewawasam, Chairman of the Sri Lanka Tourism Development Authority (SLTDA). Ms. Jung Sohngyee, Deputy Head of Mission of the Korean Embassy in Sri Lanka, and Mr. Park Jung Woong from the Korea Tourism Organization (KTO) participated from Korean side.
+
+...
+
+[Data](articles/fbb3ff44.json)
+
+---
+
+### Sparkle of Christmas in three stunning new collections
+
+*2024-12-21 04:47:00* · [`islandlk`](http://island.lk/sparkle-of-christmas-in-three-stunning-new-collections/) · `en`
+
+CJS unveiled three spectacular collections for the Christmas season combining the stunning beauty of the Orca and the majestic leopard together with The Christmas Wish Collection, which showcased a magnificent gem-studded collection to add flair and style for the Christmas season. CJS also opened a new pop-up space – The Jewel Loft – on the fourth floor of the CJS Heritage Store to showcase designs by emerging jewellery designers.
+
+...
+
+[Data](articles/6600693a.json)
+
+---
+
+### NDB’s Santa promotion nears its end
+
+*2024-12-21 04:46:00* · [`islandlk`](http://island.lk/ndbs-santa-promotion-nears-its-end/) · `en`
+
+NDB Bank’s much-loved tradition of bringing Santa to your doorstep is drawing to a close. With just a few days remaining until the 31st of December 2024, families still have the chance to welcome Santa home and create magical memories that will last a lifetime.
+
+Parents can delight their children by simply making a deposit of Rs. 50,000 or more into their child’s NDB Shilpa Children’s Savings Account. As part of this festive tradition, your child will receive a special gift of their choice, delivered right to your doorstep by Santa himself – spreading the joy and wonder of Christmas like never before.
+
+The NDB Shilpa Children’s Savings Account encourages children to embrace the importance of saving from an early age, with a range of exclusive benefits such as double interest rates, special gift schemes, free hospitalisation cover, life insurance cover, and academic rewards for excellence in key examinations.
+
+...
+
+[Data](articles/9e7b7632.json)
+
+---
 
 ### President discussion with government principals
 
@@ -1490,6 +1550,8 @@ Sri Lanka temporarily banned foreign research ships for one-year citing it wants
 
 [Data](articles/103deee8.json)
 
+[Extended Data](ext_articles/103deee8.ext.json)
+
 ---
 
 ### Nearly 4 billion brain-related diseases around the world
@@ -1676,6 +1738,8 @@ Sri Lanka however is going ahead with an Adani-backed container terminal in the 
 
 [Data](articles/f0ebea04.json)
 
+[Extended Data](ext_articles/f0ebea04.ext.json)
+
 ---
 
 ### Former representatives of the presidential fund…
@@ -1700,23 +1764,31 @@ How to accept the use of the President's Fund for the medical expenses of the po
 
 ---
 
-### රු. කෝටි 5ක ජංගම දුරකතන හා සන්නිවේදන උපාංග තොගයක් අල්ලයි
+### Rs. 5 million mobile telecommunications accessories arrested
 
 *2024-12-20 14:27:38* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-5ක-ජංගම-දුරකතන-හා-සන්නිවේදන-උපාංග-තොගයක්-අල්ලයි/11-413756) · `si`
 
-රුපියල් කෝටි පහක් පමණ වටිනා ජංගම දුරකථන ඇතුළු විද්‍යුත් සන්නිවේදන උපකරණ තොගයක් සමග ඒවා නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ ගුවන් මගීන් තිදෙනකු  12/20 දින කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ.
+Sri Lanka: Mobile accessories worth Rs. 5 million seized at Katunayake airport. Three businessmen arrested for smuggling 309 phones, 8 watches, and other items. Investigation ongoing.
 
-මොවුන් අතරින් පළමු ගුවන් මගීන් දෙදෙනා 12/20 දින අලුයම 12.30 ට ඩුබායි සිට එෆ්.ඉසෙඩ්.- 569 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+🟩
 
-ඔවුන් දෙදෙනා කොළඹ ප්‍රදේශයේ පදිංචි 38 හැවිරිදි සහ 25 හැවිරිදි ව්‍යාපාරිකයන් දෙදෙනෙකි .
+Katunayake airport customs customs have been arrested by the Katunayaka airport on 12/20.
 
-එසේම තවත් කොළඹ ප්‍රදේශයේ පදිංචි 32 හැවිරිදි ව්‍යාපාරිකයෙකු 12/20 දින උදෑසන 09.45 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+The first two passengers were 12/20 days at 12.30 am on Dubai to the Katunayake airport.
 
-ඔවුන් විසින් රැගෙන ආ  ජංගම දුරකථන 309 ක් , ටැබ් පරිගණක 08 ක් , ජංගම දුරකථන උපාංග  , ලැප්ටොප් 12 ක් , මැක් බුක් 02 ක් , අයි පෑඩ් 04 ක් , ස්මාර්ට් වර්ගයේ ඔරලෝසු 20 ක් ,  රවුටර් 05 ක් , ඉයර් බඩ්ස් 30 ක් රේගු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි .
+The two were 38-year-old and 25-year-old businessmen from Colombo.
 
-...
+Another 32, a 32 year old resident of Colombo, from Dubai to SriLankan Airlines to the Katunayake airport on the 226-owned airport.
+
+They brought 309 mobile phones, 08 cuckle watches, five smarter clocks, five roughs, five roughs, five-brdsHad been arrested.
+
+Katunayake Airport Customs officers have further investigations and investigate further investigations.
+
+◼️
 
 [Data](articles/a7b9d41e.json)
+
+[Extended Data](ext_articles/a7b9d41e.ext.json)
 
 ---
 
@@ -1949,6 +2021,8 @@ Although aimed at offsetting the country’s revenue losses from higher tax-free
 ...
 
 [Data](articles/7eeaf544.json)
+
+[Extended Data](ext_articles/7eeaf544.ext.json)
 
 ---
 
@@ -2331,99 +2405,5 @@ After receiving the affidavit, the police said that all would be produced before
 ...
 
 [Data](articles/c0bbdffa.json)
-
----
-
-### “Two political bribes are not contesting”
-
-*2024-12-20 12:28:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-இலஞ்சம்-பெற்ற-இருவர்-போட்டியிடவில்லை/175-349000) · `ta`
-
-"Two former MPs agreed to recommend liquor store licenses without contesting recent elections. 361 licenses issued, sparking political bribery allegations. High Court case pending on district liquor store limits."
-
-🟩
-
-Two of our MPs agreed that they were allowed to set up liquor stores. Jaffna has not contested the election. Former parliamentarian MA Sumanthiran said.
-
-He said this while participating in a press conference held at the Jaffna Vadamarachchi Media House in VM Road in Point Pedro on Thursday (19).
-
-Each district has a definition of liquor schools permits.. But they did not contest the election this time.
-
-361 liquor schools have been granted permission in the past. This is a political bribery. These have been made on the recommendation of MPs. It was announced during the election campaign that we would reveal this. But even though all the liquor schools were allowed, they were given in the recommendation of any MPs.
-
-This is a type of political bribery. The High Court has a case regarding how many schools a district should be located. I hope that its verdict will be released in January.
-
-...
-
-[Data](articles/15184fb9.json)
-
-[Extended Data](ext_articles/15184fb9.ext.json)
-
----
-
-### Vass Gunawardena has been condemned and the death penalty
-
-*2024-12-20 12:18:59* · [`adalk`](https://www.ada.lk/breaking_news/වාස්-ගුණවර්ධන-ඇතුළු-5ට-පැණවූ-මරණ-දඩුවම-තහවුරුයි/11-413750) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former DIG Vass Gunawardena sentenced to death penalty. Son Ravindu also implicated. Case presented in Colombo High Court. Supreme Court to hear appeals against punishment.
-
-🟩
-
-The death penalty for former DIG Vaas Gunawardena, including former DIG Vass Gunawardena, has confirmed by former DIG Vass Gunawardena.
-
-Former DIG Vass Gunawardena, his son Ravindu Gunawardena, his son Ravindu Gunawardena, his son Ravindu Gunawardena, his son, Ravindu Gunawardena, was presented to the Colombo High Court today (20).
-
-The Supreme Court informed the appeals by the defendants against punishment.
-
-◼️
-
-[Data](articles/3454dc31.json)
-
-[Extended Data](ext_articles/3454dc31.ext.json)
-
----
-
-### Check fraud: former MP arrested
-
-*2024-12-20 12:16:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காசோலை-மோசடி-முன்னாள்-எம்-பி-கைது/175-348999) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Former MP Dileepan and his former secretary Dinesh arrested by Vavuniya police for fraud involving 20 lakhs rupees related to a lease deal. Produced before Vavuniya court.
-
-🟩
-
-Former Member of Parliament. Dileepan and his former secretary Dinesh have been arrested by the Vavuniya police and produced before the Vavuniya court.
-
-20 lakhs of rupees was arrested by police in connection with a lease. Both were produced before the Vavuniya Court.
-
-◼️
-
-[Data](articles/64c16818.json)
-
-[Extended Data](ext_articles/64c16818.ext.json)
-
----
-
-### ශ්‍රී ලංකා රජයේ බදු සංශෝධන ගැන IMF ස්ථාවරය
-
-*2024-12-20 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204546) · `si`
-
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය වැඩසටහන යටතේ අමෙරිකානු ඩොලර් මිලියන 333ක මීළඟ ණය වාරිකය නිකුත් කිරීම සඳහා IMF විධායක අධ්‍යක්ෂ මණ්ඩලය විසින් ණය වැඩසටහනේ තුන්වැනි ඇගයීම ඉදිරි මාස කිහිපය තුළ සලකාබලන බව IMF සන්නිවේදන අධ්‍යක්ෂිකා ජුලි කොසැක් මහත්මිය පවසයි.
-
-ශ්‍රී ලංකා රජය විසින් ඊට අදාළ පූර්ව ක්‍රියාමාර්ග සම්පූර්ණ කිරීමෙන් පසු එම සලකා බැලීම සිදුකරන බව ඊයේ (19) පැවැති මාධ්‍ය හමුවේදී ජූලි කොසැක් මහත්මිය සඳහන් කළාය.
-
-එසේම ජනාධිපතිවරයා විසින් ප්‍රකාශයට පත්කරන ලද බදු සංශෝධන ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ඉදිරියේදී සමාලෝචනය කරන බවත් ඇය පැවසුවාය.
-
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ සවිස්තරාත්මක විග්‍රහය මීළඟ ණය වාරිකය අනුමත කිරීමෙන් පසු පළකරන වාර්තාවට IMF කාර්ය මණ්ඩලයේ වාර්තාවට ඇතුළත් කරන බවද ඇය කියා සිටියාය.
-
-...
-
-[Data](articles/0df29726.json)
 
 ---

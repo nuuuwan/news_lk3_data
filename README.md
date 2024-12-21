@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 20:26:59**
+As of **2024-12-21 21:00:48**
 
 ## Newspaper Stats
 
-*Scraped **61,345** Articles*
+*Scraped **61,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 3,710
 economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,841
-adaderanalk | 7,485
+adalk | 5,842
+adaderanalk | 7,486
 tamilmirrorlk | 8,770
 virakesarilk | 10,122
-adaderanasinhalalk | 10,601
+adaderanasinhalalk | 10,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,121 (99.6%) of 61,345 articles have been extended.
+61,126 (99.6%) of 61,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### බලපෑමට ලක්වූ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ට ලැබෙන සහන
+
+*2024-12-21 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204596) · `si`
+
+පාස්කු ඉරිදා ප්‍රහාරය, කොවිඩ් 19 වසංගතය සහ මෑතකාලින අහිතකර සාර්ව ආර්ථික තත්ත්වයන් හේතුවෙන් බලපෑමට ලක්වූ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ට සහන සැලසීම වෙනුවෙන් ශ්‍රී ලංකා මහ බැකුව විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන්ව ඇත්තේ ණය සහන සැලසීම සිදු කෙරෙමින් පවතින බැවින්, පරාටේ නීතිය ක්‍රියාත්මක කිරීම අත්හිටුවීම 2025 වසරේ මාර්තු මස 31 වැනිදායින් ඔබ්බට සිදුකිරීමේ අවශ්‍යතාවක් නොවන බව.
+
+2024 දෙසැම්බර් 15 දිනට ගෙවිය යුතු මුළු හිඟ ණය ප්‍රාග්ධනය රුපියල් මිලියන 25ට අඩු, රුපියල් මිලියන 25ත් 50ත් අතර සහ රුපියල් මිලියන 50ට වැඩි සුදුසුකම්ලත් කුඩා හා මධ්‍ය පරිමාණ ණය ගනුදෙනුකරුවන් විසින් පිළිවෙළින් 2025 දෙසැම්බර් 31, 2025 සැප්තැම්බර් 30 සහ 2025 ජූනි 30 වැනි දිනයන්ට පෙර ප්‍රතිලේඛනගත කළ ණය ආපසු ගෙවීම ආරම්භ කළ යුතු බවය.
+
+බලපෑමට ලක්වූ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ට සහන සැලසෙන්නේ මෙහෙමයි by poornima on Scribd
+
+◼️
+
+[Data](articles/fe232883.json)
+
+---
 
 ### More information on Hatton Bus Junction
 
@@ -67,6 +85,24 @@ The driver had said the bus lost his control and opened the door and went out of
 [Data](articles/40d8242a.json)
 
 [Extended Data](ext_articles/40d8242a.ext.json)
+
+---
+
+### Surprise raid exposes alarming hygiene violations in Pettah restaurants
+
+*2024-12-21 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104403/surprise-raid-exposes-alarming-hygiene-violations-in-pettah-restaurants-) · `en`
+
+A surprise inspection conducted by the officers of the Jinthupitiya Medical Officer of Health (MOH) office and Public Health Inspectors (PHIs) this morning (21) has revealed alarming hygiene violations in several restaurants on Bodhiraja Mawatha, Pettah.
+
+The inspection uncovered unsanitary conditions, including the presence of rat droppings in kitchen areas and even inside cooking utensils. Pet cats were also observed roaming in food preparation areas, raising further concerns about hygiene standards.
+
+Restaurant owners came under heavy criticism for these violations. Some defended their establishments by blaming a surge in the rat population, which they claimed the Municipal Council had failed to address.
+
+The officials have issued strict warnings to the owners of the offending establishments. They were ordered to remove broken plastic utensils deemed unsuitable for food preparation and to take immediate steps to improve sanitation standards.
+
+...
+
+[Data](articles/3cd591e2.json)
 
 ---
 
@@ -583,6 +619,28 @@ The military’s Inter-Services Public Relations office said the sentences hande
 [Data](articles/e2e5e00e.json)
 
 [Extended Data](ext_articles/e2e5e00e.ext.json)
+
+---
+
+### Three killed as bus falls into precipice
+
+*2024-12-21 13:49:22* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයක්-ප්‍රපාතයකට-පෙරලී-තිදෙනෙක්-මරුට/11-413760) · `si`
+
+Bus crash kills 3, injures 46 near Hatton. Accident caused by mechanical failure. Victims taken to Dikoya Hospital.
+
+🟩
+
+Three persons who were traveling from Hatton to Kandy and three others were killed in the bus.
+
+46 persons injured in the accident have been admitted to the Dikoya Hospital and a 6-year-old boy, a woman and another person has been killed.
+
+The accident occurred at around 11 am in Hatton Malliupuwa. The accident had occurred due to a technical fault on the bus.
+
+◼️
+
+[Data](articles/f17812f2.json)
+
+[Extended Data](ext_articles/f17812f2.ext.json)
 
 ---
 
@@ -2295,93 +2353,5 @@ He said this while commenting to the media after meeting the Mahasanga. Remble
 [Data](articles/10ada0e7.json)
 
 [Extended Data](ext_articles/10ada0e7.ext.json)
-
----
-
-### Two persons, including a main suspect in connection with the shooting in the Meegoda area
-
-*2024-12-20 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201773) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrests made in Meegoda shooting case: Main suspect & accomplice detained. Ice seized. Dispute over wedding attendance led to gunfire. Further probes ongoing.
-
-🟩
-
-Two persons, including the main suspect in connection with the gunfight in the Meegoda police division, have been arrested by the Western Province Southern District Crime Division officials.
-
-A man who was traveling in a motorist in a motorist on the 14th of the Nagahawatte area of ​​the Meegoda Police Division was killed in a gunman.
-
-Investigations were carried out by the authorities regarding the incident. In this backdrop, the main suspect in connection with the crime on Wednesday morning on the Migoda Poomakwatte road was arrested by the Western Province Southern District Crime Branch.
-
-11 grams of 380 milligrams of ice has been seized from the suspect. Following the investigation into the suspect, a further suspect has been informed about the suspect. The suspect who assisted the crime has been arrested in the Kurunduwatte area.. Both suspects belong to the 27 and 29 -year -old Padukku and Megoda area.
-
-...
-
-[Data](articles/68cd1570.json)
-
-[Extended Data](ext_articles/68cd1570.ext.json)
-
----
-
-### Action Notification issued by the President
-
-*2024-12-20 21:34:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஜனாதிபதி-வெளியிட்ட-அதிரடி-அறிவிப்பு/150-349013) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake announces local gov't & provincial council elections for next year. Nominations to be reclaimed ahead of Tamil Sinhala New Year."
-
-🟩
-
-President Anura Kumara Dissanayake has said that the local government elections will be held ahead of the Tamil Sinhala New Year in the coming year.
-
-The President added that it would be appropriate to reclaim the nominations.
-
-The President made this statement while addressing the media after meeting Malwathu and Asgiri Mahanayaka Thera.
-
-Similarly, the provincial council election will be held next year, the President said. Remble
-
-◼️
-
-[Data](articles/86480a2e.json)
-
-[Extended Data](ext_articles/86480a2e.ext.json)
-
----
-
-### Professional decision on the new tax policy of the President
-
-*2024-12-20 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204568) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Professional unions welcome President's tax decision. GMOA General Secretary criticizes income tax impact on professionals. FUTA expresses concern over excessive tax burden. New policy expected from January, aiming for fair tax system.
-
-🟩
-
-Professionalist trade unions say they are happy with the President's decision on income taxes.
-
-The General Secretary of the Government Medical Officers Association, the General Secretary of the Government Medical Officers Association (GMOA), the General Secretary of the Government Medical Officers Association (GMOA) said that a large number of professionals had left the country due to the tax on trade.
-
-He also said that the professionalists were deeply impressed due to this tax system and that there were many agitations and strikes as a result of this.
-
-He also said that the decision to increase this tax limit is vital, "he is very important.
-
-As a result, professionals will meet with the presence of the Tax and to justify the Tax System and to justify the prevailing tax system and to justify their problems.
-
-Speaking at the Federation of University Teachers' Societies Associations (FUTA), a large number of taxes in the last two years has been charged, it has exceeded the expected tax revenue.
-
-...
-
-[Data](articles/8d495d11.json)
-
-[Extended Data](ext_articles/8d495d11.ext.json)
 
 ---

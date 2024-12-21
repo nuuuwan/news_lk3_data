@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 08:03:23**
+As of **2024-12-21 08:24:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,043 (99.6%) of 61,274 articles have been extended.
+61,045 (99.6%) of 61,274 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,6 +78,8 @@ CJS unveiled three spectacular collections for the Christmas season combining th
 
 [Data](articles/6600693a.json)
 
+[Extended Data](ext_articles/6600693a.ext.json)
+
 ---
 
 ### NDB’s Santa promotion nears its end
@@ -93,6 +95,8 @@ The NDB Shilpa Children’s Savings Account encourages children to embrace the i
 ...
 
 [Data](articles/9e7b7632.json)
+
+[Extended Data](ext_articles/9e7b7632.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 17:27:04**
+As of **2024-12-21 17:44:05**
 
 ## Newspaper Stats
 
-*Scraped **61,330** Articles*
+*Scraped **61,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,841
 adaderanalk | 7,480
-tamilmirrorlk | 8,769
-virakesarilk | 10,119
-adaderanasinhalalk | 10,595
+tamilmirrorlk | 8,770
+virakesarilk | 10,122
+adaderanasinhalalk | 10,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,102 (99.6%) of 61,330 articles have been extended.
+61,106 (99.6%) of 61,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### Plan to extend the time of running the lotus tower
+
+*2024-12-21 17:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-இயக்க-நேரத்தை-நீடிக்க-திட்டம்/175-349040) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Colombo Lotus Tower extended hours: Dec 25-26 (9am-midnight), Dec 27 (9am-11pm). Jan 1-2 (9am-1pm Jan 2).
+
+🟩
+
+It has been decided to extend the time to visit the Colombo Lotus Tower ahead of the festive season.
+
+Accordingly, the Lotus Tower will be opened for public viewing from 9 am to midnight on December 25 and 26, and will be operated from 9 am to 11 pm on December 27.
+
+Also, on December 31st and 1st of January will be open from 9am to 1pm on January 2nd 2pm. Remble
+
+◼️
+
+[Data](articles/fdc4abc3.json)
+
+[Extended Data](ext_articles/fdc4abc3.ext.json)
+
+---
+
+### Taliban attack on Pakistan army
+
+*2024-12-21 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204590) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Taliban attack on Pakistan army: 16 soldiers killed, 5 injured. Attack occurred at a military checkpoint near the Afghan border."
+
+🟩
+
+16 Pakistani soldiers were killed in the attack on the Taliban.
+
+Foreign media reports that the Talaban has been launched by the Talaban to a military checkpoint near the Afghan border near the Afghan border.
+
+Five soldiers were also injured in the attack.
+
+◼️
+
+[Data](articles/6d7b2abc.json)
+
+[Extended Data](ext_articles/6d7b2abc.ext.json)
+
+---
 
 ### To the Police Department, the names of the costs of the election
 
@@ -53,6 +105,62 @@ The Elections Commission also stated that steps will be taken to provide a list 
 [Data](articles/15c7edf5.json)
 
 [Extended Data](ext_articles/15c7edf5.ext.json)
+
+---
+
+### தம்புள்ளையில் தென்னந்தோப்பில் காட்டு யானைகள் அட்டகாசம் !
+
+*2024-12-21 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201816) · `ta`
+
+தம்புள்ளை, வெவலவெவ, அலகொலவெவ பிரதேசத்தில் உள்ள 30 ஏக்கர் தென்னந்தோப்பு ஒன்றிற்குள் புகுந்த காட்டு யானைகள் கூட்டம் பல தென்னை மரங்களை சேதப்படுத்தியுள்ளதாக பிரதேசவாசிகள் தெரிவித்துள்ளனர்.
+
+சுமார் 10 ஆண்டு காலமாக தென்னந்தோப்புகளில் அவ்வப்போது காட்டு யானைகள் புகுந்து அட்டகாசம் செய்து வருகின்றதாக பிரதேசவாசிகள் தெரிவித்துள்ளனர்.
+
+இந்த பிரச்சனைக்கு இதுவரை எந்த தீர்வும் கிடைக்கவில்லை என தென்னந்தோப்புகளின் உரிமையாளர்கள் தெரிவிக்கின்றனர்.
+
+எனவே, இந்த விடயம் தொடர்பில் அதிகாரிகள் கவனம் செலுத்த வேண்டுமென பிரதேசவாசிகளும் தென்னந்தோப்புகளின் உரிமையாளர்களும் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/4ddc542f.json)
+
+---
+
+### சிறந்த நடிகருக்கான விருதை வென்ற 'மக்கள் செல்வன்' விஜய் சேதுபதி
+
+*2024-12-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201804) · `ta`
+
+சென்னையில் நடைபெற்ற 22 ஆவது சென்னை சர்வதேச திரைப்பட விழாவில் சிறந்த தமிழ் திரைப்பட நடிகருக்கான விருது 'மகாராஜா' படத்தில் நடித்ததற்காக 'மக்கள் செல்வன்' விஜய் சேதுபதிக்கு வழங்கப்பட்டிருக்கிறது.
+
+கடந்த டிசம்பர் 12 ஆம் திகதி முதல் 19 ஆம் திகதி வரை தமிழக அரசின் அனுசரணையுடன் நடைபெற்ற 22 ஆவது சென்னை சர்வதேச திரைப்பட விழாவில் தமிழ் திரைப்படங்களுக்கான பட்டியலில் பல்வேறு பிரிவுகளின் கீழ் பத்திற்கும் மேற்பட்ட திரைப்படங்கள் திரையிடப்பட்டன.
+
+சிறந்த படத் தொகுப்பாளருக்கான விருது - பிலோமின் ராஜ் ( மகாராஜா) சிறந்த ஒலிப்பதிவாளருக்கான விருது சுரேன் ஜி- அழகிய கூத்தன் (கொட்டுக்காளி)
+
+சிறந்த திரைப்படத்திற்கான இரண்டாவது விருது - லப்பர் பந்து நடுவர்களின் விசேட விருது - ஜமா.
+
+சிறந்த பிரபல நடிகருக்கான நடுவர் விருது - யோகி பாபு (போட் மற்றும் கோழிப்பண்ணை செல்லத்துரை)
+
+இந்த பட்டியலில் இடம் பிடித்த அனைத்து நட்சத்திர கலைஞர்களுக்கும் சென்னை சர்வதேச திரைப்பட விழாவின் இறுதி நிகழ்வின்போது விருதுகள் வழங்கி கௌரவிக்கப்பட்டனர்.
+
+◼️
+
+[Data](articles/8676571b.json)
+
+---
+
+### U1 - திரைப்பட விமர்சனம்
+
+*2024-12-21 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201805) · `ta`
+
+தயாரிப்பு - லஹரி பிலிம்ஸ் எல் எல் பி & வீனஸ் என்டர்டெய்னர்ஸ்
+
+நடிகர்கள் : உபேந்திரா, ரேஷ்மா, சன்னி லியோன், கிஷோர் , சாது கோகிலா, முரளி சர்மா, ஜிஸ்ஸு சென் குப்தா மற்றும் பலர்.
+
+கன்னட திரையுலகின் முக்கிய படைப்பாளிகளில் ஒருவரான உபேந்திரா - பத்தாண்டு இடைவெளிக்குப் பிறகு இயக்கி, கதையின் நாயகனாக நடித்திருக்கும் ' U1 'எனும் திரைப்படம் - அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை காண்போம்.
+
+...
+
+[Data](articles/76441012.json)
 
 ---
 
@@ -106,43 +214,59 @@ Three people were killed and 46 were killed and 46 were killed and 46 were injur
 
 ---
 
-### රන් මිල සුළු වශයෙන් ඉහළට
+### Gold prices upward
 
 *2024-12-21 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204583) · `si`
 
-මෙරට රත්‍රං මිල ගණන් ඉහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+Here's a summary in 200 characters:
 
-ඒ අනුව අද (21) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 193,200ක් දක්වා ඉහළ ගොස් තිබේ.
 
-මේ අතර "කැරට් 24" රන් පවුමක මිල අද වනවිට රුපියල්  210,000ක් දක්වා රුපියල් 2,000කින් ඉහළ ගොස් ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+Gold prices surge: 22-carat gold in Colombo rises to 193,200; 24-karat gold increases to 280,000. Market data shows overall gold prices have grown.
+
+🟩
+
+The market data indicates that the prices of gold has increased.
+
+Accordingly, the prices of a 22 carrot prices in the gold market in Colombo this morning (21). Has risen to 193,200.
+
+Meanwhile, the price of a 280,000 karattle poultry has risen to Rs. 2,000 today.
 
 ◼️
 
 [Data](articles/360c97b1.json)
 
+[Extended Data](ext_articles/360c97b1.ext.json)
+
 ---
 
-### අසිත ග්ලැමෝගන් සමගින් ගිවිසුම් ගතවෙයි
+### Advisations with Asitha Glamegany
 
 *2024-12-21 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204582) · `si`
 
-ශ්‍රී ලංකා වේගපන්දු යවන ක්‍රීඩක අසිත ප්‍රනාන්දු එංගලන්තයේ ප්‍රධාන පෙළේ ප්‍රාත්ත ක්‍රිකට් සමාජයක් වන ග්ලැමෝගන් ක්‍රීඩා සමාජය සමගින් ගිවිසුම් ගත වී ඇත.
+Asitha Fernando joins Glovegan Sports Club in England, becoming first Sri Lankan player. He'll play 7 matches in April for Glamegon in Division Two English Cricket Tournament. At 27, he has 21 Test appearances and impressive recent performance with Sri Lankan team.
 
-ඒ අනුව ඔහු ග්ලැමෝගන් කණ්ඩායම නියෝජනය කරන පළමු ශ්‍රී ලාංකිකයා ක්‍රීඩකයා බවට පත්වනු ඇත.
+🟩
 
-කෙසේ නමුත් අසිත මීට පෙර එරට නොටින්හැම්ෂයර් ප්‍රාන්ත කණ්ඩායම වෙනුවෙන් ක්‍රීඩාකර තිබේ.
+Sri Lanka fast bowler, Asitha Fernando contracts with Glovegan Sports Club, a leading wicket club in England.
 
-එංගලන්ත ප්‍රාන්ත ක්‍රිකට් තරගාවලියේ දෙවැනි කාණ්ඩය (Division Two) යටතේ ග්ලැමෝගන් ක්‍රීඩා සමාජය ක්‍රීඩාකරන අතර, එම තරගාවලිය එළැඹෙන අප්‍රේල් මාසයේ දී ආරම්භවීමට නියමිතව ඇත.
+He will become the first Sri Lankan to represent Glovegan Team.
 
-අසිත එහි පළමු මාස ​​දෙක ග්ලැමෝගන් වෙනුවෙන් ක්‍රීඩාකරනු ඇත. එහිදී ඔහු එම කණ්ඩායම නියෝජනය කරමින් තරග 7ක් ක්‍රීඩාකිරීමට නියමිතය.
+However, initiar has been played for Nothinghamshire State.
 
-මේ වනවිට 27 වියේ පසුවන අසිත ශ්‍රී ලංකාව වෙනුවෙන් ටෙස්ට් තරග 21කට ක්‍රීඩාකර කඩුලු 72ක් දවාගෙන සිටියි.
+Glameoon Sports Club, games in the English Cricket Tournament (DIVISION TWO) is played in April.
 
-ශ්‍රී ලංකා කණ්ඩායම මෙම වසරේ සිදුකළ එංගලන්ත තරග සංචාරයේදී කැපී පෙනෙන දක්ෂතා දැක්වීමට ද අසිත සමත් වූ අතර, එහිදී ඔහු කඩුලු 17ක් බිඳහෙලා තරගාවලියේ වැඩිම කඩුලුලාභියා බවට පත්විය.
+The first two months of its first two months will be played for glamegon. He will represent seven matches representing the group.
+
+At the 27-year-old Sri Lanka, 21 teasts have been held for 21 Tests.
+
+He was also able to make significant performance during the visit of the Sri Lankan team this year.
 
 ◼️
 
 [Data](articles/ba3db70a.json)
+
+[Extended Data](ext_articles/ba3db70a.ext.json)
 
 ---
 
@@ -834,13 +958,13 @@ The accident had occurred when the driver of the van was sleeping.
 
 ECONOMYNEXT – Sri Lanka has allowed the import of buses, special purpose vehicles like cranes and gully bowsers and small motorized vehicles like go karts with penalties if importers carry large unsold stocks for over three months.
 
-The first stage of import relaxation stated through a gazette issued on December 18.
+The first stage of import relaxation started through a gazette issued on December 18.
 
 Sri Lanka has suffered imports controls, exchange controls, depreciation and social unrest due to initially central bank re-finance of rural credit, purchase of maturing debt from past deficits to keep rates down (direct market operations) and inflationary open market operations after the end of a civil war.
 
 Sri Lanka’s central bank has cut rates to 8.00 percent and also started a ‘single policy rate’ ahead of opening vehicle imports.
 
-Analysts had warned that it could lead to a credit shock being accommodated by the central bank with negative consequence on the exchange rate, which is in any under an inconsistent policy.
+Analysts had warned that it could lead to a credit shock being accommodated by the central bank with negative consequences on the exchange rate, which is in any case under an inconsistent policy.
 
 ...
 
@@ -1166,7 +1290,7 @@ ECONOMYNEXT- Fitch Ratings said it was upgrading Sri Lanka’s foreign currency 
 
 “Without this bond series, the acceptance results imply a restructuring of 96% of total commercial external debt.”
 
-The series that did not meet the threshold was a 2022 bond where Hamilton Reserve, a holdout investors hold about 25 percent of the outstanding.
+The series that did not meet the threshold was a 2022 bond where Hamilton Reserve, a holdout investor, held about 25 percent of the outstanding.
 
 ...
 
@@ -2267,123 +2391,5 @@ The Provincial Council elections will also be held within next year, he said, du
 [Data](articles/86357923.json)
 
 [Extended Data](ext_articles/86357923.ext.json)
-
----
-
-### President of the President's President's President
-
-*2024-12-20 19:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204563) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake announces local gov't election before new year. Nomination recall bill to be presented to Parliament in January. Provincial council elections delayed until next year due to issues.
-
-🟩
-
-President Anura Kumara Dissanayake says that the local government election is scheduled to be held before the new year.
-
-The bill has been prepared to recall the nominations for the nomination.
-
-Speaking to the media, the President made these comments addressing the media following the clashes of the Malwatte and Asgiri Maha Na Thera this afternoon.
-
-"The nominations called for in March 2023. But today, former parties have not today. Some alliances are broken. So we think that nomination should be castly and the new nominations should be cut. Therefore, we have recently decided the Cabinet of Cabinet at present, the bill related to nomination casual. It is presented to Parliament in January. Then we call the local government election before the year will be arranged before the year. "
-
-Meanwhile, the President added that the provincial council elections were stuck in a number of issues and it will be held next year.
-
-◼️
-
-[Data](articles/98a4b9ed.json)
-
-[Extended Data](ext_articles/98a4b9ed.ext.json)
-
----
-
-### The National Olympic Committee will immediately intervene to address the crisis
-
-*2024-12-20 18:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெருக்கடிக்கு-தீர்வு-காண-தேசிய-ஒலிம்பிக்-குழு-உடனடியாக-தலையிடும்/175-349009) · `ta`
-
-National Olympic Committee to address crisis immediately. Sports Minister Sunil Kumara Kamage announced intervention after meeting with committee representatives.
-
-🟩
-
-Sports Minister Sunil Kumara Kamage today (20) said that the National Olympic Committee will intervene immediately to find a rapid solution to the current crisis.
-
-A discussion was held at the Ministry of Youth Affairs and Sports today (20) between Sports Minister Sunil Kumara Kamage and Representatives of the National Olympic Committee.
-
-◼️
-
-[Data](articles/d50d8080.json)
-
-[Extended Data](ext_articles/d50d8080.ext.json)
-
----
-
-### Sri Lanka won’t allow harming economy, country in Indian projects: FM
-
-*2024-12-20 18:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-wont-allow-harming-economy-country-in-indian-projects-fm-195623/) · `en`
-
-ECONOMYNEXT – Sri Lanka will not allow any Indian projects that will be harmful either to the island nation’s economy or the country, Foreign Minister Vijitha Herath said.
-
-Explaining President Anura Kumara Dissanayake this week’s Indian visit, he said only two memorandum of understandings (MOUs) were signed while most of the other projects were discussed.
-
-“We would not arrive at any decision that would be harmful for our economy or our country,” Herath told reporters on Friday in Colombo.
-
-President Dissanayake during the visit discussed projects related to connectivity, energy, culture and education, and regional security among many other topics.
-
-Both countries signed deals to avoid double taxation and train 1,500 Sri Lankan civil administrators at the Indian National Centre for Good Governance.
-
-“Those are the only two MOUs we signed. No other projects were signed,” the Foreign Minister, who was also part of Dissanayake’s Indian delegation, said.
-
-...
-
-[Data](articles/1f4a635b.json)
-
-[Extended Data](ext_articles/1f4a635b.ext.json)
-
----
-
-### There are many investments in Sri Lanka
-
-*2024-12-20 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204562) · `si`
-
-Sri Lanka receives praise from the British High Commissioner for its rapid economic stabilization. The Commissioner identifies opportunities for exporting Sri Lankan goods, particularly organic agriculture, apparel, and natural beauty products, to the British market. He also acknowledges the progress in international sovereign bond restructuring and IMF program implementation.
-
-🟩
-
-The British High Commissioner of Sri Lanka says that the progress of the economic stabilization of the government within a short period of time is commends on economic stability.
-
-He was speaking at a meeting with Deputy Minister of Finance and Planning Dr. Harshana Sooriyapperuma today (20).
-
-The Commissioner is prepared to be able to identify the business opportunities to export the Sri Lankan goods to the British market.
-
-The British High Commissioner said that the market has a high potential for export of organic agriculture in Sri Lanka and that the country is in the market for various products, such as apparel, agricultural products, natural beauty products.
-
-He also said that the British nationals will have a leading place in the country, as the British occupies a major foreign exchange.
-
-...
-
-[Data](articles/365be14d.json)
-
-[Extended Data](ext_articles/365be14d.ext.json)
-
----
-
-### President reveals plans to transform public service into streamlined state mechanism
-
-*2024-12-20 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104382/president-reveals-plans-to-transform-public-service-into-streamlined-state-mechanism) · `en`
-
-President Anura Kumara Dissanayake has highlighted the critical challenge of transforming Sri Lanka’s public service into an efficient state mechanism. He pointed out that the newly appointed committee tasked with reviewing state institutions would make decisions without being influenced by political pressures.
-
-The President shared these views while addressing the District Secretaries and Divisional Secretaries conference today (20) at the Ministry of Home Affairs Auditorium, located in the “Nila Medura” building in Narahenpita,  the President’s Media Division (PMD) reported.
-
-President Dissanayake noted that the public service, which has undergone multiple name changes from Government Agents to District Secretaries, boasts a history of nearly 200 years. He emphasized its pivotal role in steering the country towards a new direction.
-
-...
-
-[Data](articles/e9127f8d.json)
-
-[Extended Data](ext_articles/e9127f8d.ext.json)
 
 ---

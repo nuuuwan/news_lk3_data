@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 21:42:52**
+As of **2024-12-21 22:27:00**
 
 ## Newspaper Stats
 
-*Scraped **61,349** Articles*
+*Scraped **61,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,96 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,842
-adaderanalk | 7,486
+adaderanalk | 7,487
 tamilmirrorlk | 8,771
 virakesarilk | 10,122
-adaderanasinhalalk | 10,602
+adaderanasinhalalk | 10,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,130 (99.6%) of 61,349 articles have been extended.
+61,133 (99.6%) of 61,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### ஹட்டன் பஸ் விபத்து தொடர்பில் அதிர்ச்சி தகவல் வௌியானது
+### President Dissanayake to visit China mid-January: Report
 
-*2024-12-21 21:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-பஸ்-விபத்து-தொடர்பில்-அதிர்ச்சி-தகவல்-வௌியானது/76-349053) · `ta`
+*2024-12-21 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104404/president-dissanayake-to-visit-china-mid-january-report) · `en`
 
-ஹட்டனிலிருந்து கண்டி நோக்கி பயணித்த தனியார் பஸ் ஒன்று இன்று (21) விபத்துக்குள்ளானதில் 3 பேர் உயிரிழந்துள்ளதுடன், பலர் காயமடைந்துள்ளனர்.
+Sri Lankan President Anura Kumara Dissanayake will travel to the island’s largest bilateral lender China for talks in January, he said on Saturday, days after completing a long-delayed foreign debt restructure.
 
-ஹட்டனிலிருந்து பயணித்த குறித்த பஸ் ஹட்டன் மல்லியப்பு வாடி வீட்டுக்கருகில் வீதியை விட்டு விலகி பள்ளத்தில் வீழ்ந்து  விபத்துக்குள்ளானது.
+China accounted for more than half of Sri Lanka’s bilateral debt at the time of the 2022 economic crash, when Colombo ran out of foreign exchange to pay for essential imports such as food, fuel and medicines.
 
-பஸ்ஸின் சாரதி , நடத்துனர் உட்பட பயணிகள் 53 பேர் காயமுற்ற நிலையில் டிக்கோயா மற்றும் வட்டவளை வைத்தியசாலைகளில் அனுமதிக்கப்பட்டனர்.
+Its economy is recovering after receiving an International Monetary Fund rescue package and imposing austerity reforms aimed at repairing the government’s ruined finances.
 
-ஹட்டனைச் சேர்ந்த 14 வயதுடைய பாடசாலை மாணவர், 68 வயதுடைய கண்டியைச் சேர்ந்த பெண் மற்றும் மற்றுமொரு பெண் என மூன்று பேர் உயிரிழந்தனர்.
+Leftist Dissanayake came to power in September on a pledge to fight corruption and tightened his grip after his party won a landslide in snap parliamentary polls.
 
-பாடசாலை மாணவன் தனது சகோதரியுடன் மருந்து எடுப்பதற்காக சென்ற போதே இவ்விபத்தில் சிக்கியுள்ளதாக தெரிவிக்கப்படுகின்றது.
-
-காயமடைந்தவர்களில் 10 பேர் கண்டி போதனா வைத்தியசாலைக்கு பரிந்துரைக்கப்பட்டுள்ளதாகவும் அவர்களில் 4 பேரின் நிலைமை கவலைக்கிடமாக இருப்பதாகவும் வைத்தியசாலை வட்டாரங்கள் தெரிவித்தன.
-
-பஸ் கட்டுப்பாட்டை இழந்து கதவு திறக்கப்பட்டு தான் பஸ்சில் இருந்து கீழே விழுந்ததாக சாரதி குறிப்பிட்டார்.
+“I will be going to China mid next month”, he told reporters, without setting an exact date.
 
 ...
 
+[Data](articles/2d1ffb55.json)
+
+[Extended Data](ext_articles/2d1ffb55.ext.json)
+
+---
+
+### Shocking information about Hatton bus accident
+
+*2024-12-21 21:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-பஸ்-விபத்து-தொடர்பில்-அதிர்ச்சி-தகவல்-வௌியானது/76-349053) · `ta`
+
+Here's a summary of the Hatton bus accident in approximately 200 characters:
+
+
+
+3 killed, 53 injured in Hatton-Kandy bus crash. Bus crashed into ditch, lost control. Police investigating CCTV footage. Incident occurred on 21st.
+
+🟩
+
+Three people were killed and many others were injured when a private bus traveling from Hatton to Kandy crashed today (21).
+
+The bus traveling from Hatton crashed into a ditch and crashed into the ditch.
+
+53 passengers, including the driver of the bus and the conductor, were injured and admitted to Tikoya and Vattawala hospitals.
+
+Three people were killed as a 14 -year -old schoolgirl from Hatton, a 68 -year -old woman from Kandy and another woman.
+
+It is reported that the school student went to take the drug with her sister.
+
+Hospital sources said that 10 of the injured were nominated to the Kandy Teaching Hospital and 4 of them were worrisome.
+
+The driver noted that the bus lost control and opened the door and fell down from the bus.
+
+However, Hatton police have searched the CCTV camera system mounted on the crash bus.
+
+Shortly after the accident, it is also reported that a person has been removed using his mobile phone approaching the relevant CCTV.. Remble
+
+◼️
+
 [Data](articles/5aed2e48.json)
+
+[Extended Data](ext_articles/5aed2e48.ext.json)
+
+---
+
+### වෛද්‍යවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කරන ගැසට්ටුව නිකුත් කෙරේ
+
+*2024-12-21 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204597) · `si`
+
+සියලු වෛද්‍යවරුන්ගේ අනිවාර්යය විශ්‍රාම ගැන්වීමේ වයස් සීමාව අවුරුදු 63ක් විය යුතු බව සඳහන් කරමින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+විශ්‍රාම වැටුප් ව්‍යවස්ථා සංශෝධන පනත ප්‍රකාරව 2022 දෙසැම්බර් මස 12 වන දින පළ කර තිබූ ගැසට් නිවේදනය සංශෝධනය කරමින් එම ගැසට් නිවේදනය නිකුත් කර ඇති බව සඳහන්ය.
+
+ඒ අනුව විශේෂඥ වෛද්‍යවරුන්ගේ, ශ්‍රේණිගත වෛද්‍ය හා දන්ත වෛද්‍ය නිලධාරීන්ගේ, වෛද්‍ය පරිපාලන ශ්‍රේණිවල සියලුම නිලධාරීන්ගේ, විශේෂඥ දන්ත වෛද්‍යවරුන්ගේ සහ ලියාපදිංචි වෛද්‍ය වෘත්තිකයන්ගේ අනිවාර්ය විශ්‍රාම ගැන්වීමේ වයස අවුරුදු 63 විය යුතු බව අදාළ ගැසට් නිවේදනයේ දැක්වෙයි.
+
+රාජ්‍ය පරිපාලන, පළාත් සභා හා පළාත් පාලන අමාත්‍යවරයා නිකුත් කර ඇති මෙම ගැසට් නිවේදනයේ විධිවිධාන 2023 වසරේ ජනවාරි මස 01 වන දින සිට බලාත්මක විය යුතු බව ද එහි  දැක්වෙයි.
+
+◼️
+
+[Data](articles/406b91d5.json)
 
 ---
 
@@ -2307,59 +2361,5 @@ These challenges are not unique to Sri Lanka; they echo the historical pitfalls 
 [Data](articles/dd7f2c5a.json)
 
 [Extended Data](ext_articles/dd7f2c5a.ext.json)
-
----
-
-### 2024-12-20 (Friday)
-
-### Sri Lanka to soon formulate national policy on visits by foreign research vessels
-
-*2024-12-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104385/sri-lanka-to-soon-formulate-national-policy-on-visits-by-foreign-research-vessels) · `en`
-
-Sri Lanka will soon formulate a national policy on allowing visits by foreign research vessels, Foreign Minister Vijitha Herath said here on Friday, amidst frequent docking requests from Chinese surveillance ships which raised concerns in India.
-
-Herath’s comments came days after Sri Lankan President Anura Kumara Dissanayake’s visit to India.
-
-In January, Sri Lanka enforced a year-long moratorium on foreign marine scientific research survey vessels operating in its waters and the Exclusive Economic Zone after strong security concerns were raised by India and the US following frequent docking requests from hi-tech Chinese surveillance vessels.
-
-Sri Lanka’s moratorium on allowing research vessels is still in force which would be reviewed appropriately, Herath said.
-
-Upon his return to Colombo from India, Dissanayake held a meeting with a top Chinese government official who expressed China’s wish to see Chinese research ships resuming their visits to Colombo.
-
-...
-
-[Data](articles/b4d60caa.json)
-
-[Extended Data](ext_articles/b4d60caa.ext.json)
-
----
-
-### Dr. Dr. Christmas Community Care Program
-
-*2024-12-20 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204569) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Dr. Christmas Community Care Program: Dry rations distributed to Chilaw residents under Bishop's guidance. Organized by Dhenan newspaper. Team blessed by father, handed over to Chilaw Bishop. Arrangements made for Puttalam district delivery."
-
-🟩
-
-Draging the dry rations to the Bishop of Chilaw under the 'Christmas Coal Care Program' was handed over to the people of Chilaw under the Community Care Program of the Dharinna.
-
-This time the Dhenan newspaper organizes the acknow්බියා, the newspaper 'program was held in Chilaw town.
-
-Accordingly, the ackrogaden newspaper team took the dry rallies to the people of Chilaw, and the group won the team with the blessings of the father.
-
-The team then handed over the dry items to the Chilaw Bishop in the Chilaw.
-
-All arrangements have been made to deliver the people of Puttalam in the Puttalam district in the Puttalam District.
-
-◼️
-
-[Data](articles/31fbe199.json)
-
-[Extended Data](ext_articles/31fbe199.ext.json)
 
 ---

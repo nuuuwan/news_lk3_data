@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 10:14:28**
+As of **2024-12-21 10:27:17**
 
 ## Newspaper Stats
 
-*Scraped **61,282** Articles*
+*Scraped **61,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
 adaderanalk | 7,469
-tamilmirrorlk | 8,763
+tamilmirrorlk | 8,764
 virakesarilk | 10,110
 adaderanasinhalalk | 10,580
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,055 (99.6%) of 61,282 articles have been extended.
+61,057 (99.6%) of 61,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### கோர விபத்தில் இருவர் பலி
+
+*2024-12-21 10:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-இருவர்-பலி/175-349034) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் இன்று (21) அதிகாலை இடம்பெற்ற கோர விபத்தில் இருவர் உயிரிழந்துள்ளதுடன் மேலும் நால்வர் காயமடைந்துள்ளதாக பொலிஸார் உறுதிப்படுத்தியுள்ளனர்.
+
+கொட்டாவையில் இருந்து காலி நோக்கி பயணித்த வேன் ஒன்று முன்னால் சென்ற லொறியுடன் மோதியதில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+மேலும், மூன்று பெண்கள் உட்பட நால்வர் காயமடைந்து சிகிச்சைக்காக கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/8c436adc.json)
+
+---
 
 ### Luxury of ministers allocated for tourists
 
@@ -80,17 +96,23 @@ Attorney Harshana Nanayakkara recently lodged a complaint with the Criminal Inve
 
 ---
 
-### ශ්‍රි ලංකාවේ ණය ශ්‍රේණිගත කිරිම ඉහළට
+### Sri Lanka's credit rating up
 
 *2024-12-21 09:18:46* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකාවේ-ණය-ශ්‍රේණිගත-කිරිම-ඉහළට/11-413757) · `si`
 
-ශ්‍රී ලංකාවේ ණය ශ්‍රේණිගත කිරිම ඉහළ නැංවිමට ෆිච් රේටින් ආයතනය කටයතු කර තිබේ. මේ අනුව දිගුකාලීන විදේශ මුදල් නිකුත් කරන්නන්ගේ ශ්‍රේණිගත කිරීම CCC සෘණ මට්ටමේ සිට CCC ධන මට්ටම දක්වා  ඉහළ නැංවිමට එම ආයතනය කටයුතු කර තිබේ.
+Sri Lanka's credit rating upgraded by Fitch Ratings. Long-term foreign currency issuer rating improved from negative to CCC+. Reflects better prospects for debt restructuring, positive economic indicators, and reduced risk of local currency devaluation.
 
-ණය ප්‍රතිව්‍යූහගත කිරීමේ සාර්ථකත්වය , ධනාත්මක සාර්ව ආරිථික දර්ශක සහ දේශීය මුදල් පැහැරහැරීමේ අවධානම අඩුවීම මෙමගින් පෙන්නුම් කෙරෙයි.
+🟩
+
+Fitch Ratings has raised Sri Lankan loan rating. The rating of long-term Foreign Currency Issuers has been increased from negative level to CCC to CCC positive level.
+
+This shows the risk of restructuring success, positive macroeconomic indexes and the risk of local currency.
 
 ◼️
 
 [Data](articles/fbfec471.json)
+
+[Extended Data](ext_articles/fbfec471.ext.json)
 
 ---
 
@@ -2443,27 +2465,5 @@ Further, in order to strengthen the transparency in financial management, the me
 [Data](articles/9f8a9f48.json)
 
 [Extended Data](ext_articles/9f8a9f48.ext.json)
-
----
-
-### Dealer arrested for hiding rice
-
-*2024-12-20 13:03:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அரிசியை-மறைத்த-வியாபாரி-கைது/76-349004) · `ta`
-
-Dealer arrested for concealing rice. Police and Consumer Service officials seized hidden grains in Nuwara Eliya. Investigation led by Superintendent Prasadi Weerasekera. 360 kg rice discovered, including 26 kg.
-
-🟩
-
-Police officers and Nuwara Eliya Consumer Service Authority officials have seized a rice who had been hidden by the Consumer Service Officers.
-
-Based on some information received from several customers in Ginigathena area, the police officer Viraj Vidanage, the Commander of the Police Station, Viraj Vidanage, the Commander of the Police Station, Viraj Vidanage, Nuwara Eliya District Customer Service Officers, on the work of the Superintendent of Police, Prasadi Weerasekera in charge of the Hatton Division.
-
-At the time, 360 kg of rice, including 21 kg of rice and 05 kg of rice, were found from the store.
-
-◼️
-
-[Data](articles/dbead30f.json)
-
-[Extended Data](ext_articles/dbead30f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 11:43:22**
+As of **2024-12-21 12:02:47**
 
 ## Newspaper Stats
 
-*Scraped **61,303** Articles*
+*Scraped **61,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
-adaderanalk | 7,473
-tamilmirrorlk | 8,765
+adaderanalk | 7,475
+tamilmirrorlk | 8,766
 virakesarilk | 10,114
 adaderanasinhalalk | 10,586
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 10,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,062 (99.6%) of 61,303 articles have been extended.
+61,064 (99.6%) of 61,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### ஹட்டனில் கோர விபத்து: மூவர் பலி; 27 பேர் படுகாயம்
+
+*2024-12-21 11:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-கோர-விபத்து-மூவர்-பலி-27-பேர்-படுகாயம்/76-349036) · `ta`
+
+ஹட்டன் - கொழும்பு பிரதான வீதியில், சற்றுமுன்னர், பஸ் ஒன்று கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
+
+படுகாயமடைந்தவர்கள் டிக்கோயா-கிளங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன், சிலர் கண்டி வைத்தியசாலைக்கு, மேலதிக சிகிச்சைகளுக்காக மாற்றப்பட்டுள்ளனர் என்று பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.AN
+
+◼️
+
+[Data](articles/794d734f.json)
+
+---
+
+### Two dead, 23 injured as bus topples down precipice on Hatton–Kandy main road
+
+*2024-12-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104391/two-dead-23-injured-as-bus-topples-down-precipice-on-hattonkandy-main-road) · `en`
+
+UPDATE: Two of the 25 injured individuals have succumbed to their injuries upon admission to the hospital, Ada Derana reporter said.
+
+At least 25 individuals have been injured and hospitalized after a private passenger bus toppled down a precipice in Mallawa on the Hatton – Kandy main road.
+
+The passenger bus was travelling from Hatton to Kandy when the bus veered off the road and toppled down the precipice, Ada Derana reporter said.
+
+The bus was carrying around 25 passengers at the time of the accident, and all of them have sustained injuries.
+
+The injured individuals have been admitted to Hatton and Dick Oya Hospitals, according to Ada Derana reporter.
+
+◼️
+
+[Data](articles/be4c9248.json)
+
+---
+
+### One dead, 5 injured in accident on expressway
+
+*2024-12-21 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104390/one-dead-5-injured-in-accident-on-expressway) · `en`
+
+One person has died, and five others have sustained injuries in an accident that occurred early this morning (21) near the Pinnaduwa interchange on the Southern Expressway.
+
+Police said the accident occurred when a van travelling from Kottawa to Galle collided with a lorry in front of it.
+
+A 62-year-old passenger of the van who was injured in the accident has died, and five others, including four women, have been admitted to the Karapitiya National Hospital for treatment.
+
+Police stated that the van driver had fallen asleep at the wheel leading to the crash.
+
+◼️
+
+[Data](articles/d6341908.json)
+
+---
 
 ### Does our community understand the LGBTQ sect?
 
@@ -82,19 +134,29 @@ Egg prices have been reduced in areas including Ja Ela, Kandana and Ragama. Remb
 
 ---
 
-### මියන්මාර සරණාගතයින් රැගෙන ආ යාත්‍රාවේ කාර්ය මණ්ඩලය ට දුන් නියෝගය
+### The order given to the staff of the vessel brought by Myanmar refugees
 
 *2024-12-21 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204575) · `si`
 
-මුලතිව් වෙල්ලමුල්ලිවයිකාල් වෙරළට ඔබ්බෙන් වූ මුහුදට පාවී ආ මියන්මාර් සරනාගතයින් සහිත යාත්‍රාවේ සිටි කාර්ය මණ්ඩලය ලබන 31 වනදා දක්වා රකිෂිත බන්ධනාගාර ගත කර තිබේ.
+Here's a summary in 200 characters:
 
-අදාළ යාත්‍රාවේ සිටි කාර්ය මණ්ඩලයේ 12 දෙනෙකු මෙලෙස රක්ෂිත බන්ධනාගාර ගත කර ඇති බව වාර්තා වේ.
 
-පසුගිය බ්‍රහස්පතින්දා මෙම මියන්මාර් සරණාගතයින් සියයට අධික පිරිසක් සමග යාත්‍රාව නාවික හමුදාව විසින් සිය භාරයට ගත්තේය.
+
+Myanmar refugee vessel crew arrested near Mullaittivu. 12 staff members detained until 31st. Navy intercepted ship last Thursday.
+
+🟩
+
+The staff of Myanmar who was floating on the Wellemamivaly coast of Mullaittivu was remanded until 31st.
+
+It is reported that 12 staff members in the vessel have been remanded.
+
+Last Thursday, the vessel seized by the Navy with the refugees of the refugees.
 
 ◼️
 
 [Data](articles/41cab9b6.json)
+
+[Extended Data](ext_articles/41cab9b6.ext.json)
 
 ---
 
@@ -124,21 +186,33 @@ In addition, four women, including three women, have been admitted to the Karapi
 
 ---
 
-### பல ஆண்டுகாலமாக அரசியலில் செல்வாக்கு செலுத்தும் அரசியல்வாதிகளுக்கு கோடிக்கணக்கில் எவ்வாறு நிதியளிக்க முடியும் - ஜாமுனி காமந்த துஷார
+### How can politicians who have been influenced by politics for many years - Jamuni Kamantha Dushara
 
 *2024-12-21 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201751) · `ta`
 
-ஜனாதிபதி நிதியத்தில் இருந்து நன்கொடை அல்லது நிதியுதவி பெற வேண்டுமாயின் குடும்ப உறுப்பினர்களின் மாத வருமானம் 1 இலட்சத்துக்கும் குறைவானதாக காணப்பட வேண்டும் என்ற நிபந்தனை காணப்படுகின்ற  நிலையில் பல ஆண்டுகாலமாக அரசியலில் செல்வாக்கு செலுத்திய அரசியல்வாதிகளுக்கு எவ்வாறு கோடிக்கணக்கில்  நிதியளிக்க முடியும்.
+Here's a summary of the text in approximately 200 characters:
 
-முறையற்ற இந்த செயற்பாடு குறித்து முறையான விசாரணைகளை மேற்கொண்டு வழங்கிய நிதியை மீளப்பெற வேண்டும் என இலஞ்ச, ஊழலுக்கு எதிரான மக்கள் அமைப்பின் தலைவர் ஜாமுனி காமந்த துஷார தெரிவித்தார்.
 
-2005 முதல் 2024 வரையான காலப்பகுதியில் ஜனாதிபதி நிதியத்தில் இருந்து 10 இலட்சம் முதல் கோடி கணக்கில் நிதி பெற்றுக்கொண்ட அரசியல்வாதிகளின் பெயர் பட்டியலை சுகாதாரத்துறை அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ அண்மையில் வெளியிட்டார். இவ்விடயம் குறித்து குற்றப்புலனாய்வு திணைக்களத்தில் வெள்ளிக்கிழமை (20) முறைப்பாடளித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-வறுமை நிலையில் உள்ள மக்களின் நலன்புரி தேவைகள் மற்றும் வாழ்வியல் மேம்பாட்டுக்காகவே ஜனாதிபதி நிதியம் 1978 ஆம் ஆண்டு ஸ்தாபிக்கப்பட்டது.
+Politicians' long-term influence questioned over funding sources. Presidential Fund rules state family income under 1 lakh for donations. Proper investigations needed to recover misused funds since 2005. Public scrutiny urged.
+
+🟩
+
+How can the politicians who have been influential in politics for many years can be funded, as the monthly income of family members should be less than 1 lakh in case of donation or funding from the presidential fund?
+
+Jamuni Kamantha Dushara, the leader of the People's Organization against Bribery and Corruption, said that the funds that were being conducted and provided with proper investigations into the improper process should be recovered.
+
+From 2005 to 2024. He made this comment to the media after lodging a complaint with the Criminal Investigation Department on Friday (20).
+
+The Presidential Fund was established in 1978 for the welfare of the poverty -stricken welfare and biological development.
+
+The Presidential Finance Act No. 07 has clearly stated on the parties who need to provide relief and relief.
 
 ...
 
 [Data](articles/91ce043b.json)
+
+[Extended Data](ext_articles/91ce043b.ext.json)
 
 ---
 
@@ -2265,93 +2339,5 @@ However, speaking at a special press conference held at the Department of Govern
 [Data](articles/3f8e7138.json)
 
 [Extended Data](ext_articles/3f8e7138.ext.json)
-
----
-
-### Minister denies agreement on Indian oil pipelines in Sri Lanka
-
-*2024-12-20 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104377/minister-denies-agreement-on-indian-oil-pipelines-in-sri-lanka) · `en`
-
-Sri Lanka’s Foreign Minister, Vijitha Herath, clarified that no agreement had been reached regarding the construction of Indian oil pipelines in Sri Lanka, during President Anura Kumara Dissanayake’s recent visit to India.
-
-He made this statement at a special press briefing held at the Department of Government Information this morning (20) to provide insights into President Anura Kumara’s recent visit to India.
-
-However, the Foreign Minister stated the construction of oil pipelines between India, Sri Lanka, and the United Arab Emirates (UAE) had been proposed.
-
-He stated that an agreement had been reached to continue these discussions further.
-
-Apart from that, he dismissed claims that an agreement had been reached to lay any Indian oil pipeline in Sri Lanka, calling such news false.
-
-...
-
-[Data](articles/e9764b45.json)
-
-[Extended Data](ext_articles/e9764b45.ext.json)
-
----
-
-### Kuduwe gets bail
-
-*2024-12-20 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204553) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Panadura High Court Judge Saman Kumara released on bail for Rs. 3 lakhs with strict guarantees. Arrested in Madagascar on March 15, 2023, accused of terrorist activities and murder. Represented by attorneys Jaliya Samarasinghe, Jayaratha Kalupahana, and others. Cases 96863 and 85145/22 submitted.
-
-🟩
-
-Panadura High Court Judge Saman Kumara has been released to release the three bail of Rs.
-
-In addition to the bail, the suspect has also issued strict guarantee to the suspect.
-
-The suspect was arrested in Madagascar on 15th March, 2023
-
-Remanded by the Panadura High Court has been released on bail after being submitted to the cases from No. 96863 and 85145/22.
-
-He was accused of carrying out terrorist activities and killing a human killing.
-
-Attorney Jaliya Samarasinghe, Jayaratha Kalupahana, Wimala Dharmaratne, Askey Dharmaratne, Bamunasinghe, Shani Kariyawasam, Shanika Kariyawasam and Sanja Siracle and Harmony. K. K. He appeared for the accused by Attorney at the law.
-
-◼️
-
-[Data](articles/c9fe3437.json)
-
-[Extended Data](ext_articles/c9fe3437.ext.json)
-
----
-
-### Central Bank announced on illegal financial proposals
-
-*2024-12-20 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204552) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's Central Bank warns about illegal financial schemes. Legal actions taken against specific institutions. Investigation ongoing. Public advised to check official website for details on affected companies: MTFE app, MTSL, SUACCESS Lanka, DSCC Group.
-
-🟩
-
-The Central Bank of Sri Lanka has issued a special statement on illegal financial proposals.
-
-It is stated that legal action has been taken regarding these schemes.
-
-The judicial work has begun in connection with certain institutions.
-
-The statement issued by the implementation authorities of the Law is being investigated with the objective of commencement of judicial work on other institutions.
-
-It also provides information on the public website official website and online publications to pay attention to the public.
-
-Following institutions on proposed schemes issued by the Central Bank are as follows.
-
-08. MTFE app, mtfe sl group, mtfe suaccess lanka, mtfe dscc group
-
-◼️
-
-[Data](articles/80c4b784.json)
-
-[Extended Data](ext_articles/80c4b784.ext.json)
 
 ---

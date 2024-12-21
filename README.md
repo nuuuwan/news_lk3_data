@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 12:43:03**
+As of **2024-12-21 13:00:17**
 
 ## Newspaper Stats
 
-*Scraped **61,306** Articles*
+*Scraped **61,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 3,743
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
-adaderanalk | 7,475
+adaderanalk | 7,479
 tamilmirrorlk | 8,766
 virakesarilk | 10,114
-adaderanasinhalalk | 10,586
+adaderanasinhalalk | 10,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,069 (99.6%) of 61,306 articles have been extended.
+61,070 (99.6%) of 61,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### මව බැලීමට ජනපති අනුරාධපුර ශික්ෂණ රෝහලට
+
+*2024-12-21 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204578) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (20) පස්වරුවේ අනුරාධපුර ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින සිය මව බැලීමට පැමිණ තිබේ.
+
+කිසිවෙකුට හෝ නොදන්වා ජනාධිපතිවරයා මෙලෙස සිය මවගේ සුවදුක් බැලීමට ගොස් ඇති අතර, ඔහුගේ හදිසි පැමිණීම ගැන රෝහල් කාර්ය මණ්ඩලය හෝ නොදැන සිටි බව වාර්තා වේ.
+
+ජනාධිපතිවරයාගේ මව මේ වනවිට සතියකට ආසන්න කාලයක සිට අනුරාධපුර ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටියි.
+
+◼️
+
+[Data](articles/d8b393b9.json)
+
+---
+
+### Sri Lanka captain Asalanka on Wellalage’s omission from NZ tour
+
+*2024-12-21 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104395/sri-lanka-captain-asalanka-on-wellalages-omission-from-nz-tour-) · `en`
+
+The Sri Lankan cricket team departed for New Zealand last night (20) to compete in a three-match T20 and ODI series.
+
+Speaking to the media before leaving the island, Sri Lanka captain Charith Asalanka addressed the decision to omit young spinner Dunith Wellalage from the squad, citing the need for an additional fast bowler to adapt to New Zealand’s pitch conditions.
+
+Explaining the rationale behind the selection, Asalanka said, “Dunith was dropped because we wanted to include an extra fast bowler for the conditions in New Zealand. It was a very tough decision for me, the selection committee, and the coach. Sometimes, such calls have to be made when playing on pitches like those in New Zealand.”
+
+Asalanka also commented on the team’s preparation and morale ahead of the challenging tour. “The players are in good spirits. Their performances in the recent T10 series were commendable, with players contributing through runs and wickets. This has been good preparation for the team,” he said.
+
+...
+
+[Data](articles/99a11a57.json)
+
+---
+
+### Private sector rice imports total 67,000 MT as deadline ends
+
+*2024-12-21 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104393/private-sector-rice-imports-total-67000-mt-as-deadline-ends) · `en`
+
+Sri Lanka Customs confirmed that a total of 67,000 metric tons of rice were imported by traders before the private sector’s rice import deadline expired at midnight yesterday (20).
+
+The import initiative was part of measures to address domestic supply needs as the local markets saw a shortage of several types of rice and price hikes recently.
+
+◼️
+
+[Data](articles/44860e18.json)
+
+---
+
+### 3 dead, over 20 injured as bus topples down precipice
+
+*2024-12-21 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104394/3-dead-over-20-injured-as-bus-topples-down-precipice) · `en`
+
+Another person who was injured and hospitalized during the passenger bus accident on the Hatton – Kandy main road has succumbed to injuries while receiving treatment at the hospital, Police Media Spokesman confirmed.
+
+This brings the death toll to three, while 22 others are still hospitalized with injuries following the accident in Mallawaappu, where a private passenger bus veered off the road and fell down a precipice.
+
+The bus, which was traveling from Hatton to Kandy, was carrying 25 passengers at the time of the accident.
+
+◼️
+
+[Data](articles/83234250.json)
+
+---
+
+### හැටන් බස් රථ අනතුරෙන් තිදෙනෙකුට දිවි අහිමි වෙයි
+
+*2024-12-21 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204577) · `si`
+
+හැටන් - මහනුවර ප්‍රධාන මාර්ගයේ අද (21) පෙරවරුවේ බස් රථයක් මාර්ගයෙන් ඉවතට ගොස් සිදු වූ අනතුරෙන් මේ වනවිට තිදෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+හැටන් සිට මහනුවර බලා ගමන්ගත් මෙම පෞද්ගලික බස් රථය මල්ලවාප්පු ප්‍රදේශයේ දී මාර්ගයෙන් ඉවතට ගොස් තේ වත්තකට පෙරළීමෙන් මෙම අනතුර සිදුවිය.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ මගීන් 20ත් 25ත් අතර ප්‍රමාණයක් සිට ඇති අතර, ඔවුන් සියලු දෙනාම කඩිනමින් දික්ඔය සහ වටවල රෝහල්වලට ඇතුළත් කිරීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/176d3877.json)
+
+---
 
 ### Accident in Hatton: Three killed;27 people were injured
 
@@ -56,6 +136,26 @@ The victims have been admitted to the Tikoya-Klangan Hospital and some have been
 
 ---
 
+### Navy rescues 102 Rohingya refugees off SL coast; trawler crew remanded
+
+*2024-12-21 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104392/navy-rescues-102-rohingya-refugees-off-sl-coast-trawler-crew-remanded) · `en`
+
+The crew of the fishing trawler from which Sri Lanka navy rescued over 100 Rohingya refugees in the island’s coast off Wellamulli Waikkal, have been ordered to be remanded in custody until December 31.
+
+Accordingly, 12 crew members of the trawler in question have been remanded in custody after they were produced before courts.
+
+Sri Lanka Navy rescued 102 Rohingya refugees, including 25 children, from a fishing trawler off the island’s east coast on Thursday (19). The refugees, fleeing war-torn Myanmar, were safely brought to Trincomalee port on Friday (20), where they received food and water.
+
+The trawler, spotted by fishermen early Thursday near Wellamulli Waikkal on Sri Lanka’s northern coast, had drifted off course, possibly due to recent cyclonic weather, foreign media reported.
+
+This incident marks the second time the Sri Lankan Navy has rescued a boat of Rohingya refugees, with more than 100 rescued off the coast in December 2022.
+
+◼️
+
+[Data](articles/ba46db47.json)
+
+---
+
 ### Two dead, 23 injured as bus topples down precipice on Hatton–Kandy main road
 
 *2024-12-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104391/two-dead-23-injured-as-bus-topples-down-precipice-on-hattonkandy-main-road) · `en`
@@ -75,6 +175,22 @@ The injured individuals have been admitted to Hatton and Dick Oya Hospitals, acc
 [Data](articles/be4c9248.json)
 
 [Extended Data](ext_articles/be4c9248.ext.json)
+
+---
+
+### හැටන් - මහනුවර මාර්ගයේ බස් රථයක් අනතුරකට
+
+*2024-12-21 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204576) · `si`
+
+හැටන් සිට මහනුවර බලා ගමන්ගත් පෞද්ගලික බස් රථයක් අද (21) පෙරවරුවේ අනතුරකට ලක්ව තිබේ.
+
+මෙම බස් රථය මාර්ගයෙන් ඉවතට ගොස් අසල තිබූ තේ වත්තට පෙරළී ගොස් ඇත.
+
+අනතුර සිදුවන අවස්ථාවේ බස් රථයේ මගීන් 20ත් 25ත් අතර ප්‍රමාණයක් සිට ඇති අතර, ඔවුන් සියලු දෙනාම තුවාල ලබා දික්ඔය සහ වටවල රෝහල්වලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/f7452455.json)
 
 ---
 
@@ -289,6 +405,8 @@ Analysts had warned that it could lead to a credit shock being accommodated by t
 ...
 
 [Data](articles/79747911.json)
+
+[Extended Data](ext_articles/79747911.ext.json)
 
 ---
 
@@ -530,13 +648,13 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 මේ හේතුවෙන් අදාළ සමාගම විසින් මෙරට ණය ශ්‍රේණිගත කිරීම් සඳහා උසස්වීමක් ප්‍රකාශයට පත්කර ඇති බව වාර්තා වේ.
 
-ඒ අනුව දිගුකාලීන විදේශ මුදල් නිකුත් කරන්නන්ගේ ශ්‍රේණිගත කිරීම CCC සෘණ මට්ටමේ සිට CCC ධන මට්ටම දක්වා අදාළ උසස් වීම ලබා දී ඇති බව සඳහන්ය.
+ඒ අනුව දිගුකාලීන විදේශ විනිමය ණය නිකුත් ශ්‍රේණිය RD මට්ටමේ සිට CCC+ මට්ටම දක්වා උසස් කර තිබෙන අතර, දේශීය විනිමය ණය නිකුත් ශ්‍රේණිය CCC- සිට CCC+ දක්වා ඉහළ නංවා තිබේ.
 
 ජාත්‍යන්තර ණය ප්‍රතිව්‍යූහගත කිරීමේ සාර්ථකත්වය වැඩි දියුණුකළ සාර්ව ආරිථික දර්ශක සහ දේශීය මුදල් පැහැරහැරීමේ අවධානම අඩුකිරීම මෙමගින් පිළිඹිබු කරන බව ෆිච් රේටින් සමාගම පවසයි.
 
 මේ අතර විදේශ ණය ප්‍රතිව්‍යුහගතකරණයට අනුව භාණ්ඩාගාර බැඳුම්කර අටක් මගින් ජාත්‍යන්තර ස්වෛරී බැඳුම්කර හුවමාරු කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
 
-මහ බැංකුව පෙන්වා දෙන්නේ මෙම සියලු බැඳුම්කර රුපියල් මිලියන දහනවදහස් හාරසිය හැටහයයි දශම එකක වෙන්කළ මුදලකින් සමන්විත බවය.
+මහ බැංකුව පෙන්වා දෙන්නේ මෙම සියලු බැඳුම්කර රුපියල් මිලියන 19,466.1ක වෙන්කළ මුදලකින් සමන්විත බවය.
 
 ◼️
 
@@ -2189,177 +2307,5 @@ Top turnover generators were Sierra Cables (up at 12.90), Hatton National Bank (
 [Data](articles/61cbc4ee.json)
 
 [Extended Data](ext_articles/61cbc4ee.ext.json)
-
----
-
-### Foreign Minister clarifies govt’s stance on ETCA with India
-
-*2024-12-20 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/104379/foreign-minister-clarifies-govts-stance-on-etca-with-india) · `en`
-
-Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath stated that the incumbent government of Sri Lanka has neither signed nor implemented the Economic and Technical Cooperation Agreement (ETCA) with India.
-
-Responding to reports regarding the various agreements signed during President Anura Kumara Dissanayake’s recent visit to India, Minister Herath clarified that there is a need to update the Indo - Sri Lanka Free Trade Agreement (ISFTA), which was signed several decades ago.
-
-Speaking at a special press conference held at the Department of Government Information today (20), the Minister emphasized that the government is working within the framework of the existing free trade agreement.
-
-“There is also a need to update it. We hope to renew and take forward this agreement which was signed several decades ago, with the expansion of the market,” he said.
-
-...
-
-[Data](articles/c2ea1725.json)
-
-[Extended Data](ext_articles/c2ea1725.ext.json)
-
----
-
-### New National Convener in Poight D V Chanaka
-
-*2024-12-20 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204557) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Chanaka MP named new National Convener of Sri Lanka General Convener. Selected at meeting held at Wijerama's house. Johnston Fernando handed over rural leaders and divisions.
-
-🟩
-
-D. As the new National Convener of the Sri Lanka General Convener. Paddy. It is reported that Chanaka MP has been selected.
-
-Mr. Chanaka had been selected at a meeting held at the Wijerama's house today (20).
-
-Meanwhile, former Parliamentarian Johnston Fernando has handed over the new rural leaders and divisions.
-
-◼️
-
-[Data](articles/1bd6dfef.json)
-
-[Extended Data](ext_articles/1bd6dfef.ext.json)
-
----
-
-### Applications are invited for Pirivena GCE Ordinary Level examination
-
-*2024-12-20 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204556) · `si`
-
-Pirivena GCE Ordinary Level exam applications open online March 2025. Register on donenets.lk from Dec 20, 2024 to Jan 15, 2025. Contact Ministry of Education for username/password issues.
-
-🟩
-
-Applications have been called online for the "Piriven GCE (T20 Examination - 2024 (2025)" in March 2025.
-
-The Examinations Department announced the registration of the Ministry of Education, the registration of the Ministry of Education and the following usernames and passwords related to special Pirivenasha educational institutions and special Paddays.
-
-If the usernames and non-password is unattended, the Piriven Educational Division of the Ministry of Education should be informed of the matter.
-
-Visit the Department of Examinations, Department of Examinations, the official website of the Sri Lanka Examinations, Videout httpS://donenets.lk and click on "Our Service" or click on "Piriven Exam Information Center" or,
-
-Advice on online application form has been published on the Department of Examinations website.
-
-On December 20, 2024. Starts at 9.00 and on January 15, 2025 pm. Ends at 9.00.
-
-◼️
-
-[Data](articles/bfed3047.json)
-
-[Extended Data](ext_articles/bfed3047.ext.json)
-
----
-
-### Sri Lanka FM clarifies foreign research ship ban; says moratorium ends on Dec 31
-
-*2024-12-20 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-fm-clarifies-foreign-research-ship-ban-says-moratorium-ends-on-dec-31-195538/) · `en`
-
-ECONOMYNEXT – Sri Lanka Foreign Minister Vijitha Herath, clarifying the government’s decision on one-year temporary ban over foreign research vessels said the moratorium is ending on December 31 and it has not relaxed yet.
-
-Cabinet Spokesman Nalinda Jayatissa on Thursday said the ban had been relaxed and requests for foreign research vessels will be considered on a case by case basis.
-
-Sri Lanka is under pressure from India not to allow Chinese research vessels citing security concerns.
-
-“It will continue until 31st of December,” Minister Herath told reporters on Friday (19).
-
-Sri Lanka temporarily banned foreign research ships for one-year citing it wants to establish a SOP (Standard Operation Procedure) for such vessels and all other vessels before removing the ban. However, Sri Lanka’s Foreign Ministry officials say there was no such SOP established.
-
-...
-
-[Data](articles/103deee8.json)
-
-[Extended Data](ext_articles/103deee8.ext.json)
-
----
-
-### Nearly 4 billion brain-related diseases around the world
-
-*2024-12-20 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204555) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Brain diseases affect nearly 4 billion worldwide. Health Minister appoints 100 trained educators to promote brain health. Key points include healthy eating, exercise, social interaction, cholesterol/blood pressure management, stress control, and quality sleep. Dementia, migraines, and nerve damage from diabetes are major concerns. Awareness efforts reduce brain disease impact by over 90%. Organizations like GLobal Patients Alliance and Global Parkinson's Alliance work towards better understanding and treatment.
-
-🟩
-
-The Minister of Health was appointed to volunteer to volunteer to volunteer to volunteer 100 specially trained to educate the public to educate the public to promote the health of the brain health.
-
-Sir Johnlana Sir Johnlawela at the University of Kotelawala Defense University.
-
-The University of the University and the affiliated hospital have been appointed as the brand ambassadors after a special training.
-
-The brand ambassadors are to be sought to educate the public on 10 key points for the brain health promotion of 10 out of the brain health.
-
-Healthy food pattern, physically acting, physical contact and citizenship, cholesterol level management, blood pressure management, health pressure management, health stress management, health stress management, healthy sleep management, health10 includes in this.
-
-The following was revealed that 3.4 billion of the 8 billion world population and about 400 brain diseases have been identified.
-
-...
-
-[Data](articles/fbec5821.json)
-
-[Extended Data](ext_articles/fbec5821.ext.json)
-
----
-
-### July Chang Meeting Minister of Defense
-
-*2024-12-20 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204554) · `si`
-
-Sri Lanka's Ambassador Julie Chang met Deputy Minister Sunil Watagala at the Ministry of Public Defense. She praised the new government's efforts to maintain law and order without political interference. The ambassador expressed readiness to provide technical assistance for cybersecurity protection.
-
-🟩
-
-Sri Lanka's Ambassador Julian Ambassador Juli Changh came to the Ministry of Public Defense and Parliamentary Affairs, Battaramulla and the Deputy Minister Sunil Watagala today (20).
-
-Julie Chang added that it is expected to be a developed country and Sri Lanka will be supported in the United States for the future development of the US.
-
-He further stated that the new government's efforts are appreciated to establish law and order without political influence.
-
-She had also said that the technical knowledge and cooperation needed to protect the security of cyberspace is ready to protect.
-
-Secretary to the Ministry Ravi Seneviratne was also present at the occasion.
-
-◼️
-
-[Data](articles/cb7a553e.json)
-
-[Extended Data](ext_articles/cb7a553e.ext.json)
-
----
-
-### Foreign Minister denies allegations against diplomat Himalee Arunatilaka
-
-*2024-12-20 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104378/foreign-minister-denies-allegations-against-diplomat-himalee-arunatilaka) · `en`
-
-Sri Lanka’s Foreign Affairs Minister Vijitha Herath says the allegations levelled against the former Deputy High Commissioner of Sri Lanka to Australia Himalee Arunatilaka, are completely false.
-
-Arunatilaka, who currently serves as Sri Lanka’s Permanent Representative to the UN in Geneva, was recently fined more than $100,000 in the Australian federal court, in addition to more than $500,000 in unpaid wages and interest to a Sri Lankan domestic worker for breaches of employment laws, while she was serving as the island nation’s Deputy High Commissioner in Australia.
-
-However, speaking at a special press conference held at the Department of Government Information this morning (20), the Foreign Minister claimed that Ambassador Arunatilaka had not committed any offence regarding the payment of salaries to the employee in question.
-
-...
-
-[Data](articles/3f8e7138.json)
-
-[Extended Data](ext_articles/3f8e7138.ext.json)
 
 ---

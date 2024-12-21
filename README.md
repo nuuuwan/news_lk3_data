@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 10:27:17**
+As of **2024-12-21 10:42:59**
 
 ## Newspaper Stats
 
-*Scraped **61,283** Articles*
+*Scraped **61,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
 adaderanalk | 7,469
-tamilmirrorlk | 8,764
+tamilmirrorlk | 8,765
 virakesarilk | 10,110
 adaderanasinhalalk | 10,580
 
@@ -26,25 +26,51 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,057 (99.6%) of 61,283 articles have been extended.
+61,059 (99.6%) of 61,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### கோர விபத்தில் இருவர் பலி
+### சடுதியாக குறைந்தது முட்டை விலை
+
+*2024-12-21 10:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடுதியாக-குறைந்தது-முட்டை-விலை/175-349035) · `ta`
+
+நாட்டில் சில பகுதிகளில் முட்டை விலை சடுதியாக குறைந்து வருவதாக முட்டை வியாபாரிகள் தெரிவிக்கின்றனர்.
+
+இதன்படி, முன்னர் 40 ரூபாய் தொடக்கம் 45 ரூபாய் வரையில் விற்பனை செய்யப்பட்ட முட்டை தற்போது 25 ரூபாய் தொடக்கம் 30 ரூபாய் வரையில் விற்பனை செய்யப்படுவதாக வியாபாரிகள் குறிப்பிடுகின்றனர்.
+
+ஜாஎல, கந்தானை, ராகம உள்ளிட்ட பிரதேசங்களில் முட்டையின் விலை குறைந்துள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/6fdf8759.json)
+
+---
+
+### Two killed in accident
 
 *2024-12-21 10:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-இருவர்-பலி/175-349034) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் இன்று (21) அதிகாலை இடம்பெற்ற கோர விபத்தில் இருவர் உயிரிழந்துள்ளதுடன் மேலும் நால்வர் காயமடைந்துள்ளதாக பொலிஸார் உறுதிப்படுத்தியுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-கொட்டாவையில் இருந்து காலி நோக்கி பயணித்த வேன் ஒன்று முன்னால் சென்ற லொறியுடன் மோதியதில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
 
-மேலும், மூன்று பெண்கள் உட்பட நால்வர் காயமடைந்து சிகிச்சைக்காக கராப்பிட்டிய போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். R
+
+"2 killed, 4 injured in van-lorry collision on southern highway. Incident occurred during commute from Kottawa to Galle. Four women hospitalized at Karapitiya Teaching Hospital."
+
+🟩
+
+Police have confirmed that two people were killed and four others were injured in an accident that took place this morning on the southern highway.
+
+The incident occurred when a van traveling from Kottawa to Galle collided with a lorry.
+
+In addition, four women, including three women, have been admitted to the Karapitiya Teaching Hospital for treatment.. Remble
 
 ◼️
 
 [Data](articles/8c436adc.json)
+
+[Extended Data](ext_articles/8c436adc.ext.json)
 
 ---
 
@@ -2445,25 +2471,5 @@ The arrested suspects are 26 and 29 years old from Mount Mount Lavinia and Boral
 [Data](articles/8877026c.json)
 
 [Extended Data](ext_articles/8877026c.ext.json)
-
----
-
-### Sri Lanka Cricket implements historic amendments to constitution
-
-*2024-12-20 13:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104374/sri-lanka-cricket-implements-historic-amendments-to-constitution) · `en`
-
-Sri Lanka Cricket (SLC) has announced significant amendments to its Constitution following an Extraordinary General Meeting (EGM) held on Friday (December 20), including a substantial reduction in the total number of voting members from 147 to 60.
-
-The amendments reaffirm SLC’s commitment to fostering good governance, transparency, inclusivity, and efficiency in its management structure, the SLC said in a statement.
-
-The new voting structure ensures that voting rights are determined solely based on the level of cricket played by each member club, with all qualified clubs and associations being entitled to only one vote. This marks a pivotal step towards equitable representation and streamlined decision-making.
-
-Further, in order to strengthen the transparency in financial management, the membership unanimously approved the establishment of the Audit Committee, Investment and Budget Committee, and Related Party Transactions Committee, the statement added.
-
-...
-
-[Data](articles/9f8a9f48.json)
-
-[Extended Data](ext_articles/9f8a9f48.ext.json)
 
 ---

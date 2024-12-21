@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 13:00:17**
+As of **2024-12-21 13:26:55**
 
 ## Newspaper Stats
 
-*Scraped **61,313** Articles*
+*Scraped **61,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,839
 adaderanalk | 7,479
-tamilmirrorlk | 8,766
+tamilmirrorlk | 8,768
 virakesarilk | 10,114
 adaderanasinhalalk | 10,589
 
@@ -26,25 +26,65 @@ adaderanasinhalalk | 10,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,070 (99.6%) of 61,313 articles have been extended.
+61,072 (99.6%) of 61,315 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### මව බැලීමට ජනපති අනුරාධපුර ශික්ෂණ රෝහලට
+### தப்பி ஓடிய சந்தேகநபர்
+
+*2024-12-21 13:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/தப்பி-ஓடிய-சந்தேகநபர்/74-349038) · `ta`
+
+அம்பாறை - சம்மாந்துறை நீதிவான்  நீதிமன்றத்திற்கு அழைத்து வந்த சந்தேகநபர் ஒருவர் நேற்று தப்பி ஓடியுள்ளார்.
+
+தப்பி சென்ற சந்தேக நபரை பொலிஸார் உட்பட சிறைச்சாலை அதிகாரிகள் தேடி வருகின்றனர்.
+
+சம்மாந்துறை உடங்கா 02 பகுதியைச் சேர்ந்த ரிசாட் முகம்மட் சாதிக் என்ற 28 வயது மதிக்கத்தக்க சந்தேக நபரே  இவ்வாறு தப்பி சென்றுள்ளார்.
+
+கடந்த 07 ஆம் திகதி குறித்த சந்தேகநபர் போதைப் பொருளுடன் கைது செய்யப்பட்டிருந்ததுடன் சம்பவம் தொடர்பில்  விசாரணைகளை சம்மாந்துறை பொலிஸார் மற்றும் சிறைச்சாலை அதிகாரிகள் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/ad05b5da.json)
+
+---
+
+### 15 முன்னாள் அமைச்சர்களின் விமான பயண விபரங்கள் கசிவு
+
+*2024-12-21 13:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-முன்னாள்-அமைச்சர்களின்-விமான-பயண-விபரங்கள்-கசிவு/175-349037) · `ta`
+
+கடந்த காலங்களில், 15 முன்னாள் அமைச்சர்கள் இலங்கை விமானப்படையின் விமானங்களை பல்வேறு பயண மற்றும் போக்குவரத்து தேவைகளுக்காக பயன்படுத்தியதாக, இலங்கை விமானப்படை தலைமையகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/7505c69a.json)
+
+---
+
+### President to attend Anuradhapura Teaching Hospital
 
 *2024-12-21 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204578) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (20) පස්වරුවේ අනුරාධපුර ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින සිය මව බැලීමට පැමිණ තිබේ.
+Here's a summary of 200 characters:
 
-කිසිවෙකුට හෝ නොදන්වා ජනාධිපතිවරයා මෙලෙස සිය මවගේ සුවදුක් බැලීමට ගොස් ඇති අතර, ඔහුගේ හදිසි පැමිණීම ගැන රෝහල් කාර්ය මණ්ඩලය හෝ නොදැන සිටි බව වාර්තා වේ.
 
-ජනාධිපතිවරයාගේ මව මේ වනවිට සතියකට ආසන්න කාලයක සිට අනුරාධපුර ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටියි.
+
+Pres. Anura Kumara Dissanayake visited Anuradhapura Teaching Hospital to check on his mother's health. He arrived unexpectedly, catching hospital staff off guard. His mother has been undergoing treatment there since last week.
+
+🟩
+
+President Anura Kumara Dissanayake has come to see his mother who is receiving treatment at the Anuradhapura Teaching Hospital yesterday afternoon.
+
+The President had gone to see his mother's health, and hospital staff were not aware of his emergency.
+
+The President's mother is currently receiving treatment at the Anuradhapura Teaching Hospital since the next week.
 
 ◼️
 
 [Data](articles/d8b393b9.json)
+
+[Extended Data](ext_articles/d8b393b9.ext.json)
 
 ---
 
@@ -63,6 +103,8 @@ Asalanka also commented on the team’s preparation and morale ahead of the chal
 ...
 
 [Data](articles/99a11a57.json)
+
+[Extended Data](ext_articles/99a11a57.ext.json)
 
 ---
 
@@ -2259,53 +2301,5 @@ Later, the suspect pawned the jewelery and received a mobile phone of the school
 ...
 
 [Data](articles/4f7586b4.json)
-
----
-
-### ‘Kudu Salindu’ granted bail
-
-*2024-12-20 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104380/kudu-salindu-granted-bail) · `en`
-
-The Panadura Magistrate’s Court has granted bail to notorious underworld figure and drug kingpin Salindu Malshitha Gunaratne, also known as ‘Kudu Salindu’, on three sureties of Rs. 01 million each.
-
-The order was issued by Panadura Chief Magistrate Saman Kumara when a case filed against him was taken up before the court today (20).
-
-In addition to the three sureties, the suspect was ordered released under strict bail conditions.
-
-On March 01, 2023, Nadun Chinthaka Wickremeratne alias ‘Harak Kata’ and his infamous accomplice Salindu Malshika alias ‘Kudu Salindu’ were arrested in Madagascar in a joint operation by the INTERPOL and Malagasy law enforcement authorities and Customs officials.
-
-The duo was brought back to the island on March 15 after Malagasy defence officials informed the Sri Lankan Foreign Ministry of the arrest of 8 suspects including the two Sri Lankan underworld figures.
-
-...
-
-[Data](articles/48bb94c2.json)
-
-[Extended Data](ext_articles/48bb94c2.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover Rs9.23bn
-
-*2024-12-20 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs9-23bn-195534/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader ASPI closed up 1.07 percent, or 156.44 points, at 14,810; while the more liquid S&P SL20 Index closed up 0.70 percent, or 30.67 points, at 4,420.
-
-Turnover was a record 9.23 billion. This was the highest since February 7 this year when they CSE recorded a turnover of 12 billion rupees.
-
-“The market is doing really well,” market participants said. “There’s a lot of new money coming in.”
-
-Top positive contributors to the ASPI were Central Finance Company (up at 167.25), Ceylon Cold Stores (up at 84.00), Melstacorp (up at 115.75), Access Engineering (up at 34.20) and Chevron Lubricants Lanka (up at 147.00).
-
-“Interest continued to come into the consumer stocks, CCS, and LMF.”
-
-Top turnover generators were Sierra Cables (up at 12.90), Hatton National Bank (down at 272.00), Royal Ceramics (up at 39.20), Lanka Milk Foods (up at 44.30), and Access Engineering (up at 34.20).
-
-...
-
-[Data](articles/61cbc4ee.json)
-
-[Extended Data](ext_articles/61cbc4ee.ext.json)
 
 ---

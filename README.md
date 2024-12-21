@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 19:27:05**
+As of **2024-12-21 19:42:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,116 (99.6%) of 61,344 articles have been extended.
+61,118 (99.6%) of 61,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -400,6 +400,8 @@ Police suspect that the accident was caused by a brakes failure of the bus, acco
 
 [Data](articles/8b7eb5fe.json)
 
+[Extended Data](ext_articles/8b7eb5fe.ext.json)
+
 ---
 
 ### A horrific bus accident in Kaduganna
@@ -467,6 +469,8 @@ In response, the CID launched a probe to identify the cause of the error and det
 ...
 
 [Data](articles/e445c9e1.json)
+
+[Extended Data](ext_articles/e445c9e1.ext.json)
 
 ---
 

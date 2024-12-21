@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 14:02:25**
+As of **2024-12-21 14:14:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,077 (99.6%) of 61,322 articles have been extended.
+61,080 (99.6%) of 61,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### තහනම් යෝජනා ක්‍රම 20 කට එරෙහිව මහ බැංකුව නීතිමය පියවර අරන්
+### Central Bank has taken legal action against 20 prohibition projects
 
 *2024-12-21 13:31:57* · [`adalk`](https://www.ada.lk/breaking_news/තහනම්-යෝජනා-ක්‍රම-20-කට-එරෙහිව-මහ-බැංකුව-නීතිමය-පියවර-අරන්/11-413759) · `si`
 
-මෙරට මූල්‍ය පද්ධතියේ ස්ථාවරත්වයට අවදානම් එල්ල කරමින්  සීඝ්‍රයෙන් ඉහළ යන තහනම් යෝජනා ක්‍රමවලින් මහජනයා ආරක්ෂා කර ගැනීම සඳහා 2011 සිට මේ දක්වා එවැනි යෝජනා ක්‍රම පවත්වාගෙන ගිය  ආයතන 20 කට එරෙහිව   විමර්ශනය කර අධිකරණ ක්‍රියාමාර්ග ඇතුළු නීතිමය   පියවර ගෙන ඇති බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය පාරිභෝගික සබඳතා දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසයි.
+Central Bank sues 20 firms over financial risks. CBSF investigates organizations protecting public interest. Over 500 sessions conducted at Central Bank offices in 2023-2024.
 
-මේ වන විටත් එවැනි ආයතන ගැන තවත් විමර්ශන කීපයක් සිදුකරගෙන යන බවද එම දෙපාර්තමේන්තුව සඳහන් කරයි .
+🟩
 
-එමෙන්ම 2023 සහ 2024 වසරවල  මහ බැංකු ප්‍රධාන කාර්යාලයේ සහ පළාත් කාර්යාලවලදී මහ බැංකුව මගින් සැසි 700 කට වඩා වැඩි ගණනක් පවත්වා 50000 කට අධික පිරිසක්  තහනම් යෝජනා ක්‍රම පිළිබඳව දැනුම්වත් කළ බවද එම නිවේදනයේ සඳහන්වේ.
+Central Bank's Financial Consumer Relationship Department (CBSF) has been inspected against 20 organizations that have been taken to protect the public with the risk of the Sri Lankan financial system.Issued by issuing.
+
+The Department states that several other investigations have already been carried out on such institutions.
+
+The statement also held more than 500 sessions at the Central Bank Head Office and Provincial Offices in the Central Bank Head Office and Provincial Offices in 2023 and 2024.
 
 ◼️
 
 [Data](articles/3920c8ab.json)
+
+[Extended Data](ext_articles/3920c8ab.ext.json)
 
 ---
 
@@ -234,6 +240,8 @@ The import initiative was part of measures to address domestic supply needs as t
 
 [Data](articles/44860e18.json)
 
+[Extended Data](ext_articles/44860e18.ext.json)
+
 ---
 
 ### 3 dead, over 20 injured as bus topples down precipice
@@ -249,6 +257,8 @@ The bus, which was traveling from Hatton to Kandy, was carrying 25 passengers at
 ◼️
 
 [Data](articles/83234250.json)
+
+[Extended Data](ext_articles/83234250.ext.json)
 
 ---
 

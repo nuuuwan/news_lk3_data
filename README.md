@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 16:42:35**
+As of **2024-12-21 17:12:07**
 
 ## Newspaper Stats
 
-*Scraped **61,326** Articles*
+*Scraped **61,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 5,841
 adaderanalk | 7,480
 tamilmirrorlk | 8,769
 virakesarilk | 10,119
-adaderanasinhalalk | 10,591
+adaderanasinhalalk | 10,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,097 (99.6%) of 61,326 articles have been extended.
+61,100 (99.6%) of 61,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
+
+### මැතිවරණයට වියදම් වාර්තා නොදුන් අයගේ නම් පොලිස් දෙපාර්තමේන්තුවට
+
+*2024-12-21 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204588) · `si`
+
+මහමැතිවරණයට අදාළව මේ දක්වාත් වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයින්ගේ නම් පොලිස් දෙපාර්තමේන්තුව වෙත ලබා දීමට සැලසුම් කර ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එම කොමිෂන් සභාව පැවසුවේ මේ වන විටත් ජනාධිපතිවරණයේ සහ ඇල්පිටිය ප්‍රාදේශීය සභා මැතිවරණයේ වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයින්ගේ නම් පොලිසියට ලබා දී ඇති අතර ඊට අදාළ නීතිමය ක්‍රියාමාර්ග ගෙන ඇති බවය.
+
+ඒ අනුව මහමැතිවරණයේ ආදායම් වියදම් වාර්තා ලබා දෙන ලෙස සිදුකළ දැනුම් දීමට අනුව එලෙස වාර්තා ඉදිරිපත් කළ අපේක්ෂකයින්ගේ නම් ලැයිස්තු මේ වන විට දිස්ත්‍රික් ලේකම් කාර්යාල සහ මැතිවරණ කාර්යාල වල ප්‍රදර්ශනය කර තිබේ.
+
+මෙම තත්වය හමුවේ වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයින්ගේ ලැයිස්තුවක් පොලිස් දෙපාර්තමේන්තුවට ලබා දීමට පියවර ගන්නා බවද මැතිවරණ කොමිෂන් සභාව සදහන් කළේය.
+
+◼️
+
+[Data](articles/15c7edf5.json)
+
+---
 
 ### Five injured in an altercation accident
 
@@ -53,6 +71,66 @@ The bus belonging to the Teldeniya Depot, owned by the Sri Lanka Transport Board
 [Data](articles/026ccc26.json)
 
 [Extended Data](ext_articles/026ccc26.ext.json)
+
+---
+
+### කඩුගන්නාවේ බිහිසුණු බස් රථ අනතුරක්
+
+*2024-12-21 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204584) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කඩුගන්නාව ප්‍රදේශයේදී ලංකා ගමනා ගමන මණ්ඩලයට අයත් බස් රථයක් අනතුරට ලක්වීමෙන් පුද්ගලයින් 12 දෙනෙකු තුවාල ලබා ති‌බේ.
+
+කොළඹ සිට නුවර බලා ධාවනය වෙමින් තිබු බස් රථය කඩුගන්නාව, ඩෝසන් කුළුන ආසන්නයේදී මාර්ගයෙන් ඉවතට පැන ගසක ගැටීමෙන් අනතුර සිදුවී ඇති බව පොලීසිය පැවසීය.
+
+තුවාලකරුවන් කඩුගන්නාව, හේනාවල රෝහලට ඇතුළත් කර ඇති අතර බරපතළ තත්ත්වයේ පසුවු දෙදෙනෙකු මහනුවර ජාතික රෝහල වෙත මාරුකර යවා තිබේ.
+
+බස් රථයේ ඇතිවූ කාර්මික දෝෂයක් අනතුරට හේතුවී ඇති බව මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අද (21) පෙරවරුවේ හැටන් ප්‍රදේශයේ දී ද පෞද්ගලික බස් රථයක් මාර්ගයෙන් ඉවතට පැන ප්‍රපාතයකට පෙරළීමෙන් පුද්ගලයින් තිදෙනෙකු මියගොස් 46 දෙනෙකු තුවාල ලැබීය.
+
+◼️
+
+[Data](articles/179343ca.json)
+
+---
+
+### රන් මිල සුළු වශයෙන් ඉහළට
+
+*2024-12-21 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204583) · `si`
+
+මෙරට රත්‍රං මිල ගණන් ඉහළ ගොස් ඇති බව වෙළෙඳපොළ දත්ත පෙන්නුම් කරයි.
+
+ඒ අනුව අද (21) පෙරවරුවේ කොළඹ හෙට්ටිවීදිය රන් වෙළෙඳපොළෙහි "කැරට් 22" රන් පවුමක මිල රු. 193,200ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මේ අතර "කැරට් 24" රන් පවුමක මිල අද වනවිට රුපියල්  210,000ක් දක්වා රුපියල් 2,000කින් ඉහළ ගොස් ඇති බව කොළඹ හෙට්ටිවීදිය රත්‍රං වෙළෙඳපොළ ආරංචි මාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/360c97b1.json)
+
+---
+
+### අසිත ග්ලැමෝගන් සමගින් ගිවිසුම් ගතවෙයි
+
+*2024-12-21 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204582) · `si`
+
+ශ්‍රී ලංකා වේගපන්දු යවන ක්‍රීඩක අසිත ප්‍රනාන්දු එංගලන්තයේ ප්‍රධාන පෙළේ ප්‍රාත්ත ක්‍රිකට් සමාජයක් වන ග්ලැමෝගන් ක්‍රීඩා සමාජය සමගින් ගිවිසුම් ගත වී ඇත.
+
+ඒ අනුව ඔහු ග්ලැමෝගන් කණ්ඩායම නියෝජනය කරන පළමු ශ්‍රී ලාංකිකයා ක්‍රීඩකයා බවට පත්වනු ඇත.
+
+කෙසේ නමුත් අසිත මීට පෙර එරට නොටින්හැම්ෂයර් ප්‍රාන්ත කණ්ඩායම වෙනුවෙන් ක්‍රීඩාකර තිබේ.
+
+එංගලන්ත ප්‍රාන්ත ක්‍රිකට් තරගාවලියේ දෙවැනි කාණ්ඩය (Division Two) යටතේ ග්ලැමෝගන් ක්‍රීඩා සමාජය ක්‍රීඩාකරන අතර, එම තරගාවලිය එළැඹෙන අප්‍රේල් මාසයේ දී ආරම්භවීමට නියමිතව ඇත.
+
+අසිත එහි පළමු මාස ​​දෙක ග්ලැමෝගන් වෙනුවෙන් ක්‍රීඩාකරනු ඇත. එහිදී ඔහු එම කණ්ඩායම නියෝජනය කරමින් තරග 7ක් ක්‍රීඩාකිරීමට නියමිතය.
+
+මේ වනවිට 27 වියේ පසුවන අසිත ශ්‍රී ලංකාව වෙනුවෙන් ටෙස්ට් තරග 21කට ක්‍රීඩාකර කඩුලු 72ක් දවාගෙන සිටියි.
+
+ශ්‍රී ලංකා කණ්ඩායම මෙම වසරේ සිදුකළ එංගලන්ත තරග සංචාරයේදී කැපී පෙනෙන දක්ෂතා දැක්වීමට ද අසිත සමත් වූ අතර, එහිදී ඔහු කඩුලු 17ක් බිඳහෙලා තරගාවලියේ වැඩිම කඩුලුලාභියා බවට පත්විය.
+
+◼️
+
+[Data](articles/ba3db70a.json)
 
 ---
 
@@ -1086,23 +1164,29 @@ The series that did not meet the threshold was a 2022 bond where Hamilton Reserv
 
 ---
 
-### ජර්මනියේ නත්තල් වෙළෙඳපොළක අනතුරක්
+### Danger in a Christmas market in Germany
 
 *2024-12-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204571) · `si`
 
-නැගෙනහිර ජර්මනියේ මැග්ඩෙබර්ග් නගරයේ නත්තල් වෙළෙඳපොළකට මෝටර් රථයක් ධාවන කිරීමෙන් සිදුවූ අනතුරකින් කුඩා ළමයෙකු ඇතුළු පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+Germany Christmas market tragedy: 2 dead, 60+ injured. Driver, a 50-year-old Saudi, intentionally crashed car. Police arrested suspect.
 
-විදෙස් වාර්තා සඳහන් කළේ අනතුරින් තවත් 60කට අධික පිරිසක් තුවාල ලබා ඇති බවයි.
+🟩
 
-ඊයේ (21) පස්වරුවේ පුද්ගලයෙකු මෝටර් රථයක් වෙළෙඳපොළ තුළට ධාවන කර මෙම අනතුර සිදුකර ඇති බව සඳහන්ය.
+Two persons including a child killed in an accident in Magdeburg, East Germany, has died.
 
-අනතුර සිදුකළ රියඳුරු පොලිසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර, ඔහු 50 හැවිරිදි සෞදි අරාබියානු ජාතිකයෙකු බවට අනාවරණය කරගෙන ඇත.
+According to foreign reports, more than 60 others were injured in the accident.
 
-සැකකරු අදාළ මෝටර් රථය කුලියට ගෙන හිතාමතා මෙම අනතුර සිදුකර ඇති අතර, එය ත්‍රස්තවාදී ක්‍රියාවක් බව එරට පොලීසිය පවසයි.
+It is said that a person had operated a car in the market yesterday afternoon.
+
+The driving police have been arrested by the driving police and was a 50-year-old Saudi Arabian.
+
+The suspect has rented the relevant car and has deliberately carried out the accident, police said.
 
 ◼️
 
 [Data](articles/f8d26082.json)
+
+[Extended Data](ext_articles/f8d26082.ext.json)
 
 ---
 
@@ -1126,23 +1210,31 @@ Foreign holders could also opt for the local option up to a ceiling.
 
 [Data](articles/cf7fa6f1.json)
 
+[Extended Data](ext_articles/cf7fa6f1.ext.json)
+
 ---
 
-### ඇතැම් ස්ථානවල මීදුම් සහිත තත්ත්වයක්
+### In some places, a misty condition
 
 *2024-12-21 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204570) · `si`
 
-අද (21) බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+Weather alert: Misty conditions, showers in West & South; thunderstorms in East, Center, Uva; strong winds, lightning possible.
 
-එමෙන්ම නැගෙනහිර, මධ්‍යම සහ ඌව පළාත්වලත් හම්බන්තොට සහ පොළොන්නරුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-මීට අමතරව මධ්‍යම, සබරගමුව, ඌව සහ නැගෙනහිර පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
+Several spells of showers in the Western and Sabaragamuwa provinces today (21) and in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the East, Central and Uva provinces, Hambantota and Polonnaruwa districts.
+
+In some places in the Central, Sabaragamuwa, Uva and Eastern Provinces can last a morning.
+
+The Meteorological Department also requests the public to take necessary steps to reduce the damages caused by temporary strong winds and lightning activities possible with thunderstorms.
 
 ◼️
 
 [Data](articles/ff460fa6.json)
+
+[Extended Data](ext_articles/ff460fa6.ext.json)
 
 ---
 
@@ -2281,93 +2373,5 @@ President Dissanayake noted that the public service, which has undergone multipl
 [Data](articles/e9127f8d.json)
 
 [Extended Data](ext_articles/e9127f8d.ext.json)
-
----
-
-### Ransey's husband remanded for assaulting police
-
-*2024-12-20 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204561) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Actor Maheshi Madushanko arrested for assaulting police officers on 30th. His husband also remanded for similar charges.
-
-🟩
-
-Famous acting Artist Maheshi Madushanko was arrested and produced before the court on the 30th of the 30th police officers.
-
-◼️
-
-[Data](articles/b81cadf5.json)
-
-[Extended Data](ext_articles/b81cadf5.ext.json)
-
----
-
-### Our government is working hard and dedicated to control chronic kidney disease - doctors
-
-*2024-12-20 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201768) · `ta`
-
-Sri Lanka's government works to combat chronic kidney disease. Health Minister Dr. Nalinda Jayatissa praised China's support for research and prevention efforts. The initiative aims to develop treatment programs for kidney patients.
-
-🟩
-
-Minister of Health and Mass Media, Dr. Nalinda Jayatissa, said that the current government is working hard to control the chronic kidney disease that has become a major health problem in Sri Lanka.
-
-The Minister said this while addressing the launch of the Research Report organized by the Chinese Science Corporation, the National Kidney Prevention and Research Unit of the Ministry of Health on Saturday (14) in Battaramulla.
-
-I would like to express my gratitude to the Chinese government and the Chinese Science Academy for cooperating and glowing for the country's most important health challenge.
-
-The current government is working hard and dedicated to control chronic kidney disease that has become a major health problem for Sri Lanka. Such workshops and new studies are the platform for sharing knowledge and science.
-
-...
-
-[Data](articles/adc95659.json)
-
-[Extended Data](ext_articles/adc95659.ext.json)
-
----
-
-### No compliance with signing the Edka Agreement has been reached
-
-*2024-12-20 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201767) · `ta`
-
-Sri Lanka-India relations update: No Edka Agreement signed; bilateral deals on public servants & tax law; ongoing Edka negotiations; President denies Adani influence; discussions on economic cooperation, security, development, oil tanks, fisheries, debt relief.
-
-🟩
-
-External Affairs Minister Vijitha Herath said that some politicians claiming that the Edka deal would be signed following the Indian visit to President Anura Kumara Dissanayake was completely false.
-
-A media briefing was organized at the Government Information Department in Colombo on Friday (20) to clarify the issues and signed agreements examined during the recent visit to President Anura Kumara Dissanayake.
-
-External Affairs Minister Vijitha Herath said that President Anuragumara Dissanayake's three -day state visit to India during a three -day state visit to India has reached bilateral agreements on two agreements on the provision of 1500 public servants in India and the Double Tax Lawing Agreement.
-
-Meanwhile, Minister Vijitha Herath said that during a meeting with Prime Minister Modi, the long -standing talks between Sri Lanka and India have been agreed to continue negotiations on the Economic and Technical Cooperation Agreement (Edka).
-
-...
-
-[Data](articles/3cde05ab.json)
-
-[Extended Data](ext_articles/3cde05ab.ext.json)
-
----
-
-### D.V. Chanaka appointed SLPP’s National Convenor
-
-*2024-12-20 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104381/dv-chanaka-appointed-slpps-national-convenor) · `en`
-
-SLPP Member of Parliament D.V. Chanaka has been appointed as the National Convenor of the Sri Lanka Podujana Peramuna (SLPP).
-
-The former state minister was appointed to the post of SLPP National Convenor during a meeting held at former President Mahinda Rajapaksa’s residence in Wijerama today (20).
-
-Meanwhile, former MP Johnston Fernando has been assigned with the responsibility of overseeing and organizing the appointments of new rural and divisional leaders of the party.
-
-◼️
-
-[Data](articles/067494aa.json)
-
-[Extended Data](ext_articles/067494aa.ext.json)
 
 ---

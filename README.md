@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 20:00:27**
+As of **2024-12-21 19:42:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,119 (99.6%) of 61,344 articles have been extended.
+61,118 (99.6%) of 61,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1629,8 +1629,6 @@ President Dissanayake said there was no pressure from India to hold provincial e
 ...
 
 [Data](articles/3f7320a2.json)
-
-[Extended Data](ext_articles/3f7320a2.ext.json)
 
 ---
 

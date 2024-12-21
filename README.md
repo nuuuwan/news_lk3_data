@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 00:02:46**
+As of **2024-12-21 23:43:17**
 
 ## Newspaper Stats
 
@@ -26,35 +26,25 @@ adaderanasinhalalk | 10,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,145 (99.7%) of 61,356 articles have been extended.
+61,143 (99.7%) of 61,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### Special Gazette Notification
+### அதி விசேட வர்த்தமானி அறிவித்தல் வௌியானது
 
 *2024-12-21 23:19:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-விசேட-வர்த்தமானி-அறிவித்தல்-வௌியானது/175-349055) · `ta`
 
-Here's a summary in 200 characters:
+அனைத்து மருத்துவர்களின் கட்டாய ஓய்வு வயதெல்லை 63 ஆக குறிப்பிட்டு அதி விசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
 
+ஓய்வூதிய அரசியலமைப்பு திருத்தச் சட்டத்தின்படி, 2022 டிசம்பர் 12 ஆம் திகதி வெளியிடப்பட்ட வர்த்தமானி அறிவித்தல் திருத்தப்பட்டு மேற்படி வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
 
-
-"Special Gazette Notification: Doctors' mandatory retirement age set at 63. Revised Pension Constitution Amendment issued Dec 12, 2022. Applies to medical professionals, administrators, dentists, and registered healthcare workers."
-
-🟩
-
-The Special Gazette Notification has been issued by all doctors' mandatory rest age 63.
-
-According to the Pension Constitution Amendment, the Gazette Notification issued on December 12, 2022 has been revised and the gazette notification has been issued.
-
-Accordingly, the compulsory leisure age of medical professionals, quality medical and dental officers, all the officers of the medical administration, dental experts and registered medical workers must be 63.. Remble
+அதற்கமைய, மருத்துவ நிபுணர்கள், தர மருத்துவ மற்றும் பல் மருத்துவ அலுவலர்கள், மருத்துவ நிர்வாக தரத்திலுள்ள எல்லா அலுவலர்கள், பல் மருத்துவ நிபுணர்கள் மற்றும் பதிவுசெய்யப்பட்ட மருத்துவ தொழிலாளர்களின் கட்டாய ஓய்வு வயதெல்லை 63 ஆக இருக்க வேண்டும் என குறிப்பிடப்பட்டுள்ளது. R
 
 ◼️
 
 [Data](articles/ef940b6c.json)
-
-[Extended Data](ext_articles/ef940b6c.ext.json)
 
 ---
 
@@ -77,8 +67,6 @@ Sri Lanka completed a restructuring of sovereign bonds on December 20, and the c
 ...
 
 [Data](articles/f3752f39.json)
-
-[Extended Data](ext_articles/f3752f39.ext.json)
 
 ---
 

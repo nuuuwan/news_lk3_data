@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 02:12:25**
+As of **2024-12-22 02:42:50**
 
 ## Newspaper Stats
 
-*Scraped **61,357** Articles*
+*Scraped **61,358** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 456
-colombotelegraphcom | 620
+colombotelegraphcom | 621
 bbccomsinhala | 647
 islandlk | 3,710
 economynextcom | 3,744
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,154 (99.7%) of 61,357 articles have been extended.
+61,157 (99.7%) of 61,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### கொரிய தூதுவருடன் சஜித் சந்திப்பு
+### Sajith meets with Korean Ambassador
 
 *2024-12-22 02:00:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொரிய-தூதுவருடன்-சஜித்-சந்திப்பு/175-349056) · `ta`
 
-இலங்கைக்கான தென் கொரிய தூதுவர் மியோன் லீ, எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவை சந்தித்து கலந்துரையாடியுள்ளார்.
+Sajith Premadasa meets South Korean Ambassador Miyon Lee. He thanks her for maintaining harmony between Sri Lanka and South Korea. Sajith requests increased South Korean job opportunities for Sri Lankans.
 
-இதன்போது, இலங்கைக்கும் தென் கொரியாவுக்கும் இடையில் நல்லுறவைப் பேணிவருகின்றமைக்கு அந்த நாட்டின் தூதுவருக்கு எதிர்க்கட்சித் தலைவர் சஜித்   நன்றி தெரிவித்தார் என அவரது ஊடகப்பிரிவு தெரிவித்துள்ளது.
+🟩
 
-அத்துடன், தென் கொரிய அரசாங்கம் இலங்கையர்களுக்கு வழங்கியுள்ள வேலைவாய்ப்புக்கான ஒதுக்கீட்டை, மேலும் அதிகரிக்குமாறு அந்த நாட்டின் தூதுவரிடம் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கோரிக்கை விடுத்துள்ளார். (a)
+South Korean Ambassador to Sri Lanka Miyon Lee has met Opposition Leader Sajith Premadasa.
+
+Opposition leader Sajith thanked the country's ambassador for the maintenance of harmony between Sri Lanka and South Korea.
+
+In addition, Opposition Leader Sajith Premadasa has asked the country's ambassador to further enhance the South Korean government's allocation of employment to Sri Lankans.. (A)
 
 ◼️
 
 [Data](articles/fde872eb.json)
+
+[Extended Data](ext_articles/fde872eb.ext.json)
 
 ---
 
@@ -235,6 +241,20 @@ The provisions of the gazette notification have been issued to the Public Admini
 [Data](articles/406b91d5.json)
 
 [Extended Data](ext_articles/406b91d5.ext.json)
+
+---
+
+### President’s Fund Is A Tragedy
+
+*2024-12-21 20:48:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidents-fund-is-a-tragedy/) · `en`
+
+“Political corruption is a cancer, a cancer that eats away at a citizen’s faith in democracy, diminishes the instinct for innovation and creativity.” ~  Joe Biden, former vice president of the United States.
+
+...
+
+[Data](articles/0ad96220.json)
+
+[Extended Data](ext_articles/0ad96220.ext.json)
 
 ---
 
@@ -2401,23 +2421,5 @@ This year marks the beginning of the second golden decade of the Belt and Road I
 [Data](articles/e231b72e.json)
 
 [Extended Data](ext_articles/e231b72e.ext.json)
-
----
-
-### Bishop Duleep de Chickera launches his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’
-
-*2024-12-21 00:36:58* · [`dailyftlk`](https://www.ft.lk/news/Bishop-Duleep-de-Chickera-launches-his-latest-book-Beyond-checkpoints-Stories-of-human-resilience-in-troubled-Sri-Lanka/56-770838) · `en`
-
-From left: Gihan de Chickera, Moderator Dr. Mahendran Thiruvarangan, Manikya Kodithuwakku, Suramya Hettiarachchi and Bishop Duleep de Chickera
-
-A conversation with Bishop Duleep de Chickera on his latest book ‘Beyond checkpoints: Stories of human resilience in troubled Sri Lanka’, took place recently at the Diocesan Chambers, Cathedral of Christ the Living Saviour, Bauddhaloka Mawatha Colombo 7.
-
-The discussion was moderated by University of Jaffna Senior Lecturer Dr. Mahendran Thiruvarangan, while selected passages from the book were read and commented on by educator and story-teller Suramya Hettiarachchi. Published in 2023, and now in its second print, ‘Beyond Checkpoints’ recently won a State Literary Award.
-
-...
-
-[Data](articles/5e8aa961.json)
-
-[Extended Data](ext_articles/5e8aa961.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 21:12:17**
+As of **2024-12-21 21:27:04**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 10,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,126 (99.6%) of 61,348 articles have been extended.
+61,130 (99.6%) of 61,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### බලපෑමට ලක්වූ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ට ලැබෙන සහන
+### Relief to Small and Medium Enterprises affected
 
 *2024-12-21 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204596) · `si`
 
-පාස්කු ඉරිදා ප්‍රහාරය, කොවිඩ් 19 වසංගතය සහ මෑතකාලින අහිතකර සාර්ව ආර්ථික තත්ත්වයන් හේතුවෙන් බලපෑමට ලක්වූ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ට සහන සැලසීම වෙනුවෙන් ශ්‍රී ලංකා මහ බැකුව විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Maharachchi Bank offers relief to SMEs affected by COVID-19 and economic downturn. Loan repayments suspended until March 31, 2025. Total dues payable by Dec 15, 2023. Repayment to begin after that date.
 
-එහි සඳහන්ව ඇත්තේ ණය සහන සැලසීම සිදු කෙරෙමින් පවතින බැවින්, පරාටේ නීතිය ක්‍රියාත්මක කිරීම අත්හිටුවීම 2025 වසරේ මාර්තු මස 31 වැනිදායින් ඔබ්බට සිදුකිරීමේ අවශ්‍යතාවක් නොවන බව.
+🟩
 
-2024 දෙසැම්බර් 15 දිනට ගෙවිය යුතු මුළු හිඟ ණය ප්‍රාග්ධනය රුපියල් මිලියන 25ට අඩු, රුපියල් මිලියන 25ත් 50ත් අතර සහ රුපියල් මිලියන 50ට වැඩි සුදුසුකම්ලත් කුඩා හා මධ්‍ය පරිමාණ ණය ගනුදෙනුකරුවන් විසින් පිළිවෙළින් 2025 දෙසැම්බර් 31, 2025 සැප්තැම්බර් 30 සහ 2025 ජූනි 30 වැනි දිනයන්ට පෙර ප්‍රතිලේඛනගත කළ ණය ආපසු ගෙවීම ආරම්භ කළ යුතු බවය.
+The Maharachchi Bank has issued a special statement to provide relief to small and medium scale entrepreneurs who have been affected by the Easter 19 The Complex Against the Covid 19 plague and recent malam economic conditions.
 
-බලපෑමට ලක්වූ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින්ට සහන සැලසෙන්නේ මෙහෙමයි by poornima on Scribd
+It is stated that the lending relief is underway, the suspension of the Paradon law is not necessary to be beyond March 31, 2025.
+
+Total duties payable to December 15, Rs. 25 million and Rs.The repayment of the loan should be started.
+
+This is relief to small and medium scale entrepreneurs: by poornima on scribd
 
 ◼️
 
 [Data](articles/fe232883.json)
+
+[Extended Data](ext_articles/fe232883.ext.json)
 
 ---
 
@@ -103,6 +109,8 @@ The officials have issued strict warnings to the owners of the offending establi
 ...
 
 [Data](articles/3cd591e2.json)
+
+[Extended Data](ext_articles/3cd591e2.ext.json)
 
 ---
 

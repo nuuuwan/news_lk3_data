@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 18:45:13**
+As of **2024-12-21 19:01:44**
 
 ## Newspaper Stats
 
@@ -26,49 +26,69 @@ adaderanasinhalalk | 10,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,111 (99.6%) of 61,344 articles have been extended.
+61,113 (99.6%) of 61,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### තායිවාන පාර්ලිමේන්තුව කණපිට හරවයි
+### Taiwan turns up parliament to earn
 
 *2024-12-21 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204594) · `si`
 
-තායිවානයේ ප්‍රධාන විපක්ෂය වන ක්වාමින්ග්ටාන් පක්ෂය යෝජනා කළ නව කෙටුම්පතක් මුල් කරගෙන එරට පාර්ලිමේන්තුවේ නොසන්සුන් තත්ත්වයක් උද්ගතවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-මතභේදයට තුඩු දී ඇති විපක්ෂයේ යෝජනා මගින් අධිකරණ පද්ධතියේ සංශෝධන මෙන්ම නුසුදුසු රජයේ නිලධාරීන් ධුරයෙන් පහකිරීම සම්බන්ධ නව නීති හඳුන්වාදී තිබුණි.
 
-කෙසේ වුවද පාලක ප්‍රජාතන්ත්‍රවාදී ප්‍රගතිශීලි පක්ෂය පවසන්නේ යෝජිත නීති එරට ව්‍යවස්ථාවට පටහැනි බවය.
 
-ඒ අනුව පාලක පක්ෂයේ මන්ත්‍රීවරුන් සභා ගර්භයට ඇතුළු වීම වැළැක්වීමට විපක්ෂය කටයුතු කර තිබුණි.
+Taiwan's opposition party Kuomingtang proposes new laws targeting judges and officials. The Democratic Progressive Party opposes, claiming unconstitutional measures. Tensions rise as opposition blocks ruling party lawmakers from entering parliament.
+
+🟩
+
+The main opposition of Taiwan, Kuvingtta, has agreed on a new draft of the party, foreign media reports.
+
+The controversial proposals have introduced new laws relating to the dismissal of the judicial system as well as inappropriate government officials.
+
+However, the ruling democratic progressive party says that the proposed laws are contrary to the constitution.
+
+Accordingly, the opposition had acted to prevent the ruling party members from entering the Chamber.
 
 ◼️
 
 [Data](articles/67118c2c.json)
 
+[Extended Data](ext_articles/67118c2c.ext.json)
+
 ---
 
-### අපිරිසිදු ආපනශාලා සොයා පිටකොටුවේ සිදුකළ හදිසි වැටලීම
+### Sudden raid in Pettah in search of dirty restaurant
 
 *2024-12-21 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204593) · `si`
 
-කොළඹ පිටකොටුව බෝධිරාජා මාවතේ ඇති ආපනශාලා ජින්තුපිටිය සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයේ නිලධාරීන් සහ මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් අද (21) පෙරවරුවේ හදිසි වැටලීමක් සිදුකර තිබේ.
+Here's a summary of 200 characters:
 
-එහිදී ඇතැම් ආපනශාලා ඉතා අපිරිසිදු තත්ත්වයේ පැවැති අතර මුළුතැන්ගෙය ආශ්‍රිතව ආහාර පිසින ස්ථානයන් හී මීයන්ගේ අසූචි පැවතීම සහ මීයන්ගේ අසූචි ආහාර පිසින භාජනවලට එකතු කිරීම නිලධාරීන්ගේ දැඩි දෝෂ දර්ශනයට ද ලක් විය.
 
-තවද ඇතැම් ආපනශාලා හී ආහාර පිසින ස්ථානයන් හි සුරතල් බළලුන් පවා සිටින අයුරුද මෙහිදි දක්නට ලැබිණි.
 
-වැටලීම් සිදුකරනු ලබන අවස්ථාවේදී ආපනශාලා හිමිකරුවන් සහ අදාළ නිලධාරීන් අතර උණුසුම් තත්ත්වයක්ද නිර්මාණය වූ අතර ඇතැම් වෙළෙඳසැල් හිමියන් පැවසුවේ මීයන් ගහනය වැඩි බවත් නගර සභාව විසින් මේ සඳහා පිළියම් යෙදීමක් සිදු නොකරන බවත්ය.
+"Sudden raid in Pettah: Health officials inspect restaurants. Unhygienic conditions found, including rats in kitchens and pet cats in cooking areas. Owners and officers discuss improvements. Medical Officer advises removing broken plastic containers and prosecuting food re-cooking."
 
-මෙහිදී සෞඛ්‍ය වෛද්‍ය නිලධාරීවරයා අදාළ වෙළෙඳසැල් වෙත දැඩි ලෙස අවවාද කර ඇති අතර කෑම සකස් කිරීම සඳහා කැඩී බිඳි ගිය නුසුදුසු ප්ලාස්ටික් භාජන ඉවත් කරන ලෙසද ආපනශාලා හිමියන් වෙත උපදෙස් ලබා දුන්නේය.
+🟩
 
-තවද අපිරිසිදු ලෙස ආහාර පිසින ලද ආපන ශාලා සියල්ලටම නඩු පැවරීමටද අදාළ නිලධාරීන් පියවර ගනු ලැබීය.
+The restaurant Jedanupa Health Medical Officer of the Bodhirajah Mawatha, Pettah, has been conducted by Officers and Public Health Inspectors of the Jidtupitiya Medical Officer of the Jidtupitiya Medical Officer.
+
+Some restaurants were in very unclean condition and to collect exks into rats in the kitchen, and the intensive errors of the officers.
+
+There are also a few pet cats in some restaurants and cooking places.
+
+The restorative owners and the relevant officers were also created among the restaurant owners and some of the businessmen.
+
+The Medical Officer hereafter advised the shops and advised the cafeteria owners to remove the broken plastic containers.
+
+The officers also took action to prosecute all the molecules of food cooked again.
 
 ◼️
 
 [Data](articles/3934b758.json)
+
+[Extended Data](ext_articles/3934b758.ext.json)
 
 ---
 

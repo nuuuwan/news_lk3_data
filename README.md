@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 06:48:29**
+As of **2024-12-21 08:03:23**
 
 ## Newspaper Stats
 
-*Scraped **61,273** Articles*
+*Scraped **61,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,837
 adaderanalk | 7,469
-tamilmirrorlk | 8,757
+tamilmirrorlk | 8,758
 virakesarilk | 10,110
 adaderanasinhalalk | 10,580
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,041 (99.6%) of 61,273 articles have been extended.
+61,043 (99.6%) of 61,274 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In the retail market, top six performing companies that contributed to the turno
 
 [Data](articles/0d68a825.json)
 
+[Extended Data](ext_articles/0d68a825.ext.json)
+
 ---
 
 ### Tourist Service Center and Welcome Center in North Central Province
@@ -61,6 +63,8 @@ The ceremony was attended by Mr. Wasantha Kumara Wimalasiri, Governor of the Nor
 ...
 
 [Data](articles/fbb3ff44.json)
+
+[Extended Data](ext_articles/fbb3ff44.ext.json)
 
 ---
 
@@ -89,6 +93,22 @@ The NDB Shilpa Children’s Savings Account encourages children to embrace the i
 ...
 
 [Data](articles/9e7b7632.json)
+
+---
+
+### நோர்வே தூதுவருடன் சுமந்திரன், சாணக்கியன் சந்திப்பு
+
+*2024-12-21 02:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோர்வே-தூதுவருடன்-சுமந்திரன்-சாணக்கியன்-சந்திப்பு/175-349028) · `ta`
+
+இலங்கைக்கான நோர்வே தூதுவரை இலங்கைத் தமிழரசுக் கட்சியின் முக்கியஸ்தர்கள் நேற்று சந்தித்து கலந்துரையாடினர்.
+
+தமிழரசுக் கட்சியின் பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன், முன்னாள் பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் ஆகியோரே நோர்வே தூதுவருடனான சந்திப்பில் கலந்துகொண்டார்கள்.
+
+எமது மக்களின் பல முக்கிய விடயங்கள் மற்றும் சமகால அரசியல் நிலவரங்கள் தொடர்பாக இதன்போது பேசினோம் என்று பாராளுமன்ற உறுப்பினர் சாணக்கியன் தெரிவித்தார். (a)
+
+◼️
+
+[Data](articles/8d65d4a4.json)
 
 ---
 
@@ -2375,29 +2395,5 @@ But if a Moulavi is available for a Moulavi, it is the great injustice it is to 
 [Data](articles/950f0ecf.json)
 
 [Extended Data](ext_articles/950f0ecf.ext.json)
-
----
-
-### Myanmar Boat affair: 115 people
-
-*2024-12-20 12:32:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மியன்மார்-படகு-விவகாரம்-115-பேரிடமும்-விசாரணை/175-349001) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Myanmar Boat Affair: 115 rescued. 35 men, 25 women, 43 children arrived in Trincomalee on 12 sailboats. Police to produce all before court for further action.
-
-🟩
-
-The Trincomalee port police have received 35 men, 25 women, 43 children and 12 sailboats brought to Trincomalee on the Myanmar boat.
-
-After receiving the affidavit, the police said that all would be produced before the Trincomalee Magistrate's Court and that the decision would be made in accordance with the court order.
-
-◼️
-
-[Data](articles/12848305.json)
-
-[Extended Data](ext_articles/12848305.ext.json)
 
 ---

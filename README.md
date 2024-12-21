@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 12:16:09**
+As of **2024-12-21 12:27:26**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,586
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,065 (99.6%) of 61,306 articles have been extended.
+61,067 (99.6%) of 61,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-21 (Saturday)
 
-### ஹட்டனில் கோர விபத்து: மூவர் பலி; 27 பேர் படுகாயம்
+### Accident in Hatton: Three killed;27 people were injured
 
 *2024-12-21 11:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-கோர-விபத்து-மூவர்-பலி-27-பேர்-படுகாயம்/76-349036) · `ta`
 
-ஹட்டன் - கொழும்பு பிரதான வீதியில், சற்றுமுன்னர், பஸ் ஒன்று கவிழ்ந்து விபத்துக்குள்ளாகியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-படுகாயமடைந்தவர்கள் டிக்கோயா-கிளங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன், சிலர் கண்டி வைத்தியசாலைக்கு, மேலதிக சிகிச்சைகளுக்காக மாற்றப்பட்டுள்ளனர் என்று பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.AN
+
+
+"Bus crash on Hatton-Colombo highway: 3 dead, 27 injured. Victims hospitalized in Tikoyakangana and Kandy. Police investigating."
+
+🟩
+
+On the Hatton -Colombo main road, a bus crashed and crashed.
+
+The victims have been admitted to the Tikoya-Klangan Hospital and some have been transferred to the Kandy Hospital for further treatment, the police media unit said.
 
 ◼️
 
 [Data](articles/794d734f.json)
+
+[Extended Data](ext_articles/794d734f.ext.json)
 
 ---
 
@@ -63,6 +73,8 @@ The injured individuals have been admitted to Hatton and Dick Oya Hospitals, acc
 ◼️
 
 [Data](articles/be4c9248.json)
+
+[Extended Data](ext_articles/be4c9248.ext.json)
 
 ---
 

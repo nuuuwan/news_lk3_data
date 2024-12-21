@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-21 19:01:44**
+As of **2024-12-21 19:27:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,600
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,113 (99.6%) of 61,344 articles have been extended.
+61,116 (99.6%) of 61,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -107,6 +107,8 @@ The bonds will carry a coupon rate 50 basis points above the central bank’s St
 ◼️
 
 [Data](articles/2b89b9c9.json)
+
+[Extended Data](ext_articles/2b89b9c9.ext.json)
 
 ---
 
@@ -298,41 +300,63 @@ Similarly, the price of 24-carat gold has increased by Rs. 2,000, bringing it to
 
 ---
 
-### சிறந்த நடிகருக்கான விருதை வென்ற 'மக்கள் செல்வன்' விஜய் சேதுபதி
+### Vijay Sethupathi won the Best Actor Award
 
 *2024-12-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201804) · `ta`
 
-சென்னையில் நடைபெற்ற 22 ஆவது சென்னை சர்வதேச திரைப்பட விழாவில் சிறந்த தமிழ் திரைப்பட நடிகருக்கான விருது 'மகாராஜா' படத்தில் நடித்ததற்காக 'மக்கள் செல்வன்' விஜய் சேதுபதிக்கு வழங்கப்பட்டிருக்கிறது.
+Here's a summary of 200 characters:
 
-கடந்த டிசம்பர் 12 ஆம் திகதி முதல் 19 ஆம் திகதி வரை தமிழக அரசின் அனுசரணையுடன் நடைபெற்ற 22 ஆவது சென்னை சர்வதேச திரைப்பட விழாவில் தமிழ் திரைப்படங்களுக்கான பட்டியலில் பல்வேறு பிரிவுகளின் கீழ் பத்திற்கும் மேற்பட்ட திரைப்படங்கள் திரையிடப்பட்டன.
 
-சிறந்த படத் தொகுப்பாளருக்கான விருது - பிலோமின் ராஜ் ( மகாராஜா) சிறந்த ஒலிப்பதிவாளருக்கான விருது சுரேன் ஜி- அழகிய கூத்தன் (கொட்டுக்காளி)
 
-சிறந்த திரைப்படத்திற்கான இரண்டாவது விருது - லப்பர் பந்து நடுவர்களின் விசேட விருது - ஜமா.
+Vijay Sethupathi wins Best Actor Award at 22nd Chennai Int'l Film Fest for 'Maharaja'. Ten films screened Dec 12-19. Awards also for Best Film Editor, Best Film, and Best Actor Yogi Babu.
 
-சிறந்த பிரபல நடிகருக்கான நடுவர் விருது - யோகி பாபு (போட் மற்றும் கோழிப்பண்ணை செல்லத்துரை)
+🟩
 
-இந்த பட்டியலில் இடம் பிடித்த அனைத்து நட்சத்திர கலைஞர்களுக்கும் சென்னை சர்வதேச திரைப்பட விழாவின் இறுதி நிகழ்வின்போது விருதுகள் வழங்கி கௌரவிக்கப்பட்டனர்.
+Vijay Sethupathi has been awarded the Best Tamil Film Award at the 22nd Chennai International Film Festival in Chennai for her role in 'Maharaja'.
+
+More than ten films were screened under various categories at the 22nd Chennai International Film Festival, sponsored by the Government of Tamil Nadu from December 12 to 19.
+
+Award for Best Film Editor
+
+Second Award for Best Film - Luper Ball Referees Special Award - Jama.
+
+Arbitration Award for Best Famous Actor - Yogi Babu (Bot and Poultry
+
+All the star artists on the list were honored with awards at the final event of the Chennai International Film Festival.
 
 ◼️
 
 [Data](articles/8676571b.json)
 
+[Extended Data](ext_articles/8676571b.ext.json)
+
 ---
 
-### U1 - திரைப்பட விமர்சனம்
+### U1 - Movie Review
 
 *2024-12-21 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201805) · `ta`
 
-தயாரிப்பு - லஹரி பிலிம்ஸ் எல் எல் பி & வீனஸ் என்டர்டெய்னர்ஸ்
+Here's a summary of the movie review in approximately 200 characters:
 
-நடிகர்கள் : உபேந்திரா, ரேஷ்மா, சன்னி லியோன், கிஷோர் , சாது கோகிலா, முரளி சர்மா, ஜிஸ்ஸு சென் குப்தா மற்றும் பலர்.
 
-கன்னட திரையுலகின் முக்கிய படைப்பாளிகளில் ஒருவரான உபேந்திரா - பத்தாண்டு இடைவெளிக்குப் பிறகு இயக்கி, கதையின் நாயகனாக நடித்திருக்கும் ' U1 'எனும் திரைப்படம் - அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை காண்போம்.
+
+"U1" stars Upendra as dual protagonists Satya and Kalki in a futuristic fantasy world. The film blends political satire with metaphors, confusing audiences but satisfying fans. Upendra's performance shines, while Reshma and Sunny Leone have notable roles. The movie within a movie structure adds complexity, balancing entertainment and philosophical themes.
+
+🟩
+
+Product - Lahari Films El P & Venus Entertains
+
+Actors: Upendra, Reshma, Sunny Leone, Kishore, Sadhu Gokila, Murali Sharma, Jissu Sen Gupta and many others.
+
+Upendra, one of the leading creators of the Kannada film industry - 'U1', starring the hero of the story after the decade hiatus - was it attracted to all fans?Or not?Let's see.
+
+Satya is simulated as a man with good qualities in the fantasy world of the future. He is interested in bringing direct changes in this world and is making efforts. In contrast, the character of Kalki punishes people who are ignorant in mankind. He allows corrupt political leaders to rule. At this moment, Kalki assures him that he will raise the status of corrupt politician Waman Rao (Kishore) to 'Central Samrat'.. He is helping him in many ways. Is Satya winning in the end?Or is Kalki win?The story of the film.
 
 ...
 
 [Data](articles/76441012.json)
+
+[Extended Data](ext_articles/76441012.ext.json)
 
 ---
 

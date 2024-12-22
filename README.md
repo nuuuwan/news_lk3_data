@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 11:27:23**
+As of **2024-12-22 11:43:44**
 
 ## Newspaper Stats
 
-*Scraped **61,392** Articles*
+*Scraped **61,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 456
 colombotelegraphcom | 622
 bbccomsinhala | 647
 islandlk | 3,717
-economynextcom | 3,744
+economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,846
+adalk | 5,847
 adaderanalk | 7,493
-tamilmirrorlk | 8,782
+tamilmirrorlk | 8,784
 virakesarilk | 10,127
 adaderanasinhalalk | 10,608
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,195 (99.7%) of 61,392 articles have been extended.
+61,197 (99.7%) of 61,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### முதலை தாக்கி பெண் பலி
+
+*2024-12-22 11:30:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலை-தாக்கி-பெண்-பலி/175-349080) · `ta`
+
+பவக்குளத்தை அண்மித்த உலுக்குளம பிரதேசத்தில் முதலையின் தாக்குதலுக்கு இலக்காகி 67 வயதுடைய பெண் ஒருவர் பரிதாபமாக உயிரிழந்துள்ளார்.
+
+புதுக்குடியிருப்பு சுடுவேந்திரபிலவில் வசிக்கும் பெண் மாடு மேய்த்துக் கொண்டிருந்த போது அருகில் உள்ள கால்வாயில் இருந்த முதலை தாக்கியுள்ளது.
+
+◼️
+
+[Data](articles/baf0add6.json)
+
+---
+
+### ”பொய்யை உண்மை என நம்ப வைக்க முழு உரிமை உள்ளது”
+
+*2024-12-22 11:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யை-உண்மை-என-நம்ப-வைக்க-முழு-உரிமை-உள்ளது/175-349079) · `ta`
+
+உண்மை ஒன்றை பொய் அல்லது பொய்யான ஒன்றை உண்மை என மற்றவர்களை நம்ப வைக்க மக்களுக்கு முழு உரிமை உள்ளது, அது ஜனநாயக உரிமை என NPP பாராளுமன்ற உறுப்பினர் நிலாந்தி கோட்டஹச்சி நேற்று (21) தெரிவித்தார்.
+
+களுத்துறையில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றிய அவர், அரசாங்கம் செய்யும் நல்ல விடயங்களின் பாதகமான பக்கத்தைப் பார்க்கும் உரிமை மக்களுக்கும் உண்டு எனவும், அந்த ஜனநாயக உரிமையை அரசாங்கம் ஒருபோதும் தடுக்காது எனவும் தெரிவித்தார்.
+
+"எந்த ஒரு உண்மையையும் பொய்யாகவும், எந்தப் பொய்யையும் உண்மையாகவும் நம்ப வைக்க உங்களுக்கு முழு உரிமை உண்டு. அது உங்களின் ஜனநாயக உரிமை. அரசு ஏதாவது நல்லது செய்யும் போது எதிர்மறையான பக்கத்தைப் பார்க்க உங்களுக்கு உரிமை உண்டு. மேலும், ஒரு தலைவர், அரசு, நிறுவனம் அல்லது தனிநபர் சமூகத்திற்கு தீங்கு விளைவிக்கும் செயல்களைச் செய்யும் போது பாராட்டவும் உங்களுக்கு உரிமை உண்டு," என்று அவர் கூறினார்.
+
+ஒரு செயலின் விளைவைப் பெற காலம் எடுக்கும் எனவும் எதையாவது விமர்சிக்கும் முன் முடிவுகள் வரும் வரை பொறுத்திருப்பது நல்லது என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/d48b0ffa.json)
+
+---
 
 ### “It is uncomfortable to conduct the exam during fasting during the fasting period”
 
@@ -56,29 +88,41 @@ In the letter of Al-Meesan Foundation, one of the sacred Ramadan, one of the sac
 
 ---
 
-### 24 மணிநேரத்தில் 10 விபத்துகள்: 13 பேர் பலி
+### 10 accidents in 24 hours: 13 killed
 
 *2024-12-22 10:54:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-10-விபத்துகள்-13-பேர்-பலி/175-349075) · `ta`
 
-நாட்டின் பிரதான நகரங்களுக்கு அண்மையில், கடந்த 24 மணி நேரத்தில் 10 விபத்துக்குள் இடம்பெற்றுள்ளது என்று தெரிவித்த பொலிஸ் ஊடகப் பேச்சாளர் திணைக்களம், அந்த விபத்துக்களில் 13 பேர் பலியாகியுள்ளனர். அதில், நால்வர் பாதசாரிகள் என்றும் திணைக்களம் அறிவித்துள்ளது.
+In 24 hours, 10 accidents occurred in major cities, resulting in 13 fatalities. Four pedestrians were involved. High vehicle traffic during the festive season increases risks. Police advise drivers and pedestrians to be cautious.
 
-உற்சவ காலம் என்பதால், பிரதான வீதிகளில் பயணிக்கும் வாகனங்களின் எண்ணிக்கை அதிகமாகும். ஆகையால், வாகன சாரதிகள் மிக அவதானமாக வாகங்களை செலுத்த வேண்டும். அத்துடன், பாதசாரிகளும் கவனமாக பயணிக்க வேண்டும் என்றும் அத் திணைக்களம் அறிவித்துள்ளது.
+🟩
+
+The police media spokesman's department said that the country's major cities have recently been reported in 10 accidents in the last 24 hours.. The department also declared four pedestrians.
+
+Since the festive season, the number of vehicles traveling on the main streets is high. Therefore, motorists have to pay vigilantly vigilantly. The department has also announced that pedestrians should travel carefully.
 
 ◼️
 
 [Data](articles/53978dd9.json)
 
+[Extended Data](ext_articles/53978dd9.ext.json)
+
 ---
 
-### இலங்கை ஜனாதிபதியின் இந்திய விஜயம்
+### Sri Lankan President's visit to India
 
 *2024-12-22 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201844) · `ta`
 
-இந்தியாவுடன் சேர்ந்து முன்னெடுப்பதற்கு முன்னைய இலங்கை அரசாங்கங்கள் இணங்கிக்கொண்ட பல செயற்திட்டங்களை இரு தேசிய தேர்தல்களுக்கும் முன்னதாக கடுமையாக எதிர்த்த தேசிய மக்கள் சக்தியின் தலைமைத்துவ கட்சியான ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) வின் தலைவர்கள், தற்போது தங்களது அரசாங்கம்  மறுதலையாக எடுத்திருக்கும் நிலைப்பாடுகளை நியாயப்படுத்துவதில் பெரிய சவாலை எதிர்  நோக்க வேண்டியிருக்கும்.
+Sri Lankan President's India visit: JVP leaders face challenge justifying government positions after opposing national elections.
+
+🟩
+
+The leaders of the Janata Vimukti Peramuna (JVP), the leadership party of the National People's Power, who vehemently opposed the two national elections ahead of the two national elections, will have to face a major challenge to justify the positions taken by their government.
 
 ◼️
 
 [Data](articles/562115a3.json)
+
+[Extended Data](ext_articles/562115a3.ext.json)
 
 ---
 
@@ -203,6 +247,24 @@ It is reported that the Kilinochchi police have carried out a road raid on Satur
 [Data](articles/6dc1144a.json)
 
 [Extended Data](ext_articles/6dc1144a.ext.json)
+
+---
+
+### සහල් ටොන් ලක්ෂ පහක ගබඩා පහසුකම් සතොසට හා වි අලෙවි මණ්ඩලයට තියෙනවා
+
+*2024-12-22 09:17:30* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ටොන්-ලක්ෂ-පහක-ගබඩා-පහසුකම්-සතොසට-හා-වි-අලෙවි-මණ්ඩලයට-තියෙනවා/11-413765) · `si`
+
+සහල් මේට්‍රික් ටොන් පන්ලක්ෂ පනස් දහසකට ආසන්න සහල් ගබඩා කල හැකි සතොස හා වී අලෙවි මණ්ඩලය සතු ගබඩා පහසුකම් පවතින බවත් ඉන් මේ වන විට තුන් ලක්ෂ පනස්දහසක් පමණ සහල් තොග ගබඩා කල හැකි තත්ත්වයේ  ගබඩා පවතින බවත් ඒ අනුව සතොස , වී අලෙවි මණ්ඩලය සහ සමූපකාර ආයතන ඒකාබද්ධව වී මිලදී ගැනීමේ ක්‍රියාවලිය ඉදිරියේදී ආරම්භ කරන බව වෙළඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
+
+අමාත්‍යවරයා මේ බව කියා සිටියේ ඊයේ (21දා) දින අනුරාධපුරයේදී, මාධ්‍ය වෙත අදහස් දක්වමිනි.
+
+ක්‍රම කිහිපයකට වෙළඳපළට සහල් නිකුත් කිරීම සඳහා ආණ්ඩුව විසින් කටයුතු කර ඇති බවත් පසුගිය දින දහය ඇතුළතදී පමණක් පොළොන්නරුව ප්‍රදේශයේ මෝල් හිමියන් සතුව තිබූ සහල් කිලෝ ලක්ෂ 100කට වැඩිය සහල් වෙළඳපලට නිදහස් කිරීමට රජය මැදිහත් වූ බව ඒ  මහතා පැවසීය.
+
+සතොස හරහා මෙට්‍රික් ටොන් තුන්දහසකට වැඩි ප්‍රමාණයක් වෙළඳපළට නිකුත් කිරීමටත් ආනයනය කිරීම් නිදහස් කිරීම හරහා ඊයේ සවස් වන විට සහල් මෙට්‍රික් ටොන් 65000ක් වෙළඳපළට පැමිණ තිබෙන බවත් ඒ අනුව සහල් වෙළඳපළ තුළ තිබෙන හිඟය මග හැරීමටත් හැකි වනබව අමාත්‍යවරයා කීය.
+
+...
+
+[Data](articles/4aa47db7.json)
 
 ---
 
@@ -343,6 +405,24 @@ At the same time, the Department of Meteorology has announced that there will be
 [Data](articles/6f4a7eba.json)
 
 [Extended Data](ext_articles/6f4a7eba.ext.json)
+
+---
+
+### Sri Lanka setting up public debt management office
+
+*2024-12-22 08:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-setting-up-public-debt-management-office-195752/) · `en`
+
+ECONOMYNEXT – Sri Lanka has started setting up a Public Debt Management Office (PDMO) to manage government borrowings which will also track obligatins of state enterprises and sub national bodies, the Finance Ministry said.
+
+The agency started in December 02 and is expected to be fully operational by January 2026 centralizing functions now carried out by different agencies.
+
+“The PDMA provides the legal framework for the establishment of the operationally independent Public Debt Management Office (PDMO),” the statement said.
+
+“This strengthens and centralizes the management of public debt, improves accountability and debt transparency and ensures the implementation of efficient and transparent borrowing practices, which are imperative for debt sustainability and the long-term fiscal health of the country.”
+
+...
+
+[Data](articles/dcbdffee.json)
 
 ---
 
@@ -2285,95 +2365,5 @@ Meanwhile, the Ministry said that the houses provided to government employees ar
 [Data](articles/9572701f.json)
 
 [Extended Data](ext_articles/9572701f.ext.json)
-
----
-
-### CID visit to Parliament
-
-*2024-12-21 09:36:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்துக்கு-CID-விஜயம்/175-349032) · `ta`
-
-CID probes parliamentary site claim against Justice Harshana Nanayakkara
-
-🟩
-
-A team of Criminal Investigation Department officials have launched an investigation into the parliamentary website in which Justice Harshana Nanayakkara has been named in front of the name of the Criminal Investigation Department.
-
-Meanwhile, the Criminal Investigation Department (CID) officials filed a statement to three parliamentary officials.
-
-It has been revealed that the information has been handed over to the Criminal Investigation Department officials of the Criminal Investigation Department.
-
-Attorney Harshana Nanayakkara recently lodged a complaint with the Criminal Investigation Department (CID) that he had slandered him in front of his name on the parliamentary website.. Accordingly, the Criminal Investigation Department has launched an investigation into the incident.
-
-◼️
-
-[Data](articles/38479e8d.json)
-
-[Extended Data](ext_articles/38479e8d.ext.json)
-
----
-
-### The local government elections are the year in the next year
-
-*2024-12-21 09:33:54* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-අවුරුද්දට-පෙර--පළාත්-සභාව-ලබන-වසර-තුළදි/11-413758) · `si`
-
-Local government elections scheduled for next year, preceding Sinhala Hindu New Year. Provincial council election also planned within same timeframe. President announces bill to cancel last year's nominations.
-
-🟩
-
-The local government elections are held before the Sinhala and Hindu New Year next year and the provincial council election said that the provincial council election was conducted within the next year.
-
-The President said that the bill had been prepared to cancel the names of the nominations of the nomination last year.
-
-Speaking to the ...
-
-◼️
-
-[Data](articles/e543e74d.json)
-
-[Extended Data](ext_articles/e543e74d.ext.json)
-
----
-
-### Sri Lanka's credit rating up
-
-*2024-12-21 09:18:46* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රි-ලංකාවේ-ණය-ශ්‍රේණිගත-කිරිම-ඉහළට/11-413757) · `si`
-
-Sri Lanka's credit rating upgraded by Fitch Ratings. Long-term foreign currency issuer rating improved from negative to CCC+. Reflects better prospects for debt restructuring, positive economic indicators, and reduced risk of local currency devaluation.
-
-🟩
-
-Fitch Ratings has raised Sri Lankan loan rating. The rating of long-term Foreign Currency Issuers has been increased from negative level to CCC to CCC positive level.
-
-This shows the risk of restructuring success, positive macroeconomic indexes and the risk of local currency.
-
-◼️
-
-[Data](articles/fbfec471.json)
-
-[Extended Data](ext_articles/fbfec471.ext.json)
-
----
-
-### Diplomatic Himali Arunathilaka accused by Australian court
-
-*2024-12-21 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201752) · `ta`
-
-Sri Lankan diplomat Himali Arunathilaka faces legal action in Australia. External Affairs Minister Vijitha Herath clarifies government policy on diplomat salaries and employment practices.
-
-🟩
-
-External Affairs Minister Vijitha Herath pointed out that the government will provide the salaries of employees being taken from Sri Lanka by foreign diplomats and will be decided in accordance with the salary rules in Sri Lanka.
-
-A media briefing was organized at the Government Information Department in Colombo on Friday (20) to clarify the issues and signed agreements examined during the recent visit to President Anura Kumara Dissanayake.
-
-There, a journalist was questioned about the ruling imposed by the Australian Federal Court against Himali Arunathilaka, who is currently the permanent resident of Sri Lanka in Sri Lanka for the United Nations.
-
-Responding to this, Minister Vijitha Herath explained that when diplomats hold positions abroad, they would be able to take their homework from Sri Lanka and that the salaries of the workers would not be paid by the government and not by the diplomat.
-
-...
-
-[Data](articles/f5d23819.json)
-
-[Extended Data](ext_articles/f5d23819.ext.json)
 
 ---

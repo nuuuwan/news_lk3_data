@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 04:01:12**
+As of **2024-12-23 04:27:27**
 
 ## Newspaper Stats
 
-*Scraped **61,533** Articles*
+*Scraped **61,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,122 @@ dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
 tamilmirrorlk | 8,797
-virakesarilk | 10,177
+virakesarilk | 10,178
 adaderanasinhalalk | 10,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,298 (99.6%) of 61,533 articles have been extended.
+61,302 (99.6%) of 61,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### தனங்கிளப்பு பகுதியில் சட்டவிரோதமாக பனை மரங்கள் தறிப்பு!
+### 13 people die in 10 road accidents in 24 hours
+
+*2024-12-23 03:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201923) · `ta`
+
+13 killed in 10 road accidents across Sri Lanka in 24 hours. Police urge increased street vigilance during holidays.
+
+🟩
+
+Police Media Spokesperson Senior Superintendent of Police Buddhika Manatunga said that 13 people were killed in 10 road accidents in various areas in the country in the last 24 hours.
+
+The road accidents occurred in the last 24 hours in the areas of Makkalappu, Hatton, Seethawa, Pinnaduwa, Marawila, Hambalantota, Mirihana, Gampola, Hettipola and Kepathikollawa.
+
+He said he should pay more attention to the streets during the festive season.
+
+◼️
+
+[Data](articles/864de15a.json)
+
+[Extended Data](ext_articles/864de15a.ext.json)
+
+---
+
+### Illegal palm trees in Tanankulapu area
 
 *2024-12-23 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201922) · `ta`
 
-தனக்கிளப்பு பகுதியில் 25க்கும் மேற்பட்ட அனுமதியற்ற சட்டவிரோத பனை மரங்கள் தொடர்ச்சியாக தறிக்கப்பட்டு வந்த நிலையில் பொதுமக்கள் வழங்கிய முறைப்பாட்டை அடுத்து  பனை அபிவிருத்தி சபையால் சாவகச்சேரி பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது .
+Here's a summary of the text in approximately 200 characters:
 
-தனங்கிளப்புப் பகுதியில் தொடர்ச்சியாக சட்டவிரோத பனை மரங்கள் வெட்டப்படுவதாக பனை அபிவிருத்திச் சபைக்கு முறைப்பாடு கிடைக்கப்பெற்றது.
 
-முறைப்பாட்டின் அடிப்படையில் எமது உத்தியோத்தர்கள் குறித்த இடத்திற்கு விஜமம் மேற்கொண்ட நிலையில் அங்கு 25க்கும் மேற்பட்ட பனை மரங்கள் தறிக்கப்பட்டமை அவதானிக்கப்பட்டதுடன் கனகர இயந்திரங்கள் குறித்த பகுதியில் கொண்டுவரப்பட்டமையும் நேரடியாக அவதானிக்கப்பட்டது.
 
-குறிப்பாக சொல்ல வேண்டுமானால் இள வயது பனைகள் பல தறிக்கப்பட்டும் அடிப்பாகங்கள் எயியூட்டப்பட்ட நிலையிலும் காணப்பட்டது.
+"Complaint filed about 25+ unauthorized palm trees in Tanangilapu. Palm Development Board observes cutting. Landowner promises legal action. Police refuse to accept complaint. Illegal dumping reported. Contact: 0779273042."
 
-சம்பவம் தொடர்பில் நெல்லியடியைச் சேர்ந்த காணி உரிமையாளர் சாவகச்சேரி பொலிஸ் நிலையம் வரவழைக்கப்பட்டுள்ள நிலையில் பொலிசார் வழக்கு தாக்கல் செய்வதாக உறுதியளித்தனர்.
+🟩
+
+The Palm Development Board has lodged a complaint with the Palm Development Board following a complaint lodged by the public as more than 25 unauthorized illegal palm trees have been continuously dumped in the area.
+
+The Palm Development Board has received a complaint that the illegal palm trees are being cut down in the Tanangilapu area.
+
+On the basis of the complaint, more than 25 palm trees were observed and the Kanagara machines were directly observed in the area.
+
+In particular, many young palms have been seen and the bottoms are found.
+
+The owner of the land from Nelliyadi has promised to file a case as the Chavakachcheri police station has been summoned.
+
+The Chavakachcheri police have refused to accept our officers to file a complaint with the kanagara machines brought to the cutting of palm trees.
 
 ...
 
 [Data](articles/c9459e11.json)
 
+[Extended Data](ext_articles/c9459e11.ext.json)
+
 ---
 
-### வவுனியாவில் முதலை தாக்கி முதியவர் பலி
+### Crocodile killed in Vavuniya
 
 *2024-12-23 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201921) · `ta`
 
-வவுனியாவில் முதலை தாக்கியதில் சூடுவெந்தபுலவை சேர்ந்த பெண் ஒருவர் பலியாகியுள்ளதாக உலுக்குளம் பொலிஸார் தெரிவித்தனர்.
+Here's a summary of 200 characters:
 
-நேற்றையதினம் மாடுகளை மேய்ப்பதற்காக பாவற்குளம் - சூடுவெந்தபுலவு பகுதிக்கு சென்ற வேளை அப்பகுதியில் காணப்பட்ட ஆற்றுப்பகுதியில் இறங்கிய போதே முதலையின் தாக்குதலுக்கு இலக்காகி பலியாகியுள்ளார்.
 
-இச்சம்பவத்தில் சூடுவெந்தபுலவினை சேர்ந்தமூன்று பிள்ளைகளின்  தாயான 67 வயதுடைய ஆதம்பாவா முசிறியா என்பவரே பலியாகியுள்ளார்.
+
+"Crocodile attack kills woman in Vavuniya: Adambawa Musiria, 67, died while feeding cows near a river. She had three children."
+
+🟩
+
+A woman from Suduvundapula has been killed in a crocodile attack in Vavuniya, Ulukkulam police said.
+
+He was killed when he landed on the river in the area yesterday when he went to the Pavakkulam - Sudundapulavu area to feed the cows.
+
+Adambawa Musiria, 67, the mother of three children, belonging to Suduventhulavalai, was the victim of Adambawa Musiria.
 
 ◼️
 
 [Data](articles/d4b4b058.json)
 
+[Extended Data](ext_articles/d4b4b058.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் நான்கு நாட்கள் காய்ச்சலால் பீடிக்கப்பட்ட குடும்பஸ்தர் உயிரிழப்பு!
+### Forest family death in Jaffna four days
 
 *2024-12-23 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201920) · `ta`
 
-யாழ்ப்பாணத்தில் நான்கு நாட்கள் காய்ச்சலால் பீடிக்கப்பட்ட குடும்பஸ்தர் ஒருவர் இன்றையதினம் உயிரிழந்துள்ளார். கோண்டாவில் பகுதியைச் சேர்ந்த கந்தசாமி குணரத்தினம் (வயது 67) என்ற 5 பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+Here's a summary of 200 characters:
 
-இவர் நான்கு தினங்களாக காய்ச்சலினால் பீடிக்கப்பட்டிருந்தார். இந்நிலையில் அவரை ஞாயிற்றுக்கிழமை (22) யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு சென்றவேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்தனர்.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிரேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+Jaffna: 67-year-old Kandasamy Gunaratnam dies of 4-day fever. Doctors say death occurred before hospital admission. Body examined by sudden death officer, handed to relatives.
+
+🟩
+
+A family member of a four -day fever in Jaffna dies today. Kandasamy Gunaratnam (age 67), a resident of Kondavil, died.
+
+He had been suffering from fever for four days. Doctors said he had already died when he was taken to the Jaffna Teaching Hospital on Sunday (22).
+
+Sudden Death Investigation Officer Namasivayam Premkumar. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/e540521a.json)
+
+[Extended Data](ext_articles/e540521a.ext.json)
 
 ---
 
@@ -2207,23 +2261,5 @@ The suspects were later seized from the suspects, five value and two motorcycles
 ◼️
 
 [Data](articles/8a167a87.json)
-
----
-
-### What is the state of the peacock, which was the leading fishing port?
-
-*2024-12-22 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201872) · `ta`
-
-State of peacock, leading fishing port: Sri Lanka's seafood supply to Mayiliti impacted by war. Restoration efforts ongoing for over a decade.
-
-🟩
-
-The whole of Sri Lanka was able to provide most of the seafoods required by Mayiliti. Even after the end of the war, one and a half decades could not be restored
-
-◼️
-
-[Data](articles/81039a4d.json)
-
-[Extended Data](ext_articles/81039a4d.ext.json)
 
 ---

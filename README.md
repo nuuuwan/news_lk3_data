@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 16:13:45**
+As of **2024-12-22 16:26:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,226 (99.7%) of 61,435 articles have been extended.
+61,227 (99.7%) of 61,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -526,15 +526,25 @@ The then President Ranil Wickremesinghe was trying to sign the agreement before 
 
 ---
 
-### கட்சிக்குள் நிலவும் குழப்பங்களை விட்டுக்கொடுப்பின் ஊடாக தீர்க்கும் காலம் கடந்துவிட்டது ; குழப்பங்களுக்கு மூலகாரணம் மாவையே! - சாணக்கியன் விசேட செவ்வி
+### The time has passed through the confusion within the party;The root cause of chaos is flour!- Chanakyan Special Chemistry
 
 *2024-12-22 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201858) · `ta`
 
-“அடுத்துவரும் தேர்தல்களுக்கு முகங்கொடுக்கக்கூடியவகையில் கட்சியைப் பலப்படுத்தி, முன்நோக்கிப் பயணிக்க வேண்டும் என்பதே எனது நிலைப்பாடு. அதனைவிடுத்து கட்சியிலிருந்து இராஜினாமா செய்த தலைவர் பதவி ஆசையில் இருக்கிறார் என்பதற்காக எம்மால் ஒன்றும் செய்யமுடியாது அல்லவா?. வழமையாக ஜனாதிபதியுடனான சந்திப்பின்போது என்னென்ன விடயங்கள் பற்றிக் கலந்துரையாடுவது என ஒரு அட்டவணை இருக்கும். இச்சந்திப்பின்போது அவ்வாறு எதுவும் இருக்கவில்லை. ஆனால், பின்னர் இச்சந்திப்பு குறித்து ஆராய்ந்தபோது, வெள்ளம் பற்றிப் பேசுவதற்காகத்தான் நேரம் கோரப்பட்டதாகக் கூறப்படுகிறது. மாறாக, தமிழ்த் தேசிய இனப்பிரச்சினை பற்றிப் பேசுவதற்கு சிறிதரன் நேரம் கேட்கவில்லை........”
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Party turmoil caused by flour shortage. Leader resigns, seeking election strategy. Meeting with president focuses on flood relief instead of Tamil issues.
+
+🟩
+
+“My position is to strengthen the party and move forward in a way that can face the next elections.. Can we do nothing for the fact that the leader who resigned from the party is in desire.. There will be a schedule of what matters to discuss what matters during the meeting with the president. There was nothing like that. But, when he examined the incident, it was said that the time was only requested to talk about floods.. On the contrary, Sridharan did not hear the time to talk about the Tamil national problem ........ ”
 
 ◼️
 
 [Data](articles/8523267e.json)
+
+[Extended Data](ext_articles/8523267e.ext.json)
 
 ---
 

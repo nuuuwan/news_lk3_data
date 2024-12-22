@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 18:03:34**
+As of **2024-12-22 18:22:40**
 
 ## Newspaper Stats
 
-*Scraped **61,453** Articles*
+*Scraped **61,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,856
+adalk | 5,857
 adaderanalk | 7,503
 tamilmirrorlk | 8,791
 virakesarilk | 10,145
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,238 (99.7%) of 61,453 articles have been extended.
+61,239 (99.7%) of 61,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,29 +186,37 @@ Joe Root is due to join the Indian team in the 19th of January.
 
 ---
 
-### හැටන් බස් රථ අනතුරේ රියදුරුට දුන් නියෝගය
+### Driver at Hatton bus accident
 
 *2024-12-22 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204614) · `si`
 
-හැටන් මල්ලිඅප්පුව ප්‍රදේශයේ ඊයේ (21) සිදු වූ පෞද්ගලික බස් රථ අනතුරෙන් තුවාල ලබා දික්ඔය මූලික රෝහලේ පොලිස් ආරක්ෂාව මධ්‍යයේ ප්‍රතිකාර ලබමින් සිටි එම බස් රථයේ රියදුරු මේ මස 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස නියෝග කළේය.
+Bus crash in Hatton: Driver hospitalized, 3 dead, 53 injured. Acting Magistrate orders continued treatment under police protection.
 
-හැටන් මහෙස්ත්‍රාත් අධිකරණයේ වැඩබලන මහෙස්ත්‍රාත් එස්. රාම්මුර්ති මහතා විසින් අද (22) මෙම නියෝග නිකුත් කර ඇත.
+🟩
 
-රෝහල වෙත පැමිණි වැඩබලන මහෙස්ත්‍රාත්වරයා, වෛද්‍යවරුන්ගෙන් සැකකාර රියදුරුගේ තත්ත්වය පිළිබද කරුණු විමසා මෙම නියෝගය ලබාදී තිබේ.
+The driver of the bus was being treated at the Dikoya Basic Hospital yesterday (21st) was admitted to the 26th of this month until the 26th of this month.
 
-ඒ අනුව සැකකාර රියදුරා බන්ධනාගාර නිලධාරින්ගේ ආරක්ෂාව යටතේ රෝහල තුළම මේ වනවිට ප්‍රතිකාර ලබමින් සිටියි.
+Acting Magistrate S.. The orders have been issued today (22) by Mr. Rammunathi.
 
-ඊයේ (21) උදෑසන හැටන් සිට මහනුවර බලා ධාවනය වූ මෙම බස් රථය මල්ලිඅප්පුව ප්‍රදේශයේදී අනතුරට ලක්විය.
+The actress Magistrate who arrived at the hospital has been given this order in consultation of the condition of the doctors.
 
-වංගු සහිත මෙම මාර්ගයේ රියදුරුට බස් රථය පාලනය කරගැනීමට නොහැකිවී එය මාර්ගයෙන් ඉවතට ගොස් අඩි 20ක පමණ කොන්ක්‍රීට් බැම්මකින් පහළට වැටුණි.
+The suspect is receiving treatment at the hospital under the protection of prison officials.
 
-එම අනතුරින් රියැදුරු සහ සහයක ඇතුළු 53 දෙනෙකු තුවාල ලැබූ අතර, ඉන් තිදෙනෙකු ජීවිතක්ෂයට පත්විය.
+The bus, which was traveling from Hatton yesterday morning, was crashed in the Mallippuwa.
 
-එලෙස මියගොස් තිබුණේ හැටන් ප්‍රදේශයේ පදිංචි වයස අවුරුදු  14ක පාසල් ශිෂ්‍යයෙක්, 68 හැවිරිදි මහනුවර පදිංචිකරුවෙක් සහ කාන්තාවක්ය.
+The driver of the wind with winding was not controlled by the bus and fell to 20 feet concrete wall.
+
+53 persons including a driver and assistance were injured and three were killed.
+
+The victim was a 14 year old schoolchildren, a 68-year-old Kandy resident and a woman.
+
+The body of the 14-year-old child, who was residing in Hatton Estate, the body of the 14-year-old was placed at his residence.
 
 ...
 
 [Data](articles/afdbed60.json)
+
+[Extended Data](ext_articles/afdbed60.ext.json)
 
 ---
 
@@ -269,6 +277,24 @@ In response to the hospital, the magistrate asked the doctors regarding the plig
 ◼️
 
 [Data](articles/04e202b9.json)
+
+---
+
+### බෙන්තොට රෝහලෙන් සොරකම් කළ ඊ.සී.ජී. යන්ත්‍රය දින 3ට පසු රෝහලට ගෙනත් දාලා
+
+*2024-12-22 15:59:26* · [`adalk`](https://www.ada.lk/breaking_news/බෙන්තොට-රෝහලෙන්-සොරකම්-කළ-ඊ-සී-ජී--යන්ත්‍රය-දින-3ට-පසු-රෝහලට-ගෙනත්-දාලා/11-413775) · `si`
+
+බෙන්තොට රජයේ රෝහලේ හදිසි ප්‍රතිකාර අංශයේ තිබියදී ඉකුත් 18 දා රාත්‍රියේ කිසිවෙකු විසින් සොරකම් කරගෙන ගිය රුපියල් දෙලක්ෂ විසිපන්දාහක් පමණ වටිනා ඊ.සී.ජී.යන්ත්‍රය සහ තවත් වෛද්‍ය මාපකයක් අද  (22 ) අලුයම බෙන්තොට රෝහල ඉදිරිපිට බිමදමා ගොස් තිබියදී සොයාගත් බව බෙන්තොට පොලීසිය කියයි.
+
+ඉකුත් 18 දා රාත්‍රී අටට පමණ මෙම යන්ත්‍ර සොරාගෙන යාම පිළිබඳව රෝහලේ රාත්‍රී සේවයේ යෙදී සිටි හෙද නිලධාරිනියක විසින්  පොලීසියට පැමිණිල්ලක් කර තිබූ බව පොලීසිය පැවසීය.
+
+මෙම යන්ත්‍ර සොරකම ගැන ඇල්පිටිය පොලිස් කොට්ඨාස ඇඟිලි සලකුණු අංශයේ නිලධාරීන් සමග පරීක්ෂණ පවත්වමින් සිටියදී එම යන්ත්‍ර පොලිතීන් දවටනයකින් ඔතා කිසිවෙකු විසින් අද මෙලෙස රෝහල ඉදිරිපිට දමා ගොස් තිබූ බව පොලීසිය පැවසීය .
+
+ඇල්පිටිය කොට්ඨාස ඇඟිලි සලකුණු අංශයේ නිලධාරීන් පැමිණ මෙම යන්ත්‍ර ඔතා තිබූ දවටන ඉවත්කර එහි ඇඟිලි සළකුණු ලබාගත් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a753311f.json)
 
 ---
 
@@ -2271,43 +2297,5 @@ Leftist Dissanayake came to power in September on a pledge to fight corruption a
 [Data](articles/2d1ffb55.json)
 
 [Extended Data](ext_articles/2d1ffb55.ext.json)
-
----
-
-### Shocking information about Hatton bus accident
-
-*2024-12-21 21:25:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-பஸ்-விபத்து-தொடர்பில்-அதிர்ச்சி-தகவல்-வௌியானது/76-349053) · `ta`
-
-Here's a summary of the Hatton bus accident in approximately 200 characters:
-
-
-
-3 killed, 53 injured in Hatton-Kandy bus crash. Bus crashed into ditch, lost control. Police investigating CCTV footage. Incident occurred on 21st.
-
-🟩
-
-Three people were killed and many others were injured when a private bus traveling from Hatton to Kandy crashed today (21).
-
-The bus traveling from Hatton crashed into a ditch and crashed into the ditch.
-
-53 passengers, including the driver of the bus and the conductor, were injured and admitted to Tikoya and Vattawala hospitals.
-
-Three people were killed as a 14 -year -old schoolgirl from Hatton, a 68 -year -old woman from Kandy and another woman.
-
-It is reported that the school student went to take the drug with her sister.
-
-Hospital sources said that 10 of the injured were nominated to the Kandy Teaching Hospital and 4 of them were worrisome.
-
-The driver noted that the bus lost control and opened the door and fell down from the bus.
-
-However, Hatton police have searched the CCTV camera system mounted on the crash bus.
-
-Shortly after the accident, it is also reported that a person has been removed using his mobile phone approaching the relevant CCTV.. Remble
-
-◼️
-
-[Data](articles/5aed2e48.json)
-
-[Extended Data](ext_articles/5aed2e48.ext.json)
 
 ---

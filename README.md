@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 15:01:07**
+As of **2024-12-22 15:12:03**
 
 ## Newspaper Stats
 
-*Scraped **61,432** Articles*
+*Scraped **61,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,851
+adalk | 5,852
 adaderanalk | 7,501
 tamilmirrorlk | 8,788
 virakesarilk | 10,138
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,218 (99.7%) of 61,432 articles have been extended.
+61,218 (99.7%) of 61,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -583,6 +583,24 @@ He said that the NPP members had never lied during the election campaign to brin
 [Data](articles/d48b0ffa.json)
 
 [Extended Data](ext_articles/d48b0ffa.ext.json)
+
+---
+
+### සහල් අර්බුදය විසඳන්න පුබුදු සහල් නිෂ්පාදක සංගමය සූදානම්
+
+*2024-12-22 11:20:13* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-අර්බුදය-විසඳන්න-පුබුදු-සහල්-නිෂ්පාදක-සංගමය-සූදානම්/11-413769) · `si`
+
+මෙරටේ පාරිභෝගික ජනතාව මෙන්ම වෙළද ව්‍යාපාරිකයින් මුහුණපා ඇති සහල් ගැටලුවට තමන්ට විසදුම් ලබාදිය හැකි බවත් ඒ සඳහා රජය සහාය ලබා දෙන්නේනම් ඉදිරියේදී මෙරටේ සහල් අර්බුදයක් ඇති නොවීමට කටයුතු කරන බව පොළොන්නරුව දිස්ත්‍රීක් සුළු හා මධ්‍ය පරිමාණ පුබුදු සහල් නිෂ්පාදකයින්ගේ සංගමය පවසයි.
+
+ඔවුන් මේ අදහස් පලකර සිටියේ පොළොන්නරුව දිස්හ්‍රීක්කයේ සුළු හා මධ්‍ය පරිමාණ පුබුදු සහල් නිෂ්පාදකයින්ගේ සංගමය අද (22) පෙරවරුවේදි පොළොන්නරුවේ පැවති විශේෂ මාධ්‍ය හමුවකට එක්වෙමිනි.
+
+මෙහිදි වැඩිදුරටත් අදහස් දක්වමින් පුබුදු සහල් නිෂ්පාදකයින්ගේ සංගමයේ නිලධාරීන් සාමාජික ජේ.එම්. නිලන්ත කුමාර  ජයලත් මහතා  මෙලෙස පැවසීයීය.
+
+'' පොළොන්නරුව දිස්ත්‍රීක්කයේ සුළු හා මධ්‍ය පරිමාණ වී මෝල් 500 ක් පමණ තිබුණත් මේවනවිට ඉන් 90% ක් පමණ වැහිලා ගිහිල්ලා තියෙනවා,ඒකට හේතුව පැවති රජයන් ගත්ත තීන්දු තීරණ හා මහා පරිමාණ වී මොල් හිමියන් ගත්තු ක්‍රියා මාර්ග නිසයි, ඒ නිසා සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන්ගේ සහල් නිෂ්පාදනය කඩා වැටුනා,මේ රටේ මේ වනවිට නිර්මාණය වෙලා තියෙන සහල් අර්බුදයට හේතුවෙලා තියෙන්නෙ මේ සුළු හා මධ්‍ය පරිමාණ මෝල් කඩා වැටීමයි.
+
+...
+
+[Data](articles/9b3006ec.json)
 
 ---
 
@@ -2253,25 +2271,5 @@ The bus belonging to the Teldeniya Depot, owned by the Sri Lanka Transport Board
 [Data](articles/026ccc26.json)
 
 [Extended Data](ext_articles/026ccc26.ext.json)
-
----
-
-### 5 injured as bus topples off road in Kadugannawa
-
-*2024-12-21 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104398/5-injured-as-bus-topples-off-road-in-kadugannawa) · `en`
-
-A passenger bus belonging to the Sri Lanka Transport Board (SLTB) has toppled off the road near the Dawson’s Tower in Kadugannawa, injuring 5 passengers who were travelling in the bus, Ada Derana reporter said.
-
-The bus, attached to the Theldeniya SLTB Depot, was travelling from Colombo to Kandy when it veered off the road, hit a tree and toppled.
-
-Five individuals who sustained injuries during the incident have been admitted to hospital for treatment.
-
-Police suspect that the accident was caused by a brakes failure of the bus, according to the reporter.
-
-◼️
-
-[Data](articles/8b7eb5fe.json)
-
-[Extended Data](ext_articles/8b7eb5fe.ext.json)
 
 ---

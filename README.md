@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 08:49:48**
+As of **2024-12-22 09:43:27**
 
 ## Newspaper Stats
 
-*Scraped **61,375** Articles*
+*Scraped **61,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,843
-adaderanalk | 7,488
-tamilmirrorlk | 8,777
+adalk | 5,844
+adaderanalk | 7,490
+tamilmirrorlk | 8,779
 virakesarilk | 10,123
 adaderanasinhalalk | 10,608
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,179 (99.7%) of 61,375 articles have been extended.
+61,184 (99.7%) of 61,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### நாய் சுட்டுக் கொலை
+
+*2024-12-22 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-சுட்டுக்-கொலை/175-349063) · `ta`
+
+வவுனியா வைத்தியசாலையில் கடமையாற்றும் பாதுகாப்பு உத்தியோகத்தர் ஒருவரே இந்த நாயை, வியாழக்கிழமை (19) இவ்வாறு சுட்டுக் கொலை செய்துள்ளார்.
+
+வைத்தியசாலையின் பிரேத அறையருக்கில்   நின்ற நாய் மீது பாதுகாப்பு உத்தியோகத்தர் தன்னிடம் இருந்த வாயு துப்பாக்கியை பயன்படுத்தி சுட்டுள்ளதாக தெரியவருகிறது.
+
+இதனால் காயமடைந்த நாய் இரத்தம் சிந்தி இழுபட்டு சென்று வேலி ஓரமாக மரணித்துள்ளது. குறித்த சம்பவம் தொடர்பாக நாய் காப்பகம் ஒன்றை நடத்தி வருபவர் வைத்தியசாலை பணிப்பாளரிடம் வெள்ளிக்கிழமை (20) முறைப்பாடு செய்துள்ளார்.
+
+இது குறித்த விசாரணை செய்து உரிய நடவடிக்கை எடுக்கப்படும் என பணிப்பாளர் இதன்போது உறுதியளித்துள்ளார்.
+
+◼️
+
+[Data](articles/ff3d4081.json)
+
+---
+
+### கிளிநொச்சியில் மோப்ப நாய்களுடன் சோதனை
+
+*2024-12-22 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-மோப்ப-நாய்களுடன்-சோதனை/175-349062) · `ta`
+
+கிளிநொச்சி மாவட்டத்தில் வீதி ஒழுங்குகளை மீறுபவர்கள், சட்ட விரோத செயற்பாடுகளில் ஈடுபடுபவர்கள் தொடர்பாகவும் பொலிஸாருக்கு கிடைத்த ரகசிய தகவலை அடுத்து ஏ-9 வீதியில், மோப்ப நாய்களை வைத்து வாகனங்களை சோதனைக்கு உட்படுத்தும் நடவடிக்கைகளை மேற்கொண்டனர்.
+
+எதிர்வரும் 25 ஆம் திகதி நத்தார் பண்டிகையின் போது எவ்வித அசம்பாவிதங்களும் இடம்பெறக்கூடாது என்ற என்ற நோக்கிலும் கிளிநொச்சி பொலிஸார் வீதி சோதனைகளை சனிக்கிழமை (21) முன்னெடுத்திருந்தனர் என தகவல்கள் கிடைத்துள்ளன.
+
+◼️
+
+[Data](articles/6dc1144a.json)
+
+---
 
 ### Watch the vehicles in vigilant
 
@@ -55,6 +87,26 @@ Police have also announced that they should be observed due to the routine accid
 [Data](articles/5b78031b.json)
 
 [Extended Data](ext_articles/5b78031b.ext.json)
+
+---
+
+### Man stabbed to death in Kirindiwela
+
+*2024-12-22 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104407/man-stabbed-to-death-in-kirindiwela) · `en`
+
+A 42-year-old man has reportedly been stabbed to death with a sharp weapon in the Walgammulla area of Kirindiwela.
+
+The incident occurred last evening (21), and the deceased has been identified as a resident of Thimbirigama, Kirindiwela.
+
+Initial investigations suggest that the murder was committed by the guard of a plot of land leased by the victim. Following the crime, the suspect fled the scene on the victim’s motorcycle, the police said.
+
+The motive behind the murder has not been revealed yet, and the Kirindiwela Police are conducting further investigations to apprehend the suspect.
+
+◼️
+
+[Data](articles/02797ce4.json)
+
+[Extended Data](ext_articles/02797ce4.ext.json)
 
 ---
 
@@ -86,55 +138,125 @@ At the same time, the Department of Meteorology has announced that there will be
 
 ---
 
-### පසුගිය වසරේදී ආර්ථිකයට වැඩිම දායකත්වය බස්නාහිරින්
+### Easily contributed to the economy last year
 
 *2024-12-22 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204602) · `si`
 
-පසුගිය 2023 වසරේ ශ්‍රී ලංකාවේ නාමික දළ දේශීය නිෂ්පාදනය සඳහා ඉහළම දායකත්වය ලබා දීමට බස්නාහිර පළාත සමත්ව ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Western Province leads Sri Lanka's GDP growth in 2023, contributing 43.7%. Services and industries drive this high percentage. Other top contributors: Wayamba (2nd), Central (3rd). Minor decreases seen in some provinces. Overall GDP reached Rs. 27,630 billion.
 
-නිවේදනයක් නිකුත් කරමින් මහ බැංකුව සඳහන් කර ඇත්තේ එහි අගය 43.7%ක් වන බවය.
+🟩
 
-කෙසේ නමුත් එම දායකත්වය පෙර වසර හා සසඳන විට සුළු අඩුවීමක් පෙන්නුම් කර ඇති බවද එහි සඳහන් වේ.
+The Western Province, the Central Bank of Sri Lanka (SLTB) has contributed to the highest contribution to Sri Lanka's nominal gross domestic product in 2023.
 
-බස්නාහිර පළාත තුළ මෙම දායකත්වය සඳහා සේවා සහ කර්මාන්ත අංශ කැපී පෙනෙන දායකත්වයක් ලබා දී තිබේ.
+In a statement, the Central Bank stated that it is 43.7%.
 
-මේ අතර සමස්ත දළ දේශීය නිෂ්පාදනය සඳහා දෙවන සහ තෙවන ඉහළම දායකත්වය ලබා දීමට වයඹ සහ මධ්‍යම පළාත් සමත් ව තිබේ.
+However, it has shown that the contribution has shown a small decrease compared to the previous year.
 
-ඒ අනුව වයඹ පළාත 10.9%ක් ද මධ්‍යඹ පළාත 10.3%ක් ලෙසද එහිදී දායකත්වය ලබා දී ඇත.
+The services and industry sectors have contributed significantly to this contribution in the Western Province.
 
-මහ බැංකුව පැවසුවේ බස්නාහිර පළාතේ දායක්ත්වය සුළු අඩු වීමක් පෙන්නුම් කළද 2022 වසරට සාපේක්ෂව 2023 වසරේදී මධ්‍යම, උතුරු මැද, උතුරු හා දකුණු පළාත්වලින් දක්වන ලද දායකත්වය සාපේක්ෂව ඉහළ ගොස් තිබේ.
+Wayamba and Central provinces have been able to provide the second and third highest contribution to the total gross domestic product.
 
-තවද පෙර වසරට සාපේක්ෂව අඩු වේගයකින් වුවද සියලුම පළාත්වල නාමික දළ දේශීය නිශ්පාදනය 2023 වසරේදී වර්ධනය වී තිබේ.
+Accordingly North Western Province is 10.9% and the Middle Province has been contributed 10.3%.
+
+The Central Bank said that the contribution of the Western Province was a minor reduction in the middle, North Central, North and Southern provinces.
+
+Almost 2023, nominal gross domestic product in all provinces has grown in 2023.
 
 ...
 
 [Data](articles/76e3ae79.json)
 
+[Extended Data](ext_articles/76e3ae79.ext.json)
+
 ---
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### Showers expected in parts of the island
+
+*2024-12-22 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104406/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at several places in Western, Sabaragamuwa, Southern and Uva provinces and in Nuwara-Eliya, Kandy and Ampara districts during the evening or night.
+
+A few showers may occur in Northern and North-western provinces and in Anuradhapura district.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa, Southern, Uva and Eastern provinces during the morning, the statement added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8ddf2856.json)
+
+[Extended Data](ext_articles/8ddf2856.ext.json)
+
+---
+
+### Fatal accidents that have been killed
 
 *2024-12-22 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204601) · `si`
 
-ගතවූ පැය 24 තුළ ප්‍රදේශ කිහිපයකදී සිදුවූ රිය අනතුරුවලින් තරුණයින් දෙදෙනෙකු ඇතුළු පුද්ගලයින් 8 දෙනෙකු මියගොස් තිබේ.
+Here's a summary of the fatal accidents in approximately 200 characters:
 
-ඊයේ (21) එම අනතුරු සිදුව තිබුණේ මාරවිල, අම්බලන්තොට, ගම්පොල, හෙට්ටිපොළ, මඩකලපුව, මිරිහාන, කැබිතිගොල්ලෑව සහ සීදුව යන පොලිස් වසම්වලදීය
 
-පෑලියගොඩ - පුත්තලම මාර්ගයේ මාරවිල නගරයේදී කොළඹ බස් රථයක් ඉදිරියෙන් පැමිණි ත්‍රිරෝද රථයක මුහුණට මුහුණ ගැටී අනතුරක් සිදුව ඇත.
 
-අනතුරින් බරපතළ තුවාල ලැබු ත්‍රිරෝද රථ රියදුරු මාරවිල රෝහලට ඇතුලත් කිරීමේදී මියගොස් ඇත.
+Multiple road accidents across Sri Lanka resulted in 8 deaths over 24 hours. Incidents included collisions between vehicles, motorcycles, pedestrians, and cyclists. Ages of victims ranged from 24 to 64 years old. Police are investigating further.
 
-එලෙස මියගොස් ඇත්තේ, දිවුල්වැව, ආණමඩුව ප්‍රදේශයේ පදිංචිව සිටි 40 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-මේ අතර කොළඹ - වැල්ලවාය මාර්ගයේ වලවල ප්‍රදේශයේදී ටිපර් රථයක් ඉදිරියෙන් එම දිශාවටම ධාවනය වූ යතුරු පැදියක පිටුපස ගැටී සිදුවූ රිය අනතුරකින්  64 හැවිරිදි පුද්ගලයෙක් මියගොස් තිබේ.
+Eight men, including two youths were killed in road accidents in several areas during the past 24 hours.
 
-තවද ගම්පොළ දොළුව මාර්ගයේ දවුලම් මෝදර ප්‍රදේශයේදී යතුරු පැදියක් මාර්ගය අයිනේ ගමන් කරමින් සිටි පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+The accident occurred yesterday (21) at Marawila, Ambalantota, Batticaloa, Mirihana, Kebithigollewa and Seeduwa Police Divisions
 
-අනතුරින් බරපතළ තුවාල ලැබු යතුරු පැදිකරු සහ පදිකයා ගම්පොල රෝහලට ඇතුළත් කර ප්‍රථිකාර ලබමින් සිටියදී පදිකයා මියගොස් ඇත.
+A three-wheeler collided with a three-wheeler in Marawila to the Peliyagoda - Puttalam road.
+
+The driver of the three-wheeler was admitted to the Marawila Hospital.
+
+The victim was a 40 year old resident of the Anamaduwa area in Divulwewa.
+
+Meanwhile, a 64-year-old man was killed in a car accident that rose to a motorcycle in the Colombo-Wellawaya area.
+
+A motorbike has collaves of a pedestrian collided in the Modara area in Gampola Doluwa on the Gampola Modara area.
+
+The motorcyclist and the pedestrian was admitted to the Gampola hospital while he was admitted to the Gampola Hospital while he was admitted to the Gampola hospital.
+
+The deceased has been identified as a 54 year old resident of Narangawila, Gampola.
 
 ...
 
 [Data](articles/410a8792.json)
+
+[Extended Data](ext_articles/410a8792.ext.json)
+
+---
+
+### Committee to review government institutions
+
+*2024-12-22 07:37:23* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආයතන-ගැන-විමර්ශනය-කිරිමට-කමිටුවක්/11-413762) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New committee formed to review government institutions. President Anura Kumara Dissanayake aims to transform public service into a formal state mechanism. Focuses on non-political decision-making and restoring the broken system. Emphasizes digital identity cards and other development projects.
+
+🟩
+
+President Anura Kumara Dissanayake said that we are the challenge of making our public service a formal state mechanism into a proper state mechanism.
+
+The President pointed out that the new committee to review the state institutions of our government institutions will make decisions regardless of political impact.
+
+President Anura Kumara Dissanayake made these comments addressing the District Secretariat / Government Agent's Conference at Narahenpita 'Official Affairs Ministry auditorium.
+
+President Anura Kumara Dissanayake added that the ministry has changed from the government's agent from the government's agent to district secretary.
+
+But the entire state of state that the current situation of the final objective and goal cannot be satisfied, the President has no confidence in the people of the public
+
+President Anura Kumara Dissanayake stressed that we should ask ourselves whether it is ready to restore the broken system or not.
+
+...
+
+[Data](articles/dd7a3cb3.json)
+
+[Extended Data](ext_articles/dd7a3cb3.ext.json)
 
 ---
 
@@ -370,7 +492,7 @@ Sri Lanka completed a restructuring of sovereign bonds on December 20, and the c
 
 “All the hard work and sacrifice, particularly by the people of Sri Lanka, has now paid off and Sri Lanka has the opportunity for a fresh start in the New Year,” Siriwardana said in an x.com post.
 
-“However, this growth cannot come at he expense of economic stability,” Siriwardana said.
+“However, this growth cannot come at the expense of economic stability,” Siriwardana said.
 
 “All too often in the past, whenever the economy has stabilized following a shock, we are too eager to provide unsustainable fiscal and monetary stimulus to re-invigorate growth.
 
@@ -2269,99 +2391,5 @@ The Meteorological Department also requests the public to take necessary steps t
 [Data](articles/ff460fa6.json)
 
 [Extended Data](ext_articles/ff460fa6.ext.json)
-
----
-
-### Sri Lanka local body polls before April festival, provincial within 2025: President
-
-*2024-12-21 05:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-local-body-polls-before-april-festival-provincial-within-2025-president-195661/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to hold the once delayed elections for local bodies before the April New Year festival, after bringing a law to cancel nominations, President Anura Kumara Dissanayake said.
-
-“Even some of the parties that existed at the time nominations were called no longer exists,” President Dissanayake told reporters.
-
-“So we think the (old) nominations should be cancelled and new nominations should be called. We plan to bring the bill cancel nominations to parliament in January.
-
-“There are some problems relating to provincial council elections. So we hope to hold them during next year.”
-
-A so-called ‘delimitation committee’ must be appointed following an amendment to the Provincial Council law in 2017.
-
-Either the amendment must be reversed or the delimitation committee must decide new redraw electoral boundaries.
-
-President Dissanayake said there was no pressure from India to hold provincial elections.
-
-...
-
-[Data](articles/3f7320a2.json)
-
-[Extended Data](ext_articles/3f7320a2.ext.json)
-
----
-
-### Stocks transit from gloom to radiance
-
-*2024-12-21 04:49:00* · [`islandlk`](http://island.lk/stocks-transit-from-gloom-to-radiance/) · `en`
-
-The stock market yesterday got off to a gloomy start but later became extremely bullish due to the settlement of bonds and the starting of debt servicing for external creditors.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 156 points while S and P SL20 rose by 30.3 points.
-
-Turnover touched Rs 9.2 billion with 26 crossings. Out of the turnover Rs 2.1 billion came from 26 crossings and 555 shares were transferred.
-
-In the retail market, top six performing companies that contributed to the turnover were; Sierra Cables Rs 508 million (40.3 million shares traded), HNB Rs 307 million (1.1 million shares traded), Royal Ceramic Rs 298 million (7.7 million shares traded), LMF Rs 293 million (6.5 million shares traded), Dipped Products Rs 259 million (4.7 million shares traded) and JKH Rs 24 million (11 million shares traded). During the day 897 million shares volumes changed hands in 43000 transaction.
-
-...
-
-[Data](articles/0d68a825.json)
-
-[Extended Data](ext_articles/0d68a825.ext.json)
-
----
-
-### Tourist Service Center and Welcome Center in North Central Province
-
-*2024-12-21 04:48:00* · [`islandlk`](http://island.lk/tourist-service-center-and-welcome-center-in-north-central-province/) · `en`
-
-A significant milestone in Sri Lanka’s tourism development was marked on 12th December 2024 with the opening and transfer ceremony of the Tourist Service Center and Welcome Center in Habarana, North Central Province. The project, launched in collaboration between Sri Lanka and the Republic of Korea in 2021, represents a step forward in promoting sustainable tourism and empowering local communities.
-
-The ceremony was attended by Mr. Wasantha Kumara Wimalasiri, Governor of the North Central Province, Mr. S.L. Nazeer, Additional Secretary of the Ministry of Foreign Affairs, Foreign Employment, and Tourism, and Mr. Buddhika Hewawasam, Chairman of the Sri Lanka Tourism Development Authority (SLTDA). Ms. Jung Sohngyee, Deputy Head of Mission of the Korean Embassy in Sri Lanka, and Mr. Park Jung Woong from the Korea Tourism Organization (KTO) participated from Korean side.
-
-...
-
-[Data](articles/fbb3ff44.json)
-
-[Extended Data](ext_articles/fbb3ff44.ext.json)
-
----
-
-### Sparkle of Christmas in three stunning new collections
-
-*2024-12-21 04:47:00* · [`islandlk`](http://island.lk/sparkle-of-christmas-in-three-stunning-new-collections/) · `en`
-
-CJS unveiled three spectacular collections for the Christmas season combining the stunning beauty of the Orca and the majestic leopard together with The Christmas Wish Collection, which showcased a magnificent gem-studded collection to add flair and style for the Christmas season. CJS also opened a new pop-up space – The Jewel Loft – on the fourth floor of the CJS Heritage Store to showcase designs by emerging jewellery designers.
-
-...
-
-[Data](articles/6600693a.json)
-
-[Extended Data](ext_articles/6600693a.ext.json)
-
----
-
-### NDB’s Santa promotion nears its end
-
-*2024-12-21 04:46:00* · [`islandlk`](http://island.lk/ndbs-santa-promotion-nears-its-end/) · `en`
-
-NDB Bank’s much-loved tradition of bringing Santa to your doorstep is drawing to a close. With just a few days remaining until the 31st of December 2024, families still have the chance to welcome Santa home and create magical memories that will last a lifetime.
-
-Parents can delight their children by simply making a deposit of Rs. 50,000 or more into their child’s NDB Shilpa Children’s Savings Account. As part of this festive tradition, your child will receive a special gift of their choice, delivered right to your doorstep by Santa himself – spreading the joy and wonder of Christmas like never before.
-
-The NDB Shilpa Children’s Savings Account encourages children to embrace the importance of saving from an early age, with a range of exclusive benefits such as double interest rates, special gift schemes, free hospitalisation cover, life insurance cover, and academic rewards for excellence in key examinations.
-
-...
-
-[Data](articles/9e7b7632.json)
-
-[Extended Data](ext_articles/9e7b7632.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 22:42:42**
+As of **2024-12-22 23:12:21**
 
 ## Newspaper Stats
 
-*Scraped **61,490** Articles*
+*Scraped **61,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,861
+adalk | 5,862
 adaderanalk | 7,507
-tamilmirrorlk | 8,795
+tamilmirrorlk | 8,796
 virakesarilk | 10,165
 adaderanasinhalalk | 10,623
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,270 (99.6%) of 61,490 articles have been extended.
+61,274 (99.6%) of 61,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### Special Transport Action Tomorrow
+
+*2024-12-22 22:29:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-விசேட-போக்குவரத்து-நடவடிக்கை/175-349104) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Special traffic measures start tomorrow until festival end. Police to conduct checks on all vehicles, including buses. Operation led by Inspector General to reduce accidents.
+
+🟩
+
+Special traffic will be implemented from tomorrow (23) to the end of the festival.
+
+The Police Media Unit has announced that it is planning to carry out a special traffic operation to check other vehicles, including passenger transport buses.
+
+The announcement that the traffic will be taken under the direction of the Inspector General of Police to reduce such accidents in view of accidents that have occurred by other skies, including passenger transport buses, including passenger transport buses.. Remble
+
+◼️
+
+[Data](articles/bef4731f.json)
+
+[Extended Data](ext_articles/bef4731f.ext.json)
+
+---
 
 ### Mother and daughter killed
 
@@ -265,6 +291,42 @@ Manatunga said that this special action will be implemented nationwide and that 
 [Data](articles/c5fc6cf3.json)
 
 [Extended Data](ext_articles/c5fc6cf3.ext.json)
+
+---
+
+### Out of use of five drugs
+
+*2024-12-22 18:05:15* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වර්ග-පහක්-භාවිතයෙන්-ඉවතට/11-413784) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Doctors protest removal of antibiotics. Ministry of Health decides to withdraw Ceftriaxone, Phenoxymethylpenicillin, Cefazolin, Imipenem/Cilastatin. Doctors claim lack of proper drug quality control measures. They warn of severe impact on public health and treasury.
+
+🟩
+
+The doctors' union of medical and civil rights doctors regarding the use of five drugs in the past week.
+
+Dr. Chamal Sanjeew, the Association Dr. Chamal Sanjeewa has requested the Health Secretary.
+
+The Ministry of Health has decided to remove the quality of CEFTRIAXONE, CEFTRIAXONE, PHYMENADE, CEFANADE, CEFANADE, CEFANDUM, IMIPANUM, IMIPANUM and Drugs.
+
+He further stated that there are powerful antibiotics between these drugs and there are drugs that are provided to infection including brain diseases.
+
+Chamal Sanjeewa said that as a result of the standard of antibiotics about 14 days ago, he said.
+
+He also said that the Ministry of Health has not been able to establish a proper program to identify the officers or drug detection of the officers who have acted on the quality of drugs.
+
+He added that the Treasury of the country should be severely damaged by removal of standard drugs.
+
+He further stated that although all government institutions intervene and do not have to do this year.
+
+◼️
+
+[Data](articles/97ebba62.json)
+
+[Extended Data](ext_articles/97ebba62.ext.json)
 
 ---
 
@@ -630,33 +692,53 @@ They were in a firm position in the Indian forces to leave the country. Today, t
 
 ---
 
-### கல்கிசையில் ஹெரோயினுடன் ஒருவர் கைது
+### Arrested with heroin in Kalkisa
 
 *2024-12-22 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201886) · `ta`
 
-கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட சங்கமித்த பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (21) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-கல்கிசை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
-கைது செய்யப்பட்ட சந்தேக நபர் இரத்மலான பகுதியைச் சேர்ந்த 45 வயதுடையவர் ஆவார்.
 
-சந்தேக நபரிடமிருந்து 10 கிராம் 500 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+45-year-old man arrested with heroin in Kalkisa. Police seized 10 grams of 500mg heroin. Arrest made based on confidential tip. Incident occurred in Sangamitha area of Mount Lavinia Police Division on Saturday (21).
+
+🟩
+
+A suspect was arrested by police on Saturday (21) with heroin drugs in the Sangamitha area of ​​the Mount Lavinia Police Division.
+
+He was arrested on the basis of confidential information received by the police officers to the police station.
+
+The suspect was 45 years old from Ratmala.
+
+10 grams of 500 milligrams of heroin from the suspect has been seized by the police.
 
 ◼️
 
 [Data](articles/5e4ec253.json)
 
+[Extended Data](ext_articles/5e4ec253.ext.json)
+
 ---
 
-### இதற்குத்தானா தெரிவு செய்தோம்?
+### We have chosen this?
 
 *2024-12-22 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201880) · `ta`
 
-இலங்கையின் எந்த ஒரு அரசாங்க பதவியை, வகிப்பதற்கும் அடிப்படைக் கல்வித் தகைமைகள் வரையறுக்கப்பட்டிருக்கின்றன. அரசியலமைப்பு சட்ட ரீதியாக, சட்டங்களின் ஊடாக அதற்கான குறைந்தபட்ச கல்வித் தகைமை தீர்மானிக்கப்பட்டிருக்கிறது.பாராளுமன்ற உறுப்பினர்கள் ஒவ்வொருவருக்கும் உள்ள தனிப்பட்ட பொறுப்பும் கண்ணியமும் நேர்மையும் தான் பாராளுமன்றத்தின் மாண்பையும் மதிப்பையும் காப்பாற்றும்.
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka: Basic education limits government positions. Constitutional law sets minimum qualifications.
+
+🟩
+
+Basic education qualifications are limited to any government position in Sri Lanka. Constitutional legal, the minimum educational qualification has been determined through the law.
 
 ◼️
 
 [Data](articles/c3a7f9f0.json)
+
+[Extended Data](ext_articles/c3a7f9f0.ext.json)
 
 ---
 
@@ -2263,51 +2345,5 @@ North Western Province continued to lead in agriculture activities, contributing
 ...
 
 [Data](articles/97b78d3b.json)
-
----
-
-### Murder
-
-*2024-12-22 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-சுட்டுக்-கொலை/175-349063) · `ta`
-
-Dog shot dead by security guard at hospital. Incident reported on Thursday. Victim died from blood loss. Complaint filed with hospital director on Friday. Investigation underway.
-
-🟩
-
-The dog was shot dead on Thursday (19).
-
-It is reported that the security officer has used the gas gun on the dog standing in the hospital's autopsy.
-
-The injured dog has died of blood and died on the fence. The man who runs a dog archive has lodged a complaint with the hospital director on Friday (20).
-
-The Director has promised to investigate the matter and take appropriate action.
-
-◼️
-
-[Data](articles/ff3d4081.json)
-
-[Extended Data](ext_articles/ff3d4081.ext.json)
-
----
-
-### ආනයනය කරන ලද MOP පොහොරවල ප්‍රමිතිය ගැන හෙළි වූ දේ
-
-*2024-12-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204603) · `si`
-
-රුසියානු රජයේ සමාගමක් විසින් නිෂ්පාදනය කර මෙරටට ප්‍රදානය කරන ලද  මියුරේට් ඔෆ් පොටෑෂ් හෙවත් MOP පොහොර තොගයේ ප්‍රමිතිය සම්බන්ධව කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍යංශය නිවේදනයක් නිකුත් කර තිබේ.
-
-එම පොහොර තොගයේ වර්ණය පිළිබඳව ගොවීන් සහ ගොවි සංවිධාන අතර යම් කතාබහක් නිර්මාණය වී තිබූ අතර ඒ සම්බන්ධව අමාත්‍යංශයේ අවධානය යොමුව තිබුණි.
-
-ඒ අනුව ආනයනය කරන ලද එම පොහොර සංයුතියේ විශ්ලේෂණ වාර්තාව සහ පරීක්ෂා කරන ලද අනෙකුත් ප්‍රමිතීන් අනුව පොහොර තොගය නිසි ප්‍රමිතියෙන් යුතු බවට අනාවරණය වී තිබේ.
-
-ඒ අනුව අනාවරණය වී ඇත්තේ එම පොහොරවල වර්ණය තැන්පතුවේ පවතින ඛනිජ ලවණ මත තීරණය වන බවය.
-
-යකඩ ඔක්සයිඩ් පවතින විට මෙහි වර්ණය රතු පැහැයක් ගන්නා අතර එසේ නොවන අවස්ථාවල සුදු පැහැයක් ගන්නා බවත් පොහොරවල ක්‍රියාකාරිත්වයේ කිසිදු වෙනසක් සිදු නොවන අතර එකම පොටෑසියම් ප්‍රමාණයක් සපයන බවත් එහි සඳහන් වේ.
-
-අමාත්‍යංශය පැවසුවේ ඒ සම්බන්ධව පාංශු විද්‍යාව පිළිබඳ විද්‍යාඥ රේණුකා සිල්වා මහත්මිය විසින් ලබා දී ඇති වාර්තාව අනුව මෙය තහවුරු කළ තොරතුරු මත පදනම් වන බවත් ය.
-
-...
-
-[Data](articles/d1f01c30.json)
 
 ---

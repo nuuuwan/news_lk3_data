@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 23:12:21**
+As of **2024-12-22 23:43:20**
 
 ## Newspaper Stats
 
-*Scraped **61,492** Articles*
+*Scraped **61,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
-economynextcom | 3,745
+economynextcom | 3,747
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,862
-adaderanalk | 7,507
+adaderanalk | 7,509
 tamilmirrorlk | 8,796
-virakesarilk | 10,165
-adaderanasinhalalk | 10,623
+virakesarilk | 10,168
+adaderanasinhalalk | 10,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,274 (99.6%) of 61,492 articles have been extended.
+61,277 (99.6%) of 61,502 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,6 +58,160 @@ The announcement that the traffic will be taken under the direction of the Inspe
 
 ---
 
+### Liquidi fire in Galle
+
+*2024-12-22 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204620) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Fire erupts near Kurunduwatta Junction in Galle. Blaze spreading rapidly. Galle-Udugama road closed from Akmeemana Junction. Police and firefighters responding with two extinguishers.
+
+🟩
+
+A fire has erupted at a building material near the Kurunduwatta Junction in Galle, Galle.
+
+Our correspondent said the fire is already expanding.
+
+Due to this, the Galle-Udugama road has been closed down from Akmeemana Junction.
+
+Two fire extinguishers and the fire will be carried out by the police and the area.
+
+◼️
+
+[Data](articles/f78b95e4.json)
+
+[Extended Data](ext_articles/f78b95e4.ext.json)
+
+---
+
+### ADB assures commitment to address challenges in Sri Lanka’s education sector
+
+*2024-12-22 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104426/adb-assures-commitment-to-address-challenges-in-sri-lankas-education-sector) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has met with the Country Director of the Asian Development Bank (ADB) to Sri Lanka Resident Mission, Takafumi Kadono.
+
+The discussions underscored ADB’s role as a key development partner and highlighted the importance of collaborative efforts in advancing Sri Lanka’s national development priorities.
+
+During the discussion, the Prime Minister highlighted the importance of developing school infrastructure, teacher training and assessment mechanisms.
+
+Meanwhile, the ADB has reaffirmed its commitment to addressing challenges in the education sector through ongoing projects.
+
+◼️
+
+[Data](articles/15d33ea5.json)
+
+[Extended Data](ext_articles/15d33ea5.ext.json)
+
+---
+
+### சட்ட விரோத மதுபானம் தொடர்பில் நாடளாவிய ரீதியில் ஐவர் கைது !
+
+*2024-12-22 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201906) · `ta`
+
+நேற்று சனிக்கிழமை (21) பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளினால் மேற்கொள்ளப்பட்ட சட்டவிரோத மதுபானம் தொடர்பான சோதனைகள் பற்றிய அறிக்கையை பொலிஸ் ஊடகப்பிரிவு  வெளியிட்டுள்ளது.
+
+இதே வேளை , 200 லீற்றர் சட்ட விரோத மதுபானத்துடன் 695 லீற்றர் கோடாவும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/4717d2dc.json)
+
+---
+
+### කලකට පසු ජෝ රූට් එංගලන්ත එක්දින කණ්ඩායමට
+
+*2024-12-22 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204619) · `si`
+
+වත්මන් ටෙස්ට් ක්‍රිකට් පිටියේ ප්‍රබලම පිතිකරුවා ලෙසින් සැලකිය හැකි එංගලන්තයේ ජෝ රූට් යළිත් වරක් එරට එක්දින සංචිතයට කැඳවීමට එංගලන්ත ක්‍රිකට් තේරීම් කමිටුව තීරණය කර ඇත.
+
+එංගලන්තය කණ්ඩායම ලබන වසර ආරම්භයේදී සිදුකිරීමට නියමිත ඉන්දීය සංචාරය සහ ඉන් අනතුරුව ඇරඹෙන 'ශූරයන්ගේ කුසලානය' වෙනුවෙන් මෙම කැඳවීම සිදුකර තිබේ.
+
+ජෝ රූට් ඉකුත් 2023 වසරේ නොවැම්බර් මාසයේ පැවති එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියෙන් පසු මේ දක්වා එංගලන්තය නියෝජනය කරමින් කිසිදු සීමිත පන්දුවාර ක්‍රිකට් තරගයකට හෝ ක්‍රීඩාකර නොමැත.
+
+කෙසේ නමුත් එක්දින තරගවලදීද කැපී පෙනෙන පිතිකරුවෙකු ඔහු, එංගලන්තය නියෝජනය කරමින් එක්දින ඉනිම් 160කදී ලකුණු 6,522ක් රැස්කර තිබේ.
+
+වත්මන් ටෙස්ට් ක්‍රිකට් පිටියේ අංක එකේ පිතිකරුවා ජෝ රූට්, ටෙස්ට් ලකුණු 12,972ක් රැස්කර 13,000 කඩයිම ආසන්නයට පැමිණ සිටියි.
+
+ශතක 36කට හා අර්ධ ශතක 65කට හිමිකම් කියන ඔහු තවමත් 33 හැවිරිදි වියේ පසුවෙයි.
+
+'ශූරයන්ගේ කුසලානය' සඳහා එංගලන්ත කණ්ඩායම පාකිස්තානය බලා පිටත්ව යාමට පෙර ජනවාරි සහ පෙබරවාරි මාසවලදී ඉන්දීය සංචාරය සිදුකරනු ලබයි.
+
+...
+
+[Data](articles/633b0c9d.json)
+
+---
+
+### எட்கா ஒப்பந்தம் தொடர்பில் அரசாங்கத்திற்குள் இரட்டை நிலைப்பாடு - டி.வி. சானக
+
+*2024-12-22 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201913) · `ta`
+
+இந்தியாவுடனான எட்கா ஒப்பந்தத்தில் அரசாங்கத்திற்குள் இரட்டை நிலைப்பாடு காணப்படுகிறது. ஒப்பந்தம் குறித்து பேச்சுவார்த்தையில் ஈடுபடுவதாக அரசாங்கம் குறிப்பிடுகின்ற நிலையில், ஒப்பந்தத்தை கைவிட தீர்மானித்துள்ளதாக பிறிதொரு தரப்பினர் குறிப்பிடுகின்றமை கவனிக்கத்தக்கது என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் டி.வி. சானக தெரிவித்தார்.
+
+அம்பாந்தோட்டை பகுதியில் ஞாயிற்றுக்கிழமை நடைபெற்ற ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர்களுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க தேர்தல் மேடைகளில் குறிப்பிட்டதற்கு முரணாகவே தற்போது செயற்படுகிறார். ஆட்சிக்கு வந்தவுடன் இந்தியாவின் அதானி குழுமத்துடனான ஒப்பந்தங்களை இரத்துச் செய்வதாக குறிப்பிட்டார். ஆனால் தற்போது அதானி குழுமம் விவகாரம் மறக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/5d21aac7.json)
+
+---
+
+### 'தூய்மையான இலங்கை' செயலணிவசம் மிகையான அதிகாரங்கள்; ஜனாதிபதி மீது நம்பிக்கையில்லை -  அம்பிகா சற்குணநாதன்
+
+*2024-12-22 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201912) · `ta`
+
+'தூய்மையான இலங்கை' கருத்திட்டத்துக்கான ஜனாதிபதியினால் நியமிக்கப்பட்டிருக்கும் புதிய செயலணிக்கு மிகப்பரந்துபட்ட ஆணையும், அதிகாரங்களும் வழங்கப்பட்டிருப்பதாகச் சுட்டிக்காட்டியிருக்கும் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன், இந்நடவடிக்கை ஜனாதிபதி அநுரகுமார திஸாநாயக்க மாறுபட்ட விதத்தில் செயற்படுவார் என்ற நம்பிக்கையை ஏற்படுத்தவில்லை எனத் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் ஆலோசனைக்கமைய 'தூய்மையான இலங்கை' கருத்திட்டத்தை திட்டமிட்டு நடைமுறைப்படுத்துவதற்காக அரசியலமைப்பின் 33 ஆவது உறுப்புரையின் பிரகாரம் 18 உறுப்பினர்களைக்கொண்ட ஜனாதிபதி செயலணியொன்று ஸ்தாபிக்கப்பட்டுள்ளது.
+
+இதுகுறித்து தனது உத்தியோகபூர்வ 'எக்ஸ்' தளத்தில் பதிவொன்றைச் செய்திருக்கும் அம்பிகா சற்குணநாதன், 'தூய்மையான இலங்கை' கருத்திட்டத்துக்கென ஜனாதிபதி அநுரகுமார திசாநாயக்கவினால் நியமிக்கப்பட்டிருக்கும் செயலணி பல்வேறு விதத்திலும் பிரச்சினைக்குரியதாகக் காணப்படுவதாகக் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/016cc435.json)
+
+---
+
+### Deleted CCTV footage recovered in Hatton bus accident
+
+*2024-12-22 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104425/deleted-cctv-footage-recovered-in-hatton-bus-accident) · `en`
+
+Police have recovered the CCTV footage alleged to have been deleted from the private bus involved in a tragic accident in the Malliappuwa area on Saturday (21), which claimed the lives of three people including a school student.
+
+The accident occurred at around 10.00 a.m. when a private passenger bus travelling from Hatton to Kandy veered off the road and plunged 20 feet down a concrete embankment. Initial investigations suggest that the driver lost control of the vehicle.
+
+During police interrogations, the bus driver claimed that the bus door had opened, causing him to lose balance and nearly fall out. In an attempt to hold on to the steering wheel, he was unable to regain control, leading to the crash.
+
+Police have discovered that someone had later deleted the CCTV footage recorded during the accident. However, using advanced technology methods, the police successfully recovered the footage, which they say provides critical evidence regarding the incident.
+
+...
+
+[Data](articles/60de7282.json)
+
+---
+
+### Sri Lanka’s CEB and LECO borrows from ADB under Treasury guarantees
+
+*2024-12-22 21:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-and-leco-borrows-from-adb-under-treasury-guarantees-195798/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board and Lanka Electric Company has borrowed 230 million dollars from the Asian Development Bank for hydro power and to upgrade the grid for renewable energy under Treasury guarantees, a statement said.
+
+A 200 million dollar loan from ADB’s Ordinary Capital Resources will be taken through the Power System Strengthening and Renewable Energy Integration Project to integrate more renewable energy projects and maintain power system reliability.
+
+Due to the intermittency or unreliability of renewable energy, power grids face high levels of volatility and needs extensive capital investments to withstand shocks.
+
+The project will focus on strengthening and modernizing of climate-resilient transmission and distribution network to facilitate renewable integration and including enhanced renewable energy integration and grid management capabilities, the Finance Ministry said.
+
+...
+
+[Data](articles/e3c03b66.json)
+
+---
+
 ### Mother and daughter killed
 
 *2024-12-22 20:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்ஃபி-எடுக்கச்-சென்ற-தாயும்-மகளும்-பலி/175-349103) · `ta`
@@ -79,6 +233,26 @@ The accident occurred when the accident occurred when they tried to take a selfi
 [Data](articles/29973b9a.json)
 
 [Extended Data](ext_articles/29973b9a.ext.json)
+
+---
+
+### ඉගෙනුමට හරස්වෙන පාසල් උපකරණ මිල
+
+*2024-12-22 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204618) · `si`
+
+නව පාසල් වාරය ආරම්භ වීමට නියමිත පසුබිමක පාසල් උපකරණ හා ලිපිද්‍රව්‍ය මිලට ගැනීම සඳහා දරුවන්ගේ මව්පියන් මේ දිනවල යුහුසුළුව සිටියි.
+
+මව්පියන්ද පෙන්වා දෙන්නේ පාසල් උපකරණවල මිල තවදුරටත් ඉහළ තලයක පවතින බවය.
+
+එමෙන්ම ඔවුන් පසන්නේ ඇතැම් පාසල් උපකරණවල මිල ගණන් දෙගුණයකින් පමණ ඉහළ ගොස් ඇති බවය.
+
+මේ අතර ලංකා ගුරු සංගමය පෙන්වා දෙන්නේ රජය පාසල් උපකරණ සඳහා පනවා ඇති බද්ද ඉවත් කළහොත් මෙම තත්ත්වයට විසඳුමක් හිමි වන බවයි.
+
+ඔවුන් පවසන්නේ පාසල් උපකරණ හා ලිපිද්‍රව්‍ය සඳහා පනවා ඇති බදු ඉවත් කිරීමට රජය වහා පියවර ගත යුතු බවය.
+
+◼️
+
+[Data](articles/24963de4.json)
 
 ---
 
@@ -742,15 +916,25 @@ Basic education qualifications are limited to any government position in Sri Lan
 
 ---
 
-### திரும்ப திரும்ப கேட்கும் வாக்குறுதி
+### Promise to repeat
 
 *2024-12-22 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201879) · `ta`
 
-இந்தியாவின் பாதுகாப்புக்கு இடையூறு அல்லது பாதிப்பை ஏற்படுத்தமாட்டோம் என வாக்குறுதி கொடுத்திருந்த இலங்கையின் தலைவர்கள், அந்த வாக்குறுதியை காப்பாற்றும் வகையில் செயல்பட்டிருந்தால் இவ்வாறான தலையீடுகள் அழுத்தங்களுக்கு முகம் கொடுக்க வேண்டிய நிலை ஏற்பட்டிருக்காது. முன்னைய அரசாங்கங்களை விட, தற்போதைய அரசாங்கம் சீனா விடயத்தில் மென்போக்கை கடைபிடிக்கும் என்பது ஒரு அனுமானமாக இருக்கிறது .
+Here's a summary in 200 characters:
+
+
+
+Sri Lankan leaders vowed to undermine India's security but avoided scrutiny by prioritizing China relations over previous administrations' approaches.
+
+🟩
+
+Sri Lankan leaders, who had promised to disrupt India's security, would not have to face pressures if they had acted to protect the promise.. It is an assumption that the current government will adhere to the software on the issue of China rather than previous governments.
 
 ◼️
 
 [Data](articles/743a8eb8.json)
+
+[Extended Data](ext_articles/743a8eb8.ext.json)
 
 ---
 
@@ -1289,6 +1473,26 @@ The acting IGP Priyantha Weerasuriya has informed a complaint regarding the inci
 ◼️
 
 [Data](articles/6f71c0c9.json)
+
+---
+
+### Vietnam’s Japan-backed metro line starts in HCMC
+
+*2024-12-22 15:07:00* · [`economynextcom`](https://economynext.com/vietnams-japan-backed-metro-line-starts-in-hcmc-195766/) · `en`
+
+ECONOMYNEXT – The first mass rapid transit line in Vietnam’s Ho Chi Minh City started operations on December 22 after 12 years of construction with hopes to modernize transport and reduce traffic in bustling motorcycle-dominated city.
+
+Large crowds queued up to hitch ride on the metro on the first day and long lines of Ho Chi Minh City resident could be seen line up near stations. The train will run free of charge for 30 days.
+
+“This journey is not only proof of the persistent efforts of the city government but also demonstrates the effective cooperation between the Vietnamese Government and the Japanese Government,” Bui Xuan Cuong , Vice Chairman of Ho Chi Minh City People’s Committee was quoted as saying in Vietnam’s Touitre newspaper.
+
+Construction of the Line of the HCMC met began in August 2012. It was originally planned to be completed in six years.
+
+Japanese Ambassador to Vietnam Ito Naoki said urban railway line will change people’s lives.
+
+...
+
+[Data](articles/ef3bd17b.json)
 
 ---
 
@@ -2145,205 +2349,5 @@ One of the schools that received bomb threats was Venkateshwar Global School, wh
 [Data](articles/793cc54c.json)
 
 [Extended Data](ext_articles/793cc54c.ext.json)
-
----
-
-### 10 accidents in 24 hours: 13 killed
-
-*2024-12-22 10:54:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-10-விபத்துகள்-13-பேர்-பலி/175-349075) · `ta`
-
-In 24 hours, 10 accidents occurred in major cities, resulting in 13 fatalities. Four pedestrians were involved. High vehicle traffic during the festive season increases risks. Police advise drivers and pedestrians to be cautious.
-
-🟩
-
-The police media spokesman's department said that the country's major cities have recently been reported in 10 accidents in the last 24 hours.. The department also declared four pedestrians.
-
-Since the festive season, the number of vehicles traveling on the main streets is high. Therefore, motorists have to pay vigilantly vigilantly. The department has also announced that pedestrians should travel carefully.
-
-◼️
-
-[Data](articles/53978dd9.json)
-
-[Extended Data](ext_articles/53978dd9.ext.json)
-
----
-
-### Sri Lankan President's visit to India
-
-*2024-12-22 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201844) · `ta`
-
-Sri Lankan President's India visit: JVP leaders face challenge justifying government positions after opposing national elections.
-
-🟩
-
-The leaders of the Janata Vimukti Peramuna (JVP), the leadership party of the National People's Power, who vehemently opposed the two national elections ahead of the two national elections, will have to face a major challenge to justify the positions taken by their government.
-
-◼️
-
-[Data](articles/562115a3.json)
-
-[Extended Data](ext_articles/562115a3.ext.json)
-
----
-
-### කිඹුල් ප්‍රහාරයකින් කාන්තාවක් මරුට
-
-*2024-12-22 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204605) · `si`
-
-ඊයේ (21) උදෑසන කාලයේදී  එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
-
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 67 ක් වූ පුදුකුඩුමනේ, සුඩුවේන්ද්‍රපිලව් ප්‍රදේශයේ පදිංචිකාරියකි.
-
-මරණකාරිය ගවයන් රැගෙන යමින් සිටියදී ඇළක සිටියදී එලෙස කිඹුලෙකුගේ ප්‍රහාරයට ලක්ව ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත.
-
-◼️
-
-[Data](articles/409f569a.json)
-
----
-
-### Ministry assures quality of MOP fertilizer donated by Russia
-
-*2024-12-22 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104413/ministry-assures-quality-of-mop-fertilizer-donated-by-russia) · `en`
-
-The Ministry of Agriculture, Livestock, Lands, and Irrigation has issued a statement assuring the quality of the Muriate of Potash (MOP) fertilizer stock donated by a Russian state-owned company.
-
-The statement addresses concerns raised by farmers and farmer organizations regarding the color of the fertilizer.
-
-After analyzing the composition of the imported stock and verifying other standards, it has been confirmed that the fertilizer meets the required quality standards.
-
-The ministry explained that the color of the fertilizer is influenced by the mineral salts in the deposit. Specifically, the presence of iron oxide gives the fertilizer a red color, while its absence results in a white color. The variation in color does not affect the fertilizer’s functionality and provide the same amount of potassium, it said.
-
-This clarification is based on findings from soil scientist Renuka de Silva, whose report confirmed that the fertilizer is safe and effective for use.
-
-...
-
-[Data](articles/23d52e77.json)
-
-[Extended Data](ext_articles/23d52e77.ext.json)
-
----
-
-### CBSL introduces new loan rescheduling measures for SMEs
-
-*2024-12-22 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104412/cbsl-introduces-new-loan-rescheduling-measures-for-smes) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has issued a circular to licensed banks recently, highlighting relief measures to be provided to Small and Medium Enterprises (SMEs) affected by the Easter Sunday attacks, the COVID-19 pandemic, and the extraordinary macroeconomic conditions that prevailed in the recent past.
-
-These measures have been developed with the Sri Lanka Banks’ Association and are in line with the Working Committee on Recovery of Loans under the Special Provisions Amendment Act No. 26 of 2024.
-
-According to the new relief measures, loans provided to SMEs that have become non-performing loans will be rescheduled based on the borrower’s ability to repay and an acceptable business revival plan.
-
-The CBSL stated that all rescheduling agreements must be finalized by June 15, 2025.
-
-•SMEs with loan balances below Rs. 25 million must begin repayment by December 31, 2025.
-
-•SMEs with loan balances between Rs.25 million and Rs.50 million must begin repayment by September 30, 2025.
-
-...
-
-[Data](articles/425dceeb.json)
-
-[Extended Data](ext_articles/425dceeb.ext.json)
-
----
-
-### கிரிந்திவெல பகுதியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை
-
-*2024-12-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201846) · `ta`
-
-கிரிந்திவெல பொலிஸ் பிரிவிற்குட்பட்ட வல்கம்முல்ல பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபர் ஒருவர் கொல்லப்பட்டுள்ளதாக கிரிந்திவெல பொலிஸார் தெரிவித்தனர்.
-
-இந்த நபர் குத்தகை அடிப்படையில் காணி ஒன்றை கொள்வனவு செய்திருந்தார். அந்த காணியில் வசித்த காவலாளி ஒருவரே இந்த கொலையை செய்திருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
-
-சந்தேக நபரை கைது செய்வதற்கான மேலதிக விசாரணைகளை கிரிந்திவெல பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/1f769e17.json)
-
----
-
-### Ambassador of Norway calls on PM Harini
-
-*2024-12-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104411/ambassador-of-norway-calls-on-pm-harini) · `en`
-
-Prime Minister, Dr. Harini Amarasuriya, welcomed the Ambassador of Norway to Sri Lanka, May-Elin Stener, during a courtesy call at the Prime Minister’s Office.
-
-The discussion on Friday focused on fostering a collaborative partnership between the two nations, with key topics including poverty alleviation, social protection measures, tax reforms, renewable energy, and employment generation, the Prime Minister’s Office stated.
-
-Dr. Amarasuriya emphasized the importance of transforming Sri Lanka’s education system and highlighted ongoing efforts to digitize governance for improved public service delivery, the statement added.
-
-The meeting was attended by senior officials from both the Norwegian Embassy and the Sri Lankan government, including Mr. Pradeep Saputhanthri, Secretary to the Prime Minister, Ms. Sagarika Bogahawatta, Additional Secretary to the Prime Minister, and Ms. Shobini Gunasekera, Director General of the Europe and North America Division at the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/5a9978d2.json)
-
----
-
-### ඇල්බේනියාවේ TikTok තහනමක්
-
-*2024-12-22 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204604) · `si`
-
-TikTok වෙත ප්‍රවේශය වසරකට අවහිර කිරීමට ඇල්බේනියාවේ රජය විසින් තීරණය කර තිබේ.
-
-විශේෂයෙන් ම ළමයින්ට ඉන් ඇතිවී ඇති බලපෑම මත එම තීරණය ගෙන ඇති බව සඳහන් ය.
-
-විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ එම තහනම එළැඹෙන ජනවාරි මාසයෙන් ආරම්භ වන බවය.
-
-ඇල්බේනියාවේ මෙම TikTok කහනම ප්‍රකාශ කර ඇත්තේ පසුගිය මාසයේ පාසලක 14 හැවිරිදි  සිසුවෙකුට සිදුකළ පිහි ඇනුම් සිද්ධියක් හේතුවෙන් බව වාර්තා වෙයි.
-
-කෙසේ වෙතත් යෝජිත TikTok තහනම පිළිබඳව ඇල්බේනියානු රජයෙන් හදිසි පැහැදිලි කිරීම් අපේක්ෂා කරන බව TikTok ආයතනය  පැවසීය.
-
-TikTok ආයතනය පවසන්නේ ඝාතනය වූ  14 හැවිරිදි පාසල් සිසුවාට හෝ පිහියෙන් ඇන ඇතැයි කියන පුද්ගලයාට TikTok ගිණුම් තිබූ බවට කිසිදු සාක්ෂියක් හමු නොවූ බවය.
-
-◼️
-
-[Data](articles/d3e53375.json)
-
----
-
-### The floating hospital ship arrived
-
-*2024-12-22 09:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதக்கும்-மருத்துவமனை-கப்பல்-வந்தது/175-349065) · `ta`
-
-Chinese "Peace Arc" hospital ship arrives in Colombo, offering humanitarian aid and medical services. Equipped with advanced technology, it provides free diagnostics and treatments to locals and Chinese workers.
-
-🟩
-
-China's 'Piece Arc' Army Hospital, known as the Maha Syrey Telephone Hospital, is now anchored at the port of Colombo.
-
-Also, the ship 'Peace Arc' was stopped at the port amid the Navy's band reception.. It can be considered as a military hospital with the world's sophisticated technology.
-
-On June 16, the ship began its trip from the military port located in Zhousshan in East China's Zhejiang Province.
-
-The main task of the ship is to provide immediate humanitarian relief to emergency situations around the world. This ship was designed and prepared by the People's Republic of China. The ship has been in the process of providing medical aid since 2008.
-
-The ship is 178 meters long and 24 meters wide. 106 of them are doctors. The ship is equipped with small boats and helicopters. The ship has 17 medical departments and 5 auxiliary diagnostic departments.
-
-...
-
-[Data](articles/739a994f.json)
-
-[Extended Data](ext_articles/739a994f.ext.json)
-
----
-
-### Western Province contributed most to Sri Lanka’s GDP in 2023
-
-*2024-12-22 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104410/western-province-contributed-most-to-sri-lankas-gdp-in-2023) · `en`
-
-The Western Province accounted for the largest share (43.7 per cent) of Sri Lanka’s nominal GDP in 2023, although this indicated a marginal decline in its contribution compared to the previous year, according to the Central Bank of Sri Lanka (CBSL).
-
-The dominant role of the Western province was particularly evident across the Industry and Services sectors. Meanwhile, North Western (10.9 per cent) and Central provinces (10.3 per cent) remained the closest contenders, securing the second and third positions, respectively.
-
-The shares of Central, North Central, Northern and Southern provinces increased in 2023 compared to 2022. Further, the nominal GDP of all the provinces grew in 2023, yet at a slower pace compared to the previous year, CBSL said in a statement.
-
-North Western Province continued to lead in agriculture activities, contributing to a share of 19.6 per cent in 2023, followed by Southern (13.5 per cent) and Central (12.4 per cent) provinces.
-
-...
-
-[Data](articles/97b78d3b.json)
 
 ---

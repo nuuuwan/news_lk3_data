@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 20:42:55**
+As of **2024-12-22 21:01:27**
 
 ## Newspaper Stats
 
-*Scraped **61,482** Articles*
+*Scraped **61,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,860
-adaderanalk | 7,505
+adaderanalk | 7,507
 tamilmirrorlk | 8,794
 virakesarilk | 10,163
-adaderanasinhalalk | 10,622
+adaderanasinhalalk | 10,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,255 (99.6%) of 61,482 articles have been extended.
+61,256 (99.6%) of 61,485 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,40 @@ General Secretary Murukesu Paranitharan, Vice President Sasikumar, District Coor
 [Data](articles/29114f08.json)
 
 [Extended Data](ext_articles/29114f08.ext.json)
+
+---
+
+### Mother and daughter dead after being hit by train in Anuradhapura
+
+*2024-12-22 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104424/mother-and-daughter-dead-after-being-hit-by-train-in-anuradhapura-) · `en`
+
+A mother and her daughter have lost their lives while attempting to take a selfie on the tracks near the Anuradhapura railway station this afternoon (22).
+
+The incident occurred as they were struck by an express train traveling from Kankasanthurai to Colombo.
+
+The victims, a 38-year-old mother and her 18-year-old daughter, had traveled from Ratnapura to Anuradhapura to attend a Taekwondo tournament at the Anuradhapura Public Stadium. The pair had gone to the railway tracks near the station, where the fatal accident took place.
+
+According to police reports, the family was attempting to capture a selfie when the train hit them, killing the mother and daughter instantly. A younger child who was with them at the time also sustained injuries and is currently receiving medical treatment, the police said.
+
+◼️
+
+[Data](articles/374fbf7a.json)
+
+---
+
+### කසුන් මහේන්ද්‍ර අත්අඩංගුවට ගැනීමේ සිද්ධියට පොලීසියේ 3කට ස්ථානමාරු
+
+*2024-12-22 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204617) · `si`
+
+ලේඛක කසුන් මහේන්ද්‍ර හීනටිගල මහතා අතුරුගිරිය පොලීසිය මගින්  අත්අඩංගුවට ගැනීමේ සිද්ධියේ සිදුකෙරෙන විමර්ශනයට අදාළව උපපොලිස් පරීක්ෂකවරයෙකු ඇතුළු තිදෙනකු තාවකාලිකව මිරිහාන මූලස්ථාන පොලීසිය වෙත මාරුකර තිබේ.
+
+දූෂණ මර්දන අංශයේ ස්ථානාධිපති ලෙස කටයුතු කළ ස්ථානාධිපතිවරයා හා පොලිස් කොස්තාපල්වරුන් දෙදෙනෙකු මෙලෙස තාවකාලිකව මාරුකළ බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි නීතිවේදී බුද්ධික මනතුංග මහතා පැවසීය.
+
+අභාවප්‍රාප්ත ජැක්සන් ඇන්තනී මහතාගේ බෑනා වන ලේඛක කසුන් මහේන්ද්‍ර ගීනටිගල මහතා පොලිස් මූලස්ථානයේ සහන මැදිරියට කරන ලද පැමිණිල්ලකට අදාළව කොළඹ දකුණු දිසාව භාර නියෝජ්‍ය පොලිස්පති වරයාගේ උපදෙස් මත මෙම ස්ථානමාරුවීම් සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/b81210e6.json)
 
 ---
 
@@ -272,6 +306,24 @@ In addition, other traffic will also be inspected and the traffic officials have
 
 ---
 
+### Police launch special operation to inspect vehicles during festive season
+
+*2024-12-22 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104422/police-launch-special-operation-to-inspect-vehicles-during-festive-season) · `en`
+
+In response to the surge in accidents involving passenger transport buses and other vehicles, the Sri Lanka Police has announced that they will implement an island-wide traffic operation starting December 23, 2024.
+
+The initiative, spearheaded by the Acting Inspector General of Police, will continue throughout the festive season, aiming to enhance road safety and reduce accidents, the Police Media Division said.
+
+The operation will focus heavily on inspecting public passenger transport buses.
+
+Accordingly, the police officers will evaluate drivers to detect whether they are under the influence of alcohol or drugs. Buses will also be scrutinized for reckless driving, speeding, traffic violations, and mechanical defects, including unsafe tires. Stringent action will be taken against any violations to ensure public safety, the police added.
+
+...
+
+[Data](articles/ce3bbb8b.json)
+
+---
+
 ### Three arrests with ice and heroin drug
 
 *2024-12-22 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201893) · `ta`
@@ -308,19 +360,27 @@ Subsequently, the suspects have been handed over to the Wellampitiya, Kandana an
 
 ---
 
-### வேட்புமனுக்களை கோரும் வகையில் சட்டத்திருத்தம் நிறைவேற்றப்பட்டால் பெப்ரவரியில் உள்ளுராட்சி மன்றத் தேர்தலுக்கான பணிகளை முன்னெடுக்க முடியும் - தேர்தல் ஆணைக்குழு
+### If the amendment is passed to demand nominations, the tasks for the local government elections can be carried out in February
 
 *2024-12-22 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201901) · `ta`
 
-உள்ளுராட்சி மன்றத் தேர்தலுக்கு புதிதாக வேட்புமனுக்களை கோரும் வகையில் சட்டத்திருத்தம் அடுத்த மாதத்துக்குள் நிறைவேற்றப்பட்டால், பெப்ரவரி மாதமளவில் உள்ளுராட்சி மன்றத் தேர்தலுக்கான பணிகளை முன்னெடுக்க முடியும். ஜனவரி முதல் வாரத்தில் உள்ளூராட்சி மன்றத் தேர்தல் குறித்து அறிவிக்கப்படும் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+Local government elections timeline: Bill submission in January may lead to February polls, pending nominations and Supreme Court ruling on election date.
 
-சித்திரை புத்தாண்டுக்கு பின்னர் உள்ளூராட்சி மன்றத் தேர்தல் நடத்தப்படும் என ஜனாதிபதி குறிப்பிட்டுள்ளமை தொடர்பில் வினவிய போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-உள்ளூராட்சி மன்றத் தேர்தல் மற்றும் மாகாண சபைத் தேர்தல்களை நடத்துவதற்கு அரசாங்கம் விசேட கவனம் செலுத்தியுள்ளதை வரவேற்கிறோம்.அரசியலமைப்பின் பிரகாரம் உரிய காலத்தில் தேர்தலை நடத்த வேண்டிய பொறுப்பு தேர்தல்கள் ஆணைக்குழுவுக்கு வழங்கப்பட்டுள்ளது.
+If the legislation is passed within next month to demand new nominations for the local government elections, the local government elections can be carried out by February.. Elections Commission Chairman RMAL Ratnayake said the local government elections would be announced in the first week of January.
+
+The President said that the President had stated that the local government elections would be held later after the New Year.
+
+We welcome the government's special attention to hold local government elections and provincial council elections. According to the CE, the Election Commission has been given the responsibility of holding the election in a timely manner.
+
+With appropriate measures to be taken to hold the local government elections in March last year, the financial and other factors were unable to hold elections for the purpose.. The Supreme Court has ruled that the local government elections will be held soon.
 
 ...
 
 [Data](articles/425b46eb.json)
+
+[Extended Data](ext_articles/425b46eb.ext.json)
 
 ---
 
@@ -2163,47 +2223,5 @@ It is reported that the Kilinochchi police have carried out a road raid on Satur
 ...
 
 [Data](articles/4aa47db7.json)
-
----
-
-### இலங்கையின் தமிழர் பிரச்சினையில் உண்மையான நிலவரத்தை புரிந்து கொள்ளல்
-
-*2024-12-22 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201841) · `ta`
-
-தமிழ் அரசியல் சமுதாயம்  தொடர்ந்தும் பொருத்தமானதாக இருப்பதற்கும் நம்பகத்தன்மையை மீளக் கட்டியெழுப்புவதற்கும்  அது பிரதிநிதித்துவப்படுத்த விரும்புகின்ற மக்களை மையப்படுத்திய அரசியலை முன்னெடுப்பதை  தவிர வேறு தெரிவு கிடையாது.
-
-◼️
-
-[Data](articles/a65d71ac.json)
-
----
-
-### Two US Navy pilots shot down over Red Sea in apparent ‘friendly fire’ incident, US military says
-
-*2024-12-22 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104408/two-us-navy-pilots-shot-down-over-red-sea-in-apparent-friendly-fire-incident-us-military-says) · `en`
-
-Two U.S. Navy pilots were shot down Sunday over the Red Sea in an apparent “friendly fire” incident, the U.S military said.
-
-Both pilots were recovered alive, with one suffering minor injuries, but the incident underlines just how dangerous the Red Sea corridor has become after a year of ongoing attacks on shipping by Yemen’s Houthi rebels despite U.S. and European military coalitions patrolling the area.
-
-The U.S. military had conducted airstrikes targeting Yemen’s Houthi rebels at the time, though the U.S. military’s Central Command did not elaborate on what their mission was.
-
-“The guided missile cruiser USS Gettysburg, which is part of the USS Harry S. Truman Carrier Strike Group, mistakenly fired on and hit the F/A-18, which was flying off the USS Harry S. Truman,” Central Command said in a statement.
-
-...
-
-[Data](articles/6fa4d9c8.json)
-
----
-
-### கூட்டறிக்கையில் 13ஆவது திருத்தம்  இடம்பெறுவதை விரும்பாத அரசாங்கம்
-
-*2024-12-22 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201840) · `ta`
-
-ஜனாதிபதி  அநுரகுமார திசாநாயக்கவின்  இந்தியாவுக்கான  உத்தியோகபூர்வ விஜயம்  கடந்த வாரம்  பெரும் முக்கியத்துவத்தை பெற்றிருந்தது.  இந்த விஜயத்தின்போது  இந்திய – இலங்கை சார்பில்  கூட்டறிக்கையொன்றும்  வெளியிடப்பட்டிருந்தது. 34 அம்சங்களை உள்ளடக்கியவகையில் இந்த கூட்டறிக்கை  வெளியாகியிருந்தது. இந்தக் கூட்டறிக்கையில் இனப்பிரச்சினைக்கான அரசியல் தீர்வு குறித்தோ, 13ஆவது திருத்த சட்டம்  தொடர்பிலோ எத்தகைய விடயங்களும் இடம்பெற்றிருக்கவில்லை.  கடந்த காலங்களில்  இலங்கையின் தலைவர்கள் புதுடில்லிக்கு  உத்தியோகபூர்வ விஜயம் மேற்கொள்ளப்பட்ட சந்தர்ப்பங்களில்  வெளியிடப்பட்ட  சகல கூட்டறிக்கைகளிலும்  13ஆவது திருத்த சட்டத்தின் முழுமையான அமுலாக்கத்தின் அவசியம் வலியுறுத்தப்பட்டிருந்தது.
-
-◼️
-
-[Data](articles/fbcd6a1a.json)
 
 ---

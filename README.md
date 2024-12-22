@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 20:12:38**
+As of **2024-12-22 20:27:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,253 (99.6%) of 61,481 articles have been extended.
+61,254 (99.6%) of 61,481 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -244,21 +244,31 @@ Accordingly, the police officers will evaluate drivers to detect whether they ar
 
 ---
 
-### හෙට සිට විශේෂ රථවාහන මෙහෙයුමක් - මේ අංකවලට දැනුම්දෙන්න
+### Special traffic operation from tomorrow - to inform these numbers
 
 *2024-12-22 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204615) · `si`
 
-හෙට (23) සිට මගී ප්‍රවාහන බස් රථ ඇතුළු අනෙකුත් වාහන පරීක්ෂා කිරීමේ දීපව්‍යාප්ත විශේෂ රථවාහන මෙහෙයුමක් ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව පොලීස් මාධ්‍ය කොට්ඨාසය නිවේදනය කරයි.
+Special traffic op starts tomorrow: Passenger bus inspections nationwide. Focus on drunk/drugged drivers & road rule violators. Public can report via short codes or divisional secretariats.
 
-පසුගිය දිනවල මගී ප්‍රවාහන බස් රථ ඇතුළු අනෙකුත් වාහනවලින් සිදු වූ රිය අනතුරු සැලකිල්ලට ගනිමින් දිගින් දිගටම එවැනි අනතුරු සිදුවීම අවම කර ගැනීම සඳහා වැඩබලන පොලිස්පතිවරයාගේ උපදෙස් අනුව මෙම රථවාහන මෙහෙයුම සිදු කිරීමට නියමිත බව එම නිවේදනයේ සඳහන් වේ.
+🟩
 
-ඒ අනුව හෙට දින සිට උත්සව සමය අවසන් වන තුරු දිවයින පුරා දීපව්‍යාප්ත රථවාහන මෙහෙයුමක් ක්‍රියාත්මක කිරීමට නියමිතය.
+Police Media Division announced that a special traffic operation is being carried out with the inspection of passenger buses from tomorrow (23).
 
-මෙහිදී ප්‍රධාන වශයෙන් පොදු මගී ප්‍රවාහන බස් රථ පරීක්ෂා කිරීම සිදුකෙරෙන අතර, එම බස් රථවල රියදුරන්, මත්පැන් පානය කර හෝ වෙනත් මත්ද්‍රව්‍ය භාවිතා කර රිය ධාවනය සිදු කරන්නේද යන්න විශේෂයෙන් සොයා බැලීම සිදුකරනු ලබයි.
+The traffic operation is due to be carried out on the instructions of the acting IGP to minimize such accidents in view of passenger buses and other vehicles.
+
+Accordingly, a wide traffic operation island wide will be operated throughout the country until the end of the festive season.
+
+The mainly general passenger buses will be inspected, especially the bus drivers in the bus drivers, alcohol or other drugs.
+
+The statement also states that the buses are being carried out by buses and driving and violating road rules, violating road rules, violating road rules, and other bugs to drive the law.
+
+In addition, other traffic will also be inspected and the traffic officials have been deployed throughout the country.
 
 ...
 
 [Data](articles/357059dd.json)
+
+[Extended Data](ext_articles/357059dd.ext.json)
 
 ---
 

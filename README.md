@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 18:22:40**
+As of **2024-12-22 18:35:11**
 
 ## Newspaper Stats
 
-*Scraped **61,454** Articles*
+*Scraped **61,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,857
 adaderanalk | 7,503
-tamilmirrorlk | 8,791
+tamilmirrorlk | 8,792
 virakesarilk | 10,145
 adaderanasinhalalk | 10,620
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,239 (99.7%) of 61,454 articles have been extended.
+61,241 (99.7%) of 61,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### பண்டிகை காலங்களில் விசேட போக்குவரத்து
+
+*2024-12-22 18:22:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலங்களில்-விசேட-போக்குவரத்து/175-349100) · `ta`
+
+பண்டிகை காலங்களின் போது பஸ் உள்ளிட்ட வாகனங்களை சோதனையிடும் வகையில் விசேட போக்குவரத்து நடவடிக்கை மேற்கொள்ளப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+
+கடந்த சில நாட்களாக பயணிகள் போக்குவரத்து பஸ்கள் உள்ளிட்ட வாகனங்களில் இடம்பெற்ற வாகன விபத்துக்களை கருத்திற் கொண்டு பதில் பொலிஸ் மா அதிபர்  பிரியந்த வீரசூரியவின் பணிப்புரைக்கு அமைய இந்த போக்குவரத்து திட்டம் நடைமுறைப்படுத்தப்படுகிறது.
+
+இங்கு, பயணிகள் போக்குவரத்து பேருந்துகள் முக்கியமாக பரிசோதிக்கப்பட்டு, மது போதையில் வாகனம் ஓட்டுபவர்கள் மற்றும் கவனக்குறைவாக வாகனம் ஓட்டுபவர்கள், போக்குவரத்து விதிகளை மீறி வாகனம் ஓட்டுபவர்கள், தகாத நிலையில் வாகனங்களை ஓட்டுபவர்கள் குறித்து சிறப்பு சோதனை நடத்தப்படுகிறது ஆய்வு மேற்கொள்ளப்படும் என்றார்.
+
+இந்த விசேட நடவடிக்கை நாடளாவிய ரீதியில் அமுல்படுத்தப்படும் எனவும், 24 மணித்தியாலங்களும் உத்தியோகத்தர்கள் கடமையில் ஈடுபடுத்தப்படவுள்ளதாகவும் மணதுங்க தெரிவித்தார்.
+
+...
+
+[Data](articles/c5fc6cf3.json)
+
+---
 
 ### Is the government ready for reconciliation?
 
@@ -236,6 +254,8 @@ Additionally, the AHRC highlighted the necessity of reforming the Attorney Gener
 
 [Data](articles/f7ec93c8.json)
 
+[Extended Data](ext_articles/f7ec93c8.ext.json)
+
 ---
 
 ### Hatton accident;Illiteracy
@@ -262,21 +282,31 @@ In response to the hospital, the magistrate asked the doctors regarding the plig
 
 ---
 
-### ආසියානු මානව හිමිකම් කොමිසම ජනපතිගෙන් කළ ඉල්ලීම
+### Request for the Asian Human Rights Commission
 
 *2024-12-22 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204613) · `si`
 
-නීතියේ ආධිපත්‍ය සහ ගෞරවය ප්‍රතිස්ථාපනය කිරීම සඳහා කඩිනම් ප්‍රතිසංස්කරණ ක්‍රියාත්මක කරන ලෙස ආසියානු මානව හිමිකම් කොමිසම ජනාධිපති අනුර කුමාර දිසානායක මහතාගෙන් ඉල්ලීමක් සිදුකර තිබේ.
+Here's a summary of 200 characters:
 
-ආසියානු මානව හිමිකම් කොමිසමේ ප්‍රතිපත්ති හා වැඩසටහන් අධ්‍යක්ෂ බැසිල් ප්‍රනාන්දු මහතා විසින් ලිඛිතව අදාළ ඉල්ලීම සිදුකර ඇති බව වාර්තා වේ.
 
-මෙරට තුළ නීති ප්‍රතිසංස්කරණ ක්‍රියාවලිය සිදුකිරීමේ දී ක්ෂණික අවධානය යොමු කළයුතු වැදගත් ක්ෂේත්‍ර තුනක් සම්බන්ධයෙන් එමගින් කරුණු දක්වා තිබේ.
 
-මහාධිකරණවල පවතින බරපතළ ගණයේ අපරාධ නඩු දෛනිකව විභාගයට ගැනීම, අල්ලස හා දූෂණ පාලනය කිරීමට නීති හඳුන්වා දීම, නීතිපති දෙපාර්තමේන්තුව ප්‍රතිසංස්කරණය කිරීම යන්න එම කරුණු අතරට අයත් වන බව ආසියානු මානව හිමිකම් කොමිසම පෙන්වාදී ඇත.
+Asian Human Rights Commission requested to implement law reform focusing on bribery, corruption, and legal control. Basil Fernando made the request to the Director regarding three key areas in the country's legal process.
+
+🟩
+
+President Anura Kumara Dissanayake has requested the Asian Human Rights Commission to implement proceeds to replace the rule of law.
+
+It is reported that Basil Fernando has made the request to the Director of the Asian Human Rights Council policy and program.
+
+It has made regarding three important fields that should be constantly focused in the law reform process in the country.
+
+The Asian Human Rights Commission has shown that the introduction of the laws and the introduction of laws, introducing laws, to control the laws, to control bribery and corruption.
 
 ◼️
 
 [Data](articles/04e202b9.json)
+
+[Extended Data](ext_articles/04e202b9.ext.json)
 
 ---
 
@@ -2275,27 +2305,5 @@ A live stream from RUV showed the leaders of the three coalition parties hugging
 [Data](articles/85530c99.json)
 
 [Extended Data](ext_articles/85530c99.ext.json)
-
----
-
-### President Dissanayake to visit China mid-January: Report
-
-*2024-12-21 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104404/president-dissanayake-to-visit-china-mid-january-report) · `en`
-
-Sri Lankan President Anura Kumara Dissanayake will travel to the island’s largest bilateral lender China for talks in January, he said on Saturday, days after completing a long-delayed foreign debt restructure.
-
-China accounted for more than half of Sri Lanka’s bilateral debt at the time of the 2022 economic crash, when Colombo ran out of foreign exchange to pay for essential imports such as food, fuel and medicines.
-
-Its economy is recovering after receiving an International Monetary Fund rescue package and imposing austerity reforms aimed at repairing the government’s ruined finances.
-
-Leftist Dissanayake came to power in September on a pledge to fight corruption and tightened his grip after his party won a landslide in snap parliamentary polls.
-
-“I will be going to China mid next month”, he told reporters, without setting an exact date.
-
-...
-
-[Data](articles/2d1ffb55.json)
-
-[Extended Data](ext_articles/2d1ffb55.ext.json)
 
 ---

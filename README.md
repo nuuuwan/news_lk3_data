@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 10:28:02**
+As of **2024-12-22 11:27:23**
 
 ## Newspaper Stats
 
-*Scraped **61,382** Articles*
+*Scraped **61,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,845
-adaderanalk | 7,490
-tamilmirrorlk | 8,780
-virakesarilk | 10,123
+adalk | 5,846
+adaderanalk | 7,493
+tamilmirrorlk | 8,782
+virakesarilk | 10,127
 adaderanasinhalalk | 10,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,191 (99.7%) of 61,382 articles have been extended.
+61,195 (99.7%) of 61,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### “It is uncomfortable to conduct the exam during fasting during the fasting period”
+
+*2024-12-22 11:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோன்பு-காலத்தில்-சா-த-பரீட்சை-நடத்துவது-அசௌகரியமானது/175-349077) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Examining during fasting period causes discomfort. Government urged to reschedule GCE Ordinary Level Exam after Ramadan to accommodate Muslim students' religious obligations."
+
+🟩
+
+The Department of Examinations has decided to hold the GCE Ordinary Level Examination in mid -March.. Al-Meisan Foundation, the President, Education Minister, Muslim MPs and the Department of Examinations have demanded that the government come forward to hold the examination or after the fasting of the examination.
+
+In the letter of Al-Meesan Foundation, one of the sacred Ramadan, one of the sacred months of the world, is the month of the month.. This month, Muslims have been fasting in the daytime for more than 13 hours and the month of the day and night is the month of worshiping the Lord in the day and night.. In this month of blessings, Muslims do a lot of good things and have a long time in the night.. During this period, people will be involved in all schools and religious speeches and worship.
+
+...
+
+[Data](articles/54b3d903.json)
+
+[Extended Data](ext_articles/54b3d903.ext.json)
+
+---
+
+### 24 மணிநேரத்தில் 10 விபத்துகள்: 13 பேர் பலி
+
+*2024-12-22 10:54:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-10-விபத்துகள்-13-பேர்-பலி/175-349075) · `ta`
+
+நாட்டின் பிரதான நகரங்களுக்கு அண்மையில், கடந்த 24 மணி நேரத்தில் 10 விபத்துக்குள் இடம்பெற்றுள்ளது என்று தெரிவித்த பொலிஸ் ஊடகப் பேச்சாளர் திணைக்களம், அந்த விபத்துக்களில் 13 பேர் பலியாகியுள்ளனர். அதில், நால்வர் பாதசாரிகள் என்றும் திணைக்களம் அறிவித்துள்ளது.
+
+உற்சவ காலம் என்பதால், பிரதான வீதிகளில் பயணிக்கும் வாகனங்களின் எண்ணிக்கை அதிகமாகும். ஆகையால், வாகன சாரதிகள் மிக அவதானமாக வாகங்களை செலுத்த வேண்டும். அத்துடன், பாதசாரிகளும் கவனமாக பயணிக்க வேண்டும் என்றும் அத் திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/53978dd9.json)
+
+---
+
+### இலங்கை ஜனாதிபதியின் இந்திய விஜயம்
+
+*2024-12-22 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/201844) · `ta`
+
+இந்தியாவுடன் சேர்ந்து முன்னெடுப்பதற்கு முன்னைய இலங்கை அரசாங்கங்கள் இணங்கிக்கொண்ட பல செயற்திட்டங்களை இரு தேசிய தேர்தல்களுக்கும் முன்னதாக கடுமையாக எதிர்த்த தேசிய மக்கள் சக்தியின் தலைமைத்துவ கட்சியான ஜனதா விமுக்தி பெரமுன (ஜே.வி.பி.) வின் தலைவர்கள், தற்போது தங்களது அரசாங்கம்  மறுதலையாக எடுத்திருக்கும் நிலைப்பாடுகளை நியாயப்படுத்துவதில் பெரிய சவாலை எதிர்  நோக்க வேண்டியிருக்கும்.
+
+◼️
+
+[Data](articles/562115a3.json)
+
+---
+
+### கிரிந்திவெல பகுதியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை
+
+*2024-12-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201846) · `ta`
+
+கிரிந்திவெல பொலிஸ் பிரிவிற்குட்பட்ட வல்கம்முல்ல பிரதேசத்தில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபர் ஒருவர் கொல்லப்பட்டுள்ளதாக கிரிந்திவெல பொலிஸார் தெரிவித்தனர்.
+
+இந்த நபர் குத்தகை அடிப்படையில் காணி ஒன்றை கொள்வனவு செய்திருந்தார். அந்த காணியில் வசித்த காவலாளி ஒருவரே இந்த கொலையை செய்திருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+சந்தேக நபரை கைது செய்வதற்கான மேலதிக விசாரணைகளை கிரிந்திவெல பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/1f769e17.json)
+
+---
 
 ### The floating hospital ship arrived
 
@@ -58,6 +124,24 @@ The ship is 178 meters long and 24 meters wide. 106 of them are doctors. The shi
 
 ---
 
+### Western Province contributed most to Sri Lanka’s GDP in 2023
+
+*2024-12-22 09:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104410/western-province-contributed-most-to-sri-lankas-gdp-in-2023) · `en`
+
+The Western Province accounted for the largest share (43.7 per cent) of Sri Lanka’s nominal GDP in 2023, although this indicated a marginal decline in its contribution compared to the previous year, according to the Central Bank of Sri Lanka (CBSL).
+
+The dominant role of the Western province was particularly evident across the Industry and Services sectors. Meanwhile, North Western (10.9 per cent) and Central provinces (10.3 per cent) remained the closest contenders, securing the second and third positions, respectively.
+
+The shares of Central, North Central, Northern and Southern provinces increased in 2023 compared to 2022. Further, the nominal GDP of all the provinces grew in 2023, yet at a slower pace compared to the previous year, CBSL said in a statement.
+
+North Western Province continued to lead in agriculture activities, contributing to a share of 19.6 per cent in 2023, followed by Southern (13.5 per cent) and Central (12.4 per cent) provinces.
+
+...
+
+[Data](articles/97b78d3b.json)
+
+---
+
 ### Murder
 
 *2024-12-22 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-சுட்டுக்-கொலை/175-349063) · `ta`
@@ -82,6 +166,26 @@ The Director has promised to investigate the matter and take appropriate action.
 
 ---
 
+### Chinese naval hospital ship ‘Peace Ark’ visits Sri Lanka
+
+*2024-12-22 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104409/chinese-naval-hospital-ship-peace-ark-visits-sri-lanka) · `en`
+
+The Chinese People’s Liberation Army Navy hospital ship ‘Peace Ark’ arrived in Colombo on a formal visit on Saturday (December 21).
+
+The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions, said Sri Lanka Navy in a statement.
+
+‘Peace Ark’ is a 178m long hospital ship, crewed by 310 personnel under the command of Captain Deng Qiang.
+
+As part of the official visit, the hospital ship ‘Peace Ark,’ in collaboration with the Embassy of the People’s Republic of China in Sri Lanka will organize medical treatments and clinics onboard. They will be conducted by the medical staff of ‘Peace Ark’ and Sri Lanka Navy Medical Department.
+
+In addition crew members of the ship will explore some of the tourist attractions of the country, during their stay in Colombo. They will also take part in certain programmes organized by the Sri Lanka Navy, with a view to further enhance camaraderie between both navies, the statement said.
+
+...
+
+[Data](articles/6e74db88.json)
+
+---
+
 ### Testing with mop dogs in Kilinochchi
 
 *2024-12-22 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-மோப்ப-நாய்களுடன்-சோதனை/175-349062) · `ta`
@@ -99,6 +203,48 @@ It is reported that the Kilinochchi police have carried out a road raid on Satur
 [Data](articles/6dc1144a.json)
 
 [Extended Data](ext_articles/6dc1144a.ext.json)
+
+---
+
+### இலங்கையின் தமிழர் பிரச்சினையில் உண்மையான நிலவரத்தை புரிந்து கொள்ளல்
+
+*2024-12-22 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201841) · `ta`
+
+தமிழ் அரசியல் சமுதாயம்  தொடர்ந்தும் பொருத்தமானதாக இருப்பதற்கும் நம்பகத்தன்மையை மீளக் கட்டியெழுப்புவதற்கும்  அது பிரதிநிதித்துவப்படுத்த விரும்புகின்ற மக்களை மையப்படுத்திய அரசியலை முன்னெடுப்பதை  தவிர வேறு தெரிவு கிடையாது.
+
+◼️
+
+[Data](articles/a65d71ac.json)
+
+---
+
+### Two US Navy pilots shot down over Red Sea in apparent ‘friendly fire’ incident, US military says
+
+*2024-12-22 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104408/two-us-navy-pilots-shot-down-over-red-sea-in-apparent-friendly-fire-incident-us-military-says) · `en`
+
+Two U.S. Navy pilots were shot down Sunday over the Red Sea in an apparent “friendly fire” incident, the U.S military said.
+
+Both pilots were recovered alive, with one suffering minor injuries, but the incident underlines just how dangerous the Red Sea corridor has become after a year of ongoing attacks on shipping by Yemen’s Houthi rebels despite U.S. and European military coalitions patrolling the area.
+
+The U.S. military had conducted airstrikes targeting Yemen’s Houthi rebels at the time, though the U.S. military’s Central Command did not elaborate on what their mission was.
+
+“The guided missile cruiser USS Gettysburg, which is part of the USS Harry S. Truman Carrier Strike Group, mistakenly fired on and hit the F/A-18, which was flying off the USS Harry S. Truman,” Central Command said in a statement.
+
+...
+
+[Data](articles/6fa4d9c8.json)
+
+---
+
+### கூட்டறிக்கையில் 13ஆவது திருத்தம்  இடம்பெறுவதை விரும்பாத அரசாங்கம்
+
+*2024-12-22 08:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201840) · `ta`
+
+ஜனாதிபதி  அநுரகுமார திசாநாயக்கவின்  இந்தியாவுக்கான  உத்தியோகபூர்வ விஜயம்  கடந்த வாரம்  பெரும் முக்கியத்துவத்தை பெற்றிருந்தது.  இந்த விஜயத்தின்போது  இந்திய – இலங்கை சார்பில்  கூட்டறிக்கையொன்றும்  வெளியிடப்பட்டிருந்தது. 34 அம்சங்களை உள்ளடக்கியவகையில் இந்த கூட்டறிக்கை  வெளியாகியிருந்தது. இந்தக் கூட்டறிக்கையில் இனப்பிரச்சினைக்கான அரசியல் தீர்வு குறித்தோ, 13ஆவது திருத்த சட்டம்  தொடர்பிலோ எத்தகைய விடயங்களும் இடம்பெற்றிருக்கவில்லை.  கடந்த காலங்களில்  இலங்கையின் தலைவர்கள் புதுடில்லிக்கு  உத்தியோகபூர்வ விஜயம் மேற்கொள்ளப்பட்ட சந்தர்ப்பங்களில்  வெளியிடப்பட்ட  சகல கூட்டறிக்கைகளிலும்  13ஆவது திருத்த சட்டத்தின் முழுமையான அமுலாக்கத்தின் அவசியம் வலியுறுத்தப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/fbcd6a1a.json)
 
 ---
 
@@ -125,6 +271,30 @@ Police have also announced that they should be observed due to the routine accid
 [Data](articles/5b78031b.json)
 
 [Extended Data](ext_articles/5b78031b.ext.json)
+
+---
+
+### Woman dies after a crocodile attack
+
+*2024-12-22 08:18:18* · [`adalk`](https://www.ada.lk/breaking_news/කිඹුල්-ප්‍රහාරයකින්-කාන්තාවක්-මරුට/11-413764) · `si`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+"67-year-old woman killed in crocodile attack in Pakarkulama. Police investigating, citing possible cattle involvement."
+
+🟩
+
+A woman was killed in a crocodile attack in the Parkkulam area in the Pakarkulama area.. A 67 year old woman has been killed.
+
+Police say that the death of a crocage was on the basis of the death of the cattle. Utakkulama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/dd9d0afc.json)
+
+[Extended Data](ext_articles/dd9d0afc.ext.json)
 
 ---
 
@@ -512,6 +682,8 @@ Although her political aspiration was “to lighten the burden on the suffering 
 
 [Data](articles/5c84822e.json)
 
+[Extended Data](ext_articles/5c84822e.ext.json)
+
 ---
 
 ### Ranil skips two presidential elections backing common candidates Fonseka and Sirisena
@@ -525,6 +697,8 @@ In 2006, the JVP, then in Mahinda’s alliance, filed a case in the Supreme Cour
 ...
 
 [Data](articles/830ffdd4.json)
+
+[Extended Data](ext_articles/830ffdd4.ext.json)
 
 ---
 
@@ -2201,243 +2375,5 @@ Responding to this, Minister Vijitha Herath explained that when diplomats hold p
 [Data](articles/f5d23819.json)
 
 [Extended Data](ext_articles/f5d23819.ext.json)
-
----
-
-### Charith says the reason for removed
-
-*2024-12-21 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204573) · `si`
-
-Sri Lanka's captain Charith explains removing a bowler: "Difficult decision made by us and the coach. New Zealand pitches require such choices."
-
-🟩
-
-The Sri Lankan captain Charith said that the supplementary bowler had to be removed from the squad of Wellala's squad at the New Zealand pitching.
-
-The Sri Lankan cricket team departed to New Zealand last night, speaking to the media before leaving the island.
-
-"Players are in good mindset. T-10 tournament and was well-scored between the wickets. It's a good preparation team.
-
-Challenging tournament. New Zealand is very strong in their country. The group does not make a lot of big changes. But there is an expectation of experiences and newcomers.
-
-Diser was removed from the group that the additional fast bowler wanted to be given the opportunity to play in New Zealand.. That's a difficult decision. It was a difficult decision to me and the coach and the coach. Playing in pitchers like New Zealand sometimes has to make these decisions. "
-
-The Twenty20 tournament will be held first in the Twenty20 Tournament and ODI series between the two countries.
-
-...
-
-[Data](articles/4a6e9b8c.json)
-
-[Extended Data](ext_articles/4a6e9b8c.ext.json)
-
----
-
-### The possibility of rain in the evening or at night
-
-*2024-12-21 09:01:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலையில்-அல்லது-இரவில்-மழைக்கான-சாத்தியம்/175-349031) · `ta`
-
-Rain forecast: Western & Sabaragamuwa, Galle/Matara; Eastern, Central, Uva, Hambantota/Polonnaruwa. Thunderstorms possible. Morning showers in Central, Sabaragamuwa, Uva, Eastern Provinces. Lightning warning issued.
-
-🟩
-
-Rainfall is expected in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-There is a possibility of rainfall or thunderstorm in many places in the Eastern, Central and Uva provinces and Hambantota and Polonnaruwa districts.
-
-In the morning, some parts of the Central, Sabaragamuwa, Uva and Eastern Provinces are expected in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/6a5f2366.json)
-
-[Extended Data](ext_articles/6a5f2366.ext.json)
-
----
-
-### 22,000 metric ton of rice imported
-
-*2024-12-21 08:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-000-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-349030) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-22,000 metric tons of rice imported to address national shortage. Cabinet Minister Nalinda Jayatissa confirms import and readiness to extend import relaxation period if needed.
-
-🟩
-
-Cabinet spokesman and Minister of Health and Mass Media Minister Nalinda Jayatissa said that 22,000 metric tons of rice has been imported to address the shortage of rice in the country.
-
-He also made it clear that the government was ready to extend the period of relaxation of rice imports in view of the need. Remble
-
-◼️
-
-[Data](articles/51ccd741.json)
-
-[Extended Data](ext_articles/51ccd741.ext.json)
-
----
-
-### Admission to the president's mother hospital
-
-*2024-12-21 08:46:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தாய்-வைத்தியசாலையில்-அனுமதி/175-349029) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"President's mother hospitalized due to [condition]. Medical team treating her. Updates expected soon."
-
-🟩
-
-◼️
-
-[Data](articles/e0391002.json)
-
-[Extended Data](ext_articles/e0391002.ext.json)
-
----
-
-### Two dead, dozens injured in car attack on German Christmas market
-
-*2024-12-21 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104388/two-dead-dozens-injured-in-car-attack-on-german-christmas-market) · `en`
-
-Two people have been killed, including a child, and dozens injured after a car drove into a crowd at a Christmas market in the eastern German city of Magdeburg, officials say.
-
-In a statement, authorities said 68 people had been injured, 15 of whom seriously.
-
-Reiner Haseloff, the premier of the state of Saxony-Anhalt, told reporters at the scene that the suspect - who has been arrested - was a 50-year-old Saudi citizen who arrived in Germany in 2006 and had worked as a doctor.
-
-He said a preliminary investigation suggested the alleged attack was acting as a lone wolf and that he could not rule out further deaths due to the number of injured.
-
-The suspected attacker’s motive is unclear, and he has no known links to Islamist extremism.
-
-Footage from the scene shows numerous emergency services vehicles attending while people lay on the ground.
-
-Unverified video on social media purports to show a car ploughing into the crowd at the market.
-
-...
-
-[Data](articles/d468e695.json)
-
-[Extended Data](ext_articles/d468e695.ext.json)
-
----
-
-### Fitch upgrades Sri Lanka to ‘CCC+’
-
-*2024-12-21 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104387/fitch-upgrades-sri-lanka-to-ccc) · `en`
-
-Fitch Ratings has upgraded Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) to ‘CCC+’ from ‘RD’ (Restricted Default), citing the completion of the international sovereign bond restructuring and an improved outlook for macroeconomic indicators.
-
-Fitch typically does not assign an Outlook to sovereigns with a rating of ‘CCC+’ or below.
-
-Fitch has also upgraded the Local-Currency IDR to ‘CCC+’, from ‘CCC-’, to align with the Long-Term Foreign-Currency IDR, as the risk of another default on local-currency debt has been reduced by the completion of the international sovereign bond restructuring and an improved outlook for macroeconomic indicators.
-
-Sri Lanka completed the local-currency portion of its domestic debt optimisation in September 2023, following the exchange of treasury bills and provisional advances held by Central Bank of Sri Lanka’s into new treasury bonds and bills.
-
-...
-
-[Data](articles/182eb26f.json)
-
-[Extended Data](ext_articles/182eb26f.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-12-21 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104386/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle and Matara districts.
-
-Showers or thundershowers will occur at several places in Eastern, Central and Uva provinces and in Hambantota and Polonnaruwa districts during the evening or night.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa, Uva and Eastern provinces during the morning, the Met. Department added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/e71e5c4d.json)
-
-[Extended Data](ext_articles/e71e5c4d.ext.json)
-
----
-
-### Sri Lanka promoted to Sri Lanka from credit ratings
-
-*2024-12-21 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204572) · `si`
-
-Sri Lanka's credit rating upgraded by Fitch: Long-term forex borrowing grade improved from CCC to CCC+. Positive outlook reflects improving economic indicators and reduced debt risk. Central Bank restructured foreign debt, exchanging 8 international sovereign bonds worth Rs. 19,466.1 million.
-
-🟩
-
-Fitch Rating Company says Sri Lanka's credit ratings are positive.
-
-As a result, the company has declared a promotion to credit ratings in Sri Lanka.
-
-Accordingly, the long-term forex borrowing grade is up to the CCC + grade rd to CCC + grade from CCC to CCC.
-
-Fitch Rating Company says that this reflects the risk of improving the successful macroftestical indicators and the risk of improving the success of international debt.
-
-Meanwhile, the Central Bank of Sri Lanka (SLTB) has exchanged international sovereignty bonds by eight Treasury Bonds as per the restructuring of foreign debt.
-
-The Central Bank points out that all these bonds are made up of the allocation of the allocation of Rs. 19,466.1 million.
-
-◼️
-
-[Data](articles/846d44e1.json)
-
-[Extended Data](ext_articles/846d44e1.ext.json)
-
----
-
-### Fitch upgrades Sri Lanka out of default despite holdout Hamilton Reserve
-
-*2024-12-21 07:57:00* · [`economynextcom`](https://economynext.com/fitch-upgrades-sri-lanka-out-of-default-despite-holdout-hamilton-reserve-195663/) · `en`
-
-ECONOMYNEXT- Fitch Ratings said it was upgrading Sri Lanka’s foreign currency rating out of restricted default (RD) status, to CCC+ after 98 percent of bondholders accepted an offer to restructure defaulted bonds with new securities issued on December 20.
-
-“The upgrade of the Long-Term Foreign-Currency IDR (issuer default rating) reflects Fitch’s assessment that Sri Lanka has normalised relations with a majority of creditors, after the announcement of final results of the invitation to exchange the outstanding stock of international sovereign bonds…” the rating agency said.
-
-“One bond series with non-aggregated collective action clauses did not meet the required 75 percent level.
-
-“Without this bond series, the acceptance results imply a restructuring of 96% of total commercial external debt.”
-
-The series that did not meet the threshold was a 2022 bond where Hamilton Reserve, a holdout investor, held about 25 percent of the outstanding.
-
-...
-
-[Data](articles/1e32ff63.json)
-
-[Extended Data](ext_articles/1e32ff63.ext.json)
-
----
-
-### Danger in a Christmas market in Germany
-
-*2024-12-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204571) · `si`
-
-Germany Christmas market tragedy: 2 dead, 60+ injured. Driver, a 50-year-old Saudi, intentionally crashed car. Police arrested suspect.
-
-🟩
-
-Two persons including a child killed in an accident in Magdeburg, East Germany, has died.
-
-According to foreign reports, more than 60 others were injured in the accident.
-
-It is said that a person had operated a car in the market yesterday afternoon.
-
-The driving police have been arrested by the driving police and was a 50-year-old Saudi Arabian.
-
-The suspect has rented the relevant car and has deliberately carried out the accident, police said.
-
-◼️
-
-[Data](articles/f8d26082.json)
-
-[Extended Data](ext_articles/f8d26082.ext.json)
 
 ---

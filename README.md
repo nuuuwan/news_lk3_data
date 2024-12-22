@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 22:15:07**
+As of **2024-12-22 22:27:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,265 (99.6%) of 61,490 articles have been extended.
+61,268 (99.6%) of 61,490 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -536,39 +536,61 @@ Subsequently, the suspect has been handed over to the Aralangwila Police Station
 
 ---
 
-### ஒரு தேசம் ஒரே தேர்தல்: ஒரு விளக்கம்
+### A nation is the same election: a description
 
 *2024-12-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201898) · `ta`
 
-ஒரே தினத்தில் தேர்தல்களை நடத்துவது என்பது இந்தியாவிற்கு புதிய அனுபவம் அல்ல. 1951ஆம் ஆண்டு தொடக்கம் 1967 வரையும் அப்படித் தான் நடந்தது.
+India conducted simultaneous national elections from 1951 to 1967. This practice, known as "same election," refers to holding all parliamentary and state assembly polls on a single day. The rationale behind this approach includes efficiency in resource allocation and voter turnout. However, it also presents challenges such as coordinating across various states and managing potentially conflicting political agendas.
+
+🟩
+
+Conducting elections on the same day is not a new experience for India. From 1951 to 1967, that was the case.
 
 ◼️
 
 [Data](articles/5059c85d.json)
 
+[Extended Data](ext_articles/5059c85d.ext.json)
+
 ---
 
-### கட்டமைப்பற்ற  இந்தியக் கருவி
+### Indoor
 
 *2024-12-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201900) · `ta`
 
-அநுர அரசாங்கத்தோடு  இந்தியா செய்து கொண்டுள்ள ஒப்பந்தங்களை முறியடிக்கும் வகையில், சீனாவுக்கான அநுரவின் பயணத்தின் போது சீன சலுகைகள் அதிகரித்த அளவில் இருக்கும் என்ற பார்வையும் இந்திய ஊடகங்களிடம் இருப்பதை காண கூடியதாக உள்ளது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Chinese concessions expected as China works to resolve agreements with India. Indian media reports indicate increased flexibility from China regarding government contracts between the two nations.
+
+🟩
+
+The Indian media has also seen that China's concessions will be increasing during the journey of China to overcome the agreements with India's contracts with the government.
 
 ◼️
 
 [Data](articles/d85f9428.json)
 
+[Extended Data](ext_articles/d85f9428.ext.json)
+
 ---
 
-### இருப்பதை காப்பாற்றிக்கொண்டு அடுத்த கட்டத்துக்கு நகர்வோம்
+### We will save the existence and move to the next level
 
 *2024-12-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201885) · `ta`
 
-13ஆவது திருத்தத்தை கூட  முழுமையாக  நடைமுறைப்படுத்துவதற்கு  இன்னமும்  முடியாமல் உள்ளது.  முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க 2022 ஆம் ஆண்டு தனது  ஆட்சி காலத்தில் 13ஆவது திருத்த சட்டம்  முழுமையாக நடைமுறைப்படுத்தப்படும் என்று அறிவித்திருந்தார். இனப்பிரச்சினைக்கான அரசியல் தீர்வு தொடர்பில்  இரு தடவைகள் சர்வகட்சி குழுக்கூட்டங்களை நடத்தியிருந்தார். இதன்போது 13ஆவது திருத்த சட்டம்  அமுலாக்கப்பட வேண்டும் என்று பல்வேறு தலைவர்களும்    கோரிக்கைகளை முன்வைத்திருந்தனர்.
+S1:0
+
+🟩
+
+The 13th Amendment is still unable to fully implement. Former President Ranil Wickremesinghe has announced that the 13th Amendment will be fully implemented during his reign in 2022. He held two -time all -party committees on the political solution of the ethnic problem. Various leaders have demanded the implementation of the 13th Amendment.
 
 ◼️
 
 [Data](articles/e58dad9a.json)
+
+[Extended Data](ext_articles/e58dad9a.ext.json)
 
 ---
 

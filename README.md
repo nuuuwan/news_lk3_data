@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 02:01:30**
+As of **2024-12-23 01:42:53**
 
 ## Newspaper Stats
 
-*Scraped **61,510** Articles*
+*Scraped **61,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
 economynextcom | 3,747
-dailyftlk | 4,260
+dailyftlk | 4,259
 dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
-tamilmirrorlk | 8,797
+tamilmirrorlk | 8,796
 virakesarilk | 10,168
 adaderanasinhalalk | 10,627
 
@@ -26,43 +26,9 @@ adaderanasinhalalk | 10,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,288 (99.6%) of 61,510 articles have been extended.
+61,287 (99.6%) of 61,508 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-23 (Monday)
-
-### Sri Lanka’s IMF deal: Turning point, but caution is key
-
-*2024-12-23 01:50:29* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-IMF-deal-Turning-point-but-caution-is-key/4-770896) · `en`
-
-Sri Lanka stands at a crossroads. The successful conclusion of the IMF’s first review under the Extended Fund Facility (EFF) arrangement has been heralded as a moment of cautious optimism. For a country battered by an unprecedented economic crisis, this milestone offers a much-needed lifeline—a chance to stabilise, rebuild, and restore confidence in its battered economy. Yet, as history has shown us, an IMF deal is not a guarantee of recovery; it is only the first step on a long and arduous journey.
-
-...
-
-[Data](articles/e9e18a13.json)
-
----
-
-### இந்திய மீனவர்களை விடுவிக்கக் கோரிக்கை
-
-*2024-12-23 01:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-விடுவிக்கக்-கோரிக்கை/175-349107) · `ta`
-
-இலங்கை மீனவர்களால் கைது செய்யப்படுகின்ற இந்திய மீனவர்களை உடடினயாக விடுதலை செய்யவேண்டும் என வலியுறுத்தப்பட்டுள்ளது.
-
-சென்னை - கலைஞர் அரங்கில் திராவிட முன்னேற்றக் கழக செயற்குழுக் கூட்டம் கட்சியின் தலைவர் மு.க.ஸ்டாலின் தலைமையில் நேற்று (22)  நடைபெற்ற போது இந்த விடயம் தொடர்பில் ஆராயப்பட்டுள்ளது.
-
-இதன்போது, இந்திய மீனவர்களை கைது செய்து அவர்களின் படகுகளைப் பறிமுதல் செய்வது அவர்களின் வாழ்வாதாரத்தைக் கேள்விக்குறியாக்கும் விடயம் என குறித்த செயற்குழு கூட்டத்தில் கலந்து கொண்ட கட்சியின் உறுப்பினர்கள் தெரிவித்துள்ளனர்.
-
-கைது செய்யப்படும் இந்திய மீனவர்களுக்கு இலங்கை நீதிமன்றங்களில் விதிக்கப்படும் சிறைத் தண்டனை மற்றும் அபராதம் என்பன இரண்டு நாடுகளுக்களுக்கும் இடையிலான நட்புறவை சீர்குலைக்கும் விடயம் சுட்டிக்காட்டப்பட்டுள்ளது.
-
-தற்போது இலங்கையில் சிறைபிடிக்கப்பட்டுள்ள இந்திய மீனவர்களை விடுவித்து அவர்களது படகுகளையும் விடுவிப்பதற்கு நடவடிக்கை எடுக்கப்பட வேண்டும் என தமிழக முதலமைச்சரிடம் இதன்போது தி.மு.க செயற்குழு கூட்டம் கோரிக்கை விடுத்துள்ளது. (a)
-
-◼️
-
-[Data](articles/a98a377c.json)
-
----
 
 ### 2024-12-22 (Sunday)
 
@@ -373,8 +339,6 @@ Police have discovered that someone had later deleted the CCTV footage recorded 
 ...
 
 [Data](articles/60de7282.json)
-
-[Extended Data](ext_articles/60de7282.ext.json)
 
 ---
 
@@ -2345,5 +2309,65 @@ A woman living in Pudukkudiyiruppu Suduvendrapila has been hit by a crocodile in
 [Data](articles/baf0add6.json)
 
 [Extended Data](ext_articles/baf0add6.ext.json)
+
+---
+
+### “There is a full right to believe the lie is true”
+
+*2024-12-22 11:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யை-உண்மை-என-நம்ப-வைக்க-முழு-உரிமை-உள்ளது/175-349079) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+NPP MP Nilanti Kothachi emphasizes democratic rights: believe truth or lie, criticize government actions, wait for results before judging. Claims NPP never lied during election campaign.
+
+🟩
+
+NPP MP Nilanti Kothachi yesterday (21) said that the people have the right to believe in the truth or false.
+
+Speaking at an event in Kalutara, he said that the people have the right to look at the adverse side of the government's good things and that the government will never prevent the democratic right.
+
+"You have a full right to make any truth false and no false. That's your democratic right. You have the right to see the negative side when the government does something good. Moreover, you have the right to appreciate a leader, government, company or individual community when doing harmful actions, ”he said.
+
+He said it would take time to get the effect of an action and it was better to wait until the results came up before criticizing something.
+
+He said that the NPP members had never lied during the election campaign to bring Anurakumara Dissanayake to the presidential post.
+
+...
+
+[Data](articles/d48b0ffa.json)
+
+[Extended Data](ext_articles/d48b0ffa.ext.json)
+
+---
+
+### Pubudu Rice Manufacturer Product Association Ready to resolve the rice crisis
+
+*2024-12-22 11:20:13* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-අර්බුදය-විසඳන්න-පුබුදු-සහල්-නිෂ්පාදක-සංගමය-සූදානම්/11-413769) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Polonnaruwa SMEs claim 90% closed due to rice crisis. They blame large-scale millers for market control. Small & medium mills produce 60% of Sri Lanka's rice. Government intervention buying paddy from farmers suggested to resolve crisis.
+
+🟩
+
+The Polonnaruwa District Small and Medium Scale Pubuduwa Small Manufacturers Association (SME) says that if the government is facing the customers and merchants, the government will not resolve the rice crisis in the country.
+
+They were speaking at a special press conference held at Polonnaruwa today (22) at the Polonnaruwa district.
+
+Speaking further the officials of the Pubudu Rice Manufacturers Association Member JM. Nilantha Kumara Jayalath Jayalath said:
+
+Due to 500 SMEs of the Polonnaruwa district, 90% of them have been closed down, and the measures made by the measures taken by the decisions and masses, the measures, and mulrors.The golden production of rice was collapsed in the crisis of the country, which is created in this country, has caused this small and medium scale mill.
+
+Therefore, this rice crisis can only give the same solution to the SME and mid-scale and milling.
+
+...
+
+[Data](articles/9b3006ec.json)
+
+[Extended Data](ext_articles/9b3006ec.ext.json)
 
 ---

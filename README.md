@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 13:43:24**
+As of **2024-12-22 14:27:26**
 
 ## Newspaper Stats
 
-*Scraped **61,421** Articles*
+*Scraped **61,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,173 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,850
-adaderanalk | 7,499
+adalk | 5,851
+adaderanalk | 7,500
 tamilmirrorlk | 8,788
-virakesarilk | 10,132
-adaderanasinhalalk | 10,614
+virakesarilk | 10,136
+adaderanasinhalalk | 10,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,209 (99.7%) of 61,421 articles have been extended.
+61,214 (99.7%) of 61,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### உளுக்குளத்தில் முதலை தாக்கி பெண் உயிரிழப்பு
+
+*2024-12-22 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201869) · `ta`
+
+வவுனியா - உளுக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட பாவக்குளம் பகுதியில் முதலை தாக்கி பெண்ணொருவர் நேற்று சனிக்கிழமை (21) உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்த பெண் சுடுவேந்திர பிலவ், புது குடுமனே பகுதியைச் சேர்ந்த 67 வயதுடையவர் ஆவார்.
+
+◼️
+
+[Data](articles/52643d1d.json)
+
+---
+
+### பல்வேறு பிரதேசங்களில் வீதி விபத்துக்களில் சிக்கி நால்வர் பலி!
+
+*2024-12-22 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201865) · `ta`
+
+மாரவில, அம்பலாந்தோட்டை, கம்பளை, ஹெட்டிபொல ஆகிய பொலிஸ் பிரிவுகளில் நேற்று சனிக்கிழமை (21) இடம்பெற்ற விபத்துக்களில் நால்வர் உயிரிழந்துள்ளனர்.
+
+பேலியகொட – புத்தளம் வீதியில் மாரவில நகரில் கொழும்பு நோக்கி பயணித்த பஸ்ஸுடன் முன்னால் வந்த முச்சக்கரவண்டி ஒன்று நேருக்கு நேர் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+இதேவேளை, அம்பலாந்தோட்டை பொலிஸ் பிரிவுக்குட்பட்ட கொழும்பு - வெல்லவாய வீதியின் வளவல பிரதேசத்தில் அதே திசையில் பயணித்த மோட்டார் சைக்கிளின் பின்பகுதியில் டிப்பர் ரக வாகனம் மோதி விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் காயமடைந்த மோட்டார் சைக்கிள் ஓட்டுநர் அம்பலாந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக கராபிட்டிய வைத்திய சாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+அத்தோடு, கம்பளை - தொலுவ வீதியில் தவுலம் மோதர என்ற இடத்தில் வீதியின் ஓரமாக நடந்து சென்ற பாதசாரி மீது மோட்டார் சைக்கிள் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் படுகாயமடைந்த மோட்டார் சைக்கிள் ஓட்டுநர் மற்றும் பாதசாரி கம்பளை வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வந்த நிலையில் பாதசாரி உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/ad55fd51.json)
+
+---
+
+### Ministry of Principals of National Schools
+
+*2024-12-22 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204610) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Applications open for Principal positions in National Schools. Eligible SL Education Service officers can apply online until 31st. Details on Ministry of Education website."
+
+🟩
+
+The Ministry of Education has issued a special announcement regarding the vacancies in the post of Principals of the Sri Lanka Education Administrative Service of the National Schools.
+
+It is said that applications will be called on officials of the Sri Lanka Education Service Officers in Sri Lanka Education Service to fill vacancies in these schools as the law of the Public Service Commission.
+
+The Ministry of School Registration, School Registration, Signs, and Specimen Application Form has been published on the website of the Ministry of Education on the 11th of the last 11 days.
+
+Accordingly, the application will be purchased under the website of the website.
+
+The last day of the applications can be submitted is the 31st of this month, the Ministry of Education has also said.
+
+◼️
+
+[Data](articles/dfcc4485.json)
+
+[Extended Data](ext_articles/dfcc4485.ext.json)
+
+---
+
+### மறக்கப்பட்ட தமிழர் பிரச்சினை
+
+*2024-12-22 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201862) · `ta`
+
+இலங்கையின் அரசாங்கங்கள் இந்த விடயத்தில், இந்தியாவின் பேச்சைக் கேட்கக் கூடிய நிலையில் இருக்கின்றனவா என்ற என்பது, கேள்விக்குரிய விடயமாக இருக்கிறது.இந்தியப் பிரதமருக்கும் அநுரகுமார திசாநாயக்கவுக்கும் இடம் பெற்ற சந்திப்பின்போது,தமிழர் பிரச்சினை பற்றி அதிகம் கவனத்தில் எடுக்காதமைக்கு வேறு சில காரணங்களும் இருக்கக் கூடும்.
+
+◼️
+
+[Data](articles/5fea8d43.json)
+
+---
+
+### Govt. generated over Rs. 4 billion through rice imports
+
+*2024-12-22 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104418/govt-generated-over-rs-4-billion-through-rice-imports) · `en`
+
+Traders across various regions have urged the government to reconsider the Rs. 65 per kilogram tax imposed on imported rice, advocating for a reduction to alleviate market challenges.
+
+Consumer organizations echo these sentiments, emphasizing that a lower import tax could stabilize rice prices and make it more affordable for consumers.
+
+The government has implemented several measures in recent months to address the rice crisis, which has persisted for over two months. These efforts include setting maximum wholesale and retail price limits, conducting raids on rice mills through the Consumer Affairs Authority, and facilitating rice imports from foreign markets.
+
+According to Sri Lanka Customs, 67,000 metric tons of rice have been imported since import permissions were granted. This includes 38,500 metric tons of Nadu rice and 28,500 metric tons of raw rice.
+
+...
+
+[Data](articles/614dc8be.json)
+
+[Extended Data](ext_articles/614dc8be.ext.json)
+
+---
+
+### ආනයන බද්ද අඩු කරන්නැයි සහල් වෙළෙඳුන්ගෙන් ඉල්ලීමක්
+
+*2024-12-22 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204609) · `si`
+
+සහල් ආනයනය කිරීමේදී කිලෝග්‍රෑම් එකකට රේගුව විසින් අයකරනු ලබන රුපියල් 65ක බදු මුදල යම් ප්‍රමාණයකින් අඩුකර දෙන ලෙස බොහෝ ප්‍රදේශවල වෙළෙඳුන් රජයෙන් ඉල්ලා සිටී.
+
+වෙළෙඳුන් මෙන් පාරිභෝගික සංවිධාන පෙන්වා දෙන්නේ, ආනයනික සහල් බදු අඩු කළහොත් පාලන මිලට සහල් වෙළෙඳපොළේ පවතිනු ඇති බවය.
+
+මාස දෙකක පමණ සිට පවතින සහල් අර්බුදයට පිළියම් ලෙස උපරිම තොග හා සිල්ලර මිල පැනවීම, පාරිභෝගික කටයුතු අධිකාරිය මගින් සහල් මෝල් වැටලීම මෙන්ම විදේශ රටවලින් සහල් ආනයනය කිරීමටත් රජය පසුගිය සමයේ විවිධ පියවර අනුගමනය කළේය.
+
+සහල් ආනයනයට අවසර හිමිවූ දෙසැම්බර් 20 වැනිදා දක්වා සහල් මෙට්‍රික්ටොන් 67,000ක් ආනයනයකර තිබූ බව ශ්‍රී ලංකා රේගුව පැවසීය.
+
+ඉන් මෙට්‍රික්ටොන් 38,500ක් නාඩු සහල් වන අතර සෙසු මෙට්‍රික්ටොන් 28,500ක් කැකුළු සහල් ය.
+
+මෙම සහල් තොග වෙනුවෙන් ශ්‍රී ලංකා රේගුව රුපියල් බිලියන 4.3ක් ආනයන බදු ලෙස අයකර ඇත්තේ කිලෝග්‍රෑම් එකකට රුපියල් 65 බැගිනි.
+
+ආනයනික සහල් තොග වෙළෙඳපොළට ලැබීම ආරම්භවීමත් සමඟ පැවති සහල් හිඟය යම් ප්‍රමාණයකින් සමනයවී ඇතත්, තවමත් වෙළෙඳපොළේ නිසි ප්‍රමාණයට සහල් නොමැති බව ඇතැම් ප්‍රදේශවලින් වාර්තා වෙයි.
+
+...
+
+[Data](articles/1171ac18.json)
+
+---
+
+### ඉන්දියාවෙන් අධි බලැති විදුලි රැහැන් පද්ධතියක් ගේන්න ආණ්ඩුව එකඟද? නැද්ද?
+
+*2024-12-22 13:21:27* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවෙන්-අධි-බලැති-විදුලි-රැහැන්-පද්ධතියක්-ගේන්න-ආණ්ඩුව-එකඟද--නැද්ද-/11-413770) · `si`
+
+ඉන්දියාවෙන් අධි බලැති විදුලි රැහැන් පද්ධතියක් ගෙන ඒම ගැන ආණ්ඩුවේ ස්ථාවරය ප්‍රකාශ කළ යුතු බව විදුලිය පාවිච්චි කරන්නන්ගේ සංගමයේ සභාපති එම්.ඩී.ආර්.අතුල මහතා පැවසීය.
+
+කොළඹ අද(22දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“පසුගියදා ඉන්දීයාවට ගිය ජනාධිපතිවරයා​ගේ කරුණු පිළිබඳව සංචාරක ඇමති කියනවා අපි සාකච්ඡා කළා විතරයි, අපි ගිවිසුම් අත්සන් කළේ නෑ කියලා. ඒත් සාකච්ඡා කළේ මොනවද? එට්කා ගෙන්න, අධිබලැති විදුලි රැහැන් පද්දතියක් ගේන්න, බලශක්තිය ඉන්දියාවට දෙන්න තමයි මේ සාකච්ඡා කළේ. ඒත් රට තුළ යම් උද්ඝෝෂණයක් ඇති වෙනකොට දැන් සංචාරක ඇමති කියන්නේ සාකච්ඡා කළා විතරයි, අත්සන් කළේ නෑ කියනවා. අධි බලැති විදුලි රැහැන් පද්ධතිය ගේන්න එකඟද? නැද්ද? මේවා පිළිබඳ ප්‍රකාශයක් කරන්න. ”
+
+◼️
+
+[Data](articles/f00d9504.json)
+
+---
+
+### மிரிஹானையில் கார் மோதி பாதசாரி உயிரிழப்பு
+
+*2024-12-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201860) · `ta`
+
+மிரிஹானை பொலிஸ் பிரிவுக்குட்பட்ட ஹைலெவல் வீதியில் விஜேராம சந்திக்கு அருகில் கார் மோதி பாதசாரி ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மஹரகமவில் இருந்து நுகேகொட நோக்கி பயணித்த கார்  வீதியைக் கடந்த பாதசாரி மீது மோதியதில் விபத்து இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/1b17a5fb.json)
+
+---
 
 ### Action to submit the candidate list to the police
 
@@ -98,21 +250,27 @@ The deceased is a 35 -year -old man who lived near the theater in Kalneva.
 
 ---
 
-### துவிச்சக்கரவண்டியை தள்ளிச் சென்றவர் மீது மோதிய வேன்! - வயோதிபர் பலி!
+### The van crashed into the man who pushed the bicycle!- The elderly kills!
 
 *2024-12-22 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201851) · `ta`
 
-சீதுவ பொலிஸ் பிரிவுக்குட்பட்ட அமந்தொலுவ பிரதேசத்தில் வேன் ஒன்று துவிச்சக்கரவண்டியை தள்ளிக்கொண்டிருந்தவர் மீது மோதியதில் அந்த நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A van crashed into a man pushing a bike in Sri Lanka. The elderly victim died. Police are investigating.
 
-உதம்விட்டயிலிருந்து ரத்தொலுவ நோக்கிச் சென்ற வேன் வீதியோரத்தில் துவிச்சக்கரவண்டியைத் தள்ளிச் சென்ற நபர் மீது மோதியுள்ளது.
+🟩
 
-இவ்விபத்தில் காயமடைந்தவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது உயிரிழந்துள்ளதாகவும், சடலம் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+The man was killed when a van was pushing a bicycle in the Amandoluwa area of ​​the Seetuwa police division, police said.
 
-விபத்தினை ஏற்படுத்திவிட்டு வேன் தப்பிச் சென்றுள்ளதுடன், சந்தேக நபரை கைது செய்வதற்கான மேலதிக விசாரணைகளில் பொலிஸார் ஈடுபட்டு வருகின்றனர்.
+The van traveling from Udamvidai to Ratholuwa crashed into a man who pushed the bicycle on the street.
+
+The body of the injured was admitted to the hospital.
+
+The van has escaped after the accident and the police are conducting further investigations to arrest the suspect.
 
 ◼️
 
 [Data](articles/08cdad15.json)
+
+[Extended Data](ext_articles/08cdad15.ext.json)
 
 ---
 
@@ -138,27 +296,33 @@ However, the Dick Doc said it was expecting an emergency explanation from the Al
 
 ---
 
-### ගතවූ පැය 24ට රිය අනතුරුවලින් ජීවිත 13ක් බිලි වෙයි
+### 13 lives killed in road accidents
 
 *2024-12-22 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204608) · `si`
 
-ගතවූ පැය 24 තුළ දිවයිනේ විවිධ ප්‍රදේශවල සිදුවූ රිය අනතුරු 10කින් පුද්ගලයින් 13 දෙනෙකු මියගොස් තිබේ.
+13 lives lost in 10 road accidents nationwide over 24 hours. Police warn increased vigilance during festive season. 2,243 fatalities reported this year; 22,967 accidents, including 2,141 fatalities, since January 1. 4,552 serious injuries recorded.
 
-පොලීසිය ප්‍රකාශ කළේ, හැටන්, පින්නදූව, මාරවිල, අම්බලන්තොට, ගම්පොල, හෙට්ටිපොළ, මඩකලපුව, මිරිහාන, කැබිතිගොල්ලෑව සහ සීදුව යන ප්‍රදේශවලින් එම අනතුරු වාර්තා වී ඇති බවය.
+🟩
 
-උත්සව සමය තුළ මාර්ගවල ගමන් කිරීමේ දී වැඩි අවධානයක් යොමු කළ යුතු බවයි පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග මහතා පැවසීය.
+Thirteen people were killed in 10 road accidents in different parts of the country in the last 24 hours.
 
-"උත්සව සමය එළැඹීමත් සමග මහා මාර්ගවල වැඩි වශයෙන් වාහන ගමනාගමනයක් වගේම පදිකයිනුත් බහුලව ගැවසීමක් දකින්න පුළුවන්. පදිකයන් වශයෙන් ඔබ මාර්ගයේ ගමන් කරන කොට ඉතාම සුපරික්ෂාකාරීව ගමන්කරන්න ඕනේ. ඒ වගේම රියදුරෙක් වශයෙන් ඔබ ඉතාම සැලකිල්ලෙන් මාර්ගයේ ධාවනය කළ යුතුයි."
+Police said the accidents were reported from Hatton, Pintonuwa, Marawila, Marawila, Ambalangoda, Hettipola, Batticaloa, Mirihana, Kebithigollewa and Seeduwa areas.
 
-මේ අතර මේ වසරේ ගතවූ කාලය තුළ රිය අනතුරුවලින් පුද්ගලයින් 2,243 දෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+Police Media Spokesperson SSP Buddhika Manatunga said that he should pay more attention to the routes during the festive season.
 
-ජනවාරි මස පළමුවන දින සිට දෙසැම්බර් 13 වන දින දක්වා කාලය තුළ දිවයින පුරා රිය අනතුරු 22,967ක් වාර්තා වී ඇති අතර ඉන් 2,141ක් මාරක රිය අනතුරු බව පොලීසිය සඳහන් කළේය.
+"The festive season is increasingly a traffic and pedestrians, as well as pedestine. As pedestrians, you have to travel very carefully when you walk the road. And as a driver, you should drive the road with very care. "
 
-එම කාලය තුළ රිය අනතුරුවලින් බරපතළ තුවාල ලැබූ සංඛ්‍යාව 4,552 දෙනෙකු වන බව ද සඳහන්ය.
+Meanwhile, 2,243 persons were killed in accidents this year, police said.
+
+At the 1st of January, 22,967 road accidents have been reported across the country, of which 2,141 were fatal accidents.
+
+4,552 people who were seriously injured in accidents during that period.
 
 ◼️
 
 [Data](articles/16513017.json)
+
+[Extended Data](ext_articles/16513017.ext.json)
 
 ---
 
@@ -181,6 +345,8 @@ The Full Moon Poya holidays were approved by the Poya Committee.
 ...
 
 [Data](articles/397d6be3.json)
+
+[Extended Data](ext_articles/397d6be3.ext.json)
 
 ---
 
@@ -2095,211 +2261,5 @@ In response, the CID launched a probe to identify the cause of the error and det
 [Data](articles/e445c9e1.json)
 
 [Extended Data](ext_articles/e445c9e1.ext.json)
-
----
-
-### Advisations with Asitha Glamegany
-
-*2024-12-21 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204582) · `si`
-
-Asitha Fernando joins Glovegan Sports Club in England, becoming first Sri Lankan player. He'll play 7 matches in April for Glamegon in Division Two English Cricket Tournament. At 27, he has 21 Test appearances and impressive recent performance with Sri Lankan team.
-
-🟩
-
-Sri Lanka fast bowler, Asitha Fernando contracts with Glovegan Sports Club, a leading wicket club in England.
-
-He will become the first Sri Lankan to represent Glovegan Team.
-
-However, initiar has been played for Nothinghamshire State.
-
-Glameoon Sports Club, games in the English Cricket Tournament (DIVISION TWO) is played in April.
-
-The first two months of its first two months will be played for glamegon. He will represent seven matches representing the group.
-
-At the 27-year-old Sri Lanka, 21 teasts have been held for 21 Tests.
-
-He was also able to make significant performance during the visit of the Sri Lankan team this year.
-
-◼️
-
-[Data](articles/ba3db70a.json)
-
-[Extended Data](ext_articles/ba3db70a.ext.json)
-
----
-
-### Going back to Delhi tomorrow - former President Ranil
-
-*2024-12-21 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201803) · `ta`
-
-Ranil Wickremesinghe returns to India tomorrow for Delhi visit. Attends meetings, visits historical sites, and participates in secret political gatherings. Speech by Atal Bihari Vajpayee scheduled for 27th at Indian Hopead Center.
-
-🟩
-
-Former President Ranil Wickremesinghe will return to India on Sunday (22). He will go to Delhi as the second personal visit tomorrow. During the visit, he will attend various important meetings.
-
-Former Prime Minister of India, Atal Bihari Vajpayee, will make a speech on the 27th of this month.. The event will be held at the Indian Hopead Center Auditorium in Delhi.
-
-Former President Ranil Wickremesinghe will visit places of ancient historical significance during his weekly visit to India. It is reported that he will also attend major secret political meetings.
-
-Former President Ranil Wickremesinghe visited India within a week after the general election in the country. It is noteworthy that Sri Satya Sai Vidya in Madhya Pradesh addressed the visit from November 21 to 30.
-
-◼️
-
-[Data](articles/db9acf8b.json)
-
-[Extended Data](ext_articles/db9acf8b.ext.json)
-
----
-
-### CID declares in three of the doctoral name
-
-*2024-12-21 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204581) · `si`
-
-CID records statements from Parliament officials about a minister's complaint. Three officers were interviewed as part of the investigation.
-
-🟩
-
-The Criminal Investigations Department (CID) has recorded statements from Parliament officials regarding the name of the Hon.
-
-A group of officers who joined the Parliament yesterday (20) had recorded statements of the Parliament and three other officers.
-
-Minister of Attorney atwnser had lodged a complaint with the Criminal Investigation Department.
-
-Accordingly, the Criminal Investigations Department (CID) commenced the investigation into the incident has taken steps to record statements from the group yesterday.
-
-◼️
-
-[Data](articles/0fff5400.json)
-
-[Extended Data](ext_articles/0fff5400.ext.json)
-
----
-
-### Pakistan military court jails 25 over 2023 attacks
-
-*2024-12-21 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104396/pakistan-military-court-jails-25-over-2023-attacks) · `en`
-
-Twenty-five civilians were sentenced by a Pakistani military court to periods of two to 10 years of “rigorous imprisonment” in connection with attacks on military facilities in 2023, the armed forces’ media wing said on Saturday.
-
-The ruling underscores concerns among supporters of jailed former prime minister Imran Khan that military courts are going to play a bigger role in cases involving the 72-year-old, who is facing multiple charges including allegedly inciting attacks against the armed forces.
-
-Thousands of Khan supporters stormed military installations and torched a general’s house on May 9, 2023 to protest against the former premier’s arrest by paramilitary soldiers. At least eight people were killed in the violence.
-
-The military’s Inter-Services Public Relations office said the sentences handed down on Saturday were an “important milestone in dispensation of justice to the nation”.
-
-...
-
-[Data](articles/e2e5e00e.json)
-
-[Extended Data](ext_articles/e2e5e00e.ext.json)
-
----
-
-### Three killed as bus falls into precipice
-
-*2024-12-21 13:49:22* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයක්-ප්‍රපාතයකට-පෙරලී-තිදෙනෙක්-මරුට/11-413760) · `si`
-
-Bus crash kills 3, injures 46 near Hatton. Accident caused by mechanical failure. Victims taken to Dikoya Hospital.
-
-🟩
-
-Three persons who were traveling from Hatton to Kandy and three others were killed in the bus.
-
-46 persons injured in the accident have been admitted to the Dikoya Hospital and a 6-year-old boy, a woman and another person has been killed.
-
-The accident occurred at around 11 am in Hatton Malliupuwa. The accident had occurred due to a technical fault on the bus.
-
-◼️
-
-[Data](articles/f17812f2.json)
-
-[Extended Data](ext_articles/f17812f2.ext.json)
-
----
-
-### Suspect found the wishes of 5 killings
-
-*2024-12-21 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204579) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 unidentified shooters killed in Galle. 'Boss' shot on motorcycle. Victim suspected in 5 murders. Police link to drug trafficking. Senior DIG Mahesh Senaratne investigating."
-
-🟩
-
-Two unidentified shooters were shot dead at night and 'boss' yesterday (20).
-
-It was reported that Boss was shot with a motorcycle while he was shot with a motorcycle in the Galle-Dadalla.
-
-The shooting was shot at around 6.50 pm yesterday at the Galle-Dadalla Civilization Galle.
-
-Two shooters who came from another motorcycle were shooting from a T-56 riffle.
-
-The boss was also killed when he was admitted to the Galle Hospital and was injured when he was admitted to the Galle Hospital.
-
-The victim, a resident of Malagoda, Galle, has been a suspect of about 5 murders, police said.
-
-The police suspect that the murder was on fire with a clash at the drug trafficking.
-
-Senior DIG Mahesh Senaratne is on the instructions of Senior DIG Mahesh Senaratne in charge of the Southern Province.
-
-◼️
-
-[Data](articles/390c9d3b.json)
-
-[Extended Data](ext_articles/390c9d3b.ext.json)
-
----
-
-### Central Bank has taken legal action against 20 prohibition projects
-
-*2024-12-21 13:31:57* · [`adalk`](https://www.ada.lk/breaking_news/තහනම්-යෝජනා-ක්‍රම-20-කට-එරෙහිව-මහ-බැංකුව-නීතිමය-පියවර-අරන්/11-413759) · `si`
-
-Central Bank sues 20 firms over financial risks. CBSF investigates organizations protecting public interest. Over 500 sessions conducted at Central Bank offices in 2023-2024.
-
-🟩
-
-Central Bank's Financial Consumer Relationship Department (CBSF) has been inspected against 20 organizations that have been taken to protect the public with the risk of the Sri Lankan financial system.Issued by issuing.
-
-The Department states that several other investigations have already been carried out on such institutions.
-
-The statement also held more than 500 sessions at the Central Bank Head Office and Provincial Offices in the Central Bank Head Office and Provincial Offices in 2023 and 2024.
-
-◼️
-
-[Data](articles/3920c8ab.json)
-
-[Extended Data](ext_articles/3920c8ab.ext.json)
-
----
-
-### Escaped
-
-*2024-12-21 13:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/தப்பி-ஓடிய-சந்தேகநபர்/74-349038) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Suspect Risad Mohammed Sadiq (28) escapes Ampara-Samanthurai court. Police and prison officials searching. Arrested July 7, under investigation.
-
-🟩
-
-A suspect who brought to the Ampara - Samanthurai Magistrate's Court fled yesterday.
-
-Prison officials, including police, are searching for the suspect.
-
-Risad Mohammed Sadiq, a 28 -year -old suspect from Umanthurai Uda 2, has escaped.
-
-The suspect was arrested on the 7th of last month and the police are conducting investigations into the incident.. Remble
-
-◼️
-
-[Data](articles/ad05b5da.json)
-
-[Extended Data](ext_articles/ad05b5da.ext.json)
 
 ---

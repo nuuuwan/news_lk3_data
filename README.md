@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 05:00:34**
+As of **2024-12-22 05:52:27**
 
 ## Newspaper Stats
 
-*Scraped **61,359** Articles*
+*Scraped **61,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 456
 colombotelegraphcom | 622
 bbccomsinhala | 647
-islandlk | 3,710
+islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
@@ -26,11 +26,89 @@ adaderanasinhalalk | 10,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,168 (99.7%) of 61,359 articles have been extended.
+61,172 (99.7%) of 61,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### Dynasties of Deceit: The Philippines’ Curse
+
+*2024-12-22 02:52:00* · [`islandlk`](http://island.lk/dynasties-of-deceit-the-philippines-curse/) · `en`
+
+The 1987 Philippine Constitution, crafted in the aftermath of the 1986 People Power Revolution, was supposed to mark the dawn of a new democratic era. The ousting of Ferdinand Marcos Sr., after decades of corruption, repression, and dynastic rule, was a victory for the Filipino people, or so they were told. Yet, the Constitution, supposedly a tool for dismantling the oppressive old order, contains a glaring, unimplemented clause: Article II, Section 26, which bans political dynasties. Nearly four decades later, this promise remains a cruel joke, the prohibition nothing more than a symbol of a nation shackled by its own feudal past. Political dynasties thrive unabated, and the Philippines remains trapped in a cycle of oligarchy, where power is passed down like a family heirloom, not earned through democratic means.
+
+...
+
+[Data](articles/bf11205a.json)
+
+---
+
+### Ronnie de Mel’s George Keyt Paintings
+
+*2024-12-22 02:49:00* · [`islandlk`](http://island.lk/ronnie-de-mels-george-keyt-paintings/) · `en`
+
+I first met Ronnie de Mel (1925-2024) less than six months before his passing. At the time, he was 98 years old and confined to a wheelchair, yet his memory and sharp intellect were as formidable as ever. The purpose of our initial meeting was to interview him for information about another former politician with whom he had worked somewhat closely in the legislature. De Mel hailed from a different era—three or perhaps four generations before mine. Despite the age gap, his critical thinking and incisive responses often made more sense than those of many of his successors. In his most recent book Prof. Rajiva Wijesinha commented de Mel was “…intellectually head and shoulders above all subsequent Finance Ministers”. It is no exaggeration to say that de Mel was one of the architects of Sri Lanka’s Open Economy, introduced in 1977. As Minister of Finance, he successfully balanced 11 consecutive budgets and was a trusted confidante of President J.R. Jayewardene.
+
+...
+
+[Data](articles/008732b5.json)
+
+---
+
+### Sri Pada – certainties, myths, memories
+
+*2024-12-22 02:49:00* · [`islandlk`](http://island.lk/sri-pada-certainties-myths-memories/) · `en`
+
+With the poya of December, the Sri Pada season is declared open. This announcement was made on Dec. 14 – Unduvap Poya – a week ago. As always, with seeing the press announcement, a rush of memories crowded my mind. They had to be shared. Personal but permissible, I expect.
+
+Sri Pada, aka Adam’s Peak and Samanala Kanda, is the fifth tallest peak in Sri Lanka’s Hill Country at 2,243 m or 7, 359 ft. The mountain rises from its foothills grown commercially with tea, and soars as a conical shaped single rock whose peak now has been flattened to accommodate viewing areas and buildings, including a temple where the monks in charge live. It is under the religious purview of the Saman Devale in Ratnapura. Needless to mention is the fact that its fame is due to the footprint at the very summit, gold painted.
+
+...
+
+[Data](articles/70836b80.json)
+
+---
+
+### Some Vignettes of Italy
+
+*2024-12-22 02:37:00* · [`islandlk`](http://island.lk/some-vignettes-of-italy/) · `en`
+
+(Excerpted from Falling Leaves, an anthology of memoirs by LC Arulpragasam)
+
+I need now to recount my sailing adventures, or shall we say, misadventures. Although I had never sailed before, I did not think twice before I shoved off on my own. On my first effort, with the wind at my back, I unfurled my sails in goose-wing style and was soon hurtling along at a whistling pace. I cannot describe the exhilaration of being one with the water and the wind, with the wind at my back and the gurgle of water in my wake. After about two hours, I reached the other side of the lake near Trevignano, just as the sun was setting.
+
+...
+
+[Data](articles/5ff61eec.json)
+
+---
+
+### The build-up, 1962 coup d’etat, the aftermath and secret mission to London
+
+*2024-12-22 02:14:00* · [`islandlk`](http://island.lk/the-build-up-1962-coup-detat-the-aftermath-and-secret-mission-to-london/) · `en`
+
+Although her political aspiration was “to lighten the burden on the suffering masses” Sirimavo soon found that the economic realities would not allow her a free hand. In the early sixties the terms of trade, which had been favourable in the fifties, declined sharply. The Korean war boom had run its course. The rise in the price of tea had plateaued and the trend was now downwards. Our external assets were diminishing and when Felix became finance minister he had no alternative but to cut down on imports drastically.
+
+...
+
+[Data](articles/5c84822e.json)
+
+---
+
+### Ranil skips two presidential elections backing common candidates Fonseka and Sirisena
+
+*2024-12-22 02:06:00* · [`islandlk`](http://island.lk/ranil-skips-two-presidential-elections-backing-common-candidates-fonseka-and-sirisena/) · `en`
+
+Mahinda’s victory (in 2005) marked an inflection point. He did not abrogate the ceasefire agreement he had inherited, and even engaged in a round of negotiations with the LTTE. At the same time, he allowed the Sri Lankan military a freer rein. In December 2005, for instance, the navy retaliated to an LTTE bombing by attacking a residential area in the northern town of Mannar.
+
+In 2006, the JVP, then in Mahinda’s alliance, filed a case in the Supreme Court seeking the abolition of an earlier merger of the Tamil-dominated North and East, effected in 1987. Fighting escalated and the ceasefire collapsed. Mahinda and Gota – by then appointed the secretary to the ministry of defence – followed the LTTE’s example by opting for a strategy of total war.
+
+...
+
+[Data](articles/830ffdd4.json)
+
+---
 
 ### Sajith meets with Korean Ambassador
 
@@ -2315,113 +2393,5 @@ Pointing out that the date of the sentence was very important, he requested the 
 [Data](articles/a2417fbe.json)
 
 [Extended Data](ext_articles/a2417fbe.ext.json)
-
----
-
-### D.V. Chanaka appointed as new SLPP National Organiser
-
-*2024-12-21 01:04:42* · [`dailyftlk`](https://www.ft.lk/news/D-V-Chanaka-appointed-as-new-SLPP-National-Organiser/56-770851) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Hambantota District MP D.V. Chanaka has been appointed as the new National Organiser of the party replacing MP Namal Rajapaksa. This key decision was announced during the SLPP Executive Council meeting held at the official residence of former President Mahinda Rajapaksa in Colombo yesterday.
-
-Political commentators suggest that D.V. Chanaka’s appointment signals Namal Rajapaksa’s preparation for a more prominent leadership role within the party.
-
-At the same meeting, it was revealed that former MP Johnston Fernando has been entrusted with the responsibility of appointing new leaders at both grassroots and District levels, as part of the party’s organisational restructuring.
-
-The gathering was attended by prominent SLPP members, including Chairperson Uduwala Dhammarathana Thera, General Secretary Sagara Kariyawasam, National Organiser Namal Rajapaksa, Johnston Fernando, Sanjeewa Edirimanna, and C.B. Ratnayake, among others.
-
-◼️
-
-[Data](articles/27189bab.json)
-
-[Extended Data](ext_articles/27189bab.ext.json)
-
----
-
-### 1st Annual General Meeting of Sri Lanka – Indonesia Business Council of the Ceylon Chamber of Commerce
-
-*2024-12-21 01:02:08* · [`dailyftlk`](https://www.ft.lk/business/1st-Annual-General-Meeting-of-Sri-Lanka-Indonesia-Business-Council-of-the-Ceylon-Chamber-of-Commerce/34-770849) · `en`
-
-The 1st Annual General Meeting of the Sri Lanka – Indonesia Business Council was held at Jetwing Colombo Seven. Ambassador Dewi Gustina Tobing graced the occasion as the Chief Guest for the evening.
-
-In her remarks, the Ambassador commended the SLIBC for its successful first year, highlighting a 12.76% increase in trade value between Indonesia and Sri Lanka from January to September 2024 compared to the same period the previous year. She expressed confidence in the future potential of trade relations between the two countries and emphasized the SLIBC’s role as a strategic partner for the Indonesian Embassy.
-
-The keynote speaker for the evening Anushka Wijesinha discussed Sri Lanka’s international trade in a shifting global context. He focused on Sri Lanka’s trade performance and his role in the economic crisis, new dynamics and shifts in international trade and concluded with his personal reflections on the Sri Lanka – Indonesia PTA and way forward.
-
-...
-
-[Data](articles/a0068dae.json)
-
-[Extended Data](ext_articles/a0068dae.ext.json)
-
----
-
-### Lanka Business TV’s “Entrepreneur” Kurunegala Business and Investment Summit receives overwhelming response
-
-*2024-12-21 01:01:27* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Business-TV-s-Entrepreneur-Kurunegala-Business-and-Investment-Summit-receives-overwhelming-response/34-770848) · `en`
-
-The highly popular Lanka Business TV “Entrepreneur” Business and Investment Summit was recently held with great enthusiasm at “The Epitome” Hotel, Kurunegala with the participation of a large number of entrepreneurs and those interested in entrepreneurship.
-
-Speaking at the conference, Lanka Business TV Founder and CEO Jayantha Kovilagodage said that in the future, such business and investment conferences are planned to be held in various parts of Sri Lanka and that creating such awareness to boost the small and medium-sized business sector in the country has now become a national necessity.
-
-...
-
-[Data](articles/982c7ee6.json)
-
-[Extended Data](ext_articles/982c7ee6.ext.json)
-
----
-
-### Ceylon tea promotion adds flavour to Marco Polo tribute in Venice
-
-*2024-12-21 01:00:33* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-tea-promotion-adds-flavour-to-Marco-Polo-tribute-in-Venice/34-770847) · `en`
-
-The Consulate General of Sri Lanka in Milan hosted a Ceylon tea promotional event on 12 December 2024 in Venice, Italy.
-
-The event was organised in collaboration with the National Committee and the AR-Tea Academy in Venice for the commemoration of the 700th death anniversary of the legendary Italian explorer Marco Polo.
-
-Held as the last of a series of events organised honouring Marco Polo’s legacy, the event centred on promoting Ceylon Tea. It attracted a vibrant audience of tea experts, enthusiasts and cultural connoisseurs of the city of Venice. The gathering featured insightful presentations from Italian agents of Mlesna and PMD Tea, who highlighted the rich heritage, distinct flavours and global appeal of Ceylon Tea.
-
-...
-
-[Data](articles/36f60f62.json)
-
-[Extended Data](ext_articles/36f60f62.ext.json)
-
----
-
-### Rs. 3 m in bill wipeouts for 60 ComBank credit card holders this month
-
-*2024-12-21 00:59:09* · [`dailyftlk`](https://www.ft.lk/business/Rs-3-m-in-bill-wipeouts-for-60-ComBank-credit-card-holders-this-month/34-770846) · `en`
-
-The Commercial Bank of Ceylon has announced an exciting initiative to enhance the spirit of seasonal shopping. The bank is set to wipe out Rs. 3 million from the December spends of its customers, giving them the perfect opportunity to indulge in the holiday shopping spree with added zest.
-
-Any personal credit card holder of Commercial Bank that spends a minimum of Rs. 75,000 in December will be eligible to go into a draw at which 60 lucky cardholders will each win a bill wipeout up to Rs. 50,000, the bank said.
-
-Credit card purchases made at point-of-sale terminals, along with online transactions and payments via the Q+ payment app in the month of December, will be eligible for this exciting windfall.
-
-...
-
-[Data](articles/48abc471.json)
-
-[Extended Data](ext_articles/48abc471.ext.json)
-
----
-
-### 200 youth complete Japan’s Specified Skilled Worker – Nursing Care training
-
-*2024-12-21 00:40:02* · [`dailyftlk`](https://www.ft.lk/news/200-youth-complete-Japan-s-Specified-Skilled-Worker-Nursing-Care-training/56-770840) · `en`
-
-200 youth from across Sri Lanka have successfully completed the Specified Skilled Worker (SSW) – Nursing Care training program, marking a significant step towards better job opportunities both locally and abroad.
-
-The most recent cohort of 55 students received their certificates at a ceremony held in Kandy, with Ambassador of Japan Isomata Akio, as the chief guest, alongside the participation of Embassy of Japan Second Secretary Inoue Hiroki, ILO Country Office for Sri Lanka and the Maldives Director Joni Simpson, and officials from National Youth Services Council (NYSC).
-
-This milestone marks the successful completion of the training of several batches of students from Kandy, Matara, Kurunegala, and Pandura. This program, conducted by the National Youth Services Council, and the International Labour Organisation (ILO), empowers youth with critical skills for Japan’s growing nursing care sector.
-
-...
-
-[Data](articles/47a2f52a.json)
-
-[Extended Data](ext_articles/47a2f52a.ext.json)
 
 ---

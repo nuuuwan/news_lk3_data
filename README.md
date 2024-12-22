@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 00:02:21**
+As of **2024-12-23 00:27:09**
 
 ## Newspaper Stats
 
-*Scraped **61,502** Articles*
+*Scraped **61,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
 economynextcom | 3,747
-dailyftlk | 4,254
+dailyftlk | 4,258
 dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
@@ -26,11 +26,69 @@ adaderanasinhalalk | 10,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,279 (99.6%) of 61,502 articles have been extended.
+61,281 (99.6%) of 61,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### Rumpus about campus qualifications
+
+*2024-12-22 23:52:57* · [`dailyftlk`](https://www.ft.lk/columns/Rumpus-about-campus-qualifications/4-770884) · `en`
+
+A highly qualified politician without integrity or empathy can cause more harm than an unqualified but ethical leader
+
+Sri Lanka’s Parliament is ablaze with a fiery debate over questionable campus qualifications, with the spotlight now on the JVP/NPP. Since voters placed their trust in the party as champions of honesty, integrity, and anti-corruption, the party now finds itself entangled in a web of controversy. Their rise to power on a platform of transparency has hit a stumbling block, as allegations of fabricated academic credentials leave them scrambling for cover, raising eyebrows and questions about their credibility.
+
+It is important to emphasise that in past governments, such questions and investigations were often curtailed immediately, sometimes with verbal and physical threats. Therefore, citizens must welcome this change. However, the ability to question alone should not be considered a success.
+
+...
+
+[Data](articles/1e88a957.json)
+
+---
+
+### Degrees of doubt and degrees of discontent
+
+*2024-12-22 23:51:38* · [`dailyftlk`](https://www.ft.lk/columns/Degrees-of-doubt-and-degrees-of-discontent/4-770883) · `en`
+
+Fear not, Mr. President, you may not speak the language of the King but you speak the language of the heart
+
+Firstly, a very Merry Christmas to you and yours. This year it must be a very different Christmas for you. You seem to have been a good boy and Santa came early for you. All your Christmases came at once. It is good to see that now you are playing Santa Claus and distributing goodies all around. Some are gleefully dreaming of their bright and shiny new cars in the near future! Hopefully you are making sure that all those naughty little boys and girls who brought our country down to the lowest ebb will also receive their just desserts in due course.
+
+...
+
+[Data](articles/8db5fa47.json)
+
+---
+
+### Central Bank, NGO Secretariat and weaponisation of Financial Action Task Force
+
+*2024-12-22 23:46:29* · [`dailyftlk`](https://www.ft.lk/columns/Central-Bank-NGO-Secretariat-and-weaponisation-of-Financial-Action-Task-Force/4-770882) · `en`
+
+As FATF has pointed out, blanket and arbitrary measures can drive financial flows underground, thereby undermining the entire purpose of the FATF standards and instead increase terror financing risks
+
+Two entities play a visible and critical role in State attempts to place repressive controls on CSOs; the NGO Secretariat and the CBSL. The third entity that is the driver of these attempts but has largely operated in the shadows is the Ministry of Defence (MOD). The issuance of the 12 December instructions by the NGO Secretariat, indicates the MOD is slowly becoming visible and its role in State attempts to control CSOs/NGOs is being legitimised
+
+...
+
+[Data](articles/d9cb8685.json)
+
+---
+
+### Removing ban on vehicle imports: Is it a prudent plan?
+
+*2024-12-22 23:41:45* · [`dailyftlk`](https://www.ft.lk/columns/Removing-ban-on-vehicle-imports-Is-it-a-prudent-plan/4-770881) · `en`
+
+The highest risk is not the decision to import vehicles but linking the tariff income as a source of funding to pay the proposed salary increases, because if dollar outflow is going to be significant destabilising the existing macroeconomic stability, there is no way to contain vehicle imports as such restriction will reduce the targeted tariff income jeopardising the Government plan to provide money for salary increases without increasing taxes
+
+The Government’s plan to lift the ban on vehicle imports is out. But it is not a prudent plan, perhaps it cannot prevail. Sometimes it might create macroeconomic chaos and uncertainty among the vehicle importing entrepreneurs. Any policy that cannot be sustained or justified in view of  strengthening the macroeconomic environment of the country is usually treated as a bad policy.
+
+...
+
+[Data](articles/63ad1a4f.json)
+
+---
 
 ### Special Transport Action Tomorrow
 
@@ -166,35 +224,53 @@ They are to play more than twenty T20 and 3 ODIs with India.
 
 ---
 
-### எட்கா ஒப்பந்தம் தொடர்பில் அரசாங்கத்திற்குள் இரட்டை நிலைப்பாடு - டி.வி. சானக
+### Double position within the government on the Edka Agreement - TV. Sandal
 
 *2024-12-22 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201913) · `ta`
 
-இந்தியாவுடனான எட்கா ஒப்பந்தத்தில் அரசாங்கத்திற்குள் இரட்டை நிலைப்பாடு காணப்படுகிறது. ஒப்பந்தம் குறித்து பேச்சுவார்த்தையில் ஈடுபடுவதாக அரசாங்கம் குறிப்பிடுகின்ற நிலையில், ஒப்பந்தத்தை கைவிட தீர்மானித்துள்ளதாக பிறிதொரு தரப்பினர் குறிப்பிடுகின்றமை கவனிக்கத்தக்கது என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் டி.வி. சானக தெரிவித்தார்.
+Sri Lanka government's contradictory stance on Edka Agreement with India: claims to abandon but negotiates. Public concern over potential negative impacts since 2008. Transparency urged in decision-making process.
 
-அம்பாந்தோட்டை பகுதியில் ஞாயிற்றுக்கிழமை நடைபெற்ற ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர்களுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க தேர்தல் மேடைகளில் குறிப்பிட்டதற்கு முரணாகவே தற்போது செயற்படுகிறார். ஆட்சிக்கு வந்தவுடன் இந்தியாவின் அதானி குழுமத்துடனான ஒப்பந்தங்களை இரத்துச் செய்வதாக குறிப்பிட்டார். ஆனால் தற்போது அதானி குழுமம் விவகாரம் மறக்கப்பட்டுள்ளது.
+Double position within the government in the Edka Agreement with India. It is noteworthy that another parties say that the government has decided to abandon the agreement, while the government says it is negotiating on the agreement.. Said Chanaka.
+
+He was speaking to the media after a meeting with the organizers of the Sri Lanka Peoples Alliance (PA) constituency held on Sunday in Hambantota.
+
+President Anura Kumara Dissanayake is currently acting contrary to the election platform. Upon his coming to power, he noted that he would cancel agreements with India's Adani Group. But now the Adani Group affair has been forgotten.
 
 ...
 
 [Data](articles/5d21aac7.json)
 
+[Extended Data](ext_articles/5d21aac7.ext.json)
+
 ---
 
-### 'தூய்மையான இலங்கை' செயலணிவசம் மிகையான அதிகாரங்கள்; ஜனாதிபதி மீது நம்பிக்கையில்லை -  அம்பிகா சற்குணநாதன்
+### The 'Pure Sri Lanka' Secretariat is excessive powers;There is no confidence in the president - Ambika Sakthunanathan
 
 *2024-12-22 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/201912) · `ta`
 
-'தூய்மையான இலங்கை' கருத்திட்டத்துக்கான ஜனாதிபதியினால் நியமிக்கப்பட்டிருக்கும் புதிய செயலணிக்கு மிகப்பரந்துபட்ட ஆணையும், அதிகாரங்களும் வழங்கப்பட்டிருப்பதாகச் சுட்டிக்காட்டியிருக்கும் இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன், இந்நடவடிக்கை ஜனாதிபதி அநுரகுமார திஸாநாயக்க மாறுபட்ட விதத்தில் செயற்படுவார் என்ற நம்பிக்கையை ஏற்படுத்தவில்லை எனத் தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் ஆலோசனைக்கமைய 'தூய்மையான இலங்கை' கருத்திட்டத்தை திட்டமிட்டு நடைமுறைப்படுத்துவதற்காக அரசியலமைப்பின் 33 ஆவது உறுப்புரையின் பிரகாரம் 18 உறுப்பினர்களைக்கொண்ட ஜனாதிபதி செயலணியொன்று ஸ்தாபிக்கப்பட்டுள்ளது.
 
-இதுகுறித்து தனது உத்தியோகபூர்வ 'எக்ஸ்' தளத்தில் பதிவொன்றைச் செய்திருக்கும் அம்பிகா சற்குணநாதன், 'தூய்மையான இலங்கை' கருத்திட்டத்துக்கென ஜனாதிபதி அநுரகுமார திசாநாயக்கவினால் நியமிக்கப்பட்டிருக்கும் செயலணி பல்வேறு விதத்திலும் பிரச்சினைக்குரியதாகக் காணப்படுவதாகக் குறிப்பிட்டுள்ளார்.
+
+"Excessive powers granted to 'Pure Sri Lanka' Task Force. No minority representation. Military dominance. No confidence in president's actions."
+
+🟩
+
+Former Commissioner of Human Rights Commission of Sri Lanka, Ambika Sakthunanathan, who pointed out that the new Task Force appointed by the President for the 'Clean Sri Lanka' project, has been granted the most popular decree and powers, said that the action would not be confident that President Anurakumara Dissanayake would act in a different way.
+
+On the advice of President Anura Kumara Dissanayake, an 18 -member Presidential Secretariat has been established in accordance with Article 33 of the Constitution to plan and implement the 'Clean Sri Lanka' project.
+
+Ambika Chakkunanathan, who has recorded an official 'X' site on this, said that the secretary appointed by President Anura Kumara Dissanayake for the 'Clean Sri Lanka' project is in various ways.
+
+He said that the proceedings appointed by the president, in particular, have an obligation to be held responsible for him and that we do not need any other function or commission.
 
 ...
 
 [Data](articles/016cc435.json)
+
+[Extended Data](ext_articles/016cc435.ext.json)
 
 ---
 
@@ -2281,95 +2357,5 @@ The provisions of this notice will come into force with effect from January 01, 
 [Data](articles/2b9b4022.json)
 
 [Extended Data](ext_articles/2b9b4022.ext.json)
-
----
-
-### බිරිඳ රට යනවැයි සිත්තැවුලට පත් 30 හැවරිදි දෙදරු පියා වසබී සියදිවි හානිකරගෙන
-
-*2024-12-22 11:12:49* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-රට-යනවැයි-සිත්තැවුලට-පත්-30-හැවරිදි-දෙදරු-පියා-වසබී-සියදිවි-හානිකරගෙන/11-413768) · `si`
-
-දඹගල්ල පොලිස් වසමට අයත් දැලිවපාර පිටතලාව පදිංචි දෙදරු පියෙකු බිරිඳ රටයෑමට සූදානම්වීම පිළිබඳව සිත්තැවුලට පත්වී ඊයේ (21) වෙනිදා වසබී සියදිවි හානිකරගෙන ඇතැයි දඹගල්ල පොලීසිය පවසයි.
-
-මෙලෙස වසබී සියදිවි හානිකරගෙන ඇත්තේ ඉහත ලිපිනයේ පදිංචි සුබසිංහ ආරච්චිලාගේ චානක මධුෂාන් (30) නැමති දෙදරු පියෙකි.
-
-මියගිය අයට අවුරුදු හතේ සහ තුනේ දරුවන් දෙදෙනෙකු සිටින අතර බිරිඳ විදේශ රටක රැකියාවක නිරතවීම සඳහා යාමට සූදානම්ව සිට ඇත.
-
-ඊට සැමියා විරුද්ධවී ඇති අතර එසේ නොයන ලෙසට ඇයට දැනුම්දී තිබේ. ඒ පිළිබඳව දඹගල්ල පොලීසියට ඔහු විසින් පැමිණිල්ලක්ද කර ඇත.
-
-ඔහුගේ අයියා විසින් මල්ලි වන මියගිය අය නිවසේ සිට මීටර් විසිපහක් පමණ ඈතින් පිහිටි මිරිස්වගාව අසල කඳුගැටයක් පාමුල මුණින් අතට වැටී මියගොස් සිටින බවට පැමිණිලිකර තිබේ.
-
-ඒ පිළිබඳ පොලීසිය විසින් වැඩිදුර පරීක්ෂාකිරීමේදී මියගිය ස්ථානයේ සිට මීටර් පනහක් පමණ ඈතින් තිබී මාර්ෂල් වර්ගයේ කෘමිනාශක කුප්පියක් සොයාගෙන ඇත.
-
-මරණකරුගේ බිරිඳ විසින් මියගිය අයගේ අයියාට දැනුම්දීමෙන් පසු ඔහු විසින් මෙලෙස පොලීසියට පැමිණිලිකර තිබේ.
-
-...
-
-[Data](articles/776045f0.json)
-
----
-
-### “It is uncomfortable to conduct the exam during fasting during the fasting period”
-
-*2024-12-22 11:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோன்பு-காலத்தில்-சா-த-பரீட்சை-நடத்துவது-அசௌகரியமானது/175-349077) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Examining during fasting period causes discomfort. Government urged to reschedule GCE Ordinary Level Exam after Ramadan to accommodate Muslim students' religious obligations."
-
-🟩
-
-The Department of Examinations has decided to hold the GCE Ordinary Level Examination in mid -March.. Al-Meisan Foundation, the President, Education Minister, Muslim MPs and the Department of Examinations have demanded that the government come forward to hold the examination or after the fasting of the examination.
-
-In the letter of Al-Meesan Foundation, one of the sacred Ramadan, one of the sacred months of the world, is the month of the month.. This month, Muslims have been fasting in the daytime for more than 13 hours and the month of the day and night is the month of worshiping the Lord in the day and night.. In this month of blessings, Muslims do a lot of good things and have a long time in the night.. During this period, people will be involved in all schools and religious speeches and worship.
-
-...
-
-[Data](articles/54b3d903.json)
-
-[Extended Data](ext_articles/54b3d903.ext.json)
-
----
-
-### දෙමටගොඩ පාලම යට  දමා ගොස් බිලිඳිය ජිවිතක්ෂයට පත්වෙලා
-
-*2024-12-22 10:58:18* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-පාලම-යට--දමා-ගොස්-බිලිඳිය-ජිවිතක්ෂයට-පත්වෙලා/11-413767) · `si`
-
-මාර්ගයේ ගමන් ගත් පුද්ගලයකු දෙමටගොඩ පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක කපිල බණ්ඩාර මහතා වෙත ලබා දුන් තොරතුරක් අනුව වහා ක්‍රියාත්මක වූ ඒ මහතා පොලිස් කාන්තාවක් සමග එම ස්ථානයට ගොස් සිදු කළ පරික්ෂාවේදී රෙදි කැබැල්ලක ඔතන ලද බිලිදිය දැක ඇත.
-
-වහා ක්‍රියාත්මක වු ස්ථානාධිපතිවරයා බිළිඳියව ක්ෂණිකව කොළඹ රිජියේ ආර්යා ළමා රෝහල වෙත ඇතුල් කිරීමට පියවර ගෙන තිබූ අතර ඒ ඒ වන විටත් බිළිඳිය මිය ගොස් සිටි බවට වෛද්‍යවරුන් විසින් පරීක්ෂා කර දැනුම් දුන් බව පොලිසිය කියයි.
-
-හොඳින් ශරීරය වැඩි ඇති  මෙම බිළිඳිය දිනකට හෝ දෙකකට පෙර ඉපදෙන්නට ඇති බවට සැක කරන බව පොලිසිය කියයි.
-
-මෙම අපරාධය සම්බන්ධයෙන් අපරාධ පරීක්ෂණාගාර නිලධාරීන් පොලිස් නිල සුනඛ අංශය සහ විශේෂඥ සහාය ලබා ගැනීමට කටයුතු කරන බව පොලිසිය සඳහන් කරයි.
-
-බිලිදු ගැහැණු දරුවාගේ මළ සිරුර මේ වන විට රිජ්වේ ආර්යා ළමා රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර භාරකරුවෙකු සොයා ගැනීම සඳහා විමර්ශන ආරම්භ කර ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
-
-◼️
-
-[Data](articles/3584be20.json)
-
----
-
-### Delhi students send bomb threat to their schools to delay exams
-
-*2024-12-22 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104414/delhi-students-send-bomb-threat-to-their-schools-to-delay-exams) · `en`
-
-A bizarre revelation has emerged in the ongoing investigation into bomb threats sent to several schools in Delhi.
-
-The Special Cell of Delhi Police has discovered that at least two schools in the Rohini district received threatening emails from their own students, who wanted to postpone exams due to lack of preparation.
-
-“After investigation by the Special Cell of Delhi Police, it was found that the emails were sent to both schools by two different students of the same school,” Delhi police said in a statement.
-
-“Both students had sent this email to stop the exam because they were not prepared for the exam paper. Since both of them were students, they were counselled and then let off,” police added.
-
-One of the schools that received bomb threats was Venkateshwar Global School, which received a threatening email a day after a mysterious blast occurred at the Rohini Prashant Vihar PVR Multiplex on November 28.
-
-...
-
-[Data](articles/793cc54c.json)
-
-[Extended Data](ext_articles/793cc54c.ext.json)
 
 ---

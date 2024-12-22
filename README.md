@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 16:42:31**
+As of **2024-12-22 17:12:11**
 
 ## Newspaper Stats
 
-*Scraped **61,436** Articles*
+*Scraped **61,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,854
+adalk | 5,855
 adaderanalk | 7,501
-tamilmirrorlk | 8,789
+tamilmirrorlk | 8,791
 virakesarilk | 10,138
 adaderanasinhalalk | 10,616
 
@@ -26,25 +26,99 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,228 (99.7%) of 61,436 articles have been extended.
+61,231 (99.7%) of 61,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### කසුන් මහේන්ද්‍ර අත්අඩංගුවට ගැනීම ගැන විමර්ශනයට පොලීසියෙන් කමිටුවක්
+### மேல்மாகாண பாடசாலை ஆசிரியர்கள் வகுப்பு நடாத்த தடை
+
+*2024-12-22 17:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்மாகாண-பாடசாலை-ஆசிரியர்கள்-வகுப்பு-நடாத்த-தடை/175-349099) · `ta`
+
+மேல்மாகாணத்தில் உள்ள பாடசாலை ஆசிரியர்கள் தாம் கடமையாற்றும் பாடசாலைகளில் கல்வி பயிலும் மாணவர்களுக்கு பிரத்யேக வகுப்புகளை நடத்துவதற்கு தடைவிதித்து சுற்றறிக்கை வெளியிடப்பட்டுள்ளது.
+
+இந்தத் தடை பாடசாலை நேரம், பாடசாலைக்குப் பின்னர், வார இறுதி நாட்கள் அல்லது பொது விடுமுறை நாட்களுக்குப் பொருந்தும்.
+
+மேல்மாகாண கல்விச் செயலாளர் கே.ஏ.டி.ஆர்.நிஷாந்தி ஜயசிங்க கையொப்பமிட்ட இந்த சுற்றறிக்கை கல்விப் பணிப்பாளர், பிராந்திய பணிப்பாளர்கள், பிரதேச கல்விப் பணிப்பாளர்கள் மற்றும் மாகாணத்திலுள்ள அனைத்து பாடசாலை அதிபர்களுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+விதிமுறைகளை அனைத்து ஆசிரியர்களுக்கும் தெரிவிக்க வேண்டும் என்றும், மீறுபவர்கள் மீது ஒழுங்கு நடவடிக்கை எடுக்கப்படும் என்றும் எச்சரித்துள்ளது.
+
+இக்கொள்கை ஆரம்பத்தில் சப்ரகமுவ மாகாணத்தில் நடைமுறைப்படுத்தப்பட்டு பின்னர் மேல் மாகாணத்திற்கும் விரிவுபடுத்தப்படுவதற்கு முன்னதாக மத்திய மாகாணத்திலும் நடைமுறைப்படுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/a3509a19.json)
+
+---
+
+### Hatton accident;Illiteracy
+
+*2024-12-22 16:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-விபத்து-சாரதிக்கு-விளக்கமறியல்/76-349098) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Bus accident in Hatton: Driver injured, hospitalized. Magistrate orders treatment till 26th. Driver under police protection.
+
+🟩
+
+Hatton Magistrate S. Rammoorthy on Sunday (22) ordered that the driver of the bus, who was injured in a private bus accident in the Hatton Malliyapu junction on Saturday (21), was treated at the Dik Oya Primary Hospital until the 26th of this month.
+
+In response to the hospital, the magistrate asked the doctors regarding the plight of the driver and was detained at the hospital and the suspect is being treated at the hospital under the protection of prisons.
+
+◼️
+
+[Data](articles/7080d5cb.json)
+
+[Extended Data](ext_articles/7080d5cb.ext.json)
+
+---
+
+### අරින්න බෑ කිව්ව කන්ටේනරය අත්අඩංගුවට
+
+*2024-12-22 15:51:30* · [`adalk`](https://www.ada.lk/breaking_news/අරින්න-බෑ-කිව්ව-කන්ටේනරය-අත්අඩංගුවට/11-413774) · `si`
+
+පාලවිය කල්පිටිය ප්‍රධාන මාර්ගයේ කුරක්කන්හේන ප්‍රදේශයේ දී   21 දින රාත්‍රියේ මුර සංචාරයේ යෙදී සිටි කල්පිටිය පොලිසිය මගින් සැක කටයුතු කන්ටේනර් රථයක් අත් අඩංගුවට ගත් බව කල්පිටිය පොලිසිය පවසයි.එම කන්ටේරය හැර එහි ඇති දෑ පරීක්ෂා කිරීමරට අවශ්‍ය බැව් රියදුරුට පැවසුවද,රියදුරු එය ප්‍රතික්ෂේප කිරීම නිසා මෙසේ අත් අඩංගුවට ගත් බැව් පොලිසිය වැඩි දුරටත් පවසයි.
+
+මේ පිළිබදව අප කළ විමසීමට පිළිතුරු දෙමින්,කල්පිටිය වැඩ බලන ස්ථානාධිපති පොලිස් පරීක්ෂක වසන්ත සිරි ලාල් එදිරි සිංහ පැවසුවේ,ගෝලීය ත්‍රස්තවාදය සහ ජාතික ආරක්ෂාව පිළිබදව සලකා  බලා මෙම අත් අඩංගුවට ගැනීම සිදු කළ බවය.රාත්‍රී මුර සංචාරයේ නිරත වූ පොලිස් සැරයන් 55118 දයා නන්ද ඇතුලු නිළධාරීන් කණ්ඩායමක් විසින් මෙම අත් අඩංගුවට ගැනීම සිදු කොට ඇත.
+
+රථයේ රියදුරු උඩත්තාව,හසලක පදිංචි 27 හැවිරිදි පුද්ගලයෙකි.රියදුරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත ය. කල්පිටිය පොලිසිය වැඩි දුර පරීක්ෂණ මෙහෙයවයි.
+
+◼️
+
+[Data](articles/2ad838f1.json)
+
+---
+
+### Police committee to investigate Kasun Mahendra
 
 *2024-12-22 15:18:42* · [`adalk`](https://www.ada.lk/breaking_news/කසුන්-මහේන්ද්‍ර-අත්අඩංගුවට-ගැනීම-ගැන-විමර්ශනයට-පොලීසියෙන්-කමිටුවක්/11-413773) · `si`
 
-අතුරුගිරිය පොලිසිය මගින් හබරකඩ ප්‍රදේශයේදී කසුන් මහේන්ද්‍ර හීනටිගල නමැති ලේඛකයා අත්අඩංගුවට ගැනීමේදී නෛතික ප්‍රතිපාදනය උල්ලංඝනය කර ඇත්දැයි විමර්ශනය කිරීම සඳහා කොළඹ දකුණ දිශාව භාර නියෝජ්‍ය පොලිස්පති  වරයාගේ ප්‍රධානත්වයෙන් විමර්ශනයක් ආරම්භ කර ඇතැයි බස්නාහිර පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති කාර්යාලය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම සිදුවීම ඉකුත් 20 දා සවස 6 - 7 අතර කාලය තුළදී සිදුව ඇති අතර අතුරුගිය පොලිසියේ නිලධාරීන් කණ්ඩායමක් පොලිස් ත්‍රී රෝද රථයකින්  අපරාධ නිවාරණ රාජකාරියකට යමින් සිටියදී අතුරුගිරිය ප්‍රදේශයේ මාර්ගයක යමින් සිටි පුද්ගලයකු පරීක්ෂා කර තිබේ.එහිදී ඔහුගේ අනන්‍යතාවය තහවුරු කිරීමට නොහැකි වූ නිසා ඔහුව සැකපිට අත්අඩංගුවට ගෙන පොලිස් ත්‍රී රෝද රථයෙන් අතුරුගිරිය පොලිස් ස්ථානය වෙත රැගෙන විත් ඔහුව පරීක්ෂා කර තිබේ.
 
-එහිදී සිදුකළ ප්‍රශ්නන කිරීම්වලදී අනාවරණය වී ඇත්තේ අත්අඩංගුවට ගත් පුද්ගලයා මියගිය රංගධරයකු වන ජැක්සන්  ඇන්තනී මහතාගේ දියණිය විවාහ වී සිටින ලේඛකයකු වන  කසුන් මහේන්ද්‍ර හීනටිගල නැමැත්තා බවයි.
+
+Athurugiriya police investigating Kasun Mahendra's arrest. Incident occurred on 6th/7th. Police allege violation of legal procedures. Acting IGP initiated inquiry under Senior DIG Colombo. Police spokesperson explained arrest process under Criminal Procedure Code sections 32 & 33. Investigation ongoing.
+
+🟩
+
+The Athurugiriya police have launched an invitation to the Western DIG, the DIG in charge of the Western Province to investigate the arrest of legal provision in the arrest of legal provision.
+
+The incident had taken place during the 6th and 7 pm on the 6th and 7 pm.The police three-wheeler was taken to the Athurugiriya Police Station.
+
+From there, the arrests were revealed that the daughter of the deceased was a writer who was married, Jackson Anthony, a writer who was married, was a writer, Kasun Mahendra Heenatigala.
+
+After the police notified, Kasun Mahendra Hynatigala has taken steps to ensure his own identity through his wife and sister by his wife and sister. The following documents were then taken to release the man on police bail.
+
+The acting IGP Priyantha Weerasuriya has informed a complaint regarding the incident.
 
 ...
 
 [Data](articles/476ded2f.json)
+
+[Extended Data](ext_articles/476ded2f.ext.json)
 
 ---
 
@@ -704,21 +778,33 @@ He said that the NPP members had never lied during the election campaign to brin
 
 ---
 
-### සහල් අර්බුදය විසඳන්න පුබුදු සහල් නිෂ්පාදක සංගමය සූදානම්
+### Pubudu Rice Manufacturer Product Association Ready to resolve the rice crisis
 
 *2024-12-22 11:20:13* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-අර්බුදය-විසඳන්න-පුබුදු-සහල්-නිෂ්පාදක-සංගමය-සූදානම්/11-413769) · `si`
 
-මෙරටේ පාරිභෝගික ජනතාව මෙන්ම වෙළද ව්‍යාපාරිකයින් මුහුණපා ඇති සහල් ගැටලුවට තමන්ට විසදුම් ලබාදිය හැකි බවත් ඒ සඳහා රජය සහාය ලබා දෙන්නේනම් ඉදිරියේදී මෙරටේ සහල් අර්බුදයක් ඇති නොවීමට කටයුතු කරන බව පොළොන්නරුව දිස්ත්‍රීක් සුළු හා මධ්‍ය පරිමාණ පුබුදු සහල් නිෂ්පාදකයින්ගේ සංගමය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඔවුන් මේ අදහස් පලකර සිටියේ පොළොන්නරුව දිස්හ්‍රීක්කයේ සුළු හා මධ්‍ය පරිමාණ පුබුදු සහල් නිෂ්පාදකයින්ගේ සංගමය අද (22) පෙරවරුවේදි පොළොන්නරුවේ පැවති විශේෂ මාධ්‍ය හමුවකට එක්වෙමිනි.
 
-මෙහිදි වැඩිදුරටත් අදහස් දක්වමින් පුබුදු සහල් නිෂ්පාදකයින්ගේ සංගමයේ නිලධාරීන් සාමාජික ජේ.එම්. නිලන්ත කුමාර  ජයලත් මහතා  මෙලෙස පැවසීයීය.
 
-'' පොළොන්නරුව දිස්ත්‍රීක්කයේ සුළු හා මධ්‍ය පරිමාණ වී මෝල් 500 ක් පමණ තිබුණත් මේවනවිට ඉන් 90% ක් පමණ වැහිලා ගිහිල්ලා තියෙනවා,ඒකට හේතුව පැවති රජයන් ගත්ත තීන්දු තීරණ හා මහා පරිමාණ වී මොල් හිමියන් ගත්තු ක්‍රියා මාර්ග නිසයි, ඒ නිසා සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන්ගේ සහල් නිෂ්පාදනය කඩා වැටුනා,මේ රටේ මේ වනවිට නිර්මාණය වෙලා තියෙන සහල් අර්බුදයට හේතුවෙලා තියෙන්නෙ මේ සුළු හා මධ්‍ය පරිමාණ මෝල් කඩා වැටීමයි.
+Polonnaruwa SMEs claim 90% closed due to rice crisis. They blame large-scale millers for market control. Small & medium mills produce 60% of Sri Lanka's rice. Government intervention buying paddy from farmers suggested to resolve crisis.
+
+🟩
+
+The Polonnaruwa District Small and Medium Scale Pubuduwa Small Manufacturers Association (SME) says that if the government is facing the customers and merchants, the government will not resolve the rice crisis in the country.
+
+They were speaking at a special press conference held at Polonnaruwa today (22) at the Polonnaruwa district.
+
+Speaking further the officials of the Pubudu Rice Manufacturers Association Member JM. Nilantha Kumara Jayalath Jayalath said:
+
+Due to 500 SMEs of the Polonnaruwa district, 90% of them have been closed down, and the measures made by the measures taken by the decisions and masses, the measures, and mulrors.The golden production of rice was collapsed in the crisis of the country, which is created in this country, has caused this small and medium scale mill.
+
+Therefore, this rice crisis can only give the same solution to the SME and mid-scale and milling.
 
 ...
 
 [Data](articles/9b3006ec.json)
+
+[Extended Data](ext_articles/9b3006ec.ext.json)
 
 ---
 
@@ -2239,71 +2325,5 @@ Five soldiers were also injured in the attack.
 [Data](articles/6d7b2abc.json)
 
 [Extended Data](ext_articles/6d7b2abc.ext.json)
-
----
-
-### To the Police Department, the names of the costs of the election
-
-*2024-12-21 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204588) · `si`
-
-Elections Commission: Police not given candidate expenditure reports. Steps to be taken for missing reports.
-
-🟩
-
-The Elections Commission says that the Candidates' Department of the Police Department have not been provided with the general election.
-
-The Commission said that the Candidates' names were already given to the police that they were not given the expenditure reports of the Presidential and Elpitiya Pradeshiya Sabha.
-
-The list of reports from the District Secretariats and Elections have been displayed in the District Secretariats and Elections Offices.
-
-The Elections Commission also stated that steps will be taken to provide a list of candidates who did not give spending reports.
-
-◼️
-
-[Data](articles/15c7edf5.json)
-
-[Extended Data](ext_articles/15c7edf5.ext.json)
-
----
-
-### Wild elephants at Dambulla
-
-*2024-12-21 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/201816) · `ta`
-
-Wild elephants in Dambulla damage coconut trees. Residents report issue lasting 10 years. Owners seek government intervention.
-
-🟩
-
-Residents have said that the crowds of wild elephants in Dambulla, Walawewa and Alaolawewa area have damaged many coconut trees.
-
-Residents have said that wild elephants have been in the South for about 10 years.
-
-Owners of the South Societies say that there is no solution to the problem.
-
-Therefore, the residents and the owners of the south have called for the authorities to pay attention to the issue.
-
-◼️
-
-[Data](articles/4ddc542f.json)
-
-[Extended Data](ext_articles/4ddc542f.ext.json)
-
----
-
-### Gold prices surge in Sri Lanka
-
-*2024-12-21 16:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104399/gold-prices-surge-in-sri-lanka) · `en`
-
-Gold prices in Sri Lanka have seen a notable increase, according to the latest market data from the Colombo Gold Centre.
-
-As of this morning (21), the price of a pound of 22-carat gold has risen to Rs. 193,200, marking a jump from Rs. 190,500 recorded just two days ago (19).
-
-Similarly, the price of 24-carat gold has increased by Rs. 2,000, bringing it to Rs. 210,000 per pound today.
-
-◼️
-
-[Data](articles/ca111a4f.json)
-
-[Extended Data](ext_articles/ca111a4f.ext.json)
 
 ---

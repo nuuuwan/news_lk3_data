@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 10:43:08**
+As of **2024-12-22 10:28:02**
 
 ## Newspaper Stats
 
-*Scraped **61,383** Articles*
+*Scraped **61,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,846
+adalk | 5,845
 adaderanalk | 7,490
 tamilmirrorlk | 8,780
 virakesarilk | 10,123
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,191 (99.7%) of 61,383 articles have been extended.
+61,191 (99.7%) of 61,382 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -125,20 +125,6 @@ Police have also announced that they should be observed due to the routine accid
 [Data](articles/5b78031b.json)
 
 [Extended Data](ext_articles/5b78031b.ext.json)
-
----
-
-### කිඹුල් ප්‍රහාරයකින් කාන්තාවක් මරුට
-
-*2024-12-22 08:18:18* · [`adalk`](https://www.ada.lk/breaking_news/කිඹුල්-ප්‍රහාරයකින්-කාන්තාවක්-මරුට/11-413764) · `si`
-
-උළුක්කුලම, පාවක්කුලම ප්‍ර දේශයේදි කිඹුල් ප්‍රහාරයකටලක්වූ කාන්තාවක් ඊයේ උදෑසන කාලයේදි ජිවිතක්ෂයට පත්ව ඇති බව පොලිසිය පවසයි. අවුරුදු 67ක් වන කාන්තාවක් මෙසේ ජිවිතක්ෂයට පත්ව තිබේ.
-
-මරණකාරිය ගවයන් රැගෙන යමින් සිටියදි ඇළක සිටි කිඹුලෙක් විසින් සපා කැමෙන් ඇනතුරුව මෙම මරණය සිදුව ඇති බවට විමර්ශනයේදි අණාවරණය වි ඇතැයි පොලිසිය කියයි. උළුක්කුලම පොලිසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
-
-◼️
-
-[Data](articles/dd9d0afc.json)
 
 ---
 
@@ -2427,5 +2413,31 @@ The series that did not meet the threshold was a 2022 bond where Hamilton Reserv
 [Data](articles/1e32ff63.json)
 
 [Extended Data](ext_articles/1e32ff63.ext.json)
+
+---
+
+### Danger in a Christmas market in Germany
+
+*2024-12-21 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204571) · `si`
+
+Germany Christmas market tragedy: 2 dead, 60+ injured. Driver, a 50-year-old Saudi, intentionally crashed car. Police arrested suspect.
+
+🟩
+
+Two persons including a child killed in an accident in Magdeburg, East Germany, has died.
+
+According to foreign reports, more than 60 others were injured in the accident.
+
+It is said that a person had operated a car in the market yesterday afternoon.
+
+The driving police have been arrested by the driving police and was a 50-year-old Saudi Arabian.
+
+The suspect has rented the relevant car and has deliberately carried out the accident, police said.
+
+◼️
+
+[Data](articles/f8d26082.json)
+
+[Extended Data](ext_articles/f8d26082.ext.json)
 
 ---

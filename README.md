@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 17:12:11**
+As of **2024-12-22 17:27:23**
 
 ## Newspaper Stats
 
-*Scraped **61,439** Articles*
+*Scraped **61,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,119 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,855
-adaderanalk | 7,501
+adalk | 5,856
+adaderanalk | 7,502
 tamilmirrorlk | 8,791
-virakesarilk | 10,138
+virakesarilk | 10,145
 adaderanasinhalalk | 10,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,231 (99.7%) of 61,439 articles have been extended.
+61,233 (99.7%) of 61,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### மேல்மாகாண பாடசாலை ஆசிரியர்கள் வகுப்பு நடாத்த தடை
+### நல்லிணக்கத்துக்கு அநுர அரசாங்கம்   தயாராக இருக்கின்றதா?
+
+*2024-12-22 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201870) · `ta`
+
+தமிழ் மக்கள் ஏற்றுக்கொள்ளக்கூடிய அரசியல் தீர்வை கொண்டு வர வேண்டுமென்றால் தென்னிலங்கையின் பெருந்தேசிய வாத கலாசாரம் மாற்றப்பட வேண்டும்.
+
+◼️
+
+[Data](articles/04a4b09a.json)
+
+---
+
+### மஹாபாகேயில் ஹெரோயினுடன் ஒருவர் கைது
+
+*2024-12-22 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201888) · `ta`
+
+மஹாபாகே பொலிஸ் பிரிவுக்குட்பட்ட ஜோர்ஜ் மாவத்தையில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (21) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+மஹாபாகே பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து 06 கிராம் 300 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f1c1888c.json)
+
+---
+
+### மாற்றம் காணுமா பொருளாதார நிலை?
+
+*2024-12-22 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201887) · `ta`
+
+மக்களுக்கு  சரியானதொரு நிவாரணத்தை கொடுக்க வேண்டிய நிலையில் அரசாங்கம் இருக்கிறது. ஏனென்றால், இந்த அரசாங்கம் பதவிக்கு வந்ததே, ஒரு மாற்றத்திற்கான எதிர்பார்ப்பின் அடிப்படையில் தான். அந்த மாற்றம் நிகழாமல் போனால் இந்த அரசாங்கத்தின் மீது மக்கள் வெறுப்படைவார்கள்.
+
+◼️
+
+[Data](articles/99d6c189.json)
+
+---
+
+### Western school teachers from conducting class
 
 *2024-12-22 17:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்மாகாண-பாடசாலை-ஆசிரியர்கள்-வகுப்பு-நடாத்த-தடை/175-349099) · `ta`
 
-மேல்மாகாணத்தில் உள்ள பாடசாலை ஆசிரியர்கள் தாம் கடமையாற்றும் பாடசாலைகளில் கல்வி பயிலும் மாணவர்களுக்கு பிரத்யேக வகுப்புகளை நடத்துவதற்கு தடைவிதித்து சுற்றறிக்கை வெளியிடப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இந்தத் தடை பாடசாலை நேரம், பாடசாலைக்குப் பின்னர், வார இறுதி நாட்கள் அல்லது பொது விடுமுறை நாட்களுக்குப் பொருந்தும்.
 
-மேல்மாகாண கல்விச் செயலாளர் கே.ஏ.டி.ஆர்.நிஷாந்தி ஜயசிங்க கையொப்பமிட்ட இந்த சுற்றறிக்கை கல்விப் பணிப்பாளர், பிராந்திய பணிப்பாளர்கள், பிரதேச கல்விப் பணிப்பாளர்கள் மற்றும் மாகாணத்திலுள்ள அனைத்து பாடசாலை அதிபர்களுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது.
 
-விதிமுறைகளை அனைத்து ஆசிரியர்களுக்கும் தெரிவிக்க வேண்டும் என்றும், மீறுபவர்கள் மீது ஒழுங்கு நடவடிக்கை எடுக்கப்படும் என்றும் எச்சரித்துள்ளது.
+Western Province bans teachers from conducting extra classes. Circular prohibits special lessons during school hours, after school, weekends, or holidays. Signed by Education Secretary KADR Nishanti Jayasinghe. Disciplinary action for violators. Policy first implemented in Sabaragamuwa, then expanded to Western and Central Provinces.
 
-இக்கொள்கை ஆரம்பத்தில் சப்ரகமுவ மாகாணத்தில் நடைமுறைப்படுத்தப்பட்டு பின்னர் மேல் மாகாணத்திற்கும் விரிவுபடுத்தப்படுவதற்கு முன்னதாக மத்திய மாகாணத்திலும் நடைமுறைப்படுத்தப்பட்டது.
+🟩
+
+A circular has been issued to ban school teachers in the Western Province for conducting special classes for students studying in schools.
+
+This prohibition applies to school time, after school, weekends or public holidays.
+
+The circular, signed by Western Province Education Secretary KADR Nishanti Jayasinghe, has been sent to the Director of Education, Regional Director, Divisional Education Directors and all the school principals in the province.
+
+It has been warned that all teachers should be informed of the rules and disciplinary action will be taken against those who violate.
+
+This policy was initially implemented in the Sabaragamuwa Province and later expanded to the Western Province and in the Central Province.
 
 ◼️
 
 [Data](articles/a3509a19.json)
+
+[Extended Data](ext_articles/a3509a19.ext.json)
+
+---
+
+### கிளிநொச்சியில் புதையல் அகழ்வில் ஈடுபட்ட ஐவர் கைது
+
+*2024-12-22 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201883) · `ta`
+
+கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட கனகபுரம் பகுதியில் புதையல் அகழ்வில் ஈடுபட்டுக்கொண்டிருந்த 05 சந்தேக நபர்கள் நேற்று சனிக்கிழமை (21) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் அரவி நகர் முகாம் அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர்கள் 22, 25, 37, 46 மற்றும் 53 வயதுடைய பிதுனுவெவ, வவுனியா, பலாங்கொடை மற்றும் வெயங்கொடை ஆகிய பிரதேசங்களைச் சேர்ந்தவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/7e033d08.json)
+
+---
+
+### ජෝ රූට්ට අවුරුද්දකට පසු ලැබුණු අවස්ථාව
+
+*2024-12-22 16:57:20* · [`adalk`](https://www.ada.lk/sports/ජෝ-රූට්ට-අවුරුද්දකට-පසු-ලැබුණු-අවස්ථාව/9-413780) · `si`
+
+ඔහු අවසන් වරට පාකිස්තානයට එරෙහිව 2023 වසරේ නොවැම්බර් මාසයේදී එක්දින තරගයක් ක්‍රීඩා කර ඇති අතර, ඒ අනුව ඔහු වසරකට පසුව මෙලෙස නැවත එක්දින සංචිතයට කැඳවා ඇත.
+
+ඒ අනුව එළැඹෙන ජනවාරි මාසයේ ආරම්භ වන එංගලන්ත කණ්ඩායමේ ඉන්දීය සංචාරයට ජෝ රූට් එක්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/ddcca997.json)
 
 ---
 
@@ -76,19 +156,47 @@ In response to the hospital, the magistrate asked the doctors regarding the plig
 
 ---
 
-### අරින්න බෑ කිව්ව කන්ටේනරය අත්අඩංගුවට
+### Container arrested
 
 *2024-12-22 15:51:30* · [`adalk`](https://www.ada.lk/breaking_news/අරින්න-බෑ-කිව්ව-කන්ටේනරය-අත්අඩංගුවට/11-413774) · `si`
 
-පාලවිය කල්පිටිය ප්‍රධාන මාර්ගයේ කුරක්කන්හේන ප්‍රදේශයේ දී   21 දින රාත්‍රියේ මුර සංචාරයේ යෙදී සිටි කල්පිටිය පොලිසිය මගින් සැක කටයුතු කන්ටේනර් රථයක් අත් අඩංගුවට ගත් බව කල්පිටිය පොලිසිය පවසයි.එම කන්ටේරය හැර එහි ඇති දෑ පරීක්ෂා කිරීමරට අවශ්‍ය බැව් රියදුරුට පැවසුවද,රියදුරු එය ප්‍රතික්ෂේප කිරීම නිසා මෙසේ අත් අඩංගුවට ගත් බැව් පොලිසිය වැඩි දුරටත් පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-මේ පිළිබදව අප කළ විමසීමට පිළිතුරු දෙමින්,කල්පිටිය වැඩ බලන ස්ථානාධිපති පොලිස් පරීක්ෂක වසන්ත සිරි ලාල් එදිරි සිංහ පැවසුවේ,ගෝලීය ත්‍රස්තවාදය සහ ජාතික ආරක්ෂාව පිළිබදව සලකා  බලා මෙම අත් අඩංගුවට ගැනීම සිදු කළ බවය.රාත්‍රී මුර සංචාරයේ නිරත වූ පොලිස් සැරයන් 55118 දයා නන්ද ඇතුලු නිළධාරීන් කණ්ඩායමක් විසින් මෙම අත් අඩංගුවට ගැනීම සිදු කොට ඇත.
 
-රථයේ රියදුරු උඩත්තාව,හසලක පදිංචි 27 හැවිරිදි පුද්ගලයෙකි.රියදුරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත ය. කල්පිටිය පොලිසිය වැඩි දුර පරීක්ෂණ මෙහෙයවයි.
+
+"Kalpitiya Police arrested a 27-year-old man in Kukkanthena on the 21st night. He's from Hasakawa, Hasalaka. Police Inspector Wasantha Siri Lal Ediri Lal made the arrest. Further investigations ongoing."
+
+🟩
+
+Kalpitiya Police said that the Kalpitiya Police were arrested by the Kalpitiya Police who was traveling in Kukkanthena on the 21st night.The police states.
+
+Answering our inquiry into the inquiry of the Kalpitiya Acting OIC of Kalpitiya Police Inspector Wasantha Siri Lal Ediri Lal The arrested.The arrest has been made by this arrest.
+
+A 27 year old resident of Hasakawa, Hasalaka, is to be produced before the court. Kalpitiya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/2ad838f1.json)
+
+[Extended Data](ext_articles/2ad838f1.ext.json)
+
+---
+
+### ராகம பகுதியில் கோடாவுடன் ஒருவர் கைது
+
+*2024-12-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/201877) · `ta`
+
+ராகம பொலிஸ் பிரிவுக்குட்பட்ட வயல் பகுதியில் சட்ட விரோத மதுபானம் வடிப்பதற்கு பயன்படுத்தப்படும் கோடாவுடன் ஒருவர் நேற்று சனிக்கிழமை (21) கைது செய்யப்பட்டுள்ளார்.
+
+வடமேல் மாகாண குற்றத்தடுப்பு பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசியத் தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் ராகம பிரதேசத்தைச் சேர்ந்த 55 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடமிருந்து சட்டவிரோத மதுபானம் வடிப்பதற்குப் பயன்படுத்தப்படும் 7182.5 லீற்றர் (36 பீப்பாய்கள்) கோடா பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/186b8d14.json)
 
 ---
 
@@ -122,6 +230,42 @@ The acting IGP Priyantha Weerasuriya has informed a complaint regarding the inci
 
 ---
 
+### மியன்மார் அகதிகள் விடயத்தை சுய அரசியல் இலாபத்துக்காக சிலர் அணுகுவதை ஏற்றுக்கொள்ள முடியாது - அருண் கேமச்சந்திர
+
+*2024-12-22 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201876) · `ta`
+
+மியன்மார் அகதிகள் விடயத்தை சுய அரசியல் இலாபத்துக்காக சிலர் அணுகி வருவதை நாம் எப்போதும் ஏற்றுக்கொள்ளப் போவதில்லை என திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினரும் வெளியுறவு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சருமான அருண் கேமச்சந்திர தெரிவித்தார்.
+
+ஜமாலியா முஸ்லிம் மகா வித்தியாலயத்தில் தங்க வைக்கப்பட்டுள்ள அகதிகளை இன்று ஞாயிற்றுக்கிழமை (22) காலை பாராளுமன்ற உறுப்பினர் ரொசான் அக்மிமனவுடன் சென்று பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
+
+சட்ட விரோத குடிவரவாளர்களாக வருகை தந்துள்ள மியன்மார் - ரோஹிங்யா அகதிகளை ஏற்றுக்கொண்டு அவர்களுக்கு மனிதாபிமான அடிப்படையில் தேவையான உதவிகளை செய்து வருகிறோம். அந்த வகையில் அவர்களுக்கான உணவு, உடை, இருப்பிடம், சுகாதாரம் உள்ளிட்ட தேவைகளை செய்து வருகிறோம்.
+
+குறித்த அகதிகள் கடந்த வெள்ளிக்கிழமை (20) திருகோணமலை துறைமுகத்துக்கு கொண்டுவரப்பட்டனர். உடனடியாக அங்கே நடமாடும் மருத்துவ முகாமினை மேற்கொண்டிருந்தோம்.
+
+...
+
+[Data](articles/5cd3b44e.json)
+
+---
+
+### கடந்த 24 மணிநேரத்தில் 10 வீதி விபத்துக்கள்; 13 பேர் உயிரிழப்பு
+
+*2024-12-22 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201866) · `ta`
+
+கடந்த 24 மணித்தியாலங்களில் 10 வீதி விபத்துக்களில் 13 பேர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+பண்டிகை காலங்களில் வீதிகளில் பயணிக்கும்போது அதிக கவனம் செலுத்த வேண்டும் என பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+
+அவர் மேலும் தெரிவக்கையில், “பண்டிகை காலம் என்பதால் நெடுஞ்சாலைகளில் போக்குவரத்து நெரிசல் அதிகரித்து, பாதசாரிகளும் அதிகளவில் செல்கின்றனர். பாதசாரிகள் வீதியில் நடந்து செல்லும்போது மிகவும் கவனமாக இருக்க வேண்டும். மேலும் சாரதிகளும் மிகக் கவனமாக வீதியில் ஓட்ட வேண்டும்" என கேட்டுக்கொண்டுள்ளார்.
+
+ஜனவரி முதலாம் திகதி முதல் டிசம்பர் மாதம் 13ஆம் திகதி வரை 22,967 வீதி விபத்துக்கள் பதிவாகியுள்ளதாகவும் அதில் 2,141 பேர் உயிரிழந்துள்ளதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/6f71c0c9.json)
+
+---
+
 ### High snow in Vavuniya: Drivers
 
 *2024-12-22 15:03:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-அதிக-பனிமூட்டம்-சாரதிகள்-அவதி/175-349089) · `ta`
@@ -139,6 +283,26 @@ In particular, vehicles traveling on the A-9 road and Mannar roads were observed
 [Data](articles/95c374c2.json)
 
 [Extended Data](ext_articles/95c374c2.ext.json)
+
+---
+
+### Applications called for SLEAS Grade 1 principal posts in National Schools
+
+*2024-12-22 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104420/applications-called-for-sleas-grade-1-principal-posts-in-national-schools) · `en`
+
+The Ministry of Education (MoE) has issued a special announcement regarding the process for filling vacancies in the Sri Lanka Education Administrative Service (SLEAS) Grade 1 Principal positions in national schools.
+
+Accordingly, applications are being called from Grade 1 officers of the Sri Lanka Educational Service, as per the directives of the Education Service Committee of the Public Services Commission, the Education Ministry said.
+
+The Ministry stated that the notice, available in Sinhala and Tamil, along with the school register, marking scheme, and model application forms, was published on the Ministry of Education’s official website (www.moe.gov.lk) on December 11, 2024.
+
+Applicants can download the required documents under the ‘Special Notices’ section of the website, the announcement added.
+
+The Ministry has further emphasized that the deadline for submitting applications is December 31, 2024.
+
+◼️
+
+[Data](articles/4ec5b408.json)
 
 ---
 
@@ -2103,227 +2267,5 @@ The driver had said the bus lost his control and opened the door and went out of
 [Data](articles/40d8242a.json)
 
 [Extended Data](ext_articles/40d8242a.ext.json)
-
----
-
-### Surprise raid exposes alarming hygiene violations in Pettah restaurants
-
-*2024-12-21 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104403/surprise-raid-exposes-alarming-hygiene-violations-in-pettah-restaurants-) · `en`
-
-A surprise inspection conducted by the officers of the Jinthupitiya Medical Officer of Health (MOH) office and Public Health Inspectors (PHIs) this morning (21) has revealed alarming hygiene violations in several restaurants on Bodhiraja Mawatha, Pettah.
-
-The inspection uncovered unsanitary conditions, including the presence of rat droppings in kitchen areas and even inside cooking utensils. Pet cats were also observed roaming in food preparation areas, raising further concerns about hygiene standards.
-
-Restaurant owners came under heavy criticism for these violations. Some defended their establishments by blaming a surge in the rat population, which they claimed the Municipal Council had failed to address.
-
-The officials have issued strict warnings to the owners of the offending establishments. They were ordered to remove broken plastic utensils deemed unsuitable for food preparation and to take immediate steps to improve sanitation standards.
-
-...
-
-[Data](articles/3cd591e2.json)
-
-[Extended Data](ext_articles/3cd591e2.ext.json)
-
----
-
-### Taiwan turns up parliament to earn
-
-*2024-12-21 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204594) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Taiwan's opposition party Kuomingtang proposes new laws targeting judges and officials. The Democratic Progressive Party opposes, claiming unconstitutional measures. Tensions rise as opposition blocks ruling party lawmakers from entering parliament.
-
-🟩
-
-The main opposition of Taiwan, Kuvingtta, has agreed on a new draft of the party, foreign media reports.
-
-The controversial proposals have introduced new laws relating to the dismissal of the judicial system as well as inappropriate government officials.
-
-However, the ruling democratic progressive party says that the proposed laws are contrary to the constitution.
-
-Accordingly, the opposition had acted to prevent the ruling party members from entering the Chamber.
-
-◼️
-
-[Data](articles/67118c2c.json)
-
-[Extended Data](ext_articles/67118c2c.ext.json)
-
----
-
-### Sudden raid in Pettah in search of dirty restaurant
-
-*2024-12-21 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204593) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Sudden raid in Pettah: Health officials inspect restaurants. Unhygienic conditions found, including rats in kitchens and pet cats in cooking areas. Owners and officers discuss improvements. Medical Officer advises removing broken plastic containers and prosecuting food re-cooking."
-
-🟩
-
-The restaurant Jedanupa Health Medical Officer of the Bodhirajah Mawatha, Pettah, has been conducted by Officers and Public Health Inspectors of the Jidtupitiya Medical Officer of the Jidtupitiya Medical Officer.
-
-Some restaurants were in very unclean condition and to collect exks into rats in the kitchen, and the intensive errors of the officers.
-
-There are also a few pet cats in some restaurants and cooking places.
-
-The restorative owners and the relevant officers were also created among the restaurant owners and some of the businessmen.
-
-The Medical Officer hereafter advised the shops and advised the cafeteria owners to remove the broken plastic containers.
-
-The officers also took action to prosecute all the molecules of food cooked again.
-
-◼️
-
-[Data](articles/3934b758.json)
-
-[Extended Data](ext_articles/3934b758.ext.json)
-
----
-
-### Sri Lanka repays local ISB holders with new rupee bonds
-
-*2024-12-21 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104402/sri-lanka-repays-local-isb-holders-with-new-rupee-bonds) · `en`
-
-Sri Lanka has repaid defaulted local bondholders with floating-rate rupee bonds, maturing between March 2023 and September 2043, as part of the restructuring of defaulted International Sovereign Bonds (ISBs), which was completed on December 20.
-
-Sri Lanka has issued 8 tranches of bonds of Rs. 19.46 billion to local bondholders totaling Rs. 155.7 billion.
-
-The local bondholders, mainly banks, which had seen bad loans hurting capital, do not face a principal reduction, according to the Central Bank of Sri Lanka (CBSL).
-
-The bonds will carry a coupon rate 50 basis points above the central bank’s Standing Lending Facility (SLF) rate. The SLF rate used will be the six-month historical average, calculated 30 days prior to the interest payment date.
-
-◼️
-
-[Data](articles/2b89b9c9.json)
-
-[Extended Data](ext_articles/2b89b9c9.ext.json)
-
----
-
-### Another accident on Colombo-Kandy road
-
-*2024-12-21 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204592) · `si`
-
-Colombo-Kandy road accident: Lorry damaged, driver arrested, investigation ongoing.
-
-🟩
-
-A lorry that was traveling to Kandy on the Colombo-Kandy road has been in control of the driver.
-
-The lorry was damaged by another lorry and two buildings.
-
-The driver of the lorry and the assistant from Kandy to Colombo has parked his lorry near the hotel to eat.
-
-The accident had taken place in the lorry south of the road due to the lorry driver in Colombo to Kandy.
-
-The lorry driver has been arrested by the vehicle of the lorry regarding the accident.
-
-The Kegalle Police have begun investigations into the incident and the damage has not been assessed.
-
-◼️
-
-[Data](articles/4d0b4a22.json)
-
-[Extended Data](ext_articles/4d0b4a22.ext.json)
-
----
-
-### Two suspects who stole rice
-
-*2024-12-21 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204591) · `si`
-
-Kalutara South Police arrest two suspects stealing 1000kg rice from Central Junction shop. CCTV footage shows thieves using three-wheelers at night.
-
-🟩
-
-The Kalutara South Police have arrested two persons who stole nearly 1000 kg of rice.
-
-The two suspects have stolen the rice of a shop selling rice in the Kalutara Central Junction.
-
-The CCTV camera of a CCTV camera has been recorded using two three wheelers during the night.
-
-◼️
-
-[Data](articles/fdd74b15.json)
-
-[Extended Data](ext_articles/fdd74b15.ext.json)
-
----
-
-### Treasury Secretary hails Sri Lanka exiting default after ‘painful reforms’ and complex debt restructuring
-
-*2024-12-21 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104400/treasury-secretary-hails-sri-lanka-exiting-default-after-painful-reforms-and-complex-debt-restructuring) · `en`
-
-The Secretary to the Treasury Mainda Siriwardena says that 20 December 2024 marked a major milestone in Sri Lanka’s economic recovery process as the country officially exited sovereign default.
-
-Posting on ‘X’ (formerly Twitter) after Fitch Ratings upgraded Sri Lanka to ‘CCC+’, the Treasury Secretary noted that this has been a long and difficult journey, comprising painful reforms and a very complex debt restructuring.
-
-“Whilst this rating upgrade is a crucial milestone, I firmly believe this is just the start of Sri Lanka’s journey towards prosperity for all, where everyone should make their utmost contribution”, he added.
-
-Furthermore, Siriwardena stated that there is no room to repeat policy errors by relying on dogmatic beliefs, ideological leanings, and being led by false narratives which typically lead to unrealistic and unsustainable policies.
-
-...
-
-[Data](articles/e21ffe01.json)
-
-[Extended Data](ext_articles/e21ffe01.ext.json)
-
----
-
-### Plan to extend the time of running the lotus tower
-
-*2024-12-21 17:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரம்-இயக்க-நேரத்தை-நீடிக்க-திட்டம்/175-349040) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Colombo Lotus Tower extended hours: Dec 25-26 (9am-midnight), Dec 27 (9am-11pm). Jan 1-2 (9am-1pm Jan 2).
-
-🟩
-
-It has been decided to extend the time to visit the Colombo Lotus Tower ahead of the festive season.
-
-Accordingly, the Lotus Tower will be opened for public viewing from 9 am to midnight on December 25 and 26, and will be operated from 9 am to 11 pm on December 27.
-
-Also, on December 31st and 1st of January will be open from 9am to 1pm on January 2nd 2pm. Remble
-
-◼️
-
-[Data](articles/fdc4abc3.json)
-
-[Extended Data](ext_articles/fdc4abc3.ext.json)
-
----
-
-### Taliban attack on Pakistan army
-
-*2024-12-21 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204590) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Taliban attack on Pakistan army: 16 soldiers killed, 5 injured. Attack occurred at a military checkpoint near the Afghan border."
-
-🟩
-
-16 Pakistani soldiers were killed in the attack on the Taliban.
-
-Foreign media reports that the Talaban has been launched by the Talaban to a military checkpoint near the Afghan border near the Afghan border.
-
-Five soldiers were also injured in the attack.
-
-◼️
-
-[Data](articles/6d7b2abc.json)
-
-[Extended Data](ext_articles/6d7b2abc.ext.json)
 
 ---

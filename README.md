@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 14:42:49**
+As of **2024-12-22 15:01:07**
 
 ## Newspaper Stats
 
-*Scraped **61,429** Articles*
+*Scraped **61,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,851
-adaderanalk | 7,500
+adaderanalk | 7,501
 tamilmirrorlk | 8,788
-virakesarilk | 10,136
+virakesarilk | 10,138
 adaderanasinhalalk | 10,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,216 (99.7%) of 61,429 articles have been extended.
+61,218 (99.7%) of 61,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### முன்னணி மீன்பிடித் துறைமுகமாக இருந்த மயிலிட்டியின் நிலை என்ன?
+
+*2024-12-22 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201872) · `ta`
+
+இலங்கை முழுவதற்கும் தேவையான கடல் உணவுப் பொருட்களில் பெரும்பகுதியை வழங்கக்கூடியதாக மயிலிட்டி, போா்க் காலத்துக்கு முன்னர் இருந்துள்ளது. போர் முடிவுக்கு வந்து ஒன்றரை தசாப்தம் கடந்துள்ள நிலையிலும் அந்த நிலையை மீளக் கொண்டு வரமுடியவில்லை
+
+◼️
+
+[Data](articles/81039a4d.json)
+
+---
+
+### முக்கால் நூற்றாண்டில் தமிழரசு
+
+*2024-12-22 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201864) · `ta`
+
+தமிழ் தேசிய அரசியலில் தமிழரசு கட்சி வகிக்க வேண்டிய பாத்திரமும் அது முன்னெடுக்க வேண்டிய பயணமும்  நீண்டது, நெடியது. அந்த பொறுப்பை தட்டிக் கழித்து விட்டு அந்த கட்சியால் விலகிச் செல்ல முடியாது.இலங்கையின் பலம்வாய்ந்த- பழமையான கட்சி என கூறிக் கொள்ளக் கூடிய நிலையில், தமிழரசுக் கட்சி மாத்திரமே இருக்கிறது.
+
+◼️
+
+[Data](articles/e19380d0.json)
+
+---
 
 ### Crocodile strikes
 
@@ -116,15 +140,47 @@ The last day of the applications can be submitted is the 31st of this month, the
 
 ---
 
-### மறக்கப்பட்ட தமிழர் பிரச்சினை
+### Gaza ceasefire talks 90% complete, Palestinian official says
+
+*2024-12-22 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104419/gaza-ceasefire-talks-90-complete-palestinian-official-says) · `en`
+
+Talks to reach a Gaza ceasefire and hostage release deal between Israel and Hamas are 90% complete, but key issues remain that need to be bridged, a senior Palestinian official involved in the talks told the BBC.
+
+One of the main sticking points is the continued Israeli military presence in the Philadelphi corridor, a strategically important strip of land in southern Gaza along the border with Egypt.
+
+The Palestinian official shared details of the discussions being held in Doha which include the potential creation of a buffer zone several kilometres wide along the length of Israel’s border with Gaza.
+
+Israel would retain a military presence within this area, the official said.
+
+With these issues resolved, a three-stage ceasefire could be agreed within days, they added.
+
+The deal would include an exchange of 20 Palestinian prisoners for every female soldier released in the first of three stages of the ceasefire.
+
+...
+
+[Data](articles/97e296cb.json)
+
+---
+
+### Forgotten Tamil issue
 
 *2024-12-22 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201862) · `ta`
 
-இலங்கையின் அரசாங்கங்கள் இந்த விடயத்தில், இந்தியாவின் பேச்சைக் கேட்கக் கூடிய நிலையில் இருக்கின்றனவா என்ற என்பது, கேள்விக்குரிய விடயமாக இருக்கிறது.இந்தியப் பிரதமருக்கும் அநுரகுமார திசாநாயக்கவுக்கும் இடம் பெற்ற சந்திப்பின்போது,தமிழர் பிரச்சினை பற்றி அதிகம் கவனத்தில் எடுக்காதமைக்கு வேறு சில காரணங்களும் இருக்கக் கூடும்.
+Here's a summary of the Forgotten Tamil issue in 200 characters:
+
+
+
+Sri Lanka's handling of Tamil concerns questioned by India. Government response uncertain on Tamil rights and representation.
+
+🟩
+
+It is a matter of questionable whether the governments of Sri Lanka are in question with India's speech on this issue.
 
 ◼️
 
 [Data](articles/5fea8d43.json)
+
+[Extended Data](ext_articles/5fea8d43.ext.json)
 
 ---
 
@@ -148,27 +204,35 @@ According to Sri Lanka Customs, 67,000 metric tons of rice have been imported si
 
 ---
 
-### ආනයන බද්ද අඩු කරන්නැයි සහල් වෙළෙඳුන්ගෙන් ඉල්ලීමක්
+### Request for rice traders to reduce £ £
 
 *2024-12-22 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204609) · `si`
 
-සහල් ආනයනය කිරීමේදී කිලෝග්‍රෑම් එකකට රේගුව විසින් අයකරනු ලබන රුපියල් 65ක බදු මුදල යම් ප්‍රමාණයකින් අඩුකර දෙන ලෙස බොහෝ ප්‍රදේශවල වෙළෙඳුන් රජයෙන් ඉල්ලා සිටී.
+Rice traders urged to lower tax rates. Consumer groups claim reduced tax will stabilize rice prices. Government implemented measures to control stock and imports. Sri Lanka Customs imported 67,000 metric tons of rice, 38,500 rural, 28,500 urban. Rice shortage persists despite imports. Traders claim local supply limited.
 
-වෙළෙඳුන් මෙන් පාරිභෝගික සංවිධාන පෙන්වා දෙන්නේ, ආනයනික සහල් බදු අඩු කළහොත් පාලන මිලට සහල් වෙළෙඳපොළේ පවතිනු ඇති බවය.
+🟩
 
-මාස දෙකක පමණ සිට පවතින සහල් අර්බුදයට පිළියම් ලෙස උපරිම තොග හා සිල්ලර මිල පැනවීම, පාරිභෝගික කටයුතු අධිකාරිය මගින් සහල් මෝල් වැටලීම මෙන්ම විදේශ රටවලින් සහල් ආනයනය කිරීමටත් රජය පසුගිය සමයේ විවිධ පියවර අනුගමනය කළේය.
+In many areas, the traders are asked to reduce the tax amount of Rs.
 
-සහල් ආනයනයට අවසර හිමිවූ දෙසැම්බර් 20 වැනිදා දක්වා සහල් මෙට්‍රික්ටොන් 67,000ක් ආනයනයකර තිබූ බව ශ්‍රී ලංකා රේගුව පැවසීය.
+Like the merchants, consumer organizations point out that if tax deducted tax is reduced, the rice price will remain in the rice market.
 
-ඉන් මෙට්‍රික්ටොන් 38,500ක් නාඩු සහල් වන අතර සෙසු මෙට්‍රික්ටොන් 28,500ක් කැකුළු සහල් ය.
+The government adopted many steps during the past season to impose maximum stock and retail and retail the rice raid and importing rice from foreign affairs as well as the Consumer Affairs Authority.
 
-මෙම සහල් තොග වෙනුවෙන් ශ්‍රී ලංකා රේගුව රුපියල් බිලියන 4.3ක් ආනයන බදු ලෙස අයකර ඇත්තේ කිලෝග්‍රෑම් එකකට රුපියල් 65 බැගිනි.
+Sri Lanka Customs said that 67,000 Metricton had imported rice permitted to import rice.
 
-ආනයනික සහල් තොග වෙළෙඳපොළට ලැබීම ආරම්භවීමත් සමඟ පැවති සහල් හිඟය යම් ප්‍රමාණයකින් සමනයවී ඇතත්, තවමත් වෙළෙඳපොළේ නිසි ප්‍රමාණයට සහල් නොමැති බව ඇතැම් ප්‍රදේශවලින් වාර්තා වෙයි.
+38,500 metrics are rural and 28,500 metrics rice.
 
-...
+The Sri Lanka Customs has been charged as Rs. 4.3 billion to Rs.
+
+The rice shortage of the rice has been allegedly allegedly allegedly allocated to the import of imported rice.
+
+In other areas, however, traders say they have some of the local rice, but there is no imported rice.
+
+◼️
 
 [Data](articles/1171ac18.json)
+
+[Extended Data](ext_articles/1171ac18.ext.json)
 
 ---
 
@@ -2209,75 +2273,5 @@ Police suspect that the accident was caused by a brakes failure of the bus, acco
 [Data](articles/8b7eb5fe.json)
 
 [Extended Data](ext_articles/8b7eb5fe.ext.json)
-
----
-
-### A horrific bus accident in Kaduganna
-
-*2024-12-21 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204584) · `si`
-
-Kaduganna bus accident: 12 injured, 3 killed. Bus technical fault suspected.
-
-🟩
-
-A bus belonging to Lanka Transport Board has injured 12 persons from the Colombo-Kandy main road.
-
-The accident had occurred when the traveling bus traveling from Colombo and the Dawson Tower, police said.
-
-The injured have been admitted to the Kadunannawa, the Kadunannawa, and two others who were in critical condition have been transferred to the Kandy National Hospital.
-
-Preliminary investigations have revealed that a technical fault caused by the bus was caused by the accident.
-
-Three people were killed and 46 were killed and 46 were killed and 46 were injured when a private bus fell into a precipice this morning.
-
-◼️
-
-[Data](articles/179343ca.json)
-
-[Extended Data](ext_articles/179343ca.ext.json)
-
----
-
-### Gold prices upward
-
-*2024-12-21 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204583) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Gold prices surge: 22-carat gold in Colombo rises to 193,200; 24-karat gold increases to 280,000. Market data shows overall gold prices have grown.
-
-🟩
-
-The market data indicates that the prices of gold has increased.
-
-Accordingly, the prices of a 22 carrot prices in the gold market in Colombo this morning (21). Has risen to 193,200.
-
-Meanwhile, the price of a 280,000 karattle poultry has risen to Rs. 2,000 today.
-
-◼️
-
-[Data](articles/360c97b1.json)
-
-[Extended Data](ext_articles/360c97b1.ext.json)
-
----
-
-### CID records statements from officials over false information on Parliament website
-
-*2024-12-21 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104397/cid-records-statements-from-officials-over-false-information-on-parliament-website-) · `en`
-
-A team from the Criminal Investigation Department (CID) has visited Parliament yesterday (20) and recorded statements from three officials, including the Assistant Secretary General of Parliament, regarding the incorrect use of the title “Dr.” before the name of Minister of Justice and National Integration Harshana Nanayakkara.
-
-The issue came to light after Minister Nanayakkara lodged a formal complaint with the CID, asserting that he had never held a doctorate and that someone may have deliberately entered false data to tarnish his reputation or erode public trust in his political career.
-
-In response, the CID launched a probe to identify the cause of the error and determine accountability. As part of the investigation, statements were recorded from parliamentary officials involved in the incident.
-
-...
-
-[Data](articles/e445c9e1.json)
-
-[Extended Data](ext_articles/e445c9e1.ext.json)
 
 ---

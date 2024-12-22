@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 19:27:08**
+As of **2024-12-22 19:43:06**
 
 ## Newspaper Stats
 
-*Scraped **61,479** Articles*
+*Scraped **61,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,858
 adaderanalk | 7,505
-tamilmirrorlk | 8,793
+tamilmirrorlk | 8,794
 virakesarilk | 10,163
 adaderanasinhalalk | 10,622
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,247 (99.6%) of 61,479 articles have been extended.
+61,249 (99.6%) of 61,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### புதிய துணைத் தலைவராக பரத் அருள்சாமி நியமனம்
+
+*2024-12-22 19:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-துணைத்-தலைவராக-பரத்-அருள்சாமி-நியமனம்/175-349102) · `ta`
+
+தமிழ் முற்போக்குக் கூட்டணியின் முக்கிய உறுப்பினரும், ஐக்கிய மக்கள் சக்தி கூட்டணியின் முக்கிய பங்காளியுமான ஜனநாயக மக்கள் முன்னணி, கட்சியின் புதிய துணைத் தலைவராக பரத் அருள்சாமியை நியமித்துள்ளது.
+
+கட்சியின் தலைவர் மனோ கணேசன் தலைமையில் கொழும்பில் இடம்பெற்ற அரசியல் குழு கூட்டத்தின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+பொதுச்செயலாளர் முருகேசு பரணிதரன், துணைத் தலைவர் சசிக்குமார், நாடு முழுவதும் உள்ள மாவட்ட ஒருங்கிணைப்பாளர்கள், கட்சியின் மூத்த உறுப்பினர்கள் கலந்துகொண்ட கூட்டத்தில், கட்சியின் முன்னேற்றம் மற்றும் உத்திகள் குறித்து ஆய்வு செய்வது குறித்து கவனம் செலுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/29114f08.json)
+
+---
 
 ### India is the champion in the 19th women's R20s of Asian Bowl Cricket
 
@@ -64,23 +80,29 @@ Nikki Prasad scored 12 runs, Vinod Mithila 17 runs and Ayushi Shukla scored 10 r
 
 ---
 
-### දුම්රිය පෙනී පෙනී මව සහ දියණිය ගත් අවසන් සෙල්ෆිය
+### The last Selfium taken to appear on the train and the daughter
 
 *2024-12-22 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204616) · `si`
 
-අනුරාධපුර දුම්රිය ස්ථානය ආසන්නයේ දී සෙල්ෆි ඡායාරූප ගැනීමට ගිය මවක් සහ දියණියක් එම ස්ථානයේදීම ජීවිතක්ෂයට පත්ව තිබේ.
+Mother-daughter duo killed by train while taking photos near Anuradhapura railway station. 18-year-old daughter and 38-year-old mother died after collision with train from Kandy to Colombo. Another child was present but unharmed.
 
-අනුරාධපුර මහජන ක්‍රීඩාංගණයේදී පැවැත්වෙන තයිකොණ්ඩු තරගාවලියක් සඳහා සහභාගී වීමට රත්නපුරයේ සිට පැමිණි මවක් සහ දියණියක් මෙම අවාසනාවන්ත සිදුවීමට මුහුණපා ඇත.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 18ක් වයස ඇති දැරියක් හා අවුරුදු 38ක පමණ ඇති වයසක මවක් බව පොලීසිය පවසයි.
+A mother and daughter who went to take photographs near the Anuradhapura railway station.
 
-ඔවුන් දෙදෙනා සෙල්ෆි ඡායාරූපයක් ලබාගමින් සිටියදී කංකසංතුරේ සිට කොළඹ දක්වා ධාවන වෙමින් තිබූ සීඝ්‍රගාමී දුම්රියේ ගැටී තිබේ.
+A mother and daughter from Ratnapura to participate in a Tike Stadium in the Anuradhapura Stadium have faced this unfortunate event.
 
-මෙම එම සෙල්ෆි ඡායාරූපය ගැනීමේදී ඔවුන් සමග පැමිණි තවත් දරුවෙකුට සිට ඇත.
+The deceased has been identified as a 18 year old girl and an old mother of about 38 years.
+
+The two of them were collided with the train from training from Kannamuruwara to Colombo while they were getting a photo.
+
+This Celphi has been another child who came with them in taking photographs.
 
 ◼️
 
 [Data](articles/707b8612.json)
+
+[Extended Data](ext_articles/707b8612.ext.json)
 
 ---
 
@@ -121,6 +143,8 @@ The transfers have been made in connection with an investigation being conducted
 ◼️
 
 [Data](articles/b07cac74.json)
+
+[Extended Data](ext_articles/b07cac74.ext.json)
 
 ---
 
@@ -2149,25 +2173,5 @@ Police say that the death of a crocage was on the basis of the death of the catt
 [Data](articles/dd9d0afc.json)
 
 [Extended Data](ext_articles/dd9d0afc.ext.json)
-
----
-
-### Man stabbed to death in Kirindiwela
-
-*2024-12-22 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104407/man-stabbed-to-death-in-kirindiwela) · `en`
-
-A 42-year-old man has reportedly been stabbed to death with a sharp weapon in the Walgammulla area of Kirindiwela.
-
-The incident occurred last evening (21), and the deceased has been identified as a resident of Thimbirigama, Kirindiwela.
-
-Initial investigations suggest that the murder was committed by the guard of a plot of land leased by the victim. Following the crime, the suspect fled the scene on the victim’s motorcycle, the police said.
-
-The motive behind the murder has not been revealed yet, and the Kirindiwela Police are conducting further investigations to apprehend the suspect.
-
-◼️
-
-[Data](articles/02797ce4.json)
-
-[Extended Data](ext_articles/02797ce4.ext.json)
 
 ---

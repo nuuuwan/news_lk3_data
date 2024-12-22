@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 22:27:13**
+As of **2024-12-22 22:42:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,268 (99.6%) of 61,490 articles have been extended.
+61,270 (99.6%) of 61,490 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -594,27 +594,39 @@ The 13th Amendment is still unable to fully implement. Former President Ranil Wi
 
 ---
 
-### வாகன இறக்குமதிக்கு அனுமதித்தால்   டொலர் இருப்புக்கு என்ன நடக்கும்?
+### What will happen to the dollar reserves if vehicle imports are allowed?
 
 *2024-12-22 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201889) · `ta`
 
-வாகன இறக்குமதியினால்  டொலரின் பெறுமதி உயர்வடைந்து ரூபாவின் பெறுமதி வீழ்ச்சியடையுமா? அதாவது வாகன இறக்குமதி செய்வதனால் டொலர் வெளியே செல்வது அதிகரித்துவிடுமா?  வாகன இறக்குமதிக்கு அனுமதி அளிப்பதன் மூலம் உள்நாட்டில் காணப்படுகின்ற இரண்டாம் தர வாகனங்களின் விலைகள் குறைவடையுமா?  வாகனங்களுக்கு எப்படி தீர்வை விதிக்கப்படும்?  பொருளாதாரத்துக்கு  என்ன நடக்கும்?
+Vehicle imports may boost rupee value, potentially increasing dollar reserves. This could lead to lower domestic car prices, benefiting consumers. However, economic impacts depend on various factors including trade policies and market conditions.
+
+🟩
+
+Will the value of vehicle imports increase the value of the rupee and the value of the rupee?Does that mean, the importation of vehicle increases the dollar?Will the prices of second -class vehicles at home decrease by allowing vehicle imports?How to resolve vehicles?What happens to the economy?
 
 ◼️
 
 [Data](articles/9d82585c.json)
 
+[Extended Data](ext_articles/9d82585c.ext.json)
+
 ---
 
-### பாதுகாப்பு ஒப்பந்தமும் சிக்கல்களும்
+### Security Agreement and Problems
 
 *2024-12-22 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201881) · `ta`
 
-இந்தியப் படைகளை நாட்டை விட்டு வெளியேற்றுவதில் அவர்கள் உறுதியான நிலைப்பாட்டில் இருந்தார்கள். இன்று அதே இந்திய படையினர், அதே ஜே.வி.பி.யின் தலைவருக்கு புதுடெல்லியில் மரியாதை செலுத்தும் நிலை வந்திருக்கிறது.இந்திய பெருங்கடலில் இலங்கையின் கடற்படை உள்ளிட்ட பாதுகாப்பு கட்டமைப்புகளை வலுப்படுத்துவதற்கும், கடல்சார் திறன்களை அதிகரிப்பதற்குமான ஒரு உடன்பாடு செய்து கொள்ளப்படுவதற்கு இரு நாடுகளும் இணங்கி இருக்கின்றன என்பதை புரிந்து கொள்ள முடிகிறது
+Indian soldiers once poised to leave India now honored in New Delhi. India and Sri Lanka agree to enhance security cooperation and maritime capabilities in the Indian Ocean.
+
+🟩
+
+They were in a firm position in the Indian forces to leave the country. Today, the same Indian soldiers have been honored with the same JVP leader in New Delhi. In the Indian Ocean, it is understood that the two countries are in agreement with the Sri Lankan Navy to strengthen security structures and increase maritime capabilities.
 
 ◼️
 
 [Data](articles/3cee70e1.json)
+
+[Extended Data](ext_articles/3cee70e1.ext.json)
 
 ---
 

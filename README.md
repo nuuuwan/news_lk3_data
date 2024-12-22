@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 15:12:03**
+As of **2024-12-22 15:27:04**
 
 ## Newspaper Stats
 
-*Scraped **61,433** Articles*
+*Scraped **61,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,852
 adaderanalk | 7,501
-tamilmirrorlk | 8,788
+tamilmirrorlk | 8,789
 virakesarilk | 10,138
 adaderanasinhalalk | 10,616
 
@@ -26,33 +26,63 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,218 (99.7%) of 61,433 articles have been extended.
+61,221 (99.7%) of 61,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### முன்னணி மீன்பிடித் துறைமுகமாக இருந்த மயிலிட்டியின் நிலை என்ன?
+### வவுனியாவில் அதிக பனிமூட்டம்:  சாரதிகள் அவதி
+
+*2024-12-22 15:03:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-அதிக-பனிமூட்டம்-சாரதிகள்-அவதி/175-349089) · `ta`
+
+வவுனியாவில் அண்மைய நாட்களை விடவும், ஞாயிற்றுக்கிழமை (22) அதிக பனிமூட்டமாகக் காணப்படுகின்றது. கடும் பனிமூட்டம் காரணமாக போக்குவரத்தை மேற்கொள்வதில் வாகன சாரதிகள் பெரும் சிரமத்திற்கு உள்ளாகியுள்ளனர்.
+
+குறிப்பாக  ஏ-9 வீதி மற்றும் மன்னார் வீதிகளில் பயணிக்கும் வாகனங்கள் ஒளியைப் பாய்ச்சியபடி சென்றமை அவதானிக்கக்கூடியதாக இருந்தது.
+
+◼️
+
+[Data](articles/95c374c2.json)
+
+---
+
+### What is the state of the peacock, which was the leading fishing port?
 
 *2024-12-22 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201872) · `ta`
 
-இலங்கை முழுவதற்கும் தேவையான கடல் உணவுப் பொருட்களில் பெரும்பகுதியை வழங்கக்கூடியதாக மயிலிட்டி, போா்க் காலத்துக்கு முன்னர் இருந்துள்ளது. போர் முடிவுக்கு வந்து ஒன்றரை தசாப்தம் கடந்துள்ள நிலையிலும் அந்த நிலையை மீளக் கொண்டு வரமுடியவில்லை
+State of peacock, leading fishing port: Sri Lanka's seafood supply to Mayiliti impacted by war. Restoration efforts ongoing for over a decade.
+
+🟩
+
+The whole of Sri Lanka was able to provide most of the seafoods required by Mayiliti. Even after the end of the war, one and a half decades could not be restored
 
 ◼️
 
 [Data](articles/81039a4d.json)
 
+[Extended Data](ext_articles/81039a4d.ext.json)
+
 ---
 
-### முக்கால் நூற்றாண்டில் தமிழரசு
+### Tamilnadu
 
 *2024-12-22 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201864) · `ta`
 
-தமிழ் தேசிய அரசியலில் தமிழரசு கட்சி வகிக்க வேண்டிய பாத்திரமும் அது முன்னெடுக்க வேண்டிய பயணமும்  நீண்டது, நெடியது. அந்த பொறுப்பை தட்டிக் கழித்து விட்டு அந்த கட்சியால் விலகிச் செல்ல முடியாது.இலங்கையின் பலம்வாய்ந்த- பழமையான கட்சி என கூறிக் கொள்ளக் கூடிய நிலையில், தமிழரசுக் கட்சி மாத்திரமே இருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamilnadu: TNA's role in Tamil national politics and its journey forward. The party must not lag behind in fulfilling this responsibility.
+
+🟩
+
+The role of the TNA to play in Tamil national politics and the journey to carry out. The party cannot be left behind after that responsibility.
 
 ◼️
 
 [Data](articles/e19380d0.json)
+
+[Extended Data](ext_articles/e19380d0.ext.json)
 
 ---
 
@@ -159,6 +189,8 @@ The deal would include an exchange of 20 Palestinian prisoners for every female 
 ...
 
 [Data](articles/97e296cb.json)
+
+[Extended Data](ext_articles/97e296cb.ext.json)
 
 ---
 
@@ -2247,29 +2279,5 @@ Satya is simulated as a man with good qualities in the fantasy world of the futu
 [Data](articles/76441012.json)
 
 [Extended Data](ext_articles/76441012.ext.json)
-
----
-
-### Five injured in an altercation accident
-
-*2024-12-21 15:58:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றுமொரு-விபத்தில்-ஐவர்-படுகாயம்/175-349039) · `ta`
-
-Here's a summary of the incident in approximately 200 characters:
-
-
-
-"5 injured as bus crashes into tree on Colombo-Kandy Rd. Vehicle from Teldeniya Depot, SLTB. Accident occurred near Tassan Tower."
-
-🟩
-
-Five people were injured when a bus crashed into a tree in the Tassan Tower area of ​​Colombo -Kandy Road.
-
-The bus belonging to the Teldeniya Depot, owned by the Sri Lanka Transport Board, crashed.
-
-◼️
-
-[Data](articles/026ccc26.json)
-
-[Extended Data](ext_articles/026ccc26.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 08:07:48**
+As of **2024-12-22 05:52:27**
 
 ## Newspaper Stats
 
-*Scraped **61,370** Articles*
+*Scraped **61,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,49 +16,21 @@ islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,843
+adalk | 5,842
 adaderanalk | 7,488
-tamilmirrorlk | 8,775
+tamilmirrorlk | 8,773
 virakesarilk | 10,123
-adaderanasinhalalk | 10,605
+adaderanasinhalalk | 10,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,176 (99.7%) of 61,370 articles have been extended.
+61,172 (99.7%) of 61,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
-
-### Showers in several areas
-
-*2024-12-22 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204599) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Showers forecasted for Western, Sabaragamuwa, Southern, and Uva provinces today. Possible light rain in Northern and Northwestern regions. Thunderstorms may cause strong winds and lightning. Public advised to be cautious."
-
-🟩
-
-The Meteorological Department says that showers or night thundershowers will occur at the Western, Sabaragamuwa, Southern and Uva provinces today (22).
-
-The department states that a few showers may occur in the North and North Western provinces and in the Anuradhapura district.
-
-In some places in the Central, Sabaragamuwa, Southern, Uva and Eastern Provinces, there are four stations.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/e2679f18.json)
-
-[Extended Data](ext_articles/e2679f18.ext.json)
-
----
 
 ### Dynasties of Deceit: The Philippines’ Curse
 
@@ -69,8 +41,6 @@ The 1987 Philippine Constitution, crafted in the aftermath of the 1986 People Po
 ...
 
 [Data](articles/bf11205a.json)
-
-[Extended Data](ext_articles/bf11205a.ext.json)
 
 ---
 
@@ -83,8 +53,6 @@ I first met Ronnie de Mel (1925-2024) less than six months before his passing. A
 ...
 
 [Data](articles/008732b5.json)
-
-[Extended Data](ext_articles/008732b5.ext.json)
 
 ---
 
@@ -100,8 +68,6 @@ Sri Pada, aka Adam’s Peak and Samanala Kanda, is the fifth tallest peak in Sri
 
 [Data](articles/70836b80.json)
 
-[Extended Data](ext_articles/70836b80.ext.json)
-
 ---
 
 ### Some Vignettes of Italy
@@ -115,40 +81,6 @@ I need now to recount my sailing adventures, or shall we say, misadventures. Alt
 ...
 
 [Data](articles/5ff61eec.json)
-
----
-
-### டெங்கு நோயாளர்களின் எண்ணிக்கை உயர்வு
-
-*2024-12-22 02:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-உயர்வு/175-349058) · `ta`
-
-மேல் மாகாணத்திலேயே அதிகளவான நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்பு பிரிவு தெரிவித்துள்ளது.
-
-அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12,030 டெங்கு நோயாளரகள் கொழும்பு மாவட்டத்தில் அடையாளம் காணப்பட்டுள்ளனர்.
-
-இந்தநிலையில், இந்தவருடத்தின் இதுவரையான காலப்பகுதியில் 23 பேர் உயிரிழந்துள்ளனர் என  சுகாதார அமைச்சு தெரிவித்துள்ளது.  (a)
-
-◼️
-
-[Data](articles/f2df6c90.json)
-
----
-
-### சபாநாயகரை சந்தித்தார் குயின் போயோங்
-
-*2024-12-22 02:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகரை-சந்தித்தார்-குயின்-போயோங்/175-349057) · `ta`
-
-சபாநாயகர் ஜகத் விக்கிரமரத்னவுக்கும் சீன மக்கள் அரசியல் ஆலோசனை மாநாட்டின் தேசியக் குழுவின் துணைத் தலைவி குயின் போயோங் ஆகியோருக்கிடையில் சந்திப்பொன்று இடம்பெற்றுள்ளது.
-
-பாராளுமன்ற ஒத்துழைப்பு, நிலைபேறான அபிவிருத்தி, வர்த்தகம், விவசாயம், தொழில்கள் மற்றும் பலதரப்பு ஈடுபாடுகள் போன்ற துறைகளில் இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது ஆராயப்பட்டுள்ளது.
-
-இலங்கையின் புதிய அரசாங்கத்தின் பொருளாதார மற்றும் சமூக அபிவிருத்தி நோக்கங்களை அடைவதில் சீனாவின் உறுதிப்பாட்டுடன் உள்ளதாக குயின் போயோங் தெரிவித்துள்ளார்.
-
-அத்துடன், பரஸ்பர அபிவிருத்தி மற்றும் செழிப்பை மேம்படுத்துவதற்கு முக்கிய துறைகளில் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்துவதில் சீனாவின் தயார் நிலையையும் குயின் போயோங் வலியுறுத்தியுள்ளார். (a)
-
-◼️
-
-[Data](articles/c8bc101d.json)
 
 ---
 
@@ -417,22 +349,6 @@ The provisions of the gazette notification have been issued to the Public Admini
 [Data](articles/0ad96220.json)
 
 [Extended Data](ext_articles/0ad96220.ext.json)
-
----
-
-### ලංගම බස් රිය ගසක ගැටි 6ක් රෝහලේ
-
-*2024-12-21 20:23:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-බස්-රිය-ගසක-ගැටි-6ක්-රෝහලේ/11-413761) · `si`
-
-කොළඹ සිට තෙල්දෙනිය දක්වා ධාවනය වු ලංගම බස් රථයක් කඩුගන්නාව ඩෝසන් කුළුන අසල ආසන්නයේ  ඇති විශාල ගසක හැපි තුවාල කරුවන් 6 දෙනෙකු මහනුවර රෝහලට ඇතුලත් කල බව කඩුගන්නාව පොලිසිය පවසයි.
-
-අද (21) පස්වරු 3 ට පමණ සිදුවු මෙම අනතුරින් බස් රථයේ රියදුරු ඇතුලු බස් රථයේ ගමන් ගත් මගින් 5 දෙනෙකු සිදුවු තුවාල හේතුවෙන් රෝහල් ගත කල බවද පොලිසිය පවසයි.
-
-තුවාලකරුවන් ප්‍රෙද්ශවාසින් හා කඩුගන්නාව පොලිසියේ නිලධාරින් මැදිහත්ව රෝහල් ගත කර ඇති අතර කිසිවෙකුට බරපතල තුවාල සිදුවි නැති බවද පොලිසිය පැවසිය. සිද්ධිය සම්බන්ධව කඩුගන්නාව පොලිසිය පරික්ෂන පවත්වයි.
-
-◼️
-
-[Data](articles/1a7241dd.json)
 
 ---
 
@@ -2381,5 +2297,101 @@ The Magistrate's police have ordered the police to register the case in accordan
 [Data](articles/6fc9e68b.json)
 
 [Extended Data](ext_articles/6fc9e68b.ext.json)
+
+---
+
+### Chanakyan, Sumanthiran discussed with Norwegian Ambassador!
+
+*2024-12-21 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201775) · `ta`
+
+Sumanthiran meets Norwegian Ambassador: Discusses key issues and current political topics with Chanakyan, ex-MP and Presidential lawyer.
+
+🟩
+
+H.E.. May-Elin Stener met on Friday the 20th and the TNA MP on many important issues and contemporary politics. Chanakyan and former MP and President's lawyer. They met with Sumanthiran.
+
+◼️
+
+[Data](articles/f05a5767.json)
+
+[Extended Data](ext_articles/f05a5767.ext.json)
+
+---
+
+### Is India changing the toughness of India?Questions that arise in the context of New Delhi Talks
+
+*2024-12-21 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201774) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Pres. Dissanayake's India visit focuses on economic aid, trade cooperation, security assurances, BRICS membership, Tamil rights, and fisheries disputes. Key: no use of Sri Lankan land against India, support for Tamil aspirations, and resolving fishermen conflicts.
+
+🟩
+
+There were two reasons why President Anura Kumara Dissanayake's visit to India and his talks with Indian Prime Minister Narendra Modi gained much importance in the media.
+
+The first is the leader of a party that was one of his major policies of Indian opposition. They had long traveled with that policy. It is through it that the party strengthened.
+
+The second, his JVP. Was identified as a Chinese pro organization. The reflection of the Chinese Tutu in Colombo on the victory of the National People's Power in the general election also strengthened this view.
+
+During his visit to New Delhi, President Dissanayake revealed the most relaxed diplomacy in the wake of the intensification of Sri Lanka -based Chinese -Indian power competition.
+
+The attitude of Dissanayake was seen as the one who accepted the importance of India in the South Asian region. That is, the history of the JVP in the past has been confirmed during this visit that the President is changing the severe course of India.
+
+...
+
+[Data](articles/a0ea1d75.json)
+
+[Extended Data](ext_articles/a0ea1d75.ext.json)
+
+---
+
+### President pledges reforms to revitalise public sector
+
+*2024-12-21 01:05:33* · [`dailyftlk`](https://www.ft.lk/news/President-pledges-reforms-to-revitalise-public-sector/56-770853) · `en`
+
+Says challenge of transforming public service into streamlined State mechanism lies ahead of us
+
+Points to newly appointed committee to make impartial decisions without political interference
+
+Opines no intention to downsize public service, while admitting concerns about high expenditure involved
+
+Calls to maintain harmony and mutual accountability between public officials and political authorities
+
+Assures to defend public officials facing unjust challenges; warns against neglect or obstruction of duties
+
+President Anura Kumara Dissanayake yesterday underscored the urgent need to overhaul public service, pointing to the critical challenge of transforming Sri Lanka’s public service into an efficient state mechanism.
+
+Addressing a conference of District Secretaries and Divisional Secretaries at the Home Affairs Ministry Auditorium, located in the “Nila Medura” building in Narahenpita, he outlined a vision for a more efficient and trustworthy State mechanism.
+
+...
+
+[Data](articles/e076df63.json)
+
+[Extended Data](ext_articles/e076df63.ext.json)
+
+---
+
+### SC upholds death sentence for ex-top cop Vass Gunawardena
+
+*2024-12-21 01:04:54* · [`dailyftlk`](https://www.ft.lk/news/SC-upholds-death-sentence-for-ex-top-cop-Vass-Gunawardena/56-770852) · `en`
+
+The Colombo High Court yesterday announced that the Supreme Court has upheld its previous verdict sentencing five defendants, including former DIG Vass Gunawardena, to death in the 2013 kidnapping and murder of businessman Mohamed Shiyam.
+
+The Colombo High Court announced this decision after former DIG Vass Gunawardena, his son Ravindu Gunawardena, and three police officers were produced before the court by prison officials yesterday.
+
+Colombo High Court Judge Aditya Patabendige informed the defendants that the Supreme Court had rejected their appeal in this case and upheld the death sentence.
+
+Counsel Rahul Jayathilake, appearing for the accused, informed the court that the Supreme Court had not specified a date for the effective date of the sentence pronounced by the High Court in November 2015.
+
+Pointing out that the date of the sentence was very important, he requested the court to issue an order in this regard as it was not mentioned in the Supreme Court order.
+
+...
+
+[Data](articles/a2417fbe.json)
+
+[Extended Data](ext_articles/a2417fbe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 02:42:37**
+As of **2024-12-23 03:00:00**
 
 ## Newspaper Stats
 
-*Scraped **61,512** Articles*
+*Scraped **61,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,153 @@ colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
 economynextcom | 3,747
-dailyftlk | 4,260
+dailyftlk | 4,266
 dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
 tamilmirrorlk | 8,797
-virakesarilk | 10,170
+virakesarilk | 10,172
 adaderanasinhalalk | 10,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,292 (99.6%) of 61,512 articles have been extended.
+61,293 (99.6%) of 61,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### Ranjan Lanka partners China’s Zero Technologies to introduce Zero air conditioners in Sri Lanka
+
+*2024-12-23 02:46:19* · [`dailyftlk`](https://www.ft.lk/business/Ranjan-Lanka-partners-China-s-Zero-Technologies-to-introduce-Zero-air-conditioners-in-Sri-Lanka/34-770912) · `en`
+
+Ranjan Lanka Managing Director Ranjan Senanayake and Technician Mahesh Nanayakkara at launching ceremony
+
+Ranjan Lanka Ltd., has stepped into the air conditioning (AC) market with the introduction of the Zero brand ACs.
+
+Imported from Zero Technologies in China, these ACs are designed to cater to small offices, houses, and apartments. The Zero brand ACs are available in two ranges: non-inverter units with capacities from 9,000 to 12,000 British Thermal Units (BTU), and inverter units ranging from 12,000 to 18,000 BTU. These models are being introduced to the general market for the first time, with the initial launch held in Gampaha. The company plans to distribute the units island-wide from its warehouse in Gampaha and is also seeking dealers to expand their reach.
+
+...
+
+[Data](articles/23e7b960.json)
+
+---
+
+### இந்த அரசாங்கத்துக்கு சவால் விடும் பிரதான நபராக  ரணில் விக்கிரசிங்க செயற்படலாம் - உதய கம்மன்பில
+
+*2024-12-23 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201917) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்த அரசாங்கத்துக்கு சவால் விடும் பிரதான நபராக செயற்படலாம். பொருளாதார நெருக்கடியில் இருந்து குறுகிய காலத்தில் மீட்சிப் பெற்றமை குறித்து வங்குரோத்து நிலையடைந்துள்ள உலக நாடுகள் ரணில் விக்கிரசிங்கவிடம் ஆலோசனை பெறுகின்றமை சிறப்பம்சமாகும் என முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தெரிவித்தார்.
+
+அரசியலில் இருந்து முழுமையாக ஓய்வுப்பெறவில்லை. செயற்பாட்டு ரீதியிலான அரசியலில் ஈடுபட்டுள்ளோம். வெற்றியும், தோல்வியும் என்றும் நிலையானதல்ல, 2020 ஆம் ஆண்டு பெரும்பான்மை ஆதரவுடன் வெற்றிப் பெற்ற ஸ்ரீ லங்கா ஸ்ரீ லங்கா பொதுஜன பெரமுன 2024 ஆம் ஆண்டு படுதோல்வியடைந்தது. அதேபோல் அன்று 3 ஆசனங்களை பெற்ற தேசிய மக்கள் சக்தி இன்று 159 ஆசனங்களை கைப்பற்றியுள்ளது ஆகவே அரசியலில் ஏதும் நடக்கலாம்.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ அரசியலில் இருந்து ஓய்வுப் பெற்றுள்ளார். ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமைத்துவத்தை பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவுக்கு வழங்குவதற்கு அவதானம் செலுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/832c1098.json)
+
+---
+
+### Chinese Navy hospital ship ‘Peace Ark’ in Sri Lanka on harmony mission
+
+*2024-12-23 02:45:29* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Navy-hospital-ship-Peace-Ark-in-Sri-Lanka-on-harmony-mission/56-770911) · `en`
+
+The Chinese Navy hospital ship ‘Peace Ark,’ currently on Mission Harmony 2024, arrived at the Port of Colombo on Saturday. The ship will offer medical examinations and treatment services to the people of Sri Lanka until 27 December.
+
+‘Peace Ark’ is a 178m long hospital ship, crewed by 310 personnel under the command of Captain Deng Qiang.
+
+In addition crew members of the ship will explore some of the tourist attractions of the country, during their stay in Colombo. They will also take part in certain programs organised by the Sri Lanka Navy, with a view to further enhance camaraderie between both navies, the statement said.
+
+Additionally, Sri Lanka Navy personnel as well as officer under trainees from the Naval and Maritime Academy and Kotelawala Defence University will have the opportunity to participate in briefings on the operational functions of the ships as well.
+
+◼️
+
+[Data](articles/7a48dd5e.json)
+
+---
+
+### Sri Lanka elected Vice Chair of Governing Council of Common Fund for Commodities
+
+*2024-12-23 02:43:03* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-elected-Vice-Chair-of-Governing-Council-of-Common-Fund-for-Commodities/56-770910) · `en`
+
+Sri Lankan Ambassador to the Kingdom of the Netherlands Rekha Gunasekera was elected Vice Chairperson of the Governing Council of the Common Fund for Commodities (CFC) for the years 2024 and 2025, at the 36th Annual Meeting of the Governing Council held on 12 December.
+
+At the annual meeting, Ambassador Gunasekera delivered the national statement of Sri Lanka and recognised the efforts undertaken by the CFC to improve the livelihoods of developing countries that rely on commodities. She emphasised the crucial role of the CFC in fostering resilience and mitigating global challenges such as poverty, climate change, and natural disasters. The Ambassador further stated that Sri Lanka looks forward to further enhanced cooperation with the CFC to boost, particularly, SME sector development.
+
+In addition to the national statement, Ambassador Gunasekera delivered the regional statement in her capacity as the Vice Chairperson representing the Asia Pacific Regional Group of the CFC.
+
+...
+
+[Data](articles/14698e57.json)
+
+---
+
+### Sajith calls for increased opportunities for Sri Lankans in South Korea
+
+*2024-12-23 02:41:53* · [`dailyftlk`](https://www.ft.lk/news/Sajith-calls-for-increased-opportunities-for-Sri-Lankans-in-South-Korea/56-770909) · `en`
+
+Opposition Leader Sajith Premadasa has called on the Government of South Korea to increase the job quota allocated to Sri Lankan youth in South Korea.
+
+The request was made during a meeting in Colombo this week with Korean Ambassador Miyon Lee. During the discussion, Premadasa highlighted the importance of expanding opportunities for Sri Lankan youth to work in South Korea, emphasising the potential economic benefits for both countries.
+
+The Opposition Leader also expressed his gratitude for the strong and enduring relationship between Sri Lanka and South Korea, requesting that these ties continue to be nurtured in the years to come.
+
+◼️
+
+[Data](articles/481ef95b.json)
+
+---
+
+### Ambassador Majintha Jayesinghe presents Letters of Credence to President Xi Jinping
+
+*2024-12-23 02:40:43* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Majintha-Jayesinghe-presents-Letters-of-Credenceto-President-Xi-Jinping/56-770908) · `en`
+
+Ambassador Majintha Jayesinghe presented his Letters of Credence to the President of the People’s Republic of China Xi Jinping on 12 December at the Great Hall of the People in Beijing, as the Ambassador Extraordinary and Plenipotentiary of Sri Lanka.
+
+During the presentation of the Letters of Credence, Ambassador Jayesinghe conveyed greetings from the Sri Lankan President Anura Kumara Dissanayake and the people of Sri Lanka, to President Xi. President Xi reciprocated greetings to the President and the people of Sri Lanka.
+
+Addressing the envoys who presented credentials, President Xi expressed hope that the envoys would actively promote exchanges, enhance cooperation, and work towards further strengthening the bonds of friendship with China. President Xi reiterated that China is ready to share its development expertise and opportunities with other countries and promote the modernisation of all countries based on peaceful development, mutually beneficial cooperation, and common prosperity.
+
+...
+
+[Data](articles/1da4327c.json)
+
+---
+
+### Sri Lanka celebrates World Meditation Day on 21 December
+
+*2024-12-23 02:36:29* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-celebrates-World-Meditation-Day-on-21-December/56-770907) · `en`
+
+High Commission of India in Sri Lanka, in collaboration with the Swami Vivekananda Cultural Centre, organised two special meditation sessions to observe the United Nations-designated World Meditation Day on 21 December 2024.
+
+The sessions, which took place in Colombo and Ratnapura, provided a unique opportunity for individuals to enhance their mental and physical well-being through the practice of meditation.
+
+The first session was held at the Mayurapathy Meditation Hall in Colombo, while the second session took place simultaneously at Jethvanarama Buddhist Monastery, Kalatuwawa, Ratnapura. Both sessions were attended by a large number of participants and were widely appreciated for their calming and transformative effects.
+
+...
+
+[Data](articles/49fc0cb4.json)
+
+---
+
+### மத்திய வங்கி ஆளுனர், திறைசேரி செயலாளரால் நாட்டில் நிதி நிர்வாகம் முன்னெடுக்கப்படுகிறது - முஜிபுர் ரஹ்மான்
+
+*2024-12-23 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201916) · `ta`
+
+மத்திய வங்கி ஆளுனரும், திறைசேரி செயலாளரும் ரணில் விக்கிரமசிங்க அரசாங்கத்தின் பாதையிலேயே இவர்களை அழைத்துச் செல்கின்றனர். ஜனாதிபதி அநுர நடுவில் அமர்ந்திருப்பதும் இவர்கள் இருவரும் ஆட்சியைக் கொண்டு செல்வதும் மிகத் தெளிவாகத் தெரிவதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
+
+கொழும்பில் ஞாயிற்றுக்கிழமை (22) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஆட்சிக்கு வந்தவுடன் நாணய நிதிய ஒப்பந்தத்திலிருந்து விலகுவதாகக் கூறியவர்களுக்கு இன்று ரணில் விக்கிரமசிங்க அரசாங்கத்தில் எட்டப்பட்ட இணக்கப்பாட்டில் ஒரு எழுத்தைக் கூட மாற்ற முடியாத நிலைமை ஏற்பட்டுள்ளது. மத்திய வங்கி ஆளுனரும், திறைசேரி செயலாளருமே ரணில் விக்கிரமசிங்க அரசாங்கத்தின் பாதையிலேயே இவர்களை அழைத்துச் செல்கின்றனர். ஜனாதிபதி அநுர நடுவில் அமர்ந்திருப்பதும் இவர்கள்இருவரும் ஆட்சியைக் கொண்டு செல்வதும் மிகத் தெளிவாகத் தெரிகிறது.
+
+...
+
+[Data](articles/14be5b30.json)
+
+---
 
 ### Supreme Court case, eradication of corruption, Attorney General's Department: Reform these three to strengthen the rule of law
 
@@ -72,19 +202,31 @@ While Sri Lanka’s IMF deal offers hope, the risks are real. Political instabil
 
 ---
 
-### பாடசாலை விடுமுறை, பண்டிகை காலங்களில் வெளியிடங்களில் உணவு உண்பதால் பல நோய்கள் ஏற்படம் - வைத்திய நிபுணர் தீபால் பெரேரா
+### During school holidays and festive season, many diseases are caused by food
 
 *2024-12-23 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201914) · `ta`
 
-பாடசாலை விடுமுறை மற்றும் பண்டிகை காலத்தை முன்னிட்டு வெளியிடங்களுக்கு சுற்றுலாவுக்காக செல்லும் சிறுவர்கள் சுகாதார மற்ற  உணவகங்களில் உணவு மற்றும் சிற்றுண்டிகளை கொள்வனவு செய்து உண்பதால் வயிற்றுப்போக்கு, மற்றும் டைபைடு காய்ச்சல் ஏற்பட கூடுமென கொழும்பு சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-பண்டிகை காலங்களில் ஏற்படக்கூடிய நோய் நிலைகளில் இருந்து பாதுகாப்பு பெறுவது தொடர்பில் ஞாயிற்றுக்கிழமை (23) கேசரிக்கு பதிலளிக்கையிலேயே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-தற்போது பாடசாலை விடுமுறை அளிக்கப்பட்டுள்ளதுடன் பண்டிகை காலத்தை முன்னிட்டு சிறுவர்கள் வெளியிடங்களுக்கு சுற்றுலாவுக்காக செல்வதும் அதிகரித்துள்ளது. அவ்வாறு சுற்றுலாக்களுக்கு செல்வோர் கண்களில் தென்படும் உணவகங்களிலும் கடைகளிலும் உணவு மற்றும் சிற்றுண்டிகளை கொள்வனவு செய்து உண்பதை வாடிக்கையாகக் கொண்டுள்ளனர்.
+
+School holidays & festivals increase child illness from unsafe food. Parents: Provide healthy meals, avoid oily foods. Diarrhea treatment: Lemon juice, rice porridge, juices, bananas. Dehydration control crucial. Seek doctor if diarrhea persists. Be cautious in water activities. Fire safety during celebrations.
+
+🟩
+
+Deepal Perera, a specialist on the Children's Hospital of the Colombo Child Hospital, said that children who go to tourism and to the outputs during the school holidays and festive season can cause food and snacks at other restaurants.
+
+He said this in response to Kesari on Sunday (23) regarding the protection of the disease during the festive season.
+
+Currently, school holidays have been increased and the boys are traveling for tourism for the festive season.. It is customary for tourists to buy food and snacks in restaurants and shops that see in the eyes.
+
+Thus, when buying food items and drinks in publications, you should act with care. Consuming contaminated foods can lead to diseases such as diarrhea and typhide fever. Therefore, parents should provide healthy food and drinks affected by the children.
 
 ...
 
 [Data](articles/e5893ed6.json)
+
+[Extended Data](ext_articles/e5893ed6.ext.json)
 
 ---
 
@@ -2147,195 +2289,5 @@ The deceased is a 35 -year -old man who lived near the theater in Kalneva.
 [Data](articles/71401e8c.json)
 
 [Extended Data](ext_articles/71401e8c.ext.json)
-
----
-
-### The van crashed into the man who pushed the bicycle!- The elderly kills!
-
-*2024-12-22 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201851) · `ta`
-
-A van crashed into a man pushing a bike in Sri Lanka. The elderly victim died. Police are investigating.
-
-🟩
-
-The man was killed when a van was pushing a bicycle in the Amandoluwa area of ​​the Seetuwa police division, police said.
-
-The van traveling from Udamvidai to Ratholuwa crashed into a man who pushed the bicycle on the street.
-
-The body of the injured was admitted to the hospital.
-
-The van has escaped after the accident and the police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/08cdad15.json)
-
-[Extended Data](ext_articles/08cdad15.ext.json)
-
----
-
-### School student dies;Tiktok prohibition
-
-*2024-12-22 12:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாடசாலை-மாணவன்-உயிரிழப்பு-TikTok-தடை/50-349084) · `ta`
-
-Albania bans TikTok for a year starting Jan 2024. Move follows death of 14-year-old girl. No evidence linking TikTok to incident. World Press Freedom organization seeks explanation from Albanian government on ban decision.
-
-🟩
-
-Foreign media reports that the Albania government has decided to disrupt the Tiktok processor for a year and will be implemented from January next year.
-
-Last month in Albania, a 14 -year -old schoolgirl was reportedly banned from the death of a sharp weapon and the impact of the children.
-
-However, the Dick Doc said it was expecting an emergency explanation from the Albanian government on the proposed tick talk ban and that the school student or the attacker had no evidence for the attackers.
-
-◼️
-
-[Data](articles/6fab0468.json)
-
-[Extended Data](ext_articles/6fab0468.ext.json)
-
----
-
-### 13 lives killed in road accidents
-
-*2024-12-22 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204608) · `si`
-
-13 lives lost in 10 road accidents nationwide over 24 hours. Police warn increased vigilance during festive season. 2,243 fatalities reported this year; 22,967 accidents, including 2,141 fatalities, since January 1. 4,552 serious injuries recorded.
-
-🟩
-
-Thirteen people were killed in 10 road accidents in different parts of the country in the last 24 hours.
-
-Police said the accidents were reported from Hatton, Pintonuwa, Marawila, Marawila, Ambalangoda, Hettipola, Batticaloa, Mirihana, Kebithigollewa and Seeduwa areas.
-
-Police Media Spokesperson SSP Buddhika Manatunga said that he should pay more attention to the routes during the festive season.
-
-"The festive season is increasingly a traffic and pedestrians, as well as pedestine. As pedestrians, you have to travel very carefully when you walk the road. And as a driver, you should drive the road with very care. "
-
-Meanwhile, 2,243 persons were killed in accidents this year, police said.
-
-At the 1st of January, 22,967 road accidents have been reported across the country, of which 2,141 were fatal accidents.
-
-4,552 people who were seriously injured in accidents during that period.
-
-◼️
-
-[Data](articles/16513017.json)
-
-[Extended Data](ext_articles/16513017.ext.json)
-
----
-
-### Sri Lanka’s 2025 holiday calendar: Here’s the full list
-
-*2024-12-22 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104417/sri-lankas-2025-holiday-calendar-heres-the-full-list) · `en`
-
-With just nine days remaining until the start of 2025, the Government Printing Department has released the official calendar for the upcoming year, which includes 26 public holidays. Among these, April stands out as the month with the highest number of holidays, offering four in total.
-
-April’s Festivities: The Sinhala and Tamil New Year falls on Monday, April 14, preceded by a preparatory day on Sunday, April 13. Additionally, Vesak Full Moon Poya Day, celebrated on Monday, May 12, is another significant date in the year.
-
-Special Bank Holiday: A special bank holiday has been declared on Tuesday, April 15, following the Sinhala and Tamil New Year.
-
-Christmas on a Weekday: Christmas Day, December 25, will fall on a Thursday, providing an opportunity for an extended holiday weekend.
-
-The Government Printing Department has emphasized that any changes to public holidays will be communicated through official gazette notifications.
-
-The Full Moon Poya holidays were approved by the Poya Committee.
-
-...
-
-[Data](articles/397d6be3.json)
-
-[Extended Data](ext_articles/397d6be3.ext.json)
-
----
-
-### The next move
-
-*2024-12-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201848) · `ta`
-
-Ranil Wickremesinghe signed Edka agreement before March 2022 to address Sri Lanka's economic crisis. The deal aimed to attract foreign direct investment from individuals and companies through IMF partnerships.
-
-🟩
-
-The then President Ranil Wickremesinghe was trying to sign the agreement before March last year, with the country's economic bankruptcy as negotiations on the 'Edka' agreement have been launched after decade.. Through the 'Edka' agreement, he made a move with the International Monetary Fund's agreements with the International Monetary Fund's agreements on the opportunities to make foreign direct investment by parties, including foreign individuals and private companies.
-
-◼️
-
-[Data](articles/d0127d23.json)
-
-[Extended Data](ext_articles/d0127d23.ext.json)
-
----
-
-### The time has passed through the confusion within the party;The root cause of chaos is flour!- Chanakyan Special Chemistry
-
-*2024-12-22 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201858) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Party turmoil caused by flour shortage. Leader resigns, seeking election strategy. Meeting with president focuses on flood relief instead of Tamil issues.
-
-🟩
-
-“My position is to strengthen the party and move forward in a way that can face the next elections.. Can we do nothing for the fact that the leader who resigned from the party is in desire.. There will be a schedule of what matters to discuss what matters during the meeting with the president. There was nothing like that. But, when he examined the incident, it was said that the time was only requested to talk about floods.. On the contrary, Sridharan did not hear the time to talk about the Tamil national problem ........ ”
-
-◼️
-
-[Data](articles/8523267e.json)
-
-[Extended Data](ext_articles/8523267e.ext.json)
-
----
-
-### The sea turbulent - the warning
-
-*2024-12-22 11:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-கொந்தளிக்கும்-விடுக்கப்பட்ட-எச்சரிக்கை/175-349083) · `ta`
-
-Strong winds forecasted in western, central Bay of Bengal and southeast Sri Lanka. Fishing boats warned due to turbulent seas and potential storms.
-
-🟩
-
-The Department of Meteorology has announced that the wind speed in the western, central and Bay of Bengal may increase by 55-60 km / h.
-
-As a result, many days of fishing boats working in the deep sea have been warned.
-
-Due to this, the seas can occasionally be turbulent and heavy rainfall or thunderstorms around the seas.
-
-The announcement also indicated that the speed of wind in the southeastern deep sea of ​​Sri Lanka could increase by up to 55-60 km (55-60 miles), so that the sea is turbulent and sometimes very turbulent.
-
-Due to this, the Department of Meteorology has asked the community to engage in fishing and maritime activities in the area.. Remble
-
-◼️
-
-[Data](articles/48368dd0.json)
-
-[Extended Data](ext_articles/48368dd0.ext.json)
-
----
-
-### The corpse of the dead infant from the bottom of the bridge
-
-*2024-12-22 11:50:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேம்பாலத்தின்-கீழிருந்து-இறந்த-சிசுவின்-சடலம்-மீட்பு/175-349082) · `ta`
-
-Infant corpse found under Dematagoda Bridge. Police report: Baby likely one-day-old, died before hospital admission.
-
-🟩
-
-Police said an infant was found abandoned under the Dematagoda Bridge.
-
-According to information provided by a passenger on the road, the body was found in a cloth when he went to the spot.
-
-Rescued infant, was admitted to the Borella Seemati Hospital. However, the police said that the infant was already dead, and the doctors who examined the infant said.
-
-Police say the baby, who has a good physique, may have been born a day ago.
-
-◼️
-
-[Data](articles/ae3289ca.json)
-
-[Extended Data](ext_articles/ae3289ca.ext.json)
 
 ---

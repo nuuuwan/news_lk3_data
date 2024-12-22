@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 13:12:51**
+As of **2024-12-22 13:26:58**
 
 ## Newspaper Stats
 
-*Scraped **61,419** Articles*
+*Scraped **61,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,848
+adalk | 5,849
 adaderanalk | 7,499
 tamilmirrorlk | 8,788
 virakesarilk | 10,132
@@ -26,49 +26,75 @@ adaderanasinhalalk | 10,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,206 (99.7%) of 61,419 articles have been extended.
+61,209 (99.7%) of 61,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### வேட்பாளர் பட்டியலை பொலிஸில் சமர்ப்பிக்க நடவடிக்கை
+### Action to submit the candidate list to the police
 
 *2024-12-22 13:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-பட்டியலை-பொலிஸில்-சமர்ப்பிக்க-நடவடிக்கை/175-349087) · `ta`
 
-பொதுத் தேர்தலில் போட்டியிட்டதையடுத்து வருமானம் மற்றும் செலவு அறிக்கையை சமர்ப்பிக்கத் தவறிய வேட்பாளர்களின் பட்டியலை இலங்கை தேர்தல் ஆணைக்குழு பொலிஸிடம் வழங்க உள்ளது.
+Election Commission Sri Lanka: Submitting candidate list to police for failing to report income/expenditure. Names of compliant candidates displayed at District Secretariats/Election Offices.
 
-வருமானம் மற்றும் செலவு அறிக்கைகளை சமர்ப்பித்த வேட்பாளர்களின் பெயர்கள் மாவட்ட செயலகங்கள் மற்றும் மாவட்ட தேர்தல் அலுவலகங்களில் காட்சிப்படுத்தப்பட்டுள்ளதாக அவர் மேலும் குறிப்பிட்டார்.
+🟩
+
+The Election Commission of Sri Lanka is to provide the list of candidates who failed to submit the income and cost report after contesting the general election.
+
+He added that the names of the candidates who submitted income and expenditure reports have been displayed in the District Secretariats and District Election Offices.
 
 ◼️
 
 [Data](articles/8ed14836.json)
 
+[Extended Data](ext_articles/8ed14836.ext.json)
+
 ---
 
-### புதிய வர்த்தக வாய்ப்புகளைத் தூண்டும் ஜனாதிபதி அநுர குமாரவின் இந்திய விஜயம்
+### President Anura Kumara's visit to India
 
 *2024-12-22 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201856) · `ta`
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் சமீபத்திய இந்திய விஜயம் சந்தேகத்திற்கு இடமின்றி வர்த்தகம், சுற்றுலா, எரிசக்தி மற்றும் டிஜிட்டல் மாற்றம் போன்ற துறைகளில் இலங்கை வர்த்தக சமூகத்திற்கு குறிப்பிடத்தக்க வாய்ப்புகளை திறந்து வைத்துள்ளது. இருப்பினும், இந்த வாய்ப்புகள் அதிகரித்த போட்டி, சார்பு அபாயங்கள் மற்றும் உள்ளூர் தொழில்கள் மற்றும் இறையாண்மைக்கு சாத்தியமான அச்சுறுத்தல்கள் உட்பட சவால்களுடன் வருகின்றன.
+Here's a summary of President Anura Kumara's visit to India in approximately 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake's India visit boosts trade, tourism, energy, and digital sectors. Opportunities arise but face challenges like increased competition, risks, and threats to local businesses and national sovereignty.
+
+🟩
+
+President Anura Kumara Dissanayake's latest visit has undoubtedly opened significant opportunities for the Sri Lankan trade community in the sectors of trade, tourism, energy and digital change.. However, these opportunities come with challenges, including increased competition, pro -risks and potential threats to local businesses and sovereignty.
 
 ◼️
 
 [Data](articles/349986ea.json)
 
+[Extended Data](ext_articles/349986ea.ext.json)
+
 ---
 
-### கெபித்திகொல்லேவ பகுதியில் மோட்டார் சைக்கிள் - லொறி விபத்து ; ஒருவர் பலி
+### Motorcycle motorcycle - lorry accident;One killed
 
 *2024-12-22 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201857) · `ta`
 
-அனுராதபுரம் - கெபித்திகொல்லேவ பொலிஸ் பிரிவுக்குட்பட்ட பதவிய வீதியில் உஸ்கொல்லேவ பகுதியில் வைத்து மோட்டார் சைக்கிள் ஒன்று கெப் வண்டி மீது மோதி, வேகக் கட்டுப்பாட்டை இழந்து, எதிரே வந்த சிறிய ரக லொறியுடன் மோதியதில் ஒருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-உயிரிழந்தவர் கல்னேவ பிரதேசத்தில் அமைந்துள்ள திரையரங்கத்துக்கு அருகில் வசித்த 35 வயது நபர் ஆவார்.
+
+
+Motorcycle collision: One dead. 35-year-old man killed after his bike crashed into a speeding taxi, lost control, and hit a small truck in Uskollawa, Anuradhapura-Kepithikolleva police division.
+
+🟩
+
+One person was killed when a motorcycle collided with a speeding control of a cab, losing control and colliding with a small lorry in the Uskollawa area on the post of the Anuradhapura - Kepithikolleva police division.
+
+The deceased is a 35 -year -old man who lived near the theater in Kalneva.
 
 ◼️
 
 [Data](articles/71401e8c.json)
+
+[Extended Data](ext_articles/71401e8c.ext.json)
 
 ---
 
@@ -371,6 +397,26 @@ In the letter of Al-Meesan Foundation, one of the sacred Ramadan, one of the sac
 [Data](articles/54b3d903.json)
 
 [Extended Data](ext_articles/54b3d903.ext.json)
+
+---
+
+### දෙමටගොඩ පාලම යට  දමා ගොස් බිලිඳිය ජිවිතක්ෂයට පත්වෙලා
+
+*2024-12-22 10:58:18* · [`adalk`](https://www.ada.lk/breaking_news/දෙමටගොඩ-පාලම-යට--දමා-ගොස්-බිලිඳිය-ජිවිතක්ෂයට-පත්වෙලා/11-413767) · `si`
+
+මාර්ගයේ ගමන් ගත් පුද්ගලයකු දෙමටගොඩ පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක කපිල බණ්ඩාර මහතා වෙත ලබා දුන් තොරතුරක් අනුව වහා ක්‍රියාත්මක වූ ඒ මහතා පොලිස් කාන්තාවක් සමග එම ස්ථානයට ගොස් සිදු කළ පරික්ෂාවේදී රෙදි කැබැල්ලක ඔතන ලද බිලිදිය දැක ඇත.
+
+වහා ක්‍රියාත්මක වු ස්ථානාධිපතිවරයා බිළිඳියව ක්ෂණිකව කොළඹ රිජියේ ආර්යා ළමා රෝහල වෙත ඇතුල් කිරීමට පියවර ගෙන තිබූ අතර ඒ ඒ වන විටත් බිළිඳිය මිය ගොස් සිටි බවට වෛද්‍යවරුන් විසින් පරීක්ෂා කර දැනුම් දුන් බව පොලිසිය කියයි.
+
+හොඳින් ශරීරය වැඩි ඇති  මෙම බිළිඳිය දිනකට හෝ දෙකකට පෙර ඉපදෙන්නට ඇති බවට සැක කරන බව පොලිසිය කියයි.
+
+මෙම අපරාධය සම්බන්ධයෙන් අපරාධ පරීක්ෂණාගාර නිලධාරීන් පොලිස් නිල සුනඛ අංශය සහ විශේෂඥ සහාය ලබා ගැනීමට කටයුතු කරන බව පොලිසිය සඳහන් කරයි.
+
+බිලිදු ගැහැණු දරුවාගේ මළ සිරුර මේ වන විට රිජ්වේ ආර්යා ළමා රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර භාරකරුවෙකු සොයා ගැනීම සඳහා විමර්ශන ආරම්භ කර ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+◼️
+
+[Data](articles/3584be20.json)
 
 ---
 
@@ -2253,31 +2299,5 @@ Business associations have said that the prices of some commodities may be furth
 [Data](articles/ec97d47e.json)
 
 [Extended Data](ext_articles/ec97d47e.ext.json)
-
----
-
-### 15 former ministers flight details leak
-
-*2024-12-21 13:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/15-முன்னாள்-அமைச்சர்களின்-விமான-பயண-விபரங்கள்-கசிவு/175-349037) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-15 former Sri Lankan ministers used Air Force aircraft for travel between 2019-2020. Details revealed under RTI Act show varying usage patterns among officials.
-
-🟩
-
-In the past, 15 former ministers have used Sri Lanka Air Force aircraft for various travel and transportation, according to the Sri Lanka Air Force headquarters.
-
-Ten aircraft for former minister Mangala Samaraweera, one flight to former minister Dayagamage, three flights for former minister Patali Champika Ranawaka, six flights for former minister Ravi Karunanayake, one flight to former minister Vajira Abeywardena, three flights for former minister Rajitha SenaratneFormer Minister Sajith Premadasavu has two flights to former minister John Amaratunga, two flights to former minister Ajith Niwad Kabrall, former minister Roshan Ranasinghe, former minister Johnston Fernando and former minister Namal Rajapaksa and former minister Namal RajapaksaThey have taken both flights and made trips.
-
-These ministers used Air Force aircraft for their transportation from 2019 to 2020.
-
-...
-
-[Data](articles/7505c69a.json)
-
-[Extended Data](ext_articles/7505c69a.ext.json)
 
 ---

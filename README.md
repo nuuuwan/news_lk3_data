@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 08:49:48**
+As of **2024-12-22 09:03:03**
 
 ## Newspaper Stats
 
-*Scraped **61,375** Articles*
+*Scraped **61,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,843
+adalk | 5,844
 adaderanalk | 7,488
 tamilmirrorlk | 8,777
 virakesarilk | 10,123
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,179 (99.7%) of 61,375 articles have been extended.
+61,180 (99.7%) of 61,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,29 +86,35 @@ At the same time, the Department of Meteorology has announced that there will be
 
 ---
 
-### පසුගිය වසරේදී ආර්ථිකයට වැඩිම දායකත්වය බස්නාහිරින්
+### Easily contributed to the economy last year
 
 *2024-12-22 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204602) · `si`
 
-පසුගිය 2023 වසරේ ශ්‍රී ලංකාවේ නාමික දළ දේශීය නිෂ්පාදනය සඳහා ඉහළම දායකත්වය ලබා දීමට බස්නාහිර පළාත සමත්ව ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+Western Province leads Sri Lanka's GDP growth in 2023, contributing 43.7%. Services and industries drive this high percentage. Other top contributors: Wayamba (2nd), Central (3rd). Minor decreases seen in some provinces. Overall GDP reached Rs. 27,630 billion.
 
-නිවේදනයක් නිකුත් කරමින් මහ බැංකුව සඳහන් කර ඇත්තේ එහි අගය 43.7%ක් වන බවය.
+🟩
 
-කෙසේ නමුත් එම දායකත්වය පෙර වසර හා සසඳන විට සුළු අඩුවීමක් පෙන්නුම් කර ඇති බවද එහි සඳහන් වේ.
+The Western Province, the Central Bank of Sri Lanka (SLTB) has contributed to the highest contribution to Sri Lanka's nominal gross domestic product in 2023.
 
-බස්නාහිර පළාත තුළ මෙම දායකත්වය සඳහා සේවා සහ කර්මාන්ත අංශ කැපී පෙනෙන දායකත්වයක් ලබා දී තිබේ.
+In a statement, the Central Bank stated that it is 43.7%.
 
-මේ අතර සමස්ත දළ දේශීය නිෂ්පාදනය සඳහා දෙවන සහ තෙවන ඉහළම දායකත්වය ලබා දීමට වයඹ සහ මධ්‍යම පළාත් සමත් ව තිබේ.
+However, it has shown that the contribution has shown a small decrease compared to the previous year.
 
-ඒ අනුව වයඹ පළාත 10.9%ක් ද මධ්‍යඹ පළාත 10.3%ක් ලෙසද එහිදී දායකත්වය ලබා දී ඇත.
+The services and industry sectors have contributed significantly to this contribution in the Western Province.
 
-මහ බැංකුව පැවසුවේ බස්නාහිර පළාතේ දායක්ත්වය සුළු අඩු වීමක් පෙන්නුම් කළද 2022 වසරට සාපේක්ෂව 2023 වසරේදී මධ්‍යම, උතුරු මැද, උතුරු හා දකුණු පළාත්වලින් දක්වන ලද දායකත්වය සාපේක්ෂව ඉහළ ගොස් තිබේ.
+Wayamba and Central provinces have been able to provide the second and third highest contribution to the total gross domestic product.
 
-තවද පෙර වසරට සාපේක්ෂව අඩු වේගයකින් වුවද සියලුම පළාත්වල නාමික දළ දේශීය නිශ්පාදනය 2023 වසරේදී වර්ධනය වී තිබේ.
+Accordingly North Western Province is 10.9% and the Middle Province has been contributed 10.3%.
+
+The Central Bank said that the contribution of the Western Province was a minor reduction in the middle, North Central, North and Southern provinces.
+
+Almost 2023, nominal gross domestic product in all provinces has grown in 2023.
 
 ...
 
 [Data](articles/76e3ae79.json)
+
+[Extended Data](ext_articles/76e3ae79.ext.json)
 
 ---
 
@@ -135,6 +141,26 @@ At the same time, the Department of Meteorology has announced that there will be
 ...
 
 [Data](articles/410a8792.json)
+
+---
+
+### රාජ්‍ය ආයතන ගැන විමර්ශනය කිරිමට කමිටුවක්
+
+*2024-12-22 07:37:23* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ආයතන-ගැන-විමර්ශනය-කිරිමට-කමිටුවක්/11-413762) · `si`
+
+අප රටේ රාජ්‍ය සේවය විධිමත් රාජ්‍ය යාන්ත්‍රණයක් බවට පත් කර ගැනීමේ අභියෝගය අප ඉදිරියේ පවතින බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+අප රටේ පවතින රාජ්‍ය ආයතන පිළිබඳ යළි විමර්ශනය කිරීමට පත් කළ නව කමිටුව මඟින් දේශපාලනිකව සිදුවන බලපෑම පිළිබඳ නොතකා, ඒවා පිළිබඳ තීරණ ගැනීමට කටයුතු කරන බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ  නාරාහේන්පිට ‘නිල මැදුර’ ගොඩනැගිල්ලේ ස්වදේශ කටයුතු අමාත්‍යාංශ ශ්‍රවණාගාරයේ  දිස්ත්‍රික් ලේකම්/දිසාපති සමුළුව අමතමිනි.
+
+ආණ්ඩුවේ ඒජන්තවරයාගේ සිට දිස්ත්‍රික් ලේකම් දක්වා තනතුරු නාම වෙනස් වූ මෙම සේවය වසර 200ක් පමණ පැරැණි බවත්, අපේ රට නව දිශානතියකට යොමු කිරීම සඳහා එමඟින් විශාල කාර්යභාරයක් ඉටු කර ඇති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා සඳහන් කළේය.
+
+එ‌ෙහත් අවසාන අරමුණ හා ඉලක්කය පිළිබඳ වත්මන් තත්ත්වය සෑහීමකට පත් විය නොහැකි බව සඳහන් කළ ජනාධිපතිවරයා රාජ්‍ය ආයතනයකින් සාධාරණ සේවයක් ලබා ගැනීම පිළිබඳ ජනතාව තුළ කිසිදු විශ්වාසය නොමැති බවත් රාජ්‍යක් ලෙස මුළු
+
+...
+
+[Data](articles/dd7a3cb3.json)
 
 ---
 
@@ -370,7 +396,7 @@ Sri Lanka completed a restructuring of sovereign bonds on December 20, and the c
 
 “All the hard work and sacrifice, particularly by the people of Sri Lanka, has now paid off and Sri Lanka has the opportunity for a fresh start in the New Year,” Siriwardana said in an x.com post.
 
-“However, this growth cannot come at he expense of economic stability,” Siriwardana said.
+“However, this growth cannot come at the expense of economic stability,” Siriwardana said.
 
 “All too often in the past, whenever the economy has stabilized following a shock, we are too eager to provide unsustainable fiscal and monetary stimulus to re-invigorate growth.
 
@@ -2345,23 +2371,5 @@ CJS unveiled three spectacular collections for the Christmas season combining th
 [Data](articles/6600693a.json)
 
 [Extended Data](ext_articles/6600693a.ext.json)
-
----
-
-### NDB’s Santa promotion nears its end
-
-*2024-12-21 04:46:00* · [`islandlk`](http://island.lk/ndbs-santa-promotion-nears-its-end/) · `en`
-
-NDB Bank’s much-loved tradition of bringing Santa to your doorstep is drawing to a close. With just a few days remaining until the 31st of December 2024, families still have the chance to welcome Santa home and create magical memories that will last a lifetime.
-
-Parents can delight their children by simply making a deposit of Rs. 50,000 or more into their child’s NDB Shilpa Children’s Savings Account. As part of this festive tradition, your child will receive a special gift of their choice, delivered right to your doorstep by Santa himself – spreading the joy and wonder of Christmas like never before.
-
-The NDB Shilpa Children’s Savings Account encourages children to embrace the importance of saving from an early age, with a range of exclusive benefits such as double interest rates, special gift schemes, free hospitalisation cover, life insurance cover, and academic rewards for excellence in key examinations.
-
-...
-
-[Data](articles/9e7b7632.json)
-
-[Extended Data](ext_articles/9e7b7632.ext.json)
 
 ---

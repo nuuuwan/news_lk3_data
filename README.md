@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 21:12:24**
+As of **2024-12-22 21:43:01**
 
 ## Newspaper Stats
 
-*Scraped **61,487** Articles*
+*Scraped **61,488** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,860
 adaderanalk | 7,507
-tamilmirrorlk | 8,794
+tamilmirrorlk | 8,795
 virakesarilk | 10,165
 adaderanasinhalalk | 10,623
 
@@ -26,27 +26,57 @@ adaderanasinhalalk | 10,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,258 (99.6%) of 61,487 articles have been extended.
+61,261 (99.6%) of 61,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### பிரிக்ஸ் மாநாட்டின் உறுப்புரிமை பெற்றுக்கொள்ள தலையிடுமாறு இந்திய பிரதமரை கோரியதன் மூலம் ஜனாதிபதி நாட்டை இழிவுபடுத்தியுள்ளார் - டியூ குணசேகர குற்றச்சாட்டு
+### Mother and daughter killed
+
+*2024-12-22 20:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்ஃபி-எடுக்கச்-சென்ற-தாயும்-மகளும்-பலி/175-349103) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Mother-daughter duo dies taking selfie near train track. They were attempting to capture a photo of a speeding train from Kankesanthurai to Colombo near Anuradhapura station. The incident highlights the dangers of taking selfies in risky locations."
+
+🟩
+
+Anuradhapura police say that the daughter and her mother, who had taken a selfie to take a selfie, had died in a train at the Anuradhapura Public Stadium.
+
+The accident occurred when the accident occurred when they tried to take a selfie photo of the high -speed train from Kankesanthurai to Colombo near the Anuradhapura station from Ratnapura.
+
+◼️
+
+[Data](articles/29973b9a.json)
+
+[Extended Data](ext_articles/29973b9a.ext.json)
+
+---
+
+### The President has defamed the country by demanding the Prime Minister of India to intervene to get a member of the BRICS conference -Due Gunasekera
 
 *2024-12-22 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201911) · `ta`
 
-இலங்கைக்கு பிரிக்ஸ் உறுப்புரிமை பெற்றுக்கொள்ள தலையிடுமாறு இந்திய பிரதமரை கேட்டுக்கொண்டுள்ளதன் மூலம் ஜனாதிபதி இலங்கையை இழிவுபடுத்தியுள்ளார் என இலங்கை கம்யூனிஸ்ட் கட்சியின் தவிசாளரும் முன்னாள் அமைச்சருமான டியூ குணசேகர தெரிவித்தார்.
+Sri Lanka's President criticized for seeking India's help for BRICS membership, deemed humiliating by opposition leader Du Gunasekera.
 
-பத்திரிகை ஒன்றின் 60ஆவது வருட நிகழ்வு சனிக்கிழமை (21) கட்சி தலைமை காரியாலய கேட்போர் கூடத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-இந்தியாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டிருந்த ஜனாதிபதி அநுரகுமார திஸாநாயக்க, அங்கு இந்திய பிரதமர் நரேந்திர மோடியுடன் கூட்டு பிரகடனம் ஒன்றை வெளியிட்டிருந்தார். அதில் ஜனாதிபதி அநுரகுமார திஸாநாயக்க, பிரிக்ஸ் நாடுகளின் உறுப்புரிமை பெற்றுக்கொள்ள தலையிடுமாறு இந்திய
+Former Minister and former minister of the Communist Party of Sri Lanka, Du Gunasekera, said that the President had humilled Sri Lanka by asking the Indian Prime Minister to intervene to get a BRICS membership in Sri Lanka.
 
-பிரதமரிடம் கோரிக்கை முன்வைத்திருந்தார். ஜனாதிபதி இதனை அவரிடம் தனிப்பட்ட முறையில் கேட்டிருந்தால் எந்த பிரச்சினையும் இல்லை.
+The 60th anniversary of the newspaper was held on Saturday (21) at the party headquarters auditorium. He said this while addressing the gathering.
+
+President Anura Kumara Dissanayake, who was on an official visit to India, issued a joint declaration with Indian Prime Minister Narendra Modi.. President Anura Kumara Dissanayake said that India should intervene to get a member of the BRICS countries
+
+Had made a request to the Prime Minister. There was no problem if the president had asked him personally.
 
 ...
 
 [Data](articles/238fab4e.json)
+
+[Extended Data](ext_articles/238fab4e.ext.json)
 
 ---
 
@@ -347,6 +377,8 @@ Accordingly, the police officers will evaluate drivers to detect whether they ar
 ...
 
 [Data](articles/ce3bbb8b.json)
+
+[Extended Data](ext_articles/ce3bbb8b.ext.json)
 
 ---
 
@@ -2207,25 +2239,5 @@ The Director has promised to investigate the matter and take appropriate action.
 ...
 
 [Data](articles/ecd9fc4f.json)
-
----
-
-### Chinese naval hospital ship ‘Peace Ark’ visits Sri Lanka
-
-*2024-12-22 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104409/chinese-naval-hospital-ship-peace-ark-visits-sri-lanka) · `en`
-
-The Chinese People’s Liberation Army Navy hospital ship ‘Peace Ark’ arrived in Colombo on a formal visit on Saturday (December 21).
-
-The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions, said Sri Lanka Navy in a statement.
-
-‘Peace Ark’ is a 178m long hospital ship, crewed by 310 personnel under the command of Captain Deng Qiang.
-
-As part of the official visit, the hospital ship ‘Peace Ark,’ in collaboration with the Embassy of the People’s Republic of China in Sri Lanka will organize medical treatments and clinics onboard. They will be conducted by the medical staff of ‘Peace Ark’ and Sri Lanka Navy Medical Department.
-
-In addition crew members of the ship will explore some of the tourist attractions of the country, during their stay in Colombo. They will also take part in certain programmes organized by the Sri Lanka Navy, with a view to further enhance camaraderie between both navies, the statement said.
-
-...
-
-[Data](articles/6e74db88.json)
 
 ---

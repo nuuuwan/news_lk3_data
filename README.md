@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 23:43:20**
+As of **2024-12-23 00:02:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,277 (99.6%) of 61,502 articles have been extended.
+61,279 (99.6%) of 61,502 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -106,41 +106,63 @@ Meanwhile, the ADB has reaffirmed its commitment to addressing challenges in the
 
 ---
 
-### சட்ட விரோத மதுபானம் தொடர்பில் நாடளாவிய ரீதியில் ஐவர் கைது !
+### Five arrests nationwide over illegal alcoholism
 
 *2024-12-22 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201906) · `ta`
 
-நேற்று சனிக்கிழமை (21) பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளினால் மேற்கொள்ளப்பட்ட சட்டவிரோத மதுபானம் தொடர்பான சோதனைகள் பற்றிய அறிக்கையை பொலிஸ் ஊடகப்பிரிவு  வெளியிட்டுள்ளது.
+Here's a summary of 200 characters:
 
-இதே வேளை , 200 லீற்றர் சட்ட விரோத மதுபானத்துடன் 695 லீற்றர் கோடாவும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+
+National crackdown: Police arrest 5 for illegal alcohol sales. STF seizes 695L Koda, 200L illicit liquor.
+
+🟩
+
+The police media unit issued a report on illegal liquor tests carried out by Special Task Force officers on Saturday (21).
+
+At the same time, 695 liters of Koda has been seized by the police with 200 liters of illegal liquor.
 
 ◼️
 
 [Data](articles/4717d2dc.json)
 
+[Extended Data](ext_articles/4717d2dc.ext.json)
+
 ---
 
-### කලකට පසු ජෝ රූට් එංගලන්ත එක්දින කණ්ඩායමට
+### After some time Joe Root to the ODI team
 
 *2024-12-22 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204619) · `si`
 
-වත්මන් ටෙස්ට් ක්‍රිකට් පිටියේ ප්‍රබලම පිතිකරුවා ලෙසින් සැලකිය හැකි එංගලන්තයේ ජෝ රූට් යළිත් වරක් එරට එක්දින සංචිතයට කැඳවීමට එංගලන්ත ක්‍රිකට් තේරීම් කමිටුව තීරණය කර ඇත.
+Here's a summary of 200 characters:
 
-එංගලන්තය කණ්ඩායම ලබන වසර ආරම්භයේදී සිදුකිරීමට නියමිත ඉන්දීය සංචාරය සහ ඉන් අනතුරුව ඇරඹෙන 'ශූරයන්ගේ කුසලානය' වෙනුවෙන් මෙම කැඳවීම සිදුකර තිබේ.
 
-ජෝ රූට් ඉකුත් 2023 වසරේ නොවැම්බර් මාසයේ පැවති එක්දින ලෝක කුසලාන ක්‍රිකට් තරගාවලියෙන් පසු මේ දක්වා එංගලන්තය නියෝජනය කරමින් කිසිදු සීමිත පන්දුවාර ක්‍රිකට් තරගයකට හෝ ක්‍රීඩාකර නොමැත.
 
-කෙසේ නමුත් එක්දින තරගවලදීද කැපී පෙනෙන පිතිකරුවෙකු ඔහු, එංගලන්තය නියෝජනය කරමින් එක්දින ඉනිම් 160කදී ලකුණු 6,522ක් රැස්කර තිබේ.
+Joe Root returns to ODI squad after Test cricket. England visits India in early 2024 for Champions Trophy. Root last played ODI on Nov 19, 2023. He has scored 6,522 runs in 160 ODIs. Currently playing Test cricket with 12,972 Test runs. Aged 33, Root has claimed 36 centuries and half-centuries. England will play over 20 T20s and 3 ODIs against India before touring Pakistan.
 
-වත්මන් ටෙස්ට් ක්‍රිකට් පිටියේ අංක එකේ පිතිකරුවා ජෝ රූට්, ටෙස්ට් ලකුණු 12,972ක් රැස්කර 13,000 කඩයිම ආසන්නයට පැමිණ සිටියි.
+🟩
 
-ශතක 36කට හා අර්ධ ශතක 65කට හිමිකම් කියන ඔහු තවමත් 33 හැවිරිදි වියේ පසුවෙයි.
+The England has decided to summon Joe Root again to the One-One Day Pool after the present Test cricket.
 
-'ශූරයන්ගේ කුසලානය' සඳහා එංගලන්ත කණ්ඩායම පාකිස්තානය බලා පිටත්ව යාමට පෙර ජනවාරි සහ පෙබරවාරි මාසවලදී ඉන්දීය සංචාරය සිදුකරනු ලබයි.
+England team to visit India on the beginning of next year and the call has been called for the 'Champions' Trophy.
 
-...
+Joe Root was no longer an odd cricket match, representing England until the 19th day of November 2023.
+
+However, a significant batsman has also scored 6,522 runs in 160 in ODIs.
+
+Joe Root, a batsman at the current test cricket, and 12,972 Tests marks and shop 13,000.
+
+He is still 33-year-old, claimed for 36 centuries and half centuries.
+
+England team to visit Indian tour in January and February before leaving Pakistan for 'Trophy' Trophy.
+
+They are to play more than twenty T20 and 3 ODIs with India.
+
+◼️
 
 [Data](articles/633b0c9d.json)
+
+[Extended Data](ext_articles/633b0c9d.ext.json)
 
 ---
 

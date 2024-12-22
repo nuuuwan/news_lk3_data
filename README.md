@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 10:14:42**
+As of **2024-12-22 10:28:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,186 (99.7%) of 61,382 articles have been extended.
+61,191 (99.7%) of 61,382 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,17 +82,23 @@ The Director has promised to investigate the matter and take appropriate action.
 
 ---
 
-### கிளிநொச்சியில் மோப்ப நாய்களுடன் சோதனை
+### Testing with mop dogs in Kilinochchi
 
 *2024-12-22 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளிநொச்சியில்-மோப்ப-நாய்களுடன்-சோதனை/175-349062) · `ta`
 
-கிளிநொச்சி மாவட்டத்தில் வீதி ஒழுங்குகளை மீறுபவர்கள், சட்ட விரோத செயற்பாடுகளில் ஈடுபடுபவர்கள் தொடர்பாகவும் பொலிஸாருக்கு கிடைத்த ரகசிய தகவலை அடுத்து ஏ-9 வீதியில், மோப்ப நாய்களை வைத்து வாகனங்களை சோதனைக்கு உட்படுத்தும் நடவடிக்கைகளை மேற்கொண்டனர்.
+Kilinochchi police conduct vehicle checks along A-9 road, focusing on traffic violations and illegal activities. Road raid planned for Saturday to prevent incidents during upcoming Natar festival.
 
-எதிர்வரும் 25 ஆம் திகதி நத்தார் பண்டிகையின் போது எவ்வித அசம்பாவிதங்களும் இடம்பெறக்கூடாது என்ற என்ற நோக்கிலும் கிளிநொச்சி பொலிஸார் வீதி சோதனைகளை சனிக்கிழமை (21) முன்னெடுத்திருந்தனர் என தகவல்கள் கிடைத்துள்ளன.
+🟩
+
+In the Kilinochchi district, the police have taken steps to check the vehicles on the A-9 road following confidential information about those who violate road arrangements and illegal activities in the Kilinochchi district.
+
+It is reported that the Kilinochchi police have carried out a road raid on Saturday (21) in order not to take any incident during the festival of Natar on the 25th.
 
 ◼️
 
 [Data](articles/6dc1144a.json)
+
+[Extended Data](ext_articles/6dc1144a.ext.json)
 
 ---
 
@@ -170,23 +176,35 @@ At the same time, the Department of Meteorology has announced that there will be
 
 ---
 
-### ජපන් ජාතිකයා සිංහරාජයේ ජාන කොල්ලයකද?
+### Is the Japanese genes in Sinharaja
 
 *2024-12-22 08:07:29* · [`adalk`](https://www.ada.lk/breaking_news/ජපන්-ජාතිකයා-සිංහරාජයේ-ජාන-කොල්ලයකද-/11-413763) · `si`
 
-සිංහරාජ වනාන්තරයේ කලවාන කුඩව පිවිසුම තුළ  දුර්ලභ ඝනයේ දේශීය  ඖෂධ පෑලෑටි එකතු කර රැගෙන යාම සදහා ළග තබාගෙන සිටි ජපන් ජාතිකයකු ඊයේ (21) අත්අඩංගුවට ගත් බව කලවාන අඩවි වන කාර්‍යාලය පැවසිය.
+Here's a summary in 200 characters:
 
-අත්අඩංගුවට ගත් සැකකර ජපන් ජාතිකයා කොබයාසි යෝසුකි නැමැති හතළිස් හතර හැවරිදි පුද්ගලයකු බව කලවාන අඩවි වන කාර්‍යාලය පැවසීය .
 
-සිංහරාජ වනාන්තරය ආශ්‍රීත හෝටලයක දින තුනක් නවාතැන් ගෙන මෙලෙස මෙම ජපන් ජාතිකයා සිංහරාජය වනාන්තරයේ ඇති දුර්ලභ ඖෂධ පෑලෑටි  එකතු කර පසුව ඒවා ඇසුරුම් කර බෑග් වල සගවා  ඔහු එම  හෝටලයෙන් පිටත්ව යාමට කුඩව බස් නැවතුම්පොළහි රැදී සිටියදි ලද තොරතුරක් අනුව මෙලෙස අත්අඩංගුවට ගත් බව කලවාන  අඩවි වන කාර්‍යාලය පැවසිය.
 
-මෙම පැලෑටි අතර එක් පෑලෑටියක් අති විලයන් නැමති  ඖෂධ පෑලෑටි  බවට සැක කරන අතර ඉතිරි ඖෂධ පෑලෑටි පරීක්ෂා කිරිම සදහා පේරාදෙණිය උද්ධිත උද්‍යානයේ පරීක්ෂණ අංශය සදහා යොමු කර වාර්තාවක් ලබා ගැනිමට නියමිත බව කලවාන අඩවි වන කාර්‍යාලය පැවසිය.
+Japanese national arrested in Sinharaja forest for illegal plant collection. Suspect, 44, claims interest in indigenous medicine. Remanded until Jan 3.
 
-සැකකාර ජපන් ජාතිකයාගෙන් කල ප්‍රශ්න කිරීම් වලදී ප්‍රකාශ කර ඇත්තේ තමන් රෝගී තත්ත්වයන් රැසකට ඖෂධ ලබා ගන්නා බවත් ලංකාවේ දේශීය වෛද්‍ය ක්‍රමය ගැන සොයා බලා මෙහි පැමිණී බවය.
+🟩
 
-...
+The office of the Kiriwana Forests was arrested yesterday (21) to carry out a rare cubic potty elections in the Kalawana Kudawewa.
+
+The arrested suspect, Japanese, the malwana site office said that the Japanese named Kobyassi Yui had forty-four years ago.
+
+According to the Twelse Forest Office, the Kiriwana Forest Office said that the Japanese collection was collected in the Sinharaja forest, collecting three days of a consistency of the Sinharaja forest.
+
+Among these plants are suspected of pillows and the other pillage, the office of the Kalawana Forests, which will be sent to the Inspection Division of Peradeniya.
+
+The suspect is stated in question and that he is taking medication to many diseases and find out about the indigenous medicine in Sri Lanka.
+
+The arrested suspect was produced before the Kalawana Magistrate's Court yesterday (21) to be remanded until January 3.
+
+◼️
 
 [Data](articles/537d68fc.json)
+
+[Extended Data](ext_articles/537d68fc.ext.json)
 
 ---
 
@@ -312,27 +330,37 @@ President Anura Kumara Dissanayake stressed that we should ask ourselves whether
 
 ---
 
-### කිරිඳිවැල ඝාතනයක්
+### Murder of Kirindiwela
 
 *2024-12-22 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204600) · `si`
 
-කිරිඳිවැල, වල්ගම්මුල්ල ප්‍රදේශයේ පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඊයේ (21) සවස් කාලයේ එම ඝාතනය සිදුකර ඇති බව පොලීසිය සඳහන් කරයි.
 
-එලෙස මියගොස් ඇත්තේ, තිඹිරිගම, කිරිඳිවැල ප්‍රදේශයේ පදිංචිව සිටි 42 හැවිරිදි පුද්ගලයෙකි.
 
-එම ඝාතනයට ලක්වූ පුද්ගලයා විසින් බදු පදනම මත ලබා ගත් ඉඩමේ සිටි මුරකරු විසින් එම ඝාතනය සිදුකර ඇති බව පොලීසිය සැකපළ කරයි.
+Murder in Kirindiwela: 42-year-old man killed with sharp object in Wilddamulla. Occurred last night. Suspect arrested on motorcycle. Cause unknown. Police investigating.
 
-සැකකරු ඝාතනය සිදුකර මරණකරුගේ යතුරු පැදිය ද රැගෙන පළා ගොස් ඇත.
+🟩
 
-ඝාතනය කිරීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
+A person was killed and killed by a sharp instrument in the wilddammulla area in Kirindiwela.
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා කිරිඳිවැල පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+The murder had been carried out in the evening yesterday (21).
+
+The deceased has been identified as a 42 year old resident of the Kirindiwela area in Kirindiwela.
+
+Police suspect that the murder had been carried out by the guarantee that the victim was taken on the lease.
+
+The suspect has been brought to the motorcycle of the murder.
+
+The cause of the killing is yet to be ascertained, police said.
+
+Kirindiwela Police are conducting further investigations to arrest the suspect.
 
 ◼️
 
 [Data](articles/36803b51.json)
+
+[Extended Data](ext_articles/36803b51.ext.json)
 
 ---
 
@@ -424,37 +452,53 @@ I need now to recount my sailing adventures, or shall we say, misadventures. Alt
 
 ---
 
-### டெங்கு நோயாளர்களின் எண்ணிக்கை உயர்வு
+### The number of dengue patients rise
 
 *2024-12-22 02:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-உயர்வு/175-349058) · `ta`
 
-மேல் மாகாணத்திலேயே அதிகளவான நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்பு பிரிவு தெரிவித்துள்ளது.
+Dengue cases surge: Western Province sees highest numbers. Colombo reports 12,030 cases this year. 23 deaths recorded so far.
 
-அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12,030 டெங்கு நோயாளரகள் கொழும்பு மாவட்டத்தில் அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
 
-இந்தநிலையில், இந்தவருடத்தின் இதுவரையான காலப்பகுதியில் 23 பேர் உயிரிழந்துள்ளனர் என  சுகாதார அமைச்சு தெரிவித்துள்ளது.  (a)
+The National Dengue Eradication Unit said the most patients were reported in the Western Province.
+
+In addition, 12,030 dengue patients have been identified in the Colombo district during this year.
+
+In the meantime, 23 people have died in the year so far this year, the Ministry of Health said.(a)
 
 ◼️
 
 [Data](articles/f2df6c90.json)
 
+[Extended Data](ext_articles/f2df6c90.ext.json)
+
 ---
 
-### சபாநாயகரை சந்தித்தார் குயின் போயோங்
+### Queen Bowong met Speaker
 
 *2024-12-22 02:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகரை-சந்தித்தார்-குயின்-போயோங்/175-349057) · `ta`
 
-சபாநாயகர் ஜகத் விக்கிரமரத்னவுக்கும் சீன மக்கள் அரசியல் ஆலோசனை மாநாட்டின் தேசியக் குழுவின் துணைத் தலைவி குயின் போயோங் ஆகியோருக்கிடையில் சந்திப்பொன்று இடம்பெற்றுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்ற ஒத்துழைப்பு, நிலைபேறான அபிவிருத்தி, வர்த்தகம், விவசாயம், தொழில்கள் மற்றும் பலதரப்பு ஈடுபாடுகள் போன்ற துறைகளில் இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது ஆராயப்பட்டுள்ளது.
 
-இலங்கையின் புதிய அரசாங்கத்தின் பொருளாதார மற்றும் சமூக அபிவிருத்தி நோக்கங்களை அடைவதில் சீனாவின் உறுதிப்பாட்டுடன் உள்ளதாக குயின் போயோங் தெரிவித்துள்ளார்.
 
-அத்துடன், பரஸ்பர அபிவிருத்தி மற்றும் செழிப்பை மேம்படுத்துவதற்கு முக்கிய துறைகளில் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்துவதில் சீனாவின் தயார் நிலையையும் குயின் போயோங் வலியுறுத்தியுள்ளார். (a)
+Speaker Jagath Wickremaratne met Queen Poong from China's National Committee. They discussed strengthening ties in areas like parliamentary cooperation, sustainable development, trade, and business. Both sides agreed to work together for mutual growth and prosperity.
+
+🟩
+
+A meeting was held between Speaker Jagath Wickremaratne and the Vice President of the National Committee of the Chinese People's Political Advisory Conference, Queen Poong.
+
+It has been investigated on further strengthening bilateral relations in the sectors such as parliamentary cooperation, sustainable development, trade, agriculture, businesses and multi -faceted involvement.
+
+Queen Boyong has said that China is committed to achieving the economic and social development objectives of the new government of Sri Lanka.
+
+In addition, Queen Poong also emphasized China's preparation in strengthening bilateral cooperation in key sectors to improve mutual development and prosperity.. (A)
 
 ◼️
 
 [Data](articles/c8bc101d.json)
+
+[Extended Data](ext_articles/c8bc101d.ext.json)
 
 ---
 

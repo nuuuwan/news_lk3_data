@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 05:52:27**
+As of **2024-12-22 08:30:20**
 
 ## Newspaper Stats
 
-*Scraped **61,366** Articles*
+*Scraped **61,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,179 @@ islandlk | 3,717
 economynextcom | 3,744
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,842
+adalk | 5,843
 adaderanalk | 7,488
-tamilmirrorlk | 8,773
+tamilmirrorlk | 8,777
 virakesarilk | 10,123
-adaderanasinhalalk | 10,604
+adaderanasinhalalk | 10,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,172 (99.7%) of 61,366 articles have been extended.
+61,179 (99.7%) of 61,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### Watch the vehicles in vigilant
+
+*2024-12-22 08:18:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனங்களை-அவதானமாகச்-செலுத்துங்கள்/175-349061) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Police warn: Watch vehicles carefully. Festive season safety: Secure cars, avoid alcohol, watch roads due to frequent accidents."
+
+🟩
+
+Police have requested that vehicles be taken care of during the festive season.
+
+The police have also demanded the public to avoid drinking alcohol.
+
+Police have also announced that they should be observed due to the routine accidents during the festive season.. (A)
+
+◼️
+
+[Data](articles/5b78031b.json)
+
+[Extended Data](ext_articles/5b78031b.ext.json)
+
+---
+
+### Today is the slightest rain
+
+*2024-12-22 08:11:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-சிறிதளவில்-மழை/175-349060) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Light rain forecasted for western, southern regions tonight. Snowfall predicted in central, eastern areas tomorrow morning.
+
+🟩
+
+The Department of Meteorology has said that some parts of the country are likely to experience a little rain today.
+
+Rainfall or thunderstorms are expected in many places in the evening or night in the Western, Sabaragamuwa, Southern and Uva provinces, Nuwara Eliya, Kandy and Ampara districts.
+
+Rainfall is expected in the Northern and North Western Provinces and Anuradhapura districts.
+
+At the same time, the Department of Meteorology has announced that there will be snowfall in the morning in some parts of the Central, Sabaragamuwa, South, Uva and Eastern Provinces.. (A)
+
+◼️
+
+[Data](articles/6f4a7eba.json)
+
+[Extended Data](ext_articles/6f4a7eba.ext.json)
+
+---
+
+### පසුගිය වසරේදී ආර්ථිකයට වැඩිම දායකත්වය බස්නාහිරින්
+
+*2024-12-22 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204602) · `si`
+
+පසුගිය 2023 වසරේ ශ්‍රී ලංකාවේ නාමික දළ දේශීය නිෂ්පාදනය සඳහා ඉහළම දායකත්වය ලබා දීමට බස්නාහිර පළාත සමත්ව ඇති බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් මහ බැංකුව සඳහන් කර ඇත්තේ එහි අගය 43.7%ක් වන බවය.
+
+කෙසේ නමුත් එම දායකත්වය පෙර වසර හා සසඳන විට සුළු අඩුවීමක් පෙන්නුම් කර ඇති බවද එහි සඳහන් වේ.
+
+බස්නාහිර පළාත තුළ මෙම දායකත්වය සඳහා සේවා සහ කර්මාන්ත අංශ කැපී පෙනෙන දායකත්වයක් ලබා දී තිබේ.
+
+මේ අතර සමස්ත දළ දේශීය නිෂ්පාදනය සඳහා දෙවන සහ තෙවන ඉහළම දායකත්වය ලබා දීමට වයඹ සහ මධ්‍යම පළාත් සමත් ව තිබේ.
+
+ඒ අනුව වයඹ පළාත 10.9%ක් ද මධ්‍යඹ පළාත 10.3%ක් ලෙසද එහිදී දායකත්වය ලබා දී ඇත.
+
+මහ බැංකුව පැවසුවේ බස්නාහිර පළාතේ දායක්ත්වය සුළු අඩු වීමක් පෙන්නුම් කළද 2022 වසරට සාපේක්ෂව 2023 වසරේදී මධ්‍යම, උතුරු මැද, උතුරු හා දකුණු පළාත්වලින් දක්වන ලද දායකත්වය සාපේක්ෂව ඉහළ ගොස් තිබේ.
+
+තවද පෙර වසරට සාපේක්ෂව අඩු වේගයකින් වුවද සියලුම පළාත්වල නාමික දළ දේශීය නිශ්පාදනය 2023 වසරේදී වර්ධනය වී තිබේ.
+
+...
+
+[Data](articles/76e3ae79.json)
+
+---
+
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-12-22 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204601) · `si`
+
+ගතවූ පැය 24 තුළ ප්‍රදේශ කිහිපයකදී සිදුවූ රිය අනතුරුවලින් තරුණයින් දෙදෙනෙකු ඇතුළු පුද්ගලයින් 8 දෙනෙකු මියගොස් තිබේ.
+
+ඊයේ (21) එම අනතුරු සිදුව තිබුණේ මාරවිල, අම්බලන්තොට, ගම්පොල, හෙට්ටිපොළ, මඩකලපුව, මිරිහාන, කැබිතිගොල්ලෑව සහ සීදුව යන පොලිස් වසම්වලදීය
+
+පෑලියගොඩ - පුත්තලම මාර්ගයේ මාරවිල නගරයේදී කොළඹ බස් රථයක් ඉදිරියෙන් පැමිණි ත්‍රිරෝද රථයක මුහුණට මුහුණ ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබු ත්‍රිරෝද රථ රියදුරු මාරවිල රෝහලට ඇතුලත් කිරීමේදී මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, දිවුල්වැව, ආණමඩුව ප්‍රදේශයේ පදිංචිව සිටි 40 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර කොළඹ - වැල්ලවාය මාර්ගයේ වලවල ප්‍රදේශයේදී ටිපර් රථයක් ඉදිරියෙන් එම දිශාවටම ධාවනය වූ යතුරු පැදියක පිටුපස ගැටී සිදුවූ රිය අනතුරකින්  64 හැවිරිදි පුද්ගලයෙක් මියගොස් තිබේ.
+
+තවද ගම්පොළ දොළුව මාර්ගයේ දවුලම් මෝදර ප්‍රදේශයේදී යතුරු පැදියක් මාර්ගය අයිනේ ගමන් කරමින් සිටි පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබු යතුරු පැදිකරු සහ පදිකයා ගම්පොල රෝහලට ඇතුළත් කර ප්‍රථිකාර ලබමින් සිටියදී පදිකයා මියගොස් ඇත.
+
+...
+
+[Data](articles/410a8792.json)
+
+---
+
+### කිරිඳිවැල ඝාතනයක්
+
+*2024-12-22 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204600) · `si`
+
+කිරිඳිවැල, වල්ගම්මුල්ල ප්‍රදේශයේ පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (21) සවස් කාලයේ එම ඝාතනය සිදුකර ඇති බව පොලීසිය සඳහන් කරයි.
+
+එලෙස මියගොස් ඇත්තේ, තිඹිරිගම, කිරිඳිවැල ප්‍රදේශයේ පදිංචිව සිටි 42 හැවිරිදි පුද්ගලයෙකි.
+
+එම ඝාතනයට ලක්වූ පුද්ගලයා විසින් බදු පදනම මත ලබා ගත් ඉඩමේ සිටි මුරකරු විසින් එම ඝාතනය සිදුකර ඇති බව පොලීසිය සැකපළ කරයි.
+
+සැකකරු ඝාතනය සිදුකර මරණකරුගේ යතුරු පැදිය ද රැගෙන පළා ගොස් ඇත.
+
+ඝාතනය කිරීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා කිරිඳිවැල පොලීසිය වැඩිදුර විමර්ශන සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/36803b51.json)
+
+---
+
+### Showers in several areas
+
+*2024-12-22 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204599) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Showers forecasted for Western, Sabaragamuwa, Southern, and Uva provinces today. Possible light rain in Northern and Northwestern regions. Thunderstorms may cause strong winds and lightning. Public advised to be cautious."
+
+🟩
+
+The Meteorological Department says that showers or night thundershowers will occur at the Western, Sabaragamuwa, Southern and Uva provinces today (22).
+
+The department states that a few showers may occur in the North and North Western provinces and in the Anuradhapura district.
+
+In some places in the Central, Sabaragamuwa, Southern, Uva and Eastern Provinces, there are four stations.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/e2679f18.json)
+
+[Extended Data](ext_articles/e2679f18.ext.json)
+
+---
 
 ### Dynasties of Deceit: The Philippines’ Curse
 
@@ -41,6 +199,8 @@ The 1987 Philippine Constitution, crafted in the aftermath of the 1986 People Po
 ...
 
 [Data](articles/bf11205a.json)
+
+[Extended Data](ext_articles/bf11205a.ext.json)
 
 ---
 
@@ -53,6 +213,8 @@ I first met Ronnie de Mel (1925-2024) less than six months before his passing. A
 ...
 
 [Data](articles/008732b5.json)
+
+[Extended Data](ext_articles/008732b5.ext.json)
 
 ---
 
@@ -68,6 +230,8 @@ Sri Pada, aka Adam’s Peak and Samanala Kanda, is the fifth tallest peak in Sri
 
 [Data](articles/70836b80.json)
 
+[Extended Data](ext_articles/70836b80.ext.json)
+
 ---
 
 ### Some Vignettes of Italy
@@ -81,6 +245,42 @@ I need now to recount my sailing adventures, or shall we say, misadventures. Alt
 ...
 
 [Data](articles/5ff61eec.json)
+
+[Extended Data](ext_articles/5ff61eec.ext.json)
+
+---
+
+### டெங்கு நோயாளர்களின் எண்ணிக்கை உயர்வு
+
+*2024-12-22 02:23:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்களின்-எண்ணிக்கை-உயர்வு/175-349058) · `ta`
+
+மேல் மாகாணத்திலேயே அதிகளவான நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்பு பிரிவு தெரிவித்துள்ளது.
+
+அத்துடன், இந்த வருடத்தின் இதுவரையான காலப்பகுதியில் 12,030 டெங்கு நோயாளரகள் கொழும்பு மாவட்டத்தில் அடையாளம் காணப்பட்டுள்ளனர்.
+
+இந்தநிலையில், இந்தவருடத்தின் இதுவரையான காலப்பகுதியில் 23 பேர் உயிரிழந்துள்ளனர் என  சுகாதார அமைச்சு தெரிவித்துள்ளது.  (a)
+
+◼️
+
+[Data](articles/f2df6c90.json)
+
+---
+
+### சபாநாயகரை சந்தித்தார் குயின் போயோங்
+
+*2024-12-22 02:21:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகரை-சந்தித்தார்-குயின்-போயோங்/175-349057) · `ta`
+
+சபாநாயகர் ஜகத் விக்கிரமரத்னவுக்கும் சீன மக்கள் அரசியல் ஆலோசனை மாநாட்டின் தேசியக் குழுவின் துணைத் தலைவி குயின் போயோங் ஆகியோருக்கிடையில் சந்திப்பொன்று இடம்பெற்றுள்ளது.
+
+பாராளுமன்ற ஒத்துழைப்பு, நிலைபேறான அபிவிருத்தி, வர்த்தகம், விவசாயம், தொழில்கள் மற்றும் பலதரப்பு ஈடுபாடுகள் போன்ற துறைகளில் இருதரப்பு உறவுகளை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது ஆராயப்பட்டுள்ளது.
+
+இலங்கையின் புதிய அரசாங்கத்தின் பொருளாதார மற்றும் சமூக அபிவிருத்தி நோக்கங்களை அடைவதில் சீனாவின் உறுதிப்பாட்டுடன் உள்ளதாக குயின் போயோங் தெரிவித்துள்ளார்.
+
+அத்துடன், பரஸ்பர அபிவிருத்தி மற்றும் செழிப்பை மேம்படுத்துவதற்கு முக்கிய துறைகளில் இருதரப்பு ஒத்துழைப்பை வலுப்படுத்துவதில் சீனாவின் தயார் நிலையையும் குயின் போயோங் வலியுறுத்தியுள்ளார். (a)
+
+◼️
+
+[Data](articles/c8bc101d.json)
 
 ---
 
@@ -349,6 +549,22 @@ The provisions of the gazette notification have been issued to the Public Admini
 [Data](articles/0ad96220.json)
 
 [Extended Data](ext_articles/0ad96220.ext.json)
+
+---
+
+### ලංගම බස් රිය ගසක ගැටි 6ක් රෝහලේ
+
+*2024-12-21 20:23:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-බස්-රිය-ගසක-ගැටි-6ක්-රෝහලේ/11-413761) · `si`
+
+කොළඹ සිට තෙල්දෙනිය දක්වා ධාවනය වු ලංගම බස් රථයක් කඩුගන්නාව ඩෝසන් කුළුන අසල ආසන්නයේ  ඇති විශාල ගසක හැපි තුවාල කරුවන් 6 දෙනෙකු මහනුවර රෝහලට ඇතුලත් කල බව කඩුගන්නාව පොලිසිය පවසයි.
+
+අද (21) පස්වරු 3 ට පමණ සිදුවු මෙම අනතුරින් බස් රථයේ රියදුරු ඇතුලු බස් රථයේ ගමන් ගත් මගින් 5 දෙනෙකු සිදුවු තුවාල හේතුවෙන් රෝහල් ගත කල බවද පොලිසිය පවසයි.
+
+තුවාලකරුවන් ප්‍රෙද්ශවාසින් හා කඩුගන්නාව පොලිසියේ නිලධාරින් මැදිහත්ව රෝහල් ගත කර ඇති අතර කිසිවෙකුට බරපතල තුවාල සිදුවි නැති බවද පොලිසිය පැවසිය. සිද්ධිය සම්බන්ධව කඩුගන්නාව පොලිසිය පරික්ෂන පවත්වයි.
+
+◼️
+
+[Data](articles/1a7241dd.json)
 
 ---
 
@@ -2147,251 +2363,5 @@ The NDB Shilpa Children’s Savings Account encourages children to embrace the i
 [Data](articles/9e7b7632.json)
 
 [Extended Data](ext_articles/9e7b7632.ext.json)
-
----
-
-### 5 places in Sri Lanka to spend less money and more
-
-*2024-12-21 03:30:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5ywl4elxv3o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka budget-friendly travel spots: Horton Plains, Bambarakanda Falls, Uda Darry, Jaffna, Adam's Peak. Access via public transport, camping options, cultural experiences.
-
-🟩
-
-Many trapped in various activities throughout the year are taking some rest in December.
-
-However, after the year 2022, the prices of goods and services in Sri Lanka have been highly increased in Sri Lanka.
-
-Excessive costs to take a break has added another pressure to people who need a break.
-
-There are still available places where less than all these conditions can still visit. In this article, you will bring such visit in Sri Lanka.
-
-There are several access roads to go to Horton Place located in the central highlands of Sri Lanka.
-
-One entrance to easy and public transportation is the login.
-
-You can reach the Badulla Railway Station with a train that opens from Colombo.
-
-We left the night mail train from the Fort Sumari Place to go to Ohik, and when we were grabbed, we were able to reach the railway station.
-
-There are several kilometers from the Ohiya Station to Horton Plains and can go in a three-wheeler, if necessary.
-
-Since then we have passed a number of beautiful ecosystems to Horton Plains.
-
-...
-
-[Data](articles/646eddda.json)
-
-[Extended Data](ext_articles/646eddda.ext.json)
-
----
-
-### Sumanthiran and Chanakyan meet with Norwegian Ambassador
-
-*2024-12-21 02:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நோர்வே-தூதுவருடன்-சுமந்திரன்-சாணக்கியன்-சந்திப்பு/175-349028) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-TNA leaders Sumanthiran & Chanakyan meet Norwegian Ambassador. Discuss "important issues" & current political situation.
-
-🟩
-
-Leaders of the Sri Lanka Tamil National Alliance (TNA) met with the Norwegian Ambassador to Sri Lanka yesterday.
-
-TNA MP. Chanakyan and former parliamentarian president MA Sumanthiran attended the meeting with the Norwegian Ambassador.
-
-"We have spoken about the many important issues and contemporary political situation of our people," Parliamentarian Chanakyan said. (A)
-
-◼️
-
-[Data](articles/8d65d4a4.json)
-
-[Extended Data](ext_articles/8d65d4a4.ext.json)
-
----
-
-### Yall. Youth dies in accident
-
-*2024-12-21 02:28:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-விபத்தில்-இளைஞர்-உயிரிழப்பு/175-349027) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"21-year-old Antony Francis Nilojan from Mandi Island fatally injured in car-motorcycle crash on Jaffna-Kayts road. Incident occurred in Mankumban area of Jaffna."
-
-🟩
-
-A youth was killed in a road accident in Mankumban area in Jaffna yesterday (20).
-
-The deceased is 21 -year -old Antony Francis Nilojan, a native of Mandi Island.
-
-Youth died in a car - motorcycle accident on the road in Kayts in Jaffna - Kayts.
-
-◼️
-
-[Data](articles/928ad59b.json)
-
-[Extended Data](ext_articles/928ad59b.ext.json)
-
----
-
-### President discussion with government principals
-
-*2024-12-21 02:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-அதிபர்களுடன்-ஜனாதிபதி-கலந்துரையாடல்/175-349026) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake discusses transforming state service into proper mechanism. Plans to review institutions without political influence. Expresses concern over public lack of confidence in fair state services. Challenges rebuilding structure.
-
-🟩
-
-President Anura Kumara Dissanayake says that the challenge to transform the country's state service into a proper state mechanism is seen.
-
-The President made this statement while addressing a discussion with District Secretaries and Government Agent at the 'Nila Medura' building in Narahenpita yesterday (20).
-
-The President pointed out that the decision will be taken to review the existing state institutions in the country, without the political influence through the new committee.
-
-He said that the people have no confidence that a fair service can be obtained in a state agency and that as a state, the full structure has seen a decline.
-
-Are we ready to rebuild the structure?Or not?President Anura Kumara Dissanayake urged us to question ourselves. (A)
-
-◼️
-
-[Data](articles/15509741.json)
-
-[Extended Data](ext_articles/15509741.ext.json)
-
----
-
-### The detention of 12 of Myanmar refugees in the coastal boat
-
-*2024-12-21 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201776) · `ta`
-
-Myanmar refugees detained in Sri Lanka: 12 held, 103 others admitted to refugee center. Court orders registration under Immigration Act.
-
-🟩
-
-The 115 Rohingyas from Myanmar were taken to the Trincomalee Ashraf landing department from Mullaitivu on Friday (20) and handed over to the Trincomalee Department of Police.
-
-After investigating the voting of the passengers on the boat, the Trincomalee court was produced in the presence of Magistrate Abdul Salam Sahir.
-
-Attorney -at -Law. De. Sashni presented his application to the Justice to send them to the refugees in Nugegoda, the refugee shelter in Nugegoda.
-
-In response, the police ordered the police to send their application to the refugee camp on Saturday (21) as they could not be sent to the Mirigan area on Saturday (21).
-
-The Magistrate's police have ordered the police to register the case in accordance with the Immigration and Emigration Act, according to the Immigration Act.
-
-103 persons have been admitted to the appropriate school with the need for food health facilities.. They include women and boys.
-
-◼️
-
-[Data](articles/6fc9e68b.json)
-
-[Extended Data](ext_articles/6fc9e68b.ext.json)
-
----
-
-### Chanakyan, Sumanthiran discussed with Norwegian Ambassador!
-
-*2024-12-21 01:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201775) · `ta`
-
-Sumanthiran meets Norwegian Ambassador: Discusses key issues and current political topics with Chanakyan, ex-MP and Presidential lawyer.
-
-🟩
-
-H.E.. May-Elin Stener met on Friday the 20th and the TNA MP on many important issues and contemporary politics. Chanakyan and former MP and President's lawyer. They met with Sumanthiran.
-
-◼️
-
-[Data](articles/f05a5767.json)
-
-[Extended Data](ext_articles/f05a5767.ext.json)
-
----
-
-### Is India changing the toughness of India?Questions that arise in the context of New Delhi Talks
-
-*2024-12-21 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/201774) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Pres. Dissanayake's India visit focuses on economic aid, trade cooperation, security assurances, BRICS membership, Tamil rights, and fisheries disputes. Key: no use of Sri Lankan land against India, support for Tamil aspirations, and resolving fishermen conflicts.
-
-🟩
-
-There were two reasons why President Anura Kumara Dissanayake's visit to India and his talks with Indian Prime Minister Narendra Modi gained much importance in the media.
-
-The first is the leader of a party that was one of his major policies of Indian opposition. They had long traveled with that policy. It is through it that the party strengthened.
-
-The second, his JVP. Was identified as a Chinese pro organization. The reflection of the Chinese Tutu in Colombo on the victory of the National People's Power in the general election also strengthened this view.
-
-During his visit to New Delhi, President Dissanayake revealed the most relaxed diplomacy in the wake of the intensification of Sri Lanka -based Chinese -Indian power competition.
-
-The attitude of Dissanayake was seen as the one who accepted the importance of India in the South Asian region. That is, the history of the JVP in the past has been confirmed during this visit that the President is changing the severe course of India.
-
-...
-
-[Data](articles/a0ea1d75.json)
-
-[Extended Data](ext_articles/a0ea1d75.ext.json)
-
----
-
-### President pledges reforms to revitalise public sector
-
-*2024-12-21 01:05:33* · [`dailyftlk`](https://www.ft.lk/news/President-pledges-reforms-to-revitalise-public-sector/56-770853) · `en`
-
-Says challenge of transforming public service into streamlined State mechanism lies ahead of us
-
-Points to newly appointed committee to make impartial decisions without political interference
-
-Opines no intention to downsize public service, while admitting concerns about high expenditure involved
-
-Calls to maintain harmony and mutual accountability between public officials and political authorities
-
-Assures to defend public officials facing unjust challenges; warns against neglect or obstruction of duties
-
-President Anura Kumara Dissanayake yesterday underscored the urgent need to overhaul public service, pointing to the critical challenge of transforming Sri Lanka’s public service into an efficient state mechanism.
-
-Addressing a conference of District Secretaries and Divisional Secretaries at the Home Affairs Ministry Auditorium, located in the “Nila Medura” building in Narahenpita, he outlined a vision for a more efficient and trustworthy State mechanism.
-
-...
-
-[Data](articles/e076df63.json)
-
-[Extended Data](ext_articles/e076df63.ext.json)
-
----
-
-### SC upholds death sentence for ex-top cop Vass Gunawardena
-
-*2024-12-21 01:04:54* · [`dailyftlk`](https://www.ft.lk/news/SC-upholds-death-sentence-for-ex-top-cop-Vass-Gunawardena/56-770852) · `en`
-
-The Colombo High Court yesterday announced that the Supreme Court has upheld its previous verdict sentencing five defendants, including former DIG Vass Gunawardena, to death in the 2013 kidnapping and murder of businessman Mohamed Shiyam.
-
-The Colombo High Court announced this decision after former DIG Vass Gunawardena, his son Ravindu Gunawardena, and three police officers were produced before the court by prison officials yesterday.
-
-Colombo High Court Judge Aditya Patabendige informed the defendants that the Supreme Court had rejected their appeal in this case and upheld the death sentence.
-
-Counsel Rahul Jayathilake, appearing for the accused, informed the court that the Supreme Court had not specified a date for the effective date of the sentence pronounced by the High Court in November 2015.
-
-Pointing out that the date of the sentence was very important, he requested the court to issue an order in this regard as it was not mentioned in the Supreme Court order.
-
-...
-
-[Data](articles/a2417fbe.json)
-
-[Extended Data](ext_articles/a2417fbe.ext.json)
 
 ---

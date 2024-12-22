@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 16:26:55**
+As of **2024-12-22 16:42:31**
 
 ## Newspaper Stats
 
-*Scraped **61,435** Articles*
+*Scraped **61,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,853
+adalk | 5,854
 adaderanalk | 7,501
 tamilmirrorlk | 8,789
 virakesarilk | 10,138
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,227 (99.7%) of 61,435 articles have been extended.
+61,228 (99.7%) of 61,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### කසුන් මහේන්ද්‍ර අත්අඩංගුවට ගැනීම ගැන විමර්ශනයට පොලීසියෙන් කමිටුවක්
+
+*2024-12-22 15:18:42* · [`adalk`](https://www.ada.lk/breaking_news/කසුන්-මහේන්ද්‍ර-අත්අඩංගුවට-ගැනීම-ගැන-විමර්ශනයට-පොලීසියෙන්-කමිටුවක්/11-413773) · `si`
+
+අතුරුගිරිය පොලිසිය මගින් හබරකඩ ප්‍රදේශයේදී කසුන් මහේන්ද්‍ර හීනටිගල නමැති ලේඛකයා අත්අඩංගුවට ගැනීමේදී නෛතික ප්‍රතිපාදනය උල්ලංඝනය කර ඇත්දැයි විමර්ශනය කිරීම සඳහා කොළඹ දකුණ දිශාව භාර නියෝජ්‍ය පොලිස්පති  වරයාගේ ප්‍රධානත්වයෙන් විමර්ශනයක් ආරම්භ කර ඇතැයි බස්නාහිර පළාත භාර ජේෂ්ඨ නියෝජ්‍ය පොලිස්පති කාර්යාලය පවසයි.
+
+මෙම සිදුවීම ඉකුත් 20 දා සවස 6 - 7 අතර කාලය තුළදී සිදුව ඇති අතර අතුරුගිය පොලිසියේ නිලධාරීන් කණ්ඩායමක් පොලිස් ත්‍රී රෝද රථයකින්  අපරාධ නිවාරණ රාජකාරියකට යමින් සිටියදී අතුරුගිරිය ප්‍රදේශයේ මාර්ගයක යමින් සිටි පුද්ගලයකු පරීක්ෂා කර තිබේ.එහිදී ඔහුගේ අනන්‍යතාවය තහවුරු කිරීමට නොහැකි වූ නිසා ඔහුව සැකපිට අත්අඩංගුවට ගෙන පොලිස් ත්‍රී රෝද රථයෙන් අතුරුගිරිය පොලිස් ස්ථානය වෙත රැගෙන විත් ඔහුව පරීක්ෂා කර තිබේ.
+
+එහිදී සිදුකළ ප්‍රශ්නන කිරීම්වලදී අනාවරණය වී ඇත්තේ අත්අඩංගුවට ගත් පුද්ගලයා මියගිය රංගධරයකු වන ජැක්සන්  ඇන්තනී මහතාගේ දියණිය විවාහ වී සිටින ලේඛකයකු වන  කසුන් මහේන්ද්‍ර හීනටිගල නැමැත්තා බවයි.
+
+...
+
+[Data](articles/476ded2f.json)
+
+---
 
 ### High snow in Vavuniya: Drivers
 
@@ -598,29 +614,39 @@ Police say the baby, who has a good physique, may have been born a day ago.
 
 ---
 
-### 2025 වසරේ රජයේ නිවාඩු ගැන ඔබ දැනුවත්ද?
+### Are you aware of public leave in 2025?
 
 *2024-12-22 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204607) · `si`
 
-මේ අතර 2025ට අදාළ දින දර්ශනය රජයේ මුද්‍රණ දෙපාර්තමේන්තුව විසින් ද ප්‍රකාශයට පත් කර තිබුණි.
+Here's a summary of the public holidays in 2025 in approximately 200 characters:
 
-ඒ අනුව 2025 වසරට අදාළව රජයේ නිවාඩු 26ක් ප්‍රකාශයට පත් කර තිබේ.
 
-එහි වැඩිම නිවාඩු ගණනක් යෙදී ඇත්තේ අප්‍රේල් මාසයට වන අතර එම නිවාඩු ගණන 4කි.
 
-එම මාසයේ සිංහල හා හින්දු අලුත් අවුරුදු දිනය 14 වන දිනට යෙදී තිබේ.
+Public holidays in 2025 announced by Government Printing Department. 26 holidays total. April has most with 4. Sinhala/Hindu New Year on April 14th. Christmas on Tuesday, April 25th. Sunday, April 13th, is day before New Year. Gazette notification for any changes.
 
-තවද වෙසක් පුන් පොහෝ දිනය 12 වැනි දිනටත් නත්තල් දිනය දෙසැම්බර් 25 වැනි දින අඟහරුවාදා දිනටත් යෙදී තිබේ.
+🟩
 
-අප්‍රේල් 13 ඉරිදා - සිංහල හා දෙමළ අලුත් අවුරුදු දිනට පෙර දිනය
+Meanwhile, the Calendar Department was published by the Government Printing Department regarding 2025.
 
-ඉහත සඳහන් රජයේ නිවාඩු තැපැල්, රේගු හා කාලගුණවිද්‍යා යන දෙපාර්තමේන්තුවලට ද ලැබේ.
+Accordingly, 26 public holidays have been published in respect of 2025.
 
-රජයේ නිවාඩු දිනයන් පිළිබඳ වෙනස්වීම් ගැසට් නිවේදනයක මාර්ගයෙන් ප්‍රසිද්ධ කරනු ඇතැයි රජයේ මුද්‍රණ දෙපාර්තමේන්තුව පැවසීය.
+The highest number of holidays is in April and is 4.
+
+The Sinhala and Hindu New Year day of the month is on the 14th.
+
+And Christmas Day will be played on Tuesday on Tuesday 25th on Tuesday.
+
+Sunday of April 13 - Day before the Sinhala and Tamil New Year Day
+
+The above public vacation mail, Customs and Meteorologies are also available.
+
+The government printing department said that changes on public holidays would be published in a gazette notification.
 
 ◼️
 
 [Data](articles/40201d4b.json)
+
+[Extended Data](ext_articles/40201d4b.ext.json)
 
 ---
 
@@ -2279,37 +2305,5 @@ Similarly, the price of 24-carat gold has increased by Rs. 2,000, bringing it to
 [Data](articles/ca111a4f.json)
 
 [Extended Data](ext_articles/ca111a4f.ext.json)
-
----
-
-### Vijay Sethupathi won the Best Actor Award
-
-*2024-12-21 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/201804) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Vijay Sethupathi wins Best Actor Award at 22nd Chennai Int'l Film Fest for 'Maharaja'. Ten films screened Dec 12-19. Awards also for Best Film Editor, Best Film, and Best Actor Yogi Babu.
-
-🟩
-
-Vijay Sethupathi has been awarded the Best Tamil Film Award at the 22nd Chennai International Film Festival in Chennai for her role in 'Maharaja'.
-
-More than ten films were screened under various categories at the 22nd Chennai International Film Festival, sponsored by the Government of Tamil Nadu from December 12 to 19.
-
-Award for Best Film Editor
-
-Second Award for Best Film - Luper Ball Referees Special Award - Jama.
-
-Arbitration Award for Best Famous Actor - Yogi Babu (Bot and Poultry
-
-All the star artists on the list were honored with awards at the final event of the Chennai International Film Festival.
-
-◼️
-
-[Data](articles/8676571b.json)
-
-[Extended Data](ext_articles/8676571b.ext.json)
 
 ---

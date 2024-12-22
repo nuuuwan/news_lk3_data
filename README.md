@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 04:27:27**
+As of **2024-12-23 04:42:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,302 (99.6%) of 61,534 articles have been extended.
+61,303 (99.6%) of 61,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### 13 people die in 10 road accidents in 24 hours
 
-*2024-12-23 03:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201923) · `ta`
+*2024-12-23 04:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/201923) · `ta`
 
 13 killed in 10 road accidents across Sri Lanka in 24 hours. Police urge increased street vigilance during holidays.
 
@@ -237,6 +237,8 @@ During the proceedings, the defendants agreed to adhere to the Supreme Court’s
 ...
 
 [Data](articles/8953f205.json)
+
+[Extended Data](ext_articles/8953f205.ext.json)
 
 ---
 

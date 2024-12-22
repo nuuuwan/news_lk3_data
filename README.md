@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 17:27:23**
+As of **2024-12-22 17:44:11**
 
 ## Newspaper Stats
 
@@ -26,49 +26,79 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,233 (99.7%) of 61,448 articles have been extended.
+61,238 (99.7%) of 61,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### நல்லிணக்கத்துக்கு அநுர அரசாங்கம்   தயாராக இருக்கின்றதா?
+### Is the government ready for reconciliation?
 
 *2024-12-22 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/201870) · `ta`
 
-தமிழ் மக்கள் ஏற்றுக்கொள்ளக்கூடிய அரசியல் தீர்வை கொண்டு வர வேண்டுமென்றால் தென்னிலங்கையின் பெருந்தேசிய வாத கலாசாரம் மாற்றப்பட வேண்டும்.
+Here's a summary in 200 characters:
+
+
+
+Government readiness for reconciliation questioned. Tamil people seek political solution. South's rational rhetoric needs change for progress.
+
+🟩
+
+If the Tamil people are to come up with an acceptable political solution, the great rational rhetoric of the South must be changed.
 
 ◼️
 
 [Data](articles/04a4b09a.json)
 
+[Extended Data](ext_articles/04a4b09a.ext.json)
+
 ---
 
-### மஹாபாகேயில் ஹெரோயினுடன் ஒருவர் கைது
+### Arrest with heroin in Mahabhake
 
 *2024-12-22 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201888) · `ta`
 
-மஹாபாகே பொலிஸ் பிரிவுக்குட்பட்ட ஜோர்ஜ் மாவத்தையில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (21) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-மஹாபாகே பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
-சந்தேக நபரிடமிருந்து 06 கிராம் 300 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+Police arrest suspect in Mahabhake with 6g of 300mg heroin during raid based on tip-off.
+
+🟩
+
+A suspect was arrested by police on Saturday (21) with heroin drugs in George Mawatha, which belongs to the Mahabhake Police Division.
+
+He was arrested after a raid on the basis of confidential information received by the Mahabhake police station.
+
+06 grams of 300 milligrams of heroin from the suspect has been seized by the police.
 
 ◼️
 
 [Data](articles/f1c1888c.json)
 
+[Extended Data](ext_articles/f1c1888c.ext.json)
+
 ---
 
-### மாற்றம் காணுமா பொருளாதார நிலை?
+### Is the economic situation?
 
 *2024-12-22 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/201887) · `ta`
 
-மக்களுக்கு  சரியானதொரு நிவாரணத்தை கொடுக்க வேண்டிய நிலையில் அரசாங்கம் இருக்கிறது. ஏனென்றால், இந்த அரசாங்கம் பதவிக்கு வந்ததே, ஒரு மாற்றத்திற்கான எதிர்பார்ப்பின் அடிப்படையில் தான். அந்த மாற்றம் நிகழாமல் போனால் இந்த அரசாங்கத்தின் மீது மக்கள் வெறுப்படைவார்கள்.
+Here's a summary of 200 characters:
+
+
+
+Economic situation: Government's ability to provide relief questioned. Public expectations of change may lead to disappointment if not met.
+
+🟩
+
+The government is in a position to give people a proper relief. Because this government came to power, based on the expectation of a change. If that change does not occur, people will be disgusted with this government.
 
 ◼️
 
 [Data](articles/99d6c189.json)
+
+[Extended Data](ext_articles/99d6c189.ext.json)
 
 ---
 
@@ -102,33 +132,57 @@ This policy was initially implemented in the Sabaragamuwa Province and later exp
 
 ---
 
-### கிளிநொச்சியில் புதையல் அகழ்வில் ஈடுபட்ட ஐவர் கைது
+### Five arrested for engaging in treasure excavation in Kilinochchi
 
 *2024-12-22 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201883) · `ta`
 
-கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட கனகபுரம் பகுதியில் புதையல் அகழ்வில் ஈடுபட்டுக்கொண்டிருந்த 05 சந்தேக நபர்கள் நேற்று சனிக்கிழமை (21) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-பொலிஸ் விசேட அதிரடிப்படையின் அரவி நகர் முகாம் அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
-சந்தேக நபர்கள் 22, 25, 37, 46 மற்றும் 53 வயதுடைய பிதுனுவெவ, வவுனியா, பலாங்கொடை மற்றும் வெயங்கொடை ஆகிய பிரதேசங்களைச் சேர்ந்தவர்கள் ஆவர்.
+
+Five arrests made in Kilinochchi for illegal treasure hunting. Suspects aged 22-53 from various locations. Raid conducted based on tip-off to Police Special Task Force.
+
+🟩
+
+Five suspects have been arrested by police on Saturday (21) for engaging in treasure excavation in Kanakapuram area of ​​the Kilinochchi police division.
+
+He was arrested after a raid on a confidential information received by the Arav Nagar Camp of the Police Special Task Force.
+
+The suspects are from Bidunuwewa, Vavuniya, Balangoda and Wayankoda, aged 22, 25, 37, 46 and 53.
 
 ◼️
 
 [Data](articles/7e033d08.json)
 
+[Extended Data](ext_articles/7e033d08.ext.json)
+
 ---
 
-### ජෝ රූට්ට අවුරුද්දකට පසු ලැබුණු අවස්ථාව
+### The opportunity for Joe Root a year after
 
 *2024-12-22 16:57:20* · [`adalk`](https://www.ada.lk/sports/ජෝ-රූට්ට-අවුරුද්දකට-පසු-ලැබුණු-අවස්ථාව/9-413780) · `si`
 
-ඔහු අවසන් වරට පාකිස්තානයට එරෙහිව 2023 වසරේ නොවැම්බර් මාසයේදී එක්දින තරගයක් ක්‍රීඩා කර ඇති අතර, ඒ අනුව ඔහු වසරකට පසුව මෙලෙස නැවත එක්දින සංචිතයට කැඳවා ඇත.
+Here's a summary of 200 characters:
 
-ඒ අනුව එළැඹෙන ජනවාරි මාසයේ ආරම්භ වන එංගලන්ත කණ්ඩායමේ ඉන්දීය සංචාරයට ජෝ රූට් එක්වීමට නියමිතව තිබේ.
+
+
+"Joe Root returns to action Jan 19 after 1-year hiatus. Last played Nov 2023 vs Pakistan. Rejoins ODI squad."
+
+
+
+This summary captures the key points about Joe Root's return to cricket after a year, including his last match date, the reason for his recall, and his upcoming schedule.
+
+🟩
+
+He was last played in November 2023 against Pakistan, and he had been summoned again to the ODI squad.
+
+Joe Root is due to join the Indian team in the 19th of January.
 
 ◼️
 
 [Data](articles/ddcca997.json)
+
+[Extended Data](ext_articles/ddcca997.ext.json)
 
 ---
 

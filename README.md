@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 01:42:53**
+As of **2024-12-23 02:42:37**
 
 ## Newspaper Stats
 
-*Scraped **61,508** Articles*
+*Scraped **61,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,105 @@ colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
 economynextcom | 3,747
-dailyftlk | 4,259
+dailyftlk | 4,260
 dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
-tamilmirrorlk | 8,796
-virakesarilk | 10,168
+tamilmirrorlk | 8,797
+virakesarilk | 10,170
 adaderanasinhalalk | 10,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,287 (99.6%) of 61,508 articles have been extended.
+61,292 (99.6%) of 61,512 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-23 (Monday)
+
+### Supreme Court case, eradication of corruption, Attorney General's Department: Reform these three to strengthen the rule of law
+
+*2024-12-23 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201915) · `ta`
+
+Asian Human Rights Commission urges reforming Supreme Court, combating corruption, restructuring Attorney General's Department to strengthen rule of law in Sri Lanka.
+
+🟩
+
+The Asian Human Rights Commission has urged the President of the Human Rights Commission to focus on the three main issues, such as rehabilitation of the Supreme Court trial, controlling corruption, and rehabilitation of the Attorney General's Department.
+
+In a letter sent to President Anura Kumara Dissanayake by Bernando, the Director of the Asian Human Rights Commission, Basil Fernando, said:
+
+I will bring to your notice of three reorganizations to be maintained in the reorganization of the law in Sri Lanka and the value of human rights.
+
+We have continuously pointed out about the rule of law that has been disrupted in Sri Lanka for the past several years. This has been embodied in the speeches you have made in Parliament for a long time and in the last election by the National People's Power, and many have come together on the basis of the general purpose of establishing the best governance administration.
+
+...
+
+[Data](articles/7df326ba.json)
+
+[Extended Data](ext_articles/7df326ba.ext.json)
+
+---
+
+### Sri Lanka’s IMF deal: Turning point, but caution is key
+
+*2024-12-23 01:50:29* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-IMF-deal-Turning-point-but-caution-is-key/4-770896) · `en`
+
+The IMF deal marks the beginning, not the end, of its journey
+
+While Sri Lanka’s IMF deal offers hope, the risks are real. Political instability could derail reforms, as vested interests resist change. Reform fatigue, too, is a genuine concern—if the public does not see tangible benefits soon, support for the program could waver. Globally, external shocks—rising interest rates, slowing trade, or geopolitical tensions—could further complicate the recovery. The Government must proceed with caution. An IMF deal is not a panacea; it is a foundation on which Sri Lanka must build its recovery. Strong institutions, consistent policies, and effective communication will be critical in navigating these risks
+
+...
+
+[Data](articles/e9e18a13.json)
+
+[Extended Data](ext_articles/e9e18a13.ext.json)
+
+---
+
+### பாடசாலை விடுமுறை, பண்டிகை காலங்களில் வெளியிடங்களில் உணவு உண்பதால் பல நோய்கள் ஏற்படம் - வைத்திய நிபுணர் தீபால் பெரேரா
+
+*2024-12-23 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201914) · `ta`
+
+பாடசாலை விடுமுறை மற்றும் பண்டிகை காலத்தை முன்னிட்டு வெளியிடங்களுக்கு சுற்றுலாவுக்காக செல்லும் சிறுவர்கள் சுகாதார மற்ற  உணவகங்களில் உணவு மற்றும் சிற்றுண்டிகளை கொள்வனவு செய்து உண்பதால் வயிற்றுப்போக்கு, மற்றும் டைபைடு காய்ச்சல் ஏற்பட கூடுமென கொழும்பு சிறுவர் வைத்தியசாலையின் சிறுவர் நோய் தொடர்பான விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+பண்டிகை காலங்களில் ஏற்படக்கூடிய நோய் நிலைகளில் இருந்து பாதுகாப்பு பெறுவது தொடர்பில் ஞாயிற்றுக்கிழமை (23) கேசரிக்கு பதிலளிக்கையிலேயே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+தற்போது பாடசாலை விடுமுறை அளிக்கப்பட்டுள்ளதுடன் பண்டிகை காலத்தை முன்னிட்டு சிறுவர்கள் வெளியிடங்களுக்கு சுற்றுலாவுக்காக செல்வதும் அதிகரித்துள்ளது. அவ்வாறு சுற்றுலாக்களுக்கு செல்வோர் கண்களில் தென்படும் உணவகங்களிலும் கடைகளிலும் உணவு மற்றும் சிற்றுண்டிகளை கொள்வனவு செய்து உண்பதை வாடிக்கையாகக் கொண்டுள்ளனர்.
+
+...
+
+[Data](articles/e5893ed6.json)
+
+---
+
+### Demand to release Indian fishermen
+
+*2024-12-23 01:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-விடுவிக்கக்-கோரிக்கை/175-349107) · `ta`
+
+DMK urges release of Indian fishermen arrested by Sri Lankans. Meeting calls for action to free captives and return boats, citing impact on bilateral ties and fishermen's livelihoods.
+
+🟩
+
+It has been urged to release the Indian fishermen arrested by Sri Lankan fishermen.
+
+The issue was investigated at a meeting of the Dravida Munnetra Kazhagam Executive Committee at the Chennai -Artist Stadium yesterday (22) chaired by party leader MK Stalin.
+
+Meanwhile, members of the party at the Executive Committee said that the arrest of Indian fishermen and confiscating their boats would question their livelihood.
+
+The prison sentence imposed on Indian fishermen in the Sri Lankan courts has been pointed out to disrupt the friendship between the two countries.
+
+The DMK Executive Committee meeting has asked the Chief Minister of Tamil Nadu to take steps to release the Indian fishermen who are currently captured in Sri Lanka and the release of their boats.. (A)
+
+◼️
+
+[Data](articles/a98a377c.json)
+
+[Extended Data](ext_articles/a98a377c.ext.json)
+
+---
 
 ### 2024-12-22 (Sunday)
 
@@ -340,6 +424,8 @@ Police have discovered that someone had later deleted the CCTV footage recorded 
 
 [Data](articles/60de7282.json)
 
+[Extended Data](ext_articles/60de7282.ext.json)
+
 ---
 
 ### Sri Lanka’s CEB and LECO borrows from ADB under Treasury guarantees
@@ -357,6 +443,8 @@ The project will focus on strengthening and modernizing of climate-resilient tra
 ...
 
 [Data](articles/e3c03b66.json)
+
+[Extended Data](ext_articles/e3c03b66.ext.json)
 
 ---
 
@@ -2249,125 +2337,5 @@ Police say the baby, who has a good physique, may have been born a day ago.
 [Data](articles/ae3289ca.json)
 
 [Extended Data](ext_articles/ae3289ca.ext.json)
-
----
-
-### Are you aware of public leave in 2025?
-
-*2024-12-22 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204607) · `si`
-
-Here's a summary of the public holidays in 2025 in approximately 200 characters:
-
-
-
-Public holidays in 2025 announced by Government Printing Department. 26 holidays total. April has most with 4. Sinhala/Hindu New Year on April 14th. Christmas on Tuesday, April 25th. Sunday, April 13th, is day before New Year. Gazette notification for any changes.
-
-🟩
-
-Meanwhile, the Calendar Department was published by the Government Printing Department regarding 2025.
-
-Accordingly, 26 public holidays have been published in respect of 2025.
-
-The highest number of holidays is in April and is 4.
-
-The Sinhala and Hindu New Year day of the month is on the 14th.
-
-And Christmas Day will be played on Tuesday on Tuesday 25th on Tuesday.
-
-Sunday of April 13 - Day before the Sinhala and Tamil New Year Day
-
-The above public vacation mail, Customs and Meteorologies are also available.
-
-The government printing department said that changes on public holidays would be published in a gazette notification.
-
-◼️
-
-[Data](articles/40201d4b.json)
-
-[Extended Data](ext_articles/40201d4b.ext.json)
-
----
-
-### Crocodile attack
-
-*2024-12-22 11:30:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலை-தாக்கி-பெண்-பலி/175-349080) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"67-year-old woman killed in crocodile attack near Pavakkulam. Incident occurred in Ulukkulama area. Victim was bitten while in a canal near Pudukkudiyiruppu Suduvendrapila."
-
-🟩
-
-A 67 -year -old woman has died miserably after being attacked by a first attack in Ulukkulama area near Pavakkulam.
-
-A woman living in Pudukkudiyiruppu Suduvendrapila has been hit by a crocodile in a nearby canal.
-
-◼️
-
-[Data](articles/baf0add6.json)
-
-[Extended Data](ext_articles/baf0add6.ext.json)
-
----
-
-### “There is a full right to believe the lie is true”
-
-*2024-12-22 11:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யை-உண்மை-என-நம்ப-வைக்க-முழு-உரிமை-உள்ளது/175-349079) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-NPP MP Nilanti Kothachi emphasizes democratic rights: believe truth or lie, criticize government actions, wait for results before judging. Claims NPP never lied during election campaign.
-
-🟩
-
-NPP MP Nilanti Kothachi yesterday (21) said that the people have the right to believe in the truth or false.
-
-Speaking at an event in Kalutara, he said that the people have the right to look at the adverse side of the government's good things and that the government will never prevent the democratic right.
-
-"You have a full right to make any truth false and no false. That's your democratic right. You have the right to see the negative side when the government does something good. Moreover, you have the right to appreciate a leader, government, company or individual community when doing harmful actions, ”he said.
-
-He said it would take time to get the effect of an action and it was better to wait until the results came up before criticizing something.
-
-He said that the NPP members had never lied during the election campaign to bring Anurakumara Dissanayake to the presidential post.
-
-...
-
-[Data](articles/d48b0ffa.json)
-
-[Extended Data](ext_articles/d48b0ffa.ext.json)
-
----
-
-### Pubudu Rice Manufacturer Product Association Ready to resolve the rice crisis
-
-*2024-12-22 11:20:13* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-අර්බුදය-විසඳන්න-පුබුදු-සහල්-නිෂ්පාදක-සංගමය-සූදානම්/11-413769) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Polonnaruwa SMEs claim 90% closed due to rice crisis. They blame large-scale millers for market control. Small & medium mills produce 60% of Sri Lanka's rice. Government intervention buying paddy from farmers suggested to resolve crisis.
-
-🟩
-
-The Polonnaruwa District Small and Medium Scale Pubuduwa Small Manufacturers Association (SME) says that if the government is facing the customers and merchants, the government will not resolve the rice crisis in the country.
-
-They were speaking at a special press conference held at Polonnaruwa today (22) at the Polonnaruwa district.
-
-Speaking further the officials of the Pubudu Rice Manufacturers Association Member JM. Nilantha Kumara Jayalath Jayalath said:
-
-Due to 500 SMEs of the Polonnaruwa district, 90% of them have been closed down, and the measures made by the measures taken by the decisions and masses, the measures, and mulrors.The golden production of rice was collapsed in the crisis of the country, which is created in this country, has caused this small and medium scale mill.
-
-Therefore, this rice crisis can only give the same solution to the SME and mid-scale and milling.
-
-...
-
-[Data](articles/9b3006ec.json)
-
-[Extended Data](ext_articles/9b3006ec.ext.json)
 
 ---

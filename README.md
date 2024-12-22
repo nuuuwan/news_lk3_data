@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 03:12:15**
+As of **2024-12-23 03:27:07**
 
 ## Newspaper Stats
 
-*Scraped **61,528** Articles*
+*Scraped **61,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
 economynextcom | 3,747
-dailyftlk | 4,273
+dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
 tamilmirrorlk | 8,797
-virakesarilk | 10,173
+virakesarilk | 10,174
 adaderanasinhalalk | 10,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,294 (99.6%) of 61,528 articles have been extended.
+61,295 (99.6%) of 61,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### தனியார் துறையின் அரிசி இறக்குமதி மூலம் 430 காேடி ரூபா இலங்கை சுங்கம் இலாபம் - இலங்கை சுங்கத்திணைக்களம் தெரிவிப்பு
+
+*2024-12-23 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201919) · `ta`
+
+அரிசி இறக்குமதி செய்வதற்கு தனியார் துறைக்கு அனுமதி வழங்கிள்ளதன் மூலம் கடந்த சில தினங்களில் இலங்கை சுங்கம் இறக்குமதி வரியாக 430 கோடி ரூபா ஈட்டிக்கொண்டுள்ளதது. இறக்குதி செய்யப்பட்ட 67ஆயிரம் மெட்ரிக்தொன் அரிசி மூலமே இந்த வருமானத்தை ஈட்டிக்கொண்டுள்ளதாகவே இலங்கை சுங்கம் தெரிவித்துள்ளது.
+
+கடந்த சில வாரங்களாக நாட்டில் ஏற்பட்ட அரிசிக்கான தட்டுப்பாட்டுக்கு தீர்வுகாணும் வகையில் அரசாங்கத்தின் அனுமதியுடன் அரிசி இறக்குமதிக்காக தனியார் துறைக்கும் அரசாங்கம் அனுமதி அளித்திருந்தது. அதன் பிரகாரம் டிசம்பர் 20ஆம் திகதிவரை அரிசி இறக்குமதிக்கு அனுமதி அளித்து வர்த்தமானியும் வெளியிடப்பட்டிருந்தது. அதனடிப்படையில் இந்த காலப்பகுதிக்குள் அவசர தேவை நிமித்தம் 70ஆயிரம் மெட்ரிக்தொன் அரிசி இறக்குமதி செய்ய அரசாங்கம் தீர்மானித்திருந்தது.
+
+இந்த காலப்பகுதிக்குள் தனியார் துறையினர் 67ஆயிரம் மெட்ரிக்தொன் அரிசி இறக்குமதி செய்துள்ளதன் மூலம் இலங்கை சுங்கம் இதன் மூலம் 430 கோடி ரூபா இறக்குமதி வரியாக ஈட்டிக்கொண்டுள்ளது.
+
+...
+
+[Data](articles/c1cbf7ad.json)
+
+---
 
 ### PM highlights education sector priorities in meeting with ADB
 
@@ -49,6 +65,26 @@ According to the Prime Minister’s Media Unit, ADB representatives reaffirmed t
 ...
 
 [Data](articles/04f31061.json)
+
+[Extended Data](ext_articles/04f31061.ext.json)
+
+---
+
+### Teachers in Western Province barred from conducting tuition
+
+*2024-12-23 03:00:30* · [`dailyftlk`](https://www.ft.lk/news/Teachers-in-Western-Province-barred-from-conducting-tuition/56-770919) · `en`
+
+A circular has been issued preventing teachers at schools in the Western Province from conducting paid tuition classes to students from their respective schools, whether during school hours, after school, or on weekends and public holidays.
+
+The circular, signed by Western Province Secretary of Education K.A.D.R. Nishanthi Jayasinghe, was forwarded to the Director of Education, Regional Directors, Divisional Directors of Education, and all principals in the province.
+
+The circular mandates that all teachers be informed of this. The Education Secretary emphasised that disciplinary action will be taken against teachers who violate these regulations.
+
+This prohibition was first imposed in the Sabaragamuwa Province and later adopted by the Central Province as well.
+
+◼️
+
+[Data](articles/468548df.json)
 
 ---
 
@@ -2201,59 +2237,5 @@ The 54 -year -old man from Narangwila, Gampola died in the accident.
 [Data](articles/ad55fd51.json)
 
 [Extended Data](ext_articles/ad55fd51.ext.json)
-
----
-
-### Ministry of Principals of National Schools
-
-*2024-12-22 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204610) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Applications open for Principal positions in National Schools. Eligible SL Education Service officers can apply online until 31st. Details on Ministry of Education website."
-
-🟩
-
-The Ministry of Education has issued a special announcement regarding the vacancies in the post of Principals of the Sri Lanka Education Administrative Service of the National Schools.
-
-It is said that applications will be called on officials of the Sri Lanka Education Service Officers in Sri Lanka Education Service to fill vacancies in these schools as the law of the Public Service Commission.
-
-The Ministry of School Registration, School Registration, Signs, and Specimen Application Form has been published on the website of the Ministry of Education on the 11th of the last 11 days.
-
-Accordingly, the application will be purchased under the website of the website.
-
-The last day of the applications can be submitted is the 31st of this month, the Ministry of Education has also said.
-
-◼️
-
-[Data](articles/dfcc4485.json)
-
-[Extended Data](ext_articles/dfcc4485.ext.json)
-
----
-
-### Gaza ceasefire talks 90% complete, Palestinian official says
-
-*2024-12-22 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104419/gaza-ceasefire-talks-90-complete-palestinian-official-says) · `en`
-
-Talks to reach a Gaza ceasefire and hostage release deal between Israel and Hamas are 90% complete, but key issues remain that need to be bridged, a senior Palestinian official involved in the talks told the BBC.
-
-One of the main sticking points is the continued Israeli military presence in the Philadelphi corridor, a strategically important strip of land in southern Gaza along the border with Egypt.
-
-The Palestinian official shared details of the discussions being held in Doha which include the potential creation of a buffer zone several kilometres wide along the length of Israel’s border with Gaza.
-
-Israel would retain a military presence within this area, the official said.
-
-With these issues resolved, a three-stage ceasefire could be agreed within days, they added.
-
-The deal would include an exchange of 20 Palestinian prisoners for every female soldier released in the first of three stages of the ceasefire.
-
-...
-
-[Data](articles/97e296cb.json)
-
-[Extended Data](ext_articles/97e296cb.ext.json)
 
 ---

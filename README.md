@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 03:42:46**
+As of **2024-12-23 04:01:12**
 
 ## Newspaper Stats
 
-*Scraped **61,530** Articles*
+*Scraped **61,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,22 +19,74 @@ dailymirrorlk | 4,733
 adalk | 5,862
 adaderanalk | 7,509
 tamilmirrorlk | 8,797
-virakesarilk | 10,174
+virakesarilk | 10,177
 adaderanasinhalalk | 10,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,296 (99.6%) of 61,530 articles have been extended.
+61,298 (99.6%) of 61,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
+### தனங்கிளப்பு பகுதியில் சட்டவிரோதமாக பனை மரங்கள் தறிப்பு!
+
+*2024-12-23 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/201922) · `ta`
+
+தனக்கிளப்பு பகுதியில் 25க்கும் மேற்பட்ட அனுமதியற்ற சட்டவிரோத பனை மரங்கள் தொடர்ச்சியாக தறிக்கப்பட்டு வந்த நிலையில் பொதுமக்கள் வழங்கிய முறைப்பாட்டை அடுத்து  பனை அபிவிருத்தி சபையால் சாவகச்சேரி பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது .
+
+தனங்கிளப்புப் பகுதியில் தொடர்ச்சியாக சட்டவிரோத பனை மரங்கள் வெட்டப்படுவதாக பனை அபிவிருத்திச் சபைக்கு முறைப்பாடு கிடைக்கப்பெற்றது.
+
+முறைப்பாட்டின் அடிப்படையில் எமது உத்தியோத்தர்கள் குறித்த இடத்திற்கு விஜமம் மேற்கொண்ட நிலையில் அங்கு 25க்கும் மேற்பட்ட பனை மரங்கள் தறிக்கப்பட்டமை அவதானிக்கப்பட்டதுடன் கனகர இயந்திரங்கள் குறித்த பகுதியில் கொண்டுவரப்பட்டமையும் நேரடியாக அவதானிக்கப்பட்டது.
+
+குறிப்பாக சொல்ல வேண்டுமானால் இள வயது பனைகள் பல தறிக்கப்பட்டும் அடிப்பாகங்கள் எயியூட்டப்பட்ட நிலையிலும் காணப்பட்டது.
+
+சம்பவம் தொடர்பில் நெல்லியடியைச் சேர்ந்த காணி உரிமையாளர் சாவகச்சேரி பொலிஸ் நிலையம் வரவழைக்கப்பட்டுள்ள நிலையில் பொலிசார் வழக்கு தாக்கல் செய்வதாக உறுதியளித்தனர்.
+
+...
+
+[Data](articles/c9459e11.json)
+
+---
+
+### வவுனியாவில் முதலை தாக்கி முதியவர் பலி
+
+*2024-12-23 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/201921) · `ta`
+
+வவுனியாவில் முதலை தாக்கியதில் சூடுவெந்தபுலவை சேர்ந்த பெண் ஒருவர் பலியாகியுள்ளதாக உலுக்குளம் பொலிஸார் தெரிவித்தனர்.
+
+நேற்றையதினம் மாடுகளை மேய்ப்பதற்காக பாவற்குளம் - சூடுவெந்தபுலவு பகுதிக்கு சென்ற வேளை அப்பகுதியில் காணப்பட்ட ஆற்றுப்பகுதியில் இறங்கிய போதே முதலையின் தாக்குதலுக்கு இலக்காகி பலியாகியுள்ளார்.
+
+இச்சம்பவத்தில் சூடுவெந்தபுலவினை சேர்ந்தமூன்று பிள்ளைகளின்  தாயான 67 வயதுடைய ஆதம்பாவா முசிறியா என்பவரே பலியாகியுள்ளார்.
+
+◼️
+
+[Data](articles/d4b4b058.json)
+
+---
+
+### யாழ்ப்பாணத்தில் நான்கு நாட்கள் காய்ச்சலால் பீடிக்கப்பட்ட குடும்பஸ்தர் உயிரிழப்பு!
+
+*2024-12-23 03:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/201920) · `ta`
+
+யாழ்ப்பாணத்தில் நான்கு நாட்கள் காய்ச்சலால் பீடிக்கப்பட்ட குடும்பஸ்தர் ஒருவர் இன்றையதினம் உயிரிழந்துள்ளார். கோண்டாவில் பகுதியைச் சேர்ந்த கந்தசாமி குணரத்தினம் (வயது 67) என்ற 5 பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் நான்கு தினங்களாக காய்ச்சலினால் பீடிக்கப்பட்டிருந்தார். இந்நிலையில் அவரை ஞாயிற்றுக்கிழமை (22) யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு சென்றவேளை அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்தனர்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிரேம்குமார் மேற்கொண்டார். உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/e540521a.json)
+
+---
+
 ### Sri Lanka Customs Profits -Sri Lanka Customs Department
 
-*2024-12-23 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201919) · `ta`
+*2024-12-23 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/201919) · `ta`
 
 Sri Lanka Customs earns Rs 430 crore from private sector rice imports. 67,000 metric tons imported under temporary permit. Gazette extension until January 10 pending.
 
@@ -94,6 +146,8 @@ This prohibition was first imposed in the Sabaragamuwa Province and later adopte
 
 [Data](articles/468548df.json)
 
+[Extended Data](ext_articles/468548df.ext.json)
+
 ---
 
 ### AHRC urges President to tackle judicial and legal reforms
@@ -111,6 +165,8 @@ Second, the organisation stressed the urgency of introducing comprehensive anti-
 ...
 
 [Data](articles/4dd45ae0.json)
+
+[Extended Data](ext_articles/4dd45ae0.ext.json)
 
 ---
 
@@ -2169,81 +2225,5 @@ The whole of Sri Lanka was able to provide most of the seafoods required by Mayi
 [Data](articles/81039a4d.json)
 
 [Extended Data](ext_articles/81039a4d.ext.json)
-
----
-
-### Tamilnadu
-
-*2024-12-22 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201864) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamilnadu: TNA's role in Tamil national politics and its journey forward. The party must not lag behind in fulfilling this responsibility.
-
-🟩
-
-The role of the TNA to play in Tamil national politics and the journey to carry out. The party cannot be left behind after that responsibility.
-
-◼️
-
-[Data](articles/e19380d0.json)
-
-[Extended Data](ext_articles/e19380d0.ext.json)
-
----
-
-### Crocodile strikes
-
-*2024-12-22 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201869) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"67-year-old woman dies after crocodile attack in Pavakkulam, Vavuniya. Incident occurred on 21st."
-
-🟩
-
-A woman has died yesterday (21) after a crocodile attacked in the Pavakkulam area belonging to the Vavuniya - Ulukkulam police division, police said.
-
-The deceased woman Sudhevendra Bilav is a 67 -year -old from New Kudumane.
-
-◼️
-
-[Data](articles/52643d1d.json)
-
-[Extended Data](ext_articles/52643d1d.ext.json)
-
----
-
-### Four killed in road accidents in various areas
-
-*2024-12-22 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/201865) · `ta`
-
-4 killed in road accidents: Marawila, Ambalantota, Gampola, Hettipola. Collisions involving buses, motorcycles, pedestrians. Multiple hospitals involved.
-
-🟩
-
-Four people were killed in accidents that took place yesterday (21) in the police divisions of Marawila, Ambalantota, Gampola and Hettipola.
-
-A three -wheeler collided head -on with a bus traveling to Colombo in Marawila, Peliyagoda - Puttalam road.
-
-Meanwhile, a tipper vehicle crashed into the back of a motorcycle traveling in the same direction in the Vellawaya road in Colombo - Wellawaya Road, which belongs to the Ambalantota police division.
-
-The driver of the motorcycle, who was injured in the accident, was admitted to the Ambalantota Hospital and died after being admitted to the Karapitiya Hospital for further treatment.
-
-In addition, a motorcycle crashed into a pedestrian who was walking along the road at Taulam Motara on the Gampola - Tholuwa road.
-
-A pedestrian driver and pedestrian driver and pedestrian were admitted to the Gampola Hospital and were treated for treatment.
-
-The 54 -year -old man from Narangwila, Gampola died in the accident.
-
-...
-
-[Data](articles/ad55fd51.json)
-
-[Extended Data](ext_articles/ad55fd51.ext.json)
 
 ---

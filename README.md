@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 13:00:21**
+As of **2024-12-22 13:12:51**
 
 ## Newspaper Stats
 
-*Scraped **61,406** Articles*
+*Scraped **61,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,848
-adaderanalk | 7,498
-tamilmirrorlk | 8,787
-virakesarilk | 10,127
-adaderanasinhalalk | 10,608
+adaderanalk | 7,499
+tamilmirrorlk | 8,788
+virakesarilk | 10,132
+adaderanasinhalalk | 10,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,206 (99.7%) of 61,406 articles have been extended.
+61,206 (99.7%) of 61,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### வேட்பாளர் பட்டியலை பொலிஸில் சமர்ப்பிக்க நடவடிக்கை
+
+*2024-12-22 13:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-பட்டியலை-பொலிஸில்-சமர்ப்பிக்க-நடவடிக்கை/175-349087) · `ta`
+
+பொதுத் தேர்தலில் போட்டியிட்டதையடுத்து வருமானம் மற்றும் செலவு அறிக்கையை சமர்ப்பிக்கத் தவறிய வேட்பாளர்களின் பட்டியலை இலங்கை தேர்தல் ஆணைக்குழு பொலிஸிடம் வழங்க உள்ளது.
+
+வருமானம் மற்றும் செலவு அறிக்கைகளை சமர்ப்பித்த வேட்பாளர்களின் பெயர்கள் மாவட்ட செயலகங்கள் மற்றும் மாவட்ட தேர்தல் அலுவலகங்களில் காட்சிப்படுத்தப்பட்டுள்ளதாக அவர் மேலும் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/8ed14836.json)
+
+---
+
+### புதிய வர்த்தக வாய்ப்புகளைத் தூண்டும் ஜனாதிபதி அநுர குமாரவின் இந்திய விஜயம்
+
+*2024-12-22 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201856) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் சமீபத்திய இந்திய விஜயம் சந்தேகத்திற்கு இடமின்றி வர்த்தகம், சுற்றுலா, எரிசக்தி மற்றும் டிஜிட்டல் மாற்றம் போன்ற துறைகளில் இலங்கை வர்த்தக சமூகத்திற்கு குறிப்பிடத்தக்க வாய்ப்புகளை திறந்து வைத்துள்ளது. இருப்பினும், இந்த வாய்ப்புகள் அதிகரித்த போட்டி, சார்பு அபாயங்கள் மற்றும் உள்ளூர் தொழில்கள் மற்றும் இறையாண்மைக்கு சாத்தியமான அச்சுறுத்தல்கள் உட்பட சவால்களுடன் வருகின்றன.
+
+◼️
+
+[Data](articles/349986ea.json)
+
+---
+
+### கெபித்திகொல்லேவ பகுதியில் மோட்டார் சைக்கிள் - லொறி விபத்து ; ஒருவர் பலி
+
+*2024-12-22 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/201857) · `ta`
+
+அனுராதபுரம் - கெபித்திகொல்லேவ பொலிஸ் பிரிவுக்குட்பட்ட பதவிய வீதியில் உஸ்கொல்லேவ பகுதியில் வைத்து மோட்டார் சைக்கிள் ஒன்று கெப் வண்டி மீது மோதி, வேகக் கட்டுப்பாட்டை இழந்து, எதிரே வந்த சிறிய ரக லொறியுடன் மோதியதில் ஒருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் கல்னேவ பிரதேசத்தில் அமைந்துள்ள திரையரங்கத்துக்கு அருகில் வசித்த 35 வயது நபர் ஆவார்.
+
+◼️
+
+[Data](articles/71401e8c.json)
+
+---
+
+### துவிச்சக்கரவண்டியை தள்ளிச் சென்றவர் மீது மோதிய வேன்! - வயோதிபர் பலி!
+
+*2024-12-22 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201851) · `ta`
+
+சீதுவ பொலிஸ் பிரிவுக்குட்பட்ட அமந்தொலுவ பிரதேசத்தில் வேன் ஒன்று துவிச்சக்கரவண்டியை தள்ளிக்கொண்டிருந்தவர் மீது மோதியதில் அந்த நபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உதம்விட்டயிலிருந்து ரத்தொலுவ நோக்கிச் சென்ற வேன் வீதியோரத்தில் துவிச்சக்கரவண்டியைத் தள்ளிச் சென்ற நபர் மீது மோதியுள்ளது.
+
+இவ்விபத்தில் காயமடைந்தவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது உயிரிழந்துள்ளதாகவும், சடலம் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளது.
+
+விபத்தினை ஏற்படுத்திவிட்டு வேன் தப்பிச் சென்றுள்ளதுடன், சந்தேக நபரை கைது செய்வதற்கான மேலதிக விசாரணைகளில் பொலிஸார் ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/08cdad15.json)
+
+---
 
 ### School student dies;Tiktok prohibition
 
@@ -51,6 +109,76 @@ However, the Dick Doc said it was expecting an emergency explanation from the Al
 [Data](articles/6fab0468.json)
 
 [Extended Data](ext_articles/6fab0468.ext.json)
+
+---
+
+### ගතවූ පැය 24ට රිය අනතුරුවලින් ජීවිත 13ක් බිලි වෙයි
+
+*2024-12-22 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204608) · `si`
+
+ගතවූ පැය 24 තුළ දිවයිනේ විවිධ ප්‍රදේශවල සිදුවූ රිය අනතුරු 10කින් පුද්ගලයින් 13 දෙනෙකු මියගොස් තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ, හැටන්, පින්නදූව, මාරවිල, අම්බලන්තොට, ගම්පොල, හෙට්ටිපොළ, මඩකලපුව, මිරිහාන, කැබිතිගොල්ලෑව සහ සීදුව යන ප්‍රදේශවලින් එම අනතුරු වාර්තා වී ඇති බවය.
+
+උත්සව සමය තුළ මාර්ගවල ගමන් කිරීමේ දී වැඩි අවධානයක් යොමු කළ යුතු බවයි පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග මහතා පැවසීය.
+
+"උත්සව සමය එළැඹීමත් සමග මහා මාර්ගවල වැඩි වශයෙන් වාහන ගමනාගමනයක් වගේම පදිකයිනුත් බහුලව ගැවසීමක් දකින්න පුළුවන්. පදිකයන් වශයෙන් ඔබ මාර්ගයේ ගමන් කරන කොට ඉතාම සුපරික්ෂාකාරීව ගමන්කරන්න ඕනේ. ඒ වගේම රියදුරෙක් වශයෙන් ඔබ ඉතාම සැලකිල්ලෙන් මාර්ගයේ ධාවනය කළ යුතුයි."
+
+මේ අතර මේ වසරේ ගතවූ කාලය තුළ රිය අනතුරුවලින් පුද්ගලයින් 2,243 දෙනෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+ජනවාරි මස පළමුවන දින සිට දෙසැම්බර් 13 වන දින දක්වා කාලය තුළ දිවයින පුරා රිය අනතුරු 22,967ක් වාර්තා වී ඇති අතර ඉන් 2,141ක් මාරක රිය අනතුරු බව පොලීසිය සඳහන් කළේය.
+
+එම කාලය තුළ රිය අනතුරුවලින් බරපතළ තුවාල ලැබූ සංඛ්‍යාව 4,552 දෙනෙකු වන බව ද සඳහන්ය.
+
+◼️
+
+[Data](articles/16513017.json)
+
+---
+
+### Sri Lanka’s 2025 holiday calendar: Here’s the full list
+
+*2024-12-22 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104417/sri-lankas-2025-holiday-calendar-heres-the-full-list) · `en`
+
+With just nine days remaining until the start of 2025, the Government Printing Department has released the official calendar for the upcoming year, which includes 26 public holidays. Among these, April stands out as the month with the highest number of holidays, offering four in total.
+
+April’s Festivities: The Sinhala and Tamil New Year falls on Monday, April 14, preceded by a preparatory day on Sunday, April 13. Additionally, Vesak Full Moon Poya Day, celebrated on Monday, May 12, is another significant date in the year.
+
+Special Bank Holiday: A special bank holiday has been declared on Tuesday, April 15, following the Sinhala and Tamil New Year.
+
+Christmas on a Weekday: Christmas Day, December 25, will fall on a Thursday, providing an opportunity for an extended holiday weekend.
+
+The Government Printing Department has emphasized that any changes to public holidays will be communicated through official gazette notifications.
+
+The Full Moon Poya holidays were approved by the Poya Committee.
+
+...
+
+[Data](articles/397d6be3.json)
+
+---
+
+### அநுர அரசின் அடுத்த நகர்வு
+
+*2024-12-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201848) · `ta`
+
+தசாப்தம் கடந்தும் 'எட்கா' உடன்­ப­டிக்கை குறித்த பேச்­சு­வார்த்­தைகள் முன்­னெ­டுக்­கப்­பட்ட நிலையில் நாட்டின் பொரு­ளா­தார வங்­கு­ரோத்தைக் காரணம் காண்­பித்து, கடந்த மார்ச் மாதத்­துக்கு முன்­ன­தாக ஒப்­பந்­தத்­தை கைச்­சாத்­தி­டு­வ­தற்கு அப்­போ­தைய ஜனா­தி­பதி ரணில் விக்­கி­ர­ம­சிங்க முனைந்­தி­ருந்தார். 'எட்கா' உடன்­ப­டிக்கை மூல­மாக வெளி­நாட்டு தனி­ந­பர்கள் மற்றும் தனியார் நிறு­வ­னங்கள் உள்­ளிட்ட தரப்­புக்­களால் வெளி­நாட்டு நேரடி முத­லீ­டு­களை மேற்­கொள்­வ­தற்­கான வாய்ப்­புக்­களை அவர் சர்­வ­தேச நாணய நிதி­யத்தின் உடன்­பா­டு­க­ளுடன் கோடிட்டு காண்­பித்து நகர்­வொன்றைச் செய்தார்.
+
+◼️
+
+[Data](articles/d0127d23.json)
+
+---
+
+### கட்சிக்குள் நிலவும் குழப்பங்களை விட்டுக்கொடுப்பின் ஊடாக தீர்க்கும் காலம் கடந்துவிட்டது ; குழப்பங்களுக்கு மூலகாரணம் மாவையே! - சாணக்கியன் விசேட செவ்வி
+
+*2024-12-22 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/201858) · `ta`
+
+“அடுத்துவரும் தேர்தல்களுக்கு முகங்கொடுக்கக்கூடியவகையில் கட்சியைப் பலப்படுத்தி, முன்நோக்கிப் பயணிக்க வேண்டும் என்பதே எனது நிலைப்பாடு. அதனைவிடுத்து கட்சியிலிருந்து இராஜினாமா செய்த தலைவர் பதவி ஆசையில் இருக்கிறார் என்பதற்காக எம்மால் ஒன்றும் செய்யமுடியாது அல்லவா?. வழமையாக ஜனாதிபதியுடனான சந்திப்பின்போது என்னென்ன விடயங்கள் பற்றிக் கலந்துரையாடுவது என ஒரு அட்டவணை இருக்கும். இச்சந்திப்பின்போது அவ்வாறு எதுவும் இருக்கவில்லை. ஆனால், பின்னர் இச்சந்திப்பு குறித்து ஆராய்ந்தபோது, வெள்ளம் பற்றிப் பேசுவதற்காகத்தான் நேரம் கோரப்பட்டதாகக் கூறப்படுகிறது. மாறாக, தமிழ்த் தேசிய இனப்பிரச்சினை பற்றிப் பேசுவதற்கு சிறிதரன் நேரம் கேட்கவில்லை........”
+
+◼️
+
+[Data](articles/8523267e.json)
 
 ---
 
@@ -101,6 +229,32 @@ Police say the baby, who has a good physique, may have been born a day ago.
 [Data](articles/ae3289ca.json)
 
 [Extended Data](ext_articles/ae3289ca.ext.json)
+
+---
+
+### 2025 වසරේ රජයේ නිවාඩු ගැන ඔබ දැනුවත්ද?
+
+*2024-12-22 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204607) · `si`
+
+මේ අතර 2025ට අදාළ දින දර්ශනය රජයේ මුද්‍රණ දෙපාර්තමේන්තුව විසින් ද ප්‍රකාශයට පත් කර තිබුණි.
+
+ඒ අනුව 2025 වසරට අදාළව රජයේ නිවාඩු 26ක් ප්‍රකාශයට පත් කර තිබේ.
+
+එහි වැඩිම නිවාඩු ගණනක් යෙදී ඇත්තේ අප්‍රේල් මාසයට වන අතර එම නිවාඩු ගණන 4කි.
+
+එම මාසයේ සිංහල හා හින්දු අලුත් අවුරුදු දිනය 14 වන දිනට යෙදී තිබේ.
+
+තවද වෙසක් පුන් පොහෝ දිනය 12 වැනි දිනටත් නත්තල් දිනය දෙසැම්බර් 25 වැනි දින අඟහරුවාදා දිනටත් යෙදී තිබේ.
+
+අප්‍රේල් 13 ඉරිදා - සිංහල හා දෙමළ අලුත් අවුරුදු දිනට පෙර දිනය
+
+ඉහත සඳහන් රජයේ නිවාඩු තැපැල්, රේගු හා කාලගුණවිද්‍යා යන දෙපාර්තමේන්තුවලට ද ලැබේ.
+
+රජයේ නිවාඩු දිනයන් පිළිබඳ වෙනස්වීම් ගැසට් නිවේදනයක මාර්ගයෙන් ප්‍රසිද්ධ කරනු ඇතැයි රජයේ මුද්‍රණ දෙපාර්තමේන්තුව පැවසීය.
+
+◼️
+
+[Data](articles/40201d4b.json)
 
 ---
 
@@ -155,6 +309,26 @@ He said that the NPP members had never lied during the election campaign to brin
 [Data](articles/d48b0ffa.json)
 
 [Extended Data](ext_articles/d48b0ffa.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයක ධීවර ප්‍රජාවට කාලගුණයෙන් අනතුරු ඇඟවීමක්
+
+*2024-12-22 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204606) · `si`
+
+ප්‍රදේශ කිහිපයක ගැඹුරු මුහුදු ප්‍රදේශ ආශ්‍රිතව කටයුතු කරන බහුදින යාත්‍රා සඳහා අවවාදාත්මක නිවේදනයක් නිකුත් කිරීමට කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ බටහිර, මධ්‍යම, බෙංගාල බොක්ක මුහුදු ප්‍රදේශ ආශ්‍රිතව සුළඟේ වේගය ක්ෂණිකව පැ.කි.මී 55-60 පමණ ඉහළ යාමට ඉඩ ඇති බවය.
+
+මේ හේතුවෙන් එම මුහුදු ප්‍රදේශ විටින් විට රළු විය හැකි බවත් එම මුහුදු ප්‍රදේශ ආශ්‍රිතව තද වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවත් එහි දක්වා තිබේ.
+
+තවද ශ්‍රී ලංකාවට ගිනිකොණ දෙසින් වන ගැඹුරු මුහුදු ප්‍රදේශ ආශ්‍රිතව සුළඟේ වේගය ක්ෂණිකව පැ.කි.මී (55-60) දක්වා ඉහළ යාමට ඉඩ ඇති බැවින් එම මුහුදු ප්‍රදේශවල විටින් විට රළු හෝ ඉතා රළු විය හැකි බවත් එම දෙපාර්තමේන්තුව එම නිවේදනය මගින් පෙන්වා දෙයි.
+
+මේ හේතුවෙන් එම මුහුදු ප්‍රදේශ ආශ්‍රිතව ධීවර සහ නාවුක කටයුතුවල යෙදෙන ප්‍රජාව මේ පිළිබඳව අවධානයෙන් පසුවන ලෙස එම දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/65bf8eac.json)
 
 ---
 
@@ -260,6 +434,22 @@ The leaders of the Janata Vimukti Peramuna (JVP), the leadership party of the Na
 
 ---
 
+### කිඹුල් ප්‍රහාරයකින් කාන්තාවක් මරුට
+
+*2024-12-22 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204605) · `si`
+
+ඊයේ (21) උදෑසන කාලයේදී  එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 67 ක් වූ පුදුකුඩුමනේ, සුඩුවේන්ද්‍රපිලව් ප්‍රදේශයේ පදිංචිකාරියකි.
+
+මරණකාරිය ගවයන් රැගෙන යමින් සිටියදී ඇළක සිටියදී එලෙස කිඹුලෙකුගේ ප්‍රහාරයට ලක්ව ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/409f569a.json)
+
+---
+
 ### Ministry assures quality of MOP fertilizer donated by Russia
 
 *2024-12-22 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104413/ministry-assures-quality-of-mop-fertilizer-donated-by-russia) · `en`
@@ -340,6 +530,28 @@ The meeting was attended by senior officials from both the Norwegian Embassy and
 
 ---
 
+### ඇල්බේනියාවේ TikTok තහනමක්
+
+*2024-12-22 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204604) · `si`
+
+TikTok වෙත ප්‍රවේශය වසරකට අවහිර කිරීමට ඇල්බේනියාවේ රජය විසින් තීරණය කර තිබේ.
+
+විශේෂයෙන් ම ළමයින්ට ඉන් ඇතිවී ඇති බලපෑම මත එම තීරණය ගෙන ඇති බව සඳහන් ය.
+
+විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ එම තහනම එළැඹෙන ජනවාරි මාසයෙන් ආරම්භ වන බවය.
+
+ඇල්බේනියාවේ මෙම TikTok කහනම ප්‍රකාශ කර ඇත්තේ පසුගිය මාසයේ පාසලක 14 හැවිරිදි  සිසුවෙකුට සිදුකළ පිහි ඇනුම් සිද්ධියක් හේතුවෙන් බව වාර්තා වෙයි.
+
+කෙසේ වෙතත් යෝජිත TikTok තහනම පිළිබඳව ඇල්බේනියානු රජයෙන් හදිසි පැහැදිලි කිරීම් අපේක්ෂා කරන බව TikTok ආයතනය  පැවසීය.
+
+TikTok ආයතනය පවසන්නේ ඝාතනය වූ  14 හැවිරිදි පාසල් සිසුවාට හෝ පිහියෙන් ඇන ඇතැයි කියන පුද්ගලයාට TikTok ගිණුම් තිබූ බවට කිසිදු සාක්ෂියක් හමු නොවූ බවය.
+
+◼️
+
+[Data](articles/d3e53375.json)
+
+---
+
 ### The floating hospital ship arrived
 
 *2024-12-22 09:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதக்கும்-மருத்துவமனை-கப்பல்-வந்தது/175-349065) · `ta`
@@ -405,6 +617,28 @@ The Director has promised to investigate the matter and take appropriate action.
 [Data](articles/ff3d4081.json)
 
 [Extended Data](ext_articles/ff3d4081.ext.json)
+
+---
+
+### ආනයනය කරන ලද MOP පොහොරවල ප්‍රමිතිය ගැන හෙළි වූ දේ
+
+*2024-12-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204603) · `si`
+
+රුසියානු රජයේ සමාගමක් විසින් නිෂ්පාදනය කර මෙරටට ප්‍රදානය කරන ලද  මියුරේට් ඔෆ් පොටෑෂ් හෙවත් MOP පොහොර තොගයේ ප්‍රමිතිය සම්බන්ධව කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍යංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+එම පොහොර තොගයේ වර්ණය පිළිබඳව ගොවීන් සහ ගොවි සංවිධාන අතර යම් කතාබහක් නිර්මාණය වී තිබූ අතර ඒ සම්බන්ධව අමාත්‍යංශයේ අවධානය යොමුව තිබුණි.
+
+ඒ අනුව ආනයනය කරන ලද එම පොහොර සංයුතියේ විශ්ලේෂණ වාර්තාව සහ පරීක්ෂා කරන ලද අනෙකුත් ප්‍රමිතීන් අනුව පොහොර තොගය නිසි ප්‍රමිතියෙන් යුතු බවට අනාවරණය වී තිබේ.
+
+ඒ අනුව අනාවරණය වී ඇත්තේ එම පොහොරවල වර්ණය තැන්පතුවේ පවතින ඛනිජ ලවණ මත තීරණය වන බවය.
+
+යකඩ ඔක්සයිඩ් පවතින විට මෙහි වර්ණය රතු පැහැයක් ගන්නා අතර එසේ නොවන අවස්ථාවල සුදු පැහැයක් ගන්නා බවත් පොහොරවල ක්‍රියාකාරිත්වයේ කිසිදු වෙනසක් සිදු නොවන අතර එකම පොටෑසියම් ප්‍රමාණයක් සපයන බවත් එහි සඳහන් වේ.
+
+අමාත්‍යංශය පැවසුවේ ඒ සම්බන්ධව පාංශු විද්‍යාව පිළිබඳ විද්‍යාඥ රේණුකා සිල්වා මහත්මිය විසින් ලබා දී ඇති වාර්තාව අනුව මෙය තහවුරු කළ තොරතුරු මත පදනම් වන බවත් ය.
+
+...
+
+[Data](articles/d1f01c30.json)
 
 ---
 
@@ -2045,315 +2279,5 @@ These ministers used Air Force aircraft for their transportation from 2019 to 20
 [Data](articles/7505c69a.json)
 
 [Extended Data](ext_articles/7505c69a.ext.json)
-
----
-
-### One person arrested with domestic gun in Nuwaragala forest
-
-*2024-12-21 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201798) · `ta`
-
-Arrest made in Nuwaragala forest: 60-year-old caught with homemade firearm during police raid.
-
-🟩
-
-Mangalagama police said that a suspect was arrested yesterday (20) with a locally manufactured gun in the Nuwaragala forest, which belongs to the Mangalagama police division, Polonnaruwa.
-
-The suspect has been arrested during a raid carried out on the basis of information received by the Mangalagama police station officials.
-
-The arrested suspect is a 60 -year -old from Mangalagama.
-
-◼️
-
-[Data](articles/cb0137c1.json)
-
-[Extended Data](ext_articles/cb0137c1.ext.json)
-
----
-
-### President to attend Anuradhapura Teaching Hospital
-
-*2024-12-21 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204578) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake visited Anuradhapura Teaching Hospital to check on his mother's health. He arrived unexpectedly, catching hospital staff off guard. His mother has been undergoing treatment there since last week.
-
-🟩
-
-President Anura Kumara Dissanayake has come to see his mother who is receiving treatment at the Anuradhapura Teaching Hospital yesterday afternoon.
-
-The President had gone to see his mother's health, and hospital staff were not aware of his emergency.
-
-The President's mother is currently receiving treatment at the Anuradhapura Teaching Hospital since the next week.
-
-◼️
-
-[Data](articles/d8b393b9.json)
-
-[Extended Data](ext_articles/d8b393b9.ext.json)
-
----
-
-### Sri Lanka captain Asalanka on Wellalage’s omission from NZ tour
-
-*2024-12-21 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104395/sri-lanka-captain-asalanka-on-wellalages-omission-from-nz-tour-) · `en`
-
-The Sri Lankan cricket team departed for New Zealand last night (20) to compete in a three-match T20 and ODI series.
-
-Speaking to the media before leaving the island, Sri Lanka captain Charith Asalanka addressed the decision to omit young spinner Dunith Wellalage from the squad, citing the need for an additional fast bowler to adapt to New Zealand’s pitch conditions.
-
-Explaining the rationale behind the selection, Asalanka said, “Dunith was dropped because we wanted to include an extra fast bowler for the conditions in New Zealand. It was a very tough decision for me, the selection committee, and the coach. Sometimes, such calls have to be made when playing on pitches like those in New Zealand.”
-
-Asalanka also commented on the team’s preparation and morale ahead of the challenging tour. “The players are in good spirits. Their performances in the recent T10 series were commendable, with players contributing through runs and wickets. This has been good preparation for the team,” he said.
-
-...
-
-[Data](articles/99a11a57.json)
-
-[Extended Data](ext_articles/99a11a57.ext.json)
-
----
-
-### Two persons arrested with ice drugs in Megoda
-
-*2024-12-21 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201793) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Two men, ages 24 & 28, arrested in Meegoda for ice drugs. Police seized 13.7g & 5.9g of ice. Further investigation ongoing."
-
-🟩
-
-Two suspects have been arrested by the Southern Police Crime Unit of the Western Province on Friday (20).
-
-The suspects have been arrested during two rounds carried out on information received by the Southern Police Crime Unit of the Western Province.
-
-The arrested suspects were 24 and 28 years old from Meegoda.
-
-13 g 700 ml of ice from the suspects and 05 g 900 ml of ice have been seized.
-
-Further investigations are being carried out by the Southern Police Crime Unit of the Western Province.
-
-◼️
-
-[Data](articles/5cbb7308.json)
-
-[Extended Data](ext_articles/5cbb7308.ext.json)
-
----
-
-### Private sector rice imports total 67,000 MT as deadline ends
-
-*2024-12-21 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104393/private-sector-rice-imports-total-67000-mt-as-deadline-ends) · `en`
-
-Sri Lanka Customs confirmed that a total of 67,000 metric tons of rice were imported by traders before the private sector’s rice import deadline expired at midnight yesterday (20).
-
-The import initiative was part of measures to address domestic supply needs as the local markets saw a shortage of several types of rice and price hikes recently.
-
-◼️
-
-[Data](articles/44860e18.json)
-
-[Extended Data](ext_articles/44860e18.ext.json)
-
----
-
-### 3 dead, over 20 injured as bus topples down precipice
-
-*2024-12-21 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104394/3-dead-over-20-injured-as-bus-topples-down-precipice) · `en`
-
-Another person who was injured and hospitalized during the passenger bus accident on the Hatton – Kandy main road has succumbed to injuries while receiving treatment at the hospital, Police Media Spokesman confirmed.
-
-This brings the death toll to three, while 22 others are still hospitalized with injuries following the accident in Mallawaappu, where a private passenger bus veered off the road and fell down a precipice.
-
-The bus, which was traveling from Hatton to Kandy, was carrying 25 passengers at the time of the accident.
-
-◼️
-
-[Data](articles/83234250.json)
-
-[Extended Data](ext_articles/83234250.ext.json)
-
----
-
-### Heroin and Ice drugs arrested in Kalkisa
-
-*2024-12-21 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/201789) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-48-year-old suspect arrested in Kalkisa with 1kg ice & 106g heroin. Seized 170,000 rupees & electronic scales. Handed to local police for investigation.
-
-🟩
-
-A suspect with ice and heroin drugs in Hane Road, which belongs to the Mount Lavinia Police Division, was arrested by the Mount Lavinia Police Crime Unit on Friday (20).
-
-The suspect has been arrested during a raid carried out on the basis of confidential information received by the Malkisa Police Crime Unit.
-
-The suspect is 48 years old from the Malkisa area.
-
-The police have seized 1 kg of ice drugs, 106 grams of heroin, and 170,000 rupees earned by drug trafficking and electronic scales.
-
-Subsequently, the suspect has been handed over to the Malkisa Police Station for further investigations.
-
-◼️
-
-[Data](articles/558c35f6.json)
-
-[Extended Data](ext_articles/558c35f6.ext.json)
-
----
-
-### Three killed in Hatton bus accident
-
-*2024-12-21 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204577) · `si`
-
-3 dead as bus crashes off road near Hatton, 30 injured, some critical cases transferred to Kandy hospital.
-
-🟩
-
-Police said that a bus slipped out of the accident on Hatton-Kandy main road, police said.
-
-A private bus was traveling from Hatton to Kandy.
-
-The bus was running out of the road in Hatton Mallippuwa and fell into a 20-foot precipice.
-
-Around 30 people were admitted to the Hatton Base Hospital and several persons who were in serious condition were transferred to the Kandy Teaching Hospital.
-
-◼️
-
-[Data](articles/176d3877.json)
-
-[Extended Data](ext_articles/176d3877.ext.json)
-
----
-
-### Accident in Hatton: Three killed;27 people were injured
-
-*2024-12-21 11:40:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-கோர-விபத்து-மூவர்-பலி-27-பேர்-படுகாயம்/76-349036) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Bus crash on Hatton-Colombo highway: 3 dead, 27 injured. Victims hospitalized in Tikoyakangana and Kandy. Police investigating."
-
-🟩
-
-On the Hatton -Colombo main road, a bus crashed and crashed.
-
-The victims have been admitted to the Tikoya-Klangan Hospital and some have been transferred to the Kandy Hospital for further treatment, the police media unit said.
-
-◼️
-
-[Data](articles/794d734f.json)
-
-[Extended Data](ext_articles/794d734f.ext.json)
-
----
-
-### Navy rescues 102 Rohingya refugees off SL coast; trawler crew remanded
-
-*2024-12-21 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104392/navy-rescues-102-rohingya-refugees-off-sl-coast-trawler-crew-remanded) · `en`
-
-The crew of the fishing trawler from which Sri Lanka navy rescued over 100 Rohingya refugees in the island’s coast off Wellamulli Waikkal, have been ordered to be remanded in custody until December 31.
-
-Accordingly, 12 crew members of the trawler in question have been remanded in custody after they were produced before courts.
-
-Sri Lanka Navy rescued 102 Rohingya refugees, including 25 children, from a fishing trawler off the island’s east coast on Thursday (19). The refugees, fleeing war-torn Myanmar, were safely brought to Trincomalee port on Friday (20), where they received food and water.
-
-The trawler, spotted by fishermen early Thursday near Wellamulli Waikkal on Sri Lanka’s northern coast, had drifted off course, possibly due to recent cyclonic weather, foreign media reported.
-
-This incident marks the second time the Sri Lankan Navy has rescued a boat of Rohingya refugees, with more than 100 rescued off the coast in December 2022.
-
-◼️
-
-[Data](articles/ba46db47.json)
-
-[Extended Data](ext_articles/ba46db47.ext.json)
-
----
-
-### Lotus Time Extending Time to Visit the Lotus Tower
-
-*2024-12-21 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/201791) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Lotus Tower extends hours: 25-26 Dec 9am-midnight; 26 Dec 9am-11pm; New Year's Eve 9am-1am Jan 1; Jan 1 9am-2am."
-
-🟩
-
-The management company said that the time of visiting the Lotus Tower has been extended during the festive season.
-
-Accordingly, the Lotus Tower will be open for public viewing from the 25th to the 26th of this month from 9 am to midnight.
-
-Meanwhile, it is open from 9.00 am to 11.00 pm on the 26th.
-
-In addition, the last day of this year will open from 9.00 am to 2025 am from 1 am on the 1st of January.
-
-The opening of the 1st of January will be open from 9.00 am to 2 am.
-
-◼️
-
-[Data](articles/8064ed50.json)
-
-[Extended Data](ext_articles/8064ed50.ext.json)
-
----
-
-### Two dead, 23 injured as bus topples down precipice on Hatton–Kandy main road
-
-*2024-12-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104391/two-dead-23-injured-as-bus-topples-down-precipice-on-hattonkandy-main-road) · `en`
-
-UPDATE: Two of the 25 injured individuals have succumbed to their injuries upon admission to the hospital, Ada Derana reporter said.
-
-At least 25 individuals have been injured and hospitalized after a private passenger bus toppled down a precipice in Mallawa on the Hatton – Kandy main road.
-
-The passenger bus was travelling from Hatton to Kandy when the bus veered off the road and toppled down the precipice, Ada Derana reporter said.
-
-The bus was carrying around 25 passengers at the time of the accident, and all of them have sustained injuries.
-
-The injured individuals have been admitted to Hatton and Dick Oya Hospitals, according to Ada Derana reporter.
-
-◼️
-
-[Data](articles/be4c9248.json)
-
-[Extended Data](ext_articles/be4c9248.ext.json)
-
----
-
-### Bus accident on Hatton-Kandy road
-
-*2024-12-21 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204576) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Private bus crashes on Hatton-Kandy road. Vehicle veered off course, landing in nearby tea garden. Estimated 20-25 passengers injured, hospitalized at Dikoya and Watawala hospitals."
-
-🟩
-
-A private bus traveling from Hatton has been in a crash today (21).
-
-The bus had gone out of the road and fell into the nearby tea garden.
-
-At the time of the accident, the bus had been increased by 20 to 25 passengers, and they were admitted to Dikoya and Watawala hospitals.
-
-◼️
-
-[Data](articles/f7452455.json)
-
-[Extended Data](ext_articles/f7452455.ext.json)
 
 ---

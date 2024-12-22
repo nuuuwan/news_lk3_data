@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 17:44:11**
+As of **2024-12-22 18:03:34**
 
 ## Newspaper Stats
 
-*Scraped **61,448** Articles*
+*Scraped **61,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
 adalk | 5,856
-adaderanalk | 7,502
+adaderanalk | 7,503
 tamilmirrorlk | 8,791
 virakesarilk | 10,145
-adaderanasinhalalk | 10,616
+adaderanasinhalalk | 10,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,238 (99.7%) of 61,448 articles have been extended.
+61,238 (99.7%) of 61,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,6 +186,50 @@ Joe Root is due to join the Indian team in the 19th of January.
 
 ---
 
+### හැටන් බස් රථ අනතුරේ රියදුරුට දුන් නියෝගය
+
+*2024-12-22 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204614) · `si`
+
+හැටන් මල්ලිඅප්පුව ප්‍රදේශයේ ඊයේ (21) සිදු වූ පෞද්ගලික බස් රථ අනතුරෙන් තුවාල ලබා දික්ඔය මූලික රෝහලේ පොලිස් ආරක්ෂාව මධ්‍යයේ ප්‍රතිකාර ලබමින් සිටි එම බස් රථයේ රියදුරු මේ මස 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස නියෝග කළේය.
+
+හැටන් මහෙස්ත්‍රාත් අධිකරණයේ වැඩබලන මහෙස්ත්‍රාත් එස්. රාම්මුර්ති මහතා විසින් අද (22) මෙම නියෝග නිකුත් කර ඇත.
+
+රෝහල වෙත පැමිණි වැඩබලන මහෙස්ත්‍රාත්වරයා, වෛද්‍යවරුන්ගෙන් සැකකාර රියදුරුගේ තත්ත්වය පිළිබද කරුණු විමසා මෙම නියෝගය ලබාදී තිබේ.
+
+ඒ අනුව සැකකාර රියදුරා බන්ධනාගාර නිලධාරින්ගේ ආරක්ෂාව යටතේ රෝහල තුළම මේ වනවිට ප්‍රතිකාර ලබමින් සිටියි.
+
+ඊයේ (21) උදෑසන හැටන් සිට මහනුවර බලා ධාවනය වූ මෙම බස් රථය මල්ලිඅප්පුව ප්‍රදේශයේදී අනතුරට ලක්විය.
+
+වංගු සහිත මෙම මාර්ගයේ රියදුරුට බස් රථය පාලනය කරගැනීමට නොහැකිවී එය මාර්ගයෙන් ඉවතට ගොස් අඩි 20ක පමණ කොන්ක්‍රීට් බැම්මකින් පහළට වැටුණි.
+
+එම අනතුරින් රියැදුරු සහ සහයක ඇතුළු 53 දෙනෙකු තුවාල ලැබූ අතර, ඉන් තිදෙනෙකු ජීවිතක්ෂයට පත්විය.
+
+එලෙස මියගොස් තිබුණේ හැටන් ප්‍රදේශයේ පදිංචි වයස අවුරුදු  14ක පාසල් ශිෂ්‍යයෙක්, 68 හැවිරිදි මහනුවර පදිංචිකරුවෙක් සහ කාන්තාවක්ය.
+
+...
+
+[Data](articles/afdbed60.json)
+
+---
+
+### AHRC calls on President Dissanayake to prioritize urgent legal reforms
+
+*2024-12-22 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104421/ahrc-calls-on-president-dissanayake-to-prioritize-urgent-legal-reforms-) · `en`
+
+The Asian Human Rights Commission (AHRC) has urged Sri Lanka’s President Anura Kumara Dissanayake to take immediate action to implement critical legal reforms aimed at restoring the rule of law in Sri Lanka.
+
+In a written appeal, Basil Fernando, the Director of Policy and Programs at the AHRC, emphasized the pressing need to address key deficiencies in the country’s legal and judicial systems. The AHRC identified three crucial areas requiring immediate reform.
+
+The organization stressed the importance of ensuring the daily hearing of serious criminal cases in the High Courts to expedite the judicial process and reduce delays in justice delivery. It also called for the introduction of comprehensive legislation to combat bribery and corruption, a measure deemed essential to restore public confidence in governance and accountability.
+
+Additionally, the AHRC highlighted the necessity of reforming the Attorney General’s Department to enhance its independence, efficiency, and transparency.
+
+◼️
+
+[Data](articles/f7ec93c8.json)
+
+---
+
 ### Hatton accident;Illiteracy
 
 *2024-12-22 16:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-விபத்து-சாரதிக்கு-விளக்கமறியல்/76-349098) · `ta`
@@ -207,6 +251,24 @@ In response to the hospital, the magistrate asked the doctors regarding the plig
 [Data](articles/7080d5cb.json)
 
 [Extended Data](ext_articles/7080d5cb.ext.json)
+
+---
+
+### ආසියානු මානව හිමිකම් කොමිසම ජනපතිගෙන් කළ ඉල්ලීම
+
+*2024-12-22 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204613) · `si`
+
+නීතියේ ආධිපත්‍ය සහ ගෞරවය ප්‍රතිස්ථාපනය කිරීම සඳහා කඩිනම් ප්‍රතිසංස්කරණ ක්‍රියාත්මක කරන ලෙස ආසියානු මානව හිමිකම් කොමිසම ජනාධිපති අනුර කුමාර දිසානායක මහතාගෙන් ඉල්ලීමක් සිදුකර තිබේ.
+
+ආසියානු මානව හිමිකම් කොමිසමේ ප්‍රතිපත්ති හා වැඩසටහන් අධ්‍යක්ෂ බැසිල් ප්‍රනාන්දු මහතා විසින් ලිඛිතව අදාළ ඉල්ලීම සිදුකර ඇති බව වාර්තා වේ.
+
+මෙරට තුළ නීති ප්‍රතිසංස්කරණ ක්‍රියාවලිය සිදුකිරීමේ දී ක්ෂණික අවධානය යොමු කළයුතු වැදගත් ක්ෂේත්‍ර තුනක් සම්බන්ධයෙන් එමගින් කරුණු දක්වා තිබේ.
+
+මහාධිකරණවල පවතින බරපතළ ගණයේ අපරාධ නඩු දෛනිකව විභාගයට ගැනීම, අල්ලස හා දූෂණ පාලනය කිරීමට නීති හඳුන්වා දීම, නීතිපති දෙපාර්තමේන්තුව ප්‍රතිසංස්කරණය කිරීම යන්න එම කරුණු අතරට අයත් වන බව ආසියානු මානව හිමිකම් කොමිසම පෙන්වාදී ඇත.
+
+◼️
+
+[Data](articles/04e202b9.json)
 
 ---
 
@@ -233,6 +295,30 @@ A 27 year old resident of Hasakawa, Hasalaka, is to be produced before the court
 [Data](articles/2ad838f1.json)
 
 [Extended Data](ext_articles/2ad838f1.ext.json)
+
+---
+
+### ආසියානු යොවුන් කාන්තා ශූරතාව ඉන්දියාව
+
+*2024-12-22 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204612) · `si`
+
+ආසියානු ක්‍රිකට් කවුන්සිලය පළමුවරට සංවිධානය කරනු ලැබූ වයස 19න් පහළ ආසියානු කාන්තා විස්සයි20 ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට ඉන්දීය කාන්තා කණ්ඩායම අද (22) සමත් විය.
+
+ඒ අවසන් මහා තරගයේ දී බංග්ලාදේශ කණ්ඩායම ලකුණු 41කින් පරාජයට පත්කරමින්.
+
+මැලේසියාවේ පැවැත් වූ මෙම තරගාවලියේ අවසන් මහා තරගය ක්වාලාලාම්පූර්හි Bayuemas Oval ක්‍රීඩාංගණයේ දී පැවැත්විණි.
+
+එහි පළමුව පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 7ක් දැවී ලකුණු 117ක් රැස්කිරීමට සමත් විය.
+
+කෙසේ නමුත් පිළිතුරු ඉනිම ක්‍රීඩාකළ බංග්ලාදේශ කණ්ඩායමට පන්දුවාර 18.3කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 76ක් පමණි.
+
+ශ්‍රී ලංකාව, පාකිස්තානය, ඉන්දියාව, බංග්ලාදේශය, නේපාලය හා සත්කාරක මැලේසියාව යන කණ්ඩායම් සහභාගිත්වයෙන් මෙම තරගාවලිය පැවැත්විණි.
+
+කෙසේ නමුත් මෙහිදී ශ්‍රී ලංකාවට සුපිරි 4 වටයෙන් ඉහළට යාමට නොහැකි විය.
+
+◼️
+
+[Data](articles/1599cb41.json)
 
 ---
 
@@ -383,6 +469,28 @@ The suspects were later seized from the suspects, five value and two motorcycles
 [Data](articles/65eaf15f.json)
 
 [Extended Data](ext_articles/65eaf15f.ext.json)
+
+---
+
+### බිරිඳට තියුණු ආයුධයකින් පහරදී සැමියා සියදිවි නසාගනී
+
+*2024-12-22 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204611) · `si`
+
+මොරටුව, ඉඳිබැද්ද ප්‍රදේශයේ දී පුද්ගලයෙකු සිය බිරිඳට තියුණු ආයුධයකින් පහරදී සියදිවි හානිකරගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ 56 හැවිරිදි පුද්ගලයෙකු එලෙස මියගොස් ඇති බවය.
+
+අදාළ පුද්ගලයා ඊයේ පස්වරුවේ සිය බිරිඳට තියුණු ආයුධයකින් පහරදී නිවස තුළ ගෙලවැලලාගෙන මියගොස් ඇති බව සඳහන්.
+
+තුවාල ලැබූ කාන්තාව පානදුර රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය සඳහන් කළේය.
+
+අදාළ සිදුවීමට පෙර ඔහු විසින් නිවසට යාබද ස්ථානයක සිටි පුද්ගලයෙකුට ද තියුණු ආයුධයකින් පහරදී තුවාල සිදුකර තිබේ.
+
+පහරකෑමෙන් තුවාල ලැබූ එම පුද්ගලයා කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර කලක සිට පැවති ආරවුලක් එම පහරදීමට හේතුවී ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවල දී අනාවරණය වී ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/8a167a87.json)
 
 ---
 
@@ -2201,125 +2309,5 @@ Shortly after the accident, it is also reported that a person has been removed u
 [Data](articles/5aed2e48.json)
 
 [Extended Data](ext_articles/5aed2e48.ext.json)
-
----
-
-### Gazette is issued to extend the retirement age of doctors
-
-*2024-12-21 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204597) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Gazette extends doctor retirement age to 63. Amends previous notice from Dec 12, 2022. Applies to all medical professionals, specialists, and graduates. Notification sent to Public Administration, Provincial Councils, and Local Government Minister."
-
-🟩
-
-A special gazette notification has been issued noted that the age group of all doctors should be 63 years.
-
-It is said that the gazette notification had been issued by amending the gazette notification published on December 12, 2022.
-
-Accordingly, the compulsory retirement of all officers, specialist dentists and registered medical professionals of specialist doctors, medical and dental graduates and medical administrative graduates should be 63 years of age.
-
-The provisions of the gazette notification have been issued to the Public Administration, Provincial Councils and Local Government Minister.
-
-◼️
-
-[Data](articles/406b91d5.json)
-
-[Extended Data](ext_articles/406b91d5.ext.json)
-
----
-
-### President’s Fund Is A Tragedy
-
-*2024-12-21 20:48:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidents-fund-is-a-tragedy/) · `en`
-
-“Political corruption is a cancer, a cancer that eats away at a citizen’s faith in democracy, diminishes the instinct for innovation and creativity.” ~  Joe Biden, former vice president of the United States.
-
-...
-
-[Data](articles/0ad96220.json)
-
-[Extended Data](ext_articles/0ad96220.ext.json)
-
----
-
-### ලංගම බස් රිය ගසක ගැටි 6ක් රෝහලේ
-
-*2024-12-21 20:23:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංගම-බස්-රිය-ගසක-ගැටි-6ක්-රෝහලේ/11-413761) · `si`
-
-කොළඹ සිට තෙල්දෙනිය දක්වා ධාවනය වු ලංගම බස් රථයක් කඩුගන්නාව ඩෝසන් කුළුන අසල ආසන්නයේ  ඇති විශාල ගසක හැපි තුවාල කරුවන් 6 දෙනෙකු මහනුවර රෝහලට ඇතුලත් කල බව කඩුගන්නාව පොලිසිය පවසයි.
-
-අද (21) පස්වරු 3 ට පමණ සිදුවු මෙම අනතුරින් බස් රථයේ රියදුරු ඇතුලු බස් රථයේ ගමන් ගත් මගින් 5 දෙනෙකු සිදුවු තුවාල හේතුවෙන් රෝහල් ගත කල බවද පොලිසිය පවසයි.
-
-තුවාලකරුවන් ප්‍රෙද්ශවාසින් හා කඩුගන්නාව පොලිසියේ නිලධාරින් මැදිහත්ව රෝහල් ගත කර ඇති අතර කිසිවෙකුට බරපතල තුවාල සිදුවි නැති බවද පොලිසිය පැවසිය. සිද්ධිය සම්බන්ධව කඩුගන්නාව පොලිසිය පරික්ෂන පවත්වයි.
-
-◼️
-
-[Data](articles/1a7241dd.json)
-
----
-
-### Relief to Small and Medium Enterprises affected
-
-*2024-12-21 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204596) · `si`
-
-Maharachchi Bank offers relief to SMEs affected by COVID-19 and economic downturn. Loan repayments suspended until March 31, 2025. Total dues payable by Dec 15, 2023. Repayment to begin after that date.
-
-🟩
-
-The Maharachchi Bank has issued a special statement to provide relief to small and medium scale entrepreneurs who have been affected by the Easter 19 The Complex Against the Covid 19 plague and recent malam economic conditions.
-
-It is stated that the lending relief is underway, the suspension of the Paradon law is not necessary to be beyond March 31, 2025.
-
-Total duties payable to December 15, Rs. 25 million and Rs.The repayment of the loan should be started.
-
-This is relief to small and medium scale entrepreneurs: by poornima on scribd
-
-◼️
-
-[Data](articles/fe232883.json)
-
-[Extended Data](ext_articles/fe232883.ext.json)
-
----
-
-### More information on Hatton Bus Junction
-
-*2024-12-21 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204595) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Bus crash near Hatton: 3 dead, 50 injured. Driver lost control, hit wall. Police investigating CCTV footage deletion.
-
-🟩
-
-A private bus was in danger this morning in the Malliupuwa this morning.
-
-The bus was in danger from Hatton to Kandy.
-
-The driver was impossible to control the bus and fell to 20 feet concrete wall.
-
-53 persons, including a driver and assistant in the accident, 53 were admitted to the District Base Hospital.
-
-Three people were killed and a 14 year old schoolchildren in Hatton was a 68 year old resident of Kandy.
-
-Our correspondent said that the school student was attracted to the pain of taking meditation with his sister.
-
-According to hospital sources, 10 of the injured were referred to the Kandy Teaching Hospital and 4 of them were seriously critical.
-
-Police have questioned the bus driver in connection with the accident that three were killed.
-
-The driver had said the bus lost his control and opened the door and went out of the bus.
-
-...
-
-[Data](articles/40d8242a.json)
-
-[Extended Data](ext_articles/40d8242a.ext.json)
 
 ---

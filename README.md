@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 22:02:02**
+As of **2024-12-22 22:15:07**
 
 ## Newspaper Stats
 
-*Scraped **61,489** Articles*
+*Scraped **61,490** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 456
+dbsjeyarajcom | 457
 colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,263 (99.6%) of 61,489 articles have been extended.
+61,265 (99.6%) of 61,490 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -382,15 +382,25 @@ Accordingly, the police officers will evaluate drivers to detect whether they ar
 
 ---
 
-### පොලීසිය ආරම්භ කරන අලුත්ම මෙහෙයුම
+### The latest operation to commence the police
 
 *2024-12-22 17:44:19* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-ආරම්භ-කරන-අලුත්ම-මෙහෙයුම/11-413782) · `si`
 
-පසුගිය දිනවල මගී ප්‍රවාහන බස් රථ ඇතුළු අනෙකුත් වාහනවලින් සිදුවූ රිය අනතුරු සැලකිල්ලට ගනිමින් දිගින් දිගටම එවැනි අනතුරු සිදුවීම අවම කර ගැනීම සඳහා වැඩබලන පොලිස්පතිවරයාගේ උපදෙස් අනුව හෙට සිට උත්සව සමය අවසන් වන තුරු දිවයින පුරා රථවාහන මෙහෙයමුවක් ක්‍රියාත්ක බව පොලිස් මූලස්ථානය පවසයි.
+Here's a summary of 200 characters:
+
+
+
+Police operations begin nationwide, led by Acting IGP. Includes traffic management for all vehicles, including passenger buses. Will continue through the festive season.
+
+🟩
+
+Taking into consideration the acting IGP and other vehicles of other vehicles including passenger buses, including passenger buses and other traffic operation is across the country until the end of the festive season.
 
 ◼️
 
 [Data](articles/b7995efa.json)
+
+[Extended Data](ext_articles/b7995efa.ext.json)
 
 ---
 
@@ -498,21 +508,31 @@ I. Nearly two years after Na was established, US President Harry Truman, in Nove
 
 ---
 
-### அரலகங்விலயில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது !
+### A man arrested with domestic gun
 
 *2024-12-22 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201899) · `ta`
 
-அரலகங்வில பொலிஸ் பிரிவுக்குட்பட்ட மஹதமன பகுதியில், உள்நாட்டுத் துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (21) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-பொலிஸ் விசேட அதிரடிப்படையின் அரலகங்வில முகாமின் அதிகாரிகள் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
 
-கைது செய்யப்பட்ட சந்தேக நபர் மஹதமன பகுதியைச் சேர்ந்த 62 வயதுடையவர் ஆவார்.
 
-இதனையடுத்து கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக விசாரணைக்காக  அரலகங்வில பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+62-year-old man arrested with domestic gun in Mahathamana area by Police Special Task Force officers. Handed over to Aralangwila Police Station for further investigation on Saturday (21).
+
+🟩
+
+A suspect with a domestic gun was arrested by police on Saturday (21) in the Mahathamana area of ​​the Aralangwila police division.
+
+He was arrested during a raid carried out by the officers of the Aralakangwila camp of the Police Special Task Force.
+
+The arrested suspect is 62 years old from Mahadama.
+
+Subsequently, the suspect has been handed over to the Aralangwila Police Station for further investigation.
 
 ◼️
 
 [Data](articles/fc9fbf14.json)
+
+[Extended Data](ext_articles/fc9fbf14.ext.json)
 
 ---
 

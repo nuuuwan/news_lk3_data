@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 15:42:48**
+As of **2024-12-22 16:01:35**
 
 ## Newspaper Stats
 
-*Scraped **61,434** Articles*
+*Scraped **61,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,852
+adalk | 5,853
 adaderanalk | 7,501
 tamilmirrorlk | 8,789
 virakesarilk | 10,138
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,223 (99.7%) of 61,434 articles have been extended.
+61,225 (99.7%) of 61,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,24 @@ In particular, vehicles traveling on the A-9 road and Mannar roads were observed
 [Data](articles/95c374c2.json)
 
 [Extended Data](ext_articles/95c374c2.ext.json)
+
+---
+
+### රාජ්‍ය නිලධාරීන්ට දුන් යතුරුපැදියක් සොරා ගෙන හොරකමේ ගිහින්
+
+*2024-12-22 15:00:25* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-නිලධාරීන්ට-දුන්-යතුරුපැදියක්-සොරා-ගෙන-හොරකමේ-ගිහින්/11-413771) · `si`
+
+රාජ්‍ය නිලධාරීන්ට රජය මගින් ලබා දී තිබූ යතුරු පැදියක් සොරාගෙන ඊට ව්‍යාජ අංක තහඩුවක් සවිකොට එය භාවිතා කරමින්  දිවයිනේ පොලිස් වසම් පහළවක නිවෙස් වලට ඇතුළු වී එහි නිවැසියන්ට  තියුණු ආයුධ පෙන්වා බිය ගන්වා මරණීය තර්ජනය කොට රුපියල් කෝටි එක හමාරකට අධික  වටිනාකමින් යුත් රන් භාන්ඩ හා දේපළ කොල්ල කෑ දෙදෙනෙකු හෙරොයින් ග්‍රෑම් පහක් සමග  අත්අඩංගුවට ගත් බව අතුරුගිරිය පොලීසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කඩවත ප්‍රදේශයේ පදිංචි 32 -38 වයසේ පසුවන "වැල්ලා" ඇතුළු දෙදෙනකු බව  පොලිසිය කියයි.
+
+අතුරුගිරිය පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරී කණ්ඩායමක් ඔරුවල ප්‍රදේශය හරහා අපරාධ නිවාරණ රාජකාරියකට යමින් සිටියදී මාර්ගයේ රැඳී සිටි සැකකටයුතු පුද්ගලයින් දෙදෙනකු පරීක්ෂා කිරීමේදී ඔවුන් සන්තකයේ තිබේ හෙරොයින් ග්‍රෑම් පහයි මිලිග්‍රෑම් 300 පොලිස් භාරයට ගෙන තිබේ.
+
+පසුව සැකකරුවන් දෙදෙනා අත් අඩංගුවටගෙන ප්‍රශ්න කිරීමේදී අතුරුගිරිය , කටාන , මිනුවන්ගොඩ, කඩවත,බියගම , මීගහවත්ත , වත්තල පානදුර දකුණ , හිරණ ,  මාලබේ , ගම්පහ සහ යක්කල ඇතුළු පොලිස් වසම්  වලින් කොල්ල කෑ  එක් කෝටි පනස් ලක්ෂයක් වටිනා රන් භාණ්ඩ තොගයක්  පොලිස් භාරයට ගෙන තිබේ.
+
+...
+
+[Data](articles/65eaf15f.json)
 
 ---
 
@@ -296,17 +314,23 @@ He was speaking at a media briefing held in Colombo today (22).
 
 ---
 
-### மிரிஹானையில் கார் மோதி பாதசாரி உயிரிழப்பு
+### Car collision in Mirihana
 
 *2024-12-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201860) · `ta`
 
-மிரிஹானை பொலிஸ் பிரிவுக்குட்பட்ட ஹைலெவல் வீதியில் விஜேராம சந்திக்கு அருகில் கார் மோதி பாதசாரி ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Car crash kills pedestrian in Mirihana. Vehicle heading from Maharagama to Nugegoda struck victim near Wijerama junction on Highlevel Road. Police investigating incident.
 
-மஹரகமவில் இருந்து நுகேகொட நோக்கி பயணித்த கார்  வீதியைக் கடந்த பாதசாரி மீது மோதியதில் விபத்து இடம்பெற்றுள்ளது.
+🟩
+
+A pedestrian has died after a car crashed near the Wijerama junction on Highlevel Road, Mirihan, police said.
+
+The accident occurred when a car traveling from Maharagama to Nugegoda crashed into a pedestrian.
 
 ◼️
 
 [Data](articles/1b17a5fb.json)
+
+[Extended Data](ext_articles/1b17a5fb.ext.json)
 
 ---
 
@@ -476,15 +500,21 @@ The Full Moon Poya holidays were approved by the Poya Committee.
 
 ---
 
-### அநுர அரசின் அடுத்த நகர்வு
+### The next move
 
 *2024-12-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/201848) · `ta`
 
-தசாப்தம் கடந்தும் 'எட்கா' உடன்­ப­டிக்கை குறித்த பேச்­சு­வார்த்­தைகள் முன்­னெ­டுக்­கப்­பட்ட நிலையில் நாட்டின் பொரு­ளா­தார வங்­கு­ரோத்தைக் காரணம் காண்­பித்து, கடந்த மார்ச் மாதத்­துக்கு முன்­ன­தாக ஒப்­பந்­தத்­தை கைச்­சாத்­தி­டு­வ­தற்கு அப்­போ­தைய ஜனா­தி­பதி ரணில் விக்­கி­ர­ம­சிங்க முனைந்­தி­ருந்தார். 'எட்கா' உடன்­ப­டிக்கை மூல­மாக வெளி­நாட்டு தனி­ந­பர்கள் மற்றும் தனியார் நிறு­வ­னங்கள் உள்­ளிட்ட தரப்­புக்­களால் வெளி­நாட்டு நேரடி முத­லீ­டு­களை மேற்­கொள்­வ­தற்­கான வாய்ப்­புக்­களை அவர் சர்­வ­தேச நாணய நிதி­யத்தின் உடன்­பா­டு­க­ளுடன் கோடிட்டு காண்­பித்து நகர்­வொன்றைச் செய்தார்.
+Ranil Wickremesinghe signed Edka agreement before March 2022 to address Sri Lanka's economic crisis. The deal aimed to attract foreign direct investment from individuals and companies through IMF partnerships.
+
+🟩
+
+The then President Ranil Wickremesinghe was trying to sign the agreement before March last year, with the country's economic bankruptcy as negotiations on the 'Edka' agreement have been launched after decade.. Through the 'Edka' agreement, he made a move with the International Monetary Fund's agreements with the International Monetary Fund's agreements on the opportunities to make foreign direct investment by parties, including foreign individuals and private companies.
 
 ◼️
 
 [Data](articles/d0127d23.json)
+
+[Extended Data](ext_articles/d0127d23.ext.json)
 
 ---
 
@@ -2263,33 +2293,5 @@ All the star artists on the list were honored with awards at the final event of 
 [Data](articles/8676571b.json)
 
 [Extended Data](ext_articles/8676571b.ext.json)
-
----
-
-### U1 - Movie Review
-
-*2024-12-21 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/201805) · `ta`
-
-Here's a summary of the movie review in approximately 200 characters:
-
-
-
-"U1" stars Upendra as dual protagonists Satya and Kalki in a futuristic fantasy world. The film blends political satire with metaphors, confusing audiences but satisfying fans. Upendra's performance shines, while Reshma and Sunny Leone have notable roles. The movie within a movie structure adds complexity, balancing entertainment and philosophical themes.
-
-🟩
-
-Product - Lahari Films El P & Venus Entertains
-
-Actors: Upendra, Reshma, Sunny Leone, Kishore, Sadhu Gokila, Murali Sharma, Jissu Sen Gupta and many others.
-
-Upendra, one of the leading creators of the Kannada film industry - 'U1', starring the hero of the story after the decade hiatus - was it attracted to all fans?Or not?Let's see.
-
-Satya is simulated as a man with good qualities in the fantasy world of the future. He is interested in bringing direct changes in this world and is making efforts. In contrast, the character of Kalki punishes people who are ignorant in mankind. He allows corrupt political leaders to rule. At this moment, Kalki assures him that he will raise the status of corrupt politician Waman Rao (Kishore) to 'Central Samrat'.. He is helping him in many ways. Is Satya winning in the end?Or is Kalki win?The story of the film.
-
-...
-
-[Data](articles/76441012.json)
-
-[Extended Data](ext_articles/76441012.ext.json)
 
 ---

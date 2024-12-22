@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 11:43:44**
+As of **2024-12-22 12:42:47**
 
 ## Newspaper Stats
 
-*Scraped **61,396** Articles*
+*Scraped **61,406** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 456
-colombotelegraphcom | 622
+colombotelegraphcom | 623
 bbccomsinhala | 647
 islandlk | 3,717
 economynextcom | 3,745
 dailyftlk | 4,254
 dailymirrorlk | 4,733
-adalk | 5,847
-adaderanalk | 7,493
-tamilmirrorlk | 8,784
+adalk | 5,848
+adaderanalk | 7,498
+tamilmirrorlk | 8,787
 virakesarilk | 10,127
 adaderanasinhalalk | 10,608
 
@@ -26,41 +26,153 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,197 (99.7%) of 61,396 articles have been extended.
+61,205 (99.7%) of 61,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
 
-### முதலை தாக்கி பெண் பலி
+### School student dies;Tiktok prohibition
+
+*2024-12-22 12:13:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாடசாலை-மாணவன்-உயிரிழப்பு-TikTok-தடை/50-349084) · `ta`
+
+Albania bans TikTok for a year starting Jan 2024. Move follows death of 14-year-old girl. No evidence linking TikTok to incident. World Press Freedom organization seeks explanation from Albanian government on ban decision.
+
+🟩
+
+Foreign media reports that the Albania government has decided to disrupt the Tiktok processor for a year and will be implemented from January next year.
+
+Last month in Albania, a 14 -year -old schoolgirl was reportedly banned from the death of a sharp weapon and the impact of the children.
+
+However, the Dick Doc said it was expecting an emergency explanation from the Albanian government on the proposed tick talk ban and that the school student or the attacker had no evidence for the attackers.
+
+◼️
+
+[Data](articles/6fab0468.json)
+
+[Extended Data](ext_articles/6fab0468.ext.json)
+
+---
+
+### The sea turbulent - the warning
+
+*2024-12-22 11:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடல்-கொந்தளிக்கும்-விடுக்கப்பட்ட-எச்சரிக்கை/175-349083) · `ta`
+
+Strong winds forecasted in western, central Bay of Bengal and southeast Sri Lanka. Fishing boats warned due to turbulent seas and potential storms.
+
+🟩
+
+The Department of Meteorology has announced that the wind speed in the western, central and Bay of Bengal may increase by 55-60 km / h.
+
+As a result, many days of fishing boats working in the deep sea have been warned.
+
+Due to this, the seas can occasionally be turbulent and heavy rainfall or thunderstorms around the seas.
+
+The announcement also indicated that the speed of wind in the southeastern deep sea of ​​Sri Lanka could increase by up to 55-60 km (55-60 miles), so that the sea is turbulent and sometimes very turbulent.
+
+Due to this, the Department of Meteorology has asked the community to engage in fishing and maritime activities in the area.. Remble
+
+◼️
+
+[Data](articles/48368dd0.json)
+
+[Extended Data](ext_articles/48368dd0.ext.json)
+
+---
+
+### The corpse of the dead infant from the bottom of the bridge
+
+*2024-12-22 11:50:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேம்பாலத்தின்-கீழிருந்து-இறந்த-சிசுவின்-சடலம்-மீட்பு/175-349082) · `ta`
+
+Infant corpse found under Dematagoda Bridge. Police report: Baby likely one-day-old, died before hospital admission.
+
+🟩
+
+Police said an infant was found abandoned under the Dematagoda Bridge.
+
+According to information provided by a passenger on the road, the body was found in a cloth when he went to the spot.
+
+Rescued infant, was admitted to the Borella Seemati Hospital. However, the police said that the infant was already dead, and the doctors who examined the infant said.
+
+Police say the baby, who has a good physique, may have been born a day ago.
+
+◼️
+
+[Data](articles/ae3289ca.json)
+
+[Extended Data](ext_articles/ae3289ca.ext.json)
+
+---
+
+### Crocodile attack
 
 *2024-12-22 11:30:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலை-தாக்கி-பெண்-பலி/175-349080) · `ta`
 
-பவக்குளத்தை அண்மித்த உலுக்குளம பிரதேசத்தில் முதலையின் தாக்குதலுக்கு இலக்காகி 67 வயதுடைய பெண் ஒருவர் பரிதாபமாக உயிரிழந்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-புதுக்குடியிருப்பு சுடுவேந்திரபிலவில் வசிக்கும் பெண் மாடு மேய்த்துக் கொண்டிருந்த போது அருகில் உள்ள கால்வாயில் இருந்த முதலை தாக்கியுள்ளது.
+
+
+"67-year-old woman killed in crocodile attack near Pavakkulam. Incident occurred in Ulukkulama area. Victim was bitten while in a canal near Pudukkudiyiruppu Suduvendrapila."
+
+🟩
+
+A 67 -year -old woman has died miserably after being attacked by a first attack in Ulukkulama area near Pavakkulam.
+
+A woman living in Pudukkudiyiruppu Suduvendrapila has been hit by a crocodile in a nearby canal.
 
 ◼️
 
 [Data](articles/baf0add6.json)
 
+[Extended Data](ext_articles/baf0add6.ext.json)
+
 ---
 
-### ”பொய்யை உண்மை என நம்ப வைக்க முழு உரிமை உள்ளது”
+### “There is a full right to believe the lie is true”
 
 *2024-12-22 11:24:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யை-உண்மை-என-நம்ப-வைக்க-முழு-உரிமை-உள்ளது/175-349079) · `ta`
 
-உண்மை ஒன்றை பொய் அல்லது பொய்யான ஒன்றை உண்மை என மற்றவர்களை நம்ப வைக்க மக்களுக்கு முழு உரிமை உள்ளது, அது ஜனநாயக உரிமை என NPP பாராளுமன்ற உறுப்பினர் நிலாந்தி கோட்டஹச்சி நேற்று (21) தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-களுத்துறையில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றிய அவர், அரசாங்கம் செய்யும் நல்ல விடயங்களின் பாதகமான பக்கத்தைப் பார்க்கும் உரிமை மக்களுக்கும் உண்டு எனவும், அந்த ஜனநாயக உரிமையை அரசாங்கம் ஒருபோதும் தடுக்காது எனவும் தெரிவித்தார்.
 
-"எந்த ஒரு உண்மையையும் பொய்யாகவும், எந்தப் பொய்யையும் உண்மையாகவும் நம்ப வைக்க உங்களுக்கு முழு உரிமை உண்டு. அது உங்களின் ஜனநாயக உரிமை. அரசு ஏதாவது நல்லது செய்யும் போது எதிர்மறையான பக்கத்தைப் பார்க்க உங்களுக்கு உரிமை உண்டு. மேலும், ஒரு தலைவர், அரசு, நிறுவனம் அல்லது தனிநபர் சமூகத்திற்கு தீங்கு விளைவிக்கும் செயல்களைச் செய்யும் போது பாராட்டவும் உங்களுக்கு உரிமை உண்டு," என்று அவர் கூறினார்.
 
-ஒரு செயலின் விளைவைப் பெற காலம் எடுக்கும் எனவும் எதையாவது விமர்சிக்கும் முன் முடிவுகள் வரும் வரை பொறுத்திருப்பது நல்லது என்று அவர் கூறினார்.
+NPP MP Nilanti Kothachi emphasizes democratic rights: believe truth or lie, criticize government actions, wait for results before judging. Claims NPP never lied during election campaign.
+
+🟩
+
+NPP MP Nilanti Kothachi yesterday (21) said that the people have the right to believe in the truth or false.
+
+Speaking at an event in Kalutara, he said that the people have the right to look at the adverse side of the government's good things and that the government will never prevent the democratic right.
+
+"You have a full right to make any truth false and no false. That's your democratic right. You have the right to see the negative side when the government does something good. Moreover, you have the right to appreciate a leader, government, company or individual community when doing harmful actions, ”he said.
+
+He said it would take time to get the effect of an action and it was better to wait until the results came up before criticizing something.
+
+He said that the NPP members had never lied during the election campaign to bring Anurakumara Dissanayake to the presidential post.
 
 ...
 
 [Data](articles/d48b0ffa.json)
+
+[Extended Data](ext_articles/d48b0ffa.ext.json)
+
+---
+
+### Compulsory retirement age for doctors extended
+
+*2024-12-22 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104416/compulsory-retirement-age-for-doctors-extended) · `en`
+
+An extraordinary gazette notification has been issued extending the compulsory retirement age of Government Medical Officers.
+
+Accordingly, the gazette notification dated 20 December 2024 stipulates that the age of compulsory retirement of Medical Specialists, Grade Medical Officers and Dental Officers, all officers of the Medical Administrative Grades, Dental Specialists and registered Medical Practitioners shall be sixty-three (63) years.
+
+The provisions of this notice will come into force with effect from January 01, 2023, according to the Ministry of Public Administration, Provincial Councils and Local Government.
+
+◼️
+
+[Data](articles/2b9b4022.json)
+
+[Extended Data](ext_articles/2b9b4022.ext.json)
 
 ---
 
@@ -85,6 +197,28 @@ In the letter of Al-Meesan Foundation, one of the sacred Ramadan, one of the sac
 [Data](articles/54b3d903.json)
 
 [Extended Data](ext_articles/54b3d903.ext.json)
+
+---
+
+### Delhi students send bomb threat to their schools to delay exams
+
+*2024-12-22 10:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104414/delhi-students-send-bomb-threat-to-their-schools-to-delay-exams) · `en`
+
+A bizarre revelation has emerged in the ongoing investigation into bomb threats sent to several schools in Delhi.
+
+The Special Cell of Delhi Police has discovered that at least two schools in the Rohini district received threatening emails from their own students, who wanted to postpone exams due to lack of preparation.
+
+“After investigation by the Special Cell of Delhi Police, it was found that the emails were sent to both schools by two different students of the same school,” Delhi police said in a statement.
+
+“Both students had sent this email to stop the exam because they were not prepared for the exam paper. Since both of them were students, they were counselled and then let off,” police added.
+
+One of the schools that received bomb threats was Venkateshwar Global School, which received a threatening email a day after a mysterious blast occurred at the Rohini Prashant Vihar PVR Multiplex on November 28.
+
+...
+
+[Data](articles/793cc54c.json)
+
+[Extended Data](ext_articles/793cc54c.ext.json)
 
 ---
 
@@ -126,6 +260,50 @@ The leaders of the Janata Vimukti Peramuna (JVP), the leadership party of the Na
 
 ---
 
+### Ministry assures quality of MOP fertilizer donated by Russia
+
+*2024-12-22 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104413/ministry-assures-quality-of-mop-fertilizer-donated-by-russia) · `en`
+
+The Ministry of Agriculture, Livestock, Lands, and Irrigation has issued a statement assuring the quality of the Muriate of Potash (MOP) fertilizer stock donated by a Russian state-owned company.
+
+The statement addresses concerns raised by farmers and farmer organizations regarding the color of the fertilizer.
+
+After analyzing the composition of the imported stock and verifying other standards, it has been confirmed that the fertilizer meets the required quality standards.
+
+The ministry explained that the color of the fertilizer is influenced by the mineral salts in the deposit. Specifically, the presence of iron oxide gives the fertilizer a red color, while its absence results in a white color. The variation in color does not affect the fertilizer’s functionality and provide the same amount of potassium, it said.
+
+This clarification is based on findings from soil scientist Renuka de Silva, whose report confirmed that the fertilizer is safe and effective for use.
+
+...
+
+[Data](articles/23d52e77.json)
+
+[Extended Data](ext_articles/23d52e77.ext.json)
+
+---
+
+### CBSL introduces new loan rescheduling measures for SMEs
+
+*2024-12-22 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104412/cbsl-introduces-new-loan-rescheduling-measures-for-smes) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has issued a circular to licensed banks recently, highlighting relief measures to be provided to Small and Medium Enterprises (SMEs) affected by the Easter Sunday attacks, the COVID-19 pandemic, and the extraordinary macroeconomic conditions that prevailed in the recent past.
+
+These measures have been developed with the Sri Lanka Banks’ Association and are in line with the Working Committee on Recovery of Loans under the Special Provisions Amendment Act No. 26 of 2024.
+
+According to the new relief measures, loans provided to SMEs that have become non-performing loans will be rescheduled based on the borrower’s ability to repay and an acceptable business revival plan.
+
+The CBSL stated that all rescheduling agreements must be finalized by June 15, 2025.
+
+•SMEs with loan balances below Rs. 25 million must begin repayment by December 31, 2025.
+
+•SMEs with loan balances between Rs.25 million and Rs.50 million must begin repayment by September 30, 2025.
+
+...
+
+[Data](articles/425dceeb.json)
+
+---
+
 ### கிரிந்திவெல பகுதியில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் கொலை
 
 *2024-12-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201846) · `ta`
@@ -139,6 +317,24 @@ The leaders of the Janata Vimukti Peramuna (JVP), the leadership party of the Na
 ◼️
 
 [Data](articles/1f769e17.json)
+
+---
+
+### Ambassador of Norway calls on PM Harini
+
+*2024-12-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104411/ambassador-of-norway-calls-on-pm-harini) · `en`
+
+Prime Minister, Dr. Harini Amarasuriya, welcomed the Ambassador of Norway to Sri Lanka, May-Elin Stener, during a courtesy call at the Prime Minister’s Office.
+
+The discussion on Friday focused on fostering a collaborative partnership between the two nations, with key topics including poverty alleviation, social protection measures, tax reforms, renewable energy, and employment generation, the Prime Minister’s Office stated.
+
+Dr. Amarasuriya emphasized the importance of transforming Sri Lanka’s education system and highlighted ongoing efforts to digitize governance for improved public service delivery, the statement added.
+
+The meeting was attended by senior officials from both the Norwegian Embassy and the Sri Lankan government, including Mr. Pradeep Saputhanthri, Secretary to the Prime Minister, Ms. Sagarika Bogahawatta, Additional Secretary to the Prime Minister, and Ms. Shobini Gunasekera, Director General of the Europe and North America Division at the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/5a9978d2.json)
 
 ---
 
@@ -207,6 +403,22 @@ The Director has promised to investigate the matter and take appropriate action.
 [Data](articles/ff3d4081.json)
 
 [Extended Data](ext_articles/ff3d4081.ext.json)
+
+---
+
+### චීන විමුක්ති නාවික හමුදාවේ රෝහල් නෞකාව කොළඹ වරායට
+
+*2024-12-22 09:28:55* · [`adalk`](https://www.ada.lk/picture_story/චීන-විමුක්ති-නාවික-හමුදාවේ-රෝහල්-නෞකාව-කොළඹ-වරායට/10-413766) · `si`
+
+මහජන චීන විමුක්ති යුද නාවික හමුදාවේ (Chinese People’s Liberation Army Navy) ‘Peace Ark’ රෝහල් නෞකාව නිල සංචාරයක් සඳහා ඊයේ කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ ‘Peace Ark’ නෞකාව, දිගින් මීටර් 178 හා නැව් මුළුව 310 ක ගෙන් සමන්විත වන අතර, එම නෞකාවේ අණදෙන නිලධාරී ලෙස ‍කපිතාන් Deng Qiang කටයුතු කරනු ලබයි.
+
+මෙම නිල සංචාරයේදී ශ්‍රී ලංකාවේ මහජන චීන සමූහාණ්ඩු තානාපති කාර්යාලයේ සම්බන්ධීකරණයෙන් ‘Peace Ark’ රෝහල් නෞකාවේ වෛද්‍ය කාර්යය මණ්ඩලය සහ ශ්‍රී ලංකා නාවික හමුදා වෛද්‍ය දෙපාර්තමේන්තුව එක්ව නෞකාව තුලදී වෛද්‍ය ප්‍රථිකාර හා වෛද්‍ය සායන පැවැත්වීමට නියමිතව ඇත.
+
+...
+
+[Data](articles/ecd9fc4f.json)
 
 ---
 
@@ -611,6 +823,22 @@ Kirindiwela Police are conducting further investigations to arrest the suspect.
 [Data](articles/36803b51.json)
 
 [Extended Data](ext_articles/36803b51.ext.json)
+
+---
+
+### Open Sesame For War Criminals?
+
+*2024-12-22 06:36:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/open-sesame-for-war-criminals/) · `en`
+
+“Israel today is dynamiting the edifice of the global norms built after 1945.” ~ Pankaj Mishra (The Shoah after Gaza – London Review of Books – 21.3.2014)
+
+In the second decade of the 21st Century, genocide is being televised.
+
+72 Virgins – Uncensored was a Telegraph channel run by the Israeli Defence Forces’ Influencing Department (Orwellian by name and by deed). According to an expose by Israeli newspaper Haaretz, the channel promises Israeli audiences ‘exclusive content from Gaza’ – gory videos of death and destruction visited on Palestinians recorded by their IDF perpetrators. An example: “Burning their mother…” exults an October 11th 2023 post; “You won’t believe the video we got! You can hear the crunch of their bones. We’ll upload it right away, get ready” (https://www.haaretz.com/israel-news/security-aviation/2023-12-12/ty-article/.premium/graphic-videos-and-incitement-how-the-idf-is-misleading-israelis-on-telegram/0000018c-5ab5-df2f-adac-febd01c30000).
+
+...
+
+[Data](articles/c1553fbb.json)
 
 ---
 
@@ -2125,245 +2353,5 @@ At the time of the accident, the bus had been increased by 20 to 25 passengers, 
 [Data](articles/f7452455.json)
 
 [Extended Data](ext_articles/f7452455.ext.json)
-
----
-
-### One dead, 5 injured in accident on expressway
-
-*2024-12-21 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104390/one-dead-5-injured-in-accident-on-expressway) · `en`
-
-One person has died, and five others have sustained injuries in an accident that occurred early this morning (21) near the Pinnaduwa interchange on the Southern Expressway.
-
-Police said the accident occurred when a van travelling from Kottawa to Galle collided with a lorry in front of it.
-
-A 62-year-old passenger of the van who was injured in the accident has died, and five others, including four women, have been admitted to the Karapitiya National Hospital for treatment.
-
-Police stated that the van driver had fallen asleep at the wheel leading to the crash.
-
-◼️
-
-[Data](articles/d6341908.json)
-
-[Extended Data](ext_articles/d6341908.ext.json)
-
----
-
-### Does our community understand the LGBTQ sect?
-
-*2024-12-21 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/201781) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-LGBTQ+ acceptance in Sri Lanka: Understanding diversity, combating discrimination, legal challenges, education importance.
-
-🟩
-
-Attraction to another man and another woman to another woman is not a disease. Similarly, the bisexuals and the divers are not excluded from our community. This too is one of the works of nature. These are the changes caused by the effects of hormones. It is not the solution to ignore and exclude these sections and look at them as criminals.The main thing we need to do is to understand the mood of these people and first understand them. This is because we do not know it or not, but in our family and relatives.
-
-Dr. Janaki, who was a resources during a two -day training workshop in Colombo, gave an introduction to the division and how the media should handle the news about them.
-
-...
-
-[Data](articles/7ce7a20c.json)
-
-[Extended Data](ext_articles/7ce7a20c.ext.json)
-
----
-
-### Mutantly at least egg prices
-
-*2024-12-21 10:27:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சடுதியாக-குறைந்தது-முட்டை-விலை/175-349035) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Egg prices drop nationwide: Previously Rs 40-45, now Rs 25-30. Reduction seen in Ja Ela, Kandana, Ragama. Merchants report decline in certain regions.
-
-🟩
-
-Egg merchants say egg prices are declining in some parts of the country.
-
-Accordingly, merchants say that the egg, which was previously sold at Rs 40 to Rs 45, is currently being sold at Rs 25 to Rs 30.
-
-Egg prices have been reduced in areas including Ja Ela, Kandana and Ragama. Remble
-
-◼️
-
-[Data](articles/6fdf8759.json)
-
-[Extended Data](ext_articles/6fdf8759.ext.json)
-
----
-
-### The order given to the staff of the vessel brought by Myanmar refugees
-
-*2024-12-21 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204575) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Myanmar refugee vessel crew arrested near Mullaittivu. 12 staff members detained until 31st. Navy intercepted ship last Thursday.
-
-🟩
-
-The staff of Myanmar who was floating on the Wellemamivaly coast of Mullaittivu was remanded until 31st.
-
-It is reported that 12 staff members in the vessel have been remanded.
-
-Last Thursday, the vessel seized by the Navy with the refugees of the refugees.
-
-◼️
-
-[Data](articles/41cab9b6.json)
-
-[Extended Data](ext_articles/41cab9b6.ext.json)
-
----
-
-### Two killed in accident
-
-*2024-12-21 10:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோர-விபத்தில்-இருவர்-பலி/175-349034) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 killed, 4 injured in van-lorry collision on southern highway. Incident occurred during commute from Kottawa to Galle. Four women hospitalized at Karapitiya Teaching Hospital."
-
-🟩
-
-Police have confirmed that two people were killed and four others were injured in an accident that took place this morning on the southern highway.
-
-The incident occurred when a van traveling from Kottawa to Galle collided with a lorry.
-
-In addition, four women, including three women, have been admitted to the Karapitiya Teaching Hospital for treatment.. Remble
-
-◼️
-
-[Data](articles/8c436adc.json)
-
-[Extended Data](ext_articles/8c436adc.ext.json)
-
----
-
-### How can politicians who have been influenced by politics for many years - Jamuni Kamantha Dushara
-
-*2024-12-21 09:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201751) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Politicians' long-term influence questioned over funding sources. Presidential Fund rules state family income under 1 lakh for donations. Proper investigations needed to recover misused funds since 2005. Public scrutiny urged.
-
-🟩
-
-How can the politicians who have been influential in politics for many years can be funded, as the monthly income of family members should be less than 1 lakh in case of donation or funding from the presidential fund?
-
-Jamuni Kamantha Dushara, the leader of the People's Organization against Bribery and Corruption, said that the funds that were being conducted and provided with proper investigations into the improper process should be recovered.
-
-From 2005 to 2024. He made this comment to the media after lodging a complaint with the Criminal Investigation Department on Friday (20).
-
-The Presidential Fund was established in 1978 for the welfare of the poverty -stricken welfare and biological development.
-
-The Presidential Finance Act No. 07 has clearly stated on the parties who need to provide relief and relief.
-
-...
-
-[Data](articles/91ce043b.json)
-
-[Extended Data](ext_articles/91ce043b.ext.json)
-
----
-
-### Sri Lanka to build on, maintain relations with Saudi Arabia: envoy
-
-*2024-12-21 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104389/sri-lanka-to-build-on-maintain-relations-with-saudi-arabia-envoy) · `en`
-
-Sri Lankan Ambassador in Riyadh Omar Lebbe Ameer Ajwad expressed his desire to elevate bilateral relations to new heights as Saudi Arabia and Sri Lanka celebrate 50 years of diplomatic ties.
-
-In an exclusive interview with Arab News, Ajwad said: “Saudi Arabia and Sri Lanka are celebrating the 50th anniversary of the establishment of diplomatic relations.”
-
-He added: “Sri Lanka and Saudi Arabia have a very long background of ties. According to the history books, it started in the seventh century … when Sri Lankan King Aggrabodhi III dispatched a delegation on a fact-finding mission to Saudi Arabia, on the request of the Arab people who were living in Sri Lanka at that time. The king sent an envoy to Madinah to learn about Islam from Prophet Muhammad.”
-
-...
-
-[Data](articles/4cc622dd.json)
-
-[Extended Data](ext_articles/4cc622dd.ext.json)
-
----
-
-### An accident on Southern Expressway
-
-*2024-12-21 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204574) · `si`
-
-Accident on Southern Expressway: 1 dead, 5 injured near Etinaduwa interchange. Van collided with lorry; driver asleep. Victim, 62, taken to Karapitiya Hospital.
-
-🟩
-
-A person was killed and five others wounded in an accident near the Etinaduwa interchange on the synanado highway.
-
-Police said that the accident had occurred when a van to Galle to Galle to Galle was a lorry.
-
-A 62-year-old man was killed in the van and was rushed to the Karapitiya Hospital for treatment and injuring five other women.
-
-The accident had occurred when the driver of the van was sleeping.
-
-◼️
-
-[Data](articles/1b2943bf.json)
-
-[Extended Data](ext_articles/1b2943bf.ext.json)
-
----
-
-### Sri Lanka allows import of buses, go-karts, stiff penalties for unsold stocks
-
-*2024-12-21 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-import-of-buses-go-karts-stiff-penalties-for-unsold-stocks-195705/) · `en`
-
-ECONOMYNEXT – Sri Lanka has allowed the import of buses, special purpose vehicles like cranes and gully bowsers and small motorized vehicles like go karts with penalties if importers carry large unsold stocks for over three months.
-
-The first stage of import relaxation started through a gazette issued on December 18.
-
-Sri Lanka has suffered imports controls, exchange controls, depreciation and social unrest due to initially central bank re-finance of rural credit, purchase of maturing debt from past deficits to keep rates down (direct market operations) and inflationary open market operations after the end of a civil war.
-
-Sri Lanka’s central bank has cut rates to 8.00 percent and also started a ‘single policy rate’ ahead of opening vehicle imports.
-
-Analysts had warned that it could lead to a credit shock being accommodated by the central bank with negative consequences on the exchange rate, which is in any case under an inconsistent policy.
-
-...
-
-[Data](articles/79747911.json)
-
-[Extended Data](ext_articles/79747911.ext.json)
-
----
-
-### Luxury of ministers allocated for tourists
-
-*2024-12-21 09:46:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளுக்காக-ஒதுக்கப்படுகிறது-அமைச்சர்களின்-சொகுசுவீடுகள்/175-349033) · `ta`
-
-Ministers to allocate half luxury homes to foreign tourists. Houses valued for ancient heritage. Higher income expected. Government employee housing unaffected.
-
-🟩
-
-Provincial Councils and Local Government Minister Professor Chandana Abeyratne said that the Minister is expected to allocate half of the luxury houses for foreign tourists.
-
-He said that the minister's houses would be allocated for the ancient values ​​and that he would expect a higher income.
-
-There are many issues here, including which ministries belong to those ministerial houses and what assets belonging to those houses.
-
-Meanwhile, the Ministry said that the houses provided to government employees are expected to continue.
-
-◼️
-
-[Data](articles/9572701f.json)
-
-[Extended Data](ext_articles/9572701f.ext.json)
 
 ---

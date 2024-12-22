@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 05:01:47**
+As of **2024-12-23 05:12:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,304 (99.6%) of 61,534 articles have been extended.
+61,306 (99.6%) of 61,534 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -262,21 +262,27 @@ Discussions highlighted the party’s impressive performance in the recent Parli
 
 ---
 
-### கல்வித்துறையின் சவால்களை வெற்றிக்கொள்ள தொடர்ச்சியான ஒத்துழைப்பு - ஆசிய அபிவிருத்தி வங்கி
+### Continuing cooperation to win the challenges of education - Asian Development Bank
 
 *2024-12-23 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201918) · `ta`
 
-தொடர்ச்சியான ஒத்துழைப்புக்கள் ஊடாக கல்வித்துறையில் தோற்றம் பெற்றுள்ள சவால்களை வெற்றிக் கொள்வதற்கு ஒத்துழைப்பு வழங்குவதாக ஆசிய அபிவிருத்தி வங்கியின் பிரதிநிதிகள் பிரதமரிடம் உறுதியளித்துள்ளனர்.
+Asian Development Bank representatives assure continued cooperation with Prime Minister on education challenges. Meeting focuses on school infrastructure, teacher training, and implementing new education policies.
 
-ஆசிய அபிவிருத்தி வங்கியின் இலங்கைக்கான வதிவிட தூதுக்குழுவின் பணிப்பாளர் டகாபுமி கடோனோவுக்கும், பிரதமர் கலாநிதி ஹரிணி அமரசூரியவுக்கும் இடையிலான சந்திப்பு ஞாயிற்றுக்கிழமை (22) கல்வி அமைச்சில் நடைபெற்றது.
+🟩
 
-இலங்கையின் அபிவிருத்தியில் பிரதான செயற்பாட்டு பங்குதாரராக ஆசிய அபிவிருத்தி வங்கி செயற்படுவது இதன்போது சுட்டிக்காட்டப்பட்டது. இலங்கையின் தேசிய அபிவிருத்தியின் முதற் கட்டமாக புதிய கல்வி முறைமை மறுசீரமைப்பு குறித்து இதன்போது விசேட கவனம் செலுத்தப்பட்டது.
+Representatives of the Asian Development Bank have assured the Prime Minister that they will cooperate with the success of the challenges that have been achieved in the education sector through a series of cooperation.
 
-அதேபோல் புதிய கல்வி கொள்கையை வெற்றிகரமான முறையில் செயற்படுத்துவதற்காக பாடசாலைகளின் உட்கட்டமைப்பு மேம்பாடு,ஆசிரியர் - அதிபர் பயிற்சி மற்றும் தொழில்நுட்ப பயன்பாட்டின் முக்கியத்துவம் குறித்து பிரதமர் கலாநிதி ஹரிணி அமரசூரிய இந்த கலந்துரையாடலின் போது எடுத்துரைத்துள்ளார்.
+The meeting between Dakabumi Kadono, Director of the Resident Development Committee of the Asian Development Bank and the Prime Minister Harini Amarasuriya was held on Sunday (22) at the Ministry of Education.
+
+The Asian Development Bank of India is the main activist in the development of Sri Lanka. The first phase of the National Development of Sri Lanka was a special focus on the new education system restructuring.
+
+Similarly, Prime Minister Harini Amarasuriya has made a statement on the importance of schools' infrastructure development, teacher -chancellor training and technical use to successfully implement the new education policy.
 
 ...
 
 [Data](articles/e3b877ae.json)
+
+[Extended Data](ext_articles/e3b877ae.ext.json)
 
 ---
 
@@ -297,6 +303,8 @@ The High Commissioner, who said that he was ready to provide maximum support for
 ...
 
 [Data](articles/5d3dcda1.json)
+
+[Extended Data](ext_articles/5d3dcda1.ext.json)
 
 ---
 

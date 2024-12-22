@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 05:52:27**
+As of **2024-12-22 06:48:39**
 
 ## Newspaper Stats
 
-*Scraped **61,366** Articles*
+*Scraped **61,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 5,842
 adaderanalk | 7,488
 tamilmirrorlk | 8,773
 virakesarilk | 10,123
-adaderanasinhalalk | 10,604
+adaderanasinhalalk | 10,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,172 (99.7%) of 61,366 articles have been extended.
+61,173 (99.7%) of 61,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-22 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-12-22 05:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204599) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ ඌව පළාත්වලත් නුවරඑළිය, මහනුවර සහ අම්පාර දිස්ත්‍රික්කවලත් අද (22) සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු සහ වයඹ පළාත්වලත් අනුරාධපුර දිස්ත්‍රික්කයේත් වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+මධ්‍යම, සබරගමුව, දකුණු, ඌව සහ නැගෙනහිර පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකියි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/e2679f18.json)
+
+---
 
 ### Dynasties of Deceit: The Philippines’ Curse
 
@@ -41,6 +59,8 @@ The 1987 Philippine Constitution, crafted in the aftermath of the 1986 People Po
 ...
 
 [Data](articles/bf11205a.json)
+
+[Extended Data](ext_articles/bf11205a.ext.json)
 
 ---
 
@@ -2371,27 +2391,5 @@ Addressing a conference of District Secretaries and Divisional Secretaries at th
 [Data](articles/e076df63.json)
 
 [Extended Data](ext_articles/e076df63.ext.json)
-
----
-
-### SC upholds death sentence for ex-top cop Vass Gunawardena
-
-*2024-12-21 01:04:54* · [`dailyftlk`](https://www.ft.lk/news/SC-upholds-death-sentence-for-ex-top-cop-Vass-Gunawardena/56-770852) · `en`
-
-The Colombo High Court yesterday announced that the Supreme Court has upheld its previous verdict sentencing five defendants, including former DIG Vass Gunawardena, to death in the 2013 kidnapping and murder of businessman Mohamed Shiyam.
-
-The Colombo High Court announced this decision after former DIG Vass Gunawardena, his son Ravindu Gunawardena, and three police officers were produced before the court by prison officials yesterday.
-
-Colombo High Court Judge Aditya Patabendige informed the defendants that the Supreme Court had rejected their appeal in this case and upheld the death sentence.
-
-Counsel Rahul Jayathilake, appearing for the accused, informed the court that the Supreme Court had not specified a date for the effective date of the sentence pronounced by the High Court in November 2015.
-
-Pointing out that the date of the sentence was very important, he requested the court to issue an order in this regard as it was not mentioned in the Supreme Court order.
-
-...
-
-[Data](articles/a2417fbe.json)
-
-[Extended Data](ext_articles/a2417fbe.ext.json)
 
 ---

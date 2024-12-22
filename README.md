@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-22 12:42:47**
+As of **2024-12-22 13:00:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,205 (99.7%) of 61,406 articles have been extended.
+61,206 (99.7%) of 61,406 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -301,6 +301,8 @@ The CBSL stated that all rescheduling agreements must be finalized by June 15, 2
 ...
 
 [Data](articles/425dceeb.json)
+
+[Extended Data](ext_articles/425dceeb.ext.json)
 
 ---
 

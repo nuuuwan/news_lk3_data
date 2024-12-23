@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 01:12:14**
+As of **2024-12-24 02:13:28**
 
 ## Newspaper Stats
 
-*Scraped **61,698** Articles*
+*Scraped **61,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,280
+dailyftlk | 4,281
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,536
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,399 (99.5%) of 61,698 articles have been extended.
+61,402 (99.5%) of 61,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Sri Lankan exporters attend world’s largest food innovation exhibition in Paris
+
+*2024-12-24 01:54:49* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-exporters-attend-world-s-largest-food-innovation-exhibition-in-Paris/34-770952) · `en`
+
+The Sri Lanka Export Development Board (EDB), in collaboration with the Sri Lankan Embassy in France, successfully organised Sri Lanka’s participation at SIAL Paris 2024 – one of the world’s leading F&B exhibitions held once every two years in France – which took place from 19 to 23 October in Paris.
+
+Local F&B businesses representing a wide range of sectors, such as coconut-based products, confectionery items, cashew and savoury products, frozen and processed food, and value-added innovative products, made use of this opportunity to enhance their business opportunities.
+
+...
+
+[Data](articles/647c692f.json)
+
+---
 
 ### Can Sri Lanka avoid borrowing from international bondholders in the coming years?
 
@@ -43,6 +57,8 @@ Sri Lanka’s emergence from default status is positive news. This means we can 
 ...
 
 [Data](articles/f457a427.json)
+
+[Extended Data](ext_articles/f457a427.ext.json)
 
 ---
 
@@ -72,6 +88,8 @@ The recent salt shortage in the market, coupled with the Cabinet decision on 18 
 
 [Data](articles/52c5a834.json)
 
+[Extended Data](ext_articles/52c5a834.ext.json)
+
 ---
 
 ### Challenges of collaborative governance for Sri Lanka: Divided path ahead
@@ -85,6 +103,8 @@ Sri Lanka is at a crucial juncture in its history, facing numerous challenges th
 ...
 
 [Data](articles/a5c72120.json)
+
+[Extended Data](ext_articles/a5c72120.ext.json)
 
 ---
 
@@ -2209,23 +2229,5 @@ Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/
 ...
 
 [Data](articles/c4844e0b.json)
-
----
-
-### අනවසර විදුලි රැහැන් යොදා වනඅලි ඝාතනයට එරෙහිව නීතිමය පියවර
-
-*2024-12-23 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204633) · `si`
-
-2024 වසරේ සිට මේ දක්වා අනවසර විදුලි වැටවල් සහ රැහැන් භාවිතය හේතුවෙන් වනඅලි මරණ 50ක් පමණ වාර්තා වී ඇතැයි ශ්‍රී ලංකා විදුලිබල මණ්ඩලය පවසයි.
-
-නිවේදනයක් නිකුත් කරමින් විදුලිබල මණ්ඩලය සඳහන් කර ඇත්තේ මෙම නීතිවිරෝධි ක්‍රියාවන් සම්බන්ධව දැනටමත් සුදුසු පියවර ගෙන ඇති බවය.
-
-එමෙන්ම වනඅලි සම්පත රැකගැනීමට ජනතා සහාය අපේක්ෂා කරන බැවින් විදුලි සැපයුම අනවසරයෙන් වැටවල්වලට හෝ රැහැන්වලට සම්බන්ධ කිරීම පිළිබඳව දැනුම් දෙන ලෙසත් එම මණ්ඩලය නිවේදනය කර තිබේ.
-
-ඒ අනුව 0112118767 දුරකථන අංකය ඔස්සේ හෝ හදිසි ඇමතුම් අංක 1987 යන දුරකථන අංක ඔස්සේ වහාම මේ සම්බන්ධව ලංකා විදුලිබල මණ්ඩලය දැනුවත් කරන මෙන් එම නිවේදනයේ වැඩිදුරටත් සඳහන් කර තිබේ.
-
-◼️
-
-[Data](articles/76fb2678.json)
 
 ---

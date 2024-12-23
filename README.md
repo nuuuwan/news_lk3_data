@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 12:43:24**
+As of **2024-12-23 13:01:33**
 
 ## Newspaper Stats
 
-*Scraped **61,606** Articles*
+*Scraped **61,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 648
-islandlk | 3,728
+islandlk | 3,729
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,870
+adalk | 5,871
 adaderanalk | 7,518
 tamilmirrorlk | 8,815
 virakesarilk | 10,184
@@ -26,31 +26,37 @@ adaderanasinhalalk | 10,639
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,339 (99.6%) of 61,606 articles have been extended.
+61,340 (99.6%) of 61,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### போலி நாணயத்தாள்களுடன் 04 மாணவர்கள் கைது !
+### 04 students arrested with fake currency notes
 
 *2024-12-23 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201946) · `ta`
 
-57 போலி 5,000 ரூபாய் நாணயத்தாள்கள் வைத்திருந்த 04 பாடசாலை மாணவர்கள் கைது செய்யப்பட்டுள்ளதாக தெல்தெனிய பொலிஸார் தெரிவித்தனர்.
+4 students (ages 15-16) arrested for 57 fake 5000-rupee coins in Sri Lanka. Police investigation ongoing.
 
-திகன பிரதேசத்தைச் சேர்ந்த விற்பனை நிலையம் ஒன்றின் உரிமையாளர் ஒருவரினால் தெல்தெனிய பொலிஸாருக்கு வழங்கப்பட்ட தகவலின் பிரகாரம்  மாணவர்கள் நால்வரும் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-நான்கு மாணவர்களும் திகன பிரதேசத்தில் உள்ள விற்பனை நிலையம் ஒன்றிற்கு சென்று பொருட்களை கொள்ளவனவு செய்ய முயன்றுள்ளனர்.
+Teldeniya police said that 04 schoolchildren have been arrested for possessing 57 fake 5,000 rupee coins.
 
-மாணவர்களிடம் இருக்கும் நாணயத்தாள்கள் போலியானவை என அறிந்து கொண்ட குறித்த விற்பனை நிலையத்தின் உரிமையாளர் இது தொடர்பில் உடனடியாக பொலிஸாருக்கு தகவல் வழங்கியள்ளார்.
+Four students have been arrested on the basis of information provided to the Teldeniya police by a owner of a shop in Digana.
 
-கைது செய்யப்பட்ட நான்கு மாணவர்களும் 15 முதல் 16 வயதுக்குட்பட்டவர்கள் என பொலிஸார் தெரிவித்தனர்.
+Four students have tried to go to a sales center in Digana area.
 
-நெருங்கிய நபரொருவர் பல்வேறு பொருட்களை கொள்வனவு செய்வதற்காக இந்த நாணயத்தாள்களை தங்களுக்கு கொடுத்ததாக மாணவர்கள் பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+The owner of the shop, which learned that the coins of the students were fake, immediately informed the police about this.
+
+The four students were between the ages of 15 and 16, police said.
+
+Students have informed the police that a close person gave them these currencies to buy various items.
 
 ◼️
 
 [Data](articles/1483ad67.json)
+
+[Extended Data](ext_articles/1483ad67.ext.json)
 
 ---
 
@@ -71,6 +77,32 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/161d5297.json)
+
+---
+
+### වගවත්ත ග්‍රිඩ් උපපොළ පද්ධතියට සම්බන්ධ කරයි
+
+*2024-12-23 12:07:29* · [`adalk`](https://www.ada.lk/breaking_news/වගවත්ත-ග්‍රිඩ්-උපපොළ-පද්ධතියට-සම්බන්ධ-කරයි/11-413792) · `si`
+
+අභිනවයෙන් ඉදිකරන ලද වගවත්ත ග්‍රිඩ් උපපොළ 2024 දෙසැම්බර් මස 19 වන දින ජාතික විදුලිබල පද්ධතියට සම්බන්ධ කළ බව ලංකා විදුලිබල මණ්ඩලය නිවේදනය කරයි. ප්‍රධාන වශයෙන්ම ශ්‍රී ලංකා ආයෝජන මණ්ඩලයේ වගවත්ත සහ මිල්ලනිය කර්මා න්ත කලාප වලට විදුලිය සැපයීම සඳහා ඉදිකරන ලද මෙම ග්‍රිඩ් උපපොළ සදහා ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් රුපියල් මිලියන 2300 ක මුදලක් ආයෝජනය කරන ලදී.
+
+ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් පරිත්‍යාග කරන ලද  අක්කර පහක පමණ භූමි භාගයක ඉදිකර ඇති මෙම නව ග්‍රිඩ් උපපොළ දැනට පවතින කර්මා න්ත සඳහා විදුලි සැපයුමේ ස්ථායිතාවය හා ගුණාත්මකභාවය වැඩි දියුණු කිරීම සහ ඉදිරියේදී ඇතිකිරීමට අපේක්ෂිත කර්මා න්ත සඳහා ස්ථායි මෙන්ම ගුණාත්මක විදුලි සැපයුමක් ලබාදීම වෙනුවෙන් 90 MVA ක ධාරිතාවයකින් යුතුව ඉදිකර ඇත.
+
+...
+
+[Data](articles/661354c0.json)
+
+---
+
+### The Government’s Term Tests & Results: The Good, the Bad and the Ugly
+
+*2024-12-23 11:57:00* · [`islandlk`](http://island.lk/the-governments-term-tests-results-the-good-the-bad-and-the-ugly/) · `en`
+
+A newspaper editorial suggested that the NPP government is facing its December term test and that its weaknesses are showing. In fact, there have been quite a few term tests set up by different pundit examiners and they are producing a mixed bag of results. Overall and objectively, if I may say so, the government has done a reasonably good job for the most part; with a few bads, mainly gaffes, including a Prime Ministerial gaffe involving the two ‘Chinas’; and one standout ugly – the pathetic “PhD in Biochemistry and BSc in Chemical Engineering” lies of Asoka Ranwala MP, and his deservedly quick fall from Speakership grace. The focus has been mostly on his PhD boast, but his claim to a degree in Chemical Engineering is itself an instant hoax. And the leap from Chemical Engineering in Moratuwa to Biochemistry in Japan is manifestly ignorant and creatively stupid.
+
+...
+
+[Data](articles/f998ce01.json)
 
 ---
 
@@ -1260,6 +1292,20 @@ The Dankotuwa branch commenced operations with a grand opening ceremony on 9th D
 
 ---
 
+### Dr. Tharmalingam Tharesanan honoured at Int’l Human Rights Day celebrations in India
+
+*2024-12-23 05:26:00* · [`islandlk`](http://island.lk/dr-tharmalingam-tharesanan-honoured-at-intl-human-rights-day-celebrations-in-india/) · `en`
+
+Dr. Tharmalingam Tharesanan, Chairman of TMH Group of Companies, was honoured as a guest of honour and guest speaker at the International Human Rights Day celebration held on 15 December 2024 at the Telangana Saraswata Parishad in Hyderabad, India.
+
+He was also presented with the Human Rights Crusaders Award for his outstanding contributions to the promotion and protection of human rights. The event was organised by the International Commission of Culture and Diplomatic Relations (ICCDR) and the United Human Rights Federation to recognise individuals and organisations advocating human rights.
+
+...
+
+[Data](articles/bbce8191.json)
+
+---
+
 ### NSB triumphs at CMA Excellence in Integrated Reporting Awards 2024
 
 *2024-12-23 05:23:00* · [`islandlk`](http://island.lk/nsb-triumphs-at-cma-excellence-in-integrated-reporting-awards-2024/) · `en`
@@ -1848,7 +1894,7 @@ Thus, when buying food items and drinks in publications, you should act with car
 
 ---
 
-### Paye Tax නව වෙනසෙන් වෘත්තිකයින් රට හැර යෑම වැළක්විය හැකි ද?
+### Paye Tax නව වෙනස ඔබේ වැටුපට බලපාන්නේ කොහොම ද?
 
 *2024-12-23 01:41:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0xr0246w4o) · `si`
 
@@ -1858,11 +1904,11 @@ Thus, when buying food items and drinks in publications, you should act with car
 
 වෘත්තිකයින් රට හැර යෑම වැළක්වීමට මෙම නව සංශෝධනය ප්‍රමාණවත් ද? මේ ඒ පිළිබඳ විමසා බැලීමකි.
 
-ආදායම් බදු අය කිරිමේ ක්‍රමවේදය සංශෝධනය කළ යුතු බව මෙන්ම බදු නිදහස් කිරීමේ සිමාව ලක්ෂ දෙකක සිමාවට ගෙන ආ යුතු බවට වෘත්තියවේදීහූ දිගින් දිගටම ඉල්ලා සිටියහ.
+ආදායම් බදු අය කිරිමේ ක්‍රමවේදය සංශෝධනය කළ යුතු බව මෙන් ම බදු නිදහස් කිරීමේ සිමාව ලක්ෂ දෙකක සිමාවට ගෙන ආ යුතු බවට වෘත්තියවේදීහූ දිගින් දිගටම ඉල්ලා සිටියහ.
 
-"අපි බලාපොරොත්තු වෙනවා ඉදිරියේ දී ජනාධිපතිතුමත් ඒ වගේම රජයත් මේ සම්බන්ධයෙන් තවදුරටත් සලකා බලලා වෘත්තියවේදීන්ට මෙයින් එහා ගිය සහන ක්‍රමවේදයක් මේ බදු අය කිරිමේ දී ලබා දෙයි කියන එක." යැයි රජයේ වෛද්‍ය නිලධාරින්ගේ සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් සුගතදාස මාධ්‍ය වෙත කියා සිටියේය.
+"අපි බලාපොරොත්තු වෙනවා ඉදිරියේදී ජනාධිපතිතුමත් ඒ වගේ ම රජයත් මේ සම්බන්ධයෙන් තවදුරටත් සලකා බලලා වෘත්තියවේදීන්ට මෙයින් එහා ගිය සහන ක්‍රමවේදයක් මේ බදු අය කිරිමේ දී ලබා දෙයි කියන එක." යැයි රජයේ වෛද්‍ය නිලධාරින්ගේ සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් සුගතදාස මාධ්‍ය වෙත කියා සිටියේය.
 
-ඉන්දීය සංචාරය නිම කරමින් දිවයිනට පැමිණි ජනාධිපතිවරයා පාර්ලිමේන්තුව අමතමින් බදු සහන කිහිපයක් ඉදිරියේ දී ලබා දීමට තීරණය කර ඇති බව පැවසුවේය.
+ඉන්දීය සංචාරය නිම කරමින් දිවයිනට පැමිණි ජනාධිපතිවරයා පාර්ලිමේන්තුව අමතමින් බදු සහන කිහිපයක් ඉදිරියේදී ලබා දීමට තීරණය කර ඇති බව පැවසුවේය.
 
 ඉන් ප්‍රධානම තැනක් ගන්නේ උපයන විට බද්දට සිදු කිරිමට යෝජිත වෙනස්කමයි.
 
@@ -2043,77 +2089,5 @@ The announcement that the traffic will be taken under the direction of the Inspe
 [Data](articles/bef4731f.json)
 
 [Extended Data](ext_articles/bef4731f.ext.json)
-
----
-
-### Liquidi fire in Galle
-
-*2024-12-22 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204620) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fire erupts near Kurunduwatta Junction in Galle. Blaze spreading rapidly. Galle-Udugama road closed from Akmeemana Junction. Police and firefighters responding with two extinguishers.
-
-🟩
-
-A fire has erupted at a building material near the Kurunduwatta Junction in Galle, Galle.
-
-Our correspondent said the fire is already expanding.
-
-Due to this, the Galle-Udugama road has been closed down from Akmeemana Junction.
-
-Two fire extinguishers and the fire will be carried out by the police and the area.
-
-◼️
-
-[Data](articles/f78b95e4.json)
-
-[Extended Data](ext_articles/f78b95e4.ext.json)
-
----
-
-### ADB assures commitment to address challenges in Sri Lanka’s education sector
-
-*2024-12-22 22:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104426/adb-assures-commitment-to-address-challenges-in-sri-lankas-education-sector) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has met with the Country Director of the Asian Development Bank (ADB) to Sri Lanka Resident Mission, Takafumi Kadono.
-
-The discussions underscored ADB’s role as a key development partner and highlighted the importance of collaborative efforts in advancing Sri Lanka’s national development priorities.
-
-During the discussion, the Prime Minister highlighted the importance of developing school infrastructure, teacher training and assessment mechanisms.
-
-Meanwhile, the ADB has reaffirmed its commitment to addressing challenges in the education sector through ongoing projects.
-
-◼️
-
-[Data](articles/15d33ea5.json)
-
-[Extended Data](ext_articles/15d33ea5.ext.json)
-
----
-
-### Five arrests nationwide over illegal alcoholism
-
-*2024-12-22 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201906) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National crackdown: Police arrest 5 for illegal alcohol sales. STF seizes 695L Koda, 200L illicit liquor.
-
-🟩
-
-The police media unit issued a report on illegal liquor tests carried out by Special Task Force officers on Saturday (21).
-
-At the same time, 695 liters of Koda has been seized by the police with 200 liters of illegal liquor.
-
-◼️
-
-[Data](articles/4717d2dc.json)
-
-[Extended Data](ext_articles/4717d2dc.ext.json)
 
 ---

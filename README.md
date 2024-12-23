@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 21:13:27**
+As of **2024-12-23 21:27:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,381 (99.5%) of 61,678 articles have been extended.
+61,382 (99.5%) of 61,678 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -160,25 +160,31 @@ He quit the job as he was hesitant to be engaged in defrauding people in the cou
 
 ---
 
-### ලුණු ආනයනයට ටෙන්ඩර් කැඳවයි
+### Tenders called for imports
 
 *2024-12-23 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204650) · `si`
 
-ලුණු ආනයනය කිරීමට අදාළව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව විසින් ජාත්‍යන්තර ටෙන්ඩර් කැඳවා තිබේ.
+State Commerce Corporation calls international tenders for salt import due to shortage. Tender process begins on 21st. Local manufacturers request direct import but government decides to proceed through tender. 30,000 metric tons to be imported. Accelerating process urged to prevent contract issues.
 
-රට තුළ පැවති අයහපත් කාලගුණ තත්ත්වයත් සමග 2025 වසරේ පළමු කාර්තුවේ දී ලුණු හිඟයක් ඇතිවිය හැකි බවට නිරීක්ෂණයවීම හේතුවෙන් අමු අයඩීකරණය නොකළ ලුණු මෙට්‍රික් ටොන් 30,000ක් ආනයනය කිරීමට පසුගිය සතියේ අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවුණි.
+🟩
 
-2025 වසරේ ජනවාරි මස 31 වනදා ට පෙර ශ්‍රී ලංකා රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව මගින් එම ලුණු ආනයනය කර දේශීය ලුණු නිෂ්පාදකයින් මගින් වෙළෙඳපොළට සැපයීම සඳහා එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය ලබාදෙනු ලැබීය.
+International tenders have been called by the State Commerce Corporation in relation to the importation of salt.
 
-ඒ අනුව ලුණු ආනයනය කිරීම සඳහා සුදුසුකම්ලත් ජාත්‍යන්තර සැපයුම්කරුවන්ගෙන් ටෙන්ඩර් කැඳවීමට රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+Cabinet approval was approved last week to import a shortage of salt in the first quarter of 2025 due to the inclement weather in the country.
 
-ටෙන්ඩර් කැඳවීම පසුගිය 21 වනදා ආරම්භ කර ඇති අතර ජනවාරි මස 02 වැනිදා දක්වා ඒ සඳහා කාලය ලබා දී ඇති බව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පවසයි.
+The State Commerce Corporation was approved by the State Commercial Various Corporation by the State Commercial Various Corporation of Sri Lanka and to supply the oil to local salt manufacturers to the market.
 
-ලුණු ඍජුව ආනයනය කිරීම සඳහා දේශීය නිෂ්පාදකයින් විසින් අවසර ඉල්ලා තිබුණ ද එම කටයුතු රජයේ පාර්ශවයෙන් සිදුකිරීමට වෙළෙඳ අමාත්‍යංශය තීරණය කර ඇත.
+Accordingly, the State Commerce Corporation has taken steps to call tenders from eligible international suppliers to import salt.
+
+The State Commercial Various Corporation says that the tenders were called on the 21st and the State Commerce Corporation said.
+
+Although local manufacturers have requested permission to import salt directly, the Ministry of Trade has been decided to do so from the government party.
 
 ...
 
 [Data](articles/3805e584.json)
+
+[Extended Data](ext_articles/3805e584.ext.json)
 
 ---
 

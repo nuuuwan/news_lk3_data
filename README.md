@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 00:16:44**
+As of **2024-12-24 00:27:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,395 (99.5%) of 61,688 articles have been extended.
+61,396 (99.5%) of 61,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -778,21 +778,31 @@ This is stated in a new report issued by the Department of Census and Statistics
 
 ---
 
-### உடதும்பறை பிரதேச விவசாய அமைப்புகளின் பிரதிநிதிகள் ஆர்ப்பாட்டம்
+### Representatives of Udambarai Divisional Agricultural Organizations Demonstration
 
 *2024-12-23 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/201982) · `ta`
 
-உடதும்பறை பிரதேச விவசாய அமைப்புகளின் பிரதிநிதிகள் பலர் ஒன்று சேர்ந்து, கண்டி மஹியங்கனை வீதியில் ஆர்ப்பாட்டம் ஒன்றில் ஈடுபட்டனர்.
+Here's a summary of 200 characters:
 
-தமது விவசாய உற்பத்திகளுக்கு வன விலங்குகளால் சேதம் ஏற்படுவதாகவும் குறிப்பாக குரங்கு, காட்டுப் பன்றி, முள்ளம் பன்றி, மர அணில் போன்றவை பாரிய சேதத்தை ஏற்படுத்துவதாகவும் இதற்கு விவசாய அமைச்சரும் விவசாயத் திணைக்களமும் விரைவில் நிரந்தரத் தீர்வு ஒன்றைப் பெற்றுத்தர வேண்டும் என்றும் கேட்டுக்கொண்டனர்.
 
-குறித்த ஆர்ப்பாட்டம் கண்டி- மஹயங்கனை வீதியில் 35ம் மைல்கல் பிரதேசத்தில் இடம்பெற்றதுடன் விவசாய அமைச்சும்  தலையிட்டு, விவசாயத்தை நம்பி வாழும் தாம் எதிர்நோக்கும் பிரச்சினைக்கு நிரந்தர தீர்வை வழங்குமாறு கோரினர்.
 
-சுற்றுச்சூழல் ஆர்வலர்களது கோசங்களுக்கு அடிபணியாது எமக்கு நிரந்தர தீர்வுகாணப்பட வேண்டும், அப்படியல்லாத நிலையில் தாமும், நாடும்  பாரிய பொருளாதார பிரச்சினைக்கு முகம் கொடுக்க வேண்டும் எனவும் ஆர்ப்பாட்டக்காரர்கள் தெரிவித்தனர்.
+Udambarai agricultural orgs stage demo on Kandy-Mahiyanganaya Rd. Demand permanent soln for wildlife issues. Ministry intervenes, calls for environmental balance & economic stability.
+
+🟩
+
+A number of representatives of the Udambarai area agrarian organizations gathered together and staged a demonstration on the Mahiyanganaya road in Kandy.
+
+The Agriculture Minister and the Department of Agriculture and the Department of Agriculture have asked for a permanent solution to the wildlife, especially the monkey, wild boar, hedgehog, and wooden squirrels.
+
+The demonstration took place in the 35th Milestone area on the Kandy-Mahayanganaya road and the Ministry of Agriculture intervened and demanded a permanent solution to the problem of agriculture.
+
+Demonstrators said that we need to find a permanent solution to the slogans of the environment and that the country and the country should face a massive economic problem.
 
 ◼️
 
 [Data](articles/99e70e16.json)
+
+[Extended Data](ext_articles/99e70e16.ext.json)
 
 ---
 

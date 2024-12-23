@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 22:42:58**
+As of **2024-12-23 23:01:48**
 
 ## Newspaper Stats
 
-*Scraped **61,681** Articles*
+*Scraped **61,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,885
+adalk | 5,886
 adaderanalk | 7,534
 tamilmirrorlk | 8,831
 virakesarilk | 10,192
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,386 (99.5%) of 61,681 articles have been extended.
+61,387 (99.5%) of 61,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -193,6 +193,20 @@ The Colombo-Japanam train will operate for seven days and add additional boxes t
 [Data](articles/ffe891de.json)
 
 [Extended Data](ext_articles/ffe891de.ext.json)
+
+---
+
+### නොවැම්බරයේදී ජාතික උද්ධමනය ඍණ 1.7 යි
+
+*2024-12-23 19:19:59* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-ජාතික-උද්ධමනය-ඍණ-1-7-යි/11-413808) · `si`
+
+මේ වසරේ නොවැම්බර් මාසයේදී මෙරට උද්ධමනය -1.7%ක අගයක් ගන්නා බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි. ජාතික පාරිභෝගික මිල දර්ශකය අනුව මාසිකව මෙම උද්ධමනය ගණනය කෙරේ. ඔක්තෝබර් මාසයේදී මෙම උද්ධමනය -0.7%ක් ලෙස සටහන් විය.
+
+විශේෂයෙන්ම ආහාර කාණ්ඩයේ උද්ධමනය ඔක්තෝබර් මාසයේදී 1.3% සිට නොවැම්බර් මාසයේදී 0.0%ක් දක්වා අඩු වී තිබේ. එසේම ආහාර නොවන කාණ්ඩයේ උද්ධමනය ඔක්තෝබර් මාසයේදී -2.3% සිට නොවැම්බර් මාසයේදී -3.1%ක් දක්වා අඩු වී ඇත.
+
+◼️
+
+[Data](articles/23530258.json)
 
 ---
 
@@ -434,21 +448,33 @@ Hatton Police said that he would take legal action against the owner of the bus 
 
 ---
 
-### மஹிந்தவுக்கு ஏதேனும் பாதிப்பு ஏற்பட்டால் முழு பொறுப்பையும் அரசாங்கம் ஏற்க வேண்டும் - பொதுஜன பெரமுன கடும் விசனம்
+### In the event of any impact on Mahinda, the government should take full responsibility - PA
 
 *2024-12-23 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201989) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு உயிரச்சுறுத்தல் காணப்படுவதாக புலனாய்வு பிரிவு பலமுறை அறிக்கை சமர்ப்பித்துள்ள பின்னணியில் இராணுவ பாதுகாப்பு முழுமையாக நீக்கப்பட்டுள்ளமை தவறானதொரு தீர்மானமாகும். மஹிந்த ராஜபக்ஷவுக்கு ஏதேனும் பாதிப்பு ஏற்பட்டால் முழு பொறுப்பையும் அரசாங்கம் ஏற்க வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் உறுப்பினர் மனோஜ் கமகே தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-பிரபுக்களின் பாதுகாப்பு தொடர்பில் ஆராய்வதற்கு நியமிக்கப்பட்ட குழு முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு குறித்து பாதுகாப்பு தரப்பினரிடம் அறிக்கை பெற்றுக் கொண்டுள்ளது.
 
-இதற்கமைய 2024.10.10 ஆம் திகதியன்று முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்புக்கு பொறுப்பான பொலிஸ் அத்தியட்சகர் எஸ்.டி.விக்கிரமசிங்க மஹிந்த ராஜபக்ஷசவின் பாதுகாப்பு தொடர்பில் மீளாய்வு குழுவுக்கு அறிக்கை சமர்ப்பித்துள்ளார்.
 
-அந்த அறிக்கையில் முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு குறித்து புலனாய்வு பிரிவினர் சமர்ப்பித்த 13 அறிக்கைகள் உள்ளடக்கப்பட்டுள்ளன.
+PA demands government accountability for Mahinda Rajapaksa's security. Military protection removed despite intelligence warnings. Government criticized for neglecting threats from ISIS drones and NGO attacks.
+
+🟩
+
+The false decision is that the military security has been completely removed in the wake of repeated submissions that the former President Mahinda Rajapakse has been accused of life.. Manoj Kamage, a member of the Sri Lanka PA, said that the government should take full responsibility in the event of any impact on Mahinda Rajapaksa.
+
+The committee appointed to investigate the safety of the nobles has been reported to the security forces on the safety of former presidents.
+
+Accordingly, on 10.10.10.10.10.10.10, the Superintendent of Police, SD Wickremesinghe, who is responsible for the security of former President Mahinda Rajapakse, submitted a report to the Review Committee on the security of Mahinda Rajapaksa.
+
+The report includes 13 reports submitted by the Intelligence Unit on the security of former President Mahinda Rajapakse.
+
+Reports of 04 Intelligence Unit submitted by 2024 have been submitted. There are also factors as to why Mahinda Rajapaksa's security should be strengthened.
 
 ...
 
 [Data](articles/20a687cc.json)
+
+[Extended Data](ext_articles/20a687cc.ext.json)
 
 ---
 
@@ -2203,33 +2229,5 @@ However, the Defense Minister said that police protection for former presidents 
 [Data](articles/ff38905e.json)
 
 [Extended Data](ext_articles/ff38905e.ext.json)
-
----
-
-### Student injured from uppercase
-
-*2024-12-23 10:11:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மேல்மாடியில்-இருந்து-விழுந்த-மாணவன்-படுகாயம்/76-349130) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Student hurt when iron fence collapsed at Badulla Central Trade Center. 7-year-old fell from 2nd floor. Injured at Badulla Teaching Hospital. Police investigating cause of fence failure.
-
-🟩
-
-The Badulla police said that a student has been admitted to the Badulla Teaching Hospital with serious injuries due to the collapse of the security iron fence on the second floor of the Badulla Central Trade Center.
-
-Police said that a 7 -year -old student from 2 Kanua area of ​​Badulla Pasarai Road, Badulla, was educated in a state school in Badulla in the year 2.. City.
-
-Police said that he went with her mother in the morning at the Racecourse Street Ground in Badulla and came to the Central Trade Center in Badulla for some purposes with her mother in the afternoon.
-
-Investigations revealed that the wire was broken while the student was leaning on the iron fence on the second floor.
-
-◼️
-
-[Data](articles/242b2ee3.json)
-
-[Extended Data](ext_articles/242b2ee3.ext.json)
 
 ---

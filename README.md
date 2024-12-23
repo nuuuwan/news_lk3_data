@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 14:02:45**
+As of **2024-12-23 14:16:20**
 
 ## Newspaper Stats
 
-*Scraped **61,622** Articles*
+*Scraped **61,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ dailymirrorlk | 4,733
 adalk | 5,873
 adaderanalk | 7,522
 tamilmirrorlk | 8,821
-virakesarilk | 10,185
-adaderanasinhalalk | 10,639
+virakesarilk | 10,186
+adaderanasinhalalk | 10,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,347 (99.6%) of 61,622 articles have been extended.
+61,348 (99.5%) of 61,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### பயிர்ச்செய்கை பாதுகாப்பும் வனஜீவராசிகளும்
+
+*2024-12-23 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201956) · `ta`
+
+இலங்கையில் வருடாந்தம் 31,000 மெற்றிக் தொன்னுக்கும் அதிகமான மரக்கறிகள் மற்றும் பழ உற்பத்திகள்  வனவிலங்குகளால் அழிக்கப்படுவதாகவும் இதனால்  வருடாந்தம் 20 பில்லியன் ரூபா வரையிலான இழப்புகள் ஏற்படுவதாகவும் 2023 ஆம் ஆண்டில் மேற்கொள்ளப்பட்ட ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/56f0ce0c.json)
+
+---
+
+### උත්සව සමයට විශේෂ ප්‍රවාහන සේවාවක්
+
+*2024-12-23 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204640) · `si`
+
+උත්සව සමය නිමිත්තෙන් අමතර බස්රථ සහ දුම්රිය ගමන් වාර කිහිපයක් ධාවනයට එක්කර ඇති බව ප්‍රවාහන අංශ පවසයි.
+
+ඒ අනුව විශේෂ බස් රථ සේවාවක් හෙට (24) සිට ක්‍රියාත්මක කිරීම ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය පියවර ගෙන තිබේ.
+
+එහි නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා පැවසුවේ උත්සව සමය අවසන් වනතුරු සෑම දිනකම අමතර බස්රථ 50ක් ධාවනයට එක් කර ඇති බවය.
+
+එමෙන්ම අවශ්‍ය වුවහොත් අතිරේක බස්රථ යෙදීම සඳහා සියලුම ඩිපෝ කළමනාකාරවරුන් දැනුවත් කර ඇති බවත් ඔහු පැවසීය.
+
+තවද අධිවේගී මාර්ගයේ ධාවන වන බස්රථ ප්‍රමාණයද වැඩි කර ඇති බවත් නැවත ගම්බිම් බලා ගිය ජනතාවට කොළඹ පැමිණීම සඳහා අවසන් සතියේ සඳුඳා දින බස් සේවාවක් ක්‍රියාත්මක බවද ඔහු පැවසීය.
+
+මේ අතර උත්සව සමය හේතුවෙන් විශේෂ දුම්රිය ගමන්වාර කිහිපයක් ද ධාවනයට එක් කර තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්.ජේ ඉඳිපොලගේ මහතා පැවසුවේ 27 වැනි දින රාත්‍රී බදුල්ල දක්වා විශේෂ දුම්රියක් සහ කොළඹ කොටුව දක්වා විශේෂ දුම්රියක් යොදවා ඇති බවය.
+
+...
+
+[Data](articles/82824e4a.json)
+
+---
 
 ### Nathar concert at the Presidential Office until December 25
 
@@ -62,21 +98,57 @@ Yesterday's Kerol concert was visited by Finance and Planning Deputy Minister Dr
 
 ---
 
-### சந்திரிகா மாவத்தைக்கு கடும் பாதுகாப்பு
+### ගුවන් අනතුරකින් එකම පවුලේ 10දෙනෙකු ජීවිතක්ෂයට
+
+*2024-12-23 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204639) · `si`
+
+පෞද්ගලික ගුවන් යානයක් කඩා වැටීමෙන් බ්‍රසීලයේ එකම පවුලේ 10දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ගුවන් යානයේ නියමුවා සෙල කටයුතු කර ඇත්තේ 61 හැවිරිදි Luiz Claudio Galeazzi නම් බ්‍රසීලයේ ව්‍යාපාරිකයෙකු බව විදෙස් මාධ්‍ය පවසයි.
+
+මෙම අනතුරින් එම පුද්ගලයා මෙන්ම ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ තවත් පවුලේ සාමාජිකයන් කිහිපදෙනෙකු මියගොස් ඇති බව ඔහුගේ සමාගම විසින්  ප්‍රකාශයක් නිකුත් කරමින් සනාථ කර තිබේ.
+
+එම පිරිස ගමන් ගත් කුඩා ගුවන් යානය කඩා වැටී ඇත්තේ ගොඩනැගිල්ලි කිහිපයක් මතට බව විදෙස් මාධ්‍ය පවසයි.
+
+අනතුරින් බිම සිටි පුද්ගලයින් 17 දෙනෙකු ද තුවාල ලබා ඇති අතර තවත් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව සඳහන් වේ.
+
+මෙම බ්‍රසීල ව්‍යාපාරිකයා සිය පවුලේ සමාජිකයින් සමග සංචාරයක් සඳහා ගමන් කරමින් සිටියදී මෙම අනතුරට මුහුණ දී ඇත.
+
+අනතුර සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන නමුත් අයහපත් කාලගුණික තත්ත්වයන් යටතේ යානය ගුවන්ගත කර ඇති බව හෙළි වී ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/7156ad00.json)
+
+---
+
+### Strong Protection to Chandrika Mawatha
 
 *2024-12-23 13:26:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரிகா-மாவத்தைக்கு-கடும்-பாதுகாப்பு/175-349151) · `ta`
 
-வாகன கொள்ளையர்களின் பிடியில் சிக்கியுள்ளதாக கூறப்படும் மாலம்பே தொடக்கம் அம்பத்தளை வரையிலான  சந்திரிகா குமாரதுங்க மாவத்தையில் விசேட பாதுகாப்பு வேலைத்திட்டத்தை ஏற்பாடு செய்யுமாறு மேல்மாகாண ஆளுநர் ஹனீப் யூசுப் அப்பகுதி பொலிஸார் உள்ளிட்ட அதிகாரிகளுக்கு திங்கட்கிழமை (23) பணிப்புரை விடுத்துள்ளார்.
+Here's a summary of 200 characters:
 
-இவ்வீதியில் பயணிக்கும் வாகனங்களை கொள்ளையர்கள் கொள்ளையடிப்பதாக அப்பகுதி மக்களிடம் இருந்து கிடைத்த முறைப்பாடுகளை அடுத்து ஆளுநர் இந்த நடவடிக்கையை எடுத்துள்ளார்.
 
-சந்திரிகா குமாரதுங்க மாவத்தையைச் சுற்றியுள்ள பகுதிகளில் பொலிஸ் ரோந்துப் பணிகளை அதிகரிக்கவும், வீதியின் நுழைவாயிலின் இருபுறமும் பாதுகாப்பை அதிகரிக்கவும் தீர்மானிக்கப்பட்டுள்ளது.
 
-ஆளுநருக்கும் பொலிஸ் அதிகாரிகளுக்கும் இடையில் இடம்பெற்ற கலந்துரையாடலில் இணக்கம் காணப்பட்டுள்ளது சிசிடிவி கேமரா அமைப்பு, மின்கம்பங்களை நிறுவுதல் மற்றும் தொடர்புடைய இடங்களில் பொலிஸ் சோதனைச் சாவடிகளை நிறுவுதல் ஆகியவற்றுக்கும் இணக்கம் காணப்பட்டுள்ளது.
+Western Province Governor Haneeb Yusuf orders enhanced security for Chandrika Kumaratunga Mawatha due to rising robberies. Police patrols increased, CCTV cameras installed, and checkpoints set up. Area transfer to local councils planned.
 
-...
+🟩
+
+Western Province Governor Haneeb Yusuf has issued a task to the authorities including the police, including the police, to organize a special security program at Chandrika Kumaratunga Mawatha, which is alleged to have been caught in the clutches of the motorcycle.
+
+The governor has taken this action following complaints from the people of the area that the robbers were robbed of vehicles traveling on the road.
+
+Chandrika Kumaratunga has decided to increase police patrols in the surrounding areas and increase security on both sides of the road.
+
+The discussion between the governor and the police officers has been complied with the CCTV camera system, the installation of the wires and the installation of police checkpoints in the relevant areas.
+
+The area, which is under the Urban Development Authority, has been focused on the transfer of this area to the Mulleriya and Malambay Local Government Councils.
+
+◼️
 
 [Data](articles/f20c46d3.json)
+
+[Extended Data](ext_articles/f20c46d3.ext.json)
 
 ---
 
@@ -126,6 +198,20 @@ Students have informed the police that a close person gave them these currencies
 
 ---
 
+### නොවැම්බර් මාසයේ සමස්ත අපනයන ආදායම ඉහළට
+
+*2024-12-23 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204638) · `si`
+
+වෙළඳ භාණ්ඩ සහ සේවා යන දෙකම ඇතුළුව 2024 නොවැම්බර් මාසයේ සමස්ත අපනයනය එක්සත් ජනපද ඩොලර් මිලියන 1,269.33ක් ලෙස වාර්තා වී තිබේ.
+
+ශ්‍රී ලංකා රේගුව විසින් නිකුත් කරන ලද තාවකාලික දත්ත වලට අනුව, 2024 නොවැම්බර් මාසයේ දී වෙළඳ භාණ්ඩ අපනයන කාර්ය සාධනය එක්සත් ජනපද ඩොලර් මිලියන 943.1 ක් වූ අතර එය 2023 නොවැම්බර් මාසයට සාපේක්ෂව 5.6% ක පහත වැටීමකි.
+
+◼️
+
+[Data](articles/325a18fd.json)
+
+---
+
 ### Former Minister SM Chandrasena joins ‘Sarvajana Balaya’
 
 *2024-12-23 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104441/former-minister-sm-chandrasena-joins-sarvajana-balaya) · `en`
@@ -141,6 +227,28 @@ In the most recent general election, he contested under the New Democratic Front
 ◼️
 
 [Data](articles/8b239de2.json)
+
+---
+
+### CEB ශ්‍රම දායකත්වයෙන් ඉදිකළ පළමු ග්‍රිඩ් උපපොළ ජාතික විදුලිබල පද්ධතියට
+
+*2024-12-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204637) · `si`
+
+අභිනවයෙන් ඉදිකරන ලද වගවත්ත ග්‍රිඩ් උපපොළ, ජාතික විදුලිබල පද්ධතියට සම්බන්ධ කළ බව ලංකා විදුලිබල මණ්ඩලය නිවේදනය කරයි.
+
+ප්‍රධාන වශයෙන්ම ශ්‍රී ලංකා ආයෝජන මණ්ඩලයේ වගවත්ත සහ මිල්ලනිය කර්මාන්ත කලාපවලට විදුලිය සැපයීම සඳහා මෙම ග්‍රිඩ් උපපොළ ඉදිකර ඇත.
+
+ඒ සඳහා ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් රුපියල් මිලියන 2,300 ක මුදලක් ආයෝජනය කර තිබේ.
+
+ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් පරිත්‍යාග කරන ලද  අක්කර 05ක පමණ භූමි භාගයක ඉදිකර ඇති මෙම නව ග්‍රිඩ් උපපොළ දැනට පවතින කර්මාන්ත සඳහා විදුලි සැපයුමේ ස්ථායිතාවය හා ගුණාත්මකභාවය වැඩි දියුණු කිරීම සහ ඉදිරියේදී ඇතිකිරීමට අපේක්ෂිත කර්මාන්ත සඳහා ස්ථායි මෙන්ම ගුණාත්මක විදුලි සැපයුමක් ලබාදීම වෙනුවෙන් 90 MVA ක ධාරිතාවයකින් යුතුව ඉදිකර ඇත.
+
+ලංකා විදුලිබල මණ්ඩලයේ සම්ප්‍රේෂණ තැනීම් ව්‍යාපෘති (TCP) ශාඛාව විසින් මෙම නව ග්‍රිඩ් උපපොළ සැලසුම් කිරීම, ඉදිකිරීම සහ පද්ධතියට එක් කිරීම සිදු කරයි.
+
+වගවත්ත ග්‍රිඩ් උපොල යනු, සම්පුර්ණයෙන්ම ලංකා විදුලිබල මණ්ඩල කාර්යමණ්ඩලයේ ශ්‍රම දායකත්වයෙන් ඉදිකරන ලද පළමු ග්‍රිඩ් උපපොළ ලෙස හැදින්විය හැකිය.
+
+◼️
+
+[Data](articles/c2f83e8f.json)
 
 ---
 
@@ -261,6 +369,24 @@ The Electricity Board says that appropriate measures have been taken to prevent 
 [Data](articles/58e18048.json)
 
 [Extended Data](ext_articles/58e18048.ext.json)
+
+---
+
+### ග්‍රාම නිලධාරීවරයෙකුට එරෙහි නඩුවක් නැවත විභාග කිරීමට නියෝග
+
+*2024-12-23 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204636) · `si`
+
+පරිපාලන ග්‍රාම නිලධාරිවරයෙකුට එරෙහිව අල්ලස් කොමිෂන් සභාව විසින් මහාධිකරණය හමුවේ ගොනු කළ නඩුවක් නැවත විභාග කිරීමට අභියාචනාධිකරණය නියෝග කර තිබේ.
+
+දැරණියගල ප්‍රාදේශීය ලේකම් කාර්යාලයට අනුයුක්ත පරිපාලන ග්‍රාම නිලධාරීවරයෙකු ලෙස සේවය කරමින් සිටියදී දැව ප්‍රවාහන බලපත්‍රයක් ලබා දීම පිණිස පැමිණිලිකරුගෙන් අල්ලස් මුදලක් ඉල්ලා සිටීම සම්බන්ධව අල්ලස් කොමිසම විසින් අදාළ ග්‍රාම නිලධාරීවරයාට එරෙහිව පසුගිය 2022 වසරේ මාර්තු 25 දින කොළඹ මහාධිකරණය හමුවේ නඩු පවරණු ලැබීය.
+
+එහිදී නඩුකරයේ විත්ති පාර්ශ්වය විසින් ගෙන එන ලද මූලික විරෝධතාවයක් පිළිගනිමින් චූදිතයාව නිදහස් කිරීමට පසුගිය වසරේ ජූලි මාසයේ දී මහාධිකරණ විනිසුරුවරයා විසින් නියෝග කර තිබුණි.
+
+එහිදී නියෝගයට එරෙහිව එම නියෝගය ප්‍රතිශෝධනය කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් ප්‍රතිශෝධන අයදුම්පතක් අභියාචනාධිකරණය වෙත යොමු කිරීමට පියවර ගෙන තිබුණි.
+
+...
+
+[Data](articles/73ced6e3.json)
 
 ---
 
@@ -1256,13 +1382,13 @@ However, political sources said that others have commented on it.
 
 ---
 
-### Billions earned from Sri Lanka rice imports in 20 days, reveals extent of tax arbitrage: analysis
+### Billions earned from Sri Lanka rice imports in 20 days, shows tax arbitrage: analysis
 
 *2024-12-23 08:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-earn-rs4-3bn-from-rice-imports-showing-tax-arbitrage-analysis-195830/) · `en`
 
-ECONOMYNEXT  – Sri Lanka has earned 4.3 billion rupees in taxes from imports of 67,000 metric tonnes of rice, reports said, indicating the extent the consumer is effectively taxed to grow expensive rice in the country.
+ECONOMYNEXT  – Sri Lanka has earned 4.3 billion rupees in taxes from imports of 67,000 metric tonnes of rice, reports said, indicating the extent the consumer is taxed to grow expensive rice in the country.
 
-Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tonne) to keep the basic staple of the country about 50 percent higher than the rest of the world.
+Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tone) to keep the basic staple of the country about 50 percent higher than the rest of the world.
 
 The ‘tax’ paid by the consumer in the process of filling their stomachs, is ‘arbitraged’ by the paddy producing and marketing lobby.
 
@@ -2003,99 +2129,5 @@ Additionally, Sri Lanka Navy personnel as well as officer under trainees from th
 ◼️
 
 [Data](articles/7a48dd5e.json)
-
----
-
-### Sri Lanka elected Vice Chair of Governing Council of Common Fund for Commodities
-
-*2024-12-23 02:43:03* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-elected-Vice-Chair-of-Governing-Council-of-Common-Fund-for-Commodities/56-770910) · `en`
-
-Sri Lankan Ambassador to the Kingdom of the Netherlands Rekha Gunasekera was elected Vice Chairperson of the Governing Council of the Common Fund for Commodities (CFC) for the years 2024 and 2025, at the 36th Annual Meeting of the Governing Council held on 12 December.
-
-At the annual meeting, Ambassador Gunasekera delivered the national statement of Sri Lanka and recognised the efforts undertaken by the CFC to improve the livelihoods of developing countries that rely on commodities. She emphasised the crucial role of the CFC in fostering resilience and mitigating global challenges such as poverty, climate change, and natural disasters. The Ambassador further stated that Sri Lanka looks forward to further enhanced cooperation with the CFC to boost, particularly, SME sector development.
-
-In addition to the national statement, Ambassador Gunasekera delivered the regional statement in her capacity as the Vice Chairperson representing the Asia Pacific Regional Group of the CFC.
-
-...
-
-[Data](articles/14698e57.json)
-
----
-
-### Sajith calls for increased opportunities for Sri Lankans in South Korea
-
-*2024-12-23 02:41:53* · [`dailyftlk`](https://www.ft.lk/news/Sajith-calls-for-increased-opportunities-for-Sri-Lankans-in-South-Korea/56-770909) · `en`
-
-Opposition Leader Sajith Premadasa has called on the Government of South Korea to increase the job quota allocated to Sri Lankan youth in South Korea.
-
-The request was made during a meeting in Colombo this week with Korean Ambassador Miyon Lee. During the discussion, Premadasa highlighted the importance of expanding opportunities for Sri Lankan youth to work in South Korea, emphasising the potential economic benefits for both countries.
-
-The Opposition Leader also expressed his gratitude for the strong and enduring relationship between Sri Lanka and South Korea, requesting that these ties continue to be nurtured in the years to come.
-
-◼️
-
-[Data](articles/481ef95b.json)
-
----
-
-### Ambassador Majintha Jayesinghe presents Letters of Credence to President Xi Jinping
-
-*2024-12-23 02:40:43* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Majintha-Jayesinghe-presents-Letters-of-Credenceto-President-Xi-Jinping/56-770908) · `en`
-
-Ambassador Majintha Jayesinghe presented his Letters of Credence to the President of the People’s Republic of China Xi Jinping on 12 December at the Great Hall of the People in Beijing, as the Ambassador Extraordinary and Plenipotentiary of Sri Lanka.
-
-During the presentation of the Letters of Credence, Ambassador Jayesinghe conveyed greetings from the Sri Lankan President Anura Kumara Dissanayake and the people of Sri Lanka, to President Xi. President Xi reciprocated greetings to the President and the people of Sri Lanka.
-
-Addressing the envoys who presented credentials, President Xi expressed hope that the envoys would actively promote exchanges, enhance cooperation, and work towards further strengthening the bonds of friendship with China. President Xi reiterated that China is ready to share its development expertise and opportunities with other countries and promote the modernisation of all countries based on peaceful development, mutually beneficial cooperation, and common prosperity.
-
-...
-
-[Data](articles/1da4327c.json)
-
----
-
-### Sri Lanka celebrates World Meditation Day on 21 December
-
-*2024-12-23 02:36:29* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-celebrates-World-Meditation-Day-on-21-December/56-770907) · `en`
-
-High Commission of India in Sri Lanka, in collaboration with the Swami Vivekananda Cultural Centre, organised two special meditation sessions to observe the United Nations-designated World Meditation Day on 21 December 2024.
-
-The sessions, which took place in Colombo and Ratnapura, provided a unique opportunity for individuals to enhance their mental and physical well-being through the practice of meditation.
-
-The first session was held at the Mayurapathy Meditation Hall in Colombo, while the second session took place simultaneously at Jethvanarama Buddhist Monastery, Kalatuwawa, Ratnapura. Both sessions were attended by a large number of participants and were widely appreciated for their calming and transformative effects.
-
-...
-
-[Data](articles/49fc0cb4.json)
-
----
-
-### மத்திய வங்கி ஆளுனர், திறைசேரி செயலாளரால் நாட்டில் நிதி நிர்வாகம் முன்னெடுக்கப்படுகிறது - முஜிபுர் ரஹ்மான்
-
-*2024-12-23 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201916) · `ta`
-
-மத்திய வங்கி ஆளுனரும், திறைசேரி செயலாளரும் ரணில் விக்கிரமசிங்க அரசாங்கத்தின் பாதையிலேயே இவர்களை அழைத்துச் செல்கின்றனர். ஜனாதிபதி அநுர நடுவில் அமர்ந்திருப்பதும் இவர்கள் இருவரும் ஆட்சியைக் கொண்டு செல்வதும் மிகத் தெளிவாகத் தெரிவதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-கொழும்பில் ஞாயிற்றுக்கிழமை (22) இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-ஆட்சிக்கு வந்தவுடன் நாணய நிதிய ஒப்பந்தத்திலிருந்து விலகுவதாகக் கூறியவர்களுக்கு இன்று ரணில் விக்கிரமசிங்க அரசாங்கத்தில் எட்டப்பட்ட இணக்கப்பாட்டில் ஒரு எழுத்தைக் கூட மாற்ற முடியாத நிலைமை ஏற்பட்டுள்ளது. மத்திய வங்கி ஆளுனரும், திறைசேரி செயலாளருமே ரணில் விக்கிரமசிங்க அரசாங்கத்தின் பாதையிலேயே இவர்களை அழைத்துச் செல்கின்றனர். ஜனாதிபதி அநுர நடுவில் அமர்ந்திருப்பதும் இவர்கள்இருவரும் ஆட்சியைக் கொண்டு செல்வதும் மிகத் தெளிவாகத் தெரிகிறது.
-
-...
-
-[Data](articles/14be5b30.json)
-
----
-
-### Birth Centenary Of Comrade Prins Gunasekera & The Relaunch Of “A Lost Generation: Sri Lanka In Crisis: The Untold Story”
-
-*2024-12-23 02:04:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/birth-centenary-of-comrade-prins-gunasekera-the-relaunch-of-a-lost-generation-sri-lanka-in-crisis-the-untold-story/) · `en`
-
-I would like to extend my gratitude to Comrade Prins Gunasekera‘s daughter, Mrs. Geshni Gunasekera, for inviting me to deliver a message on this special occasion of the birth centenary of the late Comrade Prins Gunasekera and the re-publication of his valuable work.
-
-Born in Kataluwa, Galle District, Comrade Prins was first elected as the Member of Parliament for Habaraduwa electorate in March 1960 and re-elected under the Sri Lanka Freedom Party (SLFP) ticket in 1970. However, due to conflicts with the leaders of the ruling coalition government over the Criminal Justice Commission Act and the trials to be conducted under it, he became an independent.
-
-...
-
-[Data](articles/2997c05a.json)
 
 ---

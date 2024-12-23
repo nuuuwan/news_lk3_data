@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 03:12:35**
+As of **2024-12-24 03:27:12**
 
 ## Newspaper Stats
 
-*Scraped **61,705** Articles*
+*Scraped **61,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,286
+dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,536
@@ -26,11 +26,65 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,406 (99.5%) of 61,705 articles have been extended.
+61,408 (99.5%) of 61,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Christmas carol concert at Presidential Secretariat until tomorrow
+
+*2024-12-24 03:09:41* · [`dailyftlk`](https://www.ft.lk/news/Christmas-carol-concert-at-Presidential-Secretariat-until-tomorrow/56-770972) · `en`
+
+The annual special Christmas carol concert, collaboratively organised by the Presidential Secretariat, the Tri-Forces, and the Police, commenced on Sunday under the patronage of the Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando.
+
+The event was inaugurated with the illumination of the Presidential Secretariat premises and surrounding areas. The Christmas carols on the opening day were performed by the choir and band of the Sri Lanka Army. This Christmas carol concert will continue daily until 25 December from 7 p.m. at the Presidential Secretariat premises.
+
+◼️
+
+[Data](articles/21fed0b3.json)
+
+---
+
+### Govt. inefficiency behind rice shortage: Nalin Bandara
+
+*2024-12-24 03:07:13* · [`dailyftlk`](https://www.ft.lk/news/Govt-inefficiency-behind-rice-shortage-Nalin-Bandara/56-770971) · `en`
+
+Accuses Govt. of failing to take necessary steps to control rice market effectively
+
+Says Govt. inaction has led to dramatic price increase in rice as well as substandard imports
+
+Highlights plight of small and medium-scale rice mill owners left unable to operate due to floods and lack of Govt. support
+
+Samagi Jana Balawegaya (SJB) MP Nalin Bandara has criticised the Government for its inefficiency in addressing the ongoing rice shortages and escalating prices in the market.
+
+Speaking at a press conference in Colombo yesterday, Bandara accused the Government of failing to take the necessary steps to control the market effectively.
+
+“Despite the Government’s intervention to regulate rice prices, it has failed to bring them under control. Rice prices have surged to Rs. 260 to Rs. 270, and there is a significant shortage of raw rice in the market,” he said.
+
+Bandara also highlighted delays in rice imports and reports of substandard quality in the imported stocks, including rice infested with weevils.
+
+...
+
+[Data](articles/a9e3b9bd.json)
+
+---
+
+### Sharing knowledge in AgriTech: High Commission of India facilitates demonstration of RoWeR agri machinery
+
+*2024-12-24 03:03:22* · [`dailyftlk`](https://www.ft.lk/business/Sharing-knowledge-in-AgriTech-High-Commission-of-India-facilitates-demonstration-of-RoWeR-agri-machinery/34-770970) · `en`
+
+Initiative to boost agricultural productivity in Northern and Central Provinces
+
+In line with the Government of Sri Lanka’s efforts to revolutionise agriculture, the Assistant High Commission of India (AHC), Kandy and the Consulate General of India (CGI), Jaffna, on behalf of the High Commission of India in Colombo, facilitated a live demonstration of advanced agricultural machinery from RoWeR, a brand owned by Mechcreatio Industrial Solutions Ltd., India.
+
+The demonstrations were conducted at various locations in Kandy, Matale, Nuwara Eliya, and Badulla, in association with the Regional Economic Development Agency (REDA) – Central Province, Department of Agriculture, Lions Club, Women’s Chamber of Commerce, and other agencies.
+
+...
+
+[Data](articles/18827921.json)
+
+---
 
 ### Indian CEO Forum, Employers’ Federation hold talks
 
@@ -41,6 +95,8 @@ The Indian CEO Forum (ICF) President Kishore Reddy (centre) last week met with t
 ◼️
 
 [Data](articles/060284a4.json)
+
+[Extended Data](ext_articles/060284a4.ext.json)
 
 ---
 
@@ -59,6 +115,8 @@ Great Western Estate is managed by Talawakelle Tea Estates PLC, a subsidiary of 
 ◼️
 
 [Data](articles/c083a892.json)
+
+[Extended Data](ext_articles/c083a892.ext.json)
 
 ---
 
@@ -2163,53 +2221,5 @@ The new grid subplacement projects (TCP) branch was used by the Ceylon Electrici
 [Data](articles/661354c0.json)
 
 [Extended Data](ext_articles/661354c0.ext.json)
-
----
-
-### The Government’s Term Tests & Results: The Good, the Bad and the Ugly
-
-*2024-12-23 11:57:00* · [`islandlk`](http://island.lk/the-governments-term-tests-results-the-good-the-bad-and-the-ugly/) · `en`
-
-A newspaper editorial suggested that the NPP government is facing its December term test and that its weaknesses are showing. In fact, there have been quite a few term tests set up by different pundit examiners and they are producing a mixed bag of results. Overall and objectively, if I may say so, the government has done a reasonably good job for the most part; with a few bads, mainly gaffes, including a Prime Ministerial gaffe involving the two ‘Chinas’; and one standout ugly – the pathetic “PhD in Biochemistry and BSc in Chemical Engineering” lies of Asoka Ranwala MP, and his deservedly quick fall from Speakership grace. The focus has been mostly on his PhD boast, but his claim to a degree in Chemical Engineering is itself an instant hoax. And the leap from Chemical Engineering in Moratuwa to Biochemistry in Japan is manifestly ignorant and creatively stupid.
-
-...
-
-[Data](articles/f998ce01.json)
-
----
-
-### ගම්පහ හෝටල් හා වෙළඳසැල් හදිසි පරික්ෂාවකට
-
-*2024-12-23 11:52:47* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-හෝටල්-හා-වෙළඳසැල්-හදිසි-පරික්ෂාවකට/11-413791) · `si`
-
-ගම්පහ නගරයේ රාත්‍රී හෝටල් ඇතුලු වෙළෙඳසල් පරීක්ෂාවට ලක් කළ මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් දැඩි අපිරිසිදු තත්ත්වයෙන් පැවති ස්ථාන 16 කට අධිකරණය හමුවේ නඩු පැවරීමට පියවර ගනු ලැබූ බව ගම්පහ සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය සදහන් කරයි.
-
-ගම්පහ නගරයේ පවත්වා ගෙන යනු ලබන ඇතැම් හෝටල් සහ වෙළෙඳසල් නිසි ප්‍රමිතීන් අනුව නොවීම මෙන්ම දැඩි අපිරිසිදු තත්ත්වයෙන් පවතින බවට ලද මහජන පැමිණිලි මත සෞඛ්‍ය වෛද්‍ය නිලධාරී රොහාන් රණසිංහ මහතාගේ උපදෙස් පරිදි මෙම වැටලීම් සිදු කොට තිබේ.
-
-රාත්‍රී හෝටල්වලට අමතරව සුපිරි වෙළඳසල් පරීක්ෂාවට ලක් කිරීමේදී අලෙවියට තිබූ අපිරිසිදු තත්ත්වයෙන් යුත් මස් වර්ග මෙන්ම බලපත් රහිතව ඌරු මස් අලෙවියට තිබීම මත නඩු පැවරීමට පියවර ගෙන ඇත.
-
-තවද ඇතැම් හෝටල්වල ආහාර පාන සකස් කෙරෙන ස්ථානයන්හි ශීතකරණ තුල ලේ තැවරුණු මස් වර්ග , පිසු ආහාර , සකස්කළ කොත්තු රොටී සහ කට්ලට් වැනි ආහාර එකට තැබීම මත එම සියල්ල විනාශකර දැමීමට පරීක්ෂකවරුන් කටයුතු කොට ඇත.
-
-පරීක්ෂාවට ලක් කළ කිසිදු  හෝටලයකට වාර්ෂිකව ලබාගත යුතු සෞඛ්‍ය නිර්දේශ සහතික නොවූ බවද සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයේ ප්‍රකාශකයෙකු පැවසීය.
-
-...
-
-[Data](articles/85d0cc87.json)
-
----
-
-### සියලු කොටස් මිල දර්ශකයේ ඉතිහාසගත පිම්ම
-
-*2024-12-23 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204634) · `si`
-
-කොළඹ කොටස් වෙළෙඳපොළෙහි සියලු කොටස් මිල දර්ශකය අද (23) ඉතිහාසයේ පළමු වතාවට ඒකක 15,000 සීමාව ඉක්මවා ගියේය.
-
-මීට සුළු මොහොතකට පෙර (පෙ.ව. 11:45) එය දැක්වුණේ ඒකක 15,047.81ක් ලෙසට ය.
-
-ඒ වනවිට සියලු කොටස් මිල දර්ශකය අද දිනය තුළදී ඒකක 237.11ක වර්ධනයක් පෙන්වීය.
-
-◼️
-
-[Data](articles/6d792364.json)
 
 ---

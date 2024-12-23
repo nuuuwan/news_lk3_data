@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 08:06:22**
+As of **2024-12-23 08:27:54**
 
 ## Newspaper Stats
 
-*Scraped **61,557** Articles*
+*Scraped **61,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,864
 adaderanalk | 7,509
-tamilmirrorlk | 8,799
+tamilmirrorlk | 8,801
 virakesarilk | 10,178
 adaderanasinhalalk | 10,632
 
@@ -26,29 +26,81 @@ adaderanasinhalalk | 10,632
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,311 (99.6%) of 61,557 articles have been extended.
+61,314 (99.6%) of 61,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### මරණ තර්ජනය කර ලක්ෂ 10 ක කප්පමක් ඉල්ලූ දෙදෙනෙක් අත්අඩංගුවට
+### Rain in some areas today
+
+*2024-12-23 08:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-இன்று-மழை/175-349123) · `ta`
+
+Rain forecasted for southern, Uva provinces and Ratnapura district today evening/night. Snowfall expected in Sabaragamuwa, Central, Southern and Uva provinces this morning.
+
+🟩
+
+The Department of Meteorology has forecast rainfall in some parts of the country today (23).
+
+Accordingly, rain or thunderstorms will occur in the southern and Uva provinces and some parts of the Ratnapura district this evening or night.
+
+The Department of Meteorology has said that in the morning, the Sabaragamuwa, Central, Southern and Uva provinces will have a snowfall in the morning.. (A)
+
+◼️
+
+[Data](articles/9d619824.json)
+
+[Extended Data](ext_articles/9d619824.ext.json)
+
+---
+
+### The price of school equipment has doubled
+
+*2024-12-23 08:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-உபகரணங்களின்-விலை-இருமடங்காக-உயர்வு/175-349122) · `ta`
+
+School equipment prices double; parents concerned about costs. Sri Lanka Teachers Union calls for tax removal on educational supplies.
+
+🟩
+
+Parents point out that the cost of school equipment is high as the new school installment is to be launched.
+
+Meanwhile, the Sri Lanka Teachers Union has urged the government to take immediate steps to remove the tax on the situation if the government removes the tax imposed on school equipment.. Remble
+
+◼️
+
+[Data](articles/ee1b311c.json)
+
+[Extended Data](ext_articles/ee1b311c.ext.json)
+
+---
+
+### Two arrested for demanding a ransom threatening death
 
 *2024-12-23 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204627) · `si`
 
-දුරකථනයෙන් මරණ තර්ජන එල්ල කර කාන්තාවකගෙන් කප්පම් මුදලක් ඉල්ලීමට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-පසුගිය 04 වනදා කැලණිය, දිප්පිටිගොඩ ප්‍රදේශයේ කාන්තාවකගෙන් විදේශ රටක සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු විසින් පුද්ගලයින් යොදවා දුරකථනයෙන් මරණ තර්ජනය එල්ල කර රුපියල් ලක්ෂ 10 ක කප්පම් මුදලක් ඉල්ලා තිබේ.
 
-ඒ සම්බන්ධයෙන් සිදුකළ පැමිණිල්ලකට අනුව, බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසය විසින් විමර්ශන ආරම්භ කර තිබුණි.
 
-ඒ අනුව මෙම අපරාධයට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු ඊයේ (22) පෙරවරුවේ කිරිබත්ගොඩ, දළුගම ප්‍රදේශයේදී හා පෑලියගොඩ, පට්ටිය හන්දිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+"Two suspects (35 & 53) arrested in Daltugoda for demanding ransom via threats. Investigation led by Western Province North Criminal Division. Suspects from Kelaniya, accused of deploying people abroad."
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 35 හා 53 යන වයස්වල පසුවන කැලණිය ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+🟩
+
+The Western Province North Criminal Division has arrested two suspects involved in demanding a ransom threats from the phone.
+
+Drug dealer in Dipitigoda, Kelaniya, Kelaniya has deployed people abroad to threaten the phone and demanded a ransom of Rs.
+
+According to a complaint, the Western Province had commenced investigations.
+
+Two suspects have been arrested by two suspects in Daltugoda and Patiyagoda Junction in the Daltugoda yesterday.
+
+The suspects are residents of Kelaniya, who is 35 and 53 years.
 
 ◼️
 
 [Data](articles/3cbaabc2.json)
+
+[Extended Data](ext_articles/3cbaabc2.ext.json)
 
 ---
 
@@ -2129,59 +2181,5 @@ This policy was initially implemented in the Sabaragamuwa Province and later exp
 ...
 
 [Data](articles/bade0ebb.json)
-
----
-
-### Five arrested for engaging in treasure excavation in Kilinochchi
-
-*2024-12-22 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/201883) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Five arrests made in Kilinochchi for illegal treasure hunting. Suspects aged 22-53 from various locations. Raid conducted based on tip-off to Police Special Task Force.
-
-🟩
-
-Five suspects have been arrested by police on Saturday (21) for engaging in treasure excavation in Kanakapuram area of ​​the Kilinochchi police division.
-
-He was arrested after a raid on a confidential information received by the Arav Nagar Camp of the Police Special Task Force.
-
-The suspects are from Bidunuwewa, Vavuniya, Balangoda and Wayankoda, aged 22, 25, 37, 46 and 53.
-
-◼️
-
-[Data](articles/7e033d08.json)
-
-[Extended Data](ext_articles/7e033d08.ext.json)
-
----
-
-### The opportunity for Joe Root a year after
-
-*2024-12-22 16:57:20* · [`adalk`](https://www.ada.lk/sports/ජෝ-රූට්ට-අවුරුද්දකට-පසු-ලැබුණු-අවස්ථාව/9-413780) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Joe Root returns to action Jan 19 after 1-year hiatus. Last played Nov 2023 vs Pakistan. Rejoins ODI squad."
-
-
-
-This summary captures the key points about Joe Root's return to cricket after a year, including his last match date, the reason for his recall, and his upcoming schedule.
-
-🟩
-
-He was last played in November 2023 against Pakistan, and he had been summoned again to the ODI squad.
-
-Joe Root is due to join the Indian team in the 19th of January.
-
-◼️
-
-[Data](articles/ddcca997.json)
-
-[Extended Data](ext_articles/ddcca997.ext.json)
 
 ---

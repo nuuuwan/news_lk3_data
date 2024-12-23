@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 13:01:33**
+As of **2024-12-23 13:12:54**
 
 ## Newspaper Stats
 
-*Scraped **61,608** Articles*
+*Scraped **61,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 648
-islandlk | 3,729
+islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,871
+adalk | 5,872
 adaderanalk | 7,518
-tamilmirrorlk | 8,815
+tamilmirrorlk | 8,817
 virakesarilk | 10,184
 adaderanasinhalalk | 10,639
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 10,639
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,340 (99.6%) of 61,608 articles have been extended.
+61,342 (99.6%) of 61,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### GLOBAL CEO LEADERSHIP EXCELLENCE AWARDS 2024
+
+*2024-12-23 12:58:00* · [`islandlk`](http://island.lk/global-ceo-leadership-excellence-awards-2024/) · `en`
+
+Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
+
+NSB triumphs at CMA Excellence in Integrated Reporting Awards 2024
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/cb05bceb.json)
+
+---
+
+### கலாநிதி ஆயிஷா விக்கிரமசிங்க தலைவராக நியமனம்
+
+*2024-12-23 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-ஆயிஷா-விக்கிரமசிங்க-தலைவராக-நியமனம்/175-349148) · `ta`
+
+தேசிய கைவினைப் பேரவையின் தலைவராக வடிவமைப்பு மற்றும் தயாரிப்பு மேம்பாட்டில் நிபுணரான கலாநிதி ஆயிஷா விக்கிரமசிங்க நியமிக்கப்பட்டுள்ளார்.
+
+கைத்தொழில் மற்றும் தொழில் முனைவோர் மேம்பாட்டு அமைச்சகத்தின் கீழ் இயங்கும் தேசிய கைவினைக் கவுன்சில், உள்ளூர் கைவினைத் துறையை மேம்படுத்துவதிலும் மேம்படுத்துவதிலும் முக்கியப் பங்காற்றுகிறது.
+
+கலாநிதி விக்கிரமசிங்க மொரட்டுவ பல்கலைக்கழகத்தில் சிரேஷ்ட விரிவுரையாளராக 2006 ஆம் ஆண்டு முதல் பெஷன் டிசைன் மற்றும் தயாரிப்பு மேம்பாட்டில் நிபுணத்துவம் பெற்றுள்ளார். இலங்கை, ஐக்கிய இராச்சியம் மற்றும் அமெரிக்காவிலிருந்து விளம்பரம் மற்றும் வடிவமைப்பில் விரிவான தொழில்முறை அனுபவத்தையும் கொண்டுள்ளார்.
+
+காலி சவுத்லண்ட்ஸ் கல்லூரியின் பழைய மாணவரான கலாநிதி விக்கிரமசிங்க மொரட்டுவ பல்கலைக்கழகத்தில் ஆடை வடிவமைப்பு மற்றும் தயாரிப்பு மேம்பாடு ஆகியவற்றில் முதல் தரத்தில் பட்டம் பெற்றார். அவர் லண்டனில் உள்ள கலைப் பல்கலைக்கழகத்தில் முதுகலைப் பட்டமும், இலங்கையின் காட்சி மற்றும் நிகழ்த்துக் கலைப் பல்கலைக்கழகத்தில் முனைவர் பட்டமும் பெற்றுள்ளார்.
+
+◼️
+
+[Data](articles/41325aa7.json)
+
+---
+
+### மின்சாரம் தாக்கி இவ்வருடம் 50 காட்டு யானைகள் பலி
+
+*2024-12-23 12:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-இவ்வருடம்-50-காட்டு-யானைகள்-பலி/175-349147) · `ta`
+
+இவ்வருடம் இதுவரையான காலப்பகுதியில் சுமார் 50 காட்டு யானைகள் மின்சாரம் தாக்கி உயிரிழந்துள்ளதாகவும், அந்த சந்தர்ப்பங்களில் அனுமதியின்றி இலங்கை மின்சார சபையின் மின்சார எடுக்கப்பட்டதாகவும் மின்சார சபையின்  அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அனுமதியின்றி மின்சாரம் எடுப்பதைத் தடுக்க உரிய நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாகவும், இதற்கு பொதுமக்களின் ஆதரவு எதிர்பார்க்கப்படுவதாகவும் மின்சார சபை கூறுகிறது.
+
+◼️
+
+[Data](articles/58e18048.json)
+
+---
+
+### නෙළුම්කුළුනේ වෙනස්වූ වේලාව
+
+*2024-12-23 12:32:12* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්කුළුනේ-වෙනස්වූ-වේලාව/11-413793) · `si`
+
+නත්තල් සමයත් නව වසර උදාවත් නිමිත්තෙන් කොළඹ නෙළුම් කුළුනට පැමිණෙන පිරිස වැඩිවීමත් සමග එය මහජනතාව සඳහා විවෘත කර තබන වේලාවන් දීර්ඝ කර ඇත.
+
+ඒ අනුව දෙසැම්බර් 25 සහ 26 දෙදින පෙරවරු 9.00 සිට මධ්‍යම රාත්‍රිය දක්වාත් දෙසැම්බර් 27 පෙරවරු 9.00 සිට රාත්‍රී 11.00 දක්වාත්, දෙසැ. 31 සහ ජනවාරි 01 දා පෙරවරු 9.00 සිට පසුදින අළුයම 1.00 දක්වාත් විවෘතව තබන බවත් එහි කළමනාකාරීත්වය දැනුම්දී සිටියි.
+
+◼️
+
+[Data](articles/599b6460.json)
+
+---
 
 ### 04 students arrested with fake currency notes
 
@@ -60,37 +124,51 @@ Students have informed the police that a close person gave them these currencies
 
 ---
 
-### එස් එම් චන්ද්‍රසේන සර්වජන බලය සමග එක්වෙයි
+### SM Chandrasena joins mysogeant power
 
 *2024-12-23 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204635) · `si`
 
-හිටපු අමාත්‍ය එස්. එම්. චන්ද්‍රසේන මහතා අද (23) සර්වජන බලයේ සාමාජිකත්වය ලබාගත්තේය.
+S.M. Chandrasena joins Mysogeant Power. Former minister receives party membership from leader Dilith Jayaweera. Represented Anuradhapura District in Parliament 2001-2024. Held Sri Lanka Civil Appointed Government posts. Joined New Democratic Party in last general election.
 
-ඔහු පක්ෂ සාමාජිකත්වය ලබාගත්තේ පක්ෂ නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා අතිනි.
+🟩
 
-ඔහු 2001 වසරේ සිට 2024 දක්වා අනුරාධපුර දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුව නියෝජනය කර තිබේ.
+Former ministerial S. M. Mr. Chandrasena received the membership of the exangeration today (23).
 
-චන්ද්‍රසේන මහතා ශ්‍රී ලංකා පොදුජන පෙරමුණු ආණ්ඩුවේ අමාත්‍ය තනතුරු කිහිපයක් දැරීය.
+He obtained the party membership with party leader MP Dilith Jayaweera.
 
-ඔහු පසුගිය මහ මැතිවරණයේදී නව ප්‍රජාතන්ත්‍රවාදී පක්ෂයට එක්වී තරග කළේය.
+He represented Parliament from the Anuradhapura District from 2001 to 2024.
+
+Chandrasena held several posts of the Sri Lanka Civil Appointed Government.
+
+He joined the New Democratic Party at the last general election.
 
 ◼️
 
 [Data](articles/161d5297.json)
 
+[Extended Data](ext_articles/161d5297.ext.json)
+
 ---
 
-### වගවත්ත ග්‍රිඩ් උපපොළ පද්ධතියට සම්බන්ධ කරයි
+### Connecting the clubs to the grid substation
 
 *2024-12-23 12:07:29* · [`adalk`](https://www.ada.lk/breaking_news/වගවත්ත-ග්‍රිඩ්-උපපොළ-පද්ධතියට-සම්බන්ධ-කරයි/11-413792) · `si`
 
-අභිනවයෙන් ඉදිකරන ලද වගවත්ත ග්‍රිඩ් උපපොළ 2024 දෙසැම්බර් මස 19 වන දින ජාතික විදුලිබල පද්ධතියට සම්බන්ධ කළ බව ලංකා විදුලිබල මණ්ඩලය නිවේදනය කරයි. ප්‍රධාන වශයෙන්ම ශ්‍රී ලංකා ආයෝජන මණ්ඩලයේ වගවත්ත සහ මිල්ලනිය කර්මා න්ත කලාප වලට විදුලිය සැපයීම සඳහා ඉදිකරන ලද මෙම ග්‍රිඩ් උපපොළ සදහා ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් රුපියල් මිලියන 2300 ක මුදලක් ආයෝජනය කරන ලදී.
+Ceylon Electricity Board connects new Portfolid substation to national grid on Dec 19, 2024. Built by Board of Investment of Sri Lanka, it provides electricity to Balawatta and Millaniya areas. Enhances stability and quality of power supply. First grid substation constructed by CEB.
 
-ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් පරිත්‍යාග කරන ලද  අක්කර පහක පමණ භූමි භාගයක ඉදිකර ඇති මෙම නව ග්‍රිඩ් උපපොළ දැනට පවතින කර්මා න්ත සඳහා විදුලි සැපයුමේ ස්ථායිතාවය හා ගුණාත්මකභාවය වැඩි දියුණු කිරීම සහ ඉදිරියේදී ඇතිකිරීමට අපේක්ෂිත කර්මා න්ත සඳහා ස්ථායි මෙන්ම ගුණාත්මක විදුලි සැපයුමක් ලබාදීම වෙනුවෙන් 90 MVA ක ධාරිතාවයකින් යුතුව ඉදිකර ඇත.
+🟩
 
-...
+The Ceylon Electricity Board (CEB) announces that the newly built portfolid substation was linked to the national grid on 19th December 19, 2024. The Grid substation of the Board of Investment of Sri Lanka mainly, the Grid substation was established to provide electricity to the role of the Balawatta and Millaniya.
+
+The new grid substances have been built by the Board of Investment of Sri Lanka (BOI) has built stability and quality of electricity to existing purposes and to provide quality power supply for the purposes expected to be informed.Built with.
+
+The new grid subplacement projects (TCP) branch was used by the Ceylon Electricity Board (TCP) branch.. That is, the Grid Hutua is the first grid constructed substation built by the Ceylon Electricity Board (CEB).
+
+◼️
 
 [Data](articles/661354c0.json)
+
+[Extended Data](ext_articles/661354c0.ext.json)
 
 ---
 
@@ -2009,85 +2087,5 @@ Two entities play a visible and critical role in State attempts to place repress
 [Data](articles/d9cb8685.json)
 
 [Extended Data](ext_articles/d9cb8685.ext.json)
-
----
-
-### The fire of Akmeemana is managed
-
-*2024-12-22 23:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204621) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fire controlled at building near Kurunduwatta Junction in Galle. Two fire extinguishers used by Galle Municipal Council. Area around Akmeemana Junction closed temporarily due to incident.
-
-🟩
-
-The fire has been ruled at a building material at a building material near Kurunduwatta Junction in Galle.
-
-Two fire extinguishers contributed to the fire in the Galle Municipal Council.
-
-However, the area near the Akmeemana Junction on the Galle-Udugama Junction has been closed down temporarily.
-
-◼️
-
-[Data](articles/feb0aefc.json)
-
-[Extended Data](ext_articles/feb0aefc.ext.json)
-
----
-
-### Removing ban on vehicle imports: Is it a prudent plan?
-
-*2024-12-22 23:41:45* · [`dailyftlk`](https://www.ft.lk/columns/Removing-ban-on-vehicle-imports-Is-it-a-prudent-plan/4-770881) · `en`
-
-The highest risk is not the decision to import vehicles but linking the tariff income as a source of funding to pay the proposed salary increases, because if dollar outflow is going to be significant destabilising the existing macroeconomic stability, there is no way to contain vehicle imports as such restriction will reduce the targeted tariff income jeopardising the Government plan to provide money for salary increases without increasing taxes
-
-The Government’s plan to lift the ban on vehicle imports is out. But it is not a prudent plan, perhaps it cannot prevail. Sometimes it might create macroeconomic chaos and uncertainty among the vehicle importing entrepreneurs. Any policy that cannot be sustained or justified in view of  strengthening the macroeconomic environment of the country is usually treated as a bad policy.
-
-...
-
-[Data](articles/63ad1a4f.json)
-
-[Extended Data](ext_articles/63ad1a4f.ext.json)
-
----
-
-### Civil Society Organisations Do Have Active Role To Play In Economic Developments
-
-*2024-12-22 23:26:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/civil-society-organisations-do-have-active-role-to-play-in-economic-developments/) · `en`
-
-It is with great pleasure that I accepted the invitation of Dr. Vinya Ariyaratne whom I always keep in high esteem for his integrity, probity, and civic mindedness to speak on the 68th year anniversary of Sarvodaya Movement. I had another reason to accept this. That is because Sarvodaya, especially its enterprise arm called the Sarvodaya Economic Enterprise Development Society or SEEDS and its training arm, Sarvodaya Management Training Institute or SMTI, were participating community-based organisations in one of the microfinance projects implemented by the Central Bank from 1989 to 1998.
-
-...
-
-[Data](articles/4f7bb663.json)
-
----
-
-### Special Transport Action Tomorrow
-
-*2024-12-22 22:29:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-விசேட-போக்குவரத்து-நடவடிக்கை/175-349104) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Special traffic measures start tomorrow until festival end. Police to conduct checks on all vehicles, including buses. Operation led by Inspector General to reduce accidents.
-
-🟩
-
-Special traffic will be implemented from tomorrow (23) to the end of the festival.
-
-The Police Media Unit has announced that it is planning to carry out a special traffic operation to check other vehicles, including passenger transport buses.
-
-The announcement that the traffic will be taken under the direction of the Inspector General of Police to reduce such accidents in view of accidents that have occurred by other skies, including passenger transport buses, including passenger transport buses.. Remble
-
-◼️
-
-[Data](articles/bef4731f.json)
-
-[Extended Data](ext_articles/bef4731f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 03:00:54**
+As of **2024-12-24 02:43:09**
 
 ## Newspaper Stats
 
-*Scraped **61,702** Articles*
+*Scraped **61,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,283
+dailyftlk | 4,281
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,536
-tamilmirrorlk | 8,833
+tamilmirrorlk | 8,832
 virakesarilk | 10,192
 adaderanasinhalalk | 10,658
 
@@ -26,55 +26,11 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,405 (99.5%) of 61,702 articles have been extended.
+61,404 (99.5%) of 61,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
-
-### LKI-ICRC seminar discusses contemporary challenges concerning AI and Autonomous Weapons Systems
-
-*2024-12-24 02:48:12* · [`dailyftlk`](https://www.ft.lk/news/LKI-ICRC-seminar-discusses-contemporary-challenges-concerning-AI-and-Autonomous-Weapons-Systems/56-770966) · `en`
-
-The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), in collaboration with the International Committee of the Red Cross (ICRC) hosted a panel discussion titled, “Artificial Intelligence (AI), Autonomous Weapons Systems (AWS) and contemporary challenges” at the LKI Lighthouse Auditorium on 19 December 2024.
-
-It was attended by diplomats, representatives of international organisations, senior officials of relevant Ministries and agencies, military personnel, leading researchers and university students.
-
-...
-
-[Data](articles/034c2688.json)
-
----
-
-### USAID collaborates with Open University to offer first certificate program in migration law and policy
-
-*2024-12-24 02:40:53* · [`dailyftlk`](https://www.ft.lk/news/USAID-collaborates-with-Open-University-to-offer-first-certificate-program-in-migration-law-and-policy/56-770965) · `en`
-
-The United States through the United States Agency for International Development (USAID) yesterday announced the successful completion of the first certificate program in migration law and policy in Sri Lanka by 69 professionals who now have the tools and knowledge to take the fight against human trafficking back to their communities.
-
-The six-month course was a joint effort between USAID’s “Empowering Civil Society to Combat Human Trafficking” project (ECCT) and the Open University of Sri Lanka (OUSL). The SAFE Foundation implements ECCT. This course on migration and law marked the first ever collaboration between a civil society organisation and a leading Sri Lankan university to provide a structured academic course.
-
-...
-
-[Data](articles/5bcf63bd.json)
-
----
-
-### ஜனாதிபதி அலுவலகத்தில் நத்தார் கெரோல் இசை
-
-*2024-12-24 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-நத்தார்-கெரோல்-இசை/175-349187) · `ta`
-
-ஜனாதிபதி அலுவலகம், முப்படையினர், பொலிஸார் இணைந்து வருடாந்தம் நடத்தும் நத்தார் விசேட கரோல் இசை நிகழ்ச்சி, தொழில் அமைச்சரும், பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான அனில் ஜயந்த பெர்னாண்டோ தலைமையில் நேற்று முன்தினம் ஆரம்பமானது.
-
-நத்தார் கெரோல் இசை நிகழ்ச்சியை முன்னிட்டு ஜனாதிபதி அலுவலக வளாகம் மற்றும் அதனைச் சூழவுள்ள பகுதிகள் மின்னொளியால் அலங்கரிக்கப்பட்டிருந்ததோடு இலங்கை இராணுவத்தின் பாடல் குழு மற்றும் இசைக்குழுவினரால் நத்தார் கெரோல் கச்சேரி நிகழ்த்தப்பட்டது.
-
-இந்த கிறிஸ்மஸ் கெரோல் இசை நிகழ்ச்சி நாளை 25 ஆம் திகதி வரை தினமும் இரவு 7.00 மணி முதல் ஜனாதிபதி செயலக வளாகத்தில் நடைபெறவுள்ளது. (a)
-
-◼️
-
-[Data](articles/64991007.json)
-
----
 
 ### Sri Lankan exporters attend world’s largest food innovation exhibition in Paris
 
@@ -220,29 +176,21 @@ The amount of rice brought to Sri Lanka during the time is 67,000 metric tons. R
 
 ---
 
-### Advice from Presidential Officers
+### ජනාධිපති අනුර නිලධාරීන්ට දුන් උපදෙස
 
 *2024-12-23 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204654) · `si`
 
-Sri Lankan President Anura Kumara Dissanayake led a meeting on preventing money laundering and funding terrorism. The Finance Intelligence Unit stressed implementing cabinet-approved measures. The President instructed dedicated teams to ensure plan consistency, emphasizing financial system stability and economic growth while combating terrorism.
+මුදල් විශුද්ධිකරණය වැළැක්වීම සහ ත්‍රස්තවාදයට මුදල් සැපයීම මැඬ පැවැත්වීම පිළිබඳ ආසියා ශාන්තිකර කණ්ඩායම විසින් පැවැත්වීමට නියමිත ශ්‍රී ලංකාවේ අන්‍යෝන්‍ය ඇගයීම සඳහා සූදානම් වීමේ වැදගත්කම පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (23) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
 
-🟩
+මෙම සාකච්ඡාව සඳහා අමාත්‍ය මණ්ඩලය, අමාත්‍යාංශ ලේකම්වරු, ශ්‍රී ලංකා මහ බැංකුවේ නිලධාරීහු සහ මුල්‍ය බුද්ධි ඒකකයේ නිලධාරීහු සහභාගි වූහ.
 
-President Anura Kumara Dissanayake was held at the Presidential Secretariat today (23) under the patronage of a discussion of the Sri Lankan team to prevent money laundering and supplying funds to terrorism.
+අමාත්‍යාංශ, නියාමන ආයතන, නීතිය ක්‍රියාත්මක කිරීමේ නියෝජිත ආයතන ඇතුළුව, පාර්ශ්වකාර ආයතන 24ක් සඳහා සම්පාදනය කර ඇති අමාත්‍ය මණ්ඩල අනුමැතිය ලත් ක්‍රියාකාරී සැලසුම් ක්‍රියාත්මක කිරීමේ කඩිනම් අවශ්‍යතාව මෙහිදී මූල්‍ය බුද්ධි ඒකකය විසින් අවධාරණය කරන ලදී.
 
-Cabinet of Ministers, Ministry Secretaries, Central Bank of Sri Lanka and Finance Intelligence Unit were also present.
-
-The Finance Intelligence Unit emphasized the immediate need to implement the approved Cabinet approval, including ministries, regulatory agencies, law enforcement agencies.
-
-The Action Plan provides priority to the implementation of legal reforms, the capacity building, improved interven agency cooperation, improved interven agency cooperation and comprehensive statistics.
-
-President Anura Kumara Dissanayake instructed the Financial Intelligence Unit, Ministers, Secretaries, and officials to appoint dedicated groups to ensure full consistency with these plans.
+මූල්‍ය ක්‍රියාකාරී කාර්ය සාධක බලකාය (FATF) විසින් සකස් කරන ලද නිර්දේශය ක්‍රියාත්මක කිරීම සඳහා නීතිමය ප්‍රතිසංස්කරණ, ධාරිතා ගොඩනැඟීම, වැඩිදියුණු කළ අන්තර් නියෝජිතායතන  සහයෝගීතාව සහ විස්තීර්ණ සංඛ්‍යා ලේඛන පවත්වා ගෙන යාම සඳහා මෙම ක්‍රියාකාරී සැලසුම තුළ ප්‍රමුඛතාව ලබාදෙයි.
 
 ...
 
 [Data](articles/a0cc39a1.json)
-
-[Extended Data](ext_articles/a0cc39a1.ext.json)
 
 ---
 
@@ -2225,5 +2173,65 @@ It is reported that more than 2000 churches across the country are scheduled to 
 [Data](articles/111c0e91.json)
 
 [Extended Data](ext_articles/111c0e91.ext.json)
+
+---
+
+### Install holiday announcement
+
+*2024-12-23 11:36:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-விடுமுறை-அறிவிப்பு/175-349144) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Second phase of third term for state schools starts January 1, 2025. Third term concludes January 24, 2025.
+
+🟩
+
+"The second phase of the third term for state schools and state -owned private schools for state schools and state -owned private schools will commence on Thursday, 2025.01.01. The third term of all schools will be completed on 2025.01.24."
+
+◼️
+
+[Data](articles/978a770b.json)
+
+[Extended Data](ext_articles/978a770b.ext.json)
+
+---
+
+### Sri Lanka ASPI hits 15,000 mark
+
+*2024-12-23 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-aspi-hits-15000-mark-195888/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index went beyond the 15,000 mark hitting a new record.
+
+The broader ASPI was up at 15,027 in mid-morning trade; while the more liquid S&P SL20 Index was at 4,494.
+
+Sri Lanka stocks have been on a bull run amid low interest rates and banks awash in excess liquidity in the last quarter making margin loans cheap.
+
+The market also has had positive news, with improvements in banking sector, conclusion of debt restructuring.
+
+Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/2024)
+
+◼️
+
+[Data](articles/258cb363.json)
+
+[Extended Data](ext_articles/258cb363.ext.json)
+
+---
+
+### මාලිමාවේ සංගමයක සාමාජිකත්වය ගත් පිරිසකට ලංකා කම්කරු කොංග්‍රසයේ සාමාජිකයා පහරදීලා
+
+*2024-12-23 11:16:50* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-සංගමයක-සාමාජිකත්වය-ගත්-පිරිසකට-ලංකා-කම්කරු-කොංග්‍රසයේ-සාමාජිකයා-පහරදීලා/11-413790) · `si`
+
+ජාතික ජන බලවේගයට අනුබද්ධ සමස්ත ලංකා වතු කම්කරු සංගමයේ සමාජිකත්වය ලබාගත් එකම පවුලේ තිදෙනෙකුට ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවෙකු පහර දුන්නේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ලද පැමිණිල්ලක් මත එම ආධාරකරුවා (22) දින අත්අඩංගුවට ගත් බව නොර්වුඩ් පොලිසියේ ස්ථානාධිපති පොලිස් පරික්ෂක රාජනායක පැවසිය.
+
+නොර්වුඩ් පොලිස් වසමට අයත් නිව්ටන් වතුයායේ පදිංචි ලංකා කම්කරු කොන්ග්‍රසයේ හිටපු ආධාරකරුවෙකු ඔහුගේ බිරිද සහ දෙළොස් හැවිරිදි පිරිමි දරුවාට සැකකරු විසින් (22) දින පස්වරුවේ පහර දි තුවාල සිදු කර ඇති බවයි ස්ථානාධිපතිවරයා කියා සිටියේ.
+
+පහර කැමෙන් තුවාල ලැබු තිදෙනා දික්ඔය මුලික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබයි.
+
+...
+
+[Data](articles/c4844e0b.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 19:14:38**
+As of **2024-12-23 19:27:37**
 
 ## Newspaper Stats
 
-*Scraped **61,667** Articles*
+*Scraped **61,669** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 625
-bbccomsinhala | 648
+bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,881
+adalk | 5,882
 adaderanalk | 7,533
 tamilmirrorlk | 8,827
 virakesarilk | 10,191
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,372 (99.5%) of 61,667 articles have been extended.
+61,373 (99.5%) of 61,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,28 @@ According to the Chief Motor Vehicle Inspector, the door’s lock had been defec
 ...
 
 [Data](articles/6544d7a7.json)
+
+[Extended Data](ext_articles/6544d7a7.ext.json)
+
+---
+
+### ‘මගී ප්‍රවාහන බස් රථ වල අමතර උපාංග සියල්ල ගලවන්න’
+
+*2024-12-23 17:50:31* · [`adalk`](https://www.ada.lk/picture_story/‘මගී-ප්‍රවාහන-බස්-රථ-වල-අමතර-උපාංග-සියල්ල-ගලවන්න’/10-413802) · `si`
+
+හැටන් සිට මහනුවර දක්වා ධාවනය වෙමින් තිබියදි අනතුරට පත් පෞද්ගලික බස් රථය නුවරඑලිය දිස්ත්‍රික් ප්‍රධාන මොටර් රථ පරික්ෂක දමින්ද සේනානායක මහතා විසින් අද (23) දින පරික්ෂාවට ලක් කෙරිණ.
+
+හැටන් පොලිසියේ රථ වාහන අංශයේ නිලධාරින්ගේ ඉල්ලිමක් මත පොලිස් භාරයේ ඇති අනතුරට පත් බස් රථය ප්‍රධාන මොටර් රථ පරික්ෂකවරයාගේ පරික්ෂාවට ලක් කෙරිණ.
+
+මෙම පරික්ෂාවේදි ධාවනය වෙමින් තිබු බස් රථයේ රියදුරු දොරටුව විවෘත වි ඇත්තේ කාලයක් තිස්සේ එම දොරේ අගුල ක්‍රියාවිරහිත තිබිම නිසා බවත්, එම දොර තාවකාලිකව වසා දැමිමට ක්‍රමවේදයක් අනුගමනය කර ඇති බවට මොටර් රථ පරික්ෂකවරයා තහවුරු කරගෙන ඇත.
+
+තවද රියදුරුගේ ආරක්ෂිත බද පටිය නොමැති බවත්, බස් රථය තුල අනතුරු සිදුවිය හැකි සුදු යකඩ උපාංග රැසක් සවි කර තිබිම නිසා මගින් තිදෙනෙකු මියගොස් මගින් විශාල පිරිසකට බරපතල තුවාල සිදු විමට හේතුව වි ඇති බවද මොටර් රථ පරික්ෂකවරයා පොලිසිය වෙත පැවසිය.
+
+බස් රථයේ ආසන ප්‍රමිතියකට සවි කර නොතිබිම නිසා ආසන සියල්ල ගැලවි ගොස් එකිනෙක ගැටිම නිසා මගින්ට සිදු වු තුවාල බරපතල විමට හේතුව වි ඇති බවද මොටර් රථ පරික්ෂකවරයා පැවසිය.
+
+...
+
+[Data](articles/b07fe8ef.json)
 
 ---
 
@@ -913,6 +935,24 @@ It is said that it is revealed that an investigation is conducted in the acciden
 [Data](articles/7156ad00.json)
 
 [Extended Data](ext_articles/7156ad00.ext.json)
+
+---
+
+### හැඳුනුම්පත නැතිව එළියට බැස්සොත් අත්අඩංගුවට ගන්න පුළුවන් ද?
+
+*2024-12-23 13:29:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn08ky78j9ko) · `si`
+
+අනන්‍යතාව හඳුනා ගැනීමේ හැඳුනුම්පතක් සන්තකයේ නොතිබීම හේතුවෙන් අතුරුගිරිය පොලිසිය තමන්ව අනීතික ලෙස අත්අඩංගුවට ගෙන අඩන්තේට්ටම් කළ බවට ලේඛකයෙකු සහ කලාකරුවෙකු වන කසුන් මහේන්ද්‍ර හීනටිගල පොලිස්පතිවරයාට පැමිණිලි කර තිබේ.
+
+ඔහු පවසන්නේ, දෙසැම්බර් 20 හෝ ඊට ආසන්න දිනක රාත්‍රියේ තම නිවස අසල පිහිටි වෙළෙඳසලකට ගිය තමන්ව සිවිල් ඇඳුම් ඇඳ සිටි පොලිස් නිලධාරින් පිරිසක් පැමිණ අත්අඩංගුවට ගත් බව ය.
+
+එම නිලධාරින් තම නිවස කොහේ දැයි විමසූ බවත් ඉන් පසුව හැඳුනුම්පත ඉල්ලූ විට "නිවස අසල කඩයට ඒමට අයිඩී කුමට දැයි" තමන් විමසූ විට "මූව දාගනින්" කියා බලහත්කාරයෙන් පොලිස් ත්‍රිරෝද රථයට නංවා ගෙන අතුරුගිරිය පොලිසිය වෙත රැගෙන ආ බව නීතිවේදියෙකු ද වන කසුන් පවසයි.
+
+එසේ රැගෙන යන අවස්ථාවේදී පොලිස් නිලධාරින් ඔහුව දැඩිව අල්ලා ගැනීම හේතුවෙන් ශාරීරික හිංසාවකට ලක්වූ බව ද ඔහු පවසයි.
+
+...
+
+[Data](articles/78eeb44e.json)
 
 ---
 
@@ -2093,45 +2133,5 @@ Meanwhile, a resolution has been passed at the Dravida Munnetra Kazhagam Executi
 [Data](articles/0bc401d2.json)
 
 [Extended Data](ext_articles/0bc401d2.ext.json)
-
----
-
-### Customs says rice imports on hold until Gazette notification issued
-
-*2024-12-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104429/customs-says-rice-imports-on-hold-until-gazette-notification-issued) · `en`
-
-Sri Lanka Customs has announced that rice imports into the country will not be permitted under any circumstances until the relevant Gazette notification is issued.
-
-The period allocated to the private sector for rice imports expired on December 20, during which a total of 67,000 metric tons of rice were imported.
-
-However, the government recently announced an extension of the rice import period until January 10, 2025.
-
-Despite this announcement, Sri Lanka Customs clarified that, without the publication of the Gazette notification, rice imports cannot be processed or released to the local market, even with government intervention.
-
-Meanwhile, a government-imported stock of 52,000 metric tons of rice is expected to arrive in the country within the next few days.
-
-Government sources have indicated that the Gazette notification allowing rice imports will likely be issued following today’s (23) Cabinet meeting.
-
-...
-
-[Data](articles/16b72d3d.json)
-
----
-
-### Trump threatens to retake control of Panama Canal
-
-*2024-12-23 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104428/trump-threatens-to-retake-control-of-panama-canal) · `en`
-
-President-elect Donald Trump threatened to reassert U.S. control over the Panama Canal on Sunday, accusing Panama of charging excessive rates to use the Central American passage and drawing a sharp rebuke from Panamanian President Jose Raul Mulino.
-
-Speaking to a crowd of supporters in Arizona, Trump also said he would not let the canal fall into the “wrong hands,” warning of potential Chinese influence on the passage.
-
-After the event, he posted an image on Truth Social of an American flag flying over a narrow body of water, with the comment: “Welcome to the United States Canal!”
-
-“Has anyone ever heard of the Panama Canal?” Trump said at AmericaFest, an annual event organized by Turning Point, an allied conservative group. “Because we’re being ripped off at the Panama Canal like we’re being ripped off everywhere else.”
-
-...
-
-[Data](articles/089bd9e7.json)
 
 ---

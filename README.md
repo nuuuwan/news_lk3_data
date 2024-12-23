@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 20:14:21**
+As of **2024-12-23 20:27:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,376 (99.5%) of 61,672 articles have been extended.
+61,377 (99.5%) of 61,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,21 +110,27 @@ The Public Utilities Commission said that the process of receiving the public's 
 
 ---
 
-### මූඩිස් ආයාතනය ලංකාවේ ණය ශ්‍රේණිගත කිරීම ඉහළ දමයි
+### Finalizing Moody's Infitation increases in Sri Lanka
 
 *2024-12-23 18:24:20* · [`adalk`](https://www.ada.lk/breaking_news/මූඩිස්-ආයාතනය-ලංකාවේ-ණය-ශ්‍රේණිගත-කිරීම-ඉහළ-දමයි/11-413803) · `si`
 
-ඩොලර් බිලියන 12.55 ක සෛවරීත්ව බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමත් සමග ශ්‍රී ලංකාවේ ණය ශ්‍රේණිගත කිරීම දැමීමට ලොව ප්‍රමුඛ පෙළේ ණය ශ්‍රේණිගත කිරීමේ ආයතනයක් වන මූඩිස් ආයතනය කටයුතු කර තිබේ.
+Moody's upgrades Sri Lanka's foreign currency bond rating to CaA1, citing improved credit profile and reduced external and state liquidity risks. Fitch also raises long-term foreign currency default rating to CCC+.
 
-ඒ අනුව ශ්‍රී ලංකාවේ දිගුකාලීන විදේශ මුදල් නිකුත් කිරීමේ ශ්‍රේණිගත කිරීම 'Ca' සිට 'Caa1' දක්වා ඉහළ නැංවීමට එම ආයතනය කටයුතු කර තිබේ.
+🟩
 
-"පසුගිය වසර දෙක තුළ ශ්‍රී ලංකාවේ ණය මූලිකාංග වැඩිදියුණු වී ඇත... බාහිර අවදානම් සහ රජයේ ද්‍රවශීලතා අවදානම යන දෙකම ඉහළ මට්ටම් වලින් පහත වැටී ඇත."  යැයි මූඩීස්  ආයතනය පවසයි.
+Moodis, one of the world's leading loan rating, has acted in the restructuring of $ 12.55 billion Cewriting bonds.
 
-මීට අමතරව තවත් ලෝකයේ ප්‍රධාන පෙළ ණය ශ්‍රේණිගත කිරීමේ ආයතනයක් වන ෆිච් ආයතනයද ශ්‍රී ලංකාවේ දිගුකාලීන විදේශ මුදල් පැහැර හැරීම් ශ්‍රේණිගත කිරීම 'CCC+' දක්වා ඉහළ නැංවීමට කටයුතු කළේය.
+Accordingly, the institute has taken steps to increase the prolonged foreign currency issuance of Sri Lanka to 'CaA1'.
+
+"Sri Lanka's credit elections have been improved over the past two years.. The exterior risk and state liquidity risk both have fallen from high levels. "
+
+In addition, Fitch, one of the world's leading loan rating agency, also operated Sri Lanka's long-term foreign currency default rating to the CCC + '.
 
 ◼️
 
 [Data](articles/eff70783.json)
+
+[Extended Data](ext_articles/eff70783.ext.json)
 
 ---
 

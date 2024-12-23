@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 14:16:20**
+As of **2024-12-23 14:43:25**
 
 ## Newspaper Stats
 
-*Scraped **61,628** Articles*
+*Scraped **61,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,873
+adalk | 5,874
 adaderanalk | 7,522
 tamilmirrorlk | 8,821
 virakesarilk | 10,186
@@ -26,45 +26,65 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,348 (99.5%) of 61,628 articles have been extended.
+61,351 (99.5%) of 61,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### பயிர்ச்செய்கை பாதுகாப்பும் வனஜீவராசிகளும்
+### Cultivation Protection and Wildlife
 
 *2024-12-23 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201956) · `ta`
 
-இலங்கையில் வருடாந்தம் 31,000 மெற்றிக் தொன்னுக்கும் அதிகமான மரக்கறிகள் மற்றும் பழ உற்பத்திகள்  வனவிலங்குகளால் அழிக்கப்படுவதாகவும் இதனால்  வருடாந்தம் 20 பில்லியன் ரூபா வரையிலான இழப்புகள் ஏற்படுவதாகவும் 2023 ஆம் ஆண்டில் மேற்கொள்ளப்பட்ட ஆய்வொன்றின் மூலம் தெரியவந்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wildlife destroys over 31,000 metric tons of fruits & veggies in Sri Lanka each year, resulting in 20 billion rupee losses. A 2023 study highlights the economic impact of crop damage due to wild animals.
+
+🟩
+
+A study by 2023 revealed that more than 31,000 metric vegetables and fruit products are being destroyed by wildlife annually in Sri Lanka, causing losses of up to 20 billion rupees annually.
 
 ◼️
 
 [Data](articles/56f0ce0c.json)
 
+[Extended Data](ext_articles/56f0ce0c.ext.json)
+
 ---
 
-### උත්සව සමයට විශේෂ ප්‍රවාහන සේවාවක්
+### Special transport service for festive season
 
 *2024-12-23 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204640) · `si`
 
-උත්සව සමය නිමිත්තෙන් අමතර බස්රථ සහ දුම්රිය ගමන් වාර කිහිපයක් ධාවනයට එක්කර ඇති බව ප්‍රවාහන අංශ පවසයි.
+Sri Lanka Transport Board adds special bus & train services for festive season. Increased frequency on expressways & additional trains to Colombo, Badulla, Jaffna. Special measures implemented to meet demand.
 
-ඒ අනුව විශේෂ බස් රථ සේවාවක් හෙට (24) සිට ක්‍රියාත්මක කිරීම ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය පියවර ගෙන තිබේ.
+🟩
 
-එහි නියෝජ්‍ය සාමාන්‍යාධිකාරී පණ්ඩුක ස්වර්ණහංස මහතා පැවසුවේ උත්සව සමය අවසන් වනතුරු සෑම දිනකම අමතර බස්රථ 50ක් ධාවනයට එක් කර ඇති බවය.
+Several buses and train services have been added to the festive season.
 
-එමෙන්ම අවශ්‍ය වුවහොත් අතිරේක බස්රථ යෙදීම සඳහා සියලුම ඩිපෝ කළමනාකාරවරුන් දැනුවත් කර ඇති බවත් ඔහු පැවසීය.
+Accordingly, the Sri Lanka Transport Board (SLTB) has taken steps to implement a special bus service from tomorrow.
 
-තවද අධිවේගී මාර්ගයේ ධාවන වන බස්රථ ප්‍රමාණයද වැඩි කර ඇති බවත් නැවත ගම්බිම් බලා ගිය ජනතාවට කොළඹ පැමිණීම සඳහා අවසන් සතියේ සඳුඳා දින බස් සේවාවක් ක්‍රියාත්මක බවද ඔහු පැවසීය.
+The Deputy General Manager of the Punchuka Swarnahazanasha said that the festive season was operating every day.
 
-මේ අතර උත්සව සමය හේතුවෙන් විශේෂ දුම්රිය ගමන්වාර කිහිපයක් ද ධාවනයට එක් කර තිබේ.
+He also said that all depot managers have been informed to apply additional buses if necessary.
 
-දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්.ජේ ඉඳිපොලගේ මහතා පැවසුවේ 27 වැනි දින රාත්‍රී බදුල්ල දක්වා විශේෂ දුම්රියක් සහ කොළඹ කොටුව දක්වා විශේෂ දුම්රියක් යොදවා ඇති බවය.
+He added that the amount of running buses on the Expressway has also increased bus service to return to Colombo to visit Colombo.
 
-...
+Meanwhile, several special trains have also been added to several special trains.
+
+Deputy General Manager of the Railway Department (Transport) NJ Velage has been appointed as a special train and a special train from the Colombo Fort.
+
+A special train has been deployed to Badulla on the 28th of December and the 29th night.
+
+In addition, steps have been taken to operate additional compartments to Jaffna and operating the extra components to Yal Devi train.
+
+◼️
 
 [Data](articles/82824e4a.json)
+
+[Extended Data](ext_articles/82824e4a.ext.json)
 
 ---
 
@@ -98,27 +118,33 @@ Yesterday's Kerol concert was visited by Finance and Planning Deputy Minister Dr
 
 ---
 
-### ගුවන් අනතුරකින් එකම පවුලේ 10දෙනෙකු ජීවිතක්ෂයට
+### 10 people killed in a plane crash
 
 *2024-12-23 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204639) · `si`
 
-පෞද්ගලික ගුවන් යානයක් කඩා වැටීමෙන් බ්‍රසීලයේ එකම පවුලේ 10දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Plane crash kills 10 in Brazil. Pilot Luiz Clauzzi, his family, and others died when aircraft collapsed. Seven injured, two critical. Investigation ongoing due to bad weather conditions.
 
-ගුවන් යානයේ නියමුවා සෙල කටයුතු කර ඇත්තේ 61 හැවිරිදි Luiz Claudio Galeazzi නම් බ්‍රසීලයේ ව්‍යාපාරිකයෙකු බව විදෙස් මාධ්‍ය පවසයි.
+🟩
 
-මෙම අනතුරින් එම පුද්ගලයා මෙන්ම ඔහුගේ බිරිඳ, දියණියන් තිදෙනා සහ තවත් පවුලේ සාමාජිකයන් කිහිපදෙනෙකු මියගොස් ඇති බව ඔහුගේ සමාගම විසින්  ප්‍රකාශයක් නිකුත් කරමින් සනාථ කර තිබේ.
+10 people in Brazil have died after a private aircraft collapsed.
 
-එම පිරිස ගමන් ගත් කුඩා ගුවන් යානය කඩා වැටී ඇත්තේ ගොඩනැගිල්ලි කිහිපයක් මතට බව විදෙස් මාධ්‍ය පවසයි.
+The aircraft pilot was a 61-year-old LUIZ CLAUZZI, a 61-year-old Luza Galeazzi.
 
-අනතුරින් බිම සිටි පුද්ගලයින් 17 දෙනෙකු ද තුවාල ලබා ඇති අතර තවත් දෙදෙනෙකුගේ තත්ත්වය බරපතළ බව සඳහන් වේ.
+His company has confirmed that the man and his wife, three daughters and several other family members were killed in the accident.
 
-මෙම බ්‍රසීල ව්‍යාපාරිකයා සිය පවුලේ සමාජිකයින් සමග සංචාරයක් සඳහා ගමන් කරමින් සිටියදී මෙම අනතුරට මුහුණ දී ඇත.
+The small plane, which was traveling, had collapsed on several buildings, says foreign media media.
 
-අනතුර සම්බන්ධයෙන් විමර්ශනයක් සිදුකරන නමුත් අයහපත් කාලගුණික තත්ත්වයන් යටතේ යානය ගුවන්ගත කර ඇති බව හෙළි වී ඇති බව සඳහන් වේ.
+Seven persons were also injured and two others were in critical condition.
+
+The Brazilian businessman was on the occasion while traveling with his family members.
+
+It is said that it is revealed that an investigation is conducted in the accident, but it is revealed that the aircraft has been favored under bad weather conditions.
 
 ◼️
 
 [Data](articles/7156ad00.json)
+
+[Extended Data](ext_articles/7156ad00.ext.json)
 
 ---
 
@@ -645,6 +671,22 @@ Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/
 [Data](articles/258cb363.json)
 
 [Extended Data](ext_articles/258cb363.ext.json)
+
+---
+
+### මාලිමාවේ සංගමයක සාමාජිකත්වය ගත් පිරිසකට ලංකා කම්කරු කොංග්‍රසයේ සාමාජිකයා පහරදීලා
+
+*2024-12-23 11:16:50* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-සංගමයක-සාමාජිකත්වය-ගත්-පිරිසකට-ලංකා-කම්කරු-කොංග්‍රසයේ-සාමාජිකයා-පහරදීලා/11-413790) · `si`
+
+ජාතික ජන බලවේගයට අනුබද්ධ සමස්ත ලංකා වතු කම්කරු සංගමයේ සමාජිකත්වය ලබාගත් එකම පවුලේ තිදෙනෙකුට ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවෙකු පහර දුන්නේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ලද පැමිණිල්ලක් මත එම ආධාරකරුවා (22) දින අත්අඩංගුවට ගත් බව නොර්වුඩ් පොලිසියේ ස්ථානාධිපති පොලිස් පරික්ෂක රාජනායක පැවසිය.
+
+නොර්වුඩ් පොලිස් වසමට අයත් නිව්ටන් වතුයායේ පදිංචි ලංකා කම්කරු කොන්ග්‍රසයේ හිටපු ආධාරකරුවෙකු ඔහුගේ බිරිද සහ දෙළොස් හැවිරිදි පිරිමි දරුවාට සැකකරු විසින් (22) දින පස්වරුවේ පහර දි තුවාල සිදු කර ඇති බවයි ස්ථානාධිපතිවරයා කියා සිටියේ.
+
+පහර කැමෙන් තුවාල ලැබු තිදෙනා දික්ඔය මුලික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබයි.
+
+...
+
+[Data](articles/c4844e0b.json)
 
 ---
 
@@ -2111,23 +2153,5 @@ Former President Ranil Wickremesinghe does not retire from politics. He may act 
 [Data](articles/832c1098.json)
 
 [Extended Data](ext_articles/832c1098.ext.json)
-
----
-
-### Chinese Navy hospital ship ‘Peace Ark’ in Sri Lanka on harmony mission
-
-*2024-12-23 02:45:29* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Navy-hospital-ship-Peace-Ark-in-Sri-Lanka-on-harmony-mission/56-770911) · `en`
-
-The Chinese Navy hospital ship ‘Peace Ark,’ currently on Mission Harmony 2024, arrived at the Port of Colombo on Saturday. The ship will offer medical examinations and treatment services to the people of Sri Lanka until 27 December.
-
-‘Peace Ark’ is a 178m long hospital ship, crewed by 310 personnel under the command of Captain Deng Qiang.
-
-In addition crew members of the ship will explore some of the tourist attractions of the country, during their stay in Colombo. They will also take part in certain programs organised by the Sri Lanka Navy, with a view to further enhance camaraderie between both navies, the statement said.
-
-Additionally, Sri Lanka Navy personnel as well as officer under trainees from the Naval and Maritime Academy and Kotelawala Defence University will have the opportunity to participate in briefings on the operational functions of the ships as well.
-
-◼️
-
-[Data](articles/7a48dd5e.json)
 
 ---

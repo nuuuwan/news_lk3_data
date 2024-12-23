@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 11:44:04**
+As of **2024-12-23 12:03:31**
 
 ## Newspaper Stats
 
-*Scraped **61,593** Articles*
+*Scraped **61,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,869
 adaderanalk | 7,518
-tamilmirrorlk | 8,812
+tamilmirrorlk | 8,815
 virakesarilk | 10,178
 adaderanasinhalalk | 10,636
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 10,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,333 (99.6%) of 61,593 articles have been extended.
+61,333 (99.6%) of 61,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### விசாரணைகள் ஆரம்பம்
+
+*2024-12-23 11:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகள்-ஆரம்பம்/175-349146) · `ta`
+
+மீகொடபொலிஸ் பிரிவிற்குட்பட்ட நாஹாவத்தை பகுதியில் காரில் பயணித்த ஒருவர் மீது மேற்கொள்ளப்பட்ட துப்பாக்கி ​பிரயோகத்தினால் உயிரிழந்தவரின் சம்பவம் தொடர்பாக மீகொடபொலிஸார் மற்றும் மேல் மாகாண தெற்கு குற்றப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/4fac40a9.json)
+
+---
+
+### நாடளாவிய ரீதியில் சிறப்பு பாதுகாப்பு நடவடிக்கைகள்
+
+*2024-12-23 11:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-சிறப்பு-பாதுகாப்பு-நடவடிக்கைகள்/175-349145) · `ta`
+
+நத்தார் ஆராதனைகளை முன்னிட்டு நாடு முழுவதும் உள்ள அனைத்து தேவாலயங்களிலும் பொலிஸ் மற்றும் முப்படையினரால் சிறப்பு பாதுகாப்பு நடவடிக்கைகள் மேற்கொள்ளப்படும்.
+
+நத்தார் மற்றும் பண்டிகை காலத்தை முன்னிட்டு நாடு முழுவதும் விரிவான பாதுகாப்பு திட்டம் செயல்படுத்தப்படும் என்றும், பொதுமக்களின் பாதுகாப்பை உறுதி செய்வதற்காக பொலிஸ் மற்றும் எஸ்டிஎஃப் நியமிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க, பாதுகாப்பு தொடர்பில் தேவையான ஏற்பாடுகளை மேற்கொள்ளுமாறு அனைத்து சிரேஷ்ட அதிகாரிகள் மற்றும் OIC களுக்கு பதில் பொலிஸ்மா அதிபர் பணிப்புரை விடுத்துள்ளார்.
+
+பாதுகாப்பு மற்றும் ஒழுங்கைப் பேணுவதற்காக மேல் மாகாணத்தில் மாத்திரம் 6,500 இற்கும் அதிகமான உத்தியோகத்தர்கள் கடமையில் ஈடுபடுத்தப்பட்டுள்ளதாக சிரேஷ்ட பொலிஸ் அத்தியட்சகர் மனதுங்க தெரிவித்தார்.
+
+நாடு முழுவதும் உள்ள 2000க்கும் மேற்பட்ட தேவாலயங்களில் நத்தார் தினத்தன்று ஆராதனைகள் நடத்த திட்டமிடப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/111c0e91.json)
+
+---
+
+### தவணை விடுமுறை அறிவிப்பு
+
+*2024-12-23 11:36:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-விடுமுறை-அறிவிப்பு/175-349144) · `ta`
+
+“2024ம் ஆண்டிற்கான அரச பாடசாலைகள் மற்றும் அரச அனுமதி பெற்ற தனியார் பாடசாலைகளுக்கான மூன்றாம் தவணையின் இரண்டாம் கட்டம் 2025.01.02ம் திகதி வியாழக் கிழமை ஆரம்பமாகும் என்பதுடன், அனைத்து பாடசாலைகளின்  மூன்றாம் தவணை 2025.01.24 ம் திகதியன்று நிறைவடையும்” என்று கல்வியமைச்சு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/978a770b.json)
+
+---
 
 ### Sri Lanka ASPI hits 15,000 mark
 
@@ -2085,79 +2129,5 @@ General Secretary Murukesu Paranitharan, Vice President Sasikumar, District Coor
 [Data](articles/29114f08.json)
 
 [Extended Data](ext_articles/29114f08.ext.json)
-
----
-
-### Mother and daughter dead after being hit by train in Anuradhapura
-
-*2024-12-22 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104424/mother-and-daughter-dead-after-being-hit-by-train-in-anuradhapura-) · `en`
-
-A mother and her daughter have lost their lives while attempting to take a selfie on the tracks near the Anuradhapura railway station this afternoon (22).
-
-The incident occurred as they were struck by an express train traveling from Kankasanthurai to Colombo.
-
-The victims, a 38-year-old mother and her 18-year-old daughter, had traveled from Ratnapura to Anuradhapura to attend a Taekwondo tournament at the Anuradhapura Public Stadium. The pair had gone to the railway tracks near the station, where the fatal accident took place.
-
-According to police reports, the family was attempting to capture a selfie when the train hit them, killing the mother and daughter instantly. A younger child who was with them at the time also sustained injuries and is currently receiving medical treatment, the police said.
-
-◼️
-
-[Data](articles/374fbf7a.json)
-
-[Extended Data](ext_articles/374fbf7a.ext.json)
-
----
-
-### Transfers to 3 police officers to arrest Kasun Mahendra
-
-*2024-12-22 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204617) · `si`
-
-Kasun Mahendra arrested by 3 police officers. Transferred to Mirihana Police. OIC and 2 constables involved. Son-in-law of Jackson Anthony. Action taken on orders from South District Police HQ.
-
-🟩
-
-Writer Kasun Mahendigala has temporarily transferred to the Mirihana Police.
-
-Police Media Spokesperson SSP lawyer, Buddhika Manatunga, said that the OIC and two police constables were temporarily killed.
-
-Writer Kasun Mahendra Genini, son-in-law of the late Jackson Anthony, has taken place on the instructions of the South District in charge of the concession compromised at the Police Headquarters.
-
-◼️
-
-[Data](articles/b81210e6.json)
-
-[Extended Data](ext_articles/b81210e6.ext.json)
-
----
-
-### India is the champion in the 19th women's R20s of Asian Bowl Cricket
-
-*2024-12-22 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201909) · `ta`
-
-India wins 19th women's R20s Asian Bowl Cricket championship. Defeats Bangladesh in final by 41 runs. Trisha and Nikki Prasad share 41-run partnership. Ayushi Shukla takes 3 wickets. Konkadi Trisha named Player of the Match and Series.
-
-🟩
-
-India won the Champion title in the under -19 women's R20 Asian Cup in Kuala Lumpur, Malaysia.
-
-India, Pakistan and Nepal clash in a group of Sri Lanka, Bangladesh and Malaysia. At the end of the first round, the first two teams in one group were opposed to the second round of the other team.
-
-At the end of the second round, the top two teams were eligible to play in the final.
-
-Sri Lanka lost to India in the second round. The rivalry with Nepal was abandoned due to rain and Sri Lanka left.
-
-India won the Champion title by 41 runs in the final against the 19 -year -old Bangladesh team held at the Kuala Lumpur Bayumas Cricket Oval Stadium on Sunday (22).
-
-In the final, the Indian women's team, under the age of 19, scored 117 runs for the loss of 7 wickets in 20 overs.
-
-Trisha and team captain Nikki Prasad shared 41 runs in the 3rd wicket.
-
-Nikki Prasad scored 12 runs, Vinod Mithila 17 runs and Ayushi Shukla scored 10 runs.
-
-...
-
-[Data](articles/76a4b108.json)
-
-[Extended Data](ext_articles/76a4b108.ext.json)
 
 ---

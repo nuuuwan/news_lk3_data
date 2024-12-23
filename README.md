@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 20:27:10**
+As of **2024-12-23 20:43:15**
 
 ## Newspaper Stats
 
-*Scraped **61,672** Articles*
+*Scraped **61,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,883
-adaderanalk | 7,533
+adaderanalk | 7,534
 tamilmirrorlk | 8,829
 virakesarilk | 10,191
-adaderanasinhalalk | 10,653
+adaderanasinhalalk | 10,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,377 (99.5%) of 61,672 articles have been extended.
+61,378 (99.5%) of 61,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### නියෝජ්‍ය ඇමති පොලීසියෙන් කළ ඉල්ලීම
+
+*2024-12-23 19:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204651) · `si`
+
+මත්ද්‍රව්‍ය මැඩලීමට වත්මන් ආණ්ඩුවෙන් පොලීසියට පූර්ණ නිදහස ලබාදී ඇති බව මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු නියෝජ්‍ය අමාත්‍ය නීතිඥ සුනිල් වටගල මහතා පවසයි.
+
+පිටකොටුව පාවෙන වෙළෙඳ සංකීර්ණය මත්ද්‍රව්‍ය තිප්පොළක් බවට පත්ව ඇතැයි ලද තොරතුරු පිළිබඳ හෙළි කරමින් නියෝජ්‍ය අමාත්‍යවරයා මේ බව කියා සිටියේය.
+
+පිටකොටුව පාවෙන වෙළෙඳ සංකීර්ණය 2014 වසරේදි ඉදිකෙරුණේ රුපියල් මිලියන 352 ක් වැය කරමිනි.
+
+මේ වනවිට එහි ලෑලි දිරාපත්වීම, විදුලි ආලෝක පද්ධතිය නිසි පරිදි ක්‍රියාක්මත නොවීම, අපිරිසිදු වටපිටාව, දුර්ගන්ධය හා නීතිවිරෝධී කටයුතු සිදුවීම හේතුවෙන් ගෙවුණු කාලය පුරා එහි තිබු වෙළෙඳසැල් 92න් 80%ක ප්‍රමාණයක් වැසි ගොස් තිබේ.
+
+අදාළ ගැටලුව සම්බන්ධයෙන් මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු නියෝජ්‍ය අමාත්‍ය නීතිඥ සුනිල් වටගල මහතාගේ ප්‍රධානත්වයෙන් කොළඹ වේල්ල වීදිය ප්‍රාදේශීය ලේකම් කාර්යාලයේදී පැවති ප්‍රාදේශීය කමිටු රැස්වීමකදී අද ප්‍රශ්න කෙරුණි.
+
+එහිදී අදහස් දැක්වූ මහජන ආරක්ෂක සහ පාර්ලිමේන්තු කටයුතු නියෝජ්‍ය අමාත්‍ය නීතිඥ සුනිල් වටගල මහතා,
+
+...
+
+[Data](articles/5f7adf3c.json)
+
+---
 
 ### Minister protest against the latest circular
 
@@ -81,6 +103,48 @@ The Colombo-Japanam train will operate for seven days and add additional boxes t
 [Data](articles/ffe891de.json)
 
 [Extended Data](ext_articles/ffe891de.ext.json)
+
+---
+
+### Sri Lanka-based investment scammers target Japanese: Report
+
+*2024-12-23 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104452/sri-lanka-based-investment-scammers-target-japanese-report) · `en`
+
+An organization in Sri Lanka posing as an IT company is recruiting locals who speak Japanese to target Japanese nationals with investment scams, a local who briefly worked there has told Kyodo News.
+
+While the extent of the damage caused by the phone scammers is unknown, the former worker said in an interview last month that he heard that some victims had transferred as much as 30 million yen ($192,000) to the organization’s account from Japan.
+
+There have been a series of phone and online fraud committed by Japanese scammers based in Southeast Asian countries, but cases in South Asia involving locals hired to victimize people in Japan appear to be rare.
+
+The Sri Lankan man, who is fluent in Japanese after having worked in Japan, said the organization in Colombo, the capital, appeared to involve more than 100 workers, though apparently without any Japanese among them.
+
+He quit the job as he was hesitant to be engaged in defrauding people in the country he feels gratitude toward for his stay.
+
+...
+
+[Data](articles/c091e53d.json)
+
+---
+
+### ලුණු ආනයනයට ටෙන්ඩර් කැඳවයි
+
+*2024-12-23 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204650) · `si`
+
+ලුණු ආනයනය කිරීමට අදාළව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව විසින් ජාත්‍යන්තර ටෙන්ඩර් කැඳවා තිබේ.
+
+රට තුළ පැවති අයහපත් කාලගුණ තත්ත්වයත් සමග 2025 වසරේ පළමු කාර්තුවේ දී ලුණු හිඟයක් ඇතිවිය හැකි බවට නිරීක්ෂණයවීම හේතුවෙන් අමු අයඩීකරණය නොකළ ලුණු මෙට්‍රික් ටොන් 30,000ක් ආනයනය කිරීමට පසුගිය සතියේ අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවුණි.
+
+2025 වසරේ ජනවාරි මස 31 වනදා ට පෙර ශ්‍රී ලංකා රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව මගින් එම ලුණු ආනයනය කර දේශීය ලුණු නිෂ්පාදකයින් මගින් වෙළෙඳපොළට සැපයීම සඳහා එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය ලබාදෙනු ලැබීය.
+
+ඒ අනුව ලුණු ආනයනය කිරීම සඳහා සුදුසුකම්ලත් ජාත්‍යන්තර සැපයුම්කරුවන්ගෙන් ටෙන්ඩර් කැඳවීමට රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+
+ටෙන්ඩර් කැඳවීම පසුගිය 21 වනදා ආරම්භ කර ඇති අතර ජනවාරි මස 02 වැනිදා දක්වා ඒ සඳහා කාලය ලබා දී ඇති බව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පවසයි.
+
+ලුණු ඍජුව ආනයනය කිරීම සඳහා දේශීය නිෂ්පාදකයින් විසින් අවසර ඉල්ලා තිබුණ ද එම කටයුතු රජයේ පාර්ශවයෙන් සිදුකිරීමට වෙළෙඳ අමාත්‍යංශය තීරණය කර ඇත.
+
+...
+
+[Data](articles/3805e584.json)
 
 ---
 
@@ -283,6 +347,8 @@ Accordingly, the PUCSL called for public opinions on the matter in writing start
 ...
 
 [Data](articles/71741f68.json)
+
+[Extended Data](ext_articles/71741f68.ext.json)
 
 ---
 
@@ -2095,71 +2161,5 @@ Investigations revealed that the wire was broken while the student was leaning o
 ...
 
 [Data](articles/970650bd.json)
-
----
-
-### Foreigners buy Sri Lanka govt securities last week after outflow
-
-*2024-12-23 09:32:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lanka-govt-securities-last-week-after-outflow-195879/) · `en`
-
-ECONOMYNEXT – Foreigners investors bought Sri Lanka government securities in the week ended on December 19, after selling in the previous week, the Central Bank data showed.
-
-The island nation saw foreign outflow from the government securities for the first time in 13 weeks in the week ended on December 12. However, the offshore investors bought Sri Lanka papers last week.
-
-Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
-
-The last week’s inflow came after the island nation’s conclusion of commercial and International Sovereign Bond (ISB) debt restructuring.
-
-Sri Lanka saw 506 million rupees ($1.7 million at 1 US dollar = 290 LKR) inflow into government securities in the week ended on December 19. The government has seem total inflows of 27.2 billion rupees ($93.8 mln) into treasury bonds and bills in the 14 weeks through December 19, the official data showed.
-
-...
-
-[Data](articles/6a27d5cc.json)
-
----
-
-### Sri Lanka rupee opens weaker at 293.75/294.75 to US dollar, bonds down
-
-*2024-12-23 09:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-75-294-75-to-us-dollar-bonds-down-195875/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.75/294.75 to the US dollar in the spot market, from 293.50/294.00 on Friday, while bond yields were down, dealers said.
-
-A bond maturing on 15.09.2027 was quoted at 9.55/75 percent, down from 9.70/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.00/05 percent, down from 10.05/20 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.65/75 percent.
-
-The central bank announced there would be an auction of 120,000 million rupees of treasury bills on Tuesday.
-
-In equities, the All Share Price Index was up 0.52 percent or 77.20 points, at 14,887.
-
-The more liquid S&P SL20 was up 0.76 percent, or 33.65 points, at 4,454.
-
-◼️
-
-[Data](articles/d3595406.json)
-
----
-
-### Tri-Forces security for ex-presidents to be withdrawn from today
-
-*2024-12-23 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104432/tri-forces-security-for-ex-presidents-to-be-withdrawn-from-today) · `en`
-
-It has been decided to officially withdraw the tri-forces personnel assigned to the security of former presidents, effective from today (23).
-
-Speaking during a parliamentary session last week, Minister of Public Security Ananda Wijepala explained the decision to withdraw the tri-forces personnel deployed to secure former presidents.
-
-Accordingly, from today onwards, only police officers will provide security for former presidents.
-
-The number of police officers assigned to provide security for former presidents has also been reduced. However, the government has stated that an adequate number of officers will remain in place to ensure the safety of former presidents.
-
-Furthermore, the government emphasized that the security arrangements for former presidents will be reviewed every six months, and additional measures will be implemented as necessary.
-
-Despite the withdrawal of tri-forces personnel, the Ministry of Defense assured that the safety and security of former presidents will be assured.
-
-...
-
-[Data](articles/d781b859.json)
 
 ---

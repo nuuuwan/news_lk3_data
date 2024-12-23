@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 13:12:54**
+As of **2024-12-23 13:27:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,639
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,342 (99.6%) of 61,612 articles have been extended.
+61,344 (99.6%) of 61,612 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,31 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/cb05bceb.json)
 
+[Extended Data](ext_articles/cb05bceb.ext.json)
+
 ---
 
-### கலாநிதி ஆயிஷா விக்கிரமசிங்க தலைவராக நியமனம்
+### Dr. Aisha Wickremesinghe appointed Chairman
 
 *2024-12-23 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-ஆயிஷா-விக்கிரமசிங்க-தலைவராக-நியமனம்/175-349148) · `ta`
 
-தேசிய கைவினைப் பேரவையின் தலைவராக வடிவமைப்பு மற்றும் தயாரிப்பு மேம்பாட்டில் நிபுணரான கலாநிதி ஆயிஷா விக்கிரமசிங்க நியமிக்கப்பட்டுள்ளார்.
+Dr. Aisha Wickremesinghe named Chairman of National Craft Council. Expert in fashion design & product dev. Appointed to promote local crafts. Holds degrees from UK & SL universities.
 
-கைத்தொழில் மற்றும் தொழில் முனைவோர் மேம்பாட்டு அமைச்சகத்தின் கீழ் இயங்கும் தேசிய கைவினைக் கவுன்சில், உள்ளூர் கைவினைத் துறையை மேம்படுத்துவதிலும் மேம்படுத்துவதிலும் முக்கியப் பங்காற்றுகிறது.
+🟩
 
-கலாநிதி விக்கிரமசிங்க மொரட்டுவ பல்கலைக்கழகத்தில் சிரேஷ்ட விரிவுரையாளராக 2006 ஆம் ஆண்டு முதல் பெஷன் டிசைன் மற்றும் தயாரிப்பு மேம்பாட்டில் நிபுணத்துவம் பெற்றுள்ளார். இலங்கை, ஐக்கிய இராச்சியம் மற்றும் அமெரிக்காவிலிருந்து விளம்பரம் மற்றும் வடிவமைப்பில் விரிவான தொழில்முறை அனுபவத்தையும் கொண்டுள்ளார்.
+Dr. Aisha Wickremesinghe has been appointed as the Chairman of the National Craft Council on design and product development.
 
-காலி சவுத்லண்ட்ஸ் கல்லூரியின் பழைய மாணவரான கலாநிதி விக்கிரமசிங்க மொரட்டுவ பல்கலைக்கழகத்தில் ஆடை வடிவமைப்பு மற்றும் தயாரிப்பு மேம்பாடு ஆகியவற்றில் முதல் தரத்தில் பட்டம் பெற்றார். அவர் லண்டனில் உள்ள கலைப் பல்கலைக்கழகத்தில் முதுகலைப் பட்டமும், இலங்கையின் காட்சி மற்றும் நிகழ்த்துக் கலைப் பல்கலைக்கழகத்தில் முனைவர் பட்டமும் பெற்றுள்ளார்.
+The National Craft Council, which is under the Ministry of Industry and Entrepreneurship Development, plays an important role in improvement and promoting the local crafts.
+
+Dr. Wickremesinghe has been a senior lecturer at the University of Moratuwa since 2006 to specialize in Fashion Design and Product Development. He has a comprehensive professional experience in advertising and design from Sri Lanka, the United Kingdom and the United States.
+
+Dr. Wickremesinghe, an alumnus of Galle Southlands College. He holds a Masters Degree from the University of Arts in London and a doctorate at the University of Arts in Sri Lanka.
 
 ◼️
 
 [Data](articles/41325aa7.json)
+
+[Extended Data](ext_articles/41325aa7.ext.json)
 
 ---
 
@@ -1042,13 +1050,13 @@ However, political sources said that others have commented on it.
 
 ---
 
-### Sri Lanka customs earn Rs4.3bn from rice imports, showing tax arbitrage: analysis
+### Billions earned from Sri Lanka rice imports in 20 days, reveals extent of tax arbitrage: analysis
 
 *2024-12-23 08:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-earn-rs4-3bn-from-rice-imports-showing-tax-arbitrage-analysis-195830/) · `en`
 
-ECONOMYNEXT  – Sri Lanka has earned 4.3 billion rupees in taxes from imports of 67,000 metric tonnes of rice, reports said, indicating the extent the consumer is taxed to grow expensive rice in the country.
+ECONOMYNEXT  – Sri Lanka has earned 4.3 billion rupees in taxes from imports of 67,000 metric tonnes of rice, reports said, indicating the extent the consumer is effectively taxed to grow expensive rice in the country.
 
-Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tone) to keep the basic staple of the country about 50 percent higher than the rest of the world.
+Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tonne) to keep the basic staple of the country about 50 percent higher than the rest of the world.
 
 The ‘tax’ paid by the consumer in the process of filling their stomachs, is ‘arbitraged’ by the paddy producing and marketing lobby.
 

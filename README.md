@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 05:12:21**
+As of **2024-12-24 05:27:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,413 (99.5%) of 61,708 articles have been extended.
+61,415 (99.5%) of 61,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,19 +178,29 @@ The six-month course was a joint effort between USAID’s “Empowering Civil So
 
 ---
 
-### ஜனாதிபதி அலுவலகத்தில் நத்தார் கெரோல் இசை
+### Nathar Kerol Music in the Presidential Office
 
 *2024-12-24 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-நத்தார்-கெரோல்-இசை/175-349187) · `ta`
 
-ஜனாதிபதி அலுவலகம், முப்படையினர், பொலிஸார் இணைந்து வருடாந்தம் நடத்தும் நத்தார் விசேட கரோல் இசை நிகழ்ச்சி, தொழில் அமைச்சரும், பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான அனில் ஜயந்த பெர்னாண்டோ தலைமையில் நேற்று முன்தினம் ஆரம்பமானது.
+Here's a summary of the text in approximately 200 characters:
 
-நத்தார் கெரோல் இசை நிகழ்ச்சியை முன்னிட்டு ஜனாதிபதி அலுவலக வளாகம் மற்றும் அதனைச் சூழவுள்ள பகுதிகள் மின்னொளியால் அலங்கரிக்கப்பட்டிருந்ததோடு இலங்கை இராணுவத்தின் பாடல் குழு மற்றும் இசைக்குழுவினரால் நத்தார் கெரோல் கச்சேரி நிகழ்த்தப்பட்டது.
 
-இந்த கிறிஸ்மஸ் கெரோல் இசை நிகழ்ச்சி நாளை 25 ஆம் திகதி வரை தினமும் இரவு 7.00 மணி முதல் ஜனாதிபதி செயலக வளாகத்தில் நடைபெறவுள்ளது. (a)
+
+"Annual Special Carol concert begins at President's Office. Decorated with Nathar Kerol lighting. Sri Lanka Army performs. Continues tomorrow at Presidential Secretariat Complex."
+
+🟩
+
+The President's Office, Armed Forces and the Police, the Annual Special Carol concert, started yesterday under the patronage of Anil Jayantha Fernando, Minister of Labor and Economic Development.
+
+The President's Office Complex and the surrounding areas were decorated with the lighting of the Nathar Kerol concert and the Nathar Kerole concert was performed by the Sri Lanka Army's lyrics and band.
+
+The Christmas Kerole concert will be held tomorrow at the Presidential Secretariat Complex from 7.00 pm till the 25th.. (A)
 
 ◼️
 
 [Data](articles/64991007.json)
+
+[Extended Data](ext_articles/64991007.ext.json)
 
 ---
 
@@ -383,6 +393,8 @@ Among those reprieved by Biden are nine people convicted of murdering fellow pri
 ...
 
 [Data](articles/b7889138.json)
+
+[Extended Data](ext_articles/b7889138.ext.json)
 
 ---
 

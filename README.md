@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 12:03:31**
+As of **2024-12-23 12:17:52**
 
 ## Newspaper Stats
 
-*Scraped **61,596** Articles*
+*Scraped **61,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,728
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,869
+adalk | 5,870
 adaderanalk | 7,518
 tamilmirrorlk | 8,815
 virakesarilk | 10,178
@@ -26,41 +26,57 @@ adaderanasinhalalk | 10,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,333 (99.6%) of 61,596 articles have been extended.
+61,335 (99.6%) of 61,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### விசாரணைகள் ஆரம்பம்
+### The beginning of the hearing
 
 *2024-12-23 11:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகள்-ஆரம்பம்/175-349146) · `ta`
 
-மீகொடபொலிஸ் பிரிவிற்குட்பட்ட நாஹாவத்தை பகுதியில் காரில் பயணித்த ஒருவர் மீது மேற்கொள்ளப்பட்ட துப்பாக்கி ​பிரயோகத்தினால் உயிரிழந்தவரின் சம்பவம் தொடர்பாக மீகொடபொலிஸார் மற்றும் மேல் மாகாண தெற்கு குற்றப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Megodapoisar: Western Province Southern Criminal Investigation unit investigating shooting incident in Nahawatte area, Megodapolis division.
+
+🟩
+
+Meegodapoisar and Western Province Southern Criminal Investigation (Southern Province Southern Crime Unit has begun investigations into the incident of the victim of the shooting on a car passenger in the Nahawatte area under the Megodapolis division.
 
 ◼️
 
 [Data](articles/4fac40a9.json)
 
+[Extended Data](ext_articles/4fac40a9.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் சிறப்பு பாதுகாப்பு நடவடிக்கைகள்
+### Special security measures across the country
 
 *2024-12-23 11:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-சிறப்பு-பாதுகாப்பு-நடவடிக்கைகள்/175-349145) · `ta`
 
-நத்தார் ஆராதனைகளை முன்னிட்டு நாடு முழுவதும் உள்ள அனைத்து தேவாலயங்களிலும் பொலிஸ் மற்றும் முப்படையினரால் சிறப்பு பாதுகாப்பு நடவடிக்கைகள் மேற்கொள்ளப்படும்.
+Security measures: Police, armed forces protect churches nationwide. 6,500 officers deployed in Western Province. 2,000 churches secured. Civil committees established. Special Task Force involved. Military assistance if needed. Traffic monitoring during festivals.
 
-நத்தார் மற்றும் பண்டிகை காலத்தை முன்னிட்டு நாடு முழுவதும் விரிவான பாதுகாப்பு திட்டம் செயல்படுத்தப்படும் என்றும், பொதுமக்களின் பாதுகாப்பை உறுதி செய்வதற்காக பொலிஸ் மற்றும் எஸ்டிஎஃப் நியமிக்கப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க, பாதுகாப்பு தொடர்பில் தேவையான ஏற்பாடுகளை மேற்கொள்ளுமாறு அனைத்து சிரேஷ்ட அதிகாரிகள் மற்றும் OIC களுக்கு பதில் பொலிஸ்மா அதிபர் பணிப்புரை விடுத்துள்ளார்.
+Special security measures will be taken by the police and the armed forces in all churches across the country to mark the rituals.
 
-பாதுகாப்பு மற்றும் ஒழுங்கைப் பேணுவதற்காக மேல் மாகாணத்தில் மாத்திரம் 6,500 இற்கும் அதிகமான உத்தியோகத்தர்கள் கடமையில் ஈடுபடுத்தப்பட்டுள்ளதாக சிரேஷ்ட பொலிஸ் அத்தியட்சகர் மனதுங்க தெரிவித்தார்.
+Police said that a comprehensive security program would be implemented across the country ahead of the Nathar and festive season and the police and SDF had been appointed to ensure the safety of the public.
 
-நாடு முழுவதும் உள்ள 2000க்கும் மேற்பட்ட தேவாலயங்களில் நத்தார் தினத்தன்று ஆராதனைகள் நடத்த திட்டமிடப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Police Media Spokesperson Senior Superintendent of Police Buddhika Manathanga has issued a directive to the Inspector General of Police in response to all senior officers and OICs to make necessary arrangements for security.
+
+Senior Superintendent of Police Manadunga said that more than 6,500 officers in the Western Province have been deployed in the Western Province to maintain security and order.
+
+It is reported that more than 2000 churches across the country are scheduled to be held on the day of the day.
 
 ...
 
 [Data](articles/111c0e91.json)
+
+[Extended Data](ext_articles/111c0e91.ext.json)
 
 ---
 
@@ -95,6 +111,20 @@ Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/
 [Data](articles/258cb363.json)
 
 [Extended Data](ext_articles/258cb363.ext.json)
+
+---
+
+### අනවසර විදුලි රැහැන් නිසා වන අලි 50ක් මැරිලා
+
+*2024-12-23 11:08:11* · [`adalk`](https://www.ada.lk/breaking_news/අනවසර-විදුලි-රැහැන්-නිසා-වන-අලි-50ක්-මැරිලා/11-413789) · `si`
+
+ලංවිම විදුලි පද්ධතියෙන් අනවසර ලබාගත් විදුලිය අනවසර විදුලි වැටවලට සම්බන්ධ කිරිම හරහා මේ වසරේදි පමණක් වන අලි 50ක් පමණ ජිවිතක්ෂයට පත්ව ඇති බව ලංකා විදුලි බල මණ්ඩලය නිවේදනය කරයි.
+
+මෙම නීතිවිරෝධි ක්‍රියා සම්බන්ධයෙන් ලංවිම දැනටමත් ක්‍රියාමාර්ග ගෙන අති බවත් තවදුරටත් එවැනි අනීතික ක්‍රියාවන් සිදු කරයි නම් ලංවිම 1987 දරණ ක්ෂණික අංකය හෝ 011 -2118767 අංකය අමතා විස්තර ලබාදෙන ලෙස විදුලි බල මණ්ඩලය පවසයි.
+
+◼️
+
+[Data](articles/514f248c.json)
 
 ---
 
@@ -2107,27 +2137,5 @@ Had made a request to the Prime Minister. There was no problem if the president 
 [Data](articles/238fab4e.json)
 
 [Extended Data](ext_articles/238fab4e.ext.json)
-
----
-
-### Bharat Arulzamy appointed as the new Vice President
-
-*2024-12-22 19:26:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-துணைத்-தலைவராக-பரத்-அருள்சாமி-நியமனம்/175-349102) · `ta`
-
-Bharat Arulzamy named VP by Democratic People's Front. Decision made at Colombo meeting led by Mano Ganesan. Party leaders and members attended.
-
-🟩
-
-The Democratic People's Front, a prominent member of the Tamil Progressive Alliance and a prominent partner of the United People's Alliance, has appointed Bharat Arulzamy as the new vice president of the party.
-
-The decision was taken during a political committee meeting in Colombo chaired by party leader Mano Ganesan.
-
-General Secretary Murukesu Paranitharan, Vice President Sasikumar, District Coordinators and Senior Members of the party participated in the meeting at the meeting.
-
-◼️
-
-[Data](articles/29114f08.json)
-
-[Extended Data](ext_articles/29114f08.ext.json)
 
 ---

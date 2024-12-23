@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 15:13:15**
+As of **2024-12-23 15:27:23**
 
 ## Newspaper Stats
 
-*Scraped **61,629** Articles*
+*Scraped **61,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,874
+adalk | 5,875
 adaderanalk | 7,522
-tamilmirrorlk | 8,821
+tamilmirrorlk | 8,822
 virakesarilk | 10,186
 adaderanasinhalalk | 10,644
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,355 (99.6%) of 61,629 articles have been extended.
+61,356 (99.6%) of 61,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### CSE புதிய உச்சத்தை எட்டியது
+
+*2024-12-23 15:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/CSE-புதிய-உச்சத்தை-எட்டியது/47-349154) · `ta`
+
+கொழும்பு பங்குச் சந்தையின் (CSE) அனைத்து பங்கு விலைச் சுட்டெண் (ASPI) 15,000ஐத் தாண்டியது, இது, திங்கட்கிழமை (23) காலை  வர்த்தகத்தின் போது 15,027 என்ற சாதனையை எட்டியது.
+
+அதே நேரத்தில், மிகவும் செயலில் உள்ள பங்குகளைக் கண்காணிக்கும் S&P SL20 குறியீடும் அதிகரித்து, 4,494ஐ எட்டியது. வருவாய் 4 பில்லியன் ஆகும்.
+
+◼️
+
+[Data](articles/329b6369.json)
+
+---
+
+### නවසීලන්තයට එරෙහි ශ්‍රී ලංකා එක්දින සංචිතය නම් කරයි
+
+*2024-12-23 14:15:29* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-එක්දින-සංචිතය-නම්-කරයි/9-413794) · `si`
+
+නවසීලන්ත කණ්ඩායමට එරෙහිව ක්‍රීඩා කරනු ලබන ශ්‍රී ලංකා එක්දින සංචිතය නම් කර තිබේ.
+
+චරිත් අසලංකගේ නායකත්වයෙන් නම් කර ඇති මෙම කණ්ඩායමට ක්‍රීඩකයන් 16 දෙනෙකු ඇතුලත් කර තිබේ.
+
+එක්දින තරගාවලි ලබන 05 වැනිදා නවසීලන්තයේදී ආරම්භ වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/78675f43.json)
+
+---
 
 ### Cultivation Protection and Wildlife
 
@@ -311,6 +341,8 @@ However, services exports for the month of November 2024 were estimated at US$ 3
 ◼️
 
 [Data](articles/0d8c7acf.json)
+
+[Extended Data](ext_articles/0d8c7acf.ext.json)
 
 ---
 
@@ -2127,51 +2159,5 @@ Elpitiya Plantations Chief Sustainability Officer M.I. Izzadeen (third from left
 [Data](articles/a148813b.json)
 
 [Extended Data](ext_articles/a148813b.ext.json)
-
----
-
-### Ranjan Lanka partners China’s Zero Technologies to introduce Zero air conditioners in Sri Lanka
-
-*2024-12-23 02:46:19* · [`dailyftlk`](https://www.ft.lk/business/Ranjan-Lanka-partners-China-s-Zero-Technologies-to-introduce-Zero-air-conditioners-in-Sri-Lanka/34-770912) · `en`
-
-Ranjan Lanka Managing Director Ranjan Senanayake and Technician Mahesh Nanayakkara at launching ceremony
-
-Ranjan Lanka Ltd., has stepped into the air conditioning (AC) market with the introduction of the Zero brand ACs.
-
-Imported from Zero Technologies in China, these ACs are designed to cater to small offices, houses, and apartments. The Zero brand ACs are available in two ranges: non-inverter units with capacities from 9,000 to 12,000 British Thermal Units (BTU), and inverter units ranging from 12,000 to 18,000 BTU. These models are being introduced to the general market for the first time, with the initial launch held in Gampaha. The company plans to distribute the units island-wide from its warehouse in Gampaha and is also seeking dealers to expand their reach.
-
-...
-
-[Data](articles/23e7b960.json)
-
-[Extended Data](ext_articles/23e7b960.ext.json)
-
----
-
-### Ranil Wickremesinghe may act as the main person to challenge this government - Udaya Kammanpila
-
-*2024-12-23 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201917) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ranil Wickremesinghe may challenge current Sri Lankan government. Udaya Kammanpila claims world nations seeking Wickremesinghe's advice on recovery from bankruptcy. Wickremesinghe remains active in politics despite others retiring. His economic policies implemented by current president. Wickremesinghe led government during 2022 financial crisis, helping short-term recovery. Unlike other ex-presidents, Wickremesinghe enjoys better relations with Western nations.
-
-🟩
-
-Former President Ranil Wickremesinghe may act as the main person who challenges this government. Former parliamentarian Udaya Kammanpila said that the world's countries, which have become bankrupt over the short term in the short term, are consulting with Ranil Wickremesinghe.
-
-Does not completely retire from politics. We are involved in operating politics. Sri Lanka's Sri Lanka PA was defeated in 2024 with the support of the majority of the 2020s.. Similarly, the National People's Power, which received 3 seats on that day, has won 159 seats today so something can happen in politics.
-
-Former President Mahinda Rajapakse retires from politics. Parliamentarian Namal Rajapaksa has been paid attention to the leadership of the Sri Lanka PA.
-
-Former President Ranil Wickremesinghe does not retire from politics. He may act as the main person to challenge this government. This is because President Anurakumara Dissanayake is implementing his economic policies.
-
-...
-
-[Data](articles/832c1098.json)
-
-[Extended Data](ext_articles/832c1098.ext.json)
 
 ---

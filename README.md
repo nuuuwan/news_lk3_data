@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 21:01:55**
+As of **2024-12-23 21:13:27**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,379 (99.5%) of 61,678 articles have been extended.
+61,381 (99.5%) of 61,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### MOODY'S ශ්‍රී ලංකාව ණය ශ්‍රේණිගතකිරීම ඉහළ දමයි
+### Moody's Sri Lanka increases loan rating
 
 *2024-12-23 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204652) · `si`
 
-ලොව ප්‍රමුඛපෙළේ ණය  ශ්‍රේණිගත කිරීමේ ආයතනයක් වන MOODY'S ආයතනය ද මෙරට දිගුකාලීන විදේශ විනිමය ණය නිකුත් කිරීමට අදාළ ශ්‍රේණිගතකිරීම් ඉහළ නංවා තිබේ.
+Moody's Sri Lanka boosts loan rating from Ca to CAA1 with stable outlook. Long-term foreign borrowing grades also improved. This follows similar upgrades by Fitch Ratings.
 
-ඒ අනුව, ‘Ca’ සිට ‘Caa1’ දක්වා ස්ථාවර ඉදිරි දැක්මක් සහිතව ඉහළ නංවා ඇත.
+🟩
 
-පසුගියදා ෆිච් රේටින්ස් ආයතනය ද මෙරට ණය ශ්‍රේණිගතකිරීම ඉහළ දැමීය.
+Moody's, a world's leading loan rating agency, has also increased the rankings of the country's long-term forex borrowings.
+
+Accordingly, the 'Ca' to 'CAA1' has been increased with a stable vision.
+
+Recently, Fitch Ratings also increased the credit rating of the country.
 
 ◼️
 
 [Data](articles/3b1abed7.json)
+
+[Extended Data](ext_articles/3b1abed7.ext.json)
 
 ---
 
@@ -149,6 +155,8 @@ He quit the job as he was hesitant to be engaged in defrauding people in the cou
 ...
 
 [Data](articles/c091e53d.json)
+
+[Extended Data](ext_articles/c091e53d.ext.json)
 
 ---
 

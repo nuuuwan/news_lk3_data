@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 04:14:00**
+As of **2024-12-24 04:42:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,411 (99.5%) of 61,708 articles have been extended.
+61,412 (99.5%) of 61,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -141,6 +141,8 @@ Daulagala is an Associate of the Chartered Institute of Management Accountants (
 ...
 
 [Data](articles/9a4269d2.json)
+
+[Extended Data](ext_articles/9a4269d2.ext.json)
 
 ---
 

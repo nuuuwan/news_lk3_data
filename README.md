@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 04:01:33**
+As of **2024-12-24 04:14:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,410 (99.5%) of 61,708 articles have been extended.
+61,411 (99.5%) of 61,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,8 @@ The demonstrations were conducted at various locations in Kandy, Matale, Nuwara 
 ...
 
 [Data](articles/18827921.json)
+
+[Extended Data](ext_articles/18827921.ext.json)
 
 ---
 

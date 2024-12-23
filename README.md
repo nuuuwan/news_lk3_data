@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 11:27:12**
+As of **2024-12-23 11:44:04**
 
 ## Newspaper Stats
 
-*Scraped **61,588** Articles*
+*Scraped **61,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 648
 islandlk | 3,728
-economynextcom | 3,747
+economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,869
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,330 (99.6%) of 61,588 articles have been extended.
+61,333 (99.6%) of 61,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### Sri Lanka ASPI hits 15,000 mark
+
+*2024-12-23 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-aspi-hits-15000-mark-195888/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index went beyond the 15,000 mark hitting a new record.
+
+The broader ASPI was up at 15,027 in mid-morning trade; while the more liquid S&P SL20 Index was at 4,494.
+
+Sri Lanka stocks have been on a bull run amid low interest rates and banks awash in excess liquidity in the last quarter making margin loans cheap.
+
+The market also has had positive news, with improvements in banking sector, conclusion of debt restructuring.
+
+Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/2024)
+
+◼️
+
+[Data](articles/258cb363.json)
+
+[Extended Data](ext_articles/258cb363.ext.json)
+
+---
 
 ### Public sector is digital in New Year
 
@@ -122,43 +144,55 @@ The Ministry of Education has issued a special announcement that the third term 
 
 ---
 
-### கேக் விற்பனையில் வீழ்ச்சி
+### Fall in the sale of cake
 
 *2024-12-23 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-விற்பனையில்-வீழ்ச்சி/175-349134) · `ta`
 
-பண்டிகைக் காலங்களில் கேக் கொள்வனவு செய்யும் போது மக்கள் விலை தொடர்பில் அவதானமாக இருக்க வேண்டுமென அகில  இலங்கை பேக்கரி உற்பத்தியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Cake sales decline; bakery association warns of high prices during festivals. Leader suggests prices slightly lower than last year but urges consumers to be cautious.
 
-கடந்த வருடத்தை விட இவ்வருடம் கேக் விலையில் சிறிதளவு குறைவு காணப்படுவதாக அதன் தலைவர் என்.கே.ஜயவர்தன தெரிவித்தார்.
+🟩
 
-அவர் தொடர்ந்தும் கருத்து தெரிவிக்கையில், பொதுவாக பட்டர் கேக் ரூ.900 – ரூ.1200 இடையே விற்கப்படுகின்றது.
+The All Ceylon Bakery Manufacturers Association has said that people should be careful about the price of people during the festive season.
 
-தற்போதைய அரசாங்கத்துடன் பேச்சுவார்த்தை நடத்த சந்தர்ப்பம் கிடைத்திருந்தால் பேக்கரி பொருட்களின் விலைகளை குறைத்திருக்கலாம்.
+Its leader NK Jayawardena said the price of the cake was slightly lower than last year.
 
-ஆனால் அவ்வாறான சந்தர்ப்பம் எங்களுக்கு வழங்கப்படவில்லை. கோதுமை மா, மாஜரின் விலைகளை அரசு தலையிட்டிருந்தால் குறைத்திருக்கலாம்.
+He continued, "Butter cake is usually sold between Rs. 900 - Rs.
 
-மக்கள் அவதானமாக இருங்கள். குறைந்த விலையில் தெரிவு செய்வது மக்கள் கைகளில் தான் இருக்கின்றது.
+The price of bakery goods could have been reduced if there was an opportunity to negotiate with the current government.
+
+But we have not been given such a chance. Wheat mango may have reduced the prices of magic if the government intervened.
+
+Be careful with people. The lowest choice is in the hands of people.
 
 ◼️
 
 [Data](articles/e9575bbf.json)
 
+[Extended Data](ext_articles/e9575bbf.ext.json)
+
 ---
 
-### ගුවන් නියමුවාට සහ ඔහුගේ පවුලේ 10 දෙනෙකුට මරු කැඳවූ ගුවන් අනතුර
+### Air accident that killed for the pilot and his family
 
 *2024-12-23 10:34:58* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-නියමුවාට-සහ-ඔහුගේ-පවුලේ-10-දෙනෙකුට-මරු-කැඳවූ-ගුවන්-අනතුර/11-413788) · `si`
 
-බ්‍රසීලයේ පෞද්ගලික ගුවන් යානයක් කඩා වැටීමෙන් පුද්ගලයන් 10 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Brazilian plane crash kills pilot, family, injures 17; 2 critically hurt.
 
-එහිදී ගුවන් නියමුවා ඇතුළු ඔහුගේ පවුලේ සාමාජිකයන් ජීවිතක්ෂයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+🟩
 
-ගුවන් යානය කඩාවැටීමේදී නිවසකට හා වෙළදසැලකට හානි සිදුවී ඇති අතර, එව අවස්ථාවේ බිම සිටි පුද්ගලයන් 17 දෙනෙකු තුවාල ලබා තිබේ.
+Ten persons were killed in a private aircraft in Brazil.
 
-එලෙස තුවාල ලැබූ පුද්ගලයන් අතරින් දෙදෙනෙකුගේ තත්ත්වය බරපතල බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කර ඇත.
+Foreign media reports that his family including the pilot and his family have died.
+
+The airplane was damaged in a house and a shop and 17 people were injured when the aircraft was damaged.
+
+Foreign media added that two of the injured were in critical condition.
 
 ◼️
 
 [Data](articles/5c5996dc.json)
+
+[Extended Data](ext_articles/5c5996dc.ext.json)
 
 ---
 
@@ -373,6 +407,50 @@ Investigations revealed that the wire was broken while the student was leaning o
 ◼️
 
 [Data](articles/308ab995.json)
+
+---
+
+### Foreigners buy Sri Lanka govt securities last week after outflow
+
+*2024-12-23 09:32:00* · [`economynextcom`](https://economynext.com/foreigners-buy-sri-lanka-govt-securities-last-week-after-outflow-195879/) · `en`
+
+ECONOMYNEXT – Foreigners investors bought Sri Lanka government securities in the week ended on December 19, after selling in the previous week, the Central Bank data showed.
+
+The island nation saw foreign outflow from the government securities for the first time in 13 weeks in the week ended on December 12. However, the offshore investors bought Sri Lanka papers last week.
+
+Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
+
+The last week’s inflow came after the island nation’s conclusion of commercial and International Sovereign Bond (ISB) debt restructuring.
+
+Sri Lanka saw 506 million rupees ($1.7 million at 1 US dollar = 290 LKR) inflow into government securities in the week ended on December 19. The government has seem total inflows of 27.2 billion rupees ($93.8 mln) into treasury bonds and bills in the 14 weeks through December 19, the official data showed.
+
+...
+
+[Data](articles/6a27d5cc.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 293.75/294.75 to US dollar, bonds down
+
+*2024-12-23 09:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-75-294-75-to-us-dollar-bonds-down-195875/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.75/294.75 to the US dollar in the spot market, from 293.50/294.00 on Friday, while bond yields were down, dealers said.
+
+A bond maturing on 15.09.2027 was quoted at 9.55/75 percent, down from 9.70/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.00/05 percent, down from 10.05/20 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.65/75 percent.
+
+The central bank announced there would be an auction of 120,000 million rupees of treasury bills on Tuesday.
+
+In equities, the All Share Price Index was up 0.52 percent or 77.20 points, at 14,887.
+
+The more liquid S&P SL20 was up 0.76 percent, or 33.65 points, at 4,454.
+
+◼️
+
+[Data](articles/d3595406.json)
 
 ---
 
@@ -592,6 +670,26 @@ However, political sources said that others have commented on it.
 
 ---
 
+### Sri Lanka customs earn Rs4.3bn from rice imports, showing tax arbitrage: analysis
+
+*2024-12-23 08:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-earn-rs4-3bn-from-rice-imports-showing-tax-arbitrage-analysis-195830/) · `en`
+
+ECONOMYNEXT  – Sri Lanka has earned 4.3 billion rupees in taxes from imports of 67,000 metric tonnes of rice, reports said, indicating the extent the consumer is taxed to grow expensive rice in the country.
+
+Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tone) to keep the basic staple of the country about 50 percent higher than the rest of the world.
+
+The ‘tax’ paid by the consumer in the process of filling their stomachs, is ‘arbitraged’ by the paddy producing and marketing lobby.
+
+Though the International Monetary Fund claims that the tax to GDP ratio is low, a large volume of taxes paid to keep protected businesses are ‘arbitraged’ by domestic industries who are not competitive due to years of protection.
+
+Though the people pay the tax plus price the money does not go to the Treasury but is pocketed by producers who have no incentive to boost yields.
+
+...
+
+[Data](articles/b9c3fab4.json)
+
+---
+
 ### The price of school equipment has doubled
 
 *2024-12-23 08:10:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-உபகரணங்களின்-விலை-இருமடங்காக-உயர்வு/175-349122) · `ta`
@@ -779,6 +877,26 @@ Meanwhile, the businessmen have resumed the rice seled stock set of rice, which 
 [Data](articles/5b928ee5.json)
 
 [Extended Data](ext_articles/5b928ee5.ext.json)
+
+---
+
+### Sri Lanka bank bad loans fall to 12.4-pct in 3Q
+
+*2024-12-23 06:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-bad-loans-fall-to-12-4-pct-in-3q-195806/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s bank bad loans fell to 12.4 percent of loans in the third quarter of 2024 from 13.6 percent a year ago, while capital adequacy has improved steadily a central bank report showed.
+
+Non-performing loans also fell absolutely to 1,400 billion rupees by end of the third quarter from 1,435 billion rupees a year ago. Provisions for NPLs increased to 735.8 billion rupees from 675 billion rupees.
+
+Loans grew 6.9 percent to 21,204 billion rupees, and investment by 17.8 percent to 8,145.8 billion rupees in the year to the third quarter.
+
+Following a currency crisis, banks usually buy government debt, reducing private credit.
+
+Government debt is also bought from the central bank holdings (deflationary policy), effectively allowing the central bank to ‘buy’ deposits from banks, reducing domestic investments and imports, triggering a balance of payments surplus and allowing it to build foreign reserves.
+
+...
+
+[Data](articles/70d359fc.json)
 
 ---
 
@@ -2041,133 +2159,5 @@ Nikki Prasad scored 12 runs, Vinod Mithila 17 runs and Ayushi Shukla scored 10 r
 [Data](articles/76a4b108.json)
 
 [Extended Data](ext_articles/76a4b108.ext.json)
-
----
-
-### The last Selfium taken to appear on the train and the daughter
-
-*2024-12-22 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204616) · `si`
-
-Mother-daughter duo killed by train while taking photos near Anuradhapura railway station. 18-year-old daughter and 38-year-old mother died after collision with train from Kandy to Colombo. Another child was present but unharmed.
-
-🟩
-
-A mother and daughter who went to take photographs near the Anuradhapura railway station.
-
-A mother and daughter from Ratnapura to participate in a Tike Stadium in the Anuradhapura Stadium have faced this unfortunate event.
-
-The deceased has been identified as a 18 year old girl and an old mother of about 38 years.
-
-The two of them were collided with the train from training from Kannamuruwara to Colombo while they were getting a photo.
-
-This Celphi has been another child who came with them in taking photographs.
-
-◼️
-
-[Data](articles/707b8612.json)
-
-[Extended Data](ext_articles/707b8612.ext.json)
-
----
-
-### Investigate Prabhakaran
-
-*2024-12-22 18:37:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரபாகரனுக்கு-வாழ்த்து-தெரிவித்தவரிடம்-விசாரணை/175-349101) · `ta`
-
-RIT investigates person who wished Prabhakaran happy birthday on social media two years ago. This led to registration of a family member from Bandarikulam. Recent events in North and East related to Prabhakaran's birthday and Heroes Day.
-
-🟩
-
-The Terrorist Intelligence Agency (RIT) is conducting investigations to the person who congratulated Prabhakaran on the birthday of Prabhakaran two years ago.
-
-Two years ago, LTTE leader Prabhakaran's birthday was published on a social network on a social network and a birthday greeting was laid by a person.
-
-In this case, some people who were in the friendly circle of the social network under the film had posted a birthday wishes on the social website on the social website.. A young family member from Bandarikulam, Vavuniya, who recorded her birthday wishes, has been registered by the Vavuniya Office of the Terrorist Intelligence Unit.
-
-Meanwhile, this year, Prabhakaran's birthday and Heroes Day events took place in the North and East, which took place two years ago.
-
-◼️
-
-[Data](articles/1822bbb3.json)
-
-[Extended Data](ext_articles/1822bbb3.ext.json)
-
----
-
-### Three cops transferred over arrest of writer Kasun Heenatigala
-
-*2024-12-22 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104423/three-cops-transferred-over-arrest-of-writer-kasun-heenatigala) · `en`
-
-Three police officers, including a Sub-Inspector, have been temporarily transferred to the Mirihana Police Headquarters in connection with the investigation into the arrest of writer Kasun Mahendra Heenatigala by the Athurugiriya Police recently.
-
-Police Media Spokesperson SSP Buddhika Manatunga stated that accordingly, the OIC of the Anti-Corruption Division of Athurugiriya Police and two other police constables have been temporarily transferred related to the investigations into the incident.
-
-The transfers have been made in connection with an investigation being conducted on the instructions of the DIG in charge of the Colombo South Division in connection with a complaint lodged by writer Kasun Mahendra Heenatigala, the son-in-law of late veteran actor Jackson Anthony, at the Police Headquarters.
-
-◼️
-
-[Data](articles/b07cac74.json)
-
-[Extended Data](ext_articles/b07cac74.ext.json)
-
----
-
-### Special transport during festivals
-
-*2024-12-22 18:22:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலங்களில்-விசேட-போக்குவரத்து/175-349100) · `ta`
-
-Special traffic checks during festivals: Police will inspect buses, check drunk drivers, and enforce traffic rules nationwide. Report violations via 119 or 1997 hotlines.
-
-🟩
-
-Police Media Spokesperson Senior Superintendent of Police Buddhika Manatunga said that special traffic action will be taken to check the buses, including buses during the festive season.
-
-In response to vehicle accidents in vehicles including passenger transport buses over the past few days, this transport scheme is being implemented on the directive of the Inspector General of Police Priyantha Weerasuriya.
-
-Here, passenger transport buses have been inspected mainly, and a special inspection will be carried out on alcohol intoxicated drivers and negligence drivers, drivers in violation of traffic rules and drivers.
-
-Manatunga said that this special action will be implemented nationwide and that the officers will be on duty 24 hours a day.
-
-...
-
-[Data](articles/c5fc6cf3.json)
-
-[Extended Data](ext_articles/c5fc6cf3.ext.json)
-
----
-
-### Out of use of five drugs
-
-*2024-12-22 18:05:15* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වර්ග-පහක්-භාවිතයෙන්-ඉවතට/11-413784) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Doctors protest removal of antibiotics. Ministry of Health decides to withdraw Ceftriaxone, Phenoxymethylpenicillin, Cefazolin, Imipenem/Cilastatin. Doctors claim lack of proper drug quality control measures. They warn of severe impact on public health and treasury.
-
-🟩
-
-The doctors' union of medical and civil rights doctors regarding the use of five drugs in the past week.
-
-Dr. Chamal Sanjeew, the Association Dr. Chamal Sanjeewa has requested the Health Secretary.
-
-The Ministry of Health has decided to remove the quality of CEFTRIAXONE, CEFTRIAXONE, PHYMENADE, CEFANADE, CEFANADE, CEFANDUM, IMIPANUM, IMIPANUM and Drugs.
-
-He further stated that there are powerful antibiotics between these drugs and there are drugs that are provided to infection including brain diseases.
-
-Chamal Sanjeewa said that as a result of the standard of antibiotics about 14 days ago, he said.
-
-He also said that the Ministry of Health has not been able to establish a proper program to identify the officers or drug detection of the officers who have acted on the quality of drugs.
-
-He added that the Treasury of the country should be severely damaged by removal of standard drugs.
-
-He further stated that although all government institutions intervene and do not have to do this year.
-
-◼️
-
-[Data](articles/97ebba62.json)
-
-[Extended Data](ext_articles/97ebba62.ext.json)
 
 ---

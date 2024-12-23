@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 09:27:29**
+As of **2024-12-23 09:43:29**
 
 ## Newspaper Stats
 
-*Scraped **61,563** Articles*
+*Scraped **61,564** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,728
 economynextcom | 3,747
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,865
+adalk | 5,866
 adaderanalk | 7,509
 tamilmirrorlk | 8,803
 virakesarilk | 10,178
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,319 (99.6%) of 61,563 articles have been extended.
+61,320 (99.6%) of 61,564 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -276,25 +276,33 @@ Western Province North Criminal Division and Meegoda Police are conducting furth
 
 ---
 
-### ගැසට්ටුව එන තෙක් සහල් ආනයනය යළි බෑ
+### Imports of rice cannot be restored until gazette arrives
 
 *2024-12-23 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204624) · `si`
 
-සහල් ආනයනය සඳහා වන ගැසට් පත්‍රය නිකුත් කරන තෙක් යළි කිසිදු හෙයකින් මෙරටට සහල් ආනයනය කිරීමේ හැකියාවක් නොමැති බව ශ්‍රී ලංකා රේගුව පවසයි.
+Rice imports halted until gazette publication. Private sector imports ceased on 20th; 67000 metric tons imported. Government extends import period till Jan 10. Customs states no imports possible without gazette. 52000 metric tons gov't import arriving soon. Gazette expected post-meeting today. Businessmen resume operations pending private sector import resumption.
 
-පෞද්ගලික අංශය සඳහා සහල් ගෙන්වීමට ලබා දී තිබු කාලය පසුගිය 20 වැනිදායින් අවසන් වු අතර ඒ වන විට මෙරටට සහල් මෙට්‍රික් ටොන් 67,000ක ප්‍රමාණයක් ආනයනය කර තිබුණි.
+🟩
 
-කෙසේ වෙතත් රජය පසුගියදා සඳහන් කළේ සහල් ආනයනය සඳහා ලබා දුන් කාලය ලබන වසරේ ජනවාරි මස 10 වනදා දක්වා දීර්ඝ කරන බවය.
+Sri Lanka Customs says that there is no possibility of importing rice to the country until the Gazette for the importation of rice.
 
-එහෙත් මේ දක්වාත් ඊට අදාල ගැසට් පත්‍රය ප්‍රකාශයට පත් කර නොමැති බැවින් යම්හෙයකින් රජය හෝ රජයේ මැදිහත්වීම මත සහල් ආනයනය කළ ද ඒවා මෙරට වෙළඳපොළ වෙත නිකුත් කිරීමේ හැකියාවක් නොමැති බව ශ්‍රී ලංකා රේගුව සදහන් කළේය.
+The period of imports to the private sector ended on the 20th and 67,000 metric tons of rice had been imported.
 
-මේ අතර රජය විසින් ආනයනය කරන සහල් මෙට්‍රික් ටොන් 52,000ක තොගයක් ඉදිරි දින කිහිපය තුළ මෙරටට රැගෙන ඒමට නියමිතව තිබේ.
+However, the government recently stated that the period for the importation of rice is extended until January 10 next year.
 
-කෙසේවෙතත් රජයේ ආරංචි මාර්ග සඳහන් කළේ අද (23) දිනයේ පැවැත්වෙන අමාත්‍ය මණ්ඩල රැස්වීමෙන් අනතුරුව සහල් ආනයනය කිරීමට අදාළ ගැසට් පත්‍රය නිකුත් කරනු ඇති බවය.
+However, the Sri Lanka Customs stated that although the gazette not yet published the gazette, but the rice is imported on the government or government intervention.
+
+Meanwhile, 52,000 metric tons of rice imported by the government will be brought to Sri Lanka in the next few days.
+
+However, government sources said that the gazette sheet will be issued to the import of rice after the meeting held today (23).
+
+Meanwhile, the businessmen have resumed the rice seled stock set of rice, which has been closed down due to the lack of rice due to the lack of rice.
 
 ...
 
 [Data](articles/5b928ee5.json)
+
+[Extended Data](ext_articles/5b928ee5.ext.json)
 
 ---
 
@@ -1792,6 +1800,26 @@ Accordingly, the police officers will evaluate drivers to detect whether they ar
 
 ---
 
+### ඉන්ධන මිල සූත්‍රයට සංශෝධන ඉදිරියේදී කරනවා
+
+*2024-12-22 17:55:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සූත්‍රයට-සංශෝධන-ඉදිරියේදී-කරනවා/11-413783) · `si`
+
+පවතින නීතිමය පසුබිම තුළ පසුගිය රජය විසින් හඳුන්වාදුන් ඉන්ධන මිල සූත්‍රය පිළිගනිමින් ඒ අනුව කටයුතු කරන බවත්, මිල සූත්‍රය අධ්‍යයනය කර ඉදිරියේදී අවශ්‍ය සංශෝධන හඳුන්වා දීමට කටයුතු කරන බවත් පාර්ලිමේන්තුවේදී අනාවරණය විය.
+
+සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා වාචික පිළිතුරු අපේක්ෂාවෙන් යොමු කළ ප්‍රශ්නයකට බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා සභාගත කළ පිළිතුරේ මේ බව සඳහන් කර ඇත.
+
+මේ අතර 2024 සැප්තැම්බර් 21 වැනිදා සිට 2024 නොවැම්බර් 30 වැනිදා දක්වා වත්මන් ආණ්ඩුව යටතේ අවස්ථා  2කදී ඉන්ධන මිල සංශෝධනය සිදු කර ඇති බවත්, එම ඉන්ධන මිල සංශෝධනය මිල සූත්‍රය අනුව සිදු කළ බවත් එම පිළිතුරේ සඳහන් කර තිබේ.
+
+කෙසේ වෙතත් ඉන්ධන මිල සංශෝධනය සඳහා සපුගස්කන්ද ඉන්ධන පිරිපහදුවෙන් වන ලාභය හෝ අලාභය ගැලපීමන් සිදු කර නොමැති බවද එහි සඳහන් කර ඇත.
+
+මේ අතර ලෝක වෙළෙඳපොළේ ඉන්ධන මිල අඩුවීමේ වාසිය  මෙරට ඉන්ධන පාරිභෝගිකයන්ට මාසිකව ඉන්ධන මිලට ගැලපුම් කර ලබා දෙන බව අදාළ පිළිතුරේ වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/4252147a.json)
+
+---
+
 ### The latest operation to commence the police
 
 *2024-12-22 17:44:19* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-ආරම්භ-කරන-අලුත්ම-මෙහෙයුම/11-413782) · `si`
@@ -2185,31 +2213,5 @@ If the Tamil people are to come up with an acceptable political solution, the gr
 [Data](articles/04a4b09a.json)
 
 [Extended Data](ext_articles/04a4b09a.ext.json)
-
----
-
-### Arrest with heroin in Mahabhake
-
-*2024-12-22 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/201888) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Police arrest suspect in Mahabhake with 6g of 300mg heroin during raid based on tip-off.
-
-🟩
-
-A suspect was arrested by police on Saturday (21) with heroin drugs in George Mawatha, which belongs to the Mahabhake Police Division.
-
-He was arrested after a raid on the basis of confidential information received by the Mahabhake police station.
-
-06 grams of 300 milligrams of heroin from the suspect has been seized by the police.
-
-◼️
-
-[Data](articles/f1c1888c.json)
-
-[Extended Data](ext_articles/f1c1888c.ext.json)
 
 ---

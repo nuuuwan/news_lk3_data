@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 15:01:55**
+As of **2024-12-23 15:13:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,353 (99.6%) of 61,629 articles have been extended.
+61,355 (99.6%) of 61,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -266,27 +266,35 @@ In the most recent general election, he contested under the New Democratic Front
 
 [Data](articles/8b239de2.json)
 
+[Extended Data](ext_articles/8b239de2.ext.json)
+
 ---
 
-### CEB ශ්‍රම දායකත්වයෙන් ඉදිකළ පළමු ග්‍රිඩ් උපපොළ ජාතික විදුලිබල පද්ධතියට
+### First Grid subplacement built to CEB labor to national grid
 
 *2024-12-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204637) · `si`
 
-අභිනවයෙන් ඉදිකරන ලද වගවත්ත ග්‍රිඩ් උපපොළ, ජාතික විදුලිබල පද්ධතියට සම්බන්ධ කළ බව ලංකා විදුලිබල මණ්ඩලය නිවේදනය කරයි.
+New CEB grid substation linked to national grid, serving BOI and Millennium Industry. BOI invested Rs. 2,300 million. First of its kind, enhancing power supply stability.
 
-ප්‍රධාන වශයෙන්ම ශ්‍රී ලංකා ආයෝජන මණ්ඩලයේ වගවත්ත සහ මිල්ලනිය කර්මාන්ත කලාපවලට විදුලිය සැපයීම සඳහා මෙම ග්‍රිඩ් උපපොළ ඉදිකර ඇත.
+🟩
 
-ඒ සඳහා ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් රුපියල් මිලියන 2,300 ක මුදලක් ආයෝජනය කර තිබේ.
+The Ceylon Electricity Board (CEB) announced that the newly built portar grood substation was linked to the national grid.
 
-ශ්‍රී ලංකා ආයෝජන මණ්ඩලය විසින් පරිත්‍යාග කරන ලද  අක්කර 05ක පමණ භූමි භාගයක ඉදිකර ඇති මෙම නව ග්‍රිඩ් උපපොළ දැනට පවතින කර්මාන්ත සඳහා විදුලි සැපයුමේ ස්ථායිතාවය හා ගුණාත්මකභාවය වැඩි දියුණු කිරීම සහ ඉදිරියේදී ඇතිකිරීමට අපේක්ෂිත කර්මාන්ත සඳහා ස්ථායි මෙන්ම ගුණාත්මක විදුලි සැපයුමක් ලබාදීම වෙනුවෙන් 90 MVA ක ධාරිතාවයකින් යුතුව ඉදිකර ඇත.
+The Grid substation has been constructed mainly to provide electricity to the Board of Investment of Sri Lanka and the supply of electricity to the millanium industry.
 
-ලංකා විදුලිබල මණ්ඩලයේ සම්ප්‍රේෂණ තැනීම් ව්‍යාපෘති (TCP) ශාඛාව විසින් මෙම නව ග්‍රිඩ් උපපොළ සැලසුම් කිරීම, ඉදිකිරීම සහ පද්ධතියට එක් කිරීම සිදු කරයි.
+The Board of Investment of Sri Lanka has invested Rs. 2,300 million.
 
-වගවත්ත ග්‍රිඩ් උපොල යනු, සම්පුර්ණයෙන්ම ලංකා විදුලිබල මණ්ඩල කාර්යමණ්ඩලයේ ශ්‍රම දායකත්වයෙන් ඉදිකරන ලද පළමු ග්‍රිඩ් උපපොළ ලෙස හැදින්විය හැකිය.
+The new grid substances have been constructed by the Board of Investment of Sri Lanka (BOI has built up 5 acres of power to existing industries and build quality stability and quality of electricity to the existing industries.Have.
+
+The Ceylon Electricity Board Transmission Construction Project (TCP) Branch (TCP) branch is provided to the construction, construction and system.
+
+The Grid Hapu is the first grid built up the first grid substation of the Ceylon Electricity Board (CEB).
 
 ◼️
 
 [Data](articles/c2f83e8f.json)
+
+[Extended Data](ext_articles/c2f83e8f.ext.json)
 
 ---
 

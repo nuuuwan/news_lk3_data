@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 05:12:27**
+As of **2024-12-23 05:51:39**
 
 ## Newspaper Stats
 
-*Scraped **61,534** Articles*
+*Scraped **61,539** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
-colombotelegraphcom | 623
+colombotelegraphcom | 624
 bbccomsinhala | 647
-islandlk | 3,717
+islandlk | 3,721
 economynextcom | 3,747
 dailyftlk | 4,274
 dailymirrorlk | 4,733
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,306 (99.6%) of 61,534 articles have been extended.
+61,309 (99.6%) of 61,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
+
+*2024-12-23 05:27:00* · [`islandlk`](http://island.lk/lion-brewery-commissions-sri-lankas-first-innovation-centre-for-craft-brews/) · `en`
+
+Lion Brewery (Ceylon) PLC announced the commissioning of Sri Lanka’s first Innovation Center dedicated to the research and development for craft and specialty brews targeting export markets, which is also a BOI-approved project. This initiative is the latest milestone in Lion Brewery’s continuous journey in brewing innovation and is poised to further the presence of Sri Lankan brews on the global stage.
+
+Industry research shows global demand for craft and specialty brews growing exponentially in the next five years, driven by consumers seeking high-quality flavor innovations made sustainably and ethically. Moreover, this demand is also visible through the tourism industry, with travelers looking for specialty food and beverage offerings to enhance their unique travel experience.1
+
+...
+
+[Data](articles/f1472423.json)
+
+---
+
+### LOLC Finance expands to Dankotuwa and Wattegama
+
+*2024-12-23 05:26:00* · [`islandlk`](http://island.lk/lolc-finance-expands-to-dankotuwa-and-wattegama/) · `en`
+
+LOLC Finance PLC, has announced the opening of two new branches in Dankotuwa and Wattegama. These branches, located at Nattandiya Road, Dankotuwa, and No. 73/F, Kandy Road, Wattegama, further establish LOLC Finance’s commitment to providing accessible and innovative financial solutions across the nation.
+
+The Dankotuwa branch commenced operations with a grand opening ceremony on 9th December 2024, attended by Krishan Thilakaratne, Director/CEO of LOLC Finance, Montini Warnakula, Chief Operating Officer of LOLC Finance, and Prasanna Karadagolla, Head of Channels of LOLC Finance. Similarly, the Wattegama branch was inaugurated on 16th December 2024, graced by the presence of the same esteemed dignitaries.
+
+...
+
+[Data](articles/7f17ac3e.json)
+
+---
 
 ### 13 people die in 10 road accidents in 24 hours
 
@@ -326,6 +354,8 @@ Ranatunga served on the Board of Directors of Seylan Bank PLC from 2010-2019. Du
 
 [Data](articles/8e3771d9.json)
 
+[Extended Data](ext_articles/8e3771d9.ext.json)
+
 ---
 
 ### Elpitiya Plantations celebrates excellence
@@ -341,6 +371,8 @@ Elpitiya Plantations Chief Sustainability Officer M.I. Izzadeen (third from left
 ...
 
 [Data](articles/a148813b.json)
+
+[Extended Data](ext_articles/a148813b.ext.json)
 
 ---
 
@@ -362,19 +394,31 @@ Imported from Zero Technologies in China, these ACs are designed to cater to sma
 
 ---
 
-### இந்த அரசாங்கத்துக்கு சவால் விடும் பிரதான நபராக  ரணில் விக்கிரசிங்க செயற்படலாம் - உதய கம்மன்பில
+### Ranil Wickremesinghe may act as the main person to challenge this government - Udaya Kammanpila
 
 *2024-12-23 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/201917) · `ta`
 
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்த அரசாங்கத்துக்கு சவால் விடும் பிரதான நபராக செயற்படலாம். பொருளாதார நெருக்கடியில் இருந்து குறுகிய காலத்தில் மீட்சிப் பெற்றமை குறித்து வங்குரோத்து நிலையடைந்துள்ள உலக நாடுகள் ரணில் விக்கிரசிங்கவிடம் ஆலோசனை பெறுகின்றமை சிறப்பம்சமாகும் என முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-அரசியலில் இருந்து முழுமையாக ஓய்வுப்பெறவில்லை. செயற்பாட்டு ரீதியிலான அரசியலில் ஈடுபட்டுள்ளோம். வெற்றியும், தோல்வியும் என்றும் நிலையானதல்ல, 2020 ஆம் ஆண்டு பெரும்பான்மை ஆதரவுடன் வெற்றிப் பெற்ற ஸ்ரீ லங்கா ஸ்ரீ லங்கா பொதுஜன பெரமுன 2024 ஆம் ஆண்டு படுதோல்வியடைந்தது. அதேபோல் அன்று 3 ஆசனங்களை பெற்ற தேசிய மக்கள் சக்தி இன்று 159 ஆசனங்களை கைப்பற்றியுள்ளது ஆகவே அரசியலில் ஏதும் நடக்கலாம்.
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ அரசியலில் இருந்து ஓய்வுப் பெற்றுள்ளார். ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமைத்துவத்தை பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷவுக்கு வழங்குவதற்கு அவதானம் செலுத்தப்பட்டுள்ளது.
+
+Ranil Wickremesinghe may challenge current Sri Lankan government. Udaya Kammanpila claims world nations seeking Wickremesinghe's advice on recovery from bankruptcy. Wickremesinghe remains active in politics despite others retiring. His economic policies implemented by current president. Wickremesinghe led government during 2022 financial crisis, helping short-term recovery. Unlike other ex-presidents, Wickremesinghe enjoys better relations with Western nations.
+
+🟩
+
+Former President Ranil Wickremesinghe may act as the main person who challenges this government. Former parliamentarian Udaya Kammanpila said that the world's countries, which have become bankrupt over the short term in the short term, are consulting with Ranil Wickremesinghe.
+
+Does not completely retire from politics. We are involved in operating politics. Sri Lanka's Sri Lanka PA was defeated in 2024 with the support of the majority of the 2020s.. Similarly, the National People's Power, which received 3 seats on that day, has won 159 seats today so something can happen in politics.
+
+Former President Mahinda Rajapakse retires from politics. Parliamentarian Namal Rajapaksa has been paid attention to the leadership of the Sri Lanka PA.
+
+Former President Ranil Wickremesinghe does not retire from politics. He may act as the main person to challenge this government. This is because President Anurakumara Dissanayake is implementing his economic policies.
 
 ...
 
 [Data](articles/832c1098.json)
+
+[Extended Data](ext_articles/832c1098.ext.json)
 
 ---
 
@@ -661,6 +705,18 @@ The Government’s plan to lift the ban on vehicle imports is out. But it is not
 [Data](articles/63ad1a4f.json)
 
 [Extended Data](ext_articles/63ad1a4f.ext.json)
+
+---
+
+### Civil Society Organisations Do Have Active Role To Play In Economic Developments
+
+*2024-12-22 23:26:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/civil-society-organisations-do-have-active-role-to-play-in-economic-developments/) · `en`
+
+It is with great pleasure that I accepted the invitation of Dr. Vinya Ariyaratne whom I always keep in high esteem for his integrity, probity, and civic mindedness to speak on the 68th year anniversary of Sarvodaya Movement. I had another reason to accept this. That is because Sarvodaya, especially its enterprise arm called the Sarvodaya Economic Enterprise Development Society or SEEDS and its training arm, Sarvodaya Management Training Institute or SMTI, were participating community-based organisations in one of the microfinance projects implemented by the Central Bank from 1989 to 1998.
+
+...
+
+[Data](articles/4f7bb663.json)
 
 ---
 
@@ -2205,73 +2261,5 @@ In particular, vehicles traveling on the A-9 road and Mannar roads were observed
 [Data](articles/95c374c2.json)
 
 [Extended Data](ext_articles/95c374c2.ext.json)
-
----
-
-### Applications called for SLEAS Grade 1 principal posts in National Schools
-
-*2024-12-22 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104420/applications-called-for-sleas-grade-1-principal-posts-in-national-schools) · `en`
-
-The Ministry of Education (MoE) has issued a special announcement regarding the process for filling vacancies in the Sri Lanka Education Administrative Service (SLEAS) Grade 1 Principal positions in national schools.
-
-Accordingly, applications are being called from Grade 1 officers of the Sri Lanka Educational Service, as per the directives of the Education Service Committee of the Public Services Commission, the Education Ministry said.
-
-The Ministry stated that the notice, available in Sinhala and Tamil, along with the school register, marking scheme, and model application forms, was published on the Ministry of Education’s official website (www.moe.gov.lk) on December 11, 2024.
-
-Applicants can download the required documents under the ‘Special Notices’ section of the website, the announcement added.
-
-The Ministry has further emphasized that the deadline for submitting applications is December 31, 2024.
-
-◼️
-
-[Data](articles/4ec5b408.json)
-
----
-
-### A motorcyclist given to public officials to steal
-
-*2024-12-22 15:00:25* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-නිලධාරීන්ට-දුන්-යතුරුපැදියක්-සොරා-ගෙන-හොරකමේ-ගිහින්/11-413771) · `si`
-
-Motorcyclist steals bikes, intimidates homes, arrested with heroin. Two suspects, aged 32-38, from Kadawatha. Stolen vehicles found in several areas. One bike was government-owned. Suspects injured during robberies. Gold, weapons, and other items seized.
-
-🟩
-
-Two police divisions have been stolen to government officials and puts a fake number plate and intimidated the households in the island and plunged gold and plundered gold and plunder gold items and stocks of over Rs.Athurugiriya Police said that he was arrested with five grams of heroin.
-
-The arrested police say that two including ages of 32 -38 resident of Kadawatha.
-
-A team of the Criminal Investigation Division of the Athurugiriya Police Overlooks while he was on the way to a criminal prevention of duty through the operation of the Oruka area has been taken into custody by the five grams of heroin.
-
-The two suspects were later seized from the Athurugiriya, Katana, Minuwangoda, Kadawatha, Malabe, Gampaha and Yagahawatta, Gampaha and Yagalabe.
-
-The suspects were later seized from the suspects, five value and two motorcycles who stole the suspects.
-
-...
-
-[Data](articles/65eaf15f.json)
-
-[Extended Data](ext_articles/65eaf15f.ext.json)
-
----
-
-### බිරිඳට තියුණු ආයුධයකින් පහරදී සැමියා සියදිවි නසාගනී
-
-*2024-12-22 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204611) · `si`
-
-මොරටුව, ඉඳිබැද්ද ප්‍රදේශයේ දී පුද්ගලයෙකු සිය බිරිඳට තියුණු ආයුධයකින් පහරදී සියදිවි හානිකරගෙන තිබේ.
-
-පොලීසිය සඳහන් කළේ 56 හැවිරිදි පුද්ගලයෙකු එලෙස මියගොස් ඇති බවය.
-
-අදාළ පුද්ගලයා ඊයේ පස්වරුවේ සිය බිරිඳට තියුණු ආයුධයකින් පහරදී නිවස තුළ ගෙලවැලලාගෙන මියගොස් ඇති බව සඳහන්.
-
-තුවාල ලැබූ කාන්තාව පානදුර රෝහලේ ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය සඳහන් කළේය.
-
-අදාළ සිදුවීමට පෙර ඔහු විසින් නිවසට යාබද ස්ථානයක සිටි පුද්ගලයෙකුට ද තියුණු ආයුධයකින් පහරදී තුවාල සිදුකර තිබේ.
-
-පහරකෑමෙන් තුවාල ලැබූ එම පුද්ගලයා කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර කලක සිට පැවති ආරවුලක් එම පහරදීමට හේතුවී ඇති බව පොලීසිය සිදුකළ මූලික විමර්ශනවල දී අනාවරණය වී ඇති බව සඳහන්ය.
-
-◼️
-
-[Data](articles/8a167a87.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 15:43:42**
+As of **2024-12-23 16:02:19**
 
 ## Newspaper Stats
 
-*Scraped **61,632** Articles*
+*Scraped **61,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,875
 adaderanalk | 7,522
-tamilmirrorlk | 8,823
+tamilmirrorlk | 8,824
 virakesarilk | 10,186
 adaderanasinhalalk | 10,644
 
@@ -26,23 +26,49 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,358 (99.6%) of 61,632 articles have been extended.
+61,360 (99.6%) of 61,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### துப்பாக்கிச் சூடு; ஒருவர் காயம்
+### கெசல்கமுவ ஒயாவை அளவீடு செய்ய  முயன்றோர் விரட்டியடிப்பு
+
+*2024-12-23 15:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கெசல்கமுவ-ஒயாவை-அளவீடு-செய்ய-முயன்றோர்-விரட்டியடிப்பு/76-349157) · `ta`
+
+காசல்ரீ நீர் தேக்கத்திற்கு நீர் ஏந்தி செல்லும் பொகவந்தலாவ டின்சின் பகுதியில் உள்ள கெசல்கமுவ ஒயாவை அனுமதியின்றி  அளவீடு செய்ய வந்த குழுவினர் தோட்ட நிர்வாகத்தினரால் விரட்டியடிக்கப்பட்ட சம்பவம்  திங்கட்கிழமை (23)  இடம்பெற்றது.
+
+நோர்வூட் பிரதேச சபை மற்றும் தெரேசியா தோட்ட நிர்வாகம் ஆகியோரிடம் எவ்வித அனுமதியும் பெறாது சட்டவிரோதமாக மாணிக்ககல் அகழ்வை மேற்கொள்ள கெசல்கமுவ ஒயாவைஅளவீடு  செய்யும் பணியில் வெளியாரை அழைத்து வந்து மேற்கொண்ட போதே அந்த குழுவினர் விரட்டியடிக்கப்பட்டனர்.
+
+இதேவேளை 27.09.2023ம் ஆண்டு பொகவந்தலாவ டின்சின் தொடக்கம் கிலானி வரை   கெசல்கமுவ ஒயா சுத்தம் செய்யும் பணிக்கு முன்னாள் நீர் வளங்கள் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சின் ஊடாக 14 மில்லியன் ரூபாய் நிதி ஒதுக்கப்பட்ட போதும் குறித்த பகுதியில் மாணிக்ககல் அகழ்வு மட்டுமே மேற்கொள்ளப்பட்டது.  சுத்தம் செய்யும்  திட்டம் இடை நடுவில் இடை நிறுத்தப்பட்டது.
+
+...
+
+[Data](articles/1eba158d.json)
+
+---
+
+### Shooting;One injury
 
 *2024-12-23 15:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூடு-ஒருவர்-காயம்/175-349155) · `ta`
 
-கம்பஹா, வீரகுல பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத ஒருவரே இந்த துப்பாக்கிச் சூட்டை மேற்கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+
+"Shooting incident: One person injured in Weerakula, Gampaha. Unidentified gunman on motorcycle."
+
+🟩
+
+One person was injured in a shooting in Weerakula, Gampaha, police said.
+
+Police said the shooting was carried out by an unidentified person who was on a motorcycle.
 
 ◼️
 
 [Data](articles/045f54f8.json)
+
+[Extended Data](ext_articles/045f54f8.ext.json)
 
 ---
 
@@ -387,6 +413,8 @@ The Deputy Minister also emphasized that the project is expected to lead to sign
 ◼️
 
 [Data](articles/46502947.json)
+
+[Extended Data](ext_articles/46502947.ext.json)
 
 ---
 
@@ -2145,27 +2173,5 @@ The High Commissioner, who said that he was ready to provide maximum support for
 [Data](articles/5d3dcda1.json)
 
 [Extended Data](ext_articles/5d3dcda1.ext.json)
-
----
-
-### Samantha Ranatunga new Chairman at Citrus Leisure and subsidiaries
-
-*2024-12-23 02:55:03* · [`dailyftlk`](https://www.ft.lk/business/Samantha-Ranatunga-new-Chairman-at-Citrus-Leisure-and-subsidiaries/34-770914) · `en`
-
-Samantha Ranatunga has been appointed as the new Chairman of Citrus Leisure PLC and subsidiaries Hikkaduwa Beach Resort PLC and Waskaduwa Beach Resort PLC.
-
-The company also announced the appointment of Niran Mahawatte to its Board and that of the subsidiaries as an Independent Non-Executive Director.
-
-The duo filled the vacancies created following the resignations of Suresh De Mel and Vasula Premawardhana.
-
-Ranatunga was the Managing Director of CIC Holdings PLC from 2010 to 2019. He joined the company as an executive in 1988 and held various senior positions and was director of main subsidiaries of CIC Holdings PLC namely Chemanex PLC and Link Naturals Ltd.
-
-Ranatunga served on the Board of Directors of Seylan Bank PLC from 2010-2019. During this tenure, he chaired the Risk, Human Resources, Nomination, Marketing and Strategic Planning Committees of the bank and served as a member of the audit committee. He was also the Chairman of Ceylon Chamber of Commerce from 2015-2017.
-
-...
-
-[Data](articles/8e3771d9.json)
-
-[Extended Data](ext_articles/8e3771d9.ext.json)
 
 ---

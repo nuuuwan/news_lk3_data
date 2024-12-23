@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 03:43:02**
+As of **2024-12-24 04:01:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,408 (99.5%) of 61,708 articles have been extended.
+61,410 (99.5%) of 61,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The event was inaugurated with the illumination of the Presidential Secretariat 
 ◼️
 
 [Data](articles/21fed0b3.json)
+
+[Extended Data](ext_articles/21fed0b3.ext.json)
 
 ---
 
@@ -67,6 +69,8 @@ Bandara also highlighted delays in rice imports and reports of substandard quali
 ...
 
 [Data](articles/a9e3b9bd.json)
+
+[Extended Data](ext_articles/a9e3b9bd.ext.json)
 
 ---
 

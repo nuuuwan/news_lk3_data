@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 17:12:28**
+As of **2024-12-23 17:44:39**
 
 ## Newspaper Stats
 
-*Scraped **61,637** Articles*
+*Scraped **61,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,877
+adalk | 5,880
 adaderanalk | 7,522
 tamilmirrorlk | 8,826
 virakesarilk | 10,186
@@ -26,11 +26,89 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,363 (99.6%) of 61,637 articles have been extended.
+61,367 (99.6%) of 61,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### Notice of railway renovation
+
+*2024-12-23 17:18:23* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-මාර්ග-අලුත්වැඩියාවක්-ගැන-දැනුම්-දීමක්/11-413800) · `si`
+
+Railway renovation notice: 5 AM - 9 PM on 28th. Use alternative routes during train-crossings.
+
+🟩
+
+Troops of-5.00 am to 9.00 am to 6.00 pm on 28th to 6.00 pm on 28th to 6.00 pm on 28th to 6.00 pm on 28.200 pmThe Railways Department says that partially to the vehicle.
+
+Accordingly, the Railway Department (Colombo) has informed the use of alternative routes for the train-cross-lines.
+
+◼️
+
+[Data](articles/566fa4c3.json)
+
+[Extended Data](ext_articles/566fa4c3.ext.json)
+
+---
+
+### False Rs. Film Director and Director of Film Directory for 5000 notes
+
+*2024-12-23 17:01:52* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-රු--5000-නෝට්ටු-සිදුවමට-චිත්‍රපට--අධ්‍යක්ෂ-හා-කළා-අධ්‍යක්ෂ-අල්ලයි/11-413799) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Film director & actors arrested for producing fake currency notes. Police investigation ongoing. Counterfeit notes linked to a 2021 film. Central Bank permit suspected. Four schools involved.
+
+🟩
+
+The Director of the Teldeniya Police, the Director and the Arts of the Teldeniya police said that the director and the arts of the film had been arrested for the need to buy a film.
+
+The arrested persons were residents of Kandy and Pilimatalawa, which have been manufactured by a film "Natrumuni Akil 'in 2021, police investigations have revealed that the fake Rs.
+
+Speaking to the Fake Notes for film Java, he had revealed that the Central Bank of Sri Lanka had to be permitted for printing the fake currency notes.
+
+Four schoolgives in the Digana area have been arrested by the owner of the shop to the Thaldeniya police to buy goods at a cost of Rs.The investigation was arrested and was arrested in the film and the artist director of the film.
+
+Police investigations are also underway to arrest the person who was allegedly given these counterfeit notes.
+
+Teldeniya, Inspector Society, Inspector Society, Inspector Society, OIC of the Teli Amarasinghe, has been conducted in the incident.
+
+◼️
+
+[Data](articles/5fbb21b4.json)
+
+[Extended Data](ext_articles/5fbb21b4.ext.json)
+
+---
+
+### Don't vote in the middle of the Face
+
+*2024-12-23 16:32:57* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළ-විභාගය-මැද-පුංචි-ඡන්දය-එපා/11-413798) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Leadership confusion: Election timing clash with exams. Government urged to reschedule polls away from school exams to avoid disrupting students' education.
+
+🟩
+
+Leader of the Leader of the Leader of the Leader of the Leader of the Govt.. He was speaking at a press conference held at the party headquarters in party headquarters this morning (23). The Leader JHU leader further commented:
+
+"The President, addressing the media last Friday, said that the little elections were held before the Sinhala year. The cabinet decided to cancel the nominations for the small election on December 3. The weeklyThe government has not yet failed to submit the bill to the Cabinet.
+
+We are supposed to be approved by the Cabinet of Ministers today.The meeting report is approved on December 30.Then, if public gazette, the gazette will be submitted to the public to give two weeks to study the public.The Parliament was a meeting of the Parliament on January 21.When presented to Parliament then, the people will be given to the people to sue the Bill.
+
+...
+
+[Data](articles/b53629eb.json)
+
+[Extended Data](ext_articles/b53629eb.ext.json)
+
+---
 
 ### Gnanasara Thera
 
@@ -60,21 +138,33 @@ He added that he will be admitted to the hospital again on Tuesday (24).
 
 ---
 
-### නව ව්‍යවස්ථාවෙන් කරන දෙයක් ඇමති නලින්ද කලින්ම කියයි
+### Minister Nalinda says something to the new constitutionally
 
 *2024-12-23 16:25:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-ව්‍යවස්ථාවෙන්-කරන-දෙයක්-ඇමති-නලින්ද-කලින්ම-කියයි/11-413797) · `si`
 
-සෞඛ්‍ය සදහා ජනතාවට ප්‍රවේශවීමට තිබෙන අයිතිය මූලික මිනිස් අයිතිවාසිකමක් බවට නව ව්‍යවස්ථාව මගින් ප්‍රකාශයට පත්කරන බවත්, එය කඩවන අවස්ථාවක අධිකරණයේ පිහිට පැතීමට පවා එමගින් ජනතාවට හැකි වන බවත් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+Here's a summary of 200 characters:
 
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා මෙම අදහස් පළ කරනු ලැබුයේ  සමස්ත ලංකා වකුගඩු රෝගීන්ගේ සංගමයේ  වාර්ෂික සමාජ සත්කාරක උත්සවය සදහා එක් වෙමිනි.
 
-මෙම උත්සවය පසුගියදා සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාගේ ප්‍රධානත්වයෙන් මහවැලි කේන්ද්‍ර ශාලාවේදී  පැවැත්විණි.
 
-මෙහිදී වැඩිදුරටත්  අදහස් දැක්වූ සෞඛ්‍ය අමාත්‍යවරයා දීර්ඝ ඉතිහාසයක් හිමි මෙරට සෞඛ්‍ය සේවාව ඉදිරියට පත්වාගෙනයාමේ දී ව්‍යුහාත්මක වෙනසකට ඉතා කඩිනමින් පරිවර්තනය විය යුතු බව ද පැවැසීය.
+Minister Nalinda announces constitutional right to healthcare. Emphasizes importance of primary health services. Supports kidney disease prevention and treatment. Participates in CSR initiatives with All Ceylon Kidney Association.
+
+🟩
+
+The new constitution is announced that the new constitution is a basic human right to be the right to the health of health, and it will be able to resort to court in a breakplace.
+
+Health and Mass Media Dr. Nalinda Jayatissa joined the Annual CSR initiative of the All Ceylon Kidney Association.
+
+The event was held at Mahaweli Jayatissa recently held the event under the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
+
+The Health Minister further stated that a long history should be translated into a structural change in the country's health care.
+
+It also said that primary health services are basic in the country and will be intended to enforce the primary health system in the country during the next decade.. He added that the government is responsible for the health of the citizens and that the government will take a basic human right to the constitution, but it will provide a basic human rights.
 
 ...
 
 [Data](articles/439c7941.json)
+
+[Extended Data](ext_articles/439c7941.ext.json)
 
 ---
 
@@ -2119,67 +2209,5 @@ However, as the period of rice imports ends, the government has decided to exten
 [Data](articles/c1cbf7ad.json)
 
 [Extended Data](ext_articles/c1cbf7ad.ext.json)
-
----
-
-### PM highlights education sector priorities in meeting with ADB
-
-*2024-12-23 03:01:57* · [`dailyftlk`](https://www.ft.lk/news/PM-highlights-education-sector-priorities-in-meeting-with-ADB/56-770920) · `en`
-
-Prime Minister Dr. Harini Amarasuriya yesterday held discussions with Asian Development Bank (ADB) Sri Lanka Resident Mission Country Director Takafumi Kadono at the Prime Minister’s Office.
-
-The meeting focused on ADB’s role as a key development partner and its ongoing support for Sri Lanka’s national development priorities.
-
-During the meeting, the Prime Minister stressed the urgent need to enhance school infrastructure, improve teacher training, and reform assessment mechanisms.
-
-She also expressed her gratitude for ADB’s continued support for various development projects, particularly in the education sector. She conveyed her hopes for sustained collaboration to achieve Sri Lanka’s long-term goals.
-
-According to the Prime Minister’s Media Unit, ADB representatives reaffirmed their commitment to addressing challenges in education through ongoing projects, including initiatives to strengthen teacher and principal training.
-
-...
-
-[Data](articles/04f31061.json)
-
-[Extended Data](ext_articles/04f31061.ext.json)
-
----
-
-### Teachers in Western Province barred from conducting tuition
-
-*2024-12-23 03:00:30* · [`dailyftlk`](https://www.ft.lk/news/Teachers-in-Western-Province-barred-from-conducting-tuition/56-770919) · `en`
-
-A circular has been issued preventing teachers at schools in the Western Province from conducting paid tuition classes to students from their respective schools, whether during school hours, after school, or on weekends and public holidays.
-
-The circular, signed by Western Province Secretary of Education K.A.D.R. Nishanthi Jayasinghe, was forwarded to the Director of Education, Regional Directors, Divisional Directors of Education, and all principals in the province.
-
-The circular mandates that all teachers be informed of this. The Education Secretary emphasised that disciplinary action will be taken against teachers who violate these regulations.
-
-This prohibition was first imposed in the Sabaragamuwa Province and later adopted by the Central Province as well.
-
-◼️
-
-[Data](articles/468548df.json)
-
-[Extended Data](ext_articles/468548df.ext.json)
-
----
-
-### AHRC urges President to tackle judicial and legal reforms
-
-*2024-12-23 02:59:59* · [`dailyftlk`](https://www.ft.lk/news/AHRC-urges-President-to-tackle-judicial-and-legal-reforms/56-770918) · `en`
-
-The Asian Human Rights Commission (AHRC) has urged President Anura Kumara Dissanayake to prioritise and enact critical legal reforms to strengthen the rule of law in Sri Lanka.
-
-In a written appeal, AHRC Policy and Programs Director Basil Fernando highlighted significant shortcomings in the country’s legal and judicial systems that require immediate attention. The organisation outlined three key areas for reform to ensure justice, transparency, and accountability.
-
-The AHRC called for the daily hearing of serious criminal cases in High Courts to address judicial delays and expedite justice delivery. This, it argued, would significantly improve the efficiency of the judiciary.
-
-Second, the organisation stressed the urgency of introducing comprehensive anti-bribery and anti-corruption legislation. Such reforms are essential, the AHRC said, to rebuild public trust in governance and ensure greater accountability across all levels of Government.
-
-...
-
-[Data](articles/4dd45ae0.json)
-
-[Extended Data](ext_articles/4dd45ae0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 11:01:36**
+As of **2024-12-23 11:14:23**
 
 ## Newspaper Stats
 
-*Scraped **61,584** Articles*
+*Scraped **61,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,868
 adaderanalk | 7,518
-tamilmirrorlk | 8,809
+tamilmirrorlk | 8,812
 virakesarilk | 10,178
 adaderanasinhalalk | 10,636
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 10,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,326 (99.6%) of 61,584 articles have been extended.
+61,328 (99.6%) of 61,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### තුර්කියේ හෙලිකොප්ටර් යානයක් කඩා වැටී 4ක් මරුට
+### புதுவருடத்தில் டிஜிட்டல் மயமாகும் பொதுத்துறை
+
+*2024-12-23 10:55:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுவருடத்தில்-டிஜிட்டல்-மயமாகும்-பொதுத்துறை/175-349136) · `ta`
+
+எதிர்வரும் வருடத்தில் இலங்கையின் பொதுத்துறையை டிஜிட்டல் மயமாக்கும் திட்டம் ஆரம்பிக்கப்படும் என இளைஞர் விவகார பிரதி அமைச்சர் எரங்க குணசேகர தெரிவித்தார்.
+
+கொழும்பு தேசிய நூலகம் மற்றும் ஆவணச் சேவைகள் சபை கேட்போர் கூடத்தில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனைக் கூறினார்.
+
+அத்துடன், நாட்டில் பாரிய சமூக மாற்றத்தை ஏற்படுத்த எதிர்பார்த்துள்ளதாக  பிரதி அமைச்சர் தெரிவித்தார்.
+
+“அடுத்த வருடத்தில் இருந்து எமது நாட்டை டிஜிட்டல் மயமாக்குவதற்கு தயாராகி வருகின்றோம், மேலும் க்ளீனிங் ஸ்ரீ லங்கா என்ற திட்டத்தை ஆரம்பிக்க தயாராகி வருகின்றோம்” என்று அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/6ebfce88.json)
+
+---
+
+### Four killed in helicopter in Turkey
 
 *2024-12-23 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204632) · `si`
 
-නිරිතදිග තුර්කියේ හෙලිකොප්ටර් යානයක් අනතුරට පත්වීමෙන් පුද්ගලයින් සිව් දෙනෙකු මියගොස් තිබේ.
+Turkey: Helicopter crash kills four near hospital. Pilot, doctor, worker among dead. Weather cited as possible cause.
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ හෙලිකොප්ටර් යානය රෝහල් ගොඩනැගිල්ලක ගැටීමෙන් අනතුරට පත්ව ඇති බවය.
+🟩
 
-අනතුරට පත්වු යානය රෝහල් අවශ්‍යතා සඳහා භාවිතා කරන යානයක් වන අතර අනතුරින් යානයේ සිටි නියමුවන් දෙදෙනෙකු, වෛද්‍යවරයෙකු සහ තවත් සේවකයෙකු මියගොස් ඇති බව වාර්තා වේ.
+Four persons were killed in a helicopter in Southwestern Turkey.
 
-අධික මීදුම සහිත කාලගුණික තත්ත්වය අනතුරට හේතුව විය හැකි බව එරට බලධාරීන් ප්‍රකාශ කර තිබේ.
+Foreign media reports that helicopopter was crashed with a hospital building.
+
+The aircraft was a plane used for hospital needs and two pilots and a doctor and another worker have died.
+
+Authorities have stated that the cause of high fog of weather conditions can be the cause of the accident.
 
 ◼️
 
 [Data](articles/1b3de800.json)
+
+[Extended Data](ext_articles/1b3de800.ext.json)
 
 ---
 
@@ -63,6 +87,44 @@ Local media reported that the plane was piloted by Luiz Claudio Galeazzi, a Braz
 ...
 
 [Data](articles/5c3e4e21.json)
+
+[Extended Data](ext_articles/5c3e4e21.ext.json)
+
+---
+
+### பாடசாலை ஆரம்பம் குறித்த அறிவிப்பு
+
+*2024-12-23 10:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்த-அறிவிப்பு/175-349135) · `ta`
+
+அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளில் 2024 ஆம் ஆண்டுக்கான மூன்றாம் தவணையின் இரண்டாம் கட்டம் எதிர்வரும் 2ஆம் திகதி வியாழக்கிழமை ஆரம்பமாகவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், அனைத்துப் பாடசாலைகளிலும் மூன்றாம் தவணை ஜனவரி 24ஆம் திகதியுடன் முடிவடையும் என்று கல்வி அமைச்சு விசேட அறிவிப்பு ஒன்றை வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/8b82e914.json)
+
+---
+
+### கேக் விற்பனையில் வீழ்ச்சி
+
+*2024-12-23 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-விற்பனையில்-வீழ்ச்சி/175-349134) · `ta`
+
+பண்டிகைக் காலங்களில் கேக் கொள்வனவு செய்யும் போது மக்கள் விலை தொடர்பில் அவதானமாக இருக்க வேண்டுமென அகில  இலங்கை பேக்கரி உற்பத்தியாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+கடந்த வருடத்தை விட இவ்வருடம் கேக் விலையில் சிறிதளவு குறைவு காணப்படுவதாக அதன் தலைவர் என்.கே.ஜயவர்தன தெரிவித்தார்.
+
+அவர் தொடர்ந்தும் கருத்து தெரிவிக்கையில், பொதுவாக பட்டர் கேக் ரூ.900 – ரூ.1200 இடையே விற்கப்படுகின்றது.
+
+தற்போதைய அரசாங்கத்துடன் பேச்சுவார்த்தை நடத்த சந்தர்ப்பம் கிடைத்திருந்தால் பேக்கரி பொருட்களின் விலைகளை குறைத்திருக்கலாம்.
+
+ஆனால் அவ்வாறான சந்தர்ப்பம் எங்களுக்கு வழங்கப்படவில்லை. கோதுமை மா, மாஜரின் விலைகளை அரசு தலையிட்டிருந்தால் குறைத்திருக்கலாம்.
+
+மக்கள் அவதானமாக இருங்கள். குறைந்த விலையில் தெரிவு செய்வது மக்கள் கைகளில் தான் இருக்கின்றது.
+
+◼️
+
+[Data](articles/e9575bbf.json)
 
 ---
 
@@ -2101,71 +2163,5 @@ Subsequently, the Mullaitivu police have taken the ammunition from the site.. It
 [Data](articles/fb1640f3.json)
 
 [Extended Data](ext_articles/fb1640f3.ext.json)
-
----
-
-### The degeneration of the national list tarpaulin
-
-*2024-12-22 18:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201896) · `ta`
-
-Sri Lanka's national list system criticized for favoring overlooked candidates over voter preferences. Transparency issues raise concerns about democratic representation.
-
-🟩
-
-Voters have the right to know what national list appointments are made. But for Sri Lanka, this is now seen as a cross -way mechanism for the people who are neglected by the people to return to Parliament.
-
-◼️
-
-[Data](articles/82f6ea43.json)
-
-[Extended Data](ext_articles/82f6ea43.ext.json)
-
----
-
-### Police launch special operation to inspect passenger transport buses during festive season
-
-*2024-12-22 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104422/police-launch-special-operation-to-inspect-passenger-transport-buses-during-festive-season) · `en`
-
-In response to the surge in accidents involving passenger transport buses and other vehicles, the Sri Lanka Police has announced that they will implement an island-wide traffic operation starting December 23, 2024.
-
-The initiative, spearheaded by the Acting Inspector General of Police, will continue throughout the festive season, aiming to enhance road safety and reduce accidents, the Police Media Division said.
-
-The operation will focus heavily on inspecting public passenger transport buses.
-
-Accordingly, the police officers will evaluate drivers to detect whether they are under the influence of alcohol or drugs. Buses will also be scrutinized for reckless driving, speeding, traffic violations, and mechanical defects, including unsafe tires. Stringent action will be taken against any violations to ensure public safety, the police added.
-
-...
-
-[Data](articles/119f5eb9.json)
-
-[Extended Data](ext_articles/119f5eb9.ext.json)
-
----
-
-### Special traffic operation from tomorrow - to inform these numbers
-
-*2024-12-22 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204615) · `si`
-
-Special traffic op starts tomorrow: Passenger bus inspections nationwide. Focus on drunk/drugged drivers & road rule violators. Public can report via short codes or divisional secretariats.
-
-🟩
-
-Police Media Division announced that a special traffic operation is being carried out with the inspection of passenger buses from tomorrow (23).
-
-The traffic operation is due to be carried out on the instructions of the acting IGP to minimize such accidents in view of passenger buses and other vehicles.
-
-Accordingly, a wide traffic operation island wide will be operated throughout the country until the end of the festive season.
-
-The mainly general passenger buses will be inspected, especially the bus drivers in the bus drivers, alcohol or other drugs.
-
-The statement also states that the buses are being carried out by buses and driving and violating road rules, violating road rules, violating road rules, and other bugs to drive the law.
-
-In addition, other traffic will also be inspected and the traffic officials have been deployed throughout the country.
-
-...
-
-[Data](articles/357059dd.json)
-
-[Extended Data](ext_articles/357059dd.ext.json)
 
 ---

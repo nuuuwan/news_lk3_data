@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 10:43:29**
+As of **2024-12-23 11:01:36**
 
 ## Newspaper Stats
 
-*Scraped **61,572** Articles*
+*Scraped **61,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,132 @@ economynextcom | 3,747
 dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,868
-adaderanalk | 7,509
+adaderanalk | 7,518
 tamilmirrorlk | 8,809
 virakesarilk | 10,178
-adaderanasinhalalk | 10,633
+adaderanasinhalalk | 10,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,325 (99.6%) of 61,572 articles have been extended.
+61,326 (99.6%) of 61,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### தரமற்ற 13 வகை மருந்துகள் அகற்றம்
+### තුර්කියේ හෙලිකොප්ටර් යානයක් කඩා වැටී 4ක් මරුට
+
+*2024-12-23 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204632) · `si`
+
+නිරිතදිග තුර්කියේ හෙලිකොප්ටර් යානයක් අනතුරට පත්වීමෙන් පුද්ගලයින් සිව් දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ හෙලිකොප්ටර් යානය රෝහල් ගොඩනැගිල්ලක ගැටීමෙන් අනතුරට පත්ව ඇති බවය.
+
+අනතුරට පත්වු යානය රෝහල් අවශ්‍යතා සඳහා භාවිතා කරන යානයක් වන අතර අනතුරින් යානයේ සිටි නියමුවන් දෙදෙනෙකු, වෛද්‍යවරයෙකු සහ තවත් සේවකයෙකු මියගොස් ඇති බව වාර්තා වේ.
+
+අධික මීදුම සහිත කාලගුණික තත්ත්වය අනතුරට හේතුව විය හැකි බව එරට බලධාරීන් ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/1b3de800.json)
+
+---
+
+### 10 killed after small plane crashes in Brazil’s Gramado
+
+*2024-12-23 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104436/10-killed-after-small-plane-crashes-in-brazils-gramado) · `en`
+
+A small plane crashed into a Brazilian town that’s popular with tourists on Sunday, killing all 10 passengers on board and injuring more than a dozen people on the ground, Brazil’s Civil Defense Agency said.
+
+The agency in a post on X said the plane hit the chimney of a home and then the second floor of a building before crashing into a mobile phone shop in a largely residential neighborhood of Gramado. More than a dozen people who were on the ground were taken to hospitals with injuries including smoke inhalation, with two said to be in critical condition.
+
+Local media reported that the plane was piloted by Luiz Claudio Galeazzi, a Brazilian businessman who was travelling with his family to Sao Paulo State. In a statement published on LinkedIn, Galeazzi’s company, Galeazzi & Associados, confirmed that the 61-year-old was on the plane, adding that he was traveling with his wife, their three daughters, several other family members and another company employee, who perished in the crash.
+
+...
+
+[Data](articles/5c3e4e21.json)
+
+---
+
+### MoE announcement on commencement of school term
+
+*2024-12-23 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104435/moe-announcement-on-commencement-of-school-term) · `en`
+
+The Ministry of Education (MoE) has issued a special announcement regarding the schedule for the second phase of the third school term in government and government-approved private schools for the academic year 2024.
+
+According to the MoE, the second phase of the third school term will commence on January 02, 2025, while the third school term in all schools will end on January 24, 2025.
+
+◼️
+
+[Data](articles/0cda2c63.json)
+
+---
+
+### Two arrested over threatening woman and demanding Rs. 1 mln ransom
+
+*2024-12-23 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104434/two-arrested-over-threatening-woman-and-demanding-rs-1-mln-ransom) · `en`
+
+The Western Province North Crime Division has arrested two individuals involved in an incident of demanding a ransom from a woman after issuing death threats to her over the phone.
+
+On December 4, a woman from the Dippitigoda area in Kelaniya had received a death threat from a drug trafficker based abroad, who had used other people to call her and demand a ransom of Rs. 1 million.
+
+The Western Province North Crime Division launched an investigation into the incident following a complaint received in this regard.
+
+Accordingly, two suspects, aged 35 and 53, residents of the Kelaniya area, were arrested last morning (22) in the Dalugama area of Kiribathgoda and the Pattiya Junction area of Peliyagoda.
+
+The Western Province North Crime Division is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/713fe990.json)
+
+---
+
+### Three more arrested in connection with Meegoda shooting
+
+*2024-12-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104433/three-more-arrested-in-connection-with-meegoda-shooting-) · `en`
+
+Three additional suspects have been arrested in connection with the shooting and killing of a man traveling in a car at Nagahawatte in Meegoda on December 14, according to the Police Media Division.
+
+The arrests were made last evening (22) in the Homagama and Meegoda police divisions. The suspects, aged 22, 26, and 38, are residents of Padukka and Meegoda.
+
+Investigations into the shooting are being carried out by the Meegoda Police Station and Western Province South Crime Division.
+
+Earlier, on December 19, police arrested two suspects—a primary participant in the crime and an accomplice—following their investigation. Information obtained during the interrogation of these suspects led to the arrest of the three additional individuals.
+
+Among the newly arrested suspects, one is identified as having accompanied the shooter during the crime, while the other two are accused of aiding, abetting, and conspiring to commit the murder.
+
+...
+
+[Data](articles/7103d69d.json)
+
+---
+
+### Removal of 13 non -standard drugs
 
 *2024-12-23 10:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-13-வகை-மருந்துகள்-அகற்றம்/175-349133) · `ta`
 
-இலங்கைக்கு இறக்குமதி செய்யப்பட்ட மேலும் 13 வகை மருந்துகள் முறையான தரமின்மை காரணமாக கடந்த இரண்டு வாரங்களுக்குள் பயன்பாட்டிலிருந்து விலக்கிக் கொள்ளப்பட்டுள்ளதாக வைத்தியர்கள் மற்றும் சிவில் உரிமைகள் சங்கத்தின் தலைவர் டொக்டர் சமல் சஞ்சீவ தெரிவித்துள்ளார்.
+Sri Lanka removes 13 substandard drugs; 300 excluded in 3 years; Ministry of Health criticized for lack of import quality control program.
 
-கடந்த வாரம் 8 மருந்து வகைகள்,  இவ்வாரம் ஐந்து மருந்து வகைகள்  உள்ளடங்கலாக பதின்மூன்று மருந்து வகைகள் இவ்வாறு அகற்றப்பட்டுள்ளதாகக் கூறும் நிபுணர் வைத்தியர், நீக்கப்பட்ட 8 வகையான மருந்துகள் தொடர்பில் குற்றப் புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு செய்ததாகவும் குறிப்பிட்டார்.
+🟩
 
-அவ்வாறான மருந்துகளை கொண்டு வந்தவர்கள் தொடர்பில் விசாரணை நடத்துமாறு முறைப்பாட்டில் கோரப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Doctors and Civil Rights Association President Dr. Samal Sanjeewa says that 13 more drugs imported to Sri Lanka have been excluded from use within the last two weeks due to lack of proper quality.
 
-இதேவேளை, கடந்த மூன்று வருடங்களில் மாத்திரம் சுமார் 300 மருந்து வகைகள் பாவனையிலிருந்து விலக்கப்பட்டுள்ளதாகவும், நிமோனியா, மூளைக் காய்ச்சல் உள்ளிட்ட பல தொற்று நிலைமைகளுக்குப் பயன்படுத்தப்படும் மருந்துகள்  சமல் சஞ்சீவ தெரிவித்தார்.
+Last week, the doctor, who claimed that thirteen drugs were removed, including 8 pharmaceuticals and five pharmaceuticals, said that the Criminal Investigation Department had lodged a complaint with the Criminal Investigation Department regarding 8 types of medications.
+
+He added that the complaint has been made to investigate those who have brought such drugs.
+
+Meanwhile, Samal Sanjeeva said that about 300 drugs have been excluded in the last three years, and drugs used for many infections, including pneumonia and brain fever.
+
+He noted that such substandard drugs are eliminated every week, but the Ministry of Health has not been able to establish a proper program on the importation of these drugs.
 
 ...
 
 [Data](articles/c9fe0792.json)
+
+[Extended Data](ext_articles/c9fe0792.ext.json)
 
 ---
 
@@ -168,6 +264,82 @@ Investigations revealed that the wire was broken while the student was leaning o
 
 ---
 
+### පාසල් ආරම්භය ගැන දැනුම්දීමක්
+
+*2024-12-23 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204631) · `si`
+
+2024 වර්ෂයේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරයේ දෙවන අදියර ආරම්භ කිරීම සම්බන්ධව අධ්‍යාපන අමාත්‍යංශය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන්ව ඇත්තේ තෙවන පාසල් වාරයේ දෙවන අදියර එළැඹෙන වසරේ 02 වැනි බ්‍රහස්පතින්දා දින ආරම්භ වන බවය.
+
+එමෙන්ම සියලු ම පාසල්වල තෙවන පාසල් වාරය එළැඹෙන ජනවාරි 24 දින අවසන් වන බවත් එම නිවේදනයේ වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/308ab995.json)
+
+---
+
+### Tri-Forces security for ex-presidents to be withdrawn from today
+
+*2024-12-23 09:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104432/tri-forces-security-for-ex-presidents-to-be-withdrawn-from-today) · `en`
+
+It has been decided to officially withdraw the tri-forces personnel assigned to the security of former presidents, effective from today (23).
+
+Speaking during a parliamentary session last week, Minister of Public Security Ananda Wijepala explained the decision to withdraw the tri-forces personnel deployed to secure former presidents.
+
+Accordingly, from today onwards, only police officers will provide security for former presidents.
+
+The number of police officers assigned to provide security for former presidents has also been reduced. However, the government has stated that an adequate number of officers will remain in place to ensure the safety of former presidents.
+
+Furthermore, the government emphasized that the security arrangements for former presidents will be reviewed every six months, and additional measures will be implemented as necessary.
+
+Despite the withdrawal of tri-forces personnel, the Ministry of Defense assured that the safety and security of former presidents will be assured.
+
+...
+
+[Data](articles/d781b859.json)
+
+---
+
+### රාජ්‍ය අංශය ඩිජිටල් කිරීම එළැඹෙන වසරේ සිට
+
+*2024-12-23 09:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204630) · `si`
+
+එළැඹෙන වසරේ දී මෙරට රාජ්‍ය අංශය ඩිජිටල්කරණය කිරීමේ ව්‍යාපෘතිය ආරම්භ කරන බව තරුණ කටයුතු නියෝජ්‍ය අමාත්‍ය එරංග ගුණසේකර මහතා පවසයි.
+
+කොළඹ ජාතික පුස්තකාලය හා ප්‍රලේඛන සේවා මණ්ඩල ශ්‍රවණාගාරයේදී පැවැති උත්සවයකට එක්වෙමින් ඔහු මේ බව පැවසීය.
+
+නියෝජ්‍ය අමාත්‍යවරයා පැවසුවේ එමඟින් මෙරට විශාල සමාජ පරිවර්තනයක් සිදු කිරීමට බලාපොරොත්තු වන බවය.
+
+"අපි ලබන වසරේ සිට සූදානම් වෙනවා අපේ රට ඩිජිටල්කරණය කරගැනීම සඳහා ඒ වගේම අප සූදානම් වෙනවා අපේ රටේ ක්ලීනින් ශ්‍රී ලංකා කියන වැඩසටහන වැඩපිළිවෙළේ යන්න."
+
+◼️
+
+[Data](articles/2c136faa.json)
+
+---
+
+### SLPP considers contesting LG elections separately
+
+*2024-12-23 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104431/slpp-considers-contesting-lg-elections-separately-) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) is reportedly leaning towards contesting the upcoming local government elections independently, according to party sources.
+
+The party is said to be exploring collaboration only with the Lanka Sama Samaja Party (LSSP), a key partner in their alliance.
+
+During a recent meeting of the SLPP’s political board and executive council, extensive discussions were held on these matters.
+
+A significant number of members supported the idea of the SLPP contesting the elections without forming alliances. However, some members expressed that this stance could change depending on future developments.
+
+The meeting also addressed the potential re-incorporation of individuals who left the party during the general election. While many council members advocated for welcoming back former members, a faction within the party opposed this move.
+
+◼️
+
+[Data](articles/f4dd4b81.json)
+
+---
+
 ### To restore Kachchativu - the resolution passed
 
 *2024-12-23 08:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சத்தீவை-மீட்க-வேண்டும்-தீர்மானம்-நிறைவேற்றப்பட்டது/175-349125) · `ta`
@@ -189,6 +361,62 @@ Meanwhile, a resolution has been passed at the Dravida Munnetra Kazhagam Executi
 [Data](articles/0bc401d2.json)
 
 [Extended Data](ext_articles/0bc401d2.ext.json)
+
+---
+
+### Customs says rice imports on hold until Gazette notification issued
+
+*2024-12-23 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104429/customs-says-rice-imports-on-hold-until-gazette-notification-issued) · `en`
+
+Sri Lanka Customs has announced that rice imports into the country will not be permitted under any circumstances until the relevant Gazette notification is issued.
+
+The period allocated to the private sector for rice imports expired on December 20, during which a total of 67,000 metric tons of rice were imported.
+
+However, the government recently announced an extension of the rice import period until January 10, 2025.
+
+Despite this announcement, Sri Lanka Customs clarified that, without the publication of the Gazette notification, rice imports cannot be processed or released to the local market, even with government intervention.
+
+Meanwhile, a government-imported stock of 52,000 metric tons of rice is expected to arrive in the country within the next few days.
+
+Government sources have indicated that the Gazette notification allowing rice imports will likely be issued following today’s (23) Cabinet meeting.
+
+...
+
+[Data](articles/16b72d3d.json)
+
+---
+
+### Trump threatens to retake control of Panama Canal
+
+*2024-12-23 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104428/trump-threatens-to-retake-control-of-panama-canal) · `en`
+
+President-elect Donald Trump threatened to reassert U.S. control over the Panama Canal on Sunday, accusing Panama of charging excessive rates to use the Central American passage and drawing a sharp rebuke from Panamanian President Jose Raul Mulino.
+
+Speaking to a crowd of supporters in Arizona, Trump also said he would not let the canal fall into the “wrong hands,” warning of potential Chinese influence on the passage.
+
+After the event, he posted an image on Truth Social of an American flag flying over a narrow body of water, with the comment: “Welcome to the United States Canal!”
+
+“Has anyone ever heard of the Panama Canal?” Trump said at AmericaFest, an annual event organized by Turning Point, an allied conservative group. “Because we’re being ripped off at the Panama Canal like we’re being ripped off everywhere else.”
+
+...
+
+[Data](articles/089bd9e7.json)
+
+---
+
+### Mainly fair weather expected to prevail today
+
+*2024-12-23 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104427/mainly-fair-weather-expected-to-prevail-today) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Southern and Uva provinces and in Rathnapura district during the evening or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern, and Uva provinces during the morning, the statement added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3df9cdf6.json)
 
 ---
 
@@ -1939,275 +2167,5 @@ In addition, other traffic will also be inspected and the traffic officials have
 [Data](articles/357059dd.json)
 
 [Extended Data](ext_articles/357059dd.ext.json)
-
----
-
-### Police launch special operation to inspect vehicles during festive season
-
-*2024-12-22 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104422/police-launch-special-operation-to-inspect-vehicles-during-festive-season) · `en`
-
-In response to the surge in accidents involving passenger transport buses and other vehicles, the Sri Lanka Police has announced that they will implement an island-wide traffic operation starting December 23, 2024.
-
-The initiative, spearheaded by the Acting Inspector General of Police, will continue throughout the festive season, aiming to enhance road safety and reduce accidents, the Police Media Division said.
-
-The operation will focus heavily on inspecting public passenger transport buses.
-
-Accordingly, the police officers will evaluate drivers to detect whether they are under the influence of alcohol or drugs. Buses will also be scrutinized for reckless driving, speeding, traffic violations, and mechanical defects, including unsafe tires. Stringent action will be taken against any violations to ensure public safety, the police added.
-
-...
-
-[Data](articles/ce3bbb8b.json)
-
-[Extended Data](ext_articles/ce3bbb8b.ext.json)
-
----
-
-### ඉන්ධන මිල සූත්‍රයට සංශෝධන ඉදිරියේදී කරනවා
-
-*2024-12-22 17:55:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සූත්‍රයට-සංශෝධන-ඉදිරියේදී-කරනවා/11-413783) · `si`
-
-පවතින නීතිමය පසුබිම තුළ පසුගිය රජය විසින් හඳුන්වාදුන් ඉන්ධන මිල සූත්‍රය පිළිගනිමින් ඒ අනුව කටයුතු කරන බවත්, මිල සූත්‍රය අධ්‍යයනය කර ඉදිරියේදී අවශ්‍ය සංශෝධන හඳුන්වා දීමට කටයුතු කරන බවත් පාර්ලිමේන්තුවේදී අනාවරණය විය.
-
-සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා වාචික පිළිතුරු අපේක්ෂාවෙන් යොමු කළ ප්‍රශ්නයකට බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා සභාගත කළ පිළිතුරේ මේ බව සඳහන් කර ඇත.
-
-මේ අතර 2024 සැප්තැම්බර් 21 වැනිදා සිට 2024 නොවැම්බර් 30 වැනිදා දක්වා වත්මන් ආණ්ඩුව යටතේ අවස්ථා  2කදී ඉන්ධන මිල සංශෝධනය සිදු කර ඇති බවත්, එම ඉන්ධන මිල සංශෝධනය මිල සූත්‍රය අනුව සිදු කළ බවත් එම පිළිතුරේ සඳහන් කර තිබේ.
-
-කෙසේ වෙතත් ඉන්ධන මිල සංශෝධනය සඳහා සපුගස්කන්ද ඉන්ධන පිරිපහදුවෙන් වන ලාභය හෝ අලාභය ගැලපීමන් සිදු කර නොමැති බවද එහි සඳහන් කර ඇත.
-
-මේ අතර ලෝක වෙළෙඳපොළේ ඉන්ධන මිල අඩුවීමේ වාසිය  මෙරට ඉන්ධන පාරිභෝගිකයන්ට මාසිකව ඉන්ධන මිලට ගැලපුම් කර ලබා දෙන බව අදාළ පිළිතුරේ වැඩිදුරටත් සඳහන් කර තිබේ.
-
-◼️
-
-[Data](articles/4252147a.json)
-
----
-
-### The latest operation to commence the police
-
-*2024-12-22 17:44:19* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසිය-ආරම්භ-කරන-අලුත්ම-මෙහෙයුම/11-413782) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Police operations begin nationwide, led by Acting IGP. Includes traffic management for all vehicles, including passenger buses. Will continue through the festive season.
-
-🟩
-
-Taking into consideration the acting IGP and other vehicles of other vehicles including passenger buses, including passenger buses and other traffic operation is across the country until the end of the festive season.
-
-◼️
-
-[Data](articles/b7995efa.json)
-
-[Extended Data](ext_articles/b7995efa.ext.json)
-
----
-
-### Three arrests with ice and heroin drug
-
-*2024-12-22 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/201893) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Police arrest 3 suspects: 1 with ice in Kudaputhgamuwa, 1 with heroin in Negombo, 1 in Ambalantota. Drugs & items seized. Suspects handed to local police stations."
-
-🟩
-
-Three suspects have been arrested by the police on Saturday (21) with ice and heroin drugs during rounds carried out by the Police Special Task Force.
-
-A suspect has been arrested with ice drugs in Kudaputhgamuwa area belonging to the Wellampitiya Police Division.
-
-817 grams of 800mm of ice, electronic scales and mobile telephones were seized by the police.
-
-Meanwhile, a suspect was arrested yesterday with heroin in the Negombo area of ​​Victor Ekanayakawatta, a police division of Kandana.
-
-The drug was seized by the police by the police.
-
-In addition, a suspect was arrested yesterday (21) in the Ambalantota Police Division in Nonagama.
-
-He was seized by the police by the police by the police.
-
-Subsequently, the suspects have been handed over to the Wellampitiya, Kandana and Ambalantota police stations for further investigations.
-
-◼️
-
-[Data](articles/aac12d68.json)
-
-[Extended Data](ext_articles/aac12d68.ext.json)
-
----
-
-### If the amendment is passed to demand nominations, the tasks for the local government elections can be carried out in February
-
-*2024-12-22 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/201901) · `ta`
-
-Local government elections timeline: Bill submission in January may lead to February polls, pending nominations and Supreme Court ruling on election date.
-
-🟩
-
-If the legislation is passed within next month to demand new nominations for the local government elections, the local government elections can be carried out by February.. Elections Commission Chairman RMAL Ratnayake said the local government elections would be announced in the first week of January.
-
-The President said that the President had stated that the local government elections would be held later after the New Year.
-
-We welcome the government's special attention to hold local government elections and provincial council elections. According to the CE, the Election Commission has been given the responsibility of holding the election in a timely manner.
-
-With appropriate measures to be taken to hold the local government elections in March last year, the financial and other factors were unable to hold elections for the purpose.. The Supreme Court has ruled that the local government elections will be held soon.
-
-...
-
-[Data](articles/425b46eb.json)
-
-[Extended Data](ext_articles/425b46eb.ext.json)
-
----
-
-### 13 No Speaking to Modi - Vijitha Herath
-
-*2024-12-22 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/201892) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: India relations shift as PM Modi visits next month. Western Mortgage Development Service non-compliance with Edka Agreement affects Sampur Solar project. Provincial council elections planned for 2024 to address constitutional issues.
-
-🟩
-
-The Western Mortgage Development Service from India from India. We have not complied with the Edka Agreement to the Sampur Solar Lighting Strip Strip Strip Strip.. We told India that the provincial council election will be held next year to solve the national issue of the new constitution. Sri Lanka -India relationship has gone to a new chapter next month. Prime Minister Modi will visit Sri Lanka.
-
-◼️
-
-[Data](articles/d5a31150.json)
-
-[Extended Data](ext_articles/d5a31150.ext.json)
-
----
-
-### US -Israeli genocide on Palestinians in Gaza
-
-*2024-12-22 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/201897) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US-Israeli conflict in Gaza: In 1948, President Harry Truman proposed creating Israel without consulting Palestinians. Most Jewish immigrants had never visited the land. This led to displacement and ongoing tensions between Israelis and Palestinians in Gaza.
-
-🟩
-
-I. Nearly two years after Na was established, US President Harry Truman, in November 1948, submitted a resolution to create a new country for the Jews.. But most of those Jews have not even seen the land.
-
-◼️
-
-[Data](articles/f14a6296.json)
-
-[Extended Data](ext_articles/f14a6296.ext.json)
-
----
-
-### A man arrested with domestic gun
-
-*2024-12-22 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201899) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-62-year-old man arrested with domestic gun in Mahathamana area by Police Special Task Force officers. Handed over to Aralangwila Police Station for further investigation on Saturday (21).
-
-🟩
-
-A suspect with a domestic gun was arrested by police on Saturday (21) in the Mahathamana area of ​​the Aralangwila police division.
-
-He was arrested during a raid carried out by the officers of the Aralakangwila camp of the Police Special Task Force.
-
-The arrested suspect is 62 years old from Mahadama.
-
-Subsequently, the suspect has been handed over to the Aralangwila Police Station for further investigation.
-
-◼️
-
-[Data](articles/fc9fbf14.json)
-
-[Extended Data](ext_articles/fc9fbf14.ext.json)
-
----
-
-### A nation is the same election: a description
-
-*2024-12-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201898) · `ta`
-
-India conducted simultaneous national elections from 1951 to 1967. This practice, known as "same election," refers to holding all parliamentary and state assembly polls on a single day. The rationale behind this approach includes efficiency in resource allocation and voter turnout. However, it also presents challenges such as coordinating across various states and managing potentially conflicting political agendas.
-
-🟩
-
-Conducting elections on the same day is not a new experience for India. From 1951 to 1967, that was the case.
-
-◼️
-
-[Data](articles/5059c85d.json)
-
-[Extended Data](ext_articles/5059c85d.ext.json)
-
----
-
-### Indoor
-
-*2024-12-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201900) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Chinese concessions expected as China works to resolve agreements with India. Indian media reports indicate increased flexibility from China regarding government contracts between the two nations.
-
-🟩
-
-The Indian media has also seen that China's concessions will be increasing during the journey of China to overcome the agreements with India's contracts with the government.
-
-◼️
-
-[Data](articles/d85f9428.json)
-
-[Extended Data](ext_articles/d85f9428.ext.json)
-
----
-
-### We will save the existence and move to the next level
-
-*2024-12-22 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/201885) · `ta`
-
-S1:0
-
-🟩
-
-The 13th Amendment is still unable to fully implement. Former President Ranil Wickremesinghe has announced that the 13th Amendment will be fully implemented during his reign in 2022. He held two -time all -party committees on the political solution of the ethnic problem. Various leaders have demanded the implementation of the 13th Amendment.
-
-◼️
-
-[Data](articles/e58dad9a.json)
-
-[Extended Data](ext_articles/e58dad9a.ext.json)
-
----
-
-### What will happen to the dollar reserves if vehicle imports are allowed?
-
-*2024-12-22 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201889) · `ta`
-
-Vehicle imports may boost rupee value, potentially increasing dollar reserves. This could lead to lower domestic car prices, benefiting consumers. However, economic impacts depend on various factors including trade policies and market conditions.
-
-🟩
-
-Will the value of vehicle imports increase the value of the rupee and the value of the rupee?Does that mean, the importation of vehicle increases the dollar?Will the prices of second -class vehicles at home decrease by allowing vehicle imports?How to resolve vehicles?What happens to the economy?
-
-◼️
-
-[Data](articles/9d82585c.json)
-
-[Extended Data](ext_articles/9d82585c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 14:43:25**
+As of **2024-12-23 15:01:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,351 (99.5%) of 61,629 articles have been extended.
+61,353 (99.6%) of 61,629 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -206,35 +206,47 @@ Students have informed the police that a close person gave them these currencies
 
 ---
 
-### கட்சித் தாவினார் சந்திரசேன
+### Party Tawar Chandrasena
 
 *2024-12-23 13:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தாவினார்-சந்திரசேன/175-349150) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் முன்னாள் பாராமன்ற உறுப்பினர் எஸ். எம். சந்திரசேன சர்வஜன சக்தி கட்சியின் உறுப்புரிமையை, திங்கட்கிழமை (23) பெற்றுக்கொண்டார்.
+S.M. Chandrasena joins Sarvaja Shakti Party, led by Dilith Jayaweera. Former MP for Anuradhapura District, he previously served in Sri Lanka PA ministries and ran in the last election with Ranil Wickremesinghe's Democratic Party.
 
-அக்கட்சியின் தலைவர், பாராளுமன்ற உறுப்பினர்  திலித் ஜயவீர, அவருக்கு கட்சி உறுப்புரிமை வழங்கி, சர்வஜன சக்தி கட்சியின் தலைமைத்துவ சபைக்கு நியமித்தார்.
+🟩
 
-எஸ். எம். சந்திரசேன, 2001 முதல் 2024 வரை அனுராதபுரம் மாவட்ட பாராளுமன்ற உறுப்பினராக பணியாற்றியதுடன் ஸ்ரீலங்கா பொதுஜன பெரமுன அரசாங்கத்தில் பல அமைச்சுப் பதவிகளையும் வகித்தார்.
+Former Member of the Sri Lanka PA. M.. Chandrasena obtained the membership of the Sarvaja Shakti Party on Monday (23).
 
-கடந்த பொதுத் தேர்தலில் முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான புதிய ஜனநாயகக் கட்சியில் இணைந்துகொண்டார்.
+The leader of the party, Dilith Jayaweera, gave him party membership and appointed the Sarvajam Shakti Party leadership council.
+
+S.. M.. Chandrasena served as a Member of Parliament for the Anuradhapura District from 2001 to 2024 and held several ministry posts in the Sri Lanka PA.
+
+He joined the new Democratic Party led by former President Ranil Wickremesinghe in the last general election.
 
 ◼️
 
 [Data](articles/ff16ceef.json)
 
+[Extended Data](ext_articles/ff16ceef.ext.json)
+
 ---
 
-### නොවැම්බර් මාසයේ සමස්ත අපනයන ආදායම ඉහළට
+### Total export earnings in November
 
 *2024-12-23 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204638) · `si`
 
-වෙළඳ භාණ්ඩ සහ සේවා යන දෙකම ඇතුළුව 2024 නොවැම්බර් මාසයේ සමස්ත අපනයනය එක්සත් ජනපද ඩොලර් මිලියන 1,269.33ක් ලෙස වාර්තා වී තිබේ.
+November 2024 exports: $1,269.33 million (merchandise & services). Compared to November 2023: $943.1 million increase.
 
-ශ්‍රී ලංකා රේගුව විසින් නිකුත් කරන ලද තාවකාලික දත්ත වලට අනුව, 2024 නොවැම්බර් මාසයේ දී වෙළඳ භාණ්ඩ අපනයන කාර්ය සාධනය එක්සත් ජනපද ඩොලර් මිලියන 943.1 ක් වූ අතර එය 2023 නොවැම්බර් මාසයට සාපේක්ෂව 5.6% ක පහත වැටීමකි.
+🟩
+
+The total exports of November 2024 including both merchandise and services have been reported in November 2024 as US $ 1,269.33 million.
+
+According to the temporary data issued by the Sri Lanka Customs, trade export performance in November 2024 was US $ 943.1 million in US $ 943.1 million compared to November 2023.
 
 ◼️
 
 [Data](articles/325a18fd.json)
+
+[Extended Data](ext_articles/325a18fd.ext.json)
 
 ---
 

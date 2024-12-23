@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 00:27:33**
+As of **2024-12-24 01:12:14**
 
 ## Newspaper Stats
 
-*Scraped **61,688** Articles*
+*Scraped **61,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,115 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,274
+dailyftlk | 4,280
 dailymirrorlk | 4,733
 adalk | 5,886
-adaderanalk | 7,534
+adaderanalk | 7,536
 tamilmirrorlk | 8,832
 virakesarilk | 10,192
-adaderanasinhalalk | 10,656
+adaderanasinhalalk | 10,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,396 (99.5%) of 61,688 articles have been extended.
+61,399 (99.5%) of 61,698 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-24 (Tuesday)
+
+### Can Sri Lanka avoid borrowing from international bondholders in the coming years?
+
+*2024-12-24 00:50:44* · [`dailyftlk`](https://www.ft.lk/columns/Can-Sri-Lanka-avoid-borrowing-from-international-bondholders-in-the-coming-years/4-770936) · `en`
+
+If we do not borrow externally in 2028, we will either default in 2028 or have to cut down our imports drastically
+
+Sri Lanka’s emergence from default status is positive news. This means we can gradually start borrowing once again from ISB bondholders when most external debt payments come due in 2028. Many Sri Lankans may inquire why we should borrow from bondholders again and if this is detrimental. Allow me to explain as simply as possible. It would be ideal if we never had to borrow from international capital markets. However, Sri Lanka does not have a choice at present.
+
+...
+
+[Data](articles/f457a427.json)
+
+---
+
+### Economic crisis and household debt in the north
+
+*2024-12-24 00:44:48* · [`dailyftlk`](https://www.ft.lk/columns/Economic-crisis-and-household-debt-in-the-north/4-770935) · `en`
+
+Household incomes are inadequate to keep up with rising living costs
+
+The current economic crisis cannot be resolved by households or social institutions alone, and loans are not the solution. The Government should introduce livelihood and income stabilisation programs to help people escape the debt trap. It should also leverage cooperatives to create markets and supply chains for rural production, while expanding affordable credit for rural livelihoods and small-scale industrial growth. Additionally, a universal social security program should be implemented
+
+...
+
+[Data](articles/ca8bf0fc.json)
+
+[Extended Data](ext_articles/ca8bf0fc.ext.json)
+
+---
+
+### Climate resilience: Critical need for Sri Lankan salt industry
+
+*2024-12-24 00:40:31* · [`dailyftlk`](https://www.ft.lk/columns/Climate-resilience-Critical-need-for-Sri-Lankan-salt-industry/4-770934) · `en`
+
+The recent salt shortage in the market, coupled with the Cabinet decision on 18 December 2024 to allow the import of 30,000 MT of non-iodised salt, has sparked widespread attention and discussions. Further, this decision has generated negative responses and uninformed statements from the general public, as well as politically driven media outlets. Despite the negativity surrounding this issue, the sudden attention on the Sri Lankan salt industry presents an opportunity to discuss the real situation and the importance of safeguarding this unique industry for future generations. Before delving into the specifics of the recent events, it is essential to establish an overview of the salt industry in Sri Lanka.
+
+...
+
+[Data](articles/52c5a834.json)
+
+---
+
+### Challenges of collaborative governance for Sri Lanka: Divided path ahead
+
+*2024-12-24 00:34:04* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-of-collaborative-governance-for-Sri-Lanka-Divided-path-ahead/4-770933) · `en`
+
+Long-standing political divisions and ideological differences among parties, both at the national and regional levels, often result in gridlock and hinder the formation of a united front
+
+Sri Lanka is at a crucial juncture in its history, facing numerous challenges that threaten the stability and future of the nation. While some argue that collaborative governance, involving cooperation among political parties and civil society, could offer a way forward, the realities of the current political landscape, economic difficulties, and social divisions suggest that this approach may face significant hurdles. The promise of collaboration is often idealised, but the deep-seated divisions within the country make it a far more complicated and potentially ineffective solution.
+
+...
+
+[Data](articles/a5c72120.json)
+
+---
+
+### Continuity in change
+
+*2024-12-24 00:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Continuity-in-change/4-770932) · `en`
+
+The baby is not being thrown out with the bath water by the new AKD Government
+
+Change was the platform on which President Anura Kumara Dissanayake (AKD) and later the National People’s Power (NPP) Government claimed power in the November 2024 elections. Change from the old ways of doing politics, of governance and in the way decisions are taken on behalf of the country and its people.
+
+And people fed up with the powers-that-be were seeking exactly that.
+
+Despite that, the NPP absolute majority was a bolt from the blue, even for the party itself. The NPP made pre-election statements, saying why it was not critical to get an absolute majority and why a simple majority would be enough to do its work.
+
+Yet the people spoke as one and by giving the party a full mandate to make changes, it gave AKD and his team a free hand to change the course of politics and governance in Sri Lanka.
+
+...
+
+[Data](articles/800a82bb.json)
+
+[Extended Data](ext_articles/800a82bb.ext.json)
+
+---
+
+### Sri Lanka’s public sector needs to undergo conceptual revolution
+
+*2024-12-24 00:25:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-public-sector-needs-to-undergo-conceptual-revolution/4-770931) · `en`
+
+Even though there are some entities which are relatively efficient, overall, Sri Lanka’s public sector is inefficient
+
+With power comes responsibility. With the new swearing-in of the new ministers, new blood is infused to the Government. However, public sector officials and their thinking patterns at the grassroot levels have not changed. With an inactive, inefficient public sector, can a government run a country and lead it to the utopia that we all think of? Let’s dive into this more deeply and see the depth of the problem.
+
+...
+
+[Data](articles/6040e06b.json)
+
+---
 
 ### 2024-12-23 (Monday)
 
@@ -55,6 +149,62 @@ The amount of rice brought to Sri Lanka during the time is 67,000 metric tons. R
 [Data](articles/d15ea0f2.json)
 
 [Extended Data](ext_articles/d15ea0f2.ext.json)
+
+---
+
+### ජනාධිපති අනුර නිලධාරීන්ට දුන් උපදෙස
+
+*2024-12-23 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204654) · `si`
+
+මුදල් විශුද්ධිකරණය වැළැක්වීම සහ ත්‍රස්තවාදයට මුදල් සැපයීම මැඬ පැවැත්වීම පිළිබඳ ආසියා ශාන්තිකර කණ්ඩායම විසින් පැවැත්වීමට නියමිත ශ්‍රී ලංකාවේ අන්‍යෝන්‍ය ඇගයීම සඳහා සූදානම් වීමේ වැදගත්කම පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (23) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+මෙම සාකච්ඡාව සඳහා අමාත්‍ය මණ්ඩලය, අමාත්‍යාංශ ලේකම්වරු, ශ්‍රී ලංකා මහ බැංකුවේ නිලධාරීහු සහ මුල්‍ය බුද්ධි ඒකකයේ නිලධාරීහු සහභාගි වූහ.
+
+අමාත්‍යාංශ, නියාමන ආයතන, නීතිය ක්‍රියාත්මක කිරීමේ නියෝජිත ආයතන ඇතුළුව, පාර්ශ්වකාර ආයතන 24ක් සඳහා සම්පාදනය කර ඇති අමාත්‍ය මණ්ඩල අනුමැතිය ලත් ක්‍රියාකාරී සැලසුම් ක්‍රියාත්මක කිරීමේ කඩිනම් අවශ්‍යතාව මෙහිදී මූල්‍ය බුද්ධි ඒකකය විසින් අවධාරණය කරන ලදී.
+
+මූල්‍ය ක්‍රියාකාරී කාර්ය සාධක බලකාය (FATF) විසින් සකස් කරන ලද නිර්දේශය ක්‍රියාත්මක කිරීම සඳහා නීතිමය ප්‍රතිසංස්කරණ, ධාරිතා ගොඩනැඟීම, වැඩිදියුණු කළ අන්තර් නියෝජිතායතන  සහයෝගීතාව සහ විස්තීර්ණ සංඛ්‍යා ලේඛන පවත්වා ගෙන යාම සඳහා මෙම ක්‍රියාකාරී සැලසුම තුළ ප්‍රමුඛතාව ලබාදෙයි.
+
+...
+
+[Data](articles/a0cc39a1.json)
+
+---
+
+### Biden commutes most federal death sentences
+
+*2024-12-23 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104454/biden-commutes-most-federal-death-sentences) · `en`
+
+US President Joe Biden has commuted the sentences of 37 out of 40 federal death row inmates, switching their penalty to life in prison without parole.
+
+The three excluded from the measure include the Boston Marathon bomber and the man who killed Jewish worshippers in 2018.
+
+In a statement, Biden said he was “more convinced than ever that we must stop the use of the death penalty at the federal level”. His measure does not include more than 2,000 people convicted to death by State authorities.
+
+Biden’s decision comes before the return of President-elect Donald Trump in January, who resumed federal executions when he was in office.
+
+Among those reprieved by Biden are nine people convicted of murdering fellow prisoners, four for murders committed during bank robberies and one who killed a prison guard.
+
+“Make no mistake: I condemn these murderers, grieve for the victims of their despicable acts, and ache for all the families who have suffered unimaginable and irreparable loss,” Biden added.
+
+...
+
+[Data](articles/b7889138.json)
+
+---
+
+### President leads discussion on Sri Lanka’s framework for combating money laundering and terrorism financing
+
+*2024-12-23 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104453/president-leads-discussion-on-sri-lankas-framework-for-combating-money-laundering-and-terrorism-financing) · `en`
+
+A high-level discussion on the critical preparations for Sri Lanka’s upcoming Mutual Evaluation (ME) by the Asia/Pacific Group on Money Laundering (APG) was held today (23) at the Presidential Secretariat under the patronage of President Anura Kumara Disanayake.
+
+The meeting focused on preventing money laundering and countering terrorism financing (AML/CFT) and included participation from cabinet ministers, ministry secretaries, officials from the Central Bank of Sri Lanka, and the Financial Intelligence Unit (FIU), the President’s Media Division (PMD) reported.
+
+The FIU highlighted the urgent implementation of cabinet-approved action plans involving 24 key institutions, including regulatory bodies and law enforcement agencies. These plans prioritize legal reforms, capacity building, enhanced inter-agency cooperation, and maintaining comprehensive records to meet the Financial Action Task Force (FATF) recommendations effectively.
+
+...
+
+[Data](articles/d43b0eb8.json)
 
 ---
 
@@ -85,6 +235,28 @@ In addition, Hatton police have also announced that legal action will be taken a
 [Data](articles/a373fb34.json)
 
 [Extended Data](ext_articles/a373fb34.ext.json)
+
+---
+
+### වෙළෙඳ ඇමති ආනයනකරුවන්ට දුන් පොරොන්දුව
+
+*2024-12-23 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204653) · `si`
+
+සහල් හිඟය තවමත් පැවතීම හේතුවෙන් එළැඹෙන ජනවාරි මස 10 වැනිදා දක්වා සහල් ආනයනය කිරීම සඳහා අවසර ලබාදීමට වෙළෙඳ අමාත්‍යවරයා එකඟ වූ බව අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය ආනයනකරුවන්ගේ සංගමය පවසයි.
+
+අද (23) පැවති සාකච්ඡාවකින් පසු ආනයනකරුවන් පැවසුවේ, ඊට අදාළ යෝජනාව අමාත්‍යවරයා අද රැස්වන කැබිනට් මණ්ඩලයට ඉදිරිපත් කිරීමට නියමිතව ඇති බවය.
+
+වෙළෙඳපොළේ පවතින සහල් අර්බුදයට විසඳුමක් ලෙස සහල් ආනයනය සඳහා ලබාදී තිබූ කාලය දෙසැම්බර් 20 වැනිදායින් අවසන් වූ අතර මේ දක්වා මෙරටට ගෙන්වා තිබූ සහල් ප්‍රමාණය මෙට්‍රික්ටොන් 67,000කි.
+
+කෙසේවෙතත්, රජයේ පාර්ශ්වයෙන් ආනයනය කෙරෙන මෙට්‍රික්ටොන් 70,000ක සහල් තොගයේ පළමු තොගය වන රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව ඇණවුම් කළ මෙට්‍රික්ටොන් 5,200ක තොගය කොළඹ වරායට ළඟාවීමට නියමිතව ඇත්තේ හෙට (24) දිනයේදීය.
+
+එමෙන්ම රජය ඇණවුම් කර ඇති සෙසු තොග ගෙන්වීමේ කටයුතු අවසන් කිරීම ලබන සතිය තුළ සිදුකෙරෙන බවද රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව අද දෙරණ කළ විමසීමේදී සඳහන් කළේය.
+
+පෞද්ගලික අංශය ද තවත් සහල් තොග ආනයනය කිරීමේ අරමුණින් ආනයනකරුවන්ගේ සංගමය ලෙස වෙළෙඳ අමාත්‍යවරයාට ඊයේ ලිපියක් භාර දී තිබුණි.
+
+◼️
+
+[Data](articles/4778c1a2.json)
 
 ---
 
@@ -817,6 +989,8 @@ Accordingly, this appointment will come into effect from today (23).
 ◼️
 
 [Data](articles/b301abdf.json)
+
+[Extended Data](ext_articles/b301abdf.ext.json)
 
 ---
 
@@ -2053,221 +2227,5 @@ Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/
 ◼️
 
 [Data](articles/76fb2678.json)
-
----
-
-### 50 elephants die because of unauthorized power wires
-
-*2024-12-23 11:08:11* · [`adalk`](https://www.ada.lk/breaking_news/අනවසර-විදුලි-රැහැන්-නිසා-වන-අලි-50ක්-මැරිලා/11-413789) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-50 elephants electrocuted due to unauthorized power lines. Ceylon Electricity Board investigates & takes action. Contact: 011-11118767
-
-🟩
-
-The Ceylon Electricity Board (CEB) announced that 50 elephants have been killed in unauthorized electricity to unauthorized electricity from the CEB.
-
-The CEB is already measures regarding these illegal acts and the CEB is already underway to be given the instant number or 011-11118767.
-
-◼️
-
-[Data](articles/514f248c.json)
-
-[Extended Data](ext_articles/514f248c.ext.json)
-
----
-
-### செல்பியால் நேர்ந்த விபரீதம் ; ரயில் மோதி இருவர் உயிரிழப்பு!
-
-*2024-12-23 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/201936) · `ta`
-
-காங்கேசன்துறையிலிருந்து கொழும்பு கோட்டை நோக்கி சென்றுகொண்டிருந்த கடுகதி ரயிலில் மோதி பாடசாலை மாணவி ஒருவரும் பெண் ஒருவரும் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
-
-அநுராதபுரம் பொலிஸ் பிரிவின் புதிய நகரம் ரயில் நிலையத்திற்கு அருகில் நேற்று ஞாயிற்றுக்கிழமை (22)  இச்சம்பவம் இடம்பெற்றுள்ளதாக விசாரணைகளை மேற்கொண்டுவரும் பொலிஸார் குறிப்பிட்டனர்.
-
-இரத்தினபுரி, ஷீ பலாபத்தல பகுதியை வசிப்பிடமாக கொண்ட 18 வயதுடைய பாடசாலை மாணவி ஒருவரும் மற்றுமொரு மாணவியுடைய 37 வயதுடைய தாய் ஒருவருமே சம்பவத்தில் உயிரிழந்துள்ளார்கள் என்பது தெரியவந்துள்ளது.
-
-சம்பவம் பற்றி மேலும் தெரியவருவதாவது, அநுராதபுரம் மக்கள் பொது விளையாட்டு மைதானத்தில் இடம்பெற்ற டைக்கொண்டோ விளையாட்டு போட்டியில் கலந்துகொள்ள இரத்தினபுரியில் இருந்து அநுராதபுரத்திற்கு வருகை தந்துள்ளனர்.
-
-உயிரிழந்த இரு பெண்களும் இளைஞன் ஒருவருடன் இணைந்து ரயில் வீதியில் செல்பி புகைப்படம் எடுக்கும் போது இந்த சம்பவம் இடம்பெற்றுள்ளதாக ஆரம்பகட்ட பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/4eb8cb0a.json)
-
----
-
-### Public sector is digital in New Year
-
-*2024-12-23 10:55:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுவருடத்தில்-டிஜிட்டல்-மயமாகும்-பொதுத்துறை/175-349136) · `ta`
-
-Sri Lanka's public sector to go digital in 2024: Deputy Minister Eranga Gunasekera announces "Cleaning Sri Lanka" program at National Library event.
-
-🟩
-
-Deputy Minister of Youth Affairs Eranga Gunasekera said that the project to digitize Sri Lanka's public sector in the coming year will be launched.
-
-He was speaking at an event held at the National Library and the Archives of the National Library and the Documentary Services Board.
-
-The Deputy Minister said that the country is looking forward to a massive social change in the country.
-
-“We are preparing to digitize our country from next year, and we are preparing to launch a program called Cleining Sri Lanka,” he said.
-
-◼️
-
-[Data](articles/6ebfce88.json)
-
-[Extended Data](ext_articles/6ebfce88.ext.json)
-
----
-
-### Four killed in helicopter in Turkey
-
-*2024-12-23 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204632) · `si`
-
-Turkey: Helicopter crash kills four near hospital. Pilot, doctor, worker among dead. Weather cited as possible cause.
-
-🟩
-
-Four persons were killed in a helicopter in Southwestern Turkey.
-
-Foreign media reports that helicopopter was crashed with a hospital building.
-
-The aircraft was a plane used for hospital needs and two pilots and a doctor and another worker have died.
-
-Authorities have stated that the cause of high fog of weather conditions can be the cause of the accident.
-
-◼️
-
-[Data](articles/1b3de800.json)
-
-[Extended Data](ext_articles/1b3de800.ext.json)
-
----
-
-### 10 killed after small plane crashes in Brazil’s Gramado
-
-*2024-12-23 10:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104436/10-killed-after-small-plane-crashes-in-brazils-gramado) · `en`
-
-A small plane crashed into a Brazilian town that’s popular with tourists on Sunday, killing all 10 passengers on board and injuring more than a dozen people on the ground, Brazil’s Civil Defense Agency said.
-
-The agency in a post on X said the plane hit the chimney of a home and then the second floor of a building before crashing into a mobile phone shop in a largely residential neighborhood of Gramado. More than a dozen people who were on the ground were taken to hospitals with injuries including smoke inhalation, with two said to be in critical condition.
-
-Local media reported that the plane was piloted by Luiz Claudio Galeazzi, a Brazilian businessman who was travelling with his family to Sao Paulo State. In a statement published on LinkedIn, Galeazzi’s company, Galeazzi & Associados, confirmed that the 61-year-old was on the plane, adding that he was traveling with his wife, their three daughters, several other family members and another company employee, who perished in the crash.
-
-...
-
-[Data](articles/5c3e4e21.json)
-
-[Extended Data](ext_articles/5c3e4e21.ext.json)
-
----
-
-### Notification on the beginning of school
-
-*2024-12-23 10:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்த-அறிவிப்பு/175-349135) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-School starts Aug 2, 2024. Third term ends Jan 24, 2025. Ministry of Education announcement.
-
-🟩
-
-It is reported that the second phase of the third installment of the year 2024 will commence on Thursday, the 2nd of this month.
-
-The Ministry of Education has issued a special announcement that the third term in all schools will be completed on January 24.
-
-◼️
-
-[Data](articles/8b82e914.json)
-
-[Extended Data](ext_articles/8b82e914.ext.json)
-
----
-
-### Fall in the sale of cake
-
-*2024-12-23 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-விற்பனையில்-வீழ்ச்சி/175-349134) · `ta`
-
-Cake sales decline; bakery association warns of high prices during festivals. Leader suggests prices slightly lower than last year but urges consumers to be cautious.
-
-🟩
-
-The All Ceylon Bakery Manufacturers Association has said that people should be careful about the price of people during the festive season.
-
-Its leader NK Jayawardena said the price of the cake was slightly lower than last year.
-
-He continued, "Butter cake is usually sold between Rs. 900 - Rs.
-
-The price of bakery goods could have been reduced if there was an opportunity to negotiate with the current government.
-
-But we have not been given such a chance. Wheat mango may have reduced the prices of magic if the government intervened.
-
-Be careful with people. The lowest choice is in the hands of people.
-
-◼️
-
-[Data](articles/e9575bbf.json)
-
-[Extended Data](ext_articles/e9575bbf.ext.json)
-
----
-
-### Air accident that killed for the pilot and his family
-
-*2024-12-23 10:34:58* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-නියමුවාට-සහ-ඔහුගේ-පවුලේ-10-දෙනෙකුට-මරු-කැඳවූ-ගුවන්-අනතුර/11-413788) · `si`
-
-Brazilian plane crash kills pilot, family, injures 17; 2 critically hurt.
-
-🟩
-
-Ten persons were killed in a private aircraft in Brazil.
-
-Foreign media reports that his family including the pilot and his family have died.
-
-The airplane was damaged in a house and a shop and 17 people were injured when the aircraft was damaged.
-
-Foreign media added that two of the injured were in critical condition.
-
-◼️
-
-[Data](articles/5c5996dc.json)
-
-[Extended Data](ext_articles/5c5996dc.ext.json)
-
----
-
-### MoE announcement on commencement of school term
-
-*2024-12-23 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104435/moe-announcement-on-commencement-of-school-term) · `en`
-
-The Ministry of Education (MoE) has issued a special announcement regarding the schedule for the second phase of the third school term in government and government-approved private schools for the academic year 2024.
-
-According to the MoE, the second phase of the third school term will commence on January 02, 2025, while the third school term in all schools will end on January 24, 2025.
-
-◼️
-
-[Data](articles/0cda2c63.json)
-
-[Extended Data](ext_articles/0cda2c63.ext.json)
-
----
-
-### தங்களது பிரச்சினைகளை அரசாங்கம் நேரடியாக தீர்த்துவைக்க வேண்டும் என்று விரும்பும் சிறுபான்மைச் சமூகங்கள்
-
-*2024-12-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201930) · `ta`
-
-சமாதானத்தை கட்டியெழுப்புவதற்காக பாடுபடும் வேறு அமைப்புக்களுடன் சேர்ந்து போரினல் பாதிக்கப்பட்ட பெண்கள் சங்கம் ஏற்பாடு செய்திருந்த  " சமூக ஒருங்கிணைப்பு மற்றும் சகவாழ்வின் ஊடாக சமாதானமான பன்முக இலங்கை ஒன்றை கட்டியெழுப்புதல்" என்ற மகாநாடொன்றில் தேசிய ஒருங்கிணைப்பு பிரதியமைச்சர் முனீர் முலாபரின் பங்கேற்பு முக்கியமான ஒரு நிகழ்வாக அமைந்தது. தேசிய ஒருங்கிணைப்பில் அரசாங்கத்துக்கு இருக்கும் பற்றுறுதி தொடர்பாக அமைச்சர் சொல்வன்மையுடன் பேசினார்.
-
-சகல மதங்களையும் சேர்ந்த மதகுருமார்கள், சிவில் சமூக அமைப்புகள் மற்றும்  கல்விச் சமூகத்தைச் சேர்ந்தவர்கள், வெளிநாடுகளின் தூதரகங்களின் இராஜதந்திரிகள் என்று 150 க்கும் அதிகமானவர்கள் மகாநாட்டில் பங்கேற்றார்கள். அமைச்சரின் பங்கேற்பும் உரையும் மகாநாட்டில் பங்கேற்றவர்களுக்கும் பொதுவில் நாட்டுக்கும் இரு முக்கியமான சமிக்ஞைகளை கொடுத்தது. தேசிய நல்லிணக்கச் செயன்முறை காலத்துக்கும் முயற்சிக்கும் தகுதியானதாக இருக்கவேண்டும் என்று அரசாங்கம் கருதுகின்றது என்பது ஒரு செய்தி. சிவில் சமூகத்தினதும் குடிமக்களினதும் பணி நாட்டின் நல்வாழ்வுக்கு முக்கியமானது என்பது மற்றைய செய்தி.
-
-...
-
-[Data](articles/4f1fb20e.json)
 
 ---

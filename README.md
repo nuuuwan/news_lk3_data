@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 00:42:46**
+As of **2024-12-24 00:27:33**
 
 ## Newspaper Stats
 
-*Scraped **61,690** Articles*
+*Scraped **61,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,276
+dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,534
@@ -26,45 +26,9 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,397 (99.5%) of 61,690 articles have been extended.
+61,396 (99.5%) of 61,688 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-24 (Tuesday)
-
-### Continuity in change
-
-*2024-12-24 00:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Continuity-in-change/4-770932) · `en`
-
-The baby is not being thrown out with the bath water by the new AKD Government
-
-Change was the platform on which President Anura Kumara Dissanayake (AKD) and later the National People’s Power (NPP) Government claimed power in the November 2024 elections. Change from the old ways of doing politics, of governance and in the way decisions are taken on behalf of the country and its people.
-
-And people fed up with the powers-that-be were seeking exactly that.
-
-Despite that, the NPP absolute majority was a bolt from the blue, even for the party itself. The NPP made pre-election statements, saying why it was not critical to get an absolute majority and why a simple majority would be enough to do its work.
-
-Yet the people spoke as one and by giving the party a full mandate to make changes, it gave AKD and his team a free hand to change the course of politics and governance in Sri Lanka.
-
-...
-
-[Data](articles/800a82bb.json)
-
----
-
-### Sri Lanka’s public sector needs to undergo conceptual revolution
-
-*2024-12-24 00:25:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-public-sector-needs-to-undergo-conceptual-revolution/4-770931) · `en`
-
-Even though there are some entities which are relatively efficient, overall, Sri Lanka’s public sector is inefficient
-
-With power comes responsibility. With the new swearing-in of the new ministers, new blood is infused to the Government. However, public sector officials and their thinking patterns at the grassroot levels have not changed. With an inactive, inefficient public sector, can a government run a country and lead it to the utopia that we all think of? Let’s dive into this more deeply and see the depth of the problem.
-
-...
-
-[Data](articles/6040e06b.json)
-
----
 
 ### 2024-12-23 (Monday)
 
@@ -853,8 +817,6 @@ Accordingly, this appointment will come into effect from today (23).
 ◼️
 
 [Data](articles/b301abdf.json)
-
-[Extended Data](ext_articles/b301abdf.ext.json)
 
 ---
 
@@ -2277,5 +2239,35 @@ Foreign media added that two of the injured were in critical condition.
 [Data](articles/5c5996dc.json)
 
 [Extended Data](ext_articles/5c5996dc.ext.json)
+
+---
+
+### MoE announcement on commencement of school term
+
+*2024-12-23 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104435/moe-announcement-on-commencement-of-school-term) · `en`
+
+The Ministry of Education (MoE) has issued a special announcement regarding the schedule for the second phase of the third school term in government and government-approved private schools for the academic year 2024.
+
+According to the MoE, the second phase of the third school term will commence on January 02, 2025, while the third school term in all schools will end on January 24, 2025.
+
+◼️
+
+[Data](articles/0cda2c63.json)
+
+[Extended Data](ext_articles/0cda2c63.ext.json)
+
+---
+
+### தங்களது பிரச்சினைகளை அரசாங்கம் நேரடியாக தீர்த்துவைக்க வேண்டும் என்று விரும்பும் சிறுபான்மைச் சமூகங்கள்
+
+*2024-12-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201930) · `ta`
+
+சமாதானத்தை கட்டியெழுப்புவதற்காக பாடுபடும் வேறு அமைப்புக்களுடன் சேர்ந்து போரினல் பாதிக்கப்பட்ட பெண்கள் சங்கம் ஏற்பாடு செய்திருந்த  " சமூக ஒருங்கிணைப்பு மற்றும் சகவாழ்வின் ஊடாக சமாதானமான பன்முக இலங்கை ஒன்றை கட்டியெழுப்புதல்" என்ற மகாநாடொன்றில் தேசிய ஒருங்கிணைப்பு பிரதியமைச்சர் முனீர் முலாபரின் பங்கேற்பு முக்கியமான ஒரு நிகழ்வாக அமைந்தது. தேசிய ஒருங்கிணைப்பில் அரசாங்கத்துக்கு இருக்கும் பற்றுறுதி தொடர்பாக அமைச்சர் சொல்வன்மையுடன் பேசினார்.
+
+சகல மதங்களையும் சேர்ந்த மதகுருமார்கள், சிவில் சமூக அமைப்புகள் மற்றும்  கல்விச் சமூகத்தைச் சேர்ந்தவர்கள், வெளிநாடுகளின் தூதரகங்களின் இராஜதந்திரிகள் என்று 150 க்கும் அதிகமானவர்கள் மகாநாட்டில் பங்கேற்றார்கள். அமைச்சரின் பங்கேற்பும் உரையும் மகாநாட்டில் பங்கேற்றவர்களுக்கும் பொதுவில் நாட்டுக்கும் இரு முக்கியமான சமிக்ஞைகளை கொடுத்தது. தேசிய நல்லிணக்கச் செயன்முறை காலத்துக்கும் முயற்சிக்கும் தகுதியானதாக இருக்கவேண்டும் என்று அரசாங்கம் கருதுகின்றது என்பது ஒரு செய்தி. சிவில் சமூகத்தினதும் குடிமக்களினதும் பணி நாட்டின் நல்வாழ்வுக்கு முக்கியமானது என்பது மற்றைய செய்தி.
+
+...
+
+[Data](articles/4f1fb20e.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 02:43:09**
+As of **2024-12-24 03:12:35**
 
 ## Newspaper Stats
 
-*Scraped **61,699** Articles*
+*Scraped **61,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,281
+dailyftlk | 4,286
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,536
-tamilmirrorlk | 8,832
+tamilmirrorlk | 8,833
 virakesarilk | 10,192
 adaderanasinhalalk | 10,658
 
@@ -26,11 +26,105 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,404 (99.5%) of 61,699 articles have been extended.
+61,406 (99.5%) of 61,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Indian CEO Forum, Employers’ Federation hold talks
+
+*2024-12-24 02:59:27* · [`dailyftlk`](https://www.ft.lk/business/Indian-CEO-Forum-Employers-Federation-hold-talks/34-770969) · `en`
+
+The Indian CEO Forum (ICF) President Kishore Reddy (centre) last week met with the Employers’ Federation of Ceylon (EFC) Chairman Dinesh Weerakkody (right) and Director General Vajira Ellepola for an initial discussion on areas of collaboration. The ICF is the premier body representing Indian investments in Sri Lanka, encompassing some of the country’s oldest and largest foreign direct investments, as well as Indian professionals leading major companies, significantly contributing to the local economy. Established in 1929, EFC serves as the national employers’ organisation in Sri Lanka.
+
+◼️
+
+[Data](articles/060284a4.json)
+
+---
+
+### Great Western Estate  achieves all-time record price
+
+*2024-12-24 02:57:35* · [`dailyftlk`](https://www.ft.lk/business/Great-Western-Estate-achieves-all-time-record-price/34-770968) · `en`
+
+Great Western Estate, situated in the heart of the Dimbula Valley, is famous for its quality tea. At the last sale of the year 2024, Great Western Estate achieved an all-time record price of Rs. 2,900 per kg for a Dust1 grade, which was purchased by M/s Heritage Teas Ltd.
+
+This estate is certified under ISO 14001:2015 and ISO 9001:2015 for its Quality Management System (QMS) and is also Rainforest Alliance certified.
+
+Nestled in Sri Lanka’s high grown region, the estate is identified as one of the country’s most innovative tea producers. Its teas embody exceptional quality, setting both local and international benchmarks in price, quality, food safety, and social and environmental sustainability.
+
+Great Western Estate is managed by Talawakelle Tea Estates PLC, a subsidiary of Hayleys Group of Companies, under the stewardship of Deputy General Manager Sarath Ranaweera.
+
+◼️
+
+[Data](articles/c083a892.json)
+
+---
+
+### Autodrome announces new appointments to Board
+
+*2024-12-24 02:55:13* · [`dailyftlk`](https://www.ft.lk/business/Autodrome-announces-new-appointments-to-Board/34-770967) · `en`
+
+Autodrome PLC has announced the appointment of Jitendra Daulagala and Chiranthi Cooray as Independent Non-Executive Directors to its Board with effect from 31 December 2024.
+
+Daulagala began his career as an Accounts Trainee at Warner Lambert Lanka Ltd., before moving on to roles such as Accountant at the Industrial Brush division of Eastern Merchants PLC and Credit Officer at Commercial Leasing PLC.
+
+He currently serves as the Managing Director and Group Financial Director of iOM Lanka Ltd., (formerly EDS).
+
+Daulagala is an Associate of the Chartered Institute of Management Accountants (CIMA, UK) and holds a Master’s in Management Studies from the University of Essex (UK). He was an active member of the Executive Council of the Federation of Information Technology Industry Sri Lanka (FITIS), serving as its Treasurer from 2012 to 2013.
+
+...
+
+[Data](articles/9a4269d2.json)
+
+---
+
+### LKI-ICRC seminar discusses contemporary challenges concerning AI and Autonomous Weapons Systems
+
+*2024-12-24 02:48:12* · [`dailyftlk`](https://www.ft.lk/news/LKI-ICRC-seminar-discusses-contemporary-challenges-concerning-AI-and-Autonomous-Weapons-Systems/56-770966) · `en`
+
+The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), in collaboration with the International Committee of the Red Cross (ICRC) hosted a panel discussion titled, “Artificial Intelligence (AI), Autonomous Weapons Systems (AWS) and contemporary challenges” at the LKI Lighthouse Auditorium on 19 December 2024.
+
+It was attended by diplomats, representatives of international organisations, senior officials of relevant Ministries and agencies, military personnel, leading researchers and university students.
+
+...
+
+[Data](articles/034c2688.json)
+
+[Extended Data](ext_articles/034c2688.ext.json)
+
+---
+
+### USAID collaborates with Open University to offer first certificate program in migration law and policy
+
+*2024-12-24 02:40:53* · [`dailyftlk`](https://www.ft.lk/news/USAID-collaborates-with-Open-University-to-offer-first-certificate-program-in-migration-law-and-policy/56-770965) · `en`
+
+The United States through the United States Agency for International Development (USAID) yesterday announced the successful completion of the first certificate program in migration law and policy in Sri Lanka by 69 professionals who now have the tools and knowledge to take the fight against human trafficking back to their communities.
+
+The six-month course was a joint effort between USAID’s “Empowering Civil Society to Combat Human Trafficking” project (ECCT) and the Open University of Sri Lanka (OUSL). The SAFE Foundation implements ECCT. This course on migration and law marked the first ever collaboration between a civil society organisation and a leading Sri Lankan university to provide a structured academic course.
+
+...
+
+[Data](articles/5bcf63bd.json)
+
+---
+
+### ஜனாதிபதி அலுவலகத்தில் நத்தார் கெரோல் இசை
+
+*2024-12-24 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-நத்தார்-கெரோல்-இசை/175-349187) · `ta`
+
+ஜனாதிபதி அலுவலகம், முப்படையினர், பொலிஸார் இணைந்து வருடாந்தம் நடத்தும் நத்தார் விசேட கரோல் இசை நிகழ்ச்சி, தொழில் அமைச்சரும், பொருளாதார அபிவிருத்தி பிரதி அமைச்சருமான அனில் ஜயந்த பெர்னாண்டோ தலைமையில் நேற்று முன்தினம் ஆரம்பமானது.
+
+நத்தார் கெரோல் இசை நிகழ்ச்சியை முன்னிட்டு ஜனாதிபதி அலுவலக வளாகம் மற்றும் அதனைச் சூழவுள்ள பகுதிகள் மின்னொளியால் அலங்கரிக்கப்பட்டிருந்ததோடு இலங்கை இராணுவத்தின் பாடல் குழு மற்றும் இசைக்குழுவினரால் நத்தார் கெரோல் கச்சேரி நிகழ்த்தப்பட்டது.
+
+இந்த கிறிஸ்மஸ் கெரோல் இசை நிகழ்ச்சி நாளை 25 ஆம் திகதி வரை தினமும் இரவு 7.00 மணி முதல் ஜனாதிபதி செயலக வளாகத்தில் நடைபெறவுள்ளது. (a)
+
+◼️
+
+[Data](articles/64991007.json)
+
+---
 
 ### Sri Lankan exporters attend world’s largest food innovation exhibition in Paris
 
@@ -176,21 +270,29 @@ The amount of rice brought to Sri Lanka during the time is 67,000 metric tons. R
 
 ---
 
-### ජනාධිපති අනුර නිලධාරීන්ට දුන් උපදෙස
+### Advice from Presidential Officers
 
 *2024-12-23 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204654) · `si`
 
-මුදල් විශුද්ධිකරණය වැළැක්වීම සහ ත්‍රස්තවාදයට මුදල් සැපයීම මැඬ පැවැත්වීම පිළිබඳ ආසියා ශාන්තිකර කණ්ඩායම විසින් පැවැත්වීමට නියමිත ශ්‍රී ලංකාවේ අන්‍යෝන්‍ය ඇගයීම සඳහා සූදානම් වීමේ වැදගත්කම පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් අද (23) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+Sri Lankan President Anura Kumara Dissanayake led a meeting on preventing money laundering and funding terrorism. The Finance Intelligence Unit stressed implementing cabinet-approved measures. The President instructed dedicated teams to ensure plan consistency, emphasizing financial system stability and economic growth while combating terrorism.
 
-මෙම සාකච්ඡාව සඳහා අමාත්‍ය මණ්ඩලය, අමාත්‍යාංශ ලේකම්වරු, ශ්‍රී ලංකා මහ බැංකුවේ නිලධාරීහු සහ මුල්‍ය බුද්ධි ඒකකයේ නිලධාරීහු සහභාගි වූහ.
+🟩
 
-අමාත්‍යාංශ, නියාමන ආයතන, නීතිය ක්‍රියාත්මක කිරීමේ නියෝජිත ආයතන ඇතුළුව, පාර්ශ්වකාර ආයතන 24ක් සඳහා සම්පාදනය කර ඇති අමාත්‍ය මණ්ඩල අනුමැතිය ලත් ක්‍රියාකාරී සැලසුම් ක්‍රියාත්මක කිරීමේ කඩිනම් අවශ්‍යතාව මෙහිදී මූල්‍ය බුද්ධි ඒකකය විසින් අවධාරණය කරන ලදී.
+President Anura Kumara Dissanayake was held at the Presidential Secretariat today (23) under the patronage of a discussion of the Sri Lankan team to prevent money laundering and supplying funds to terrorism.
 
-මූල්‍ය ක්‍රියාකාරී කාර්ය සාධක බලකාය (FATF) විසින් සකස් කරන ලද නිර්දේශය ක්‍රියාත්මක කිරීම සඳහා නීතිමය ප්‍රතිසංස්කරණ, ධාරිතා ගොඩනැඟීම, වැඩිදියුණු කළ අන්තර් නියෝජිතායතන  සහයෝගීතාව සහ විස්තීර්ණ සංඛ්‍යා ලේඛන පවත්වා ගෙන යාම සඳහා මෙම ක්‍රියාකාරී සැලසුම තුළ ප්‍රමුඛතාව ලබාදෙයි.
+Cabinet of Ministers, Ministry Secretaries, Central Bank of Sri Lanka and Finance Intelligence Unit were also present.
+
+The Finance Intelligence Unit emphasized the immediate need to implement the approved Cabinet approval, including ministries, regulatory agencies, law enforcement agencies.
+
+The Action Plan provides priority to the implementation of legal reforms, the capacity building, improved interven agency cooperation, improved interven agency cooperation and comprehensive statistics.
+
+President Anura Kumara Dissanayake instructed the Financial Intelligence Unit, Ministers, Secretaries, and officials to appoint dedicated groups to ensure full consistency with these plans.
 
 ...
 
 [Data](articles/a0cc39a1.json)
+
+[Extended Data](ext_articles/a0cc39a1.ext.json)
 
 ---
 
@@ -2109,129 +2211,5 @@ A newspaper editorial suggested that the NPP government is facing its December t
 ◼️
 
 [Data](articles/6d792364.json)
-
----
-
-### கல்கிரியாகம பகுதியில் மின்சாரம் தாக்கி ஒருவர் மரணம் !
-
-*2024-12-23 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/201944) · `ta`
-
-கல்கிரியாகம பொலிஸ் பிரிவுக்குட்பட்ட பெல்பெதியாவ பகுதியில் மின்சாரம் தாக்கி ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-யானைகளிடம் இருந்து நெல் வயலைப் பாதுகாப்பதற்காக சட்டவிரோதமாக பாய்ச்சப்பட்ட மின்கம்பியில் மின்சாரம் தாக்கி மரணம் ஏற்பட்டுள்ளதாக தற்போதைய விசாரணையில் தெரியவந்துள்ளது.
-
-மேலும், சடலம் அனுராதபுரம் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், கல்கிரியாகம பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/17380c07.json)
-
----
-
-### The beginning of the hearing
-
-*2024-12-23 11:45:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகள்-ஆரம்பம்/175-349146) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Megodapoisar: Western Province Southern Criminal Investigation unit investigating shooting incident in Nahawatte area, Megodapolis division.
-
-🟩
-
-Meegodapoisar and Western Province Southern Criminal Investigation (Southern Province Southern Crime Unit has begun investigations into the incident of the victim of the shooting on a car passenger in the Nahawatte area under the Megodapolis division.
-
-◼️
-
-[Data](articles/4fac40a9.json)
-
-[Extended Data](ext_articles/4fac40a9.ext.json)
-
----
-
-### Special security measures across the country
-
-*2024-12-23 11:37:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-சிறப்பு-பாதுகாப்பு-நடவடிக்கைகள்/175-349145) · `ta`
-
-Security measures: Police, armed forces protect churches nationwide. 6,500 officers deployed in Western Province. 2,000 churches secured. Civil committees established. Special Task Force involved. Military assistance if needed. Traffic monitoring during festivals.
-
-🟩
-
-Special security measures will be taken by the police and the armed forces in all churches across the country to mark the rituals.
-
-Police said that a comprehensive security program would be implemented across the country ahead of the Nathar and festive season and the police and SDF had been appointed to ensure the safety of the public.
-
-Police Media Spokesperson Senior Superintendent of Police Buddhika Manathanga has issued a directive to the Inspector General of Police in response to all senior officers and OICs to make necessary arrangements for security.
-
-Senior Superintendent of Police Manadunga said that more than 6,500 officers in the Western Province have been deployed in the Western Province to maintain security and order.
-
-It is reported that more than 2000 churches across the country are scheduled to be held on the day of the day.
-
-...
-
-[Data](articles/111c0e91.json)
-
-[Extended Data](ext_articles/111c0e91.ext.json)
-
----
-
-### Install holiday announcement
-
-*2024-12-23 11:36:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவணை-விடுமுறை-அறிவிப்பு/175-349144) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Second phase of third term for state schools starts January 1, 2025. Third term concludes January 24, 2025.
-
-🟩
-
-"The second phase of the third term for state schools and state -owned private schools for state schools and state -owned private schools will commence on Thursday, 2025.01.01. The third term of all schools will be completed on 2025.01.24."
-
-◼️
-
-[Data](articles/978a770b.json)
-
-[Extended Data](ext_articles/978a770b.ext.json)
-
----
-
-### Sri Lanka ASPI hits 15,000 mark
-
-*2024-12-23 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-aspi-hits-15000-mark-195888/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange All Share Price Index went beyond the 15,000 mark hitting a new record.
-
-The broader ASPI was up at 15,027 in mid-morning trade; while the more liquid S&P SL20 Index was at 4,494.
-
-Sri Lanka stocks have been on a bull run amid low interest rates and banks awash in excess liquidity in the last quarter making margin loans cheap.
-
-The market also has had positive news, with improvements in banking sector, conclusion of debt restructuring.
-
-Fitch Ratings also upgraded Sri Lanka out of the default rating. (Colombo/Dec23/2024)
-
-◼️
-
-[Data](articles/258cb363.json)
-
-[Extended Data](ext_articles/258cb363.ext.json)
-
----
-
-### මාලිමාවේ සංගමයක සාමාජිකත්වය ගත් පිරිසකට ලංකා කම්කරු කොංග්‍රසයේ සාමාජිකයා පහරදීලා
-
-*2024-12-23 11:16:50* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමාවේ-සංගමයක-සාමාජිකත්වය-ගත්-පිරිසකට-ලංකා-කම්කරු-කොංග්‍රසයේ-සාමාජිකයා-පහරදීලා/11-413790) · `si`
-
-ජාතික ජන බලවේගයට අනුබද්ධ සමස්ත ලංකා වතු කම්කරු සංගමයේ සමාජිකත්වය ලබාගත් එකම පවුලේ තිදෙනෙකුට ලංකා කම්කරු කොන්ග්‍රසයේ ආධාරකරුවෙකු පහර දුන්නේ යැයි කියන සිද්ධියක් සම්බන්ධයෙන් ලද පැමිණිල්ලක් මත එම ආධාරකරුවා (22) දින අත්අඩංගුවට ගත් බව නොර්වුඩ් පොලිසියේ ස්ථානාධිපති පොලිස් පරික්ෂක රාජනායක පැවසිය.
-
-නොර්වුඩ් පොලිස් වසමට අයත් නිව්ටන් වතුයායේ පදිංචි ලංකා කම්කරු කොන්ග්‍රසයේ හිටපු ආධාරකරුවෙකු ඔහුගේ බිරිද සහ දෙළොස් හැවිරිදි පිරිමි දරුවාට සැකකරු විසින් (22) දින පස්වරුවේ පහර දි තුවාල සිදු කර ඇති බවයි ස්ථානාධිපතිවරයා කියා සිටියේ.
-
-පහර කැමෙන් තුවාල ලැබු තිදෙනා දික්ඔය මුලික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබයි.
-
-...
-
-[Data](articles/c4844e0b.json)
 
 ---

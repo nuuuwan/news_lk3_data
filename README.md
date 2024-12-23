@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 00:27:33**
+As of **2024-12-24 00:59:15**
 
 ## Newspaper Stats
 
-*Scraped **61,688** Articles*
+*Scraped **61,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
 economynextcom | 3,757
-dailyftlk | 4,274
+dailyftlk | 4,279
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,534
@@ -26,9 +26,87 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,396 (99.5%) of 61,688 articles have been extended.
+61,398 (99.5%) of 61,693 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-24 (Tuesday)
+
+### Economic crisis and household debt in the north
+
+*2024-12-24 00:44:48* · [`dailyftlk`](https://www.ft.lk/columns/Economic-crisis-and-household-debt-in-the-north/4-770935) · `en`
+
+Household incomes are inadequate to keep up with rising living costs
+
+The current economic crisis cannot be resolved by households or social institutions alone, and loans are not the solution. The Government should introduce livelihood and income stabilisation programs to help people escape the debt trap. It should also leverage cooperatives to create markets and supply chains for rural production, while expanding affordable credit for rural livelihoods and small-scale industrial growth. Additionally, a universal social security program should be implemented
+
+...
+
+[Data](articles/ca8bf0fc.json)
+
+---
+
+### Climate resilience: Critical need for Sri Lankan salt industry
+
+*2024-12-24 00:40:31* · [`dailyftlk`](https://www.ft.lk/columns/Climate-resilience-Critical-need-for-Sri-Lankan-salt-industry/4-770934) · `en`
+
+The recent salt shortage in the market, coupled with the Cabinet decision on 18 December 2024 to allow the import of 30,000 MT of non-iodised salt, has sparked widespread attention and discussions. Further, this decision has generated negative responses and uninformed statements from the general public, as well as politically driven media outlets. Despite the negativity surrounding this issue, the sudden attention on the Sri Lankan salt industry presents an opportunity to discuss the real situation and the importance of safeguarding this unique industry for future generations. Before delving into the specifics of the recent events, it is essential to establish an overview of the salt industry in Sri Lanka.
+
+...
+
+[Data](articles/52c5a834.json)
+
+---
+
+### Challenges of collaborative governance for Sri Lanka: Divided path ahead
+
+*2024-12-24 00:34:04* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-of-collaborative-governance-for-Sri-Lanka-Divided-path-ahead/4-770933) · `en`
+
+Long-standing political divisions and ideological differences among parties, both at the national and regional levels, often result in gridlock and hinder the formation of a united front
+
+Sri Lanka is at a crucial juncture in its history, facing numerous challenges that threaten the stability and future of the nation. While some argue that collaborative governance, involving cooperation among political parties and civil society, could offer a way forward, the realities of the current political landscape, economic difficulties, and social divisions suggest that this approach may face significant hurdles. The promise of collaboration is often idealised, but the deep-seated divisions within the country make it a far more complicated and potentially ineffective solution.
+
+...
+
+[Data](articles/a5c72120.json)
+
+---
+
+### Continuity in change
+
+*2024-12-24 00:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Continuity-in-change/4-770932) · `en`
+
+The baby is not being thrown out with the bath water by the new AKD Government
+
+Change was the platform on which President Anura Kumara Dissanayake (AKD) and later the National People’s Power (NPP) Government claimed power in the November 2024 elections. Change from the old ways of doing politics, of governance and in the way decisions are taken on behalf of the country and its people.
+
+And people fed up with the powers-that-be were seeking exactly that.
+
+Despite that, the NPP absolute majority was a bolt from the blue, even for the party itself. The NPP made pre-election statements, saying why it was not critical to get an absolute majority and why a simple majority would be enough to do its work.
+
+Yet the people spoke as one and by giving the party a full mandate to make changes, it gave AKD and his team a free hand to change the course of politics and governance in Sri Lanka.
+
+...
+
+[Data](articles/800a82bb.json)
+
+[Extended Data](ext_articles/800a82bb.ext.json)
+
+---
+
+### Sri Lanka’s public sector needs to undergo conceptual revolution
+
+*2024-12-24 00:25:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-public-sector-needs-to-undergo-conceptual-revolution/4-770931) · `en`
+
+Even though there are some entities which are relatively efficient, overall, Sri Lanka’s public sector is inefficient
+
+With power comes responsibility. With the new swearing-in of the new ministers, new blood is infused to the Government. However, public sector officials and their thinking patterns at the grassroot levels have not changed. With an inactive, inefficient public sector, can a government run a country and lead it to the utopia that we all think of? Let’s dive into this more deeply and see the depth of the problem.
+
+...
+
+[Data](articles/6040e06b.json)
+
+---
 
 ### 2024-12-23 (Monday)
 
@@ -817,6 +895,8 @@ Accordingly, this appointment will come into effect from today (23).
 ◼️
 
 [Data](articles/b301abdf.json)
+
+[Extended Data](ext_articles/b301abdf.ext.json)
 
 ---
 
@@ -2163,111 +2243,5 @@ Local media reported that the plane was piloted by Luiz Claudio Galeazzi, a Braz
 [Data](articles/5c3e4e21.json)
 
 [Extended Data](ext_articles/5c3e4e21.ext.json)
-
----
-
-### Notification on the beginning of school
-
-*2024-12-23 10:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்த-அறிவிப்பு/175-349135) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-School starts Aug 2, 2024. Third term ends Jan 24, 2025. Ministry of Education announcement.
-
-🟩
-
-It is reported that the second phase of the third installment of the year 2024 will commence on Thursday, the 2nd of this month.
-
-The Ministry of Education has issued a special announcement that the third term in all schools will be completed on January 24.
-
-◼️
-
-[Data](articles/8b82e914.json)
-
-[Extended Data](ext_articles/8b82e914.ext.json)
-
----
-
-### Fall in the sale of cake
-
-*2024-12-23 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-விற்பனையில்-வீழ்ச்சி/175-349134) · `ta`
-
-Cake sales decline; bakery association warns of high prices during festivals. Leader suggests prices slightly lower than last year but urges consumers to be cautious.
-
-🟩
-
-The All Ceylon Bakery Manufacturers Association has said that people should be careful about the price of people during the festive season.
-
-Its leader NK Jayawardena said the price of the cake was slightly lower than last year.
-
-He continued, "Butter cake is usually sold between Rs. 900 - Rs.
-
-The price of bakery goods could have been reduced if there was an opportunity to negotiate with the current government.
-
-But we have not been given such a chance. Wheat mango may have reduced the prices of magic if the government intervened.
-
-Be careful with people. The lowest choice is in the hands of people.
-
-◼️
-
-[Data](articles/e9575bbf.json)
-
-[Extended Data](ext_articles/e9575bbf.ext.json)
-
----
-
-### Air accident that killed for the pilot and his family
-
-*2024-12-23 10:34:58* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-නියමුවාට-සහ-ඔහුගේ-පවුලේ-10-දෙනෙකුට-මරු-කැඳවූ-ගුවන්-අනතුර/11-413788) · `si`
-
-Brazilian plane crash kills pilot, family, injures 17; 2 critically hurt.
-
-🟩
-
-Ten persons were killed in a private aircraft in Brazil.
-
-Foreign media reports that his family including the pilot and his family have died.
-
-The airplane was damaged in a house and a shop and 17 people were injured when the aircraft was damaged.
-
-Foreign media added that two of the injured were in critical condition.
-
-◼️
-
-[Data](articles/5c5996dc.json)
-
-[Extended Data](ext_articles/5c5996dc.ext.json)
-
----
-
-### MoE announcement on commencement of school term
-
-*2024-12-23 10:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104435/moe-announcement-on-commencement-of-school-term) · `en`
-
-The Ministry of Education (MoE) has issued a special announcement regarding the schedule for the second phase of the third school term in government and government-approved private schools for the academic year 2024.
-
-According to the MoE, the second phase of the third school term will commence on January 02, 2025, while the third school term in all schools will end on January 24, 2025.
-
-◼️
-
-[Data](articles/0cda2c63.json)
-
-[Extended Data](ext_articles/0cda2c63.ext.json)
-
----
-
-### தங்களது பிரச்சினைகளை அரசாங்கம் நேரடியாக தீர்த்துவைக்க வேண்டும் என்று விரும்பும் சிறுபான்மைச் சமூகங்கள்
-
-*2024-12-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/201930) · `ta`
-
-சமாதானத்தை கட்டியெழுப்புவதற்காக பாடுபடும் வேறு அமைப்புக்களுடன் சேர்ந்து போரினல் பாதிக்கப்பட்ட பெண்கள் சங்கம் ஏற்பாடு செய்திருந்த  " சமூக ஒருங்கிணைப்பு மற்றும் சகவாழ்வின் ஊடாக சமாதானமான பன்முக இலங்கை ஒன்றை கட்டியெழுப்புதல்" என்ற மகாநாடொன்றில் தேசிய ஒருங்கிணைப்பு பிரதியமைச்சர் முனீர் முலாபரின் பங்கேற்பு முக்கியமான ஒரு நிகழ்வாக அமைந்தது. தேசிய ஒருங்கிணைப்பில் அரசாங்கத்துக்கு இருக்கும் பற்றுறுதி தொடர்பாக அமைச்சர் சொல்வன்மையுடன் பேசினார்.
-
-சகல மதங்களையும் சேர்ந்த மதகுருமார்கள், சிவில் சமூக அமைப்புகள் மற்றும்  கல்விச் சமூகத்தைச் சேர்ந்தவர்கள், வெளிநாடுகளின் தூதரகங்களின் இராஜதந்திரிகள் என்று 150 க்கும் அதிகமானவர்கள் மகாநாட்டில் பங்கேற்றார்கள். அமைச்சரின் பங்கேற்பும் உரையும் மகாநாட்டில் பங்கேற்றவர்களுக்கும் பொதுவில் நாட்டுக்கும் இரு முக்கியமான சமிக்ஞைகளை கொடுத்தது. தேசிய நல்லிணக்கச் செயன்முறை காலத்துக்கும் முயற்சிக்கும் தகுதியானதாக இருக்கவேண்டும் என்று அரசாங்கம் கருதுகின்றது என்பது ஒரு செய்தி. சிவில் சமூகத்தினதும் குடிமக்களினதும் பணி நாட்டின் நல்வாழ்வுக்கு முக்கியமானது என்பது மற்றைய செய்தி.
-
-...
-
-[Data](articles/4f1fb20e.json)
 
 ---

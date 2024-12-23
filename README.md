@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 16:27:10**
+As of **2024-12-23 16:42:50**
 
 ## Newspaper Stats
 
-*Scraped **61,633** Articles*
+*Scraped **61,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,730
 economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,875
+adalk | 5,876
 adaderanalk | 7,522
-tamilmirrorlk | 8,824
+tamilmirrorlk | 8,826
 virakesarilk | 10,186
 adaderanasinhalalk | 10,644
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,361 (99.6%) of 61,633 articles have been extended.
+61,362 (99.6%) of 61,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### ஞானசார தேரர் ஆஜர்: பிடியாணை மீள பெறப்பட்டது
+
+*2024-12-23 16:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரர்-ஆஜர்-பிடியாணை-மீள-பெறப்பட்டது/175-349165) · `ta`
+
+இஸ்லாத்தை அவமதித்த மற்றும் மத நல்லிணக்கத்திற்கு இடையூறு விளைவித்ததாக குற்றம் சுமத்தப்பட்டுள்ள பொதுபல சேனா அமைப்பின் தலைவர் கலபட அத்தே ஞானசார தேரரை கைது செய்து ஆஜர்படுத்துமாறு பிறப்பிக்கப்பட்ட பிடியாணையை மீளப்பெறுமாறு கொழும்பு மேலதிக நீதவான் மஞ்சுள ரத்நாயக்க திங்கட்கிழமை (23) உத்தரவிட்டுள்ளார்.
+
+சம்பவம் தொடர்பில் கொழும்பு குற்றத்தடுப்பு பிரிவினால் தாக்கல் செய்யப்பட்ட வழக்கில் ஞானசார தேரர் ஆஜராகாத காரணத்தினால் மேலதிக நீதவான்  பசன் அமரசேனவினால் இந்த பிடியாணை கடந்த 19 ஆம் திகதி பிறப்பிக்கப்பட்டது. ஞானசார தேரர்  நீதிமன்றத்தில் திங்கட்கிழமை (23) ஆஜரானார்.
+
+சஞ்சய் ஆரியதாசவின் அறிவுறுத்தலின் பேரில் சந்தேகநபர் சார்பில் ஆஜரான சட்டத்தரணி இசுரு எதிரிசிங்க, வழக்கின் தீர்ப்பு வழங்கப்படவிருந்த கடந்த 19ஆம் திகதி சந்தேகநபர்,உடல்நலக்குறைவு காரணமாக மருத்துவமனையில் இருந்ததால்.  நீதிமன்றில் ஆஜராக முடியாமல் போனதாக தெரிவித்தார்.
+
+அவர் மீண்டும் வைத்தியசாலையில், செவ்வாய்க்கிழமை (24)  அனுமதிக்கப்படுவார் என அவர் மேலும் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/467d61a7.json)
+
+---
+
+### முன்னாள் ஜனாதிபதிகளிடம் இருந்து  முப்படையினர் நீக்கம்
+
+*2024-12-23 16:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளிடம்-இருந்து-முப்படையினர்-நீக்கம்/175-349162) · `ta`
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு கடமைகளில் ஈடுபடுத்தப்பட்டிருந்த முப்படை வீரர்களை திங்கட்கிழமை (23) முதல் அமுலாகும் வகையில் நீக்கப்பட்டுள்ளனர்.
+
+இந்த விடயம் தொடர்பில் முப்படைத் தளபதிகளுக்கும் உரிய ஆலோசனைகள் வழங்கப்பட்டுள்ளதாகப் பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+அதற்கமைய, முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பிற்காக பொலிஸ் அதிகாரிகள் மாத்திரம் தொடர்ந்தும் கடமையில் ஈடுபடுவார்கள் என பாதுகாப்பு அமைச்சு குறிப்பிட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு கடமைகளில் போதுமான அளவு பொலிஸ் உத்தியோகத்தர்கள் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு தொடர்பில் 6 மாதங்களுக்கு ஒருமுறை மீளாய்வு செய்யப்பட்டுப் பாதுகாப்பு நடைமுறைகளில் மாற்றத்தை ஏற்படுத்த நடவடிக்கை எடுக்கப்படும் என பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/9ba71d30.json)
+
+---
 
 ### Kesalgamuwa is chased away
 
@@ -97,6 +135,18 @@ At the same time, the S&P SL20 code, which tracks the most active stocks, reache
 [Data](articles/329b6369.json)
 
 [Extended Data](ext_articles/329b6369.ext.json)
+
+---
+
+### පොහොට්ටුවේ ප්‍රබලයෙක් දිලිත් සමග එකතු වෙයි
+
+*2024-12-23 15:11:13* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-ප්‍රබලයෙක්-දිලිත්-සමග-එකතු-වෙයි/11-413795) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.චන්ද්‍රසේන මහතා පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා නායකත්වය දරණ සර්වජන බලය සමග එක්ව තිබේ.
+
+◼️
+
+[Data](articles/2ec42400.json)
 
 ---
 
@@ -446,21 +496,27 @@ Save my name, email, and website in this browser for the next time I comment.
 
 ---
 
-### கலாநிதி ஆயிஷா  தலைவராக நியமனம்
+### Appointment of Dr. Aisha as Chairman
 
 *2024-12-23 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-ஆயிஷா-தலைவராக-நியமனம்/175-349148) · `ta`
 
-தேசிய கைவினைப் பேரவையின் தலைவராக வடிவமைப்பு மற்றும் தயாரிப்பு மேம்பாட்டில் நிபுணரான கலாநிதி ஆயிஷா விக்கிரமசிங்க நியமிக்கப்பட்டுள்ளார்.
+Dr. Aisha Wickremesinghe appointed Chairman National Craft Council. Expert in fashion design & product dev. Senior lecturer at Uni. Moratuwa since 2006. Holds degrees from UK & SL universities. Promotes local crafts under Ministry of Industry & Entrepreneurship Dev.
 
-கைத்தொழில் மற்றும் தொழில் முனைவோர் மேம்பாட்டு அமைச்சகத்தின் கீழ் இயங்கும் தேசிய கைவினைக் கவுன்சில், உள்ளூர் கைவினைத் துறையை மேம்படுத்துவதிலும் மேம்படுத்துவதிலும் முக்கியப் பங்காற்றுகிறது.
+🟩
 
-கலாநிதி விக்கிரமசிங்க மொரட்டுவ பல்கலைக்கழகத்தில் சிரேஷ்ட விரிவுரையாளராக 2006 ஆம் ஆண்டு முதல் பெஷன் டிசைன் மற்றும் தயாரிப்பு மேம்பாட்டில் நிபுணத்துவம் பெற்றுள்ளார். இலங்கை, ஐக்கிய இராச்சியம் மற்றும் அமெரிக்காவிலிருந்து விளம்பரம் மற்றும் வடிவமைப்பில் விரிவான தொழில்முறை அனுபவத்தையும் கொண்டுள்ளார்.
+Dr. Aisha Wickremesinghe has been appointed as the Chairman of the National Craft Council on design and product development.
 
-காலி சவுத்லண்ட்ஸ் கல்லூரியின் பழைய மாணவரான கலாநிதி விக்கிரமசிங்க மொரட்டுவ பல்கலைக்கழகத்தில் ஆடை வடிவமைப்பு மற்றும் தயாரிப்பு மேம்பாடு ஆகியவற்றில் முதல் தரத்தில் பட்டம் பெற்றார். அவர் லண்டனில் உள்ள கலைப் பல்கலைக்கழகத்தில் முதுகலைப் பட்டமும், இலங்கையின் காட்சி மற்றும் நிகழ்த்துக் கலைப் பல்கலைக்கழகத்தில் முனைவர் பட்டமும் பெற்றுள்ளார்.
+The National Craft Council, which is under the Ministry of Industry and Entrepreneurship Development, plays an important role in improvement and promoting the local crafts.
+
+Dr. Wickremesinghe has been a senior lecturer at the University of Moratuwa since 2006 to specialize in Fashion Design and Product Development. He has a comprehensive professional experience in advertising and design from Sri Lanka, the United Kingdom and the United States.
+
+Dr. Wickremesinghe, an alumnus of Galle Southlands College. He holds a Masters Degree from the University of Arts in London and a doctorate at the University of Arts in Sri Lanka.
 
 ◼️
 
 [Data](articles/247cc694.json)
+
+[Extended Data](ext_articles/247cc694.ext.json)
 
 ---
 
@@ -2115,71 +2171,5 @@ During the proceedings, the defendants agreed to adhere to the Supreme Court’s
 [Data](articles/8953f205.json)
 
 [Extended Data](ext_articles/8953f205.ext.json)
-
----
-
-### Arulsamy appointed Vice President of Democratic People’s Front
-
-*2024-12-23 02:57:31* · [`dailyftlk`](https://www.ft.lk/news/Arulsamy-appointed-Vice-President-of-Democratic-People-s-Front/56-770916) · `en`
-
-The Democratic People’s Front (DPF), a prominent member of the Tamil Progressive Alliance and a key partner of the Samagi Jana Balawegaya (SJB) coalition, appointed Barath Arulsamy as the party’s new Vice President.
-
-The decision was made during a politburo meeting held in Colombo under the leadership of party Leader MP Mano Ganesan.
-
-The meeting, attended by General Secretary Murugesu Paranitharan, Vice Chair Sasikumar, district organisers from across the country, and senior party members, focused on reviewing the party’s progress and strategies.
-
-Discussions highlighted the party’s impressive performance in the recent Parliamentary Election, where its candidates achieved significant support despite facing challenges. The politburo also deliberated on strategies for the upcoming local Government Council Elections.
-
-...
-
-[Data](articles/83364a97.json)
-
-[Extended Data](ext_articles/83364a97.ext.json)
-
----
-
-### Continuing cooperation to win the challenges of education - Asian Development Bank
-
-*2024-12-23 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/201918) · `ta`
-
-Asian Development Bank representatives assure continued cooperation with Prime Minister on education challenges. Meeting focuses on school infrastructure, teacher training, and implementing new education policies.
-
-🟩
-
-Representatives of the Asian Development Bank have assured the Prime Minister that they will cooperate with the success of the challenges that have been achieved in the education sector through a series of cooperation.
-
-The meeting between Dakabumi Kadono, Director of the Resident Development Committee of the Asian Development Bank and the Prime Minister Harini Amarasuriya was held on Sunday (22) at the Ministry of Education.
-
-The Asian Development Bank of India is the main activist in the development of Sri Lanka. The first phase of the National Development of Sri Lanka was a special focus on the new education system restructuring.
-
-Similarly, Prime Minister Harini Amarasuriya has made a statement on the importance of schools' infrastructure development, teacher -chancellor training and technical use to successfully implement the new education policy.
-
-...
-
-[Data](articles/e3b877ae.json)
-
-[Extended Data](ext_articles/e3b877ae.ext.json)
-
----
-
-### British High Commissioner praises Govt. for economic progress
-
-*2024-12-23 02:56:25* · [`dailyftlk`](https://www.ft.lk/business/British-High-Commissioner-praises-Govt-for-economic-progress/34-770915) · `en`
-
-The British High Commissioner to Sri Lanka Andrew Patrick on Friday said that the Government should be commended for the progress it has made in terms of economic stabilisation in the short period since coming to power.
-
-He points out that it is observed that the country is moving in the right economic direction.
-
-The High Commissioner made this statement during a meeting with the Deputy Minister of Finance and Planning, Dr. Harshana Suriyapperuma, at the Ministry of Finance.
-
-The two sides had cordial discussions. Dr. Suriyapperuma explained the current economic situation and future plans to the High Commissioner.
-
-The High Commissioner, who said that he was ready to provide maximum support for the export of Sri Lankan goods to the British market, said that a group of businessmen are ready to visit Sri Lanka early next year with the aim of identifying business opportunities.
-
-...
-
-[Data](articles/5d3dcda1.json)
-
-[Extended Data](ext_articles/5d3dcda1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 13:44:03**
+As of **2024-12-23 14:02:45**
 
 ## Newspaper Stats
 
-*Scraped **61,617** Articles*
+*Scraped **61,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,873
-adaderanalk | 7,518
+adaderanalk | 7,522
 tamilmirrorlk | 8,821
-virakesarilk | 10,184
+virakesarilk | 10,185
 adaderanasinhalalk | 10,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,347 (99.6%) of 61,617 articles have been extended.
+61,347 (99.6%) of 61,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,34 @@ Yesterday's Kerol concert was visited by Finance and Planning Deputy Minister Dr
 
 ---
 
+### 04 students arrested with fake currency notes
+
+*2024-12-23 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/201946) · `ta`
+
+4 students (ages 15-16) arrested for 57 fake 5000-rupee coins in Sri Lanka. Police investigation ongoing.
+
+🟩
+
+Teldeniya police said that 04 schoolchildren have been arrested for possessing 57 fake 5,000 rupee coins.
+
+Four students have been arrested on the basis of information provided to the Teldeniya police by a owner of a shop in Digana.
+
+Four students have tried to go to a sales center in Digana area.
+
+The owner of the shop, which learned that the coins of the students were fake, immediately informed the police about this.
+
+The four students were between the ages of 15 and 16, police said.
+
+Students have informed the police that a close person gave them these currencies to buy various items.
+
+◼️
+
+[Data](articles/1483ad67.json)
+
+[Extended Data](ext_articles/1483ad67.ext.json)
+
+---
+
 ### கட்சித் தாவினார் சந்திரசேன
 
 *2024-12-23 13:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தாவினார்-சந்திரசேன/175-349150) · `ta`
@@ -95,6 +123,58 @@ Yesterday's Kerol concert was visited by Finance and Planning Deputy Minister Dr
 ◼️
 
 [Data](articles/ff16ceef.json)
+
+---
+
+### Former Minister SM Chandrasena joins ‘Sarvajana Balaya’
+
+*2024-12-23 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104441/former-minister-sm-chandrasena-joins-sarvajana-balaya) · `en`
+
+Former Minister S. M. Chandrasena has officially joined the ‘Sarvajana Balaya’ political alliance today (23), receiving party membership from its leader MP Dilith Jayaweera.
+
+In addition to his party membership, Chandrasena has also been appointed to the Leadership Council of Sarvajana Balaya.
+
+Chandrasena served as a Member of Parliament from the Anuradhapura District from 2001 to 2024, during which he held various ministerial positions in the Sri Lanka Podujana Peramuna (SLPP) government.
+
+In the most recent general election, he contested under the New Democratic Front.
+
+◼️
+
+[Data](articles/8b239de2.json)
+
+---
+
+### Sri Lanka’s merchandise exports dip by 5.6% in November 2024
+
+*2024-12-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104440/sri-lankas-merchandise-exports-dip-by-56-in-november-2024) · `en`
+
+Total exports for November 2024, including both merchandise and services, were recorded at US$ 1,269.33 million, reflecting a marginal increase of 0.04% compared to the same period in 2023, according to the Export Development Board (EDB).
+
+As per the provisional data released by the Sri Lanka Customs, the merchandise export performance in November 2024 amounted to US$ 943.1 million, reflecting a 5.6% decline compared to November 2023. This decrease is primarily attributed to reduced earnings from exports of Rubber-based products, Electrical and Electronic components, Food & Beverages, and Seafood.
+
+However, services exports for the month of November 2024 were estimated at US$ 326.23 Million, reflecting a 20.89 % increase over the corresponding period of 2023.
+
+◼️
+
+[Data](articles/0d8c7acf.json)
+
+---
+
+### Digitization of Sri Lanka’s public sector to begin in 2025
+
+*2024-12-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104439/digitization-of-sri-lankas-public-sector-to-begin-in-2025) · `en`
+
+Deputy Minister of Youth Affairs Eranga Gunasekara says that the project to digitize the country’s public sector will commence next year (2025).
+
+He made this statement while participating in a ceremony held at the National Library and Documentation Services Board in Colombo.
+
+The Deputy Minister also emphasized that the project is expected to lead to significant social transformation in the country.
+
+“We are preparing to digitize our country starting next year, and we are also preparing to launch the ‘Clean Sri Lanka’ program,” he added.
+
+◼️
+
+[Data](articles/46502947.json)
 
 ---
 
@@ -204,31 +284,21 @@ Accordingly, December 25 and 26 am to midnight, December 27th to midnight and 11
 
 ---
 
-### 04 students arrested with fake currency notes
+### மனைவியை தாக்கி காயப்படுத்திய கணவன் தவறான முடிவெடுத்து உயிர்மாய்ப்பு
 
-*2024-12-23 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/201946) · `ta`
+*2024-12-23 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201931) · `ta`
 
-4 students (ages 15-16) arrested for 57 fake 5000-rupee coins in Sri Lanka. Police investigation ongoing.
+மொரட்டுவை, இந்திபெத்த பிரதேசத்தில் உள்ள வீடொன்றில், தனது மனைவியை கூரிய ஆயுதத்தால் தாக்கி காயப்படுத்திய கணவன் தவறான முடிவெடுத்து உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-🟩
+உயிரிழந்த கணவன் நேற்று ஞாயிற்றுக்கிழமை (22) மதியம் வீட்டில் வைத்து தனது மனைவியை கூரிய ஆயுதத்தால் தாக்கி காயப்படுத்திவிட்டு பின்னர் தனது உயிரை மாய்ததுக்கொண்டுள்ளார்.
 
-Teldeniya police said that 04 schoolchildren have been arrested for possessing 57 fake 5,000 rupee coins.
+உயிரிழந்த கணவன் இதற்கு முன்னரும், அயல் வீட்டில் வசிக்கும் நபரொருவரை கூரிய ஆயுதத்தால் தாக்கி காயப்படுத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-Four students have been arrested on the basis of information provided to the Teldeniya police by a owner of a shop in Digana.
-
-Four students have tried to go to a sales center in Digana area.
-
-The owner of the shop, which learned that the coins of the students were fake, immediately informed the police about this.
-
-The four students were between the ages of 15 and 16, police said.
-
-Students have informed the police that a close person gave them these currencies to buy various items.
+காயமடைந்த அயல் வீட்டில் வசிக்கும் நபர் கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும், தனிப்பட்ட தகராறு காரணமாக இந்த தாக்குதல் இடம்பெற்றுள்ளதாகவும் பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளன.
 
 ◼️
 
-[Data](articles/1483ad67.json)
-
-[Extended Data](ext_articles/1483ad67.ext.json)
+[Data](articles/551ce9a8.json)
 
 ---
 
@@ -255,6 +325,22 @@ He joined the New Democratic Party at the last general election.
 [Data](articles/161d5297.json)
 
 [Extended Data](ext_articles/161d5297.ext.json)
+
+---
+
+### ASPI crosses 15,000 points for first time ever
+
+*2024-12-23 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104438/aspi-crosses-15000-points-for-first-time-ever) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange recorded a new all-time high today (23), surpassing the 15,000 points mark for the first time in history.
+
+Accordingly, as of 11:45 a.m., the index recorded a remarkable gain of 245 points to cross the milestone.
+
+Meanwhile, today’s total market turnover is recorded as over Rs. 5 billion.
+
+◼️
+
+[Data](articles/a35542cf.json)
 
 ---
 
@@ -2011,115 +2097,5 @@ Born in Kataluwa, Galle District, Comrade Prins was first elected as the Member 
 ...
 
 [Data](articles/2997c05a.json)
-
----
-
-### Supreme Court case, eradication of corruption, Attorney General's Department: Reform these three to strengthen the rule of law
-
-*2024-12-23 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201915) · `ta`
-
-Asian Human Rights Commission urges reforming Supreme Court, combating corruption, restructuring Attorney General's Department to strengthen rule of law in Sri Lanka.
-
-🟩
-
-The Asian Human Rights Commission has urged the President of the Human Rights Commission to focus on the three main issues, such as rehabilitation of the Supreme Court trial, controlling corruption, and rehabilitation of the Attorney General's Department.
-
-In a letter sent to President Anura Kumara Dissanayake by Bernando, the Director of the Asian Human Rights Commission, Basil Fernando, said:
-
-I will bring to your notice of three reorganizations to be maintained in the reorganization of the law in Sri Lanka and the value of human rights.
-
-We have continuously pointed out about the rule of law that has been disrupted in Sri Lanka for the past several years. This has been embodied in the speeches you have made in Parliament for a long time and in the last election by the National People's Power, and many have come together on the basis of the general purpose of establishing the best governance administration.
-
-...
-
-[Data](articles/7df326ba.json)
-
-[Extended Data](ext_articles/7df326ba.ext.json)
-
----
-
-### Sri Lanka’s IMF deal: Turning point, but caution is key
-
-*2024-12-23 01:50:29* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-IMF-deal-Turning-point-but-caution-is-key/4-770896) · `en`
-
-The IMF deal marks the beginning, not the end, of its journey
-
-While Sri Lanka’s IMF deal offers hope, the risks are real. Political instability could derail reforms, as vested interests resist change. Reform fatigue, too, is a genuine concern—if the public does not see tangible benefits soon, support for the program could waver. Globally, external shocks—rising interest rates, slowing trade, or geopolitical tensions—could further complicate the recovery. The Government must proceed with caution. An IMF deal is not a panacea; it is a foundation on which Sri Lanka must build its recovery. Strong institutions, consistent policies, and effective communication will be critical in navigating these risks
-
-...
-
-[Data](articles/e9e18a13.json)
-
-[Extended Data](ext_articles/e9e18a13.ext.json)
-
----
-
-### அல்லு அர்ஜுன் வீடு மீது தாக்குதல்
-
-*2024-12-23 01:44:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அல்லு-அர்ஜுன்-வீடு-மீது-தாக்குதல்/175-349108) · `ta`
-
-நடிகர் அல்லு அர்ஜுன் நடித்துள்ள ‘புஷ்பா 2’ திரைப்படத்தின் சிறப்புக் காட்சி திரையிடலின் போது ஏற்பட்ட கூட்ட நெரிசலில் சிக்கி பெண் ஒருவர் உயிரிழந்தார்.
-
-இதற்கு எதிர்ப்பு தெரிவித்து நேற்று (22) ஹைதராபாத் ஜூப்ளி ஹில்ஸ் பகுதியில் அமைந்துள்ள அல்லு அர்ஜுன் வீட்டின் மீது போராட்டக்காரர்கள் சிலர் கற்கள் வீசி தாக்குதல் நடத்தியுள்ளனர்.
-
-அல்லு அர்ஜுன், ராஷ்மிகா மந்தனா, ஃபஹத் ஃபாசில் உட்பட பலர் நடித்துள்ள படம் ‘புஷ்பா 2’. சுகுமார் இயக்கியுள்ள இந்தப் படம் தெலுங்கு, தமிழ், இந்தி மொழிகளில் பான் இந்தியா படமாக கடந்த 5 ஆம் திகதி வெளியானது. வசூல் ரீதியாக இந்தப் படம் சாதனை படைத்துள்ளது.
-
-இந்தப் படத்துக்கு தெலங்கானா அரசு சிறப்பு காட்சிக்கு அனுமதி அளித்திருந்தது. அதன்படி கடந்த 4 ஆம் திகதி இரவு ஹைதராபாத்தில் உள்ள சந்தியா திரையரங்கில் நடந்த சிறப்புக் காட்சியைப் பார்க்கச் சென்ற ரேவதி என்ற பெண் கூட்ட நெரிசலில் சிக்கி உயிரிழந்தார். அவருடைய மகன் தேஜ் படுகாயம் அடைந்து சிகிச்சை பெற்று வருகிறார். நடிகர் அல்லு அர்ஜுன் தியேட்டருக்கு வந்ததால்தான் நெரிசல் ஏற்பட்டது என்பதால் அவர் மீது வழக்குப் பதிவு செய்யப்பட்டது.
-
-...
-
-[Data](articles/069fd541.json)
-
----
-
-### During school holidays and festive season, many diseases are caused by food
-
-*2024-12-23 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/201914) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-School holidays & festivals increase child illness from unsafe food. Parents: Provide healthy meals, avoid oily foods. Diarrhea treatment: Lemon juice, rice porridge, juices, bananas. Dehydration control crucial. Seek doctor if diarrhea persists. Be cautious in water activities. Fire safety during celebrations.
-
-🟩
-
-Deepal Perera, a specialist on the Children's Hospital of the Colombo Child Hospital, said that children who go to tourism and to the outputs during the school holidays and festive season can cause food and snacks at other restaurants.
-
-He said this in response to Kesari on Sunday (23) regarding the protection of the disease during the festive season.
-
-Currently, school holidays have been increased and the boys are traveling for tourism for the festive season.. It is customary for tourists to buy food and snacks in restaurants and shops that see in the eyes.
-
-Thus, when buying food items and drinks in publications, you should act with care. Consuming contaminated foods can lead to diseases such as diarrhea and typhide fever. Therefore, parents should provide healthy food and drinks affected by the children.
-
-...
-
-[Data](articles/e5893ed6.json)
-
-[Extended Data](ext_articles/e5893ed6.ext.json)
-
----
-
-### Paye Tax නව වෙනස ඔබේ වැටුපට බලපාන්නේ කොහොම ද?
-
-*2024-12-23 01:41:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0xr0246w4o) · `si`
-
-උපයන විට ගෙවීම් බද්ද (Paye Tax ) සංශෝධනය කරන ලෙස දිගින් දිගටම ඉල්ලා සිටියේ වෛද්‍යවරුන්, නීතිඥවරුන් ඇතුළු මෙරට වෘත්තිකයින් ය.
-
-ඒ අනුව දැනට පනවා ඇති උපයන විට ගෙවීම් බද්ද සංශෝධනය කිරීමට නව ආණ්ඩුව සැලසුම් කර තිබේ.
-
-වෘත්තිකයින් රට හැර යෑම වැළක්වීමට මෙම නව සංශෝධනය ප්‍රමාණවත් ද? මේ ඒ පිළිබඳ විමසා බැලීමකි.
-
-ආදායම් බදු අය කිරිමේ ක්‍රමවේදය සංශෝධනය කළ යුතු බව මෙන් ම බදු නිදහස් කිරීමේ සිමාව ලක්ෂ දෙකක සිමාවට ගෙන ආ යුතු බවට වෘත්තියවේදීහූ දිගින් දිගටම ඉල්ලා සිටියහ.
-
-"අපි බලාපොරොත්තු වෙනවා ඉදිරියේදී ජනාධිපතිතුමත් ඒ වගේ ම රජයත් මේ සම්බන්ධයෙන් තවදුරටත් සලකා බලලා වෘත්තියවේදීන්ට මෙයින් එහා ගිය සහන ක්‍රමවේදයක් මේ බදු අය කිරිමේ දී ලබා දෙයි කියන එක." යැයි රජයේ වෛද්‍ය නිලධාරින්ගේ සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් සුගතදාස මාධ්‍ය වෙත කියා සිටියේය.
-
-ඉන්දීය සංචාරය නිම කරමින් දිවයිනට පැමිණි ජනාධිපතිවරයා පාර්ලිමේන්තුව අමතමින් බදු සහන කිහිපයක් ඉදිරියේදී ලබා දීමට තීරණය කර ඇති බව පැවසුවේය.
-
-ඉන් ප්‍රධානම තැනක් ගන්නේ උපයන විට බද්දට සිදු කිරිමට යෝජිත වෙනස්කමයි.
-
-...
-
-[Data](articles/0ba0ddf4.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 05:51:39**
+As of **2024-12-23 06:14:52**
 
 ## Newspaper Stats
 
-*Scraped **61,539** Articles*
+*Scraped **61,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 624
 bbccomsinhala | 647
-islandlk | 3,721
+islandlk | 3,727
 economynextcom | 3,747
 dailyftlk | 4,274
 dailymirrorlk | 4,733
@@ -26,11 +26,53 @@ adaderanasinhalalk | 10,627
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,309 (99.6%) of 61,539 articles have been extended.
+61,309 (99.6%) of 61,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### S&P Sri Lanka 20 Index undergoes recalibration
+
+*2024-12-23 05:38:00* · [`islandlk`](http://island.lk/sp-sri-lanka-20-index-undergoes-recalibration/) · `en`
+
+The Colombo Stock Exchange (CSE) has announced the following changes to the S&P Sri Lanka 20 index constituents as part of the 2024 Year-End Rebalance, conducted by S&P Dow Jones Indices. The exclusions and inclusions, as announced by S&P Dow Jones Indices, will take effect from 23rd December 2024, following the market close on 20th December 2024.
+
+Inclusions: Ceylon Cold Stores PLC, Commercial Bank of Ceylon PLC, Hatton National Bank PLC.
+
+...
+
+[Data](articles/526a2492.json)
+
+---
+
+### ADB looking to advance its role as  Asia and the Pacific’s climate bank
+
+*2024-12-23 05:37:00* · [`islandlk`](http://island.lk/adb-looking-to-advance-its-role-as-asia-and-the-pacifics-climate-bank/) · `en`
+
+ADB aims for climate finance to reach 50% of its total annual committed financing volume by 2030, Roberta Casali, ADB Vice-President for Finance and Risk Management said recently at the 12th Asian Regional Roundtable on New Frontiers Policies for Climate-resilient and Carbon-neutral Economies in Asia.
+
+“The recent COP29 meetings saw agreement reached on a New Collective Quantified Goal on Climate Finance aimed at mobilizing $300 billion in annual climate investments by 2035. For the Asian Development Bank, the NCQG agreement offers us a pathway along which we can further advance our role as Asia and the Pacific’s climate bank. As a Multilateral Development Bank, ADB has an important part to play in upscaling climate investment in our region. The Bank aims for climate finance to reach 50% of our total annual committed financing volume by 2030. And we have committed to reaching more than $100 billion in cumulative climate finance from 2019 to 2030.”
+
+...
+
+[Data](articles/515bf93c.json)
+
+---
+
+### Fitch upgrades  Sri Lanka to ‘CCC+’
+
+*2024-12-23 05:37:00* · [`islandlk`](http://island.lk/fitch-upgrades-sri-lanka-to-ccc/) · `en`
+
+Fitch Ratings has upgraded Sri Lanka’s Long-Term Foreign-Currency Issuer Default Rating (IDR) to ‘CCC+’, from ‘RD’ (Restricted Default). Fitch typically does not assign an Outlook to sovereigns with a rating of ‘CCC+’ or below.
+
+Fitch has also upgraded the Local-Currency IDR to ‘CCC+’, from ‘CCC-‘, to align with the Long-Term Foreign-Currency IDR, as the risk of another default on local-currency debt has been reduced by the completion of the international sovereign bond restructuring and an improved outlook for macroeconomic indicators. Sri Lanka completed the local-currency portion of its domestic debt optimisation in September 2023, following the exchange of treasury bills and provisional advances held by Central Bank of Sri Lanka’s into new treasury bonds and bills.
+
+...
+
+[Data](articles/bc45b9e3.json)
+
+---
 
 ### Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
 
@@ -57,6 +99,34 @@ The Dankotuwa branch commenced operations with a grand opening ceremony on 9th D
 ...
 
 [Data](articles/7f17ac3e.json)
+
+---
+
+### NSB triumphs at CMA Excellence in Integrated Reporting Awards 2024
+
+*2024-12-23 05:23:00* · [`islandlk`](http://island.lk/nsb-triumphs-at-cma-excellence-in-integrated-reporting-awards-2024/) · `en`
+
+National Savings Bank (NSB) has once again proven its commitment to transparency, accountability, and outstanding corporate reporting by securing two prestigious accolades at the CMA Excellence in Integrated Reporting Awards 2024. The Bank proudly clinched the title of Winner in the State Banks Category and earned recognition as one of the Ten Best Annual Reports for its Integrated Annual Report 2023.
+
+Organized annually by the Institute of Certified Management Accountants of Sri Lanka (CMA), the Excellence in Integrated Reporting Awards is designed to celebrate organizations that adopt and demonstrate international best practices in integrated reporting. These awards focus on assessing an organization’s ability to provide stakeholders with a holistic view of its performance, sustainability efforts, governance, and long-term value creation.
+
+...
+
+[Data](articles/c6292bec.json)
+
+---
+
+### MMBL-Pathfinder partners with HCLTech to accelerate technology talent development in Sri Lanka
+
+*2024-12-23 05:22:00* · [`islandlk`](http://island.lk/mmbl-pathfinder-partners-with-hcltech-to-accelerate-technology-talent-development-in-sri-lanka-3/) · `en`
+
+MMBL-Pathfinder Group has entered into a strategic partnership with HCLTech, a leading global technology company, to introduce innovative IT training programs in Sri Lanka. This collaboration is set to be a game-changer, with the newly established Pathfinder EdTech Institute at its core, aimed at creating a skilled workforce ready for the digital age.
+
+With a Mapping the Future of Tech Education this patronship is set to transform IT upskilling in Sri Lanka by delivering world class, Employment focused training programs through the career Shaper platform. and also designed to seamlessly connect academic learning with industry requirements. By incorporating HCLTech’s acclaimed training methods, expertly curated curriculum and state-of-the-art tech tools, this initiative promises to equip individuals with practical, job-ready skills.
+
+...
+
+[Data](articles/626582b5.json)
 
 ---
 
@@ -2155,111 +2225,5 @@ The arrested suspect is 55 years old from Ragama.
 [Data](articles/186b8d14.json)
 
 [Extended Data](ext_articles/186b8d14.ext.json)
-
----
-
-### Police committee to investigate Kasun Mahendra
-
-*2024-12-22 15:18:42* · [`adalk`](https://www.ada.lk/breaking_news/කසුන්-මහේන්ද්‍ර-අත්අඩංගුවට-ගැනීම-ගැන-විමර්ශනයට-පොලීසියෙන්-කමිටුවක්/11-413773) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Athurugiriya police investigating Kasun Mahendra's arrest. Incident occurred on 6th/7th. Police allege violation of legal procedures. Acting IGP initiated inquiry under Senior DIG Colombo. Police spokesperson explained arrest process under Criminal Procedure Code sections 32 & 33. Investigation ongoing.
-
-🟩
-
-The Athurugiriya police have launched an invitation to the Western DIG, the DIG in charge of the Western Province to investigate the arrest of legal provision in the arrest of legal provision.
-
-The incident had taken place during the 6th and 7 pm on the 6th and 7 pm.The police three-wheeler was taken to the Athurugiriya Police Station.
-
-From there, the arrests were revealed that the daughter of the deceased was a writer who was married, Jackson Anthony, a writer who was married, was a writer, Kasun Mahendra Heenatigala.
-
-After the police notified, Kasun Mahendra Hynatigala has taken steps to ensure his own identity through his wife and sister by his wife and sister. The following documents were then taken to release the man on police bail.
-
-The acting IGP Priyantha Weerasuriya has informed a complaint regarding the incident.
-
-...
-
-[Data](articles/476ded2f.json)
-
-[Extended Data](ext_articles/476ded2f.ext.json)
-
----
-
-### மியன்மார் அகதிகள் விடயத்தை சுய அரசியல் இலாபத்துக்காக சிலர் அணுகுவதை ஏற்றுக்கொள்ள முடியாது - அருண் கேமச்சந்திர
-
-*2024-12-22 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/201876) · `ta`
-
-மியன்மார் அகதிகள் விடயத்தை சுய அரசியல் இலாபத்துக்காக சிலர் அணுகி வருவதை நாம் எப்போதும் ஏற்றுக்கொள்ளப் போவதில்லை என திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினரும் வெளியுறவு மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சருமான அருண் கேமச்சந்திர தெரிவித்தார்.
-
-ஜமாலியா முஸ்லிம் மகா வித்தியாலயத்தில் தங்க வைக்கப்பட்டுள்ள அகதிகளை இன்று ஞாயிற்றுக்கிழமை (22) காலை பாராளுமன்ற உறுப்பினர் ரொசான் அக்மிமனவுடன் சென்று பார்வையிட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
-
-சட்ட விரோத குடிவரவாளர்களாக வருகை தந்துள்ள மியன்மார் - ரோஹிங்யா அகதிகளை ஏற்றுக்கொண்டு அவர்களுக்கு மனிதாபிமான அடிப்படையில் தேவையான உதவிகளை செய்து வருகிறோம். அந்த வகையில் அவர்களுக்கான உணவு, உடை, இருப்பிடம், சுகாதாரம் உள்ளிட்ட தேவைகளை செய்து வருகிறோம்.
-
-குறித்த அகதிகள் கடந்த வெள்ளிக்கிழமை (20) திருகோணமலை துறைமுகத்துக்கு கொண்டுவரப்பட்டனர். உடனடியாக அங்கே நடமாடும் மருத்துவ முகாமினை மேற்கொண்டிருந்தோம்.
-
-...
-
-[Data](articles/5cd3b44e.json)
-
----
-
-### கடந்த 24 மணிநேரத்தில் 10 வீதி விபத்துக்கள்; 13 பேர் உயிரிழப்பு
-
-*2024-12-22 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/201866) · `ta`
-
-கடந்த 24 மணித்தியாலங்களில் 10 வீதி விபத்துக்களில் 13 பேர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
-
-பண்டிகை காலங்களில் வீதிகளில் பயணிக்கும்போது அதிக கவனம் செலுத்த வேண்டும் என பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
-
-அவர் மேலும் தெரிவக்கையில், “பண்டிகை காலம் என்பதால் நெடுஞ்சாலைகளில் போக்குவரத்து நெரிசல் அதிகரித்து, பாதசாரிகளும் அதிகளவில் செல்கின்றனர். பாதசாரிகள் வீதியில் நடந்து செல்லும்போது மிகவும் கவனமாக இருக்க வேண்டும். மேலும் சாரதிகளும் மிகக் கவனமாக வீதியில் ஓட்ட வேண்டும்" என கேட்டுக்கொண்டுள்ளார்.
-
-ஜனவரி முதலாம் திகதி முதல் டிசம்பர் மாதம் 13ஆம் திகதி வரை 22,967 வீதி விபத்துக்கள் பதிவாகியுள்ளதாகவும் அதில் 2,141 பேர் உயிரிழந்துள்ளதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/6f71c0c9.json)
-
----
-
-### Vietnam’s Japan-backed metro line starts in HCMC
-
-*2024-12-22 15:07:00* · [`economynextcom`](https://economynext.com/vietnams-japan-backed-metro-line-starts-in-hcmc-195766/) · `en`
-
-ECONOMYNEXT – The first mass rapid transit line in Vietnam’s Ho Chi Minh City started operations on December 22 after 12 years of construction with hopes to modernize transport and reduce traffic in bustling motorcycle-dominated city.
-
-Large crowds queued up to hitch ride on the metro on the first day and long lines of Ho Chi Minh City resident could be seen line up near stations. The train will run free of charge for 30 days.
-
-“This journey is not only proof of the persistent efforts of the city government but also demonstrates the effective cooperation between the Vietnamese Government and the Japanese Government,” Bui Xuan Cuong , Vice Chairman of Ho Chi Minh City People’s Committee was quoted as saying in Vietnam’s Touitre newspaper.
-
-Construction of the Line of the HCMC met began in August 2012. It was originally planned to be completed in six years.
-
-Japanese Ambassador to Vietnam Ito Naoki said urban railway line will change people’s lives.
-
-...
-
-[Data](articles/ef3bd17b.json)
-
----
-
-### High snow in Vavuniya: Drivers
-
-*2024-12-22 15:03:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியாவில்-அதிக-பனிமூட்டம்-சாரதிகள்-அவதி/175-349089) · `ta`
-
-Heavy snow in Vavuniya causes traffic difficulties for drivers on A-9 and Mannar roads.
-
-🟩
-
-In Vavuniya, more than recent days, Sunday (22) is more snowy. Drivers are in great difficulty in carrying out traffic due to heavy snow.
-
-In particular, vehicles traveling on the A-9 road and Mannar roads were observed.
-
-◼️
-
-[Data](articles/95c374c2.json)
-
-[Extended Data](ext_articles/95c374c2.ext.json)
 
 ---

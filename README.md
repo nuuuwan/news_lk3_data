@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 23:27:20**
+As of **2024-12-23 23:43:39**
 
 ## Newspaper Stats
 
-*Scraped **61,683** Articles*
+*Scraped **61,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,730
-economynextcom | 3,752
+economynextcom | 3,757
 dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,886
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,390 (99.5%) of 61,683 articles have been extended.
+61,392 (99.5%) of 61,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -510,6 +510,24 @@ Reports of 04 Intelligence Unit submitted by 2024 have been submitted. There are
 
 ---
 
+### Sri Lanka’s stock market sees over 35-pct growth under new leader, turnover doubles
+
+*2024-12-23 17:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-stock-market-sees-over-35-pct-growth-under-new-leader-turnover-doubles-196012/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s main stock index in the Colombo Stock Exchange has seen more than 35 percent growth and the daily turnover has more than doubled since the presidential election and analysts cites the return of confidence as the key reason.
+
+The main All Share Price Index (ASPI) has gained 35 percent since Anura Kumara Dissanayake was elected as the president through December 23 close, the official data showed.
+
+The average daily turnover, which was 1.49 billion before the September 21 election has more than doubled to 3.74 billion rupees after the election.
+
+“More than the election, it is about uncertainties going out of the window,” Dimantha Mathew, Chief Research & Strategy Officer at First Capital Holdings PLC, told EconomyNext.
+
+...
+
+[Data](articles/5e8ded46.json)
+
+---
+
 ### 'My railway station is on the way
 
 *2024-12-23 17:34:21* · [`adalk`](https://www.ada.lk/breaking_news/’මගේ-උවමනාවට-තමයි-දුම්රිය-පාරදිගේ-ගමන්-කළේ’/11-413801) · `si`
@@ -604,21 +622,33 @@ Accordingly, the PUCSL called for public opinions on the matter in writing start
 
 ---
 
-### ධනුජ සොයා ආ අවාසනාව - වරද කාගේද?
+### Unfortunately, the tragedy found the treasure - Whose fault?
 
 *2024-12-23 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204648) · `si`
 
-ශල්‍යකර්මයක්  සඳහා ශ්‍රී ජයවර්ධනපුර රෝහලට ඇතුළු කළ 9 හැවිරිදි පිරිමි දරුවෙකු ශල්‍යකර්මයෙන් පසු පියවී සිහිය නොලබාම මියයාම සම්බන්ධයෙන් රෝහලේ කාර්ය මණ්ඩලය වගකිවයුතු බව සඳහන් කරමින් එම දරුවාගේ ඥාතීන් විසින් පොලීසියට පැමිණිලි කර ඇත.
+Here's a summary in 200 characters:
 
-මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ අඟුරුවාතොට, හල්තොට, පෙතිගමුව ප්‍රදේශයේ පදිංචිව සිටි හොරණ ප්‍රධාන පාසලක සිව්වන වසරේ අධ්‍යාපනය ලැබූ ධනුජ වික්‍රමආරච්චි දරුවා ය.
 
-මියගිය දරුවාගේ ඇතිවූ රෝගී තත්ත්වයකට ඔහුගේ දෙමව්පියන් විසින් ශ්‍රී ජයවර්ධනපුර රෝහලට අනුයුක්ත වෛද්‍යවරයකු පිළියන්දල වෛද්‍ය මධ්‍යස්ථානයකදී චැනල් කර පෙන්වීමෙන් අනතුරුව වෛද්‍යවරයාගේ උපදෙස් මත ඉකුත් 17 වනදා ඔහු සේවය කරන ශ්‍රී ජයවර්ධනපුර රෝහල වෙත ඇතුළු කර තිබූ බව පොලීසිය පැවසීය.
 
-පසුදින (18) දහවල් 01.30ට පමණ  අදාළ ශල්‍යකර්ම සඳහා නිර්වින්දනය කර දරුවාව ශල්‍යකර්මයට භාජනය කර ඇති අතර, එම ශල්‍යකර්මය අවසන් වුවද දරුවාට පියවී සිහිය ලැබී නැත.
+Tragedy struck when a 9-year-old boy died during surgery at Sri Jayewardenepura Hospital. The case is under investigation, with police looking into potential negligence.
 
-...
+🟩
+
+The relatives of the child have lodged a complaint with the police stating that a 9-year-old boy was admitted to the Sri Jayewardenepura Hospital for surgery.
+
+The deceased has been identified as Dunaj Wickremarachchi, who was living in a major school in Horana, Haltota, Phithogamuwa, a resident of Haltota, Haltota.
+
+The police said that a doctor at the Sri Jayewardenepura hospital in a Piliyanpura Hospital after the deceased child was admitted to the Sri Jayewardenepura Hospital.
+
+The next day (18) was anesthetic for surgery at 01.30 pm, and the child was surgery and the child had not received consciousness.
+
+Lady of Borella Ridgeway Hospital, Borella Ridgeway Children, had been admitted to the hospital on the evening of the same evening, on the demand of parents and relatives.The complaint states.
+
+◼️
 
 [Data](articles/6544fd26.json)
+
+[Extended Data](ext_articles/6544fd26.ext.json)
 
 ---
 
@@ -639,6 +669,26 @@ Accordingly, the Railway Department (Colombo) has informed the use of alternativ
 [Data](articles/566fa4c3.json)
 
 [Extended Data](ext_articles/566fa4c3.ext.json)
+
+---
+
+### Sri Lanka rupee depreciates further to close at 296.25/75 to dollar, bonds steady
+
+*2024-12-23 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-further-to-close-at-296-25-75-to-dollar-bonds-steady-195996/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 296.25/75 to the US dollar on Monday from 293.50/294.00 on Friday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 9.40/55 percent, from 9.45/50 percent.
+
+A bond maturing on 15.02.2028 closed stable at 10.05/20 percent.
+
+A bond maturing on 15.09.2029 closed at 10.65/80 percent, up from 10.65/75 percent.
+
+A bond maturing on 01.12.2031 closed at 11.30/40 percent, down from 10.70/75 percent. (Colombo/Dec23/2024)
+
+◼️
+
+[Data](articles/c0f3be43.json)
 
 ---
 
@@ -674,21 +724,51 @@ Teldeniya, Inspector Society, Inspector Society, Inspector Society, OIC of the T
 
 ---
 
-### උද්ධමනයේ ලොකු වෙනසක් - ආහාර උද්ධමනය බිංදුව වෙයි
+### Sri Lanka stocks close up, ASPI surpasses 15,000 mark
+
+*2024-12-23 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-aspi-surpasses-15000-mark-195976/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday after the All Share Price Index went beyond the 15,000 mark.
+
+The broader ASPI closed up 1.42 percent, or 209.91 points, at 15,020.61 ; while the more liquid S&P SL20 Index closed up 1.76 percent, or 77.63 points, at 4,498.42.
+
+“Market sentiment remains extremely bullyish,” market participants said. “This was mainly due to the rating upgrade by Fitch Ratings, which was a confidence booster.”
+
+Top positive contributors to the ASPI were LOLC (up at 616.50), Hatton National Bank (up at 281.50), Sampath Bank (up at 109.50), Commercial Bank (up at 138.00) and Browns Investments (up at 6.90).
+
+“There was active participation from retail and high net worth individuals, primarily into the diversified financial sector, with LOLC leading the charge.
+
+“Banking stocks also attracted interest, particularly HNB, Commercial and Sampath.”
+
+There was a net foreign inflow of 43 million rupees. (Colombo/Dec23/2024)
+
+◼️
+
+[Data](articles/b2805493.json)
+
+---
+
+### Big change in inflation - Food inflation is zero
 
 *2024-12-23 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204647) · `si`
 
-ජාතික පාරිභෝගික මිල දර්ශකයට අනුව මෙරට උද්ධමනය 2024 නොවැම්බර් මාසයේ දී  -1.7% ක් දක්වා තවදුරටත් පහළ ගොස් ඇති බව වාර්තා වෙයි.
+Sri Lanka's inflation drops sharply: -1.7% overall, food inflation nears zero (-3.1%). Report cites National Institute of Consumer Price Index and Department of Census and Statistics.
 
-ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසන්නේ 2024 ඔක්තෝබර් මාසයේ දී උද්ධමනය -0.7%ක් ලෙස වාර්තා වූ බවයි.
+🟩
 
-එහිදී 2024 ඔක්තෝම්බර් මාසයේ දී 1.3% ලෙසින් සටහන්ව තිබූ ආහාර උද්ධමනය 2024 නොවැම්බර් මාසයේ දී 0% ක් දක්වා සහ ආහාර නොවන කාණ්ඩයේ උද්ධමනය -2.3% සිට -3.1% ක් දක්වාත් පහළ ගොස් ඇති බව නවතම දත්ත අනුව පෙනීයයි.
+According to the National Institute of Consumer Price Index, Sri Lanka has fallen to -1.7% in November 2024.
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවක මේ බව සඳහන් වේ.
+Department of Census and Statistics said that inflation was only - 0.7%.
+
+The food inflation that was recorded as 1.3% in October 2024, the latest data showed to 0% to-3.1% to-3.1% in November 2024.
+
+This is stated in a new report issued by the Department of Census and Statistics.
 
 ◼️
 
 [Data](articles/a5eebf27.json)
+
+[Extended Data](ext_articles/a5eebf27.ext.json)
 
 ---
 
@@ -1210,6 +1290,26 @@ The ODIs will begin in New Zealand on the 5th.
 
 ---
 
+### Sri Lanka’s Browns wraps up Tanzania Lipton purchase
+
+*2024-12-23 14:03:00* · [`economynextcom`](https://economynext.com/sri-lankas-browns-wraps-up-tanzania-lipton-purchase-195930/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Browns Investments said it had completed the acquisition of Lipton tea company in Tanzania through its wholly owned subsidiary, B Commodities ME FZE, incorporated in the United Arab Emirates.
+
+“Browns Investments PLC is pleased to announce the completion of the acquisition of 100% of the shares in Lipton Teas and Infusions Tanzania Limited on December 20,” the company said in a stock exchange filing.
+
+The acquisition was pending due to the outstanding approval from the Fair Competition Commission of Tanzania, the company said.
+
+Browns said in May that it had entered into a sales and purchase agreement (SPA) with Ekaterra Holdco UK Limited, and Netherlands based Ekaterra Group Holdings BV and Ekaterra Group Holdings 2 BV, to buy control of the Africa firms, .
+
+Sri Lanka’s Browns to buy Lipton in Kenya, Tanzania and Rwanda
+
+...
+
+[Data](articles/a33d1903.json)
+
+---
+
 ### Cultivation Protection and Wildlife
 
 *2024-12-23 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/201956) · `ta`
@@ -1537,6 +1637,8 @@ The Deputy Minister also emphasized that the project is expected to lead to sign
 *2024-12-23 12:58:00* · [`islandlk`](http://island.lk/global-ceo-leadership-excellence-awards-2024/) · `en`
 
 Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
+
+NSB triumphs at CMA Excellence in Integrated Reporting Awards 2024
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -2151,89 +2253,5 @@ According to the MoE, the second phase of the third school term will commence on
 ...
 
 [Data](articles/4f1fb20e.json)
-
----
-
-### Two arrested over threatening woman and demanding Rs. 1 mln ransom
-
-*2024-12-23 10:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104434/two-arrested-over-threatening-woman-and-demanding-rs-1-mln-ransom) · `en`
-
-The Western Province North Crime Division has arrested two individuals involved in an incident of demanding a ransom from a woman after issuing death threats to her over the phone.
-
-On December 4, a woman from the Dippitigoda area in Kelaniya had received a death threat from a drug trafficker based abroad, who had used other people to call her and demand a ransom of Rs. 1 million.
-
-The Western Province North Crime Division launched an investigation into the incident following a complaint received in this regard.
-
-Accordingly, two suspects, aged 35 and 53, residents of the Kelaniya area, were arrested last morning (22) in the Dalugama area of Kiribathgoda and the Pattiya Junction area of Peliyagoda.
-
-The Western Province North Crime Division is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/713fe990.json)
-
-[Extended Data](ext_articles/713fe990.ext.json)
-
----
-
-### Three more arrested in connection with Meegoda shooting
-
-*2024-12-23 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104433/three-more-arrested-in-connection-with-meegoda-shooting-) · `en`
-
-Three additional suspects have been arrested in connection with the shooting and killing of a man traveling in a car at Nagahawatte in Meegoda on December 14, according to the Police Media Division.
-
-The arrests were made last evening (22) in the Homagama and Meegoda police divisions. The suspects, aged 22, 26, and 38, are residents of Padukka and Meegoda.
-
-Investigations into the shooting are being carried out by the Meegoda Police Station and Western Province South Crime Division.
-
-Earlier, on December 19, police arrested two suspects—a primary participant in the crime and an accomplice—following their investigation. Information obtained during the interrogation of these suspects led to the arrest of the three additional individuals.
-
-Among the newly arrested suspects, one is identified as having accompanied the shooter during the crime, while the other two are accused of aiding, abetting, and conspiring to commit the murder.
-
-...
-
-[Data](articles/7103d69d.json)
-
----
-
-### Removal of 13 non -standard drugs
-
-*2024-12-23 10:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தரமற்ற-13-வகை-மருந்துகள்-அகற்றம்/175-349133) · `ta`
-
-Sri Lanka removes 13 substandard drugs; 300 excluded in 3 years; Ministry of Health criticized for lack of import quality control program.
-
-🟩
-
-Doctors and Civil Rights Association President Dr. Samal Sanjeewa says that 13 more drugs imported to Sri Lanka have been excluded from use within the last two weeks due to lack of proper quality.
-
-Last week, the doctor, who claimed that thirteen drugs were removed, including 8 pharmaceuticals and five pharmaceuticals, said that the Criminal Investigation Department had lodged a complaint with the Criminal Investigation Department regarding 8 types of medications.
-
-He added that the complaint has been made to investigate those who have brought such drugs.
-
-Meanwhile, Samal Sanjeeva said that about 300 drugs have been excluded in the last three years, and drugs used for many infections, including pneumonia and brain fever.
-
-He noted that such substandard drugs are eliminated every week, but the Ministry of Health has not been able to establish a proper program on the importation of these drugs.
-
-...
-
-[Data](articles/c9fe0792.json)
-
-[Extended Data](ext_articles/c9fe0792.ext.json)
-
----
-
-### தூண்டில் குத்தியதால் மீனவர் பாதிப்பு
-
-*2024-12-23 10:19:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூண்டில்-குத்தியதால்-மீனவர்-பாதிப்பு/175-349132) · `ta`
-
-ஆழ்கடலில் கை விரலில் தூண்டில் குத்தியதால் கடும் சுகவீனமடைந்த மீனவர் ஒருவருக்கு கடற்படையின் விஜயபாகு கப்பலில் சத்திரசிகிச்சை மேற்கொள்ளப்பட்டு, மேலதிக சிகிச்சைக்காக  தரைக்கு கொண்டுவந்த கடற்படை அதிகாரிகள், அவரை கொழும்பு தேசிய வைத்தியசாலையில் ஞாயிற்றுக்கிழமை (22) அனுமதித்துள்ளனர்.
-
-இலங்கையின் தெற்கே காலியில் இருந்து சுமார் 479 கிலோமீற்றர் தொலைவில் ஆழ்கடலில் இந்த விபத்து இடம்பெற்றுள்ளதுடன், பேருவளை மீன்பிடி துறைமுகத்தில் இருந்து மீன்பிடி நடவடிக்கைகளுக்காக 7 மீனவர்களை ஏற்றிச் சென்ற 'துவா ஷைனி' என்ற பலநாள் கப்பல் கடந்த 5 ஆம் திகதியன்று  சென்றுள்ளது.
-
-கடற்றொழில் மற்றும் நீரியல் வளத் திணைக்களத்தினால் கொழும்பு கடற்படைத் தலைமையகத்தில் உள்ள கடல்சார் தேடல் மற்றும் மீட்பு ஒருங்கிணைப்பு நிலையத்திற்கு வழங்கப்பட்ட அறிவித்தலின் பிரகாரம், மீனவர்களை மீட்பதற்காக கடற்படை கப்பலான விஜயபாகு அனுப்பி வைக்கப்பட்டது.
-
-...
-
-[Data](articles/94ac08ea.json)
 
 ---

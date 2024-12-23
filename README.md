@@ -1,56 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 07:31:44**
+As of **2024-12-23 08:06:22**
 
 ## Newspaper Stats
 
-*Scraped **61,552** Articles*
+*Scraped **61,557** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
-colombotelegraphcom | 624
-bbccomsinhala | 647
+colombotelegraphcom | 625
+bbccomsinhala | 648
 islandlk | 3,728
 economynextcom | 3,747
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,862
+adalk | 5,864
 adaderanalk | 7,509
 tamilmirrorlk | 8,799
 virakesarilk | 10,178
-adaderanasinhalalk | 10,631
+adaderanasinhalalk | 10,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,310 (99.6%) of 61,552 articles have been extended.
+61,311 (99.6%) of 61,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### හිටපු ජනපතිවරුන්ගේ ආරක්ෂාවට සිටි ත්‍රිවිධ හමුදාව අද සිට ඉවතට
+### මරණ තර්ජනය කර ලක්ෂ 10 ක කප්පමක් ඉල්ලූ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-12-23 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204627) · `si`
+
+දුරකථනයෙන් මරණ තර්ජන එල්ල කර කාන්තාවකගෙන් කප්පම් මුදලක් ඉල්ලීමට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය 04 වනදා කැලණිය, දිප්පිටිගොඩ ප්‍රදේශයේ කාන්තාවකගෙන් විදේශ රටක සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු විසින් පුද්ගලයින් යොදවා දුරකථනයෙන් මරණ තර්ජනය එල්ල කර රුපියල් ලක්ෂ 10 ක කප්පම් මුදලක් ඉල්ලා තිබේ.
+
+ඒ සම්බන්ධයෙන් සිදුකළ පැමිණිල්ලකට අනුව, බස්නාහිර පළාත උතුර අපරාධ කොට්ඨාසය විසින් විමර්ශන ආරම්භ කර තිබුණි.
+
+ඒ අනුව මෙම අපරාධයට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු ඊයේ (22) පෙරවරුවේ කිරිබත්ගොඩ, දළුගම ප්‍රදේශයේදී හා පෑලියගොඩ, පට්ටිය හන්දිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 35 හා 53 යන වයස්වල පසුවන කැලණිය ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+◼️
+
+[Data](articles/3cbaabc2.json)
+
+---
+
+### කසුන්ගේ සිදුවිමට අතුරුගිරිය පොලිසියේ තුනකට ස්ථාන මාරු
+
+*2024-12-23 07:38:18* · [`adalk`](https://www.ada.lk/breaking_news/කසුන්ගේ-සිදුවිමට-අතුරුගිරිය-පොලිසියේ-තුනකට-ස්ථාන-මාරු/11-413786) · `si`
+
+ලේඛක කසුන් මහේන්ද්‍ර හීනටිගල මහතා අතුරුගිරිය පොලිසිය මගින්  අත්අඩංගුවට ගැනීමේ සිද්ධියේ සිදුකෙරෙන විමර්ශනයට අදාළව උප පොලිස් පරීක්ෂකවරයෙකු ඇතුළු තිදෙනකු තාවකාලිකව මිරිහාන මූලස්ථාන පොලිසිය වෙත මාරු කරනු ලැබූ බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි නීතිවේදී බුද්ධික මනතුංග මහතා පැවසීය.
+
+එලෙස තාවකාලිකව මාරු කරනු ලැබ ඇත්තේ දූෂණ මර්දන අංශයේ ස්ථානාධිපති ලෙස කටයුතු කළ ස්ථානාධිපතිවරයා හා පොලිස් කොස්තාපල්වරුන් දෙදෙනෙකි.
+
+අභාවප්‍රාප්ත ජැක්ෂන් ඇන්තනී මහතාගේ බෑනා වන  ලේඛක කසුන් මහේන්ද්‍ර ගීනටිගල මහතා පොලිස් මූලස්ථානයේ සහන මැදිරියට කරන ලද පැමිණිල්ලකට අදාලව කොළඹ දකුණු දිශාව භාර නියෝජ්‍ය පොලිස්පති වරයාගේ උපදෙස් මත සිදු කරන විමර්ශනයකට අදාලව එම ස්ථාන මාරුවීම් තාවකාලිකව  සිදුකර  ඇත.
+
+◼️
+
+[Data](articles/39ea53d9.json)
+
+---
+
+### Armed Forces to protect former President
 
 *2024-12-23 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204626) · `si`
 
-හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව සඳහා යොදවා සිටි ත්‍රිවිධ හමුදා සාමාජිකයින් අද (23) දිනයේ සිට ක්‍රියාත්මක වන පරිදි ඉවත් කිරීමට තීරණය කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-පසුගිය සතියේ පැවති පාර්ලිමේන්තු රැස්වීමේ දී මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා විසින් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව සඳහා යොදවා සිටින ත්‍රිවිධ හමුදා නිලධාරීන් ඉවත් කිරීමට ගත් තීරණය සම්බන්ධයෙන් කරුණු පැහැදිලි කළේය.
 
-ඒ අනුව අද දිනයේ සිට හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් පමණක් තවදුරටත් කටයුතු කරනු ඇති.
 
-මේ වන විට එම ආරක්ෂක කටයුතු සඳහා යොදවා සිටින පොලිස් නිලධාරීන් ගණන ද අඩුකර ඇති අතර රජය පවසන්නේ හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාවට ප්‍රමාණවත් පොලිස් නිලධාරීන් සංඛ්‍යාවක් යොදවා ඇති බවය.
+"Armed forces protecting former presidents to withdraw today. Police to take over security duties. Number of officers reduced. Government reviews security arrangements. Defense Ministry ensures no disruptions."
 
-කෙසේවෙතත් හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාව මාස 06කට වරක් සමාලෝචනය කර, ඒ අනුව ආරක්ෂක විධිවිධාන තර කරන බව ද රජය සඳහන් කළේය.
+🟩
 
-ත්‍රිවිධ හමුදා නිලධාරීන් ඉවත් කළ ද හිටපු ජනාධිපතිවරුන්ගේ ආරක්ෂාවට කිසිදු ආකාරයක ගැටලුකාරී තත්වයක් ඇති වීමට ඉඩ නොතබන බව ආරක්ෂක අමාත්‍යංශය සඳහන් කළේය.
+The three Armed Forces deployed for the safety of former presidents has decided to remove the existing armed forces from today (23).
+
+At the Parliamentary Contection of the Parliamentary Contection last week, Mr. Ananda Wijepala explained the decision to remove the armed forces who were deployed to protect former presidents.
+
+Accordingly, police officers will continue to work only for the safety of former presidents from today.
+
+The number of police officers who have been deployed for the security have also been reduced and the government said the government has been deployed to protect former presidents.
+
+However, the government stated that the security of former presidents will be reviewed and the security arrangements will be reviewed.
+
+The Defense Ministry said that he removed the armed forces, but the security of former presidents would not allow any form of problems.
 
 ...
 
 [Data](articles/8bd33520.json)
+
+[Extended Data](ext_articles/8bd33520.ext.json)
 
 ---
 
@@ -676,6 +722,20 @@ The first session was held at the Mayurapathy Meditation Hall in Colombo, while 
 
 ---
 
+### Birth Centenary Of Comrade Prins Gunasekera & The Relaunch Of “A Lost Generation: Sri Lanka In Crisis: The Untold Story”
+
+*2024-12-23 02:04:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/birth-centenary-of-comrade-prins-gunasekera-the-relaunch-of-a-lost-generation-sri-lanka-in-crisis-the-untold-story/) · `en`
+
+I would like to extend my gratitude to Comrade Prins Gunasekera‘s daughter, Mrs. Geshni Gunasekera, for inviting me to deliver a message on this special occasion of the birth centenary of the late Comrade Prins Gunasekera and the re-publication of his valuable work.
+
+Born in Kataluwa, Galle District, Comrade Prins was first elected as the Member of Parliament for Habaraduwa electorate in March 1960 and re-elected under the Sri Lanka Freedom Party (SLFP) ticket in 1970. However, due to conflicts with the leaders of the ruling coalition government over the Criminal Justice Commission Act and the trials to be conducted under it, he became an independent.
+
+...
+
+[Data](articles/2997c05a.json)
+
+---
+
 ### Supreme Court case, eradication of corruption, Attorney General's Department: Reform these three to strengthen the rule of law
 
 *2024-12-23 01:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/201915) · `ta`
@@ -759,6 +819,30 @@ Thus, when buying food items and drinks in publications, you should act with car
 [Data](articles/e5893ed6.json)
 
 [Extended Data](ext_articles/e5893ed6.ext.json)
+
+---
+
+### Paye Tax නව වෙනසෙන් වෘත්තිකයින් රට හැර යෑම වැළක්විය හැකි ද?
+
+*2024-12-23 01:41:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0xr0246w4o) · `si`
+
+උපයන විට ගෙවීම් බද්ද (Paye Tax ) සංශෝධනය කරන ලෙස දිගින් දිගටම ඉල්ලා සිටියේ වෛද්‍යවරුන්, නීතිඥවරුන් ඇතුළු මෙරට වෘත්තිකයින් ය.
+
+ඒ අනුව දැනට පනවා ඇති උපයන විට ගෙවීම් බද්ද සංශෝධනය කිරීමට නව ආණ්ඩුව සැලසුම් කර තිබේ.
+
+වෘත්තිකයින් රට හැර යෑම වැළක්වීමට මෙම නව සංශෝධනය ප්‍රමාණවත් ද? මේ ඒ පිළිබඳ විමසා බැලීමකි.
+
+ආදායම් බදු අය කිරිමේ ක්‍රමවේදය සංශෝධනය කළ යුතු බව මෙන්ම බදු නිදහස් කිරීමේ සිමාව ලක්ෂ දෙකක සිමාවට ගෙන ආ යුතු බවට වෘත්තියවේදීහූ දිගින් දිගටම ඉල්ලා සිටියහ.
+
+"අපි බලාපොරොත්තු වෙනවා ඉදිරියේ දී ජනාධිපතිතුමත් ඒ වගේම රජයත් මේ සම්බන්ධයෙන් තවදුරටත් සලකා බලලා වෘත්තියවේදීන්ට මෙයින් එහා ගිය සහන ක්‍රමවේදයක් මේ බදු අය කිරිමේ දී ලබා දෙයි කියන එක." යැයි රජයේ වෛද්‍ය නිලධාරින්ගේ සංගමයේ ප්‍රධාන ලේකම් ප්‍රභාත් සුගතදාස මාධ්‍ය වෙත කියා සිටියේය.
+
+ඉන්දීය සංචාරය නිම කරමින් දිවයිනට පැමිණි ජනාධිපතිවරයා පාර්ලිමේන්තුව අමතමින් බදු සහන කිහිපයක් ඉදිරියේ දී ලබා දීමට තීරණය කර ඇති බව පැවසුවේය.
+
+ඉන් ප්‍රධානම තැනක් ගන්නේ උපයන විට බද්දට සිදු කිරිමට යෝජිත වෙනස්කමයි.
+
+...
+
+[Data](articles/0ba0ddf4.json)
 
 ---
 
@@ -2099,101 +2183,5 @@ Joe Root is due to join the Indian team in the 19th of January.
 [Data](articles/ddcca997.json)
 
 [Extended Data](ext_articles/ddcca997.ext.json)
-
----
-
-### Driver at Hatton bus accident
-
-*2024-12-22 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204614) · `si`
-
-Bus crash in Hatton: Driver hospitalized, 3 dead, 53 injured. Acting Magistrate orders continued treatment under police protection.
-
-🟩
-
-The driver of the bus was being treated at the Dikoya Basic Hospital yesterday (21st) was admitted to the 26th of this month until the 26th of this month.
-
-Acting Magistrate S.. The orders have been issued today (22) by Mr. Rammunathi.
-
-The actress Magistrate who arrived at the hospital has been given this order in consultation of the condition of the doctors.
-
-The suspect is receiving treatment at the hospital under the protection of prison officials.
-
-The bus, which was traveling from Hatton yesterday morning, was crashed in the Mallippuwa.
-
-The driver of the wind with winding was not controlled by the bus and fell to 20 feet concrete wall.
-
-53 persons including a driver and assistance were injured and three were killed.
-
-The victim was a 14 year old schoolchildren, a 68-year-old Kandy resident and a woman.
-
-The body of the 14-year-old child, who was residing in Hatton Estate, the body of the 14-year-old was placed at his residence.
-
-...
-
-[Data](articles/afdbed60.json)
-
-[Extended Data](ext_articles/afdbed60.ext.json)
-
----
-
-### AHRC calls on President Dissanayake to prioritize urgent legal reforms
-
-*2024-12-22 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104421/ahrc-calls-on-president-dissanayake-to-prioritize-urgent-legal-reforms-) · `en`
-
-The Asian Human Rights Commission (AHRC) has urged Sri Lanka’s President Anura Kumara Dissanayake to take immediate action to implement critical legal reforms aimed at restoring the rule of law in Sri Lanka.
-
-In a written appeal, Basil Fernando, the Director of Policy and Programs at the AHRC, emphasized the pressing need to address key deficiencies in the country’s legal and judicial systems. The AHRC identified three crucial areas requiring immediate reform.
-
-The organization stressed the importance of ensuring the daily hearing of serious criminal cases in the High Courts to expedite the judicial process and reduce delays in justice delivery. It also called for the introduction of comprehensive legislation to combat bribery and corruption, a measure deemed essential to restore public confidence in governance and accountability.
-
-Additionally, the AHRC highlighted the necessity of reforming the Attorney General’s Department to enhance its independence, efficiency, and transparency.
-
-◼️
-
-[Data](articles/f7ec93c8.json)
-
-[Extended Data](ext_articles/f7ec93c8.ext.json)
-
----
-
-### Hatton accident;Illiteracy
-
-*2024-12-22 16:37:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-விபத்து-சாரதிக்கு-விளக்கமறியல்/76-349098) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Bus accident in Hatton: Driver injured, hospitalized. Magistrate orders treatment till 26th. Driver under police protection.
-
-🟩
-
-Hatton Magistrate S. Rammoorthy on Sunday (22) ordered that the driver of the bus, who was injured in a private bus accident in the Hatton Malliyapu junction on Saturday (21), was treated at the Dik Oya Primary Hospital until the 26th of this month.
-
-In response to the hospital, the magistrate asked the doctors regarding the plight of the driver and was detained at the hospital and the suspect is being treated at the hospital under the protection of prisons.
-
-◼️
-
-[Data](articles/7080d5cb.json)
-
-[Extended Data](ext_articles/7080d5cb.ext.json)
-
----
-
-### අනතුරට පත් බස් රථයේ රියදුරා රක්ෂිත බන්ධනාගාර ගත කෙරේ
-
-*2024-12-22 16:27:31* · [`adalk`](https://www.ada.lk/breaking_news/අනතුරට-පත්-බස්-රථයේ-රියදුරා-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-413777) · `si`
-
-හැටන් මල්ලිඅප්පුව ප්‍රදේශයේ (21) දින සිදු වු පෞද්ගලික බස් රථ අනතුරෙන් තුවාල ලබා දික්ඔය මුලික රෝහලේ පොලිස් ආරක්ෂා මැද නේවාසිකව ප්‍රතිකාර ලබමින් සිටි බස් රථයේ රියදුරු මේ මස (26) දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙසට හැටන් මහෙස්ත්‍රාත් අධිකරණයේ වැඩ බලන මහෙස්ත්‍රාත් එස්.රාම්මුර්ති මහතා (22) දින නියෝග කළේය.
-
-රෝහල වෙත පැමිණි වැඩ බලන මහෙස්ත්‍රාත්වරයා වෛද්‍යවරුන්ගෙන් සැකකාර රියදුරුගේ තත්ත්වය පිලිබදව කරුණු විමසා රෝහල තුලම රක්ෂිත බන්ධනාගාර ගත කල අතර, සැකකරු බන්ධනාගාර නිලධාරින්ගේ ආරක්ෂාව මැද්දේ නේවාසිකව ප්‍රතිකාර ලබයි.
-
-මෙසේ රක්ෂිත බන්ධනාගාර ගත කරනු ලැබුවේ නාවලපිටිය නව තිස්පනේ පදිංචි  රම්බොඩගෙදරප්‍රසන්න බණ්ඩාර 46 හැවිරිදි තිදරු පියෙකි.
-
-බස් රථ අනතුරෙන් මියගිය හැටන් වතුයායේ පදිංචිව සිටි දේවරාජ් දිනේෂ්කුමාර් (14) හැවිරිදි දරුවාගේ සිරුර ඔහුගේ නිවසේ තැන්පත් කර ඇති අතර, මියගිය දරුවාගේ මව සෞදි රාජ්‍යයේ ගෘහ සේවයේ රැකියාවක නිරතව සිටින බවත්, මව දිවයිනට පැමිණිමෙන් අනතුරුව දේහයේ අවසන් කටයුතු සිදු කරන බව පවුලේ ඥාතින් පැවසිය.
-
-◼️
-
-[Data](articles/681824c4.json)
 
 ---

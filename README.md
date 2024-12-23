@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 11:14:23**
+As of **2024-12-23 11:27:12**
 
 ## Newspaper Stats
 
-*Scraped **61,587** Articles*
+*Scraped **61,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,728
 economynextcom | 3,747
 dailyftlk | 4,274
 dailymirrorlk | 4,733
-adalk | 5,868
+adalk | 5,869
 adaderanalk | 7,518
 tamilmirrorlk | 8,812
 virakesarilk | 10,178
@@ -26,27 +26,33 @@ adaderanasinhalalk | 10,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,328 (99.6%) of 61,587 articles have been extended.
+61,330 (99.6%) of 61,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### புதுவருடத்தில் டிஜிட்டல் மயமாகும் பொதுத்துறை
+### Public sector is digital in New Year
 
 *2024-12-23 10:55:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுவருடத்தில்-டிஜிட்டல்-மயமாகும்-பொதுத்துறை/175-349136) · `ta`
 
-எதிர்வரும் வருடத்தில் இலங்கையின் பொதுத்துறையை டிஜிட்டல் மயமாக்கும் திட்டம் ஆரம்பிக்கப்படும் என இளைஞர் விவகார பிரதி அமைச்சர் எரங்க குணசேகர தெரிவித்தார்.
+Sri Lanka's public sector to go digital in 2024: Deputy Minister Eranga Gunasekera announces "Cleaning Sri Lanka" program at National Library event.
 
-கொழும்பு தேசிய நூலகம் மற்றும் ஆவணச் சேவைகள் சபை கேட்போர் கூடத்தில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் இதனைக் கூறினார்.
+🟩
 
-அத்துடன், நாட்டில் பாரிய சமூக மாற்றத்தை ஏற்படுத்த எதிர்பார்த்துள்ளதாக  பிரதி அமைச்சர் தெரிவித்தார்.
+Deputy Minister of Youth Affairs Eranga Gunasekera said that the project to digitize Sri Lanka's public sector in the coming year will be launched.
 
-“அடுத்த வருடத்தில் இருந்து எமது நாட்டை டிஜிட்டல் மயமாக்குவதற்கு தயாராகி வருகின்றோம், மேலும் க்ளீனிங் ஸ்ரீ லங்கா என்ற திட்டத்தை ஆரம்பிக்க தயாராகி வருகின்றோம்” என்று அவர் குறிப்பிட்டார்.
+He was speaking at an event held at the National Library and the Archives of the National Library and the Documentary Services Board.
+
+The Deputy Minister said that the country is looking forward to a massive social change in the country.
+
+“We are preparing to digitize our country from next year, and we are preparing to launch a program called Cleining Sri Lanka,” he said.
 
 ◼️
 
 [Data](articles/6ebfce88.json)
+
+[Extended Data](ext_articles/6ebfce88.ext.json)
 
 ---
 
@@ -92,17 +98,27 @@ Local media reported that the plane was piloted by Luiz Claudio Galeazzi, a Braz
 
 ---
 
-### பாடசாலை ஆரம்பம் குறித்த அறிவிப்பு
+### Notification on the beginning of school
 
 *2024-12-23 10:37:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-ஆரம்பம்-குறித்த-அறிவிப்பு/175-349135) · `ta`
 
-அரச பாடசாலைகள் மற்றும் அரச அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளில் 2024 ஆம் ஆண்டுக்கான மூன்றாம் தவணையின் இரண்டாம் கட்டம் எதிர்வரும் 2ஆம் திகதி வியாழக்கிழமை ஆரம்பமாகவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-அத்துடன், அனைத்துப் பாடசாலைகளிலும் மூன்றாம் தவணை ஜனவரி 24ஆம் திகதியுடன் முடிவடையும் என்று கல்வி அமைச்சு விசேட அறிவிப்பு ஒன்றை வெளியிட்டுள்ளது.
+
+
+School starts Aug 2, 2024. Third term ends Jan 24, 2025. Ministry of Education announcement.
+
+🟩
+
+It is reported that the second phase of the third installment of the year 2024 will commence on Thursday, the 2nd of this month.
+
+The Ministry of Education has issued a special announcement that the third term in all schools will be completed on January 24.
 
 ◼️
 
 [Data](articles/8b82e914.json)
+
+[Extended Data](ext_articles/8b82e914.ext.json)
 
 ---
 
@@ -125,6 +141,24 @@ Local media reported that the plane was piloted by Luiz Claudio Galeazzi, a Braz
 ◼️
 
 [Data](articles/e9575bbf.json)
+
+---
+
+### ගුවන් නියමුවාට සහ ඔහුගේ පවුලේ 10 දෙනෙකුට මරු කැඳවූ ගුවන් අනතුර
+
+*2024-12-23 10:34:58* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-නියමුවාට-සහ-ඔහුගේ-පවුලේ-10-දෙනෙකුට-මරු-කැඳවූ-ගුවන්-අනතුර/11-413788) · `si`
+
+බ්‍රසීලයේ පෞද්ගලික ගුවන් යානයක් කඩා වැටීමෙන් පුද්ගලයන් 10 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එහිදී ගුවන් නියමුවා ඇතුළු ඔහුගේ පවුලේ සාමාජිකයන් ජීවිතක්ෂයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+ගුවන් යානය කඩාවැටීමේදී නිවසකට හා වෙළදසැලකට හානි සිදුවී ඇති අතර, එව අවස්ථාවේ බිම සිටි පුද්ගලයන් 17 දෙනෙකු තුවාල ලබා තිබේ.
+
+එලෙස තුවාල ලැබූ පුද්ගලයන් අතරින් දෙදෙනෙකුගේ තත්ත්වය බරපතල බව විදෙස් මාධ්‍ය වැඩිදුරටත් සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/5c5996dc.json)
 
 ---
 
@@ -2135,33 +2169,5 @@ He further stated that although all government institutions intervene and do not
 [Data](articles/97ebba62.json)
 
 [Extended Data](ext_articles/97ebba62.ext.json)
-
----
-
-### The mysterious object floating on the coast of Mullaitivu
-
-*2024-12-22 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/201903) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Fishermen spotted a mysterious object off Mullaitivu coast on Sunday. Police investigation revealed 14.7 kg of explosives. Further inquiries ongoing.
-
-🟩
-
-An incident took place on Sunday (22) that the fishermen feared the mysterious object floating on the Mullaitivu coast.
-
-There was a mystery in the Mullaitivu Tirtha area on Sunday (22). This has caused a stir in the area. Subsequently the fishermen have informed the police.
-
-The police rushed to the scene and raided the mysterious bhadi of the police, which contained 14.7 kilograms of Kodex.
-
-Subsequently, the Mullaitivu police have taken the ammunition from the site.. It is noteworthy that the police are conducting further investigations.
-
-◼️
-
-[Data](articles/fb1640f3.json)
-
-[Extended Data](ext_articles/fb1640f3.ext.json)
 
 ---

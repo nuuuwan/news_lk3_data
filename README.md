@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 18:38:35**
+As of **2024-12-23 18:51:34**
 
 ## Newspaper Stats
 
-*Scraped **61,664** Articles*
+*Scraped **61,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,881
 adaderanalk | 7,531
-tamilmirrorlk | 8,826
+tamilmirrorlk | 8,827
 virakesarilk | 10,191
 adaderanasinhalalk | 10,653
 
@@ -26,29 +26,65 @@ adaderanasinhalalk | 10,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,369 (99.5%) of 61,664 articles have been extended.
+61,372 (99.5%) of 61,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### කුඩු සළිඳු CIDය මගහරියි
+### Will the electricity tariff be revised?
+
+*2024-12-23 18:39:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-திருத்தப்படுமா/175-349167) · `ta`
+
+Electricity tariff revision: Public Utilities Commission to hold oral sessions starting 27th. Proposals suggest 10-20% reduction. Public opinion sought on CEB's submission. Process begins 17th.
+
+🟩
+
+The Sri Lanka Public Utilities Commission said that oral sessions on the issue of the power tariff revision will commence on the 27th of this month.
+
+Public opinions will be obtained on the proposal submitted by the Electricity Board and the Public Utilities Commission on the issue of the tariff amendment.
+
+The Ceylon Electricity Board (CEB) recently submitted proposals to the Public Utilities Commission not to be amended for the next six months.
+
+The Public Utilities Commission stated that there is a possibility of reducing electricity tariffs from 10 to 20 percent when proposing reply proposals.
+
+The Public Utilities Commission said that the process of receiving the public's views on these proposals began on the 17th and the oral sessions were to be launched in Kandy on the 27th of this month.. Remble
+
+◼️
+
+[Data](articles/b8fedc04.json)
+
+[Extended Data](ext_articles/b8fedc04.ext.json)
+
+---
+
+### The powder is avoiding the precise CID
 
 *2024-12-23 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204649) · `si`
 
-ඇප නිදහස් වූ සළිදු මල්ෂික ගුණරත්න නොහොත් "කුඩු සළිඳු" නැමැත්තා අත්අඩංගුවට ගැනීමට පානදුර මහෙස්ත්‍රාත් අධිකරණය විසින් වරෙන්තු නිකුත්කර තිබේ.
+Here's a summary in 200 characters:
 
-ඇප මත නිදහස් කිරීමේදී සෑම ඉරු දිනකම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස "කුඩු සළිඳු" නැමැත්තාට අධිකරණය විසින් කොන්දේසියක් පනවා තිබුණි.
 
-එහෙත්  ඔහු ඊයේ දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිට නොමැති බව සඳහන්ය.
 
-ඒ අනුව ඒ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පානදුර මහෙස්ත්‍රාත් අධිකරණය හමුවේ අද (23)  කරුණු වාර්තා කළේය.
+Warrants issued for Hemanshika Gunaratne after failing to appear before CID on bail conditions. Court orders arrest and production of "Kudu Shalu" arrested earlier. CID investigates Panadura Magistrate's Court case today.
 
-එම කරුණු සැලකිල්ලට ගෙන "කුඩු සළිඳු" නැමැත්තා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත් අධිකරණය විසින් වරෙන්තු නිකුත් කර තිබුණි.
+🟩
+
+The Panadura Magistrate's Court has issued a warrants to arrest hemanshika Gunaratne, who was released on bail.
+
+The Court was conducting a condition to appear before the Criminal Investigation Department (CID) to appear on bail.
+
+However, he had not appeared before the CID yesterday.
+
+Accordingly, the Criminal Investigations Department (CID) investigated the Panadura Magistrate's Court today (23).
+
+The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" who was arrested and produced in court.
 
 ◼️
 
 [Data](articles/7b497df9.json)
+
+[Extended Data](ext_articles/7b497df9.ext.json)
 
 ---
 
@@ -97,6 +133,8 @@ Its bondholders last week signed off on the government’s proposal to restructu
 ...
 
 [Data](articles/4c01922e.json)
+
+[Extended Data](ext_articles/4c01922e.ext.json)
 
 ---
 
@@ -2097,27 +2135,5 @@ In addition, the Colombo Lotus Tower Executives have said that they will open on
 [Data](articles/48c25b0f.json)
 
 [Extended Data](ext_articles/48c25b0f.ext.json)
-
----
-
-### Rain in some areas today
-
-*2024-12-23 08:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பகுதிகளில்-இன்று-மழை/175-349123) · `ta`
-
-Rain forecasted for southern, Uva provinces and Ratnapura district today evening/night. Snowfall expected in Sabaragamuwa, Central, Southern and Uva provinces this morning.
-
-🟩
-
-The Department of Meteorology has forecast rainfall in some parts of the country today (23).
-
-Accordingly, rain or thunderstorms will occur in the southern and Uva provinces and some parts of the Ratnapura district this evening or night.
-
-The Department of Meteorology has said that in the morning, the Sabaragamuwa, Central, Southern and Uva provinces will have a snowfall in the morning.. (A)
-
-◼️
-
-[Data](articles/9d619824.json)
-
-[Extended Data](ext_articles/9d619824.ext.json)
 
 ---

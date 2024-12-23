@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 23:01:48**
+As of **2024-12-23 23:27:20**
 
 ## Newspaper Stats
 
-*Scraped **61,682** Articles*
+*Scraped **61,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,534
-tamilmirrorlk | 8,831
+tamilmirrorlk | 8,832
 virakesarilk | 10,192
 adaderanasinhalalk | 10,656
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,387 (99.5%) of 61,682 articles have been extended.
+61,390 (99.5%) of 61,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
+
+### Time for the importation of rice further
+
+*2024-12-23 23:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-இறக்குமதிக்கான-கால-அவகாசம்-மேலும்-நீடிப்பு/175-349186) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: Rice import deadline extended to Jan 10. 67,000 metric tons imported so far. Ministry aims to address market shortage.
+
+🟩
+
+The Essential Food Importers Association has said that the Minister of Commerce has agreed to import rice till January 10 due to the ongoing rice shortage.
+
+As a solution to the rice crisis in the market, the deadline for the importation of rice ended on December 20.
+
+The amount of rice brought to Sri Lanka during the time is 67,000 metric tons. Remble
+
+◼️
+
+[Data](articles/d15ea0f2.json)
+
+[Extended Data](ext_articles/d15ea0f2.ext.json)
+
+---
 
 ### Hatton bus accident - shocking information released
 
@@ -196,17 +222,23 @@ The Colombo-Japanam train will operate for seven days and add additional boxes t
 
 ---
 
-### නොවැම්බරයේදී ජාතික උද්ධමනය ඍණ 1.7 යි
+### National inflation is negative in November
 
 *2024-12-23 19:19:59* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බරයේදී-ජාතික-උද්ධමනය-ඍණ-1-7-යි/11-413808) · `si`
 
-මේ වසරේ නොවැම්බර් මාසයේදී මෙරට උද්ධමනය -1.7%ක අගයක් ගන්නා බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි. ජාතික පාරිභෝගික මිල දර්ශකය අනුව මාසිකව මෙම උද්ධමනය ගණනය කෙරේ. ඔක්තෝබර් මාසයේදී මෙම උද්ධමනය -0.7%ක් ලෙස සටහන් විය.
+Negative national inflation: Sri Lanka's November rate -1.7%, down from October's -0.7%. Food inflation drops to 1.3%-0%, non-food to -3.1%.
 
-විශේෂයෙන්ම ආහාර කාණ්ඩයේ උද්ධමනය ඔක්තෝබර් මාසයේදී 1.3% සිට නොවැම්බර් මාසයේදී 0.0%ක් දක්වා අඩු වී තිබේ. එසේම ආහාර නොවන කාණ්ඩයේ උද්ධමනය ඔක්තෝබර් මාසයේදී -2.3% සිට නොවැම්බර් මාසයේදී -3.1%ක් දක්වා අඩු වී ඇත.
+🟩
+
+Sri Lanka's inflation is worth -1.7% in November this year, says the Department of Census and Statistics. This inflation is calculated monthly by the National Customer Price Index. In October, this inflation was recorded-0.7%.
+
+Especially the food category inflation has been reduced to 1.3% to 0.0% in October. Non-food inflation has been reduced to-3.1% in October to-3.1% in October.
 
 ◼️
 
 [Data](articles/23530258.json)
+
+[Extended Data](ext_articles/23530258.ext.json)
 
 ---
 
@@ -567,6 +599,8 @@ Accordingly, the PUCSL called for public opinions on the matter in writing start
 ...
 
 [Data](articles/e8ec6dd5.json)
+
+[Extended Data](ext_articles/e8ec6dd5.ext.json)
 
 ---
 
@@ -1504,8 +1538,6 @@ The Deputy Minister also emphasized that the project is expected to lead to sign
 
 Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
 
-NSB triumphs at CMA Excellence in Integrated Reporting Awards 2024
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
 Save my name, email, and website in this browser for the next time I comment.
@@ -2203,31 +2235,5 @@ He noted that such substandard drugs are eliminated every week, but the Ministry
 ...
 
 [Data](articles/94ac08ea.json)
-
----
-
-### The first removal of the army security today
-
-*2024-12-23 10:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முப்படை-பாதுகாப்பு-இன்று-முதல்-நீக்கம்/175-349131) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Former presidents' armed guards removed from security duties. Public Security Minister Ananda Wijepala announced. Defense Minister says police protection continues.
-
-🟩
-
-Armed forces who have been appointed for the protection of former presidents will be removed from the security process from today.
-
-Public Security Minister Ananda Wijepala announced in Parliament last Tuesday.
-
-However, the Defense Minister said that police protection for former presidents will continue.R
-
-◼️
-
-[Data](articles/ff38905e.json)
-
-[Extended Data](ext_articles/ff38905e.ext.json)
 
 ---

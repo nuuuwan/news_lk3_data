@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 00:03:03**
+As of **2024-12-24 00:16:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,656
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,393 (99.5%) of 61,688 articles have been extended.
+61,395 (99.5%) of 61,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -692,6 +692,8 @@ A bond maturing on 01.12.2031 closed at 11.30/40 percent, down from 10.70/75 per
 
 [Data](articles/c0f3be43.json)
 
+[Extended Data](ext_articles/c0f3be43.ext.json)
+
 ---
 
 ### False Rs. Film Director and Director of Film Directory for 5000 notes
@@ -747,6 +749,8 @@ There was a net foreign inflow of 43 million rupees. (Colombo/Dec23/2024)
 ◼️
 
 [Data](articles/b2805493.json)
+
+[Extended Data](ext_articles/b2805493.ext.json)
 
 ---
 

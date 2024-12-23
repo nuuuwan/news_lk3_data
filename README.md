@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 15:27:23**
+As of **2024-12-23 15:43:42**
 
 ## Newspaper Stats
 
-*Scraped **61,631** Articles*
+*Scraped **61,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,875
 adaderanalk | 7,522
-tamilmirrorlk | 8,822
+tamilmirrorlk | 8,823
 virakesarilk | 10,186
 adaderanasinhalalk | 10,644
 
@@ -26,39 +26,65 @@ adaderanasinhalalk | 10,644
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,356 (99.6%) of 61,631 articles have been extended.
+61,358 (99.6%) of 61,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-23 (Monday)
 
-### CSE புதிய உச்சத்தை எட்டியது
+### துப்பாக்கிச் சூடு; ஒருவர் காயம்
+
+*2024-12-23 15:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூடு-ஒருவர்-காயம்/175-349155) · `ta`
+
+கம்பஹா, வீரகுல பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத ஒருவரே இந்த துப்பாக்கிச் சூட்டை மேற்கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/045f54f8.json)
+
+---
+
+### CSE has reached new peak
 
 *2024-12-23 15:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/CSE-புதிய-உச்சத்தை-எட்டியது/47-349154) · `ta`
 
-கொழும்பு பங்குச் சந்தையின் (CSE) அனைத்து பங்கு விலைச் சுட்டெண் (ASPI) 15,000ஐத் தாண்டியது, இது, திங்கட்கிழமை (23) காலை  வர்த்தகத்தின் போது 15,027 என்ற சாதனையை எட்டியது.
+Colombo Stock Exchange CSE reaches new peak: ASPI exceeds 15,000, S&P SL20 hits 4,494. Total revenue reaches 4 billion.
 
-அதே நேரத்தில், மிகவும் செயலில் உள்ள பங்குகளைக் கண்காணிக்கும் S&P SL20 குறியீடும் அதிகரித்து, 4,494ஐ எட்டியது. வருவாய் 4 பில்லியன் ஆகும்.
+🟩
+
+The ASPI of the Colombo Stock Exchange (CSE) exceeded 15,000, which reached 15,027 during trading on Monday morning (23).
+
+At the same time, the S&P SL20 code, which tracks the most active stocks, reached 4,494. Revenue is 4 billion.
 
 ◼️
 
 [Data](articles/329b6369.json)
 
+[Extended Data](ext_articles/329b6369.ext.json)
+
 ---
 
-### නවසීලන්තයට එරෙහි ශ්‍රී ලංකා එක්දින සංචිතය නම් කරයි
+### Names of Sri Lanka ODI against New Zealand
 
 *2024-12-23 14:15:29* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-එක්දින-සංචිතය-නම්-කරයි/9-413794) · `si`
 
-නවසීලන්ත කණ්ඩායමට එරෙහිව ක්‍රීඩා කරනු ලබන ශ්‍රී ලංකා එක්දින සංචිතය නම් කර තිබේ.
+Sri Lanka names 16-player ODI squad led by Charith to face New Zealand starting January 5th.
 
-චරිත් අසලංකගේ නායකත්වයෙන් නම් කර ඇති මෙම කණ්ඩායමට ක්‍රීඩකයන් 16 දෙනෙකු ඇතුලත් කර තිබේ.
+🟩
 
-එක්දින තරගාවලි ලබන 05 වැනිදා නවසීලන්තයේදී ආරම්භ වීමට නියමිතව ඇත.
+The Sri Lankan ODI squad is named against New Zealand team.
+
+Charith's leadership has been named with 16 players.
+
+The ODIs will begin in New Zealand on the 5th.
 
 ◼️
 
 [Data](articles/78675f43.json)
+
+[Extended Data](ext_articles/78675f43.ext.json)
 
 ---
 
@@ -1482,13 +1508,13 @@ However, political sources said that others have commented on it.
 
 ECONOMYNEXT  – Sri Lanka has earned 4.3 billion rupees in taxes from imports of 67,000 metric tonnes of rice, reports said, indicating the extent the consumer is taxed to grow expensive rice in the country.
 
-Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tone) to keep the basic staple of the country about 50 percent higher than the rest of the world.
+Sri Lanka taxes rice at 65 rupee a kilogram (65,000 rupees a tone) to keep the basic staple of the people, about 50 percent higher than the rest of the world.
 
 The ‘tax’ paid by the consumer in the process of filling their stomachs, is ‘arbitraged’ by the paddy producing and marketing lobby.
 
 Though the International Monetary Fund claims that the tax to GDP ratio is low, a large volume of taxes paid to keep protected businesses are ‘arbitraged’ by domestic industries who are not competitive due to years of protection.
 
-Though the people pay the tax plus price the money does not go to the Treasury but is pocketed by producers who have no incentive to boost yields.
+Though the people pay the tax plus price, the money does not go to the Treasury but is pocketed by producers who have no incentive to boost yields.
 
 ...
 
@@ -2141,23 +2167,5 @@ Ranatunga served on the Board of Directors of Seylan Bank PLC from 2010-2019. Du
 [Data](articles/8e3771d9.json)
 
 [Extended Data](ext_articles/8e3771d9.ext.json)
-
----
-
-### Elpitiya Plantations celebrates excellence
-
-*2024-12-23 02:51:26* · [`dailyftlk`](https://www.ft.lk/business/Elpitiya-Plantations-celebrates-excellence/34-770913) · `en`
-
-The Elpitiya Plantations team receiving the Bronze Award at the CA TAGS Awards 2024
-
-Elpitiya Plantations CEO and Joint Managing Director Bhathiya Bulumulla (second from right) with his team receiving the Second Runner-up Award – Category B at the Best Corporate Citizen Sustainability Awards 2024
-
-Elpitiya Plantations Chief Sustainability Officer M.I. Izzadeen (third from left) and Senior Manager Pradeep Vithanage (right) receiving the Merit Certificate for Best Sustainability Project “Grow-to-Grow” at the Best Corporate Citizen Sustainability Awards 2024
-
-...
-
-[Data](articles/a148813b.json)
-
-[Extended Data](ext_articles/a148813b.ext.json)
 
 ---

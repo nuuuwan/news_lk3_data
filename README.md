@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-23 19:03:52**
+As of **2024-12-23 19:14:38**
 
 ## Newspaper Stats
 
-*Scraped **61,665** Articles*
+*Scraped **61,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,752
 dailyftlk | 4,274
 dailymirrorlk | 4,733
 adalk | 5,881
-adaderanalk | 7,531
+adaderanalk | 7,533
 tamilmirrorlk | 8,827
 virakesarilk | 10,191
 adaderanasinhalalk | 10,653
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,372 (99.5%) of 61,665 articles have been extended.
+61,372 (99.5%) of 61,667 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,6 +88,22 @@ The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" wh
 
 ---
 
+### Hatton bus accident: Cause of fatal crash uncovered
+
+*2024-12-23 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104451/hatton-bus-accident-cause-of-fatal-crash-uncovered) · `en`
+
+The private passenger bus that involved in a tragic accident in the Malliappuwa area on Saturday (21), while traveling from Hatton to Kandy, was inspected by the Nuwara Eliya District Chief Motor Vehicle Inspector today (23), revealing serious safety violations concerning the bus involved.
+
+Initial investigations had confirmed that a malfunctioning lock in the driver’s side door caused the door to suddenly open, ejecting the driver from his seat and leading to the accident. At the request of the Hatton Police Traffic Division, the bus, currently in police custody, was thoroughly examined by the District Chief Motor Vehicle Inspector.
+
+According to the Chief Motor Vehicle Inspector, the door’s lock had been defective for some time, prompting them to resort to temporary measures to keep it closed. Additionally, the driver was found not to have been wearing a seat belt, exacerbating the consequences of the accident.
+
+...
+
+[Data](articles/6544d7a7.json)
+
+---
+
 ### 'My railway station is on the way
 
 *2024-12-23 17:34:21* · [`adalk`](https://www.ada.lk/breaking_news/’මගේ-උවමනාවට-තමයි-දුම්රිය-පාරදිගේ-ගමන්-කළේ’/11-413801) · `si`
@@ -135,6 +151,26 @@ Its bondholders last week signed off on the government’s proposal to restructu
 [Data](articles/4c01922e.json)
 
 [Extended Data](ext_articles/4c01922e.ext.json)
+
+---
+
+### Oral public consultations on electricity tariffs begin on Friday
+
+*2024-12-23 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104449/oral-public-consultations-on-electricity-tariffs-begin-on-friday) · `en`
+
+The oral sessions for obtaining public opinions regarding the electricity tariff revision will commence from December 27, the Public Utilities Commission of Sri Lanka (PUCSL) said.
+
+Accordingly, the general public are allowed to provide their views verbally regarding the CEB’s proposed tariff revision and the counter-proposal of the PUCSL on the matter.
+
+On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months and that no tariff revisions will be made.
+
+Presenting a counter-proposal regarding the matter, the PUCSL has highlighted that the electricity tariff can be reduced by a range of 10% - 20%.
+
+Accordingly, the PUCSL called for public opinions on the matter in writing starting from December 17, while the oral sessions are scheduled to commence on December 27 from Kandy.
+
+...
+
+[Data](articles/71741f68.json)
 
 ---
 
@@ -2097,43 +2133,5 @@ After the event, he posted an image on Truth Social of an American flag flying o
 ...
 
 [Data](articles/089bd9e7.json)
-
----
-
-### Mainly fair weather expected to prevail today
-
-*2024-12-23 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104427/mainly-fair-weather-expected-to-prevail-today) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Southern and Uva provinces and in Rathnapura district during the evening or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern, and Uva provinces during the morning, the statement added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3df9cdf6.json)
-
----
-
-### Visit the Lotus Tower until 11 pm
-
-*2024-12-23 08:22:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுரத்தை-இரவு-11-மணி-வரை-பார்வையிடலாம்/175-349124) · `ta`
-
-Colombo Lotus Tower extended hours: 9 AM to midnight on 25-26 Dec, 9 AM to 11 PM on 27 Dec, and 9 AM to next morning on 31 Dec & Jan 1.
-
-🟩
-
-Its administration has decided to extend the time of the opening of the Colombo Lotus Tower for the public in view of the festival and the New Year.
-
-Accordingly, the lotus tower will be opened from 9 am to midnight on the 25th and 26th of this month and from 9 am to 11 pm on the 27th.
-
-In addition, the Colombo Lotus Tower Executives have said that they will open on the 31st of this month and January 1, from 9 am to the next morning.. (A)
-
-◼️
-
-[Data](articles/48c25b0f.json)
-
-[Extended Data](ext_articles/48c25b0f.ext.json)
 
 ---

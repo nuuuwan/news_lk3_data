@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 02:02:03**
+As of **2024-12-25 02:42:53**
 
 ## Newspaper Stats
 
@@ -26,43 +26,67 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,506 (99.4%) of 61,886 articles have been extended.
+61,509 (99.4%) of 61,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### நத்தார் தினத்தின் உண்மையான அர்த்தத்தை புரிந்துகொண்டு நாட்டுக்காக அனைவரும் ஒன்றிணைவோம் - சஜித் பிரேமதாச
+### Understanding the true meaning of the day of the day, everyone will unite for the country - Sajith Premadasa
 
 *2024-12-25 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202086) · `ta`
 
-இலங்கை வாழ் அனைத்து கிறிஸ்தவ மக்களுக்கும் மகிழ்ச்சியான இனிய நத்தார் வாழ்த்துக்களை மனமார வாழ்த்துகிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தமது வாழ்த்துச் செய்தியை தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-இயேசு கிறிஸ்துவின் பிறப்பை நினைவூட்டும் அமைதி மற்றும் அன்பின் அடையாளமாக புனித நத்தார் பண்டிகை உதயமாகியுள்ளது. இறைவனின் அன்பும் மனித கௌரவமும் மனிதநேயம் சார்ந்த சமூகத்திற்கு நம்பகமான அடித்தளத்தை அமைத்தது. அன்று இயேசு நாதர் போதித்த அமைதி, அன்பு, கருணை, சகவாழ்வு, இரக்கம் ஆகியவை இன்றைய நமது சமூகத்தை நாகரீகமாக்க போதுமானதாக இருந்தது.
 
-அன்பு, அமைதி மற்றும் சகோதரத்துவத்தை மையப்படுத்திய நத்தார் பண்டிகை கிறிஸ்தவர்களின் மத விழா மட்டுமல்ல, உலகெங்கிலும் வாழும் அனைத்து இனம், மதம், கட்சி, நிறம், இளையோர், முதியோர் என பாகுபாடின்றி கொண்டாடப்படும் கலாச்சார விழாவாகவும் உள்ளது. இதன் அர்த்தத்தை சரியாக புரிந்துகொண்டு நாமும் ஒரு நாடாக முன்னேற வேண்டிய நேரம் வந்துள்ளது.
+
+Sajith Premadasa congratulates Christians in Sri Lanka on Holy Festival. Emphasizes Jesus' teachings of peace, love, kindness. Urges unity across races, religions for national progress.
+
+🟩
+
+Opposition Leader Sajith Premadasa congratulates all the Christian people living in Sri Lanka.
+
+The Holy Festival is a symbol of peace and love that reminds the birth of Jesus Christ. The love and human dignity of the Lord set a credible foundation for the humanitarian community. The peace, love, kindness, coexistence and compassion that Jesus taught by Nathar on that day was enough to make our society civilized today.
+
+Focusing on love, peace and brotherhood is not only the religious ceremony of Christians, but also a cultural festival celebrated by all the race, religion, party, color, youth and the elderly living around the world.. It is time for us to understand the meaning of this and advance it as a country.
 
 ...
 
 [Data](articles/3bcda1ba.json)
 
+[Extended Data](ext_articles/3bcda1ba.ext.json)
+
 ---
 
-### பாகிஸ்தானிலும் ஐக்கிய அரபு இராச்சியத்திலும் ஐசிசி சம்பியன்ஸ் கிண்ண கிரிக்கெட் 2025
+### ICC Champions Bowl Cricket 2025 in Pakistan and the United Arab Emirates
 
 *2024-12-25 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202085) · `ta`
 
-ஐசிசி சம்பியன்ஸ் கிண்ண கிரிக்கெட் போட்டி எங்கெங்கு, என்னென்ன திகதிகளில் நடைபெறும் என்பதை சர்வதேச கிரிக்கெட் பேரவை செவ்வாய்க்கிழமை (24) உத்தியோகபூர்வமாக அறிவித்தது.
+Here's a 200-character summary:
 
-பாகிஸ்தான் சம்பந்தப்பட்ட போட்டிகள் பாகிஸ்தானிலும் இந்தியா சம்பந்தப்பட்ட போட்டிகள் ஐக்கிய அரபு இராச்சியத்திலும் நடத்தப்படும் எனவும் இப் போட்டிகளுக்கான வரவேற்பு நாடு என்ற உரிமையை பாகிஸ்தான் கொண்டிருக்கும் எனவும் அறிவிக்கப்பட்டுள்ளது.
 
-2017க்குப் பின்னர் மீண்டும் சம்பியன்ஸ் கிண்ண கிரிக்கெட் போட்டி சர்வதேச அரங்கில் அரங்கேற்றப்படவுள்ளது. இந்தியா, இலங்கை ஆகியவற்றுடன் கூட்டிணைந்து 1996 உலகக் கிண்ணப் போட்டியை நடத்திய பாகிஸ்தானில், 28 வருடங்கள் கழித்து முதல் தடவையாக ஐசிசி போட்டி நிகழ்ச்சி நடைபெறவுள்ளது.
 
-சம்பியன்ஸ் கிண்ண கிரிக்கெட் போட்டியில் பங்குபற்றும் 8 அணிகள் இரண்டு குழுக்களாக வகுப்பட்டு முதல் சுற்ற லீக் முறையில் நடத்தப்படும்.
+ICC Champions Bowl Cricket 2025: Pakistan hosts group stages; UAE for India-related matches. 8 teams compete in 2 groups. Top 2 advance to semis. Finals in Dubai if India qualifies. Political tensions may affect India-Pakistan matches.
+
+🟩
+
+The International Cricket Council officially announced on Tuesday (24) that the ICC Champions Bowl Cricket Tournament will be held on the date.
+
+It has been announced that Pakistan -related competitions will be held in Pakistan and India -related competitions in the United Arab Emirates and Pakistan will have the right to be a welcome country.
+
+The Champions Bowl Cricket Tournament will be played on the international stage again after 2017. In Pakistan, which held the 1996 World Cup with India and Sri Lanka, the ICC will be held 28 years later.
+
+The 8 teams participating in the Champions Bowl Cricket Tournament will be held in two groups in the first round.
+
+Last year, New Zealand and Bangladesh will be held in Afghanistan, Australia, England and South Africa, along with Pakistan and the second largest India in the 2017 ICC Champions Cup at the Kia Oval Stadium in the United Kingdom.
+
+In both groups, the top two teams will be eligible to play in the semi -finals.
 
 ...
 
 [Data](articles/dac8b59d.json)
+
+[Extended Data](ext_articles/dac8b59d.ext.json)
 
 ---
 
@@ -706,21 +730,29 @@ The arrested fishermen have been handed over to the Mannar Fisheries Department 
 
 ---
 
-### வளமான நாட்டை உருவாக்க வலுவான உறுதியுடன் நம்மை அர்ப்பணிப்போம் - ஜனாதிபதியின் நத்தார் வாழ்த்து
+### Let us dedicate ourselves with strong determination to create a prosperous country -the president's greeter
 
 *2024-12-24 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/202072) · `ta`
 
-சகல மக்களும் நாட்டின் எதிர்காலத்திற்காக ஒன்றிணைந்துள்ளோம். பிரிவினையின் இருளில் இருந்து விலகி அமைதியுடன் ஆட்சி செய்யும் தோழர்களின் பூமியாக நமது நாடு படிப்படியாக மாற்றமடைகிறது.
+Summarize: Dedicate to creating a prosperous country through unity and justice, inspired by Jesus' teachings on equality and compassion.
 
-சுதந்திரம் மற்றும் நீதியின் அடிப்படையில் இயேசுநாதர் செய்த போராட்டத்தின் காரணமாக அவர் புனிதரானார். அந்த மனிதாபிமான சுதந்திரம் மற்றும் நியாயத்தை மதித்து அவருடைய வழிகாட்டுதலை உண்மையாக்க ஒரு அரசாங்கமென்ற வகையில் நாங்கள் கடமைப்பட்டுள்ளோம்.
+🟩
 
-வளமான நாட்டை உருவாக்க வலுவான உறுதியுடன் நம்மை அர்ப்பணிக்க இந்தப் புனித நத்தார் தினத்தில் நாம் அனைவரும் உறுதி பூணுவோம் என ஜனாதிபதி அநுரகுமார திசாநாயக்க வாழ்த்துச்செய்தில் தெரிவித்துள்ளார்.
+All people are united for the future of the country. Our country gradually transforms into the earth of the companions who quit the darkness of separation.
 
-ஜனாதிபதி ஊடகப் பிரிவு விடுத்துள்ள நத்தார்  வாழ்த்துச்செய்திலேயே மேற்கண்டவாறு குறிப்பிடப்பட்டுள்ளது. அதில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது,
+He became saint because of the struggle of Jesus on the basis of freedom and justice. We are obligated to be a government to respect that humanitarian freedom and justice and to truth his guidance.
+
+President Anura Kumara Dissanayake congratulated us on this holy day on this holy day to dedicate ourselves with a strong determination to create a prosperous country.
+
+The above is mentioned in the greeting of the President's Media Unit. It further stated that
+
+Christians all over the world celebrate the birthday of Jesus Christ. Jesus Christ, the incarnation of this world to save everyone from suffering, has never seen people from the point of view of being poor rich. That is why Annar chose to be born among the shepherds who were the most poor and innocent human society on birthday in this world as the child of God.
 
 ...
 
 [Data](articles/3965faea.json)
+
+[Extended Data](ext_articles/3965faea.ext.json)
 
 ---
 

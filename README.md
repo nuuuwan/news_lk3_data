@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 13:01:41**
+As of **2024-12-24 13:12:38**
 
 ## Newspaper Stats
 
-*Scraped **61,786** Articles*
+*Scraped **61,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,895
 adaderanalk | 7,551
-tamilmirrorlk | 8,843
+tamilmirrorlk | 8,844
 virakesarilk | 10,204
 adaderanasinhalalk | 10,672
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,443 (99.4%) of 61,786 articles have been extended.
+61,445 (99.4%) of 61,787 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### ரோமானிய தூதுவர் பிரதமரை சந்திப்பு
+
+*2024-12-24 12:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோமானிய-தூதுவர்-பிரதமரை-சந்திப்பு/175-349208) · `ta`
+
+இலங்கையின் ரோமானிய தூதுவர், Steluta Arhire தனது பதவிக் காலத்தை முடித்துக்கொண்டு திங்கட்கிழமை (23) பிரதமர் அலுவலகத்தில் பிரதமர் ஹரிணி அமரசூரியவை சந்தித்து பேச்சுவார்த்தை நடத்தினார்.
+
+குறித்த கலந்துரையாடலில், இலங்கை மற்றும் ரோமானியா இடையேயான இருதரப்பு உறவுகளை வலுப்படுத்துவதற்கு அர்ப்பணிப்புடன் செயல்பட்டதற்காக பிரதமர் தூதுவர் அவர்களுக்கு நன்றி தெரிவித்ததுடன் தூதுவரின் எதிர்கால முயற்சிகளுக்கு வாழ்த்துக்களையும் தெரிவித்தார்.
+
+எதிர்வரும் ஆண்டுகளில் இரு நாடுகளுக்கிடையிலான நெருங்கிய உறவுகளை மேலும் வலுப்படுத்துவதற்கு இலங்கை அரசு அர்ப்பணிப்புடன்  உள்ளது என பிரதமர் இங்கு உறுதிப்படுத்தினார்.
+
+இந் நிகழ்வில் பிரதம செயலாளர் பிரதீப் சபுதந்திரி, மேலதிக பிரதம செயலாளர் சாகரிக்கா போகஹவத்த, வெளியுறவு அமைச்சின் ஐரோப்பா மற்றும் வட அமெரிக்கா இயக்குனர் ஜெனரல் ஷோபிணி குணசேகர உள்ளிட்ட அதிகாரிகள் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/57f648a9.json)
+
+---
 
 ### Sri Lanka awards 2025 crude oil procurement contract to Singapore-based firm
 
@@ -45,6 +63,8 @@ Thus, the proposal submitted by the Minister of Energy to award the relevant pro
 ◼️
 
 [Data](articles/f5fe107e.json)
+
+[Extended Data](ext_articles/f5fe107e.ext.json)
 
 ---
 
@@ -87,6 +107,8 @@ Accordingly, the proposal made by the Minister of Public Administration, Provinc
 ◼️
 
 [Data](articles/5239a8d8.json)
+
+[Extended Data](ext_articles/5239a8d8.ext.json)
 
 ---
 
@@ -1700,6 +1722,8 @@ The event held on December 17 at Uva Wellassa University, saw the enthusiastic p
 
 The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
 
+Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
+
 ...
 
 [Data](articles/3d0cdc50.json)
@@ -2099,27 +2123,5 @@ If you were signed, you can say another. The 500 million is the problem today. I
 [Data](articles/e378f246.json)
 
 [Extended Data](ext_articles/e378f246.ext.json)
-
----
-
-### Sri Lanka-based investment scammers target Japanese: Report
-
-*2024-12-23 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104452/sri-lanka-based-investment-scammers-target-japanese-report) · `en`
-
-An organization in Sri Lanka posing as an IT company is recruiting locals who speak Japanese to target Japanese nationals with investment scams, a local who briefly worked there has told Kyodo News.
-
-While the extent of the damage caused by the phone scammers is unknown, the former worker said in an interview last month that he heard that some victims had transferred as much as 30 million yen ($192,000) to the organization’s account from Japan.
-
-There have been a series of phone and online fraud committed by Japanese scammers based in Southeast Asian countries, but cases in South Asia involving locals hired to victimize people in Japan appear to be rare.
-
-The Sri Lankan man, who is fluent in Japanese after having worked in Japan, said the organization in Colombo, the capital, appeared to involve more than 100 workers, though apparently without any Japanese among them.
-
-He quit the job as he was hesitant to be engaged in defrauding people in the country he feels gratitude toward for his stay.
-
-...
-
-[Data](articles/c091e53d.json)
-
-[Extended Data](ext_articles/c091e53d.ext.json)
 
 ---

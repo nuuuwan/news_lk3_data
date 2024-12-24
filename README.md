@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 16:15:19**
+As of **2024-12-24 16:27:09**
 
 ## Newspaper Stats
 
-*Scraped **61,822** Articles*
+*Scraped **61,823** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
-colombotelegraphcom | 626
+colombotelegraphcom | 627
 bbccomsinhala | 652
 islandlk | 3,744
 economynextcom | 3,767
@@ -26,43 +26,55 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,459 (99.4%) of 61,822 articles have been extended.
+61,461 (99.4%) of 61,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### யாழில் சந்தைக்கு வாழைக்குலை கொண்டு சென்றவர் மயங்கி விழுந்து உயிரிழப்பு!
+### The man who carried the banana to the market in Jaffna falls down
 
 *2024-12-24 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202038) · `ta`
 
-சந்தைக்கு மோட்டார் சைக்கிளில் வாழைக்குலை கொண்டு சென்றவர் திடீரென மயங்கி விழுந்து உயிரிழந்துள்ளார்.
+A man carrying bananas on a motorcycle to market fell ill and died. Doctors attributed his death to a heart valve issue.
 
-தோட்டத்தில் இருந்து வாழைக்குலைகளை மோட்டார் சைக்கிளில் கட்டி , சந்தைக்கு விற்பனைக்காக எடுத்து சென்ற போது , வீதியில் திடீரென மயங்கி விழுந்துள்ளார்.
+🟩
 
-வீதியில் சென்றவர்களை அவரை மீட்டு , வைத்தியசாலையில் அனுமதித்த போது , அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+The man who took the banana on a motorcycle to the market suddenly fell unconscious and died.
 
-மேலும்,இதய வால்வு சுருக்கம் காரணமாகவே மரணம் சம்பவித்துள்ளதாக உடற்கூற்று பரிசோதனை அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+When the bananas were tied from the garden on a motorbike and taken to the market for sale, he suddenly fell unconscious on the street.
+
+Doctors said he had already died when he rescued those who went to the street and admitted him to the hospital.
+
+In addition, the body test reports that the death of the heart valve is due to the abbreviation.
 
 ◼️
 
 [Data](articles/74811124.json)
 
+[Extended Data](ext_articles/74811124.ext.json)
+
 ---
 
-### இடைநிறுத்தப்பட்டது சுற்றுநிருபம்
+### Paused
 
 *2024-12-24 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202013) · `ta`
 
-மேல் மாகாணத்தில் பாடசாலை ஆசிரியர்களுக்கு தனியார் கல்வி வகுப்புகளை மட்டுப்படுத்தி மாகாண கல்வி அமைச்சினால் வெளியிடப்பட்ட சுற்றுநிருபத்தை நடைமுறைப்படுத்துவது தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
+Western Province school teachers suspended private classes due to provincial education ministry circular. Deputy Minister Mahinda Jayasinghe announced suspension of objections to roundabout implementation.
 
-மேல்மாகாணத்தில் உள்ள பாடசாலை ஆசிரியர்கள் தமது பாடசாலைகளில் மாணவர்களுக்கான கல்வி வகுப்புகளை நடாத்துவதற்கு தடைவிதித்து கடந்த வெள்ளிக்கிழமை மாகாண கல்வி அமைச்சின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டிருந்தார்.
+🟩
 
-சுற்றுநிருபத்துக்கு ஆட்சேபனைகள் எழுந்ததையடுத்து அதனை நடைமுறைப்படுத்துவது தற்காலிகமாக நிறுத்தப்பட்டதாக தொழிலாளர் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்துள்ளார்.
+In the Western Province, school teachers have been temporarily suspended to restrict private education classes and implement a circular issued by the Provincial Ministry of Education.
+
+The Secretary of the Provincial Education Ministry issued a circular last Friday, banning school teachers in the Western Province from conducting educational classes for students in their schools.
+
+Deputy Minister of Labor Mahinda Jayasinghe said that the implementation of the objections to the roundabout has been suspended.
 
 ◼️
 
 [Data](articles/1caac1cf.json)
+
+[Extended Data](ext_articles/1caac1cf.ext.json)
 
 ---
 
@@ -1290,6 +1302,18 @@ Additionally, the Treasury Secretary has provided instructions on the procedures
 
 ---
 
+### Investigating The Crooked Anglican Church & The Nuffield Deaf & Blind School
+
+*2024-12-24 10:38:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/investigating-the-crooked-anglican-church-the-nuffield-deaf-blind-school/) · `en`
+
+The government came on the promise to investigate corruption. They received a broad mandate from the people. That corruption whose extirpation the people want, is widespread in many Christian institutions  but we do not see it as the duty of the government to root out corruption from religious institutions.
+
+...
+
+[Data](articles/7dbe8f2c.json)
+
+---
+
 ### සහල් ආනයනය කළ හැකි අවසන් දිනය මෙන්න
 
 *2024-12-24 10:28:18* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ආනයනය-කළ-හැකි-අවසන්-දිනය-මෙන්න/11-413812) · `si`
@@ -2127,25 +2151,5 @@ Great Western Estate is managed by Talawakelle Tea Estates PLC, a subsidiary of 
 [Data](articles/c083a892.json)
 
 [Extended Data](ext_articles/c083a892.ext.json)
-
----
-
-### Autodrome announces new appointments to Board
-
-*2024-12-24 02:55:13* · [`dailyftlk`](https://www.ft.lk/business/Autodrome-announces-new-appointments-to-Board/34-770967) · `en`
-
-Autodrome PLC has announced the appointment of Jitendra Daulagala and Chiranthi Cooray as Independent Non-Executive Directors to its Board with effect from 31 December 2024.
-
-Daulagala began his career as an Accounts Trainee at Warner Lambert Lanka Ltd., before moving on to roles such as Accountant at the Industrial Brush division of Eastern Merchants PLC and Credit Officer at Commercial Leasing PLC.
-
-He currently serves as the Managing Director and Group Financial Director of iOM Lanka Ltd., (formerly EDS).
-
-Daulagala is an Associate of the Chartered Institute of Management Accountants (CIMA, UK) and holds a Master’s in Management Studies from the University of Essex (UK). He was an active member of the Executive Council of the Federation of Information Technology Industry Sri Lanka (FITIS), serving as its Treasurer from 2012 to 2013.
-
-...
-
-[Data](articles/9a4269d2.json)
-
-[Extended Data](ext_articles/9a4269d2.ext.json)
 
 ---

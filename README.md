@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 17:12:28**
+As of **2024-12-24 18:04:08**
 
 ## Newspaper Stats
 
-*Scraped **61,824** Articles*
+*Scraped **61,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,900
-adaderanalk | 7,554
+adalk | 5,901
+adaderanalk | 7,555
 tamilmirrorlk | 8,848
-virakesarilk | 10,214
+virakesarilk | 10,216
 adaderanasinhalalk | 10,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,464 (99.4%) of 61,824 articles have been extended.
+61,468 (99.4%) of 61,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### South Korean opposition puts off plan to impeach acting president Han
+
+*2024-12-24 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104473/south-korean-opposition-puts-off-plan-to-impeach-acting-president-han) · `en`
+
+South Korea’s main opposition party vowed on Tuesday to impeach acting president Han Duck-soo but reversed an earlier plan and decided to wait until later in the week, party officials said, as the risk of further political uncertainty heightened.
+
+The move comes as the country is reeling from impeached President Yoon Suk Yeol’s short-lived bid to impose martial law on Dec. 3 that he partly blamed on the opposition’s propensity to impeach government officials.
+
+Opposition Democratic Party (DP) floor leader Park Chan-dae said the party will wait until later this week to decide whether to go ahead with the plan to impeach Han. Earlier, the party said it would introduce a bill to impeach Han on Tuesday.
+
+The DP, which has a majority in parliament, is taking the step after Han postponed signing legislation to launch a special counsel investigation into President Yoon Suk Yeol’s failed bid to impose martial law.
+
+...
+
+[Data](articles/454f6513.json)
+
+[Extended Data](ext_articles/454f6513.ext.json)
+
+---
+
+### Bribery Police Sergeant arrested
+
+*2024-12-24 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202036) · `ta`
+
+Sergeant arrested for bribery in Trincomalee. Demanded 5000 rupees for handling complaint. Under investigation, to appear in court.
+
+🟩
+
+The Bribery Investigation Unit said that a Sergeant of the Trincomalee Headquarters Division was arrested on Monday (23) when a complaint was bribed from a complainant.
+
+A man from Thambalakamuwa has lodged a complaint at the Trincomalee Police Station regarding the money dispute.
+
+The police sergeant has demanded a bribe of 5,000 rupees, claiming that the complaint can be made and made necessary arrangements to get the money to the complainant.
+
+In addition, the suspect is being investigated by the Uppuweli police and is to be produced before the Trincomalee Magistrate's Court.
+
+◼️
+
+[Data](articles/6aa9048d.json)
+
+[Extended Data](ext_articles/6aa9048d.ext.json)
+
+---
+
+### Climate Changes - Continued Challenges and Global Impacts
+
+*2024-12-24 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202043) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Climate change: Rising global temps, melting glaciers, extreme weather. Human activities like fossil fuel use, deforestation cause greenhouse gas emissions. Impacts include sea level rise, droughts, heatwaves, loss of biodiversity. Solutions: Reduce emissions, transition to renewables, protect ecosystems, adapt infrastructure. International cooperation crucial.
+
+🟩
+
+Climate changes are the most talked about and the problem of the most talked about in the present world.. Climate changes are long -term differences of global or regional climate style, especially the average temperature of the Earth.
+
+It is basically a significant and long -standing climate change that appears in the Earth's constituency due to natural activities and human activities.
+
+Although climate change is not a recent event, the Earth's climate has been changed for millions of years due to various factors, such as volcanic activity, geographical changes and solar radiation.
+
+Increasing gas emission, however, has rapidly increased the speed we feel and enjoy.It is called "human climate changes."
+
+The Earth is facing unprecedented changes in the past century, including the rise of global temperature, the melting of polar region glaciers, the change of climate style, and the increasing of marginal climate events.
+
+...
+
+[Data](articles/7503b5cf.json)
+
+[Extended Data](ext_articles/7503b5cf.ext.json)
+
+---
 
 ### The man who carried the banana to the market in Jaffna falls down
 
@@ -95,6 +169,22 @@ The official said that 389 detainees detained in several prisons across the coun
 [Data](articles/a783a526.json)
 
 [Extended Data](ext_articles/a783a526.ext.json)
+
+---
+
+### ඊශ්‍රායල් රැකියාලාභීන්ට සිය තොරතුරු ලබා ගැනීමට නව වෙබ් ද්වාරයක්
+
+*2024-12-24 15:26:15* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියාලාභීන්ට-සිය-තොරතුරු-ලබා-ගැනීමට-නව-වෙබ්-ද්වාරයක්/11-413820) · `si`
+
+ඊශ්‍රායල් රැකියා සදහා අයදුම් කර ඇති ශ්‍රමිකයින්ට සිය තොරතුරු ලබාගැනීම සඳහා නව වෙබ් ද්වාරයක් විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ දින (2024.12.23) හදුන්වා දෙන ලදී.
+
+විදේශ සේවා නියුක්ති කාර්යාංශයේ ලියාපදිංචිව ඊශ්‍රායල් රැකියා සදහා අයදුම් කරන විගමනික ශ්‍රමිකයින්ගේ පහසුව සදහා නව දැක්මක් යටතේ කාර්යාංශ වෙබ් අඩවිය මෙසේ යාවත්කාලීන කර ඇති අතර, ශ්‍රමිකයින්හට සිදුවන අපහසුතා හා ප්‍රමාදයන් අවම කිරීමේ අරමුණින් මෙය සිදුකර ඇත.
+
+මූලික වශයෙන් ඊශ්‍රායල් රැකියා සදහා අයදුම් කර ඇති ශ්‍රමිකයින්ට මෙම වෙබ් ද්වාරය ඔස්සේ සිය තොරතුරු තමන්ටම ලබා ගැනීමට අවස්ථාව සලසා ඇති අතර  රැකියාව සදහා  අයදුම් කල පසු ඔවුන්ගේ ඉදිරි පියවරයන් සහ අයදුම්කරු රැදී සිටින මට්ටම අයදුම්කරුටම සිය ජංගම දුරකථනය ඔස්සේම හෝ පරිගණකය ආශ්‍රයෙන් දැනගැනීමේ හැකියාව මෙමගින් සලසා දී තිබේ. එසේම අයදුම්කරුගේ තොරතුරු නිවැරදිව, විනිවිදභාවයකින් යුක්තව පහසුවෙන් ලබා ගැනීමේ හැකියාව මෙමගින් සලසා දී ඇත.
+
+...
+
+[Data](articles/9e74b585.json)
 
 ---
 
@@ -184,25 +274,33 @@ Total goods and services exports for November 2024 were 1,269 million dollars, a
 
 ---
 
-### අයහපත් කාලගුණය හේතුවෙන් හානියට පත් වී වගා හෙක්ටයාරයකට රු. 100000ක්
+### Rs.. 100000
 
 *2024-12-24 15:14:31* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණය-හේතුවෙන්-හානියට-පත්-වී-වගා-හෙක්ටයාරයකට-රු--100000ක්/11-413818) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් විනාශයට පත්වූ කුඹුරු හෙක්ටයාරයක් වෙනුවෙන් රුපියල් ලක්ෂයක උපරිම මුදලක් ලබාදීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+Cabinet approves Rs. 100,000 aid per hectare for paddy, maize, potato, onion, bean cultivation to mitigate crop damage.
 
-මේ පිළිබඳව කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවේදී වැඩිදුරටත් අදහස් දැක්වූ කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා,
+🟩
 
-"දෙසැම්බර් 02දා වන විට ගොවිජන සේවා දෙපාර්තමේන්තවේ දත්ත අනුව කුඹුරු අක්කර 91000ක් පූර්ණ හානියට ලක්වෙලා, කුඹුරු අක්කර 86235ක් අර්ධ වශයෙන් හානියට ලක්වෙලා සුළු වාර් මාර්ග 173ක් පූර්ණ වශයෙන් හා 1148ක් අර්ධ වශයෙන් හානියට ලක්වෙලා තියෙනවා.
+The Cabinet has decided to provide a maximum amount of Rs.
 
-නුවරඑළිය දිස්ත්‍රික්කයේ පමණක් එළවළු වගාව අක්කර 750ක් පමණ විනාශ වෙලා තියෙනවා. හානියට පත් කුඹුරුවලින් වැඩි ප්‍රමාණයක් මාස දෙක හමාර හෝ මාස තුනේ වී ප්‍රභේද සති දෙකකට වඩා ගොවිතැන් කරලා අඩු කුඹුරු ඒ අනුව මේ හානි ආපදාව අවම කර ගැනීමට කැබින් මණ්ඩලයේ අවධානය ලක්වෙලා තියෙනවා.
+Speaking further the Cabinet Spokesperson Minister Nalinda Jayatissa speaking at the press conference to inform the Cabinet Decision.
 
-මාස දෙක හමාර තුන වී හෝ කෙටි කාලීන භෝග වගාව සඳහා අවශ්‍ය බිත්තර වී හා බීජ සැපයීම,
+"According to the data of the Department of Agrarian Services, 91,000 acres of paddy lands have been completely damaged by 86235 acres of paddy lands.
 
-පවතින වගා රක්ෂණ ක්‍රමය යටතේ වී වගාව සඳහා හෙක්ටයාරයකට රුපියල් ලක්ෂයක මුදලක්.
+About 750 acres have been destroyed in the Nuwara Eliya district alone. Most of the damaged paddy fields, more than two years or three months, farming, the cabine has been distracted to reduce the damage.
 
-...
+Providing the seeds and seeds needed for two or three years of paddy or short-term crops,
+
+Rs. 100,000 per hectare for paddy cultivation under the prevailing cultrop
+
+Maximum of maize potatoes, big onions and giving a sum of Rs. 100,000 for beans crops
+
+◼️
 
 [Data](articles/cbef9983.json)
+
+[Extended Data](ext_articles/cbef9983.ext.json)
 
 ---
 
@@ -2087,87 +2185,5 @@ Bandara also highlighted delays in rice imports and reports of substandard quali
 [Data](articles/a9e3b9bd.json)
 
 [Extended Data](ext_articles/a9e3b9bd.ext.json)
-
----
-
-### Sharing knowledge in AgriTech: High Commission of India facilitates demonstration of RoWeR agri machinery
-
-*2024-12-24 03:03:22* · [`dailyftlk`](https://www.ft.lk/business/Sharing-knowledge-in-AgriTech-High-Commission-of-India-facilitates-demonstration-of-RoWeR-agri-machinery/34-770970) · `en`
-
-Initiative to boost agricultural productivity in Northern and Central Provinces
-
-In line with the Government of Sri Lanka’s efforts to revolutionise agriculture, the Assistant High Commission of India (AHC), Kandy and the Consulate General of India (CGI), Jaffna, on behalf of the High Commission of India in Colombo, facilitated a live demonstration of advanced agricultural machinery from RoWeR, a brand owned by Mechcreatio Industrial Solutions Ltd., India.
-
-The demonstrations were conducted at various locations in Kandy, Matale, Nuwara Eliya, and Badulla, in association with the Regional Economic Development Agency (REDA) – Central Province, Department of Agriculture, Lions Club, Women’s Chamber of Commerce, and other agencies.
-
-...
-
-[Data](articles/18827921.json)
-
-[Extended Data](ext_articles/18827921.ext.json)
-
----
-
-### In the control of rat fever
-
-*2024-12-24 03:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-கட்டுப்பாட்டுக்குள்/175-349189) · `ta`
-
-Rat fever outbreak controlled in Jaffna districts. Hospital admissions declining. Awareness campaigns ongoing. Vaccine distribution underway.
-
-🟩
-
-In the Jaffna district, Karavetti, Point Pedro and Chavakachcheri areas have been brought under the control of the recent rag.. Regional Health Services Director Dr. A. Ketheeswaran said.
-
-He added that the number of people admitted to the hospital has been decreasing sharply due to the present.
-
-At the same time, awareness activities on the disease have been carried out in full.
-
-Dr. A. Ketheeswaran added that the vaccine was also underway as the vaccine was taken under the control of the epidemic as it was very active.. (A)
-
-◼️
-
-[Data](articles/1b63ecf8.json)
-
-[Extended Data](ext_articles/1b63ecf8.ext.json)
-
----
-
-### Indian CEO Forum, Employers’ Federation hold talks
-
-*2024-12-24 02:59:27* · [`dailyftlk`](https://www.ft.lk/business/Indian-CEO-Forum-Employers-Federation-hold-talks/34-770969) · `en`
-
-The Indian CEO Forum (ICF) President Kishore Reddy (centre) last week met with the Employers’ Federation of Ceylon (EFC) Chairman Dinesh Weerakkody (right) and Director General Vajira Ellepola for an initial discussion on areas of collaboration. The ICF is the premier body representing Indian investments in Sri Lanka, encompassing some of the country’s oldest and largest foreign direct investments, as well as Indian professionals leading major companies, significantly contributing to the local economy. Established in 1929, EFC serves as the national employers’ organisation in Sri Lanka.
-
-◼️
-
-[Data](articles/060284a4.json)
-
-[Extended Data](ext_articles/060284a4.ext.json)
-
----
-
-### Discussion on the structure of the abolition of financial
-
-*2024-12-24 02:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியிடலை-ஒழிப்பதற்கான-கட்டமைப்பு-தொடர்பில்-கலந்துரையாடல்/175-349188) · `ta`
-
-Sri Lanka's anti-terrorism finance committee met at the Presidential Office. The Financial Psychology Division urged swift implementation of Cabinet-approved programs for 24 entities. President stressed a robust structure is crucial for eradicating terror financing and improving international economic confidence.
-
-🟩
-
-The main preparation meeting for Sri Lanka's mutual assessment to be held by the Asia Pacific Committee on the Eradication of Funding for Pure Currency and Eradication of Terrorism was held at the Presidential Office yesterday (23).
-
-The meeting was attended by ministers, secretaries and officials of the Central Bank of Sri Lanka and the Financial Psychology Division.
-
-The Financial Psychology Division emphasized the need to expedite the Cabinet accredited programs designed for 24 companies, including ministries, regulatory institutions and law enforcement agencies.
-
-The President pointed out that a strong and effective structure is essential for the eradication of pure and terrorism to protect Sri Lanka's financial institution and improve international confidence in the country's economy and to get favorable results through it.
-
-Deputy Minister of Finance and Planning Harshana Suriyapperuma and President's Secretary Dr. Nandika Sanath Kumanayake also joined the discussion.. (A)
-
-◼️
-
-[Data](articles/0689e05a.json)
-
-[Extended Data](ext_articles/0689e05a.ext.json)
 
 ---

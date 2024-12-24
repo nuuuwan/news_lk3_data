@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 19:02:37**
+As of **2024-12-24 19:26:51**
 
 ## Newspaper Stats
 
-*Scraped **61,834** Articles*
+*Scraped **61,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,905
+adalk | 5,906
 adaderanalk | 7,556
 tamilmirrorlk | 8,849
 virakesarilk | 10,216
@@ -26,23 +26,57 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,474 (99.4%) of 61,834 articles have been extended.
+61,477 (99.4%) of 61,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### ජාතික රූපවාහිනියේ සභාපති ඉල්ලා අස්වෙයි
+### Sri Lanka is still loan from the international market
+
+*2024-12-24 18:51:10* · [`adalk`](https://www.ada.lk/breaking_news/තවමත්-ලංකාවට-ජාත්‍යන්තර-වෙළඳපොළෙන්-ණය-ගන්න-බෑ/11-413834) · `si`
+
+Sri Lanka's economy shows signs of recovery: Moody's rating upgrade, improved investor confidence, and 5.5% GDP growth in Q3. However, challenges remain in accessing international loans and achieving BBB rating.
+
+🟩
+
+Dr. Harsha de Silva, MPs, Dr. Harsha de Silva, said that the entire economy is a good news to the entire economy.
+
+He was speaking at a media briefing held at the Head Office today (24).
+
+Speaking further Mr. Dr. Harsha de Silva said:
+
+"We're now heard that Sri Lanka is out of the credit of debt, Moody's rating has been increased. Actually, it's good news to the whole country.The country has been severely affected by the government to borrow and severely affected private sector investors. Investors were released to come to Sri Lanka.
+
+...
+
+[Data](articles/a8092f30.json)
+
+[Extended Data](ext_articles/a8092f30.ext.json)
+
+---
+
+### National Rupavahini Chairman resigns
 
 *2024-12-24 18:44:12* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රූපවාහිනියේ-සභාපති-ඉල්ලා-අස්වෙයි/11-413833) · `si`
 
-ජාතික රූපවාහිනී සංස්ථාවේ සභාපති ලෙස කටයුතු කළ ආචාර්‍ය ෂෙනේෂ් බණ්ඩාර මහතා එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+Here's a summary in 200 characters:
 
-අනුර කුමාර දිසානායක මහතා ජනපති ලෙස පත්වීමෙන් පසුව පවත්වාගෙන ගිය තිදෙනෙකුගෙන් සමන්විත කැබිනට් මණ්ඩලයේ ජනමාධ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ වත්මන් විදේශ අමාත්‍ය විජිත් හේරත් මහතා විසින් ෂෙනේෂ් බණ්ඩාර මහතා ජාතික රූපවාහිනයේ සභාපති ලෙස පත්කරනු ලැබීය.
+
+
+National Rupavahini Chairman Dr. Shenesash Bandara resigns. Foreign Minister Vijith Herath appointed new Chairman.
+
+🟩
+
+Dr. Shenesash Bandara, who served as the Chairman of the National Rupavahini Corporation, has resigned from the post.
+
+The current Minister of Foreign Minister Vijith Herath was appointed as the Chairman of the National Television of the Cabinet of the Cabinet.
 
 ◼️
 
 [Data](articles/78480e08.json)
+
+[Extended Data](ext_articles/78480e08.ext.json)
 
 ---
 
@@ -162,23 +196,35 @@ The Earth is facing unprecedented changes in the past century, including the ris
 
 ---
 
-### වත්මන් රජය බොරු කීම නීතිගත කර තිබෙනවා
+### The current government has legalized lying
 
 *2024-12-24 15:50:40* · [`adalk`](https://www.ada.lk/breaking_news/වත්මන්-රජය-බොරු-කීම-නීතිගත-කර-තිබෙනවා/11-413823) · `si`
 
-මෙරට  ඉතිහාසයේ බලවත්ම රජය වත්මන් රජය යටතේ බිහි වී තිබෙන බවත් වත්මන් රජයට සියලු පාර්ශ්වයන්ගේ බලය ලැබී තිබෙන බැවින් රට යම් කඩා වැටීමකට ලක් වුවහොත් එහි වගකීම රජය බාරගත යුතුව තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා කියයි.
+Here's a summary of the text in approximately 200 characters:
 
-මහින්ද රාජපක්ෂ ජනාධිපතිවරයාගේ රජයට තුනෙන් දෙකක බලය මෙන්ම විධායක බලය, පළාත් සභා බලය මෙන්ම ප්‍රාදේශීය සභා බලය තිබුනද වෘත්තිය සමිති බලය නොතිබුන පැවසූ මන්ත්‍රීවරයා වත්මන් රජයට සියලු පාර්ශ්වයන්ගේ බලය තිබෙන බවද පැවසීය.
 
-පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා එම අදහස් පළ කර සිටියේ ඊයේ (23දා) සවස මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි.
 
-වත්මන් රජය විශාල බලාපොරොත්තුවක් ජනතාවට ලබා දුන් බව පැවසූ නාමල් රාජපක්ෂ මහතා රජය ජනතාවට ලබාදුන් පොරොන්දු ඉෂ්ට කළ යුතුව තිබෙන බවදපැවසීය.
+Current govt legalized lying, took responsibility for all parties. Promised public hopes but failed. First time govt allied with coconut industry. Doubts raised about legal credentials. Security removed from ex-President Mahinda Rajapaksa. Next Pradeshiya Sabha perspective submitted to Point Pedro. Public to vote in Provincial Council election.
 
-රජය පොල්මුරය එන තුරුත් ලුණු මිදෙන තුරුත් වී අස්වැන්න ලැබෙන තුරුත් දින ගණන් කරමින් සිටින බවත් ඉතිහාසයේ පළමු වතාවට බොරු කියන එක නීතිගත කොට ඇති බවද පැවසීය.
+🟩
+
+The Government has taken the responsibility of the present government and has the responsibility of all parties in the current government and the current government has taken the responsibility of all parties.
+
+He said that the present government had the power of all parties, which had not had the executive power of the President Mahinda Rajapaksa and the Pradeshiya Sabha.
+
+MP Namal Rajapaksa had expressed his views to the Sri Dalada Madu, after the day to pay homage to the Sri Dalada Madu.
+
+The current government had given a great hope to the public, he had to fulfill the promises of the government.
+
+The first time in history has been legalized for the first time in history that the government is with the coconut.
+
+He said that when a doubt had been arranged on his legal degree, it was an ordinary event to turn it to the opposition when they were resigned.
 
 ...
 
 [Data](articles/dc39586f.json)
+
+[Extended Data](ext_articles/dc39586f.ext.json)
 
 ---
 
@@ -2161,35 +2207,5 @@ The suspects are residents of the Girandurukotte area between 29 - 38 years.
 [Data](articles/e7e42a24.json)
 
 [Extended Data](ext_articles/e7e42a24.ext.json)
-
----
-
-### Janeza shot
-
-*2024-12-24 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204657) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-House shot in St. Anne's, Ja Ela. Two motorcyclists fired shots, damaging gate & walls. No injuries reported. Incident linked to National Election investigations.
-
-🟩
-
-A house was shot dead in St. Anne's area in Ja Ela.
-
-The police said that two persons who came from a motorcycle have been shot today (24).
-
-No person has been damaged by shooting and the gate and walls of the house have been damaged.
-
-Two gunmen had been shot by two gunmen in a motorcycle on the 15th.
-
-The Investigations of the National Elections have been launched in this regard.
-
-◼️
-
-[Data](articles/755e13e4.json)
-
-[Extended Data](ext_articles/755e13e4.ext.json)
 
 ---

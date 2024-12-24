@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 15:43:48**
+As of **2024-12-24 16:02:00**
 
 ## Newspaper Stats
 
-*Scraped **61,809** Articles*
+*Scraped **61,821** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 625
-bbccomsinhala | 651
+bbccomsinhala | 652
 islandlk | 3,744
-economynextcom | 3,762
+economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,898
-adaderanalk | 7,552
-tamilmirrorlk | 8,847
-virakesarilk | 10,212
+adalk | 5,899
+adaderanalk | 7,554
+tamilmirrorlk | 8,848
+virakesarilk | 10,214
 adaderanasinhalalk | 10,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,459 (99.4%) of 61,809 articles have been extended.
+61,459 (99.4%) of 61,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### யாழில் சந்தைக்கு வாழைக்குலை கொண்டு சென்றவர் மயங்கி விழுந்து உயிரிழப்பு!
+
+*2024-12-24 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202038) · `ta`
+
+சந்தைக்கு மோட்டார் சைக்கிளில் வாழைக்குலை கொண்டு சென்றவர் திடீரென மயங்கி விழுந்து உயிரிழந்துள்ளார்.
+
+தோட்டத்தில் இருந்து வாழைக்குலைகளை மோட்டார் சைக்கிளில் கட்டி , சந்தைக்கு விற்பனைக்காக எடுத்து சென்ற போது , வீதியில் திடீரென மயங்கி விழுந்துள்ளார்.
+
+வீதியில் சென்றவர்களை அவரை மீட்டு , வைத்தியசாலையில் அனுமதித்த போது , அவர் ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+மேலும்,இதய வால்வு சுருக்கம் காரணமாகவே மரணம் சம்பவித்துள்ளதாக உடற்கூற்று பரிசோதனை அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/74811124.json)
+
+---
+
+### இடைநிறுத்தப்பட்டது சுற்றுநிருபம்
+
+*2024-12-24 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202013) · `ta`
+
+மேல் மாகாணத்தில் பாடசாலை ஆசிரியர்களுக்கு தனியார் கல்வி வகுப்புகளை மட்டுப்படுத்தி மாகாண கல்வி அமைச்சினால் வெளியிடப்பட்ட சுற்றுநிருபத்தை நடைமுறைப்படுத்துவது தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளது.
+
+மேல்மாகாணத்தில் உள்ள பாடசாலை ஆசிரியர்கள் தமது பாடசாலைகளில் மாணவர்களுக்கான கல்வி வகுப்புகளை நடாத்துவதற்கு தடைவிதித்து கடந்த வெள்ளிக்கிழமை மாகாண கல்வி அமைச்சின் செயலாளர் சுற்றறிக்கை ஒன்றை வெளியிட்டிருந்தார்.
+
+சுற்றுநிருபத்துக்கு ஆட்சேபனைகள் எழுந்ததையடுத்து அதனை நடைமுறைப்படுத்துவது தற்காலிகமாக நிறுத்தப்பட்டதாக தொழிலாளர் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1caac1cf.json)
+
+---
+
+### சிறைக் கைதிகளுக்கு பொதுமன்னிப்பு
+
+*2024-12-24 15:39:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைக்-கைதிகளுக்கு-பொதுமன்னிப்பு/175-349215) · `ta`
+
+கிறிஸ்மஸ் பண்டிகையை முன்னிட்டு 389 சிறைக் கைதிகளுக்கு பொதுமன்னிப்பு வழங்கப்படவுள்ளதாக சிறைச்சாலைகள் திணைக்களத்தின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+
+மேலும், நாடளாவிய ரீதியில் உள்ள பல சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டுள்ள 389 கைதிகள், நத்தார் தினமான புதன்கிழமை (25) விடுவிக்கப்படவுள்ளதாகவும் அவர்களில் நான்கு பெண் கைதிகள் அடங்குவதாகவும் குறித்த அதிகாரி குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/a783a526.json)
+
+---
 
 ### Sri Lanka is still unable to join the international financial market - Harsha
 
@@ -62,6 +110,52 @@ Members of Parliament Dr. Harsha de Silva, MP Dr. Harsha de Silva explained the 
 
 ---
 
+### Sri Lanka service exports rise 20.89-pct in November
+
+*2024-12-24 15:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-service-exports-rise-20-89-pct-in-november-195951/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s services exports rose 20.89 percent in November 2024 to 326.23 million US dollars, the Export Development Board said.
+
+Services exports are ICT/BPM, construction, financial services, transport and logistics.
+
+Estimated value of ICT exports increased by 38.04 percent to 141.39 million US dollars in November 2024 when compared to November 2023.
+
+The estimated value of logistics and transport services increased by 21.09 percent to 162.34 million dollars in November 2024 on a year-on-year basis.
+
+ICT exports increased by 18.28 percent to 1,325.79 million dollars during the period of January to November 2024 compared to the corresponding period of 2023.
+
+Logistics and transport services increased by 10.11 percent to 1,600.27 million dollars from January to November 2024, compared to the corresponding period of 2023.
+
+Total goods and services exports for November 2024 were 1,269 million dollars, an increase of 0.04 compared to November 2023. (Colombo/Dec24/2024)
+
+◼️
+
+[Data](articles/40e232f8.json)
+
+---
+
+### අයහපත් කාලගුණය හේතුවෙන් හානියට පත් වී වගා හෙක්ටයාරයකට රු. 100000ක්
+
+*2024-12-24 15:14:31* · [`adalk`](https://www.ada.lk/breaking_news/අයහපත්-කාලගුණය-හේතුවෙන්-හානියට-පත්-වී-වගා-හෙක්ටයාරයකට-රු--100000ක්/11-413818) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් විනාශයට පත්වූ කුඹුරු හෙක්ටයාරයක් වෙනුවෙන් රුපියල් ලක්ෂයක උපරිම මුදලක් ලබාදීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+
+මේ පිළිබඳව කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවේදී වැඩිදුරටත් අදහස් දැක්වූ කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා,
+
+"දෙසැම්බර් 02දා වන විට ගොවිජන සේවා දෙපාර්තමේන්තවේ දත්ත අනුව කුඹුරු අක්කර 91000ක් පූර්ණ හානියට ලක්වෙලා, කුඹුරු අක්කර 86235ක් අර්ධ වශයෙන් හානියට ලක්වෙලා සුළු වාර් මාර්ග 173ක් පූර්ණ වශයෙන් හා 1148ක් අර්ධ වශයෙන් හානියට ලක්වෙලා තියෙනවා.
+
+නුවරඑළිය දිස්ත්‍රික්කයේ පමණක් එළවළු වගාව අක්කර 750ක් පමණ විනාශ වෙලා තියෙනවා. හානියට පත් කුඹුරුවලින් වැඩි ප්‍රමාණයක් මාස දෙක හමාර හෝ මාස තුනේ වී ප්‍රභේද සති දෙකකට වඩා ගොවිතැන් කරලා අඩු කුඹුරු ඒ අනුව මේ හානි ආපදාව අවම කර ගැනීමට කැබින් මණ්ඩලයේ අවධානය ලක්වෙලා තියෙනවා.
+
+මාස දෙක හමාර තුන වී හෝ කෙටි කාලීන භෝග වගාව සඳහා අවශ්‍ය බිත්තර වී හා බීජ සැපයීම,
+
+පවතින වගා රක්ෂණ ක්‍රමය යටතේ වී වගාව සඳහා හෙක්ටයාරයකට රුපියල් ලක්ෂයක මුදලක්.
+
+...
+
+[Data](articles/cbef9983.json)
+
+---
+
 ### Telijia heated clash
 
 *2024-12-24 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204674) · `si`
@@ -87,6 +181,42 @@ The Police Superintendent of Police (SSP Pandula Weerasinghe has then informed t
 [Data](articles/d34a5218.json)
 
 [Extended Data](ext_articles/d34a5218.ext.json)
+
+---
+
+### Child diagnosed with rare genetic disorder; first case in Sri Lanka
+
+*2024-12-24 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104472/child-diagnosed-with-rare-genetic-disorder-first-case-in-sri-lanka) · `en`
+
+A rare genetic disorder, Congenital Methemoglobinemia, has been diagnosed for the first time in Sri Lanka, affecting a child from the Medawachchiya area in Anuradhapura.
+
+The condition, which causes the skin to turn blue and severely impairs breathing, was identified by a specialist at the premature infant unit of the Anuradhapura Teaching Hospital.
+
+Dr. S.U.C. Ranawaka, a specialist doctor at the neonatal care unit of Anuradhapura Teaching Hospital explained that this disorder has significantly impacted the child’s growth and development. Initial tests to confirm the diagnosis were not available locally, prompting the doctor to send the child’s blood sample to Germany for advanced testing. The results have confirmed the presence of Congenital Methemoglobinemia.
+
+Despite the challenges, the doctor emphasized that timely intervention saved the child’s life. The Ministry of Health provided the required medication, enabling effective treatment, he noted.
+
+...
+
+[Data](articles/f8a4733c.json)
+
+---
+
+### Underworld will be suppressed, assures Cabinet Spokesman
+
+*2024-12-24 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104471/underworld-will-be-suppressed-assures-cabinet-spokesman) · `en`
+
+Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that necessary steps will be taken to curb the resurgence of underworld activities.
+
+Addressing the Cabinet press briefing held today (24), Dr. Jayatissa highlighted the commitment of security forces to address this issue effectively.
+
+“As a government, we are dedicated to suppress the underworld and combat drug trafficking. However, we do not intend to rely solely on short-term or two-week operations. The security forces are systematically intervening in this matter,” he said.
+
+Dr. Jayatissa further assured that relevant measures are already underway and added, “We will be able to see the results of that.”
+
+◼️
+
+[Data](articles/81dd5179.json)
 
 ---
 
@@ -125,6 +255,22 @@ Therefore, Senjon Tillery Surface Plantation workers are demanding that goodwill
 [Data](articles/97f2d754.json)
 
 [Extended Data](ext_articles/97f2d754.ext.json)
+
+---
+
+### Sri Lanka Foreign Ministry, UNITAR to sign 3-year cooperation agreement
+
+*2024-12-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-ministry-unitar-to-sign-3-year-cooperation-agreement-196118/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a proposal for the Ministry of Foreign Affairs, Foreign Employment and Tourism to sign a 3-year collaboration agreement with the United Nations Institute for Training and Research (UNITAR).
+
+“Under this agreement, both sides will work together using existing resources to meet the Sustainable Development Goals (SDG) 2030 Agenda,” Minister Nalinda Jayatissa told reporters on Tuesday.
+
+This includes providing training and learning support, training of diplomats, training on disaster risk reduction and crisis management and the use of geo-information technology, he said. (Colombo/Dec24/2024)
+
+◼️
+
+[Data](articles/7906526a.json)
 
 ---
 
@@ -179,6 +325,24 @@ Deputy General Manager Panduga Swarnahansa added that more bus services will be 
 [Data](articles/658dda63.json)
 
 [Extended Data](ext_articles/658dda63.ext.json)
+
+---
+
+### Rs2.37bn India grant to develop Sri Lanka’s Eastern Province
+
+*2024-12-24 13:47:00* · [`economynextcom`](https://economynext.com/rs2-37bn-india-grant-to-develop-sri-lankas-eastern-province-196115/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to sign an agreement with India to strengthen socio-economic development in the Eastern Province, Minister Nalinda Jayatissa said.
+
+According to the framework of the memorandum of understanding, several development projects will be implemented in the Eastern Province under grant aid of 2,371.83 million rupees from India.
+
+Of these, 33 projects are related to infrastructure development and livelihood improvement with emphasis on education, health, agriculture, fisheries, tourism and community empowerment.
+
+“Of this grant, 315 million rupees is for education, 780 million rupees is for health, 620 million rupees for agriculture and 230 million rupees for fisheries sector developments,” Jayatissa told reporters on Tuesday. (Colombo/Dec24/2024)
+
+◼️
+
+[Data](articles/7c38eb0c.json)
 
 ---
 
@@ -388,6 +552,24 @@ Accordingly, the proposal submitted by the Minister of Public Administration, Pr
 
 ---
 
+### Sri Lanka awards Murban crude deal to Aditya Birla Singapore
+
+*2024-12-24 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-murban-crude-deal-to-aditya-birla-singapore-196111/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 6 shipments of Murban type of crude oil from April 1, 2025 to August 31, 2025 to Aditya Birla Global Trading (Singapore) Pte Ltd, a government statement said.
+
+Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers, and 6 bids were received.
+
+The bid submitted by Aditya Birla in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
+
+Murban is a light crude that can be processed by a refinery owned by CPC. (Colombo/Dec24/2024)
+
+◼️
+
+[Data](articles/7fd3b0b6.json)
+
+---
+
 ### Roman Ambassador meets Prime Minister
 
 *2024-12-24 12:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோமானிய-தூதுவர்-பிரதமரை-சந்திப்பு/175-349208) · `ta`
@@ -441,6 +623,28 @@ Officials including Chief Secretary Pradeep Saputhandri, Additional Chief Secret
 ◼️
 
 [Data](articles/9d9974cd.json)
+
+---
+
+### Sri Lanka exports down 5.6-pct in November 2024
+
+*2024-12-24 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-down-5-6-pct-in-november-2024-195926/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s merchandise exports fell 5.6 percent to 943.1 million with rubber based products, food and beverages weakening, the Export Development Board said.
+
+In the eleven months to November exports were 11,611.90 million US dollars, a 6.44 percent increase from last year.
+
+In the month of November, apparel and textile exports were up 0.54 percent compared to the same period last year, generating 397.19 million US dollars.
+
+Exports to USA and UK increased by 1.4 percent and 4.6 percent respectively.
+
+Export earnings of coconut based products increased by 13.08 percent.
+
+Export earnings of coconut kernel products, coconut fiber products and coconut shell products increased by 12.37 percent, 11.73 percent and 16.72 percent respectively compared to November 2023.
+
+...
+
+[Data](articles/e367e56b.json)
 
 ---
 
@@ -1149,6 +1353,28 @@ Additionally, the Treasury Secretary has provided instructions on the procedures
 ◼️
 
 [Data](articles/86ace306.json)
+
+---
+
+### ප්‍රියා සූරියසේන: 'ප්‍රියාලා ඉන්නේ එක්කෙනෙක් විතරයි'
+
+*2024-12-24 10:07:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0xk4n02wgo) · `si`
+
+සිංහල සංගීත ක්ෂේත්‍රය තුළ බිහි වූ වෙනස් කටහඬකට හිමිකම් කී ජනප්‍රිය ගායන ශිල්පියෙකු වූ ප්‍රියා සූරියසේන අද (දෙසැ: 24) පෙරවරුවේ අභාවප්‍රාප්ත විය.
+
+70 දශකයේ සිට ශ්‍රී ලංකේය සංගීත ක්ෂේත්‍රය ගීත රැසකින් පෝෂණය කළ ඔහු මිය යන විට 80 වන වියේ පසු වූ බව ඔහුගේ දියණිය ඉරෝෂි සූරියසේන බීබීසී සිංහල වෙත පැවසුවා ය.
+
+ඇය සඳහන් කළේ, මාස තුනකට ආසන්න කාලයක් කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටි ඔහු අසාධ්‍ය තත්ත්වයට පත් වීමෙන් පසු දැඩි සත්කාර ඒකකයට ඇතුළත් කළ බව ත් එහිදී අද පෙරවරු 6.15ට පමණ අභාවප්‍රාප්ත වූ බව ත් ය.
+
+අඳුර අඳුර මගේ, හෙට දවසේ අප දෙදෙනා, ඈත රන් විමන්, රටකින් එහා ඉගිලී, මගේ ළමැද, මොහොතක සුව දෙන, හදවත ඉල්ලා, සුදු පරවි රෑන සේ ආදිය ඔහුගේ ගී නිර්මාණ අතර අතිශය ජනාදරයට පාත්‍ර වූ ගීත අතරින් කිහිපයකි.
+
+පාසල් අවධියේදී ම මොහිදීන් බෙග් සහ ජේ.ඒ. මිල්ටන් පෙරේරා වැනි ගායකයින්ගේ ගී ගයමින් ගායන දිවිය ඇරඹූ බව ඔහු වරෙක සරසවිය කලා පුවත්පත සමග සංවාදයකට එක් වෙමින් සඳහන් කර තිබිණි.
+
+මාදම්පෙ මධ්‍ය මහා විද්‍යාලයෙන් අධ්‍යාපනය ලද ඔහු පාසලේ සංගීත ගුරුවරයා හරහා ගුවන් විදුලියට පා තැබූ ආකාරය ද එහිදී සිහිපත් කර තිබිණි.
+
+...
+
+[Data](articles/64eceb96.json)
 
 ---
 
@@ -1921,223 +2147,5 @@ It was attended by diplomats, representatives of international organisations, se
 [Data](articles/034c2688.json)
 
 [Extended Data](ext_articles/034c2688.ext.json)
-
----
-
-### USAID collaborates with Open University to offer first certificate program in migration law and policy
-
-*2024-12-24 02:40:53* · [`dailyftlk`](https://www.ft.lk/news/USAID-collaborates-with-Open-University-to-offer-first-certificate-program-in-migration-law-and-policy/56-770965) · `en`
-
-The United States through the United States Agency for International Development (USAID) yesterday announced the successful completion of the first certificate program in migration law and policy in Sri Lanka by 69 professionals who now have the tools and knowledge to take the fight against human trafficking back to their communities.
-
-The six-month course was a joint effort between USAID’s “Empowering Civil Society to Combat Human Trafficking” project (ECCT) and the Open University of Sri Lanka (OUSL). The SAFE Foundation implements ECCT. This course on migration and law marked the first ever collaboration between a civil society organisation and a leading Sri Lankan university to provide a structured academic course.
-
-...
-
-[Data](articles/5bcf63bd.json)
-
-[Extended Data](ext_articles/5bcf63bd.ext.json)
-
----
-
-### Nathar Kerol Music in the Presidential Office
-
-*2024-12-24 02:37:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அலுவலகத்தில்-நத்தார்-கெரோல்-இசை/175-349187) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Annual Special Carol concert begins at President's Office. Decorated with Nathar Kerol lighting. Sri Lanka Army performs. Continues tomorrow at Presidential Secretariat Complex."
-
-🟩
-
-The President's Office, Armed Forces and the Police, the Annual Special Carol concert, started yesterday under the patronage of Anil Jayantha Fernando, Minister of Labor and Economic Development.
-
-The President's Office Complex and the surrounding areas were decorated with the lighting of the Nathar Kerol concert and the Nathar Kerole concert was performed by the Sri Lanka Army's lyrics and band.
-
-The Christmas Kerole concert will be held tomorrow at the Presidential Secretariat Complex from 7.00 pm till the 25th.. (A)
-
-◼️
-
-[Data](articles/64991007.json)
-
-[Extended Data](ext_articles/64991007.ext.json)
-
----
-
-### Sri Lankan exporters attend world’s largest food innovation exhibition in Paris
-
-*2024-12-24 01:54:49* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-exporters-attend-world-s-largest-food-innovation-exhibition-in-Paris/34-770952) · `en`
-
-The Sri Lanka Export Development Board (EDB), in collaboration with the Sri Lankan Embassy in France, successfully organised Sri Lanka’s participation at SIAL Paris 2024 – one of the world’s leading F&B exhibitions held once every two years in France – which took place from 19 to 23 October in Paris.
-
-Local F&B businesses representing a wide range of sectors, such as coconut-based products, confectionery items, cashew and savoury products, frozen and processed food, and value-added innovative products, made use of this opportunity to enhance their business opportunities.
-
-...
-
-[Data](articles/647c692f.json)
-
-[Extended Data](ext_articles/647c692f.ext.json)
-
----
-
-### Why did the Colombo Stock Exchange sortintly soared?
-
-*2024-12-24 01:37:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjdnrvxrxn9o) · `si`
-
-Colombo Stock Exchange surge: Low interest rates, economic stability, IMF deal boost investor confidence, Fitch Ratings upgrade attract foreign capital.
-
-🟩
-
-The highest number of weeks have increased in history over the closest to the Colombo Stock Exchange.
-
-The first stock price index has exceeded 14,000 units in history, and on December 23, the value exceeded 15,000.
-
-BBC was looking for the increase in the value of the stock market.
-
-The CEO of the Colombo Stock Exchange has pointed out that the Colombo Stock Executive Officer has been affected by the CEO of the Colombo Stock Exchange today.
-
-Dimantha Mathew also confirmed the main Research and Strategies of the Colombo Stock Exchange in response to BBC Sinhala.
-
-"Today Sri Lanka has a very low interest rate. So a lot of people have been tempted to invest money in stock market, "he said.
-
-Economic Analyst Dhananath Fernando stated that when the interest rate is low, the stock market investments are increasing.
-
-"Economic and political stability has been able to have faith among investors," says Rajiva Bandaranaike.
-
-...
-
-[Data](articles/cfb21557.json)
-
-[Extended Data](ext_articles/cfb21557.ext.json)
-
----
-
-### Can Sri Lanka avoid borrowing from international bondholders in the coming years?
-
-*2024-12-24 00:50:44* · [`dailyftlk`](https://www.ft.lk/columns/Can-Sri-Lanka-avoid-borrowing-from-international-bondholders-in-the-coming-years/4-770936) · `en`
-
-If we do not borrow externally in 2028, we will either default in 2028 or have to cut down our imports drastically
-
-Sri Lanka’s emergence from default status is positive news. This means we can gradually start borrowing once again from ISB bondholders when most external debt payments come due in 2028. Many Sri Lankans may inquire why we should borrow from bondholders again and if this is detrimental. Allow me to explain as simply as possible. It would be ideal if we never had to borrow from international capital markets. However, Sri Lanka does not have a choice at present.
-
-...
-
-[Data](articles/f457a427.json)
-
-[Extended Data](ext_articles/f457a427.ext.json)
-
----
-
-### Economic crisis and household debt in the north
-
-*2024-12-24 00:44:48* · [`dailyftlk`](https://www.ft.lk/columns/Economic-crisis-and-household-debt-in-the-north/4-770935) · `en`
-
-Household incomes are inadequate to keep up with rising living costs
-
-The current economic crisis cannot be resolved by households or social institutions alone, and loans are not the solution. The Government should introduce livelihood and income stabilisation programs to help people escape the debt trap. It should also leverage cooperatives to create markets and supply chains for rural production, while expanding affordable credit for rural livelihoods and small-scale industrial growth. Additionally, a universal social security program should be implemented
-
-...
-
-[Data](articles/ca8bf0fc.json)
-
-[Extended Data](ext_articles/ca8bf0fc.ext.json)
-
----
-
-### Climate resilience: Critical need for Sri Lankan salt industry
-
-*2024-12-24 00:40:31* · [`dailyftlk`](https://www.ft.lk/columns/Climate-resilience-Critical-need-for-Sri-Lankan-salt-industry/4-770934) · `en`
-
-The recent salt shortage in the market, coupled with the Cabinet decision on 18 December 2024 to allow the import of 30,000 MT of non-iodised salt, has sparked widespread attention and discussions. Further, this decision has generated negative responses and uninformed statements from the general public, as well as politically driven media outlets. Despite the negativity surrounding this issue, the sudden attention on the Sri Lankan salt industry presents an opportunity to discuss the real situation and the importance of safeguarding this unique industry for future generations. Before delving into the specifics of the recent events, it is essential to establish an overview of the salt industry in Sri Lanka.
-
-...
-
-[Data](articles/52c5a834.json)
-
-[Extended Data](ext_articles/52c5a834.ext.json)
-
----
-
-### Challenges of collaborative governance for Sri Lanka: Divided path ahead
-
-*2024-12-24 00:34:04* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-of-collaborative-governance-for-Sri-Lanka-Divided-path-ahead/4-770933) · `en`
-
-Long-standing political divisions and ideological differences among parties, both at the national and regional levels, often result in gridlock and hinder the formation of a united front
-
-Sri Lanka is at a crucial juncture in its history, facing numerous challenges that threaten the stability and future of the nation. While some argue that collaborative governance, involving cooperation among political parties and civil society, could offer a way forward, the realities of the current political landscape, economic difficulties, and social divisions suggest that this approach may face significant hurdles. The promise of collaboration is often idealised, but the deep-seated divisions within the country make it a far more complicated and potentially ineffective solution.
-
-...
-
-[Data](articles/a5c72120.json)
-
-[Extended Data](ext_articles/a5c72120.ext.json)
-
----
-
-### Continuity in change
-
-*2024-12-24 00:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Continuity-in-change/4-770932) · `en`
-
-The baby is not being thrown out with the bath water by the new AKD Government
-
-Change was the platform on which President Anura Kumara Dissanayake (AKD) and later the National People’s Power (NPP) Government claimed power in the November 2024 elections. Change from the old ways of doing politics, of governance and in the way decisions are taken on behalf of the country and its people.
-
-And people fed up with the powers-that-be were seeking exactly that.
-
-Despite that, the NPP absolute majority was a bolt from the blue, even for the party itself. The NPP made pre-election statements, saying why it was not critical to get an absolute majority and why a simple majority would be enough to do its work.
-
-Yet the people spoke as one and by giving the party a full mandate to make changes, it gave AKD and his team a free hand to change the course of politics and governance in Sri Lanka.
-
-...
-
-[Data](articles/800a82bb.json)
-
-[Extended Data](ext_articles/800a82bb.ext.json)
-
----
-
-### Sri Lanka’s public sector needs to undergo conceptual revolution
-
-*2024-12-24 00:25:31* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-public-sector-needs-to-undergo-conceptual-revolution/4-770931) · `en`
-
-Even though there are some entities which are relatively efficient, overall, Sri Lanka’s public sector is inefficient
-
-With power comes responsibility. With the new swearing-in of the new ministers, new blood is infused to the Government. However, public sector officials and their thinking patterns at the grassroot levels have not changed. With an inactive, inefficient public sector, can a government run a country and lead it to the utopia that we all think of? Let’s dive into this more deeply and see the depth of the problem.
-
-...
-
-[Data](articles/6040e06b.json)
-
-[Extended Data](ext_articles/6040e06b.ext.json)
-
----
-
-### 2024-12-23 (Monday)
-
-### Irish rebellion inspired Jews
-
-*2024-12-23 23:37:00* · [`islandlk`](http://island.lk/irish-rebellion-inspired-jews/) · `en`
-
-In the early years of the Twentieth Century the Irish and the Jews were unwittingly united by their military campaign against British rule in Ireland and Palestine. “Reasons for these allegiances are complex and rooted in shared experiences of imperialism” wrote M. C. Rast author of Shaping Ireland’s Independence: Nationalist, Unionist and British Solutions to the Irish Question 1909-1925 in History Today’s June 2024 edition.
-
-...
-
-[Data](articles/887ac62d.json)
-
----
-
-### CIC launches Besto Omega 3 Eggs
-
-*2024-12-23 23:23:00* · [`islandlk`](http://island.lk/cic-launches-besto-omega-3-eggs/) · `en`
-
-CIC has introduced its latest innovation, CIC Besto Omega 3 Eggs, to the Sri Lankan market, catering to consumers seeking nutrient-dense, high-quality eggs. These naturally enriched eggs are produced by hens fed with an all-vegetarian diet, free of antibiotics, hormones, and animal by-products, ensuring both superior taste and exceptional nutritional value. CIC Besto Eggs are fortified naturally through specialized feed, setting a new benchmark in egg production.
-
-CIC Besto eggs offer significantly higher levels of essential nutrients. These eggs contain around four times the Omega-3 fatty acids, Vitamin A, Vitamin B9 (Folic Acid), Vitamin D3, Vitamin E, and xanthophyll than regular eggs, as well as double the Zinc and Iron, making them a true nutritional powerhouse.
-
-...
-
-[Data](articles/abde1c71.json)
 
 ---

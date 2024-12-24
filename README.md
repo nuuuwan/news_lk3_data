@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 18:04:08**
+As of **2024-12-24 18:24:20**
 
 ## Newspaper Stats
 
-*Scraped **61,828** Articles*
+*Scraped **61,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,901
+adalk | 5,903
 adaderanalk | 7,555
-tamilmirrorlk | 8,848
+tamilmirrorlk | 8,849
 virakesarilk | 10,216
 adaderanasinhalalk | 10,676
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,468 (99.4%) of 61,828 articles have been extended.
+61,470 (99.4%) of 61,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### மீண்டும் தலைதூக்கும் பாதாள உலக குழுக்கள்
+
+*2024-12-24 18:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-பாதாள-உலக-குழுக்கள்/175-349222) · `ta`
+
+மீண்டும் தலைதூக்கும் பாதாள உலகத்தை ஒடுக்குவதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்படும் என அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+இன்று (24) அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பில்  இதை தெரிவித்தார்.
+
+"அரசாங்கம் என்ற வகையில், பாதாள உலகத்தையும் போதைப்பொருள் கடத்தலையும் எதிர்த்துப் போராடுவதற்கு நாங்கள் அர்ப்பணிப்புடன் இருக்கிறோம்.
+
+அதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன என்று மட்டும்தான் சொல்ல முடியும். அதன் முடிவுகளை நீங்கள் பார்க்க முடியும்." என்றார். R
+
+◼️
+
+[Data](articles/1636dbb0.json)
+
+---
 
 ### South Korean opposition puts off plan to impeach acting president Han
 
@@ -172,19 +190,41 @@ The official said that 389 detainees detained in several prisons across the coun
 
 ---
 
-### ඊශ්‍රායල් රැකියාලාභීන්ට සිය තොරතුරු ලබා ගැනීමට නව වෙබ් ද්වාරයක්
+### වාහන ආනයන බදු ගැන තවම තීරණයක් නෑ
+
+*2024-12-24 15:30:42* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-බදු-ගැන-තවම-තීරණයක්-නෑ/11-413821) · `si`
+
+ආනයන කරනු ලබන්නේ කවර වාහනද එසේම කවර දිනකදීද යන්න සම්බන්ධයෙන්  පමණක් මේ වන විට තීරණයක් ගෙන ඇති නමුත් වාහන ආනයනයේදී අයකරන බදු සම්බන්ධයෙන් තවමත් තීරණයක් ගෙන නොමැති බව කැබිටන් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+
+වාහන ආනයනයේදී අයකරන බදු සම්බන්ධයෙන් ඉදිරියේදී මුදල් අමාත්‍යාංශය විසින් නිවේදනය කරනු ඇති බව අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+
+◼️
+
+[Data](articles/b85d408b.json)
+
+---
+
+### The Israeli Homployment is a new web portal to get their information
 
 *2024-12-24 15:26:15* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියාලාභීන්ට-සිය-තොරතුරු-ලබා-ගැනීමට-නව-වෙබ්-ද්වාරයක්/11-413820) · `si`
 
-ඊශ්‍රායල් රැකියා සදහා අයදුම් කර ඇති ශ්‍රමිකයින්ට සිය තොරතුරු ලබාගැනීම සඳහා නව වෙබ් ද්වාරයක් විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ දින (2024.12.23) හදුන්වා දෙන ලදී.
+Israeli Homployment: New web portal for job seekers. Allows applicants to register and access information via mobile. Chairman Kiola Wickremasinghe introduced the service. Visit www.slbfe.lk for details.
 
-විදේශ සේවා නියුක්ති කාර්යාංශයේ ලියාපදිංචිව ඊශ්‍රායල් රැකියා සදහා අයදුම් කරන විගමනික ශ්‍රමිකයින්ගේ පහසුව සදහා නව දැක්මක් යටතේ කාර්යාංශ වෙබ් අඩවිය මෙසේ යාවත්කාලීන කර ඇති අතර, ශ්‍රමිකයින්හට සිදුවන අපහසුතා හා ප්‍රමාදයන් අවම කිරීමේ අරමුණින් මෙය සිදුකර ඇත.
+🟩
 
-මූලික වශයෙන් ඊශ්‍රායල් රැකියා සදහා අයදුම් කර ඇති ශ්‍රමිකයින්ට මෙම වෙබ් ද්වාරය ඔස්සේ සිය තොරතුරු තමන්ටම ලබා ගැනීමට අවස්ථාව සලසා ඇති අතර  රැකියාව සදහා  අයදුම් කල පසු ඔවුන්ගේ ඉදිරි පියවරයන් සහ අයදුම්කරු රැදී සිටින මට්ටම අයදුම්කරුටම සිය ජංගම දුරකථනය ඔස්සේම හෝ පරිගණකය ආශ්‍රයෙන් දැනගැනීමේ හැකියාව මෙමගින් සලසා දී තිබේ. එසේම අයදුම්කරුගේ තොරතුරු නිවැරදිව, විනිවිදභාවයකින් යුක්තව පහසුවෙන් ලබා ගැනීමේ හැකියාව මෙමගින් සලසා දී ඇත.
+Introduced to the workers who have applied for Israel's jobs were introduced to the Foreign Employment Bureau Chairman Kiola Wickremasinghe, Chairman of the Foreign Employment Bureau.
 
-...
+The Bureau Website has been updated to the convenience of the migrant workers for the promotion of Israeli employment registration for Israeli jobs.
+
+These will allow workers to apply for their employment primarily for Israel's jobs and have provided their ability to get their information on their own hand and the level of their mobile phone or the level of the applicant.. It also provided the applicant's information accurately, with transparency.
+
+This information is available on www.slbfe.lk ~ Israeli |Select the portal and enter your National Identity Card Number, Telephone Number, Telephone Number and other relevant data. The Bureau is expecting further development of this service to the requirement in the future.
+
+◼️
 
 [Data](articles/9e74b585.json)
+
+[Extended Data](ext_articles/9e74b585.ext.json)
 
 ---
 
@@ -347,6 +387,8 @@ Despite the challenges, the doctor emphasized that timely intervention saved the
 ...
 
 [Data](articles/f8a4733c.json)
+
+[Extended Data](ext_articles/f8a4733c.ext.json)
 
 ---
 
@@ -809,6 +851,22 @@ Export earnings of coconut kernel products, coconut fiber products and coconut s
 ◼️
 
 [Data](articles/4ed84efc.json)
+
+---
+
+### දේශපාලන අධිකාරිය වෙනස් වුණත් රාජ්‍ය යාන්ත්‍රණය සම්පූර්ණයෙන් කනපිට ගැසුනේ නෑ
+
+*2024-12-24 12:40:11* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-අධිකාරිය-වෙනස්-වුණත්-රාජ්‍ය-යාන්ත්‍රණය-සම්පූර්ණයෙන්-කනපිට-ගැසුනේ-නෑ/11-413816) · `si`
+
+දේශපාලන අධිකාරිය වෙනස් වුවද රාජ්‍ය යාන්ත්‍රණය මුළුමනින්ම කනපිට ගැසුනු බවට කිසිවෙකුට ප්‍රකාශ කළ නොහැකි බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+පොහොර සහනාධාර සම්බන්ධයෙන් පැන නැගී ඇති ගැටළු සම්බන්ධයෙන් ​අද(24දා) කැබිනට් මාධ්‍ය හමුවේදී මාධ්‍යවේදියෙකු යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“දේශපාලන අධිකාරිය වෙනස් වුනාට රාජ්‍ය යාන්ත්‍රණය මුළුමනින්ම කනපිට ගැහුනා කියලා කාටවත් කියන්නත් බෑ. එහෙම හිතන්නත් ඕනී නෑ. එය කාර්යක්ෂම කරගෙන ජනතාවට අත්‍යාවශ්‍ය මොහොතේදී ජනතාවට සහනාධාර ලබා දෙන්න කටයුතු කරනවා. ”
+
+◼️
+
+[Data](articles/c3a29dc6.json)
 
 ---
 
@@ -2119,71 +2177,5 @@ Him. It was reported that he had already died when she took the teaching hospita
 [Data](articles/dfd08288.json)
 
 [Extended Data](ext_articles/dfd08288.ext.json)
-
----
-
-### Militant officer death of a heart attack
-
-*2024-12-24 03:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-அதிகாரி-மாரடைப்பால்-உயிரிழப்பு/175-349190) · `ta`
-
-Sergeant Ravitha Rangana Dissanayake, 35, died of heart attack while on duty at Palali army camp. He joined SL army in 2007 and was admitted to hospital for heartburn before passing away.
-
-🟩
-
-A sergeant officer who was on duty at the Palali army camp died of a heart attack.
-
-Ravitha Rangana Dissanayake (age 35) from Kurunegala died.
-
-He joined the Sri Lankan army in 2007 and served at the Palali Army camp.
-
-He was admitted to the Palali Army Hospital on Sunday morning due to a heartburn.. Transferred to the Teaching Hospital for further treatment. However, he died yesterday afternoon. (A)
-
-◼️
-
-[Data](articles/4801c92f.json)
-
-[Extended Data](ext_articles/4801c92f.ext.json)
-
----
-
-### Christmas carol concert at Presidential Secretariat until tomorrow
-
-*2024-12-24 03:09:41* · [`dailyftlk`](https://www.ft.lk/news/Christmas-carol-concert-at-Presidential-Secretariat-until-tomorrow/56-770972) · `en`
-
-The annual special Christmas carol concert, collaboratively organised by the Presidential Secretariat, the Tri-Forces, and the Police, commenced on Sunday under the patronage of the Labour Minister and Economic Development Deputy Minister Prof. Anil Jayantha Fernando.
-
-The event was inaugurated with the illumination of the Presidential Secretariat premises and surrounding areas. The Christmas carols on the opening day were performed by the choir and band of the Sri Lanka Army. This Christmas carol concert will continue daily until 25 December from 7 p.m. at the Presidential Secretariat premises.
-
-◼️
-
-[Data](articles/21fed0b3.json)
-
-[Extended Data](ext_articles/21fed0b3.ext.json)
-
----
-
-### Govt. inefficiency behind rice shortage: Nalin Bandara
-
-*2024-12-24 03:07:13* · [`dailyftlk`](https://www.ft.lk/news/Govt-inefficiency-behind-rice-shortage-Nalin-Bandara/56-770971) · `en`
-
-Accuses Govt. of failing to take necessary steps to control rice market effectively
-
-Says Govt. inaction has led to dramatic price increase in rice as well as substandard imports
-
-Highlights plight of small and medium-scale rice mill owners left unable to operate due to floods and lack of Govt. support
-
-Samagi Jana Balawegaya (SJB) MP Nalin Bandara has criticised the Government for its inefficiency in addressing the ongoing rice shortages and escalating prices in the market.
-
-Speaking at a press conference in Colombo yesterday, Bandara accused the Government of failing to take the necessary steps to control the market effectively.
-
-“Despite the Government’s intervention to regulate rice prices, it has failed to bring them under control. Rice prices have surged to Rs. 260 to Rs. 270, and there is a significant shortage of raw rice in the market,” he said.
-
-Bandara also highlighted delays in rice imports and reports of substandard quality in the imported stocks, including rice infested with weevils.
-
-...
-
-[Data](articles/a9e3b9bd.json)
-
-[Extended Data](ext_articles/a9e3b9bd.ext.json)
 
 ---

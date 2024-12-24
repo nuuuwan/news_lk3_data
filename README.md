@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 22:27:35**
+As of **2024-12-24 22:42:51**
 
 ## Newspaper Stats
 
-*Scraped **61,874** Articles*
+*Scraped **61,875** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
-colombotelegraphcom | 627
+colombotelegraphcom | 628
 bbccomsinhala | 652
 islandlk | 3,744
 economynextcom | 3,767
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,492 (99.4%) of 61,874 articles have been extended.
+61,493 (99.4%) of 61,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -66,19 +66,27 @@ Meanwhile, the Naymen of the Asgiriya and Malwatte Ven.
 
 ---
 
-### ஐ.நா. பயிற்சி, ஆராய்ச்சி நிறுவனத்துடன் அரசாங்கம் புரிந்துணர்வு ஒப்பந்தம்
+### The UN. Government Memorandum of Understanding with Training and Research Institute
 
 *2024-12-24 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202084) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் பயிற்சி மற்றும் ஆராய்ச்சி நிறுவனம் மற்றும் வெளிவிவகார அமைச்சு, வெளிநாட்டு வேலைவாய்ப்புக்கள் மற்றும் சுற்றுலா அமைச்சுக்கும் இடையிலான புரிந்துணர்வு ஒப்பந்தமொன்று கைச்சாத்திடப்படவுள்ளது.
+UN MoU: UN Training & Research Institute partners with Foreign Affairs Ministry. Aims to enhance diplomacy training, reduce disasters, manage global IT. Mutual benefits through resource sharing.
 
-ஒவ்வொரு தரப்பினரும் செயற்பாடுகளை வகுத்து நடைமுறைப்படுத்தக் கூடிய ஒத்துழைப்பு வேலைச் சட்டகத்தைத் தயாரிப்பதற்கும், தற்போது காணப்படுகின்ற வளங்களைப் பயன்படுத்தி பரஸ்பர ரீதியாகப் பயன்களைப் பெற்றுக் கொள்வதற்கான வசதிகளை வழங்குவதற்கும் இயலுமை கிட்டும் வகையில் இந்த ஒப்பந்தம் கைச்சாத்திடப்படவுள்ளது.
+🟩
 
-குறித்த புரிந்துணர்வு ஒப்பந்தத்தின் கீழ் குறிப்பாக பேண்தகு அபிவிருத்திக்கான 2030 ஆம் ஆண்டு நிகழ்ச்சி நிரலை நடைமுறைப்படுத்துவதற்குரிய பயிற்சி மற்றும் கற்றல் ஒத்துழைப்புக்கள், இராஜதந்திரிகளுக்கான பயிற்சிகள், அனர்த்த இடர்களைக் குறைத்தல் மற்றும் நெருக்கடிகளை முகாமைத்துவம் செய்தல் மற்றும் பூகோளத் தகவல் தொழிநுட்பப் பயன்பாடு தொடர்பான பயிற்றுவித்தல்களை மேற்கொள்வதற்கு எதிர்பார்க்கப்படுகின்றது.
+A Memorandum of Understanding (MoU) will be signed between the United Nations Training and Research Institute and the Ministry of Foreign Affairs, Foreign Employment and Tourism Ministry.
 
-...
+The agreement is to be signed to prepare a cooperation work frame that each party can formulate and implement the work and provide them with mutual benefits using the resources.
+
+Under the Memorandum of Understanding (Memorandum of Understanding, particularly, the agenda of the year 2030 for the implementation of the agenda of the 2030 is expected to be carried out by the training and learning cooperation of diplomats, reduction of disaster and crises and the management of global information technology.
+
+Accordingly, the Cabinet has approved the proposal submitted by the Minister of External Affairs, Foreign Employment and Tourism to sign a Memorandum of Understanding proposed between the two sides.
+
+◼️
 
 [Data](articles/c2cd2f28.json)
+
+[Extended Data](ext_articles/c2cd2f28.ext.json)
 
 ---
 
@@ -869,6 +877,22 @@ Addressing the media today (24), Rev. Fr. Krishantha emphasized that a comprehen
 [Data](articles/bc8ca0ce.json)
 
 [Extended Data](ext_articles/bc8ca0ce.ext.json)
+
+---
+
+### Untold Lessons: Economic Insights From History For Sri Lanka’s Crisis
+
+*2024-12-24 16:51:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/untold-lessons-economic-insights-from-history-for-sri-lankas-crisis/) · `en`
+
+With a new government in power, Sri Lanka finds itself grappling with immense economic challenges. The burden of enormous debts continues to weigh heavily on a fragile economy, necessitating robust growth to overcome these hardships. However, achieving such growth is complicated by a governmental predisposition toward centralised economic control, rooted in socialist-communal ideologies.
+
+These challenges are not unique to Sri Lanka; they echo the historical pitfalls of centralised economic systems. This essay explores three illustrative examples from American history: The failed socialism of the Plymouth Colony, the rapid recovery during the Forgotten Depression of 1920-1921, and the transformative innovation of the Gilded Age.
+
+These examples are not often the subject of discussion by contemporary economists, but they offer valuable insights into the perils of excessive government control and the potential of free-market principles to foster prosperity.
+
+...
+
+[Data](articles/c0146bb8.json)
 
 ---
 
@@ -2229,29 +2253,5 @@ Since then, he has retained his fame over five decades and produced most popular
 ...
 
 [Data](articles/2a5544a5.json)
-
----
-
-### Sri Lanka allows people to import rice till Jan 10
-
-*2024-12-24 11:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-people-to-import-rice-till-jan-10-196056/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have decided to extend the deadline to import rice till January 10, to allow more rice to be brought into the country, Minister Nalinda Jayatissa.
-
-Sri Lanka initially gave permission to import rice only till December 20.
-
-State-run companies were also not able to import sufficient stocks due delays by suppliers, Minister Jayatissa said.
-
-Already about 70,000 metric tonnes have been brought but the government decided to give time considering the supply situation, he said.
-
-Sri Lanka has a 65 rupee tax on rice (about 200 US dollars0 to give higher profits to farmers.
-
-Sri Lanka has unusual controls on the foods of the people which were worsened particularly in the last 15 years which has pushed up prices far above the rest of the world.
-
-Due to food controls, rice prices tend to move up in December and January ahead of the main (Maha) rice harvest which starts coming from late January to early February. (Colombo/Dec24/2024)
-
-◼️
-
-[Data](articles/e1b0f244.json)
 
 ---

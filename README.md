@@ -1,36 +1,122 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 06:48:28**
+As of **2024-12-24 08:05:21**
 
 ## Newspaper Stats
 
-*Scraped **61,722** Articles*
+*Scraped **61,730** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 625
-bbccomsinhala | 649
+bbccomsinhala | 650
 islandlk | 3,742
 economynextcom | 3,758
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,886
+adalk | 5,887
 adaderanalk | 7,536
-tamilmirrorlk | 8,834
+tamilmirrorlk | 8,836
 virakesarilk | 10,192
-adaderanasinhalalk | 10,658
+adaderanasinhalalk | 10,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,416 (99.5%) of 61,722 articles have been extended.
+61,417 (99.5%) of 61,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### බස්නාහිර ගුරුවරුන්ට පැනවූ ටියුෂන් තහනම නවතියි
+
+*2024-12-24 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204659) · `si`
+
+බස්නාහිර පළාතේ පාසල් ගුරුවරුන්ට පෞද්ගලික උපකාරක පන්ති පැවැත්වීමට සීමා පනවමින් පළාත් අධ්‍යාපන අමාත්‍යංශය මගින් නිකුත් කර තිබූ චක්‍රලේඛය ක්‍රියාත්මක වීම තාවකාලිකව අත්හිටුවා තිබේ.
+
+ඒ අනුව බස්නාහිර පළාත් ආණ්ඩුකාරවරයාගේ උපදෙස් පරිදි අදාළ චක්‍රලේඛය ක්‍රියාත්මක කිරීම අත්හිටුවා ඇති බව වාර්තා වේ.
+
+බස්නාහිර පළාතේ පාසල් ගුරුවරුන්ට තම පාසල්වල සිසුන්ට මුදල් ගෙවා උපකාරක පන්ති පැවැත්වීම තහනම් කරමින් පසුගිය සිකුරාදා දිනයේ පළාත් අධ්‍යාපන අමාත්‍යංශ ලේකම්වරිය විසින් චක්‍රලේඛයක් නිකුත් කර තිබුණි.
+
+කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා සදහන් කළේ අදාළ චක්‍රලේඛයට විරෝධතා මතුවූ බැවින් එය ක්‍රියාත්මක කිරීම තාවකාලිකව නතර කළ බවය.
+
+◼️
+
+[Data](articles/2c4c6124.json)
+
+---
+
+### ஜனாதிபதி தலைமையில் முக்கிய தயார்படுத்தல் கூட்டம்
+
+*2024-12-24 07:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-முக்கிய-தயார்படுத்தல்-கூட்டம்/175-349192) · `ta`
+
+பணம் தூயதாக்கலுக்கெதிரான மற்றும் பயங்கரவாதத்திற்கு நிதியிடலை ஒழிப்பதற்கான ஆசிய பசுபிக் குழுவின் மூலம் நடத்தப்பட இருக்கும்  இலங்கையின் பரஸ்பர மதிப்பீட்டிற்கான முக்கிய தயார்படுத்தல் கூட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நேற்று (23) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+இந்தக் கூட்டத்தில்   அமைச்சர்கள், செயலாளர்கள் மற்றும் இலங்கை மத்திய வங்கியினதும் நிதியியல் உளவறிதல் பிரிவினதும்  அதிகாரிகள் ஆகியோர் கலந்து கொண்டனர்.
+
+அமைச்சுக்கள், ஒழுங்குமுறைப்படுத்தல் நிறுவனங்கள் மற்றும் சட்ட அமுலாக்கல் முகவராண்மை நிறுவனங்கள் உள்ளடங்கலாக தொடர்புள்ள 24  நிறுவனங்களுக்காக வடிவமைக்கப்பட்ட அமைச்சரவை  அங்கீகாரம் வழங்கப்பட்ட   திட்டங்களை துரிதமாக நடைமுறைப்படுத்துவதன் அவசியத்தை நிதியியல் உளவறிதல் பிரிவு இங்கு வலியுறுத்தியது.
+
+...
+
+[Data](articles/5a357e75.json)
+
+---
+
+### පුරාවස්තු සොයා කැණීම් කළ පිරිසක් අත්අඩංගුවට
+
+*2024-12-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204658) · `si`
+
+පුරාවස්තු සොයා කැණීම් කළ සැකකරුවන් තිදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (23) සවස් කාලයේදී ගිරාඳුරුකෝට්ටේ පොලිස් නිලධාරීන්ට ලද තොරතුරක් මත  ගිරාඳුරුකෝට්ටේ අඟලඔය ප්‍රදේශයේ සිදුකළ වැටලීමකදි සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 29 - 38ත් අතර පසුවන ගිරාඳුරුකෝට්ටේ ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+◼️
+
+[Data](articles/e7e42a24.json)
+
+---
+
+### ජාඇළ වෙඩි තැබීමක්
+
+*2024-12-24 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204657) · `si`
+
+ජාඇළ ශාන්ත ආනා ප්‍රදේශයේ නිවසකට වෙඩි ප්‍රහාරයක් එල්ල වී තිබේ.
+
+පොලීසිය පැවසුවේ අද (24) අලුයම යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
+
+වෙඩි වැදීමෙන් කිසිදු පුද්ගලයෙකුට හානි සිදුව නොමැති අතර අදාළ නිවසේ ගේට්ටුවට සහ බිත්තිවලට හානි සිදුවී ඇති බව සදහන් වේ.
+
+මීට පෙර පසුගිය 15 වන දින රාත්‍රියේ ද මෙම නිවසට යතුරුපැදියකින් පැමිණි තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීමක් සිදුකර තිබුණි.
+
+මේ සම්බන්ධයෙන් වන විමර්ශන ජාඇළ පොලීසිය විසින් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/755e13e4.json)
+
+---
+
+### අද වැසි රහිත කාලගුණයක්
+
+*2024-12-24 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204656) · `si`
+
+ඌව පළාතෙත් හම්බන්තොට, රත්නපුර සහ අම්පාර දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව පැවසුවේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතිනු ඇති බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවත් එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/df05a8ec.json)
+
+---
 
 ### Sri Lanka President, central bank discuss AML/CFT measures to prevent blacklisting again
 
@@ -107,6 +193,30 @@ The demonstrations were conducted at various locations in Kandy, Matale, Nuwara 
 [Data](articles/18827921.json)
 
 [Extended Data](ext_articles/18827921.ext.json)
+
+---
+
+### In the control of rat fever
+
+*2024-12-24 03:02:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எலிக்காய்ச்சல்-கட்டுப்பாட்டுக்குள்/175-349189) · `ta`
+
+Rat fever outbreak controlled in Jaffna districts. Hospital admissions declining. Awareness campaigns ongoing. Vaccine distribution underway.
+
+🟩
+
+In the Jaffna district, Karavetti, Point Pedro and Chavakachcheri areas have been brought under the control of the recent rag.. Regional Health Services Director Dr. A. Ketheeswaran said.
+
+He added that the number of people admitted to the hospital has been decreasing sharply due to the present.
+
+At the same time, awareness activities on the disease have been carried out in full.
+
+Dr. A. Ketheeswaran added that the vaccine was also underway as the vaccine was taken under the control of the epidemic as it was very active.. (A)
+
+◼️
+
+[Data](articles/1b63ecf8.json)
+
+[Extended Data](ext_articles/1b63ecf8.ext.json)
 
 ---
 
@@ -251,6 +361,30 @@ Local F&B businesses representing a wide range of sectors, such as coconut-based
 [Data](articles/647c692f.json)
 
 [Extended Data](ext_articles/647c692f.ext.json)
+
+---
+
+### කොළඹ කොටස් වෙළෙඳපොළේ දර්ශක අගයයන් එක්වර ම ඉහළ ගියේ ඇයි?
+
+*2024-12-24 01:37:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjdnrvxrxn9o) · `si`
+
+කොළඹ කොටස් වෙළෙඳපොළ ආසන්න සති කිහිපය තුළ ඉතිහාසයේ ඉහළ ම වර්ධනයක් අත් කරගෙන තිබේ.
+
+සියලු කොටස් මිල දර්ශකය ඉතිහාසයේ පළමු වතාවට ඒකක 14,000ක් ඉක්මවා ගොස් ඇති අතර, දෙසැම්බර් 23 වන දිනය වන විට එම අගය 15,000 ඉක්මවා තිබිණි.
+
+මෙලෙස කොටස් වෙළෙඳපොළේ අගය ඉහළ යාම සම්බන්ධයෙන් බීබීසී සිංහල විසින් සොයා බැලීමක් සිදු කරන ලදී.
+
+කොටස් වෙළඳපොළ මෙලෙස ඉහළ අගයක් වාර්තා කිරීමට වර්තමානයේ ශ්‍රී ලංකාව තුළ ඇති අඩු පොළී අනුපාත බලපා ඇතැයි කොළඹ කොටස් වෙළෙඳපොළේ ප්‍රධාන විධායක නිලධාරී රජීව බණ්ඩාරනායක පෙන්වා දුන්නේ ය.
+
+බීබීසී සිංහල කළ විමසීමකදී කොළඹ කොටස් වෙළෙඳපොළේ ප්‍රධාන පර්යේෂණ සහ උපායමාර්ග සැලසුම් නිලධාරී දිමන්ත මැතිව් ද ඒ බව තහවුරු කළේ ය.
+
+"වර්තමානයේ ශ්‍රී ලංකාව තුළ තිබෙන්නේ ඉතා ම අඩු පොළී අනුපාතයක්. ඒ නිසා ගොඩක් අය තමන් ස්ථාවර තැන්පතු විදිහට තබාගෙන හිටපු මුදල් කොටස් වෙළෙඳපොළේ ආයෝජනය කරන්න පෙළඹිලා තිබෙනවා," ඔහු පැවසුවේ ය.
+
+ආර්ථීක විශ්ලේෂක ධනනාත් ප්‍රනාන්දුගෙන් බීබීසී සිංහල විමසීමකදී ඔහු පෙන්වා දුන්නේ, පොළී අනුපාත පහළ මට්ටමක පවතින විට කොටස් වෙළෙඳපොළේ ආයෝජන වැඩි වශයෙන් සිදුවන බව ය.
+
+...
+
+[Data](articles/cfb21557.json)
 
 ---
 
@@ -821,6 +955,26 @@ Although local manufacturers have requested permission to import salt directly, 
 [Data](articles/3805e584.json)
 
 [Extended Data](ext_articles/3805e584.ext.json)
+
+---
+
+### හදිසි රෝග තත්ත්වයකදී පමණක් ‘1990’ අමතන්න
+
+*2024-12-23 18:49:49* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-රෝග-තත්ත්වයකදී-පමණක්-‘1990’-අමතන්න/11-413805) · `si`
+
+හදිසි රෝග තත්ත්වයකදී පමණක් ‘1990’ සුවසැරිය ගිලන් රථ සේවාව භාවිත කරන ලෙස ශ්‍රී ලංකා හදිසි ප්‍රතිකාර විශේෂඥ වෛද්‍යවරුන්ගේ සංගමය ඉල්ලා සිටියි.
+
+එහි සභාපති, විශේෂඥ වෛද්‍ය ඉනුක ගුණවර්ධන මහතා පෙන්වා දෙන්නේ, සුළු රෝග තත්ත්වවලදී පවා ජනතාව සුවසැරිය ඇමතීම එහි කාර්යමණ්ඩලයට මෙන්ම, හදිසි රෝගී සත්කාර කටයුතුවලටද බාධාවක් වී ඇති බවයි.
+
+ඒ අනුව ජනතාවද බුද්ධිමත්ව කටයුතු කළ යුතු බව ඔහු පෙන්වා දුන්නේය.
+
+මේ අතර හදිසි රෝග තත්ත්වයකදී රෝහලට පැමිණි පසු බාහිර රෝගී අංශයට (OPD) ගොස්, ‘චැනල් කරමින් කාලය ‘කා නොදමා හදිසි ප්‍රතිකාර ඒකකයට යන ලෙසද හදිසි ප්‍රතිකාර විශේෂඥ වෛද්‍යවරුන් ජනතාවගෙන් ඉල්ලා සිටියි.
+
+ඔවුහු වැඩිදුරටත් පෙන්වා දෙන්නේ, හෘදයාබාධ, ආඝාත, හදිසි අනතුරු, ආසාදන සංකූලතා, ශ්වසන ආබාධ සඳහා හදිසි ප්‍රතිකාර ලබා දිය යුතු බවයි.
+
+◼️
+
+[Data](articles/e557da60.json)
 
 ---
 
@@ -2021,179 +2175,5 @@ Students have informed the police that a close person gave them these currencies
 [Data](articles/1483ad67.json)
 
 [Extended Data](ext_articles/1483ad67.ext.json)
-
----
-
-### Party Tawar Chandrasena
-
-*2024-12-23 13:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்சித்-தாவினார்-சந்திரசேன/175-349150) · `ta`
-
-S.M. Chandrasena joins Sarvaja Shakti Party, led by Dilith Jayaweera. Former MP for Anuradhapura District, he previously served in Sri Lanka PA ministries and ran in the last election with Ranil Wickremesinghe's Democratic Party.
-
-🟩
-
-Former Member of the Sri Lanka PA. M.. Chandrasena obtained the membership of the Sarvaja Shakti Party on Monday (23).
-
-The leader of the party, Dilith Jayaweera, gave him party membership and appointed the Sarvajam Shakti Party leadership council.
-
-S.. M.. Chandrasena served as a Member of Parliament for the Anuradhapura District from 2001 to 2024 and held several ministry posts in the Sri Lanka PA.
-
-He joined the new Democratic Party led by former President Ranil Wickremesinghe in the last general election.
-
-◼️
-
-[Data](articles/ff16ceef.json)
-
-[Extended Data](ext_articles/ff16ceef.ext.json)
-
----
-
-### Total export earnings in November
-
-*2024-12-23 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204638) · `si`
-
-November 2024 exports: $1,269.33 million (merchandise & services). Compared to November 2023: $943.1 million increase.
-
-🟩
-
-The total exports of November 2024 including both merchandise and services have been reported in November 2024 as US $ 1,269.33 million.
-
-According to the temporary data issued by the Sri Lanka Customs, trade export performance in November 2024 was US $ 943.1 million in US $ 943.1 million compared to November 2023.
-
-◼️
-
-[Data](articles/325a18fd.json)
-
-[Extended Data](ext_articles/325a18fd.ext.json)
-
----
-
-### Former Minister SM Chandrasena joins ‘Sarvajana Balaya’
-
-*2024-12-23 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104441/former-minister-sm-chandrasena-joins-sarvajana-balaya) · `en`
-
-Former Minister S. M. Chandrasena has officially joined the ‘Sarvajana Balaya’ political alliance today (23), receiving party membership from its leader MP Dilith Jayaweera.
-
-In addition to his party membership, Chandrasena has also been appointed to the Leadership Council of Sarvajana Balaya.
-
-Chandrasena served as a Member of Parliament from the Anuradhapura District from 2001 to 2024, during which he held various ministerial positions in the Sri Lanka Podujana Peramuna (SLPP) government.
-
-In the most recent general election, he contested under the New Democratic Front.
-
-◼️
-
-[Data](articles/8b239de2.json)
-
-[Extended Data](ext_articles/8b239de2.ext.json)
-
----
-
-### First Grid subplacement built to CEB labor to national grid
-
-*2024-12-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204637) · `si`
-
-New CEB grid substation linked to national grid, serving BOI and Millennium Industry. BOI invested Rs. 2,300 million. First of its kind, enhancing power supply stability.
-
-🟩
-
-The Ceylon Electricity Board (CEB) announced that the newly built portar grood substation was linked to the national grid.
-
-The Grid substation has been constructed mainly to provide electricity to the Board of Investment of Sri Lanka and the supply of electricity to the millanium industry.
-
-The Board of Investment of Sri Lanka has invested Rs. 2,300 million.
-
-The new grid substances have been constructed by the Board of Investment of Sri Lanka (BOI has built up 5 acres of power to existing industries and build quality stability and quality of electricity to the existing industries.Have.
-
-The Ceylon Electricity Board Transmission Construction Project (TCP) Branch (TCP) branch is provided to the construction, construction and system.
-
-The Grid Hapu is the first grid built up the first grid substation of the Ceylon Electricity Board (CEB).
-
-◼️
-
-[Data](articles/c2f83e8f.json)
-
-[Extended Data](ext_articles/c2f83e8f.ext.json)
-
----
-
-### Sri Lanka’s merchandise exports dip by 5.6% in November 2024
-
-*2024-12-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104440/sri-lankas-merchandise-exports-dip-by-56-in-november-2024) · `en`
-
-Total exports for November 2024, including both merchandise and services, were recorded at US$ 1,269.33 million, reflecting a marginal increase of 0.04% compared to the same period in 2023, according to the Export Development Board (EDB).
-
-As per the provisional data released by the Sri Lanka Customs, the merchandise export performance in November 2024 amounted to US$ 943.1 million, reflecting a 5.6% decline compared to November 2023. This decrease is primarily attributed to reduced earnings from exports of Rubber-based products, Electrical and Electronic components, Food & Beverages, and Seafood.
-
-However, services exports for the month of November 2024 were estimated at US$ 326.23 Million, reflecting a 20.89 % increase over the corresponding period of 2023.
-
-◼️
-
-[Data](articles/0d8c7acf.json)
-
-[Extended Data](ext_articles/0d8c7acf.ext.json)
-
----
-
-### Digitization of Sri Lanka’s public sector to begin in 2025
-
-*2024-12-23 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104439/digitization-of-sri-lankas-public-sector-to-begin-in-2025) · `en`
-
-Deputy Minister of Youth Affairs Eranga Gunasekara says that the project to digitize the country’s public sector will commence next year (2025).
-
-He made this statement while participating in a ceremony held at the National Library and Documentation Services Board in Colombo.
-
-The Deputy Minister also emphasized that the project is expected to lead to significant social transformation in the country.
-
-“We are preparing to digitize our country starting next year, and we are also preparing to launch the ‘Clean Sri Lanka’ program,” he added.
-
-◼️
-
-[Data](articles/46502947.json)
-
-[Extended Data](ext_articles/46502947.ext.json)
-
----
-
-### GLOBAL CEO LEADERSHIP EXCELLENCE AWARDS 2024
-
-*2024-12-23 12:58:00* · [`islandlk`](http://island.lk/global-ceo-leadership-excellence-awards-2024/) · `en`
-
-Lion Brewery commissions Sri Lanka’s first innovation centre for craft brews
-
-NSB triumphs at CMA Excellence in Integrated Reporting Awards 2024
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/cb05bceb.json)
-
-[Extended Data](ext_articles/cb05bceb.ext.json)
-
----
-
-### Appointment of Dr. Aisha as Chairman
-
-*2024-12-23 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-ஆயிஷா-தலைவராக-நியமனம்/175-349148) · `ta`
-
-Dr. Aisha Wickremesinghe appointed Chairman National Craft Council. Expert in fashion design & product dev. Senior lecturer at Uni. Moratuwa since 2006. Holds degrees from UK & SL universities. Promotes local crafts under Ministry of Industry & Entrepreneurship Dev.
-
-🟩
-
-Dr. Aisha Wickremesinghe has been appointed as the Chairman of the National Craft Council on design and product development.
-
-The National Craft Council, which is under the Ministry of Industry and Entrepreneurship Development, plays an important role in improvement and promoting the local crafts.
-
-Dr. Wickremesinghe has been a senior lecturer at the University of Moratuwa since 2006 to specialize in Fashion Design and Product Development. He has a comprehensive professional experience in advertising and design from Sri Lanka, the United Kingdom and the United States.
-
-Dr. Wickremesinghe, an alumnus of Galle Southlands College. He holds a Masters Degree from the University of Arts in London and a doctorate at the University of Arts in Sri Lanka.
-
-◼️
-
-[Data](articles/247cc694.json)
-
-[Extended Data](ext_articles/247cc694.ext.json)
 
 ---

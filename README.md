@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 12:17:35**
+As of **2024-12-24 12:43:21**
 
 ## Newspaper Stats
 
-*Scraped **61,780** Articles*
+*Scraped **61,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,97 @@ dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,894
 adaderanalk | 7,548
-tamilmirrorlk | 8,842
-virakesarilk | 10,203
+tamilmirrorlk | 8,843
+virakesarilk | 10,204
 adaderanasinhalalk | 10,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,438 (99.4%) of 61,780 articles have been extended.
+61,441 (99.4%) of 61,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### 17 இராமேஸ்வரம் மீனவர்கள் கைது
+### Resolution to pay compensation to farmers affected by inconsistent climate
+
+*2024-12-24 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202027) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Cabinet approves compensation for farmers hit by climate change. Paddy, corn, potato, and onion growers to receive support. Decision made public by Minister Nalinda Jayatissa during press conference on Tuesday.
+
+🟩
+
+The Cabinet spokesman said that farmers who cultivate paddy, corn, potatoes and large onions have been decided to pay Rs.
+
+Cabinet Spokesperson Minister Nalinda Jayatissa said this at a media briefing to announce the Cabinet decisions held on Tuesday (24).
+
+◼️
+
+[Data](articles/b013dfec.json)
+
+[Extended Data](ext_articles/b013dfec.ext.json)
+
+---
+
+### Rameshwaram fishermen arrested 17
+
+*2024-12-24 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராமேஸ்வரம்-மீனவர்கள்-17-கைது/175-349205) · `ta`
+
+17 Indian fishermen arrested off Rameshwaram coast on Tuesday. Detained at Talaimannar naval camp. Over 400 Rameshwaram fishermen at sea when incident occurred. Eight family members demand immediate release. Fishermen to be produced in court after investigation.
+
+🟩
+
+17 Indian fishermen have been arrested on Tuesday (24).
+
+The 17 arrested fishermen were detained at the Talaimannar naval camp and the fishermen and boats were handed over to the Talaimannar Navy.
+
+More than 400 fishermen from Rameswaram fishing port on Monday (23) have gone to sea for fishing.
+
+The Sri Lankan navy arrested the Sri Lankan navy, who had been fishing across the border while fishing between Dhanushkodi and Talamannar at around 12:30 pm, and two key boat belonging to Pundi Raj and Aaron from Thangachi Monastery was arrested and 17 fishermen were taken to the Talamannar Navy.
+
+Of the 17 arrested fishermen, eight relatives from the same family are demanding that the government take steps to release them immediately and bring them home.
+
+The fishermen have been brought to the Mannar District Fisheries Department and are to be produced before the Mannar District Court after investigations.
+
+◼️
+
+[Data](articles/cdac38b7.json)
+
+[Extended Data](ext_articles/cdac38b7.ext.json)
+
+---
+
+### 17 Rameswaram fishermen arrested
 
 *2024-12-24 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-இராமேஸ்வரம்-மீனவர்கள்-கைது/175-349205) · `ta`
 
-இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்த   17 இந்திய மீனவர்களை செவ்வாய்க்கிழமை (24) கைது செய்யப்பட்டுள்ளனர்.
+17 Indian fishermen arrested by Sri Lanka near Rameswaram. Detained at Talaimannar naval camp. Family members demand immediate release. To appear in court after investigation.
 
-கைது செய்யப்பட்ட 17 மீனவர்களும் தலைமன்னார் கடற்படை முகாமில் தடுத்து வைக்கப்பட்டுள்தோடு, மீனவர்களையும் படகுகளையும் தலைமன்னார் கடற்படையிடம் ஒப்படைத்து விசாரணைகளுக்கு உற்படுத்தி வருகின்றனர்.
+🟩
 
-இராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து திங்கட்கிழமை (23) 400-க்கும் மேற்பட்ட மீன்பிடி விசைப் படகுகளில் ஆயிரத்திற்கும்  மேற்பட்ட மீனவர்கள் மீன்பிடி அனுமதி சீட்டு பெற்று மீன்பிடிக்க கடலுக்குச் சென்றுள்ளனர்.
+17 Indian fishermen have been arrested on Tuesday (24).
 
-குறித்த மீனவர்கள் இரவு 12:30 மணி அளவில் தனுஷ்கோடிக்கும் தலைமன்னாருக்கும் இடையே மீன்பிடித்துக் கொண்டிருக்கும் போது அப்பகுதியில்  ரோந்து பணியில் ஈடுபட்டிருந்த இலங்கை கடற்படையினர் எல்லை தாண்டி மீன்பிடித்ததாக தங்கச்சி மடத்தைச் சேர்ந்த பூண்டி ராஜ் மற்றும் ஆரோன் ஆகியோருக்கு சொந்தமான இரண்டு விசை படகையும்  அதிலிருந்து   17 மீனவர்களையும் இலங்கை கடற்படை கைது செய்து தலைமன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்றனர்.
+The 17 arrested fishermen were detained at the Talaimannar naval camp and the fishermen and boats were handed over to the Talaimannar Navy.
 
-...
+More than 400 fishermen from the Rameswaram fishing port on Monday (23) have gone to sea for fishing.
+
+The Sri Lankan navy arrested the Sri Lankan navy, who had been fishing across the border while fishing between Dhanushkodi and Talaimannar at around 12:30 pm, and two key boat belonging to Pundi Raj and Aaron from Thangachi Monastery was arrested by the Sri Lankan navy and took 17 fishermen to the Navy.
+
+Of the 17 arrested fishermen, eight relatives from the same family are demanding that the government take steps to release them immediately and bring them home.
+
+The fishermen have been brought to the Mannar District Fisheries Department and are to be produced before the Mannar District Court after investigations.
+
+◼️
 
 [Data](articles/d7696776.json)
+
+[Extended Data](ext_articles/d7696776.ext.json)
 
 ---
 
@@ -69,6 +131,20 @@ The seized boats, along with the Indian fishermen, were brought to the Talaimann
 [Data](articles/42f350a6.json)
 
 [Extended Data](ext_articles/42f350a6.ext.json)
+
+---
+
+### அரிசி இறக்குமதிக்கான கால அவகாசம் நீடிப்பு
+
+*2024-12-24 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202022) · `ta`
+
+அரிசி இறக்குமதிக்கான அனுமதியை ஜனவரி மாதம் 10 ஆம் திகதி வரை நீடிக்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் தெரிவித்துள்ளார்.
+
+இன்று செவ்வாய்க்கிழமை (24) நடைபெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடக சந்திப்பில் அமைச்சரவைப் பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ இதனை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/16107e8a.json)
 
 ---
 
@@ -117,20 +193,6 @@ Accordingly, the Cabinet paper presented by the Minister of Highways, Ports and 
 [Data](articles/4a6088cb.json)
 
 [Extended Data](ext_articles/4a6088cb.ext.json)
-
----
-
-### அரிசி இறக்குமதிக்கான கால அவகாசம் நீடிப்பு
-
-*2024-12-24 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202022) · `ta`
-
-அரிசி இறக்குமதிக்கான அனுமதியை ஜனவரி மாதம் 10 ஆம் திகதி வரை நீடிக்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் தெரிவித்துள்ளார்.
-
-இன்று (24) நடைபெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடக சந்திப்பில் அமைச்சரவைப் பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ இதனை தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/16107e8a.json)
 
 ---
 
@@ -1556,8 +1618,6 @@ The event held on December 17 at Uva Wellassa University, saw the enthusiastic p
 
 The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
 
-Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
-
 ...
 
 [Data](articles/3d0cdc50.json)
@@ -2081,59 +2141,5 @@ A senior police officer said that the abundant copy of the loyalty to the Miriha
 [Data](articles/70e04fb0.json)
 
 [Extended Data](ext_articles/70e04fb0.ext.json)
-
----
-
-### Finalizing Moody's Infitation increases in Sri Lanka
-
-*2024-12-23 18:24:20* · [`adalk`](https://www.ada.lk/breaking_news/මූඩිස්-ආයාතනය-ලංකාවේ-ණය-ශ්‍රේණිගත-කිරීම-ඉහළ-දමයි/11-413803) · `si`
-
-Moody's upgrades Sri Lanka's foreign currency bond rating to CaA1, citing improved credit profile and reduced external and state liquidity risks. Fitch also raises long-term foreign currency default rating to CCC+.
-
-🟩
-
-Moodis, one of the world's leading loan rating, has acted in the restructuring of $ 12.55 billion Cewriting bonds.
-
-Accordingly, the institute has taken steps to increase the prolonged foreign currency issuance of Sri Lanka to 'CaA1'.
-
-"Sri Lanka's credit elections have been improved over the past two years.. The exterior risk and state liquidity risk both have fallen from high levels. "
-
-In addition, Fitch, one of the world's leading loan rating agency, also operated Sri Lanka's long-term foreign currency default rating to the CCC + '.
-
-◼️
-
-[Data](articles/eff70783.json)
-
-[Extended Data](ext_articles/eff70783.ext.json)
-
----
-
-### The powder is avoiding the precise CID
-
-*2024-12-23 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204649) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Warrants issued for Hemanshika Gunaratne after failing to appear before CID on bail conditions. Court orders arrest and production of "Kudu Shalu" arrested earlier. CID investigates Panadura Magistrate's Court case today.
-
-🟩
-
-The Panadura Magistrate's Court has issued a warrants to arrest hemanshika Gunaratne, who was released on bail.
-
-The Court was conducting a condition to appear before the Criminal Investigation Department (CID) to appear on bail.
-
-However, he had not appeared before the CID yesterday.
-
-Accordingly, the Criminal Investigations Department (CID) investigated the Panadura Magistrate's Court today (23).
-
-The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" who was arrested and produced in court.
-
-◼️
-
-[Data](articles/7b497df9.json)
-
-[Extended Data](ext_articles/7b497df9.ext.json)
 
 ---

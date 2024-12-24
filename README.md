@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 05:27:21**
+As of **2024-12-24 05:51:25**
 
 ## Newspaper Stats
 
-*Scraped **61,708** Articles*
+*Scraped **61,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 649
-islandlk | 3,730
+islandlk | 3,742
 economynextcom | 3,757
 dailyftlk | 4,289
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,415 (99.5%) of 61,708 articles have been extended.
+61,415 (99.5%) of 61,720 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -321,6 +321,98 @@ With power comes responsibility. With the new swearing-in of the new ministers, 
 ---
 
 ### 2024-12-23 (Monday)
+
+### Irish rebellion inspired Jews
+
+*2024-12-23 23:37:00* · [`islandlk`](http://island.lk/irish-rebellion-inspired-jews/) · `en`
+
+In the early years of the Twentieth Century the Irish and the Jews were unwittingly united by their military campaign against British rule in Ireland and Palestine. “Reasons for these allegiances are complex and rooted in shared experiences of imperialism” wrote M. C. Rast author of Shaping Ireland’s Independence: Nationalist, Unionist and British Solutions to the Irish Question 1909-1925 in History Today’s June 2024 edition.
+
+...
+
+[Data](articles/887ac62d.json)
+
+---
+
+### CIC launches Besto Omega 3 Eggs
+
+*2024-12-23 23:23:00* · [`islandlk`](http://island.lk/cic-launches-besto-omega-3-eggs/) · `en`
+
+CIC has introduced its latest innovation, CIC Besto Omega 3 Eggs, to the Sri Lankan market, catering to consumers seeking nutrient-dense, high-quality eggs. These naturally enriched eggs are produced by hens fed with an all-vegetarian diet, free of antibiotics, hormones, and animal by-products, ensuring both superior taste and exceptional nutritional value. CIC Besto Eggs are fortified naturally through specialized feed, setting a new benchmark in egg production.
+
+CIC Besto eggs offer significantly higher levels of essential nutrients. These eggs contain around four times the Omega-3 fatty acids, Vitamin A, Vitamin B9 (Folic Acid), Vitamin D3, Vitamin E, and xanthophyll than regular eggs, as well as double the Zinc and Iron, making them a true nutritional powerhouse.
+
+...
+
+[Data](articles/abde1c71.json)
+
+---
+
+### DSI Tyres recognised at SLIM Brand Excellence, Dragons of Asia and NCE Awards 2024
+
+*2024-12-23 23:22:00* · [`islandlk`](http://island.lk/dsi-tyres-recognised-at-slim-brand-excellence-dragons-of-asia-and-nce-awards-2024/) · `en`
+
+DSI Tyres, a leader in the tyre industry, along with its affiliated companies, has been recognized at several prestigious award ceremonies, including the SLIM Brand Excellence Awards by the Sri Lanka Institute of Marketing (SLIM), the Export Awards by the National Chamber of Exporters (NCE), and the Dragons of Asia Awards.
+
+At the SLIM Brand Excellence Awards 2024, regarded as Sri Lanka’s most prestigious and competitive brand recognition event, DSI Tyres received the ‘Agile Brand of the Year’ (Merit Award). This accolade was awarded for the company’s ability to adapt to rapidly changing market and social dynamics while adopting innovative and effective business strategies.
+
+DSI Tyres also achieved its first international recognition by winning the Black Dragon Award for the ‘Best Brand Building or Awareness Campaign’ at the 24th Dragons of Asia Awards, honouring their impactful marketing and communication initiatives.
+
+Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
+
+...
+
+[Data](articles/cd372e26.json)
+
+---
+
+### Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
+
+*2024-12-23 23:21:00* · [`islandlk`](http://island.lk/sri-lankas-paymedia-wins-1st-runner-up-at-apicta-2024-in-brunei/) · `en`
+
+PayMedia, a leader in fintech innovation, has achieved a significant milestone by winning 1st Runner-Up in the Asia Pacific ICT Alliance (APICTA) Awards 2024 hosted in Brunei Darussalam under the category of Community and Indigenous Services.
+
+The recognition was earned for their groundbreaking product, LankaRemit, a platform that has revolutionized digital remittance services in Sri Lanka. Securing the 1st Runner-Up position in the Community and Indigenous Services category is a significant achievement, as it highlights solutions that cater to underserved communities, preserve cultural heritage, and improve inclusivity. PayMedia’s LankaRemit stood out among the highly competitive entries for its ability to empower Sri Lankan communities through seamless, secure, and cost-effective remittance services.
+
+...
+
+[Data](articles/5256e557.json)
+
+---
+
+### Sri Lanka to accelerate the rise of MICE tourism
+
+*2024-12-23 23:20:00* · [`islandlk`](http://island.lk/sri-lanka-to-accelerate-the-rise-of-mice-tourism/) · `en`
+
+The Sri Lanka Convention Bureau (SLCB), in collaboration with Uva Wellassa University, have organized an interactive educational session aimed at promoting Sri Lanka as a prime destination for international, regional, and domestic conferences, meetings, exhibitions, and incentive travel.
+
+The event held on December 17 at Uva Wellassa University, saw the enthusiastic participation of 80 young undergraduates, who are poised to be the future professionals of the Meetings, Incentives, Conferences, and Exhibitions (MICE) industry.
+
+The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
+
+Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
+
+...
+
+[Data](articles/3d0cdc50.json)
+
+---
+
+### Historic feat by CSE following Fitch upgrading of Sri Lanka
+
+*2024-12-23 23:17:00* · [`islandlk`](http://island.lk/historic-feat-by-cse-following-fitch-upgrading-of-sri-lanka/) · `en`
+
+Trading at the Colombo Stock Exchange was bullish yesterday as investors were driven by the fact that Fitch Ratings had upgraded Sri Lanka out of the default rating and upgraded it to CCC+ level. This resulted in the All Share Price Index going beyond the 15,000 mark hitting a new record yesterday.
+
+According to CSE sources, the ASPI crossed the 15,000 mark for the first time in history and the market closed at 15,020.61 points with a turnover of Rs. 8.44 billion.
+
+Amid those developments both indices moved upwards. All Share Price Index up by 209.9 points while S and P SL20 up by 73.65 points. Turnover stood at Rs 8.4 billion with twelve crossings.
+
+...
+
+[Data](articles/e69e3627.json)
+
+---
 
 ### Time for the importation of rice further
 
@@ -2117,131 +2209,5 @@ The Electricity Board says that appropriate measures have been taken to prevent 
 [Data](articles/58e18048.json)
 
 [Extended Data](ext_articles/58e18048.ext.json)
-
----
-
-### ග්‍රාම නිලධාරීවරයෙකුට එරෙහි නඩුවක් නැවත විභාග කිරීමට නියෝග
-
-*2024-12-23 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204636) · `si`
-
-පරිපාලන ග්‍රාම නිලධාරිවරයෙකුට එරෙහිව අල්ලස් කොමිෂන් සභාව විසින් මහාධිකරණය හමුවේ ගොනු කළ නඩුවක් නැවත විභාග කිරීමට අභියාචනාධිකරණය නියෝග කර තිබේ.
-
-දැරණියගල ප්‍රාදේශීය ලේකම් කාර්යාලයට අනුයුක්ත පරිපාලන ග්‍රාම නිලධාරීවරයෙකු ලෙස සේවය කරමින් සිටියදී දැව ප්‍රවාහන බලපත්‍රයක් ලබා දීම පිණිස පැමිණිලිකරුගෙන් අල්ලස් මුදලක් ඉල්ලා සිටීම සම්බන්ධව අල්ලස් කොමිසම විසින් අදාළ ග්‍රාම නිලධාරීවරයාට එරෙහිව පසුගිය 2022 වසරේ මාර්තු 25 දින කොළඹ මහාධිකරණය හමුවේ නඩු පවරණු ලැබීය.
-
-එහිදී නඩුකරයේ විත්ති පාර්ශ්වය විසින් ගෙන එන ලද මූලික විරෝධතාවයක් පිළිගනිමින් චූදිතයාව නිදහස් කිරීමට පසුගිය වසරේ ජූලි මාසයේ දී මහාධිකරණ විනිසුරුවරයා විසින් නියෝග කර තිබුණි.
-
-එහිදී නියෝගයට එරෙහිව එම නියෝගය ප්‍රතිශෝධනය කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් ප්‍රතිශෝධන අයදුම්පතක් අභියාචනාධිකරණය වෙත යොමු කිරීමට පියවර ගෙන තිබුණි.
-
-...
-
-[Data](articles/73ced6e3.json)
-
----
-
-### The change of Nelumkoba
-
-*2024-12-23 12:32:12* · [`adalk`](https://www.ada.lk/breaking_news/නෙළුම්කුළුනේ-වෙනස්වූ-වේලාව/11-413793) · `si`
-
-Nelum Pokuna theater reopens after renovation. New operating hours: Dec 25-26 (9 AM-11 PM), Dec 27 (9 AM-1 AM), Jan 1 (9 AM-1 AM).
-
-🟩
-
-When the new year also arrives in Colombo and mark the new year, the time to open it to the public.
-
-Accordingly, December 25 and 26 am to midnight, December 27th to midnight and 11 am from 9.00 am to 11 pm. The opening of the same is open to the next 1st and 1 am from 9.00 am to 1.00 am.
-
-◼️
-
-[Data](articles/599b6460.json)
-
-[Extended Data](ext_articles/599b6460.ext.json)
-
----
-
-### மனைவியை தாக்கி காயப்படுத்திய கணவன் தவறான முடிவெடுத்து உயிர்மாய்ப்பு
-
-*2024-12-23 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/201931) · `ta`
-
-மொரட்டுவை, இந்திபெத்த பிரதேசத்தில் உள்ள வீடொன்றில், தனது மனைவியை கூரிய ஆயுதத்தால் தாக்கி காயப்படுத்திய கணவன் தவறான முடிவெடுத்து உயிரை மாய்த்துக் கொண்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-உயிரிழந்த கணவன் நேற்று ஞாயிற்றுக்கிழமை (22) மதியம் வீட்டில் வைத்து தனது மனைவியை கூரிய ஆயுதத்தால் தாக்கி காயப்படுத்திவிட்டு பின்னர் தனது உயிரை மாய்ததுக்கொண்டுள்ளார்.
-
-உயிரிழந்த கணவன் இதற்கு முன்னரும், அயல் வீட்டில் வசிக்கும் நபரொருவரை கூரிய ஆயுதத்தால் தாக்கி காயப்படுத்தியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-காயமடைந்த அயல் வீட்டில் வசிக்கும் நபர் கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும், தனிப்பட்ட தகராறு காரணமாக இந்த தாக்குதல் இடம்பெற்றுள்ளதாகவும் பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளன.
-
-◼️
-
-[Data](articles/551ce9a8.json)
-
----
-
-### SM Chandrasena joins mysogeant power
-
-*2024-12-23 12:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204635) · `si`
-
-S.M. Chandrasena joins Mysogeant Power. Former minister receives party membership from leader Dilith Jayaweera. Represented Anuradhapura District in Parliament 2001-2024. Held Sri Lanka Civil Appointed Government posts. Joined New Democratic Party in last general election.
-
-🟩
-
-Former ministerial S. M. Mr. Chandrasena received the membership of the exangeration today (23).
-
-He obtained the party membership with party leader MP Dilith Jayaweera.
-
-He represented Parliament from the Anuradhapura District from 2001 to 2024.
-
-Chandrasena held several posts of the Sri Lanka Civil Appointed Government.
-
-He joined the New Democratic Party at the last general election.
-
-◼️
-
-[Data](articles/161d5297.json)
-
-[Extended Data](ext_articles/161d5297.ext.json)
-
----
-
-### ASPI crosses 15,000 points for first time ever
-
-*2024-12-23 12:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104438/aspi-crosses-15000-points-for-first-time-ever) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange crossed the 15,000 mark for the first time in history today.
-
-The index gained 209.91 points (1.4%) to close at 15,020.61 points.
-
-Meanwhile, the S&P SL20 increased by 77.63 points (1.76%) to close at 4,498 points today.
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange recorded a new all-time high today (23), surpassing the 15,000 points mark for the first time in history.
-
-Accordingly, as of 11:45 a.m., the index recorded a remarkable gain of 245 points to cross the milestone.
-
-Today’s total market turnover is recorded as over Rs. 8.4 billion while the total number of shares traded today exceed 443 million.
-
-◼️
-
-[Data](articles/a35542cf.json)
-
----
-
-### Connecting the clubs to the grid substation
-
-*2024-12-23 12:07:29* · [`adalk`](https://www.ada.lk/breaking_news/වගවත්ත-ග්‍රිඩ්-උපපොළ-පද්ධතියට-සම්බන්ධ-කරයි/11-413792) · `si`
-
-Ceylon Electricity Board connects new Portfolid substation to national grid on Dec 19, 2024. Built by Board of Investment of Sri Lanka, it provides electricity to Balawatta and Millaniya areas. Enhances stability and quality of power supply. First grid substation constructed by CEB.
-
-🟩
-
-The Ceylon Electricity Board (CEB) announces that the newly built portfolid substation was linked to the national grid on 19th December 19, 2024. The Grid substation of the Board of Investment of Sri Lanka mainly, the Grid substation was established to provide electricity to the role of the Balawatta and Millaniya.
-
-The new grid substances have been built by the Board of Investment of Sri Lanka (BOI) has built stability and quality of electricity to existing purposes and to provide quality power supply for the purposes expected to be informed.Built with.
-
-The new grid subplacement projects (TCP) branch was used by the Ceylon Electricity Board (TCP) branch.. That is, the Grid Hutua is the first grid constructed substation built by the Ceylon Electricity Board (CEB).
-
-◼️
-
-[Data](articles/661354c0.json)
-
-[Extended Data](ext_articles/661354c0.ext.json)
 
 ---

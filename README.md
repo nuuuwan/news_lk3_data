@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 22:42:51**
+As of **2024-12-24 23:00:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,493 (99.4%) of 61,875 articles have been extended.
+61,494 (99.4%) of 61,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -128,27 +128,37 @@ Accordingly, seven persons have been arrested by the Kandana Police regarding th
 
 ---
 
-### පොඩි ලැසී සහ කුඩු සළිඳු රටින් පැන්නා ද ?
+### Are smashing and powder from worthless country
 
 *2024-12-24 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204687) · `si`
 
-මේ වනවිට අතුරුදන්වී සිටින සළිඳු මල්ෂික නොහොත් කුඩු සළිඳු හා පොඩි ලැසී විදෙස්ගතවී ඇති බවට සැක කරන බව පොලිස් ආරංචි මාර්ග පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-අධිකරණයෙන් ඇප ලබා සිටින කුඩු සළිඳු හා පොඩි ලැසී මුහුදු මාර්ගයෙන් එලෙස විදෙස්ගතවී ඇතැයි සැක කෙරෙයි.
 
-එවන් පසුබිමක කුඩු සළිඳු ගැවසෙන ස්ථාන කිහිපයක් පරීක්ෂා කිරීම සඳහා පොලිස් නිලධාරීන් පිරිසක් ගිය ද ඔහු සොයාගැනීමට හැකිවී නොමැත.
 
-ඇප මත නිදහස් කිරීමේදී සෑම ඉරු දිනකම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස "කුඩු සළිඳු" නැමැත්තාට අධිකරණය විසින් කොන්දේසියක් පනවා තිබුණි.
+A suspect named Kudu Shalu failed to appear before CID on bail. Police investigated him after he disappeared. Magistrate issued arrest warrants.
 
-එහෙත්  ඔහු ඉකුත් 22 වනදා දිනයේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිට නොමැති බව සඳහන්ය.
+🟩
 
-ඒ අනුව ඒ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පානදුර මහෙස්ත්‍රාත් අධිකරණය හමුවේ ඊයේ (23)  කරුණු වාර්තා කළේය.
+It is suspected that the disappeared is the disappeared, police sources said.
 
-එම කරුණු සැලකිල්ලට ගෙන "කුඩු සළිඳු" නැමැත්තා අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස මහෙස්ත්‍රාත් අධිකරණය විසින් වරෙන්තු නිකුත් කර තිබුණි.
+The bail of bail is suspected to be abundant by the precious and small sea sea.
+
+He has not been able to find a group of police officers to examine some of the shable areas in such a background.
+
+The Court was conducting a condition to appear before the Criminal Investigation Department (CID) to appear on bail.
+
+However, he has not appeared before the CID on the 22nd.
+
+Accordingly, the Criminal Investigation Department (CID) investigated the Panadura Magistrate yesterday (23).
+
+The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" who was arrested and produced in court.
 
 ◼️
 
 [Data](articles/ea8d434b.json)
+
+[Extended Data](ext_articles/ea8d434b.ext.json)
 
 ---
 

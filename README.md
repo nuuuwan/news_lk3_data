@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 16:27:09**
+As of **2024-12-24 16:43:41**
 
 ## Newspaper Stats
 
-*Scraped **61,823** Articles*
+*Scraped **61,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,899
+adalk | 5,900
 adaderanalk | 7,554
 tamilmirrorlk | 8,848
 virakesarilk | 10,214
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,461 (99.4%) of 61,823 articles have been extended.
+61,463 (99.4%) of 61,824 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,17 +78,53 @@ Deputy Minister of Labor Mahinda Jayasinghe said that the implementation of the 
 
 ---
 
-### சிறைக் கைதிகளுக்கு பொதுமன்னிப்பு
+### Amnesty to prison inmates
 
 *2024-12-24 15:39:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைக்-கைதிகளுக்கு-பொதுமன்னிப்பு/175-349215) · `ta`
 
-கிறிஸ்மஸ் பண்டிகையை முன்னிட்டு 389 சிறைக் கைதிகளுக்கு பொதுமன்னிப்பு வழங்கப்படவுள்ளதாக சிறைச்சாலைகள் திணைக்களத்தின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
+389 prisoners to be freed on Dec 25 as part of Christmas amnesty program, including 4 female inmates.
 
-மேலும், நாடளாவிய ரீதியில் உள்ள பல சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டுள்ள 389 கைதிகள், நத்தார் தினமான புதன்கிழமை (25) விடுவிக்கப்படவுள்ளதாகவும் அவர்களில் நான்கு பெண் கைதிகள் அடங்குவதாகவும் குறித்த அதிகாரி குறிப்பிட்டார்.
+🟩
+
+A senior official of the Prisons Department said that 389 prisoners will be granted amnesty during the Christmas festival.
+
+The official said that 389 detainees detained in several prisons across the country will be released on Wednesday (25), four female prisoners.
 
 ◼️
 
 [Data](articles/a783a526.json)
+
+[Extended Data](ext_articles/a783a526.ext.json)
+
+---
+
+### Palali's sergeant killed in Hadiyaya
+
+*2024-12-24 15:20:51* · [`adalk`](https://www.ada.lk/breaking_news/පලාලි-යුදහමුදා-කඳවුරේ-සැරයන්වරයෙක්-හදීසියේම-මරුට/11-413819) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sergeant killed in Hadiyaya near Jaffna. Died of heart attack at Palali Hospital. 31-year-old from Kurunegala, father of two.
+
+🟩
+
+Around Jaffna, Jaffna, Jaffna, police said in a sickness in a sickness yesterday (23), police said.
+
+The army sergeant who was engaged in a sickness in the Palali hospital yesterday morning, his condition was later admitted to the Palaly Hospital yesterday and was later admitted to the Palaly Hospital.
+
+The Jaffna Teaching Hospital was admitted to the Survey of the Army.
+
+Hadizenal Death Troubles Officer of the Mortality Testing of the Movement of the Army, which was placed at the Jaffna Teaching Hospital. Jayabalaasinghe has been informed that the soldiers had died due to a heart attack in the apartment.
+
+The victim has been identified as a 31 year old resident of Kurunegala and is a father of two.
+
+◼️
+
+[Data](articles/fde5cfd3.json)
+
+[Extended Data](ext_articles/fde5cfd3.ext.json)
 
 ---
 
@@ -2131,25 +2167,5 @@ Deputy Minister of Finance and Planning Harshana Suriyapperuma and President's S
 [Data](articles/0689e05a.json)
 
 [Extended Data](ext_articles/0689e05a.ext.json)
-
----
-
-### Great Western Estate  achieves all-time record price
-
-*2024-12-24 02:57:35* · [`dailyftlk`](https://www.ft.lk/business/Great-Western-Estate-achieves-all-time-record-price/34-770968) · `en`
-
-Great Western Estate, situated in the heart of the Dimbula Valley, is famous for its quality tea. At the last sale of the year 2024, Great Western Estate achieved an all-time record price of Rs. 2,900 per kg for a Dust1 grade, which was purchased by M/s Heritage Teas Ltd.
-
-This estate is certified under ISO 14001:2015 and ISO 9001:2015 for its Quality Management System (QMS) and is also Rainforest Alliance certified.
-
-Nestled in Sri Lanka’s high grown region, the estate is identified as one of the country’s most innovative tea producers. Its teas embody exceptional quality, setting both local and international benchmarks in price, quality, food safety, and social and environmental sustainability.
-
-Great Western Estate is managed by Talawakelle Tea Estates PLC, a subsidiary of Hayleys Group of Companies, under the stewardship of Deputy General Manager Sarath Ranaweera.
-
-◼️
-
-[Data](articles/c083a892.json)
-
-[Extended Data](ext_articles/c083a892.ext.json)
 
 ---

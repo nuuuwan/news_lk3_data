@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 23:00:42**
+As of **2024-12-24 23:27:15**
 
 ## Newspaper Stats
 
-*Scraped **61,875** Articles*
+*Scraped **61,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,910
-adaderanalk | 7,559
+adaderanalk | 7,560
 tamilmirrorlk | 8,850
 virakesarilk | 10,235
 adaderanasinhalalk | 10,688
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,494 (99.4%) of 61,875 articles have been extended.
+61,496 (99.4%) of 61,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Russian cargo ship sinks in Mediterranean after engine room blast, 2 crew missing
+
+*2024-12-24 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104478/russian-cargo-ship-sinks-in-mediterranean-after-engine-room-blast2crewmissing) · `en`
+
+A Russian cargo ship sank in the Mediterranean Sea between Spain and Algeria, leaving two crew members missing, Spain’s maritime rescue agency and the Russian Foreign Ministry said Tuesday.
+
+Fourteen of the Ursa Major’s crew were rescued uninjured from a lifeboat and transferred to Spain, the agency said. The Russian ministry said the ship started sinking following an explosion in the engine room.
+
+The vessel was owned by SK-Yug, a subsidiary of the Russian shipping and logistics company Oboronlogistika, which was established under Russia’s defense ministry and placed under U.S. and European Union sanctions for its ties to Russia’s military.
+
+Spanish authorities said there were empty containers and two cranes on board. They did not confirm the cause of the accident.
+
+...
+
+[Data](articles/02ecb4ba.json)
+
+[Extended Data](ext_articles/02ecb4ba.ext.json)
+
+---
 
 ### The Vidyalaya in the Divine's video protests
 
@@ -211,6 +231,8 @@ As a result, a total of 62 employees were suspended from their positions. Howeve
 ...
 
 [Data](articles/8061bed1.json)
+
+[Extended Data](ext_articles/8061bed1.ext.json)
 
 ---
 
@@ -2247,21 +2269,5 @@ Since then, he has retained his fame over five decades and produced most popular
 ◼️
 
 [Data](articles/d18aca92.json)
-
----
-
-### වගා හානි සඳහා බෝග 6ක් සඳහා හෙක්ටයාරයකට රු ලක්ෂය බැගින්
-
-*2024-12-24 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204668) · `si`
-
-වගා හානි සඳහා බෝග 6ක් සඳහා හෙක්ටයාරයකට රු ලක්ෂය බැගින් ලබාදීමට කැබිනට් අනුමැතිය ලබාදුන් බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-වී, බඩ ඉරිඟු, අර්තාපල්, මිරිස්, ලොකු ලූනු සහ සෝයා බෝංචි වෙයි.
-
-පසුගිය අයහපත් කාලගුණය නිසාවෙන් සිදුවූ වගා හානි පිළිබඳව කෘෂිකර්ම, ඉඩම්, පශු සම්පත් හා වාරිමාර්ග අමාත්‍යවරයා විසින් පසුගිය දෙසැම්බර් 02 වනදා දක්වා සිදුවූ හානි පිළිබඳව වාර්තාවක් ඉදිරිපත් කළ බවද අමාත්‍යවරයා පැවසීය.
-
-...
-
-[Data](articles/2a5544a5.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 06:13:23**
+As of **2024-12-24 05:51:25**
 
 ## Newspaper Stats
 
-*Scraped **61,721** Articles*
+*Scraped **61,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,742
-economynextcom | 3,758
+economynextcom | 3,757
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,886
@@ -26,27 +26,11 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,415 (99.5%) of 61,721 articles have been extended.
+61,415 (99.5%) of 61,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
-
-### Sri Lanka President, central bank discuss AML/CFT measures to prevent blacklisting again
-
-*2024-12-24 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-central-bank-discuss-aml-cft-measures-to-prevent-blacklisting-again-196014/) · `en`
-
-ECONOMYNEXT – Facing a risk of falling into the grey list for a third time, President Anura Kumara Dissanayake and officials including from the Central Bank discussed measures to be implemented to prevent falling into the grey list which could dent the island nation’s economic recovery from sovereign debt default.
-
-The country is obliged to fulfil a raft of measures including passing new laws to comply with preventing money laundering and countering terrorism financing (AML/CFT) laws before the next evaluation starts in March 2025.
-
-When a country is placed on the Financial Action Task Force (FATF) grey list, it faces several financial, economic, and reputational challenges including reduced access to global financial markets, decline in Foreign direct investment (FDI), increased compliance costs, and risks of rating downgrading.
-
-...
-
-[Data](articles/dc3860b5.json)
-
----
 
 ### Christmas carol concert at Presidential Secretariat until tomorrow
 
@@ -2201,5 +2185,29 @@ Dr. Wickremesinghe, an alumnus of Galle Southlands College. He holds a Masters D
 [Data](articles/41325aa7.json)
 
 [Extended Data](ext_articles/41325aa7.ext.json)
+
+---
+
+### 50 wild elephants killed this year
+
+*2024-12-23 12:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-இவ்வருடம்-50-காட்டு-யானைகள்-பலி/175-349147) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"50 wild elephants electrocuted this year: CEB report. CEB claims preventive measures & seeks public cooperation."
+
+🟩
+
+According to a report by the Ceylon Electricity Board (CEB), about 50 wild elephants have been killed by electricity during this year.
+
+The Electricity Board says that appropriate measures have been taken to prevent electricity without permission and the public's support is expected.
+
+◼️
+
+[Data](articles/58e18048.json)
+
+[Extended Data](ext_articles/58e18048.ext.json)
 
 ---

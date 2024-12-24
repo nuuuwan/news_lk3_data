@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 22:16:02**
+As of **2024-12-24 22:27:35**
 
 ## Newspaper Stats
 
-*Scraped **61,873** Articles*
+*Scraped **61,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,909
+adalk | 5,910
 adaderanalk | 7,559
 tamilmirrorlk | 8,850
 virakesarilk | 10,235
@@ -26,31 +26,43 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,491 (99.4%) of 61,873 articles have been extended.
+61,492 (99.4%) of 61,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### දේවගැති ජෙරම්ගේ වීඩියෝවට පාර්ශ්ව රැසකින් විරෝධය
+### The Vidyalaya in the Divine's video protests
 
 *2024-12-24 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204690) · `si`
 
-ඇතැම් පාර්ශ්ව බුදුදහමට අවමන් කරමින් සිදුකරන ක්‍රියා ආගමික ගැටුමක් දක්වා වර්ධනය වීමට පෙර ඒවාට එරෙහිව පියවර ගත යුතු බව මල්වතු සහ අස්ගිරි මහා විහාර පාර්ශ්ව පෙන්වාදී තිබේ.
+Here's a summary in 200 characters:
 
-එහි නා හිමිවරුන් අද (24) මෙම අදහස් පළ කළේ දේවගැති ජෙරම්ගේ ක්‍රියාකලාපයට එරෙහිව පාර්ශ්ව කිහිපයක් පැමිණ මල්වතු හා අස්ගිරි මහාවිහාර දැනුම්වත් කළ අවස්ථාවේදීය.
 
-දේවගැති ජෙරම් ප්‍රනාන්දු නමැත්තා පවත්වන කිසියම් ආගමික වැඩසටහනක චීවරයකින් සැරසුණු පුද්ගලයෙකු සම්බන්ධ වීඩියෝවක් සමාජ මාධ්‍ය වෙත පසුගිය දිනවල මුදාහැර තිබුණි.
 
-එවැනි සිදුවීම් හෙළා දකිමින් කාදිනල් හිමිපාණන්ද ඊයේ (23) ප්‍රකාශයක් සිදු කළේය.
+Buddhist monasteries protest Chinese religious program. Cardinal condemns incident. Religious leaders call for legal action against religious conflicts.
 
-මෙවන් පසුබිමක ඒ පිළිබඳ දැනුම්ත් කිරීම සඳහා අද පස්වරුවේ රාවණා බලය සහ සිංහලේ යන සංවිධානවල භික්ෂුන්වහන්සේ, මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් බැහැදුටුවේය.
+🟩
 
-එහිදී අදහස් දැක්වූ මල්වතු පාර්ශ්වයේ මහානායක අතිපූජ්‍ය තිබ්බටුවාවේ ශ්‍රී සුමංගල නාහිමියන් පැවසුවේ අදාළ ගැටළුව සම්බන්ධයෙන් නීතියානුකූල ලෙස කටයුතු කළයුතු බවය.
+Malwatte and Asgiri Maha Viharaya have shown that action should be taken against Buddhism to a religious conflict to a religious conflict.
 
-...
+The Naman said these comments today (24) at a few parties against the role of the pasco-Jerem's role.
+
+Social media had been released recently a video of a Chinese program in a religious program of a religious program of a religious program held in a religious program.
+
+Cardinal was condemned by condemning such incidents yesterday (23).
+
+The Buddhist monks of Ravana Power and Sinhala organizations in this backdrop, the Buddhist monastery of the Malwatte side of the Malwatte Ven.
+
+Speaking on the occasion, the Malwatte faction, Malwatte, Maha Sumangala Thera said that action should be taken as a law.
+
+Meanwhile, the Naymen of the Asgiriya and Malwatte Ven.
+
+◼️
 
 [Data](articles/96a82a1a.json)
+
+[Extended Data](ext_articles/96a82a1a.ext.json)
 
 ---
 
@@ -669,6 +681,26 @@ He made this statement during a media briefing held today (24), emphasizing the 
 ...
 
 [Data](articles/025e5584.json)
+
+---
+
+### දයාසිරි හත්පොලේ ගා ගන්නවා
+
+*2024-12-24 17:54:17* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-හත්පොලේ-ගා-ගන්නවා/11-413829) · `si`
+
+ජනපති අරමුදලින් මුදල් ලබා ගත් දේශපාලඥයින් සම්බන්ධයෙන් තමන් කළ ප්‍රකාශය සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා හත්පොලේ ගා ගනිමින් යන බව අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+
+කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවේදී යොමුකළ ප්‍රශ්නයට පිළිතුරු දෙමින් ඔහු මෙම අදහස් දැක්වීය.
+
+“2005 සිට 2024 දක්වා ජනපති අරමුදලින් මුදල් ලබාගත් දේශපාලඥයින් කිහිප දෙනෙකුගේ නම් විතරයි ඉදිරිපත් කළේ.තවත් නම් ලැයිස්තුවක් මගේ අතේ තියනවා.
+
+දයාසිරි ගැන කියපු නිසා, අනිත් ඔය මම නම කිහපු  හැමදෙනාම දයාසිරි හැර භාර ගත්තා ඔව් විවිධ තත්ත්වයන් තුළ ඒ මුදල් ගත්තා කියලා.
+
+දයාසිරි විතරක් එක එක දේවල් කියාගෙන යනවා. මට මතක් වෙන්නේ සමහර මඩේ ලැගපු ඌරෝ එළියට ඇවිල්ලා ගඟක ඇළක දොළකට පැනලා මඩ හෝදගන්න නෙමෙයි ට්‍රයි කරන්නේ තමන්ගේ ඇඟේ තියෙන මඩ ටික තාප්පෙක, ගලක, ගහක උල උලා යන්න.
+
+...
+
+[Data](articles/c3c54cef.json)
 
 ---
 
@@ -2221,21 +2253,5 @@ Due to food controls, rice prices tend to move up in December and January ahead 
 ◼️
 
 [Data](articles/e1b0f244.json)
-
----
-
-### Govt. announces compensation for flood-affected farmers
-
-*2024-12-24 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104462/govt-announces-compensation-for-flood-affected-farmers) · `en`
-
-The Cabinet of Ministers has granted approval to provide Rs. 100,000 per hectare as compensation to paddy, corn, potato, big onion, soybean, and chili farmers whose cultivation was damaged by recent floods.
-
-Announcing this week’s Cabinet decisions, Cabinet Spokesman, Minister, Dr. Nalinda Jayatissa pointed out that due to the adverse weather conditions that prevailed in the past few days across the island, houses, highways, paddy fields and cultivated lands in many districts were flooded, and a large number of lakes and embankments were broken, causing various inconveniences to the public.
-
-According to the data of the Department of Agrarian Development, as of 2024.12.02, approximately 91,300 acres of paddy fields have been completely damaged across the island, and about 86,225 acres of paddy fields have been partially damaged, the Minister added.
-
-...
-
-[Data](articles/342e9294.json)
 
 ---

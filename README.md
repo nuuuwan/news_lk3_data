@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 15:13:12**
+As of **2024-12-24 15:43:48**
 
 ## Newspaper Stats
 
-*Scraped **61,806** Articles*
+*Scraped **61,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 3,744
 economynextcom | 3,762
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,897
+adalk | 5,898
 adaderanalk | 7,552
 tamilmirrorlk | 8,847
 virakesarilk | 10,212
-adaderanasinhalalk | 10,674
+adaderanasinhalalk | 10,676
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,456 (99.4%) of 61,806 articles have been extended.
+61,459 (99.4%) of 61,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Sri Lanka is still unable to join the international financial market - Harsha
+
+*2024-12-24 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204675) · `si`
+
+Sri Lanka's economic recovery: Dr. Harsha de Silva outlines path to international financial market participation, emphasizing need for continued economic reforms and credit rating improvement to reach BBB level by 2027.
+
+🟩
+
+According to MP Dr. Harsha de Silva, he is still capable of being an active member of the international financial market, even if Sri Lanka is out of debt.
+
+He says that it is essential to maintain the economic reforms and credit rating to BBB.
+
+Members of Parliament Dr. Harsha de Silva, MP Dr. Harsha de Silva explained the current situation in Sri Lanka.
+
+"Fitch, Moody's rating has been underway. Actually, that's happy news to the whole country. "
+
+"We have not yet come to a rating that can be loan from the international market. It's got to come to a place like BBB. The economy should be strengthened. "
+
+"This is received through the government and the order passed by the government.. One of the results of the effort to bring the economy of the country to stabilize. "
+
+"It is not about a new thing. Primarily here is the restructuring of debt. These loans have been graded through the presidential election 2 days ago without changing a footborn. "
+
+...
+
+[Data](articles/dba60f04.json)
+
+[Extended Data](ext_articles/dba60f04.ext.json)
+
+---
+
+### Telijia heated clash
+
+*2024-12-24 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204674) · `si`
+
+Clash near Thelejawila: Schoolgirl, others injured. Incident reported to police.
+
+🟩
+
+Four persons including a schoolgirl, including a terminated at the Thelejawila junction last night, has been admitted to the Matara General Hospital yesterday.
+
+When a cousin was talking to a cousin with a student at the junction, her uncle and a group of her uncle have come to see this attack.
+
+A 15-year-old schoolgirl, a 15-year-old schoolgirl, has been admitted to the attack.
+
+One person has been attacked by a 20-year-old girl.
+
+Meanwhile, complaints complained to the Malimbada police regarding the incident.
+
+The Police Superintendent of Police (SSP Pandula Weerasinghe has then informed the incident.
+
+◼️
+
+[Data](articles/d34a5218.json)
+
+[Extended Data](ext_articles/d34a5218.ext.json)
+
+---
+
+### විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවට නව අධ්‍යක්ෂ ජනරාල්වරයෙක්
+
+*2024-12-24 14:34:46* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-වැටුප්-දෙපාර්තමේන්තුවට-නව-අධ්‍යක්ෂ-ජනරාල්වරයෙක්/11-413817) · `si`
+
+විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා වශයෙන් චාමින්ද හෙට්ටිආරච්චි මහතා 2025 ජනවාරි 01 වැනිදා සිට පත් කිරීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/576d49e5.json)
+
+---
 
 ### Two leopard cubs recovery
 
@@ -112,25 +182,35 @@ Deputy General Manager Panduga Swarnahansa added that more bus services will be 
 
 ---
 
-### சூரியனை நெருங்க முயற்சிக்கும் நாசா விண்கலம்
+### NASA spacecraft trying to get close to the sun
 
 *2024-12-24 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202037) · `ta`
 
-சூரியனுக்கு மிக அருகில் சென்று வராலாற்று சாதனை படைக்க நாசா விண்கலம் முயற்சித்து வருகிறது.
+Here's a 200-character summary:
 
-நாசாவின்  பார்க்கர் சோலார் ப்ரோப் எனப்படும் விண்கலம் ஒன்று கடும் வெப்பநிலை மற்றும் தீவிர கதிர்வீச்சை தாங்கி சூரியனின் வெளிப்புற வளிமண்டலத்தை நெருங்கியுள்ளது.
 
-இந்த அனல் பறக்கும் வெப்பத்தில் பறக்கும் விண்கலத்தில் இருந்த பல நாட்கள் தொடர்பு எதுவும் இல்லாமல் இருப்பதால் அது செயற்படுகிறதா இல்லையா என்பதை அறிய 27 ஆம் திகதி வரை விஞ்ஞானிகள் காத்து இருக்கின்றார்கள்.
 
-சூரியன் எவ்வாறு செயல்படுகிறது என்பதை நன்கு புரிந்துகொள்ள இந்த ஆய்வு உதவும் என்பது நம்பிக்கையாக உள்ளது.
+NASA's Parker Solar Probe approaches the sun's outer atmosphere, facing extreme temperatures and radiation. Scientists hope to gain insights into the sun's workings. The probe was launched in 2018 and is currently orbiting closer to the sun than any spacecraft before.
 
-நாசாவின் தலைமை விஞ்ஞானி நிக்கோலா பாக்ஸ் பிபிசி செய்தியிடம் கூறினார்: "பல நூற்றாண்டுகளாக, மக்கள் சூரியனைப் பற்றி அறிந்திருக்கின்றார்கள். ஆனால் நீங்கள் உண்மையில் அதைப் பார்வையிடும் வரை அந்த இடத்தின் வளிமண்டலத்தை நீங்கள் அனுபவிப்பதில்லை. அதனூடாக செல்லும் வரை சூரியனின் வளிமண்டலத்தை உண்மையில் அனுபவிக்க முடியாது."
+🟩
 
-பார்க்கர் சோலார் ப்ரோப் திட்டம்  2018 இல் தொடங்கப்பட்ட  தற்போது சூரிய குடும்பத்தின் மையத்தை நோக்கி செல்கிறது.
+The NASA spacecraft is trying to achieve the achievement of the sun.
+
+NASA's Parker Solar Prope, a spacecraft, approaches the sun's outer atmosphere bearing a severe temperature and intense radiation.
+
+Scientists have been waiting till the 27th to see if there is no contact with the flying spacecraft on this flying heat.
+
+It is hoped that this study will help you understand how the sun works.
+
+NASA's chief scientist Nicola Box told the BBC news: “For centuries, people have been aware of the sun. But you do not experience the atmosphere of the place until you actually visit it.. Cannot really enjoy the sun's atmosphere until it goes through. "
+
+The Parker Solar Prope Project was launched in 2018 and is now heading towards the center of the solar system.
 
 ◼️
 
 [Data](articles/8109b2ef.json)
+
+[Extended Data](ext_articles/8109b2ef.ext.json)
 
 ---
 
@@ -2059,55 +2139,5 @@ CIC Besto eggs offer significantly higher levels of essential nutrients. These 
 ...
 
 [Data](articles/abde1c71.json)
-
----
-
-### DSI Tyres recognised at SLIM Brand Excellence, Dragons of Asia and NCE Awards 2024
-
-*2024-12-23 23:22:00* · [`islandlk`](http://island.lk/dsi-tyres-recognised-at-slim-brand-excellence-dragons-of-asia-and-nce-awards-2024/) · `en`
-
-DSI Tyres, a leader in the tyre industry, along with its affiliated companies, has been recognized at several prestigious award ceremonies, including the SLIM Brand Excellence Awards by the Sri Lanka Institute of Marketing (SLIM), the Export Awards by the National Chamber of Exporters (NCE), and the Dragons of Asia Awards.
-
-At the SLIM Brand Excellence Awards 2024, regarded as Sri Lanka’s most prestigious and competitive brand recognition event, DSI Tyres received the ‘Agile Brand of the Year’ (Merit Award). This accolade was awarded for the company’s ability to adapt to rapidly changing market and social dynamics while adopting innovative and effective business strategies.
-
-DSI Tyres also achieved its first international recognition by winning the Black Dragon Award for the ‘Best Brand Building or Awareness Campaign’ at the 24th Dragons of Asia Awards, honouring their impactful marketing and communication initiatives.
-
-Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
-
-...
-
-[Data](articles/cd372e26.json)
-
----
-
-### Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
-
-*2024-12-23 23:21:00* · [`islandlk`](http://island.lk/sri-lankas-paymedia-wins-1st-runner-up-at-apicta-2024-in-brunei/) · `en`
-
-PayMedia, a leader in fintech innovation, has achieved a significant milestone by winning 1st Runner-Up in the Asia Pacific ICT Alliance (APICTA) Awards 2024 hosted in Brunei Darussalam under the category of Community and Indigenous Services.
-
-The recognition was earned for their groundbreaking product, LankaRemit, a platform that has revolutionized digital remittance services in Sri Lanka. Securing the 1st Runner-Up position in the Community and Indigenous Services category is a significant achievement, as it highlights solutions that cater to underserved communities, preserve cultural heritage, and improve inclusivity. PayMedia’s LankaRemit stood out among the highly competitive entries for its ability to empower Sri Lankan communities through seamless, secure, and cost-effective remittance services.
-
-...
-
-[Data](articles/5256e557.json)
-
----
-
-### Sri Lanka to accelerate the rise of MICE tourism
-
-*2024-12-23 23:20:00* · [`islandlk`](http://island.lk/sri-lanka-to-accelerate-the-rise-of-mice-tourism/) · `en`
-
-The Sri Lanka Convention Bureau (SLCB), in collaboration with Uva Wellassa University, have organized an interactive educational session aimed at promoting Sri Lanka as a prime destination for international, regional, and domestic conferences, meetings, exhibitions, and incentive travel.
-
-The event held on December 17 at Uva Wellassa University, saw the enthusiastic participation of 80 young undergraduates, who are poised to be the future professionals of the Meetings, Incentives, Conferences, and Exhibitions (MICE) industry.
-
-The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
-
-Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
-
-...
-
-[Data](articles/3d0cdc50.json)
 
 ---

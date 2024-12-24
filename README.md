@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 10:43:22**
+As of **2024-12-24 11:01:42**
 
 ## Newspaper Stats
 
-*Scraped **61,747** Articles*
+*Scraped **61,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,218 @@ economynextcom | 3,758
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,891
-adaderanalk | 7,539
+adaderanalk | 7,543
 tamilmirrorlk | 8,840
-virakesarilk | 10,195
-adaderanasinhalalk | 10,665
+virakesarilk | 10,199
+adaderanasinhalalk | 10,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,430 (99.5%) of 61,747 articles have been extended.
+61,431 (99.5%) of 61,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### සහල් ආනයන කාල සීමාව දීර්ඝ කෙරේ
+
+*2024-12-24 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204665) · `si`
+
+සහල් ආනයනය සඳහා අවසර ලබාදීමේ කාලසීමාව දීර්ඝ කිරීමට රජය පියවර ගෙන තිබේ.
+
+අද (24) පැවැති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසුවේ ඒ අනුව ආනයනික සහල් තොග ගෙන්වීම සඳහා ලබා දී ඇති කාළ සීමාව 2025 වසරේ ජනවාරි 10 දින දක්වා දීර්ඝ කිරීමට කැබිනට් අනුමැතිය හිමිවූ බවය.
+
+දේශීය වෙළෙඳපොළේ පවතින සහල් හිඟය 2025 වසරේ ජනවාරි මස අවසානය දක්වා පැවැතීමට ඉඩ ඇති බව නිරීක්ෂණය වී ඇති හෙයින් වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යවරයා විසින් ඉදිරිපත් මේ සඳහා වන යෝජනාව අමාත්‍ය මණ්ඩලය වෙත යොමු කර තිබේ.
+
+ඒ අනුව එම කාලසීමාව දීර්ඝ කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/8f4127d5.json)
+
+---
+
+### கிராந்துருகோட்டையில் புதையல் அகழ்வில் ஈடுபட்ட மூவர் கைது !
+
+*2024-12-24 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202011) · `ta`
+
+கிராந்துருகோட்டை ஹங்கலஓயா பிரதேசத்தில் , புதையல் அகழ்வில் ஈடுபட்ட மூன்று சந்தேக நபர்களை பொலிஸார் நேற்று திங்கட்கிழமை (23) கைது செய்துள்ளனர்.
+
+கிராந்துருகோட்டை பொலிஸ் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் , கிராந்துருகோட்டை பிரதேசத்தைச் சேர்ந்த 29 –38 வயதுக்குட்பட்டவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/e203a24a.json)
+
+---
+
+### Private sector rice imports authorization extended
+
+*2024-12-24 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104461/private-sector-rice-imports-authorization-extended) · `en`
+
+The Cabinet of Ministers has granted approval to extend the authorization of rice imports by the private sector until January 10, 2025.
+
+This was communicated by the Cabinet Spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held today (24).
+
+◼️
+
+[Data](articles/73cf18b3.json)
+
+---
+
+### Circular issued on 2024 bonus payments for state sector employees
+
+*2024-12-24 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104460/circular-issued-on-2024-bonus-payments-for-state-sector-employees) · `en`
+
+The Ministry of Finance, Planning & Economic Development has issued a circular concerning the payment of bonuses to employees of State Corporations, Statutory Boards, and State-Owned Enterprises for the year 2024.
+
+The circular, which was issued yesterday (23) by Secretary to the Treasury Mahinda Siriwardena, has been directed to all Ministry Secretaries and Chairpersons of the related institutions.
+
+The circular outlines the proposed bonus payments for this year. It specifies that employees of institutions which have paid at least 30% of their profits after tax to the Consolidated Fund in 2023 as dividends or levies will receive bonuses of either Rs. 25,000 or Rs. 20,000.
+
+Additionally, the Treasury Secretary has provided instructions on the procedures for the payment of these bonuses. It is also noted that the Treasury will not provide specific funding for the bonus payments.
+
+...
+
+[Data](articles/7c923091.json)
+
+---
+
+### ஹபரணை கொலையுடன் தொடர்புடைய சந்தேகநபர் கைது!
+
+*2024-12-24 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202009) · `ta`
+
+ஹபரணை பொலிஸ் பிரிவுக்குட்பட்ட லக்சிறிகம பகுதியில் இடம் பெற்ற கொலை  சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் நேற்று திங்கட்கிழமை (23) கைது செய்யப்பட்டுள்ளார்.
+
+லக்சிறிகம பகுதியில் கடந்த 12ஆம் திகதி நபரொருவர் கழுத்து அறுக்கப்பட்டு கொலை செய்யப்பட்டிருந்தார். இந்நிலையில் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/50d5d82b.json)
+
+---
+
+### නැගෙනහිර සංවර්ධනයට ඉන්දියාවෙන් රු බි 2.3ක ප්‍රදානයක්
+
+*2024-12-24 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204664) · `si`
+
+ඉන්දියාව සහ ශ්‍රී ලංකාව අතර සමාජ ආර්ථික සංවර්ධනය සහ ද්විපාර්ශික සහයෝගීතාවය ශක්තිමත් කිරීම සඳහා ක්‍රියාත්මක කරන ව්‍යාපෘතියක් සම්බන්ධයෙන් වන අවබෝධතා ගිවිසුමක් අත්සන් කිරීම සඳහා වන කැබිනට් පත්‍රිකාවට අනුමැතිය හිමිව තිබේ.
+
+ජනාධිපතිවරයා විසින් ඉදිරිපත් කර ඇති මෙම කැබිනට් පත්‍රිකාව මගින් රුපියල් මිලියන 2371 ප්‍රධානයක් නැගෙනහිර පළාතේ සංවර්ධන ව්‍යාපෘති සඳහා ලබා දීමට නියමිතය.
+
+ඒ අනුව අධ්‍යාපනය, සෞඛ්‍ය, කෘෂිකර්මාන්තය, වාරිමාර්ග, සංචාරක ව්‍යාපාරය සහ ප්‍රජා සවිබල ගැන්වීම් යන අංශ මෙම ව්‍යාපෘතිය හරහා අවදානය යොමු කිරීමට බලාපොරොත්තු වේ.
+
+මේ යටතේ ව්‍යාපෘති 33ක් හඳුනාගෙන ඇති අතර මෙමගින් නැගෙනහිර පළාතේ යටිතල පහසුකම් සංවර්ධනය කිරීම, ආර්ථික සංවර්ධනය ඉහළ නැංවීම සහ එම පළාතේ ජනතාවගේ සමාජ සවිබල ගැන්වීම මෙම ව්‍යාපෘති ක්‍රියාත්මක කිරීමේ අපේක්ෂාව වනු ඇත.
+
+ඒ අනුව අධ්‍යාපනය සඳහා රුපියල් මිලියන 315ක්, සෞඛ්‍ය සඳහා රුපියල් මිලියන 780ක්, කෘෂිකර්මාන්තය සඳහා රුපියල් මිලියන 620ක්, ධීවර කර්මාන්තය සඳහා රුපියල් මිලියන 230ක් ඇතුළුව ව්‍යාපෘති 33ක් සඳහා ඉන්දියානු රජය රුපියල් මිලියන 2371ක පිරිනැමීමට බලාපොරොත්තු වේ.
+
+...
+
+[Data](articles/cb22a1e8.json)
+
+---
+
+### ஜா - எலயில் துப்பாக்கிச் சூடு !
+
+*2024-12-24 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202008) · `ta`
+
+ஜா-எல பகுதியில் வீடொன்றின் மீது துப்பாக்கிச் சூட்டு தாக்குதல் நடத்தப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இன்று (24) செவ்வாய்க்கிழமை காலை மோட்டார் சைக்கிளில் வந்த இருவரே துப்பாக்கிச் சூடு நடத்தியுள்ளதாக தெரியவந்துள்ளது.
+
+இந்த துப்பாக்கிச்சூட்டில் ஒருவருக்கும் காயம் ஏற்படவில்லை என்றும் குறித்த வீட்டின் பிரதான நுழை வாயில்  மற்றும் சுவர்கள் சேதமடைந்துள்ளதாகவும் கூறப்படுகிறது.
+
+மேலும் , கடந்த 15ஆம் திகதி இரவு மோட்டார் சைக்கிளில் வந்த இருவர் குறித்த வீட்டின் மீது துப்பாக்கிச் சூடு நடத்தியிருந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/86ace306.json)
+
+---
+
+### අල්ලස් ගත් පොලිස් නිලධාරියෙකුට සිදුවූ දේ
+
+*2024-12-24 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204663) · `si`
+
+අල්ලස් මුදලක් ලබා ගත් පොලිස් නිලධාරිවරයෙකු අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
+
+තඹලගමුව ප්‍රදේශයේ පුද්ගලයෙකු විසින් මුදල් ආරවුලක් සම්බන්ධව ත්‍රිකුණාමලය පොලිස් ස්ථානයට පැමිණිල්ලක් සිදුකර තිබේ.
+
+එම පැමිණිල්ල විභාග කර පැමිණිලිකරුට අයවීමට ඇති මුදල් ලබා ගැනීමට අවශ්‍ය කටයුතු කරදිය හැකි බව පවසා ඒ වෙනුවෙන් රුපියල් පන්දහසක මුදලක් අල්ලස් වශයෙන් ඉල්ලා තිබේ.
+
+ඒ අනුව එම අල්ලස් මුදල ලබා ගැනීම මත ත්‍රිකුණාමලය පොලිස් ස්ථානයේ විවිධ පැමිණිලි විමර්ශන අංශයට අනුයුක්තව ප්‍රජා පොලිස් ඒකකයේ සේවය කළ පොලිස් සැරයන්වරයෙකු පසුගිය 23 වැනි දින අල්ලස් කොමිසමේ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගන්නා ලද සැකකරුවන් ත්‍රිකුණාමලය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/6beb90a1.json)
+
+---
+
+### Two more suspects arrested in Meegoda murder case
+
+*2024-12-24 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104459/two-more-suspects-arrested-in-meegoda-murder-case) · `en`
+
+Two more suspects have been apprehended in connection with the shooting and murder that occurred in Meegoda on December 14.
+
+The Western Province South Crime Division launched an investigation into the incident, which initially led to the arrest of the shooter and an accomplice on December 19, followed by the arrest of three additional suspects on December 22.
+
+Following further interrogations from the suspects, officers arrested two more individuals in the Meegoda Police Division last evening (23).
+
+The suspects, aged 26 and 33, are residents of the Meegoda area and face charges of aiding, abetting, and conspiring to commit the murder.
+
+Furthermore, it is reported that, based on information provided by one of the suspects, the police recovered a 9 mm pistol and 10 live rounds of ammunition hidden on the bank of a ravine along the Meegoda Kurunduwatta Road.
+
+The Western Province South Crime Division and the Meegoda Police are jointly conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/bb28236b.json)
+
+---
+
+### மீகொடை துப்பாக்கிச் சூடு - மேலும் சந்தேக நபர்கள்  இருவர் கைது
+
+*2024-12-24 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202005) · `ta`
+
+மீகொடை பொலிஸ் பிரிவுக்குட்பட்ட நாகஹவத்தை பகுதியில் கடந்த 14ஆம் திகதி காரில் பயணித்த ஒருவரை சுட்டுக் கொலை செய்த சம்பவம்  தொடர்பில் நேற்று திங்கட்கிழமை (23) மேலும் சந்தேகநபர்கள்  இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் 26 மற்றும் 33 வயதுடைய மீகொட பகுதியைச் சேர்ந்தவர்களாவர்.
+
+இதன்படி, மேல்மாகாண தெற்கு குற்றப்பிரிவின் அதிகாரிகளினால் கடந்த 19 ஆம் திகதியன்று துப்பாக்கிச் சூடு நடத்திய சந்தேகநபர் ஒருவரையும்  கடந்த 22 ஆம் திகதி இந்தச் சம்பவத்துடன் தொடர்புடைய மேலும் மூன்று சந்தேக நபர்களையும் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்களிடம் விசாரணை நடத்தியதில் வெளிவந்த தகவல்களின் அடிப்படையில், இந்தச் சம்பவத்துடன் தொடர்புடைய மேலும் இரு சந்தேக நபர்களை நேற்று மீகொடை பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+
+இதேவேளை, சந்தேகநபர் ஒருவரிடமிருந்து கிடைத்த தகவலின் அடிப்படையில் மீகொடை கருவாத்தோட்டம் பகுதியில் மறைத்து வைக்கப்பட்டிருந்த 9 mm ரக துப்பாக்கி மற்றும் 10 தோட்டாக்கள் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/e377b13f.json)
+
+---
+
+### Central Bank of Sri Lanka penalises Indian Bank
+
+*2024-12-24 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104458/central-bank-of-sri-lanka-penalises-indian-bank) · `en`
+
+The Central Bank of Sri Lanka - Financial Intelligence Unit has penalised state-owned Indian Bank for failing to conform to the provisions of the Financial Transactions Reporting Act, No.6 of 2006 (FTRA) of Sri Lanka.
+
+It has imposed a monetary penalty of Sri Lankan rupees (LKR) two million, which is approximately Rs 5.8 lakh, Indian Bank informed the stock exchange on Monday.
+
+In Sri Lanka, Indian Bank is operating with two branches in Colombo and Jaffna. “The bank and its branches in Sri Lanka have taken necessary preventive actions to avoid such recurrence in future,” the bank further said.
+
+However, Indian Bank did not respond to a questionnaire from TOI seeking details about the specifics such as the reason for the penalty.
+
+◼️
+
+[Data](articles/c05bda9c.json)
+
+---
 
 ### Admission to former US President Bill Clinton Hospital
 
@@ -58,21 +256,29 @@ Bill Clinton served as the 42nd President in the White House from 1993 to 2001.
 
 ---
 
-### මුදල් විශුද්ධිකරණය සහ ත්‍රස්තවාදයට මුදල් සැපයීම වැළැක්විම පිළිබඳ සාකච්ඡාවක්
+### Discussion on money laundering and funding of terrorism
 
 *2024-12-24 09:38:11* · [`adalk`](https://www.ada.lk/breaking_news/මුදල්-විශුද්ධිකරණය-සහ-ත්‍රස්තවාදයට-මුදල්-සැපයීම-වැළැක්විම-පිළිබඳ-සාකච්ඡාවක්/11-413810) · `si`
 
-මුදල් විශුද්ධිකරණය වැළැක්වීම සහ ත්‍රස්තවාදයට මුදල් සැපයීම මැඬ පැවැත්වීම පිළිබඳ ආසියා ශාන්තිකර කණ්ඩායම විසින් පැවැත්වීමට නියමිත ශ්‍රී ලංකාවේ අන්‍යෝන්‍ය ඇගයීම සඳහා සූදානම් වීමේ වැදගත්කම පිළිබඳ සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (23) පස්වරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+Sri Lanka: President discusses anti-money laundering, anti-terrorism financing strategies with key officials.
 
-මෙම සාකච්ඡාව සඳහා අමාත්‍ය මණ්ඩලය, අමාත්‍යාංශ ලේකම්වරු, ශ්‍රී ලංකා මහ බැංකුවේ නිලධාරීහු සහ මුල්‍ය බුද්ධි ඒකකයේ නිලධාරීහු සහභාගි වූහ.
+🟩
 
-අමාත්‍යාංශ, නියාමන ආයතන, නීතිය ක්‍රියාත්මක කිරීමේ නියෝජිත ආයතන ඇතුළුව, පාර්ශ්වකාර ආයතන 24ක් සඳහා සම්පාදනය කර ඇති අමාත්‍ය මණ්ඩල අනුමැතිය ලත් ක්‍රියාකාරී සැලසුම් ක්‍රියාත්මක කිරීමේ කඩිනම් අවශ්‍යතාව මෙහිදී මූල්‍ය බුද්ධි ඒකකය විසින් අවධාරණය කරන ලදී.
+President Anura Kumara Dissanayake was conducted at the Presidential Secretariat yesterday (23) under the patronage of the Asian Pacific team to be preparing to prevent money laundering and supplying money on terrorism.
 
-මූල්‍ය ක්‍රියාකාරී කාර්ය සාධක බලකාය (FATF) විසින් සකස් කරන ලද නිර්දේශය ක්‍රියාත්මක කිරීම සඳහා නීතිමය ප්‍රතිසංස්කරණ, ධාරිතා ගොඩනැඟීම, වැඩිදියුණු කළ අන්තර් නියෝජිතායතන සහයෝගීතාව සහ විස්තීරණ සංඛ්‍යා ලේඛන පවත්වා ගෙන යාම සඳහා මෙම ක්‍රියාකාරී සැලසුම තුළ ප්‍රමුඛතාව ලබා දෙයි.
+Cabinet of Ministers, Ministry Secretaries, Central Bank of Sri Lanka and Finance Intelligence Unit were also present.
+
+The Finance Intelligence Unit emphasized the immediate need to implement the approved Cabinet approval, including ministries, regulatory agencies, law enforcement agencies.
+
+The active plan provides priority to maintain legal reforms, capacity building, improved interven agency cooperation, improved interven agency cooperation and comprehensive statistics.
+
+President Anura Kumara Dissanayake instructed the Financial Intelligence Unit, Ministers, Secretaries, and officials to appoint dedicated groups to ensure full consistency with these plans.
 
 ...
 
 [Data](articles/897b07b1.json)
+
+[Extended Data](ext_articles/897b07b1.ext.json)
 
 ---
 
@@ -895,8 +1101,6 @@ The Sri Lanka Convention Bureau (SLCB), in collaboration with Uva Wellassa Unive
 The event held on December 17 at Uva Wellassa University, saw the enthusiastic participation of 80 young undergraduates, who are poised to be the future professionals of the Meetings, Incentives, Conferences, and Exhibitions (MICE) industry.
 
 The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
-
-Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
 
 ...
 
@@ -1991,229 +2195,5 @@ He added that he will be admitted to the hospital again on Tuesday (24).
 [Data](articles/467d61a7.json)
 
 [Extended Data](ext_articles/467d61a7.ext.json)
-
----
-
-### Sri Lanka holds first-ever national conference for families of missing persons
-
-*2024-12-23 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104447/sri-lanka-holds-first-ever-national-conference-for-families-of-missing-persons) · `en`
-
-The first National Conference for the Families of Missing Persons in Sri Lanka has been held in Colombo, facilitated by the International Committee of the Red Cross (ICRC), which brought together 51 families of missing persons from all communities in Sri Lanka, representing diverse regions.
-
-Issuing a statement, the ICRC said that the conference provided a much-needed humanitarian space for families of missing persons to interact with families from other communities, exchange views, discuss common challenges faced in searching for their missing loved ones and how to overcome them collectively.
-
-During the event, the participants reiterated the need to know the fate and whereabouts of their missing loved ones, the ICRC added.
-
-The conference also served as a forum for families to engage in a dialogue with the relevant authorities on improving the existing processes and mechanisms available to address the multifaceted needs of families of missing persons.
-
-...
-
-[Data](articles/7c438580.json)
-
----
-
-### Sri Lanka’s inflation drops further in November 2024
-
-*2024-12-23 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104446/sri-lankas-inflation-drops-further-in-november-2024) · `en`
-
-The overall rate of inflation, as measured by the National Consumer Price Index (NCPI), has decreased to -1.7% in November 2024 from -0.7% in October 2024, according to the latest data released by  the Department of Census and Statistics.
-
-Meanwhile, the NCPI for all items for the month of November 2024 was recorded at 202.4 in index points compared to October 2024.
-
-The Year-on-Year inflation of the food group decreased to 0.0% in November from 1.3% in October 2024, while the Year-on-Year inflation of the non-food group decreased to -3.1% in the month of November from -2.3% in October 2024.
-
-◼️
-
-[Data](articles/f69a38f1.json)
-
----
-
-### Minister Nalinda says something to the new constitutionally
-
-*2024-12-23 16:25:34* · [`adalk`](https://www.ada.lk/breaking_news/නව-ව්‍යවස්ථාවෙන්-කරන-දෙයක්-ඇමති-නලින්ද-කලින්ම-කියයි/11-413797) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Nalinda announces constitutional right to healthcare. Emphasizes importance of primary health services. Supports kidney disease prevention and treatment. Participates in CSR initiatives with All Ceylon Kidney Association.
-
-🟩
-
-The new constitution is announced that the new constitution is a basic human right to be the right to the health of health, and it will be able to resort to court in a breakplace.
-
-Health and Mass Media Dr. Nalinda Jayatissa joined the Annual CSR initiative of the All Ceylon Kidney Association.
-
-The event was held at Mahaweli Jayatissa recently held the event under the patronage of Health and Mass Media Media Dr. Nalinda Jayatissa.
-
-The Health Minister further stated that a long history should be translated into a structural change in the country's health care.
-
-It also said that primary health services are basic in the country and will be intended to enforce the primary health system in the country during the next decade.. He added that the government is responsible for the health of the citizens and that the government will take a basic human right to the constitution, but it will provide a basic human rights.
-
-...
-
-[Data](articles/439c7941.json)
-
-[Extended Data](ext_articles/439c7941.ext.json)
-
----
-
-### Armed forces removed from former presidents
-
-*2024-12-23 16:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளிடம்-இருந்து-முப்படையினர்-நீக்கம்/175-349162) · `ta`
-
-Soldiers removed from former presidents' security. Defense Ministry advises army commanders. Police now handle protection. Six-month security review planned.
-
-🟩
-
-The soldiers who were involved in the security duties of the former presidents have been removed from Monday (23).
-
-The Ministry of Defense has said that the army commanders have been given appropriate advice on this issue.
-
-Accordingly, the Ministry of Defense has stated that only police officers will continue to duty for the protection of former presidents.
-
-Police said that adequate police officers have been involved in the security duties of the former presidents.
-
-Police said that steps will be taken to review the security of former presidents once in six months and change the security procedures.
-
-◼️
-
-[Data](articles/9ba71d30.json)
-
-[Extended Data](ext_articles/9ba71d30.ext.json)
-
----
-
-### ගිනිගත් නැවෙන් විසිරුණු පබළු ඇහිඳින්න රු. කෝටි 80 ක් වැයවෙලා
-
-*2024-12-23 16:18:54* · [`adalk`](https://www.ada.lk/breaking_news/ගිනිගත්-නැවෙන්-විසිරුණු-පබළු-ඇහිඳින්න-රු--කෝටි-80-ක්-වැයවෙලා/11-413796) · `si`
-
-කොළඹ වරාය සමීපයේදී 2021 වසරේ ගිනිගැනීමෙන් විනාශයට පත්වූ MV -X PRESS PEARL නෞකාවෙන් විසිරුණු ප්ලාස්ටික් පබළු ඇහිඳීමේ කටයුතු වෙනුවෙන් ඉකුත් වසරේ අවසානය වන විට රුපියල් 802,016,487 ක මුදලක් වැයකර ඇතැයි ජාතික විගණන කාර්යාලය සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරියට අදාළව නිකුත් කළ විගණන වාර්තාවකින් අනාවරණය කර තිබේ.
-
-ප්‍රජා දායකත්වයෙන් පබළු ඇහිඳීම වෙනුවෙන් දීමනා ලෙස රුපියල් 248,192,250 ක් සහ ඒ සඳහා උපකරණ ,ප්‍රවාහන, ආහාර හා අනෙකුත් වියදම් ලෙස රුපියල් 553,824,237 ක මුදලක් ලෙස මෙම මුලු මුදල වැයකර ඇතැයි විගණන කාර්යාලය පෙන්වා දෙයි.
-
-මෙහිදී දෛනිකව එකතු කළ මුළු පබළු ප්‍රමාණයේ එකතුව 2022 ට සාපේක්ෂව 2023 වන විට කිලෝ ග්‍රෑම් 44 සිට 20 දක්වා අඩුවී තිබූ නමුත් 2023 වසරේ ප්‍රජා දායකත්වය සඳහා දරන ලද පිරිවැයෙහි අඩුවීම රුපියල් මිලියන 124 සිට 106 දක්වා මිලියන 18 ක් පමණක් වී ඇතැයිද   විගණනය සඳහන් කරයි.
-
-...
-
-[Data](articles/d34231e6.json)
-
----
-
-### විදුලි ගාස්තු සංශෝධනයට කුමක් වෙයිද ?
-
-*2024-12-23 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204644) · `si`
-
-විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් මහජන අදහස් ලබාගැනීමට අදාළ වාචික සැසි ලබන 27 වනදා සිට ආරම්භ කෙරෙන බව ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව පවසයි.
-
-ගාස්තු සංශෝධනය සම්බන්ධයෙන් විදුලි බල මණ්ඩලය ඉදිරිපත් කළ යෝජනාව සහ මහජන උපයෝගිතා කොමිෂන් සභාව ඊට අදාළව ඉදිරිපත් කළ ප්‍රතියෝජනාව පිළිබදව මෙම සැසිවලදී මහජන අදහස් ලබා ගැනීමට නියමිතය.
-
-ඉදිරි මාස 6ක කාලය සඳහා විදුලි ගාස්තු සංශෝධනයක් සිදුනොකළ යුතු බවට ලංකා විදුලි බල මණ්ඩලය පසුගියදා මහජන උපයෝගිතා කොමිෂන් සභාව වෙත යෝජනා ඉදිරිපත් කර තිබුණි.
-
-ඒ සම්බන්ධයෙන් ප්‍රතියෝජනා ඉදිරිපත් කරමින් මහජන උපයෝගිතා කොමිෂන් සභාව සඳහන් කර තිබුණේ සියයට 10ත් 20ත් අතර ප්‍රතිශතයකින් විදුලි ගාස්තු අඩු කිරීමේ හැකියාව පවතින බවය.
-
-ඒ අනුව මෙම යෝජනා සම්බන්ධයෙන් මහජන අදහස් ලිඛිතව ලබාගැනීමේ කටයුතු පසුගිය 17 වනදා සිට ආරම්භ වූ අතර වාචික සැසි ලබන 27 වනදා මහනුවර ප්‍රදේශයෙන් ආරම්භ කිරීමට කටයුතු යොදා ඇති බව මහජන උපයෝගිතා කොමිෂන් සභාව පවසයි.
-
-...
-
-[Data](articles/289749b5.json)
-
----
-
-### முன்னாள் ஜனாதிபதிகளுக்கான முப்படை பாதுகாப்பு இன்றிலிருந்து நீக்கம்
-
-*2024-12-23 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/201969) · `ta`
-
-முன்னாள் ஜனாதிபதிகளுக்கான முப்படை பாதுகாப்பு இன்றிலிருந்து நீக்கப்பட்டுள்ளதாக பாதுகாப்பு அமைச்சின் பேச்சாளர் கேர்ணல் ரவி ஹேரத் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/a7c89641.json)
-
----
-
-### Kesalgamuwa is chased away
-
-*2024-12-23 15:33:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கெசல்கமுவ-ஒயாவை-அளவீடு-செய்ய-முயன்றோர்-விரட்டியடிப்பு/76-349157) · `ta`
-
-Kesalgamuwa group chased away by estate management during illegal excavation. 14mn allocated for Kesalgamuwa Oya cleanup project. National Gemstone Authority permits halted. Local residents demand removal of cleaning machinery and excavation equipment.
-
-🟩
-
-The incident took place on Monday (23) by the estate management by the plantation administration.
-
-The group was chased away when the Norwood Pradeshiya Sabha and Theresia Plantation Administration had been brought out in the process of illegally excavating the Gazalgamuwa Oya.
-
-Meanwhile, the excavation of 14 million rupees was allocated for the Keskavantalawa Tinsin to Gilani on 27.09.2023, but the Kesalgamuwa Oya was allocated 14 million rupees through the Ministry of Development..  சுத்தம் செய்யும்  திட்டம் இடை நடுவில் இடை நிறுத்தப்பட்டது.
-
-Nevertheless, the National Gemstone and Gold Jewelery Authority issued permission to excavate the river and stop the permit in the middle of the country.The Secretary of the Norwood Pradeshiya Sabha, K.. Muralitharan on 09.10.2024. Garden management monitoring unit. Land mining environment. Copies of the letter have been sent.
-
-...
-
-[Data](articles/1eba158d.json)
-
-[Extended Data](ext_articles/1eba158d.ext.json)
-
----
-
-### Unauthorized electric fences kill around 50 wild elephants in 2024
-
-*2024-12-23 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104445/unauthorized-electric-fences-kill-around-50-wild-elephants-in-2024) · `en`
-
-The Ceylon Electricity Board (CEB) says that around 50 wild elephants have reportedly died so far this year (2024) after being electrocuted due to unauthorized electrical fences and illegally tapping into power lines.
-
-In a statement, the CEB announced that necessary action have already been taken against those responsible for these illegal activities.
-
-The CEB has also announced that it is seeking public assistance in protecting wild elephants, urging people to report any instances of illegally tapping into power lines and unauthorized electric fences.
-
-The statement further emphasizes that the CEB should be informed immediately in this regard via the telephone number 0112118767 or the emergency hotline number 1987.
-
-◼️
-
-[Data](articles/02e9598c.json)
-
----
-
-### Shooting;One injury
-
-*2024-12-23 15:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூடு-ஒருவர்-காயம்/175-349155) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Shooting incident: One person injured in Weerakula, Gampaha. Unidentified gunman on motorcycle."
-
-🟩
-
-One person was injured in a shooting in Weerakula, Gampaha, police said.
-
-Police said the shooting was carried out by an unidentified person who was on a motorcycle.
-
-◼️
-
-[Data](articles/045f54f8.json)
-
-[Extended Data](ext_articles/045f54f8.ext.json)
-
----
-
-### CSE has reached new peak
-
-*2024-12-23 15:20:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வணிகம்/CSE-புதிய-உச்சத்தை-எட்டியது/47-349154) · `ta`
-
-Colombo Stock Exchange CSE reaches new peak: ASPI exceeds 15,000, S&P SL20 hits 4,494. Total revenue reaches 4 billion.
-
-🟩
-
-The ASPI of the Colombo Stock Exchange (CSE) exceeded 15,000, which reached 15,027 during trading on Monday morning (23).
-
-At the same time, the S&P SL20 code, which tracks the most active stocks, reached 4,494. Revenue is 4 billion.
-
-◼️
-
-[Data](articles/329b6369.json)
-
-[Extended Data](ext_articles/329b6369.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 00:42:42**
+As of **2024-12-25 01:43:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,502 (99.4%) of 61,883 articles have been extended.
+61,506 (99.4%) of 61,883 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -764,63 +764,101 @@ He made this statement during a media briefing held today (24), emphasizing the 
 
 [Data](articles/a41d7345.json)
 
+[Extended Data](ext_articles/a41d7345.ext.json)
+
 ---
 
-### ප්‍රවීණ ගායන ශිල්පී ප්‍රියා සූරියසේන ගේ අවසන් කටයුතු 27 වනදා
+### Funeral on Veteran singer Priya Suriyasey on 27th
 
 *2024-12-24 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204681) · `si`
 
-අභාවප්‍රාප්ත ප්‍රවීණ ගායන ශිල්පී ප්‍රියා සූරියසේන මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු 27වන සිකුරාදා සිදුකිරීමට නියමිත බව ඒ මහතාගේ පුත් ලක්ෂිත සූරියසේන මහතා පැවසීය.
+Veteran singer Priya Suriyasene funeral details: Borella Public Cemetery, 27th, remains at School Mawatha, Gangodawila. Passed away at 80, quoted saying life is to die without fear.
 
-ඒ අනුව අවසන් කටයුතු 27වන සිකුරාදා බොරැල්ල පොදු සුසාන භූමියේදී සිදුකෙරෙනු ඇති.
+🟩
 
-දේහය හෙට (25) උදේ 8.30 සිට අංක 154/1 පාසල් මාවත, ගංගොඩවිල, නුගේගොඩ ප්‍රියා සූරියසේන මහතාගේ නිවසේ තැන්පත් කිරීමට නියමිතය.
+The funeral of the late Veteran singer Priya Suriyasene is due to be held on Friday.
 
-26 වනදා සවස 2 සිට 5 දක්වා ජාතික ගුවන් විදුලි සංස්ථා පරිශ්‍රයේ තැන්පත් කෙරෙන ඒ මහතාගේ දේහය එදින සවස 6 සිට 27 වනදා සවස දක්වා බොරැල්ල ජයරත්න (රෙස්පෙක්‍ට්) ශාලාවේ මහජන ගෞරවය සඳහා තැන්පත් කිරීමට නියමිතය.
+Accordingly, the fune will be held on Friday at the Borella Public Cemetery.
 
-ඒ අනුව 27 වනදා සවස 4ට පමණ බොරැල්ල සුසාන භූමියේදී දේහය පිළිබඳ අවසන් කටයුතු සිදුකිරීමට සැලසුම් කර තිබේ.
+The remains will be placed at the house of Mr. 154/1 School Mawatha, Gangodawila, Nugegoda, Kangodawila, Nugegoda.
 
-කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ඒ මහතා අද (24) උදෑසන අභාවප්‍රාප්ත විය. මිය යනවිට ඔහු 80 වැනි වියේ පසුවිය.
+The remains of the National Broadcast Corporation in the National Broadcasting Corporation (Respect) will be placed on the 26th to 5 pm on the evening of the 26th evening.
 
-...
+Accordingly, the body is planning to finalize the body at the Borella Cemetery around 4 pm.
+
+He passed away this morning while receiving treatment at the Colombo National Hospital. When he died, he was 80 years old.
+
+"Parents' memory cannot be told by such a short time. Told me ... "Son. Life is to die. I'm not afraid to die. 'Said. Before Covod, Pawachchi sang myself a song. As a reminder of application, I will soon give it the song. "
+
+◼️
 
 [Data](articles/bdfe48a8.json)
 
+[Extended Data](ext_articles/bdfe48a8.ext.json)
+
 ---
 
-### பிணையில் விடுவிக்கப்பட்ட  நபர் பிணை நிபந்தனையை மீறியமையால் கைது !
+### Arrested for violating bail conditions
 
 *2024-12-24 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/202068) · `ta`
 
-பிணையில் விடுவிக்கப்பட்ட சலிந்து மல்ஷிக குணரத்ன எனும் பாணந்துறை 'குடு சலிந்து'வை மீண்டும் கைது செய்து நீதிமன்றில் முன்னிலைப்படுத்துமாறு பாணந்துறை மேல் நீதிமன்றம் குற்றப்புலனாய்வுத் திணைக்களத்துக்கு உத்தரவு பிறப்பித்துள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-பிணை நிபந்தனை மீறிய காரணத்தினால் சந்தேகநபருக்கு எதிராக பிடியாணை பிறப்பித்த பாணந்துறை மேல் நீதிமன்ற நீதிபதி, அவரை உடனடியாக கைது செய்து நீதிமன்றில் முன்னிலைப்படுத்துமாறு திங்கட்கிழமை (23)  குற்றப்புலனாய்வுத் திணைக்களத்தின் அதிகாரிகளுக்கு இந்த உத்தரவை பிறப்பித்தார.
 
-பயங்கரவாத செயல்கள் மற்றும் கொலைகள் செய்ததாக குற்றம் சாட்டப்பட்டிருந்த சலிந்து மல்ஷிக குணரத்ன எனும் பாணந்துறை 'குடு சலிந்து கடந்த 2023 மார்ச் 07 ஆம் திகதி மடகாஸ்கரில் கைது செய்யப்பட்டதுடன் 15 ஆம் திகதி இலங்கைக்கு அழைத்து வரப்பட்டிருந்தார். சுமார் 362 நாட்கள் சி.ஐ.டி தடுப்புக்காவலில் வைக்கப்பட்டிருந்த குடு சலிந்து நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டு விளக்கமறியில் வைக்கப்பட்டிருந்தார்.
+
+"Panadura High Court orders CID to rearrest 'Kudu Salindu' for violating bail conditions. Accused of terrorism & killings, released on bail but failed to meet court requirements. Judge issues immediate arrest warrant."
+
+🟩
+
+The Panadura High Court has ordered the Criminal Investigation Department to re -arrest the 'Kudu Salindu' alias Salinda Malshika Gunaratne, who was released on bail.
+
+The Panadura High Court judge, who had issued a war against the suspect due to bail conditions, issued the order to the Criminal Investigation Department on Monday (23).
+
+Salindu Malshika Gunaratne, who was accused of committing terrorist acts and killings, was arrested in Madagascar on March 7, 2023 and was brought to Sri Lanka on the 15th.. Kudu Salindu, who was kept in the CIT detention for about 362 days, was presented in court.
+
+When he was re -produced in the Panadura High Court on the 20th, the judge ordered him to be released on bail.
+
+10 lakhs of rupees worth Rs.
+
+The bail order stated that he should be present in the public complaint section of the Second or Fourth Day Criminal Investigation Department every month and he will be canceled until the case is over.
 
 ...
 
 [Data](articles/025e5584.json)
 
+[Extended Data](ext_articles/025e5584.ext.json)
+
 ---
 
-### දයාසිරි හත්පොලේ ගා ගන්නවා
+### Dayasiri gets the same
 
 *2024-12-24 17:54:17* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-හත්පොලේ-ගා-ගන්නවා/11-413829) · `si`
 
-ජනපති අරමුදලින් මුදල් ලබා ගත් දේශපාලඥයින් සම්බන්ධයෙන් තමන් කළ ප්‍රකාශය සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා හත්පොලේ ගා ගනිමින් යන බව අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+Here's a summary of the text in approximately 200 characters:
 
-කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය සාකච්ඡාවේදී යොමුකළ ප්‍රශ්නයට පිළිතුරු දෙමින් ඔහු මෙම අදහස් දැක්වීය.
 
-“2005 සිට 2024 දක්වා ජනපති අරමුදලින් මුදල් ලබාගත් දේශපාලඥයින් කිහිප දෙනෙකුගේ නම් විතරයි ඉදිරිපත් කළේ.තවත් නම් ලැයිස්තුවක් මගේ අතේ තියනවා.
 
-දයාසිරි ගැන කියපු නිසා, අනිත් ඔය මම නම කිහපු  හැමදෙනාම දයාසිරි හැර භාර ගත්තා ඔව් විවිධ තත්ත්වයන් තුළ ඒ මුදල් ගත්තා කියලා.
+MP Dayasiri Jayasekera threatens revenge over comments about the President's Fund committee. He accuses others of receiving funding while he remained silent, comparing them to pigs rolling in mud.
 
-දයාසිරි විතරක් එක එක දේවල් කියාගෙන යනවා. මට මතක් වෙන්නේ සමහර මඩේ ලැගපු ඌරෝ එළියට ඇවිල්ලා ගඟක ඇළක දොළකට පැනලා මඩ හෝදගන්න නෙමෙයි ට්‍රයි කරන්නේ තමන්ගේ ඇඟේ තියෙන මඩ ටික තාප්පෙක, ගලක, ගහක උල උලා යන්න.
+🟩
 
-...
+Minister Dayasiri Jayasekera said that MP Dayasiri Jayasekera is going to take revenge on his statement regarding the committee of the President's Fund.
+
+He was responding to the question of the question in the press conference to inform the Cabinet decisions.
+
+"There are only a few politicians who have received funded by the President to 2024 and have a list of names.
+
+About Dayasiri told me, everyone I chimed me out except Dayasiri.
+
+Dayasiri says only one thing. I recall the pigs shearing in some mud and jumps to a stream of a river, and triump the mud in the mud or wool.
+
+Is that what this is done by this, how much did Dayasiri have so much from the Presidential Fund?Have you got any more funds?Did you get the insurance?The ones say. He's why this is being carried out. I couldn't have been ignored and paid it.
+
+◼️
 
 [Data](articles/c3c54cef.json)
+
+[Extended Data](ext_articles/c3c54cef.ext.json)
 
 ---
 

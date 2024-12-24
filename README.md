@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 11:43:50**
+As of **2024-12-24 12:03:13**
 
 ## Newspaper Stats
 
-*Scraped **61,769** Articles*
+*Scraped **61,774** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,758
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,893
-adaderanalk | 7,543
+adaderanalk | 7,548
 tamilmirrorlk | 8,841
 virakesarilk | 10,203
 adaderanasinhalalk | 10,672
@@ -26,11 +26,45 @@ adaderanasinhalalk | 10,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,436 (99.5%) of 61,769 articles have been extended.
+61,436 (99.5%) of 61,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### 17 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-12-24 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104466/17-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+A special operation conducted by the Sri Lanka Navy has resulted in the seizure of two Indian fishing boats and the apprehension of 17 Indian fishermen, poaching in Sri Lankan waters north of Mannar.
+
+This operation took place during the early hours of December 23, 2024, as part of the Navy’s ongoing efforts to curb illegal fishing activities by foreign fishing boats, which negatively impact the livelihood of local fishermen.
+
+The North Central Naval Command, upon spotting a group of Indian fishing boats engaged in illegal activities, deployed its Inshore Patrol Craft, while the Northern Naval Command sent out its Fast Attack Craft.
+
+The operation successfully led to the seizure of two Indian boats and the apprehension of 17 Indian fishermen who had remained in Sri Lankan waters, the navy said.
+
+The seized boats, along with the Indian fishermen, were brought to the Talaimannar Pier, where they will be handed over to the Mannar Fisheries Inspector for further legal proceedings, the navy added.
+
+...
+
+[Data](articles/42f350a6.json)
+
+---
+
+### Over 350 inmates to be released under special state pardon for Christmas
+
+*2024-12-24 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104465/over-350-inmates-to-be-released-under-special-state-pardon-for-christmas) · `en`
+
+The Department of Prisons has announced that a total of 389 prison inmates will be released under special state pardon, in view of Christmas.
+
+Among those to be released, four are female inmates, according to the Prisons Department.
+
+◼️
+
+[Data](articles/baa0c7e2.json)
+
+---
 
 ### Committee to release of port containers efficient
 
@@ -96,6 +130,26 @@ Accordingly, the Cabinet paper presented by the Minister of Highways, Ports and 
 
 ---
 
+### Sri Lanka and India to sign MoU for Rs. 2,371 mln development projects in East
+
+*2024-12-24 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104464/sri-lanka-and-india-to-sign-mou-for-rs-2371-mln-development-projects-in-east) · `en`
+
+The Cabinet of Ministers has approved the signing of a Memorandum of Understanding (MoU) aimed at strengthening socio-economic development and enhancing bilateral cooperation between India and Sri Lanka.
+
+This initiative, presented to the Cabinet by President Anura Kumara Dissanayake, will allocate Rs. 2,371 million for various development projects in the Eastern Province.
+
+Accordingly, the focused areas of these projects include education, health, agriculture, irrigation, tourism, and community empowerment.
+
+A total of 33 projects have been identified under this initiative, which will focus on improving infrastructure, boosting economic development, and fostering the social empowerment of the people in the Eastern Province.
+
+Consequently, the Indian government is set to provide Rs. 2,371 million for these projects, with specific allocations including Rs. 315 million for education, Rs. 780 million for health, Rs. 620 million for agriculture, and Rs. 230 million for fisheries.
+
+...
+
+[Data](articles/5491c40e.json)
+
+---
+
 ### இலங்கையில் முதல்முறை இடம்பெறும் சர்வதேச Faldo கோல்ஃப் போட்டிக்கு  அனுசரணை வழங்கும் DFCC வங்கி
 
 *2024-12-24 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/202018) · `ta`
@@ -142,6 +196,24 @@ Accordingly, the Cabinet paper presented by the Minister of Highways, Ports and 
 
 ---
 
+### Veteran singer Priya Suriyasena passes away
+
+*2024-12-24 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104463/veteran-singer-priya-suriyasena-passes-away) · `en`
+
+Veteran Sri Lankan singer Priya Suriyasena has passed away at the age of 80.
+
+He has been receiving treatment at the Colombo National Hospital at the time of the passing, family sources said.
+
+Sarathchandra Priyadarshi Suriyasena Liyanage, popularly known as Priya Suriyasena first emerged as a talented local singer with the guidance of his father, who was a poet, and then rose to fame overnight when his first four songs were broadcast at the Sri Lanka Broadcasting Corporation (SLBC) in the 1970’s.
+
+Since then, he has retained his fame over five decades and produced most popular songs in Sri Lanka such as ‘Atha Ranviman’, ‘Mata Wasana’, ‘Adaraneeya Neranjana’, ‘Ratakin Eha’ and ‘Sudu Paravi Rena’.
+
+◼️
+
+[Data](articles/d18aca92.json)
+
+---
+
 ### වගා හානි සඳහා බෝග 6ක් සඳහා හෙක්ටයාරයකට රු ලක්ෂය බැගින්
 
 *2024-12-24 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204668) · `si`
@@ -155,6 +227,22 @@ Accordingly, the Cabinet paper presented by the Minister of Highways, Ports and 
 ◼️
 
 [Data](articles/2a5544a5.json)
+
+---
+
+### Govt. announces compensation for flood-affected farmers
+
+*2024-12-24 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104462/govt-announces-compensation-for-flood-affected-farmers) · `en`
+
+The Cabinet of Ministers has granted approval to provide Rs. 100,000 per hectare as compensation to paddy, corn, potato, big onion, soybean, and chili farmers whose cultivation was damaged by recent floods.
+
+Announcing this week’s Cabinet decisions, Cabinet Spokesman, Minister, Dr. Nalinda Jayatissa pointed out that due to the adverse weather conditions that prevailed in the past few days across the island, houses, highways, paddy fields and cultivated lands in many districts were flooded, and a large number of lakes and embankments were broken, causing various inconveniences to the public.
+
+According to the data of the Department of Agrarian Development, as of 2024.12.02, approximately 91,300 acres of paddy fields have been completely damaged across the island, and about 86,225 acres of paddy fields have been partially damaged, the Minister added.
+
+...
+
+[Data](articles/342e9294.json)
 
 ---
 
@@ -288,7 +376,13 @@ The Cabinet of Ministers has granted approval to extend the authorization of ric
 
 This was communicated by the Cabinet Spokesman, Minister Dr. Nalinda Jayatissa during the Cabinet press conference held today (24).
 
-◼️
+However, the Minister noted that it has been observed the rice shortage in local markets will last until the end of January, 2025.
+
+Accordingly, the proposal made by the Minister of Trade, Commerce, Food Security and Cooperative Development to extend the period of permission granted to private sector importers to import rice without the requirement of import control licenses until 2025.01.10 has been approved by the Cabinet.
+
+Due to the shortage of rice in the domestic market, the Sri Lanka State Trading Corporation is currently in the process of procuring 70,000 metric tons of rice as per the approval given at the Cabinet meeting held on 09 December 2024.
+
+...
 
 [Data](articles/73cf18b3.json)
 
@@ -2059,121 +2153,5 @@ Its bondholders last week signed off on the government’s proposal to restructu
 [Data](articles/4c01922e.json)
 
 [Extended Data](ext_articles/4c01922e.ext.json)
-
----
-
-### Oral public consultations on electricity tariffs begin on Friday
-
-*2024-12-23 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104449/oral-public-consultations-on-electricity-tariffs-begin-on-friday) · `en`
-
-The oral sessions for obtaining public opinions regarding the electricity tariff revision will commence from December 27, the Public Utilities Commission of Sri Lanka (PUCSL) said.
-
-Accordingly, the general public are allowed to provide their views verbally regarding the CEB’s proposed tariff revision and the counter-proposal of the PUCSL on the matter.
-
-On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months and that no tariff revisions will be made.
-
-Presenting a counter-proposal regarding the matter, the PUCSL has highlighted that the electricity tariff can be reduced by a range of 10% - 20%.
-
-Accordingly, the PUCSL called for public opinions on the matter in writing starting from December 17, while the oral sessions are scheduled to commence on December 27 from Kandy.
-
-...
-
-[Data](articles/71741f68.json)
-
-[Extended Data](ext_articles/71741f68.ext.json)
-
----
-
-### Oral public consultations on electricity tariffs begin on Friday
-
-*2024-12-23 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104449/oral-public-consultations-on-electricity-tariffs-begins-on-friday) · `en`
-
-The oral sessions for obtaining public opinions regarding the electricity tariff revision will commence from December 27, the Public Utilities Commission of Sri Lanka (PUCSL) said.
-
-Accordingly, the general public are allowed to provide their views verbally regarding the CEB’s proposed tariff revision and the counter-proposal of the PUCSL on the matter.
-
-On December 06, the Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the PUCSL, stating that the existing tariffs will continue further for the next six months and that no tariff revisions will be made.
-
-Presenting a counter-proposal regarding the matter, the PUCSL has highlighted that the electricity tariff can be reduced by a range of 10% - 20%.
-
-Accordingly, the PUCSL called for public opinions on the matter in writing starting from December 17, while the oral sessions are scheduled to commence on December 27 from Kandy.
-
-...
-
-[Data](articles/e8ec6dd5.json)
-
-[Extended Data](ext_articles/e8ec6dd5.ext.json)
-
----
-
-### Unfortunately, the tragedy found the treasure - Whose fault?
-
-*2024-12-23 17:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204648) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Tragedy struck when a 9-year-old boy died during surgery at Sri Jayewardenepura Hospital. The case is under investigation, with police looking into potential negligence.
-
-🟩
-
-The relatives of the child have lodged a complaint with the police stating that a 9-year-old boy was admitted to the Sri Jayewardenepura Hospital for surgery.
-
-The deceased has been identified as Dunaj Wickremarachchi, who was living in a major school in Horana, Haltota, Phithogamuwa, a resident of Haltota, Haltota.
-
-The police said that a doctor at the Sri Jayewardenepura hospital in a Piliyanpura Hospital after the deceased child was admitted to the Sri Jayewardenepura Hospital.
-
-The next day (18) was anesthetic for surgery at 01.30 pm, and the child was surgery and the child had not received consciousness.
-
-Lady of Borella Ridgeway Hospital, Borella Ridgeway Children, had been admitted to the hospital on the evening of the same evening, on the demand of parents and relatives.The complaint states.
-
-◼️
-
-[Data](articles/6544fd26.json)
-
-[Extended Data](ext_articles/6544fd26.ext.json)
-
----
-
-### Notice of railway renovation
-
-*2024-12-23 17:18:23* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-මාර්ග-අලුත්වැඩියාවක්-ගැන-දැනුම්-දීමක්/11-413800) · `si`
-
-Railway renovation notice: 5 AM - 9 PM on 28th. Use alternative routes during train-crossings.
-
-🟩
-
-Troops of-5.00 am to 9.00 am to 6.00 pm on 28th to 6.00 pm on 28th to 6.00 pm on 28th to 6.00 pm on 28.200 pmThe Railways Department says that partially to the vehicle.
-
-Accordingly, the Railway Department (Colombo) has informed the use of alternative routes for the train-cross-lines.
-
-◼️
-
-[Data](articles/566fa4c3.json)
-
-[Extended Data](ext_articles/566fa4c3.ext.json)
-
----
-
-### Sri Lanka rupee depreciates further to close at 296.25/75 to dollar, bonds steady
-
-*2024-12-23 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-further-to-close-at-296-25-75-to-dollar-bonds-steady-195996/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 296.25/75 to the US dollar on Monday from 293.50/294.00 on Friday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/55 percent, from 9.45/50 percent.
-
-A bond maturing on 15.02.2028 closed stable at 10.05/20 percent.
-
-A bond maturing on 15.09.2029 closed at 10.65/80 percent, up from 10.65/75 percent.
-
-A bond maturing on 01.12.2031 closed at 11.30/40 percent, down from 10.70/75 percent. (Colombo/Dec23/2024)
-
-◼️
-
-[Data](articles/c0f3be43.json)
-
-[Extended Data](ext_articles/c0f3be43.ext.json)
 
 ---

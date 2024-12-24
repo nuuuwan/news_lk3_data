@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 10:02:26**
+As of **2024-12-24 10:15:17**
 
 ## Newspaper Stats
 
-*Scraped **61,745** Articles*
+*Scraped **61,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,742
 economynextcom | 3,758
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,889
+adalk | 5,890
 adaderanalk | 7,539
 tamilmirrorlk | 8,840
 virakesarilk | 10,195
@@ -26,45 +26,57 @@ adaderanasinhalalk | 10,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,426 (99.5%) of 61,745 articles have been extended.
+61,428 (99.5%) of 61,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### அமெரிக்க முன்னாள் ஜனாதிபதி பில் கிளிண்டன் வைத்தியசாலையில் அனுமதி
+### Admission to former US President Bill Clinton Hospital
 
 *2024-12-24 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202006) · `ta`
 
-அமெரிக்க முன்னாள் ஜனாதிபதி பில் கிளிண்டன் காய்ச்சலால் பாதிக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ஜனநாயக கட்சியின் ஊடக பேச்சாளர் தெரிவித்துள்ளார்.
+@Y4:0
 
-இது குறித்து ஜனநாயக கட்சியின் ஊடக பேச்சாளர் ஏஞ்சல் யுரேனா டுவிட்டர் பதிவில்,
+🟩
 
-"அவர் நல்ல மனநிலையில் இருக்கிறார். அவருக்கு வழங்கப்படும் சிறந்த கவனிப்பு குறித்து பாராட்டுக்களை தெரிவித்துள்ளார” என பதிவிட்டுள்ளார்.
+Former US President Bill Clinton has been admitted to the hospital with a fever, the Democratic media spokesman said.
 
-பில் கிளிண்டன் திங்கட்கிழமை மாலை வொஷிங்டனில் உள்ள ஜோர்ஜ்டவுன் பல்கலைக்கழக வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக அவர் மேலும் தெரிவித்துள்ளார்.
+Democratic media spokesman Angel Uranna on Twitter
 
-பில் கிளிண்டன் 42 ஆவது ஜனாதிபதியாக 1993 முதல் 2001 வரை வெள்ளை மாளிகையில் பணியாற்றியுள்ளமை குறிப்பிடத்தக்கது.
+“He is in a good mood. He has congratulated him on the best care given to him. ”
+
+He added that Bill Clinton was admitted to the Georgetown University Hospital in Washington on Monday evening.
+
+Bill Clinton served as the 42nd President in the White House from 1993 to 2001.
 
 ◼️
 
 [Data](articles/2a089275.json)
 
+[Extended Data](ext_articles/2a089275.ext.json)
+
 ---
 
-### குஷூடன் வெளிநாட்டவர் கைது
+### Kushudan arrested foreigner
 
 *2024-12-24 09:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஷூடன்-வெளிநாட்டவர்-கைது/175-349194) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்திலிருந்து வெளியேறிய வெளிநாட்டவரைக் கைது செய்த பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவின் அதிகாரிகள் குழுவொன்று அவருடைய பயணப்பொதியை சோதனையிட்டபோது, அதிலிருந்து   ஒரு கோடி ரூபாய் பெறுமதியான "குஷ்" கைப்பற்றப்பட்டது.
+Russian IT officer caught with 1kg of cannabis at Sri Lanka's Katunayake airport. Police allege drug cultivation and distribution worldwide.
 
-ரஷ்ய நாட்டைச் சேர்ந்த 34 வயதான இவர் தகவல் தொழில்நுட்ப அதிகாரியாக பணியாற்றி வருகிறார். மேலும், அவர் இந்த குஷ் போதைப்பொருளை பயிரிட்டு, தயாரித்து, உலகம் முழுவதிலும் உள்ள நாடுகளில் விநியோகம் செய்பவர் என முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-அவர் கொண்டு வந்த சூட்கேஸில் கடற்பாசியால் செய்யப்பட்ட தலையணையில் மறைத்துவைக்கப்​பட்ட  01 கிலோ 50 கிராம் குஷ் போதைப்பொருள் பொலிஸ் போதைப்பொருள் தடுப்பு பிரிவு அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளது.
+When a group of police officers from the police narcotics unit arrested the foreigner who left the Katunayake airport, he searched his travel package and was seized from it.
+
+He is a 34 -year -old from Russia and works as an IT officer. Preliminary inquiries have revealed that he was cultivating, producing and distributing this kush drugs and distributing it in countries around the world.
+
+The suitcase he brought was seized by the Officers of the Drugs by the Drug Police, 1 kg of Kush.
 
 ◼️
 
 [Data](articles/b5066245.json)
+
+[Extended Data](ext_articles/b5066245.ext.json)
 
 ---
 
@@ -842,6 +854,8 @@ The event held on December 17 at Uva Wellassa University, saw the enthusiastic p
 
 The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
 
+Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
+
 ...
 
 [Data](articles/3d0cdc50.json)
@@ -1133,6 +1147,22 @@ It is noteworthy that all teachers should be informed of the rules and that disc
 [Data](articles/34a21792.json)
 
 [Extended Data](ext_articles/34a21792.ext.json)
+
+---
+
+### නත්තලට රැඳවියන් බැලීමට අවසර
+
+*2024-12-23 19:26:32* · [`adalk`](https://www.ada.lk/breaking_news/නත්තලට-රැඳවියන්-බැලීමට-අවසර/11-413809) · `si`
+
+නත්තල් දිනය නිමිත්තෙන් බන්ධනාගාරගත රැඳවියන්ට විවෘත අමුත්තන් බැලීමේ අවස්ථාවක් හෙට(25දා) ලබාදෙන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+ඒ අනුව හෙට(25 දා) රැඳවියන්ගේ ඥාතීන් විසින් රැගෙන එන ආහාර, රසකැවිලි හා සනීපරක්ෂක ද්‍රව්‍ය එක් රැඳවියෙකුට ප්‍රමාණවත් වන  පරිදි  සැපයීමට අවස්ථාව ලබා දී තිබේ.
+
+සියලු ස්‍යෙඛ්‍ය මාර්ගෝපදේශයන්ට අනුකූලව එම  අමුත්තන් පෙන්වීමේ කටයුතු දිවයිනේ සියලුම බන්ධනාගාරවල සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/8c0741b1.json)
 
 ---
 
@@ -2155,23 +2185,5 @@ At the same time, the S&P SL20 code, which tracks the most active stocks, reache
 ◼️
 
 [Data](articles/2ec42400.json)
-
----
-
-### Adani exploring ways to sell Bangladesh-bound power to Sri Lanka
-
-*2024-12-23 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104444/adani-exploring-ways-to-sell-bangladesh-bound-power-to-sri-lanka) · `en`
-
-Adani Power is exploring ways to sell the Bangladesh-bound power, produced at the Godda plant in India’s Jharkhand state, to neighbouring countries such as Sri Lanka.
-
-The Jharkhand plant with 2X800 MW capacity is a dedicated project of Adani Power to supply electricity to Bangladesh. The company has reduced the quantum of power supply from the plant to Bangladesh amid some issues due to political changes in Bangladesh.
-
-Although the Indian government recently allowed the sales of power in the domestic market to sustain the project, a fresh transmission network is necessary in this regard, according to The Hindu Business Line.
-
-However, the selling power to Sri Lanka from the Godda plant will require consent from the Bangladesh government.
-
-...
-
-[Data](articles/f0b7bed9.json)
 
 ---

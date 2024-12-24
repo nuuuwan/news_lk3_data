@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 12:03:13**
+As of **2024-12-24 12:17:35**
 
 ## Newspaper Stats
 
-*Scraped **61,774** Articles*
+*Scraped **61,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 650
 islandlk | 3,742
-economynextcom | 3,758
+economynextcom | 3,762
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,893
+adalk | 5,894
 adaderanalk | 7,548
-tamilmirrorlk | 8,841
+tamilmirrorlk | 8,842
 virakesarilk | 10,203
 adaderanasinhalalk | 10,672
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,436 (99.5%) of 61,774 articles have been extended.
+61,438 (99.4%) of 61,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### 17 இராமேஸ்வரம் மீனவர்கள் கைது
+
+*2024-12-24 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-இராமேஸ்வரம்-மீனவர்கள்-கைது/175-349205) · `ta`
+
+இலங்கை கடற்பரப்பில் அத்துமீறி நுழைந்து மீன் பிடித்த   17 இந்திய மீனவர்களை செவ்வாய்க்கிழமை (24) கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட 17 மீனவர்களும் தலைமன்னார் கடற்படை முகாமில் தடுத்து வைக்கப்பட்டுள்தோடு, மீனவர்களையும் படகுகளையும் தலைமன்னார் கடற்படையிடம் ஒப்படைத்து விசாரணைகளுக்கு உற்படுத்தி வருகின்றனர்.
+
+இராமேஸ்வரம் மீன்பிடி துறைமுகத்தில் இருந்து திங்கட்கிழமை (23) 400-க்கும் மேற்பட்ட மீன்பிடி விசைப் படகுகளில் ஆயிரத்திற்கும்  மேற்பட்ட மீனவர்கள் மீன்பிடி அனுமதி சீட்டு பெற்று மீன்பிடிக்க கடலுக்குச் சென்றுள்ளனர்.
+
+குறித்த மீனவர்கள் இரவு 12:30 மணி அளவில் தனுஷ்கோடிக்கும் தலைமன்னாருக்கும் இடையே மீன்பிடித்துக் கொண்டிருக்கும் போது அப்பகுதியில்  ரோந்து பணியில் ஈடுபட்டிருந்த இலங்கை கடற்படையினர் எல்லை தாண்டி மீன்பிடித்ததாக தங்கச்சி மடத்தைச் சேர்ந்த பூண்டி ராஜ் மற்றும் ஆரோன் ஆகியோருக்கு சொந்தமான இரண்டு விசை படகையும்  அதிலிருந்து   17 மீனவர்களையும் இலங்கை கடற்படை கைது செய்து தலைமன்னார் கடற்படை முகாமுக்கு அழைத்துச் சென்றனர்.
+
+...
+
+[Data](articles/d7696776.json)
+
+---
 
 ### 17 Indian fishermen arrested for poaching in Sri Lankan waters
 
@@ -50,6 +68,8 @@ The seized boats, along with the Indian fishermen, were brought to the Talaimann
 
 [Data](articles/42f350a6.json)
 
+[Extended Data](ext_articles/42f350a6.ext.json)
+
 ---
 
 ### Over 350 inmates to be released under special state pardon for Christmas
@@ -63,6 +83,8 @@ Among those to be released, four are female inmates, according to the Prisons De
 ◼️
 
 [Data](articles/baa0c7e2.json)
+
+[Extended Data](ext_articles/baa0c7e2.ext.json)
 
 ---
 
@@ -196,6 +218,32 @@ Consequently, the Indian government is set to provide Rs. 2,371 million for thes
 
 ---
 
+### Sri Lanka rupee depreciates steeply to 297.00/50 to US dollar, bonds up
+
+*2024-12-24 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-steeply-to-297-00-50-to-us-dollar-bonds-up-196054/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading weaker at 297.00/50 to the US dollar in the spot market, from 296.25/75 on Monday, while bond yields were up, dealers said.
+
+A bond maturing on 15.09.2027 was quoted at 9.77/87 percent, up from 9.55/75 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/20 percent, up from 10.05/20 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.40/45 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.55/80 percent, up from 10.65/80 percent.
+
+An auction of 120,000 million rupees of treasury bills was ongoing.
+
+In equities, the All Share Price Index was up 0.52 percent or 78.43 points, at 15,099.
+
+The more liquid S&P SL20 was up 0.36 percent, or 29.79 points, at 4,528.
+
+◼️
+
+[Data](articles/bfdb7fb6.json)
+
+---
+
 ### Veteran singer Priya Suriyasena passes away
 
 *2024-12-24 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104463/veteran-singer-priya-suriyasena-passes-away) · `en`
@@ -227,6 +275,30 @@ Since then, he has retained his fame over five decades and produced most popular
 ◼️
 
 [Data](articles/2a5544a5.json)
+
+---
+
+### Sri Lanka allows people to import rice till Jan 10
+
+*2024-12-24 11:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-allows-people-to-import-rice-till-jan-10-196056/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have decided to extend the deadline to import rice till January 10, to allow more rice to be brought into the country, Minister Nalinda Jayatissa.
+
+Sri Lanka initially gave permission to import rice only till December 20.
+
+State-run companies were also not able to import sufficient stocks due delays by suppliers, Minister Jayatissa said.
+
+Already about 70,000 metric tonnes have been brought but the government decided to give time considering the supply situation, he said.
+
+Sri Lanka has a 65 rupee tax on rice (about 200 US dollars0 to give higher profits to farmers.
+
+Sri Lanka has unusual controls on the foods of the people which were worsened particularly in the last 15 years which has pushed up prices far above the rest of the world.
+
+Due to food controls, rice prices tend to move up in December and January ahead of the main (Maha) rice harvest which starts coming from late January to early February. (Colombo/Dec24/2024)
+
+◼️
+
+[Data](articles/e1b0f244.json)
 
 ---
 
@@ -552,6 +624,24 @@ However, Indian Bank did not respond to a questionnaire from TOI seeking details
 
 ---
 
+### වන අලි සංචාරක කර්මාන්තයට යොදා ගන්නැයි ගොවීන්ගෙන් යෝජනාවක්
+
+*2024-12-24 09:48:00* · [`adalk`](https://www.ada.lk/breaking_news/වන-අලි-සංචාරක-කර්මාන්තයට-යොදා-ගන්නැයි-ගොවීන්ගෙන්-යෝජනාවක්/11-413811) · `si`
+
+ශ්‍රී ලංකාවේ සංචාරක කර්මාන්තය ප්‍රවර්ධනය සඳහා අලි ඇතුන් යොදා ගැනීමට හැකියාව පිළීබදව රජයේ අවධානය යොමු කළ යුතු බව මාතලේ දිස්ත්‍රික් ගොවිසංවිධාන නියෝජිතයින් පවසයි. විශේෂයෙන් සංචාරකයන් විශාල වශයෙන් පැමිණෙන හබරණ ප්‍රදේශයේ කළකට පෙර අලින් 10ක් 15ක් සිටියත් අද වන විට සිටින්නේ දෙදෙනෙකු පමණක් බවත් ගොවි නියෝජිතයින් පෙන්වා දුන්නේය.
+
+තායිලන්තය වැනි රටවල අලින් සංචාරක කර්මාන්තය සදහා බහුලව යොදාගන්නා බවත් අපේ රට මේ පිළිබදව අවධානය යොමුකළ යුතු බවත් මෙහිදී ප්‍රකාශවිය. ගම්වදින කුඩා අලිපැටවුන් අල්ලාගෙන සුදුසු අයට ලබා දීමට හැකියාවක් ඇති බවත් මෙහිදී අදහස් පලවිය.
+
+මෙමගින් අලින්ගෙන් මිනිසුන්ගේ වගාවලට සිදුවන හානියත් යම් පමණකින් අවම වන බවත් රටේ සංවර්ධනයට අලින් යොදාගත හැකි බවත් ගොවි නියෝජිතයෝ පෙන්වා දුන්නේය.
+
+මාතලේ දිස්ත්‍රික් ලේකම් තේජානි තිලකරත්න මහත්මියගේ ප්‍රධානත්වයෙන් පසුගිය දින දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවැති දිස්ත්‍රික් කෘෂිකර්ම කමිටුවේදී ගොවී නියෝජිතයෝ මෙම අදහස් පළකළහ.
+
+◼️
+
+[Data](articles/66f7865d.json)
+
+---
+
 ### Admission to former US President Bill Clinton Hospital
 
 *2024-12-24 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202006) · `ta`
@@ -789,6 +879,48 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/dc5d0829.json)
+
+---
+
+### Bolivia chicken farmers in Sri Lanka-style crisis amid money printing
+
+*2024-12-24 08:03:00* · [`economynextcom`](https://economynext.com/bolivia-chicken-farmers-in-sri-lanka-style-crisis-amid-money-printing-196020/) · `en`
+
+ECONOMYNEXT – The poultry sector in Bolivia is seeing a Sri Lanka-style collapse in output and malnutrition of the flock amid and shortages and rising prices of feed, medicines as foreign exchange and energy shortages bite, according to media reports.
+
+As Christmas neared shoppers were seeing steep rises in Chicken meat prices.
+
+Chicken prices shot up to a historic price 23 to 24 Bolivianos a kilo on December 23, El Deber, a news portal reported.
+
+In the last days before Christmas, the price of Chicken rocketed from 18 Bolivianos a kilo to 20 and then to 23 in Santa Cruz, and in La Paz the priced has jumped from 18.50 Bolivianos to 20.5/21.00 levels.
+
+The Boliviano is officially at 6.9 to the US dollar but reports said the parellel rate has depreciated to around around 11 to 12 to the US dollar amid severe forex shortages.
+
+...
+
+[Data](articles/8df6c2dc.json)
+
+---
+
+### Sri Lanka upgraded to Caa1 by Moody’s
+
+*2024-12-24 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-upgraded-to-caa1-by-moodys-196036/) · `en`
+
+ECONOMYNEXT – Moody’s has upgraded Sri Lanka’s sovereign rating to ‘Caa1’ from ‘Ca’ with a stable outlook after a restructure of international sovereign bonds.
+
+“Willingness and capacity to implement reforms speak to Sri Lanka’s governance and also underpin the rating action,” Moody’s said.
+
+“However, these credit supports are balanced against still weak debt affordability and a high debt burden compared to peers, which limit the government’s fiscal flexibility and capacity to address underlying social challenges.”
+
+Sri Lanka’s local and foreign currency country ceilings have been raised to B1 from Caa1 and B3 from Ca.
+
+The three-notch gap between the local currency ceiling and the sovereign rating reflected “contained government footprint, against still relatively limited but increasing foreign exchange buffers that confer macroeconomic risks.”
+
+There were also challenging domestic political and policy making environment due to underlying social pressures.
+
+...
+
+[Data](articles/0b6eef4e.json)
 
 ---
 
@@ -1424,6 +1556,8 @@ The event held on December 17 at Uva Wellassa University, saw the enthusiastic p
 
 The primary objective of the program was to highlight Sri Lanka’s potential as a competitive destination for MICE tourism while simultaneously fostering the development of professional skills among university students. The initiative reflects SLCB’s commitment to empowering the younger generation and positioning Sri Lanka as a global hub for business tourism.
 
+Sri Lanka’s PayMedia wins 1st runner-up at APICTA 2024 in Brunei
+
 ...
 
 [Data](articles/3d0cdc50.json)
@@ -2001,157 +2135,5 @@ The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" wh
 [Data](articles/7b497df9.json)
 
 [Extended Data](ext_articles/7b497df9.ext.json)
-
----
-
-### Hatton bus accident: Cause of fatal crash uncovered
-
-*2024-12-23 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104451/hatton-bus-accident-cause-of-fatal-crash-uncovered) · `en`
-
-The private passenger bus that involved in a tragic accident in the Malliappuwa area on Saturday (21), while traveling from Hatton to Kandy, was inspected by the Nuwara Eliya District Chief Motor Vehicle Inspector today (23), revealing serious safety violations concerning the bus involved.
-
-Initial investigations had confirmed that a malfunctioning lock in the driver’s side door caused the door to suddenly open, ejecting the driver from his seat and leading to the accident. At the request of the Hatton Police Traffic Division, the bus, currently in police custody, was thoroughly examined by the District Chief Motor Vehicle Inspector.
-
-According to the Chief Motor Vehicle Inspector, the door’s lock had been defective for some time, prompting them to resort to temporary measures to keep it closed. Additionally, the driver was found not to have been wearing a seat belt, exacerbating the consequences of the accident.
-
-...
-
-[Data](articles/6544d7a7.json)
-
-[Extended Data](ext_articles/6544d7a7.ext.json)
-
----
-
-### 'Take off all additional devices on passenger transport buses'
-
-*2024-12-23 17:50:31* · [`adalk`](https://www.ada.lk/picture_story/‘මගී-ප්‍රවාහන-බස්-රථ-වල-අමතර-උපාංග-සියල්ල-ගලවන්න’/10-413802) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Kandy district vehicle inspection finds issues with private bus. Driver's door open for extended periods. Excessive white iron material usage. Seat standards compromised. Motor Traffic Inspector orders removal of additional devices from passenger vehicles. Hatton Police to take legal action against bus owner."
-
-🟩
-
-The private bus, the hospital, was inspected by the Kandy district vehicle inspection Duminda Senanayake today (23).
-
-The bus was conducted by the police custody by the police custody by the police custody by the police vehicles in Hatton Police.
-
-The Motor Traffic Inspector has confirmed that the driver's gateway was opened due to the use of the door for a long time.
-
-The Motor Inspector said that a large number of white iron materials were not severely injured by three white iron bands, which could have been severely injured in the bus.
-
-The Motor Traffic Inspector said that due to the seat standards of the bus, so they were seriously due to the injuries.
-
-The main motor inspector told the officers of the Motor Traffic Police to install any additional devices to fix anything in passenger vehicles.
-
-Hatton Police said that he would take legal action against the owner of the bus against the owner of the bus against the operation inappropriate.
-
-◼️
-
-[Data](articles/b07fe8ef.json)
-
-[Extended Data](ext_articles/b07fe8ef.ext.json)
-
----
-
-### In the event of any impact on Mahinda, the government should take full responsibility - PA
-
-*2024-12-23 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/201989) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-PA demands government accountability for Mahinda Rajapaksa's security. Military protection removed despite intelligence warnings. Government criticized for neglecting threats from ISIS drones and NGO attacks.
-
-🟩
-
-The false decision is that the military security has been completely removed in the wake of repeated submissions that the former President Mahinda Rajapakse has been accused of life.. Manoj Kamage, a member of the Sri Lanka PA, said that the government should take full responsibility in the event of any impact on Mahinda Rajapaksa.
-
-The committee appointed to investigate the safety of the nobles has been reported to the security forces on the safety of former presidents.
-
-Accordingly, on 10.10.10.10.10.10.10, the Superintendent of Police, SD Wickremesinghe, who is responsible for the security of former President Mahinda Rajapakse, submitted a report to the Review Committee on the security of Mahinda Rajapaksa.
-
-The report includes 13 reports submitted by the Intelligence Unit on the security of former President Mahinda Rajapakse.
-
-Reports of 04 Intelligence Unit submitted by 2024 have been submitted. There are also factors as to why Mahinda Rajapaksa's security should be strengthened.
-
-...
-
-[Data](articles/20a687cc.json)
-
-[Extended Data](ext_articles/20a687cc.ext.json)
-
----
-
-### Sri Lanka’s stock market sees over 35-pct growth under new leader, turnover doubles
-
-*2024-12-23 17:38:00* · [`economynextcom`](https://economynext.com/sri-lankas-stock-market-sees-over-35-pct-growth-under-new-leader-turnover-doubles-196012/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s main stock index in the Colombo Stock Exchange has seen more than 35 percent growth and the daily turnover has more than doubled since the presidential election and analysts cites the return of confidence as the key reason.
-
-The main All Share Price Index (ASPI) has gained 35 percent since Anura Kumara Dissanayake was elected as the president through December 23 close, the official data showed.
-
-The average daily turnover, which was 1.49 billion before the September 21 election has more than doubled to 3.74 billion rupees after the election.
-
-“More than the election, it is about uncertainties going out of the window,” Dimantha Mathew, Chief Research & Strategy Officer at First Capital Holdings PLC, told EconomyNext.
-
-...
-
-[Data](articles/5e8ded46.json)
-
-[Extended Data](ext_articles/5e8ded46.ext.json)
-
----
-
-### 'My railway station is on the way
-
-*2024-12-23 17:34:21* · [`adalk`](https://www.ada.lk/breaking_news/’මගේ-උවමනාවට-තමයි-දුම්රිය-පාරදිගේ-ගමන්-කළේ’/11-413801) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A tragic incident occurred when children crossed railway tracks, ignoring safety warnings. A train struck and killed two girls, shocking everyone involved. The event highlights the importance of railway safety education and adult supervision near tracks.
-
-🟩
-
-I've never been on a train before. The railroad, the Rail Road, went to school from a child, we went to school from a child, we were friends.. ---- The temptation test, which was taking photos of the railway accident, said at the death inspection.
-
-Paraded children should not be on the playground, but the victim, Venila Ranjani and Ms. Wimalara Ranjani has gone to inform me ..... (Tachondo External Instructor Spring Night)
-
-"We traveled between the pavement and the radimbe, the sidewalk was length. Kings on the pavement. The front, I fast up and quickly got up instantly on top of the pavement.Tarry and Ven and Aunt came from my back. They were in the middle section between the palle and the pavement
-
-But I saw myself, I saw, and rolls on train and roll. I didn't see, I went to the side of the jungle and told a thumbnail to go to the big mother's house, and went to school to go to school, from a child, "
-
-...
-
-[Data](articles/bc5414d3.json)
-
-[Extended Data](ext_articles/bc5414d3.ext.json)
-
----
-
-### Moody’s raises Sri Lanka’s rating after debt overhaul approval
-
-*2024-12-23 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104450/moodys-raises-sri-lankas-rating-after-debt-overhaul-approval) · `en`
-
-Credit ratings agency Moody’s on Monday raised Sri Lanka’s long-term foreign currency issuer rating to ‘Caa1’ from ‘Ca’ with a stable outlook, after the country’s creditors approved a $12.55 billion debt overhaul last week.
-
-Sri Lanka’s credit profile reflects the reduction in external vulnerability and government liquidity risk, and prospects for fiscal and debt sustainability, Moody’s said in a report.
-
-“Sri Lanka’s credit fundamentals have improved over the past two years... external vulnerability and government liquidity risk have both declined from elevated levels,” Moody’s said.
-
-The island nation had defaulted on its foreign debt for the first time in May 2022 due to its high debt burden and dwindling foreign exchange reserves.
-
-Its bondholders last week signed off on the government’s proposal to restructure its international bonds as the island nation recovers from its worst financial crisis in decades.
-
-...
-
-[Data](articles/4c01922e.json)
-
-[Extended Data](ext_articles/4c01922e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 04:13:48**
+As of **2024-12-25 04:26:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,513 (99.4%) of 61,887 articles have been extended.
+61,515 (99.4%) of 61,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1056,27 +1056,51 @@ Thus Adani has also retrieved its programs from launching its programs. However,
 
 ---
 
-### களைகட்டிய நத்தார் பண்டிகை கொள்வனவு
+### Weed
 
 *2024-12-24 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202063) · `ta`
 
-நத்தார் பண்டிகையை முன்னிட்டு கொழும்பு சைனா வீதியில் அமைந்துள்ள கடைத்தெருக்களில் பண்டிகைக்கான அலங்கார பொருட்கள் கொள்வனவில்  பொதுமக்கள் ஆர்வத்துடன் ஈடுபட்டுள்ளனர்.
+Here's a summary of "Weed" in 200 characters:
+
+
+
+"Weed" refers to cannabis, a psychoactive plant. It's illegal in many places due to its potential for abuse and health risks. Medical use is legal in some areas for specific conditions.
+
+🟩
+
+The public is enthusiastically involved in the purchase of decorative items for the festival at the Sinai Road, Colombo.
 
 ◼️
 
 [Data](articles/804db050.json)
 
+[Extended Data](ext_articles/804db050.ext.json)
+
 ---
 
-### கொழும்பு கொச்சிக்கடை புனித அந்தோனியார் திருத்தலம் தோரணங்களால்  அலங்கரிப்பு
+### St.
 
 *2024-12-24 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/202059) · `ta`
 
-நத்தார் தினத்தை முன்னிட்டு  கொழும்பு கொச்சிக்கடை  புனித அந்தோனியார் திருத்தலம் தோரணங்களால்  அலங்கரிக்கப்பட்டு காணப்படுகின்றது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"St. Antoniyar in Colombo features decorative elements inspired by Colombo's architecture."
+
+
+
+This summary captures the essence of the original statement while condensing it to fit within the 200-character limit. It maintains the key information about St. Antoniyar being located in Colombo and its decoration reflecting local architectural styles.
+
+🟩
+
+St. Antoniyar, Colombo, Colombo, is decorated with the postures of Colombo.
 
 ◼️
 
 [Data](articles/8a5dee6d.json)
+
+[Extended Data](ext_articles/8a5dee6d.ext.json)
 
 ---
 

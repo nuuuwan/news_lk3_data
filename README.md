@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 08:26:10**
+As of **2024-12-24 08:47:29**
 
 ## Newspaper Stats
 
-*Scraped **61,731** Articles*
+*Scraped **61,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,888
 adaderanalk | 7,536
-tamilmirrorlk | 8,836
+tamilmirrorlk | 8,837
 virakesarilk | 10,192
 adaderanasinhalalk | 10,662
 
@@ -26,79 +26,115 @@ adaderanasinhalalk | 10,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,417 (99.5%) of 61,731 articles have been extended.
+61,421 (99.5%) of 61,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### බස්නාහිර ගුරුවරුන්ට පැනවූ ටියුෂන් තහනම නවතියි
+### Tween ban imposed on Western Province stops ban
 
 *2024-12-24 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204659) · `si`
 
-බස්නාහිර පළාතේ පාසල් ගුරුවරුන්ට පෞද්ගලික උපකාරක පන්ති පැවැත්වීමට සීමා පනවමින් පළාත් අධ්‍යාපන අමාත්‍යංශය මගින් නිකුත් කර තිබූ චක්‍රලේඛය ක්‍රියාත්මක වීම තාවකාලිකව අත්හිටුවා තිබේ.
+Western Province education ban lifted: Provincial Ministry suspends circular on teacher tuition payments.
 
-ඒ අනුව බස්නාහිර පළාත් ආණ්ඩුකාරවරයාගේ උපදෙස් පරිදි අදාළ චක්‍රලේඛය ක්‍රියාත්මක කිරීම අත්හිටුවා ඇති බව වාර්තා වේ.
+🟩
 
-බස්නාහිර පළාතේ පාසල් ගුරුවරුන්ට තම පාසල්වල සිසුන්ට මුදල් ගෙවා උපකාරක පන්ති පැවැත්වීම තහනම් කරමින් පසුගිය සිකුරාදා දිනයේ පළාත් අධ්‍යාපන අමාත්‍යංශ ලේකම්වරිය විසින් චක්‍රලේඛයක් නිකුත් කර තිබුණි.
+The circular operated by the Provincial Ministry of Education has been suspended by the Ministry of Provincial Education Ministry and the Circular issued by the Provincial Education Ministry.
 
-කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා සඳහන් කළේ අදාළ චක්‍රලේඛයට විරෝධතා මතුවූ බැවින් එය ක්‍රියාත්මක කිරීම තාවකාලිකව නතර කළ බවය.
+Accordingly, the circular has been suspended on the instructions of the Western Province Governor.
+
+The Provincial Ministry of Education was issued by the Secretary to the Provincial Ministry of Education on Friday, banning school teachers in the Western Province to pay tuition to students in their schools.
+
+Deputy Minister of Labor Mahinda Jayasinghe said that the implementation was temporarily stopped, as the circular has arisen.
 
 ◼️
 
 [Data](articles/2c4c6124.json)
 
+[Extended Data](ext_articles/2c4c6124.ext.json)
+
 ---
 
-### ஜனாதிபதி தலைமையில் முக்கிய தயார்படுத்தல் கூட்டம்
+### The main preparation meeting headed by the president
 
 *2024-12-24 07:29:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தலைமையில்-முக்கிய-தயார்படுத்தல்-கூட்டம்/175-349192) · `ta`
 
-பணம் தூயதாக்கலுக்கெதிரான மற்றும் பயங்கரவாதத்திற்கு நிதியிடலை ஒழிப்பதற்கான ஆசிய பசுபிக் குழுவின் மூலம் நடத்தப்பட இருக்கும்  இலங்கையின் பரஸ்பர மதிப்பீட்டிற்கான முக்கிய தயார்படுத்தல் கூட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நேற்று (23) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+Sri Lanka's anti-terrorism funding meeting: President leads Cabinet officials, emphasizes swift action on 24 company programs, urges special committees for compliance, seeks improved international economic confidence.
 
-இந்தக் கூட்டத்தில்   அமைச்சர்கள், செயலாளர்கள் மற்றும் இலங்கை மத்திய வங்கியினதும் நிதியியல் உளவறிதல் பிரிவினதும்  அதிகாரிகள் ஆகியோர் கலந்து கொண்டனர்.
+🟩
 
-அமைச்சுக்கள், ஒழுங்குமுறைப்படுத்தல் நிறுவனங்கள் மற்றும் சட்ட அமுலாக்கல் முகவராண்மை நிறுவனங்கள் உள்ளடங்கலாக தொடர்புள்ள 24  நிறுவனங்களுக்காக வடிவமைக்கப்பட்ட அமைச்சரவை  அங்கீகாரம் வழங்கப்பட்ட   திட்டங்களை துரிதமாக நடைமுறைப்படுத்துவதன் அவசியத்தை நிதியியல் உளவறிதல் பிரிவு இங்கு வலியுறுத்தியது.
+The main preparation meeting for Sri Lanka's mutual assessment to be held by the Asia Pacific Committee to eradicate Funding for Pure Currency and Eradication of Terrorism was held at the Presidential Office yesterday afternoon.
+
+The meeting was attended by ministers, secretaries and officials of the Central Bank of Sri Lanka and the Financial Psychology Division.
+
+The Financial Psychology Division emphasized the need to expedite the Cabinet accredited programs designed for 24 companies, including ministries, regulatory institutions and law enforcement agencies.
+
+The Activation Scheme has prioritized legal restructuring, implementation, agency, and maintenance of all the statistics to be prepared by the Financial Action Secretariat (FATF).
+
+The President urged the Financial Psychology Unit, responsible ministers, secretaries and officials to appoint special committees to ensure a full compliance with these schemes.
 
 ...
 
 [Data](articles/5a357e75.json)
 
+[Extended Data](ext_articles/5a357e75.ext.json)
+
 ---
 
-### පුරාවස්තු සොයා කැණීම් කළ පිරිසක් අත්අඩංගුවට
+### Excavation of antiquities arrested
 
 *2024-12-24 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204658) · `si`
 
-පුරාවස්තු සොයා කැණීම් කළ සැකකරුවන් තිදෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of 200 characters:
 
-ඊයේ (23) සවස් කාලයේදී ගිරාඳුරුකෝට්ටේ පොලිස් නිලධාරීන්ට ලද තොරතුරක් මත  ගිරාඳුරුකෝට්ටේ අඟලඔය ප්‍රදේශයේ සිදුකළ වැටලීමකදි සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 29 - 38ත් අතර පසුවන ගිරාඳුරුකෝට්ටේ ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+"Police arrest 3 suspects in Holdurucotte raid. Suspects aged 29-38 from Girandurukotte. Raid occurred on 23rd."
+
+🟩
+
+Three suspects have been arrested by the police.
+
+The suspects were arrested following a raid conducted in the Holdurucotte Police officers yesterday (23).
+
+The suspects are residents of the Girandurukotte area between 29 - 38 years.
 
 ◼️
 
 [Data](articles/e7e42a24.json)
 
+[Extended Data](ext_articles/e7e42a24.ext.json)
+
 ---
 
-### ජාඇළ වෙඩි තැබීමක්
+### Janeza shot
 
 *2024-12-24 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204657) · `si`
 
-ජාඇළ ශාන්ත ආනා ප්‍රදේශයේ නිවසකට වෙඩි ප්‍රහාරයක් එල්ල වී තිබේ.
+Here's a summary in 200 characters:
 
-පොලීසිය පැවසුවේ අද (24) අලුයම යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වෙඩි තැබීම සිදුකර ඇති බවය.
 
-වෙඩි වැදීමෙන් කිසිදු පුද්ගලයෙකුට හානි සිදුව නොමැති අතර අදාළ නිවසේ ගේට්ටුවට සහ බිත්තිවලට හානි සිදුවී ඇති බව සදහන් වේ.
 
-මීට පෙර පසුගිය 15 වන දින රාත්‍රියේ ද මෙම නිවසට යතුරුපැදියකින් පැමිණි තුවක්කුකරුවන් දෙදෙනෙකු විසින් වෙඩි තැබීමක් සිදුකර තිබුණි.
+House shot in St. Anne's, Ja Ela. Two motorcyclists fired shots, damaging gate & walls. No injuries reported. Incident linked to National Election investigations.
 
-මේ සම්බන්ධයෙන් වන විමර්ශන ජාඇළ පොලීසිය විසින් ආරම්භ කර තිබේ.
+🟩
+
+A house was shot dead in St. Anne's area in Ja Ela.
+
+The police said that two persons who came from a motorcycle have been shot today (24).
+
+No person has been damaged by shooting and the gate and walls of the house have been damaged.
+
+Two gunmen had been shot by two gunmen in a motorcycle on the 15th.
+
+The Investigations of the National Elections have been launched in this regard.
 
 ◼️
 
 [Data](articles/755e13e4.json)
+
+[Extended Data](ext_articles/755e13e4.ext.json)
 
 ---
 
@@ -133,6 +169,24 @@ When a country is placed on the Financial Action Task Force (FATF) grey list, it
 [Data](articles/dc3860b5.json)
 
 [Extended Data](ext_articles/dc3860b5.ext.json)
+
+---
+
+### இராணுவ அதிகாரி மாரடைப்பால் உயிரிழப்பு
+
+*2024-12-24 03:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-அதிகாரி-மாரடைப்பால்-உயிரிழப்பு/175-349190) · `ta`
+
+பலாலி இராணுவ முகாமில் கடமையாற்றிய சார்ஜன் தர அதிகாரி ஒருவர் மாரடைப்புக் காரணமாக உயிரிழந்தார்.
+
+குருநாகலைச் சேர்ந்த ரவித்த ரங்கன திஸாநாயக்க (வயது 35) எனும் இரண்டு பிள்ளைகளின் தந்தையே உயிரிழந்தார்.
+
+2007 ஆம் ஆண்டு இலங்கை இராணுவத்தில் இணைந்து கொண்ட அவர் பலாலி இராணுவ முகாமில் கடமையாற்றி வந்தார்.
+
+நேற்றுமுன்தினம் ஞாயிற்றுக்கிழமை காலை நெஞ்சுவலி காரணமாக பலாலி இராணுவ வைத்தியசாலையில் சேர்க்கப்பட்ட அவர், உடனடியாக யாழ். போதனா வைத்தியசாலைக்கு மேலதிக சிகிச்சைக்காக மாற்றப்பட்டார். எனினும், அவர் நேற்றுமுன்தினம் நண்பகல் உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/4801c92f.json)
 
 ---
 
@@ -2133,35 +2187,5 @@ It is said that it is revealed that an investigation is conducted in the acciden
 ...
 
 [Data](articles/78eeb44e.json)
-
----
-
-### Strong Protection to Chandrika Mawatha
-
-*2024-12-23 13:26:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்திரிகா-மாவத்தைக்கு-கடும்-பாதுகாப்பு/175-349151) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Western Province Governor Haneeb Yusuf orders enhanced security for Chandrika Kumaratunga Mawatha due to rising robberies. Police patrols increased, CCTV cameras installed, and checkpoints set up. Area transfer to local councils planned.
-
-🟩
-
-Western Province Governor Haneeb Yusuf has issued a task to the authorities including the police, including the police, to organize a special security program at Chandrika Kumaratunga Mawatha, which is alleged to have been caught in the clutches of the motorcycle.
-
-The governor has taken this action following complaints from the people of the area that the robbers were robbed of vehicles traveling on the road.
-
-Chandrika Kumaratunga has decided to increase police patrols in the surrounding areas and increase security on both sides of the road.
-
-The discussion between the governor and the police officers has been complied with the CCTV camera system, the installation of the wires and the installation of police checkpoints in the relevant areas.
-
-The area, which is under the Urban Development Authority, has been focused on the transfer of this area to the Mulleriya and Malambay Local Government Councils.
-
-◼️
-
-[Data](articles/f20c46d3.json)
-
-[Extended Data](ext_articles/f20c46d3.ext.json)
 
 ---

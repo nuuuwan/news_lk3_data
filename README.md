@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 18:49:50**
+As of **2024-12-24 19:02:37**
 
 ## Newspaper Stats
 
-*Scraped **61,832** Articles*
+*Scraped **61,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,903
+adalk | 5,905
 adaderanalk | 7,556
 tamilmirrorlk | 8,849
 virakesarilk | 10,216
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,474 (99.4%) of 61,832 articles have been extended.
+61,474 (99.4%) of 61,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### ජාතික රූපවාහිනියේ සභාපති ඉල්ලා අස්වෙයි
+
+*2024-12-24 18:44:12* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රූපවාහිනියේ-සභාපති-ඉල්ලා-අස්වෙයි/11-413833) · `si`
+
+ජාතික රූපවාහිනී සංස්ථාවේ සභාපති ලෙස කටයුතු කළ ආචාර්‍ය ෂෙනේෂ් බණ්ඩාර මහතා එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.
+
+අනුර කුමාර දිසානායක මහතා ජනපති ලෙස පත්වීමෙන් පසුව පවත්වාගෙන ගිය තිදෙනෙකුගෙන් සමන්විත කැබිනට් මණ්ඩලයේ ජනමාධ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ වත්මන් විදේශ අමාත්‍ය විජිත් හේරත් මහතා විසින් ෂෙනේෂ් බණ්ඩාර මහතා ජාතික රූපවාහිනයේ සභාපති ලෙස පත්කරනු ලැබීය.
+
+◼️
+
+[Data](articles/78480e08.json)
+
+---
 
 ### Re -headed underworld groups
 
@@ -145,6 +159,26 @@ The Earth is facing unprecedented changes in the past century, including the ris
 [Data](articles/7503b5cf.json)
 
 [Extended Data](ext_articles/7503b5cf.ext.json)
+
+---
+
+### වත්මන් රජය බොරු කීම නීතිගත කර තිබෙනවා
+
+*2024-12-24 15:50:40* · [`adalk`](https://www.ada.lk/breaking_news/වත්මන්-රජය-බොරු-කීම-නීතිගත-කර-තිබෙනවා/11-413823) · `si`
+
+මෙරට  ඉතිහාසයේ බලවත්ම රජය වත්මන් රජය යටතේ බිහි වී තිබෙන බවත් වත්මන් රජයට සියලු පාර්ශ්වයන්ගේ බලය ලැබී තිබෙන බැවින් රට යම් කඩා වැටීමකට ලක් වුවහොත් එහි වගකීම රජය බාරගත යුතුව තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා කියයි.
+
+මහින්ද රාජපක්ෂ ජනාධිපතිවරයාගේ රජයට තුනෙන් දෙකක බලය මෙන්ම විධායක බලය, පළාත් සභා බලය මෙන්ම ප්‍රාදේශීය සභා බලය තිබුනද වෘත්තිය සමිති බලය නොතිබුන පැවසූ මන්ත්‍රීවරයා වත්මන් රජයට සියලු පාර්ශ්වයන්ගේ බලය තිබෙන බවද පැවසීය.
+
+පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා එම අදහස් පළ කර සිටියේ ඊයේ (23දා) සවස මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි.
+
+වත්මන් රජය විශාල බලාපොරොත්තුවක් ජනතාවට ලබා දුන් බව පැවසූ නාමල් රාජපක්ෂ මහතා රජය ජනතාවට ලබාදුන් පොරොන්දු ඉෂ්ට කළ යුතුව තිබෙන බවදපැවසීය.
+
+රජය පොල්මුරය එන තුරුත් ලුණු මිදෙන තුරුත් වී අස්වැන්න ලැබෙන තුරුත් දින ගණන් කරමින් සිටින බවත් ඉතිහාසයේ පළමු වතාවට බොරු කියන එක නීතිගත කොට ඇති බවද පැවසීය.
+
+...
+
+[Data](articles/dc39586f.json)
 
 ---
 
@@ -2157,45 +2191,5 @@ The Investigations of the National Elections have been launched in this regard.
 [Data](articles/755e13e4.json)
 
 [Extended Data](ext_articles/755e13e4.ext.json)
-
----
-
-### Today is a rainy weather
-
-*2024-12-24 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204656) · `si`
-
-Rainy weather forecast: Showers/thundershowers expected in Batticaloa, Ratnapura, Ampara. Major rainfall predicted in Western, Sabaragamuwa, Central, Southern, North Western, Uva provinces.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Batticaloa, Ratnapura and Ampara Districts in the Uva, Ratnapura, Ratnapura and Ampara districts.
-
-In a statement, the department said that there would be a major rain weather in other areas.
-
-In some places in the Western, Sabaragamuwa, Central, Southern, Southern, North Western and Uva provinces, the statement further states.
-
-◼️
-
-[Data](articles/df05a8ec.json)
-
-[Extended Data](ext_articles/df05a8ec.ext.json)
-
----
-
-### Sri Lanka President, central bank discuss AML/CFT measures to prevent blacklisting again
-
-*2024-12-24 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-central-bank-discuss-aml-cft-measures-to-prevent-blacklisting-again-196014/) · `en`
-
-ECONOMYNEXT – Facing a risk of falling into the grey list for a third time, President Anura Kumara Dissanayake and officials including from the Central Bank discussed measures to be implemented to prevent falling into the grey list which could dent the island nation’s economic recovery from sovereign debt default.
-
-The country is obliged to fulfil a raft of measures including passing new laws to comply with preventing money laundering and countering terrorism financing (AML/CFT) laws before the next evaluation starts in March 2025.
-
-When a country is placed on the Financial Action Task Force (FATF) grey list, it faces several financial, economic, and reputational challenges including reduced access to global financial markets, decline in Foreign direct investment (FDI), increased compliance costs, and risks of rating downgrading.
-
-...
-
-[Data](articles/dc3860b5.json)
-
-[Extended Data](ext_articles/dc3860b5.ext.json)
 
 ---

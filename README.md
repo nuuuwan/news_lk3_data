@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 20:27:15**
+As of **2024-12-24 20:01:13**
 
 ## Newspaper Stats
 
-*Scraped **61,857** Articles*
+*Scraped **61,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,907
-adaderanalk | 7,558
-tamilmirrorlk | 8,850
+adaderanalk | 7,557
+tamilmirrorlk | 8,849
 virakesarilk | 10,226
 adaderanasinhalalk | 10,684
 
@@ -26,41 +26,11 @@ adaderanasinhalalk | 10,684
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,483 (99.4%) of 61,857 articles have been extended.
+61,480 (99.4%) of 61,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
-
-### Emergency letter to Mano Ganesan President
-
-*2024-12-24 19:56:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-349223) · `ta`
-
-Here's a summary of the emergency letter to Mano Ganesan President in approximately 200 characters:
-
-
-
-Tamil Progressive Alliance leader Mano Ganesan writes to the President demanding immediate action against eviction attempts in Ratnapura, Ekaliyagoda, and Sunterland gardens. He seeks protection for long-time residents, replacement of "Moden Slevari" system, and notification to estate companies to prohibit forced evictions.
-
-🟩
-
-Mano Ganesan, the leader of the Tamil Progressive Alliance and Member of Parliament, has sent a letter to the president to immediately stop the efforts to evict people living in the gardens.
-
-He noted that the poor people living in the garden of Ratnapura, Ekaliyagoda and Sunterland are trying to be expelled by the estate administration.
-
-He emphasized that the administration should not be expelled by the administration for many generations in the gardens and that the new land rights should be issued to ensure the safety of the residents.
-
-He also demanded that the current system identified as "Moden Slevari" be completely replaced.
-
-He also stated that the President should notify the estate companies to announce the emergency prohibition not to be evicted by the plantation administrators.R
-
-◼️
-
-[Data](articles/8d5efc7a.json)
-
-[Extended Data](ext_articles/8d5efc7a.ext.json)
-
----
 
 ### Did the Israeli soldier come to Sri Lanka in a video of the Palestinian body?Demand for the government to investigate
 
@@ -98,53 +68,25 @@ However, Buddhikamarasinghe said that there is no evidence to confirm what the H
 
 ---
 
-### 62 suspects resumed 62
+### වැඩතහනමට ලක් වූ ලංවීමේ 62 ක් යළි සේවයට
 
 *2024-12-24 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204684) · `si`
 
-Here's a summary of 200 characters:
+ඉකුත් රජය සමයේ විදුලිබල මණ්ඩලය පෞද්ගලීකරණය කිරීමට එරෙහි උද්ඝෝෂණවලට සහභාගිවී වැඩතහනමට ලක් වු ලංකා විදුලිබල මණ්ඩලයේ සේවකයින් හැටදෙදෙනෙකු සියලු වරප්‍රසාද සහිතව යළි සේවයේ පිහිටුවා තිබේ.
 
+ඒ වත්මන් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතාගේ විශේෂ නියෝගයකට අනුවය.
 
+ලංකා විදුලිබල මණ්ඩලය පෞද්ගලීකරණය කිරීමට සැරසෙන බව පවසමින් එහි වෘත්තිය සමිති පසුගිය ජනවාරි මාසයේදි උද්ඝෝෂණ ව්‍යාපාරයක් දියත් කළේය.
 
-Ceylon Electricity Board (CEB) staff resume duties after protests against privatization. Government cancels punishments, reemploys workers with full rights.
+විදුලිය සැපයීම අත්‍යවශ්‍ය සේවාවක් බවට ප්‍රකාශයට පත්කර තිබියදීත්, පාරිභෝගිකයන් අපහසුතාවට පත් කරමින් රාජකාරිය සිදුකිරීමෙන් වැළකී සිටි සේවකයින්ට එරෙහිව පියවර ගන්නා ලෙස එවක විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා නිලධාරීන්ට උපදෙස් දි තිබුණි.
 
-🟩
+ඒ අනුව ලංකා විදුලිබල මණ්ඩලයේ සේවකයින් හැටදෙදෙනෙකුගේ සේවය තහනම් කෙරෙණි.
 
-The Ceylon Electricity Board (CEB) participated in protests against privatization against the privatization of the Electricity Board (CEB) has been re-employed with all privileges.
-
-According to a special order by Mr. Kumara Jayakody, Minister of Energy Minister.
-
-The trade unions launched a protest campaign in January, claiming that the Ceylon Electricity Board is planning to privatize.
-
-Power and Energy Minister Kanchana Wijesekara was instructed by the officials to take action against the employees who had abstainted the customers, despite the essential service.
-
-Accordingly, the Ceylon Electricity Board (CEB) of Ceylon Electricity Board was banned.
-
-However, after the current government has come to power, the Energy Minister has taken steps to re-be reconstructed and to cancel the punishment.
-
-The employees also met with the Minister of Energy Minister Kumara Jayakody today.
-
-◼️
-
-[Data](articles/4aeb25cc.json)
-
-[Extended Data](ext_articles/4aeb25cc.ext.json)
-
----
-
-### Global hunger crisis deepens as major nations skimp on aid
-
-*2024-12-24 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104476/global-hunger-crisis-deepens-as-major-nations-skimp-on-aid) · `en`
-
-It’s a simple but brutal equation: The number of people going hungry or otherwise struggling around the world is rising, while the amount of money the world’s wealthiest nations are contributing toward helping them is dropping.
-
-The result: The United Nations says that, at best, it will be able to raise enough money to help about 60% of the 307 million people it predicts will need humanitarian aid next year. That means at least 117 million people won’t get food or other assistance in 2025.
-
-The U.N. also will end 2024 having raised about 46% of the $49.6 billion it sought for humanitarian aid across the globe, its own data shows. It’s the second year in a row the world body has raised less than half of what it sought. The shortfall has forced humanitarian agencies to make agonizing decisions, such as slashing rations for the hungry and cutting the number of people eligible for aid.
+කෙසේ වෙතත් වත්මන් රජයට බලයට පත්වීමෙන් පසු බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතාගේ විශේෂ නියෝගයක් මත එම සේවකයින් යළි සේවයේ පිහිටුවීමටත්, අහිමි කර තිබු වරප්‍රසාද යළි ලබාදීමට මෙන්ම දඬුවම් මාරු අවලංගු කිරීමටත් කටයුතු කර ඇත.
 
 ...
 
-[Data](articles/47f48a83.json)
+[Data](articles/4aeb25cc.json)
 
 ---
 
@@ -172,31 +114,21 @@ Speaking further Mr. Dr. Harsha de Silva said:
 
 ---
 
-### Military Protection for Mahinda and Namal
+### மஹிந்தவுக்கும், நாமலுக்கும் உயிரச்சுறுத்தல் அரசியல் பழிவாங்களுக்காகவே இராணுவ பாதுகாப்பு நீக்கம் - ஸ்ரீ லங்கா பொதுஜன பெரமுன
 
 *2024-12-24 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202080) · `ta`
 
-Here's a summary of 200 characters:
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ மற்றும் அவரது மகன் நாமல் ராஜபக்ஷ ஆகியோருக்கு உயிரச்சுறுத்தல் இருப்பதாக புலனாய்வு பிரிவு அறிக்கை சமர்ப்பித்துள்ள நிலையில் வழங்கப்பட்டுள்ள இராணுவ பாதுகாப்பு அரசியல் பழிவாங்களுக்காக நீக்கப்பட்டுள்ளது. மஹிந்த ராஜபக்ஷவுக்கு பாதுகாப்பு வழங்குவது ஒவ்வொரு பிரஜையினதும் கடமையாகும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
 
+ஸ்ரீ லங்கா பொதுஜன  பெரமுனவின் காரியாலயத்தில் செவ்வாய்கிழமை (24) நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
+முன்னாள் ஜனாதிபதிபதிகளுக்கு வழங்கப்பட்ட இராணுவ பாதுகாப்பு முழுமையாக நீக்கப்பட்டமை முறையற்றதொரு செயற்பாடாகும். ஜனாதிபதி அநுரகுமார திசாநாயக்க இன்று பாதுகாப்பு ஏதுமின்றி மக்கள் மத்தியில் செல்வதற்கான சூழலை மஹிந்த ராஜபக்ஷவே ஏற்படுத்திக் கொடுத்தார் என்பதை மறந்து விடக்கூடாது.
 
-Sri Lanka PA defends Mahinda & Namal Rajapaksa against intelligence unit report. Claims removal due to political revenge. Calls for public protection of former president. Criticizes government misuse of state power. Announces separate participation in local government elections.
-
-🟩
-
-Former President Mahinda Rajapaksa and his son Namal Rajapakse have been removed for political revenge as the Investigation Unit has submitted a report on the death of his son Namal Rajapaksa.. Sri Lanka PA is the duty of every citizen to provide security to Mahinda Rajapaksa, said Sakara Kariyawasam, General Secretary of the Sri Lanka PA.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Tuesday (24).
-
-The complete abolition of military security provided to former presidents is an improper act. It should not be forgotten that President Anura Kumara Dissanayake has created an environment for the people to go to the people without security today.
-
-Mahinda Rajapaksa ended the era of the army to his hometowns. Therefore, it is the duty of every citizens to provide him with protection.
+இராணுவத்தினர் தமது சொந்த ஊர்களுக்கு சவப்பெட்டியில் செல்லும் யுகத்தை மஹிந்த ராஜபக்ஷவே முடிவுக்கு கொண்டு வந்தார். ஆகவே அவருக்கு பாதுகாப்பு வழங்குவது ஒவ்வொரு பிரஜைகளினதும் தலையாய கடமையாகும்.
 
 ...
 
 [Data](articles/aa23c622.json)
-
-[Extended Data](ext_articles/aa23c622.ext.json)
 
 ---
 
@@ -2185,5 +2117,47 @@ Many news reports were published about the corrupt practices within the NOC, whi
 ...
 
 [Data](articles/64eceb96.json)
+
+---
+
+### අල්ලස් ගත් පොලිස් නිලධාරියෙකුට සිදුවූ දේ
+
+*2024-12-24 10:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204663) · `si`
+
+අල්ලස් මුදලක් ලබා ගත් පොලිස් නිලධාරිවරයෙකු අල්ලස් චෝදනා මත අත්අඩංගුවට ගෙන තිබේ.
+
+තඹලගමුව ප්‍රදේශයේ පුද්ගලයෙකු විසින් මුදල් ආරවුලක් සම්බන්ධව ත්‍රිකුණාමලය පොලිස් ස්ථානයට පැමිණිල්ලක් සිදුකර තිබේ.
+
+එම පැමිණිල්ල විභාග කර පැමිණිලිකරුට අයවීමට ඇති මුදල් ලබා ගැනීමට අවශ්‍ය කටයුතු කරදිය හැකි බව පවසා ඒ වෙනුවෙන් රුපියල් පන්දහසක මුදලක් අල්ලස් වශයෙන් ඉල්ලා තිබේ.
+
+ඒ අනුව එම අල්ලස් මුදල ලබා ගැනීම මත ත්‍රිකුණාමලය පොලිස් ස්ථානයේ විවිධ පැමිණිලි විමර්ශන අංශයට අනුයුක්තව ප්‍රජා පොලිස් ඒකකයේ සේවය කළ පොලිස් සැරයන්වරයෙකු පසුගිය 23 වැනි දින අල්ලස් කොමිසමේ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගන්නා ලද සැකකරුවන් ත්‍රිකුණාමලය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/6beb90a1.json)
+
+---
+
+### Two more suspects arrested in Meegoda murder case
+
+*2024-12-24 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104459/two-more-suspects-arrested-in-meegoda-murder-case) · `en`
+
+Two more suspects have been apprehended in connection with the shooting and murder that occurred in Meegoda on December 14.
+
+The Western Province South Crime Division launched an investigation into the incident, which initially led to the arrest of the shooter and an accomplice on December 19, followed by the arrest of three additional suspects on December 22.
+
+Following further interrogations from the suspects, officers arrested two more individuals in the Meegoda Police Division last evening (23).
+
+The suspects, aged 26 and 33, are residents of the Meegoda area and face charges of aiding, abetting, and conspiring to commit the murder.
+
+Furthermore, it is reported that, based on information provided by one of the suspects, the police recovered a 9 mm pistol and 10 live rounds of ammunition hidden on the bank of a ravine along the Meegoda Kurunduwatta Road.
+
+The Western Province South Crime Division and the Meegoda Police are jointly conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/bb28236b.json)
 
 ---

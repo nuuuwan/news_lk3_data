@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 05:51:25**
+As of **2024-12-24 06:48:28**
 
 ## Newspaper Stats
 
-*Scraped **61,720** Articles*
+*Scraped **61,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 625
 bbccomsinhala | 649
 islandlk | 3,742
-economynextcom | 3,757
+economynextcom | 3,758
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,886
 adaderanalk | 7,536
-tamilmirrorlk | 8,833
+tamilmirrorlk | 8,834
 virakesarilk | 10,192
 adaderanasinhalalk | 10,658
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,415 (99.5%) of 61,720 articles have been extended.
+61,416 (99.5%) of 61,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Sri Lanka President, central bank discuss AML/CFT measures to prevent blacklisting again
+
+*2024-12-24 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-central-bank-discuss-aml-cft-measures-to-prevent-blacklisting-again-196014/) · `en`
+
+ECONOMYNEXT – Facing a risk of falling into the grey list for a third time, President Anura Kumara Dissanayake and officials including from the Central Bank discussed measures to be implemented to prevent falling into the grey list which could dent the island nation’s economic recovery from sovereign debt default.
+
+The country is obliged to fulfil a raft of measures including passing new laws to comply with preventing money laundering and countering terrorism financing (AML/CFT) laws before the next evaluation starts in March 2025.
+
+When a country is placed on the Financial Action Task Force (FATF) grey list, it faces several financial, economic, and reputational challenges including reduced access to global financial markets, decline in Foreign direct investment (FDI), increased compliance costs, and risks of rating downgrading.
+
+...
+
+[Data](articles/dc3860b5.json)
+
+[Extended Data](ext_articles/dc3860b5.ext.json)
+
+---
 
 ### Christmas carol concert at Presidential Secretariat until tomorrow
 
@@ -103,6 +121,22 @@ The Indian CEO Forum (ICF) President Kishore Reddy (centre) last week met with t
 [Data](articles/060284a4.json)
 
 [Extended Data](ext_articles/060284a4.ext.json)
+
+---
+
+### நிதியிடலை ஒழிப்பதற்கான கட்டமைப்பு தொடர்பில் கலந்துரையாடல்
+
+*2024-12-24 02:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியிடலை-ஒழிப்பதற்கான-கட்டமைப்பு-தொடர்பில்-கலந்துரையாடல்/175-349188) · `ta`
+
+பணம் தூயதாக்கலுக்கெதிரான மற்றும் பயங்கரவாதத்திற்கு நிதியிடலை ஒழிப்பதற்கான ஆசிய பசுபிக் குழுவின் மூலம் நடத்தப்பட இருக்கும் இலங்கையின் பரஸ்பர மதிப்பீட்டிற்கான முக்கிய தயார்படுத்தல் கூட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நேற்று (23) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+இந்தக் கூட்டத்தில் அமைச்சர்கள், செயலாளர்கள் மற்றும் இலங்கை மத்திய வங்கியினதும் நிதியியல் உளவறிதல் பிரிவினதும் அதிகாரிகள் ஆகியோர் கலந்து கொண்டனர்.
+
+அமைச்சுகள், ஒழுங்குமுறைப்படுத்தல் நிறுவனங்கள் மற்றும் சட்ட அமுலாக்கல் முகவராண்மை நிறுவனங்கள் உள்ளடங்கலாக தொடர்புள்ள 24 நிறுவனங்களுக்காக வடிவமைக்கப்பட்ட அமைச்சரவை அங்கீகாரம் வழங்கப்பட்ட திட்டங்களை துரிதமாக நடைமுறைப்படுத்துவதன் அவசியத்தை நிதியியல் உளவறிதல் பிரிவு இங்கு வலியுறுத்தியது.
+
+...
+
+[Data](articles/0689e05a.json)
 
 ---
 
@@ -2161,53 +2195,5 @@ Dr. Wickremesinghe, an alumnus of Galle Southlands College. He holds a Masters D
 [Data](articles/247cc694.json)
 
 [Extended Data](ext_articles/247cc694.ext.json)
-
----
-
-### Dr. Aisha Wickremesinghe appointed Chairman
-
-*2024-12-23 12:54:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலாநிதி-ஆயிஷா-விக்கிரமசிங்க-தலைவராக-நியமனம்/175-349148) · `ta`
-
-Dr. Aisha Wickremesinghe named Chairman of National Craft Council. Expert in fashion design & product dev. Appointed to promote local crafts. Holds degrees from UK & SL universities.
-
-🟩
-
-Dr. Aisha Wickremesinghe has been appointed as the Chairman of the National Craft Council on design and product development.
-
-The National Craft Council, which is under the Ministry of Industry and Entrepreneurship Development, plays an important role in improvement and promoting the local crafts.
-
-Dr. Wickremesinghe has been a senior lecturer at the University of Moratuwa since 2006 to specialize in Fashion Design and Product Development. He has a comprehensive professional experience in advertising and design from Sri Lanka, the United Kingdom and the United States.
-
-Dr. Wickremesinghe, an alumnus of Galle Southlands College. He holds a Masters Degree from the University of Arts in London and a doctorate at the University of Arts in Sri Lanka.
-
-◼️
-
-[Data](articles/41325aa7.json)
-
-[Extended Data](ext_articles/41325aa7.ext.json)
-
----
-
-### 50 wild elephants killed this year
-
-*2024-12-23 12:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-இவ்வருடம்-50-காட்டு-யானைகள்-பலி/175-349147) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"50 wild elephants electrocuted this year: CEB report. CEB claims preventive measures & seeks public cooperation."
-
-🟩
-
-According to a report by the Ceylon Electricity Board (CEB), about 50 wild elephants have been killed by electricity during this year.
-
-The Electricity Board says that appropriate measures have been taken to prevent electricity without permission and the public's support is expected.
-
-◼️
-
-[Data](articles/58e18048.json)
-
-[Extended Data](ext_articles/58e18048.ext.json)
 
 ---

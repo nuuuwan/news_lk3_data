@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 10:15:17**
+As of **2024-12-24 10:27:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,428 (99.5%) of 61,746 articles have been extended.
+61,429 (99.5%) of 61,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,25 +80,37 @@ The suitcase he brought was seized by the Officers of the Drugs by the Drug Poli
 
 ---
 
-### රාජ්‍ය සංස්ථා සේවකයින්ට ප්‍රසාද දීමනා ගෙවීමේ චක්‍රලේඛය නිකුත් වෙයි
+### Circular for Public Corporation Employees
 
 *2024-12-24 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204662) · `si`
 
-රාජ්‍ය සංස්ථා, ව්‍යවස්ථාපිත මණ්ඩල සහ රජය සතු සමාගම්වල කාර්ය මණ්ඩලයට 2024 වර්ෂය සඳහා ප්‍රසාද දීමනා ගෙවීමට අදාළව මුදල් ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යංශය විසින් චක්‍රලේඛයක් නිකුත් කර තිබේ.
+Here's a summary of the circular in 200 characters:
 
-සියලු අමාත්‍යංශ ලේකම්වරුන් රාජ්‍ය සංස්ථා, ව්‍යවස්ථාපිත මණ්ඩල සහ රජය සතු සමාගම්වල සභාපතිවරුන් වෙත ඊයේ (24) දිනයේ දී භාණ්ඩාගාර ලේකම් මහින්ද සිරිවර්ධන මහතා විසින් මෙම චක්‍රලේඛය නිකුත් කර ඇත.
 
-එම චක්‍රලේඛය මගින් මෙම වර්ෂය සඳහා ප්‍රසාද දීමනා ගෙවීම සිදුකළ යුතු ආකාරය පිළිබදව නිර්දේශ ඉදිරිපත් කර තිබේ.
 
-2023 වර්ෂය තුළ ලාභ උපයා බදු පසු ලාභයෙන් අවම වශයෙන් සියයට 30ක් ඒකාබද්ධ අරමුදලට ලාභාංශ ලෙස හෝ අයබදු ලෙස ගෙවා ඇති ආයතනවල සේවකයින් සඳහා රුපියල් 25,000ක හෝ 20,000ක ප්‍රසාද දීමනාවක් ලබාදෙන ලෙස එම චක්‍රලේඛයෙන් යෝජනා කර ඇති බව සඳහන් වේ.
+Public Corporation employees receive 2024 bonus circular from Ministry of Finance. Recommendations made for bonus payment process. Treasury Secretary outlines order. Bonus funding not provided by Treasury. Cabinet approval required if payment issues arise.
 
-අදාළ ප්‍රසාද දීමනා ලබා දීමේ දී අනුගමනය කළ යුතු පිළිවෙළ ද එම චක්‍රලේඛය මගින් භාණ්ඩාගාර ලේකම්වරයා පැහැදිලි කර ඇත.
+🟩
 
-එමගින් මහභාණ්ඩාගාර ලේකම්වරයා දැනුම් දී ඇත්තේ විශේෂයෙන් ප්‍රසාද දීමනා ගෙවීම සඳහා අරමුදල් මහභාණ්ඩාගාරය විසින් සැපයීමක් සිදු නොකරන බවය.
+The staff of Public Corporations, Statutory Boards and Government Owned Companies have issued a circular issued by the Ministry of Finance and Economic Development for the payment of bonuses for the year 2024.
 
-...
+The circular has issued the circular Mahinda Siriwardena yesterday (24) at all ministries secretaries yesterday (24).
+
+The circular has made recommendations on how to pay the bonus for this year.
+
+It is said that the circular has been proposed to provide a bonus of Rs.
+
+The Treasury Secretary has explained the order to be followed in providing the bonus.
+
+The General Secretary of the Thero Ther Secretary has said that the Treasury does not provide funds to pay the bonus.
+
+The circular further states that if the government owned enterprises arises a problem with the payment of bonus, the Cabinet approval is inevitable.
+
+◼️
 
 [Data](articles/f766b709.json)
+
+[Extended Data](ext_articles/f766b709.ext.json)
 
 ---
 

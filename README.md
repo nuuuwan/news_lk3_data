@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 23:27:15**
+As of **2024-12-24 23:43:42**
 
 ## Newspaper Stats
 
-*Scraped **61,876** Articles*
+*Scraped **61,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 628
 bbccomsinhala | 652
 islandlk | 3,744
-economynextcom | 3,767
+economynextcom | 3,771
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,910
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,496 (99.4%) of 61,876 articles have been extended.
+61,497 (99.4%) of 61,880 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -182,6 +182,28 @@ The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" wh
 
 ---
 
+### Sri Lanka’s Hambantota Port see rise in European cruise calls in 2024
+
+*2024-12-24 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-see-rise-in-european-cruise-calls-in-2024-196274/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hambantota Port said it saw an increase in European cruise ship calls while there was a noticeable decline in cruise ships coming from India.
+
+In 2024, out of 23 ships that called at the port, 17 were from Europe while only 6 were from India.
+
+In December 2023, Hambantota Port said 22 cruise ships called at the Port with a most of them coming from India through Cordelia Cruise Lines.
+
+“The cruise industry’s evolving dynamics reflect a renewed interest in diverse and unique destinations like HIP,” Wilson Qu, CEO of Hambantota International Port Group, said in a statement.
+
+“In 2024, we observed a strong trend of European vessels exploring South Asia, which underlines the growing demand for culturally rich and off-the-beaten-path destinations.
+
+“We anticipate this momentum to continue in 2025, with an upward movement in arrivals not only from Europe but also a resurgence from the Indian subcontinent.”
+
+...
+
+[Data](articles/d72750fc.json)
+
+---
+
 ### 62 Ceylon Electricity Board employees suspended and re -service with all concessions
 
 *2024-12-24 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/202083) · `ta`
@@ -286,19 +308,31 @@ The doctors said he had already died when he was taken to the Jaffna Teaching Ho
 
 ---
 
-### ஜனாதிபதி நிதியத்தில் அரசியல்வாதிகளின் நிதி மோசடி தொடர்பாக உரிய நடவடிக்கை எடுக்கவேண்டும் - எஸ்.பி.திசாநாயக்க
+### SP Dissanayake should take appropriate action on the financial fraud of politicians in the presidential fund
 
 *2024-12-24 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202081) · `ta`
 
-அரசியல் அதிகாரத்தை பயன்படுத்தி அரசியல்வாதிகள் ஜனாதிபதி நிதியத்தில் இருந்து கோடிக்கணக்கில் நிதி பெற்றுள்ளமை முறையற்றதொரு செயற்பாடாகும். முறையான விசாரணைகளை மேற்கொண்டு நிதியை மீளப்பெறுவதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என முன்னாள் பாராளுமன்ற உறுப்பினர் எஸ்.பி.திசாநாயக்க தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-2005 முதல் 2024 ஆம் ஆண்டு வரையான காலப்பகுதியில் ஜனாதிபதி நிதியத்தில் இருந்து நிதி பெற்றுக் கொண்டபவர்களின் பெயர் விபரங்களை அரசாங்கம் வெளியிட்டுள்ளது. உண்மையில் ஒருசில அரசியல்வாதிகள் தங்களின் மருத்துவ சிகிச்சைக்காக 1 முதல் 10 இலட்சம் ரூபா வரையிலான நிதியை ஜனாதிபதி நிதியத்தில் இருந்துக் பெற்றுக்கொண்டுள்ளார்கள்.
 
-இலங்கையில் மருத்துவ சிகிச்சை பெறுவதற்கான சாத்தியம் காணப்பட்ட போதிலும் ஒருசிலர் ஜனாதிபதி நிதியத்தில் இருந்து பல கோடி ரூபாவை பெற்றுக்கொண்டு வெளிநாடுகளுக்குச் சென்று மருத்துவ சிகிச்சை பெற்றுக் கொண்டுள்ளார்கள்.
+
+SP Dissanayake calls for action against politicians misusing presidential funds. From 2005-2024, millions were improperly allocated. Government should investigate and recover funds meant for welfare, not personal gain.
+
+🟩
+
+It is an improper process that politicians have received millions of rupees from the presidential fund using political power. Former parliamentarian SB Dissanayake said the government should take proper inquiries and restore the funds.
+
+From 2005 to 2024, the government has released the names of those who received funds from the Presidential Fund. In fact, a few politicians have received funds from the Presidential Fund for their medical treatment.
+
+Despite the possibility of getting medical treatment in Sri Lanka, a few have received several crores of rupees from the Presidential Fund and have been receiving medical treatment.
+
+The Presidential Fund was established in 1978 for the welfare of the poor people. The use of political power has been completely improperly improper.
 
 ...
 
 [Data](articles/d8787191.json)
+
+[Extended Data](ext_articles/d8787191.ext.json)
 
 ---
 
@@ -786,6 +820,28 @@ He made this statement during a media briefing held today (24), emphasizing the 
 
 ---
 
+### Sri Lanka rupee closes stronger at 294.00/295.50 to dollar, bonds steady
+
+*2024-12-24 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-00-295-50-to-dollar-bonds-steady-196228/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee improved to close at 294.00/295.50 to the US dollar on Tuesday from 296.25/75 on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 9.40/55 percent.
+
+A bond maturing on 15.08.2027 closed at 9.80/90 percent, up from 9.77/87 percent.
+
+A bond maturing on 15.02.2028 closed at 10.10/20 percent, up from 10.05/20 percent.
+
+A bond maturing on 01.07.2028 closed at 10.35/50 percent, down from 10.40/45 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.65/80 percent. (Colombo/Dec24/2024)
+
+◼️
+
+[Data](articles/a1929e8f.json)
+
+---
+
 ### රාජ්‍ය සේවක වැටුප් වැඩි කිරීම කවදා ද ?
 
 *2024-12-24 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204679) · `si`
@@ -940,6 +996,26 @@ These examples are not often the subject of discussion by contemporary economist
 
 ---
 
+### Sri Lanka Treasuries yields down across maturities
+
+*2024-12-24 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-down-across-maturities-196223/) · `en`
+
+ECONOMYNEXT – Sri Lanka Treasuries yields edged lower across maturities at Wednesday’s auction, with all 120 billion rupees of bills offered being sold, data from the state debt office showed.
+
+The 3 month yield fell 04 basis points to 8.62 percent, with all 30 billion rupees offered sold.
+
+The 6 month yield fell 04 basis points to 8.77 percent, with all offered 75 billion rupees of bills sold.
+
+The 12-month yield fell 06 basis points to 8.96 percent, with all 50 billion rupees of bills sold.
+
+All maturities are offered on tap after the auction. (Colombo/Dec18/2024)
+
+◼️
+
+[Data](articles/8acb342c.json)
+
+---
+
 ### අද ප්‍රධාන දේවමෙහෙය ජා-ඇළ වික්ෂෝප දේව මාතා දෙව්මැදුරේදී
 
 *2024-12-24 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204677) · `si`
@@ -957,6 +1033,28 @@ These examples are not often the subject of discussion by contemporary economist
 ...
 
 [Data](articles/dd23501e.json)
+
+---
+
+### Sri Lanka stocks close up, after early selling pressure
+
+*2024-12-24 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-early-selling-pressure-196220/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday ahead of the Christmas holiday, data on its site showed.
+
+The broader ASPI closed up 0.98 percent, or 147.79 points, at 15,168; while the more liquid S&P SL20 Index closed up 0.82 percent, or 36.83 points, at 4,535.
+
+Market sentiment has remained bullyish following the rating upgrade by Fitch Ratings, market participants have said. “This was a confidence booster.”
+
+Top positive contributors to the ASPI were Hayleys (up at 123.75), Central Finance (up at 184.25), C T Holdings (up at 329.75), Sampath Bank (up at 111.00), and Richard Pieris and Co (up at 26.90).
+
+Top turnover generators were Browns Investments (down at 6.80), Commercial Bank (up at 139.25), Sampath Bank, Royal Ceramics (up at 39.50), and Hatton National Bank (up at 284.25).
+
+Crossings were recorded on Commercial Bank, Royal Ceramics, Ambeon Capital (up at 23.40), Beruwala Resorts (up at 4.20), Dialog Axiata (up at 11.40), and The Kingsbury (up at 12.70).
+
+...
+
+[Data](articles/379460c7.json)
 
 ---
 
@@ -2193,81 +2291,5 @@ Prior to the main round, the Pro-A match will be held on January 5, 2025. It is 
 [Data](articles/669a632b.json)
 
 [Extended Data](ext_articles/669a632b.ext.json)
-
----
-
-### இலங்கை கடல்சார் பொருளாதாரத்தை முன்னேற்றும் நோக்கில் ஏற்றுமதி அபிவிருத்திச் சபையுடன் இணையும்  இலங்கை வங்கி!
-
-*2024-12-24 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202017) · `ta`
-
-இலங்கையின் முதன்மையான நிதி நிறுவனமான இலங்கை வங்கி, இலங்கை ஏற்றுமதி அபிவிருத்திச் சபையுடன் (EDB) இணைந்து கொழும்பில் 'மரைன் சம்மிட்: வொயேஜ் ஸ்ரீலங்கா 2024' (Marine Summit: Voyage Sri Lanka 2024) மாநாட்டை வெற்றிகரமாக நடாத்தியது.
-
-இந்த முக்கிய நிகழ்வில் 30-40 சர்வதேச பிரதிநிதிகள்  உட்பட 150 இற்கும் மேற்பட்டோர் பங்கேற்று கடல் மற்றும் கடல்சார் சேவைகள் மற்றும் படகு கட்டுமானத் தொழில் போன்றவற்றுக்கு இலங்கையின் புவியியல் ரீதியான இட அமைவின் முக்கியத்துவம் பற்றி கலந்தாய்ந்தனர்.
-
-இலங்கையின் நீல (கடல்சார்) பொருளாதாரத்தை முன்னேற்றுவதிலும் வெளிநாட்டு நேரடி முதலீட்டை ஈர்ப்பதிலும் இந்தத் துறைகள் வகிக்கும் முக்கிய பங்கை இந்த உச்சிமாநாடு எடுத்துக் காட்டியது.
-
-இந்த நிகழ்வில் கடல் மற்றும் கடல்சார் தொழில்களின் உலகளாவிய போக்குகள், சவால்கள் மற்றும் வாய்ப்புகள் பற்றிய அறிவார்ந்த உரையாடல்கள் இடம்பெற்றன. முதலீடுகளை ஈர்த்தல்,  மூலோபாய பங்காண்மைகளை உருவாக்குதல், பிராந்திய கடல்சார் பொருளாதாரத்தில் இலங்கையின் பங்கை விரிவுபடுத்துதல் என்பவற்றுக்கான புதிய புதிய அணுகுமுறைகள் தொடர்பில் பிரதிநிதிகள் ஆராய்ந்தனர்.
-
-...
-
-[Data](articles/b48c1600.json)
-
----
-
-### බන්ධනාගාර රැඳවියන් 389කට සමාව
-
-*2024-12-24 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204669) · `si`
-
-බන්ධනාගාර රැඳවියන් 389 දෙනෙකුට විශේෂ රාජ්‍ය සමාව යටතේ නිදහස් කිරීමට නියමිත බව බන්ධනාගාර දෙපාර්තමේන්තුව පවසයි.
-
-ඒ අනුව නත්තල් දිනයේ මහර බන්ධනාගාරයෙන් සිරකරුවන් 48, වාරියපොල බන්ධනාගාරයෙන් සිරකරුවන් 45ක් හා වැලිකඩ බන්ධනාගාරයෙන් සිරකරුවන් 41ක් අතුළුව දිවයිනේ සෑම බන්ධනාගාරයකින්ම එසේ සමාව ලැබුණු සිරකරුවන් නිදහස් කිරීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/09c1286a.json)
-
----
-
-### Sri Lanka rupee depreciates steeply to 297.00/50 to US dollar, bonds up
-
-*2024-12-24 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-depreciates-steeply-to-297-00-50-to-us-dollar-bonds-up-196054/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading weaker at 297.00/50 to the US dollar in the spot market, from 296.25/75 on Monday, while bond yields were up, dealers said.
-
-A bond maturing on 15.09.2027 was quoted at 9.77/87 percent, up from 9.55/75 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.10/20 percent, up from 10.05/20 percent.
-
-A bond maturing on 01.07.2028 was quoted at 10.40/45 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.55/80 percent, up from 10.65/80 percent.
-
-An auction of 120,000 million rupees of treasury bills was ongoing.
-
-In equities, the All Share Price Index was up 0.52 percent or 78.43 points, at 15,099.
-
-The more liquid S&P SL20 was up 0.36 percent, or 29.79 points, at 4,528.
-
-◼️
-
-[Data](articles/bfdb7fb6.json)
-
----
-
-### Veteran singer Priya Suriyasena passes away
-
-*2024-12-24 11:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104463/veteran-singer-priya-suriyasena-passes-away) · `en`
-
-Veteran Sri Lankan singer Priya Suriyasena has passed away at the age of 80.
-
-He has been receiving treatment at the Colombo National Hospital at the time of the passing, family sources said.
-
-Sarathchandra Priyadarshi Suriyasena Liyanage, popularly known as Priya Suriyasena first emerged as a talented local singer with the guidance of his father, who was a poet, and then rose to fame overnight when his first four songs were broadcast at the Sri Lanka Broadcasting Corporation (SLBC) in the 1970’s.
-
-Since then, he has retained his fame over five decades and produced most popular songs in Sri Lanka such as ‘Atha Ranviman’, ‘Mata Wasana’, ‘Adaraneeya Neranjana’, ‘Ratakin Eha’ and ‘Sudu Paravi Rena’.
-
-◼️
-
-[Data](articles/d18aca92.json)
 
 ---

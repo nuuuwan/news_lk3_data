@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 02:42:53**
+As of **2024-12-25 03:01:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,509 (99.4%) of 61,886 articles have been extended.
+61,510 (99.4%) of 61,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -854,23 +854,35 @@ He made this statement during a media briefing held today (24), emphasizing the 
 
 ---
 
-### முன்னேற்றத்தை நோக்கி தொடர்ந்து பணியாற்ற அனைவரையும் அன்புடன் அழைக்கின்றேன் - நத்தார் வாழ்த்தில் வடக்கு ஆளுநர்
+### I warmly invite everyone to continue to work towards progress - Northern Governor
 
 *2024-12-24 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202025) · `ta`
 
-புத்தாண்டை நெருங்கி வரும் இவ்வேளையில், எமது தேசத்துக்கு, அமைதி, செழிப்பு மற்றும் முன்னேற்றத்தை நோக்கி தொடர்ந்து பணியாற்ற உங்கள் அனைவரையும் அன்புடன் அழைக்கின்றேன் என வடமாகாண ஆளுநர் நா. வேதநாயகன் தனது கிறிஸ்துமஸ் வாழ்த்து செய்தியில் குறிப்பிட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-இந்த பாலன் பிறப்பை நாம் குடும்பத்தினருடனும் நண்பர்களுடனும் கொண்டாடுகையில் கிறிஸ்துமஸின் உண்மையான உணர்வை நினைவில் கொள்வோம்.
 
-அன்பை - கருணையைப் பரப்புதல், மகிழ்ச்சியைப் பகிர்ந்து கொள்ளுதல், மற்றவர்களுக்கு இரங்குதல் - உதவி செய்தல் மற்றும் அனைத்து சமூகங்களிடையேயும் நல்லிணக்கத்தை வளர்ப்பது என்ற எண்ணங்களை மனதிலிருத்துவோம்.
 
-இந்த மகிழ்ச்சியான பண்டிகையை நாம் கொண்டாடும்போது, எம்மைச் சூழ்ந்திருப்பவர்களில் உதவிகள் தேவைப்படுபவர்களுக்கு நம் இதயங்களையும் கைகளையும் நீட்டுவோம்.
+Northern Governor invites continued efforts for national progress, peace, and prosperity. Emphasizes Christmas spirit of love, mercy, and harmony. Encourages helping those in need as New Year approaches.
 
-புத்தாண்டை நெருங்கி வரும் இவ் வேளையில், வடக்கு மாகாணத்துக்கும் எமது தேசத்துக்கும், அமைதி, செழிப்பு மற்றும் முன்னேற்றத்தை நோக்கி தொடர்ந்து பணியாற்ற உங்கள் அனைவரையும் அன்புடன் அழைக்கின்றேன்.
+🟩
 
-...
+The Governor of the Northern Province, Na, is invited to all of you to continue to work towards our nation, peace, prosperity and progress.. Vedanayaka mentioned in his Christmas greeting message.
+
+When we celebrate this Balan birth with family and friends, let us remember the true feeling of Christmas.
+
+Let us consider the thoughts of love - spreading mercy, sharing happiness, gaining to others - helping and promoting harmony among all communities.
+
+As we celebrate this happy festival, we will extend our hearts and hands to those who need help in us.
+
+As the New Year is approaching, I warmly invite all of you to continue to work towards peace, prosperity and progress for the Northern Province and our nation.
+
+The news further stated that the light of Christmas will lead our paths, and let the blessings of this festival bring happiness and fulfillment to you and your families.
+
+◼️
 
 [Data](articles/047ef731.json)
+
+[Extended Data](ext_articles/047ef731.ext.json)
 
 ---
 

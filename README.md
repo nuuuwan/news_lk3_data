@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 04:43:05**
+As of **2024-12-25 05:01:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,516 (99.4%) of 61,887 articles have been extended.
+61,517 (99.4%) of 61,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1128,19 +1128,25 @@ A bond maturing on 15.09.2029 closed stable at 10.65/80 percent. (Colombo/Dec24/
 
 ---
 
-### රාජ්‍ය සේවක වැටුප් වැඩි කිරීම කවදා ද ?
+### What's the salary increase of public servants?
 
 *2024-12-24 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204679) · `si`
 
-ලබන වසරේ අනිවාර්යයෙන් රාජ්‍ය සේවකයින්ගේ වැටුප් වැඩිවීමක් සිදුවිය යුතු බව කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත මහතා පවසයි.
+Public servant salary hike planned for 2026, Deputy Minister Anil Jayantha confirms. Details to be included in upcoming budget.
 
-කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය මහාචාර්ය අනිල් ජයන්ත මහතා,
+🟩
 
-"අපිට ඕනේ නම් කියන්න තිබුණා ආර්ථිකය බිඳවැටිලා තියෙන්නේ දැන්... තව පොඩ්ඩක් ඉවසන්න...පටි තද කරගන්න කියලා. 2026දී කරන්නම් කියලා තර්කය ගේන්නත් පුළුවන්. නමුත් අපි එහෙම කරන්නේ නැහැ. අපි දන්නවා මිනිස්සු ජීවත්වෙන දුෂ්කරතාවය. අනිවාර්යයෙන්ම වැටුප් වැඩිවීමක් බලාපොරොත්තුවෙන්න පුළුවන්. ඒ විස්තර අයවැයෙන් ඉදිරිපත් කරන්නම්."
+Deputy Minister of Labor and Economic Development Prof. Anil Jayantha says that there should be a salary increase of public servants next year.
+
+Prof. Anil Jayantha, Deputy Minister of Labor Minister and Economic Development
+
+"We wanted to say the economy was collapsing now.. Get tolerate more ... to tighten the belts. You can bring in the argument that will be made 2026. But we don't. We know the difficulty people live. Will definitely a salary increase. Will submit that details in the budget. "
 
 ◼️
 
 [Data](articles/df57b088.json)
+
+[Extended Data](ext_articles/df57b088.ext.json)
 
 ---
 

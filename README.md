@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 23:43:42**
+As of **2024-12-25 00:02:50**
 
 ## Newspaper Stats
 
-*Scraped **61,880** Articles*
+*Scraped **61,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,910
 adaderanalk | 7,560
 tamilmirrorlk | 8,850
-virakesarilk | 10,235
+virakesarilk | 10,236
 adaderanasinhalalk | 10,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,497 (99.4%) of 61,880 articles have been extended.
+61,498 (99.4%) of 61,881 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -201,6 +201,8 @@ In December 2023, Hambantota Port said 22 cruise ships called at the Port with a
 ...
 
 [Data](articles/d72750fc.json)
+
+[Extended Data](ext_articles/d72750fc.ext.json)
 
 ---
 
@@ -775,6 +777,22 @@ He made this statement during a media briefing held today (24), emphasizing the 
 ...
 
 [Data](articles/c3c54cef.json)
+
+---
+
+### மஹிந்தவுக்கு ஐ.எஸ்.ஐ.எஸ் தாக்குதல் அச்சுறுத்தல் என்பது முற்றிலும் பொய்யானது - தேவானந்த சுரவீர
+
+*2024-12-24 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202065) · `ta`
+
+ஜனாதிபதி, பிரதமர் ஆகியோர் மக்கள் மத்தியில் அச்சமில்லாமல் செல்கிறார்கள். முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு ஐ.எஸ்.ஐ.எஸ் தாக்குதல் அச்சுறுத்தல் இருப்பதாக குறிப்பிடுவது முற்றிலும் பொய்யானது. முன்னாள் ஜனாதிபதிகளை பராமரிப்பதற்கு கோடி கணக்கில் அரசு செலவு செய்ய வேண்டிய தேவையில்லை என தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தேவானந்த சுரவீர தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு மற்றும் வழங்கப்படுகின்றன சிறப்பு சலுகைகளை குறைப்போம் என்று நாட்டு மக்களுக்கு வாக்குறுதியளித்தோம். நாட்டு மக்களும் இதனை முழுமையாக ஏற்றுக் கொண்டார்கள். துறைசார் நிபுணத்துவ குழுவின் அறிக்கைக்கு அமையவே முன்னாள் ஜனாதிபதிகளுக்கு வழங்கப்பட்டிருந்த இராணுவ பாதுகாப்பு மீளப்பெறப்பட்டு, போதுமான அளவுக்கு பொலிஸ் பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதிகள் அனைவருக்கும் வழங்கப்பட்டிருந்த இராணுவ பாதுகாப்பு முழுமையாக நீக்கப்பட்டுள்ளது. ஆனால் மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு குறித்து மாத்திரம் தான் அதிகளவில் பேசப்படுகிறது.
+
+...
+
+[Data](articles/445a443f.json)
 
 ---
 
@@ -2267,29 +2285,5 @@ Consequently, the Indian government is set to provide Rs. 2,371 million for thes
 [Data](articles/5491c40e.json)
 
 [Extended Data](ext_articles/5491c40e.ext.json)
-
----
-
-### DFCC Bank sponsor the first -time International Faldo Golf Tournament in Sri Lanka
-
-*2024-12-24 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/202018) · `ta`
-
-DFCC Bank sponsors inaugural Faldo Golf Tournament in Sri Lanka. Event features Faldo Junior Golf and PRO-AM 2025 at Royal Golf Corporation from Jan 7-9, 2025. Exclusive for DFCC Pinnacle customers, offering unique golfing experience with young talent.
-
-🟩
-
-DFCC Bank proudly announced its role in the international Faldo Junior Golf Tournament and the PRO-AM 2025 event. This has become a very important record milestone for Sri Lanka's chance to hold this most famous event for the first time.
-
-It will be held at the Golf Corporation of Royal from January 7, 2025 to 9.
-
-Faldo Series, the world's most rewarded Junior Golf, is the most popular Junior Golf competition founded in 1996 by the renowned player Sir Nick Faldo, who won the Major Champion title six times.
-
-Prior to the main round, the Pro-A match will be held on January 5, 2025. It is noteworthy that this unique competition, which is exclusively for the DFCC Pinnacle customers, will provide an unforgettable opportunity to play with the next generation of golf talented and provide a great experience.
-
-◼️
-
-[Data](articles/669a632b.json)
-
-[Extended Data](ext_articles/669a632b.ext.json)
 
 ---

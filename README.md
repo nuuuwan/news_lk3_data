@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 12:43:21**
+As of **2024-12-24 13:01:41**
 
 ## Newspaper Stats
 
-*Scraped **61,782** Articles*
+*Scraped **61,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,742
 economynextcom | 3,762
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,894
-adaderanalk | 7,548
+adalk | 5,895
+adaderanalk | 7,551
 tamilmirrorlk | 8,843
 virakesarilk | 10,204
 adaderanasinhalalk | 10,672
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,441 (99.4%) of 61,782 articles have been extended.
+61,443 (99.4%) of 61,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
+
+### Sri Lanka awards 2025 crude oil procurement contract to Singapore-based firm
+
+*2024-12-24 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104469/sri-lanka-awards-2025-crude-oil-procurement-contract-to-singapore-based-firm) · `en`
+
+The government of Sri Lanka has approved the granting of the long-term contract for the purchase of 06 Murban crude oil tankers during the period from 01 April 2025 to 31 August 2025.
+
+Bids were invited from registered suppliers of the Ceylon Petroleum Corporation (CPC) for the purchase of 06 Murban crude oil tankers during the period from 01 April 2025 to 31 August 2025. Accordingly, six bids have been received pertaining to the procurement.
+
+Thus, the proposal submitted by the Minister of Energy to award the relevant procurement to M/s Aditya Birla Global Trading (Singapore) Pte. Ltd based on the recommendation of the Special Standing Procurement Committee appointed by the Cabinet was approved by the Cabinet.
+
+◼️
+
+[Data](articles/f5fe107e.json)
+
+---
 
 ### Resolution to pay compensation to farmers affected by inconsistent climate
 
@@ -53,6 +69,38 @@ Cabinet Spokesperson Minister Nalinda Jayatissa said this at a media briefing to
 [Data](articles/b013dfec.json)
 
 [Extended Data](ext_articles/b013dfec.ext.json)
+
+---
+
+### New Director General of Combined Services appointed
+
+*2024-12-24 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104468/new-director-general-of-combined-services-appointed-) · `en`
+
+N. U. N. Mendis, a Special Grade Officer of the Sri Lanka Administrative Service, who is currently serving as an Additional Director General of the National Budget Department, has been appointed as the Director General of the Combined Services.
+
+The post of Director General of the Combined Services has fallen vacant, following the appointment of S. Aloka Bandara, a Special Grade Officer of the Sri Lanka Administrative Service to the post of Secretary to the Ministry of Public Administration, Provincial Councils and Local Government.
+
+Considering the wide scope of duties assigned to the post of Director General of the Combined Services, it is necessary to appoint an officer to the post on a permanent basis, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
+
+Accordingly, the proposal made by the Minister of Public Administration, Provincial Councils and Local Government, to appoint N. U. N. Mendis has received the Cabinet approval.
+
+◼️
+
+[Data](articles/5239a8d8.json)
+
+---
+
+### Sri Lanka to strengthen legislation on illegal poaching in territorial waters
+
+*2024-12-24 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104467/sri-lanka-to-strengthen-legislation-on-illegal-poaching-in-territorial-waters) · `en`
+
+The Cabinet of Ministers has greenlighted the drafting of new bill to strengthen the legislations pertaining to illegal and unregulated poaching activities in the Sri Lankan waters, while repealing the Fisheries and Aquatic Resources Act No. 2 of 1996 which is currently in place.
+
+The Fisheries and Aquatic Resources Act No. 2 of 1996 has been amended on 8 occasions thus far, and steps have been taken on several occasions to repeal the said Act and introduce a new Act, but the related work has not been completed yet.
+
+...
+
+[Data](articles/9a418fc7.json)
 
 ---
 
@@ -134,17 +182,23 @@ The seized boats, along with the Indian fishermen, were brought to the Talaimann
 
 ---
 
-### அரிசி இறக்குமதிக்கான கால அவகாசம் நீடிப்பு
+### Period of Time for Rice Import
 
 *2024-12-24 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202022) · `ta`
 
-அரிசி இறக்குமதிக்கான அனுமதியை ஜனவரி மாதம் 10 ஆம் திகதி வரை நீடிக்க அமைச்சரவை அனுமதி வழங்கியுள்ளதாக அமைச்சரவைப் பேச்சாளர் தெரிவித்துள்ளார்.
+Rice import period extended to Jan 10: Cabinet decision announced by Minister Nalinda Jayatissa on Tuesday.
 
-இன்று செவ்வாய்க்கிழமை (24) நடைபெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடக சந்திப்பில் அமைச்சரவைப் பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ இதனை தெரிவித்துள்ளார்.
+🟩
+
+The Cabinet spokesman said that the Cabinet has granted permission for the importation of rice until January 10.
+
+Cabinet Spokesperson Minister Nalinda Jayatissa said this at a media briefing to announce the Cabinet decisions held on Tuesday (24).
 
 ◼️
 
 [Data](articles/16107e8a.json)
+
+[Extended Data](ext_articles/16107e8a.ext.json)
 
 ---
 
@@ -196,21 +250,31 @@ Accordingly, the Cabinet paper presented by the Minister of Highways, Ports and 
 
 ---
 
-### Muthoot Finance மற்றும் Asia Asset Finance - 10 ஆண்டு சாதனை பயணம்
+### Muthoot Finance and Asia Asset Finance - 10 Year Adventure Trip
 
 *2024-12-24 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/202019) · `ta`
 
-137 ஆண்டு கால வரலாற்றுடன், இந்தியாவின் முன்னணி, வங்கி அல்லாத நிதி நிறுவனமாகத் திகழ்ந்து வருகின்ற Muthoot Finance மற்றும் இலங்கையிலுள்ள நிறுவனமான Asia Asset Finance PLC ஆகியன தமது கூட்டாண்மையின் ஒரு தசாப்தகால நிறைவை பெருமையுடன் கொண்டாடுகின்றன.
+Here's a summary of 200 characters:
 
-கடந்த 10 ஆண்டுகளில் இந்த ஒத்துழைப்பு கடந்த ஒரு தசாப்த காலத்தில் இரு நாடுகளுக்குமிடையில் நிதிச் சேவைகளுக்கு மீள்வரைவிலக்கணம் வகுத்து, புத்தாக்கத்தை கொண்டு வந்து, நிதியியல்ரீதியான அரவணைப்பை வளர்த்து, நற்பயன்மிக்க முயற்சிகள் மூலமாக சமூகங்களுக்கு வலுவூட்டியுள்ளது.
 
-ஐந்து தசாப்தங்களுக்கும் மேலான நிபுணத்துவத்தைக் கொண்டுள்ள Asset Finance PLC, தங்கக்கடன்கள், குத்தகை, அடமானக் கடன்கள், நிலையான வைப்புக்கள் மற்றும் நவீன டிஜிட்டல் நிதித் தீர்வுகளை வழங்கி, வருகின்றது.
 
-இலங்கை எங்கிலும் இதன் வலுவான பிரசன்னம் மற்றும்  “Great Place to Work” அங்கீகாரம் ஆகியன, மதிப்பினால் முன்னெடுக்கப்படுகின்ற நிதித் தீர்வுகளை வழங்கும் அதேசமயம், அரவணைப்பு மற்றும் புத்தாக்கம் கொண்ட கலாச்சாரத்தை வளர்ப்பதில் அதன் ஓயாத அர்ப்பணிப்பைப் பிரதிபலிக்கின்றது.
+Muthoot Finance & Asia Asset Finance celebrate 10-year alliance. India's leading NBFI & Sri Lanka's Asset Finance Plc strengthen financial services, innovate, develop communities. Asset Finance provides gold loans, leasing, mortgages, deposits, digital solutions. Recognized as "Great Place to Work", committed to cultural warmth and innovation.
+
+🟩
+
+With 137 years of history, India's leading and non -bank financial institution, Muthoot Finance and Sri Lanka's ASSET Finance Plc, are proudly celebrating a decade of their alliance.
+
+Over the past 10 years, this cooperation has been reinforced by the two countries over the last one decade, bringing the reinforcement to financial services, bringing innovations, developing financial warmth and reinforcing communities through a good -looking effort.
+
+The Asset Finance PLC, which has more than five decades, has been providing gold loans, leasing, mortgage loans, standard deposits and modern digital financial solutions.
+
+Its strong presence in Sri Lanka and the "Great Place to Work" recognition reflects its unprecedented commitment to developing the culture of warmth and innovation, while providing the financial solutions carried out by value.
 
 ◼️
 
 [Data](articles/279c7ca5.json)
+
+[Extended Data](ext_articles/279c7ca5.ext.json)
 
 ---
 
@@ -519,6 +583,24 @@ Due to the shortage of rice in the domestic market, the Sri Lanka State Trading 
 ...
 
 [Data](articles/73cf18b3.json)
+
+---
+
+### ජාඇල නිවෙසකට වෙඩි වරුසාවක්
+
+*2024-12-24 10:39:55* · [`adalk`](https://www.ada.lk/breaking_news/ජාඇල-නිවෙසකට-වෙඩි-වරුසාවක්/11-413813) · `si`
+
+ජාඇල පොලිස් වසමේ නිවෙසකට T 56 ගිනි අවියකින් ප්‍රහාරයක් එල්ල කර ඇති බව පොලීසිය ට පවසයි.
+
+මෙම වෙඩි ප්‍රහාරය 24 දින අලුයම් කාලයේ දී සිදුව තිබෙන බව පොලිසිය සඳහන් කරයි. ජාඇල වැලිගම්පිටිය ශාන්ත ආනා මාවතේ නිවසකට වෙඩි ප්‍රහාරය එල්ල වී ඇත. වෙඩි තැබීම සදහා පුද්ගලයන් දෙදෙනෙකු යතුරු පැදියකින් පැමිණ ටී 56 ගිනි අවියකින් වෙඩි ප්‍රහාර 38 ක් එල්ල කර ඇතැයි පොලිසිය කියයි.
+
+නිවාස 03 කට මෙම වෙඩි ප්‍රහාරය එල්ල වී ඇති අතර සැකකරුවන් ගේ ඉලක්කය වී ඇතැයි සැකකෙරෙන නිවසේ පුද්ගලයන් කිසිවකු වෙඩි ප්‍රහාරය එල්ල වන අවස්ථාවේ සිට නොමැත. වෙඩි වැදී ඇති තවත් නිවසක පුද්ගලයන් වෙඩි තැබීම සිදු වන අවස්ථාවේ විනෝද ගමනකට සහභාගී වෙමින් සිට ඇත. වෙඩි ප්‍රහාරයේ ඉලක්කය වී ඇතැයි පොලිසිය සැකකරන නිවසට ඉකුත් 15 දිනද මේ ආකාරයට ම වෙඩි ප්‍රහාරයක් එල්ල කර තිබෙන බවද පොලිසිය පවසයි.
+
+මෙම වෙඩි තැබීමට ආදාලව පරීක්ෂණ කටයුතු සදහා පොලිස් කණ්ඩායම් කිහිපයක් ම යොදවා තිබෙන බව පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/ea6d19db.json)
 
 ---
 
@@ -2039,107 +2121,5 @@ He quit the job as he was hesitant to be engaged in defrauding people in the cou
 [Data](articles/c091e53d.json)
 
 [Extended Data](ext_articles/c091e53d.ext.json)
-
----
-
-### Tenders called for imports
-
-*2024-12-23 18:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204650) · `si`
-
-State Commerce Corporation calls international tenders for salt import due to shortage. Tender process begins on 21st. Local manufacturers request direct import but government decides to proceed through tender. 30,000 metric tons to be imported. Accelerating process urged to prevent contract issues.
-
-🟩
-
-International tenders have been called by the State Commerce Corporation in relation to the importation of salt.
-
-Cabinet approval was approved last week to import a shortage of salt in the first quarter of 2025 due to the inclement weather in the country.
-
-The State Commerce Corporation was approved by the State Commercial Various Corporation by the State Commercial Various Corporation of Sri Lanka and to supply the oil to local salt manufacturers to the market.
-
-Accordingly, the State Commerce Corporation has taken steps to call tenders from eligible international suppliers to import salt.
-
-The State Commercial Various Corporation says that the tenders were called on the 21st and the State Commerce Corporation said.
-
-Although local manufacturers have requested permission to import salt directly, the Ministry of Trade has been decided to do so from the government party.
-
-...
-
-[Data](articles/3805e584.json)
-
-[Extended Data](ext_articles/3805e584.ext.json)
-
----
-
-### හදිසි රෝග තත්ත්වයකදී පමණක් ‘1990’ අමතන්න
-
-*2024-12-23 18:49:49* · [`adalk`](https://www.ada.lk/breaking_news/හදිසි-රෝග-තත්ත්වයකදී-පමණක්-‘1990’-අමතන්න/11-413805) · `si`
-
-හදිසි රෝග තත්ත්වයකදී පමණක් ‘1990’ සුවසැරිය ගිලන් රථ සේවාව භාවිත කරන ලෙස ශ්‍රී ලංකා හදිසි ප්‍රතිකාර විශේෂඥ වෛද්‍යවරුන්ගේ සංගමය ඉල්ලා සිටියි.
-
-එහි සභාපති, විශේෂඥ වෛද්‍ය ඉනුක ගුණවර්ධන මහතා පෙන්වා දෙන්නේ, සුළු රෝග තත්ත්වවලදී පවා ජනතාව සුවසැරිය ඇමතීම එහි කාර්යමණ්ඩලයට මෙන්ම, හදිසි රෝගී සත්කාර කටයුතුවලටද බාධාවක් වී ඇති බවයි.
-
-ඒ අනුව ජනතාවද බුද්ධිමත්ව කටයුතු කළ යුතු බව ඔහු පෙන්වා දුන්නේය.
-
-මේ අතර හදිසි රෝග තත්ත්වයකදී රෝහලට පැමිණි පසු බාහිර රෝගී අංශයට (OPD) ගොස්, ‘චැනල් කරමින් කාලය ‘කා නොදමා හදිසි ප්‍රතිකාර ඒකකයට යන ලෙසද හදිසි ප්‍රතිකාර විශේෂඥ වෛද්‍යවරුන් ජනතාවගෙන් ඉල්ලා සිටියි.
-
-ඔවුහු වැඩිදුරටත් පෙන්වා දෙන්නේ, හෘදයාබාධ, ආඝාත, හදිසි අනතුරු, ආසාදන සංකූලතා, ශ්වසන ආබාධ සඳහා හදිසි ප්‍රතිකාර ලබා දිය යුතු බවයි.
-
-◼️
-
-[Data](articles/e557da60.json)
-
----
-
-### Will the electricity tariff be revised?
-
-*2024-12-23 18:39:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரக்-கட்டணம்-திருத்தப்படுமா/175-349167) · `ta`
-
-Electricity tariff revision: Public Utilities Commission to hold oral sessions starting 27th. Proposals suggest 10-20% reduction. Public opinion sought on CEB's submission. Process begins 17th.
-
-🟩
-
-The Sri Lanka Public Utilities Commission said that oral sessions on the issue of the power tariff revision will commence on the 27th of this month.
-
-Public opinions will be obtained on the proposal submitted by the Electricity Board and the Public Utilities Commission on the issue of the tariff amendment.
-
-The Ceylon Electricity Board (CEB) recently submitted proposals to the Public Utilities Commission not to be amended for the next six months.
-
-The Public Utilities Commission stated that there is a possibility of reducing electricity tariffs from 10 to 20 percent when proposing reply proposals.
-
-The Public Utilities Commission said that the process of receiving the public's views on these proposals began on the 17th and the oral sessions were to be launched in Kandy on the 27th of this month.. Remble
-
-◼️
-
-[Data](articles/b8fedc04.json)
-
-[Extended Data](ext_articles/b8fedc04.ext.json)
-
----
-
-### Childlessly died unfortunately after a surgery
-
-*2024-12-23 18:39:38* · [`adalk`](https://www.ada.lk/breaking_news/සැත්කමකින්-පසු-සිහිය-නොලබාම-අවාසනාවන්ත-ලෙස-මිය-ගිය-දරුවා/11-413804) · `si`
-
-Child dies after surgery at Sri Jayewardenepura Hospital. Relatives claim hospital staff negligence. Police investigating. Post-mortem scheduled at Colombo National Hospital.
-
-🟩
-
-Relatives have lodged a complaint with the police stating that the staff of the hospital is responsible for surgery, a 9-year-old boy who has been admitted to the Sri Jayewardenepura Hospital.
-
-The deceased has been identified as the fourth year of the Horana Vidyalaya, Horana College, Horana College, a resident of Haldutota, Haltota, Pitudagamuwa.
-
-Police say a doctor at the Sri Jayewardenepura Hospital has been admitted to the Sri Jayewardenepura Hospital at a Piliyanpura Hospital at a Piliyanpura Hospital.
-
-The following day (18) was anestheiling for surgery at about 01.30 pm, but the child has not received consciousness.
-
-Lady of Borella Ridden Hospital, Borella Ridgeway Children, had been admitted to the police for further treatment on the demand of parents and relatives.The complaint states.
-
-A senior police officer said that the abundant copy of the loyalty to the Mirihana Police by relatives had taken place to the police in the Borella Police Division.
-
-...
-
-[Data](articles/70e04fb0.json)
-
-[Extended Data](ext_articles/70e04fb0.ext.json)
 
 ---

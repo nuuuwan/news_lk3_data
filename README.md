@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 16:02:00**
+As of **2024-12-24 16:15:19**
 
 ## Newspaper Stats
 
-*Scraped **61,821** Articles*
+*Scraped **61,822** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
-colombotelegraphcom | 625
+colombotelegraphcom | 626
 bbccomsinhala | 652
 islandlk | 3,744
 economynextcom | 3,767
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,459 (99.4%) of 61,821 articles have been extended.
+61,459 (99.4%) of 61,822 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1318,6 +1318,22 @@ Additionally, the Treasury Secretary has provided instructions on the procedures
 
 ---
 
+### Sickening Behaviour By NOC Committee
+
+*2024-12-24 10:25:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sickening-behaviour-by-noc-committee/) · `en`
+
+The National Olympic Committee of Sri Lanka has become another organisation under the spotlight for corruption in our nation. The absolute impunity and craftiness of its Executive Committee were exposed after
+
+the inquiry into the corrupt practices of the Secretary. Yet, he remains without any shame using a majority within the Committee who have benefited from his largesse using NOC funding and perks.
+
+Many news reports were published about the corrupt practices within the NOC, which was directed towards the longest-standing Secretary Maxwell de Silva. Quite like the Rajapaksa regime, it was a free-for-all as long as the Secretary had a stranglehold of his position.
+
+...
+
+[Data](articles/64326343.json)
+
+---
+
 ### නැගෙනහිර සංවර්ධනයට ඉන්දියාවෙන් රු බි 2.3ක ප්‍රදානයක්
 
 *2024-12-24 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204664) · `si`
@@ -2131,21 +2147,5 @@ Daulagala is an Associate of the Chartered Institute of Management Accountants (
 [Data](articles/9a4269d2.json)
 
 [Extended Data](ext_articles/9a4269d2.ext.json)
-
----
-
-### LKI-ICRC seminar discusses contemporary challenges concerning AI and Autonomous Weapons Systems
-
-*2024-12-24 02:48:12* · [`dailyftlk`](https://www.ft.lk/news/LKI-ICRC-seminar-discusses-contemporary-challenges-concerning-AI-and-Autonomous-Weapons-Systems/56-770966) · `en`
-
-The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), in collaboration with the International Committee of the Red Cross (ICRC) hosted a panel discussion titled, “Artificial Intelligence (AI), Autonomous Weapons Systems (AWS) and contemporary challenges” at the LKI Lighthouse Auditorium on 19 December 2024.
-
-It was attended by diplomats, representatives of international organisations, senior officials of relevant Ministries and agencies, military personnel, leading researchers and university students.
-
-...
-
-[Data](articles/034c2688.json)
-
-[Extended Data](ext_articles/034c2688.ext.json)
 
 ---

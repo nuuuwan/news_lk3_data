@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 20:43:20**
+As of **2024-12-24 21:01:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,684
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,484 (99.4%) of 61,858 articles have been extended.
+61,485 (99.4%) of 61,858 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -226,21 +226,37 @@ The current Minister of Foreign Minister Vijith Herath was appointed as the Chai
 
 ---
 
-### මහර බන්ධනාගාර ගැටුම - නීතිපතිගේ ලිපියට එරෙහිව අධිකරණයට පෙත්සමක්
+### Mahara Prison clash - petition against the Attorney General's letter
 
 *2024-12-24 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204683) · `si`
 
-2020 වසරේ මහර බන්ධනාගාරය තුළ ඇතිවූ ගැටුම්වලින් සිරකරුවන් 11 දෙනෙකු මරණයට පත්වීමේ සිද්ධියට අදාළ සැකකරුවන් අත්අඩංගුවට ගෙන ඉදිරිපත් කරන ලෙස වැලිසර මහේස්ත්‍රාත් අධිකරණය දුන් නියෝගයට අදාළ නඩු කටයුත්ත අවසන් කරන ලෙස නීතිපතිවරයා විසින් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට යොමුකර තිබෙන ලිපියක් බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා අභියාචනාධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබේ.
+Here's a summary of 200 characters:
 
-අදාල සිද්ධියෙන් මියගිය සම්පත් පුෂ්ප කුමාර නැමැති සිරකරුගේ බිරිඳ වන එම් ජී ලසන්ති නමැත්තිය විසින් මෙම පෙත්සම ඉදිරිපත් කළාය.
 
-එම පෙත්සමේ වගඋත්තරකරුවන් ලෙස නීතිපතිවරයා, අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයා සහ  වැලිසර මහෙස්ත්‍රාත්වරයාව නම්කර තිබේ.
 
-පෙත්සම්කාරිය සිය පෙත්සම තුළින් කියා සිටින්නේ 2020 නොවැම්බර් 29 වනදා මහර බන්ධනාගාරය තුළ ඇති වූ ගැටුම්වලින් සිදුකළ වෙඩිතැබීම් හේතුවෙන් එහි රඳවා සිටි සිරකරුවන් 11 දෙනකු මරණයට පත් වූ බවයි.
+Petition filed against AG over Mahara Prison clash probe closure. Inmates' families seek justice for 11 deaths. AG claims CID investigation complete, but petitioners demand reopening.
+
+🟩
+
+The Attorney General's Court presents a petition to the Criminal Investigation Rit command to issue the suspects to the Criminal Investigation Committee to be arrested and sent to the CID.Has been done.
+
+The wife of MG Lasantant, the wife of the victim, killed the victim, Sampath Pushpa Pushpair Kumara.
+
+The Attorney General has named the Attorney General, Director of the Criminal Investigation and the Welisara Magistrate.
+
+The petitioner says that 11 inmates were killed due to shooting in the Mahara Prison on November 29, 2020.
+
+The petition (Welisara Magistrate) counsel was issued to the CID and announce the suspects in the event.
+
+But on August 30, the Attorney General said the petitioner said that the criminal investigation department was completed and had been asked to be closed down.
+
+The Prison authorities say that the minimum imposed in the Mahara Prison has been implemented in the post-handed test decision on his own manner.The petition states.
 
 ...
 
 [Data](articles/733192f0.json)
+
+[Extended Data](ext_articles/733192f0.ext.json)
 
 ---
 

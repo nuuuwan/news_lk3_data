@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 09:16:12**
+As of **2024-12-24 09:43:36**
 
 ## Newspaper Stats
 
-*Scraped **61,733** Articles*
+*Scraped **61,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,742
 economynextcom | 3,758
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,888
+adalk | 5,889
 adaderanalk | 7,536
-tamilmirrorlk | 8,838
+tamilmirrorlk | 8,839
 virakesarilk | 10,192
 adaderanasinhalalk | 10,662
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,422 (99.5%) of 61,733 articles have been extended.
+61,425 (99.5%) of 61,735 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,37 +178,49 @@ When a country is placed on the Financial Action Task Force (FATF) grey list, it
 
 ---
 
-### குடும்பஸ்தர் மயங்கி வீழ்ந்து உயிரிழப்பு
+### Dies
 
 *2024-12-24 03:14:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பஸ்தர்-மயங்கி-வீழ்ந்து-உயிரிழப்பு/175-349191) · `ta`
 
-யாழ்ப்பாணத்தில் மோட்டார் சைக்கிளில் வீதியில் பயணித்துக் கொண்டிருந்த குடும்பஸ்தர் ஒருவர் திடீரென மயங்கி வீழ்ந்து உயிரிழந்தார்.
+Family member dies after falling off motorcycle in Jaffna while delivering bananas.
 
-நீர்வேலியில் அமைந்துள்ள வாழைக்குலைச் சங்கத்துக்கு நேற்று திங்கட்கிழமை வாழைக்குலையைக் கொடுப்பதற்காக மோட்டார் சைக்கிளில் அவர் சென்றுகொண்டிருந்தார். இதன்போது அவர் திடீரென வீதியில் மயங்கி வீழ்ந்துள்ளார்.
+🟩
 
-அவரை யாழ். போதனா வைத்தியசாலைக்குக் கொண்டு சென்ற வேளை அவர் ஏற்கனவே உயிரிழந்துவிட்டார் என்று தெரிவிக்கப்பட்டது. (a)
+A family member who was traveling on a motorcycle on a motorbike in Jaffna suddenly fell unconscious and died.
+
+He was riding on a motorbike to give a banana to the Banana Sangam on Monday. He suddenly fell on the street.
+
+Him. It was reported that he had already died when she took the teaching hospital. (A)
 
 ◼️
 
 [Data](articles/dfd08288.json)
 
+[Extended Data](ext_articles/dfd08288.ext.json)
+
 ---
 
-### இராணுவ அதிகாரி மாரடைப்பால் உயிரிழப்பு
+### Militant officer death of a heart attack
 
 *2024-12-24 03:09:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-அதிகாரி-மாரடைப்பால்-உயிரிழப்பு/175-349190) · `ta`
 
-பலாலி இராணுவ முகாமில் கடமையாற்றிய சார்ஜன் தர அதிகாரி ஒருவர் மாரடைப்புக் காரணமாக உயிரிழந்தார்.
+Sergeant Ravitha Rangana Dissanayake, 35, died of heart attack while on duty at Palali army camp. He joined SL army in 2007 and was admitted to hospital for heartburn before passing away.
 
-குருநாகலைச் சேர்ந்த ரவித்த ரங்கன திஸாநாயக்க (வயது 35) எனும் இரண்டு பிள்ளைகளின் தந்தையே உயிரிழந்தார்.
+🟩
 
-2007 ஆம் ஆண்டு இலங்கை இராணுவத்தில் இணைந்து கொண்ட அவர் பலாலி இராணுவ முகாமில் கடமையாற்றி வந்தார்.
+A sergeant officer who was on duty at the Palali army camp died of a heart attack.
 
-நேற்றுமுன்தினம் ஞாயிற்றுக்கிழமை காலை நெஞ்சுவலி காரணமாக பலாலி இராணுவ வைத்தியசாலையில் சேர்க்கப்பட்ட அவர், உடனடியாக யாழ். போதனா வைத்தியசாலைக்கு மேலதிக சிகிச்சைக்காக மாற்றப்பட்டார். எனினும், அவர் நேற்றுமுன்தினம் நண்பகல் உயிரிழந்துள்ளார். (a)
+Ravitha Rangana Dissanayake (age 35) from Kurunegala died.
+
+He joined the Sri Lankan army in 2007 and served at the Palali Army camp.
+
+He was admitted to the Palali Army Hospital on Sunday morning due to a heartburn.. Transferred to the Teaching Hospital for further treatment. However, he died yesterday afternoon. (A)
 
 ◼️
 
 [Data](articles/4801c92f.json)
+
+[Extended Data](ext_articles/4801c92f.ext.json)
 
 ---
 
@@ -310,19 +322,29 @@ The Indian CEO Forum (ICF) President Kishore Reddy (centre) last week met with t
 
 ---
 
-### நிதியிடலை ஒழிப்பதற்கான கட்டமைப்பு தொடர்பில் கலந்துரையாடல்
+### Discussion on the structure of the abolition of financial
 
 *2024-12-24 02:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதியிடலை-ஒழிப்பதற்கான-கட்டமைப்பு-தொடர்பில்-கலந்துரையாடல்/175-349188) · `ta`
 
-பணம் தூயதாக்கலுக்கெதிரான மற்றும் பயங்கரவாதத்திற்கு நிதியிடலை ஒழிப்பதற்கான ஆசிய பசுபிக் குழுவின் மூலம் நடத்தப்பட இருக்கும் இலங்கையின் பரஸ்பர மதிப்பீட்டிற்கான முக்கிய தயார்படுத்தல் கூட்டம் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் நேற்று (23) பிற்பகல் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+Sri Lanka's anti-terrorism finance committee met at the Presidential Office. The Financial Psychology Division urged swift implementation of Cabinet-approved programs for 24 entities. President stressed a robust structure is crucial for eradicating terror financing and improving international economic confidence.
 
-இந்தக் கூட்டத்தில் அமைச்சர்கள், செயலாளர்கள் மற்றும் இலங்கை மத்திய வங்கியினதும் நிதியியல் உளவறிதல் பிரிவினதும் அதிகாரிகள் ஆகியோர் கலந்து கொண்டனர்.
+🟩
 
-அமைச்சுகள், ஒழுங்குமுறைப்படுத்தல் நிறுவனங்கள் மற்றும் சட்ட அமுலாக்கல் முகவராண்மை நிறுவனங்கள் உள்ளடங்கலாக தொடர்புள்ள 24 நிறுவனங்களுக்காக வடிவமைக்கப்பட்ட அமைச்சரவை அங்கீகாரம் வழங்கப்பட்ட திட்டங்களை துரிதமாக நடைமுறைப்படுத்துவதன் அவசியத்தை நிதியியல் உளவறிதல் பிரிவு இங்கு வலியுறுத்தியது.
+The main preparation meeting for Sri Lanka's mutual assessment to be held by the Asia Pacific Committee on the Eradication of Funding for Pure Currency and Eradication of Terrorism was held at the Presidential Office yesterday (23).
 
-...
+The meeting was attended by ministers, secretaries and officials of the Central Bank of Sri Lanka and the Financial Psychology Division.
+
+The Financial Psychology Division emphasized the need to expedite the Cabinet accredited programs designed for 24 companies, including ministries, regulatory institutions and law enforcement agencies.
+
+The President pointed out that a strong and effective structure is essential for the eradication of pure and terrorism to protect Sri Lanka's financial institution and improve international confidence in the country's economy and to get favorable results through it.
+
+Deputy Minister of Finance and Planning Harshana Suriyapperuma and President's Secretary Dr. Nandika Sanath Kumanayake also joined the discussion.. (A)
+
+◼️
 
 [Data](articles/0689e05a.json)
+
+[Extended Data](ext_articles/0689e05a.ext.json)
 
 ---
 
@@ -780,6 +802,26 @@ In addition, Hatton police have also announced that legal action will be taken a
 
 ---
 
+### ஹட்டன் பஸ் விபத்து:  அதிர்ச்சித் தகவல் வெளியானது
+
+*2024-12-23 21:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹட்டன்-பஸ்-விபத்து-அதிர்ச்சித்-தகவல்-வெளியானது/150-349172) · `ta`
+
+ஹட்டனில் இருந்து கண்டி நோக்கி பயணித்த தனியார் பஸ் மல்லியப்பு பகுதியில் கடந்த 21ஆம் திகதி விபத்துக்குள்ளான நிலையில், குறித்த பஸ் இன்று நுவரெலியா மாவட்ட மோட்டார் வாகன பரிசோதகரால் பரிசோதிக்கப்பட்டது.
+
+குறித்த பரிசோதனையில், பஸ் சாரதியின் கதவு பூட்டு பழுதடைந்ததால், திடீரென கதவு திறந்ததால், சாரதி இருக்கையில் இருந்து தூக்கி வீசப்பட்டது தெரியவந்தது.
+
+ஹட்டன் பொலிஸ் போக்குவரத்து பிரிவு அதிகாரிகளின் கோரிக்கைக்கு அமைய பிரதான மோட்டார் வாகன பரிசோதகரின் சோதனைக்கு உட்படுத்தப்பட்ட பஸ் தற்போது பொலிஸ் காவலில் வைக்கப்பட்டுள்ளது.
+
+பஸ்ஸின் இருக்கைகள் தரமான முறையில் அமைக்கப்படாததால், அனைத்து இருக்கைகளும் கழன்று ஒன்றுடன் ஒன்று மோதி பலத்த காயங்களுக்கு உள்ளானதாகவும் பரிசோதகர் குறிப்பிட்டுள்ளார்.
+
+மேலும், தரமற்ற நிலையில் இருந்த பஸ்ஸை இயக்க அனுமதித்த பஸ்ஸின் உரிமையாளருக்கு எதிராக ஹட்டன் நீதவான் நீதிமன்றத்தில் சட்ட நடவடிக்கை எடுக்கப்படும் எனவும் ஹட்டன் பொலிஸார் அறிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/f2410872.json)
+
+---
+
 ### වෙළෙඳ ඇමති ආනයනකරුවන්ට දුන් පොරොන්දුව
 
 *2024-12-23 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204653) · `si`
@@ -953,6 +995,24 @@ Especially the food category inflation has been reduced to 1.3% to 0.0% in Octob
 [Data](articles/23530258.json)
 
 [Extended Data](ext_articles/23530258.ext.json)
+
+---
+
+### බිත්තර තොග මිල රු.20 දක්වා පහතට
+
+*2024-12-23 19:12:46* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-තොග-මිල-රු-20-දක්වා-පහතට/11-413807) · `si`
+
+සාමාන්‍ය මට්ටමේ බිත්තරයක තොග මිල ඊයේ (23දා) රුපියල් 20 ක් දක්වා පහත වැටී තිබුණද බිත්තරයක නිෂ්පාදන වියදම රුපියල් 28 -30  අතර මට්ටමේ පවතින බව සමස්ත ලංකා කුඩා කර්මාන්ත කරුවන්ගේ සංගමය සඳහන් කරයි.
+
+වසර දෙකකට පසු බිත්තරයක තොග මිල රුපියල් 20 දක්වා පහත වැටී තිබෙන බවත්, ජනතාවට සහන ලබා දීමට නම් ගොවිපොළ හිමියන්ටද සහන දීම අවශ්‍ය බවත් එම සංගමයේ සභාපති නිරුක්ෂ කුමාර මහතා සඳහන් කළේය.
+
+මව් සතුන්ගේ මිල, සත්ත්ව ආහාර මිල හා සත්ත්ව ඖෂධ මිල ඉහළ මට්ටමක පවතින නිසා බිත්තර ගොවිපළ කර්මාන්තය අර්බුදයකට ලක්වන බවත් ඔහු කියා සිටියේය. මේ නිසා  සත්ත්ව ආහාර හා ඖෂධ මත යොදා තිබෙන බදු ඉවත්  කර සහන මිලට මව් සතුන් ලබා දෙන වැඩපිළිවෙළක් සකස් කරන ලෙස ආණ්ඩුවෙන් ඉල්ලා සිටින බව ඒ මහතා පැවසීය.
+
+මෝල්වලින් සත්ත්ව ආහාර වශයෙන් නිකුත් කළ කැඩුණු සහල් කිලෝවක මිල රුපියල් 180 සිට රුපියල් 230 දක්වා ඉහළ දමා තිබෙන නිසා කැඩුණු සහල්, බිත්තර ගොවිපළ කර්මාන්තයට යොදා ගැනීමට නොහැකි වී තිබෙන බවද  ඔහු සඳහන් කළේය.
+
+...
+
+[Data](articles/f5f67ab4.json)
 
 ---
 
@@ -2131,65 +2191,5 @@ In addition, steps have been taken to operate additional compartments to Jaffna 
 [Data](articles/82824e4a.json)
 
 [Extended Data](ext_articles/82824e4a.ext.json)
-
----
-
-### Nathar concert at the Presidential Office until December 25
-
-*2024-12-23 13:29:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசெம்பர்-25-வரை-ஜனாதிபதி-அலுவலகத்தில்-நத்தார்-இசை-நிகழ்ச்சி/175-349152) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Nathar concert at Presidential Office till Dec 25. Organized by President's Office, Armed Forces & Police. Decorated with lights. Daily performances from 7pm. Hosted by Sri Lanka Air Force. Attended by officials including Deputy Finance Minister."
-
-🟩
-
-The President's Office, Armed Forces and the Police, held annually, started yesterday (22) under the patronage of Anil Jayantha Fernando, Minister of Industry and Economic Development, Minister and Economic Development.
-
-The President's Office Complex and the surrounding areas were decorated with the lighting of the Nathar Kerol concert and the Nathar Kerol Concert was performed yesterday by the Sri Lanka Army's lyrics and band.
-
-The Christmas Kerole concert will be held at the Presidential Secretariat Complex from 7.00 pm daily until the 25th of December.
-
-The Sri Lanka Air Force will host the Christmas Kerole concert today (23rd).
-
-Yesterday's Kerol concert was visited by Finance and Planning Deputy Minister Dr. Harshana Suriyapperuma, Members of Parliament, Dr. Najith Indika, Lakmali Hemachandra and President's Secretary Dr. Nandika Sanath Kumanayake.
-
-◼️
-
-[Data](articles/d9c9024f.json)
-
-[Extended Data](ext_articles/d9c9024f.ext.json)
-
----
-
-### 10 people killed in a plane crash
-
-*2024-12-23 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204639) · `si`
-
-Plane crash kills 10 in Brazil. Pilot Luiz Clauzzi, his family, and others died when aircraft collapsed. Seven injured, two critical. Investigation ongoing due to bad weather conditions.
-
-🟩
-
-10 people in Brazil have died after a private aircraft collapsed.
-
-The aircraft pilot was a 61-year-old LUIZ CLAUZZI, a 61-year-old Luza Galeazzi.
-
-His company has confirmed that the man and his wife, three daughters and several other family members were killed in the accident.
-
-The small plane, which was traveling, had collapsed on several buildings, says foreign media media.
-
-Seven persons were also injured and two others were in critical condition.
-
-The Brazilian businessman was on the occasion while traveling with his family members.
-
-It is said that it is revealed that an investigation is conducted in the accident, but it is revealed that the aircraft has been favored under bad weather conditions.
-
-◼️
-
-[Data](articles/7156ad00.json)
-
-[Extended Data](ext_articles/7156ad00.ext.json)
 
 ---

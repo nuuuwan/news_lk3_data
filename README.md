@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 00:16:27**
+As of **2024-12-25 00:42:42**
 
 ## Newspaper Stats
 
-*Scraped **61,881** Articles*
+*Scraped **61,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,910
 adaderanalk | 7,560
-tamilmirrorlk | 8,850
+tamilmirrorlk | 8,852
 virakesarilk | 10,236
 adaderanasinhalalk | 10,688
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,499 (99.4%) of 61,881 articles have been extended.
+61,502 (99.4%) of 61,883 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -368,35 +368,55 @@ We expect these accidents to be reduced this time. Parents should make clarity o
 
 ---
 
-### சீரற்ற வானிலையால் பாதிக்கப்பட்ட விவசாயிகளுக்கு இழப்பீடு
+### Compensation for farmers affected by random weather
 
 *2024-12-24 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202071) · `ta`
 
-நாட்டில் கடந்த ஓரிரு வாரங்களுக்கு முன்னர் நிலவிய சீரற்ற வானிலையால் பல மாவட்டங்களில் விவசாயம் பாரியளவில் பாதிக்கப்பட்டது.  இதனால் விவசாயிகள் உட்பட பொது மக்கள் பெரும் அசௌகரியங்களை எதிர்கொண்டனர்.
+Here's a summary of 200 characters:
 
-விவசாய அபிவிருத்தித் திணைக்களத்தின் தரவுகளுக்கமைய கடந்த 2ஆம் திகதி நிலைவரப்படி, சுமார் 91 300 ஏக்கர் நெற்பயிர்கள் முழுமையாகவும், 86 225 ஏக்கர் நெற்பயிர்கள் பகுதியளவிலும் சேதமடைந்துள்ளன.  மேலும் 173 சிறு நீர்பாசன வாய்க்கால்கள் முழுமையாகவும், 1148 பகுதியளவிலும் சேதமடைந்துள்ளன.
 
-அத்துடன் நுவரெலியா மாவட்டத்தில் மாத்திரம் சுமார் 750 ஏக்கர் மரக்கறி பயிர்கள் நாசமாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.  மேலும், சேதமடைந்த பயிர் செய்கைக்கான விதைகளை உள்ளிட்டவற்றை விவசாயத்திணைக்களம் முயற்சிகளை மேற்கொண்டு வருகிறது.
+
+Weather damage affects 91,300+ acres of rice fields & 1,000+ irrigation sources. 750 acres of vegetables destroyed in Nuwara Eliya. Government compensates farmers up to 40,000 rupees per hectare for 5 crops. Funds allocated from Agriculture and Farmers' Insurance Board for 2025.
+
+🟩
+
+Agriculture has been severely affected in many districts due to inclement weather in the country a few weeks ago.This caused the general public to face great inconveniences, including farmers.
+
+According to the data of the Department of Agricultural Development, on the 2nd of last month, about 91 300 acres of paddy fields have been completely damaged and 86 225 acres of paddy fields are partially damaged.A further 173 minor irrigation mouths have been completely damaged and 1148.
+
+It has been reported that about 750 acres of vegetable crops have been destroyed in the Nuwara Eliya district alone.In addition, the Department of Agriculture is making efforts, including seeds for damaged crops.
+
+In addition, it has been decided to pay a maximum of Rs.. It is also planned to pay a maximum of 40 000 rupees per hectare for 5 crops including corn, potatoes, chillies, big onions and soy.
 
 ...
 
 [Data](articles/a5b4115d.json)
 
+[Extended Data](ext_articles/a5b4115d.ext.json)
+
 ---
 
-### இலங்கையின் வெளிநாட்டு நாணய விநியோக முறிவு நிலை:  சாதக நிலைக்குத் தரமுயர்த்தியது 'மூடிஸ்'
+### Sri Lanka's Foreign Currency Distribution Fracture
 
 *2024-12-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202079) · `ta`
 
-சர்வதேச கடன் தரப்படுத்தல் நிறுவனங்களில் ஒன்றான 'மூடிஸ்' இனால் இலங்கையின் நீண்டகால வெளிநாட்டு நாணய விநியோகஸ்த்தரின் முறிவு தொடர்பான தரப்படுத்தலானது முறிவை அண்மித்த 'Ca' எனும் நிலையிலிருந்து உயர் கடன் அச்சம் எனும் 'Caa1' நிலைக்குத் தரமுயர்த்தப்பட்டுள்ளது.
+Sri Lanka's foreign currency distribution fracture: Moody's upgrades to CAA1, citing improved debt stability and government liquidity. However, CCC+ rating indicates potential breakdown risk.
 
-'மூடிஸ்' போன்று மற்றுமொரு சர்வதேச கடன் தரப்படுத்தல் நிறுவனமான 'ஃபிட்ச் ரேட்டிங்ஸ்' கடந்த வாரம் இலங்கையின் நீண்டகால வெளிநாட்டு நாணய விநியோகஸ்த்தரின் முறிவு தொடர்பான தரப்படுத்தலை பகுதியளவிலான முறிவைக் குறிக்கும் 'RD' எனும் நிலையிலிருந்து முறிவடையக்கூடிய சாத்தியத்தைக் குறிக்கும் 'CCC+' எனும் நிலைக்குத் தரமுயர்த்தியிருந்தது.
+🟩
 
-இவ்வாறானதொரு பின்னணியில் தனியார்துறை கடன்வழங்குனர்கள் வசமிருந்த சர்வதேச முறிகளின் கடன்மறுசீரமைப்பு பூர்த்திசெய்யப்பட்டதை அடுத்து, அது கடன்களை மீளச்செலுத்தமுடியாத முறிவு நிலை ஏற்படுவதற்கான அச்சுறுத்தலைத் தணித்திருப்பதாகச் சுட்டிக்காட்டியிருக்கும் 'மூடிஸ்', அதன் காரணமாகவே இலங்கையின் நீண்டகால வெளிநாட்டு நாணய விநியோகஸ்த்தரின் முறிவு நிலை தரமுயர்த்தப்பட்டிருப்பதாகத் தெரிவித்துள்ளது.
+Moodys, one of the international credit ratings companies, has been upgraded to the CAA1 status of the 'CA', which has been broken down by the recent 'CA'.
+
+Last week, another international credit ratings, such as 'Moody's', upgraded to the 'CCC+' to mark the possibility of breakdown from the RD, which represents the partial breakdown of Sri Lanka's long -term foreign currency distributional breakdown.
+
+Against this backdrop, after the completion of the debt reproduction of international sector loans, it has been threatened by the threat of an irreparable breakdown of debts, which is why Sri Lanka's long -standing foreign currency distributor's breakdown has been upheld.
+
+In the case of Sri Lanka's debt, 'Moody's' pointed out that the relaxation and the government's liquid threat of the government had diminished and the financial and debt stability had improved.
 
 ...
 
 [Data](articles/3a89db00.json)
+
+[Extended Data](ext_articles/3a89db00.ext.json)
 
 ---
 
@@ -702,19 +722,31 @@ It can only be said that the measures are being taken. You can see its results. 
 
 ---
 
-### யாழ் மாவட்டத்தில் உணவு நிலையங்களில் திடீர் சோதனை - வைத்திய கலாநிதி .ஆ. கேதீஸ்வரன்
+### Sudden Testing at Food Stations in Jaffna District - Dr.. Ketheeswaran
 
 *2024-12-24 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202069) · `ta`
 
-பண்டிகைக் காலத்தையொட்டி யாழ் மாவட்டத்தில் உணவு கையாளும் நிலையங்களின் சுகாதார நிலையை மேம்படுத்தும் நோக்குடன் வடமாகாண சுகாதாரப் பணிப்பாளரின் வழிகாட்டலின் கீழ் இன்று செவ்வாய்க்கிழமை (24) திடீர் பரிசோதனை மேற்கொள்ளப்பட்டது என யாழ்ப்பாண பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி .ஆ. கேதீஸ்வரன் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-யாழ்ப்பாணம் நல்லூர், உடுவில் ஆகிய சுகாதார வைத்திய அதிகாரி பிரிவுகளில் இந்த செயற்பாடு முன்னெடுக்கப்பட்டுள்ளது.
 
-இக் களப் பரிசோதனையில் சுகாதாரத்திணைக்களத்தை சேர்ந்த 9 குழுக்கள் ஈடுபட்டிருந்தன. இவர்களால் இன்று 76 உணவு கையாளும் நிலையங்கள் மேற்பார்வை செய்யப்பட்டன. இவற்றில் 28 உணவு கையாளும் நிலையங்களில் குறைபாடுகள் காணப்பட்டிருந்தன. 12 உணவு கையாளும் நிலையங்களுக்கு குறைபாடுகளை சீர் செய்யும்படி எழுத்துமூல அறிவுறுத்தல் வழங்கப்பட்டது.
 
-...
+"Health officials in Jaffna district conducted surprise inspections at 76 food handling stations. 12 were ordered to improve, 15 non-standard dishes were seized, and legal action will be taken against 2 centers."
+
+🟩
+
+The Director of Regional Health Services in Jaffna, Dr. A.. Said Ketheeswaran.
+
+The process has been carried out in the Health Medical Officer Unit of Nallur and Uduvil, Jaffna.
+
+The field inspection was involved in 9 groups of Health Department. They were overseeing 76 food handling stations today. There were 28 of these food handling stations. Written instructions were given to repair the shortcomings for 12 food handling stations.
+
+15 non -standard dishes were seized at food handling stations. Legal action will be taken against 2 food manipulation centers.
+
+◼️
 
 [Data](articles/3246a7c8.json)
+
+[Extended Data](ext_articles/3246a7c8.ext.json)
 
 ---
 
@@ -939,6 +971,34 @@ A bond maturing on 15.09.2029 closed stable at 10.65/80 percent. (Colombo/Dec24/
 ◼️
 
 [Data](articles/200ca7cb.json)
+
+---
+
+### “அனைவரும் ஒன்றிணைவோம்”
+
+*2024-12-24 17:25:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைவரும்-ஒன்றிணைவோம்/175-349221) · `ta`
+
+நத்தார் தினத்தின் உண்மையான அர்த்தத்தை புரிந்துகொள்வோம். நாட்டுக்காக அனைவரும் ஒன்றிணைவோம் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ விடுத்துள்ள நத்தார்தின வாழ்த்துச் செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+
+இயேசு கிறிஸ்துவின் பிறப்பை நினைவூட்டும் அமைதி மற்றும் அன்பின் அடையாளமாக புனித நத்தார் பண்டிகை உதயமாகியுள்ளது. இறைவனின் அன்பும் மனித கௌரவமும் மனிதநேயம் சார்ந்த சமூகத்திற்கு நம்பகமான அடித்தளத்தை அமைத்தது. அன்று இயேசு நாதர் போதித்த அமைதி, அன்பு, கருணை, சகவாழ்வு, இரக்கம் ஆகியவை இன்றைய நமது சமூகத்தை நாகரீகமாக்க போதுமானதாக இருந்தது.
+
+அன்பு, அமைதி மற்றும் சகோதரத்துவத்தை மையப்படுத்திய நத்தார் பண்டிகை கிறிஸ்தவர்களின் மத விழா மட்டுமல்ல, உலகெங்கிலும் வாழும் அனைத்து இனம், மதம், கட்சி, நிறம், இளையோர், முதியோர் என பாகுபாடின்றி கொண்டாடப்படும் கலாச்சார விழாவாகவும் உள்ளது. இதன் அர்த்தத்தை சரியாக புரிந்துகொண்டு நாமும் ஒரு நாடாக முன்னேற வேண்டிய நேரம் வந்துள்ளது.
+
+...
+
+[Data](articles/b10e5ad0.json)
+
+---
+
+### “ஒருவரில் ஒருவர் அன்பாய் இருக்கவேண்டும்”
+
+*2024-12-24 17:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவரில்-ஒருவர்-அன்பாய்-இருக்கவேண்டும்/175-349219) · `ta`
+
+விண்ணுலக தேவன் மண்ணுலகில் அவதரித்து, பாவங்கள் போக்கிட பாரினில் வந்துதித்த இயேசு பாலகன் பிறந்த நன்னாள் இந்நாளாகும். இலங்கையிலும் உலகளாவிய ரீதியிலும் மலர்ந்த இவ்  நத்தார்  பண்டிகையை கொண்டாடிக் கொண்டிருக்கும் அனைத்து கிறிஸ்தவ மக்களுக்கும் இனிய நத்தார் தின நல்வாழ்த்துக்களை தெரிவித்துக் கொள்கின்றேன் என பெருந்தோட்ட சமூக  அபிவிருத்தி பிரதி அமைச்சர் சுந்தரலிங்கம் பிரதீப் விடுத்துள்ள நத்தார் தின வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/00c958b2.json)
 
 ---
 
@@ -2247,55 +2307,5 @@ Accordingly, the Cabinet paper presented by the Minister of Highways, Ports and 
 [Data](articles/4a6088cb.json)
 
 [Extended Data](ext_articles/4a6088cb.ext.json)
-
----
-
-### Muthoot Finance and Asia Asset Finance - 10 Year Adventure Trip
-
-*2024-12-24 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/202019) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Muthoot Finance & Asia Asset Finance celebrate 10-year alliance. India's leading NBFI & Sri Lanka's Asset Finance Plc strengthen financial services, innovate, develop communities. Asset Finance provides gold loans, leasing, mortgages, deposits, digital solutions. Recognized as "Great Place to Work", committed to cultural warmth and innovation.
-
-🟩
-
-With 137 years of history, India's leading and non -bank financial institution, Muthoot Finance and Sri Lanka's ASSET Finance Plc, are proudly celebrating a decade of their alliance.
-
-Over the past 10 years, this cooperation has been reinforced by the two countries over the last one decade, bringing the reinforcement to financial services, bringing innovations, developing financial warmth and reinforcing communities through a good -looking effort.
-
-The Asset Finance PLC, which has more than five decades, has been providing gold loans, leasing, mortgage loans, standard deposits and modern digital financial solutions.
-
-Its strong presence in Sri Lanka and the "Great Place to Work" recognition reflects its unprecedented commitment to developing the culture of warmth and innovation, while providing the financial solutions carried out by value.
-
-◼️
-
-[Data](articles/279c7ca5.json)
-
-[Extended Data](ext_articles/279c7ca5.ext.json)
-
----
-
-### Sri Lanka and India to sign MoU for Rs. 2,371 mln development projects in East
-
-*2024-12-24 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104464/sri-lanka-and-india-to-sign-mou-for-rs-2371-mln-development-projects-in-east) · `en`
-
-The Cabinet of Ministers has approved the signing of a Memorandum of Understanding (MoU) aimed at strengthening socio-economic development and enhancing bilateral cooperation between India and Sri Lanka.
-
-This initiative, presented to the Cabinet by President Anura Kumara Dissanayake, will allocate Rs. 2,371 million for various development projects in the Eastern Province.
-
-Accordingly, the focused areas of these projects include education, health, agriculture, irrigation, tourism, and community empowerment.
-
-A total of 33 projects have been identified under this initiative, which will focus on improving infrastructure, boosting economic development, and fostering the social empowerment of the people in the Eastern Province.
-
-Consequently, the Indian government is set to provide Rs. 2,371 million for these projects, with specific allocations including Rs. 315 million for education, Rs. 780 million for health, Rs. 620 million for agriculture, and Rs. 230 million for fisheries.
-
-...
-
-[Data](articles/5491c40e.json)
-
-[Extended Data](ext_articles/5491c40e.ext.json)
 
 ---

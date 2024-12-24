@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 16:43:41**
+As of **2024-12-24 17:12:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,463 (99.4%) of 61,824 articles have been extended.
+61,464 (99.4%) of 61,824 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,8 @@ Total goods and services exports for November 2024 were 1,269 million dollars, a
 ◼️
 
 [Data](articles/40e232f8.json)
+
+[Extended Data](ext_articles/40e232f8.ext.json)
 
 ---
 

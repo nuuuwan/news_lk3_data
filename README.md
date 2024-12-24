@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 21:27:21**
+As of **2024-12-24 21:43:16**
 
 ## Newspaper Stats
 
-*Scraped **61,864** Articles*
+*Scraped **61,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,744
 economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
-adalk | 5,908
+adalk | 5,909
 adaderanalk | 7,558
 tamilmirrorlk | 8,850
 virakesarilk | 10,231
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,685
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,488 (99.4%) of 61,864 articles have been extended.
+61,489 (99.4%) of 61,865 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,21 +64,27 @@ The employees also met with Energy Minister Kumara Jayakody on Tuesday (24).
 
 ---
 
-### 2024 වසරේ මේ දක්වා වෙඩි තැබීම් 101 - 60ක් මරුට
+### 101 - 60 killed in 2024 years ago
 
 *2024-12-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204686) · `si`
 
-2024 වසරේ මේ දක්වා කාලය තුළ වෙඩිතැබීමේ සිද්ධීන් 101ක් වාර්තා වූ බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය අනාවරණ කරයි.
+In 2024, 101 shootings occurred, killing 60 and injuring 44. Security forces are combating Hadurat, cabaline, and drug rackets. Operations expected to continue for two weeks.
 
-ඒ අතරින් පුද්ගලයන් 60 දෙනෙකු මියගොස් ඇති අතර 44 දෙනෙකු තුවාල ලබා තිබේ.
+🟩
 
-මේ අතර, අද (24) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේදී කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසුවේ පාතාලය සහ කුඩු ජාවාරම මර්දනය කිරීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ආරක්ෂක අංශ විසින් ගනිමින් සිටින බවය.
+The police spokesman's office revealed that 101 shooting incidents reported in 2024 in 2024.
 
-"හැබැයි ඒක අර ෂෝ එකක් දලා සතියේ මෙහෙයුම සති දෙකේ මෙහෙයුම්වලින් කරන්න නෙමෙයි බලාපොරොත්තු වෙන්නේ. ක්‍රමානුකූලව මේ සියලු ආරක්ෂක අංශ මේ සඳහා මැදිහත් වෙනවා. ඒකට අදාළ ක්‍රියාමාර්ග ගනිමින් ඉන්නවා කියන එක විතරක් මට කියන්න පුළුවන්. ඒකේ ප්‍රතිඵලය බලාගන්න පුළුවන් වෙයි."
+At least 60 people were killed and 44 were injured.
+
+Meanwhile, Cabinet spokesman Dr. Nalinda Jayatissa said that the security forces are taking measures to suppress Hadurat and the suppression of the cabaline and drug racket today (24).
+
+"But it does not expect a shot of the day by two weeks of operations. Gradually all these security forces intervene in this regard. All I can say is that you are taking action. The result can be taken care of. "
 
 ◼️
 
 [Data](articles/7fc04160.json)
+
+[Extended Data](ext_articles/7fc04160.ext.json)
 
 ---
 
@@ -649,6 +655,18 @@ Addressing the media today (24), Rev. Fr. Krishantha emphasized that a comprehen
 [Data](articles/bc8ca0ce.json)
 
 [Extended Data](ext_articles/bc8ca0ce.ext.json)
+
+---
+
+### බොර තෙල් නැව් තොග 6ක් මිලදී ගැනීමට අනුමැතිය
+
+*2024-12-24 16:49:56* · [`adalk`](https://www.ada.lk/breaking_news/බොර-තෙල්-නැව්-තොග-6ක්-මිලදී-ගැනීමට-අනුමැතිය/11-413827) · `si`
+
+බොරතෙල් නැව් තොග 06ක් මිලදී ගැනීමට කැබිනට් අනුමැතිය ලැබී තිබේ. ඒ අනුව 2025.04.01 සිට 2025.08.31 දක්වා කාලය තුළ මර්බන් වර්ගයේ බොරතෙල් නැව් තොග 06ක් මිලදී ගැනීමට මෙම අනුමැතිය හිමිව ඇත.  සිංගප්පූරු සමාගමකින් මෙම බොරතෙල් නැව් මිලදී ගැනීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+◼️
+
+[Data](articles/45b1aefb.json)
 
 ---
 
@@ -2217,23 +2235,5 @@ Due to the shortage of rice in the domestic market, the Sri Lanka State Trading 
 ◼️
 
 [Data](articles/ea6d19db.json)
-
----
-
-### Circular issued on 2024 bonus payments for state sector employees
-
-*2024-12-24 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104460/circular-issued-on-2024-bonus-payments-for-state-sector-employees) · `en`
-
-The Ministry of Finance, Planning & Economic Development has issued a circular concerning the payment of bonuses to employees of State Corporations, Statutory Boards, and State-Owned Enterprises for the year 2024.
-
-The circular, which was issued yesterday (23) by Secretary to the Treasury Mahinda Siriwardena, has been directed to all Ministry Secretaries and Chairpersons of the related institutions.
-
-The circular outlines the proposed bonus payments for this year. It specifies that employees of institutions which have paid at least 30% of their profits after tax to the Consolidated Fund in 2023 as dividends or levies will receive bonuses of either Rs. 25,000 or Rs. 20,000.
-
-Additionally, the Treasury Secretary has provided instructions on the procedures for the payment of these bonuses. It is also noted that the Treasury will not provide specific funding for the bonus payments.
-
-...
-
-[Data](articles/7c923091.json)
 
 ---

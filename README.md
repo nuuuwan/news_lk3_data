@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 05:01:07**
+As of **2024-12-25 05:12:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,517 (99.4%) of 61,887 articles have been extended.
+61,518 (99.4%) of 61,887 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1150,21 +1150,27 @@ Prof. Anil Jayantha, Deputy Minister of Labor Minister and Economic Development
 
 ---
 
-### கம்மன்பில அரசாங்கத்துக்கு கற்பிக்க வேண்டிய அவசியமில்லை  - அமைச்சர் நளிந்த ஜயதிஸ்ஸ
+### There is no need to teach the Kammanpila government - Minister Nalinda Jayatissa
 
 *2024-12-24 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202058) · `ta`
 
-அரசியலமைப்பு மற்றும் அதுகுறித்த சட்டம் தொடர்பில் நாம் முழுமையான புரிதலுடனேயே செயற்படுகின்றோம். எனவே உதய கம்மன்பில இது குறித்து அரசாங்கத்துக்கு கற்பிக்க வேண்டிய அவசியமில்லை என அமைச்சரவை பேச்சாளர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Minister Nalinda Jayatissa dismisses Kammanpila's criticism, stating the government understands the Constitution and laws. He emphasizes no need for lessons from critics, urging focus on national progress rather than responding to negative opinions.
 
-செவ்வாய்கிழமை (24) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-கம்மன்பிலவின் கேள்விகளுக்கு பதிலளிக்க வேண்டுமா? அரசியலமைப்பு தொடர்பிலும் அது தொடர்பான சட்டம் தொடர்பிலும் முழுமையாக புரிதலுடனேயே நாம் செயற்பட்டு வருகின்றோம். கம்மன்பிலவினர் செய்த சேவைகளின் பலனையே இன்று இந்த நாடு அனுபவித்துக் கொண்டிருக்கிறது.
+We are working with a complete understanding of the Constitution and the Law. Cabinet spokesman Nalinda Jayatissa said that there is no need to teach the government about this.
 
-எனவே அவ்வாறானவர்களின் கருத்துக்களுக்கு பதிலளித்து நேரத்தை வீணடிக்க நாம் விரும்பவில்லை. அவர் எமக்கு கற்றுக் கொடுக்கவும் தேவையில்லை என்றார்.
+He further stated at a press conference announcing the Cabinet decisions on Tuesday (24).
+
+Want to answer Kammanpila's questions?We are fully aware of the constitution and the law of it. The country is enjoying the benefits of the services done by Kammanpilavar.
+
+So we do not want to waste time in response to the opinions of such people. He said he did not need to teach us.
 
 ◼️
 
 [Data](articles/f027df97.json)
+
+[Extended Data](ext_articles/f027df97.ext.json)
 
 ---
 

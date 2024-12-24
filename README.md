@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 03:01:02**
+As of **2024-12-25 03:43:19**
 
 ## Newspaper Stats
 
-*Scraped **61,886** Articles*
+*Scraped **61,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,910
 adaderanalk | 7,560
-tamilmirrorlk | 8,852
+tamilmirrorlk | 8,853
 virakesarilk | 10,239
 adaderanasinhalalk | 10,688
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,510 (99.4%) of 61,886 articles have been extended.
+61,512 (99.4%) of 61,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### உணவு கையாளும் நிலையங்களில் திடீர் பரிசோதனை
+
+*2024-12-25 03:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-கையாளும்-நிலையங்களில்-திடீர்-பரிசோதனை/175-349224) · `ta`
+
+பண்டிகைக் காலத்தையொட்டி யாழ்ப்பாணம் மாவட்டத்தில் உணவு கையாளும் நிலையங்களின் சுகாதார நிலையை மேம்படுத்தும் நோக்குடன் வடக்கு மாகாண சுகாதாரப் பணிப்பாளரின் வழிகாட்டலின் கீழ் நேற்று திடீர் பரிசோதனை மேற்கொள்ளப்பட்டது என்று யாழ். பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி.ஆ. கேதீஸ்வரன் தெரிவித்தார்.
+
+நேற்றுக் காலை யாழ்ப்பாணம் நல்லூர், உடுவில் ஆகிய சுகாதார வைத்திய அதிகாரி பிரிவுகளில் இந்தச் செயற்பாடு முன்னெடுக்கப்பட்டது.
+
+இவர்களால் நேற்று 76 உணவு கையாளும் நிலையங்கள் மேற்பார்வை செய்யப்பட்டன. இவற்றில் 28 உணவு கையாளும் நிலையங்களில் குறைபாடுகள் காணப்பட்டிருந்தன. 12 உணவு கையாளும் நிலையங்களுக்கு குறைபாடுகளை சீர்செய்யும்படி எழுத்துமூல அறிவுறுத்தல் வழங்கப்பட்டது. 15 உணவு கையாளும் நிலையங்களில் தரமற்ற உணவுகள் பறிமுதல் செய்யப்பட்டன. 2 உணவு கையாளும் நிலையங்களுக்கு எதிராக சட்ட நடவடிக்கை முன்னெடுக்கப்படவுள்ளது.
+
+அதன் தொடர்ச்சியாக யாழ் மாவட்டத்திலுள்ள ஏனைய சுகாதார வைத்திய அதிகாரி பிரிவுகளிலும் இந்தப் பரிசோதனை நடவடிக்கை தொடர்ந்து முன்னெடுக்கப்படும் என்றார். (a)
+
+◼️
+
+[Data](articles/bcfd59b1.json)
+
+---
 
 ### Understanding the true meaning of the day of the day, everyone will unite for the country - Sajith Premadasa
 
@@ -242,7 +260,7 @@ The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" wh
 
 ---
 
-### Sri Lanka’s Hambantota Port see rise in European cruise calls in 2024
+### Sri Lanka’s Hambantota Port sees rise in European cruise calls in 2024
 
 *2024-12-24 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-see-rise-in-european-cruise-calls-in-2024-196274/) · `en`
 
@@ -980,37 +998,51 @@ Is that what this is done by this, how much did Dayasiri have so much from the P
 
 ---
 
-### மஹிந்தவுக்கு ஐ.எஸ்.ஐ.எஸ் தாக்குதல் அச்சுறுத்தல் என்பது முற்றிலும் பொய்யானது - தேவானந்த சுரவீர
+### ISIS attack threat to Mahinda is completely false - Devananda Suraweera
 
 *2024-12-24 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202065) · `ta`
 
-ஜனாதிபதி, பிரதமர் ஆகியோர் மக்கள் மத்தியில் அச்சமில்லாமல் செல்கிறார்கள். முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு ஐ.எஸ்.ஐ.எஸ் தாக்குதல் அச்சுறுத்தல் இருப்பதாக குறிப்பிடுவது முற்றிலும் பொய்யானது. முன்னாள் ஜனாதிபதிகளை பராமரிப்பதற்கு கோடி கணக்கில் அரசு செலவு செய்ய வேண்டிய தேவையில்லை என தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தேவானந்த சுரவீர தெரிவித்தார்.
+Devananda Suraweera denies ISIS threat to Mahinda Rajapaksa, claims unnecessary security spending.
 
-முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு மற்றும் வழங்கப்படுகின்றன சிறப்பு சலுகைகளை குறைப்போம் என்று நாட்டு மக்களுக்கு வாக்குறுதியளித்தோம். நாட்டு மக்களும் இதனை முழுமையாக ஏற்றுக் கொண்டார்கள். துறைசார் நிபுணத்துவ குழுவின் அறிக்கைக்கு அமையவே முன்னாள் ஜனாதிபதிகளுக்கு வழங்கப்பட்டிருந்த இராணுவ பாதுகாப்பு மீளப்பெறப்பட்டு, போதுமான அளவுக்கு பொலிஸ் பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+🟩
 
-முன்னாள் ஜனாதிபதிகள் அனைவருக்கும் வழங்கப்பட்டிருந்த இராணுவ பாதுகாப்பு முழுமையாக நீக்கப்பட்டுள்ளது. ஆனால் மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு குறித்து மாத்திரம் தான் அதிகளவில் பேசப்படுகிறது.
+The President and the Prime Minister go to the people without fear. It is absolutely false to note that former President Mahinda Rajapakse has an ISIS attack threat. National People's Power MP Devananda Suraweera said that the government does not need to spend crores of rupees to maintain former presidents.
+
+We have promised the people to reduce the safety of former presidents and provide special offers. The people of the country fully accepted this. According to the report of the Department of Department of Department of Department of Public Administration, the military security provided to the former presidents has been restored and adequate police protection has been provided.
+
+The military security provided to all former presidents has been completely eliminated. But only Mahinda Rajapaksa's security is only talked about.
 
 ...
 
 [Data](articles/445a443f.json)
 
+[Extended Data](ext_articles/445a443f.ext.json)
+
 ---
 
-### கடன் மறுசீரமைப்பு ஒப்பந்தத்தில் திருத்தங்களை மேற்கொள்வதாக பொய்  கூறி மக்களை ஏமாற்றியுள்ளனர் - ஹர்ஷ டி சில்வா
+### Harsha de Silva has deceived people claiming to make amendments to the debt restructuring agreement
 
 *2024-12-24 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202066) · `ta`
 
-மூடீஸ் ரேட்டிங் தரப்படுத்தலில் இலங்கை முன்னேற்றமடைந்துள்ளமை மகிழ்ச்சிக்குரியது. ஆனால் கடந்த அரசாங்கத்தால் முன்னெடுக்கப்பட்ட வேலைத்திட்டங்களின் பிரதிபலனாகவே இந்த வெற்றி கிடைத்துள்ளது. கடன் மறுசீரமைப்பு ஒப்பந்தத்தில் திருத்தங்களை மேற்கொள்வதாக பொய் கூறி ஏமாற்றியிருக்கின்றனர் என்பதை இப்போதாவது தேசிய மக்கள் சக்தியினர் உணர்ந்திருப்பார் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.
+Sri Lanka's debt restructuring controversy: Harsha de Silva accuses deception over agreement changes, citing Moody's rating improvement and economic impacts.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் செவ்வாய்கிழமை (24) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-கடனை மீள செலுத்த முடியாத நாடுகள் பட்டியலிலிருந்து இலங்கை நீக்கப்பட்டுள்ளதாக வெளியாகியுள்ள செய்திகள் உண்மையில் மகிழ்ச்சிக்குரியவையாகும். மூடீஸ் ரேட்டிங் நிறுவனத்தின் தரப்படுத்தலில் இலங்கை முன்னேற்றமடைந்துள்ளது.
+It is a pleasure that Sri Lanka has improved in the rating rating. But this success has been a reflection of the programs carried out by the last government. United People's Power Parliamentarian Dr. Harsha de Silva said that the national people would now feel that they have been deceived by lying on the debt renovation agreement.
 
-அரசாங்கத்துக்கு கடனை மீள செலுத்த முடியாத நிலைமை ஏற்பட்டமையானது தனியார் துறையிலும் பாரிய தாக்கத்தை ஏற்படுத்தியது.
+He further stated this at a press conference held at the Opposition Leader's Office in Colombo on Tuesday (24).
+
+News that Sri Lanka has been removed from the list of countries that cannot repay the loan is really happy. Sri Lanka has improved in the standardization of Moody's rating.
+
+The government's inability to repay the debt has had a huge impact on the private sector.
+
+Thus Adani has also retrieved its programs from launching its programs. However, we do not close the standard of credit in the international market. It has to reach the Tedidi position in the rating rating.
 
 ...
 
 [Data](articles/381093ac.json)
+
+[Extended Data](ext_articles/381093ac.ext.json)
 
 ---
 
@@ -2347,27 +2379,5 @@ The fishermen have been brought to the Mannar District Fisheries Department and 
 [Data](articles/d7696776.json)
 
 [Extended Data](ext_articles/d7696776.ext.json)
-
----
-
-### 17 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-12-24 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104466/17-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-A special operation conducted by the Sri Lanka Navy has resulted in the seizure of two Indian fishing boats and the apprehension of 17 Indian fishermen, poaching in Sri Lankan waters north of Mannar.
-
-This operation took place during the early hours of December 23, 2024, as part of the Navy’s ongoing efforts to curb illegal fishing activities by foreign fishing boats, which negatively impact the livelihood of local fishermen.
-
-The North Central Naval Command, upon spotting a group of Indian fishing boats engaged in illegal activities, deployed its Inshore Patrol Craft, while the Northern Naval Command sent out its Fast Attack Craft.
-
-The operation successfully led to the seizure of two Indian boats and the apprehension of 17 Indian fishermen who had remained in Sri Lankan waters, the navy said.
-
-The seized boats, along with the Indian fishermen, were brought to the Talaimannar Pier, where they will be handed over to the Mannar Fisheries Inspector for further legal proceedings, the navy added.
-
-...
-
-[Data](articles/42f350a6.json)
-
-[Extended Data](ext_articles/42f350a6.ext.json)
 
 ---

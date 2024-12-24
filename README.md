@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-24 18:24:20**
+As of **2024-12-24 18:38:01**
 
 ## Newspaper Stats
 
-*Scraped **61,831** Articles*
+*Scraped **61,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,767
 dailyftlk | 4,289
 dailymirrorlk | 4,733
 adalk | 5,903
-adaderanalk | 7,555
+adaderanalk | 7,556
 tamilmirrorlk | 8,849
 virakesarilk | 10,216
 adaderanasinhalalk | 10,676
@@ -26,27 +26,49 @@ adaderanasinhalalk | 10,676
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,470 (99.4%) of 61,831 articles have been extended.
+61,472 (99.4%) of 61,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-24 (Tuesday)
 
-### மீண்டும் தலைதூக்கும் பாதாள உலக குழுக்கள்
+### Re -headed underworld groups
 
 *2024-12-24 18:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-பாதாள-உலக-குழுக்கள்/175-349222) · `ta`
 
-மீண்டும் தலைதூக்கும் பாதாள உலகத்தை ஒடுக்குவதற்கு தேவையான நடவடிக்கைகள் எடுக்கப்படும் என அமைச்சரவைப் பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+Sri Lanka's Cabinet vows to combat underworld crime and drug trafficking, promising action and results.
 
-இன்று (24) அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் சந்திப்பில்  இதை தெரிவித்தார்.
+🟩
 
-"அரசாங்கம் என்ற வகையில், பாதாள உலகத்தையும் போதைப்பொருள் கடத்தலையும் எதிர்த்துப் போராடுவதற்கு நாங்கள் அர்ப்பணிப்புடன் இருக்கிறோம்.
+Cabinet Spokesperson Minister Nalinda Jayatissa said that necessary steps would be taken to suppress the underworld.
 
-அதற்கான நடவடிக்கைகள் எடுக்கப்பட்டு வருகின்றன என்று மட்டும்தான் சொல்ல முடியும். அதன் முடிவுகளை நீங்கள் பார்க்க முடியும்." என்றார். R
+He said this at a media briefing to announce the Cabinet decisions today (24).
+
+“As a government, we are dedicated to fight the underworld and drug trafficking.
+
+It can only be said that the measures are being taken. You can see its results. ”
 
 ◼️
 
 [Data](articles/1636dbb0.json)
+
+[Extended Data](ext_articles/1636dbb0.ext.json)
+
+---
+
+### Archdiocese urges devotees to attend Christmas masses with confidence amid heightened security
+
+*2024-12-24 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104474/archdiocese-urges-devotees-to-attend-christmas-masses-with-confidence-amid-heightened-security) · `en`
+
+The Director of Public Relations for the Archdiocese of Colombo, Rev. Fr. Jude Krishantha, has reassured Catholic devotees and the public of their safety as they attend church services for Christmas celebrations, urging them to participate without fear or doubt.
+
+Addressing the media today (24), Rev. Fr. Krishantha emphasized that a comprehensive security plan has been implemented, with police and military personnel stationed at churches and religious venues across the country.
+
+“As the entire nation prepares for Christmas, Catholic devotees, in particular, will gather for the Midnight Mass tonight. The main service, presided over by His Eminence Malcolm Cardinal Ranjith, will commence at 11.40 p.m. at Our Lady of Sorrows Church, Ja-Ela,” he stated.
+
+...
+
+[Data](articles/bc8ca0ce.json)
 
 ---
 
@@ -190,17 +212,27 @@ The official said that 389 detainees detained in several prisons across the coun
 
 ---
 
-### වාහන ආනයන බදු ගැන තවම තීරණයක් නෑ
+### There is no decision about vehicle imports
 
 *2024-12-24 15:30:42* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයන-බදු-ගැන-තවම-තීරණයක්-නෑ/11-413821) · `si`
 
-ආනයන කරනු ලබන්නේ කවර වාහනද එසේම කවර දිනකදීද යන්න සම්බන්ධයෙන්  පමණක් මේ වන විට තීරණයක් ගෙන ඇති නමුත් වාහන ආනයනයේදී අයකරන බදු සම්බන්ධයෙන් තවමත් තීරණයක් ගෙන නොමැති බව කැබිටන් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.
+Here's a summary of 200 characters:
 
-වාහන ආනයනයේදී අයකරන බදු සම්බන්ධයෙන් ඉදිරියේදී මුදල් අමාත්‍යාංශය විසින් නිවේදනය කරනු ඇති බව අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+
+
+No decision made on vehicle imports yet. Cabinet Spokesperson Minister Nalinda Jayatissa explained vehicle imports continue due to ongoing situation. Ministry of Finance to announce tax details soon.
+
+🟩
+
+Cabiten Spokesperson Minister Nalinda Jayatissa said that the importation of vehicles were imported only due to the importation of vehicles.
+
+The Ministry of Finance further stated that the Ministry of Finance will soon announce the tax on taxes.
 
 ◼️
 
 [Data](articles/b85d408b.json)
+
+[Extended Data](ext_articles/b85d408b.ext.json)
 
 ---
 
@@ -1053,6 +1085,12 @@ Cabinet Spokesperson Minister Nalinda Jayatissa said this at a media briefing to
 The Department of Prisons has announced that a total of 389 prison inmates will be released under special state pardon, in view of Christmas.
 
 Among those to be released, four are female inmates, according to the Prisons Department.
+
+Accordingly, the 389 inmates are released under the two criterias of granting one-week pardon for each year served and the release of prisoners serving prison sentences upon cancellation of their outstanding fines.
+
+Prisons Spokesman said that accordingly, 48 inmates from Mahara Prison, 45 inmates from Wariyapola Prison, 41 inmates from Welikada Prison and several other inmates from all other prisons across the island will be pardoned and released in view of the Christmas.
+
+The procedure is carried out in accordance with the powers vested in the President by Article 34 of the Constitution, according to the Prisons Spokesman.
 
 ◼️
 
@@ -2155,27 +2193,5 @@ When a country is placed on the Financial Action Task Force (FATF) grey list, it
 [Data](articles/dc3860b5.json)
 
 [Extended Data](ext_articles/dc3860b5.ext.json)
-
----
-
-### Dies
-
-*2024-12-24 03:14:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்பஸ்தர்-மயங்கி-வீழ்ந்து-உயிரிழப்பு/175-349191) · `ta`
-
-Family member dies after falling off motorcycle in Jaffna while delivering bananas.
-
-🟩
-
-A family member who was traveling on a motorcycle on a motorbike in Jaffna suddenly fell unconscious and died.
-
-He was riding on a motorbike to give a banana to the Banana Sangam on Monday. He suddenly fell on the street.
-
-Him. It was reported that he had already died when she took the teaching hospital. (A)
-
-◼️
-
-[Data](articles/dfd08288.json)
-
-[Extended Data](ext_articles/dfd08288.ext.json)
 
 ---

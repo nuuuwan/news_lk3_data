@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 00:02:51**
+As of **2024-12-26 00:27:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,597 (99.3%) of 62,042 articles have been extended.
+61,599 (99.3%) of 62,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,45 +114,69 @@ Sri Lanka Muslim Congress Deputy Leader and Member of Parliament. Hizbullah, Mem
 
 ---
 
-### ஜனாதிபதி நிதியத்திலிருந்து நிதி பெற்றவர்களின் முழுமையான பட்டியலை வெளியிடுங்கள் - உதய கம்மன்பில கோரிக்கை
+### Release the Complete List of Funds from the Presidential Fund - Udaya Kammanpila request
 
 *2024-12-25 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202163) · `ta`
 
-ஜனாதிபதி நிதியத்தில் இருந்து முறையற்ற வகையில் நிதி பெற்ற அரசியல்வாதிகளின் பெயர் பட்டியலை அரசாங்கம் முழுமையாக வெளியிட வேண்டும். உரிய விசாரணைகளை மேற்கொண்டு நிதியை மீள அறவிடுவதற்கு நடவடிக்கை எடுக்க வேண்டுமென பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-எதுல்கோட்டையில் 25ஆம் திகதி புதன்கிழமை நடைபெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-ஜனாதிபதி நிதியத்தில் இருந்து நிதி பெற்ற அரசியல்வாதிகளின் பெயர் பட்டியலை அரசாங்கம் வெளியிட்டுள்ளது. இதனால் ஒட்டுமொத்த அரசியல்வாதிகளும் ஜனாதிபதி நிதியத்தில் இருந்து நிதி பெற்றுள்ளதாக மக்கள் மத்தியில் தவறானதொரு நிலைப்பாடு தோற்றுவிக்கப்பட்டுள்ளது.
 
-ஏழ்மை நிலையில் உள்ளவர்களுக்கு உதவியளிப்பதற்கும், அவர்களின் வாழ்வாதாரத்தை மேம்படுத்துவதற்கும் 1978 ஆம் ஆண்டு ஜனாதிபதி நிதியம் ஸ்தாபிக்கப்பட்டது. 2005- 2024 வரையான காலப்பகுதியில் அரசியல் அதிகாரத்துடன் அரசியல்வாதிகள் ஜனாதிபதி நிதியத்தில் இருந்து கோடிக்கணத்தில் நிதி பெற்றுள்ளதாக குறிப்பிடப்படுகிறது.
+Udaya Kammanpila demands full disclosure of Presidential Fund recipients. He accuses politicians of misusing funds meant for the poor since 2005. The government should release complete financial details and conduct investigations to recover misused funds.
+
+🟩
+
+The government must fully publish a list of politicians who have been finished inappropriately from the Presidential Fund. Udaya Kammanpila, a former leader of the Pivithuru Hela Urumaya (JHU) and former Member of Parliament, said that steps should be taken to take appropriate inquiries and restore the funds.
+
+He was speaking to the media after attending the event on Wednesday 25th of Wednesday.
+
+The government has released a list of politicians who received funds from the Presidential Fund. This has led to a false position among the people that the entire politicians have received funds from the Presidential Fund.
+
+The Presidential Fund was established in 1978 to help the poor and improve their livelihood. From 2005 to 2024, politicians with political power are said to have received crores of rupees from the Presidential Fund.
 
 ...
 
 [Data](articles/3470a4d5.json)
 
+[Extended Data](ext_articles/3470a4d5.ext.json)
+
 ---
 
-### දරුවන් සොයා ගිය සෙනෙහසේ නත්තල
+### Senem, who found children, Christmas
 
 *2024-12-25 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204723) · `si`
 
-ලොව ප්‍රධානම නත්තල් දේව මෙහෙය පැවැත්වුණේ කිතුනුවන්ගේ ශුද්ධ නගරය ලෙස සැලකෙන වතිකානයේ ශාන්ත පීතර බැසිලිකා දේවස්ථානයේදීය.
+Here's a summary of the text in approximately 200 characters:
 
-එහිදී අතිඋතුම් ෆ්‍රැන්සිස් ශුද්ධෝත්තම පාප්වහන්සේ පෙන්වා දුන්නේ සාමය සහ යුක්තිය රජ කරන ලෝකයක් නිර්මාණයට ලෝවැසියන් කැප විය යුතු බවය.
 
-කෙසේ වෙතත් ක්‍රිස්තූස් වහන්සේගේ උපත සිදුවූ බෙත්ලෙහෙම් නගරයේ මෙවරත් නත්තල් සැමරුම් සිදු නොකෙරුණි. ඒ ගාසා තීරයට එල්ලවන ප්‍රහාර හේතුවෙනි.
 
-මෙවර නත්තල රෝමයේ වතිකානයට සුවිශේෂී වූයේ ජේසුස් වහන්සේගේ උපත සිදුවීමේ 2025 වැනි ජුබිලි වසර ලබන වසරට යෙදී තිබීම හේතුවෙනි.
+Children found Christmas joy worldwide. In Vatican, Pope emphasized peace and justice. Bethlehem birth skipped due to Gaza attack. Unique celebrations in Sri Lanka, including Buddhist participation. Special programs for children in Jaffna and elsewhere. Military support for festivities. New books gifted to students.
 
-ඒ අනුව ජුබිලි සැමරුම් මාලාවේ ආරම්භය සනිටුහන් කරමින් ශාන්ත පීතර බැසිලිකාවේ ලෝකඩ ද්වාරය විවරකිරීම අති උතුම් ශුද්ධෝත්තම ෆ්‍රැන්සිස් පාප් වහන්සේගේ අතින් ඊයේ පස්වරුවේ සිදුවුණි.
+🟩
 
-ලොව ප්‍රධාන නගර රැසක් නත්තල වෙනුවෙන් ආකර්ෂණීය සැරසිලි එක්කර තිබුණි.
+The world's mainstream Christmas, was held at St. Peter's Basilica Church, Vatican, regarding the Holy City of Christians.
 
-මේ අතර මෙරට ප්‍රධාන නත්තල් දේව මෙහෙය ඊයේ රාත්‍රීයේ ජා-ඇළ වික්ෂෝප දේව මාතා දේවස්ථානයේදී පැවැත්වුණේ, අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන්ගේ ප්‍රධානත්වයෙනි.
+The Pope His Holy Pope pointed out that the brites should be made to create peace and justice.
+
+Christmas, however, did not have the birth of Bethlehem this year. It was due to the attack on the Gaza.
+
+The Vatican of Rome was unique to the Vatican of Christ's birth next year.
+
+Accordingly, the bronze portal of St. Peter's Basilic was the first of the greatest holy holy holy holy holy holy honorable Francis.
+
+The world's major cities have been added to Christmas.
+
+Meanwhile, the main Christmas Minister of Sri Lanka was held at the Narma Victory Buddhist Monitoring last night at the Narupari Buddhist Monaliz Kadinal Ranjith.
+
+Christmas Minister of Colombo is a supervision of the Colombo Assistant Bishop of Sri Lanka. D. Anthony was held in midnight yesterday.
+
+Tv Derana Creator MP Dilith Jayaweera and other distinguished guests joined the occasion.
 
 ...
 
 [Data](articles/6c9216a0.json)
+
+[Extended Data](ext_articles/6c9216a0.ext.json)
 
 ---
 

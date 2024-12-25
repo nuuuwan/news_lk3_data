@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 01:27:03**
+As of **2024-12-26 01:43:21**
 
 ## Newspaper Stats
 
-*Scraped **62,045** Articles*
+*Scraped **62,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,924
 adaderanalk | 7,578
 tamilmirrorlk | 8,887
-virakesarilk | 10,269
+virakesarilk | 10,270
 adaderanasinhalalk | 10,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,605 (99.3%) of 62,045 articles have been extended.
+61,606 (99.3%) of 62,046 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,24 @@ To obtain this information, you can get your National Identity Card number, tele
 [Data](articles/e051b326.json)
 
 [Extended Data](ext_articles/e051b326.ext.json)
+
+---
+
+### தபால் சேவையை நவீன மயப்படுத்த  அரசாங்கம் தீர்மானம் - அமைச்சர் நளிந்த
+
+*2024-12-25 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202157) · `ta`
+
+பன்முக சேவைகளை மக்களுக்கு வழங்கும் இலங்கைத் தபால் திணைக்களத்தை, வாடிக்கையாளர்களின் திருப்தியை கருத்தில் கொண்டு நவீன தொழில்நுட்பத்தை பயன்படுத்தி புதிய மாற்றங்களுடன் கூடிய நம்பகத்தன்மை மிக்க சேவையாக உருவாக்கஅரசாங்கம் தீர்மானித்துள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் கீழ் இயங்கும், இலங்கை தபால் தலைமையகத்தின் தற்போதைய சேவை நடவடிக்கைகள் மற்றும் எதிர்கால திட்டங்கள் தொடர்பில், தபால் திணைக்கள அதிகாரிகளுடன் சுகாதார அமைச்சில் நேற்று செவ்வாய்க்கிழமை (24) இடம்பெற்ற விசேட கலந்துரையாடலின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+இலங்கைத் தபால் திணைக்களம் முறையான தொலைநோக்குப் பார்வையுடனும் அதற்குரிய திட்டங்களுடனும் செயற்படுவதைக் காணக் கூடியதாக உள்ளது.
+
+தற்போது தபால் சேவையில் நிலவிவரும் பிரச்சினைகளுக்கு தீர்வு காண்பதுடன், வரலாற்றுச் சிறப்புமிக்க இச்சேவையை நவீனமயப்படுத்தி தேசிய சேவையாக தரம் உயர்த்துவதே புதிய அரசாங்கத்தின் நோக்கமாகும்.
+
+...
+
+[Data](articles/f3e3905b.json)
 
 ---
 
@@ -376,27 +394,41 @@ The event was chaired by Nallaya Prabhakaran, Superintendent of the Batticaloa P
 
 ---
 
-### ඇදවැටුණු මිනිසුන් යළි නගා සිටුවන මිදුම
+### The Reduce of the Rise of the People
 
 *2024-12-25 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204721) · `si`
 
-මත්ද්‍රව්‍ය භාවිතය වර්තමානයේ මෙරට තරුණ පරපුර විනාශය දක්වා රැගෙන යන ප්‍රබල සමාජ ගැටලුවක් බවට පත්වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-එවැනි වූ වටපිටාවක මත්ද්‍රව්‍ය භාවිතයෙන් නොමඟ ගිය තරුණ ප්‍රජාව යළි සුමඟට ගෙනඑන "දයාවේ සෙවනක්" අද දෙරණ අපට හමුවිය.
 
-මෙවර 'අද දෙරණ' නත්තල් චාරිකාව, මත්ද්‍රව්‍යයට ඇබ්බැහිවූවන් පුනරුත්ථාපනය කෙරෙන "මිදුම" ආයතනය පිළිබඳවය.
 
-කොළඹ අගරදගුරු පදවියට අයත් දයාවේ සේවා ආයතනයක් වන "මිදුම" ජීවන ගමනේ ඇඳවැටුණු මිනිසුන් යළි නගාසිටුවීමේ අරමුණින් පිහිටවූ ආයතනයකි.
+Drug abuse plagues Sri Lanka's youth. A rehabilitation program called "Rise Marine" aims to help. Participants enter centers, receive guidance, and work towards recovery during the holiday season, aligning with Christmas spirit.
 
-මත්ද්‍රව්‍ය භාවිතයට ඇබ්බැහිවූවන් සහ ඒ හා සම්බන්ධ විෂමාචාරි ක්‍රියාවන්ගේ නිරත වූවන්ට සුවය සැනසීම වෙනුවෙන් ක්‍රියාත්මක මෙම ආයතනයෙන් දැනටමත් දහස් ගණනක තරුණ ජීවිත ආලෝකමත් කරන්නට සමත්වී තිබේ.
+🟩
 
-පුනරුත්ථාපන මධ්‍යස්ථානයට ඇතුළු කරන අවස්ථාවේ නිසි සිහිබුද්ධිය පවා නොමැතිව සිටි මිනිසුන් පුනරුත්ථාපන මධ්‍යස්ථානය තුළ මාස කිහිපයක් ගත කිරීමේදී තමන්ගේ ජීවිතයම වෙනස් කර ගන්නේ මිදුම තුළ ඇති " ආදරයට සහ මනුෂ්‍යත්වයට " මුල් තැන හිමිවූ පුනරුත්ථාපන වැඩපිළිවෙළ නිසාමය.
+Drug abuse has become a powerful social problem carrying the younger generation of Sri Lanka.
 
-ජීවිතයේ එක්තරා අවස්ථාවක තමන්ට ජීවිතය වැරදුනත්, මොවුන් ක්‍රමයෙන් එම වරද නිවැරදි කරගැනීමට පෙළගැසෙමින් සිටියි.
+Ada Derana meets Ada Derana, who was misguided with drugs in such an environment.
 
-...
+This year is about the Ada Derana visitor, Christmas tour, the rehabilitation of drug addicts.
+
+The 'Riselist "is aimed at upliftment to the rise of the" Rise Marine'.
+
+Thousands of people have already illuminated young lives to be comforting for the healing of drugs and the torture of drugs.
+
+When entering the rehabilitation center, people who were not even the proper sanctification of the rehabilitation center will change their lives in the rehabilitation center for a few months in the rehabilitation center.
+
+Even in a certain occasion, they are raising alignment, even if they are wrong, and they will gradually correct the mistake.
+
+Christmas on the road to correct mistakes is the best time for them to change their lives.
+
+Likewise, fellow beliefs of the ransom, celebrate influence of birth to Jesus Christ today.
+
+◼️
 
 [Data](articles/7d90fe2e.json)
+
+[Extended Data](ext_articles/7d90fe2e.ext.json)
 
 ---
 
@@ -2371,27 +2403,5 @@ Handapangoda was a teacher by profession and had gained considerable attention i
 ◼️
 
 [Data](articles/872c6e2f.json)
-
----
-
-### Sri Lanka President calls for just, compassionate society in Christmas message
-
-*2024-12-25 09:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-just-compassionate-society-in-christmas-message-196285/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has called for just compassionate society, in his Christmas message as the country is recovering from the worst currency crisis in the history of its central bank.
-
-“Today, Sri Lanka stands at a crossroads, requiring a transformative social revival,” President Dissanayake said.
-
-“This is a call for a collective national renewal, a shift towards a just, compassionate, and equitable society.
-
-“It is a moment for us to unite, acting with determination, resilience, and courage, to achieve the shared vision of a prosperous nation and fulfilling lives for all.”
-
-President Dissanayake was elected on a broad-based support from all communities and regions.
-
-“We are witnessing the dawn of a new era for our country, one illuminated by the message of love and unity brought by Jesus Christ,” he said.
-
-...
-
-[Data](articles/a7bfdfb4.json)
 
 ---

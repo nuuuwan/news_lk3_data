@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 13:01:24**
+As of **2024-12-25 13:12:25**
 
 ## Newspaper Stats
 
-*Scraped **61,973** Articles*
+*Scraped **61,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,917
 adaderanalk | 7,567
-tamilmirrorlk | 8,873
+tamilmirrorlk | 8,875
 virakesarilk | 10,248
 adaderanasinhalalk | 10,701
 
@@ -26,31 +26,81 @@ adaderanasinhalalk | 10,701
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,546 (99.3%) of 61,973 articles have been extended.
+61,547 (99.3%) of 61,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### இடைநிறுத்தப்பட்ட ஊழியர்கள் மீண்டும் சேவையில் இணைப்பு
+### ஜனாதிபதி நிதியம்;பொலிஸ் விசாரணைகள் ஆரம்பம்
+
+*2024-12-25 12:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியம்-பொலிஸ்-விசாரணைகள்-ஆரம்பம்/175-349264) · `ta`
+
+ஜனாதிபதி நிதியில் ஏதேனும் முறைகேடு நடந்துள்ளதா என்பதை கண்டறிய பொலிஸ் விசேட விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய குற்றப்புலனாய்வு திணைக்களத்திற்கு (CID) விசாரணைகளை மேற்கொள்ளுமாறு பணிப்புரை விடுத்துள்ளதாக தெரிய வருகிறது.
+
+ஜனாதிபதி நிதியை துஷ்பிரயோகம் செய்ததாக குற்றம் சாட்டப்பட்ட நபர்கள் தொடர்பில் விசாரணை நடத்துமாறு கோரி பொலிஸ் தலைமையகத்தில் சமர்ப்பிக்கப்பட்ட முறைப்பாட்டையடுத்து இந்த விசாரணை நடத்தப்பட்டுள்ளது.
+
+கடந்த 2005ஆம் ஆண்டு முதல் 2024ஆம் ஆண்டு வரையான காலப்பகுதியில் 34 முன்னாள் பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி நிதியத்தின் முக்கிய நோக்கங்களுக்குப் புறம்பான நோக்கங்களுக்காக மில்லியன் கணக்கான ரூபாவை பெற்றுக்கொண்டமை அண்மையில் இடம்பெற்ற பாராளுமன்ற அமர்வின் போது தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/eedea7e4.json)
+
+---
+
+### வாடிக்கையாளரை தாக்கிய மூவர் கைது
+
+*2024-12-25 12:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாடிக்கையாளரை-தாக்கிய-மூவர்-கைது/175-349263) · `ta`
+
+கெக்கிராவ நகரிலுள்ள ஹோட்டலுக்குச் சென்றிருந்த  வாடிக்கையாளர் ஒருவரை தாக்கி காயப்படுத்திய குற்றச்சாட்டில் ஹோட்டல் முகாமையாளர் உட்பட மூவரை கெக்கிராவ பொலிஸார் கைது செய்துள்ளனர்
+
+கெக்கிராவ மஹா வீதியில் அமைந்துள்ள ஹோட்டல் ஒன்றில் செவ்வாய்க்கிழமை (24) மாலை இந்தத் தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+உணவகத்திற்கு வந்த வாடிக்கையாளருக்கும் ஹோட்டல் முகாமையாளருக்கும் இடையில் நீண்ட நேரம் வாக்குவாதம் ஏற்பட்டதையடுத்து ஹோட்டல் முகாமையாளர் உட்பட மூன்று ஊழியர்கள் குறித்த வாடிக்கையாளரை தாக்கி காயப்படுத்தியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தாக்குதலில் காயமடைந்த நபர் கெக்கிராவ பொலிஸ் அதிகாரிகளால் உடனடியாக தம்புள்ளை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+கெக்கிராவ திப்பட்டுவெவ பகுதியைச் சேர்ந்த 33 வயதுடைய நபரே இந்த தாக்குதலில் காயமடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/f75ada56.json)
+
+---
+
+### Connecting Served Employees Re -Service
 
 *2024-12-25 12:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைநிறுத்தப்பட்ட-ஊழியர்கள்-மீண்டும்-சேவையில்-இணைப்பு/175-349262) · `ta`
 
-இலங்கை மின்சார சபையை தனியார் மயமாக்கும் திட்டத்திற்கு எதிராக போராட்டம் நடத்தியதற்காக பணி இடைநிறுத்தம் செய்யப்பட்ட 62 ஊழியர்கள் மீண்டும் பணியில் அமர்த்தப்பட்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-எரிசக்தி அமைச்சர் பொறியியலாளர் குமார ஜயக்கொடியின் உத்தரவின் பேரில் இந்த முடிவு எடுக்கப்பட்டுள்ளது.
 
-இதனையடுத்து அவர்களை அனைத்துக் குற்றச்சாட்டுக்களிலிருந்தும் ஊழியர்களை விடுவிக்கவும், அவர்களது முந்தைய பணியிடங்களில் மீண்டும் பணியில் அமர்த்தவும், அபராதங்களில் இருந்து விடுவிக்கவும் CEB நடவடிக்கை எடுத்துள்ளது.
 
-குறித்த ஊழியர்களை மீண்டும் பணியில் சேர்ப்பதற்கான கடிதங்களை அமைச்சர் ஜெயக்கொடி நேற்று (24) வழங்கினார்.
+Suspended employees reinstated after CEB protest against privatization. Energy Minister orders rehiring & clearing charges. Unions opposed board sale in Jan. Minister advises action against protesters. Essential service declared, but some face disciplinary action.
 
-இலங்கை மின்சார சபையை தனியார் மயமாக்கும் திட்டம் இருப்பதாகக் கூறி, அதற்கு எதிராக கடந்த ஜனவரி மாதம் இலங்கை மின்சார சபையின் தொழிற்சங்கங்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தன.
+🟩
 
-அப்போதைய மின்வலு மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர, இந்த போராட்டத்தில் கலந்து கொண்ட ஊழியர்கள் மீது நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு அறிவுறுத்தினார்.
+62 employees who have been suspended have been re -hired for protesting against the privatization of the Ceylon Electricity Board.
 
-...
+The decision was taken on the orders of Energy Minister Kumara Jayakody.
+
+Subsequently, CEB has taken steps to release employees from all charges, re -hire their previous workplaces and release them from fines.
+
+Minister Jayakody issued letters yesterday (24) to recruit the employees.
+
+The unions of the Ceylon Electricity Board (CEB) unions staged a protest last January, claiming that there was a plan to privatize the Ceylon Electricity Board.
+
+The then Minister of Power and Energy Kanjana Wijesekera advised the authorities to take action against the employees who participated in the protest.
+
+These measures include suspension of those who do not understand duties to cause discomfort to users, despite the declaration of electricity supply as an essential service.
+
+◼️
 
 [Data](articles/b946f076.json)
+
+[Extended Data](ext_articles/b946f076.ext.json)
 
 ---
 
@@ -380,13 +430,13 @@ The arrested suspects is a father and son of a resident of the area in the area 
 
 ECONOMYNEXT – The cost of key ingredients for making Sri Lanka’s Christmas cake, fell 7.3 percent in 2024 amid deflationary policy and currency appreciation followed by the central bank under Governor Nandalal Weerasinghe, retail price data show.
 
-The difference in the cost of ingredients from 2022, when deflationary policy started showing up in the balance of payments and 2024 was only 0.8 percent.
+The difference in the cost of ingredients from 2022, when deflationary policy started showing up in the balance of payments and November 2024 was only 0.8 percent.
 
-Sri Lanka’s Christmas cake is a fruit cake acclaimed by international foodies who have tried out the confection to be perhaps the World’s Best’.
+The widely watched Colombo Consumer Price Index also rose 1.2 percent from November 2022 to November 2024.
+
+The  Sri Lanka Christmas cake is acclaimed by international foodies who have tried out the confection to be perhaps the World’s Best’.
 
 “For years I firmly believed that I had tried every single variation of the Christmas cake possible. Light, dark, moist, dry, British, Scottish, Italian, Serbian… That was, until I met my Sri Lankan husband,” writes author Queensashay at Food52, a foodie portal.
-
-“I would have never thought that the richest, the most decadent, the most interesting and the most delicious Christmas cake of all would come from Sri Lanka.”
 
 ...
 
@@ -1242,7 +1292,7 @@ The position of Director General of Combined Services is pivotal, given its exte
 
 වත්මන් ආණ්ඩුව කරන ලද ප්‍රධාන පෙළේ පත් කිරීමක් අත්හරින ලද දෙවන පුද්ගලයා ඔහු ය. කතානායකවරයා ලෙස කටයුතු කළ අශෝක රන්වලට මීට පෙර සිය ධූරයෙන් ඉවත් වන්නට සිදුවූයේ ඔහුගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව මතුවු ගැටලුකාරි තත්ත්වයක් හේතුවෙනි.
 
-ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ, පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන් ම වෘත්තිය සමිති සහ ඇතැම් නිලධාරීන් සමග ඇති වූ ගැටලු හේතුවෙන් ඔහුට සිය ධූරය අහිමි වූ බවට කටකතාවක්  පැතිරිණි.
+ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ, පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන් මre වෘත්තිය සමිති සහ ඇතැම් නිලධාරීන් සමග ඇති වූ ගැටලු හේතුවෙන් ඔහුට සිය ධූරය අහිමි වූ බවට කටකතාවක්  පැතිරිණි.
 
 ...
 
@@ -1529,6 +1579,8 @@ In both groups, the top two teams will be eligible to play in the semi -finals.
 The British Institute of Management and Technology (BIMT Campus), a leading private education institute, secured two prestigious awards at the Entrepreneur Awards – Western Province 2024, organised by the Ministry of Industries, the National Chamber of Commerce, and the National Enterprise Development Authority.
 
 The award ceremony was held at the BMICH in Colombo, and it celebrated entrepreneurship across multiple sectors. The awards were received by BIMT’s Chief Executive Officer Farshath Jamal, Finance Manager Afzan Nazar, and Student Recruitment Manager Gugan Santhirasekaram.
+
+Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -2175,63 +2227,5 @@ Mahinda Rajapaksa ended the era of the army to his hometowns. Therefore, it is t
 [Data](articles/aa23c622.json)
 
 [Extended Data](ext_articles/aa23c622.ext.json)
-
----
-
-### National Rupavahini Chairman resigns
-
-*2024-12-24 18:44:12* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රූපවාහිනියේ-සභාපති-ඉල්ලා-අස්වෙයි/11-413833) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-National Rupavahini Chairman Dr. Shenesash Bandara resigns. Foreign Minister Vijith Herath appointed new Chairman.
-
-🟩
-
-Dr. Shenesash Bandara, who served as the Chairman of the National Rupavahini Corporation, has resigned from the post.
-
-The current Minister of Foreign Minister Vijith Herath was appointed as the Chairman of the National Television of the Cabinet of the Cabinet.
-
-◼️
-
-[Data](articles/78480e08.json)
-
-[Extended Data](ext_articles/78480e08.ext.json)
-
----
-
-### Mahara Prison clash - petition against the Attorney General's letter
-
-*2024-12-24 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204683) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Petition filed against AG over Mahara Prison clash probe closure. Inmates' families seek justice for 11 deaths. AG claims CID investigation complete, but petitioners demand reopening.
-
-🟩
-
-The Attorney General's Court presents a petition to the Criminal Investigation Rit command to issue the suspects to the Criminal Investigation Committee to be arrested and sent to the CID.Has been done.
-
-The wife of MG Lasantant, the wife of the victim, killed the victim, Sampath Pushpa Pushpair Kumara.
-
-The Attorney General has named the Attorney General, Director of the Criminal Investigation and the Welisara Magistrate.
-
-The petitioner says that 11 inmates were killed due to shooting in the Mahara Prison on November 29, 2020.
-
-The petition (Welisara Magistrate) counsel was issued to the CID and announce the suspects in the event.
-
-But on August 30, the Attorney General said the petitioner said that the criminal investigation department was completed and had been asked to be closed down.
-
-The Prison authorities say that the minimum imposed in the Mahara Prison has been implemented in the post-handed test decision on his own manner.The petition states.
-
-...
-
-[Data](articles/733192f0.json)
-
-[Extended Data](ext_articles/733192f0.ext.json)
 
 ---

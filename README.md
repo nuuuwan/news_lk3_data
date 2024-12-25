@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 14:15:52**
+As of **2024-12-25 14:43:26**
 
 ## Newspaper Stats
 
-*Scraped **61,983** Articles*
+*Scraped **61,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,155 @@ islandlk | 3,753
 economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,917
+adalk | 5,919
 adaderanalk | 7,569
-tamilmirrorlk | 8,876
-virakesarilk | 10,248
+tamilmirrorlk | 8,878
+virakesarilk | 10,252
 adaderanasinhalalk | 10,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,552 (99.3%) of 61,983 articles have been extended.
+61,555 (99.3%) of 61,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### උත්සව සමයේ අන්තර්ජාල මුදල් වංචා ඉහළ ගිහින්
+### கழுத்தில் பாய்ந்த கூரிய தடி : வெற்றிகரமாக அகற்றம்
+
+*2024-12-25 14:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தில்-பாய்ந்த-கூரிய-தடி-வெற்றிகரமாக-அகற்றம்/175-349269) · `ta`
+
+வவுனியாப் பொதுவைத்தியசாலையில் கழுத்தில் கூரியதடி குற்றி உயிருக்கு ஆபத்தான நிலையில்செவ்வாய்க்கிழமை (24)  அனுமதிக்கப்பட்ட முதியவருக்கு வைத்தியர்கள் மேற்கொண்ட சத்திரசிகிச்சையினால் கூரியதடி அகற்றப்பட்டதுடன் அவர் உயிர் பிழைத்துள்ளார்.
+
+சம்பவம் தொடர்பாக மேலும் தெரியவருகையில் கழுத்தில் கூரியதடி குற்றி மறுபக்கம் வந்த முதியவர் ஒருவர் ஆபத்தான கட்டத்தில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+
+குறித்த முதியவருக்கு வைத்தியசாலையில் உரிய நேரத்தில் விரைவாக முன்னெடுக்கப்பட்ட சத்திரசிகிச்சைமூலம் அவரது கழுத்தில் குற்றிய தடி அகற்றப்பட்டதுடன் அவர் உயிராபத்தின்றி காப்பாற்றப்பட்டார்.
+
+இவ் வெற்றிகரமான சத்தி்சிகிச்சையினை உணர்வழியியல் மருத்துவநிபுணர் நாகேஸ்வரன் தலைமையிலான மயக்கமருந்து (Anesthesia) அணியினருடன் இணைந்து
+
+◼️
+
+[Data](articles/4f29f7f6.json)
+
+---
+
+### Special traffic monitoring by police
+
+*2024-12-25 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202120) · `ta`
+
+Police crack down on drunk driving & traffic violations ahead of festival: 251 drunk drivers caught, 8747 rule breakers face permit bans.
+
+🟩
+
+Special traffic has been taken by the police to prevent road accidents in view of the festival.
+
+The police said that 251 drivers who had been drinking alcohol had been identified in the country within 24 hours.
+
+In addition, 8,747 people have violated traffic rules and that the permits of the drivers will be banned in the future.
+
+◼️
+
+[Data](articles/8336a2e2.json)
+
+[Extended Data](ext_articles/8336a2e2.ext.json)
+
+---
+
+### රුසියාව බලා පියාසර කළ ගුවන් යානයක් කඩා වැටෙයි
+
+*2024-12-25 14:09:07* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාව-බලා-පියාසර-කළ-ගුවන්-යානයක්-කඩා-වැටෙයි/11-413838) · `si`
+
+අසර්බයිජානයේ සිට රුසියාව බලා ගමන් කරමින් තිබූ අසර්බයිජානයට අයත් ගුවන් යානයක් කසකස්ථානයේදි කඩා වැටි ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ගුවන් යානය කඩා වැටෙන විට එහි ගුවන් කාර්ය මණ්ඩලයේ 5 දෙනෙකු ඇතුළුව 67ක් ගමන් කර තිබේ. ගුවන් අනතුරින් 25 දෙනෙකු බේරි ඇති බවත් එයින් 22ක් රෝහල් ගත කර ඇති බවත් කසකස්ථාන ආපදා අමාත්‍යාංශය උපුටා දක්වමින් බි.බි.සී. පුවත් සේවය තොරතුරු වාර්තා කරයි.
+
+◼️
+
+[Data](articles/c87796ff.json)
+
+---
+
+### கஜகஸ்தானில் பயணிகள் விமானம் வெடித்து சிதறியது
+
+*2024-12-25 14:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கஜகஸ்தானில்-பயணிகள்-விமானம்-வெடித்து-சிதறியது/50-349267) · `ta`
+
+அசர்பைஜானின் பாகுவில் இருந்து 72 பயணிகளுடன் ட்ரோஸ்னி நோக்கி பயணிகள் விமானம் ஒன்று சென்று கொண்டிருந்தது. Another video showing the crash of Azerbaijan Airlines Flight 8243 pic.twitter.com/Ze5pQ7Grv9— BNO News Live (@BNODesk) December 25, 2024
+
+அடர்ந்த மூடுபனி காரணமாக திருப்பி விடப்பட்ட இந்த விமானம் கஜகஸ்தானின் அக்டாவ் பகுதியில் உள்ள விமான நிலையத்தில் தரையிறங்க முயன்றுள்ளது.
+
+அப்போது விமானம் திடீரென கீழே விழுந்தது. இதில் விமானம் வெடித்து சிதறி தீப்பற்றி எரியும் காட்சிகள் வெளியாகியுள்ளது. இதில் பலர் உயிரிழந்திருக்கக் கூடும் என அஞ்சப்படும் நிலையில் சிலர் காயங்களுடன் மீட்கப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது.
+
+பயணிகள் விமானம் விபத்தில் சிக்குவதற்கு முன்பு விமான நிலையம் அருகே பலமுறை வானில் வட்டமடித்ததாக தகவல் வெளியாகியுள்ளது. சம்பவ இடத்தில் தீயணைப்புத்துறையினர் தீயை அணைக்கும் பணியில் ஈடுபட்டுள்ளனர். இந்த விபத்துக்கான காரணம் மற்றும் உயிரிழப்பு குறித்த எந்த தகவலும் தற்போது வரை வெளியாகவில்லை.
+
+◼️
+
+[Data](articles/b92f9c67.json)
+
+---
+
+### Internet money has risen in the festive season
 
 *2024-12-25 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204709) · `si`
 
-උත්සව සමය තුළ අන්තර්ජාලය හරහා සිදුවන මුදල් වංචා කිරීමේ සිද්ධීන් ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+Here's a summary of 200 characters:
 
-එම සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා පැවසුවේ පාරිභෝගිකයින් වෙත දුරකතන ඇමතුම් ලබා දෙමින් යම් යම් ත්‍යාග දිනා ඇති බව පවසමින් මුදල් වංචා කිරීම් සම්බන්ධව මේ වන විට පැමිණිලි ලැබී ඇති බවය.
 
-තවද AI තාක්ෂණය භාවිත කරමින් සිදුවන යම් යම් අක්‍රමිකතා සම්බන්ධවද මේ වන විට පැමිණිලි වාර්තා වී ඇති බවත් ඔහු පැවසීය.‍
 
-මෙවැනි ඇමතුම් සහ සිදුවීම්වලින් ආරක්ෂා වීම සඳහා මහජනතාව විශේෂ අවධානයක් යොමු කළ යුතු බවද ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+Sri Lanka's Computer Emergency Response Team reports increased online scams during the festive season. Chief Information Security Officer warns about money cheats and AI-related disorders. Public advised to be vigilant against suspicious calls and events.
+
+🟩
+
+The Sri Lanka Computer Emergency Response Team says that the events of the Internet has increased in the festive season.
+
+Chief Information Security Officer Norroche Anananda said that the complaints have been received regarding the money cheats, claiming that the telephone calls have been brought to customers.
+
+He also said that complaints have been reported on some of the disorders using AI technology.
+
+He further stated that the public should pay special attention to protecting such calls and events.
 
 ◼️
 
 [Data](articles/1c3c2429.json)
+
+[Extended Data](ext_articles/1c3c2429.ext.json)
+
+---
+
+### Special Midnight Worship Events
+
+*2024-12-25 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202102) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Midnight worship services celebrated Jesus' birth across churches. Special rituals in Jaffna, Batticaloa, and Puttalam. Bishops, clergy, and Christians attended. Security measures taken during ceremonies."
+
+🟩
+
+Special rituals and rituals were held in churches around the country to celebrate the birth of Jesus Pran, which revealed to the world.
+
+Yall. The main Nathar midnight Tirupali for the hide district. Jaffna at St. Marianne. The diocese of the diocese of Jasrin Gnanaprakasam was presented as a joint venture under the leadership of the year.
+
+Christmas Day Worship was held under the patronage of Roshan Mahasan, Chief Pastor of the Church.
+
+Christian students were also given the blessing speeches on the greatness of the birth of Jesus Balakan by the main pastor.
+
+The main Christmas rituals and rituals of the Batticaloa district were held amidst strong security at St. Mary's Mary, Puliyantivu, the first scholar of the district.
+
+A special ceremony was held at the St. Judah of Batticaloa.
+
+The events were chaired by the temple blessing Devadasan Adikallar and the Tirupali was acknowledged.
+
+Christmas rituals were held at 12 midnight today at the Shantha Mary's Church in Puttalam.
+
+...
+
+[Data](articles/f5824a16.json)
+
+[Extended Data](ext_articles/f5824a16.ext.json)
 
 ---
 
@@ -54,13 +172,41 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-12-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204708) · `si`
 
-අසර්බයිජාන් ගුවන් සේවයට අයත් ගුවන් යානයක් කසකස්තානයේදී කඩා වැටී තිබේ.
+පුද්ගලයන් 67 දෙනෙකු ගමන්ගත් අසර්බයිජානයට අයත් මගී ගුවන් යානයක් කසකස්තානයේ දී කඩාවැටී ඇති බව BBC පුවත් සේවය වාර්තා කරයි.
 
-එම ගුවන් යානයේ පුද්ගලයින් 67 දෙනෙකු ගමන් කර ඇති බව BBC පුවත් සේවය වාර්තා කළේය.
+කෙසේ නමුත් මෙම අනතුරෙන් 25 දෙනෙකු දිවි ගලවාගෙන ඇති අතර, ඉන් 22ක් රෝහල් ගතකර ඇති බව කසකස්තානය රජය පවසයි.
+
+ගුවන් යානය කඩාවැටීමත් සමග ගින්නක් හටගෙන ඇති නමුත්, පසුව එය නිවාදමා තිබේ.
+
+කෙසේ නමුත් ගින්නට හේතුව කුමක්ද යන්න මෙතෙක් අනාවරණය වී නොමැත.
+
+Embraer 190 වර්ගයේ ගුවන් යානයක් වන මෙහි මගීන් 62ක් සහ කාර්ය මණ්ඩලයේ 5 දෙනෙකු සිට තිබේ.
+
+මෙය අසර්බයිජානයේ අගනුවර වන බාකු සිට රුසියාව දක්වා ගමන් කරමින් තිබී ඇත.
+
+පවතින මීදුම් සහිත තත්ත්වය නිසා මෙම අනතුර සිදුවන්නට ඇති බව දැනට සිදුකෙරෙන විමර්ශනවලදී අනාවරණය වී තිබේ.
 
 ◼️
 
 [Data](articles/24678885.json)
+
+---
+
+### திக்வெல்ல பகுதியில் விஷ ஊசி செலுத்தி பெண்ணொருவர் கொலை - சந்தேகநபர் கைது
+
+*2024-12-25 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202111) · `ta`
+
+திக்வெல்ல பொலிஸ் பிரிவிற்குட்பட்ட வத்தேகம பகுதியில் கடந்த 20ஆம் திகதி விஷ ஊசி செலுத்தி பெண்ணொருவர் கொலை செய்யப்பட்டமை தொடர்பில்  சந்தேகநபரொருவர் நேற்று செவ்வாய்க்கிழமை (24) கைது செய்யப்பட்டுள்ளார்.
+
+திக்வெல்ல, வத்தேகம தெற்கு பகுதியைச் சேர்ந்த 69 வயதுடைய பெண்ணொருவரே கைது செய்யப்பட்டுள்ளார்.
+
+சம்பவம் தொடர்பில் மேற்கொண்ட விசாரணையின் போது, நிலத் தகராறு காரணமாக இந்தக் கொலை இடம்பெற்றுள்ளதாக தெரியவந்துள்ளது.
+
+மேலும், குறித்த கொலை சம்பவம் தொடர்பில்  திக்வெல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6e16ccd4.json)
 
 ---
 
@@ -259,6 +405,26 @@ The ADIC supports this stance, asserting that raising excise taxes is a scientif
 ...
 
 [Data](articles/06cb7bc8.json)
+
+---
+
+### மாளிகாகந்த துப்பாக்கிச் சூடு - மேலும் ஒரு சந்தேகநபர் கைது
+
+*2024-12-25 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202106) · `ta`
+
+கொழும்பு , மருதானை பொலிஸ் பிரிவுக்குட்பட்ட மாளிகாகந்த நீதிமன்றத்திற்கு அருகில் கடந்த 14 ஆம் திகதி பெண்ணொருவரை  துப்பாக்கியால் சுட்டு கொலை செய்வதற்கு  முயற்சித்த சம்பவத்துடன் தொடர்புடைய மற்றொரு சந்தேகநபர் நேற்று செவ்வாய்க்கிழமை (24)  கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+விசாரணையில் குறித்த சந்தேகநபர் சந்தேகத்திற்கிடமான முறையில் துப்பாக்கியுடன் மறைந்திருப்பதாக  தெரிவிக்கப்படும் , வீட்டின் உரிமையாளரும் அவரது மனைவியும் துப்பாக்கியை வேறு ஒருவரிடம் கொடுத்து  மறைத்து வைத்திருப்பது தெரியவந்துள்ளது.
+
+அதன்படி, கடந்த 20ஆம் திகதி கொழும்பு குற்றப்புலனாய்வு பிரிவினரால் இருவரும் கைது செய்யப்பட்டனர்.
+
+அதன்படி முச்சக்கர வண்டி சாரதியும் கடந்த 22ஆம் திகதி பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+துப்பாக்கியை ஜம்பட்டா வீதியில் வசிக்கும் வேறு ஒருவரிடம் கொடுக்கப்பட்டுள்ளததாக வழங்கிய தகவலின் அடிப்படையில் துப்பாக்கியை பெற்றுக்கொண்ட சந்தேகநபர், நேற்று ஜம்பட்டா வீதி பகுதியில் கொலை முயற்சிக்கு உதவிய குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/7a594f33.json)
 
 ---
 
@@ -845,6 +1011,22 @@ Handapangoda was a teacher by profession and had gained considerable attention i
 ◼️
 
 [Data](articles/ab3d5205.json)
+
+---
+
+### අස්වැසුම ගැන රනිල්ගේ ගැසට්ටුව අවලංගු කරමින් ජනපතිගෙන් නව ගැසට්ටුවක්
+
+*2024-12-25 09:21:04* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ගැන-රනිල්ගේ-ගැසට්ටුව-අවලංගු-කරමින්-ජනපතිගෙන්-නව-ගැසට්ටුවක්/11-413837) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීමේ  යෝජනා ක්‍රමය යටතේ සුදුසුකම් ලබන පවුල් හා පුද්ගලයන්ට 2025 ජනවාරි සිට ක්‍රියාත්මක වන පරිදි  මාසිකව ප්‍රතිලාභ දීමනා ගෙවීමේ ක්‍රම වේදය ප්‍රකාශයට පත් කරමින්  මුදල් , ක්‍රම සම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යවරයා ලෙස  පැවරී ඇති බලතල අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් 2024.05.17 දින නිකුත් කර තිබු අති  විශේෂ ගැසට් නිවේදනයද මෙම මස 21 දාතමින් නිකුත් කෙරුණු මෙම  නව ගැසට් නිව්දනයෙන් අවලංගු කර ඇත.
+
+පෙර ගැසට් නිවේදනය පරිදි මෙතෙක් දුප්පත් පවුලකට හිමිවූ රුපියල් 8500 දීමනාව හා  අන්ත දිළිඳු පවුලකට හිමිවූ රුපියල් 15,000 දීමනාව නව ගැසට් නිවේදනය අනුව පිලිවෙලින් රුපියල් 10,000 සහ රුපියල් 17,500 ලෙස ඉහල දමා ඇති අතර අනෙකුත් කාණ්ඩ සඳහා  දීමනා ප්‍රමාණයන් නව ගැසට් නිවේදනය අනුවද නොවෙනස්ව පවතී.
+
+...
+
+[Data](articles/d560ff8a.json)
 
 ---
 
@@ -1997,213 +2179,5 @@ The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" wh
 [Data](articles/ea8d434b.json)
 
 [Extended Data](ext_articles/ea8d434b.ext.json)
-
----
-
-### Sri Lanka’s Hambantota Port sees rise in European cruise calls in 2024
-
-*2024-12-24 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-sees-rise-in-european-cruise-calls-in-2024-196274/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hambantota Port said it saw an increase in European cruise ship calls while there was a noticeable decline in cruise ships coming from India.
-
-In 2024, out of 23 ships that called at the port, 17 were from Europe while only 6 were from India.
-
-In December 2023, Hambantota Port said 22 cruise ships called at the Port with a most of them coming from India through Cordelia Cruise Lines.
-
-“The cruise industry’s evolving dynamics reflect a renewed interest in diverse and unique destinations like HIP,” Wilson Qu, CEO of Hambantota International Port Group, said in a statement.
-
-“In 2024, we observed a strong trend of European vessels exploring South Asia, which underlines the growing demand for culturally rich and off-the-beaten-path destinations.
-
-“We anticipate this momentum to continue in 2025, with an upward movement in arrivals not only from Europe but also a resurgence from the Indian subcontinent.”
-
-...
-
-[Data](articles/959f9cef.json)
-
----
-
-### Sri Lanka’s Hambantota Port sees rise in European cruise calls in 2024
-
-*2024-12-24 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-see-rise-in-european-cruise-calls-in-2024-196274/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hambantota Port said it saw an increase in European cruise ship calls while there was a noticeable decline in cruise ships coming from India.
-
-In 2024, out of 23 ships that called at the port, 17 were from Europe while only 6 were from India.
-
-In December 2023, Hambantota Port said 22 cruise ships called at the Port with a most of them coming from India through Cordelia Cruise Lines.
-
-“The cruise industry’s evolving dynamics reflect a renewed interest in diverse and unique destinations like HIP,” Wilson Qu, CEO of Hambantota International Port Group, said in a statement.
-
-“In 2024, we observed a strong trend of European vessels exploring South Asia, which underlines the growing demand for culturally rich and off-the-beaten-path destinations.
-
-“We anticipate this momentum to continue in 2025, with an upward movement in arrivals not only from Europe but also a resurgence from the Indian subcontinent.”
-
-...
-
-[Data](articles/d72750fc.json)
-
-[Extended Data](ext_articles/d72750fc.ext.json)
-
----
-
-### 62 Ceylon Electricity Board employees suspended and re -service with all concessions
-
-*2024-12-24 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/202083) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-62 CEB employees suspended for opposing privatization reinstated with benefits. Current Energy Minister Kumara Jayakody ordered rehiring after union protests. Employees met with minister on Tuesday.
-
-🟩
-
-62 Ceylon Electricity Board employees who have been suspended for their struggle against the privatization of the Electricity Board during the last government period have been recruited with all concessions.
-
-It has been reinstated by the employees of the current Energy Minister Kumara Jayakody's special orders.
-
-Its trade unions launched a protest last January, claiming to be privatizing the Ceylon Electricity Board.
-
-The then Electricity Energy Minister Kanjana Wijesekera had issued a directive to the authorities to take action against the employees who were not obligated to disrupt customers, despite the declaration of electricity supply as an essential service.
-
-However, after the current government came to power, the employees were re -employed on a special orders of Energy Minister Kumara Jayakody, who had been canceled.
-
-The employees also met with Energy Minister Kumara Jayakody on Tuesday (24).
-
-◼️
-
-[Data](articles/d55aba6a.json)
-
-[Extended Data](ext_articles/d55aba6a.ext.json)
-
----
-
-### Over 60 suspended CEB employees reinstated with full privileges
-
-*2024-12-24 20:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104477/over-60-suspended-ceb-employees-reinstated-with-full-privileges) · `en`
-
-A total of sixty-two employees of the Ceylon Electricity Board (CEB), who were suspended for participating in protests against the privatization of the board during the previous government, have been reinstated with all privileges.
-
-This decision was made following a special directive issued by the Minister of Energy, Kumara Jayakody.
-
-The CEB trade unions had launched a protest campaign last January, alleging that the board was being privatized.
-
-In response, the then Minister of Power and Energy, Kanchana Wijesekera, instructed officials to suspend employees who avoided their duties during the protest, citing disruptions caused to consumers, despite electricity supply being declared an essential service.
-
-As a result, a total of 62 employees were suspended from their positions. However, under the new government, Minister Jayakody has ordered their reinstatement, restoration of privileges, and cancellation of disciplinary transfers.
-
-...
-
-[Data](articles/8061bed1.json)
-
-[Extended Data](ext_articles/8061bed1.ext.json)
-
----
-
-### 101 - 60 killed in 2024 years ago
-
-*2024-12-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204686) · `si`
-
-In 2024, 101 shootings occurred, killing 60 and injuring 44. Security forces are combating Hadurat, cabaline, and drug rackets. Operations expected to continue for two weeks.
-
-🟩
-
-The police spokesman's office revealed that 101 shooting incidents reported in 2024 in 2024.
-
-At least 60 people were killed and 44 were injured.
-
-Meanwhile, Cabinet spokesman Dr. Nalinda Jayatissa said that the security forces are taking measures to suppress Hadurat and the suppression of the cabaline and drug racket today (24).
-
-"But it does not expect a shot of the day by two weeks of operations. Gradually all these security forces intervene in this regard. All I can say is that you are taking action. The result can be taken care of. "
-
-◼️
-
-[Data](articles/7fc04160.json)
-
-[Extended Data](ext_articles/7fc04160.ext.json)
-
----
-
-### Owner's life in Jaffna
-
-*2024-12-24 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/202082) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna photo company owner Ramesh Kumar (43) dies unexpectedly. Attended funeral, returned home late. Wife slept; next morning, rushed to hospital where doctors confirmed death. Autopsy conducted by Dr. Namasivayam Premkumar.
-
-🟩
-
-The owner of a photo company in Jaffna, its owner, made a wrong decision on Monday (23).. The father of two children, Ramesh Kumar (age 43), from Konda, North and Konda, died.
-
-The man went to a funeral yesterday and returned home at 10.30 pm. The householder has gone upstairs. In this case, his wife was taken to sleep at around 11 pm.
-
-The doctors said he had already died when he was taken to the Jaffna Teaching Hospital. The death investigation into his body was carried out by Namasivayam Premkumar.
-
-◼️
-
-[Data](articles/3dc89253.json)
-
-[Extended Data](ext_articles/3dc89253.ext.json)
-
----
-
-### SP Dissanayake should take appropriate action on the financial fraud of politicians in the presidential fund
-
-*2024-12-24 20:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202081) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-SP Dissanayake calls for action against politicians misusing presidential funds. From 2005-2024, millions were improperly allocated. Government should investigate and recover funds meant for welfare, not personal gain.
-
-🟩
-
-It is an improper process that politicians have received millions of rupees from the presidential fund using political power. Former parliamentarian SB Dissanayake said the government should take proper inquiries and restore the funds.
-
-From 2005 to 2024, the government has released the names of those who received funds from the Presidential Fund. In fact, a few politicians have received funds from the Presidential Fund for their medical treatment.
-
-Despite the possibility of getting medical treatment in Sri Lanka, a few have received several crores of rupees from the Presidential Fund and have been receiving medical treatment.
-
-The Presidential Fund was established in 1978 for the welfare of the poor people. The use of political power has been completely improperly improper.
-
-...
-
-[Data](articles/d8787191.json)
-
-[Extended Data](ext_articles/d8787191.ext.json)
-
----
-
-### State Medical Officers Association
-
-*2024-12-24 20:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202070) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-State Medical Officers warn about safety during festivals. Avoid fireworks, drive safely, and be cautious around alcohol. Ensure proper rest before driving.
-
-🟩
-
-Media Spokesperson of the State Medical Officers Association, Dr. Samal Wijesinghe, said that those who go to the public and celebrations with relatives and celebrations with their relatives and celebrations should be taken into consideration for their safety and health.
-
-He said this while speaking to the media on Monday (23) regarding the accidents that occur during the festive season.
-
-During the festival and the upcoming New Year, those who go to the tourism, celebrations and celebrations should take care of their safety and physical health.
-
-Many people suffer from fireworks due to crackers during celebrations. However, this year, the Tamil Sinhala New Year was able to bring such fire on the fire.
-
-We expect these accidents to be reduced this time. Parents should make clarity on accidents that can be caused by fireworks, especially in the process of fireworks.
-
-...
-
-[Data](articles/4f8667ce.json)
-
-[Extended Data](ext_articles/4f8667ce.ext.json)
 
 ---

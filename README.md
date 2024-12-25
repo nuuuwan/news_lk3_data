@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 13:27:22**
+As of **2024-12-25 13:44:11**
 
 ## Newspaper Stats
 
-*Scraped **61,980** Articles*
+*Scraped **61,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,917
 adaderanalk | 7,569
-tamilmirrorlk | 8,875
+tamilmirrorlk | 8,876
 virakesarilk | 10,248
 adaderanasinhalalk | 10,704
 
@@ -26,37 +26,73 @@ adaderanasinhalalk | 10,704
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,548 (99.3%) of 61,980 articles have been extended.
+61,551 (99.3%) of 61,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### ලොව පුරා අසිරිමත් නත්තල සැමරු අයුරු
+### 8747 drivers arrested
+
+*2024-12-25 13:23:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8747-சாரதிகள்-கைது/175-349265) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+8747 drivers arrested for violating road laws. 251 caught driving under alcohol. Police urge public to follow traffic rules.
+
+🟩
+
+The Police Media Spokesperson Department has said that there have been no major accidents in the country in the last 24 hours, and 8,747 drivers have been arrested on charges of violating road laws, including 251 drivers who were driving under alcohol.
+
+In this case, the Police Department has asked the public to properly adhere to the road laws, rather than pay the vehicle.
+
+◼️
+
+[Data](articles/d1fe1832.json)
+
+[Extended Data](ext_articles/d1fe1832.ext.json)
+
+---
+
+### Overcoming Christmas worldwide
 
 *2024-12-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204707) · `si`
 
-ඊයේ (24) මැදියම් රැයෙන් උදා වූ ජේසු බිළිඳාගේ උපත සැමරෙන නත්තල ලෝක ප්‍රජාව විසින් පිළිගනු ලැබුවේ මහත් උත්සවශ්‍රීයෙනි.
+Here's a 200-character summary:
 
-වසරකට අධික කාලයක් පුරා ඊශ්‍රායල යුද ගැටුම්වලට මැදිව සිටියත් ගාසා තීරයේ කිතුනු බැතිමතුන් ද ඉතා බැතියෙන් මෙවර නත්තල සමරනු ලැබීය.
 
-ඒ අනුව ගාසා තීරයේ ප්‍රධාන නත්තල් දේව මෙහෙය පැවැත්වුණේ ගාසා සිටි නගරයේ හෝලි ෆැමිලි දේවස්ථානයේ දී යි.
 
-මේ අතර වසර පහකට පෙර ගිනිගෙන හානි වූ පැරීසියේ නෝත්‍රදාම් ආසන දෙව් මැදුරේද නත්තල් දේව මෙහෙය පැවැත්විණි.
+"Christmas celebrations continue globally despite conflicts. In Gaza, Christians gather at Hall Family Church. Paris' Notre Dame hosts its first post-fire Christmas service. UK's Westminster Abbey hosts royal carol concert. Ukrainians celebrate on Jan 7th due to ongoing conflict."
 
-එය යළි විවෘත කිරීමෙන් පසු පැවැත්වුණු පළමු නත්තල් දේව මෙහෙයද මෙය වේ.
+🟩
 
-එමෙන්ම රාජකීය නත්තල් කැරොල් ප්‍රසංගය මෙවරත් උත්කර්ෂවත් අයුරින් වෙස්ට්මින්ස්ටර් ඇබේ දේවස්ථානයේදී පැවැත්විය.
+Christmas Christmas Christland, who celebrates the baby's birth yesterday (24), was widely wedded.
 
-මේ අතර යුක්‍රේනයේ කිතුනු බැතිමතුන් මෙවරත් පසුගිය වසරේ සේම නත්තල සමරන්නේ අද සහ හෙට දෙදින තුළයි.
+Although there were over a year, Israeli war was in conflicts, Christmas was celebrated this year's privileges in Gaza.
 
-2023 වසර පෙර ජුලියන් දින දර්ශනයට අනුව ඔවුන් නත්තල සැමරුවේ ජනවාරි 7 වැනිදායි.
+Accordingly, the main Christmas in Gaza is held at the Hall Family Church in Gaza.
 
-යුක්‍රේන ජනතාව මෙලෙස නත්තල සමරන්නේ අඛණ්ඩ රුසියානු ප්‍රහාර හේතුවෙන් ඔවුන්ට දරුණු විදුලි අර්බුදයකට ද මුහුණ දීමට සිදුව ඇති පසුබිමක වීම විශේෂත්වයකි.
+Meanwhile, Christmas (Might) was held at the Norturdam Electology of Paris, which was damaged five years ago.
 
-...
+This is the first Christmas God service, which was reopened.
+
+The Royal Christmas carol concert was held at the Westminstor's Abeybike this year.
+
+Meanwhile, the Christian devotees of Ukraine have been celebrated today as long as it is today and tomorrow.
+
+According to the Julian Calendar of 2023, they celebrated Christmas on January 7th.
+
+The Ukrainian people celebrate Christmas is a severe power crisis due to continuing Russian attacks.
+
+The worldwide Christian devotees celebrate Christmas with their loved ones, and with their Christmas congratulations.
+
+◼️
 
 [Data](articles/f504a42f.json)
+
+[Extended Data](ext_articles/f504a42f.ext.json)
 
 ---
 
@@ -88,23 +124,33 @@ It was during a recent parliamentary session that 34 former MPs from 2005 to 202
 
 ---
 
-### வாடிக்கையாளரை தாக்கிய மூவர் கைது
+### Three arrested for attacking customer
 
 *2024-12-25 12:54:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாடிக்கையாளரை-தாக்கிய-மூவர்-கைது/175-349263) · `ta`
 
-கெக்கிராவ நகரிலுள்ள ஹோட்டலுக்குச் சென்றிருந்த  வாடிக்கையாளர் ஒருவரை தாக்கி காயப்படுத்திய குற்றச்சாட்டில் ஹோட்டல் முகாமையாளர் உட்பட மூவரை கெக்கிராவ பொலிஸார் கைது செய்துள்ளனர்
+Here's a 200-character summary:
 
-கெக்கிராவ மஹா வீதியில் அமைந்துள்ள ஹோட்டல் ஒன்றில் செவ்வாய்க்கிழமை (24) மாலை இந்தத் தாக்குதல் நடத்தப்பட்டுள்ளது.
 
-உணவகத்திற்கு வந்த வாடிக்கையாளருக்கும் ஹோட்டல் முகாமையாளருக்கும் இடையில் நீண்ட நேரம் வாக்குவாதம் ஏற்பட்டதையடுத்து ஹோட்டல் முகாமையாளர் உட்பட மூன்று ஊழியர்கள் குறித்த வாடிக்கையாளரை தாக்கி காயப்படுத்தியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
 
-தாக்குதலில் காயமடைந்த நபர் கெக்கிராவ பொலிஸ் அதிகாரிகளால் உடனடியாக தம்புள்ளை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+"3 arrested for attacking customer in Kekirawa hotel. Hotel manager among suspects. Victim injured, hospitalized."
 
-கெக்கிராவ திப்பட்டுவெவ பகுதியைச் சேர்ந்த 33 வயதுடைய நபரே இந்த தாக்குதலில் காயமடைந்துள்ளார்.
+🟩
+
+Kekirawa police have arrested three persons, including a hotel manager, on charges of assaulting and injuring a customer who was traveling to a hotel in Kekirawa town.
+
+The attack took place on Tuesday evening at a hotel located on Kekirawa Maha Road.
+
+Police say that three employees, including a hotel manager, have been attacked and wounded after a long argument between the customer and the hotel manager at the restaurant.
+
+The man who was injured in the attack was immediately admitted to the Dambulla hospital for treatment by Kekirawa police officers.
+
+A 33 -year -old man from Kekirawa Tippattuvewa was injured in the attack.
 
 ◼️
 
 [Data](articles/f75ada56.json)
+
+[Extended Data](ext_articles/f75ada56.ext.json)
 
 ---
 
@@ -2173,35 +2219,5 @@ In the case of Sri Lanka's debt, 'Moody's' pointed out that the relaxation and t
 [Data](articles/3a89db00.json)
 
 [Extended Data](ext_articles/3a89db00.ext.json)
-
----
-
-### Emergency letter to Mano Ganesan President
-
-*2024-12-24 19:56:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனோ-கணேசன்-ஜனாதிபதிக்கு-அவசர-கடிதம்/175-349223) · `ta`
-
-Here's a summary of the emergency letter to Mano Ganesan President in approximately 200 characters:
-
-
-
-Tamil Progressive Alliance leader Mano Ganesan writes to the President demanding immediate action against eviction attempts in Ratnapura, Ekaliyagoda, and Sunterland gardens. He seeks protection for long-time residents, replacement of "Moden Slevari" system, and notification to estate companies to prohibit forced evictions.
-
-🟩
-
-Mano Ganesan, the leader of the Tamil Progressive Alliance and Member of Parliament, has sent a letter to the president to immediately stop the efforts to evict people living in the gardens.
-
-He noted that the poor people living in the garden of Ratnapura, Ekaliyagoda and Sunterland are trying to be expelled by the estate administration.
-
-He emphasized that the administration should not be expelled by the administration for many generations in the gardens and that the new land rights should be issued to ensure the safety of the residents.
-
-He also demanded that the current system identified as "Moden Slevari" be completely replaced.
-
-He also stated that the President should notify the estate companies to announce the emergency prohibition not to be evicted by the plantation administrators.R
-
-◼️
-
-[Data](articles/8d5efc7a.json)
-
-[Extended Data](ext_articles/8d5efc7a.ext.json)
 
 ---

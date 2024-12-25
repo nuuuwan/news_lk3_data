@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 17:44:33**
+As of **2024-12-25 18:03:55**
 
 ## Newspaper Stats
 
-*Scraped **62,001** Articles*
+*Scraped **62,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,921
-adaderanalk | 7,572
+adaderanalk | 7,573
 tamilmirrorlk | 8,880
-virakesarilk | 10,252
+virakesarilk | 10,255
 adaderanasinhalalk | 10,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,570 (99.3%) of 62,001 articles have been extended.
+61,570 (99.3%) of 62,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### நாட்டின் வெவ்வேறு பகுதிகளில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் போதைப்பொருட்களுடன் ஆறு சந்தேகநபர்கள்  கைது
+
+*2024-12-25 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202143) · `ta`
+
+நாட்டின் வெவ்வேறு பகுதிகளில் நேற்று செவ்வாய்க்கிழமை (24) பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஐஸ் போதைப்பொருள் மற்றும் ஹெரோயின் போதைப்பொருளுடன் ஆறு சந்தேகநபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
+
+மாதம்பிட்டிய பொலிஸ் பிரிவிற்குட்பட்ட  ரன்முது செவன குடியிருப்பில் ஐஸ் போதைப்பொருளுடன் சந்தேகநபர்கள் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் 23 மற்றும் 25 வயதுடைய மோதரை, கொழும்பு 15 பகுதியைச் சேர்ந்தவர்களாவர்.
+
+கைது செய்யப்பட்ட மூன்று சந்தேகநபர்களிடமிருந்தும் 15 கிராம் 650 மில்லிகிராம் ஐஸ் போதைப்பொருள், 08 கிராம் 450 மில்லிகிராம் ஐஸ் போதைப்பொருள் மற்றும் 10 கிராம் 350 மில்லிகிராம் ஐஸ் போதைப்பொருள் கைது செய்யப்பட்டுள்ளது.
+
+இதேவேளை, கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட சேனா வீதியில் மேற்கொள்ளப்பட்ட திடீர் சோதனையில், 5 கிராம் 500 மில்லி கிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+அத்தோடு, பொரளை பொலிஸ் பிரிவுக்குட்பட்ட சர்பன்டைன் வீதியில் 07 கிராம் ஹெரோயின் போதைப்பொருள் வைத்திருந்த சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/b3ff5b30.json)
+
+---
+
+### விமான நிலையத்தில் குஷ் போதைப்பொருளுடன் சந்தேக நபர் கைது!
+
+*2024-12-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202135) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தில் பொலிஸாரினால் நேற்று செவ்வாய்க்கிழமை (24) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் குஷ் போதைப்பொருளுடன் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கட்டுநாயக்க விமான நிலையத்தின் அதிகாரிகள் குழுவிற்கு கிடைத்த தகவலின் அடிப்படையில் விமான நிலைய சுங்க போதைப்பொருள் கட்டுப்பாட்டு பிரிவினரால் குறித்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது.
+
+கைது செய்யப்பட்ட சந்தேகநபரிடமிருந்து 04 கிலோகிராம்  388 கிராம்  குஷ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+குறித்த சம்பவம் தொடர்பில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் கட்டுநாயக்க விமான நிலையப் பிரிவினர் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/d38cd23f.json)
+
+---
+
+### உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிகளுடன் இருவர்  கைது
+
+*2024-12-25 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202130) · `ta`
+
+நாட்டின் பல்வேறு பகுதிகளில் நேற்று செவ்வாய்க்கிழமை (24)  பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புக்களில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிfளுடன் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மஹவிலச்சிய பொலிஸ் பிரிவுக்குட்பட்ட பேமடுவ பகுதியில், உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியை வைத்திருந்த சந்தேக நபர் ஒருவர் மஹவிலச்சிய பொலிஸ் நிலைய அதிகாரிகள் குழுவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+இதேவேளை, தம்புள்ளை பொலிஸ் பிரிவுக்குட்பட்ட பல்லேகம பகுதியில், உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியை வைத்திருந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், குறித்த சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை தம்புள்ளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/660a0a2d.json)
+
+---
 
 ### Police emergency notice on traffic congestion
 
@@ -77,6 +135,48 @@ Mrs. Nilanti Kothachi, a member of the National People's Power, said that as a l
 [Data](articles/2cbca5e9.json)
 
 [Extended Data](ext_articles/2cbca5e9.ext.json)
+
+---
+
+### Kazakhstan says at least 32 survived Azerbaijan Airlines plane crash, over 30 likely dead
+
+*2024-12-25 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104493/kazakhstan-says-at-least-32-survived-azerbaijan-airlines-plane-crash-over-30-likely-dead) · `en`
+
+An Azerbaijani airliner with 67 people onboard crashed Wednesday in the Kazakhstani city of Aktau, leaving at least 32 survivors, according to officials. More than 30 people are likely dead.
+
+Kazakhstan’s Emergency Ministry said in a Telegram statement that those on board included five crew. At least 29 have been hospitalized, the ministry told Russia’s state news agency RIA Novosti.
+
+Russian news agency Interfax quoted medical workers as saying that four bodies have been recovered and emergency workers at the scene as saying that both pilots, according to a preliminary assessment, died in the crash.
+
+The Embraer 190 aircraft made an emergency landing 3 km from the city, Azerbaijan Airlines said earlier.
+
+Kazakhstan’s Emergency Ministry initially said 25 people survived the crash, later revising that number to 27, 28, and then 29 as the search and rescue operation continued at the site of the crash, bringing the supposed death toll down.
+
+...
+
+[Data](articles/fca1ecb6.json)
+
+---
+
+### Special traffic monitoring by police
+
+*2024-12-25 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202120) · `ta`
+
+Police crack down on drunk driving & traffic violations ahead of festival: 251 drunk drivers caught, 8747 rule breakers face permit bans.
+
+🟩
+
+Special traffic has been taken by the police to prevent road accidents in view of the festival.
+
+The police said that 251 drivers who had been drinking alcohol had been identified in the country within 24 hours.
+
+In addition, 8,747 people have violated traffic rules and that the permits of the drivers will be banned in the future.
+
+◼️
+
+[Data](articles/8336a2e2.json)
+
+[Extended Data](ext_articles/8336a2e2.ext.json)
 
 ---
 
@@ -250,35 +350,19 @@ It will take a few days to bring her body to the island. Wasantha Handapangoda w
 
 *2024-12-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104490/police-take-action-against-over-8700-traffic-law-violators-in-24-hrs) · `en`
 
-Sri Lanka Police says legal action has been taken against a total of 8,747 traffic law violators, including 251 individuals driving under the influence of liquor, during the last 24 hours.
+Sri Lanka Police says legal action has been taken against a total of 8,747 motorists for violating traffic laws, including 251 individuals driving under the influence of liquor, during the last 24 hours.
+
+In accordance with instructions from the Acting Inspector General of Police (IGP), the special island-wide traffic operation aimed at reducing road accidents will continue throughout the festive season.
+
+Police Spokesman SSP Buddika Manathunga said that no fatal accidents have occurred in the island within the last 24 hours.
+
+Sri Lanka Police urges the public to drive safely, refrain from alcohol consumption, and adhere to traffic laws to protect safe guard lives.
 
 ◼️
 
 [Data](articles/3cacfce0.json)
 
 [Extended Data](ext_articles/3cacfce0.ext.json)
-
----
-
-### Special traffic monitoring by police
-
-*2024-12-25 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202120) · `ta`
-
-Police crack down on drunk driving & traffic violations ahead of festival: 251 drunk drivers caught, 8747 rule breakers face permit bans.
-
-🟩
-
-Special traffic has been taken by the police to prevent road accidents in view of the festival.
-
-The police said that 251 drivers who had been drinking alcohol had been identified in the country within 24 hours.
-
-In addition, 8,747 people have violated traffic rules and that the permits of the drivers will be banned in the future.
-
-◼️
-
-[Data](articles/8336a2e2.json)
-
-[Extended Data](ext_articles/8336a2e2.ext.json)
 
 ---
 
@@ -410,6 +494,8 @@ Investigations have revealed that the accident had occurred due to the existing 
 
 *2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
 
+BREAKING: Azerbaijan Airlines flight traveling from Baku to Grozny crashes in Aktau, Kazakhstan, after reportedly requesting an emergency landing pic.twitter.com/hB5toqEFe2— RT (@RT_com) December 25, 2024
+
 An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
 
 “A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
@@ -420,9 +506,7 @@ The Kazakh transport ministry said there were 62 passengers and five crew member
 
 The country’s emergency situations ministry said its personnel were putting out a fire at the site.
 
-“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
-
-◼️
+...
 
 [Data](articles/36a93a06.json)
 
@@ -2115,101 +2199,5 @@ He was responding to a question raised by a journalist at a press conference hel
 ◼️
 
 [Data](articles/ec0e3277.json)
-
----
-
-### Understanding the true meaning of the day of the day, everyone will unite for the country - Sajith Premadasa
-
-*2024-12-25 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202086) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sajith Premadasa congratulates Christians in Sri Lanka on Holy Festival. Emphasizes Jesus' teachings of peace, love, kindness. Urges unity across races, religions for national progress.
-
-🟩
-
-Opposition Leader Sajith Premadasa congratulates all the Christian people living in Sri Lanka.
-
-The Holy Festival is a symbol of peace and love that reminds the birth of Jesus Christ. The love and human dignity of the Lord set a credible foundation for the humanitarian community. The peace, love, kindness, coexistence and compassion that Jesus taught by Nathar on that day was enough to make our society civilized today.
-
-Focusing on love, peace and brotherhood is not only the religious ceremony of Christians, but also a cultural festival celebrated by all the race, religion, party, color, youth and the elderly living around the world.. It is time for us to understand the meaning of this and advance it as a country.
-
-...
-
-[Data](articles/3bcda1ba.json)
-
-[Extended Data](ext_articles/3bcda1ba.ext.json)
-
----
-
-### தனது சுயவிபரங்களைப் பயன்படுத்தி வெளிநாடுகளில் நிதி மோசடி - குற்றப்புலனாய்வுத் திணைக்களத்தில் அமைச்சர் சுனில் ஹந்துன்நெத்தி முறைப்பாடு
-
-*2024-12-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202087) · `ta`
-
-தனது சுயவிபரங்களைப் பயன்படுத்தி வெளிநாடுகளில் வசிக்கும் இலங்கையர்களிடம் ஒரு தரப்பினர் நிதி மோசடி செய்வதாகத் தெரிவித்து அது தொடர்பில் உடனடியாக விசாரணைகளை முன்னெடுக்குமாறு கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அமைச்சர் சுனில் ஹந்துன்நெத்தி குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு பதிவு செய்துள்ளார்.
-
-நேற்று செவ்வாய்க்கிழமை குற்றப்புலனாய்வுத் திணைக்களத்தில் இது தொடர்பில் முறைப்பாடு பதிவு செய்ததன் பின்னர் இந்த சம்பவம் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
-
-எனது சுயவிபரங்களைப்பயன்படுத்தி வெளிநாடுகளில் வசிக்கும் இலங்கையர்களிடம் ஒரு தரப்பினர் இந்த நிதி மோசடிகளை செய்துள்ளனர். குறிப்பாக என்னைப் போன்று தங்களை அடையாளப்படுத்திக் கொண்டு ஜப்பான், தென்கொரியா, இங்கிலாந்து போன்ற நாடுகளில் வசிக்கும் இலங்கையர்களிடம் வாட்ஸ்அப் மூலம் இந்த மோசடி நடவடிக்கைகளை மேற்கொண்டுள்ளனர். அதற்காக அவர்களுடன் கைத்தொலைபேசி மூலம் வீடியோ அழைப்பை ஏற்படுத்தி  எனது குரலிலும் உரையாடியுள்ளனர்.
-
-...
-
-[Data](articles/3e3a578e.json)
-
----
-
-### බුදු දහම සහ කිතු දහම එකට මුසු වූ 'රුවන්වැලි සෑයට රිදී දුන්' රිදී විහාරය
-
-*2024-12-25 01:35:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cql5kwwq01qo) · `si`
-
-බුදු දහම සහ කිතු දහම එකට මුසු වූ 'රුවන්වැලි සෑයට රිදී දුන්' රිදී විහාරය
-
-කුරුණෑගල, රිදීගම පිහිටි රිදී විහාරය සමග මට ඇති මතකය වසර 34ක් පමණ ඈතට දිව යයි.
-
-එවකට 12 හැවිරිදි වියේ පසුවූ මා, මව සහ පියා සමග රිදී විහාරය නැරඹීමට ගියේ, මල් පහන් පූජා කිරීමේ මූලික අරමුණින් නොවේ. පුරාණ ඉතිහාසය සම්බන්ධයෙන් මා තුළ තිබූ කැමැත්ත සහ කුතුහලය හේතුවෙන් රිදී විහාරයේ පුරාණ තොරතුරු දැක බලා ගැනීමේ අදහසිනි.
-
-අනුරාධපුර යුගයේ දුටුගැමුණු රජ සමය හා සම්බන්ධකම් ඇතැයි කියන රිදී විහාර පරිශ්‍රයේ, රුවන්වැලි සෑය ඉදිකිරීමේදී ඊට අවශ්‍ය රිදී ගොබයක් මතු වූ බව මා අසා තිබිණි.
-
-කෙසේ වෙතත්, මගේ සිත වැඩියෙන් ම ආකර්ෂණය වූයේ, බුදුන් වහන්සේගේ සැතපෙන පිළිමය අබිමුව පිහිටි මල් ආසනයේ ජේසුස් වහන්සේගේ ජීවිත කතාව සිතුවම් කරන ලද පිඟන් ගඩොල් සිය ගණනක් වෙත ය.
-
-වසර 34කට පසු යළිත් මා රිදී විහාරය වෙත ගියේ, ඓතිහාසික බෞද්ධ විහාරස්ථානයක දක්නට ලැබෙන ජේසුස් වහන්සේගේ ජීවිත කතාව දැක්වෙන පිඟන් ගඩොල් පිළිබඳව සවිස්තරාත්මක වාර්තාවක් සැපයීමේ අරමුණිනි.
-
-...
-
-[Data](articles/41e4b386.json)
-
----
-
-### ICC Champions Bowl Cricket 2025 in Pakistan and the United Arab Emirates
-
-*2024-12-25 00:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202085) · `ta`
-
-Here's a 200-character summary:
-
-
-
-ICC Champions Bowl Cricket 2025: Pakistan hosts group stages; UAE for India-related matches. 8 teams compete in 2 groups. Top 2 advance to semis. Finals in Dubai if India qualifies. Political tensions may affect India-Pakistan matches.
-
-🟩
-
-The International Cricket Council officially announced on Tuesday (24) that the ICC Champions Bowl Cricket Tournament will be held on the date.
-
-It has been announced that Pakistan -related competitions will be held in Pakistan and India -related competitions in the United Arab Emirates and Pakistan will have the right to be a welcome country.
-
-The Champions Bowl Cricket Tournament will be played on the international stage again after 2017. In Pakistan, which held the 1996 World Cup with India and Sri Lanka, the ICC will be held 28 years later.
-
-The 8 teams participating in the Champions Bowl Cricket Tournament will be held in two groups in the first round.
-
-Last year, New Zealand and Bangladesh will be held in Afghanistan, Australia, England and South Africa, along with Pakistan and the second largest India in the 2017 ICC Champions Cup at the Kia Oval Stadium in the United Kingdom.
-
-In both groups, the top two teams will be eligible to play in the semi -finals.
-
-...
-
-[Data](articles/dac8b59d.json)
-
-[Extended Data](ext_articles/dac8b59d.ext.json)
 
 ---

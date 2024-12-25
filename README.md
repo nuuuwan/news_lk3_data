@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 11:01:41**
+As of **2024-12-25 11:14:27**
 
 ## Newspaper Stats
 
-*Scraped **61,952** Articles*
+*Scraped **61,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,76 @@ economynextcom | 3,773
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,915
-adaderanalk | 7,566
+adaderanalk | 7,567
 tamilmirrorlk | 8,863
-virakesarilk | 10,246
-adaderanasinhalalk | 10,698
+virakesarilk | 10,247
+adaderanasinhalalk | 10,699
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,537 (99.3%) of 61,952 articles have been extended.
+61,538 (99.3%) of 61,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### இவரை கண்டால் உடன் தகவல் தாருங்கள்...
+### If you find him ...
 
 *2024-12-25 10:51:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இவரை-கண்டால்-உடன்-தகவல்-தாருங்கள்/74-349249) · `ta`
 
-திருட்டுச் சம்பவங்கள் பலவற்றுடன்  தொடர்புடையதாக குறிப்பிடப்படும் சந்தேகநபரை அடையாளம் காண உதவுமாறு சம்மாந்துறை பொலிஸார் பொதுமக்களிடம் கோரிக்கை விடுத்துள்ளனர்.
+Samanthurai police seek public help identifying suspect linked to motorcycle thefts in Ampara district. Contact 0672 260 222 for information.
 
-அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ் பிரிவிற்குட்பட்ட  பகுதியில் அண்மைக் காலமாக மோட்டார் சைக்கிள்கள் திருட்டில் குறித்த நபர் ஈடுபட்டிருந்தார்.
+🟩
 
-அத்துடன் பல்வேறு திருட்டுச் சம்பவம் மற்றும் கொள்ளைச் சம்பவங்களுடன் தொடர்புடைய கீழ்காணும்  குறித்த சந்தேக நபர் பற்றிய தகவல் தெரிந்தால் சம்மாந்துறை பொலிஸ் நிலையத்துக்கு தகவல் வழங்கவுமாறும் குறித்த விடயம் தொடர்பில் தகவல் தருபவரின் இரகசியம் பாதுகாக்கப்படும் என பொலிஸார் குறிப்பிட்டுள்ளனர்.
+The Samanthurai police have called for the public to help identify the suspect who is associated with several incidents.
 
-சம்மாந்துறை பொலிஸ் நிலையம் 0672 260 222 எண்ணுக்கு தொடர்பு கொண்டு குறித்த சந்தேக நபர் பற்றிய தகவலை அறிவிக்குமாறும் கேட்டுக்கொண்டுள்ளனர். R
+In the area of ​​the Samanthurai police division of the Ampara district, a person has been involved in the theft of motorcycles in recent years.
+
+Police have also said that the information of the information on the subject of the report will be protected if the information about the suspect in the case of various thefts and robbery is to be informed by the police station.
+
+The Samanthurai Police Station has contacted 0672 260 222 and asked for information on the suspect. Remble
 
 ◼️
 
 [Data](articles/559b97b1.json)
+
+[Extended Data](ext_articles/559b97b1.ext.json)
+
+---
+
+### නීතිය අතටගත් තාත්තටයි පුතාටයි වැඩ වරදියි
+
+*2024-12-25 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204701) · `si`
+
+මනුෂ්‍ය ඝාතනයකට අවශ්‍යකර සිටි සැකකරුවන් දෙදෙනෙකු ඊයේ (24) අත්අඩංගුවට ගත්බව පොලීසිය පවසයි.
+
+මේ මස 22 වනදා මාදම්පේ පොලිස් වසමේ දෙමටපිටිය ප්‍රදේශයේදී පුද්ගලයින් දෙදෙනෙකු අතර ඇති වූ බහින්බස්වීමක් දුරදිග යාමෙන් පසු අතින් සහ පයින් පහරදී වයස අවුරුදු 42ක් වූ පුද්ගලයෙකු ඝාතනය කිරීමේ චෝදනාවට සැකපිට මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+ඝාතනයට ලක් වූ පුද්ගලයා මනක්කුලම, කාක්කපල්ලිය ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු වන අතර, ඔහුගේ ඝාතනය සම්බන්ධයෙන් මාදම්පේ පොලීසිය විමර්ශන ආරම්භ කර තිබුණි.
+
+එම විමර්ශනයේදී අපරාධයට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු පොලීසිය විසින් ඊයේ (24) සවස මාදම්පේ, දෙමටපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 28 හා 53 වයස්වල පසුවන කරවිටාගාරය ප්‍රදේශයේ පදිංචි පියෙකු සහ පුතෙකු බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/bb40dad8.json)
+
+---
+
+### அரசியலமைப்புக்கான 13  வது திருத்தத்துக்கு நேரப்போகும் கதிக்கான முன்னறிவிப்பு ?
+
+*2024-12-25 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202098) · `ta`
+
+" விரும்பத்தகாத விளைவு நேரப்போகிறது என்பதற்கான முன்னறிவிப்பு  " (The Writing on the Wall) என்பது பைபிளின் பழைய ஏற்பாட்டில் டானியலின் கதையில் இருந்து வந்த ஒரு உருவகமான மொழிநடையாகும். பாபிலோனிய சாம்ராச்சியத்தின் மன்னர் பெல்ஷாசாரும் அவரது நண்பர்கள் பரிவாரமும் உண்டுகுடித்து கும்மாளம் அடித்துக்கொண்டிருந்தவேளையில், வியக்கத்தக்க முறையில் கையொன்று தோன்றி அங்கிருந்த சுவரில் சில வரிகளை எழுதியதைப் பற்றி டானியல் பற்றிய நூலின் ஐந்தாவது அத்தியாயம் கூறுகிறது.
+
+அச்சமடைந்த மன்னராலும் நண்பர்களினாலும் அந்த கை எழுதியதை வாசித்து விளங்கக்கூடியதாக இருக்கவில்லை. அறிவுக்கும் ஞானத்துக்கும் பிரபல்யமான டானியலை அழைத்துவர மன்னர் ஆளை அனுப்பினார். டானியல் வந்து சுவரில் எழுதியிருப்பதை வாசித்துவிட்டு மன்னரின் நாட்களை கடவுள் எண்ணியிருக்கிறார் என்றும் இராச்சியம் வேறு ஒருவரிடம் கையளிக்கப்படப் போகிறது என்று கூறினார்.சுவரில் எழுதியிருந்த வரிகளை பற்றிய டானியலின் வியாக்கியானம் இறுதியில் உண்மை மாறியது.பெல்ஷாசார் அன்றிரவே கொல்லப்பட்டு இராச்சியம் டேறியஸினால் கைப்பற்றப்பட்டது.
+
+...
+
+[Data](articles/1e5aa6dd.json)
 
 ---
 
@@ -213,6 +253,28 @@ Virakesari.lk website congratulates all the Weerakesari readers.
 ◼️
 
 [Data](articles/698f6a0a.json)
+
+---
+
+### Gazette issued on monthly payments to ‘Aswesuma’ beneficiaries in 2025
+
+*2024-12-25 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104485/gazette-issued-on-monthly-payments-to-aswesuma-beneficiaries-in-2025) · `en`
+
+A Gazette notification has been issued announcing the monthly amounts to be paid to ‘Aswesuma’ welfare beneficiaries in 2025.
+
+The previous ‘Aswesuma’ welfare benefit payment scheme, which was first issued on May 17, 2024, has now been rescinded.
+
+However, payments under the previous scheme will continue until December 31, 2024, for beneficiaries whose payments have been delayed due to various reasons.
+
+Additionally, applicants who are yet to be selected for the scheme will be entitled to payments once their eligibility is confirmed.
+
+This includes those who have already submitted appeals, with investigations still underway to determine their qualifications for the welfare benefits.
+
+Gazette issued on monthly payments to ‘Aswesuma’ beneficiaries in 2025 by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/1ec3a7dd.json)
 
 ---
 
@@ -2239,81 +2301,5 @@ A bond maturing on 15.09.2029 closed stable at 10.65/80 percent. (Colombo/Dec24/
 [Data](articles/a1929e8f.json)
 
 [Extended Data](ext_articles/a1929e8f.ext.json)
-
----
-
-### What's the salary increase of public servants?
-
-*2024-12-24 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204679) · `si`
-
-Public servant salary hike planned for 2026, Deputy Minister Anil Jayantha confirms. Details to be included in upcoming budget.
-
-🟩
-
-Deputy Minister of Labor and Economic Development Prof. Anil Jayantha says that there should be a salary increase of public servants next year.
-
-Prof. Anil Jayantha, Deputy Minister of Labor Minister and Economic Development
-
-"We wanted to say the economy was collapsing now.. Get tolerate more ... to tighten the belts. You can bring in the argument that will be made 2026. But we don't. We know the difficulty people live. Will definitely a salary increase. Will submit that details in the budget. "
-
-◼️
-
-[Data](articles/df57b088.json)
-
-[Extended Data](ext_articles/df57b088.ext.json)
-
----
-
-### There is no need to teach the Kammanpila government - Minister Nalinda Jayatissa
-
-*2024-12-24 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202058) · `ta`
-
-Minister Nalinda Jayatissa dismisses Kammanpila's criticism, stating the government understands the Constitution and laws. He emphasizes no need for lessons from critics, urging focus on national progress rather than responding to negative opinions.
-
-🟩
-
-We are working with a complete understanding of the Constitution and the Law. Cabinet spokesman Nalinda Jayatissa said that there is no need to teach the government about this.
-
-He further stated at a press conference announcing the Cabinet decisions on Tuesday (24).
-
-Want to answer Kammanpila's questions?We are fully aware of the constitution and the law of it. The country is enjoying the benefits of the services done by Kammanpilavar.
-
-So we do not want to waste time in response to the opinions of such people. He said he did not need to teach us.
-
-◼️
-
-[Data](articles/f027df97.json)
-
-[Extended Data](ext_articles/f027df97.ext.json)
-
----
-
-### If the Indian central government demands about Kachchativu, we will pay attention - Cabinet spokesman
-
-*2024-12-24 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202055) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Indian govt hasn't demanded Kachchativu. Cabinet says no request made. DMK plans to free TN fishermen & restore Kachchativu permanently. Indian PM & SL Prez discuss humanitarian approach. No immediate action expected.
-
-🟩
-
-No request has been made from the Central Government of India on the recovery of Kachchativu. Cabinet spokesman Nalinda Jayatissa said that if it requested, it would be paid.
-
-The Dravida Munnetra Kazhagam has decided to take steps to release the Tamil Nadu fishermen in Sri Lanka and to restore Kachchativu as a permanent solution to the fishermen issue.
-
-The resolution was passed at a meeting of the party's executive committee held last Sunday (22) under the leadership of MK Stalin, the leader of the party.
-
-In the wake of the recent visit to India, President Anura Kumara Dissanayake and the Prime Minister of India have stated that the fishermen's issue has been agreed to approach the issue with humanitarianism and to find a permanent solution to the fishermen's problem through creative negotiations.
-
-The Dravida Munnetra Kazhagam has urged Tamil Nadu fishermen and their boats to be immediately released to move the negotiations of the Indian Prime Minister and the President.
-
-...
-
-[Data](articles/72d82ec3.json)
-
-[Extended Data](ext_articles/72d82ec3.ext.json)
 
 ---

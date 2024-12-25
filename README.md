@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 15:01:46**
+As of **2024-12-25 15:12:53**
 
 ## Newspaper Stats
 
-*Scraped **61,991** Articles*
+*Scraped **61,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,128 @@ economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,919
-adaderanalk | 7,569
+adaderanalk | 7,572
 tamilmirrorlk | 8,878
 virakesarilk | 10,252
-adaderanasinhalalk | 10,706
+adaderanasinhalalk | 10,708
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,555 (99.3%) of 61,991 articles have been extended.
+61,557 (99.3%) of 61,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### கழுத்தில் பாய்ந்த கூரிய தடி : வெற்றிகரமாக அகற்றம்
+### Special Midnight Worship Events
+
+*2024-12-25 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202102) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Midnight worship services celebrated Jesus' birth across churches. Special rituals in Jaffna, Batticaloa, and Puttalam. Bishops, clergy, and Christians attended. Security measures taken during ceremonies."
+
+🟩
+
+Special rituals and rituals were held in churches around the country to celebrate the birth of Jesus Pran, which revealed to the world.
+
+Yall. The main Nathar midnight Tirupali for the hide district. Jaffna at St. Marianne. The diocese of the diocese of Jasrin Gnanaprakasam was presented as a joint venture under the leadership of the year.
+
+Christmas Day Worship was held under the patronage of Roshan Mahasan, Chief Pastor of the Church.
+
+Christian students were also given the blessing speeches on the greatness of the birth of Jesus Balakan by the main pastor.
+
+The main Christmas rituals and rituals of the Batticaloa district were held amidst strong security at St. Mary's Mary, Puliyantivu, the first scholar of the district.
+
+A special ceremony was held at the St. Judah of Batticaloa.
+
+The events were chaired by the temple blessing Devadasan Adikallar and the Tirupali was acknowledged.
+
+Christmas rituals were held at 12 midnight today at the Shantha Mary's Church in Puttalam.
+
+...
+
+[Data](articles/f5824a16.json)
+
+[Extended Data](ext_articles/f5824a16.ext.json)
+
+---
+
+### මාර්ග තදබදයක් ගැන පොලීසියෙන් දැනුම්දීමක්
+
+*2024-12-25 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204711) · `si`
+
+අද (25) සවස දෙමටගොඩ පොලිස් වසමේ ඇතිවිය හැකි මාර්ග තදබදයක් සම්බන්ධයෙන් රියදුරන් දැනුවත් කරමින් පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ ශ්‍රී විසුද්ධාරාම ලුනාව දේවාල මහා විහාරස්ථානයේ පැවැත්වෙන පෙරහැර හේතුවෙන් මාර්ග අවහිර වීමට ඉඩ ඇති බවය.
+
+දෙමටගොඩ පොලිස් වසමේ ලුනාව දේවාල මහා විහාරස්ථානයේ වාර්ෂික නානුමුර මංගල්‍ය පෙරහැර 71 වන වරට අද (25) දින සවස 06.00 සිට වීථී සංචාරය කිරීමට නියමිතය.
+
+මෙම පෙරහැර නැරඹීම සඳහා විශාල බැතිමතුන් පිරිසක් පැමිණෙතැයි අපේක්ෂා කරනු ලබන අතර ඒ හේතුවෙන් විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන ඇත.
+
+ඒ අනුව මෙම පෙරහැර ශ්‍රී විසුද්ධාරාම ලුනාව දේවාල භූමියෙන් ආරම්භ කර ඉංග්‍රම් හන්දිය, සද්ධර්ම මාවත, ඛෙත්තාරාම පාර, අඩි 100 පාර, බේස්ලයින් පාර, ඔරුගොඩවත්ත හන්දිය, ස්ට්‍රේස් පාර, කොස්ගස් හන්දිය, ග්‍රෑන්ඩ්පාස් පාර, ඉඟුරුකඩේ හන්දිය, ඇප්රෝච් පාර, බණ්ඩාරනායක හන්දිය, බේස්ලයින් පාර, ඔරුගොඩවත්ත හන්දිය ඔස්සේ නැවත විහාරස්ථානය වෙත ගමන් කිරීමට නියමිතය.
+
+...
+
+[Data](articles/9213c1f1.json)
+
+---
+
+### Strong rod on the neck: successfully removal
 
 *2024-12-25 14:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கழுத்தில்-பாய்ந்த-கூரிய-தடி-வெற்றிகரமாக-அகற்றம்/175-349269) · `ta`
 
-கூரிய தடி ஒன்று கழுத்தில் குத்தி கழுத்தை ஊடறுத்து உயிருக்கு ஆபத்தான நிலையில் வவுனியா பொது வைத்தியசாலையில் அனுமதிக்கப்பட்ட முதியவர், வைத்தியர்களால் மேற்கொண்ட சத்திரசிகிச்சையினால்  கூரிய தடி அகற்றப்பட்டதுடன் அவர் காப்பாற்றப்பட்டார்.
+Elderly man's strong rod on neck removed at Vavuniya General Hospital. Quick surgery performed by Dr. Nageshwaran under anesthesia. Successful rescue.
 
-முதியவர், உரிய நேரத்தில் வைத்தியசாலையில் அனுமதிக்கப்பட்டதுடன்,   விரைவாக முன்னெடுக்கப்பட்ட சத்திரசிகிச்சை மூலம் அவரது கழுத்தில் இருந்து  தடி அகற்றப்பட்டதுடன் அவர் உயிராபத்தின்றி காப்பாற்றப்பட்டார்.
+🟩
 
-இவ் வெற்றிகரமான சத்திரசிகிச்சை உணர்வழியியல் மருத்துவ நிபுணர் நாகேஸ்வரன் தலைமையிலான மயக்க மருந்து (Anesthesia) அணியினருடன் இணைந்து
+The elderly man, who was admitted to the Vavuniya General Hospital, was removed and rescued by the doctors.
+
+The old man was admitted to the hospital in a timely manner and was quickly removed from his neck by a rapid surgery and was rescued.
+
+Anesthesia, led by Nageshwaran, a successful surgery of the medical professionalist Nageshwaran.
 
 ◼️
 
 [Data](articles/4f29f7f6.json)
+
+[Extended Data](ext_articles/4f29f7f6.ext.json)
+
+---
+
+### බීමතින් රිය ධාවනය කළ 251ක් හසුවෙයි
+
+*2024-12-25 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204710) · `si`
+
+ශ්‍රී ලංකා පොලීසිය විසින් ක්‍රියාත්මක කරනු ලබන විශේෂ රථවාහන මෙහෙයුම යටතේ ගත වූ පැය 24 තුළ බීමතින් රිය ධාවනය කළ 251 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+මේ අනුව මෙම විශේෂ රථවාහන මෙහෙයුම යටතේ බීමතින් රිය ධාවනය කළ පුද්ගලයන් ඇතුළුව සමස්ත රියදුරන් 8,747කට එරෙහිව නීතිය ක්‍රියාත්මක කර තිබේ.
+
+උත්සව සමයේ රිය අනතුරු අවම කරගැනීමේ අරමුණින් යුතුව වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ උපදෙස් මත ඉකුත් 23 වනදා සිට මෙම විශේෂ රථවාහන මෙහෙයුම ක්‍රියාත්මක වේ.
+
+මේ අතර පසුගිය පැය 24 තුළ දිවයිනේ කිසිදු මාරක රිය අනතුරක් සිදුව නොමැති බවද පොලීසිය පවසයි.
+
+පසුගිය දිනවල මගී ප්‍රවාහන බස් රථ ඇතුළු අනෙකුත් වාහනවලින් සිදු වූ රිය අනතුරු සැලකිල්ලට ගනිමින් දිගින් දිගටම එවැනි අනතුරු සිදුවීම අවම කර ගැනීම සඳහා මෙම රථවාහන මෙහෙයුම සිදු කෙරේ.
+
+◼️
+
+[Data](articles/5714ab3e.json)
+
+---
+
+### Police take action against over 8,700 traffic law violators in 24 hrs
+
+*2024-12-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104490/police-take-action-against-over-8700-traffic-law-violators-in-24-hrs) · `en`
+
+Sri Lanka Police says legal action has been taken against a total of 8,747 traffic law violators, including 251 individuals driving under the influence of liquor, during the last 24 hours.
+
+◼️
+
+[Data](articles/3cacfce0.json)
 
 ---
 
@@ -70,17 +164,23 @@ In addition, 8,747 people have violated traffic rules and that the permits of th
 
 ---
 
-### රුසියාව බලා පියාසර කළ ගුවන් යානයක් කඩා වැටෙයි
+### A fly plane crashes into Russia
 
 *2024-12-25 14:09:07* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාව-බලා-පියාසර-කළ-ගුවන්-යානයක්-කඩා-වැටෙයි/11-413838) · `si`
 
-අසර්බයිජානයේ සිට රුසියාව බලා ගමන් කරමින් තිබූ අසර්බයිජානයට අයත් ගුවන් යානයක් කසකස්ථානයේදි කඩා වැටි ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Plane crash in Russia: Azerbaijani flight with 67 passengers, including 5 crew members, reported down. Ministry of Emergency Situations confirms incident.
 
-ගුවන් යානය කඩා වැටෙන විට එහි ගුවන් කාර්ය මණ්ඩලයේ 5 දෙනෙකු ඇතුළුව 67ක් ගමන් කර තිබේ. ගුවන් අනතුරින් 25 දෙනෙකු බේරි ඇති බවත් එයින් 22ක් රෝහල් ගත කර ඇති බවත් කසකස්ථාන ආපදා අමාත්‍යාංශය උපුටා දක්වමින් බි.බි.සී. පුවත් සේවය තොරතුරු වාර්තා කරයි.
+🟩
+
+International media reports that an Azerbaijan from Azerbaijan to Russia's traveling to Russia, the international media reports.
+
+67 including 5 people of the aircraft crashes when the plane crashes. Citing the Ministry of Disaster and 22. News Service Reports Information
 
 ◼️
 
 [Data](articles/c87796ff.json)
+
+[Extended Data](ext_articles/c87796ff.ext.json)
 
 ---
 
@@ -130,39 +230,23 @@ He further stated that the public should pay special attention to protecting suc
 
 ---
 
-### Special Midnight Worship Events
+### Father and son arrested over murder in Madampe
 
-*2024-12-25 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202102) · `ta`
+*2024-12-25 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104489/father-and-son-arrested-over-murder-in-madampe) · `en`
 
-Here's a summary of the text in approximately 200 characters:
+Two individuals wanted in connection with a murder were apprehended in the Dematapitiya area of Madampe last evening (24).
 
+The arrests pertain to the alleged murder of a 42-year-old man, who was reportedly beaten to death following an argument that escalated out of control in the Dematapitiya area within the jurisdiction of the Madampe Police Division on December 22.
 
+The deceased was identified as a resident of Kakkapalliya in Manakkulama, and the Madampe Police had launched an investigation into his death.
 
-"Midnight worship services celebrated Jesus' birth across churches. Special rituals in Jaffna, Batticaloa, and Puttalam. Bishops, clergy, and Christians attended. Security measures taken during ceremonies."
+Accordingly, during the course of the investigation, two suspects linked to the crime were taken into custody.
 
-🟩
+According to the police, the suspects are a father and son, aged 53 and 28 respectively, who reside in the Karavitagaraya area.
 
-Special rituals and rituals were held in churches around the country to celebrate the birth of Jesus Pran, which revealed to the world.
+◼️
 
-Yall. The main Nathar midnight Tirupali for the hide district. Jaffna at St. Marianne. The diocese of the diocese of Jasrin Gnanaprakasam was presented as a joint venture under the leadership of the year.
-
-Christmas Day Worship was held under the patronage of Roshan Mahasan, Chief Pastor of the Church.
-
-Christian students were also given the blessing speeches on the greatness of the birth of Jesus Balakan by the main pastor.
-
-The main Christmas rituals and rituals of the Batticaloa district were held amidst strong security at St. Mary's Mary, Puliyantivu, the first scholar of the district.
-
-A special ceremony was held at the St. Judah of Batticaloa.
-
-The events were chaired by the temple blessing Devadasan Adikallar and the Tirupali was acknowledged.
-
-Christmas rituals were held at 12 midnight today at the Shantha Mary's Church in Puttalam.
-
-...
-
-[Data](articles/f5824a16.json)
-
-[Extended Data](ext_articles/f5824a16.ext.json)
+[Data](articles/7d60a42b.json)
 
 ---
 
@@ -187,6 +271,28 @@ Embraer 190 වර්ගයේ ගුවන් යානයක් වන මෙ�
 ◼️
 
 [Data](articles/24678885.json)
+
+---
+
+### Azerbaijan Airlines plane crashes over Kazakhstan
+
+*2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
+
+An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
+
+“A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
+
+Azerbaijan Airlines, the country’s flag carrier, said the Embraer 190 had “made an emergency landing” around three kilometres from Aktau, an oil and gas hub on the eastern shore of the Caspian Sea.
+
+The Kazakh transport ministry said there were 62 passengers and five crew members on the plane.
+
+The country’s emergency situations ministry said its personnel were putting out a fire at the site.
+
+“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
+
+◼️
+
+[Data](articles/36a93a06.json)
 
 ---
 
@@ -361,6 +467,26 @@ These measures include suspension of those who do not understand duties to cause
 [Data](articles/b946f076.json)
 
 [Extended Data](ext_articles/b946f076.ext.json)
+
+---
+
+### Sri Lanka Christmas cake costs deflate 7.3-pct in 2024
+
+*2024-12-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-christmas-cake-index-deflates-7-3-pct-in-2024-196287/) · `en`
+
+ECONOMYNEXT – The cost of key ingredients for making Sri Lanka’s Christmas cake, fell 7.3 percent in 2024 amid deflationary policy and currency appreciation followed by the central bank under Governor Nandalal Weerasinghe, retail price data show.
+
+The difference in the cost of ingredients from 2022, when deflationary policy started showing up in the balance of payments and November 2024 was only 0.8 percent.
+
+The widely watched Colombo Consumer Price Index also rose 1.2 percent from November 2022 to November 2024.
+
+The  Sri Lanka Christmas cake is acclaimed by international foodies who have tried out the confection to be perhaps the World’s Best’.
+
+“For years I firmly believed that I had tried every single variation of the Christmas cake possible. Light, dark, moist, dry, British, Scottish, Italian, Serbian… That was, until I met my Sri Lankan husband,” writes author Queensashay at Food52, a foodie portal.
+
+...
+
+[Data](articles/2be5a556.json)
 
 ---
 
@@ -785,26 +911,6 @@ The arrested suspects is a father and son of a resident of the area in the area 
 [Data](articles/bb40dad8.json)
 
 [Extended Data](ext_articles/bb40dad8.ext.json)
-
----
-
-### Sri Lanka Christmas cake index deflates 7.3-pct in 2024
-
-*2024-12-25 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-christmas-cake-index-deflates-7-3-pct-in-2024-196287/) · `en`
-
-ECONOMYNEXT – The cost of key ingredients for making Sri Lanka’s Christmas cake, fell 7.3 percent in 2024 amid deflationary policy and currency appreciation followed by the central bank under Governor Nandalal Weerasinghe, retail price data show.
-
-The difference in the cost of ingredients from 2022, when deflationary policy started showing up in the balance of payments and November 2024 was only 0.8 percent.
-
-The widely watched Colombo Consumer Price Index also rose 1.2 percent from November 2022 to November 2024.
-
-The  Sri Lanka Christmas cake is acclaimed by international foodies who have tried out the confection to be perhaps the World’s Best’.
-
-“For years I firmly believed that I had tried every single variation of the Christmas cake possible. Light, dark, moist, dry, British, Scottish, Italian, Serbian… That was, until I met my Sri Lankan husband,” writes author Queensashay at Food52, a foodie portal.
-
-...
-
-[Data](articles/2be5a556.json)
 
 ---
 
@@ -2027,155 +2133,5 @@ Amid those developments both indices moved upwards. All Share Price Index up by 
 ...
 
 [Data](articles/7c8f4ce3.json)
-
----
-
-### Russian cargo ship sinks in Mediterranean after engine room blast, 2 crew missing
-
-*2024-12-24 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104478/russian-cargo-ship-sinks-in-mediterranean-after-engine-room-blast2crewmissing) · `en`
-
-A Russian cargo ship sank in the Mediterranean Sea between Spain and Algeria, leaving two crew members missing, Spain’s maritime rescue agency and the Russian Foreign Ministry said Tuesday.
-
-Fourteen of the Ursa Major’s crew were rescued uninjured from a lifeboat and transferred to Spain, the agency said. The Russian ministry said the ship started sinking following an explosion in the engine room.
-
-The vessel was owned by SK-Yug, a subsidiary of the Russian shipping and logistics company Oboronlogistika, which was established under Russia’s defense ministry and placed under U.S. and European Union sanctions for its ties to Russia’s military.
-
-Spanish authorities said there were empty containers and two cranes on board. They did not confirm the cause of the accident.
-
-...
-
-[Data](articles/02ecb4ba.json)
-
-[Extended Data](ext_articles/02ecb4ba.ext.json)
-
----
-
-### The Vidyalaya in the Divine's video protests
-
-*2024-12-24 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204690) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Buddhist monasteries protest Chinese religious program. Cardinal condemns incident. Religious leaders call for legal action against religious conflicts.
-
-🟩
-
-Malwatte and Asgiri Maha Viharaya have shown that action should be taken against Buddhism to a religious conflict to a religious conflict.
-
-The Naman said these comments today (24) at a few parties against the role of the pasco-Jerem's role.
-
-Social media had been released recently a video of a Chinese program in a religious program of a religious program of a religious program held in a religious program.
-
-Cardinal was condemned by condemning such incidents yesterday (23).
-
-The Buddhist monks of Ravana Power and Sinhala organizations in this backdrop, the Buddhist monastery of the Malwatte side of the Malwatte Ven.
-
-Speaking on the occasion, the Malwatte faction, Malwatte, Maha Sumangala Thera said that action should be taken as a law.
-
-Meanwhile, the Naymen of the Asgiriya and Malwatte Ven.
-
-◼️
-
-[Data](articles/96a82a1a.json)
-
-[Extended Data](ext_articles/96a82a1a.ext.json)
-
----
-
-### The UN. Government Memorandum of Understanding with Training and Research Institute
-
-*2024-12-24 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202084) · `ta`
-
-UN MoU: UN Training & Research Institute partners with Foreign Affairs Ministry. Aims to enhance diplomacy training, reduce disasters, manage global IT. Mutual benefits through resource sharing.
-
-🟩
-
-A Memorandum of Understanding (MoU) will be signed between the United Nations Training and Research Institute and the Ministry of Foreign Affairs, Foreign Employment and Tourism Ministry.
-
-The agreement is to be signed to prepare a cooperation work frame that each party can formulate and implement the work and provide them with mutual benefits using the resources.
-
-Under the Memorandum of Understanding (Memorandum of Understanding, particularly, the agenda of the year 2030 for the implementation of the agenda of the 2030 is expected to be carried out by the training and learning cooperation of diplomats, reduction of disaster and crises and the management of global information technology.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of External Affairs, Foreign Employment and Tourism to sign a Memorandum of Understanding proposed between the two sides.
-
-◼️
-
-[Data](articles/c2cd2f28.json)
-
-[Extended Data](ext_articles/c2cd2f28.ext.json)
-
----
-
-### Lots of information on the shooting of Ja-Canal
-
-*2024-12-24 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204688) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Unidentified gunmen shoot each other in Ja-Canal, Battu. Two persons on a motorbike fired at a house around 1:30 AM. Police suspect a dispute between criminal gangs. Seven arrested, linked to Batuwatta Chamara."
-
-🟩
-
-Two unidentified gunmen were shot dead by two unidentified gunmen in Ja-Canal, Battu, a criminal in Dubai.
-
-Two persons who came in a motorbike around 1.30 this morning were shooting from a T56 riffle in Ja-Eat.
-
-About 30 shots have been targeted at the residence and two nearby houses have been damaged.
-
-The home of the shooter's goal belongs to the wife of Chamara, a criminal in Batuwatta, a criminal in Dubai.
-
-Police say that there are no residents of the shooting.
-
-The house had shouting the house on the 15th.
-
-Police suspect that the shooting has caused a dispute between a criminal gang member.
-
-The house of Hugger Ranji, Kanda Ranji, had shooting the house on the 13th.
-
-Accordingly, seven persons have been arrested by the Kandana Police regarding the shooting and they had revealed that the shooting was shooting on the instructions of Batuwatta Chamara.
-
-◼️
-
-[Data](articles/9742e37d.json)
-
-[Extended Data](ext_articles/9742e37d.ext.json)
-
----
-
-### Are smashing and powder from worthless country
-
-*2024-12-24 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204687) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A suspect named Kudu Shalu failed to appear before CID on bail. Police investigated him after he disappeared. Magistrate issued arrest warrants.
-
-🟩
-
-It is suspected that the disappeared is the disappeared, police sources said.
-
-The bail of bail is suspected to be abundant by the precious and small sea sea.
-
-He has not been able to find a group of police officers to examine some of the shable areas in such a background.
-
-The Court was conducting a condition to appear before the Criminal Investigation Department (CID) to appear on bail.
-
-However, he has not appeared before the CID on the 22nd.
-
-Accordingly, the Criminal Investigation Department (CID) investigated the Panadura Magistrate yesterday (23).
-
-The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" who was arrested and produced in court.
-
-◼️
-
-[Data](articles/ea8d434b.json)
-
-[Extended Data](ext_articles/ea8d434b.ext.json)
 
 ---

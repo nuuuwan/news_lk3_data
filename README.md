@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 11:27:16**
+As of **2024-12-25 11:43:58**
 
 ## Newspaper Stats
 
-*Scraped **61,960** Articles*
+*Scraped **61,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,916
 adaderanalk | 7,567
-tamilmirrorlk | 8,867
+tamilmirrorlk | 8,868
 virakesarilk | 10,247
 adaderanasinhalalk | 10,699
 
@@ -26,63 +26,111 @@ adaderanasinhalalk | 10,699
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,539 (99.3%) of 61,960 articles have been extended.
+61,543 (99.3%) of 61,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### மஹிந்தவுக்கு கொலை மிரட்டல்
+### Rupawahini Corporation Chairman resigns
+
+*2024-12-25 11:23:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூபவாஹினி-கூட்டுத்தாபனத்தின்-தலைவர்-இராஜினாமா/175-349254) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka Rupavahini Corporation Chairman Dr. Senesh Bandara resigns. Anura Kumara Dissanayake becomes President, appointing Vijitha Herath as new Chairman.
+
+🟩
+
+Dr. Senesh Bandara, Chairman of the Sri Lanka Rupavahini Corporation (SLRC), resigned from his post yesterday.
+
+Once Anura Kumara Dissanayake was elected president, former Media Minister Vijitha Herath was appointed to the post.
+
+◼️
+
+[Data](articles/b4bed93a.json)
+
+[Extended Data](ext_articles/b4bed93a.ext.json)
+
+---
+
+### Threaten to kill Mahinda
 
 *2024-12-25 11:16:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-கொலை-மிரட்டல்/175-349253) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகள் மற்றும் விடுதலைப் புலி குழுக்களிடமிருந்து கொலை மிரட்டல் விடுக்கப்பட்டுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) சட்டத்தரணிகள் சங்கத்தின் உப தலைவர் மனோஜ் கமகே தெரிவித்துள்ளார்.
+ISIS LTTE threaten Mahinda Rajapakse security concerns withdrawal soldiers police protection insufficient
 
-ராஜபக்சேவின் பாதுகாப்பு பிரிவிலிருந்து இராணுவ வீரர்கள் திரும்பப் பெறப்பட்டதைத் தொடர்ந்து இப் பாதுகாப்பு கரிசனங்கள் பற்றி அவர் ஊடகங்களுக்கு தெரிவித்தார்.
+🟩
 
-எஞ்சியுள்ள ஆயுதமேந்திய இராணுவ வீரர்களுக்கு பதிலாக முன்னாள் ஜனாதிபதியின் பாதுகாப்பிற்காக பொலிஸ் அதிகாரிகளை நியமிக்கும் பொது பாதுகாப்பு அமைச்சின் தீர்மானத்தை கமகே விமர்சித்தார், அச்சுறுத்தல்களின் தீவிரத்தை கருத்தில் கொண்டு இது போதுமானதாக இல்லை என்று கூறினார்.
+Former President Mahinda Rajapakse has been threatened with murder from ISIS terrorists and LTTE groups, said Manoj Kamage, Vice President of the Sri Lanka PA (SLPP) Lawyers Association.
 
-இந்த நெருக்கடியான அச்சுறுத்தல்களுக்கு மத்தியில் அனுபவம் வாய்ந்த இராணுவ வீரர்களுக்குப் பதிலாக பொலிஸ் அதிகாரிகளை மாற்றுவது முன்னாள் ஜனாதிபதியின் பாதுகாப்பை விட்டுக்கொடுப்பதாக அவர் மேலும் கவலை தெரிவித்தார்.
+He told the media about the security concerns following the withdrawal of soldiers from Rajapakse's security forces.
+
+Kamage criticized the resolution of the Public Security Ministry to appoint police officers for the protection of the former president's protection, replacing the remaining armed soldiers, saying that this was not sufficient to consider the severity of the threats.
+
+He further expressed concern that the replacement of police officers to the former president's safety would be abandoned amid these crisis threats.
 
 ◼️
 
 [Data](articles/9b99a578.json)
 
+[Extended Data](ext_articles/9b99a578.ext.json)
+
 ---
 
-### அஸ்வெசும தொடர்பில் அதிரடி வர்த்தமானி
+### Action Gazette
 
 *2024-12-25 10:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-தொடர்பில்-அதிரடி-வர்த்தமானி/175-349251) · `ta`
 
-புதிய விசேட வர்த்தமானி மூலம், அஸ்வெசும நலன்புரி நன்மைக் கொடுப்பனவுத் திட்டத்தின் கீழ் தகுதியான குடும்பங்கள் மற்றும் தனிநபர்களுக்கு மாதாந்தப் பலன்களை வழங்குவதற்கான திட்டத்தை அறிவித்து ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் புதிய வர்த்தமானி அறிவிப்பு வெளியிடப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் 17.05.2024 அன்று வெளியிடப்பட்ட விசேட வர்த்தமானி அறிவித்தலும், இது தொடர்பில் இதுவரை அமுல்படுத்தப்பட்டிருந்த நிலையில், இம்மாதம் 21ஆம் திகதி வெளியிடப்பட்ட இந்த புதிய வர்த்தமானி அறிவித்தல் மூலம் இரத்துச் செய்யப்பட்டுள்ளது.
 
-2025 ஜனவரி முதல் மார்ச் வரை 480,000 இடைநிலைக் குடும்பங்கள் 5000 ரூபாய். 2025 ஜனவரி முதல் டிசம்பர் வரை 480,000 பாதிக்கப்படக்கூடிய குடும்பங்கள் 5000 ரூபாய், 960,000 ஏழைக் குடும்பங்கள் 480,000 மாதாந்திர நிவாரணப் பலன்கள் 17,500 ரூபாய் வழங்க உத்தேசிக்கப்பட்டுள்ளது.
 
-குடும்ப உறுப்பினர்களின் எண்ணிக்கை 2 அல்லது அதற்கும் குறைவாக இருந்தால், இந்த கொடுப்பனவுகளில் பாதிக்கு உரிமை உண்டு.
+New gazette notification cancels previous welfare scheme. President announces monthly benefits: Rs 5000 for 480k vulnerable families, Rs 960k for poor families. Half allowance for families with 2 or fewer members. Proposal extends until June 2025.
 
-...
+🟩
+
+Through the new Special Gazette, President Anura Kumara Dissanayake has issued a new gazette notification to announce a monthly benefit to eligible families and individuals under the Ashem Welfare Welfare Payment Scheme.
+
+The special gazette notification issued by former President Ranil Wickremesinghe on 17.05.2024 has been canceled by the announcement of the new gazette released on the 21st of this month.
+
+480,000 intermediate families from January to March 2025 5000. From January 2025 to December, 480,000 vulnerable families are expected to offer Rs 5000 and 960,000 poor families 480,000 monthly relief benefits.
+
+If the number of family members is 2 or less, half of these allowances are entitled.
+
+In addition, from January to June 2025, the proposal is Rs.
+
+◼️
 
 [Data](articles/a12b70e4.json)
 
+[Extended Data](ext_articles/a12b70e4.ext.json)
+
 ---
 
-### வசந்தா ஹந்தபாங்கொட காலமானார்
+### Vasantha has passed away Handabangoda
 
 *2024-12-25 10:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசந்தா-ஹந்தபாங்கொட-காலமானார்/175-349250) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஆசிரியர் சங்கத்தின் முன்னாள் தலைவர் வசந்தா ஹந்தபாங்கொட காலமானார்.
+Vasantha Handabangoda, ex-president of Sri Lanka PA's Peramuna Teachers Union, passed away. Hospitalized in UK, died untreated after 2 days. Notable figure post-Galle Face violence, May 9, 2022.
 
-சமீபத்தில், இங்கிலாந்தில் உள்ள தனது மகளைப் பார்க்கச் சென்றிருந்த அவர், திடீர் உடல்நலக்குறைவு காரணமாக மருத்துவமனையில் அனுமதிக்கப்பட்டார்.
+🟩
 
-அங்கு இரண்டு நாட்களாக சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சைப் பலனின்றி உயிரிழந்தார்.
+Vasantha Handabangoda, former president of the Sri Lanka PA's Peramuna Teachers Union, has passed away.
 
-கடந்த 2022 ஆம் ஆண்டு மே மாதம் 9 ஆம் திகதி காலி முகத்திடலில் இடம்பெற்ற போராட்டத்தின் போது இடம்பெற்ற வன்முறைச் சம்பவங்களின் பின்னர் சமூகத்தில் இவரைப் பற்றி அதிகம் பேசப்பட்டது.
+Recently, she went to visit his daughter in the UK and was hospitalized due to a sudden illness.
+
+He died without treatment for two days.
+
+He was very much talked about in the community after the violent incidents that took place during the Galle Face of Galle on May 9, 2022.
 
 ◼️
 
 [Data](articles/eabc0b12.json)
+
+[Extended Data](ext_articles/eabc0b12.ext.json)
 
 ---
 
@@ -2245,37 +2293,5 @@ The bail order stated that he should be present in the public complaint section 
 [Data](articles/025e5584.json)
 
 [Extended Data](ext_articles/025e5584.ext.json)
-
----
-
-### Dayasiri gets the same
-
-*2024-12-24 17:54:17* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරි-හත්පොලේ-ගා-ගන්නවා/11-413829) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-MP Dayasiri Jayasekera threatens revenge over comments about the President's Fund committee. He accuses others of receiving funding while he remained silent, comparing them to pigs rolling in mud.
-
-🟩
-
-Minister Dayasiri Jayasekera said that MP Dayasiri Jayasekera is going to take revenge on his statement regarding the committee of the President's Fund.
-
-He was responding to the question of the question in the press conference to inform the Cabinet decisions.
-
-"There are only a few politicians who have received funded by the President to 2024 and have a list of names.
-
-About Dayasiri told me, everyone I chimed me out except Dayasiri.
-
-Dayasiri says only one thing. I recall the pigs shearing in some mud and jumps to a stream of a river, and triump the mud in the mud or wool.
-
-Is that what this is done by this, how much did Dayasiri have so much from the Presidential Fund?Have you got any more funds?Did you get the insurance?The ones say. He's why this is being carried out. I couldn't have been ignored and paid it.
-
-◼️
-
-[Data](articles/c3c54cef.json)
-
-[Extended Data](ext_articles/c3c54cef.ext.json)
 
 ---

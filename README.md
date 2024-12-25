@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 17:12:33**
+As of **2024-12-25 17:44:33**
 
 ## Newspaper Stats
 
-*Scraped **62,000** Articles*
+*Scraped **62,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,753
 economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,920
+adalk | 5,921
 adaderanalk | 7,572
 tamilmirrorlk | 8,880
 virakesarilk | 10,252
@@ -26,45 +26,57 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,566 (99.3%) of 62,000 articles have been extended.
+61,570 (99.3%) of 62,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### போக்குவரத்து நெரிசல் குறித்து பொலிஸார் அவசர அறிவிப்பு
+### Police emergency notice on traffic congestion
 
 *2024-12-25 16:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்து-நெரிசல்-குறித்து-பொலிஸார்-அவசர-அறிவிப்பு/175-349283) · `ta`
 
-தெமட்டகொட பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் இன்று (25) மாலை போக்குவரத்து நெரிசல் ஏற்படக்கூடும் என சாரதிகளுக்கு அறிவித்தல் விடுக்கப்பட்டுள்ளது.
+Traffic alert: Dematagoda police division expects congestion due to Perahera procession. Avoid areas around Sri Vishutharama Lunawa Vihara tonight. Use alternative routes.
 
-ஸ்ரீ விசுத்தாராம லுனாவ விகாரையின் பெரஹெர ஊர்வலம் நடைபெறுவதால் வீதிகளில் போக்குவரத்து நடவடிக்கைகள் பாதிக்கப்படலாம் என தெரிவிக்கப்படுகிறது.
+🟩
 
-தெமட்டகொட பொலிஸ் பிரிவுக்குட்பட்ட லுனாவ மகா விகாரையின் 71ஆவது வருடாந்த மங்கள பெரஹெர நிகழ்வின் வீதி ஊர்வலம் இன்று (25) மாலை 06.00 மணி முதல் நடைபெறவுள்ளது.
+Drivers have been informed that there will be a traffic congestion in the area of ​​the Dematagoda police division this evening.
 
-மேற்படி பெரஹெர ஶ்ரீ விசுத்தாராம விகாரையில் இருந்து புறப்பட்டு, இங்கிரம சந்தி, சத்தர்ம மாவத்தை, கெத்தாராம வீதி, அடி 100 வீதி, பேஸ்லைன் வீதி, ஒருகொடவத்தை சந்தி, ஸ்டேஸ் வீதி, பலாமரச் சந்தி, கிரான்ட்பாஸ் வீதி, இங்குருகடே சந்தி, எப்ரோச் வீதி, பண்டாரநாயக்க சந்தி, பேஸ்லைன் வீதி, ஒருகொடவத்தை சந்தியின் ஊடாக மீண்டும் விகாரைக்கு வருகைத்தரும்.
+It is reported that the Perahera procession of the Sri Vishutharama Lunawa Vihara is likely to be affected.
 
-எனவே, பெரஹெர பயணத்தின் போது சாரதிகள் மற்றும் பொதுமக்கள் பின்வரும் மாற்று வழிகளை பயன்படுத்துமாறு பொலிஸார் கேட்டுக்கொண்டுள்ளனர். R
+The 71st Annual Mangala Perahera event of the Lunawa Maha Vihara, which belongs to the Dematagoda Police Division, will be held today (25) from 06.00 pm.
+
+The Perahera Sree Visitarama Vihara departed from the Visutharama Viharaya, Ingrama Junction, Satharma Mawatha, Ketharama Road, Ad 100 Road, Baseline Road, Okodavatte Junction, Stas Road, Palamarach Junction, Grandpas StreetVisit the Vihara again.
+
+Therefore, drivers and the public have been asked to use the following alternatives during the Perahera trip. Remble
 
 ◼️
 
 [Data](articles/9b05d3b9.json)
 
+[Extended Data](ext_articles/9b05d3b9.ext.json)
+
 ---
 
-### பாதுகாப்பு நீக்கியதை எதிர்த்து நீதிமன்றம் செல்ல முஸ்தீபு
+### Mustafabu to go to court against security removal
 
 *2024-12-25 16:45:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-நீக்கியதை-எதிர்த்து-நீதிமன்றம்-செல்ல-முஸ்தீபு/175-349282) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பாதுகாப்பு நீக்கப்பட்டது தொடர்பில் நீதிமன்றத்திற்கு செல்வதற்கு தேவையான ஏற்பாடுகள் மேற்கொள்ளப்பட்டு வருவதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய செயற்குழு உறுப்பினர் சட்டத்தரணி  ரவீந்திர ஜயசிங்க புதன்கிழமை (25) நடைபெற்ற  ஊடகவியலாளர் சந்திப்பொன்றில் தெரிவித்தார்.
+Sri Lanka: Former President Mahinda Rajapaksa faces court challenge over security removal. Attorney Ravindra Jayasinghe argues against removing presidential protection citing economic reasons. National People's Power member criticizes decision, claiming it's based on flawed Uganda report.
 
-முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பிற்காக பொலிஸ் உத்தியோகத்தர்களை நீக்கினால் அது அவசியம் என்று திருப்தியடைய முடியும் எனவும் பொருளாதார காரணங்களுக்காக முப்படையினரையும் நீக்குவதை ஏற்றுக்கொள்ள முடியாது எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் திருமதி நிலாந்தி கோட்டஹச்சி, சட்டத்தரணி என்ற வகையில் கூறியுள்ள கருத்து ஏற்றுக்கொள்ளக் கூடியதல்ல எனவும் அவர் தெரிவித்த ரவீந்திர ஜயசிங்க, உகண்டா அறிக்கை போன்று இதுவும் மக்களை தவறாக வழிநடத்தும் என்றும் தெரிவித்துள்ளார்.
+At a media briefing held on Wednesday (25), Sri Lanka's National Executive Committee Member Attorney -at -Law Ravindra Jayasinghe said that the necessary arrangements are being made to go to court on the sale of former President Mahinda Rajapaksa.
+
+He said that it would be necessary to remove the police officers for the protection of former presidents and that it would not be acceptable to remove the armed forces for economic reasons.
+
+Mrs. Nilanti Kothachi, a member of the National People's Power, said that as a lawyer, Ravindra Jayasinghe said that this would be wrongly guided by the Uganda report.
 
 ◼️
 
 [Data](articles/2cbca5e9.json)
+
+[Extended Data](ext_articles/2cbca5e9.ext.json)
 
 ---
 
@@ -129,6 +141,34 @@ Therefore, the police are requested to use the following alternate routes using 
 [Data](articles/9213c1f1.json)
 
 [Extended Data](ext_articles/9213c1f1.ext.json)
+
+---
+
+### 251 drunk drivers arrested for 24 hours
+
+*2024-12-25 14:34:57* · [`adalk`](https://www.ada.lk/breaking_news/පැය-24කදී-බීමත්-රියදුරන්-251ක්-අල්ලයි/11-413840) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"251 drunk drivers arrested in 24 hours. Fatal accident reported. Road safety campaign ongoing during festive period."
+
+🟩
+
+Police Media Spokesperson SSP lawma Manenhicunga said that the law has been launched against 8747 drivers who violated 251 other road accidents during the past 24 hours.
+
+According to the media spokesman, a fatal accident was reported from anywhere in the country in the 24 hours.
+
+It is driving in accordance with road rules and to be drunk during the next period and assist the Sri Lankan Police to safeguard the lives of others and others.
+
+The SLSI operation continues to run the ceremony during the direction of the festive period on the instructions of acting IGP Priyantha Weerasuriya.
+
+◼️
+
+[Data](articles/34b9b4f5.json)
+
+[Extended Data](ext_articles/34b9b4f5.ext.json)
 
 ---
 
@@ -570,7 +610,7 @@ These measures include suspension of those who do not understand duties to cause
 
 ---
 
-### Sri Lanka Christmas cake costs deflate 7.3-pct in 2024
+### Sri Lanka Christmas cake index deflates 7.3-pct in 2024
 
 *2024-12-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-christmas-cake-index-deflates-7-3-pct-in-2024-196287/) · `en`
 
@@ -587,6 +627,8 @@ The  Sri Lanka Christmas cake is acclaimed by international foodies who have tri
 ...
 
 [Data](articles/2be5a556.json)
+
+[Extended Data](ext_articles/2be5a556.ext.json)
 
 ---
 
@@ -2169,27 +2211,5 @@ In both groups, the top two teams will be eligible to play in the semi -finals.
 [Data](articles/dac8b59d.json)
 
 [Extended Data](ext_articles/dac8b59d.ext.json)
-
----
-
-### 2024-12-24 (Tuesday)
-
-### BIMT Campus feted with two awards
-
-*2024-12-24 23:16:00* · [`islandlk`](http://island.lk/bimt-campus-feted-with-two-awards/) · `en`
-
-The British Institute of Management and Technology (BIMT Campus), a leading private education institute, secured two prestigious awards at the Entrepreneur Awards – Western Province 2024, organised by the Ministry of Industries, the National Chamber of Commerce, and the National Enterprise Development Authority.
-
-The award ceremony was held at the BMICH in Colombo, and it celebrated entrepreneurship across multiple sectors. The awards were received by BIMT’s Chief Executive Officer Farshath Jamal, Finance Manager Afzan Nazar, and Student Recruitment Manager Gugan Santhirasekaram.
-
-Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/164a2f8f.json)
 
 ---

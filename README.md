@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 00:42:52**
+As of **2024-12-26 00:27:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,601 (99.3%) of 62,042 articles have been extended.
+61,599 (99.3%) of 62,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -190,8 +190,6 @@ Three individuals including two children are reported missing after being swept 
 
 [Data](articles/de80253a.json)
 
-[Extended Data](ext_articles/de80253a.ext.json)
-
 ---
 
 ### The person who drowned in the sea with two children
@@ -216,35 +214,29 @@ Police say they have been drowned in the sea with two children in the Ampara - S
 
 ---
 
-### Police investigarance on an incident that a woman was killed and killed a woman
+### විෂ එන්නත් කර කාන්තාවක් ඝාතනය කළ බව කියන සිද්ධියක් ගැන පොලිස් විමර්ශන
 
 *2024-12-25 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204722) · `si`
 
-Dikwella Police investigates murder of 70-year-old woman. Suspicious death linked to land dispute case. CCTV footage shows stranger visiting victim before attack. Suspect arrested and remanded. Blood samples sent for analysis.
+විෂ එන්නත් කර 70 හැවිරිදි අවිවාහක කාන්තාවක් ඝාතනය කළ බව පැවසෙන සිද්ධියක් සම්බන්ධයෙන් දික්වැල්ල පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
 
-🟩
+මියගිය කාන්තාවගේ ඥාතීන් පවසන්නේ, ඉඩම් ආරවුලක් සම්බන්ධයෙන් අධිකරණයේ නඩුවක් විභාග වන පසුබිමක මෙම මරණය සිදුවීම සැකසහිත බවය.
 
-Dickwella Police has launched an investigation into a incident that a 70-year-old unmarried woman was killed.
+දික්වැල්ල වත්තේගම දකුණ ප්‍රදේශයේ නිවසක පදිංචිව සිටි 70 හැවිරිදි අවිවාහක කාන්තාවක් විෂ සහිත එන්නතක් ශරීරගත වූ බව පවසමින් මාතර, බතීගම රෝහලට ඇතුළත් කර තිබුණේ දෙසැම්බර් 20 වනදා පස්වරුවේ දීය.
 
-The relatives of the deceased woman say that death is suspicious in the backdrop of a court case in the case of a land dispute.
+අනතුරුව තත්ත්වය බරපතළ වීම හේතුවෙන් මාතර දිස්ත්‍රික් මහ රෝහල වෙත මාරුකර යැවුණු ඇය දින 4ක් එහි දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී ඊයේ (24) සවස මියගොස් තිබේ.
 
-A 70-year-old unmarried woman was admitted to the Kalutara Hospital, claiming that a toxic woman was in a house in a house in Dikwella.
+ඇයගේ ඥාතීන් පවසන්නේ, නාදුනන පුද්ගලයෙකු නිවසට පැමිණ ඇයට යම් විෂක් එන්නත් කර පලාගොස් ඇති බවය.
 
-She was later transferred to the Matara District General Hospital after the death was transferred to the Matara District General Hospital yesterday (24).
+සිද්ධිය සම්බන්ධයෙන් දික්වැල්ල පොලීසිය සිදුකළ විමර්ශනවලදී අදාළ නිවස අසල පිහිටි CCTV කැමරාවක දර්ශන පරීක්ෂා කර තිබුණි.
 
-Her relatives say that an unidentified person came to the house and had fled the way to her.
+ඒ අනුව කිසියම් පුද්ගලයෙකු අදාළ කාන්තාව හමුවීමට පැමිණ නිවසට ඇතුළුවන ආකාරය එහි දැක්වෙයි.
 
-Investigations carried out regarding the incident have been inspected by a CCTV camera near the relevant house.
-
-It states how a person comes to visit the woman to visit the house.
-
-After a few minutes, the stranger and the woman is observed to come out of disturbance from the house.
+මිනිත්තු කිහිපයකින් පසු නාඳුනන පුද්ගලයා සහ අදාළ කාන්තාව නිවස දෙසින් කලබලයෙන් පිටතට පැමිණෙන අයුරු නිරීක්ෂණය වෙයි.
 
 ...
 
 [Data](articles/43af5543.json)
-
-[Extended Data](ext_articles/43af5543.ext.json)
 
 ---
 

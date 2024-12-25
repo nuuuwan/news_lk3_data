@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 21:02:32**
+As of **2024-12-25 21:12:45**
 
 ## Newspaper Stats
 
-*Scraped **62,028** Articles*
+*Scraped **62,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,753
 economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,923
+adalk | 5,924
 adaderanalk | 7,576
 tamilmirrorlk | 8,886
-virakesarilk | 10,262
+virakesarilk | 10,263
 adaderanasinhalalk | 10,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,581 (99.3%) of 62,028 articles have been extended.
+61,583 (99.3%) of 62,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### நத்தார் பண்டிகையை முன்னிட்டு கைதிகளுக்கு பொது மன்னிப்பு
+
+*2024-12-25 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202162) · `ta`
+
+மட்டக்களப்பு சிறையிலிருந்து 12 சிறைக்கைதிகளுக்கு 25ஆம் திகதி புதன்கிழமை நத்தார் பண்டிகையை முன்னிட்டு பொது மன்னிப்பு வழங்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் அறிவித்துள்ளது.
+
+சிறிய குற்றங்களுக்காகவும், வேறு காரணங்களுக்காகவும் தண்டனை பெற்றவர்களுக்கு நத்தார் பண்டிகையை முன்னிட்டு ஜனாதிபதியினால் வழங்கப்படுகின்ற பொது மன்னிப்பின் அடிப்படையில் அவர்கள் விடுவிக்கப்பட்டுள்ளனர்.
+
+இந்நிகழ்வு மட்டக்களப்பு சிறைச்சாலையின் அத்தியட்சகர் நல்லையா பிரபாகரன் தலைமையில் இடம்பெற்றதுடன், இதன்போது  சிறைச்சாலையின் பிரதம ஜெயிலர் உள்ளிட்ட சிறைச்சாலை அதிகாரிகள், உத்தியோகத்தர்கள் என பலரும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/3ec370ff.json)
+
+---
 
 ### Sri Lanka - USA joint action
 
@@ -58,37 +74,57 @@ Gabriel Gro, Director of the US Agency for International Development, said:
 
 ---
 
-### දරුවන් දෙදෙනෙක් ඇතුළු තිදෙනෙක් මුහුදේ ගිලී අතුරුදන්
+### Three children, including two children, disappeared
 
 *2024-12-25 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204720) · `si`
 
-දරුවන් දෙදෙනෙකු සහ පුද්ගලයෙක් මුහුදේ ගසාගෙන යාමෙන් අතුරුදන් වී තිබේ.
+Here's a summary of 200 characters:
 
-පොලීසිය සඳහන් කළේ තිරුක්කෝවිල් සංගමන්කන්ද මුහුදු ප්‍රදේශයේදී මෙම අනතුර සිදුවී ඇති බවය.
+
+
+Three children, including two boys, went missing near the sea in Thirukkovil. A person also vanished in the same area. Police are investigating the incident.
+
+🟩
+
+Two children and a person disappeared from the sight of the sea.
+
+The police said that the accident had occurred in general area Thirukkovil Association.
 
 ◼️
 
 [Data](articles/42a54ce9.json)
 
+[Extended Data](ext_articles/42a54ce9.ext.json)
+
 ---
 
-### துப்பாக்கி - தோட்டாக்களுடன் காணாமல் போன கடற்படை சிப்பாய்
+### Gun - Missing Navy Soldier with bullets
 
 *2024-12-25 20:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-தோட்டாக்களுடன்-காணாமல்-போன-கடற்படை-சிப்பாய்/175-349289) · `ta`
 
-டி 56 ரக துப்பாக்கி, தோட்டாக்கள் மற்றும் மெகசீன் ஆகியவற்றுடன் காணாமல் போன கடற்படை சிப்பாயை பொலிஸார் கைது செய்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-திருகோணமலை கடற்படை முகாமிற்கு சொந்தமான பொருட்களை ஏற்றிக்கொண்டு பாரவூர்தி ஒன்றில் பயணித்துக் கொண்டிருந்த குறித்த சிப்பாய் வரகாபொல – வாரியகொட பிரதேசத்தில் வைத்துக் காணாமல் போனதாக பொலிஸார் தெரிவித்தனர்.
 
-குறித்த சிப்பாய், தமது சகோதரர் இரவு உணவைக் கொண்டு வந்திருப்பதாகவும் அதனைப் பெற்றுக் கொள்ள செல்வதாகவும் கூறி சென்று பல மணி நேரங்கள் ஆகியும் மீள திரும்பவில்லை.
 
-இது தொடர்பில் குறித்த பாரவூர்தியின் சாரதியாக செயற்பட்ட கடற்படை சிப்பாய் வரகாபொல பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+Missing naval soldier found with T56 rifle & bullets. Traveling in pawurti from Trincomalee Naval Base. Claimed brother brought dinner but didn't return. Police arrested soldier after investigation.
 
-இதற்கமைய, முன்னெடுக்கப்பட்ட விசாரணைகளுக்கமைய, டி ரக 56 துப்பாக்கி, தோட்டாக்கள் மற்றும் மெகசீன் ஆகியவற்றுடன் காணாமல் போன கடற்படை சிப்பாய் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். R
+🟩
+
+Police have arrested the missing naval soldier with a T56 rifle, bullets and Megaseen.
+
+Police said they were missing in the Varakapola - Wariyagoda area who were traveling in a pawurti, loading goods belonging to the Trincomalee Naval Base.
+
+The soldier did not return for several hours, claiming that his brother had brought his dinner and had gone to get it.
+
+Naval soldier Varakapola has lodged a complaint with the police who acted as the driver of the patriarch.
+
+Accordingly, the missing naval soldier has been arrested by the police with 56 rifles, bullets and Megazin, according to the investigation.. Remble
 
 ◼️
 
 [Data](articles/f915f63f.json)
+
+[Extended Data](ext_articles/f915f63f.ext.json)
 
 ---
 
@@ -548,6 +584,24 @@ Therefore, drivers and the public have been asked to use the following alternati
 
 ---
 
+### බන්ධනාගාරයේ තනතුරු පුරප්පාඩු 1717ක්
+
+*2024-12-25 16:51:16* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරයේ-තනතුරු-පුරප්පාඩු-1717ක්/11-413843) · `si`
+
+බන්ධනාගාර දෙපාර්තමේන්තුවේ තනතුරු 79 කට අදාලව නිලධාරී පුරප්පාඩු 1717 ක් පවතින බව විගණන මහ ලේකම් කාර්යාලය මගින් නිකුත් කරන ලද විගණන වාර්තාවේ සදහන් වේ.
+
+2023.12.31 දිනට අනුමත නිලධාරී සංඛ්‍යාව 7872 ක් වුවත් ඒ වන විට සේවයේ යෙදි සිටියේ 6173 ක් පමණක් බවත් තනතුරු දෙකකට අදාලව නිලධාරීන් 18 දෙනෙකු අතිරික්ව සිටි බවත් එම විගණන වාර්තාවේ වැඩි දුරටත් සදහන් වේ.
+
+2018 අංක 19 දරණ ජාතික විගණන පනත සහ 1971 අංක 38 දරණ මුදල් පනත අනුව ජාතික විගණන මහ ලේකම් කාර්යාලය, ශ්‍රී ලංකා බන්ධනාගාර දෙපාර්තමේන්තුවේ 2023 වර්ෂයේ කටයුතු සම්බන්ධයෙන් සිදු කරන ලද විගණනයට අදාල විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සදහන් වේ.
+
+බන්ධනාගාර රෝහල් 14 ක ශ්‍රේණිගත වෛද්‍යවරුන් 22 ක් අතිරික්තව සිටි බවත් බන්ධනාගාර රෝහල් 05 ක ශ්‍රේණිගත වෛද්‍යවරුන් 09 ක පුරප්පාඩු තිබු බවත් එම විගණන වාර්තාව මගින් පෙන්වා දී ඇත. බන්ධනාගාර රෝහල් 04 ක ලියාපදිංචි වෛද්‍යවරුන් 05 ක් අතිරික්තව සිටි බවත් බන්ධනාගාර රෝහල් 03 ක ලියාපදිංචි වෛද්‍යවරුන් 05 ක පුරප්පාඩු තිබූ බවත් එම විගණන වාර්තාවේ වැඩි දුරටත් සදහන් වේ.
+
+...
+
+[Data](articles/5bd650b1.json)
+
+---
+
 ### Mustafabu to go to court against security removal
 
 *2024-12-25 16:45:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-நீக்கியதை-எதிர்த்து-நீதிமன்றம்-செல்ல-முஸ்தீபு/175-349282) · `ta`
@@ -984,8 +1038,6 @@ Investigations have revealed that the accident had occurred due to the existing 
 
 *2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
 
-BREAKING: Azerbaijan Airlines flight traveling from Baku to Grozny crashes in Aktau, Kazakhstan, after reportedly requesting an emergency landing pic.twitter.com/hB5toqEFe2— RT (@RT_com) December 25, 2024
-
 An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
 
 “A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
@@ -996,7 +1048,9 @@ The Kazakh transport ministry said there were 62 passengers and five crew member
 
 The country’s emergency situations ministry said its personnel were putting out a fire at the site.
 
-...
+“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
+
+◼️
 
 [Data](articles/36a93a06.json)
 
@@ -2235,39 +2289,5 @@ In some places in the Western, Sabaragamuwa, Central, South, South, Uva and Nort
 [Data](articles/650d5f61.json)
 
 [Extended Data](ext_articles/650d5f61.ext.json)
-
----
-
-### Has NPP Government burnt its finger with IMF?
-
-*2024-12-25 06:19:56* · [`dailyftlk`](https://www.ft.lk/columns/Has-NPP-Government-burnt-its-finger-with-IMF/4-771008) · `en`
-
-The Government has to be honest and transparent and is obliged to disclose what was agreed with the IMF to the public
-
-The End of Mission statement issued by the International Monetary Fund (IMF) team that visited Colombo from 17 to 23 November states: “The new government’s commitment to the program objectives has enhanced confidence and ensures policy continuity.”… “The new government’s mandate will reinvigorate governance reforms addressing corruption risks, rebuilding economic confidence, and making growth more robust and inclusive.”
-
-This statement sparked a debate. Mixed sentiments were expressed. The Opposition parties and other critiques charged that President Anura Kumara Dissanayake (AKD) and his National People’s Power (NPP) Government have deviated from their pre-election promise on the IMF agreement. Has the Government gone back on its own words by agreeing to move forward with IMF?
-
-...
-
-[Data](articles/6e3a74e2.json)
-
-[Extended Data](ext_articles/6e3a74e2.ext.json)
-
----
-
-### Ecuador’s debt for nature swap: Innovative bond restructuring – lessons for Sri Lanka
-
-*2024-12-25 06:16:13* · [`dailyftlk`](https://www.ft.lk/columns/Ecuador-s-debt-for-nature-swap-Innovative-bond-restructuring-lessons-for-Sri-Lanka/4-771007) · `en`
-
-The Galapagos debt-for-nature swap highlights the importance of environmental conservation and sustainable economic growth
-
-Sri Lanka unilaterally defaulted on its external debt in April 2022, exposing its long-standing economic and financial vulnerabilities and igniting a series of inter-related multiple economic crises—fiscal, debt, currency, inflation, and balance of payments—as well as a vast socio-political upheaval. The root cause of Sri Lanka’s economic crisis was a result of misuse of public funds by politicians on an unprecedented scale and large fiscal deficits, which were increasingly financed by unsustainable public debt, particularly foreign commercial borrowings. This carefully over time navigated Sri Lanka into a public debt crisis, international sovereign bond unsustainability, liquidity crisis, and a collapse in the exchange rate.
-
-...
-
-[Data](articles/4d3caa8c.json)
-
-[Extended Data](ext_articles/4d3caa8c.ext.json)
 
 ---

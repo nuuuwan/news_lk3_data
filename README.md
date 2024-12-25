@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 09:02:30**
+As of **2024-12-25 09:15:54**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 10,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,528 (99.4%) of 61,930 articles have been extended.
+61,529 (99.4%) of 61,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### මාර්ග අනතුරු වළක්වා ගන්නැයි ඉල්ලීමක්
+### Request to prevent road accidents
 
 *2024-12-25 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204696) · `si`
 
-උත්සව සමය තුළදී සිදුවන මාර්ග අනතුරු වළක්වා ගැනීමට පියවර ගතයුතු බව ශ්‍රී ලංකා ජාතික රෝහලේ හදිසි අනතුරු අංශයේ අධ්‍යක්ෂ වෛද්‍ය ඉන්දික ජාගොඩ මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු පවසන්නේ අධික වේගය නිසා සහ ආරක්ෂාකාරී ක්‍රියාමාර්ග අනුගමනය නොකිරීම ආදී කරුණු හේතුවෙන් සිදුවන රිය අනතුරුවල ඉහළ යාමක් පෙන්නුම් කරන බවයි.
 
-මාර්ග අනතුරු වළක්වා ගතහැකි තත්ත්වයක් බවත්, එනිසා ආක්ෂාකාරී ක්‍රියාමාර්ග අනුගමනය කරන ලෙසත් ඔහු ජනතාවගෙන් ඉල්ලා සිටියි.
 
-විශේෂයෙන් වෛද්‍ය ඉන්දික ජාගොඩ මහතා පවසා සිටියේ යතුරුපැදිවල ගමන්කරන්නන් හෙල්මට් පැළඳීම අනිවාර්ය කරගත යුතු බවයි.
+"Dr. Indika Jagoda urges preventive measures against festive season road accidents. He emphasizes high speeds and lack of safety measures as key factors. Mandatory helmet use for motorbike riders and strict enforcement of front seat seatbelt usage are recommended."
 
-එමෙන්ම වාහනවල ගමන් කරන්නන්ගෙන් ආසන පටි පළදින්නේ ඉදිරිපස අසුනේ යන පුද්ගලයන් පමණක් බවත් හෙතෙම පෙන්වා දෙයි.
+🟩
 
-කෙසේ නමුත් යම් අනතුරක් සිදු වූ විට එලෙස ආසන පටි නොපළදින පිටුපස අසුනේ යන අයගේ අනතුරුවල බරපතළකම ඉතා ඉහළ බව ඔහු පවසයි.
+The Director of the Accident Division of the Sri Lanka National Hospital, Dr. Indika Jagoda, says that steps should be taken to prevent accidents during the festive season.
+
+He says that due to the high speed and not following the safety measures, it is impossible to increase in accidents.
+
+He is also requested to prevent road accidents and that he is to follow mongoons.
+
+Dr. Indika Jagoda said the motorbikes should be compulsory to wear helmets.
+
+He also pointed out that only individuals traveling in the front seat.
+
+However, the seriousness of the back of the seat of the seat belt is very high.
 
 ◼️
 
 [Data](articles/44220314.json)
+
+[Extended Data](ext_articles/44220314.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 10:02:40**
+As of **2024-12-25 09:43:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,533 (99.3%) of 61,936 articles have been extended.
+61,532 (99.3%) of 61,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,8 +97,6 @@ Attached below is President Dissanayake’s full message for Christmas Day 2024:
 ...
 
 [Data](articles/03298f12.json)
-
-[Extended Data](ext_articles/03298f12.ext.json)
 
 ---
 

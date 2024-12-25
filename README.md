@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 16:01:49**
+As of **2024-12-25 16:15:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,561 (99.3%) of 61,997 articles have been extended.
+61,562 (99.3%) of 61,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -269,6 +269,8 @@ According to the police, the suspects are a father and son, aged 53 and 28 respe
 ◼️
 
 [Data](articles/7d60a42b.json)
+
+[Extended Data](ext_articles/7d60a42b.ext.json)
 
 ---
 

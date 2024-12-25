@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 19:28:26**
+As of **2024-12-25 20:01:09**
 
 ## Newspaper Stats
 
-*Scraped **62,018** Articles*
+*Scraped **62,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,753
 economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,922
+adalk | 5,923
 adaderanalk | 7,573
 tamilmirrorlk | 8,885
 virakesarilk | 10,260
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,710
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,574 (99.3%) of 62,018 articles have been extended.
+61,575 (99.3%) of 62,019 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,19 +58,29 @@ Meanwhile, on December 26, 2004, the tsunami of the 9.1 McNett -magnitude earthq
 
 ---
 
-### “இராணுவ காணிகளை விடுவிக்க மக்கள் கோரவில்லை”
+### “People do not request the release of military lands”
 
 *2024-12-25 18:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-காணிகளை-விடுவிக்க-மக்கள்-கோரவில்லை/175-349287) · `ta`
 
-வடக்கு மக்கள் , இராணுவத்தினரின் காணிகளை விடுவிக்க கோரவில்லை. அவர்களின் சொந்தக் காணிகளை விடுவிக்கக் கோருகிறார்கள் என்ற தெளிவுபடுத்தலை தென்னிலங்கை மக்களுக்கு எடுத்துச் சொல்லுமாறு என்னைச் சந்தித்த தென்னிலங்கையைச் சேர்ந்த சிவில் சமூகக் குழுக்களிடம் தெரிவித்துள்ளேன் என வடக்கு மாகாண  ஆளுநர் நா.வேதநாயகன்  தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-வயாவிளான், பலாலி தெற்கு, பலாலி கிழக்கு மக்களின் அழைப்பின் பேரில் வடக்கு மாகாண ஆளுநர் தலைமையில் விடுவிக்கப்பட்ட காணிகளில் விவசாய நடவடிக்கை தொடர்பான கலந்துரையாடல், பூனையன்காடு இந்து மயானத்தில் மர நடுகையும் வயாவியானில் புதன்கிழமை (25) காலை நடைபெற்றது.
 
-அந்தப் பிரதேச மக்கள் சார்பில் கருத்துத் தெரிவித்த உ.சந்திரகுமாரன், வடக்கு மாகாண ஆளுநர் வேதநாயகன் இந்த மண்ணை நேசிக்கும் ஒருவர். நாம் தற்போது எடுத்தோம் கவிழ்த்தோம் எனச் செயற்பட முடியாது. கட்டம் கட்டமாக எமது காணிகளை விடுவிக்க ஆளுநர் நடவடிக்கை எடுப்பார் என நாம் முழுமையாக நம்புகிறோம்.
+
+"Northern Sri Lanka residents don't demand military land releases. Governor says people expect gradual land handovers, but progress halted due to political instability. Residents hope for agricultural use of freed lands."
+
+🟩
+
+Northern people do not demand the release of the lands of the military. The Governor of the Northern Province, Navatanayagan, said that I had told me to take the people of the South to the people of Sri Lanka to make it clear that they were demanding the release of their own lands.
+
+A discussion on agricultural action on the lands headed by the Governor of the Northern Province at the invitation of the people of Vayavilan, Palali South and Palali East was held on Wednesday morning at the Poonayankadu Hindu Cemetery.
+
+Underakumaran commented on behalf of the people of the area, Governor of the Northern Province Vedanayan. We cannot act as we now toppled. We fully believe that the governor will take steps to release our lands in phase.
 
 ...
 
 [Data](articles/15aedadc.json)
+
+[Extended Data](ext_articles/15aedadc.ext.json)
 
 ---
 
@@ -355,6 +365,26 @@ Mrs. Nilanti Kothachi, a member of the National People's Power, said that as a l
 [Data](articles/2cbca5e9.json)
 
 [Extended Data](ext_articles/2cbca5e9.ext.json)
+
+---
+
+### නිතිවිරෝධීව එකලස් කළ ජීප් රියක් සමග කළමණාකරුවෙක් අල්ලයි
+
+*2024-12-25 16:43:31* · [`adalk`](https://www.ada.lk/breaking_news/නිතිවිරෝධීව-එකලස්-කළ-ජීප්-රියක්-සමග-කළමණාකරුවෙක්-අල්ලයි/11-413842) · `si`
+
+රුපියල් කෝටියකට ආසන්න වටිනාකමකින් යුත් නීති විරෝධී අන්දමින් එකලස් කල බවට සැක සුඛෝපභෝගී ජීප් රථයක් සොයාගෙන ප්‍රසිද්ධ පෞද්ගලික කර්මාන්ත ශාලවක කළමනාකරුවකු අත්අඩංගුවට ගැනීමට පානදුර වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරයක ඒකකය සමත්ව ඇත.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව ප්‍රදේශයේ පදිංචි 47 හැවිරිදි පුද්ගලයකු බව පොලිසිය සදහන් කරයි.
+
+නීති විරෝධී අන්දමින් මෙරටට ගෙන්වා එකලස් කරන ලද සුඛෝපභෝගී ජීප් රථයක පින්වත්ත ප්‍රදේශයේ පෞද්ගලික  ආයතනයක කළමනාකරුවෙකු පාවිච්චි කරන බවට ලද තොරතුරක් මත පින්වත්ත ප්‍රදේශයේ දී ජීප් රථය පරීක්ෂා කොට සැකකරු අත්අඩංගුවට ගෙන සුඛෝපභෝගී ජීප් රථයද පොලිස් භාරයට ගෙන තිබේ.
+
+සැකකරු සුඛෝපභෝගී ජීප් රථය සමග  පින්වත්ත පොලිසියට භාරදී තිබේ. සැකකරු පානදුර මහේස්ත්‍රාත්  අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබුණි.
+
+වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරක ඒකකයේ අධ්‍යක්ෂක කේ.ඒ. උදය කුමාර මහතා ගේ උපදෙස් පරිදි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඉන්දික වීරසිංහ මහතා ගේ මෙහෙයවීමෙන් වැටලීම කර තිබේ.
+
+◼️
+
+[Data](articles/f2e0ba2a.json)
 
 ---
 
@@ -2195,21 +2225,5 @@ Despite disclosing details about the measures underway, he said that actions are
 ◼️
 
 [Data](articles/42351872.json)
-
----
-
-### Acting IGP directs CID to investigate alleged misuse of President’s Fund
-
-*2024-12-25 05:46:41* · [`dailyftlk`](https://www.ft.lk/news/Acting-IGP-directs-CID-to-investigate-alleged-misuse-of-President-s-Fund/56-770996) · `en`
-
-Sri Lanka Police have initiated a special investigation into allegations of misuse of the President’s Fund following directives from Acting Inspector General of Police (IGP) Priyantha Weerasuriya. The Criminal Investigation Department (CID) has been tasked with conducting a comprehensive inquiry into the matter.
-
-The decision comes in response to a formal complaint lodged by the Organisation of Lawyers to Protect Public Funds at the Police Headquarters yesterday. The group has called for an investigation into potential misappropriation of the President’s Fund by several individuals, including Members of Parliament.
-
-Attorney Suranga Bandara, representing the organisation, alleged that significant sums of money were withdrawn from the President’s Fund by certain MPs. He emphasised that the investigation should focus on whether these requests were made through formal channels and if any fraudulent practices occurred during the disbursement process.
-
-...
-
-[Data](articles/b385f103.json)
 
 ---

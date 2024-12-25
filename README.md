@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 16:27:12**
+As of **2024-12-25 16:42:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,563 (99.3%) of 61,998 articles have been extended.
+61,564 (99.3%) of 61,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,19 +144,29 @@ The traffic operation is carried out to minimize such accidents in considering t
 
 ---
 
-### වසන්තා හඳපාන්ගොඩ ජිවිතක්ෂයට
+### Vasantha to the Handapanga East
 
 *2024-12-25 14:25:31* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තා-හඳපාන්ගොඩ-ජිවිතක්ෂයට/11-413839) · `si`
 
-ශ්‍රි ලංකා පොදජන පෙරමුණේ පොදුජන අධ්‍යාපන සේවා සංගමයේ සභාපති ලෙස ක්‍රියා කළ වසන්තා හඳපාන්ගොඩ මහත්මිය එංගලන්තයේදි ජිවිතක්ෂයට පත්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-එංගලන්තයේ සිටින සිය දියණියගේ නිවසට ගොස් සිටි අවස්ථාවේදි ඇතිවූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් රෝහල් ගත කර දින කිහිපයක් රෝහලේ ප්‍රතිකාර ලබමින් සිටියදි ඇය ජිවිතක්ෂයට පත්ව තිබේ.
 
-ඇයගේ දේහය දිවයිනට ගෙන ඒමට දින කිහිපයක් ගත වෙනු ඇත. වසන්තා හඳපාන්ගොඩ මහත්මිය ශ්‍රි ලංකා පොදුජන පෙරමුණට ඉතාමත් සමිපව කටයුතු කළ දේශපාලන ක්‍රියාකාරිණියක් වූවාය.
+
+Vasantha Handapangoda, former Chairman of Pradeshu Educational Services, killed in England. She was a political activist supporting Sri Lanka's Rajapaksa Front. Body expected to arrive in Sri Lanka soon after hospital treatment.
+
+🟩
+
+Vasantha Handapangoda, who acted as the Chairman of the Pradeshu Educational Services Association in the Pediatha Perera, has been killed in England.
+
+She was killed in a number of hospitalized after receiving treatment at the hospital for several days of the accident in England.
+
+It will take a few days to bring her body to the island. Wasantha Handapangoda was a political activist who has been acting veryly to the Sri Lanka CA-Rajapaksa Front.
 
 ◼️
 
 [Data](articles/d760fdd9.json)
+
+[Extended Data](ext_articles/d760fdd9.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 04:43:36**
+As of **2024-12-26 05:01:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,620 (99.3%) of 62,054 articles have been extended.
+61,621 (99.3%) of 62,054 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1380,25 +1380,31 @@ Kazakhstan’s Emergency Ministry initially said 25 people survived the crash, l
 
 ---
 
-### කුකුල් මස් කිලෝවක් අල්ලස් ලෙස ගත් ආදායම් නිලධාරියා අත්අඩංගුවට
+### Revenue officer arrested for bribery chicken
 
 *2024-12-25 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204714) · `si`
 
-කුකුල් මස් කිලෝවක් අල්ලස් වශයෙන් ලබාගත් ආදායම් නිලධාරියෙක් සහ ක්ෂේත්‍ර කම්කරුවෙකු අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගෙන තිබේ.
+Foreign revenue officer and field worker arrested for bribery involving chicken. Suspects were caught after a local complained about being asked for chicken as payment. They will face charges in court and further investigation is ongoing.
 
-කොස්ගම ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසික් සිදුකළ පැමිණිල්ලකට අනුව සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව සඳහන් ය.
+🟩
 
-පැමිණිලිකරුට අයත් වෙළෙඳසැලේ ලබන වර්ෂයට අදාළ වෙළෙඳ බලපත්‍රය ලබාදීමට අවශ්‍ය කටයුතු සලසා දීම සඳහා මෙම සැකකරුවන් අල්ලස් ලෙස රුපියල් 1,170ක් වටිනා කුකුළු මස් කිලෝවක් ඉල්ලා ඇති බව වාර්තා වෙයි.
+A foreign officer and field worker has been arrested by the Bribery Commission and a field worker obtained by a bribe of chicken.
 
-ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනවලදී සකකරුවන් දෙදෙනා පැමිණිලිකාර ව්‍යාපාරිකයාගේ වෙළෙඳසැල ඉදිරිපිටදී අත්අඩංගුවට ගෙන ඇත.
+The suspects have been arrested following a complaint lodged by a resident of Kosgama.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වේවැල්දෙණිය උප කාර්යාලයේ සේවය කරන ආදායම් නිලධාරියෙකු සහ මීරිගම ප්‍රාදේශීය සභාවේ මාර්ග අංශයේ සේවය කළ කම්කරුවෙක් බව අල්ලස් කොමිසම සඳහන් කළේය.
+The suspects have requested a kilo of chicken worth Rs.
 
-සැකකරුවන් අත්තනගල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිත අතර අල්ලස් හෝ දූෂණ විමර්ශන කොම්ෂන් සභාව වැඩිදුර විමර්ශන සිදුකරයි.
+Investigations have been arrested in connection with the complainant businessman's store.
+
+The Bribery Commission states that a locker of a revenue officer who works at the Weweldeniya Sub Office and a laborer working in the Meerigama Pradeshiya Sabha.
+
+The suspects are to be produced before the Attanagalla Magistrate's Court and the Bribery Investigation Commission is conducting further investigations.
 
 ◼️
 
 [Data](articles/b2350f41.json)
+
+[Extended Data](ext_articles/b2350f41.ext.json)
 
 ---
 

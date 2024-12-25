@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 05:12:27**
+As of **2024-12-25 05:51:39**
 
 ## Newspaper Stats
 
-*Scraped **61,887** Articles*
+*Scraped **61,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ dailymirrorlk | 4,733
 adalk | 5,910
 adaderanalk | 7,560
 tamilmirrorlk | 8,853
-virakesarilk | 10,239
+virakesarilk | 10,243
 adaderanasinhalalk | 10,688
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,518 (99.4%) of 61,887 articles have been extended.
+61,521 (99.4%) of 61,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### Gospel Darshan Missionary Ministry Celebration of the Church
+
+*2024-12-25 03:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202090) · `ta`
+
+Colombo 9 Gospel Darshan Missionary Ministry celebrates Jesus' birthday with prayers, dance, songs, and dramas. Chief Pastor Apostle Vishwa leads the event, featuring gift-giving and speeches from pastors. The celebration aims to spread Jesus' message of peace and light in Sri Lanka.
+
+🟩
+
+Christians all over the world celebrate the birthday of Jesus Christ, who brings peace and peace to the world. The Colombo 9 Gospel Darshan Missionary Ministry of the Church, Colombo, led by Chief Pastor - Apostle Vishwa last night.. M.. The Perera was celebrated at the Kendra Station.
+
+During this time, with the initial prayer, there were features such as dance, song and social drama organized by the council's junior group.. This was followed by the arrival of the grandfather of Christmas and the gifts for the Church of Church and the Youth Group.
+
+Also present at the event, the "Gospel Darshan Missionary Ministry" Chief Past of the Church - Pastor Radhakrishnan Naidu, Pastor Zarina and Pastor Michael were also present at the event.. Following the event, the "Gospel Darshan Missionary Ministry", the chief preacher of the Church, the apostle Vishwa,
+
+...
+
+[Data](articles/24a4d7f7.json)
+
+[Extended Data](ext_articles/24a4d7f7.ext.json)
+
+---
 
 ### Sudden examination at food handling stations
 
@@ -60,9 +82,53 @@ Following this, the inspection will be carried out in other health medical offic
 
 ---
 
+### Chinese Foreign Speaker Mao Ning
+
+*2024-12-25 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202089) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+China & Sri Lanka: Long-standing friends. High-level ties maintained. Cooperation expanding.
+
+🟩
+
+China and Sri Lanka are cooperation countries that provide a long -standing friendly assistance to each other. Chinese Foreign Affairs spokesman Mao Ning said he was ready to maintain the highest number of high -level connections with Sri Lanka.
+
+President Anura Kumara Dissanayake has made a state visit to India first two weeks ago after his inauguration.
+
+He was responding to a question raised by a journalist at a press conference held in Beijing yesterday as he was due to make an official visit to China in January.
+
+“China and Sri Lanka are cooperation countries that provide the necessary assistance to each other and have long -term friendship. There is a high -profile high -level connection between the two countries. China is ready to maintain such top -level contacts, to overcome the traditional relations between the two countries, and to expand the multi -faceted cooperation between the two countries, ”spokesman Mao Ning added.
+
+◼️
+
+[Data](articles/64efd004.json)
+
+[Extended Data](ext_articles/64efd004.ext.json)
+
+---
+
+### உள்ளுராட்சிமன்றத் தேர்தலுக்கான புதிய வேட்புமனுவுக்கான சட்டமூலத்தை தயாரிக்க அமைச்சரவை அங்கீகாரம்
+
+*2024-12-25 02:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202088) · `ta`
+
+உள்ளுராட்சிமன்றத் தேர்தலுக்கு புதிதாக வேட்புமனுக்களைக் கோருவதற்கான சட்ட மூலத்தை தயாரிப்பதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. திங்களன்று இடம்பெற்ற அமைச்சரவை கூட்டத்தில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பொது நிர்வாக, மாகாணசபைகள் மற்றும் உள்ளுராட்சிமன்ற பிரதி அமைச்சர் ருவன் செனரத் தெரிவித்துள்ளார்.
+
+உள்ளுராட்சிமன்றத் தேர்தலுக்கான புதிய வேட்புமனுக்களை கோருவதற்கு அமைச்சரவையில் எடுக்கப்பட்ட தீர்மானத்துக்கமைய குறித்த சட்டமூலம் தயாரிக்கப்பட்டுள்ளது. இதற்கு சட்டமா அதிபரின் அங்கீகாரமும் கிடைக்கப் பெற்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. குறித்த சட்ட மூலம் அடுத்த மாதம் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படவுள்ளது.
+
+உள்ளுராட்சிமன்றத் தேர்தலை நடத்துவதற்கு ஏற்கனவே கோரப்பட்ட வேட்புமனுவை மீளப் பெறுவதற்கான தீர்மானத்துக்கு கடந்த 3ஆம் திகதி அமைச்சரவை அங்கீகாரம் வழங்கியது. ஆனால் தேர்தல் முறைமையில் எவ்வித மாற்றங்களும் ஏற்படுத்தப்பட மாட்டாது என்றும் அரசாங்கம் அறிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ec0e3277.json)
+
+---
+
 ### Understanding the true meaning of the day of the day, everyone will unite for the country - Sajith Premadasa
 
-*2024-12-25 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202086) · `ta`
+*2024-12-25 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202086) · `ta`
 
 Here's a summary of 200 characters:
 
@@ -83,6 +149,22 @@ Focusing on love, peace and brotherhood is not only the religious ceremony of Ch
 [Data](articles/3bcda1ba.json)
 
 [Extended Data](ext_articles/3bcda1ba.ext.json)
+
+---
+
+### தனது சுயவிபரங்களைப் பயன்படுத்தி வெளிநாடுகளில் நிதி மோசடி - குற்றப்புலனாய்வுத் திணைக்களத்தில் அமைச்சர் சுனில் ஹந்துன்நெத்தி முறைப்பாடு
+
+*2024-12-25 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202087) · `ta`
+
+தனது சுயவிபரங்களைப் பயன்படுத்தி வெளிநாடுகளில் வசிக்கும் இலங்கையர்களிடம் ஒரு தரப்பினர் நிதி மோசடி செய்வதாகத் தெரிவித்து அது தொடர்பில் உடனடியாக விசாரணைகளை முன்னெடுக்குமாறு கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அமைச்சர் சுனில் ஹந்துன்நெத்தி குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு பதிவு செய்துள்ளார்.
+
+நேற்று செவ்வாய்க்கிழமை குற்றப்புலனாய்வுத் திணைக்களத்தில் இது தொடர்பில் முறைப்பாடு பதிவு செய்ததன் பின்னர் இந்த சம்பவம் தொடர்பில் ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
+
+எனது சுயவிபரங்களைப்பயன்படுத்தி வெளிநாடுகளில் வசிக்கும் இலங்கையர்களிடம் ஒரு தரப்பினர் இந்த நிதி மோசடிகளை செய்துள்ளனர். குறிப்பாக என்னைப் போன்று தங்களை அடையாளப்படுத்திக் கொண்டு ஜப்பான், தென்கொரியா, இங்கிலாந்து போன்ற நாடுகளில் வசிக்கும் இலங்கையர்களிடம் வாட்ஸ்அப் மூலம் இந்த மோசடி நடவடிக்கைகளை மேற்கொண்டுள்ளனர். அதற்காக அவர்களுடன் கைத்தொலைபேசி மூலம் வீடியோ அழைப்பை ஏற்படுத்தி  எனது குரலிலும் உரையாடியுள்ளனர்.
+
+...
+
+[Data](articles/3e3a578e.json)
 
 ---
 
@@ -1174,19 +1256,33 @@ So we do not want to waste time in response to the opinions of such people. He s
 
 ---
 
-### கச்சத்தீவு தொடர்பில் இந்திய மத்திய அரசாங்கம் கோரினால் அவதானம் செலுத்துவோம் - அமைச்சரவை பேச்சாளர்
+### If the Indian central government demands about Kachchativu, we will pay attention - Cabinet spokesman
 
 *2024-12-24 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202055) · `ta`
 
-கச்சத்தீவை  மீளப் பெறுவது குறித்து இந்திய மத்திய அரசாங்கத்திடமிருந்து இதுவரையில் இலங்கை அரசாங்கத்திடம் எவ்வித கோரிக்கையும் முன்வைக்கப்படவில்லை. அவ்வாறு கோரினால் அது குறித்து அவதானம் செலுத்தப்படும் என அமைச்சரவை பேச்சாளர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-இலங்கையில் கைதாகியுள்ள தமிழக மீனவர்களை விடுதலை செய்ய நடவடிக்கை எடுக்க வேண்டும் எனவும் மீனவர் பிரச்சினைக்கு நிரந்தரத் தீர்வாக கச்சத்தீவை மீட்க வேண்டும் எனவும் திராவிட முன்னேற்றக் கழகம் தீர்மானம் ஒன்றை நிறைவேற்றியுள்ளது.
 
-அந்த கட்சியின் தலைவரும் தமிழக முதல்வருமான மு.க.ஸ்டாலின் தலைமையில் கடந்த ஞாயிற்றுக்கிழமை (22)  இடம்பெற்ற கட்சியின் செயற்குழு கூட்டத்தில் இந்த தீர்மானம் நிறைவேற்றப்பட்டது.
+
+Indian govt hasn't demanded Kachchativu. Cabinet says no request made. DMK plans to free TN fishermen & restore Kachchativu permanently. Indian PM & SL Prez discuss humanitarian approach. No immediate action expected.
+
+🟩
+
+No request has been made from the Central Government of India on the recovery of Kachchativu. Cabinet spokesman Nalinda Jayatissa said that if it requested, it would be paid.
+
+The Dravida Munnetra Kazhagam has decided to take steps to release the Tamil Nadu fishermen in Sri Lanka and to restore Kachchativu as a permanent solution to the fishermen issue.
+
+The resolution was passed at a meeting of the party's executive committee held last Sunday (22) under the leadership of MK Stalin, the leader of the party.
+
+In the wake of the recent visit to India, President Anura Kumara Dissanayake and the Prime Minister of India have stated that the fishermen's issue has been agreed to approach the issue with humanitarianism and to find a permanent solution to the fishermen's problem through creative negotiations.
+
+The Dravida Munnetra Kazhagam has urged Tamil Nadu fishermen and their boats to be immediately released to move the negotiations of the Indian Prime Minister and the President.
 
 ...
 
 [Data](articles/72d82ec3.json)
+
+[Extended Data](ext_articles/72d82ec3.ext.json)
 
 ---
 
@@ -2335,97 +2431,5 @@ Cabinet Spokesperson Minister Nalinda Jayatissa said this at a media briefing to
 [Data](articles/b013dfec.json)
 
 [Extended Data](ext_articles/b013dfec.ext.json)
-
----
-
-### New Director General of Combined Services appointed
-
-*2024-12-24 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104468/new-director-general-of-combined-services-appointed-) · `en`
-
-N. U. N. Mendis, a Special Grade Officer of the Sri Lanka Administrative Service, who is currently serving as an Additional Director General of the National Budget Department, has been appointed as the Director General of the Combined Services.
-
-The post of Director General of the Combined Services has fallen vacant, following the appointment of S. Aloka Bandara, a Special Grade Officer of the Sri Lanka Administrative Service to the post of Secretary to the Ministry of Public Administration, Provincial Councils and Local Government.
-
-Considering the wide scope of duties assigned to the post of Director General of the Combined Services, it is necessary to appoint an officer to the post on a permanent basis, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
-
-Accordingly, the proposal made by the Minister of Public Administration, Provincial Councils and Local Government, to appoint N. U. N. Mendis has received the Cabinet approval.
-
-◼️
-
-[Data](articles/5239a8d8.json)
-
-[Extended Data](ext_articles/5239a8d8.ext.json)
-
----
-
-### Sri Lanka to strengthen legislation on illegal poaching in territorial waters
-
-*2024-12-24 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104467/sri-lanka-to-strengthen-legislation-on-illegal-poaching-in-territorial-waters) · `en`
-
-The Cabinet of Ministers has greenlighted the drafting of new bill to strengthen the legislations pertaining to illegal and unregulated poaching activities in the Sri Lankan waters, while repealing the Fisheries and Aquatic Resources Act No. 2 of 1996 which is currently in place.
-
-The Fisheries and Aquatic Resources Act No. 2 of 1996 has been amended on 8 occasions thus far, and steps have been taken on several occasions to repeal the said Act and introduce a new Act, but the related work has not been completed yet.
-
-...
-
-[Data](articles/9a418fc7.json)
-
-[Extended Data](ext_articles/9a418fc7.ext.json)
-
----
-
-### Rameshwaram fishermen arrested 17
-
-*2024-12-24 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராமேஸ்வரம்-மீனவர்கள்-17-கைது/175-349205) · `ta`
-
-17 Indian fishermen arrested off Rameshwaram coast on Tuesday. Detained at Talaimannar naval camp. Over 400 Rameshwaram fishermen at sea when incident occurred. Eight family members demand immediate release. Fishermen to be produced in court after investigation.
-
-🟩
-
-17 Indian fishermen have been arrested on Tuesday (24).
-
-The 17 arrested fishermen were detained at the Talaimannar naval camp and the fishermen and boats were handed over to the Talaimannar Navy.
-
-More than 400 fishermen from Rameswaram fishing port on Monday (23) have gone to sea for fishing.
-
-The Sri Lankan navy arrested the Sri Lankan navy, who had been fishing across the border while fishing between Dhanushkodi and Talamannar at around 12:30 pm, and two key boat belonging to Pundi Raj and Aaron from Thangachi Monastery was arrested and 17 fishermen were taken to the Talamannar Navy.
-
-Of the 17 arrested fishermen, eight relatives from the same family are demanding that the government take steps to release them immediately and bring them home.
-
-The fishermen have been brought to the Mannar District Fisheries Department and are to be produced before the Mannar District Court after investigations.
-
-◼️
-
-[Data](articles/cdac38b7.json)
-
-[Extended Data](ext_articles/cdac38b7.ext.json)
-
----
-
-### 17 Rameswaram fishermen arrested
-
-*2024-12-24 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-இராமேஸ்வரம்-மீனவர்கள்-கைது/175-349205) · `ta`
-
-17 Indian fishermen arrested by Sri Lanka near Rameswaram. Detained at Talaimannar naval camp. Family members demand immediate release. To appear in court after investigation.
-
-🟩
-
-17 Indian fishermen have been arrested on Tuesday (24).
-
-The 17 arrested fishermen were detained at the Talaimannar naval camp and the fishermen and boats were handed over to the Talaimannar Navy.
-
-More than 400 fishermen from the Rameswaram fishing port on Monday (23) have gone to sea for fishing.
-
-The Sri Lankan navy arrested the Sri Lankan navy, who had been fishing across the border while fishing between Dhanushkodi and Talaimannar at around 12:30 pm, and two key boat belonging to Pundi Raj and Aaron from Thangachi Monastery was arrested by the Sri Lankan navy and took 17 fishermen to the Navy.
-
-Of the 17 arrested fishermen, eight relatives from the same family are demanding that the government take steps to release them immediately and bring them home.
-
-The fishermen have been brought to the Mannar District Fisheries Department and are to be produced before the Mannar District Court after investigations.
-
-◼️
-
-[Data](articles/d7696776.json)
-
-[Extended Data](ext_articles/d7696776.ext.json)
 
 ---

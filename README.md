@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 21:27:12**
+As of **2024-12-25 21:43:23**
 
 ## Newspaper Stats
 
-*Scraped **62,030** Articles*
+*Scraped **62,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,924
 adaderanalk | 7,576
-tamilmirrorlk | 8,886
+tamilmirrorlk | 8,887
 virakesarilk | 10,263
 adaderanasinhalalk | 10,713
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,713
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,584 (99.3%) of 62,030 articles have been extended.
+61,585 (99.3%) of 62,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### இரண்டு குழந்தைகளுடன் கடலில் மூழ்கிய நபர்
+
+*2024-12-25 21:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-குழந்தைகளுடன்-கடலில்-மூழ்கிய-நபர்/175-349291) · `ta`
+
+அம்பாறை - சங்கமன்கந்த கடற்பகுதியில் இரண்டு குழந்தைகளுடன் ஒருவர் கடலில் அடித்துச் செல்லப்பட்டு காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/cafb5010.json)
+
+---
 
 ### Public amnesty to prisoners
 
@@ -160,19 +172,25 @@ The National Water Supply and Drainage Board further stated that the water suppl
 
 ---
 
-### ප්‍රදේශ කිහිපයකට පැය 18ක ජල කප්පාදුවක්
+### 18 hour water cut in several areas
 
 *2024-12-25 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204719) · `si`
 
-කළුතර දකුණ, කළුතර උතුර, වාද්දුව, වස්කඩුව, මොරොන්තුඩුව සහ බෝම්බුවල යන ප්‍රදේශවලට පැය 18ක කාලයක් ජල සැපයුම අත්හිටුවනු ඇති බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කරයි.
+18-hour water cut in Kalutara districts: 9 AM today to 3 PM tomorrow due to main pipe breakdown for emergency repairs.
 
-ඒ අනුව, හෙට (26) දින පෙරවරු 09 සිට අනිද්දා (27) අලුයම 03 දක්වා අදාළ ප්‍රදේශවලට ජල සැපයුම අත්හිටුවනු ඇත.
+🟩
 
-ප්‍රධාන සම්ප්‍රේෂණ නළයේ සිදුවී ඇති බිඳවැටීමක් හේතුවෙන් සිදුකළ යුතු හදිසි අලුත්වැඩියාවක් සඳහා මෙම ජල සැපයුම අත්හිටුවනු බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් පවසයි.
+The National Water Supply and Drainage Board announced that the water cut will be imposed in Kalutara, Kalutara South, Wadduuwa, Waskaduwa, Morotuduwa and Bombuwala areas.
+
+Accordingly, the water supply will be imposed to the relevant areas from 09 am (27) from 09 am (27).
+
+The National Water Supply and Drainage Board further stated that the water cut will be suspended for an emergency repair due to a breakdown on the main transmission tube.
 
 ◼️
 
 [Data](articles/161fa6ca.json)
+
+[Extended Data](ext_articles/161fa6ca.ext.json)
 
 ---
 
@@ -2279,25 +2297,5 @@ The Higantha's Malcolit Cardinal Ranjith published its Christmas message, and sa
 [Data](articles/c7ada256.json)
 
 [Extended Data](ext_articles/c7ada256.ext.json)
-
----
-
-### Millions of areas in Sri Lanka today
-
-*2024-12-25 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204691) · `si`
-
-Sri Lanka weather alert: Heavy rain expected in Western, Sabaragamuwa, Central, Southern, Uva, and North-Central provinces today.
-
-🟩
-
-The Department of Meteorology says that there is a key weather in many parts of the island today (25).
-
-In some places in the Western, Sabaragamuwa, Central, South, South, Uva and North-central provinces, the Department said.
-
-◼️
-
-[Data](articles/650d5f61.json)
-
-[Extended Data](ext_articles/650d5f61.ext.json)
 
 ---

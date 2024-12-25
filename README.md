@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 08:25:45**
+As of **2024-12-25 08:45:46**
 
 ## Newspaper Stats
 
-*Scraped **61,928** Articles*
+*Scraped **61,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,753
 economynextcom | 3,773
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,912
+adalk | 5,913
 adaderanalk | 7,560
 tamilmirrorlk | 8,857
 virakesarilk | 10,243
@@ -26,65 +26,91 @@ adaderanasinhalalk | 10,693
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,524 (99.3%) of 61,928 articles have been extended.
+61,527 (99.4%) of 61,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### මරළුවාව දී අඹු සැමි යුවළකට වෙඩි
+### Shots a couple in Karale
 
 *2024-12-25 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204695) · `si`
 
-වැල්ලව මරළුවාව ප්‍රදේශයේ නිවසක සිටි අඹු සැමි යුවළකට නාඳුනන පුද්ගලයෙකු විසින් ඊයේ (24) රාත්‍රියේ වෙඩි තබා පළාගොස් තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-වෙඩි වැදීමෙන් තුවාල ලැබූ අඹු සැමි යුවල කුරුණෑගල රෝහලට ඇතුළත් කර ඇති අතර එහිදී පිරිමි පුද්ගලයා මියගොස් තිබේ.
 
-තුවාලකාරිය අවුරුදු 30ක් වූ තැනැත්තියක වන අතර ඔවුන් එම ප්‍රදේශයේ තාවකාලිකව පදිංචිව සිටි අඹුසැමි යුවළකි.
 
-වෙඩි තැබීමට හේතුව හෝ සැකකරුවන් සම්බන්ධ තොරතුරු මෙතෙක් අනාවරණය වී නොමැති අතර සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා වැල්ලව පොලීසිය වැඩිදුර විමර්ශන සිදුකරති.
+Unidentified gunman kills man in Karale home. Woman injured, hospitalized. 30-year-old couple, temporary residents. Police investigating motive and suspects.
+
+🟩
+
+An unidentified man was shot dead by an unidentified person yesterday (24) at a house in the Wellawa Madaluwa area.
+
+The woman was rushed to the Yuwa Kurunegala Hospital with injuries.
+
+The injured was a 30-year-old couple, a couple of the temporary residents of the area.
+
+The Wellawa Police are conducting further investigations into the cause of the shooting or suspects.
 
 ◼️
 
 [Data](articles/0672d774.json)
 
+[Extended Data](ext_articles/0672d774.ext.json)
+
 ---
 
-### කතෝලික දේවස්ථානවල ආරක්ෂාවට විශේෂ පියවරක්
+### A special step to the security of Catholic Church
 
 *2024-12-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204694) · `si`
 
-නත්තල් දින කතෝලික දේවස්ථානවල ආරක්ෂාව සඳහා පොලිස් නිලධාරින් 45,000ක ප්‍රමාණයක් යොදවා ඇති බව පොලීසිය පවසයි.
+Security measures for Catholic Church: 45,000 police deployed, military protection for essential places. Prison inmates granted Christmas visit rights; 389 released.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි බුද්ධික මනතුංග මහතා පවසා සිටියේ, අත්‍යාවශ්‍ය ස්ථාන සඳහා යුධ හමුදා ආරක්ෂාවද යෙදවීමට පියවර ගෙන ඇති බවයි.
+🟩
 
-මේ අතර නත්තල් දිනය නිමිත්තෙන් බන්ධනාගාර රැඳවියන්ට විවෘත අමුත්තන් බැලීම සඳහා විශේෂ අවස්ථාවක් ලබා දීමට බන්ධනාගාර දෙපාර්තමේන්තුව තීරණය කර ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක, බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා පැවසීය.
+The police said that 45,000 police officers were deployed to protect the Catholic Church.
 
-එමෙන්ම නත්තල් දිනය වෙනුවෙන් රැඳවියන් 389 දෙනෙකු නිදහස් කිරීමට තීරණය කර ඇති බවද බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+Police Media Spokesperson SSP Buddhika Manatunga said steps have been taken to use military protection for essential places.
+
+Meanwhile, prison inmates have decided to give Sri Lanka prison inmates a special occasion for Christmas Day to watch open guests.. Mr. Dissanayake said.
+
+389 inmates have been released on Christmas Day.
 
 ◼️
 
 [Data](articles/ad941294.json)
 
+[Extended Data](ext_articles/ad941294.ext.json)
+
 ---
 
-### දේශයේ වගකීම් වෙනුවෙන් එක්වෙමු
+### Let us join hands in the land
 
 *2024-12-25 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204693) · `si`
 
-නත්තල යනු වාද භේද දුරලා මනුෂ්‍යත්වයේ නාමයෙන්, සමඟියෙන් හා සාමයෙන් කටයුතු කිරීම බව  ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a summary of 200 characters:
 
-නත්තල් දින සැමරුම වෙනුවෙන් සුබ පැතුම් පණිවුඩයක් නිකුත් කරමින් ජනාධිපතිවරයා පෙන්වා දෙන්නේ සියලු ජන කොටස් ඒකාවන්ව ඒකායන පරමාර්ථයකින් සාමූහික වගකීමක් සේ සලකා දේශයේ වගකීම් වෙනුවෙන් එකමුතු විය යතු බවය.
 
-වර්ථමානයේ ශ්‍රී ලංකාවට අවශ්‍ය දැවැන්ත සමාජ පරිවර්ථනය සහ ජාතික පුනරුදය වෙනුවෙන් කැපවීමෙන් කටයුතු කරන අතර දහස් සංඛ්‍යාත ජනතාවගේ බලාපොරොත්තු කිසිඳු අයුරකින් කඩ වීමට ඉඩ නොතබන බව ජනාධිපතිවරයාගේ නත්තල් දින පණිවුඩයේ සඳහන් වේ.
 
-නත්තලේ සැබෑ යථාර්ථය වන සාමූහිකත්වය, කෘතඥතාව සහ සාමය පෙරදැරි කර ගනිමින් උදාවූ නත්තල ප්‍රීතිමත්ව සහ අර්ථාන්විත කරගත යුතු බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+Leaders unite Sri Lankans for Christmas, emphasizing unity, peace, and national revival. They call for collective responsibility, gratitude, and overcoming differences.
 
-මෙම සමයේදී අනෝන්‍යය සබඳතා වැඩි දියුණු කර ගැනීම සහ ඉවසීම වර්ධනය කර ගැනීම මෙන්ම එකමුතුකමේ  සහ අවබෝධය ඇති කර ගැනීමට කැපවී සිටින බව අග්‍රාමාත්‍යවරිය නිකුත් කළ  නත්තල් දින පණිවුඩයේ වැඩිදුරටත් සඳහන් වේ.
+🟩
+
+President Anura Kumara Dissanayake says that Christmas is the demonstration of humanity, with unity and peace.
+
+The President pointed out a greetings for Christmas Day celebration and the President thus united in the country's responsibilities as a collective responsibility with a source of holistic objective.
+
+The President's Christmas Day Message states that the massive social transformation and national revival of Sri Lanka is now dedicated and the national revival of thousands of people will not be able to break thousands of people.
+
+Prime Minister Dr. Welini Amarasuriya says that Christmas should be happy and meaningful to the reality of Christmas, grateful, gratitude and peace.
+
+The Prime Minister's message depicting the Prime Minister's message to enhance the abolition and developing the difference and developing the differences and developing the differences and to develop patience.
 
 ...
 
 [Data](articles/c3a5a19e.json)
+
+[Extended Data](ext_articles/c3a5a19e.ext.json)
 
 ---
 
@@ -1920,6 +1946,22 @@ The Dravida Munnetra Kazhagam has urged Tamil Nadu fishermen and their boats to 
 
 ---
 
+### රජයට රු. කෝටි 381ක් අහිමි වූ ව්‍යාපෘති 32ක්
+
+*2024-12-24 17:11:32* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-රු--කෝටි-381ක්-අහිමි-වූ-ව්‍යාපෘති-32ක්/11-413828) · `si`
+
+ආසියානු සංවර්ධන බැංකු ආධාර යටතේ 2020 වර්ෂයේදී පළාත් සභා අරමුදල් මගින් ක්‍රියාත්මක වූ ජල සැපයුම් ව්‍යාපෘති ඇතුළු ව්‍යාපෘති 32 ක් 2022 වර්ෂයේ අගෝස්තු මාසයේ සිට අතරමග නතරවීම නිසා ඒ සඳහා වැය කරන ලද රුපියල් කෝටි 381ක මුදලක් රජයට අහිමි වී ගොස් ඇති බව ජාතික විගණන කාර්යාලය මගින් ඉකුත් 22 දින නිකුත් කරන ලද විගණන වාර්තාවකින් අනාවරණය වෙයි.
+
+ජාතික විගණන කාර්යාලය සඳහන් කරන පරිදි මෙම ව්‍යාපෘති අතර මග නතර වී ඇත්තේ ඇතැම් ගොඩනැගිලි ඉදිකිරීම සඳහා පළාත් සභා ආවරණය වන සමහර ප්‍රදේශවල ජල සම්පාදන පහසුකම් නොමැතිවීම, එම ස්ථානවලට ගමන් කිරීම සඳහා ප්‍රවේශ මාර්ග නොමැතිවීම, ඉදිකිරීම් කරගෙන යන ගොඩනැගිලි අනුමත සැලසුම්වලට අනුකූල නොවීම නිසා බවද එම විගණන වාර්තාවේ සඳහන් වෙයි.
+
+වෙළෙඳපොළවල් ඉදිකිරීම, සත්ත්ව පාලන මධ්‍යස්ථාන, සමෘද්ධි ව්‍යාපෘති සඳහා ගොඩනැගිලි පවත්වා ගෙන යන ස්ථාන ආරම්භ කිරීම ප්‍රජාශාලා ඉදිකිරීම යන ආදී ස්ථාන ආරම්භ කර ඇත්තේ මහජන ඉල්ලීම්වලින් තොරව බවද අනාවරණය වේ.
+
+...
+
+[Data](articles/b489591a.json)
+
+---
+
 ### Archdiocese urges devotees to attend Christmas masses with confidence amid heightened security
 
 *2024-12-24 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104474/archdiocese-urges-devotees-to-attend-christmas-masses-with-confidence-amid-heightened-security) · `en`
@@ -2227,27 +2269,5 @@ In addition, the body test reports that the death of the heart valve is due to t
 [Data](articles/74811124.json)
 
 [Extended Data](ext_articles/74811124.ext.json)
-
----
-
-### Paused
-
-*2024-12-24 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202013) · `ta`
-
-Western Province school teachers suspended private classes due to provincial education ministry circular. Deputy Minister Mahinda Jayasinghe announced suspension of objections to roundabout implementation.
-
-🟩
-
-In the Western Province, school teachers have been temporarily suspended to restrict private education classes and implement a circular issued by the Provincial Ministry of Education.
-
-The Secretary of the Provincial Education Ministry issued a circular last Friday, banning school teachers in the Western Province from conducting educational classes for students in their schools.
-
-Deputy Minister of Labor Mahinda Jayasinghe said that the implementation of the objections to the roundabout has been suspended.
-
-◼️
-
-[Data](articles/1caac1cf.json)
-
-[Extended Data](ext_articles/1caac1cf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 12:43:18**
+As of **2024-12-25 13:01:24**
 
 ## Newspaper Stats
 
-*Scraped **61,972** Articles*
+*Scraped **61,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,917
 adaderanalk | 7,567
-tamilmirrorlk | 8,872
+tamilmirrorlk | 8,873
 virakesarilk | 10,248
 adaderanasinhalalk | 10,701
 
@@ -26,23 +26,51 @@ adaderanasinhalalk | 10,701
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,544 (99.3%) of 61,972 articles have been extended.
+61,546 (99.3%) of 61,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### கைதிகளை பார்வையிட அனுமதி
+### இடைநிறுத்தப்பட்ட ஊழியர்கள் மீண்டும் சேவையில் இணைப்பு
+
+*2024-12-25 12:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைநிறுத்தப்பட்ட-ஊழியர்கள்-மீண்டும்-சேவையில்-இணைப்பு/175-349262) · `ta`
+
+இலங்கை மின்சார சபையை தனியார் மயமாக்கும் திட்டத்திற்கு எதிராக போராட்டம் நடத்தியதற்காக பணி இடைநிறுத்தம் செய்யப்பட்ட 62 ஊழியர்கள் மீண்டும் பணியில் அமர்த்தப்பட்டுள்ளனர்.
+
+எரிசக்தி அமைச்சர் பொறியியலாளர் குமார ஜயக்கொடியின் உத்தரவின் பேரில் இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+இதனையடுத்து அவர்களை அனைத்துக் குற்றச்சாட்டுக்களிலிருந்தும் ஊழியர்களை விடுவிக்கவும், அவர்களது முந்தைய பணியிடங்களில் மீண்டும் பணியில் அமர்த்தவும், அபராதங்களில் இருந்து விடுவிக்கவும் CEB நடவடிக்கை எடுத்துள்ளது.
+
+குறித்த ஊழியர்களை மீண்டும் பணியில் சேர்ப்பதற்கான கடிதங்களை அமைச்சர் ஜெயக்கொடி நேற்று (24) வழங்கினார்.
+
+இலங்கை மின்சார சபையை தனியார் மயமாக்கும் திட்டம் இருப்பதாகக் கூறி, அதற்கு எதிராக கடந்த ஜனவரி மாதம் இலங்கை மின்சார சபையின் தொழிற்சங்கங்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தன.
+
+அப்போதைய மின்வலு மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர, இந்த போராட்டத்தில் கலந்து கொண்ட ஊழியர்கள் மீது நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு அறிவுறுத்தினார்.
+
+...
+
+[Data](articles/b946f076.json)
+
+---
+
+### Allow the prisoners to visit
 
 *2024-12-25 12:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளை-பார்வையிட-அனுமதி/175-349259) · `ta`
 
-நத்தார் பண்டிகையை முன்னிட்டு சிறைச்சாலைக்குள் சென்று நேரடியாக கைதிகளை பார்வையிட உறவினர்களுக்கு விசேட அனுமதி வழங்கப்பட்டுள்ளதாகவும் சிறைச்சாலை ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+Prisoners allowed visits during festival. Relatives granted special access. 398 prisoners receive amnesty.
 
-மேலும். நத்தார் பண்டிகையை முன்னிட்டு 398 சிறைக்கைதிகளுக்கு விசேட அரச பொது மன்னிப்பு வழங்கபட்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
+
+Relatives have been given special permission to go into the prison and visit the prisoners directly on the occasion of the festival. Prison Commissioner and Media Spokesperson. Dissanayake said.
+
+And. He also said that 398 prisoners have been given a special state amnesty on the occasion of the Nathar festival.
 
 ◼️
 
 [Data](articles/9e7567c7.json)
+
+[Extended Data](ext_articles/9e7567c7.ext.json)
 
 ---
 
@@ -59,6 +87,8 @@ Israel on October 23 asked its citizens to avoid non-essential travel to Sri Lan
 ...
 
 [Data](articles/bf382f5c.json)
+
+[Extended Data](ext_articles/bf382f5c.ext.json)
 
 ---
 
@@ -1500,8 +1530,6 @@ The British Institute of Management and Technology (BIMT Campus), a leading priv
 
 The award ceremony was held at the BMICH in Colombo, and it celebrated entrepreneurship across multiple sectors. The awards were received by BIMT’s Chief Executive Officer Farshath Jamal, Finance Manager Afzan Nazar, and Student Recruitment Manager Gugan Santhirasekaram.
 
-Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
-
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
 Save my name, email, and website in this browser for the next time I comment.
@@ -2205,27 +2233,5 @@ The Prison authorities say that the minimum imposed in the Mahara Prison has bee
 [Data](articles/733192f0.json)
 
 [Extended Data](ext_articles/733192f0.ext.json)
-
----
-
-### 17 Indian fishermen arrested in Mannar seas
-
-*2024-12-24 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/202078) · `ta`
-
-Indian fishermen detained in Mannar seas: 17 arrested, 2 boats seized. Sri Lankan Navy conducts anti-poaching operations.
-
-🟩
-
-The Sri Lankan Navy, in partnership with the Department of Navy, launched special patrols in the Sri Lankan waters north of Mannar on Monday night (23). Two Indian fishing boats have been seized and 17 Indian fishermen have been arrested.
-
-Foreign fishing boats are taking a series of measures to prevent illegal fishing activities in the country and protect the livelihood of local fishermen.. This is how the patrols have been carried out.
-
-The arrested fishermen have been handed over to the Mannar Fisheries Department for further legal action with boats. 72 boats have been seized and 554 Indian fishermen have been arrested this year.
-
-◼️
-
-[Data](articles/bb0c3554.json)
-
-[Extended Data](ext_articles/bb0c3554.ext.json)
 
 ---

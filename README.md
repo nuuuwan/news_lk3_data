@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 23:27:22**
+As of **2024-12-25 23:43:44**
 
 ## Newspaper Stats
 
-*Scraped **62,041** Articles*
+*Scraped **62,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 654
 islandlk | 3,753
-economynextcom | 3,776
+economynextcom | 3,777
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,924
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,595 (99.3%) of 62,041 articles have been extended.
+61,597 (99.3%) of 62,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,39 +62,55 @@ Panadura North Police Station, Inspector Sanjeewa chaired by Hon.
 
 ---
 
-### මව, පියා සහ දරු දෙදෙනා ගිය යතුරුපැදිය ටිපර් රථයක ගැටෙයි
+### Motorcycle Tipper clashes with mother, father and children
 
 *2024-12-25 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204724) · `si`
 
-කිලිනොච්චිය නගරයේ සිදුවූ රිය අනතුරකින් වයස අවුරුදු 2ක දරුවෙකු මියගොස් එකම පවුලේ තිදෙනෙකු බරපතළ තුවාල ලබා තිබේ.
+Motorcycle crash kills toddler, injures 3 in Kilinochchi. Police arrest tipper driver, suspecting drunk driving. Family members hospitalized.
 
-අද (25) රාත්‍රී 7ට පමණ ටිපර් රථයක් සහ යතුරුපැදියක එකිනෙක ගැටීමෙන් අනතුර සිදුවී ඇත.
+🟩
 
-අනතුරත් සමග යතුරුපැදිය මීටර් 100ක් පමණ මාර්ගයෙන් ඉවතට විසිවී ගොස් ඇති බව අප වාර්තාකරු පැවසීය.
+A 2-year-old child was killed and 3 have been seriously injured in an accident in Kilinochchi.
 
-සිද්ධිය සම්බන්ධයෙන් ටිපර් රථයේ රියදුරුව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර ඔහු බීමතින් සිට ඇති බවට ප්‍රදේශවාසීන් චෝදනා කර ඇත.
+The accident occurred while collision with a tipper and a motorbike today (25).
 
-අනතුරෙන් යතුරුපැදියේ ගමන් ගත් අවුරුදු 2ක් වයස ඇති දරුවෙක් මියගොස් ඇති අතර එකම පවුලේ මව, පියා සහ 6 හැවිරිදි දරුවෙකු බරපතළ තුවාල ලබා කිලිනොච්චිය රෝහලට ඇතුළත් කෙරුණි.
+According to our correspondent, the motorcycle has been thrown away from 100 meters from the accident.
 
-පසුව බරපතළ තත්ත්වයේ පසුවූ දරුවා යාපනය ශික්ෂණ රෝහල වෙත මාරුකර යැවීමට පියවර ගෙන ඇත.
+Residents have been arrested by the police in the tipper driver in connection with the incident and he has accused him of drinking.
+
+A 2-year-old boy was killed and a mother of the same family and a 6-year-old child was admitted to the Kilinochchi hospital.
+
+The child was later transferred to the Jaffna Teaching Hospital.
 
 ◼️
 
 [Data](articles/000e8596.json)
 
+[Extended Data](ext_articles/000e8596.ext.json)
+
 ---
 
-### அல்-குறைஷ் முன்பள்ளி பாலர் பாடசாலையின் மாணவர் வெளியேற்று நிகழ்வு
+### Al-Quraish Pre-School Preschool Student Exit Event Event
 
 *2024-12-25 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202164) · `ta`
 
-பிறைந்துரைச்சேனை அல்-குறைஷ் முன்பள்ளி பாலர் பாடசாலையின் 24வது மாணவர் வெளியேற்று நிகழ்வு அஸ்ஹர் வித்தியாலய கேட்போர் கூடத்தில் செவ்வாய்க்கிழமை (24) நடை பெற்றது.
+Here's a summary of 200 characters:
 
-இந்நிகழ்வில் பிரதம அதிதியாக ஶ்ரீ லங்கா முஸ்லிம் காங்கிரஸ் பிரதித்தலைவரும் பாராளுமன்ற உறுப்பினருமான எம்.எல்.ஏ.எம். ஹிஸ்புல்லாஹ், பாராளுமன்ற உறுப்பினர் பொறியியலாளர் எம்.எஸ். நழீம் மற்றும் ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸ் கல்குடா தொகுதி அமைப்பாளர் சட்டத்தரணி ஹபீப் றிபான் ஆகியோர் கலந்து சிறப்பித்தனர்.
+
+
+"24th Al-Quraish Pre-School student exit event held at Azhar Vidyalaya Auditorium. Attended by Hizbullah MP, Engineer MS. Nalim, and Habib Riban. Celebrated the students' achievements."
+
+🟩
+
+The 24th Student Exit of the Al-Charish Pre-Propey School, Pirandurichenai was held on Tuesday (24) at the Azhar Vidyalaya Auditorium Auditorium.
+
+Sri Lanka Muslim Congress Deputy Leader and Member of Parliament. Hizbullah, Member of Parliament Engineer MS. Nalim and Sri Lanka Muslim Congress Organizer Habib Riban were also present.
 
 ◼️
 
 [Data](articles/568926ba.json)
+
+[Extended Data](ext_articles/568926ba.ext.json)
 
 ---
 
@@ -1008,6 +1024,24 @@ In addition, 8,747 people have violated traffic rules and that the permits of th
 
 ---
 
+### At Christmas Pope urges faithful to think of machine gunned children, bombed hospitals
+
+*2024-12-25 14:49:00* · [`economynextcom`](https://economynext.com/at-christmas-pope-urges-faithful-to-think-of-machine-gunned-children-bombed-hospitals-196382/) · `en`
+
+Christians gathered at the Church of the Nativity in the holy city of Bethlehem on Tuesday to mark a solemn Christmas overshadowed by war, as Pope Francis led mass in the Vatican.
+
+In Bethlehem, in the Israeli-occupied West Bank, festive decorations were missing for a second consecutive year.
+
+The crowd of several hundred paled in comparison to the throngs of tourists and pilgrims of Christmases past — a reflection of the sombre mood as the war between Israel and Palestinian militants in the Gaza Strip churns on.
+
+At St Peter’s Basilica, Pope Francis urged the faithful to think “of the wars, of the machine-gunned children, of the bombs on schools or hospitals,“ days after he reiterated his condemnation of the “cruelty” of Israeli strikes, prompting objections from Israeli diplomats.
+
+...
+
+[Data](articles/9f79ef58.json)
+
+---
+
 ### Special Midnight Worship Events
 
 *2024-12-25 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202102) · `ta`
@@ -1322,6 +1356,8 @@ Investigations have revealed that the accident had occurred due to the existing 
 
 *2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
 
+BREAKING: Azerbaijan Airlines flight traveling from Baku to Grozny crashes in Aktau, Kazakhstan, after reportedly requesting an emergency landing pic.twitter.com/hB5toqEFe2— RT (@RT_com) December 25, 2024
+
 An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
 
 “A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
@@ -1332,9 +1368,7 @@ The Kazakh transport ministry said there were 62 passengers and five crew member
 
 The country’s emergency situations ministry said its personnel were putting out a fire at the site.
 
-“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
-
-◼️
+...
 
 [Data](articles/36a93a06.json)
 
@@ -2301,23 +2335,5 @@ First he found his mother, then his wife. But their infant son was missing. A nu
 ◼️
 
 [Data](articles/4aafccb4.json)
-
----
-
-### 45,000 police personnel deployed for security at churches
-
-*2024-12-25 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104482/45000-police-personnel-deployed-for-security-at-churches) · `en`
-
-Sri Lanka Police announced the deployment of around 45,000 officers to ensure security at Catholic churches across the island on Christmas Day.
-
-Police Media Spokesperson SSP Buddhika Manatunga stated that military personnel will also be stationed at key locations as part of the security measures.
-
-Meanwhile, the Prisons Department has granted a special opportunity for inmates to receive open visitors on Christmas Day, according to the Spokesman of the Department of Prisons, Gamini B. Dissanayake.
-
-Additionally, it has been decided to release a total of 389 inmates in celebration of the Christmas holiday.
-
-◼️
-
-[Data](articles/7033008f.json)
 
 ---

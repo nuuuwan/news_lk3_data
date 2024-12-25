@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 15:12:53**
+As of **2024-12-25 15:27:15**
 
 ## Newspaper Stats
 
-*Scraped **61,996** Articles*
+*Scraped **61,997** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
-colombotelegraphcom | 628
+colombotelegraphcom | 629
 bbccomsinhala | 654
 islandlk | 3,753
 economynextcom | 3,776
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,557 (99.3%) of 61,996 articles have been extended.
+61,558 (99.3%) of 61,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,23 +68,31 @@ Christmas rituals were held at 12 midnight today at the Shantha Mary's Church in
 
 ---
 
-### මාර්ග තදබදයක් ගැන පොලීසියෙන් දැනුම්දීමක්
+### Police notice of traffic congestion
 
 *2024-12-25 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204711) · `si`
 
-අද (25) සවස දෙමටගොඩ පොලිස් වසමේ ඇතිවිය හැකි මාර්ග තදබදයක් සම්බන්ධයෙන් රියදුරන් දැනුවත් කරමින් පොලීසිය නිවේදනයක් නිකුත් කර තිබේ.
+Dematagoda Police Division: Traffic congestion alert. Procession blocking roads. Use alternative routes: Sri Draudarama Lunugarama, Baseline Road, Orguruwatta Junction, Aphros Road, Bandaranaike Road. Avoid Baselnayake Junctions.
 
-එහි දැක්වෙන්නේ ශ්‍රී විසුද්ධාරාම ලුනාව දේවාල මහා විහාරස්ථානයේ පැවැත්වෙන පෙරහැර හේතුවෙන් මාර්ග අවහිර වීමට ඉඩ ඇති බවය.
+🟩
 
-දෙමටගොඩ පොලිස් වසමේ ලුනාව දේවාල මහා විහාරස්ථානයේ වාර්ෂික නානුමුර මංගල්‍ය පෙරහැර 71 වන වරට අද (25) දින සවස 06.00 සිට වීථී සංචාරය කිරීමට නියමිතය.
+Police have issued a statement informed of the drivers in the Dematagoda Police Division today (25).
 
-මෙම පෙරහැර නැරඹීම සඳහා විශාල බැතිමතුන් පිරිසක් පැමිණෙතැයි අපේක්ෂා කරනු ලබන අතර ඒ හේතුවෙන් විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන ඇත.
+The procession will be blocked due to the procession of the Sri Dissanaduwa Lunawa Devalaya Maha Viharaya.
 
-ඒ අනුව මෙම පෙරහැර ශ්‍රී විසුද්ධාරාම ලුනාව දේවාල භූමියෙන් ආරම්භ කර ඉංග්‍රම් හන්දිය, සද්ධර්ම මාවත, ඛෙත්තාරාම පාර, අඩි 100 පාර, බේස්ලයින් පාර, ඔරුගොඩවත්ත හන්දිය, ස්ට්‍රේස් පාර, කොස්ගස් හන්දිය, ග්‍රෑන්ඩ්පාස් පාර, ඉඟුරුකඩේ හන්දිය, ඇප්රෝච් පාර, බණ්ඩාරනායක හන්දිය, බේස්ලයින් පාර, ඔරුගොඩවත්ත හන්දිය ඔස්සේ නැවත විහාරස්ථානය වෙත ගමන් කිරීමට නියමිතය.
+The annual film Perahera of the Lunawa Devalaya Maha Viharaya in the Dematagoda Police Division is due to visit the streets from 6th at 6.00 pm today.
 
-...
+A large number of devotees are expected to attend the procession and the police have taken steps to implement a special traffic plan.
+
+Accordingly, the Perahera commenced from the Sri Draudarama Lunugarama area, Baseline Road, Orguruwatta Junction, Aphros Road, Bandaranaike Road, Baseline Junction, Baselnayake Junction, Baselnayake Junction, Baselnayake JunctionThe temple is to be returned along the Ougodawatta Junction.
+
+Therefore, the police are requested to use the following alternate routes using those roads during the Perahera.
+
+◼️
 
 [Data](articles/9213c1f1.json)
+
+[Extended Data](ext_articles/9213c1f1.ext.json)
 
 ---
 
@@ -1099,6 +1107,22 @@ Gazette issued on monthly payments to ‘Aswesuma’ beneficiaries in 2025 by Ad
 ◼️
 
 [Data](articles/1ec3a7dd.json)
+
+---
+
+### Metamorphosis Of Vijitha Herath: From Defending Poor To Defending Bureaucracy
+
+*2024-12-25 09:41:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/metamorphosis-of-vijitha-herath-from-defending-poor-to-defending-bureaucracy/) · `en`
+
+In a landmark decision, the Australian Federal Court has fined Himalee Arunatilaka, Sri Lanka’s current Ambassador and Permanent Representative to the United Nations in Geneva, over AUD 117,000 for exploiting a domestic worker during her tenure as Deputy High Commissioner in Canberra.
+
+From 2015 to 2018, Priyanka Danaratna, a Sri Lankan national, was employed by Arunatilaka in Canberra. During this period, Danaratna worked extensive hours, often from 6 a.m. to 10 p.m., performing household duties without adequate compensation. She was paid less than 65 Australian cents per hour, totaling approximately AUD 11,212 over three years, a stark violation of Australian labor laws.
+
+Danaratna’s working conditions were restrictive; her passport was confiscated, limiting her freedom of movement. She was rarely permitted to leave the residence unaccompanied, effectively placing her in a situation akin to modern slavery.
+
+...
+
+[Data](articles/52dc4767.json)
 
 ---
 
@@ -2119,19 +2143,5 @@ Earthfoam Private Limited, a leading manufacturer of natural latex-based mattres
 ...
 
 [Data](articles/e4744a3f.json)
-
----
-
-### Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
-
-*2024-12-24 23:08:00* · [`islandlk`](http://island.lk/browns-investments-combank-and-sampath-bank-lead-trading-activity-on-cse/) · `en`
-
-The Colombo Stock Exchange (CSE) kicked off with a downward trend yesterday, but it later recovered following the upgrading of Moody’s Ratings of the Sri Lanka economy.
-
-Amid those developments both indices moved upwards. All Share Price Index up by 147.8 points while S and P SL20 up by 34.64 points.
-
-...
-
-[Data](articles/7c8f4ce3.json)
 
 ---

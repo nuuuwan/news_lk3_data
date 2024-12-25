@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 05:51:39**
+As of **2024-12-25 06:48:25**
 
 ## Newspaper Stats
 
-*Scraped **61,891** Articles*
+*Scraped **61,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 628
 bbccomsinhala | 652
-islandlk | 3,744
-economynextcom | 3,771
-dailyftlk | 4,289
+islandlk | 3,753
+economynextcom | 3,773
+dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,910
 adaderanalk | 7,560
-tamilmirrorlk | 8,853
+tamilmirrorlk | 8,854
 virakesarilk | 10,243
 adaderanasinhalalk | 10,688
 
@@ -26,11 +26,263 @@ adaderanasinhalalk | 10,688
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,521 (99.4%) of 61,891 articles have been extended.
+61,522 (99.4%) of 61,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### Has NPP Government burnt its finger with IMF?
+
+*2024-12-25 06:19:56* · [`dailyftlk`](https://www.ft.lk/columns/Has-NPP-Government-burnt-its-finger-with-IMF/4-771008) · `en`
+
+The Government has to be honest and transparent and is obliged to disclose what was agreed with the IMF to the public
+
+The End of Mission statement issued by the International Monetary Fund (IMF) team that visited Colombo from 17 to 23 November states: “The new government’s commitment to the program objectives has enhanced confidence and ensures policy continuity.”… “The new government’s mandate will reinvigorate governance reforms addressing corruption risks, rebuilding economic confidence, and making growth more robust and inclusive.”
+
+This statement sparked a debate. Mixed sentiments were expressed. The Opposition parties and other critiques charged that President Anura Kumara Dissanayake (AKD) and his National People’s Power (NPP) Government have deviated from their pre-election promise on the IMF agreement. Has the Government gone back on its own words by agreeing to move forward with IMF?
+
+...
+
+[Data](articles/6e3a74e2.json)
+
+---
+
+### Ecuador’s debt for nature swap: Innovative bond restructuring – lessons for Sri Lanka
+
+*2024-12-25 06:16:13* · [`dailyftlk`](https://www.ft.lk/columns/Ecuador-s-debt-for-nature-swap-Innovative-bond-restructuring-lessons-for-Sri-Lanka/4-771007) · `en`
+
+The Galapagos debt-for-nature swap highlights the importance of environmental conservation and sustainable economic growth
+
+Sri Lanka unilaterally defaulted on its external debt in April 2022, exposing its long-standing economic and financial vulnerabilities and igniting a series of inter-related multiple economic crises—fiscal, debt, currency, inflation, and balance of payments—as well as a vast socio-political upheaval. The root cause of Sri Lanka’s economic crisis was a result of misuse of public funds by politicians on an unprecedented scale and large fiscal deficits, which were increasingly financed by unsustainable public debt, particularly foreign commercial borrowings. This carefully over time navigated Sri Lanka into a public debt crisis, international sovereign bond unsustainability, liquidity crisis, and a collapse in the exchange rate.
+
+...
+
+[Data](articles/4d3caa8c.json)
+
+---
+
+### President’s Fund is a tragedy
+
+*2024-12-25 06:12:35* · [`dailyftlk`](https://www.ft.lk/columns/President-s-Fund-is-a-tragedy/4-771006) · `en`
+
+There must be uniform criteria for eligibility to apply for and obtain financial assistance from the President’s Fund, followed by monitoring and evaluation assessment
+
+“Political corruption is a cancer, a cancer that eats away at a citizen’s faith in democracy, diminishes the instinct for innovation and creativity” — Joe Biden, former vice president of the United States.
+
+...
+
+[Data](articles/8aa41e2e.json)
+
+---
+
+### Empathy and festivity: Why this Christmas uniquely needs more empathy than ever
+
+*2024-12-25 06:06:17* · [`dailyftlk`](https://www.ft.lk/columns/Empathy-and-festivity-Why-this-Christmas-uniquely-needs-more-empathy-than-ever/4-771004) · `en`
+
+There is more that connects these two words than the fact that they rhyme. Christmas is the most anticipated time of the year for so many families but with this special time comes a unique set of emotions and relationship realities.  It is this once-a-year occasion that drives our need for more empathy than at any other point in the year – for ourselves and for each other.
+
+Often mistaken as an ability, we are born with more or less of, empathy is actually a pro-social skillset that we all possess in order to be able to connect to those around us. It is a neurological skillset and not a mindset. At this time of year, as we share our humility and compassion with others, it is our ability to deeply understand the perspectives of others that allows us to gain both strength and unity. So how do you ensure that you are getting it right? Read on below as global expert Mimi Nicklin shares her top tips for harmony and understanding as the holidays roll out.
+
+...
+
+[Data](articles/e3e4a6d8.json)
+
+---
+
+### ICRC hosts first National Conference for Families of Missing Persons in Sri Lanka
+
+*2024-12-25 06:03:12* · [`dailyftlk`](https://www.ft.lk/news/ICRC-hosts-first-National-Conference-for-Families-of-Missing-Persons-in-Sri-Lanka/56-771003) · `en`
+
+The first National Conference for the Families of Missing Persons in Sri Lanka took place on 12-13 December in Colombo.
+
+Facilitated by the International Committee of the Red Cross (ICRC), the conference brought together 51 families of missing persons from all communities in Sri Lanka, representing diverse regions.
+
+The conference provided a much-needed humanitarian space for families of missing persons to interact with families from other communities, exchange views, discuss common challenges faced in searching for their missing loved ones, and how to overcome them collectively. During the event, the participants reiterated the need to know the fate and whereabouts of their missing loved ones.
+
+...
+
+[Data](articles/8d271b95.json)
+
+[Extended Data](ext_articles/8d271b95.ext.json)
+
+---
+
+### Sri Lanka Mission to UN celebrates ‘World Meditation Day’ in New York
+
+*2024-12-25 06:01:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Mission-to-UN-celebrates-World-Meditation-Day-in-New-York/56-771002) · `en`
+
+In commemoration of the historic adoption of the United Nations General Assembly resolution declaring 21 December as “World Meditation Day”, the Permanent Mission of Sri Lanka in New York hosted the first celebratory event of the core group of countries on 20 December, to mark the global significance of the practice of Meditation.
+
+This event, entitled “Meditation – its universality and relevance in the 21st Century” focused on underlining the relevance and benefits of meditation for modern living with a keynote address by Dr. Tony Nader, a medical doctor trained at Harvard University and the Massachusetts Institute of Technology and a globally recognised meditation expert. During his address, Dr. Nader highlighted the benefits of practicing meditation and the scientific studies done on the subject. “Meditation is not a luxury; it is a necessity,” he mentioned, highlighting the benefits of meditation to modern life.
+
+...
+
+[Data](articles/d16aad1f.json)
+
+---
+
+### Sri Lanka cabinet approves ratification of UN convention on BBNJ
+
+*2024-12-25 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-ratification-of-un-convention-on-bbnj-196277/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the ratification of the convention on biodiversity beyond national jurisdiction (BBNJ) agreement, the Cabinet Spokesman said.
+
+The move is likely to allow the island nation to get more financial resources along with improved capacity and technical expertise to conserve marine biodiversity in its closest international sea.
+
+The oceans beyond national borders remained largely unregulated, leaving them vulnerable to the escalating threats of human activities in the international seas.
+
+Government officials say the global north’s focus on resources in the high seas and seabed poses significant challenges to maritime biodiversity, given their advanced technical capabilities and financial resources.
+
+These efforts give rise to concerns regarding their effects on marine ecosystems, encompassing issues such as overexploitation, habitat degradation, the diminishment of genetic diversity, and disruptions to ecological interconnectedness.
+
+...
+
+[Data](articles/d6ca20a7.json)
+
+---
+
+### Multi-Sectoral National Action Plan to address SGBV in Sri Lanka
+
+*2024-12-25 05:59:51* · [`dailyftlk`](https://www.ft.lk/news/Multi-Sectoral-National-Action-Plan-to-address-SGBV-in-Sri-Lanka/56-771001) · `en`
+
+The national launch event took place at the Ministry of Women and Child Affairs
+
+Multi-Sectoral National Action Plan to Address SGBV in Sri Lanka - II
+
+National plan covering 13 sectors to ensure gender equality and women’s rights in Sri Lanka launched by Women and Child Affairs Minister Saroja Savithri Paulraj
+
+The second Multi-Sectoral National Action Plan to Address Sexual and Gender Based Violence (2024-2028) was launched recently (20 Dec.) in the presence of Women and Child Affairs Minister Saroja Savithri Paulraj.
+
+The national launch event, which took place at the Ministry of Women and Child Affairs (MoWCA) premises, was attended by Deputy Minister of Women and Child Affairs Dr. Namal Sudarshana, MoWCA Secretary K.D.R. Olga, MoWCA Additional Secretary Nilmini Herath, United Nations Development Programme (UNDP) Sri Lanka Resident Representative Azusa Kubota, and United Nations Population Fund (UNFPA) Sri Lanka Country Representative Kunle Adeniyi.
+
+...
+
+[Data](articles/fd2d3567.json)
+
+---
+
+### HEL Partner Forum: Empowering smarter energy solutions for sustainable future
+
+*2024-12-25 05:52:40* · [`dailyftlk`](https://www.ft.lk/business/HEL-Partner-Forum-Empowering-smarter-energy-solutions-for-sustainable-future/34-770999) · `en`
+
+Hayleys Electronics Ltd. (HEL), a trailblazer in sustainable energy solutions, hosted an impactful Partner Forum in Kandy, uniting over 40 local businesses and key representatives from Huawei Technologies. This initiative is part of HEL’s strategic vision to drive Sri Lanka’s transition towards smarter, more efficient energy solutions.
+
+The event spotlighted cutting-edge technologies, including Huawei’s FusionSolar Smart PV and Energy Storage System (ESS) products, which are revolutionising the energy landscape with unparalleled efficiency and reliability. Attendees also delved into the advanced capabilities of Solax inverters, featuring intuitive mobile app integration for seamless energy management, and the sleek, high-performing JA Solar panels, which combine efficiency with aesthetic appeal.
+
+The forum served as a platform to foster collaboration and dialogue, empowering HEL’s partners to leverage advanced energy solutions tailored to meet Sri Lanka’s growing renewable energy demands.
+
+...
+
+[Data](articles/a74b4419.json)
+
+---
+
+### Cabinet approves submission of Special Commodity Levy Orders for Parliament approval
+
+*2024-12-25 05:51:10* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-submission-of-Special-Commodity-Levy-Orders-for-Parliament-approval/34-770998) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved presenting newly published orders under the Special Commodity Levy Act No. 48 of 2007 for Parliamentary approval.
+
+The proposal to this effect presented by President Anura Kumara Dissanayake in his capacity as the Finance, Planning, and Economic Development Minister, aims to streamline tax policies on essential commodities and ensure greater fiscal efficiency.
+
+The order issued under Section 2 of the Special Commodity Levy Act No. 48 of 2007 and published through the Gazette Extraordinary No. 2384/31 dated 17.05.2024
+
+The order issued under Section 2 and 5 of the Special Commodity Levy Act No. 48 of 2007 and published through the Gazette Extraordinary No. 2395/32 dated 31.07.2024
+
+The order issued under Section 2 of the Special Commodity Levy Act No. 48 of 2007 and published through the Gazette Extraordinary No. 2404/19 dated 02.10.2024
+
+...
+
+[Data](articles/47d0120b.json)
+
+---
+
+### Govt. pledges to tackle underworld activities
+
+*2024-12-25 05:46:58* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-to-tackle-underworld-activities/56-770997) · `en`
+
+The Government yesterday pledged decisive action to address the resurgence of underworld activities and drug smuggling.
+
+“As the Government, we are bound to suppress the underworld and combat drug trafficking. However, we do not intend to rely solely on short-term operations like before. The law enforcement authorities are systematically intervening in this matter,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said yesterday.
+
+Speaking that the weekly post-Cabinet meeting media briefing assured the Government’s unwavering commitment to tackling these issues promptly.
+
+Despite disclosing details about the measures underway, he said that actions are already in progress and expressed confidence that the results of these interventions would soon become evident.
+
+◼️
+
+[Data](articles/42351872.json)
+
+---
+
+### Acting IGP directs CID to investigate alleged misuse of President’s Fund
+
+*2024-12-25 05:46:41* · [`dailyftlk`](https://www.ft.lk/news/Acting-IGP-directs-CID-to-investigate-alleged-misuse-of-President-s-Fund/56-770996) · `en`
+
+Sri Lanka Police have initiated a special investigation into allegations of misuse of the President’s Fund following directives from Acting Inspector General of Police (IGP) Priyantha Weerasuriya. The Criminal Investigation Department (CID) has been tasked with conducting a comprehensive inquiry into the matter.
+
+The decision comes in response to a formal complaint lodged by the Organisation of Lawyers to Protect Public Funds at the Police Headquarters yesterday. The group has called for an investigation into potential misappropriation of the President’s Fund by several individuals, including Members of Parliament.
+
+Attorney Suranga Bandara, representing the organisation, alleged that significant sums of money were withdrawn from the President’s Fund by certain MPs. He emphasised that the investigation should focus on whether these requests were made through formal channels and if any fraudulent practices occurred during the disbursement process.
+
+...
+
+[Data](articles/b385f103.json)
+
+---
+
+### Speaker of Thai Parliament reaffirms commitment in rescuing Lankan victims of human trafficking in Myanmar
+
+*2024-12-25 05:46:24* · [`dailyftlk`](https://www.ft.lk/news/Speaker-of-Thai-Parliament-reaffirms-commitment-in-rescuing-Lankan-victims-of-human-trafficking-in-Myanmar/56-770995) · `en`
+
+Ambassador and Permanent Representative of Sri Lanka in Bangkok Wijayanthi Edirisinghe paid a courtesy call on Speaker of the Parliament and President of the National Assembly of Thailand Wan Muhamad Noor Matha at the Thai Parliament on 17 December. The meeting was focused on further strengthening the longstanding ties between Sri Lanka and Thailand.
+
+The Speaker recalled the 70-year-long friendly relations between Thailand and Sri Lanka, underpinned by shared cultural and religious heritage. He highlighted that Buddhism, Thailand’s national religion, originated from Sri Lanka, forming a significant relationship between the two countries.
+
+The Ambassador mentioned about the upcoming 70th anniversary of diplomatic relations in 2025 and informed the Speaker that a series of commemorative events will be organised in collaboration with the Ministry of Foreign Affairs of Thailand.
+
+...
+
+[Data](articles/1f6f2c7e.json)
+
+---
+
+### Cabinet green lights to boost LG income generation
+
+*2024-12-25 05:45:27* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-to-boost-LG-income-generation/56-770994) · `en`
+
+The Cabinet of Ministers on Monday gave its green light to implement a capital grant project to boost revenue generation in selected Pradeshiya Sabhas.
+
+The move covering the years 2025-2027 seeks to address disparities identified in a recent performance evaluation of Local Government authorities, while reducing financial reliance on the General Treasury.
+
+As part of the groundwork for this project, the Public Administration, Provincial Councils and Local Governments Ministry conducted a comprehensive performance evaluation of Local Government authorities for the year 2022 and 2023.
+
+These assessments examined various aspects including management practices, service delivery, administrative efficiency and contributions toward achieving Sustainable Development Goals (SDGs).
+
+...
+
+[Data](articles/f5db8b4f.json)
+
+---
+
+### Key appointments to public administration leadership
+
+*2024-12-25 05:44:17* · [`dailyftlk`](https://www.ft.lk/news/Key-appointments-to-public-administration-leadership/56-770993) · `en`
+
+The Cabinet of Ministers on Monday approved two key appointments to strengthen leadership within the public sector.
+
+N.U.N. Mendis, a Special Grade Officer of the Sri Lanka Administrative Service, will assume the role of Director General of Combined Services, while Chaminda Hettiarachchi, currently the District Secretary of Trincomalee was appointed as the new Director General of the Department of Pensions, effective 1 January 2025.
+
+Mendis, who is currently serving as an Additional Director General at the National Budget Department, will assume the role following the vacancy created by the appointment of S. Aloka Bandara as Secretary to the Public Administration, Provincial Councils and Local Government Ministry.
+
+The position of Director General of Combined Services is pivotal, given its extensive scope of responsibilities in managing administrative functions.
+
+...
+
+[Data](articles/f5279eff.json)
+
+---
 
 ### Gospel Darshan Missionary Ministry Celebration of the Church
 
@@ -51,6 +303,22 @@ Also present at the event, the "Gospel Darshan Missionary Ministry" Chief Past o
 [Data](articles/24a4d7f7.json)
 
 [Extended Data](ext_articles/24a4d7f7.ext.json)
+
+---
+
+### ஜனாதிபதியின் கிறிஸ்மஸ் வாழ்த்துச் செய்தி
+
+*2024-12-25 03:12:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-கிறிஸ்மஸ்-வாழ்த்துச்-செய்தி/175-349225) · `ta`
+
+வலுவான மற்றும் நிலையான பொருளாதாரம், சமூக நீதியை இலக்காகக் கொண்ட உண்மையான அரசியல் கலாசாரம் மற்றும் மனிதநேயம் மற்றும் சுதந்திரம் நிறைந்த ஓர் அழகான நாட்டை உருவாக்க வலுவான உறுதியுடன் நம்மை அர்ப்பணிக்க இந்தப் புனித நத்தார் தினத்தில் நாம் அனைவரும் உறுதி பூணுவோம் என்று ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது கிறிஸ்மஸ் வாழ்த்துத் செய்தியில் தெரிவித்துள்ளார்.
+
+இயேசு கிறிஸ்து பிறந்த தினமான நத்தார் பண்டிகையை உலகம் முழுவதும் உள்ள கிறிஸ்தவர்கள் கோலகலமாகக் கொண்டாடி வருகின்றனர். துன்பத்தில் இருந்து அனைவரையும் காப்பாற்ற இவ்வுலகின் அவதரித்த இயேசு கிறிஸ்து, ஒருபோதும் ஏழை, பணக்காரன் என்ற கண்ணோட்டத்தில் மக்களைப் பார்த்ததில்லை. அதனால்தான் அன்னார் கடவுளின் குழந்தையாக இவ்வுலகில் பிறந்த நாளில் மிகவும் ஏழ்மையான மற்றும் அப்பாவி மனித சமூகமாக இருந்த மேய்ப்பர்களிடையே பிறக்கத் தேர்ந்தெடுத்தார்.
+
+நத்தார் தினத்தில் அடிப்படை அர்த்தம், வாத பேதங்களை ஒதுக்கி, மனிதநேயத்தின் பெயரால், மகிழ்ச்சியாகவும் அமைதியாகவும் செயற்படுவதாகும்.
+
+...
+
+[Data](articles/4189c331.json)
 
 ---
 
@@ -202,6 +470,84 @@ In both groups, the top two teams will be eligible to play in the semi -finals.
 
 ### 2024-12-24 (Tuesday)
 
+### BIMT Campus feted with two awards
+
+*2024-12-24 23:16:00* · [`islandlk`](http://island.lk/bimt-campus-feted-with-two-awards/) · `en`
+
+The British Institute of Management and Technology (BIMT Campus), a leading private education institute, secured two prestigious awards at the Entrepreneur Awards – Western Province 2024, organised by the Ministry of Industries, the National Chamber of Commerce, and the National Enterprise Development Authority.
+
+The award ceremony was held at the BMICH in Colombo, and it celebrated entrepreneurship across multiple sectors. The awards were received by BIMT’s Chief Executive Officer Farshath Jamal, Finance Manager Afzan Nazar, and Student Recruitment Manager Gugan Santhirasekaram.
+
+Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/164a2f8f.json)
+
+---
+
+### Exterminators PLC recognised with Gold at Sri Lanka Entrepreneur Awards
+
+*2024-12-24 23:14:00* · [`islandlk`](http://island.lk/exterminators-plc-recognised-with-gold-at-sri-lanka-entrepreneur-awards/) · `en`
+
+Exterminators PLC, Sri Lanka’s leading pest management digi-tech environmental enhancement company, clinched gold at the Sri Lanka Entrepreneur Awards (Western Province) in the selected category.
+
+Organised by the National Chamber of Commerce of Sri Lanka and the National Enterprise Development Authority, this prestigious event took place at the BMICH in Colombo on December 11th.
+
+The awards aim to celebrate entrepreneurial excellence in areas such as financial performance, innovation, employment generation, productivity, and corporate social responsibility.
+
+...
+
+[Data](articles/35d34ab5.json)
+
+---
+
+### Emerald is no longer just about formals, says its CBO
+
+*2024-12-24 23:14:00* · [`islandlk`](http://island.lk/emerald-is-no-longer-just-about-formals-says-its-cbo/) · `en`
+
+Emerald Inte, Sri Lanka’s premier menswear brand, is redefining its legacy with its “Re-Imagine Emerald” rebranding campaign. This initiative unveils a modern new logo and repositions Emerald as a brand that delivers style for every man and every moment.
+
+While Emerald has long been synonymous with impeccable formal wear, it’s time to reimagine the brand’s offerings. Emerald isn’t just about formals anymore—it’s about versatile menswear that adapts to the diverse needs of today’s men.
+
+Emerald’s rebranding is not just about a new look; it’s about expanding our horizons,” said Ahmed Ikram, Chief Business Officer of Emerald International. “We want people to know that Emerald is no longer just about formals—it’s a brand that offers everything you need to create a complete wardrobe. From office-ready formals to relaxed casuals and head-turning evening attire, including Shirts, Polos, crewnecks, Denim, Utilitech Chinos, and Cotton Chinos, we have something for every man.”
+
+...
+
+[Data](articles/3e311bde.json)
+
+---
+
+### Earthfoam opens new liquid latex collection centre in Monaragala
+
+*2024-12-24 23:12:00* · [`islandlk`](http://island.lk/earthfoam-opens-new-liquid-latex-collection-centre-in-monaragala/) · `en`
+
+Earthfoam Private Limited, a leading manufacturer of natural latex-based mattresses, toppers, and pillows, recently inaugurated their new liquid latex collection centre in Monaragala.
+
+...
+
+[Data](articles/e4744a3f.json)
+
+---
+
+### Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
+
+*2024-12-24 23:08:00* · [`islandlk`](http://island.lk/browns-investments-combank-and-sampath-bank-lead-trading-activity-on-cse/) · `en`
+
+The Colombo Stock Exchange (CSE) kicked off with a downward trend yesterday, but it later recovered following the upgrading of Moody’s Ratings of the Sri Lanka economy.
+
+Amid those developments both indices moved upwards. All Share Price Index up by 147.8 points while S and P SL20 up by 34.64 points.
+
+...
+
+[Data](articles/7c8f4ce3.json)
+
+---
+
 ### Russian cargo ship sinks in Mediterranean after engine room blast, 2 crew missing
 
 *2024-12-24 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104478/russian-cargo-ship-sinks-in-mediterranean-after-engine-room-blast2crewmissing) · `en`
@@ -349,6 +695,28 @@ The Magistrate's Court had issued warrants to arrest and produce "Kudu Shalu" wh
 [Data](articles/ea8d434b.json)
 
 [Extended Data](ext_articles/ea8d434b.ext.json)
+
+---
+
+### Sri Lanka’s Hambantota Port sees rise in European cruise calls in 2024
+
+*2024-12-24 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-hambantota-port-sees-rise-in-european-cruise-calls-in-2024-196274/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hambantota Port said it saw an increase in European cruise ship calls while there was a noticeable decline in cruise ships coming from India.
+
+In 2024, out of 23 ships that called at the port, 17 were from Europe while only 6 were from India.
+
+In December 2023, Hambantota Port said 22 cruise ships called at the Port with a most of them coming from India through Cordelia Cruise Lines.
+
+“The cruise industry’s evolving dynamics reflect a renewed interest in diverse and unique destinations like HIP,” Wilson Qu, CEO of Hambantota International Port Group, said in a statement.
+
+“In 2024, we observed a strong trend of European vessels exploring South Asia, which underlines the growing demand for culturally rich and off-the-beaten-path destinations.
+
+“We anticipate this momentum to continue in 2025, with an upward movement in arrivals not only from Europe but also a resurgence from the Indian subcontinent.”
+
+...
+
+[Data](articles/959f9cef.json)
 
 ---
 
@@ -1959,477 +2327,5 @@ The Cabinet has decided to appoint as the Director General of the Department of 
 [Data](articles/576d49e5.json)
 
 [Extended Data](ext_articles/576d49e5.ext.json)
-
----
-
-### Two leopard cubs recovery
-
-*2024-12-24 14:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரண்டு-சிறுத்தை-குட்டிகள்-மீட்பு/76-349210) · `ta`
-
-Leopard cubs rescued in Norwood. Found Tuesday morning. May have been killed Monday. Workers concerned about safety due to wandering leopard. Wildlife authorities urged to act.
-
-🟩
-
-Norwood Senjondilary Surface Estate Tea Mountains, Norwood Police Division, have been rescued on Tuesday morning, Nallathani Wildlife officials said.
-
-The two cubs have been recovered after the Norwood police have informed the wildlife officials about the two cubs.
-
-Wildlife officials have reported that the two cubs may have been annihilated on Monday (23).
-
-Workers point out that a large leopard wanders in the area where the two cubs were found, and that there was a situation where the area was unable to work.
-
-Therefore, Senjon Tillery Surface Plantation workers are demanding that goodwill wildlife authorities take appropriate action in this regard.
-
-◼️
-
-[Data](articles/97f2d754.json)
-
-[Extended Data](ext_articles/97f2d754.ext.json)
-
----
-
-### Sri Lanka Foreign Ministry, UNITAR to sign 3-year cooperation agreement
-
-*2024-12-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-ministry-unitar-to-sign-3-year-cooperation-agreement-196118/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a proposal for the Ministry of Foreign Affairs, Foreign Employment and Tourism to sign a 3-year collaboration agreement with the United Nations Institute for Training and Research (UNITAR).
-
-“Under this agreement, both sides will work together using existing resources to meet the Sustainable Development Goals (SDG) 2030 Agenda,” Minister Nalinda Jayatissa told reporters on Tuesday.
-
-This includes providing training and learning support, training of diplomats, training on disaster risk reduction and crisis management and the use of geo-information technology, he said. (Colombo/Dec24/2024)
-
-◼️
-
-[Data](articles/7906526a.json)
-
-[Extended Data](ext_articles/7906526a.ext.json)
-
----
-
-### Modi's silence on the 13th Amendment;Tamil Nadu and Sri Lankan Tamil parties
-
-*2024-12-24 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202033) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-N
-
-🟩
-
-Sri Lankan President Anura Kumara Dissanayake held a joint press conference in New Delhi last week.
-
-Since the 13th Amendment in 1987, it has been customary for Indian leaders to mention the amendment in their negotiations with Sri Lankan leaders.
-
-The 13th Amendment is the result of the Indo -Sri Lanka Peace Agreement, July 1987, which was an independent of the nine provinces of Sri Lanka, including the Northern and Eastern Provinces.
-
-Prime Minister Modi urged the 13th Amendment to be fully implemented during the first visit to Sri Lanka in March 2015.
-
-Modi said he hoped Sri Lanka would conclude the obligation to implement the amendment when President Ranil Wickremesinghe went to New Delhi to hold talks in July 2023.
-
-...
-
-[Data](articles/d75747a9.json)
-
-[Extended Data](ext_articles/d75747a9.ext.json)
-
----
-
-### Special transport services ahead of the festive season
-
-*2024-12-24 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/202029) · `ta`
-
-Sri Lanka Transport Board increases bus services for Christmas and New Year. Additional 50 buses operate from Central Bus Station to Badulla and Batticaloa. More buses deployed on Christmas Day to meet passenger demand.
-
-🟩
-
-The Sri Lanka Transport Board (SLTB) has taken steps to carry out additional bus services on Tuesday (24) ahead of Christmas and New Year.
-
-About fifty additional buses have been used for long -range trips from the Central Bus Stand from the Central Bus Station of Pettah, Badulla and Batticaloa.
-
-He also said that additional buses will be deployed to serve as the demand of passengers on Wednesday (25), Christmas Day.
-
-Deputy General Manager Panduga Swarnahansa added that more bus services will be held in addition to the usual bus services from today.
-
-◼️
-
-[Data](articles/658dda63.json)
-
-[Extended Data](ext_articles/658dda63.ext.json)
-
----
-
-### Rs2.37bn India grant to develop Sri Lanka’s Eastern Province
-
-*2024-12-24 13:47:00* · [`economynextcom`](https://economynext.com/rs2-37bn-india-grant-to-develop-sri-lankas-eastern-province-196115/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to sign an agreement with India to strengthen socio-economic development in the Eastern Province, Minister Nalinda Jayatissa said.
-
-According to the framework of the memorandum of understanding, several development projects will be implemented in the Eastern Province under grant aid of 2,371.83 million rupees from India.
-
-Of these, 33 projects are related to infrastructure development and livelihood improvement with emphasis on education, health, agriculture, fisheries, tourism and community empowerment.
-
-“Of this grant, 315 million rupees is for education, 780 million rupees is for health, 620 million rupees for agriculture and 230 million rupees for fisheries sector developments,” Jayatissa told reporters on Tuesday. (Colombo/Dec24/2024)
-
-◼️
-
-[Data](articles/7c38eb0c.json)
-
----
-
-### NASA spacecraft trying to get close to the sun
-
-*2024-12-24 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202037) · `ta`
-
-Here's a 200-character summary:
-
-
-
-NASA's Parker Solar Probe approaches the sun's outer atmosphere, facing extreme temperatures and radiation. Scientists hope to gain insights into the sun's workings. The probe was launched in 2018 and is currently orbiting closer to the sun than any spacecraft before.
-
-🟩
-
-The NASA spacecraft is trying to achieve the achievement of the sun.
-
-NASA's Parker Solar Prope, a spacecraft, approaches the sun's outer atmosphere bearing a severe temperature and intense radiation.
-
-Scientists have been waiting till the 27th to see if there is no contact with the flying spacecraft on this flying heat.
-
-It is hoped that this study will help you understand how the sun works.
-
-NASA's chief scientist Nicola Box told the BBC news: “For centuries, people have been aware of the sun. But you do not experience the atmosphere of the place until you actually visit it.. Cannot really enjoy the sun's atmosphere until it goes through. "
-
-The Parker Solar Prope Project was launched in 2018 and is now heading towards the center of the solar system.
-
-◼️
-
-[Data](articles/8109b2ef.json)
-
-[Extended Data](ext_articles/8109b2ef.ext.json)
-
----
-
-### 2024 ஆம் ஆண்டுக்கான சிறந்த கூட்டாண்மை குடிமக்கள் நிலைத்தன்மைவிருது - சில்லறை வர்த்தகத்துறை விருதை வென்ற சிங்கர் ஸ்ரீலங்கா
-
-*2024-12-24 13:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/202024) · `ta`
-
-SINGER ஸ்ரீலங்காபிஎல்சி,சில்லறை விற்பனைத்துறையிலோர் முன்னோடியாக,நிலைத்தன்மைக்கான உறுதியான அர்ப்பணிப்பிற்காக மீண்டும் அங்கீகாரம் பெற்றுள்ளது,தொடர்ந்து இரண்டாவது ஆண்டாக சிறந்த கூட்டாண்மைகு டிமக்கள் நிலைத்தன்மைவிருதுகள் 2024 இல் சில்லறை வணிகத் துறைவிருதைப் பெற்றுள்ளது.
-
-சுற்றுச் சூழல்,சமூகம் மற்றும் ஆளுகை (ESG) கொள்கைகளைஅதன் பெருநிறுவன மூலோபாயத்தில் பயணிப்பதில் SINGER தலைமைத்துவத்தை இந்த விருது அடிக்கோடிட்டுக் காட்டுவதோடு,நிலையான வணிக நடைமுறைகளில் முன்னோடியாக அதன் நிலையையும் உறுதிப்படுத்துகிறது.
-
-கல்விமற்றும் சுகாதாரத்தில் முன்முயற்சிகள் மூலம்,நிறுவனம் எண்ணற்ற தனிநபர்கள் மற்றும் சமூகங்களுக்கு மேம்பாட்டினையும் அளித்துள்ளது.
-
-SINGER பேஷன் அகாடமி,குறிப்பாக,திறன் மேம்பாடுமற்றும் தொழில் முனைவோரைவளர்க்கும் தையல் மற்றும் பேஷன் படிப்புகளைவழங்கும் ஒருஉருமாறும் தளமாகதனித்துநிற்கிறது.
-
-தற்போது, SINGERIFRS S1 மற்றும் S2தரநிலைகளைப் பின்பற்றி,அதன் நிலைத்தன்மைஅறிக்கையிடல் மற்றும் இடர் மேலாண்மைகட்டமைப்பைமேலும் உறுதிப்படுத்துகிறது.
-
-◼️
-
-[Data](articles/ca1bd304.json)
-
----
-
-### Army soldier dies in a heart attack in Palali, Jaffna
-
-*2024-12-24 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/202032) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Sergeant dies of heart attack at Palali army camp in Jaffna. Suffered chest pain while on duty, rushed to teaching hospital but passed away before receiving treatment.
-
-🟩
-
-A military sergeant who was on duty at the Jaffna Palali army camp died on Monday (23).
-
-After sudden chest pain, Palali was admitted to the Army Camp.. He was transferred to the teaching hospital and died without treatment.
-
-◼️
-
-[Data](articles/8fb97902.json)
-
-[Extended Data](ext_articles/8fb97902.ext.json)
-
----
-
-### Circumstance across the country;Three suspects arrested with drugs
-
-*2024-12-24 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202021) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Police arrest 3 drug suspects nationwide: 2 in Samagi Mawatha with heroin & ice, 1 in Kandana with ice. Seized: 700g heroin, 11g ice, 150ml ice. Investigations ongoing."
-
-🟩
-
-Three suspects were arrested with ice drugs and heroin in a raid carried out by police across the country on Monday (23).
-
-Two suspects have been arrested with ice drugs and heroin in the Samagi Mawatha area on the coastal road of the Kalkissa police division.
-
-The arrested suspects are from Dehiwala, aged 44 and 24.
-
-10 grams of 700 kilograms of heroin and 11 grams of ice have been seized from the suspects.
-
-Meanwhile, the suspect has been arrested with 10 grams of 150 ml of ice in a roundup by the Peliyagoda Criminal Investigation Department in Kandana.
-
-In addition, the police have said that further investigations into the suspects arrested with drugs are being investigated.
-
-◼️
-
-[Data](articles/075dd135.json)
-
-[Extended Data](ext_articles/075dd135.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-12-24 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202031) · `ta`
-
-US dollar exchange rate: 292.25 INR buy, 300.98 INR sell (Central Bank rates, 24th).
-
-🟩
-
-The US dollar purchasing price was 292.2525 rupees and the sales price were 300.9844 rupees in terms of the Central Bank released on Tuesday (24).
-
-◼️
-
-[Data](articles/2f4b4d86.json)
-
-[Extended Data](ext_articles/2f4b4d86.ext.json)
-
----
-
-### Mother's death: son arrested
-
-*2024-12-24 13:27:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தள்ளிவிட்ட-தாய்-மரணம்-மகன்-கைது/175-349209) · `ta`
-
-Son arrested after pushing mother, leading to her death. Police investigation reveals argument over home-grown dog. Autopsy confirms cause of death.
-
-🟩
-
-Ragama police said that the mother and mother who had been treated at the hospital on Monday (23) died due to a son and mother who had pushed her mother during a dispute with her mother due to the spoil of a home -grown dog.
-
-Deepa Mala Kumari Wijesinghe (age 57) from Ragama Valpola area. Ragama police said that the mother's son (24) was arrested on suspicion of the incident.
-
-The mother and son have been rumored to have been referred to as a home -grown dog on the 20th (20th). Police investigations have revealed that the mother had pushed the mother.
-
-The mother of the injured mother died on Monday (23) after receiving treatment at the hospital, police said.
-
-An autopsy on the death has been revealed due to the death of the death.
-
-◼️
-
-[Data](articles/dc082f28.json)
-
-[Extended Data](ext_articles/dc082f28.ext.json)
-
----
-
-### යළි හිස ඔසවන පාතාලයට වෙන දේ මෙන්න
-
-*2024-12-24 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204672) · `si`
-
-යළි හිස ඔසවමින් තිබෙන පාතාලය මර්දනය කිරීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගන්නා බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අද (24) කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් ඔහු පැවසුවේ ආරක්ෂ අංශ මේ සඳහා ක්‍රමානුකූලව මැදිහත් වෙමින් පවතින බවය.
-
-"පාතාලයත්, කුඩු ජාවාරමත් මර්දනය කිරීමට රජයක් හැටියට අනිවාර්ය වශයෙන් කැපවෙනවා. හැබැයි ඒක ශෝ එකක් දාලා සති මෙහෙයුම් සති දෙකේ මෙහෙයුම්වලින් කරන්න නෙමෙයි බලාපොරොත්තු වෙන්නේ. ක්‍රමානුකූලව ආරක්ෂක අංශ මේකට මැදිහත් වෙනවා. ඒකට අදාළ ක්‍රියාමාර්ග ගනිමින් ඉන්නවා කියලා පමණක් කියන්න පුළුවන්. ඒකේ ප්‍රතිඵලය බලාගන්න පුළුවන්කම ලැබේවි."
-
-◼️
-
-[Data](articles/64a125e1.json)
-
----
-
-### New Director General appointed to Department of Pensions
-
-*2024-12-24 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104470/new-director-general-appointed-to-department-of-pensions) · `en`
-
-Chaminda Hettiarachchi, a Special Grade Officer of the Sri Lanka Administrative Service, who is currently serving as the District Secretary of the Trincomalee Administrative District,has been appointed as the Director General of the Department of Pensions.
-
-The term of office of A. Jagath D. Dias, who is serving as the Director General of the Department of Pensions, is scheduled to end on 31 December 2024 and a suitable officer should be appointed to the said post from 01 January 2025, the Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said.
-
-Chaminda Hettiarachchi has been identified as suitable for appointment to the said post, he added.
-
-Accordingly, the proposal submitted by the Minister of Public Administration, Provincial Councils and Local Government to appoint him to the post of Director General of Pensions with effect from 01 January 2025 has been approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/fc5dd0ce.json)
-
----
-
-### Sri Lanka awards Murban crude deal to Aditya Birla Singapore
-
-*2024-12-24 13:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-murban-crude-deal-to-aditya-birla-singapore-196111/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 6 shipments of Murban type of crude oil from April 1, 2025 to August 31, 2025 to Aditya Birla Global Trading (Singapore) Pte Ltd, a government statement said.
-
-Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers, and 6 bids were received.
-
-The bid submitted by Aditya Birla in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee.
-
-Murban is a light crude that can be processed by a refinery owned by CPC. (Colombo/Dec24/2024)
-
-◼️
-
-[Data](articles/7fd3b0b6.json)
-
----
-
-### Roman Ambassador meets Prime Minister
-
-*2024-12-24 12:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோமானிய-தூதுவர்-பிரதமரை-சந்திப்பு/175-349208) · `ta`
-
-Romania's outgoing envoy Steluta Arhire met Sri Lanka's PM Harini Amarasuriya. The PM thanked her for fostering bilateral ties & expressed commitment to strengthen relations. Officials from both nations attended the meeting.
-
-🟩
-
-Sri Lanka's Roman Ambassador, Steluta Arhire ended his tenure and held talks with Prime Minister Harini Amarasuriya on Monday (23).
-
-During the discussion, the Prime Minister thanked the Ambassador for dedicating bilateral relations between Sri Lanka and Romania and congratulated the ambassador's future efforts.
-
-The Prime Minister confirmed that the Sri Lankan government is committed to further strengthening close ties between the two countries in the coming years.
-
-Officials including Chief Secretary Pradeep Saputhandri, Additional Chief Secretary Sagarika Bogahawatta, Foreign Ministry Europe and North America Director General Shobini Gunasekera were also present.
-
-◼️
-
-[Data](articles/57f648a9.json)
-
-[Extended Data](ext_articles/57f648a9.ext.json)
-
----
-
-### ரோமானிய தூதுவருடன் பிரதமர் சந்திப்பு
-
-*2024-12-24 12:56:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரோமானிய-தூதுவருடன்-பிரதமர்-சந்திப்பு/175-349208) · `ta`
-
-இலங்கையின் ரோமானிய தூதுவர், Steluta Arhire தனது பதவிக் காலத்தை முடித்துக்கொண்டு திங்கட்கிழமை (23) பிரதமர் அலுவலகத்தில் பிரதமர் ஹரிணி அமரசூரியவை சந்தித்து பேச்சுவார்த்தை நடத்தினார்.
-
-குறித்த கலந்துரையாடலில், இலங்கை மற்றும் ரோமானியா இடையேயான இருதரப்பு உறவுகளை வலுப்படுத்துவதற்கு அர்ப்பணிப்புடன் செயல்பட்டதற்காக பிரதமர் தூதுவர் அவர்களுக்கு நன்றி தெரிவித்ததுடன் தூதுவரின் எதிர்கால முயற்சிகளுக்கு வாழ்த்துக்களையும் தெரிவித்தார்.
-
-எதிர்வரும் ஆண்டுகளில் இரு நாடுகளுக்கிடையிலான நெருங்கிய உறவுகளை மேலும் வலுப்படுத்துவதற்கு இலங்கை அரசு அர்ப்பணிப்புடன்  உள்ளது என பிரதமர் இங்கு உறுதிப்படுத்தினார்.
-
-இந் நிகழ்வில் பிரதம செயலாளர் பிரதீப் சபுதந்திரி, மேலதிக பிரதம செயலாளர் சாகரிக்கா போகஹவத்த, வெளியுறவு அமைச்சின் ஐரோப்பா மற்றும் வட அமெரிக்கா இயக்குனர் ஜெனரல் ஷோபிணி குணசேகர உள்ளிட்ட அதிகாரிகள் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/6bbe73c9.json)
-
----
-
-### විශ්‍රාම වැටුප් අධ්‍යක්ෂ ජනරාල් තනතුරේ වෙන වෙනස
-
-*2024-12-24 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204671) · `si`
-
-ජනවාරි 01 සිට විශ්‍රාම වැටුප් අධ්‍යක්ෂ ජනරාල් තනතුර සඳහා ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරියෙක් වන චාමින්ද හෙට්ටිආරච්චි මහතා පත් කිරීමට නියමිත බව වාර්තා වෙයි.
-
-විශ්‍රාම වැටුප් අධ්‍යක්ෂ ජනරාල් ලෙස කටයුතු කරන ජගත් ඩී ඩයස් මහතා 2024.12.31 වනදා සේවයෙන් විශ්‍රාම යාමට නියමිතය.
-
-◼️
-
-[Data](articles/9d9974cd.json)
-
----
-
-### Sri Lanka exports down 5.6-pct in November 2024
-
-*2024-12-24 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-down-5-6-pct-in-november-2024-195926/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s merchandise exports fell 5.6 percent to 943.1 million with rubber based products, food and beverages weakening, the Export Development Board said.
-
-In the eleven months to November exports were 11,611.90 million US dollars, a 6.44 percent increase from last year.
-
-In the month of November, apparel and textile exports were up 0.54 percent compared to the same period last year, generating 397.19 million US dollars.
-
-Exports to USA and UK increased by 1.4 percent and 4.6 percent respectively.
-
-Export earnings of coconut based products increased by 13.08 percent.
-
-Export earnings of coconut kernel products, coconut fiber products and coconut shell products increased by 12.37 percent, 11.73 percent and 16.72 percent respectively compared to November 2023.
-
-...
-
-[Data](articles/e367e56b.json)
-
----
-
-### දේශපාලන අධිකාරිය වෙනම් වුණත් රාජ්‍ය යාන්ත්‍රණය සම්පූර්ණයෙන් කනපිට ගැසුනේ නෑ
-
-*2024-12-24 12:40:11* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-අධිකාරිය-වෙනම්-වුණත්-රාජ්‍ය-යාන්ත්‍රණය-සම්පූර්ණයෙන්-කනපිට-ගැසුනේ-නෑ/11-413816) · `si`
-
-දේශපාලන අධිකාරිය වෙනස් වුවද රාජ්‍ය යාන්ත්‍රණය මුළුමනින්ම කනපිට ගැසුනු බවට කිසිවෙකුට ප්‍රකාශ කළ නොහැකි බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-පොහොර සහනාධාර සම්බන්ධයෙන් පැන නැගී ඇති ගැටළු සම්බන්ධයෙන් ​අද(24දා) කැබිනට් මාධ්‍ය හමුවේදී මාධ්‍යවේදියෙකු යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“දේශපාලන අධිකාරිය වෙනස් වුනාට රාජ්‍ය යාන්ත්‍රණය මුළුමනින්ම කනපිට ගැහුනා කියලා කාටවත් කියන්නත් බෑ. එහෙම හිතන්නත් ඕනී නෑ. එය කාර්යක්ෂම කරගෙන ජනතාවට අත්‍යාවශ්‍ය මොහොතේදී ජනතාවට සහනාධාර ලබා දෙන්න කටයුතු කරනවා. ”
-
-◼️
-
-[Data](articles/4ed84efc.json)
-
----
-
-### දේශපාලන අධිකාරිය වෙනස් වුණත් රාජ්‍ය යාන්ත්‍රණය සම්පූර්ණයෙන් කනපිට ගැසුනේ නෑ
-
-*2024-12-24 12:40:11* · [`adalk`](https://www.ada.lk/breaking_news/දේශපාලන-අධිකාරිය-වෙනස්-වුණත්-රාජ්‍ය-යාන්ත්‍රණය-සම්පූර්ණයෙන්-කනපිට-ගැසුනේ-නෑ/11-413816) · `si`
-
-දේශපාලන අධිකාරිය වෙනස් වුවද රාජ්‍ය යාන්ත්‍රණය මුළුමනින්ම කනපිට ගැසුනු බවට කිසිවෙකුට ප්‍රකාශ කළ නොහැකි බව කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-පොහොර සහනාධාර සම්බන්ධයෙන් පැන නැගී ඇති ගැටළු සම්බන්ධයෙන් ​අද(24දා) කැබිනට් මාධ්‍ය හමුවේදී මාධ්‍යවේදියෙකු යොමු කළ ප්‍රශ්නයකට පිළිතුරු ලබා දෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“දේශපාලන අධිකාරිය වෙනස් වුනාට රාජ්‍ය යාන්ත්‍රණය මුළුමනින්ම කනපිට ගැහුනා කියලා කාටවත් කියන්නත් බෑ. එහෙම හිතන්නත් ඕනී නෑ. එය කාර්යක්ෂම කරගෙන ජනතාවට අත්‍යාවශ්‍ය මොහොතේදී ජනතාවට සහනාධාර ලබා දෙන්න කටයුතු කරනවා. ”
-
-◼️
-
-[Data](articles/c3a29dc6.json)
-
----
-
-### Sri Lanka awards 2025 crude oil procurement contract to Singapore-based firm
-
-*2024-12-24 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104469/sri-lanka-awards-2025-crude-oil-procurement-contract-to-singapore-based-firm) · `en`
-
-The government of Sri Lanka has approved the granting of the long-term contract for the purchase of 06 Murban crude oil tankers during the period from 01 April 2025 to 31 August 2025.
-
-Bids were invited from registered suppliers of the Ceylon Petroleum Corporation (CPC) for the purchase of 06 Murban crude oil tankers during the period from 01 April 2025 to 31 August 2025. Accordingly, six bids have been received pertaining to the procurement.
-
-Thus, the proposal submitted by the Minister of Energy to award the relevant procurement to M/s Aditya Birla Global Trading (Singapore) Pte. Ltd based on the recommendation of the Special Standing Procurement Committee appointed by the Cabinet was approved by the Cabinet.
-
-◼️
-
-[Data](articles/f5fe107e.json)
-
-[Extended Data](ext_articles/f5fe107e.ext.json)
-
----
-
-### Resolution to pay compensation to farmers affected by inconsistent climate
-
-*2024-12-24 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202027) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Cabinet approves compensation for farmers hit by climate change. Paddy, corn, potato, and onion growers to receive support. Decision made public by Minister Nalinda Jayatissa during press conference on Tuesday.
-
-🟩
-
-The Cabinet spokesman said that farmers who cultivate paddy, corn, potatoes and large onions have been decided to pay Rs.
-
-Cabinet Spokesperson Minister Nalinda Jayatissa said this at a media briefing to announce the Cabinet decisions held on Tuesday (24).
-
-◼️
-
-[Data](articles/b013dfec.json)
-
-[Extended Data](ext_articles/b013dfec.ext.json)
 
 ---

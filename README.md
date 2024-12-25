@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 03:43:59**
+As of **2024-12-26 04:27:16**
 
 ## Newspaper Stats
 
-*Scraped **62,052** Articles*
+*Scraped **62,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,924
 adaderanalk | 7,578
 tamilmirrorlk | 8,888
-virakesarilk | 10,275
+virakesarilk | 10,277
 adaderanasinhalalk | 10,718
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,616 (99.3%) of 62,052 articles have been extended.
+61,619 (99.3%) of 62,054 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,19 +222,83 @@ Also, the 38, 15, 18, aged 38, 15, 18, from the village of Tandadi Uriri, who we
 
 ### 2024-12-25 (Wednesday)
 
-### கச்சதீவு தொடர்பில் இந்தியாவுடன்  பேசவேண்டிய அவசியமில்லை - சரத் வீரசேகர
+### 554 Indian fishermen arrested on border charges in 2024;Naval spokesman's announcement that 72 boats will continue in the future in the future
+
+*2024-12-25 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202149) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Sri Lanka Navy arrests 554 Indian fishermen, seizes 72 boats in 2024 for entering restricted waters. Naval officials warn against future crossings, urging Indian fishermen to avoid banned fishing methods."
+
+🟩
+
+Sri Lanka Navy spokesman Captain Gayan Wickremasuriya says 554 Indian fishermen have been arrested and 72 fishing boats have been seized on charges of entering the Sri Lankan waters in 2024.
+
+We are carrying out special measures to prevent Indian fishermen entering the Sri Lankan waters.
+
+We have arrested 554 people for cross -border crime and handed over legal action during this year's activities.
+
+We have a huge responsibility to protect the Sri Lankan waters, resources and fishermen. It is on that basis that we are carrying out activities on the border crossing. In particular, we are carrying out our activities in the absence of casualties on Indian fishermen.
+
+However, we will continue to carry out serious action on border crossing. In particular, we will carry out activities including arrests and confiscation of boats and hand them over to domestic legal action.
+
+Therefore, we are demanding that Indian fishermen abandon banned fishing systems and to avoid entering the Sri Lankan waters.
+
+◼️
+
+[Data](articles/eca0c6d8.json)
+
+[Extended Data](ext_articles/eca0c6d8.ext.json)
+
+---
+
+### தனியார் பேருந்துகளின் தரக்குறைவால்  விபத்துக்கள் நிகழவில்லை: கெமுனு
+
+*2024-12-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202153) · `ta`
+
+தனியார் பேருந்துகள் சம்பந்தப்பட்ட தரங்களை பூர்த்தி செய்யாததால் அடிக்கடி விபத்துகள் ஏற்படுகின்ற என்ற குற்றச்சாட்டுகளை முழுமையாக நிராகரிப்பதாக அகில இலங்கை தனியார் பேருந்து உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+அண்மைய காலங்களில், தனியார் பேருந்துகள் பல விபத்துக்களுக்கு உள்ளாகியுள்ளன. அவற்றில் சில பயணிகளின் உயிரைப் பறித்துள்ளன. கடந்தவாரம் டிசம்பர் 21 அன்று ஹட்டனில் நடந்த இதுபோன்ற சமீபத்திய விபத்தில் மூன்று பேர் உயிரிழந்தனர் மற்றும் 23 க்கும் மேற்பட்ட பயணிகள் காயமடைந்தனர்.
+
+இவ்வாறான நிலையில், பல தனியார் பேருந்துகள் பொருத்தமான தரங்களை பூர்த்தி செய்யவில்லை என்ற குற்றச்சாட்டுகள் குறித்து அகில இலங்கை தனியார் பேருந்து உரிமையாளர்கள் சங்கத்தின் தலைவர் கெமுனு விஜேரத்னவிடத்தில் வினவியபோது,
+
+உதாரணமாக ஹட்டனில் நடந்த விபத்தை எடுத்துக் கொண்டால், பேருந்து பாதுகாப்பானதாக இருந்ததால் மூன்று பேர் மட்டுமே இறந்தனர், மற்றவர்கள் உயிர் பிழைத்தனர்.
+
+வேறு ஏதேனும் வகை பேருந்துகளாக இருந்தால், இன்னும் பலர் இறந்திருக்கலாம். அங்கீகரிக்கப்படாத மாற்றங்களை நாங்கள் ஏற்கவில்லை. ஆகவே பேருந்துகளை மட்டும் குற்றம் கூறுவது தவறாகும்.
+
+...
+
+[Data](articles/c982b393.json)
+
+---
+
+### There is no need to talk to India on Kachchativu - Sarath Weerasekera
 
 *2024-12-25 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202155) · `ta`
 
-இலங்கையின் தேசிய பாதுகாப்பின் பிரதான ஒரு அம்சமாக கச்சத்தீவு காணப்படுகிறது. கச்சத்தீவு இலங்கைக்கு சொந்தமானது. இவ்விடயத்தில் இந்தியாவுடன் பேச்சுவார்த்தையில் ஈடுபடுவது அவசியமற்றது. இந்தியாவின் ஒத்துழைப்புக்களை பெற்றுக்கொள்வதற்காக விதிக்கப்படும் நிபந்தனைகளுக்கு அடிபணிய வேண்டிய தேவை கிடையாதென முன்னாள் பொதுமக்கள் பாதுகாப்பு அமைச்சர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-இலங்கை - இந்திய மீனவர் பிரச்சினைக்கு நிரந்தர தீர்வாக கச்சத்தீவை மீட்க வேண்டும் இந்தியாவின் திராவிட முன்னேற்றக் கழகம் தீர்மானம் ஒன்றை அண்மையில் நிறைவேற்றியுள்ளது. இவ்விடயம் தொடர்பில் வினவிய போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-கச்சத்தீவு விவகாரத்தை இந்திய அரசாங்கம் அரசியல் பிரச்சாரத்துக்காகவே பயன்படுத்திக் கொள்கிறது. இலங்கை மீனவர்கள் இந்திய கடல் எல்லைக்குள் சென்று சட்ட விரோதமான முறையில் மீன்பிடி நடவடிக்கையில் ஈடுபடுவதில்லை. இந்திய மீனவர்கள் தான் இலங்கை கடற்பரப்புக்குள் சட்டவிரோதமான முறையில் உள்நுழைந்து கடல் வளத்தையும், மீள் வளத்தையும் நாசம் செய்கிறார்கள்.
+
+Sarath Weerasekera: No need to discuss Kachchativu with India. It's crucial to Sri Lanka's national security. Indian fishermen illegally enter Sri Lankan waters, damaging marine resources. Sri Lanka must firmly defend its rights without compromising.
+
+🟩
+
+Kachchativu is the main feature of the national security of Sri Lanka. Kachchativu belongs to Sri Lanka. It is not necessary to negotiate with India in this regard. Former Public Security Minister Admiral Sarath Weerasekera said that there is no need to submit to the conditions imposed on India's cooperation.
+
+India's Dravida Munnetra Kazhagam has recently passed a resolution. He mentioned the above when he questioned the matter.
+
+The Indian government is using the Kachchativu issue for political propaganda. Sri Lankan fishermen go into the Indian waters and do not engage in illegally fishing. Indian fishermen are illegally logging into the Sri Lankan waters and destroying marine resources and re -resources.
+
+Indian fishermen should take appropriate measures to prevent Indian fishermen from entering the sea of ​​Sri Lanka. In this case, the Indian government is acting in a recession.
 
 ...
 
 [Data](articles/16c49223.json)
+
+[Extended Data](ext_articles/16c49223.ext.json)
 
 ---
 
@@ -1306,6 +1370,8 @@ Kazakhstan’s Emergency Ministry initially said 25 people survived the crash, l
 
 [Data](articles/fca1ecb6.json)
 
+[Extended Data](ext_articles/fca1ecb6.ext.json)
+
 ---
 
 ### කුකුල් මස් කිලෝවක් අල්ලස් ලෙස ගත් ආදායම් නිලධාරියා අත්අඩංගුවට
@@ -1700,6 +1766,8 @@ Investigations have revealed that the accident had occurred due to the existing 
 
 *2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
 
+BREAKING: Azerbaijan Airlines flight traveling from Baku to Grozny crashes in Aktau, Kazakhstan, after reportedly requesting an emergency landing pic.twitter.com/hB5toqEFe2— RT (@RT_com) December 25, 2024
+
 An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
 
 “A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
@@ -1710,9 +1778,7 @@ The Kazakh transport ministry said there were 62 passengers and five crew member
 
 The country’s emergency situations ministry said its personnel were putting out a fire at the site.
 
-“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
-
-◼️
+...
 
 [Data](articles/36a93a06.json)
 
@@ -2447,51 +2513,5 @@ The arrest was a 37 year old resident of Colombo 13.
 ...
 
 [Data](articles/e7244e1c.json)
-
----
-
-### Congratulations to Weerakesari website readers!
-
-*2024-12-25 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202095) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jesus' birth celebrated worldwide on Dec 25. Simple, kind, and equal-loving. Born in humble conditions, teaching love to followers. Virakesari.com wishes happy Christmas to readers.
-
-🟩
-
-Christian people around the world celebrate the birth of Jesus Bran as a festival on Wednesday (25).
-
-The Lord is simple. Close to the poor. Rulment. Poor - rich, Palmer - educated, high caste - inferior caste, good - bad, black, white - whites.
-
-Everyone is common.Grace. This is what makes the world the birth of the Lord Jesus Christ.
-
-The Lord gave birth to his son Balakan Jesus in a cow. He also wrapped around with rag clothes.Because what the Lord wants is simple.That simplicity was with him for the rest of the life of Jesus. Jesus is a loving. He was the one who taught him to those who followed him.
-
-Virakesari.lk website congratulates all the Weerakesari readers.
-
-◼️
-
-[Data](articles/cacecc04.json)
-
-[Extended Data](ext_articles/cacecc04.ext.json)
-
----
-
-### ஒற்றுமை, நன்றியுணர்வு, சமாதானத்திற்கு முன்னுரிமை வழங்கி நத்தாரை மகிழ்ச்சியுடன் அர்த்தமுள்ளதாக கொண்டாடுவோம் - பிரதமரின் நத்தார் வாழ்த்து
-
-*2024-12-25 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/202094) · `ta`
-
-நத்தாரின் உண்மையான அர்த்தமான ஒற்றுமை, நன்றியுணர்வு மற்றும் சமாதானம் என்பவற்றிற்கு முன்னுரிமை வழங்கி நத்தாரை மகிழ்ச்சி மற்றும் அர்த்தமுள்ளதாக கொண்டாடுவோம் என பிரதமர் ஹரிணி அமரசூரிய வாழ்த்துச்செய்தில் தெரிவித்துள்ளார்.
-
-ஓர் தேசமாக மீள கட்டியெழுப்பும் இந்த மறுமலர்ச்சி யுகத்தில் தமது குடும்பம் மற்றும் அன்புக்குரியவர்களுடன் காலத்தை செலவிடுவது மிகவும் முக்கியமானது. ஒற்றுமையுடன் செயற்படுதல், பகிர்ந்து வாழுதல் மற்றும் ஒருவருக்கொருவர் உதவி செய்வதன் ஊடாக எமது உறவுகளும் வலுவானதாக முன்னேற்றமடையும். ஆரோக்கியமான மக்கள் சமூகம் மற்றும் பலம்மிக்க தேசத்தை கட்டியெழுப்பும் பணியானது வீட்டிலிருந்தே ஆரம்பமாகின்றது என்பதை இதுபோன்ற கூட்டு முயற்சிகள் எமக்கு நினைவூட்டும்.
-
-உள்நாட்டில் உட்பட வெளிநாட்டில் சேவையாற்றுபவர்களையும், அத்தியாவசிய சேவைகளில் ஈடுபட்டுள்ளவர்கள் உட்பட பண்டிகை காலத்தில் தமது அன்புக்குரியவர்களுடன் காலத்தை செலவிட முடியாத அனைவரையும் இந்த தருணத்தில் நன்றியுடன் நினைவுகூற வேண்டும்.
-
-...
-
-[Data](articles/b8d03c6c.json)
 
 ---

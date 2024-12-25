@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 23:13:30**
+As of **2024-12-25 23:27:22**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,594 (99.3%) of 62,041 articles have been extended.
+61,595 (99.3%) of 62,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### හොරේතුඩුවේ පුද්ගල ඝාතනයක්
+### Murder of Horythupuwa
 
 *2024-12-25 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204725) · `si`
 
-තියුණු ආයුධයකින් පහරදී ඝාතනය කරන ලද පුද්ගලයෙකුගේ සිරුරක් පානදුර හොරේතුඩුව ප්‍රදේශයේ මාර්ගයක් ආසන්නයේ තිබී සොයාගෙන ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-මිතුරන් දෙදෙනකු අතර ඇතිවූ ආරවුලක් දුරදිග යාමෙන් තියුණු ආයුධයකින් පපුව ප්‍රදේශයට පහරදී මෙම ඝාතනය සිදුකර ඇති බවට පොලීසියට පැමිණිල්ලක් ද ලැබී ඇත.
 
-ඝාතනයට ලක්වූ පුද්ගලයා මොරටුව එගොඩඋයන ප්‍රදේශයේ පදිංචි අයෙකු බවට සැක කෙරෙයි.
 
-ඝාතනය සිදුකළ බවට සැකකරන පුද්ගලයා ප්‍රදේශයෙන් පලාගොස් ඇති බවද පොලීසිය සඳහන් කරයි.
+Body found near road in Horathuduwa, Panadura. Victim assaulted with sharp object. Suspected residence in Egoduyiya, Moratuwa. Suspect fled area. Investigation led by Panadura North Police Station Inspector Sanjeewa.
 
-පානදුර උතුර පොලිස් ස්ථානාධිපති, පොලිස් පරීක්ෂක සංජීව ලක්මාල් මහතාගේ ප්‍රධානත්වයෙන් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+🟩
+
+The body of a person who was assaulted with a sharp object was found near a road in Horathuduwa, Panadura.
+
+The police have also lodged a complaint that the murder had been assaulted by a sharp instrument with a sharp object.
+
+The victim is suspected to reside in the Egoduyiya area in Moratuwa.
+
+The suspect has fled the area, police said.
+
+Panadura North Police Station, Inspector Sanjeewa chaired by Hon.
 
 ◼️
 
 [Data](articles/6ba8186a.json)
+
+[Extended Data](ext_articles/6ba8186a.ext.json)
 
 ---
 

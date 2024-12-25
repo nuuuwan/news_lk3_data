@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 12:03:11**
+As of **2024-12-25 12:17:17**
 
 ## Newspaper Stats
 
-*Scraped **61,967** Articles*
+*Scraped **61,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 628
 bbccomsinhala | 654
 islandlk | 3,753
-economynextcom | 3,773
+economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,916
+adalk | 5,917
 adaderanalk | 7,567
-tamilmirrorlk | 8,871
+tamilmirrorlk | 8,872
 virakesarilk | 10,248
 adaderanasinhalalk | 10,701
 
@@ -26,25 +26,61 @@ adaderanasinhalalk | 10,701
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,543 (99.3%) of 61,967 articles have been extended.
+61,544 (99.3%) of 61,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### மாதம்பே பகுதியில் நபரொருவர் கொலை - சந்தேகநபர்கள் கைது!
+### கைதிகளை பார்வையிட அனுமதி
+
+*2024-12-25 12:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளை-பார்வையிட-அனுமதி/175-349259) · `ta`
+
+நத்தார் பண்டிகையை முன்னிட்டு சிறைச்சாலைக்குள் சென்று நேரடியாக கைதிகளை பார்வையிட உறவினர்களுக்கு விசேட அனுமதி வழங்கப்பட்டுள்ளதாகவும் சிறைச்சாலை ஆணையாளரும் ஊடகப் பேச்சாளருமான காமினி பி. திஸாநாயக்க தெரிவித்துள்ளார்.
+
+மேலும். நத்தார் பண்டிகையை முன்னிட்டு 398 சிறைக்கைதிகளுக்கு விசேட அரச பொது மன்னிப்பு வழங்கபட்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/9e7567c7.json)
+
+---
+
+### Sri Lanka sees over 2,200 Israeli tourists in 52 days from Nov. 1 despite threats: data
+
+*2024-12-25 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-over-2200-israeli-tourists-in-52-days-from-nov-1-despite-threats-data-196280/) · `en`
+
+ECONOMYNEXT – Sri Lanka has received 2,234 tourists from Israel in the 52 days from November 1, official government data showed, despite threats over possible attack on a Eastern coastal tourism hotspot where more Israeli tourists gather.
+
+The number of tourists from Israel has increased to 24,147 as of December 22, compared to 21,913 at the end of October 31, the latest weekly tourism data showed. The island nation saw 19,517 Israeli tourists last year.
+
+Israel on October 23 asked its citizens to avoid non-essential travel to Sri Lanka, leave coastal tourist areas including Arugam Bay and stop overt displays of Hebrew language in clothes or other signs that could lead to identification, following the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack.
+
+...
+
+[Data](articles/bf382f5c.json)
+
+---
+
+### Suspects arrested in Madambe area
 
 *2024-12-25 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202093) · `ta`
 
-மாதம்பே பொலிஸ் பிரிவுக்குட்பட்ட தெமடபிட்டிய பகுதியில் கடந்த 22ஆம் திகதி நரொருவர் படுகொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Arrests made in Madambe murder case: Father (53) and son (28) from Karavitta detained on 24th in connection with Demadapitiya homicide on 22nd.
 
-பொலிஸாரினால் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது, குற்றத்துடன் தொடர்புடைய சந்தேக நபர்கள் இருவர்  நேற்று செவ்வாய்க்கிழமை (24) கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கரவிட்ட பகுதியைச் சேர்ந்த 28 மற்றும் 53 வயதுடைய தந்தை மற்றும் மகன் இருவரே கைது செய்யப்பட்டுள்ளனர்.
+The suspects have been arrested in connection with the murder of a man on the 22nd of this month in the Demadapitiya area of ​​the Madambe police division, police said.
+
+During the investigation by the police, two suspects in connection with the crime were arrested on Tuesday (24).
+
+The father and son of 28 and 53, aged 28 and 53, from Karavitta have been arrested.
 
 ◼️
 
 [Data](articles/4622d0dd.json)
+
+[Extended Data](ext_articles/4622d0dd.ext.json)
 
 ---
 
@@ -308,6 +344,26 @@ The arrested suspects is a father and son of a resident of the area in the area 
 
 ---
 
+### Sri Lanka Christmas cake index deflates 7.3-pct in 2024
+
+*2024-12-25 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-christmas-cake-index-deflates-7-3-pct-in-2024-196287/) · `en`
+
+ECONOMYNEXT – The cost of key ingredients for making Sri Lanka’s Christmas cake, fell 7.3 percent in 2024 amid deflationary policy and currency appreciation followed by the central bank under Governor Nandalal Weerasinghe, retail price data show.
+
+The difference in the cost of ingredients from 2022, when deflationary policy started showing up in the balance of payments and 2024 was only 0.8 percent.
+
+Sri Lanka’s Christmas cake is a fruit cake acclaimed by international foodies who have tried out the confection to be perhaps the World’s Best’.
+
+“For years I firmly believed that I had tried every single variation of the Christmas cake possible. Light, dark, moist, dry, British, Scottish, Italian, Serbian… That was, until I met my Sri Lankan husband,” writes author Queensashay at Food52, a foodie portal.
+
+“I would have never thought that the richest, the most decadent, the most interesting and the most delicious Christmas cake of all would come from Sri Lanka.”
+
+...
+
+[Data](articles/2be5a556.json)
+
+---
+
 ### 4 சம்பவங்கள்: ஐவர் கைது
 
 *2024-12-25 10:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-சம்பவங்கள்-ஐவர்-கைது/175-349248) · `ta`
@@ -530,6 +586,28 @@ Handapangoda was a teacher by profession and had gained considerable attention i
 
 ---
 
+### Sri Lanka President calls for just, compassionate society in Christmas message
+
+*2024-12-25 09:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-just-compassionate-society-in-christmas-message-196285/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has called for just compassionate society, in his Christmas message as the country is recovering from the worst currency crisis in the history of its central bank.
+
+“Today, Sri Lanka stands at a crossroads, requiring a transformative social revival,” President Dissanayake said.
+
+“This is a call for a collective national renewal, a shift towards a just, compassionate, and equitable society.
+
+“It is a moment for us to unite, acting with determination, resilience, and courage, to achieve the shared vision of a prosperous nation and fulfilling lives for all.”
+
+President Dissanayake was elected on a broad-based support from all communities and regions.
+
+“We are witnessing the dawn of a new era for our country, one illuminated by the message of love and unity brought by Jesus Christ,” he said.
+
+...
+
+[Data](articles/a7bfdfb4.json)
+
+---
+
 ### සංශෝධනය කළ අස්වැසුම ගෙවීම් ගැසට් කෙරේ
 
 *2024-12-25 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204697) · `si`
@@ -605,6 +683,20 @@ Additionally, it has been decided to release a total of 389 inmates in celebrati
 ◼️
 
 [Data](articles/7033008f.json)
+
+---
+
+### ජනතාවගේ බලාපොරොත්තු කිසිඳු අයුරකින් කඩ වීමට ඉඩ දෙන්නේ නෑ
+
+*2024-12-25 08:36:49* · [`adalk`](https://www.ada.lk/breaking_news/ජනතාවගේ-බලාපොරොත්තු-කිසිඳු-අයුරකින්-කඩ-වීමට-ඉඩ-දෙන්නේ-නෑ/11-413836) · `si`
+
+රජය වටා රොඳ බැඳගත් දහස් සංඛ්‍යාත ජනතාවගේ බලාපොරොත්තු කිසිඳු අයුරකින් කඩ වීමට ඉඩ නොතබන බවත් ඔවුන් අපේක්ෂා කරන “පොහොසත් රටක් – ලස්සන් ජීවිතයක්” උදා කර දීමේ ඒකායන අරමුණ වෙනුවෙන් තව තවත් වීර්යයෙන් සහ අධිෂ්ඨානයෙන් යුතුව කැප වන බව උතුම් නත්තලේදී යළි අවධාරණය කරන බවත් ජනපති අනුර කුමාර දිසානායක මහතා නත්තල වෙනුවෙන් සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් පවසයි.
+
+ජේසුස් ක්‍රිස්තුන් වහන්සේ මෙලොව එළිය දුටු දිනය වන නත්තල ලොව පුරා ක්‍රිස්තු භක්තිකයෝ මහත් හරසරින් සමරති. සියල්ලෝ දුකින් මුදා ගැනීම සඳහා මෙලොව එළිය දුටු ජේසුස් ක්‍රිස්තුන්වහන්සේ කිසිඳු විටෙක ජනතාව දෙස ධනවත්, දිළිඳු ආදී වූ භේද ඇසතින් නොබැලූහ.
+
+...
+
+[Data](articles/e14352af.json)
 
 ---
 
@@ -1112,15 +1204,15 @@ The position of Director General of Combined Services is pivotal, given its exte
 
 *2024-12-25 04:59:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3z7rgd5vwo) · `si`
 
-වත්මන් ආණ්ඩුව පත් වූ වහා ම කරන ලද පත්වීම් අතර රාජ්‍ය ප්‍රධානීන් පත් කිරීම ඉතා ම ඉක්මනින් සිදුවූ අතර එම පත්වීම්  ලබා මාස තුනක් ගත වන විට ජාතික රූපවාහිනි සභාපති ධූරය සම්බන්ධව ආන්දෝලනාත්මක තත්ත්වයක් මතුව තිබේ.
+වත්මන් ආණ්ඩුව පත්වු වහාම කරන ලද පත්වීම් අතර රාජ්‍ය ප්‍රධානීන් පත් කිරිම ඉතාම ඉක්මනින් සිදුවු අතර එම පත්විම් ලබා මාස තුනක් ගත වන විට ජාතික රූපවාහිනි සභාපති ධූරය සම්බන්ධව ආන්දෝලනාත්මක තත්ත්වයක් මතුව තිබේ.
 
 රූපවාහිනි සභාපතිවරයා ලෙස කටයුතු කළ සෙනේෂ් දිසානායක බණ්ඩාර සිය ධූරයෙන් ඉවත් වී ඇති අතර සමාජ මාධ්‍ය තුළ එය ලැව් ගින්නක් සේ පැතිර ගියේ ය.
 
 කතානායක අශෝක රන්වල ධූරයෙන් ඉල්ලා අස්වීමට තීරණය කරයිඅශෝක රංවල: කතානායක ධූරයෙන් ඉල්ලා අස්වීම සහ ජාතික ජනබලවේග ආණ්ඩුවේ ඉදිරි ගමන
 
-වත්මන් ආණ්ඩුව කරන ලද ප්‍රධාන පෙළේ පත් කිරීමක් අත්හරින ලද දෙවන පුද්ගලයා ඔහු ය. කතානායකවරයා ලෙස කටයුතු කළ අශෝක රන්වලට මීට පෙර සිය ධූරයෙන් ඉවත් වන්නට සිදුවූයේ ඔහුගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව මතුවු ගැටලුකාරි තත්ත්වයක් හේතුවෙනි.
+වත්මන් ආණ්ඩුව කරන ලද ප්‍රධාන පෙළේ පත් කිරිමක් අත්හරින ලද දෙවන පුද්ගලයා ඔහු ය. කතානායකවරයා ලෙස කටයුතු කළ අශෝක රන්වලට මීට පෙර  සිය ධූරයෙන් ඉවත් වන්නට සිදුවුයේ ඔහුගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව මතුවු ගැටලුකාරි තත්ත්වයක් හේතුවෙනි.
 
-ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ, පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන් ම වෘත්තිය සමිති සහ ඇතැම් නිලධාරීන් සමග ඇති වූ ගැටලු හේතුවෙන් ඔහුට සිය ධූරය අහිමි වූ බවට කටකතාවක්  පැතිරිණි.
+ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන්ම වෘත්තිය සමිති සහ ඇතැම් නිලධාරින් සමග ඇති වු ගැටලු හේතුවෙන් ඔහුට සිය ධුරය අහිමි වු බවට කටකතාවක්  පැතිරුණි.
 
 ...
 
@@ -1407,8 +1499,6 @@ In both groups, the top two teams will be eligible to play in the semi -finals.
 The British Institute of Management and Technology (BIMT Campus), a leading private education institute, secured two prestigious awards at the Entrepreneur Awards – Western Province 2024, organised by the Ministry of Industries, the National Chamber of Commerce, and the National Enterprise Development Authority.
 
 The award ceremony was held at the BMICH in Colombo, and it celebrated entrepreneurship across multiple sectors. The awards were received by BIMT’s Chief Executive Officer Farshath Jamal, Finance Manager Afzan Nazar, and Student Recruitment Manager Gugan Santhirasekaram.
-
-Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
@@ -2135,117 +2225,5 @@ The arrested fishermen have been handed over to the Mannar Fisheries Department 
 [Data](articles/bb0c3554.json)
 
 [Extended Data](ext_articles/bb0c3554.ext.json)
-
----
-
-### නීත්‍යානුකූල මත්වතුර බෝතලයක් අඩු මිලට දීමෙන් ජනතාව රෝගී වීම ඉහළ යනවා
-
-*2024-12-24 18:24:43* · [`adalk`](https://www.ada.lk/breaking_news/නීත්‍යානුකූල-මත්වතුර-බෝතලයක්-අඩු-මිලට-දීමෙන්-ජනතාව-රෝගී-වීම-ඉහළ-යනවා/11-413832) · `si`
-
-නීතිවිරෝධී මද්‍යසාර භාවිතය අවම කිරීම සඳහා නීත්‍යනුකූල මද්‍යසාර  බෝතලයක් අඩු මිලට ලබා දීමට කටයුතු කිරීම තුළින් රටේ ජනතාව රෝගී වීම ඉහළ යන බව මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය සඳහන් කරයි.
-
-සුරාබදු දෙපාර්තමේන්තුවේ වගකීම විය යුත්තේ, මද්‍යසාර බදු නිවැරදිව අය කර ගනිමින් නීත්‍යනුකූල නොවන මද්‍යසාර වැළැක්වීමට අවශ්‍ය ක්‍රියාමාර්ග ගැනීම බවද එම මධ්‍යස්ථානයේ විධායක අධ්‍යක්ෂ, සම්පත් ද සේරම් මහතා සඳහන් කළේය.
-
-මීට අමතරව කළ යුත්තේ වෙළඳ පොළ තුළ ඇති සුරාබදු නොගෙවා අලෙවියට ඇති මද්‍යසාර හඳුනා ගැනීමත්, ඒවා වෙළඳ පොළට නිකුත් කළ කූට ව්‍යාපාරිකයන්ට නීති මගින් කටයුතු කිරීම බවද කියා සිටියේය.
-
-අඩු මිලට මද්‍යසාර ලබා දීමට කටයුතු කිරීමෙන් සිදුවන්නේ මද්‍යසාර භාවිතයෙන් පුද්ගලයන් රෝගීන් බවට පත්වීම ඉහළ යාම හා පවුල් ජීවිත විනාශ කරමින්, රටේ සිදුවන අනතුරු වැඩි වී දරුවන්ගේ සතුට, නිදහස අහිමි වී කාන්තාවන්ට සිදුවන හිංසන ක්‍රියා ඉහළ යාම බවද පැවසීය.
-
-...
-
-[Data](articles/8ea95d53.json)
-
----
-
-### Let us dedicate ourselves with strong determination to create a prosperous country -the president's greeter
-
-*2024-12-24 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/202072) · `ta`
-
-Summarize: Dedicate to creating a prosperous country through unity and justice, inspired by Jesus' teachings on equality and compassion.
-
-🟩
-
-All people are united for the future of the country. Our country gradually transforms into the earth of the companions who quit the darkness of separation.
-
-He became saint because of the struggle of Jesus on the basis of freedom and justice. We are obligated to be a government to respect that humanitarian freedom and justice and to truth his guidance.
-
-President Anura Kumara Dissanayake congratulated us on this holy day on this holy day to dedicate ourselves with a strong determination to create a prosperous country.
-
-The above is mentioned in the greeting of the President's Media Unit. It further stated that
-
-Christians all over the world celebrate the birthday of Jesus Christ. Jesus Christ, the incarnation of this world to save everyone from suffering, has never seen people from the point of view of being poor rich. That is why Annar chose to be born among the shepherds who were the most poor and innocent human society on birthday in this world as the child of God.
-
-...
-
-[Data](articles/3965faea.json)
-
-[Extended Data](ext_articles/3965faea.ext.json)
-
----
-
-### 4. Croaly of Rs.4 crores brought by Thailand
-
-*2024-12-24 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204682) · `si`
-
-Thailand-bound passenger arrested at Katunayake airport with 388 drug parcels worth Rs.4 crore. A 30-year-old three-wheeler driver from Colombo faces investigation by Police Narcotics Bureau.
-
-🟩
-
-A track passenger, a passenger, airport customs, has been arrested by a passenger, airport.
-
-He was arrested while on the Katunayake airport.
-
-The man was a 30 year old three-wheeler driver from Colombo.
-
-He had arrived at the Katunayake airport from Bangkok, Thailand today (24).
-
-According to the airport customs officers, 388 parcels have been arrested in the bag and 388 parcels of drugs.
-
-Steps have been taken to the officers of the Police Narcotics Bureau for Further investigations for the person and the "Kush" drug was brought to further investigations.
-
-◼️
-
-[Data](articles/2bbc592b.json)
-
-[Extended Data](ext_articles/2bbc592b.ext.json)
-
----
-
-### Re -headed underworld groups
-
-*2024-12-24 18:11:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தலைதூக்கும்-பாதாள-உலக-குழுக்கள்/175-349222) · `ta`
-
-Sri Lanka's Cabinet vows to combat underworld crime and drug trafficking, promising action and results.
-
-🟩
-
-Cabinet Spokesperson Minister Nalinda Jayatissa said that necessary steps would be taken to suppress the underworld.
-
-He said this at a media briefing to announce the Cabinet decisions today (24).
-
-“As a government, we are dedicated to fight the underworld and drug trafficking.
-
-It can only be said that the measures are being taken. You can see its results. ”
-
-◼️
-
-[Data](articles/1636dbb0.json)
-
-[Extended Data](ext_articles/1636dbb0.ext.json)
-
----
-
-### බන්ධනාගාර දෙපාර්තමේන්තුවේ අතිකාල හා නිවාඩු දීමනා වෙනුවෙන් 2023දී රු. කෝටි 98ක් ගෙවලා
-
-*2024-12-24 18:11:37* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-දෙපාර්තමේන්තුවේ-අතිකාල-හා-නිවාඩු-දීමනා-වෙනුවෙන්-2023දී-රු--කෝටි-98ක්-ගෙවලා/11-413831) · `si`
-
-බන්ධනාගාර දෙපාර්තමේන්තුව 2023 වර්ෂයේ සේවක වැටුප් හා අනෙකුත් දීමනාවලට අමතරව අතිකාල හා නිවාඩු දින දීමනා වෙනුවෙන් පමණක් රුපියල් රුපියල් ලක්ෂ 9820 ක් වැයකර තිබෙන බවත්, එම මුදල 2022 වර්ෂයට සාපේක්ෂව රුපියල් ලක්ෂ 1060 ක වැඩි වීමක් බවත් ජාතික විගණන මහ ලේකම් කාර්යාලය සිදුකළ විගණන පරීක්ෂණයකදී තහවුරු වී ඇත.
-
-මහා භාණ්ඩාගාරය 2023 ජනවාරි 27 දිනැති 01/2023 අයවැය චක්‍රලේඛනය මගින් අතිකාල දැඩි ලෙස පාලනය කර තිබූ තත්ත්වයක් තුළ මෙතරම් මුදල් ප්‍රමාණයක් අතිකාල සඳහා වැයකර තිබූ බවද විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
-
-වැලිකඩ බන්ධනාගාරයේ සිරකරුවන් බන්ධනාගාර නිලධාරීන්ගේ නිවාස පරිශ්‍රයන්හි 2023 වර්ෂයේ සේවයේ යෙදවීම වෙනුවෙන් පමණක් බන්ධනාගාර නිලධාරීන් මිනිස් දින 234 ක් වැයකර තිබූ බවද එම විගණන වාර්තාවේ සඳහන් වේ. සිරකරුවන් බන්ධනාගාර නිලධාරීන්ගේ නිවාස පරිශ්‍රයන්හි සේවයේ යෙදවීම් 2023 වර්ෂයෙහි අවස්ථා 233 ක් වාර්තා වූ බවද, ඒ සඳහා සිරකරුවන් රැගෙන යෑමට අවස්ථා 62 කදී බන්ධනාගාර මූලස්ථානයේ සංචිත වාහන 09 ක් කිලෝ මීටර් 372 ක් ධාවනය කර තිබූ බවද එම විගණන වාර්තාව මගින් වැඩි දුරටත් පෙන්වා දී තිබේ.
-
-...
-
-[Data](articles/6fc2b46d.json)
 
 ---

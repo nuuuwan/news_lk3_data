@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 14:03:04**
+As of **2024-12-25 14:15:52**
 
 ## Newspaper Stats
 
-*Scraped **61,981** Articles*
+*Scraped **61,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 5,917
 adaderanalk | 7,569
 tamilmirrorlk | 8,876
 virakesarilk | 10,248
-adaderanasinhalalk | 10,704
+adaderanasinhalalk | 10,706
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,551 (99.3%) of 61,981 articles have been extended.
+61,552 (99.3%) of 61,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### උත්සව සමයේ අන්තර්ජාල මුදල් වංචා ඉහළ ගිහින්
+
+*2024-12-25 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204709) · `si`
+
+උත්සව සමය තුළ අන්තර්ජාලය හරහා සිදුවන මුදල් වංචා කිරීමේ සිද්ධීන් ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+
+එම සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා පැවසුවේ පාරිභෝගිකයින් වෙත දුරකතන ඇමතුම් ලබා දෙමින් යම් යම් ත්‍යාග දිනා ඇති බව පවසමින් මුදල් වංචා කිරීම් සම්බන්ධව මේ වන විට පැමිණිලි ලැබී ඇති බවය.
+
+තවද AI තාක්ෂණය භාවිත කරමින් සිදුවන යම් යම් අක්‍රමිකතා සම්බන්ධවද මේ වන විට පැමිණිලි වාර්තා වී ඇති බවත් ඔහු පැවසීය.‍
+
+මෙවැනි ඇමතුම් සහ සිදුවීම්වලින් ආරක්ෂා වීම සඳහා මහජනතාව විශේෂ අවධානයක් යොමු කළ යුතු බවද ඔහු වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/1c3c2429.json)
+
+---
+
+### මගී ගුවන් යානයක් කඩා වැටෙයි
+
+*2024-12-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204708) · `si`
+
+අසර්බයිජාන් ගුවන් සේවයට අයත් ගුවන් යානයක් කසකස්තානයේදී කඩා වැටී තිබේ.
+
+එම ගුවන් යානයේ පුද්ගලයින් 67 දෙනෙකු ගමන් කර ඇති බව BBC පුවත් සේවය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/24678885.json)
+
+---
 
 ### 8747 drivers arrested
 
@@ -188,21 +220,27 @@ These measures include suspension of those who do not understand duties to cause
 
 ---
 
-### ගෝලීය සාගතය උග්‍ර වෙයි
+### Global famine escalates
 
 *2024-12-25 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204706) · `si`
 
-ලොව ධනවත් රටවල් සාගතයෙන් පීඩා විදින ලෝ වැසියන්ට ආධාර ලබාදීම අවම වීමත් සමග ගෝලීය සාගතය උග්‍ර වෙමින් පවතින බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+Global famine worsens: UN reports 307 million in need, 117 million without aid in 2025. Only 46% of required assistance met.
 
-ඔවුන් අවධාරණය කරනුයේ 2025 වසරේ දී ලෝකයේ මිලියන 307කට මානුෂීය ආධාර අවශ්‍ය වන අතර ආධාර රැස්කර ගත හැක්කේ ඉන් සියයට 60ක් සඳහා පමණක් බවය.
+🟩
 
-ඒ අනුව 2025 වසරේ දී ලෝකයේ මිලියන 117ක පමණ පිරිසකට මානුෂිය ආධාර නොලැබෙනු ඇතැයි ඔවුන් අනතුරු අඟවා තිබේ.
+The United Nations says that the global famine is escalating with the reduction of the benefits of the world's wealthy countries to stress.
 
-මෙම වසරේදීත් ආධාර අවශ්‍ය පිරිස් වෙන මානුෂිය ආධාර ලබා දීම සඳහා ඩොලර් බිලියන 49.6ක් අවශ්‍ය බවට එක්සත් ජාතීන් ඇස්තමේන්තු ගත කර තිබුණත් ඔවුන්ට ඉන් සපයා ගත හැකි වූයේ සියයට 46ක් පමණි.
+They are emphasized, 307 million in the world, 307 million in the world, can be collected and aid can only be collected.
+
+Accordingly, in 2025, 117 million people would not have been aid of humanitarian assistance.
+
+The United Nations has estimated that only 46 percent of the United Nations requires only 46 percent of the need to provide other assistance to people.
 
 ◼️
 
 [Data](articles/4a444709.json)
+
+[Extended Data](ext_articles/4a444709.ext.json)
 
 ---
 
@@ -2167,57 +2205,5 @@ We expect these accidents to be reduced this time. Parents should make clarity o
 [Data](articles/4f8667ce.json)
 
 [Extended Data](ext_articles/4f8667ce.ext.json)
-
----
-
-### Compensation for farmers affected by random weather
-
-*2024-12-24 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202071) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Weather damage affects 91,300+ acres of rice fields & 1,000+ irrigation sources. 750 acres of vegetables destroyed in Nuwara Eliya. Government compensates farmers up to 40,000 rupees per hectare for 5 crops. Funds allocated from Agriculture and Farmers' Insurance Board for 2025.
-
-🟩
-
-Agriculture has been severely affected in many districts due to inclement weather in the country a few weeks ago.This caused the general public to face great inconveniences, including farmers.
-
-According to the data of the Department of Agricultural Development, on the 2nd of last month, about 91 300 acres of paddy fields have been completely damaged and 86 225 acres of paddy fields are partially damaged.A further 173 minor irrigation mouths have been completely damaged and 1148.
-
-It has been reported that about 750 acres of vegetable crops have been destroyed in the Nuwara Eliya district alone.In addition, the Department of Agriculture is making efforts, including seeds for damaged crops.
-
-In addition, it has been decided to pay a maximum of Rs.. It is also planned to pay a maximum of 40 000 rupees per hectare for 5 crops including corn, potatoes, chillies, big onions and soy.
-
-...
-
-[Data](articles/a5b4115d.json)
-
-[Extended Data](ext_articles/a5b4115d.ext.json)
-
----
-
-### Sri Lanka's Foreign Currency Distribution Fracture
-
-*2024-12-24 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202079) · `ta`
-
-Sri Lanka's foreign currency distribution fracture: Moody's upgrades to CAA1, citing improved debt stability and government liquidity. However, CCC+ rating indicates potential breakdown risk.
-
-🟩
-
-Moodys, one of the international credit ratings companies, has been upgraded to the CAA1 status of the 'CA', which has been broken down by the recent 'CA'.
-
-Last week, another international credit ratings, such as 'Moody's', upgraded to the 'CCC+' to mark the possibility of breakdown from the RD, which represents the partial breakdown of Sri Lanka's long -term foreign currency distributional breakdown.
-
-Against this backdrop, after the completion of the debt reproduction of international sector loans, it has been threatened by the threat of an irreparable breakdown of debts, which is why Sri Lanka's long -standing foreign currency distributor's breakdown has been upheld.
-
-In the case of Sri Lanka's debt, 'Moody's' pointed out that the relaxation and the government's liquid threat of the government had diminished and the financial and debt stability had improved.
-
-...
-
-[Data](articles/3a89db00.json)
-
-[Extended Data](ext_articles/3a89db00.ext.json)
 
 ---

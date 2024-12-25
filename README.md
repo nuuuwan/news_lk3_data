@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 15:43:34**
+As of **2024-12-25 16:01:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,559 (99.3%) of 61,997 articles have been extended.
+61,561 (99.3%) of 61,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -154,6 +154,8 @@ Sri Lanka Police says legal action has been taken against a total of 8,747 traff
 
 [Data](articles/3cacfce0.json)
 
+[Extended Data](ext_articles/3cacfce0.ext.json)
+
 ---
 
 ### Special traffic monitoring by police
@@ -198,21 +200,27 @@ International media reports that an Azerbaijan from Azerbaijan to Russia's trave
 
 ---
 
-### கஜகஸ்தானில் பயணிகள் விமானம் வெடித்து சிதறியது
+### Passenger plane exploded in Kazakhstan
 
 *2024-12-25 14:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கஜகஸ்தானில்-பயணிகள்-விமானம்-வெடித்து-சிதறியது/50-349267) · `ta`
 
-அசர்பைஜானின் பாகுவில் இருந்து 72 பயணிகளுடன் ட்ரோஸ்னி நோக்கி பயணிகள் விமானம் ஒன்று சென்று கொண்டிருந்தது. Another video showing the crash of Azerbaijan Airlines Flight 8243 pic.twitter.com/Ze5pQ7Grv9— BNO News Live (@BNODesk) December 25, 2024
+Kazakhstan: Passenger plane explodes after crash landing, 72 on board. Dense fog caused diversion. Multiple injuries reported, fatalities feared. Cause unknown. Firefighters battling blaze.
 
-அடர்ந்த மூடுபனி காரணமாக திருப்பி விடப்பட்ட இந்த விமானம் கஜகஸ்தானின் அக்டாவ் பகுதியில் உள்ள விமான நிலையத்தில் தரையிறங்க முயன்றுள்ளது.
+🟩
 
-அப்போது விமானம் திடீரென கீழே விழுந்தது. இதில் விமானம் வெடித்து சிதறி தீப்பற்றி எரியும் காட்சிகள் வெளியாகியுள்ளது. இதில் பலர் உயிரிழந்திருக்கக் கூடும் என அஞ்சப்படும் நிலையில் சிலர் காயங்களுடன் மீட்கப்பட்டுள்ளதாக தகவல் வெளியாகியுள்ளது.
+A passenger flight from Azarbaijan's Baghu with 72 passengers. Another Video Show The Cross Obi Azerbaijan Airlines Flugt ௮௨௪௩ Pick.Thwiter.Thwiter.Thwiter.Kama
 
-பயணிகள் விமானம் விபத்தில் சிக்குவதற்கு முன்பு விமான நிலையம் அருகே பலமுறை வானில் வட்டமடித்ததாக தகவல் வெளியாகியுள்ளது. சம்பவ இடத்தில் தீயணைப்புத்துறையினர் தீயை அணைக்கும் பணியில் ஈடுபட்டுள்ளனர். இந்த விபத்துக்கான காரணம் மற்றும் உயிரிழப்பு குறித்த எந்த தகவலும் தற்போது வரை வெளியாகவில்லை.
+The plane, which was diverted due to a dense fog, was trying to land at the airport in Kazakhstan's Oktao area.
+
+Then the plane suddenly fell down. The aircraft exploded and the burning of the fire. It is reported that many have been rescued with injuries, fearing that many of them may have died.
+
+It has been reported that the passenger plane crashed several times near the airport before the plane crashed. Firefighters are working on extinguishing the fire at the scene. No information on the cause and death of the accident has been released until now.
 
 ◼️
 
 [Data](articles/b92f9c67.json)
+
+[Extended Data](ext_articles/b92f9c67.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 20:27:12**
+As of **2024-12-25 20:43:25**
 
 ## Newspaper Stats
 
-*Scraped **62,023** Articles*
+*Scraped **62,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,107 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,923
 adaderanalk | 7,576
-tamilmirrorlk | 8,885
-virakesarilk | 10,261
-adaderanasinhalalk | 10,710
+tamilmirrorlk | 8,886
+virakesarilk | 10,262
+adaderanasinhalalk | 10,713
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,578 (99.3%) of 62,023 articles have been extended.
+61,580 (99.3%) of 62,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### நாளை 18 மணி நேரம் நீர் வெட்டு
+### ஆட்கடத்தலை முறியடிப்பதை முன்னிறுத்தி இலங்கை - அமெரிக்கா கூட்டு நடவடிக்கை
+
+*2024-12-25 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/202161) · `ta`
+
+இலங்கை அரசாங்கமும், சர்வதேச அபிவிருத்திக்கான அமெரிக்க முகவரகமும் இணைந்து இலங்கையில் பாதுகாப்பான குடியகல்வை ஊக்குவிப்பதற்கும், ஆட்கடத்தலைத் தடுப்பதற்கும் அவசியமான நடவடிக்கைகளை முன்னெடுத்துவருகின்றன.
+
+அதற்கமைய சர்வதேச அபிவிருத்திக்கான அமெரிக்க முகவரகத்தின் அனுசரணையுடன்  இலங்கையைச் சேர்ந்த 69 அதிகாரிகளுக்கு குடியகல்வு சட்டம் மற்றும் கொள்கை தொடர்பில் சான்றிதழ் கற்கைநெறி வழங்கப்பட்டுள்ளது.
+
+அதன்மூலம் அவ்வதிகாரிகள் ஆட்கடத்தலை முயற்சிகளை முறியடிப்பதற்கு அவசியமான அறிவையும், திறன்களையும் பெற்றிருப்பதாக அமெரிக்கா தெரிவித்துள்ளது.
+
+சர்வதேச அபிவிருத்திக்கான அமெரிக்க முகவரகத்தின் 'ஆட்கடத்தலை முறியடிக்கும் நோக்கில் சிவில் சமூகத்தை வலுப்படுத்தல்' செயற்திட்டம் மற்றும் இலங்கை திறந்த பல்கலைக்கழகத்தினால் இணைந்து முன்னெடுக்கப்பட்ட இந்த 6 மாதகாலக் கற்கைநெறியின் ஊடாக அரசதுறை அதிகாரிகள், ஊடகவியலாளர்கள், இளைஞர்கள், தன்னார்வலர்கள் மற்றும் சிவில் சமூகப்பிரதிநிதிகள் எனப் பலரும் குடியகல்வு சட்டம் பற்றியும், ஆட்கடத்தலை முறியடிப்பதற்கான நடவடிக்கைகள் குறித்தும் போதிய தெளிவைப் பெற்றுள்ளனர்.
+
+...
+
+[Data](articles/b4dad4be.json)
+
+---
+
+### දරුවන් දෙදෙනෙක් ඇතුළු තිදෙනෙක් මුහුදේ ගිලී අතුරුදන්
+
+*2024-12-25 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204720) · `si`
+
+දරුවන් දෙදෙනෙකු සහ පුද්ගලයෙක් මුහුදේ ගසාගෙන යාමෙන් අතුරුදන් වී තිබේ.
+
+පොලීසිය සඳහන් කළේ තිරුක්කෝවිල් සංගමන්කන්ද මුහුදු ප්‍රදේශයේදී මෙම අනතුර සිදුවී ඇති බවය.
+
+◼️
+
+[Data](articles/42a54ce9.json)
+
+---
+
+### துப்பாக்கி - தோட்டாக்களுடன் காணாமல் போன கடற்படை சிப்பாய்
+
+*2024-12-25 20:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-தோட்டாக்களுடன்-காணாமல்-போன-கடற்படை-சிப்பாய்/175-349289) · `ta`
+
+டி 56 ரக துப்பாக்கி, தோட்டாக்கள் மற்றும் மெகசீன் ஆகியவற்றுடன் காணாமல் போன கடற்படை சிப்பாயை பொலிஸார் கைது செய்துள்ளனர்.
+
+திருகோணமலை கடற்படை முகாமிற்கு சொந்தமான பொருட்களை ஏற்றிக்கொண்டு பாரவூர்தி ஒன்றில் பயணித்துக் கொண்டிருந்த குறித்த சிப்பாய் வரகாபொல – வாரியகொட பிரதேசத்தில் வைத்துக் காணாமல் போனதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சிப்பாய், தமது சகோதரர் இரவு உணவைக் கொண்டு வந்திருப்பதாகவும் அதனைப் பெற்றுக் கொள்ள செல்வதாகவும் கூறி சென்று பல மணி நேரங்கள் ஆகியும் மீள திரும்பவில்லை.
+
+இது தொடர்பில் குறித்த பாரவூர்தியின் சாரதியாக செயற்பட்ட கடற்படை சிப்பாய் வரகாபொல பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+இதற்கமைய, முன்னெடுக்கப்பட்ட விசாரணைகளுக்கமைய, டி ரக 56 துப்பாக்கி, தோட்டாக்கள் மற்றும் மெகசீன் ஆகியவற்றுடன் காணாமல் போன கடற்படை சிப்பாய் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/f915f63f.json)
+
+---
+
+### Water cut for 18 hours tomorrow
 
 *2024-12-25 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202160) · `ta`
 
-களுத்துறை தெற்கு, களுத்துறை வடக்கு, வாதுவ, வஸ்கடுவ, மொரோந்துடுவ மற்றும் பொம்புவல ஆகிய பகுதிகளுக்கு 18 மணித்தியாலங்களுக்கு நீர் விநியோகம் தடைப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+Water cutoff alert: 18-hour disruption in Kalutara areas starting 9 AM Wednesday to 3 AM Thursday for pipe repair.
 
-இதன்படி 26ஆம் திகதி வியாழக்கிழமை காலை 09 மணி முதல் வெள்ளிக்கிழமை (27) அதிகாலை 03 மணி வரை குறித்த பிரதேசங்களுக்கு நீர் விநியோகம் தடைப்படும்.
+🟩
 
-பிரதான கடத்தும் குழாயில் ஏற்பட்ட கோளாறு காரணமாக அவசர திருத்த வேலைகளுக்காக இந்த நீர் விநியோகம் இடைநிறுத்தப்படுவதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை மேலும் தெரிவித்துள்ளது.
+The National Water Supply and Drainage Board has announced that water supply will be disrupted for 18 hours to the Kalutara South, Kalutara North, Waduwa, Waskaduwa, Morntuduwa and Pombuwala areas.
+
+Accordingly, water supply to the areas will be disrupted from 9 am to Friday (27) at 03 am on Thursday 26th.
+
+The National Water Supply and Drainage Board further stated that the water supply will be suspended for emergency revision work due to a failure in the main conduction pipe.
 
 ◼️
 
 [Data](articles/52347808.json)
+
+[Extended Data](ext_articles/52347808.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට පැය 18ක ජල කප්පාදුවක්
+
+*2024-12-25 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204719) · `si`
+
+කළුතර දකුණ, කළුතර උතුර, වාද්දුව, වස්කඩුව, මොරොන්තුඩුව සහ බෝම්බුවල යන ප්‍රදේශවලට පැය 18ක කාලයක් ජල සැපයුම අත්හිටුවනු ඇති බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනය කරයි.
+
+ඒ අනුව, හෙට (26) දින පෙරවරු 09 සිට අනිද්දා (27) අලුයම 03 දක්වා අදාළ ප්‍රදේශවලට ජල සැපයුම අත්හිටුවනු ඇත.
+
+ප්‍රධාන සම්ප්‍රේෂණ නළයේ සිදුවී ඇති බිඳවැටීමක් හේතුවෙන් සිදුකළ යුතු හදිසි අලුත්වැඩියාවක් සඳහා මෙම ජල සැපයුම අත්හිටුවනු බව ජාතික ජලසම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/161fa6ca.json)
 
 ---
 
@@ -61,6 +135,8 @@ The affected areas include Kalutara South, Kalutara North, Wadduwa, Waskaduwa, M
 ◼️
 
 [Data](articles/c8d92cf5.json)
+
+[Extended Data](ext_articles/c8d92cf5.ext.json)
 
 ---
 
@@ -275,6 +351,30 @@ The arrested suspects are from Gampola, Bogawantalawa and Paragaduwa, aged 21, 5
 ◼️
 
 [Data](articles/222e77b1.json)
+
+---
+
+### සොරකම් 24ක් සිදුකර සැඟවී සිටි කල්ලියක් කොටුවෙයි
+
+*2024-12-25 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204718) · `si`
+
+දිවයිනේ විවිධ ප්‍රදේශවල නිවාස හා රන් ආභරණ වෙළෙඳසැල් 21කට අධික සංඛ්‍යාවක් බිඳ රුපියල් කෝටි ගණනක මුදල්, රන් භාණ්ඩ, ජංගම දුරකථන ඇතුළු දේපොළ සොරාගත් සැකකරුවන් කණ්ඩායමක් මහනුවර, ගලහා පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් අවුරුදු 19, 21, 22, 23 සහ 26 යන වයස්වල පසුවන යාපනය ප්‍රදේශයේ පදිංචිකරුවන් බව හඳුනාගෙන ඇත.
+
+මෙම පිරිස වසර 4ක් පුරා යාපනය, වව්නියා, කයිට්ස්, මාමණ්ඩු, ගම්පොළ, ගලහා, නුවරඑළිය, කඳපොළ සහ මාතලේ යන ප්‍රදේශවල නිවාස, කෝවිල් සහ රන් ආභරණ වෙළෙඳසැල් බිඳ මෙම කොල්ලකෑම් සිදුකර ඇතැයි අනාවරණය වී තිබේ.
+
+පොලීසිය පවසන්නේ මේ වනවිට සැකකරුවන් විසින් සිදුකළ සොරකම් 24ක් සම්බන්ධයෙන් තොරතුරු වාර්තා වී ඇති බවය.
+
+මෙම සැකකරුවන්ට එරෙහිව යාපනය අධිකරණ බල ප්‍රදේශයෙන් පමණක් වරෙන්තු 9ක් නිකුත් කර ඇති බව ගලහා පොලීසිය පවසයි.
+
+අධිකරණවලින් නිකුත් කළ වරෙන්තු අනුව සැකකරුවන් කාලෙන් කාලෙට විවිධ ප්‍රදේශවලට ගොස් නිවසක් කුලියට ගෙන එහි සිට මෙම සොරකම් සිදුකොට ඇති බව වාර්තා වෙයි.
+
+ඔවුන් සොරකම් කළ මුදල්  මේ වනවිට වියදම් කර ඇති අතර සොරාගත් රන් ආභරණ කිහිපයක් පමණක් යාපනය ප්‍රදේශයේ උකස් මධ්‍යස්ථානයක තිබියදී සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/d093a672.json)
 
 ---
 
@@ -876,6 +976,8 @@ Investigations have revealed that the accident had occurred due to the existing 
 
 *2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
 
+BREAKING: Azerbaijan Airlines flight traveling from Baku to Grozny crashes in Aktau, Kazakhstan, after reportedly requesting an emergency landing pic.twitter.com/hB5toqEFe2— RT (@RT_com) December 25, 2024
+
 An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
 
 “A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
@@ -886,9 +988,7 @@ The Kazakh transport ministry said there were 62 passengers and five crew member
 
 The country’s emergency situations ministry said its personnel were putting out a fire at the site.
 
-“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
-
-◼️
+...
 
 [Data](articles/36a93a06.json)
 
@@ -2161,89 +2261,5 @@ Sri Lanka unilaterally defaulted on its external debt in April 2022, exposing it
 [Data](articles/4d3caa8c.json)
 
 [Extended Data](ext_articles/4d3caa8c.ext.json)
-
----
-
-### President’s Fund is a tragedy
-
-*2024-12-25 06:12:35* · [`dailyftlk`](https://www.ft.lk/columns/President-s-Fund-is-a-tragedy/4-771006) · `en`
-
-There must be uniform criteria for eligibility to apply for and obtain financial assistance from the President’s Fund, followed by monitoring and evaluation assessment
-
-“Political corruption is a cancer, a cancer that eats away at a citizen’s faith in democracy, diminishes the instinct for innovation and creativity” — Joe Biden, former vice president of the United States.
-
-...
-
-[Data](articles/8aa41e2e.json)
-
-[Extended Data](ext_articles/8aa41e2e.ext.json)
-
----
-
-### Empathy and festivity: Why this Christmas uniquely needs more empathy than ever
-
-*2024-12-25 06:06:17* · [`dailyftlk`](https://www.ft.lk/columns/Empathy-and-festivity-Why-this-Christmas-uniquely-needs-more-empathy-than-ever/4-771004) · `en`
-
-There is more that connects these two words than the fact that they rhyme. Christmas is the most anticipated time of the year for so many families but with this special time comes a unique set of emotions and relationship realities.  It is this once-a-year occasion that drives our need for more empathy than at any other point in the year – for ourselves and for each other.
-
-Often mistaken as an ability, we are born with more or less of, empathy is actually a pro-social skillset that we all possess in order to be able to connect to those around us. It is a neurological skillset and not a mindset. At this time of year, as we share our humility and compassion with others, it is our ability to deeply understand the perspectives of others that allows us to gain both strength and unity. So how do you ensure that you are getting it right? Read on below as global expert Mimi Nicklin shares her top tips for harmony and understanding as the holidays roll out.
-
-...
-
-[Data](articles/e3e4a6d8.json)
-
-[Extended Data](ext_articles/e3e4a6d8.ext.json)
-
----
-
-### ICRC hosts first National Conference for Families of Missing Persons in Sri Lanka
-
-*2024-12-25 06:03:12* · [`dailyftlk`](https://www.ft.lk/news/ICRC-hosts-first-National-Conference-for-Families-of-Missing-Persons-in-Sri-Lanka/56-771003) · `en`
-
-The first National Conference for the Families of Missing Persons in Sri Lanka took place on 12-13 December in Colombo.
-
-Facilitated by the International Committee of the Red Cross (ICRC), the conference brought together 51 families of missing persons from all communities in Sri Lanka, representing diverse regions.
-
-The conference provided a much-needed humanitarian space for families of missing persons to interact with families from other communities, exchange views, discuss common challenges faced in searching for their missing loved ones, and how to overcome them collectively. During the event, the participants reiterated the need to know the fate and whereabouts of their missing loved ones.
-
-...
-
-[Data](articles/8d271b95.json)
-
-[Extended Data](ext_articles/8d271b95.ext.json)
-
----
-
-### Sri Lanka Mission to UN celebrates ‘World Meditation Day’ in New York
-
-*2024-12-25 06:01:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Mission-to-UN-celebrates-World-Meditation-Day-in-New-York/56-771002) · `en`
-
-In commemoration of the historic adoption of the United Nations General Assembly resolution declaring 21 December as “World Meditation Day”, the Permanent Mission of Sri Lanka in New York hosted the first celebratory event of the core group of countries on 20 December, to mark the global significance of the practice of Meditation.
-
-This event, entitled “Meditation – its universality and relevance in the 21st Century” focused on underlining the relevance and benefits of meditation for modern living with a keynote address by Dr. Tony Nader, a medical doctor trained at Harvard University and the Massachusetts Institute of Technology and a globally recognised meditation expert. During his address, Dr. Nader highlighted the benefits of practicing meditation and the scientific studies done on the subject. “Meditation is not a luxury; it is a necessity,” he mentioned, highlighting the benefits of meditation to modern life.
-
-...
-
-[Data](articles/d16aad1f.json)
-
----
-
-### Sri Lanka cabinet approves ratification of UN convention on BBNJ
-
-*2024-12-25 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-ratification-of-un-convention-on-bbnj-196277/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the ratification of the convention on biodiversity beyond national jurisdiction (BBNJ) agreement, the Cabinet Spokesman said.
-
-The move is likely to allow the island nation to get more financial resources along with improved capacity and technical expertise to conserve marine biodiversity in its closest international sea.
-
-The oceans beyond national borders remained largely unregulated, leaving them vulnerable to the escalating threats of human activities in the international seas.
-
-Government officials say the global north’s focus on resources in the high seas and seabed poses significant challenges to maritime biodiversity, given their advanced technical capabilities and financial resources.
-
-These efforts give rise to concerns regarding their effects on marine ecosystems, encompassing issues such as overexploitation, habitat degradation, the diminishment of genetic diversity, and disruptions to ecological interconnectedness.
-
-...
-
-[Data](articles/d6ca20a7.json)
 
 ---

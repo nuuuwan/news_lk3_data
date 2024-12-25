@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 21:12:45**
+As of **2024-12-25 21:27:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,713
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,583 (99.3%) of 62,030 articles have been extended.
+61,584 (99.3%) of 62,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### நத்தார் பண்டிகையை முன்னிட்டு கைதிகளுக்கு பொது மன்னிப்பு
+### Public amnesty to prisoners
 
 *2024-12-25 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202162) · `ta`
 
-மட்டக்களப்பு சிறையிலிருந்து 12 சிறைக்கைதிகளுக்கு 25ஆம் திகதி புதன்கிழமை நத்தார் பண்டிகையை முன்னிட்டு பொது மன்னிப்பு வழங்கப்பட்டுள்ளதாக சிறைச்சாலைகள் திணைக்களம் அறிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-சிறிய குற்றங்களுக்காகவும், வேறு காரணங்களுக்காகவும் தண்டனை பெற்றவர்களுக்கு நத்தார் பண்டிகையை முன்னிட்டு ஜனாதிபதியினால் வழங்கப்படுகின்ற பொது மன்னிப்பின் அடிப்படையில் அவர்கள் விடுவிக்கப்பட்டுள்ளனர்.
 
-இந்நிகழ்வு மட்டக்களப்பு சிறைச்சாலையின் அத்தியட்சகர் நல்லையா பிரபாகரன் தலைமையில் இடம்பெற்றதுடன், இதன்போது  சிறைச்சாலையின் பிரதம ஜெயிலர் உள்ளிட்ட சிறைச்சாலை அதிகாரிகள், உத்தியோகத்தர்கள் என பலரும் கலந்துகொண்டனர்.
+
+"12 prisoners freed in Batticaloa jail amnesty. Released for minor crimes on President's orders during Nathar festival. Event led by Superintendent Nallaya Prabhakaran."
+
+🟩
+
+The Department of Prisons has announced that a public amnesty has been granted to 12 prisoners from the Batticaloa jail on Wednesday the 25th.
+
+They have been released on the basis of a public amnesty given by the President on the occasion of the Nathar festival for those who have been convicted for minor crimes and other reasons.
+
+The event was chaired by Nallaya Prabhakaran, Superintendent of the Batticaloa Prison and many others, including prison officials and officials, were present.
 
 ◼️
 
 [Data](articles/3ec370ff.json)
+
+[Extended Data](ext_articles/3ec370ff.ext.json)
 
 ---
 

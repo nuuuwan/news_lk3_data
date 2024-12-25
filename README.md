@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 20:13:47**
+As of **2024-12-25 20:27:12**
 
 ## Newspaper Stats
 
-*Scraped **62,019** Articles*
+*Scraped **62,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,923
-adaderanalk | 7,573
+adaderanalk | 7,576
 tamilmirrorlk | 8,885
-virakesarilk | 10,260
+virakesarilk | 10,261
 adaderanasinhalalk | 10,710
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,576 (99.3%) of 62,019 articles have been extended.
+61,578 (99.3%) of 62,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### நாளை 18 மணி நேரம் நீர் வெட்டு
+
+*2024-12-25 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202160) · `ta`
+
+களுத்துறை தெற்கு, களுத்துறை வடக்கு, வாதுவ, வஸ்கடுவ, மொரோந்துடுவ மற்றும் பொம்புவல ஆகிய பகுதிகளுக்கு 18 மணித்தியாலங்களுக்கு நீர் விநியோகம் தடைப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை அறிவித்துள்ளது.
+
+இதன்படி 26ஆம் திகதி வியாழக்கிழமை காலை 09 மணி முதல் வெள்ளிக்கிழமை (27) அதிகாலை 03 மணி வரை குறித்த பிரதேசங்களுக்கு நீர் விநியோகம் தடைப்படும்.
+
+பிரதான கடத்தும் குழாயில் ஏற்பட்ட கோளாறு காரணமாக அவசர திருத்த வேலைகளுக்காக இந்த நீர் விநியோகம் இடைநிறுத்தப்படுவதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/52347808.json)
+
+---
+
+### 18-hour water cut in several areas
+
+*2024-12-25 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104496/18-hour-water-cut-in-several-areas) · `en`
+
+The National Water Supply and Drainage Board (NWS&DB) announced that the water supply to several areas in the Western Province will be suspended for 18 hours starting tomorrow morning (26).
+
+Accordingly, it said there will be an interruption from 9.00 a.m. on Dec. 26 (Thursday) to 3.00 a.m. on Dec. 27 (Friday) for urgent repairs due to a breakdown in the main transmission line.
+
+The affected areas include Kalutara South, Kalutara North, Wadduwa, Waskaduwa, Moronthuduwa and Bombuwala.
+
+◼️
+
+[Data](articles/c8d92cf5.json)
+
+---
+
+### Gang responsible for over 24 robberies busted while hiding in Kandy
+
+*2024-12-25 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104495/gang-responsible-for-over-24-robberies-busted-while-hiding-in-kandy) · `en`
+
+A group of suspects who broke into more than 21 houses and jewellery shops in various parts of the island and stole valuables and property including cash, gold items, mobile phones, etc. worth millions of rupees have been arrested by the Galaha Police in Kandy.
+
+The suspects have been identified as residents of the Jaffna area, aged 19, 21, 22, 23 and 26.
+
+It has been revealed that this group had been involved in breaking into houses, temples and jewellery shops in Jaffna, Vavuniya, Kayts, Mamandu, Gampola, Galaha, Nuwara-Eliya, Kandapola and Matale areas and committing these robberies over a period of 4 years.
+
+Police say that information has been reported thus far regarding a total of 24 thefts committed by the suspects.
+
+Galaha Police said that there are 9 pending arrest warrants issued against these suspects from the Jaffna jurisdiction alone.
+
+...
+
+[Data](articles/227ea19a.json)
+
+---
+
+### SLCERT warns of increased online scams during festive season
+
+*2024-12-25 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104494/slcert-warns-of-increased-online-scams-during-festive-season) · `en`
+
+The Sri Lanka Computer Emergency Readiness Team (SLCERT) has reported a sharp rise in online scams during the festive season.
+
+Chief Information Security Officer, Nirosh Ananda, stated that there have been complaints about scammers making phone calls to consumers, claiming they have won prizes. Additionally, complaints have also been received regarding various irregularities carried out using AI technology.
+
+He urged the public to be particularly vigilant and take precautions to protect themselves from such fraudulent calls and incidents.
+
+◼️
+
+[Data](articles/4c2743ce.json)
+
+---
 
 ### The 20th anniversary of the tsunami disaster
 
@@ -136,31 +204,47 @@ According to the report, the police patrol at Expressway after night to prevent 
 
 ---
 
-### நாளை 2 நிமிடம் மௌன அஞ்சலி செலுத்துங்கள்
+### Pay silent tribute for 2 minutes tomorrow
 
 *2024-12-25 18:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-2-நிமிடம்-மௌன-அஞ்சலி-செலுத்துங்கள்/175-349285) · `ta`
 
-சுனாமி அனர்த்தம் இடம்பெற்று 20 வருடங்கள் பூர்த்தியடையும் டிசெம்பர் 26ஆம் திகதி (நாளை) காலை 9.25 மணி முதல் 2 நிமிடங்கள் மௌன அஞ்சலி செலுத்துமாறு அனர்த்த முகாமைத்துவ நிலையம் மக்களை கோரியுள்ளது.
+Summarize: Pay silent tribute Dec 26, 9:25 AM for 2004 disaster victims. Over 35,000 dead, 5,000 missing.
 
-2004 டிசம்பர் 26, அன்று நடந்த இந்த பேரழிவில் 35,000 க்கும் அதிகமானோர் இறந்தனர் மற்றும் 5,000 க்கும் அதிகமானோர் காணாமல் போயிருந்தமை குறிப்பிடத்தக்கது. R
+🟩
+
+The Disaster Management Center has demanded people to pay silent tributes on December 26 (tomorrow) at 9.25 am.
+
+The disaster, which took place on December 26, 2004, died more than 35,000 and more than 5,000 disappeared. Remble
 
 ◼️
 
 [Data](articles/04aeb0cb.json)
 
+[Extended Data](ext_articles/04aeb0cb.ext.json)
+
 ---
 
-### சட்டவிரோத இரத்தினக் கல் அகழ்வில் ஈடுபட்ட மூவர் கைது
+### Three arrested for engaging in illegal gemstone excavation
 
 *2024-12-25 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/202144) · `ta`
 
-நோர்வூட் பொலிஸ் பிரிவுக்குட்பட்ட கெஹல்கமுவ ஆற்றுப் பகுதியில் நேற்று செவ்வாய்க்கிழமை (24) சட்டவிரோதமாக இரத்தினக் கல் அகழ்வில் ஈடுபட்ட மூன்று சந்தேக நபர்கள் நோர்வூட் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 21, 50 மற்றும் 58 வயதுடைய கம்பளை, பொகவந்தலாவை மற்றும் பரகடுவ ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் ஆவர்.
+
+
+"3 arrested for illegal gemstone mining in Kehelgamuwa River. Suspects from Gampola, Bogawantalawa, Paragaduwa aged 21, 50, 58."
+
+🟩
+
+Three suspects have been arrested by Norwood police illegally engaged in illegal gem stone excavation on Tuesday (24) in the Kehelgamuwa River, which belongs to the Norwood Police Division.
+
+The arrested suspects are from Gampola, Bogawantalawa and Paragaduwa, aged 21, 50 and 58.
 
 ◼️
 
 [Data](articles/07e41394.json)
+
+[Extended Data](ext_articles/07e41394.ext.json)
 
 ---
 
@@ -792,8 +876,6 @@ Investigations have revealed that the accident had occurred due to the existing 
 
 *2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
 
-BREAKING: Azerbaijan Airlines flight traveling from Baku to Grozny crashes in Aktau, Kazakhstan, after reportedly requesting an emergency landing pic.twitter.com/hB5toqEFe2— RT (@RT_com) December 25, 2024
-
 An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
 
 “A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
@@ -804,7 +886,9 @@ The Kazakh transport ministry said there were 62 passengers and five crew member
 
 The country’s emergency situations ministry said its personnel were putting out a fire at the site.
 
-...
+“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
+
+◼️
 
 [Data](articles/36a93a06.json)
 
@@ -2161,79 +2245,5 @@ These efforts give rise to concerns regarding their effects on marine ecosystems
 ...
 
 [Data](articles/d6ca20a7.json)
-
----
-
-### Multi-Sectoral National Action Plan to address SGBV in Sri Lanka
-
-*2024-12-25 05:59:51* · [`dailyftlk`](https://www.ft.lk/news/Multi-Sectoral-National-Action-Plan-to-address-SGBV-in-Sri-Lanka/56-771001) · `en`
-
-The national launch event took place at the Ministry of Women and Child Affairs
-
-Multi-Sectoral National Action Plan to Address SGBV in Sri Lanka - II
-
-National plan covering 13 sectors to ensure gender equality and women’s rights in Sri Lanka launched by Women and Child Affairs Minister Saroja Savithri Paulraj
-
-The second Multi-Sectoral National Action Plan to Address Sexual and Gender Based Violence (2024-2028) was launched recently (20 Dec.) in the presence of Women and Child Affairs Minister Saroja Savithri Paulraj.
-
-The national launch event, which took place at the Ministry of Women and Child Affairs (MoWCA) premises, was attended by Deputy Minister of Women and Child Affairs Dr. Namal Sudarshana, MoWCA Secretary K.D.R. Olga, MoWCA Additional Secretary Nilmini Herath, United Nations Development Programme (UNDP) Sri Lanka Resident Representative Azusa Kubota, and United Nations Population Fund (UNFPA) Sri Lanka Country Representative Kunle Adeniyi.
-
-...
-
-[Data](articles/fd2d3567.json)
-
----
-
-### HEL Partner Forum: Empowering smarter energy solutions for sustainable future
-
-*2024-12-25 05:52:40* · [`dailyftlk`](https://www.ft.lk/business/HEL-Partner-Forum-Empowering-smarter-energy-solutions-for-sustainable-future/34-770999) · `en`
-
-Hayleys Electronics Ltd. (HEL), a trailblazer in sustainable energy solutions, hosted an impactful Partner Forum in Kandy, uniting over 40 local businesses and key representatives from Huawei Technologies. This initiative is part of HEL’s strategic vision to drive Sri Lanka’s transition towards smarter, more efficient energy solutions.
-
-The event spotlighted cutting-edge technologies, including Huawei’s FusionSolar Smart PV and Energy Storage System (ESS) products, which are revolutionising the energy landscape with unparalleled efficiency and reliability. Attendees also delved into the advanced capabilities of Solax inverters, featuring intuitive mobile app integration for seamless energy management, and the sleek, high-performing JA Solar panels, which combine efficiency with aesthetic appeal.
-
-The forum served as a platform to foster collaboration and dialogue, empowering HEL’s partners to leverage advanced energy solutions tailored to meet Sri Lanka’s growing renewable energy demands.
-
-...
-
-[Data](articles/a74b4419.json)
-
----
-
-### Cabinet approves submission of Special Commodity Levy Orders for Parliament approval
-
-*2024-12-25 05:51:10* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-approves-submission-of-Special-Commodity-Levy-Orders-for-Parliament-approval/34-770998) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved presenting newly published orders under the Special Commodity Levy Act No. 48 of 2007 for Parliamentary approval.
-
-The proposal to this effect presented by President Anura Kumara Dissanayake in his capacity as the Finance, Planning, and Economic Development Minister, aims to streamline tax policies on essential commodities and ensure greater fiscal efficiency.
-
-The order issued under Section 2 of the Special Commodity Levy Act No. 48 of 2007 and published through the Gazette Extraordinary No. 2384/31 dated 17.05.2024
-
-The order issued under Section 2 and 5 of the Special Commodity Levy Act No. 48 of 2007 and published through the Gazette Extraordinary No. 2395/32 dated 31.07.2024
-
-The order issued under Section 2 of the Special Commodity Levy Act No. 48 of 2007 and published through the Gazette Extraordinary No. 2404/19 dated 02.10.2024
-
-...
-
-[Data](articles/47d0120b.json)
-
----
-
-### Govt. pledges to tackle underworld activities
-
-*2024-12-25 05:46:58* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-to-tackle-underworld-activities/56-770997) · `en`
-
-The Government yesterday pledged decisive action to address the resurgence of underworld activities and drug smuggling.
-
-“As the Government, we are bound to suppress the underworld and combat drug trafficking. However, we do not intend to rely solely on short-term operations like before. The law enforcement authorities are systematically intervening in this matter,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said yesterday.
-
-Speaking that the weekly post-Cabinet meeting media briefing assured the Government’s unwavering commitment to tackling these issues promptly.
-
-Despite disclosing details about the measures underway, he said that actions are already in progress and expressed confidence that the results of these interventions would soon become evident.
-
-◼️
-
-[Data](articles/42351872.json)
 
 ---

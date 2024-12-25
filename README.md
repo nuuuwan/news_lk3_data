@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 09:43:32**
+As of **2024-12-25 10:15:38**
 
 ## Newspaper Stats
 
-*Scraped **61,936** Articles*
+*Scraped **61,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,184 @@ economynextcom | 3,773
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,914
-adaderanalk | 7,563
-tamilmirrorlk | 8,859
-virakesarilk | 10,243
-adaderanasinhalalk | 10,694
+adaderanalk | 7,566
+tamilmirrorlk | 8,860
+virakesarilk | 10,246
+adaderanasinhalalk | 10,696
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,532 (99.3%) of 61,936 articles have been extended.
+61,535 (99.3%) of 61,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### வீரகேசரி இணையத்தள வாசகர்களுக்கு நத்தார் தின வாழ்த்துக்கள் !
+
+*2024-12-25 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202095) · `ta`
+
+உலகெங்கும் வாழும் கிறிஸ்தவ மக்கள் இயேசு பிரானின் பிறப்பை நத்தார் பண்டிகையாக இன்று புதன்கிழமை (25) கொண்டாடுகின்றனர்.
+
+இறைவன் எளிமையானவன். ஏழை, எளியவர்களுக்கு நெருக்கமானவன். எளிய சூழல்களில் சஞ்சரிப்பவன். ஏழை - பணக்காரர், பாமரர் - படித்தவர், உயர்ந்த சாதி - தாழ்ந்த சாதி, நல்லவர் - கெட்டவர், கறுப்பர் - வெள்ளையர் என எந்த பாகுபாடும் பார்க்காதவன்.
+
+எல்லோருக்கும் பொதுவான ஒளிமயமானவன்.  கருணையின் ரூபமாய் வாழ்கிறவன். இதையே ஆண்டவராகிய இயேசு கிறிஸ்துவின் பிறப்பு இந்த உலகுக்கு உணர்த்துகிறது.
+
+இறைவன் தன் மகனான பாலகன் இயேசுவை ஒரு மாட்டுத் தொழுவத்தில் பிறக்கச் செய்தார். கந்தல் துணிகளால் சுற்றிக்கிடக்கவும் செய்தார்.  ஏனென்றால், இறைவன் தான் விரும்புவது எளிமையையே.  அந்த எளிமையே இயேசுவின் வாழ்நாள் முழுவதும் அவரோடு இருந்தது. அதுமட்டுமன்றி இயேசு அன்பானவர். அன்பையே அவர் தன்னைப் பின் தொடர்ந்தவர்களுக்கு போதனையாகச் செய்தவர்.
+
+வீரகேசரி வாசகர்கள் அனைவருக்கும் இனிய நத்தார் தின வாழ்த்துக்களை virakesari.lk இணையத்தளம் தெரிவித்துக்கொள்கிறது.
+
+◼️
+
+[Data](articles/cacecc04.json)
+
+---
+
+### ஒற்றுமை, நன்றியுணர்வு, சமாதானத்திற்கு முன்னுரிமை வழங்கி நத்தாரை மகிழ்ச்சியுடன் அர்த்தமுள்ளதாக கொண்டாடுவோம் - பிரதமரின் நத்தார் வாழ்த்து
+
+*2024-12-25 09:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/202094) · `ta`
+
+நத்தாரின் உண்மையான அர்த்தமான ஒற்றுமை, நன்றியுணர்வு மற்றும் சமாதானம் என்பவற்றிற்கு முன்னுரிமை வழங்கி நத்தாரை மகிழ்ச்சி மற்றும் அர்த்தமுள்ளதாக கொண்டாடுவோம் என பிரதமர் ஹரிணி அமரசூரிய வாழ்த்துச்செய்தில் தெரிவித்துள்ளார்.
+
+ஓர் தேசமாக மீள கட்டியெழுப்பும் இந்த மறுமலர்ச்சி யுகத்தில் தமது குடும்பம் மற்றும் அன்புக்குரியவர்களுடன் காலத்தை செலவிடுவது மிகவும் முக்கியமானது. ஒற்றுமையுடன் செயற்படுதல், பகிர்ந்து வாழுதல் மற்றும் ஒருவருக்கொருவர் உதவி செய்வதன் ஊடாக எமது உறவுகளும் வலுவானதாக முன்னேற்றமடையும். ஆரோக்கியமான மக்கள் சமூகம் மற்றும் பலம்மிக்க தேசத்தை கட்டியெழுப்பும் பணியானது வீட்டிலிருந்தே ஆரம்பமாகின்றது என்பதை இதுபோன்ற கூட்டு முயற்சிகள் எமக்கு நினைவூட்டும்.
+
+உள்நாட்டில் உட்பட வெளிநாட்டில் சேவையாற்றுபவர்களையும், அத்தியாவசிய சேவைகளில் ஈடுபட்டுள்ளவர்கள் உட்பட பண்டிகை காலத்தில் தமது அன்புக்குரியவர்களுடன் காலத்தை செலவிட முடியாத அனைவரையும் இந்த தருணத்தில் நன்றியுடன் நினைவுகூற வேண்டும்.
+
+...
+
+[Data](articles/b8d03c6c.json)
+
+---
+
+### கடற்படைச் சிப்பாய் துப்பாக்கியுடன் மாயம்
+
+*2024-12-25 09:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்படைச்-சிப்பாய்-துப்பாக்கியுடன்-மாயம்/175-349246) · `ta`
+
+திருகோணமலையில் உள்ள கடற்படைத் தளத்திற்குச் சொந்தமான சரக்குகளை கடற்படை லொறியில் ஏற்றிக்கொண்டு கொழும்பு நோக்கித் திரும்பிக்கொண்டிருந்த கடற்படைச் சிப்பாய் ஒருவர் உத்தியோகபூர்வ T-56 துப்பாக்கி மற்றும் முப்பது தோட்டாக்கள் அடங்கிய மகசீனுடன் காணாமல் போயுள்ளதாக வரக்காபொல பொலிஸார் தெரிவிக்கின்றனர்.
+
+மேற்படி லொறியின் பாதுகாப்பில் இருந்த திருகோணமலை கடற்படை முகாமைச் சேர்ந்த சிப்பாய் என சந்தேகிக்கப்படும் மாலுமி. திங்கட்கிழமை (24) இரவு கொழும்பு நோக்கி வந்து கொண்டிருந்த போது, ​​வரக்காபொல வாரயகொட பகுதியில், தனது சகோதரர் வீட்டில் இருந்து இரவு உணவு கொண்டு வருவதாக கூறி இரவு உணவு கொண்டு வர லொறியில் இருந்து இறங்கிய போதும், அவர் திரும்பி வரவில்லை என பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர் திரும்பி வராத நிலையில், வாகனத்தின் சாரதியாக இருந்த கடற்படை வீரர் சம்பவம் தொடர்பில் வரக்காபொல பொலிஸாருக்கு அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/698f6a0a.json)
+
+---
+
+### Wasantha Handapangoda passes away
+
+*2024-12-25 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104484/wasantha-handapangoda-passes-away) · `en`
+
+Former President of the Sri Lanka Podujana Education Services Union, Wasantha Handapangoda, has passed away.
+
+She had been hospitalized while visiting her daughter in England recently, where she had been receiving treatment for two days before her death.
+
+Handapangoda was a teacher by profession and had gained considerable attention in society following the violent incidents that took place during the Galle Face protests on May 9, 2022.
+
+◼️
+
+[Data](articles/ab3d5205.json)
+
+---
+
+### වසන්තා හඳපාන්ගොඩ අභාවප්‍රාප්ත වෙයි
+
+*2024-12-25 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204698) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ගුරු සංගමයේ හිටපු සභාපතිනී වසන්තා හඳපාන්ගොඩ මහත්මිය අභාවප්‍රාප්ත වී තිබේ.
+
+පසුගියදා එංගලන්තයේ සිටි තම දියණිය බැලීමට ගොස් සිටියදී ඇතිවූ හදිසි අසනීප තත්ත්වයක් හේතුවෙන් ඇයව රෝහල් ගත කර තිබුණි.
+
+එහිදි දින දෙකක් ප්‍රතිකාර ලබමින් සිටින අතරතුරදි ඇය මෙලෙස මියගොස් තිබේ.
+
+පසුගිය 2022 මැයි මස 09 වැනි දින ගාලු මුවදොර පැවති අරගලයේදී ඇති වූ ප්‍රචණ්ඩකාරී සිදුවීම්වලින් පසුව ඇය පිළිබඳව සමාජයේ විශාල කතා බහක් ඇතිව තිබුණි.
+
+◼️
+
+[Data](articles/872c6e2f.json)
+
+---
+
+### සංශෝධනය කළ අස්වැසුම ගෙවීම් ගැසට් කෙරේ
+
+*2024-12-25 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204697) · `si`
+
+සංශෝධනයට ලක් කරන ලද අස්වැසුම සුබසාධක ගෙවීම් යෝජනා ක්‍රමය ගැසට් කර තිබේ.
+
+ඒ අනුව මින් පෙර දුප්පත් පවුල් සඳහා ගෙවනු ලැබූ දීමනාව රුපියල් 8500 සිට රුපියල් 10, 000 දක්වා ඉහළ නංවා තිබේ.
+
+තවද අන්ත දිළිඳු පවුල් සඳහා ගෙවනු ලැබූ රුපියල් 15,000 දීමනාව ද රුපියල් 17,500 දක්වා ඉහළ නැංවීමටද පියවර ගෙන තිබේ.
+
+සුබසාධක ප්‍රතිලාභ ගෙවීම් ලබන සමාජ කාණ්ඩ අතරේ සංක්‍රාන්තික, අවධානමට ලක්වූ සහ අන්ත දිළිඳු තැනැත්තන් සහා පවුල් 480,000ක් සඳහා පිළිවෙලින් රුපියල් 5,000 සහ 17,00ක මාසික සුබසාධක ප්‍රතිලාභ දීමනාවක් ගෙවනු ඇත.
+
+දුප්පත් පවුල් 960,000ක් සඳහා ගෙවනු ලබන ප්‍රතිලාභ දීමනාවන රුපියල් 10,000කි.
+
+එමගින් සංක්‍රාන්තික සහ අවධානමට ලක්වූ පවුල් සඳහා අස්වැසුම ගෙවනු ලබන කාලය 2025.03.31 දක්වා දීර්ඝ කර ඇත.
+
+ඒ අනුව 2024 මැයි මස 17 වැනි දිනැතිව නිකුත් කරන ලද අස්වැසුම සුභසාධක ගෙවීමේ යෝජනා ක්‍රමය අවලංගු වනු ඇත.
+
+...
+
+[Data](articles/9a3d89a5.json)
+
+---
+
+### The boy who lived: ‘Baby 81’, a survivor of the devastating Sri Lanka tsunami in 2004
+
+*2024-12-25 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104483/the-boy-who-lived-baby-81-a-survivor-of-the-devastating-sri-lanka-tsunami-in-2004) · `en`
+
+Pulled from the mud as an infant after the devastating Indian Ocean tsunami in 2004 and reunited with his parents following an emotional court battle, the boy once known as “Baby 81” is now a 20-year-old dreaming of higher education.
+
+Jayarasa Abilash’s story symbolised that of the families torn apart by one of the worst natural calamities in modern history, but it also offered hope. More than 35,000 people in Sri Lanka were killed, with others missing.
+
+The 2-month-old baby was washed away by the tsunami in eastern Sri Lanka and found some distance from home by rescuers. At the hospital, he was No. 81 on the admissions registry.
+
+His father, Murugupillai Jayarasa, spent three days searching for his scattered family, with little left to his name in those early hours but a pair of shorts.
+
+First he found his mother, then his wife. But their infant son was missing. A nurse had taken the baby from the hospital, but returned him after hearing that his family was alive.
+
+...
+
+[Data](articles/04a6fc9f.json)
+
+---
+
+### தம்பதியினர் மீது துப்பாக்கச் சூடு ; கணவன் உயிரிழப்பு
+
+*2024-12-25 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202092) · `ta`
+
+வெல்லவ பொலிஸ் பிரிவிற்குட்பட்ட மரலுவாவ பகுதியில் வீடொன்றில் தம்பதியினர் மீது இனந்தெரியாத ஒருவர் நேற்று (24) இரவு துப்பாக்கி சூட்டை மேற்கொண்டுவிட்டு அங்கிருந்து தப்பிச் சென்றுள்ளார்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்காகி காயமடைந்த தம்பதியினர் குருணாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், கணவன் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+மேலும், துப்பாக்கிச் சூட்டுக்கான காரணம் மற்றும் சந்தேகநபர்கள் தொடர்பிலான தகவல் இதுவரை வெளியாகவில்லை.  சந்தேக நபர்களை கைது செய்வதற்கான மேலதிக விசாரணைகளை வெல்லவ பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/4aafccb4.json)
+
+---
+
+### 45,000 police personnel deployed for security at churches
+
+*2024-12-25 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104482/45000-police-personnel-deployed-for-security-at-churches) · `en`
+
+Sri Lanka Police announced the deployment of around 45,000 officers to ensure security at Catholic churches across the island on Christmas Day.
+
+Police Media Spokesperson SSP Buddhika Manatunga stated that military personnel will also be stationed at key locations as part of the security measures.
+
+Meanwhile, the Prisons Department has granted a special opportunity for inmates to receive open visitors on Christmas Day, according to the Spokesman of the Department of Prisons, Gamini B. Dissanayake.
+
+Additionally, it has been decided to release a total of 389 inmates in celebration of the Christmas holiday.
+
+◼️
+
+[Data](articles/7033008f.json)
+
+---
 
 ### Request to prevent road accidents
 
@@ -98,6 +262,8 @@ Attached below is President Dissanayake’s full message for Christmas Day 2024:
 
 [Data](articles/03298f12.json)
 
+[Extended Data](ext_articles/03298f12.ext.json)
+
 ---
 
 ### Misty conditions expected in parts of the island
@@ -111,6 +277,8 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa, Centra
 ◼️
 
 [Data](articles/b2b08884.json)
+
+[Extended Data](ext_articles/b2b08884.ext.json)
 
 ---
 
@@ -313,6 +481,8 @@ Often mistaken as an ability, we are born with more or less of, empathy is actua
 ...
 
 [Data](articles/e3e4a6d8.json)
+
+[Extended Data](ext_articles/e3e4a6d8.ext.json)
 
 ---
 
@@ -2091,165 +2261,5 @@ The Dravida Munnetra Kazhagam has urged Tamil Nadu fishermen and their boats to 
 ...
 
 [Data](articles/8ed25ad7.json)
-
----
-
-### රජයට රු. කෝටි 381ක් අහිමි වූ ව්‍යාපෘති 32ක්
-
-*2024-12-24 17:11:32* · [`adalk`](https://www.ada.lk/breaking_news/රජයට-රු--කෝටි-381ක්-අහිමි-වූ-ව්‍යාපෘති-32ක්/11-413828) · `si`
-
-ආසියානු සංවර්ධන බැංකු ආධාර යටතේ 2020 වර්ෂයේදී පළාත් සභා අරමුදල් මගින් ක්‍රියාත්මක වූ ජල සැපයුම් ව්‍යාපෘති ඇතුළු ව්‍යාපෘති 32 ක් 2022 වර්ෂයේ අගෝස්තු මාසයේ සිට අතරමග නතරවීම නිසා ඒ සඳහා වැය කරන ලද රුපියල් කෝටි 381ක මුදලක් රජයට අහිමි වී ගොස් ඇති බව ජාතික විගණන කාර්යාලය මගින් ඉකුත් 22 දින නිකුත් කරන ලද විගණන වාර්තාවකින් අනාවරණය වෙයි.
-
-ජාතික විගණන කාර්යාලය සඳහන් කරන පරිදි මෙම ව්‍යාපෘති අතර මග නතර වී ඇත්තේ ඇතැම් ගොඩනැගිලි ඉදිකිරීම සඳහා පළාත් සභා ආවරණය වන සමහර ප්‍රදේශවල ජල සම්පාදන පහසුකම් නොමැතිවීම, එම ස්ථානවලට ගමන් කිරීම සඳහා ප්‍රවේශ මාර්ග නොමැතිවීම, ඉදිකිරීම් කරගෙන යන ගොඩනැගිලි අනුමත සැලසුම්වලට අනුකූල නොවීම නිසා බවද එම විගණන වාර්තාවේ සඳහන් වෙයි.
-
-වෙළෙඳපොළවල් ඉදිකිරීම, සත්ත්ව පාලන මධ්‍යස්ථාන, සමෘද්ධි ව්‍යාපෘති සඳහා ගොඩනැගිලි පවත්වා ගෙන යන ස්ථාන ආරම්භ කිරීම ප්‍රජාශාලා ඉදිකිරීම යන ආදී ස්ථාන ආරම්භ කර ඇත්තේ මහජන ඉල්ලීම්වලින් තොරව බවද අනාවරණය වේ.
-
-...
-
-[Data](articles/b489591a.json)
-
----
-
-### Archdiocese urges devotees to attend Christmas masses with confidence amid heightened security
-
-*2024-12-24 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104474/archdiocese-urges-devotees-to-attend-christmas-masses-with-confidence-amid-heightened-security) · `en`
-
-The Director of Public Relations for the Archdiocese of Colombo, Rev. Fr. Jude Krishantha, has reassured Catholic devotees and the public of their safety as they attend church services for Christmas celebrations, urging them to participate without fear or doubt.
-
-Addressing the media today (24), Rev. Fr. Krishantha emphasized that a comprehensive security plan has been implemented, with police and military personnel stationed at churches and religious venues across the country.
-
-“As the entire nation prepares for Christmas, Catholic devotees, in particular, will gather for the Midnight Mass tonight. The main service, presided over by His Eminence Malcolm Cardinal Ranjith, will commence at 11.40 p.m. at Our Lady of Sorrows Church, Ja-Ela,” he stated.
-
-...
-
-[Data](articles/bc8ca0ce.json)
-
-[Extended Data](ext_articles/bc8ca0ce.ext.json)
-
----
-
-### Untold Lessons: Economic Insights From History For Sri Lanka’s Crisis
-
-*2024-12-24 16:51:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/untold-lessons-economic-insights-from-history-for-sri-lankas-crisis/) · `en`
-
-With a new government in power, Sri Lanka finds itself grappling with immense economic challenges. The burden of enormous debts continues to weigh heavily on a fragile economy, necessitating robust growth to overcome these hardships. However, achieving such growth is complicated by a governmental predisposition toward centralised economic control, rooted in socialist-communal ideologies.
-
-These challenges are not unique to Sri Lanka; they echo the historical pitfalls of centralised economic systems. This essay explores three illustrative examples from American history: The failed socialism of the Plymouth Colony, the rapid recovery during the Forgotten Depression of 1920-1921, and the transformative innovation of the Gilded Age.
-
-These examples are not often the subject of discussion by contemporary economists, but they offer valuable insights into the perils of excessive government control and the potential of free-market principles to foster prosperity.
-
-...
-
-[Data](articles/c0146bb8.json)
-
----
-
-### බොර තෙල් නැව් තොග 6ක් මිලදී ගැනීමට අනුමැතිය
-
-*2024-12-24 16:49:56* · [`adalk`](https://www.ada.lk/breaking_news/බොර-තෙල්-නැව්-තොග-6ක්-මිලදී-ගැනීමට-අනුමැතිය/11-413827) · `si`
-
-බොරතෙල් නැව් තොග 06ක් මිලදී ගැනීමට කැබිනට් අනුමැතිය ලැබී තිබේ. ඒ අනුව 2025.04.01 සිට 2025.08.31 දක්වා කාලය තුළ මර්බන් වර්ගයේ බොරතෙල් නැව් තොග 06ක් මිලදී ගැනීමට මෙම අනුමැතිය හිමිව ඇත.  සිංගප්පූරු සමාගමකින් මෙම බොරතෙල් නැව් මිලදී ගැනීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
-
-◼️
-
-[Data](articles/45b1aefb.json)
-
----
-
-### Sri Lanka Treasuries yields down across maturities
-
-*2024-12-24 16:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-down-across-maturities-196223/) · `en`
-
-ECONOMYNEXT – Sri Lanka Treasuries yields edged lower across maturities at Wednesday’s auction, with all 120 billion rupees of bills offered being sold, data from the state debt office showed.
-
-The 3 month yield fell 04 basis points to 8.62 percent, with all 30 billion rupees offered sold.
-
-The 6 month yield fell 04 basis points to 8.77 percent, with all offered 75 billion rupees of bills sold.
-
-The 12-month yield fell 06 basis points to 8.96 percent, with all 50 billion rupees of bills sold.
-
-All maturities are offered on tap after the auction. (Colombo/Dec18/2024)
-
-◼️
-
-[Data](articles/8acb342c.json)
-
----
-
-### දිළින්දන්ට සතුටක් දෙමින් නත්තල ගත කරන්න
-
-*2024-12-24 16:37:53* · [`adalk`](https://www.ada.lk/breaking_news/දිළින්දන්ට-සතුටක්-දෙමින්-නත්තල-ගත-කරන්න/11-413826) · `si`
-
-වෙළෙඳ ආර්ථික ක්‍රමවේදය තුළ ඉදිරිපත් කරන නත්තල පිළිබඳ ආකල්පයට වහල් නොවී, දිළින්දන්ට සතුටක් ලබා දෙමින් නත්තල ගත කරන ලෙස සියලු ක්‍රිස්තු භක්තිකයන්ගෙන් ඉල්ලා සිටින බව කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණෝ පැවසූහ.
-
-උදා වූ නත්තල් දිනය සඳහා පණිවිඩයක් නිකුත් කරමින් උන්වහන්සේ මේ බව සඳහන් කළහ. එහිදී වැඩිදුරටත් කාදිනල් හිමිපාණන් මෙලෙස අදහස් දක්වා සිටියහ.
-
-“මේ අවස්ථාවේදී ලැබුවා වූ නත්තල ඔබ සියලු දෙනාටම දේව ආශීර්වාදයෙන් පිරුණු, ඒ වගේම සෑම අතින්ම සතුට දනවන උත්සවයක් බවට පත්වේවා කියලා පළමුව ප්‍රාර්ථනා කරනවා. නත්තල කියලා කියන්නේ ක්‍රිස්තුස් වහන්සේගේ මෙලොව සිදුවූ උපත සමරන මොහොතයි. ශුද්ධ වූ බයිබලයේ ඒ උපත පුදුමාකාර විදියට සිදු වුණා කියලා සඳහන් වෙනවා. දරුවාව ඔතන්නට රෙදි කඩක් තිබුණේ නැති බවත්, දරුවා සතපවන්නට ඇඳක් තිබුණේ නැති බවත් ප්‍රකාශ වෙනවා, පැහැදිලි වෙනවා.
-
-...
-
-[Data](articles/b28625eb.json)
-
----
-
-### අද ප්‍රධාන දේවමෙහෙය ජා-ඇළ වික්ෂෝප දේව මාතා දෙව්මැදුරේදී
-
-*2024-12-24 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204677) · `si`
-
-කිසිදු බියක් හෝ සැකයක් නොමැතිව දේවස්ථානවලට ගොස් නත්තල වෙනුවෙන් ආගමික වාතාවත්වල නිරතවන්නැයි කොළඹ අගරදගුරු පදවි ජන සන්නිවේදන අධ්‍යක්ෂ ගරු ජූඩ් ක්‍රිෂාන්ත පියතුමා කිතුණු බැතිමතුන්ගෙන් සහ ජනතාවගෙන් ඉල්ලා සිටියි.
-
-අදාළ ආගමික ස්ථානවල, දේවස්ථානවල පොලීසිය සහ හමුදාවන් යොදවා විශේෂ ආරක්ෂක වැඩපිළිවෙලක් සකස් කර ඇති බවද ගරු ජූඩ් ක්‍රිෂාන්ත පියතුමා පෙන්වා දෙයි.
-
-අද (24) මාධ්‍ය වෙත අදහස් දක්වමින් ගරු ජූඩ් ක්‍රිෂාන්ත පියතුමා මේ බව පැහැදිලි කළේය.
-
-"නත්තල සඳහා මුළු ලාංකික ජනතාවම සූදානම් වෙද්දි විශේෂයෙන්ම කිතුණු බැතිමතුන් සියලුදෙනා අද මධ්‍යම රාත්‍රියේ දිව්‍ය මෙහෙයට සහභාගී වෙනවා. අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිගේ ප්‍රධානත්වයෙන් පැවැත්වෙන ප්‍රධාන දේවමෙහෙය ජා-ඇළ වික්ෂෝප දේවමාතා දෙව්මැදුරේදී රාත්‍රී 11.40 ට ආරම්භ වෙනවා."
-
-"කොළඹ පදවිය සහ ලංකාවේ අනෙකුත් පදවිවල අතිඋතුම් රදගුරුතුමන්ලා ඒ ඒ විශේෂ දේවස්ථානවලදී එම දිව්‍ය යාගයන් සිදුකරනවා. ඒ වගේම කතෝලික හැම දේවස්ථානයකදීම අද මධ්‍යම රාත්‍රී දිව්‍ය යාගය ඉතා උත්කර්ෂවත්ව ප්‍රීතියෙන් සමරනු ලබනවා."
-
-...
-
-[Data](articles/dd23501e.json)
-
----
-
-### Sri Lanka stocks close up, after early selling pressure
-
-*2024-12-24 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-early-selling-pressure-196220/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday ahead of the Christmas holiday, data on its site showed.
-
-The broader ASPI closed up 0.98 percent, or 147.79 points, at 15,168; while the more liquid S&P SL20 Index closed up 0.82 percent, or 36.83 points, at 4,535.
-
-Market sentiment has remained bullyish following the rating upgrade by Fitch Ratings, market participants have said. “This was a confidence booster.”
-
-Top positive contributors to the ASPI were Hayleys (up at 123.75), Central Finance (up at 184.25), C T Holdings (up at 329.75), Sampath Bank (up at 111.00), and Richard Pieris and Co (up at 26.90).
-
-Top turnover generators were Browns Investments (down at 6.80), Commercial Bank (up at 139.25), Sampath Bank, Royal Ceramics (up at 39.50), and Hatton National Bank (up at 284.25).
-
-Crossings were recorded on Commercial Bank, Royal Ceramics, Ambeon Capital (up at 23.40), Beruwala Resorts (up at 4.20), Dialog Axiata (up at 11.40), and The Kingsbury (up at 12.70).
-
-...
-
-[Data](articles/379460c7.json)
-
----
-
-### 2023දී දළ දේශීය නිශ්පාදිතයට වැඩිම දායකත්වය බස්නාහිරින්
-
-*2024-12-24 16:28:56* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-දළ-දේශීය-නිශ්පාදිතයට-වැඩිම-දායකත්වය-බස්නාහිරින්/11-413825) · `si`
-
-2023 වසරේ රුපියල් බිලියන 27,630ක අගයක් ගත් මෙරට නාමික දළ දේශීය නිෂ්පාදිතයේ පළාත් මට්ටමින් වැඩිම දායකත්වය බස්නාහිර පළාතෙන් ලැබී ඇති අතර, එය ප්‍රතිශතයක් ලෙස සියයට 43.7ක් අගයක් ගෙන ඇතැයි ශ්‍රී ලංකා මහ බැංකුව නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-එමෙන්ම සමස්ත නාමික දළ දේශීය නිෂ්පාදිතය පෙර වසරට වඩා අඩු වේගයකින් වුවද 2023 දී වර්ධනය වී ඇතැයි ශ්‍රී ලංකා මහ බැංකුව සඳහන් කරයි.
-
-2022 වසරේ දළ දේශීය නිෂ්පාදිතයේ වැඩිම පළාත් දායකත්වයද ( සියයට 43.9) බස්නාහිර පළාතෙන් ලැබී තිබුණු අතර, 2023 දී එහි සුළු අඩුවක් වී ඇතැයි මහ බැංකුව පවසයි.
-
-දළ දේශීය නිෂ්පාදිතයේ පළාත් මට්ටමෙන් දෙවන දායකත්වය (සියයට 10.9 ) වයඹ පළාතෙන්ද, තෙවන දායකත්වය (සියයට 10.3) මධ්‍යම පළාතෙන්ද ලැබී ඇතැයි මෙම නිවේදනයේ සඳහන් වේ.
-
-සෙසු දායකත්ව ස්ථාන ප්‍රතිශත අනුව පිළිවෙළින් දකුණ (9.3), සබරගමුව (7.0), උතුරු මැද (4.8), ඌව (4.7 ), නැගෙනහිර (4.7), උතුර (4.5) යන පළාත්වලින් ලැබී තිබේ.
-
-...
-
-[Data](articles/cdd87eb1.json)
 
 ---

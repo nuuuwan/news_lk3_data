@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 12:17:17**
+As of **2024-12-25 12:43:18**
 
 ## Newspaper Stats
 
@@ -1204,15 +1204,15 @@ The position of Director General of Combined Services is pivotal, given its exte
 
 *2024-12-25 04:59:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp3z7rgd5vwo) · `si`
 
-වත්මන් ආණ්ඩුව පත්වු වහාම කරන ලද පත්වීම් අතර රාජ්‍ය ප්‍රධානීන් පත් කිරිම ඉතාම ඉක්මනින් සිදුවු අතර එම පත්විම් ලබා මාස තුනක් ගත වන විට ජාතික රූපවාහිනි සභාපති ධූරය සම්බන්ධව ආන්දෝලනාත්මක තත්ත්වයක් මතුව තිබේ.
+වත්මන් ආණ්ඩුව පත් වූ වහා ම කරන ලද පත්වීම් අතර රාජ්‍ය ප්‍රධානීන් පත් කිරීම ඉතා ම ඉක්මනින් සිදුවූ අතර එම පත්වීම්  ලබා මාස තුනක් ගත වන විට ජාතික රූපවාහිනි සභාපති ධූරය සම්බන්ධව ආන්දෝලනාත්මක තත්ත්වයක් මතුව තිබේ.
 
 රූපවාහිනි සභාපතිවරයා ලෙස කටයුතු කළ සෙනේෂ් දිසානායක බණ්ඩාර සිය ධූරයෙන් ඉවත් වී ඇති අතර සමාජ මාධ්‍ය තුළ එය ලැව් ගින්නක් සේ පැතිර ගියේ ය.
 
 කතානායක අශෝක රන්වල ධූරයෙන් ඉල්ලා අස්වීමට තීරණය කරයිඅශෝක රංවල: කතානායක ධූරයෙන් ඉල්ලා අස්වීම සහ ජාතික ජනබලවේග ආණ්ඩුවේ ඉදිරි ගමන
 
-වත්මන් ආණ්ඩුව කරන ලද ප්‍රධාන පෙළේ පත් කිරිමක් අත්හරින ලද දෙවන පුද්ගලයා ඔහු ය. කතානායකවරයා ලෙස කටයුතු කළ අශෝක රන්වලට මීට පෙර  සිය ධූරයෙන් ඉවත් වන්නට සිදුවුයේ ඔහුගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව මතුවු ගැටලුකාරි තත්ත්වයක් හේතුවෙනි.
+වත්මන් ආණ්ඩුව කරන ලද ප්‍රධාන පෙළේ පත් කිරීමක් අත්හරින ලද දෙවන පුද්ගලයා ඔහු ය. කතානායකවරයා ලෙස කටයුතු කළ අශෝක රන්වලට මීට පෙර සිය ධූරයෙන් ඉවත් වන්නට සිදුවූයේ ඔහුගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව මතුවු ගැටලුකාරි තත්ත්වයක් හේතුවෙනි.
 
-ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන්ම වෘත්තිය සමිති සහ ඇතැම් නිලධාරින් සමග ඇති වු ගැටලු හේතුවෙන් ඔහුට සිය ධුරය අහිමි වු බවට කටකතාවක්  පැතිරුණි.
+ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ, පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන් ම වෘත්තිය සමිති සහ ඇතැම් නිලධාරීන් සමග ඇති වූ ගැටලු හේතුවෙන් ඔහුට සිය ධූරය අහිමි වූ බවට කටකතාවක්  පැතිරිණි.
 
 ...
 
@@ -1499,6 +1499,8 @@ In both groups, the top two teams will be eligible to play in the semi -finals.
 The British Institute of Management and Technology (BIMT Campus), a leading private education institute, secured two prestigious awards at the Entrepreneur Awards – Western Province 2024, organised by the Ministry of Industries, the National Chamber of Commerce, and the National Enterprise Development Authority.
 
 The award ceremony was held at the BMICH in Colombo, and it celebrated entrepreneurship across multiple sectors. The awards were received by BIMT’s Chief Executive Officer Farshath Jamal, Finance Manager Afzan Nazar, and Student Recruitment Manager Gugan Santhirasekaram.
+
+Browns Investments, ComBank and Sampath Bank lead trading activity on CSE
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 

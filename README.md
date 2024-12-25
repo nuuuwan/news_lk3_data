@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 09:02:30**
+As of **2024-12-25 09:27:17**
 
 ## Newspaper Stats
 
-*Scraped **61,930** Articles*
+*Scraped **61,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,753
 economynextcom | 3,773
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,913
-adaderanalk | 7,560
+adalk | 5,914
+adaderanalk | 7,563
 tamilmirrorlk | 8,857
 virakesarilk | 10,243
 adaderanasinhalalk | 10,694
@@ -26,31 +26,89 @@ adaderanasinhalalk | 10,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,528 (99.4%) of 61,930 articles have been extended.
+61,531 (99.3%) of 61,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### මාර්ග අනතුරු වළක්වා ගන්නැයි ඉල්ලීමක්
+### Request to prevent road accidents
 
 *2024-12-25 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204696) · `si`
 
-උත්සව සමය තුළදී සිදුවන මාර්ග අනතුරු වළක්වා ගැනීමට පියවර ගතයුතු බව ශ්‍රී ලංකා ජාතික රෝහලේ හදිසි අනතුරු අංශයේ අධ්‍යක්ෂ වෛද්‍ය ඉන්දික ජාගොඩ මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු පවසන්නේ අධික වේගය නිසා සහ ආරක්ෂාකාරී ක්‍රියාමාර්ග අනුගමනය නොකිරීම ආදී කරුණු හේතුවෙන් සිදුවන රිය අනතුරුවල ඉහළ යාමක් පෙන්නුම් කරන බවයි.
 
-මාර්ග අනතුරු වළක්වා ගතහැකි තත්ත්වයක් බවත්, එනිසා ආක්ෂාකාරී ක්‍රියාමාර්ග අනුගමනය කරන ලෙසත් ඔහු ජනතාවගෙන් ඉල්ලා සිටියි.
 
-විශේෂයෙන් වෛද්‍ය ඉන්දික ජාගොඩ මහතා පවසා සිටියේ යතුරුපැදිවල ගමන්කරන්නන් හෙල්මට් පැළඳීම අනිවාර්ය කරගත යුතු බවයි.
+"Dr. Indika Jagoda urges preventive measures against festive season road accidents. He emphasizes high speeds and lack of safety measures as key factors. Mandatory helmet use for motorbike riders and strict enforcement of front seat seatbelt usage are recommended."
 
-එමෙන්ම වාහනවල ගමන් කරන්නන්ගෙන් ආසන පටි පළදින්නේ ඉදිරිපස අසුනේ යන පුද්ගලයන් පමණක් බවත් හෙතෙම පෙන්වා දෙයි.
+🟩
 
-කෙසේ නමුත් යම් අනතුරක් සිදු වූ විට එලෙස ආසන පටි නොපළදින පිටුපස අසුනේ යන අයගේ අනතුරුවල බරපතළකම ඉතා ඉහළ බව ඔහු පවසයි.
+The Director of the Accident Division of the Sri Lanka National Hospital, Dr. Indika Jagoda, says that steps should be taken to prevent accidents during the festive season.
+
+He says that due to the high speed and not following the safety measures, it is impossible to increase in accidents.
+
+He is also requested to prevent road accidents and that he is to follow mongoons.
+
+Dr. Indika Jagoda said the motorbikes should be compulsory to wear helmets.
+
+He also pointed out that only individuals traveling in the front seat.
+
+However, the seriousness of the back of the seat of the seat belt is very high.
 
 ◼️
 
 [Data](articles/44220314.json)
+
+[Extended Data](ext_articles/44220314.ext.json)
+
+---
+
+### Christmas reminds us to reflect, forgive and reconcile - PM Harini
+
+*2024-12-25 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104481/christmas-reminds-us-to-reflect-forgive-and-reconcile-pm-harini) · `en`
+
+Prime Minister Dr. Harini Amarasuriya, in her Christmas message, emphasized the essence of the season as a time for “togetherness, gratitude, and peace.”
+
+She highlighted the importance of family and community bonds during this period of national transition, stating that “Coming together, sharing meals, and supporting one another strengthens not only our bonds but also our resilience. These moments remind us that building a healthy community and a strong nation begins at home.”
+
+“We also acknowledge those who cannot be with their loved ones during this festive season. To those working far from home, both within our country and overseas, to support their families, and to the essential service workers who sustain our communities thank you.
+
+...
+
+[Data](articles/600db1f6.json)
+
+---
+
+### President AKD calls for unity and humanity in Christmas message
+
+*2024-12-25 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104480/president-akd-calls-for-unity-and-humanity-in-christmas-message) · `en`
+
+President Anura Kumara Dissanayake, in his Christmas Day message, has urged the nation to transcend divisions and embrace the core values of unity, peace, and humanity, as exemplified by Jesus Christ.
+
+Addressing the current challenges faced by the nation, the President called for a “transformative social revival” to achieve a just, compassionate, and equitable society.
+
+He urged citizens to pledge their commitment to creating “a strong, stable economy, ensure social justice, and uphold a political culture rooted in democracy and integrity.”
+
+Attached below is President Dissanayake’s full message for Christmas Day 2024:
+
+...
+
+[Data](articles/03298f12.json)
+
+---
+
+### Misty conditions expected in parts of the island
+
+*2024-12-25 08:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104479/misty-conditions-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says mainly fair weather will prevail over most parts of the island.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern, Uva and North-central provinces during the morning, it added.
+
+◼️
+
+[Data](articles/b2b08884.json)
 
 ---
 
@@ -172,17 +230,23 @@ The Higantha's Malcolit Cardinal Ranjith published its Christmas message, and sa
 
 ---
 
-### ලංකාවේ බොහෝ ප්‍රදේශවලට අද මීදුම්  තත්ත්වයක්
+### Millions of areas in Sri Lanka today
 
 *2024-12-25 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204691) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල අද (25) දිනයේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka weather alert: Heavy rain expected in Western, Sabaragamuwa, Central, Southern, Uva, and North-Central provinces today.
 
-එමෙන්ම බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, ඌව සහ උතුරු-මැද පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+🟩
+
+The Department of Meteorology says that there is a key weather in many parts of the island today (25).
+
+In some places in the Western, Sabaragamuwa, Central, South, South, Uva and North-central provinces, the Department said.
 
 ◼️
 
 [Data](articles/650d5f61.json)
+
+[Extended Data](ext_articles/650d5f61.ext.json)
 
 ---
 
@@ -231,6 +295,8 @@ There must be uniform criteria for eligibility to apply for and obtain financial
 ...
 
 [Data](articles/8aa41e2e.json)
+
+[Extended Data](ext_articles/8aa41e2e.ext.json)
 
 ---
 
@@ -1514,6 +1580,22 @@ It can only be said that the measures are being taken. You can see its results. 
 
 ---
 
+### බන්ධනාගාර දෙපාර්තමේන්තුවේ අතිකාල හා නිවාඩු දීමනා වෙනුවෙන් 2023දී රු. කෝටි 98ක් ගෙවලා
+
+*2024-12-24 18:11:37* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාර-දෙපාර්තමේන්තුවේ-අතිකාල-හා-නිවාඩු-දීමනා-වෙනුවෙන්-2023දී-රු--කෝටි-98ක්-ගෙවලා/11-413831) · `si`
+
+බන්ධනාගාර දෙපාර්තමේන්තුව 2023 වර්ෂයේ සේවක වැටුප් හා අනෙකුත් දීමනාවලට අමතරව අතිකාල හා නිවාඩු දින දීමනා වෙනුවෙන් පමණක් රුපියල් රුපියල් ලක්ෂ 9820 ක් වැයකර තිබෙන බවත්, එම මුදල 2022 වර්ෂයට සාපේක්ෂව රුපියල් ලක්ෂ 1060 ක වැඩි වීමක් බවත් ජාතික විගණන මහ ලේකම් කාර්යාලය සිදුකළ විගණන පරීක්ෂණයකදී තහවුරු වී ඇත.
+
+මහා භාණ්ඩාගාරය 2023 ජනවාරි 27 දිනැති 01/2023 අයවැය චක්‍රලේඛනය මගින් අතිකාල දැඩි ලෙස පාලනය කර තිබූ තත්ත්වයක් තුළ මෙතරම් මුදල් ප්‍රමාණයක් අතිකාල සඳහා වැයකර තිබූ බවද විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
+
+වැලිකඩ බන්ධනාගාරයේ සිරකරුවන් බන්ධනාගාර නිලධාරීන්ගේ නිවාස පරිශ්‍රයන්හි 2023 වර්ෂයේ සේවයේ යෙදවීම වෙනුවෙන් පමණක් බන්ධනාගාර නිලධාරීන් මිනිස් දින 234 ක් වැයකර තිබූ බවද එම විගණන වාර්තාවේ සඳහන් වේ. සිරකරුවන් බන්ධනාගාර නිලධාරීන්ගේ නිවාස පරිශ්‍රයන්හි සේවයේ යෙදවීම් 2023 වර්ෂයෙහි අවස්ථා 233 ක් වාර්තා වූ බවද, ඒ සඳහා සිරකරුවන් රැගෙන යෑමට අවස්ථා 62 කදී බන්ධනාගාර මූලස්ථානයේ සංචිත වාහන 09 ක් කිලෝ මීටර් 372 ක් ධාවනය කර තිබූ බවද එම විගණන වාර්තාව මගින් වැඩි දුරටත් පෙන්වා දී තිබේ.
+
+...
+
+[Data](articles/6fc2b46d.json)
+
+---
+
 ### Sudden Testing at Food Stations in Jaffna District - Dr.. Ketheeswaran
 
 *2024-12-24 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202069) · `ta`
@@ -2173,111 +2255,5 @@ The DP, which has a majority in parliament, is taking the step after Han postpon
 [Data](articles/454f6513.json)
 
 [Extended Data](ext_articles/454f6513.ext.json)
-
----
-
-### Bribery Police Sergeant arrested
-
-*2024-12-24 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202036) · `ta`
-
-Sergeant arrested for bribery in Trincomalee. Demanded 5000 rupees for handling complaint. Under investigation, to appear in court.
-
-🟩
-
-The Bribery Investigation Unit said that a Sergeant of the Trincomalee Headquarters Division was arrested on Monday (23) when a complaint was bribed from a complainant.
-
-A man from Thambalakamuwa has lodged a complaint at the Trincomalee Police Station regarding the money dispute.
-
-The police sergeant has demanded a bribe of 5,000 rupees, claiming that the complaint can be made and made necessary arrangements to get the money to the complainant.
-
-In addition, the suspect is being investigated by the Uppuweli police and is to be produced before the Trincomalee Magistrate's Court.
-
-◼️
-
-[Data](articles/6aa9048d.json)
-
-[Extended Data](ext_articles/6aa9048d.ext.json)
-
----
-
-### ඇමති හඳුන්නෙත්ති ලෙස පෙනී සිටිමින් අයෙක් මුදල් එකතු කිරීමේ ජාවාරමක
-
-*2024-12-24 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204676) · `si`
-
-තමන් ලෙස පෙනී සිටින පුද්ගලයෙක් වීඩියෝ ඇමතුම් ලබාගනිමින් විදේශගත ශ්‍රී ලාංකිකයන්ගෙන් මුදල් එකතු කරන ජාවාරමක නිතරවී සිටින බව කර්මාන්ත අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා පවසයි.
-
-ඔහු ඒ සම්බන්ධයෙන් අද (24) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කිරීමෙන් පසු මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
-
-"මගේ නම පාවිච්චි කරලා මම හැටියටම පෙනී ඉන්න පුද්ගලයෙක් හෝ කණ්ඩායමක් විදේශ රටවල් කිහිපයක මගේ නමින් ආධාර එකතු කරන්න පටන් ගෙන. විශේෂයෙන් වට්ස්ඇප් ගෲප් පාවිච්චි කරනවා. ජපානයේ, දකුණු කොරියාවේ, එංගලන්තයේ වගේ රටවල අපිට හිතවත් අයට කතා කරලා තියෙනවා."
-
-"පළවෙනි තත්පර කිහිපයේ වීඩියෝ කෝල් එකකුත් ගන්නවා. අපැහැදිලි ලෙස... අසනීපයි කියලා, කටහඬ අපැහැදිලි කියලා. ඔහු කියන්නේ ආධාර ලබාදෙන්න කියලා. ඒ වෙනුවෙන් ඔවුන් බැංකු ගිණුම් කිහිපයකුත් ඉදිරිපත් කරලා තියෙනවා."
-
-"අපිට දැනගන්න ලැබුණු තොරතුරු තමයි මේ තියෙන්නේ. අද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට මේ තොරතුරු ලබාදුන්නා."
-
-...
-
-[Data](articles/e213953c.json)
-
----
-
-### Climate Changes - Continued Challenges and Global Impacts
-
-*2024-12-24 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202043) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Climate change: Rising global temps, melting glaciers, extreme weather. Human activities like fossil fuel use, deforestation cause greenhouse gas emissions. Impacts include sea level rise, droughts, heatwaves, loss of biodiversity. Solutions: Reduce emissions, transition to renewables, protect ecosystems, adapt infrastructure. International cooperation crucial.
-
-🟩
-
-Climate changes are the most talked about and the problem of the most talked about in the present world.. Climate changes are long -term differences of global or regional climate style, especially the average temperature of the Earth.
-
-It is basically a significant and long -standing climate change that appears in the Earth's constituency due to natural activities and human activities.
-
-Although climate change is not a recent event, the Earth's climate has been changed for millions of years due to various factors, such as volcanic activity, geographical changes and solar radiation.
-
-Increasing gas emission, however, has rapidly increased the speed we feel and enjoy.It is called "human climate changes."
-
-The Earth is facing unprecedented changes in the past century, including the rise of global temperature, the melting of polar region glaciers, the change of climate style, and the increasing of marginal climate events.
-
-...
-
-[Data](articles/7503b5cf.json)
-
-[Extended Data](ext_articles/7503b5cf.ext.json)
-
----
-
-### The current government has legalized lying
-
-*2024-12-24 15:50:40* · [`adalk`](https://www.ada.lk/breaking_news/වත්මන්-රජය-බොරු-කීම-නීතිගත-කර-තිබෙනවා/11-413823) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Current govt legalized lying, took responsibility for all parties. Promised public hopes but failed. First time govt allied with coconut industry. Doubts raised about legal credentials. Security removed from ex-President Mahinda Rajapaksa. Next Pradeshiya Sabha perspective submitted to Point Pedro. Public to vote in Provincial Council election.
-
-🟩
-
-The Government has taken the responsibility of the present government and has the responsibility of all parties in the current government and the current government has taken the responsibility of all parties.
-
-He said that the present government had the power of all parties, which had not had the executive power of the President Mahinda Rajapaksa and the Pradeshiya Sabha.
-
-MP Namal Rajapaksa had expressed his views to the Sri Dalada Madu, after the day to pay homage to the Sri Dalada Madu.
-
-The current government had given a great hope to the public, he had to fulfill the promises of the government.
-
-The first time in history has been legalized for the first time in history that the government is with the coconut.
-
-He said that when a doubt had been arranged on his legal degree, it was an ordinary event to turn it to the opposition when they were resigned.
-
-...
-
-[Data](articles/dc39586f.json)
-
-[Extended Data](ext_articles/dc39586f.ext.json)
 
 ---

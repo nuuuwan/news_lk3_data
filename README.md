@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 03:27:17**
+As of **2024-12-26 03:43:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,614 (99.3%) of 62,052 articles have been extended.
+61,616 (99.3%) of 62,052 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,37 +114,53 @@ The legal action has been taken against 1368 persons in violation of road rules,
 
 ---
 
-### இந்திய வங்கிக்கு எதிராக மத்திய வங்கி அபராதம்
+### Central bank fines against Indian bank
 
 *2024-12-26 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202168) · `ta`
 
-இந்திய அரச வங்கியொன்றுக்கு இலங்கை மத்திய வங்கியின் நிதியியல் புலனாய்வுப்பிரிவு 2 மில்லியன் ரூபா அபராதம் விதித்துள்ளது.
+Sri Lanka's central bank fined India's Federal Bank 2 million rupees for violating financial reporting laws. The bank operates branches in Colombo and Jaffna and vows to prevent similar incidents.
 
-இலங்கையின் 2006 ஆம் ஆண்டு 6 ஆம் இலக்க நிதியியல் பரிமாற்ற அறிக்கையிடல் சட்டத்தின் சரத்துக்களுக்கு அமைவாக செயற்படாமையினாலேயே மத்திய வங்கியினால் மேற்குறிப்பிட்டவாறு அபராதம் விதிக்கப்பட்டுள்ளது.
+🟩
 
-இதுகுறித்து கருத்து வெளியிட்டுள்ள அவ்வங்கி, இலங்கையில் கொழும்பிலும், யாழ்ப்பாணத்திலும் தமது வங்கியின் கிளைகள் இயங்கிவருவதாகவும், எதிர்வருங்காலத்தில் இவ்வாறான சம்பவங்கள் இடம்பெறுவதைத் தவிர்ப்பதற்கு அவசியமான நடவடிக்கைகள் எடுக்கப்படும் எனவும் தெரிவித்துள்ளது.
+The Central Bank of Sri Lanka has imposed a fine of 2 million rupees to an Indian state bank.
+
+The Federal Bank has been fined the West of Sri Lanka due to the failure of the Financial Transaction Reporting Act No. 6 in Sri Lanka.
+
+Commenting on this, it said that its bank's branches are operating in Colombo and Jaffna in Sri Lanka and that necessary steps will be taken to avoid such incidents in the future.
 
 ◼️
 
 [Data](articles/9b8180c1.json)
 
+[Extended Data](ext_articles/9b8180c1.ext.json)
+
 ---
 
-### அதிவேக நெடுஞ்சாலையில் 30தொன் எடையுடன் பயணித்த லொறி பள்ளத்தில் வீழ்ந்து விபத்து
+### A lorry crashed into a traveler weighing 30 tons on highway
 
 *2024-12-26 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202167) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் 30 தொன் டொலமைட் மூடைகளை ஏற்றிச் சென்ற லொறி சாரதியின் கட்டுப்பாட்டை இழந்து பள்ளத்தில் விழுந்து விபத்துக்குள்ளானது.
+Lorry carrying 30-ton dolomite crashes into ditch on southern highway, driver injured. No casualties reported. Initial investigation reveals driver slept for 3 days before accident. Police investigating further.
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் புதன்கிழமை (25) பிற்பகல் கஹதுடுவ நுழைவாயிலின் 6 கிலோ மீற்றர் மைல்கல்லுக்கு அருகில் மேற்படி விபத்து சம்பவம் பதிவாகியுள்ளது.
+🟩
 
-எல்பிட்டிய நோக்கி பயணித்துக் கொண்டிருந்த லொறி கட்டுபாட்டை இழந்து பாதுகாப்பு வேலியின் மீது மோதி சுமார் 30 அடி பள்ளத்தில் விழுந்து விபத்துக்குள்ளானது. சம்பவத்தில் உயிர் சேதம் ஏதும் பதிவாகவில்லை எனவும் சாரதி சிறு காயங்களுடன் உயிர் தப்பியுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The lorry driver, who carried 30 tonnes of dolomite on the southern highway, lost control of the driver and crashed into a ditch.
 
-விபத்துக்குள்ளான லொறி 50 கிலோ கிராம் எடையுடைய சுமார் 600 டொலமைட் மூட்டைகளை ஏற்றிச் சென்றுள்ளதுடன், விபத்துக்குள்ளாகி பள்ளத்தில் விழுந்த நிலையில் லொறி மூன்று முறை உருண்டு சென்றுள்ளதாகவும் ஆரம்பக்கட்ட விசாரணைகளின் போது தெரியவந்துள்ளது.
+The accident occurred near the 6km milestone of the Kahaduduwa Gate on Wednesday afternoon on the southern highway.
 
-...
+The lorry was traveling towards Elpitiya and crashed into a security fence and crashed into a 30 -foot ditch. No casualties were reported in the incident and the driver had survived with minor injuries, police said.
+
+Initial investigations revealed that about 600 dolomite bundles weighing 50 kilograms of lorry had been loaded and the lorry had been rolled three times as the crash fell into a ditch.
+
+It was also revealed that the driver of the vehicle had not been sleeping for three days and that the lorry had lost control of the sleeping disturbance while driving.
+
+Southern Highway Police are conducting further investigations into the incident.
+
+◼️
 
 [Data](articles/6a7396bd.json)
+
+[Extended Data](ext_articles/6a7396bd.ext.json)
 
 ---
 

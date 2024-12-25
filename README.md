@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 22:02:32**
+As of **2024-12-25 22:15:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,713
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,587 (99.3%) of 62,031 articles have been extended.
+61,589 (99.3%) of 62,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -258,6 +258,8 @@ He urged the public to be particularly vigilant and take precautions to protect 
 
 [Data](articles/4c2743ce.json)
 
+[Extended Data](ext_articles/4c2743ce.ext.json)
+
 ---
 
 ### The 20th anniversary of the tsunami disaster
@@ -408,19 +410,25 @@ The arrested suspects are from Gampola, Bogawantalawa and Paragaduwa, aged 21, 5
 
 ---
 
-### ரயில் டிக்கெட்டுக்கு பதிலாக ப்ரீபெய்டு கார்டு
+### Prepaid card instead of train ticket
 
 *2024-12-25 18:20:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-டிக்கெட்டுக்கு-பதிலாக-ப்ரீபெய்டு-கார்டு/175-349284) · `ta`
 
-தற்போது பயன்படுத்தப்படும் ரயில் டிக்கெட்டுக்கு பதிலாக முன்பணம் செலுத்திய ரயில் அணுகல் அட்டையை அறிமுகப்படுத்த ரயில்வே திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+Railway introduces prepaid access card, replacing traditional tickets. New system to launch before April, featuring technical equipment at stations for seamless travel.
 
-அதன்படி, வரும் ஏப்ரலுக்கு முன்னதாக இந்த புதிய அட்டையை அறிமுகப்படுத்த உள்ளதாக ரயில்வே செய்தித் தொடர்பாளர் தெரிவித்தார்.
+🟩
 
-அந்த அட்டைகளைப் பயன்படுத்துபவர்கள் ஒவ்வொரு நிலையத்திலிருந்தும் அணுகுவதற்குத் தேவையான தொழில்நுட்ப கருவிகள் நிறுவப்படும் என்றும் அவர் குறிப்பிட்டார்.
+The Department of Railways has taken steps to introduce a railway access card instead of the current train ticket.
+
+Accordingly, the railway spokesman said the new card would be introduced before April.
+
+He added that the use of the cards will be installed by the technical equipment required for access to each station.
 
 ◼️
 
 [Data](articles/422a253c.json)
+
+[Extended Data](ext_articles/422a253c.ext.json)
 
 ---
 

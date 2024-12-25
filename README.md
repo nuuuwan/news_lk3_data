@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 08:45:46**
+As of **2024-12-25 09:02:30**
 
 ## Newspaper Stats
 
-*Scraped **61,929** Articles*
+*Scraped **61,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 5,913
 adaderanalk | 7,560
 tamilmirrorlk | 8,857
 virakesarilk | 10,243
-adaderanasinhalalk | 10,693
+adaderanasinhalalk | 10,694
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,527 (99.4%) of 61,929 articles have been extended.
+61,528 (99.4%) of 61,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
+
+### මාර්ග අනතුරු වළක්වා ගන්නැයි ඉල්ලීමක්
+
+*2024-12-25 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204696) · `si`
+
+උත්සව සමය තුළදී සිදුවන මාර්ග අනතුරු වළක්වා ගැනීමට පියවර ගතයුතු බව ශ්‍රී ලංකා ජාතික රෝහලේ හදිසි අනතුරු අංශයේ අධ්‍යක්ෂ වෛද්‍ය ඉන්දික ජාගොඩ මහතා පවසයි.
+
+ඔහු පවසන්නේ අධික වේගය නිසා සහ ආරක්ෂාකාරී ක්‍රියාමාර්ග අනුගමනය නොකිරීම ආදී කරුණු හේතුවෙන් සිදුවන රිය අනතුරුවල ඉහළ යාමක් පෙන්නුම් කරන බවයි.
+
+මාර්ග අනතුරු වළක්වා ගතහැකි තත්ත්වයක් බවත්, එනිසා ආක්ෂාකාරී ක්‍රියාමාර්ග අනුගමනය කරන ලෙසත් ඔහු ජනතාවගෙන් ඉල්ලා සිටියි.
+
+විශේෂයෙන් වෛද්‍ය ඉන්දික ජාගොඩ මහතා පවසා සිටියේ යතුරුපැදිවල ගමන්කරන්නන් හෙල්මට් පැළඳීම අනිවාර්ය කරගත යුතු බවයි.
+
+එමෙන්ම වාහනවල ගමන් කරන්නන්ගෙන් ආසන පටි පළදින්නේ ඉදිරිපස අසුනේ යන පුද්ගලයන් පමණක් බවත් හෙතෙම පෙන්වා දෙයි.
+
+කෙසේ නමුත් යම් අනතුරක් සිදු වූ විට එලෙස ආසන පටි නොපළදින පිටුපස අසුනේ යන අයගේ අනතුරුවල බරපතළකම ඉතා ඉහළ බව ඔහු පවසයි.
+
+◼️
+
+[Data](articles/44220314.json)
+
+---
 
 ### Shots a couple in Karale
 
@@ -114,27 +136,39 @@ The Prime Minister's message depicting the Prime Minister's message to enhance t
 
 ---
 
-### අසිරිමත් නත්තල උදා වෙයි
+### Wonderful Christmas
 
 *2024-12-25 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204692) · `si`
 
-කිතු සමිඳාණන්ගේ උපත සිහිපත් කෙරෙන අසිරිමත් නත්තල ඊයේ (24) මැදියම් රැයෙන් උදා විය.
+Here's a summary of the text in approximately 200 characters:
 
-කෙසේ වෙතත් ජේසුස් ක්‍රිස්තූස් වහන්සේ උපන් බෙත්ලෙහෙම් නගරයේ මෙවරත් තන්තල් සැමරීමක් සිදුනොවෙයි.
 
-බෙත්ලෙහෙම් නගරාධිපතිවරයා පවසන්නේ පලස්තීන වැසියන්ට එරෙහිව සිදුවන අයුක්තියට විරෝධය පළකරමින් මෙලෙස සැමරුම් අත්හිටුවා ඇති බවය.
 
-තත්තල් සමයේදී සාමාන්‍යයෙන් සංචාරකයන්ගෙන් පිරීයන යුනෙස්කෝ ලෝක උරුමයක් වන බෙත්ලෙහෙම නගරය හුදකලා වූයේ 2023 එක්තෝම්බර් 7 වනදා සිදුවූ හමාස් ප්‍රහාරයෙන් පසුවයි.
+"Christmas celebrations in Bethlehem suspended due to protests. Midnight mass held worldwide. Sri Lankan cardinal urges spiritual celebration. Local bishop emphasizes peace."
 
-නත්තල් උදාව වෙනුවෙන් ශුද්ධෝත්තම ප්‍රැන්සිස් පාප් වහන්සේ සහභාගි වන ප්‍රධාන දේව මෙහෙය වතිකානයේ ශාන්ත පීතර බැසිලිකාවේ දී පැවැත්වෙනවා.
+🟩
 
-නත්තල උදාවු ඊයේ මධ්‍යම රාත්‍රීයේ ලොවපුරා කෝටි සංඛ්‍යාත කිතුණු බැතිමතුන් මෙන්ම මෙරට කිතුණු දෙව්මැදුරුවලද දේව මෙහෙයන් පැවැත්විය.
+The wonderful Christmas that commemorate the birth of the Christian (24th) came to the midst.
 
-මෙවර මෙරට ප්‍රධාන නත්තල් දේව මෙහෙය අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන්ගේ ප්‍රධානත්වයෙන් ඊයේ රාත්‍රී 11:40 සිට ජා ඇළ වික්ෂෝප දේව මාතා දේවස්ථානයේදී පැවැත්විය.
+However, in the city of Bethlehem, who was born of Jesus Christ, is celebrating this year.
+
+The Mayor of Bethlehem says that the commemoration has been suspended in protest of injustice against the Palestinian inhabitants.
+
+The city of Bethlehem, a UNESCO World Heritage Site, wasolated by 2023 after the Hamas had taken place on 2023.
+
+The main service of the Holy Minister of the Holy Prmonzis is held at St. Peter's Basilica.
+
+Christmas was held in midnight last night, and billions of Christianity and instrollets in Sri Lanka.
+
+This year's main Christmas Minister of Sri Lanka was held at the Victory Buddhist Monastery at the Victory Thampeland of Ja-Canal since 11:40.
+
+The Higantha's Malcolit Cardinal Ranjith published its Christmas message, and said that everyone should be careful to celebrate Christmas this year as a spiritual females.
 
 ...
 
 [Data](articles/c7ada256.json)
+
+[Extended Data](ext_articles/c7ada256.ext.json)
 
 ---
 
@@ -2245,29 +2279,5 @@ He said that when a doubt had been arranged on his legal degree, it was an ordin
 [Data](articles/dc39586f.json)
 
 [Extended Data](ext_articles/dc39586f.ext.json)
-
----
-
-### The man who carried the banana to the market in Jaffna falls down
-
-*2024-12-24 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202038) · `ta`
-
-A man carrying bananas on a motorcycle to market fell ill and died. Doctors attributed his death to a heart valve issue.
-
-🟩
-
-The man who took the banana on a motorcycle to the market suddenly fell unconscious and died.
-
-When the bananas were tied from the garden on a motorbike and taken to the market for sale, he suddenly fell unconscious on the street.
-
-Doctors said he had already died when he rescued those who went to the street and admitted him to the hospital.
-
-In addition, the body test reports that the death of the heart valve is due to the abbreviation.
-
-◼️
-
-[Data](articles/74811124.json)
-
-[Extended Data](ext_articles/74811124.ext.json)
 
 ---

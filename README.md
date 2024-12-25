@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 01:43:21**
+As of **2024-12-26 02:02:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,606 (99.3%) of 62,046 articles have been extended.
+61,608 (99.3%) of 62,046 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -116,21 +116,29 @@ To obtain this information, you can get your National Identity Card number, tele
 
 ---
 
-### தபால் சேவையை நவீன மயப்படுத்த  அரசாங்கம் தீர்மானம் - அமைச்சர் நளிந்த
+### Government resolution to modernize postal service - Minister Nalinda
 
 *2024-12-25 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202157) · `ta`
 
-பன்முக சேவைகளை மக்களுக்கு வழங்கும் இலங்கைத் தபால் திணைக்களத்தை, வாடிக்கையாளர்களின் திருப்தியை கருத்தில் கொண்டு நவீன தொழில்நுட்பத்தை பயன்படுத்தி புதிய மாற்றங்களுடன் கூடிய நம்பகத்தன்மை மிக்க சேவையாக உருவாக்கஅரசாங்கம் தீர்மானித்துள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+Sri Lanka's government plans to modernize the postal service, focusing on customer satisfaction and technological advancements. The initiative aims to improve efficiency and competitiveness, while addressing past issues and developing new revenue streams.
 
-சுகாதார மற்றும் வெகுசன ஊடக அமைச்சின் கீழ் இயங்கும், இலங்கை தபால் தலைமையகத்தின் தற்போதைய சேவை நடவடிக்கைகள் மற்றும் எதிர்கால திட்டங்கள் தொடர்பில், தபால் திணைக்கள அதிகாரிகளுடன் சுகாதார அமைச்சில் நேற்று செவ்வாய்க்கிழமை (24) இடம்பெற்ற விசேட கலந்துரையாடலின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-இலங்கைத் தபால் திணைக்களம் முறையான தொலைநோக்குப் பார்வையுடனும் அதற்குரிய திட்டங்களுடனும் செயற்படுவதைக் காணக் கூடியதாக உள்ளது.
+Health and Media Minister Dr. Nalinda Jayatissa said that the Government of Sri Lanka has decided to create a reliable service with new changes using modern technology to consider the satisfaction of customers, which provides multichannel services to the people.
 
-தற்போது தபால் சேவையில் நிலவிவரும் பிரச்சினைகளுக்கு தீர்வு காண்பதுடன், வரலாற்றுச் சிறப்புமிக்க இச்சேவையை நவீனமயப்படுத்தி தேசிய சேவையாக தரம் உயர்த்துவதே புதிய அரசாங்கத்தின் நோக்கமாகும்.
+He was speaking at a special discussion held at the Ministry of Health on Tuesday (24) with the Postal Department officials on the current service activities and future plans of the Sri Lanka Postal Headquarters, which is run by the Ministry of Health and Mass Media.
+
+The Postal Department of Sri Lanka is seen to be working with a proper vision and its plans.
+
+The new government's aim is to address the problems in the postal service and modernize this historic service and upgrade the national service.
+
+The process of establishing new post offices in advance of political or personal needs will never take place. Future plans relating to postal service must be organized at least for the next 10 years.
 
 ...
 
 [Data](articles/f3e3905b.json)
+
+[Extended Data](ext_articles/f3e3905b.ext.json)
 
 ---
 
@@ -998,23 +1006,33 @@ Therefore, drivers and the public have been asked to use the following alternati
 
 ---
 
-### පාකිස්තානයෙන් ඇෆ්ගනිස්තානයට ගුවන් ප්‍රහාර
+### Air strikes at Pakistan
 
 *2024-12-25 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204716) · `si`
 
-පාකිස්තානය ඇෆ්ගනිස්තානයට එල්ලකළ ගුවන් ප්‍රහාර වලින් මේ වන විට පුද්ගලයින් 46 දෙනෙකු මියගොස් තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඔවුන් පවසා ඇත්තේ මියගොස් සිටින පිරිස අතරින් වැඩි පිරිසක් දරුවන් සහ කාන්තාවන් බවය.
 
-තලෙයිබාන් ත්‍රස්තයින් සැඟවී සිටින බවට සැක කෙරෙන ස්ථාන වෙත පාකිස්තානය මෙලෙස ගුවන් ප්‍රහාර එල්ලකර තිබුණි.
 
-ඒ අනුව නත්තල් උදාව මැද ඇෆ්ගනිස්තානයේ ගම්මාන කිහිපයක් ඉලක්ක කරගනිමින් පාකිස්තානය ගුවන් ප්‍රහාර මාලාව එල්ල කර තිබුණි.
+Pakistan airstrikes in Afghanistan kill 46, mostly civilians. Targets suspected Taliban hideouts. Attacks occurred during Christmas season. Taliban vows retaliation.
 
-පාකිස්තානයේ මෙම ප්‍රහාරවලට නිසැකවම ප්‍රතිචාර දක්වන බව තලෙයිබාන් සංවිධානය අනතුරු අඟවා ඇත.
+🟩
+
+46 people have been killed in air strikes opened by Pakistan in Afghanistan.
+
+They have said that most of the dead were children and women.
+
+Pakistan had launched Pakistan to sites suspected of hiding the Taliban terrorists.
+
+Pakistan had served the air strikes targeting several villages in Afghanistan in the middle of Christmas Upa.
+
+The Taliban warned that these attacks in Pakistan will certainly respond.
 
 ◼️
 
 [Data](articles/d037bf27.json)
+
+[Extended Data](ext_articles/d037bf27.ext.json)
 
 ---
 

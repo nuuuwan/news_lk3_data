@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 13:12:25**
+As of **2024-12-25 13:27:22**
 
 ## Newspaper Stats
 
-*Scraped **61,975** Articles*
+*Scraped **61,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,74 @@ economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,917
-adaderanalk | 7,567
+adaderanalk | 7,569
 tamilmirrorlk | 8,875
 virakesarilk | 10,248
-adaderanasinhalalk | 10,701
+adaderanasinhalalk | 10,704
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,547 (99.3%) of 61,975 articles have been extended.
+61,548 (99.3%) of 61,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### ஜனாதிபதி நிதியம்;பொலிஸ் விசாரணைகள் ஆரம்பம்
+### ලොව පුරා අසිරිමත් නත්තල සැමරු අයුරු
+
+*2024-12-25 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204707) · `si`
+
+ඊයේ (24) මැදියම් රැයෙන් උදා වූ ජේසු බිළිඳාගේ උපත සැමරෙන නත්තල ලෝක ප්‍රජාව විසින් පිළිගනු ලැබුවේ මහත් උත්සවශ්‍රීයෙනි.
+
+වසරකට අධික කාලයක් පුරා ඊශ්‍රායල යුද ගැටුම්වලට මැදිව සිටියත් ගාසා තීරයේ කිතුනු බැතිමතුන් ද ඉතා බැතියෙන් මෙවර නත්තල සමරනු ලැබීය.
+
+ඒ අනුව ගාසා තීරයේ ප්‍රධාන නත්තල් දේව මෙහෙය පැවැත්වුණේ ගාසා සිටි නගරයේ හෝලි ෆැමිලි දේවස්ථානයේ දී යි.
+
+මේ අතර වසර පහකට පෙර ගිනිගෙන හානි වූ පැරීසියේ නෝත්‍රදාම් ආසන දෙව් මැදුරේද නත්තල් දේව මෙහෙය පැවැත්විණි.
+
+එය යළි විවෘත කිරීමෙන් පසු පැවැත්වුණු පළමු නත්තල් දේව මෙහෙයද මෙය වේ.
+
+එමෙන්ම රාජකීය නත්තල් කැරොල් ප්‍රසංගය මෙවරත් උත්කර්ෂවත් අයුරින් වෙස්ට්මින්ස්ටර් ඇබේ දේවස්ථානයේදී පැවැත්විය.
+
+මේ අතර යුක්‍රේනයේ කිතුනු බැතිමතුන් මෙවරත් පසුගිය වසරේ සේම නත්තල සමරන්නේ අද සහ හෙට දෙදින තුළයි.
+
+2023 වසර පෙර ජුලියන් දින දර්ශනයට අනුව ඔවුන් නත්තල සැමරුවේ ජනවාරි 7 වැනිදායි.
+
+යුක්‍රේන ජනතාව මෙලෙස නත්තල සමරන්නේ අඛණ්ඩ රුසියානු ප්‍රහාර හේතුවෙන් ඔවුන්ට දරුණු විදුලි අර්බුදයකට ද මුහුණ දීමට සිදුව ඇති පසුබිමක වීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/f504a42f.json)
+
+---
+
+### President's Fund; Police Investigations Beginning
 
 *2024-12-25 12:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-நிதியம்-பொலிஸ்-விசாரணைகள்-ஆரம்பம்/175-349264) · `ta`
 
-ஜனாதிபதி நிதியில் ஏதேனும் முறைகேடு நடந்துள்ளதா என்பதை கண்டறிய பொலிஸ் விசேட விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Here's a summary in 200 characters:
 
-பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரிய குற்றப்புலனாய்வு திணைக்களத்திற்கு (CID) விசாரணைகளை மேற்கொள்ளுமாறு பணிப்புரை விடுத்துள்ளதாக தெரிய வருகிறது.
 
-ஜனாதிபதி நிதியை துஷ்பிரயோகம் செய்ததாக குற்றம் சாட்டப்பட்ட நபர்கள் தொடர்பில் விசாரணை நடத்துமாறு கோரி பொலிஸ் தலைமையகத்தில் சமர்ப்பிக்கப்பட்ட முறைப்பாட்டையடுத்து இந்த விசாரணை நடத்தப்பட்டுள்ளது.
 
-கடந்த 2005ஆம் ஆண்டு முதல் 2024ஆம் ஆண்டு வரையான காலப்பகுதியில் 34 முன்னாள் பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி நிதியத்தின் முக்கிய நோக்கங்களுக்குப் புறம்பான நோக்கங்களுக்காக மில்லியன் கணக்கான ரூபாவை பெற்றுக்கொண்டமை அண்மையில் இடம்பெற்ற பாராளுமன்ற அமர்வின் போது தெரியவந்துள்ளது.
+Police launch probe into alleged misuse of presidential funds. CID investigates claims of abuse after complaint filed. 34 ex-MPs received millions for fund purposes.
+
+🟩
+
+Special investigations have been launched to find out if there was any abuse in the presidential fund.
+
+In response, the Inspector General of Police Priyantha Weerasuriya has issued a directive to investigate the Criminal Investigation Department (CID).
+
+The investigation was carried out following a complaint lodged at the Police Headquarters demanding an inquiry into the accused persons for allegedly abusing the presidential funds.
+
+It was during a recent parliamentary session that 34 former MPs from 2005 to 2024 received millions of rupees for the main purposes of the Presidential Fund.
 
 ◼️
 
 [Data](articles/eedea7e4.json)
+
+[Extended Data](ext_articles/eedea7e4.ext.json)
 
 ---
 
@@ -104,6 +142,42 @@ These measures include suspension of those who do not understand duties to cause
 
 ---
 
+### ගෝලීය සාගතය උග්‍ර වෙයි
+
+*2024-12-25 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204706) · `si`
+
+ලොව ධනවත් රටවල් සාගතයෙන් පීඩා විදින ලෝ වැසියන්ට ආධාර ලබාදීම අවම වීමත් සමග ගෝලීය සාගතය උග්‍ර වෙමින් පවතින බව එක්සත් ජාතීන්ගේ සංවිධානය පවසයි.
+
+ඔවුන් අවධාරණය කරනුයේ 2025 වසරේ දී ලෝකයේ මිලියන 307කට මානුෂීය ආධාර අවශ්‍ය වන අතර ආධාර රැස්කර ගත හැක්කේ ඉන් සියයට 60ක් සඳහා පමණක් බවය.
+
+ඒ අනුව 2025 වසරේ දී ලෝකයේ මිලියන 117ක පමණ පිරිසකට මානුෂිය ආධාර නොලැබෙනු ඇතැයි ඔවුන් අනතුරු අඟවා තිබේ.
+
+මෙම වසරේදීත් ආධාර අවශ්‍ය පිරිස් වෙන මානුෂිය ආධාර ලබා දීම සඳහා ඩොලර් බිලියන 49.6ක් අවශ්‍ය බවට එක්සත් ජාතීන් ඇස්තමේන්තු ගත කර තිබුණත් ඔවුන්ට ඉන් සපයා ගත හැකි වූයේ සියයට 46ක් පමණි.
+
+◼️
+
+[Data](articles/4a444709.json)
+
+---
+
+### ADIC raises concerns over Excise chief’s proposal on illicit alcohol
+
+*2024-12-25 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104487/adic-raises-concerns-over-excise-chiefs-proposal-on-illicit-alcohol-) · `en`
+
+The Alcohol and Drug Information Centre (ADIC) has issued a statement regarding the proposal by the Commissioner General of Excise to introduce alcohol at a lower price.
+
+The ADIC argues that the proposal aims to increase alcohol consumption among the population by reducing its price under the pretense of reducing illegal alcohol sales, thereby creating a favorable situation for alcohol companies.
+
+The statement references the World Health Organization (WHO), which advocates for increasing taxes on alcohol and cigarettes as an effective method for controlling consumption.
+
+The ADIC supports this stance, asserting that raising excise taxes is a scientifically confirmed strategy to reduce alcohol consumption and minimize new alcohol users. The WHO and other research institutions have long supported this approach, it said.
+
+...
+
+[Data](articles/06cb7bc8.json)
+
+---
+
 ### Allow the prisoners to visit
 
 *2024-12-25 12:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளை-பார்வையிட-அனுமதி/175-349259) · `ta`
@@ -121,6 +195,48 @@ And. He also said that 398 prisoners have been given a special state amnesty on 
 [Data](articles/9e7567c7.json)
 
 [Extended Data](ext_articles/9e7567c7.ext.json)
+
+---
+
+### දක්ෂිණ අධිවේගයේ අනතුරක්
+
+*2024-12-25 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204705) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ ධාවනය වෙමින් තිබූ ලොරි රථයක් කහතුඩුව පිවිසුම අසලදී ආරක්ෂිත වැටේ ගැටී අනතුරක් සිදුව තිබේ.
+
+ලොරි රථය බෑවුමට පෙරළීයාමේදී එහි කිලෝ 50ක බරින් යුත් ඩොලමයිට් කොට්ට 600ක් තිබූ බවත් ලොරි රථය වට 03ක් පෙරළී ගොස් ඇති බවත් සිදුකළ විමර්ශණවලදී අනාවරණය වූ බව පොලීසිය පවසයි.
+
+මාතලේ ප්‍රදේශයේ සිට ඇල්පිටිය දක්වා මෙම ඩොලමයිට් තොගය ප්‍රවාහනය කරමින් තිබූ බවද අනාවරණය වී ඇතැයි පොලීසිය පවසයි.
+
+අනතුර සම්බන්ධව ලොරි රථ රියදුරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේදි ඔහු පවසා ඇත්තේ තමන් දින තුනකින් නිසි නින්දක් නොලබූ අයෙකු බවය.
+
+◼️
+
+[Data](articles/197e4429.json)
+
+---
+
+### Another suspect arrested over Maligakanda shooting incident
+
+*2024-12-25 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104486/another-suspect-arrested-over-maligakanda-shooting-incident) · `en`
+
+Another suspect has been arrested by the police in connection with a shooting and attempted murder of a woman near the Maligakanda Court.
+
+The Maradana Police Station and the Colombo Crimes Division (CCD) initiated an investigation into the incident.
+
+Based on the findings, it was revealed that the owner of the house, where the shooter had been hiding, and his wife had disposed of the firearm.
+
+The couple was arrested by the Colombo Crimes Division on December 20. During questioning, it was revealed that the firearm had been handed over to a three-wheeler driver, who was subsequently arrested on December 22.
+
+Further investigation revealed that the firearm had been taken to Jampettah Street and given to another individual.
+
+Based on this information, a 37-year-old suspect from Jampettah Street, Colombo 13, was arrested last evening (24), on charges of aiding and abetting the attempted murder.
+
+Ongoing investigations are being carried out by the CCD and the Maradana Police.
+
+◼️
+
+[Data](articles/a063fde3.json)
 
 ---
 
@@ -1292,7 +1408,7 @@ The position of Director General of Combined Services is pivotal, given its exte
 
 වත්මන් ආණ්ඩුව කරන ලද ප්‍රධාන පෙළේ පත් කිරීමක් අත්හරින ලද දෙවන පුද්ගලයා ඔහු ය. කතානායකවරයා ලෙස කටයුතු කළ අශෝක රන්වලට මීට පෙර සිය ධූරයෙන් ඉවත් වන්නට සිදුවූයේ ඔහුගේ අධ්‍යාපන සුදුසුකම් සම්බන්ධව මතුවු ගැටලුකාරි තත්ත්වයක් හේතුවෙනි.
 
-ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ, පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන් මre වෘත්තිය සමිති සහ ඇතැම් නිලධාරීන් සමග ඇති වූ ගැටලු හේතුවෙන් ඔහුට සිය ධූරය අහිමි වූ බවට කටකතාවක්  පැතිරිණි.
+ඇතැමුන් සමාජ මාධ්‍ය තුළ පවසා තිබුණේ, පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි පිළිබඳව පළ කරන ලද හාස්‍යජනක විඩියෝවක් නිසා රූපවාහිනි සභාපතිවරයා ධූරයෙන් ඉවත් කර ඇති බවයි. එමෙන් ම වෘත්තිය සමිති සහ ඇතැම් නිලධාරීන් සමග ඇති වූ ගැටලු හේතුවෙන් ඔහුට සිය ධූරය අහිමි වූ බවට කටකතාවක්  පැතිරිණි.
 
 ...
 
@@ -2087,145 +2203,5 @@ He also stated that the President should notify the estate companies to announce
 [Data](articles/8d5efc7a.json)
 
 [Extended Data](ext_articles/8d5efc7a.ext.json)
-
----
-
-### Did the Israeli soldier come to Sri Lanka in a video of the Palestinian body?Demand for the government to investigate
-
-*2024-12-24 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202061) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Israeli soldier video controversy: Sri Lankans demand investigation into Israeli soldiers' presence near Palestinian body. Government urged to address moral security concerns.
-
-🟩
-
-In a video, 20 Sri Lankans have appealed to the government to investigate the visit of the Israeli soldiers who were smiling near the Palestinian body.
-
-Attorney and Human Rights activist Swastika Arulingam said in a Facebook page
-
-Last week, Belgium -based Hind Rajab Foundation, Perenbook, was in Sri Lanka, in his Facebook page.
-
-A few days ago;The organization knew on its website that a video of a man (Palestinian) had been revealed by a person who died with another Israeli soldier.
-
-The other person in the video calls the person who dies of Kalbarenbukin as a darminator.
-
-The International Criminal Court has lodged a complaint with the International Police and said that the Hindu Rajap organization has also informed Sri Lankan authorities.
-
-Subsequently, local journalists published the news.
-
-However, Buddhikamarasinghe said that there is no evidence to confirm what the Hind Rajab said.
-
-...
-
-[Data](articles/4aca0934.json)
-
-[Extended Data](ext_articles/4aca0934.ext.json)
-
----
-
-### 62 suspects resumed 62
-
-*2024-12-24 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204684) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ceylon Electricity Board (CEB) staff resume duties after protests against privatization. Government cancels punishments, reemploys workers with full rights.
-
-🟩
-
-The Ceylon Electricity Board (CEB) participated in protests against privatization against the privatization of the Electricity Board (CEB) has been re-employed with all privileges.
-
-According to a special order by Mr. Kumara Jayakody, Minister of Energy Minister.
-
-The trade unions launched a protest campaign in January, claiming that the Ceylon Electricity Board is planning to privatize.
-
-Power and Energy Minister Kanchana Wijesekara was instructed by the officials to take action against the employees who had abstainted the customers, despite the essential service.
-
-Accordingly, the Ceylon Electricity Board (CEB) of Ceylon Electricity Board was banned.
-
-However, after the current government has come to power, the Energy Minister has taken steps to re-be reconstructed and to cancel the punishment.
-
-The employees also met with the Minister of Energy Minister Kumara Jayakody today.
-
-◼️
-
-[Data](articles/4aeb25cc.json)
-
-[Extended Data](ext_articles/4aeb25cc.ext.json)
-
----
-
-### Global hunger crisis deepens as major nations skimp on aid
-
-*2024-12-24 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104476/global-hunger-crisis-deepens-as-major-nations-skimp-on-aid) · `en`
-
-It’s a simple but brutal equation: The number of people going hungry or otherwise struggling around the world is rising, while the amount of money the world’s wealthiest nations are contributing toward helping them is dropping.
-
-The result: The United Nations says that, at best, it will be able to raise enough money to help about 60% of the 307 million people it predicts will need humanitarian aid next year. That means at least 117 million people won’t get food or other assistance in 2025.
-
-The U.N. also will end 2024 having raised about 46% of the $49.6 billion it sought for humanitarian aid across the globe, its own data shows. It’s the second year in a row the world body has raised less than half of what it sought. The shortfall has forced humanitarian agencies to make agonizing decisions, such as slashing rations for the hungry and cutting the number of people eligible for aid.
-
-...
-
-[Data](articles/47f48a83.json)
-
-[Extended Data](ext_articles/47f48a83.ext.json)
-
----
-
-### Sri Lanka is still loan from the international market
-
-*2024-12-24 18:51:10* · [`adalk`](https://www.ada.lk/breaking_news/තවමත්-ලංකාවට-ජාත්‍යන්තර-වෙළඳපොළෙන්-ණය-ගන්න-බෑ/11-413834) · `si`
-
-Sri Lanka's economy shows signs of recovery: Moody's rating upgrade, improved investor confidence, and 5.5% GDP growth in Q3. However, challenges remain in accessing international loans and achieving BBB rating.
-
-🟩
-
-Dr. Harsha de Silva, MPs, Dr. Harsha de Silva, said that the entire economy is a good news to the entire economy.
-
-He was speaking at a media briefing held at the Head Office today (24).
-
-Speaking further Mr. Dr. Harsha de Silva said:
-
-"We're now heard that Sri Lanka is out of the credit of debt, Moody's rating has been increased. Actually, it's good news to the whole country.The country has been severely affected by the government to borrow and severely affected private sector investors. Investors were released to come to Sri Lanka.
-
-...
-
-[Data](articles/a8092f30.json)
-
-[Extended Data](ext_articles/a8092f30.ext.json)
-
----
-
-### Military Protection for Mahinda and Namal
-
-*2024-12-24 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202080) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka PA defends Mahinda & Namal Rajapaksa against intelligence unit report. Claims removal due to political revenge. Calls for public protection of former president. Criticizes government misuse of state power. Announces separate participation in local government elections.
-
-🟩
-
-Former President Mahinda Rajapaksa and his son Namal Rajapakse have been removed for political revenge as the Investigation Unit has submitted a report on the death of his son Namal Rajapaksa.. Sri Lanka PA is the duty of every citizen to provide security to Mahinda Rajapaksa, said Sakara Kariyawasam, General Secretary of the Sri Lanka PA.
-
-He made this statement during a media briefing held at the Sri Lanka PA's office on Tuesday (24).
-
-The complete abolition of military security provided to former presidents is an improper act. It should not be forgotten that President Anura Kumara Dissanayake has created an environment for the people to go to the people without security today.
-
-Mahinda Rajapaksa ended the era of the army to his hometowns. Therefore, it is the duty of every citizens to provide him with protection.
-
-...
-
-[Data](articles/aa23c622.json)
-
-[Extended Data](ext_articles/aa23c622.ext.json)
 
 ---

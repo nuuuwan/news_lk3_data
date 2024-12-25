@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 09:27:17**
+As of **2024-12-25 09:43:32**
 
 ## Newspaper Stats
 
-*Scraped **61,934** Articles*
+*Scraped **61,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,914
 adaderanalk | 7,563
-tamilmirrorlk | 8,857
+tamilmirrorlk | 8,859
 virakesarilk | 10,243
 adaderanasinhalalk | 10,694
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,531 (99.3%) of 61,934 articles have been extended.
+61,532 (99.3%) of 61,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,8 @@ She highlighted the importance of family and community bonds during this period 
 ...
 
 [Data](articles/600db1f6.json)
+
+[Extended Data](ext_articles/600db1f6.ext.json)
 
 ---
 
@@ -2012,6 +2014,18 @@ The Dravida Munnetra Kazhagam has urged Tamil Nadu fishermen and their boats to 
 
 ---
 
+### நத்தார் தினத்தில் உறுதிபூணுவோம்: ஜனாதிபதி வாழ்த்து
+
+*2024-12-24 17:23:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நத்தார்-தினத்தில்-உறுதிபூணுவோம்-ஜனாதிபதி-வாழ்த்து/175-349220) · `ta`
+
+பிரிவினையின் இருளில் இருந்து விலகி அமைதியுடன் ஆட்சி செய்யும் தோழர்களின் பூமியாக நமது நாடு படிப்படியாக மாற்றப்படுவதை நாம் கண்கூடாகக் காண்கிறோம். மனித சுதந்திரம் மற்றும் நீதியின் அடிப்படையில் இயேசுநாதர் செய்த போராட்டத்தின் காரணமாக அவர்  புனிதரானார். அந்த மனிதாபிமான சுதந்திரம் மற்றும் நியாயத்தை மதித்து  அவருடைய வழிகாட்டுதலை தற்பொழுது உண்மையாக்க  அரசாங்கமென்ற வகையில் நாங்கள் கடமைப்பட்டுள்ளோம் என்று ஜனாதிபதி அனுரகுமார திசாநாயக்க விடுத்துள்ள நத்தார் தின வாழ்த்துச் செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/93b8edb8.json)
+
+---
+
 ### “ஒருவரில் ஒருவர் அன்பாய் இருக்கவேண்டும்”
 
 *2024-12-24 17:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவரில்-ஒருவர்-அன்பாய்-இருக்கவேண்டும்/175-349219) · `ta`
@@ -2021,6 +2035,24 @@ The Dravida Munnetra Kazhagam has urged Tamil Nadu fishermen and their boats to 
 ...
 
 [Data](articles/00c958b2.json)
+
+---
+
+### ”அர்த்தமுள்ளதாக கொண்டாடுவோம்”
+
+*2024-12-24 17:20:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அர்த்தமுள்ளதாக-கொண்டாடுவோம்/175-349218) · `ta`
+
+நத்தாரின் உண்மையான அர்த்தமான ஒற்றுமை, நன்றியுணர்வு மற்றும் சமாதானம் என்பவற்றிற்கு முன்னுரிமை வழங்கி நத்தாரை மகிழ்ச்சி மற்றும் அர்த்தமுள்ளதாக கொண்டாடுவோம் என்று பிரதமர் கலாநிதி ஹரிணி அமரசூரிய விடுத்துள்ள நத்தார் தின வாழ்த்து செய்தியில் தெரிவிக்கப்பட்டுள்ளது.
+
+ஒரு தேசமாக மீள கட்டியெழுப்பும் இந்த மறுமலர்ச்சி யுகத்தில் தமது குடும்பம் மற்றும் அன்புக்குரியவர்களுடன் காலத்தை செலவிடுவது மிகவும் முக்கியமானது. ஒற்றுமையுடன் செயற்படுதல், பகிர்ந்து வாழுதல் மற்றும் ஒருவருக்கொருவர் உதவி செய்வதன் ஊடாக எமது உறவுகளும் வலுவானதாக முன்னேற்றமடையும்.
+
+ஆரோக்கியமான மக்கள் சமூகம் மற்றும் பலம்மிக்க தேசத்தை கட்டியெழுப்பும் பணியானது வீட்டிலிருந்தே ஆரம்பமாகின்றது என்பதை இதுபோன்ற கூட்டு முயற்சிகள் எமக்கு நினைவூட்டும்.
+
+உள்நாட்டில் உட்பட வெளிநாட்டில் சேவையாற்றுபவர்களையும், அத்தியாவசிய சேவைகளில் ஈடுபட்டுள்ளவர்கள் உட்பட பண்டிகை காலத்தில் தமது அன்புக்குரியவர்களுடன் காலத்தை செலவிட முடியாத அனைவரையும் இந்த தருணத்தில் நன்றியுடன் நினைவுகூற வேண்டும்.
+
+...
+
+[Data](articles/337b0cdc.json)
 
 ---
 
@@ -2219,41 +2251,5 @@ Crossings were recorded on Commercial Bank, Royal Ceramics, Ambeon Capital (up a
 ...
 
 [Data](articles/cdd87eb1.json)
-
----
-
-### දකුණ - බටහිර අතර යන එන වාහන බෙන්තොට දී පරීක්ෂාවට
-
-*2024-12-24 16:16:57* · [`adalk`](https://www.ada.lk/breaking_news/දකුණ---බටහිර-අතර-යන-එන-වාහන-බෙන්තොට-දී-පරීක්ෂාවට/11-413824) · `si`
-
-කොළඹ -ගාල්ල මහා මාර්ගයේ  බෙන්තොට පාලම මතින් දකුණු පළාත හා බටහිර පළාත අතර යන එන වාහන පරීක්ෂා කිරීමේ විශේෂ මෙහෙයුමක් අද (24) සවස පොලිස් නිලධාරීන් විශාල පිරිසකගේ සහභාගිත්වයෙන් හා බෙන්තොට පොලීසියේ සංවිධානයෙන්  බෙන්තොට පාලම අසලදී ආරම්භ කෙරිණි.
-
-මහා මාර්ගවල ධාවනය කෙරෙන රථ වාහන පරීක්ෂා කිරීම සඳහා පොලීසිය මගින් ඊයේ සිට ආරම්භ කළ විශේෂ මෙහෙයුම යටතේ    මෙම මෙහෙයුම අද  සවස් වරුව පුරාම  සිදු කෙරිණි.
-
-බීමත්ව  රිය පැදවීම ඇතුළු රථවාහන වැරදි සිදු කරන රියදුරන් සිටියහොත් මෙම මෙහෙයුමේදි  ඔවුන් අත් අඩංගුවට ගෙන  නීතිය හමුවට පමුණුවන බව මේ අවස්ථාවට එක්වූ ඇල්පිටිය සහකාර පොලිස් අධිකාරී (3) ලාල් ගමගේ මහතා පැවසීය.
-
-◼️
-
-[Data](articles/173eb75c.json)
-
----
-
-### South Korean opposition puts off plan to impeach acting president Han
-
-*2024-12-24 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104473/south-korean-opposition-puts-off-plan-to-impeach-acting-president-han) · `en`
-
-South Korea’s main opposition party vowed on Tuesday to impeach acting president Han Duck-soo but reversed an earlier plan and decided to wait until later in the week, party officials said, as the risk of further political uncertainty heightened.
-
-The move comes as the country is reeling from impeached President Yoon Suk Yeol’s short-lived bid to impose martial law on Dec. 3 that he partly blamed on the opposition’s propensity to impeach government officials.
-
-Opposition Democratic Party (DP) floor leader Park Chan-dae said the party will wait until later this week to decide whether to go ahead with the plan to impeach Han. Earlier, the party said it would introduce a bill to impeach Han on Tuesday.
-
-The DP, which has a majority in parliament, is taking the step after Han postponed signing legislation to launch a special counsel investigation into President Yoon Suk Yeol’s failed bid to impose martial law.
-
-...
-
-[Data](articles/454f6513.json)
-
-[Extended Data](ext_articles/454f6513.ext.json)
 
 ---

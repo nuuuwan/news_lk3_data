@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 15:27:15**
+As of **2024-12-25 15:43:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,558 (99.3%) of 61,997 articles have been extended.
+61,559 (99.3%) of 61,997 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -118,23 +118,29 @@ Anesthesia, led by Nageshwaran, a successful surgery of the medical professional
 
 ---
 
-### බීමතින් රිය ධාවනය කළ 251ක් හසුවෙයි
+### 251 drunk driver driven caught
 
 *2024-12-25 14:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204710) · `si`
 
-ශ්‍රී ලංකා පොලීසිය විසින් ක්‍රියාත්මක කරනු ලබන විශේෂ රථවාහන මෙහෙයුම යටතේ ගත වූ පැය 24 තුළ බීමතින් රිය ධාවනය කළ 251 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Sri Lanka Police arrested 251 drunk drivers & issued 8,747 citations in 24-hour traffic operation. No fatal accidents reported. Operation aims to reduce road incidents involving vehicles like buses.
 
-මේ අනුව මෙම විශේෂ රථවාහන මෙහෙයුම යටතේ බීමතින් රිය ධාවනය කළ පුද්ගලයන් ඇතුළුව සමස්ත රියදුරන් 8,747කට එරෙහිව නීතිය ක්‍රියාත්මක කර තිබේ.
+🟩
 
-උත්සව සමයේ රිය අනතුරු අවම කරගැනීමේ අරමුණින් යුතුව වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ උපදෙස් මත ඉකුත් 23 වනදා සිට මෙම විශේෂ රථවාහන මෙහෙයුම ක්‍රියාත්මක වේ.
+251 drunk driven were arrested during the 24 hours of the special traffic operation conducted by the Sri Lanka Police.
 
-මේ අතර පසුගිය පැය 24 තුළ දිවයිනේ කිසිදු මාරක රිය අනතුරක් සිදුව නොමැති බවද පොලීසිය පවසයි.
+Accordingly, the law has been launched against 8,747 other drivers, including drunken drivers operation.
 
-පසුගිය දිනවල මගී ප්‍රවාහන බස් රථ ඇතුළු අනෙකුත් වාහනවලින් සිදු වූ රිය අනතුරු සැලකිල්ලට ගනිමින් දිගින් දිගටම එවැනි අනතුරු සිදුවීම අවම කර ගැනීම සඳහා මෙම රථවාහන මෙහෙයුම සිදු කෙරේ.
+The special traffic operation will operate from the instructions of acting IGP Priyantha Weerasuriya on the 23rd of the advice of the acting IGP Priyantha Weerasuriya.
+
+In the past 24 hours, no fatal accident in the island has not been in the country.
+
+The traffic operation is carried out to minimize such accidents in considering the accidents from other vehicles, including passenger buses and other vehicles.
 
 ◼️
 
 [Data](articles/5714ab3e.json)
+
+[Extended Data](ext_articles/5714ab3e.ext.json)
 
 ---
 

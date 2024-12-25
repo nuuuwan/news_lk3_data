@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 16:15:05**
+As of **2024-12-25 16:27:12**
 
 ## Newspaper Stats
 
-*Scraped **61,997** Articles*
+*Scraped **61,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,753
 economynextcom | 3,776
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,919
+adalk | 5,920
 adaderanalk | 7,572
 tamilmirrorlk | 8,878
 virakesarilk | 10,252
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,708
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,562 (99.3%) of 61,997 articles have been extended.
+61,563 (99.3%) of 61,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -141,6 +141,22 @@ The traffic operation is carried out to minimize such accidents in considering t
 [Data](articles/5714ab3e.json)
 
 [Extended Data](ext_articles/5714ab3e.ext.json)
+
+---
+
+### වසන්තා හඳපාන්ගොඩ ජිවිතක්ෂයට
+
+*2024-12-25 14:25:31* · [`adalk`](https://www.ada.lk/breaking_news/වසන්තා-හඳපාන්ගොඩ-ජිවිතක්ෂයට/11-413839) · `si`
+
+ශ්‍රි ලංකා පොදජන පෙරමුණේ පොදුජන අධ්‍යාපන සේවා සංගමයේ සභාපති ලෙස ක්‍රියා කළ වසන්තා හඳපාන්ගොඩ මහත්මිය එංගලන්තයේදි ජිවිතක්ෂයට පත්ව තිබේ.
+
+එංගලන්තයේ සිටින සිය දියණියගේ නිවසට ගොස් සිටි අවස්ථාවේදි ඇතිවූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් රෝහල් ගත කර දින කිහිපයක් රෝහලේ ප්‍රතිකාර ලබමින් සිටියදි ඇය ජිවිතක්ෂයට පත්ව තිබේ.
+
+ඇයගේ දේහය දිවයිනට ගෙන ඒමට දින කිහිපයක් ගත වෙනු ඇත. වසන්තා හඳපාන්ගොඩ මහත්මිය ශ්‍රි ලංකා පොදුජන පෙරමුණට ඉතාමත් සමිපව කටයුතු කළ දේශපාලන ක්‍රියාකාරිණියක් වූවාය.
+
+◼️
+
+[Data](articles/d760fdd9.json)
 
 ---
 
@@ -274,27 +290,33 @@ According to the police, the suspects are a father and son, aged 53 and 28 respe
 
 ---
 
-### මගී ගුවන් යානයක් කඩා වැටෙයි
+### A passenger plane crashes
 
 *2024-12-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204708) · `si`
 
-පුද්ගලයන් 67 දෙනෙකු ගමන්ගත් අසර්බයිජානයට අයත් මගී ගුවන් යානයක් කසකස්තානයේ දී කඩාවැටී ඇති බව BBC පුවත් සේවය වාර්තා කරයි.
+Plane crash: 25 survivors, 22 hospitalized. Fire caused collapse, but cause unknown. 62 passengers, 5 crew on EMBRAER 190 flight from Azerbaijan to Russia. Mist cited as reason for accident.
 
-කෙසේ නමුත් මෙම අනතුරෙන් 25 දෙනෙකු දිවි ගලවාගෙන ඇති අතර, ඉන් 22ක් රෝහල් ගතකර ඇති බව කසකස්තානය රජය පවසයි.
+🟩
 
-ගුවන් යානය කඩාවැටීමත් සමග ගින්නක් හටගෙන ඇති නමුත්, පසුව එය නිවාදමා තිබේ.
+The BBC News
 
-කෙසේ නමුත් ගින්නට හේතුව කුමක්ද යන්න මෙතෙක් අනාවරණය වී නොමැත.
+However, 25 of these accidents have survived, 22 of them have been hospitalized.
 
-Embraer 190 වර්ගයේ ගුවන් යානයක් වන මෙහි මගීන් 62ක් සහ කාර්ය මණ්ඩලයේ 5 දෙනෙකු සිට තිබේ.
+A fire has erupted with the collapse of the plane, but it has been resurrected.
 
-මෙය අසර්බයිජානයේ අගනුවර වන බාකු සිට රුසියාව දක්වා ගමන් කරමින් තිබී ඇත.
+However, the cause of the fire has not yet been revealed.
 
-පවතින මීදුම් සහිත තත්ත්වය නිසා මෙම අනතුර සිදුවන්නට ඇති බව දැනට සිදුකෙරෙන විමර්ශනවලදී අනාවරණය වී තිබේ.
+There is a 62 passengers and 5 staff, which is an EMBRERER 190.
+
+This was from Azerbaijan's capital to Russia.
+
+Investigations have revealed that the accident had occurred due to the existing mist.
 
 ◼️
 
 [Data](articles/24678885.json)
+
+[Extended Data](ext_articles/24678885.ext.json)
 
 ---
 
@@ -2147,17 +2169,5 @@ Emerald’s rebranding is not just about a new look; it’s about expanding our 
 ...
 
 [Data](articles/3e311bde.json)
-
----
-
-### Earthfoam opens new liquid latex collection centre in Monaragala
-
-*2024-12-24 23:12:00* · [`islandlk`](http://island.lk/earthfoam-opens-new-liquid-latex-collection-centre-in-monaragala/) · `en`
-
-Earthfoam Private Limited, a leading manufacturer of natural latex-based mattresses, toppers, and pillows, recently inaugurated their new liquid latex collection centre in Monaragala.
-
-...
-
-[Data](articles/e4744a3f.json)
 
 ---

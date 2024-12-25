@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 04:01:23**
+As of **2024-12-26 03:43:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,617 (99.3%) of 62,052 articles have been extended.
+61,616 (99.3%) of 62,052 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -222,31 +222,19 @@ Also, the 38, 15, 18, aged 38, 15, 18, from the village of Tandadi Uriri, who we
 
 ### 2024-12-25 (Wednesday)
 
-### There is no need to talk to India on Kachchativu - Sarath Weerasekera
+### கச்சதீவு தொடர்பில் இந்தியாவுடன்  பேசவேண்டிய அவசியமில்லை - சரத் வீரசேகர
 
 *2024-12-25 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202155) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+இலங்கையின் தேசிய பாதுகாப்பின் பிரதான ஒரு அம்சமாக கச்சத்தீவு காணப்படுகிறது. கச்சத்தீவு இலங்கைக்கு சொந்தமானது. இவ்விடயத்தில் இந்தியாவுடன் பேச்சுவார்த்தையில் ஈடுபடுவது அவசியமற்றது. இந்தியாவின் ஒத்துழைப்புக்களை பெற்றுக்கொள்வதற்காக விதிக்கப்படும் நிபந்தனைகளுக்கு அடிபணிய வேண்டிய தேவை கிடையாதென முன்னாள் பொதுமக்கள் பாதுகாப்பு அமைச்சர் அட்மிரல் சரத் வீரசேகர தெரிவித்தார்.
 
+இலங்கை - இந்திய மீனவர் பிரச்சினைக்கு நிரந்தர தீர்வாக கச்சத்தீவை மீட்க வேண்டும் இந்தியாவின் திராவிட முன்னேற்றக் கழகம் தீர்மானம் ஒன்றை அண்மையில் நிறைவேற்றியுள்ளது. இவ்விடயம் தொடர்பில் வினவிய போது மேற்கண்டவாறு குறிப்பிட்டார்.
 
-
-Sarath Weerasekera: No need to discuss Kachchativu with India. It's crucial to Sri Lanka's national security. Indian fishermen illegally enter Sri Lankan waters, damaging marine resources. Sri Lanka must firmly defend its rights without compromising.
-
-🟩
-
-Kachchativu is the main feature of the national security of Sri Lanka. Kachchativu belongs to Sri Lanka. It is not necessary to negotiate with India in this regard. Former Public Security Minister Admiral Sarath Weerasekera said that there is no need to submit to the conditions imposed on India's cooperation.
-
-India's Dravida Munnetra Kazhagam has recently passed a resolution. He mentioned the above when he questioned the matter.
-
-The Indian government is using the Kachchativu issue for political propaganda. Sri Lankan fishermen go into the Indian waters and do not engage in illegally fishing. Indian fishermen are illegally logging into the Sri Lankan waters and destroying marine resources and re -resources.
-
-Indian fishermen should take appropriate measures to prevent Indian fishermen from entering the sea of ​​Sri Lanka. In this case, the Indian government is acting in a recession.
+கச்சத்தீவு விவகாரத்தை இந்திய அரசாங்கம் அரசியல் பிரச்சாரத்துக்காகவே பயன்படுத்திக் கொள்கிறது. இலங்கை மீனவர்கள் இந்திய கடல் எல்லைக்குள் சென்று சட்ட விரோதமான முறையில் மீன்பிடி நடவடிக்கையில் ஈடுபடுவதில்லை. இந்திய மீனவர்கள் தான் இலங்கை கடற்பரப்புக்குள் சட்டவிரோதமான முறையில் உள்நுழைந்து கடல் வளத்தையும், மீள் வளத்தையும் நாசம் செய்கிறார்கள்.
 
 ...
 
 [Data](articles/16c49223.json)
-
-[Extended Data](ext_articles/16c49223.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-25 21:43:23**
+As of **2024-12-25 22:02:32**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 10,713
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,585 (99.3%) of 62,031 articles have been extended.
+61,587 (99.3%) of 62,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-25 (Wednesday)
 
-### இரண்டு குழந்தைகளுடன் கடலில் மூழ்கிய நபர்
+### The person who drowned in the sea with two children
 
 *2024-12-25 21:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-குழந்தைகளுடன்-கடலில்-மூழ்கிய-நபர்/175-349291) · `ta`
 
-அம்பாறை - சங்கமன்கந்த கடற்பகுதியில் இரண்டு குழந்தைகளுடன் ஒருவர் கடலில் அடித்துச் செல்லப்பட்டு காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tragedy: Person drowns at sea with 2 children. Police report drowning incident in Ampara-Sangamankanda waters. Details unclear. Investigation ongoing.
+
+🟩
+
+Police say they have been drowned in the sea with two children in the Ampara - Sangamankanda seas.. Remble
 
 ◼️
 
 [Data](articles/cafb5010.json)
+
+[Extended Data](ext_articles/cafb5010.ext.json)
 
 ---
 
@@ -229,6 +239,8 @@ Galaha Police said that there are 9 pending arrest warrants issued against these
 ...
 
 [Data](articles/227ea19a.json)
+
+[Extended Data](ext_articles/227ea19a.ext.json)
 
 ---
 

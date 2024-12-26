@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 18:24:11**
+As of **2024-12-26 18:38:13**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 10,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,668 (99.2%) of 62,164 articles have been extended.
+61,669 (99.2%) of 62,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### கடலில் மாயமான தந்தை,மகன்,  மருமகன் சடலங்களாக மீட்பு
+### Recovery as dead father, son, nephew in the sea
 
 *2024-12-26 17:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மாயமான-தந்தை-மகன்-மருமகன்-சடலங்களாக-மீட்பு/175-349344) · `ta`
 
-திருக்கோவில் பொலிஸ் பிரிவிலுள்ள சங்கமன்கண்டி கடலில் மூழ்கி காணாமல் போன தந்தை, மகன் மற்றும் மருமகன் ஆகியோரின் சடலங்கள்  விநாயகபுரம் மங்கமாரி கடற்கரையில் வியாழக்கிழமை (26) மாலை கரை ஒதுங்கிய நிலையில் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+3 men drowned Sangamankandi Sea recovered bodies Vinayagapuram Mangamari beach police investigation
 
-திருக்கோவில் பொலிஸ் பிரிவிலுள்ள சங்கமன்கண்டி கடலில் நீராடச் சென்ற தந்தை, மகன் மற்றும் அவரது மருமகனான சிறுவன் உட்பட 3 பேர் கடல் புதன்கிழமை (25) மாலை 5.30 மணிக்கு அலை இழுத்துச் சென்றதில் காணாமல் போயிருந்தனர்.
+🟩
 
-சங்கமன் கண்டியைச் சேர்ந்த 38 வயதுடைய மயில்வாகனம் நந்தராஜ், அவருடைய 15 வயதுடைய மகன் டினுஜன்  மற்றும் நந்தராஜ் சகோதரியின் மகனான 17 வயதுடைய கிரிஷோர் ஆகிய மூவரும் இவ்வாறு கடலில் மூழ்கிக் காணாமல் போயுள்ளனர்.
+The bodies of the father, son and son -in -law who were drowned in the Sangamankandi Sea in the Tirukovil police division have been recovered at the Vinayagapuram Mangamari beach on Thursday evening (26), police said.
 
-...
+Three people, including a father, son and his son -in -law, who were drowned in the Sangamankandi Sea in the Tirukovil police division, were missing at 5.30 pm on Wednesday (25) at 5.30 pm.
+
+The 38 -year -old Mayilvankanam Nandaraj, a 38 -year -old from Sangaman Kandy, and his 15 -year -old son, Dinujan and Nandaraj's sister, 17 -year -old Krishore, have gone missing.
+
+Is his son from Mayilvankanam Nandaraj from the area?The three -year -old son of the sister of the Nathar festival went to the sea on Wednesday evening (25). His son and son -in -law, who first landed in the sea, were dragged by a sea wave while swimming in the sea.The father has also jumped into the sea to save them.Initial investigations by the police revealed that the father was also missing the sea wave.
+
+◼️
 
 [Data](articles/6ce09272.json)
+
+[Extended Data](ext_articles/6ce09272.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 01:12:47**
+As of **2024-12-27 01:27:15**
 
 ## Newspaper Stats
 
-*Scraped **62,189** Articles*
+*Scraped **62,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,785
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,942
-adaderanalk | 7,593
+adaderanalk | 7,594
 tamilmirrorlk | 8,921
 virakesarilk | 10,301
-adaderanasinhalalk | 10,742
+adaderanasinhalalk | 10,745
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,696 (99.2%) of 62,189 articles have been extended.
+61,698 (99.2%) of 62,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,6 +64,56 @@ According to reports, there was a slight tense situation among the people of the
 
 ---
 
+### India’s former PM Manmohan Singh dies at 92
+
+*2024-12-26 23:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104515/indias-former-pm-manmohan-singh-dies-at-92) · `en`
+
+Manmohan Singh, the former Indian prime minister who governed the South Asian country for two terms and liberalised its economy in an earlier stint as finance minister, has died, local media reported on Thursday. He was 92.
+
+Singh, an economist-turned-politician who also served as the governor of the central bank, was ailing and admitted to the All India Institute of Medical Sciences in New Delhi, local media reported late on Thursday.
+
+Singh was admitted to the emergency ward of Delhi’s All India Institute of Medical Sciences (AIIMS) at around 8 pm. The veteran Congress leader retired from the Rajya Sabha in April after 33-year-long stint in the Upper House.
+
+Dr Manmohan Singh served as prime minister of India from 2004 to 2014.
+
+“With profound grief, we inform the demise of the former Prime Minister of India, Dr Manmohan Singh, aged 92. He was being treated for age-related medical conditions and had a sudden loss of consciousness at home on 26 December 2024.
+
+...
+
+[Data](articles/8c87db10.json)
+
+---
+
+### ඉන්දීය හිටපු අග්‍රාමාත්‍ය මන්මෝහන් සිං අභාවප්‍රාප්ත වෙයි
+
+*2024-12-26 22:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204757) · `si`
+
+ඉන්දියාවේ හිටපු අග්‍රාමාත්‍යවරයෙකු වන මන්මෝහන් සිං මහතා අද (26) පස්වරුවේ අභාවප්‍රාප්ත වූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+1932 වසරේ වත්මන් පාකිස්තානයට අයත් කොටසක් වන පංජාබ්හිදී උපත ලැබූ ඒ මහතා මිය යන විට වයස අවුරුදු 92ක් විය.
+
+ඉන්දියාවේ 13 වැනි අග්‍රාමාත්‍යවරයා වන මන්මෝහන් සිං මහතා දෙවරක් ඉන්දීය අගමැති ලෙසින් කටයුතු කර ඇත.
+
+ප්‍රකට ආර්ථික විශේෂඥයෙක් වන ඔහු, ඉන්දීය ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලියේ ප්‍රමුඛයෙක් ලෙස ද සැලකෙයි.
+
+පන්ජාබ් විශ්වවිද්‍යාලයෙන් සිය මූලික උපාධිය ලබාගත් මන්මෝහන් අනතුරුව එංගලන්තයේ කේම්බ්‍රිජ් සහ ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලවල අධ්‍යාපනය ලැබීය.
+
+සිය අධ්‍යාපන කටයුතුවලින් අනතුරුව ඔහු ඉන්දීය සිවිල් සේවයට එක්වී තිබුණි.
+
+1991 වසරේදී ඉන්දීය ආර්ථිකය කඩාගෙන වැටුණු අතර එය ගොඩනැගීමේ වගකීම පැවරුණේ මන්මෝහන් ටය.
+
+ඒ අනුව එරට මුදල් අමාත්‍යවරයා ලෙස පත්වූ ඔහු ඉන්දීය ආර්ථිකය ක්‍රමයෙන් යථා තත්ත්වයට පත්කළේය.
+
+අද ලෝක ආර්ථිකයේ දැවැන්තයෙක්වන  ඉන්දියාව ට ඒ සඳහා මග පෙන්වූවේ ඔහු බව බොහෝ දෙනා පවසති.
+
+මන්මෝහන් සිං මහතා, 2004 වසරේ සිට 2014 දක්වා එරට අග්‍රාමාත්‍යවරයා ලෙස කටයුතු කළේය.
+
+...
+
+[Data](articles/411f9d46.json)
+
+---
+
 ### Former Prime Minister of India Manmohan Singh has passed away
 
 *2024-12-26 22:49:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இந்திய-முன்னாள்-பிரதமர்-மன்மோகன்-சிங்-காலமானர்/150-349360) · `ta`
@@ -81,6 +131,42 @@ In the meantime, Manmohan Singh died after being admitted to the Delhi AIIMS hos
 [Data](articles/0671accc.json)
 
 [Extended Data](ext_articles/0671accc.ext.json)
+
+---
+
+### ඉන්දියාවට පලාගිය අඹුසැමියන් ගුවන්තොටේදී අත්අඩංගුවට
+
+*2024-12-26 22:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204756) · `si`
+
+මූල්‍ය වංචාවක් සිදුකර බෝට්ටුවකින් ඉන්දියාවට පළා ගිය අඹුසැමි යුවළක් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපළේදී අද (26) අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම අඹුසැමි යුවල මීට වසර 3කට පෙර රුපියල් මිලියන 1,600ක මූල්‍ය වංචාවක් ඉන්දියාවට පළාගොස් තිබේ.
+
+◼️
+
+[Data](articles/e248b950.json)
+
+---
+
+### ත්‍රිකුණාමලය මුහුදේ Target drone යානයක්
+
+*2024-12-26 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204755) · `si`
+
+ත්‍රිකුණාමලයට ආසන්න මුහුදේ පාවෙමින් තිබූ කුඩා ගුවන් යානයක් ධීවරයන් පිරිසකට හමුවී තිබේ.
+
+මේ සම්බන්ධයෙන් කළ විමසීමකදී ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක ගෘප් කැප්ටන් එරන්ද ගීගනගේ මහතා පවසා සිටියේ, මෙය ටාගට් ඩ්‍රෝන් වර්ගයේ යානයක් බවයි.
+
+මෙවැනි වර්ගයේ යානයක් මීට පෙර 2020 වසරේදී හමු වූ බවත් හෙතෙම පැවසීය.
+
+කිලෝ 40ක් පමණ බරකින් යුත් මෙවැනි යානා ඉන්දියානු ගුවන් හමුදාව පුහුණු සැසිවල ඉලක්ක ලෙස භාවිත කරන බව එවර සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත.
+
+කෙසේ නමුත් මෙවර සොයාගත් ගුවන් යානය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමට විශේෂ කණ්ඩායමකන් පත්කර තිබේ.
+
+වැඩිදුරටත් අදහස් දැක්වූ ගුවන් හමුදා මාධ්‍ය ප්‍රකාශකරයා පවසා සිටියේ, මෙම යානය හානි දායක නොවන බවත්, පුපුරණ ද්‍රව්‍ය කිසිවක් හමු වී නොමැති බවත්ය.
+
+◼️
+
+[Data](articles/29ea7a39.json)
 
 ---
 
@@ -960,6 +1046,8 @@ Top positive contributors to the ASPI were LOLC Holdings (up at 665.00), Hatton 
 
 [Data](articles/3eb6a5d1.json)
 
+[Extended Data](ext_articles/3eb6a5d1.ext.json)
+
 ---
 
 ### CSE continues upward momentum with new all-time high
@@ -977,6 +1065,8 @@ Today’s turnover is recorded as over Rs. 7 billion while the total number of s
 ◼️
 
 [Data](articles/cb69889b.json)
+
+[Extended Data](ext_articles/cb69889b.ext.json)
 
 ---
 
@@ -2351,71 +2441,5 @@ The Department of Meteorology further stated that some areas of the Western, Sab
 ...
 
 [Data](articles/f663ae72.json)
-
----
-
-### ලබන වසරේ පොලීසියේ ස්ථාන මාරු මාස 6කට කල්යයි
-
-*2024-12-26 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204734) · `si`
-
-2025 වර්ෂයට අදාළ පොලිස් දෙපාර්තමේන්තුවේ වාර්ෂික ස්ථාන මාරුවීම් නියෝග ක්‍රියාත්මක කිරීම මාස හයකට අත්හිටුවා තිබේ.
-
-වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතා විසින් ඊට අදාළ නියෝගය පසුගිය අඟහරුවාදා දිනයේ නිකුත්කර ඇති බව සඳහන්ය.
-
-ඒ අනුව ලබන වසරේ ජනවාරි මස පළමුවැනි දිනට ක්‍රියාත්මක කිරීමට නියමිත 2025 වාර්ෂික ස්ථාන මාරුවීම් නියෝග ක්‍රියාත්මක කළ යුතු දිනය එම වසරේ ජුනි මස 30 වන දින දක්වා දීර්ඝ කර තිබේ.
-
-අත්‍යාවශ්‍ය හේතුන් මත එදිනට පෙර වාර්ෂික ස්ථාන මාරුවීම් නියෝග ක්‍රියාත්මක කිරීමට අවශ්‍ය නිලධාරින් සිටි නම් ඒ සම්බන්ධයෙන් වාර්තාවක් පළාත් භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන් විසින් සකස් කර නියෝජ්‍ය පොලිස්පති මානව සම්පත් කළමණාකරන සහ ජාත්‍යන්තර සබඳතා දිසාව වෙත යොමුකිරීමට කටයුතු කළ යුතු බව වැඩබලන පොලිස්පතිවරයා දැනුම් දී ඇත.
-
-කෙසේ වෙතත් රාජකාරි අවශ්‍යතා මත 2025 වාර්ෂික ස්ථානමාරුවීම් නියෝග ක්‍රියාත්මක කිරීමට මෙම නියෝගය බාධාවක් නොවන බවද වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතා දැනුම් දී තිබේ.
-
-◼️
-
-[Data](articles/ae0d480d.json)
-
----
-
-### நிலைபேறான நல்லிணக்கத்துக்கு சகல சமூகங்களையும் அரவணைக்கும் ஆட்சிமுறை அவசியம்
-
-*2024-12-26 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202174) · `ta`
-
-இலங்கையைப் போன்ற பல இனங்களையும் பல மதங்களையும் சேர்ந்த மக்கள் வாழ்கின்ற ஒரு நாட்டில் சகல சமூகங்களையும் அரவணைப்பது என்பது  வெறுமனே  அடையாளபூர்வமானதாக  இருக்கமுடியாது. அது பல்வேறுபட்ட கருத்துக் கோணங்களையும் நோக்குகளையும் கையாளுவதற்கும் பரஸ்பர புரிந்துணர்வை வளர்ப்பதற்கும் இன்றியமையாத ஒன்றாகும்.
-
-◼️
-
-[Data](articles/417c7b18.json)
-
----
-
-### Sri Lanka to observe two-minute silence to mark 20 years since devastating tsunami
-
-*2024-12-26 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104501/sri-lanka-to-observe-two-minute-silence-to-mark-20-years-since-devastating-tsunami) · `en`
-
-A two minutes’ silence will be observed island-wide today (26 December) on National Safety Day from 9.25 a.m. to 9.27 a.m. in memory of all who lost their lives in the 2004 tsunami and other natural disasters in Sri Lanka, the Disaster Management Center (DMC) said.
-
-This year, arrangements have been made to observe ‘National Safety Day’ at the district level across the island, with the main event scheduled to take place in front of the Peraliya Tsunami Memorial Statue in Galle.
-
-Today (Dec. 26) marks the 20th anniversary of the 2004 Boxing Day Tsunami, one of the world’s deadliest and most destructive natural disasters, which impacted over 10 countries in the Indian Ocean.
-
-Thus, a two minutes’ silence will be observed island-wide today from 9.25 a.m. to 9.27 a.m. in memory of all who lost their lives in the 2004 tsunami and other natural disasters in Sri Lanka, as per the DMC.
-
-...
-
-[Data](articles/c0fe22dc.json)
-
----
-
-### කළුතර ජනතාවට විශේෂ දැනුම්දීමක්
-
-*2024-12-26 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204733) · `si`
-
-හදිසි අලුත්වැඩියා කටයුත්තක් හේතුවෙන් කළුතර දිස්ත්‍රීක්කයේ ප්‍රදේශ කිහිපයකට අද (26) පෙරවරු 9සිට පැය 18ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජලසම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
-
-ඒ අනුව කළුතර දකුණ, කළුතර උතුර, වාද්දුව, වස්කඩුව, මොරොන්තුඩුව සහ බොම්බුවල යන ප්‍රදේශවලට මෙසේ ජලසැපයුම අත්හිටුවනු ඇත.
-
-අද පෙරවරු 9 සිට හෙට (27) අලුයම 3දක්වා මෙම ජල සැපයුම අත්හිටුවීමට නියමිත බව ජාතික ජලසම්පාදන හා ජලාපවාහන මණ්ඩලය සදහන් කළේය.
-
-◼️
-
-[Data](articles/95d37a36.json)
 
 ---

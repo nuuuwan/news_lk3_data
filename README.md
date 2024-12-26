@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 15:43:48**
+As of **2024-12-26 16:02:02**
 
 ## Newspaper Stats
 
-*Scraped **62,147** Articles*
+*Scraped **62,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,764
 economynextcom | 3,782
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,932
+adalk | 5,933
 adaderanalk | 7,588
 tamilmirrorlk | 8,913
 virakesarilk | 10,292
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,659 (99.2%) of 62,147 articles have been extended.
+61,659 (99.2%) of 62,148 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -323,6 +323,18 @@ Deputy Minister Watagala also noted that discussions had been held with the Acti
 ...
 
 [Data](articles/f515b15a.json)
+
+---
+
+### ජාතික රූපවාහිනියේ නව සභාපති වැඩ භාරගනියි
+
+*2024-12-26 13:29:05* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-රූපවාහිනියේ-නව-සභාපති-වැඩ-භාරගනියි/11-413852) · `si`
+
+ජාතික රූපවාහිනියේ නව සභාපතිවරයා ලෙස ගිහාන් ද සිල්වා මහතා අද (26දා) වැඩ භාරගෙන තිබේ.
+
+◼️
+
+[Data](articles/7e86cb0b.json)
 
 ---
 
@@ -2375,27 +2387,5 @@ Three individuals including two children are reported missing after being swept 
 ...
 
 [Data](articles/4023d1e8.json)
-
----
-
-### The person who drowned in the sea with two children
-
-*2024-12-25 21:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-குழந்தைகளுடன்-கடலில்-மூழ்கிய-நபர்/175-349291) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tragedy: Person drowns at sea with 2 children. Police report drowning incident in Ampara-Sangamankanda waters. Details unclear. Investigation ongoing.
-
-🟩
-
-Police say they have been drowned in the sea with two children in the Ampara - Sangamankanda seas.. Remble
-
-◼️
-
-[Data](articles/cafb5010.json)
-
-[Extended Data](ext_articles/cafb5010.ext.json)
 
 ---

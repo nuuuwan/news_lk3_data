@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 19:27:25**
+As of **2024-12-26 19:42:58**
 
 ## Newspaper Stats
 
-*Scraped **62,175** Articles*
+*Scraped **62,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,764
 economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,938
+adalk | 5,939
 adaderanalk | 7,591
 tamilmirrorlk | 8,918
 virakesarilk | 10,300
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,674 (99.2%) of 62,175 articles have been extended.
+61,675 (99.2%) of 62,176 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,23 +104,29 @@ Is his son from Mayilvankanam Nandaraj from the area?The three -year -old son of
 
 ---
 
-### மட்டக்களப்பு - வவுணதீவு  பகுதியில் நீர்நிலையிலிருந்து ஆண் ஒருவரின் சடலம் மீட்பு!
+### Batticaloa's body recovered from water in Batticaloa - Vavuniya area
 
 *2024-12-26 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202230) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் வவுணதீவு பொலிஸ் பிரிவுக்குட்பட்ட சிப்பிமடு பகுதியில் உள்ள நீர்நிலையிலிருந்து ஆண் ஒருவரின் சடலம் இன்று வியாழக்கிழமை (26) மீட்கப்பட்டுள்ளது.
+Body recovered from water in Batticaloa-Vavuniya area. 51-year-old male found in Chippimadu. Relatives searched after he went missing last Monday. Body in poor condition with injuries. Post-mortem conducted at Batticaloa Teaching Hospital.
 
-வவுணதீவு,காந்திநகர் சின்னசிப்பிமடு பகுதியை சேர்ந்த 51வயதுடையவரே சடலமாக மீட்கப்பட்டுள்ளதாக வவுணதீவு பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கடந்த திங்கட்கிழமை காலை வீட்டிலிருந்து சென்றவர் இதுவரையில் வீடு திரும்பாமையினால் உறவினர்கள் தேடியுள்ள நிலையில்  சடலமாக குறித்த பகுதியில் மீட்கப்பட்டுள்ளதாக உறவினர்கள் தெரிவித்தனர்.
+The body of a man has been recovered today (26) from the water bodies in the Chippimadu area of ​​the Vavuniya Police Division of the Batticaloa District.
 
-குறித்த பகுதிக்கு வந்த வவுணதீவு பொலிஸ் நிலைய பொறுப்பதிகாரி தலைமையில் விசாரணைகள் முன்னெடுக்கப்பட்டதுடன் மரண விசாரணைகளை தொடர்ந்து சடலம் பிரேத பரிசோதனைகளுக்காக மட்டக்களப்பு போதனா வைத்தியசாலைக்கு கொண்டுசெல்லப்பட்டுள்ளது.
+Vavuniya police said that 51 -year -olds have been recovered from the Chinnasipimadu area of ​​Gandhinagar, Vavunathivu.
 
-சடலம் அழுகிய நிலையில் காணப்படுவதுடன் உடலில் சில காயங்களும் காணப்படுவதாக சடலத்தினை பார்வையிட்ட உறவினர்கள் தெரிவித்தனர்.
+Relatives said that the person who had left the house last Monday morning has been recovered in the area as relatives have been searching for the home.
+
+Investigations were carried out under the leadership of the Vavuniya Police Station in charge of the area and the body was taken to the Batticaloa Teaching Hospital for post -mortem.
+
+Relatives who visited the body said the body was in a state of rotting and some injuries were found in the body.
 
 ◼️
 
 [Data](articles/3ed97893.json)
+
+[Extended Data](ext_articles/3ed97893.ext.json)
 
 ---
 
@@ -353,6 +359,22 @@ The man who went to cut the copper wire was stuck in the electrical and the poli
 [Data](articles/fb82bd86.json)
 
 [Extended Data](ext_articles/fb82bd86.ext.json)
+
+---
+
+### නෙවිල් ප්‍රනාන්දු රෝහල නව්‍යකරණයට
+
+*2024-12-26 16:38:42* · [`adalk`](https://www.ada.lk/breaking_news/නෙවිල්-ප්‍රනාන්දු-රෝහල-නව්‍යකරණයට/11-413859) · `si`
+
+ප්‍රධාන ධාරාවන් කිහිපයක් පිළිබදව අවධානය යොමු කර සුදුසුම සංවර්ධන සැළැස්ම ක්‍රියාත්මක කරමින් මාළඹේ වෛද්‍ය නෙවිල්  ප්‍රනානදු රෝහල රටට අතිශය ඵලදායී රෝහලක් ලෙස කඩිනමින් සංවර්ධනය කිරීමට පියවර ගන්නා බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කලේය.
+
+අමාත්‍යවරයා මෙම කරුණු අනාවරණය කලේ පසුගියදා වෛද්‍ය නෙවිල් ප්‍රනාන්දු රෝහලේ සිදුකරන ලද විශේෂ නිරීක්ෂණ චාරිකාවකට හා සාකච්ඡාවකට එක්වෙමිනි. සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා ලෙස වෛද්‍ය නලින්ද ජයතිස්ස මහතා සිය ධූරයේ රාජකාරී ආරම්භ කිරීමෙන් පසු රජයේ රෝහලක සිදුකරන ලද පළමු නිරීක්ෂණ චාරිකාව ද මෙය විය.
+
+මෙහිදී අමාත්‍යවරයා රෝහලේ සියලු අංශ නිරීක්ෂණයට ලක් කරමින් අදාල ඉදිරි සැළසුම් සකස් කිරීම සදහා අමාත්‍යංශයේ නිලධාරීන්, විශේෂඥ වෛද්‍යවරුන් ප්‍රමුඛ රෝහල් කාර්ය මණ්ඩලය සමග ඉතා දීර්ඝ සාකච්ඡාවක නිරත විය.
+
+...
+
+[Data](articles/902236e5.json)
 
 ---
 
@@ -2233,43 +2255,5 @@ Meanwhile, on December 26, 2004, the tsunami of the 9.1 McNett -magnitude earthq
 [Data](articles/b2f08e49.json)
 
 [Extended Data](ext_articles/b2f08e49.ext.json)
-
----
-
-### Tsunami 20 years for 20 years - a mindful of the dead
-
-*2024-12-26 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204728) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka marks National Safety Day on Dec 26 to honor tsunami victims from 2004 disaster. Over 35,000 lives lost and 5,000 missing. 77 tsunami towers were built but only 5 are active now. Public silence at 9:25 AM today.
-
-🟩
-
-The tsunami disaster occurred today (26), which claimed over 35,000 lives.
-
-According to the Disaster Management Center, the "National Safety Day" will be celebrated today due to the incident.
-
-More than 35,000 people of Sri Lanka died from the 2004 tsunami disaster and more than 5,000 people went missing.
-
-Accordingly, from December 26, from 2005 has been declared as the National Safety Day.
-
-The National Safety Day is organized this year at district level and the main celebration has been held at the Galle Tsunami monument in Galle.
-
-A two-minute silence will be held from 9.25 minutes to 9.27 am today to remembrance of the dead public.
-
-Meanwhile, 77 tsunami towers were established in 14 districts of the island to identify the tsunami warning with the tsunami of the year 2004.
-
-However, less than 5 people are currently active in 77 tsunami.
-
-It is reported that the technical assistance has been provided with technical assistance to install the tsunami town.
-
-...
-
-[Data](articles/49db6ad4.json)
-
-[Extended Data](ext_articles/49db6ad4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 06:13:21**
+As of **2024-12-26 06:48:38**
 
 ## Newspaper Stats
 
-*Scraped **62,068** Articles*
+*Scraped **62,069** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,924
 adaderanalk | 7,578
-tamilmirrorlk | 8,888
+tamilmirrorlk | 8,889
 virakesarilk | 10,280
 adaderanasinhalalk | 10,718
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,626 (99.3%) of 62,068 articles have been extended.
+61,626 (99.3%) of 62,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### தேசிய பாதுகாப்பு தினம் இன்று அனுஷ்டிப்பு
+
+*2024-12-26 03:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பாதுகாப்பு-தினம்-இன்று-அனுஷ்டிப்பு/175-349293) · `ta`
+
+சுனாமி ஆழிப்பேரலை ஏற்பட்டு 20 ஆண்டுகள் கடந்துள்ள நிலையில், இன்று தேசிய பாதுகாப்பு தினம் அனுஷ்டிக்கப்படுகிறது.
+
+இன்றைய தினம் அனுஷ்டிக்கப்படவுள்ள தேசிய பாதுகாப்பு தினத்திற்கு இணையான பிரதான நிகழ்வு பாதுகாப்பு அமைச்சின் அனர்த்த முகாமைத்துவ பிரிவு வளாகத்தில் இடம்பெறவுள்ளது.
+
+இந்த நிகழ்வு பாதுகாப்பு பிரதி அமைச்சர் ஓய்வு பெற்ற மேஜர் ஜெனரால் அருண ஜயசேகர தலைமையில் இடம்பெறவுள்ளது.
+
+இதுதவிர, மாவட்ட மட்ட நிகழ்வுகளும் இடம்பெறவுள்ளன என அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/05f2444e.json)
+
+---
 
 ### Student abuse at Anna University
 
@@ -2465,29 +2483,5 @@ Once Anura Kumara Dissanayake was elected president, former Media Minister Vijit
 [Data](articles/b4bed93a.json)
 
 [Extended Data](ext_articles/b4bed93a.ext.json)
-
----
-
-### Threaten to kill Mahinda
-
-*2024-12-25 11:16:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவுக்கு-கொலை-மிரட்டல்/175-349253) · `ta`
-
-ISIS LTTE threaten Mahinda Rajapakse security concerns withdrawal soldiers police protection insufficient
-
-🟩
-
-Former President Mahinda Rajapakse has been threatened with murder from ISIS terrorists and LTTE groups, said Manoj Kamage, Vice President of the Sri Lanka PA (SLPP) Lawyers Association.
-
-He told the media about the security concerns following the withdrawal of soldiers from Rajapakse's security forces.
-
-Kamage criticized the resolution of the Public Security Ministry to appoint police officers for the protection of the former president's protection, replacing the remaining armed soldiers, saying that this was not sufficient to consider the severity of the threats.
-
-He further expressed concern that the replacement of police officers to the former president's safety would be abandoned amid these crisis threats.
-
-◼️
-
-[Data](articles/9b99a578.json)
-
-[Extended Data](ext_articles/9b99a578.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 03:13:03**
+As of **2024-12-27 03:27:21**
 
 ## Newspaper Stats
 
-*Scraped **62,197** Articles*
+*Scraped **62,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,307
 dailymirrorlk | 4,733
 adalk | 5,942
 adaderanalk | 7,594
-tamilmirrorlk | 8,921
+tamilmirrorlk | 8,922
 virakesarilk | 10,301
 adaderanasinhalalk | 10,745
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,706 (99.2%) of 62,197 articles have been extended.
+61,706 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### இஸ்ரேலின் தாக்குதலில் ஊடகவியலாளர்கள் ஐவர் பலி
+
+*2024-12-27 02:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-ஊடகவியலாளர்கள்-ஐவர்-பலி/50-349362) · `ta`
+
+காசா மீது இஸ்ரேல் நடத்திய தாக்குதலில் ஊடகவியலாளர்கள் ஐவர் கொல்லப்பட்டுள்ளனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+
+காசாவில் இயங்கிவரும் செய்தி நிறுவனத்தின் கார் ஒன்றின் மீது இஸ்ரேல் இந்தத் தாக்குதலை மேற்கொண்டுள்ளது.
+
+கடந்த ஆண்டு ஒக்டோபர் முதல் இஸ்ரேல் - ஹமாஸ் இடையே நடந்துவரும் மோதல்களினால் தொடர்ந்தும் ஊடகவியலாளர்கள் கொல்லப்படுகின்றனர் என்பது குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/b8fcd763.json)
+
+---
 
 ### Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
 
@@ -2455,27 +2471,5 @@ A9 வீதியால் பயணித்த டிப்பர் வா�
 ◼️
 
 [Data](articles/378a21b6.json)
-
----
-
-### Sri Lanka set to welcome two millionth foreign tourist today
-
-*2024-12-26 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104502/sri-lanka-set-to-welcome-two-millionth-foreign-tourist-today) · `en`
-
-The Ministry of Tourism says today (26) it is prepared to welcome the two millionth foreign tourist to arrive in Sri Lanka this year.
-
-Deputy Minister of Tourism Prof. Ruwan Ranasinghe revealed that the Sri Lanka Tourism Promotion Bureau (SLTPB) has organized a special event at the Bandaranaike International Airport (BIA) in Katunayake this morning to mark the occasion.
-
-As of December 22, 1,966,256 foreign tourists had visited Sri Lanka since the beginning of this year.
-
-In December alone, 161,383 foreign tourists arrived, with the largest group coming from India, totalling 35,131.
-
-Additionally, 22,637 foreign tourists from Russia, 12,822 from the UK, 9,998 from Germany, and 8,646 from Australia arrived in Sri Lanka during December.
-
-The Tourism Development Board stated that, during the time elapsed this year (2024), the largest number of foreign tourists, 399,224, arrived from India, while 189,289 tourists came from Russia.
-
-...
-
-[Data](articles/ae1cfd1b.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 19:42:58**
+As of **2024-12-26 20:01:32**
 
 ## Newspaper Stats
 
-*Scraped **62,176** Articles*
+*Scraped **62,177** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 629
-bbccomsinhala | 655
+bbccomsinhala | 656
 islandlk | 3,764
 economynextcom | 3,784
 dailyftlk | 4,303
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,740
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,675 (99.2%) of 62,176 articles have been extended.
+61,676 (99.2%) of 62,177 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -130,21 +130,35 @@ Relatives who visited the body said the body was in a state of rotting and some 
 
 ---
 
-### அஜித் குமார் நடிக்கும் 'விடாமுயற்சி' வெளியீடு மேலும் தாமதமாகிறதா...!?
+### Is Ajith Kumar's 'Diligence' release more late ...!?
 
 *2024-12-26 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202226) · `ta`
 
-அஜித் குமார் நடிப்பில் உருவாகி வரும் 'விடா முயற்சி' படத்தில் தன் பங்களிப்பை அஜித்குமார் நிறைவு செய்திருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்திருக்கிறார்கள்.
+Here's a summary of the text in approximately 200 characters:
 
-இயக்குநரும், நடிகருமான மகிழ் திருமேனி இயக்கத்தில் உருவாகி விரைவில் வெளியாக இருக்கும் ' விடா முயற்சி' எனும் திரைப்படத்தில் அஜித் குமார், அர்ஜுன், திரிஷா, ரெஜினா  கசண்ட்ரா, ஆரவ் , நிகில் நாயர், ரம்யா சுப்ரமணியன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-ஓம் பிரகாஷ் மற்றும் நீரவ் ஷா ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஷ்கரன் தயாரித்திருக்கிறார்.
 
-அடுத்த ஆண்டு பொங்கல் விடுமுறை தினத்தை முன்னிட்டு ஜனவரி மாதம் பத்தாம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகும் என அறிவிக்கப்பட்டிருக்கும் இந்த திரைப்படத்தில் இடம்பெற்ற முதல் பாடல் நாளை (டிசம்பர் 27 ) வெளியாகிறது.‌
+Ajith Kumar's 'Diligence' release date uncertain; 'Vida Tri' nearing completion; first song out Dec 27; background voice work done; Jan 10 release doubt; now rumored for Jan 26.
+
+🟩
+
+Ajit Kumar has completed his contribution to Ajith Kumar's upcoming film 'Vida Tri'.
+
+Ajith Kumar, Arjun, Trisha, Regina Kasandra, Arav, Nikhil Nair, Ramya Subramanian and many others have starred in the director and actor.
+
+Anirudh has composed the film, which has been recorded by Om Prakash and Neerav Shah.. The film is being produced as an exercise enterter and produced by producer Subhashkaran on behalf of Leica Productions.
+
+The first song will be released tomorrow (December 27), which will be released on the 10th of January next year.
+
+Ajit Kumar, who recently completed the shooting of the film, has also completed the work of giving the background voice for the film.. Following this, Ajit Kumar has completed his contribution to the film.
+
+The crew, which was delighted, has posted a special photo to thank him. This has given Ajith fans a new excitement.
 
 ...
 
 [Data](articles/79a4c881.json)
+
+[Extended Data](ext_articles/79a4c881.ext.json)
 
 ---
 

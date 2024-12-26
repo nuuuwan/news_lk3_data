@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 11:44:09**
+As of **2024-12-26 12:03:17**
 
 ## Newspaper Stats
 
-*Scraped **62,110** Articles*
+*Scraped **62,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 655
 islandlk | 3,764
-economynextcom | 3,777
+economynextcom | 3,780
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,928
+adalk | 5,929
 adaderanalk | 7,584
-tamilmirrorlk | 8,904
+tamilmirrorlk | 8,905
 virakesarilk | 10,286
 adaderanasinhalalk | 10,727
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,645 (99.3%) of 62,110 articles have been extended.
+61,645 (99.2%) of 62,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### கங்கைக்கு சென்ற பெண் மாயம்
+
+*2024-12-26 11:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கைக்கு-சென்ற-பெண்-மாயம்/175-349313) · `ta`
+
+களு கங்கைக்கு சென்ற பெண் ஒருவரை முதலை இழுத்துச் சென்றதாக கிடைத்த தகவலின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக களுத்துறை தெற்கு பொலிஸார் தெரிவித்தனர்.
+
+தொடங்கொட கொஹலன வடக்கு பிரதேசத்தில் வசிக்கும் 50 வயதுடைய பெண்ணொருவரே முதலை இழுத்துச்சென்றுள்ளதாக  தெரிவிக்கப்படுகிறது
+
+பெண்ணை தேடுவதற்கான நடவடிக்கைகளை அப்பகுதி மக்கள் ஆரம்பித்துள்ளதோடு களுத்துறை தெற்கு தலைமையக பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0ed4906d.json)
+
+---
 
 ### Warning on Festival Online Financial Fraud
 
@@ -169,6 +185,32 @@ However, Acting IGP Priyantha Weerasooriya has informed that this order will not
 ◼️
 
 [Data](articles/dc7f3ab2.json)
+
+---
+
+### Sri Lanka rupee trades stronger at 294.30/60 to US dollar, bonds up
+
+*2024-12-26 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-294-30-60-to-us-dollar-bonds-up-196444/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 294.30/60 to the US dollar in the spot market, from 294.00/295.50 on Tuesday, while bond yields were down, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent, down from 9.40/55 percent.
+
+A bond maturing on 15.09.2027 was quoted at 9.75/85 percent, down from 9.77/87 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, down from 10.10/20 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.28/35 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.65/75 percent, down from 10.65/80 percent.
+
+In equities, the All Share Price Index was up 1.07 percent or 162.58 points, at 15,330.
+
+The more liquid S&P SL20 was up 0.95 percent, or 43.16 points, at 4,578.
+
+◼️
+
+[Data](articles/a814b01a.json)
 
 ---
 
@@ -488,6 +530,26 @@ The Department of Meteorology further stated that some areas of the Western, Sab
 
 ---
 
+### ගිනිගෙන දැවුනු කැබ් රථයක් තුල තිබී පිලිස්සී ගිය පුද්ගල මළ සිරුරක්
+
+*2024-12-26 09:21:37* · [`adalk`](https://www.ada.lk/breaking_news/ගිනිගෙන-දැවුනු-කැබ්-රථයක්-තුල-තිබී-පිලිස්සී-ගිය-පුද්ගල-මළ-සිරුරක්/11-413848) · `si`
+
+හබරණ පොළොන්නරුව ප්‍රධාන මාර්ගයේ හතේ කණුව සහ බටුඔය අතර 38 කිලෝමීටර් කණුව අසල ගිනිගත් කැබ්රථයක් තුළ තිබී පුද්ගලයෙකුගේ මළ සිරුරක් 25 වෙනිදා රාත්‍රියේදී සොයා ගැනීමට හැකිවූ බව මින්නේරිය පොලිසිය කියයි.
+
+හබරණ මින්නේරිය මාර්ගයේ ගමන් ගත් පුද්ගලයෙකු විසින් කැබ් රථයක් ගිනි ගන්නා බවට මින්නේරිය පොලීසියට දැනුම් දීමෙන් අනතුරුව මෙම ගිනි ගනිමින් තිබෙන කැබ් රථය මින්නේරිය පොලීසිය විසින් සොයා ගෙන ඇත.
+
+ඉන් අනතුරුව මෙම ගිනි ගනිමින් තිබූ කැබ් රථයේ ඇතිව තිබූ ගින්න නිවා දැමීම සඳහා මින්නේරිය පොලීසිය හා පොළොන්නරුව මහ නගර සභාවේ ගිනි නිවීමේ ඒකකයේ නිලධාරීන් පැමිණ දැඩි පරිශ්‍රමයක් දරා ගින්න සම්පූර්ණයෙන් නිවා දැමීමට කටයුතු කර තිබේ.
+
+ගිනිගෙන තිබූ කැබ් රථය මින්නේරිය පොලීසිය විසින් පරීක්ෂා කිරීමේදී එහි පිටුපස ආසනයේ තිබී පිලිස්සී මියගිය පුද්ගලයෙකුගේ මළ සිරුරක් පොලීසිය විසින් සොයා ගෙන ඇත.
+
+25 වෙනිදා රාත්‍රී 10 ට පමණ මෙම ගින්න හට ගෙන ඇති අතර ගිනි ගන්නා අවස්ථාවේදී කැබ් රථය හබරණ දෙසට මුහුණලා    නතර කොට තිබී ඇති අතර එහි වෙනත් කිසිදු පුද්ගායෙකු සිට නොමැති බව මින්නේරිය පොලීසිය පවසයි.
+
+...
+
+[Data](articles/f663ae72.json)
+
+---
+
 ### ලබන වසරේ පොලීසියේ ස්ථාන මාරු මාස 6කට කල්යයි
 
 *2024-12-26 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204734) · `si`
@@ -597,6 +659,26 @@ Furthermore, they have also been instructed to use only the specific red signal 
 ◼️
 
 [Data](articles/0b18d081.json)
+
+---
+
+### Sri Lanka medical officer recalls battle to identify 2004 tsunami dead: report
+
+*2024-12-26 08:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-medical-officer-recalls-battle-to-identify-2004-tsunami-dead-report-196412/) · `en`
+
+ECONOMYNEXT – A hospital in Sri Lanka’s southern town of Galle went to great lengths to identify and deliver over 1,200 bodies that suddenly came to the hospital during the tsunami, but to this day about 300 remain un-identified, a media report quoting a judicial medical officer said.
+
+Galle town was one of the hardest hit locations in the country, where the main town square went under water.
+
+Other badly hit towns include Hambantota, and the island’s East which took the full force of the waves, but some of the areas were then under the control of Tamil Tiger separatists.
+
+Among the dead bodies that flooded the Karapitiya hospital in Galle were 40 children, where both parents had also died, Chief Judicial Medical Officer Rohan Ruwanpura was quoted a saying in Sri Lanka’s Divaina newspaper.
+
+About 200 of the bodies were identified by relatives on the same day.
+
+...
+
+[Data](articles/57cf8e1e.json)
 
 ---
 
@@ -743,6 +825,30 @@ He was responding to July 2021 to July 2022 to July 2022.
 [Data](articles/bd2865e1.json)
 
 [Extended Data](ext_articles/bd2865e1.ext.json)
+
+---
+
+### Sri Lanka expecting two millionth tourist on Dec 26
+
+*2024-12-26 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-expecting-two-millionth-tourist-on-dec-26-196404/) · `en`
+
+ECONOMYNEXT – Sri Lanka is expecting to welcome the two millionth tourist to the country on December 26, with officials expecting monthly arrivals to reach 250,000.
+
+Sri Lanka was originally expecting 2.3 million tourists in 2024.
+
+But visa issuances were hit by a shift to a website operated by a consortium involving VFS Global and IVS-GBS which charged high fees.
+
+Sri Lanka to miss 2024 tourist arrival target; eyes over $3bn annual revenue
+
+The old website, acclaimed as perhaps the easiest in the world by key travel portals, was restored by a court order which was not carried out until a new administration was elected.
+
+Sri Lanka welcomed 2.33 million tourists in 2018, which fell to 1.9 million in 2019 amid Easter Sunday suicide bombings.
+
+In 2020 and 2021 tourisms was badly hit by Coronavirus and in 2022 by a currency crises from money printed to cut rates through open market operations and direct purchases of Treasury bills. (Colombo/Dec26/2024)
+
+◼️
+
+[Data](articles/f121a5fc.json)
 
 ---
 
@@ -2273,133 +2379,5 @@ During the investigation into the arrests, the suspect who sold heroin was arres
 [Data](articles/b3ff5b30.json)
 
 [Extended Data](ext_articles/b3ff5b30.ext.json)
-
----
-
-### Suspect arrested with Kush drug at airport
-
-*2024-12-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202135) · `ta`
-
-Arrest made at Katunayake airport: 388g kush drugs seized. Police investigation ongoing.
-
-🟩
-
-The suspect has been arrested with Kush drugs in a roundabout carried out by the police at the Katunayake airport on Tuesday (24).
-
-The arrests have been taken by the Airport Customs Drug Control Unit based on information received by the officials of the Katunayake airport.
-
-388 grams of kush drugs have been seized from the arrested suspect.
-
-The police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/d38cd23f.json)
-
-[Extended Data](ext_articles/d38cd23f.ext.json)
-
----
-
-### Two arrested with locally made guns
-
-*2024-12-25 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202130) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"2 arrested w/locally made weapons in police raids. 1 in Pamuduwa, 1 in Pallegama. Dambulla police investigating."
-
-🟩
-
-Two suspects have been arrested with locally manufactured gunfire in the raids carried out by the police on Tuesday (24) in different parts of the country.
-
-A suspect has been arrested by a group of police officers of the Mahavalachiya Police Station in the Pamuduwa area of ​​the Mahavilachiya Police Division.
-
-Meanwhile, a suspect has been arrested for holding a locally made gun in Pallegama area under the Dambulla police division.
-
-Dambulla police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/660a0a2d.json)
-
-[Extended Data](ext_articles/660a0a2d.ext.json)
-
----
-
-### வாகன சாரதிகளுக்கு பொலிஸார் விடுத்துள்ள அறிவித்தல்!
-
-*2024-12-25 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202125) · `ta`
-
-தெமட்டகொட பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் இன்று புதன்கிழமை (25) போக்குவரத்து நெரிசல் ஏற்படக்கூடும் என சாரதிகளுக்கு அறிவிக்கும் வகையில் பொலிஸார் அறிவித்தல் விடுத்துள்ளனர்.
-
-ஸ்ரீ விசுத்தாராம லுனாவ விகாரையின் பெரஹெர ஊர்வலம் நடைபெறுவதால் வீதிகளில் போக்குவரத்து நடவடிக்கைகள் பாதிக்கப்படலாம் என தெரிவிக்கப்படுகிறது.
-
-தெமட்டகொட பொலிஸ் பிரிவுக்குட்பட்ட லுனாவ மகா விகாரையின் 71 ஆவது வருடாந்த மங்கள பெரஹெர நிகழ்வின் வீதி ஊர்வலம் இன்று மாலை 06.00 மணி முதல் ஆரம்பமாகவுள்ளது.
-
-பெரஹெர ஊர்வல நிகழ்வினைக் காண பெருமளவிலான மக்கள் வருகைதருவதாக எதிர்பார்க்கப்படுகிறது. இதனால் விசேட போக்குவரத்து திட்டத்தை நடைமுறைப்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
-
-மேற்படி ,பெரஹெர ஶ்ரீ விசுத்தாராம விகாரையில் இருந்து புறப்பட்டு, இங்கிரம சந்தி, சத்தர்ம மாவத்தை, கெத்தாராம வீதி, அடி 100 வீதி, பேஸ்லைன் வீதி, ஒருகொடவத்தை, ஸ்டேஸ் வீதி, பலாமரச் சந்தி, கிரான்ட்பாஸ் வீதி, இங்குருகடே சந்தி, எப்ரோச் வீதி, பண்டாரநாயக்க சந்தி, பேஸ்லைன் வீதி மற்றும் ஒருகொடவத்தை சந்தியின் ஊடாக மீண்டும் விகாரைக்கு வருகைத்தரும்.
-
-...
-
-[Data](articles/24499799.json)
-
----
-
-### Police emergency notice on traffic congestion
-
-*2024-12-25 16:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போக்குவரத்து-நெரிசல்-குறித்து-பொலிஸார்-அவசர-அறிவிப்பு/175-349283) · `ta`
-
-Traffic alert: Dematagoda police division expects congestion due to Perahera procession. Avoid areas around Sri Vishutharama Lunawa Vihara tonight. Use alternative routes.
-
-🟩
-
-Drivers have been informed that there will be a traffic congestion in the area of ​​the Dematagoda police division this evening.
-
-It is reported that the Perahera procession of the Sri Vishutharama Lunawa Vihara is likely to be affected.
-
-The 71st Annual Mangala Perahera event of the Lunawa Maha Vihara, which belongs to the Dematagoda Police Division, will be held today (25) from 06.00 pm.
-
-The Perahera Sree Visitarama Vihara departed from the Visutharama Viharaya, Ingrama Junction, Satharma Mawatha, Ketharama Road, Ad 100 Road, Baseline Road, Okodavatte Junction, Stas Road, Palamarach Junction, Grandpas StreetVisit the Vihara again.
-
-Therefore, drivers and the public have been asked to use the following alternatives during the Perahera trip. Remble
-
-◼️
-
-[Data](articles/9b05d3b9.json)
-
-[Extended Data](ext_articles/9b05d3b9.ext.json)
-
----
-
-### Air strikes at Pakistan
-
-*2024-12-25 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204716) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pakistan airstrikes in Afghanistan kill 46, mostly civilians. Targets suspected Taliban hideouts. Attacks occurred during Christmas season. Taliban vows retaliation.
-
-🟩
-
-46 people have been killed in air strikes opened by Pakistan in Afghanistan.
-
-They have said that most of the dead were children and women.
-
-Pakistan had launched Pakistan to sites suspected of hiding the Taliban terrorists.
-
-Pakistan had served the air strikes targeting several villages in Afghanistan in the middle of Christmas Upa.
-
-The Taliban warned that these attacks in Pakistan will certainly respond.
-
-◼️
-
-[Data](articles/d037bf27.json)
-
-[Extended Data](ext_articles/d037bf27.ext.json)
 
 ---

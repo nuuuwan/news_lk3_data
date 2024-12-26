@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 00:43:24**
+As of **2024-12-27 01:12:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,694 (99.2%) of 62,189 articles have been extended.
+61,696 (99.2%) of 62,189 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -368,6 +368,8 @@ A bond maturing on 15.03.2030 closed at 11.00/15 percent. (Colombo/Dec26/2024)
 
 [Data](articles/d0d4062c.json)
 
+[Extended Data](ext_articles/d0d4062c.ext.json)
+
 ---
 
 ### Batticaloa's body recovered from water in Batticaloa - Vavuniya area
@@ -516,21 +518,33 @@ The Sadam movie will be released on February 28 at the film House worldwide. Fol
 
 ---
 
-### சபாநாயகர் அலுவலகத்துக்கு போலித் தகவல்களை வழங்கிய  சபைமுதல்வரும் பதவி விலக வேண்டும் - ஐக்கிய மக்கள் சக்தி
+### The House of Representatives who provided fake information to the Speaker's Office should resign - United People's Power
 
 *2024-12-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202217) · `ta`
 
-நீதி அமைச்சரின் பெயருக்கு முன்னாள் இடப்பட்ட கலாநிதி பட்டத்துக்கு தற்போது என்ன ஆனது? சபை முதல்வரது அலுவலகத்திலிருந்தே இந்த தகவல்கள் சபாநாயகர் அலுவலகத்துக்கு வழங்கப்பட்டிருக்கின்றன. அவ்வாறெனில் போலியான தகவல்களை வழங்கியமைக்காக சபைமுதல்வரும் பதவி விலக வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் சமிந்த விஜேசிறி தெரிவித்தார்.
+Here's a summary in 200 characters:
 
-கொழும்பில் வியாழக்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-எதிர்க்கட்சியிலிருக்கும் போது அரிசியை பதுக்கி வைத்துள்ள டட்லி சிறிசேனவை கைது செய்து, மக்களுக்கு நிவாரண விலையில் அரிசியை விநியோகிப்பதாக அநுரகுமார திஸாநாயக்க குறிப்பிட்டார்.
 
-ஆனால் தற்போது அரிசி மாத்திரமின்றி தேங்காய், முட்டை என அனைத்து அத்தியாவசிய உணவு பொருட்களுக்கும் தட்டுப்பாடு ஏற்பட்டுள்ளது. அவற்றுக்கு தீர்வை வழங்க முடியாத இவர்கள் வெறும் வாய்ச்சொல் வீரர்கள் என்பதை நிரூபித்துள்ளனர்.
+United People's Power demands resignation over fake info. Former doctor title controversy. Rice shortages. Government accused of deception and lack of recovery programs.
+
+🟩
+
+What happened to the former doctor's title to the name of the Minister of Justice?This information has been provided to the Speaker's Office from the Office of the Council. United People's Power MP Saminda Wijesiri said that the House should resign for the provision of false information.
+
+He further stated at a press conference held in Colombo on Thursday (26).
+
+Anurakumara Dissanayake said that Dudley Sirisena, who had been hiding rice during the opposition party, was arrested and distributed rice at relief prices to the people.
+
+But now there is a shortage of all essential food products such as coconut and eggs. They have proved that they are just rhetoric.
+
+At the same time, Dudley Sirisena is carrying out his actions with the support of the government. The Nuwar Authority sends authorities to arrest those who do not sell rice for 230 rupees. Selling rice for 230 rupees is not a loss for Dudley Sirisena.
 
 ...
 
 [Data](articles/8d22cba7.json)
+
+[Extended Data](ext_articles/8d22cba7.ext.json)
 
 ---
 

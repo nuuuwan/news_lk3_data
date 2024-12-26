@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 05:27:17**
+As of **2024-12-26 05:51:18**
 
 ## Newspaper Stats
 
-*Scraped **62,056** Articles*
+*Scraped **62,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 654
-islandlk | 3,753
+islandlk | 3,764
 economynextcom | 3,777
 dailyftlk | 4,303
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,718
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,624 (99.3%) of 62,056 articles have been extended.
+61,626 (99.3%) of 62,067 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -284,21 +284,27 @@ Therefore, we are demanding that Indian fishermen abandon banned fishing systems
 
 ---
 
-### பொதுப்பயன்பாட்டு ஆணைக்குழுவின் எரிபொருள் கொள்வனவு  அறிவுத்தல்களை இலங்கை மின்சாரசபை புறக்கணிக்கிறது  - மின்சார நுகர்வோர் சங்கம் குற்றச்சாட்டு
+### Ceylon Electricity Board ignores fuel purchasing intellectuals
 
 *2024-12-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202152) · `ta`
 
-இலங்கை பொதுப் பயன்பாட்டு ஆணைக்குழுவின் சலுகை விலை நிர்ணயம் குறித்த அறிவுறுத்தல்களை புறக்கணித்து, இலங்கை மின்சார சபையானது இலங்கை பெற்றோலியக் கூட்டுத்தாபனத்திடமிருந்து சில்லறை விலையில் எரிபொருளை வாங்குவதாக மின்சார நுகர்வோர் சங்கம் குற்றஞ்சாட்டியுள்ளது.
+Ceylon Electricity Board criticized for ignoring fuel purchasing instructions, potentially reducing electricity tariffs by 30-35%. Public Utilities Commission urges compliance, but no agreement reached yet.
 
-நாட்டின் மொத்த எரிபொருள் நுகர்வில் 20முதல் 40சதவீதத்தினை இலங்கை மின்சார சபை பெற்றுக்கொள்வதாக கூறப்படுகின்றது.
+🟩
 
-அந்த எரிபொருளை குழாய்கள் வழியாக நேரடியாக பெற்றுக்கொள்வதாக கூறுகின்றபோதும், தள வாடகை, ஊழியர் கட்டணங்கள் போன்ற செலவுகள் உட்பட சில்லறை விலையை ஒத்த பெறுமதியிலேயே பெற்றோலியக் கூட்டுத்தாபனத்திடமிருந்து எரிபொருளை இலங்கை மின்சார சபை தொடர்ந்தும் பெற்றுக்கொள்கின்றது.
+The Electricity Consumer Association has accused the Ceylon Electricity Board of buying fuel at retail prices from the Ceylon Petroleum Corporation, ignoring the instructions on the concession pricing of the Sri Lanka Public Utilities Commission.
 
-கடந்த ஆண்டு முதல், பொதுப்பயன்பாடுகள் ஆணைக்குழுவானது இலங்கை மின்சார சபையை பெற்றோலியக் கூட்டுத்தாபனத்துடன் எரிபொருள் கொள்வனவுக்கான சலுகை விலை ஒப்பந்தத்தை எட்டுமாறு பலமுறை வலியுறுத்தியுள்ளது.
+The Ceylon Electricity Board (CEB) is said to be receiving 20 to 40 percent of the country's total fuel consumption.
+
+Although the fuel is said to be directly obtained through pipes, the Ceylon Electricity Board continues to receive fuel from the Petroleum Corporation, which is similar to the retail price, including site rental and employee fees.
+
+Since last year, the Public Use the Commission has repeatedly urged the Ceylon Electricity Board to reach the Ceylon Corporation's Petroleum Corporation with the Petroleum Corporation.
 
 ...
 
 [Data](articles/903daba0.json)
+
+[Extended Data](ext_articles/903daba0.ext.json)
 
 ---
 
@@ -848,6 +854,22 @@ The affected areas include Kalutara South, Kalutara North, Wadduwa, Waskaduwa, M
 
 ---
 
+### Yes, it’s Christmas time…
+
+*2024-12-25 19:30:00* · [`islandlk`](http://island.lk/yes-its-christmas-time/) · `en`
+
+It’s a well-known fact that with Christmas comes some kind of chaos. The build-up tends to be a blur of gift buying, party prepping and worryingly high workloads; it’s understandably difficult to find, let alone make, the time for yourself – but it’s important that you do…to make your skin healthier this Christmas
+
+Drinking plenty of water is always important. Dehydrated skin can look dry and flaky, with more visible fine lines and wrinkles. Water also rids the body of toxins, which is especially useful if you are having those Christmas drinks and eating more processed foods than usual.
+
+Remove dullness and reveal your inner radiance with a gentle exfoliating scrub. Opt for natural ingredients, like brown sugar, oats, or even coffee grounds mixed with honey. Massage in circular motions, focusing on areas like your nose, chin, and forehead. Rinse with lukewarm water and pat your skin dry.
+
+...
+
+[Data](articles/ae33a980.json)
+
+---
+
 ### Gang responsible for over 24 robberies busted while hiding in Kandy
 
 *2024-12-25 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104495/gang-responsible-for-over-24-robberies-busted-while-hiding-in-kandy) · `en`
@@ -885,6 +907,44 @@ He urged the public to be particularly vigilant and take precautions to protect 
 [Data](articles/4c2743ce.json)
 
 [Extended Data](ext_articles/4c2743ce.ext.json)
+
+---
+
+### Power World Gym marks its 30th anniversary
+
+*2024-12-25 18:44:00* · [`islandlk`](http://island.lk/power-world-gym-marks-its-30th-anniversary/) · `en`
+
+Power World Gyms, Sri Lanka’s largest fitness chain, recently marked its 30th anniversary with a month-long celebration of fitness challenges and events throughout October. The exciting activities were held for gym members and included:
+
+Power Summer Beach Party: A beach bash held on October 5th at The Deck, Dehiwala, attracting over 750 attendees.
+
+Power World Weightlifting Challenge: A thrilling competition on October 12th at the Torrington Indoor Stadium, featuring 8 weight categories for men and 1 open category for women.
+
+Power World Tap Rugby Tournament: A high-energy rugby tournament on October 26th at the CR & FC Grounds, with over 300 participants.
+
+Power World Tug of War Challenge: A test of strength on November 2nd at the Isuru Devapriya Ground.
+
+New Chinese air conditioner enters Sri Lanka partnering with Ranjan Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/7ac82a7d.json)
+
+---
+
+### HNB brings Christmas cheer with Annual Carol Service
+
+*2024-12-25 18:44:00* · [`islandlk`](http://island.lk/hnb-brings-christmas-cheer-with-annual-carol-service-2/) · `en`
+
+Ringing in the Christmas season with joy and happiness, HNB PLC, recently hosted the annual carol service themed ‘O Come, All Ye Faithful’ at HNB Towers.
+
+Rt. Rev. Dr. Valence Mendis, Bishop of Kandy diocese attended the festivities as the chief guest and was accompanied by HNB’s Chairman Nihal Jayawardana, Managing Director / CEO Damith Pallewatte, COO Sanjay Wijemanne, corporate and senior bank officials, staff / retired staff and families came together to enjoy the carols performed by the Hatna family choir.
+
+...
+
+[Data](articles/864ca13b.json)
 
 ---
 
@@ -940,6 +1000,50 @@ Underakumaran commented on behalf of the people of the area, Governor of the Nor
 
 ---
 
+### New Chinese air conditioner enters Sri Lanka partnering with Ranjan Lanka
+
+*2024-12-25 18:38:00* · [`islandlk`](http://island.lk/new-chinese-air-conditioner-enters-sri-lanka-partnering-with-ranjan-lanka/) · `en`
+
+Ranjan Lanka Private Limited, a trusted name in retail for over five decades, has stepped into the air conditioning (AC) market with the introduction of the Zero brand ACs. Imported from Zero Technologies in China, these ACs are designed to cater to small offices, houses, and apartments. The Zero brand ACs are available in two ranges: non-inverter units with capacities from 9,000 to 12,000 (British Thermal Units) BTU, and inverter units ranging from 12,000 to 18,000 BTU. These models are being introduced to the general market for the first time, with the initial launch held in Gampaha. The company plans to distribute the units island-wide from its warehouse in Gampaha and is also seeking dealers to expand their reach.
+
+...
+
+[Data](articles/6310231e.json)
+
+---
+
+### Melwa supporting the development of motorcycle racing industry in Sri Lanka
+
+*2024-12-25 18:38:00* · [`islandlk`](http://island.lk/melwa-supporting-the-development-of-motorcycle-racing-industry-in-sri-lanka/) · `en`
+
+Sri Lanka’s leading steel manufacturer, MELWA showcased the outstanding achievements of its riders, Kushan Chamod and Janith Chameera, at two major racing events. At the Katukuruda Races organized by the Sri Lanka Association of Racing Drivers and Riders (SLARDAR), Chamod displayed his dominance on the track by securing first place in the 600 cubic capacity (cc) event and an impressive second place in the 1000cc event. Janith Chameera also made waves, clinching first place in the Tracker event, cementing MELWA’S association with racing excellence.
+
+The spotlight continued to shine on the MELWA TEAM at the Sri Lanka Autosport Drivers’ Association (SLADA) Rotherham-Katukurunda Tarmac Race. In the thrilling 1000cc Grand Prix event spanning 22 laps, Kushan Chamod rode his Honda CBR1000 to a sensational first-place finish. Meanwhile, Chameera, riding a Honda CBR600, secured a commendable fourth place, showcasing determination and skill against tough competition.
+
+...
+
+[Data](articles/930b3753.json)
+
+---
+
+### Evergreen Group emerges as the largest tea producing group
+
+*2024-12-25 18:35:00* · [`islandlk`](http://island.lk/evergreen-group-emerges-as-the-largest-tea-producing-group/) · `en`
+
+Evergreen Group situated in Horangalla, Thalgaswela in Galle district produced & sold the highest quantity of tea for a group in Sri Lanka in the year 2024 selling 9,896,378 kgs.
+
+Aruna de Silva is the Chairman of Evergreen Group of Companies. The overall operations are spearheaded by Senal de Silva (Deputy Chairman), Minul de Silva (Director) and Dushara Shanka (Director Rekadahena Plantations). This group produces both Orthodox & CTC teas. The factories under this entity are also certified with RA & ISO certificates with around 30,000 small holders supplying green leaf to the factories. The group employs over 4000 people from the area.
+
+Evergreen group is one of the largest tea producing groups in Sri Lanka with 13 factories under their operations namely, Evergreen, Brombil, Thundola, Talangaha, Katandola, Wathurawila, Walahanduwa, Hill Garden, Rekadahena, Kanneliya, Lihiniyawa and Marakanda, Devithurai.
+
+New Chinese air conditioner enters Sri Lanka partnering with Ranjan Lanka
+
+...
+
+[Data](articles/414f75ac.json)
+
+---
+
 ### Police Special Task Force to prevent night theft
 
 *2024-12-25 18:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவுநேரத்-திருட்டைத்-தடுக்க-பொலிஸ்-விசேட-அதிரடிப்படையினர்/175-349286) · `ta`
@@ -989,6 +1093,46 @@ According to the report, the police patrol at Expressway after night to prevent 
 [Data](articles/7994eb74.json)
 
 [Extended Data](ext_articles/7994eb74.ext.json)
+
+---
+
+### Sri Lanka Insurance Life recognised at NAFLIA
+
+*2024-12-25 18:34:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-recognised-at-naflia/) · `en`
+
+Sri Lanka Insurance Life (SLICLL) sales team was recognised at the Life Insurance Industry Sales Awards 2023 held during the 15th National Forum for Life Insurance Advisors (NAFLIA).
+
+This special awards ceremony celebrated the exceptional achievements of the Top performers of the Life Insurance industry.
+
+A. Supesan from Jaffna Branch and Rohana Kumara from Gampaha Branch of Sri Lanka Insurance Life was rewarded under the Best Branch Manager Category. They clinched the Silver and Bronze awards respectively in both the Large-scale Company Category and the National Level.
+
+The event was held on the 3rd December 2024, at the Monarch Imperial, Sri Jayawardenepura Kotte.
+
+Melwa supporting the development of motorcycle racing industry in Sri Lanka
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/686bdafb.json)
+
+---
+
+### Ring in 2025 in splendor at Pegasus Reef’s tropical ‘Crimson Eve’ gala
+
+*2024-12-25 18:33:00* · [`islandlk`](http://island.lk/ring-in-2025-in-splendor-at-pegasus-reefs-tropical-crimson-eve-gala/) · `en`
+
+Pegasus Reef will be concluding the festive season with “Crimson Eve”, a grand year-end celebration, on the 31st of December 2024.
+
+Crimson Eve aims to provide a distinctively tropical take on customary celebrations and promises a memorable evening filled with vibrant entertainment, fine dining, and joyful companionship. A visual and sensory feast that transforms the evening into an island paradise, the event’s theme celebrates the rich crimson hues of celebration intertwined with tropical charm. The sophistication of the year-end celebrations will blend with the warmth of the tropics to create an atmosphere that will leave guests with priceless memories.
+
+Pegasus Reef extends a warm invitation to everyone to attend Crimson Eve, a colorful event that will cap out 2024 on a high note.
+
+...
+
+[Data](articles/1a876491.json)
 
 ---
 
@@ -2100,6 +2244,8 @@ The ADIC supports this stance, asserting that raising excise taxes is a scientif
 
 [Data](articles/06cb7bc8.json)
 
+[Extended Data](ext_articles/06cb7bc8.ext.json)
+
 ---
 
 ### மாளிகாகந்த துப்பாக்கிச் சூடு - மேலும் ஒரு சந்தேகநபர் கைது
@@ -2341,201 +2487,5 @@ He further expressed concern that the replacement of police officers to the form
 ...
 
 [Data](articles/13482db4.json)
-
----
-
-### அரசியலமைப்புக்கான 13  வது திருத்தத்துக்கு நேரப்போகும் கதிக்கான முன்னறிவிப்பு ?
-
-*2024-12-25 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202098) · `ta`
-
-"விரும்பத்தகாத விளைவு நேரப்போகிறது என்பதற்கான முன்னறிவிப்பு " (The Writing on the Wall) என்பது பைபிளின் பழைய ஏற்பாட்டில் டானியலின் கதையில் இருந்து வந்த ஒரு உருவகமான மொழிநடையாகும். பாபிலோனிய சாம்ராச்சியத்தின் மன்னர் பெல்ஷாசாரும் அவரது நண்பர்கள் பரிவாரமும் உண்டுகுடித்து கும்மாளம் அடித்துக்கொண்டிருந்தவேளையில், வியக்கத்தக்க முறையில் கையொன்று தோன்றி அங்கிருந்த சுவரில் சில வரிகளை எழுதியதைப் பற்றி டானியல் பற்றிய நூலின் ஐந்தாவது அத்தியாயம் கூறுகிறது.
-
-அச்சமடைந்த மன்னராலும் நண்பர்களினாலும் அந்த கை எழுதியதை வாசித்து விளங்கக்கூடியதாக இருக்கவில்லை. அறிவுக்கும் ஞானத்துக்கும் பிரபல்யமான டானியலை அழைத்துவர மன்னர் ஆளை அனுப்பினார். டானியல் வந்து சுவரில் எழுதியிருப்பதை வாசித்துவிட்டு மன்னரின் நாட்களை கடவுள் எண்ணியிருக்கிறார் என்றும் இராச்சியம் வேறு ஒருவரிடம் கையளிக்கப்படப் போகிறது என்று கூறினார்.சுவரில் எழுதியிருந்த வரிகளை பற்றிய டானியலின் வியாக்கியானம் இறுதியில் உண்மையாக மாறியது.பெல்ஷாசார் அன்றிரவே கொல்லப்பட்டு இராச்சியம் டேறியஸினால் கைப்பற்றப்பட்டது.
-
-...
-
-[Data](articles/1e5aa6dd.json)
-
----
-
-### Action Gazette
-
-*2024-12-25 10:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-தொடர்பில்-அதிரடி-வர்த்தமானி/175-349251) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New gazette notification cancels previous welfare scheme. President announces monthly benefits: Rs 5000 for 480k vulnerable families, Rs 960k for poor families. Half allowance for families with 2 or fewer members. Proposal extends until June 2025.
-
-🟩
-
-Through the new Special Gazette, President Anura Kumara Dissanayake has issued a new gazette notification to announce a monthly benefit to eligible families and individuals under the Ashem Welfare Welfare Payment Scheme.
-
-The special gazette notification issued by former President Ranil Wickremesinghe on 17.05.2024 has been canceled by the announcement of the new gazette released on the 21st of this month.
-
-480,000 intermediate families from January to March 2025 5000. From January 2025 to December, 480,000 vulnerable families are expected to offer Rs 5000 and 960,000 poor families 480,000 monthly relief benefits.
-
-If the number of family members is 2 or less, half of these allowances are entitled.
-
-In addition, from January to June 2025, the proposal is Rs.
-
-◼️
-
-[Data](articles/a12b70e4.json)
-
-[Extended Data](ext_articles/a12b70e4.ext.json)
-
----
-
-### அஸ்வெசும தொடர்பில் அதிரடி வர்த்தமானி
-
-*2024-12-25 10:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/அஸ்வெசும-தொடர்பில்-அதிரடி-வர்த்தமானி/150-349251) · `ta`
-
-புதிய விசேட வர்த்தமானி மூலம், அஸ்வெசும நலன்புரி நன்மைக் கொடுப்பனவுத் திட்டத்தின் கீழ் தகுதியான குடும்பங்கள் மற்றும் தனிநபர்களுக்கு மாதாந்தப் பலன்களை வழங்குவதற்கான திட்டத்தை அறிவித்து ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் புதிய வர்த்தமானி அறிவிப்பு வெளியிடப்பட்டுள்ளது.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் 17.05.2024 அன்று வெளியிடப்பட்ட விசேட வர்த்தமானி அறிவித்தலும், இது தொடர்பில் இதுவரை அமுல்படுத்தப்பட்டிருந்த நிலையில், இம்மாதம் 21ஆம் திகதி வெளியிடப்பட்ட இந்த புதிய வர்த்தமானி அறிவித்தல் மூலம் இரத்துச் செய்யப்பட்டுள்ளது.
-
-2025 ஜனவரி முதல் மார்ச் வரை 480,000 இடைநிலைக் குடும்பங்கள் 5000 ரூபாய். 2025 ஜனவரி முதல் டிசம்பர் வரை 480,000 பாதிக்கப்படக்கூடிய குடும்பங்களுக்கு 5000 ரூபாய், 960,000 ஏழைக் குடும்பங்கள் 480,000 மாதாந்திர நிவாரணப் பலன்கள் 17,500 ரூபாய் வழங்க உத்தேசிக்கப்பட்டுள்ளது.
-
-குடும்ப உறுப்பினர்களின் எண்ணிக்கை 2 அல்லது அதற்கும் குறைவாக இருந்தால், இந்த கொடுப்பனவுகளில் பாதிக்கு உரிமை உண்டு.
-
-...
-
-[Data](articles/aa716e07.json)
-
----
-
-### Vasantha has passed away Handabangoda
-
-*2024-12-25 10:59:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசந்தா-ஹந்தபாங்கொட-காலமானார்/175-349250) · `ta`
-
-Vasantha Handabangoda, ex-president of Sri Lanka PA's Peramuna Teachers Union, passed away. Hospitalized in UK, died untreated after 2 days. Notable figure post-Galle Face violence, May 9, 2022.
-
-🟩
-
-Vasantha Handabangoda, former president of the Sri Lanka PA's Peramuna Teachers Union, has passed away.
-
-Recently, she went to visit his daughter in the UK and was hospitalized due to a sudden illness.
-
-He died without treatment for two days.
-
-He was very much talked about in the community after the violent incidents that took place during the Galle Face of Galle on May 9, 2022.
-
-◼️
-
-[Data](articles/eabc0b12.json)
-
-[Extended Data](ext_articles/eabc0b12.ext.json)
-
----
-
-### If you find him ...
-
-*2024-12-25 10:51:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/இவரை-கண்டால்-உடன்-தகவல்-தாருங்கள்/74-349249) · `ta`
-
-Samanthurai police seek public help identifying suspect linked to motorcycle thefts in Ampara district. Contact 0672 260 222 for information.
-
-🟩
-
-The Samanthurai police have called for the public to help identify the suspect who is associated with several incidents.
-
-In the area of ​​the Samanthurai police division of the Ampara district, a person has been involved in the theft of motorcycles in recent years.
-
-Police have also said that the information of the information on the subject of the report will be protected if the information about the suspect in the case of various thefts and robbery is to be informed by the police station.
-
-The Samanthurai Police Station has contacted 0672 260 222 and asked for information on the suspect. Remble
-
-◼️
-
-[Data](articles/559b97b1.json)
-
-[Extended Data](ext_articles/559b97b1.ext.json)
-
----
-
-### Daddy and son to the law
-
-*2024-12-25 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204701) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Father and son arrested for assault. 42yo man attacked in Madampe. Suspects, ages 28 & 53, held in Demmakiya. Police investigating murder case.
-
-🟩
-
-Two suspects were arrested yesterday (24), police said.
-
-The arrest was arrested on suspicion of a 42-year-old man allegedly assaulted by two people in the Madampe Police Division in Demampala Police Division.
-
-The victim is a resident of Manakulam, Kakkapalliya, Kakkapalliya area and the Madampe Police have commenced investigations into his murder.
-
-Two suspects were arrested by the police in Demmakitiya, Madampe, Madammapitiya.
-
-The arrested suspects is a father and son of a resident of the area in the area of ​​age of 28 and 53 years.
-
-◼️
-
-[Data](articles/bb40dad8.json)
-
-[Extended Data](ext_articles/bb40dad8.ext.json)
-
----
-
-### 4 சம்பவங்கள்: ஐவர் கைது
-
-*2024-12-25 10:37:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-சம்பவங்கள்-ஐவர்-கைது/175-349248) · `ta`
-
-துப்பாக்கிச் சூடு, பெண்ணொருவருக்கு விஷ ஊசி ஏற்றி கொன்றமை, கைலப்பில் ஒருவரை​ படுகொலைச் செய்தமை மற்றும் பெண் ஒருவர் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ள முயற்சித்தது ​ஆகிய நான்கு சம்பவங்கள் தொடர்பில் அறுவர் கைது செய்யப்பட்டுள்ளனர்.
-
-வெல்லவ பொலிஸ் பிரிவுக்கு உட்பட்ட மரலுவாவ பிரதேசத்தில் வீடொன்றில் இருந்த தம்பதியினர் மீது இனந்தெரியாத நபர்கள் செவ்வாய்க்கிழமை (24) இரவு வேளையில் மேற்கொண்ட துப்பாக்கிப் பிரயோகத்தில், கணவன் (வயது 32)  உயிரிழந்துள்ளார். அவருடைய மனைவி (வயது 30) படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-துப்பாக்கிச் சூட்டில் காயமடைந்த நபர், குருநாகல் வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளார். மனைவி தங்கியிருந்து சிகிச்சை பெற்று வருகிறார்.
-
-துப்பாக்கிச்சூடு நடத்தப்பட்டமைக்கான காரணம் மற்றும் சந்தேக நபர்கள் தொடர்பில் எவ்விதமான தகவல்களும் வெளியாகவில்லை எனத் தெரிவித்த வெல்லவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர் என பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/c84034df.json)
-
----
-
-### Another arrested for shooting incident
-
-*2024-12-25 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204700) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Colombo Crimes Division arrests suspect in Maligakanda Court shooting incident. Investigation reveals firearm was initially blamed on shooter's wife before being found in a three-wheeler. Suspect, a 37-year-old from Colombo 13, faces charges. Further inquiries ongoing.
-
-🟩
-
-Police have arrested another person on suspicion of attempting to shoot and kill a woman near the Maligakanda Court.
-
-The Maradana police station and the Colombo Crimes Division had launched an investigation into the incident.
-
-The investigation was revealed that the shooter had the blame on the firearm with the firearm and the firearm was dismissed by his wife.
-
-Accordingly, the Colombo Crimes Division had been arrested by the Colombo Crimes Division on the 20th.
-
-It was revealed that the firearm had been revealed to a three-wheeler driver.
-
-Accordingly, the three-wheeler driver and the police have arrested the police.
-
-It was revealed that the firearm was taken to the Jampataviya to Jampethanda and had been handed over to the Jampataviya.
-
-The suspects were arrested on charges of the coastal police division in the coastal police area in the evening yesterday (24).
-
-The arrest was a 37 year old resident of Colombo 13.
-
-...
-
-[Data](articles/cf25a183.json)
-
-[Extended Data](ext_articles/cf25a183.ext.json)
 
 ---

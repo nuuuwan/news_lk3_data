@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 23:27:21**
+As of **2024-12-26 23:43:40**
 
 ## Newspaper Stats
 
-*Scraped **62,186** Articles*
+*Scraped **62,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 656
 islandlk | 3,764
-economynextcom | 3,784
+economynextcom | 3,785
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,942
 adaderanalk | 7,593
-tamilmirrorlk | 8,919
+tamilmirrorlk | 8,921
 virakesarilk | 10,301
 adaderanasinhalalk | 10,742
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,690 (99.2%) of 62,186 articles have been extended.
+61,691 (99.2%) of 62,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### திருகோணமலை கடலில் மிதந்த Target விமானத்தால் பதற்றம்
+
+*2024-12-26 23:22:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/திருகோணமலை-கடலில்-மிதந்த-Target-விமானத்தால்-பதற்றம்/75-349361) · `ta`
+
+திருகோணமலை கடலில் சிறிய ரக விமானம் ஒன்று மிதப்பதை கண்ட மீனவர்கள் குழு அதை மீட்டு வந்து அதிகாரிகளுக்கு தகவல் வழங்கியுள்ளனர்..
+
+கரையில் இருந்து சுமார் 35 கடல் மைல் தொலைவில் இந்த சிறிய ரக விமானம் இருந்துள்ளது.
+
+​​இது இலக்கு ஆளில்லா விமானம் (Target drone) என விமானப்படை ஊடகப் பேச்சாளர் குரூப் கப்டன் எரந்த கிகனகே தெரிவித்தார்.
+
+இந்த வகை விமானம் 2020 ஆம் ஆண்டிலேயே கண்டுபிடிக்கப்பட்டது என்று அவர் கூறினார்.
+
+விசாரணையில், சுமார் 40 கிலோ எடையுள்ள இதுபோன்ற விமானங்கள் இந்திய விமானப்படையின் பயிற்சி அமர்வுகளில் இலக்குகளாகப் பயன்படுத்தப்படுவது தெரியவந்துள்ளது.
+
+எனினும் இம்முறை கண்டுபிடிக்கப்பட்ட விமானம் தொடர்பில் விசாரணை நடத்த விசேட குழுக்கள் நியமிக்கப்பட்டுள்ளன.
+
+மேலும் கருத்து தெரிவித்த விமானப்படை பேச்சாளர், விமானம் சேதமடையவில்லை என்றும் வெடிபொருட்கள் எதுவும் கண்டுபிடிக்கப்படவில்லை என்றும் தெரிவித்தார்.
+
+இதையடுத்து, இந்த விமானம் எப்படி வந்தது, ஏன் வந்தது என்று இப்பகுதி மக்களிடையே சற்று  சற்று பதற்றமான நிலை காணப்பட்டதாக தகவல்கள் தெரிவிக்கின்றன.R
+
+◼️
+
+[Data](articles/6faf1feb.json)
+
+---
+
+### இந்திய முன்னாள் பிரதமர் மன்மோகன் சிங் காலமானர்
+
+*2024-12-26 22:49:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/இந்திய-முன்னாள்-பிரதமர்-மன்மோகன்-சிங்-காலமானர்/150-349360) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமரும், காங்கிரஸ் மூத்த தலைவருமான மன்மோகன் சிங், உடல் நலக்குறைவால் தனது 92ஆவது வயதில் இன்று(26) காலமானார்.
+
+இந்த நிலையில், மன்மோகன் சிங்கின் உடல்நிலை மோசமடைந்ததை அடுத்து இன்று மாலை டெல்லி எய்ம்ஸ் மருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/0671accc.json)
+
+---
 
 ### Couple nabbed at BIA over Rs. 1.6 billion financial fraud
 
@@ -43,6 +83,8 @@ Sri Lanka Police said that the suspects had fled to India by boat around three y
 ◼️
 
 [Data](articles/3f453584.json)
+
+[Extended Data](ext_articles/3f453584.ext.json)
 
 ---
 
@@ -291,6 +333,26 @@ The homeowing 39-year-old woman who was diagnosed with a heart attack was admitt
 [Data](articles/e3cd664c.json)
 
 [Extended Data](ext_articles/e3cd664c.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 294.00/15 to dollar, bonds steady
+
+*2024-12-26 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-00-15-to-dollar-bonds-steady-196473/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee improved to close at 294.00/15 to the US dollar on Thursday from 294.00/295.50 on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.40/55 percent, from up 9.40/50 percent.
+
+A bond maturing on 15.02.2028 closed at 10.08/18 percent, down from 10.10/20 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.65/75 percent.
+
+A bond maturing on 15.03.2030 closed at 11.00/15 percent. (Colombo/Dec26/2024)
+
+◼️
+
+[Data](articles/d0d4062c.json)
 
 ---
 
@@ -2327,51 +2389,5 @@ Thus, a two minutes’ silence will be observed island-wide today from 9.25 a.m.
 ◼️
 
 [Data](articles/95d37a36.json)
-
----
-
-### විසි වසරකට පසු පැරෑලියේ දුම්රිය ගමන
-
-*2024-12-26 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204732) · `si`
-
-සුනාමි ඛේදවාචකය අවස්ථාවේ පැරෑලිය දුම්රිය ස්ථානයේදී අනතුරට පත් මගීන් සහ දුම්රිය සේවකයින් සිහිපත් කිරීම සඳහා අද (26) පෙරවරු 6.50ට කොළඹ කොටුවේ සිට බෙලිඅත්ත බලා විශේෂ දුම්රියක් ධාවනය කෙරුණි.
-
-පැරෑලියේදී එම ඛේදවාචකයට මුහුණදුන් දුම්රිය එන්ජිම යොදා ගනිමින් මෙම දුම්රිය ධාවනය කිරීම විශේෂත්වයකි.
-
-එහි සිටින පිරිස, පැරෑලිය දුම්රිය ස්ථානයේදී මිනිත්තු 10ක් පමණ කාලකයක් නවතා සුනාමි සැමරුම සඳහා එක්වීමට නියමිතය.
-
-◼️
-
-[Data](articles/1d2b37d5.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-12-26 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104500/showers-expected-in-parts-of-the-country) · `en`
-
-A few showers may occur in Northern and Eastern provinces, says the Department of Meteorology.
-
-Mainly fair weather will prevail in the other areas of the island.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern, Uva and North-central provinces during the morning, it said.
-
-◼️
-
-[Data](articles/5d7f32dd.json)
-
----
-
-### Acting IGP’s instructions to officers engaged in night-time vehicle inspections
-
-*2024-12-26 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104499/acting-igps-instructions-to-officers-engaged-in-night-time-vehicle-inspections) · `en`
-
-Acting Inspector General of Police (IGP) Priyantha Weerasooriya has instructed all police personnel engaged in night time inspection of vehicles to wear luminous jackets and gloves, the Police Media Division said.
-
-Furthermore, they have also been instructed to use only the specific red signal torches provided to halt vehicles at night.
-
-◼️
-
-[Data](articles/0b18d081.json)
 
 ---

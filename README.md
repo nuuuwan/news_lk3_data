@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 13:01:43**
+As of **2024-12-26 13:12:30**
 
 ## Newspaper Stats
 
-*Scraped **62,118** Articles*
+*Scraped **62,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,80 @@ economynextcom | 3,780
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,930
-adaderanalk | 7,584
+adaderanalk | 7,586
 tamilmirrorlk | 8,907
-virakesarilk | 10,286
-adaderanasinhalalk | 10,727
+virakesarilk | 10,289
+adaderanasinhalalk | 10,730
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,650 (99.2%) of 62,118 articles have been extended.
+61,651 (99.2%) of 62,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### 20 වසරක කදුළු කතාව
+
+*2024-12-26 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204738) · `si`
+
+ලෝක ඉතිහාසයට අඳුරු මතකයක් එක්කරමින් ශ්‍රී ලංකාව ඇතුළු රටවල් රැසක ලක්ෂ තුනකට අධික පිරිසකගේ ජීවිත බිලිගත් සුනාමි ඛේදවාචකයට අදට (26) වසර 20ක් සපිරේ.
+
+ඒ මහා ඛේදවාචකයෙන් දිවි අහිමි වූ මෙරට ජනතාව සිහිකිරීම දිවයින පුරා අදත් සිදුකෙරුණි.
+
+2004 දෙසැම්බර් 26 වනදා ඉන්දුනීසියාවේ සුමාත්‍රා දූපතට ආසන්න මුහුදු පතුලේ ඇති වූ රික්ටර් පරිමාණයේ ඒකක 9.1 තරම් ප්‍රබල භූ කම්පනය අවසන් වූයේ රටවල් රැසක ජීවිත ලක්ෂ ගණනක් බිලිගනිමිනි.
+
+උදෑසන 6.58ට පමණ සුමත්‍රා දූපත ආසන්නයේ හටගත් සුනාමි රළ අතරින් ප්‍රබලතම උදම් රළ පහර ඉන් පැය දෙකකට පමණ පසු ශ්‍රී ලංකාවට ළඟා වුයේ පැයට කිලෝමීටර් 800ක තරම් වේගයකිනි. ඒ උදෑසන 09.26ට පමණි.
+
+චණ්ඩ රළ පහර මිනිත්තු කිහිපයක් තුළ මෙරට ජීවිත 35,000කට අධික සංඛ්‍යාවක් බිලිගනිමින් රුපියල් කෝටි ගණනක දේපොළද විනාශ කළේ සිදුවූයේ කුමක්ද යන්න පවා සිතන්නට කාලයක් ඉතිරි නොකරමිනි.
+
+මීට විසි වසරකට පෙර මෙම මහා ඛේදවාචකයෙන් රළ අතර සැඟවුණු ආදරණීයයන් සිහිපත් කරමින් වාර්ෂිකව සිදුකරන නිහඬතාව සුරැකීම, අදත් පෙරවරු 09.25 සිට පෙරවරු 09.27 දක්වා මිනිත්තු 02ක කාලයක් මුළුල්ලේ සිදුකෙරුණි.
+
+...
+
+[Data](articles/36afd5a3.json)
+
+---
+
+### அமெரிக்க விலங்குகள் சரணாலயத்தில் பறவைக் காய்ச்சலினால் 20 புலிகள் பலி
+
+*2024-12-26 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202190) · `ta`
+
+அமெரிக்காவில் வொஷிங்டன்  மாநிலத்திலுள்ள விலங்குகள் சரணாலயத்தில் கடந்த பல வாரங்களில் ஒரு வங்காளப் புலி மற்றும் நான்கு கூகர் புலிகள் உட்பட 20 புலிகள் பறவைக்காய்ச்சலால் உயிரிழந்துள்ளன.
+
+"இந்த விலங்குகள் இறந்த சோகம் எங்களை ஆழமாக பாதித்துள்ளது,  இந்த நம்பமுடியாத இழப்பால் நாங்கள் அனைவரும் கவலை அடைகிறோம்" என வொஷிங்டனின் வைல்ட் ஃபெலிட் அட்வகேசி சென்டர்  பேஸ்புக்கில் பதிவிட்டுள்ளது.
+
+பறவைக் காய்ச்சல் என்பது  கோழி மற்றும் காட்டுப் பறவைகள் போன்ற உயிரினங்களில் காணப்படும் தொற்று நோயாகும். பறவைகள் மட்டுமின்றி, வன விலங்குகளான நரிகள், காட்டு நாய்கள், கடல் மற்றும் நீர்வாழ் உயிரினங்களான சீல், நீர்நாய் போன்ற பாலூட்டிகளையும் இந்த வைரஸ் பாதிக்கிறது.
+
+பறவைகளின் எச்சங்கள், எச்சில்கள் அல்லது அசுத்தமான உணவு மற்றும் நீர் மூலம் இந்த நோய் சில நாட்களில் ஒட்டுமொத்த பறவை கூட்டத்திற்கே பரவுகிறது.
+
+...
+
+[Data](articles/967f4e82.json)
+
+---
+
+### Sri Lanka Customs to resume clearance of imported rice
+
+*2024-12-26 12:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104506/sri-lanka-customs-to-resume-clearance-of-imported-rice) · `en`
+
+Sri Lanka Customs says that the clearance of imported rice which had been briefly halted will resume starting today (26).
+
+Customs Media Spokesman, Additional Director General Sivali Arukgoda, stated that businessmen that imported rice into the country will now be able to clear their shipments from this morning.
+
+To address the rice shortage in the country, the government granted permission for private-sector rice importers to import rice between December 4 and 20, during which 67,000 metric tons of rice were imported.
+
+Following a recent Cabinet meeting, the deadline for rice imports was extended until January 10, 2025, with the relevant Gazette notification issued on December 24.
+
+Accordingly, Sri Lanka Customs stated that the clearance of imported rice will resume today.
+
+...
+
+[Data](articles/9107f993.json)
+
+---
 
 ### Imported Rice: Special Gazette
 
@@ -85,6 +145,110 @@ Customs reports that the government has announced the importation of rice but th
 [Data](articles/c73cf512.json)
 
 [Extended Data](ext_articles/c73cf512.ext.json)
+
+---
+
+### போக்குவரத்து கடமைகளில் ஈடுபடும் பொலிஸ் உத்தியோகத்தர்களுக்கு விடுக்கப்பட்டுள்ள பணிப்புரை
+
+*2024-12-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/202188) · `ta`
+
+போக்குவரத்து கடமைகளில் ஈடுபடும் பொலிஸ் உத்தியோகத்தர்கள் இரவு நேரங்களில் வாகனங்களை நிறுத்துவதற்காக சமிக்ஞை காட்டும் போது எவ்வாறு செயற்பட வேண்டும் என்பது தொடர்பாக பதில் பொலிஸ் மா அதிபரினால் பணிப்புரை விடுக்கப்பட்டுள்ளது.
+
+போக்குவரத்து கடமைகளில் இரவு நேரங்களில் வாகனங்களை நிறுத்துவதற்காக சமிக்ஞை காட்டும் போது பல சந்தர்ப்பங்களில் பல்வேறு வகையான மின்விளக்குகளைப் பயன்படுத்துவதனால் மின்விளக்குகளின் வெளிச்சம் வாகன ஓட்டுநர்களின் முகத்தில் படுவதால், சில சந்தர்ப்பங்களில் வாகனத்தை கையாள்வதிலும் கட்டுப்படுத்துவதிலும் சிரமங்கள் ஏற்படுவதுடன், விபத்துகளும் ஏற்படுவதற்கான வாய்ப்புகள் உள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+போக்குவரத்து கடமைகளில் ஈடுபடும் பொலிஸ் உத்தியோகத்தர்கள் ஒளி பிரதிபலிக்கும் ஜாக்கட்டுகள் அணியாதிருப்பதனால் அவர்களுக்கும்  விபத்துகள் ஏற்படுவதற்கான வாய்ப்புகள் அதிகமாக உள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதனால், இன்று வியாழக்கிழமை (26) முதல்  போக்குவரத்துக் கடமைகளில் ஈடுபடும் பொலிஸ் உத்தியோகத்தர்களுக்கு விடுக்கப்பட்ட அறிவுறுத்தலுக்கு அமைவாக  செயற்படுமாறு பதில் பொலிஸ் மா அதிபர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/388da0c2.json)
+
+---
+
+### தம்பகல்ல பகுதியில் கோடாவுடன் ஒருவர் கைது
+
+*2024-12-26 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/202186) · `ta`
+
+மொனராகலை மாவட்டம் தம்பகல்ல பொலிஸ் பிரிவிற்கு உட்பட்ட உடுமுல்ல பகுதியில் நேற்று புதன்கிழமை (25) பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது சட்டவிரோத மதுபானம் தயாரிக்க பயன்படுத்தப்படும் கோடாவுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் உடுமுல்ல, தம்பகல்ல பகுதியைச் சேர்ந்த 38 வயதுடையவராவார்.
+
+சந்தேக நபரிடமிருந்து 509 லீற்றர் கோடா அடங்கிய 03 பீப்பாய்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/a47ca24a.json)
+
+---
+
+### පාතාලයෙන් වැටුප් ලබන පොලිස් නිලධාරීන් ඉන්නවා - සුනිල් වටගල
+
+*2024-12-26 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204737) · `si`
+
+පාතාලය සහ මත්ද්‍රව්‍ය ජාවාරම තුළ වැටුප් ලබන පොලිස් නිලධාරීන් සිටින බව මහජන ආරක්ෂක නියෝජ්‍ය අමාත්‍ය නීතිඥ සුනිල් වටගල මහතා පවසයි.
+
+එහිදී ඔහු පෙන්වා දුන්නේ පාතාලය සහ මත්ද්‍රව්‍ය ජාවාරම තුරන් කිරීමට ගෙන ඇති ඇතැම් පියවර මාධ්‍ය ඉදිරියේ හෙළි කිරීමට නොහැකි බවය.
+
+"පාතාලය, මත්ද්‍රව්‍ය ජාවාරම යට පඩි ගන්න පොලිස් නිලධාරීන් ඉන්නවා. අපිට රුවන්වැල්ලේ මුළු පොලීසියම වගේ මාරු කරන්න සිද්ධ වුණා. බුද්ධි තොරතුරු අරගෙන. ඒ විතරක් නෙමෙයි අවිස්සාවේල්ලේ. මේ අය ජාලයක්. පාතාල සල්ලි පොලීසිය අතට යනවා."
+
+"අපි පොලිස්පතිව ගෙනල්ලා සාකච්ඡා කළා. දැන් පාතාලය මෙහෙයවන්නා මතුගම ඉන්නේ."
+
+"අපි මේක ප්‍රශ්නයක් විදියට දකිනවා. අපි ගත්තු සියලුම ක්‍රියාමාර්ග මාධ්‍ය හරහා හෙළිකරන්න අමාරුයි. මත්ද්‍රව්‍ය සහ පාතාලය සම්බන්ධයෙන් අමාත්‍යංශ මට්ටමින් තීන්දු තීරණ ටිකක් අරගෙන තියෙනවා. ඒවා ක්‍රියාත්මක කිරීමේ වගකීම දීලා තියෙන්නේ පොලිස්පති ඇතුළු කණ්ඩායමට."
+
+"අපි සියලුම පොලිස් නිලධාරීන්ට කියන්නේ මහජන වරමට ගරු කරන්න කියලා."
+
+"ඊයේ පෙරේදා ආයෙත් පාතාල සිද්ධි ඉස්මතු වුණා. මේක ඇතුළේ පටු අවස්ථාවාදී දේශපාලනයත් තියෙනවා."
+
+◼️
+
+[Data](articles/9984d159.json)
+
+---
+
+### Sri Lanka welcomes two millionth tourist in 2024
+
+*2024-12-26 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104505/sri-lanka-welcomes-two-millionth-tourist-in-2024) · `en`
+
+A couple from Thailand who arrived onboard a SriLankan Airlines flight today marked the two millionth tourist arrival in Sri Lanka for 2024, Sri Lanka Tourism said.
+
+Sri Lanka marks a record-breaking year in 2024, celebrating the arrival of its two millionth tourist, showcasing its appeal as a vibrant tropical destination.
+
+The Sri Lankan Ministry of Tourism announced today (December 26) its readiness to celebrate the arrival of the two millionth foreign tourist for the year 2024.
+
+Deputy Minister of Tourism, Professor Ruwan Ranasinghe, shared that the Sri Lanka Tourism Promotion Bureau (SLTPB) has planned a special ceremony at Bandaranaike International Airport (BIA) in Katunayake this morning to commemorate the milestone.
+
+By December 22, Sri Lanka had welcomed 1,966,256 international visitors since the start of the year. December alone saw 161,383 foreign tourists, with India contributing the highest number at 35,131 arrivals.
+
+...
+
+[Data](articles/03e3e1e4.json)
+
+---
+
+### වසර 05කට පසු සංචාරකයින් ලක්ෂ 20 ඉක්මවයි
+
+*2024-12-26 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204736) · `si`
+
+2024 වසරේ විසි ලක්ෂ වෙනි සංචාරකයා අද (26) දින පෙ.ව 10.49ට බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළට පැමිණියේය.
+
+විසි ලක්ෂ වැනි සංචාරකයා පිළිගැනීමට සංචාරක නියෝජ්‍ය අමාත්‍ය ආචාර්ය රුවන් රණසිංහ මහතා සමඟ සංචාරක ප්‍රවර්ධන කාර්යංශයේ සභාපති බුද්ධික හේවාවසම් මහතා ගුවන්තොටුපොළට පැමිණ තිබුණි.
+
+සංචාරකයා පිළිගැනීම සඳහා විශේෂ උත්සවයක් ද ගුවන්තොටුපොළේ Silk Route Loungeහි ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යංශය සංවිධානය කර තිබුණි.
+
+මෙය වාර්ෂික සංචාරක පැමිණීම ලක්ෂ 20 ඉක්මවන සිව්වන අවස්ථාව වන අතර මීට පෙර ලක්ෂ 20 ඉක්මවා තිබුණේ 2016, 2017, 2018 වසරවල දී පමණි.
+
+2018 වසරින් පසුව වසරක් තුළ වැඩිම සංචාරකයින් පැමිණීම වාර්තා වන්නේ මේ වසරේදීය.
+
+දෙසැම්බර් මාසයේ පළමු දින 26 තුළ සංචාරකයන් 19,5127ක් පැමිණ ඇති අතර දෙසැම්බර් 31 මධ්‍යම රාත්‍රිය වන විට සංචාරකයන් 250,000 ඉක්මවනු ඇතැයි අපේක්ෂා කෙරේ.
+
+මීට පෙර එක් මසක් තුළ සංචාරකයන් 250,000 ඉක්මවා තිබුණේ 2019 පෙබරවාරි මාසයේ පමණි.
+
+පාස්කු ප්‍රහාරය, කොවිඩ් වසංගතය සහ ආර්ථික අර්බුදය හේතුවෙන් සංචාරක කර්මාන්තය බිඳ වැටුණු අතර නව රජය පත් වීමෙන් පසු සංචාරක කර්මාන්තයේ ශීඝ්‍ර වර්ධනයක් පෙන්නුම් කරයි.
+
+...
+
+[Data](articles/b4bd50e0.json)
 
 ---
 
@@ -269,6 +433,8 @@ However, Acting IGP Priyantha Weerasooriya has informed that this order will not
 ◼️
 
 [Data](articles/dc7f3ab2.json)
+
+[Extended Data](ext_articles/dc7f3ab2.ext.json)
 
 ---
 
@@ -2213,187 +2379,5 @@ According to the report, the police patrol at Expressway after night to prevent 
 [Data](articles/5555df18.json)
 
 [Extended Data](ext_articles/5555df18.ext.json)
-
----
-
-### Special Task Force to prevent night theft
-
-*2024-12-25 18:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவுநேரத்-திருட்டைத்-தடுக்க-விசேட-அதிரடிப்படையினர்/175-349286) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Police STF deployed to stop nighttime theft of power lines on Katunayake-Colombo Highway. Road Development Authority requests Public Security Minister action. Police patrols Expressway nights to prevent cable cuts.
-
-🟩
-
-The Ministry of Highways, Ports and Civil Aviation Services said that police Special Task Force (STF) will be deployed to prevent theft of power lines on the Katunayake-Colombo Highway.
-
-The Road Development Authority has asked the Public Security Minister Ananda Wijebala to take action on the directive of Minister Bimal Ratnayake.
-
-According to the report, the police patrol at Expressway after night to prevent the thieves from cutting off electric cables. This is a relentless offense by addiction, the ministry said.
-
-◼️
-
-[Data](articles/7994eb74.json)
-
-[Extended Data](ext_articles/7994eb74.ext.json)
-
----
-
-### Sri Lanka Insurance Life recognised at NAFLIA
-
-*2024-12-25 18:34:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-recognised-at-naflia/) · `en`
-
-Sri Lanka Insurance Life (SLICLL) sales team was recognised at the Life Insurance Industry Sales Awards 2023 held during the 15th National Forum for Life Insurance Advisors (NAFLIA).
-
-This special awards ceremony celebrated the exceptional achievements of the Top performers of the Life Insurance industry.
-
-A. Supesan from Jaffna Branch and Rohana Kumara from Gampaha Branch of Sri Lanka Insurance Life was rewarded under the Best Branch Manager Category. They clinched the Silver and Bronze awards respectively in both the Large-scale Company Category and the National Level.
-
-The event was held on the 3rd December 2024, at the Monarch Imperial, Sri Jayawardenepura Kotte.
-
-Melwa supporting the development of motorcycle racing industry in Sri Lanka
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/686bdafb.json)
-
----
-
-### Ring in 2025 in splendor at Pegasus Reef’s tropical ‘Crimson Eve’ gala
-
-*2024-12-25 18:33:00* · [`islandlk`](http://island.lk/ring-in-2025-in-splendor-at-pegasus-reefs-tropical-crimson-eve-gala/) · `en`
-
-Pegasus Reef will be concluding the festive season with “Crimson Eve”, a grand year-end celebration, on the 31st of December 2024.
-
-Crimson Eve aims to provide a distinctively tropical take on customary celebrations and promises a memorable evening filled with vibrant entertainment, fine dining, and joyful companionship. A visual and sensory feast that transforms the evening into an island paradise, the event’s theme celebrates the rich crimson hues of celebration intertwined with tropical charm. The sophistication of the year-end celebrations will blend with the warmth of the tropics to create an atmosphere that will leave guests with priceless memories.
-
-Pegasus Reef extends a warm invitation to everyone to attend Crimson Eve, a colorful event that will cap out 2024 on a high note.
-
-...
-
-[Data](articles/1a876491.json)
-
----
-
-### Pay silent tribute for 2 minutes tomorrow
-
-*2024-12-25 18:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-2-நிமிடம்-மௌன-அஞ்சலி-செலுத்துங்கள்/175-349285) · `ta`
-
-Summarize: Pay silent tribute Dec 26, 9:25 AM for 2004 disaster victims. Over 35,000 dead, 5,000 missing.
-
-🟩
-
-The Disaster Management Center has demanded people to pay silent tributes on December 26 (tomorrow) at 9.25 am.
-
-The disaster, which took place on December 26, 2004, died more than 35,000 and more than 5,000 disappeared. Remble
-
-◼️
-
-[Data](articles/04aeb0cb.json)
-
-[Extended Data](ext_articles/04aeb0cb.ext.json)
-
----
-
-### Three arrested for engaging in illegal gemstone excavation
-
-*2024-12-25 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/202144) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"3 arrested for illegal gemstone mining in Kehelgamuwa River. Suspects from Gampola, Bogawantalawa, Paragaduwa aged 21, 50, 58."
-
-🟩
-
-Three suspects have been arrested by Norwood police illegally engaged in illegal gem stone excavation on Tuesday (24) in the Kehelgamuwa River, which belongs to the Norwood Police Division.
-
-The arrested suspects are from Gampola, Bogawantalawa and Paragaduwa, aged 21, 50 and 58.
-
-◼️
-
-[Data](articles/07e41394.json)
-
-[Extended Data](ext_articles/07e41394.ext.json)
-
----
-
-### Prepaid card instead of train ticket
-
-*2024-12-25 18:20:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-டிக்கெட்டுக்கு-பதிலாக-ப்ரீபெய்டு-கார்டு/175-349284) · `ta`
-
-Railway introduces prepaid access card, replacing traditional tickets. New system to launch before April, featuring technical equipment at stations for seamless travel.
-
-🟩
-
-The Department of Railways has taken steps to introduce a railway access card instead of the current train ticket.
-
-Accordingly, the railway spokesman said the new card would be introduced before April.
-
-He added that the use of the cards will be installed by the technical equipment required for access to each station.
-
-◼️
-
-[Data](articles/422a253c.json)
-
-[Extended Data](ext_articles/422a253c.ext.json)
-
----
-
-### Suspect arrested with 5,000 rupees fake currency notes in Embilipitiya
-
-*2024-12-25 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202146) · `ta`
-
-Arrest made in Embilipitiya: 28-year-old suspect caught with 5000 rupee fake notes during police raid.
-
-🟩
-
-A suspect has been arrested for holding 5,000 rupees of fake currency in a raid carried out by a team of officials of the Embilipitiya Divisional Criminal Investigation Division in the Mahabelusa area of ​​the Embilipitiya Police Division.
-
-The arrested suspect is from the 28 -year -old Embilipitiya, Kumbagoda Aara area.
-
-◼️
-
-[Data](articles/222e77b1.json)
-
-[Extended Data](ext_articles/222e77b1.ext.json)
-
----
-
-### A gang found in 24 thefts
-
-*2024-12-25 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204718) · `si`
-
-Gang of 21 arrested for stealing 21 billion worth of goods including homes, gold, and phones across 8 locations. Suspects from Jaffna, warrants issued, stolen funds spent, some gold jewelry recovered in Jaffna pawn center.
-
-🟩
-
-A group of 21 houses and gold jewelery stolers have been arrested by the Kandy and Galaha Police who stolen over 21 billion houses, gold and mobile phones stolen billions of houses, gold and mobile phones.
-
-The suspects have been identified as residents of Jaffna, 19, 21, 22, 23 and 26.
-
-The robbery has revealed that the robberies were carried out with 4 years in Jaffna, Vavuniya, Kayts, Colombo, Galaha, Kanda, Kandapola and Matale.
-
-Police states that the suspects have reported about 24 thefts.
-
-The Jaffna Police say that 9 warrants have been issued only from the Jaffna court area against these suspects.
-
-According to courts, the suspects had reached a house to various areas and rented a house from them.
-
-The money they stole has already been spent and only a few stolen gold jewelery have been found in a paw center in Jaffna.
-
-◼️
-
-[Data](articles/d093a672.json)
-
-[Extended Data](ext_articles/d093a672.ext.json)
 
 ---

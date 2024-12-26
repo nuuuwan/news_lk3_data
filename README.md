@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 15:12:59**
+As of **2024-12-26 15:43:48**
 
 ## Newspaper Stats
 
-*Scraped **62,143** Articles*
+*Scraped **62,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,91 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,932
 adaderanalk | 7,588
-tamilmirrorlk | 8,912
-virakesarilk | 10,291
-adaderanasinhalalk | 10,734
+tamilmirrorlk | 8,913
+virakesarilk | 10,292
+adaderanasinhalalk | 10,736
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,657 (99.2%) of 62,143 articles have been extended.
+61,659 (99.2%) of 62,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### Murder
+
+*2024-12-26 15:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-வன்புணர்ந்து-படு-கொலை-நபருக்கு-விளக்கமறியல்-நீடிப்பு/175-349328) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+55-year-old man arrested for murdering 10-year-old girl in Talaimannar. Girl went missing Feb 15, found dead next day. Suspect worked in garden, escaped hospital but rearrested. Case ongoing.
+
+🟩
+
+The Mannar court on Thursday (26) ordered a 55 -year -old man to be arrested in connection with the murder of a 10 -year -old girl in the village of Tala Mannar Urmana last year.
+
+A 10 -year -old girl in the village of Talaimannar has fled after being arrested and kept in interrogation for allegedly sexually abusing and murdering a girl.
+
+He was arrested by police on Sunday (15) in Kuchchaveli area in Trincomalee.. They then handed him over to the Talaimannar police.
+
+The Talaimannar police detained and appeared at the Mannar court last Monday (16). He ordered the suspect to be remanded until December 26.
+
+In this case, the suspect was produced before the Mannar Court on Thursday (26).
+
+A 10 -year -old girl from the village who went missing on the evening of February 15 in Talaimannar Urmanai village was found dead on the morning of the 16th of the day from the coconut grove, about 300 meters away from her mother's home.
+
+...
+
+[Data](articles/aa7cda2a.json)
+
+[Extended Data](ext_articles/aa7cda2a.ext.json)
+
+---
+
+### வாகனமொன்றில் எரிந்த நிலையில் சடலம் மீட்பு
+
+*2024-12-26 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202204) · `ta`
+
+ஹபரணை - பொலன்னறுவை பிரதான வீதியில்  38 ஆவது கிலோமீற்றர் தூணுக்கு அருகில் நேற்று புதன்கிழமை 25ம் திகதி  இரவு கெப் ரக வாகனமொன்றில் எரிந்த நிலையில் சடலம் ஒன்று கண் டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+ஹபரணை மின்னேரிய வீதியில் பயணித்த நபர் ஒருவர் கெப் வாகனமொன்று தீப்பிடித்து எரிவதாக மின்னேரிய பொலிஸாருக்கு அறிவித்ததையடுத்து மின்னேரிய பொலிஸார் எரிந்துகொண்டிருந்த கெப்ரக வாகனத்தை கண்டுபிடித்ததாக  தெரிவித்தனர்.
+
+கெப் வாகனம் ஹபரணை நோக்கி நிறுத்தப்பட்டிருந்ததோடு இரவு 10 மணியளவில் தீ பரவியதுடன் வாகனத்தில் சடலம் மட்டும் இருந்ததாகவும்  மின்னேரிய பொலிஸார் தெரிவித்தனர்.
+
+ஒருவர் கொலை  செய்யப்பட்டு  அவரது சடலத்தை வண்டியில் ஏற்றி, கெப் வாகனத்தை இந்த பகுதிக்கு கொண்டு வந்து தீ வைக்கப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+மின்னேரியா பொலிஸாரும் பொலன்னறுவை மாநகரசபையின் தீயணைப்புத் திணைக்கள அதிகாரிகளும் வந்து பெரும் முயற்சியில் தீயை முழுமையாக அணைத்துள்ளனர்.
+
+...
+
+[Data](articles/302f52bb.json)
+
+---
+
+### රාජ්‍ය නිලධාරීන් හදිසියේ මාරු කිරීමක් ගැන සජබයෙන් අනාවරණයක්
+
+*2024-12-26 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204745) · `si`
+
+රාජ්‍ය නිලධාරීන් සඳහා පිළිගත නොහැකි තර්කානුකූල නොවන පදනමකින් සේවා ස්ථාන මාරු කිරීමේ සැලසුම් සහගත වැඩපිළිවෙලක් ක්‍රියාත්මක වන බව සමගි ජන බලවේගය පවසයි.
+
+එම පක්ෂයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුම බණ්ඩාර මහතා නිවේදනයක් නිකුත් කරමින් ඒ බව පෙන්වා දෙයි.
+
+එහි දැක්වෙන්නේ, පළාත් පාලන සහකාර කොමසාරිස්වරු, පළාත් පාලන ආයතන ලේකම්වරුන් මෙන්ම සමූපකාර සහකාර සංවර්ධන කොමසාරිස් වැනි මාණ්ඩලික මෙන්ම ක්ෂේත්‍ර නිලධාරීන් ට ද මෙය බලපා ඇති බවට වාර්තා වන බවය.
+
+රාජ්‍ය සේවයේ ස්වාධීනත්වය තහවුරු කිරීමට කටයුතු කරනවා යැයි පොරොන්දුවක් ලබාදෙමින් බලයට පැමිණි ආණ්ඩුව මෙලෙස කටයුතු කිරීම ගැටළු සහගත බව එම නිවේදනයේ සඳහන් ය.
+
+තවමත් අවසන් නැති හා නුදුරේම පැවැත්වීමට නියමිත පළාත් පාලන මැතිවරණය හා මේ දිනවල පැවැත්වෙන සමූපකාර සංගම් ඡන්ද විමසීම් හේතුවෙන් පෙර නොවූ විරූ අයුරින් රාජ්‍ය සේවය තුළ සීග්‍ර ලෙස දේශපාලනීකරණය වීමක් සිදුවෙමින් පැවතීම, ඉදිරි මැතිවරණ ඉලක්ක කොටගත් වැඩපිළිවෙළක් ලෙස ආණ්ඩුව ක්‍රියාත්මක කරන බව පැහැදිලිවම දක්නට ලැබෙන බව එම පක්ෂය පවසයි.
+
+...
+
+[Data](articles/3211fbfa.json)
+
+---
 
 ### German supply chain act could drive Sri Lanka tea exporters away: Report
 
@@ -47,6 +119,8 @@ The German supply chain act was passed in the Bundestag and was in effect from J
 ...
 
 [Data](articles/4df241cb.json)
+
+[Extended Data](ext_articles/4df241cb.ext.json)
 
 ---
 
@@ -65,6 +139,28 @@ The German supply chain act was passed in the Bundestag and was in effect from J
 ...
 
 [Data](articles/274597b5.json)
+
+---
+
+### ගංවතුරෙන් හානි වූ ගොවිබිම් රැසක් හඳුනාගැනේ
+
+*2024-12-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204744) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් පසුගිය නොවැම්බර් මස ඇති වූ ගංවතුරෙන් හානි වූ ගොවිබිම් අක්කර 80,000කට ආසන්න ප්‍රමාණයක් මේ වනවිට හදුනාගෙන ඇති බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
+
+2024/25 මහ කන්නයේ වගා හානි පරීක්ෂාවට අදාළව අද (26) දිනට ප්‍රගතිය දක්වමින් මාධ්‍ය වෙත නිවේදනයක් නිකුත් කරමින් මේ බව දන්වා සිටියේය.
+
+එම නිවේදනයට අනුව අනුව 2024/25 මහ කන්නයේ 2024 නොවැම්බර් මස ඇති වූ ගංවතුර තත්ත්වය හේතුවෙන් වගා හානි සිදු වූ වගාවන් පරීක්ෂාකිරීම මේ වනවිටත් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ සහයෙන් හා ගොවි සංවිධානවල සහභාගිත්වයෙන් සිදුකෙරේ.
+
+ඉන් පොලොන්නරුව, වවුනියාව, මුලතිව්, මන්නාරම යන දිස්ත්‍රික්කවල වගා හානි පරීක්ෂාව මේ වනවිට අවසන් කර ඇත.
+
+එම දිස්ත්‍රික්කවලට අදාළ අවසන් වාර්තා ලද පසුව වන්දි ගෙවීම් කටයුතු කරන බව මෙම නිවේදනයේ දැක්වේ.
+
+මීට අමතරව මඩකලපුව, අම්පාර හා ත්‍රිකුණාමලය දිස්ත්‍රිකවල වගා හානි පරීක්ෂාව එළැඹෙන 29 වනවිටත්, අනුරාධපුරය, කුරුණෑගල, මාතලේ යන දිස්ත්‍රික්කවල වගා හානි පරීක්ෂාව දෙසැම්බර් මස 30 වනවිටත් අවසන් කිරීමට කටයුතු යොදා ඇත.
+
+...
+
+[Data](articles/73dc8ef2.json)
 
 ---
 
@@ -2301,119 +2397,5 @@ Police say they have been drowned in the sea with two children in the Ampara - S
 [Data](articles/cafb5010.json)
 
 [Extended Data](ext_articles/cafb5010.ext.json)
-
----
-
-### Police investigarance on an incident that a woman was killed and killed a woman
-
-*2024-12-25 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204722) · `si`
-
-Dikwella Police investigates murder of 70-year-old woman. Suspicious death linked to land dispute case. CCTV footage shows stranger visiting victim before attack. Suspect arrested and remanded. Blood samples sent for analysis.
-
-🟩
-
-Dickwella Police has launched an investigation into a incident that a 70-year-old unmarried woman was killed.
-
-The relatives of the deceased woman say that death is suspicious in the backdrop of a court case in the case of a land dispute.
-
-A 70-year-old unmarried woman was admitted to the Kalutara Hospital, claiming that a toxic woman was in a house in a house in Dikwella.
-
-She was later transferred to the Matara District General Hospital after the death was transferred to the Matara District General Hospital yesterday (24).
-
-Her relatives say that an unidentified person came to the house and had fled the way to her.
-
-Investigations carried out regarding the incident have been inspected by a CCTV camera near the relevant house.
-
-It states how a person comes to visit the woman to visit the house.
-
-After a few minutes, the stranger and the woman is observed to come out of disturbance from the house.
-
-...
-
-[Data](articles/43af5543.json)
-
-[Extended Data](ext_articles/43af5543.ext.json)
-
----
-
-### Pope calls for world to silence arms and overcome divisions in Christmas address
-
-*2024-12-25 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104497/pope-calls-for-world-to-silence-arms-and-overcome-divisions-in-christmas-address) · `en`
-
-Pope Francis in his traditional Christmas message on Wednesday urged “all people of all nations” to find courage during this Holy Year ”to silence the sounds of arms and overcome divisions” plaguing the world, from the Middle East to Ukraine, Africa to Asia.
-
-The pontiff’s “Urbi et Orbi” — “To the City and the World” — address serves as a summary of the woes facing the world this year. As Christmas coincided with the start of the 2025 Holy Year celebration that he dedicated to hope, Francis called for broad reconciliation, “even (with) our enemies.”
-
-“I invite every individual, and all people of all nations ... to become pilgrims of hope, to silence the sounds of arms and overcome divisions,’’ the pope said from the loggia of St. Peter’s Basilica to throngs of people below.
-
-...
-
-[Data](articles/b4f6854f.json)
-
-[Extended Data](ext_articles/b4f6854f.ext.json)
-
----
-
-### Public amnesty to prisoners
-
-*2024-12-25 20:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202162) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"12 prisoners freed in Batticaloa jail amnesty. Released for minor crimes on President's orders during Nathar festival. Event led by Superintendent Nallaya Prabhakaran."
-
-🟩
-
-The Department of Prisons has announced that a public amnesty has been granted to 12 prisoners from the Batticaloa jail on Wednesday the 25th.
-
-They have been released on the basis of a public amnesty given by the President on the occasion of the Nathar festival for those who have been convicted for minor crimes and other reasons.
-
-The event was chaired by Nallaya Prabhakaran, Superintendent of the Batticaloa Prison and many others, including prison officials and officials, were present.
-
-◼️
-
-[Data](articles/3ec370ff.json)
-
-[Extended Data](ext_articles/3ec370ff.ext.json)
-
----
-
-### The Reduce of the Rise of the People
-
-*2024-12-25 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204721) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Drug abuse plagues Sri Lanka's youth. A rehabilitation program called "Rise Marine" aims to help. Participants enter centers, receive guidance, and work towards recovery during the holiday season, aligning with Christmas spirit.
-
-🟩
-
-Drug abuse has become a powerful social problem carrying the younger generation of Sri Lanka.
-
-Ada Derana meets Ada Derana, who was misguided with drugs in such an environment.
-
-This year is about the Ada Derana visitor, Christmas tour, the rehabilitation of drug addicts.
-
-The 'Riselist "is aimed at upliftment to the rise of the" Rise Marine'.
-
-Thousands of people have already illuminated young lives to be comforting for the healing of drugs and the torture of drugs.
-
-When entering the rehabilitation center, people who were not even the proper sanctification of the rehabilitation center will change their lives in the rehabilitation center for a few months in the rehabilitation center.
-
-Even in a certain occasion, they are raising alignment, even if they are wrong, and they will gradually correct the mistake.
-
-Christmas on the road to correct mistakes is the best time for them to change their lives.
-
-Likewise, fellow beliefs of the ransom, celebrate influence of birth to Jesus Christ today.
-
-◼️
-
-[Data](articles/7d90fe2e.json)
-
-[Extended Data](ext_articles/7d90fe2e.ext.json)
 
 ---

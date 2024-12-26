@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 18:38:13**
+As of **2024-12-26 18:50:48**
 
 ## Newspaper Stats
 
-*Scraped **62,164** Articles*
+*Scraped **62,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,764
 economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,937
+adalk | 5,938
 adaderanalk | 7,590
 tamilmirrorlk | 8,917
 virakesarilk | 10,293
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,669 (99.2%) of 62,164 articles have been extended.
+61,672 (99.2%) of 62,165 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -192,15 +192,49 @@ They have repeatedly accused Hasina -- then newly elected -- of orchestrating a 
 
 ---
 
-### අස්වැසුම හිඟ ප්‍රතිලාභ හෙට බැංකු ගිණුම් වෙත
+### Employment in Israel for 79 Sri Lankans
+
+*2024-12-26 16:33:13* · [`adalk`](https://www.ada.lk/breaking_news/ලාංකිකයින්-79ට-දෙවන-වරටත්-ඊශ්‍රායලයේ-රැකියා-වරම්/11-413858) · `si`
+
+Sri Lankan youths employed in Israel: 79 workers in agriculture, 5 years 3 months contract, departure Dec 28. SLBFE introduces online recruitment portal.
+
+🟩
+
+The air ticket was presented at the Sri Lanka Bureau of Sri Lanka recently to proceed to Sri Lanka in the field of Israelia in the agriculture of Israel.
+
+79 youths were occupied by 79 youth, and they will receive 5 years and 3 months of service.
+
+The air ticket was awarded by the Chairman of the Bureau Chairman Kiosala Wickremasinghe. The Chairman said that these workers could act as brand ambassadors to generate new employment opportunities for the employers who have been expecting to go abroad for controversial Israeli.. Therefore, Wickremesinghe further requested the employment holders to act as the dignity of the homeland as Sri Lankans.
+
+They are due to leave for Israel on 28th of December.
+
+...
+
+[Data](articles/066d1778.json)
+
+[Extended Data](ext_articles/066d1778.ext.json)
+
+---
+
+### Revenue Rewards to Bank Accounts
 
 *2024-12-26 16:21:30* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-හිඟ-ප්‍රතිලාභ-හෙට-බැංකු-ගිණුම්-වෙත/11-413856) · `si`
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීම් යෝජනා ක්‍රමයේ පළමු අදියර යටතේ සුදුසුකම් ලැබූ ප්‍රතිලාභී පවුල් 212 423ටමෙතෙක් ගෙවීමට ඇති හිඟ මුදල් ප්‍රමාණය වූ රුපියල් 1 314 007 750ක මුදල හෙට දිනයේදී අදාළ ප්‍රතිලාභීන්ගේ ගිණුම් වෙත බැංකු ගත කිරීමට කටයුතු කිරීමට කටයුතු කර ඇති බව සුබ සාධක ප්‍රතිලාභ මණඩලය දැනුම් දෙයි.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Revenue Rewards: 212% of earnings deposited into bank accounts under first phase of welfare benefits scheme."
+
+🟩
+
+Happiness Benefits Under the first phase of the revenue benefit scheme, welfare benefits are informed that the 212% of the earnings have been made to bank at the first phase of Rs.
 
 ◼️
 
 [Data](articles/8cc30aeb.json)
+
+[Extended Data](ext_articles/8cc30aeb.ext.json)
 
 ---
 
@@ -230,19 +264,31 @@ Her photos go viral, footballer Ronaldo helped him. Currently, she works as a Co
 
 ---
 
-### පානීය ජල ව්‍යාපෘතියක් නිලධාරීන් අතින් ජන අයිිතියට
+### Officers in Drinking Water Supply
 
 *2024-12-26 16:15:08* · [`adalk`](https://www.ada.lk/breaking_news/පානීය-ජල-ව්‍යාපෘතියක්-නිලධාරීන්-අතින්-ජන-අයිිතියට/11-413855) · `si`
 
-මාතලේ අඹන්ගඟ කෝරළේ ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ කවුඩාගම්මන ග්‍රාමයේ පවුල් 144කට සෙත සලසන පානිය ජල ව්‍යාපෘතිය පසුගියදා නිලධාරීන් විසින් ජනතා අයිතියට පත්කරනු ලැබීය.
+Here's a summary of the text in approximately 200 characters:
 
-වසර ගණනාවක් තිස්සේ පාණිය ජල ගැටලුවකට මුහුණ දුන් කවුඩාගම්මන ජනතාවගේ ඉල්ලීම සැලකිල්ලට ගෙන මාතලේ දිස්ත්‍රික්කයේ ක්‍රියාත්මක වු කදුකර දශකය ව්‍යාපෘතිය යටතේ මෙම පාණිය ජල ව්‍යාපෘතිය ක්‍රියාත්මක කරනු ලැබීය. මෙම ව්‍යාපෘතිය සදහා කදුකර දශකය වැඩසටහන යටතේ රු.මි. 6.8ක මුදලක් වැය කොට තිබේ. ජල මුලාශ්‍රයේ සිට මීටර් 1400ක දුරක් නල මගින් ජල ටැංකිවෙත රැගෙනවිත් එම ටැංකිවල සිට මීටර් 1500ක් ජල නල ඔස්සේ ජලය බෙදා හැරීම සිදුවේ.
 
-මෙම ව්‍යාපෘතිය පිළිබදව අදහස් දක්වමින් මාතලේ දිස්ත්‍රික් ක්‍රමසම්පාදන අධ්‍යක්ෂ අනුරුද්ධ බණ්ඩාර මහතා පැවැසුවේ පාර්ශව රැසකගේ සහයෙන් කණ්ඩායමක් වශයෙන් එක්ව කටයුතු කොට මෙම ව්‍යාපෘතිය සාර්ථක කරගත් බවයි.
 
-...
+Panadahara Water Supply project: 144 families in Kawadugammana village receive public water supply. Kavadu Water Project implemented to address water scarcity. Rs. 6.8 million spent. Water tank distributed 1500 meters from source.
+
+🟩
+
+The Panadahara Water Supply of 144 families in the Kawadugammana village of the Ambangadu Korale Division of Matale have been vested with the public.
+
+The Kavadu Water Project was implemented under the Kadugara decade of the Kudugammana people who have suffered a pawry problem for many years. The project will be Rs.. 6.8 has spent Rs. The water tank has been distributed by 1500 meters from the water tank from the source of Rs. 1500 meters from the water tanks.
+
+Speaking on the project, Matale District Planning Director Anuruddha Bandara has successfully worked as a team of comparison to a large number of parties.
+
+Under the guidance of the District Secretary Gyangey Tilakaratne, the current Divisional Secretary Thusha Senadheera is successfully completedThe ability to be able to do.
+
+◼️
 
 [Data](articles/2c89f04a.json)
+
+[Extended Data](ext_articles/2c89f04a.ext.json)
 
 ---
 
@@ -2291,37 +2337,5 @@ Southern Highway Police are conducting further investigations into the incident.
 [Data](articles/6a7396bd.json)
 
 [Extended Data](ext_articles/6a7396bd.ext.json)
-
----
-
-### 20 years after the Indian Ocean Tsunami: How did it happen?What do we know about the tsunami?
-
-*2024-12-26 01:42:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y8vnnqyv2o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian Ocean Tsunami (2004): Massive earthquake off Sumatra triggered waves killing ~230,000 across 14 countries. Estimated $10 billion damage. First tsunami warning system established in 2005 involving 28 nations.
-
-🟩
-
-20 years after the Indian Ocean Tsunami: How did it happen?What do we know about the tsunami?
-
-In December 26 years ago, the westd of the largest earthquakes in the Sumatra, the largest earthquake has caused a massive tsunami that has damaged the communities around Indonesia.
-
-The tsunami, known as the Indian Ocean Tsunami and Christmas Tsunami, nearly 230,000 people, including 9,000 foreign tourists from various countries, have died. 14 countries were reported to be claimed.
-
-The data published by the Tsunami Elections UPFA points out that at least 275,000 people died and many others were listed as disappeared.
-
-One warning mark on this deadly tsunami was to move back to the beach, unqualicable in the coast and the sea.
-
-Low 30 minutes of the earthquake, massive waves began to collapse to the coast of Nicbbar Islands in India. Within two hours, the waves reached South India, Sri Lanka and Thailand, and in the next seven hours, they broke into the area of ​​the Africa.
-
-...
-
-[Data](articles/65d88807.json)
-
-[Extended Data](ext_articles/65d88807.ext.json)
 
 ---

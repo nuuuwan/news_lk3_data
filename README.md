@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 09:16:36**
+As of **2024-12-26 09:27:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,634 (99.3%) of 62,080 articles have been extended.
+61,636 (99.3%) of 62,080 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -212,35 +212,53 @@ It is reported that the technical assistance has been provided with technical as
 
 ---
 
-### වැසි රහිත කාලගුණයක්
+### Rainy weather
 
 *2024-12-26 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204726) · `si`
 
-උතුරු සහ නැගෙනහිර පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, ඌව සහ උතුරු-මැද පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+"Rainy weather forecast: Showers possible in Northern & Eastern regions. Mainly rainy conditions elsewhere. Some areas in Western, Sabaragamuwa, Central, Southern, Uva & North-central provinces may experience prolonged rainfall."
+
+🟩
+
+The Department of Meteorology announces that showers in the North and East can occur.
+
+In other parts of the island, there is mainly in rainy weather.
+
+Some locations in the Western, Sabaragamuwa, Central, Southern, Uva and North-middle provinces can last a murder.
 
 ◼️
 
 [Data](articles/a919156d.json)
 
+[Extended Data](ext_articles/a919156d.ext.json)
+
 ---
 
-### அதி உயர் டெங்கு அபாயம்
+### High risk of high dengue
 
 *2024-12-26 03:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-உயர்-டெங்கு-அபாயம்/175-349296) · `ta`
 
-நாட்டில் இனங்காணப்படும் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பைத் தொடர்ந்து 15 சுகாதார மருத்துவ அதிகாரப் பிரிவுகள் அதி உயர் டெங்கு அபாயமிக்க பகுதிகளாக அடையாளப்படுத்தப்பட்டுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+Dengue outbreak: 15 areas identified as high-risk. 47,599 cases reported, 23 deaths. Cases rising due to weather conditions. Measures needed to control spread.
 
-இம்மாதம் 17 ஆம் திகதி நாடளாவிய ரீதியில் 47 ஆயிரத்து 599 டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளனர். கடந்த மாதம் சுமார்  3,178  டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர். சில நாட்களாக நிலவிவந்த மழையுடன் கூடிய வானிலை மற்றும் வெள்ளப்பெருக்கு காரணமாக டெங்கு பரவல் அதிகரித்துள்ளமையை காணக் கூடியதாக உள்ளது. அதற்கமைய அனைத்து மாவட்டங்களிலும் பதிவாகக்கூடிய  டெங்கு நோயாளர்களின் வீதமும் சடுதியாக அதிகரித்துள்ளது.
+🟩
 
-டெங்கு பரவலைக் கருத்திற் கொண்டு 15 சுகாதார மருத்துவ அதிகாரப் பிரிவுகள்  அதி உயர் டெங்கு அபாயம் மிக்க பகுதிகளாக அடையாளப்படுத்தப்பட்டுள்ளன. அத்தோடு டெங்கு காய்ச்சலால்   உயிரிழந்தவர்களின் எண்ணிக்கையும் 23 ஆக உயர்வடைந்துள்ளது.
+The National Dengue Control Division has said that 15 health medical authorities have been identified as high dengue hazards following an increase in the number of dengue patients identified in the country.
 
-...
+47 thousand 599 dengue patients have been identified across the country on the 17th of this month.. About 3,178 dengue patients were reported last month. Dengue spreads over the weather and floods with rainfall for a few days. Accordingly, the rate of dengue patients in all districts has also increased.
+
+Considering the spread of dengue, 15 Health Medical Affairs Units have been identified as high dengue hazards. In addition, the number of people who died of dengue fever has risen to 23.
+
+There are feasures that will increase the rate of dengue patients who can be recorded in the coming days. The number of dengue patients recorded in the districts of Colombo, Gampaha, Kandy, Jaffna, Galle, Ratnapura, Kalutara and Puttalam. (A)
+
+◼️
 
 [Data](articles/e074c9c1.json)
+
+[Extended Data](ext_articles/e074c9c1.ext.json)
 
 ---
 

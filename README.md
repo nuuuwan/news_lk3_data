@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 11:14:30**
+As of **2024-12-26 11:27:14**
 
 ## Newspaper Stats
 
-*Scraped **62,098** Articles*
+*Scraped **62,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,90 @@ economynextcom | 3,777
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,928
-adaderanalk | 7,581
-tamilmirrorlk | 8,901
-virakesarilk | 10,284
-adaderanasinhalalk | 10,723
+adaderanalk | 7,584
+tamilmirrorlk | 8,902
+virakesarilk | 10,285
+adaderanasinhalalk | 10,727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,642 (99.3%) of 62,098 articles have been extended.
+61,643 (99.3%) of 62,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### சுனாமி பேபி அஞ்சலி செலுத்தினர்
+### ”அரசாங்கம் இன்னும் தீர்மானிக்கவில்லை”
+
+*2024-12-26 11:13:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-இன்னும்-தீர்மானிக்கவில்லை/175-349310) · `ta`
+
+புதிய பாராளுமன்றத்தின் எம்.பி.க்களுக்கு வாகனங்களை ஒதுக்குவதற்கு அரசாங்கம் கொள்கை தீர்மானம் எடுத்திருந்த போதிலும் இதுவரை வாகனங்களை ஒதுக்கவில்லை.
+
+அரசாங்கம் தற்போது சொகுசு வாகனங்களை ஏலம் விடுவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால நேற்று டெய்லி மிரருக்கு தெரிவித்தார். தற்போது பெரும்பாலான எம்.பி.க்கள் தங்களது சொந்த வாகனங்களை பயன்படுத்தி வருவதாக அவர் கூறினார்.
+
+“புதிய பாராளுமன்றத்தில் கடமையாற்றும் எம்.பி.க்களுக்கு வாகனங்களை வழங்குவதற்கு நாங்கள் தீர்மானம் எடுத்துள்ளோம். எனினும், அவர்களுக்கு வாகனங்களை எப்போது ஒதுக்குவது என்பது குறித்து நாங்கள் முடிவு செய்யவில்லை. அவர்களுக்கு ஒதுக்கப்படவுள்ள வாகனங்களையும் இறக்குமதி செய்ய மாட்டோம்,'' என்றார்.
+
+பாராளுமன்ற உறுப்பினர்களின் சலுகைகளை குறைக்க புதிய அரசு முடிவு செய்துள்ளது. வரியின்றி வாகனங்களை இறக்குமதி செய்வதற்கு பாராளுமன்ற உறுப்பினர்களுக்கு அனுமதி வழங்கப்பட மாட்டாது.
+
+◼️
+
+[Data](articles/21736b5b.json)
+
+---
+
+### Tsunami paid tribute
 
 *2024-12-26 10:56:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுனாமி-பேபி-அஞ்சலி-செலுத்தினர்/175-349308) · `ta`
 
-சுனாமி பேபி அபிலாஷ்  அவரது இல்லத்தில் அமைக்கப்பட்டுள்ள சுனாமி நினைவுத்தூவிக்கு முன்பாக ஆழிப்பேரலையால் உயிர் நீத்த உறவுகளுக்காக தனது அஞ்சலியை வியாழக்கிழமை(26) செலுத்தினார்.
+Here's a summary of the text in approximately 200 characters:
 
-கடந்த 2004 ஆம் ஆண்டு ஏற்பட்ட ஆழிப்பேரலையின்போது 2004.12.26 அன்று  கல்முனை வடக்கு ஆதார வைத்தியசாலை அல்லோல கல்லோலபட்டது.
 
-இரண்டு மாதம் ஒருவாரமும் நிறைந்த குழந்தையாக சுனாமி பேபி 81 எனும் பெயருடன் உலகம் முழுவதும் பேசும் குழந்தையாக மாறினான் இந்த ஜெயராசா அபிலாஷ்.
 
-இந்த குழந்தை தங்களுடையது  எனது 09 தாய்மார்கள் போராடினர். பின்னர் அங்கு ஏற்பட்ட குழப்ப நிலையால் வைத்தியசாலை நிர்வாகம் கல்முனை நீதவான் நீதிமன்றத்தை நாடியது. ஒன்பது தாய்மார்களையும் மரபணு பரிசோதனை செய்ய நீதவான் உத்தரவிட்டார்.
+"Tsunami Baby" Abhilash pays tribute to parents near memorial. He was 2 months old during 2004 tsunami. His mother fought for custody. Abhilash now 20, lives in Batticaloa, worships memorial.
 
-பின்னர் 52 நாட்களின் பின்னர் ஜெயராசா யுனித்தலா தம்பதியினர் களின் புதல்வனே அபிலாஷ் என நிரூபணமாகியது. பின்னர் அந்த குழந்தை ஜெயராசா யுனித்தலா தம்பதியினரிடம் ஒப்படைக்கப்பட்டது.
+🟩
 
-...
+Tsunami Baby Abhilash paid his tribute on Thursday (26) for a life -threatening relationship before the tsunami memorial set up at his residence.
+
+Kalmunai Northern Resource Hospital was held on 26.12.2004 during the year 2004.
+
+Jayarasa Abhilash became a world -class child with the name Tsunami Baby 81 as a two -month -old child.
+
+This kid is their 99 mothers fought for. The hospital administration then sought the Kalmunai Magistrate's Court. The magistrate ordered the nine mothers to be generated.
+
+Later, 52 days later, Jayarasa Unithila was proved to be Abhilash, the son of the couple.. The child was later handed over to the Jayarasa Unittala couple.
+
+Abhilash, who is currently living in the village of Gurukkamadam, Batticaloa, is worshiping a memorial in memory of those who died in the tsunami.
+
+Abhilash, now known as a 20 -year -old tsunami Baby, paid his tribute to his parents for alleged relationships before the tsunami memorial set up at his residence.
+
+◼️
 
 [Data](articles/b695cf8b.json)
+
+[Extended Data](ext_articles/b695cf8b.ext.json)
+
+---
+
+### Police Dept’s 2025 annual transfers delayed by 6 months
+
+*2024-12-26 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104504/police-depts-2025-annual-transfers-delayed-by-6-months) · `en`
+
+The implementation of the Police Department’s annual transfer orders for 2025 has been suspended for six months.
+
+The relevant order has been issued by the Acting Inspector General of Police (IGP), Priyantha Weerasooriya, on December 24.
+
+Accordingly, the transfer orders, originally scheduled to take effect on January 1, 2025, have now been extended to June 30, 2025.
+
+The Acting IGP has further stated that if any officers require the annual transfer orders to be implemented earlier due to urgent circumstances, a report must be submitted by the Senior Deputy Inspector Generals (DIGs) in charge of the respective province and forwarded to DIG Human Resource Management and International Relation Range.
+
+However, Acting IGP Priyantha Weerasooriya has informed that this order will not interfere with the implementation of the 2025 annual transfer orders issued according to duty requirements.
+
+◼️
+
+[Data](articles/dc7f3ab2.json)
 
 ---
 
@@ -79,6 +131,48 @@ In addition, the Inspector General of Police has been instructed to keep track o
 [Data](articles/bfe25dc8.json)
 
 [Extended Data](ext_articles/bfe25dc8.ext.json)
+
+---
+
+### சுனாமி தாக்கி 20 வருடங்களின் பின்னர் - இலங்கையில் 9 குடும்பங்கள் உரிமை கொண்டாடிய குழந்தை தற்போது உயர்தர வகுப்பு மாணவன் - பல்கலைகழகம் செல்ல ஆசைப்படுகின்றான்.
+
+*2024-12-26 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202179) · `ta`
+
+2004 இல் பேரழிவை ஏற்படுத்திய இந்து சமுத்திர சுனாமியின் பின்னர் சேற்றிலிருந்து மீட்கப்பட்டு ,உணர்வுபூர்வமான நீதிமன்ற போராட்டத்தின் பின்னர் பெற்றோருடன் சேர்க்கப்பட்ட,பேபி 81 என கடந்தகாலங்களில் அழைக்கப்பட்ட சிறுவனிற்கு தற்போது 20 வயது.
+
+ஜெயராஜா  அபிலாஷின்  கதை ,சமீபத்தைய வரலாற்றில் மிக மோசமான இயற்கை அழிவினால் துண்டாடப்பட்ட குடும்பங்களிற்கான ஒரு குறியீடு  அதேவேளை அவரின் கதை நம்பிக்கையையும் அளிக்கின்ற ஒன்று.
+
+இலங்கையின் கிழக்கு பகுதியை தாக்கிய சுனாமியால் அடித்துசெல்லப்பட்ட2 வயது குழந்தையை அவனது வீட்டிலிருந்து சிறிது தொலைவில் உறவினர்கள் மீட்டனர்.
+
+சுனாமியால் பிரிக்கப்பட்ட தனது குடும்பத்தை அபிலாஷின்  தந்தை முருகுபிள்ளை ஜெயராஜா மூன்று நாட்களாக தேடியலைந்தார்.
+
+முதலில் அவர் தனது தாயை கண்டுபிடித்தார்.பிறகு மனைவியை கண்டுபிடித்தார்.ஆனால் அவர்களது ஆண் குழந்தை காணாமல்போயிருந்தான்.
+
+தாதியொருவர் அந்த குழந்தையை மருத்துவமனையிலிருந்து வீட்டிற்கு கொண்டுசென்றிருந்தார் எனினும் இந்த குடும்பத்தின் துயரத்தை அறிந்ததும்,அவர்கள் உயிருடன் இருப்பதை அறிந்ததும், குழந்தையை மீள அவர்களிடம் ஒப்படைத்தார்.
+
+...
+
+[Data](articles/ac945c03.json)
+
+---
+
+### රට හාල් නිෂ්කාශන කටයුතු අද සිට යළි අරඹයි
+
+*2024-12-26 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204735) · `si`
+
+නතර වී තිබු ආනයනික සහල් නිෂ්කාශන කටයුතු අද (26) සිට යළි ආරම්භ කරන බව ශ්‍රී ලංකා රේගුව පවසයි.
+
+ඒ අනුව සහල් මෙරටට ආනයනය කළ ව්‍යාපාරිකයින්ට අද පෙරවරුවේ සිට සිය සහල් නිශ්කාශනය කරගැනීමේ කටයුතු හැකිවන බව රේගු මාධ්‍ය ප්‍රකාශක අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සිවලි අරුක්ගොඩ මහතා සඳහන් කළේය.
+
+රට තුළ පවතින සහල් ගැටලුවට පිළියමක් වශයෙන් පෞද්ගලික අංශයේ ව්‍යාපාරිකයින්ට සෘජුවම සහල් ආනයනය කිරීම සඳහා දෙසැම්බර් මස 4වන දින සිට  20 වන දින දක්වා අවසර ලබා දි තිබු අතර එම කාළය තුළ සහල් මෙට්‍රික් ටොන් 67,000ක් ආනයනය කිරීමට පියවර ගෙන තිබුණි.
+
+කෙසේ වෙතත් පසුගියදා පැවති කැබිනට් මණ්ඩලයේදි සහල් ආනයනය කිරීම සඳහා ලබා දී තිබු කාලය ජනවාරි මස 10 වන දින දක්වා දීර්ඝ කිරීමට කටයුතු කළ අතර ඊට අදාළ ගැසට් නිවේදනය පසුගිය 24 වන දින නිකුත් කරනු ලැබීය.
+
+ඒ අනුව ‍මෙරටට ආනයනය කරන ලද සහල් යළිත් අද දිනයේ සිට නිශ්කාශනය කිරීමේ කටයුතු සිදුකරන බව රේගු දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+...
+
+[Data](articles/cfda30dc.json)
 
 ---
 
@@ -182,6 +276,24 @@ Police have discovered that the fire cab was a cab owned by a man from Colombo.
 
 ---
 
+### Russian region declares emergency situation as Black Sea oil spill fallout widens
+
+*2024-12-26 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104503/russian-region-declares-emergency-situation-as-black-sea-oil-spill-fallout-widens) · `en`
+
+Authorities in Russia’s southern Krasnodar region on Wednesday declared a region-wide emergency, saying that oil was still washing up on the coastline 10 days after two ageing tankers ran into trouble.
+
+The oil is from the tankers which were hit by a storm on Dec. 15. One of the vessels split in half, while the other ran aground.
+
+The pollution, which has coated sandy beaches at and around Anapa, a popular summer resort, has caused serious problems for seabirds and everything from dolphins to porpoises and over 10,000 people have been trying to clear it up.
+
+Veniamin Kondratiev, governor of the Krasnodar region, said in a statement that he had decided to declare a region-wide emergency because oil was still polluting the coastline in the Anapa and Temryuk districts.
+
+...
+
+[Data](articles/2e00a9bc.json)
+
+---
+
 ### முன் விரோத தகராறு: ஒருவர் பலி
 
 *2024-12-26 09:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்-விரோத-தகராறு-ஒருவர்-பலி/175-349302) · `ta`
@@ -246,6 +358,28 @@ A9 வீதியால் பயணித்த டிப்பர் வா�
 
 ---
 
+### Sri Lanka set to welcome two millionth foreign tourist today
+
+*2024-12-26 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104502/sri-lanka-set-to-welcome-two-millionth-foreign-tourist-today) · `en`
+
+The Ministry of Tourism says today (26) it is prepared to welcome the two millionth foreign tourist to arrive in Sri Lanka this year.
+
+Deputy Minister of Tourism Prof. Ruwan Ranasinghe revealed that the Sri Lanka Tourism Promotion Bureau (SLTPB) has organized a special event at the Bandaranaike International Airport (BIA) in Katunayake this morning to mark the occasion.
+
+As of December 22, 1,966,256 foreign tourists had visited Sri Lanka since the beginning of this year.
+
+In December alone, 161,383 foreign tourists arrived, with the largest group coming from India, totalling 35,131.
+
+Additionally, 22,637 foreign tourists from Russia, 12,822 from the UK, 9,998 from Germany, and 8,646 from Australia arrived in Sri Lanka during December.
+
+The Tourism Development Board stated that, during the time elapsed this year (2024), the largest number of foreign tourists, 399,224, arrived from India, while 189,289 tourists came from Russia.
+
+...
+
+[Data](articles/ae1cfd1b.json)
+
+---
+
 ### In some places the snow is found
 
 *2024-12-26 09:34:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-பனிமூட்டமான-நிலை-காணப்படும்/175-349299) · `ta`
@@ -286,6 +420,26 @@ The Department of Meteorology further stated that some areas of the Western, Sab
 
 ---
 
+### ලබන වසරේ පොලීසියේ ස්ථාන මාරු මාස 6කට කල්යයි
+
+*2024-12-26 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204734) · `si`
+
+2025 වර්ෂයට අදාළ පොලිස් දෙපාර්තමේන්තුවේ වාර්ෂික ස්ථාන මාරුවීම් නියෝග ක්‍රියාත්මක කිරීම මාස හයකට අත්හිටුවා තිබේ.
+
+වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතා විසින් ඊට අදාළ නියෝගය පසුගිය අඟහරුවාදා දිනයේ නිකුත්කර ඇති බව සඳහන්ය.
+
+ඒ අනුව ලබන වසරේ ජනවාරි මස පළමුවැනි දිනට ක්‍රියාත්මක කිරීමට නියමිත 2025 වාර්ෂික ස්ථාන මාරුවීම් නියෝග ක්‍රියාත්මක කළ යුතු දිනය එම වසරේ ජුනි මස 30 වන දින දක්වා දීර්ඝ කර තිබේ.
+
+අත්‍යාවශ්‍ය හේතුන් මත එදිනට පෙර වාර්ෂික ස්ථාන මාරුවීම් නියෝග ක්‍රියාත්මක කිරීමට අවශ්‍ය නිලධාරින් සිටි නම් ඒ සම්බන්ධයෙන් වාර්තාවක් පළාත් භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන් විසින් සකස් කර නියෝජ්‍ය පොලිස්පති මානව සම්පත් කළමණාකරන සහ ජාත්‍යන්තර සබඳතා දිසාව වෙත යොමුකිරීමට කටයුතු කළ යුතු බව වැඩබලන පොලිස්පතිවරයා දැනුම් දී ඇත.
+
+කෙසේ වෙතත් රාජකාරි අවශ්‍යතා මත 2025 වාර්ෂික ස්ථානමාරුවීම් නියෝග ක්‍රියාත්මක කිරීමට මෙම නියෝගය බාධාවක් නොවන බවද වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසුරිය මහතා දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/ae0d480d.json)
+
+---
+
 ### நிலைபேறான நல்லிணக்கத்துக்கு சகல சமூகங்களையும் அரவணைக்கும் ஆட்சிமுறை அவசியம்
 
 *2024-12-26 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202174) · `ta`
@@ -313,6 +467,38 @@ Thus, a two minutes’ silence will be observed island-wide today from 9.25 a.m.
 ...
 
 [Data](articles/c0fe22dc.json)
+
+---
+
+### කළුතර ජනතාවට විශේෂ දැනුම්දීමක්
+
+*2024-12-26 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204733) · `si`
+
+හදිසි අලුත්වැඩියා කටයුත්තක් හේතුවෙන් කළුතර දිස්ත්‍රීක්කයේ ප්‍රදේශ කිහිපයකට අද (26) පෙරවරු 9සිට පැය 18ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජලසම්පාදන හා ජලාපවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව කළුතර දකුණ, කළුතර උතුර, වාද්දුව, වස්කඩුව, මොරොන්තුඩුව සහ බොම්බුවල යන ප්‍රදේශවලට මෙසේ ජලසැපයුම අත්හිටුවනු ඇත.
+
+අද පෙරවරු 9 සිට හෙට (27) අලුයම 3දක්වා මෙම ජල සැපයුම අත්හිටුවීමට නියමිත බව ජාතික ජලසම්පාදන හා ජලාපවාහන මණ්ඩලය සදහන් කළේය.
+
+◼️
+
+[Data](articles/95d37a36.json)
+
+---
+
+### විසි වසරකට පසු පැරෑලියේ දුම්රිය ගමන
+
+*2024-12-26 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204732) · `si`
+
+සුනාමි ඛේදවාචකය අවස්ථාවේ පැරෑලිය දුම්රිය ස්ථානයේදී අනතුරට පත් මගීන් සහ දුම්රිය සේවකයින් සිහිපත් කිරීම සඳහා අද (26) පෙරවරු 6.50ට කොළඹ කොටුවේ සිට බෙලිඅත්ත බලා විශේෂ දුම්රියක් ධාවනය කෙරුණි.
+
+පැරෑලියේදී එම ඛේදවාචකයට මුහුණදුන් දුම්රිය එන්ජිම යොදා ගනිමින් මෙම දුම්රිය ධාවනය කිරීම විශේෂත්වයකි.
+
+එහි සිටින පිරිස, පැරෑලිය දුම්රිය ස්ථානයේදී මිනිත්තු 10ක් පමණ කාලකයක් නවතා සුනාමි සැමරුම සඳහා එක්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/1d2b37d5.json)
 
 ---
 
@@ -2221,245 +2407,5 @@ Mrs. Nilanti Kothachi, a member of the National People's Power, said that as a l
 [Data](articles/2cbca5e9.json)
 
 [Extended Data](ext_articles/2cbca5e9.ext.json)
-
----
-
-### Manager arrested with illegally assembled jeep
-
-*2024-12-25 16:43:31* · [`adalk`](https://www.ada.lk/breaking_news/නිතිවිරෝධීව-එකලස්-කළ-ජීප්-රියක්-සමග-කළමණාකරුවෙක්-අල්ලයි/11-413842) · `si`
-
-Here's a 200-character summary:
-
-
-
-Manager arrested for illegally assembled luxury jeep. 47-year-old from Wadduwa area found with Rs. [amount] worth jeep in Pinwatta. Suspect handed over to police, to be produced in Panadura Magistrate's Court.
-
-🟩
-
-The unit of Panadura Walana Walana Walana Walana Walana Central Corruption Anti-Corruption attack was recovered to find a luxury jeep that assembled nearly Rs.
-
-The police said that a 47 year old resident of Wadduwa area has been identified.
-
-The jeep in the Pinwatta area has been inspected and arrested the suspect in the Pinwatta area has been taken into police custody due to a selected luxury jeep.
-
-The suspect has been handed over to the Pinwatta Police along with the luxury jeep. The suspect was to be produced before the Panadura Magistrate's Court.
-
-Director of the Walana Central Corruption Association. The OIC Chief Inspector Indika Weerasinghe has been raided by the Chief Inspector Indika Weerasinghe on the instructions of Mr. Udaya Kumara.
-
-◼️
-
-[Data](articles/f2e0ba2a.json)
-
-[Extended Data](ext_articles/f2e0ba2a.ext.json)
-
----
-
-### Kazakhstan says at least 32 survived Azerbaijan Airlines plane crash, over 30 likely dead
-
-*2024-12-25 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104493/kazakhstan-says-at-least-32-survived-azerbaijan-airlines-plane-crash-over-30-likely-dead) · `en`
-
-An Azerbaijani airliner with 67 people onboard crashed Wednesday in the Kazakhstani city of Aktau, leaving at least 32 survivors, according to officials. More than 30 people are likely dead.
-
-Kazakhstan’s Emergency Ministry said in a Telegram statement that those on board included five crew. At least 29 have been hospitalized, the ministry told Russia’s state news agency RIA Novosti.
-
-Russian news agency Interfax quoted medical workers as saying that four bodies have been recovered and emergency workers at the scene as saying that both pilots, according to a preliminary assessment, died in the crash.
-
-The Embraer 190 aircraft made an emergency landing 3 km from the city, Azerbaijan Airlines said earlier.
-
-Kazakhstan’s Emergency Ministry initially said 25 people survived the crash, later revising that number to 27, 28, and then 29 as the search and rescue operation continued at the site of the crash, bringing the supposed death toll down.
-
-...
-
-[Data](articles/fca1ecb6.json)
-
-[Extended Data](ext_articles/fca1ecb6.ext.json)
-
----
-
-### Revenue officer arrested for bribery chicken
-
-*2024-12-25 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204714) · `si`
-
-Foreign revenue officer and field worker arrested for bribery involving chicken. Suspects were caught after a local complained about being asked for chicken as payment. They will face charges in court and further investigation is ongoing.
-
-🟩
-
-A foreign officer and field worker has been arrested by the Bribery Commission and a field worker obtained by a bribe of chicken.
-
-The suspects have been arrested following a complaint lodged by a resident of Kosgama.
-
-The suspects have requested a kilo of chicken worth Rs.
-
-Investigations have been arrested in connection with the complainant businessman's store.
-
-The Bribery Commission states that a locker of a revenue officer who works at the Weweldeniya Sub Office and a laborer working in the Meerigama Pradeshiya Sabha.
-
-The suspects are to be produced before the Attanagalla Magistrate's Court and the Bribery Investigation Commission is conducting further investigations.
-
-◼️
-
-[Data](articles/b2350f41.json)
-
-[Extended Data](ext_articles/b2350f41.ext.json)
-
----
-
-### Rs.
-
-*2024-12-25 15:31:37* · [`adalk`](https://www.ada.lk/breaking_news/ගිය-වියදමට-අඩුවෙන්-බෙහෙත්--විකිණීමෙන්-ඖෂධ-නිෂ්පාදන-සංස්ථාවට-රු-කෝටි-එකහමාරක-පාඩුවක්/11-413841) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Audit Office finds corporation mispriced drugs. Market forces may lead to cheaper products or expired goods destruction. Corporation recommends audit report on pharmaceutical manufacturing practices.
-
-🟩
-
-The National Audit office reveals that the corporation had been marketed at least Rs.
-
-In the marketplace, the market can sometimes have to make products to the prices or fewer prices, or if they do not have to expire and destroy the drug, but if they do not, if they do not even endanger the drug, the corporation has made the audit.
-
-The Corporation has recommended a audit report issued by the manufacture of manufacturing in pharmaceutical manufacturing.
-
-◼️
-
-[Data](articles/96b65356.json)
-
-[Extended Data](ext_articles/96b65356.ext.json)
-
----
-
-### Special traffic monitoring by police
-
-*2024-12-25 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202120) · `ta`
-
-Police crack down on drunk driving & traffic violations ahead of festival: 251 drunk drivers caught, 8747 rule breakers face permit bans.
-
-🟩
-
-Special traffic has been taken by the police to prevent road accidents in view of the festival.
-
-The police said that 251 drivers who had been drinking alcohol had been identified in the country within 24 hours.
-
-In addition, 8,747 people have violated traffic rules and that the permits of the drivers will be banned in the future.
-
-◼️
-
-[Data](articles/8336a2e2.json)
-
-[Extended Data](ext_articles/8336a2e2.ext.json)
-
----
-
-### At Christmas Pope urges faithful to think of machine gunned children, bombed hospitals
-
-*2024-12-25 14:49:00* · [`economynextcom`](https://economynext.com/at-christmas-pope-urges-faithful-to-think-of-machine-gunned-children-bombed-hospitals-196382/) · `en`
-
-Christians gathered at the Church of the Nativity in the holy city of Bethlehem on Tuesday to mark a solemn Christmas overshadowed by war, as Pope Francis led mass in the Vatican.
-
-In Bethlehem, in the Israeli-occupied West Bank, festive decorations were missing for a second consecutive year.
-
-The crowd of several hundred paled in comparison to the throngs of tourists and pilgrims of Christmases past — a reflection of the sombre mood as the war between Israel and Palestinian militants in the Gaza Strip churns on.
-
-At St Peter’s Basilica, Pope Francis urged the faithful to think “of the wars, of the machine-gunned children, of the bombs on schools or hospitals,“ days after he reiterated his condemnation of the “cruelty” of Israeli strikes, prompting objections from Israeli diplomats.
-
-...
-
-[Data](articles/9f79ef58.json)
-
-[Extended Data](ext_articles/9f79ef58.ext.json)
-
----
-
-### Special Midnight Worship Events
-
-*2024-12-25 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202102) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Midnight worship services celebrated Jesus' birth across churches. Special rituals in Jaffna, Batticaloa, and Puttalam. Bishops, clergy, and Christians attended. Security measures taken during ceremonies."
-
-🟩
-
-Special rituals and rituals were held in churches around the country to celebrate the birth of Jesus Pran, which revealed to the world.
-
-Yall. The main Nathar midnight Tirupali for the hide district. Jaffna at St. Marianne. The diocese of the diocese of Jasrin Gnanaprakasam was presented as a joint venture under the leadership of the year.
-
-Christmas Day Worship was held under the patronage of Roshan Mahasan, Chief Pastor of the Church.
-
-Christian students were also given the blessing speeches on the greatness of the birth of Jesus Balakan by the main pastor.
-
-The main Christmas rituals and rituals of the Batticaloa district were held amidst strong security at St. Mary's Mary, Puliyantivu, the first scholar of the district.
-
-A special ceremony was held at the St. Judah of Batticaloa.
-
-The events were chaired by the temple blessing Devadasan Adikallar and the Tirupali was acknowledged.
-
-Christmas rituals were held at 12 midnight today at the Shantha Mary's Church in Puttalam.
-
-...
-
-[Data](articles/f5824a16.json)
-
-[Extended Data](ext_articles/f5824a16.ext.json)
-
----
-
-### Police notice of traffic congestion
-
-*2024-12-25 14:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204711) · `si`
-
-Dematagoda Police Division: Traffic congestion alert. Procession blocking roads. Use alternative routes: Sri Draudarama Lunugarama, Baseline Road, Orguruwatta Junction, Aphros Road, Bandaranaike Road. Avoid Baselnayake Junctions.
-
-🟩
-
-Police have issued a statement informed of the drivers in the Dematagoda Police Division today (25).
-
-The procession will be blocked due to the procession of the Sri Dissanaduwa Lunawa Devalaya Maha Viharaya.
-
-The annual film Perahera of the Lunawa Devalaya Maha Viharaya in the Dematagoda Police Division is due to visit the streets from 6th at 6.00 pm today.
-
-A large number of devotees are expected to attend the procession and the police have taken steps to implement a special traffic plan.
-
-Accordingly, the Perahera commenced from the Sri Draudarama Lunugarama area, Baseline Road, Orguruwatta Junction, Aphros Road, Bandaranaike Road, Baseline Junction, Baselnayake Junction, Baselnayake Junction, Baselnayake JunctionThe temple is to be returned along the Ougodawatta Junction.
-
-Therefore, the police are requested to use the following alternate routes using those roads during the Perahera.
-
-◼️
-
-[Data](articles/9213c1f1.json)
-
-[Extended Data](ext_articles/9213c1f1.ext.json)
-
----
-
-### 251 drunk drivers arrested for 24 hours
-
-*2024-12-25 14:34:57* · [`adalk`](https://www.ada.lk/breaking_news/පැය-24කදී-බීමත්-රියදුරන්-251ක්-අල්ලයි/11-413840) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"251 drunk drivers arrested in 24 hours. Fatal accident reported. Road safety campaign ongoing during festive period."
-
-🟩
-
-Police Media Spokesperson SSP lawma Manenhicunga said that the law has been launched against 8747 drivers who violated 251 other road accidents during the past 24 hours.
-
-According to the media spokesman, a fatal accident was reported from anywhere in the country in the 24 hours.
-
-It is driving in accordance with road rules and to be drunk during the next period and assist the Sri Lankan Police to safeguard the lives of others and others.
-
-The SLSI operation continues to run the ceremony during the direction of the festive period on the instructions of acting IGP Priyantha Weerasuriya.
-
-◼️
-
-[Data](articles/34b9b4f5.json)
-
-[Extended Data](ext_articles/34b9b4f5.ext.json)
 
 ---

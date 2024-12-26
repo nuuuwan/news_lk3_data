@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 16:42:55**
+As of **2024-12-26 17:00:15**
 
 ## Newspaper Stats
 
-*Scraped **62,151** Articles*
+*Scraped **62,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 3,782
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,935
-adaderanalk | 7,588
-tamilmirrorlk | 8,914
-virakesarilk | 10,292
-adaderanasinhalalk | 10,736
+adaderanalk | 7,590
+tamilmirrorlk | 8,915
+virakesarilk | 10,293
+adaderanasinhalalk | 10,739
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,662 (99.2%) of 62,151 articles have been extended.
+61,662 (99.2%) of 62,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### இலங்கையை போன்று இரத்தினக்கல்
+
+*2024-12-26 16:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-போன்று-இரத்தினக்கல்/175-349336) · `ta`
+
+இரத்தினபுரி நிவித்திகல பிரதேசத்தைச் சேர்ந்த இரத்தினக்கல் வர்த்தகர் ஒருவர் இலங்கையின் வடிவிலான அரிய இயற்கை நீலக்கல் ஒன்றை கொள்வனவு செய்ததாக வியாழக்கிழமை (26) தெரிவித்தார்.
+
+இதனை வாங்கிய நிவித்திகல யக்தெஹிவத்தையைச் சேர்ந்த மாணிக்கக்கல் வியாபாரி.ரொஹான் வசந்த திஸாநாயக்க, இந்த நீல மாணிக்கத்தை மாணிக்கக் கற்கள் சேகரிப்பவர் ஒருவரிடமிருந்து வாங்கியதாகத் தெரிவித்தார்.
+
+இந்த நீல மாணிக்கத்தை நீங்கள் ஒரே நேரத்தில் பார்த்தால், இலங்கை மற்றும் யாழ்ப்பாண குடாநாட்டின் நிலப்பரப்பு எவ்வாறு பிரிக்கப்பட்டுள்ளது என்பதை நீங்கள் காணலாம். மன்னாரின் நிலையும் அவ்வாறே தோன்றுகிறது. அதே போல் திருகோணமலை, இலங்கையின் நான்கு திசைகளும் அப்படித்தான் தோன்றும்.
+
+தேசிய இரத்தினக்கல் ஆபரண அதிகார சபையிடம் இந்த இரத்தினக்கல் சமர்ப்பிக்கப்பட்டு, 2024-12-24 அன்று இரத்தினக்கல் அடையாள சோதனை அறிக்கை பெறப்பட்டது.
+
+இந்த இரத்தினக்கல் இயற்கையான கொருண்டம் இனத்தைச் சேர்ந்தது: 5.37 கரட் எடையுள்ள நீலம். என தர்மசேகர மற்றும் ஜானக ஹேமச்சந்திர ஆகியோர் கையெழுத்திட்ட அடையாளச் சான்றிதழில் காணப்பட்டது.
+
+◼️
+
+[Data](articles/c8adea3f.json)
+
+---
+
+### තඹ කම්බි කැපූ අයෙක් නොඑන ගමන් යයි
+
+*2024-12-26 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204748) · `si`
+
+අම්පාර නගරයේ කාර්මික ප්‍රදේශයේ විදුලිබල මණ්ඩලයට අයත් ට්‍රාන්ස්පෝමරයක තඹ කම්බි කැපීමට ගිය පුද්ගලයෙක් විදුලි සැර වැදී මියගොස් තිබේ.
+
+තඹ කම්බි කැපීමට ගිය පුද්ගලයා විදුලි කණුවේ ඇලී සිටි අතර, පසුව නගරයේ විදුලිය විසන්ධිකර ඔහුගේ සිරුර බිමට බෑමට පොලීසිය කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/fb82bd86.json)
+
+---
+
+### Bangladesh to re-investigate 2009 mutiny massacre, role of ‘foreign’ backers
+
+*2024-12-26 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104510/bangladesh-to-re-investigate-2009-mutiny-massacre-role-of-foreign-backers) · `en`
+
+Bangladesh on Thursday ordered a commission to investigate a failed 2009 army mutiny and subsequent crackdown, including the role of alleged “foreign” backers, the inquiry chief said.
+
+The violent mutiny sent shock waves through the South Asian nation and ended with the army crushing the mutineers, with scores arrested and sentenced to death.
+
+A previous official investigation into the mutiny which left scores dead blamed years of pent-up anger among ordinary soldiers, who felt their appeals for pay rises and better treatment were ignored.
+
+But that probe was carried out during the tenure of Sheikh Hasina, who was ousted as prime minister by a revolution in August, when she fled to old ally India.
+
+Since her fall, families of soldiers killed in the violence have been campaigning to reopen the investigation.
+
+They have repeatedly accused Hasina -- then newly elected -- of orchestrating a plan to weaken the military to bolster her own power in a country prone to coups.
+
+...
+
+[Data](articles/0817f559.json)
+
+---
 
 ### ’என்னை பேய் என நினைத்தனர்’
 
@@ -48,6 +104,58 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### බීමතින් රිය පදවන රියදුරන්ගේ බලපත්‍රය මාස 12ක් අත්හිටුවීමට පොලීසිය ඉල්ලීම් කරයි
+
+*2024-12-26 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204747) · `si`
+
+මින් ඉදිරියට සෑම අවස්ථාවකදීම බීමත්ව රිය පැදවීම හේතුවෙන් අත්අඩංගුවට ගන්නා රියදුරන්ගේ රියදුරු බලපත්‍රය මාස 12ක කාලයක් සඳහා අත්හිටුවීමට හෝ රියදුරු බලපත්‍රය අවලංගු කරන ලෙසට අධිකරණයෙන් ඉල්ලා සිටීමට පොලීසිය කටයුතු කරනු ලබන බව පොලීසිය දැනුම්දෙයි.
+
+එබැවින් බීමතින් රිය ධාවනය නොකරන ලෙස ශ්‍රී ලංකා පොලීසිය සියලුම රියදුරන්ගෙන් ඉල්ලා සිටී.
+
+පොලීසිය මේ බව නිවේදනය කළේ ඉකුත් පැය 24 තුළ ක්‍රියාත්මක කරන ලද විශේෂ රථවාහන මෙහෙයුම සම්බන්ධයෙන් මාධ්‍ය වෙත තොරතුරු දැනුම් දෙමිනි.
+
+ඒ අනුව, අද (26) පෙරවරු 6න් අවසන් වූ පැය 24 තුළ බීමත් රියදුරන් 395 දෙනෙකු සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කළ බව පොලීසිය පවසයි.
+
+ඒ, ඊයේ (25) පෙරවරු 6 සිට අද පෙරවරු 6 දක්වා සිදුකළ රථවාහන මෙහෙයුම්වලදී ය.
+
+...
+
+[Data](articles/2e5c10b0.json)
+
+---
+
+### CSE continues upward momentum with new all-time high
+
+*2024-12-26 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104509/cse-continues-upward-momentum-with-new-all-time-high) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange has gained 232.13 points today to close at 15,400.53 points, a new all-time high.
+
+This marks an increase of 1.53 percent since the previous close.
+
+Meanwhile, the S&P SL20 has moved up by 67.15 points to close at 4,602.40 points, an increase of 1.48 percent.
+
+Today’s turnover is recorded as over Rs. 7 billion while the total number of shares traded is over 534 million.
+
+◼️
+
+[Data](articles/cb69889b.json)
+
+---
+
+### කොටස් වෙළෙඳපොළ අදත් ඉහළට
+
+*2024-12-26 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204746) · `si`
+
+කොළඹ කොටස් වෙළෙඳපොළේ සියලු කොටස් මිල දර්ශකය (ASPI) අද (26) ඒකක 232.13කින් ඉහළ ගියේය.
+
+ඒ අනුව දිනයේ ගනුදෙනු අවසානයේදී සියලු කොටස් මිල දර්ශකයේ අගය ඒකක 15,400.53ක් ලෙස සටහන් වුණි.
+
+◼️
+
+[Data](articles/9bc8cf91.json)
+
+---
+
 ### කොටස් වෙළඳපොළ අදත් දැවැන්ත වර්ධනයක
 
 *2024-12-26 15:53:14* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-දැවැන්ත-වර්ධනයක/11-413854) · `si`
@@ -59,6 +167,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6813d19f.json)
+
+---
+
+### 'இத்துடன் எனது கதை முடிகின்றது என நான் நினைத்தது இன்றும் நினைவிலிருக்கின்றது "20 வருடங்களிற்கு முன்னர் இலங்கையில் சுனாமியில் சிக்கியவர்
+
+*2024-12-26 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202208) · `ta`
+
+2004ம் ஆண்டு சுனாமி அனர்த்தம் மற்றும் அதன் 20 வருடங்கள்  குறித்து சனல் ஐலண்டை சேர்ந்த இருவர் பிபிசிக்கு தமது கருத்துக்களை தெரிவித்துள்ளனர்.
+
+வரலாற்றில் மிகவும் பயங்கரமான சுனாமி என கருதப்படும்  சுனாமி 2004 இல் இந்து சமுத்திரத்தை தாக்கியது. 225,000 பேரை இந்த சுனாமி பலிகொண்டதுடன் 1.7 மில்லியனிற்கும் அதிகமானவர்களை இடம்பெயரச்செய்தது.
+
+அதேவேளை கிராண்ட் பெல்தாம் இயற்கை அனர்த்தத்தின் பின்னர் இலங்கை மக்களிற்கு உதவுவதற்காக அங்கு சென்றிருந்தார்.
+
+நான் உயிரிழக்கப்போகின்றேன் என நினைத்த அந்த தருணம் எனக்கு நினைவிருக்கின்றது என தெரிவிக்கின்றார் ரோபி.
+
+ரோபி உனவடுன கடற்கரையில் தனது சகாவான ஜீன் பிரிச்சர்ட்டுடன் காலை உணவை சாப்பிட்டுக்கொண்டிருந்தார்.அவ்வேளையே சுனாமி தாககியது.
+
+' என்னை சுனாமி அலைகள் காடுகள் ஊடாக கொண்டு சென்றன,சலவை இயந்திரத்தில்  அகப்பட்டது போல உணர்ந்தேன் என அவர் தெரிவிக்கின்றார்.
+
+'சரி இத்துடன் எனது கதை முடிகின்றது என நான் நினைத்தது இன்றும் நினைவிலிருக்கின்றது ,46 வயதில் உயிரிழப்பது குறித்து நான் சிந்தித்து பார்க்கவில்லை"
+
+...
+
+[Data](articles/8d7de168.json)
 
 ---
 
@@ -2203,195 +2335,5 @@ If any other type of buses may have died more. We do not accept unauthorized cha
 [Data](articles/c982b393.json)
 
 [Extended Data](ext_articles/c982b393.ext.json)
-
----
-
-### There is no need to talk to India on Kachchativu - Sarath Weerasekera
-
-*2024-12-25 23:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202155) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sarath Weerasekera: No need to discuss Kachchativu with India. It's crucial to Sri Lanka's national security. Indian fishermen illegally enter Sri Lankan waters, damaging marine resources. Sri Lanka must firmly defend its rights without compromising.
-
-🟩
-
-Kachchativu is the main feature of the national security of Sri Lanka. Kachchativu belongs to Sri Lanka. It is not necessary to negotiate with India in this regard. Former Public Security Minister Admiral Sarath Weerasekera said that there is no need to submit to the conditions imposed on India's cooperation.
-
-India's Dravida Munnetra Kazhagam has recently passed a resolution. He mentioned the above when he questioned the matter.
-
-The Indian government is using the Kachchativu issue for political propaganda. Sri Lankan fishermen go into the Indian waters and do not engage in illegally fishing. Indian fishermen are illegally logging into the Sri Lankan waters and destroying marine resources and re -resources.
-
-Indian fishermen should take appropriate measures to prevent Indian fishermen from entering the sea of ​​Sri Lanka. In this case, the Indian government is acting in a recession.
-
-...
-
-[Data](articles/16c49223.json)
-
-[Extended Data](ext_articles/16c49223.ext.json)
-
----
-
-### New files for those who have applied for business in Israel to find out information
-
-*2024-12-25 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202158) · `ta`
-
-Israel business application process streamlined: New SLBFE website allows applicants to track status via mobile or online. Requires National ID, phone number, and photo for secure access. Future improvements planned.
-
-🟩
-
-The President of the Foreign Employment Bureau, Goshala Wickremasinghe has introduced a new file to find out about the fact that workers who have applied for the business in Israel.
-
-The website of the Bureau has been renewed under the new purpose of registering in the Foreign Employment Bureau and applying for business in Israel and has been aimed at curbing the inconveniences and delays for workers.
-
-Initially, workers who have applied for business in Israel are facilitated to take care of this website through this website, and after applying for the business, the applicant can be able to learn about their next step and the status of the applicant through his mobile phone or online.
-
-Similarly, the applicant's information has been provided for properly and transparency.
-
-To obtain this information, you can get your National Identity Card number, telephone number and photo data and get the data you need to get this information to go to the website www.slbfe.lk.
-
-...
-
-[Data](articles/e051b326.json)
-
-[Extended Data](ext_articles/e051b326.ext.json)
-
----
-
-### Government resolution to modernize postal service - Minister Nalinda
-
-*2024-12-25 23:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202157) · `ta`
-
-Sri Lanka's government plans to modernize the postal service, focusing on customer satisfaction and technological advancements. The initiative aims to improve efficiency and competitiveness, while addressing past issues and developing new revenue streams.
-
-🟩
-
-Health and Media Minister Dr. Nalinda Jayatissa said that the Government of Sri Lanka has decided to create a reliable service with new changes using modern technology to consider the satisfaction of customers, which provides multichannel services to the people.
-
-He was speaking at a special discussion held at the Ministry of Health on Tuesday (24) with the Postal Department officials on the current service activities and future plans of the Sri Lanka Postal Headquarters, which is run by the Ministry of Health and Mass Media.
-
-The Postal Department of Sri Lanka is seen to be working with a proper vision and its plans.
-
-The new government's aim is to address the problems in the postal service and modernize this historic service and upgrade the national service.
-
-The process of establishing new post offices in advance of political or personal needs will never take place. Future plans relating to postal service must be organized at least for the next 10 years.
-
-...
-
-[Data](articles/f3e3905b.json)
-
-[Extended Data](ext_articles/f3e3905b.ext.json)
-
----
-
-### Murder of Horythupuwa
-
-*2024-12-25 22:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204725) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Body found near road in Horathuduwa, Panadura. Victim assaulted with sharp object. Suspected residence in Egoduyiya, Moratuwa. Suspect fled area. Investigation led by Panadura North Police Station Inspector Sanjeewa.
-
-🟩
-
-The body of a person who was assaulted with a sharp object was found near a road in Horathuduwa, Panadura.
-
-The police have also lodged a complaint that the murder had been assaulted by a sharp instrument with a sharp object.
-
-The victim is suspected to reside in the Egoduyiya area in Moratuwa.
-
-The suspect has fled the area, police said.
-
-Panadura North Police Station, Inspector Sanjeewa chaired by Hon.
-
-◼️
-
-[Data](articles/6ba8186a.json)
-
-[Extended Data](ext_articles/6ba8186a.ext.json)
-
----
-
-### Motorcycle Tipper clashes with mother, father and children
-
-*2024-12-25 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204724) · `si`
-
-Motorcycle crash kills toddler, injures 3 in Kilinochchi. Police arrest tipper driver, suspecting drunk driving. Family members hospitalized.
-
-🟩
-
-A 2-year-old child was killed and 3 have been seriously injured in an accident in Kilinochchi.
-
-The accident occurred while collision with a tipper and a motorbike today (25).
-
-According to our correspondent, the motorcycle has been thrown away from 100 meters from the accident.
-
-Residents have been arrested by the police in the tipper driver in connection with the incident and he has accused him of drinking.
-
-A 2-year-old boy was killed and a mother of the same family and a 6-year-old child was admitted to the Kilinochchi hospital.
-
-The child was later transferred to the Jaffna Teaching Hospital.
-
-◼️
-
-[Data](articles/000e8596.json)
-
-[Extended Data](ext_articles/000e8596.ext.json)
-
----
-
-### Al-Quraish Pre-School Preschool Student Exit Event Event
-
-*2024-12-25 22:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202164) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"24th Al-Quraish Pre-School student exit event held at Azhar Vidyalaya Auditorium. Attended by Hizbullah MP, Engineer MS. Nalim, and Habib Riban. Celebrated the students' achievements."
-
-🟩
-
-The 24th Student Exit of the Al-Charish Pre-Propey School, Pirandurichenai was held on Tuesday (24) at the Azhar Vidyalaya Auditorium Auditorium.
-
-Sri Lanka Muslim Congress Deputy Leader and Member of Parliament. Hizbullah, Member of Parliament Engineer MS. Nalim and Sri Lanka Muslim Congress Organizer Habib Riban were also present.
-
-◼️
-
-[Data](articles/568926ba.json)
-
-[Extended Data](ext_articles/568926ba.ext.json)
-
----
-
-### Release the Complete List of Funds from the Presidential Fund - Udaya Kammanpila request
-
-*2024-12-25 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202163) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Udaya Kammanpila demands full disclosure of Presidential Fund recipients. He accuses politicians of misusing funds meant for the poor since 2005. The government should release complete financial details and conduct investigations to recover misused funds.
-
-🟩
-
-The government must fully publish a list of politicians who have been finished inappropriately from the Presidential Fund. Udaya Kammanpila, a former leader of the Pivithuru Hela Urumaya (JHU) and former Member of Parliament, said that steps should be taken to take appropriate inquiries and restore the funds.
-
-He was speaking to the media after attending the event on Wednesday 25th of Wednesday.
-
-The government has released a list of politicians who received funds from the Presidential Fund. This has led to a false position among the people that the entire politicians have received funds from the Presidential Fund.
-
-The Presidential Fund was established in 1978 to help the poor and improve their livelihood. From 2005 to 2024, politicians with political power are said to have received crores of rupees from the Presidential Fund.
-
-...
-
-[Data](articles/3470a4d5.json)
-
-[Extended Data](ext_articles/3470a4d5.ext.json)
 
 ---

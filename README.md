@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 18:50:48**
+As of **2024-12-26 19:03:03**
 
 ## Newspaper Stats
 
-*Scraped **62,165** Articles*
+*Scraped **62,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,938
 adaderanalk | 7,590
-tamilmirrorlk | 8,917
+tamilmirrorlk | 8,918
 virakesarilk | 10,293
 adaderanasinhalalk | 10,739
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,672 (99.2%) of 62,165 articles have been extended.
+61,672 (99.2%) of 62,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### ”வழக்கமான அரச வைத்தியசாலையாக நடத்த உத்தேசம் இல்லை”
+
+*2024-12-26 18:49:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கமான-அரச-வைத்தியசாலையாக-நடத்த-உத்தேசம்-இல்லை/175-349345) · `ta`
+
+டொக்டர் நெவில் பெர்னாண்டோ போதனா வைத்தியசாலைக்கு (NFTH) சம்பள கொடுப்பனவுகளுக்காக மாதாந்தம் 40 மில்லியன் ரூபா செலவிடப்படுகின்ற போதிலும், வழக்கமான அரசாங்க வசதியுள்ள வைத்தியசாலையாக நடத்த அரசாங்கம் உத்தேசிக்கவில்லை என சுகாதார மற்றும் வெகுஜன ஊடக அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+இன்று காலை NFTH இன் ஆய்வின் போது அவர் இந்த கருத்துக்களை தெரிவித்தார்.
+
+வைத்தியசாலை நிர்வாகத்தின் திறமை மற்றும் திறன்களை பயன்படுத்தி சர்வதேச மற்றும் உள்ளூர் சூழ்நிலைகளை கருத்தில் கொண்டு புதிய மாதிரியில் அதை மேம்படுத்த அரசு திட்டமிட்டுள்ளதாக அமைச்சர் கூறினார்.
+
+சுகாதார சுற்றுலாவின் முக்கிய மையமாக நாட்டை நிலைநிறுத்துவதை அரசாங்கம் நோக்கமாகக் கொண்டுள்ளது என்று அமைச்சர் தனது விஜயத்தின் போது விளக்கினார்.
+
+டொக்டர் நெவில் பெர்னாண்டோ போதனா வைத்தியசாலையின் அபிவிருத்தி மூலோபாயத்தின் ஒரு பகுதியாக சுதேச மருத்துவத்தை அதன் சேவைகளில் இணைத்துக்கொள்ளும் ஆற்றலையும் அவர் எடுத்துரைத்தார்.
+
+...
+
+[Data](articles/c297edf4.json)
+
+---
 
 ### Recovery as dead father, son, nephew in the sea
 
@@ -2309,33 +2329,5 @@ Commenting on this, it said that its bank's branches are operating in Colombo an
 [Data](articles/9b8180c1.json)
 
 [Extended Data](ext_articles/9b8180c1.ext.json)
-
----
-
-### A lorry crashed into a traveler weighing 30 tons on highway
-
-*2024-12-26 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202167) · `ta`
-
-Lorry carrying 30-ton dolomite crashes into ditch on southern highway, driver injured. No casualties reported. Initial investigation reveals driver slept for 3 days before accident. Police investigating further.
-
-🟩
-
-The lorry driver, who carried 30 tonnes of dolomite on the southern highway, lost control of the driver and crashed into a ditch.
-
-The accident occurred near the 6km milestone of the Kahaduduwa Gate on Wednesday afternoon on the southern highway.
-
-The lorry was traveling towards Elpitiya and crashed into a security fence and crashed into a 30 -foot ditch. No casualties were reported in the incident and the driver had survived with minor injuries, police said.
-
-Initial investigations revealed that about 600 dolomite bundles weighing 50 kilograms of lorry had been loaded and the lorry had been rolled three times as the crash fell into a ditch.
-
-It was also revealed that the driver of the vehicle had not been sleeping for three days and that the lorry had lost control of the sleeping disturbance while driving.
-
-Southern Highway Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/6a7396bd.json)
-
-[Extended Data](ext_articles/6a7396bd.ext.json)
 
 ---

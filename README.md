@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 12:03:17**
+As of **2024-12-26 12:28:38**
 
 ## Newspaper Stats
 
-*Scraped **62,115** Articles*
+*Scraped **62,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,929
 adaderanalk | 7,584
-tamilmirrorlk | 8,905
+tamilmirrorlk | 8,906
 virakesarilk | 10,286
 adaderanasinhalalk | 10,727
 
@@ -26,25 +26,53 @@ adaderanasinhalalk | 10,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,645 (99.2%) of 62,115 articles have been extended.
+61,648 (99.2%) of 62,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### கங்கைக்கு சென்ற பெண் மாயம்
+### அரிசியை இறக்குமதி :விசேட வர்த்தமானி
+
+*2024-12-26 12:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-இறக்குமதி-விசேட-வர்த்தமானி/175-349316) · `ta`
+
+அரிசியை இறக்குமதி செய்வதற்கான அனுமதியை ஜனவரி 10 ஆம் திகதி வரை நீடிப்பதற்கான விசேட வர்த்தமானி அறிவித்தலை வர்த்தக அமைச்சு வெளியிட்டுள்ளது.
+
+அரிசி தட்டுப்பாட்டுக்கு தீர்வாக, அரிசியை இறக்குமதி செய்ய தனியாருக்கு அரசாங்கம் வழங்கியிருந்த கால அவகாசம் கடந்த 20ஆம் திகதியுடன் நிறைவடைந்ததையடுத்து, அந்த அனுமதியை மீண்டும் ஜனவரி 10ஆம் திகதி வரை நீடிக்க அரசாங்கம் நடவடிக்கை எடுத்தது.
+
+இறக்குமதியாளர்கள் இந்தியாவில் இருந்து 67000 மெற்றிக் தொன் அரிசியை இறக்குமதி செய்துள்ளதாக சுங்கத் திணைக்களம் தெரிவித்துள்ளது.
+
+அரிசியை இறக்குமதி செய்வதாக அரசாங்கம் அறிவித்துள்ள போதும் இதுவரை அரிசி இறக்குமதி செய்யப்படவில்லை என சுங்கத் தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/10c9e33a.json)
+
+---
+
+### The woman who went to the Ganges
 
 *2024-12-26 11:34:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கைக்கு-சென்ற-பெண்-மாயம்/175-349313) · `ta`
 
-களு கங்கைக்கு சென்ற பெண் ஒருவரை முதலை இழுத்துச் சென்றதாக கிடைத்த தகவலின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக களுத்துறை தெற்கு பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-தொடங்கொட கொஹலன வடக்கு பிரதேசத்தில் வசிக்கும் 50 வயதுடைய பெண்ணொருவரே முதலை இழுத்துச்சென்றுள்ளதாக  தெரிவிக்கப்படுகிறது
 
-பெண்ணை தேடுவதற்கான நடவடிக்கைகளை அப்பகுதி மக்கள் ஆரம்பித்துள்ளதோடு களுத்துறை தெற்கு தலைமையக பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+Woman drags crocodile from Kalu Ganga. 50-year-old from North Kolanna. Search underway. Kalutara South Police investigating.
+
+🟩
+
+Investigations have been launched based on information that a woman who went to the Kalu Ganga had dragged the crocodile, the Kalutara Southern Police said.
+
+A 50 -year -old woman living in the North Kolanna Northern Territory has reportedly dragged the crocodile
+
+It is noteworthy that the people of the area have begun searching for the woman and the Kalutara South Headquarters is conducting further investigations.
 
 ◼️
 
 [Data](articles/0ed4906d.json)
+
+[Extended Data](ext_articles/0ed4906d.ext.json)
 
 ---
 
@@ -72,37 +100,55 @@ Nirosh Ananda has asked the public to be vigilant on such online financial fraud
 
 ---
 
-### ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர்கள் இருவர் கைது!
+### Two suspects arrested for heroin
 
 *2024-12-26 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202183) · `ta`
 
-நாட்டின் சில பகுதிகளில் பொலிஸாரினால் நேற்று புதன்கிழமை (25) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Two suspects arrested with heroin: one in Kalkissa with 6g of 500mg heroin, another in Moratuwa with 5g of 120mg heroin.
 
-கல்கிஸ்ஸ பொலிஸ் பிரிவுக்குட்பட்ட படோ விட்ட பகுதியில் 06 கிராம் 500 மில்லிகிராம் ஹெராயின்  போதைப்பொருளுடன் சந்தேகநபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இதேவேளை, மொரட்டுவ பொலிஸ் பிரிவுக்குட்பட்ட மிருதங்கஹவத்த பகுதியில், 05 கிராம் 120 மில்லிகிராம் ஹெராயின்  போதைப்பொருளுடன் சந்தேகநபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+Two suspects have been arrested with heroin drugs in a roundup carried out by police in some parts of the country on Wednesday (25).
+
+A suspect has been arrested in the area of ​​the Kalkissa Police Division with 06 grams of 500 milligrams of heroin.
+
+Meanwhile, a suspect has been arrested in the Mridangahawatta area of ​​the Moratuwa Police Division with a 5 -gram 120 milligram of heroin.
 
 ◼️
 
 [Data](articles/a0a5a623.json)
 
+[Extended Data](ext_articles/a0a5a623.ext.json)
+
 ---
 
-### சம்பள உயர்வு குறித்து அமைச்சர் கருத்து
+### The Minister's comment on a salary increase
 
 *2024-12-26 11:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-உயர்வு-குறித்து-அமைச்சர்-கருத்து/175-349311) · `ta`
 
-ஆசிரியர்கள் உட்பட அரச துறை ஊழியர்களுக்கு அடுத்த வருடத்திற்குள் சம்பள உயர்வு உறுதியாக வழங்கப்படும் என பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் அனில் ஜயந்த பெர்னாண்டோ தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், 2025 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட முன்மொழிவுகளில் சம்பள அதிகரிப்பு தொடர்பான முழு விபரங்களும் உள்ளடக்கப்படும் என தெரிவித்தார்.
 
-"அரச ஊழியர்களின் சம்பளத்தை உயர்த்துவதற்கு நாங்கள் வேலை செய்கிறோம், அரசியல் லாபத்திற்காக அல்ல, ஆனால் நாட்டின் தற்போதைய பொருளாதார சூழ்நிலையில் மக்கள் கணிசமான இன்னல்களை எதிர்கொள்கிறார்கள் என்பது அனைவருக்கும் தெரியும். அதற்கு தற்போதுள்ள சம்பளம் போதுமானதாக இல்லை," என்று அவர் விளக்கினார்.
 
-"நாம் அனைவரும் அறிந்தது போல், முந்தைய அரசாங்கத்தால் நாட்டின் பொருளாதாரம் கடுமையாகப் பாதிக்கப்பட்டது. ஒரு பொறுப்பான நிர்வாகம் என்ற வகையில், 2026 வரை மக்கள் காத்திருக்க வேண்டும் என்று நாங்கள் கூற முடியாது. நாங்கள் அத்தகைய அணுகுமுறையை எடுக்கவில்லை," என்று அவர் கூறினார்.
+Minister Anil Jayantha Fernando announced a salary increase for state department employees, including teachers. He stated the 2025 budget will detail the hike, emphasizing it's for economic relief, not political gain.
 
-...
+🟩
+
+Deputy Minister of Economic Development Anil Jayantha Fernando said the salary hike would be given to the state department employees, including teachers, including teachers.
+
+Commenting on the media, he said the budget proposals for 2025 would include full details of the salary increase.
+
+"We are working to raise the salary of public servants, not for political gains, but we all know that people face significant difficulties in the current economic situation of the country. The existing salary is not enough, ”he explained.
+
+“As we all know, the country's economy was severely affected by the previous government. As a responsible management, we cannot say that people have to wait until 2026. We are not taking such an attitude, ”he said.
+
+“So people can retain the hope that a firm salary increase within next year,” Fernando added.
+
+◼️
 
 [Data](articles/bf55b6f8.json)
+
+[Extended Data](ext_articles/bf55b6f8.ext.json)
 
 ---
 
@@ -2343,41 +2389,5 @@ We are not expecting the road to be released up to Vasavilan Junction on Palali 
 [Data](articles/6fd42df3.json)
 
 [Extended Data](ext_articles/6fd42df3.ext.json)
-
----
-
-### Six suspects arrested with narcotics
-
-*2024-12-25 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202143) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"6 suspects arrested: 3 with ice in apartments, 2 with heroin in raids. Ice seizures: 15g, 8g, 10g. Heroin seizures: 5g, 7g. Narcotics worth 1,917,900 rupees seized."
-
-🟩
-
-Six suspects have been arrested with ice drugs and heroin in a roundup carried out by police on Tuesday (24) in different parts of the country.
-
-Three suspects have been arrested with ice drugs at the Ranmudu Sevana apartment belonging to the Madhampitiya police division.
-
-The arrested suspects are from Modera, Colombo 15, aged 23 and 25.
-
-15 grams of 650 milligrams of ice, 08 grams 450 milligrams of ice and 10 g 350 mg of ice have been arrested from three suspects.
-
-Meanwhile, the suspect has been arrested with 5 gm 500 milligrams of heroin in a raid on Sena Road, which belongs to the Malkisa Police Division.
-
-In addition, a suspect has been arrested for possessing 7 grams of heroin at Sarbantine Road, Borella Police Division.
-
-The suspect was 51 -year -old from Borella, Colombo.
-
-During the investigation into the arrests, the suspect who sold heroin was arrested on the basis of information provided and seized 1,917,900 rupees of narcotics.
-
-◼️
-
-[Data](articles/b3ff5b30.json)
-
-[Extended Data](ext_articles/b3ff5b30.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 17:00:15**
+As of **2024-12-26 17:12:46**
 
 ## Newspaper Stats
 
-*Scraped **62,158** Articles*
+*Scraped **62,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 655
 islandlk | 3,764
-economynextcom | 3,782
+economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,935
@@ -26,29 +26,61 @@ adaderanasinhalalk | 10,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,662 (99.2%) of 62,158 articles have been extended.
+61,663 (99.2%) of 62,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### இலங்கையை போன்று இரத்தினக்கல்
+### Nearly half of Sri Lanka pensions benefit top 20-pct income group: IPS
+
+*2024-12-26 17:00:00* · [`economynextcom`](https://economynext.com/nearly-half-of-sri-lanka-pensions-benefit-top-20-pct-income-group-ips-196254/) · `en`
+
+ECONOMYENXT – The non-contributory nature of Sri Lanka’s Public Services Pensions (PSP) scheme has become a significant burden on the country, as pension benefits are funded directly from government revenue through general taxation, a research article by the Institute of Policy Studies finds.
+
+“With approximately 700,000 public sector pensioners, this system imposes a substantial financial strain on the government.”
+
+According to IPS, about half of these pensions benefit the top 20% income group.
+
+The think tank recommends a gradual transition to a contributory scheme, and structural reforms.
+
+Transforming Public Pensions in Sri Lanka Toward Fiscal and Social Stability
+
+Easing the pension burden in Sri Lanka demands structural reforms and a transition to a contributory model.
+
+Recent economic challenges have made addressing Sri Lanka’s pension-related financial burden a pressing priority.
+
+Public sector pensions are fully funded through tax revenue, consuming 12% of government income.
+
+...
+
+[Data](articles/3f620b5a.json)
+
+---
+
+### Gemstone
 
 *2024-12-26 16:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-போன்று-இரத்தினக்கல்/175-349336) · `ta`
 
-இரத்தினபுரி நிவித்திகல பிரதேசத்தைச் சேர்ந்த இரத்தினக்கல் வர்த்தகர் ஒருவர் இலங்கையின் வடிவிலான அரிய இயற்கை நீலக்கல் ஒன்றை கொள்வனவு செய்ததாக வியாழக்கிழமை (26) தெரிவித்தார்.
+Rare 5.37-carat blue sapphire discovered in Sri Lanka. Purchased by businessman Rohan Wasantha Dissanayake. Unique property allows viewing division between Sri Lanka and Jaffna peninsula. Certified by National Gem Jewelry Authority.
 
-இதனை வாங்கிய நிவித்திகல யக்தெஹிவத்தையைச் சேர்ந்த மாணிக்கக்கல் வியாபாரி.ரொஹான் வசந்த திஸாநாயக்க, இந்த நீல மாணிக்கத்தை மாணிக்கக் கற்கள் சேகரிப்பவர் ஒருவரிடமிருந்து வாங்கியதாகத் தெரிவித்தார்.
+🟩
 
-இந்த நீல மாணிக்கத்தை நீங்கள் ஒரே நேரத்தில் பார்த்தால், இலங்கை மற்றும் யாழ்ப்பாண குடாநாட்டின் நிலப்பரப்பு எவ்வாறு பிரிக்கப்பட்டுள்ளது என்பதை நீங்கள் காணலாம். மன்னாரின் நிலையும் அவ்வாறே தோன்றுகிறது. அதே போல் திருகோணமலை, இலங்கையின் நான்கு திசைகளும் அப்படித்தான் தோன்றும்.
+A gemstone businessman from Nivithigala area in Ratnapura had purchased a rare natural sapphire in Sri Lanka on Thursday (26).
 
-தேசிய இரத்தினக்கல் ஆபரண அதிகார சபையிடம் இந்த இரத்தினக்கல் சமர்ப்பிக்கப்பட்டு, 2024-12-24 அன்று இரத்தினக்கல் அடையாள சோதனை அறிக்கை பெறப்பட்டது.
+Rohan Wasantha Dissanayake said that the blue gem was bought from a gemstone collector.
 
-இந்த இரத்தினக்கல் இயற்கையான கொருண்டம் இனத்தைச் சேர்ந்தது: 5.37 கரட் எடையுள்ள நீலம். என தர்மசேகர மற்றும் ஜானக ஹேமச்சந்திர ஆகியோர் கையெழுத்திட்ட அடையாளச் சான்றிதழில் காணப்பட்டது.
+If you look at this blue gem simultaneously, you can see how the land of Sri Lanka and the Jaffna peninsula is divided. The status of Mannar seems like that. As well as the four directions of Trincomalee and Sri Lanka.
+
+The gem was submitted to the National Gem Jewelery Authority and received the Gemstone Identification Test report on 2024-12-24.
+
+This gem belongs to the natural coremist species: 5.37 carat weighs blue. Dharmasekara and Janaka Hemachandra were found in the identity certificate signed.
 
 ◼️
 
 [Data](articles/c8adea3f.json)
+
+[Extended Data](ext_articles/c8adea3f.ext.json)
 
 ---
 
@@ -121,6 +153,22 @@ They have repeatedly accused Hasina -- then newly elected -- of orchestrating a 
 ...
 
 [Data](articles/2e5c10b0.json)
+
+---
+
+### Sri Lanka stocks close up, turnover Rs7bn
+
+*2024-12-26 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs7bn-196467/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday after the Christmas holiday, data on its site showed.
+
+The broader ASPI closed up 1.53 percent, or 232.13 points, at 15,400; while the more liquid S&P SL20 Index closed up 1.48 percent, or 67.15 points, at 4,602.
+
+Top positive contributors to the ASPI were LOLC Holdings (up at 665.00), Hatton National Bank (up at 293.75), Sunshine Holdings (up at 94.50), Sampath Bank (up at 112.75), and Aitken Spence (up at 142.75).
+
+◼️
+
+[Data](articles/3eb6a5d1.json)
 
 ---
 
@@ -2285,55 +2333,5 @@ Therefore, we are demanding that Indian fishermen abandon banned fishing systems
 [Data](articles/eca0c6d8.json)
 
 [Extended Data](ext_articles/eca0c6d8.ext.json)
-
----
-
-### Ceylon Electricity Board ignores fuel purchasing intellectuals
-
-*2024-12-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202152) · `ta`
-
-Ceylon Electricity Board criticized for ignoring fuel purchasing instructions, potentially reducing electricity tariffs by 30-35%. Public Utilities Commission urges compliance, but no agreement reached yet.
-
-🟩
-
-The Electricity Consumer Association has accused the Ceylon Electricity Board of buying fuel at retail prices from the Ceylon Petroleum Corporation, ignoring the instructions on the concession pricing of the Sri Lanka Public Utilities Commission.
-
-The Ceylon Electricity Board (CEB) is said to be receiving 20 to 40 percent of the country's total fuel consumption.
-
-Although the fuel is said to be directly obtained through pipes, the Ceylon Electricity Board continues to receive fuel from the Petroleum Corporation, which is similar to the retail price, including site rental and employee fees.
-
-Since last year, the Public Use the Commission has repeatedly urged the Ceylon Electricity Board to reach the Ceylon Corporation's Petroleum Corporation with the Petroleum Corporation.
-
-...
-
-[Data](articles/903daba0.json)
-
-[Extended Data](ext_articles/903daba0.ext.json)
-
----
-
-### Accidents were not caused by the substandard of private buses: Gemunu
-
-*2024-12-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202153) · `ta`
-
-Private bus owners reject claims of substandard vehicles causing accidents. Association president cites safety measures and challenges faced. Government urged to address driver and conductor shortages.
-
-🟩
-
-The All Ceylon Private Bus Owners Association has said that it will completely reject the allegations that private buses are not fulfilled.
-
-In recent times, private buses have been subjected to many accidents. Some of them have taken the life of the passengers. Three people were killed and more than 23 passengers were injured in a recent accident in Hatton on December 21 last year.
-
-In this case, the President of the All Ceylon Private Bus Owners Association, Gemunu Wijeratne, inquired about the allegations that many private buses did not meet the appropriate standards.
-
-For example, if the accident in Hatton took place, only three people died because the bus was safe, while others survived.
-
-If any other type of buses may have died more. We do not accept unauthorized changes. So it is wrong to blame only buses.
-
-...
-
-[Data](articles/c982b393.json)
-
-[Extended Data](ext_articles/c982b393.ext.json)
 
 ---

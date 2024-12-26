@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 14:43:06**
+As of **2024-12-26 15:01:49**
 
 ## Newspaper Stats
 
-*Scraped **62,131** Articles*
+*Scraped **62,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,198 @@ economynextcom | 3,780
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,932
-adaderanalk | 7,586
-tamilmirrorlk | 8,910
-virakesarilk | 10,289
-adaderanasinhalalk | 10,730
+adaderanalk | 7,588
+tamilmirrorlk | 8,911
+virakesarilk | 10,291
+adaderanasinhalalk | 10,734
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,655 (99.2%) of 62,131 articles have been extended.
+61,656 (99.2%) of 62,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### 2024 මෙරටට පැමිණි සංචාරකයන් ප්‍රමාණය ලක්ෂ 20 ඉක්මවයි
+### சாதனையை பாராட்டினார் ஹரின் பெர்னாண்டோ
+
+*2024-12-26 14:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதனையை-பாராட்டினார்-ஹரின்-பெர்னாண்டோ/175-349324) · `ta`
+
+இலங்கை 02 மில்லியன் சுற்றுலா பயணிகளின் வருகையை எட்டிய சாதனையை இலங்கையின் முன்னாள் சுற்றுலா அமைச்சர் ஹரின் பெர்னாண்டோ இன்று பாராட்டியுள்ளார்.
+
+2024 ஆம் ஆண்டிற்கு 02 மில்லியன் இலக்கு நிர்ணயிக்கப்பட்டதாகவும், அதிகாரிகளால் அதனை அடைய முடிந்துள்ளதாகவும் ஹரின் பெர்னாண்டோ தனது 'X' பக்கத்தில் பதிவிட்டுள்ளார்.
+
+கடந்த அரசாங்கம் நிர்ணயித்த 2025 ஆம் ஆண்டிற்கான 2.5 மில்லியன் சுற்றுலாப் பயணிகளின் இலக்கை அரசாங்கம் அடைய முடியும் என்று அவர் மேலும் நம்பிக்கை தெரிவித்தார்.
+
+“2024 இல் நாங்கள் கணித்தது உண்மையாகிவிட்டது, கடின உழைப்பு பலனளித்தது, நாங்கள் பூஜ்ஜிய சுற்றுலாப் பயணிகளுடன் ஆரம்பித்தோம்.
+
+இச்சாதனையில் பங்காற்றிய தொழில்துறை மற்றும் இலங்கை சுற்றுலா ஊழியர்களுக்கு பாராட்டுக்கள், 2025 ஆம் ஆண்டிற்கான யதார்த்தமான இலக்காக 2.5 மில்லியனை அடைய புதிய அரசாங்கம் நல்ல பணியை தொடர வாழ்த்துகிறேன் ” என ஹரின் பெர்னாண்டோ 'எக்ஸ்' பதிவில் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/678d9cb7.json)
+
+---
+
+### Body found inside burned vehicle in Habarana
+
+*2024-12-26 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104508/body-found-inside-burned-vehicle-in-habarana) · `en`
+
+A body has been discovered inside a double cab that was on fire in the Habarana area.
+
+The vehicle had caught fire last night (25) in the 13th Mile Post area on Minneriya Road in Habarana, and the Polonnaruwa Fire Brigade had later extinguished the flames
+
+Upon further investigation, police had discovered a body inside the vehicle.
+
+It is suspected that the deceased is the owner of the vehicle, while the body was found in the back seat.
+
+The owner of the vehicle is a resident of the Dekatana area, and the Minneriya Police have launched an investigation to determine whether the incident was a homicide or suicide.
+
+Meanwhile, in a separate incident, a 50-year-old man was reportedly stabbed to death with a sharp weapon in the Wadulla Waththa area of Grandpass.
+
+Police stated that the murder was carried out as a result of a dispute with a local resident.
+
+The suspect has fled the scene, and the Grandpass Police are conducting further investigations to arrest the suspect.
+
+◼️
+
+[Data](articles/1a569353.json)
+
+---
+
+### பும்ராவின் வேகப்பந்துவீச்சாலோ மோதலாலோ கோஹ்லியின்  மோதலாலோ   இளம் வீரர் கொன்ஸ்டாவை மசியவைக்க முடியவில்லை; நல்ல நிலையை நோக்கி அவுஸ்திரேலியா
+
+*2024-12-26 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202198) · `ta`
+
+இந்தியாவுக்கு எதிராக மெல்பர்ன் கிரிக்கெட் விளையாட்டரங்கில் இன்று ஆரம்பமான நான்காவது டெஸ்ட் கிரிக்கெட் போட்டியில் அறிமுகமான 19 வயதே உடைய சாம் கொன்ஸ்டாஸ் அற்புதமாக துடுப்பெடுத்தாடி அரைச் சதம் குவித்து அவுஸ்திரேலிய அணியில் புதிய நட்சத்திரம் உருவாகியுள்ளதை கிரிக்கெட் உலகுக்கு உணர்த்தியுள்ளார்.
+
+இந்தியாவின் அனுபவசாலிகளான ஜஸ்ப்ரிட் பும்ராவின் அசுர வேகப்பந்துவீச்சோ, விராத் கோஹ்லியின் மோதலோ அவரை மசிய வைக்க முடியாமல் போனது.
+
+கொன்ஸ்டாஸ் உட்பட முன்வரிசை வீரர்கள் நால்வர் பெற்ற அரைச் சதங்களின் பலனாக இன்றைய முதலாம் நாள் ஆட்ட நேர முடிவில் அவுஸ்திரேலியா அதன் முதல் இன்னிங்ஸில் 6 விக்கெட்களை இழந்து 311 ஓட்டங்களைக் குவித்திருந்தது.
+
+இரண்டு பலம்வாய்ந்த அணிகளுக்கு இடையிலான டெஸ்ட் போட்டி ஒன்றில் 19 வயதுடைய இளம் வீரர் ஒருவரால் அசத்த முடியும் என்றோ ஜஸ்ப்ரிட் பும்ராவின் பந்துவீச்சை இந்த வயதில் வேறு எவரும்  விரட்டி  அடிப்பார்கள் என்றோ எதிர்பார்க்க முடியாது.
+
+...
+
+[Data](articles/0b13f198.json)
+
+---
+
+### மாங்குளம் பகுதியில் உள்நாட்டு துப்பாக்கியுடன் சந்தேகநபர் கைது!
+
+*2024-12-26 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/202195) · `ta`
+
+மாங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட கிழவன்குளம் பகுதியில் நேற்று புதன்கிழமை (25) பொலிஸ்  அதிகாரிகளினால் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின் போது  உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், குறித்த சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை மாங்குளம் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/14fade66.json)
+
+---
+
+### සීමාව ඉක්මවා ගිය කෝලි ට හතර වටෙන් බැට
+
+*2024-12-26 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204743) · `si`
+
+ඔස්ට්‍රේලියාව සහ ඉන්දියාව අතර අද මෙල්බන් හිදී ආරම්භ වූ සිව්වැනි ටෙස්ට් තරගයේදී ඇතිවූ සිද්ධියක් සම්බන්ධයෙන් ඉන්දීය ක්‍රීඩක විරාත් කෝලිට එරෙහිව දඩයක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය කටයුතු කර තිබේ.
+
+India Today පුවත් සේවය වාර්තා කළේ ඔස්ට්‍රේලියානු ආරම්භක පිතිකරු සෑම් කොන්ටාස් ගේ උරහිසෙහි ගැටී ඔහු සමග මතභේදයක් ඇතිකර ගැනීම සම්බන්ධයෙන් විරාත් කෝලිගේ තරග ගාස්තුවෙන් 20%ක් දඩයක් ලෙස අය කරගැනීමටත් ඔහුගේ විනය වාර්තාවට දඬුවම් ලකුණක් එකතු කිරීමටත් ක්‍රිකට් බලධාරීන් කටයුතු කර ඇත.
+
+තරගයේ පළමු දිනයේ 10 වැනි පන්දු ඕවරය අවසානයේදී කෝලි කොන්ටාස් වෙස ඇවිද ගොස් උවමනාවෙන් මෙන් ඔහුගේ උරහිසේ ගැටෙන අයුරු දැක්වෙන වීඩියෝ මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
+
+සිය මංගල ටෙස්ට් තරගයට ක්‍රීඩා කරන කොන්ටාස් වේගවත් ලකුණු 60ක් රැස් කිරීමට සමත් විය.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් අදහස් දක්වමින් ඉන්දීය හිටපු ක්‍රිකට් නායකයෙකු වන රවී ශාස්ත්‍රි පවසා ඇත්තේ කෝලී සිදුකර ඇත්තේ අනවශ්‍ය ක්‍රියාවක් බවය.
+
+මේ අතර හිටපු ඔස්ට්‍රේලියානු නායක රිකී පොන්ටින් ද පැවසුවේ පළපුරුදු ක්‍රීඩකයෙකු වන කෝලී එම ගැටුම නිර්මාණය කළ බවය.
+
+◼️
+
+[Data](articles/5c6faeb8.json)
+
+---
+
+### මහින්දගේ ආරක්ෂක තත්ත්වය ගැන අලුත්ම හෙළිදරව්ව
+
+*2024-12-26 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204742) · `si`
+
+රාජ්‍ය බුද්ධි තොරතුරු අනුව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට ඩ්‍රෝන ප්‍රහාරයක් එල්ලවීමේ අවදානමක් නොමැති බව මහජන ආරක්ෂක නියෝජ්‍ය අමාත්‍ය නීතිඥ සුනිල් වටගල මහතා පවසයි.
+
+එහිදී ඔහු වැඩිදුරටත් පෙන්වා දුන්නේ අදාළ ආරක්ෂක තත්ත්වයත් තුළ අවශ්‍ය වෙනස්කම් සිදුකිරීමට හැකියාව පවතින බවය.
+
+"මනෝජ් ගමගේ මහතා කියලා තිබුණා ඩ්‍රෝන ප්‍රහාරයකුත් තියෙනවා කියලා. දැන් පොලිස්පති සූදානම් ඔහුගෙන් ප්‍රශ්න කරන්න. ඩ්‍රෝන ප්‍රහාරයක් ආවත් මහින්ද මහත්තයා වටේ ඉන්න පිරිසත් මදි වෙනවා ඩ්‍රෝන ප්‍රහාරයට මුහුණ දෙන්න. ඒ තියෙන T56 හරියන්නේ නැහැ ඩ්‍රෝන ප්‍රහාරයට. ඒ නිසා මනෝජ් ගමගේලා යමක් කියනකොට සැලකිල්ලෙන් කියන්න. සමස්ත සමාජයක් තමයි නොමග යන්නේ."
+
+"අපේ බුද්ධි අංශ ඇතුළේ ඩ්‍රෝන ප්‍රහාරයක් නැහැ. එයා කියන්න ඕනේ කොහෙන්ද එන්නේ කියලා."
+
+"යම් තක්සේරුවක් ඇතුළේ තමයි තීරණ ගන්නේ. එසේ නොවේ යැයි කියනවා නම් අපි නැවත සලකා බලන්නම්."
+
+◼️
+
+[Data](articles/f38e5b99.json)
+
+---
+
+### කළු ගඟේ වළං සෝදන්න ගිය කාන්තාව කිඹුලෙකුට බිලිවෙයි
+
+*2024-12-26 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204741) · `si`
+
+කළු ගඟට වළං සේදීමට ගිය කාන්තාවක කිඹුලෙකු විසින් ඩැහැගෙන ගොස් ඇති බව කළුතර දකුණ පොලීසිය පවසයි.
+
+මෙසේ කිඹුලා ඩැහගෙන ගොස් ඇත්තේ දොඩංගොඩ කොහොලාන උතුර ප්‍රදේශයේ පදිංචි 50 හැවිරිදි කාන්තාවකි.
+
+කළුතර කොහොලාන ප්‍රදේශයේ කළු ගඟ ආසන්නයේ දී එම කාන්තාව ව කිඹුලා ඩැහැගන ගොස් ඇති බව සඳහන් ය.
+
+කළු ගගේ බෝට්ටු යොදා ප්‍රදේශයේ  ජනතාව සිදුකළ සෝදිසි මෙහෙයුමෙන් පසුව මෘත ශරීරය සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/e957f164.json)
+
+---
+
+### Deputy Minister claims some police officers paid salaries by underworld figures
+
+*2024-12-26 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104507/deputy-minister-claims-some-police-officers-paid-salaries-by-underworld-figures) · `en`
+
+Deputy Minister of Public Security, Attorney-at-Law Sunil Watagala, alleges that some police officers are receiving regular payments from underworld and drug trafficking activities.
+
+Speaking during Ada Derana’s current affairs program “Big Focus”, he emphasized that certain measures taken to eradicate the underworld activities and drug trafficking cannot be disclosed to the media.
+
+“There are police officers who receive their salaries from the underworld and drug trafficking activities. Following intelligence reports, we had to transfer almost the entire police force in Ruwanwella. Not only that but also in Avissawella. These individuals are a network. The underworld’s money is flowing into the hands of the police,” he added.
+
+Deputy Minister Watagala also noted that discussions had been held with the Acting Inspector General of Police (IGP) regarding the issue and revealed that the current leader of the underworld is operating in Mathugama.
+
+...
+
+[Data](articles/f515b15a.json)
+
+---
+
+### Tourist arrivals over 20 million
 
 *2024-12-26 13:20:53* · [`adalk`](https://www.ada.lk/breaking_news/2024-මෙරටට-පැමිණි-සංචාරකයන්-ප්‍රමාණය-ලක්ෂ-20-ඉක්මවයි/11-413851) · `si`
 
-මෙම වසරේ මෙරටට පැමිණි සංචාරකයන් ප්‍රමාණය ලක්ෂ 20 ඉක්මවා ගොස් තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව අද(26දා) පෙරවරුවේ ලක්ෂ 20 වැනි සංචාරකය කටුනායක ගුවන් තොටුපොලෙන් මෙරටට පැමිණ ඇත.
+
+
+"Tourist arrivals exceed 20 million. This year's figure surpasses last year's. At Katunayake airport, 2nd highest arrivals recorded today."
+
+🟩
+
+Tourist arrivals from this year have exceeded Rs.
+
+Accordingly, the 2nd tourist arrivals from the Katunayake airport this morning (26).
 
 ◼️
 
 [Data](articles/84da277c.json)
+
+[Extended Data](ext_articles/84da277c.ext.json)
 
 ---
 
@@ -99,6 +265,32 @@ Many people comment that this eagle is the national bird of the United States. B
 [Data](articles/1d926840.json)
 
 [Extended Data](ext_articles/1d926840.ext.json)
+
+---
+
+### ගිනි ගත් කැබ් රථය තුළ මළ සිරුරක්
+
+*2024-12-26 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204740) · `si`
+
+හබරණ ප්‍රදේශයේ දී ගිනිගැනීමට ලක් වු කැබ් රථයක් තුළ තිබී පුද්ගල මළ සිරුරක් සොයාගෙන තිබේ.
+
+හබරණ, මින්නේරිය මාර්ගයේ 39 කනුව ප්‍රදේශයේ දී ඊයේ රාත්‍රී කැබ් රථයක් ගිනි ගැනීමට ලක්ව තිබු අතර පොළොන්නරුව ගිනි නිවන ඒකකය විසින් ගින්න මැඩ පවත්වා තිබුණි.
+
+පසුව සිදුකළ විමර්ශනවලදී අදාළ මෝටර් රථය තුළ තිබී පුද්ගල මළ සිරුරක් සොයාගත් බව පොලීසිය පැවසුවේය.
+
+මියගොස් ඇත්තේ එම කැබ් රථයේ හිමිකරු බවට සැකකෙරෙන අතර මළ සිරුර කැබ් රථයේ පිටුපස අසුනේ තිබී ඇති බව සඳහන්ය.
+
+කැබ් රථයේ හිමිකරු දෙකටන ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර මෙය ඝාතනයක් ද, නැතහොත් සියදිවි හානි කරගැනීමක් ද යන්න සම්බන්ධයෙන් මින්නේරිය පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+මේ අතර ග්‍රෑන්ඩ්පාස් වදුල්ල වත්ත ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහරදී 50 හැවිරිදි පුද්ගලයෙකු ඝාතනය කර ඇති බව පොලිසිය පවසයි.
+
+ප්‍රදේශයේ පුද්ගලයෙකු සමග ඇති වු ආරවුලක් දුරදිග යාමෙන් මෙම ඝාතනය සිදුව ඇති බව පොලීසිය සඳහන් කළේය.
+
+සැකකරු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔහු අත්අඩංගුවට ගැනීම සඳහා ග්‍රෑන්ඩ්පාස් පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/2808c9cd.json)
 
 ---
 
@@ -2241,177 +2433,5 @@ Accordingly, the missing naval soldier has been arrested by the police with 56 r
 [Data](articles/f915f63f.json)
 
 [Extended Data](ext_articles/f915f63f.ext.json)
-
----
-
-### Water cut for 18 hours tomorrow
-
-*2024-12-25 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202160) · `ta`
-
-Water cutoff alert: 18-hour disruption in Kalutara areas starting 9 AM Wednesday to 3 AM Thursday for pipe repair.
-
-🟩
-
-The National Water Supply and Drainage Board has announced that water supply will be disrupted for 18 hours to the Kalutara South, Kalutara North, Waduwa, Waskaduwa, Morntuduwa and Pombuwala areas.
-
-Accordingly, water supply to the areas will be disrupted from 9 am to Friday (27) at 03 am on Thursday 26th.
-
-The National Water Supply and Drainage Board further stated that the water supply will be suspended for emergency revision work due to a failure in the main conduction pipe.
-
-◼️
-
-[Data](articles/52347808.json)
-
-[Extended Data](ext_articles/52347808.ext.json)
-
----
-
-### 18 hour water cut in several areas
-
-*2024-12-25 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204719) · `si`
-
-18-hour water cut in Kalutara districts: 9 AM today to 3 PM tomorrow due to main pipe breakdown for emergency repairs.
-
-🟩
-
-The National Water Supply and Drainage Board announced that the water cut will be imposed in Kalutara, Kalutara South, Wadduuwa, Waskaduwa, Morotuduwa and Bombuwala areas.
-
-Accordingly, the water supply will be imposed to the relevant areas from 09 am (27) from 09 am (27).
-
-The National Water Supply and Drainage Board further stated that the water cut will be suspended for an emergency repair due to a breakdown on the main transmission tube.
-
-◼️
-
-[Data](articles/161fa6ca.json)
-
-[Extended Data](ext_articles/161fa6ca.ext.json)
-
----
-
-### 18-hour water cut in several areas
-
-*2024-12-25 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104496/18-hour-water-cut-in-several-areas) · `en`
-
-The National Water Supply and Drainage Board (NWS&DB) announced that the water supply to several areas in the Western Province will be suspended for 18 hours starting tomorrow morning (26).
-
-Accordingly, it said there will be an interruption from 9.00 a.m. on Dec. 26 (Thursday) to 3.00 a.m. on Dec. 27 (Friday) for urgent repairs due to a breakdown in the main transmission line.
-
-The affected areas include Kalutara South, Kalutara North, Wadduwa, Waskaduwa, Moronthuduwa and Bombuwala.
-
-◼️
-
-[Data](articles/c8d92cf5.json)
-
-[Extended Data](ext_articles/c8d92cf5.ext.json)
-
----
-
-### Yes, it’s Christmas time…
-
-*2024-12-25 19:30:00* · [`islandlk`](http://island.lk/yes-its-christmas-time/) · `en`
-
-It’s a well-known fact that with Christmas comes some kind of chaos. The build-up tends to be a blur of gift buying, party prepping and worryingly high workloads; it’s understandably difficult to find, let alone make, the time for yourself – but it’s important that you do…to make your skin healthier this Christmas
-
-Drinking plenty of water is always important. Dehydrated skin can look dry and flaky, with more visible fine lines and wrinkles. Water also rids the body of toxins, which is especially useful if you are having those Christmas drinks and eating more processed foods than usual.
-
-Remove dullness and reveal your inner radiance with a gentle exfoliating scrub. Opt for natural ingredients, like brown sugar, oats, or even coffee grounds mixed with honey. Massage in circular motions, focusing on areas like your nose, chin, and forehead. Rinse with lukewarm water and pat your skin dry.
-
-...
-
-[Data](articles/ae33a980.json)
-
----
-
-### Gang responsible for over 24 robberies busted while hiding in Kandy
-
-*2024-12-25 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104495/gang-responsible-for-over-24-robberies-busted-while-hiding-in-kandy) · `en`
-
-A group of suspects who broke into more than 21 houses and jewellery shops in various parts of the island and stole valuables and property including cash, gold items, mobile phones, etc. worth millions of rupees have been arrested by the Galaha Police in Kandy.
-
-The suspects have been identified as residents of the Jaffna area, aged 19, 21, 22, 23 and 26.
-
-It has been revealed that this group had been involved in breaking into houses, temples and jewellery shops in Jaffna, Vavuniya, Kayts, Mamandu, Gampola, Galaha, Nuwara-Eliya, Kandapola and Matale areas and committing these robberies over a period of 4 years.
-
-Police say that information has been reported thus far regarding a total of 24 thefts committed by the suspects.
-
-Galaha Police said that there are 9 pending arrest warrants issued against these suspects from the Jaffna jurisdiction alone.
-
-...
-
-[Data](articles/227ea19a.json)
-
-[Extended Data](ext_articles/227ea19a.ext.json)
-
----
-
-### බිත්තර මිල පහළ ගියත් පහළ නොයන බිත්තර ආප්ප හා බිත්තර රොටී මිල
-
-*2024-12-25 19:11:04* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තර-මිල-පහළ-ගියත්-පහළ-නොයන-බිත්තර-ආප්ප-හා-බිත්තර-රොටී-මිල/11-413844) · `si`
-
-මේ වන විට බිත්තර මිල දැඩි ලෙස පහල බැස තිබුනද බිත්තර ආප්ප බිත්තර රෝටි මිල අඩු නොවිම පිලිබදව බොහෝ පිරිසක් දැඩි අප්‍රසාදය පලකර සිටිති.
-
-මෙම තත්වයන් පිලිබදව අදහස් දක්වන එම පිරිස් පවසනුයේ පසු ගිය දිනවල බිත්තරයක මිල රුපියල් 58ත් 60ත් අතර පවතින විටදි බිත්තර ආප්පයක් බිත්තර රෝටියක් රුපියල් 130ත් 140ත් දක්වා ඉහල ගිය බවත්ය.
-
-එහෙත් මේ වන විට බිත්තරයක මිල රුපියල් 30ත් 32ත් දක්වා පහල බැස තිබුනද බිත්තර ආප්ප හා බිත්තර රෝටි මිල පෙර පරිදිම පවතින බවත් බිත්තර මිල ඉහල ගිය විට ක්ෂනික මිල ඉහල දැමු මෙම ආහාර බිත්තර මිල පහල ගිය විට එම ආහාර මිල පහල නොදැමිම දැඩි ගැටළුවක් බවද එම පිරිස් වැඩි දුරටත් පවසති.
-
-◼️
-
-[Data](articles/1b883210.json)
-
----
-
-### SLCERT warns of increased online scams during festive season
-
-*2024-12-25 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104494/slcert-warns-of-increased-online-scams-during-festive-season) · `en`
-
-The Sri Lanka Computer Emergency Readiness Team (SLCERT) has reported a sharp rise in online scams during the festive season.
-
-Chief Information Security Officer, Nirosh Ananda, stated that there have been complaints about scammers making phone calls to consumers, claiming they have won prizes. Additionally, complaints have also been received regarding various irregularities carried out using AI technology.
-
-He urged the public to be particularly vigilant and take precautions to protect themselves from such fraudulent calls and incidents.
-
-◼️
-
-[Data](articles/4c2743ce.json)
-
-[Extended Data](ext_articles/4c2743ce.ext.json)
-
----
-
-### Power World Gym marks its 30th anniversary
-
-*2024-12-25 18:44:00* · [`islandlk`](http://island.lk/power-world-gym-marks-its-30th-anniversary/) · `en`
-
-Power World Gyms, Sri Lanka’s largest fitness chain, recently marked its 30th anniversary with a month-long celebration of fitness challenges and events throughout October. The exciting activities were held for gym members and included:
-
-Power Summer Beach Party: A beach bash held on October 5th at The Deck, Dehiwala, attracting over 750 attendees.
-
-Power World Weightlifting Challenge: A thrilling competition on October 12th at the Torrington Indoor Stadium, featuring 8 weight categories for men and 1 open category for women.
-
-Power World Tap Rugby Tournament: A high-energy rugby tournament on October 26th at the CR & FC Grounds, with over 300 participants.
-
-Power World Tug of War Challenge: A test of strength on November 2nd at the Isuru Devapriya Ground.
-
-New Chinese air conditioner enters Sri Lanka partnering with Ranjan Lanka
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/7ac82a7d.json)
-
----
-
-### HNB brings Christmas cheer with Annual Carol Service
-
-*2024-12-25 18:44:00* · [`islandlk`](http://island.lk/hnb-brings-christmas-cheer-with-annual-carol-service-2/) · `en`
-
-Ringing in the Christmas season with joy and happiness, HNB PLC, recently hosted the annual carol service themed ‘O Come, All Ye Faithful’ at HNB Towers.
-
-Rt. Rev. Dr. Valence Mendis, Bishop of Kandy diocese attended the festivities as the chief guest and was accompanied by HNB’s Chairman Nihal Jayawardana, Managing Director / CEO Damith Pallewatte, COO Sanjay Wijemanne, corporate and senior bank officials, staff / retired staff and families came together to enjoy the carols performed by the Hatna family choir.
-
-...
-
-[Data](articles/864ca13b.json)
 
 ---

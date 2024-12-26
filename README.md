@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 16:02:02**
+As of **2024-12-26 16:27:36**
 
 ## Newspaper Stats
 
-*Scraped **62,148** Articles*
+*Scraped **62,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,764
 economynextcom | 3,782
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,933
+adalk | 5,934
 adaderanalk | 7,588
 tamilmirrorlk | 8,913
 virakesarilk | 10,292
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,659 (99.2%) of 62,148 articles have been extended.
+61,661 (99.2%) of 62,149 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### Paraliya Tsunami Celebration
+
+*2024-12-26 15:36:32* · [`adalk`](https://www.ada.lk/picture_story/පැරූලිය-සුනාමි-සැමරුම/10-413853) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Paraliya Tsunami Celebration: Thousands attended memorial at tsunami monument. Train crash commemorated with silence and prayers. Buddhist and Hindu rituals performed.
+
+🟩
+
+Tsunami celebration of thousands of years ago, the 20th Tsunami celebration was held at the time of the paradium in the paragraph of thousands of years ago. A train with a train compartment to the tsunami sea was started from the Fort Railway Station yesterday.
+
+The Tsunami Memorial was taken in front of the Tsunami monument in the area of ​​the Tsunamaya, who had been identified by families.. The Tsunami celebration was established at 9.26 am.
+
+The village was organized by the Birth of the Brief Affairs Birth, Paraliya and the Athlomeland of Sri Lanka.The Assistant Principal of the Payagala Bandaranaike College, Assistant Principal of the Payagala Bandaranaike, was made to claim the acceptance and purpose.
+
+...
+
+[Data](articles/75bf043a.json)
+
+[Extended Data](ext_articles/75bf043a.ext.json)
+
+---
 
 ### Murder
 
@@ -64,23 +90,31 @@ A 10 -year -old girl from the village who went missing on the evening of Februar
 
 ---
 
-### வாகனமொன்றில் எரிந்த நிலையில் சடலம் மீட்பு
+### The corpse recovery in a vehicle burned in a vehicle
 
 *2024-12-26 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202204) · `ta`
 
-ஹபரணை - பொலன்னறுவை பிரதான வீதியில்  38 ஆவது கிலோமீற்றர் தூணுக்கு அருகில் நேற்று புதன்கிழமை 25ம் திகதி  இரவு கெப் ரக வாகனமொன்றில் எரிந்த நிலையில் சடலம் ஒன்று கண் டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Body found in burning vehicle near Habarana-Polonnaruwa road. Police investigating murder theory. Firefighters extinguished blaze. Vehicle registered in Colombo.
 
-ஹபரணை மின்னேரிய வீதியில் பயணித்த நபர் ஒருவர் கெப் வாகனமொன்று தீப்பிடித்து எரிவதாக மின்னேரிய பொலிஸாருக்கு அறிவித்ததையடுத்து மின்னேரிய பொலிஸார் எரிந்துகொண்டிருந்த கெப்ரக வாகனத்தை கண்டுபிடித்ததாக  தெரிவித்தனர்.
+🟩
 
-கெப் வாகனம் ஹபரணை நோக்கி நிறுத்தப்பட்டிருந்ததோடு இரவு 10 மணியளவில் தீ பரவியதுடன் வாகனத்தில் சடலம் மட்டும் இருந்ததாகவும்  மின்னேரிய பொலிஸார் தெரிவித்தனர்.
+A body of a body was burnt in a cab vehicle near the 38th kilometer pillar on the Habarana - Polonnaruwa main road on Wednesday night.
 
-ஒருவர் கொலை  செய்யப்பட்டு  அவரது சடலத்தை வண்டியில் ஏற்றி, கெப் வாகனத்தை இந்த பகுதிக்கு கொண்டு வந்து தீ வைக்கப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+A man who was traveling on the Habarana road was reported to the Minneriya police that a keb vehicle was burning in a fire.
 
-மின்னேரியா பொலிஸாரும் பொலன்னறுவை மாநகரசபையின் தீயணைப்புத் திணைக்கள அதிகாரிகளும் வந்து பெரும் முயற்சியில் தீயை முழுமையாக அணைத்துள்ளனர்.
+The Keb vehicle was parked towards Habarana and the fire broke out at around 10 pm and the body was only in the vehicle, Minneriya police said.
 
-...
+Police suspect that a person was murdered and loaded into the carriage and brought the car to the area.
+
+The Minoria Police and the fire department officials of the Polonnaruwa Municipal Council have come and extinguished the fire in a great effort.
+
+In addition, police have found that the fire cab belonged to a Colombo area and further investigations are underway into the incident.
+
+◼️
 
 [Data](articles/302f52bb.json)
+
+[Extended Data](ext_articles/302f52bb.ext.json)
 
 ---
 
@@ -2371,21 +2405,5 @@ Three individuals including two children are reported missing after being swept 
 [Data](articles/de80253a.json)
 
 [Extended Data](ext_articles/de80253a.ext.json)
-
----
-
-### தந்தை, மகன், மருமகன் கடலில் மாயம்
-
-*2024-12-25 21:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தந்தை-மகன்-மருமகன்-கடலில்-மாயம்/175-349291) · `ta`
-
-திருக்கோவில் பொலிஸ் பிரிவிலுள்ள சங்கமன்;கண்டி கடலில் நீராடச் சென்ற தந்தை மகன் மற்றும் அவரது உறவினரான சிறுவன் உட்பட 3 பேர் கடல் அலை இழுத்துச் சென்று காணாமல் போயுள்ள சம்பவம்  புதன்கிழமை (25) மாலை 5.30 மணிக்கு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-சங்கமன்;கண்டியைச் சேர்ந்த 38 வயதுடைய மயில்வாகனம் நந்தராஜ், அவருடைய 15 வயதுடைய டினுஜன், மற்றும் நந்தராஜ் சகோதரியின் மகனான 17 வயதுடைய கிரிஷோர் ஆகிய மூவரும் இவ்வாறு கடலில் கூழ்கி காணாமல் போயுள்ளனர்.
-
-குறித்து பிரதேசத்தைச் சேர்ந்த மயில்வாகனம் நந்தராஜ் அவரது மகன் சகோதரியின் மகன் ஆகிய மூவரும் சம்வப தினமான நேற்று மாலையில் நத்தார் பண்டிகையையிட்டு கடலில் நீராடச் சென்ற நிலையில் இருவரும் கடலில் நீராடிய நிலையில் கடல் அலையால் இழுத்து செல்லப்படதையடுத்து அவர்களை காப்பாற்ற கடலில் குதித்த தந்தையையும் கடல் அலை இழுத்துச் சென்று காணாமல் போயுள்ளதாக பொலிஸாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/4023d1e8.json)
 
 ---

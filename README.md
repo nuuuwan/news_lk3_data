@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 04:27:34**
+As of **2024-12-27 04:43:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,710 (99.2%) of 62,198 articles have been extended.
+61,711 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1414,21 +1414,33 @@ The German supply chain act was passed in the Bundestag and was in effect from J
 
 ---
 
-### ”தன்னிச்சையான இடமாற்றங்களை உடனடியாக இடைநிறுத்தவும்”
+### “Put up spontaneous transfers immediately”
 
 *2024-12-26 14:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்னிச்சையான-இடமாற்றங்களை-உடனடியாக-இடைநிறுத்தவும்/175-349325) · `ta`
 
-எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி (SJB) கட்சி, தேசிய மற்றும் மாகாண சபை மட்டங்களில் மேற்கொள்ளப்படும் தன்னிச்சையான இடமாற்றங்களை விசாரிப்பதற்காக விசேட பிரிவை நிறுவியுள்ளது.
+Here's a summary of 200 characters:
 
-பல்வேறு தேசிய மற்றும் மாகாண சபைத் துறைகளில் ஏற்றுக்கொள்ள முடியாத மற்றும் நியாயமற்ற காரணங்களின் அடிப்படையில் அரசாங்க அதிகாரிகளை சேவை நிலையங்களுக்கு இடையில் இடமாற்றம் செய்யும் முறையான வேலைத்திட்டம் ஒன்று இருப்பது தெரிய வந்துள்ளதாக அறிக்கை ஒன்றை வெளியிட்ட SJB தெரிவித்துள்ளது.
 
-அரச சேவையின் சுதந்திரத்தை உறுதிப்படுத்துவதாக வாக்குறுதியளித்து பதவிக்கு வந்த அரசாங்கம் இவ்வாறான நடவடிக்கைகளில் ஈடுபடுவது கவலைக்குரியது என SJB சுட்டிக்காட்டியுள்ளது.
 
-உள்ளாட்சித் தேர்தல் நிலுவையில் உள்ளதாகவும், விரைவில் நடத்தப்பட உள்ளதாகவும், கூட்டுறவு சங்கத் தேர்தல்கள் தற்போது நடைபெற்று வரும் நிலையில், இந்தத் தேர்தல்களை இலக்கு வைத்து இந்தத் திட்டம் செயல்படுத்தப்பட்டு வருவதால், முன்னெப்போதும் இல்லாத அளவிற்கு பொது சேவை அரசியல்மயமாக்கலுக்கு உள்ளாவதாக எஸ்.ஜே.பி. தெரிவித்துள்ளது.
+"Opposition party forms unit to probe arbitrary transfers in councils. Government accused of relocating officials unreasonably. Urges immediate suspension of transfers during election periods."
 
-...
+🟩
+
+The opposition United People's Power (SJB) Party has established a special unit to investigate arbitrary transfers at the National and Provincial Council level.
+
+The SJB said that there was a proper program of relocating government officials between service centers on the basis of unacceptable and unreasonable reasons in various national and provincial councils.
+
+The SJB has pointed out that it is worrying that the government, which promised to ensure the independence of the public service, is worried that the government is engaged in such activities.
+
+With the elections of the Co -operative Society are ongoing and that the local elections are pending and the co -operative union elections are currently underway, the SJP has said that the SJP is in the process of politicizing these elections.. Has been reported.
+
+The SJB has also urged the government and provincial council officials to immediately suspend all arbitrary transfers at the National and Provincial Council levels.
+
+◼️
 
 [Data](articles/274597b5.json)
+
+[Extended Data](ext_articles/274597b5.ext.json)
 
 ---
 

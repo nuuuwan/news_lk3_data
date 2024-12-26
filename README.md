@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 20:43:35**
+As of **2024-12-26 21:02:00**
 
 ## Newspaper Stats
 
-*Scraped **62,180** Articles*
+*Scraped **62,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 5,940
 adaderanalk | 7,591
 tamilmirrorlk | 8,919
 virakesarilk | 10,300
-adaderanasinhalalk | 10,741
+adaderanasinhalalk | 10,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,680 (99.2%) of 62,180 articles have been extended.
+61,680 (99.2%) of 62,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### නියෝජ්‍ය ඇමති පොලීසියට දුන් අභියෝගය
+
+*2024-12-26 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204754) · `si`
+
+මෙතෙක් කළක් කුඩු භාවිත කරන කෙනා ඇල්ලුවත්, කුඩු ගේන කෙනා ඇල්ලුවේ නැති බව තරුණ කටයුතු නියෝජ්‍ය අමාත්‍ය එරංග ගුණසේකර මහතා පවසයි.
+
+එමෙන්ම මත්ද්‍රව්‍ය උවදුර තුරන්කිරීම වෙනුවෙන් අවශ්‍ය නීතිමය පියවර ගැනීමට කිසිදු දේශපාලනමය බාධාවක් නොමැති බව ද හෙතෙම පැවසීය.
+
+කොලොන්නාව ප්‍රාදේශීය ලේකම් කාර්යාලයේ අද (26) පැවති ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීමේ ඔහු මේ බව පවසා සිටියේය.
+
+මෙහිදී ඔහු පෙන්වා දුන්නේ ලබන වසරේ පටන් මත්ද්‍රව්‍ය උවදුරෙන් මෙරට තරුණයින් බේරා ගැනීම වෙනුවෙන් සියලු පියවර ගන්නා බවයි.
+
+ඒ අනුව මත්ද්‍රව්‍ය නිවාරණය කිරීම වෙනුවෙන් රට පුරා විශේෂ වැඩපිළිවෙලක් ලබන වසරේදී ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව පැවසීය.
+
+මෙය මාධ්‍ය සංදර්ශනයක් නොවන බවත්, මේ සඳහා පොලිස් දෙපාර්තමේන්තුවේ අවංක මැදිහත්වීම අපේක්ෂා කරන බවත් හෙතෙම වැඩිදුරටත් පෙන්වා දුන්නේය.
+
+එමෙන්ම කොළඹ දිස්ත්‍රික්කයේ කොලොන්නාව නගරය මත්ද්‍රව්‍ය උවදුර වැඩිම නගරයක් බවත්, පාසල් දරුවන් මත්ද්‍රව්‍ය උවදුරට ගොදුරු වීම හේතුවෙන් ඔවුන්ගේ අධ්‍යාපනය අඩාල වී ඇති බවද ඔහු පැවසීය.
+
+...
+
+[Data](articles/70f6cd7b.json)
+
+---
 
 ### Strict warning to drivers
 
@@ -2273,39 +2297,5 @@ The remains are placed at the Karapitiya Hospital and Hikkaduwa Police are inves
 [Data](articles/dac0de69.json)
 
 [Extended Data](ext_articles/dac0de69.ext.json)
-
----
-
-### Twenty-thousand visitor to the island
-
-*2024-12-26 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204729) · `si`
-
-Sri Lanka tourism: 20,000 visitors expected in 2023. Foreign tourists arrived in record numbers, with India leading at 399,224. Russia, Germany, and Australia also popular destinations. Tourism Minister predicts end-of-year arrivals.
-
-🟩
-
-The Ministry of Tourism says that the foreign tourist tour will be accepted in the island this year (26).
-
-Deputy Minister of Tourism Professor Ruwan Ranasinghe said that a ceremony was organized by the Sri Lanka Tourism Promotion of Tuesday at the Bandaranaike International Airport.
-
-The total number of foreign tourists who had arrived in Sri Lanka from the beginning of this year to December 22, the total number of foreign tourists arrived at 1,966,256.
-
-161,383 tourists have arrived in the island during the month of December alone.
-
-Most of them have arrived from India and the number is 35,131.
-
-22,637 tourists from Russia and 9,998 from Germany and 8,646 from Australia have arrived in the island in December.
-
-The highest number of tourist people were 399,224 in India.
-
-There were 172,404 tourists from Britain and 131,379 from Germany and 86,440 from France.
-
-Meanwhile, Traveling Minister Professor Ruwan Ranasinghe said that the end of the tourists will arrive in the island by the end of the year.
-
-◼️
-
-[Data](articles/f7e52c76.json)
-
-[Extended Data](ext_articles/f7e52c76.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 20:01:32**
+As of **2024-12-26 20:27:16**
 
 ## Newspaper Stats
 
-*Scraped **62,177** Articles*
+*Scraped **62,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 3,764
 economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,939
+adalk | 5,940
 adaderanalk | 7,591
-tamilmirrorlk | 8,918
+tamilmirrorlk | 8,919
 virakesarilk | 10,300
-adaderanasinhalalk | 10,740
+adaderanasinhalalk | 10,741
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,676 (99.2%) of 62,177 articles have been extended.
+61,678 (99.2%) of 62,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### சாரதிகளுக்கு கடுமையான எச்சரிக்கை
+
+*2024-12-26 20:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதிகளுக்கு-கடுமையான-எச்சரிக்கை/175-349346) · `ta`
+
+மதுபானம் அருந்திவிட்டு வாகனம் செலுத்தும் சாரதிகளின் அனுமதிப் பத்திரங்களை 12 மாதங்களுக்கு இடைநிறுத்தவும் அல்லது இரத்து ​செய்யுமாறு பொலிஸாரால் கோரப்படவுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+எனவே மதுபோதையில் வாகனம் செலுத்த வேண்டாம் என அனைத்து சாரதிகளையும் இலங்கை பொலிஸார் கேட்டுக்கொள்கின்றனர்.
+
+கடந்த 24 மணித்தியாலங்களில் அமுல்படுத்தப்பட்ட விசேட போக்குவரத்து நடவடிக்கை தொடர்பில் ஊடகங்களுக்கு விடுக்கப்பட்டுள்ள அறிக்கையிலேயே பொலிஸார் இதனைத் தெரிவித்துள்ளனர்.
+
+அதன்படி, இன்று (26) காலை 6 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் மதுபோதையில் வாகனம் செலுத்திய 395 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் சுட்டிக்காட்டியுள்ளனர்.
+
+...
+
+[Data](articles/dc6eb4d6.json)
+
+---
+
+### Rugby captain surviving Tsunami
+
+*2024-12-26 19:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204753) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rugby captain survives tsunami. Lost mother in 2004 disaster. Joins navy, then national rugby team. Becomes leader in 2018, inspiring others with "Don't fall, move forward."
+
+🟩
+
+The darkened savage-stemped water that coped into land twenty years is still hiding.
+
+Although his mother's love that has been taken away from the tsunami, this is the leader of the Sri Lanka Rugby Women's group who has lost their lives.
+
+Due to the day of Sunday, many are free to spend on December 26 years ago.
+
+She was watching TV with his home older brothers and sisters in Hikkades that morning.
+
+In the meantime, her mother had gone to Hikkaduwa fair with another cousin.
+
+But they lost their mother and the waters who covered with none or unknown land for them for Randika's mother.
+
+Only her father Ranjith Dhanaasinghe had only a father of Randica for his mother and father for his mother.
+
+The mother that went to the ground was none, but no challenge had been reported from that time and could not stop Randika's journey.
+
+Randika, who lost the rugby, selected the rugby game, who had even lost the tsunami.
+
+She joined the Sri Lanka Navy in 2011 and elected to the Sri Lankan rugby team in 2013.
+
+...
+
+[Data](articles/236a0715.json)
+
+[Extended Data](ext_articles/236a0715.ext.json)
+
+---
 
 ### "There is no intention of treating it as a regular state hospital"
 
@@ -162,19 +220,35 @@ The crew, which was delighted, has posted a special photo to thank him. This has
 
 ---
 
-### பா .ரஞ்சித் - விஜய் அண்டனி இணைந்து வெளியிட்ட 'ஜின்' படத்தின் கிளர்வோட்டம்
+### Pa. Ranjith - Vijay Antony
 
 *2024-12-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/202224) · `ta`
 
-'பிக் பொஸ்' சீசன் 3 நிகழ்ச்சியின் வெற்றியாளரும் , 'வேலன்' எனும் திரைப்படத்தின் மூலம் தமிழ் ரசிகர்களிடத்தில் அறிமுகமானவருமான நடிகர் முகேன் ராவ் கதையின் நாயகனாக நடித்திருக்கும் 'ஜின்' எனும் திரைப்படத்தின் கிளர்வோட்டம் வெளியிடப்பட்டிருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
 
-இதனை தமிழ் திரையுலகின் முன்னணி நட்சத்திர இயக்குநரான பா. ரஞ்சித் மற்றும் முன்னணி இசையமைப்பாளரும் , நட்சத்திர நடிகருமான விஜய் அண்டனி ஆகியோர் இணைந்து அவர்களது இணைய பக்கத்தில் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்துள்ளனர்.
 
-இயக்குநர் டி. ஆர். பாலா இயக்கத்தில் உருவாகி வரும் 'ஜின் 'எனும் திரைப்படத்தில் முகேன் ராவ் , பவ்யா தரிகா , பால சரவணன் , ராதா ரவி,  வடிவுக்கரசி ,நிழல்கள் ரவி, இமான் அண்ணாச்சி, வினோதினி , நந்து ஆனந்த் , ஜார்ஜ் விஜய் , ரித்விக் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+"Jin" film: Pa. Ranjith directs, Vijay Antony stars. Malaysian setting, ghost pet theme. Cast includes Radha Ravi, Vivek-Mervin composes. Modern tech used. Release soon expected.
+
+🟩
+
+The film 'Jin' has been released as the hero of the story of 'Big Boss' and the film 'Wellan' and 'Velan' with Tamil fans.
+
+This is the leading star director of the Tamil film industry. Ranjith and leading composer and star actor Vijay Antony have posted their web page and congratulated the film crew.
+
+Director D. R. Mukhene Rao, Pavya Tarika, Bala Saravanan, Radha Ravi, Vadivakarasi, Shadows Ravi, Iman Annacci, Vinodini, Nandu Anand, George Vijay, Rithvik and many others have starred in the upcoming film 'Jin'.
+
+Vivek - Mervin has composed the film, which is being recorded by Arjun Raja. This movie is Fauridale Pictures & A. R. Producers Squirrels Kumar Reddy - Director D. R. Bala has co -produced.
+
+Commenting on the film, the director said, “The story of the film is set up as a story about Malaysia.
+
+The character of 'Jin' with commercial features in the film is created with modern technology helping everyone. Jin is a ghost pet. '' He said.
 
 ...
 
 [Data](articles/41eee286.json)
+
+[Extended Data](ext_articles/41eee286.ext.json)
 
 ---
 
@@ -277,6 +351,28 @@ Coast Guard Inspector Selvarasu has seen a couple with a boy at Kodiyakarai bus 
 [Data](articles/5cb3437c.json)
 
 [Extended Data](ext_articles/5cb3437c.ext.json)
+
+---
+
+### කඩුවක් අරගෙන ජනපති හමුවෙන්න ඕන යැයි කියමින් කලහ කළ පුද්ගලයෙක් අල්ලයි
+
+*2024-12-26 17:02:40* · [`adalk`](https://www.ada.lk/breaking_news/කඩුවක්-අරගෙන-ජනපති-හමුවෙන්න-ඕන-යැයි-කියමින්-කලහ-කළ-පුද්ගලයෙක්-අල්ලයි/11-413861) · `si`
+
+පිළියන්දල ජාලියගොඩ ප්‍රදේශයේ වෙළඳසැලක් ඉදිරිපිට නවතා තිබූ ලොරි රථයකට කඩුවක් අතැතිව නැග ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවීමට අවශ්‍ය බව පවසමින් කලහකාරීව හැසුරුණු පුද්ගලයෙකු පොලිසිය මැදිහත් වී පාලනය කොට අත්අඩංගුවට ගත් බව පිළියන්දල පොලිසිය පවසයි.
+
+පිළියන්දල තුම්බෝවිල ප්‍රදේශයේ පදිංචි (53) හැවිරිදි පුද්ගලයෙකු මෙසේ අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+මෙම පුද්ගලයා (26) දා උදෑසන ජාලියගොඩ හන්දියට කඩුවක් රැගෙන පැමිණ අසල්වාසීන්ට පරුෂ වචන කියමින් කලාකාරීව හැසිරී තිබේ.
+
+ඒ අතරතුරදී අවට පිරිස පරුෂ වචන නොකියන ලෙසට දැනුම් දීමෙන් පසුව ඊට උරණ වී අසල නවතා තිබූ ලොරි රථයකට නැග ජනාධිපති අනුරු කුමාර දිසානායක මහතා හමුවීමට අවශ්‍ය බවත් එසේ නොවන්නේ නම් බෙල්ල කපාගෙන සියදිවි හානි කර ගන්නා බව පවසමින් කලහකාරීව හැසිරී තිබේ.
+
+පසුව තත්ත්වය පාලනය කිරීමට අසල්වාසීන්ට නොහැකි වූ නිසා මේ බව පිළියන්දල පොලිසියට දැනුම් දීමෙන් පසුව නිලධාරි කණ්ඩායමක් එම ස්ථානයට පැමිණ තත්ත්වය පාලනය කළේය.
+
+පසුව අනාවරණය වී තිබුණේ කලාකාරීව හැසුරුණු පුද්ගලයා මානසික රෝගයකින් පෙළෙන පුද්ගලයකුු බවයි.
+
+...
+
+[Data](articles/b23de8d3.json)
 
 ---
 
@@ -2195,79 +2291,5 @@ Meanwhile, Traveling Minister Professor Ruwan Ranasinghe said that the end of th
 [Data](articles/f7e52c76.json)
 
 [Extended Data](ext_articles/f7e52c76.ext.json)
-
----
-
-### Dhammika Jayasundara of new train
-
-*2024-12-26 07:31:53* · [`adalk`](https://www.ada.lk/breaking_news/නව-දුම්රිය-සාමාන්‍යධිකාරී-ධම්මික-ජයසුන්දර/11-413845) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dhammika Jayasundara, former GM of New Train, appointed as new Railway GM. He served from July 2021 to July 2022.
-
-🟩
-
-Former General Manager of the General Manager of the new Railway General Manager, Dhammika Jayasundara has been appointed as the General Manager.
-
-He was responding to July 2021 to July 2022 to July 2022.
-
-◼️
-
-[Data](articles/bd2865e1.json)
-
-[Extended Data](ext_articles/bd2865e1.ext.json)
-
----
-
-### Sri Lanka expecting two millionth tourist on Dec 26
-
-*2024-12-26 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-expecting-two-millionth-tourist-on-dec-26-196404/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expecting to welcome the two millionth tourist to the country on December 26, with officials expecting monthly arrivals to reach 250,000.
-
-Sri Lanka was originally expecting 2.3 million tourists in 2024.
-
-But visa issuances were hit by a shift to a website operated by a consortium involving VFS Global and IVS-GBS which charged high fees.
-
-Sri Lanka to miss 2024 tourist arrival target; eyes over $3bn annual revenue
-
-The old website, acclaimed as perhaps the easiest in the world by key travel portals, was restored by a court order which was not carried out until a new administration was elected.
-
-Sri Lanka welcomed 2.33 million tourists in 2018, which fell to 1.9 million in 2019 amid Easter Sunday suicide bombings.
-
-In 2020 and 2021 tourisms was badly hit by Coronavirus and in 2022 by a currency crises from money printed to cut rates through open market operations and direct purchases of Treasury bills. (Colombo/Dec26/2024)
-
-◼️
-
-[Data](articles/f121a5fc.json)
-
----
-
-### The 20th anniversary of the tsunami disaster
-
-*2024-12-26 07:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202159) · `ta`
-
-Sri Lanka commemorates 20th anniversary of devastating 2004 tsunami. Silent tribute paid Dec 26, National Security Day declared. Over 35,000 lives lost in 14 coastal districts.
-
-🟩
-
-A special commemorative events have been organized as the tsunami disaster has been completed tomorrow in the history of Sri Lanka.
-
-The people have been asked to pay a silent tribute to the country from 9.25 am to 9.27 am tomorrow (25) to commemorate the Sri Lankans who died of the tsunami disaster.
-
-To commemorate the tsunami disaster, December 26 has been declared as National Security Day and is being carried out in the district.
-
-It is reported that a group of relatives of the victims of the disaster will be traveling in the series as usual will be reached as usual.
-
-Meanwhile, on December 26, 2004, the tsunami of the 9.1 McNett -magnitude earthquake near Sumatra Island was severely affected by 14 Sri Lankan coastal districts and killed about 35,000 people.
-
-◼️
-
-[Data](articles/b2f08e49.json)
-
-[Extended Data](ext_articles/b2f08e49.ext.json)
 
 ---

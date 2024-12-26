@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 12:28:38**
+As of **2024-12-26 12:43:29**
 
 ## Newspaper Stats
 
-*Scraped **62,116** Articles*
+*Scraped **62,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,929
 adaderanalk | 7,584
-tamilmirrorlk | 8,906
+tamilmirrorlk | 8,907
 virakesarilk | 10,286
 adaderanasinhalalk | 10,727
 
@@ -26,15 +26,43 @@ adaderanasinhalalk | 10,727
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,648 (99.2%) of 62,116 articles have been extended.
+61,649 (99.2%) of 62,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### அரிசியை இறக்குமதி :விசேட வர்த்தமானி
+### Imported Rice: Special Gazette
 
 *2024-12-26 12:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசியை-இறக்குமதி-விசேட-வர்த்தமானி/175-349316) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ministry extends rice import deadline to Jan 10. Government resumes permit due to shortage. 67,000 MT imported from India so far. Customs report shows no rice received despite announcement.
+
+🟩
+
+The Ministry of Commerce has issued a special gazette notification to extend the import of rice until January 10.
+
+As a solution to the shortage of rice, the government has taken steps to resume the permission until January 10, after the government's time to import rice was over.
+
+Importers have imported 67,000 metric tonnes of rice from India, the Customs Department said.
+
+Customs reports say the government has announced the importation of rice but the rice has not been imported.
+
+◼️
+
+[Data](articles/10c9e33a.json)
+
+[Extended Data](ext_articles/10c9e33a.ext.json)
+
+---
+
+### அரிசி இறக்குமதி :விசேட வர்த்தமானி வௌியீடு
+
+*2024-12-26 12:19:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-இறக்குமதி-விசேட-வர்த்தமானி-வௌியீடு/175-349316) · `ta`
 
 அரிசியை இறக்குமதி செய்வதற்கான அனுமதியை ஜனவரி 10 ஆம் திகதி வரை நீடிப்பதற்கான விசேட வர்த்தமானி அறிவித்தலை வர்த்தக அமைச்சு வெளியிட்டுள்ளது.
 
@@ -46,7 +74,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/10c9e33a.json)
+[Data](articles/c73cf512.json)
 
 ---
 
@@ -2361,33 +2389,5 @@ Students are affected by the leaky business. Is afraid to send children to the s
 [Data](articles/e414ad10.json)
 
 [Extended Data](ext_articles/e414ad10.ext.json)
-
----
-
-### People do not demand the release of the army's land: they demand their own land - the governor
-
-*2024-12-25 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/202147) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Northern Province Governor Vedanayagan: People demand release of their own lands, not military lands. Promises gradual land releases, tree planting in liberated areas. Addresses displacement concerns, urges unity among political groups.
-
-🟩
-
-The northern people do not demand the release of the military's lands. Governor of the Northern Province, Navatanayagan, said that I had told me to take the people of the South to the people of Sri Lanka to make it clear that they were demanding the release of their own lands.
-
-A discussion on agricultural action on the lands headed by the Governor of the Northern Province at the invitation of the Vayavilan, Palali South and Palali East and the tree planting at Pooniyankadu Hindu Cemetery was held in Wawian this morning (25.12.2024).
-
-Underakumaran commented on behalf of the people of the area, Governor of the Northern Province Vedanayan. We cannot act as we now toppled. We fully believe that the governor will take steps to release our lands in the phase.
-
-We are not expecting the road to be released up to Vasavilan Junction on Palali Road. But it was done by the Governor's request during this government. Similarly, we hope that other places will be released in an unexpected time.
-
-...
-
-[Data](articles/6fd42df3.json)
-
-[Extended Data](ext_articles/6fd42df3.ext.json)
 
 ---

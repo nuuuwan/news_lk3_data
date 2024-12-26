@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 23:12:44**
+As of **2024-12-26 23:27:21**
 
 ## Newspaper Stats
 
-*Scraped **62,183** Articles*
+*Scraped **62,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,942
-adaderanalk | 7,591
+adaderanalk | 7,593
 tamilmirrorlk | 8,919
-virakesarilk | 10,300
+virakesarilk | 10,301
 adaderanasinhalalk | 10,742
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,689 (99.2%) of 62,183 articles have been extended.
+61,690 (99.2%) of 62,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### Couple nabbed at BIA over Rs. 1.6 billion financial fraud
+
+*2024-12-26 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104514/couple-nabbed-at-bia-over-rs-16-billion-financial-fraud) · `en`
+
+A couple who are alleged to have committed financial fraud amounting Rs. 1,600 million and fled the country three years ago, have been arrested upon returning to the country today (26).
+
+Sri Lanka Police said that the suspects had fled to India by boat around three years ago and that they were arrested by officers of the Criminal Investigation Department (CID) on arrival at the Bandaranaike International Airport (BIA) in Katunayake.
+
+◼️
+
+[Data](articles/3f453584.json)
+
+---
+
+### SLINEX 24: India and Sri Lanka strengthen maritime ties with successful naval exercise
+
+*2024-12-26 20:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104513/slinex-24-india-and-sri-lanka-strengthen-maritime-ties-with-successful-naval-exercise) · `en`
+
+The 2024 edition of the bilateral naval exercise between India and Sri Lanka, SLINEX 24, was held from December 17 to 20 at Visakhapatnam under the auspices of the Indian Navy’s Eastern Naval Command.
+
+The exercise took place in two phases: the Harbour Phase from December 17 to 18 and the Sea Phase from December 19 to 20.
+
+The Indian Navy was represented by INS Sumitra from the Eastern Fleet, along with a Special Forces team, while Sri Lanka was represented by SLNS Sayura, an Offshore Patrol Vessel, and a Special Forces team.
+
+The inaugural ceremony was conducted on December 17, marking the beginning of the Harbour Phase. During this phase, both navies engaged in professional exchanges and social interactions.
+
+The Sea Phase, which began on December 19, featured joint exercises conducted by the Special Forces of both countries, along with activities like gun firings, communication drills, seamanship and navigation evolutions, and helicopter operations.
+
+...
+
+[Data](articles/fc205de8.json)
+
+---
 
 ### The challenge for the Deputy Minister to the police
 
@@ -406,6 +440,24 @@ The Sadam movie will be released on February 28 at the film House worldwide. Fol
 
 ---
 
+### சபாநாயகர் அலுவலகத்துக்கு போலித் தகவல்களை வழங்கிய  சபைமுதல்வரும் பதவி விலக வேண்டும் - ஐக்கிய மக்கள் சக்தி
+
+*2024-12-26 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202217) · `ta`
+
+நீதி அமைச்சரின் பெயருக்கு முன்னாள் இடப்பட்ட கலாநிதி பட்டத்துக்கு தற்போது என்ன ஆனது? சபை முதல்வரது அலுவலகத்திலிருந்தே இந்த தகவல்கள் சபாநாயகர் அலுவலகத்துக்கு வழங்கப்பட்டிருக்கின்றன. அவ்வாறெனில் போலியான தகவல்களை வழங்கியமைக்காக சபைமுதல்வரும் பதவி விலக வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் சமிந்த விஜேசிறி தெரிவித்தார்.
+
+கொழும்பில் வியாழக்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+எதிர்க்கட்சியிலிருக்கும் போது அரிசியை பதுக்கி வைத்துள்ள டட்லி சிறிசேனவை கைது செய்து, மக்களுக்கு நிவாரண விலையில் அரிசியை விநியோகிப்பதாக அநுரகுமார திஸாநாயக்க குறிப்பிட்டார்.
+
+ஆனால் தற்போது அரிசி மாத்திரமின்றி தேங்காய், முட்டை என அனைத்து அத்தியாவசிய உணவு பொருட்களுக்கும் தட்டுப்பாடு ஏற்பட்டுள்ளது. அவற்றுக்கு தீர்வை வழங்க முடியாத இவர்கள் வெறும் வாய்ச்சொல் வீரர்கள் என்பதை நிரூபித்துள்ளனர்.
+
+...
+
+[Data](articles/8d22cba7.json)
+
+---
+
 ### Revenue Money Payment From tomorrow
 
 *2024-12-26 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204749) · `si`
@@ -772,23 +824,35 @@ Under the guidance of the District Secretary Gyangey Tilakaratne, the current Di
 
 ---
 
-### බීමතින් රිය පදවන රියදුරන්ගේ බලපත්‍රය මාස 12ක් අත්හිටුවීමට පොලීසිය ඉල්ලීම් කරයි
+### Police request suspension of drunk driver's license for 12 months
 
 *2024-12-26 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204747) · `si`
 
-මින් ඉදිරියට සෑම අවස්ථාවකදීම බීමත්ව රිය පැදවීම හේතුවෙන් අත්අඩංගුවට ගන්නා රියදුරන්ගේ රියදුරු බලපත්‍රය මාස 12ක කාලයක් සඳහා අත්හිටුවීමට හෝ රියදුරු බලපත්‍රය අවලංගු කරන ලෙසට අධිකරණයෙන් ඉල්ලා සිටීමට පොලීසිය කටයුතු කරනු ලබන බව පොලීසිය දැනුම්දෙයි.
+Sri Lanka police suspend drunk driver licenses for 12 months. Special traffic operation resulted in 7,950 drivers penalized for various offenses including drunk driving. Police warn against driving under influence. Operation ongoing since 20th.
 
-එබැවින් බීමතින් රිය ධාවනය නොකරන ලෙස ශ්‍රී ලංකා පොලීසිය සියලුම රියදුරන්ගෙන් ඉල්ලා සිටී.
+🟩
 
-පොලීසිය මේ බව නිවේදනය කළේ ඉකුත් පැය 24 තුළ ක්‍රියාත්මක කරන ලද විශේෂ රථවාහන මෙහෙයුම සම්බන්ධයෙන් මාධ්‍ය වෙත තොරතුරු දැනුම් දෙමිනි.
+The police are informed that the police will be asked to call on the court to suspend the driver's license for a period of 12 months, to suspend the driver's license for a period of drunk driving.
 
-ඒ අනුව, අද (26) පෙරවරු 6න් අවසන් වූ පැය 24 තුළ බීමත් රියදුරන් 395 දෙනෙකු සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කළ බව පොලීසිය පවසයි.
+Therefore, the Sri Lankan police calls on all drivers to not drive drunk.
 
-ඒ, ඊයේ (25) පෙරවරු 6 සිට අද පෙරවරු 6 දක්වා සිදුකළ රථවාහන මෙහෙයුම්වලදී ය.
+The police announced this to inform the media about the special traffic operation implemented in the past 24 hours.
 
-...
+Accordingly, the law was implemented in the 24 hours of drunk drivers in the 24 hours ended today (26).
+
+That was from traffic operations from 6am to 6 am yesterday.
+
+50 drivers related to driving in the 24-hour drivers for more drivers, 5,441 drivers regarding the violations of roadguards, 682 drivers regarding licenses and other traffic errors.Law have been implemented on 7,950 drivers regarding the respect.
+
+The special traffic operation was launched in the country on the 20th of the 20th.
+
+The police will continue to implement this special operation.
+
+◼️
 
 [Data](articles/2e5c10b0.json)
+
+[Extended Data](ext_articles/2e5c10b0.ext.json)
 
 ---
 
@@ -2309,73 +2373,5 @@ Furthermore, they have also been instructed to use only the specific red signal 
 ◼️
 
 [Data](articles/0b18d081.json)
-
----
-
-### Sri Lanka medical officer recalls battle to identify 2004 tsunami dead: report
-
-*2024-12-26 08:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-medical-officer-recalls-battle-to-identify-2004-tsunami-dead-report-196412/) · `en`
-
-ECONOMYNEXT – A hospital in Sri Lanka’s southern town of Galle went to great lengths to identify and deliver over 1,200 bodies that suddenly came to the hospital during the tsunami, but to this day about 300 remain un-identified, a media report quoting a judicial medical officer said.
-
-Galle town was one of the hardest hit locations in the country, where the main town square went under water.
-
-Other badly hit towns include Hambantota, and the island’s East which took the full force of the waves, but some of the areas were then under the control of Tamil Tiger separatists.
-
-Among the dead bodies that flooded the Karapitiya hospital in Galle were 40 children, where both parents had also died, Chief Judicial Medical Officer Rohan Ruwanpura was quoted a saying in Sri Lanka’s Divaina newspaper.
-
-About 200 of the bodies were identified by relatives on the same day.
-
-...
-
-[Data](articles/57cf8e1e.json)
-
----
-
-### විෂ එන්නත් ලබා දී කාන්තාවක් ඝාතනය කරයි
-
-*2024-12-26 08:09:47* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-එන්නත්-ලබා-දී-කාන්තාවක්-ඝාතනය-කරයි/11-413847) · `si`
-
-විෂ එන්නත් කර 70 හැවිරිදි අවිවාහක කාන්තාවක් ඝාතනය කළ බව පැවසෙන සිද්ධියක් සම්බන්ධයෙන් දික්වැල්ල පොලීසිය විමර්ශනයක් ආරම්භ කර ඇත.
-
-මියගිය කාන්තාවගේ ඥාතීන් පවසන්නේ, ඉඩම් ආරවුලක් සම්බන්ධයෙන් අධිකරණයේ නඩුවක් විභාග වන පසුබිමක මෙම මරණය සිදුවීම සැකසහිත බවය. දික්වැල්ල වත්තේගම දකුණ ප්‍රදේශයේ නිවසක පදිංචිව සිටි 70 හැවිරිදි අවිවාහක කාන්තාවක් විෂ සහිත එන්නතක් ශරීරගත වූ බව පවසමින් මාතර, බතීගම රෝහලට ඇතුළත් කර තිබුණේ දෙසැම්බර් 20 වනදා පස්වරුවේ දීය.
-
-අනතුරුව තත්ත්වය බරපතළ වීම හේතුවෙන් මාතර දිස්ත්‍රික් මහ රෝහල වෙත මාරුකර යැවුණු ඇය දින 4ක් එහි දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී පෙරේදා (24) සවස මියගොස් තිබේ.
-
-ඇයගේ ඥාතීන් පවසන්නේ, නාදුනන පුද්ගලයෙකු නිවසට පැමිණ ඇයට යම් විෂක් එන්නත් කර පලාගොස් ඇති බවය. සිද්ධිය සම්බන්ධයෙන් දික්වැල්ල පොලීසිය සිදුකළ විමර්ශනවලදී අදාළ නිවස අසල පිහිටි CCTV කැමරාවක දර්ශන පරීක්ෂා කර තිබුණි. ඒ අනුව කිසියම් පුද්ගලයෙකු අදාළ කාන්තාව හමුවීමට පැමිණ නිවසට ඇතුළුවන ආකාරය එහි දැක්වෙයි.
-
-...
-
-[Data](articles/4bf2e07f.json)
-
----
-
-### A change in the system of stopping
-
-*2024-12-26 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204731) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Acting IGP issues night traffic duty instructions. Officials to use red telecommunication devices. Monitor officers by IGP, OICs, and Traffic OICs. Decision aims to reduce accidents and improve safety.
-
-🟩
-
-The acting IGP has issued a special set of instructions on how to act on vehicle duty to the officers of the vehicle at night.
-
-The relevant officials have instructed the relevant officials to use the red telecommunications, which have been issued to the police stations to get used to the drivers.
-
-The acting IGP has announced that the officials of the Police (IGP) and the OICs Inspectors, OICs and Traffic OICs should be monitored by the officers who are acting as night.
-
-Traffic Duty Officers are often used by the drivers of the aircraft in the signing of various types of transformation in the signing of various types of transformation.
-
-The decision further states that the decision has been taken to be increased by the lack of accidents and not worrying the officers of light control jackets.
-
-◼️
-
-[Data](articles/7a63a27e.json)
-
-[Extended Data](ext_articles/7a63a27e.ext.json)
 
 ---

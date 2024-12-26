@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 01:43:39**
+As of **2024-12-27 02:13:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,698 (99.2%) of 62,193 articles have been extended.
+61,700 (99.2%) of 62,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,35 +82,49 @@ Dr Manmohan Singh served as prime minister of India from 2004 to 2014.
 
 [Data](articles/8c87db10.json)
 
+[Extended Data](ext_articles/8c87db10.ext.json)
+
 ---
 
-### ඉන්දීය හිටපු අග්‍රාමාත්‍ය මන්මෝහන් සිං අභාවප්‍රාප්ත වෙයි
+### Former Indian Prime Minister's Manmohan has passed away
 
 *2024-12-26 22:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204757) · `si`
 
-ඉන්දියාවේ හිටපු අග්‍රාමාත්‍යවරයෙකු වන මන්මෝහන් සිං මහතා අද (26) පස්වරුවේ අභාවප්‍රාප්ත වූ බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Here's a summary of 200 characters:
 
-1932 වසරේ වත්මන් පාකිස්තානයට අයත් කොටසක් වන පංජාබ්හිදී උපත ලැබූ ඒ මහතා මිය යන විට වයස අවුරුදු 92ක් විය.
 
-ඉන්දියාවේ 13 වැනි අග්‍රාමාත්‍යවරයා වන මන්මෝහන් සිං මහතා දෙවරක් ඉන්දීය අගමැති ලෙසින් කටයුතු කර ඇත.
 
-ප්‍රකට ආර්ථික විශේෂඥයෙක් වන ඔහු, ඉන්දීය ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලියේ ප්‍රමුඛයෙක් ලෙස ද සැලකෙයි.
+Former Indian PM Manmohan Singh passes away. Born in Pakistan in 1932, he served as India's 13th PM twice from 2004-2014. Known for economic reforms and restoring India's economy in 1991. Educated at Cambridge and Oxford, he joined the Indian civil service before becoming Finance Minister and later PM.
 
-පන්ජාබ් විශ්වවිද්‍යාලයෙන් සිය මූලික උපාධිය ලබාගත් මන්මෝහන් අනතුරුව එංගලන්තයේ කේම්බ්‍රිජ් සහ ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලවල අධ්‍යාපනය ලැබීය.
+🟩
 
-සිය අධ්‍යාපන කටයුතුවලින් අනතුරුව ඔහු ඉන්දීය සිවිල් සේවයට එක්වී තිබුණි.
+Foreign media reports that a former Prime Minister of India has passed away today (26).
 
-1991 වසරේදී ඉන්දීය ආර්ථිකය කඩාගෙන වැටුණු අතර එය ගොඩනැගීමේ වගකීම පැවරුණේ මන්මෝහන් ටය.
+He was born in Pojwab, a part of the current Pakistan in 1932 in the current Pakistan.
 
-ඒ අනුව එරට මුදල් අමාත්‍යවරයා ලෙස පත්වූ ඔහු ඉන්දීය ආර්ථිකය ක්‍රමයෙන් යථා තත්ත්වයට පත්කළේය.
+The 13th Prime Minister of India, Mr. Manmoro Singh has acted as Indian Prime Minister twice.
 
-අද ලෝක ආර්ථිකයේ දැවැන්තයෙක්වන  ඉන්දියාව ට ඒ සඳහා මග පෙන්වූවේ ඔහු බව බොහෝ දෙනා පවසති.
+He is a well-known economist and is also a leader in the Indian Economic Reforms.
 
-මන්මෝහන් සිං මහතා, 2004 වසරේ සිට 2014 දක්වා එරට අග්‍රාමාත්‍යවරයා ලෙස කටයුතු කළේය.
+Manmohan, who had obtained their basic degree from the Panjab University, was educated in Cambridge and Oxford universities in England.
+
+After his education, he had joined the Indian civil service.
+
+In 1991 the Indian economy was collapsed and the responsibility of building it was assigned to the building.
+
+Accordingly, he was appointed Minister of Finance and restored the Indian economy.
+
+Many say that he was guided by India's giant in the world economy today.
+
+Manmohan Singh was the Prime Minister of 2004 to 2014.
+
+Prior to that, he was also the Finance Minister of India.
 
 ...
 
 [Data](articles/411f9d46.json)
+
+[Extended Data](ext_articles/411f9d46.ext.json)
 
 ---
 

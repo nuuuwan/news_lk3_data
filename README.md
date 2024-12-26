@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 22:27:41**
+As of **2024-12-26 22:43:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,687 (99.2%) of 62,183 articles have been extended.
+61,688 (99.2%) of 62,183 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -522,21 +522,27 @@ The sword was taken into custody and no one was harmed by the incident. Piliyand
 
 ---
 
-### அம்பாறை பகுதியில் மின்சாரம் தாக்கி ஒருவர் உயிரிழப்பு!
+### Electricity strikes in Ampara
 
 *2024-12-26 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202207) · `ta`
 
-அம்பாறை பொலிஸ் பிரிவுக்குட்பட்ட சேனாநாயக்கபுர பகுதியில் நேற்று புதன்கிழமை (25)  மின்சாரம் தாக்கி ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Man killed during power outage in Ampara; police investigating incident involving electricity strike.
 
-நவகம்புர பகுதியைச் சேர்ந்த  35 - 40 க்கு இடைபட்ட வயதுடைய  ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-மின்கம்பத்தில் ஏறி கம்பிகளை அறுக்க முயன்ற போது மின்சாரம் தாக்கி உயிரிழந்தது தற்போதைய விசாரணையில் தெரியவந்துள்ளது.
+A man has been killed by a power outage on Wednesday (25) in the Senanayakapura area of ​​the Ampara Police Division, police said.
 
-மேலும், குறித்த சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை அம்பாறை பொலிஸார்  மேற்கொண்டு வருகின்றனர்.
+The deceased is a man of 35 to 40 years of age from Navagambura.
+
+The current investigation revealed that the electricity was hit by electricity while trying to cut the wires.
+
+Further investigations are being carried out by the Ampara Police.
 
 ◼️
 
 [Data](articles/03600570.json)
+
+[Extended Data](ext_articles/03600570.ext.json)
 
 ---
 

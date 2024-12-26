@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 09:27:08**
+As of **2024-12-26 09:43:45**
 
 ## Newspaper Stats
 
-*Scraped **62,080** Articles*
+*Scraped **62,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,764
 economynextcom | 3,777
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,926
+adalk | 5,927
 adaderanalk | 7,578
-tamilmirrorlk | 8,892
+tamilmirrorlk | 8,893
 virakesarilk | 10,280
 adaderanasinhalalk | 10,723
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,636 (99.3%) of 62,080 articles have been extended.
+61,638 (99.3%) of 62,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### In some places the snow is found
+
+*2024-12-26 09:34:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-பனிமூட்டமான-நிலை-காணப்படும்/175-349299) · `ta`
+
+Snow found in some places. Rainfall predicted in Northern and Eastern Provinces today. Weather forecast: mostly dry in other regions. Some areas in Western, Sabaragamuwa, Central, Southern, Uva, and North Central Provinces may experience rain in the morning.
+
+🟩
+
+The Department of Meteorology has predicted some rainfall in the Northern and Eastern Provinces today (26).
+
+The Department of weather forecasts the weather forecasts that the rest of the country is likely to be mainly in the country.
+
+The Department of Meteorology further stated that some areas of the Western, Sabaragamuwa, Central, South, Uva and North Central Provinces may be in the morning.. Remble
+
+◼️
+
+[Data](articles/5ffa997e.json)
+
+[Extended Data](ext_articles/5ffa997e.ext.json)
+
+---
 
 ### A change in the system of stopping
 
@@ -59,6 +81,18 @@ The decision further states that the decision has been taken to be increased by 
 [Data](articles/7a63a27e.json)
 
 [Extended Data](ext_articles/7a63a27e.ext.json)
+
+---
+
+### රාත්‍රි රථවාහන රාජකාරියේ නිරත පොලිස් නිලධාරින්ට ලැබුණ අලුත්ම නියෝගය
+
+*2024-12-26 07:49:30* · [`adalk`](https://www.ada.lk/breaking_news/රාත්‍රි-රථවාහන-රාජකාරියේ-නිරත-පොලිස්-නිලධාරින්ට-ලැබුණ-අලුත්ම-නියෝගය/11-413846) · `si`
+
+රාත්‍රි රථවාහන රාජකාරියේ නිරත වන පොලිස් නිලධාරින් සම්බන්ධයෙන් පොලිස් මූලස්ථානය විසින් නවතම උපදෙස් මාලාවක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/e05f0752.json)
 
 ---
 
@@ -262,19 +296,25 @@ There are feasures that will increase the rate of dengue patients who can be rec
 
 ---
 
-### 150,000 ஐ கடந்த சுற்றுலாப் பயணிகள் வருகை
+### Tourists visiting over 150,000
 
 *2024-12-26 03:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/150-000-ஐ-கடந்த-சுற்றுலாப்-பயணிகள்-வருகை/175-349295) · `ta`
 
-இந்த மாதத்தின் ஆரம்பம் முதல் இதுவரை நாட்டிற்கு வருகை தந்த சுற்றுலாப் பயணிகளின் எண்ணிக்கை 150,000 ஐ கடந்துள்ளது.
+Over 150,000 tourists visited, mostly from India. This year, 1,966,256 visitors came.
 
-அந்த காலப்பகுதியினுள் இந்தியாவிலிருந்தே அதிகளவான சுற்றுலாப் பயணிகள் நாட்டை வந்தடைந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+🟩
 
-இந்த வருடத்தின் இதுவரையான காலப்பகுதியில், 19 லட்சத்து 66 ஆயிரத்து 256 பேர் நாட்டிற்கு வருகைதந்துள்ளனர் என சுற்றுலா அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது. (a)
+The number of tourists visiting the country has exceeded 150,000 since the beginning of this month.
+
+The Tourism Development Authority said that most tourists from India have arrived in the country during that time.
+
+During this year, 19 lakhs 66 thousand 256 people have visited the country, the Tourism Development Authority said.. (A)
 
 ◼️
 
 [Data](articles/a7384de0.json)
+
+[Extended Data](ext_articles/a7384de0.ext.json)
 
 ---
 
@@ -2517,51 +2557,5 @@ These measures include suspension of those who do not understand duties to cause
 [Data](articles/b946f076.json)
 
 [Extended Data](ext_articles/b946f076.ext.json)
-
----
-
-### Sri Lanka Christmas cake index deflates 7.3-pct in 2024
-
-*2024-12-25 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-christmas-cake-index-deflates-7-3-pct-in-2024-196287/) · `en`
-
-ECONOMYNEXT – The cost of key ingredients for making Sri Lanka’s Christmas cake, fell 7.3 percent in 2024 amid deflationary policy and currency appreciation followed by the central bank under Governor Nandalal Weerasinghe, retail price data show.
-
-The difference in the cost of ingredients from 2022, when deflationary policy started showing up in the balance of payments and November 2024 was only 0.8 percent.
-
-The widely watched Colombo Consumer Price Index also rose 1.2 percent from November 2022 to November 2024.
-
-The  Sri Lanka Christmas cake is acclaimed by international foodies who have tried out the confection to be perhaps the World’s Best’.
-
-“For years I firmly believed that I had tried every single variation of the Christmas cake possible. Light, dark, moist, dry, British, Scottish, Italian, Serbian… That was, until I met my Sri Lankan husband,” writes author Queensashay at Food52, a foodie portal.
-
-...
-
-[Data](articles/2be5a556.json)
-
-[Extended Data](ext_articles/2be5a556.ext.json)
-
----
-
-### Global famine escalates
-
-*2024-12-25 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204706) · `si`
-
-Global famine worsens: UN reports 307 million in need, 117 million without aid in 2025. Only 46% of required assistance met.
-
-🟩
-
-The United Nations says that the global famine is escalating with the reduction of the benefits of the world's wealthy countries to stress.
-
-They are emphasized, 307 million in the world, 307 million in the world, can be collected and aid can only be collected.
-
-Accordingly, in 2025, 117 million people would not have been aid of humanitarian assistance.
-
-The United Nations has estimated that only 46 percent of the United Nations requires only 46 percent of the need to provide other assistance to people.
-
-◼️
-
-[Data](articles/4a444709.json)
-
-[Extended Data](ext_articles/4a444709.ext.json)
 
 ---

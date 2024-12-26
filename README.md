@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 05:01:42**
+As of **2024-12-27 05:12:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,712 (99.2%) of 62,198 articles have been extended.
+61,713 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1527,6 +1527,8 @@ The suspect has fled the scene, and the Grandpass Police are conducting further 
 ◼️
 
 [Data](articles/1a569353.json)
+
+[Extended Data](ext_articles/1a569353.ext.json)
 
 ---
 

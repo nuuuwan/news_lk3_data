@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 18:04:10**
+As of **2024-12-26 18:24:11**
 
 ## Newspaper Stats
 
-*Scraped **62,162** Articles*
+*Scraped **62,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,764
 economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,936
+adalk | 5,937
 adaderanalk | 7,590
-tamilmirrorlk | 8,916
+tamilmirrorlk | 8,917
 virakesarilk | 10,293
 adaderanasinhalalk | 10,739
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,667 (99.2%) of 62,162 articles have been extended.
+61,668 (99.2%) of 62,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### கடலில் மாயமான தந்தை,மகன்,  மருமகன் சடலங்களாக மீட்பு
+
+*2024-12-26 17:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மாயமான-தந்தை-மகன்-மருமகன்-சடலங்களாக-மீட்பு/175-349344) · `ta`
+
+திருக்கோவில் பொலிஸ் பிரிவிலுள்ள சங்கமன்கண்டி கடலில் மூழ்கி காணாமல் போன தந்தை, மகன் மற்றும் மருமகன் ஆகியோரின் சடலங்கள்  விநாயகபுரம் மங்கமாரி கடற்கரையில் வியாழக்கிழமை (26) மாலை கரை ஒதுங்கிய நிலையில் மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+திருக்கோவில் பொலிஸ் பிரிவிலுள்ள சங்கமன்கண்டி கடலில் நீராடச் சென்ற தந்தை, மகன் மற்றும் அவரது மருமகனான சிறுவன் உட்பட 3 பேர் கடல் புதன்கிழமை (25) மாலை 5.30 மணிக்கு அலை இழுத்துச் சென்றதில் காணாமல் போயிருந்தனர்.
+
+சங்கமன் கண்டியைச் சேர்ந்த 38 வயதுடைய மயில்வாகனம் நந்தராஜ், அவருடைய 15 வயதுடைய மகன் டினுஜன்  மற்றும் நந்தராஜ் சகோதரியின் மகனான 17 வயதுடைய கிரிஷோர் ஆகிய மூவரும் இவ்வாறு கடலில் மூழ்கிக் காணாமல் போயுள்ளனர்.
+
+...
+
+[Data](articles/6ce09272.json)
+
+---
 
 ### Rs 150 crore fraud: Family in India
 
@@ -168,19 +184,41 @@ They have repeatedly accused Hasina -- then newly elected -- of orchestrating a 
 
 ---
 
-### ’என்னை பேய் என நினைத்தனர்’
+### අස්වැසුම හිඟ ප්‍රතිලාභ හෙට බැංකු ගිණුම් වෙත
+
+*2024-12-26 16:21:30* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-හිඟ-ප්‍රතිලාභ-හෙට-බැංකු-ගිණුම්-වෙත/11-413856) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ ගෙවීම් යෝජනා ක්‍රමයේ පළමු අදියර යටතේ සුදුසුකම් ලැබූ ප්‍රතිලාභී පවුල් 212 423ටමෙතෙක් ගෙවීමට ඇති හිඟ මුදල් ප්‍රමාණය වූ රුපියල් 1 314 007 750ක මුදල හෙට දිනයේදී අදාළ ප්‍රතිලාභීන්ගේ ගිණුම් වෙත බැංකු ගත කිරීමට කටයුතු කිරීමට කටයුතු කර ඇති බව සුබ සාධක ප්‍රතිලාභ මණඩලය දැනුම් දෙයි.
+
+◼️
+
+[Data](articles/8cc30aeb.json)
+
+---
+
+### The telephone thought of me as ghost
 
 *2024-12-26 16:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/என்னை-பேய்-என-நினைத்தனர்/50-349329) · `ta`
 
-கடந்த 2004-ல் சுனாமி ஏற்பட்டபோது மூன்று வாரங்களாக இந்தோனீசியாவை சேர்ந்த இந்த சிறுவன் தனியாக இருந்து உயிர்பிழைத்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-சுனாமியில் அவருடைய தாய் மற்றும் உடன்பிறந்த இருவரும் இறந்துவிட்டனர். பல நாட்கள் உணவில்லாமல் தவித்துள்ளார். 20 ஆண்டுகள் கழிந்தும் அந்த அதிர்ச்சியிலிருந்து அவர் வெளியே வரவில்லை.
 
-இவருடைய புகைப்படங்கள் வைரலாகவே, கால்பந்து வீரர் ரொனால்டோ இவருக்கு உதவியுள்ளார். தற்போது, இந்தோனீசியாவில் கன்டென்ட் கிரியேட்டராக பணிபுரிகிறார். (பிபிசி)
+
+Boy from Indonesia lost family in 2004 tsunami. Survived alone for weeks. Shock lasted 20 years. Ronaldo helped after photos went viral. Now works as content creator in Indonesia.
+
+🟩
+
+The boy from Indonesia has been living alone for three weeks during the tsunami in 2004.
+
+Both his mother and sibling died in the tsunami. Has been left without food for several days. After 20 years, he did not come out of that shock.
+
+Her photos go viral, footballer Ronaldo helped him. Currently, she works as a Constant Creator in Indonesia. (BBC)
 
 ◼️
 
 [Data](articles/0ce0224e.json)
+
+[Extended Data](ext_articles/0ce0224e.ext.json)
 
 ---
 
@@ -2277,61 +2315,5 @@ Low 30 minutes of the earthquake, massive waves began to collapse to the coast o
 [Data](articles/65d88807.json)
 
 [Extended Data](ext_articles/65d88807.ext.json)
-
----
-
-### Vehicle accident in Kilinochchi: 2 -year -old child killedTrio injured
-
-*2024-12-26 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202166) · `ta`
-
-Kilinochchi: Vehicle accident kills 2-year-old child, injures trio. Motorcycle collides with tipper truck; driver arrested on suspicion of drunk driving. Family rushed to hospital.
-
-🟩
-
-A 2 -year -old child died in a vehicle accident in Kilinochchi and three members of the same family were injured.
-
-A motorcycle tipper carrying mother, father and two children crashed into the accident
-
-The accident occurred when a tipper vehicle and a motorcycle collided with each other on Wednesday night.
-
-Our correspondent said that after the accident, the motorcycle was thrown about 100 meters from the road.
-
-The driver of the tipper vehicle has been arrested by the police in connection with the incident and the people of the area have accused him of being drunk.
-
-A 2 -year -old child who was traveling on a motorcycle was killed and the mother of the same family, the father and the 6 -year -old child were injured and admitted to the Kilinochchi Hospital.
-
-Subsequently, steps were taken to transfer the child who was in critical condition to the Jaffna Teaching Hospital.
-
-◼️
-
-[Data](articles/c042cd99.json)
-
-[Extended Data](ext_articles/c042cd99.ext.json)
-
----
-
-### Three magic - The incident in Ampara
-
-*2024-12-26 00:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202165) · `ta`
-
-Here's a summary of the incident in 200 characters:
-
-
-
-"Three men (38, 15, 18) went missing while swimming at Sangamankandi Amiri Beach in Ampara. They were last seen on Christmas Day in the Umiri area of the Tirukovil police division."
-
-🟩
-
-A missing incident took place this evening at the Sangamankandi Amiri beach in the Tirukovil police division in Ampara district.
-
-Three of them have disappeared as a father's son and their cousin's son, who have been drowned in the Umiri beach.
-
-Also, the 38, 15, 18, aged 38, 15, 18, from the village of Tandadi Uriri, who went to the beach on Christmas Day on the Umiri area of ​​the Sangamankandi area of ​​the Tirukovil police division, disappeared in the sea.
-
-◼️
-
-[Data](articles/112ce02a.json)
-
-[Extended Data](ext_articles/112ce02a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 03:27:21**
+As of **2024-12-27 03:43:10**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,706 (99.2%) of 62,198 articles have been extended.
+61,707 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### இஸ்ரேலின் தாக்குதலில் ஊடகவியலாளர்கள் ஐவர் பலி
+### Five journalists killed in Israel's attack
 
 *2024-12-27 02:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-ஊடகவியலாளர்கள்-ஐவர்-பலி/50-349362) · `ta`
 
-காசா மீது இஸ்ரேல் நடத்திய தாக்குதலில் ஊடகவியலாளர்கள் ஐவர் கொல்லப்பட்டுள்ளனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன.
+Here's a summary of 200 characters:
 
-காசாவில் இயங்கிவரும் செய்தி நிறுவனத்தின் கார் ஒன்றின் மீது இஸ்ரேல் இந்தத் தாக்குதலை மேற்கொண்டுள்ளது.
 
-கடந்த ஆண்டு ஒக்டோபர் முதல் இஸ்ரேல் - ஹமாஸ் இடையே நடந்துவரும் மோதல்களினால் தொடர்ந்தும் ஊடகவியலாளர்கள் கொல்லப்படுகின்றனர் என்பது குறிப்பிடத்தக்கது. (a)
+
+"5 journalists killed in Israel's Gaza attack. News agency vehicle targeted. Ongoing conflict continues deadly toll on press."
+
+🟩
+
+International media reports that five journalists have been killed in Israel's attack on Gaza.
+
+Israel has carried out the attack on a car of a news agency operating in Gaza.
+
+It is noteworthy that journalists continue to kill the ongoing clashes between Israeli and Hamas last year.. (A)
 
 ◼️
 
 [Data](articles/b8fcd763.json)
+
+[Extended Data](ext_articles/b8fcd763.ext.json)
 
 ---
 

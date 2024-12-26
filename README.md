@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 05:12:39**
+As of **2024-12-27 05:27:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,713 (99.2%) of 62,198 articles have been extended.
+61,714 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1532,21 +1532,29 @@ The suspect has fled the scene, and the Grandpass Police are conducting further 
 
 ---
 
-### பும்ராவின் வேகப்பந்துவீச்சாலோ மோதலாலோ கோஹ்லியின்  மோதலாலோ   இளம் வீரர் கொன்ஸ்டாவை மசியவைக்க முடியவில்லை; நல்ல நிலையை நோக்கி அவுஸ்திரேலியா
+### Bumrah's fast -paced or confrontation of Kohli's younger player, Konsta;Australia towards good condition
 
 *2024-12-26 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202198) · `ta`
 
-இந்தியாவுக்கு எதிராக மெல்பர்ன் கிரிக்கெட் விளையாட்டரங்கில் இன்று ஆரம்பமான நான்காவது டெஸ்ட் கிரிக்கெட் போட்டியில் அறிமுகமான 19 வயதே உடைய சாம் கொன்ஸ்டாஸ் அற்புதமாக துடுப்பெடுத்தாடி அரைச் சதம் குவித்து அவுஸ்திரேலிய அணியில் புதிய நட்சத்திரம் உருவாகியுள்ளதை கிரிக்கெட் உலகுக்கு உணர்த்தியுள்ளார்.
+Sam Konstas debuts with half-century against India, facing Jasprit Bumrah's pace and Virat Kohli's challenge. Australia scores 311/6 on Day 1, with Konstas' impressive performance standing out.
 
-இந்தியாவின் அனுபவசாலிகளான ஜஸ்ப்ரிட் பும்ராவின் அசுர வேகப்பந்துவீச்சோ, விராத் கோஹ்லியின் மோதலோ அவரை மசிய வைக்க முடியாமல் போனது.
+🟩
 
-கொன்ஸ்டாஸ் உட்பட முன்வரிசை வீரர்கள் நால்வர் பெற்ற அரைச் சதங்களின் பலனாக இன்றைய முதலாம் நாள் ஆட்ட நேர முடிவில் அவுஸ்திரேலியா அதன் முதல் இன்னிங்ஸில் 6 விக்கெட்களை இழந்து 311 ஓட்டங்களைக் குவித்திருந்தது.
+19 -year -old Sam Konstas, who made his debut in the Melbourne Cricket Stadium against India today, has made a new star in the Australian team with a half -century.
 
-இரண்டு பலம்வாய்ந்த அணிகளுக்கு இடையிலான டெஸ்ட் போட்டி ஒன்றில் 19 வயதுடைய இளம் வீரர் ஒருவரால் அசத்த முடியும் என்றோ ஜஸ்ப்ரிட் பும்ராவின் பந்துவீச்சை இந்த வயதில் வேறு எவரும்  விரட்டி  அடிப்பார்கள் என்றோ எதிர்பார்க்க முடியாது.
+India's experienced Jasprit Bumrah's monster fast bowling or Virat Kohli's confrontation was unable to make him unable to die.
+
+At the end of today's first day's play, Australia lost 6 wickets in its first innings and scored 311 runs as a result of the half -centuries of the four -pronged players, including Konstas.
+
+In a Test match between the two strong teams, a 19 -year -old young player could not expect Jasprit Bumrah's bowling at this age.
+
+Australia's fourth youngest player Sam Konstas, who debuted in Test cricket. Konstas, who scored the third fastest half -century on behalf of Australia as an debutant, is the one who has amassed the fastest half -century as the opening batsman.
 
 ...
 
 [Data](articles/0b13f198.json)
+
+[Extended Data](ext_articles/0b13f198.ext.json)
 
 ---
 

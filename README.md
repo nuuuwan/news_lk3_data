@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 15:01:49**
+As of **2024-12-26 15:12:59**
 
 ## Newspaper Stats
 
-*Scraped **62,140** Articles*
+*Scraped **62,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 655
 islandlk | 3,764
-economynextcom | 3,780
+economynextcom | 3,782
 dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,932
 adaderanalk | 7,588
-tamilmirrorlk | 8,911
+tamilmirrorlk | 8,912
 virakesarilk | 10,291
 adaderanasinhalalk | 10,734
 
@@ -26,29 +26,71 @@ adaderanasinhalalk | 10,734
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,656 (99.2%) of 62,140 articles have been extended.
+61,657 (99.2%) of 62,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### சாதனையை பாராட்டினார் ஹரின் பெர்னாண்டோ
+### German supply chain act could drive Sri Lanka tea exporters away: Report
+
+*2024-12-26 15:00:00* · [`economynextcom`](https://economynext.com/german-supply-chain-act-could-drive-sri-lanka-tea-exporters-away-report-193514/) · `en`
+
+ECONOMYNEXT – Although Germany’s Supply Chain Act on Sri Lanka’s tea industry is minimal, tea exporters are likely to be driven out of the German market to countries with less stringent regulations, a policy paper by the Friedrich Naumann Foundation says.
+
+“Particularly in cases where Germany is not an essential market for an industry, as is the case with the tea industry of Sri Lanka, the Supply Chain Act would only drive exporters away from Germany,” a policy paper on German Supply Chain Act: Impact on the tea and apparel industries of Sri Lanka showed.
+
+The German supply chain act was passed in the Bundestag and was in effect from January 2023.
+
+“Tea industry is generally not happy about the new law,” Sudaraka Ariyaratne, Research Consultant and Author of the Publication said at a panel discussion organized by the Foundation to discuss the Act’s implications on Sri Lanka’s tea and apparel industries.
+
+...
+
+[Data](articles/4df241cb.json)
+
+---
+
+### ”தன்னிச்சையான இடமாற்றங்களை உடனடியாக இடைநிறுத்தவும்”
+
+*2024-12-26 14:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்னிச்சையான-இடமாற்றங்களை-உடனடியாக-இடைநிறுத்தவும்/175-349325) · `ta`
+
+எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி (SJB) கட்சி, தேசிய மற்றும் மாகாண சபை மட்டங்களில் மேற்கொள்ளப்படும் தன்னிச்சையான இடமாற்றங்களை விசாரிப்பதற்காக விசேட பிரிவை நிறுவியுள்ளது.
+
+பல்வேறு தேசிய மற்றும் மாகாண சபைத் துறைகளில் ஏற்றுக்கொள்ள முடியாத மற்றும் நியாயமற்ற காரணங்களின் அடிப்படையில் அரசாங்க அதிகாரிகளை சேவை நிலையங்களுக்கு இடையில் இடமாற்றம் செய்யும் முறையான வேலைத்திட்டம் ஒன்று இருப்பது தெரிய வந்துள்ளதாக அறிக்கை ஒன்றை வெளியிட்ட SJB தெரிவித்துள்ளது.
+
+அரச சேவையின் சுதந்திரத்தை உறுதிப்படுத்துவதாக வாக்குறுதியளித்து பதவிக்கு வந்த அரசாங்கம் இவ்வாறான நடவடிக்கைகளில் ஈடுபடுவது கவலைக்குரியது என SJB சுட்டிக்காட்டியுள்ளது.
+
+உள்ளாட்சித் தேர்தல் நிலுவையில் உள்ளதாகவும், விரைவில் நடத்தப்பட உள்ளதாகவும், கூட்டுறவு சங்கத் தேர்தல்கள் தற்போது நடைபெற்று வரும் நிலையில், இந்தத் தேர்தல்களை இலக்கு வைத்து இந்தத் திட்டம் செயல்படுத்தப்பட்டு வருவதால், முன்னெப்போதும் இல்லாத அளவிற்கு பொது சேவை அரசியல்மயமாக்கலுக்கு உள்ளாவதாக எஸ்.ஜே.பி. தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/274597b5.json)
+
+---
+
+### Harin Fernando praised the record
 
 *2024-12-26 14:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதனையை-பாராட்டினார்-ஹரின்-பெர்னாண்டோ/175-349324) · `ta`
 
-இலங்கை 02 மில்லியன் சுற்றுலா பயணிகளின் வருகையை எட்டிய சாதனையை இலங்கையின் முன்னாள் சுற்றுலா அமைச்சர் ஹரின் பெர்னாண்டோ இன்று பாராட்டியுள்ளார்.
+Harin Fernando praises Sri Lanka reaching 2M tourists by 2024. Targets 2.5M for 2025, credits all contributors.
 
-2024 ஆம் ஆண்டிற்கு 02 மில்லியன் இலக்கு நிர்ணயிக்கப்பட்டதாகவும், அதிகாரிகளால் அதனை அடைய முடிந்துள்ளதாகவும் ஹரின் பெர்னாண்டோ தனது 'X' பக்கத்தில் பதிவிட்டுள்ளார்.
+🟩
 
-கடந்த அரசாங்கம் நிர்ணயித்த 2025 ஆம் ஆண்டிற்கான 2.5 மில்லியன் சுற்றுலாப் பயணிகளின் இலக்கை அரசாங்கம் அடைய முடியும் என்று அவர் மேலும் நம்பிக்கை தெரிவித்தார்.
+Former Sri Lankan Tourism Minister Harin Fernando today praised Sri Lanka's reach of 2 million tourists.
 
-“2024 இல் நாங்கள் கணித்தது உண்மையாகிவிட்டது, கடின உழைப்பு பலனளித்தது, நாங்கள் பூஜ்ஜிய சுற்றுலாப் பயணிகளுடன் ஆரம்பித்தோம்.
+Harin Fernando posted on his 'X' that the authorities were able to reach the target of 02 million by 2024.
 
-இச்சாதனையில் பங்காற்றிய தொழில்துறை மற்றும் இலங்கை சுற்றுலா ஊழியர்களுக்கு பாராட்டுக்கள், 2025 ஆம் ஆண்டிற்கான யதார்த்தமான இலக்காக 2.5 மில்லியனை அடைய புதிய அரசாங்கம் நல்ல பணியை தொடர வாழ்த்துகிறேன் ” என ஹரின் பெர்னாண்டோ 'எக்ஸ்' பதிவில் தெரிவித்துள்ளார்.
+He further stated that the government could achieve the goal of 2.5 million tourists for 2025, set by the last government.
+
+“What we predicted in 2024 was true, hard work was beneficial, and we started with zero tourists.
+
+Congratulations to the industrial and Sri Lankan tourists who contributed to the event, I congratulate the new government to continue the good work of 2.5 million as a realistic target for 2025, ”Harin Fernando said in the 'X' record.
 
 ◼️
 
 [Data](articles/678d9cb7.json)
+
+[Extended Data](ext_articles/678d9cb7.ext.json)
 
 ---
 
@@ -411,6 +453,26 @@ Accordingly, Sri Lanka Customs stated that the clearance of imported rice will r
 ...
 
 [Data](articles/9107f993.json)
+
+---
+
+### Sri Lanka remembers thousands of 2004 tsunami victims
+
+*2024-12-26 12:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-remembers-thousands-of-2004-tsunami-victims-196442/) · `en`
+
+ECONOMYNEXT – Sri Lanka commemorated the deaths of thousands of victims in 2004 Boxing Day Tsunami by observing two-minute silence and religious observation across the country.
+
+The island nation observed two-minute silence from 9.25-9.27 am on Thursday (26) to remember the tsunami victims and others who have died in disasters in Sri Lanka.
+
+The tsunami on  December 26, 2004, triggered by a massive undersea earthquake with a magnitude of 9.1–9.3 off the west coast of northern Sumatra, Indonesia, killed over 35,000 people, mainly in the Southern and the Eastern coastal area.
+
+The areas were devastated by the tsunami, which struck approximately 30 minutes after the earthquake.
+
+The waves in some area reached heights of up to 30 feet (9 meters) in some parts of Sri Lanka, causing widespread destruction along the coastline.
+
+...
+
+[Data](articles/4b754123.json)
 
 ---
 
@@ -2353,85 +2415,5 @@ Likewise, fellow beliefs of the ransom, celebrate influence of birth to Jesus Ch
 [Data](articles/7d90fe2e.json)
 
 [Extended Data](ext_articles/7d90fe2e.ext.json)
-
----
-
-### Sri Lanka - USA joint action
-
-*2024-12-25 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/202161) · `ta`
-
-Sri Lanka-USA joint effort: 69 officials trained on Emigration Act. US Agency for International Development aims to combat trafficking and promote safe immigration. Director Gabriel Gro praises collaboration.
-
-🟩
-
-The Sri Lankan government and the US Agency for International Development are taking steps to promote safe immigration in Sri Lanka and prevent trafficking.
-
-Accordingly, 69 Sri Lankan officers have been given certification courses on the Emigration Act and Policy, sponsored by the US Agency for International Development.
-
-The United States said it had gained the knowledge and skills that were necessary to overcome the trafficking efforts.
-
-Many of the state officials, journalists, youth, volunteers and civil society issues have made it clear that the US Agency for International Development is aimed at strengthening the civil society 'and the 6 -month course, which was launched by the Sri Lanka Open University in order to overcome the US Agency for International Development.
-
-Gabriel Gro, Director of the US Agency for International Development, said:
-
-...
-
-[Data](articles/b4dad4be.json)
-
-[Extended Data](ext_articles/b4dad4be.ext.json)
-
----
-
-### Three children, including two children, disappeared
-
-*2024-12-25 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204720) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Three children, including two boys, went missing near the sea in Thirukkovil. A person also vanished in the same area. Police are investigating the incident.
-
-🟩
-
-Two children and a person disappeared from the sight of the sea.
-
-The police said that the accident had occurred in general area Thirukkovil Association.
-
-◼️
-
-[Data](articles/42a54ce9.json)
-
-[Extended Data](ext_articles/42a54ce9.ext.json)
-
----
-
-### Gun - Missing Navy Soldier with bullets
-
-*2024-12-25 20:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-தோட்டாக்களுடன்-காணாமல்-போன-கடற்படை-சிப்பாய்/175-349289) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Missing naval soldier found with T56 rifle & bullets. Traveling in pawurti from Trincomalee Naval Base. Claimed brother brought dinner but didn't return. Police arrested soldier after investigation.
-
-🟩
-
-Police have arrested the missing naval soldier with a T56 rifle, bullets and Megaseen.
-
-Police said they were missing in the Varakapola - Wariyagoda area who were traveling in a pawurti, loading goods belonging to the Trincomalee Naval Base.
-
-The soldier did not return for several hours, claiming that his brother had brought his dinner and had gone to get it.
-
-Naval soldier Varakapola has lodged a complaint with the police who acted as the driver of the patriarch.
-
-Accordingly, the missing naval soldier has been arrested by the police with 56 rifles, bullets and Megazin, according to the investigation.. Remble
-
-◼️
-
-[Data](articles/f915f63f.json)
-
-[Extended Data](ext_articles/f915f63f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 02:13:30**
+As of **2024-12-27 02:27:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,700 (99.2%) of 62,193 articles have been extended.
+61,702 (99.2%) of 62,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,39 +148,59 @@ In the meantime, Manmohan Singh died after being admitted to the Delhi AIIMS hos
 
 ---
 
-### ඉන්දියාවට පලාගිය අඹුසැමියන් ගුවන්තොටේදී අත්අඩංගුවට
+### Heads of India arrested in airport
 
 *2024-12-26 22:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204756) · `si`
 
-මූල්‍ය වංචාවක් සිදුකර බෝට්ටුවකින් ඉන්දියාවට පළා ගිය අඹුසැමි යුවළක් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපළේදී අද (26) අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of 200 characters:
 
-මෙම අඹුසැමි යුවල මීට වසර 3කට පෙර රුපියල් මිලියන 1,600ක මූල්‍ය වංචාවක් ඉන්දියාවට පළාගොස් තිබේ.
+
+
+Couple flees financial fraud worth 1600 million to India. Arrested at Bandaranaike International Airport after fleeing by boat.
+
+🟩
+
+A couple, who fled a boat to India with a boat, was arrested at the Bandaranaike International Airport today (26).
+
+The couple has fled to India a financial fraud of Rs. 1,600 million ago.
 
 ◼️
 
 [Data](articles/e248b950.json)
 
+[Extended Data](ext_articles/e248b950.ext.json)
+
 ---
 
-### ත්‍රිකුණාමලය මුහුදේ Target drone යානයක්
+### Target Drone aircraft in Trincomalee
 
 *2024-12-26 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204755) · `si`
 
-ත්‍රිකුණාමලයට ආසන්න මුහුදේ පාවෙමින් තිබූ කුඩා ගුවන් යානයක් ධීවරයන් පිරිසකට හමුවී තිබේ.
+Here's a summary in 200 characters:
 
-මේ සම්බන්ධයෙන් කළ විමසීමකදී ගුවන් හමුදා මාධ්‍ය ප්‍රකාශක ගෘප් කැප්ටන් එරන්ද ගීගනගේ මහතා පවසා සිටියේ, මෙය ටාගට් ඩ්‍රෝන් වර්ගයේ යානයක් බවයි.
 
-මෙවැනි වර්ගයේ යානයක් මීට පෙර 2020 වසරේදී හමු වූ බවත් හෙතෙම පැවසීය.
 
-කිලෝ 40ක් පමණ බරකින් යුත් මෙවැනි යානා ඉන්දියානු ගුවන් හමුදාව පුහුණු සැසිවල ඉලක්ක ලෙස භාවිත කරන බව එවර සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත.
+Target drone spotted off Trincomalee coast. Air Force confirms it's a training aircraft used by Indian Air Force. No explosives found. Investigation ongoing.
 
-කෙසේ නමුත් මෙවර සොයාගත් ගුවන් යානය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමට විශේෂ කණ්ඩායමකන් පත්කර තිබේ.
+🟩
 
-වැඩිදුරටත් අදහස් දැක්වූ ගුවන් හමුදා මාධ්‍ය ප්‍රකාශකරයා පවසා සිටියේ, මෙම යානය හානි දායක නොවන බවත්, පුපුරණ ද්‍රව්‍ය කිසිවක් හමු වී නොමැති බවත්ය.
+Fishermen were found in the sea floating in the sea near Trincomalee.
+
+Upon inquiry, Air Force Spokesperson Group of Captain Ereree Geegana said this was a target drone.
+
+He was found in the 2020s in 2020 this kind of aircraft.
+
+Investigations have revealed that the Indian Air Force is use of 40kg of training sessions.
+
+However, special group has been appointed to investigate the aircraft.
+
+Speaking further the Air Force Spokesperson said that the aircraft would not be damaged, there was no explosives.
 
 ◼️
 
 [Data](articles/29ea7a39.json)
+
+[Extended Data](ext_articles/29ea7a39.ext.json)
 
 ---
 

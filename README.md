@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 14:16:01**
+As of **2024-12-26 14:43:06**
 
 ## Newspaper Stats
 
-*Scraped **62,130** Articles*
+*Scraped **62,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,764
 economynextcom | 3,780
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,931
+adalk | 5,932
 adaderanalk | 7,586
 tamilmirrorlk | 8,910
 virakesarilk | 10,289
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,654 (99.2%) of 62,130 articles have been extended.
+61,655 (99.2%) of 62,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### 2024 මෙරටට පැමිණි සංචාරකයන් ප්‍රමාණය ලක්ෂ 20 ඉක්මවයි
+
+*2024-12-26 13:20:53* · [`adalk`](https://www.ada.lk/breaking_news/2024-මෙරටට-පැමිණි-සංචාරකයන්-ප්‍රමාණය-ලක්ෂ-20-ඉක්මවයි/11-413851) · `si`
+
+මෙම වසරේ මෙරටට පැමිණි සංචාරකයන් ප්‍රමාණය ලක්ෂ 20 ඉක්මවා ගොස් තිබේ.
+
+ඒ අනුව අද(26දා) පෙරවරුවේ ලක්ෂ 20 වැනි සංචාරකය කටුනායක ගුවන් තොටුපොලෙන් මෙරටට පැමිණ ඇත.
+
+◼️
+
+[Data](articles/84da277c.json)
+
+---
 
 ### Hatton driver
 
@@ -118,25 +132,41 @@ He said that former President Ranil Wickremesinghe has prepared a program to rel
 
 ---
 
-### 20 වසරක කදුළු කතාව
+### 20 year tear story
 
 *2024-12-26 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204738) · `si`
 
-ලෝක ඉතිහාසයට අඳුරු මතකයක් එක්කරමින් ශ්‍රී ලංකාව ඇතුළු රටවල් රැසක ලක්ෂ තුනකට අධික පිරිසකගේ ජීවිත බිලිගත් සුනාමි ඛේදවාචකයට අදට (26) වසර 20ක් සපිරේ.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ මහා ඛේදවාචකයෙන් දිවි අහිමි වූ මෙරට ජනතාව සිහිකිරීම දිවයින පුරා අදත් සිදුකෙරුණි.
 
-2004 දෙසැම්බර් 26 වනදා ඉන්දුනීසියාවේ සුමාත්‍රා දූපතට ආසන්න මුහුදු පතුලේ ඇති වූ රික්ටර් පරිමාණයේ ඒකක 9.1 තරම් ප්‍රබල භූ කම්පනය අවසන් වූයේ රටවල් රැසක ජීවිත ලක්ෂ ගණනක් බිලිගනිමිනි.
 
-උදෑසන 6.58ට පමණ සුමත්‍රා දූපත ආසන්නයේ හටගත් සුනාමි රළ අතරින් ප්‍රබලතම උදම් රළ පහර ඉන් පැය දෙකකට පමණ පසු ශ්‍රී ලංකාවට ළඟා වුයේ පැයට කිලෝමීටර් 800ක තරම් වේගයකිනි. ඒ උදෑසන 09.26ට පමණි.
+Tsunami tragedy on Dec 26, 2004, near Sumatra Island killed 14,000 people across many countries. A memorial service was held today, recalling loved ones lost two decades ago. Special train ran from Colombo Fort Railway Station to honor tsunami victims. National Safety Day events were organized nationwide to address the disaster. The tragedy remains etched in Sri Lankan hearts as one of the world's worst natural disasters.
 
-චණ්ඩ රළ පහර මිනිත්තු කිහිපයක් තුළ මෙරට ජීවිත 35,000කට අධික සංඛ්‍යාවක් බිලිගනිමින් රුපියල් කෝටි ගණනක දේපොළද විනාශ කළේ සිදුවූයේ කුමක්ද යන්න පවා සිතන්නට කාලයක් ඉතිරි නොකරමිනි.
+🟩
 
-මීට විසි වසරකට පෙර මෙම මහා ඛේදවාචකයෙන් රළ අතර සැඟවුණු ආදරණීයයන් සිහිපත් කරමින් වාර්ෂිකව සිදුකරන නිහඬතාව සුරැකීම, අදත් පෙරවරු 09.25 සිට පෙරවරු 09.27 දක්වා මිනිත්තු 02ක කාලයක් මුළුල්ලේ සිදුකෙරුණි.
+The Tsunami tragedy for more than three million countries including a dark memory to world history
+
+The people of this country have been throughout the island today.
+
+On December 26, 2004, the earthquake, which occurred at the sea floor near the Sumatra Island, near the Sumatra Island, has ended up to 14,000 lives in many countries.
+
+About two hours of the tsunami waves near Sumatra island near Sumatra islaw nearly 800 km long hours. Only 09.26 am.
+
+Not a time to destroy the Rs.
+
+The saving of the annual silence, recalling the hidden loved ones before twenty years ago, the annual preservation was held today from 09.25 am to 09.27 am.
+
+The relatives, including the relatives, did not forget to recall their loved ones, who lived the ladies.
+
+Due to the tsunami tragedy, a special train was driven from Colombo Fort Railway Station this morning.
+
+The train is the engine of the train to the train in the tsunami tragedy.
 
 ...
 
 [Data](articles/36afd5a3.json)
+
+[Extended Data](ext_articles/36afd5a3.ext.json)
 
 ---
 
@@ -2383,31 +2413,5 @@ Rt. Rev. Dr. Valence Mendis, Bishop of Kandy diocese attended the festivities as
 ...
 
 [Data](articles/864ca13b.json)
-
----
-
-### “People do not request the release of military lands”
-
-*2024-12-25 18:40:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-காணிகளை-விடுவிக்க-மக்கள்-கோரவில்லை/175-349287) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Northern Sri Lanka residents don't demand military land releases. Governor says people expect gradual land handovers, but progress halted due to political instability. Residents hope for agricultural use of freed lands."
-
-🟩
-
-Northern people do not demand the release of the lands of the military. The Governor of the Northern Province, Navatanayagan, said that I had told me to take the people of the South to the people of Sri Lanka to make it clear that they were demanding the release of their own lands.
-
-A discussion on agricultural action on the lands headed by the Governor of the Northern Province at the invitation of the people of Vayavilan, Palali South and Palali East was held on Wednesday morning at the Poonayankadu Hindu Cemetery.
-
-Underakumaran commented on behalf of the people of the area, Governor of the Northern Province Vedanayan. We cannot act as we now toppled. We fully believe that the governor will take steps to release our lands in phase.
-
-...
-
-[Data](articles/15aedadc.json)
-
-[Extended Data](ext_articles/15aedadc.ext.json)
 
 ---

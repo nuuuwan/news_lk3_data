@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 14:02:49**
+As of **2024-12-26 14:16:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,653 (99.2%) of 62,130 articles have been extended.
+61,654 (99.2%) of 62,130 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,21 +88,33 @@ Many people comment that this eagle is the national bird of the United States. B
 
 ---
 
-### பணத்தை கொள்ளையடித்தவர்கள் நிதி சிக்கலில் உள்ளனர்
+### Those who robbed money are in financial trouble
 
 *2024-12-26 13:08:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணத்தை-கொள்ளையடித்தவர்கள்-நிதி-சிக்கலில்-உள்ளனர்/175-349320) · `ta`
 
-ஜனாதிபதி நிதியத்தில் இருந்து பணம் பெற்ற அமைச்சர்கள் சிலர் உண்மையில் நிதி சிக்கலில் உள்ளதாக முன்னாள் பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-10 இலட்சம், 20 இலட்சம், 30 இலட்சம் என எம்.பி., பெற்றுக் கொண்டதாகவும், அவர்களுக்கு ஆதரவளிப்பது நல்லது எனவும் தெரிவித்தார்.
 
-அவர் மேலும் தெரிவிக்கையில் : “சில அமைச்சர்கள் தமது அதிகாரத்தை பயன்படுத்தி ஜனாதிபதி நிதியத்தில் இருந்து 2300 400 இலட்சம் ரூபாவை பெற்றுக்கொண்டனர்  அது பிழை அது பணத்தை துஷ்பிரயோகம் வெய்வதந்கு சமம்.
 
-பணம் வைத்திருக்கும் அமைச்சர்களும் அங்கிருந்து பணத்தை எடுத்துள்ளனர். அந்த நிதியில் இருந்து நான் ஐந்து சதத்தை எடுக்கவில்லை எனவும், ஆனால் இதயநோயாளிகளுக்காக தலையிட்டு சிறுநீரக நோயாளர்களுக்கான நிதியில் இருந்து பணத்தை பெற்றுக் கொண்டதாக தெரிவித்த எம்.பி., அந்த நிதியில் இருந்து சாமானியர்களுக்கு மெதுவான முறையில் பணம் விடுவிக்கப்படுவதாகவும்” தெரிவித்தார்.
+"Former MP SB Dissanayake claims some ministers took money from the presidential fund due to financial troubles. He received 10-30 lakhs himself. Ministers allegedly used power to access 2400 crores. Dissanayake denies taking 5% but helped fundraise for heart and kidney patients. Former President Ranil Wickremesinghe plans to release funds soon."
 
-...
+🟩
+
+Former MP SB Dissanayake has said that some ministers who have received money from the presidential fund are actually in financial trouble.
+
+The MP has received 10 lakhs, 20 lakhs and 30 lakhs and it is better to support them.
+
+He added: “Some ministers used their power to get 2300 400 lakhs of rupees from the Presidential Fund.
+
+The ministers who have money have taken the money from there. The MP said that I did not take five percent from the fund, but that he had intervened for the heart disease and received money from the funds for kidney patients.
+
+He said that former President Ranil Wickremesinghe has prepared a program to release the money in a few days from the fund and he should contribute to it.
+
+◼️
 
 [Data](articles/f06f90ce.json)
+
+[Extended Data](ext_articles/f06f90ce.ext.json)
 
 ---
 

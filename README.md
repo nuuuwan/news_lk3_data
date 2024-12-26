@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 00:16:45**
+As of **2024-12-27 00:43:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,693 (99.2%) of 62,189 articles have been extended.
+61,694 (99.2%) of 62,189 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -117,6 +117,8 @@ The Sea Phase, which began on December 19, featured joint exercises conducted by
 ...
 
 [Data](articles/fc205de8.json)
+
+[Extended Data](ext_articles/fc205de8.ext.json)
 
 ---
 

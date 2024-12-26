@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 08:46:52**
+As of **2024-12-26 09:02:42**
 
 ## Newspaper Stats
 
-*Scraped **62,079** Articles*
+*Scraped **62,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,926
 adaderanalk | 7,578
-tamilmirrorlk | 8,891
+tamilmirrorlk | 8,892
 virakesarilk | 10,280
 adaderanasinhalalk | 10,723
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,723
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,631 (99.3%) of 62,079 articles have been extended.
+61,632 (99.3%) of 62,080 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,27 +90,37 @@ The remains are placed at the Karapitiya Hospital and Hikkaduwa Police are inves
 
 ---
 
-### විසි ලක්ෂයේ සංචාරකයා අද දිවයිනට
+### Twenty-thousand visitor to the island
 
 *2024-12-26 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204729) · `si`
 
-මෙම වසර තුළ දිවයිනට පැමිණෙන විසි ලක්ෂයේ විදෙස් සංචාරකයා අද (26) දිනය තුළ පිළිගැනීමට සුදානමින් සිටින බව සංචාරක අමාත්‍යාංශය පවසයි.
+Sri Lanka tourism: 20,000 visitors expected in 2023. Foreign tourists arrived in record numbers, with India leading at 399,224. Russia, Germany, and Australia also popular destinations. Tourism Minister predicts end-of-year arrivals.
 
-ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශය මඟින් කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළේදී විසි ලක්ෂයේ සංචාරකයා පිළිගැනීම සඳහා අද (26) පෙරවරුවේ උත්සවයක්ද සංවිධානය කර ඇති බව සංචාරක නියෝජ්‍ය අමාත්‍ය මහාචාර්ය රුවන් රණසිංහ මහතා සඳහන් කළේය.
+🟩
 
-මේ වසරේ ආරම්භයේ සිට දෙසැම්බර් 22 වැනිදා දක්වා මෙරටට පැමිණි මුළු විදෙස් සංචාරකයින් ප්‍රමාණය  1,966,256ක් වේ.
+The Ministry of Tourism says that the foreign tourist tour will be accepted in the island this year (26).
 
-දෙසැම්බර් මාසය තුළ පමණක් සංචාරකයින් 161,383න් දෙනෙකු දිවයිනට පැමිණ ඇති බව වාර්තා වේ.
+Deputy Minister of Tourism Professor Ruwan Ranasinghe said that a ceremony was organized by the Sri Lanka Tourism Promotion of Tuesday at the Bandaranaike International Airport.
 
-ඔවුන්ගෙන්  වැඩිම පිරිසක් ඉන්දියාවෙන් පැමිණ ඇති අතර එම සංඛ්‍යාව 35,131කි.
+The total number of foreign tourists who had arrived in Sri Lanka from the beginning of this year to December 22, the total number of foreign tourists arrived at 1,966,256.
 
-රුසියාවෙන් සංචාරකයින් 22,637ක් , බ්‍රිතාන්‍යයෙන් 12,822ක්, ජර්මනියෙන් 9,998ක් සහ ඔස්ට්‍රේලියාවෙන් 8,646ක් දෙසැම්බර් මාසය තුළ දිවයිනට පැමිණ තිබේ.
+161,383 tourists have arrived in the island during the month of December alone.
 
-මේ වසරේ ගතවු කාලය තුළ වැඩිම සංචාරකයින් පිරිසක් වන 399,224ක් පැමිණ ඇත්තේ ඉන්දියාවෙන් වන අතර රුසියාවෙන් සංචාරකයින් 189,289ක් පැමිණ ඇති බව සංචාරක සංවර්ධන මණ්ඩලය සඳහන් කළේය.
+Most of them have arrived from India and the number is 35,131.
 
-...
+22,637 tourists from Russia and 9,998 from Germany and 8,646 from Australia have arrived in the island in December.
+
+The highest number of tourist people were 399,224 in India.
+
+There were 172,404 tourists from Britain and 131,379 from Germany and 86,440 from France.
+
+Meanwhile, Traveling Minister Professor Ruwan Ranasinghe said that the end of the tourists will arrive in the island by the end of the year.
+
+◼️
 
 [Data](articles/f7e52c76.json)
+
+[Extended Data](ext_articles/f7e52c76.ext.json)
 
 ---
 
@@ -191,6 +201,22 @@ Meanwhile, on December 26, 2004, the tsunami of the 9.1 McNett -magnitude earthq
 ◼️
 
 [Data](articles/a919156d.json)
+
+---
+
+### அதி உயர் டெங்கு அபாயம்
+
+*2024-12-26 03:25:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதி-உயர்-டெங்கு-அபாயம்/175-349296) · `ta`
+
+நாட்டில் இனங்காணப்படும் டெங்கு நோயாளர்களின் எண்ணிக்கை அதிகரிப்பைத் தொடர்ந்து 15 சுகாதார மருத்துவ அதிகாரப் பிரிவுகள் அதி உயர் டெங்கு அபாயமிக்க பகுதிகளாக அடையாளப்படுத்தப்பட்டுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+
+இம்மாதம் 17 ஆம் திகதி நாடளாவிய ரீதியில் 47 ஆயிரத்து 599 டெங்கு நோயாளர்கள் இனங்காணப்பட்டுள்ளனர். கடந்த மாதம் சுமார்  3,178  டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர். சில நாட்களாக நிலவிவந்த மழையுடன் கூடிய வானிலை மற்றும் வெள்ளப்பெருக்கு காரணமாக டெங்கு பரவல் அதிகரித்துள்ளமையை காணக் கூடியதாக உள்ளது. அதற்கமைய அனைத்து மாவட்டங்களிலும் பதிவாகக்கூடிய  டெங்கு நோயாளர்களின் வீதமும் சடுதியாக அதிகரித்துள்ளது.
+
+டெங்கு பரவலைக் கருத்திற் கொண்டு 15 சுகாதார மருத்துவ அதிகாரப் பிரிவுகள்  அதி உயர் டெங்கு அபாயம் மிக்க பகுதிகளாக அடையாளப்படுத்தப்பட்டுள்ளன. அத்தோடு டெங்கு காய்ச்சலால்   உயிரிழந்தவர்களின் எண்ணிக்கையும் 23 ஆக உயர்வடைந்துள்ளது.
+
+...
+
+[Data](articles/e074c9c1.json)
 
 ---
 
@@ -2495,25 +2521,5 @@ The United Nations has estimated that only 46 percent of the United Nations requ
 [Data](articles/4a444709.json)
 
 [Extended Data](ext_articles/4a444709.ext.json)
-
----
-
-### ADIC raises concerns over Excise chief’s proposal on illicit alcohol
-
-*2024-12-25 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104487/adic-raises-concerns-over-excise-chiefs-proposal-on-illicit-alcohol-) · `en`
-
-The Alcohol and Drug Information Centre (ADIC) has issued a statement regarding the proposal by the Commissioner General of Excise to introduce alcohol at a lower price.
-
-The ADIC argues that the proposal aims to increase alcohol consumption among the population by reducing its price under the pretense of reducing illegal alcohol sales, thereby creating a favorable situation for alcohol companies.
-
-The statement references the World Health Organization (WHO), which advocates for increasing taxes on alcohol and cigarettes as an effective method for controlling consumption.
-
-The ADIC supports this stance, asserting that raising excise taxes is a scientifically confirmed strategy to reduce alcohol consumption and minimize new alcohol users. The WHO and other research institutions have long supported this approach, it said.
-
-...
-
-[Data](articles/06cb7bc8.json)
-
-[Extended Data](ext_articles/06cb7bc8.ext.json)
 
 ---

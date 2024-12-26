@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 13:12:30**
+As of **2024-12-26 13:43:59**
 
 ## Newspaper Stats
 
-*Scraped **62,126** Articles*
+*Scraped **62,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,764
 economynextcom | 3,780
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,930
+adalk | 5,931
 adaderanalk | 7,586
-tamilmirrorlk | 8,907
+tamilmirrorlk | 8,910
 virakesarilk | 10,289
 adaderanasinhalalk | 10,730
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 10,730
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,651 (99.2%) of 62,126 articles have been extended.
+61,653 (99.2%) of 62,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### Hatton driver
+
+*2024-12-26 13:20:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-சாரதிக்கு-விளக்கமறியல்-நீடிப்பு/76-349322) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Hatton Magistrate orders detention until 01.07.2025 for private bus driver involved in crash killing 3, injuring 51. Driver's explanation extended."
+
+🟩
+
+Hatton Magistrate M. Barukdeen ordered the suspected driver to be kept in detention until 01.07.2025 when the Hatton private bus driver was re -presented at the Hatton Magistrate's Court on Thursday (26).
+
+The Nuwara Eliya district chief motor vehicle inspector and Hatton police appealed to the magistrate on Thursday (26) that the suspects should be remanded until the 7th of next month.
+
+Considering the facts presented by Hatton police in court, the magistrate ordered the suspect's explanation.
+
+The explanation of the 46 -year -old Prashasanna Bandara, the father of three children living in Navalapitiya, Navalapitiya, has been extended.
+
+A private bus traveling from Hatton to Kandy on the 21st of this month crashed into a tea estate on the Hatton Malliyappu area on the Hatton Colombo main road.. In which three were killed. 51 people were injured and admitted to Tikoya-Klangan Hospital. Eight people were transferred to the Kandy Teaching Hospital.
+
+◼️
+
+[Data](articles/e16760d9.json)
+
+[Extended Data](ext_articles/e16760d9.ext.json)
+
+---
+
+### The national bird of the United States of America
+
+*2024-12-26 13:12:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவின்-தேசிய-பறவை-வெண்தலைக்-கழுகு/50-349321) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The Bald Eagle is the official national bird of the USA since 1782. It appears on U.S. government seals and documents. While widely considered the national bird, its status was only officially confirmed in 1940. The question about Trump's presidency is unrelated to the eagle's symbolism.
+
+🟩
+
+The question arises as to whether Trump will be sworn in as president next month, as the current President of the United States has signed the National Bird Eagle.
+
+The symbol is being inscribed in all the US government documents, as the US government stamps in the United States in 1782.. In the meantime, the ventricle has been a symbol of the US government for the past 240 years.
+
+Many people comment that this eagle is the national bird of the United States. But in fact, it has not been officially recognized by the state as the national bird of the United States.
+
+◼️
+
+[Data](articles/1d926840.json)
+
+[Extended Data](ext_articles/1d926840.ext.json)
+
+---
+
+### பணத்தை கொள்ளையடித்தவர்கள் நிதி சிக்கலில் உள்ளனர்
+
+*2024-12-26 13:08:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணத்தை-கொள்ளையடித்தவர்கள்-நிதி-சிக்கலில்-உள்ளனர்/175-349320) · `ta`
+
+ஜனாதிபதி நிதியத்தில் இருந்து பணம் பெற்ற அமைச்சர்கள் சிலர் உண்மையில் நிதி சிக்கலில் உள்ளதாக முன்னாள் பாராளுமன்ற உறுப்பினர் எஸ்.பி.திஸாநாயக்க தெரிவித்துள்ளார்.
+
+10 இலட்சம், 20 இலட்சம், 30 இலட்சம் என எம்.பி., பெற்றுக் கொண்டதாகவும், அவர்களுக்கு ஆதரவளிப்பது நல்லது எனவும் தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில் : “சில அமைச்சர்கள் தமது அதிகாரத்தை பயன்படுத்தி ஜனாதிபதி நிதியத்தில் இருந்து 2300 400 இலட்சம் ரூபாவை பெற்றுக்கொண்டனர்  அது பிழை அது பணத்தை துஷ்பிரயோகம் வெய்வதந்கு சமம்.
+
+பணம் வைத்திருக்கும் அமைச்சர்களும் அங்கிருந்து பணத்தை எடுத்துள்ளனர். அந்த நிதியில் இருந்து நான் ஐந்து சதத்தை எடுக்கவில்லை எனவும், ஆனால் இதயநோயாளிகளுக்காக தலையிட்டு சிறுநீரக நோயாளர்களுக்கான நிதியில் இருந்து பணத்தை பெற்றுக் கொண்டதாக தெரிவித்த எம்.பி., அந்த நிதியில் இருந்து சாமானியர்களுக்கு மெதுவான முறையில் பணம் விடுவிக்கப்படுவதாகவும்” தெரிவித்தார்.
+
+...
+
+[Data](articles/f06f90ce.json)
+
+---
 
 ### 20 වසරක කදුළු කතාව
 
@@ -69,6 +143,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/967f4e82.json)
+
+---
+
+### සුනාමි ව්‍යසනයට අදට වසර 20යි
+
+*2024-12-26 12:33:21* · [`adalk`](https://www.ada.lk/breaking_news/සුනාමි-ව්‍යසනයට-අදට-වසර-20යි/11-413850) · `si`
+
+මෙම ව්‍යයසනය හේතුවෙන් මෙරට පද්ගලයන් 35,000ට අධික පිරිසක් බිලි විය.
+
+වසර 20ක් සපිරෙන අද දිනයේදී ජීවිතක්ෂයට පත් වූ සියලු දෙනා සිහි කරමින් පෙරවරුවේ විනාඩි 2ක නිශ්ෂබ්දතාවයක් පැවැත්වීමට කටයුතු කළේය.
+
+◼️
+
+[Data](articles/1b65ec32.json)
 
 ---
 
@@ -2309,75 +2397,5 @@ Underakumaran commented on behalf of the people of the area, Governor of the Nor
 [Data](articles/15aedadc.json)
 
 [Extended Data](ext_articles/15aedadc.ext.json)
-
----
-
-### New Chinese air conditioner enters Sri Lanka partnering with Ranjan Lanka
-
-*2024-12-25 18:38:00* · [`islandlk`](http://island.lk/new-chinese-air-conditioner-enters-sri-lanka-partnering-with-ranjan-lanka/) · `en`
-
-Ranjan Lanka Private Limited, a trusted name in retail for over five decades, has stepped into the air conditioning (AC) market with the introduction of the Zero brand ACs. Imported from Zero Technologies in China, these ACs are designed to cater to small offices, houses, and apartments. The Zero brand ACs are available in two ranges: non-inverter units with capacities from 9,000 to 12,000 (British Thermal Units) BTU, and inverter units ranging from 12,000 to 18,000 BTU. These models are being introduced to the general market for the first time, with the initial launch held in Gampaha. The company plans to distribute the units island-wide from its warehouse in Gampaha and is also seeking dealers to expand their reach.
-
-...
-
-[Data](articles/6310231e.json)
-
----
-
-### Melwa supporting the development of motorcycle racing industry in Sri Lanka
-
-*2024-12-25 18:38:00* · [`islandlk`](http://island.lk/melwa-supporting-the-development-of-motorcycle-racing-industry-in-sri-lanka/) · `en`
-
-Sri Lanka’s leading steel manufacturer, MELWA showcased the outstanding achievements of its riders, Kushan Chamod and Janith Chameera, at two major racing events. At the Katukuruda Races organized by the Sri Lanka Association of Racing Drivers and Riders (SLARDAR), Chamod displayed his dominance on the track by securing first place in the 600 cubic capacity (cc) event and an impressive second place in the 1000cc event. Janith Chameera also made waves, clinching first place in the Tracker event, cementing MELWA’S association with racing excellence.
-
-The spotlight continued to shine on the MELWA TEAM at the Sri Lanka Autosport Drivers’ Association (SLADA) Rotherham-Katukurunda Tarmac Race. In the thrilling 1000cc Grand Prix event spanning 22 laps, Kushan Chamod rode his Honda CBR1000 to a sensational first-place finish. Meanwhile, Chameera, riding a Honda CBR600, secured a commendable fourth place, showcasing determination and skill against tough competition.
-
-...
-
-[Data](articles/930b3753.json)
-
----
-
-### Evergreen Group emerges as the largest tea producing group
-
-*2024-12-25 18:35:00* · [`islandlk`](http://island.lk/evergreen-group-emerges-as-the-largest-tea-producing-group/) · `en`
-
-Evergreen Group situated in Horangalla, Thalgaswela in Galle district produced & sold the highest quantity of tea for a group in Sri Lanka in the year 2024 selling 9,896,378 kgs.
-
-Aruna de Silva is the Chairman of Evergreen Group of Companies. The overall operations are spearheaded by Senal de Silva (Deputy Chairman), Minul de Silva (Director) and Dushara Shanka (Director Rekadahena Plantations). This group produces both Orthodox & CTC teas. The factories under this entity are also certified with RA & ISO certificates with around 30,000 small holders supplying green leaf to the factories. The group employs over 4000 people from the area.
-
-Evergreen group is one of the largest tea producing groups in Sri Lanka with 13 factories under their operations namely, Evergreen, Brombil, Thundola, Talangaha, Katandola, Wathurawila, Walahanduwa, Hill Garden, Rekadahena, Kanneliya, Lihiniyawa and Marakanda, Devithurai.
-
-New Chinese air conditioner enters Sri Lanka partnering with Ranjan Lanka
-
-...
-
-[Data](articles/414f75ac.json)
-
----
-
-### Police Special Task Force to prevent night theft
-
-*2024-12-25 18:34:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவுநேரத்-திருட்டைத்-தடுக்க-பொலிஸ்-விசேட-அதிரடிப்படையினர்/175-349286) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Police STF deployed to stop night-time theft of power lines on Katunayake-Colombo Highway. Road Development Authority requests Public Security Minister to act on directive from Minister Bimal Ratnayake."
-
-🟩
-
-The Ministry of Highways, Ports and Civil Aviation Services said that police Special Task Force (STF) will be deployed to prevent theft of power lines on the Katunayake-Colombo Highway.
-
-The Road Development Authority has asked the Public Security Minister Ananda Wijebala to take action on the directive of Minister Bimal Ratnayake.
-
-According to the report, the police patrol at Expressway after night to prevent the thieves from cutting off electric cables. This is a relentless offense by addiction, the ministry said.
-
-◼️
-
-[Data](articles/5555df18.json)
-
-[Extended Data](ext_articles/5555df18.ext.json)
 
 ---

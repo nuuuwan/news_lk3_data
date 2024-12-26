@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 16:27:36**
+As of **2024-12-26 16:42:55**
 
 ## Newspaper Stats
 
-*Scraped **62,149** Articles*
+*Scraped **62,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,764
 economynextcom | 3,782
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,934
+adalk | 5,935
 adaderanalk | 7,588
-tamilmirrorlk | 8,913
+tamilmirrorlk | 8,914
 virakesarilk | 10,292
 adaderanasinhalalk | 10,736
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,736
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,661 (99.2%) of 62,149 articles have been extended.
+61,662 (99.2%) of 62,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
+
+### ’என்னை பேய் என நினைத்தனர்’
+
+*2024-12-26 16:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/என்னை-பேய்-என-நினைத்தனர்/50-349329) · `ta`
+
+கடந்த 2004-ல் சுனாமி ஏற்பட்டபோது மூன்று வாரங்களாக இந்தோனீசியாவை சேர்ந்த இந்த சிறுவன் தனியாக இருந்து உயிர்பிழைத்துள்ளார்.
+
+சுனாமியில் அவருடைய தாய் மற்றும் உடன்பிறந்த இருவரும் இறந்துவிட்டனர். பல நாட்கள் உணவில்லாமல் தவித்துள்ளார். 20 ஆண்டுகள் கழிந்தும் அந்த அதிர்ச்சியிலிருந்து அவர் வெளியே வரவில்லை.
+
+இவருடைய புகைப்படங்கள் வைரலாகவே, கால்பந்து வீரர் ரொனால்டோ இவருக்கு உதவியுள்ளார். தற்போது, இந்தோனீசியாவில் கன்டென்ட் கிரியேட்டராக பணிபுரிகிறார். (பிபிசி)
+
+◼️
+
+[Data](articles/0ce0224e.json)
+
+---
+
+### කොටස් වෙළඳපොළ අදත් දැවැන්ත වර්ධනයක
+
+*2024-12-26 15:53:14* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-දැවැන්ත-වර්ධනයක/11-413854) · `si`
+
+කොළඹ කොටස් වෙළඳපොළ අද දිනයේද දැවැන්ත වර්ධනයක් පෙන්නුම් කළේය. ඒ අනුව සමස්ත කොටස් මිල දර්ශකය ඒකක 232කින් ඉහළ ගොස් සමස්ත ඒකක 15 400ක් දක්වා ඉහළ ගියේය.
+
+එසේම එස්. ඇන්ඩ්. පී. මිල දර්ශකය ඒකක 67කින් ඉහළ ගොස් 4602ක් දක්වා වර්ධනය වී තිබේ.  එසේම වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 7ක් වැනි ඉහළ අගයක් පෙන්නුම් කළේය.
+
+◼️
+
+[Data](articles/6813d19f.json)
+
+---
 
 ### Paraliya Tsunami Celebration
 
@@ -118,23 +148,33 @@ In addition, police have found that the fire cab belonged to a Colombo area and 
 
 ---
 
-### රාජ්‍ය නිලධාරීන් හදිසියේ මාරු කිරීමක් ගැන සජබයෙන් අනාවරණයක්
+### Ejizaki revealed that state officials suddenly transferred
 
 *2024-12-26 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204745) · `si`
 
-රාජ්‍ය නිලධාරීන් සඳහා පිළිගත නොහැකි තර්කානුකූල නොවන පදනමකින් සේවා ස්ථාන මාරු කිරීමේ සැලසුම් සහගත වැඩපිළිවෙලක් ක්‍රියාත්මක වන බව සමගි ජන බලවේගය පවසයි.
+Here's a summary of 200 characters:
 
-එම පක්ෂයේ මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී රංජිත් මද්දුම බණ්ඩාර මහතා නිවේදනයක් නිකුත් කරමින් ඒ බව පෙන්වා දෙයි.
 
-එහි දැක්වෙන්නේ, පළාත් පාලන සහකාර කොමසාරිස්වරු, පළාත් පාලන ආයතන ලේකම්වරුන් මෙන්ම සමූපකාර සහකාර සංවර්ධන කොමසාරිස් වැනි මාණ්ඩලික මෙන්ම ක්ෂේත්‍ර නිලධාරීන් ට ද මෙය බලපා ඇති බවට වාර්තා වන බවය.
 
-රාජ්‍ය සේවයේ ස්වාධීනත්වය තහවුරු කිරීමට කටයුතු කරනවා යැයි පොරොන්දුවක් ලබාදෙමින් බලයට පැමිණි ආණ්ඩුව මෙලෙස කටයුතු කිරීම ගැටළු සහගත බව එම නිවේදනයේ සඳහන් ය.
+State officials unexpectedly transferred due to a controversial plan. UNP General Secretary criticizes government for politicizing public service. Transfers affect various positions including local government officials. Party claims this undermines civil service independence and causes personal problems for officers.
 
-තවමත් අවසන් නැති හා නුදුරේම පැවැත්වීමට නියමිත පළාත් පාලන මැතිවරණය හා මේ දිනවල පැවැත්වෙන සමූපකාර සංගම් ඡන්ද විමසීම් හේතුවෙන් පෙර නොවූ විරූ අයුරින් රාජ්‍ය සේවය තුළ සීග්‍ර ලෙස දේශපාලනීකරණය වීමක් සිදුවෙමින් පැවතීම, ඉදිරි මැතිවරණ ඉලක්ක කොටගත් වැඩපිළිවෙළක් ලෙස ආණ්ඩුව ක්‍රියාත්මක කරන බව පැහැදිලිවම දක්නට ලැබෙන බව එම පක්ෂය පවසයි.
+🟩
+
+Along with a planned program of transferring to the public officials, a planned program is being implemented on an unacceptable reasonable basis.
+
+UNP General Secretary MP Ranjith Madduma Bandara issues a statement
+
+It is reported that the Commissioner of Local Government, the Assistant Commissioners, Local Authorities as well as the Cooperatives Assistant Development Commissioner is reportedly affected by the Commissioner of Cooperatives.
+
+The statement states that the government who has promised to promote the independence of the public service, it is problematic.
+
+The party says that the government is experiencing unprecedented politicizing in the public service as an unprecedented politicization of the public service and the public service elections in the public service, which is not yet to be over and the nominal local government elections..
 
 ...
 
 [Data](articles/3211fbfa.json)
+
+[Extended Data](ext_articles/3211fbfa.ext.json)
 
 ---
 
@@ -2353,57 +2393,5 @@ The Presidential Fund was established in 1978 to help the poor and improve their
 [Data](articles/3470a4d5.json)
 
 [Extended Data](ext_articles/3470a4d5.ext.json)
-
----
-
-### Senem, who found children, Christmas
-
-*2024-12-25 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204723) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Children found Christmas joy worldwide. In Vatican, Pope emphasized peace and justice. Bethlehem birth skipped due to Gaza attack. Unique celebrations in Sri Lanka, including Buddhist participation. Special programs for children in Jaffna and elsewhere. Military support for festivities. New books gifted to students.
-
-🟩
-
-The world's mainstream Christmas, was held at St. Peter's Basilica Church, Vatican, regarding the Holy City of Christians.
-
-The Pope His Holy Pope pointed out that the brites should be made to create peace and justice.
-
-Christmas, however, did not have the birth of Bethlehem this year. It was due to the attack on the Gaza.
-
-The Vatican of Rome was unique to the Vatican of Christ's birth next year.
-
-Accordingly, the bronze portal of St. Peter's Basilic was the first of the greatest holy holy holy holy holy holy honorable Francis.
-
-The world's major cities have been added to Christmas.
-
-Meanwhile, the main Christmas Minister of Sri Lanka was held at the Narma Victory Buddhist Monitoring last night at the Narupari Buddhist Monaliz Kadinal Ranjith.
-
-Christmas Minister of Colombo is a supervision of the Colombo Assistant Bishop of Sri Lanka. D. Anthony was held in midnight yesterday.
-
-Tv Derana Creator MP Dilith Jayaweera and other distinguished guests joined the occasion.
-
-...
-
-[Data](articles/6c9216a0.json)
-
-[Extended Data](ext_articles/6c9216a0.ext.json)
-
----
-
-### Three including 2 children missing while sea bathing in Thirukkovil
-
-*2024-12-25 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104498/three-including-2-children-missing-while-sea-bathing-in-thirukkovil) · `en`
-
-Three individuals including two children are reported missing after being swept away by strong currents while bathing in the seas off Sangaman Kanda in Thirukkovil, the police said.
-
-◼️
-
-[Data](articles/de80253a.json)
-
-[Extended Data](ext_articles/de80253a.ext.json)
 
 ---

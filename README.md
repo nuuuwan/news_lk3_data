@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 04:01:33**
+As of **2024-12-27 04:27:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,708 (99.2%) of 62,198 articles have been extended.
+61,710 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -115,6 +115,8 @@ The Kithusara Movement this week held a protest against alleged Holocaust of Pal
 ◼️
 
 [Data](articles/5aaffffb.json)
+
+[Extended Data](ext_articles/5aaffffb.ext.json)
 
 ---
 
@@ -1240,27 +1242,39 @@ Also S. And. P. The price index has increased by 67 points to 4602 points.The ma
 
 ---
 
-### 'இத்துடன் எனது கதை முடிகின்றது என நான் நினைத்தது இன்றும் நினைவிலிருக்கின்றது "20 வருடங்களிற்கு முன்னர் இலங்கையில் சுனாமியில் சிக்கியவர்
+### I still remember what I thought my story ended with this "20 years ago
 
 *2024-12-26 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202208) · `ta`
 
-2004ம் ஆண்டு சுனாமி அனர்த்தம் மற்றும் அதன் 20 வருடங்கள்  குறித்து சனல் ஐலண்டை சேர்ந்த இருவர் பிபிசிக்கு தமது கருத்துக்களை தெரிவித்துள்ளனர்.
+Here's a 200-character summary of the text:
 
-வரலாற்றில் மிகவும் பயங்கரமான சுனாமி என கருதப்படும்  சுனாமி 2004 இல் இந்து சமுத்திரத்தை தாக்கியது. 225,000 பேரை இந்த சுனாமி பலிகொண்டதுடன் 1.7 மில்லியனிற்கும் அதிகமானவர்களை இடம்பெயரச்செய்தது.
 
-அதேவேளை கிராண்ட் பெல்தாம் இயற்கை அனர்த்தத்தின் பின்னர் இலங்கை மக்களிற்கு உதவுவதற்காக அங்கு சென்றிருந்தார்.
 
-நான் உயிரிழக்கப்போகின்றேன் என நினைத்த அந்த தருணம் எனக்கு நினைவிருக்கின்றது என தெரிவிக்கின்றார் ரோபி.
+"Survivor recalls 2004 tsunami horror: swept by waves, injured, trapped in hostel. Still haunted by nightmares 20 years later."
 
-ரோபி உனவடுன கடற்கரையில் தனது சகாவான ஜீன் பிரிச்சர்ட்டுடன் காலை உணவை சாப்பிட்டுக்கொண்டிருந்தார்.அவ்வேளையே சுனாமி தாககியது.
+🟩
 
-' என்னை சுனாமி அலைகள் காடுகள் ஊடாக கொண்டு சென்றன,சலவை இயந்திரத்தில்  அகப்பட்டது போல உணர்ந்தேன் என அவர் தெரிவிக்கின்றார்.
+Two of the Channel Island have expressed their views to the BBC about the 2004 tsunami and its 20 years.
 
-'சரி இத்துடன் எனது கதை முடிகின்றது என நான் நினைத்தது இன்றும் நினைவிலிருக்கின்றது ,46 வயதில் உயிரிழப்பது குறித்து நான் சிந்தித்து பார்க்கவில்லை"
+The tsunami, which is considered the most terrible tsunami in history, hit the Indian Ocean in 2004. The tsunami killed 225,000 people and displaced more than 1.7 million.
+
+At the same time, Grand Beltam had gone there to help the Sri Lankan people after the natural disaster.
+
+Robby says that I remember the moment I thought I was going to die.
+
+Robby was eating breakfast with his colleague Jean Brichord on the beach of Unawaduna.
+
+“The tsunami waves carried me through the forests and felt like it was caught in the laundry machine, he says.
+
+'Well, I still remember what I thought my story ended with this, I don't think of death at the age of 46 "
+
+"I firmly believed that my last moment had come," he added, adding that he added, "You will not think about anything else except that the shock is so strong.
 
 ...
 
 [Data](articles/8d7de168.json)
+
+[Extended Data](ext_articles/8d7de168.ext.json)
 
 ---
 

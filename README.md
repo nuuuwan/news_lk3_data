@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 10:15:27**
+As of **2024-12-26 10:27:34**
 
 ## Newspaper Stats
 
-*Scraped **62,087** Articles*
+*Scraped **62,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,89 @@ islandlk | 3,764
 economynextcom | 3,777
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,927
-adaderanalk | 7,578
+adalk | 5,928
+adaderanalk | 7,581
 tamilmirrorlk | 8,898
-virakesarilk | 10,280
+virakesarilk | 10,284
 adaderanasinhalalk | 10,723
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,639 (99.3%) of 62,087 articles have been extended.
+61,640 (99.3%) of 62,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### எரிந்த கெப் வண்டியில் இருந்து சடலம் மீட்பு
+### பண்டிகைக் காலங்களில் நிதி மோசடிகள் அதிகரிப்பு ; பொதுமக்களுக்கு எச்சரிக்கை
 
-*2024-12-26 09:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்த-கெப்-வண்டியில்-இருந்து-சடலம்-மீட்பு/175-349303) · `ta`
+*2024-12-26 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/202177) · `ta`
 
-எரிந்த கெப் வண்டியில் இருந்து ஆணொருவரின் சடலம் மீட்கப்பட்டுள்ள சம்பவம் மின்னேரிய பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+நத்தார் மற்றும் புத்தாண்டு காலப்பகுதியில் நிதி மோசடி முறைப்பாடுகள் கூர்மையாக அதிகரித்துள்ளதாகவும், ஒழுங்கமைக்கப்பட்ட குழுவொன்றே மீண்டும் பொதுமக்களிடம்  பாரியளவு மோசடி செய்வதாகவும்  கணினி அவசரகால தயார்நிலை குழுவின் (SLCERT) பிரதம தகவல் பாதுகாப்பு பொறியியலாளர் நிரோஷ் ஆனந்த தெரிவித்துள்ளார்.
 
-ஹபரணை- பொலன்னறுவை பிரதான வீதிக்கும் பதுஓயாவிற்கும் இடையில் 38 ஆவது கிலோமீற்றர் மைல்கல்லுக்கு அருகில் எரிந்த கெப் வண்டியொன்றில் இருந்து நபரொருவரின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக மின்னேரிய பொலிஸார் தெரிவிக்கின்றனர்.
+கணினி அவசரகால தயார்நிலை குழுவிற்கு மோசடி தொடர்பாக 25 சதவீதத்துக்கும் அதிகமாக முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளது.
 
-ஹபரணை மின்னேரிய வீதியில் பயணித்த நபர் ஒருவர், வாகனம் ஒன்று தீப்பிடித்து எரிவதாக மின்னேரிய பொலிஸாருக்கு அறிவித்ததையடுத்து மின்னேரிய பொலிஸார் குறித்த கெப் எரிந்து கொண்டிருப்பதை கண்டுள்ளனர்.
+எனவே, பொதுமக்கள் தங்களது வங்கிக் கணக்கு இலக்கங்களையோ, ஒருமுறை பயன்படுத்தக்கூடிய கடவுச்சொற்களையோ (OTP) மூன்றாம் தரப்பினரிடம் பகிர்ந்து கொள்ள வேண்டாம்.
 
-புதன்கிழமை (25) இரவு 10 மணியளவில் தீ பரவியதாகவும், தீ பரவும் போது கெப் ஹபரணையை நோக்கி நிறுத்தப்பட்டிருந்ததாகவும், அதில் வேறு யாரும் இருக்கவில்லை எனவும் மின்னேரிய பொலிஸார் தெரிவித்தனர். ஒருவரைக் கொன்று அவரது சடலத்தை கெப்பியில் வைத்து தீ வைத்து எரிப்பதற்காகவே கெப் இந்த பகுதிக்கு கொண்டு வரப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+பரிசு வவுச்சர்கள், பண கொடுப்பனவுகள் அல்லது குறியீட்டு எண்களை பகிர்தல் போன்ற காரணங்களை கூறி வங்கிக் கணக்கு  விவரங்களைக் கேட்டு கைத்தொலைப்பேசிகளுக்கு கோரிக்கைகள்  வரலாம்.
 
-மின்னேரியா பொலிஸாரும் பொலன்னறுவை மாநகரசபையின் தீயணைப்புத் திணைக்கள அதிகாரிகளும் வந்து பெரும் முயற்சியில் தீயை முழுமையாக அணைத்தனர்.
+பேஸ்புக் அல்லது வட்ஸ்அப் போன்ற பிரபலமான சமூக ஊடக தளங்கள் மூலம் லிங்குகளை பெறும்போது பொதுமக்கள் விழிப்புடன் இருக்க வேண்டும். இந்த லிங்குகள் எஸ்எம்எஸ் மூலமாகவும் அனுப்பலாம். தொலைபேசி அழைப்புகள் ஊடாக  பரிசுகள் மற்றும் வவுச்சர்கள் தருவதாக  தனிநபர்களுக்கு தெரிவிப்பார்கள்.
 
 ...
 
+[Data](articles/a2a6e830.json)
+
+---
+
+### கடலில் நீராடச் சென்ற இந்திய பிரஜை நீரில் மூழ்கி உயிரிழப்பு!
+
+*2024-12-26 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202178) · `ta`
+
+ஹிக்கடுவை, தொடந்துவ பகுதியில் நேற்று புதன்கிழமை (25) கடலில் நீராடச் சென்ற வெளிநாட்டவர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலிஸார் மேற்கொண்ட விசாரணையில், அவர் நேற்று மாலை தனது மகள், மகன் மற்றும் மற்றுமொரு நபருடன் கடலில் நீராடிக் கொண்டிருந்ததாக தெரியவந்துள்ளது.
+
+இதன்போது, பிரதேசவாசிகள் குறித்த நபரை கரைக்கு கொண்டு வந்து காப்பாற்றுவதற்காக கராப்பிட்டிய வைத்தியசாலையில் அனுமதித்த போது, சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+மேலும், சடலம் கராப்பிட்டிய வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், ஹிக்கடுவை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e75fb5ee.json)
+
+---
+
+### Correct Recovery from a Burned Keb
+
+*2024-12-26 09:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்த-கெப்-வண்டியில்-இருந்து-சடலம்-மீட்பு/175-349303) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Body found in burned cab near Habarana-Polonnaruwa road. Police suspect murder and arson. Fire extinguished by Minneriya police and Polonnaruwa Municipal Council officials. Cab owner from Colombo.
+
+🟩
+
+The body of a man's body was recovered from the burning cab.
+
+The body of a person has been found from a cab, which was burnt near the 38th kilometer milestone between the Habarana-Polonnaruwa main road and Badoya.
+
+A man who was traveling on the Habarana road was reported to the Minneriya police that a vehicle was burnt by a vehicle.
+
+The fire broke out at around 10 pm on Wednesday (25) and that the fire was stopped at the fire, and there was no one else in it.. Police suspect that Keb may have been brought to the area to kill a man and set fire to his body.
+
+Minneriya police and officials of the Polonnaruwa Municipal Council came and extinguished the fire in a great effort.
+
+Police have discovered that the fire cab was a cab owned by a man from Colombo.
+
+◼️
+
 [Data](articles/30cbd475.json)
+
+[Extended Data](ext_articles/30cbd475.ext.json)
 
 ---
 
@@ -135,6 +185,102 @@ The Department of Meteorology further stated that some areas of the Western, Sab
 [Data](articles/5ffa997e.json)
 
 [Extended Data](ext_articles/5ffa997e.ext.json)
+
+---
+
+### இருவருக்கிடையில் ஏற்பட்ட தகராறில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு  ஒருவர் பலி
+
+*2024-12-26 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202176) · `ta`
+
+கொழும்பு - கிராண்ட்பாஸ் பொலிஸ் பிரிவிற்குட்பட்ட வதுல்லவத்த பகுதியில் நேற்று புதன்கிழமை (25)  இருவருக்கிடையில் ஏற்பட்ட தகராறு காரணமாக கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபரொருவர் உயிரிழந்துள்ளார்.
+
+பொலிஸார் மேற்கொண்ட விசாரணையில், குறித்த நபர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர்  சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக தெரியவந்துள்ளது.
+
+சம்பவத்துடன் சந்தேக நபர்  தப்பிச் சென்றுள்ளதுடன், அவரைக் கைது செய்வதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டுவருகின்றனர்.
+
+மேலும்,சடலம் கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதோடு, சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை கிராண்ட்பாஸ் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/270577ba.json)
+
+---
+
+### நிலைபேறான நல்லிணக்கத்துக்கு சகல சமூகங்களையும் அரவணைக்கும் ஆட்சிமுறை அவசியம்
+
+*2024-12-26 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202174) · `ta`
+
+இலங்கையைப் போன்ற பல இனங்களையும் பல மதங்களையும் சேர்ந்த மக்கள் வாழ்கின்ற ஒரு நாட்டில் சகல சமூகங்களையும் அரவணைப்பது என்பது  வெறுமனே  அடையாளபூர்வமானதாக  இருக்கமுடியாது. அது பல்வேறுபட்ட கருத்துக் கோணங்களையும் நோக்குகளையும் கையாளுவதற்கும் பரஸ்பர புரிந்துணர்வை வளர்ப்பதற்கும் இன்றியமையாத ஒன்றாகும்.
+
+◼️
+
+[Data](articles/417c7b18.json)
+
+---
+
+### Sri Lanka to observe two-minute silence to mark 20 years since devastating tsunami
+
+*2024-12-26 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104501/sri-lanka-to-observe-two-minute-silence-to-mark-20-years-since-devastating-tsunami) · `en`
+
+A two minutes’ silence will be observed island-wide today (26 December) on National Safety Day from 9.25 a.m. to 9.27 a.m. in memory of all who lost their lives in the 2004 tsunami and other natural disasters in Sri Lanka, the Disaster Management Center (DMC) said.
+
+This year, arrangements have been made to observe ‘National Safety Day’ at the district level across the island, with the main event scheduled to take place in front of the Peraliya Tsunami Memorial Statue in Galle.
+
+Today (Dec. 26) marks the 20th anniversary of the 2004 Boxing Day Tsunami, one of the world’s deadliest and most destructive natural disasters, which impacted over 10 countries in the Indian Ocean.
+
+Thus, a two minutes’ silence will be observed island-wide today from 9.25 a.m. to 9.27 a.m. in memory of all who lost their lives in the 2004 tsunami and other natural disasters in Sri Lanka, as per the DMC.
+
+...
+
+[Data](articles/c0fe22dc.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-12-26 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104500/showers-expected-in-parts-of-the-country) · `en`
+
+A few showers may occur in Northern and Eastern provinces, says the Department of Meteorology.
+
+Mainly fair weather will prevail in the other areas of the island.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern, Uva and North-central provinces during the morning, it said.
+
+◼️
+
+[Data](articles/5d7f32dd.json)
+
+---
+
+### Acting IGP’s instructions to officers engaged in night-time vehicle inspections
+
+*2024-12-26 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104499/acting-igps-instructions-to-officers-engaged-in-night-time-vehicle-inspections) · `en`
+
+Acting Inspector General of Police (IGP) Priyantha Weerasooriya has instructed all police personnel engaged in night time inspection of vehicles to wear luminous jackets and gloves, the Police Media Division said.
+
+Furthermore, they have also been instructed to use only the specific red signal torches provided to halt vehicles at night.
+
+◼️
+
+[Data](articles/0b18d081.json)
+
+---
+
+### විෂ එන්නත් ලබා දී කාන්තාවක් ඝාතනය කරයි
+
+*2024-12-26 08:09:47* · [`adalk`](https://www.ada.lk/breaking_news/විෂ-එන්නත්-ලබා-දී-කාන්තාවක්-ඝාතනය-කරයි/11-413847) · `si`
+
+විෂ එන්නත් කර 70 හැවිරිදි අවිවාහක කාන්තාවක් ඝාතනය කළ බව පැවසෙන සිද්ධියක් සම්බන්ධයෙන් දික්වැල්ල පොලීසිය විමර්ශනයක් ආරම්භ කර ඇත.
+
+මියගිය කාන්තාවගේ ඥාතීන් පවසන්නේ, ඉඩම් ආරවුලක් සම්බන්ධයෙන් අධිකරණයේ නඩුවක් විභාග වන පසුබිමක මෙම මරණය සිදුවීම සැකසහිත බවය. දික්වැල්ල වත්තේගම දකුණ ප්‍රදේශයේ නිවසක පදිංචිව සිටි 70 හැවිරිදි අවිවාහක කාන්තාවක් විෂ සහිත එන්නතක් ශරීරගත වූ බව පවසමින් මාතර, බතීගම රෝහලට ඇතුළත් කර තිබුණේ දෙසැම්බර් 20 වනදා පස්වරුවේ දීය.
+
+අනතුරුව තත්ත්වය බරපතළ වීම හේතුවෙන් මාතර දිස්ත්‍රික් මහ රෝහල වෙත මාරුකර යැවුණු ඇය දින 4ක් එහි දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී පෙරේදා (24) සවස මියගොස් තිබේ.
+
+ඇයගේ ඥාතීන් පවසන්නේ, නාදුනන පුද්ගලයෙකු නිවසට පැමිණ ඇයට යම් විෂක් එන්නත් කර පලාගොස් ඇති බවය. සිද්ධිය සම්බන්ධයෙන් දික්වැල්ල පොලීසිය සිදුකළ විමර්ශනවලදී අදාළ නිවස අසල පිහිටි CCTV කැමරාවක දර්ශන පරීක්ෂා කර තිබුණි. ඒ අනුව කිසියම් පුද්ගලයෙකු අදාළ කාන්තාව හමුවීමට පැමිණ නිවසට ඇතුළුවන ආකාරය එහි දැක්වෙයි.
+
+...
+
+[Data](articles/4bf2e07f.json)
 
 ---
 
@@ -2309,197 +2455,5 @@ It will take a few days to bring her body to the island. Wasantha Handapangoda w
 [Data](articles/d760fdd9.json)
 
 [Extended Data](ext_articles/d760fdd9.ext.json)
-
----
-
-### Police take action against over 8,700 traffic law violators in 24 hrs
-
-*2024-12-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104490/police-take-action-against-over-8700-traffic-law-violators-in-24-hrs) · `en`
-
-Sri Lanka Police says legal action has been taken against a total of 8,747 motorists for violating traffic laws, including 251 individuals driving under the influence of liquor, during the last 24 hours.
-
-In accordance with instructions from the Acting Inspector General of Police (IGP), the special island-wide traffic operation aimed at reducing road accidents will continue throughout the festive season.
-
-Police Spokesman SSP Buddika Manathunga said that no fatal accidents have occurred in the island within the last 24 hours.
-
-Sri Lanka Police urges the public to drive safely, refrain from alcohol consumption, and adhere to traffic laws to protect safe guard lives.
-
-◼️
-
-[Data](articles/3cacfce0.json)
-
-[Extended Data](ext_articles/3cacfce0.ext.json)
-
----
-
-### A fly plane crashes into Russia
-
-*2024-12-25 14:09:07* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාව-බලා-පියාසර-කළ-ගුවන්-යානයක්-කඩා-වැටෙයි/11-413838) · `si`
-
-Plane crash in Russia: Azerbaijani flight with 67 passengers, including 5 crew members, reported down. Ministry of Emergency Situations confirms incident.
-
-🟩
-
-International media reports that an Azerbaijan from Azerbaijan to Russia's traveling to Russia, the international media reports.
-
-67 including 5 people of the aircraft crashes when the plane crashes. Citing the Ministry of Disaster and 22. News Service Reports Information
-
-◼️
-
-[Data](articles/c87796ff.json)
-
-[Extended Data](ext_articles/c87796ff.ext.json)
-
----
-
-### Passenger plane exploded in Kazakhstan
-
-*2024-12-25 14:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கஜகஸ்தானில்-பயணிகள்-விமானம்-வெடித்து-சிதறியது/50-349267) · `ta`
-
-Kazakhstan: Passenger plane explodes after crash landing, 72 on board. Dense fog caused diversion. Multiple injuries reported, fatalities feared. Cause unknown. Firefighters battling blaze.
-
-🟩
-
-A passenger flight from Azarbaijan's Baghu with 72 passengers. Another Video Show The Cross Obi Azerbaijan Airlines Flugt ௮௨௪௩ Pick.Thwiter.Thwiter.Thwiter.Kama
-
-The plane, which was diverted due to a dense fog, was trying to land at the airport in Kazakhstan's Oktao area.
-
-Then the plane suddenly fell down. The aircraft exploded and the burning of the fire. It is reported that many have been rescued with injuries, fearing that many of them may have died.
-
-It has been reported that the passenger plane crashed several times near the airport before the plane crashed. Firefighters are working on extinguishing the fire at the scene. No information on the cause and death of the accident has been released until now.
-
-◼️
-
-[Data](articles/b92f9c67.json)
-
-[Extended Data](ext_articles/b92f9c67.ext.json)
-
----
-
-### Internet money has risen in the festive season
-
-*2024-12-25 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204709) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's Computer Emergency Response Team reports increased online scams during the festive season. Chief Information Security Officer warns about money cheats and AI-related disorders. Public advised to be vigilant against suspicious calls and events.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Team says that the events of the Internet has increased in the festive season.
-
-Chief Information Security Officer Norroche Anananda said that the complaints have been received regarding the money cheats, claiming that the telephone calls have been brought to customers.
-
-He also said that complaints have been reported on some of the disorders using AI technology.
-
-He further stated that the public should pay special attention to protecting such calls and events.
-
-◼️
-
-[Data](articles/1c3c2429.json)
-
-[Extended Data](ext_articles/1c3c2429.ext.json)
-
----
-
-### Father and son arrested over murder in Madampe
-
-*2024-12-25 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104489/father-and-son-arrested-over-murder-in-madampe) · `en`
-
-Two individuals wanted in connection with a murder were apprehended in the Dematapitiya area of Madampe last evening (24).
-
-The arrests pertain to the alleged murder of a 42-year-old man, who was reportedly beaten to death following an argument that escalated out of control in the Dematapitiya area within the jurisdiction of the Madampe Police Division on December 22.
-
-The deceased was identified as a resident of Kakkapalliya in Manakkulama, and the Madampe Police had launched an investigation into his death.
-
-Accordingly, during the course of the investigation, two suspects linked to the crime were taken into custody.
-
-According to the police, the suspects are a father and son, aged 53 and 28 respectively, who reside in the Karavitagaraya area.
-
-◼️
-
-[Data](articles/7d60a42b.json)
-
-[Extended Data](ext_articles/7d60a42b.ext.json)
-
----
-
-### A passenger plane crashes
-
-*2024-12-25 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204708) · `si`
-
-Plane crash: 25 survivors, 22 hospitalized. Fire caused collapse, but cause unknown. 62 passengers, 5 crew on EMBRAER 190 flight from Azerbaijan to Russia. Mist cited as reason for accident.
-
-🟩
-
-The BBC News
-
-However, 25 of these accidents have survived, 22 of them have been hospitalized.
-
-A fire has erupted with the collapse of the plane, but it has been resurrected.
-
-However, the cause of the fire has not yet been revealed.
-
-There is a 62 passengers and 5 staff, which is an EMBRERER 190.
-
-This was from Azerbaijan's capital to Russia.
-
-Investigations have revealed that the accident had occurred due to the existing mist.
-
-◼️
-
-[Data](articles/24678885.json)
-
-[Extended Data](ext_articles/24678885.ext.json)
-
----
-
-### Azerbaijan Airlines plane crashes over Kazakhstan
-
-*2024-12-25 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104488/azerbaijan-airlines-plane-crashes-over-kazakhstan) · `en`
-
-An Azerbaijan Airlines passenger jet flying from the capital Baku to Grozny in Russia’s Chechnya crashed on Wednesday in western Kazakhstan, the Kazakh transport ministry said on Wednesday.
-
-“A plane doing the Baku-Grozny route crashed near the city of Aktau. It belongs to Azerbaijan Airlines,” the ministry said on Telegram.
-
-Azerbaijan Airlines, the country’s flag carrier, said the Embraer 190 had “made an emergency landing” around three kilometres from Aktau, an oil and gas hub on the eastern shore of the Caspian Sea.
-
-The Kazakh transport ministry said there were 62 passengers and five crew members on the plane.
-
-The country’s emergency situations ministry said its personnel were putting out a fire at the site.
-
-“Information about casualties is currently being clarified but, according to preliminary information, there are survivors,” it said.
-
-◼️
-
-[Data](articles/36a93a06.json)
-
-[Extended Data](ext_articles/36a93a06.ext.json)
-
----
-
-### Suspect arrested for murder
-
-*2024-12-25 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202111) · `ta`
-
-Arrest made in Vathekama murder case: 69-year-old suspect detained over poisoned victim. Land dispute cited as motive. Police ongoing investigation.
-
-🟩
-
-A suspect has been arrested on Tuesday (24) for allegedly murdering a woman by poisoning in Vathekama area of ​​the Dikwella police division.
-
-A 69 -year -old woman from Dikwella, Vathekama south has been arrested.
-
-During an investigation into the incident, it was revealed that the murder was due to a land dispute.
-
-Dikwella police are conducting further investigations into the murder.
-
-◼️
-
-[Data](articles/6e16ccd4.json)
-
-[Extended Data](ext_articles/6e16ccd4.ext.json)
 
 ---

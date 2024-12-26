@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 11:27:14**
+As of **2024-12-26 11:44:09**
 
 ## Newspaper Stats
 
-*Scraped **62,107** Articles*
+*Scraped **62,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,103 @@ dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,928
 adaderanalk | 7,584
-tamilmirrorlk | 8,902
-virakesarilk | 10,285
+tamilmirrorlk | 8,904
+virakesarilk | 10,286
 adaderanasinhalalk | 10,727
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,643 (99.3%) of 62,107 articles have been extended.
+61,645 (99.3%) of 62,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### ”அரசாங்கம் இன்னும் தீர்மானிக்கவில்லை”
+### Warning on Festival Online Financial Fraud
+
+*2024-12-26 11:29:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகைக்-கால-ஒன்லைன்-நிதி-மோசடிகள்-குறித்து-எச்சரிக்கை/175-349312) · `ta`
+
+Sri Lanka SLCERT warns of rising online financial fraud during festivals. Public targeted via prize calls and AI scams. Be vigilant against festive financial deception.
+
+🟩
+
+The Sri Lanka Computer Emergency Reading Committee (SLCERT) has warned that the festive financial fraud is on the rise.
+
+SLCERT's Chief Information Security Officer Nirosh Ananda said that the public was financially deceived by receiving calls claiming to win prizes.
+
+He added that there were some irregularities using AI technology.
+
+Nirosh Ananda has asked the public to be vigilant on such online financial frauds.
+
+◼️
+
+[Data](articles/efcf182c.json)
+
+[Extended Data](ext_articles/efcf182c.ext.json)
+
+---
+
+### ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர்கள் இருவர் கைது!
+
+*2024-12-26 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202183) · `ta`
+
+நாட்டின் சில பகுதிகளில் பொலிஸாரினால் நேற்று புதன்கிழமை (25) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கல்கிஸ்ஸ பொலிஸ் பிரிவுக்குட்பட்ட படோ விட்ட பகுதியில் 06 கிராம் 500 மில்லிகிராம் ஹெராயின்  போதைப்பொருளுடன் சந்தேகநபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இதேவேளை, மொரட்டுவ பொலிஸ் பிரிவுக்குட்பட்ட மிருதங்கஹவத்த பகுதியில், 05 கிராம் 120 மில்லிகிராம் ஹெராயின்  போதைப்பொருளுடன் சந்தேகநபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a0a5a623.json)
+
+---
+
+### சம்பள உயர்வு குறித்து அமைச்சர் கருத்து
+
+*2024-12-26 11:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-உயர்வு-குறித்து-அமைச்சர்-கருத்து/175-349311) · `ta`
+
+ஆசிரியர்கள் உட்பட அரச துறை ஊழியர்களுக்கு அடுத்த வருடத்திற்குள் சம்பள உயர்வு உறுதியாக வழங்கப்படும் என பொருளாதார அபிவிருத்தி பிரதி அமைச்சர் அனில் ஜயந்த பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், 2025 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட முன்மொழிவுகளில் சம்பள அதிகரிப்பு தொடர்பான முழு விபரங்களும் உள்ளடக்கப்படும் என தெரிவித்தார்.
+
+"அரச ஊழியர்களின் சம்பளத்தை உயர்த்துவதற்கு நாங்கள் வேலை செய்கிறோம், அரசியல் லாபத்திற்காக அல்ல, ஆனால் நாட்டின் தற்போதைய பொருளாதார சூழ்நிலையில் மக்கள் கணிசமான இன்னல்களை எதிர்கொள்கிறார்கள் என்பது அனைவருக்கும் தெரியும். அதற்கு தற்போதுள்ள சம்பளம் போதுமானதாக இல்லை," என்று அவர் விளக்கினார்.
+
+"நாம் அனைவரும் அறிந்தது போல், முந்தைய அரசாங்கத்தால் நாட்டின் பொருளாதாரம் கடுமையாகப் பாதிக்கப்பட்டது. ஒரு பொறுப்பான நிர்வாகம் என்ற வகையில், 2026 வரை மக்கள் காத்திருக்க வேண்டும் என்று நாங்கள் கூற முடியாது. நாங்கள் அத்தகைய அணுகுமுறையை எடுக்கவில்லை," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/bf55b6f8.json)
+
+---
+
+### “The government has not yet decide”
 
 *2024-12-26 11:13:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-இன்னும்-தீர்மானிக்கவில்லை/175-349310) · `ta`
 
-புதிய பாராளுமன்றத்தின் எம்.பி.க்களுக்கு வாகனங்களை ஒதுக்குவதற்கு அரசாங்கம் கொள்கை தீர்மானம் எடுத்திருந்த போதிலும் இதுவரை வாகனங்களை ஒதுக்கவில்லை.
+Here's a summary of 200 characters:
 
-அரசாங்கம் தற்போது சொகுசு வாகனங்களை ஏலம் விடுவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால நேற்று டெய்லி மிரருக்கு தெரிவித்தார். தற்போது பெரும்பாலான எம்.பி.க்கள் தங்களது சொந்த வாகனங்களை பயன்படுத்தி வருவதாக அவர் கூறினார்.
 
-“புதிய பாராளுமன்றத்தில் கடமையாற்றும் எம்.பி.க்களுக்கு வாகனங்களை வழங்குவதற்கு நாங்கள் தீர்மானம் எடுத்துள்ளோம். எனினும், அவர்களுக்கு வாகனங்களை எப்போது ஒதுக்குவது என்பது குறித்து நாங்கள் முடிவு செய்யவில்லை. அவர்களுக்கு ஒதுக்கப்படவுள்ள வாகனங்களையும் இறக்குமதி செய்ய மாட்டோம்,'' என்றார்.
 
-பாராளுமன்ற உறுப்பினர்களின் சலுகைகளை குறைக்க புதிய அரசு முடிவு செய்துள்ளது. வரியின்றி வாகனங்களை இறக்குமதி செய்வதற்கு பாராளுமன்ற உறுப்பினர்களுக்கு அனுமதி வழங்கப்பட மாட்டாது.
+"Government allocates vehicles for new Parliament MPs but hasn't decided allocation timing. Public Security Minister Ananda Wijepala confirms auction process ongoing. Most MPs use personal vehicles currently. New government reduces MP privileges, including tax-free vehicle imports."
+
+🟩
+
+Although the government has decided to allocate vehicles for the MPs of the new Parliament, the vehicles have not yet been allocated.
+
+Public Security Minister Ananda Wijepala told the Daily Mirror yesterday that the government is currently in the process of auctioning luxury vehicles.. He said most MPs are currently using their own vehicles.
+
+“We have decided to provide vehicles for MPs on duty in the new parliament. However, we have not decided when to allocate vehicles to them. We will not import vehicles that are to be allocated to them. ”
+
+The new government has decided to reduce the privileges of MPs. Parliamentarians will not be allowed to import vehicles without taxes.
 
 ◼️
 
 [Data](articles/21736b5b.json)
+
+[Extended Data](ext_articles/21736b5b.ext.json)
 
 ---
 
@@ -2333,79 +2401,5 @@ The Taliban warned that these attacks in Pakistan will certainly respond.
 [Data](articles/d037bf27.json)
 
 [Extended Data](ext_articles/d037bf27.ext.json)
-
----
-
-### New investigation into Chinese fertilizer during Kota period
-
-*2024-12-25 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202118) · `ta`
-
-Sri Lanka probes Chinese fertilizer imports under Rajapaksa era. Investigation focuses on alleged fraud, cost of failed natural farming program, and commercial dispute with China.
-
-🟩
-
-Deputy Minister of Agriculture Namal Karunaratne said the government would carry out a new inquiry into the frauds that were imported from China during the time of former President Gotabhaya Rajapakse and the introduction of natural agriculture from China.
-
-In this context, we have taken steps to investigate the irregularities in the last regime regarding the measures taken to promote imported fertilizer and natural agriculture from China.. We are investigating how to start those investigations.
-
-In his statement, the National Auditor General made it clearly stated that the Ministry of Agriculture, the Ministry of Agriculture, the Colombo Business Fertilizer Limited and the Ceylon Fertilizer Company did not perform their duty in the transaction of imported fertilizer from China.
-
-...
-
-[Data](articles/07fe9d06.json)
-
-[Extended Data](ext_articles/07fe9d06.ext.json)
-
----
-
-### 1717 vacancies in prison
-
-*2024-12-25 16:51:16* · [`adalk`](https://www.ada.lk/breaking_news/බන්ධනාගාරයේ-තනතුරු-පුරප්පාඩු-1717ක්/11-413843) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"1717 prison vacancies found in audit report. 7872 approved officers, but only 6173 deployed. 22 prison hospitals understaffed. Recurring issues with phone smuggling and contraband in prisons."
-
-🟩
-
-The Audit Report issued 1717 vacancies in relation to 79 posts in the Department of Prisons.
-
-Although 7872 officers approved by 7872, only 6173 officers were planted in the year, only 6173 officials were excessed in respect of only two positions, he further stated.
-
-The National Audit Act No. 19 of 2018 and the National Audit Act, No. 38 of 1971, the Audit of the Department of Prisons was mentioned in the Sri Lanka Prison Department 2023.
-
-The audit report has pointed out that 22 prison hospitals were excessed in 14 hospitals.. Five doctors of four prison hospitals were excessed and there were vacancies in three prison hospitals.
-
-The information in the door document should be sent to the Director General of the Ministry of Health on the attendance and exit of prison hospitals.
-
-...
-
-[Data](articles/5bd650b1.json)
-
-[Extended Data](ext_articles/5bd650b1.ext.json)
-
----
-
-### Mustafabu to go to court against security removal
-
-*2024-12-25 16:45:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-நீக்கியதை-எதிர்த்து-நீதிமன்றம்-செல்ல-முஸ்தீபு/175-349282) · `ta`
-
-Sri Lanka: Former President Mahinda Rajapaksa faces court challenge over security removal. Attorney Ravindra Jayasinghe argues against removing presidential protection citing economic reasons. National People's Power member criticizes decision, claiming it's based on flawed Uganda report.
-
-🟩
-
-At a media briefing held on Wednesday (25), Sri Lanka's National Executive Committee Member Attorney -at -Law Ravindra Jayasinghe said that the necessary arrangements are being made to go to court on the sale of former President Mahinda Rajapaksa.
-
-He said that it would be necessary to remove the police officers for the protection of former presidents and that it would not be acceptable to remove the armed forces for economic reasons.
-
-Mrs. Nilanti Kothachi, a member of the National People's Power, said that as a lawyer, Ravindra Jayasinghe said that this would be wrongly guided by the Uganda report.
-
-◼️
-
-[Data](articles/2cbca5e9.json)
-
-[Extended Data](ext_articles/2cbca5e9.ext.json)
 
 ---

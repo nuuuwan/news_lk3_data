@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 03:01:25**
+As of **2024-12-27 02:43:21**
 
 ## Newspaper Stats
 
-*Scraped **62,197** Articles*
+*Scraped **62,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 629
 bbccomsinhala | 656
 islandlk | 3,764
 economynextcom | 3,785
-dailyftlk | 4,307
+dailyftlk | 4,303
 dailymirrorlk | 4,733
 adalk | 5,942
 adaderanalk | 7,594
@@ -26,65 +26,9 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,704 (99.2%) of 62,197 articles have been extended.
+61,703 (99.2%) of 62,193 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-12-27 (Friday)
-
-### Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
-
-*2024-12-27 02:49:05* · [`dailyftlk`](https://www.ft.lk/news/Archbishop-of-Colombo-Cardinal-Malclom-Ranjith-conducts-the-Christmas-service-at-Our-Lady-of-Sorrows-Church-in-Ja-Ela-A-large-crowd-was-present-for-the-mid-night-service-Pix-by-Pradeep-Pathirana/56-771039) · `en`
-
-Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/ed7866b5.json)
-
----
-
-### Speakers of Sri Lanka: “Honourable” guardians of Parliament’s sovereignty
-
-*2024-12-27 02:47:14* · [`dailyftlk`](https://www.ft.lk/columns/Speakers-of-Sri-Lanka-Honourable-guardians-of-Parliament-s-sovereignty/4-771038) · `en`
-
-Season’s greetings to all readers! Let me begin the second part of this article on the speakers of Sri Lanka with a reference to former Speaker Asoka Ranwala. A source who is usually well-informed about matters concerning the Janatha Vimukthi Peramuna (JVP) and the National People’s Power (NPP) got in touch with me a few days ago. He said that ex-Speaker Ranwala had indeed acquired a doctoral degree from Japan.
-
-According to this JVP/NPP “partisan” source, Asoka Ranwala has indeed acquired a PhD from a Japanese institution of higher learning and is therefore entitled to the prefix “Dr”. Apparently Ranwala, a longstanding activist of the JVP, had “escaped” from Sri Lanka when the Ranasinghe Premadasa regime had cracked down hard on the JVP in the 1989-90 period. Ranwala had made his way to Japan and resided there for several years, stated this source.
-
-...
-
-[Data](articles/87bd6ad5.json)
-
----
-
-### SJB sets up special unit to probe alleged politicised transfers
-
-*2024-12-27 02:41:43* · [`dailyftlk`](https://www.ft.lk/news/SJB-sets-up-special-unit-to-probe-alleged-politicised-transfers/56-771037) · `en`
-
-The Samagi Jana Balawegaya (SJB) has announced the establishment of a special unit to investigate what it alleges are arbitrary transfers of public officials at the Government and provincial council levels.
-
-In a statement issued by the party, General Secretary Ranjith Madduma Bandara called on the Government and provincial council authorities to immediately suspend all such transfers. He also invited the public to provide information regarding these transfers, either anonymously or voluntarily, to aid the investigation.
-
-The statement highlighted concerns over a systematic program of transferring public officials in key sectors without just cause. This, it claimed, has disrupted the work of Local Government Assistant Commissioners, Local Government Secretaries, and Cooperative Assistant Development Commissioners, among others.
-
-...
-
-[Data](articles/2d78d242.json)
-
----
-
-### Protest against holocaust of Palestinian nationals in Gaza
-
-*2024-12-27 02:41:22* · [`dailyftlk`](https://www.ft.lk/news/Protest-against-holocaust-of-Palestinian-nationals-in-Gaza/56-771036) · `en`
-
-The Kithusara Movement this week held a protest against alleged Holocaust of Palestinian nationals in Gaza in front of UN Headquarters in Colombo. The priests and nuns who participated in the protest also held a candle light procession toward the Palestine Embassy in Colombo. They said the world will not have peace without peace and normalcy in Palestine, which is the homeland of Jesus born upon this day – Pic by Pradeep Pathirana
-
-◼️
-
-[Data](articles/5aaffffb.json)
-
----
 
 ### 2024-12-26 (Thursday)
 
@@ -1184,27 +1128,17 @@ At the end of transactions, all stock price index recorded value of 15,400.53 po
 
 ---
 
-### Stock market in a massive growth today
+### කොටස් වෙළඳපොළ අදත් දැවැන්ත වර්ධනයක
 
 *2024-12-26 15:53:14* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-දැවැන්ත-වර්ධනයක/11-413854) · `si`
 
-Here's a summary in 200 characters:
+කොළඹ කොටස් වෙළඳපොළ අද දිනයේද දැවැන්ත වර්ධනයක් පෙන්නුම් කළේය. ඒ අනුව සමස්ත කොටස් මිල දර්ශකය ඒකක 232කින් ඉහළ ගොස් සමස්ත ඒකක 15 400ක් දක්වා ඉහළ ගියේය.
 
-
-
-"Market surge: Colombo Stock Exchange rises 232 points to 15,400. S&P 4602, high turnover Rs. 7 billion."
-
-🟩
-
-Colombo Stock Exchange showed massive growth today. The total stock price index increased by 232 units and rose to 15 400 overall units.
-
-Also S. And. P. The price index has increased by 67 points to 4602 points.The market turnover was high, such as Rs. 7 billion.
+එසේම එස්. ඇන්ඩ්. පී. මිල දර්ශකය ඒකක 67කින් ඉහළ ගොස් 4602ක් දක්වා වර්ධනය වී තිබේ.  එසේම වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 7ක් වැනි ඉහළ අගයක් පෙන්නුම් කළේය.
 
 ◼️
 
 [Data](articles/6813d19f.json)
-
-[Extended Data](ext_articles/6813d19f.ext.json)
 
 ---
 
@@ -2473,5 +2407,83 @@ The Tourism Development Board stated that, during the time elapsed this year (20
 ...
 
 [Data](articles/ae1cfd1b.json)
+
+---
+
+### In some places the snow is found
+
+*2024-12-26 09:34:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-பனிமூட்டமான-நிலை-காணப்படும்/175-349299) · `ta`
+
+Snow found in some places. Rainfall predicted in Northern and Eastern Provinces today. Weather forecast: mostly dry in other regions. Some areas in Western, Sabaragamuwa, Central, Southern, Uva, and North Central Provinces may experience rain in the morning.
+
+🟩
+
+The Department of Meteorology has predicted some rainfall in the Northern and Eastern Provinces today (26).
+
+The Department of weather forecasts the weather forecasts that the rest of the country is likely to be mainly in the country.
+
+The Department of Meteorology further stated that some areas of the Western, Sabaragamuwa, Central, South, Uva and North Central Provinces may be in the morning.. Remble
+
+◼️
+
+[Data](articles/5ffa997e.json)
+
+[Extended Data](ext_articles/5ffa997e.ext.json)
+
+---
+
+### இருவருக்கிடையில் ஏற்பட்ட தகராறில் கூரிய ஆயுதத்தால் தாக்கப்பட்டு  ஒருவர் பலி
+
+*2024-12-26 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202176) · `ta`
+
+கொழும்பு - கிராண்ட்பாஸ் பொலிஸ் பிரிவிற்குட்பட்ட வதுல்லவத்த பகுதியில் நேற்று புதன்கிழமை (25)  இருவருக்கிடையில் ஏற்பட்ட தகராறு காரணமாக கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபரொருவர் உயிரிழந்துள்ளார்.
+
+பொலிஸார் மேற்கொண்ட விசாரணையில், குறித்த நபர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர்  சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக தெரியவந்துள்ளது.
+
+சம்பவத்துடன் சந்தேக நபர்  தப்பிச் சென்றுள்ளதுடன், அவரைக் கைது செய்வதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டுவருகின்றனர்.
+
+மேலும்,சடலம் கொழும்பு தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதோடு, சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை கிராண்ட்பாஸ் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/270577ba.json)
+
+---
+
+### උඩරට එළවළු ගොවියොත් වන්දි ඉල්ලයි
+
+*2024-12-26 09:28:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-එළවළු-ගොවියොත්-වන්දි-ඉල්ලයි/11-413849) · `si`
+
+අයහපත් කාලගුණයෙන් නුවරඑළිය දිස්ත්‍රික්කයේ උඩරට  එළවළු වගා බිම් අක්කර 750කට වඩා වැඩි ප්‍රමාණයක් සම්පුර්ණයෙන් විනාශයට පත්ව ඇති බවත්, එම හානි වූ එළවළු වගාවන් සඳහා තමන්ටත්  වන්දි මුදල්  ලබා දෙන ලෙස වගා හානියට පත් උඩරට එළවළු ගොවීහූ රජයෙන් ඉල්ලා සිටිති.
+
+වී, ලොකු ළුණු, අර්තාපල් ඇතුළු බෝග වර්ග හයකට රජයෙන් වන්දි මුදල් ලබා දෙන බව දැනට පවසා ඇති බවත්, එහෙත් අර්තාපල් හැර උඩරට වෙනත් එළවළු බෝග වගාවන් සඳහා වන්දි මුදලක් ලබා දීමට රජය පියවර ගෙන නොමැති බව ද උඩරට ගොවීහූ පවසති.
+
+තමන් වගා කරන ලද ලීක්ස්, කැරට්, බෝංචි, බීට්රූට්, සලාද, රාබු, නෝ කෝල්, මාළු මිරිස්, තක්කාලි, ගෝවා, අතු ගෝවා  ආදී වෙනත් උඩරට එළවළු වර්ග වගා කරන ලද වගා බිම් රැසක් පසුගිය දිනවල පැවති ගංවතුර  හා අනෙකුත් ආපදාවන් හේතුවෙන් විනාශයට පත්ව ඇතැයි  උඩරට එළවළු ගොවීහූ පෙන්වා දෙති.
+
+කඳපොල  ප්‍රදේශයේ එළවළු වගාවන්ට  ගංවතුර ගැලීම  හේතුවෙන් දැඩි හානියට පත්ව ඇති බවත්,  නුවරඑළිය දිස්ත්‍රික්කයේ අනෙකුත් ප්‍රදේශවල උඩරට එළවළු වගා කොට තිබූ පහත් බිම් රැසක් ජලයෙන් යටව යාම හේතුවෙන් ඒවායේ වගා කොට තිබූ උඩරට එළවළු වර්ග ද සම්පුර්ණයෙන් විනාශයට පත්ව ඇතයි ඔවුහු පෙන්වා දෙති.
+
+...
+
+[Data](articles/9c539dc4.json)
+
+---
+
+### ගිනිගෙන දැවුනු කැබ් රථයක් තුල තිබී පිලිස්සී ගිය පුද්ගල මළ සිරුරක්
+
+*2024-12-26 09:21:37* · [`adalk`](https://www.ada.lk/breaking_news/ගිනිගෙන-දැවුනු-කැබ්-රථයක්-තුල-තිබී-පිලිස්සී-ගිය-පුද්ගල-මළ-සිරුරක්/11-413848) · `si`
+
+හබරණ පොළොන්නරුව ප්‍රධාන මාර්ගයේ හතේ කණුව සහ බටුඔය අතර 38 කිලෝමීටර් කණුව අසල ගිනිගත් කැබ්රථයක් තුළ තිබී පුද්ගලයෙකුගේ මළ සිරුරක් 25 වෙනිදා රාත්‍රියේදී සොයා ගැනීමට හැකිවූ බව මින්නේරිය පොලිසිය කියයි.
+
+හබරණ මින්නේරිය මාර්ගයේ ගමන් ගත් පුද්ගලයෙකු විසින් කැබ් රථයක් ගිනි ගන්නා බවට මින්නේරිය පොලීසියට දැනුම් දීමෙන් අනතුරුව මෙම ගිනි ගනිමින් තිබෙන කැබ් රථය මින්නේරිය පොලීසිය විසින් සොයා ගෙන ඇත.
+
+ඉන් අනතුරුව මෙම ගිනි ගනිමින් තිබූ කැබ් රථයේ ඇතිව තිබූ ගින්න නිවා දැමීම සඳහා මින්නේරිය පොලීසිය හා පොළොන්නරුව මහ නගර සභාවේ ගිනි නිවීමේ ඒකකයේ නිලධාරීන් පැමිණ දැඩි පරිශ්‍රමයක් දරා ගින්න සම්පූර්ණයෙන් නිවා දැමීමට කටයුතු කර තිබේ.
+
+ගිනිගෙන තිබූ කැබ් රථය මින්නේරිය පොලීසිය විසින් පරීක්ෂා කිරීමේදී එහි පිටුපස ආසනයේ තිබී පිලිස්සී මියගිය පුද්ගලයෙකුගේ මළ සිරුරක් පොලීසිය විසින් සොයා ගෙන ඇත.
+
+25 වෙනිදා රාත්‍රී 10 ට පමණ මෙම ගින්න හට ගෙන ඇති අතර ගිනි ගන්නා අවස්ථාවේදී කැබ් රථය හබරණ දෙසට මුහුණලා    නතර කොට තිබී ඇති අතර එහි වෙනත් කිසිදු පුද්ගායෙකු සිට නොමැති බව මින්නේරිය පොලීසිය පවසයි.
+
+...
+
+[Data](articles/f663ae72.json)
 
 ---

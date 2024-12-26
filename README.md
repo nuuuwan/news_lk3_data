@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 02:27:26**
+As of **2024-12-27 02:43:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,702 (99.2%) of 62,193 articles have been extended.
+61,703 (99.2%) of 62,193 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1104,17 +1104,27 @@ Today’s turnover is recorded as over Rs. 7 billion while the total number of s
 
 ---
 
-### කොටස් වෙළෙඳපොළ අදත් ඉහළට
+### Stock market still rises
 
 *2024-12-26 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204746) · `si`
 
-කොළඹ කොටස් වෙළෙඳපොළේ සියලු කොටස් මිල දර්ශකය (ASPI) අද (26) ඒකක 232.13කින් ඉහළ ගියේය.
+Here's a summary in 200 characters:
 
-ඒ අනුව දිනයේ ගනුදෙනු අවසානයේදී සියලු කොටස් මිල දර්ශකයේ අගය ඒකක 15,400.53ක් ලෙස සටහන් වුණි.
+
+
+Colombo Stock Exchange ASPI increases by 232.13 points, reaching 15,400.53. Market continues upward trend.
+
+🟩
+
+All Stock Price Index (ASPI) increased by 232.13 of the Colombo Stock Exchange (26).
+
+At the end of transactions, all stock price index recorded value of 15,400.53 points.
 
 ◼️
 
 [Data](articles/9bc8cf91.json)
+
+[Extended Data](ext_articles/9bc8cf91.ext.json)
 
 ---
 

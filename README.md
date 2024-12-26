@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 17:00:15**
+As of **2024-12-26 17:44:37**
 
 ## Newspaper Stats
 
-*Scraped **62,158** Articles*
+*Scraped **62,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 655
 islandlk | 3,764
-economynextcom | 3,782
+economynextcom | 3,784
 dailyftlk | 4,303
 dailymirrorlk | 4,733
-adalk | 5,935
+adalk | 5,936
 adaderanalk | 7,590
-tamilmirrorlk | 8,915
+tamilmirrorlk | 8,916
 virakesarilk | 10,293
 adaderanasinhalalk | 10,739
 
@@ -26,43 +26,121 @@ adaderanasinhalalk | 10,739
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,662 (99.2%) of 62,158 articles have been extended.
+61,667 (99.2%) of 62,162 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-26 (Thursday)
 
-### இலங்கையை போன்று இரத்தினக்கல்
+### Rs 150 crore fraud: Family in India
+
+*2024-12-26 17:04:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-150-கோடி-மோசடி-இந்தியாவில்-தஞ்சமடைந்த-குடும்பம்-இலங்கைக்கு-கடத்தப்பட்டது/175-349341) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Indian couple faces financial fraud charges in Sri Lanka. Sent back to Sri Lanka despite legal concerns over extradition process. Allegedly defrauded over ₹150 crore from investors. Couple claims innocence, seeks protection in India.
+
+🟩
+
+The couple, who had been housed in the Sri Lankan Tamil special camp, were sent back to Sri Lanka on Thursday (26) due to a multi -crore financial fraud complaint in Sri Lanka.
+
+The couple's 13 -year -old son was also sent with them. They went to Sri Lanka from Trichy airport.
+
+The woman who spoke to the media told the media that she was forcibly sent to Sri Lanka on the issue.
+
+The woman's lawyer has said that the action has been illegally taken by the Chief Minister's Division.
+
+It has been reported that Sri Lanka has taken steps to repay them according to the relevant procedures as they have several hundred crores of rupees.
+
+What is the allegation made in Sri Lanka against this couple in Trichy camp?
+
+Coast Guard Inspector Selvarasu has seen a couple with a boy at Kodiyakarai bus station at 11 pm on November 6, 2020 in Vedaranyam, Nagapattinam district.. When they inquired, they said they had come to Tamil Nadu by boat from Sri Lanka.
+
+...
+
+[Data](articles/5cb3437c.json)
+
+[Extended Data](ext_articles/5cb3437c.ext.json)
+
+---
+
+### Nearly half of Sri Lanka pensions benefit top 20-pct income group: IPS
+
+*2024-12-26 17:00:00* · [`economynextcom`](https://economynext.com/nearly-half-of-sri-lanka-pensions-benefit-top-20-pct-income-group-ips-196254/) · `en`
+
+ECONOMYENXT – The non-contributory nature of Sri Lanka’s Public Services Pensions (PSP) scheme has become a significant burden on the country, as pension benefits are funded directly from government revenue through general taxation, a research article by the Institute of Policy Studies finds.
+
+“With approximately 700,000 public sector pensioners, this system imposes a substantial financial strain on the government.”
+
+According to IPS, about half of these pensions benefit the top 20% income group.
+
+The think tank recommends a gradual transition to a contributory scheme, and structural reforms.
+
+Transforming Public Pensions in Sri Lanka Toward Fiscal and Social Stability
+
+Easing the pension burden in Sri Lanka demands structural reforms and a transition to a contributory model.
+
+Recent economic challenges have made addressing Sri Lanka’s pension-related financial burden a pressing priority.
+
+Public sector pensions are fully funded through tax revenue, consuming 12% of government income.
+
+...
+
+[Data](articles/3f620b5a.json)
+
+[Extended Data](ext_articles/3f620b5a.ext.json)
+
+---
+
+### Gemstone
 
 *2024-12-26 16:49:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையை-போன்று-இரத்தினக்கல்/175-349336) · `ta`
 
-இரத்தினபுரி நிவித்திகல பிரதேசத்தைச் சேர்ந்த இரத்தினக்கல் வர்த்தகர் ஒருவர் இலங்கையின் வடிவிலான அரிய இயற்கை நீலக்கல் ஒன்றை கொள்வனவு செய்ததாக வியாழக்கிழமை (26) தெரிவித்தார்.
+Rare 5.37-carat blue sapphire discovered in Sri Lanka. Purchased by businessman Rohan Wasantha Dissanayake. Unique property allows viewing division between Sri Lanka and Jaffna peninsula. Certified by National Gem Jewelry Authority.
 
-இதனை வாங்கிய நிவித்திகல யக்தெஹிவத்தையைச் சேர்ந்த மாணிக்கக்கல் வியாபாரி.ரொஹான் வசந்த திஸாநாயக்க, இந்த நீல மாணிக்கத்தை மாணிக்கக் கற்கள் சேகரிப்பவர் ஒருவரிடமிருந்து வாங்கியதாகத் தெரிவித்தார்.
+🟩
 
-இந்த நீல மாணிக்கத்தை நீங்கள் ஒரே நேரத்தில் பார்த்தால், இலங்கை மற்றும் யாழ்ப்பாண குடாநாட்டின் நிலப்பரப்பு எவ்வாறு பிரிக்கப்பட்டுள்ளது என்பதை நீங்கள் காணலாம். மன்னாரின் நிலையும் அவ்வாறே தோன்றுகிறது. அதே போல் திருகோணமலை, இலங்கையின் நான்கு திசைகளும் அப்படித்தான் தோன்றும்.
+A gemstone businessman from Nivithigala area in Ratnapura had purchased a rare natural sapphire in Sri Lanka on Thursday (26).
 
-தேசிய இரத்தினக்கல் ஆபரண அதிகார சபையிடம் இந்த இரத்தினக்கல் சமர்ப்பிக்கப்பட்டு, 2024-12-24 அன்று இரத்தினக்கல் அடையாள சோதனை அறிக்கை பெறப்பட்டது.
+Rohan Wasantha Dissanayake said that the blue gem was bought from a gemstone collector.
 
-இந்த இரத்தினக்கல் இயற்கையான கொருண்டம் இனத்தைச் சேர்ந்தது: 5.37 கரட் எடையுள்ள நீலம். என தர்மசேகர மற்றும் ஜானக ஹேமச்சந்திர ஆகியோர் கையெழுத்திட்ட அடையாளச் சான்றிதழில் காணப்பட்டது.
+If you look at this blue gem simultaneously, you can see how the land of Sri Lanka and the Jaffna peninsula is divided. The status of Mannar seems like that. As well as the four directions of Trincomalee and Sri Lanka.
+
+The gem was submitted to the National Gem Jewelery Authority and received the Gemstone Identification Test report on 2024-12-24.
+
+This gem belongs to the natural coremist species: 5.37 carat weighs blue. Dharmasekara and Janaka Hemachandra were found in the identity certificate signed.
 
 ◼️
 
 [Data](articles/c8adea3f.json)
 
+[Extended Data](ext_articles/c8adea3f.ext.json)
+
 ---
 
-### තඹ කම්බි කැපූ අයෙක් නොඑන ගමන් යයි
+### A copper wire cut
 
 *2024-12-26 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204748) · `si`
 
-අම්පාර නගරයේ කාර්මික ප්‍රදේශයේ විදුලිබල මණ්ඩලයට අයත් ට්‍රාන්ස්පෝමරයක තඹ කම්බි කැපීමට ගිය පුද්ගලයෙක් විදුලි සැර වැදී මියගොස් තිබේ.
+Here's a summary in 200 characters:
 
-තඹ කම්බි කැපීමට ගිය පුද්ගලයා විදුලි කණුවේ ඇලී සිටි අතර, පසුව නගරයේ විදුලිය විසන්ධිකර ඔහුගේ සිරුර බිමට බෑමට පොලීසිය කටයුතු කර තිබේ.
+
+
+Man cuts copper wire in transformer. Gets electrocuted. Police recover body. Incident occurs in Ampara town.
+
+🟩
+
+An man who had gone to cut a copper whley in a transformer from the Electricity Board in Ampara town.
+
+The man who went to cut the copper wire was stuck in the electrical and the police had then arranged for his body to the ground.
 
 ◼️
 
 [Data](articles/fb82bd86.json)
+
+[Extended Data](ext_articles/fb82bd86.ext.json)
 
 ---
 
@@ -86,6 +164,8 @@ They have repeatedly accused Hasina -- then newly elected -- of orchestrating a 
 
 [Data](articles/0817f559.json)
 
+[Extended Data](ext_articles/0817f559.ext.json)
+
 ---
 
 ### ’என்னை பேய் என நினைத்தனர்’
@@ -101,6 +181,22 @@ They have repeatedly accused Hasina -- then newly elected -- of orchestrating a 
 ◼️
 
 [Data](articles/0ce0224e.json)
+
+---
+
+### පානීය ජල ව්‍යාපෘතියක් නිලධාරීන් අතින් ජන අයිිතියට
+
+*2024-12-26 16:15:08* · [`adalk`](https://www.ada.lk/breaking_news/පානීය-ජල-ව්‍යාපෘතියක්-නිලධාරීන්-අතින්-ජන-අයිිතියට/11-413855) · `si`
+
+මාතලේ අඹන්ගඟ කෝරළේ ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ කවුඩාගම්මන ග්‍රාමයේ පවුල් 144කට සෙත සලසන පානිය ජල ව්‍යාපෘතිය පසුගියදා නිලධාරීන් විසින් ජනතා අයිතියට පත්කරනු ලැබීය.
+
+වසර ගණනාවක් තිස්සේ පාණිය ජල ගැටලුවකට මුහුණ දුන් කවුඩාගම්මන ජනතාවගේ ඉල්ලීම සැලකිල්ලට ගෙන මාතලේ දිස්ත්‍රික්කයේ ක්‍රියාත්මක වු කදුකර දශකය ව්‍යාපෘතිය යටතේ මෙම පාණිය ජල ව්‍යාපෘතිය ක්‍රියාත්මක කරනු ලැබීය. මෙම ව්‍යාපෘතිය සදහා කදුකර දශකය වැඩසටහන යටතේ රු.මි. 6.8ක මුදලක් වැය කොට තිබේ. ජල මුලාශ්‍රයේ සිට මීටර් 1400ක දුරක් නල මගින් ජල ටැංකිවෙත රැගෙනවිත් එම ටැංකිවල සිට මීටර් 1500ක් ජල නල ඔස්සේ ජලය බෙදා හැරීම සිදුවේ.
+
+මෙම ව්‍යාපෘතිය පිළිබදව අදහස් දක්වමින් මාතලේ දිස්ත්‍රික් ක්‍රමසම්පාදන අධ්‍යක්ෂ අනුරුද්ධ බණ්ඩාර මහතා පැවැසුවේ පාර්ශව රැසකගේ සහයෙන් කණ්ඩායමක් වශයෙන් එක්ව කටයුතු කොට මෙම ව්‍යාපෘතිය සාර්ථක කරගත් බවයි.
+
+...
+
+[Data](articles/2c89f04a.json)
 
 ---
 
@@ -121,6 +217,22 @@ They have repeatedly accused Hasina -- then newly elected -- of orchestrating a 
 ...
 
 [Data](articles/2e5c10b0.json)
+
+---
+
+### Sri Lanka stocks close up, turnover Rs7bn
+
+*2024-12-26 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs7bn-196467/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday after the Christmas holiday, data on its site showed.
+
+The broader ASPI closed up 1.53 percent, or 232.13 points, at 15,400; while the more liquid S&P SL20 Index closed up 1.48 percent, or 67.15 points, at 4,602.
+
+Top positive contributors to the ASPI were LOLC Holdings (up at 665.00), Hatton National Bank (up at 293.75), Sunshine Holdings (up at 94.50), Sampath Bank (up at 112.75), and Aitken Spence (up at 142.75).
+
+◼️
+
+[Data](articles/3eb6a5d1.json)
 
 ---
 
@@ -2221,119 +2333,5 @@ Also, the 38, 15, 18, aged 38, 15, 18, from the village of Tandadi Uriri, who we
 [Data](articles/112ce02a.json)
 
 [Extended Data](ext_articles/112ce02a.ext.json)
-
----
-
-### 2024-12-25 (Wednesday)
-
-### PA
-
-*2024-12-25 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202150) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Party leader rejects alliances, vows separate local council race. Focuses on youth involvement, rebuilding from grassroots. Demands government action for new candidates.
-
-🟩
-
-He said this when he asked the party's general secretary Sakara Kariyawasam regarding the election for local councils.
-
-We have paid special attention to the local government elections. Not going to form an alliance with the parties involved in opportunist politics.
-
-Those who left us during the presidential election disappear from politics today. They are questioned as to which party to contest the next election.
-
-So we will contest the local government elections separately. Young people have been embedded within the party. We have begun the process of building the party again from the village level. The public will rise again.
-
-We will hold discussions soon regarding the deal for local councils. He said the government should take steps to demand new candidates without delay.
-
-◼️
-
-[Data](articles/85b7ab08.json)
-
-[Extended Data](ext_articles/85b7ab08.ext.json)
-
----
-
-### 554 Indian fishermen arrested on border charges in 2024;Naval spokesman's announcement that 72 boats will continue in the future in the future
-
-*2024-12-25 23:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202149) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Sri Lanka Navy arrests 554 Indian fishermen, seizes 72 boats in 2024 for entering restricted waters. Naval officials warn against future crossings, urging Indian fishermen to avoid banned fishing methods."
-
-🟩
-
-Sri Lanka Navy spokesman Captain Gayan Wickremasuriya says 554 Indian fishermen have been arrested and 72 fishing boats have been seized on charges of entering the Sri Lankan waters in 2024.
-
-We are carrying out special measures to prevent Indian fishermen entering the Sri Lankan waters.
-
-We have arrested 554 people for cross -border crime and handed over legal action during this year's activities.
-
-We have a huge responsibility to protect the Sri Lankan waters, resources and fishermen. It is on that basis that we are carrying out activities on the border crossing. In particular, we are carrying out our activities in the absence of casualties on Indian fishermen.
-
-However, we will continue to carry out serious action on border crossing. In particular, we will carry out activities including arrests and confiscation of boats and hand them over to domestic legal action.
-
-Therefore, we are demanding that Indian fishermen abandon banned fishing systems and to avoid entering the Sri Lankan waters.
-
-◼️
-
-[Data](articles/eca0c6d8.json)
-
-[Extended Data](ext_articles/eca0c6d8.ext.json)
-
----
-
-### Ceylon Electricity Board ignores fuel purchasing intellectuals
-
-*2024-12-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202152) · `ta`
-
-Ceylon Electricity Board criticized for ignoring fuel purchasing instructions, potentially reducing electricity tariffs by 30-35%. Public Utilities Commission urges compliance, but no agreement reached yet.
-
-🟩
-
-The Electricity Consumer Association has accused the Ceylon Electricity Board of buying fuel at retail prices from the Ceylon Petroleum Corporation, ignoring the instructions on the concession pricing of the Sri Lanka Public Utilities Commission.
-
-The Ceylon Electricity Board (CEB) is said to be receiving 20 to 40 percent of the country's total fuel consumption.
-
-Although the fuel is said to be directly obtained through pipes, the Ceylon Electricity Board continues to receive fuel from the Petroleum Corporation, which is similar to the retail price, including site rental and employee fees.
-
-Since last year, the Public Use the Commission has repeatedly urged the Ceylon Electricity Board to reach the Ceylon Corporation's Petroleum Corporation with the Petroleum Corporation.
-
-...
-
-[Data](articles/903daba0.json)
-
-[Extended Data](ext_articles/903daba0.ext.json)
-
----
-
-### Accidents were not caused by the substandard of private buses: Gemunu
-
-*2024-12-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202153) · `ta`
-
-Private bus owners reject claims of substandard vehicles causing accidents. Association president cites safety measures and challenges faced. Government urged to address driver and conductor shortages.
-
-🟩
-
-The All Ceylon Private Bus Owners Association has said that it will completely reject the allegations that private buses are not fulfilled.
-
-In recent times, private buses have been subjected to many accidents. Some of them have taken the life of the passengers. Three people were killed and more than 23 passengers were injured in a recent accident in Hatton on December 21 last year.
-
-In this case, the President of the All Ceylon Private Bus Owners Association, Gemunu Wijeratne, inquired about the allegations that many private buses did not meet the appropriate standards.
-
-For example, if the accident in Hatton took place, only three people died because the bus was safe, while others survived.
-
-If any other type of buses may have died more. We do not accept unauthorized changes. So it is wrong to blame only buses.
-
-...
-
-[Data](articles/c982b393.json)
-
-[Extended Data](ext_articles/c982b393.ext.json)
 
 ---

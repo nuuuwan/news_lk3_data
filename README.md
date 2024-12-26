@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 04:43:09**
+As of **2024-12-27 05:01:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,711 (99.2%) of 62,198 articles have been extended.
+61,712 (99.2%) of 62,198 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1444,25 +1444,37 @@ The SJB has also urged the government and provincial council officials to immedi
 
 ---
 
-### ගංවතුරෙන් හානි වූ ගොවිබිම් රැසක් හඳුනාගැනේ
+### Many farmland damaged floods identified
 
 *2024-12-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204744) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් පසුගිය නොවැම්බර් මස ඇති වූ ගංවතුරෙන් හානි වූ ගොවිබිම් අක්කර 80,000කට ආසන්න ප්‍රමාණයක් මේ වනවිට හදුනාගෙන ඇති බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-2024/25 මහ කන්නයේ වගා හානි පරීක්ෂාවට අදාළව අද (26) දිනට ප්‍රගතිය දක්වමින් මාධ්‍ය වෙත නිවේදනයක් නිකුත් කරමින් මේ බව දන්වා සිටියේය.
 
-එම නිවේදනයට අනුව අනුව 2024/25 මහ කන්නයේ 2024 නොවැම්බර් මස ඇති වූ ගංවතුර තත්ත්වය හේතුවෙන් වගා හානි සිදු වූ වගාවන් පරීක්ෂාකිරීම මේ වනවිටත් ගොවිජන සංවර්ධන දෙපාර්තමේන්තුවේ සහයෙන් හා ගොවි සංවිධානවල සහභාගිත්වයෙන් සිදුකෙරේ.
 
-ඉන් පොලොන්නරුව, වවුනියාව, මුලතිව්, මන්නාරම යන දිස්ත්‍රික්කවල වගා හානි පරීක්ෂාව මේ වනවිට අවසන් කර ඇත.
+"Floods damage 80,000 acres of farmland. Crop assessment ongoing in Polonnaruwa, Vavuniya, Mullaitivu, Mannar. Compensation to follow after district reports. Damage evaluation in Batticaloa, Ampara, Trincomalee by Sept 29."
 
-එම දිස්ත්‍රික්කවලට අදාළ අවසන් වාර්තා ලද පසුව වන්දි ගෙවීම් කටයුතු කරන බව මෙම නිවේදනයේ දැක්වේ.
+🟩
 
-මීට අමතරව මඩකලපුව, අම්පාර හා ත්‍රිකුණාමලය දිස්ත්‍රිකවල වගා හානි පරීක්ෂාව එළැඹෙන 29 වනවිටත්, අනුරාධපුරය, කුරුණෑගල, මාතලේ යන දිස්ත්‍රික්කවල වගා හානි පරීක්ෂාව දෙසැම්බර් මස 30 වනවිටත් අවසන් කිරීමට කටයුතු යොදා ඇත.
+Nearly 80,000 acres of farms have been identified as the floods damaged due to inclement weather.
 
-...
+The following was a statement made by progressing to the media regarding the development of the crop damage in the Maha season today (26).
+
+According to the incident, the crop crop hazardous crops is currently being carried out due to the participation of cultivated and farmer organizations in the Agrarian Development Department.
+
+Cultivation has been completed in Polonnaruwa, Vavuniya, Mullaitivu and Mannar Districts.
+
+The announcement states that compensation will be taken after the final reported to the respective districts.
+
+In addition, the Cultural Damage test will be completed at the September 29, Batticaloa, Ampara and Trincomalee districts.
+
+The agricultural and the Agrarian Courses, the Department of Agriculture and Agrarian Insurance further states that the prosecution of the farmers' account to be disasters are assessed by the estimated.
+
+◼️
 
 [Data](articles/73dc8ef2.json)
+
+[Extended Data](ext_articles/73dc8ef2.ext.json)
 
 ---
 

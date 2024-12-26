@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-26 22:43:25**
+As of **2024-12-26 23:01:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,742
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,688 (99.2%) of 62,183 articles have been extended.
+61,689 (99.2%) of 62,183 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -624,19 +624,27 @@ The man who went to cut the copper wire was stuck in the electrical and the poli
 
 ---
 
-### නෙවිල් ප්‍රනාන්දු රෝහල නව්‍යකරණයට
+### Neville Fernando hospital innovation
 
 *2024-12-26 16:38:42* · [`adalk`](https://www.ada.lk/breaking_news/නෙවිල්-ප්‍රනාන්දු-රෝහල-නව්‍යකරණයට/11-413859) · `si`
 
-ප්‍රධාන ධාරාවන් කිහිපයක් පිළිබදව අවධානය යොමු කර සුදුසුම සංවර්ධන සැළැස්ම ක්‍රියාත්මක කරමින් මාළඹේ වෛද්‍ය නෙවිල්  ප්‍රනානදු රෝහල රටට අතිශය ඵලදායී රෝහලක් ලෙස කඩිනමින් සංවර්ධනය කිරීමට පියවර ගන්නා බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කලේය.
+Dr. Neville Fernando Hospital innovation: Minister emphasizes developing effective healthcare system, targets improving quality and capacity. Hospital has 800 beds, 100 rooms, and focuses on tourism sector integration.
 
-අමාත්‍යවරයා මෙම කරුණු අනාවරණය කලේ පසුගියදා වෛද්‍ය නෙවිල් ප්‍රනාන්දු රෝහලේ සිදුකරන ලද විශේෂ නිරීක්ෂණ චාරිකාවකට හා සාකච්ඡාවකට එක්වෙමිනි. සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා ලෙස වෛද්‍ය නලින්ද ජයතිස්ස මහතා සිය ධූරයේ රාජකාරී ආරම්භ කිරීමෙන් පසු රජයේ රෝහලක සිදුකරන ලද පළමු නිරීක්ෂණ චාරිකාව ද මෙය විය.
+🟩
 
-මෙහිදී අමාත්‍යවරයා රෝහලේ සියලු අංශ නිරීක්ෂණයට ලක් කරමින් අදාල ඉදිරි සැළසුම් සකස් කිරීම සදහා අමාත්‍යංශයේ නිලධාරීන්, විශේෂඥ වෛද්‍යවරුන් ප්‍රමුඛ රෝහල් කාර්ය මණ්ඩලය සමග ඉතා දීර්ඝ සාකච්ඡාවක නිරත විය.
+Health and Mass Media Media Dr. Nalinda Jayatissa emphasized that steps will be taken to develop the country as a most effective hospital to the country as a most effective hospital to the country.
+
+The Minister revealed this a special inspection tour and discussion at the Dr. Neville Fernando Hospital recently. It was also the first visit to Dr. Nalinda Jayatissa as the Minister of Health and Mass Media.
+
+The Minister inspected all aspects of the Minister and conducted a long discussion with the staff of the Ministry and the staff of the Ministry.
+
+It was revealed that the Special committee appointed by the Special committee to direct the Director General of Health Services to be implemented under the patronage of the Director General of Health.
 
 ...
 
 [Data](articles/902236e5.json)
+
+[Extended Data](ext_articles/902236e5.ext.json)
 
 ---
 

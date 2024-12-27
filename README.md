@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 15:12:54**
+As of **2024-12-27 15:27:20**
 
 ## Newspaper Stats
 
-*Scraped **62,284** Articles*
+*Scraped **62,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,950
-adaderanalk | 7,600
+adaderanalk | 7,601
 tamilmirrorlk | 8,938
 virakesarilk | 10,316
 adaderanasinhalalk | 10,756
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,743 (99.1%) of 62,284 articles have been extended.
+61,744 (99.1%) of 62,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,21 +86,27 @@ Ranil Wickremesinghe is on a tour of the country these days, while the Indian Pr
 
 ---
 
-### விபத்தில் உயிரிழந்த பொலிஸ் பரிசோதகர்
+### Police Inspector who died in an accident
 
 *2024-12-27 14:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-உயிரிழந்த-பொலிஸ்-பரிசோதகர்/175-349382) · `ta`
 
-ஹபரணை - திருகோணமலை வீதியின் கல் ஓயா சோதனைச் சாவடியில் நேற்றிரவு வாகன சோதனையில் ஈடுபட்டிருந்த பொலிஸ் பரிசோதகர் ஒருவர் விபத்தில் உயிரிழந்துள்ளார்.
+Police inspector dies in multi-vehicle crash near Habarana. Injured individuals hospitalized, including infant and other officers.
 
-கட்டுப்பாட்டை இழந்த டிப்பர் வாகனம் பொலிஸ் பரிசோதகர், லொறி மற்றும் கார் மீது மோதியதால் இந்த விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-இவ்விபத்தில் பொலிஸ் பரிசோதகர் படுகாயமடைந்த நிலையில் ஹபரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+A police inspector who was involved in a vehicle inspection last night at the Kal Oya checkpoint on the Habarana - Trincomalee road has died in an accident.
 
-காரில் இருந்த ஒரு பெண் மற்றும் 4 மாத கைக்குழந்தை, மற்றுமொரு பொலிஸ் உத்தியோகத்தர் மற்றும் லொறியின் சாரதி ஆகியோர் ஹபரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் தம்புள்ளை வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+The accident occurred when the police inspector, the lorry and the car crashed into a tipper vehicle.
+
+The police inspector died after being admitted to Habarana Hospital after being injured.
+
+A woman in the car and a 4 -month -old infant, another police officer and the lorry driver have been admitted to the Habarana Hospital and later transferred to the Dambulla Hospital.
 
 ◼️
 
 [Data](articles/63cc6359.json)
+
+[Extended Data](ext_articles/63cc6359.ext.json)
 
 ---
 
@@ -163,6 +169,28 @@ Ranil Wickremesinghe is on a tour of the country these days, while the Indian Pr
 ◼️
 
 [Data](articles/450b652d.json)
+
+---
+
+### South Korean parliament votes to impeach acting president Han Duck-soo
+
+*2024-12-27 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104522/south-korean-parliament-votes-to-impeach-acting-president-han-duck-soo) · `en`
+
+A majority of South Korea‘s parliament voted on Friday to impeach acting president Han Duck-soo.
+
+Prime minister Han has been acting president since president Yoon Suk Yeol was impeached on December 14th over his short-lived imposition of martial law on December 3rd, and his presidential powers were suspended.
+
+After Mr Han’s impeachment, finance minister Choi Sang-mok is next in line to assume the acting presidency, according to South Korean law.
+
+Some 192 lawmakers voted to impeach Han out of the 300-member parliament.
+
+The main opposition Democratic Party (DP), which controls parliament, decided to impeach Mr Han after he did not immediately appoint three justices to fill vacancies at the constitutional court.
+
+The DP-controlled parliament backed three nominees on Thursday, but Han said he would not formally appoint them unless there was bipartisan agreement on the appointments.
+
+...
+
+[Data](articles/f4eb514a.json)
 
 ---
 
@@ -2185,27 +2213,5 @@ The homeowing 39-year-old woman who was diagnosed with a heart attack was admitt
 [Data](articles/e3cd664c.json)
 
 [Extended Data](ext_articles/e3cd664c.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 294.00/15 to dollar, bonds steady
-
-*2024-12-26 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-294-00-15-to-dollar-bonds-steady-196473/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee improved to close at 294.00/15 to the US dollar on Thursday from 294.00/295.50 on Monday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/55 percent, from up 9.40/50 percent.
-
-A bond maturing on 15.02.2028 closed at 10.08/18 percent, down from 10.10/20 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.65/75 percent.
-
-A bond maturing on 15.03.2030 closed at 11.00/15 percent. (Colombo/Dec26/2024)
-
-◼️
-
-[Data](articles/d0d4062c.json)
-
-[Extended Data](ext_articles/d0d4062c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 18:24:16**
+As of **2024-12-27 18:37:53**
 
 ## Newspaper Stats
 
-*Scraped **62,309** Articles*
+*Scraped **62,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailymirrorlk | 4,733
 adalk | 5,952
 adaderanalk | 7,605
 tamilmirrorlk | 8,939
-virakesarilk | 10,326
-adaderanasinhalalk | 10,763
+virakesarilk | 10,328
+adaderanasinhalalk | 10,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,753 (99.1%) of 62,309 articles have been extended.
+61,753 (99.1%) of 62,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### සිම්බාබ්වේ ටෙස්ට් වාර්තා අලුත් කරයි
+
+*2024-12-27 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204778) · `si`
+
+සංචාරක ඇෆ්ගනිස්තායට එරෙහිව බුලවායෝහිදී පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දී සිය ටෙස්ට් ක්‍රිකට් දිවියේ ඉහළම ඉනිම ක්‍රීඩා කිරීමට සිම්බාබ්වේ කණ්ඩායමට අද (27) හැකිවිය.
+
+තරගයේ දෙවන දිනය වූ අද සත්කාරක සිම්බාබ්වේ කණ්ඩායම සිය පළමු ඉනිමට සියලු දෙනා දැවී ලකුණු 586ක් රැස්කිරීමට සමත් විය.
+
+මීට පෙර ඔවුන් ක්‍රීඩාකර තිබූ ඉහළම ඉනිම වූයේ 2001 වසරේදී බ.ඉ. කොදෙව් කණ්ඩායමට එරෙහිව හරාරේහිදී පැවති තරගයකදී ලකුණු 563ක් රැස්කර තිබීමයි.
+
+නායක ක්‍රෙග් අර්වින් ලකුණු 104ක් හා බ්‍රයන් බෙනට් නොදැවී ලකුණු 110ක් රැස්කිරීමට සමත් විය.
+
+◼️
+
+[Data](articles/a1b49c0e.json)
+
+---
+
+### தமிழர்களின் உரிமைகளை பாதுகாக்கும் வகையில் புதிய அரசியலமைப்பு உருவாக்கப்பட வேண்டும் - பேராசிரியர் திஸ்ஸ விதாரண
+
+*2024-12-27 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202326) · `ta`
+
+புதிய அரசியலமைப்பின் ஊடாக இனப்பிரச்சினைக்கு தீர்வு காண வேண்டும் என்று குறிப்பிட்ட ரணில் விக்கிரமசிங்க சமஷ்டியாட்சி முறைமைக்கு நேரடியாக எதிர்ப்பு தெரிவித்தார். தமிழர்களின் உரிமைகளை பாதுகாக்கும் வகையில் புதிய அரசியலமைப்பு உருவாக்கப்பட வேண்டும் என்பதை ஜனாதிபதியிடம் வலியுறுத்தியுள்ளேன். ஏனெனில் சட்டங்களின் ஊடாகவும் தமிழர்களுக்கு அநீதி இழைக்கப்பட்டுள்ளதென ஸ்ரீ லங்கா சமசமாஜக் கட்சியின் தலைவர் பேராசிரியர் திஸ்ஸ விதாரண தெரிவித்தார்.
+
+புதிய அரசியலமைப்பு உருவாக்கத்துக்கான பணிகளை துரிதப்படுத்துவதாக அரசாங்கம் குறிப்பிட்டுள்ளமை வரவேற்கத்தக்கது.   பல தசாப்தகாலமாக புதிய அரசியலமைப்பு உருவாக்கம் பற்றி பேசப்படுகிறது. இருப்பினும் எந்த அரசாங்கங்களும் புதிய அரசியலமைப்பினை உருவாக்கவில்லை.முதலாளித்துவ தரப்பினர் இனப்பிரச்சினைக்கு தீர்வு காண்பதற்கு விரும்பவில்லை என்பது தெளிவாக தெரிகிறது.
+
+...
+
+[Data](articles/91f2f520.json)
+
+---
 
 ### රු කෝ 160 වංචා කළ අඹුසැමියන් රිමාන්ඩ්
 
@@ -71,6 +103,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d76815d2.json)
+
+---
+
+### அலங்கு - திரைப்பட விமர்சனம்
+
+*2024-12-27 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/202324) · `ta`
+
+நடிகர்கள் : குணாநிதி , காளி வெங்கட் , செம்பன் வினோத் , சரத் அப்பாணி,  ஸ்ரீ ரேகா,  ரெஜின் ரோஸ்,  கொற்றவை மற்றும் பலர்
+
+பாட்டாளி மக்கள் கட்சி எனும் தமிழக அரசியல் கட்சியின் தற்போதுள்ள தலைவரான அன்புமணி ராமதாஸின் வாரிசான சங்கமித்ரா அன்புமணி தயாரித்திருக்கும் திரைப்படம் என்பதால் இப்படத்திற்கு வட தமிழகத்தில் உள்ள மக்களிடத்தில் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியது. இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் எதிர்பார்ப்பை பூர்த்தி செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+தமிழகம் மற்றும் கேரள மாநிலத்தின் எல்லை பகுதியை ஒட்டியுள்ள மலைப்பகுதிகளில் வாழும் பழங்குடி மக்களில் கதையின் நாயகனும் ஒருவர். இவர் ஒரு முறை செல்லப் பிராணியாக வளர்க்கப்படும் நாயின் உயிரை காப்பாற்றுகிறார். அந்த நாய் நன்றியுடன் இவரை வீடு வரை பின் தொடர்கிறது.
+
+அதற்கு நாயகன் காளி என பெயரிட்டு வளர்த்து வருகிறார். இந்த தருணத்தில் இவர் பொருளாதார சிக்கலுக்கு ஆளாகி இருக்கும் தன் குடும்பத்தை மீட்பதற்காக கேரள மாநிலத்திற்கு புலம் பெயர்ந்து வேலை செய்கிறார். அங்கு அவர் பாசத்தோடு வளர்த்து வரும் காளி எனும் நாய்க்கு ஒரு பிரச்சனை ஏற்படுகிறது.
+
+...
+
+[Data](articles/d5616747.json)
 
 ---
 
@@ -2067,53 +2117,5 @@ Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at
 ◼️
 
 [Data](articles/cccb9f2a.json)
-
----
-
-### Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
-
-*2024-12-27 02:49:05* · [`dailyftlk`](https://www.ft.lk/news/Archbishop-of-Colombo-Cardinal-Malclom-Ranjith-conducts-the-Christmas-service-at-Our-Lady-of-Sorrows-Church-in-Ja-Ela-A-large-crowd-was-present-for-the-mid-night-service-Pix-by-Pradeep-Pathirana/56-771039) · `en`
-
-Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/ed7866b5.json)
-
-[Extended Data](ext_articles/ed7866b5.ext.json)
-
----
-
-### Speakers of Sri Lanka: “Honourable” guardians of Parliament’s sovereignty
-
-*2024-12-27 02:47:14* · [`dailyftlk`](https://www.ft.lk/columns/Speakers-of-Sri-Lanka-Honourable-guardians-of-Parliament-s-sovereignty/4-771038) · `en`
-
-Season’s greetings to all readers! Let me begin the second part of this article on the speakers of Sri Lanka with a reference to former Speaker Asoka Ranwala. A source who is usually well-informed about matters concerning the Janatha Vimukthi Peramuna (JVP) and the National People’s Power (NPP) got in touch with me a few days ago. He said that ex-Speaker Ranwala had indeed acquired a doctoral degree from Japan.
-
-According to this JVP/NPP “partisan” source, Asoka Ranwala has indeed acquired a PhD from a Japanese institution of higher learning and is therefore entitled to the prefix “Dr”. Apparently Ranwala, a longstanding activist of the JVP, had “escaped” from Sri Lanka when the Ranasinghe Premadasa regime had cracked down hard on the JVP in the 1989-90 period. Ranwala had made his way to Japan and resided there for several years, stated this source.
-
-...
-
-[Data](articles/87bd6ad5.json)
-
-[Extended Data](ext_articles/87bd6ad5.ext.json)
-
----
-
-### SJB sets up special unit to probe alleged politicised transfers
-
-*2024-12-27 02:41:43* · [`dailyftlk`](https://www.ft.lk/news/SJB-sets-up-special-unit-to-probe-alleged-politicised-transfers/56-771037) · `en`
-
-The Samagi Jana Balawegaya (SJB) has announced the establishment of a special unit to investigate what it alleges are arbitrary transfers of public officials at the Government and provincial council levels.
-
-In a statement issued by the party, General Secretary Ranjith Madduma Bandara called on the Government and provincial council authorities to immediately suspend all such transfers. He also invited the public to provide information regarding these transfers, either anonymously or voluntarily, to aid the investigation.
-
-The statement highlighted concerns over a systematic program of transferring public officials in key sectors without just cause. This, it claimed, has disrupted the work of Local Government Assistant Commissioners, Local Government Secretaries, and Cooperative Assistant Development Commissioners, among others.
-
-...
-
-[Data](articles/2d78d242.json)
-
-[Extended Data](ext_articles/2d78d242.ext.json)
 
 ---

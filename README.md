@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 02:27:34**
+As of **2024-12-28 02:43:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,777 (99.1%) of 62,358 articles have been extended.
+61,778 (99.1%) of 62,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -137,6 +137,8 @@ TMH Group of Companies Chairman Dr. Tharmalingam Tharesanan, was honoured as a G
 ...
 
 [Data](articles/08efb9bc.json)
+
+[Extended Data](ext_articles/08efb9bc.ext.json)
 
 ---
 

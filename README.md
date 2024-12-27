@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 03:12:39**
+As of **2024-12-28 03:27:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,779 (99.1%) of 62,359 articles have been extended.
+61,780 (99.1%) of 62,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -189,6 +189,8 @@ The journalist received treatment at the Kilinochchi Hospital for injuries susta
 ◼️
 
 [Data](articles/dffe2aa9.json)
+
+[Extended Data](ext_articles/dffe2aa9.ext.json)
 
 ---
 

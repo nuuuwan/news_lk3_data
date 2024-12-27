@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 15:01:54**
+As of **2024-12-27 15:12:54**
 
 ## Newspaper Stats
 
-*Scraped **62,283** Articles*
+*Scraped **62,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,775
 economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,949
+adalk | 5,950
 adaderanalk | 7,600
 tamilmirrorlk | 8,938
 virakesarilk | 10,316
@@ -26,29 +26,35 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,742 (99.1%) of 62,283 articles have been extended.
+61,743 (99.1%) of 62,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### பறக்கும் விமானத்தில் உயிரிழந்த இலங்கைப் பெண்
+### Sri Lankan woman died on a flying plane
 
 *2024-12-27 14:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறக்கும்-விமானத்தில்-உயிரிழந்த-இலங்கைப்-பெண்/175-349383) · `ta`
 
-பாரிஸ் நோக்கி பயணித்துக்கொண்டிருந்த கட்டார் எயார்வேஸ் விமான நிறுவனத்திற்கு சொந்தமான விமானத்தில் பயணித்த இலங்கைப் பெண்ணொருவர் திடீரென சுகவீனமடைந்த நிலையில் உயிரிழந்துள்ளார்.
+Sri Lankan woman dies on Qatar Airways flight to Paris. Plane makes emergency landing at Erbil Airport after passenger falls ill. Medical teams summoned but woman pronounced dead. Embassy notifies son in France. Body arrangements made for repatriation.
 
-குறித்த பெண்ணுக்கு திடீர் உடல் நலக்குறைவு ஏற்பட்டதால், ஈராக்கில் உள்ள எர்பில் சர்வதேச விமான நிலையத்தில் விமானம் அவசரமாக தரையிறக்கப்பட்டது.
+🟩
 
-முன் அறிவிப்புகளின்படி, மருத்துவக் குழுக்களும் விமான நிலையத்திற்கு வரவழைக்கப்பட்டன, ஆனால் அவர் ஏற்கனவே இறந்துவிட்டதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+A Sri Lankan woman who was traveling on a plane belonging to the Qatar Airways Airlines, who was traveling to Paris, died suddenly.
 
-எர்பிலில் உள்ள இலங்கை துணைத் தூதரகம் இது தொடர்பாக பிரான்ஸ் பிரஜையான அவரது மகனுக்குத் தெரிவிக்க ஏற்பாடு செய்துள்ளது.
+The flight landed at the Erbil International Airport in Iraq in a hurry due to the sudden illness of the woman.
 
-உடலை பிரான்ஸ்க்கு கொண்டு செல்ல தேவையான ஏற்பாடுகள் செய்யப்பட உள்ளதாக தெரிவிக்கப்பட்டுள்ளது. R
+According to pre -announcements, medical teams were also summoned to the airport, but foreign media reports that he is already dead.
+
+The Sri Lankan Embassy in Erbil has arranged to inform his son of France.
+
+It has been reported that the necessary arrangements are made to take the body to France. Remble
 
 ◼️
 
 [Data](articles/02dbe2af.json)
+
+[Extended Data](ext_articles/02dbe2af.ext.json)
 
 ---
 
@@ -2102,6 +2108,28 @@ The Thald Padaya Chairman of the Palrith and Member of Parliament, Minister Rama
 
 ---
 
+### ලංකාව හැඩය ගත් මැණිකක් සොයා ගනියි
+
+*2024-12-26 18:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-හැඩය-ගත්-මැණිකක්-සොයා-ගනියි/11-413863) · `si`
+
+ලංකාව හැඩය ඇති හැඩයෙන් දුර්ලභ ස්වභාවික නිල් මැණිකක් තමන් විසින් මිලදී ගත් බව රත්නපුර නිවිතිගල ප්‍රදේශයේ මැණික් ව්‍යාපාරිකයෙක් ඊයේ (26දා) පැවසුවේය.
+
+මෙම නිල් මැණික තමන් කරවිට ප්‍රදේශයේ මැණික් ගරන තැනැත්තෙකුගෙන් මිලදි ගත් බව යක්දෙහිවත්ත ප්‍රදේශයේ පදිංචි රොහාන් වසන්ත දිසානායක මහතා පැවසුවේය.
+
+මෙම නිල් මැණික දෙස එකවර බැලුවිට එය පෙනෙන්නේ ලංකාවේ භූමි සැලසුමය. යාපන අර්ධද්වීපය වෙන්ව ඇති සිටි මැනවින් දිස් වෙයි. මන්නාරමේ පිහිටීමද ඒ ආකාරයෙන්ම දිස්වෙයි. ත්‍රිකුණාමලය මෙන්ම ලංකාවේ සිව් දිසාවම ඒ ආකාරයෙන් දිස් වෙයි.
+
+ඔහු  මැණික් හා ස්වර්ණාභරණ අධිකාරියට එම මැණික් ගල ඉදිරිපත් කර  හඳුනාගැනීමේ පරීක්ෂණ වාර්තාවක් ඉකුත් 24 දින ලබාගෙන තිබේ.
+
+මේ සම්බන්ධයෙන් අදහස් දැක්වූ මැණික් ව්‍යාපාරික රොහාන් වසන්ත දිසානායක මහතා මෙසේ කීය.
+
+“මෙවැනි මැණික් වර්ග දුර්ලභයි. දුර්ලභ වර්ගයේ පිහිටීම් ඇති ස්වාභාවික මැණික් එකතු කරන කෙනෙකුට මේ ගල ඉතාම වටිනවා. මේ ගල කපා ඔප දැමීමට මගේ අදහසක් නෑ.
+
+...
+
+[Data](articles/35c6e2f7.json)
+
+---
+
 ### Recovery as dead father, son, nephew in the sea
 
 *2024-12-26 17:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மாயமான-தந்தை-மகன்-மருமகன்-சடலங்களாக-மீட்பு/175-349344) · `ta`
@@ -2179,31 +2207,5 @@ A bond maturing on 15.03.2030 closed at 11.00/15 percent. (Colombo/Dec26/2024)
 [Data](articles/d0d4062c.json)
 
 [Extended Data](ext_articles/d0d4062c.ext.json)
-
----
-
-### Batticaloa's body recovered from water in Batticaloa - Vavuniya area
-
-*2024-12-26 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202230) · `ta`
-
-Body recovered from water in Batticaloa-Vavuniya area. 51-year-old male found in Chippimadu. Relatives searched after he went missing last Monday. Body in poor condition with injuries. Post-mortem conducted at Batticaloa Teaching Hospital.
-
-🟩
-
-The body of a man has been recovered today (26) from the water bodies in the Chippimadu area of ​​the Vavuniya Police Division of the Batticaloa District.
-
-Vavuniya police said that 51 -year -olds have been recovered from the Chinnasipimadu area of ​​Gandhinagar, Vavunathivu.
-
-Relatives said that the person who had left the house last Monday morning has been recovered in the area as relatives have been searching for the home.
-
-Investigations were carried out under the leadership of the Vavuniya Police Station in charge of the area and the body was taken to the Batticaloa Teaching Hospital for post -mortem.
-
-Relatives who visited the body said the body was in a state of rotting and some injuries were found in the body.
-
-◼️
-
-[Data](articles/3ed97893.json)
-
-[Extended Data](ext_articles/3ed97893.ext.json)
 
 ---

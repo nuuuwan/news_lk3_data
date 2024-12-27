@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 12:17:15**
+As of **2024-12-27 12:28:45**
 
 ## Newspaper Stats
 
-*Scraped **62,260** Articles*
+*Scraped **62,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,947
-adaderanalk | 7,597
+adaderanalk | 7,598
 tamilmirrorlk | 8,935
 virakesarilk | 10,307
-adaderanasinhalalk | 10,750
+adaderanasinhalalk | 10,752
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,734 (99.2%) of 62,260 articles have been extended.
+61,734 (99.2%) of 62,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### ගුවන් යානයක් තුළ ශ්‍රී ලාංකික කාන්තාවක් මියයයි
+
+*2024-12-27 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204766) · `si`
+
+දෝහා හි සිට ප්‍රංශයේ පැරිස් නුවර බලා පියාසර කරමින් තිබූ ගුවන්යානයක් තුළදී හදිසි රෝගී තත්ත්වයකට පත් වූ ශ්‍රී ලාංකික කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+කටාර් එයාර්වේස් ගුවන් සමාගමට අයත් අදාළ යානයේ සිටි එම කාන්තාව රෝගී තත්ත්වයට පත්වීම හේතුවෙන් යානය ඉරාකයේ අර්බිල් ජාත්‍යන්තර ගුවන්තොටුපල වෙත හදිසි ගොඩබැස්සවීමකට ද ලක් කර ඇත.
+
+සිදුකළ පූර්ව දැනුම්දීම්වලට අනුව වෛද්‍ය කණ්ඩායම් ද ගුවන්තොටුපොළ වෙත කැඳවා තිබූ නමුත්, ඒ වන විටත් ඇය මියගොස් සිටි බව විදෙස් වාර්තා සඳහන් කරයි.
+
+මෙලෙස මියගොස් ඇත්තේ ප්‍රංශයේ රැදී සිටි 81 හැවිරිදි ශ්‍රී ලාංකික කාන්තාවක්ය.
+
+ප්‍රංශ ජාතිකයෙකු වන ඇයගේ පුත්‍රයාට මේ සම්බන්ධයෙන් දැනුම්දීමට අර්බිල්හි ශ්‍රී ලංකා කොන්සල් කාර්යාලය කටයුතු කර තිබේ.
+
+මළ සිරුර ප්‍රංශය වෙත රැගෙන යාම සඳහා අවශ්‍ය කටයුතු සිදුකිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/21a51fef.json)
+
+---
 
 ### The shortage for essentials will last further
 
@@ -53,6 +75,40 @@ Provincial Councils and Local Government Deputy Minister Ruwan Senarath said tha
 [Data](articles/742e45e8.json)
 
 [Extended Data](ext_articles/742e45e8.ext.json)
+
+---
+
+### සන්නද්ධ හමුදා කැඳවමින් ජනපතිගෙන් අති විශේෂ ගැසට් නිවේදනයක්
+
+*2024-12-27 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204765) · `si`
+
+මහජන ආරක්ෂක ආඥාපනත යටතේ ජනාධිපතිවරායට පැවරී ඇති බලතල ප්‍රකාරව  ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නම්කළ ප්‍රදේශ කිහිපයකට සන්නද්ධ හමුදා කැඳවමින් අති විශේෂ ගැසට් නිවේදනයක් ඊයේ (26) නිකුත් කර තිබේ.
+
+එම ප්‍රදේශවල මහජන සාමය පවත්වාගෙන යාම සඳහා අද (27) සිට ක්‍රියාත්මක වන පරිදි මෙය නියෝගය බලපැවැත්වේ.
+
+කොළඹ පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+ගම්පහ පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+කළුතර පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+ගාල්ල පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+මාතර පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+හම්බන්තොට පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+යාපනය පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+කිලිනොච්චිය පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+මන්නාරම පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+මුලතිව් පරිපාලන දිස්ත්‍රික්කය හා ඒ දිස්ත්‍රික්කයට යාබද දේශීය ජල තීරය
+
+...
+
+[Data](articles/fff07628.json)
 
 ---
 
@@ -231,6 +287,30 @@ Special train services will be provided from the Colombo Fort Railway Station at
 ◼️
 
 [Data](articles/753e0938.json)
+
+---
+
+### Police Sergeant killed in road accident near Galoya checkpoint
+
+*2024-12-27 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104519/police-sergeant-killed-in-road-accident-near-galoya-checkpoint) · `en`
+
+A tipper truck that was being driven on the road collided with a police officer on duty after the driver allegedly lost control of the vehicle.
+
+The police officer was dragged forward with the tipper truck and had also collided against a lorry and a car, sustaining serious injuries.
+
+Accordingly, the police officer has succumbed to his injuries after being admitted to the Habarana Hospital.
+
+The fatal accident occurred last night (26) near the Galoya Police checkpoint on the Habarana-Trincomalee Road in the Habarana Police Division.
+
+The accident took place while the police officers were on duty, conducting vehicle inspections at the checkpoint.
+
+In addition to the deceased officer, another police officer, a woman who was in the car, and a 4-month-old baby were injured in the accident.
+
+The driver of the lorry was admitted to Habarana Hospital and later transferred to Dambulla Hospital for further treatment.
+
+...
+
+[Data](articles/e3fbef25.json)
 
 ---
 
@@ -2201,91 +2281,5 @@ Happiness Benefits Under the first phase of the revenue benefit scheme, welfare 
 [Data](articles/8cc30aeb.json)
 
 [Extended Data](ext_articles/8cc30aeb.ext.json)
-
----
-
-### The telephone thought of me as ghost
-
-*2024-12-26 16:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/என்னை-பேய்-என-நினைத்தனர்/50-349329) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Boy from Indonesia lost family in 2004 tsunami. Survived alone for weeks. Shock lasted 20 years. Ronaldo helped after photos went viral. Now works as content creator in Indonesia.
-
-🟩
-
-The boy from Indonesia has been living alone for three weeks during the tsunami in 2004.
-
-Both his mother and sibling died in the tsunami. Has been left without food for several days. After 20 years, he did not come out of that shock.
-
-Her photos go viral, footballer Ronaldo helped him. Currently, she works as a Constant Creator in Indonesia. (BBC)
-
-◼️
-
-[Data](articles/0ce0224e.json)
-
-[Extended Data](ext_articles/0ce0224e.ext.json)
-
----
-
-### Officers in Drinking Water Supply
-
-*2024-12-26 16:15:08* · [`adalk`](https://www.ada.lk/breaking_news/පානීය-ජල-ව්‍යාපෘතියක්-නිලධාරීන්-අතින්-ජන-අයිිතියට/11-413855) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Panadahara Water Supply project: 144 families in Kawadugammana village receive public water supply. Kavadu Water Project implemented to address water scarcity. Rs. 6.8 million spent. Water tank distributed 1500 meters from source.
-
-🟩
-
-The Panadahara Water Supply of 144 families in the Kawadugammana village of the Ambangadu Korale Division of Matale have been vested with the public.
-
-The Kavadu Water Project was implemented under the Kadugara decade of the Kudugammana people who have suffered a pawry problem for many years. The project will be Rs.. 6.8 has spent Rs. The water tank has been distributed by 1500 meters from the water tank from the source of Rs. 1500 meters from the water tanks.
-
-Speaking on the project, Matale District Planning Director Anuruddha Bandara has successfully worked as a team of comparison to a large number of parties.
-
-Under the guidance of the District Secretary Gyangey Tilakaratne, the current Divisional Secretary Thusha Senadheera is successfully completedThe ability to be able to do.
-
-◼️
-
-[Data](articles/2c89f04a.json)
-
-[Extended Data](ext_articles/2c89f04a.ext.json)
-
----
-
-### Police request suspension of drunk driver's license for 12 months
-
-*2024-12-26 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204747) · `si`
-
-Sri Lanka police suspend drunk driver licenses for 12 months. Special traffic operation resulted in 7,950 drivers penalized for various offenses including drunk driving. Police warn against driving under influence. Operation ongoing since 20th.
-
-🟩
-
-The police are informed that the police will be asked to call on the court to suspend the driver's license for a period of 12 months, to suspend the driver's license for a period of drunk driving.
-
-Therefore, the Sri Lankan police calls on all drivers to not drive drunk.
-
-The police announced this to inform the media about the special traffic operation implemented in the past 24 hours.
-
-Accordingly, the law was implemented in the 24 hours of drunk drivers in the 24 hours ended today (26).
-
-That was from traffic operations from 6am to 6 am yesterday.
-
-50 drivers related to driving in the 24-hour drivers for more drivers, 5,441 drivers regarding the violations of roadguards, 682 drivers regarding licenses and other traffic errors.Law have been implemented on 7,950 drivers regarding the respect.
-
-The special traffic operation was launched in the country on the 20th of the 20th.
-
-The police will continue to implement this special operation.
-
-◼️
-
-[Data](articles/2e5c10b0.json)
-
-[Extended Data](ext_articles/2e5c10b0.ext.json)
 
 ---

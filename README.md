@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 22:02:39**
+As of **2024-12-27 22:27:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,763 (99.1%) of 62,331 articles have been extended.
+61,765 (99.1%) of 62,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -298,6 +298,8 @@ The route, which traces the Atlantic coasts of Mauritania and Morocco up to Spai
 
 [Data](articles/6ba7c335.json)
 
+[Extended Data](ext_articles/6ba7c335.ext.json)
+
 ---
 
 ### A new constitution should be created to protect the rights of Tamils ​​- Professor Tissa Vitharana
@@ -326,23 +328,35 @@ Former President Mahinda Rajapakse promised to the international community that 
 
 ---
 
-### රු කෝ 160 වංචා කළ අඹුසැමියන් රිමාන්ඩ්
+### Police remanded for defrauding Rs 160
 
 *2024-12-27 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204777) · `si`
 
-මූල්‍ය වංචාවක් සිදුකර රටින් පළාගොස් සිට ඉන්දියාවෙන් පිටුවහල් කිරීමෙන් අනතුරුව මෙරටට ඇතුළු වීමේ දී අත්අඩංගුවට ගත් අඹුසැමි යුවළ ජනවාරි මස 6 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සැකකාර යුවළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව එලෙස රක්ෂිත බන්ධනාගාරගත කර ඇත.‍
 
-ප්‍රිවෙල්ත් ග්ලෝබල් ප්‍රයිවට් ලිමිටඩ් නම් මූල්‍ය ආයතනයක් මඟින් ව්‍යාපාරවල ලභාංශ ලබාදෙන බව පවසා රුපියල් කෝටි 160ක පමණ මුදලක් වංචා කර ඇති බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන ඒකකයට පැමිණිලි රැසක් ලැබී තිබුණි.
 
-විමර්ශනවලදී අනාවරණ වී තිබුණේ එහි අධ්‍යක්ෂවරයා බිරිය හා දරුවා සමග නීතිවිරෝධී අයුරින් බෝට්ටුවක් මඟින් 2021 වසරේදී ඉන්දියාවට පළා ගොස් ඇති බවය.
+Police arrest suspect for defrauding Rs 160 million. He fled to India via boat in 2021. Arrested at Katunayake Airport, remanded until Jan 6. Suspect claims targeting Muslims in Samanthurai and Ampara. Case under investigation by Financial Criminal Investigation Unit.
 
-අනතුරුව සැකකරුවන්ට එරෙහිව ජාත්‍යන්තර පොලීසිය හරහා රතු නිවේදන නිකුත් කළ අතර එහිදී සිදුකළ සොයාබැලීමේදී අනාවරණ වී ඇත්තේ, සැකකරු සිය පවුලද සමග ඉන්දියාවේ වේදනායගම් ප්‍රදේශයට ගොඩබැසීමේදී එරට ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
+
+He was arrested after fleeing financial frauds and was arrested in entering the country and remanded until January 6th.
+
+The suspect was arrested by the Criminal Investigation Department at the Katunayake Airport and was taken into custody.
+
+The Financial Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received several complaints that a financial institution is issued by a financial institution called Global Priva Limited.
+
+Investigations revealed that the director had fled to India in 2021 in 2021 by a boat with the wife and the child.
+
+The suspect had been revealed that the suspect had been arrested by the security forces with his family in landing the family with his family in connection with his family.
+
+They were then deported in the country for about three years and deported to Sri Lanka yesterday (26).
 
 ...
 
 [Data](articles/b72d81b3.json)
+
+[Extended Data](ext_articles/b72d81b3.ext.json)
 
 ---
 

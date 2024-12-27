@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 11:01:47**
+As of **2024-12-27 11:14:12**
 
 ## Newspaper Stats
 
-*Scraped **62,250** Articles*
+*Scraped **62,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,775
 economynextcom | 3,785
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,945
+adalk | 5,946
 adaderanalk | 7,597
-tamilmirrorlk | 8,933
+tamilmirrorlk | 8,934
 virakesarilk | 10,307
 adaderanasinhalalk | 10,750
 
@@ -26,23 +26,49 @@ adaderanasinhalalk | 10,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,730 (99.2%) of 62,250 articles have been extended.
+61,731 (99.2%) of 62,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### ரயில் பயணிகளின் கவனத்துக்கு
+### போதையில் வாகனத்தை செலுத்தினால் இரத்து
+
+*2024-12-27 10:59:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-வாகனத்தை-செலுத்தினால்-இரத்து/175-349379) · `ta`
+
+குடிபோதையில் வாகனம் ஓட்டியதற்காக கைது செய்யப்படும் சாரதிகளின் சாரதி அனுமதிப்பத்திரத்தை ஓராண்டுக்கு இடைநிறுத்துமாறு அல்லது சாரதி அனுமதிப் பத்திரத்தை ரத்து செய்யுமாறு நீதிமன்றில் கோருவதற்கு பொலிஸார் நடவடிக்கை எடுத்து வருவதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+மதுபோதையில் சாரதிகள் அடிக்கடி வாகனங்களை செலுத்துவதை காணக்கூடியதாக உள்ளதாகவும், இது தொடர்பாக அபராதம் அதிகரிக்கப்பட்டால் இந்த நிலைமையை கட்டுப்படுத்த முடியும் என நம்புவதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+
+நாடளாவிய ரீதியில் போக்குவரத்து விதிமீறல்களில் ஈடுபடும் சாரதிகளை பிடிக்கும் நடவடிக்கை மேற்கொள்ளப்பட்டு வருவதாக தெரிவித்த அதிகாரி, வியாழக்கிழமை (26) காலை 6.00 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில்  மதுபோதையில் வாகனம் செலுத்திய 395 சாரதிகளுக்கு எதிராக சட்டம் அமுல்படுத்தப்பட்டு உள்ளதாகவும் குறிப்பிட்டார்
+
+...
+
+[Data](articles/8eed8b74.json)
+
+---
+
+### To the attention of the train passengers
 
 *2024-12-27 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-பயணிகளின்-கவனத்துக்கு/76-349378) · `ta`
 
-பதுளை- கோட்டைக்கும், கோட்டை- பதுளைக்கும்   இடையில் இன்று வௌ்ளிக்கிழமை (27), நாளை சனிக்கிழமை  (28) மற்றும் ஞாயிற்றுக்கிழமை (29) ஆகிய தினங்களில் விசேட ரயில் சேவைகளை முன்னெடுக்க ரயில்வே திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+Here's a summary in 200 characters:
 
-கொழும்பு கோட்டை புகையிரத நிலையத்தில் இருந்து இன்று வௌ்ளிக்கிழமை (27) இரவு 7.30 மற்றும் நாளை  சனிக்கிழமை (28) காலை 7.45 மணிக்கும், பதுளை புகையிரத நிலையத்தில் இருந்து சனிக்கிழமை  (28) காலை 7.05 மணிக்கும், கோட்டை புகையிரத நிலையத்தில் இருந்து இரவு 7.30 மணிக்கும் விசேட புகையிரதம் புறப்பட உள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை அலுவலகம் தெரிவித்துள்ளது.
+
+
+Special trains run Wed, Sat, Sun. Departures: Fort Station 7:30 PM, Badulla 7:45 AM, 7:30 PM. Check schedule for exact times.
+
+🟩
+
+The Railway Department has taken steps to carry out special train services on Wednesday (27), Saturday (28) and Sunday (29).
+
+The Railway Control Room will leave the Fort Railway Station at 7.30 pm and tomorrow (28) at 7.45 am from the Badulla Railway Station, Saturday (28) at 7.05 am and 7.30 pm from the Fort Railway Station..
 
 ◼️
 
 [Data](articles/6cee363c.json)
+
+[Extended Data](ext_articles/6cee363c.ext.json)
 
 ---
 
@@ -1346,6 +1372,24 @@ The Thald Padaya Chairman of the Palrith and Member of Parliament, Minister Rama
 
 ---
 
+### අධිවේගයේ ආරක්ෂාවට එස්.ටී.එෆ්.
+
+*2024-12-26 18:36:05* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගයේ-ආරක්ෂාවට-එස්-ටී-එෆ්-/11-413864) · `si`
+
+අධිවේගී මාර්ගයේ ආරක්ෂාවට පොලිස් විශේෂ කාර්ය බලකායේ (STF) සංචාරක මුර සේවයක් යෙදවීමට ප්‍රවාහන, මහාමාර්ග, වරාය හා සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් ජයකොඩි මහතා තීරණය කර තිබේ.
+
+ඒ අනුව මීට අවශ්‍ය පියවර මහජන ආරක්ෂක අමාත්‍යවරයා විසින් කඩිනමින් ගනු ලබන බව එම අමාත්‍යාංශය ප්‍රකාශ කළේය.මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් විසින් කාලයක් පුරා සිදුකරමින් යන කටුනායක කොළඹ අධිවේගී මාර්ගයේ විදුලි රැහැන් කැපීම පිළිබඳව අමාත්‍යාංශයට ලැබෙන පැමිණිලි සලකා බලමින් මෙම තීරණය ගෙන ඇත.
+
+අධ්වේග මාර්ගයේ විදුලි රැහැන් කපාගෙන ගිය අවස්ථාවලදී එම හොරුන්ට දඬුවම් කර කොපමණ අලුත්වැඩියාවන් කළත් නැවත නැවත එය ම සිදු වී ඇති අතර රාත්‍රී කාලයේ සිදුවන මෙම හොරකම් නිසා මාර්ගය භාවිත කරන අය ජීවිත අවදානමක් සහිත බියජනක බවකින් ද පෙළෙන බව සඳහන්ය.
+
+එයට ද මෙම යෝජිත රාත්‍රී මුර සංචාරක සේවය පිළියමක් වන බවට මහාමාර්ග අමාත්‍යංශය විශ්වාසය පළ කරයි. එසේම මෙම මාර්ගයේ සිදුවන රිය අනතුරුවලදී ද ඒවා කඩිනමින් ඉවත් කර අවශ්‍ය සහාය ලබාදීමට එම බලකාය එකඟතාවය පළ කර ඇත.
+
+◼️
+
+[Data](articles/8effe4f3.json)
+
+---
+
 ### Recovery as dead father, son, nephew in the sea
 
 *2024-12-26 17:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மாயமான-தந்தை-மகன்-மருமகன்-சடலங்களாக-மீட்பு/175-349344) · `ta`
@@ -2261,55 +2305,5 @@ In addition, police have found that the fire cab belonged to a Colombo area and 
 [Data](articles/302f52bb.json)
 
 [Extended Data](ext_articles/302f52bb.ext.json)
-
----
-
-### Ejizaki revealed that state officials suddenly transferred
-
-*2024-12-26 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204745) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-State officials unexpectedly transferred due to a controversial plan. UNP General Secretary criticizes government for politicizing public service. Transfers affect various positions including local government officials. Party claims this undermines civil service independence and causes personal problems for officers.
-
-🟩
-
-Along with a planned program of transferring to the public officials, a planned program is being implemented on an unacceptable reasonable basis.
-
-UNP General Secretary MP Ranjith Madduma Bandara issues a statement
-
-It is reported that the Commissioner of Local Government, the Assistant Commissioners, Local Authorities as well as the Cooperatives Assistant Development Commissioner is reportedly affected by the Commissioner of Cooperatives.
-
-The statement states that the government who has promised to promote the independence of the public service, it is problematic.
-
-The party says that the government is experiencing unprecedented politicizing in the public service as an unprecedented politicization of the public service and the public service elections in the public service, which is not yet to be over and the nominal local government elections..
-
-...
-
-[Data](articles/3211fbfa.json)
-
-[Extended Data](ext_articles/3211fbfa.ext.json)
-
----
-
-### German supply chain act could drive Sri Lanka tea exporters away: Report
-
-*2024-12-26 15:00:00* · [`economynextcom`](https://economynext.com/german-supply-chain-act-could-drive-sri-lanka-tea-exporters-away-report-193514/) · `en`
-
-ECONOMYNEXT – Although Germany’s Supply Chain Act on Sri Lanka’s tea industry is minimal, tea exporters are likely to be driven out of the German market to countries with less stringent regulations, a policy paper by the Friedrich Naumann Foundation says.
-
-“Particularly in cases where Germany is not an essential market for an industry, as is the case with the tea industry of Sri Lanka, the Supply Chain Act would only drive exporters away from Germany,” a policy paper on German Supply Chain Act: Impact on the tea and apparel industries of Sri Lanka showed.
-
-The German supply chain act was passed in the Bundestag and was in effect from January 2023.
-
-“Tea industry is generally not happy about the new law,” Sudaraka Ariyaratne, Research Consultant and Author of the Publication said at a panel discussion organized by the Foundation to discuss the Act’s implications on Sri Lanka’s tea and apparel industries.
-
-...
-
-[Data](articles/4df241cb.json)
-
-[Extended Data](ext_articles/4df241cb.ext.json)
 
 ---

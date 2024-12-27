@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 01:27:20**
+As of **2024-12-28 01:43:28**
 
 ## Newspaper Stats
 
@@ -26,27 +26,39 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,775 (99.1%) of 62,358 articles have been extended.
+61,776 (99.1%) of 62,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### இராணுவம் காடுகளில் முகாம் அமைக்கலாம்; மேச்சல் தரைக்கு அனுமதி இல்லை - மக்கள் விசனம்!
+### The army can set up camp in the forest;Macchal is not allowed to ground - people are sad!
 
 *2024-12-28 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202338) · `ta`
 
-வவுனியாவில் பெரும்காடுகளில் ஏக்கர் கணக்கான காணிகளில் இராணுவம் முகாம் அமைத்துள்ளது. ஆனால் கால்நடைகளிற்கான மேச்சல்தரை அமைப்பதில் மாத்திரம் திணைக்களங்கள் அக்கறையில்லாமல் செயற்படுவதாக வவுனியா ஒருங்கிணைப்பு குழுவில் சுட்டிக்காட்டப்பட்டது.
+Here's a summary of the text in approximately 200 characters:
 
-வவுனியா பிரதேச ஒருங்கினைப்பு குழு கூட்டம் ஒருங்கிணைப்பு குழுவின் தலைவர் உபாலி சமரசிங்க தலைமையில் வெள்ளிக்கிழமை (27) இடம்பெற்றது.
 
-இதன்போது வவுனியாவில் மேச்சல் தரை இல்லாமல் கால்நடை வளர்ப்பில் ஈடுபடுவோர் பல்வேறு இடர்பாடுகளை எதிர்கொள்வதாக கவலை தெரிவித்தனர். மழைகாலங்களில் அதன் நிலமை மேலும் மோசமடைவதுடன் பால் உற்பத்தியும் வீழ்ச்சியடையும் நிலை காணப்படுகின்றது
 
-இராணுவம் பெரும் காடுகளில் பல ஏக்கர்கணக்கான காணிகளை பிடித்து முகாம் அமைத்துள்ளது. ஆனால் நாட்டின் பொருளாதாரத்திற்கு பங்களிக்கும் கால்நடைகளுக்கு மேச்சல் வரைவழங்குவதில் அதிகாரிகள் பின்னடிப்பதாக பொதுமக்கள் குற்றம் சுமத்தினர்.
+"Army sets up camp in Vavuniya forest. Livestock farmers face difficulties due to rain. Public accuses authorities of neglecting cattle industry. Parliamentarian suggests investigating illegal land use."
 
-...
+🟩
+
+Army has set up a camp in Vavuniya. But it was pointed out in the Vavuniya Coordinating Committee that the departments are not only concerned about setting up a livestock.
+
+The Vavuniya Regional Coordinating Committee meeting was chaired by the Chairman of the Coordinating Committee, Upali Samarasinghe, on Friday (27).
+
+In Vavuniya, people who engaged in livestock farming without a carcass are concerned that they are facing various difficulties. During the rainy season its condition is deteriorating and milk production is also falling
+
+The army has set up a number of acres of land in the large jungles. But the public has accused the authorities of being a backlife to make cattle for cattle that contribute to the country's economy.
+
+Parliamentarian C. Thilakanathan said that it is possible to consider the construction of the landlord from those who have taken state lands to investigate the construction of the landlord in the pond.
+
+◼️
 
 [Data](articles/5a66d822.json)
+
+[Extended Data](ext_articles/5a66d822.ext.json)
 
 ---
 

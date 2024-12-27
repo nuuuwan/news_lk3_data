@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 00:16:33**
+As of **2024-12-28 00:42:52**
 
 ## Newspaper Stats
 
-*Scraped **62,335** Articles*
+*Scraped **62,348** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 458
-colombotelegraphcom | 629
+colombotelegraphcom | 630
 bbccomsinhala | 657
 islandlk | 3,778
 economynextcom | 3,796
-dailyftlk | 4,318
+dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,955
 adaderanalk | 7,609
@@ -26,11 +26,205 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,771 (99.1%) of 62,335 articles have been extended.
+61,773 (99.1%) of 62,348 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-28 (Saturday)
+
+### MP Kaushalya Ariyaratne lodges CID complaint over malicious social media campaign
+
+*2024-12-28 00:21:50* · [`dailyftlk`](https://www.ft.lk/news/MP-Kaushalya-Ariyaratne-lodges-CID-complaint-over-malicious-social-media-campaign/56-771106) · `en`
+
+National People’s Power (NPP) MP Dr. Kaushalya Ariyaratne has lodged a formal complaint with the Criminal Investigation Department (CID) over a series of malicious and false news posts circulating on social media, including personal attacks targeting her.
+
+In a statement, MP Ariyaratne condemned the deliberate campaign to tarnish her reputation and called for swift action against those responsible for creating and spreading such content. She emphasised that these “cheap tactics” would not deter women from participating in politics nor harm the Government, stating, “If anyone believes such tricks can intimidate us, they are sorely mistaken. While you resort to petty ploys, we will continue to focus on progress.”
+
+...
+
+[Data](articles/6b17405d.json)
+
+---
+
+### Sri Lankan couple arrested for Rs. 1.6 b financial fraud upon return at BIA
+
+*2024-12-28 00:21:02* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-couple-arrested-for-Rs-1-6-b-financial-fraud-upon-return-at-BIA/56-771105) · `en`
+
+A Sri Lankan couple wanted for large-scale financial fraud amounting to Rs. 1.6 billion was remanded yesterday after being arrested at the Katunayake Airport upon their return to the country.
+
+The suspects were remanded till 6 January 2025 by the Hulftsdorp Magistrate’s Court yesterday.
+
+The couple, against whom INTERPOL red notices had been issued, and their 14-year-old daughter were arrested by Criminal Investigations Department (CID) officials at the airport yesterday.
+
+The suspects are a 49-year-old man from Colombo 05 and his 43-year-old wife, who had fled to India via boat along with their daughter in 2021.
+
+The couple was wanted for several financial frauds reported across the country, with eight travel bans being imposed against them by the Colombo, Trincomalee, and Batticaloa Courts.
+
+...
+
+[Data](articles/163c7960.json)
+
+---
+
+### TMH Group Chairman  Dr. Tharmalingam Tharesanan honoured at international human rights day celebrations
+
+*2024-12-28 00:20:47* · [`dailyftlk`](https://www.ft.lk/news/TMH-Group-Chairman-Dr-Tharmalingam-Tharesanan-honoured-at-international-human-rights-day-celebrations/56-771104) · `en`
+
+TMH Group of Companies Chairman Dr. Tharmalingam Tharesanan, was honoured as a Guest of Honour and Guest Speaker at the International Human Rights Day celebration held on 15 December at the Telangana Saraswata Parishad in Hyderabad, India. During the event, he was also presented with the Human Rights Crusaders Award for his outstanding contributions to the promotion and protection of human rights. The event was organised by the International Commission of Culture and Diplomatic Relations (ICCDR) and the United Human Rights Federation to recognise individuals and organisations advocating for human rights. It featured prominent speakers and awardees, including human rights activists, educators, and social leaders. Distinguished attendees included Dr. Avanidra Kumar Dandamudi, Consul General of Madagascar, Kaveti Srinivasa Rao, an international immigration lawyer, Smt Jwalitha, a renowned feminist writer, and Dr. Vedavati Dinesh, a women’s rights activist.
+
+...
+
+[Data](articles/08efb9bc.json)
+
+---
+
+### Kilinochchi journalist attack suspected retaliation for drug-trade exposé
+
+*2024-12-28 00:19:49* · [`dailyftlk`](https://www.ft.lk/news/Kilinochchi-journalist-attack-suspected-retaliation-for-drug-trade-exposé/56-771103) · `en`
+
+Kilinochchi-based journalist Murukaiah Thamilchelvan, who narrowly escaped an attempted abduction by a group on Thursday, said that he believes the incident, along with the assault on him, was linked to his ongoing coverage of illicit drug-related issues in the area.
+
+“While returning home on my motorcycle, a cab blocked my path, and its occupants tried to drag me into the vehicle. I managed to escape, but two individuals from the cab severely beat me. I suspect this attack is linked to my reporting on drug-related issues,” he said.
+
+The incident reportedly took place along the A9 road near the Sri Lanka Telecom building in Kilinochchi.
+
+Speaking to the Daily FT, Thamilchelvan said that he could identify one of the attackers, who is believed to have ties to the illicit drug trade in the area.
+
+The journalist received treatment at the Kilinochchi Hospital for injuries sustained in the attack, and the police have recorded his statement.
+
+◼️
+
+[Data](articles/dffe2aa9.json)
+
+---
+
+### Condolence Book open on passing away of former Prime Minister Dr. Manmohan Singh
+
+*2024-12-28 00:18:59* · [`dailyftlk`](https://www.ft.lk/news/Condolence-Book-open-on-passing-away-of-former-Prime-Minister-Dr-Manmohan-Singh/56-771102) · `en`
+
+Dr. Manmohan Singh, former Prime Minister of India passed away in New Delhi on 26 December 2024.
+
+Dr. Manmohan Singh served as the 13th Prime Minister of India from 22 May 2004 – 26 May 2014. As distinguished economist and visionary leader, Dr. Manmohan Singh served as the Finance Minister from 1991 and 1996 and guided the nation out of a financial crisis, introducing landmark economic reforms. Known for his humility, intellect, and dedication, Dr. Singh’s leadership and integrity continue to inspire generations, leaving a profound legacy of progress and service. Dr. Manmohan Singh was awarded India’s second highest civilian honour, the Padma Vibhushan in 1987.
+
+As a mark of respect to the departed dignitary, seven-day State Mourning is being observed throughout India from 26 December 2024 to 1 January 2025.
+
+A Condolence Book will be kept open at the High Commission of India located at 36-38, Galle Road, Colombo 03, from 30 December 2024 to 01 January 2025 from 10 a.m. to 3 p.m.
+
+◼️
+
+[Data](articles/f2a09b3e.json)
+
+---
+
+### Kumarika rolls out customised hair care experience with mobile ‘Hair Play Studio’
+
+*2024-12-28 00:18:42* · [`dailyftlk`](https://www.ft.lk/business/Kumarika-rolls-out-customised-hair-care-experience-with-mobile-Hair-Play-Studio/34-771101) · `en`
+
+Kumarika, hair care brand from Hemas Consumer Brands, has launched an initiative that brings personalised hair care experiences directly to customers via its mobile salon truck, ‘Hair Play Studio.’
+
+The ‘Hair Play’ campaign is designed to allow customers to experience and enjoy the benefits of Kumarika’s latest range of shampoo and conditioner, which has been meticulously crafted to cater to all Sri Lankan hair types.
+
+...
+
+[Data](articles/00971f2b.json)
+
+---
+
+### Seylan Bank strengthens partnership with Kedalla Art of Living 2024 as title partner for 12th year
+
+*2024-12-28 00:16:51* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-strengthens-partnership-with-Kedalla-Art-of-Living-2024-as-title-partner-for-12th-year/34-771100) · `en`
+
+Seylan Bank PLC, a trusted name in Sri Lanka’s banking sector, partnered with the Kedalla Art of Living 2024 Exhibition as its title partner for the 12th consecutive year. The much-anticipated lifestyle exhibition attracted over 12,000 visitors seeking innovative lifestyle solutions.
+
+The Kedalla Art of Living Exhibition, organised by Asia Exhibition and Conventions Pvt Ltd for the 18th consecutive year, hosted over 200 trade stalls featuring an extensive range of products and services. Exhibitors showcased household appliances, home décor, real estate, landscaping, furniture, tiles, bathroom fittings, lighting solutions, and more – offering homemakers a one-stop platform for all their lifestyle needs.
+
+...
+
+[Data](articles/fcfd257b.json)
+
+[Extended Data](ext_articles/fcfd257b.ext.json)
+
+---
+
+### Special seasonal consumer promotion on Pelwatte Salted Butter 200g pack
+
+*2024-12-28 00:16:05* · [`dailyftlk`](https://www.ft.lk/business/Special-seasonal-consumer-promotion-on-Pelwatte-Salted-Butter-200g-pack/34-771099) · `en`
+
+Pelwatte Dairy Industries Ltd., (PDIL), has announced an exclusive consumer promotion for its Salted Butter 200g pack.
+
+Until 31 January 2025, customers can enjoy a limited-time price-off at general trade outlets across the island. The 200g pack of Pelwatte Salted Butter, previously priced at Rs. 850, is now available for just Rs. 750, offering a Rs. 100 savings to consumers.
+
+This offer comes in time for the festive season, allowing families to indulge in the rich, creamy flavour of Pelwatte Butter while making their holiday meals even more special. Pelwatte Dairy is committed to providing high-quality, locally sourced dairy products, and this promotion aims to foster stronger connections with its customers while enhancing the overall consumer experience.
+
+...
+
+[Data](articles/ce550644.json)
+
+---
+
+### New year for global climate  action: Road to Belém in 2025
+
+*2024-12-28 00:13:11* · [`dailyftlk`](https://www.ft.lk/columns/New-year-for-global-climate-action-Road-to-Belém-in-2025/4-771097) · `en`
+
+Closing plenary of COP29 in Baku, Azerbaijan – Pic credit: UNFCCC Secretariat
+
+The year 2025 lies ahead, and addressing climate change is high on the list of priorities for countries across the world as well as the global community at large. The 29th session of the Conference of the Parties (COP29) to the United Nations Framework Convention on Climate Change (UNFCCC) ended in the early morning hours of 24 November 2024; the 30th session (COP30) will convene on 10 November 2025. In between these sessions, much work remains to be done to advance climate action at the national and international level, including on a range of topics that include climate finance, the Global Goal on Adaptation (GGA), a new round of national commitments, and many more.
+
+For many participants and observers, COP29 fell short of expectations. However, the conference still produced several decisions that lay out a roadmap for 2025 and beyond, while other agenda items were postponed until June or November 2025.
+
+...
+
+[Data](articles/204ab8ce.json)
+
+---
+
+### Chinese Navy hospital ship ‘Peace Ark’ in Mission Harmony 2024
+
+*2024-12-28 00:10:57* · [`dailyftlk`](https://www.ft.lk/opinion/Chinese-Navy-hospital-ship-Peace-Ark-in-Mission-Harmony-2024/14-771096) · `en`
+
+The Chinese Navy hospital ship ‘Peace Ark,’ during its Mission Harmony 2024 from 22 to 27 December at the Port of Colombo offered medical examinations and treatment services to the people of Sri Lanka. Peace Ark is a 178m long hospital ship, crewed by 310 personnel under the command of Captain Deng Qiang.
+
+In addition crew members of the ship explored some of the tourist attractions of the country, during their stay in Colombo. They also took part in certain programs organised by the Sri Lanka Navy, with a view to further enhance camaraderie between both navies, the statement said.
+
+Additionally, Sri Lanka Navy personnel as well as officer under trainees from the Naval and Maritime Academy and Kotelawala Defence University participated in briefings on the operational functions of the ships as well. - Pix by Lasantha Kumara
+
+◼️
+
+[Data](articles/51ae196b.json)
+
+---
+
 ### 2024-12-27 (Friday)
+
+### Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track (Part II of II)
+
+*2024-12-27 23:52:56* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-ill-fated-LRT-following-a-train-of-thought-from-policy-derailment-to-being-back-on-the-right-track-Part-II-of-II/4-771083) · `en`
+
+A vision to develop Sri Lanka’s railway infrastructure is the need of the hour even now, over four years after the island nation arbitrarily terminated a project that would meet its creaking infrastructural needs at concessionary terms from a friendly nation’s government
+
+The project that was due to commence with land acquisition in 2020 and be concluded in 2024 with an LRT that would have trains running along an elevated track at four-minute intervals during rush hour and 10-minute intervals at off-peak times ended in ignominy for the Sri Lankan Government when the project was arbitrarily terminated by the Gotabaya Rajapaksa administration citing the ongoing economic crisis at the time
+
+The railway community in Sri Lanka and all national-minded islanders commemorate 27 December as the day on which the inaugural Ceylon Government Railway (CGR) train ran between Colombo Fort and Ambepussa (34 miles on the main line) in 1864.
+
+...
+
+[Data](articles/3d23d952.json)
+
+---
+
+### Cost of living pandemic and food security
+
+*2024-12-27 23:49:39* · [`dailyftlk`](https://www.ft.lk/columns/Cost-of-living-pandemic-and-food-security/4-771082) · `en`
+
+Although the current cost of living pandemic is the product of viruses originated from outside Sri Lanka, no preventive measures were taken by previous Governments to minimise the infection
+
+There are a few academics and economists who seem to believe that Sri Lanka’s economic revival and future growth should follow the developed world’s techno-industrial trajectory. The former President Ranil Wickremesinghe turned out to be a disciple of this philosophy. Don’t they realise that it is that trajectory which has led humanity to the brink of self-destruction? Let us reject the one size fit all model and cut the cloth to suit our size. This is not a backward-looking strategy but one sustainable in the face of unpredictable and disastrous swings in mega economies
+
+...
+
+[Data](articles/cb394958.json)
+
+---
 
 ### The achievement of the sun is very close to
 
@@ -76,17 +270,27 @@ Accordingly, the department further stated that entry and exit to Galle Fort fro
 
 ---
 
-### උතුරු මැද හිටපු මහ ඇමති ඇතුළු පිරිසක් සර්වජන බලයට
+### Former chief minister and others in the North Central Province to exempt
 
 *2024-12-27 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204781) · `si`
 
-උතුරු මැද පළාත් හිටපු ප්‍රධාන අමාත්‍ය එස්. එම්. රංජිත් මහතා ඇතුළු ප්‍රදේශ රැසක ප්‍රාදේශීය දේශපාලන නායකයින් කිහිපදෙනෙකු අද (27) සර්වජන බලය සමග එක්වුණි.
+Here's a summary of 200 characters:
 
-හිටපු ප්‍රධාන අමාත්‍ය එස්.එම්.රංජිත් මහතා සහ එම පළාත් සභාව නියෝජනය කළ මන්ත්‍රීවරු පිරිසක් මෙන්ම හිටපු අමාත්‍ය විමලවීර දිසානායක මහතාගේ පුත් අංජන දිසානායක ඇතුළු අම්පාර දිස්ත්‍රික් නියෝජනය කරන ප්‍රදේශීය දේශපාලන නියෝජිතයින් පිරිසක් ද අද සර්වජන බලයේ සාමාජිකත්වය ලබාගත්හ.
+
+
+Former Chief Minister SM Ranjith joins Sorgeon Power. Local political leaders from North Central Province participate. Includes MPs Wimalaweera Dissanayake and Angara Dissanayake. Event held in Ampara District.
+
+🟩
+
+Former Chief Minister of the North Central Province S. M. Several local political leaders in areas including Ranjith joined the Sorgeon Power today (27).
+
+Former Chief Minister SM Ranjith, a group of MPs and MPs Wimalaweera Dissanayake, the son of the Provincial Council, including Angara Dissanayake, and Ampara District, including Angara Dissanayake, was also present in the exangeration.
 
 ◼️
 
 [Data](articles/c43da548.json)
+
+[Extended Data](ext_articles/c43da548.ext.json)
 
 ---
 
@@ -249,6 +453,22 @@ The Minister made these comments at the progress of the Central and Large Renewa
 [Data](articles/9eab6ce0.json)
 
 [Extended Data](ext_articles/9eab6ce0.ext.json)
+
+---
+
+### The Second Term Of Donald Trump: What Could We Expect?
+
+*2024-12-27 18:49:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-second-term-of-donald-trump-what-could-we-expect/) · `en`
+
+[This article is based on a talk given to the members of the Sri Lanka Foreign Service Association on the 10th of December, 2024]
+
+I was invited to address you today on the topic of what the second coming of Donald Trump as President of the United States holds for the United States and the wider world outside of its shores. I was also requested to explain to you the Electoral College process by which a president is elected in the United States. This is a process that baffles even those familiar with the United States and the way its institutions function, as it is markedly different from the way in which other democracies elect their presidents and prime ministers.
+
+I shall try my very best to not confuse you in my attempt to explain the manner in which the POTUS, to use the abbreviation for the President of the United States first used by telegraphic code operators in the 1890s, is elected.
+
+...
+
+[Data](articles/68a41ffc.json)
 
 ---
 
@@ -1999,307 +2219,5 @@ The central government has canceled all the events to be held today (27). Furthe
 [Data](articles/c7270a4c.json)
 
 [Extended Data](ext_articles/c7270a4c.ext.json)
-
----
-
-### Thunderstorm in the evening or at night
-
-*2024-12-27 08:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாலை-அல்லது-இரவில்-இடியுடன்-கூடிய-மழை/175-349366) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Thunderstorms forecasted for Northern, North Central, Eastern Provinces & Matale. Rainfall/thunderstorms expected in Western, Sabaragamuwa, Southern, Northern, Uva Provinces & Nuwara Eliya/Kandy districts. Snowfall in upper regions. Public advised to take lightning precautions."
-
-🟩
-
-The Department of Meteorology has forecast rainfall in the Northern, North Central and Eastern Provinces and Matale District.
-
-Rainfall or thunderstorms are expected in the evening or night in some places in the Western, Sabaragamuwa, South, North, North and Uva Provinces and Nuwara Eliya and Kandy districts, the Department said.
-
-In the morning, in some parts of the upper, Sabaragamuwa, Central, South and Uva provinces, there is a snowfall in the morning.
-
-The Department of Meteorology has advised the public to take steps to reduce the risk of lightning in the area with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/dfc2866c.json)
-
-[Extended Data](ext_articles/dfc2866c.ext.json)
-
----
-
-### Oral public consultations on electricity tariffs to begin today
-
-*2024-12-27 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104517/oral-public-consultations-on-electricity-tariffs-to-begin-today) · `en`
-
-The oral sessions for gathering public opinions on the proposed electricity tariff revision will commence today (27).
-
-The first session will take place today in the Central Province at the District Secretariat in Kandy.
-
-The Ceylon Electricity Board (CEB) submitted its electricity tariff revision proposal to the Public Utilities Commission of Sri Lanka (PUCSL), stating that the existing tariffs will remain unchanged for the next six months and that no tariff revisions will be made.
-
-Meanwhile, presenting a counter-proposal regarding the matter, the PUCSL has highlighted that the electricity tariff can be reduced by a range of 10% - 20%.
-
-Accordingly, the PUCSL called for public opinions on the matter in writing starting from December 17, while the oral sessions are scheduled to commence from today until January 10.
-
-The PUSL stated that the public can register their participation by calling PUSL’s telephone number at 0772 943 193 to share their views on the tariff revision.
-
-...
-
-[Data](articles/f5f032e4.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-12-27 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104516/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says several spells of showers may occur in Northern, North-central, Eastern provinces and in Matale district.
-
-Showers or thundershowers may occur at a few places in Western, Sabaragamuwa, Southern North-western and Uva provinces and in Nuwara-Eliya and Kandy districts during the evening or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b01ab812.json)
-
----
-
-### ඉන්දිය හිටපු අගමැති මංමෝහන් සිං අභාවප්‍රාප්ත වෙයි
-
-*2024-12-27 08:31:47* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-හිටපු-අගමැති-මංමෝහන්-සිං-අභාවප්‍රාප්ත-වෙයි/11-413870) · `si`
-
-හිටපු ඉන්දීය අගමැති මන්මෝහන් සිං වයස අවුරුදු 92 දී අභාවප්‍රාප්ත විය.
-
-සිං ඉන්දියාව දීර්ඝතම කාලයක් පාලනය කළ අගමැතිවරයෙකු වූ අතර ඔහු 2004-2014 දක්වා අග්‍රාමාත්‍යවරයා ලෙසත් ඊට පෙර මුදල් අමාත්‍යවරයා ලෙසත් ඉන්දියාවේ ලිබරල්කරණ ආර්ථික ප්‍රතිසංස්කරණවල ප්‍රමුඛතමයා ලෙස සැලකෙයි. ඔහු ඒරට මහ බැංකු අධිපතිවරයා ලෙසද කටයුතු කළේය.
-
-සෞඛ්‍ය තත්ත්වය අයහපත් වීමෙන් පසු ඔහු දිල්ලි අගනුවර රෝහලකට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදි ජිවිතක්ෂයට පත්ව තිබේ.
-
-ජවහර්ලාල් නේරුගෙන් පසු පූර්ණ පළමු ධුර කාලයෙන් පසු නැවත තේරී පත් වූ පළමු ඉන්දීය නායකයා සිං වන අතර රටේ ඉහළම තනතුර දැරූ පළමු සික් ජාතිකයා විය. සීක් ජාතිකයන් 3000ක් පමණ ඝාතනය කළ 1984 කැරැල්ල සම්බන්ධයෙන් ඔහු පාර්ලිමේන්තුවේදී ප්‍රසිද්ධියේ සමාව අයැද සිටියේය.
-
-නමුත් ඔහුගේ දෙවන ධුර කාලය ඔහුගේ පරිපාලනයට බාධා කළ දූෂණ චෝදනා වැලකින් විනාශ විය. 2014 මහ මැතිවරණයේදී ඔහුගේ කොංග්‍රස් පක්ෂය ලැබූ දරුණු පරාජයට මෙම අපකීර්තිය අර්ධ වශයෙන් වගකිව යුතු බව බොහෝ දෙනා පවසති.
-
-සිං උපත ලැබුවේ 1932 සැප්තැම්බර් 26 වන දින පන්ජාබ් පළාතේ ජලය සහ විදුලිය යන දෙකම නොමැති පාළු ගම්මානයක ය.
-
-...
-
-[Data](articles/eb812fbe.json)
-
----
-
-### Special gazette release
-
-*2024-12-27 08:24:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தமானி-வெளியீடு/175-349365) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake orders Armed Forces deployment nationwide. Special gazette invites SL Army, Navy, Air Force to maintain public order under Article 12 of Public Security Ordinance."
-
-🟩
-
-President Anura Kumara Dissanayake has ordered the invitation to the Armed Forces to establish a public order in all administrative districts nationwide.
-
-The President issued a special gazette notification to invite all members of the Sri Lanka Army, the Sri Lanka Navy and the Sri Lanka Navy and all members of the Sri Lanka Air Force.
-
-According to Article 12 of the Public Security Ordinance, the Armed Forces have been invited to maintain public order in all administrative districts and local waters of the country.
-
-◼️
-
-[Data](articles/69df9adb.json)
-
-[Extended Data](ext_articles/69df9adb.ext.json)
-
----
-
-### Indian Anadrone Shikra drone caught by Sri Lanka fisherman
-
-*2024-12-27 08:18:00* · [`economynextcom`](https://economynext.com/indian-anadrone-shikra-drone-caught-by-sri-lanka-fisherman-196494/) · `en`
-
-ECONOMYNEXT – A jet powered target drone, bearing the marking of the Indian manufacturer Anadrone has been found by a fisherman off Sri Lanka’s Eastern coast, a media report said.
-
-The drone was found floating 36 kilometres off Trincomalee in the island’s Eastern waters, the fisherman told Sri Lanka’s Hiru news.
-
-“We found it in the sea near some fish were swimming,” he said. “After we finished fishing, I took the object on board and brought it ashore. Then I informed the police and they said they will inform the Navy.
-
-The words, Shikra, target can also be seen on wings of the drone, as well as Anadrone on the tail fin.
-
-Similar drones are produced by Anadrone Systems Pvt Ltd, an unmanned vehicle manufacturer, according to its website.
-
-“Anadrone Systems Pvt Ltd is a forward-thinking defense company headquartered in India, specializing in the design, development, and deployment of advanced unmanned aerial systems and defense technologies,” its website says.
-
-...
-
-[Data](articles/02f1e4f2.json)
-
----
-
-### China's Tansuo 3 begins the wedding journey
-
-*2024-12-27 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204762) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Tansuo 3", China's 104m-long research vessel, embarks on maiden voyage to explore polar ice zones. Conducting cultural archaeology and scientific expeditions. Features advanced ice-breaking technology for deep-sea exploration.
-
-🟩
-
-The profound journey from the NANSHOU 3, China's Guangzhou, has commenced its debut to the NANSHOU area of ​​China, China, created by China.
-
-China is also to be used for cultural archaeological activities, and the first compound science exploration of China's exploration of polarized ice zones.The ship is.
-
-The "Tansuo 3" is about 104 meters long, and its julthness volume is about 10,000 tons.
-
-The vessel of the vessel have taken place in the various research institutions, entries and universities of China.
-
-According to Chinese reports, monopolitarization control technology, including the central technology of the polarized ice and ice breaks
-
-This is especially that the deeper dives with human deepest dives are not only in the deep sea deep, but also explored.
-
-◼️
-
-[Data](articles/530a3086.json)
-
-[Extended Data](ext_articles/530a3086.ext.json)
-
----
-
-### Sri Lanka withholding tax hike on bank deposits is deductible, not final: Minister
-
-*2024-12-27 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-withholding-tax-hike-on-bank-deposits-is-deductible-not-final-minister-196484/) · `en`
-
-ECONOMYNEXT – A hike in Sri Lanka’s bank deposits is a tax credit that can be deducted when a person files an income tax return and it is not an increase in the final income tax, Deputy Finance Minister Anil Jayantha said.
-
-“This a tax credit that can be deducted when a tax return is filed,” Minister Jayantha told reporters in Colombo.
-
-“If a person who is below the 150,000 threshold had the 5 percent tax deducted, they will usually not request a refund, and will end up paying the tax.
-
-“A person who was below the threshold and earned 10 to 15,000 in interest should not pay the withholding tax.
-
-There were also large depositors who paid only 5 percent tax and did not have a tax file, he said.
-
-If they filed a return, they can set the WHT on deposits against their income tax liability.
-
-The withholding tax increase is an attempt to increase compliance and improve tax administration he said.
-
-...
-
-[Data](articles/eed9c36f.json)
-
----
-
-### මැලේසියාවේ පැවැති ආරාධිත හොකී තරගාවලියකදී ශ්‍රි ලංකාවට ශුරතාවක්
-
-*2024-12-27 07:51:39* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාවේ-පැවැති-ආරාධිත-හොකී-තරගාවලියකදී-ශ්‍රි-ලංකාවට-ශුරතාවක්/11-413869) · `si`
-
-මැලේසියාවේ පැවති " පෙස්ටා " ආරාධිත හොකී තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා පාසැල් වයස අවුරුදු 18 න් පහළ කාන්තා මෙරූන් කණ්ඩායම , එහි ශූරතාවය දිනා ගෙන 12/26 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
-
-තරගාවලිය මැලේසියාවේ ෆිනෑන්ග් නුවර ඉකුත් 12/20 දින සිට 12/22 දින දක්වා පවත්වා තිබුණි .
-
-තරගාවලිය සදහා ශ්‍රී ලංකාව නියෝජනය කරමින් පාසැල් හොකී සංගමයේ ක්‍රීඩක ක්‍රීඩිකාවන් 68 දෙනෙකු සහභාගී වී සිටියහ .
-
-ශ්‍රී ලාංකික හොකී ක්‍රීඩක ක්‍රීඩිකාවන් පිරිස 12/26 දින පස්වරු 04.00 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 315 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-ඔවුන් පිළිගැනීම සදහා මෙම ක්‍රීඩක ක්‍රීඩිකාවන්ගේ දෙමාපියන් විශාල පිරිසක් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
-
-◼️
-
-[Data](articles/2b1e0a39.json)
-
----
-
-### ජනාධිපති සන්නද්ධ හමුදා කැඳවයි
-
-*2024-12-27 07:43:21* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-සන්නද්ධ-හමුදා-කැඳවයි/11-413868) · `si`
-
-දිවයිනේ සියලු පරිපාලන දිස්ත්‍රික්කවල මහජන සාමය පවත්වාගෙන යාම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සන්නද්ධ හමුදා කැඳවීමේ නියෝගයක් නිකුත් කර ඇත.
-
-අද (27) සිට ක්‍රියාත්මක වන පරිදි ශ්‍රී ලංකා යුධ හමුදාව,ශ්‍රී ලංකා නාවික හමුදාව සහ ශ්‍රී ලංකා ගුවන් හමුදාවේ සියලු සාමාජිකයන් මෙලෙස කැඳවීමේ නියමය ඇතුළත් අති ව්ශේෂ  ගැසට් නිවේදනය ඊයේ (26 ) දාතමින් ජනාධිපතිවරයා විසින් නිකුත් කෙරිණි'
-
-මහජන ආරක්ෂක ආඥා  පනතේ 12 වගන්තියෙන් ජනාධිපතිවරයාට පැවරී ඇති බලතල ප්‍රකාරව    දිවයිනේ සියලු  පරිපාලන දිස්ත්‍රික්ක හා ඒ  ආශ්‍රිත  දේශීය ජල තීරයන්හි මහජන සාමය පවත්වාගෙන යාමට  මෙලෙස  සන්නද්ධ හමුදාවන් කැඳවා තිබේ.
-
-◼️
-
-[Data](articles/4c0559f7.json)
-
----
-
-### A wheel of a driven van escape and a fatal accident
-
-*2024-12-27 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204761) · `si`
-
-Fatal van accident: One killed, driver injured. Wheel flew off during travel. Victim, 60, from Kandy. Police investigating.
-
-🟩
-
-One person was killed in the back of the right side-wheel with a traveling van.
-
-The accident occurred at Udaragama road in the Mawathagama police Division last evening.
-
-The van of the right side was flown from Kandy to Kurunegala and the van in the opposite direction had collapsed.
-
-The driver of the rear seat was admitted to Mawathagama Hospital with serious injuries.
-
-The victim was one of the three wheelers and was injured.
-
-The deceased is a 60 year old resident of Kandy, Dodahawela, Kandy.
-
-The remains are placed at the Kurunegala hospital morgue. Mawathagama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/48cd7aa5.json)
-
-[Extended Data](ext_articles/48cd7aa5.ext.json)
-
----
-
-### විදුලි ගාස්තු ගැන මහජන අදහස් ලබාගැනීම අද සිට ඇරඹෙයි
-
-*2024-12-27 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204760) · `si`
-
-විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ මහජනතාවගෙන් වාචිකව අදහස් ලබාගැනීම අද (27) ආරම්භ වෙයි.
-
-පළමු සැසිය මධ්‍යම පළාතෙන් අද ආරම්භ කරන අතර එය මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාල පරිශ්‍රයේදී සිදු කරනු ඇත.
-
-නව වසරේ මුල් මාස 06ක කාලය සඳහා විදුලි ගාස්තු සංශෝධනයකින් තොරව පවත්වාගෙන යායුතු බවට පසුගියදා විදුලිබල මණ්ඩලය යෝජනා කර තිබුණි.
-
-ඒ සම්බන්ධයෙන් ප්‍රතියෝජනා ඉදිරිපත් කරමින් මහජන උපයෝගීතා කොමිෂන් සභාව සඳහන් කර තිබුණේ සියයට 10ත් 20ත් අතර ප්‍රතිශතයකින් විදුලි ගාස්තු අඩු කිරීමේ හැකියාව පවතින බවය.
-
-අදාළ යෝජනාව සම්බන්ධයෙන් මහජනතාවගෙන් ලිඛිත අදහස් ලබාගැනීම පසුගිය 17වනදා සිට සිදු කෙරුනු අතර අද දිනයේ සිට පළාත් 9ය ආවරණය වන පරිදි ජනවාරි මස 10වනදා දක්වා වාචික අදහස් ලබාගැනීමට කටයුතු යොදා තිබේ.
-
-ඒ අනුව ජනතාවට විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් සිය අදහස් ප්‍රකාශ කිරීම  සඳහා මහජන උපයෝගීතා කොමිෂන් සභාවේ 0772 943 193 දුරකථන අංකය අමතා ලියාපදිංචි වීමේ හැකියාව පවතින බව මහජන උපයෝගීතා කොමිෂන් සභාව පැවසීය.
-
-...
-
-[Data](articles/a4507a75.json)
-
----
-
-### Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track
-
-*2024-12-27 06:41:27* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-ill-fated-LRT-following-a-train-of-thought-from-policy-derailment-to-being-back-on-the-right-track/4-771055) · `en`
-
-GOSL decided to terminate the project with no alternative solution to the traffic congestion issue being proposed
-
-On 27 December, the railway community in Sri Lanka as well as national-minded islanders commemorate the day on which the inaugural Ceylon Government Railway (CGR) train ran between Colombo Fort and Ambepussa (34 miles on the main line) in 1864.
-
-A day before that, the same demographic remembers with grief and sorrow the cataclysmic effect of the Indian Ocean tsunami which devastated a 1,500 passenger train at Peraliya on 26 December 2004, taking a toll of over 1,000 lives in a disaster that saw an estimated 30,000 deaths.
-
-To the credit of Sri Lanka Railways, the destroyed locomotive – a Class M2a EMD-G12 (‘Manitoba’), imported under the Colombo Plan in 1956 – was fully restored a few years later, and makes its regular run on ‘D-Day’ annually, heading Train No. 8051 (#51).
-
-...
-
-[Data](articles/6c3fe26b.json)
-
-[Extended Data](ext_articles/6c3fe26b.ext.json)
 
 ---

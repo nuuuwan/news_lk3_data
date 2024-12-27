@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 19:43:07**
+As of **2024-12-27 20:14:12**
 
 ## Newspaper Stats
 
-*Scraped **62,325** Articles*
+*Scraped **62,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,777
 economynextcom | 3,796
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,953
+adalk | 5,954
 adaderanalk | 7,607
 tamilmirrorlk | 8,940
 virakesarilk | 10,330
@@ -26,23 +26,29 @@ adaderanasinhalalk | 10,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,756 (99.1%) of 62,325 articles have been extended.
+61,758 (99.1%) of 62,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### உலகில் மிகவும் அரிதான மாணிக்கக் கல் இலங்கையில்...
+### Sri Lanka is the most rare gemstone in the world ...
 
 *2024-12-27 19:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-மிகவும்-அரிதான-மாணிக்கக்-கல்-இலங்கையில்/175-349385) · `ta`
 
-இரத்தினபுரி - இறக்குவானை பிரதேசத்தில் மாணிக்கக் கல் அகழ்வின் போது, உலகில் மிகவும் அரிதான மாணிக்கக் கல் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளது.
+Rare gemstone discovered in Sri Lanka: Scopolite Cat's Eye Sunstone, found in Ratnapura-Eruwanai area. Known globally for its rarity.
 
-இந்தக் கல் ஸ்கோப்போலைட் கெட்ஸ் ஐ சன்ஸ் ஸ்டோன் ( Scopolite cat's eye sunstone) சூரியக்கல் என ஆராய்ச்சியின் போது அறியப்பட்டுள்ளது.
+🟩
+
+During the excavation of gem stone in the Ratnapura - Eruwanai area, one of the rare gemstones in the world has been found.
+
+The stone scopolite Gates is known during research as the solar system as Scopolite Cat's Eye Sunstone.
 
 ◼️
 
 [Data](articles/b454e263.json)
+
+[Extended Data](ext_articles/b454e263.ext.json)
 
 ---
 
@@ -91,6 +97,8 @@ Sri Lanka ‘SD/SD’ Foreign Currency And ‘CCC+/C’ Local Currency Ratings A
 ...
 
 [Data](articles/84af439c.json)
+
+[Extended Data](ext_articles/84af439c.ext.json)
 
 ---
 
@@ -681,6 +689,22 @@ He also pointed out that, in the near future, the SJB would find itself in a cha
 ◼️
 
 [Data](articles/4f759e9b.json)
+
+---
+
+### ලලිත් එල්ලාවල දේශපාලනයෙන් සමු ගනියි
+
+*2024-12-27 15:07:44* · [`adalk`](https://www.ada.lk/breaking_news/ලලිත්-එල්ලාවල-දේශපාලනයෙන්-සමු-ගනියි/11-413874) · `si`
+
+කළුතර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී ලලිත් එල්ලාවල මහතා අද (27) දේශපාලනයෙන් සමුගන්නා බව සඳහන් කළේය.පානදුරේදී මාධ්‍ය හමුවක් පවත්වමින් ඒ මහතා මේ බව පැවසීය.
+
+ඒසේම තමන් සමගි ජන බලවේගයේ දැරූ සියලුම තනතුරුවලින් ඉල්ලා අස්වන බවද ඔහු ප්‍රකාශ කළේය.
+
+පක්ෂයේ නම සමගි වූවාට පක්ෂය තුළ එවැනි සමගියක් නොමැති බවද ඔහු ප්‍රකාශ කළේය. තමා ඉතාමත්ම පිරිසිදුව දේශපාලනය කළ බවද ඒ් මහතා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/b182bf46.json)
 
 ---
 
@@ -2151,25 +2175,5 @@ In addition to this prestigious award, Singer Finance also received special reco
 ...
 
 [Data](articles/80ccd3e8.json)
-
----
-
-### Sri Lanka marks 20th anniversary of tsunami
-
-*2024-12-27 05:51:16* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-marks-20th-anniversary-of-tsunami/56-771041) · `en`
-
-Sri Lanka yesterday commemorated the 20th anniversary of the devastating 2004 tsunami, a tragedy that claimed over 35,000 lives and caused widespread destruction. It was one of the deadliest natural disasters faced in history, bordering the Indian Ocean, leaving an unforgettable mark on global disaster response and resilience efforts.
-
-The 2004 Boxing Day tsunami killed 226,408 people, of which 35,399 were in Sri Lanka.
-
-A two-minute silence was observed countrywide from 9:25 to 9:27 a.m. yesterday, paying tribute to the victims of the tsunami. Thousands gathered to honour the memory of those lost at district level.
-
-The Disaster Management Centre (DMC) spearheaded the observance of ‘National Safety Day’ with events organised at district level. The main event took place at the Peraliya Tsunami Memorial Statue in Galle, an emotional reminder of the tragedy’s impact.
-
-...
-
-[Data](articles/f7b8df04.json)
-
-[Extended Data](ext_articles/f7b8df04.ext.json)
 
 ---

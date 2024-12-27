@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 23:43:55**
+As of **2024-12-28 00:02:58**
 
 ## Newspaper Stats
 
-*Scraped **62,332** Articles*
+*Scraped **62,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 3,796
 dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,955
-adaderanalk | 7,607
+adaderanalk | 7,609
 tamilmirrorlk | 8,942
 virakesarilk | 10,330
-adaderanasinhalalk | 10,766
+adaderanasinhalalk | 10,767
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,769 (99.1%) of 62,332 articles have been extended.
+61,770 (99.1%) of 62,335 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,54 @@ It is noteworthy that the spacecraft is currently 9 crore 30 lakh miles from Ear
 [Data](articles/0777cde8.json)
 
 [Extended Data](ext_articles/0777cde8.ext.json)
+
+---
+
+### Galle Fort’s old entrance temporarily closed
+
+*2024-12-27 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104531/galle-forts-old-entrance-temporarily-closed) · `en`
+
+The Archaeology Department’s Southern Province regional office has announced that the old entrance to Galle Fort will be temporarily closed from tomorrow (28) until December 31.
+
+This is due to a conservation project on the fort wall surrounding the ancient fort gate of Galle Fort, a UNESCO World Heritage archaeological site.
+
+Southern Provincial Archaeology Director Wasanthi Alahakoon explained that the decision was made to facilitate chemical conservation work in the area near the gates.
+
+Accordingly, the department further stated that entry and exit to Galle Fort from tomorrow until December 31 will be through the new fort entrance.
+
+◼️
+
+[Data](articles/a6592290.json)
+
+---
+
+### උතුරු මැද හිටපු මහ ඇමති ඇතුළු පිරිසක් සර්වජන බලයට
+
+*2024-12-27 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204781) · `si`
+
+උතුරු මැද පළාත් හිටපු ප්‍රධාන අමාත්‍ය එස්. එම්. රංජිත් මහතා ඇතුළු ප්‍රදේශ රැසක ප්‍රාදේශීය දේශපාලන නායකයින් කිහිපදෙනෙකු අද (27) සර්වජන බලය සමග එක්වුණි.
+
+හිටපු ප්‍රධාන අමාත්‍ය එස්.එම්.රංජිත් මහතා සහ එම පළාත් සභාව නියෝජනය කළ මන්ත්‍රීවරු පිරිසක් මෙන්ම හිටපු අමාත්‍ය විමලවීර දිසානායක මහතාගේ පුත් අංජන දිසානායක ඇතුළු අම්පාර දිස්ත්‍රික් නියෝජනය කරන ප්‍රදේශීය දේශපාලන නියෝජිතයින් පිරිසක් ද අද සර්වජන බලයේ සාමාජිකත්වය ලබාගත්හ.
+
+◼️
+
+[Data](articles/c43da548.json)
+
+---
+
+### Govt committed to providing suitable environment for happy, quality life without discrimination - PM
+
+*2024-12-27 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104530/govt-committed-to-providing-suitable-environment-for-happy-quality-life-without-discrimination-pm) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has affirmed the government’s commitment to creating a suitable environment for all individuals to live a happy and quality life, free from discrimination.
+
+Prime Minister Dr. Amarasuriya made this statement today (December 27), during a ceremony held in Batariwatta, Moratuwa, to inaugurate the first phase of a housing project funded by Chinese financial assistance amounting to Rs. 22 billion. This initiative aims to enhance the living standards of low-income families, the PM’s Media Division reported.
+
+The project envisions the construction of 1,996 houses under Chinese financial assistance. The phase inaugurated in the Batariwatta area, Moratuwa, will provide 575 houses for low-income earners, while the housing project in Kottawa will include 108 houses designated for veteran artists.
+
+...
+
+[Data](articles/7101b1eb.json)
 
 ---
 
@@ -552,19 +600,31 @@ He contributed to alliances like BRICS, and revealed significant diplomacy with 
 
 ---
 
-### மேக்ஸ் - திரைப்பட விமர்சனம்
+### Max - Movie Review
 
 *2024-12-27 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202315) · `ta`
 
-நடிகர்கள் : கிச்சா சுதீபா, வரலட்சுமி சரத்குமார், இளவரசு , 'ஆடுகளம்' நரேன், சுனில் , சரத் லோகித்சவா மற்றும் பலர்.
+Here's a 200-character summary:
 
-நடிகர் பாபி சிம்ஹா நடிப்பில் வெளியான 'வல்லவனுக்கு வல்லவன்' எனும் திரைப்படத்தை இயக்கிய விஜய் தேசிங்கு ( விஜய வாணன்) - விஜய் கார்த்திகேயா என பெயரை மாற்றிக் கொண்டு இயக்கி இருக்கும் அதிரடி மாஸ் எக்சன் எண்டர்டெய்னர் திரைப்படம் தான் 'மேக்ஸ்'. 'விக்ராந்த் ரோனா ' எனும் திரைப்படத்திற்கு பிறகு இரண்டு ஆண்டுகள் கழித்து கன்னட திரையுலகின் முன்னணி நட்சத்திர நடிகரான கிச்சா சுதீபா கதையின் நாயகனாக நடித்திருக்கும் இந்தத் திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
 
-காவல் நிலையம் ஒன்றிற்கு இரண்டு மாத பணியிடை நீக்கத்திற்கு பிறகு மீண்டும் காவல் ஆய்வாளராக பொறுப்பேற்கிறார் மேக்ஸ் என குறிப்பிடப்படும் அர்ஜுன் மகாக்ஷய் ( கிச்சா சுதீபா) . அவர் பொறுப்பேற்பதற்கு முதல் நாள் இரவு பெண்களிடம் பொதுவெளியில் பாலியல் துன்புறுத்தல் நடவடிக்கையில் ஈடுபட்ட இரண்டு இளைஞர்களை கைது செய்து விசாரணை கைதியாக அவர் பணியாற்ற உள்ள காவல் நிலையத்தில் அடைத்து வைக்கிறார்.
+
+"Max" movie review: Thrilling crime drama starring Kicha Sudheeba, Varalakshmi Sarathkumar, Prince. Police inspector investigates mysterious deaths, protects witnesses from political pressure. Suspenseful plot with unexpected twists, impressive performances.
+
+🟩
+
+Actors: Kicha Sudheeba, Varalakshmi Sarathkumar, Prince, 'Aadukalam' Narain, Sunil, Sarath Lokitsawa and many others.
+
+Vijay Desingu (Vijaya Vanan) - Vijay Karthikeya, directed by actor Bobby Simha starring 'Vallavan Vallavan'. Two years after the film 'Vikrant Rona', the film, which plays the hero of the Kannada film industry, Kicha Sudeepa, is the hero of the story?Or not?We will continue to see.
+
+Arjun Mahakshay (Kicha Sudheeba), referred to as Max, is back as a police inspector after a two -month workplace for a police station.. On the first night of her take on the night of his responsibility, the women arrested two youths who were sexually harassed in the public domain and placed them at the police station where he was in prisoner.
+
+There are two youths who have been caught in the armed room of the police station mysteriously in an unexpected moment. Since they are the successor of ministers in the state government, the guards working there are tension.
 
 ...
 
 [Data](articles/a74bcd17.json)
+
+[Extended Data](ext_articles/a74bcd17.ext.json)
 
 ---
 
@@ -2239,57 +2299,5 @@ To the credit of Sri Lanka Railways, the destroyed locomotive – a Class M2a EM
 [Data](articles/6c3fe26b.json)
 
 [Extended Data](ext_articles/6c3fe26b.ext.json)
-
----
-
-### Driving Sri Lanka’s future:  How Ministry of Digital Economy can transform nation
-
-*2024-12-27 06:35:02* · [`dailyftlk`](https://www.ft.lk/columns/Driving-Sri-Lanka-s-future-How-Ministry-of-Digital-Economy-can-transform-nation/4-771054) · `en`
-
-A Ministry of Digital Economy could drive the expansion of e-governance, enabling citizens to access essential services like tax payments, business registrations, and public procurement online
-
-A bold step towards the direction of country’s goal of building a $ 15 billion digital economy
-
-The establishment of a Ministry of Digital Economy in Sri Lanka signals a bold step towards embracing the opportunities of the 21st century. This strategic move aligns the country with global trends and positions it to harness the transformative power of digital technologies. As nations worldwide increasingly depend on digital economies for growth and innovation, Sri Lanka’s decision to create this focused ministry is a testament to its commitment to modernising its economic landscape.
-
-...
-
-[Data](articles/bebbda19.json)
-
-[Extended Data](ext_articles/bebbda19.ext.json)
-
----
-
-### Red baby elephants, Ranil as godfather and dangerous external liaisons
-
-*2024-12-27 06:24:51* · [`dailyftlk`](https://www.ft.lk/columns/Red-baby-elephants-Ranil-as-godfather-and-dangerous-external-liaisons/4-771051) · `en`
-
-Sri Lankans have been politically scammed as never before. With AKD and the NPP, there’s been generational, gender and governance change, no structural reform (let alone ‘system-change’), and most crucially no change of economic policy paradigm and corporate/superrich bias. In an inversion of their mandate, there’s stark continuity in the economic policy framework that caused Sri Lanka’s debt crisis and perpetuates mass economic austerity.
-
-As presidential candidate Anura emphasised improvement of human resources, upgrading of human capital, as his economic keystone, but his presidential policies have placed the keystone in the opposite direction, and his macroeconomic commitments are and cannot but be ruinous to human resources/human capital.
-
-...
-
-[Data](articles/97f1f8aa.json)
-
-[Extended Data](ext_articles/97f1f8aa.ext.json)
-
----
-
-### තැනින් තැන ගිගුරුම් සහිත වැසි
-
-*2024-12-27 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204758) · `si`
-
-උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මාතලේ  දිස්ත්‍රික්කයේත් අද (27) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
-
-බස්නාහිර, සබරගමුව, දකුණු, වයඹ සහ ඌව පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙයි.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
-
-◼️
-
-[Data](articles/cf7a43b7.json)
 
 ---

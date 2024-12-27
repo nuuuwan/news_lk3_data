@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 10:43:29**
+As of **2024-12-27 11:01:47**
 
 ## Newspaper Stats
 
-*Scraped **62,247** Articles*
+*Scraped **62,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 629
 bbccomsinhala | 657
 islandlk | 3,775
 economynextcom | 3,785
-dailyftlk | 4,317
+dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,945
 adaderanalk | 7,597
-tamilmirrorlk | 8,931
+tamilmirrorlk | 8,933
 virakesarilk | 10,307
 adaderanasinhalalk | 10,750
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,730 (99.2%) of 62,247 articles have been extended.
+61,730 (99.2%) of 62,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### ரயில் பயணிகளின் கவனத்துக்கு
+
+*2024-12-27 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-பயணிகளின்-கவனத்துக்கு/76-349378) · `ta`
+
+பதுளை- கோட்டைக்கும், கோட்டை- பதுளைக்கும்   இடையில் இன்று வௌ்ளிக்கிழமை (27), நாளை சனிக்கிழமை  (28) மற்றும் ஞாயிற்றுக்கிழமை (29) ஆகிய தினங்களில் விசேட ரயில் சேவைகளை முன்னெடுக்க ரயில்வே திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+
+கொழும்பு கோட்டை புகையிரத நிலையத்தில் இருந்து இன்று வௌ்ளிக்கிழமை (27) இரவு 7.30 மற்றும் நாளை  சனிக்கிழமை (28) காலை 7.45 மணிக்கும், பதுளை புகையிரத நிலையத்தில் இருந்து சனிக்கிழமை  (28) காலை 7.05 மணிக்கும், கோட்டை புகையிரத நிலையத்தில் இருந்து இரவு 7.30 மணிக்கும் விசேட புகையிரதம் புறப்பட உள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை அலுவலகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6cee363c.json)
+
+---
+
+### கடலில் மூழ்கிய ஐவர் மீட்பு
+
+*2024-12-27 10:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மூழ்கிய-ஐவர்-மீட்பு/175-349377) · `ta`
+
+ஹிக்கடுவை, நரிகம சுற்றுலா கடற்கரையில் நீராடச் சென்ற போது நீரில் அடித்துச் செல்லப்பட்ட நான்கு சிறுவர்கள் உட்பட வெளிநாட்டவர்கள் ஐவர் பொலிஸ் உயிர்காப்புப் படையினரால் மீட்கப்பட்டுள்ளனர்.
+
+நான்கு குழந்தைகள் மற்றும் ஒரு பெண் மீட்கப்பட்டதாகவும், அவர்கள் ரஷ்ய மற்றும் கொலம்பிய பிரஜைகள் என்றும் பொலிஸார் தெரிவித்தனர்.
+
+இந்த குழுவினர் வௌ்ளிக்கிழமை (27) நீராடியுள்ளனர். அவர்கள் கடலலையில் சிக்கி அடித்து செல்லப்பட்டனர்.
+
+சம்பவ இடத்தில் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உயிர் பாதுகாப்பு குழுவைச் சேர்ந்த பொலிஸ் பரிசோதகர் மற்றும் ஏழு பொலிஸ் கான்ஸ்டபிள்கள் உடனடியாக தலையிட்டு குழுவினரை மீட்டு கரைக்கு கொண்டு வந்தனர்.
+
+◼️
+
+[Data](articles/a1b69e93.json)
+
+---
 
 ### To the attention of Sivanoli Padamalai pilgrims
 
@@ -86,11 +118,11 @@ Special train services will be provided from the Colombo Fort Railway Station at
 
 *2024-12-27 10:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பஸ்ஸின்-முன்சில்லு-கழன்று-விபத்து/71-349371) · `ta`
 
-பஸ்ஸின் முன்சில்லு கழன்று ஓடியதால், அருகில் சென்ற பட்டாரக வாகனம் விபத்துக்குள்ளான சம்பவமொன்று, யாழ்ப்பாணத்தில் இடம்பெற்றுள்ளது.
+,இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸின், ஒருபக்க  முன்சில்லு கழன்று ஓடியதால், அருகில் சென்ற பட்டாரக வாகனம் விபத்துக்குள்ளான சம்பவமொன்று, யாழ்ப்பாணத்தில் இடம்பெற்றுள்ளது.
 
-யாழ்ப்பாணத்திலிருந்து கண்டி நோக்கி, இன்று (27) காலை சென்ற இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ்ஸே, இவ்வாறு இயக்கச்சி இராணுவ முகாம் முன்பாக விபத்துக்குள்ளாகியது.
+யாழ்ப்பாணத்திலிருந்து கண்டி நோக்கி,வௌ்ளிக்கிழமை (27) காலை சென்ற பஸ்ஸே, இவ்வாறு இயக்கச்சி இராணுவ முகாம் முன்பாக விபத்துக்குள்ளாகியது.
 
-பஸ்ஸின் சாரதி பக்க சில்லின் அச்சு உடைந்து, சில்லு தீப்பிடிச்சு சென்றதில், அருகில் பயணித்த பட்டா வாகனத்தின் மீது பஸ்ஸின் சில்லு மோத, பட்டா சாரதி நிலைகுலைந்து, பட்டாவும் விபத்துக்குள்ளாகியது.
+பஸ்ஸின் சாரதி பக்க சில்லின் அச்சு உடைந்து, சில்லு தீப்பிடித்து சென்றதில், அருகில் பயணித்த பட்டா வாகனத்தின் மீது பஸ்ஸின் சில்லு மோத, பட்டா சாரதி நிலைகுலைந்து, பட்டாவும் விபத்துக்குள்ளாகியது.
 
 ◼️
 
@@ -804,6 +836,18 @@ It is noteworthy that journalists continue to kill the ongoing clashes between I
 
 ---
 
+### Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela.
+
+*2024-12-27 02:49:05* · [`dailyftlk`](https://www.ft.lk/news/Archbishop-of-Colombo-Cardinal-Malclom-Ranjith-conducts-the-Christmas-service-at-Our-Lady-of-Sorrows-Church-in-Ja-Ela/56-771039) · `en`
+
+Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/cccb9f2a.json)
+
+---
+
 ### Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
 
 *2024-12-27 02:49:05* · [`dailyftlk`](https://www.ft.lk/news/Archbishop-of-Colombo-Cardinal-Malclom-Ranjith-conducts-the-Christmas-service-at-Our-Lady-of-Sorrows-Church-in-Ja-Ela-A-large-crowd-was-present-for-the-mid-night-service-Pix-by-Pradeep-Pathirana/56-771039) · `en`
@@ -892,7 +936,7 @@ The Kithusara Movement this week held a protest against alleged Holocaust of Pal
 
 ### Is “ the Writing on the Wall” for  the Thirteenth  Constitutional Amendment?
 
-*2024-12-27 00:29:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85250) · `en`
+*2024-12-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85250) · `en`
 
 “ The  Writing on the Wall’is a figurative expression derived from the story of Daniel in the old testament of the Bible. Chapter five of the book of Daniel relates how the then monarch of the Babylonian empire  Belshazzar and his cronies were feasting and drinking in the night when a hand appeared miraculously and wrote some letters on the wall.
 
@@ -2267,95 +2311,5 @@ The German supply chain act was passed in the Bundestag and was in effect from J
 [Data](articles/4df241cb.json)
 
 [Extended Data](ext_articles/4df241cb.ext.json)
-
----
-
-### “Put up spontaneous transfers immediately”
-
-*2024-12-26 14:58:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தன்னிச்சையான-இடமாற்றங்களை-உடனடியாக-இடைநிறுத்தவும்/175-349325) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Opposition party forms unit to probe arbitrary transfers in councils. Government accused of relocating officials unreasonably. Urges immediate suspension of transfers during election periods."
-
-🟩
-
-The opposition United People's Power (SJB) Party has established a special unit to investigate arbitrary transfers at the National and Provincial Council level.
-
-The SJB said that there was a proper program of relocating government officials between service centers on the basis of unacceptable and unreasonable reasons in various national and provincial councils.
-
-The SJB has pointed out that it is worrying that the government, which promised to ensure the independence of the public service, is worried that the government is engaged in such activities.
-
-With the elections of the Co -operative Society are ongoing and that the local elections are pending and the co -operative union elections are currently underway, the SJP has said that the SJP is in the process of politicizing these elections.. Has been reported.
-
-The SJB has also urged the government and provincial council officials to immediately suspend all arbitrary transfers at the National and Provincial Council levels.
-
-◼️
-
-[Data](articles/274597b5.json)
-
-[Extended Data](ext_articles/274597b5.ext.json)
-
----
-
-### Many farmland damaged floods identified
-
-*2024-12-26 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204744) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Floods damage 80,000 acres of farmland. Crop assessment ongoing in Polonnaruwa, Vavuniya, Mullaitivu, Mannar. Compensation to follow after district reports. Damage evaluation in Batticaloa, Ampara, Trincomalee by Sept 29."
-
-🟩
-
-Nearly 80,000 acres of farms have been identified as the floods damaged due to inclement weather.
-
-The following was a statement made by progressing to the media regarding the development of the crop damage in the Maha season today (26).
-
-According to the incident, the crop crop hazardous crops is currently being carried out due to the participation of cultivated and farmer organizations in the Agrarian Development Department.
-
-Cultivation has been completed in Polonnaruwa, Vavuniya, Mullaitivu and Mannar Districts.
-
-The announcement states that compensation will be taken after the final reported to the respective districts.
-
-In addition, the Cultural Damage test will be completed at the September 29, Batticaloa, Ampara and Trincomalee districts.
-
-The agricultural and the Agrarian Courses, the Department of Agriculture and Agrarian Insurance further states that the prosecution of the farmers' account to be disasters are assessed by the estimated.
-
-◼️
-
-[Data](articles/73dc8ef2.json)
-
-[Extended Data](ext_articles/73dc8ef2.ext.json)
-
----
-
-### Harin Fernando praised the record
-
-*2024-12-26 14:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாதனையை-பாராட்டினார்-ஹரின்-பெர்னாண்டோ/175-349324) · `ta`
-
-Harin Fernando praises Sri Lanka reaching 2M tourists by 2024. Targets 2.5M for 2025, credits all contributors.
-
-🟩
-
-Former Sri Lankan Tourism Minister Harin Fernando today praised Sri Lanka's reach of 2 million tourists.
-
-Harin Fernando posted on his 'X' that the authorities were able to reach the target of 02 million by 2024.
-
-He further stated that the government could achieve the goal of 2.5 million tourists for 2025, set by the last government.
-
-“What we predicted in 2024 was true, hard work was beneficial, and we started with zero tourists.
-
-Congratulations to the industrial and Sri Lankan tourists who contributed to the event, I congratulate the new government to continue the good work of 2.5 million as a realistic target for 2025, ”Harin Fernando said in the 'X' record.
-
-◼️
-
-[Data](articles/678d9cb7.json)
-
-[Extended Data](ext_articles/678d9cb7.ext.json)
 
 ---

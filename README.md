@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 14:02:45**
+As of **2024-12-27 14:15:50**
 
 ## Newspaper Stats
 
-*Scraped **62,275** Articles*
+*Scraped **62,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,775
 economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,948
+adalk | 5,949
 adaderanalk | 7,599
 tamilmirrorlk | 8,936
 virakesarilk | 10,315
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,753
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,739 (99.1%) of 62,275 articles have been extended.
+61,740 (99.1%) of 62,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -148,21 +148,27 @@ The necessary arrangements are to be taken to transport the body to France.
 
 ---
 
-### உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிகளுடன் சந்தேக நபர்கள் இருவர் கைது!
+### Two suspects arrested with locally manufactured guns
 
 *2024-12-27 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202276) · `ta`
 
-நாட்டில் வெவ்வேறு பகுதிகளில் பொலிஸாரினால் நேற்று வியாழக்கிழமை (26) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிகள் மற்றும் சட்டவிரோத மதுபானத்துடன் சந்தேக நபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two suspects arrested: one with locally made gun and liquor in Ambakaswewa, another with gun in Galagedera. Police conducted round-up operations nationwide.
 
-மஹவ பொலிஸ் பிரிவிற்கு உட்பட்ட அம்பகஸ்வெவ பகுதியில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும் சட்டவிரோத மதுபானத்துடன்  சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 04 லீற்றர்  500 மில்லி லீற்றர் சட்டவிரோத மதுபானம் மற்றும்  உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி என்பன கைப்பற்றப்பட்டுள்ளன.
+Two suspects have been arrested with locally manufactured guns and illegal liquor during a round -up by police in different parts of the country yesterday (26).
 
-இதேவேளை, நிக்கவெரட்டிய பொலிஸ் பிரிவுக்கு உட்பட்ட கலகெதர பகுதியில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A suspect has been arrested with a locally manufactured gun and an illegal liquor in Ambakaswewa, which belongs to the Mahawa Police Division.
+
+Four liters of 500 ml of illegal liquor and locally manufactured gun have been seized from the arrested suspect.
+
+Meanwhile, a suspect has been arrested with a locally manufactured gun in the Galagedera area of ​​the Nikaweratiya police division.
 
 ◼️
 
 [Data](articles/3e407821.json)
+
+[Extended Data](ext_articles/3e407821.ext.json)
 
 ---
 
@@ -953,6 +959,26 @@ The withholding tax increase is an attempt to increase compliance and improve ta
 ...
 
 [Data](articles/eed9c36f.json)
+
+---
+
+### මැලේසියාවේ පැවැති ආරාධිත හොකී තරගාවලියකදී ශ්‍රි ලංකාවට ශුරතාවක්
+
+*2024-12-27 07:51:39* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාවේ-පැවැති-ආරාධිත-හොකී-තරගාවලියකදී-ශ්‍රි-ලංකාවට-ශුරතාවක්/11-413869) · `si`
+
+මැලේසියාවේ පැවති " පෙස්ටා " ආරාධිත හොකී තරගාවලියට සහභාගී වූ ශ්‍රී ලංකා පාසැල් වයස අවුරුදු 18 න් පහළ කාන්තා මෙරූන් කණ්ඩායම , එහි ශූරතාවය දිනා ගෙන 12/26 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+
+තරගාවලිය මැලේසියාවේ ෆිනෑන්ග් නුවර ඉකුත් 12/20 දින සිට 12/22 දින දක්වා පවත්වා තිබුණි .
+
+තරගාවලිය සදහා ශ්‍රී ලංකාව නියෝජනය කරමින් පාසැල් හොකී සංගමයේ ක්‍රීඩක ක්‍රීඩිකාවන් 68 දෙනෙකු සහභාගී වී සිටියහ .
+
+ශ්‍රී ලාංකික හොකී ක්‍රීඩක ක්‍රීඩිකාවන් පිරිස 12/26 දින පස්වරු 04.00 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 315 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ඔවුන් පිළිගැනීම සදහා මෙම ක්‍රීඩක ක්‍රීඩිකාවන්ගේ දෙමාපියන් විශාල පිරිසක් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+◼️
+
+[Data](articles/2b1e0a39.json)
 
 ---
 
@@ -2213,33 +2239,5 @@ The Wahak Rule has taken steps to accommodate over Rs. 1,314,00,00.00.
 ...
 
 [Data](articles/b2714ac6.json)
-
----
-
-### Factum Perspective: Need for Integrated Border Management System
-
-*2024-12-26 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202201) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's integrated border management system aims to enhance national security, combat terrorism, and monitor migration. It combines technology, intelligence sharing, and international cooperation to prevent extremist ideologies and protect economic development.
-
-🟩
-
-Workshop from South Asia in Colombo, Sri Lanka on November 12, 2024: Problems and compassion (South Asian Thought Groups) discussions during the book launch of the Cosatt, which prompted me to think about Sri Lanka's border management.
-
-Sri Lanka launched an integrated border management system in 2019 and its writer was well aware of its purpose and intention and the implementation of its purpose as the Director of Naval Headquarters.
-
-The Navy had the employees assigned to implement the implementation training as it foretold its need and supported the initial plan. The team selected for this task was well aware of the personal data file and database management.
-
-To implement the strong integrated system for global and regional acceptance, every citizen who visits the island is registered and has their profiles verified and monitored by the necessary persons.
-
-...
-
-[Data](articles/4eb377bc.json)
-
-[Extended Data](ext_articles/4eb377bc.ext.json)
 
 ---

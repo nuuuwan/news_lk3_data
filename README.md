@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 18:37:53**
+As of **2024-12-27 18:49:43**
 
 ## Newspaper Stats
 
@@ -26,41 +26,63 @@ adaderanasinhalalk | 10,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,753 (99.1%) of 62,312 articles have been extended.
+61,755 (99.1%) of 62,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### සිම්බාබ්වේ ටෙස්ට් වාර්තා අලුත් කරයි
+### Zimbabwe renews Test reports
 
 *2024-12-27 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204778) · `si`
 
-සංචාරක ඇෆ්ගනිස්තායට එරෙහිව බුලවායෝහිදී පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දී සිය ටෙස්ට් ක්‍රිකට් දිවියේ ඉහළම ඉනිම ක්‍රීඩා කිරීමට සිම්බාබ්වේ කණ්ඩායමට අද (27) හැකිවිය.
+Here's a summary of 200 characters:
 
-තරගයේ දෙවන දිනය වූ අද සත්කාරක සිම්බාබ්වේ කණ්ඩායම සිය පළමු ඉනිමට සියලු දෙනා දැවී ලකුණු 586ක් රැස්කිරීමට සමත් විය.
 
-මීට පෙර ඔවුන් ක්‍රීඩාකර තිබූ ඉහළම ඉනිම වූයේ 2001 වසරේදී බ.ඉ. කොදෙව් කණ්ඩායමට එරෙහිව හරාරේහිදී පැවති තරගයකදී ලකුණු 563ක් රැස්කර තිබීමයි.
 
-නායක ක්‍රෙග් අර්වින් ලකුණු 104ක් හා බ්‍රයන් බෙනට් නොදැවී ලකුණු 110ක් රැස්කිරීමට සමත් විය.
+Zimbabwe played highest Test innings vs Afghanistan. Scored 586/10 on Day 2. Previous record: 563/10 by West Indies in 2001. Kruger Irwin (104) and Brian Bennett (110*) top-scored.
+
+🟩
+
+Zimbabwe was playing the highest innings of Test cricket in the first Test cricket match against the tourist Afgistator.
+
+Today the second day of the match hosting Zimbabwe scored 586 runs for the loss of all wickets.
+
+Previously, they were playing the highest innings in 2001, 2001, B ඩ.. The West Indies had scored 563 runs in the competition in Harara.
+
+Leader Kruge Irwin scored 104 runs and Brian Bennet scored 110 not out.
 
 ◼️
 
 [Data](articles/a1b49c0e.json)
 
+[Extended Data](ext_articles/a1b49c0e.ext.json)
+
 ---
 
-### தமிழர்களின் உரிமைகளை பாதுகாக்கும் வகையில் புதிய அரசியலமைப்பு உருவாக்கப்பட வேண்டும் - பேராசிரியர் திஸ்ஸ விதாரண
+### A new constitution should be created to protect the rights of Tamils ​​- Professor Tissa Vitharana
 
 *2024-12-27 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202326) · `ta`
 
-புதிய அரசியலமைப்பின் ஊடாக இனப்பிரச்சினைக்கு தீர்வு காண வேண்டும் என்று குறிப்பிட்ட ரணில் விக்கிரமசிங்க சமஷ்டியாட்சி முறைமைக்கு நேரடியாக எதிர்ப்பு தெரிவித்தார். தமிழர்களின் உரிமைகளை பாதுகாக்கும் வகையில் புதிய அரசியலமைப்பு உருவாக்கப்பட வேண்டும் என்பதை ஜனாதிபதியிடம் வலியுறுத்தியுள்ளேன். ஏனெனில் சட்டங்களின் ஊடாகவும் தமிழர்களுக்கு அநீதி இழைக்கப்பட்டுள்ளதென ஸ்ரீ லங்கா சமசமாஜக் கட்சியின் தலைவர் பேராசிரியர் திஸ்ஸ விதாரண தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-புதிய அரசியலமைப்பு உருவாக்கத்துக்கான பணிகளை துரிதப்படுத்துவதாக அரசாங்கம் குறிப்பிட்டுள்ளமை வரவேற்கத்தக்கது.   பல தசாப்தகாலமாக புதிய அரசியலமைப்பு உருவாக்கம் பற்றி பேசப்படுகிறது. இருப்பினும் எந்த அரசாங்கங்களும் புதிய அரசியலமைப்பினை உருவாக்கவில்லை.முதலாளித்துவ தரப்பினர் இனப்பிரச்சினைக்கு தீர்வு காண்பதற்கு விரும்பவில்லை என்பது தெளிவாக தெரிகிறது.
+
+
+Professor Tissa Vitharana calls for a new constitution to protect Tamil rights. Previous attempts failed under various governments. Current president promises reform, but challenges remain.
+
+🟩
+
+Ranil Wickremesinghe directly opposed the system that the ethnic problem should be resolved through the new constitution.. I have urged the President to create a new constitution to protect the rights of Tamils. Professor Tissa Vitharana, the leader of the Sri Lanka Sama Samaja Party, said that the Tamils ​​were unjust through laws.
+
+It is welcome that the government has stated that it will accelerate the work of the new constitution.Has been talked about new constitutional formation for decades. However, it is clear that no governments have created a new constitution.
+
+Former President Mahinda Rajapakse promised to the international community that the Tamil people will be resolved through the Constitution after the war is over.. The war victory was used for the victory of the 2010 election and did not use the resolve the ethnic problem in the country.
 
 ...
 
 [Data](articles/91f2f520.json)
+
+[Extended Data](ext_articles/91f2f520.ext.json)
 
 ---
 

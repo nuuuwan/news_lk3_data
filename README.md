@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 05:12:31**
+As of **2024-12-28 04:42:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,787 (99.1%) of 62,359 articles have been extended.
+61,785 (99.1%) of 62,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -320,8 +320,6 @@ Additionally, Sri Lanka Navy personnel as well as officer under trainees from th
 
 [Data](articles/51ae196b.json)
 
-[Extended Data](ext_articles/51ae196b.ext.json)
-
 ---
 
 ### 2024-12-27 (Friday)
@@ -339,8 +337,6 @@ The railway community in Sri Lanka and all national-minded islanders commemorate
 ...
 
 [Data](articles/3d23d952.json)
-
-[Extended Data](ext_articles/3d23d952.ext.json)
 
 ---
 

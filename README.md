@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 17:27:18**
+As of **2024-12-27 17:44:43**
 
 ## Newspaper Stats
 
-*Scraped **62,306** Articles*
+*Scraped **62,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,775
 economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,951
+adalk | 5,952
 adaderanalk | 7,605
 tamilmirrorlk | 8,939
 virakesarilk | 10,326
@@ -26,45 +26,65 @@ adaderanasinhalalk | 10,761
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,751 (99.1%) of 62,306 articles have been extended.
+61,753 (99.1%) of 62,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### NASA යානයක් සූර්යයා ළඟටම යයි
+### NASA plane goes to the sun
 
 *2024-12-27 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204775) · `si`
 
-නාසා ආයතනය මගින් යවන ලද අභ්‍යවකාශ යානයක් සූර්යයාගේ ඉතා ආසන්නයට ළඟා වී තිබේ.
+Here's a 200-character summary:
 
-එම යානාව ඉතිහාසගතවන්නේ සූර්යයා ආසන්නයට ම ගොස් නිරුපද්‍රිතව සිටීමට සමත් වූ යානාව ලෙසට ය.
 
-"Parker Solar Probe" නම් එම අභ්‍යවකාශ නිරීක්ෂණ යානයෙන් අද (05:00 GMT) විද්‍යාඥයින්ට සංඥා ලැබී තිබුණි.
 
-දින කිහිපයක් ඉන් සංඥා නොලැබී තිබුණු හෙයින් එය සූර්යයා ගේ අධික උෂ්ණත්වයට විනාශ වූවාදැයි යන සැකය මතුවී තිබුණි.
+NASA's Parker Solar Probe safely approaches the Sun, receiving signals 3.8 million miles from the solar surface, dispelling fears of destruction by intense heat.
 
-මෙම යානය සූර්යයාට ළඟා වී ඇත්තේ සූර්යයාගේ මතුපිට පෘෂ්ඨයේ සිට සැතපුම් මිලියන 3.8ක් නැතහොත් කිලෝ මීටර් මිලියන 6.1කට බව නාසා ආයතනය තහවුරු කර ඇත.
+🟩
+
+A spacecraft sent by NASA has reached its very close to the sun.
+
+The airline is made up as the aircraft that was able to go to the sun and to stay safe.
+
+"Parker Solar Probe" (05:00 GMT) had received signals from the space observation plane.
+
+Since it was not received a few days, it was suspected that it was destroyed by the sun's high temperature.
+
+The aircraft has reached the Sun that 3.8 million miles from the Sun's surface, or 6.1 million millions of miles.
 
 ◼️
 
 [Data](articles/b3d007a7.json)
 
+[Extended Data](ext_articles/b3d007a7.ext.json)
+
 ---
 
-### யாழில் ஹெரோயினுடன் ஒருவர் கைது!
+### One arrested with heroin in Jaffna
 
 *2024-12-27 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202320) · `ta`
 
-யாழ். மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் யாழ். மாவட்ட பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் ஹெரோயினுடன் சந்தேகநபர் ஒருவர் இன்றையதினம் வெள்ளிக்கிழமை (27) கைது செய்யப்பட்டுள்ளார்.
+Here's a summary in 200 characters:
 
-யாழ்ப்பாணம் - பொம்மைவெளி பகுதியில் வைத்து 120 மில்லிகிராம் ஹெரோயினுடன் குறித்த நபர் கைது செய்யப்பட்டுள்ளார்.
 
-மேலும்,கைது செய்யப்பட்ட சந்தேகநபரிடம் மேற்கொண்ட மேலதிக விசாரணைகளின் பின்னர், நீதிமன்றத்தில் ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+Arrest made in Jaffna: 1 person caught with 120mg heroin. Police investigating further. Case to be presented in court.
+
+🟩
+
+Yall. Jaffna under the District Senior Superintendent of Police. A suspect with heroin has been arrested today (27) on the basis of confidential information received by the District Police Intelligence Unit.
+
+A man has been arrested with 120 milligrams of heroin in Jaffna - toyveli area.
+
+In addition, the police are taking steps to appear in court after further inquiries into the arrested suspect.
 
 ◼️
 
 [Data](articles/87517fd3.json)
+
+[Extended Data](ext_articles/87517fd3.ext.json)
 
 ---
 
@@ -443,6 +463,24 @@ The body of Manmohan Singh is to be held tomorrow after the leaders pay tribute.
 [Data](articles/013baefb.json)
 
 [Extended Data](ext_articles/013baefb.ext.json)
+
+---
+
+### දකුණු කොරියා වැඩබලන අගමැතිත් දෝෂාභියෝගය පරාදයි
+
+*2024-12-27 14:33:02* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියා-වැඩබලන-අගමැතිත්-දෝෂාභියෝගය-පරාදයි/11-413872) · `si`
+
+දකුණු කොරියාවේ වැඩබලන ජනාධිපති හන් ඩක්-සූට එරෙහිව ගෙනා දෝෂාභියෝයෙන් ඔහු පරාජයට පත්ව තිබේ. දෝෂාභියෝගය ජය ගැනිමට අවශ්‍ය ඡන්ද 151 සිමාව ඉක්මවා එයට නීති සම්පාදකයන් 192ක් පක්ෂව ඡන්දය ප්‍රකාශ කළේය.
+
+දකුණු කොරියා හිටපු ජනාධිපති යූන් සුක් යෝල් දෝෂාභියෝගයක් හරහා ධුරයෙන් නෙරපා සති දෙකක් වැනි කෙටි කාලයක් තුළ ඒරට වැඩ බලන ජනපතිවරයාද මෙසේ දෝෂාභියෝගයක් හරහාම පරාජය පත්විය.
+
+වැඩබලන ජනපතිධුරයට පත්විමට පෙරාතුව හන් ඩක් සූ එරට අගමැතිවරයා ලෙස කටය්‍රතු කළේය.
+
+දෙසැම්බර් 3 වන දින යුධ නීතිය පැනවීමට ඒවක ජනාධිපති යූන් කටයුතු කිරිමත් සමග දකුණු  කොරියාව තුළ ගැටලුකාරි තත්ත්වයක් උද්ගත වූ අතර පසුව ඔහු දෝෂාභියෝගයෙක් පරායට පත්විමෙන් අනතුරුව අගමැති හැන් වැඩබලන ජනපති ලෙස සිය රාජකාරි ආරම්භ කළේය.
+
+◼️
+
+[Data](articles/5fd7274b.json)
 
 ---
 
@@ -2073,19 +2111,5 @@ The Kithusara Movement this week held a protest against alleged Holocaust of Pal
 ...
 
 [Data](articles/83f86d4b.json)
-
----
-
-### Is “ the Writing on the Wall” for  the Thirteenth  Constitutional Amendment?
-
-*2024-12-27 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85250) · `en`
-
-“ The  Writing on the Wall’is a figurative expression derived from the story of Daniel in the old testament of the Bible. Chapter five of the book of Daniel relates how the then monarch of the Babylonian empire  Belshazzar and his cronies were feasting and drinking in the night when a hand appeared miraculously and wrote some letters on the wall.
-
-The terrified King and his acolytes were unable to read and understand what had been written. He sent  for Daniel renowned for his knowledge and wisdom. Daniel informed   Belshazzar that God has numbered the king’s days and that his kingdom would be given away. Daniel’s interpretation of the writing on the wall comes true.  Belshazzar is killed that night and his kingdom is taken over by Darius.
-
-...
-
-[Data](articles/a69a7065.json)
 
 ---

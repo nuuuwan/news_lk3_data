@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 21:43:40**
+As of **2024-12-27 22:02:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,762 (99.1%) of 62,331 articles have been extended.
+61,763 (99.1%) of 62,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -156,19 +156,25 @@ The stone scopolite Gates is known during research as the solar system as Scopol
 
 ---
 
-### ඉදිරි වසර දෙකේදි පුනර්ජනනීය බලශක්තියෙන් මෙගා වොට් 500ක්
+### 500 megawatts of renewable energy in the next year
 
 *2024-12-27 19:15:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-දෙකේදි-පුනර්ජනනීය-බලශක්තියෙන්-මෙගා-වොට්-500ක්/11-413875) · `si`
 
-“කලාපයේ අධිකම බලශක්ති පිරිවැය දරන රටක් හැටියට අපි ඉන්නේ, ඒ තත්වය වෙනස් කරලා දරාගත හැකි සාධාරණ මිලකට බලශක්තිය ලබාදීම නව රජයේ අරමුණයි. රට සංවර්ධනය කරන්න නම් ඒ දේ කරන්නම ඕනේ. විශේෂයෙන් පුනර්ජනනීය බලශක්තිය කෙරෙහි අපි විශාල බලාපොරොත්තුවක් තබා තියෙනවා.
+Sri Lanka aims to generate 500MW of renewable energy within a year, balancing costs and fostering private sector investment. The government plans to collaborate with investors to achieve this target, addressing challenges through immediate solutions.
 
-බලශක්ති උත්පාදනයට ආයෝජනය කරන්න පුද්ගලික අංශයේ අයට ඇති තරම් ඉඩකඩ ලබාදෙනවා. රජයටත් ආයෝජකයින්ටත් සාධාරණයක් ඉටුවන දෙපාර්ශවයටම ජය ලැබෙන ක්‍රමවේදය අනුගමනය කරන්න අපි කටයුතු කරනවා. අයෝජකයාගෙත් වටිනාකම් හා අපේක්ෂාවන් තේරුම් අරගත්ත රජයක් හැටියට අපි ඔවුන්ගේ ගැටළු වලට කඩිනම් විසදුම් ලබාදීලා  රටේ බලශක්ති ඉලක්ක ජයගන්න ක්‍රියාකරනවා“ යැයි අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පැවසීය.
+🟩
 
-අමාත්‍යවරයා එම අදහස් පළකලේ බලශක්ති අමාත්‍යංශයේ පැවති ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරිය යටතේ ක්‍රියාත්මක කරන මධ්‍යම හා විශාල පරිමාණ පුනර්ජනනීය බලශක්ති ව්‍යාපෘති වල ප්‍රගතිය සහ ඊට අදාළ ගැටළු සාකච්ඡා කිරීමේ හමුව සදහා පැමිණ සිටි අදාළ ආයෝජකයන් හා කළ සාකච්ඡාවේදීය.
+"We have the aim of providing energy at a reasonable price of the region as a country where the region bears the over energy costs of the region. To develop the country needs to do it. We have a great hope for renewable energy.
+
+The private sector provides enough room to invest in the power generation. We will take action to follow both parties that will win both the government and investors. As a government that understands the values ​​and expectations of the income and prospects, we are solved with immediate solutions to their problems and act in the country's energy targets, "said Minister of Engineering Kumara Jayakody.
+
+The Minister made these comments at the progress of the Central and Large Renewable Energy Authority (SL and large-scale energy authority) implemented under the Sri Lanka Sustainable Energy Authority (SLIC) under the Sri Lanka Sustainable Energy Authority (SL and).
 
 ...
 
 [Data](articles/9eab6ce0.json)
+
+[Extended Data](ext_articles/9eab6ce0.ext.json)
 
 ---
 

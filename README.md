@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 14:28:02**
+As of **2024-12-27 14:43:28**
 
 ## Newspaper Stats
 
-*Scraped **62,280** Articles*
+*Scraped **62,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 5,949
 adaderanalk | 7,600
 tamilmirrorlk | 8,936
 virakesarilk | 10,316
-adaderanasinhalalk | 10,755
+adaderanasinhalalk | 10,756
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,741 (99.1%) of 62,280 articles have been extended.
+61,741 (99.1%) of 62,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### හිටපු ජනපති රනිල් මන්මෝහන් සිංට අවසන් ගෞරව දක්වයි
+
+*2024-12-27 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204770) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය මන් මෝහන් සිං මහතාගේ දේහයට අද (27) නව දිල්ලි අගනුවරදී අවසන් ගෞරව දැක්වීය.
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී මන්මෝහන් සිං මහතාගේ බිරිය වන ගුර්ශරන් කෞර් කෝලි මහත්මියට ශෝකය පළ කළේය.
+
+එම අවස්ථාවේ නව දිල්ලියේ මන්මෝහන් සිං මහතාගේ නිවසට පැමිණ සිටි ඉන්දීය විපක්ෂ නායක රාහුල් ගාන්ධි මහතා සමඟ ද රනිල් වික්‍රමසිංහ මහතා කෙටි සාකච්ඡාවකට එක්විය.
+
+රනිල් වික්‍රමසිංහ මහතා මේ දිනවල ඉන්දීය සංචාරයක නිරතව සිටින අතර ඒ අතරතුර ඉන්දියාවේ හිටපු අග්‍රාමාත්‍යවරයාගේ දේහයට අවසන් ගෞරව දැක්වීමට මෙලෙස එක්ව තිබුණි.
+
+◼️
+
+[Data](articles/2de8d546.json)
+
+---
 
 ### இம்முறை வரவு செலவு திட்டத்தில் கல்விக்கும், சுகாதாரத்திற்கும் அதிக நிதி ஒதுக்கீடு - அமைச்சர் சந்திரசேகர்
 
@@ -2203,31 +2221,5 @@ The character of 'Jin' with commercial features in the film is created with mode
 [Data](articles/41eee286.json)
 
 [Extended Data](ext_articles/41eee286.ext.json)
-
----
-
-### 'Victory Velupper' starring actor Kadi Sukumar movie update
-
-*2024-12-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/202223) · `ta`
-
-"Vijay Velupper: Kadi Sukumar stars in director Porur D.M.'s comedy film. Fazil composes music for Baummal Creations. Post-production underway. Second look released. Social devotional film set in Dindigul Murugan Temple."
-
-🟩
-
-The second appearance of the film 'Vijay Velupper' has been released as a comedian, character actor and director.
-
-Director Porur D. M.. In the upcoming film 'Vijay Velappar' in the Ezumalai movement. The film crew has not made an official announcement of actors and actresses.
-
-Jayakumar Thangavel. Fazil is composed by. The film is being produced by Baummal Creations.
-
-The shooting of the film is completed and the post -shooting technical work is underway. In this case, the film crew has released the second view of the film.
-
-Meanwhile, the film crew has said that the film has emerged as a social devotional film, focusing on the emotional issues of the Murugan Temple in the Tamil Nadu city of Dindigul.
-
-◼️
-
-[Data](articles/45bc5adb.json)
-
-[Extended Data](ext_articles/45bc5adb.ext.json)
 
 ---

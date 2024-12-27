@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 09:02:45**
+As of **2024-12-27 09:15:38**
 
 ## Newspaper Stats
 
-*Scraped **62,231** Articles*
+*Scraped **62,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,317
 dailymirrorlk | 4,733
 adalk | 5,944
 adaderanalk | 7,594
-tamilmirrorlk | 8,927
+tamilmirrorlk | 8,928
 virakesarilk | 10,301
 adaderanasinhalalk | 10,749
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,724 (99.2%) of 62,231 articles have been extended.
+61,724 (99.2%) of 62,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### பிரபல நடிகை நளினி இலங்கையில்...
+
+*2024-12-27 09:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகை-நளினி-இலங்கையில்/54-349368) · `ta`
+
+பிரபல தென்னிந்திய நடிகையான நளினி இலங்கை வந்துள்ளார். இவர் ஸ்ரீலங்கன் விமான சேவையூடாக இலங்கை வந்துள்ளார்.
+
+◼️
+
+[Data](articles/c3e49270.json)
+
+---
 
 ### மன்மோகன் சிங் மறைவு: நாளை இறுதி கிரியை
 
@@ -2391,19 +2403,5 @@ The train is the engine of the train to the train in the tsunami tragedy.
 ...
 
 [Data](articles/967f4e82.json)
-
----
-
-### සුනාමි ව්‍යසනයට අදට වසර 20යි
-
-*2024-12-26 12:33:21* · [`adalk`](https://www.ada.lk/breaking_news/සුනාමි-ව්‍යසනයට-අදට-වසර-20යි/11-413850) · `si`
-
-මෙම ව්‍යයසනය හේතුවෙන් මෙරට පද්ගලයන් 35,000ට අධික පිරිසක් බිලි විය.
-
-වසර 20ක් සපිරෙන අද දිනයේදී ජීවිතක්ෂයට පත් වූ සියලු දෙනා සිහි කරමින් පෙරවරුවේ විනාඩි 2ක නිශ්ෂබ්දතාවයක් පැවැත්වීමට කටයුතු කළේය.
-
-◼️
-
-[Data](articles/1b65ec32.json)
 
 ---

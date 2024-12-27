@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 21:03:19**
+As of **2024-12-27 21:13:01**
 
 ## Newspaper Stats
 
-*Scraped **62,330** Articles*
+*Scraped **62,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,778
 economynextcom | 3,796
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,954
+adalk | 5,955
 adaderanalk | 7,607
 tamilmirrorlk | 8,941
 virakesarilk | 10,330
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,762 (99.1%) of 62,330 articles have been extended.
+61,762 (99.1%) of 62,331 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -153,6 +153,22 @@ The stone scopolite Gates is known during research as the solar system as Scopol
 [Data](articles/b454e263.json)
 
 [Extended Data](ext_articles/b454e263.ext.json)
+
+---
+
+### ඉදිරි වසර දෙකේදි පුනර්ජනනීය බලශක්තියෙන් මෙගා වොට් 500ක්
+
+*2024-12-27 19:15:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-දෙකේදි-පුනර්ජනනීය-බලශක්තියෙන්-මෙගා-වොට්-500ක්/11-413875) · `si`
+
+“කලාපයේ අධිකම බලශක්ති පිරිවැය දරන රටක් හැටියට අපි ඉන්නේ, ඒ තත්වය වෙනස් කරලා දරාගත හැකි සාධාරණ මිලකට බලශක්තිය ලබාදීම නව රජයේ අරමුණයි. රට සංවර්ධනය කරන්න නම් ඒ දේ කරන්නම ඕනේ. විශේෂයෙන් පුනර්ජනනීය බලශක්තිය කෙරෙහි අපි විශාල බලාපොරොත්තුවක් තබා තියෙනවා.
+
+බලශක්ති උත්පාදනයට ආයෝජනය කරන්න පුද්ගලික අංශයේ අයට ඇති තරම් ඉඩකඩ ලබාදෙනවා. රජයටත් ආයෝජකයින්ටත් සාධාරණයක් ඉටුවන දෙපාර්ශවයටම ජය ලැබෙන ක්‍රමවේදය අනුගමනය කරන්න අපි කටයුතු කරනවා. අයෝජකයාගෙත් වටිනාකම් හා අපේක්ෂාවන් තේරුම් අරගත්ත රජයක් හැටියට අපි ඔවුන්ගේ ගැටළු වලට කඩිනම් විසදුම් ලබාදීලා  රටේ බලශක්ති ඉලක්ක ජයගන්න ක්‍රියාකරනවා“ යැයි අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පැවසීය.
+
+අමාත්‍යවරයා එම අදහස් පළකලේ බලශක්ති අමාත්‍යංශයේ පැවති ශ්‍රී ලංකා සුනිත්‍ය බලශක්ති අධිකාරිය යටතේ ක්‍රියාත්මක කරන මධ්‍යම හා විශාල පරිමාණ පුනර්ජනනීය බලශක්ති ව්‍යාපෘති වල ප්‍රගතිය සහ ඊට අදාළ ගැටළු සාකච්ඡා කිරීමේ හමුව සදහා පැමිණ සිටි අදාළ ආයෝජකයන් හා කළ සාකච්ඡාවේදීය.
+
+...
+
+[Data](articles/9eab6ce0.json)
 
 ---
 
@@ -2223,17 +2239,5 @@ Having macroeconomic and financial system stability being restored, the focus sh
 ...
 
 [Data](articles/6edd85af.json)
-
----
-
-### Sri Lanka hosts key stakeholders’ meeting to strengthen Fairtrade Network and promote sustainable exports
-
-*2024-12-27 06:13:08* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-key-stakeholders-meeting-to-strengthen-Fairtrade-Network-and-promote-sustainable-exports/34-771049) · `en`
-
-In a significant development for Sri Lanka’s Fairtrade sector, a stakeholders’ meeting was recently held in Colombo in December 2024, organised by the Export Development Board (EDB) and the Fairtrade Network of Asia Pacific Producers (NAPP), Sri Lanka. The meeting aimed to discuss the main projects currently executing, future of Fairtrade in Sri Lanka, issues pertaining to the sector and its expanding international presence.
-
-...
-
-[Data](articles/11d77cc4.json)
 
 ---

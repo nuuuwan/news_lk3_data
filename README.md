@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 00:02:58**
+As of **2024-12-28 00:16:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,770 (99.1%) of 62,335 articles have been extended.
+61,771 (99.1%) of 62,335 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ Accordingly, the department further stated that entry and exit to Galle Fort fro
 ◼️
 
 [Data](articles/a6592290.json)
+
+[Extended Data](ext_articles/a6592290.ext.json)
 
 ---
 

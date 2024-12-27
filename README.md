@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 23:12:47**
+As of **2024-12-27 23:27:26**
 
 ## Newspaper Stats
 
-*Scraped **62,331** Articles*
+*Scraped **62,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,955
 adaderanalk | 7,607
-tamilmirrorlk | 8,941
+tamilmirrorlk | 8,942
 virakesarilk | 10,330
 adaderanasinhalalk | 10,766
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,767 (99.1%) of 62,331 articles have been extended.
+61,768 (99.1%) of 62,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### சூரியனுக்கு மிக அருகில் சென்று சாதனை
+
+*2024-12-27 23:01:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/சூரியனுக்கு-மிக-அருகில்-சென்று-சாதனை/57-349388) · `ta`
+
+'பாக்கர் சோலர்' என பெயரிடப்பட்ட இந்த விண்கலத்தின் பயணத்தின் மூலம் எதிர்காலத்தில், சூரியனின் மேற்பரப்பிலிருந்து 38 லட்சம் மைல்களுக்கு அப்பால் இருந்து பாதுகாப்பாக பரிசோதனைகளை மேற்கொள்ள முடியும்.
+
+தற்போது விண்கலம் பூமியிலிருந்து 9 கோடியே 30 இலட்சம் மைல்களுக்கு அப்பால் உள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/0777cde8.json)
+
+---
 
 ### A couple of rupees for a couple of rupees
 
@@ -469,6 +483,8 @@ Wickramasinghe urged the workers to act responsibly so that ‘the dignity of th
 ...
 
 [Data](articles/e14e589d.json)
+
+[Extended Data](ext_articles/e14e589d.ext.json)
 
 ---
 
@@ -2265,19 +2281,5 @@ As presidential candidate Anura emphasised improvement of human resources, upgra
 ◼️
 
 [Data](articles/cf7a43b7.json)
-
----
-
-### Recap of 2024 on economic perspective
-
-*2024-12-27 06:18:38* · [`dailyftlk`](https://www.ft.lk/columns/Recap-of-2024-on-economic-perspective/4-771050) · `en`
-
-Having macroeconomic and financial system stability being restored, the focus should shift towards enhancing growth prospects that are both inclusive and sustainable
-
-2024 is a year to be remembered in Sri Lanka’s economic journey since many challenges faced by the country have significantly eased. Sri Lanka is returning to normal after recurring economic shocks since 2019, including the Easter Sunday attack, the pandemic, and the economic crisis. The global economy also exhibited economic resilience amidst multiple challenges, with a soft landing compared to what was feared. Meanwhile, geopolitical conditions became unfavourable. Let’s dive deeper into these.
-
-...
-
-[Data](articles/6edd85af.json)
 
 ---

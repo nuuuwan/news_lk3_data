@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 03:27:22**
+As of **2024-12-28 03:43:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,780 (99.1%) of 62,359 articles have been extended.
+61,781 (99.1%) of 62,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -209,6 +209,8 @@ A Condolence Book will be kept open at the High Commission of India located at 3
 ◼️
 
 [Data](articles/f2a09b3e.json)
+
+[Extended Data](ext_articles/f2a09b3e.ext.json)
 
 ---
 

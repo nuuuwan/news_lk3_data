@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 23:27:26**
+As of **2024-12-27 23:43:55**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,766
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,768 (99.1%) of 62,332 articles have been extended.
+61,769 (99.1%) of 62,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### சூரியனுக்கு மிக அருகில் சென்று சாதனை
+### The achievement of the sun is very close to
 
 *2024-12-27 23:01:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/சூரியனுக்கு-மிக-அருகில்-சென்று-சாதனை/57-349388) · `ta`
 
-'பாக்கர் சோலர்' என பெயரிடப்பட்ட இந்த விண்கலத்தின் பயணத்தின் மூலம் எதிர்காலத்தில், சூரியனின் மேற்பரப்பிலிருந்து 38 லட்சம் மைல்களுக்கு அப்பால் இருந்து பாதுகாப்பாக பரிசோதனைகளை மேற்கொள்ள முடியும்.
+Here's a summary in 200 characters:
 
-தற்போது விண்கலம் பூமியிலிருந்து 9 கோடியே 30 இலட்சம் மைல்களுக்கு அப்பால் உள்ளமை குறிப்பிடத்தக்கது. R
+
+
+"Packer Solar" spacecraft approaches Sun, 380,000 miles away. Currently 93 million miles from Earth.
+
+🟩
+
+The journey of the spacecraft, dubbed 'Packer Solar', can be safely tested safely from the sun's surface 38 lakh miles.
+
+It is noteworthy that the spacecraft is currently 9 crore 30 lakh miles from Earth. Remble
 
 ◼️
 
 [Data](articles/0777cde8.json)
+
+[Extended Data](ext_articles/0777cde8.ext.json)
 
 ---
 

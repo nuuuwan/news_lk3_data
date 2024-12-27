@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 10:15:44**
+As of **2024-12-27 10:28:14**
 
 ## Newspaper Stats
 
-*Scraped **62,243** Articles*
+*Scraped **62,247** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 457
+dbsjeyarajcom | 458
 colombotelegraphcom | 629
 bbccomsinhala | 657
 islandlk | 3,775
@@ -18,37 +18,95 @@ dailyftlk | 4,317
 dailymirrorlk | 4,733
 adalk | 5,945
 adaderanalk | 7,597
-tamilmirrorlk | 8,929
-virakesarilk | 10,306
+tamilmirrorlk | 8,931
+virakesarilk | 10,307
 adaderanasinhalalk | 10,750
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,727 (99.2%) of 62,243 articles have been extended.
+61,728 (99.2%) of 62,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### யாழில் காய்ச்சலினால் குழந்தை,  குடும்பஸ்தர் உயிரிழப்பு
+### சிவனொளி பாதமலை யாத்திரர்களின் கவனத்துக்கு
+
+*2024-12-27 10:20:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிவனொளி-பாதமலை-யாத்திரர்களின்-கவனத்துக்கு/76-349373) · `ta`
+
+சிவனொளி பாதமலை பருவ காலத்தில் மது மற்றும் போதை பொருள் பாவித்து வருபவர்கள் மற்றும் அதனை சூசகமாக கொண்டு வருபவர்கள் மீது சட்ட நடவடிக்கை எடுக்க உள்ளதாகவும், மீறி போதைப் பொருள் மற்றும் மதுபானம் கொண்டு வருபவர்கள் கைது செய்யப்பட்டு விசாரணையின் பின்னர் நீதிமன்றத்தில் ஆஜர் படுத்தபடுவார்கள் என்று ஹட்டன் வலய போதைப் பொருள் பிரிவின் பொலிஸ் அதிகாரி தெரிவித்தார்.
+
+அதன்படி மதுபானங்கள், புகையிலை அடங்கிய போதைப் பொருள்,  போதைப் பொருட்கள் தமது பொதிகளில் வைத்து இருப்பது,வர்த்தக நிலையங்களில் வைத்து இருப்பது மற்றும் விற்பனை செய்வது  முற்றிலும் சட்ட விரோதமானது.
+
+அதையும் மீறி இவ்வாறு போதைப் பொருட்களை வைத்து இருப்பவர்கள் கைது செய்யப்பட்டு சட்டத்தின் முன் நிறுத்த உள்ளதாக அந்த அதிகாரி தெரிவித்தார்.
+
+அத்துடன் சிவனொளி பாதமலை உச்சியில் உள்ள ஆலயம், தங்குமிடம் மடங்கள், அடிவாரம் முதல் மலை உச்சி வரை உள்ள சகல வர்த்தக நிலையங்களில் சட்டவிரோதமான பொருட்கள் விற்பனை செய்வதை தடுப்பதற்காக விசேட போதை பொருள், தடுப்பு அதிகாரிகள் கண்காணிப்பில் ஈடுபடுத்தி உள்ளதாக இரத்தினபுரி மாவட்ட செயலாளர் தெரிவித்தார்.
+
+...
+
+[Data](articles/cb0fdd25.json)
+
+---
+
+### கோட்டை - பதுளை விசேட ரயில் சேவைகள் ஆரம்பம் !
+
+*2024-12-27 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202254) · `ta`
+
+கோட்டை - பதுளை மற்றும் பதுளை - கோட்டைக்கு இடையில் இன்று வெள்ளிக்கிழமை (27), நாளை சனிக்கிழமை (28) மற்றும் நாளை மறுநாள் ஞாயிற்றுக்கிழமை (29) ஆகிய தினங்களில் விசேட ரயில் சேவைகளை வழங்க ரயில்வே திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+
+கொழும்பு கோட்டை ரயில் நிலையத்தில் இருந்து இன்று இரவு 7.30 மற்றும் நாளை காலை 7.45 மணிக்கும், பதுளை ரயில் நிலையத்தில் இருந்து நாளை காலை 7.05 மணிக்கும், கோட்டை ரயில் நிலையத்தில் இருந்து 7.30 மணிக்கும் விசேட ரயில் சேவைகள் வழங்கப்படவுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை அலுவலகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e412e6a1.json)
+
+---
+
+### பஸ்ஸின் முன்சில்லு கழன்று விபத்து
+
+*2024-12-27 10:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பஸ்ஸின்-முன்சில்லு-கழன்று-விபத்து/71-349371) · `ta`
+
+பஸ்ஸின் முன்சில்லு கழன்று ஓடியதால், அருகில் சென்ற பட்டாரக வாகனம் விபத்துக்குள்ளான சம்பவமொன்று, யாழ்ப்பாணத்தில் இடம்பெற்றுள்ளது.
+
+யாழ்ப்பாணத்திலிருந்து கண்டி நோக்கி, இன்று (27) காலை சென்ற இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ்ஸே, இவ்வாறு இயக்கச்சி இராணுவ முகாம் முன்பாக விபத்துக்குள்ளாகியது.
+
+பஸ்ஸின் சாரதி பக்க சில்லின் அச்சு உடைந்து, சில்லு தீப்பிடிச்சு சென்றதில், அருகில் பயணித்த பட்டா வாகனத்தின் மீது பஸ்ஸின் சில்லு மோத, பட்டா சாரதி நிலைகுலைந்து, பட்டாவும் விபத்துக்குள்ளாகியது.
+
+◼️
+
+[Data](articles/753e0938.json)
+
+---
+
+### Child and family death in Jaffna
 
 *2024-12-27 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202257) · `ta`
 
-யாழ்ப்பாணத்தில் காய்ச்சலினால் பீடிக்கப்பட்டு மூன்று மாத குழந்தை ஒன்றும், குடும்பஸ்தர் ஒருவரும் உயிரிழந்துள்ளனர்.
+Two deaths in Jaffna: infant succumbed to heart failure after fever, cough; family member dies of untreated four-day fever.
 
-யாழ்ப்பாணத்தில் பிறந்து மூன்று மாதங்களே நிரம்பிய ஆண் குழந்தை ஒன்று வியாழக்கிழமை (26) பரிதாபமாக உயிரிழந்துள்ளது. பன்னாலை, தெல்லிப்பழை பகுதியைச் சேர்ந்த  குழந்தையே இவ்வாறு உயிரிழந்துள்ளது.
+🟩
 
-குறித்த குழந்தைக்கு கடந்த 24 ஆம் திகதி காய்ச்சல், இருமல், சளி ஏற்பட்டது. அதற்கு சிகிச்சை பெறுபவதற்காக பெற்றோர் குழந்தையை தெல்லிப்பழை வைத்தியசாலைக்கு கொண்டு சென்றனர். இந்நிலையில் குழந்தைகளுக்கு சுவாசப் பிரச்சினை ஏற்பட்டவேளை மேலதிக சிகிச்சைக்காக குழந்தை 25 ஆம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டது. இருப்பினும் சிகிச்சை பலனின்றி நேற்று மாலை உயிரிழந்தது.
+In Jaffna, a three -month -old baby and a family member have died.
 
-குழந்தையின் சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார். இருதய செயலிழப்பு காரணமாக குழந்தை உயிரிழந்ததாக அறிக்கையிடப்பட்டுள்ளது.
+A baby boy who was born in Jaffna for three months died on Thursday (26). The child from the Pannalai and Tellippalai area died.
 
-இதேவேளை, நான்கு நாள் காய்ச்சலினால் பீடிக்கப்பட்டிருந்த இளம் குடும்பஸ்தர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+The baby had fever, cough and colds on the 24th. Parents took the baby to the Tellippalai Hospital for treatment. In this case, the child was taken to the Jaffna Teaching Hospital on the 25th for further treatment.. However, it died yesterday evening without treatment.
+
+A sudden death investigator, A. Jayapalasingham. It has been reported that the child died of heart failure.
+
+Meanwhile, a young family member who was suffering from a four -day fever has died without treatment.
+
+Navaratnam Dhanusan (age 34), father of two children from Kaithadi West in Jaffna, died.
+
+He was admitted to the Jaffna Bodhana Hospital for treatment on the 24th following the fever on the 23rd, and he died on Thursday afternoon.
 
 ...
 
 [Data](articles/da860e22.json)
+
+[Extended Data](ext_articles/da860e22.ext.json)
 
 ---
 
@@ -811,6 +869,20 @@ The Kithusara Movement this week held a protest against alleged Holocaust of Pal
 ...
 
 [Data](articles/83f86d4b.json)
+
+---
+
+### Is “ the Writing on the Wall” for  the Thirteenth  Constitutional Amendment?
+
+*2024-12-27 00:29:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85250) · `en`
+
+“ The  Writing on the Wall’is a figurative expression derived from the story of Daniel in the old testament of the Bible. Chapter five of the book of Daniel relates how the then monarch of the Babylonian empire  Belshazzar and his cronies were feasting and drinking in the night when a hand appeared miraculously and wrote some letters on the wall.
+
+The terrified King and his acolytes were unable to read and understand what had been written. He sent  for Daniel renowned for his knowledge and wisdom. Daniel informed   Belshazzar that God has numbered the king’s days and that his kingdom would be given away. Daniel’s interpretation of the writing on the wall comes true.  Belshazzar is killed that night and his kingdom is taken over by Darius.
+
+...
+
+[Data](articles/a69a7065.json)
 
 ---
 
@@ -2267,115 +2339,5 @@ Congratulations to the industrial and Sri Lankan tourists who contributed to the
 [Data](articles/678d9cb7.json)
 
 [Extended Data](ext_articles/678d9cb7.ext.json)
-
----
-
-### Body found inside burned vehicle in Habarana
-
-*2024-12-26 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104508/body-found-inside-burned-vehicle-in-habarana) · `en`
-
-A body has been discovered inside a double cab that was on fire in the Habarana area.
-
-The vehicle had caught fire last night (25) in the 13th Mile Post area on Minneriya Road in Habarana, and the Polonnaruwa Fire Brigade had later extinguished the flames
-
-Upon further investigation, police had discovered a body inside the vehicle.
-
-It is suspected that the deceased is the owner of the vehicle, while the body was found in the back seat.
-
-The owner of the vehicle is a resident of the Dekatana area, and the Minneriya Police have launched an investigation to determine whether the incident was a homicide or suicide.
-
-Meanwhile, in a separate incident, a 50-year-old man was reportedly stabbed to death with a sharp weapon in the Wadulla Waththa area of Grandpass.
-
-Police stated that the murder was carried out as a result of a dispute with a local resident.
-
-The suspect has fled the scene, and the Grandpass Police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/1a569353.json)
-
-[Extended Data](ext_articles/1a569353.ext.json)
-
----
-
-### Bumrah's fast -paced or confrontation of Kohli's younger player, Konsta;Australia towards good condition
-
-*2024-12-26 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202198) · `ta`
-
-Sam Konstas debuts with half-century against India, facing Jasprit Bumrah's pace and Virat Kohli's challenge. Australia scores 311/6 on Day 1, with Konstas' impressive performance standing out.
-
-🟩
-
-19 -year -old Sam Konstas, who made his debut in the Melbourne Cricket Stadium against India today, has made a new star in the Australian team with a half -century.
-
-India's experienced Jasprit Bumrah's monster fast bowling or Virat Kohli's confrontation was unable to make him unable to die.
-
-At the end of today's first day's play, Australia lost 6 wickets in its first innings and scored 311 runs as a result of the half -centuries of the four -pronged players, including Konstas.
-
-In a Test match between the two strong teams, a 19 -year -old young player could not expect Jasprit Bumrah's bowling at this age.
-
-Australia's fourth youngest player Sam Konstas, who debuted in Test cricket. Konstas, who scored the third fastest half -century on behalf of Australia as an debutant, is the one who has amassed the fastest half -century as the opening batsman.
-
-...
-
-[Data](articles/0b13f198.json)
-
-[Extended Data](ext_articles/0b13f198.ext.json)
-
----
-
-### Suspect arrested for domestic gun
-
-*2024-12-26 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/202195) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrest made: Suspect caught with homemade firearm during police raid in Mankulam. Further investigation ongoing.
-
-🟩
-
-The suspect was arrested with a locally manufactured gun during a raid carried out by police officers on Wednesday (25).
-
-Mankulam police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/14fade66.json)
-
-[Extended Data](ext_articles/14fade66.ext.json)
-
----
-
-### Coly four rounded to Colify over the limit
-
-*2024-12-26 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204743) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Indian cricketer Coley fined for collision in Melbourne test. ICC imposes penalty after Australian opener injured. Former coach Ravi Shastri defends Coley. Ricky Ponting criticizes experienced player's actions.
-
-🟩
-
-The International Cricket Council has taken steps to impose a fine against Indian players' Virith Koroli regarding the fourth Test match in Melbour, between Australia and India.
-
-The SLC authorities have reportedly to add 20% of the punishment marks of the Australian opener who collided with him in the shoulder of the Australian opener.
-
-The videos shown in the first day of the match are now circulated in the social media.
-
-Contazz was able to collect 60 runs in the Wednes of Mangala Test.
-
-Commenting on the incident, Ravi Shastri, a former Indian cricket leader, has said that Coley has been conducted.
-
-Meanwhile, former Australian leader Ricky Ponting also spoke that Experienced player Cole created that conflict.
-
-◼️
-
-[Data](articles/5c6faeb8.json)
-
-[Extended Data](ext_articles/5c6faeb8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 20:14:12**
+As of **2024-12-27 20:43:26**
 
 ## Newspaper Stats
 
-*Scraped **62,326** Articles*
+*Scraped **62,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,103 @@ newsfirstlk | 363
 dbsjeyarajcom | 458
 colombotelegraphcom | 629
 bbccomsinhala | 657
-islandlk | 3,777
+islandlk | 3,778
 economynextcom | 3,796
 dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,954
 adaderanalk | 7,607
-tamilmirrorlk | 8,940
+tamilmirrorlk | 8,941
 virakesarilk | 10,330
-adaderanasinhalalk | 10,764
+adaderanasinhalalk | 10,766
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,758 (99.1%) of 62,326 articles have been extended.
+61,760 (99.1%) of 62,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### A couple of rupees for a couple of rupees
+
+*2024-12-27 20:14:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-150-கோடி-ரூபாயை-மோசடி-செய்த-தம்பதிக்கு-விளக்கமறியல்/175-349386) · `ta`
+
+Sri Lankan couple arrested at airport for alleged fraud. They defrauded Rs 160 crore from a private firm. Director fled to India in 2021. Arrested in India, deported back. Company unregistered with central bank. Targeted Muslims in eastern districts. Remanded until January 6.
+
+🟩
+
+A couple arrested at Katunayake Bandaranaike International Airport yesterday (26) have been remanded until January 6.
+
+The Financial Criminal Investigation Unit of the Criminal Investigation Department has received several complaints that the Financial Institute of Private Global Private Limited has defrauded Rs 160 crore.
+
+It was revealed that its director, with his wife and child, had illegally fled to India by boat in 2021.
+
+A red warning was later issued against the suspects through the International Police and during the investigation, it was revealed that the suspect had been arrested by the security forces when he landed with his family in the Vedanayagam area of ​​India.
+
+They were detained in the country for about three years and were deported to Sri Lanka yesterday (26).
+
+The owner of the company and his 14 -year -old son were arrested at the Katunayake airport by the Criminal Investigation Department officials.
+
+...
+
+[Data](articles/d296313b.json)
+
+[Extended Data](ext_articles/d296313b.ext.json)
+
+---
+
+### දැයෙන් සමුගත් සොඳුරු කලාකරුවාණෙනි ඔබට නිවන් සුව !
+
+*2024-12-27 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204780) · `si`
+
+සිය අනන්‍ය හඬ පෞරුෂයෙන් ශ්‍රී ලාංකීය රසික හදවත් අමන්දානන්දයට පත්කළ අග්‍රගණ්‍ය ගායන ශිල්පි ප්‍රියා සූරියසේන මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (27) පස්වරුවේ සිදුකෙරුණි.
+
+සිය අනන්‍ය හඬ පෞරුෂයෙන් මෙරට ගායන ක්ෂේත්‍රයේ අගග්‍රණ්‍ය සලකුණක් තැබූ ප්‍රවීණ ගායන ශිල්පී ප්‍රියා සූරියසේන මහතා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටියදී පසුගිය 24 වැනිදා අභාවප්‍රාප්ත වුණි.
+
+බොරැල්ල ජයරත්න රෙස්පෙක්ට් ශාලාවේ ඊයේ (26) පස්වරුවේ සිට තැන්පත් කර තිබුණු ප්‍රියා සූරියසේන මහතාගේ දේහයට ආගමික නියෝජිතයින්, කලාකරුවන්, දේශපාලන නියෝජිතයින් ඇතුළු රසිකයින් බොහෝ පිරිසක් පැමිණ අවසන් බුහුමන් පුදකළේය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රියා සූරියසේන කලාකරුවාට අවසන් ගෞරවය පුදකළේ අද පෙරවරුවේය.
+
+සර්වජන බලයේ නායක පාර්ලිමේන්තු මන්ත්‍රි දිලිත් ජයවීර මහතාද දේහයට අවසන් ගෞරව දැක්වුයේය.
+
+ප්‍රියා සූරියසේන මහතාගේ දේහය අද පස්වරු 3.30ට පමණ අවසන් කටයුතු සිදුකෙරෙන බොරැල්ල පොදු සුසාන භූමියට රැගෙන ආවේය.
+
+අවමංගල සභාවේ කටයුතු අවසන්වීමෙන් අනතුරුව ප්‍රියා සූරියසේන මහතාගේ දේහය ආදාහනය කෙරුණි.
+
+...
+
+[Data](articles/8b3d3e75.json)
+
+---
+
+### මවගේ අනියම් පෙමට ජීවිතයෙන් වන්දි ගෙවූ දියණිය
+
+*2024-12-27 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204779) · `si`
+
+සිය මවගේ අනියම් සබඳතාවක ප්‍රතිඵලයක් ලෙස 13 හැවිරිදි දැරියකට දිවි අහිමිවීමේ පුවතක් පිළියන්දල ප්‍රදේශයෙන් වාර්තා වේ.
+
+දැරිය මියගොස් ඇත්තේ සිය මව සහ අනියම් පෙම්වතා අතර ඇතිවූ බහින්බස්වීමකට මැදිහත් වී පිහි ප්‍රහාරයකට ලක්වීමෙන්ය.
+
+ඊයේ (26) දහවල් 1ට පමණ සිදු වූ මෙම අවාසනාවන්ත සිදුවීමෙන් මියගොස් ඇත්තේ පිළියන්දළ බෝකුන්දර දෙමහල් නිවසක උඩු මහලෙහි කුලී පදනම මත පදිංචිව සිටි දැරියන් දෙදෙනෙකුගෙන් යුත් පවුලක බාලයා වූ බී.එම්. ඔෂාදී කෞශල්‍යා නමැති දැරියයි.
+
+ඇය පිළියන්දල ආනන්ද සමරකෝන් විද්‍යාලයේ 8වන ශ්‍රේණියේ ඉගෙනුම ලැබූ දැරියකි.
+
+ඔෂාදී එදින සිය මව සහ 15 හැවිරිදි වැඩිමහල් සහෝදරිය සමග නිවසෙහි සිට ඇති අතර එම අවස්ථාවේ මව සමීප ඇසුරක් පවත්වන පුද්ගලයෙකු නිවසට පැමිණ තිබේ.
+
+එම පුද්ගලයා අදාළ කාන්තාව සේවය කරන ආයතනයේම සේවය කරන අයෙකු බව පොලීසිය පැවසීය.
+
+එලෙස පැමිණි පුද්ගලයා නිවසේ සිටි කාන්තාවට වෙනත් පුද්ගලයෙකු සමගද සමීප ඇසුරක් පවත්වන බවට චෝදනා කර ඇති අතර එහිදී දෙදෙනා අතර බහින්බස්වීමක් සිදුව ඇත.
+
+පසුව අදාළ පුද්ගලයා කාන්තාවට පිහි පහර කිහිපයක් එල්ල කර ඇති අතර මවට පිහිපහර එල්ලවෙද්දී දියණියන් දෙදෙනා එය වැළැක්වීමට මැදිහත්ව තිබේ.
+
+...
+
+[Data](articles/bf62367f.json)
+
+---
 
 ### Sri Lanka is the most rare gemstone in the world ...
 
@@ -119,6 +197,8 @@ The president, whose post has been largely ceremonial in the post-war era, also 
 ...
 
 [Data](articles/72fbae3c.json)
+
+[Extended Data](ext_articles/72fbae3c.ext.json)
 
 ---
 
@@ -210,7 +290,9 @@ Former President Mahinda Rajapakse promised to the international community that 
 
 විමර්ශනවලදී අනාවරණ වී තිබුණේ එහි අධ්‍යක්ෂවරයා බිරිය හා දරුවා සමග නීතිවිරෝධී අයුරින් බෝට්ටුවක් මඟින් 2021 වසරේදී ඉන්දියාවට පළා ගොස් ඇති බවය.
 
-◼️
+අනතුරුව සැකකරුවන්ට එරෙහිව ජාත්‍යන්තර පොලීසිය හරහා රතු නිවේදන නිකුත් කළ අතර එහිදී සිදුකළ සොයාබැලීමේදී අනාවරණ වී ඇත්තේ, සැකකරු සිය පවුලද සමග ඉන්දියාවේ වේදනායගම් ප්‍රදේශයට ගොඩබැසීමේදී එරට ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන ඇති බවය.
+
+...
 
 [Data](articles/b72d81b3.json)
 
@@ -2127,53 +2209,5 @@ In a significant development for Sri Lanka’s Fairtrade sector, a stakeholders�
 ...
 
 [Data](articles/11d77cc4.json)
-
----
-
-### AIBS affirms leadership in delivery of internationally accredited  STEM programs in Sri Lanka
-
-*2024-12-27 06:11:28* · [`dailyftlk`](https://www.ft.lk/business/AIBS-affirms-leadership-in-delivery-of-internationally-accredited-STEM-programs-in-Sri-Lanka/34-771048) · `en`
-
-Sealing a partnership of three years – AIBS Chairperson Rohini Nanayakkara, and Founder and Managing Director Hiran de Silva with Edge Hill University, United Kingdom Pro-Vice Chancellor Prof. George Talbot
-
-Prof. George Talbot speaks on the importance of apt knowledge tools for young people
-
-AIBS Founder and Managing Director Hiran de Silva retells AIBS journey from its beginnings in 2018
-
-The Asian Institute of Business and Science (AIBS) founded in 2018 recently held a celebratory event marking its journey of six years – from humble beginnings to an entity that continues to raise the bar in imparting higher education excellence.
-
-Firmly embedded into the realm of world class transnational education with the affiliation etched with Edge Hill University, UK in 2022, AIBS currently offers 21 study courses and programs across 14 awarding bodies, universities and higher education institutions to 600 plus learners.
-
-...
-
-[Data](articles/1484892d.json)
-
----
-
-### Singhagiri launches Candy  home appliances in Sri Lanka
-
-*2024-12-27 06:07:10* · [`dailyftlk`](https://www.ft.lk/business/Singhagiri-launches-Candy-home-appliances-in-Sri-Lanka/34-771047) · `en`
-
-Singhagiri Ltd., a trusted leader in Sri Lanka’s consumer electronics industry with over five decades of excellence, recently launched its partnership with Candy, a prestigious European home appliance brand with Italian roots.
-
-This significant event marked the official launch of Candy in Sri Lanka, a moment of pride as the country becomes the first in the Asia Pacific to unveil Candy’s new global logo. The portfolio of Candy products sold by Singhagiri includes a range of kitchen appliances, including cookers, hobs and ovens, as well as refrigerators and washing machines.
-
-...
-
-[Data](articles/a97dc661.json)
-
----
-
-### Singer Finance wins Gold at CA Sri Lanka TAGS Annual Report Awards 2024
-
-*2024-12-27 06:05:43* · [`dailyftlk`](https://www.ft.lk/business/Singer-Finance-wins-Gold-at-CA-Sri-Lanka-TAGS-Annual-Report-Awards-2024/34-771046) · `en`
-
-Singer Finance (Lanka) PLC has reaffirmed its position as a leader in the financial sector by winning the Gold award for Excellence in Annual Reporting at the CA Sri Lanka TAGS Annual Report Awards 2024. This recognition was in the category of Finance Companies with assets between Rs. 25 billion to Rs. 75 billion.
-
-In addition to this prestigious award, Singer Finance also received special recognition for its exceptional efforts in Sustainability Reporting, Corporate Governance, and Integrated Reporting. These achievements highlight the company’s dedication to maintaining high standards of transparency, responsibility, and good business practices.
-
-...
-
-[Data](articles/80ccd3e8.json)
 
 ---

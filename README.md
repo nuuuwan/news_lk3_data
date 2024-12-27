@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 14:43:28**
+As of **2024-12-27 15:01:54**
 
 ## Newspaper Stats
 
-*Scraped **62,281** Articles*
+*Scraped **62,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,949
 adaderanalk | 7,600
-tamilmirrorlk | 8,936
+tamilmirrorlk | 8,938
 virakesarilk | 10,316
 adaderanasinhalalk | 10,756
 
@@ -26,27 +26,75 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,741 (99.1%) of 62,281 articles have been extended.
+61,742 (99.1%) of 62,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### හිටපු ජනපති රනිල් මන්මෝහන් සිංට අවසන් ගෞරව දක්වයි
+### பறக்கும் விமானத்தில் உயிரிழந்த இலங்கைப் பெண்
+
+*2024-12-27 14:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறக்கும்-விமானத்தில்-உயிரிழந்த-இலங்கைப்-பெண்/175-349383) · `ta`
+
+பாரிஸ் நோக்கி பயணித்துக்கொண்டிருந்த கட்டார் எயார்வேஸ் விமான நிறுவனத்திற்கு சொந்தமான விமானத்தில் பயணித்த இலங்கைப் பெண்ணொருவர் திடீரென சுகவீனமடைந்த நிலையில் உயிரிழந்துள்ளார்.
+
+குறித்த பெண்ணுக்கு திடீர் உடல் நலக்குறைவு ஏற்பட்டதால், ஈராக்கில் உள்ள எர்பில் சர்வதேச விமான நிலையத்தில் விமானம் அவசரமாக தரையிறக்கப்பட்டது.
+
+முன் அறிவிப்புகளின்படி, மருத்துவக் குழுக்களும் விமான நிலையத்திற்கு வரவழைக்கப்பட்டன, ஆனால் அவர் ஏற்கனவே இறந்துவிட்டதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+எர்பிலில் உள்ள இலங்கை துணைத் தூதரகம் இது தொடர்பாக பிரான்ஸ் பிரஜையான அவரது மகனுக்குத் தெரிவிக்க ஏற்பாடு செய்துள்ளது.
+
+உடலை பிரான்ஸ்க்கு கொண்டு செல்ல தேவையான ஏற்பாடுகள் செய்யப்பட உள்ளதாக தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/02dbe2af.json)
+
+---
+
+### Ranil Manmohan Singh is the last respects to Singh
 
 *2024-12-27 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204770) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉන්දියාවේ හිටපු අග්‍රාමාත්‍ය මන් මෝහන් සිං මහතාගේ දේහයට අද (27) නව දිල්ලි අගනුවරදී අවසන් ගෞරව දැක්වීය.
+Here's a summary in 200 characters:
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී මන්මෝහන් සිං මහතාගේ බිරිය වන ගුර්ශරන් කෞර් කෝලි මහත්මියට ශෝකය පළ කළේය.
 
-එම අවස්ථාවේ නව දිල්ලියේ මන්මෝහන් සිං මහතාගේ නිවසට පැමිණ සිටි ඉන්දීය විපක්ෂ නායක රාහුල් ගාන්ධි මහතා සමඟ ද රනිල් වික්‍රමසිංහ මහතා කෙටි සාකච්ඡාවකට එක්විය.
 
-රනිල් වික්‍රමසිංහ මහතා මේ දිනවල ඉන්දීය සංචාරයක නිරතව සිටින අතර ඒ අතරතුර ඉන්දියාවේ හිටපු අග්‍රාමාත්‍යවරයාගේ දේහයට අවසන් ගෞරව දැක්වීමට මෙලෙස එක්ව තිබුණි.
+Ranil Wickremesinghe pays last respects to Manmohan Singh in New Delhi. Former PM's wife Gursharan Kaur attends. Rahul Gandhi also present. Wickremesinghe on tour, Indian PM's body at event.
+
+🟩
+
+Former President Ranil Wickremesinghe said the remains of former Prime Minister Man Singh today (27) at the New Delhi capital.
+
+Former President Ranil Wickremesinghe, the wife of Manmohan Singh, has condemned Mrs. Guerron Caley.
+
+Ranil Wickremesinghe was also present with Indian opposition leader Rahul Gandhi, who was present at the residence of Manmohan Singh, New Delhi.
+
+Ranil Wickremesinghe is on a tour of the country these days, while the Indian Prime Minister's body was present at the event.
 
 ◼️
 
 [Data](articles/2de8d546.json)
+
+[Extended Data](ext_articles/2de8d546.ext.json)
+
+---
+
+### விபத்தில் உயிரிழந்த பொலிஸ் பரிசோதகர்
+
+*2024-12-27 14:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-உயிரிழந்த-பொலிஸ்-பரிசோதகர்/175-349382) · `ta`
+
+ஹபரணை - திருகோணமலை வீதியின் கல் ஓயா சோதனைச் சாவடியில் நேற்றிரவு வாகன சோதனையில் ஈடுபட்டிருந்த பொலிஸ் பரிசோதகர் ஒருவர் விபத்தில் உயிரிழந்துள்ளார்.
+
+கட்டுப்பாட்டை இழந்த டிப்பர் வாகனம் பொலிஸ் பரிசோதகர், லொறி மற்றும் கார் மீது மோதியதால் இந்த விபத்து ஏற்பட்டுள்ளது.
+
+இவ்விபத்தில் பொலிஸ் பரிசோதகர் படுகாயமடைந்த நிலையில் ஹபரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்துள்ளார்.
+
+காரில் இருந்த ஒரு பெண் மற்றும் 4 மாத கைக்குழந்தை, மற்றுமொரு பொலிஸ் உத்தியோகத்தர் மற்றும் லொறியின் சாரதி ஆகியோர் ஹபரணை வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் தம்புள்ளை வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/63cc6359.json)
 
 ---
 
@@ -2157,69 +2205,5 @@ Relatives who visited the body said the body was in a state of rotting and some 
 [Data](articles/3ed97893.json)
 
 [Extended Data](ext_articles/3ed97893.ext.json)
-
----
-
-### Is Ajith Kumar's 'Diligence' release more late ...!?
-
-*2024-12-26 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202226) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ajith Kumar's 'Diligence' release date uncertain; 'Vida Tri' nearing completion; first song out Dec 27; background voice work done; Jan 10 release doubt; now rumored for Jan 26.
-
-🟩
-
-Ajit Kumar has completed his contribution to Ajith Kumar's upcoming film 'Vida Tri'.
-
-Ajith Kumar, Arjun, Trisha, Regina Kasandra, Arav, Nikhil Nair, Ramya Subramanian and many others have starred in the director and actor.
-
-Anirudh has composed the film, which has been recorded by Om Prakash and Neerav Shah.. The film is being produced as an exercise enterter and produced by producer Subhashkaran on behalf of Leica Productions.
-
-The first song will be released tomorrow (December 27), which will be released on the 10th of January next year.
-
-Ajit Kumar, who recently completed the shooting of the film, has also completed the work of giving the background voice for the film.. Following this, Ajit Kumar has completed his contribution to the film.
-
-The crew, which was delighted, has posted a special photo to thank him. This has given Ajith fans a new excitement.
-
-...
-
-[Data](articles/79a4c881.json)
-
-[Extended Data](ext_articles/79a4c881.ext.json)
-
----
-
-### Pa. Ranjith - Vijay Antony
-
-*2024-12-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/202224) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Jin" film: Pa. Ranjith directs, Vijay Antony stars. Malaysian setting, ghost pet theme. Cast includes Radha Ravi, Vivek-Mervin composes. Modern tech used. Release soon expected.
-
-🟩
-
-The film 'Jin' has been released as the hero of the story of 'Big Boss' and the film 'Wellan' and 'Velan' with Tamil fans.
-
-This is the leading star director of the Tamil film industry. Ranjith and leading composer and star actor Vijay Antony have posted their web page and congratulated the film crew.
-
-Director D. R. Mukhene Rao, Pavya Tarika, Bala Saravanan, Radha Ravi, Vadivakarasi, Shadows Ravi, Iman Annacci, Vinodini, Nandu Anand, George Vijay, Rithvik and many others have starred in the upcoming film 'Jin'.
-
-Vivek - Mervin has composed the film, which is being recorded by Arjun Raja. This movie is Fauridale Pictures & A. R. Producers Squirrels Kumar Reddy - Director D. R. Bala has co -produced.
-
-Commenting on the film, the director said, “The story of the film is set up as a story about Malaysia.
-
-The character of 'Jin' with commercial features in the film is created with modern technology helping everyone. Jin is a ghost pet. '' He said.
-
-...
-
-[Data](articles/41eee286.json)
-
-[Extended Data](ext_articles/41eee286.ext.json)
 
 ---

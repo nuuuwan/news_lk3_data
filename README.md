@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 16:15:13**
+As of **2024-12-27 16:27:20**
 
 ## Newspaper Stats
 
-*Scraped **62,286** Articles*
+*Scraped **62,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,951
-adaderanalk | 7,601
+adaderanalk | 7,602
 tamilmirrorlk | 8,938
 virakesarilk | 10,316
 adaderanasinhalalk | 10,756
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,747 (99.1%) of 62,286 articles have been extended.
+61,747 (99.1%) of 62,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### Former MP Lalith Ellawala quits politics
+
+*2024-12-27 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104523/former-mp-lalith-ellawala-quits-politics) · `en`
+
+Former Member of Parliament Lalith Ellawala today (27) announced his decision to retire from politics.
+
+He made this statement during a press conference held in Panadura, expressing his disappointment with the current state of the Samagi Jana Balawegaya (SJB).
+
+Former MP Ellawala said, “What we expected is not within the SJB. Even though it is called the ‘Samagi Jana Balawegaya’, there is no unity within it. It is a great dictatorial rule. Anyone who wants to work is not allowed to do so there.”
+
+He also pointed out that, in the near future, the SJB would find itself in a chaotic and deteriorating state.
+
+“Because of these reasons, I am resigning from all positions in the Samagi Jana Balawegaya, effective from today. I have decided to put an end to my political career from here on,” Ellawala said.
+
+◼️
+
+[Data](articles/d3f67e76.json)
+
+---
 
 ### Sri Lankan woman died on a flying plane
 
@@ -2203,29 +2223,5 @@ The Thald Padaya Chairman of the Palrith and Member of Parliament, Minister Rama
 ...
 
 [Data](articles/35c6e2f7.json)
-
----
-
-### Recovery as dead father, son, nephew in the sea
-
-*2024-12-26 17:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மாயமான-தந்தை-மகன்-மருமகன்-சடலங்களாக-மீட்பு/175-349344) · `ta`
-
-3 men drowned Sangamankandi Sea recovered bodies Vinayagapuram Mangamari beach police investigation
-
-🟩
-
-The bodies of the father, son and son -in -law who were drowned in the Sangamankandi Sea in the Tirukovil police division have been recovered at the Vinayagapuram Mangamari beach on Thursday evening (26), police said.
-
-Three people, including a father, son and his son -in -law, who were drowned in the Sangamankandi Sea in the Tirukovil police division, were missing at 5.30 pm on Wednesday (25) at 5.30 pm.
-
-The 38 -year -old Mayilvankanam Nandaraj, a 38 -year -old from Sangaman Kandy, and his 15 -year -old son, Dinujan and Nandaraj's sister, 17 -year -old Krishore, have gone missing.
-
-Is his son from Mayilvankanam Nandaraj from the area?The three -year -old son of the sister of the Nathar festival went to the sea on Wednesday evening (25). His son and son -in -law, who first landed in the sea, were dragged by a sea wave while swimming in the sea.The father has also jumped into the sea to save them.Initial investigations by the police revealed that the father was also missing the sea wave.
-
-◼️
-
-[Data](articles/6ce09272.json)
-
-[Extended Data](ext_articles/6ce09272.ext.json)
 
 ---

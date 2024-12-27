@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 09:27:47**
+As of **2024-12-27 09:43:44**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 10,749
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,724 (99.2%) of 62,232 articles have been extended.
+61,725 (99.2%) of 62,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### பிரபல நடிகை நளினி இலங்கையில்...
+### Famous actress Nalini in Sri Lanka ...
 
 *2024-12-27 09:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகை-நளினி-இலங்கையில்/54-349368) · `ta`
 
-பிரபல தென்னிந்திய நடிகையான நளினி இலங்கை வந்துள்ளார். இவர் ஸ்ரீலங்கன் விமான சேவையூடாக இலங்கை வந்துள்ளார்.
+South Indian actress Nalini arrives in Sri Lanka via SriLankan Airlines.
+
+🟩
+
+Famous South Indian actress Nalini has come to Sri Lanka. He has come to Sri Lanka through SriLankan Airlines.
 
 ◼️
 
 [Data](articles/c3e49270.json)
+
+[Extended Data](ext_articles/c3e49270.ext.json)
 
 ---
 

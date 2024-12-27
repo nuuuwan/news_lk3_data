@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 19:02:53**
+As of **2024-12-27 19:13:41**
 
 ## Newspaper Stats
 
-*Scraped **62,312** Articles*
+*Scraped **62,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ dbsjeyarajcom | 458
 colombotelegraphcom | 629
 bbccomsinhala | 657
 islandlk | 3,775
-economynextcom | 3,791
+economynextcom | 3,796
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,952
-adaderanalk | 7,605
+adalk | 5,953
+adaderanalk | 7,607
 tamilmirrorlk | 8,939
-virakesarilk | 10,328
+virakesarilk | 10,330
 adaderanasinhalalk | 10,764
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,755 (99.1%) of 62,312 articles have been extended.
+61,755 (99.1%) of 62,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### ஊடகவியலாளர் தமிழ்ச்செல்வனைக் கடத்த முற்பட்டமைக்கு கிளிநொச்சி மாவட்ட ஊடக அமையம் கண்டனம்
+
+*2024-12-27 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202330) · `ta`
+
+கிளிநொச்சியில் சுயாதீன  ஊடகவியலாளர் முருகையா தமிழ்ச்செல்வனை  இனந்தெரியாதோரால்  கடத்த முற்பட்டதையும்  தாக்கப்பட்டமையையும் கிளிநொச்சி ஊடக அமையம் வன்மையாக கண்டிக்கிறது.
+
+புதன்கிழமை (25) வாகனத்தில் வந்தோர் கடத்திச் செல்ல முற்பட்டுள்ளனர். இதனைத் தமிழ்ச்செல்வன் எதிர்த்துப் போராடியதை அடுத்து, கடத்தற்காரர்கள் அவரைத் தாக்கி, எச்சரித்துவிட்டுத் தப்பிச் சென்றுள்ளனர்.  இந்தச் சம்பவம் வியாழக்கிழமை (26.12.2024) மாலை 5.00 மணியளவில் கிளிநொச்சி ஏ9 வீதியில் நடந்துள்ளது.
+
+எமது ஊடக அமையத்தின் செயலாளரும் சுயாதீன ஊடகவியலாளருமான முருகையா தமிழ்ச்செல்வன், நேற்று மாலை தனது பணியை முடித்துக்கொண்டு வீடு திரும்பும் வழியில் வாகனத்தில் வந்தோர் அவரை இடைமறித்து தமது வாகனத்தில் பலவந்தமாக ஏற்ற முற்பட்டுள்ளனர். இதை எதிர்த்துத் தமிழ்ச்செல்வன்  போராடியபோது, கடத்தற்காரர்கள் தமிழ்ச்செல்வனைத் தாக்கி விட்டுத் தப்பிச் சென்றுள்ளனர்.
+
+இதனையடுத்து தமிழ்ச்செல்வன்  கிளிநொச்சி மாவட்ட மருத்துவ மனையில் சேர்க்கப்பட்டு சிகிச்சை பெற்று வருகிறார். இது தொடர்பான விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+...
+
+[Data](articles/32fdd9bc.json)
+
+---
+
+### S&P keeps Sri Lanka at selective default on unfinished SriLankan Airlines bond
+
+*2024-12-27 18:30:00* · [`economynextcom`](https://economynext.com/sp-keeps-sri-lanka-at-selective-default-on-unfinished-srilankan-airlines-bond-196583/) · `en`
+
+ECONOMYNEXT – Standard and Poor’s (S&P) said it was keeping Sri Lanka’s sovereign rating at selective default because a defaulted SriLankan Airlines bond has not yet been restructured, but has rated newly issued restructured bonds at CCC+.
+
+The 175 million dollar SriLankan Airlines bond is guaranteed by the government and remains in default.
+
+“We could raise our long-term foreign currency sovereign credit rating once Sri Lanka completes the restructuring of its remaining foreign currency-denominated commercial debt, including the government-guaranteed bond that SriLankan Airlines issued,” S&P Global Rating said in a statement.
+
+However, the new bond given in exchange for defaulted sovereign bonds have have been rated CCC+.
+
+Both Fitch and Moody’s upgraded the sovereign rating despite the outstanding SriLankan Airlines bond.
+
+Sri Lanka ‘SD/SD’ Foreign Currency And ‘CCC+/C’ Local Currency Ratings Affirmed; New Issues Rated ‘CCC+’
+
+...
+
+[Data](articles/84af439c.json)
+
+---
+
+### German president dissolves parliament for snap elections
+
+*2024-12-27 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104529/german-president-dissolves-parliament-for-snap-elections) · `en`
+
+President Frank-Walter Steinmeier on Friday dissolved Germany’s lower house of parliament to pave the way for snap elections on Feb. 23 following the collapse of Chancellor Olaf Scholz’s three-way coalition.
+
+“Especially in difficult times, like now, stability requires a government capable of acting, and reliable majorities in parliament,” which was why early elections were the right way forward for Germany, Steinmeier said in Berlin.
+
+After the elections, problem-solving must become the core business of politics again, added Steinmeier in a speech.
+
+The president, whose post has been largely ceremonial in the post-war era, also called for the election campaign to be conducted fairly and transparently.
+
+“External influence is a danger to democracy, whether it is covert, as was evidently the case recently in the Romanian elections, or open and blatant, as is currently being practiced particularly intensively on (social media) platform X,” he said.
+
+...
+
+[Data](articles/72fbae3c.json)
+
+---
 
 ### Zimbabwe renews Test reports
 
@@ -57,6 +117,28 @@ Leader Kruge Irwin scored 104 runs and Brian Bennet scored 110 not out.
 [Data](articles/a1b49c0e.json)
 
 [Extended Data](ext_articles/a1b49c0e.ext.json)
+
+---
+
+### At least 69 migrants dead after boat sank off Morocco, Mali says
+
+*2024-12-27 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104528/at-least-69-migrants-dead-after-boat-sank-off-morocco-mali-says) · `en`
+
+At least 69 people died, including 25 Malian nationals, after a boat headed from West Africa to Spain capsized off Morocco on Dec. 19, Malian authorities said.
+
+The makeshift boat was carrying around 80 people when it capsized. Only 11 survived, the Ministry of Malians Abroad said in a statement on Thursday, after collecting information to reconstruct the incident.
+
+A crisis unit has been set up to monitor the situation and will report any further updates, it added.
+
+The Atlantic migration route from the coast of West Africa to the Canary Islands, typically used by African migrants trying to reach Spain, has seen a surge this year.
+
+Years of conflict in the Sahel region that includes Mali, unemployment and the impact of climate change on farming communities are among the reasons why people attempt the crossing.
+
+The route, which traces the Atlantic coasts of Mauritania and Morocco up to Spain, is one of the world’s deadliest.
+
+...
+
+[Data](articles/6ba7c335.json)
 
 ---
 
@@ -176,6 +258,26 @@ The aircraft has reached the Sun that 3.8 million miles from the Sun's surface, 
 
 ---
 
+### Sri Lanka sends more workers to Israel
+
+*2024-12-27 17:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-sends-more-workers-to-israel-196570/) · `en`
+
+ECONOMYNEXT – Sri Lanka is sending a fresh batch of 79 workers to Israel, which a United Nations agency and a growing number of experts and rights organisations have accused of carrying out genocidal acts against the Palestinians.
+
+Sri Lanka’s Foreign Employment Bureau handed over air tickets to the latest group of Sri Lankans who had returned from a previous stint in the belligerent state.
+
+The group of 79 workers are required to work for 5 years and 3 months in Israel, and are scheduled to leave for Israel on December 28, a government statement said.
+
+“These workers can act as brand ambassadors in creating new job opportunities for the job seekers who are looking to go abroad for jobs related to the agriculture industry in Israel, which has been a source of controversy,” Bureau chairman Kosala Wickramasinghe was quoted as saying.
+
+Wickramasinghe urged the workers to act responsibly so that ‘the dignity of the motherland is protected’.
+
+...
+
+[Data](articles/e14e589d.json)
+
+---
+
 ### One arrested with heroin in Jaffna
 
 *2024-12-27 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202320) · `ta`
@@ -259,6 +361,24 @@ He contributed to alliances like BRICS, and revealed significant diplomacy with 
 ...
 
 [Data](articles/c4d4b4bb.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 292.40/70 to dollar, bonds steady
+
+*2024-12-27 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-40-70-to-dollar-bonds-steady-196579/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee improved to close at 292.40/70 to the US dollar on Friday from 294.00/15 on Thursday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.40/50 percent, from up 9.40/55 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.65/75 percent.
+
+A bond maturing on 15.05.2030 closed at 11.00/10 percent, from 11.00/15 percent. (Colombo/Dec27/2024)
+
+◼️
+
+[Data](articles/43475818.json)
 
 ---
 
@@ -470,6 +590,24 @@ Today’s turnover was recorded at over Rs. 9.8 billion while the total number o
 
 ---
 
+### Sri Lanka stocks close up, banks and diversified financials drive turnover
+
+*2024-12-27 15:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banks-and-diversified-financials-drive-turnover-196563/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 0.88 percent, or 135.07 points, at 15,535.60; while the more liquid S&P SL20 Index closed up 1.74 percent, or 79.95 points, at 4,682.35.
+
+Banks (Rs4.5bn), diversified financials (Rs1.4bn) and capital goods (Rs1bn) sectors saw the most investor interest.
+
+Top positive contributors to the ASPI were Hatton National Bank (up at 301.50), LOLC Holdings (up at 692.75), DFCC Bank (up at 99.40), Royal Ceramics (up at 43.10), and Melstacorp (up at 120.00). (Colombo/Dec27/2024)
+
+◼️
+
+[Data](articles/8fa8a436.json)
+
+---
+
 ### Former MP Lalith Ellawala quits politics
 
 *2024-12-27 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104523/former-mp-lalith-ellawala-quits-politics) · `en`
@@ -521,6 +659,36 @@ He also pointed out that, in the near future, the SJB would find itself in a cha
 ◼️
 
 [Data](articles/4f759e9b.json)
+
+---
+
+### அரச நிறுவனங்கள் மறுசீரமைப்பு : அரசாங்கம் நிலைப்பாட்டை வெளிப்படையாக அறிவிக்க வேண்டும் - கம்மன்பில
+
+*2024-12-27 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/202292) · `ta`
+
+அரச நிறுவனங்கள் மறுசீரமைப்பு தொடர்பில் அரசாங்கம் உறுதியான நிலைப்பாட்டை வெளிப்படையாக அறிவிக்க வேண்டும். சந்தர்ப்பத்துக்கு ஏற்றாட் போல் அரசியல் கொள்கையை ஜனாதிபதி மாற்றிக் கொள்ள கூடாது என முன்னாள் பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் வியாழக்கிழமை (26) நடைபெற்ற தொழிற்சங்க பிரதிநிதிகளுடனான சந்திப்பின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டின் தேசிய வளங்களை பாதுகாக்க வேண்டியது அனைத்து அரசாங்கங்களினதும் பொறுப்பாகும். இலங்கையின் பௌதீக அமைவிடம் அதற்கு பிரதான காரணியாகும். பூகோள அரசியலில் போட்டித்தன்மையுடன் செயற்படும் நாடுகளுக்கு நாட்டின் தேசிய வளங்களை அபிவிருத்திக்காக வழங்கும் போது மிகவும் அவதானத்துடன் செயற்பட வேண்டும்.
+
+...
+
+[Data](articles/b3308a16.json)
+
+---
+
+### හෙට දිනයේදි වැසි වාර කිහිපයක්
+
+*2024-12-27 14:57:48* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දිනයේදි-වැසි-වාර-කිහිපයක්/11-413873) · `si`
+
+උතුරු, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මාතලේ දිසරික්කයේත් වැසි වාර කිහිපයක් හෙට දිනයේදි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේදි හෝ රාත්‍රී කාලයේදි ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/e81dcc12.json)
 
 ---
 
@@ -817,6 +985,24 @@ From that time from 286 to 96, he contributed to the resolution of the serious p
 [Data](articles/afb88c57.json)
 
 [Extended Data](ext_articles/afb88c57.ext.json)
+
+---
+
+### Senthiverl Holdings ups stake in Sri Lanka’s Kotagala Plantations to 10-pct
+
+*2024-12-27 12:56:00* · [`economynextcom`](https://economynext.com/senthiverl-holdings-ups-stake-in-sri-lankas-kotagala-plantations-to-10-pct-196503/) · `en`
+
+ECONOMYNEXT – Senthilverl Holdings (Pvt) Ltd has taken its holding in Sri Lanka’s Kotagala Planations over 10 percent, a Colombo Stock Exchange filing said.
+
+Senthilverl Holdings have bought 1,060,811 shares, at between 9.10 to 9.40 rupees a share, JK Stockbrokers said in the filing.
+
+The latest purchase increased Senthiverl’s Holdings to 33.86 million shares (10.004-pct) from 32.806 million shares.
+
+The stock was trading flat at 9.10 rupees on Friday. (Colombo/Dec27/2024)
+
+◼️
+
+[Data](articles/8f813309.json)
 
 ---
 
@@ -1648,7 +1834,7 @@ The words, Shikra, target can also be seen on wings of the drone, as well as Ana
 
 Similar drones are produced by Anadrone Systems Pvt Ltd, an unmanned vehicle manufacturer, according to its website.
 
-“Anadrone Systems Pvt Ltd is a forward-thinking defense company headquartered in India, specializing in the design, development, and deployment of advanced unmanned aerial systems (UAS) and defense technologies,” its website says.
+“Anadrone Systems Pvt Ltd is a forward-thinking defense company headquartered in India, specializing in the design, development, and deployment of advanced unmanned aerial systems and defense technologies,” its website says.
 
 ...
 
@@ -1981,163 +2167,5 @@ de Silva is a member of the Presidential Task Force on “Clean Sri Lanka” pro
 ◼️
 
 [Data](articles/533996c0.json)
-
----
-
-### Sri Lankan children win multiple trophies at UCMAS international competition in New Delhi
-
-*2024-12-27 05:36:00* · [`islandlk`](http://island.lk/sri-lankan-children-win-multiple-trophies-at-ucmas-international-competition-in-new-delhi/) · `en`
-
-The UCMAS Sri Lanka contingent was successful in winning 16 Championships, 16 First Runners Up and 20 Second Runners Up Trophies at the UCMAS International Level Competition held recently in New Delhi. The Sri Lanka Team was also successful in winning the Bronze Trophy amongst the many international participants at the World Cup Tournament held there.
-
-...
-
-[Data](articles/c9f4e403.json)
-
----
-
-### Faculty of Law at UoC crowned champion of Varsity Battles 2024
-
-*2024-12-27 05:35:00* · [`islandlk`](http://island.lk/faculty-of-law-at-uoc-crowned-champion-of-varsity-battles-2024/) · `en`
-
-The ‘Varsity Battles’ 2024, the second edition of the inter-university capital market quiz competition organized by the Securities and Exchange Commission of Sri Lanka (SEC) and the Colombo Stock Exchange (CSE), concluded on a high note at The Epitome, Kurunegala.
-
-The event saw the participation of 38 teams representing 13 state universities, showcasing the intellectual caliber and enthusiasm of Sri Lankan undergraduates.
-
-The winning team, the Faculty of Law (Team 01) from the University of Colombo, (UoC) emerged victorious after an intense series of rounds, securing the championship along with a cash prize of Rs. 400,000. The first runner-up, the Faculty of Commerce and Management Studies (Team 01) from the University of Kelaniya, received a cash prize of Rs. 300,000, while the Faculty of Medicine (Team 01) from the Sabaragamuwa University of Sri Lanka the second runner-up, walked away with Rs. 200,000.
-
-...
-
-[Data](articles/8a3b2e04.json)
-
----
-
-### ASPI reaches an all-time high with a turnover of Rs. 7 billion
-
-*2024-12-27 05:26:00* · [`islandlk`](http://island.lk/aspi-reaches-an-all-time-high-with-a-turnover-of-rs-7-billion/) · `en`
-
-Trading on the Colombo Stock Exchange was bullish yesterday due to low interest regime, favourable economic conditions as well as the upgrading of sovereign ratings following the completion of external debt restructuring, market analysts said.
-
-Owing to those positive factors both indices moved upwards. All Share Price Index up by 232 points (closing at 15,400.53 – a new all-time high) while S&P SL20 up by 96 points. Turnover stood at Rs 7 billion with nine crossings.
-
-...
-
-[Data](articles/2da4417d.json)
-
----
-
-### Siyapatha Night 2024 turns out to be a ‘grand success’
-
-*2024-12-27 05:19:00* · [`islandlk`](http://island.lk/siyapatha-night-2024-turns-out-to-be-a-grand-success/) · `en`
-
-Siyapatha Finance PLC hosted its highly anticipated annual event, Siyapatha Night 2024, on November 16, 2024, at the prestigious City of Dreams, Cinnamon Life, Colombo. The event brought together over 1,000 employees from 53 Siyapatha Finance branches across the island, offering a platform to foster fellowship, celebrate achievements, and embrace the company’s vibrant corporate culture.
-
-The evening commenced with inspiring addresses from the company’s leadership, which included Chairman Sumith Cumaranatunga, Managing Director Ananda Seneviratne, and Chief Human Resources Officer Prasad Udugampola.
-
-Commenting on this milestone occasion, Siyapatha Finance PLC Managing Director, Ananda Seneviratne, shared: “Siyapatha Night is a tribute to the remarkable contributions of our employees, whose dedication continues to strengthen our journey toward success and industry leadership. Together, we continue to set new benchmarks and pave the way for a promising future.”
-
-...
-
-[Data](articles/09b41431.json)
-
----
-
-### Daintee unveils edible gingerbread house at One Galle Face Mall
-
-*2024-12-27 05:18:00* · [`islandlk`](http://island.lk/daintee-unveils-edible-gingerbread-house-at-one-galle-face-mall/) · `en`
-
-This festive season, Daintee confectioneries is set to surprise and delight children and families with a truly unique experience. For the first time in Sri Lanka, Daintee will present an edible, live-size gingerbread house at One Galle Face Mall, inviting children to explore, enjoy, and indulge in a first ever real size edible ginger bread house.
-
-Daintee, a brand under Sunshine Consumer Lanka Pvt Ltd, is dedicated to building “world-ready kids for a better tomorrow.” With a strong commitment to quality and locally sourced ingredients, Daintee has become a trusted brand in Sri Lanka’s confectionery market.
-
-...
-
-[Data](articles/1358b38c.json)
-
----
-
-### Diva Diriya shines at SLIM Brand Excellence Awards as a Best New Entrant of the Year
-
-*2024-12-27 05:17:00* · [`islandlk`](http://island.lk/diva-diriya-shines-at-slim-brand-excellence-awards-as-a-best-new-entrant-of-the-year/) · `en`
-
-Diva, the premier laundry care brand from Hemas Consumer Brands for over 20 years, has proven its excellence yet again by winning the Bronze Award for Best New Entrant of the Year for its sub brand ‘Diva Diriya’ at the 23rd SLIM Brand Excellence Awards. This prestigious award from the Sri Lanka Institute of Marketing (SLIM), the premier body for marketing in Sri Lanka, underscores Diva Dirya’s significant impact on the Sri Lankan market.
-
-Launched in 2022 amidst challenging economic conditions, Diva Diriya has earned an exceptional reputation for its unwavering commitment to quality and affordability. Staying true to the essence of the brand Diva, the brand continued to deliver on its hardworking cleaning credentials at an affordable price, making Diva Diriya a reliable and trustworthy choice for Sri Lankan consumers.
-
-...
-
-[Data](articles/de3ad1fd.json)
-
----
-
-### யாழில் காய்ச்சல் காரணமாக குடும்பஸ்தர் உயிரிழப்பு
-
-*2024-12-27 03:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-காய்ச்சல்-காரணமாக-குடும்பஸ்தர்-உயிரிழப்பு/175-349364) · `ta`
-
-நான்கு நாள்கள் காய்ச்சலால் பீடிக்கப்பட்டிருந்த இளம் குடும்பஸ்தர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-கைதடி மேற்கு, கைதடியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான நவரத்தினம் தனுசன் (வயது 34) என்பவரே உயிரிழந்துள்ளார்.
-
-கடந்த  23 ஆம் திகதி காய்ச்சல் ஏற்பட்டதைத் தொடர்ந்து மறுநாள் 24 ஆம் திகதி முற்பகல் யாழ். போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டிருந்த நிலையில், நேற்று வியாழக்கிழமை (26) பிற்பகல் அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-இந்த மரணம் தொடர்பில்  யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார்  விசாரணைகளை மேற்கொண்டு பிரதேச பரிசோதனைக்கு உத்தரவிட்டுள்ளார். (a)
-
-◼️
-
-[Data](articles/627d26ff.json)
-
----
-
-### முன்னாள் சிரிய ஜனாதிபதியின் ஆதரவாளர்கள் கொலை
-
-*2024-12-27 03:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-சிரிய-ஜனாதிபதியின்-ஆதரவாளர்கள்-கொலை/175-349363) · `ta`
-
-சிரியாவில் இடம்பெற்ற மோதலில் முன்னாள் ஜனாதிபதி அசாத்தின் ஆதரவாளர்கள் 14 பேர் கொல்லப்பட்டனர்.
-
-வெளியேற்றப்பட்ட ஜனாதிபதி அல் அசாத்தின் புதிய கிளர்ச்சியாளர்கள் தலைமையிலான ஆதரவாளர்கள் நாட்டின் மேற்கு பகுதியில் பதுங்கி இருந்து இவ்வாறு தாக்குதலை மேற்கொண்டுள்ளனர்.
-
-நேற்று இடம்பெற்ற இந்த மோதலில் மனித உரிமைகளுக்கான சிரியா கண்காணிப்புக் குழு உறுப்பினர்கள் மூவரும் உயிரிழந்துள்ளனர். (a)
-
-◼️
-
-[Data](articles/052de206.json)
-
----
-
-### Five journalists killed in Israel's attack
-
-*2024-12-27 02:57:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-தாக்குதலில்-ஊடகவியலாளர்கள்-ஐவர்-பலி/50-349362) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"5 journalists killed in Israel's Gaza attack. News agency vehicle targeted. Ongoing conflict continues deadly toll on press."
-
-🟩
-
-International media reports that five journalists have been killed in Israel's attack on Gaza.
-
-Israel has carried out the attack on a car of a news agency operating in Gaza.
-
-It is noteworthy that journalists continue to kill the ongoing clashes between Israeli and Hamas last year.. (A)
-
-◼️
-
-[Data](articles/b8fcd763.json)
-
-[Extended Data](ext_articles/b8fcd763.ext.json)
-
----
-
-### Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela.
-
-*2024-12-27 02:49:05* · [`dailyftlk`](https://www.ft.lk/news/Archbishop-of-Colombo-Cardinal-Malclom-Ranjith-conducts-the-Christmas-service-at-Our-Lady-of-Sorrows-Church-in-Ja-Ela/56-771039) · `en`
-
-Archbishop of Colombo Cardinal Malclom Ranjith conducts the Christmas service at Our Lady of Sorrows Church in Ja-Ela. A large crowd was present for the mid night service - Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/cccb9f2a.json)
 
 ---

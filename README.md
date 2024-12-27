@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 04:14:44**
+As of **2024-12-28 04:42:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,783 (99.1%) of 62,359 articles have been extended.
+61,785 (99.1%) of 62,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -264,17 +264,27 @@ This offer comes in time for the festive season, allowing families to indulge in
 
 ---
 
-### ஊடகவியலாளரை தாக்கி கடத்த முயற்சி செய்த சந்தேக நபர் இருவரும் பொலிசாரால் கைது
+### Two suspects arrested by police
 
 *2024-12-28 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202336) · `ta`
 
-கிளிநொச்சியில் வியாழக்கிழமை (26) மாலை ஊடகவியலாளர் ஒருவரை ஏ9 வீதியில் வைத்து தாக்கி கருப்பு நிற வாகனம் ஒன்றில் கடத்த முயற்சி செய்த சந்தேக நபர்கள் இருவரையும் பொலிசார் கைது செய்துள்ளனர்.
+Here's a summary of 200 characters:
 
-கிளி நொச்சி பொலிசாரால் கைது செய்யப்பட்ட இருவரும் பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ளனர் இவர்கள் மேலதிக விசாரணைக்காக நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை முன்னெடுத்து வருகின்றனர்
+
+
+"2 suspects arrested for attacking journalist on A9 road in Kilinochchi. Detained at local police station."
+
+🟩
+
+Police have arrested two suspects for allegedly attacking a journalist on A9 road in Kilinochchi on Thursday evening.
+
+The two arrested by the Kili Nochi police are detained at the police station.
 
 ◼️
 
 [Data](articles/2ee362ac.json)
+
+[Extended Data](ext_articles/2ee362ac.ext.json)
 
 ---
 
@@ -291,6 +301,8 @@ For many participants and observers, COP29 fell short of expectations. However, 
 ...
 
 [Data](articles/204ab8ce.json)
+
+[Extended Data](ext_articles/204ab8ce.ext.json)
 
 ---
 

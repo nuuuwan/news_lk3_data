@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 07:30:29**
+As of **2024-12-27 05:51:21**
 
 ## Newspaper Stats
 
-*Scraped **62,219** Articles*
+*Scraped **62,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 629
 bbccomsinhala | 656
 islandlk | 3,775
 economynextcom | 3,785
-dailyftlk | 4,316
+dailyftlk | 4,307
 dailymirrorlk | 4,733
 adalk | 5,942
 adaderanalk | 7,594
-tamilmirrorlk | 8,923
+tamilmirrorlk | 8,922
 virakesarilk | 10,301
 adaderanasinhalalk | 10,745
 
@@ -26,155 +26,11 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,719 (99.2%) of 62,219 articles have been extended.
+61,717 (99.2%) of 62,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
-
-### Driving Sri Lanka’s future:  How Ministry of Digital Economy can transform nation
-
-*2024-12-27 06:35:02* · [`dailyftlk`](https://www.ft.lk/columns/Driving-Sri-Lanka-s-future-How-Ministry-of-Digital-Economy-can-transform-nation/4-771054) · `en`
-
-A Ministry of Digital Economy could drive the expansion of e-governance, enabling citizens to access essential services like tax payments, business registrations, and public procurement online
-
-A bold step towards the direction of country’s goal of building a $ 15 billion digital economy
-
-The establishment of a Ministry of Digital Economy in Sri Lanka signals a bold step towards embracing the opportunities of the 21st century. This strategic move aligns the country with global trends and positions it to harness the transformative power of digital technologies. As nations worldwide increasingly depend on digital economies for growth and innovation, Sri Lanka’s decision to create this focused ministry is a testament to its commitment to modernising its economic landscape.
-
-...
-
-[Data](articles/bebbda19.json)
-
-[Extended Data](ext_articles/bebbda19.ext.json)
-
----
-
-### Red baby elephants, Ranil as godfather and dangerous external liaisons
-
-*2024-12-27 06:24:51* · [`dailyftlk`](https://www.ft.lk/columns/Red-baby-elephants-Ranil-as-godfather-and-dangerous-external-liaisons/4-771051) · `en`
-
-Sri Lankans have been politically scammed as never before. With AKD and the NPP, there’s been generational, gender and governance change, no structural reform (let alone ‘system-change’), and most crucially no change of economic policy paradigm and corporate/superrich bias. In an inversion of their mandate, there’s stark continuity in the economic policy framework that caused Sri Lanka’s debt crisis and perpetuates mass economic austerity.
-
-As presidential candidate Anura emphasised improvement of human resources, upgrading of human capital, as his economic keystone, but his presidential policies have placed the keystone in the opposite direction, and his macroeconomic commitments are and cannot but be ruinous to human resources/human capital.
-
-...
-
-[Data](articles/97f1f8aa.json)
-
----
-
-### Recap of 2024 on economic perspective
-
-*2024-12-27 06:18:38* · [`dailyftlk`](https://www.ft.lk/columns/Recap-of-2024-on-economic-perspective/4-771050) · `en`
-
-Having macroeconomic and financial system stability being restored, the focus should shift towards enhancing growth prospects that are both inclusive and sustainable
-
-2024 is a year to be remembered in Sri Lanka’s economic journey since many challenges faced by the country have significantly eased. Sri Lanka is returning to normal after recurring economic shocks since 2019, including the Easter Sunday attack, the pandemic, and the economic crisis. The global economy also exhibited economic resilience amidst multiple challenges, with a soft landing compared to what was feared. Meanwhile, geopolitical conditions became unfavourable. Let’s dive deeper into these.
-
-...
-
-[Data](articles/6edd85af.json)
-
----
-
-### Sri Lanka hosts key stakeholders’ meeting to strengthen Fairtrade Network and promote sustainable exports
-
-*2024-12-27 06:13:08* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-hosts-key-stakeholders-meeting-to-strengthen-Fairtrade-Network-and-promote-sustainable-exports/34-771049) · `en`
-
-In a significant development for Sri Lanka’s Fairtrade sector, a stakeholders’ meeting was recently held in Colombo in December 2024, organised by the Export Development Board (EDB) and the Fairtrade Network of Asia Pacific Producers (NAPP), Sri Lanka. The meeting aimed to discuss the main projects currently executing, future of Fairtrade in Sri Lanka, issues pertaining to the sector and its expanding international presence.
-
-...
-
-[Data](articles/11d77cc4.json)
-
----
-
-### AIBS affirms leadership in delivery of internationally accredited  STEM programs in Sri Lanka
-
-*2024-12-27 06:11:28* · [`dailyftlk`](https://www.ft.lk/business/AIBS-affirms-leadership-in-delivery-of-internationally-accredited-STEM-programs-in-Sri-Lanka/34-771048) · `en`
-
-Sealing a partnership of three years – AIBS Chairperson Rohini Nanayakkara, and Founder and Managing Director Hiran de Silva with Edge Hill University, United Kingdom Pro-Vice Chancellor Prof. George Talbot
-
-Prof. George Talbot speaks on the importance of apt knowledge tools for young people
-
-AIBS Founder and Managing Director Hiran de Silva retells AIBS journey from its beginnings in 2018
-
-The Asian Institute of Business and Science (AIBS) founded in 2018 recently held a celebratory event marking its journey of six years – from humble beginnings to an entity that continues to raise the bar in imparting higher education excellence.
-
-Firmly embedded into the realm of world class transnational education with the affiliation etched with Edge Hill University, UK in 2022, AIBS currently offers 21 study courses and programs across 14 awarding bodies, universities and higher education institutions to 600 plus learners.
-
-...
-
-[Data](articles/1484892d.json)
-
----
-
-### Singhagiri launches Candy  home appliances in Sri Lanka
-
-*2024-12-27 06:07:10* · [`dailyftlk`](https://www.ft.lk/business/Singhagiri-launches-Candy-home-appliances-in-Sri-Lanka/34-771047) · `en`
-
-Singhagiri Ltd., a trusted leader in Sri Lanka’s consumer electronics industry with over five decades of excellence, recently launched its partnership with Candy, a prestigious European home appliance brand with Italian roots.
-
-This significant event marked the official launch of Candy in Sri Lanka, a moment of pride as the country becomes the first in the Asia Pacific to unveil Candy’s new global logo. The portfolio of Candy products sold by Singhagiri includes a range of kitchen appliances, including cookers, hobs and ovens, as well as refrigerators and washing machines.
-
-...
-
-[Data](articles/a97dc661.json)
-
----
-
-### Singer Finance wins Gold at CA Sri Lanka TAGS Annual Report Awards 2024
-
-*2024-12-27 06:05:43* · [`dailyftlk`](https://www.ft.lk/business/Singer-Finance-wins-Gold-at-CA-Sri-Lanka-TAGS-Annual-Report-Awards-2024/34-771046) · `en`
-
-Singer Finance (Lanka) PLC has reaffirmed its position as a leader in the financial sector by winning the Gold award for Excellence in Annual Reporting at the CA Sri Lanka TAGS Annual Report Awards 2024. This recognition was in the category of Finance Companies with assets between Rs. 25 billion to Rs. 75 billion.
-
-In addition to this prestigious award, Singer Finance also received special recognition for its exceptional efforts in Sustainability Reporting, Corporate Governance, and Integrated Reporting. These achievements highlight the company’s dedication to maintaining high standards of transparency, responsibility, and good business practices.
-
-...
-
-[Data](articles/80ccd3e8.json)
-
----
-
-### Sri Lanka marks 20th anniversary of tsunami
-
-*2024-12-27 05:51:16* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-marks-20th-anniversary-of-tsunami/56-771041) · `en`
-
-Sri Lanka yesterday commemorated the 20th anniversary of the devastating 2004 tsunami, a tragedy that claimed over 35,000 lives and caused widespread destruction. It was one of the deadliest natural disasters faced in history, bordering the Indian Ocean, leaving an unforgettable mark on global disaster response and resilience efforts.
-
-The 2004 Boxing Day tsunami killed 226,408 people, of which 35,399 were in Sri Lanka.
-
-A two-minute silence was observed countrywide from 9:25 to 9:27 a.m. yesterday, paying tribute to the victims of the tsunami. Thousands gathered to honour the memory of those lost at district level.
-
-The Disaster Management Centre (DMC) spearheaded the observance of ‘National Safety Day’ with events organised at district level. The main event took place at the Peraliya Tsunami Memorial Statue in Galle, an emotional reminder of the tragedy’s impact.
-
-...
-
-[Data](articles/f7b8df04.json)
-
-[Extended Data](ext_articles/f7b8df04.ext.json)
-
----
-
-### Gihan de Silva new Chairman at Rupavahini Corporation
-
-*2024-12-27 05:49:45* · [`dailyftlk`](https://www.ft.lk/news/Gihan-de-Silva-new-Chairman-at-Rupavahini-Corporation/56-771040) · `en`
-
-Gihan de Silva assumed duties as the new Chairman of the Sri Lanka Rupavahini Corporation yesterday.
-
-de Silva is a dynamic and results-driven business professional with over 25 years of experience in leading multi-brand corporate operations in Sri Lanka. A visionary leader with proven expertise in marketing, strategic planning, and management, he is capable of driving growth and innovation. Recognised for spearheading successful marketing campaigns, launching impactful brands, and delivering record-breaking results, he is skilled in building high-performing teams, conceptualising strategies, and executing results-oriented business initiatives.
-
-He studied at Nalanda College, Colombo 10, and completed his Master’s degree in Business Administration (MBA) at the University of Sri Jayewardenepura. He also completed a Postgraduate Diploma in Business Management at the University of Colombo.
-
-de Silva is a member of the Presidential Task Force on “Clean Sri Lanka” program.
-
-◼️
-
-[Data](articles/533996c0.json)
-
----
 
 ### Sri Lankan children win multiple trophies at UCMAS international competition in New Delhi
 
@@ -259,22 +115,6 @@ Launched in 2022 amidst challenging economic conditions, Diva Diriya has earned 
 ...
 
 [Data](articles/de3ad1fd.json)
-
----
-
-### முன்னாள் சிரிய ஜனாதிபதியின் ஆதரவாளர்கள் கொலை
-
-*2024-12-27 03:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-சிரிய-ஜனாதிபதியின்-ஆதரவாளர்கள்-கொலை/175-349363) · `ta`
-
-சிரியாவில் இடம்பெற்ற மோதலில் முன்னாள் ஜனாதிபதி அசாத்தின் ஆதரவாளர்கள் 14 பேர் கொல்லப்பட்டனர்.
-
-வெளியேற்றப்பட்ட ஜனாதிபதி அல் அசாத்தின் புதிய கிளர்ச்சியாளர்கள் தலைமையிலான ஆதரவாளர்கள் நாட்டின் மேற்கு பகுதியில் பதுங்கி இருந்து இவ்வாறு தாக்குதலை மேற்கொண்டுள்ளனர்.
-
-நேற்று இடம்பெற்ற இந்த மோதலில் மனித உரிமைகளுக்கான சிரியா கண்காணிப்புக் குழு உறுப்பினர்கள் மூவரும் உயிரிழந்துள்ளனர். (a)
-
-◼️
-
-[Data](articles/052de206.json)
 
 ---
 
@@ -2413,5 +2253,267 @@ Meanwhile, a suspect has been arrested in the Mridangahawatta area of ​​the 
 [Data](articles/a0a5a623.json)
 
 [Extended Data](ext_articles/a0a5a623.ext.json)
+
+---
+
+### The Minister's comment on a salary increase
+
+*2024-12-26 11:20:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-உயர்வு-குறித்து-அமைச்சர்-கருத்து/175-349311) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Minister Anil Jayantha Fernando announced a salary increase for state department employees, including teachers. He stated the 2025 budget will detail the hike, emphasizing it's for economic relief, not political gain.
+
+🟩
+
+Deputy Minister of Economic Development Anil Jayantha Fernando said the salary hike would be given to the state department employees, including teachers, including teachers.
+
+Commenting on the media, he said the budget proposals for 2025 would include full details of the salary increase.
+
+"We are working to raise the salary of public servants, not for political gains, but we all know that people face significant difficulties in the current economic situation of the country. The existing salary is not enough, ”he explained.
+
+“As we all know, the country's economy was severely affected by the previous government. As a responsible management, we cannot say that people have to wait until 2026. We are not taking such an attitude, ”he said.
+
+“So people can retain the hope that a firm salary increase within next year,” Fernando added.
+
+◼️
+
+[Data](articles/bf55b6f8.json)
+
+[Extended Data](ext_articles/bf55b6f8.ext.json)
+
+---
+
+### “The government has not yet decide”
+
+*2024-12-26 11:13:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கம்-இன்னும்-தீர்மானிக்கவில்லை/175-349310) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Government allocates vehicles for new Parliament MPs but hasn't decided allocation timing. Public Security Minister Ananda Wijepala confirms auction process ongoing. Most MPs use personal vehicles currently. New government reduces MP privileges, including tax-free vehicle imports."
+
+🟩
+
+Although the government has decided to allocate vehicles for the MPs of the new Parliament, the vehicles have not yet been allocated.
+
+Public Security Minister Ananda Wijepala told the Daily Mirror yesterday that the government is currently in the process of auctioning luxury vehicles.. He said most MPs are currently using their own vehicles.
+
+“We have decided to provide vehicles for MPs on duty in the new parliament. However, we have not decided when to allocate vehicles to them. We will not import vehicles that are to be allocated to them. ”
+
+The new government has decided to reduce the privileges of MPs. Parliamentarians will not be allowed to import vehicles without taxes.
+
+◼️
+
+[Data](articles/21736b5b.json)
+
+[Extended Data](ext_articles/21736b5b.ext.json)
+
+---
+
+### Tsunami paid tribute
+
+*2024-12-26 10:56:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுனாமி-பேபி-அஞ்சலி-செலுத்தினர்/175-349308) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Tsunami Baby" Abhilash pays tribute to parents near memorial. He was 2 months old during 2004 tsunami. His mother fought for custody. Abhilash now 20, lives in Batticaloa, worships memorial.
+
+🟩
+
+Tsunami Baby Abhilash paid his tribute on Thursday (26) for a life -threatening relationship before the tsunami memorial set up at his residence.
+
+Kalmunai Northern Resource Hospital was held on 26.12.2004 during the year 2004.
+
+Jayarasa Abhilash became a world -class child with the name Tsunami Baby 81 as a two -month -old child.
+
+This kid is their 99 mothers fought for. The hospital administration then sought the Kalmunai Magistrate's Court. The magistrate ordered the nine mothers to be generated.
+
+Later, 52 days later, Jayarasa Unithila was proved to be Abhilash, the son of the couple.. The child was later handed over to the Jayarasa Unittala couple.
+
+Abhilash, who is currently living in the village of Gurukkamadam, Batticaloa, is worshiping a memorial in memory of those who died in the tsunami.
+
+Abhilash, now known as a 20 -year -old tsunami Baby, paid his tribute to his parents for alleged relationships before the tsunami memorial set up at his residence.
+
+◼️
+
+[Data](articles/b695cf8b.json)
+
+[Extended Data](ext_articles/b695cf8b.ext.json)
+
+---
+
+### Police Dept’s 2025 annual transfers delayed by 6 months
+
+*2024-12-26 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104504/police-depts-2025-annual-transfers-delayed-by-6-months) · `en`
+
+The implementation of the Police Department’s annual transfer orders for 2025 has been suspended for six months.
+
+The relevant order has been issued by the Acting Inspector General of Police (IGP), Priyantha Weerasooriya, on December 24.
+
+Accordingly, the transfer orders, originally scheduled to take effect on January 1, 2025, have now been extended to June 30, 2025.
+
+The Acting IGP has further stated that if any officers require the annual transfer orders to be implemented earlier due to urgent circumstances, a report must be submitted by the Senior Deputy Inspector Generals (DIGs) in charge of the respective province and forwarded to DIG Human Resource Management and International Relation Range.
+
+However, Acting IGP Priyantha Weerasooriya has informed that this order will not interfere with the implementation of the 2025 annual transfer orders issued according to duty requirements.
+
+◼️
+
+[Data](articles/dc7f3ab2.json)
+
+[Extended Data](ext_articles/dc7f3ab2.ext.json)
+
+---
+
+### Sri Lanka rupee trades stronger at 294.30/60 to US dollar, bonds up
+
+*2024-12-26 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-294-30-60-to-us-dollar-bonds-up-196444/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 294.30/60 to the US dollar in the spot market, from 294.00/295.50 on Tuesday, while bond yields were down, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent, down from 9.40/55 percent.
+
+A bond maturing on 15.09.2027 was quoted at 9.75/85 percent, down from 9.77/87 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, down from 10.10/20 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.28/35 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.65/75 percent, down from 10.65/80 percent.
+
+In equities, the All Share Price Index was up 1.07 percent or 162.58 points, at 15,330.
+
+The more liquid S&P SL20 was up 0.95 percent, or 43.16 points, at 4,578.
+
+◼️
+
+[Data](articles/a814b01a.json)
+
+---
+
+### Allow the police to the red lamp
+
+*2024-12-26 10:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவப்பு-விளக்குக்கு-பொலிஸாருக்கு-அனுமதி/175-349307) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Police use red lamps for nighttime traffic duties. Drivers may be distracted by bright lights. Authorities advise using dimmable jackets and red bulbs to improve safety and reduce accidents. The Inspector General monitors nocturnal traffic policing.
+
+🟩
+
+The police headquarters has advised the police on the traffic duties and the procedures to be followed during the night's duty.
+
+At night, police who engage in traffic duties, when making a signal to park vehicles, most of the time, light the electric lights. Due to the light on the driver's face, sometimes the vehicle is unable to stop or control,
+
+As well as the chance of an accident. It has been observed that the authorities have to face the accident due to the lack of jacket to observe the light.
+
+Therefore, according to the instructions already provided, the drivers are significantly signaling that the drivers are not inconvenienced, as well as the wearing of a light -saving jacket, and the use of a red bulb provided to police stations is important.
+
+In addition, the Inspector General of Police has been instructed to keep track of the traffic police who have been on duty at night and occasionally monitor the police station.
+
+◼️
+
+[Data](articles/bfe25dc8.json)
+
+[Extended Data](ext_articles/bfe25dc8.ext.json)
+
+---
+
+### சுனாமி தாக்கி 20 வருடங்களின் பின்னர் - இலங்கையில் 9 குடும்பங்கள் உரிமை கொண்டாடிய குழந்தை தற்போது உயர்தர வகுப்பு மாணவன் - பல்கலைகழகம் செல்ல ஆசைப்படுகின்றான்.
+
+*2024-12-26 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202179) · `ta`
+
+2004 இல் பேரழிவை ஏற்படுத்திய இந்து சமுத்திர சுனாமியின் பின்னர் சேற்றிலிருந்து மீட்கப்பட்டு ,உணர்வுபூர்வமான நீதிமன்ற போராட்டத்தின் பின்னர் பெற்றோருடன் சேர்க்கப்பட்ட,பேபி 81 என கடந்தகாலங்களில் அழைக்கப்பட்ட சிறுவனிற்கு தற்போது 20 வயது.
+
+ஜெயராஜா  அபிலாஷின்  கதை ,சமீபத்தைய வரலாற்றில் மிக மோசமான இயற்கை அழிவினால் துண்டாடப்பட்ட குடும்பங்களிற்கான ஒரு குறியீடு  அதேவேளை அவரின் கதை நம்பிக்கையையும் அளிக்கின்ற ஒன்று.
+
+இலங்கையின் கிழக்கு பகுதியை தாக்கிய சுனாமியால் அடித்துசெல்லப்பட்ட2 வயது குழந்தையை அவனது வீட்டிலிருந்து சிறிது தொலைவில் உறவினர்கள் மீட்டனர்.
+
+சுனாமியால் பிரிக்கப்பட்ட தனது குடும்பத்தை அபிலாஷின்  தந்தை முருகுபிள்ளை ஜெயராஜா மூன்று நாட்களாக தேடியலைந்தார்.
+
+முதலில் அவர் தனது தாயை கண்டுபிடித்தார்.பிறகு மனைவியை கண்டுபிடித்தார்.ஆனால் அவர்களது ஆண் குழந்தை காணாமல்போயிருந்தான்.
+
+தாதியொருவர் அந்த குழந்தையை மருத்துவமனையிலிருந்து வீட்டிற்கு கொண்டுசென்றிருந்தார் எனினும் இந்த குடும்பத்தின் துயரத்தை அறிந்ததும்,அவர்கள் உயிருடன் இருப்பதை அறிந்ததும், குழந்தையை மீள அவர்களிடம் ஒப்படைத்தார்.
+
+...
+
+[Data](articles/ac945c03.json)
+
+---
+
+### රට හාල් නිෂ්කාශන කටයුතු අද සිට යළි අරඹයි
+
+*2024-12-26 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204735) · `si`
+
+නතර වී තිබු ආනයනික සහල් නිෂ්කාශන කටයුතු අද (26) සිට යළි ආරම්භ කරන බව ශ්‍රී ලංකා රේගුව පවසයි.
+
+ඒ අනුව සහල් මෙරටට ආනයනය කළ ව්‍යාපාරිකයින්ට අද පෙරවරුවේ සිට සිය සහල් නිශ්කාශනය කරගැනීමේ කටයුතු හැකිවන බව රේගු මාධ්‍ය ප්‍රකාශක අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සිවලි අරුක්ගොඩ මහතා සඳහන් කළේය.
+
+රට තුළ පවතින සහල් ගැටලුවට පිළියමක් වශයෙන් පෞද්ගලික අංශයේ ව්‍යාපාරිකයින්ට සෘජුවම සහල් ආනයනය කිරීම සඳහා දෙසැම්බර් මස 4වන දින සිට  20 වන දින දක්වා අවසර ලබා දි තිබු අතර එම කාළය තුළ සහල් මෙට්‍රික් ටොන් 67,000ක් ආනයනය කිරීමට පියවර ගෙන තිබුණි.
+
+කෙසේ වෙතත් පසුගියදා පැවති කැබිනට් මණ්ඩලයේදි සහල් ආනයනය කිරීම සඳහා ලබා දී තිබු කාලය ජනවාරි මස 10 වන දින දක්වා දීර්ඝ කිරීමට කටයුතු කළ අතර ඊට අදාළ ගැසට් නිවේදනය පසුගිය 24 වන දින නිකුත් කරනු ලැබීය.
+
+ඒ අනුව ‍මෙරටට ආනයනය කරන ලද සහල් යළිත් අද දිනයේ සිට නිශ්කාශනය කිරීමේ කටයුතු සිදුකරන බව රේගු දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+...
+
+[Data](articles/cfda30dc.json)
+
+---
+
+### ஸ்மார்ட்போன்களில் வாட்ஸ்அப் நிறுத்தப்படும்
+
+*2024-12-26 10:39:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/ஸ்மார்ட்போன்களில்-வாட்ஸ்அப்-நிறுத்தப்படும்/57-349306) · `ta`
+
+உலகம் முழுவதும் உள்ள மக்களிடையே சிறந்த வரவேற்பை பெறும் சமூக ஊடகங்களில் ஒன்றான வாட்ஸ்அப் (Whatsapp)தற்போது அதிரடியான அறிவிப்பொன்றை விடுத்துள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+அதன்படி, எதிர்வரும் ஜனவரி 1 ஆம் முதல் பழைய ஸ்மார்ட்போன்களுக்கான ஆதரவை வாட்ஸ்அப் நிறுத்தவுள்ளதாகவும் புதிய போன்களுக்கு அப்கிரேட் செய்யுமாறு பயனர்களுக்கு வாட்ஸ்அப் அறிவுறுத்தியுள்ளது.
+
+கோடிக்கணக்கான பயனர்களைக் கொண்டுள்ள வாட்ஸ்அப்பானது  சில ஆண்ட்ராய்ட் ஸ்மார்ட்போன்களுக்கான ஆதரவை ஜனவரி 1 முதல் வாட்ஸ்அப் நிறுத்துகிறது.
+
+அந்தவகையில், வாட்ஸ்அப் நிறுவனமானது புதிய அம்சங்கள் மற்றும் AI தொழில்நுட்பத்தை கொண்டு புதிய அப்டேட்களை அறிமுகப்படுத்தி வருகின்றது.
+
+இந்நிலையில், தற்போது பழைய ஆண்ட்ராய்ட் மற்றும் ஐபோன்கள் என சில மொடல்களில் வாட்ஸ்அப் வேலை செய்யாது என்று நிறுவனம் தெரிவித்துள்ளது.
+
+இந்த போன்கள் வாட்ஸ்அப்பின் புதிய அம்சங்களை ஆதரிக்காததால் பழைய ஸ்மார்ட்போன்களுக்கான ஆதரவை வாட்ஸ்அப் நிறுத்துகிறது.
+
+◼️
+
+[Data](articles/20327d2f.json)
+
+---
+
+### Increase in financial fraud during festivals;Alert to the public
+
+*2024-12-26 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/202177) · `ta`
+
+Financial fraud spikes during festivals: SLCERT warns public to protect accounts and avoid sharing sensitive info with unknown entities.
+
+🟩
+
+Nirosh Ananda, the Chief Information Security Engineer of the Computer Emergency Ready Committee (SLCERT), said that financial fraud complaints have increased sharply during the New Year and New Year's Emergency.
+
+More than 25 percent of complaints have been received regarding fraud for the Computer Emergency Committee.
+
+Therefore, the public should not share their bank account digits or the once -used passwords (OTP) with the third party.
+
+Requests may be asked for bank account details for reasons such as gift vouchers, cash payments or sharing of index numbers.
+
+The public should be vigilant when getting links through popular social media sites such as Facebook or WhatsApp. These links can also be sent by SMS. Prizes and vouchers will be informed by individuals via phone calls.
+
+He has requested the public to contact them directly and to share personal details with the unknown third parties in case of any such suspicious information.
+
+...
+
+[Data](articles/a2a6e830.json)
+
+[Extended Data](ext_articles/a2a6e830.ext.json)
 
 ---

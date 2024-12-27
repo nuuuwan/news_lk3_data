@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 12:03:18**
+As of **2024-12-27 12:17:15**
 
 ## Newspaper Stats
 
-*Scraped **62,259** Articles*
+*Scraped **62,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,775
 economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,946
+adalk | 5,947
 adaderanalk | 7,597
 tamilmirrorlk | 8,935
 virakesarilk | 10,307
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,733 (99.2%) of 62,259 articles have been extended.
+61,734 (99.2%) of 62,260 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -125,6 +125,8 @@ The most virulent form of the disease has mortality rates as high as 100 percent
 ...
 
 [Data](articles/2d8a85eb.json)
+
+[Extended Data](ext_articles/2d8a85eb.ext.json)
 
 ---
 
@@ -1470,6 +1472,24 @@ She joined the Sri Lanka Navy in 2011 and elected to the Sri Lankan rugby team i
 
 ---
 
+### හෙද, පරිපුරක, අතුරු වෛද්‍ය සේවා විශ්‍රාම වයස වැඩි කරන්නැයි ඉල්ලයි
+
+*2024-12-26 18:55:47* · [`adalk`](https://www.ada.lk/breaking_news/හෙද--පරිපුරක--අතුරු-වෛද්‍ය-සේවා-විශ්‍රාම-වයස-වැඩි-කරන්නැයි-ඉල්ලයි/11-413866) · `si`
+
+හෙද, පරිපුරක, අතුරු වෛද්‍ය සේවාවලට අදාළව පුරප්පාඩු විශාල ප්‍රමාණයක් ඇති වී  තිබෙන නිසා විශ්‍රාම යමේ වයස අවුරුදු 63 ක් දක්වා  දිර්ඝ කළ යුතු බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.
+
+වෛද්‍යවරුන්ගේ හිඟයක් පවතින  බවට ප්‍රකාශ කර මේ වන විට වෛද්‍යවරුන් විශ්‍රාම යාමේ වයස අවුරුදු 60 සිට 63 දක්වා දීර්ඝ කර තිබෙන බවද එම සන්ධානය පෙන්වා දෙයි.
+
+මේ නිසා හෙද,පරිපුරක,අතුරු වෛද්‍ය සේවාවල අදාළ සේවක පුරප්පාඩු සම්පූර්ණ කරන තෙක් විශ්‍රාම යාමේ වයස අවුරදු 60 සිට 63 දක්වා ඉහළ දැමීමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කරන ලෙස සෞඛ්‍ය අමාත්‍යවරයාට සංදේශයක් භාර දීමට කටයුතු කරන බවද  සන්ධානය සඳහන් කරයි.
+
+රෝග ප්‍රතිකාර සේවා හා රෝග වළක්වා ගැනීමේ කටයුතුවලදී වෛද්‍යවරුන් සේම අනෙකුත් සෞඛ්‍ය කාර්මණ්ඩලවල සේවාව ඉතා වැදගත් වන බවත්, මෙම සේවාවල පවතින පුරප්පාඩු සැලකීමේදී රෝහල් කටයුතු සිදුකිරිමේ ගැටලු රැසක් ඇති වී තිබෙන බවත් පෙන්වා දෙයි.
+
+...
+
+[Data](articles/8620acf6.json)
+
+---
+
 ### "There is no intention of treating it as a regular state hospital"
 
 *2024-12-26 18:49:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழக்கமான-அரச-வைத்தியசாலையாக-நடத்த-உத்தேசம்-இல்லை/175-349345) · `ta`
@@ -2267,23 +2287,5 @@ The police will continue to implement this special operation.
 [Data](articles/2e5c10b0.json)
 
 [Extended Data](ext_articles/2e5c10b0.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover Rs7bn
-
-*2024-12-26 16:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs7bn-196467/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday after the Christmas holiday, data on its site showed.
-
-The broader ASPI closed up 1.53 percent, or 232.13 points, at 15,400; while the more liquid S&P SL20 Index closed up 1.48 percent, or 67.15 points, at 4,602.
-
-Top positive contributors to the ASPI were LOLC Holdings (up at 665.00), Hatton National Bank (up at 293.75), Sunshine Holdings (up at 94.50), Sampath Bank (up at 112.75), and Aitken Spence (up at 142.75).
-
-◼️
-
-[Data](articles/3eb6a5d1.json)
-
-[Extended Data](ext_articles/3eb6a5d1.ext.json)
 
 ---

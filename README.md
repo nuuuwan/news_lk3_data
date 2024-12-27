@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 05:27:25**
+As of **2024-12-27 05:51:21**
 
 ## Newspaper Stats
 
-*Scraped **62,198** Articles*
+*Scraped **62,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 457
 colombotelegraphcom | 629
 bbccomsinhala | 656
-islandlk | 3,764
+islandlk | 3,775
 economynextcom | 3,785
 dailyftlk | 4,307
 dailymirrorlk | 4,733
@@ -26,11 +26,97 @@ adaderanasinhalalk | 10,745
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,714 (99.2%) of 62,198 articles have been extended.
+61,717 (99.2%) of 62,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### Sri Lankan children win multiple trophies at UCMAS international competition in New Delhi
+
+*2024-12-27 05:36:00* · [`islandlk`](http://island.lk/sri-lankan-children-win-multiple-trophies-at-ucmas-international-competition-in-new-delhi/) · `en`
+
+The UCMAS Sri Lanka contingent was successful in winning 16 Championships, 16 First Runners Up and 20 Second Runners Up Trophies at the UCMAS International Level Competition held recently in New Delhi. The Sri Lanka Team was also successful in winning the Bronze Trophy amongst the many international participants at the World Cup Tournament held there.
+
+...
+
+[Data](articles/c9f4e403.json)
+
+---
+
+### Faculty of Law at UoC crowned champion of Varsity Battles 2024
+
+*2024-12-27 05:35:00* · [`islandlk`](http://island.lk/faculty-of-law-at-uoc-crowned-champion-of-varsity-battles-2024/) · `en`
+
+The ‘Varsity Battles’ 2024, the second edition of the inter-university capital market quiz competition organized by the Securities and Exchange Commission of Sri Lanka (SEC) and the Colombo Stock Exchange (CSE), concluded on a high note at The Epitome, Kurunegala.
+
+The event saw the participation of 38 teams representing 13 state universities, showcasing the intellectual caliber and enthusiasm of Sri Lankan undergraduates.
+
+The winning team, the Faculty of Law (Team 01) from the University of Colombo, (UoC) emerged victorious after an intense series of rounds, securing the championship along with a cash prize of Rs. 400,000. The first runner-up, the Faculty of Commerce and Management Studies (Team 01) from the University of Kelaniya, received a cash prize of Rs. 300,000, while the Faculty of Medicine (Team 01) from the Sabaragamuwa University of Sri Lanka the second runner-up, walked away with Rs. 200,000.
+
+...
+
+[Data](articles/8a3b2e04.json)
+
+---
+
+### ASPI reaches an all-time high with a turnover of Rs. 7 billion
+
+*2024-12-27 05:26:00* · [`islandlk`](http://island.lk/aspi-reaches-an-all-time-high-with-a-turnover-of-rs-7-billion/) · `en`
+
+Trading on the Colombo Stock Exchange was bullish yesterday due to low interest regime, favourable economic conditions as well as the upgrading of sovereign ratings following the completion of external debt restructuring, market analysts said.
+
+Owing to those positive factors both indices moved upwards. All Share Price Index up by 232 points (closing at 15,400.53 – a new all-time high) while S&P SL20 up by 96 points. Turnover stood at Rs 7 billion with nine crossings.
+
+...
+
+[Data](articles/2da4417d.json)
+
+---
+
+### Siyapatha Night 2024 turns out to be a ‘grand success’
+
+*2024-12-27 05:19:00* · [`islandlk`](http://island.lk/siyapatha-night-2024-turns-out-to-be-a-grand-success/) · `en`
+
+Siyapatha Finance PLC hosted its highly anticipated annual event, Siyapatha Night 2024, on November 16, 2024, at the prestigious City of Dreams, Cinnamon Life, Colombo. The event brought together over 1,000 employees from 53 Siyapatha Finance branches across the island, offering a platform to foster fellowship, celebrate achievements, and embrace the company’s vibrant corporate culture.
+
+The evening commenced with inspiring addresses from the company’s leadership, which included Chairman Sumith Cumaranatunga, Managing Director Ananda Seneviratne, and Chief Human Resources Officer Prasad Udugampola.
+
+Commenting on this milestone occasion, Siyapatha Finance PLC Managing Director, Ananda Seneviratne, shared: “Siyapatha Night is a tribute to the remarkable contributions of our employees, whose dedication continues to strengthen our journey toward success and industry leadership. Together, we continue to set new benchmarks and pave the way for a promising future.”
+
+...
+
+[Data](articles/09b41431.json)
+
+---
+
+### Daintee unveils edible gingerbread house at One Galle Face Mall
+
+*2024-12-27 05:18:00* · [`islandlk`](http://island.lk/daintee-unveils-edible-gingerbread-house-at-one-galle-face-mall/) · `en`
+
+This festive season, Daintee confectioneries is set to surprise and delight children and families with a truly unique experience. For the first time in Sri Lanka, Daintee will present an edible, live-size gingerbread house at One Galle Face Mall, inviting children to explore, enjoy, and indulge in a first ever real size edible ginger bread house.
+
+Daintee, a brand under Sunshine Consumer Lanka Pvt Ltd, is dedicated to building “world-ready kids for a better tomorrow.” With a strong commitment to quality and locally sourced ingredients, Daintee has become a trusted brand in Sri Lanka’s confectionery market.
+
+...
+
+[Data](articles/1358b38c.json)
+
+---
+
+### Diva Diriya shines at SLIM Brand Excellence Awards as a Best New Entrant of the Year
+
+*2024-12-27 05:17:00* · [`islandlk`](http://island.lk/diva-diriya-shines-at-slim-brand-excellence-awards-as-a-best-new-entrant-of-the-year/) · `en`
+
+Diva, the premier laundry care brand from Hemas Consumer Brands for over 20 years, has proven its excellence yet again by winning the Bronze Award for Best New Entrant of the Year for its sub brand ‘Diva Diriya’ at the 23rd SLIM Brand Excellence Awards. This prestigious award from the Sri Lanka Institute of Marketing (SLIM), the premier body for marketing in Sri Lanka, underscores Diva Dirya’s significant impact on the Sri Lankan market.
+
+Launched in 2022 amidst challenging economic conditions, Diva Diriya has earned an exceptional reputation for its unwavering commitment to quality and affordability. Staying true to the essence of the brand Diva, the brand continued to deliver on its hardworking cleaning credentials at an affordable price, making Diva Diriya a reliable and trustworthy choice for Sri Lankan consumers.
+
+...
+
+[Data](articles/de3ad1fd.json)
+
+---
 
 ### Five journalists killed in Israel's attack
 
@@ -1558,59 +1644,89 @@ Australia's fourth youngest player Sam Konstas, who debuted in Test cricket. Kon
 
 ---
 
-### மாங்குளம் பகுதியில் உள்நாட்டு துப்பாக்கியுடன் சந்தேகநபர் கைது!
+### Suspect arrested for domestic gun
 
 *2024-12-26 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/202195) · `ta`
 
-மாங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட கிழவன்குளம் பகுதியில் நேற்று புதன்கிழமை (25) பொலிஸ்  அதிகாரிகளினால் மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின் போது  உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-மேலும், குறித்த சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை மாங்குளம் பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+
+Arrest made: Suspect caught with homemade firearm during police raid in Mankulam. Further investigation ongoing.
+
+🟩
+
+The suspect was arrested with a locally manufactured gun during a raid carried out by police officers on Wednesday (25).
+
+Mankulam police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/14fade66.json)
 
+[Extended Data](ext_articles/14fade66.ext.json)
+
 ---
 
-### සීමාව ඉක්මවා ගිය කෝලි ට හතර වටෙන් බැට
+### Coly four rounded to Colify over the limit
 
 *2024-12-26 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204743) · `si`
 
-ඔස්ට්‍රේලියාව සහ ඉන්දියාව අතර අද මෙල්බන් හිදී ආරම්භ වූ සිව්වැනි ටෙස්ට් තරගයේදී ඇතිවූ සිද්ධියක් සම්බන්ධයෙන් ඉන්දීය ක්‍රීඩක විරාත් කෝලිට එරෙහිව දඩයක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය කටයුතු කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-India Today පුවත් සේවය වාර්තා කළේ ඔස්ට්‍රේලියානු ආරම්භක පිතිකරු සෑම් කොන්ටාස් ගේ උරහිසෙහි ගැටී ඔහු සමග මතභේදයක් ඇතිකර ගැනීම සම්බන්ධයෙන් විරාත් කෝලිගේ තරග ගාස්තුවෙන් 20%ක් දඩයක් ලෙස අය කරගැනීමටත් ඔහුගේ විනය වාර්තාවට දඬුවම් ලකුණක් එකතු කිරීමටත් ක්‍රිකට් බලධාරීන් කටයුතු කර ඇත.
 
-තරගයේ පළමු දිනයේ 10 වැනි පන්දු ඕවරය අවසානයේදී කෝලි කොන්ටාස් වෙස ඇවිද ගොස් උවමනාවෙන් මෙන් ඔහුගේ උරහිසේ ගැටෙන අයුරු දැක්වෙන වීඩියෝ මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
 
-සිය මංගල ටෙස්ට් තරගයට ක්‍රීඩා කරන කොන්ටාස් වේගවත් ලකුණු 60ක් රැස් කිරීමට සමත් විය.
+Indian cricketer Coley fined for collision in Melbourne test. ICC imposes penalty after Australian opener injured. Former coach Ravi Shastri defends Coley. Ricky Ponting criticizes experienced player's actions.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් අදහස් දක්වමින් ඉන්දීය හිටපු ක්‍රිකට් නායකයෙකු වන රවී ශාස්ත්‍රි පවසා ඇත්තේ කෝලී සිදුකර ඇත්තේ අනවශ්‍ය ක්‍රියාවක් බවය.
+🟩
 
-මේ අතර හිටපු ඔස්ට්‍රේලියානු නායක රිකී පොන්ටින් ද පැවසුවේ පළපුරුදු ක්‍රීඩකයෙකු වන කෝලී එම ගැටුම නිර්මාණය කළ බවය.
+The International Cricket Council has taken steps to impose a fine against Indian players' Virith Koroli regarding the fourth Test match in Melbour, between Australia and India.
+
+The SLC authorities have reportedly to add 20% of the punishment marks of the Australian opener who collided with him in the shoulder of the Australian opener.
+
+The videos shown in the first day of the match are now circulated in the social media.
+
+Contazz was able to collect 60 runs in the Wednes of Mangala Test.
+
+Commenting on the incident, Ravi Shastri, a former Indian cricket leader, has said that Coley has been conducted.
+
+Meanwhile, former Australian leader Ricky Ponting also spoke that Experienced player Cole created that conflict.
 
 ◼️
 
 [Data](articles/5c6faeb8.json)
 
+[Extended Data](ext_articles/5c6faeb8.ext.json)
+
 ---
 
-### මහින්දගේ ආරක්ෂක තත්ත්වය ගැන අලුත්ම හෙළිදරව්ව
+### The latest exposure for Mahinda's security situation
 
 *2024-12-26 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204742) · `si`
 
-රාජ්‍ය බුද්ධි තොරතුරු අනුව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට ඩ්‍රෝන ප්‍රහාරයක් එල්ලවීමේ අවදානමක් නොමැති බව මහජන ආරක්ෂක නියෝජ්‍ය අමාත්‍ය නීතිඥ සුනිල් වටගල මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-එහිදී ඔහු වැඩිදුරටත් පෙන්වා දුන්නේ අදාළ ආරක්ෂක තත්ත්වයත් තුළ අවශ්‍ය වෙනස්කම් සිදුකිරීමට හැකියාව පවතින බවය.
 
-"මනෝජ් ගමගේ මහතා කියලා තිබුණා ඩ්‍රෝන ප්‍රහාරයකුත් තියෙනවා කියලා. දැන් පොලිස්පති සූදානම් ඔහුගෙන් ප්‍රශ්න කරන්න. ඩ්‍රෝන ප්‍රහාරයක් ආවත් මහින්ද මහත්තයා වටේ ඉන්න පිරිසත් මදි වෙනවා ඩ්‍රෝන ප්‍රහාරයට මුහුණ දෙන්න. ඒ තියෙන T56 හරියන්නේ නැහැ ඩ්‍රෝන ප්‍රහාරයට. ඒ නිසා මනෝජ් ගමගේලා යමක් කියනකොට සැලකිල්ලෙන් කියන්න. සමස්ත සමාජයක් තමයි නොමග යන්නේ."
 
-"අපේ බුද්ධි අංශ ඇතුළේ ඩ්‍රෝන ප්‍රහාරයක් නැහැ. එයා කියන්න ඕනේ කොහෙන්ද එන්නේ කියලා."
+State intelligence denies drone threat to President Mahinda Rajapaksa. IGP prepares to question claims of a drone attack. Security measures in place to counter potential threats. Intelligence officials dismiss concerns as misinformation. Assessment ongoing to determine validity of reports.
 
-"යම් තක්සේරුවක් ඇතුළේ තමයි තීරණ ගන්නේ. එසේ නොවේ යැයි කියනවා නම් අපි නැවත සලකා බලන්නම්."
+🟩
+
+According to State intelligence, President Mahinda Rajapaksa has not at risk of a drone attack on the drone attack, said Sunil Watagala.
+
+He further stated that the necessary changes are able to make the necessary changes.
+
+"Manoj Gamage said there was a drone attack. Now the IGP ready to question him. Despite a drone strike, the people around Mr. Mahinda are very well done to face the drone attack. The T56 not right to the drone attack. So tell Manoj Gamage and tell. A whole society is misleading. "
+
+"There is no drone attack inside our intelligence. Where does he say? "
+
+"The inside of an assessment makes the decisions. If not, we'll consider again. "
 
 ◼️
 
 [Data](articles/f38e5b99.json)
+
+[Extended Data](ext_articles/f38e5b99.ext.json)
 
 ---
 
@@ -2399,137 +2515,5 @@ He has requested the public to contact them directly and to share personal detai
 [Data](articles/a2a6e830.json)
 
 [Extended Data](ext_articles/a2a6e830.ext.json)
-
----
-
-### கடலில் நீராடச் சென்ற இந்திய பிரஜை நீரில் மூழ்கி உயிரிழப்பு!
-
-*2024-12-26 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202178) · `ta`
-
-ஹிக்கடுவை, தொடந்துவ பகுதியில் நேற்று புதன்கிழமை (25) கடலில் நீராடச் சென்ற வெளிநாட்டவர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பொலிஸார் மேற்கொண்ட விசாரணையில், அவர் நேற்று மாலை தனது மகள், மகன் மற்றும் மற்றுமொரு நபருடன் கடலில் நீராடிக் கொண்டிருந்ததாக தெரியவந்துள்ளது.
-
-இதன்போது, பிரதேசவாசிகள் குறித்த நபரை கரைக்கு கொண்டு வந்து காப்பாற்றுவதற்காக கராப்பிட்டிய வைத்தியசாலையில் அனுமதித்த போது, சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-மேலும், சடலம் கராப்பிட்டிய வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், ஹிக்கடுவை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/e75fb5ee.json)
-
----
-
-### Correct Recovery from a Burned Keb
-
-*2024-12-26 09:57:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்த-கெப்-வண்டியில்-இருந்து-சடலம்-மீட்பு/175-349303) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Body found in burned cab near Habarana-Polonnaruwa road. Police suspect murder and arson. Fire extinguished by Minneriya police and Polonnaruwa Municipal Council officials. Cab owner from Colombo.
-
-🟩
-
-The body of a man's body was recovered from the burning cab.
-
-The body of a person has been found from a cab, which was burnt near the 38th kilometer milestone between the Habarana-Polonnaruwa main road and Badoya.
-
-A man who was traveling on the Habarana road was reported to the Minneriya police that a vehicle was burnt by a vehicle.
-
-The fire broke out at around 10 pm on Wednesday (25) and that the fire was stopped at the fire, and there was no one else in it.. Police suspect that Keb may have been brought to the area to kill a man and set fire to his body.
-
-Minneriya police and officials of the Polonnaruwa Municipal Council came and extinguished the fire in a great effort.
-
-Police have discovered that the fire cab was a cab owned by a man from Colombo.
-
-◼️
-
-[Data](articles/30cbd475.json)
-
-[Extended Data](ext_articles/30cbd475.ext.json)
-
----
-
-### Russian region declares emergency situation as Black Sea oil spill fallout widens
-
-*2024-12-26 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104503/russian-region-declares-emergency-situation-as-black-sea-oil-spill-fallout-widens) · `en`
-
-Authorities in Russia’s southern Krasnodar region on Wednesday declared a region-wide emergency, saying that oil was still washing up on the coastline 10 days after two ageing tankers ran into trouble.
-
-The oil is from the tankers which were hit by a storm on Dec. 15. One of the vessels split in half, while the other ran aground.
-
-The pollution, which has coated sandy beaches at and around Anapa, a popular summer resort, has caused serious problems for seabirds and everything from dolphins to porpoises and over 10,000 people have been trying to clear it up.
-
-Veniamin Kondratiev, governor of the Krasnodar region, said in a statement that he had decided to declare a region-wide emergency because oil was still polluting the coastline in the Anapa and Temryuk districts.
-
-...
-
-[Data](articles/2e00a9bc.json)
-
----
-
-### முன் விரோத தகராறு: ஒருவர் பலி
-
-*2024-12-26 09:56:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்-விரோத-தகராறு-ஒருவர்-பலி/175-349302) · `ta`
-
-சுமார் இரண்டு வருடங்களுக்கு முன்னர் கத்தியால் தாக்கி  காயங்களை ஏற்படுத்தியதாக கூறப்படும் சம்பவம் தொடர்பில், ஏற்பட்ட வாக்குவாதம் காரணமாக திங்கட்கிழமை (25) ஒருவர் கத்தியால் தாக்கப்பட்டு  கொல்லப்பட்டுள்ளதாக கிராண்ட்பாஸ் பொலிஸார் தெரிவித்துள்ளனர்.
-
-உயிரிழந்தவர் வடுல்லாவத்தை பிரதேசத்தில் உள்ள வாகன தரிப்பிடத்திற்கு அருகில் இருந்ததாகவும், அவ்விடத்திற்கு வந்த சந்தேக நபர் உயிரிழந்த நபருடன் வாக்குவாதத்தில் ஈடுபட்டு கத்தியால் குத்தியுள்ளதாகவும் பொலிஸ் விசாரணைகளின் போது தெரியவந்துள்ளது.
-
-உயிரிழந்த நபர் இரண்டு வருடங்களுக்கு முன்னர் சந்தேக நபரை கத்தியால் காயப்படுத்தியுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
-
-சம்பவத்தில் உயி​ரிழந்தவர் கொலன்னாவ, சாலமுல்ல பகுதியைச் சேர்ந்த உதயகுமார் (வயது 50) என்பதும் குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/a81bd923.json)
-
----
-
-### Two persons arrested for bribing chicken meat
-
-*2024-12-26 09:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சியை-இலஞ்சம்-பெற்ற-இருவர்-கைது/175-349301) · `ta`
-
-Two persons arrested for bribing chicken meat worth Rs 1,170. They were accused of accepting bribes for issuing a business license. The arrests were made based on a complaint from a local businessman.
-
-🟩
-
-Two people have been arrested on charges of bribing chicken meat worth Rs 1,170.
-
-The official and the other, thus, have been arrested by the Commission for Investigation of Bribery or Corruption.
-
-The arrested person who works in the Valdeniya sub-office and a worker in the street section has been arrested.
-
-The two have been arrested on the basis of a complaint lodged by a businessman from Koskama.
-
-Officials said that the two had received bribes to take necessary steps to provide the business license for the business center for 2025 and that the two had taken steps to appear at the Attanagala Magistrate's Court.
-
-◼️
-
-[Data](articles/3bd5d1e9.json)
-
-[Extended Data](ext_articles/3bd5d1e9.ext.json)
-
----
-
-### கிறிஸ்மஸ் தினத்தில் கோர சம்பவம் ; குழந்தை பலி
-
-*2024-12-26 09:44:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிறிஸ்மஸ்-தினத்தில்-கோர-சம்பவம்-குழந்தை-பலி/72-349300) · `ta`
-
-கிளிநொச்சியில் நேற்று இரவு மோட்டார் சைக்கிளுடன் டிப்பர் வாகனம் மோதி ஏற்பட்ட கோர விபத்தில் 2 வயது குழந்தை பலியானதுடன், ஒரே குடும்பத்தைச் சேர்ந்த மூவர் தீவிர சிகிச்சைப்பிரிவில் சிகிச்சை பெற்று வருகின்றனர்.
-
-A9 வீதியால் பயணித்த டிப்பர் வாகனம் குறித்த மோட்டார் சைக்கிளை மோதி விபத்தினை ஏற்படுத்தியதுடன், விபத்து இடம்பெற்ற பகுதியிலிருந்து சுமார் 100m பாதையை விட்டு விலகி பயணித்துள்ளது.
-
-விபத்தில் சிக்கிய மோட்டார் சைக்கிளையும் டிப்பர் வாகனம் குறிப்பிட்ட அளவு தூரம் இழுத்து சென்றுள்ளதுடன், தொழிற்பயிற்சி நிறுவனத்தின் விளம்பர பலகை மற்றும் தொலைத்தொடர்பு கம்பம் உள்ளிட்டவற்றையும் சேதப்படுத்தியுள்ளது.
-
-குறித்த டிப்பர் வாகனத்தை செலுத்திய சாரதி மதுபோதையில் இருந்ததாக சம்பவ இடத்தில் நின்ற மக்கள் குறிப்பிடுகின்றனர்.
-
-சம்பவத்தில், மோட்டார் சைக்கிளில் பயணித்த 2 வயது குழந்தை பலியானதுடன் ஒரே குடும்பத்தைச் சேர்ந்த தாய், தந்தை மற்றும் 6 வயதுடைய குழந்தையும் படுகாயமடைந்த நிலையில், கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டு தீவிர சிகிச்சைக்கு உட்படுத்தப்பட்டுள்ளதாக பொலிசார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/378a21b6.json)
 
 ---

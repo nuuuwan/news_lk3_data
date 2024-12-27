@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 19:27:31**
+As of **2024-12-27 19:43:07**
 
 ## Newspaper Stats
 
-*Scraped **62,324** Articles*
+*Scraped **62,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,953
 adaderanalk | 7,607
-tamilmirrorlk | 8,939
+tamilmirrorlk | 8,940
 virakesarilk | 10,330
 adaderanasinhalalk | 10,764
 
@@ -26,27 +26,49 @@ adaderanasinhalalk | 10,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,755 (99.1%) of 62,324 articles have been extended.
+61,756 (99.1%) of 62,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### ஊடகவியலாளர் தமிழ்ச்செல்வனைக் கடத்த முற்பட்டமைக்கு கிளிநொச்சி மாவட்ட ஊடக அமையம் கண்டனம்
+### உலகில் மிகவும் அரிதான மாணிக்கக் கல் இலங்கையில்...
+
+*2024-12-27 19:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-மிகவும்-அரிதான-மாணிக்கக்-கல்-இலங்கையில்/175-349385) · `ta`
+
+இரத்தினபுரி - இறக்குவானை பிரதேசத்தில் மாணிக்கக் கல் அகழ்வின் போது, உலகில் மிகவும் அரிதான மாணிக்கக் கல் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளது.
+
+இந்தக் கல் ஸ்கோப்போலைட் கெட்ஸ் ஐ சன்ஸ் ஸ்டோன் ( Scopolite cat's eye sunstone) சூரியக்கல் என ஆராய்ச்சியின் போது அறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b454e263.json)
+
+---
+
+### Kilinochchi District Media Corporation condemns the abduction of journalist Thamilchelvan
 
 *2024-12-27 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202330) · `ta`
 
-கிளிநொச்சியில் சுயாதீன  ஊடகவியலாளர் முருகையா தமிழ்ச்செல்வனை  இனந்தெரியாதோரால்  கடத்த முற்பட்டதையும்  தாக்கப்பட்டமையையும் கிளிநொச்சி ஊடக அமையம் வன்மையாக கண்டிக்கிறது.
+Kilinochchi Media Corp condemns journalist Thamilchelvan's abduction & assault. Incident occurred Dec 26, 2024, on A9 road. Thamilchelvan, media center sec'y, was attacked after resisting kidnapping. He's hospitalized. Police investigating. Attack threatens press freedom & journalist safety.
 
-புதன்கிழமை (25) வாகனத்தில் வந்தோர் கடத்திச் செல்ல முற்பட்டுள்ளனர். இதனைத் தமிழ்ச்செல்வன் எதிர்த்துப் போராடியதை அடுத்து, கடத்தற்காரர்கள் அவரைத் தாக்கி, எச்சரித்துவிட்டுத் தப்பிச் சென்றுள்ளனர்.  இந்தச் சம்பவம் வியாழக்கிழமை (26.12.2024) மாலை 5.00 மணியளவில் கிளிநொச்சி ஏ9 வீதியில் நடந்துள்ளது.
+🟩
 
-எமது ஊடக அமையத்தின் செயலாளரும் சுயாதீன ஊடகவியலாளருமான முருகையா தமிழ்ச்செல்வன், நேற்று மாலை தனது பணியை முடித்துக்கொண்டு வீடு திரும்பும் வழியில் வாகனத்தில் வந்தோர் அவரை இடைமறித்து தமது வாகனத்தில் பலவந்தமாக ஏற்ற முற்பட்டுள்ளனர். இதை எதிர்த்துத் தமிழ்ச்செல்வன்  போராடியபோது, கடத்தற்காரர்கள் தமிழ்ச்செல்வனைத் தாக்கி விட்டுத் தப்பிச் சென்றுள்ளனர்.
+The Kilinochchi Media Association has strongly condemned the abduction and assault of independent journalist Murugaiah Thamizhelvan in Kilinochchi.
 
-இதனையடுத்து தமிழ்ச்செல்வன்  கிளிநொச்சி மாவட்ட மருத்துவ மனையில் சேர்க்கப்பட்டு சிகிச்சை பெற்று வருகிறார். இது தொடர்பான விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Wednesday (25) vehicle arrives attempted to be abducted. After Thamilchelvan fought, the kidnappers attacked him and fled and fled.The incident took place on Thursday (26.12.2024) at 5.00 pm on the Kilinochchi A9 road.
+
+Murugaiah Thamizhelvan, the secretary of our Media Center and Independent Journalist, has forced him to interrupt his vehicle on the way back home yesterday evening.. When Thamilchelvan fought against this, the kidnappers had attacked Thamilchelvan and fled.
+
+Subsequently, Thamilchelvan is being admitted to the Kilinochchi District Hospital. Police are investigating the matter.
+
+The attack on Thamilchelvan, which provides news and news articles against political disadvantages, social issues, administrative irregularities, corruption, environmental disorders, illegal activities, and drugs, are skeptical to disrupt his tasks.
 
 ...
 
 [Data](articles/32fdd9bc.json)
+
+[Extended Data](ext_articles/32fdd9bc.ext.json)
 
 ---
 
@@ -2149,23 +2171,5 @@ The Disaster Management Centre (DMC) spearheaded the observance of ‘National S
 [Data](articles/f7b8df04.json)
 
 [Extended Data](ext_articles/f7b8df04.ext.json)
-
----
-
-### Gihan de Silva new Chairman at Rupavahini Corporation
-
-*2024-12-27 05:49:45* · [`dailyftlk`](https://www.ft.lk/news/Gihan-de-Silva-new-Chairman-at-Rupavahini-Corporation/56-771040) · `en`
-
-Gihan de Silva assumed duties as the new Chairman of the Sri Lanka Rupavahini Corporation yesterday.
-
-de Silva is a dynamic and results-driven business professional with over 25 years of experience in leading multi-brand corporate operations in Sri Lanka. A visionary leader with proven expertise in marketing, strategic planning, and management, he is capable of driving growth and innovation. Recognised for spearheading successful marketing campaigns, launching impactful brands, and delivering record-breaking results, he is skilled in building high-performing teams, conceptualising strategies, and executing results-oriented business initiatives.
-
-He studied at Nalanda College, Colombo 10, and completed his Master’s degree in Business Administration (MBA) at the University of Sri Jayewardenepura. He also completed a Postgraduate Diploma in Business Management at the University of Colombo.
-
-de Silva is a member of the Presidential Task Force on “Clean Sri Lanka” program.
-
-◼️
-
-[Data](articles/533996c0.json)
 
 ---

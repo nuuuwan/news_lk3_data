@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 12:28:45**
+As of **2024-12-27 12:43:50**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 10,752
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,734 (99.2%) of 62,263 articles have been extended.
+61,735 (99.2%) of 62,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### ගුවන් යානයක් තුළ ශ්‍රී ලාංකික කාන්තාවක් මියයයි
+### Sri Lankan woman dies in a plane
 
 *2024-12-27 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204766) · `si`
 
-දෝහා හි සිට ප්‍රංශයේ පැරිස් නුවර බලා පියාසර කරමින් තිබූ ගුවන්යානයක් තුළදී හදිසි රෝගී තත්ත්වයකට පත් වූ ශ්‍රී ලාංකික කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-කටාර් එයාර්වේස් ගුවන් සමාගමට අයත් අදාළ යානයේ සිටි එම කාන්තාව රෝගී තත්ත්වයට පත්වීම හේතුවෙන් යානය ඉරාකයේ අර්බිල් ජාත්‍යන්තර ගුවන්තොටුපල වෙත හදිසි ගොඩබැස්සවීමකට ද ලක් කර ඇත.
 
-සිදුකළ පූර්ව දැනුම්දීම්වලට අනුව වෛද්‍ය කණ්ඩායම් ද ගුවන්තොටුපොළ වෙත කැඳවා තිබූ නමුත්, ඒ වන විටත් ඇය මියගොස් සිටි බව විදෙස් වාර්තා සඳහන් කරයි.
 
-මෙලෙස මියගොස් ඇත්තේ ප්‍රංශයේ රැදී සිටි 81 හැවිරිදි ශ්‍රී ලාංකික කාන්තාවක්ය.
+Sri Lankan woman (81) dies on flight to Paris. Plane makes emergency landing in Iraq. Medical teams respond, but woman passes away before arrival. Consulate notifies family in France. Arrangements being made to repatriate body.
 
-ප්‍රංශ ජාතිකයෙකු වන ඇයගේ පුත්‍රයාට මේ සම්බන්ධයෙන් දැනුම්දීමට අර්බිල්හි ශ්‍රී ලංකා කොන්සල් කාර්යාලය කටයුතු කර තිබේ.
+🟩
 
-මළ සිරුර ප්‍රංශය වෙත රැගෙන යාම සඳහා අවශ්‍ය කටයුතු සිදුකිරීමට නියමිතව ඇත.
+A Sri Lankan woman, who was flying to Paris from Doha, has died in a sickness of a plane.
+
+The plane has been landing on Emergency to the Extraordinary Airport in Iraq, Iraq.
+
+According to previous notifications carried out, medical teams had been summoned to the airport, but she had already died.
+
+The victim was 81 year old Sri Lankan woman in France.
+
+The Sri Lankan consulate in Arbill has worked to inform her, the Frenchman, to inform this.
+
+The necessary arrangements are to be taken to transport the body to France.
 
 ◼️
 
 [Data](articles/21a51fef.json)
+
+[Extended Data](ext_articles/21a51fef.ext.json)
 
 ---
 

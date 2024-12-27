@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 03:43:04**
+As of **2024-12-28 04:01:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,781 (99.1%) of 62,359 articles have been extended.
+61,782 (99.1%) of 62,359 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,8 @@ The ‘Hair Play’ campaign is designed to allow customers to experience and en
 ...
 
 [Data](articles/00971f2b.json)
+
+[Extended Data](ext_articles/00971f2b.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 16:01:58**
+As of **2024-12-27 16:15:13**
 
 ## Newspaper Stats
 
-*Scraped **62,285** Articles*
+*Scraped **62,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,775
 economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
-adalk | 5,950
+adalk | 5,951
 adaderanalk | 7,601
 tamilmirrorlk | 8,938
 virakesarilk | 10,316
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,746 (99.1%) of 62,285 articles have been extended.
+61,747 (99.1%) of 62,286 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -172,23 +172,33 @@ His wife was upset in India, saying he could not come to the country and then se
 
 ---
 
-### ලලිත් එල්ලාවල දේශපාලනයෙන් සමුගනී
+### Lalith cache by politics
 
 *2024-12-27 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204768) · `si`
 
-කළුතර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී ලලිත් එල්ලාවල මහතා අද (27) දේශපාලනයෙන් සමුගන්නා බව සඳහන් කළේය.
+Here's a 200-character summary:
 
-"අපි බලාපොරොත්තු වෙච්ච දේ නෙමෙයි සජබය ඇතුළේ තියෙන්නේ. සමගි ජන බලවේගය කියලා කිව්වට මේක ඇතුළේ කිසිම සමගියක් නැහැ. මහා ඒකාධිපති පාලනයක් තියෙන්නේ. වැඩක් කරන්න කැමති කෙනෙකුට මෙතන වැඩක් කරන්න ඉඩ දෙන්නේ නැහැ."
 
-"උදාහරණයකට ගන්න ලේකම්තුමා... ලේකම්ගේ නම විතරක් ජාතික ලැයිස්තුවට නම් කරලා යැව්වා."
 
-"සමගි ජන බලවේගය තව ටිකක් කල් යනකොට අලියා ගිල්ල දිවුල් ගෙඩිය වගේ වෙනවා."
+Lalith Ellawala quits politics citing lack of unity, dictatorial control, and favoritism in party selection. He criticizes the current leadership and decides to leave all political posts.
 
-"අන්න ඒ කාරණා නිසා මම සමගි ජන බලවේගයේ සියලු තනතුරුවලින් අද දිනයේ සිට ඉවත් වෙනවා. මම තීන්දු කළා මගේ දේශපාලනයට මින් ඉදිරියට තිත තියන්න."
+🟩
+
+Former Kalutara district MP Lalith Ellawala said he was leaving politics today (27).
+
+"We're not looking forward to the animation. It's no unity in this to say that the harmony power. There's a great dictatorial control. Won't allow someone to do something to do here. "
+
+"For example, the Secretary.. Only the Secretary's name was called to the national list. "
+
+"When the harmony force is a little later, the elephant is like a heil."
+
+"Because of these things, I will leave all the posts of the protocol. I decided to dominate my politics. "
 
 ◼️
 
 [Data](articles/450b652d.json)
+
+[Extended Data](ext_articles/450b652d.ext.json)
 
 ---
 
@@ -397,6 +407,24 @@ The body of Manmohan Singh is to be held tomorrow after the leaders pay tribute.
 [Data](articles/013baefb.json)
 
 [Extended Data](ext_articles/013baefb.ext.json)
+
+---
+
+### ඉන්ටපෝල් රතු වරෙන්තු අඹුසැමි යුවළ කටුනායකදි අල්ලයි
+
+*2024-12-27 11:46:18* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ටපෝල්-රතු-වරෙන්තු-අඹුසැමි-යුවළ-කටුනායකදි-අල්ලයි/11-413871) · `si`
+
+ජාත්‍යන්තර පොලිසියේ රතු වරෙන්තුකරුවන් ලෙස සටහන් වී ඇති , ශ්‍රී ලංකාව තුළ රුපියල් කෝටි ගනනක මූල්‍ය වංචා සිදු කර , මෙරටින් පළා ගොස් සිටි අඹසැමි යුවළක් සහ ඔවුන්ගේ බාළ වයස්කාර දරුවා , ගුවන් මගින් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් සිටියදී , 12/26 දින ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+කොළඹ - 05 ප්‍රදේශයේ පදිංචි 49 හැවිරිදි  අහමඩ් සරීම් මොහොමඩ් සියාබ් , ඔහුගේ බිරිඳ 43 හැවිරිදි පාතිමා පර්සානා මර්කාබ් සහ ඔවුන්ගේ 14 හැවිරිදි දරුවා ඉකුත් 2021 වසරේ දී බෝට්ටු මගින් ඉන්දියාව වෙත පළා ගොස් තිබුණි.
+
+ඔවුන් ඒ වනවිට ශ්‍රී ලංකාව පුරා මූල්‍ය වංචාවන් විශාල වශයෙන් සිදු කර තිබූ අතර , ඔවුන්ට එරෙහිව කොළඹ , ත්‍රිකුණාමලය සහ මඩකලපුව යන ප්‍රදේශ වල අධිකරණ මගින් ගුවන් ගමන් තහනම් 08 ක් පනවා තිබුණි.
+
+මෙහි පිරිමි පුද්ගලයා සහ ඔවුන්ගේ බාළ වයස්කාර දරුවා 12/26 දින දහවල් ඉන්දියාවේ සිට ඉන්දීය ගුවන් සේවයේ ගුවන් යානකින් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙමින් සිටියදී , ගුවන් තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබුණි.
+
+...
+
+[Data](articles/d278ae36.json)
 
 ---
 
@@ -2199,39 +2227,5 @@ Is his son from Mayilvankanam Nandaraj from the area?The three -year -old son of
 [Data](articles/6ce09272.json)
 
 [Extended Data](ext_articles/6ce09272.ext.json)
-
----
-
-### Mane worker die
-
-*2024-12-26 17:45:30* · [`adalk`](https://www.ada.lk/breaking_news/නිවෙස්-හිමිකාරිය-පැදවූ-මෝටර්-රථයට-යටවී-මෙහෙකරු-මිය-යයි/11-413862) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Worker dies at Kahathuduwa house. Identified as MK Lakshman. Found near roller gate. Car notes indicate frequent visits. Owner hospitalized for heart attack. Police investigating cause of death.
-
-🟩
-
-Kahathuduwa police say that the servant of the house had died last night
-
-The deceased has been identified as MK Lakshman, a resident of Pineaboen Estate in Athurgiriya
-
-The deceased has been abandoned from the house in the house, after two years, had come to the house and fall in front of the house and fell outside the roller gate in front of the house.
-
-The police say that the car has been parked in front of the house for a need for a need for a need to be a need to take the road in front of the house, police said.
-
-Police investigations have revealed that the car has notes several times ahead and back and back, due to the inconvenience of the Home owner to the main road.
-
-The victim was admitted to the Homagama Base Hospital.
-
-The homeowing 39-year-old woman who was diagnosed with a heart attack was admitted to the Homagama Base Hospital for treatment
-
-◼️
-
-[Data](articles/e3cd664c.json)
-
-[Extended Data](ext_articles/e3cd664c.ext.json)
 
 ---

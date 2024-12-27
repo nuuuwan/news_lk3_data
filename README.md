@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 19:43:07**
+As of **2024-12-27 20:01:26**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 10,764
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,756 (99.1%) of 62,325 articles have been extended.
+61,757 (99.1%) of 62,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### உலகில் மிகவும் அரிதான மாணிக்கக் கல் இலங்கையில்...
+### Sri Lanka is the most rare gemstone in the world ...
 
 *2024-12-27 19:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-மிகவும்-அரிதான-மாணிக்கக்-கல்-இலங்கையில்/175-349385) · `ta`
 
-இரத்தினபுரி - இறக்குவானை பிரதேசத்தில் மாணிக்கக் கல் அகழ்வின் போது, உலகில் மிகவும் அரிதான மாணிக்கக் கல் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளது.
+Rare gemstone discovered in Sri Lanka: Scopolite Cat's Eye Sunstone, found in Ratnapura-Eruwanai area. Known globally for its rarity.
 
-இந்தக் கல் ஸ்கோப்போலைட் கெட்ஸ் ஐ சன்ஸ் ஸ்டோன் ( Scopolite cat's eye sunstone) சூரியக்கல் என ஆராய்ச்சியின் போது அறியப்பட்டுள்ளது.
+🟩
+
+During the excavation of gem stone in the Ratnapura - Eruwanai area, one of the rare gemstones in the world has been found.
+
+The stone scopolite Gates is known during research as the solar system as Scopolite Cat's Eye Sunstone.
 
 ◼️
 
 [Data](articles/b454e263.json)
+
+[Extended Data](ext_articles/b454e263.ext.json)
 
 ---
 

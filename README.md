@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 01:43:28**
+As of **2024-12-28 02:02:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,776 (99.1%) of 62,358 articles have been extended.
+61,777 (99.1%) of 62,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,21 +62,31 @@ Parliamentarian C. Thilakanathan said that it is possible to consider the constr
 
 ---
 
-### நிதி மோசடி குற்றச்சாட்டில் கைது செய்யப்பட்ட தம்பதியினர் விளக்கமறியலில் வைப்பு
+### A couple arrested on charges of financial fraud
 
 *2024-12-28 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/202337) · `ta`
 
-1.6 பில்லியன் ரூபா நிதி மோசடி குற்றச்சாட்டில் கைது செய்யப்பட்ட தம்பதியினர் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Couple arrested for Rs 1.6 billion financial fraud. CID detains suspects at Katunayake airport. Unregistered finance institute operated illegally. Suspects fled to India, now extradited to face trial in Colombo, Trincomalee, and Batticaloa courts.
 
-சர்வதேச பொலிஸாரால் சிவப்பு எச்சரிக்கை பிறப்பிக்கப்பட்டிருந்த சந்தேக நபர்களான கணவனும் மனைவியும் வியாழக்கிழமை (26) இந்தியாவிலிருந்து கொழும்பு கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்த போது குற்றப்புலனாய்வு திணைக்களத்தின் அதிகாரிகளால் கைது செய்யப்பட்டிருந்தனர்.
+🟩
 
-இந்நிலையில் சந்தேக நபர்கள் நேற்று கொழும்பு புதுக்கடை நீதிவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட நிலையில் அவர்களை எதிர்வரும் 6ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டார்.
+The couple arrested on charges of financial fraud of Rs 1.6 billion have been detained.
 
-பிரிவெல்த் குளோபல் எனும் நிதி நிறுவனமொன்றை நடத்தி வந்துள்ள சந்தேக நபர்கள் அதிக இலாபத்தை பெற்றுத்தருவதாக்கூறி 160 கோடி ரூபாவுக்கும் அதிக பணத்தை மோசடி செய்துள்ளனர்.இது தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்துக்கு கிடைக்கப்பெற்ற முறைப்பாட்டுக்கு அமைய விசாரணைகள் ஆரம்பிக்கப்பட்டிருந்தன.
+The suspects and his wife, who had been issued a red warning by the International Police, were arrested by the Criminal Investigation Department officials when they arrived at the Katunayake airport from India on Thursday (26).
+
+The magistrate ordered the suspects to be produced before the Colombo Pudukkadai Magistrate's Court yesterday.
+
+The suspects who run a Federal Global Finance Institute have defrauded more than 160 crores of rupees.
+
+Initial inquiries have revealed that the Director of the Finance Institute, his wife and children, had illegally fled to India as a sea.
+
+In this case, a lawsuit was filed against the suspects in Colombo, Trincomalee and Batticaloa courts and a foreign trip was issued against the suspects.
 
 ...
 
 [Data](articles/cf7014c8.json)
+
+[Extended Data](ext_articles/cf7014c8.ext.json)
 
 ---
 

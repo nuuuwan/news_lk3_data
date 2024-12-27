@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 15:43:28**
+As of **2024-12-27 16:01:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,745 (99.1%) of 62,285 articles have been extended.
+61,746 (99.1%) of 62,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,23 +142,33 @@ In addition, to address the shortcomings with the massive funds available. He al
 
 ---
 
-### ඉන්දියාවට පැන්න අඹුසැමියන් ගැන තවත් කරුණු
+### More facts about India's joggings
 
 *2024-12-27 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204769) · `si`
 
-රුපියල් කෝටි 160ක මුදලක් වංචාකර රටින් පළාගොස් සිටි අඹුසැමි යුවළක් ඉන්දියාවෙන් පිටුවහල් කිරීමෙන් අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+India joggings: Couple flees with Rs. Financial Criminal Investigation Unit probes cheating claims. Director arrested in Sri Lanka, deported to India. Suspects admit unregistered business, targeting Muslims in Samanthurai, Kalmunai, Ampar areas.
 
-ප්‍රිවෙල්ත් ග්ලෝබල් ප්‍රයිවට් ලිමිටඩ් නම් මූල්‍ය ආයතනය මගින් ව්‍යාපාරවල ලාභාංශ ලබාදෙන බව පවසා රුපියල් කෝටි 160ක පමණ මුදලක් වංචා කර ඇති බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන ඒකකයට පැමිණිලි රැසක් ලැබී තිබුණි.
+🟩
 
-ඒ අනුව විමර්ශන සිදුකළ නිලධාරීන්ට දැනගැනීමට හැකිව ඇත්තේ එහි අධ්‍යක්ෂවරයා, සිය බිරිය හා දරුවා සමග නීතිවිරෝධී අයුරින් බෝට්ටුවක් මගින් 2021 වසරේදී ඉන්දියාවට පළාගොස් ඇති බවය.
+A couple who fled the country with a sum of Rs.
 
-අනතුරුව සැකකරුවන්ට එරෙහිව ජාත්‍යන්තර පොලීසිය හරහා රතු නිවේදන නිකුත් කළ අතර, එහිදී සිදුකළ සොයාබැලීමේදී අනාවරණ වී ඇත්තේ, සැකකරු සිය පවුලද සමග ඉන්දියාවේ වේදනායගම් ප්‍රදේශයට ගොඩබැසීමේදී එරට ආරක්ෂක අංශ මගින් අත්අඩංගුවට ගෙන ඇති බවයි.
+The Financial Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received several complaints that the Financial Institute of Global Priva Limited has said he has cheated about Rs.
 
-අනතුරුව ඔවුන් වසර තුනක පමණ කාලයක් එරට රැඳවුම් භාරයේ සිට ඇති අතර‍, ඊයේ (26) දිනයේදී මෙරටට පිටුවහල් කර තිබේ.
+Accordingly, the officers who investigated the investigation have come to know that the director has fled to India in 2021 through a boat with his wife and child.
+
+The suspect had been released through the international police against the suspects, and the suspect had been arrested by the security forces with his family in Papidayakam area with his family.
+
+They were then deported in the country for about three years and deported to Sri Lanka yesterday (26).
+
+First, the owner of the relevant institution and his 14-year-old son was arrested by the CID at the Katunayake Airport.
+
+His wife was upset in India, saying he could not come to the country and then sent her by another plane.
 
 ...
 
 [Data](articles/5a157ffb.json)
+
+[Extended Data](ext_articles/5a157ffb.ext.json)
 
 ---
 

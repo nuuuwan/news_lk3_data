@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 11:27:27**
+As of **2024-12-27 11:44:01**
 
 ## Newspaper Stats
 
-*Scraped **62,252** Articles*
+*Scraped **62,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 458
 colombotelegraphcom | 629
 bbccomsinhala | 657
 islandlk | 3,775
-economynextcom | 3,785
+economynextcom | 3,791
 dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,946
 adaderanalk | 7,597
-tamilmirrorlk | 8,934
+tamilmirrorlk | 8,935
 virakesarilk | 10,307
 adaderanasinhalalk | 10,750
 
@@ -26,25 +26,59 @@ adaderanasinhalalk | 10,750
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,731 (99.2%) of 62,252 articles have been extended.
+61,733 (99.2%) of 62,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
 
-### போதையில் வாகனத்தை செலுத்தினால் இரத்து
+### The shortage for essentials will last further
+
+*2024-12-27 11:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-பொருட்களுக்கான-தட்டுப்பாடு-மேலும்-நீடிக்கும்/175-349380) · `ta`
+
+Essential shortages persist: Rice scarcity continues, prices unchanged. Provincial officials promise action within a month.
+
+🟩
+
+Provincial Councils and Local Government Deputy Minister Ruwan Senarath said yesterday that the shortage for the essential commodity, including Risi, will last a further month.
+
+Today, many complain that the shortage of rice has not been eliminated and the price of goods has not been reduced.
+
+We accept that there is a shortage of essentials. We have received clarity related to this. The last government must take responsibility for this.
+
+Provincial Councils and Local Government Deputy Minister Ruwan Senarath said that action will be taken to rectify the situation soon.. Remble
+
+◼️
+
+[Data](articles/742e45e8.json)
+
+[Extended Data](ext_articles/742e45e8.ext.json)
+
+---
+
+### Cancel
 
 *2024-12-27 10:59:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-வாகனத்தை-செலுத்தினால்-இரத்து/175-349379) · `ta`
 
-குடிபோதையில் வாகனம் ஓட்டியதற்காக கைது செய்யப்படும் சாரதிகளின் சாரதி அனுமதிப்பத்திரத்தை ஓராண்டுக்கு இடைநிறுத்துமாறு அல்லது சாரதி அனுமதிப் பத்திரத்தை ரத்து செய்யுமாறு நீதிமன்றில் கோருவதற்கு பொலிஸார் நடவடிக்கை எடுத்து வருவதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+Police cracking down on drunk driving: License suspension, increased fines, and nationwide crackdown. 395 drivers caught in 24 hours, along with other traffic violators. Enforcement ongoing since 20th.
 
-மதுபோதையில் சாரதிகள் அடிக்கடி வாகனங்களை செலுத்துவதை காணக்கூடியதாக உள்ளதாகவும், இது தொடர்பாக அபராதம் அதிகரிக்கப்பட்டால் இந்த நிலைமையை கட்டுப்படுத்த முடியும் என நம்புவதாகவும் அந்த அதிகாரி தெரிவித்தார்.
+🟩
 
-நாடளாவிய ரீதியில் போக்குவரத்து விதிமீறல்களில் ஈடுபடும் சாரதிகளை பிடிக்கும் நடவடிக்கை மேற்கொள்ளப்பட்டு வருவதாக தெரிவித்த அதிகாரி, வியாழக்கிழமை (26) காலை 6.00 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில்  மதுபோதையில் வாகனம் செலுத்திய 395 சாரதிகளுக்கு எதிராக சட்டம் அமுல்படுத்தப்பட்டு உள்ளதாகவும் குறிப்பிட்டார்
+A senior police official said that the police are taking steps to suspend the driver's license for a drunken driver for a year or to cancel the driver's license.
 
-...
+The official said that the drivers of alcohol are often able to find vehicles and hopes to control the situation if the fines are increased.
+
+The official said that action is being taken to catch drivers who are engaged in traffic violations nationwide and said that the law has been implemented against 395 drivers who drove the liquor driver in 24 hours at 6.00 am on Thursday (26).
+
+In the same 24 hours, 50 drivers for driving, 120 drivers, 1,262 drivers for traffic violations, 682 drivers have been filed for licensing and 5,441 drivers.. The official said the law was implemented against 7,950.
+
+The official added that the move, which began on the 20th of this month, will continue.
+
+◼️
 
 [Data](articles/8eed8b74.json)
+
+[Extended Data](ext_articles/8eed8b74.ext.json)
 
 ---
 
@@ -72,6 +106,28 @@ The Railway Control Room will leave the Fort Railway Station at 7.30 pm and tomo
 
 ---
 
+### African swine fever starts killing Sri Lanka’s wild boars
+
+*2024-12-27 10:48:00* · [`economynextcom`](https://economynext.com/african-swine-fever-starts-killing-sri-lankas-wild-boars-196538/) · `en`
+
+ECONOMYNEXT – African swine fever which devasted Sri Lanka’s pig farms especially in the Western province has now spread to the island’s wild boar population, with animals in forest reserves starting to die, a media report said.
+
+Dead wild boars have been found in forested areas in Gampaha, Meerigma, Peradeniya and Moneragala as well as the Yala National Park, Sri Lanka’s Daily Mirror newspaper quoted Tharaka Prasad, Director, Wildlife Health at the Department of Wildlife Conservation.
+
+“We found both swine flu and porcine reproductive and respiratory syndrome,” Prasad said.
+
+“The last one is not that dangerous because its mortality rate is low. Swine fever is totally fatal for the animals of the porcine family. It is highly contagious.”
+
+He said there was no accurate number of the dead but mortality rate was very high, posing a serious threat to the wild boar population.
+
+The most virulent form of the disease has mortality rates as high as 100 percent.
+
+...
+
+[Data](articles/2d8a85eb.json)
+
+---
+
 ### கடலில் மூழ்கிய ஐவர் மீட்பு
 
 *2024-12-27 10:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மூழ்கிய-ஐவர்-மீட்பு/175-349377) · `ta`
@@ -87,6 +143,26 @@ The Railway Control Room will leave the Fort Railway Station at 7.30 pm and tomo
 ◼️
 
 [Data](articles/a1b69e93.json)
+
+---
+
+### Sri Lanka’s Asia Siyaka buys fertilizer startup, to give billion rupee loan guarantee
+
+*2024-12-27 10:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-siyaka-buys-fertilizer-startup-to-give-billion-rupee-loan-guarantee-196532/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Asia Siyaka Commodities Plc, a tea broking firm said it had gained control AgriOne Solutions (Pvt) Limited, a fertilizer startup, spending 178.5 million rupees and will invest a further 76.5 million rupees in the firm taking the total to 255 million rupees.
+
+Asia Siyake had gained 55.87 percent control of AgriOne in December 24, following an agreement entered to with Andaradeniya Estate Management (Pvt) Ltd and Saman Buddiha Rajapaksa for 178.5 million rupees.
+
+A further 76.5 million rupees will be invested “on a staggered basis”, Asia Siyake said in a stock exchange filing.
+
+With other shareholders also making investments, Asia Siyake stake in AgriOne will fall to 51 percent.
+
+Asia Siyake said it will also give corporate guarantees of one billion rupees for AgriOne to get import loans. (Colombo/Dec27/2024)
+
+◼️
+
+[Data](articles/4934a533.json)
 
 ---
 
@@ -183,6 +259,32 @@ He was admitted to the Jaffna Bodhana Hospital for treatment on the 24th followi
 [Data](articles/da860e22.json)
 
 [Extended Data](ext_articles/da860e22.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 293.30/60 to US dollar, bonds steady
+
+*2024-12-27 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-293-30-60-to-us-dollar-bonds-steady-196511/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated at 293.30/60 to the US dollar in the spot market, from 294.00/15 on Thursday, while bond yields were broadly steady, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.42/55 percent, from 9.40/55 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, down from 10.08/18 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.35/45 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.65/75 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.00/10 percent, down from 11.00/15 percent.
+
+In equities, the All Share Price Index was up 0.19 percent or 28.58 points, at 15,429.
+
+The more liquid S&P SL20 was up 0.17 percent, or 7.75 points, at 4,610.
+
+◼️
+
+[Data](articles/43e355fc.json)
 
 ---
 
@@ -448,6 +550,28 @@ According to Article 12 of the Public Security Ordinance, the Armed Forces have 
 
 ---
 
+### Indian Anadrone Shikra drone caught by Sri Lanka fisherman
+
+*2024-12-27 08:18:00* · [`economynextcom`](https://economynext.com/indian-anadrone-shikra-drone-caught-by-sri-lanka-fisherman-196494/) · `en`
+
+ECONOMYNEXT – A jet powered target drone, bearing the marking of the Indian manufacturer Anadrone has been found by a fisherman off Sri Lanka’s Eastern coast, a media report said.
+
+The drone was found floating 36 kilometres off Trincomalee in the island’s Eastern waters, the fisherman told Sri Lanka’s Hiru news.
+
+“We found it in the sea near some fish were swimming,” he said. “After we finished fishing, I took the object on board and brought it ashore. Then I informed the police and they said they will inform the Navy.
+
+The words, Shikra, target can also be seen on wings of the drone, as well as Anadrone on the tail fin.
+
+Similar drones are produced by Anadrone Systems Pvt Ltd, an unmanned vehicle manufacturer, according to its website.
+
+“Anadrone Systems Pvt Ltd is a forward-thinking defense company headquartered in India, specializing in the design, development, and deployment of advanced unmanned aerial systems (UAS) and defense technologies,” its website says.
+
+...
+
+[Data](articles/02f1e4f2.json)
+
+---
+
 ### China's Tansuo 3 begins the wedding journey
 
 *2024-12-27 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204762) · `si`
@@ -477,6 +601,30 @@ This is especially that the deeper dives with human deepest dives are not only i
 [Data](articles/530a3086.json)
 
 [Extended Data](ext_articles/530a3086.ext.json)
+
+---
+
+### Sri Lanka withholding tax hike on bank deposits is deductible, not final: Minister
+
+*2024-12-27 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-withholding-tax-hike-on-bank-deposits-is-deductible-not-final-minister-196484/) · `en`
+
+ECONOMYNEXT – A hike in Sri Lanka’s bank deposits is a tax credit that can be deducted when a person files an income tax return and it is not an increase in the final income tax, Deputy Finance Minister Anil Jayantha said.
+
+“This a tax credit that can be deducted when a tax return is filed,” Minister Jayantha told reporters in Colombo.
+
+“If a person who is below the 150,000 threshold had the 5 percent tax deducted, they will usually not request a refund, and will end up paying the tax.
+
+“A person who was below the threshold and earned 10 to 15,000 in interest should not pay the withholding tax.
+
+There were also large depositors who paid only 5 percent tax and did not have a tax file, he said.
+
+If they filed a return, they can set the WHT on deposits against their income tax liability.
+
+The withholding tax increase is an attempt to increase compliance and improve tax administration he said.
+
+...
+
+[Data](articles/eed9c36f.json)
 
 ---
 
@@ -971,6 +1119,28 @@ The terrified King and his acolytes were unable to read and understand what had 
 ...
 
 [Data](articles/a69a7065.json)
+
+---
+
+### Sri Lanka’s two millionth tourist in 2024 arrives from Bangkok on SriLankan
+
+*2024-12-27 00:05:00* · [`economynextcom`](https://economynext.com/sri-lankas-two-millionth-tourist-in-2024-arrives-from-bangkok-on-srilankan-196481/) · `en`
+
+ECONOMYNEXT  – Sri Lanka ceremonially welcomed the two millionth tourist to arrive in the country on December 26, who arrived on a Sri Lankan Airlines flight a government statement said.
+
+He was greeted by Deputy Minister of Tourism Ruwan Ranasinghe, along with the Chairman of the Sri Lanka Tourism Promotion Bureau, Buddhika Hewawasam.
+
+Sri Lanka welcomed 2.3 million tourists in 2018, but the numbers fell from then on due to Easter Sunday bombings, the Covid pandemic and in 2022 due to a currency crisis coming from central bank rate cuts enforced with printed money.
+
+As of December 26, 195,127 tourists have arrived in December alone.
+
+Authorities expect 256,389 tourist to land in the country by the year end which will take the total for the year to 2.061 million.
+
+Sri Lanka originally project arrivals of 2.3 million, but the shift to website operated by VFS Global, IVS-GBS, despite protests from the tourist industry against scrapping an easy-to-use existing system, led to a crisis in the sector.
+
+...
+
+[Data](articles/4aa0d535.json)
 
 ---
 
@@ -2115,195 +2285,5 @@ Top positive contributors to the ASPI were LOLC Holdings (up at 665.00), Hatton 
 [Data](articles/3eb6a5d1.json)
 
 [Extended Data](ext_articles/3eb6a5d1.ext.json)
-
----
-
-### CSE continues upward momentum with new all-time high
-
-*2024-12-26 16:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104509/cse-continues-upward-momentum-with-new-all-time-high) · `en`
-
-The All Share Price Index (ASPI) of the Colombo Stock Exchange has gained 232.13 points today to close at 15,400.53 points, a new all-time high.
-
-This marks an increase of 1.53 percent since the previous close.
-
-Meanwhile, the S&P SL20 has moved up by 67.15 points to close at 4,602.40 points, an increase of 1.48 percent.
-
-Today’s turnover is recorded as over Rs. 7 billion while the total number of shares traded is over 534 million.
-
-◼️
-
-[Data](articles/cb69889b.json)
-
-[Extended Data](ext_articles/cb69889b.ext.json)
-
----
-
-### Stock market still rises
-
-*2024-12-26 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204746) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Colombo Stock Exchange ASPI increases by 232.13 points, reaching 15,400.53. Market continues upward trend.
-
-🟩
-
-All Stock Price Index (ASPI) increased by 232.13 of the Colombo Stock Exchange (26).
-
-At the end of transactions, all stock price index recorded value of 15,400.53 points.
-
-◼️
-
-[Data](articles/9bc8cf91.json)
-
-[Extended Data](ext_articles/9bc8cf91.ext.json)
-
----
-
-### Stock market in a massive growth today
-
-*2024-12-26 15:53:14* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-දැවැන්ත-වර්ධනයක/11-413854) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Market surge: Colombo Stock Exchange rises 232 points to 15,400. S&P 4602, high turnover Rs. 7 billion."
-
-🟩
-
-Colombo Stock Exchange showed massive growth today. The total stock price index increased by 232 units and rose to 15 400 overall units.
-
-Also S. And. P. The price index has increased by 67 points to 4602 points.The market turnover was high, such as Rs. 7 billion.
-
-◼️
-
-[Data](articles/6813d19f.json)
-
-[Extended Data](ext_articles/6813d19f.ext.json)
-
----
-
-### I still remember what I thought my story ended with this "20 years ago
-
-*2024-12-26 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202208) · `ta`
-
-Here's a 200-character summary of the text:
-
-
-
-"Survivor recalls 2004 tsunami horror: swept by waves, injured, trapped in hostel. Still haunted by nightmares 20 years later."
-
-🟩
-
-Two of the Channel Island have expressed their views to the BBC about the 2004 tsunami and its 20 years.
-
-The tsunami, which is considered the most terrible tsunami in history, hit the Indian Ocean in 2004. The tsunami killed 225,000 people and displaced more than 1.7 million.
-
-At the same time, Grand Beltam had gone there to help the Sri Lankan people after the natural disaster.
-
-Robby says that I remember the moment I thought I was going to die.
-
-Robby was eating breakfast with his colleague Jean Brichord on the beach of Unawaduna.
-
-“The tsunami waves carried me through the forests and felt like it was caught in the laundry machine, he says.
-
-'Well, I still remember what I thought my story ended with this, I don't think of death at the age of 46 "
-
-"I firmly believed that my last moment had come," he added, adding that he added, "You will not think about anything else except that the shock is so strong.
-
-...
-
-[Data](articles/8d7de168.json)
-
-[Extended Data](ext_articles/8d7de168.ext.json)
-
----
-
-### Paraliya Tsunami Celebration
-
-*2024-12-26 15:36:32* · [`adalk`](https://www.ada.lk/picture_story/පැරූලිය-සුනාමි-සැමරුම/10-413853) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Paraliya Tsunami Celebration: Thousands attended memorial at tsunami monument. Train crash commemorated with silence and prayers. Buddhist and Hindu rituals performed.
-
-🟩
-
-Tsunami celebration of thousands of years ago, the 20th Tsunami celebration was held at the time of the paradium in the paragraph of thousands of years ago. A train with a train compartment to the tsunami sea was started from the Fort Railway Station yesterday.
-
-The Tsunami Memorial was taken in front of the Tsunami monument in the area of ​​the Tsunamaya, who had been identified by families.. The Tsunami celebration was established at 9.26 am.
-
-The village was organized by the Birth of the Brief Affairs Birth, Paraliya and the Athlomeland of Sri Lanka.The Assistant Principal of the Payagala Bandaranaike College, Assistant Principal of the Payagala Bandaranaike, was made to claim the acceptance and purpose.
-
-...
-
-[Data](articles/75bf043a.json)
-
-[Extended Data](ext_articles/75bf043a.ext.json)
-
----
-
-### Murder
-
-*2024-12-26 15:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-வன்புணர்ந்து-படு-கொலை-நபருக்கு-விளக்கமறியல்-நீடிப்பு/175-349328) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-55-year-old man arrested for murdering 10-year-old girl in Talaimannar. Girl went missing Feb 15, found dead next day. Suspect worked in garden, escaped hospital but rearrested. Case ongoing.
-
-🟩
-
-The Mannar court on Thursday (26) ordered a 55 -year -old man to be arrested in connection with the murder of a 10 -year -old girl in the village of Tala Mannar Urmana last year.
-
-A 10 -year -old girl in the village of Talaimannar has fled after being arrested and kept in interrogation for allegedly sexually abusing and murdering a girl.
-
-He was arrested by police on Sunday (15) in Kuchchaveli area in Trincomalee.. They then handed him over to the Talaimannar police.
-
-The Talaimannar police detained and appeared at the Mannar court last Monday (16). He ordered the suspect to be remanded until December 26.
-
-In this case, the suspect was produced before the Mannar Court on Thursday (26).
-
-A 10 -year -old girl from the village who went missing on the evening of February 15 in Talaimannar Urmanai village was found dead on the morning of the 16th of the day from the coconut grove, about 300 meters away from her mother's home.
-
-...
-
-[Data](articles/aa7cda2a.json)
-
-[Extended Data](ext_articles/aa7cda2a.ext.json)
-
----
-
-### The corpse recovery in a vehicle burned in a vehicle
-
-*2024-12-26 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202204) · `ta`
-
-Body found in burning vehicle near Habarana-Polonnaruwa road. Police investigating murder theory. Firefighters extinguished blaze. Vehicle registered in Colombo.
-
-🟩
-
-A body of a body was burnt in a cab vehicle near the 38th kilometer pillar on the Habarana - Polonnaruwa main road on Wednesday night.
-
-A man who was traveling on the Habarana road was reported to the Minneriya police that a keb vehicle was burning in a fire.
-
-The Keb vehicle was parked towards Habarana and the fire broke out at around 10 pm and the body was only in the vehicle, Minneriya police said.
-
-Police suspect that a person was murdered and loaded into the carriage and brought the car to the area.
-
-The Minoria Police and the fire department officials of the Polonnaruwa Municipal Council have come and extinguished the fire in a great effort.
-
-In addition, police have found that the fire cab belonged to a Colombo area and further investigations are underway into the incident.
-
-◼️
-
-[Data](articles/302f52bb.json)
-
-[Extended Data](ext_articles/302f52bb.ext.json)
 
 ---

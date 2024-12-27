@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-27 16:42:54**
+As of **2024-12-27 17:12:30**
 
 ## Newspaper Stats
 
-*Scraped **62,287** Articles*
+*Scraped **62,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,318
 dailymirrorlk | 4,733
 adalk | 5,951
 adaderanalk | 7,602
-tamilmirrorlk | 8,938
+tamilmirrorlk | 8,939
 virakesarilk | 10,316
 adaderanasinhalalk | 10,756
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,756
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,748 (99.1%) of 62,287 articles have been extended.
+61,750 (99.1%) of 62,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-27 (Friday)
+
+### மன்மோகன் சிங்கின் மறைவுக்கு ஜனாதிபதி இரங்கல்
+
+*2024-12-27 16:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்மோகன்-சிங்கின்-மறைவுக்கு-ஜனாதிபதி-இரங்கல்/175-349384) · `ta`
+
+மறைந்த இந்தியாவின் முன்னாள் பிரதமர் மன்மோகன் சிங்கின் மறைவுக்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது 'எக்ஸ்' தளத்தில்  இரங்கல் தெரிவித்துள்ளார்.
+
+“இந்திய குடியரசிற்கும், மன்மோகன் சிங்கின் குடும்பத்தினருக்கும், உலகெங்கிலும் உள்ள அவரது எண்ணற்ற அபிமானிகளுக்கும் இலங்கை மக்கள் சார்பாகவும், என் சார்பாகவும் எனது ஆழ்ந்த இரங்கலைத் தெரிவித்துக் கொள்கிறேன்.
+
+தொலைநோக்கு பார்வை கொண்ட தலைவரான மன்மோகன் சிங்கின் செல்வாக்கு தேசிய எல்லைகளை கடந்தது. 2004 முதல் 2014 வரை பிரதமராக இருந்தபோது, ​​கல்விக்கான உரிமைச் சட்டம் மற்றும் மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதித் திட்டம் போன்ற அவரது உருமாற்றக் கொள்கைகள், சமபங்கு மற்றும் உள்ளடக்கத்தில் அவரது உறுதியான உறுதிப்பாட்டை பிரதிபலித்தது.
+
+...
+
+[Data](articles/7932ec90.json)
+
+---
 
 ### Former MP Lalith Ellawala quits politics
 
@@ -244,6 +260,8 @@ The DP-controlled parliament backed three nominees on Thursday, but Han said he 
 
 [Data](articles/f4eb514a.json)
 
+[Extended Data](ext_articles/f4eb514a.ext.json)
+
 ---
 
 ### India declares 7-day mourning for Manmohan Singh; Karnataka, Telangana announce holiday
@@ -259,6 +277,8 @@ State chief ministers expressed their condolences on the passing away of former 
 ...
 
 [Data](articles/bb7e1970.json)
+
+[Extended Data](ext_articles/bb7e1970.ext.json)
 
 ---
 
@@ -2203,27 +2223,5 @@ The Thald Padaya Chairman of the Palrith and Member of Parliament, Minister Rama
 ◼️
 
 [Data](articles/8effe4f3.json)
-
----
-
-### ලංකාව හැඩය ගත් මැණිකක් සොයා ගනියි
-
-*2024-12-26 18:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-හැඩය-ගත්-මැණිකක්-සොයා-ගනියි/11-413863) · `si`
-
-ලංකාව හැඩය ඇති හැඩයෙන් දුර්ලභ ස්වභාවික නිල් මැණිකක් තමන් විසින් මිලදී ගත් බව රත්නපුර නිවිතිගල ප්‍රදේශයේ මැණික් ව්‍යාපාරිකයෙක් ඊයේ (26දා) පැවසුවේය.
-
-මෙම නිල් මැණික තමන් කරවිට ප්‍රදේශයේ මැණික් ගරන තැනැත්තෙකුගෙන් මිලදි ගත් බව යක්දෙහිවත්ත ප්‍රදේශයේ පදිංචි රොහාන් වසන්ත දිසානායක මහතා පැවසුවේය.
-
-මෙම නිල් මැණික දෙස එකවර බැලුවිට එය පෙනෙන්නේ ලංකාවේ භූමි සැලසුමය. යාපන අර්ධද්වීපය වෙන්ව ඇති සිටි මැනවින් දිස් වෙයි. මන්නාරමේ පිහිටීමද ඒ ආකාරයෙන්ම දිස්වෙයි. ත්‍රිකුණාමලය මෙන්ම ලංකාවේ සිව් දිසාවම ඒ ආකාරයෙන් දිස් වෙයි.
-
-ඔහු  මැණික් හා ස්වර්ණාභරණ අධිකාරියට එම මැණික් ගල ඉදිරිපත් කර  හඳුනාගැනීමේ පරීක්ෂණ වාර්තාවක් ඉකුත් 24 දින ලබාගෙන තිබේ.
-
-මේ සම්බන්ධයෙන් අදහස් දැක්වූ මැණික් ව්‍යාපාරික රොහාන් වසන්ත දිසානායක මහතා මෙසේ කීය.
-
-“මෙවැනි මැණික් වර්ග දුර්ලභයි. දුර්ලභ වර්ගයේ පිහිටීම් ඇති ස්වාභාවික මැණික් එකතු කරන කෙනෙකුට මේ ගල ඉතාම වටිනවා. මේ ගල කපා ඔප දැමීමට මගේ අදහසක් නෑ.
-
-...
-
-[Data](articles/35c6e2f7.json)
 
 ---

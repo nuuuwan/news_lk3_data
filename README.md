@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 10:15:06**
+As of **2024-12-28 10:27:31**
 
 ## Newspaper Stats
 
-*Scraped **62,383** Articles*
+*Scraped **62,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 5,957
 adaderanalk | 7,612
 tamilmirrorlk | 8,949
 virakesarilk | 10,342
-adaderanasinhalalk | 10,770
+adaderanasinhalalk | 10,771
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,799 (99.1%) of 62,383 articles have been extended.
+61,800 (99.1%) of 62,384 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,17 +54,23 @@ When the procession reaches the Nikambod Gad area on the banks of the Yamuna Riv
 
 ---
 
-### நாளாந்தம் 300 மெட்ரிக் டொன் அரிசி வெளியீடு
+### Release of 300 metric ton rice daily
 
 *2024-12-28 09:40:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளாந்தம்-300-மெட்ரிக்-டொன்-அரிசி-வெளியீடு/175-349394) · `ta`
 
-சதொச விற்பனை நிலையங்கள் மூலம் நாளாந்தம் 300 மெற்றிக் தொன் அரிசி சந்தைக்கு வெளியிடப்படுவதாக, லங்கா சதொச லிமிடெட் நிறுவனத்தின் தலைவர் சமித்த பெரேரா தெரிவித்தார்.
+Sri Lanka: 300 metric tons of rice released daily via Sathosa outlets. Chairman Samitha Perera balances supporting local farmers with addressing import challenges.
 
-உள்ளூர் விவசாயிகளைப் பாதுகாக்கும் அதே வேளையில், அரிசி இறக்குமதிக்கான அவசரகால பதில் திட்டத்தை வகுப்பதில் உள்ள சவால்களையும் அவர் வலியுறுத்தினார்.AN
+🟩
+
+Sri Lanka Sathosa Limited Chairman Samitha Perera said that 300 metric tonnes of rice is being released daily through Sathosa outlets.
+
+While protecting local farmers, he also emphasized the challenges in building an emergency response plan for rice imports.
 
 ◼️
 
 [Data](articles/d6f2e98a.json)
+
+[Extended Data](ext_articles/d6f2e98a.ext.json)
 
 ---
 
@@ -95,6 +101,22 @@ They had allegedly solicited the bribe on the promise of expediting compensation
 ◼️
 
 [Data](articles/6658bddc.json)
+
+---
+
+### මිලියන 9ක අල්ලසක් ගත් ව්‍යාපාරිකයන් දෙදෙනෙක් කොටුවෙයි
+
+*2024-12-28 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204786) · `si`
+
+රුපියල් මිලියන 9ක අල්ලසක් ලබාගැනීමේ සිද්ධියක් සම්බන්ධයෙන් ව්‍යාපාරිකයන් දෙදෙනෙක් පිටකෝට්ටේ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අල්ලස් කොමිසම පැවසුවේ වෙනත් ව්‍යාපාරිකයෙකුගෙන් එම අල්ලස ලබාගන්නා අවස්ථාවේදී ඔවුන් දෙදෙනාව අත්අඩංගුවට ගත් බවයි.
+
+නාගරික සංවර්ධන අධිකාරිය මගින් අත්පත් කරගත් එම ව්‍යාපාරිකයාගේ ඥාතියෙකුගේ ඉඩමක් වෙනුවෙන් වන්දි ලබාදීම කඩිනම් කරන බවට පොරොන්දු වී එම අල්ලස ලබාගෙන ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/6360475c.json)
 
 ---
 
@@ -2133,35 +2155,5 @@ His wife was upset in India, saying he could not come to the country and then se
 [Data](articles/5a157ffb.json)
 
 [Extended Data](ext_articles/5a157ffb.ext.json)
-
----
-
-### Lalith cache by politics
-
-*2024-12-27 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204768) · `si`
-
-Here's a 200-character summary:
-
-
-
-Lalith Ellawala quits politics citing lack of unity, dictatorial control, and favoritism in party selection. He criticizes the current leadership and decides to leave all political posts.
-
-🟩
-
-Former Kalutara district MP Lalith Ellawala said he was leaving politics today (27).
-
-"We're not looking forward to the animation. It's no unity in this to say that the harmony power. There's a great dictatorial control. Won't allow someone to do something to do here. "
-
-"For example, the Secretary.. Only the Secretary's name was called to the national list. "
-
-"When the harmony force is a little later, the elephant is like a heil."
-
-"Because of these things, I will leave all the posts of the protocol. I decided to dominate my politics. "
-
-◼️
-
-[Data](articles/450b652d.json)
-
-[Extended Data](ext_articles/450b652d.ext.json)
 
 ---

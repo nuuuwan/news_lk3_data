@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 16:01:49**
+As of **2024-12-28 16:27:26**
 
 ## Newspaper Stats
 
-*Scraped **62,429** Articles*
+*Scraped **62,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,785
 economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,960
+adalk | 5,961
 adaderanalk | 7,621
-tamilmirrorlk | 8,951
+tamilmirrorlk | 8,953
 virakesarilk | 10,358
 adaderanasinhalalk | 10,782
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 10,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,816 (99.0%) of 62,429 articles have been extended.
+61,818 (99.0%) of 62,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### CVK Sivagnanam became the leader of the Tamil National Party's interim response
+
+*2024-12-28 15:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தமிழரசுக்-கட்சியின்-இடைக்கால-பதில்-தலைவரானார்-சீ-வி-கே-சிவஞானம்/72-349400) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+CVK Sivagnanam leads Tamil National Party interim response. MA Sumanthiran appointed leader of Tamil party political committee. Party decides unanimously without referendum.
+
+🟩
+
+MA Sumanthiran has announced that the Central Committee of the TNA has decided to act as the leader of the Tamil party's political committee.
+
+Sumanthiran said a document was handed over to the House, despite many arguments in this regard.
+
+They had asked for the benefit of the Mawaisenathiraja Party to ensure his resignation without tarnishing his reputation.
+
+There was also ideas against it. In the end, the party has unanimously made a decision.
+
+MA Sumanthiran said he would continue to act as the leader of the Mavaisenathiraja Party's political committee.
+
+He pointed out that if the party leader resigns, another person should be appointed.
+
+Senior Vice President of the party, CVKK. President's Attorney MA Sumanthiran said that Sivagnanam has been unanimously decided without a referendum.. Remble
+
+◼️
+
+[Data](articles/fc326f00.json)
+
+[Extended Data](ext_articles/fc326f00.ext.json)
+
+---
+
+### முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் சகோதரர் கைது
+
+*2024-12-28 15:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-மனுஷ-நாணயக்காரவின்-சகோதரர்-கைது/175-349399) · `ta`
+
+முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் சகோதரர் நிதி மோசடி குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளார்.
+
+குற்றப் புலனாய்வுப் பிரிவினரால் பிபிலையில் வைத்து இவர் கைது செய்யப்பட்டதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/b748ea73.json)
+
+---
 
 ### Gazette issued stipulating maximum price for canned fish
 
@@ -47,6 +95,8 @@ The maximum retail prices of the types of canned fish are as below:
 ◼️
 
 [Data](articles/0ac231e3.json)
+
+[Extended Data](ext_articles/0ac231e3.ext.json)
 
 ---
 
@@ -125,6 +175,20 @@ The suspect will be produced before the Gampaha Magistrate’s Court, the Police
 ...
 
 [Data](articles/36fb5504.json)
+
+---
+
+### යෝෂිත රාජපක්ෂට සී.අයි.ඩී.යෙන් කැඳවීමක්
+
+*2024-12-28 15:09:41* · [`adalk`](https://www.ada.lk/breaking_news/යෝෂිත-රාජපක්ෂට-සී-අයි-ඩී-යෙන්-කැඳවීමක්/11-413881) · `si`
+
+යෝෂිත රාජපක්ෂ මහතාට ලබන ජනවාරි 03 වැනිදා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස දැනුම් දී තිබේ.
+
+අයතා ලෙස වත්කම් ඉපයිමේ චෝදනාව මත මෙලෙස ඔහුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා ඇත.
+
+◼️
+
+[Data](articles/ffc4c4da.json)
 
 ---
 
@@ -2015,69 +2079,5 @@ The stone scopolite Gates is known during research as the solar system as Scopol
 [Data](articles/b454e263.json)
 
 [Extended Data](ext_articles/b454e263.ext.json)
-
----
-
-### 500 megawatts of renewable energy in the next year
-
-*2024-12-27 19:15:35* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-වසර-දෙකේදි-පුනර්ජනනීය-බලශක්තියෙන්-මෙගා-වොට්-500ක්/11-413875) · `si`
-
-Sri Lanka aims to generate 500MW of renewable energy within a year, balancing costs and fostering private sector investment. The government plans to collaborate with investors to achieve this target, addressing challenges through immediate solutions.
-
-🟩
-
-"We have the aim of providing energy at a reasonable price of the region as a country where the region bears the over energy costs of the region. To develop the country needs to do it. We have a great hope for renewable energy.
-
-The private sector provides enough room to invest in the power generation. We will take action to follow both parties that will win both the government and investors. As a government that understands the values ​​and expectations of the income and prospects, we are solved with immediate solutions to their problems and act in the country's energy targets, "said Minister of Engineering Kumara Jayakody.
-
-The Minister made these comments at the progress of the Central and Large Renewable Energy Authority (SL and large-scale energy authority) implemented under the Sri Lanka Sustainable Energy Authority (SLIC) under the Sri Lanka Sustainable Energy Authority (SL and).
-
-...
-
-[Data](articles/9eab6ce0.json)
-
-[Extended Data](ext_articles/9eab6ce0.ext.json)
-
----
-
-### The Second Term Of Donald Trump: What Could We Expect?
-
-*2024-12-27 18:49:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-second-term-of-donald-trump-what-could-we-expect/) · `en`
-
-[This article is based on a talk given to the members of the Sri Lanka Foreign Service Association on the 10th of December, 2024]
-
-I was invited to address you today on the topic of what the second coming of Donald Trump as President of the United States holds for the United States and the wider world outside of its shores. I was also requested to explain to you the Electoral College process by which a president is elected in the United States. This is a process that baffles even those familiar with the United States and the way its institutions function, as it is markedly different from the way in which other democracies elect their presidents and prime ministers.
-
-I shall try my very best to not confuse you in my attempt to explain the manner in which the POTUS, to use the abbreviation for the President of the United States first used by telegraphic code operators in the 1890s, is elected.
-
-...
-
-[Data](articles/68a41ffc.json)
-
----
-
-### Kilinochchi District Media Corporation condemns the abduction of journalist Thamilchelvan
-
-*2024-12-27 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202330) · `ta`
-
-Kilinochchi Media Corp condemns journalist Thamilchelvan's abduction & assault. Incident occurred Dec 26, 2024, on A9 road. Thamilchelvan, media center sec'y, was attacked after resisting kidnapping. He's hospitalized. Police investigating. Attack threatens press freedom & journalist safety.
-
-🟩
-
-The Kilinochchi Media Association has strongly condemned the abduction and assault of independent journalist Murugaiah Thamizhelvan in Kilinochchi.
-
-Wednesday (25) vehicle arrives attempted to be abducted. After Thamilchelvan fought, the kidnappers attacked him and fled and fled.The incident took place on Thursday (26.12.2024) at 5.00 pm on the Kilinochchi A9 road.
-
-Murugaiah Thamizhelvan, the secretary of our Media Center and Independent Journalist, has forced him to interrupt his vehicle on the way back home yesterday evening.. When Thamilchelvan fought against this, the kidnappers had attacked Thamilchelvan and fled.
-
-Subsequently, Thamilchelvan is being admitted to the Kilinochchi District Hospital. Police are investigating the matter.
-
-The attack on Thamilchelvan, which provides news and news articles against political disadvantages, social issues, administrative irregularities, corruption, environmental disorders, illegal activities, and drugs, are skeptical to disrupt his tasks.
-
-...
-
-[Data](articles/32fdd9bc.json)
-
-[Extended Data](ext_articles/32fdd9bc.ext.json)
 
 ---

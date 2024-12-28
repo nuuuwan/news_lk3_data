@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 02:43:24**
+As of **2024-12-29 03:12:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,849 (99.0%) of 62,466 articles have been extended.
+61,850 (99.0%) of 62,466 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -878,15 +878,25 @@ The maximum retail prices of the types of canned fish are as below:
 
 ---
 
-### ටින් කළ මාළු වර්ග සඳහා උපරිම සිල්ලර මිලක්
+### Maximum retail price for canned fish types
 
 *2024-12-28 15:39:31* · [`adalk`](https://www.ada.lk/breaking_news/ටින්-කළ-මාළු-වර්ග-සඳහා-උපරිම-සිල්ලර-මිලක්/11-413883) · `si`
 
-ටින් කළ මාළු වර්ග සඳහා උපරිස සිල්ලර මිලක් නියම කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary of 200 characters:
+
+
+
+Special Gazette Notification: Sub-Retail Price Canned Fish Maximum Retail Price
+
+🟩
+
+A special gazette notification has been issued on a sub-retail price for canned fish.
 
 ◼️
 
 [Data](articles/dca88cfe.json)
+
+[Extended Data](ext_articles/dca88cfe.ext.json)
 
 ---
 

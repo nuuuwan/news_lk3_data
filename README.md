@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 00:03:00**
+As of **2024-12-29 00:27:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,841 (99.0%) of 62,465 articles have been extended.
+61,842 (99.0%) of 62,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,21 +78,29 @@ Sasnula's next aim is to set a Guinness World record using one million.
 
 ---
 
-### இலங்கை இந்திய மீனவர் பிரச்சனை தொடர்பில் தனிப்பட்ட முறையில் இந்திய அரசாங்கத்துடன் பேசுவேன் - அர்ச்சுனா
+### I will personally speak to the Government of India on the issue of Indian fishermen - Archana
 
 *2024-12-28 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202411) · `ta`
 
-இலங்கை இந்திய மீனவர் பிரச்சனை தொடர்பில் தனிப்பட்ட முறையில் இந்திய அரசாங்கத்துடன் பேசுவேன் என தெரிவித்த  பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா, இது தொடர்பில் திட்டமான முடிவுகள் எடுக்கப்பட வேண்டும் என்றார்.
+Archana: "I'll speak to India about Tamil fishermen. As Jaffna MP, I'll address this livelihood issue directly with the Indian government."
 
-யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர்களின் சம்மேளனப் பிரதிநிதிகளை இன்று சனிக்கிழமை (28) பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா சந்தித்து கலந்துரையாடினார்.
+🟩
 
-தமிழரின் அரசியலில் இந்தியா இன்று நேற்று அல்ல 1970, 60களில் இருந்தே முக்கிய காரணியாக இருந்திருக்கின்றது. பேச்சுவார்த்தை பேச்சுவார்த்தை என்று பேச்சுவார்த்தை நடத்தி எந்த முடிவும் எடுக்கப்பட்டதாக தெரியவில்லை.
+Parliamentarian Ramanathan Archana said that he would personally speak to the Indian government on the issue of Indian fishermen.
 
-யாழ் மாவட்டத்தை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினராக இது சம்பந்தமாக  பாராளுமன்றத்தில் அமைச்சருக்கு மேலதிகமாக கட்டாயமாக நான் பேசுவேன். சட்டங்களை இயற்றக்கூடிய பெரும்பான்மை தேசிய மக்கள் சக்தி அரசாங்கத்துக்கு உள்ளது.
+Parliamentarian Ramanathan Archana met with representatives of the Jaffna District Fishermen's Federation on Saturday (28).
+
+India has been a major factor in the politics of Tamils, not yesterday, in the 1970s and 60s. No decision seems to have been taken in negotiations.
+
+As a Member of Parliament who represents the Jaffna District, I will speak in addition to the Minister in Parliament. The government has a majority of national people's power that can enacted laws.
+
+The national population has the power to create laws relating to protecting our sea borders. Due to the presence of Sri Lanka in the central part of the center, it is questionable whether the issue will depend on the welfare of the people beyond politics.
 
 ...
 
 [Data](articles/57ae71ab.json)
+
+[Extended Data](ext_articles/57ae71ab.ext.json)
 
 ---
 

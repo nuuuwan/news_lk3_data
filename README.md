@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 02:12:26**
+As of **2024-12-29 02:43:24**
 
 ## Newspaper Stats
 
-*Scraped **62,465** Articles*
+*Scraped **62,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,964
 adaderanalk | 7,630
-tamilmirrorlk | 8,958
+tamilmirrorlk | 8,959
 virakesarilk | 10,362
 adaderanasinhalalk | 10,792
 
@@ -26,9 +26,39 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,847 (99.0%) of 62,465 articles have been extended.
+61,849 (99.0%) of 62,466 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-29 (Sunday)
+
+### Russia shot the F -16 aircraft
+
+*2024-12-29 02:17:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/எப்16-விமானத்தை-சுட்டுவீழ்த்தியது-ரஷ்யா/50-349419) · `ta`
+
+Russia claims to have shot down a U.S.-supplied F-16 fighter jet over Ukraine. This alleged incident marks the second F-16 loss for Ukraine since August. The aircraft reportedly crashed while preparing to attack Russian positions. Ukraine disputes Russia's claim, suggesting the plane might have been hit by a missile rather than being shot down directly. This development highlights the escalating conflict and the advanced weaponry involved in the war.
+
+🟩
+
+Russia has reportedly shot the US sophisticated F -16 aircraft to use in the war in Ukraine.
+
+Russian officials said yesterday that an F-16 aircraft flying in the Saboricia area was shot dead by Russia.. It was said that the plane was destroyed while preparing to attack the Russian status in the area.
+
+If this information is confirmed, this is the second F-16 aircraft that has lost Ukraine.
+
+Earlier, one of the F-16 aircraft provided by West Nations to Ukraine for the use of the war against Russia fell down during a radical missile and drone attack by Russia last August.. The pilot died.
+
+However, Ukraine said the Russian missile was not the cause of the plane crash.
+
+Russian authorities have reportedly shot down Ukraine's F-16 aircraft. (A)
+
+◼️
+
+[Data](articles/7db0168e.json)
+
+[Extended Data](ext_articles/7db0168e.ext.json)
+
+---
 
 ### 2024-12-28 (Saturday)
 
@@ -843,6 +873,8 @@ The maximum retail prices of the types of canned fish are as below:
 ◼️
 
 [Data](articles/2c695155.json)
+
+[Extended Data](ext_articles/2c695155.ext.json)
 
 ---
 
@@ -2217,23 +2249,5 @@ Parliamentarian C. Thilakanathan said that it is possible to consider the constr
 [Data](articles/5a66d822.json)
 
 [Extended Data](ext_articles/5a66d822.ext.json)
-
----
-
-### Hutch lights up festive spirits with Sri Lanka’s ‘Tallest Christmas Tower’
-
-*2024-12-28 01:04:00* · [`islandlk`](http://island.lk/hutch-lights-up-festive-spirits-with-sri-lankas-tallest-christmas-tower/) · `en`
-
-HUTCH is lighting up the Sri Lankan skyline with the tallest Christmas Tower the country has ever seen – “The Christmas Innovation Tower”. What was once seen as a day-to-day cell tower has been transformed into a striking symbol for hope, inspiring everyone as we enter the new year, to think differently to make remarkable progress.
-
-The record tower soaring 282 feet (86 meters) into the sky is situated at the HUTCH Data Center in Walpola, Ragama in the district of Gampaha, and can be seen from many miles away.
-
-The Christmas Innovation Tower lights up on Christmas Eve, 24th December 2024, standing tall as a beacon for inspiration to all Sri Lankans. Public are warmly invited to visit and safely view this spectacular display, celebrating the season of joy and creativity together.
-
-The Christmas Innovation Tower is a testament demonstrating how we can transform everyday things we easily overlook into creating something great.
-
-...
-
-[Data](articles/fc75527f.json)
 
 ---

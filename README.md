@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 00:27:21**
+As of **2024-12-29 00:42:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,842 (99.0%) of 62,465 articles have been extended.
+61,843 (99.0%) of 62,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,17 +104,27 @@ The national population has the power to create laws relating to protecting our 
 
 ---
 
-### වසරේ නැගී එන ක්‍රීඩකයින් අතරට කමිඳුත් එයි
+### They will come among the rising players of the year
 
 *2024-12-28 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204809) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් වසරේ නැගී එන ක්‍රිකට් ක්‍රීඩකයින් සිව්දෙනා සඳහා නාමයන් ප්‍රකාශයට පත් කර තිබේ.
+Here's a summary of 200 characters:
 
-මීට අමතරව පාකිස්ථානයේ Saim ayub, බටහිර ඉන්දීය කොදෙව් ක්‍රීඩක Shamar joseph, සහ එංගලන්ත ක්‍රීඩක Gus Atkinson යන ක්‍රීඩකයින්ද ඇතුළත් වේ.
+
+
+"ICC names top emerging cricketers: Saim Ayub (Pakistan), Shamar Joseph (West Indies), and Gus Atkinson (England). These talented players are expected to make significant impacts in international cricket this year."
+
+🟩
+
+The International Cricket Council has published the four-emerging cricketers in the year.
+
+In addition, it includes SAIM AYUB, West Indies Shamar Joseph, and England Gustakinson.
 
 ◼️
 
 [Data](articles/7efc9035.json)
+
+[Extended Data](ext_articles/7efc9035.ext.json)
 
 ---
 

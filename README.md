@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 03:12:55**
+As of **2024-12-29 03:27:22**
 
 ## Newspaper Stats
 
-*Scraped **62,466** Articles*
+*Scraped **62,467** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 458
+dbsjeyarajcom | 459
 colombotelegraphcom | 631
 bbccomsinhala | 658
 islandlk | 3,786
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,850 (99.0%) of 62,466 articles have been extended.
+61,850 (99.0%) of 62,467 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2118,6 +2118,20 @@ The Meteorological Department also requests the public to take necessary measure
 
 ---
 
+### The Speakers of Sri Lanka from 1931 to 2024 Served as  the  “Honourable ”   Guardians of Parliamentary Supremacy.
+
+*2024-12-28 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85256) · `en`
+
+Season’s greetings to all readers! Let me begin the second part of this article on the speakers of Sri Lanka with a reference to former speaker Asoka Ranwala. A source who is usually well-informed about matters concerning the Janatha Vimukthi Peramuna(JVP) and the National People’s Power(NPP) got in touch with me a few days ago. He said that ex-speaker Ranwala had indeed acquired a doctoral degree from Japan.
+
+According to this  JVP/NPP “partisan”source, Asoka Ranwala   has indeed acquired a PhD from a Japanese institution of higher learning and is therefore entitled to the prefix “Dr”. Apparently Ranwala a long standing activist of the JVP had “escaped”from Sri Lanka when the Ranasinghe Premadasa regime had cracked down hard on the JVP in the 1989-90 period. Ranwala had made his way to Japan and resided there for several years  stated this source.
+
+...
+
+[Data](articles/15a75886.json)
+
+---
+
 ### Resolution
 
 *2024-12-28 03:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-நிலுவைத்தொகையை-வழங்கத்-தீர்மானம்/175-349391) · `ta`
@@ -2229,35 +2243,5 @@ The NVQ equivalence applies to students who completed the Diploma in Professiona
 ...
 
 [Data](articles/01dff04e.json)
-
----
-
-### The army can set up camp in the forest;Macchal is not allowed to ground - people are sad!
-
-*2024-12-28 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202338) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Army sets up camp in Vavuniya forest. Livestock farmers face difficulties due to rain. Public accuses authorities of neglecting cattle industry. Parliamentarian suggests investigating illegal land use."
-
-🟩
-
-Army has set up a camp in Vavuniya. But it was pointed out in the Vavuniya Coordinating Committee that the departments are not only concerned about setting up a livestock.
-
-The Vavuniya Regional Coordinating Committee meeting was chaired by the Chairman of the Coordinating Committee, Upali Samarasinghe, on Friday (27).
-
-In Vavuniya, people who engaged in livestock farming without a carcass are concerned that they are facing various difficulties. During the rainy season its condition is deteriorating and milk production is also falling
-
-The army has set up a number of acres of land in the large jungles. But the public has accused the authorities of being a backlife to make cattle for cattle that contribute to the country's economy.
-
-Parliamentarian C. Thilakanathan said that it is possible to consider the construction of the landlord from those who have taken state lands to investigate the construction of the landlord in the pond.
-
-◼️
-
-[Data](articles/5a66d822.json)
-
-[Extended Data](ext_articles/5a66d822.ext.json)
 
 ---

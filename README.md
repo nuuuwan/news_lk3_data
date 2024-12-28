@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 09:02:33**
+As of **2024-12-28 09:14:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,794 (99.1%) of 62,373 articles have been extended.
+61,795 (99.1%) of 62,373 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -128,21 +128,27 @@ However, Mount Maunganui says that there are only a few tickets in the competiti
 
 ---
 
-### කාලගුණයේ වෙනසක් ගැන දැනුම්දීමක්
+### Notification about change in the weather
 
 *2024-12-28 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204783) · `si`
 
-අද (28) උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ද, උතුරු පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Weather alert: Showers forecasted in North-Central, Eastern, Uva, Northern, Western, Sabaragamuwa, Southern provinces. Thunderstorms may cause wind damage. Public advised to take precautions.
 
-බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළියසහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-එමෙන්ම බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව ද එම දෙපාර්තමේන්තුව පැවසීය.
+The Met Department (Department of Meteorology) says that a few showers in the North-Central, Eastern and Uva provinces and several showers in the Northern Province.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Southern provinces, or night in the Nuwara Eliya and Kandy districts.
+
+The Department also said that in some places in the Western, Sabaragamuwa, Central, Southern and Uva provinces can last a morning.
+
+The Meteorological Department also requests the public to take necessary measures to reduce the damages caused by temporary winds and lightning activities possible with thunderstorms.
 
 ◼️
 
 [Data](articles/a959e17e.json)
+
+[Extended Data](ext_articles/a959e17e.ext.json)
 
 ---
 

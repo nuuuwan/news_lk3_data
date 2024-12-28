@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 03:27:22**
+As of **2024-12-29 03:43:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,850 (99.0%) of 62,467 articles have been extended.
+61,851 (99.0%) of 62,467 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -917,6 +917,8 @@ The suspect will be produced before the Gampaha Magistrate’s Court, the Police
 ◼️
 
 [Data](articles/1bab07da.json)
+
+[Extended Data](ext_articles/1bab07da.ext.json)
 
 ---
 

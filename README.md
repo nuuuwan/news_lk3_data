@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 15:01:36**
+As of **2024-12-28 15:12:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,812 (99.0%) of 62,411 articles have been extended.
+61,813 (99.0%) of 62,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -78,19 +78,27 @@ The suspects have been sent to the Urban Development Authority after the delegat
 
 ---
 
-### இலங்கை - இந்திய கூட்டு கடற்படை பயிற்சி
+### Sri Lanka - Indian Joint Naval Training
 
 *2024-12-28 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202369) · `ta`
 
-இலங்கை கடற்படைக்கும் இந்திய கடற்படைக்கும் இடையிலான வருடாந்த ஸ்லினெக்ஸ்-24 இருதரப்பு கடற்படை பயிற்சியானது கடந்த 16 முதல் 20 வரை விசாகப்பட்டினம் கடற்படை தளத்தில் வெற்றிகரமாக நடத்தப்பட்டது . இக்கூட்டு பயிற்சியில் பங்குபற்றிய இலங்கை கடற்படை கப்பல் கடந்த 24 ஆம் திகதி நாட்டை வந்தடைந்தது.
+Sri Lanka & India conduct joint naval training exercise Slinex-24. Participating ships: SLN Saura, INNS Sumitra. Exercises focus on sharing knowledge, improving cooperation. Includes tactical drills, search & rescue operations. Enhances bilateral relations between navies.
 
-இருநாட்டு கடற்படைகளுக்கும் இடையிலான ஒத்துழைப்பை மேம்படுத்தும் நோக்கில் ஆண்டுதோறும் நடைபெறும் இலங்கை-இந்திய கடற்படை பயிற்சிக்காக, இலங்கையின் கடற்படைக் கப்பலான சௌரா மற்றும் இந்திய கடற்படையின் ஐ.என்.எஸ்.சுமித்ரா ஆகியவை இப்பயிற்சியில் பங்கேற்றன.
+🟩
 
-கடற்படை தொழில்நுட்ப அறிவு மற்றும் உத்திகளை பரிமாறிக்கொள்வதற்கான பயிற்சிகள் , கடற்படை கப்பல் கட்டும் தளம் இரு நாட்டு கடற்படைகளுக்கு இடையே நட்புறவை வளர்க்க ஏற்பாடு செய்யப்பட்ட நிகழ்ச்சிகள் இதன் போது இடம்பெற்றன. மேலும் துப்பாக்கிச் சூடு பயிற்சிகள், கப்பலுக்கு கப்பல் பரிமாற்றத்திற்கான தயாரிப்புகள்,  தேடுதல் மற்றும் மீட்பு பயிற்சிகளும் இடம்பெற்றன.
+Annual Slinex-24 Bilateral Navy Training between the Sri Lanka Navy and the Indian Navy. The Sri Lankan Navy ship, which participated in the training, arrived in the country on the 24th.
 
-...
+Sri Lanka's Naval ship Saura and the Indian Navy's INS Sumitra participated in the event for the annual Sri Lankan-Indian naval exercise to improve the cooperation between the two navy.
+
+Exercises to exchange naval technical knowledge and strategies. There were also shooting exercises, products for shipping for shipping, search and recovery exercises.
+
+The Sri Lanka Navy said that this is an excellent opportunity to improve the mutual understanding and share knowledge and experience between the Indo-Sri Lanka bilateral training.
+
+◼️
 
 [Data](articles/2b47ab93.json)
+
+[Extended Data](ext_articles/2b47ab93.ext.json)
 
 ---
 

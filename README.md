@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 16:59:13**
+As of **2024-12-28 17:12:26**
 
 ## Newspaper Stats
 
-*Scraped **62,434** Articles*
+*Scraped **62,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,961
 adaderanalk | 7,623
-tamilmirrorlk | 8,953
+tamilmirrorlk | 8,954
 virakesarilk | 10,358
 adaderanasinhalalk | 10,782
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,818 (99.0%) of 62,434 articles have been extended.
+61,819 (99.0%) of 62,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### குளவி கொட்டுக்கு இலக்காகி எண்மர் வைத்தியசாலையில் அனுமதி
+
+*2024-12-28 16:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டுக்கு-இலக்காகி-எண்மர்-வைத்தியசாலையில்-அனுமதி/76-349401) · `ta`
+
+அக்கரப்பத்னை - பெல்மோரல் பெரிய நாகவத்தை தோட்டத்தில்,  இன்று (28,) பகல் 2 மணியளவில், கொழுந்து மலையில் கொழுந்து பறித்துக் கொண்டிருந்த எட்டு பெண் தொழிலாளர்கள், குளவி கொட்டுக்கு இலக்காகியுள்ளனர்.
+
+பாரிய மரம் ஒன்றில் கட்டப்பட்டிருந்த குளவி கூடொன்று  கலைந்து, கொழுந்து பறித்து கொண்டு இருந்த பெண் தொழிலாளர்கள் மீது, குளவிகள் தாக்கியுள்ளன.
+
+மன்ராசி வைத்தியசாலையில் அனுமதிக்கப்பட்ட ‌ எட்டு பேரில் நால்வர் சிகிச்சையின் பின்பு வீடு திரும்பியதோடு, ஏனைய நான்கு பேரும் தொடர்ந்து சிகிச்சை பெற்று வருகின்றனர்.AN
+
+◼️
+
+[Data](articles/0aa3716f.json)
+
+---
 
 ### Special police operation targeting reckless long-distance bus drivers
 
@@ -49,6 +65,8 @@ Afterward, uniformed officers will stop the buses at different locations, inform
 ◼️
 
 [Data](articles/37e17279.json)
+
+[Extended Data](ext_articles/37e17279.ext.json)
 
 ---
 
@@ -2039,45 +2057,5 @@ After the end of the funeral, Priya Suriyaseena's body was cremated.
 [Data](articles/8b3d3e75.json)
 
 [Extended Data](ext_articles/8b3d3e75.ext.json)
-
----
-
-### Daughter of the mother's casual care
-
-*2024-12-27 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204779) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-13-year-old girl killed in domestic dispute involving mother and boyfriend. Incident occurred in Piliyandala, Sri Lanka. Girl was student at Ananda Samarakoon College. Mother hospitalized along with two daughters. Suspect fled scene, investigation ongoing by Mount Lavinia CID.
-
-🟩
-
-A 13-year-old girl will be depressed as a result of their mother's illicit relationship.
-
-The girl was killed by an argument between his mother and ancient boyfriend.
-
-The victim of this unfortunate incident was killed by a two-storied house in Piliyandala Bakundara, a two-storey family, BM. The girl named Osadeen.
-
-She was a girl in Ananda Samarakoon College, Piliyandala.
-
-Her mother and 15 year old was located in the house with their mother and 15 year old elderly. The mother had come to her home.
-
-The man was a person who serves the woman in the company.
-
-The man has accused the woman at home and had a close association with another person.
-
-Later, the man had been launched into the woman, and the two daughters intervened to prevent the mother.
-
-The suspect had also had the attacks on them.
-
-Although the suspect had been trying to commit necks and attempted to commit suicide, the attempt was sufied due to the breach of the cord.
-
-...
-
-[Data](articles/bf62367f.json)
-
-[Extended Data](ext_articles/bf62367f.ext.json)
 
 ---

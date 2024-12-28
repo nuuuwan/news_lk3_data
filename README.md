@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 12:16:40**
+As of **2024-12-28 12:27:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,805 (99.1%) of 62,396 articles have been extended.
+61,806 (99.1%) of 62,396 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,25 @@ Investigations have revealed that they have received a signature of a relative o
 
 ---
 
-### வவுனியாவில் உள்நாட்டு துப்பாக்கியுடன் இளைஞன் கைது !
+### Youth arrested with domestic gun in Vavuniya
 
 *2024-12-28 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202355) · `ta`
 
-வவுனியா - சிதம்பரபுரம் பிரதேசத்தில் உள்நாட்டில் தயாரிக்கப்பட்ட துப்பாக்கிடயுடன் இளைஞன் ஒருவன்  நேற்று வெள்ளிக்கிழமை (27) கைது செய்யப்பட்டதாக சிதம்பரபுரம் பொலிஸார் தெரிவித்தனர்.
+A 22-year-old youth was arrested in Vavuniya for possessing a domestically made firearm. Police acted on confidential information during a crackdown operation.
 
-சிதம்பரபுரம் பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் வவுனியா பிரதேசத்தைச் சேர்ந்த 22 வயதுடைய இளைஞன் ஆவார்.
+Chidambarapuram police said that a youth was arrested on Friday (27) with a locally prepared shooting in the Vavuniya - Chidambarapuram area.
+
+The suspect has been arrested during a roundup on the basis of confidential information received by the Chidambarapuram police.
+
+The suspect was a 22 -year -old youth from Vavuniya.
 
 ◼️
 
 [Data](articles/f0ef5b40.json)
+
+[Extended Data](ext_articles/f0ef5b40.ext.json)
 
 ---
 

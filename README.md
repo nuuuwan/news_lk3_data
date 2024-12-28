@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 17:44:30**
+As of **2024-12-28 18:04:03**
 
 ## Newspaper Stats
 
-*Scraped **62,440** Articles*
+*Scraped **62,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,962
-adaderanalk | 7,623
+adaderanalk | 7,624
 tamilmirrorlk | 8,955
 virakesarilk | 10,358
-adaderanasinhalalk | 10,785
+adaderanasinhalalk | 10,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,821 (99.0%) of 62,440 articles have been extended.
+61,821 (99.0%) of 62,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### රථ වාහන වැරදි සම්බන්ධයෙන් හසුවූ රියදුරන් 8,000 ඉක්මවයි
+
+*2024-12-28 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204803) · `si`
+
+අද (28) පෙරවරු 6න් අවසන් වු පැය 24ක කාලය තුළ සිදුකළ විශේෂ රථ වාහන මෙහෙයුමේ දී බීමත් රියදුරන් 383 දෙනෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කර තිබේ.
+
+ඒ අනුව අදාළ කාලය තුළ සමස්ත රථ වාහන වැරදි සම්බන්ධයෙන් රියදුරන් 8,392 නෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කර ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
+
+එහිදී මාර්ග නීති උල්ලංඝනය කිරීම සම්බන්ධයෙන් රියදුරන් 1382 දෙනෙක්ද, බලපත්‍ර වැරදි සම්බන්ධයෙන් රියදුරන් 690 දෙනෙක්ද, අධිකවේගයෙන් රිය පැදවීම සම්බන්ධයෙන් 98 දෙනෙක්ද මෙන්ම අපරික්ෂාකාරී ලෙස රිය ධාවනය සම්බන්ධයෙන් රියදුරන් 59 දෙනෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කර තිබේ.
+
+උත්සව සමයේ රථවාහන අනතුරු අවම කර ගැනීමේ අරමුණින් වැඩබලන පොලිස්පතිවරයාගේ උපදෙස් පරිදි විශේෂ රථවාහන මෙහෙයුමක් පසුගිය 23 වනදා සිට දිවයිනම ආවරණය වන පරිදි ක්‍රියාත්මක කෙරුණි.
+
+◼️
+
+[Data](articles/ecbbf3ed.json)
+
+---
 
 ### Special Notice to Members of Parliament
 
@@ -51,6 +69,24 @@ Members of Parliament must submit property and responsible statements before Jun
 [Data](articles/f10405c9.json)
 
 [Extended Data](ext_articles/f10405c9.ext.json)
+
+---
+
+### President calls for unified monitoring division to tackle illegal migration and drug smuggling
+
+*2024-12-28 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104546/president-calls-for-unified-monitoring-division-to-tackle-illegal-migration-and-drug-smuggling) · `en`
+
+President Anura Kumara Dissanayake has held a discussion today (28) at the Presidential Secretariat with the heads of the Department of Immigration and Emigration, Sri Lanka Customs, and the Airport and Aviation Services.
+
+The discussion extensively focused on preventing the entry of narcotics and other prohibited substances into the country, curbing corruption, fraud, and irregularities at airports, customs, and halting the unauthorized departure of individuals from the country, the President’s Media Division (PMD) said.
+
+During the meeting, President Dissanayake instructed the establishment of an integrated camera system and a unified observation room to be shared among the Department of Immigration and Emigration, Sri Lanka Customs, and the Airport and Aviation Services, it added.
+
+The President also emphasized the need for a practical and modernized process to prevent smuggling, calling for the replacement of the current scanning equipment with advanced, modern scanners.
+
+...
+
+[Data](articles/7a4af565.json)
 
 ---
 
@@ -320,7 +356,9 @@ The suspect will be produced before the Gampaha Magistrate’s Court, the Police
 
 ටින් කල මාළු වර්ග සඳහා උපරිම සිල්ලර මිලක් නියම කරමින් පාරිභෝගික අධිකාරිය අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
 
-ඒ අනුව ටූනා ග්‍රෑම් 425 සැමන් ටින් එකක උපරිම සිල්ලර මිල රුපියල් 380ක් ද මැකරල් ශුද්ධ බර ග්‍රෑම් 155ක උපරිම සිල්ලර මිල රුපියල් 180ක් ද වේ.
+ඒ අනුව ටූනා ග්‍රෑම් 425 සැමන් ටින් එකක උපරිම සිල්ලර මිල රුපියල් 380ක් වේ.
+
+මැකරල් ශුද්ධ බර ග්‍රෑම් 155ක උපරිම සිල්ලර මිල රුපියල් 180ක් වන අතර ග්‍රෑම් 425ක උපරිම සිල්ලර මිල රුපියල් 420ක් ද වේ.
 
 තවද ජැක් මැකරල් ශුද්ධ බර ග්‍රෑම් 425ක සැමන් ටින් එකක උපරිම සිල්ලර මිල රුපියල් 560ක් ද වනු ඇත‍
 
@@ -2017,49 +2055,5 @@ Alliances set up in the past have now been completed. The alliance was formed fo
 [Data](articles/e668270b.json)
 
 [Extended Data](ext_articles/e668270b.ext.json)
-
----
-
-### Galle Fort’s old entrance temporarily closed
-
-*2024-12-27 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104531/galle-forts-old-entrance-temporarily-closed) · `en`
-
-The Archaeology Department’s Southern Province regional office has announced that the old entrance to Galle Fort will be temporarily closed from tomorrow (28) until December 31.
-
-This is due to a conservation project on the fort wall surrounding the ancient fort gate of Galle Fort, a UNESCO World Heritage archaeological site.
-
-Southern Provincial Archaeology Director Wasanthi Alahakoon explained that the decision was made to facilitate chemical conservation work in the area near the gates.
-
-Accordingly, the department further stated that entry and exit to Galle Fort from tomorrow until December 31 will be through the new fort entrance.
-
-◼️
-
-[Data](articles/a6592290.json)
-
-[Extended Data](ext_articles/a6592290.ext.json)
-
----
-
-### Former chief minister and others in the North Central Province to exempt
-
-*2024-12-27 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204781) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former Chief Minister SM Ranjith joins Sorgeon Power. Local political leaders from North Central Province participate. Includes MPs Wimalaweera Dissanayake and Angara Dissanayake. Event held in Ampara District.
-
-🟩
-
-Former Chief Minister of the North Central Province S. M. Several local political leaders in areas including Ranjith joined the Sorgeon Power today (27).
-
-Former Chief Minister SM Ranjith, a group of MPs and MPs Wimalaweera Dissanayake, the son of the Provincial Council, including Angara Dissanayake, and Ampara District, including Angara Dissanayake, was also present in the exangeration.
-
-◼️
-
-[Data](articles/c43da548.json)
-
-[Extended Data](ext_articles/c43da548.ext.json)
 
 ---

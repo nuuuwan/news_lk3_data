@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 22:27:16**
+As of **2024-12-28 22:43:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,836 (99.0%) of 62,456 articles have been extended.
+61,837 (99.0%) of 62,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -480,21 +480,31 @@ Trump's purpose is to give a political solution to Ticktock's problem after the 
 
 ---
 
-### குற்றப்புலனாய்வு திணைக்களத்தில் ஜனவரி 3 இல் முன்னிலையாகுமாறு யோஷித்தவுக்கு அழைப்பு
+### Invite Yoshitha to appear before the Criminal Investigation Department on January 3
 
 *2024-12-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202388) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இரண்டாவது புதல்வரான யோஷித்த  ராஜபக்ஷவை எதிர்வரும் 3 ஆம் திகதி குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகுமாறு அறிவிக்கப்பட்டுள்ளது.
+Here's a summary in 200 characters:
 
-முறையற்ற சொத்து சேகரிப்பு விவகாரம் தொடர்பான விசாரணைக்கு முன்னிலையாகுமாறு யோசித்த ராஜபக்ஷவுக்கு குற்றப்புலனாய்வு பிரிவு அழைப்பு விடுத்துள்ளது.
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பிரதான பாதுகாப்பு உத்தியோகஸ்த்தரான நெவில் வன்னியராச்சி வெள்ளிக்கிழமை (27) குற்றப்புலனாய்வு திணைக்களத்தின் முன்னிலையாகியுள்ளார்.
 
-குற்றப்புலனாய்வு பிரிவினர் நெவில் வன்னியராச்சியிடம் 4 மணித்தியாலங்கள் விசாரணைகளை மேற்கொண்டுள்ளனர்.முறையற்ற வகையில் சொத்து சேகரித்த விவகாரம் தொடர்பில் குற்றப்புலனாய்வு பிரிவு விசாரணைகளை மேற்கொண்டுள்ளது.
+Yoshitha Rajapaksa summoned to CID on Jan 3 over improper property collection probe. His father's former security officer Neville Wanniyarachchi questioned earlier.
+
+🟩
+
+Former President Mahinda Rajapaksa's second son, Yoshitha Rajapaksa, has been announced to appear before the Criminal Investigation Department on the 3rd.
+
+The Criminal Investigation Division has called on Rajapakse to appear before the investigation into the improper property collection issue.
+
+Former President Mahinda Rajapaksa's chief security officer, Neville Wanniyarachchi, appeared before the Criminal Investigation Department on Friday (27).
+
+The Criminal Investigation Division is conducting inquiries into Neville Wanniyarachchi for 4 hours.
 
 ◼️
 
 [Data](articles/c518e7ff.json)
+
+[Extended Data](ext_articles/c518e7ff.ext.json)
 
 ---
 

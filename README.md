@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 18:36:10**
+As of **2024-12-28 18:46:39**
 
 ## Newspaper Stats
 
-*Scraped **62,443** Articles*
+*Scraped **62,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,785
 economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,962
+adalk | 5,963
 adaderanalk | 7,624
 tamilmirrorlk | 8,955
 virakesarilk | 10,359
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,786
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,823 (99.0%) of 62,443 articles have been extended.
+61,824 (99.0%) of 62,444 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,8 @@ The President also emphasized the need for a practical and modernized process to
 ...
 
 [Data](articles/7a4af565.json)
+
+[Extended Data](ext_articles/7a4af565.ext.json)
 
 ---
 
@@ -337,6 +339,18 @@ The maximum retail prices of the types of canned fish are as below:
 ◼️
 
 [Data](articles/2c695155.json)
+
+---
+
+### ටින් කළ මාළු වර්ග සඳහා උපරිම සිල්ලර මිලක්
+
+*2024-12-28 15:39:31* · [`adalk`](https://www.ada.lk/breaking_news/ටින්-කළ-මාළු-වර්ග-සඳහා-උපරිම-සිල්ලර-මිලක්/11-413883) · `si`
+
+ටින් කළ මාළු වර්ග සඳහා උපරිස සිල්ලර මිලක් නියම කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/dca88cfe.json)
 
 ---
 
@@ -2041,29 +2055,5 @@ It is noteworthy that the spacecraft is currently 9 crore 30 lakh miles from Ear
 [Data](articles/0777cde8.json)
 
 [Extended Data](ext_articles/0777cde8.ext.json)
-
----
-
-### Arresting person who tried to sexually abuse a Russian woman
-
-*2024-12-27 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202335) · `ta`
-
-Man arrested for attempting sexual assault on Russian woman at Unawatuna hostel. 24-year-old from Nochchiyagama detained after victim reported incident.
-
-🟩
-
-A man who was trying to sexually abuse a Russian woman who was staying at a hostel in Unavaduna has been arrested, the Unawaduna Tourism Police Division said.
-
-The 24 -year -old youth from Nochchiyagama, who was staying in the same hotel, has been arrested.
-
-The Russian woman has lodged a complaint with the tourist police that a man was naked near the room where she was staying.
-
-Accordingly, officials of the Unavatuna Tourist Police Division have arrested the suspect.
-
-◼️
-
-[Data](articles/391306b7.json)
-
-[Extended Data](ext_articles/391306b7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 08:50:00**
+As of **2024-12-28 09:02:33**
 
 ## Newspaper Stats
 
-*Scraped **62,372** Articles*
+*Scraped **62,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,785
 economynextcom | 3,796
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,955
+adalk | 5,956
 adaderanalk | 7,609
 tamilmirrorlk | 8,945
 virakesarilk | 10,341
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,794 (99.1%) of 62,372 articles have been extended.
+61,794 (99.1%) of 62,373 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -883,6 +883,24 @@ Although the suspect had been trying to commit necks and attempted to commit sui
 [Data](articles/bf62367f.json)
 
 [Extended Data](ext_articles/bf62367f.ext.json)
+
+---
+
+### දුම්රියට යටවි පුද්ගලයෙක් ජිවිතක්ෂයට
+
+*2024-12-27 19:20:10* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියට-යටවි-පුද්ගලයෙක්-ජිවිතක්ෂයට/11-413876) · `si`
+
+බදුල්ල සිට  නුවර බලා අද 27 සවස ධාවනය වෙමින් තිබූ භාණ්ඩ ප්‍රවාහන  දුම්රියට දියතලාව හපුතලේ අතර  තිස් අටවෙනි බිංගෙය  තුළදී දුම්රියට යට වී  හතළිස් හතර හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත් වී ඇතැයි දියතලාව පොලිසිය කියයි.
+
+මෙසේ ජීවිතක්ෂයට පත්වී ඇත්තේ කේ පී අමල් ඉශාන්ත 44 නමැති  දියතලාව කහගොල්ල  පදිංචි වී සිටි  පුද්ගලයෙකි.
+
+දුම්රිය පැමිණෙන අවස්ථාවේදී  මොහු මෙම බිංගේ තුළ සිටීමට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+
+මේ සිද්ධියෙන්පසු  කොළඹ බදුල්ල දුම්රියන්  පැය දෙකකට අධික කාලයක් ප්‍රමාද වී ධාවනය වුණු බවද පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/7fcb2f59.json)
 
 ---
 
@@ -2189,29 +2207,5 @@ Meanwhile, a suspect has been arrested with a locally manufactured gun in the Ga
 ...
 
 [Data](articles/404dc0d6.json)
-
----
-
-### The shortage for essentials will last further
-
-*2024-12-27 11:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-பொருட்களுக்கான-தட்டுப்பாடு-மேலும்-நீடிக்கும்/175-349380) · `ta`
-
-Essential shortages persist: Rice scarcity continues, prices unchanged. Provincial officials promise action within a month.
-
-🟩
-
-Provincial Councils and Local Government Deputy Minister Ruwan Senarath said yesterday that the shortage for the essential commodity, including Risi, will last a further month.
-
-Today, many complain that the shortage of rice has not been eliminated and the price of goods has not been reduced.
-
-We accept that there is a shortage of essentials. We have received clarity related to this. The last government must take responsibility for this.
-
-Provincial Councils and Local Government Deputy Minister Ruwan Senarath said that action will be taken to rectify the situation soon.. Remble
-
-◼️
-
-[Data](articles/742e45e8.json)
-
-[Extended Data](ext_articles/742e45e8.ext.json)
 
 ---

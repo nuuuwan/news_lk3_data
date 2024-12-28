@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 21:12:28**
+As of **2024-12-28 21:27:28**
 
 ## Newspaper Stats
 
-*Scraped **62,453** Articles*
+*Scraped **62,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,963
-adaderanalk | 7,626
+adaderanalk | 7,627
 tamilmirrorlk | 8,957
 virakesarilk | 10,360
 adaderanasinhalalk | 10,789
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,832 (99.0%) of 62,453 articles have been extended.
+61,833 (99.0%) of 62,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### ஹட்டன் விபத்தில் ஒருவர் படுகாயம்
+### One person injured in Hatton accident
 
 *2024-12-28 21:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-விபத்தில்-ஒருவர்-படுகாயம்/76-349404) · `ta`
 
-ஹட்டன் - நோர்வூட் பகுதியில் இருந்து பயணித்த காரும், ஹட்டனில் இருந்து வந்த மோட்டார் சைக்கிளும் மோதி விபத்துக்குள்ளானதில் ஒருவர் படுகாயமடைந்துள்ளார்.
+Car and motorcycle crash in Hatton injures one rider. Incident occurred near Dikoya Vanaraja Tea Factory. Rider hospitalized with serious injuries. Police investigating.
 
-இச்சம்பவம் நேற்று மாலை 6.15 மணியளவில் மஸ்கெலியா - ஹட்டன் பிரதான வீதியில் டிக்கோயா வனராஜா தேயிலை தொழிற்சாலைக்கு அருகில் இடம்பெற்றுள்ளது.
+🟩
 
-விபத்தில் மோட்டார் சைக்கிள் வண்டியில் பயணித்த நபர் பலத்த காயங்களுடன் டிக்கோயா கிளங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். மேலதிக விசாரணைகளை ஹட்டன் பொலிஸார் முன்னெடுத்து வருகின்றனர். R
+One person was injured when a car traveling from Hatton - Norwood and a motorcycle from Hatton crashed.
+
+The incident took place at 6.15 pm yesterday near the Dikoya Vanaraja Tea Factory on the Maskeliya - Hatton main road.
+
+A man who was traveling in a motorcycle in an accident has been admitted to Tikoya Klangan Hospital with serious injuries. Hatton police are carrying out further investigations. Remble
 
 ◼️
 
 [Data](articles/6cf56540.json)
+
+[Extended Data](ext_articles/6cf56540.ext.json)
 
 ---
 
@@ -69,6 +75,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6d779545.json)
+
+---
+
+### Putin apologises to Aliyev over ‘tragic incident’ with Azerbaijan Airlines plane crash
+
+*2024-12-28 19:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104550/putin-apologises-to-aliyev-over-tragic-incident-with-azerbaijan-airlines-plane-crash) · `en`
+
+Russia’s Vladimir Putin on Saturday apologised to Ilham Aliyev, the president of Azerbaijan, for a “tragic incident” which happened in Russian airspace involving an Azerbaijan Airlines passenger plane that crashed on Wednesday.
+
+Flight J2-8243 crashed on Wednesday in a ball of fire near the city of Aktau in Kazakhstan after diverting from southern Russia where Ukrainian drones were reported to be attacking several cities. At least 38 people were killed while 29 survived.
+
+“(President) Vladimir Putin apologised for the tragic incident that occurred in Russian airspace and once again expressed his deep and sincere condolences to the families of the victims and wished a speedy recovery to the injured,” the Kremlin said in a statement.
+
+...
+
+[Data](articles/a12ff5da.json)
 
 ---
 
@@ -2103,25 +2125,5 @@ The journalist received treatment at the Kilinochchi Hospital for injuries susta
 [Data](articles/dffe2aa9.json)
 
 [Extended Data](ext_articles/dffe2aa9.ext.json)
-
----
-
-### Condolence Book open on passing away of former Prime Minister Dr. Manmohan Singh
-
-*2024-12-28 00:18:59* · [`dailyftlk`](https://www.ft.lk/news/Condolence-Book-open-on-passing-away-of-former-Prime-Minister-Dr-Manmohan-Singh/56-771102) · `en`
-
-Dr. Manmohan Singh, former Prime Minister of India passed away in New Delhi on 26 December 2024.
-
-Dr. Manmohan Singh served as the 13th Prime Minister of India from 22 May 2004 – 26 May 2014. As distinguished economist and visionary leader, Dr. Manmohan Singh served as the Finance Minister from 1991 and 1996 and guided the nation out of a financial crisis, introducing landmark economic reforms. Known for his humility, intellect, and dedication, Dr. Singh’s leadership and integrity continue to inspire generations, leaving a profound legacy of progress and service. Dr. Manmohan Singh was awarded India’s second highest civilian honour, the Padma Vibhushan in 1987.
-
-As a mark of respect to the departed dignitary, seven-day State Mourning is being observed throughout India from 26 December 2024 to 1 January 2025.
-
-A Condolence Book will be kept open at the High Commission of India located at 36-38, Galle Road, Colombo 03, from 30 December 2024 to 01 January 2025 from 10 a.m. to 3 p.m.
-
-◼️
-
-[Data](articles/f2a09b3e.json)
-
-[Extended Data](ext_articles/f2a09b3e.ext.json)
 
 ---

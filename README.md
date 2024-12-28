@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 23:00:39**
+As of **2024-12-28 23:12:32**
 
 ## Newspaper Stats
 
-*Scraped **62,456** Articles*
+*Scraped **62,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 458
 colombotelegraphcom | 631
 bbccomsinhala | 658
 islandlk | 3,786
-economynextcom | 3,799
+economynextcom | 3,800
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,964
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,838 (99.0%) of 62,456 articles have been extended.
+61,839 (99.0%) of 62,457 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,26 @@ A man who was traveling in a motorcycle in an accident has been admitted to Tiko
 [Data](articles/6cf56540.json)
 
 [Extended Data](ext_articles/6cf56540.ext.json)
+
+---
+
+### Sri Lanka’s PMB style SOE fails to control soaring rice prices in Bolivia
+
+*2024-12-28 20:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-pmb-style-soe-fails-to-control-soaring-rice-prices-in-bolivia-196666/) · `en`
+
+ECONOMYNEXT – A state-run food corporation like Sri Lanka’s Paddy Marketing Board which has extensive control over purchase and sale of food grains in Bolivia has failed to control the soaring price of rice amid import difficulties, media reports said.
+
+Rice was being sold at 500 Bolvianos per quintal (about 100 kilograms), when it should be around 300, Vice Minister of Consumer Protection, Jorge Silva was quoted as saying by the Fides News Agency.
+
+The State Food Production Support Company (Empresa de Apoyo a la Producción de Alimentos or Emapa) was selling rice at 220 bolivianos per quintal without profits, Silva said.
+
+“If you add transportation and utilities, the best quality rice should cost Bs 300 (about 140 rupees a kilog), but it is more than Bs 500 (220 rupees a kilogram). In some places it has reached Bs 750,” Silva was quoted as saying.
+
+Bolivia was facing forex shortages making it difficult to import foods, as well as fuel.
+
+...
+
+[Data](articles/3b85313a.json)
 
 ---
 
@@ -588,21 +608,31 @@ He was arrested by the Criminal Investigation Department in Bibila.. Remble
 
 ---
 
-### ජයග්‍රහණය පෙනි පෙනී ශ්‍රී ලංකාවට පරාජය අත්වෙයි
+### Pupil appears to appear in Sri Lanka
 
 *2024-12-28 15:48:41* · [`adalk`](https://www.ada.lk/sports/ජයග්‍රහණය-පෙනි-පෙනී-ශ්‍රී-ලංකාවට-පරාජය-අත්වෙයි/9-413884) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායමට එරෙහිව පැවති පළමු විස්සයි 20 ක්‍රික්ට් තරගයෙන් ලකුණු 08ක ජයක් වාර්තා කිරීමට නවසීලන්ත කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+Here's a summary of 200 characters:
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම සිය ඉනිමට කඩුලු 08ක් දැවී ලකුණු 172ක් රැස් කළේය.
 
-ඒ අනුව ජයග්‍රාහී ලකුණු 173ක ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී රැස් කරගත හැකි වූයේ ලකුණු 164ක් පමණී.
 
-තරගය ආරම්භක කඩුල්ලට ශ්‍රී ලංකා කණ්ඩායම ශතක සබඳතාවයක් ගොඩ නැගුවද ඉන් පසු මැද පෙළ අසාර්ථක වීමෙන් මෙලෙස පරාජයට පත් විය.
+NZ wins T20 vs Sri Lanka by 8 runs. NZ: 172/8; SL: 164/8. SL's chase faltered after top order failure despite centuries effort.
+
+🟩
+
+New Zealand won the first Twenty20 Cricket match against the Tourism Sri Lanka team by 8 runs.
+
+New Zealand scored 172 runs for the loss of 08 wickets.
+
+Chasing a target of 173, Sri Lanka were able to score 164 runs for the loss of 8 wickets at the end of 20 overs.
+
+Although the Competition was established to the opening wicket, the Sri Lankan team had a centuries and defeated by the middle line failed.
 
 ◼️
 
 [Data](articles/5fc0fbc1.json)
+
+[Extended Data](ext_articles/5fc0fbc1.ext.json)
 
 ---
 
@@ -2149,27 +2179,5 @@ In a statement, MP Ariyaratne condemned the deliberate campaign to tarnish her r
 [Data](articles/6b17405d.json)
 
 [Extended Data](ext_articles/6b17405d.ext.json)
-
----
-
-### Sri Lankan couple arrested for Rs. 1.6 b financial fraud upon return at BIA
-
-*2024-12-28 00:21:02* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankan-couple-arrested-for-Rs-1-6-b-financial-fraud-upon-return-at-BIA/56-771105) · `en`
-
-A Sri Lankan couple wanted for large-scale financial fraud amounting to Rs. 1.6 billion was remanded yesterday after being arrested at the Katunayake Airport upon their return to the country.
-
-The suspects were remanded till 6 January 2025 by the Hulftsdorp Magistrate’s Court yesterday.
-
-The couple, against whom INTERPOL red notices had been issued, and their 14-year-old daughter were arrested by Criminal Investigations Department (CID) officials at the airport yesterday.
-
-The suspects are a 49-year-old man from Colombo 05 and his 43-year-old wife, who had fled to India via boat along with their daughter in 2021.
-
-The couple was wanted for several financial frauds reported across the country, with eight travel bans being imposed against them by the Colombo, Trincomalee, and Batticaloa Courts.
-
-...
-
-[Data](articles/163c7960.json)
-
-[Extended Data](ext_articles/163c7960.ext.json)
 
 ---

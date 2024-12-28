@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 22:15:24**
+As of **2024-12-28 22:27:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,835 (99.0%) of 62,456 articles have been extended.
+61,836 (99.0%) of 62,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -129,6 +129,8 @@ Flight J2-8243 crashed on Wednesday in a ball of fire near the city of Aktau in 
 ...
 
 [Data](articles/a12ff5da.json)
+
+[Extended Data](ext_articles/a12ff5da.ext.json)
 
 ---
 

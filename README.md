@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 20:43:04**
+As of **2024-12-28 21:01:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,788
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,830 (99.0%) of 62,450 articles have been extended.
+61,831 (99.0%) of 62,450 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -308,23 +308,29 @@ Four of the eight admitted to the Manrashi Hospital returned home after treatmen
 
 ---
 
-### නීතිවිරෝධීව රට තුළට  මත්ද්‍රව්‍ය පැමිණීම වැළැක්වීමට ජනපතිගෙන් තීරණ රැසක්
+### President decisions to prevent drug abroad to illegally
 
 *2024-12-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204801) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා  සහ ආගමන හා විගමන දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගුව සහ ගුවන්තොටුපළ හා ගුවන් සේවා සමාගම යන ආයතන ප්‍රධානීන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී අද (28) පැවැත්විණි.
+Sri Lankan President Anura Kumara Dissanayake met with immigration officials to discuss preventing illegal drugs and corruption at airports. He suggested replacing outdated scanners and taking strict disciplinary action against smugglers.
 
-මෙහිදී මත්ද්‍රව්‍ය ඇතුළු නීතිවිරෝධි ද්‍රව්‍ය රට තුළට පැමිණීම වැළැක්වීම, ගුවන්තොටුපළ පරිශ්‍රයේ දූෂණ, වංචා සහ අක්‍රමිකතා වැළැක්වීම, නීතිවිරෝධී ලෙස පුද්ගලයන් රටින් පිටවීම වැළැක්වීම පිළිබඳව දීර්ඝ ලෙස සාකච්ඡාවට ලක් කෙරිණි.
+🟩
 
-ඒ අනුව ආගමන හා විගමන දෙපාර්තමේන්තුව, ශ්‍රී ලංකා රේගුව සහ ගුවන්තොටුපළ හා ගුවන් සේවා සමාගම යන ආයතන තුනෙහි ඒකාබද්ධ කැමරා පද්ධතියක් සහ ඒකාබද්ධ නිරීක්ෂණ මැදිරියක් ස්ථාපිත කරන ලෙස ජනාධිපතිවරයයා මෙහිදී උපදෙස් දුන්නේය.
+President Anura Kumara Dissanayake and Immigration and Emigration Department, Department of Immigration and Emigration and Heads of Sri Lanka Customs and Airline and Airline Company (28) was held today.
 
-එසේම දැනට පවතින ස්කෑන් යන්ත්‍ර වෙනුවට වැඩිදියුණු කරන ලද නවීන ස්කෑන් යන්ත්‍ර යොදා ගනිමින් මෙම ආයතනයන්හි සිදුවන ජාවාරම් වළක්වා ගැනීමට ප්‍රායෝගික නව ක්‍රියාවලියක් ආරම්භ කරන ලෙස ද ජනාධිපතිවරයා එහිදි පැවසීය.
+It was discussed at length to prevent illegal materials including the coming into the country, preventing the coming into the country, preventing corruption, fraud and irregularities in the airport premises.
 
-රටේ ජනතාව තුළ රේගුව පිළිබඳ පවතින දුර්මත දුරු කළ යුතු බවත්, ඒ වෙනුවෙන් දැඩි විනය හා නීතිමය ක්‍රියාමාර්ග ගැනීමට කඩිනමින් පියවර ගන්නා ලෙස ද ජනාධිපතිවරයා මෙහිදී අවධාරණය කළේය.
+The President advised the Department of Immigration and Emigration, the Department of Immigration and Emigration, the Sri Lanka Customs and Airline and Airline Company.
+
+The President also said the President to start a practical new process to prevent the smugglers in these institutions to replace the existing scanner machines.
+
+The President emphasized the misconceptions of the customs in the people of the country and take immediate action to take strong discipline and legal action.
 
 ◼️
 
 [Data](articles/57379814.json)
+
+[Extended Data](ext_articles/57379814.ext.json)
 
 ---
 

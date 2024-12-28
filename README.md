@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 19:02:17**
+As of **2024-12-28 19:12:46**
 
 ## Newspaper Stats
 
-*Scraped **62,444** Articles*
+*Scraped **62,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,963
-adaderanalk | 7,624
+adaderanalk | 7,625
 tamilmirrorlk | 8,955
 virakesarilk | 10,359
-adaderanasinhalalk | 10,786
+adaderanasinhalalk | 10,788
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,824 (99.0%) of 62,444 articles have been extended.
+61,825 (99.0%) of 62,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### සීදුවේ වෙඩි තැබීමක්
+
+*2024-12-28 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204805) · `si`
+
+සීදූව ප්‍රදේශයේ දී මීට සුළු මොහොතකට පෙර වෙඩි තැබීමක් සිදුව තිබේ.
+
+පොලීසිය පැවසුවේ එකම පවුලේ තිදෙනෙකුට මෙම වෙඩි ප්‍රහාරය එල්ලවී ඇති බවය.
+
+වෙඩි තැබීමෙන් තිදෙනෙකු තුවාල ලබා ඇති අතර ඔවුන් රෝහල් ගත කිරීමට පියවර ගෙන ඇතැයි ද වාර්තා වේ.
+
+මෝටර් රථයෙන් පැමිණි පිරිසක් විසින් මෙම වෙඩි තැබීම සිදුකර ඇති අතර සිද්ධිය සම්බන්ධයෙන් පොලීසිය වැඩිදුර විමර්ශණ සිදුකරයි.
+
+◼️
+
+[Data](articles/209b2425.json)
+
+---
+
+### අනවශ්‍ය ලෙස ලුණු තොග රැස් කිරීමෙන් වළකින්නැයි ඉල්ලීමක්
+
+*2024-12-28 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204804) · `si`
+
+අනවශ්‍ය ලෙස ලුණු තොග රැස් කරගැනීමෙන් වළකින ලෙස හම්බන්තොට ලංකා ලුණු සමාගමේ නව සභාපති ටී. නන්දන තිලක මහතා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+ඔහු පැවසුවේ ලුණු හිඟයක් පිළිබඳ මේ වන විට කතා බහක් නිර්මාණය වී ඇතැයිද මේ හේතුවෙන් ජනතාව බියට පත් වී ලුණු තොග වශයෙන් නිවෙස් වෙත ගෙන ගොස් තැන්පත් කර ගැනීම් සිදුකරන බවය.
+
+ඔහු මෙම අදහස් පළ කරනු ලැබුවේ හම්බන්තොට ලංකා ලුණු සමාගමේ නව සභාපතිවරයා ලෙස අද (28) වැඩ භාරගතත් අවස්ථාවේ මාධ්‍ය වෙත අදහස් දක්වමිනි.
+
+එහිදී අදහස් දක්වමින් ඔහු පැවසුවේ මාසයක කාලයක් තුළ සාමාන්‍ය නිවසකට ග්‍රෑම් 400 ලුණු කුඩු පැකට් 2ක් සහ කැට ලුණු කිලෝ 1ක් ප්‍රමාණවත් වන බවය.
+
+කෙසේ නමුත් ලුණු හි﻿ඟයක් මතු නොවන බවත් අනියත බියක් ඇති කරගනිමින් ලුණු තොග රැස් කරගැනීමෙන් වළකින ලෙසත් ඔහු එහිදී ජනතාවගෙන් ඉල්ලීමක් කළේය.
+
+මේ වන විට ලංකා හම්බන්තොට ලුණු සමාගම සතුව මෙට්‍රික් ටොන් 6000ක ලුණු ප්‍රමාණයක් පවතින බවත් එය ජනවාරි මාසය දක්වා ප්‍රමාණවත් බවද ඔහු පැවසීය.
+
+තවද යම් ආකාරයකට ලුණු හිඟයක් ඇති වේ යැයි පවතින සැකය මත පිටරටින් ලුණු මෙට්‍රික් ටොන් 30,000ක් ආනයනය කිරීමට සූදානම් කර ඇතැයිද ඔහු පවසයි.
+
+...
+
+[Data](articles/54bcb47a.json)
+
+---
 
 ### Daughter murdered by father
 
@@ -53,6 +95,22 @@ In the wake of the incident, police said that the suspect had failed to make a m
 [Data](articles/93bc2bf3.json)
 
 [Extended Data](ext_articles/93bc2bf3.ext.json)
+
+---
+
+### Over 8,000 motorists penalized for traffic offenses in 24 hours
+
+*2024-12-28 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104548/over-8000-motorists-penalized-for-traffic-offenses-in-24-hours) · `en`
+
+In a 24-hour operation that concluded at 6.00 a.m. today (28), Sri Lanka Police have enforced the law against 383 drunk drivers as part of a nationwide effort to minimize traffic accidents during the festive season.
+
+According to the Police Media Division, a total of 8,392 drivers were penalized for various traffic violations during this period. Among these, 1,382 drivers were charged for breaching traffic rules, 690 for license-related offenses, 98 for speeding, and 59 for reckless driving.
+
+This special traffic operation, launched from December 23 under the directives of the Acting Inspector General of Police, is aimed at enhancing road safety across the island. The initiative comes amidst the festive season, a time typically marked by an increase in traffic incidents.
+
+◼️
+
+[Data](articles/78eca444.json)
 
 ---
 
@@ -126,23 +184,29 @@ The President also emphasized the need for a practical and modernized process to
 
 ---
 
-### ගංවතුරෙන් කඩුවෙල යටවීම වැළැක්වීමට විශේෂ පියවරක්
+### A special step to prevent the floods from flooding
 
 *2024-12-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204802) · `si`
 
-කැලණි ගඟේ ගංවතුර හේතුවෙන් කඩුවෙල නගර සභා ප්‍රදේශ යටවීම පාලනය කිරීම සඳහා විශේෂ පියවර කිහිපයක් ගෙන තිබේ.
+Steps to prevent floods: Ban on sand mining, surrounding land use restrictions. Natural water dam planned due to impact on Ambatale Water Treatment Plant. Decision made at Kaduwela Regional Development Committee meeting.
 
-ඒ අනුව ඒ අවට පහත් බිම් ගොඩ කිරීම සහ ඒ ආශ්‍රිත සිදුකෙරෙන වැලි කැණීම් කටයුතු ඊයේ (27) සිට ක්‍රියාත්මක වන පරිදි තහනම් කර තිබේ.
+🟩
 
-කඩුවෙල ප්‍රාදේශීය සංවර්ධන කමිටු රැස්වීමේදී මේ සම්බන්ධව තීරණය ගත් බව එම කමිටු සභාපති පාර්ලිමේන්තු මන්ත්‍රී අසිත නිරෝෂණ පැවසීය.
+Due to floods in the Kelani River, several steps have been taken to control Kaduwela Urban Council areas.
 
-ඔහු පැවසුවේ අඹතලේ ජල පවිත්‍රාගාරයට ආසන්නව ඉදිකර ඇති පාලන ජල වේල්ල හේතුවෙන් ගංවතුර තත්ත්වය ඇති වීම සඳහා විශාල බලපෑමක් ඇතිවන බවය.
+Accordingly, the surrounding land and the surrounding sand mining have been banned from yesterday (27).
 
-මේ හේතුවෙන් ලෝක බැංකු ව්‍යාපෘතිය යටතේ මෙම ස්ථීර ජල වේල්ල වෙනුවට ස්වංක්‍රීය ජල වේල්ලක් සකස් කිරීම සඳහා සැලසුම් මේ වන විට සකස් කරමින් පවතින බවද ඔහු පැවසීය.
+The Chairman of the Committee, Headquoes, he said that the decision was taken at the Regional Development Committee meeting of Kaduwela.
+
+He said that due to the controversial influence on the Ambatale Water Treatment Plant, a major impact on flooding.
+
+As a result, plans will be designed to prepare a natural water dam under the World Bank Project, "he said.
 
 ◼️
 
 [Data](articles/021b0d28.json)
+
+[Extended Data](ext_articles/021b0d28.ext.json)
 
 ---
 
@@ -1995,65 +2059,5 @@ Additionally, Sri Lanka Navy personnel as well as officer under trainees from th
 [Data](articles/51ae196b.json)
 
 [Extended Data](ext_articles/51ae196b.ext.json)
-
----
-
-### 2024-12-27 (Friday)
-
-### Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track (Part II of II)
-
-*2024-12-27 23:52:56* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-ill-fated-LRT-following-a-train-of-thought-from-policy-derailment-to-being-back-on-the-right-track-Part-II-of-II/4-771083) · `en`
-
-A vision to develop Sri Lanka’s railway infrastructure is the need of the hour even now, over four years after the island nation arbitrarily terminated a project that would meet its creaking infrastructural needs at concessionary terms from a friendly nation’s government
-
-The project that was due to commence with land acquisition in 2020 and be concluded in 2024 with an LRT that would have trains running along an elevated track at four-minute intervals during rush hour and 10-minute intervals at off-peak times ended in ignominy for the Sri Lankan Government when the project was arbitrarily terminated by the Gotabaya Rajapaksa administration citing the ongoing economic crisis at the time
-
-The railway community in Sri Lanka and all national-minded islanders commemorate 27 December as the day on which the inaugural Ceylon Government Railway (CGR) train ran between Colombo Fort and Ambepussa (34 miles on the main line) in 1864.
-
-...
-
-[Data](articles/3d23d952.json)
-
-[Extended Data](ext_articles/3d23d952.ext.json)
-
----
-
-### Cost of living pandemic and food security
-
-*2024-12-27 23:49:39* · [`dailyftlk`](https://www.ft.lk/columns/Cost-of-living-pandemic-and-food-security/4-771082) · `en`
-
-Although the current cost of living pandemic is the product of viruses originated from outside Sri Lanka, no preventive measures were taken by previous Governments to minimise the infection
-
-There are a few academics and economists who seem to believe that Sri Lanka’s economic revival and future growth should follow the developed world’s techno-industrial trajectory. The former President Ranil Wickremesinghe turned out to be a disciple of this philosophy. Don’t they realise that it is that trajectory which has led humanity to the brink of self-destruction? Let us reject the one size fit all model and cut the cloth to suit our size. This is not a backward-looking strategy but one sustainable in the face of unpredictable and disastrous swings in mega economies
-
-...
-
-[Data](articles/cb394958.json)
-
-[Extended Data](ext_articles/cb394958.ext.json)
-
----
-
-### The achievement of the sun is very close to
-
-*2024-12-27 23:01:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/சூரியனுக்கு-மிக-அருகில்-சென்று-சாதனை/57-349388) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Packer Solar" spacecraft approaches Sun, 380,000 miles away. Currently 93 million miles from Earth.
-
-🟩
-
-The journey of the spacecraft, dubbed 'Packer Solar', can be safely tested safely from the sun's surface 38 lakh miles.
-
-It is noteworthy that the spacecraft is currently 9 crore 30 lakh miles from Earth. Remble
-
-◼️
-
-[Data](articles/0777cde8.json)
-
-[Extended Data](ext_articles/0777cde8.ext.json)
 
 ---

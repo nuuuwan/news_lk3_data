@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 08:25:31**
+As of **2024-12-28 08:39:25**
 
 ## Newspaper Stats
 
@@ -26,29 +26,43 @@ adaderanasinhalalk | 10,769
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,791 (99.1%) of 62,371 articles have been extended.
+61,792 (99.1%) of 62,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### ‘’படகில் உயிரிழந்தவர்களின் உடல்களை கடலில்வீசவேண்டிய நிலையேற்பட்டது” ரோகிங்யா அகதிகளின் மனதை வருத்தும் அவலம் - ஜனாதிபதிக்கு சிவில் அமைப்புகள் கடிதம்
+### Civil organizations letter to the president
 
 *2024-12-28 08:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202340) · `ta`
 
-இலங்கைக்கு கடந்த வாரம் படகில்  வந்துள்ள மியன்மாரின் ரோகிங்யா புகலிடக்கோரிக்கையாளர்களிற்கு ஜனாதிபதி அனுரகுமாரதிசநாயக்க மனிதாபிமான புகலிடத்தை வழங்கவேண்டும் என 47 சிவில்சமூக அமைப்புகள் வேண்டுகோள் விடுத்துள்ளன.
+Here's a summary of the text in approximately 200 characters:
 
-டிசம்பர் 19 2024ம் திகதியன்று100க்கும் மேற்பட்ட ரோகிங்யா அகதிகளுடன் படகொன்று முல்லைத்தீவில் உள்ள முள்ளிவாய்க்காலை நோக்கி வந்தது.
 
-அன்று மாலை இலங்கை கடற்படையினர் திருகோணமலை துறைமுகத்தில் உள்ள அஸ்ரவ் இறங்குதுறைக்கு அந்த படகை பாதுகாப்பாக  அழைத்துச்சென்றனர்.டிசம்பர் 20 திகதி அவர்கள் பாதுகாப்பாக படகிலிருந்து தரையிறங்கினார்கள்.
 
-அதன் பின்னர் அவர்கள் திருகோணமலை நீதிமன்றத்திற்கு கொண்டு செல்லப்பட்டார்கள்,ரோகிங்யா  அகதிகள் தாங்கள் அடைக்கலம் கோரும் நோக்கத்துடனேயே இலங்கை வந்ததாக நீதிமன்றத்தில் தெரிவித்தனர்.
+47 civil orgs request Pres. Anura Kumaratissa provide asylum to Rohingya refugees in Sri Lanka. 115 refugees arrived Dec 19, 2024. Court orders detention, NGOs seek help. Concerns raised over detention conditions and frequent relocation. Heartbreaking stories of 6 deaths due to starvation during journey.
 
-அவர்கள் மூன்று படகுகளில் புறப்பட்டுள்ளனர் ஆனால் ஒரு படகு மாத்திரமே115 பேருடன் இலங்கையை வந்தடைந்துள்ளது.இந்த படகில் 103 புகலிடக்கோரிக்;கையாளர்களும் அவர்களை இலங்கைக்கு அழைத்துவந்த 12 பேரும் இருந்துள்ளனர்.
+🟩
+
+47 civil organizations have requested President Anura Kumaratisanayake to provide humanitarian asylum to Myanmar's Rohingya asylum seekers who have arrived in Sri Lanka last week.
+
+On December 19, 2024, a boat with more than 100 Rohingya refugees came to Mullivaikkal in Mullaitivu.
+
+That evening, the Sri Lankan navy took the boat to the Azrav landing department at the port of Trincomalee.
+
+They were then taken to the Trincomalee court and Rohingya refugees told the court that they had come to Sri Lanka with the aim of seeking refuge.
+
+They have left three boats but only 115 people have arrived in Sri Lanka with 115 people. The boat has 103 asylum handguns and 12 people who brought them to Sri Lanka.
+
+The court has ordered the detention of asylum seekers to the Sri Lankan demanding to send others to the Mirihana detention center.
+
+We know that the initial efforts to send them to the Mirihana rehabilitation camp because they are not ready to accept them.
 
 ...
 
 [Data](articles/b0da11f4.json)
+
+[Extended Data](ext_articles/b0da11f4.ext.json)
 
 ---
 

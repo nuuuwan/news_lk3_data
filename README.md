@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 10:43:17**
+As of **2024-12-28 11:01:35**
 
 ## Newspaper Stats
 
-*Scraped **62,384** Articles*
+*Scraped **62,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 3,785
 economynextcom | 3,796
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,957
-adaderanalk | 7,612
+adalk | 5,958
+adaderanalk | 7,613
 tamilmirrorlk | 8,949
 virakesarilk | 10,342
-adaderanasinhalalk | 10,771
+adaderanasinhalalk | 10,772
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,800 (99.1%) of 62,384 articles have been extended.
+61,801 (99.1%) of 62,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### කුරුඳුවලින් රටට හොඳ කලක්
+
+*2024-12-28 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204787) · `si`
+
+මෙරට ප්‍රධානතම අපනයන කෘෂි භෝගයක් වන කුරුඳු වගාව මගින් වසරකට ඇමරිකානු ඩොලර් මිලියන 500ක ආදායමක් උපයා ගැනීමට සැලසුම් කර ඇති බව කුරුඳු සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
+
+ලංකාවේ කුරුඳු නිෂ්පාදනය වසරක මෙට්‍රික් ටොන් 25,000ක් පමණ වන අතර, ඉන් මෙට්‍රික් ටොන් 19,000කට ආසන්න ප්‍රමාණයක් අපනයනය කරනු ලබයි.
+
+කුරුඳු සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ජනක ලින්දර මහතා පවසා සිටියේ, දැනට කුරුඳු අපනයනය තුළින් ලංකාවට වසරකට ඩොලර් මිලියන 250ක පමණ විදේශ විනිමයක් උපයා ගන්නා බවයි.
+
+එම ආදායම දෙගුණයක් කිරීම සඳහා සැලසුම් සකස්කර ඇති හෙතෙම පැවසීය‍.
+
+ඒ අනුව සාම්ප්‍රධායිකව කුරුඳු වගාකර තිබෙන ගාල්ල, මාතර හම්බන්තොට ප්‍රදේශවලට අමතරව කුරුණෑගල, පුත්තලම හා මහවැලි කලාප වැනි ප්‍රදේශවල කුරුඳු වගාව ව්‍යාප්ත කිරීමට කුරුඳු සංවර්ධන දෙපාර්තමේන්තුව සැලසුම් සකසා ඇත.
+
+මේ අතර ජනක ලින්දර මහතා පවසා සිටියේ, චීනය සමග මේ වනවිට කුරුඳු අපනයනය සම්බන්ධයෙන් අවබෝධතා ගිවිසුමක් අත්සන් කර ඇති බවයි.
+
+එහි ප්‍රතිඵලයක් ලෙස 2025 ජනවාරි මස සිට චීනයට ද කුරුඳු අපනයනය කිරීමට අවස්ථාව හිමිවන බව ඔහු පැවසීය.
+
+...
+
+[Data](articles/06052318.json)
+
+---
+
+### Colombo’s garbage surges during festive season
+
+*2024-12-28 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104535/colombos-garbage-surges-during-festive-season) · `en`
+
+The Colombo Municipal Council says that there is an increase in the garbage disposed within the Colombo municipality during the festive season.
+
+Colombo Municipal Commissioner Palitha Nanayakkara explained that the daily garbage collection, which usually amounts to 450 tonnes, is expected to rise to 500 tonnes by the end of the month.
+
+He further stated that the festive season has caused a slight increase in waste generation, with the daily waste production in Colombo normally ranging between 420 and 450 tonnes.
+
+“However, due to the large number of people arriving in Colombo by December 31, we predict that this amount could be around 500 tons,” he added.
+
+Meanwhile, the Director of the Central Environmental Authority (CEA) Ajith Gunawardena stated that the large amounts of food being thrown away has led to an increase in the amount of biodegradable waste.
+
+◼️
+
+[Data](articles/1b83e2d7.json)
+
+---
 
 ### Creator at 11: 45
 
@@ -74,19 +118,25 @@ While protecting local farmers, he also emphasized the challenges in building an
 
 ---
 
-### அறிக்கை சமர்ப்பிக்காத வேட்பாளர்கள் தொடர்பில் விசாரணை
+### Inquiry into candidates who have not submitted the report
 
 *2024-12-28 09:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-சமர்ப்பிக்காத-வேட்பாளர்கள்-தொடர்பில்-விசாரணை/175-349393) · `ta`
 
-பாராளுமன்றத் தேர்தல் தொடர்பான செலவு அறிக்கைகளை சமர்ப்பிக்காத வேட்பாளர்கள் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்படவுள்ளதாக, பொலிஸ் ஊடகப் பேச்சாளர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+Investigations launched against 1040 candidates for failing to submit election expense reports. Police collaborate with provincial Election Commissioners.
 
-அந்தந்த மாகாணங்களின் உதவி தேர்தல் ஆணையாளர்களுடன் கலந்தாலோசித்து இந்த பணிகள் மேற்கொள்ளப்படும் எனவும், பொலிஸ் ஊடகப் பேச்சாளர் கூறியுள்ளார்.
+🟩
 
-பாராளுமன்றத் தேர்தல் தொடர்பான செலவு அறிக்கையை சமர்ப்பிக்காத வேட்பாளர்கள் உட்பட 1040 வேட்பாளர்கள் மீது தேர்தல்கள் ஆணைக்குழு பொலிஸாரிடம் அறிக்கை சமர்ப்பித்துள்ளமை குறிப்பிடத்தக்கது.AN
+Police Media Spokesperson Buddhika Manadunga said that investigations will be launched in connection with the candidates who do not submit the cost reports of parliamentary elections.
+
+The work will be carried out in consultation with the Assistant Election Commissioners of the respective provinces, the police media spokesman said.
+
+The Elections Commission has submitted a report to the police on 1040 candidates, including candidates who did not submit the cost report on parliamentary elections.
 
 ◼️
 
 [Data](articles/8350ea18.json)
+
+[Extended Data](ext_articles/8350ea18.ext.json)
 
 ---
 
@@ -141,6 +191,18 @@ Until January in the midst of January, special circles will continue to be carri
 [Data](articles/9bf0cbac.json)
 
 [Extended Data](ext_articles/9bf0cbac.ext.json)
+
+---
+
+### ශ්‍රී ලංකා - නවසීලන්ත පළමු විස්සයි 20 තරගය අද
+
+*2024-12-28 09:07:31* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---නවසීලන්ත-පළමු-විස්සයි-20-තරගය-අද/9-413878) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පළමු විස්සයි 20 තරගය අද(28දා) පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/51c9450b.json)
 
 ---
 
@@ -1204,7 +1266,7 @@ The attack on Thamilchelvan, which provides news and news articles against polit
 
 ---
 
-### S&P keeps Sri Lanka at selective default on unfinished SriLankan Airlines bond
+### S&P keeps Sri Lanka rating at selective default on unfinished SriLankan Airlines bond
 
 *2024-12-27 18:30:00* · [`economynextcom`](https://economynext.com/sp-keeps-sri-lanka-at-selective-default-on-unfinished-srilankan-airlines-bond-196583/) · `en`
 
@@ -2069,91 +2131,5 @@ Ranil Wickremesinghe is on a tour of the country these days, while the Indian Pr
 [Data](articles/2de8d546.json)
 
 [Extended Data](ext_articles/2de8d546.ext.json)
-
----
-
-### Police Inspector who died in an accident
-
-*2024-12-27 14:21:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-உயிரிழந்த-பொலிஸ்-பரிசோதகர்/175-349382) · `ta`
-
-Police inspector dies in multi-vehicle crash near Habarana. Injured individuals hospitalized, including infant and other officers.
-
-🟩
-
-A police inspector who was involved in a vehicle inspection last night at the Kal Oya checkpoint on the Habarana - Trincomalee road has died in an accident.
-
-The accident occurred when the police inspector, the lorry and the car crashed into a tipper vehicle.
-
-The police inspector died after being admitted to Habarana Hospital after being injured.
-
-A woman in the car and a 4 -month -old infant, another police officer and the lorry driver have been admitted to the Habarana Hospital and later transferred to the Dambulla Hospital.
-
-◼️
-
-[Data](articles/63cc6359.json)
-
-[Extended Data](ext_articles/63cc6359.ext.json)
-
----
-
-### Education and Health Allocation for Education and Health - Minister Chandrasekhar
-
-*2024-12-27 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202283) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Minister Chandrasekhar allocates more funds for education and health in this year's budget. He emphasizes future planning, focusing on hygiene and addressing shortcomings.
-
-🟩
-
-Minister Chandrasekhar said that this year's budget will be allocated more funds for education and health.
-
-He said this while addressing health care at the Kilinochchi District Coordinating Committee meeting.
-
-In the Northern Province without future planning is concerned. We need to prepare plans for the future. Such planning can make improvements.
-
-Focus on hygiene matters and address the shortcomings.
-
-This time, there will be more funds for education and health.
-
-In addition, to address the shortcomings with the massive funds available. He also said that such shortcomings should be identified and prepared to resolve it.
-
-◼️
-
-[Data](articles/2bcdf930.json)
-
-[Extended Data](ext_articles/2bcdf930.ext.json)
-
----
-
-### More facts about India's joggings
-
-*2024-12-27 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204769) · `si`
-
-India joggings: Couple flees with Rs. Financial Criminal Investigation Unit probes cheating claims. Director arrested in Sri Lanka, deported to India. Suspects admit unregistered business, targeting Muslims in Samanthurai, Kalmunai, Ampar areas.
-
-🟩
-
-A couple who fled the country with a sum of Rs.
-
-The Financial Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received several complaints that the Financial Institute of Global Priva Limited has said he has cheated about Rs.
-
-Accordingly, the officers who investigated the investigation have come to know that the director has fled to India in 2021 through a boat with his wife and child.
-
-The suspect had been released through the international police against the suspects, and the suspect had been arrested by the security forces with his family in Papidayakam area with his family.
-
-They were then deported in the country for about three years and deported to Sri Lanka yesterday (26).
-
-First, the owner of the relevant institution and his 14-year-old son was arrested by the CID at the Katunayake Airport.
-
-His wife was upset in India, saying he could not come to the country and then sent her by another plane.
-
-...
-
-[Data](articles/5a157ffb.json)
-
-[Extended Data](ext_articles/5a157ffb.ext.json)
 
 ---

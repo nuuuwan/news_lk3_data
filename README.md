@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 15:27:20**
+As of **2024-12-28 15:43:19**
 
 ## Newspaper Stats
 
-*Scraped **62,412** Articles*
+*Scraped **62,415** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,960
-adaderanalk | 7,616
+adaderanalk | 7,619
 tamilmirrorlk | 8,951
 virakesarilk | 10,351
 adaderanasinhalalk | 10,777
@@ -26,23 +26,65 @@ adaderanasinhalalk | 10,777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,814 (99.0%) of 62,412 articles have been extended.
+61,815 (99.0%) of 62,415 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### නවසීලන්තයෙන් ශ්‍රී ලංකාවට ලකුණු 173ක ඉලක්කයක්
+### Sri Lanka a target of 173 in New Zealand
 
 *2024-12-28 14:29:59* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයෙන්-ශ්‍රී-ලංකාවට-ලකුණු-173ක-ඉලක්කයක්/9-413880) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පළමු විස්සයි 20 තරගය මේ වන විට පැවැත්වේ.
+Sri Lanka targets 173 against New Zealand in T20 match. New Zealand batsmen score 172/8 in 20 overs.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 172ක් රැස් කළේය.
+🟩
+
+The first Twenty20 match between the Sri Lankan team and New Zealand team will be held.
+
+Batting first, New Zealand scored 172 runs for the loss of 08 wickets at the end of 20 overs.
 
 ◼️
 
 [Data](articles/d7142f59.json)
+
+[Extended Data](ext_articles/d7142f59.ext.json)
+
+---
+
+### New appointments made to top positions of ITAK
+
+*2024-12-28 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104542/new-appointments-made-to-top-positions-of-itak-) · `en`
+
+The Ilankai Thamil Arasu Kachchi (ITAK) has appointed former MP Mavai Senathirajah as the head of the party’s Central Committee.
+
+Meanwhile, it was reported that C. V. K. Sivagnanam has been appointed as the Acting Leader of ITAK.
+
+The decisions have been finalized during the ITAK’s Central Committee meeting held in Vavuniya today (28), according to MP Gnanamuththu Srineshan.
+
+However, these appointments will reportedly be effective only until the next Central Committee meeting of the party, he said.
+
+◼️
+
+[Data](articles/f8d34b48.json)
+
+---
+
+### Sri Lanka’s economic recovery must be coupled with India’s growth - Ranil
+
+*2024-12-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104541/sri-lankas-economic-recovery-must-be-coupled-with-indias-growth-ranil) · `en`
+
+Combining Sri Lanka’s economic recovery with India’s “sustained and swift economic growth and technological advancement” will “establish” larger markets for the island country and give it a path away from debt-fuelled growth of the last two decades, according to former president Ranil Wickremesinghe.
+
+“The 2024 statement (India-Sri Lanka joint statement issued this month during island President Anura Kumara Dissanayake’s visit) is explicit on moving Sri Lanka away from a debt-driven economic model,” Wickremesinghe said Friday at the 7th Atal Bihari Vajpayee Memorial Lecture organised by India Foundation at India Habitat Centre in New Delhi.
+
+“For two decades, Sri Lanka’s economy has relied heavily on excessive debts, culminating in bankruptcy and an economic meltdown.
+
+Therefore, the strategy in this statement is to enhance Sri Lanka’s economic development by coupling our economic recovery with India’s sustained and swift economic growth and technological advancement,” he added.
+
+...
+
+[Data](articles/ae850b38.json)
 
 ---
 
@@ -89,6 +131,24 @@ The suspects have been sent to the Urban Development Authority after the delegat
 [Data](articles/bf3e1274.json)
 
 [Extended Data](ext_articles/bf3e1274.ext.json)
+
+---
+
+### Two including ex-provincial councillor remanded over Rs. 9 mln bribe
+
+*2024-12-28 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104540/two-including-ex-provincial-councillor-remanded-over-rs-9-mln-bribe) · `en`
+
+The Hulftsdorp Additional Magistrate has ordered the two individuals including former member of Western Provincial Council Sulochana Gamage, who were arrested while accepting a bribe, to be remanded in custody until January 06, 2025.
+
+The officers of the Bribery Commission arrested a businessman and the former Western Provincial Council member while accepting a bribe of Rs. 09 million from another businessman at Pita Kotte.
+
+This arrest was made based on a complaint lodged by a resident of the Madiwela area of Kotte, the Bribery Commission said.
+
+They had allegedly solicited the bribe on the promise of expediting compensation for a land of the complainant’s relative in Torington Avenue, which was acquired by the Urban Development Authority (UDA), according the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+◼️
+
+[Data](articles/e34bdd2c.json)
 
 ---
 
@@ -2117,77 +2177,5 @@ In addition, the police are taking steps to appear in court after further inquir
 ...
 
 [Data](articles/44455d11.json)
-
----
-
-### President condoles the demise of Manmohan Singh
-
-*2024-12-27 16:58:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்மோகன்-சிங்கின்-மறைவுக்கு-ஜனாதிபதி-இரங்கல்/175-349384) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake condoles Manmohan Singh's death on social media. He praises Singh's visionary leadership, transformation policies like Right to Education Act, and diplomatic achievements like Indo-American Nuclear Power Agreement. The President extends condolences to India and Singh's admirers worldwide.
-
-🟩
-
-President Anurakumara Dissanayake has condoled the demise of former Prime Minister Manmohan Singh on his 'X' site.
-
-“I extend my deepest condolences on behalf of the people of Sri Lanka and on my behalf to the Republic of India, the family of Manmohan Singh and his countless admirers around the world.
-
-The influence of Manmohan Singh, the leader of the visionary vision, crossed the national borders. When he was prime minister from 2004 to 2014, his transformation policies, such as the Right to Education Act and the Mahatma Gandhi National Rural Employment Guarantee Program, reflected his firm determination in equity and content.
-
-He contributed to alliances like BRICS, and revealed significant diplomacy with achievements such as the Indo-American Nuclear Power Agreement. His humility, intelligence and commitment in public service will encourage future generations forever. Let his soul calm down and join the divine. ”. Remble
-
-◼️
-
-[Data](articles/7932ec90.json)
-
-[Extended Data](ext_articles/7932ec90.ext.json)
-
----
-
-### Max - Movie Review
-
-*2024-12-27 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202315) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Max" movie review: Thrilling crime drama starring Kicha Sudheeba, Varalakshmi Sarathkumar, Prince. Police inspector investigates mysterious deaths, protects witnesses from political pressure. Suspenseful plot with unexpected twists, impressive performances.
-
-🟩
-
-Actors: Kicha Sudheeba, Varalakshmi Sarathkumar, Prince, 'Aadukalam' Narain, Sunil, Sarath Lokitsawa and many others.
-
-Vijay Desingu (Vijaya Vanan) - Vijay Karthikeya, directed by actor Bobby Simha starring 'Vallavan Vallavan'. Two years after the film 'Vikrant Rona', the film, which plays the hero of the Kannada film industry, Kicha Sudeepa, is the hero of the story?Or not?We will continue to see.
-
-Arjun Mahakshay (Kicha Sudheeba), referred to as Max, is back as a police inspector after a two -month workplace for a police station.. On the first night of her take on the night of his responsibility, the women arrested two youths who were sexually harassed in the public domain and placed them at the police station where he was in prisoner.
-
-There are two youths who have been caught in the armed room of the police station mysteriously in an unexpected moment. Since they are the successor of ministers in the state government, the guards working there are tension.
-
-...
-
-[Data](articles/a74bcd17.json)
-
-[Extended Data](ext_articles/a74bcd17.ext.json)
-
----
-
-### ராஜா கிளி -  திரைப்பட விமர்சனம்
-
-*2024-12-27 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202317) · `ta`
-
-நடிகர்கள் : சமுத்திரக்கனி, தம்பி ராமையா, தீபா, ரேஷ்மா, டேனியல் ஆனி போப், பழ. கருப்பையா, அருள்தாஸ், ஸ்வேதா , சுபா மற்றும் பலர்.
-
-அன்னை மடி எனும் பெயரிலான அனாதை மற்றும் ஆதரவற்றோர்களுக்கான காப்பகம் ஒன்றை நடத்தி வருகிறார் சமுத்திரக்கனி. இவர் ஒரு முறை வீதியோர குப்பையில் கிடைக்கும் உணவை உண்ணும் ஒரு முதியவரை காண்கிறார். அவரை அழைத்து வந்து குளிக்க வைத்து சிகை அலங்காரம் செய்து உணவு உண்ண வைத்து ஆதரவும், பரிவும் காட்டுகிறார். அதன் பிறகு அவருடைய கையில் இருக்கும் மூட்டையை திறந்து பார்க்கிறார். அதில் ஒரு நாட்குறிப்பு இருப்பதை காண்கிறார். ஒரு ஆர்வத்தில் அதனை வாசிக்கவும் தொடங்குகிறார். அவருடைய வாசிப்பின் மூலம் அந்த முதியவர் இந்தியா முழுவதும் பிரபலமான தொழிலதிபர் முருகப்பன் மன்றாடியார் எனத் தெரியவருகிறது.
-
-பிரபலமான தொழிலதிபர் முருகப்பன் மன்றாடியார், தீவிர முருக பக்தர் ,அவர் தன் சொந்த வாழ்க்கையில் மனைவி தெய்வானையை தவிர வள்ளிமலர் மற்றும் விசாகா என இரண்டு பெண்களுக்கு சிக்கலான தருணத்தில் ஆதரவு அளிக்கிறார்.
-
-...
-
-[Data](articles/c4d4b4bb.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 18:04:03**
+As of **2024-12-28 18:23:18**
 
 ## Newspaper Stats
 
-*Scraped **62,442** Articles*
+*Scraped **62,443** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,62 @@ dailymirrorlk | 4,733
 adalk | 5,962
 adaderanalk | 7,624
 tamilmirrorlk | 8,955
-virakesarilk | 10,358
+virakesarilk | 10,359
 adaderanasinhalalk | 10,786
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,821 (99.0%) of 62,442 articles have been extended.
+61,822 (99.0%) of 62,443 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### රථ වාහන වැරදි සම්බන්ධයෙන් හසුවූ රියදුරන් 8,000 ඉක්මවයි
+### தந்தையால் கூரிய ஆயுதத்தால் தாக்கப்பட்டு மகள் கொலை !
+
+*2024-12-28 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202347) · `ta`
+
+பிலியந்தலை பிரதேசத்தில் தந்தையால் கூரிய ஆயுதத்தால் தாக்கப்பட்டு மகள் கொலை செய்யப்பட்டுள்ளதாக பிலியந்தலை பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபரான தந்தை, தனது மனைவி வேறொரு நபருடன் தகாத உறவில் ஈடுபட்டிருப்பதாக சந்தேகமடைந்து மனைவி மற்றும் இரண்டு பிள்ளைகளை கூரிய ஆயுதத்தால் தாக்கியுள்ளார்.
+
+காயமடைந்த மனைவியும் இரண்டு பிள்ளைகளும் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் 13 வயதுடைய இளைய மகள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தை அடுத்து, சந்தேக நபர் தனது வீட்டின் அறையில் தவறான முடிவெடுத்து உயிரை மாய்த்துக் கொள்ள முயன்றுள்ள நிலையில் அது தோல்வியடைந்ததையடுத்து பிரதேசத்தை விட்டு தப்பிச் சென்று தலைமறைவாக இருப்பதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/93bc2bf3.json)
+
+---
+
+### Over 8,000 drivers have been found on traffic wrongdoing
 
 *2024-12-28 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204803) · `si`
 
-අද (28) පෙරවරු 6න් අවසන් වු පැය 24ක කාලය තුළ සිදුකළ විශේෂ රථ වාහන මෙහෙයුමේ දී බීමත් රියදුරන් 383 දෙනෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කර තිබේ.
+Here's a summary in 200 characters:
 
-ඒ අනුව අදාළ කාලය තුළ සමස්ත රථ වාහන වැරදි සම්බන්ධයෙන් රියදුරන් 8,392 නෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කර ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේය.
 
-එහිදී මාර්ග නීති උල්ලංඝනය කිරීම සම්බන්ධයෙන් රියදුරන් 1382 දෙනෙක්ද, බලපත්‍ර වැරදි සම්බන්ධයෙන් රියදුරන් 690 දෙනෙක්ද, අධිකවේගයෙන් රිය පැදවීම සම්බන්ධයෙන් 98 දෙනෙක්ද මෙන්ම අපරික්ෂාකාරී ලෙස රිය ධාවනය සම්බන්ධයෙන් රියදුරන් 59 දෙනෙකුට එරෙහිව නීතිය ක්‍රියාත්මක කර තිබේ.
 
-උත්සව සමයේ රථවාහන අනතුරු අවම කර ගැනීමේ අරමුණින් වැඩබලන පොලිස්පතිවරයාගේ උපදෙස් පරිදි විශේෂ රථවාහන මෙහෙයුමක් පසුගිය 23 වනදා සිට දිවයිනම ආවරණය වන පරිදි ක්‍රියාත්මක කෙරුණි.
+"Police crackdown: 8,000+ drivers caught, 383 drunk, 1,382 license errors, 690 permit issues. Operation island-wide since 23rd."
+
+🟩
+
+Law have been implemented against 383 drunk drivers during the 24-hour vehicle operations completed today.
+
+According to the Police Media Division states that the law has been implemented against a 8,392 drivers regarding the total vehicle errors.
+
+There are 1382 drivers and 690 drivers about the license errors and 59 drivers of the permit losses and 59 drivers are unable to driving.
+
+A special traffic operation was implemented covering the island from the 23rd of the 23rd of the past.
 
 ◼️
 
 [Data](articles/ecbbf3ed.json)
+
+[Extended Data](ext_articles/ecbbf3ed.ext.json)
 
 ---
 
@@ -2031,29 +2059,5 @@ Accordingly, officials of the Unavatuna Tourist Police Division have arrested th
 [Data](articles/391306b7.json)
 
 [Extended Data](ext_articles/391306b7.ext.json)
-
----
-
-### Sri Lanka Freedom Party (SLFP) new coalition soon - Duminda Dissanayake
-
-*2024-12-27 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/202334) · `ta`
-
-Sri Lanka Freedom Party forms coalition for local & provincial elections. General Secretary Duminda Dissanayake announces talks with various parties. New programs to launch Jan 2. Alliance aims to unite progressive policies.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) has launched talks with various parties on the formation of a coalition to contest the local government and provincial council elections.. The General Secretary of the party Duminda Dissanayake said the coalition would be announced soon.
-
-Friday (27). He further stated that he was speaking to the media after a discussion held at the headquarters.
-
-Work has begun to reconstruct the Sri Lanka Freedom Party. Negotiations have begun with many members of the SLFP. We will soon announce who will be joining with us. This has been announced for all constituencies. The party's new programs will be launched from January 2.
-
-Alliances set up in the past have now been completed. The alliance was formed for the presidential and general elections, and no permanent coalition was formed permanently. As a party that ruled in the past, the Sri Lanka Freedom Party (SLFP) said he would contest the upcoming elections in the next elections.
-
-...
-
-[Data](articles/e668270b.json)
-
-[Extended Data](ext_articles/e668270b.ext.json)
 
 ---

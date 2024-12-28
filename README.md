@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 04:13:39**
+As of **2024-12-29 04:27:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,853 (99.0%) of 62,467 articles have been extended.
+61,854 (99.0%) of 62,467 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -982,23 +982,33 @@ He was arrested following a complaint lodged with financial fraud.
 
 ---
 
-### ටින් මාළු සඳහා පාලන මිලක්
+### Control price for canned fish
 
 *2024-12-28 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204797) · `si`
 
-ටින් කල මාළු වර්ග සඳහා උපරිම සිල්ලර මිලක් නියම කරමින් පාරිභෝගික අධිකාරිය අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary in 200 characters:
 
-ඒ අනුව ටූනා ග්‍රෑම් 425 ටින්මාළු එකක උපරිම සිල්ලර මිල රුපියල් 380ක් වේ.
 
-මැකරල් ශුද්ධ බර ග්‍රෑම් 155ක උපරිම සිල්ලර මිල රුපියල් 180ක් වන අතර ග්‍රෑම් 425ක උපරිම සිල්ලර මිල රුපියල් 420ක් ද වේ.
 
-තවද ජැක් මැකරල් ශුද්ධ බර ග්‍රෑම් 425ක ටින්මාළු එකක උපරිම සිල්ලර මිල රුපියල් 560ක් ද වනු ඇත‍
+Consumer Affairs Authority sets max retail prices for canned fish: 425g tuna Rs. 380, 155g sardine Rs. 180, 425g mackerel Rs. 560. Prices effective from today.
 
-පාරිභෝගික අධිකාරිය පැවසුවේ අදාළ මිල ගණන් අද (28) සිට බලපැවැත්වෙනු ඇති බවය.
+🟩
+
+The Consumer Affairs Authority has issued a special gazette notification following a maximum retail price for canned fish types.
+
+Accordingly, the maximum retail price of a 425 grams of Tuna is Rs. 380.
+
+Maximum retail price of 155 grams of 155 g of maximum net weight is Rs. 180 and a maximum retail price of 425 grams is Rs. 420.
+
+Further, the maximum retail price of a 425 g of gack mackerel net burden will be Rs. 560
+
+The Consumer Affairs Authority said that the prices will be effective from today (28).
 
 ◼️
 
 [Data](articles/e8098e8b.json)
+
+[Extended Data](ext_articles/e8098e8b.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 23:12:32**
+As of **2024-12-28 23:27:34**
 
 ## Newspaper Stats
 
-*Scraped **62,457** Articles*
+*Scraped **62,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ dailymirrorlk | 4,733
 adalk | 5,964
 adaderanalk | 7,627
 tamilmirrorlk | 8,958
-virakesarilk | 10,360
-adaderanasinhalalk | 10,789
+virakesarilk | 10,362
+adaderanasinhalalk | 10,792
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,839 (99.0%) of 62,457 articles have been extended.
+61,839 (99.0%) of 62,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### චෝලන් ලෝක වාර්තාව තැබූ සස්නුලගේ මීළඟ ඉලක්කය
+
+*2024-12-28 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204810) · `si`
+
+"චෝලන් " ලෝක වාර්තාවක් තැබීමට 11 හැවිරිදි පාසල් සිසුවෙක් පසුගියදා සමත් වුණි.
+
+ඔහු රූබික් කියුබ් 1200ක් භාවිත කරමින් ජනාධිපතිවරයාගේ රුව නිර්මාණය කොට එලෙස " චෝලන් " ලෝක වාර්තාවක් තැබීමට සමත් විය.
+
+සස්නුලගේ මීළඟ ඉලක්කය වන්නේ රූබික් කියුබ් එක් ලක්ෂ විසිදහසක් භාවිත කරමින් ගිනස් ලෝක වාර්තාවක් තැබීමටය.
+
+◼️
+
+[Data](articles/cb68fd3f.json)
+
+---
+
+### இலங்கை இந்திய மீனவர் பிரச்சனை தொடர்பில் தனிப்பட்ட முறையில் இந்திய அரசாங்கத்துடன் பேசுவேன் - அர்ச்சுனா
+
+*2024-12-28 21:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202411) · `ta`
+
+இலங்கை இந்திய மீனவர் பிரச்சனை தொடர்பில் தனிப்பட்ட முறையில் இந்திய அரசாங்கத்துடன் பேசுவேன் என தெரிவித்த  பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா, இது தொடர்பில் திட்டமான முடிவுகள் எடுக்கப்பட வேண்டும் என்றார்.
+
+யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர்களின் சம்மேளனப் பிரதிநிதிகளை இன்று சனிக்கிழமை (28) பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா சந்தித்து கலந்துரையாடினார்.
+
+தமிழரின் அரசியலில் இந்தியா இன்று நேற்று அல்ல 1970, 60களில் இருந்தே முக்கிய காரணியாக இருந்திருக்கின்றது. பேச்சுவார்த்தை பேச்சுவார்த்தை என்று பேச்சுவார்த்தை நடத்தி எந்த முடிவும் எடுக்கப்பட்டதாக தெரியவில்லை.
+
+யாழ் மாவட்டத்தை பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினராக இது சம்பந்தமாக  பாராளுமன்றத்தில் அமைச்சருக்கு மேலதிகமாக கட்டாயமாக நான் பேசுவேன். சட்டங்களை இயற்றக்கூடிய பெரும்பான்மை தேசிய மக்கள் சக்தி அரசாங்கத்துக்கு உள்ளது.
+
+...
+
+[Data](articles/57ae71ab.json)
+
+---
+
+### වසරේ නැගී එන ක්‍රීඩකයින් අතරට කමිඳුත් එයි
+
+*2024-12-28 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204809) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් වසරේ නැගී එන ක්‍රිකට් ක්‍රීඩකයින් සිව්දෙනා සඳහා නාමයන් ප්‍රකාශයට පත් කර තිබේ.
+
+මීට අමතරව පාකිස්ථානයේ Saim ayub, බටහිර ඉන්දීය කොදෙව් ක්‍රීඩක Shamar joseph, සහ එංගලන්ත ක්‍රීඩක Gus Atkinson යන ක්‍රීඩකයින්ද ඇතුළත් වේ.
+
+◼️
+
+[Data](articles/7efc9035.json)
+
+---
 
 ### Shooting in the Seeduwa area;Death
 
@@ -55,6 +103,28 @@ Some people in the car opened fire and police are conducting further investigati
 [Data](articles/e3211b41.json)
 
 [Extended Data](ext_articles/e3211b41.ext.json)
+
+---
+
+### සීදූව වෙිඩිතැබීම ගැන තොරතුරු රැසක්
+
+*2024-12-28 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204808) · `si`
+
+සීදුව,  ලියනගේමුල්ල වෙළබඩපාර ප්‍රදේශයේ පිහිටි ව්‍යාපාරිකයෙකුගේ නිවසකට වෙඩිතැබීමක් සිදුකර තිබුණේ අද (28) පස්වරු 5:45ට පමණය.
+
+එහිදී වෙඩි ප්‍රහාරයට ලක්ව තිබුණේ එකම පවුලේ පියා සහ පුතුන් දෙදෙනාය.
+
+ඔවුන් බරපතළ තුවාල ලබා මීගමුව රෝහළට ඇතුළත් කර ඇති අතර මියගොස් ඇත්තේ, එම පවුලේ වැඩිමහල් පුත්‍රයාය.
+
+වෙඩිතැබීමෙන් බරපතළ තුවාල ලැබූ 73 හැවිරිදි ව්‍යාපාරිකයා මේ වනවිට මීගමුව රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටින අතර ඔහුගේ අනෙක් පුත්‍රයා කොළඹ ජාතික රෝහලට මාරු කර යවා ඇත.
+
+ඔවුන් වෙඩිතැබීම සිදුකර පළාගොස් තිබූ අතර පසුව වෙඩික්කරුවන් පැමිණි මෝටර් රථය කටුනායක කෝවින්න ප්‍රදේශයේ ආදාහනාගාරය අසල ගිනි ගැනීමකට ලක්ව තිබියදී පොලීසිය විසින් සොයාගෙන තිබේ.
+
+වෙඩික්කරුවන් T56 වර්ගයේ ගිනි අවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති  බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/d8f75614.json)
 
 ---
 
@@ -341,6 +411,24 @@ A special traffic operation was implemented covering the island from the 23rd of
 [Data](articles/ecbbf3ed.json)
 
 [Extended Data](ext_articles/ecbbf3ed.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதிகளுக்கு உயிரச்சுறுத்தல் ஏதும் கிடையாது ; பாதுகாப்பை மேலும் வரையறுக்கலாம் -அமைச்சர் கிருஷாந்த அபேசேன
+
+*2024-12-28 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202392) · `ta`
+
+முன்னாள் ஜனாதிபதிகளுக்கு எவ்வித அச்சுறுத்தலுக்கும் கிடையாதென புலனாய்வு பிரிவு வழங்கிய அறிக்கையின் பிரகாரமே இராணுவ பாதுகாப்பு நீக்கப்பட்டுள்ளது. அடுத்த மீளாய்வு அறிக்கையில் வழங்கப்பட்டுள்ள 60 பொலிஸ் பாதுகாப்பு அதிகம் என்று குறிப்பிடப்பட்டால் அதை 30 ஆக குறைக்கலாமென அறிவியல் மற்றும் தொழில்நுட்ப அமைச்சர் கிருஷாந்த அபேசேன தெரிவித்தார்.
+
+கொழும்பில் நடைபெற்ற நிகழ்வின் பின்னர் ஊடகங்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளதார நெருக்கடிக்கு தீர்வு காண்பதற்கு அரசாங்கம் உரிய நடவடிக்கைகளை எடுத்துள்ளது. அரிசி உள்ளிட்ட அத்தியாவசிய பொருட்களுக்கு சந்தையில் நிலவும் தட்டுப்பாடுகளுக்கு  தீர்வு காணப்படும். அரசியலில் இருந்து மக்களால் புறக்கணிக்கப்பட்டவர்கள் போலியான பல குற்றச்சாட்டுக்களை தற்போது முன்வைக்கின்றனர்.
+
+முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு குறைக்கப்பட்டமை தற்போதைய பிரதான பேசுபொருளாக காணப்படுகிறது. முன்னாள் ஜனாதிபதிகளின் பாதுகாப்புக்கு எவ்விதமான அச்சுறுத்தலும் கிடையாது என்று அறிக்கை கிடைத்ததன் பின்னரே வழங்கப்பட்ட இராணுவ பாதுகாப்பு மீளப் பெறப்பட்டது.
+
+...
+
+[Data](articles/d8cc076a.json)
 
 ---
 
@@ -750,11 +838,11 @@ The suspect will be produced before the Gampaha Magistrate’s Court, the Police
 
 ටින් කල මාළු වර්ග සඳහා උපරිම සිල්ලර මිලක් නියම කරමින් පාරිභෝගික අධිකාරිය අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
 
-ඒ අනුව ටූනා ග්‍රෑම් 425 සැමන් ටින් එකක උපරිම සිල්ලර මිල රුපියල් 380ක් වේ.
+ඒ අනුව ටූනා ග්‍රෑම් 425 ටින්මාළු එකක උපරිම සිල්ලර මිල රුපියල් 380ක් වේ.
 
 මැකරල් ශුද්ධ බර ග්‍රෑම් 155ක උපරිම සිල්ලර මිල රුපියල් 180ක් වන අතර ග්‍රෑම් 425ක උපරිම සිල්ලර මිල රුපියල් 420ක් ද වේ.
 
-තවද ජැක් මැකරල් ශුද්ධ බර ග්‍රෑම් 425ක සැමන් ටින් එකක උපරිම සිල්ලර මිල රුපියල් 560ක් ද වනු ඇත‍
+තවද ජැක් මැකරල් ශුද්ධ බර ග්‍රෑම් 425ක ටින්මාළු එකක උපරිම සිල්ලර මිල රුපියල් 560ක් ද වනු ඇත‍
 
 පාරිභෝගික අධිකාරිය පැවසුවේ අදාළ මිල ගණන් අද (28) සිට බලපැවැත්වෙනු ඇති බවය.
 
@@ -2089,95 +2177,5 @@ Nissan, Honda, and Mitsubishi Motors have reached a basic agreement to proceed w
 ...
 
 [Data](articles/aa5b19ec.json)
-
----
-
-### Indian High Commission facilitates demonstration of RoWeR agri machinery
-
-*2024-12-28 00:53:00* · [`islandlk`](http://island.lk/indian-high-commission-facilitates-demonstration-of-rower-agri-machinery/) · `en`
-
-In line with the Government of Sri Lanka’s efforts to revolutionalise agriculture, AHC Kandy and CGI, Jaffna on behalf of High Commission of India in Colombo facilitated a live demonstration of advanced agricultural machinery from RoWeR, a brand owned by Mechcreatio Industrial Solutions Pvt. Ltd., India.
-
-The demonstrations were conducted at various locations in Kandy, Matale, Nuwara Eliya and Badulla in association with REDA, central province, Department of Agriculture, Lions Club, Women’s Chamber of Commerce and other agencies.
-
-Subsequently, the team visited Jaffna where as part of ongoing efforts to enhance Agricultural Productivity, CGI, Jaffna organized the demonstrations at the fields of the Agriculture Faculty of the University of Jaffna, Kilinochchi, and at the office of the Deputy Provincial Director of Agriculture, Palaly Road, Jaffna. Officials from the CGI Jaffna also witnessed the live demonstration.
-
-...
-
-[Data](articles/9989b6be.json)
-
----
-
-### Rise in European cruise ship calls at HIP in 2024
-
-*2024-12-28 00:52:00* · [`islandlk`](http://island.lk/rise-in-european-cruise-ship-calls-at-hip-in-2024/) · `en`
-
-Hambantota International Port (HIP) experienced a modest increase in cruise ship arrivals in 2024, marking a significant shift in the origin of vessels calling at the port. While there was a noticeable decline in cruise ships originating from the Indian subcontinent, the port saw a substantial rise in ships arriving from Europe. Of the 23 cruise ships that called at HIP during the year, only six were from India, compared to 17 liners from Europe.
-
-...
-
-[Data](articles/2394d142.json)
-
----
-
-### CSE closes the week with an uninterrupted sequence of success
-
-*2024-12-28 00:51:00* · [`islandlk`](http://island.lk/cse-closes-the-week-with-an-uninterrupted-sequence-of-success/) · `en`
-
-The Colombo Stock Exchange (CSE) yesterday kicked off with selling pressure on its shares. However, share trading bounced back later and crossed the 15,500 mark reaching yet another new milestone.
-
-Obviously market activities were very positive due to the conclusion of debt restructuring process as well as the upgrading of ratings by the Rating Agencies, coincidentally just before the end of the year.
-
-This has built up confidence in local and foreign investors thus giving them enough reason to expect the continuation of current positive economic trends, market analysts said.
-
-Amid those developments both indices moved. The All Share Price Index up by 135.1 points while S and P SL20 up by 79.95 points. Turnover stood at Rs 9.8 billion with ten crossings.
-
-...
-
-[Data](articles/d96ba328.json)
-
----
-
-### A couple arrested on charges of financial fraud
-
-*2024-12-28 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/202337) · `ta`
-
-Couple arrested for Rs 1.6 billion financial fraud. CID detains suspects at Katunayake airport. Unregistered finance institute operated illegally. Suspects fled to India, now extradited to face trial in Colombo, Trincomalee, and Batticaloa courts.
-
-🟩
-
-The couple arrested on charges of financial fraud of Rs 1.6 billion have been detained.
-
-The suspects and his wife, who had been issued a red warning by the International Police, were arrested by the Criminal Investigation Department officials when they arrived at the Katunayake airport from India on Thursday (26).
-
-The magistrate ordered the suspects to be produced before the Colombo Pudukkadai Magistrate's Court yesterday.
-
-The suspects who run a Federal Global Finance Institute have defrauded more than 160 crores of rupees.
-
-Initial inquiries have revealed that the Director of the Finance Institute, his wife and children, had illegally fled to India as a sea.
-
-In this case, a lawsuit was filed against the suspects in Colombo, Trincomalee and Batticaloa courts and a foreign trip was issued against the suspects.
-
-...
-
-[Data](articles/cf7014c8.json)
-
-[Extended Data](ext_articles/cf7014c8.ext.json)
-
----
-
-### MP Kaushalya Ariyaratne lodges CID complaint over malicious social media campaign
-
-*2024-12-28 00:21:50* · [`dailyftlk`](https://www.ft.lk/news/MP-Kaushalya-Ariyaratne-lodges-CID-complaint-over-malicious-social-media-campaign/56-771106) · `en`
-
-National People’s Power (NPP) MP Dr. Kaushalya Ariyaratne has lodged a formal complaint with the Criminal Investigation Department (CID) over a series of malicious and false news posts circulating on social media, including personal attacks targeting her.
-
-In a statement, MP Ariyaratne condemned the deliberate campaign to tarnish her reputation and called for swift action against those responsible for creating and spreading such content. She emphasised that these “cheap tactics” would not deter women from participating in politics nor harm the Government, stating, “If anyone believes such tricks can intimidate us, they are sorely mistaken. While you resort to petty ploys, we will continue to focus on progress.”
-
-...
-
-[Data](articles/6b17405d.json)
-
-[Extended Data](ext_articles/6b17405d.ext.json)
 
 ---

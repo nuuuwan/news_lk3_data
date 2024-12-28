@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 20:27:04**
+As of **2024-12-28 20:43:04**
 
 ## Newspaper Stats
 
-*Scraped **62,449** Articles*
+*Scraped **62,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 458
 colombotelegraphcom | 631
 bbccomsinhala | 658
-islandlk | 3,785
+islandlk | 3,786
 economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,788
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,829 (99.0%) of 62,449 articles have been extended.
+61,830 (99.0%) of 62,450 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -181,6 +181,8 @@ This special traffic operation, launched from December 23 under the directives o
 ◼️
 
 [Data](articles/78eca444.json)
+
+[Extended Data](ext_articles/78eca444.ext.json)
 
 ---
 
@@ -1908,6 +1910,24 @@ Hambantota International Port (HIP) experienced a modest increase in cruise ship
 
 ---
 
+### CSE closes the week with an uninterrupted sequence of success
+
+*2024-12-28 00:51:00* · [`islandlk`](http://island.lk/cse-closes-the-week-with-an-uninterrupted-sequence-of-success/) · `en`
+
+The Colombo Stock Exchange (CSE) yesterday kicked off with selling pressure on its shares. However, share trading bounced back later and crossed the 15,500 mark reaching yet another new milestone.
+
+Obviously market activities were very positive due to the conclusion of debt restructuring process as well as the upgrading of ratings by the Rating Agencies, coincidentally just before the end of the year.
+
+This has built up confidence in local and foreign investors thus giving them enough reason to expect the continuation of current positive economic trends, market analysts said.
+
+Amid those developments both indices moved. The All Share Price Index up by 135.1 points while S and P SL20 up by 79.95 points. Turnover stood at Rs 9.8 billion with ten crossings.
+
+...
+
+[Data](articles/d96ba328.json)
+
+---
+
 ### A couple arrested on charges of financial fraud
 
 *2024-12-28 00:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/202337) · `ta`
@@ -2077,29 +2097,5 @@ This offer comes in time for the festive season, allowing families to indulge in
 [Data](articles/ce550644.json)
 
 [Extended Data](ext_articles/ce550644.ext.json)
-
----
-
-### Two suspects arrested by police
-
-*2024-12-28 00:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202336) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"2 suspects arrested for attacking journalist on A9 road in Kilinochchi. Detained at local police station."
-
-🟩
-
-Police have arrested two suspects for allegedly attacking a journalist on A9 road in Kilinochchi on Thursday evening.
-
-The two arrested by the Kili Nochi police are detained at the police station.
-
-◼️
-
-[Data](articles/2ee362ac.json)
-
-[Extended Data](ext_articles/2ee362ac.ext.json)
 
 ---

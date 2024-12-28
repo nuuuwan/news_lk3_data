@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 22:43:12**
+As of **2024-12-28 23:00:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,837 (99.0%) of 62,456 articles have been extended.
+61,838 (99.0%) of 62,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -564,17 +564,27 @@ Senior Vice President of the party, CVKK. President's Attorney MA Sumanthiran sa
 
 ---
 
-### முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் சகோதரர் கைது
+### Arrested by former minister Manusha Nanayakkara
 
 *2024-12-28 15:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-மனுஷ-நாணயக்காரவின்-சகோதரர்-கைது/175-349399) · `ta`
 
-முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் சகோதரர் நிதி மோசடி குற்றச்சாட்டில் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-குற்றப் புலனாய்வுப் பிரிவினரால் பிபிலையில் வைத்து இவர் கைது செய்யப்பட்டதாகத் தெரிவிக்கப்பட்டுள்ளது. R
+
+
+Former Minister Manusha Nanayakkara's brother arrested for financial fraud by CID in Bibila.
+
+🟩
+
+Former minister Manusha Nanayakkara's brother has been arrested on charges of financial fraud.
+
+He was arrested by the Criminal Investigation Department in Bibila.. Remble
 
 ◼️
 
 [Data](articles/b748ea73.json)
+
+[Extended Data](ext_articles/b748ea73.ext.json)
 
 ---
 

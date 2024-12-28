@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 00:42:55**
+As of **2024-12-29 01:12:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,843 (99.0%) of 62,465 articles have been extended.
+61,845 (99.0%) of 62,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -146,6 +146,8 @@ Mr. Thilaka acknowledged that salt production has declined significantly this ye
 
 [Data](articles/40741b83.json)
 
+[Extended Data](ext_articles/40741b83.ext.json)
+
 ---
 
 ### Shooting in the Seeduwa area;Death
@@ -174,25 +176,31 @@ Some people in the car opened fire and police are conducting further investigati
 
 ---
 
-### සීදූව වෙිඩිතැබීම ගැන තොරතුරු රැසක්
+### Lots of dissemination of Seeduwa
 
 *2024-12-28 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204808) · `si`
 
-සීදුව,  ලියනගේමුල්ල වෙළබඩපාර ප්‍රදේශයේ පිහිටි ව්‍යාපාරිකයෙකුගේ නිවසකට වෙඩිතැබීමක් සිදුකර තිබුණේ අද (28) පස්වරු 5:45ට පමණය.
+Seeduwa businessman killed, 2 sons injured in shooting. Father, 73, treated at Negombo Hospital. Police recover bullet, suspect vehicle found near crematorium. Incident occurred at 5:45 pm today.
 
-එහිදී වෙඩි ප්‍රහාරයට ලක්ව තිබුණේ එකම පවුලේ පියා සහ පුතුන් දෙදෙනාය.
+🟩
 
-ඔවුන් බරපතළ තුවාල ලබා මීගමුව රෝහළට ඇතුළත් කර ඇති අතර මියගොස් ඇත්තේ, එම පවුලේ වැඩිමහල් පුත්‍රයාය.
+A businessman of a businessman in the Seeduwa had been shot dead today at 5:45 pm today.
 
-වෙඩිතැබීමෙන් බරපතළ තුවාල ලැබූ 73 හැවිරිදි ව්‍යාපාරිකයා මේ වනවිට මීගමුව රෝහලේ දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටින අතර ඔහුගේ අනෙක් පුත්‍රයා කොළඹ ජාතික රෝහලට මාරු කර යවා ඇත.
+The shooting was shot dead, the father and two sons.
 
-ඔවුන් වෙඩිතැබීම සිදුකර පළාගොස් තිබූ අතර පසුව වෙඩික්කරුවන් පැමිණි මෝටර් රථය කටුනායක කෝවින්න ප්‍රදේශයේ ආදාහනාගාරය අසල ගිනි ගැනීමකට ලක්ව තිබියදී පොලීසිය විසින් සොයාගෙන තිබේ.
+They were seriously injured and admitted to the Negombo Hospital and died, the eldest son of the family.
 
-වෙඩික්කරුවන් T56 වර්ගයේ ගිනි අවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති  බව පොලීසිය පවසයි.
+The 73-year-old businessman who was seriously injured in the shooting was currently receiving treatment at the Negombo Hospital. The other son was transferred to the Colombo National Hospital.
+
+The police had recovered the shot and then the car had come to a fire near the crematorium area in Katunayake.
+
+The shooting has been carried out in a T56 rifle with a T56 rifle.
 
 ◼️
 
 [Data](articles/d8f75614.json)
+
+[Extended Data](ext_articles/d8f75614.ext.json)
 
 ---
 

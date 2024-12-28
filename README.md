@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 11:01:35**
+As of **2024-12-28 11:27:40**
 
 ## Newspaper Stats
 
-*Scraped **62,387** Articles*
+*Scraped **62,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 458
 colombotelegraphcom | 630
 bbccomsinhala | 658
 islandlk | 3,785
-economynextcom | 3,796
+economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,958
@@ -26,33 +26,65 @@ adaderanasinhalalk | 10,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,801 (99.1%) of 62,387 articles have been extended.
+61,803 (99.1%) of 62,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### කුරුඳුවලින් රටට හොඳ කලක්
+### Sri Lanka appoints panel to address slow container release from Customs
+
+*2024-12-28 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-panel-to-address-slow-container-release-from-customs-196603/) · `en`
+
+ECONOMYNEXT – Sri Lanka government has appointed a panel led by Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake to take necessary steps to fast track the release of containers from the port without any delay.
+
+The Cabinet of Ministers approved the proposal by President Anura Kumara Dissanayake to appoint a panel.
+
+Importers have complained of slow clearance of containers due to long time taken to check by Customs officials.
+
+“Customs officers determine which containers need to be inspected at the exit gates and conduct a physical scan of the containers,” a government document stated.
+
+“Various issues have arisen in the clearance process in the past, resulting in an increased number of containers being inspected by customs officials daily.”
+
+“An increase in the number of ships arriving at the port has also been observed.”
+
+...
+
+[Data](articles/ae9d7c48.json)
+
+[Extended Data](ext_articles/ae9d7c48.ext.json)
+
+---
+
+### A good time from cinnamics
 
 *2024-12-28 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204787) · `si`
 
-මෙරට ප්‍රධානතම අපනයන කෘෂි භෝගයක් වන කුරුඳු වගාව මගින් වසරකට ඇමරිකානු ඩොලර් මිලියන 500ක ආදායමක් උපයා ගැනීමට සැලසුම් කර ඇති බව කුරුඳු සංවර්ධන දෙපාර්තමේන්තුව පවසයි.
+Sri Lanka aims to boost annual cinnamon earnings to $500m through expanded cultivation and exports. The Cinnamon Development Department plans to double income by focusing on high-value processed products. A MoU with China will facilitate exports starting January 2025.
 
-ලංකාවේ කුරුඳු නිෂ්පාදනය වසරක මෙට්‍රික් ටොන් 25,000ක් පමණ වන අතර, ඉන් මෙට්‍රික් ටොන් 19,000කට ආසන්න ප්‍රමාණයක් අපනයනය කරනු ලබයි.
+🟩
 
-කුරුඳු සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ජනක ලින්දර මහතා පවසා සිටියේ, දැනට කුරුඳු අපනයනය තුළින් ලංකාවට වසරකට ඩොලර් මිලියන 250ක පමණ විදේශ විනිමයක් උපයා ගන්නා බවයි.
+Cinnamon Development Department says that the main export agricultural crop of Sri Lanka is planning to earn a US $ 500 million annually by cinnamon cultivation.
 
-එම ආදායම දෙගුණයක් කිරීම සඳහා සැලසුම් සකස්කර ඇති හෙතෙම පැවසීය‍.
+The cinnamon production of Sri Lanka is about 25,000 metric tons, which exports nearly 19,000 metric tons.
 
-ඒ අනුව සාම්ප්‍රධායිකව කුරුඳු වගාකර තිබෙන ගාල්ල, මාතර හම්බන්තොට ප්‍රදේශවලට අමතරව කුරුණෑගල, පුත්තලම හා මහවැලි කලාප වැනි ප්‍රදේශවල කුරුඳු වගාව ව්‍යාප්ත කිරීමට කුරුඳු සංවර්ධන දෙපාර්තමේන්තුව සැලසුම් සකසා ඇත.
+Director General of the Cinnamon Development Department Janaka Lindara said Cinnamon exports would earn about $ 250 million a year to Sri Lanka.
 
-මේ අතර ජනක ලින්දර මහතා පවසා සිටියේ, චීනය සමග මේ වනවිට කුරුඳු අපනයනය සම්බන්ධයෙන් අවබෝධතා ගිවිසුමක් අත්සන් කර ඇති බවයි.
+The plans have been made to double that income.
 
-එහි ප්‍රතිඵලයක් ලෙස 2025 ජනවාරි මස සිට චීනයට ද කුරුඳු අපනයනය කිරීමට අවස්ථාව හිමිවන බව ඔහු පැවසීය.
+Accordingly, the cinnamon development department has been prepared to expand cinnamon cultivation in the Kurunegala, Puttalam and Mahaweli zones in Galle, Matara areas.
+
+Meanwhile, Mr. Lindara said that a Memorandum of Understanding has been signed with China.
+
+As a result, the export of cinnamon to China from January 2025 will be exported to China.
+
+In addition, the Cinnamon Development Department expects to increase cinnamon, including the European Union.
 
 ...
 
 [Data](articles/06052318.json)
+
+[Extended Data](ext_articles/06052318.ext.json)
 
 ---
 
@@ -151,6 +183,22 @@ They had allegedly solicited the bribe on the promise of expediting compensation
 ◼️
 
 [Data](articles/6658bddc.json)
+
+---
+
+### German ‘stability pelican’ Helmut Schlesinger dies amid calls to return to Deutsche Mark
+
+*2024-12-28 09:31:00* · [`economynextcom`](https://economynext.com/german-stability-pelican-helmut-schlesinger-dies-amid-calls-to-return-to-deutsche-mark-196606/) · `en`
+
+ECONOMYNEXT – Helmut Schlesinger, who retired from Deutsche Bank 1993 as its President after helping keep Germany stable with the strong Deutsche Mark, standing against mainstream Saltwater-Cambridge inflationism that rocked the rest of the world, has passed away.
+
+Schlesinger’s passing comes as Germany is experiencing the highest inflation and social unrest since the Great Inflation period under the Euro, and early elections have been called after the collapse of a coalition government and calls to re-establish the Deutsche Mark.
+
+In 1952 Schlesinger had joined Bank deutscher Länder, the predecessor agency set up to issue to run Deutsche Mark and served the agency in different capacities maintaining monetary stability when the Fed fired global inflation to promote ‘full employment’.
+
+...
+
+[Data](articles/adb3ca48.json)
 
 ---
 
@@ -1268,6 +1316,28 @@ The attack on Thamilchelvan, which provides news and news articles against polit
 
 ### S&P keeps Sri Lanka rating at selective default on unfinished SriLankan Airlines bond
 
+*2024-12-27 18:30:00* · [`economynextcom`](https://economynext.com/sp-keeps-sri-lanka-rating-at-selective-default-on-unfinished-srilankan-airlines-bond-196583/) · `en`
+
+ECONOMYNEXT – Standard and Poor’s (S&P) said it was keeping Sri Lanka’s sovereign rating at selective default because a defaulted SriLankan Airlines bond has not yet been restructured, but has rated newly issued restructured bonds at CCC+.
+
+The 175 million dollar SriLankan Airlines bond is guaranteed by the government and remains in default.
+
+“We could raise our long-term foreign currency sovereign credit rating once Sri Lanka completes the restructuring of its remaining foreign currency-denominated commercial debt, including the government-guaranteed bond that SriLankan Airlines issued,” S&P Global Rating said in a statement.
+
+However, the new bond given in exchange for defaulted sovereign bonds have have been rated CCC+.
+
+Both Fitch and Moody’s upgraded the sovereign rating despite the outstanding SriLankan Airlines bond.
+
+Sri Lanka ‘SD/SD’ Foreign Currency And ‘CCC+/C’ Local Currency Ratings Affirmed; New Issues Rated ‘CCC+’
+
+...
+
+[Data](articles/2ff1c7cf.json)
+
+---
+
+### S&P keeps Sri Lanka rating at selective default on unfinished SriLankan Airlines bond
+
 *2024-12-27 18:30:00* · [`economynextcom`](https://economynext.com/sp-keeps-sri-lanka-at-selective-default-on-unfinished-srilankan-airlines-bond-196583/) · `en`
 
 ECONOMYNEXT – Standard and Poor’s (S&P) said it was keeping Sri Lanka’s sovereign rating at selective default because a defaulted SriLankan Airlines bond has not yet been restructured, but has rated newly issued restructured bonds at CCC+.
@@ -2055,81 +2125,5 @@ It has been reported that the necessary arrangements are made to take the body t
 [Data](articles/02dbe2af.json)
 
 [Extended Data](ext_articles/02dbe2af.ext.json)
-
----
-
-### Indian Prime Minister Modi pays tribute to Manmohan Singh's body
-
-*2024-12-27 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202274) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Indian PM Modi leads tributes to Manmohan Singh's body. Leaders pay respects as body returns home. Cremation tomorrow with full honors.
-
-🟩
-
-Leaders including Indian Prime Minister Modi are paying tribute to the body of the late Indian Prime Minister Manmohan Singh.
-
-Former prime minister and senior Congress leader Manmohan Singh (age 92) suffered a sudden illness yesterday. He was subsequently admitted to the Delhi AIIMS Hospital. He died on Thursday night (26) without treatment.
-
-Subsequently, Manmohan Singh's body has been taken to his home in Delhi. His body will be cremated tomorrow with full government honors.
-
-Leaders are paying tribute to the body of former Indian Prime Minister Manmohan Singh. Accordingly, Prime Minister Modi, Home Minister Amit Shah, Congress senior leader Sonia Gandhi and Rahul Gandhi are paying tribute to Manmohan Singh.
-
-The body of Manmohan Singh is to be held tomorrow after the leaders pay tribute.
-
-◼️
-
-[Data](articles/013baefb.json)
-
-[Extended Data](ext_articles/013baefb.ext.json)
-
----
-
-### දකුණු කොරියා වැඩබලන අගමැතිත් දෝෂාභියෝගය පරාදයි
-
-*2024-12-27 14:33:02* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියා-වැඩබලන-අගමැතිත්-දෝෂාභියෝගය-පරාදයි/11-413872) · `si`
-
-දකුණු කොරියාවේ වැඩබලන ජනාධිපති හන් ඩක්-සූට එරෙහිව ගෙනා දෝෂාභියෝයෙන් ඔහු පරාජයට පත්ව තිබේ. දෝෂාභියෝගය ජය ගැනිමට අවශ්‍ය ඡන්ද 151 සිමාව ඉක්මවා එයට නීති සම්පාදකයන් 192ක් පක්ෂව ඡන්දය ප්‍රකාශ කළේය.
-
-දකුණු කොරියා හිටපු ජනාධිපති යූන් සුක් යෝල් දෝෂාභියෝගයක් හරහා ධුරයෙන් නෙරපා සති දෙකක් වැනි කෙටි කාලයක් තුළ ඒරට වැඩ බලන ජනපතිවරයාද මෙසේ දෝෂාභියෝගයක් හරහාම පරාජය පත්විය.
-
-වැඩබලන ජනපතිධුරයට පත්විමට පෙරාතුව හන් ඩක් සූ එරට අගමැතිවරයා ලෙස කටය්‍රතු කළේය.
-
-දෙසැම්බර් 3 වන දින යුධ නීතිය පැනවීමට ඒවක ජනාධිපති යූන් කටයුතු කිරිමත් සමග දකුණු  කොරියාව තුළ ගැටලුකාරි තත්ත්වයක් උද්ගත වූ අතර පසුව ඔහු දෝෂාභියෝගයෙක් පරායට පත්විමෙන් අනතුරුව අගමැති හැන් වැඩබලන ජනපති ලෙස සිය රාජකාරි ආරම්භ කළේය.
-
-◼️
-
-[Data](articles/5fd7274b.json)
-
----
-
-### Ranil Manmohan Singh is the last respects to Singh
-
-*2024-12-27 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204770) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Ranil Wickremesinghe pays last respects to Manmohan Singh in New Delhi. Former PM's wife Gursharan Kaur attends. Rahul Gandhi also present. Wickremesinghe on tour, Indian PM's body at event.
-
-🟩
-
-Former President Ranil Wickremesinghe said the remains of former Prime Minister Man Singh today (27) at the New Delhi capital.
-
-Former President Ranil Wickremesinghe, the wife of Manmohan Singh, has condemned Mrs. Guerron Caley.
-
-Ranil Wickremesinghe was also present with Indian opposition leader Rahul Gandhi, who was present at the residence of Manmohan Singh, New Delhi.
-
-Ranil Wickremesinghe is on a tour of the country these days, while the Indian Prime Minister's body was present at the event.
-
-◼️
-
-[Data](articles/2de8d546.json)
-
-[Extended Data](ext_articles/2de8d546.ext.json)
 
 ---

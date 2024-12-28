@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 14:43:04**
+As of **2024-12-28 15:01:36**
 
 ## Newspaper Stats
 
-*Scraped **62,410** Articles*
+*Scraped **62,411** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 458
-colombotelegraphcom | 630
+colombotelegraphcom | 631
 bbccomsinhala | 658
 islandlk | 3,785
 economynextcom | 3,799
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,812 (99.0%) of 62,410 articles have been extended.
+61,812 (99.0%) of 62,411 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -639,6 +639,22 @@ Until January in the midst of January, special circles will continue to be carri
 ◼️
 
 [Data](articles/a9735b27.json)
+
+---
+
+### Elephants, Monkeys & Kidneys
+
+*2024-12-28 09:11:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/elephants-monkeys-kidneys/) · `en`
+
+I have chosen this seemingly peculiar title for the reason that each summarizes the plight of our farmers, unresolved challenges that warrant greater attention of politicians, administrators and researchers. These are real and urgent problems.
+
+All three share the common feature that easy solutions remain elusive and most likely to involve a number of causes and disciplines (multifactorial) and thus a simple or single solution is unlikely.
+
+Farmers are the most affected by elephant and CKDu (Chronic Kidney Disease of Unknown Aetiology), while the monkey menace troubles urban communities as well. All three are not new, but have come into prominence lately. The economic consequences are very clear. The helplessness of the victims is pathetic.
+
+...
+
+[Data](articles/af55f29f.json)
 
 ---
 
@@ -2153,21 +2169,5 @@ A bond maturing on 15.05.2030 closed at 11.00/10 percent, from 11.00/15 percent.
 ◼️
 
 [Data](articles/43475818.json)
-
----
-
-### அரசாங்கத்தை மாற்றியமைக்க வேண்டும் என்ற சிந்தனையில் நாங்கள் இல்லை – சாணக்கியன்
-
-*2024-12-27 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202313) · `ta`
-
-நாங்கள் அரசாங்கத்துடன் போய் சண்டை பிடித்து, அரசாங்கத்தை விமர்சனம் செய்து, அரசாங்கத்தை மாற்றி அமைக்க வேண்டும், என்ற சிந்தனையில் நாங்கள் இல்லை.  மூன்றில் இரண்டு பெரும்பான்மை உடன் இருக்கின்ற அரசாங்கத்தில் அரசியல் தீர்வு விடயத்தை அடையக்கூடிய வாய்ப்பு இருக்கின்ற காரணத்தினால் அதனை நாங்கள் சாதகமாகத்தான் பயன்படுத்த வேண்டும் என இலங்கைத் தமிழரசுக் கட்சியின் மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் இரா.சாணக்கியன் தெரிவித்துள்ளார்.
-
-வரையறுக்கப்பட்ட குருமண்வெளி சிக்கன சேமிப்பு கடனுதவு கூட்டுறவுச் சங்கத்தின் 37வது ஆண்டு நிறைவு விழாவும் சாதனையாளர் பாராட்டு விழாவும் குருமண்வெளியில் அமைந்துள்ள அச்சங்கத்தின் மண்டபத்தில் வியாழக்கிழமை (26) மாலை இடம்பெற்றது.
-
-நாட்டிலே அரிசி தட்டுப்பாடு வந்தபோது அமைச்சர் தெரிவித்தார், சதோச விற்பனை நிலையங்கள் ஊடாக 210 ரூபாவுக்கு அரசியும், 130 ரூபாவுக்கு தேங்காயும் கொள்வனவு செய்யலாம் என தெரிவித்தார். மக்கள் அதனை கொள்வனவும் செய்யலாம். ஆனால் எமது பிரதேசத்தில் ஒரு சதொச விற்ப நிலையம் கூட இல்லை.
-
-...
-
-[Data](articles/914e097d.json)
 
 ---

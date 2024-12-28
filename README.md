@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 05:01:49**
+As of **2024-12-29 05:12:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,854 (99.0%) of 62,467 articles have been extended.
+61,855 (99.0%) of 62,467 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1012,19 +1012,27 @@ The Consumer Affairs Authority said that the prices will be effective from today
 
 ---
 
-### மன்மோகன் சிங்கின் உடலுக்கு செந்தில் தொண்டமான் அஞ்சலி
+### Senthil Thondaman tributes to Manmohan Singh's body
 
 *2024-12-28 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202382) · `ta`
 
-இந்தியாவின் முன்னாள் பிரதமர் மன்மோகன் சிங்கின் பூதவுடலுக்கு இலங்கை தொழிலாளர் காங்கிரசின் தலைவர் செந்தில் தொண்டமான் மலர் வளையம் வைத்து மரியாதை செலுத்தினார்.
+Senthil Thondaman pays tribute to Manmohan Singh, praising his economic impact on India and strengthening ties between India and Sri Lanka. He highlights Singh's initiatives like free housing schemes for war-torn areas and plantation workers. Thondaman calls Singh's loss "irreparable" and expresses condolences to his family and Congress leaders.
 
-மறைந்த இந்தியாவின் முன்னாள் பிரதமர் மன்மோகன்சிங் இந்தியாவின் பொருளாதார வளர்ச்சிக்கு மாத்திரமின்றி, இலங்கையின் பொருளாதார வளர்ச்சிக்கும் ஒரு தூணாக திகழ்ந்தார். அதுமாத்திரமின்றி  இலங்கை - இந்தியா உறவை வலுப்படுத்த முன்னின்று செயற்பட்டார். குறிப்பாக 2010 ஆண்டளவில் அவருடைய ஆட்சி காலத்தில் முதல் முறையாக  இலங்கைக்கு இந்திய அரசால் இலவச வீட்டுத்திட்டம் வழங்கி வைக்கப்பட்டது.
+🟩
 
-மேலும், அக்காலப்பகுதியில் அவருடன்  பலமுறை கலந்துரையாடல்களை மேற்கொண்ட போது, அவருடைய பொருளாதார திட்டங்கள் வியப்பளித்தது. அவர் அண்டைய நாடுகளின் பொருளாதார வளர்ச்சியிலும் அக்கறை கொண்டவராக செயற்பட்டார்.
+Sri Lanka Workers Congress President Senthil Thondaman paid homage to former Prime Minister of India Manmohan Singh.
+
+Former Prime Minister of India, Manmohan Singh, was a pillar of India's economic growth, not only for the economic growth of India. In addition, Sri Lanka -India has acted to strengthen the relationship. Especially in 2010, for the first time during his tenure, the Government of India provided free housing by the Government of India.
+
+Also, when he had discussions with him during that time, his economic plans were astonishing. He was also interested in the economic growth of the neighboring countries.
+
+During his reign, he launched a free housing scheme for 46 thousand families from the war -torn North East and the families of 4 thousand plantation workers in the hill country.. Senthil Thondaman said that his loss was an irreparable loss to the Indian people and that Sri Lanka had lost a very important friend.
 
 ...
 
 [Data](articles/36fb5504.json)
+
+[Extended Data](ext_articles/36fb5504.ext.json)
 
 ---
 

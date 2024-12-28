@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 20:00:56**
+As of **2024-12-28 20:13:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,788
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,828 (99.0%) of 62,449 articles have been extended.
+61,829 (99.0%) of 62,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,27 +108,39 @@ The shooting was carried out by a group of people from the car and the police ar
 
 ---
 
-### අනවශ්‍ය ලෙස ලුණු තොග රැස් කිරීමෙන් වළකින්නැයි ඉල්ලීමක්
+### Request to avoid gathering salt stock
 
 *2024-12-28 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204804) · `si`
 
-අනවශ්‍ය ලෙස ලුණු තොග රැස් කරගැනීමෙන් වළකින ලෙස හම්බන්තොට ලංකා ලුණු සමාගමේ නව සභාපති ටී. නන්දන තිලක මහතා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු පැවසුවේ ලුණු හිඟයක් පිළිබඳ මේ වන විට කතා බහක් නිර්මාණය වී ඇතැයිද මේ හේතුවෙන් ජනතාව බියට පත් වී ලුණු තොග වශයෙන් නිවෙස් වෙත ගෙන ගොස් තැන්පත් කර ගැනීම් සිදුකරන බවය.
 
-ඔහු මෙම අදහස් පළ කරනු ලැබුවේ හම්බන්තොට ලංකා ලුණු සමාගමේ නව සභාපතිවරයා ලෙස අද (28) වැඩ භාරගතත් අවස්ථාවේ මාධ්‍ය වෙත අදහස් දක්වමිනි.
 
-එහිදී අදහස් දක්වමින් ඔහු පැවසුවේ මාසයක කාලයක් තුළ සාමාන්‍ය නිවසකට ග්‍රෑම් 400 ලුණු කුඩු පැකට් 2ක් සහ කැට ලුණු කිලෝ 1ක් ප්‍රමාණවත් වන බවය.
+Hambantota Lanka Salt Co. new chairman warns against excessive salt hoarding. He says 2 packets & 1kg cubes suffice per household. The company has 6,000 metric tons in stock, enough until January. 30,000 metric tons more prepared due to potential shortage. Production reduced this year; development plans to start next month.
 
-කෙසේ නමුත් ලුණු හි﻿ඟයක් මතු නොවන බවත් අනියත බියක් ඇති කරගනිමින් ලුණු තොග රැස් කරගැනීමෙන් වළකින ලෙසත් ඔහු එහිදී ජනතාවගෙන් ඉල්ලීමක් කළේය.
+🟩
 
-මේ වන විට ලංකා හම්බන්තොට ලුණු සමාගම සතුව මෙට්‍රික් ටොන් 6000ක ලුණු ප්‍රමාණයක් පවතින බවත් එය ජනවාරි මාසය දක්වා ප්‍රමාණවත් බවද ඔහු පැවසීය.
+New Chairman of Hambantota Lanka Salt Company to prevent unnecessary salt stocks. Nandana Thilaka requests the public.
 
-තවද යම් ආකාරයකට ලුණු හිඟයක් ඇති වේ යැයි පවතින සැකය මත පිටරටින් ලුණු මෙට්‍රික් ටොන් 30,000ක් ආනයනය කිරීමට සූදානම් කර ඇතැයිද ඔහු පවසයි.
+He said that there was a talk about a shortage of salt, he was created by a shortage of salt, and the people were terrified and frightened to the homes.
+
+He was speaking to the media as the new President of the Hambantota Lanka Salt Company in Hambantota today (28).
+
+Speaking on the occasion he said that 2 packets of salt and 1 kg of cubes were sufficient in a normal house.
+
+However, he requested the public to avoid an alley of salt and to avoid exile and gathering salt by causing mistreatment.
+
+He said Ceylon Hambantota Salt Company has a salt of 6000 metric tons and it is sufficient to January.
+
+He also said that 30,000 metric tons of salt have been prepared on suspicion that there is a shortage of salt.
+
+The Chairman said that the salt production was significantly reduced this year, he said that no government has developed any government in Jaffna after the issue of 2009.
 
 ...
 
 [Data](articles/54bcb47a.json)
+
+[Extended Data](ext_articles/54bcb47a.ext.json)
 
 ---
 

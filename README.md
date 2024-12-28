@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 21:43:33**
+As of **2024-12-28 22:02:31**
 
 ## Newspaper Stats
 
-*Scraped **62,455** Articles*
+*Scraped **62,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,786
 economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,963
+adalk | 5,964
 adaderanalk | 7,627
 tamilmirrorlk | 8,958
 virakesarilk | 10,360
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,833 (99.0%) of 62,455 articles have been extended.
+61,834 (99.0%) of 62,456 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### சீதுவ பகுதியில் துப்பாக்கிச் சூடு ; ஒருவர் மரணம்
+### Shooting in the Seeduwa area;Death
 
 *2024-12-28 21:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதுவ-பகுதியில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-349405) · `ta`
 
-சீதுவ- வெலிபொட பகுதியில் இன்று (28) இடம்பெற்ற துப்பாக்கிச்சூட்டில் காயமடைந்த மூவரில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-மேற்படி துப்பாக்கிச் சூட்டுக்கு இலக்காகி, ஒரே குடும்பத்தைச் சேர்ந்த 3 பேர் காயமடைந்து நீர்கொழும்பு மருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில், ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
 
-காரில் வந்த சிலர் துப்பாக்கிச் சூடு நடத்தியதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+"Seeduwa shooting: One death, 3 injuries. Family members hospitalized. Police investigating gunfire from passing vehicle."
+
+🟩
+
+One of the injured in the shooting in the Seeduwa-Welipoda area today (28) was killed, police said.
+
+One person died without treatment, as three members of the same family were injured and admitted to the Negombo Hospital.
+
+Some people in the car opened fire and police are conducting further investigations into the incident.. Remble
 
 ◼️
 
 [Data](articles/e3211b41.json)
+
+[Extended Data](ext_articles/e3211b41.ext.json)
 
 ---
 
@@ -653,6 +663,20 @@ The suspect will be produced before the Gampaha Magistrate’s Court, the Police
 ...
 
 [Data](articles/5ff263ed.json)
+
+---
+
+### මනූෂගේ සහෝදරයෙකු සී.අයි.ඩී අත්අඩංගුවට
+
+*2024-12-28 15:23:44* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂගේ-සහෝදරයෙකු-සී-අයි-ඩී-අත්අඩංගුවට/11-413882) · `si`
+
+හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ සහෝදරයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මූල්‍ය වංචාවක් සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව මෙලෙස ඔහුව අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/a3b412a8.json)
 
 ---
 
@@ -2113,19 +2137,5 @@ The couple was wanted for several financial frauds reported across the country, 
 [Data](articles/163c7960.json)
 
 [Extended Data](ext_articles/163c7960.ext.json)
-
----
-
-### TMH Group Chairman  Dr. Tharmalingam Tharesanan honoured at international human rights day celebrations
-
-*2024-12-28 00:20:47* · [`dailyftlk`](https://www.ft.lk/news/TMH-Group-Chairman-Dr-Tharmalingam-Tharesanan-honoured-at-international-human-rights-day-celebrations/56-771104) · `en`
-
-TMH Group of Companies Chairman Dr. Tharmalingam Tharesanan, was honoured as a Guest of Honour and Guest Speaker at the International Human Rights Day celebration held on 15 December at the Telangana Saraswata Parishad in Hyderabad, India. During the event, he was also presented with the Human Rights Crusaders Award for his outstanding contributions to the promotion and protection of human rights. The event was organised by the International Commission of Culture and Diplomatic Relations (ICCDR) and the United Human Rights Federation to recognise individuals and organisations advocating for human rights. It featured prominent speakers and awardees, including human rights activists, educators, and social leaders. Distinguished attendees included Dr. Avanidra Kumar Dandamudi, Consul General of Madagascar, Kaveti Srinivasa Rao, an international immigration lawyer, Smt Jwalitha, a renowned feminist writer, and Dr. Vedavati Dinesh, a women’s rights activist.
-
-...
-
-[Data](articles/08efb9bc.json)
-
-[Extended Data](ext_articles/08efb9bc.ext.json)
 
 ---

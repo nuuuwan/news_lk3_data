@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 08:39:25**
+As of **2024-12-28 08:50:00**
 
 ## Newspaper Stats
 
-*Scraped **62,371** Articles*
+*Scraped **62,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 5,955
 adaderanalk | 7,609
 tamilmirrorlk | 8,945
 virakesarilk | 10,341
-adaderanasinhalalk | 10,769
+adaderanasinhalalk | 10,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,792 (99.1%) of 62,371 articles have been extended.
+61,794 (99.1%) of 62,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### Delay in Colombo during festive season increases
+
+*2024-12-28 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204785) · `si`
+
+Colombo's festive season sees surge in garbage disposal: 500 tonnes daily vs usual 420-450 tonnes. Decomposition issues arise from excess food waste.
+
+🟩
+
+The disposal of garbage in Colombo has increased in Colombo city areas during the festive season, Colombo Municipal Council has increased.
+
+Its municipal commissioner Palitha Nanayakkara said that 450 tonnes of Ton Daily to 550 tonnes of Tons will increase to 500 tonnes.
+
+"Our average garbage production has increased at some level. The city is usually between 420 and 450 tons in the city of production.
+
+But by December 31, we foretell that this is about 500 tons of this size due to the enormous number of Colombo.
+
+Meanwhile, the Director of the Central Environmental Authority Dr. Ajith Gunawardena said that the large amount of food has caused to increase the amount of decomposed.
+
+◼️
+
+[Data](articles/95da90ad.json)
+
+[Extended Data](ext_articles/95da90ad.ext.json)
+
+---
 
 ### Civil organizations letter to the president
 
@@ -66,31 +92,39 @@ We know that the initial efforts to send them to the Mirihana rehabilitation cam
 
 ---
 
-### අද තරගයේ සියලු ප්‍රවේශපත් අලෙවි වෙයි
+### All tickets in the match sells
 
 *2024-12-28 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204784) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර තරග 3කින් සමන්විත විස්සයි20 ක්‍රිකට් තරගාවලියේ පළමු තරගය අද (28) පැවැත්වේ.
+Sri Lanka vs New Zealand T20 match summary: First game of 3-match series today at Mount Maunganui. Tickets sold out, 500 extra released. Over 10,000 fans expected. Sri Lanka has won 8, lost 14 against NZ in T20s since 2006.
 
-රාත්‍රී තරගයක් ලෙසින්  Mount Maunganui හිදී පැවැත්වෙන මෙම තරගය ශ්‍රී ලංකා වේලාවෙන් පෙ.ව. 11.45ට ආරම්භවීමට නියමිතව ඇත.
+🟩
 
-2006 වසරේදී දෙරට අතර විස්සයි20 තරග ආරම්භ වූ අතර, ඉන් අද පැවැත්වෙන්නේ 26වන තරගයයි.
+The first match of the 3-match Twenty20 match between the Sri Lanka Tourism and New Zealand will be played today (28).
 
-මේ දක්වා පැවති තරග අතරින් ශ්‍රී ලංකාව ජයගෙන ඇත්තේ තරග 8ක් පමණක් වන අතර, තරග 14ක්ම ඔවුන් නවසීලන්තය හමුවේ පරාජය වී තිබේ.
+The match will be held at Mount Mahaunganui as a night match. Will begin at 11.45.
 
-එමෙන්ම ශ්‍රී ලංකාව නවසීලන්තයේදී විස්සයි20 තරග 8ක් ක්‍රීඩාකර ඇති අතර, ඉන් මේ දක්වා ජයගෙන ඇත්තේ එක් තරගයක් පමණි.
+The Twenty20 match between the two countries began in 2006 and today is the 26th match.
 
-මේ අතර අද තරගයට අදාළ සියලු ප්‍රවේශපත් අලෙවී අවසන් බව නවසීලන්ත ක්‍රිකට් ආයතනය පවසයි.
+Sri Lanka has won only eight matches and 14 matches have been defeated before New Zealand.
 
-මේ හේතුවෙන් අමතර ප්‍රවේශපත්‍ර 500ක් නිකුත්කර ඇති අතර, එයද මේ වනවිට අලෙවි වී තිබේ.
+Sri Lanka has played eight Twenty20 matches in New Zealand and has won only one match.
 
-ක්‍රීඩාලෝලීන් 10,000කට අධික සංඛ්‍යාවකට එකවර නැරඹිය හැකි මෙම ක්‍රීඩාංගණයේ අති බහුතර ප්‍රමාණයක් වෙන්කර ඇත්තේ බිම වාඩිවී තරග නැරඹීම සඳහාය.
+Meanwhile, the sale of all-related tickets for the competition has ended the New Zealand cricket.
 
-නවසීලන්ත ක්‍රිකට් වැඩිදුරටත් දන්වා සිටියේ දෙරට අතර ජනවාරි 2වනදා නෙල්සන්හිදී පැවැත්වෙන තරග සියලු ප්‍රවේශපත්ද මේ වනවිට අලෙවි අවසන් බවයි.
+As a result, 500 additional tickets were released, and it was also sold.
 
-...
+The vast majority of the stadium where more than 10,000 sports fans can watch over 10,000 sports fans at once.
+
+The New Zealand cricket further stated that all tickets in Nelson have already been sales at Nelson.
+
+However, Mount Maunganui says that there are only a few tickets in the competition between the two countries on December 30th.
+
+◼️
 
 [Data](articles/6da93760.json)
+
+[Extended Data](ext_articles/6da93760.ext.json)
 
 ---
 
@@ -2179,21 +2213,5 @@ Provincial Councils and Local Government Deputy Minister Ruwan Senarath said tha
 [Data](articles/742e45e8.json)
 
 [Extended Data](ext_articles/742e45e8.ext.json)
-
----
-
-### களுத்துறையில் முதலை கடித்து பெண்ணொருவர் உயிரிழப்பு!
-
-*2024-12-27 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202271) · `ta`
-
-களுத்துறை தெற்கு பொலிஸ் பிரிவுக்குட்பட்ட கொஹொலான பகுதியில் நேற்று வியாழக்கிழமை (26)  முதலை கடித்து பெண்ணொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-வீட்டு பாவனை பொருட்களை கழுவுவதற்காக களுகங்கையில் இறங்கிய போது முதலை கடித்து உயிரிழந்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
-
-மேலும்,சடலம் நாகொட வைத்தியசாலை பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன் களுத்துறை தெற்கு பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/fec00e11.json)
 
 ---

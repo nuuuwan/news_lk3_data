@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 15:12:20**
+As of **2024-12-28 15:27:20**
 
 ## Newspaper Stats
 
-*Scraped **62,411** Articles*
+*Scraped **62,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,785
 economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,959
+adalk | 5,960
 adaderanalk | 7,616
 tamilmirrorlk | 8,951
 virakesarilk | 10,351
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,813 (99.0%) of 62,411 articles have been extended.
+61,814 (99.0%) of 62,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### නවසීලන්තයෙන් ශ්‍රී ලංකාවට ලකුණු 173ක ඉලක්කයක්
+
+*2024-12-28 14:29:59* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයෙන්-ශ්‍රී-ලංකාවට-ලකුණු-173ක-ඉලක්කයක්/9-413880) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පළමු විස්සයි 20 තරගය මේ වන විට පැවැත්වේ.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 172ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/d7142f59.json)
+
+---
 
 ### Sri Lanka a target of 173
 
@@ -102,21 +116,37 @@ The Sri Lanka Navy said that this is an excellent opportunity to improve the mut
 
 ---
 
-### பெரியநீலாவணையில் பொலிஸ் அதிகாரியை விசாரணையின் போது தாக்கிய சம்பவம் - 7 பேர் கைது
+### Investigation into police officer
 
 *2024-12-28 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202367) · `ta`
 
-விசாரணை மேற்கொண்டிருந்த பொலிஸ் அதிகாரியை குழுவாக இணைந்து தாக்கிய சந்தேக நபர்களை பெரியநீலாவணை பொலிஸார் கைது செய்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-அம்பாறை மாவட்டம் பெரியநீலாவணை பொலிஸ் பிரிவிற்குட்பட்ட பாண்டிருப்பு திருவள்ளுவர் வீதியில் இடம்பெற்ற இரு சாரார் முறுகல் தொடர்பில் வெள்ளிக்கிழமை (27) விசாரணை மேற்கொண்டிருந்த பொலிஸ் அதிகாரி மீது குறித்த தாக்குதல் மேற்கொள்ளப்பட்டிருந்தது.
 
-இத்தாக்குதலினால் நிலைகுலைந்த குறித்த பொலிஸ் அதிகாரி காயமடைந்த நிலையில் மருதமுனை பிரதேச வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
 
-பெரியநீலாவணை பொலிஸ் நிலைய பல்வேறு  குற்றத்தடுப்பு பிரிவில் கடந்த வியாழக்கிழமை(26) முறைப்பாடு ஒன்று வழங்கப்பட்டிருந்தது. வழமை போன்று அம்முறைப்பாட்டை ஆராய  இரு தரப்பினரை வரவழைத்த பொலிஸ் அதிகாரி விசாரணை விடயங்களை  ஆராய்ந்து கொண்டிருந்தார்.
+Police officer attacked during investigation in Ampara. Suspects arrested after assault. Officer hospitalized. Further arrests planned for inciting violence.
+
+🟩
+
+Periyakalai police have arrested the suspects who attacked a group of police officers who were investigating.
+
+The attack was carried out on Friday (27) in connection with a two -pronged police officer on the Thiruvalluvar road in Pandaruppu Thiruvalluvar Road, Ampara District.
+
+The police officer has been admitted to the Maruthamunai Regional Hospital for treatment.
+
+A complaint was lodged last Thursday (26) at the Various Criminal Investigation Division. As usual, the police officer who summoned the two sides to investigate the matter was investigating the investigation.
+
+While in the presence of the police officer, the complainant's side, Tidrena, has taken off her sandals and attacked the opponent at the other end.
+
+In this case, the police officer was attacked at the police station at the police station.
+
+The police officer was injured and admitted to the nearby Maruthamunai Regional Hospital for treatment. Seven female and male suspects have been arrested on suspicion.
 
 ...
 
 [Data](articles/0f71b668.json)
+
+[Extended Data](ext_articles/0f71b668.ext.json)
 
 ---
 
@@ -2159,23 +2189,5 @@ There are two youths who have been caught in the armed room of the police statio
 ...
 
 [Data](articles/c4d4b4bb.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.40/70 to dollar, bonds steady
-
-*2024-12-27 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-40-70-to-dollar-bonds-steady-196579/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee improved to close at 292.40/70 to the US dollar on Friday from 294.00/15 on Thursday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/50 percent, from up 9.40/55 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.65/75 percent.
-
-A bond maturing on 15.05.2030 closed at 11.00/10 percent, from 11.00/15 percent. (Colombo/Dec27/2024)
-
-◼️
-
-[Data](articles/43475818.json)
 
 ---

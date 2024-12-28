@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 22:02:31**
+As of **2024-12-28 22:15:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,834 (99.0%) of 62,456 articles have been extended.
+61,835 (99.0%) of 62,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,27 +80,39 @@ A man who was traveling in a motorcycle in an accident has been admitted to Tiko
 
 ---
 
-### මන්මෝහන් සිං භාරතයට සමුදෙයි
+### Manmohan Singh to Bharatha
 
 *2024-12-28 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204807) · `si`
 
-ඉන්දීය හිටපු අග්‍රාමාත්‍ය ආචාර්ය මන්මෝහන් සිංගේ දේහය පිළිබඳ රාජ්‍ය අවමංගල්‍ය උත්සවය පූර්ණ හමුදා ගෞරවය සහිතව අද සිදුකෙරුණි.
+Here's a summary of the text in approximately 200 characters:
 
-ඉන්දියානු ආර්ථික පුනරුදයේ නිර්මාතෘ ලෙස සැලකෙන හිටපු අග්‍රාමාත්‍ය ආචාර්ය මන්මෝහන් සිං, අසනීප තත්ත්වයක් හේතුවෙන් නවදිල්ලියේ රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වුණේ  පසුගිය බ්‍රහස්පතින්දා රාත්‍රීයේ දී ය.
 
-වැඩිම කාලයක් ඉන්දීය අගමැති ධුරය දැරූ නායකයෙක් වන ඔහු මියයන විට 92 හැවිරිදි වියේ පසුවුණි.
 
-ඔහුගේ අභාවය සම්බන්ධයෙන් අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න්, රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින්, ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් ඇතුළු ලෝක නායකයින් රැසක් ශෝකය පළකර තිබුණි.
+State funeral honors Dr. Manmohan Singh, India's economic architect. World leaders mourn. Body lies in state at Congress HQ. Military honors at Nigambod Ghat. PM Modi, President Murmu attend.
 
-හිටපු අගමැතිවරයාගේ නිවසේ තැන්පත් කර තිබූ දේහය කොංග්‍රස් පක්ෂ ප්‍රධාන කාර්යාලය වෙත ගෙනඑනු ලැබුවේ මහජනතාවට, කොංග්‍රස් පක්ෂ නායකයින්ට සහ විදෙස් රටවල නායකයින්ට ද දේහයට අවසන් ගෞරවට අවස්ථාව සලසමිනි.
+🟩
 
-එම අවස්ථාවට පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා ද  එක්ව සිටියේය.
+The state funeral of former Indian Prime Minister Dr. Manmohan Singh's body was held today with the honor of cleared.
 
-හිටපු අගමැතිවරයාගේ දේහය දිල්ලි නුවර රතු බලකොටු පරිශ්‍රයේ පිහිටි නිගම්බෝද් ගාට් දක්වා රැගෙන එනු ලැබුවේ, පූර්ණ හමුදා ගෞරවය සහිතව ය.
+Former Prime Minister Dr. Manmohan Singh, who is considered the Creator of the Indian Economic Renaissance, delegated at a hospital in a road leader.
 
-...
+He was a 92-year-old leader who was the largest number of time.
+
+The US President Joe Beadon, Russian President Vladminal Putton, Russian President Vladminal Putton, was condolerating many world leaders.
+
+The remains of the former Prime Minister's house was brought to the chief office of the Congress, Congress, and the leadership of the masses.
+
+MP Namal Rajapaksa was also present at the occasion.
+
+The former Prime Minister's body was brought to Nigambod Garts in Delhi, with full military reverence.
+
+The funeral of former Indian Prime Minister Manmohan Singh was held at Nigamboad Garthi by the participation of Indian President Murmand, Prime Minister Narendra Modi.
+
+◼️
 
 [Data](articles/6d779545.json)
+
+[Extended Data](ext_articles/6d779545.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 06:12:49**
+As of **2024-12-28 06:48:35**
 
 ## Newspaper Stats
 
-*Scraped **62,366** Articles*
+*Scraped **62,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,955
 adaderanalk | 7,609
-tamilmirrorlk | 8,943
+tamilmirrorlk | 8,944
 virakesarilk | 10,340
 adaderanasinhalalk | 10,767
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,790 (99.1%) of 62,366 articles have been extended.
+61,790 (99.1%) of 62,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### மின் கட்டணம்: மக்கள் கருத்துக்களை அறியும் நடவடிக்கை ஆரம்பம்
+
+*2024-12-28 03:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-மக்கள்-கருத்துக்களை-அறியும்-நடவடிக்கை-ஆரம்பம்/175-349390) · `ta`
+
+மத்திய மாகாணத்தில் பொதுமக்கள் கருத்துக்களை கேட்டறியும் நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளதாக பொதுப்பயன்பாடுகள் ஆணைக்குழு தெரிவித்தது.
+
+அமைப்புக்கள் மற்றும் தனிநபர்கள் உள்ளிட்ட 50 பேர் தமது கருத்துக்களை முன்வைக்கவுள்ளனர் என ஆணைக்குழு குறிப்பிட்டுள்ளது.
+
+ஊவா மாகாணத்தில் பொதுமக்களின் கருத்துக்களை கேட்டறியும் நடவடிக்கை எதிர்வரும் 30 ஆம் திகதியும் மேல் மாகாணத்தில் அடுத்த மாதம் 10 ஆம் திகதியும் இடம்பெறவுள்ளதாக பொதுப்பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+எவரேனும் ஒருவருக்கு கருத்துக்களை முன்வைக்க வேண்டுமாயின் 0772943193 எனும் வாட்ஸ் அப் இலக்கத்தினூடாக தம்மை பதிவு செய்துகொள்ள முடியும் என்றும் அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/24ff26ad.json)
+
+---
 
 ### South Korea's response to a no -confidence motion against president
 
@@ -2179,29 +2197,5 @@ The Railway Control Room will leave the Fort Railway Station at 7.30 pm and tomo
 [Data](articles/6cee363c.json)
 
 [Extended Data](ext_articles/6cee363c.ext.json)
-
----
-
-### African swine fever starts killing Sri Lanka’s wild boars
-
-*2024-12-27 10:48:00* · [`economynextcom`](https://economynext.com/african-swine-fever-starts-killing-sri-lankas-wild-boars-196538/) · `en`
-
-ECONOMYNEXT – African swine fever which devasted Sri Lanka’s pig farms especially in the Western province has now spread to the island’s wild boar population, with animals in forest reserves starting to die, a media report said.
-
-Dead wild boars have been found in forested areas in Gampaha, Meerigma, Peradeniya and Moneragala as well as the Yala National Park, Sri Lanka’s Daily Mirror newspaper quoted Tharaka Prasad, Director, Wildlife Health at the Department of Wildlife Conservation.
-
-“We found both swine flu and porcine reproductive and respiratory syndrome,” Prasad said.
-
-“The last one is not that dangerous because its mortality rate is low. Swine fever is totally fatal for the animals of the porcine family. It is highly contagious.”
-
-He said there was no accurate number of the dead but mortality rate was very high, posing a serious threat to the wild boar population.
-
-The most virulent form of the disease has mortality rates as high as 100 percent.
-
-...
-
-[Data](articles/2d8a85eb.json)
-
-[Extended Data](ext_articles/2d8a85eb.ext.json)
 
 ---

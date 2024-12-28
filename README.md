@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 09:43:40**
+As of **2024-12-28 10:02:27**
 
 ## Newspaper Stats
 
-*Scraped **62,375** Articles*
+*Scraped **62,379** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 458
 colombotelegraphcom | 630
-bbccomsinhala | 657
+bbccomsinhala | 658
 islandlk | 3,785
 economynextcom | 3,796
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,957
 adaderanalk | 7,609
-tamilmirrorlk | 8,946
+tamilmirrorlk | 8,949
 virakesarilk | 10,341
 adaderanasinhalalk | 10,770
 
@@ -26,23 +26,79 @@ adaderanasinhalalk | 10,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,797 (99.1%) of 62,375 articles have been extended.
+61,798 (99.1%) of 62,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### 381 கடைகளுக்கு எதிராக நடவடிக்கை
+### மன்மோகன் சிங்கின் பூதவுடல்11:45க்கு தகனம்
+
+*2024-12-28 09:48:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்மோகன்-சிங்கின்-பூதவுடல்11-45க்கு-தகனம்/175-349395) · `ta`
+
+முன்னாள் பிரதமரும், காங்கிரஸ் மூத்த தலைவருமான மன்மோகன் சிங்கின் பூதவுடல் இன்று (28) காலை 8 மணிக்கு, அவரது வீட்டில் இருந்து காங்கிரஸ் கட்சியின் தலைமை அலுவலகத்திற்கு கொண்டு செல்லப்பட்டது. அங்கு, அவரது பூதவுடல் அஞ்சலிக்காக வைக்கப்படுகிறது.
+
+அதன்பின்னர், காலை 9.30 மணிக்கு காங்கிரஸ் தலைமை அலுவலகத்தில் இருந்து மன்மோகன் சிங்கின் இறுதி ஊர்வலம் ஆரம்பமாகியுள்ளது.
+
+இந்த ஊர்வலம் யமுனை ஆற்றின் கரையில் அமைந்துள்ள நிகம்போத் காட் பகுதியை அடைந்ததும், அங்கு இராணுவ மரியாதையுடன் மன்மோகன் சிங்கின் இறுதி சடங்குகள் நடைபெறும்.
+
+◼️
+
+[Data](articles/1b7dac00.json)
+
+---
+
+### நாளாந்தம் 300 மெட்ரிக் டொன் அரிசி வெளியீடு
+
+*2024-12-28 09:40:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளாந்தம்-300-மெட்ரிக்-டொன்-அரிசி-வெளியீடு/175-349394) · `ta`
+
+சதொச விற்பனை நிலையங்கள் மூலம் நாளாந்தம் 300 மெற்றிக் தொன் அரிசி சந்தைக்கு வெளியிடப்படுவதாக, லங்கா சதொச லிமிடெட் நிறுவனத்தின் தலைவர் சமித்த பெரேரா தெரிவித்தார்.
+
+உள்ளூர் விவசாயிகளைப் பாதுகாக்கும் அதே வேளையில், அரிசி இறக்குமதிக்கான அவசரகால பதில் திட்டத்தை வகுப்பதில் உள்ள சவால்களையும் அவர் வலியுறுத்தினார்.AN
+
+◼️
+
+[Data](articles/d6f2e98a.json)
+
+---
+
+### அறிக்கை சமர்ப்பிக்காத வேட்பாளர்கள் தொடர்பில் விசாரணை
+
+*2024-12-28 09:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-சமர்ப்பிக்காத-வேட்பாளர்கள்-தொடர்பில்-விசாரணை/175-349393) · `ta`
+
+பாராளுமன்றத் தேர்தல் தொடர்பான செலவு அறிக்கைகளை சமர்ப்பிக்காத வேட்பாளர்கள் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்படவுள்ளதாக, பொலிஸ் ஊடகப் பேச்சாளர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+
+அந்தந்த மாகாணங்களின் உதவி தேர்தல் ஆணையாளர்களுடன் கலந்தாலோசித்து இந்த பணிகள் மேற்கொள்ளப்படும் எனவும், பொலிஸ் ஊடகப் பேச்சாளர் கூறியுள்ளார்.
+
+பாராளுமன்றத் தேர்தல் தொடர்பான செலவு அறிக்கையை சமர்ப்பிக்காத வேட்பாளர்கள் உட்பட 1040 வேட்பாளர்கள் மீது தேர்தல்கள் ஆணைக்குழு பொலிஸாரிடம் அறிக்கை சமர்ப்பித்துள்ளமை குறிப்பிடத்தக்கது.AN
+
+◼️
+
+[Data](articles/8350ea18.json)
+
+---
+
+### Action against 381 shops
 
 *2024-12-28 09:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/381-கடைகளுக்கு-எதிராக-நடவடிக்கை/175-349392) · `ta`
 
-இலங்கை பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் அறிக்கையின்படி, பண்டிகை காலத்தின் போது, மனித பாவனைக்கு தகுதியற்ற உணவுகளை விற்பனை செய்த 381 கடைகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-ஜனவரி மாத நடுப்பகுதி வரை, மனித பாவனைக்குத் தகுதியற்ற உணவுப் பொருட்களை விற்பனை செய்யும் கடைகளைக் கண்டறியும் விசேட சுற்றிவளைப்புக்கள் தொடர்ந்தும் முன்னெடுக்கப்படும் என, அதன் செயலாளர் சமில் முதுகட தெரிவித்தார். AN
+
+
+Legal action taken against 381 shops for selling unqualified food during festivals. Special inspections ongoing until January, says association secretary Samil Muthada.
+
+🟩
+
+According to a report by the Sri Lanka Public Health Inspectors Association, legal action has been taken against 381 stores that sold unqualified food during the festive season.
+
+Until January in the midst of January, special circles will continue to be carried out for selling unqualified food products, its secretary Samil Muthada said.An
 
 ◼️
 
 [Data](articles/9bf0cbac.json)
+
+[Extended Data](ext_articles/9bf0cbac.ext.json)
 
 ---
 
@@ -177,6 +233,22 @@ The Meteorological Department also requests the public to take necessary measure
 [Data](articles/a959e17e.json)
 
 [Extended Data](ext_articles/a959e17e.ext.json)
+
+---
+
+### අලි - මිනිස් ගැටුම : අලි පැන්නීමේ 'අසාර්ථක උත්සාහය' යළි අත්හදා බලන්න නියෝග දුන්නේ කවුද?
+
+*2024-12-28 03:55:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1elqz0nj7eo) · `si`
+
+අලි - මිනිස් ගැටුම : අලි පැන්නීමේ 'අසාර්ථක උත්සාහය' යළි අත්හදා බලන්න නියෝග දුන්නේ කවුද?
+
+අනුරාධපුරයේ අලි පළවා හැරීමේ මෙහෙයුම නිසා මේ දිනවල තවත් 'අලි ගැටලුවක්' නිර්මාණය වී තිබේ. ඒ, වනජීවී නිලධාරීන් අපේක්ෂා කළ මාර්ගයේ විල්පත්තුවට නොගොස් හැටක පමණ අලි රංචුවක් ඔයාමඩුව ගොවිපල දෙසට ගමන් කර ඇති බැවිනි. දැන් ඔයාමඩුව අවට ජනතාවගේ අලි ප්‍රශ්නය විසඳීම කළ යුතු වන්නේ ද මේ අලි පන්නා ගෙන ආ වනජීවී නිලධාරීන්ම ය.
+
+කුරුණෑගල, ගිරිබාවේ ද මෙවැනි අලි පළවා හැරීමේ මෙහෙයුමක් පසුගිය දිනවල ආරම්භ විය. අනුරාධපුරයේ සහ කුරුණෑගල එම මෙහෙයුම් පදනම් කරගෙන ජාතික ජන බලවේගයේ පරිසර ප්‍රතිපත්තිය ගැන ද ඇතැමුන් සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න කර තිබිණි. අලි පළවා හැරිම මේ වනවිට අවසන් කළ ද ප්‍රශ්නය තවමත් අවසන්ව නැත.
+
+...
+
+[Data](articles/d9e41d5a.json)
 
 ---
 
@@ -2111,109 +2183,5 @@ The stock was trading flat at 9.10 rupees on Friday. (Colombo/Dec27/2024)
 ◼️
 
 [Data](articles/8f813309.json)
-
----
-
-### President
-
-*2024-12-27 12:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதப்படையினருக்கு-ஜனாதிபதி-விடுத்த-அழைப்பு/175-349381) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Pres. Anura Kumara Dissanayake orders armed forces to maintain public order nationwide under Article 12 of Public Security Ordinance. Special gazette notification issued, effective today.
-
-🟩
-
-President Anura Kumara Dissanayake has ordered the armed forces to call for public order in all administrative districts across the country.
-
-Armed forces have been invited according to the powers granted to the President by Article 12 of the Public Security Ordinance.
-
-Accordingly, a special gazette notification was issued yesterday, with an order to invite all members of the Army, Navy and Air Force to come into effect from today (27).R
-
-◼️
-
-[Data](articles/8429da07.json)
-
-[Extended Data](ext_articles/8429da07.ext.json)
-
----
-
-### Sri Lankan passenger dies in Erbil after plane’s emergency landing
-
-*2024-12-27 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104520/sri-lankan-passenger-dies-in-erbil-after-planes-emergency-landing) · `en`
-
-A Sri Lankan woman with health issues caused a plane to make an emergency landing at the Erbil International Airport in Iraq on Wednesday, foreign media reported.
-
-She died in the Kurdish capital hours later, according to Sri Lanka’s honorary consul.
-
-Ahmed Jalal, the honorary consul of Sri Lanka in Erbil, said on Thursday that they were contacted by the Kurdistan Region’s relevant authorities who informed them that a Sri Lankan woman was onboard a plane from Doha to Paris.
-
-“An emergency happened inside the plane. Apparently, they [the pilot] informed Erbil airport, requesting a landing. The plane arrived at Erbil airport at 5:40pm,” he added, elaborating that medical teams arrived to provide assistance but the woman died onboard.
-
-She was 81 years old and lived in France. The Sri Lankan consulate reached out to her son, who is a French citizen and has called on the Kurdish authorities to help transport his mother’s dead body to Paris, according to Jalal.
-
-...
-
-[Data](articles/68974e56.json)
-
-[Extended Data](ext_articles/68974e56.ext.json)
-
----
-
-### Sri Lankan woman dies in a plane
-
-*2024-12-27 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204766) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan woman (81) dies on flight to Paris. Plane makes emergency landing in Iraq. Medical teams respond, but woman passes away before arrival. Consulate notifies family in France. Arrangements being made to repatriate body.
-
-🟩
-
-A Sri Lankan woman, who was flying to Paris from Doha, has died in a sickness of a plane.
-
-The plane has been landing on Emergency to the Extraordinary Airport in Iraq, Iraq.
-
-According to previous notifications carried out, medical teams had been summoned to the airport, but she had already died.
-
-The victim was 81 year old Sri Lankan woman in France.
-
-The Sri Lankan consulate in Arbill has worked to inform her, the Frenchman, to inform this.
-
-The necessary arrangements are to be taken to transport the body to France.
-
-◼️
-
-[Data](articles/21a51fef.json)
-
-[Extended Data](ext_articles/21a51fef.ext.json)
-
----
-
-### Two suspects arrested with locally manufactured guns
-
-*2024-12-27 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202276) · `ta`
-
-Two suspects arrested: one with locally made gun and liquor in Ambakaswewa, another with gun in Galagedera. Police conducted round-up operations nationwide.
-
-🟩
-
-Two suspects have been arrested with locally manufactured guns and illegal liquor during a round -up by police in different parts of the country yesterday (26).
-
-A suspect has been arrested with a locally manufactured gun and an illegal liquor in Ambakaswewa, which belongs to the Mahawa Police Division.
-
-Four liters of 500 ml of illegal liquor and locally manufactured gun have been seized from the arrested suspect.
-
-Meanwhile, a suspect has been arrested with a locally manufactured gun in the Galagedera area of ​​the Nikaweratiya police division.
-
-◼️
-
-[Data](articles/3e407821.json)
-
-[Extended Data](ext_articles/3e407821.ext.json)
 
 ---

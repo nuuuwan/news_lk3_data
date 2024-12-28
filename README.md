@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 16:42:51**
+As of **2024-12-28 16:59:13**
 
 ## Newspaper Stats
 
-*Scraped **62,432** Articles*
+*Scraped **62,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,961
-adaderanalk | 7,621
+adaderanalk | 7,623
 tamilmirrorlk | 8,953
 virakesarilk | 10,358
 adaderanasinhalalk | 10,782
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,782
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,818 (99.0%) of 62,432 articles have been extended.
+61,818 (99.0%) of 62,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### Special police operation targeting reckless long-distance bus drivers
+
+*2024-12-28 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104545/special-police-operation-targeting-reckless-long-distance-bus-drivers) · `en`
+
+Sri Lanka Police have implemented a special traffic operation during the festive season aimed at reducing traffic accidents across the island.
+
+This operation primarily targets long-distance bus drivers who are violating traffic rules and driving in a reckless manner.
+
+In addition, officers in civilian clothes have been deployed to monitor passenger buses and to travel on long-distance routes, Sri Lanka Police said.
+
+Accordingly, measures have been taken to monitor traffic violations including reckless driving, driving while using mobile phones, overtaking vehicles at pedestrian crossings, and speeding.
+
+Afterward, uniformed officers will stop the buses at different locations, inform the drivers of their violations, and take appropriate legal action, the police added.
+
+◼️
+
+[Data](articles/37e17279.json)
+
+---
 
 ### CVK Sivagnanam became the leader of the Tamil National Party's interim response
 
@@ -97,6 +117,24 @@ The maximum retail prices of the types of canned fish are as below:
 [Data](articles/0ac231e3.json)
 
 [Extended Data](ext_articles/0ac231e3.ext.json)
+
+---
+
+### Gazette issued stipulating maximum prices for canned fish
+
+*2024-12-28 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104544/gazette-issued-stipulating-maximum-prices-for-canned-fish) · `en`
+
+A Gazette notification has been issued stipulating the maximum retail prices for canned fish.
+
+The Extraordinary Gazette notification, issued by the Consumer Affairs Authority (CAA) has stated that no local manufacturer, packer, distributor or trader shall sell, expose or offer for display for sale the types of canned fish listed in the gazette above the stipulated maximum retail price.
+
+The relevant maximum retail prices will be in effect from today (Dec. 28), according to the Consumer Affairs Authority.
+
+The maximum retail prices of the types of canned fish are as below:
+
+◼️
+
+[Data](articles/2c695155.json)
 
 ---
 
@@ -2041,43 +2079,5 @@ Although the suspect had been trying to commit necks and attempted to commit sui
 [Data](articles/bf62367f.json)
 
 [Extended Data](ext_articles/bf62367f.ext.json)
-
----
-
-### දුම්රියට යටවි පුද්ගලයෙක් ජිවිතක්ෂයට
-
-*2024-12-27 19:20:10* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියට-යටවි-පුද්ගලයෙක්-ජිවිතක්ෂයට/11-413876) · `si`
-
-බදුල්ල සිට  නුවර බලා අද 27 සවස ධාවනය වෙමින් තිබූ භාණ්ඩ ප්‍රවාහන  දුම්රියට දියතලාව හපුතලේ අතර  තිස් අටවෙනි බිංගෙය  තුළදී දුම්රියට යට වී  හතළිස් හතර හැවිරිදි පුද්ගලයෙකු ජීවිතක්ෂයට පත් වී ඇතැයි දියතලාව පොලිසිය කියයි.
-
-මෙසේ ජීවිතක්ෂයට පත්වී ඇත්තේ කේ පී අමල් ඉශාන්ත 44 නමැති  දියතලාව කහගොල්ල  පදිංචි වී සිටි  පුද්ගලයෙකි.
-
-දුම්රිය පැමිණෙන අවස්ථාවේදී  මොහු මෙම බිංගේ තුළ සිටීමට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
-
-මේ සිද්ධියෙන්පසු  කොළඹ බදුල්ල දුම්රියන්  පැය දෙකකට අධික කාලයක් ප්‍රමාද වී ධාවනය වුණු බවද පොලිසිය කියයි.
-
-◼️
-
-[Data](articles/7fcb2f59.json)
-
----
-
-### Sri Lanka is the most rare gemstone in the world ...
-
-*2024-12-27 19:17:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகில்-மிகவும்-அரிதான-மாணிக்கக்-கல்-இலங்கையில்/175-349385) · `ta`
-
-Rare gemstone discovered in Sri Lanka: Scopolite Cat's Eye Sunstone, found in Ratnapura-Eruwanai area. Known globally for its rarity.
-
-🟩
-
-During the excavation of gem stone in the Ratnapura - Eruwanai area, one of the rare gemstones in the world has been found.
-
-The stone scopolite Gates is known during research as the solar system as Scopolite Cat's Eye Sunstone.
-
-◼️
-
-[Data](articles/b454e263.json)
-
-[Extended Data](ext_articles/b454e263.ext.json)
 
 ---

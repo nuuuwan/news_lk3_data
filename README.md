@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 21:01:37**
+As of **2024-12-28 21:12:28**
 
 ## Newspaper Stats
 
-*Scraped **62,450** Articles*
+*Scraped **62,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,963
 adaderanalk | 7,626
-tamilmirrorlk | 8,956
-virakesarilk | 10,359
-adaderanasinhalalk | 10,788
+tamilmirrorlk | 8,957
+virakesarilk | 10,360
+adaderanasinhalalk | 10,789
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,831 (99.0%) of 62,450 articles have been extended.
+61,832 (99.0%) of 62,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### ஹட்டன் விபத்தில் ஒருவர் படுகாயம்
+
+*2024-12-28 21:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-விபத்தில்-ஒருவர்-படுகாயம்/76-349404) · `ta`
+
+ஹட்டன் - நோர்வூட் பகுதியில் இருந்து பயணித்த காரும், ஹட்டனில் இருந்து வந்த மோட்டார் சைக்கிளும் மோதி விபத்துக்குள்ளானதில் ஒருவர் படுகாயமடைந்துள்ளார்.
+
+இச்சம்பவம் நேற்று மாலை 6.15 மணியளவில் மஸ்கெலியா - ஹட்டன் பிரதான வீதியில் டிக்கோயா வனராஜா தேயிலை தொழிற்சாலைக்கு அருகில் இடம்பெற்றுள்ளது.
+
+விபத்தில் மோட்டார் சைக்கிள் வண்டியில் பயணித்த நபர் பலத்த காயங்களுடன் டிக்கோயா கிளங்கன் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார். மேலதிக விசாரணைகளை ஹட்டன் பொலிஸார் முன்னெடுத்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/6cf56540.json)
+
+---
+
+### මන්මෝහන් සිං භාරතයට සමුදෙයි
+
+*2024-12-28 20:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204807) · `si`
+
+ඉන්දීය හිටපු අග්‍රාමාත්‍ය ආචාර්ය මන්මෝහන් සිංගේ දේහය පිළිබඳ රාජ්‍ය අවමංගල්‍ය උත්සවය පූර්ණ හමුදා ගෞරවය සහිතව අද සිදුකෙරුණි.
+
+ඉන්දියානු ආර්ථික පුනරුදයේ නිර්මාතෘ ලෙස සැලකෙන හිටපු අග්‍රාමාත්‍ය ආචාර්ය මන්මෝහන් සිං, අසනීප තත්ත්වයක් හේතුවෙන් නවදිල්ලියේ රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වුණේ  පසුගිය බ්‍රහස්පතින්දා රාත්‍රීයේ දී ය.
+
+වැඩිම කාලයක් ඉන්දීය අගමැති ධුරය දැරූ නායකයෙක් වන ඔහු මියයන විට 92 හැවිරිදි වියේ පසුවුණි.
+
+ඔහුගේ අභාවය සම්බන්ධයෙන් අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න්, රුසියානු ජනාධිපති ව්ලැද්මීර් පුටින්, ප්‍රංශ ජනාධිපති එමානුවෙල් මැක්‍රෝන් ඇතුළු ලෝක නායකයින් රැසක් ශෝකය පළකර තිබුණි.
+
+හිටපු අගමැතිවරයාගේ නිවසේ තැන්පත් කර තිබූ දේහය කොංග්‍රස් පක්ෂ ප්‍රධාන කාර්යාලය වෙත ගෙනඑනු ලැබුවේ මහජනතාවට, කොංග්‍රස් පක්ෂ නායකයින්ට සහ විදෙස් රටවල නායකයින්ට ද දේහයට අවසන් ගෞරවට අවස්ථාව සලසමිනි.
+
+එම අවස්ථාවට පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා ද  එක්ව සිටියේය.
+
+හිටපු අගමැතිවරයාගේ දේහය දිල්ලි නුවර රතු බලකොටු පරිශ්‍රයේ පිහිටි නිගම්බෝද් ගාට් දක්වා රැගෙන එනු ලැබුවේ, පූර්ණ හමුදා ගෞරවය සහිතව ය.
+
+...
+
+[Data](articles/6d779545.json)
+
+---
 
 ### The police landed in action
 
@@ -334,27 +374,57 @@ The President emphasized the misconceptions of the customs in the people of the 
 
 ---
 
-### TikTok ගැටලුවට ඩොනල්ඩ් ට්‍රම්ප් විසඳුමක් දෙන්න සැරසෙයි
+### Donald Trump to give a solution to TiktoK problem
 
 *2024-12-28 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204800) · `si`
 
-තමන් ධුරයට පත්වන තෙක් අමෙරිකාවේ TikTok තහනම පිළිබඳ තීන්දුව ලබා නොදෙන ලෙසට තේරී පත්වූ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලීම් කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-තමන් ධුරයේ වැඩ භාර ගැනීමෙන් පසු TikTok ගැටලුව සම්බන්ධයෙන් දේශපාලන විසදුමක් ලබාදීම ට්‍රම්ප්ගේ අපේක්ෂාව වෙයි.
 
-චීනයේ බයිට්ඩාන්ස් සමාගමට අයත් ටික්ටොක් සමාජ මාධ්‍ය රටපුරා තහනම් කළ හැකි කෙටුම්පතක් සම්මත කිරීමට අමෙරිකානු නියෝජිත මන්ත්‍රී මණ්ඩලය පියවර ගත්තේ මෙම වසර ආරම්භයේ දී ය.
 
-ඒ අනුව ටික්ටොක් මෘදුකාංගය රටපුරා තහනම් කිරීමට අමෙරිකානු නියෝජිත මන්ත්‍රී මණ්ඩලය එකඟ වුණි.
+US President Donald Trump seeks Supreme Court intervention to delay TikTok ban. He aims to provide a political solution after assuming office. The US Congress voted to ban TikTok, citing security concerns. ByteDance challenged the ban, arguing it violates free speech rights. The Supreme Court's verdict is pending on January 10.
 
-එවන් පසුබිමක අමෙරිකානු කොංග්‍රසයේ එම නීතියට එරෙහිව බයිට්ඩාන්ස් සමාගම ෆෙඩරල් අධිකරණයේ පෙත්සමක් ගොනු කළත් එය මීට සති කිහිපයකට පෙර ප්‍රතික්ෂේප වුණි.
+🟩
 
-ඒ අනුව ටික්ටොක් තහනම් කිරීම පිළිබඳ තීන්දුව ලබන ජනවාරි 10 වැනිදා ප්‍රකාශයට පත් කිරීමට නියමිතය.
+The US President Donald Trump has requested the Supreme Court who was elected not to give the verdict of TiktoK ban on the US TikTok ban in America until he was appointed.
 
-එලෙස තීන්දුව ප්‍රකාශයට පත් කිරීම තාවකාලිකව අත්හිටුවන ලෙස තේරී පත්වූ අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලීම් කර තිබුණි.
+Trump's hope is to give a political solution in the problem of tiktak after assumes duties.
+
+At the beginning of this year, the US Representatives Council took steps to pass a draft that could ban a draft that could ban a draft that could ban a draft that could ban a draft of the Ticktock social media in China.
+
+The US Representatives Council agreed to ban the Ticktock software across the country.
+
+In such a situation, Bitdans filed a petition in the Federal Court against the law of US Congress, but it was rejected a few weeks ago.
+
+Accordingly, the verdict of ticktock is to be announced on January 10.
+
+The US President Donald Trump had requested the Supreme Court to temporarily suspended the decision.
+
+Trump's purpose is to give a political solution to Ticktock's problem after the duties of his duties.
 
 ...
 
 [Data](articles/6d6a8622.json)
+
+[Extended Data](ext_articles/6d6a8622.ext.json)
+
+---
+
+### குற்றப்புலனாய்வு திணைக்களத்தில் ஜனவரி 3 இல் முன்னிலையாகுமாறு யோஷித்தவுக்கு அழைப்பு
+
+*2024-12-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202388) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இரண்டாவது புதல்வரான யோஷித்த  ராஜபக்ஷவை எதிர்வரும் 3 ஆம் திகதி குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகுமாறு அறிவிக்கப்பட்டுள்ளது.
+
+முறையற்ற சொத்து சேகரிப்பு விவகாரம் தொடர்பான விசாரணைக்கு முன்னிலையாகுமாறு யோசித்த ராஜபக்ஷவுக்கு குற்றப்புலனாய்வு பிரிவு அழைப்பு விடுத்துள்ளது.
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் பிரதான பாதுகாப்பு உத்தியோகஸ்த்தரான நெவில் வன்னியராச்சி வெள்ளிக்கிழமை (27) குற்றப்புலனாய்வு திணைக்களத்தின் முன்னிலையாகியுள்ளார்.
+
+குற்றப்புலனாய்வு பிரிவினர் நெவில் வன்னியராச்சியிடம் 4 மணித்தியாலங்கள் விசாரணைகளை மேற்கொண்டுள்ளனர்.முறையற்ற வகையில் சொத்து சேகரித்த விவகாரம் தொடர்பில் குற்றப்புலனாய்வு பிரிவு விசாரணைகளை மேற்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/c518e7ff.json)
 
 ---
 
@@ -2053,55 +2123,5 @@ A Condolence Book will be kept open at the High Commission of India located at 3
 [Data](articles/f2a09b3e.json)
 
 [Extended Data](ext_articles/f2a09b3e.ext.json)
-
----
-
-### Kumarika rolls out customised hair care experience with mobile ‘Hair Play Studio’
-
-*2024-12-28 00:18:42* · [`dailyftlk`](https://www.ft.lk/business/Kumarika-rolls-out-customised-hair-care-experience-with-mobile-Hair-Play-Studio/34-771101) · `en`
-
-Kumarika, hair care brand from Hemas Consumer Brands, has launched an initiative that brings personalised hair care experiences directly to customers via its mobile salon truck, ‘Hair Play Studio.’
-
-The ‘Hair Play’ campaign is designed to allow customers to experience and enjoy the benefits of Kumarika’s latest range of shampoo and conditioner, which has been meticulously crafted to cater to all Sri Lankan hair types.
-
-...
-
-[Data](articles/00971f2b.json)
-
-[Extended Data](ext_articles/00971f2b.ext.json)
-
----
-
-### Seylan Bank strengthens partnership with Kedalla Art of Living 2024 as title partner for 12th year
-
-*2024-12-28 00:16:51* · [`dailyftlk`](https://www.ft.lk/business/Seylan-Bank-strengthens-partnership-with-Kedalla-Art-of-Living-2024-as-title-partner-for-12th-year/34-771100) · `en`
-
-Seylan Bank PLC, a trusted name in Sri Lanka’s banking sector, partnered with the Kedalla Art of Living 2024 Exhibition as its title partner for the 12th consecutive year. The much-anticipated lifestyle exhibition attracted over 12,000 visitors seeking innovative lifestyle solutions.
-
-The Kedalla Art of Living Exhibition, organised by Asia Exhibition and Conventions Pvt Ltd for the 18th consecutive year, hosted over 200 trade stalls featuring an extensive range of products and services. Exhibitors showcased household appliances, home décor, real estate, landscaping, furniture, tiles, bathroom fittings, lighting solutions, and more – offering homemakers a one-stop platform for all their lifestyle needs.
-
-...
-
-[Data](articles/fcfd257b.json)
-
-[Extended Data](ext_articles/fcfd257b.ext.json)
-
----
-
-### Special seasonal consumer promotion on Pelwatte Salted Butter 200g pack
-
-*2024-12-28 00:16:05* · [`dailyftlk`](https://www.ft.lk/business/Special-seasonal-consumer-promotion-on-Pelwatte-Salted-Butter-200g-pack/34-771099) · `en`
-
-Pelwatte Dairy Industries Ltd., (PDIL), has announced an exclusive consumer promotion for its Salted Butter 200g pack.
-
-Until 31 January 2025, customers can enjoy a limited-time price-off at general trade outlets across the island. The 200g pack of Pelwatte Salted Butter, previously priced at Rs. 850, is now available for just Rs. 750, offering a Rs. 100 savings to consumers.
-
-This offer comes in time for the festive season, allowing families to indulge in the rich, creamy flavour of Pelwatte Butter while making their holiday meals even more special. Pelwatte Dairy is committed to providing high-quality, locally sourced dairy products, and this promotion aims to foster stronger connections with its customers while enhancing the overall consumer experience.
-
-...
-
-[Data](articles/ce550644.json)
-
-[Extended Data](ext_articles/ce550644.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 09:14:33**
+As of **2024-12-28 09:27:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,770
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,795 (99.1%) of 62,373 articles have been extended.
+61,796 (99.1%) of 62,373 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -152,19 +152,29 @@ The Meteorological Department also requests the public to take necessary measure
 
 ---
 
-### அஸ்வெசும நிலுவைத்தொகையை வழங்கத் தீர்மானம்
+### Resolution
 
 *2024-12-28 03:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-நிலுவைத்தொகையை-வழங்கத்-தீர்மானம்/175-349391) · `ta`
 
-மேற்படி குடும்பங்களின் வங்கிக் கணக்குகளில் நிலுவைத் தொகையை வைப்பிலிடவுள்ளதாக நலன்புரி நன்மைகள் சபை தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-அஸ்வெசும கொடுப்பனவின் முதலாம் கட்டத்தின் கீழ் 212,000 423 குடும்பங்களுக்காக இதுவரை செலுத்தப்படாத நிலுவைத் தொகையை வைப்பிலிடவுள்ளதாக சபையின் தலைவர் ஜயந்த விஜேரத்ன தெரிவித்துள்ளார்.
 
-1314 மில்லியன் ரூபாவுக்கும் மேற்பட்ட தொகையை நிலுவைத் தொகையாக வைப்பிலிட வேண்டியுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார். (a)
+
+Welfare Benefits Council: 212,000+ families to receive arrears deposits. Total: 1,314 million rupees. Chairman Jayantha Wijeratne announced.
+
+🟩
+
+The Welfare Benefits Council said that the amount of arrears in the bank accounts of these families will be deposited.
+
+The Chairman of the Council, Jayantha Wijeratne, said that under the first phase of the Asweesum allowance, 212,000 423 families will be deposited by the unpaid arrears.
+
+He also said that more than 1314 million rupees had to be deposited as arrears. (A)
 
 ◼️
 
 [Data](articles/b7c5a92a.json)
+
+[Extended Data](ext_articles/b7c5a92a.ext.json)
 
 ---
 

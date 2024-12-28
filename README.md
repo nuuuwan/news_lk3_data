@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 17:27:35**
+As of **2024-12-28 17:44:30**
 
 ## Newspaper Stats
 
-*Scraped **62,438** Articles*
+*Scraped **62,440** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,785
 economynextcom | 3,799
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,961
+adalk | 5,962
 adaderanalk | 7,623
-tamilmirrorlk | 8,954
+tamilmirrorlk | 8,955
 virakesarilk | 10,358
 adaderanasinhalalk | 10,785
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,785
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,820 (99.0%) of 62,438 articles have been extended.
+61,821 (99.0%) of 62,440 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### Special Notice to Members of Parliament
+
+*2024-12-28 17:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்களுக்கு-விசேட-அறிவிப்பு/175-349402) · `ta`
+
+MPs must submit asset & loan reports by Feb 15. New law requires this within 3 months of taking office. Annual submission due June 30. Newly elected MPs' deadline extended to Feb 15, per anti-corruption commission.
+
+🟩
+
+General Secretary of Parliament Kushani Rohanadeera has announced in writing to all parliamentarians to submit reports of assets and loans before February 15.
+
+According to Article 82 (A) of the new Corruption Act, all MPs must submit their property and responsible report within three months of appointed office.
+
+Members of Parliament must submit property and responsible statements before June 30 each year. Since all the newly elected MPs have to submit the property accounting report before February 15, it has not yet been decided to obtain the reports in June, according to the Commission of Investigation of Bribery Corruption.. Remble
+
+◼️
+
+[Data](articles/f10405c9.json)
+
+[Extended Data](ext_articles/f10405c9.ext.json)
+
+---
 
 ### ගංවතුරෙන් කඩුවෙල යටවීම වැළැක්වීමට විශේෂ පියවරක්
 
@@ -189,6 +211,24 @@ Senior Vice President of the party, CVKK. President's Attorney MA Sumanthiran sa
 ◼️
 
 [Data](articles/b748ea73.json)
+
+---
+
+### ජයග්‍රහණය පෙනි පෙනී ශ්‍රී ලංකාවට පරාජය අත්වෙයි
+
+*2024-12-28 15:48:41* · [`adalk`](https://www.ada.lk/sports/ජයග්‍රහණය-පෙනි-පෙනී-ශ්‍රී-ලංකාවට-පරාජය-අත්වෙයි/9-413884) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායමට එරෙහිව පැවති පළමු විස්සයි 20 ක්‍රික්ට් තරගයෙන් ලකුණු 08ක ජයක් වාර්තා කිරීමට නවසීලන්ත කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම සිය ඉනිමට කඩුලු 08ක් දැවී ලකුණු 172ක් රැස් කළේය.
+
+ඒ අනුව ජයග්‍රාහී ලකුණු 173ක ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 20 අවසානයේ කඩුලු 08ක් දැවී රැස් කරගත හැකි වූයේ ලකුණු 164ක් පමණී.
+
+තරගය ආරම්භක කඩුල්ලට ශ්‍රී ලංකා කණ්ඩායම ශතක සබඳතාවයක් ගොඩ නැගුවද ඉන් පසු මැද පෙළ අසාර්ථක වීමෙන් මෙලෙස පරාජයට පත් විය.
+
+◼️
+
+[Data](articles/5fc0fbc1.json)
 
 ---
 
@@ -2021,37 +2061,5 @@ Former Chief Minister SM Ranjith, a group of MPs and MPs Wimalaweera Dissanayake
 [Data](articles/c43da548.json)
 
 [Extended Data](ext_articles/c43da548.ext.json)
-
----
-
-### அமைச்சர் வைத்தியர் நளிந்த தலைமையில் விசேட நடைபவணி
-
-*2024-12-27 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/202333) · `ta`
-
-அன்டிபயோட்டிக் (Antibiotic) என்னும் நுண்ணுயிர் எதிர்ப்பிகள் விழிப்புணர்வு வாரத்தை ஒட்டி "அனைவரும் ஒன்றிணைவோம் - நுண்ணுயிர் எதிர்ப்பிகளை காப்போம்” என்னும் தொனிப்பொருளில் சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் விசேட நடைபவணி இடம்பெற்றிருந்தது.
-
-அன்டிபயோட்டிக் (Antibiotic ) என்னும் நுண்ணுயிர் எதிர்ப்பிகள் தேவையற்ற பாவனைத் தொடர்பில் பொதுமக்களை தெழிவூட்டுவதற்காக சுகாதார அமைச்சின் தேசிய நுண்ணுயிர் எதிர்ப்பிகளுக்கான மையத்தால் மேற்படி நடைபவணி ஒழுங்கமைக்கப்பட்டிருந்தது.
-
-சுகாதார அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தலைமையில் இடம்பெற்ற இந்த நடைபவணியில் சுகாதார அமைச்சின் செயலாளர் வைத்தியர் அனில் ஜசிங்க, பணிப்பாளர் நாயகம் வைத்தியர் அசேல குணவர்தன, உள்நாட்டு கலைஞர்கள், தன்னார்வலர்கள், மற்றும் பெருந்தொகையான பொதுமக்களும் கலந்துக் கொண்டிருந்தனர். நேற்று காலை 10.00 மணியளவில் சுதந்திர சதுக்க வளாகத்துக்கருகில் ஆரம்பமாகிய பேரணி,  சுகாதார அமைச்சை சென்றடைந்திருந்தது.
-
-...
-
-[Data](articles/760548f5.json)
-
----
-
-### Govt committed to providing suitable environment for happy, quality life without discrimination - PM
-
-*2024-12-27 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104530/govt-committed-to-providing-suitable-environment-for-happy-quality-life-without-discrimination-pm) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has affirmed the government’s commitment to creating a suitable environment for all individuals to live a happy and quality life, free from discrimination.
-
-Prime Minister Dr. Amarasuriya made this statement today (December 27), during a ceremony held in Batariwatta, Moratuwa, to inaugurate the first phase of a housing project funded by Chinese financial assistance amounting to Rs. 22 billion. This initiative aims to enhance the living standards of low-income families, the PM’s Media Division reported.
-
-The project envisions the construction of 1,996 houses under Chinese financial assistance. The phase inaugurated in the Batariwatta area, Moratuwa, will provide 575 houses for low-income earners, while the housing project in Kottawa will include 108 houses designated for veteran artists.
-
-...
-
-[Data](articles/7101b1eb.json)
 
 ---

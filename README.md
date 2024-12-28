@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 04:01:25**
+As of **2024-12-29 04:13:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,852 (99.0%) of 62,467 articles have been extended.
+61,853 (99.0%) of 62,467 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -958,17 +958,27 @@ The 20th tournament consisted of three matches exceeding 1 - 0.
 
 ---
 
-### මනූෂගේ සහෝදරයෙකු සී.අයි.ඩී අත්අඩංගුවට
+### Manusha's brother arrested for CID
 
 *2024-12-28 15:23:44* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂගේ-සහෝදරයෙකු-සී-අයි-ඩී-අත්අඩංගුවට/11-413882) · `si`
 
-හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ සහෝදරයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මූල්‍ය වංචාවක් සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව මෙලෙස ඔහුව අත්අඩංගුවට ගෙන ඇත.
+
+
+Former Minister Manusha Nanayakkara's brother arrested by CID over financial fraud allegations.
+
+🟩
+
+Former Minister Manusha Nanayakkara has arrested a brother of the CID.
+
+He was arrested following a complaint lodged with financial fraud.
 
 ◼️
 
 [Data](articles/a3b412a8.json)
+
+[Extended Data](ext_articles/a3b412a8.ext.json)
 
 ---
 

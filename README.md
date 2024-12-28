@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 10:02:27**
+As of **2024-12-28 10:15:06**
 
 ## Newspaper Stats
 
-*Scraped **62,379** Articles*
+*Scraped **62,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,40 @@ economynextcom | 3,796
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,957
-adaderanalk | 7,609
+adaderanalk | 7,612
 tamilmirrorlk | 8,949
-virakesarilk | 10,341
+virakesarilk | 10,342
 adaderanasinhalalk | 10,770
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,798 (99.1%) of 62,379 articles have been extended.
+61,799 (99.1%) of 62,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### மன்மோகன் சிங்கின் பூதவுடல்11:45க்கு தகனம்
+### Creator at 11: 45
 
 *2024-12-28 09:48:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்மோகன்-சிங்கின்-பூதவுடல்11-45க்கு-தகனம்/175-349395) · `ta`
 
-முன்னாள் பிரதமரும், காங்கிரஸ் மூத்த தலைவருமான மன்மோகன் சிங்கின் பூதவுடல் இன்று (28) காலை 8 மணிக்கு, அவரது வீட்டில் இருந்து காங்கிரஸ் கட்சியின் தலைமை அலுவலகத்திற்கு கொண்டு செல்லப்பட்டது. அங்கு, அவரது பூதவுடல் அஞ்சலிக்காக வைக்கப்படுகிறது.
+Manmohan Singh's funeral procession begins at Congress HQ at 9:30 AM. Military honors will be given near Yamuna River.
 
-அதன்பின்னர், காலை 9.30 மணிக்கு காங்கிரஸ் தலைமை அலுவலகத்தில் இருந்து மன்மோகன் சிங்கின் இறுதி ஊர்வலம் ஆரம்பமாகியுள்ளது.
+🟩
 
-இந்த ஊர்வலம் யமுனை ஆற்றின் கரையில் அமைந்துள்ள நிகம்போத் காட் பகுதியை அடைந்ததும், அங்கு இராணுவ மரியாதையுடன் மன்மோகன் சிங்கின் இறுதி சடங்குகள் நடைபெறும்.
+Former Prime Minister and senior Congress leader Manmohan Singh's body was taken to the Congress party headquarters at 8 am today (28). There, his funeral is placed for tribute.
+
+Thereafter, Manmohan Singh's funeral began from the Congress headquarters at 9.30 am.
+
+When the procession reaches the Nikambod Gad area on the banks of the Yamuna River, there will be military honors and the funeral of Manmohan Singh.
 
 ◼️
 
 [Data](articles/1b7dac00.json)
+
+[Extended Data](ext_articles/1b7dac00.ext.json)
 
 ---
 
@@ -78,6 +84,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Two businessmen arrested while accepting Rs. 9 mln bribe
+
+*2024-12-28 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104534/two-businessmen-arrested-while-accepting-rs-9-mln-bribe-) · `en`
+
+Two businessmen have been arrested at Pita Kotte by Bribery Commission officers while accepting a bribe of Rs. 09 million from another businessman.
+
+They had allegedly solicited the bribe on the promise of expediting compensation for his relative’s land which was acquired by the Urban Development Authority (UDA), the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+◼️
+
+[Data](articles/6658bddc.json)
+
+---
+
 ### Action against 381 shops
 
 *2024-12-28 09:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/381-கடைகளுக்கு-எதிராக-நடவடிக்கை/175-349392) · `ta`
@@ -99,6 +119,62 @@ Until January in the midst of January, special circles will continue to be carri
 [Data](articles/9bf0cbac.json)
 
 [Extended Data](ext_articles/9bf0cbac.ext.json)
+
+---
+
+### Russia may be responsible for downed Azerbaijani plane, says US
+
+*2024-12-28 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104533/russia-may-be-responsible-for-downed-azerbaijani-plane-says-us) · `en`
+
+White House spokesman John Kirby has said the US has seen “early indications” that Russia may have been responsible for the downing of the Azerbaijan Airlines plane that crashed on 25 December, killing 38 people.
+
+Mr Kirby did not elaborate further, but told reporters the US had offered assistance to the investigation into the crash.
+
+The plane is thought to have come under fire from Russian air defence systems as it tried to land in Chechnya before being diverted across the Caspian Sea to Kazakhstan, where it crashed.
+
+The Kremlin has refused to comment, but the head of Russia’s civil aviation agency said the situation in Chechnya was “very complicated” due to Ukrainian drone strikes on the region.
+
+Mr Kirby said the indications the US had seen went beyond widely circulated photos of the damaged plane, the Washington Post reported.
+
+...
+
+[Data](articles/e3708a56.json)
+
+---
+
+### காலி கோட்டையின் பழைய நுழைவாயில் தற்காலிகமாக மூடப்பட்டது
+
+*2024-12-28 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/202341) · `ta`
+
+காலி கோட்டையின் பழைய நுழைவாயில் இன்று சனிக்கிழமை (28) முதல் 31 ஆம் திகதி வரை தற்காலிகமாக மூடப்படும் என தொல்பொருள் திணைக்களத்தின் தென் மாகாண பிராந்திய அலுவலகம் அறிவித்துள்ளது.
+
+உலக பாரம்பரிய காலி கோட்டையின் பழைய கோட்டை வாயில்களுக்கு அருகிலுள்ள தொல்பொருள் நினைவுச்சின்ன சுற்றுச்சுவரில் ஒரு பாதுகாப்பு பணி காரணமாக மேற்படி தீர்மானம் மேற்கொள்ளப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+அதற்கமைய, வாயில்களைச் சூழவுள்ள பகுதியில் இரசாயன பாதுகாப்புப் பணிகள் முன்னெடுக்கப்படுவதால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தென் மாகாண தொல்பொருள் பணிப்பாளர் வசந்தி அழககோன் தெரிவித்துள்ளார்.
+
+நாளை முதல் 31ஆம் திகதி வரை காலி கோட்டைக்குள் நுழைவதும் வெளியேறுவதும் புதிய கோட்டை வாயில்கள் ஊடாக மேற்கொள்ளப்படும் எனவும் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a678fa3a.json)
+
+---
+
+### Several spells of showers expected in parts of the country
+
+*2024-12-28 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104532/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
+
+The Department of Meteorology says several spells of showers may occur in North-central, Eastern and Uva provinces and in Matale district. A few showers may occur in Northern province.
+
+Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Southern provinces and in Nuwara-Eliya and Kandy districts during the evening or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/de1aeb55.json)
 
 ---
 
@@ -2087,101 +2163,5 @@ Former Kalutara district MP Lalith Ellawala said he was leaving politics today (
 [Data](articles/450b652d.json)
 
 [Extended Data](ext_articles/450b652d.ext.json)
-
----
-
-### South Korean parliament votes to impeach acting president Han Duck-soo
-
-*2024-12-27 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/104522/south-korean-parliament-votes-to-impeach-acting-president-han-duck-soo) · `en`
-
-A majority of South Korea‘s parliament voted on Friday to impeach acting president Han Duck-soo.
-
-Prime minister Han has been acting president since president Yoon Suk Yeol was impeached on December 14th over his short-lived imposition of martial law on December 3rd, and his presidential powers were suspended.
-
-After Mr Han’s impeachment, finance minister Choi Sang-mok is next in line to assume the acting presidency, according to South Korean law.
-
-Some 192 lawmakers voted to impeach Han out of the 300-member parliament.
-
-The main opposition Democratic Party (DP), which controls parliament, decided to impeach Mr Han after he did not immediately appoint three justices to fill vacancies at the constitutional court.
-
-The DP-controlled parliament backed three nominees on Thursday, but Han said he would not formally appoint them unless there was bipartisan agreement on the appointments.
-
-...
-
-[Data](articles/f4eb514a.json)
-
-[Extended Data](ext_articles/f4eb514a.ext.json)
-
----
-
-### India declares 7-day mourning for Manmohan Singh; Karnataka, Telangana announce holiday
-
-*2024-12-27 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104521/india-declares-7-day-mourning-for-manmohan-singh-karnataka-telangana-announce-holiday) · `en`
-
-The central government of India has declared a seven-day national mourning in memory of former Prime Minister Manmohan Singh, who passed away on Thursday night at the age of 92.
-
-During the seven-day mourning period, the National Flag will be flown at half-mast across the country, and no official entertainment will take place. Indian missions and High Commissions abroad have also been instructed to lower the flag to half-mast as a mark of respect. The Cabinet is scheduled to convene at 11 am on Friday to pay homage to the former Prime Minister, widely regarded as the ‘architect of India’s economic reforms’.
-
-State chief ministers expressed their condolences on the passing away of former Prime Minister Manmohan Singh, describing him as a revered economist and a distinguished national leader, whose passing is a significant loss for the country.
-
-...
-
-[Data](articles/bb7e1970.json)
-
-[Extended Data](ext_articles/bb7e1970.ext.json)
-
----
-
-### Father of the Indian Economic Renaissance - Dr. Manmohan Singh
-
-*2024-12-27 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204767) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Manmohan Singh: Father of Indian Economic Renaissance. Born 1932 in Punjab (now Pakistan). Educated at Punjab & Cambridge Universities. Served as India's PM (2004-2014) & Finance Minister (1991-96). Led economic reforms, resolved financial crises, enhanced India's global image. Known as gentle & strong leader. Passed away in 2021, sparking 7-day national mourning.
-
-🟩
-
-Former Prime Minister of India, who is the Creator of the Indian Economic Renaissance, was born on September 26, 1932 in a isolated village in Punjab, the current Pakistan, who belongs to Pakistan in the current Pakistan.
-
-Manmohan Singh, excellent in education, finished higher education from the Punjab University.
-
-He was then able to win the doctorate at Cambridge University of Britain.
-
-The theme of his last tutorial was completed, the theme of his last tutorial was completed, was the Indian economy based on export and free trade.
-
-Accordingly, Manmohan Singh, who came to India, served as an economicist expert.
-
-He also contributed to the economic advisor of the Indian government and to uplift the local economy.
-
-He entered active politics after 1991 was the Economic Minister of the Government of India.
-
-From that time from 286 to 96, he contributed to the resolution of the serious paying crisis which was facing.
-
-...
-
-[Data](articles/afb88c57.json)
-
-[Extended Data](ext_articles/afb88c57.ext.json)
-
----
-
-### Senthiverl Holdings ups stake in Sri Lanka’s Kotagala Plantations to 10-pct
-
-*2024-12-27 12:56:00* · [`economynextcom`](https://economynext.com/senthiverl-holdings-ups-stake-in-sri-lankas-kotagala-plantations-to-10-pct-196503/) · `en`
-
-ECONOMYNEXT – Senthilverl Holdings (Pvt) Ltd has taken its holding in Sri Lanka’s Kotagala Planations over 10 percent, a Colombo Stock Exchange filing said.
-
-Senthilverl Holdings have bought 1,060,811 shares, at between 9.10 to 9.40 rupees a share, JK Stockbrokers said in the filing.
-
-The latest purchase increased Senthiverl’s Holdings to 33.86 million shares (10.004-pct) from 32.806 million shares.
-
-The stock was trading flat at 9.10 rupees on Friday. (Colombo/Dec27/2024)
-
-◼️
-
-[Data](articles/8f813309.json)
 
 ---

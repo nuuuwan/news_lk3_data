@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 01:27:30**
+As of **2024-12-29 01:43:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,845 (99.0%) of 62,465 articles have been extended.
+61,846 (99.0%) of 62,465 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -243,6 +243,8 @@ Bolivia was facing forex shortages making it difficult to import foods, as well 
 ...
 
 [Data](articles/3b85313a.json)
+
+[Extended Data](ext_articles/3b85313a.ext.json)
 
 ---
 

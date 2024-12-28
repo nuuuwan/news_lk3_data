@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 14:02:44**
+As of **2024-12-28 14:14:44**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 10,777
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,810 (99.0%) of 62,409 articles have been extended.
+61,811 (99.0%) of 62,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### ශ්‍රී ලංකාවට ලකුණු 173ක ඉලක්කයක්
+### Sri Lanka a target of 173
 
 *2024-12-28 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204793) · `si`
 
-ශ්‍රී ලංකාව හා නවසීලන්තය අතර අද (28) පැවැත්වෙන පළමු විස්සයි20 තරගයේ පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 8ක් දැවී ලකුණු 172ක් රැස්කිරීමට සමත් විය.
+Sri Lanka wins by 1 run: NZ scores 172/8 in 20 overs, SL reaches 173 target.
 
-ඒ අනුව ජයග්‍රහණය සඳහා ශ්‍රී ලංකා කණ්ඩායමට ලකුණු 173ක ඉලක්කයක් හිමිවිය.
+🟩
+
+New Zealand scored 172 runs for the loss of 8 wickets in the 20 overs.
+
+Accordingly, the Sri Lankan squad won 173 runs.
 
 ◼️
 
 [Data](articles/3c747877.json)
+
+[Extended Data](ext_articles/3c747877.ext.json)
 
 ---
 

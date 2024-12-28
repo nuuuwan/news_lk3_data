@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 21:27:28**
+As of **2024-12-28 21:43:33**
 
 ## Newspaper Stats
 
-*Scraped **62,454** Articles*
+*Scraped **62,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,963
 adaderanalk | 7,627
-tamilmirrorlk | 8,957
+tamilmirrorlk | 8,958
 virakesarilk | 10,360
 adaderanasinhalalk | 10,789
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,789
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,833 (99.0%) of 62,454 articles have been extended.
+61,833 (99.0%) of 62,455 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
+
+### சீதுவ பகுதியில் துப்பாக்கிச் சூடு ; ஒருவர் மரணம்
+
+*2024-12-28 21:28:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீதுவ-பகுதியில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-349405) · `ta`
+
+சீதுவ- வெலிபொட பகுதியில் இன்று (28) இடம்பெற்ற துப்பாக்கிச்சூட்டில் காயமடைந்த மூவரில் ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மேற்படி துப்பாக்கிச் சூட்டுக்கு இலக்காகி, ஒரே குடும்பத்தைச் சேர்ந்த 3 பேர் காயமடைந்து நீர்கொழும்பு மருத்துவமனையில் அனுமதிக்கப்பட்ட நிலையில், ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+காரில் வந்த சிலர் துப்பாக்கிச் சூடு நடத்தியதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/e3211b41.json)
+
+---
 
 ### One person injured in Hatton accident
 
@@ -133,6 +149,14 @@ Police have also taken steps to continue the operation for the safety of the pas
 Three persons from the same family have been injured and hopitalised after being shot at in Seeduwa, the police said.
 
 Police Media Spokesman SSP Buddhika Manathunga confirmed that the three injured individuals have been admitted to the Negombo hospital for treatment.
+
+One of the three individuals who sustained injuries in the shooting incident has succumbed to his injuries while receiving treatment at the hospital, the police confirmed.
+
+Preliminary police investigations have uncovered that the assailants who arrived in a car, had shot at a house in the Liyanagemulla area of Seeduwa, injuring the father and two sons of the same family, and fled the scene.
+
+Police confirmed that the 53-year-old deceased is a resident of the same area.
+
+Police have later discovered the car used in the crime which had been torched in Katunayake.
 
 ◼️
 
@@ -2103,27 +2127,5 @@ TMH Group of Companies Chairman Dr. Tharmalingam Tharesanan, was honoured as a G
 [Data](articles/08efb9bc.json)
 
 [Extended Data](ext_articles/08efb9bc.ext.json)
-
----
-
-### Kilinochchi journalist attack suspected retaliation for drug-trade exposé
-
-*2024-12-28 00:19:49* · [`dailyftlk`](https://www.ft.lk/news/Kilinochchi-journalist-attack-suspected-retaliation-for-drug-trade-exposé/56-771103) · `en`
-
-Kilinochchi-based journalist Murukaiah Thamilchelvan, who narrowly escaped an attempted abduction by a group on Thursday, said that he believes the incident, along with the assault on him, was linked to his ongoing coverage of illicit drug-related issues in the area.
-
-“While returning home on my motorcycle, a cab blocked my path, and its occupants tried to drag me into the vehicle. I managed to escape, but two individuals from the cab severely beat me. I suspect this attack is linked to my reporting on drug-related issues,” he said.
-
-The incident reportedly took place along the A9 road near the Sri Lanka Telecom building in Kilinochchi.
-
-Speaking to the Daily FT, Thamilchelvan said that he could identify one of the attackers, who is believed to have ties to the illicit drug trade in the area.
-
-The journalist received treatment at the Kilinochchi Hospital for injuries sustained in the attack, and the police have recorded his statement.
-
-◼️
-
-[Data](articles/dffe2aa9.json)
-
-[Extended Data](ext_articles/dffe2aa9.ext.json)
 
 ---

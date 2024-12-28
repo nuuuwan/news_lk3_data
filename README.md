@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 05:27:16**
+As of **2024-12-28 05:51:22**
 
 ## Newspaper Stats
 
-*Scraped **62,359** Articles*
+*Scraped **62,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 458
 colombotelegraphcom | 630
 bbccomsinhala | 657
-islandlk | 3,778
+islandlk | 3,785
 economynextcom | 3,796
 dailyftlk | 4,330
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,767
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,788 (99.1%) of 62,359 articles have been extended.
+61,790 (99.1%) of 62,366 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,6 +62,34 @@ Members of the ruling party have gathered in the middle of parliament and chante
 
 ---
 
+### Seylan Bank introduces Ethera Kaasi savings account for remittance beneficiaries
+
+*2024-12-28 01:07:00* · [`islandlk`](http://island.lk/seylan-bank-introduces-ethera-kaasi-savings-account-for-remittance-beneficiaries/) · `en`
+
+Seylan Bank has officially launched the Ethera Kaasi Savings Account, a specialised savings account designed to benefit the families of expatriate workers and recipients of worker remittances. This new offering aims to encourage savings among those who rely on remittances as a crucial source of income.
+
+The Ethera Kaasi Savings Account can be opened with a minimal initial deposit of LKR 3,500, and beneficiaries must receive a remittance within 60 days of account opening to be eligible for the benefits. Customers will enjoy no issuance fees for ATM Cards during the first year, along with free internet banking access for the same period.
+
+...
+
+[Data](articles/243b8cd9.json)
+
+---
+
+### CIPM first to offer NVQ equivalent HRM courses in Sri Lanka
+
+*2024-12-28 01:06:00* · [`islandlk`](http://island.lk/cipm-first-to-offer-nvq-equivalent-hrm-courses-in-sri-lanka/) · `en`
+
+CIPM’s Diploma in Professional HRM (CQHRM Level 2) and Diploma in HRM (PQHRM Managerial Level) have been recognised as NVQ Level 5 qualifications by the Tertiary and Vocational Education Commission (TVEC). This landmark achievement was formalised in December 2024 with the signing of an official declaration between CIPM and TVEC.
+
+The NVQ equivalence applies to students who completed the Diploma in Professional HRM from 2020 onwards and the Diploma in HRM from 2016 onwards. This ensures that both current and past students can benefit from nationally recognized qualifications. The move underscores CIPM’s commitment to enhancing the value and relevance of its programs within Sri Lanka’s National Qualifications Framework.
+
+...
+
+[Data](articles/01dff04e.json)
+
+---
+
 ### The army can set up camp in the forest;Macchal is not allowed to ground - people are sad!
 
 *2024-12-28 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202338) · `ta`
@@ -89,6 +117,78 @@ Parliamentarian C. Thilakanathan said that it is possible to consider the constr
 [Data](articles/5a66d822.json)
 
 [Extended Data](ext_articles/5a66d822.ext.json)
+
+---
+
+### Hutch lights up festive spirits with Sri Lanka’s ‘Tallest Christmas Tower’
+
+*2024-12-28 01:04:00* · [`islandlk`](http://island.lk/hutch-lights-up-festive-spirits-with-sri-lankas-tallest-christmas-tower/) · `en`
+
+HUTCH is lighting up the Sri Lankan skyline with the tallest Christmas Tower the country has ever seen – “The Christmas Innovation Tower”. What was once seen as a day-to-day cell tower has been transformed into a striking symbol for hope, inspiring everyone as we enter the new year, to think differently to make remarkable progress.
+
+The record tower soaring 282 feet (86 meters) into the sky is situated at the HUTCH Data Center in Walpola, Ragama in the district of Gampaha, and can be seen from many miles away.
+
+The Christmas Innovation Tower lights up on Christmas Eve, 24th December 2024, standing tall as a beacon for inspiration to all Sri Lankans. Public are warmly invited to visit and safely view this spectacular display, celebrating the season of joy and creativity together.
+
+The Christmas Innovation Tower is a testament demonstrating how we can transform everyday things we easily overlook into creating something great.
+
+...
+
+[Data](articles/fc75527f.json)
+
+---
+
+### Sri Lanka to strengthen fair trade network and promote sustainable exports
+
+*2024-12-28 00:54:00* · [`islandlk`](http://island.lk/sri-lanka-to-strengthen-fair-trade-network-and-promote-sustainable-exports/) · `en`
+
+In a significant development for Sri Lanka’s Fair trade sector, a stakeholders’ meeting was recently held in Colombo, organized by the Export Development Board (EDB) and the Fairtrade Network of Asia Pacific Producers (NAPP), Sri Lanka.  The meeting aimed to discuss the main projects currently executing, future of Fairtrade in Sri Lanka, issues pertaining to the sector and its expanding international presence.
+
+...
+
+[Data](articles/35c80e7c.json)
+
+---
+
+### Nissan, Honda, and Mitsubishi Motors sign MOU on collaborative considerations
+
+*2024-12-28 00:54:00* · [`islandlk`](http://island.lk/nissan-honda-and-mitsubishi-motors-sign-mou-on-collaborative-considerations/) · `en`
+
+Nissan Motor Co., Ltd. (“Nissan”), Honda Motor Co., Ltd. (“Honda”), and Mitsubishi Motors Corporation (“Mitsubishi Motors”) have signed a memorandum of understanding (MOU) to explore the possibility of Mitsubishi Motors’ participation, involvement, and synergy sharing in relation to the business integration through the establishment of a joint holding company outlined in an MOU signed between Nissan and Honda.
+
+Nissan, Honda, and Mitsubishi Motors have reached a basic agreement to proceed with discussions based on the framework established in the MOU signed by Nissan and Honda on August 1 regarding the commencement of a strategic partnership focused on intelligence and electrification. Mitsubishi Motors has been participating in this framework, and the three companies have been proceeding with discussions.
+
+...
+
+[Data](articles/aa5b19ec.json)
+
+---
+
+### Indian High Commission facilitates demonstration of RoWeR agri machinery
+
+*2024-12-28 00:53:00* · [`islandlk`](http://island.lk/indian-high-commission-facilitates-demonstration-of-rower-agri-machinery/) · `en`
+
+In line with the Government of Sri Lanka’s efforts to revolutionalise agriculture, AHC Kandy and CGI, Jaffna on behalf of High Commission of India in Colombo facilitated a live demonstration of advanced agricultural machinery from RoWeR, a brand owned by Mechcreatio Industrial Solutions Pvt. Ltd., India.
+
+The demonstrations were conducted at various locations in Kandy, Matale, Nuwara Eliya and Badulla in association with REDA, central province, Department of Agriculture, Lions Club, Women’s Chamber of Commerce and other agencies.
+
+Subsequently, the team visited Jaffna where as part of ongoing efforts to enhance Agricultural Productivity, CGI, Jaffna organized the demonstrations at the fields of the Agriculture Faculty of the University of Jaffna, Kilinochchi, and at the office of the Deputy Provincial Director of Agriculture, Palaly Road, Jaffna. Officials from the CGI Jaffna also witnessed the live demonstration.
+
+...
+
+[Data](articles/9989b6be.json)
+
+---
+
+### Rise in European cruise ship calls at HIP in 2024
+
+*2024-12-28 00:52:00* · [`islandlk`](http://island.lk/rise-in-european-cruise-ship-calls-at-hip-in-2024/) · `en`
+
+Hambantota International Port (HIP) experienced a modest increase in cruise ship arrivals in 2024, marking a significant shift in the origin of vessels calling at the port. While there was a noticeable decline in cruise ships originating from the Indian subcontinent, the port saw a substantial rise in ships arriving from Europe. Of the 23 cruise ships that called at HIP during the year, only six were from India, compared to 17 liners from Europe.
+
+...
+
+[Data](articles/2394d142.json)
 
 ---
 
@@ -384,37 +484,51 @@ It is noteworthy that the spacecraft is currently 9 crore 30 lakh miles from Ear
 
 ---
 
-### ரஷ்ய பெண் ஒருவரை பாலியல் துஷ்பிரயோகம் செய்ய முயற்சித்த நபர் கைது
+### Arresting person who tried to sexually abuse a Russian woman
 
 *2024-12-27 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202335) · `ta`
 
-உனவடுன சுற்றுலா விடுதி ஒன்றில் தங்கியிருந்த ரஷ்ய பெண் ஒருவரை பாலியல்  துஷ்பிரயோகம் செய்ய முயற்சித்த நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக உனவடுன சுற்றுலா பொலிஸ் பிரிவு தெரிவித்துள்ளது.
+Man arrested for attempting sexual assault on Russian woman at Unawatuna hostel. 24-year-old from Nochchiyagama detained after victim reported incident.
 
-அதே விடுதியில் தங்கியிருந்த நொச்சியாகம பிரதேசத்தைச் சேர்ந்த 24 வயதுடைய இளைஞரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-தான் தங்கியிருந்த அறைக்கு அருகில் ஆண் ஒருவர் நிர்வாணமாக வந்து துஷ்பிரயோகம் செய்ய முயன்றதாக இந்த ரஷ்ய பெண் சுற்றுலா பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+A man who was trying to sexually abuse a Russian woman who was staying at a hostel in Unavaduna has been arrested, the Unawaduna Tourism Police Division said.
 
-இதன்படி, விசாரணைகளை மேற்கொண்ட உனவட்டுன சுற்றுலா பொலிஸ் பிரிவு அதிகாரிகள் சந்தேக நபரை கைது செய்துள்ளனர்.
+The 24 -year -old youth from Nochchiyagama, who was staying in the same hotel, has been arrested.
+
+The Russian woman has lodged a complaint with the tourist police that a man was naked near the room where she was staying.
+
+Accordingly, officials of the Unavatuna Tourist Police Division have arrested the suspect.
 
 ◼️
 
 [Data](articles/391306b7.json)
 
+[Extended Data](ext_articles/391306b7.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திர கட்சி தலைமையில் விரைவில் புதிய கூட்டணி - துமிந்த திஸாநாயக்க
+### Sri Lanka Freedom Party (SLFP) new coalition soon - Duminda Dissanayake
 
 *2024-12-27 22:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/202334) · `ta`
 
-உள்ளுராட்சிமன்ற மற்றும் மாகாணசபைத் தேர்தல்களில் போட்டியிடுவதற்கான கூட்டணி அமைப்பது தொடர்பில் ஸ்ரீலங்கா சுதந்திர கட்சி தலைமையில் பல்வேறு தரப்பினருடன் பேச்சுவார்த்தைகள் ஆரம்பிக்கப்பட்டுள்ளன. அதற்கமைய விரைவில் இக்கூட்டணி குறித்து அறிவிக்கப்படும் என அக்கட்சியின் பொதுச் செயலாளர் துமிந்த திஸாநாயக்க தெரிவித்தார்.
+Sri Lanka Freedom Party forms coalition for local & provincial elections. General Secretary Duminda Dissanayake announces talks with various parties. New programs to launch Jan 2. Alliance aims to unite progressive policies.
 
-வெள்ளிக்கிழமை (27) கொழும்பிலுள்ள சு.க. தலைமையகத்தில் இடம்பெற்ற கலந்துரையாடலொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-ஸ்ரீலங்கா சுதந்திர கட்சியை மறுசீரமைப்பதற்கான பணிகள் ஆரம்பிக்கப்பட்டுள்ளன. அதற்கமைய சுதந்திர கட்சியின் உறுப்பினர்கள் பலருடனும் பேச்சுவார்த்தைகள் ஆரம்பிக்கப்பட்டுள்ளன. எம்முடன் இணையவுள்ளவர்கள் யார் என்பது குறித்து விரைவில் அறிவிப்போம். சகல தொகுதி அமைப்பாளர்களுக்கும் இது குறித்து அறிவிக்கப்பட்டுள்ளது. ஜனவரி 2ஆம் திகதியிலிருந்து கட்சியின் புதிய வேலைத்திட்டங்கள் ஆரம்பிக்கப்படவுள்ளன.
+The Sri Lanka Freedom Party (SLFP) has launched talks with various parties on the formation of a coalition to contest the local government and provincial council elections.. The General Secretary of the party Duminda Dissanayake said the coalition would be announced soon.
+
+Friday (27). He further stated that he was speaking to the media after a discussion held at the headquarters.
+
+Work has begun to reconstruct the Sri Lanka Freedom Party. Negotiations have begun with many members of the SLFP. We will soon announce who will be joining with us. This has been announced for all constituencies. The party's new programs will be launched from January 2.
+
+Alliances set up in the past have now been completed. The alliance was formed for the presidential and general elections, and no permanent coalition was formed permanently. As a party that ruled in the past, the Sri Lanka Freedom Party (SLFP) said he would contest the upcoming elections in the next elections.
 
 ...
 
 [Data](articles/e668270b.json)
+
+[Extended Data](ext_articles/e668270b.ext.json)
 
 ---
 
@@ -2089,147 +2203,5 @@ The most virulent form of the disease has mortality rates as high as 100 percent
 [Data](articles/2d8a85eb.json)
 
 [Extended Data](ext_articles/2d8a85eb.ext.json)
-
----
-
-### நொச்சியாகமவில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது !
-
-*2024-12-27 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202264) · `ta`
-
-அநுராதபுரம், நொச்சியாகம பொலிஸ் பிரிவிற்கு உட்பட்ட குடாவெவ பகுதியில் உள்ள வீடொன்றில் சட்டவிரோதமாக உள்நாட்டுத் துப்பாக்கியை வைத்திருந்த சந்தேக நபர் ஒருவரை நொச்சியாகம பொலிஸார் நேற்று வியாழக்கிழமை (26) கைது செய்துள்ளனர்.
-
-நொச்சியாகம பொலிஸாருக்கு பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபர் சட்டவிரோத துப்பாக்கியை பயன்படுத்தி பல குற்றச்செயல்களில் ஈடுபட்டுள்ளதாக பொலிஸார் நடாத்திய  விசாரணைகளில் தெரியவந்துள்ளன.
-
-◼️
-
-[Data](articles/36cd7cb4.json)
-
----
-
-### கடலில் மூழ்கிய ஐவர் மீட்பு
-
-*2024-12-27 10:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மூழ்கிய-ஐவர்-மீட்பு/175-349377) · `ta`
-
-ஹிக்கடுவை, நரிகம சுற்றுலா கடற்கரையில் நீராடச் சென்ற போது நீரில் அடித்துச் செல்லப்பட்ட நான்கு சிறுவர்கள் உட்பட வெளிநாட்டவர்கள் ஐவர் பொலிஸ் உயிர்காப்புப் படையினரால் மீட்கப்பட்டுள்ளனர்.
-
-நான்கு குழந்தைகள் மற்றும் ஒரு பெண் மீட்கப்பட்டதாகவும், அவர்கள் ரஷ்ய மற்றும் கொலம்பிய பிரஜைகள் என்றும் பொலிஸார் தெரிவித்தனர்.
-
-இந்த குழுவினர் வௌ்ளிக்கிழமை (27) நீராடியுள்ளனர். அவர்கள் கடலலையில் சிக்கி அடித்து செல்லப்பட்டனர்.
-
-சம்பவ இடத்தில் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உயிர் பாதுகாப்பு குழுவைச் சேர்ந்த பொலிஸ் பரிசோதகர் மற்றும் ஏழு பொலிஸ் கான்ஸ்டபிள்கள் உடனடியாக தலையிட்டு குழுவினரை மீட்டு கரைக்கு கொண்டு வந்தனர்.
-
-◼️
-
-[Data](articles/a1b69e93.json)
-
----
-
-### மிரிஹான பகுதியில் போதைப்பொருட்களுடன் சந்தேகநபர் இருவர் கைது!
-
-*2024-12-27 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202262) · `ta`
-
-மிரிஹான பொலிஸ் பிரிவிற்குட்பட்ட வெல்சிறிபுர மற்றும் கனத்தவத்தை ஆகிய பகுதிகளில் நுகேகொடை பிரிவின் இலஞ்ச ஒழிப்புப் பிரிவு அதிகாரிகளினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது ஐஸ் போதைப்பொருள் மற்றும் ஹெராயின் போதைப்பொருளுடன் சந்தேகநபர்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து 05 கிராம்  370 மில்லிகிராம் ஐஸ் போதைப்பொருள் மற்றும் 05 கிராம் 510 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
-
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 33 மற்றும் 41 வயதுடைய புறக்கோட்டை  பகுதியைச் சேர்ந்தவர்களாவர்.
-
-மேலும், குறித்த சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை மிரிஹான பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/6f25a4aa.json)
-
----
-
-### வயல் வெளியில் இயங்கிய கசிப்பு உற்பத்தி நிலையம் முற்றுகை
-
-*2024-12-27 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202259) · `ta`
-
-நீண்ட காலமாக  இயங்கி வந்த கசிப்பு உற்பத்தி நிலையத்தை முற்றுகையிட்டு கைது செய்யப்பட்ட சந்தேக நபரை சம்மாந்துறை பொலிஸார்  தடுத்து வைத்து விசாரணை மேற்கொண்டு வருகின்றனர்.
-
-அம்பாறை மாவட்டம் சம்மாந்துறை பொலிஸ்  பிரிவுக்குட்பட்ட மல்வத்தை  தம்பி நாயகபுரம் பகுதியில் உள்ள  வயல் வெளியில் கடந்த புதன்கிழமை (25) அதிகாலை  சம்மாந்துறை பொலிஸாருக்கு  கிடைக்கப்பெற்ற   தகவலின் அடிப்படையில் சோதனை மேற்கொள்ளப்பட்டது.
-
-இதன்போது நீண்டகாலமாக  சூட்சுமமான முறையில் இயங்கி வந்த கசிப்பு உற்பத்தி நிலையம் மற்றும் குறித்த நிலையத்தை  நடாத்தி சென்ற  31 வயதுடைய சந்தேக நபரை பொலிஸார்  கைது செய்துள்ளனர்.
-
-மேலும்  கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து ஒரு தொகுதி கசிப்பு,கோடா, கேஸ் சிலிண்டர் 1, கேஸ் அடுப்பு 1, 20 லீட்டர் கொள்கலன் 2, டங்கர் 1, இரும்பு பரள் 1 ஆகியன மீட்கப்பட்டுள்ளன.
-
-மேலும்,  இந்த கைது நடவடிக்கையானது சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரி கே.டி.எஸ் ஜெயலத்தின் வழிகாட்டலில்  பொலிஸ் நிலைய பெருங்குற்றப் பிரிவு பொறுப்பதிகாரி கே.சதீஸ்கர் தலைமையிலான  பொலிஸார் மேற்கொண்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/ef6a82fe.json)
-
----
-
-### Sri Lanka’s Asia Siyaka buys fertilizer startup, to give billion rupee loan guarantee
-
-*2024-12-27 10:29:00* · [`economynextcom`](https://economynext.com/sri-lankas-asia-siyaka-buys-fertilizer-startup-to-give-billion-rupee-loan-guarantee-196532/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Asia Siyaka Commodities Plc, a tea broking firm said it had gained control AgriOne Solutions (Pvt) Limited, a fertilizer startup, spending 178.5 million rupees and will invest a further 76.5 million rupees in the firm taking the total to 255 million rupees.
-
-Asia Siyake had gained 55.87 percent control of AgriOne in December 24, following an agreement entered to with Andaradeniya Estate Management (Pvt) Ltd and Saman Buddiha Rajapaksa for 178.5 million rupees.
-
-A further 76.5 million rupees will be invested “on a staggered basis”, Asia Siyake said in a stock exchange filing.
-
-With other shareholders also making investments, Asia Siyake stake in AgriOne will fall to 51 percent.
-
-Asia Siyake said it will also give corporate guarantees of one billion rupees for AgriOne to get import loans. (Colombo/Dec27/2024)
-
-◼️
-
-[Data](articles/4934a533.json)
-
----
-
-### To the attention of Sivanoli Padamalai pilgrims
-
-*2024-12-27 10:20:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிவனொளி-பாதமலை-யாத்திரர்களின்-கவனத்துக்கு/76-349373) · `ta`
-
-Sivanoli Padamalai pilgrimage: Alcohol, drugs banned. Strict enforcement by police and district officials. Arrests for violations. Only food sales allowed.
-
-🟩
-
-The police officer of the Hatton Zonal Drugs Division said that legal action will be taken against those who use alcohol and drugs during the Sivanoli Padamalai season and those who have been brought to life in violation of drugs and liquor.
-
-Accordingly, it is absolutely illegal to keep and sell alcohol, tobacco, drugs, drugs in their packages, keeping and selling at business centers.
-
-In spite of this, the official said that those who have drugs will be arrested and brought before the law.
-
-The Ratnapura District Secretary said that special drugs and prevention officials are engaged in the monitoring of the temple, shelter monasteries, and shelter monasteries, and the mountain top of the mountain top.
-
-Pooja items in outlets?He added that clean drinking water is prohibited from selling any other products other than food items.
-
-◼️
-
-[Data](articles/cb0fdd25.json)
-
-[Extended Data](ext_articles/cb0fdd25.ext.json)
-
----
-
-### Fort - Badulla Special Train Services Beginning!
-
-*2024-12-27 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202254) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Special train services Fort-Badulla Fri-Sat-Mon. Departures: Colombo Fort 7:30pm, 7:45am; Badulla 7:05am, Fort 7:30pm.
-
-🟩
-
-The Railway Department has taken steps to provide special train services between Fort - Badulla and Badulla - Fort on Friday (27), Saturday (28) and tomorrow (29).
-
-Special train services will be provided from the Colombo Fort Railway Station at 7.30 pm and 7.45 am tomorrow, the Badulla railway station at 7.05 am and the Fort Railway Station at 7.30 pm, the Railway Control Room said.
-
-◼️
-
-[Data](articles/e412e6a1.json)
-
-[Extended Data](ext_articles/e412e6a1.ext.json)
 
 ---

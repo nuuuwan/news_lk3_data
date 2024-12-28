@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 23:27:34**
+As of **2024-12-28 23:43:37**
 
 ## Newspaper Stats
 
-*Scraped **62,462** Articles*
+*Scraped **62,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,800
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,964
-adaderanalk | 7,627
+adaderanalk | 7,630
 tamilmirrorlk | 8,958
 virakesarilk | 10,362
 adaderanasinhalalk | 10,792
@@ -26,25 +26,53 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,839 (99.0%) of 62,462 articles have been extended.
+61,840 (99.0%) of 62,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### චෝලන් ලෝක වාර්තාව තැබූ සස්නුලගේ මීළඟ ඉලක්කය
+### Sri Lankan Ambassador proposes US-style medical school to boost foreign revenue
+
+*2024-12-28 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104552/sri-lankan-ambassador-proposes-us-style-medical-school-to-boost-foreign-revenue) · `en`
+
+Sri Lankan Ambassador for Science, Technology and Innovation, Dr. Bandula Wijay says that Sri Lanka must establish a medical school operating under the U.S. curriculum, open to international student enrolments, as part of an effort to brand Sri Lankan higher education.
+
+Joining Ada Derana’s current affairs program “@Hydepark”, he emphasized that establishing such a medical school in Sri Lanka, similar to the U.S.-based Harvard and Stanford universities, will boost Sri Lanka’s foreign revenue generation while also branding Sri Lanka amongst other nations as a hub of tertiary education.
+
+Dr. Bandula Wijay also called on the government to bring together educated experts from the United States and Sri Lanka, to form a think tank to generate comprehensive plans for navigating Sri Lanka’s way forward towards a developed nation.
+
+Speaking further in this regard, Dr. Wijay emphasized the necessity for Sri Lanka to brand itself as a “Global Centre of Science, Technology and Innovation”.
+
+...
+
+[Data](articles/ea171ef5.json)
+
+---
+
+### Sasnula's next goal, which placed the Cholan World Report
 
 *2024-12-28 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204810) · `si`
 
-"චෝලන් " ලෝක වාර්තාවක් තැබීමට 11 හැවිරිදි පාසල් සිසුවෙක් පසුගියදා සමත් වුණි.
+Here's a summary of the text in approximately 200 characters:
 
-ඔහු රූබික් කියුබ් 1200ක් භාවිත කරමින් ජනාධිපතිවරයාගේ රුව නිර්මාණය කොට එලෙස " චෝලන් " ලෝක වාර්තාවක් තැබීමට සමත් විය.
 
-සස්නුලගේ මීළඟ ඉලක්කය වන්නේ රූබික් කියුබ් එක් ලක්ෂ විසිදහසක් භාවිත කරමින් ගිනස් ලෝක වාර්තාවක් තැබීමටය.
+
+Sasnula aims to break a Guinness World Record using one million Rubik's Cubes featuring the President's image. A young girl previously set a record with 1,200 cubes. Sasnula's goal surpasses this achievement significantly.
+
+🟩
+
+A 11-year-old schoolgirl recently passed a world record.
+
+He used the President's image using 1200 Rubet Cube, using the president's image.
+
+Sasnula's next aim is to set a Guinness World record using one million.
 
 ◼️
 
 [Data](articles/cb68fd3f.json)
+
+[Extended Data](ext_articles/cb68fd3f.ext.json)
 
 ---
 
@@ -77,6 +105,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7efc9035.json)
+
+---
+
+### Public urged to avoid panic buying, hoarding salt amid shortage fears
+
+*2024-12-28 21:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104551/public-urged-to-avoid-panic-buying-hoarding-salt-amid-shortage-fears) · `en`
+
+The newly-appointed Chairman of Lanka Salt Company in Hambantota, T. Nandana Thilaka has urged the public to avoid panic-buying and hoarding salt amidst rumors of a shortage.
+
+Addressing the media after assuming office today (28), Mr. Thilaka clarified that the current salt supply is sufficient to meet household needs in the country.
+
+“Two 400-gram packets of salt powder and one kilogram of crystal salt are enough for an average household for a month,” he stated, emphasizing that unnecessary stockpiling is unwarranted.
+
+The chairman reassured the public that the Hambantota Lanka Salt Company currently has 6,000 metric tons of salt in stock, sufficient to last until January. Additionally, he added that plans are in place to import 30,000 metric tons of salt to prevent any potential shortages.
+
+Mr. Thilaka acknowledged that salt production has declined significantly this year, attributing the issue to long-standing neglect of the Jaffna salt pans.
+
+...
+
+[Data](articles/40741b83.json)
 
 ---
 
@@ -2151,31 +2199,5 @@ The Christmas Innovation Tower is a testament demonstrating how we can transform
 ...
 
 [Data](articles/fc75527f.json)
-
----
-
-### Sri Lanka to strengthen fair trade network and promote sustainable exports
-
-*2024-12-28 00:54:00* · [`islandlk`](http://island.lk/sri-lanka-to-strengthen-fair-trade-network-and-promote-sustainable-exports/) · `en`
-
-In a significant development for Sri Lanka’s Fair trade sector, a stakeholders’ meeting was recently held in Colombo, organized by the Export Development Board (EDB) and the Fairtrade Network of Asia Pacific Producers (NAPP), Sri Lanka.  The meeting aimed to discuss the main projects currently executing, future of Fairtrade in Sri Lanka, issues pertaining to the sector and its expanding international presence.
-
-...
-
-[Data](articles/35c80e7c.json)
-
----
-
-### Nissan, Honda, and Mitsubishi Motors sign MOU on collaborative considerations
-
-*2024-12-28 00:54:00* · [`islandlk`](http://island.lk/nissan-honda-and-mitsubishi-motors-sign-mou-on-collaborative-considerations/) · `en`
-
-Nissan Motor Co., Ltd. (“Nissan”), Honda Motor Co., Ltd. (“Honda”), and Mitsubishi Motors Corporation (“Mitsubishi Motors”) have signed a memorandum of understanding (MOU) to explore the possibility of Mitsubishi Motors’ participation, involvement, and synergy sharing in relation to the business integration through the establishment of a joint holding company outlined in an MOU signed between Nissan and Honda.
-
-Nissan, Honda, and Mitsubishi Motors have reached a basic agreement to proceed with discussions based on the framework established in the MOU signed by Nissan and Honda on August 1 regarding the commencement of a strategic partnership focused on intelligence and electrification. Mitsubishi Motors has been participating in this framework, and the three companies have been proceeding with discussions.
-
-...
-
-[Data](articles/aa5b19ec.json)
 
 ---

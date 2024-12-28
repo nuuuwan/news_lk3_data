@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-28 12:03:08**
+As of **2024-12-28 12:16:40**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,772
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,804 (99.1%) of 62,396 articles have been extended.
+61,805 (99.1%) of 62,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-28 (Saturday)
 
-### மேல் மாகாண சபையின் முன்னாள் உறுப்பினர் உட்பட இருவர் கைது
+### Two persons, including a former member of the Western Provincial Council
 
 *2024-12-28 11:27:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேல்-மாகாண-சபையின்-முன்னாள்-உறுப்பினர்-உட்பட-இருவர்-கைது/175-349396) · `ta`
 
-9 மில்லியன் ரூபாவை இலஞ்சமாக பெற்ற குற்றச்சாட்டில் மேல் மாகாண சபையின் முன்னாள் உறுப்பினர் ஒருவரும் வர்த்தகர் ஒருவரும் பிட்டகோட்டே பகுதியில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+Former Western Provincial Council member and businessman arrested for alleged bribery of 9 million rupees in Pittagotte. Investigation reveals they received a signature related to a seized property.
 
-சந்தேகநபர்கள் இருவரும் மற்றுமொரு வர்த்தகரிடம் இருந்து இலஞ்சம் பெற்ற போதே கைது செய்யப்பட்டதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-நகர அபிவிருத்தி அதிகார சபையினால் கைப்பற்றப்பட்ட குறித்த வர்த்தகரின் உறவினர் ஒருவரின் காணிக்கான நட்டஈட்டை விரைவில் பெற்றுத் தருவதாகத் தெரிவித்து அவர்கள் கையூட்டல் பெறப்பட்டுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது. R
+A former member of the Western Provincial Council and a businessman have been arrested in the Pittagotte area for allegedly bribing 9 million rupees.
+
+It is reported that the two suspects were arrested while bribing another businessman.
+
+Investigations have revealed that they have received a signature of a relative of a relative of a businessman who was seized by the Urban Development Authority.. Remble
 
 ◼️
 
 [Data](articles/21c941c2.json)
+
+[Extended Data](ext_articles/21c941c2.ext.json)
 
 ---
 

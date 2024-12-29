@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 00:27:13**
+As of **2024-12-30 00:58:43**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,912 (98.9%) of 62,621 articles have been extended.
+61,914 (98.9%) of 62,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### ஓட்டமாவடி - காவத்தமுனை வயலில் யானை உயிரிழப்பு!
+### Elephant death in Ottamavadi
 
 *2024-12-30 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202501) · `ta`
 
-கோறளைப்பற்று மேற்கு ஓட்டமாவடி பிரதேச சபை பிரிவுக்குட்பட்ட காவத்தமுனை - வட்ட எனும் வயல் பகுதியில் யானை ஒன்று ஞாயிற்றுக்கிழமை (29) மாலை உயிரிழந்துள்ளது.
+Elephant dies in Ottamavadi field. Found Sunday morning, treated by wildlife department but couldn't stand. Cause unknown.
 
-இந்த யானை ஞாயிற்றுக்கிழமை (29) காலை எழும்ப முடியாத நிலையில் வயலில் விழுந்து கிடந்ததாக விவசாயிகள் தெரிவித்தனர்.
+🟩
 
-இவ்வாறு எழும்ப முடியாமல் விழுந்து கிடந்த யானைக்கு சிகிச்சையளிக்க வனஜீவராசிகள் திணைக்களத்திற்கு அறிவிக்கப்பட்டுள்ளதை தொடர்ந்து அதிகாரிகள் பார்வையிட்டு சிகிச்சையளிக்க நடவடிக்கைகளை மேற்கொண்டு வந்த நிலையில் யானை உயிரிழந்துள்ளது.
+An elephant died on Sunday evening (29) evening in the Kavathamunai -Round field in the Koralaipattu West Ottamavadi Pradeshiya Sabha division.
+
+Farmers said the elephant was lying in the field on Sunday morning (29).
+
+The elephant has died after the authorities have been treating the Department of Wildlife to treat the elephant that have been unable to get up.
 
 ◼️
 
 [Data](articles/8738cf89.json)
+
+[Extended Data](ext_articles/8738cf89.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ It is regrettable that the President’s speech, while announcing welcome relief
 ...
 
 [Data](articles/c7094f2f.json)
+
+[Extended Data](ext_articles/c7094f2f.ext.json)
 
 ---
 

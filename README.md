@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 14:02:37**
+As of **2024-12-29 14:27:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,807
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,879 (98.9%) of 62,542 articles have been extended.
+61,880 (98.9%) of 62,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,15 +84,25 @@ When different voices, when they reveal different positions, a government faces 
 
 ---
 
-### வாய்ப்பை நழுவ விட்டு கையேந்தும் அரசாங்கம்
+### The government
 
 *2024-12-29 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202449) · `ta`
 
-சர்வதேச அரங்கில் இவ்வாறான சந்தர்ப்பங்கள் வாய்க்கின்ற போது பயன்படுத்திக் கொள்ளாத அரசாங்கங்கள், பிற்காலத்தில் அதற்காக வருத்தப்பட்ட வரலாறு இருக்கிறது.
+Here's a summary in 200 characters:
+
+
+
+"Governments leveraging international opportunities avoid regrettable outcomes. History shows nations failing to capitalize on global platforms often face negative consequences."
+
+🟩
+
+Governments that do not use such opportunities in the international arena have a history of regret.
 
 ◼️
 
 [Data](articles/ea1a9b02.json)
+
+[Extended Data](ext_articles/ea1a9b02.ext.json)
 
 ---
 

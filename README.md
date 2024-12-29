@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 09:28:33**
+As of **2024-12-29 09:43:57**
 
 ## Newspaper Stats
 
-*Scraped **62,488** Articles*
+*Scraped **62,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,964
-adaderanalk | 7,630
+adaderanalk | 7,633
 tamilmirrorlk | 8,962
-virakesarilk | 10,362
-adaderanasinhalalk | 10,794
+virakesarilk | 10,364
+adaderanasinhalalk | 10,799
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,864 (99.0%) of 62,488 articles have been extended.
+61,865 (99.0%) of 62,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### දුම්රිය ප්‍රමාදවීම්වලට සහ අවලංගුවීම්වලට හේතුව ගැන හෙළිදරව්වක්
+
+*2024-12-29 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204817) · `si`
+
+දුම්රිය ප්‍රමාදවීම් සහ අවලංගු වීම්වලට ප්‍රධාන හේතුව දුම්රිය එංජින්වල  පවතින හිඟය බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+දුම්රිය දෙපාර්තමේන්තුව සතුව මේ වනවිට ධාවනයට සුදුසු එංජින් පවතින්නේ 50ක පමණ ඉතා අවම ප්‍රමාණයක් බව "අද දෙරණ" කළ විමසීමකදී එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+ගැටලුවකින් තොරව දුම්රිය ධාවනය කිරීම සඳහා දුම්රිය එංජින් 70ක් පමණ අවශ්‍ය වෙයි.
+
+අවලංගු වීම් හෝ ප්‍රමාද වීම් නොමැතිව දුම්රිය ධාවනය වීමටනම් අවම වශයෙන් දුම්රිය එංජින් 60ක ප්‍රමාණයක් අවශ්‍ය බව සඳහන්ය.
+
+කෙසේවෙතත් මේ වනවිට ධාවන තත්ත්වයේ ඇති දුම්රිය එංජින් 50න් බෝහෝ ප්‍රමාණයක් විවිධ කාර්මික දෝෂවලට ලක්වන බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+සාමාන්‍යයෙන් දුම්රිය එංජිමකට රැගෙන යා හැකි බර ප්‍රමාණයක් තිබුණ ද ප්‍රමාණය ඉක්මවා බර රැගෙන යාම ඊට හේතු වී තිබේ.
+
+එමෙන්ම දුම්රිය එංජින් අලුත්වැඩියා කිරීම සඳහා අමතර කොටස්වල හිඟයක් පසුගිය කාලය පුරාවට දක්නය ලැබුණි.
+
+කෙසේවෙතත් මේ වනවිට එංජින් අලුත්වැඩියා කිරීම සඳහා අවශ්‍ය වන අමතර කොටස්  දුම්රිය දෙපාර්තමේන්තුව වෙත ලැබෙමින් පවතින බව එම ප්‍රකාශකයා සඳහන් කළේය.
+
+...
+
+[Data](articles/8c691ae0.json)
+
+---
+
+### දුම්රියේ ගැටී පුද්ගලයෙක් මරුට
+
+*2024-12-29 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204816) · `si`
+
+මරදාන සිට ගාල්ල දක්වා ධාවන වූ රාත්‍රි තැපැල් දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+
+මෙම පුද්ගලයා ඊයේ රාත්‍රීයේ දුම්රියේ ගැටී තිබුණේ අම්බලන්ගොඩ ධර්මාශෝක විද්‍යාල මාවතේ පිහිටි දුම්රිය ගෙට්ටුව අසලදීය.
+
+එලෙස මියගොස් ඇත්තේ, අම්බලන්ගොඩ පදිංචිව සිටි 54 හැවිරිදි   පුද්ගලයෙකි.
+
+මරණකරුගේ බිරිඳ මින් පෙර අසනීප තත්ත්වයක් හේතුවෙන් මියගොස් ඇති බවත් ඒ හේතුවෙන් ඔහු නිවසේ තනිව වාසය කරමින් සිට ඇති බව අනාවරණය වන බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/09e0a9d7.json)
+
+---
+
+### Five arrested in connection with three-wheeler thefts
+
+*2024-12-29 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104555/five-arrested-in-connection-with-three-wheeler-thefts) · `en`
+
+The Colombo Central Divisional Crime Detective Bureau has arrested five individuals in connection with the theft of several three-wheelers.
+
+Police said the arrested suspects, aged 31, 38, 51, and 54, are residents of Seeduwa, Orugodawatta, Colombo 10, and Colombo 14.
+
+Based on a tip-off received by officers of the Colombo Central Divisional Crime Detective Bureau, a raid was carried out on December 27 in the Station Road area of the Grandpass Police Division.
+
+Accordingly, a suspect was arrested with ‘Ice’ drugs (Crystal Methamphetamine) and following the interrogation of the relevant suspect, 9 stolen three-wheelers were recovered.
+
+Subsequently, four other suspects, found with stolen three-wheelers, were arrested yesterday (28) in the Seeduwa, Maligawatta, Grandpass, and Wellampitiya police divisions.
+
+These suspects were then presented to the Colombo Fort Police Station.
+
+...
+
+[Data](articles/fad6da9d.json)
+
+---
+
+### இலோன் அமெ­ரிக்­காவின் நிழல் ஜனா­தி­ப­தியா?
+
+*2024-12-29 08:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/202422) · `ta`
+
+ஒரு ஜன­நா­யக கட்­ட­மைப்பு என்றால், அது சரி சம­மான விகி­தத்தில் சக­ல­தையும் பிர­தி­நி­தித்­து­வப்­ப­டுத்த வேண்டும். ஆனால், செல்­வமும், ஊடக பலமும் இருப்­பதால், எலன் மஸ்க்கின் ஆதிக்கம், சாதா­ரணப் பிர­ஜை­களின் குரல்­களை ஒதுக்கி விடக்­கூ­டிய அபாயம் உண்டு.
+
+◼️
+
+[Data](articles/f3d9ac82.json)
+
+---
 
 ### The fisherman's problem should be resolved by negotiating
 
@@ -53,6 +131,30 @@ Indo -Sri Lankan fishermen issues should be resolved by two countries and foreig
 [Data](articles/fc3deff3.json)
 
 [Extended Data](ext_articles/fc3deff3.ext.json)
+
+---
+
+### අසර්බයිජාන ගුවන් යානය කඩා වැටීමට පුටින් සමාව ඉල්ලයි
+
+*2024-12-29 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204815) · `si`
+
+අසර්බයිජාන ගුවන් සේවයට අයත් මගී ගුවන් යානයක් පසුගිය 25 දා කඩා වැටීම සම්බන්ධයෙන් රුසියානු ජනාධිපති ව්ලැදිමිර් පූටින් අසර්බයිජාන ජනාධිපතිවරයාගෙන් සහ එරට වැසියන්ගෙන් සමාව ඉල්ලා තිබේ.
+
+ඒ එම ගුවන්යානයයට රුසියානු හමුදාව මිසයිල ප්‍රහාරයක් එල්ල කර ඇතැයි විමර්ශනවලින් අනාවරණය වීමත් සමගය‍.
+
+රුසියානු හමුදාව විසින් යානයට මිසයිල ප්‍රහාරයක් එල්ල කර ඇත්තේ එය යුක්‍රේන හමුදාවේ සතුරු ඩ්‍රෝන යානයක් යැයි වරදවා වටහා ගැනීමෙන් බව මේ වන විට අනාවරණය වී ඇතැයි විදෙස් මාධ්‍ය පවසයි.
+
+පුටින්ට අමතරව රුසියන් රජය මෙන්ම රුසියාවේ හමුදාව ද මේ සම්බන්ධයෙන් සමාව ඉල්ලා ඇතැයි එම වාර්තාවල දැක්වේ.
+
+මේ අතර රුසියානු ජනාධිපති පුටින්ගේ ශෝක පණිවිඩ නිකුත් කිරීමට පෙරම අසර්බයිජානයේ ගුවන් සමාගම් කිහිපයක් රුසියානු නගර බොහොමයකට ගුවන් ගමන් අත්හිටුවීමට පියවර ගෙන තිබුණි.
+
+ගුවන් යානය කඩා වැටීම පිළිබඳ විමර්ශන අවසන් වන තුරු මෙම අත්හිටුවීම පවතිනු ඇති බවද සඳහන් වේ.
+
+අසර්බයිජාන මගී ගුවන් යානය කඩා වැටීමට හේතුව රුසියාව එල්ල කළ මිසයිල ප්‍රහාරයකින් බව පළමුව අනාවරණය කරන ලද්දේ අමෙරිකාවේ බුද්ධි අංශය විසිනි.
+
+...
+
+[Data](articles/e51d67b3.json)
 
 ---
 
@@ -81,6 +183,90 @@ Preliminary investigations revealed that the plane lost control while landing on
 [Data](articles/88e3065d.json)
 
 [Extended Data](ext_articles/88e3065d.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකින් ත්‍රිරෝද රථ සොරකම් කළ 5ක් අත්අඩංගුවට
+
+*2024-12-29 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204814) · `si`
+
+ත්‍රිරෝද රථ සොරකම් කළ සැකකරුවන් 05 දෙනෙකු කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එලෙස අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 31, 38, 51 හා 54 වයස්වල පසුවන සීදූව, ඔරුගොඩවත්ත, කොළඹ 10 හා කොළඹ 14 යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+පෙරේදා (27) ග්‍රෑන්ඩ්පාස් පොලිස් වසම් ස්ටේස් පාර ප්‍රදේශයේදී කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරු මත වැටලීමක් සිදුකර තිබුණි.
+
+අදාළ සැකකරුගෙන් සිදුකරන ලද ප්‍රශ්න කිරීමේදී එම සැකකරු විසින් සොරාගන්නා ලද ත්‍රිරෝද රථ 09ක් සොයාගෙන තිබේ.
+
+සොරාගත්  ත්‍රිරෝද රථ ළඟ තබාගෙන සිටි සැකකරුවන් සිව්දෙනෙකු ඊයේ (28) සීදූව, මාලිගාවත්ත, ග්‍රෑන්ඩ්පාස් හා වැල්ලම්පිටිය යන පොලිස් වසම්වලදී අත්අඩංගුවට ගෙන කොටුව පොලිස් ස්ථානයට ඉදිරිපත් කර ඇත.
+
+එම ත්‍රිරෝද රථ කොටුව, කිරිබත්ගොඩ, වත්තල හා බොරැල්ල පොලිස් වසම්වලදී සොරාගෙන ඇති බවට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/6ec474a9.json)
+
+---
+
+### At least 28 dead in fiery aircraft crash in South Korea
+
+*2024-12-29 07:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104554/at-least-28-dead-in-fiery-aircraft-crash-in-south-korea) · `en`
+
+At least 28 people were killed when an airliner went off the runway and slammed into a wall at South Korea’s Muan International Airport on Sunday, Yonhap news agency reported.
+
+The accident occurred as the Jeju Air plane, carrying 175 passengers and six crew on a flight from the Thai capital Bangkok, was landing at the airport in the south of the country, the report said.
+
+Two people were found alive and rescue operations were still under way, a Muan fire official said. The official could not confirm the reports of 28 dead.
+
+Authorities were working to rescue people in the tail section, an airport official told Reuters.
+
+Video shared by local media showed the twin-engine aircraft skidding down the runway with no apparent landing gear before slamming into a wall in an explosion of flame and debris. Other photos showed smoke and fire engulfing parts of the plane.
+
+...
+
+[Data](articles/8ab0bfc4.json)
+
+---
+
+### දකුණු කොරියාවේ ගුවන් අනතුරින් 28ක් මරුට
+
+*2024-12-29 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204813) · `si`
+
+පුද්ගලයින් 181 දෙනෙකු රැගත් ගුවන් යානයක් දකුණු කොරියාවේ මුවාන් ජාත්‍යන්තර ගුවන්තොටුපොළට ගොඩබෑමේදී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් පුද්ගලයින් 28 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි කොරියානු මාධ්‍ය වාර්තා කර තිබේ.
+
+එම මාධ්‍ය වාර්තාවල දැක්වෙනුයේ ගුවන් යානය ගොඩ බැස්වීමේදී ධාවන පථයෙන් ඉවතට පැන ගුවන්තොටුපොළේ තාප්පයක ගැටී ඇති බවය.
+
+අනතුරට පත්වන අවස්ථාවේදී මගී ගුවන් යානය තුළ මගීන් 175 දෙනෙකු සහ ගුවන් සේවිකාවන් 6 දෙනෙකු රැඳි සිට තිබුණි.
+
+ගුවන් යානය තායිලන්තයේ සිට ආපසු පියාසර කරමින් තිබූ අතර එය ගොඩබෑමේදි මෙම අනතුර සිදුව ඇත‍.
+
+කොරියානු මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මේ වන විටත් ගලවා ගැනීමේ මෙහෙයුම් ක්‍රියාත්මක වෙමින් පවතින බවය.
+
+කෙසේ නමුත් මියගිය පිරිස තවත් ඉහළ යා හැකි බවද එම මාධ්‍ය වාර්තා වල  සඳහන් වේ.
+
+◼️
+
+[Data](articles/9c2186e6.json)
+
+---
+
+### Several spells of showers expected today
+
+*2024-12-29 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104553/several-spells-of-showers-expected-today) · `en`
+
+The Meteorology Department several spells of showers will occur in Northern, North-central, Eastern and Uva provinces and in Hambanthota and Matale districts.
+
+Meanwhile, showers or thundershowers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b0df337d.json)
 
 ---
 
@@ -217,6 +403,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/095ecc5a.json)
+
+[Extended Data](ext_articles/095ecc5a.ext.json)
 
 ---
 
@@ -1023,6 +1211,20 @@ The President emphasized the misconceptions of the customs in the people of the 
 [Data](articles/57379814.json)
 
 [Extended Data](ext_articles/57379814.ext.json)
+
+---
+
+### சவேந்திர சில்வா, முப்படை தளபதிகளின் சேவைக் காலம் மீண்டும் நீடிக்கப்படுமா?
+
+*2024-12-28 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202383) · `ta`
+
+பாதுகாப்பு படைகளின் பதவி நிலைப்பிரதானி ஜெனரல் சவேந்திர சில்வா மற்றும் முப்படை தளபதிகளின் சேவை நீடிப்பு காலம் 31ஆம் திகதியுடன் நிறைவடையவுள்ளது. எனினும் அவர்களது சேவையை மீண்டும் நீடிப்பது குறித்தோ அல்லது புதிய நியமனங்களை வழங்குவது குறித்தோ பாதுகாப்பு அமைச்சர் ரீதியில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவால் இதுவரை எந்தவொரு அறிவித்தலும் விடுக்கப்படவில்லை.
+
+பாதுகாப்பு படைகளின் பதவி நிலைப்பிரதானி ஜெனரல் சவேந்திர சில்வாவின் பதவி காலம் கடந்த ஜூன் முதலாம் திகதியிலிருந்து டிசம்பர் 31ஆம் திகதி வரை நீடிக்கப்பட்டது. கடந்த 2019ஆம் ஆண்டு ஆகஸ்ட் 19ஆம் திகதி முதல் 2022 மே 31 வரை ஜெனரல் சவேந்திர சில்வா இராணுவத்தளதியாக பணியாற்றினார். அதன் பின்னர் தனது பதவி காலம் நிறைவடைய 2022 ஜூன் முதலாம் திகதி பாதுகாப்பு படைகளின் பதவிநிலை பிரதானியாக நியமிக்கப்பட்டார். இந்நிலையிலேயே அவரது பதவி காலம் மேலும் 6 மாதங்களுக்கு நீடிக்கப்பட்டது.
+
+...
+
+[Data](articles/f7a31188.json)
 
 ---
 
@@ -2033,211 +2235,5 @@ Furthermore, he added that a significant milestone in this initiative is the sig
 ...
 
 [Data](articles/428c19b3.json)
-
----
-
-### Sri Lanka appoints panel to address slow container release from Customs
-
-*2024-12-28 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-panel-to-address-slow-container-release-from-customs-196603/) · `en`
-
-ECONOMYNEXT – Sri Lanka government has appointed a panel led by Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake to take necessary steps to fast track the release of containers from the port without any delay.
-
-The Cabinet of Ministers approved the proposal by President Anura Kumara Dissanayake to appoint a panel.
-
-Importers have complained of slow clearance of containers due to long time taken to check by Customs officials.
-
-“Customs officers determine which containers need to be inspected at the exit gates and conduct a physical scan of the containers,” a government document stated.
-
-“Various issues have arisen in the clearance process in the past, resulting in an increased number of containers being inspected by customs officials daily.”
-
-“An increase in the number of ships arriving at the port has also been observed.”
-
-...
-
-[Data](articles/ae9d7c48.json)
-
-[Extended Data](ext_articles/ae9d7c48.ext.json)
-
----
-
-### மாத்தளையில் கார் மோதி பெண் பாதசாரி உயிரிழப்பு !
-
-*2024-12-28 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202349) · `ta`
-
-மாத்தளை பொலிஸ் பிரிவிற்கு உட்பட்ட கண்டி - யாழ்ப்பாணம் வீதியில் பலாபத்வல பிரதேசத்தில் இடம்பெற்ற விபத்தில் பெண் பாதசாரி ஒருவர் உயிரிழந்துள்ளதாக மாத்தளை பொலிஸார் தெரிவித்தனர்.
-
-மாத்தளையிலிருந்து தம்புள்ளை நோக்கிப் பயணித்த கார் ஒன்று வீதியைக் கடக்க முற்பட்ட பெண் பாதசாரி மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
-
-விபத்தில் படுகாயமடைந்த பெண் பாதசாரி மாத்தளை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/f1005923.json)
-
----
-
-### இலஞ்சம் பெற்ற இரு வர்த்தகர்கள் கைது
-
-*2024-12-28 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202345) · `ta`
-
-கொழும்பு, புறக்கோட்டை பகுதியில் இரண்டு வர்த்தகர்கள்  இலஞ்சம் பெற்ற போது கைது செய்யப்பட்டுள்ளனர்.
-
-நகர அபிவிருத்தி அதிகார சபையால் கையகப்படுத்தப்பட்ட மற்றொரு வர்த்தகரின் உறவினரின் காணிக்கான இழப்பீடுகளை விரைவாக பெற்று தருவதாக உறுதியளித்து அவரிடமிருந்து 90 இலட்சம் ரூபாவை இவர்கள் இருவரும் இலஞ்சமாக பெற்றுள்ளனர்.
-
-◼️
-
-[Data](articles/7577d87f.json)
-
----
-
-### A good time from cinnamics
-
-*2024-12-28 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204787) · `si`
-
-Sri Lanka aims to boost annual cinnamon earnings to $500m through expanded cultivation and exports. The Cinnamon Development Department plans to double income by focusing on high-value processed products. A MoU with China will facilitate exports starting January 2025.
-
-🟩
-
-Cinnamon Development Department says that the main export agricultural crop of Sri Lanka is planning to earn a US $ 500 million annually by cinnamon cultivation.
-
-The cinnamon production of Sri Lanka is about 25,000 metric tons, which exports nearly 19,000 metric tons.
-
-Director General of the Cinnamon Development Department Janaka Lindara said Cinnamon exports would earn about $ 250 million a year to Sri Lanka.
-
-The plans have been made to double that income.
-
-Accordingly, the cinnamon development department has been prepared to expand cinnamon cultivation in the Kurunegala, Puttalam and Mahaweli zones in Galle, Matara areas.
-
-Meanwhile, Mr. Lindara said that a Memorandum of Understanding has been signed with China.
-
-As a result, the export of cinnamon to China from January 2025 will be exported to China.
-
-In addition, the Cinnamon Development Department expects to increase cinnamon, including the European Union.
-
-...
-
-[Data](articles/06052318.json)
-
-[Extended Data](ext_articles/06052318.ext.json)
-
----
-
-### Colombo’s garbage surges during festive season
-
-*2024-12-28 09:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104535/colombos-garbage-surges-during-festive-season) · `en`
-
-The Colombo Municipal Council says that there is an increase in the garbage disposed within the Colombo municipality during the festive season.
-
-Colombo Municipal Commissioner Palitha Nanayakkara explained that the daily garbage collection, which usually amounts to 450 tonnes, is expected to rise to 500 tonnes by the end of the month.
-
-He further stated that the festive season has caused a slight increase in waste generation, with the daily waste production in Colombo normally ranging between 420 and 450 tonnes.
-
-“However, due to the large number of people arriving in Colombo by December 31, we predict that this amount could be around 500 tons,” he added.
-
-Meanwhile, the Director of the Central Environmental Authority (CEA) Ajith Gunawardena stated that the large amounts of food being thrown away has led to an increase in the amount of biodegradable waste.
-
-◼️
-
-[Data](articles/1b83e2d7.json)
-
-[Extended Data](ext_articles/1b83e2d7.ext.json)
-
----
-
-### Creator at 11: 45
-
-*2024-12-28 09:48:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்மோகன்-சிங்கின்-பூதவுடல்11-45க்கு-தகனம்/175-349395) · `ta`
-
-Manmohan Singh's funeral procession begins at Congress HQ at 9:30 AM. Military honors will be given near Yamuna River.
-
-🟩
-
-Former Prime Minister and senior Congress leader Manmohan Singh's body was taken to the Congress party headquarters at 8 am today (28). There, his funeral is placed for tribute.
-
-Thereafter, Manmohan Singh's funeral began from the Congress headquarters at 9.30 am.
-
-When the procession reaches the Nikambod Gad area on the banks of the Yamuna River, there will be military honors and the funeral of Manmohan Singh.
-
-◼️
-
-[Data](articles/1b7dac00.json)
-
-[Extended Data](ext_articles/1b7dac00.ext.json)
-
----
-
-### Release of 300 metric ton rice daily
-
-*2024-12-28 09:40:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளாந்தம்-300-மெட்ரிக்-டொன்-அரிசி-வெளியீடு/175-349394) · `ta`
-
-Sri Lanka: 300 metric tons of rice released daily via Sathosa outlets. Chairman Samitha Perera balances supporting local farmers with addressing import challenges.
-
-🟩
-
-Sri Lanka Sathosa Limited Chairman Samitha Perera said that 300 metric tonnes of rice is being released daily through Sathosa outlets.
-
-While protecting local farmers, he also emphasized the challenges in building an emergency response plan for rice imports.
-
-◼️
-
-[Data](articles/d6f2e98a.json)
-
-[Extended Data](ext_articles/d6f2e98a.ext.json)
-
----
-
-### Inquiry into candidates who have not submitted the report
-
-*2024-12-28 09:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறிக்கை-சமர்ப்பிக்காத-வேட்பாளர்கள்-தொடர்பில்-விசாரணை/175-349393) · `ta`
-
-Investigations launched against 1040 candidates for failing to submit election expense reports. Police collaborate with provincial Election Commissioners.
-
-🟩
-
-Police Media Spokesperson Buddhika Manadunga said that investigations will be launched in connection with the candidates who do not submit the cost reports of parliamentary elections.
-
-The work will be carried out in consultation with the Assistant Election Commissioners of the respective provinces, the police media spokesman said.
-
-The Elections Commission has submitted a report to the police on 1040 candidates, including candidates who did not submit the cost report on parliamentary elections.
-
-◼️
-
-[Data](articles/8350ea18.json)
-
-[Extended Data](ext_articles/8350ea18.ext.json)
-
----
-
-### Two businessmen arrested while accepting Rs. 9 mln bribe
-
-*2024-12-28 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104534/two-businessmen-arrested-while-accepting-rs-9-mln-bribe-) · `en`
-
-Two businessmen have been arrested at Pita Kotte by Bribery Commission officers while accepting a bribe of Rs. 09 million from another businessman.
-
-This arrest has been made in Pitakotte, based on a complaint lodged by a resident of the Madiwela area of Kotte, the Bribery Commission said.
-
-They had allegedly solicited the bribe on the promise of expediting compensation for a land of the complainant’s relative in Torington Avenue, which was acquired by the Urban Development Authority (UDA), the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) added.
-
-Meanwhile, it was reported that the two arrested individuals include former member of Western Provincial Council Sulochana Gamage.
-
-◼️
-
-[Data](articles/6658bddc.json)
-
----
-
-### German ‘stability pelican’ Helmut Schlesinger dies amid calls to return to Deutsche Mark
-
-*2024-12-28 09:31:00* · [`economynextcom`](https://economynext.com/german-stability-pelican-helmut-schlesinger-dies-amid-calls-to-return-to-deutsche-mark-196606/) · `en`
-
-ECONOMYNEXT – Helmut Schlesinger, who retired from Deutsche Bank 1993 as its President after helping keep Germany stable with the strong Deutsche Mark, standing against mainstream Saltwater-Cambridge inflationism that rocked the rest of the world, has passed away.
-
-Schlesinger’s passing comes as Germany is experiencing the highest inflation and social unrest since the Great Inflation period under the Euro, and early elections have been called after the collapse of a coalition government and calls to re-establish the Deutsche Mark.
-
-In 1952 Schlesinger had joined Bank deutscher Länder, the predecessor agency set up to issue to run Deutsche Mark and served the agency in different capacities maintaining monetary stability when the Fed fired global inflation to promote ‘full employment’.
-
-...
-
-[Data](articles/adb3ca48.json)
 
 ---

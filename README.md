@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 01:27:39**
+As of **2024-12-30 00:27:13**
 
 ## Newspaper Stats
 
-*Scraped **62,622** Articles*
+*Scraped **62,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 632
 bbccomsinhala | 658
 islandlk | 3,802
 economynextcom | 3,805
-dailyftlk | 4,335
+dailyftlk | 4,334
 dailymirrorlk | 4,733
 adalk | 5,979
 adaderanalk | 7,649
@@ -26,31 +26,25 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,916 (98.9%) of 62,622 articles have been extended.
+61,912 (98.9%) of 62,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### Elephant death in Ottamavadi
+### ஓட்டமாவடி - காவத்தமுனை வயலில் யானை உயிரிழப்பு!
 
 *2024-12-30 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202501) · `ta`
 
-Elephant dies in Ottamavadi field. Found Sunday morning, treated by wildlife department but couldn't stand. Cause unknown.
+கோறளைப்பற்று மேற்கு ஓட்டமாவடி பிரதேச சபை பிரிவுக்குட்பட்ட காவத்தமுனை - வட்ட எனும் வயல் பகுதியில் யானை ஒன்று ஞாயிற்றுக்கிழமை (29) மாலை உயிரிழந்துள்ளது.
 
-🟩
+இந்த யானை ஞாயிற்றுக்கிழமை (29) காலை எழும்ப முடியாத நிலையில் வயலில் விழுந்து கிடந்ததாக விவசாயிகள் தெரிவித்தனர்.
 
-An elephant died on Sunday evening (29) evening in the Kavathamunai -Round field in the Koralaipattu West Ottamavadi Pradeshiya Sabha division.
-
-Farmers said the elephant was lying in the field on Sunday morning (29).
-
-The elephant has died after the authorities have been treating the Department of Wildlife to treat the elephant that have been unable to get up.
+இவ்வாறு எழும்ப முடியாமல் விழுந்து கிடந்த யானைக்கு சிகிச்சையளிக்க வனஜீவராசிகள் திணைக்களத்திற்கு அறிவிக்கப்பட்டுள்ளதை தொடர்ந்து அதிகாரிகள் பார்வையிட்டு சிகிச்சையளிக்க நடவடிக்கைகளை மேற்கொண்டு வந்த நிலையில் யானை உயிரிழந்துள்ளது.
 
 ◼️
 
 [Data](articles/8738cf89.json)
-
-[Extended Data](ext_articles/8738cf89.ext.json)
 
 ---
 
@@ -67,24 +61,6 @@ It is regrettable that the President’s speech, while announcing welcome relief
 ...
 
 [Data](articles/c7094f2f.json)
-
-[Extended Data](ext_articles/c7094f2f.ext.json)
-
----
-
-### AKD and ETCA with India: Trap or opportunity?
-
-*2024-12-29 22:58:16* · [`dailyftlk`](https://www.ft.lk/columns/AKD-and-ETCA-with-India-Trap-or-opportunity/4-771126) · `en`
-
-ETCA is a way forward for Sri Lanka to harness the benefits of international trade for creating prosperity to Sri Lankans
-
-According to the 34-point agreement which President Anura Kumara Dissanayake, AKD for short, had with Prime Minister Narendra Modi or simply Modi, the two countries have agreed to promote, among others, trade and investment between them1. There are three agreements that are strikingly prominent and promising. One is that they have agreed to continue discussion on economic and technological agreement, shortened as ETCA, which is now in an abortive state. Another is the direct use of Indian Rupee or INR and Sri Lanka Rupee or LKR for transactions thereby avoiding the intermediate exchange currency, the US dollar. The third is for India to invest in sectors that will increase Sri Lanka’s export potential. All these are interrelated and should naturally form the core of any ETCA to be negotiated.
-
-...
-
-[Data](articles/0f9577b8.json)
-
-[Extended Data](ext_articles/0f9577b8.ext.json)
 
 ---
 
@@ -125,8 +101,6 @@ The country has almost exhausted its cheapest power hydro-electricity. Only poss
 ...
 
 [Data](articles/03940573.json)
-
-[Extended Data](ext_articles/03940573.ext.json)
 
 ---
 
@@ -2107,5 +2081,23 @@ The body of the deceased woman has been placed at the Dikoya Base Hospital, and 
 ◼️
 
 [Data](articles/33cdfc3b.json)
+
+---
+
+### සීගිරියේ සංචාරක ආකර්ෂණය වැඩි කිරීමට කොරියාවෙන් රුපියල් බිලියන 2.4ක ආධාරයක්
+
+*2024-12-29 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204821) · `si`
+
+ලෝක උරුමයක් වන සීගිරියේ සංරක්ෂණ කටයුතු පුළුල් කර සංචාරක ආකර්ෂණය වැඩි කිරීම සඳහා කොරියානු අන්තර්ජාතික සහයෝගිතා ඒජන්සිය විශේෂ ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමට යෝජනා කර තිබේ.
+
+පුරාවිද්‍යා දෙපාර්තමේන්තුවේ පූර්ණ අනුමැතිය සහිතව මධ්‍යම සංස්කෘතික අරමුදලේ අධික්ෂණය මත යෝජිත මෙමගින් සීගිරි පර්වතයට පිවිසෙන මාර්ගය සංවර්ධනය කිරීම, විකල්ප ප්‍රවේශ මාර්ගයක් ඉදි කිරීම, සීගිරි කෞතුකාගාරය, ආපන ශාලාව සහ ප්‍රවේශපත්‍ර කවුළුව ආදිය සංවර්ධනය කිරීම ඇතුළු යෝජනා රැසකින් යුක්ත වේ.‍
+
+මේ සඳහා බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යංශයේ උපදෙස් පරිදි මධ්‍යම සංස්කෘතික අරමුදල සහ කොරියානු අන්තර්ජාතික සහයෝගිතා ඒජන්සිය අතර අවබෝධතා ගිවිසුමක් අත්සන් තැබීමට ද යෝජනා වී තිබේ.
+
+මීට අදාළ සාකච්ඡාවක් පසුගිය 27 වැනි දින බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය මහාචාර්ය හිනිදුම සුනිල් සෙනවි මහතාගේ ප්‍රධානාත්වයෙන් එම අමාත්‍යංශයේදී පැවැත්වුණි.
+
+...
+
+[Data](articles/20542fe7.json)
 
 ---

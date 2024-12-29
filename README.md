@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 19:12:35**
+As of **2024-12-29 19:27:23**
 
 ## Newspaper Stats
 
-*Scraped **62,588** Articles*
+*Scraped **62,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,974
 adaderanalk | 7,646
-tamilmirrorlk | 8,981
+tamilmirrorlk | 8,983
 virakesarilk | 10,395
 adaderanasinhalalk | 10,813
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,896 (98.9%) of 62,588 articles have been extended.
+61,897 (98.9%) of 62,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### ஓய்வு பெறுகிறார் ஜெனரல் சவேந்திர சில்வா
+
+*2024-12-29 19:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறுகிறார்-ஜெனரல்-சவேந்திர-சில்வா/175-349459) · `ta`
+
+இலங்கையின் பாதுகாப்புப் படைகளின் 8ஆவது பிரதானியான (CDS) ஜெனரல் சவேந்திர சில்வா, 2025 ஆம் ஆண்டு ஜனவரி 1 ஆம் திகதி இலங்கை இராணுவத்தில் தனது பதவி மற்றும் சேவையிலிருந்து ஓய்வு பெறவுள்ளார்.
+
+ஜூன் 1, 2022 அன்று CDS ஆக நியமிக்கப்பட்ட ஜெனரல் சில்வா, 40 ஆண்டுகளுக்கும் மேலாக தேசத்திற்கு சேவையாற்றியுள்ளார். CDS இன் பாத்திரத்தை ஏற்றுக்கொள்வதற்கு முன்னர், அவர் பாதுகாப்புப் படைகளின் பதில் பிரதானியாகவும், இலங்கை இராணுவத்தின் 23 வது தளபதியாகவும் பணியாற்றியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/562c75ad.json)
+
+---
+
+### தென்கொரிய விமான விபத்துக்கு இலங்கை இரங்கல்
+
+*2024-12-29 19:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்கொரிய-விமான-விபத்துக்கு-இலங்கை-இரங்கல்/175-349458) · `ta`
+
+தென்கொரியாவில் உள்ள முவான் விமான நிலையத்தில் விமானம் தரையிறங்கும் போது ஏற்பட்ட விபத்திற்கு இலங்கை வெளிவிவகார அமைச்சு இரங்கல் தெரிவித்துள்ளது.
+
+இந்த துயர சம்பவத்தில் உயிரிழந்தவர்களின் குடும்பத்தினருக்கு இரங்கல் தெரிவித்துள்ள அமைச்சகம், காயமடைந்தவர்கள் விரைவில் குணமடைய பிரார்த்திப்பதாகவும் தெரிவித்துள்ளது.
+
+குறித்த விபத்தில் 2 பேர் மட்டுமே உயிருடன் மீட்கப்பட்ட சூழலில், அதில் பயணம் செய்த 179 பேரும் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/a6dc89b1.json)
+
+---
 
 ### Arrested for illegally carrying sand in Kinniya
 
@@ -116,29 +146,43 @@ The suspects are from Kathiraveli, aged 48 and 51.
 
 ---
 
-### 179 දෙනෙකුට දිවි අහිමි කළ දකුණු කොරියාවේ ඛේදවාචකය
+### South Korea's tragedy who lost their lives for 179
 
 *2024-12-29 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204831) · `si`
 
-දකුණු කොරියාවේ සිදුවූ ගුවන් යානා අනතුරින් දිවි ගලවා ගත් කාර්යය මණ්ඩල සාමාජිකයින් දෙදෙනා ඇරෙන්නට අනෙක් සියලුදෙනා ජීවිතක්ෂයට පත්වන්නට ඇති බවට බලධාරීන් අනුමාණ කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-එමෙන්ම මේ වනවිට මියගිය පුද්ගලයින් 177 දෙනෙකු අනතුරින් මියගොස් ඇති බව තහවුරු කර ඇත.
 
-යානය අනතුරට ලක්වන අවස්ථාවේ මගීන් 175 දෙනෙකු සහ කාර්යය මණ්ඩල සාමාජිකයින් 6 දෙනෙකු එහි සිට තිබුණි.
 
-මියගිය පිරිස අතරින් මේ වන විට කාන්තා සිරුරු 84 ක්, පිරිමි සිරුරු 82 ක් සහ ක්ෂණිකව හඳුනාගත නොහැකි තවත් 11 දෙනෙකුගේ සිරුරු සෙයාගෙන ඇත.
+South Korean tragedy: 179 fatalities. Two survivors killed. 175 passengers, 6 staff on board. 84 women, 82 boys among dead. Ages ranged from 3 to 78. Over 1,500 employees involved. Plane landed at Bangkok airport due to bird strike. Black box voice recordings obtained for expert analysis.
 
-අනතුරින් මියගිය පුද්ගලයින්ගෙන් පස්දෙනෙකු වයස අවුරුදු 10 ට අඩු ළමුන් බව වාර්තා වේ.
+🟩
 
-බලධාරීන් පවසන පරිදි, ලාබාලම මගියා තුන් හැවිරිදි පිරිමි ළමයෙකු වන අතර වැඩිමහල් පුද්ගලයා 78 හැවිරිදි බව සඳහන් වේ.
+Authorities have analytized that the two survivors were killed in the accident in South Korea.
 
-යානය අනතුරට ලක්වූ ස්ථානය ආශ්‍රිතව සෝදිසි මෙහෙයුම් තවදුරටත් සිදුකෙරෙන අතර එම කටයුතු සඳහා 1,500කට අධික සේවකයින් පිරිසක් එක්ව සිටින බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Also, 177 people have died in danger.
 
-තායිලන්තයේ බැංකොක් නුවර සිට දකුණු කොරියාවේ මුආන් ගුවන්තොටුපොළ බලා ගමන් කරමින් තිබූ ජේජු ගුවන්සේවයට අයත් අදාළ යානය ගුවන්තොටුපොළට ගොඩබැස්සවීමට යාමේදී මෙලෙස අනතුරට පත්ව තිබුණි.
+At the time of the accident 175 passengers and six staff members were present.
 
-...
+Out of the deceased, 84 bodies of women, 82 boys bodies and 11 others who cannot identify the bodies and 11 others uncovered.
+
+Five of the deceased have been children under 10 years of age.
+
+According to the authorities, the youngest passenger is a three-year-old boy, and the oldest person is 78 years old.
+
+Foreign media reports that more than 1,500 employees are participating in the accident.
+
+The June of the June of the June of the June of South Korea, from Bangkok, to the Mua Korea in Bangkok, was in danger of landing at the airport.
+
+When the aircraft landed due to the birds of the plane, the running out of the road was in danger.
+
+It is reported that the voice recordings of the plane's black box and the pilot chamber have been obtained and specialists will be inspected by experts.
+
+◼️
 
 [Data](articles/a4d04fd2.json)
+
+[Extended Data](ext_articles/a4d04fd2.ext.json)
 
 ---
 
@@ -2043,53 +2087,5 @@ UPDATE- 09:42 - දකුණු කොරියාවේ සිදුවූ ග�
 ...
 
 [Data](articles/9c2186e6.json)
-
----
-
-### Several spells of showers expected today
-
-*2024-12-29 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104553/several-spells-of-showers-expected-today) · `en`
-
-The Meteorology Department several spells of showers will occur in Northern, North-central, Eastern and Uva provinces and in Hambanthota and Matale districts.
-
-Meanwhile, showers or thundershowers may occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara, Nuwara-Eliya and Kandy districts during the evening or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b0df337d.json)
-
----
-
-### Youth girl falls under a lorry
-
-*2024-12-29 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204812) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Small girl killed by lorry in Attaka. Parents were taking her to visit cousin. Driver arrested. Girl rushed to Mahiyanganaya Hospital. Incident occurred last night.
-
-🟩
-
-A small girl was killed and 10 months after the back of a lorry.
-
-The accident occurred last night in the Attaka Police Division.
-
-The accident had occurred when the mother and father went to their cousin with this girl, police said.
-
-The young girl who was seriously injured had been admitted to the Mahiyanganaya Hospital while he was admitted to the Mahiyanganaya Hospital.
-
-The driver of the lorry has been arrested, police said.
-
-◼️
-
-[Data](articles/ece6f9c5.json)
-
-[Extended Data](ext_articles/ece6f9c5.ext.json)
 
 ---

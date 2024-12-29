@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 16:02:04**
+As of **2024-12-29 16:14:23**
 
 ## Newspaper Stats
 
-*Scraped **62,549** Articles*
+*Scraped **62,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,972
 adaderanalk | 7,640
-tamilmirrorlk | 8,975
+tamilmirrorlk | 8,976
 virakesarilk | 10,375
 adaderanasinhalalk | 10,808
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,886 (98.9%) of 62,549 articles have been extended.
+61,887 (98.9%) of 62,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### மனுஷ நாணயக்காரவின் சகோதரருக்கு விளக்கமறியல்
+
+*2024-12-29 15:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்காரவின்-சகோதரருக்கு-விளக்கமறியல்/175-349444) · `ta`
+
+நிதி மோசடி தொடர்பில் கைது செய்யப்பட்டிருந்த முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் சகோதரர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+அவரை ஞாயிற்றுக்கிழமை (29) கம்பஹா நீதவான் நீதிமன்றில் முன்னிலைப்படுத்திய போது எதிர்வரும் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
+
+பின்லாந்து நாட்டில் தொழில்வாய்ப்பை பெற்று தருவதாக வாக்குறுதியளித்துஇ 40 இலட்சம் ரூபா பணம் கேட்டு அதில் 30 இலட்சம் ரூபாவை பெற்றுக்கொண்ட குற்றச்சாட்டில் குற்றப்புலனாய்வு திணைக்களத்தினால் சந்தேகநபர்  கைது செய்யப்பட்டிருந்தார்.
+
+◼️
+
+[Data](articles/b989a3e5.json)
+
+---
 
 ### Increase in attendance of tourists
 
@@ -52,19 +68,25 @@ Tourist arrivals have increased in the Nuwara Eliya area in the evenings.. For t
 
 ---
 
-### වසර දෙකකදි වගාවට සත්ව හානිය රු.මි. 550යි
+### Animal damage to cultivate Rs.. 550
 
 *2024-12-29 14:45:17* · [`adalk`](https://www.ada.lk/breaking_news/වසර-දෙකකදි-වගාවට-සත්ව-හානිය-රු-මි--550යි/11-413892) · `si`
 
-රිලවුන්, මොනරුන්,සහ වල් අලින් 2022 , 2023 දෙවසරවල තුළදී පමණක් රුපියල් මිලියන 550 ක පොල්, වී, එළවළු, බඩ ඉරිඟු, කෙසෙල් අස්වැන්න විනාශ කර ඇති බව  ජාතික ගොවිජන එකමුතුවේ සභාපති අනුරාධ තෙන්නකෝන් මහතා සඳහන් කර යි.
+Wild animals destroy crops: coconuts, paddy, vegetables, corn. 2022 damages estimated at Rs. 550 million. 25% paddy, 11% vegetables lost. 45,000 hectares affected in Uva Province.
 
-වාර්ෂික සමස්ත පොල් නිෂ්පාදනයෙන් ගෙඩි මිලියන 86.7 ක් රිලවුන්, දඬු ලේනුන් සහ වල් අලින් විසින් විනාශ කරන බව මහතා කියයි.ඒ අනුව සමස්ත පලදාවෙන් සියයට 45ක්  පමණ රිලවුන් දඬු ලේනුන් සහ වල් අලින් විසින් විනාශ කරන බව හෙළි වී තිබේ. සමස්ත වී වගාවෙන් සියයට 25ක්, බඩඉරිඟු වගාවෙන් සියයට 11ක්, එළවළු වගාවෙන් සියයට 7ක් වන සතුන් විසින් විනාශ කර තිබෙන බව වාර්තාවෙයි.
+🟩
 
-2022 සහ 2023 වසරවලදී ඉහළම වන සත්ව හානියෙන් ඌව පළාතේ හෙක්ටයාර් 45000ක් සම්පූර්ණයෙන්ම හානියට පත්ව ඇත.
+The National Agrarian Cooleration Chairman Anuradha Tennakoon has said that the coconut, paddy, vegetables, vegetables, corn, and corn, has been destroyed in the 2022 million rupees.
+
+The annual total coconut product will be destroyed by the Rilaron, rods and wild elephants.. It is reported that 25 percent of the total paddy cultivation have been destroyed by wild animals, 11 percent, 11 percent of vegetable cultivation.
+
+45000 hectares of animal damage in 2022 and 2023 have been completely damaged in the Uva Province.
 
 ◼️
 
 [Data](articles/d1a09abe.json)
+
+[Extended Data](ext_articles/d1a09abe.ext.json)
 
 ---
 
@@ -2161,19 +2183,5 @@ Reducing the security of former presidents is seen as the current main speech. T
 [Data](articles/d8cc076a.json)
 
 [Extended Data](ext_articles/d8cc076a.ext.json)
-
----
-
-### EDB hosts networking session for women entrepreneurs
-
-*2024-12-28 17:24:00* · [`islandlk`](http://island.lk/edb-hosts-networking-session-for-women-entrepreneurs/) · `en`
-
-The Export Development Board (EDB) successfully conducted a networking and knowledge sharing session for the women entrepreneurs registered under the “Women Entrepreneurship Development Program” recently at the EDB-NDB Tower, Colombo 02. The event addressed one of the key barriers faced by women entrepreneurs, lack of networking opportunities with industry leaders.
-
-This exclusive session brought together 50 women entrepreneurs registered with EDB, including SME direct exporters and indirect exporters, along with leading exporters and academics. Designed to inspire and educate, the event fostered connections, facilitated knowledge sharing, and encouraged collaboration to help women entrepreneurs navigate international markets. The event featured a distinguished panel of speakers who shared their expertise on various topics critical to succeeding in the global marketplace:
-
-...
-
-[Data](articles/f1e17e90.json)
 
 ---

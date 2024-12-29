@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 01:43:36**
+As of **2024-12-30 02:02:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,917 (98.9%) of 62,622 articles have been extended.
+61,918 (98.9%) of 62,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -233,6 +233,8 @@ DFCC Bank led the way among financial institutions to issue the first green bond
 ...
 
 [Data](articles/3d3b60b8.json)
+
+[Extended Data](ext_articles/3d3b60b8.ext.json)
 
 ---
 

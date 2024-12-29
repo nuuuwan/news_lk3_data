@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 07:32:02**
+As of **2024-12-29 08:08:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,858 (99.0%) of 62,486 articles have been extended.
+61,859 (99.0%) of 62,486 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,8 @@ Sri Lanka’s leading private sector bank recently celebrated the successful com
 ...
 
 [Data](articles/4f47e9ea.json)
+
+[Extended Data](ext_articles/4f47e9ea.ext.json)
 
 ---
 
@@ -536,19 +538,19 @@ A man who was traveling in a motorcycle in an accident has been admitted to Tiko
 
 ---
 
-### Sri Lanka’s PMB style SOE fails to control soaring rice prices in Bolivia
+### Sri Lanka paddy marketing SOE fails to control rice prices in Bolivia amid import problems
 
 *2024-12-28 20:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-pmb-style-soe-fails-to-control-soaring-rice-prices-in-bolivia-196666/) · `en`
 
-ECONOMYNEXT – A state-run food corporation like Sri Lanka’s Paddy Marketing Board which has extensive control over purchase and sale of food grains in Bolivia has failed to control the soaring price of rice amid import difficulties, media reports said.
+ECONOMYNEXT – A state-run food trading firm like Sri Lanka’s Paddy Marketing Board which has extensive control over purchase and sale of grains in Bolivia has failed to control the soaring price of rice amid import difficulties, according to media reports.
+
+Sri Lanka is currently facing soaring rice prices amid 220 dollar per tonne import taxes and a domestic economic recovery.
 
 Rice was being sold at 500 Bolvianos per quintal (about 100 kilograms), when it should be around 300, Vice Minister of Consumer Protection, Jorge Silva was quoted as saying by the Fides News Agency.
 
 The State Food Production Support Company (Empresa de Apoyo a la Producción de Alimentos or Emapa) was selling rice at 220 bolivianos per quintal without profits, Silva said.
 
 “If you add transportation and utilities, the best quality rice should cost Bs 300 (about 140 rupees a kilog), but it is more than Bs 500 (220 rupees a kilogram). In some places it has reached Bs 750,” Silva was quoted as saying.
-
-Bolivia was facing forex shortages making it difficult to import foods, as well as fuel.
 
 ...
 

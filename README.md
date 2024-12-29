@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 05:27:30**
+As of **2024-12-29 05:12:31**
 
 ## Newspaper Stats
 
-*Scraped **62,472** Articles*
+*Scraped **62,467** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 459
 colombotelegraphcom | 631
 bbccomsinhala | 658
-islandlk | 3,791
+islandlk | 3,786
 economynextcom | 3,800
 dailyftlk | 4,330
 dailymirrorlk | 4,733
@@ -26,25 +26,11 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,856 (99.0%) of 62,472 articles have been extended.
+61,855 (99.0%) of 62,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
-
-### Concluding JRJ’s Nehru letters; statement on Rajiv’s assassination
-
-*2024-12-29 02:26:00* · [`islandlk`](http://island.lk/concluding-jrjs-nehru-letters-statement-on-rajivs-assassination/) · `en`
-
-My father, Pandit Jawaharlal Nehru, has asked me to thank you for your telegram of good wishes.
-
-I wrote to you on the 29th June 1945, soon after your release from gaol. Since I have received no reply, I presume, the Censor prevented the letter from reaching you. I am enclosing a copy of it. Instead of the Sessional Papers, mentioned in the 5th paragraph, I am sending you a copy of the Soulbury Report, which contains the relevant Sessional Papers, and a few notes of mine on it. I particularly, draw your attention to Chap. 10 & 11. I do not think, that any Indian, who seeks freedom for India, can object to the recommendations, in para 242 (i) & (ii).
-
-...
-
-[Data](articles/52425cea.json)
-
----
 
 ### Russia shot the F -16 aircraft
 
@@ -71,46 +57,6 @@ Russian authorities have reportedly shot down Ukraine's F-16 aircraft. (A)
 [Data](articles/7db0168e.json)
 
 [Extended Data](ext_articles/7db0168e.ext.json)
-
----
-
-### Libya makes waves as the Non-Aligned Conference kicks off in 1976
-
-*2024-12-29 02:01:00* · [`islandlk`](http://island.lk/libya-makes-waves-as-the-non-aligned-conference-kicks-off-in-1976/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-On August 6, the Prime Minister despatched me to meet President Gopallawa, and brief him on all the arrangements for the Non-Aligned Conference. The President was always dressed in spotless white cloth and a kind of formal white tunic top. He was simple in his speech, soft spoken and courteous. He also possessed a self-depreciating kind of humour. One day he told me that in 1972, when we became a Republic and the Governor General became President, he used to sometimes telephone someone and say that he was the President speaking, and invariably they asked “President of what?”
-
-...
-
-[Data](articles/bff4ed7a.json)
-
----
-
-### Auld Lang Syne for the year 2024
-
-*2024-12-29 01:57:00* · [`islandlk`](http://island.lk/auld-lang-syne-for-the-year-2024/) · `en`
-
-The year just ending – 2024 – most certainly was exceptional and will make its mark in the history of Sri Lanka. The reason is political: a drastic change in systems of governance and those wielding power, and consequently ushering a change in the economic and social condition of the nation and its people. The collective psyche of most Lankans too changed from moods of hopelessness and apathy in the face of obvious corruption and rot, to optimism. And thus my chant ‘auld lang syne’ for ‘days gone by’, ‘times past’ and ‘for the sake of old times.’
-
-This newspaper will carry many articles dissecting the past year and analyzing what could be expected from the new to be born in three day’s time. So I decided to go back to beginnings to find out the origins of a couple new year customs
-
-...
-
-[Data](articles/904ba496.json)
-
----
-
-### Book Title: The Rout of Prabhakaran Book Title: The Rout of Prabhakaran
-
-*2024-12-29 01:49:00* · [`islandlk`](http://island.lk/book-title-the-rout-of-prabhakaran-book-title-the-rout-of-prabhakaran/) · `en`
-
-Veteran journalist MR Narayan Swamy’s ‘The Rout of Prabhakaran’ is a masterly twin-book chronicle on the LTTE, which includes his earlier book, ‘Inside an Elusive Mind: Prabhakaran’ (2003). The first part of his life is narrated in ‘Elusive Mind’. It lets us in on the rise of Velupillai Prabhakaran, a village boy from Velvettithurai (VVT) who, three decades later, became the unquestioned ruler of a third of Sri Lanka’s landmass. ‘The Rout’ is a dramatic account of how he lost his fiefdom by 2009, with the ultimate humiliation of being photographed lying dead, clad only in his undervest.
-
-...
-
-[Data](articles/fb239333.json)
 
 ---
 
@@ -1090,27 +1036,17 @@ During his reign, he launched a free housing scheme for 46 thousand families fro
 
 ---
 
-### Yoshitha Rajapaksa summoning CID
+### යෝෂිත රාජපක්ෂට සී.අයි.ඩී.යෙන් කැඳවීමක්
 
 *2024-12-28 15:09:41* · [`adalk`](https://www.ada.lk/breaking_news/යෝෂිත-රාජපක්ෂට-සී-අයි-ඩී-යෙන්-කැඳවීමක්/11-413881) · `si`
 
-Here's a summary in 200 characters:
+යෝෂිත රාජපක්ෂ මහතාට ලබන ජනවාරි 03 වැනිදා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස දැනුම් දී තිබේ.
 
-
-
-Yoshitha Rajapaksa summoned to CID on Jan 3 regarding asset accreditation.
-
-🟩
-
-Yoshitha Rajapaksa has informed him to appear before the CID on January 3.
-
-He has been summoned to the CID regarding the accreditation of assets.
+අයතා ලෙස වත්කම් ඉපයිමේ චෝදනාව මත මෙලෙස ඔහුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා ඇත.
 
 ◼️
 
 [Data](articles/ffc4c4da.json)
-
-[Extended Data](ext_articles/ffc4c4da.ext.json)
 
 ---
 
@@ -2261,5 +2197,93 @@ He also said that more than 1314 million rupees had to be deposited as arrears. 
 [Data](articles/b7c5a92a.json)
 
 [Extended Data](ext_articles/b7c5a92a.ext.json)
+
+---
+
+### Electricity charge: The beginning of the action of people's ideas
+
+*2024-12-28 03:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-மக்கள்-கருத்துக்களை-அறியும்-நடவடிக்கை-ஆரம்பம்/175-349390) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Public Use Commission announces hearings in Central, Uva, and Western Provinces. 50 individuals/organizations to present views. Action begins June 30th and July 10th. Comments via WhatsApp: 0772943193.
+
+🟩
+
+The Public Use the Commission said that the public has begun to hear public opinion in the Central Province.
+
+The Commission stated that 50 people, including organizations and individuals, will present their views.
+
+The Public Use Commission said that the action to be heard in the Uva Province will be held on the 30th of this month and the Western Province will be held on the 10th of next month.
+
+It has also been announced that they can register through the WhatsApp number 0772943193 if anyone wants to make comments.. (A)
+
+◼️
+
+[Data](articles/24ff26ad.json)
+
+[Extended Data](ext_articles/24ff26ad.ext.json)
+
+---
+
+### South Korea's response to a no -confidence motion against president
+
+*2024-12-28 02:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்-கொரிய-பதில்-ஜனாதிபதிக்கு-எதிரான-நம்பிக்கையில்லா-பிரேரணை-நிறைவேற்றம்/50-349389) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+South Korean Parliament passes confidence vote after rejecting no-confidence motion against President Yun Sook Yol. Strict military laws implemented, forcing the President to step down. Political turmoil subsides as ruling party members chant support for the government.
+
+🟩
+
+South Korea's response has been passed in Parliament of the country's parliament.
+
+He failed in a no -confidence motion brought against President Yun Sook Yol two weeks ago.
+
+President Yun Sook Yol was forced to leave the post due to the implementation of strict military law on the 3rd.
+
+Earlier, many parties were expected to take steps to resolve political turmoil in South Korea.
+
+Members of the ruling party have gathered in the middle of parliament and chanted that the referendum would not go away.. (A)
+
+◼️
+
+[Data](articles/27ec60c9.json)
+
+[Extended Data](ext_articles/27ec60c9.ext.json)
+
+---
+
+### Seylan Bank introduces Ethera Kaasi savings account for remittance beneficiaries
+
+*2024-12-28 01:07:00* · [`islandlk`](http://island.lk/seylan-bank-introduces-ethera-kaasi-savings-account-for-remittance-beneficiaries/) · `en`
+
+Seylan Bank has officially launched the Ethera Kaasi Savings Account, a specialised savings account designed to benefit the families of expatriate workers and recipients of worker remittances. This new offering aims to encourage savings among those who rely on remittances as a crucial source of income.
+
+The Ethera Kaasi Savings Account can be opened with a minimal initial deposit of LKR 3,500, and beneficiaries must receive a remittance within 60 days of account opening to be eligible for the benefits. Customers will enjoy no issuance fees for ATM Cards during the first year, along with free internet banking access for the same period.
+
+...
+
+[Data](articles/243b8cd9.json)
+
+[Extended Data](ext_articles/243b8cd9.ext.json)
+
+---
+
+### CIPM first to offer NVQ equivalent HRM courses in Sri Lanka
+
+*2024-12-28 01:06:00* · [`islandlk`](http://island.lk/cipm-first-to-offer-nvq-equivalent-hrm-courses-in-sri-lanka/) · `en`
+
+CIPM’s Diploma in Professional HRM (CQHRM Level 2) and Diploma in HRM (PQHRM Managerial Level) have been recognised as NVQ Level 5 qualifications by the Tertiary and Vocational Education Commission (TVEC). This landmark achievement was formalised in December 2024 with the signing of an official declaration between CIPM and TVEC.
+
+The NVQ equivalence applies to students who completed the Diploma in Professional HRM from 2020 onwards and the Diploma in HRM from 2016 onwards. This ensures that both current and past students can benefit from nationally recognized qualifications. The move underscores CIPM’s commitment to enhancing the value and relevance of its programs within Sri Lanka’s National Qualifications Framework.
+
+...
+
+[Data](articles/01dff04e.json)
 
 ---

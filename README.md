@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 17:44:27**
+As of **2024-12-29 18:04:05**
 
 ## Newspaper Stats
 
-*Scraped **62,572** Articles*
+*Scraped **62,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,974
 adaderanalk | 7,644
-tamilmirrorlk | 8,980
+tamilmirrorlk | 8,981
 virakesarilk | 10,384
 adaderanasinhalalk | 10,811
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,892 (98.9%) of 62,572 articles have been extended.
+61,892 (98.9%) of 62,573 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### சிறிய தாத்தாவின் லொறியில் மோதி குழந்தை  மரணம்
+
+*2024-12-29 17:37:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-தாத்தாவின்-லொறியில்-மோதி-குழந்தை-மரணம்/175-349454) · `ta`
+
+ஒரு வயது எட்டு மாத வயதுடைய பெண் குழந்தையான செனுஷி சிஹன்சா, குழந்தையின் சிறிய தாத்தா ஓட்டிய லொறியில் மோதுண்டு சனிக்கிழமை (28) மாலை உயிரிழந்தார். இந்த சம்பவம், மினிபே, ஹசலக, கினபலஸ்ஸ பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+மாத்தறையில் உள்ள தாயார் வீட்டில் வைத்தே உயிரிழந்துள்ளார், வீட்டிற்கு தண்ணீர் எடுத்துச் செல்வதற்காக லொறியை இயக்கிய போதே, அந்த லொறியின் அடிபட்டு உயிரிழந்தார்.
+
+லொறியில் அடிபட்ட குழந்தையை அக்கம் பக்கத்தினர் மீட்டு வைத்தியசாலைக்கு கொண்டு சென்ற போதிலும் அக்குழந்தையின் உயிரை காப்பாற்ற முடியவில்லை.
+
+சம்பவம் தொடர்பில் ஹசலக பொலிஸார் விசாரணைகளை மேற்கொண்டுள்ளதுடன், லொறியை செலுத்தி வந்த உயிரிழந்த குழந்தையின் சிறிய தாத்தா கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/41a6c2cc.json)
+
+---
 
 ### 75,000 metric ton of rice imported
 
@@ -2039,19 +2057,5 @@ On August 6, the Prime Minister despatched me to meet President Gopallawa, and b
 ...
 
 [Data](articles/bff4ed7a.json)
-
----
-
-### Auld Lang Syne for the year 2024
-
-*2024-12-29 01:57:00* · [`islandlk`](http://island.lk/auld-lang-syne-for-the-year-2024/) · `en`
-
-The year just ending – 2024 – most certainly was exceptional and will make its mark in the history of Sri Lanka. The reason is political: a drastic change in systems of governance and those wielding power, and consequently ushering a change in the economic and social condition of the nation and its people. The collective psyche of most Lankans too changed from moods of hopelessness and apathy in the face of obvious corruption and rot, to optimism. And thus my chant ‘auld lang syne’ for ‘days gone by’, ‘times past’ and ‘for the sake of old times.’
-
-This newspaper will carry many articles dissecting the past year and analyzing what could be expected from the new to be born in three day’s time. So I decided to go back to beginnings to find out the origins of a couple new year customs
-
-...
-
-[Data](articles/904ba496.json)
 
 ---

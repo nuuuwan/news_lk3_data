@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 15:43:10**
+As of **2024-12-29 16:02:04**
 
 ## Newspaper Stats
 
-*Scraped **62,548** Articles*
+*Scraped **62,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,802
 islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,971
+adalk | 5,972
 adaderanalk | 7,640
 tamilmirrorlk | 8,975
 virakesarilk | 10,375
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,885 (98.9%) of 62,548 articles have been extended.
+61,886 (98.9%) of 62,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,22 @@ Tourist arrivals have increased in the Nuwara Eliya area in the evenings.. For t
 [Data](articles/cf86f562.json)
 
 [Extended Data](ext_articles/cf86f562.ext.json)
+
+---
+
+### වසර දෙකකදි වගාවට සත්ව හානිය රු.මි. 550යි
+
+*2024-12-29 14:45:17* · [`adalk`](https://www.ada.lk/breaking_news/වසර-දෙකකදි-වගාවට-සත්ව-හානිය-රු-මි--550යි/11-413892) · `si`
+
+රිලවුන්, මොනරුන්,සහ වල් අලින් 2022 , 2023 දෙවසරවල තුළදී පමණක් රුපියල් මිලියන 550 ක පොල්, වී, එළවළු, බඩ ඉරිඟු, කෙසෙල් අස්වැන්න විනාශ කර ඇති බව  ජාතික ගොවිජන එකමුතුවේ සභාපති අනුරාධ තෙන්නකෝන් මහතා සඳහන් කර යි.
+
+වාර්ෂික සමස්ත පොල් නිෂ්පාදනයෙන් ගෙඩි මිලියන 86.7 ක් රිලවුන්, දඬු ලේනුන් සහ වල් අලින් විසින් විනාශ කරන බව මහතා කියයි.ඒ අනුව සමස්ත පලදාවෙන් සියයට 45ක්  පමණ රිලවුන් දඬු ලේනුන් සහ වල් අලින් විසින් විනාශ කරන බව හෙළි වී තිබේ. සමස්ත වී වගාවෙන් සියයට 25ක්, බඩඉරිඟු වගාවෙන් සියයට 11ක්, එළවළු වගාවෙන් සියයට 7ක් වන සතුන් විසින් විනාශ කර තිබෙන බව වාර්තාවෙයි.
+
+2022 සහ 2023 වසරවලදී ඉහළම වන සත්ව හානියෙන් ඌව පළාතේ හෙක්ටයාර් 45000ක් සම්පූර්ණයෙන්ම හානියට පත්ව ඇත.
+
+◼️
+
+[Data](articles/d1a09abe.json)
 
 ---
 
@@ -234,29 +250,41 @@ Sudden Death Investigation Officer Namasivayam Premkumar carried out the death i
 
 ---
 
-### අවුරුදු 02ක පුංචි සිඟිත්තාට අත්වූ නොසිතූ ඉරණම
+### 2 years old, unexpected fate
 
 *2024-12-29 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204824) · `si`
 
-මවගේ පාදයේ ආබාධයකට රැගෙන විත් තිබු දියර වේදනානාශකයක් පානයකළ කුඩා දරුවෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, පුත්තලම කල්අඩිය ප්‍රදේශයෙ පදිංචිව සිටි අවුරුද දෙකයි මාස හතක් වු එස්.ඒ.විනුක මන්දිත් නැමති දරුවන් තිදෙනෙකුගෙන් යුත් පවුලක බාල දරුවාය.
 
-ඥාති නිවසකට යාම සඳහා මව්පියන් දරුවන් තිදෙනා සුදානම් කරමින් සිටියදී කුඩා දරුවා කිසිවකුට නොදැනෙ ලෙස උස් ස්ථානයක තබා තිබු මවගේ පාදයට ගෙන ආ දියර සහිත වේදනානාශකය රැගෙන ඇත.
 
-ඉන් අනතුරුව එහි මුඩිය ඉවත් කරමින් දරුවා සපමින් සිටිනු දුටු පියා එකවර එය උදුරා ගෙන ඉවත් කර ඇති බව වාර්තා වෙයි.
+Child dies after ingesting unknown substance. Parents take child to private clinic, then hospital. Child transferred to another hospital but dies en route. Post-mortem concludes death due to poisoning.
 
-පසුව මව්පියන් විසින් දරුවා පරික්ෂා කිරීමේදී අදාළ වේදනානාශක දියරය දරුවාට පෙවීමක් සිදුවු ඇතිදැයි තහවුරු වී නොමැත.
+🟩
 
-කෙසේ නමුත්  මව්පියයන් විසින් දරුවා පාලවිය ප්‍රදේශයෙ ඇති පුද්ගලික වෛද්‍ය මධ්‍යස්ථානයක රැගෙන ගොස් තිබුණි.
+A young child was killed, a child who was drunk with a loud suffer from a mother's leg was killed.
 
-එහිදී වෛද්‍යවරයා පවසා ඇත්තේ අදාළ වේදනානාශක දියරය දරුවා පෙවීනොමැති බවට පෙනි යන බවය.
+The victims were the youngest children of a family of three children, named SA A කාර් nuu Matestd, who had been resident in Puttalam Kalard.
 
-නමුත් අදාළ වෛද්‍යවරයා පවසා ඇත්තේ දරුවා යම් හෙයකින් ආසාත්මිකතාවයකට පත් වුවහොත් කඩිනමින් රෝහල් ගත කරන ලෙසය.
+When the parents were prepared to go to a cousin, the young child had taken the liquid with the liquid that had been brought to the mother's foot, unaware of anyone.
+
+The father was taken away and removed and removed and removed and removed.
+
+Later, the parents had not confirmed that the child had had a pestictor of the pain.
+
+However, the parents had taken the child at a private medical center in the Palvana area.
+
+The doctor has said that the disappearance of the pain is that the child will not be like.
+
+However, the doctor has said that if the child becomes allergic to someone, immediate hospitalization.
+
+However, the parents had taken a child and was in the face of a mother of Madampe at the same time and had a disease of the child at once.
 
 ...
 
 [Data](articles/94d1d8fc.json)
+
+[Extended Data](ext_articles/94d1d8fc.ext.json)
 
 ---
 
@@ -2147,27 +2175,5 @@ This exclusive session brought together 50 women entrepreneurs registered with E
 ...
 
 [Data](articles/f1e17e90.json)
-
----
-
-### Special Notice to Members of Parliament
-
-*2024-12-28 17:07:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்ற-உறுப்பினர்களுக்கு-விசேட-அறிவிப்பு/175-349402) · `ta`
-
-MPs must submit asset & loan reports by Feb 15. New law requires this within 3 months of taking office. Annual submission due June 30. Newly elected MPs' deadline extended to Feb 15, per anti-corruption commission.
-
-🟩
-
-General Secretary of Parliament Kushani Rohanadeera has announced in writing to all parliamentarians to submit reports of assets and loans before February 15.
-
-According to Article 82 (A) of the new Corruption Act, all MPs must submit their property and responsible report within three months of appointed office.
-
-Members of Parliament must submit property and responsible statements before June 30 each year. Since all the newly elected MPs have to submit the property accounting report before February 15, it has not yet been decided to obtain the reports in June, according to the Commission of Investigation of Bribery Corruption.. Remble
-
-◼️
-
-[Data](articles/f10405c9.json)
-
-[Extended Data](ext_articles/f10405c9.ext.json)
 
 ---

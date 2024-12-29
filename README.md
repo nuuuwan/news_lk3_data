@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 17:27:20**
+As of **2024-12-29 17:44:27**
 
 ## Newspaper Stats
 
-*Scraped **62,571** Articles*
+*Scraped **62,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,802
 islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,973
+adalk | 5,974
 adaderanalk | 7,644
 tamilmirrorlk | 8,980
 virakesarilk | 10,384
@@ -26,25 +26,31 @@ adaderanasinhalalk | 10,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,891 (98.9%) of 62,571 articles have been extended.
+61,892 (98.9%) of 62,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### 75,000 மெற்றிக் தொன் அரிசி இறக்குமதி
+### 75,000 metric ton of rice imported
 
 *2024-12-29 17:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-000-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-349453) · `ta`
 
-அனுமதிப்பத்திரம் இன்றி அரிசி இறக்குமதிக்கு அனுமதி வழங்க அரசாங்கம் தீர்மானித்ததைத் தொடர்ந்து, டிசம்பர் 29 ஆம் திகதி வரை 75,000 மெற்றிக் தொன் இறக்குமதி செய்யப்பட்ட அரிசியை இலங்கை சுங்கம் அனுமதித்துள்ளது.
+Sri Lanka allows 75,000 metric tons of rice import without permit until Dec 29. Includes 32,000 tons of samba rice and 43,000 tons of other varieties. Decision made on Dec 3, 2024 to combat climate-induced local shortage.
 
-இதில் 32,000 மெற்றிக் தொன் சம்பா அரிசியும் 43,000 மெற்றிக் தொன் நாட்டு அரிசியும் உள்ளடங்குவதாக சுங்க ஊடகப் பேச்சாளரும் மேலதிக பணிப்பாளர் நாயகமுமான சீவலி அருக்கொட தெரிவித்தார்.
+🟩
 
-உள்ளூர் உற்பத்தியைப் பாதிக்கும் பாதகமான காலநிலையால் ஏற்படும் பற்றாக்குறையை நிவர்த்தி செய்வதற்காக, அனுமதிப் பத்திரமின்றி அரிசி இறக்குமதியை அனுமதிக்கும் முடிவு டிசம்பர் 3, 2024 அன்று அமல்படுத்தப்பட்டது.
+Sri Lanka Customs has allowed 75,000 metric tonnes of imported rice until December 29, following the government's decision to allow rice imports without a permit.
+
+Customs Media Spokesperson and Additional Director General Sewali Arukkoda said that this includes 32,000 metric tonnes of samba rice and 43,000 metric tons of rice.
+
+The decision to allow rice imports without permits was implemented on December 3, 2024 to address the shortage of adverse climate that affect local production.
 
 ◼️
 
 [Data](articles/8e69c0ac.json)
+
+[Extended Data](ext_articles/8e69c0ac.ext.json)
 
 ---
 
@@ -69,6 +75,20 @@ Shavendra Silva, an army chief, who had a significant service to the security of
 [Data](articles/491a5c00.json)
 
 [Extended Data](ext_articles/491a5c00.ext.json)
+
+---
+
+### දකුණු කොරියාවේ ගුවන් අනතුරකින් පුද්ගලයන් 177ක් මරුට
+
+*2024-12-29 16:31:52* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-කොරියාවේ-ගුවන්-අනතුරකින්-පුද්ගලයන්-177ක්-මරුට/11-413894) · `si`
+
+දකුණු කොරියාවේ ගුවන් යානයක් ගොඩබෑමට යාමේදී අද(29දා) සිදු වූ අනතුරින්  ජීවිතක්ෂයට පත් වූ  පුද්ගලයන් සංඛ්‍යාව 177 ක් දක්වා ඉහළ ගොස් තිබේ.
+
+අනතුර සිදුවන අවස්ථාවේ ගුවන් යානය තුළ පුද්ගලයන් 181 දෙනෙකු සිටි ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/d958d2da.json)
 
 ---
 
@@ -2033,17 +2053,5 @@ This newspaper will carry many articles dissecting the past year and analyzing w
 ...
 
 [Data](articles/904ba496.json)
-
----
-
-### Book Title: The Rout of Prabhakaran Book Title: The Rout of Prabhakaran
-
-*2024-12-29 01:49:00* · [`islandlk`](http://island.lk/book-title-the-rout-of-prabhakaran-book-title-the-rout-of-prabhakaran/) · `en`
-
-Veteran journalist MR Narayan Swamy’s ‘The Rout of Prabhakaran’ is a masterly twin-book chronicle on the LTTE, which includes his earlier book, ‘Inside an Elusive Mind: Prabhakaran’ (2003). The first part of his life is narrated in ‘Elusive Mind’. It lets us in on the rise of Velupillai Prabhakaran, a village boy from Velvettithurai (VVT) who, three decades later, became the unquestioned ruler of a third of Sri Lanka’s landmass. ‘The Rout’ is a dramatic account of how he lost his fiefdom by 2009, with the ultimate humiliation of being photographed lying dead, clad only in his undervest.
-
-...
-
-[Data](articles/fb239333.json)
 
 ---

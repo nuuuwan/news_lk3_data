@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 02:12:35**
+As of **2024-12-30 02:43:13**
 
 ## Newspaper Stats
 
-*Scraped **62,623** Articles*
+*Scraped **62,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,159 @@ colombotelegraphcom | 632
 bbccomsinhala | 658
 islandlk | 3,802
 economynextcom | 3,805
-dailyftlk | 4,336
+dailyftlk | 4,343
 dailymirrorlk | 4,733
 adalk | 5,979
 adaderanalk | 7,649
 tamilmirrorlk | 8,984
-virakesarilk | 10,405
+virakesarilk | 10,406
 adaderanasinhalalk | 10,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,918 (98.9%) of 62,623 articles have been extended.
+61,920 (98.9%) of 62,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### Mujibur urges Govt. to remove Rs. 65 tax on rice imports
+
+*2024-12-30 02:26:57* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-urges-Govt-to-remove-Rs-65-tax-on-rice-imports/56-771153) · `en`
+
+Says tax of Rs. 65 per kilo on imported rice, which raises price from Rs. 150 to Rs. 230, has burdened consumers
+
+Points out Govt. has failed to eliminate the “rice mafia,” despite earlier promises
+
+Accuses Govt. of favouring large-scale rice mill owners over consumers and farmers
+
+Alleges Govt. has implemented policies that harm ordinary citizens while benefitting capitalist class
+
+Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has called on the Government to remove the Rs. 65 tax imposed on imported rice, leaving consumers struggling. Addressing a press conference yesterday, Rahman raised concerns over the ongoing rice shortage in Sri Lanka and criticised the Government’s handling of the crisis.
+
+Rahman acknowledged the Government’s decision to import rice to address the shortage caused by insufficient local production. However, he highlighted that despite the imports, rice remains unavailable at a reasonable price in many shops, leaving consumers struggling to access this staple food.
+
+...
+
+[Data](articles/559fe46b.json)
+
+---
+
+### HRCSL seeks President’s permission to meet Rohingya refugees in detention
+
+*2024-12-30 02:24:32* · [`dailyftlk`](https://www.ft.lk/news/HRCSL-seeks-President-s-permission-to-meet-Rohingya-refugees-in-detention/56-771152) · `en`
+
+The Human Rights Commission of Sri Lanka (HRCSL) has formally requested President Anura Kumara Dissanayake to grant permission for its officials to meet with Rohingya refugees detained in the country, to assess their situation.
+
+HRCSL Chairperson Justice L.T.B. Dehideniya has made this request in writing, citing the Commission’s mandate to monitor the welfare of persons held in detention.
+
+The development follows the rescue of 115 Rohingya refugees, including women and children, by the Sri Lankan Navy off the coast of Mullaitivu recently. The refugees, who arrived by boat, are currently held at the Mullaitivu Air Force Base.
+
+On 26 December, an HRCSL delegation had visited the Air Force Base intending to investigate the condition of the detainees. However, Air Force officials denied access, stating that approval from the Controller General of Immigration and Emigration was required.
+
+...
+
+[Data](articles/d3898fa6.json)
+
+---
+
+### CBL’s SME empowerment initiative ‘Senehasin Jayamaga’ wins Best Sustainability Project Award
+
+*2024-12-30 02:23:19* · [`dailyftlk`](https://www.ft.lk/business/CBL-s-SME-empowerment-initiative-Senehasin-Jayamaga-wins-Best-Sustainability-Project-Award/34-771151) · `en`
+
+CBL Group Director Rasith Wickramasingha (left) receiving the award from Dialog Axiata CEO Supun Weerasinghe. CBL General Manager – Channel Development Srilal Wijesekara and General Manager – Sales Jayanga Perera are also present
+
+Ceylon Biscuits Ltd., (CBL) was awarded the ‘Best Sustainability Project Award’ for its initiative to develop retailer and distributor partners – ‘Senehasin Jayamaga’ – at the Best Corporate Citizen Awards 2024, organised by The Ceylon Chamber of Commerce.
+
+The accolade highlights CBL’s dedication to empowering small and medium-sized enterprises (SMEs), particularly women entrepreneurs, while fostering sustainable economic growth in Sri Lanka. CBL is the proud owner of flagship brand Munchee and a subsidiary of the CBL Group.
+
+...
+
+[Data](articles/00fce44e.json)
+
+---
+
+### Anil Dias appointed to Dilmah Ceylon Tea Board
+
+*2024-12-30 02:21:39* · [`dailyftlk`](https://www.ft.lk/business/Anil-Dias-appointed-to-Dilmah-Ceylon-Tea-Board/34-771150) · `en`
+
+Dilmah Ceylon Tea Board Company PLC has announced the appointment of Anil Dias as a Non-Executive Independent Director of the company and as the Chairman of the Board Audit Committee with effect from 1 January 2025.
+
+Dias is an experienced finance professional with 40 years of experience in senior finance, general management, and business transformation roles with global responsibilities. He currently serves on the Board of Mercantile Investments and Finance PLC as an Independent Non-Executive Director.
+
+Much of his career was with Coats PLC of the UK, a FTSE 250 company with a wide global footprint and the world leader in industrial sewing threads.
+
+...
+
+[Data](articles/ef6f278e.json)
+
+---
+
+### Jonathan joins Alumex Board
+
+*2024-12-30 02:19:01* · [`dailyftlk`](https://www.ft.lk/business/Jonathan-joins-Alumex-Board/34-771149) · `en`
+
+Ex-banker Jonathan Alles has been appointed as an Independent Non-Executive Director on the Board of Alumex PLC.
+
+Alles holds a First Class MBA in Finance from the University of Stirling, UK, and is an Associate Member of the Institute of Bankers of Sri Lanka.
+
+He was the Managing Director/Chief Executive Officer of Hatton National Bank PLC (HNB) and counts over 37 years of banking experience, having served several international banks including the National Bank of Abu Dhabi, Saudi-British Bank, Riyadh, British Bank of the Middle East, and HSBC, Dubai and Colombo, before taking on the reins at HNB.
+
+He was a Director of the Sri Lanka Banks’ Association (SLBA) and its Chairman from 2014 to 2016. He served as Chairman of the Asian Bankers Association for 3 years from 2018 onwards, was a member of its Board of Directors, and also served as the Chairman of its Advisory Committee.
+
+...
+
+[Data](articles/6cd12f2a.json)
+
+---
+
+### Janakan Selvaratnam appointed to Boards of Eden Lanka, Palm Garden Hotels
+
+*2024-12-30 02:17:00* · [`dailyftlk`](https://www.ft.lk/business/Janakan-Selvaratnam-appointed-to-Boards-of-Eden-Lanka-Palm-Garden-Hotels/34-771148) · `en`
+
+Financial services professional Janakan Selvaratnam has been appointed to the Boards of Eden Hotel Lanka PLC and Palm Garden Hotels PLC as a Non-Executive Independent Director with effect from 1 January 2025.
+
+Selvaratnam serves as a Non-Independent Non-Executive Director of Siyapatha Finance PLC. In his last role in a career spanning 25 years with Citibank N.A., Sri Lanka, he was the Vice President heading the Local Corporate Bank and Public Sector for the Sri Lankan franchise. The scope of his responsibilities included the managing of client portfolios in corporate, multinational, non-banking financial, and public sector segments.
+
+In addition, he has widespread experience in corporate governance, compliance, credit and risk management and banking operations. Whilst at Citibank N.A., he was a member of the bank’s Management Committee and served on the Assets and Liability Committee, the bank’s Integrated Risk Management Committee, and the Credit Committee.
+
+...
+
+[Data](articles/4143a82e.json)
+
+---
+
+### Kishan Nanayakkara featured in 2024 APAC Leading Lights list
+
+*2024-12-30 02:14:27* · [`dailyftlk`](https://www.ft.lk/business/Kishan-Nanayakkara-featured-in-2024-APAC-Leading-Lights-list/34-771147) · `en`
+
+Resus Energy Founder and Managing Director Kishan Nanayakkara was recognised at the 7th annual Asia Pacific “50 Leading Lights: Kindness in Leadership campaign” that was released on the recent World Kindness Day.
+
+“As we celebrate the seventh year of our 50 Leading Lights: Kindness in Leadership campaign, it’s evident that kindness is much more than a feel-good gesture – it’s a strategic advantage. Both successful leaders and leading academics consistently affirm that kindness enhances wellbeing, fuels innovation, and drives productivity. It is, therefore, a great honour to announce the 2024 APAC Leading Lights list, in association with Asia Square. By leading with kindness, these remarkable men and women transform workplaces into thriving ecosystems where both people and businesses flourish. They are an inspiration to us all,” said 50 Leading Lights Founder – Kindness and Leadership Pinky Lilani, CBE DL.
+
+...
+
+[Data](articles/85756514.json)
+
+[Extended Data](ext_articles/85756514.ext.json)
+
+---
+
+### கடந்த 24 மணி நேர காலப்பகுதியில் மதுபோதையில் வாகனம் செலுத்திய குற்றச்சாட்டில் 401 பேர் கைது
+
+*2024-12-30 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202502) · `ta`
+
+நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் விசேட போக்குவரத்து நடவடிக்கைக்கு அமைய திங்கட்கிழமை (30) காலை 6.00 மணியுடன் நிறைவடைந்த 24 மணி நேர காலப்பகுதியில் மாத்திரம் மதுபோதையில் வாகனம் செலுத்திய குற்றச்சாட்டில் 401 பேர் உள்ளடங்களாக 8068 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் அத்தியட்சகர் பொலிஸ் ஊடகப் பேச்சாளர் சட்டத்தரணி புத்திக மனதுங்க தெரிவித்தார்.
+
+பண்டிகைக் காலங்களில் வாகன விபத்துகளை குறைக்கும் நோக்கில் பதில் பொலிஸ் மா அதிபரின் பணிப்புரைக்கமைய கடந்த 20 ஆம் திகதி முதல் நாடளாவிய ரீதியில் விசேட போக்குவரத்து நடவடிக்கை அமுல்படுத்தப்பட்டுள்ளது. இந்நிலையில் ஞாயிற்றுக்கிழமை (29) காலை 6.00 மணியுடன் நிறைவடைந்த 24 மணி நேர காலப்பகுதியில் மாத்திரம் மதுபோதையில் வாகனம் செலுத்திய குற்றச்சாட்டின் பேரில் 401 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/91cfd472.json)
+
+---
 
 ### DIMO strengthens regional growth with new DIMO CAREHUB in Marawila, Puttalam District
 
@@ -43,6 +179,8 @@ Located in Sri Lanka’s west coast between Negombo and Chilaw, the new DIMO CAR
 ...
 
 [Data](articles/0441e2d8.json)
+
+[Extended Data](ext_articles/0441e2d8.ext.json)
 
 ---
 
@@ -1951,161 +2089,5 @@ In the meantime, only 2 people were rescued in the plane crash, and 179 people w
 ...
 
 [Data](articles/938aed1f.json)
-
----
-
-### தூய்­மை­யற்ற  கிளீன் ஸ்ரீலங்கா
-
-*2024-12-29 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202444) · `ta`
-
-கிளீன் ஸ்ரீலங்கா என்பது தனியே ஊழல் ஒழிப்பிற்கானதாகவும், நாட்டை தூய்மைப்படுத்துவதற்கானதாகவும், அரசியலை சுத்தம் செய்வதற்கானதாகவும் இல்லாமல், கடந்த கால தவறுகளை கண்டறிந்து அவற்றுக்கு காரணமானவர்களை தண்டிப்பதற்கானதாகவும், இனிமேலும் தவறுகள் இடம்பெறாமல் இருப்பதை உறுதி செய்வதாகவும் இருக்க வேண்டியது தான் முக்கியமானது.
-
-◼️
-
-[Data](articles/024065f3.json)
-
----
-
-### මවගේ ආබාධයට ගෙනා වේදනා නාශක දියරය පානය කල සිගිත්තා ජිවිතක්ෂයට
-
-*2024-12-29 12:15:08* · [`adalk`](https://www.ada.lk/breaking_news/මවගේ-ආබාධයට-ගෙනා-වේදනා-නාශක-දියරය-පානය-කල-සිගිත්තා-ජිවිතක්ෂයට/11-413890) · `si`
-
-මවගේ පාදයෙ ආබාධයකට රැගෙන විත් තිබු දියර වේදනා නාශකයක් පානය කල කුඩා දරුවෙකු එයින් ඇතිවු අධික විෂ හේතුවෙන් මුන්දලම රෝහලට ඇතුලත් කර පසුව හලාවත මහ රෝහලින් කොළඹ රිජ්වේ ළමා රෝහල වෙත රැගෙන යමින් සිටියදී අවාසානාවන්ත අයුරීන් මරණයට පත්ව ඇති බව පුත්තලම මූලස්ථාන පොලිසිය කියයි.
-
-මෙලෙස මරණයට පත්ව ඇත්තේ පුත්තලම කල්අඩිය ප්‍රදේශයෙ පදිංචි අවුරුද දෙකයි මාස හතක් වු එස්.ඒ.විනුක මන්දිත් නැමති දරුවන් තිදෙනෙකුගෙන් යුත් පවුලක බාල දරුවා බව කියයි.
-
-ඥාති නිවසකට යාම සදහා මව්පියන් දරුවන් තිදෙනා සුදානම් කරමින් සිටියදි කුඩා දරුවා කිසිවකුට නොදැනෙ ලෙස උස් ස්ථානයක තබා තිබු මවගේ පාදයට ගෙන ආ දියර සහිත වේදනා නාශකයක් රැගෙන එහි මුඩිය ඉවත් කරමින් සපමින් සිටිනු දුටු පියා එකවර එය උදුරා ගෙන ඉවත් කර ඇති බව කියයි.
-
-මව්පියන් පුතු පරික්ෂා කිරීමේදි අදාල වේදනා නාශක දීයරය පෙවිමක් සිදුවු තහවුරු වි නොමැති නමුත් පාලවිය ප්‍රදේශයෙ ඇති පුද්ගලික වෛද්‍ය මධ්‍යස්ථානයක වෛද්‍යවරයකුට දරුවා පෙන්වා ඇති අතර එහිදි ද වෛද්‍යවරයා පවසා ඇත්තේ අදාල වේදනා නාශක දියරය දරුවා පෙවි නොමැති බවට පෙනි යන බවයි.
-
-...
-
-[Data](articles/f52bfbfb.json)
-
----
-
-### Death toll rises to 120 in South Korean plane crash
-
-*2024-12-29 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104561/death-toll-rises-to-120-in-south-korean-plane-crash) · `en`
-
-South Korean fire authorities say 120 people have died in an airplane crash at an airport in the country’s southwest. Government officials say the airplane was carrying 175 passengers and six crew members.
-
-A South Korean low-cost carrier Jeju Air plane crashed at Muan International Airport shortly after 9 a.m. on Sunday.
-
-The government officials say the passengers include 173 South Koreans and two Thais.
-
-Footage aired on public broadcaster KBS shows a severely damaged aircraft bursting into flames and black smoke rising. The footage also shows firefighters trying to put out the fire and ambulances arriving at the scene.
-
-Fire department officials earlier said they presume almost everyone aboard except two who were rescued have perished.
-
-They also say the aircraft’s landing gear didn’t work properly and the pilots tried to make a belly landing. They say a bird strike could have caused the accident.
-
-◼️
-
-[Data](articles/28b26714.json)
-
----
-
-### தமிழகத்தில் உள்ள இலங்கை அகதிகளின் மீள்குடியேற்றம் எதிர்கொள்ளும் சவால்கள் - சந்திரஹாசன் இளங்கோவன் நேர்காணல்
-
-*2024-12-29 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202442) · `ta`
-
-அரசியல் கட்சி ரீதியாக திருமலை மாவட்ட பாராளுமன்ற உறுப்பினா் சண்முகம் குகதாசன் திருமலை மாவட்டத்துக்கு மீள்குடியேறும் மக்களுக்குத் தேவையான பல உதவிகளைச் செய்திருக்கிறாா். இந்திய அரசாங்கம் இந்த மீள்குடியேற்றத் திட்டத்தில் வீடமைப்பை முதன்மைப்படுத்திச் செயற்பட்டது. இதனைவிட, ஒட்டுமொத்தமான ஒரு திட்டமிடல் இல்லை. இப்போது வருபவா்களுக்கு ஈழ எதிலியா் மறுவாழ்வுக்கழகம் வாழ்வாதாரத்துக்கான சில திட்டங்களையும், ஆவணங்களைத் தயாரிப்பதற்கான செலவுகளையும், தற்காலிக இருப்பிடத்தை அமைப்பதற்கான சில திட்டங்களையும் கொடுக்கின்றாா்கள். இதற்கு மேல் மீளக்குடிவருபவா்கள் தாங்களாகவே அமைத்துக்கொள்ள வேண்டும்.
-
-◼️
-
-[Data](articles/1d660b28.json)
-
----
-
-### South Korean air crash rises to 122
-
-*2024-12-29 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204822) · `si`
-
-South Korean Boeing 737-800 crashes at Muun Airport, killing 181. Plane hit wall during landing, exploded. 2 survivors. Authorities investigating possible bird strike and damaged landing system.
-
-🟩
-
-A passenger transport flight carrying 181 persons who were trying to land at Muun Airport in South Korea have been killed today (29).
-
-The rest of the travels were operating, but the South Korean authorities have already said that they cannot keep more expectations on their lives.
-
-Boeing 737 - 800 Boeing from Juju-flight passenger transportation flight, Thailand's Muun Airport in Thailand, was started in the morning.
-
-Of the 181 people, 175 were passengers, and the remaining 6 were staff members.
-
-The plane was punished along the track to control the speed and collided with a wall.
-
-With the accident, the aircraft had exploded and completely destroyed.
-
-At the same time, the failures arriving nearby had tried to resume the fire.
-
-According to the South Korean media, 173 of the 175 passengers were South Koreans, the remaining two were Thailand.
-
-However, only two of the people were redeemed by a massive operation.
-
-...
-
-[Data](articles/8aa7b602.json)
-
-[Extended Data](ext_articles/8aa7b602.ext.json)
-
----
-
-### HRCSL urges President to facilitate access to Myanmar asylum seekers detained in Mullaitivu
-
-*2024-12-29 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104560/hrcsl-urges-president-to-facilitate-access-to-myanmar-asylum-seekers-detained-in-mullaitivu-) · `en`
-
-The Human Rights Commission of Sri Lanka (HRCSL) has formally called on President Anura Kumara Dissanayake to ensure unhindered access for its officials to inspect the welfare and detention conditions of 115 Myanmar asylum seekers currently held in Sri Lanka.
-
-In a letter to the President, the HRCSL emphasized that among the asylum seekers are over 40 children, many of them infants, who arrived by sea off the coast of Mullaitivu a few days ago and rescued by Sri Lanka Navy.
-
-The HRCSL further said that an inspection team from the HRCSL, including its Director of Research and Monitoring, attempted to visit the Mullaitivu detention site on December 26, 2024. However, access was denied by Air Force officials, citing instructions from the Controller General of Immigration and Emigration.
-
-...
-
-[Data](articles/3a47b604.json)
-
----
-
-### දඹුල්ලේ එළවව මිල ඉහළ පහළ යයි
-
-*2024-12-29 11:58:26* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවව-මිල-ඉහළ-පහළ-යයි/11-413889) · `si`
-
-ඉකුත් දින කිහිපයට සාපේක්ෂව 29 දින දඹුල්ල විශේෂිත ආර්ථික මධ්යස්ථානයේ   එළවළු වර්ග වල තොග මිල පහත ඉහල යමින් පවතින බව  ආර්ථික මධ්යස්ථාන වෙළඳ සංගමයේ නියෝජිතයෝ පවසති.
-
-ඒ අනුව දඹුල්ල ආර්ථික වෙළඳ මධ්යස්ථානය තුළ 29  දින උදෑසන බෝංචි කිලෝවක තොග මිල රුපියල් 350 ත් 400 ත් අතර ඉහළ අගයකට අලෙවි වූ බව වෙළෙන්දෝ පෙන්වා දෙති්
-
-එමෙන්ම මෙදින බෝංචි වෙළඳපළට ලැබීම ඉතාමත් සීමිත ප්රමාණයක් වීම නිසාවෙන් මිල ඉහළ යෑම සිදුවන බවත් එළවළු බහුතරයක ගුණාත්මක තත්වය  පහළ වැටීම  එළවළු තොග ලැබීම අඩු වී  ඇති බව ඔවුහු අවධාරණය කරති.
-
-අමුමිරිස් කිලෝව මෙදින රුපියල් 800 ක් 900 ත් අතර  පැවතිනි  . රුපියල් 300ක් 350කට අලෙවි වූ තක්කාලි කිලෝ එක මෙදින අලෙවි වූයේ රුපියල් 250ත් 200 ත්   වැනි මිලකට ත්  වට්ටක්කා කිලෝව රුපියල්  160 ත් 170 අතර මිලකට අලෙවි වෙයි
-
-විශේෂයෙන් කන්ද උඩරට ප්රදේශවලින් ලැබෙන කැරට් කිලෝවක්  230ත් 270   වූ මිල ගණන් යටතේ අලෙවිවීම විශේෂත්වයකි
-
-...
-
-[Data](articles/bb1630c5.json)
-
----
-
-### Woman in Sri Sri Pada to Sri Lanka
-
-*2024-12-29 11:46:34* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රීපාද-වන්දනාවේ-පැමිණි-කාන්තාවක්-ජිවිතක්ෂයට/11-413888) · `si`
-
-A woman from Galgamuwa died during the Sri Sri Pada pilgrimage. She was taken to Dikoya Hospital and later to Nallathaniya for treatment. Post-mortem was conducted, and her body was returned to relatives.
-
-🟩
-
-Nallathaniya police said that a woman at Sri Pada pilgrimage was suddenly illicit to Dikoya Basic Hospital (29). The victim was a resident of Renuka Dimanthi (57), a resident of Galgamuwa.
-
-The Sri Lankan road to the Nallathaniya, the Diliasaya (28) is suddenly ill, the Sri Lankan road has been admitted to Nallathaniya to the Delunai area.Have been appointed.
-
-The body of the deceased woman has been placed at the Dikoya Base Hospital, and a Nambaraniya police officer was handed over to relatives after the post mortem examination.
-
-◼️
-
-[Data](articles/fe23ec7e.json)
-
-[Extended Data](ext_articles/fe23ec7e.ext.json)
 
 ---

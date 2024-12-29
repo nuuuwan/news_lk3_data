@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 20:43:31**
+As of **2024-12-29 21:01:45**
 
 ## Newspaper Stats
 
-*Scraped **62,597** Articles*
+*Scraped **62,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,802
 islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,977
+adalk | 5,978
 adaderanalk | 7,646
 tamilmirrorlk | 8,983
 virakesarilk | 10,398
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,901 (98.9%) of 62,597 articles have been extended.
+61,902 (98.9%) of 62,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### අත්අඩංගුවට ගත්  මනූෂගේ සොහොයුරා රිමාන්ඩ්
+
+*2024-12-29 19:34:04* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්--මනූෂගේ-සොහොයුරා-රිමාන්ඩ්/11-413899) · `si`
+
+අත්අඩංගුවට ගත්  හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ සොහොයුරා ජනවාරි 06 දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට ගම්පහ මහෙස්ත්‍රාත් අධිකරණය අද (29දා ) නියෝග කෙරිණි.
+
+ෆින්ලන්තයේ රැකියා ලබාදෙන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කිරීම සම්බන්ධයෙන් මෙම පුද්ගලයා ඊයේ (28දා) අත්අඩංගුවට ගනු ලැබිණි.
+
+◼️
+
+[Data](articles/cc751196.json)
+
+---
 
 ### The first of January is the pledge of public servants
 
@@ -130,25 +144,35 @@ Only 2 people were rescued in the accident, and 179 people were killed in the tr
 
 ---
 
-### දකුණු අප්‍රිකාව ටෙස්ට් ලෝක ශූරතා අවසන් සටනට
+### South Africa to fight Test World Championships
 
 *2024-12-29 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204832) · `si`
 
-2023-25 ICC ලෝක ටෙස්ට් ශූරතා අවසන් මහා තරගයට සුදුසුකම් ලබාගැනීමට දකුණු අප්‍රිකානු කණ්ඩායමට අද (29) හැකිවිය.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ, දකුණු අප්‍රිකාවේ සෙන්චූරියන්හිදී පාකිස්තානයට එරෙහිව අවසන් වූ පළමු ටෙස්ට් ක්‍රිකට් තරගයෙන් කඩුලු 2ක ජයක් ලැබීමත් සමගය.
 
-2023-25 ලෝක ටෙස්ට් ශූරතාව යටතේ මහා තරගයට සුදුසුකම් ලැබූ පළමු කණ්ඩායමදකුණු අප්‍රිකාව වේ.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් පාකිස්තාතනය සියලු දෙනා දැවී ලකුණු 211ක් රැස්කළ අතර, ඊට පිළිතුරු ලෙස දකුණු අප්‍රිකාව පළමු ඉනිමට සියලු දෙනා දැවී ලකුණු 301ක් රැස්කිරීමට සමත් විය.
+South Africa qualifies for ICC World Test Final 2023-25. They win first Test vs Pakistan by 2 wickets. Pakistan scores 211/10 & 237/10. South Africa chases 148/8 to secure victory.
 
-පාකිස්තාන කණ්ඩායමේ දෙවැනි ඉනිම ලකුණු 237කට සීමා වූ අතර, ඒ හේතුවෙන් දකුණු අප්‍රිකාවට ලකුණු 148ක පහසු ඉලක්කයක් හිමිවිය.
+🟩
 
-කෙසේ නමුත් එම ඉලක්කය කඩුලු 8ක් දැවී අසීරුවෙන් හඹායෑමට දකුණු අප්‍රිකාව සමත් විය.
+2023-25 ​​The South African team was able to qualify for the Final Competition of the ICC World Test Final.
+
+In South Africa, the first Test cricket match against Pakistan in Century was won by 2 wickets.
+
+The first bandes qualified for the GCE (World Test Championships) under the World Test Championship are Africa.
+
+Batting first, Pakistan scored 211 runs for the loss of all wickets in the first innishment.
+
+The Pakistan's second innings were limited to 237 in their second innings, so South Africa received 148 runs.
+
+However, South Africa were able to chase 8 wickets for 8 wickets.
 
 ◼️
 
 [Data](articles/1d3a58e2.json)
+
+[Extended Data](ext_articles/1d3a58e2.ext.json)
 
 ---
 
@@ -2061,29 +2085,5 @@ The deceased has been identified as a result of the death of the deceased and he
 [Data](articles/09e0a9d7.json)
 
 [Extended Data](ext_articles/09e0a9d7.ext.json)
-
----
-
-### Five arrested in connection with three-wheeler thefts
-
-*2024-12-29 08:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104555/five-arrested-in-connection-with-three-wheeler-thefts) · `en`
-
-The Colombo Central Divisional Crime Detective Bureau has arrested five individuals in connection with the theft of several three-wheelers.
-
-Police said the arrested suspects, aged 31, 38, 51, and 54, are residents of Seeduwa, Orugodawatta, Colombo 10, and Colombo 14.
-
-Based on a tip-off received by officers of the Colombo Central Divisional Crime Detective Bureau, a raid was carried out on December 27 in the Station Road area of the Grandpass Police Division.
-
-Accordingly, a suspect was arrested with ‘Ice’ drugs (Crystal Methamphetamine) and following the interrogation of the relevant suspect, 9 stolen three-wheelers were recovered.
-
-Subsequently, four other suspects, found with stolen three-wheelers, were arrested yesterday (28) in the Seeduwa, Maligawatta, Grandpass, and Wellampitiya police divisions.
-
-These suspects were then presented to the Colombo Fort Police Station.
-
-...
-
-[Data](articles/fad6da9d.json)
-
-[Extended Data](ext_articles/fad6da9d.ext.json)
 
 ---

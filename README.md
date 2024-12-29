@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 03:12:55**
+As of **2024-12-30 03:27:18**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,921 (98.9%) of 62,634 articles have been extended.
+61,922 (98.9%) of 62,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### மின்சாரம் தாக்கி மூவர் உயிரிழப்பு
+### Electrocardiogram
 
 *2024-12-30 02:53:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-மூவர்-உயிரிழப்பு/175-349474) · `ta`
 
-நுரைச்சோலை மின்னுற்பத்தி நிலையத்தை அண்மித்த பகுதியில் கட்டடமொன்றில் பணியாற்றிக் கொண்டிருந்த மூவர் மின்சாரம் தாக்கி உயிரிழந்துள்ளனர்.
+Here's a summary in 200 characters:
 
-இரும்புக் கம்பிகளால் தயாரிக்கப்பட்ட தற்காலிக கம்பிப்படிகளில் ஏறி பணியாற்றிக் கொண்டிருந்த இவர்கள் இந்த அனர்த்தத்தை எதிர்நோக்கியுள்ளனர்.
 
-குறித்த படிக்கட்டில் மின்சாரம் பாய்ந்ததை அடுத்து மூவரும் சம்பவ இடத்திலேயே உயிரிழந்துள்ளனர். (a)
+
+Electrocardiogram: Three workers died near a foam factory handling iron wires. Electricity flowed through the staircase, causing instant death.
+
+🟩
+
+Three people who were working in a building in the area near the foam power station have died.
+
+They are working on the temporary wires made of iron rods and are facing the disaster.
+
+The trio died on the spot after electricity flows into the staircase. (A)
 
 ◼️
 
 [Data](articles/79947652.json)
+
+[Extended Data](ext_articles/79947652.ext.json)
 
 ---
 

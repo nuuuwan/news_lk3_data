@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 08:31:21**
+As of **2024-12-29 08:51:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 10,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,860 (99.0%) of 62,488 articles have been extended.
+61,861 (99.0%) of 62,488 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### ’மீனவர் பிரச்சினையை பேச்சுவார்த்தை மூலம் தீர்க்க வேண்டும்’
+### The fisherman's problem should be resolved by negotiating
 
 *2024-12-29 08:20:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்-பிரச்சினையை-பேச்சுவார்த்தை-மூலம்-தீர்க்க-வேண்டும்/175-349422) · `ta`
 
-இந்திய - இலங்கை மீனவர் பிரச்சினைகளை பேச்சுவார்த்தையின் மூலம் தீர்வு காண வேண்டும் என ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவர் ரவூப் ஹக்கீம் தெரிவித்துள்ளார்.
+N
 
-இராமநாதபுரம் மாவட்டம் கீழக்கரையில் நடைபெற்ற திருமண நிகழ்ச்சிக்காக தமிழகம் சென்றுள்ள ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவரும், பாராளுமன்ற உறுப்பினரும், முன்னாள் அமைச்சருமான ரவூப் ஹக்கீம் நேற்று சனிக்கிழமை இராமநாதபுரத்தில் செய்தியாளர்களை சந்தித்தார். இதன்போது அவர் கருத்து தெரிவிக்கையில்,
+🟩
 
-“முன்னாள் பிரதமர் மன்மோகன் சிங் இந்திய, இலங்கை இரு நாட்டு பிரச்சினைகளில் பல்வேறு முக்கிய முடிவுகளை எடுத்துள்ளதுடன், இந்திய பொருளாதார வளர்ச்சிக்கு மிக முக்கிய பங்காற்றியவர் அவரது மறைவிற்கு ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் இரங்கலை தெரிவித்துக் கொள்கிறது.
+Sri Lanka Muslim Congress President Rauf Hakeem says that the Indian -Sri Lankan fishermen issues should be resolved through negotiations.
+
+Rauf Hakeem, leader of the Sri Lanka Muslim Congress (SLMC), who visited Tamil Nadu for a wedding ceremony held at the Ramanathapuram district, met with reporters in Ramanathapuram on Saturday.. He commented,
+
+“Former Prime Minister Manmohan Singh has made various important decisions on the Indian and Sri Lankan issues and the Sri Lanka Muslim Congress condoles his demise on Indian economic development.
+
+Indo -Sri Lankan fishermen issues should be resolved by two countries and foreign governments. Recently, President Anura Kumara Dissanayake met Prime Minister Narendra Modi during his visit to India that the fisherman's problem would be resolved.. The Sri Lanka Muslim Congress party hopes that it will happen soon.
 
 ...
 
 [Data](articles/fc3deff3.json)
+
+[Extended Data](ext_articles/fc3deff3.ext.json)
 
 ---
 

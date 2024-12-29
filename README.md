@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 05:12:31**
+As of **2024-12-29 05:52:47**
 
 ## Newspaper Stats
 
-*Scraped **62,467** Articles*
+*Scraped **62,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 459
 colombotelegraphcom | 631
 bbccomsinhala | 658
-islandlk | 3,786
+islandlk | 3,795
 economynextcom | 3,800
 dailyftlk | 4,330
 dailymirrorlk | 4,733
@@ -26,11 +26,83 @@ adaderanasinhalalk | 10,792
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,855 (99.0%) of 62,467 articles have been extended.
+61,857 (99.0%) of 62,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### “Did Your Reindeer Learn to Sing” – Some ideas on Teaching vs Learning
+
+*2024-12-29 05:37:00* · [`islandlk`](http://island.lk/did-your-reindeer-learn-to-sing-some-ideas-on-teaching-vs-learning/) · `en`
+
+Recipient of the “Order of the Rising Sun, Gold and Silver Rays” from the Government of Japan
+
+This is the season of Santa Clauses, Reindeer, Xmas cards and Gifts. This triggered my memory of a Christmas card I received long ago. I was fortunate to be selected to follow an ILO /MATCOM programme at the Vienna International Centre, Austria. The programme focused on training methodology and developing training material for managerial-level persons in Co-operative Societies through a more andragogy based methodology. It was an exhilarating experience for me, and at the end of two weeks, I had re-oriented my perceptions and attitudes on training methodology and developing training material, and acquired a vast knowledge in the area of andragogy training..
+
+I received an interesting Xmas card from the MATCOM project at Christmas that year. It showed two Santa Clauses in conversation. The dialogue was something like this:
+
+: “I did not say he learnt to sing; I said I taught him to sing.”
+
+...
+
+[Data](articles/7e0fb677.json)
+
+---
+
+### Concluding JRJ’s Nehru letters; statement on Rajiv’s assassination
+
+*2024-12-29 02:26:00* · [`islandlk`](http://island.lk/concluding-jrjs-nehru-letters-statement-on-rajivs-assassination/) · `en`
+
+My father, Pandit Jawaharlal Nehru, has asked me to thank you for your telegram of good wishes.
+
+I wrote to you on the 29th June 1945, soon after your release from gaol. Since I have received no reply, I presume, the Censor prevented the letter from reaching you. I am enclosing a copy of it. Instead of the Sessional Papers, mentioned in the 5th paragraph, I am sending you a copy of the Soulbury Report, which contains the relevant Sessional Papers, and a few notes of mine on it. I particularly, draw your attention to Chap. 10 & 11. I do not think, that any Indian, who seeks freedom for India, can object to the recommendations, in para 242 (i) & (ii).
+
+...
+
+[Data](articles/52425cea.json)
+
+[Extended Data](ext_articles/52425cea.ext.json)
+
+---
+
+### Official visits with Mrs. B to China, India and the Soviet Union
+
+*2024-12-29 02:22:00* · [`islandlk`](http://island.lk/official-visits-with-mrs-b-to-china-india-and-the-soviet-union/) · `en`
+
+Most important visitors to the country called over at Temple Trees to pay their respects to the prime minister. One of the most interesting of these occasions was the morning the West Indies cricket team called over on the initiative of Felix Goonewardene, then Editor of the Times of Ceylon. While world class on the field, most of them like Garfield Sobers and the legendary three W’s Walcott, Weekes and Worrell were distinctly uncomfortable in the prime minister’s presence. Exceptional among them were Conrad Hunte, who spoke eloquently of his MRA (Moral Rearmament) connections and the dashing Rohan Kanhai.
+
+...
+
+[Data](articles/fbf0d2ae.json)
+
+---
+
+### Rajiva Wijesinha on Ranil Wickremesinghe
+
+*2024-12-29 02:20:00* · [`islandlk`](http://island.lk/rajiva-wijesinha-on-ranil-wickremesinghe/) · `en`
+
+I was perhaps a little overenthusiastic, in trying to claim objectivity for Rajiva Wijesinha’s latest book, when I said at the launch on Tuesday, December 17, at Lakmahal, that the role of the political commentator and observer is not to pass judgments, but rather to lay bare the facts for the reader to decide. During the Q and A I was bluntly – and justly – critiqued by a member of the audience: no, he said, the role is not to overwhelm the reader with facts – it is to come to conclusions, to make the reader aware.
+
+...
+
+[Data](articles/53a27472.json)
+
+---
+
+### The Clash of the Titanic egos for American leadership: Trump v. Musk
+
+*2024-12-29 02:19:00* · [`islandlk`](http://island.lk/the-clash-of-the-titanic-egos-for-american-leadership-trump-v-musk/) · `en`
+
+The traditions of the Presidential elections in the United States are different in a few significant ways from the elections to the Heads of State in other countries, based as they are on a constitution framed and ratified in the latter part of the 18th century.
+
+The USA elects its new president on the first Tuesday of November once every four years. But on the following Wednesday, or soon after his electoral victory is confirmed, he is just the President-elect, an ordinary citizen, with none of the powers of the Commander-in-Chief. All presidential power continues to reside with the defeated, incumbent President, until his official presidential term is over, when the transition of power takes place with the inauguration of the President-elect on January 20 of the following year, a full 11 weeks after the election.
+
+...
+
+[Data](articles/b91e0c92.json)
+
+---
 
 ### Russia shot the F -16 aircraft
 
@@ -57,6 +129,46 @@ Russian authorities have reportedly shot down Ukraine's F-16 aircraft. (A)
 [Data](articles/7db0168e.json)
 
 [Extended Data](ext_articles/7db0168e.ext.json)
+
+---
+
+### Libya makes waves as the Non-Aligned Conference kicks off in 1976
+
+*2024-12-29 02:01:00* · [`islandlk`](http://island.lk/libya-makes-waves-as-the-non-aligned-conference-kicks-off-in-1976/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+On August 6, the Prime Minister despatched me to meet President Gopallawa, and brief him on all the arrangements for the Non-Aligned Conference. The President was always dressed in spotless white cloth and a kind of formal white tunic top. He was simple in his speech, soft spoken and courteous. He also possessed a self-depreciating kind of humour. One day he told me that in 1972, when we became a Republic and the Governor General became President, he used to sometimes telephone someone and say that he was the President speaking, and invariably they asked “President of what?”
+
+...
+
+[Data](articles/bff4ed7a.json)
+
+---
+
+### Auld Lang Syne for the year 2024
+
+*2024-12-29 01:57:00* · [`islandlk`](http://island.lk/auld-lang-syne-for-the-year-2024/) · `en`
+
+The year just ending – 2024 – most certainly was exceptional and will make its mark in the history of Sri Lanka. The reason is political: a drastic change in systems of governance and those wielding power, and consequently ushering a change in the economic and social condition of the nation and its people. The collective psyche of most Lankans too changed from moods of hopelessness and apathy in the face of obvious corruption and rot, to optimism. And thus my chant ‘auld lang syne’ for ‘days gone by’, ‘times past’ and ‘for the sake of old times.’
+
+This newspaper will carry many articles dissecting the past year and analyzing what could be expected from the new to be born in three day’s time. So I decided to go back to beginnings to find out the origins of a couple new year customs
+
+...
+
+[Data](articles/904ba496.json)
+
+---
+
+### Book Title: The Rout of Prabhakaran Book Title: The Rout of Prabhakaran
+
+*2024-12-29 01:49:00* · [`islandlk`](http://island.lk/book-title-the-rout-of-prabhakaran-book-title-the-rout-of-prabhakaran/) · `en`
+
+Veteran journalist MR Narayan Swamy’s ‘The Rout of Prabhakaran’ is a masterly twin-book chronicle on the LTTE, which includes his earlier book, ‘Inside an Elusive Mind: Prabhakaran’ (2003). The first part of his life is narrated in ‘Elusive Mind’. It lets us in on the rise of Velupillai Prabhakaran, a village boy from Velvettithurai (VVT) who, three decades later, became the unquestioned ruler of a third of Sri Lanka’s landmass. ‘The Rout’ is a dramatic account of how he lost his fiefdom by 2009, with the ultimate humiliation of being photographed lying dead, clad only in his undervest.
+
+...
+
+[Data](articles/fb239333.json)
 
 ---
 
@@ -1036,17 +1148,27 @@ During his reign, he launched a free housing scheme for 46 thousand families fro
 
 ---
 
-### යෝෂිත රාජපක්ෂට සී.අයි.ඩී.යෙන් කැඳවීමක්
+### Yoshitha Rajapaksa summoning CID
 
 *2024-12-28 15:09:41* · [`adalk`](https://www.ada.lk/breaking_news/යෝෂිත-රාජපක්ෂට-සී-අයි-ඩී-යෙන්-කැඳවීමක්/11-413881) · `si`
 
-යෝෂිත රාජපක්ෂ මහතාට ලබන ජනවාරි 03 වැනිදා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින ලෙස දැනුම් දී තිබේ.
+Here's a summary in 200 characters:
 
-අයතා ලෙස වත්කම් ඉපයිමේ චෝදනාව මත මෙලෙස ඔහුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට කැඳවා ඇත.
+
+
+Yoshitha Rajapaksa summoned to CID on Jan 3 regarding asset accreditation.
+
+🟩
+
+Yoshitha Rajapaksa has informed him to appear before the CID on January 3.
+
+He has been summoned to the CID regarding the accreditation of assets.
 
 ◼️
 
 [Data](articles/ffc4c4da.json)
+
+[Extended Data](ext_articles/ffc4c4da.ext.json)
 
 ---
 
@@ -2117,173 +2239,5 @@ However, Mount Maunganui says that there are only a few tickets in the competiti
 [Data](articles/6da93760.json)
 
 [Extended Data](ext_articles/6da93760.ext.json)
-
----
-
-### Notification about change in the weather
-
-*2024-12-28 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204783) · `si`
-
-Weather alert: Showers forecasted in North-Central, Eastern, Uva, Northern, Western, Sabaragamuwa, Southern provinces. Thunderstorms may cause wind damage. Public advised to take precautions.
-
-🟩
-
-The Met Department (Department of Meteorology) says that a few showers in the North-Central, Eastern and Uva provinces and several showers in the Northern Province.
-
-Showers or thundershowers will occur at several places in the Western, Sabaragamuwa and Southern provinces, or night in the Nuwara Eliya and Kandy districts.
-
-The Department also said that in some places in the Western, Sabaragamuwa, Central, Southern and Uva provinces can last a morning.
-
-The Meteorological Department also requests the public to take necessary measures to reduce the damages caused by temporary winds and lightning activities possible with thunderstorms.
-
-◼️
-
-[Data](articles/a959e17e.json)
-
-[Extended Data](ext_articles/a959e17e.ext.json)
-
----
-
-### අලි පැන්නීමේ 'අසාර්ථක උත්සාහය' යළි අත්හදා බලන්න නියෝග දුන්නේ කවුද?
-
-*2024-12-28 03:55:37* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1elqz0nj7eo) · `si`
-
-අලි පැන්නීමේ 'අසාර්ථක උත්සාහය' යළි අත්හදා බලන්න නියෝග දුන්නේ කවුද?
-
-අනුරාධපුරයේ අලි පළවා හැරීමේ මෙහෙයුම නිසා මේ දිනවල තවත් 'අලි ගැටලුවක්' නිර්මාණය වී තිබේ. ඒ, වනජීවී නිලධාරීන් අපේක්ෂා කළ මාර්ගයේ විල්පත්තුවට නොගොස් හැටක පමණ අලි රංචුවක් ඔයාමඩුව ගොවිපල දෙසට ගමන් කර ඇති බැවිනි. දැන් ඔයාමඩුව අවට ජනතාවගේ අලි ප්‍රශ්නය විසඳීම කළ යුතු වන්නේ ද මේ අලි පන්නා ගෙන ආ වනජීවී නිලධාරීන්ම ය.
-
-කුරුණෑගල, ගිරිබාවේ ද මෙවැනි අලි පළවා හැරීමේ මෙහෙයුමක් පසුගිය දිනවල ආරම්භ විය. අනුරාධපුරයේ සහ කුරුණෑගල එම මෙහෙයුම් පදනම් කරගෙන ජාතික ජන බලවේගයේ පරිසර ප්‍රතිපත්තිය ගැන ද ඇතැමුන් සමාජ මාධ්‍ය ඔස්සේ ප්‍රශ්න කර තිබිණි. අලි පළවා හැරිම මේ වනවිට අවසන් කළ ද ප්‍රශ්නය තවමත් අවසන්ව නැත.
-
-...
-
-[Data](articles/d9e41d5a.json)
-
----
-
-### The Speakers of Sri Lanka from 1931 to 2024 Served as  the  “Honourable ”   Guardians of Parliamentary Supremacy.
-
-*2024-12-28 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85256) · `en`
-
-Season’s greetings to all readers! Let me begin the second part of this article on the speakers of Sri Lanka with a reference to former speaker Asoka Ranwala. A source who is usually well-informed about matters concerning the Janatha Vimukthi Peramuna(JVP) and the National People’s Power(NPP) got in touch with me a few days ago. He said that ex-speaker Ranwala had indeed acquired a doctoral degree from Japan.
-
-According to this  JVP/NPP “partisan”source, Asoka Ranwala   has indeed acquired a PhD from a Japanese institution of higher learning and is therefore entitled to the prefix “Dr”. Apparently Ranwala a long standing activist of the JVP had “escaped”from Sri Lanka when the Ranasinghe Premadasa regime had cracked down hard on the JVP in the 1989-90 period. Ranwala had made his way to Japan and resided there for several years  stated this source.
-
-...
-
-[Data](articles/15a75886.json)
-
----
-
-### Resolution
-
-*2024-12-28 03:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-நிலுவைத்தொகையை-வழங்கத்-தீர்மானம்/175-349391) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Welfare Benefits Council: 212,000+ families to receive arrears deposits. Total: 1,314 million rupees. Chairman Jayantha Wijeratne announced.
-
-🟩
-
-The Welfare Benefits Council said that the amount of arrears in the bank accounts of these families will be deposited.
-
-The Chairman of the Council, Jayantha Wijeratne, said that under the first phase of the Asweesum allowance, 212,000 423 families will be deposited by the unpaid arrears.
-
-He also said that more than 1314 million rupees had to be deposited as arrears. (A)
-
-◼️
-
-[Data](articles/b7c5a92a.json)
-
-[Extended Data](ext_articles/b7c5a92a.ext.json)
-
----
-
-### Electricity charge: The beginning of the action of people's ideas
-
-*2024-12-28 03:18:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-மக்கள்-கருத்துக்களை-அறியும்-நடவடிக்கை-ஆரம்பம்/175-349390) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Public Use Commission announces hearings in Central, Uva, and Western Provinces. 50 individuals/organizations to present views. Action begins June 30th and July 10th. Comments via WhatsApp: 0772943193.
-
-🟩
-
-The Public Use the Commission said that the public has begun to hear public opinion in the Central Province.
-
-The Commission stated that 50 people, including organizations and individuals, will present their views.
-
-The Public Use Commission said that the action to be heard in the Uva Province will be held on the 30th of this month and the Western Province will be held on the 10th of next month.
-
-It has also been announced that they can register through the WhatsApp number 0772943193 if anyone wants to make comments.. (A)
-
-◼️
-
-[Data](articles/24ff26ad.json)
-
-[Extended Data](ext_articles/24ff26ad.ext.json)
-
----
-
-### South Korea's response to a no -confidence motion against president
-
-*2024-12-28 02:43:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/தென்-கொரிய-பதில்-ஜனாதிபதிக்கு-எதிரான-நம்பிக்கையில்லா-பிரேரணை-நிறைவேற்றம்/50-349389) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-South Korean Parliament passes confidence vote after rejecting no-confidence motion against President Yun Sook Yol. Strict military laws implemented, forcing the President to step down. Political turmoil subsides as ruling party members chant support for the government.
-
-🟩
-
-South Korea's response has been passed in Parliament of the country's parliament.
-
-He failed in a no -confidence motion brought against President Yun Sook Yol two weeks ago.
-
-President Yun Sook Yol was forced to leave the post due to the implementation of strict military law on the 3rd.
-
-Earlier, many parties were expected to take steps to resolve political turmoil in South Korea.
-
-Members of the ruling party have gathered in the middle of parliament and chanted that the referendum would not go away.. (A)
-
-◼️
-
-[Data](articles/27ec60c9.json)
-
-[Extended Data](ext_articles/27ec60c9.ext.json)
-
----
-
-### Seylan Bank introduces Ethera Kaasi savings account for remittance beneficiaries
-
-*2024-12-28 01:07:00* · [`islandlk`](http://island.lk/seylan-bank-introduces-ethera-kaasi-savings-account-for-remittance-beneficiaries/) · `en`
-
-Seylan Bank has officially launched the Ethera Kaasi Savings Account, a specialised savings account designed to benefit the families of expatriate workers and recipients of worker remittances. This new offering aims to encourage savings among those who rely on remittances as a crucial source of income.
-
-The Ethera Kaasi Savings Account can be opened with a minimal initial deposit of LKR 3,500, and beneficiaries must receive a remittance within 60 days of account opening to be eligible for the benefits. Customers will enjoy no issuance fees for ATM Cards during the first year, along with free internet banking access for the same period.
-
-...
-
-[Data](articles/243b8cd9.json)
-
-[Extended Data](ext_articles/243b8cd9.ext.json)
-
----
-
-### CIPM first to offer NVQ equivalent HRM courses in Sri Lanka
-
-*2024-12-28 01:06:00* · [`islandlk`](http://island.lk/cipm-first-to-offer-nvq-equivalent-hrm-courses-in-sri-lanka/) · `en`
-
-CIPM’s Diploma in Professional HRM (CQHRM Level 2) and Diploma in HRM (PQHRM Managerial Level) have been recognised as NVQ Level 5 qualifications by the Tertiary and Vocational Education Commission (TVEC). This landmark achievement was formalised in December 2024 with the signing of an official declaration between CIPM and TVEC.
-
-The NVQ equivalence applies to students who completed the Diploma in Professional HRM from 2020 onwards and the Diploma in HRM from 2016 onwards. This ensures that both current and past students can benefit from nationally recognized qualifications. The move underscores CIPM’s commitment to enhancing the value and relevance of its programs within Sri Lanka’s National Qualifications Framework.
-
-...
-
-[Data](articles/01dff04e.json)
 
 ---

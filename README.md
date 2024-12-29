@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 06:17:25**
+As of **2024-12-29 06:49:11**
 
 ## Newspaper Stats
 
-*Scraped **62,476** Articles*
+*Scraped **62,486** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,165 @@ newsfirstlk | 363
 dbsjeyarajcom | 459
 colombotelegraphcom | 631
 bbccomsinhala | 658
-islandlk | 3,795
 economynextcom | 3,800
+islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,964
 adaderanalk | 7,630
-tamilmirrorlk | 8,959
+tamilmirrorlk | 8,960
 virakesarilk | 10,362
-adaderanasinhalalk | 10,792
+adaderanasinhalalk | 10,794
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,857 (99.0%) of 62,476 articles have been extended.
+61,857 (99.0%) of 62,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### ලොරි රථයකට යටවී කුඩා දැරියක් මරුට
+
+*2024-12-29 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204812) · `si`
+
+ලොරි රථයක පිටුපස රෝදයට යටවීමෙන් අවුරුදු 01යි මාස 10ක කුඩා දැරියක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (29) රාත්‍රී කාලයේදී එම අනතුර සිදුව තිබුණේ හසලක පොලිස් වසමේ ඇටබගොල්ල ප්‍රදේශයේදීය.
+
+මව හා පියා මෙම දැරියද සමඟ තම ඥාති නිවසකට ගොස් සිටියදී, නිවසෙහි තිබූ ලොරි රථයක් පණ ගන්වා ඉදිරියට ධාවනය කිරීමේදී මෙම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+අදාළ අනතුර හේතුවෙන් බරපතළ තුවාල ලැබූ කුඩා දැරිය මහියංගණය රෝහලට ඇතුලත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබුණි.
+
+අනතුර සිදුකළ ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/ece6f9c5.json)
+
+---
+
+### ComBank marks completion of 100,000 trees project with pledge to plant another 100,000
+
+*2024-12-29 05:56:00* · [`islandlk`](http://island.lk/combank-marks-completion-of-100000-trees-project-with-pledge-to-plant-another-100000/) · `en`
+
+Sri Lanka is 100,000 trees richer thanks to the completion, ahead of schedule, of a commitment by the Commercial Bank of Ceylon to plant that number of trees at selected locations across the island, and the Bank has announced plans to plant another 100,000 trees over the next 12 months.
+
+Sri Lanka’s leading private sector bank recently celebrated the successful completion of its ambitious ‘Trees for Tomorrow’ project, originally planned for execution over three years, in exactly one year from its launch.
+
+...
+
+[Data](articles/4f47e9ea.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-12-29 05:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204811) · `si`
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට සහ මාතලේ දිස්ත්‍රික්කවලත් අද (29) දිනයේ වැසි වාර  කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර, නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකියි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/71a8ad03.json)
+
+---
+
+### CIC Launches Besto Omega 3 eggs in Sri Lanka
+
+*2024-12-29 05:55:00* · [`islandlk`](http://island.lk/cic-launches-besto-omega-3-eggs-in-sri-lanka/) · `en`
+
+CIC has introduced its latest product, CIC Besto Omega 3 Eggs, to the Sri Lankan market, said a release.
+
+It said that these eggs are produced by hens fed an all-vegetarian diet, free of antibiotics, hormones, and animal by-products. The eggs are naturally enriched through specialized feed, offering higher levels of Omega-3 fatty acids, Vitamin A, Vitamin B9, Vitamin D3, Vitamin E, and xanthophyll, as well as double the Zinc and Iron compared to regular eggs.
+
+CIC ensures quality through monitoring by company veterinarians and natural feed ingredients. The eggs undergo rigorous testing and are marked with production and expiry dates for freshness assurance.
+
+Ceylinco Life 89th classroom donation benefits school in Arayampathy, Batticaloa
+
+SLT continues environmental themes with a dragonfly calendar for 2025
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/8c9bb4c9.json)
+
+---
+
+### Ceylinco Life 89th classroom donation benefits school in Arayampathy, Batticaloa
+
+*2024-12-29 05:54:00* · [`islandlk`](http://island.lk/ceylinco-life-89th-classroom-donation-benefits-school-in-arayampathy-batticaloa/) · `en`
+
+A group of children in the scenic coastal town of Arayampathy in Batticaloa will start the new school year with a new classroom, thanks to the generosity of Ceylinco Life.
+
+Sri Lanka’s life insurance leader funded the construction of a building for the Aesthetics classroom of the Sri Vinayagar Vidyalaya, Thalankudah, Arayampathy. This is the 89th such classroom donated by the Company to a school in Sri Lanka.
+
+The school has 454 students in grades one to the GCE Advanced Level, and a teaching staff of 32. It had only one building in good condition when Ceylinco Life came forward to help.
+
+Despite the challenges of inadequate facilities, the school has maintained its quality of education, leading to children from the nearby towns of Manmunai, Madurapuram, Fathimapuram and Vedarkudiyirippu attending classes.
+
+...
+
+[Data](articles/a488bb48.json)
+
+---
+
+### Beyond Escapes and Leopard Nest win big at Sri Lanka Tourism Awards 2024
+
+*2024-12-29 05:46:00* · [`islandlk`](http://island.lk/beyond-escapes-and-leopard-nest-win-big-at-sri-lanka-tourism-awards-2024/) · `en`
+
+Beyond Escapes and Leopard Nest achieved notable success at the Sri Lanka Tourism Awards 2024. Beyond Escapes was named Best Travel Agent in the SME Category, recognizing its focus on personalized travel experiences and sustainability. Leopard Nest won the Best Nature, Eco, and Wildlife Experience Award for its commitment to eco-tourism and conservation. Additionally, Ruwan Ratnayaka, CEO of both companies, received the Tourism Entrepreneur Award for his leadership and innovation. These honors highlight the growing impact of Beyond Escapes and Leopard Nest on Sri Lanka’s tourism industry, particularly in promoting sustainability and innovative travel solutions.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/095ecc5a.json)
+
+---
+
+### Fox Resorts Triumphs at Sri Lanka Tourism Awards
+
+*2024-12-29 05:46:00* · [`islandlk`](http://island.lk/fox-resorts-triumphs-at-sri-lanka-tourism-awards/) · `en`
+
+Fox Resorts proudly emerged as a dual award winner at the prestigious Sri Lanka Tourism Awards held on Friday, December 20. Celebrating excellence in the tourism sector, the event recognized Fox Resorts’ commitment to redefining luxury and heritage hospitality in Sri Lanka, a news release from Fox Resorts said.
+
+Fox Kandy, an exquisite retreat nestled in the heart of Sri Lanka’s hill country, won the award in the “Other Hotels” category. Lauded for its seamless blend of elegant hospitality, thoughtfully curated guest experiences, and the warm embrace of authentic Sri Lankan culture, Fox Kandy has become a beacon of excellence amid Kandy’s lush landscapes. This achievement underscores the property’s role in enriching Kandy’s allure and elevating Sri Lanka’s presence on the global tourism stage.
+
+...
+
+[Data](articles/b3da8d8c.json)
+
+---
+
+### SLT continues environmental themes with a dragonfly calendar for 2025
+
+*2024-12-29 05:46:00* · [`islandlk`](http://island.lk/slt-continues-environmental-themes-with-a-dragonfly-calendar-for-2025/) · `en`
+
+Sri Lanka Telecom (SLT-MOBITEL), as the National Information and Communication Technologies (ICT) Solutions Provider has demonstrated an unwavering commitment to fostering cultural preservation, environmental sustainability, and community empowerment through its initiatives.
+
+In this interview, SLT Chief Executive Officer Janaka Abeysinghe sheds light on the visionary strategies behind the company’s impactful projects, such as the annual calendar program. These calendars not only highlight the nation’s rich cultural and natural heritage but also actively contribute to community upliftment and environmental conservation.
+
+Q: How does SLT-MOBITEL’s annual calendar initiative promote Sri Lanka’s heritage and culture?
+
+...
+
+[Data](articles/c114225c.json)
+
+---
 
 ### “Did Your Reindeer Learn to Sing” – Some ideas on Teaching vs Learning
 
@@ -47,6 +187,24 @@ I received an interesting Xmas card from the MATCOM project at Christmas that ye
 ...
 
 [Data](articles/7e0fb677.json)
+
+---
+
+### சுங்கத் திணைக்கள மோசடிகளை மட்டுப்படுத்த நடவடிக்கை
+
+*2024-12-29 02:26:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுங்கத்-திணைக்கள-மோசடிகளை-மட்டுப்படுத்த-நடவடிக்கை/175-349420) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும் குடிவரவு- குடியகல்வு திணைக்களம், இலங்கை சுங்கம் ,விமான நிலையம் , விமான சேவை நிறுவனம் ஆகியவற்றின் தலைமையதிகாரிகளுக்கும் இடையிலான கலந்துரையாடல்நேற்று ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+போதைப்பொருள்,சட்டவிரோத பொருள்கள் நாட்டிற்குள் வருவதைத் தடுத்தல், விமான நிலையம், சுங்கத் திணைக்களத்திற்குள் நடக்கும் ஊழல், மோசடிகளை மட்டுப்படுத்தல், சட்டவிரோதமான முறையில் நபர்கள் நாட்டிலிருந்து வெளியேறுவதைத் தடுப்பது குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டது.
+
+அதற்காக, குடிவரவு - குடியகல்வு திணைக்களம், இலங்கை சுங்கம்,விமான நிலையம்,விமான சேவை நிறுவனம் ஆகிய மூன்று நிறுவனங்களிலும் இணை கமரா கட்டமைப்பு,கண்காணிப்பு நிலையத்தை ஸ்தாபிக்குமாறு ஜனாதிபதி அநுரகுமார திசாநாயக்க ஆலோசனை வழங்கினார்.
+
+அதேபோல், தற்போதுள்ள ஸ்கேன் இயந்திரங்களுக்குப் பதிலாக மேம்படுத்தப்பட்ட நவீன ஸ்கேன் இயந்திரங்களைப் பயன்படுத்தி இந்த நிறுவனங்கள் ஊடாக நடக்கும் கடத்தல்களை தடுப்பதற்கு நடைமுறை சாத்தியமான புதிய செயல்முறையை ஆரம்பிக்க வேண்டும் என்றும் ஜனாதிபதி குறிப்பிட்டார்.
+
+...
+
+[Data](articles/5a71944d.json)
 
 ---
 
@@ -655,6 +813,20 @@ Reducing the security of former presidents is seen as the current main speech. T
 [Data](articles/d8cc076a.json)
 
 [Extended Data](ext_articles/d8cc076a.ext.json)
+
+---
+
+### EDB hosts networking session for women entrepreneurs
+
+*2024-12-28 17:24:00* · [`islandlk`](http://island.lk/edb-hosts-networking-session-for-women-entrepreneurs/) · `en`
+
+The Export Development Board (EDB) successfully conducted a networking and knowledge sharing session for the women entrepreneurs registered under the “Women Entrepreneurship Development Program” recently at the EDB-NDB Tower, Colombo 02. The event addressed one of the key barriers faced by women entrepreneurs, lack of networking opportunities with industry leaders.
+
+This exclusive session brought together 50 women entrepreneurs registered with EDB, including SME direct exporters and indirect exporters, along with leading exporters and academics. Designed to inspire and educate, the event fostered connections, facilitated knowledge sharing, and encouraged collaboration to help women entrepreneurs navigate international markets. The event featured a distinguished panel of speakers who shared their expertise on various topics critical to succeeding in the global marketplace:
+
+...
+
+[Data](articles/f1e17e90.json)
 
 ---
 
@@ -2031,213 +2203,5 @@ Until January in the midst of January, special circles will continue to be carri
 [Data](articles/9bf0cbac.json)
 
 [Extended Data](ext_articles/9bf0cbac.ext.json)
-
----
-
-### ගාලු කොටුවේ පැරණි කොටු දොරකඩ දින 04ක් තාවකාලිකව වැසෙයි
-
-*2024-12-28 09:18:50* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-කොටුවේ-පැරණි-කොටු-දොරකඩ-දින-04ක්-තාවකාලිකව-වැසෙයි/11-413879) · `si`
-
-ගාලු කොටුවේ පවුරට ඇතුළු වන පැරණි කොටු දොරකඩ දින 04ක් තාවකාලිකව වසා තබන බව පුරාවිද්‍යා දෙපාර්තමේන්තුවේ දකුණු පළාත් කාර්යාලය නිවේදනය කරයි.
-
-ඒ අනුව අද(28දා) සිට ලබන 31වැනිදා දක්වා පැරණි කොටු දොරකඩ වසා තැබෙන ඇත.
-
-◼️
-
-[Data](articles/a9735b27.json)
-
----
-
-### Elephants, Monkeys & Kidneys
-
-*2024-12-28 09:11:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/elephants-monkeys-kidneys/) · `en`
-
-I have chosen this seemingly peculiar title for the reason that each summarizes the plight of our farmers, unresolved challenges that warrant greater attention of politicians, administrators and researchers. These are real and urgent problems.
-
-All three share the common feature that easy solutions remain elusive and most likely to involve a number of causes and disciplines (multifactorial) and thus a simple or single solution is unlikely.
-
-Farmers are the most affected by elephant and CKDu (Chronic Kidney Disease of Unknown Aetiology), while the monkey menace troubles urban communities as well. All three are not new, but have come into prominence lately. The economic consequences are very clear. The helplessness of the victims is pathetic.
-
-...
-
-[Data](articles/af55f29f.json)
-
----
-
-### ශ්‍රී ලංකා - නවසීලන්ත පළමු විස්සයි 20 තරගය අද
-
-*2024-12-28 09:07:31* · [`adalk`](https://www.ada.lk/sports/ශ්‍රී-ලංකා---නවසීලන්ත-පළමු-විස්සයි-20-තරගය-අද/9-413878) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පළමු විස්සයි 20 තරගය අද(28දා) පැවැත්වීමට නියමිතව තිබේ.
-
-◼️
-
-[Data](articles/51c9450b.json)
-
----
-
-### Russia may be responsible for downed Azerbaijani plane, says US
-
-*2024-12-28 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104533/russia-may-be-responsible-for-downed-azerbaijani-plane-says-us) · `en`
-
-White House spokesman John Kirby has said the US has seen “early indications” that Russia may have been responsible for the downing of the Azerbaijan Airlines plane that crashed on 25 December, killing 38 people.
-
-Mr Kirby did not elaborate further, but told reporters the US had offered assistance to the investigation into the crash.
-
-The plane is thought to have come under fire from Russian air defence systems as it tried to land in Chechnya before being diverted across the Caspian Sea to Kazakhstan, where it crashed.
-
-The Kremlin has refused to comment, but the head of Russia’s civil aviation agency said the situation in Chechnya was “very complicated” due to Ukrainian drone strikes on the region.
-
-Mr Kirby said the indications the US had seen went beyond widely circulated photos of the damaged plane, the Washington Post reported.
-
-...
-
-[Data](articles/e3708a56.json)
-
----
-
-### காலி கோட்டையின் பழைய நுழைவாயில் தற்காலிகமாக மூடப்பட்டது
-
-*2024-12-28 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/202341) · `ta`
-
-காலி கோட்டையின் பழைய நுழைவாயில் இன்று சனிக்கிழமை (28) முதல் 31 ஆம் திகதி வரை தற்காலிகமாக மூடப்படும் என தொல்பொருள் திணைக்களத்தின் தென் மாகாண பிராந்திய அலுவலகம் அறிவித்துள்ளது.
-
-உலக பாரம்பரிய காலி கோட்டையின் பழைய கோட்டை வாயில்களுக்கு அருகிலுள்ள தொல்பொருள் நினைவுச்சின்ன சுற்றுச்சுவரில் ஒரு பாதுகாப்பு பணி காரணமாக மேற்படி தீர்மானம் மேற்கொள்ளப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
-
-அதற்கமைய, வாயில்களைச் சூழவுள்ள பகுதியில் இரசாயன பாதுகாப்புப் பணிகள் முன்னெடுக்கப்படுவதால் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தென் மாகாண தொல்பொருள் பணிப்பாளர் வசந்தி அழககோன் தெரிவித்துள்ளார்.
-
-நாளை முதல் 31ஆம் திகதி வரை காலி கோட்டைக்குள் நுழைவதும் வெளியேறுவதும் புதிய கோட்டை வாயில்கள் ஊடாக மேற்கொள்ளப்படும் எனவும் திணைக்களம் மேலும் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/a678fa3a.json)
-
----
-
-### Several spells of showers expected in parts of the country
-
-*2024-12-28 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104532/several-spells-of-showers-expected-in-parts-of-the-country) · `en`
-
-The Department of Meteorology says several spells of showers may occur in North-central, Eastern and Uva provinces and in Matale district. A few showers may occur in Northern province.
-
-Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Southern provinces and in Nuwara-Eliya and Kandy districts during the evening or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/de1aeb55.json)
-
----
-
-### පළාත් කිහිපයකට අද වැසි
-
-*2024-12-28 08:41:52* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-කිහිපයකට-අද-වැසි/11-413877) · `si`
-
-උතුරු මැද, නැගෙනහිර සහ ඌව පළාත් වලත් මාතලේ දිස්ත්‍රික්කයේත් අද(28දා) වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-එමෙන්ම බස්නානාහිර , සබරගමුව සහ දකුණු පළාත්වලත් නුවරඑළිය සහ මහනුවර දිස්ත්‍රික්කවලත් සවස්කාලෙය්දී  ‍හෝ රාත්‍රී කාලයේදී ස්ථාන කිහිපයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එහි සඳහන් කර තිබේ.
-
-◼️
-
-[Data](articles/53c03f17.json)
-
----
-
-### Delay in Colombo during festive season increases
-
-*2024-12-28 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204785) · `si`
-
-Colombo's festive season sees surge in garbage disposal: 500 tonnes daily vs usual 420-450 tonnes. Decomposition issues arise from excess food waste.
-
-🟩
-
-The disposal of garbage in Colombo has increased in Colombo city areas during the festive season, Colombo Municipal Council has increased.
-
-Its municipal commissioner Palitha Nanayakkara said that 450 tonnes of Ton Daily to 550 tonnes of Tons will increase to 500 tonnes.
-
-"Our average garbage production has increased at some level. The city is usually between 420 and 450 tons in the city of production.
-
-But by December 31, we foretell that this is about 500 tons of this size due to the enormous number of Colombo.
-
-Meanwhile, the Director of the Central Environmental Authority Dr. Ajith Gunawardena said that the large amount of food has caused to increase the amount of decomposed.
-
-◼️
-
-[Data](articles/95da90ad.json)
-
-[Extended Data](ext_articles/95da90ad.ext.json)
-
----
-
-### Civil organizations letter to the president
-
-*2024-12-28 08:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202340) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-47 civil orgs request Pres. Anura Kumaratissa provide asylum to Rohingya refugees in Sri Lanka. 115 refugees arrived Dec 19, 2024. Court orders detention, NGOs seek help. Concerns raised over detention conditions and frequent relocation. Heartbreaking stories of 6 deaths due to starvation during journey.
-
-🟩
-
-47 civil organizations have requested President Anura Kumaratisanayake to provide humanitarian asylum to Myanmar's Rohingya asylum seekers who have arrived in Sri Lanka last week.
-
-On December 19, 2024, a boat with more than 100 Rohingya refugees came to Mullivaikkal in Mullaitivu.
-
-That evening, the Sri Lankan navy took the boat to the Azrav landing department at the port of Trincomalee.
-
-They were then taken to the Trincomalee court and Rohingya refugees told the court that they had come to Sri Lanka with the aim of seeking refuge.
-
-They have left three boats but only 115 people have arrived in Sri Lanka with 115 people. The boat has 103 asylum handguns and 12 people who brought them to Sri Lanka.
-
-The court has ordered the detention of asylum seekers to the Sri Lankan demanding to send others to the Mirihana detention center.
-
-We know that the initial efforts to send them to the Mirihana rehabilitation camp because they are not ready to accept them.
-
-...
-
-[Data](articles/b0da11f4.json)
-
-[Extended Data](ext_articles/b0da11f4.ext.json)
-
----
-
-### All tickets in the match sells
-
-*2024-12-28 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204784) · `si`
-
-Sri Lanka vs New Zealand T20 match summary: First game of 3-match series today at Mount Maunganui. Tickets sold out, 500 extra released. Over 10,000 fans expected. Sri Lanka has won 8, lost 14 against NZ in T20s since 2006.
-
-🟩
-
-The first match of the 3-match Twenty20 match between the Sri Lanka Tourism and New Zealand will be played today (28).
-
-The match will be held at Mount Mahaunganui as a night match. Will begin at 11.45.
-
-The Twenty20 match between the two countries began in 2006 and today is the 26th match.
-
-Sri Lanka has won only eight matches and 14 matches have been defeated before New Zealand.
-
-Sri Lanka has played eight Twenty20 matches in New Zealand and has won only one match.
-
-Meanwhile, the sale of all-related tickets for the competition has ended the New Zealand cricket.
-
-As a result, 500 additional tickets were released, and it was also sold.
-
-The vast majority of the stadium where more than 10,000 sports fans can watch over 10,000 sports fans at once.
-
-The New Zealand cricket further stated that all tickets in Nelson have already been sales at Nelson.
-
-However, Mount Maunganui says that there are only a few tickets in the competition between the two countries on December 30th.
-
-◼️
-
-[Data](articles/6da93760.json)
-
-[Extended Data](ext_articles/6da93760.ext.json)
 
 ---

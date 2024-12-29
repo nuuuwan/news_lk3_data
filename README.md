@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 13:27:24**
+As of **2024-12-29 13:44:10**
 
 ## Newspaper Stats
 
-*Scraped **62,538** Articles*
+*Scraped **62,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,69 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,969
 adaderanalk | 7,639
-tamilmirrorlk | 8,971
+tamilmirrorlk | 8,973
 virakesarilk | 10,375
-adaderanasinhalalk | 10,806
+adaderanasinhalalk | 10,807
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,877 (98.9%) of 62,538 articles have been extended.
+61,879 (98.9%) of 62,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### வாய்ப்பூட்டு நீடிக்குமா?
+### Human Rights Commission (HRC) to join President on Myanmar's refugees
+
+*2024-12-29 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204825) · `si`
+
+Human Rights Commission requests meeting with Myanmar refugees in Sri Lanka. President asked to intervene due to immigration restrictions. Over 40 refugees, mostly children, need assistance. Commission seeks orders from Armed Forces and Defense Minister to address situation.
+
+🟩
+
+The President of the Human Rights Commission has requested the President to meet the status of Myanmar refugees in the country.
+
+Human Rights Commission Chairman Judge L. T. It is reported that Mr. B Degnondeniya has made the request in writing to President Anura Kumara Dissanayake.
+
+Sri Lanka Navy was rescued by 115 refugees in the sea at Myanmar recently.
+
+The staff of the vessel remanded after being produced before court and were remanded.
+
+The Sri Lanka Human Rights Commission officials had gone to the Mullaitivu on the 26th to investigate these refugees.
+
+However, SLAF officials have said that the refugees cannot be permitted without the approval of the Department of Immigration and Emigration.
+
+The Human Rights Commission of Sri Lanka has requested the Department of Immigration and Emigration General, as the Controller of Immigration and Emigration has ordered that no person is allowed to meet those refugees.
+
+...
+
+[Data](articles/6f7783c3.json)
+
+[Extended Data](ext_articles/6f7783c3.ext.json)
+
+---
+
+### Will the opportunity last?
 
 *2024-12-29 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202451) · `ta`
 
-பல்வேறு குரல்கள், வெவ்வேறு நிலைப்பாடுகளை வெளிப்படுத்துகின்ற போது, ஒரு அரசாங்கம் சிக்கல்களை எதிர்நோக்கும்.கடந்த காலங்களில்  இவ்வாறான சிக்கல்கள், பிரச்சினைகள் அரசாங்கங்களுக்குள் ஏற்பட்டிருக்கிறது. ஆளும்கட்சியின் சார்பில் தெரிவு செய்யப்பட்ட 159 பாராளுமன்ற உறுப்பினர்களில் 9 பேர் தவிர ஏனைய 150 பேரும் பாராளுமன்ற அரசியலுக்குப்  புதியவர்கள்.அவர்கள் கண்டபடி வாயை திறக்க முனைந்தால், அது ஆட்சி அதிகாரத்திற்கு ஆபத்தை ஏற்படுத்தும் என்பதை தேசிய மக்கள் சக்தி தலைமை புரிந்து கொண்டிருக்கிறது.
+Here's a summary of 200 characters:
+
+
+
+Government stability threatened when diverse voices express differing opinions. Leaders aware that free speech could undermine ruling party's power.
+
+🟩
+
+When different voices, when they reveal different positions, a government faces problems.. The national people's leadership understands that if they seek to open their mouths as they see, it will endanger the power of the ruling party.
 
 ◼️
 
 [Data](articles/02e05f7e.json)
+
+[Extended Data](ext_articles/02e05f7e.ext.json)
 
 ---
 
@@ -53,6 +93,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ea1a9b02.json)
+
+---
+
+### பாண் சாப்பிட்டவர் திடீர் மரணம்
+
+*2024-12-29 13:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பாண்-சாப்பிட்டவர்-திடீர்-மரணம்/71-349439) · `ta`
+
+யாழ்ப்பாணம் உரும்பிராய் பகுதியில் உணவு சாப்பிட்டுக் கொண்டு இருந்த, நான்கு பிள்ளைகளின் தந்தையான உரும்பிராய் பகுதியைச் சேர்ந்த 62 வயதுடைய காசிப்பிள்ளை குவேந்திரன், திடீர் சுகவீனமடைந்த நிலையில் சனிக்கிழமை(28) உயிரிழந்துள்ளார்.
+
+அவர், பாண் சாப்பிட்டுக்கொண்டு இருந்தவேளை அவருக்கு சுவாசிக்க சிரமம் ஏற்பட்டுள்ளது.  குறித்த நபரை கோப்பாய் வைத்தியசாலைக்கு கொண்டு சென்ற போது, அவர் ஏற்கெனவே, உயிரிழந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டதுடன் உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது. ஆஸ்துமா காரணமாக மரணம் சம்பவித்துள்ளதாக மரண விசாரணையில் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/edfddd66.json)
 
 ---
 
@@ -555,6 +611,24 @@ However, the leadership committee of the coalition will be held on Sunday (29). 
 [Data](articles/1c44960c.json)
 
 [Extended Data](ext_articles/1c44960c.ext.json)
+
+---
+
+### DTNA தலைமைக் குழுக் கூட்டம் இன்று...
+
+*2024-12-29 10:32:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/DTNA-தலைமைக்-குழுக்-கூட்டம்-இன்று/71-349428) · `ta`
+
+ஐனநாயக தமிழ்த் தேசியக் கூட்டணியின் தலைமைக் குழுக் கூட்டம் ஞாயிற்றுக் கிழமை (29) வவுனியாவில் நடைபெற  உள்ளதாக தமிழ்த் தேசியக் கட்சியின் செயலாளர் நாயகம் எம்.கே. சிவாஜிலிங்கம் யாழில் சனிக்கிழமை (28) நடைப்பெற்ற ஊடாக சந்திப்பின் போது தெரிவித்தார்.
+
+மேலும் அவர் தெரிவிக்கையில்: “ஐனநாயக தமிழ்த் தேசியக் கூட்டணியின் முக்கியமான கூட்டமொன்று நாளையதினம் வவுனியாவில் நடாத்துவதற்கு ஏற்பாடுகள் செய்யப்பட்டிருந்தன.
+
+ஆனால் கூட்டசிக் கட்சிகளில் ஒன்றான ரெலோவின் பிரமுகர் ஒருவரின் உறவினர் திடிரென உயிரிழந்துள்ளதால் அந்தக் கூட்டம் தற்போது ஒத்தி வைக்கப்பட்டுள்ளது.
+
+எனினும் கூட்டணியின் தலைமைக் குழுக் ஞாயிற்றுக்கிழமை (29) நடைபெறவுள்ளது. இவ்வாறு நாளைக்கு நடைபெறவுள்ள தலைமைக்குழு கூட்டத்தின் பின்னர் இறுதி முடிவுகள் ஏடுக்கப்படும்” என தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3a338481.json)
 
 ---
 
@@ -2097,85 +2171,5 @@ The Criminal Investigation Division is conducting inquiries into Neville Wanniya
 [Data](articles/c518e7ff.json)
 
 [Extended Data](ext_articles/c518e7ff.ext.json)
-
----
-
-### Special police operation targeting reckless long-distance bus drivers
-
-*2024-12-28 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104545/special-police-operation-targeting-reckless-long-distance-bus-drivers) · `en`
-
-Sri Lanka Police have implemented a special traffic operation during the festive season aimed at reducing traffic accidents across the island.
-
-This operation primarily targets long-distance bus drivers who are violating traffic rules and driving in a reckless manner.
-
-In addition, officers in civilian clothes have been deployed to monitor passenger buses and to travel on long-distance routes, Sri Lanka Police said.
-
-Accordingly, measures have been taken to monitor traffic violations including reckless driving, driving while using mobile phones, overtaking vehicles at pedestrian crossings, and speeding.
-
-Afterward, uniformed officers will stop the buses at different locations, inform the drivers of their violations, and take appropriate legal action, the police added.
-
-◼️
-
-[Data](articles/37e17279.json)
-
-[Extended Data](ext_articles/37e17279.ext.json)
-
----
-
-### CVK Sivagnanam became the leader of the Tamil National Party's interim response
-
-*2024-12-28 15:56:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/தமிழரசுக்-கட்சியின்-இடைக்கால-பதில்-தலைவரானார்-சீ-வி-கே-சிவஞானம்/72-349400) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-CVK Sivagnanam leads Tamil National Party interim response. MA Sumanthiran appointed leader of Tamil party political committee. Party decides unanimously without referendum.
-
-🟩
-
-MA Sumanthiran has announced that the Central Committee of the TNA has decided to act as the leader of the Tamil party's political committee.
-
-Sumanthiran said a document was handed over to the House, despite many arguments in this regard.
-
-They had asked for the benefit of the Mawaisenathiraja Party to ensure his resignation without tarnishing his reputation.
-
-There was also ideas against it. In the end, the party has unanimously made a decision.
-
-MA Sumanthiran said he would continue to act as the leader of the Mavaisenathiraja Party's political committee.
-
-He pointed out that if the party leader resigns, another person should be appointed.
-
-Senior Vice President of the party, CVKK. President's Attorney MA Sumanthiran said that Sivagnanam has been unanimously decided without a referendum.. Remble
-
-◼️
-
-[Data](articles/fc326f00.json)
-
-[Extended Data](ext_articles/fc326f00.ext.json)
-
----
-
-### Arrested by former minister Manusha Nanayakkara
-
-*2024-12-28 15:52:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்-மனுஷ-நாணயக்காரவின்-சகோதரர்-கைது/175-349399) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Minister Manusha Nanayakkara's brother arrested for financial fraud by CID in Bibila.
-
-🟩
-
-Former minister Manusha Nanayakkara's brother has been arrested on charges of financial fraud.
-
-He was arrested by the Criminal Investigation Department in Bibila.. Remble
-
-◼️
-
-[Data](articles/b748ea73.json)
-
-[Extended Data](ext_articles/b748ea73.ext.json)
 
 ---

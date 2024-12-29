@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 20:12:52**
+As of **2024-12-29 20:27:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,899 (98.9%) of 62,597 articles have been extended.
+61,900 (98.9%) of 62,597 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,19 +58,29 @@ The Presidential Secretariat officials are given the 'Clean Sri Lanka' program t
 
 ---
 
-### ශවේන්ද්‍ර සිල්වා ජන 01 දා හමුදා සේවයෙන් සමුගනියි
+### Shavendra Silva returns to military service
 
 *2024-12-29 19:25:15* · [`adalk`](https://www.ada.lk/breaking_news/ශවේන්ද්‍ර-සිල්වා-ජන-01-දා-හමුදා-සේවයෙන්-සමුගනියි/11-413897) · `si`
 
-ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජනරාල් ශවේන්ද්‍ර සිල්වා මහතා එළැඹෙන ජනවාරි 01 දා සිය ධුරයෙන් විශ්‍රාම ගැනීමට නියමිතය.
+Here's a summary in 200 characters:
 
-ශවේන්ද්‍ර සිල්වා මහතා 2022 ජුනි 01දා ආරක්ෂක මාණ්ඩලික ප්‍රධානී ලෙස පත්විය. අවස්ථා කිහිපයකදීම ඔහුගේ ධුර කාලය දිගු කිරීමට කටයුතු කෙරිණි.
 
-විශේෂයෙන්ම යුදමය වකවානුවේදී 58 වැනි සේනාකාංග ප්‍රධානී ලෙස ඔහු පිළිබඳව වැඩි අවධානයක් යොමුවිය. ශවේන්ද්‍ර සිල්වා මහතාගේ හමුදා සේවය වසර 40කට ආසන්න වෙයි.
+
+Shavendra Silva retires as Chief of Defense Staff on Jan 1 after nearly 40 years of military service. He was appointed in 2022 and had his tenure extended multiple times, focusing on software development projects.
+
+🟩
+
+Chief of Defense Staff Shavendra Silva is due to retire on his post on January 1.
+
+Shavendra Silva was appointed Chief of Staff on June 01, 202. Steps were taken to stretch out his tenure in several occasions.
+
+Especially at the military, he focused on 58 Software Head. Shavendra Silva's military service is close to 40 years.
 
 ◼️
 
 [Data](articles/60404776.json)
+
+[Extended Data](ext_articles/60404776.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 00:02:50**
+As of **2024-12-30 00:15:42**
 
 ## Newspaper Stats
 
-*Scraped **62,614** Articles*
+*Scraped **62,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,805
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,979
-adaderanalk | 7,647
+adaderanalk | 7,649
 tamilmirrorlk | 8,984
 virakesarilk | 10,404
 adaderanasinhalalk | 10,818
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,910 (98.9%) of 62,614 articles have been extended.
+61,911 (98.9%) of 62,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -92,6 +92,22 @@ Discussions were held in the Hungamaoya Elephant in the Hungamaoya E Ali Capor, 
 
 ---
 
+### CBSL Circular on ‘Parate’ law suspension faces backlash from MSME Chamber
+
+*2024-12-29 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104571/cbsl-circular-on-parate-law-suspension-faces-backlash-from-msme-chamber) · `en`
+
+The MSME Chamber of Sri Lanka has called for the immediate removal of the circular issued by the Central Bank of Sri Lanka (CBSL), which states that any suspension of ‘Parate’ law execution will not take place beyond 31 March 2025.
+
+Speaking at a press briefing, Media Secretary of the MSME Chamber of Sri Lanka Susantha Liyanaarachchi emphasized the need for the CBSL to issue a new circular pertaining to the recent statement made by the Deputy Minister of Finance.
+
+Commenting further, Liyanaarachchi said: “The deputy minister of finance explained to the country’s banks what to do. His statement said that either the banks have to completely remove the interest or focus on a long-term debt repayment. He also instructed that no action should be taken if the defaulters have filed lawsuits. So, they must know that this must be activated before the 1st of January next year.”
+
+...
+
+[Data](articles/6847863b.json)
+
+---
+
 ### Sri Lanka’s China-backed Hambantota Port aims at container relay business
 
 *2024-12-29 22:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambantota-port-aims-at-container-relay-business-196858/) · `en`
@@ -109,6 +125,24 @@ Wilson Qu, CEO of Hambantota International Port Group (HIPG), said the port was 
 ...
 
 [Data](articles/a3a54e77.json)
+
+[Extended Data](ext_articles/a3a54e77.ext.json)
+
+---
+
+### Colombo Archdiocese calls for probe into activist Namal Kumara
+
+*2024-12-29 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104570/colombo-archdiocese-calls-for-probe-into-activist-namal-kumara) · `en`
+
+The Archdiocese of Colombo requests for a probe into a recent complaint filed by social activist Namal Kumara regarding a voice recording circulating on social media that defames the reputation of the Archbishop of Colombo, His Eminence Malcolm Cardinal Ranjith.
+
+Speaking to the media today (29), the Media Director of the Archdiocese, Rev. Fr. Jude Krishantha said that activist Namal Kumara is an abettor of the Easter Sunday massacres and asserts that Kumara is plotting another scene at the request of a certain third party.
+
+On December 24, activist Namal Kumara filed a complaint with the President’s Secretariat and the Criminal Investigation Department (CID), claiming that an audio tape was being circulated in social media which defames the reputation of Archbishop of Colombo, His Eminence Malcolm Cardinal Ranjith.
+
+...
+
+[Data](articles/289dd24e.json)
 
 ---
 
@@ -2107,51 +2141,5 @@ Customs Media Spokesperson, Director General of Customs, General Customs, Seeval
 ◼️
 
 [Data](articles/d213f544.json)
-
----
-
-### Deputy Minister paid fines for driver
-
-*2024-12-29 10:41:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதிக்காக-அபராதம்-செலுத்தினார்-பிரதி-அமைச்சர்/175-349429) · `ta`
-
-Deputy Minister Prasanna Gunasena fined for speeding. Agreed to release vehicle and pay penalty. Incident occurred on Meerigama-Kurunegala highway. Urged citizens to obey traffic laws.
-
-🟩
-
-Deputy Minister of Transport and Highways Dr. Dr. Prasanna Gunasena has agreed to release the vehicle, but has agreed to pay a fine for the speeding of the vehicle, despite the duty of the duty.
-
-The incident took place when the driver of the deputy minister was caught for the speeding of the vehicle in the Meerigama - Kurunegala area of ​​the highway.
-
-Dr. Gunasena, who was in the vehicle, urged all citizens to adhere to the laws of the country.
-
-◼️
-
-[Data](articles/98fbf994.json)
-
-[Extended Data](ext_articles/98fbf994.ext.json)
-
----
-
-### The DTNA leadership committee meeting today ...
-
-*2024-12-29 10:32:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/DTNA-தலைமைக்-குழுக்-கூட்டம்-இன்று/175-349428) · `ta`
-
-TNA leadership committee meeting postponed due to death. New date set for Sunday in Vavuniya. Final decisions to be made after the meeting.
-
-🟩
-
-Tamil National Party Secretary General MK said that the leadership committee of the Tamil National Alliance (TNA) will be held in Vavuniya on Sunday (29). Sivajilingam said during the meeting on Saturday (28) in Jaffna.
-
-He added: “A major meeting of the National Tamil National Alliance (TNA) has been organized in Vavuniya tomorrow.
-
-But the meeting has now been postponed due to the death of Tidrena, a relative of a Relo, one of the coalition parties.
-
-However, the leadership committee of the coalition will be held on Sunday (29). The final decisions will be held after the meeting of the leadership committee to be held tomorrow. ”
-
-◼️
-
-[Data](articles/1c44960c.json)
-
-[Extended Data](ext_articles/1c44960c.ext.json)
 
 ---

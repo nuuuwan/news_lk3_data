@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 10:15:02**
+As of **2024-12-29 10:27:47**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 10,799
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,867 (99.0%) of 62,500 articles have been extended.
+61,868 (99.0%) of 62,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### "வீடு செல்­வ­தற்கு தயா­ராகி விட்டேன்"  ஜெனரல் சவேந்­திர சில்வா அறி­விப்பு: அர­சாங்கம் அமைதி
+### "I am ready to go home" General Shavendra Silva announcement: Government silence
 
 *2024-12-29 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202424) · `ta`
 
-ஐக்­கிய தேசியக் கட்­சியின் மகளிர் பிரிவு மற்றும் இளையோர் அமைப்பு ஆகி­ய­வற்றை ஒன்­றி­ணைத்து வலு­வான அர­சியல் செயல்­திறன் குழுவை உரு­வாக்­கு­வது குறித்து பல­த­ரப்­பட்ட பேச்­சுகள் இதன் போது முன்­னெ­டுக்­கப்­பட்­டது. புதிய தலை­வர்­களை உரு­வாக்­குதல் மற்றும் அவர்­களின் செயற்­பா­டுகள் குறித்து விசேட அறிக்­கை­களை தயா­ரித்து தலைவர் ரணில் விக்­கி­ர­ம­சிங்­க­விடம் கைய­ளிப்­ப­தற்கும் இதன் போது தீர்­மா­னிக்­கப்­பட்­டது.
+Here's a summary of 200 characters:
+
+
+
+General Shavendra Silva announces readiness to return home amid government silence. Discussions focus on strengthening UNP Women's Division and Youth Affairs Organization. Plans to create special reports on new leadership and present them to President Ranil Wickremesinghe.
+
+🟩
+
+A wide variety of talks were made on the creation of a strong political performance committee to unite the UNP Women's Division and the Youth Affairs Organization.. It was also decided to produce special reports on the creation of new leaders and to hand over special reports to President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/2565c212.json)
+
+[Extended Data](ext_articles/2565c212.ext.json)
 
 ---
 

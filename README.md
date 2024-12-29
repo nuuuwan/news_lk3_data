@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 11:43:49**
+As of **2024-12-29 12:03:06**
 
 ## Newspaper Stats
 
-*Scraped **62,517** Articles*
+*Scraped **62,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,802
 islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,966
+adalk | 5,967
 adaderanalk | 7,636
 tamilmirrorlk | 8,969
 virakesarilk | 10,366
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,872 (99.0%) of 62,517 articles have been extended.
+61,873 (99.0%) of 62,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### ත්‍රීරෝද රථ කොල්ලකන කල්ලියක් අල්ලයි
+
+*2024-12-29 11:21:04* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-කොල්ලකන-කල්ලියක්-අල්ලයි/11-413887) · `si`
+
+කොළඹ සහ ඊට ආසන්න පොලිස් වසම් වල දි සංවිධානාත්මක අයුරින්  තීරෝද රථ සොරාගත් පුද්ගලයන් තිදෙනකු සහ  එම සොරබඩු සන්තකයේ තබා ගත් පුද්ගලයන් දෙදෙනෙකු රුපියල් කෝටියකට ආසන්න වටිනා තීරෝද රථ නවයක් සමඟ අත්අඩංගුවට ගත් බව කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන ඒකකය කියයි. අත්අඩංගුවට පත් වූවන් අතර ගරාජ් හිමියකුද වන බව පොලිසිය කියයි.
+
+කොළඹ බාල දක්ෂ මාවත රථගාලයේදී කොළඹ මධ්‍යම කොට්ඨාස අපරාධ විමර්ශන ඒකකයේ උප පොලිස් පරීක්ෂක තමාල් මහතා ඇතුළු නිලධාරින් විසින් ලද තොරතුරු මත වැටලීමක් සිදුකර අයිස් මත්ද්‍රව්‍ය  සමඟ අත්අඩංගුවට ගත් සැකකරුගෙන් සිදු කරන ලද ප්‍රශ්නකිරීමේදී මෙම සොරකම් වල තොරතුරු අනාවරණය වූ බව පොලිසිය කියයි.
+
+එම සැකකරු විසින් ඉකුත් කාලය පුරා කොළඹ කොටුව. වත්තල ,කිරිබත්ගොඩ හා බොරැල්ල පොලිස් වසම් වල නවතා තිබෙන තීරෝද රථවල සුවිච් යතුරු වලට සම්බන්ධ  වයර් පිටතට ගෙන එකිනෙක සම්බන්ධ එය පණ ගැන්වීමට හැකි පරිදි සකස් කිරීමෙන් අනතුරුව ඔහු සමග පැමිණෙන පුද්ගලයන්ට ලබා දෙන සංඥාවක් අනුව එම පුද්ගලයන්  එම ස්ථානයෙන්    ත්‍රී රෝද රථ සොරාගෙන ගොස් ඇති බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/236e1c3b.json)
+
+---
 
 ### Dies
 
@@ -56,25 +72,31 @@ The body of the deceased woman has been placed in the Dick Oya Primary Hospital 
 
 ---
 
-### සහල් මෙට්‍රික්ටොන් 75,000ක් ආනයනය කර අවසන්
+### 75,000 Metricton has been imported
 
 *2024-12-29 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204820) · `si`
 
-අද (29) පෙරවරුව වනවිට සහල් මෙට්‍රික්ටොන් 75,000ක් මෙරටට ආනයනය කර නිෂ්කාශනය අවසන් කර ඇති බව ශ්‍රී ලංකා රේගුවේ නවතම තොරතුරු පෙන්වා දෙයි.
+Sri Lanka Customs reports 75,000 metric tons imported, including 32,000 tons of rice. Government extended rice import deadline to Jan 10, leading to resumption of clearances on Dec 26. 72,000 tons of rice cleared on same day via expedited process involving customs and quarantine officials.
 
-ඉන් මෙට්‍රික්ටොන් 32,000ක් කැකුළු සහල් වන අතර, මෙට්‍රික්ටොන් 43,000ක් නාඩු සහල් බව වාර්තා වෙයි.
+🟩
 
-සහල් ආනයනය සඳහා ලබා දී තිබූ කාලය එළැඹෙන ජනවාරි මස 10 දින දක්වා දීර්ඝ කිරීමට රජය පසුගිය දා පියවර ගත්තේය.
+The latest inquiries of the Sri Lanka Customs show that 75,000 metric to Sri Lanka has been imported and completed at the time of this morning.
 
-ඒ අනුව සහල් නිෂ්කාශනය කිරීමේ කටයුතු රේගුව විසින් පසුගිය 26 දා සිට නැවත ආරම්භ කරනු ලැබීය.
+It is reported that 32,000 metrics are rice, and 43,000 metricton are reported.
 
-එහිදී පසුගිය 27 වනදා උදෑසන වන විට සහල් මෙට්‍රික් ටොන් 72,000ක් ආනයනය කර රේගුව හරහා නිෂ්කාශනය කර තිබුණි.
+The government recently took steps to extend the amount of time given to rice until January 10.
 
-රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලි අරුක්ගොඩ මහතා පැවසුවේ ආනයනය කරන සහල් ඉක්මනින් නිදහස් කිරීම සඳහා රේගුව ආහාර පරීක්ෂකවරුන් හා ශාක නිරෝධායන නිලධාරීන්ගේ සහයෝගයෙන් විශේෂ ක්‍රමවේදයක් ක්‍රියාත්මක කර ඇති බවය.
+Accordingly, the Customs resumed clearances on the 26th of this month.
+
+At the same day, 72,000 metric tons of rice were imported and cleared through the Customs.
+
+Customs Media Spokesperson, Director General of Customs, General Customs, Seevali Arukgoda said that a special procedure has been implemented with the assistance of customs dietary inspectors and plant quarantine officials to quickly release the imported rice.
 
 ◼️
 
 [Data](articles/8b1cb60c.json)
+
+[Extended Data](ext_articles/8b1cb60c.ext.json)
 
 ---
 
@@ -2199,23 +2221,5 @@ However, these appointments will reportedly be effective only until the next Cen
 ...
 
 [Data](articles/cc97a50e.json)
-
----
-
-### Sri Lanka’s economic recovery must be coupled with India’s growth - Ranil
-
-*2024-12-28 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104541/sri-lankas-economic-recovery-must-be-coupled-with-indias-growth-ranil) · `en`
-
-Combining Sri Lanka’s economic recovery with India’s “sustained and swift economic growth and technological advancement” will “establish” larger markets for the island country and give it a path away from debt-fuelled growth of the last two decades, according to former president Ranil Wickremesinghe.
-
-“The 2024 statement (India-Sri Lanka joint statement issued this month during island President Anura Kumara Dissanayake’s visit) is explicit on moving Sri Lanka away from a debt-driven economic model,” Wickremesinghe said Friday at the 7th Atal Bihari Vajpayee Memorial Lecture organised by India Foundation at India Habitat Centre in New Delhi.
-
-“For two decades, Sri Lanka’s economy has relied heavily on excessive debts, culminating in bankruptcy and an economic meltdown.
-
-Therefore, the strategy in this statement is to enhance Sri Lanka’s economic development by coupling our economic recovery with India’s sustained and swift economic growth and technological advancement,” he added.
-
-...
-
-[Data](articles/ae850b38.json)
 
 ---

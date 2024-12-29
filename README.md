@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 15:12:36**
+As of **2024-12-29 15:27:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,883 (98.9%) of 62,548 articles have been extended.
+61,884 (98.9%) of 62,548 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,27 +80,35 @@ The victims have been identified as 24 -year -old Sanaka Madushanga and 24 -year
 
 ---
 
-### එළවළු මිල ඉහළට
+### Vegetable prices up
 
 *2024-12-29 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204826) · `si`
 
-ප්‍රදේශ කිහිපයක ආර්ථික මධ්‍යස්ථාන ආශ්‍රිතව එළවළු මිල ගණන් පසුගිය සතියට සාපේක්ෂව ඉහළ ගොස් ඇතැයි වාර්තා වේ.
+Vegetable prices surge in economic centers. Beans, carrots, leeks, tomatoes see hikes. Pumpkin price jumps from 160 to 300-400 rupees per kg. Raw chili costs 1400 rupees. Prices may fluctuate based on supply and demand after Christmas.
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ අද (29) බෝංචි කිලෝවක තොග මිල රුපියල් 350ත් 400ත් අතර මිලකට අලෙවි වන අතර අමුමිරිස් කිලෝවක මිල ඉහළ ගොස් ඇත්තේ රුපියල් 800ත් 900ත් අතර මිලකටය.
+🟩
 
-මීට අමතරව කැරට්, ලීක්ස්, තක්කාලි ඇතුළු එළවළු වර්ග කිහිපයකම මිල සාපේක්ෂව ඉහළ ගොස් තිබේ.
+Vegetable prices of the economic centers in several areas have increased compared to last week.
 
-මේ අතර පසුගිය සතියට සාපේක්ෂව අද දිනය වන විට දේශීය වෙළෙඳපොළේ උඩරට සහ පහතරට එළවළු මිල ද සීඝ්‍රයෙන් ඉහළ ගොස් ඇති බව එළවළු සිල්ලර වෙළෙඳුන් පවසයි.
+The bulk of beans at the Dambulla Economic Center is selling a kilo of beans between Rs.
 
-ඔවුන් පවසන්නේ රුපියල් 160කට පැවති වට්ටක්කා කිලෝවක මිල මේ වන විට රුපියල් 300-400ත් අතර මිලක් දක්වා ඉහළ ගොස් ඇති බවය.
+In addition, the price of carrots, leeks, tomatoes and vegetables have increased relatively.
 
-තවද අනෙක් සෑම එළවළු වර්ගයකම කිලෝවක මිල මේ වන විට රුපියල් 500-800ත් අතර සිල්ලර මිලකට අලෙවි වන බවත් ඔවුන් පවසයි.
+Meanwhile, vegetable retailers say that the price of vegetables and lowland has risen rapidly in the local market compared to last week.
 
-අමු මිරිස් කිලෝවක් රුපියල් 1400, නයි මිරිස් කිලෝවක් රුපියල් 1500, තක්කාලි කිලෝවක් රුපියල් 600-800ත් අතර මිලකට අලෙවි වන බවද ඔවුන් පැවසීය.
+They say that the price of a kilogram of pumpkin for Rs. 160 has risen to Rs. 300-400.
 
-...
+Moreover, the price of a kilo of other vegetables is selling Rs.
+
+A kilo of raw chilli costs Rs. 1400 and Rs.
+
+After the end of Christmas every year, vegetable prices can be cheap, and it is possible to be expensive as a vegetable supply of the demand will be supplied in the first few weeks of next year.
+
+◼️
 
 [Data](articles/d3f1336c.json)
+
+[Extended Data](ext_articles/d3f1336c.ext.json)
 
 ---
 

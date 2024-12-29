@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 02:02:00**
+As of **2024-12-30 02:12:35**
 
 ## Newspaper Stats
 
-*Scraped **62,622** Articles*
+*Scraped **62,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 632
 bbccomsinhala | 658
 islandlk | 3,802
 economynextcom | 3,805
-dailyftlk | 4,335
+dailyftlk | 4,336
 dailymirrorlk | 4,733
 adalk | 5,979
 adaderanalk | 7,649
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,918 (98.9%) of 62,622 articles have been extended.
+61,918 (98.9%) of 62,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### DIMO strengthens regional growth with new DIMO CAREHUB in Marawila, Puttalam District
+
+*2024-12-30 02:03:41* · [`dailyftlk`](https://www.ft.lk/business/DIMO-strengthens-regional-growth-with-new-DIMO-CAREHUB-in-Marawila-Puttalam-District/34-771142) · `en`
+
+DIMO, the diversified conglomerate in Sri Lanka, recently opened its latest DIMO CAREHUB located at Chilaw Road, Horagolla, Marawila, in Puttalam District. The company’s dedication to strengthening the North Western Province’s economy and improving community access to top-notch services and solutions is demonstrated by this strategic expansion.
+
+Located in Sri Lanka’s west coast between Negombo and Chilaw, the new DIMO CAREHUB in Marawila is well-poised to play a significant role in the development of the area and support the expansion of the local economy by providing local communities and companies with a wide choice of automotive, agricultural, and household solutions.
+
+...
+
+[Data](articles/0441e2d8.json)
+
+---
 
 ### Elephant death in Ottamavadi
 
@@ -2093,23 +2107,5 @@ The body of the deceased woman has been placed at the Dikoya Base Hospital, and 
 [Data](articles/fe23ec7e.json)
 
 [Extended Data](ext_articles/fe23ec7e.ext.json)
-
----
-
-### பல்லேகல பகுதியில் மகாவலி கங்கையிலிருந்து சடலம் மீட்பு!
-
-*2024-12-29 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/202435) · `ta`
-
-பல்லேகல பொலிஸ் பிரிவுக்குட்பட்ட நத்தரம்பொத பகுதியில் உள்ள மகாவலி கங்கையிலிருந்து நேற்று சனிக்கிழமை (28) சடலமொன்று கண்டுபிடிக்கப்பட்டது.
-
-அப்பகுதியில் சடலம் காணப்படுவதாக பொலிஸாருக்கு வழங்கப்பட்ட தகவலின் அடிப்படையில் பொலிஸார் சடலத்தை மீட்டு, விசாரணை நடத்தி வருகின்றனர்.
-
-இந்த நபர் கடந்த 26ஆம் திகதி முதல் காணாமல் போயுள்ளதாக பொலிஸாருக்கு முறைப்பாடு அளிக்கப்பட்ட நிலையில், நேற்றைய தினம் அவர் சடலமாக மீட்கப்பட்டுள்ளார்.
-
-மேலும், பிரேத பரிசோதனையின் பின்னர் சடலம் தெல்தெனிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன்  பல்லேகல பொலிஸார் மேலதிக விசாரணைகளில் ஈடுபட்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/33cdfc3b.json)
 
 ---

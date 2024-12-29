@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 17:12:28**
+As of **2024-12-29 17:27:20**
 
 ## Newspaper Stats
 
-*Scraped **62,570** Articles*
+*Scraped **62,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,973
 adaderanalk | 7,644
-tamilmirrorlk | 8,979
+tamilmirrorlk | 8,980
 virakesarilk | 10,384
 adaderanasinhalalk | 10,811
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,811
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,890 (98.9%) of 62,570 articles have been extended.
+61,891 (98.9%) of 62,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### 75,000 மெற்றிக் தொன் அரிசி இறக்குமதி
+
+*2024-12-29 17:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-000-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-349453) · `ta`
+
+அனுமதிப்பத்திரம் இன்றி அரிசி இறக்குமதிக்கு அனுமதி வழங்க அரசாங்கம் தீர்மானித்ததைத் தொடர்ந்து, டிசம்பர் 29 ஆம் திகதி வரை 75,000 மெற்றிக் தொன் இறக்குமதி செய்யப்பட்ட அரிசியை இலங்கை சுங்கம் அனுமதித்துள்ளது.
+
+இதில் 32,000 மெற்றிக் தொன் சம்பா அரிசியும் 43,000 மெற்றிக் தொன் நாட்டு அரிசியும் உள்ளடங்குவதாக சுங்க ஊடகப் பேச்சாளரும் மேலதிக பணிப்பாளர் நாயகமுமான சீவலி அருக்கொட தெரிவித்தார்.
+
+உள்ளூர் உற்பத்தியைப் பாதிக்கும் பாதகமான காலநிலையால் ஏற்படும் பற்றாக்குறையை நிவர்த்தி செய்வதற்காக, அனுமதிப் பத்திரமின்றி அரிசி இறக்குமதியை அனுமதிக்கும் முடிவு டிசம்பர் 3, 2024 அன்று அமல்படுத்தப்பட்டது.
+
+◼️
+
+[Data](articles/8e69c0ac.json)
+
+---
 
 ### Gen. Shavendra Silva assumes four decades
 
@@ -56,23 +72,33 @@ Shavendra Silva, an army chief, who had a significant service to the security of
 
 ---
 
-### மாணவியை அச்சுறுத்திய 2 மாணவர்கள் கைது
+### 2 students arrested for threatening student
 
 *2024-12-29 16:28:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவியை-அச்சுறுத்திய-2-மாணவர்கள்-கைது/175-349446) · `ta`
 
-பல காணொளிகளை இணையத்தில் வெளியிடுவதாக கூறி மாணவி ஒருவரை அச்சுறுத்திய இரண்டு மாணவர்கள் சனிக்கிழமை (28) இரவு கைது செய்யப்பட்டதாக காலி நாகொட பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-நாகொட பாடசாலை ஒன்றின் 16 வயதுடைய மாணவர்கள் இருவரே இவ்வாறு  கைது செய்யப்பட்டுள்ளனர்.
 
-இவர்கள் இருவரில் முதலாம் சந்தேக நபரான மாணவன் அதே பாடசாலையில் 8ஆம் ஆண்டில் கல்வி கற்கும் 13 வயதுடைய மாணவியுடன் கடந்த நான்கு மாதங்களுக்கு முன்னர் காதல் உறவில் ஈடுபட்டுள்ளதாக பொலிஸார் மேற்கொண்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
 
-வீடியோ அழைப்புகள் மூலம் இருவரும் பேசிக் கொள்கின்றனர். ஒரு நாள் மாணவி தனது மேல் உடலை அவருக்கு வெளிப்படுத்தினார், சந்தேக நபர் அந்த காட்சியை வீடியோவில் பதிவு செய்தார்.
+"2 students arrested for threatening another student in Galle Nagoda. A 13-year-old boy recorded a 16-year-old girl without consent during a video call. Police investigation led to the arrests."
 
-பின்னர், சந்தேக நபர்  அந்த காட்சியை காட்டி வேறு பலன்களை பெற்றுக் கொள்ள பல்வேறு சந்தர்ப்பங்களில் முயன்றதாக பொலிஸார் தெரிவித்தனர்.
+🟩
+
+Galle Nagoda police said that two students were arrested on Saturday night (28) night (28).
+
+Two students of a 16 -year -old student of a Nagoda school have been arrested.
+
+Investigations conducted by the police have revealed that the first suspect, a 13 -year -old student, who was studying in the same school in the same school, had been in a romantic relationship four months ago.
+
+Both talk with video calls. One day the student revealed his upper body to him, and the suspect recorded the scene in the video.
+
+Later, police said that the suspect had tried on various occasions to showcase the scene.
 
 ◼️
 
 [Data](articles/6fcf2741.json)
+
+[Extended Data](ext_articles/6fcf2741.ext.json)
 
 ---
 
@@ -2019,27 +2045,5 @@ Veteran journalist MR Narayan Swamy’s ‘The Rout of Prabhakaran’ is a maste
 ...
 
 [Data](articles/fb239333.json)
-
----
-
-### 2024-12-28 (Saturday)
-
-### Sri Lankan Ambassador proposes US-style medical school to boost foreign revenue
-
-*2024-12-28 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104552/sri-lankan-ambassador-proposes-us-style-medical-school-to-boost-foreign-revenue) · `en`
-
-Sri Lankan Ambassador for Science, Technology and Innovation, Dr. Bandula Wijay says that Sri Lanka must establish a medical school operating under the U.S. curriculum, open to international student enrolments, as part of an effort to brand Sri Lankan higher education.
-
-Joining Ada Derana’s current affairs program “@Hydepark”, he emphasized that establishing such a medical school in Sri Lanka, similar to the U.S.-based Harvard and Stanford universities, will boost Sri Lanka’s foreign revenue generation while also branding Sri Lanka amongst other nations as a hub of tertiary education.
-
-Dr. Bandula Wijay also called on the government to bring together educated experts from the United States and Sri Lanka, to form a think tank to generate comprehensive plans for navigating Sri Lanka’s way forward towards a developed nation.
-
-Speaking further in this regard, Dr. Wijay emphasized the necessity for Sri Lanka to brand itself as a “Global Centre of Science, Technology and Innovation”.
-
-...
-
-[Data](articles/ea171ef5.json)
-
-[Extended Data](ext_articles/ea171ef5.ext.json)
 
 ---

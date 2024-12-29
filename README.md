@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 08:51:04**
+As of **2024-12-29 09:04:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,861 (99.0%) of 62,488 articles have been extended.
+61,862 (99.0%) of 62,488 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,21 +56,31 @@ Indo -Sri Lankan fishermen issues should be resolved by two countries and foreig
 
 ---
 
-### விமான விபத்து: 28 பேர் பலி
+### Flight accident: 28 killed
 
 *2024-12-29 08:13:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்து-28-பேர்-பலி/50-349421) · `ta`
 
-தென் கொரியாவில் உள்ள முவான் சர்வதேச விமான நிலையத்தில் விமானம் ஒன்று ஓடுபாதையிலிருந்து விலகித் தரையில் மோதி விபத்துக்குள்ளானதில், இதுவரை 28 பேர் உயிரிழந்தனர் என வெளிநாட்டுச் செய்திகள் தெரிவிக்கின்றன.
+Here's a summary of the flight accident in 200 characters:
 
-தாய்லாந்திலிருந்து திரும்பிய ஜெஜு ஏர் நிறுவனத்தின் விமானம், முவான் விமான நிலையத்தில் தரையிறங்கும்போதே இந்த விபத்து இடம்பெற்றுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
 
-இந்த விபத்தில் 28 பேர் சம்பவ இடத்திலேயே உயிரிழந்தனர். மேலும் பலர் பலத்த காயமடைந்துள்ளனர்.
 
-விமானம், ஓடுபாதையில் தரையிறங்கும் போது கட்டுப்பாட்டை இழந்தது தான் விபத்துக்குக் காரணம் என முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது. (a)
+Plane crash at Muan Int'l Airport: 28 killed, many injured. Jeju Air returning from Thailand lost control during landing. Preliminary investigation ongoing.
+
+🟩
+
+28 people have been killed when a plane crashed into a runway at the Muan International Airport in South Korea, according to foreign reports.
+
+The accident occurred when Jeju Air, who returned from Thailand, landed at Muwan Airport.
+
+28 people died on the spot. Many more have been seriously injured.
+
+Preliminary investigations revealed that the plane lost control while landing on the runway. (A)
 
 ◼️
 
 [Data](articles/88e3065d.json)
+
+[Extended Data](ext_articles/88e3065d.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 16:14:23**
+As of **2024-12-29 16:27:09**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,887 (98.9%) of 62,550 articles have been extended.
+61,888 (98.9%) of 62,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### மனுஷ நாணயக்காரவின் சகோதரருக்கு விளக்கமறியல்
+### Explanation for the brother of Manusha Nanayakkara
 
 *2024-12-29 15:57:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனுஷ-நாணயக்காரவின்-சகோதரருக்கு-விளக்கமறியல்/175-349444) · `ta`
 
-நிதி மோசடி தொடர்பில் கைது செய்யப்பட்டிருந்த முன்னாள் அமைச்சர் மனுஷ நாணயக்காரவின் சகோதரர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-அவரை ஞாயிற்றுக்கிழமை (29) கம்பஹா நீதவான் நீதிமன்றில் முன்னிலைப்படுத்திய போது எதிர்வரும் 06 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டுள்ளது.
 
-பின்லாந்து நாட்டில் தொழில்வாய்ப்பை பெற்று தருவதாக வாக்குறுதியளித்துஇ 40 இலட்சம் ரூபா பணம் கேட்டு அதில் 30 இலட்சம் ரூபாவை பெற்றுக்கொண்ட குற்றச்சாட்டில் குற்றப்புலனாய்வு திணைக்களத்தினால் சந்தேகநபர்  கைது செய்யப்பட்டிருந்தார்.
+
+Manusha Nanayakkara's brother arrested for financial fraud. CID detained him. Ordered to remain in remand until June 6th. Charged with receiving unspecified amount. Case heard in Gampaha Magistrate's Court on Sunday.
+
+🟩
+
+Former minister Manusha Nanayakkara's brother, who was arrested in connection with financial fraud, has been detained.
+
+When he was produced before the Gampaha Magistrate's Court on Sunday (29), he was ordered to be kept in remand until the 06th of this month.
+
+The suspect was arrested by the Criminal Investigation Department (CID) on charges of receiving Rs.
 
 ◼️
 
 [Data](articles/b989a3e5.json)
+
+[Extended Data](ext_articles/b989a3e5.ext.json)
 
 ---
 

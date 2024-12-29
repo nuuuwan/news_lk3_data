@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 04:01:27**
+As of **2024-12-30 04:13:41**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,924 (98.9%) of 62,636 articles have been extended.
+61,925 (98.9%) of 62,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### 16 அடி நீளமான முதலையொன்று பொதுமக்களால் உயிருடன் பிடிக்கப்பட்டது
+### A 16 -foot -long one was caught alive by the public
 
 *2024-12-30 03:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202505) · `ta`
 
-மட்டக்களப்பு புளியந்தீவு வாவிக்கரை வீதி இரண்டில் சுமார் 16 அடி நீளமான முதலையொன்று ஞாயிற்றுகிழமை (29) பொதுமக்களால் உயிருடன் பிடிக்கப்பட்டது.
+Here's a summary of the text in approximately 200 characters:
 
-கடந்த சில தினங்களாக மட்டக்களப்பு பிரதேச ஆற்றில் தென்பட்ட இந்த முதலை ஞாயிற்றுகிழமை (29) மாலை கரைக்கு வந்தது.  இதன்போதே, பொதுமக்கள் முதலையைப் பிடித்தனர்.
+
+
+A 16-foot-long crocodile was caught alive by the public on Sunday. It had been spotted in the Batticaloa River for several days before coming ashore. The public intervened, capturing the massive reptile.
+
+🟩
+
+A 16 -foot -long first, 16 feet long first, was caught by the public on Sunday (29).
+
+The crocodile, which has been seen in the Batticaloa River for the past few days, came to shore on Sunday evening.Meanwhile, the public took the first.
 
 ◼️
 
 [Data](articles/1a1f47ab.json)
+
+[Extended Data](ext_articles/1a1f47ab.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 18:35:47**
+As of **2024-12-29 18:46:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,894 (98.9%) of 62,588 articles have been extended.
+61,895 (98.9%) of 62,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### கிண்ணியாவில் சட்டவிரோதமாக மணல் ஏற்றிச் சென்றவர் கைது
+### Arrested for illegally carrying sand in Kinniya
 
 *2024-12-29 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202484) · `ta`
 
-கிண்ணியா பொலிஸ் பிரிவுக்குட்பட்ட ஈச்சந்தீவு பகுதியில் சட்டவிரோதமாக டிப்பர் ரக வாகனத்தில் மணல் ஏற்றிச் சென்ற ஒருவர் நேற்று சனிக்கிழமை (28) திருகோணமலை பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+Here's a summary of 200 characters:
 
-கைது செய்யப்பட்ட சந்தேக நபர் கிண்ணியா பிரதேசத்தைச் சேர்ந்த 50 வயதுடையவர் ஆவார்.
 
-சந்தேக நபரிடமிருந்து 03 மணல் கியூப்கள் மற்றும் டிப்பர் ரக வாகனம் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+Arrest made in Kinniya: 50-year-old caught transporting illegal sand in a tipper truck. Police seized 3 sand cubes and the vehicle. Incident occurred on Saturday in Echantivu area.
+
+🟩
+
+A person who illegally transported sand in a tipper vehicle in Echantivu area of ​​the Kinniya Police Division has been arrested by the Special Task Force Officers of the Trincomalee Police on Saturday (28).
+
+The arrested suspect is a 50 -year -old from Kinniya.
+
+03 sand cubes and tipper vehicle from the suspect have been seized by the police.
 
 ◼️
 
 [Data](articles/b2c10ce8.json)
+
+[Extended Data](ext_articles/b2c10ce8.ext.json)
 
 ---
 

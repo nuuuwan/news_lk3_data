@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 20:27:44**
+As of **2024-12-29 20:43:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,900 (98.9%) of 62,597 articles have been extended.
+61,901 (98.9%) of 62,597 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,19 +108,25 @@ General Silva, who was appointed as CDS on June 1, 2022, has served the nation f
 
 ---
 
-### தென்கொரிய விமான விபத்துக்கு இலங்கை இரங்கல்
+### Sri Lankan condolences for South Korean plane crash
 
 *2024-12-29 19:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்கொரிய-விமான-விபத்துக்கு-இலங்கை-இரங்கல்/175-349458) · `ta`
 
-தென்கொரியாவில் உள்ள முவான் விமான நிலையத்தில் விமானம் தரையிறங்கும் போது ஏற்பட்ட விபத்திற்கு இலங்கை வெளிவிவகார அமைச்சு இரங்கல் தெரிவித்துள்ளது.
+Sri Lanka mourns South Korea plane crash: 179 dead, 2 survivors. Foreign Ministry offers condolences to bereaved families and wishes injured speedy recovery.
 
-இந்த துயர சம்பவத்தில் உயிரிழந்தவர்களின் குடும்பத்தினருக்கு இரங்கல் தெரிவித்துள்ள அமைச்சகம், காயமடைந்தவர்கள் விரைவில் குணமடைய பிரார்த்திப்பதாகவும் தெரிவித்துள்ளது.
+🟩
 
-குறித்த விபத்தில் 2 பேர் மட்டுமே உயிருடன் மீட்கப்பட்ட சூழலில், அதில் பயணம் செய்த 179 பேரும் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது. R
+The Sri Lankan Foreign Ministry has condoled the crash at the Muan Airport in South Korea.
+
+The Ministry has expressed his condolences to the families of the victims of the tragedy and said that the injured are praying for the victims to soon heal.
+
+Only 2 people were rescued in the accident, and 179 people were killed in the traveler.. Remble
 
 ◼️
 
 [Data](articles/a6dc89b1.json)
+
+[Extended Data](ext_articles/a6dc89b1.ext.json)
 
 ---
 

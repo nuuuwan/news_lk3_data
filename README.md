@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 06:49:11**
+As of **2024-12-29 07:32:02**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 10,794
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,857 (99.0%) of 62,486 articles have been extended.
+61,858 (99.0%) of 62,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### ලොරි රථයකට යටවී කුඩා දැරියක් මරුට
+### Youth girl falls under a lorry
 
 *2024-12-29 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204812) · `si`
 
-ලොරි රථයක පිටුපස රෝදයට යටවීමෙන් අවුරුදු 01යි මාස 10ක කුඩා දැරියක් ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary in 200 characters:
 
-ඊයේ (29) රාත්‍රී කාලයේදී එම අනතුර සිදුව තිබුණේ හසලක පොලිස් වසමේ ඇටබගොල්ල ප්‍රදේශයේදීය.
 
-මව හා පියා මෙම දැරියද සමඟ තම ඥාති නිවසකට ගොස් සිටියදී, නිවසෙහි තිබූ ලොරි රථයක් පණ ගන්වා ඉදිරියට ධාවනය කිරීමේදී මෙම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
 
-අදාළ අනතුර හේතුවෙන් බරපතළ තුවාල ලැබූ කුඩා දැරිය මහියංගණය රෝහලට ඇතුලත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබුණි.
+Small girl killed by lorry in Attaka. Parents were taking her to visit cousin. Driver arrested. Girl rushed to Mahiyanganaya Hospital. Incident occurred last night.
 
-අනතුර සිදුකළ ලොරි රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+🟩
+
+A small girl was killed and 10 months after the back of a lorry.
+
+The accident occurred last night in the Attaka Police Division.
+
+The accident had occurred when the mother and father went to their cousin with this girl, police said.
+
+The young girl who was seriously injured had been admitted to the Mahiyanganaya Hospital while he was admitted to the Mahiyanganaya Hospital.
+
+The driver of the lorry has been arrested, police said.
 
 ◼️
 
 [Data](articles/ece6f9c5.json)
+
+[Extended Data](ext_articles/ece6f9c5.ext.json)
 
 ---
 

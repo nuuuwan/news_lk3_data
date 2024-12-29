@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 00:15:42**
+As of **2024-12-30 00:27:13**
 
 ## Newspaper Stats
 
-*Scraped **62,616** Articles*
+*Scraped **62,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,55 @@ colombotelegraphcom | 632
 bbccomsinhala | 658
 islandlk | 3,802
 economynextcom | 3,805
-dailyftlk | 4,330
+dailyftlk | 4,334
 dailymirrorlk | 4,733
 adalk | 5,979
 adaderanalk | 7,649
 tamilmirrorlk | 8,984
-virakesarilk | 10,404
+virakesarilk | 10,405
 adaderanasinhalalk | 10,818
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,911 (98.9%) of 62,616 articles have been extended.
+61,912 (98.9%) of 62,621 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-12-30 (Monday)
+
+### ஓட்டமாவடி - காவத்தமுனை வயலில் யானை உயிரிழப்பு!
+
+*2024-12-30 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202501) · `ta`
+
+கோறளைப்பற்று மேற்கு ஓட்டமாவடி பிரதேச சபை பிரிவுக்குட்பட்ட காவத்தமுனை - வட்ட எனும் வயல் பகுதியில் யானை ஒன்று ஞாயிற்றுக்கிழமை (29) மாலை உயிரிழந்துள்ளது.
+
+இந்த யானை ஞாயிற்றுக்கிழமை (29) காலை எழும்ப முடியாத நிலையில் வயலில் விழுந்து கிடந்ததாக விவசாயிகள் தெரிவித்தனர்.
+
+இவ்வாறு எழும்ப முடியாமல் விழுந்து கிடந்த யானைக்கு சிகிச்சையளிக்க வனஜீவராசிகள் திணைக்களத்திற்கு அறிவிக்கப்பட்டுள்ளதை தொடர்ந்து அதிகாரிகள் பார்வையிட்டு சிகிச்சையளிக்க நடவடிக்கைகளை மேற்கொண்டு வந்த நிலையில் யானை உயிரிழந்துள்ளது.
+
+◼️
+
+[Data](articles/8738cf89.json)
+
+---
+
 ### 2024-12-29 (Sunday)
+
+### NPP needs to get serious about industrialisation to avoid another crisis
+
+*2024-12-29 23:06:12* · [`dailyftlk`](https://www.ft.lk/columns/NPP-needs-to-get-serious-about-industrialisation-to-avoid-another-crisis/4-771128) · `en`
+
+Speaking in Parliament on 18 December, President Anura Kumara Dissanayake pledged that under the leadership of his party, “we will never allow a situation like 2022-23 to reoccur in our country”. If AKD and the National People’s Power (NPP) intend to keep this promise, they will have to get a lot more serious about industrialising an economy dependant on services and remittances.
+
+It is regrettable that the President’s speech, while announcing welcome relief for the poor through tax cuts, allowances and subsidies, paid scant attention to increasing investment in the real economy. This is a deadly trap that centre-left governments often fall into. Naturally, the wretched conditions following economic collapse require immediate relief measures. However, long term increases in consumption can only be achieved through investment in the real economy.
+
+...
+
+[Data](articles/c7094f2f.json)
+
+---
 
 ### Electricity in Puttalam
 
@@ -55,6 +87,34 @@ However, as one of them was lifted, he survived. However, the other three died.
 [Data](articles/36b1d3bb.json)
 
 [Extended Data](ext_articles/36b1d3bb.ext.json)
+
+---
+
+### Country moving over to renewable energy
+
+*2024-12-29 22:34:04* · [`dailyftlk`](https://www.ft.lk/columns/Country-moving-over-to-renewable-energy/4-771125) · `en`
+
+The Government needs to submit a plan to encourage installation of solar power by individual homes and the industry, with reduced interest loans from commercial banks
+
+The country has almost exhausted its cheapest power hydro-electricity. Only possibility is major movement towards solar power, especially by small and medium scale industries and house owners. Most convenient new solar users would be factories and offices, who normally work during day-light hours. Also, most schools have fans in the classrooms. They could install solar panels on the roofs, eliminating electricity bills. The parents who installed the fans in classrooms could also install solar panels
+
+...
+
+[Data](articles/03940573.json)
+
+---
+
+### Good governance a pre-requisite for economic development:  Mr. President, you are on right path
+
+*2024-12-29 22:24:57* · [`dailyftlk`](https://www.ft.lk/columns/Good-governance-a-pre-requisite-for-economic-development-Mr-President-you-are-on-right-path/4-771124) · `en`
+
+AKD and the NPP Government must stay objective and must resist undue interference of these third parties in making decisions which are in the best interest of the country
+
+There is a continuation of policy at least in the short term. There is no immediate disruption. Trying to do too much in too short a time invariably leads to disaster. The NPP Government is the first in recent times to continue with the economic policies of the previous regime. All this, in my eyes, points to a desire on the Government’s part of putting the country first rather than blindly following an ideology. My advice to the Government is to focus on governance reform. The economy will take care of itself in the short term
+
+...
+
+[Data](articles/7da0858f.json)
 
 ---
 
@@ -106,6 +166,8 @@ Commenting further, Liyanaarachchi said: “The deputy minister of finance expla
 
 [Data](articles/6847863b.json)
 
+[Extended Data](ext_articles/6847863b.ext.json)
+
 ---
 
 ### Sri Lanka’s China-backed Hambantota Port aims at container relay business
@@ -127,6 +189,22 @@ Wilson Qu, CEO of Hambantota International Port Group (HIPG), said the port was 
 [Data](articles/a3a54e77.json)
 
 [Extended Data](ext_articles/a3a54e77.ext.json)
+
+---
+
+### Sri Lanka’s green bonds must demonstrate climate impact measurement: MTI
+
+*2024-12-29 22:00:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-green-bonds-must-demonstrate-climate-impact-measurement-MTI/14-771122) · `en`
+
+MTI Consulting CEO Hilmy Cader (left) and MTI Senior Business Analyst Samiddhi Wanigasekara
+
+Sri Lanka is witnessing a significant shift towards sustainable finance with Colombo Stock Exchange (CSE) introducing the listing and trading of green bonds in 2023.
+
+DFCC Bank led the way among financial institutions to issue the first green bond in the country, aimed at funding renewable energy projects particularly in the solar energy sector. This has been followed by Alliance Finance announcing the plans to issue redeemable green bonds to raise Rs. 1 billion.
+
+...
+
+[Data](articles/3d3b60b8.json)
 
 ---
 
@@ -2021,125 +2099,5 @@ The body of the deceased woman has been placed at the Dikoya Base Hospital, and 
 ...
 
 [Data](articles/20542fe7.json)
-
----
-
-### Sri Lanka Customs clears 75,000 MT of imported rice
-
-*2024-12-29 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104559/sri-lanka-customs-clears-75000-mt-of-imported-rice) · `en`
-
-Sri Lanka Customs announced that 75,000 metric tons of imported rice have been and cleared for distribution as of this morning (29).
-
-It was reported that the imported quantity includes 32,000 metric tons of raw rice and 43,000 metric tons of Nadu rice.
-
-This development follows the government’s decision to extend the rice importation period until January 10, 2025. As part of this initiative, rice clearance activities resumed on December 26, after which 72,000 metric tons of rice had already been processed by December 27.
-
-Sri Lanka Customs Media Spokesperson and Additional Director General of Customs, Seevali Arukgoda, stated that a special system has been implemented to expedite the release of imported rice.
-
-This process involves close collaboration between food inspectors and plant quarantine officers to ensure the swift and efficient clearance of shipments, he noted.
-
-◼️
-
-[Data](articles/f4943f78.json)
-
----
-
-### Gang arrested for three-wheeler robberies
-
-*2024-12-29 11:21:04* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-කොල්ලකන-කල්ලියක්-අල්ලයි/11-413887) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo police arrest gang for three-wheeler robberies. Suspects linked to crimes in Wattala, Kiribathgoda, Borella, Orugodawatta. Nine arrests made; ages 31-54. Further investigation ongoing at Colombo Fort Police Station.
-
-🟩
-
-Colombo Central Central Division Criminal Investigation Unit. Police say a garage is also a garage among the arrested persons.
-
-The suspects revealed that theft was revealed in the Colombo Central Division Criminal Investigation Unit of the Colombo Central Division Criminal Investigation Unit.
-
-The suspect has been labored by the Colombo Fort. According to the signatures that connected to the Superintenders who are parked in Wattala, Kiribathgoda and Borella Police Divisions.Has been detected.
-
-Accordingly, the suspects were arrested and arrested in the Orugodawatta area was arrested in the Orugodawatta area and other person arrested in the Orugodawatta area.Police say nine were given to him.
-
-According to the police, the proceedings were taken to the police in the police in the palace in Maligawatta Grandpass and Wellampitiya Police Divisions.
-
-...
-
-[Data](articles/236e1c3b.json)
-
-[Extended Data](ext_articles/236e1c3b.ext.json)
-
----
-
-### Dies
-
-*2024-12-29 11:10:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிவனொளிபாத-மலை-சென்ற-பெண்-உயிரிழப்பு/76-349434) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Woman dies on Sivanolipada hill, body at Dik Oya Primary Hospital awaiting autopsy before handover to relatives.
-
-🟩
-
-A woman who went to the Sivanolipada hill died on Sunday (29) after she was admitted to the Dik Oya Primary Hospital, a woman who went to the Sivanolipada hill, said good police said.
-
-The body of the deceased woman has been placed in the Dick Oya Primary Hospital and the body will be handed over to relatives after the autopsy, a police officer said.
-
-◼️
-
-[Data](articles/941fb2e6.json)
-
-[Extended Data](ext_articles/941fb2e6.ext.json)
-
----
-
-### 75,000 Metricton has been imported
-
-*2024-12-29 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204820) · `si`
-
-Sri Lanka Customs reports 75,000 metric tons imported, including 32,000 tons of rice. Government extended rice import deadline to Jan 10, leading to resumption of clearances on Dec 26. 72,000 tons of rice cleared on same day via expedited process involving customs and quarantine officials.
-
-🟩
-
-The latest inquiries of the Sri Lanka Customs show that 75,000 metric to Sri Lanka has been imported and completed at the time of this morning.
-
-It is reported that 32,000 metrics are rice, and 43,000 metricton are reported.
-
-The government recently took steps to extend the amount of time given to rice until January 10.
-
-Accordingly, the Customs resumed clearances on the 26th of this month.
-
-At the same day, 72,000 metric tons of rice were imported and cleared through the Customs.
-
-Customs Media Spokesperson, Director General of Customs, General Customs, Seevali Arukgoda said that a special procedure has been implemented with the assistance of customs dietary inspectors and plant quarantine officials to quickly release the imported rice.
-
-◼️
-
-[Data](articles/8b1cb60c.json)
-
-[Extended Data](ext_articles/8b1cb60c.ext.json)
-
----
-
-### சலோச்சன கமகே உள்ளிட்ட 6 பேர் விளக்கமறியல்
-
-*2024-12-29 10:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலோச்சன-கமகே-உள்ளிட்ட-6-பேர்-விளக்கமறியல்/175-349432) · `ta`
-
-ஊழல் குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்ட முன்னாள் மாகாண சபை உறுப்பினர் சலோச்சன கமகே உள்ளிட்ட 6 பேர் அடுத்த மாதம் 6ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-சந்தேகநபர்கள் கொழும்பு பிரதம நீதவான் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போது விளக்கமறியலில் வைக்க உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-சந்தேகநபர்கள் 90 இலட்சம் ரூபா இலஞ்சம் பெற்றுக் கொண்ட போது இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினரால் கைது செய்யப்பட்டனர்.
-
-டொரிங்டன் அவினியூ பகுதியில் அமைந்துள்ள காணியொன்றை நகர அபிவிருத்தி அதிகார சபையிடம் ஒப்படைத்த பின்னர் அந்த காணிக்கான நட்டஈடு வழங்குவதற்கு தேவையான நடவடிக்கைகளை முன்னெடுப்பதற்கு பதிலாக சந்தேகநபர்களினால் இலஞ்சம் பெறப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/d213f544.json)
 
 ---

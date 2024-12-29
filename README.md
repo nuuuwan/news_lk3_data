@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 21:01:45**
+As of **2024-12-29 21:12:41**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,814
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,902 (98.9%) of 62,598 articles have been extended.
+61,903 (98.9%) of 62,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### අත්අඩංගුවට ගත්  මනූෂගේ සොහොයුරා රිමාන්ඩ්
+### Manushe's brother remanded
 
 *2024-12-29 19:34:04* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්--මනූෂගේ-සොහොයුරා-රිමාන්ඩ්/11-413899) · `si`
 
-අත්අඩංගුවට ගත්  හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ සොහොයුරා ජනවාරි 06 දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට ගම්පහ මහෙස්ත්‍රාත් අධිකරණය අද (29දා ) නියෝග කෙරිණි.
+Here's a summary of the text in approximately 200 characters:
 
-ෆින්ලන්තයේ රැකියා ලබාදෙන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කිරීම සම්බන්ධයෙන් මෙම පුද්ගලයා ඊයේ (28දා) අත්අඩංගුවට ගනු ලැබිණි.
+
+
+Former Minister Manusha Nanayakkara's brother was remanded until Jan 6th after being arrested for cheating. The incident occurred at the Gampaha Magistrate's Court.
+
+🟩
+
+The brother of the Gampaha Magistrate's Court (UNP) was ordered to be remanded until January 6, former Minister Manusha Nanayakkara.
+
+The suspect was arrested yesterday on the cheating of Rs.
 
 ◼️
 
 [Data](articles/cc751196.json)
+
+[Extended Data](ext_articles/cc751196.ext.json)
 
 ---
 
@@ -2048,7 +2058,7 @@ Sri Lanka has higher rice prices than the rest of the world due to import taxes 
 
 Sri Lanka usually cuts import duties and allow imports especially in January to keep rice prices down.
 
-However, this year, the import tax was not removed, though imports were allowed, keeping prices high. Meanwhile authorities also accused millers, who are protected with the import duties, of hoarding rice.
+However, this year, the tax was not removed, though imports were allowed, keeping prices high. Meanwhile authorities also accused millers, who are protected with the import duties, of hoarding rice.
 
 On top of that price controls were imposed on many varieties of rice.
 

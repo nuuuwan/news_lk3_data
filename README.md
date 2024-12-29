@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 11:01:40**
+As of **2024-12-29 11:13:42**
 
 ## Newspaper Stats
 
-*Scraped **62,508** Articles*
+*Scraped **62,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,80 @@ islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,965
-adaderanalk | 7,633
-tamilmirrorlk | 8,967
+adaderanalk | 7,636
+tamilmirrorlk | 8,968
 virakesarilk | 10,366
-adaderanasinhalalk | 10,801
+adaderanasinhalalk | 10,802
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,870 (99.0%) of 62,508 articles have been extended.
+61,871 (99.0%) of 62,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### சாரதிக்காக அபராதம் செலுத்தினார் பிரதி அமைச்சர்
+### සහල් මෙට්‍රික්ටොන් 75,000ක් ආනයනය කර අවසන්
+
+*2024-12-29 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204820) · `si`
+
+අද (29) පෙරවරුව වනවිට සහල් මෙට්‍රික්ටොන් 75,000ක් මෙරටට ආනයනය කර නිෂ්කාශනය අවසන් කර ඇති බව ශ්‍රී ලංකා රේගුවේ නවතම තොරතුරු පෙන්වා දෙයි.
+
+ඉන් මෙට්‍රික්ටොන් 32,000ක් කැකුළු සහල් වන අතර, මෙට්‍රික්ටොන් 43,000ක් නාඩු සහල් බව වාර්තා වෙයි.
+
+සහල් ආනයනය සඳහා ලබා දී තිබූ කාලය එළැඹෙන ජනවාරි මස 10 දින දක්වා දීර්ඝ කිරීමට රජය පසුගිය දා පියවර ගත්තේය.
+
+ඒ අනුව සහල් නිෂ්කාශනය කිරීමේ කටයුතු රේගුව විසින් පසුගිය 26 දා සිට නැවත ආරම්භ කරනු ලැබීය.
+
+එහිදී පසුගිය 27 වනදා උදෑසන වන විට සහල් මෙට්‍රික් ටොන් 72,000ක් ආනයනය කර රේගුව හරහා නිෂ්කාශනය කර තිබුණි.
+
+රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලි අරුක්ගොඩ මහතා පැවසුවේ ආනයනය කරන සහල් ඉක්මනින් නිදහස් කිරීම සඳහා රේගුව ආහාර පරීක්ෂකවරුන් හා ශාක නිරෝධායන නිලධාරීන්ගේ සහයෝගයෙන් විශේෂ ක්‍රමවේදයක් ක්‍රියාත්මක කර ඇති බවය.
+
+◼️
+
+[Data](articles/8b1cb60c.json)
+
+---
+
+### சலோச்சன கமகே உள்ளிட்ட 6 பேர் விளக்கமறியல்
+
+*2024-12-29 10:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சலோச்சன-கமகே-உள்ளிட்ட-6-பேர்-விளக்கமறியல்/175-349432) · `ta`
+
+ஊழல் குற்றச்சாட்டின் கீழ் கைது செய்யப்பட்ட முன்னாள் மாகாண சபை உறுப்பினர் சலோச்சன கமகே உள்ளிட்ட 6 பேர் அடுத்த மாதம் 6ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+சந்தேகநபர்கள் கொழும்பு பிரதம நீதவான் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போது விளக்கமறியலில் வைக்க உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+சந்தேகநபர்கள் 90 இலட்சம் ரூபா இலஞ்சம் பெற்றுக் கொண்ட போது இலஞ்ச ஊழல் விசாரணை ஆணைக்குழுவினரால் கைது செய்யப்பட்டனர்.
+
+டொரிங்டன் அவினியூ பகுதியில் அமைந்துள்ள காணியொன்றை நகர அபிவிருத்தி அதிகார சபையிடம் ஒப்படைத்த பின்னர் அந்த காணிக்கான நட்டஈடு வழங்குவதற்கு தேவையான நடவடிக்கைகளை முன்னெடுப்பதற்கு பதிலாக சந்தேகநபர்களினால் இலஞ்சம் பெறப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d213f544.json)
+
+---
+
+### Deputy Minister paid fines for driver
 
 *2024-12-29 10:41:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதிக்காக-அபராதம்-செலுத்தினார்-பிரதி-அமைச்சர்/175-349429) · `ta`
 
-போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் பிரதி அமைச்சர் கலாநிதி பிரசன்ன குணசேன, கடமையில் இருந்த அதிகாரிகள் வாகனத்தை விடுவிக்க முன்வந்த போதிலும், அதிவேகமாக வாகனத்தை செலுத்தியதற்காக அபராதம் செலுத்த ஒப்புக்கொண்டதாக தகவலறிந்த வட்டாரம் தெரிவித்துள்ளது.
+Deputy Minister Prasanna Gunasena fined for speeding. Agreed to release vehicle and pay penalty. Incident occurred on Meerigama-Kurunegala highway. Urged citizens to obey traffic laws.
 
-அதிவேக நெடுஞ்சாலையின் மீரிகம - குருநாகல் பகுதியில் பிரதி அமைச்சரின் சாரதி அதிவேகமாக வாகனத்தை செலுத்தியமைக்காக பிடிபட்ட போதே இந்த சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-அப்போது வாகனத்தில் இருந்த கலாநிதி குணசேன, அனைத்து குடிமக்களும் நாட்டின் சட்டங்களை கடைபிடிக்க வேண்டும் என்று கூறி, அபராதத்தை செலுத்த வலியுறுத்தினார்.
+Deputy Minister of Transport and Highways Dr. Dr. Prasanna Gunasena has agreed to release the vehicle, but has agreed to pay a fine for the speeding of the vehicle, despite the duty of the duty.
+
+The incident took place when the driver of the deputy minister was caught for the speeding of the vehicle in the Meerigama - Kurunegala area of ​​the highway.
+
+Dr. Gunasena, who was in the vehicle, urged all citizens to adhere to the laws of the country.
 
 ◼️
 
 [Data](articles/98fbf994.json)
+
+[Extended Data](ext_articles/98fbf994.ext.json)
 
 ---
 
@@ -72,6 +118,24 @@ However, the leadership committee of the coalition will be held on Sunday (29). 
 
 ---
 
+### South African woman arrested with cocaine worth Rs. 142M at BIA
+
+*2024-12-29 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104558/south-african-woman-arrested-with-cocaine-worth-rs-142m-at-bia) · `en`
+
+The officers of the Narcotics Control Unit of the Bandaranaike International Airport (BIA) in Katunayake have arrested a foreign national woman over an attempt to smuggle a stock of cocaine into the country.
+
+The woman, who was holding a South African passport, has arrived at the BIA at around 1.50 a.m. today (29) onboard a Qatar Airways flight from Ghana.
+
+The officers have apprehended 4,068 grams of cocaine which was in the possession of the 41-year-old woman.
+
+The spokesman of Sri Lanka Customs said that the street value of the haul of drugs is estimated to be around Rs. 142 million.
+
+◼️
+
+[Data](articles/d0c2a123.json)
+
+---
+
 ### முச்சக்கர வண்டித் திருட்டு;ஐவர் கைது
 
 *2024-12-29 10:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டித்-திருட்டு-ஐவர்-கைது/175-349427) · `ta`
@@ -85,6 +149,32 @@ However, the leadership committee of the coalition will be held on Sunday (29). 
 ...
 
 [Data](articles/3136648b.json)
+
+---
+
+### Train delays linked to engine shortage and technical faults, says Railway Dept
+
+*2024-12-29 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104557/train-delays-linked-to-engine-shortage-and-technical-faults-says-railway-dept) · `en`
+
+The Department of Railways states that the main reason for train delays and cancellations is the shortage of train engines.
+
+A spokesperson of the Railway Department explained that the department currently has only about 50 engines suitable for operation.
+
+Around 70 engines are needed for the train operations without any issues.
+
+Furthermore, it is said that a minimum of 60 train engines are required to operate trains without cancellations or delays.
+
+However, the department stated that many of the 50 train engines operational are also experiencing various technical faults.
+
+This is due to the fact that a train engine usually has a certain amount of weight to carry, but it is carrying more than its capacity, according to the department.
+
+There has also been a shortage of spare parts for repairing train engines in recent times.
+
+However, the spokesperson stated that the Department of Railways is currently receiving the spare parts required to repair the engines.
+
+...
+
+[Data](articles/02b1efc8.json)
 
 ---
 
@@ -169,6 +259,26 @@ However, the leadership committee of the coalition will be held on Sunday (29). 
 ◼️
 
 [Data](articles/0fb9a927.json)
+
+---
+
+### Death toll climbs to 64 in fiery South Korea airliner crash
+
+*2024-12-29 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104556/death-toll-climbs-to-64-in-fiery-south-korea-airliner-crash) · `en`
+
+At least 62 people were killed when an airliner veered off the runway and erupted into a fireball as it slammed into a wall at South Korea’s Muan International Airport on Sunday, the national fire agency said.
+
+The crash occurred as Jeju Air flight 7C2216, carrying 175 passengers and six crew on a flight from the Thai capital Bangkok, was landing shortly after 9 a.m. (0000 GMT) at the airport in the south of the country, South Korea’s transport ministry said.
+
+At least 58 bodies have been recovered but that number is not final, another fire official told Reuters.
+
+Two people were found alive and rescue operations were under way, a Muan fire official said. Yonhap news agency said three people had been rescued.
+
+Authorities were working to rescue people in the tail section, an airport official told Reuters shortly after the crash.
+
+...
+
+[Data](articles/12b24ead.json)
 
 ---
 
@@ -2099,127 +2209,5 @@ The suspects have been sent to the Urban Development Authority after the delegat
 [Data](articles/bf3e1274.json)
 
 [Extended Data](ext_articles/bf3e1274.ext.json)
-
----
-
-### Two including ex-provincial councillor remanded over Rs. 9 mln bribe
-
-*2024-12-28 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104540/two-including-ex-provincial-councillor-remanded-over-rs-9-mln-bribe) · `en`
-
-The Hulftsdorp Additional Magistrate has ordered the two individuals including former member of Western Provincial Council Sulochana Gamage, who were arrested while accepting a bribe, to be remanded in custody until January 06, 2025.
-
-The officers of the Bribery Commission arrested a businessman and the former Western Provincial Council member while accepting a bribe of Rs. 09 million from another businessman at Pita Kotte.
-
-This arrest was made based on a complaint lodged by a resident of the Madiwela area of Kotte, the Bribery Commission said.
-
-They had allegedly solicited the bribe on the promise of expediting compensation for a land of the complainant’s relative in Torington Avenue, which was acquired by the Urban Development Authority (UDA), according the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-◼️
-
-[Data](articles/e34bdd2c.json)
-
----
-
-### Sri Lanka - Indian Joint Naval Training
-
-*2024-12-28 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202369) · `ta`
-
-Sri Lanka & India conduct joint naval training exercise Slinex-24. Participating ships: SLN Saura, INNS Sumitra. Exercises focus on sharing knowledge, improving cooperation. Includes tactical drills, search & rescue operations. Enhances bilateral relations between navies.
-
-🟩
-
-Annual Slinex-24 Bilateral Navy Training between the Sri Lanka Navy and the Indian Navy. The Sri Lankan Navy ship, which participated in the training, arrived in the country on the 24th.
-
-Sri Lanka's Naval ship Saura and the Indian Navy's INS Sumitra participated in the event for the annual Sri Lankan-Indian naval exercise to improve the cooperation between the two navy.
-
-Exercises to exchange naval technical knowledge and strategies. There were also shooting exercises, products for shipping for shipping, search and recovery exercises.
-
-The Sri Lanka Navy said that this is an excellent opportunity to improve the mutual understanding and share knowledge and experience between the Indo-Sri Lanka bilateral training.
-
-◼️
-
-[Data](articles/2b47ab93.json)
-
-[Extended Data](ext_articles/2b47ab93.ext.json)
-
----
-
-### Investigation into police officer
-
-*2024-12-28 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202367) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Police officer attacked during investigation in Ampara. Suspects arrested after assault. Officer hospitalized. Further arrests planned for inciting violence.
-
-🟩
-
-Periyakalai police have arrested the suspects who attacked a group of police officers who were investigating.
-
-The attack was carried out on Friday (27) in connection with a two -pronged police officer on the Thiruvalluvar road in Pandaruppu Thiruvalluvar Road, Ampara District.
-
-The police officer has been admitted to the Maruthamunai Regional Hospital for treatment.
-
-A complaint was lodged last Thursday (26) at the Various Criminal Investigation Division. As usual, the police officer who summoned the two sides to investigate the matter was investigating the investigation.
-
-While in the presence of the police officer, the complainant's side, Tidrena, has taken off her sandals and attacked the opponent at the other end.
-
-In this case, the police officer was attacked at the police station at the police station.
-
-The police officer was injured and admitted to the nearby Maruthamunai Regional Hospital for treatment. Seven female and male suspects have been arrested on suspicion.
-
-...
-
-[Data](articles/0f71b668.json)
-
-[Extended Data](ext_articles/0f71b668.ext.json)
-
----
-
-### LTTEය සමග සටන් විරාමයකට ගිය හේතුව රනිල් කියයි
-
-*2024-12-28 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204791) · `si`
-
-2001 වසරේදී තමාට LTTE සංවිධානය සමග සටන් විරාම ගිවිසුමකට එළැඹීමට සිදුවූයේ එවක ආර්ථික මරමස්ථානවලට එල්ල වූ ප්‍රහාර හමුවේ සිදුවූ ආර්ථික පසුබෑම හමුවේ බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-ඉන්දීය හිටපු අග්‍රමාත්‍යවරයෙකු වන අතල් බිහාරි වාජ්පායි මහතා වෙනුවෙන් සංවිධාන කෙරෙන 7වන අතල් බිහාරි වාජ්පායි දේශනයට ඊයේ (27) එක්වෙමින් ඔහු මේ බව පැවසීය.
-
-මෙහි ප්‍රධාන දේශනය පවත්වනු ලැබුවේ රනිල් වික්‍රමසිංහ මහතා තවදුරටත් පවසා සිටියේ, එම කාලය තුළදී තමන්ට දරුණු දේශපාලනික අර්බුදයකටද මුහුණ දීමට සිදු වූ බවයි.
-
-"මම දෙවනවරටත් අග්‍රාමාත්‍යවරයා ලෙස 2001 වසරේ දෙසැම්බර් මාසයේ තේරීපත් වෙද්දී ශ්‍රී ලංකාව දරුණු දේශපාලන අර්බුදයකට මුහුණ දෙමින් සිටියා. ශ්‍රී ලංකාවේ හමුදාවට පසුබසින්න වුණා. LTTE ප්‍රහාර හමුවේ සහ ස්ථාන රැසක බලය ගිලිහුණා. වරාය සහ ගුවන්තොටුපොළ හමුවේ එල්ල වූ ප්‍රහාර හේතුවෙන් ශ්‍රී ලංකාවට භාණ්ඩ සහ ගුවන් යානා පැමිණීම නතර වුණා. ආර්ථිකය වසා දැමීමමකට මුලපුරමින් අපිට තිබුණේ. LTTEසමග සටන්විරාමයකට එළැඹීමේ විකල්පය පමණයි තිබුණේ. අගමැති වුණාට පසු මම වහාම නවදිල්ලිය බලා පිටත් වුණා".
-
-◼️
-
-[Data](articles/77bb1f5c.json)
-
----
-
-### Kalladi Bridge Market Fire
-
-*2024-12-28 13:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கல்லடி-Bridge-Market-தீக்கிரை/73-349397) · `ta`
-
-Here's a summary of the Kalladi Bridge Market Fire in 200 characters:
-
-
-
-Kalladi Bridge Market fire: Female-led market selling local goods set ablaze by unidentified persons. Suspect arrested. Increased crime and drug use reported in area since police suspension.
-
-🟩
-
-The Bridge Market, which is being carried out by female -led women on the old bridge of Kalladi, has been set on fire by unidentified persons.
-
-The market, which is a market for selling poisonous foods in the Batticaloa district, has been selling local products such as wooden, rice, rice, honey, ghee, ghee, and more for their livelihood for their livelihood.The action has been carried out.
-
-Batticaloa headquarters police have taken a person who is suspected of being involved in a destructive act at midnight yesterday.
-
-The businessmen in the area say that the crime and the movement of drug users have increased in the area since the suspension of the police police, near the market for the past few months.. Remble
-
-◼️
-
-[Data](articles/346be364.json)
-
-[Extended Data](ext_articles/346be364.ext.json)
 
 ---

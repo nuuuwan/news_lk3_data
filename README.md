@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 23:43:42**
+As of **2024-12-30 00:02:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,909 (98.9%) of 62,614 articles have been extended.
+61,910 (98.9%) of 62,614 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,27 +58,37 @@ However, as one of them was lifted, he survived. However, the other three died.
 
 ---
 
-### අනවසර වගාබිම් මාස 3ක් ඇතුළත ඉවත්කිරීමට පියවර
+### Measures to be removed within 3 months of unauthorized lawn
 
 *2024-12-29 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204836) · `si`
 
-වනඅලි සඳහා වෙන්කර ඇති අලි කොරිඩෝ අවහිර කරමින් සැකසූ සියලු අනවසර වගාබිම් මාස 3ක් ඇතුළත ඉවත්කිරීමට පියවර ගන්නා බව නිවාස නියෝජ්‍ය අමාත්‍ය ටී. බී. සරත් මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-වන සතුන්ගෙන් වගාවන්ට සිදුවන හානි කලක පටන් මෙරට ගොවිබ්ම්වලින් වාර්තා වේ.
 
-නමුත් මෑතකාලීනව එම හානි තීව්‍ර වී ඇති පසුබිමක වැඩිම හානියක් වාර්තාවන්නේ වනඅලි ගම්වැදීම හේතුවෙනි.
 
-එලෙස ගම්වදින වනඅලි හම්බන්තොට බඳගිරිය තම්මැන්නාව ගම්මානයේ කුඹුරු අක්කර 100කට පමණ හානි පමුණුවා තිබුණි.
+Deputy Minister B. Sarath announces removal of unauthorized elephant habitats within 3 months. Damage to farmland reported, particularly in Dayawatte village. Meeting held in Polonnaruwa regarding elephant conservation and human-wildlife conflict.
 
-අලිවැට අක්‍රියවීම් මෙන්ම ජනතාවගේ ඇතැම් ක්‍රියාකලාපයන්ද හේතුවෙන් වනඅලි ගම්වැදීම වගාවන්ට පමණක් නොව, ජන ජීවිතවලටත්, වනඅලි ජීවිත වලටත් උදාකර ඇත්තේ අවිනිශ්චිත තත්ත්වයකි.
+🟩
 
-මෙවන් පසුබිමක පොළොන්නරුව මහවැලි සී කලාපයේ සිරිපුර ගම්මානයේ ගොවීන් සහ නිවාස නියෝජ්‍ය අමාත්‍ය ටී.බී. සරත් මහතා අතර හමුවක් ඊයේ (28) පස්වරුවේ පැවැත්විය.
+Deputy Minister of Housing Tigers will be taken to remove all unauthorized ladies allocated for wild elephants for the wild elephants within three months.. B. Sarath says.
 
-මින්නේරිය, කවුඩුල්ල, සෝමාවතිය, වස්ගමුව සහ ජලගැලුම් නිම්නයට වනඅලීන්ට ගමන් කිරීමට පවතින හුංගමාලඔය අලි කොරිඩෝව ඇතුළත් කලාපය තුළ අනවසර වගාකටයුතු සිදුකිරීමක් සම්බන්ධව සාකච්ඡා එහිදී කෙරුණි.
+Farbies have been damaged from the farmers who have been damaged from wild animals.
+
+But recently, the most harm in the end of the damage is caused by vast village.
+
+The village Dayawatte had damaged about 100 acres of paddy lands in the Village of Thammena.
+
+Due to the alive, and some of the people's behavior, is uncertain not only to the village, but the wildlife, and wildlife.
+
+Sipura village and housing ministers of Siripura village in Polonnaruwa Mahaweli C region. A meeting between Mr. Sarath was held yesterday (28).
+
+Discussions were held in the Hungamaoya Elephant in the Hungamaoya E Ali Capor, which is located in the Genuti, Kaudulla, Somawathiya, Wasagamuwa and Floods.
 
 ◼️
 
 [Data](articles/650c3d2e.json)
+
+[Extended Data](ext_articles/650c3d2e.ext.json)
 
 ---
 

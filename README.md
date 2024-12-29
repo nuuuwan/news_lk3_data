@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 14:27:32**
+As of **2024-12-29 14:43:05**
 
 ## Newspaper Stats
 
-*Scraped **62,542** Articles*
+*Scraped **62,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,970
-adaderanalk | 7,639
-tamilmirrorlk | 8,973
+adaderanalk | 7,640
+tamilmirrorlk | 8,974
 virakesarilk | 10,375
-adaderanasinhalalk | 10,807
+adaderanasinhalalk | 10,808
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,880 (98.9%) of 62,542 articles have been extended.
+61,881 (98.9%) of 62,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### சுது கங்கையில் மூழ்கி இருவர் பலி
+
+*2024-12-29 14:32:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுது-கங்கையில்-மூழ்கி-இருவர்-பலி/76-349442) · `ta`
+
+மாத்தளை நீர் சுத்திகரிப்பு நிலையத்தில் பணிபுரிந்த இரு இளைஞர்கள் சுது கங்கையில் சனிக்கிழமை (28) மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ஆலையின் வலையில் சிக்கிய பீப்பாய் ஒன்றை மீட்கும் முயற்சியில் ஈடுபட்ட தொழிலாளி ஒருவர் ஆற்றில் விழுந்து உயிரிழந்ததாக முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+மற்ற இளைஞன் தனது சக ஊழியரைக் காப்பாற்ற குதித்ததாகவும் ஆனால் நீரோடையில் அடித்துச் செல்லப்பட்டதாகவும் கூறப்படுகிறது.
+
+உயிரிழந்தவர்கள் 24 வயதான சானக மதுஷங்க மற்றும் 24 வயதான மெனுகா மதுஷங்க என அடையாளம் காணப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1eb50409.json)
+
+---
+
+### එළවළු මිල ඉහළට
+
+*2024-12-29 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204826) · `si`
+
+ප්‍රදේශ කිහිපයක ආර්ථික මධ්‍යස්ථාන ආශ්‍රිතව එළවළු මිල ගණන් පසුගිය සතියට සාපේක්ෂව ඉහළ ගොස් ඇතැයි වාර්තා වේ.
+
+දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ අද (29) බෝංචි කිලෝවක තොග මිල රුපියල් 350ත් 400ත් අතර මිලකට අලෙවි වන අතර අමුමිරිස් කිලෝවක මිල ඉහළ ගොස් ඇත්තේ රුපියල් 800ත් 900ත් අතර මිලකටය.
+
+මීට අමතරව කැරට්, ලීක්ස්, තක්කාලි ඇතුළු එළවළු වර්ග කිහිපයකම මිල සාපේක්ෂව ඉහළ ගොස් තිබේ.
+
+මේ අතර පසුගිය සතියට සාපේක්ෂව අද දිනය වන විට දේශීය වෙළෙඳපොළේ උඩරට සහ පහතරට එළවළු මිල ද සීඝ්‍රයෙන් ඉහළ ගොස් ඇති බව එළවළු සිල්ලර වෙළෙඳුන් පවසයි.
+
+ඔවුන් පවසන්නේ රුපියල් 160කට පැවති වට්ටක්කා කිලෝවක මිල මේ වන විට රුපියල් 300-400ත් අතර මිලක් දක්වා ඉහළ ගොස් ඇති බවය.
+
+තවද අනෙක් සෑම එළවළු වර්ගයකම කිලෝවක මිල මේ වන විට රුපියල් 500-800ත් අතර සිල්ලර මිලකට අලෙවි වන බවත් ඔවුන් පවසයි.
+
+අමු මිරිස් කිලෝවක් රුපියල් 1400, නයි මිරිස් කිලෝවක් රුපියල් 1500, තක්කාලි කිලෝවක් රුපියල් 600-800ත් අතර මිලකට අලෙවි වන බවද ඔවුන් පැවසීය.
+
+...
+
+[Data](articles/d3f1336c.json)
+
+---
 
 ### Human Rights Commission (HRC) to join President on Myanmar's refugees
 
@@ -106,19 +148,29 @@ Governments that do not use such opportunities in the international arena have a
 
 ---
 
-### பாண் சாப்பிட்டவர் திடீர் மரணம்
+### The man who ate the pan is sudden death
 
 *2024-12-29 13:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பாண்-சாப்பிட்டவர்-திடீர்-மரணம்/71-349439) · `ta`
 
-யாழ்ப்பாணம் உரும்பிராய் பகுதியில் உணவு சாப்பிட்டுக் கொண்டு இருந்த, நான்கு பிள்ளைகளின் தந்தையான உரும்பிராய் பகுதியைச் சேர்ந்த 62 வயதுடைய காசிப்பிள்ளை குவேந்திரன், திடீர் சுகவீனமடைந்த நிலையில் சனிக்கிழமை(28) உயிரிழந்துள்ளார்.
+Here's a summary of 200 characters:
 
-அவர், பாண் சாப்பிட்டுக்கொண்டு இருந்தவேளை அவருக்கு சுவாசிக்க சிரமம் ஏற்பட்டுள்ளது.  குறித்த நபரை கோப்பாய் வைத்தியசாலைக்கு கொண்டு சென்ற போது, அவர் ஏற்கெனவே, உயிரிழந்துள்ளார்.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டதுடன் உடற்கூற்று பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டுள்ளது. ஆஸ்துமா காரணமாக மரணம் சம்பவித்துள்ளதாக மரண விசாரணையில் தெரிவிக்கப்படுகிறது.
+
+Man eats pan, chokes, dies at 62 in Jaffna. Difficulty breathing during meal leads to sudden death. Asthma suspected cause.
+
+🟩
+
+62 -year -old Kasipillai Kuvendran, a father of four children, who was eating food in Urumpirai, Jaffna, died on Saturday (28).
+
+He was having difficulty breathing while he was eating pan.  குறித்த நபரை கோப்பாய் வைத்தியசாலைக்கு கொண்டு சென்ற போது, அவர் ஏற்கெனவே, உயிரிழந்துள்ளார்.
+
+Sudden Death Investigation Officer Namasivayam Premkumar carried out the death investigation into his body and the body was handed over to relatives after an anatomical examination.. The death investigation reports that the death of asthma has been died.
 
 ◼️
 
 [Data](articles/edfddd66.json)
+
+[Extended Data](ext_articles/edfddd66.ext.json)
 
 ---
 
@@ -145,6 +197,24 @@ Governments that do not use such opportunities in the international arena have a
 ...
 
 [Data](articles/94d1d8fc.json)
+
+---
+
+### S. Korea funds Rs. 2.4 Bn project to boost tourism in Sigiriya
+
+*2024-12-29 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104562/s-korea-funds-rs-24-bn-project-to-boost-tourism-in-sigiriya) · `en`
+
+The Korea International Cooperation Agency (KOICA) has proposed a special initiative to enhance conservation efforts at Sigiriya, a UNESCO World Heritage site, and boost its tourism attraction.
+
+Proposed under the supervision of Sri Lanka’s Central Cultural Fund and with the full approval of the Department of Archaeology, this project includes several initiatives, such as upgrading the access road to Sigiriya Lion Rock, constructing an alternative access route, and developing facilities such as the Sigiriya Museum, restaurant, and ticket counter.
+
+The total cost of this project is estimated at Rs. 2.4 billion.
+
+Furthermore, it has been suggested that a Memorandum of Understanding (MoU) be signed between the Central Cultural Fund and KOICA, as directed by the Ministry of Buddhasasana, Religious, and Cultural Affairs for the purpose.
+
+...
+
+[Data](articles/2524aea5.json)
 
 ---
 
@@ -2095,81 +2165,5 @@ Four of the eight admitted to the Manrashi Hospital returned home after treatmen
 [Data](articles/0aa3716f.json)
 
 [Extended Data](ext_articles/0aa3716f.ext.json)
-
----
-
-### President decisions to prevent drug abroad to illegally
-
-*2024-12-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204801) · `si`
-
-Sri Lankan President Anura Kumara Dissanayake met with immigration officials to discuss preventing illegal drugs and corruption at airports. He suggested replacing outdated scanners and taking strict disciplinary action against smugglers.
-
-🟩
-
-President Anura Kumara Dissanayake and Immigration and Emigration Department, Department of Immigration and Emigration and Heads of Sri Lanka Customs and Airline and Airline Company (28) was held today.
-
-It was discussed at length to prevent illegal materials including the coming into the country, preventing the coming into the country, preventing corruption, fraud and irregularities in the airport premises.
-
-The President advised the Department of Immigration and Emigration, the Department of Immigration and Emigration, the Sri Lanka Customs and Airline and Airline Company.
-
-The President also said the President to start a practical new process to prevent the smugglers in these institutions to replace the existing scanner machines.
-
-The President emphasized the misconceptions of the customs in the people of the country and take immediate action to take strong discipline and legal action.
-
-◼️
-
-[Data](articles/57379814.json)
-
-[Extended Data](ext_articles/57379814.ext.json)
-
----
-
-### சவேந்திர சில்வா, முப்படை தளபதிகளின் சேவைக் காலம் மீண்டும் நீடிக்கப்படுமா?
-
-*2024-12-28 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202383) · `ta`
-
-பாதுகாப்பு படைகளின் பதவி நிலைப்பிரதானி ஜெனரல் சவேந்திர சில்வா மற்றும் முப்படை தளபதிகளின் சேவை நீடிப்பு காலம் 31ஆம் திகதியுடன் நிறைவடையவுள்ளது. எனினும் அவர்களது சேவையை மீண்டும் நீடிப்பது குறித்தோ அல்லது புதிய நியமனங்களை வழங்குவது குறித்தோ பாதுகாப்பு அமைச்சர் ரீதியில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவால் இதுவரை எந்தவொரு அறிவித்தலும் விடுக்கப்படவில்லை.
-
-பாதுகாப்பு படைகளின் பதவி நிலைப்பிரதானி ஜெனரல் சவேந்திர சில்வாவின் பதவி காலம் கடந்த ஜூன் முதலாம் திகதியிலிருந்து டிசம்பர் 31ஆம் திகதி வரை நீடிக்கப்பட்டது. கடந்த 2019ஆம் ஆண்டு ஆகஸ்ட் 19ஆம் திகதி முதல் 2022 மே 31 வரை ஜெனரல் சவேந்திர சில்வா இராணுவத்தளதியாக பணியாற்றினார். அதன் பின்னர் தனது பதவி காலம் நிறைவடைய 2022 ஜூன் முதலாம் திகதி பாதுகாப்பு படைகளின் பதவிநிலை பிரதானியாக நியமிக்கப்பட்டார். இந்நிலையிலேயே அவரது பதவி காலம் மேலும் 6 மாதங்களுக்கு நீடிக்கப்பட்டது.
-
-...
-
-[Data](articles/f7a31188.json)
-
----
-
-### Donald Trump to give a solution to TiktoK problem
-
-*2024-12-28 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204800) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US President Donald Trump seeks Supreme Court intervention to delay TikTok ban. He aims to provide a political solution after assuming office. The US Congress voted to ban TikTok, citing security concerns. ByteDance challenged the ban, arguing it violates free speech rights. The Supreme Court's verdict is pending on January 10.
-
-🟩
-
-The US President Donald Trump has requested the Supreme Court who was elected not to give the verdict of TiktoK ban on the US TikTok ban in America until he was appointed.
-
-Trump's hope is to give a political solution in the problem of tiktak after assumes duties.
-
-At the beginning of this year, the US Representatives Council took steps to pass a draft that could ban a draft that could ban a draft that could ban a draft that could ban a draft of the Ticktock social media in China.
-
-The US Representatives Council agreed to ban the Ticktock software across the country.
-
-In such a situation, Bitdans filed a petition in the Federal Court against the law of US Congress, but it was rejected a few weeks ago.
-
-Accordingly, the verdict of ticktock is to be announced on January 10.
-
-The US President Donald Trump had requested the Supreme Court to temporarily suspended the decision.
-
-Trump's purpose is to give a political solution to Ticktock's problem after the duties of his duties.
-
-...
-
-[Data](articles/6d6a8622.json)
-
-[Extended Data](ext_articles/6d6a8622.ext.json)
 
 ---

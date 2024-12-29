@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 11:13:42**
+As of **2024-12-29 11:27:25**
 
 ## Newspaper Stats
 
-*Scraped **62,513** Articles*
+*Scraped **62,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,965
 adaderanalk | 7,636
-tamilmirrorlk | 8,968
+tamilmirrorlk | 8,969
 virakesarilk | 10,366
 adaderanasinhalalk | 10,802
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,802
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,871 (99.0%) of 62,513 articles have been extended.
+61,871 (99.0%) of 62,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
+
+### சிவனொளிபாத மலை சென்ற பெண் உயிரிழப்பு
+
+*2024-12-29 11:10:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சிவனொளிபாத-மலை-சென்ற-பெண்-உயிரிழப்பு/76-349434) · `ta`
+
+சிவனொளிபாத மலைக்கு சென்ற பெண் ஒருவர் திடீர் சுகவீனமடைந்து டிக் ஓயா ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் ஞாயிற்றுக்கிழமை(29) உயிரிழந்துள்ளதாக நல்லதண்ணிய பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்த பெண்ணின் சடலம் டிக் ஓயா ஆரம்ப வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாகவும் பிரேத பரிசோதனையின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்படும் எனவும் நல்லதண்ணியா பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/941fb2e6.json)
+
+---
 
 ### සහල් මෙට්‍රික්ටොන් 75,000ක් ආනයනය කර අවසන්
 
@@ -2183,31 +2197,5 @@ Accordingly, the Sri Lankan squad won 173 runs.
 [Data](articles/3c747877.json)
 
 [Extended Data](ext_articles/3c747877.ext.json)
-
----
-
-### Salochana Gamage and businessman remanded
-
-*2024-12-28 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204792) · `si`
-
-Sum:0
-
-🟩
-
-Former Provincial Councilor, who was arrested in connection with a bribery, has been remanded till the 6th.
-
-The two suspects have been submitted to the Colombo Additional Magistrate.
-
-The Bribery Commission (Western Provincial Councilor) officials were arrested by the Bribery or Corruption Commission yesterday.
-
-The arrest was carried out in front of a shop in the Pitakotte, Kotte.
-
-The suspects have been sent to the Urban Development Authority after the delegation of land in the Torlington Avivu area belonging to the complainant's relative.
-
-◼️
-
-[Data](articles/bf3e1274.json)
-
-[Extended Data](ext_articles/bf3e1274.ext.json)
 
 ---

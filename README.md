@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 19:02:12**
+As of **2024-12-29 19:12:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,813
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,895 (98.9%) of 62,588 articles have been extended.
+61,896 (98.9%) of 62,588 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,23 +58,35 @@ The arrested suspect is a 50 -year -old from Kinniya.
 
 ---
 
-### 'நான் எனது இறுதி செய்தியை தெரிவிக்க வேண்டுமா? விபத்துக்குள்ளான தென்கொரிய விமானத்திலிருந்து வந்த குறுஞ்செய்தி
+### 'Should I report my final message?SMS from a South Korean plane crash
 
 *2024-12-29 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/202493) · `ta`
 
-ஞாயிற்றுக்கிழமை காலை 181 பேருடன் பயணித்துக்கொண்டிருந்த விமானம் விபத்துக்குள்ளாகி தீப்பிடித்து எரிந்ததில்  179 பேராவது பலியாகியுள்ளதால் சோகம் கலந்த ஒரு அமைதியான சூழல் தென்கொரியாவில் பரவியது.
+Here's a summary of the text in approximately 200 characters:
 
-பயணிகளின் கலக்கமடைந்த உறவினர்கள் நண்பர்கள் முவான் சர்வதேச விமானநிலையத்தில் அவசரமாக கூடி தங்கள் அன்புக்குரியவர்களை தேடினர்.
 
-விபத்திற்கு சில நிமிடங்களிற்கு முன்னர் விமானத்திலிருந்த  தங்கள் குடும்பத்தை சேர்ந்த  ஒருவர் விமானத்தின் இறக்கையின் ஒரு பகுதியில் பறவையொன்று சிக்குண்டுள்ளது என குறுஞ்செய்தி அனுப்பினார் என விமானநிலையத்தில் காணப்பட்ட குடும்பமொன்றை சேர்ந்தவர்கள் தெரிவித்தனர்.
 
-நான் எனது இறுதி வார்த்தைகளை தெரிவிக்க வேண்டுமா என்ற செய்தியும் அந்த பயணியிடமிருந்து வந்துள்ளது.
+Plane crashes in South Korea, killing 179. Witnesses report seeing fire and hearing explosions. SMS from family member mentions finding a bird near the wing. Travelers rush to airport seeking information about loved ones.
 
-விமானத்தின் இயந்திரத்தில் தீப்பிளம்பை கண்டதாகவும் வெடிப்புசத்தங்களை கேட்டதாகவும்  உள்ளுர் மக்கள் தெரிவித்தனர் என தென்கொரியாவின் யொன்ஹாப் செய்தி நிறுவனம் தெரிவித்துள்ளது.
+🟩
 
-...
+A peaceful environment of South Korea has spread to South Korea as 179 people have been killed when a plane crashed into a fire on Sunday morning.
+
+Travelers' disturbed relatives gathered at the Muan International Airport in a hurry to search for their loved ones.
+
+A few minutes before the crash, a family member of the airport sent a short message that a bird had been found in a part of the wings of the plane.
+
+The news is from the passenger whether I want to express my final words.
+
+South Korea's Yonhap news agency said that local people said they had seen the fire in the plane and heard the explosions.
+
+I saw the plane landing and I thought it was going to land, and then heard a massive noise and then heard a smoke in the sky, and then heard a series of explosions, said a man who was found in the airport 4.5 kilometers from the airport.
+
+◼️
 
 [Data](articles/255053de.json)
+
+[Extended Data](ext_articles/255053de.ext.json)
 
 ---
 

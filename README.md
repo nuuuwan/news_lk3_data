@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 14:43:05**
+As of **2024-12-29 15:01:26**
 
 ## Newspaper Stats
 
-*Scraped **62,545** Articles*
+*Scraped **62,548** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 459
-colombotelegraphcom | 631
+colombotelegraphcom | 632
 bbccomsinhala | 658
 economynextcom | 3,802
 islandlk | 3,802
 dailyftlk | 4,330
 dailymirrorlk | 4,733
-adalk | 5,970
+adalk | 5,971
 adaderanalk | 7,640
-tamilmirrorlk | 8,974
+tamilmirrorlk | 8,975
 virakesarilk | 10,375
 adaderanasinhalalk | 10,808
 
@@ -26,27 +26,51 @@ adaderanasinhalalk | 10,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,881 (98.9%) of 62,545 articles have been extended.
+61,882 (98.9%) of 62,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### சுது கங்கையில் மூழ்கி இருவர் பலி
+### சுற்றுலா பயணிகளின் வருகை அதிகரிப்பு
+
+*2024-12-29 14:51:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுற்றுலா-பயணிகளின்-வருகை-அதிகரிப்பு/76-349443) · `ta`
+
+வருட இறுதி விடுமுறைகளை முன்னிட்டு நாட்டுக்கு வருகை தரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், நாட்டில் பல்வேறு பாகங்களிலிருந்தும் உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பிரயாணிகள் நுவரெலியாவிற்கு  படையெடுத்த வண்ணம் உள்ளனர்.
+
+நுவரெலியா பகுதியில் சுற்றுலா பயணிகள் வருகை அதிகரித்துள்ளமையினால் மாலை நேரங்களில் பிரதான வீதிகளில் வாகன நெரிசல்களும் ஏற்பட்டுள்ளன. இதற்காக விசேட போக்குவரத்து ஏற்பாடுகள் செய்து அதிக பொலிஸார் பாதுகாப்புப் பணியில் ஈடுபடுத்தப்படவுள்ளனர்.
+
+◼️
+
+[Data](articles/cf86f562.json)
+
+---
+
+### Two killed in Sudhu Ganga
 
 *2024-12-29 14:32:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுது-கங்கையில்-மூழ்கி-இருவர்-பலி/76-349442) · `ta`
 
-மாத்தளை நீர் சுத்திகரிப்பு நிலையத்தில் பணிபுரிந்த இரு இளைஞர்கள் சுது கங்கையில் சனிக்கிழமை (28) மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-ஆலையின் வலையில் சிக்கிய பீப்பாய் ஒன்றை மீட்கும் முயற்சியில் ஈடுபட்ட தொழிலாளி ஒருவர் ஆற்றில் விழுந்து உயிரிழந்ததாக முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
 
-மற்ற இளைஞன் தனது சக ஊழியரைக் காப்பாற்ற குதித்ததாகவும் ஆனால் நீரோடையில் அடித்துச் செல்லப்பட்டதாகவும் கூறப்படுகிறது.
 
-உயிரிழந்தவர்கள் 24 வயதான சானக மதுஷங்க மற்றும் 24 வயதான மெனுகா மதுஷங்க என அடையாளம் காணப்பட்டுள்ளனர்.
+"Two workers from Matale Water Refinement Center drowned in Sudhu Ganga on Sat. One fell while retrieving a barrel; the other jumped to save him but was swept away. Victims: 24-year-old Sanaka Madushanga and Menugha Madushanga."
+
+🟩
+
+Two youths who worked at the Matale Water Refinement Center were drowned in the Sudhu Ganga on Saturday (28), police said.
+
+Preliminary investigations revealed that a worker who was trying to recover a barrel trapped in the plant's net fell into the river.
+
+The other young man is said to have jumped to save his colleague but was swept away in the stream.
+
+The victims have been identified as 24 -year -old Sanaka Madushanga and 24 -year -old Menugha Madushanga.
 
 ◼️
 
 [Data](articles/1eb50409.json)
+
+[Extended Data](ext_articles/1eb50409.ext.json)
 
 ---
 
@@ -101,6 +125,22 @@ The Human Rights Commission of Sri Lanka has requested the Department of Immigra
 [Data](articles/6f7783c3.json)
 
 [Extended Data](ext_articles/6f7783c3.ext.json)
+
+---
+
+### නුවරඑළිය දෙස් විදෙස් සංචාරකයන්ගෙන් පිරෙයි
+
+*2024-12-29 13:28:04* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑළිය-දෙස්-විදෙස්-සංචාරකයන්ගෙන්-පිරෙයි/10-413891) · `si`
+
+නත්තල් නිවාඩුවත් සමග නුවරඑලියට දෙස් විදෙස් සංචාරකයන් විශාල පිරිසක් පැමිණි බවත්, එසේ පැමිණි සංචාරකයන් හේතුවෙන් නුවරඑලිය ප්‍රදේශයේ සියළුම සංචාරක හෝටල් සහ නවාතැන් පහසුකම් ලබා දෙන ස්ථානවල සියළුම කාමර වෙන්කරගෙන තිබු බව නුවරඑලිය සංචාරක හෝටල් හිමියන්ගේ සංගමයේ නිලධාරියෙකු කියා සිටියේය.
+
+නුවරඑලිය ප්‍රදේශයේ මේ දිනවල පවතින යහපත් කාලගුණයත් සමග පැමිණි සංචාරකයන් වික්ටොරියා උද්‍යානය, හොර්ටන්තැන්න, සදතැන්න, ග්‍රේගරි වැව, හග්ගල උද්භිත උද්‍යානය ඇතුළු නුවරඑලිය අවට සංචාරක ආකර්ෂණය දිනාගෙන ඇති ස්ථාන වල සංචාරය කල බව එම නිලධාරියා කියා සිටියේය.
+
+එසේ පැමිණි සංචාරකයන්ගෙන් ඇතැම් සංචාරකයන් ලබන නව වසරේ නුවරඑලියේ ගත කිරිමට කාමර වෙන් කරගෙන ඇති බවද එම නිලධාරියා වැඩිදුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/26a7b409.json)
 
 ---
 
@@ -965,6 +1005,22 @@ It is said that necessary steps can be taken to run the trains without problems 
 [Data](articles/8c691ae0.json)
 
 [Extended Data](ext_articles/8c691ae0.ext.json)
+
+---
+
+### New Book: Ranil Wickremesinghe And The Emasculation Of The United National Party
+
+*2024-12-29 09:18:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/new-book-ranil-wickremesinghe-and-the-emasculation-of-the-united-national-party/) · `en`
+
+Ranil Wickremesinghe And The Emasculation Of The United National Party
+
+The United National Party did not context the 2024 General Election. It had not put forward a candidate in the four previous Presidential elections. UNP members did contest the Presidential elections of 2019 and 2024, but not through the party.
+
+This was a sad decline for the party that had governed Sri Lanka at independence and had changed the constitution to a Presidential system after winning a massive majority in Parliament in 1977. It stayed in power then for 17 years, but after its defeat at polls in 1994 it declined inexorably.
+
+...
+
+[Data](articles/9cf39658.json)
 
 ---
 
@@ -2093,77 +2149,5 @@ Members of Parliament must submit property and responsible statements before Jun
 [Data](articles/f10405c9.json)
 
 [Extended Data](ext_articles/f10405c9.ext.json)
-
----
-
-### President calls for unified monitoring division to tackle illegal migration and drug smuggling
-
-*2024-12-28 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104546/president-calls-for-unified-monitoring-division-to-tackle-illegal-migration-and-drug-smuggling) · `en`
-
-President Anura Kumara Dissanayake has held a discussion today (28) at the Presidential Secretariat with the heads of the Department of Immigration and Emigration, Sri Lanka Customs, and the Airport and Aviation Services.
-
-The discussion extensively focused on preventing the entry of narcotics and other prohibited substances into the country, curbing corruption, fraud, and irregularities at airports, customs, and halting the unauthorized departure of individuals from the country, the President’s Media Division (PMD) said.
-
-During the meeting, President Dissanayake instructed the establishment of an integrated camera system and a unified observation room to be shared among the Department of Immigration and Emigration, Sri Lanka Customs, and the Airport and Aviation Services, it added.
-
-The President also emphasized the need for a practical and modernized process to prevent smuggling, calling for the replacement of the current scanning equipment with advanced, modern scanners.
-
-...
-
-[Data](articles/7a4af565.json)
-
-[Extended Data](ext_articles/7a4af565.ext.json)
-
----
-
-### A special step to prevent the floods from flooding
-
-*2024-12-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204802) · `si`
-
-Steps to prevent floods: Ban on sand mining, surrounding land use restrictions. Natural water dam planned due to impact on Ambatale Water Treatment Plant. Decision made at Kaduwela Regional Development Committee meeting.
-
-🟩
-
-Due to floods in the Kelani River, several steps have been taken to control Kaduwela Urban Council areas.
-
-Accordingly, the surrounding land and the surrounding sand mining have been banned from yesterday (27).
-
-The Chairman of the Committee, Headquoes, he said that the decision was taken at the Regional Development Committee meeting of Kaduwela.
-
-He said that due to the controversial influence on the Ambatale Water Treatment Plant, a major impact on flooding.
-
-As a result, plans will be designed to prepare a natural water dam under the World Bank Project, "he said.
-
-◼️
-
-[Data](articles/021b0d28.json)
-
-[Extended Data](ext_articles/021b0d28.ext.json)
-
----
-
-### The target for wasps is allowed
-
-*2024-12-28 16:51:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குளவி-கொட்டுக்கு-இலக்காகி-எண்மர்-வைத்தியசாலையில்-அனுமதி/76-349401) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Female workers attacked by wasps on mountain. Eight robbed, four treated, four still receiving care. Incident occurred at Akkarappatna-Belmoral estate.
-
-🟩
-
-Eight female workers, who had been robbed on the mountain at 2 pm today (28,) at the Akkarappatna - Belmoral Big Nagawatte Estate, were targeted for the wasp.
-
-The wasps have been attacked by female workers who have been dispersed and plundered.
-
-Four of the eight admitted to the Manrashi Hospital returned home after treatment and the other four continued to receive treatment.
-
-◼️
-
-[Data](articles/0aa3716f.json)
-
-[Extended Data](ext_articles/0aa3716f.ext.json)
 
 ---

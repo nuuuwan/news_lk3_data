@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 23:27:18**
+As of **2024-12-29 23:43:42**
 
 ## Newspaper Stats
 
-*Scraped **62,611** Articles*
+*Scraped **62,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 459
 colombotelegraphcom | 632
 bbccomsinhala | 658
-economynextcom | 3,802
 islandlk | 3,802
+economynextcom | 3,805
 dailyftlk | 4,330
 dailymirrorlk | 4,733
 adalk | 5,979
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,908 (98.9%) of 62,611 articles have been extended.
+61,909 (98.9%) of 62,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### புத்தளத்தில் மின்சாரம் தாக்கி மூவர் பலி
+### Electricity in Puttalam
 
 *2024-12-29 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202500) · `ta`
 
-புத்தளம் - பழைய மன்னார் வீதியில் 2ஆம் கட்டை பகுதியில் ஞாயிற்றுக்கிழமை (29) மாலை மின்சாரம் தாக்கியதில் மூவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-நிர்மாணிக்கப்பட்டு வரும் கட்டிடத்தில் ஏறி நின்று வேலை செய்த இரும்பிலான பலாஞ்சியில் மீது மின்சாரம் பாய்ந்ததில் அதனை தூக்கிச் சென்ற 4 பேர் மீது மின்சாரம் தாக்கியுள்ளது.
 
-இருப்பினும், அவர்களில் ஒருவர் தூக்கி விசப்பட்ட நிலையில், உயிர் பிழைத்துள்ளார். எனினும் ஏனைய மூவரும் உயிரிழந்தனர்.
+
+"3 killed in Puttalam: Electricity strike during iron rod lifting at construction site. 4 attackers involved; 1 survivor."
+
+🟩
+
+Three people were killed when electricity was hit on Sunday evening (29) evening at the Puttalam - Old Mannar Road, police said.
+
+Electricity has been attacked by four people who have been thrown into the building of an iron palan, which was working in a construction building.
+
+However, as one of them was lifted, he survived. However, the other three died.
 
 ◼️
 
 [Data](articles/36b1d3bb.json)
+
+[Extended Data](ext_articles/36b1d3bb.ext.json)
 
 ---
 
@@ -69,6 +79,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/650c3d2e.json)
+
+---
+
+### Sri Lanka’s China-backed Hambantota Port aims at container relay business
+
+*2024-12-29 22:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-china-backed-hambantota-port-aims-at-container-relay-business-196858/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s China-backed Hambantota International Port said it was planning to break into the container relay market, which will contribute to the island’s plans to handle 10 million boxes in 2025/2026.
+
+While transshipment involves feeder lines bringing containers from regional ports to a hub port, where mainline ships call, cargo relay involves transferring cargo within ships from the same carrier going on different routes.
+
+“As part of its seaside strategy, the port is entering the relay cargo market, representing a new opportunity for the country…” Hambantota International Port Group said in a statement.
+
+By utilising an intermediate relay port, shipping lines can optimise their routes, streamline operations, and reduce overall transit times, the port said.
+
+Wilson Qu, CEO of Hambantota International Port Group (HIPG), said the port was exploring previously untapped markets to expand its portfolio.
+
+...
+
+[Data](articles/a3a54e77.json)
 
 ---
 
@@ -209,6 +239,28 @@ Aiden Margram and team captain Tempa Bauma shared 43 runs in the fourth wicket, 
 [Data](articles/52c42af5.json)
 
 [Extended Data](ext_articles/52c42af5.ext.json)
+
+---
+
+### Sri Lanka price control advocate urges fried rice instead of milk rice for New Year
+
+*2024-12-29 20:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-price-control-advocate-urges-fried-rice-instead-of-milk-rice-for-new-year-196819/) · `en`
+
+ECONOMYNEXT – A vocal Sri Lanka price control advocate, Asela Sampath, who says he is heads an organization called the National Consumer Front, has urged the public to eat fried rice in the New Year after red rice used for milk rice disappeared from shop shelves due to ceiling prices.
+
+“Instead of milk rice we will eat fried rice, because we have every day eaten milk rice in the past,” Sampath told reporters in a live cookery demonstration in front of news cameras, footage carried over Sri Lanka’s Hiru News showed.
+
+“Here is imported white raw rice at 220 rupees a kilogram. We will eat fried rice because we have renewed the country,” he said breaking an egg.
+
+RELATED Raw rice vanish from Sri Lanka shop shelves after CAA price controls
+
+Sampath had earlier urged the Consumer Affairs Authority to impose price controls on eggs.
+
+The CAA’s price controls led to the collapse of the layer farm sector.
+
+...
+
+[Data](articles/9ed5dffa.json)
 
 ---
 
@@ -1366,6 +1418,28 @@ After the end of Christmas every year, vegetable prices can be cheap, and it is 
 
 ---
 
+### Sri Lanka industries minister says fighting for more protection
+
+*2024-12-29 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-industries-minister-says-fighting-for-more-protection-196800/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Industries Minister Sunil Handunetthi says he is fighting with the Finance Ministry to give more protection to local businessmen and stop cheaper imports from being available to consumers.
+
+“Today we have had to fight with the Finance Ministry to protect local industries,” Minister Handunetthi said in remarks broadcast over Sri Lanka’s Derana Television.
+
+“I am telling the truth. We have fight for tax policy. We now have to fight with low costs imports (thu-tt-too dekay). We have to fight with officials.”
+
+Finance Ministry officials are today standing for agreements signed during previous administrations and gazettes issued during previous administrations, decisions taken and cabinet papers, he alledged.
+
+“They are not stand for strengthening the national economy, not strengthen domestic industries, but stands for importers for multinational companies.
+
+“So they are arguing and clashing with us, for old decisions they have taken.”
+
+...
+
+[Data](articles/ab3c0f4b.json)
+
+---
+
 ### கண்டியில் போக்குவரத்து விதிகளை மீறிய 543 சாரதிகள் கைது
 
 *2024-12-29 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202443) · `ta`
@@ -2069,57 +2143,5 @@ However, the leadership committee of the coalition will be held on Sunday (29). 
 [Data](articles/1c44960c.json)
 
 [Extended Data](ext_articles/1c44960c.ext.json)
-
----
-
-### DTNA தலைமைக் குழுக் கூட்டம் இன்று
-
-*2024-12-29 10:32:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/DTNA-தலைமைக்-குழுக்-கூட்டம்-இன்று/71-349428) · `ta`
-
-ஐனநாயக தமிழ்த் தேசியக் கூட்டணியின் தலைமைக் குழுக் கூட்டம் ஞாயிற்றுக் கிழமை (29) வவுனியாவில் நடைபெற  உள்ளதாக தமிழ்த் தேசியக் கட்சியின் செயலாளர் நாயகம் எம்.கே. சிவாஜிலிங்கம் யாழில் சனிக்கிழமை (28) நடைப்பெற்ற ஊடாக சந்திப்பின் போது தெரிவித்தார்.
-
-மேலும் அவர் தெரிவிக்கையில்: “ஐனநாயக தமிழ்த் தேசியக் கூட்டணியின் முக்கியமான கூட்டமொன்று நாளையதினம் வவுனியாவில் நடாத்துவதற்கு ஏற்பாடுகள் செய்யப்பட்டிருந்தன.
-
-ஆனால் கூட்டசிக் கட்சிகளில் ஒன்றான ரெலோவின் பிரமுகர் ஒருவரின் உறவினர் திடிரென உயிரிழந்துள்ளதால் அந்தக் கூட்டம் தற்போது ஒத்தி வைக்கப்பட்டுள்ளது.
-
-எனினும் கூட்டணியின் தலைமைக் குழுக் ஞாயிற்றுக்கிழமை (29) நடைபெறவுள்ளது. இவ்வாறு நாளைக்கு நடைபெறவுள்ள தலைமைக்குழு கூட்டத்தின் பின்னர் இறுதி முடிவுகள் ஏடுக்கப்படும்” என தெரிவித்தார்.
-
-◼️
-
-[Data](articles/3a338481.json)
-
----
-
-### South African woman arrested with cocaine worth Rs. 142M at BIA
-
-*2024-12-29 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104558/south-african-woman-arrested-with-cocaine-worth-rs-142m-at-bia) · `en`
-
-The officers of the Narcotics Control Unit of the Bandaranaike International Airport (BIA) in Katunayake have arrested a foreign national woman over an attempt to smuggle a stock of cocaine into the country.
-
-The woman, who was holding a South African passport, has arrived at the BIA at around 1.50 a.m. today (29) onboard a Qatar Airways flight from Ghana.
-
-The officers have apprehended 4,068 grams of cocaine which was in the possession of the 41-year-old woman.
-
-The spokesman of Sri Lanka Customs said that the street value of the haul of drugs is estimated to be around Rs. 142 million.
-
-◼️
-
-[Data](articles/d0c2a123.json)
-
----
-
-### முச்சக்கர வண்டித் திருட்டு;ஐவர் கைது
-
-*2024-12-29 10:29:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முச்சக்கர-வண்டித்-திருட்டு-ஐவர்-கைது/175-349427) · `ta`
-
-பல முச்சக்கர வண்டிகள் திருடப்பட்ட சம்பவத்துடன் தொடர்புடைய 31 மற்றும் 54 வயதுக்கிடைப்பட்ட ஐந்து சந்தேக நபர்களை கொழும்பு மத்திய பிரதேச குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்துள்ளனர். சந்தேகநபர்கள் சீதுவ, ஒருகொடவத்தை, கொழும்பு 10, மற்றும் கொழும்பு 14 ஆகிய பிரதேசங்களை சேர்ந்தவர்கள்.
-
-இரகசிய தகவலின் பேரில், கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட ஸ்டேஸ் வீதி பகுதியில் டிசம்பர் 27 அன்று அதிகாரிகள் சோதனை நடத்தினர். இந்த நடவடிக்கையின் போது, ​​ஒரு சந்தேக நபர் 'ஐஸ்' உடன் கைது செய்யப்பட்டார், இதனையடுத்து அவர் வாயிலாக ஒன்பது திருடப்பட்ட முச்சக்கர வண்டிகளை பொலிஸார் மீட்டெடுத்துள்ளனர்.
-
-மறுநாள் (நேற்று 28) சீதுவ, மாளிகாவத்தை, கிராண்ட்பாஸ் மற்றும் வெல்லம்பிட்டிய ஆகிய இடங்களில் திருடப்பட்ட முச்சக்கர வண்டிகளை வைத்திருந்த மேலும் நான்கு சந்தேக நபர்கள் கைது செய்யப்பட்டனர். பின்னர் அவர்கள் கொழும்பு கோட்டை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டனர்.
-
-...
-
-[Data](articles/3136648b.json)
 
 ---

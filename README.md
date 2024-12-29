@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 04:43:07**
+As of **2024-12-30 05:12:37**
 
 ## Newspaper Stats
 
-*Scraped **62,636** Articles*
+*Scraped **62,638** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 459
-colombotelegraphcom | 632
+colombotelegraphcom | 634
 bbccomsinhala | 658
 islandlk | 3,802
 economynextcom | 3,805
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,925 (98.9%) of 62,636 articles have been extended.
+61,926 (98.9%) of 62,638 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,23 +56,39 @@ The crocodile, which has been seen in the Batticaloa River for the past few days
 
 ---
 
-### வடகிழக்கில் மாணவர்களின் கல்வியில் மீள் எழுச்சி தேவை; அதற்கு உதவத் தயார் - ரவிகரன் எம்.பி
+### Repentance in the education of students in the Northeast;Ready to help - Ravikaran MP
 
 *2024-12-30 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202504) · `ta`
 
-வடக்கு, கிழக்குத் தமிழர் தாயகத்தில் கடந்தகாலங்களில் எழுச்சி பெற்றிருந்த மாணவர்களின் கல்வி, தற்போது வீழ்ச்சியடைந்துள்ளதாக வன்னிநாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரன் கவலைதெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-இவ்வாறு வீழ்ச்சியடைந்துள்ள கல்வியில் மீள் எழுச்சி தேவையெனவும், அதற்காக உதவுவற்குத் தாம் தயாராக இருப்பதாகவும் தெரிவித்துள்ளார்.
 
-திருகோணமலை - பத்தாம்குறிச்சி, அறிவொளிமையம் கல்விநிலையத்தில், கல்விபயிலும் மாணவர்கள் தமது கல்விச் சுற்றுலாவின்போது, முல்லைத்தீவிற்குப் பயணம் மேற்கொண்டிருந்தனர். இதன்போது குறித்த மாணவர்கள் வன்னிநாடாளுமன்ற உறுப்பினர் துரைராசா ரவிகரனின் இல்லத்திற்குசென்றதுடன், கலந்துரையாடலொன்றிலும் ஈடுபட்டிருந்தனர்.
 
-குறித்த கலந்துரையாடலில் மாணவர்கள் முன்னிலையில் கருத்துத் தெரிவிக்கையிலேயே நாடாளுமன்ற உறுப்பினர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+Northeast students' education decline worries MP Ravikaran. He offers help, emphasizes education quality and moral values. Students should strive for academic excellence and good character.
 
-ஆனால் தற்போது வடக்கு, கிழக்கில் எமது மாணவர்களின் கல்வித்தரம் குறைவடைந்து செல்கின்ற நிலைகளைக் காண்கின்றோம். இந்த நிலை மாறவேண்டும்.
+🟩
+
+Wanni Parliamentarian Durairasa Ravikaran is worried that the education of students who have been rising in the North and East Tamil homeland has now fallen.
+
+He said that the fall in education is needed and that he is ready to help it.
+
+Students traveled to Mullaitivu during their educational tourism. The students attended the residence of Wanni Member Durairasa Ravikaran and were also involved in a discussion.
+
+The Member of Parliament said in a statement in the presence of the students.
+
+But now we see the conditions that our students in the North and East are declining. This situation must change.
+
+Therefore, the only goal of all students is to education, get better results, and get high levels.
+
+Our students should be able to overcome the level of education, district and province.
+
+We are all ready for parliamentarians, intellectuals and diaspora relations to help students provide better education.
 
 ...
 
 [Data](articles/ef362739.json)
+
+[Extended Data](ext_articles/ef362739.ext.json)
 
 ---
 
@@ -310,6 +326,22 @@ The elephant has died after the authorities have been treating the Department of
 
 ### 2024-12-29 (Sunday)
 
+### Billions Of Tsunami Aid Disappeared Without A Trace; Corruption Even In Human Misery
+
+*2024-12-29 23:11:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/billions-of-tsunami-aid-disappeared-without-a-trace-corruption-even-in-human-misery/) · `en`
+
+Local media highlighted the twentieth anniversary of devastating Tsunami struck on December 26, 2004 and snatched way almost one percent of the Muslim population. However it failed to highlight how billions of tsunami aid disappeared without a trace.
+
+According to reports, tsunami victims didn’t get any aid and they did not know where the aid money went. Some reports stated that money was feverishly transferred not only to government establishments, but also to accounts of individuals, companies and charity organizations.
+
+Sri Lanka’s then deputy executive director of the anti-graft organization Rukshana Nanayakkara said: “It was almost impossible to find out what happened to the cash. According to an initial government audit only 13 percent of the aid was spent during the first year of reconstruction, but since then there has been no formal examination of accounts.”
+
+...
+
+[Data](articles/6758c6ae.json)
+
+---
+
 ### NPP needs to get serious about industrialisation to avoid another crisis
 
 *2024-12-29 23:06:12* · [`dailyftlk`](https://www.ft.lk/columns/NPP-needs-to-get-serious-about-industrialisation-to-avoid-another-crisis/4-771128) · `en`
@@ -397,6 +429,20 @@ There is a continuation of policy at least in the short term. There is no immedi
 [Data](articles/7da0858f.json)
 
 [Extended Data](ext_articles/7da0858f.ext.json)
+
+---
+
+### “Clean Sri Lanka” Program, A Timely Initiative For Ocean Sustainability
+
+*2024-12-29 22:18:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/clean-sri-lanka-program-a-timely-initiative-for-ocean-sustainability/) · `en`
+
+The recently launched “Clean Sri Lanka” Program under the leadership of the President has generated significant attention. As someone deeply engaged in ocean sustainability efforts for nearly a decade, I commend this initiative as both timely and impactful. It represents an essential step toward fostering sustainable practices for a healthier ocean.
+
+For the past eight years, we have demonstrated practical methods for creating and maintaining a sustainable ocean environment. However, a pressing issue that must be addressed is the prevention of plastic waste from entering our oceans. One effective solution we identified is the installation of “trash traps” to intercept plastic waste carried by water streams into the sea.
+
+...
+
+[Data](articles/97082f1d.json)
 
 ---
 
@@ -2073,43 +2119,5 @@ Furthermore, it has been suggested that a Memorandum of Understanding (MoU) be s
 [Data](articles/2524aea5.json)
 
 [Extended Data](ext_articles/2524aea5.ext.json)
-
----
-
-### 142 மில்லியன் ரூபா பெறுமதியான கொக்கெய்னுடன் கானா நாட்டுப் பெண் கட்டுநாயக்கவில் கைது!
-
-*2024-12-29 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/202433) · `ta`
-
-கட்டுநாயக்க விமான நிலையத்தை விட்டு வெளியேற முற்பட்ட கானா நாட்டுப் பெண்ணொருவர், 142 மில்லியன் ரூபா பெறுமதியான கொக்கெய்ன் போதைப்பொருளுடன் இன்று ஞாயிற்றுக்கிழமை (29) சுங்க போதைப்பொருள் கட்டுப்பாட்டுப் பிரிவு அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்டவர் கானாவில் வசிக்கும் 41 வயது பெண் என்றும், அவர் எச்.ஐ.வி வைரஸால் பாதிக்கப்பட்டுள்ளதாகவும் சுங்க அதிகாரிகள் தெரிவித்தனர்.
-
-அவர் கொண்டுவந்த 02 பயணப் பொதிகளில் 4 கிலோ 68 கிராம் கொக்கெய்ன் போதைப்பொருளை அதிகாரிகள் கைப்பற்றியுள்ளனர்.
-
-பின்னர், மேலதிக விசாரணைகளுக்காக அப்பெண்ணையும் அவர் கொண்டு வந்த போதைப்பொருளையும் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகளிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/36095a90.json)
-
----
-
-### கொக்கெய்னுடன் கானா நாட்டு பெண் கைது
-
-*2024-12-29 12:56:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொக்கெய்னுடன்-கானா-நாட்டு-பெண்-கைது/175-349438) · `ta`
-
-142 மில்லியன் ரூபாய் பெறுமதியான கொக்கெய்ன் போதைப்பொருளுடன் கட்டுநாயக்க விமான நிலையத்திலிருந்து   "கிரீன் சேனல்" ஊடாக வெளியேற முற்பட்ட கானா நாட்டுப் பெண்ணொருவரை,   சுங்க போதைப்பொருள் கட்டுப்பாட்டு பிரிவின் அதிகாரிகள் குழுவொன்று 29ஆம் திகதி அதிகாலை  கைதுசெய்துள்ளனர். .
-
-அவர் ஆப்பிரிக்க கண்டத்தில் உள்ள கானாவில் வசிக்கும் 41 வயது பெண் என்றும் எச்ஐவி வைரஸால் பாதிக்கப்பட்டவர் என்றும் சுங்க அதிகாரிகள் கண்டுபிடித்துள்ளனர்.
-
-தோஹாவிலிருந்து கட்டார் ஏர்வேஸ் விமானமான KR-658 மூலம் கட்டுநாயக்க விமான நிலையத்தை 29 காலை 01.50 மணியளவில் வந்தடைந்தார்.
-
-அவர் கொண்டு வந்த 02 பயணப் பொதிகளில் 04 கிலோ 068 கிராம் கொக்கெய்ன் போதைப்பொருளை சுங்க போதைப்பொருள் கட்டுப்பாட்டு பிரிவின் அதிகாரிகள் கைப்பற்றினர்.
-
-பின்னர், குறித்த பெண்ணையும் அவர் கொண்டு வந்த போதைப் பொருட்களையும் மேலதிக விசாரணைகளுக்காக பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகளிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/a177c4e7.json)
 
 ---

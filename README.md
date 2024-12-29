@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 22:02:36**
+As of **2024-12-29 22:15:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,816
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,905 (98.9%) of 62,606 articles have been extended.
+61,906 (98.9%) of 62,606 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,21 +60,31 @@ The Chairman of the Authority, K. Makeswaran, has announced that its driver, con
 
 ---
 
-### කාදිනල් හිමි සම්බන්ධ හඬ පටයට කතෝලික සභාවේ මතය
+### The Catholic Church for the voice connected to Cardinal Thero
 
 *2024-12-29 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204834) · `si`
 
-කාදිනල් හිමිගේ ප්‍රතිරූපයට හානිවන අන්දමේ හඬ පටයක් පිළිබඳව නාමල් කුමාර නැමැත්තා පසුගියදා සිදුකළ පැමිණිල්ල පිළිබඳ විමර්ශනයක් සිදුකර සාධාරණය ඉටුකරන ලෙස කතෝලික සභාව පොලිස්පතිවරයාගෙන් ඉල්ලා සිටියි.
+Catholic Church accuses Namal Kumara of damaging Cardinal's image. IGP investigates claim. Archbishop denies allegations. Community condemns accusations as attempt to harm Cardinal's reputation.
 
-අද (29) අගරදගුරු නිල නිවසේ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් කොළඹ අගරදගුරු පදවි ජන සන්නිවේදන අධ්‍යක්ෂ ගරු ජූඩ් ක්‍රිෂාන්ත පියතුමා මේ බව සඳහන් කළේය.
+🟩
 
-කාදිනල් හිමිගේ ප්‍රතිරූපයට හානිවන අන්දමේ හඬ පටයක් සංසරණය වන බව පවසමින් ඒ පිළිබඳ පරික්ෂණයක් කරන්නැයි ඉල්ලා නාමල් කුමාර නැමැත්තා දෙසැම්බර් 24 වනදා ජනාධිපති ලේකම් කාර්යාලයට සහ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි ඉදිරිපත් කළේය.
+The Catholic Church calls the IGP to investigate a complaint lodged by the Cardinal's image.
 
-"නාමල් කුමාර, කදිනල් හිමියන්ට මෙවැනි චෝදනාවක් කිරීම ගැන මුළු කතෝලික ප්‍රජාවම හෙළා දකිනවා. නාමල් කුමාර නැමැත්තා කාගේ හෝ වුමනාවකට සැලසුම් සහගතව කාදිනල් හිමියන්ගේ ප්‍රතිරූපයට හානි කිරීමට ගන්නා උත්සාහයක් ලෙස අපි දකිනවා.
+The Archbishop is holding a news discussion at the Archbishop of the Archbishop is a newspaper in Colombo. Jude Krishantha said this.
 
-...
+Namal Kumara said to the Cadinal's image, claiming to be investigated by the circumstances of the audience to be circulated on December 24.
+
+"The whole Catholic community condemns the accusation for Namal Kumara and Kumara and Kumara. We see Namal Kumara as an attempt to damage the Cardinal Thero's image.
+
+Visit on Nalaka Silva reviewed his plans and arrest him. But preventing it a drama on Nalaka Silva to prevent it and put him in jail. The Passover Bomb exploded in it. Nalaka Silva was arrested in jail. Namal Kumara is the head of this plan. "Clearly, we are clear to us to dance a new battle. The Rajapaksas' revenge is functioning.
+
+So we ask the IGP. This accusation is investigated by the Cardinal Ownership of the Cardinal's image. "
+
+◼️
 
 [Data](articles/1fb2af6f.json)
+
+[Extended Data](ext_articles/1fb2af6f.ext.json)
 
 ---
 

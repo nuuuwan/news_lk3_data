@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 12:16:53**
+As of **2024-12-29 12:27:42**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 10,804
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,874 (99.0%) of 62,523 articles have been extended.
+61,875 (99.0%) of 62,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### දකුණු කොරියානු ගුවන් අනතුරින් මිය ගිය ගණන 122ක් දක්වා ඉහළට
+### South Korean air crash rises to 122
 
 *2024-12-29 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204822) · `si`
 
-දකුණු කොරියාවේ මුආන් ගුවන්තොටුපොළට ගොඩබැස්වීමට උත්සාහ කළ පුද්ගලයින් 181 දෙනෙකු රැගත් මගී ප්‍රවාහන ගුවන්යානයක් අද (29) උදෑසන අනතුරට ලක්වී එහි ගමන්ගත් පිරිසෙන් 122 දෙනෙකු මියගොස් තිබේ.
+South Korean Boeing 737-800 crashes at Muun Airport, killing 181. Plane hit wall during landing, exploded. 2 survivors. Authorities investigating possible bird strike and damaged landing system.
 
-යානයේ ගමන්ගත් ඉතිරි පිරිස සොයා මෙහෙයුමක් ක්‍රියාත්මක නමුත්, දකුණු කොරියානු බලධාරීන් දැනටමත් පවසා ඇත්තේ, ඔවුන්ගේ ජීවිත සම්බන්ධව වැඩි අපේක්ෂා තබාගත නොහැකි බවය.
+🟩
 
-ජේජු ගුවන් සේවාවට අයත් බෝයිං 737 - 800 වර්ගයේ මගී ප්‍රවාහන ගුවන්යානය, තායිලන්තයේ බැංකොක් නුවර සිට දකුණු කොරියාවේ මුආන් ගුවන්තොටුපොළ බලා ගමන් ආරම්භ කර තිබුණේ අද අලුයම් කාලයේදීය.
+A passenger transport flight carrying 181 persons who were trying to land at Muun Airport in South Korea have been killed today (29).
 
-යානයේ සිටි පුද්ගලයින් 181 දෙනාගෙන් 175 දෙනෙක් මගීන් වූ අතර, ඉතිරි 6 දෙනා කාර්ය මණ්ඩල සාමාජිකයින්ය.
+The rest of the travels were operating, but the South Korean authorities have already said that they cannot keep more expectations on their lives.
 
-යානය මුආන් ගුවන්තොටුපොළට ගොඩබස්වමින් සිටියදී එහි වේගය පාලනය කරගැනීමට නොහැකිව ධාවන පථය ඔස්සේ ඇදීගොස් එහි තාප්පයක ගැටී අනතුරට ලක්වුණි.
+Boeing 737 - 800 Boeing from Juju-flight passenger transportation flight, Thailand's Muun Airport in Thailand, was started in the morning.
 
-අනතුරත් සමඟ යානය පුපුරා ගිනිගැනීමට ලක්ව මුළුමනින්ම විනාශ වී තිබුණි.
+Of the 181 people, 175 were passengers, and the remaining 6 were staff members.
 
-මේ සමඟම ඒ ආසන්නයට පැමිණි ගිනිනිවන අංශ කඩිනමින් ගින්න නිවාදැමීමට උත්සාහ කර තිබුණි.
+The plane was punished along the track to control the speed and collided with a wall.
+
+With the accident, the aircraft had exploded and completely destroyed.
+
+At the same time, the failures arriving nearby had tried to resume the fire.
+
+According to the South Korean media, 173 of the 175 passengers were South Koreans, the remaining two were Thailand.
+
+However, only two of the people were redeemed by a massive operation.
 
 ...
 
 [Data](articles/8aa7b602.json)
+
+[Extended Data](ext_articles/8aa7b602.ext.json)
 
 ---
 

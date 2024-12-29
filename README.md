@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-29 15:01:26**
+As of **2024-12-29 15:12:36**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 10,808
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,882 (98.9%) of 62,548 articles have been extended.
+61,883 (98.9%) of 62,548 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-29 (Sunday)
 
-### சுற்றுலா பயணிகளின் வருகை அதிகரிப்பு
+### Increase in attendance of tourists
 
 *2024-12-29 14:51:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுற்றுலா-பயணிகளின்-வருகை-அதிகரிப்பு/76-349443) · `ta`
 
-வருட இறுதி விடுமுறைகளை முன்னிட்டு நாட்டுக்கு வருகை தரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், நாட்டில் பல்வேறு பாகங்களிலிருந்தும் உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பிரயாணிகள் நுவரெலியாவிற்கு  படையெடுத்த வண்ணம் உள்ளனர்.
+Nuwara Eliya sees surge in tourist arrivals during year-end holidays. Domestic and international visitors flock to the area, prompting police to implement special evening traffic measures.
 
-நுவரெலியா பகுதியில் சுற்றுலா பயணிகள் வருகை அதிகரித்துள்ளமையினால் மாலை நேரங்களில் பிரதான வீதிகளில் வாகன நெரிசல்களும் ஏற்பட்டுள்ளன. இதற்காக விசேட போக்குவரத்து ஏற்பாடுகள் செய்து அதிக பொலிஸார் பாதுகாப்புப் பணியில் ஈடுபடுத்தப்படவுள்ளனர்.
+🟩
+
+Domestic and foreign tourists from various parts of the country have invaded Nuwara Eliya as the number of tourists visiting the country has increased due to the final holidays of the year.
+
+Tourist arrivals have increased in the Nuwara Eliya area in the evenings.. For this purpose, special traffic arrangements will be made by the police.
 
 ◼️
 
 [Data](articles/cf86f562.json)
+
+[Extended Data](ext_articles/cf86f562.ext.json)
 
 ---
 

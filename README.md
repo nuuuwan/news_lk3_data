@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 10:02:41**
+As of **2024-12-30 10:15:39**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 10,824
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,935 (98.8%) of 62,665 articles have been extended.
+61,936 (98.8%) of 62,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### ஒருவரை கடத்திச் சென்று கொடூரமாக தாக்கிய கும்பல்
+### Gang
 
 *2024-12-30 09:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவரை-கடத்திச்-சென்று-கொடூரமாக-தாக்கிய-கும்பல்/175-349481) · `ta`
 
-மட்டக்குளி - சமித்புர பகுதியில் உள்ள வீடொன்றிற்குள் நேற்று (29) பிற்பகல் புகுந்த சிலர் அங்கிருந்த நபரை கடத்திச் சென்று தாக்கி, கூரிய ஆயுதங்களால் வெட்டி படுகாயமடைந்த நிலையில், வாழைத்தோட்டம் பகுதியில் விட்டுச் சென்றுள்ளதாக மட்டக்குளிய பொலிஸார் தெரிவிக்கின்றனர்.
+Here's a summary of the text in approximately 200 characters:
 
-கடத்தலுக்காக முச்சக்கர வண்டியில் ஆறு பேர் வந்ததாக கூறப்பட்டாலும், முச்சக்கர வண்டிகளிலும் மோட்டார் சைக்கிள்களிலும் அதிகமானோர் வந்துள்ளதாக தகவல் கிடைத்துள்ளதாக மூத்த பொலிஸ் அதிகாரி தெரிவித்தார்.
+
+
+Mattakkuliya police report: Multiple individuals entered a house in Mattakkuliya-Samitpura area yesterday afternoon. Six people arrived in three-wheeler for kidnapping, but more were seen on motorcycles. The man was abducted, assaulted, and cut with sharp weapons.
+
+🟩
+
+According to the Mattakkuliya police, some people who entered a house in the Mattakkuli -Samitpura area yesterday afternoon (29) after the man was abducted and assaulted and cut off with sharp weapons.
+
+Senior police official said that although six people were reported to have arrived in the three -wheeler for kidnapping, there were more people in three wheelers and motorcycles.
 
 ◼️
 
 [Data](articles/ebd7cc61.json)
+
+[Extended Data](ext_articles/ebd7cc61.ext.json)
 
 ---
 

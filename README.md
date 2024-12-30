@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 16:43:25**
+As of **2024-12-30 17:13:01**
 
 ## Newspaper Stats
 
-*Scraped **62,739** Articles*
+*Scraped **62,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,991
+adalk | 5,992
 adaderanalk | 7,664
 tamilmirrorlk | 8,999
 virakesarilk | 10,428
@@ -26,35 +26,49 @@ adaderanasinhalalk | 10,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,949 (98.7%) of 62,739 articles have been extended.
+61,950 (98.7%) of 62,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### රට කජු ව්‍යාපාරිකයා අමෙරිකාවේ ජනාධිපති පුටුවට ආ හැටි
+### How the Country Calen Businessman returns to the President of the United States
 
 *2024-12-30 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204861) · `si`
 
-අමෙරිකාවේ 39 වැනි ජනාධිපතිවරයා වූ නොබෙල් සාම ත්‍යාගලාභී ජිමී කාටර් අභාවප්‍රාප්ත වී තිබේ.
+Here's a summary of 200 characters:
 
-ජිමී කාටර් ඉතිහාසයට එක්වන්නේ අමෙරිකානු ඉතිහාසයේ වැඩිම කාලයක් ජීවත් වූ ජනාධිපතිවරයා ලෙසය.
 
-ජේම්ස් අර්ල් කාටර් ජූනියර් 1924 ඔක්තෝබර් පළමුවැනිදා උපත ලැබුවේ අමෙරිකාවේ ජෝර්ජියා හි ප්ලේන්ස් ගම්මානයේදීය.
 
-ඔහුගේ පියා රටකජු වගාකරුවෙක් වූ ජේම්ස් කාටර් වන අතර මව ලිලියන් නම් වූ හෙදියක්.
+Jimmy Carter: Nobel Peace Prize winner, 39th U.S. President (1977-81). Born Oct 1, 1924, in Plains, GA. Served as governor before presidency. Brokered Camp David Accords. Lost re-election in 1980. Post-presidency focused on humanitarian work and peace initiatives. First U.S. president to be awarded the Nobel Peace Prize since Woodrow Wilson in 1920.
 
-පාසලේ ජනප්‍රිය පැසි පන්දු ක්‍රීඩකයෙක් වූ කාටර් අමෙරිකානු නාවික හමුදා සෙබළෙක් ලෙසද සේවය කළේය.
+🟩
 
-සිය සොහොයුරියගේ මිතුරිය වන රොසලින් සමඟ විවාපත් වූ ඔහු, රටකජු වගාකරුවෙක් ලෙස වෘත්තිය දිවිය ඇරඹුවේ සිය පියාගේ අභාවයෙන් පසුව ඔහුගේ අඩිපාරේම යමින්.
+The Nobel Peace Prize Prize Prize License, the President of the United States, has passed away.
 
-නමුත් නොසිතූ ලෙස ලියැවී තිබූ අනාගතය භාරගනිමින් ප්‍රාදේශීය මට්ටමේ දේශපාලනයට පිවිසුණු කාටර්, ප්‍රාන්ත සෙනෙට් සභිකයෙක් ලෙස කටයුතු කරමින්, ඉන් අනතුරුව ජෝර්ජියා ආණ්ඩුකාරවරයා ලෙස පත්වුණි.
+Jimmy Carter joins history as the President who lived in American history.
 
-ඉන් ලද පන්නරයෙන් ජනාධිපති සිහිනය දුටු ජිමී කාටර්, 1976 අමෙරිකානු ජනාධිපතිවරණයට පිවිසියේ ඩිමොක්‍රොටික් පක්ෂය නියෝජනය කරමින්.
+Junear, Juneier, was born on October 1, 1924 at Playing Village in Georgia.
+
+His father is a peanut grower James Carter and a nurse named the mother Lillian.
+
+Carrient, a popular piece of school, also served as a US Naval Society.
+
+He was open to his sister, Roschin, and began career as a peanut grower, and the career began to go on his footsteps after his father's death.
+
+However, as a state, state-owned Senator, became the Governor of the Governor, acquired the future.
+
+Jimmy Carter, who had seen the president's dream, was attending the US presidential election in 1976.
+
+The intervention of Jimmy centered Israeli clash to the Middle East who was a headache for the world is still privileged.
+
+It is because of his intervention, the Camp David Peace Agreement.
 
 ...
 
 [Data](articles/c8ebe69f.json)
+
+[Extended Data](ext_articles/c8ebe69f.ext.json)
 
 ---
 
@@ -155,6 +169,24 @@ In addition to his batting exploits, Root also provided an extra spin option, an
 ...
 
 [Data](articles/58a99359.json)
+
+---
+
+### තරගයක් ඉතිරිව තිබියදී විස්සයි 20 තරගාවලියේ ජය නවසීලන්තයට
+
+*2024-12-30 15:35:51* · [`adalk`](https://www.ada.lk/sports/තරගයක්-ඉතිරිව-තිබියදී-විස්සයි-20-තරගාවලියේ-ජය-නවසීලන්තයට/9-413914) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායමට එරෙහිව පැවති දෙවැනි විස්සයි 20 තරගයෙන් ලකුණු 45ක ජයක් වාර්තා කිරීමට නවසීලන්ත කණ්ඩායම මීට සුළු මොහොතකට පෙර සහත් විය.
+
+ඒ අනුව දෙරට අතර පැවැත්වෙන තරග තුනකින් සමන්විත විස්සයි 20 තරගාවලියේ තවත් එක් තරගයක් ඉතිරිව තිබියදී තරගාවලිය ජයග්‍රහණය කිරීමට නවසීලන්ත කණ්ඩායම සමත් විය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 186ක් රැස් කළේය.
+
+ඒ අනුව ජයග්‍රාහී ලකුණු 187ක ඉලක්කයක් හඹා ගිය ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 19යි එක් පන්දුවක් අවසානයේ සියලුදෙනා දැවී රැස් කරගත හැකි වූයේ ලකුණු 141 පමණී.
+
+◼️
+
+[Data](articles/c3aca66c.json)
 
 ---
 
@@ -2025,19 +2057,5 @@ In the second decade of the 21st Century, genocide is being televised.
 ...
 
 [Data](articles/ba5b35a9.json)
-
----
-
-### It would be useful to consider how far Gajendrakumar Ponnambalam, who has been an MP for a long time has been able to move forward and reach  his goals by adopting his ideologically stubborn political stance so far.
-
-*2024-12-30 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85273) · `en`
-
-There was a stir in political circles when Indian Prime Minister Narendra Modi, who met with Sri Lankan President Anura Kumara Dissanayake during his recent official visit to India and had a joint press meeting in New Delhi after talks with him, failed to say anything about the 13th Amendment (13A) to the Sri Lankan Constitution.
-
-Sri Lankan Tamil political parties and their leaders did not show as much concern about it as the media and political observers did. Modi, who had always emphasised the need for the Sri Lankan Government to fully implement the 13th Amendment to the Constitution in his press conferences with previous Sri Lankan Presidents, avoided it this time, which seemed particularly different.
-
-...
-
-[Data](articles/52ed1146.json)
 
 ---

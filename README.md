@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 21:13:20**
+As of **2024-12-30 21:27:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,956 (98.7%) of 62,773 articles have been extended.
+61,957 (98.7%) of 62,773 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -136,23 +136,35 @@ President Anura Kumara Dissanayake has issued a directive to the relevant author
 
 ---
 
-### බන්ධනාගාරවල සිදුවන මත්ද්‍රව්‍ය ජාවාරම් මැඩ පැවැත්වීමට ජනපතිගෙන් උපදෙස්
+### President instructs to cure drug trafficking in prisons
 
 *2024-12-30 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204870) · `si`
 
-බන්ධනාගාර තුළ සිදුවන මත්ද්‍රව්‍ය ජාවාරම් සහ පාතාලය සම්බන්ධ කටයුතු මැඩ පැවැත්වීමට පියවර ගන්නා ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා නිලධාරීන්ට උපදෙස් දී තිබේ.
+Here's a summary of 200 characters:
 
-ජනාධිපතිවරයා එම උපදෙස් ලබා දුන්නේ ජනාධිපති කාර්යාලයේ අද (30) පැවති සාකච්ඡාවකට එක්වෙමිනි.
 
-මත්ද්‍රව්‍ය සහ පාතාලය සම්බන්ධ රැඳවියන්ගේ නඩු කටයුතු කඩිනමින් නිම කරන ලෙස මෙහිදී නිලධාරීන්ට දැනුම් දුන් ජනාධිපතිවරයා ඒ සඳහා මාර්ගගත ක්‍රමය අනුගමනය කිරීමේ හැකියාව ද පෙන්වා දුන්නේය.
 
-මාර්ගගත ක්‍රමයට නඩු කටයුතු සිදු කිරීමේ දී මතු වන දුෂ්කරතා හඳුනාගෙන ඊට අදාළ යටිතල පහසුකම් වැඩිදියුණු කරන ලෙසද ජනාධිපතිවරයා වැඩිදුරටත් දැනුම් දුන් බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+"President Anura Kumara Dissanayake orders crackdown on prison drug trafficking & underworld. Instructs officials to expedite detainee processing & address online system issues. Discusses prison irregularities & vacant positions at Government Analyst's Department."
 
-බන්ධනාගාර තුළ සිදුවන අක්‍රමිකතා සඳහා නිලධාරීන්ගේද සම්බන්ධයක් ඇති බවට මතු වන චෝදනා පිළිබඳ මෙහිදී සාකච්ඡාවට ලක් කෙරුණු අතර  ඊට සම්බන්ධ නිලධාරීන්ට ආයතනයේ විනය ක්‍රියා මාර්ගවලට එහා ගොස් නීතිමය ක්‍රියාමාර්ග ගන්නා ලෙස ජනාධිපතිවරයා උපදෙස් දෙනු ලැබීය.
+🟩
 
-...
+President Anura Kumara Dissanayake has instructed the officials to crush the drug trafficking and underworld in prisons.
+
+The President gave these instructions at a discussion held today (30).
+
+The President also informed the officials to complete the proceedings of the detainees of the inmates and underworld.
+
+The President further stated that the difficulties of the online system and the President have also informed the promotion to improve the relevant infrastructure.
+
+The presidential discussions were discussed that the officials had a connection with the irregularities in prisons.
+
+The discussion focused on the existing vacancies at the Government Analyst's Department and discussed the immediate filling of these vacancies.
+
+◼️
 
 [Data](articles/643b2646.json)
+
+[Extended Data](ext_articles/643b2646.ext.json)
 
 ---
 

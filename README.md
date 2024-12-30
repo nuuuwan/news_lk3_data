@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 09:04:30**
+As of **2024-12-30 09:16:46**
 
 ## Newspaper Stats
 
-*Scraped **62,657** Articles*
+*Scraped **62,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,110 @@ islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
 adalk | 5,981
-adaderanalk | 7,649
+adaderanalk | 7,651
 tamilmirrorlk | 8,988
 virakesarilk | 10,409
-adaderanasinhalalk | 10,821
+adaderanasinhalalk | 10,824
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,933 (98.8%) of 62,657 articles have been extended.
+61,933 (98.8%) of 62,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### විදුලි ගාස්තු සංශෝධනය ගැන ඌව පළාතේ මහජන අදහස් විමසීම අද සිට
+
+*2024-12-30 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204844) · `si`
+
+ලංකා විදුලි බල මණ්ඩලය ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ මහජන උපයෝගිතා කොමිෂන් සභාව විසින් මහජන අදහස් විමසීම අද (30) ඌව පළාත කේන්ද්‍ර කරගනිමින් සිදුකිරීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/ae4bb250.json)
+
+---
+
+### Former US president and Nobel Peace Prize winner Jimmy Carter dies at 100
+
+*2024-12-30 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104573/former-us-president-and-nobel-peace-prize-winner-jimmy-carter-dies-at-100) · `en`
+
+Jimmy Carter, the earnest Georgia peanut farmer who as U.S. president struggled with a bad economy and the Iran hostage crisis but brokered peace between Israel and Egypt and later received the Nobel Peace Prize for his humanitarian work, died at his home in Plains, Georgia, on Sunday. He was 100.
+
+Carter, a Democrat, became president in January 1977 after defeating incumbent Republican President Gerald Ford in the 1976 election. His one-term presidency was marked by the highs of the 1978 Camp David accords between Israel and Egypt, bringing some stability to the Middle East.
+
+But it was also dogged by an economic recession, persistent unpopularity and the Iran hostage crisis that consumed his final 444 days in office. Carter ran for re-election in 1980 but was swept from office in a landslide as voters embraced Republican challenger Ronald Reagan, the former actor and California governor.
+
+...
+
+[Data](articles/7a933930.json)
+
+---
+
+### Showery weather conditions expected to enhance from today
+
+*2024-12-30 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104572/showery-weather-conditions-expected-to-enhance-from-today) · `en`
+
+The Meteorology Department says that showery weather condition is expected to enhance to some extent over Northern, North-central, Eastern and Uva provinces from today (30) for next few days.
+
+Showers or thundershowers may occur at times in Northern, North-Central, Eastern and Uva provinces and in Matale district. Fairly heavy showers above 75 mm can be expected at some places in these areas.
+
+Showers or thundershowers will occur at several places elsewhere during the afternoon or night. Fairly heavy showers about 75 mm can be expected at some places in Western, Sabaragamuwa and Southern provinces.
+
+Fairly strong winds of about 30-35 kmph can be expected at times over Northern, Eastern and North-central provinces, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Southern provinces during the morning.
+
+...
+
+[Data](articles/8fc49398.json)
+
+---
+
+### 2025 පාසල් පවත්වන දින ගණනේ වෙනසක්
+
+*2024-12-30 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204843) · `si`
+
+රජය වසරකට පාසල් පවත්වන දින ගණන 210ක් වුවද ලබන වසරේ දී එය දින 181ක් දක්වා අඩු කිරීමට අධ්‍යාපන අමාත්‍යංශය තීරණය කර ඇති බව සඳහන්ය.
+
+රජයේ නිවාඩු දින විශාල සංඛ්‍යාවක් මෙන්ම පාසල් වල පළමු වාරය ආරම්භ කිරීම ප්‍රමාද වීමත් සමග රජයේ පාසල් රජයේ අනුමත පෞද්ගලික පාසල් සහ පිරිවෙන්වල සිසුන්ගේ වාර්ෂික පාසල් අධ්‍යාපනය සඳහා පැමිණීමේ දින මෙලෙස අඩු කර තිබේ.
+
+ඒ අනුව 2024 අධ්‍යන වර්ෂය සඳහා වන තුන් වන වාරය සම්පුර්ණ කිරීම සඳහා ජනවාරි 02 වනදා සිය 24 වනදා දක්වා පළමු සති 03 පාසල් පැවැත්වීමට නියමිතය.
+
+ලබන වසර සඳහා වන පාසල් වර්ෂය තාක්ෂණික වශයෙන් ජනවාරි 27 වන දින ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+එමෙන්ම ලබන වර්ෂය සඳහා රජයේ නිවාඩු දින 26ක් ඇති අතර, ඉන් දින 4ක් පමණක් සතිඅන්තයේ යෙදී තිබේ.
+
+අනෙක් සියල්ල සතියේ දිනවලට යෙදී ඇති බැවින් දින 210ක කාලයක් පාසල් පැවැත්වීමට නොහැකි වීමත් සමග මෙලෙස පාසල් පැවැත්වීමේ දින ගණන 181ක් දක්වා සීමා කර තිබේ.
+
+◼️
+
+[Data](articles/020760b5.json)
+
+---
+
+### ක්ලීන් ශ්‍රී ලංකා පළමු වනදා සිට වැඩ අරඹයි
+
+*2024-12-30 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204842) · `si`
+
+රජය විසින් ක්‍රියාත්මක කිරීමට නියමිත "ක්ලීන් ශ්‍රී ලංකා" වැඩසටහන එළැඹෙන 01වනදා ආරම්භ කිරීමට නියමිතව තිබේ.
+
+මෙම වැඩසටහන ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ආරම්භ වන බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+"ක්ලීන් ශ්‍රී ලංකා" වැඩසටහන ක්‍රියාත්මක කිරීම සඳහා ජනාධිපති කාර්ය සාධක බළකායක් පසුගිය දා ස්ථාපිත කළේය.
+
+ජනාධිපති ලේකම් ආචාර්ය එන්. එස්. කුමානායක, වැඩබලන පොලිස්පති සහ ත්‍රිවිධ හමුදාපතිවරුන් ඇතුළු සාමාජිකයන් 18 දෙනෙකුගෙන් එම ජනාධිපති කාර්ය සාධක බළකායට ඇතුළත් කර තිබුණි.
+
+"ක්ලීන් ශ්‍රී ලංකා" වැඩසටහන නියමිත කාලසීමාව තුළ සැලසුම් කිරීම, මඟපෙන්වීම, ක්‍රියාත්මක කිරීම, ප්‍රගතිය සමාලෝචනය කිරීම සහ සම්පූර්ණ කිරීම මෙම ජනාධිපති කාර්ය සාධක බළකායට පැවරී ඇති වගකීම් වේ.
+
+◼️
+
+[Data](articles/79e2bc14.json)
+
+---
 
 ### Hint of the next Army Commander
 
@@ -1975,91 +2065,5 @@ The suspect was arrested by the Criminal Investigation Department (CID) on charg
 ...
 
 [Data](articles/86f447e3.json)
-
----
-
-### Ex-Minister Manusha Nanayakkara’s brother remanded
-
-*2024-12-29 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104565/ex-minister-manusha-nanayakkaras-brother-remanded) · `en`
-
-The brother of former Foreign Employment Minister Manusha Nanayakkara has been ordered to be remanded until January 06, 2025, after being produced before the Gampaha Magistrate’s Court.
-
-The ex-Minister’s brother, Thisara Iroshana Nanayakkara, was arrested by the Criminal Investigation Department (CID) on Saturday (28) in connection with a complaint related to alleged financial fraud.
-
-The arrest was made in the Bibile area, according to police.
-
-Police said that the arrested suspect, Thisara Iroshana Nanayakkara, has allegedly defrauded around Rs. 3 million from individuals after promising employment opportunities in Finland.
-
-◼️
-
-[Data](articles/7ad59776.json)
-
----
-
-### Sri Lanka extends condolences to South Korea over deadly plane crash
-
-*2024-12-29 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104564/sri-lanka-extends-condolences-to-south-korea-over-deadly-plane-crash) · `en`
-
-The Government of Sri Lanka has conveyed its heartfelt condolences to South Korea following the tragic crash of Jeju Air flight 7C 2216 at Muan Airport on December 29, killing over 160 passengers.
-
-Issuing an official statement, Sri Lanka’s Ministry of Foreign Affairs expressed deep sorrow over the loss of lives and injuries caused by the incident.
-
-“The Government of Sri Lanka conveys heartfelt condolences to the families of those who lost their lives in this tragic incident. May they find fortitude to overcome this loss,” the statement read.
-
-The Ministry also expressed hope for the swift recovery of those injured in the crash, stating, “Our thoughts and prayers will remain with those injured for a full and speedy recovery.”
-
-...
-
-[Data](articles/4a6f082a.json)
-
----
-
-### அரசியலமைப்புக்கான பதின்மூன்றாவது திருத்தத்தை  என்ன செய்வது?
-
-*2024-12-29 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/202472) · `ta`
-
-விடுதலை புலிகளின் தலைவர்  பிரபாகரன் 13 ஆவது திருத்தத்தை மாத்திரமல்ல, பின்னரான காலப்பகுதியில் முன்னெடுக்கப்பட்ட சகல சமாதான முயற்சிகளையும்  நிராகரிப்பதற்கு  அவர் தரப்பில் வலுவான காரணம் இருந்தது. அதாவது ஆயுதப் போராட்டத்தின் மூலம் தனது இலக்கை அடையமுடியும் என்று அவர் நம்பினார். அரசாங்க படைகளுக்கு சவால் விடுக்கக்கூடியதாக ஆயுதமேந்திய இயக்கம் ஒன்று அவரிடம் இருந்தது. இறுதியில் உள்நாட்டுப்போர் எவ்வாறு முடிவுக்கு வந்தது என்றது வேறு விடயம்.
-
-◼️
-
-[Data](articles/43bd2228.json)
-
----
-
-### ஐஸ் போதைப்பொருள், திருடப்பட்ட 9 முச்சக்கரவண்டிகளுடன் ஐவர் கைது
-
-*2024-12-29 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202437) · `ta`
-
-கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் கடந்த 27ஆம் திகதி ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்ட சந்தேக நபர் ஒருவரிடம் மேற்கொள்ளப்பட்ட விசாரணையின்போது 09 முச்சக்கரவண்டிகள் மற்றும் திருடப்பட்ட பொருட்களை வைத்திருந்த மேலும் நான்கு சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-கொழும்பு மத்தியப் பிரிவு குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகளுக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின்போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்கள் நேற்று சனிக்கிழமை (28)  சீதுவ, மாளிகாவத்தை, கிராண்ட்பாஸ் மற்றும் வெல்லம்பிட்டி ஆகிய பொலிஸ் பிரிவுகளுக்குட்பட்ட பிரதேசங்களில் கைது செய்யப்பட்டு கோட்டை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட நான்கு சந்தேக நபர்கள் 31, 38, 51 மற்றும் 54 வயதுடைய சீதுவ, ஒருகொடவத்தை, கொழும்பு 10 மற்றும்  14 ஆகிய பகுதிகளைச் சேர்ந்தவர்கள் ஆவர்.
-
-கைப்பற்றப்பட்ட முச்சக்கரவண்டிகள் கோட்டை, கிரிபத் கொடை, வத்தளை மற்றும் பொரளை ஆகிய பொலிஸ் பிரிவுகளில் திருடப்பட்டவை என்பது விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/de42a805.json)
-
----
-
-### චීනයේ ඉදි වෙන අලුත්ම බන්ධනාගාර
-
-*2024-12-29 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204827) · `si`
-
-චීනයේ විශේෂිත රැඳවුම් පහසුකම් සහිත නව බන්ධනාගාර 200කට වැඩි සංඛ්‍යාවක් ඉදිකිරීමට එරට රජය තීරණය කර තිබේ.
-
-දූෂණ විරෝධී මෙහෙයුම වේගවත් කිරීමට චීන ජනාධිපති ෂී ජින්පින්ග් ගත් තීරණයට අනුව කටයුතු කිරීම වෙනුවෙන් මෙම බන්ධනාගාර ඉදිකෙරෙන බව සඳහන් වේ.
-
-එහිදී අත්අඩංගුවට ගන්නා සැකකරුවන් නීති උපදේශකයින් හෝ පවුලේ සාමාජිකයින් හමුවීමකින් තොරව මාස 06ක කාලයක් රඳවා තැබීම සඳහා අදාළ බන්ධනාගාර ඉදිකිරීමට නියමිත බව විදෙස් වාර්තා පවසයි.
-
-ලියුෂි ලෙස හැඳින්වූ මෙම බන්ධනාගාර 2018 වසරේ දී ද ඉදිකිරීමට පියවර ගෙන තිබූ අතර අත්අඩංගුවට ගන්නා පුද්ගලයින් එම මධ්‍යස්ථානවල දී විවිධ වද හිංසනවලට ලක්කරන බව ද චෝදනා එල්ල වී තිබුණි.
-
-◼️
-
-[Data](articles/90cce53d.json)
 
 ---

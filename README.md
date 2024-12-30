@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 20:27:30**
+As of **2024-12-30 21:02:09**
 
 ## Newspaper Stats
 
-*Scraped **62,772** Articles*
+*Scraped **62,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,996
+adalk | 5,997
 adaderanalk | 7,671
 tamilmirrorlk | 9,003
 virakesarilk | 10,436
@@ -26,27 +26,33 @@ adaderanasinhalalk | 10,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,954 (98.7%) of 62,772 articles have been extended.
+61,955 (98.7%) of 62,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### கொழும்பில் நாளை விசேட போக்குவரத்து திட்டம்
+### Special Transport Plan in Colombo Tomorrow
 
 *2024-12-30 19:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-விசேட-போக்குவரத்து-திட்டம்/175-349519) · `ta`
 
-2025 ஆம் ஆண்டு புத்தாண்டு தினத்தை முன்னிட்டு கொழும்பு மற்றும் காலி முகத்திடலை நோக்கிச் செல்லும் வீதிப் போக்குவரத்தில் எதிர்பார்க்கப்படும் வாகன நெரிசல் அதிகரிப்பை நிர்வகிப்பதற்கான விசேட போக்குவரத்துத் திட்டத்தை இலங்கை பொலிஸார் டிசம்பர் 31 ஆம் திகதி நடைமுறைப்படுத்தவுள்ளனர்.
+Colombo traffic plan: Police restricts vehicle parking at Galle Face Center Road. Free/private parking available in Beta, Colombo Fort, Kombani Road, Maradana, Kaluppitti, Bambalapitiya, Cinnamon areas. Special measures for New Year 2025 celebrations.
 
-2025 ஆம் ஆண்டின் வருகையைக் கொண்டாட மக்கள் கூடுவதால், கொழும்பு மற்றும் அதனைச் சுற்றியுள்ள பகுதிகளில் இருந்து கணிசமான போக்குவரத்து நெரிசல் எதிர்பார்க்கப்படுகிறது.
+🟩
 
-இதனை நிவர்த்தி செய்யும் வகையில், பெட்டா, கொழும்பு கோட்டை, கொம்பனி வீதி, மருதானை, கொள்ளுப்பிட்டி, பம்பலப்பிட்டி மற்றும் கறுவாத்தோட்டம் உள்ளிட்ட முக்கிய பிரதேசங்களை உள்ளடக்கிய விசேட போக்குவரத்து திட்டத்தை பொலிஸார் வகுத்துள்ளனர்.
+The Sri Lankan police will implement a special traffic plan to manage the expected traffic congestion on the road to Colombo and Galle Muhammad on the New Year of 2025.
 
-காலி முகத்திடல் மைய வீதியில் நியமிக்கப்பட்ட வாகனத் தரிப்பிடங்களில் வாகனங்களை நிறுத்துவது தடைசெய்யப்படும். அனைத்து வாகனங்களும் மேற்குறிப்பிட்ட பொலிஸ் பிரிவுகளுக்குள் இருக்கும் இலவச அல்லது தனியார் பார்க்கிங் வசதிகளுக்கு அனுப்பப்படும்.
+Since people gather to celebrate the coming of 2025, significant traffic congestion is expected from Colombo and its surrounding areas.
+
+To address this, the police have set up a special traffic project including Beta, Colombo Fort, Kombani Road, Maradana, Kaluppitti, Bambalapitiya and Cinnamon.
+
+Possible parking in vehicles designated at Galle Face Center Road will be prohibited. All vehicles will be sent to free or private parking facilities within the above police units.
 
 ◼️
 
 [Data](articles/7c87df79.json)
+
+[Extended Data](ext_articles/7c87df79.ext.json)
 
 ---
 
@@ -241,6 +247,26 @@ Speaking further on this matter, the Minister also mentioned that they expect to
 ◼️
 
 [Data](articles/fde9c355.json)
+
+---
+
+### මඩකලපුවෙන් අල්ලාගත් යෝධ කිඹුලා
+
+*2024-12-30 18:09:17* · [`adalk`](https://www.ada.lk/breaking_news/මඩකලපුවෙන්-අල්ලාගත්-යෝධ-කිඹුලා/11-413921) · `si`
+
+කලක සිට මහජනතාවට විශාල හිංසා  කරමින් එළුවන්, එළදෙනුන්, කුකුළන් මිනිසුන් රැසක් මරා දැමූ අඩි 20ක් පමණ දිග යෝධ කිඹුලෙකු අද අලුයම මඩකලපුව  මුලස්ථාන පොලිස් වසමට අයත් පුලියන්තීවු වාවිකරේ පාර 2 ප්‍රදේශයේදී පණපිටින් අල්ලාගෙන තිබේ.
+
+පසුගිය දින කිහිපයේ මඩකලපුව ප්‍රදේශයේ ගඟේ දක්නට ලැබුණු මෙම කිඹුලා අද අලුයම 13.00 ට පමණ ගොඩබිමට පැමිණියා.   එවිටම මහජනතාව කිඹුලා අල්ලා ගත්හ.
+
+කිඹුලා ඇල්ලීමෙන් පසු කිඹුලා බැලීමට විශාල පිරිසක් රැස්ව සිටි අතර මඩකලපුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ප්‍රභූ කන්දසාමි මහතාද එම ස්ථානයට පැමිණියේය.
+
+අල්ලා ගත් කිඹුලා දිස්ත්‍රික් වනජීවී  දෙපාර්තමේන්තු නිලධාරීන් වෙත භාර දෙන ලදී.
+
+පසුගිය දා ඇති වූ ගංවතුර තත්ත්වයත් සමඟ මඩකලපුව ජල පෝෂක ප්‍රදේශයේ කිඹුලන් බෝවීම ඉහළ ගොස් තිබීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/6f2e8515.json)
 
 ---
 
@@ -1969,35 +1995,5 @@ The more liquid S&P SL20 was up 1.69 percent, or 78.81 points, at 4,745.
 ◼️
 
 [Data](articles/8ed28d8c.json)
-
----
-
-### Will increase the weather with the rain again
-
-*2024-12-30 09:14:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-மழையுடனான-வானிலை-அதிகரிக்கும்/175-349479) · `ta`
-
-Increased rainfall forecasted for northern, eastern, and Uva provinces. Thunderstorms expected in North Central, Eastern, and Uva provinces. Heavy rains possible in upper, Sabaragamuwa, and Southern Provinces. Wind gusts up to 30-35 km/h in northern regions. Snowfall reported in upper, Sabaragamuwa, Central, and Southern Provinces. Public advised to take precautions against lightning strikes.
-
-🟩
-
-The Department of Meteorology has predicted a slight increase in rainfall in the country's northern, north, eastern, eastern and Uva provinces in the next few days from today (30).
-
-Rainfall or thunderstorms will occur in the North, North Central, Eastern and Uva provinces and the Matale district.
-
-In other areas, there is widespread rain or thunderstorm in the evening or night.
-
-Heavy rains are likely to occur in some areas in the upper, Sabaragamuwa and Southern Provinces.
-
-In the northern, eastern and northern provinces of the country, the wind can occasionally blow up to 30-35 km per hour.
-
-In the morning, there is a snowfall in some parts of the upper, Sabaragamuwa, Central and Southern Provinces.
-
-The Department of Meteorology has urged the public to take necessary steps to reduce the dangers of lightning strikes in the area with thunderstorms and thunderstorms.. Remble
-
-◼️
-
-[Data](articles/5ecd5d06.json)
-
-[Extended Data](ext_articles/5ecd5d06.ext.json)
 
 ---

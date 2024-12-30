@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 12:03:36**
+As of **2024-12-30 12:18:06**
 
 ## Newspaper Stats
 
-*Scraped **62,683** Articles*
+*Scraped **62,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,157 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,984
-adaderanalk | 7,651
-tamilmirrorlk | 8,992
-virakesarilk | 10,413
-adaderanasinhalalk | 10,827
+adalk | 5,985
+adaderanalk | 7,659
+tamilmirrorlk | 8,993
+virakesarilk | 10,418
+adaderanasinhalalk | 10,830
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,939 (98.8%) of 62,683 articles have been extended.
+61,939 (98.8%) of 62,701 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### යල කන්නයේ වගා හානි වන්දි මුදල් ගැන දැනුම්දීමක්
+
+*2024-12-30 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204850) · `si`
+
+2024 යල කන්නයට අදාළව ගංවතුර, නියඟ සහ වල් අලි උවඳුරු මඟින් සිදු වූ වගා හානිවලට අදාළව සියලු වන්දි ලබන ජනවාරි 05 වන දිනට පෙර ගෙවා අවසන් කිරීමට කටයුතු යොදා තිබේ.
+
+කෘෂිකර්ම සහ ගොවිජන රක්ෂණ මණ්ඩලය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+මෙහිදී 2024 මාර්තු මස සිට ඔක්තෝම්බර් කාලය දක්වාම යල කන්නයට අදාළව විවිධ හේතූන් මත, වී වගාව ඇතුළු අනෙකුත් වගාවන් විනාශ වීමට ලක් විය. විශේෂයෙන්ම නියඟ, ගංවතුර ආදී තත්ත්වයන් සහ වල් අලි හානි විශේෂ විය.
+
+ජනවාරි 05 වන විටදී සියලුම දිස්ත්‍රික්කවලට වගා හානි ගෙවීමට කටයුතු යොදා ඇති අතර, මේ වන විට 80% කට ආසන්න ගොවීන් ප්‍රමාණයකට රුපියල් මිලියන 80කට ආසන්න මුදලක් ගෙවීමට හැකියාව ලැබී ඇති බව ද අදාළ නිවේදනයේ දැක්වේ.
+
+ඉතිරි ගොවීන් සියලුදෙනාටම ජනවාරි 05 දින වන විටදී අදාළ වන්දි මුදලින් ගෙවීමට කටයුතු කර ඇත.
+
+මෙහිදී එම වන්දි මුදල ඍජුවම ගොවියාගේ බැංකු ගිණුමට බැර කිරීමට කටයුතු යොදා ඇති අතර, මෙහිදී වන්දි මුදල් ඉතාම ප්‍රවේසම් සහිතව හා විනිවිඳව ගෙවීමට කටයුතු සලසා ඇති බව ද ස﻿ඳහන් වේ.
+
+...
+
+[Data](articles/c0b4bc52.json)
+
+---
+
+### கர்தினால் ரஞ்சித் பற்றிய ஒலிப்பதிவால் சர்ச்சை
+
+*2024-12-30 12:03:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினால்-ரஞ்சித்-பற்றிய-ஒலிப்பதிவால்-சர்ச்சை/175-349495) · `ta`
+
+ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதலின் பின்னர் பிரபலமாகிய நாமல் குமார, கொழும்பு பேராயர் கர்தினால் ரஞ்சித் குறித்து சமூக ஊடகங்களில் வெளியான செய்திகள் தொடர்பில் ஜனாதிபதி செயலகத்தில் முறைப்பாடு செய்ததையடுத்து மீண்டும் சர்ச்சைக்குள்ளாகியுள்ளார்.
+
+தேசிய கத்தோலிக்க தொடர்பாடல் பணிப்பாளர் அருட்தந்தை ஜூட் கிரிசாந்த சமூக ஊடகங்களில் வெளியான தகவல் தொடர்பில் கொழும்பு குற்றத்தடுப்பு பிரிவில் (சிஐடி) முறைப்பாடு செய்துள்ளார்.
+
+இது தொடர்பில் டெய்லி மிரர் அருட்தந்தை ஜூட் கிரிசாந்தவை வினவிய போது, கர்தினாலிடம் CID வாக்குமூலம் பதிவு செய்ததாக அவர் உறுதிப்படுத்தினார்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் ரஞ்சன் ராமநாயக்கவின் வசம் உள்ள ஒரு ஒலிப்பதிவு கார்டினல் ரஞ்சித்தின் நடத்தை குறித்து விமர்சிப்பதாக நாமல் குமார கடந்த வாரம் ஊடகவியலாளர்களிடம் தெரிவித்தார். இது தொடர்பில் ஜனாதிபதி செயலகத்தில் முறைப்பாடு செய்த போதே அவர் மேற்கண்டவாறு தெரிவித்தார். “எனது இச் செயற்பாடு கர்தினாலைப் பாதுகாப்பதே தவிர, அவர் மீது சேறு பூசுவது அல்ல,” என்று அவர் மேலும் கூறினார்.
+
+...
+
+[Data](articles/0fd37988.json)
+
+---
+
+### பாணந்துறையில் 10 இலட்சம் ரூபா பெறுமதியான போதைப்பொருட்களுடன் இளைஞன் கைது!
+
+*2024-12-30 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202525) · `ta`
+
+பாணந்துறை, மாலமுல்ல, கொங்கஹகொட்டுவ பிரதேசத்தில் போதை மாத்திரைகள் மற்றும் ஐஸ் போதைப்பொருட்களுடன் இளைஞன் ஒருவன் கைது செய்யப்பட்டுள்ளதாக ஹிரண பொலிஸார் தெரிவித்தனர்.
+
+ஹிரண பொலிஸாருக்குக் கிடைத்த தகவலின் பேரில் கொங்கஹகொட்டுவ பிரதேசத்தில் உள்ள வீடொன்றில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+இதன்போது, குறித்த வீட்டினுள் அட்டைப்பெட்டியில் மிகவும் சூட்சுமமான முறையில் மறைத்து வைக்கப்பட்டிருந்த 11,080 மில்லிகிராம் ஐஸ் போதைப்பொருளும் 5,000 போதை மாத்திரைகளும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/24552bcb.json)
+
+---
+
+### சிகிரியாவை பாதுகாக்கும் விசேட திட்டம் - கொரியாவிடமிருந்து நிதி உதவி
+
+*2024-12-30 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202519) · `ta`
+
+உலகப் பாரம்பரியச் சின்னமாக விளங்கும் சிகிரியாவைப் பாதுகாக்கும் விசேட திட்டத்திற்காக 2.4 பில்லியன் ரூபா நிதி உதவி வழங்குவதற்கு கொரியா சர்வதேச ஒத்துழைப்பு நிறுவனம் விருப்பம் தெரிவித்துள்ளது.
+
+சிகிரியா பாறைக்கு செல்வதற்கான பாதை மேம்பாடு, மாற்று பாதை அமைத்தல், சிகிரியா அருங்காட்சியகம், உணவகம் மற்றும் பற்றுச்சீட்டு பெறும் இடம் உள்ளிட்ட பல திட்டங்கள் இதனுள் உள்ளடங்குகின்றது.
+
+இதற்காக, புத்தசாசன, சமய கலாசார அலுவல்கள் அமைச்சின் அறிவுறுத்தலின்படி, மத்திய கலாசார நிதியம் மற்றும் கொரியா சர்வதேச ஒத்துழைப்பு முகவர் நிறுவனங்களுக்கு இடையில் புரிந்துணர்வு ஒப்பந்தம் ஒன்று கைச்சாத்திடப்பட உள்ளது.
+
+இத்திட்டம் தொடர்பான கலந்துரையாடல் பௌத்த, சமய மற்றும் கலாசார அலுவல்கள் பிரதி அமைச்சர் சுனில் செனவி தலைமையில் அமைச்சில் இடம்பெற்றதுடன், கொரியா சர்வதேச ஒத்துழைப்பு முகவரகத்தின் பிரதிநிதிகள் , அதன் உள்ளூர் இயக்குனர் யுங்ஜின் கிம், துணை உள்ளூர் இயக்குனர் யோங் வான் கிம், அமைச்சக செயலாளர் ஏ.எம்.பி.எம்.பி. அதபத்து மற்றும் மத்திய கலாசார நிதியத்தின் பணிப்பாளர் நாயகம் கலாநிதி நிலான் குரே உள்ளிட்டோர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/c770eeee.json)
+
+---
+
+### பன்விலையில் சாராயத் தவறணை திறப்பதற்கு சமயத் தவைர்கள் எதிர்ப்பு
+
+*2024-12-30 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202521) · `ta`
+
+கண்டி, பன்விலைப் பிரதேசத்தில் சாரயத் தவறணை ஒன்று புதிதாக ஆரம்பிக்கப்படுவதற்கு தமது எதிர்ப்பைத் தெரிவித்து இதில் மகா சங்கத்தினர் தலையிட வேண்டும் என கோரிக்கை விடுத்து அஸ்கிரிய பீட மகாநாயக்கத் தேரரிடம் சர்வமத தலைவர்கள் மகஜர் ஒன்றைக் கையளித்தனர்.
+
+பன்விலை நகரில் அமைக்கப்பட உள்ள சாராயத் தவறணையை உடன் நிறுத்துமாறு பன்வில சாசனரக்சக பல மண்டல பதிவாளர் சாஸ்திரபதி பண்டித நிக்கவெவ பஞ்சாசேகர தேரரும் பிரதேசத்திலுள்ள மற்றும் சமயத் தலைவர்கள் இதனைக் கையளித்தனர்.
+
+சியம்  மகா நிக்காயாவின் அஸ்கிரி பிரிவின் மகாநாயக்கர் வரகாகொட ஞானரதன விடம் கடிதம் ஒன்றைக் கையளித்து மேற்படி வேண்டுகோளை விடுத்தனர்.
+
+மேற்படி தவறணை திறக்கப்டுமாயின் அது பிரதேசத்தில் வசிக்கும் பல்வேறு இனங்களின்  தேசிய ஒற்றுமைக்கும், இன நல்லுறவுக்கும் ஆபத்து ஏற்படுவதுடன் குடும்பம் என்ற அலகு சிதைவடையும் எனவும் இந்து, இஸ்லாம், பௌத்த, கத்தோலிகக மதகுருக்கள் இணைந்து தெரிவித்துள்ளனர்.
+
+மேற்படி வேண்டுகோளின் பிரதிகள் ஜனாதிபதி, பௌத்த சமய ஆணையாளர், பொலிஸ் திணைக்கள தலைவர், அரச அதிபர், கலால் ஆணையாளர் உற்பட பலருக்கு அனுப்பிவைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/78c4b134.json)
+
+---
+
+### Compensation for crop damage in ‘Yala’ season to be fully settled by Jan. 5
+
+*2024-12-30 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104581/compensation-for-crop-damage-in-yala-season-to-be-fully-settled-by-jan-5) · `en`
+
+The Agricultural and Agrarian Insurance Board announced that compensation for crop damage caused by floods, droughts, and wild elephant attacks during the 2024 ‘Yala’ season will be fully disbursed by January 5, 2025.
+
+Issuing a statement, the Agricultural and Agrarian Insurance Board noted that between March and October 2024, significant damage was reported to paddy fields and other crops across the country and that natural disasters such as droughts and floods, as well as incidents involving wild elephants, were cited as the primary causes of these losses.
+
+To date, compensation totaling nearly Rs. 80 million has been disbursed to 80% of affected farmers, the statement added.
+
+Furthermore, the Agricultural and Agrarian Insurance Board confirmed that all remaining payments would be credited directly to farmers’ bank accounts by the January deadline.
+
+...
+
+[Data](articles/0959e3d8.json)
+
+---
+
+### පාසල් ලිපිද්‍රව්‍ය ගන්න රු 6,000 දීමනාව අස්වැසුම ගිණුමට
+
+*2024-12-30 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204849) · `si`
+
+පාසල් අධ්‍යාපනය ලබන අස්වැසුම හිමි පවුල්වල ළමුන් සඳහා ලබා දෙන රු. 6,000ක දීමනාව
+
+පසුගිය සිකුරාදා දිනයේ දී අස්වැසුම බැංකු ගිණුම් වෙත භාණ්ඩාගාරය හරහා නිකුත් කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් මුදල්, ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය මේ බව සඳහන් කර ඇත.
+
+ආර්ථික අර්බුදයෙන් ඇතිවූ අහිතකර ප්‍රතිඵල හේතුවෙන් ළමුන්ගේ අධ්‍යාපනය කෙරෙහි සැළකිය යුතු සෘණාත්මක බලපෑමක් සිදු වී ඇති බව ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව මඟින් සිදුකරන ලද "Household Survey on Impact of Economic Crisis – 2023" දත්ත සමීක්ෂණ අනුව අනාවරණය වී ඇතැයි ද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ දැක්වේ.
+
+ඒ අනුව, පාසල් යන ළමුන්ගෙන් සියයට 55කගේ අධ්‍යාපන කටයුතු කෙරෙහි අහිතකර බලපෑම් ඇති වී ඇත.
+
+මෙම ප්‍රතිශතය ග්‍රාමීය සහ වතු ආශ්‍රිතව වඩාත් ඉහළ අගයක් බව නිරීක්ෂණය වන බව ද අදාළ නිවේදනයේ දැක්වේ.
+
+මෙසේ බලපෑමට ලක්වූ ළමුන් අතරින්  සියයට 53.2ක් පාසල් ලිපිද්‍රව්‍ය මිලදී ගැනීම අවම කර හෝ මුළුමනින්ම නවත්වා ඇති බවද, සියයට 26.1ක් පෙර භාවිතා කරන ලද පාසල් ලිපි ද්‍රව්‍ය නැවත භාවිතා කිරීමට යොමු වී ඇති බව ද අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/4c89ebba.json)
+
+---
 
 ### “Land positions should no longer be limited to the same lineage”
 
@@ -56,6 +192,98 @@ He also urged the government to evaluate their income, as Sampath has reported a
 
 ---
 
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-12-30 11:28:22* · [`adalk`](https://www.ada.lk/breaking_news/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/11-413907) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර දෙවැනි විස්සයි 20 තරගය අද (30දා) පැවැත්වේ.
+
+තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+
+මෙම තරගය මෙරට වේලාවෙන් පෙරවරු 11.45ට ආරම්භ කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/ba6b7752.json)
+
+---
+
+### நாட்டின் இரு வெவ்வேறு பகுதிகளில் போதைப்பொருட்களுடன் இருவர் கைது!
+
+*2024-12-30 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/202518) · `ta`
+
+நாட்டின் இரு வெவ்வேறு பகுதிகளில் நேற்று ஞாயிற்றுக்கிழமை (29) பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  ஐஸ் போதைப்பொருள் மற்றும் ஹெரோயின் போதைப்பொருளுடன் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கல்கிசை பொலிஸ் பிரிவிற்கு உட்பட்ட  கல்கிசை ரயில் நிலையத்திற்கு அருகில் 10 கிராம் 200 ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் களுத்துறை மில்லனிய பகுதியைச் சேர்ந்த 40 வயதுடையவராவார்.
+
+இதேவேளை,கொழும்பு, கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் 04 கிராம் 470 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு 14 பகுதியைச் சேர்ந்த 31 வயதுடையவராவார்.
+
+◼️
+
+[Data](articles/fc71c588.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-12-30 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204848) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර දෙවැනි 20යි 20 ජාත්‍යන්තර තරගය අද පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+ඒ අනූව ඔවුන් තීරණය කළේ පළමුව පන්දුවට පහරදීම සඳහා නවසීලන්තය ට ආරාධනා කිරීමට ය.
+
+අද දිනයේ භානුක රාජපක්ෂ වෙනුවට ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අවිෂ්ක ප්‍රනාන්දු ක්‍රීඩා කරයි.
+
+දෙරට අතර පසුගිය සෙනසුරාදා පැවති පළමු 20යි 20 තරගය ලකුණු 8කින් ජයගැනීමට නවසීලන්තය සමත්විය.
+
+◼️
+
+[Data](articles/cb0b8b45.json)
+
+---
+
+### பொகவந்தலாவையில் சட்டவிரோதமாக மாணிக்கக் கல் அகழ்வு பணியில் ஈடுபட்ட ஒருவர்  கைது !
+
+*2024-12-30 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202522) · `ta`
+
+நுவரெலியா, பொகவந்தலாவை பொலிஸ் பிரிவுக்கு உட்பட்ட கொட்டியாகல தோட்டப் பகுதியில் சட்டவிரோதமாக மாணிக்கக் கல் அகழ்வு பணியில் ஈடுபட்ட சந்தேக நபர் ஒருவர் பொகவந்தலாவை பொலிஸாரால்  நேற்று ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
+
+பொகவந்தலாவை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் நுவரெலியா, பொகவந்தலாவை பகுதியைச் சேர்ந்த 32 வயதுடையவராவார்.
+
+◼️
+
+[Data](articles/5c5db6dd.json)
+
+---
+
+### President Dissanayake offers condolences after Jimmy Carter’s death
+
+*2024-12-30 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104580/president-dissanayake-offers-condolences-after-jimmy-carters-death) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake has extended his deepest condolences to the family and loved ones of former U.S. President Jimmy Carter, who passed away at the age of 100.
+
+Posting on ‘X’ (formerly Twitter), Dissanayake said former U.S. President Carter’s extraordinary life was marked by an unwavering commitment to peace, human rights and humanitarian  affairs in recognition of which he received the Nobel Peace Prize in 2002.
+
+“May his legacy live on as a beacon of hope to build a better world for all”, he added.
+
+Jimmy Carter, the earnest Georgia peanut farmer who as U.S. president struggled with a bad economy and the Iran hostage crisis but brokered peace between Israel and Egypt and later received the Nobel Peace Prize for his humanitarian work, died at his home in Plains, Georgia, on Sunday.
+
+Carter lived longer than any U.S. president and, after leaving the White House, earned a reputation as a committed humanitarian.
+
+...
+
+[Data](articles/89fb95f4.json)
+
+---
+
 ### முதலாம் திகதியில் இருந்து  “தூய்மையான இலங்கை”
 
 *2024-12-30 10:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-திகதியில்-இருந்து-தூய்மையான-இலங்கை/175-349490) · `ta`
@@ -76,7 +304,9 @@ He also urged the government to evaluate their income, as Sampath has reported a
 
 *2024-12-30 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204847) · `si`
 
-අමෙරිකාවේ හිටපු ජනාධිපති ජිමි කාටර් මහතාගේ අභාවය පිළිබඳ ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය ශෝකය පළ කර තිබේ.
+අමෙරිකානු හිටපු ජනාධිපති ජිමී කාටර්ගේ අභාවය සම්බන්ධයෙන් ඔහුගේ පවුලේ පිරිසට සහ ඥාතීන්ට, ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය බලවත් ශෝකය ප්‍රකාශ කර තිබේ.
+
+ජිමි කාටර් මහතා සිය ජීවිතය පුරා මානව හිමිකම් සහ මානුෂීය කටයුතු වෙනුවෙන් නොසැලෙන කැපවීමකින් කටයුතු කර ඇති අතර, ඒ වෙනුවෙන් ඔහුට 2002 දී නොබෙල් සාම ත්‍යාගය හිමි වූ බව ද ජනාධිපතිවරයා සිහිපත් කර තිබේ.
 
 ◼️
 
@@ -97,6 +327,26 @@ He also urged the government to evaluate their income, as Sampath has reported a
 ◼️
 
 [Data](articles/9f3604fd.json)
+
+---
+
+### Three suspects arrested in Mawanella with intoxicating pills
+
+*2024-12-30 10:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104579/three-suspects-arrested-in-mawanella-with-intoxicating-pills) · `en`
+
+Three suspects have been arrested in the Mawanella area for the possession of intoxicating pills.
+
+Acting on a tip-off received by the Mawanella Police, the suspects were apprehended near the Heendeniya Cemetery in Mawanella, the police said.
+
+A total of 8,100 intoxicating pills, along with a van used by the suspects and a motorcycle, have been taken into police custody.
+
+One of the suspects was arrested while selling the intoxicating pills, which had been brought from Colombo in a van, to two other individuals who had arrived on a motorcycle in the area, according to police.
+
+The suspects, aged 22, 24, and 25, are residents of the Mawanella area.
+
+◼️
+
+[Data](articles/490a2164.json)
 
 ---
 
@@ -133,6 +383,26 @@ He also urged the government to evaluate their income, as Sampath has reported a
 ◼️
 
 [Data](articles/4d652aa8.json)
+
+---
+
+### Govt. to launch ‘Clean Sri Lanka’ program on Jan. 1
+
+*2024-12-30 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104578/govt-to-launch-clean-sri-lanka-program-on-jan-1) · `en`
+
+The government is set to launch the “Clean Sri Lanka” initiative on January 1, 2025.
+
+The program will commence under the patronage of President Anura Kumara Dissanayake, according to the President’s Media Division (PMD).
+
+A Presidential Task Force has recently been established to oversee the implementation of this initiative.
+
+The Task Force consists of 18 members, including the Secretary to the President, Dr. Nandika Sanath Kumanayake, the Acting Inspector General of Police, and the Commanders of the three armed forces.
+
+This Task Force is entrusted with the responsibility of planning, guiding, executing, monitoring progress, and ensuring the completion of the “Clean Sri Lanka” program within the specified timeline.
+
+◼️
+
+[Data](articles/9347c279.json)
 
 ---
 
@@ -190,6 +460,22 @@ He also urged the government to evaluate their income, as Sampath has reported a
 
 ---
 
+### Bids called for expansion of Jaffna and Katunayake international airports
+
+*2024-12-30 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104577/bids-called-for-expansion-of-jaffna-and-katunayake-international-airports) · `en`
+
+The Ministry of Ports, Shipping and Aviation has announced two major infrastructure development projects aimed at enhancing Sri Lanka’s aviation sector.
+
+The proposals are invited for a feasibility study on the augmentation of Jaffna International Airport (JIA) at Palaly. Reputed airport consultancy firms meeting specific criteria can submit proposals. A pre-proposal conference and site visit are scheduled for January 8, 2025, at JIA. Proposals must be submitted by 2.00 p.m. on January 29, 2025.
+
+Separately, bids are open for the completion of the Bandaranaike International Airport (BIA) Development Project Phase II Stage 2, Package A1. This includes constructing the main terminal building, piers, and associated infrastructure. The project, initially halted in 2022 due to economic challenges, aims to utilize previously procured materials. Bidders must submit bids by 2:00 PM on March 18, 2025.
+
+◼️
+
+[Data](articles/50cca0c8.json)
+
+---
+
 ### Gang
 
 *2024-12-30 09:32:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒருவரை-கடத்திச்-சென்று-கொடூரமாக-தாக்கிய-கும்பல்/175-349481) · `ta`
@@ -211,6 +497,22 @@ Senior police official said that although six people were reported to have arriv
 [Data](articles/ebd7cc61.json)
 
 [Extended Data](ext_articles/ebd7cc61.ext.json)
+
+---
+
+### Another Jeju Air jet experienced landing-gear issue in South Korea
+
+*2024-12-30 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104576/another-jeju-air-jet-experienced-landing-gear-issue-in-south-korea) · `en`
+
+A Jeju Air passenger jet that departed Gimpo Airport in Seoul for Jeju on Monday experienced an unidentified landing-gear issue after takeoff and returned to Gimpo where it landed safely, Yonhap news reported, citing unnamed sources.
+
+Jeju Air flight 7C101 with 161 passengers on board departed Gimpo International Airport at 6.37am for Jeju Island and the plane returned to the airport at 7.25am due to the mechanical defect caused by the landing gear, the industry sources told Yonhap.
+
+The budget airline used a Boeing 737-800 on the route and it is the same model involved in the disaster on Sunday that killed 179 people.
+
+◼️
+
+[Data](articles/c758013b.json)
 
 ---
 
@@ -314,6 +616,24 @@ The Department of Meteorology has urged the public to take necessary steps to re
 
 ---
 
+### Number of school days in 2025 reduced
+
+*2024-12-30 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104575/number-of-school-days-in-2025-reduced-) · `en`
+
+The Ministry of Education has announced a reduction in the number of school days for 2025, lowering the annual total from 210 to 181 days.
+
+This decision comes in the wake of numerous public holidays and delays in the commencement of the first school term. The revised schedule applies to government schools, government-approved private schools, and Pirivenas.
+
+To accommodate the academic calendar, schools will open on January 2, 2025, for the final three weeks of the third term of the 2024 academic year, concluding on January 24. The new school year will officially commence on January 27, 2025.
+
+According to the Ministry, the 2025 calendar includes 26 public holidays, with 22 of them falling on weekdays. The high number of weekday holidays significantly reduces the number of days available for regular school sessions, making it impractical to adhere to the original 210-day schedule.
+
+◼️
+
+[Data](articles/4a96e7b6.json)
+
+---
+
 ### Public opinion in Uva Province from today
 
 *2024-12-30 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204844) · `si`
@@ -337,6 +657,26 @@ The Public Utilities Commission of Ceylon Electricity Board (CEB) is about to co
 [Data](articles/ae4bb250.json)
 
 [Extended Data](ext_articles/ae4bb250.ext.json)
+
+---
+
+### Maj. Gen. Lasantha Rodrigo tipped to be appointed 25th Army Commander
+
+*2024-12-30 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104574/maj-gen-lasantha-rodrigo-tipped-to-be-appointed-25th-army-commander) · `en`
+
+Major General Lasantha Rodrigo is poised to take over as the 25th Commander of the Sri Lanka Army, following the retirement the incumbent Army Chief, Lieutenant General Vikum Liyanage.
+
+Government sources confirmed that the official announcement of Major General Rodrigo’s appointment is expected later today (30).
+
+A seasoned military officer, Major General Rodrigo previously served as the Deputy Chief of Staff of the Sri Lanka Army, demonstrating a distinguished career in leadership and service.
+
+He also previously served as the Commandant of the Defence Services Command and Staff College.
+
+The current Army Commander, Lieutenant General Vikum Liyanage, who is currently serving his second extension of service as Army Commander, will step down as part of this transition.
+
+◼️
+
+[Data](articles/986e8db6.json)
 
 ---
 
@@ -950,11 +1290,9 @@ Located in Sri Lanka’s west coast between Negombo and Chilaw, the new DIMO CAR
 
 ---
 
-### 
+### Chabad House is a religious space belonging to the Chabad-Lubavitch Hasidic Movement which is deeply aligned with Israel’s ultra-right and the IDF.
 
 *2024-12-30 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85268) · `en`
-
-Chabad House is a religious space belonging to the Chabad-Lubavitch Hasidic Movement which is deeply aligned with Israel’s ultra-right and the IDF.
 
 “Israel today is dynamiting the edifice of the global norms built after 1945.” Pankaj Mishra (The Shoah after Gaza – London Review of Books – 21.3.2014)
 
@@ -1707,423 +2045,5 @@ The Presidential Secretariat officials are given the 'Clean Sri Lanka' program t
 [Data](articles/47411187.json)
 
 [Extended Data](ext_articles/47411187.ext.json)
-
----
-
-### Shavendra Silva returns to military service
-
-*2024-12-29 19:25:15* · [`adalk`](https://www.ada.lk/breaking_news/ශවේන්ද්‍ර-සිල්වා-ජන-01-දා-හමුදා-සේවයෙන්-සමුගනියි/11-413897) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Shavendra Silva retires as Chief of Defense Staff on Jan 1 after nearly 40 years of military service. He was appointed in 2022 and had his tenure extended multiple times, focusing on software development projects.
-
-🟩
-
-Chief of Defense Staff Shavendra Silva is due to retire on his post on January 1.
-
-Shavendra Silva was appointed Chief of Staff on June 01, 202. Steps were taken to stretch out his tenure in several occasions.
-
-Especially at the military, he focused on 58 Software Head. Shavendra Silva's military service is close to 40 years.
-
-◼️
-
-[Data](articles/60404776.json)
-
-[Extended Data](ext_articles/60404776.ext.json)
-
----
-
-### Georgia’s outgoing president refuses to quit as successor sworn in
-
-*2024-12-29 19:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104569/georgias-outgoing-president-refuses-to-quit-as-successor-sworn-in) · `en`
-
-Thousands of Georgians protested in the capital Tbilisi as a new president allied with the ruling Georgian Dream party was inaugurated.
-
-Mikheil Kavelashvili, a former pro-footballer, has been sworn in during a critical political period for the country after the government suspended its application to join the European Union.
-
-Georgian Dream won parliamentary elections in October, but the victory was mired in allegations of fraud which have since sparked several street protests.
-
-Outgoing president Salome Zourabichvili refused to step down on Sunday, saying she was the “only legitimate president”.
-
-Addressing crowds gathered outside, Zourabichvili said she would leave the presidential palace but branded her successor illegitimate.
-
-“This building was a symbol only as long as a legitimate president was sitting here,” she said.
-
-...
-
-[Data](articles/b733818b.json)
-
----
-
-### General Shavendra Silva is retiring
-
-*2024-12-29 19:11:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறுகிறார்-ஜெனரல்-சவேந்திர-சில்வா/175-349459) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-General Shavendra Silva retires as CDS on Jan 1, 2025. He served over 40 years, previously as Chief of Security Forces and 23rd Commander of Sri Lanka Army. Appointed CDS on June 1, 2022.
-
-🟩
-
-CDS General Shavendra Silva, the 8th chief of the Sri Lankan security forces, will retire from his post and service in the Sri Lankan army on January 1, 2025.
-
-General Silva, who was appointed as CDS on June 1, 2022, has served the nation for over 40 years. It is noteworthy that before accepting the role of the CDS, he served as the Chief of the Security Forces and the 23rd Commander of the Sri Lanka Army.
-
-◼️
-
-[Data](articles/562c75ad.json)
-
-[Extended Data](ext_articles/562c75ad.ext.json)
-
----
-
-### Sri Lankan condolences for South Korean plane crash
-
-*2024-12-29 19:06:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்கொரிய-விமான-விபத்துக்கு-இலங்கை-இரங்கல்/175-349458) · `ta`
-
-Sri Lanka mourns South Korea plane crash: 179 dead, 2 survivors. Foreign Ministry offers condolences to bereaved families and wishes injured speedy recovery.
-
-🟩
-
-The Sri Lankan Foreign Ministry has condoled the crash at the Muan Airport in South Korea.
-
-The Ministry has expressed his condolences to the families of the victims of the tragedy and said that the injured are praying for the victims to soon heal.
-
-Only 2 people were rescued in the accident, and 179 people were killed in the traveler.. Remble
-
-◼️
-
-[Data](articles/a6dc89b1.json)
-
-[Extended Data](ext_articles/a6dc89b1.ext.json)
-
----
-
-### South Africa to fight Test World Championships
-
-*2024-12-29 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204832) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-South Africa qualifies for ICC World Test Final 2023-25. They win first Test vs Pakistan by 2 wickets. Pakistan scores 211/10 & 237/10. South Africa chases 148/8 to secure victory.
-
-🟩
-
-2023-25 ​​The South African team was able to qualify for the Final Competition of the ICC World Test Final.
-
-In South Africa, the first Test cricket match against Pakistan in Century was won by 2 wickets.
-
-The first bandes qualified for the GCE (World Test Championships) under the World Test Championship are Africa.
-
-Batting first, Pakistan scored 211 runs for the loss of all wickets in the first innishment.
-
-The Pakistan's second innings were limited to 237 in their second innings, so South Africa received 148 runs.
-
-However, South Africa were able to chase 8 wickets for 8 wickets.
-
-◼️
-
-[Data](articles/1d3a58e2.json)
-
-[Extended Data](ext_articles/1d3a58e2.ext.json)
-
----
-
-### People who do not want to change must change now - Sunil Handunnethi
-
-*2024-12-29 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202496) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Change is necessary: Sunil Handunnethi urges resistance to outdated policies. New government faces opposition from entrenched officials. Prioritizing national production over importer and investor interests. Ready to challenge status quo."
-
-🟩
-
-Has to change many resolutions taken by the last government. But state officials are arguing with us to protest our decision. People who do not want to change have to change.
-
-If they are not ready to change, we will change them and take this trip. "We are ready to accept any challenge," said Sunil Handunnetti, Minister of Industry and Entrepreneurship.
-
-The Presidential Acraft Award ceremony for the year 2024 organized by the National Current Council was held in Colombo on Saturday (28). He said this while addressing the gathering.
-
-We had to fight on the street for the people before we took over the government. We then pointed out the mistakes of the last government. We fought against bribery, corruption and theft for the people. Today we are in charge of the government. However, we have to fight with many sides at present.
-
-...
-
-[Data](articles/830e8dee.json)
-
-[Extended Data](ext_articles/830e8dee.ext.json)
-
----
-
-### ELEVATE Filmmakers: Building Confidence To Speak Up & Drive Change
-
-*2024-12-29 18:39:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/elevate-filmmakers-building-confidence-to-speak-up-drive-change/) · `en`
-
-In Sri Lanka, discussions surrounding Sexual and Reproductive Health Rights (SRHR) and Cyber Gender-Based Violence (CGBV) often remain shrouded in silence due to deep-seated cultural taboos. This silence is particularly prevalent in government universities, where many female students are hesitant to address these sensitive topics due to stigma and fear of backlash. The ELEVATE Project, launched by the Centre for Media and Information Literacy, sought to break this silence by empowering 50 young female undergraduates, giving them the tools and confidence to speak out and advocate for change.
-
-Through creative expression in filmmaking, the ELEVATE Project has not only provided participants with valuable technical skills, but it has also played a critical role in elevating their confidence. These young women, once too shy to discuss SRHR and CGBV, have grown into outspoken advocates, using their films as powerful tools for social change.
-
-...
-
-[Data](articles/a0cb6b92.json)
-
----
-
-### தம்பகல்ல பகுதியில் புதையல் தோண்டிய இருவர் கைது!
-
-*2024-12-29 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202488) · `ta`
-
-தம்பகல்ல பொலிஸ் பிரிவுக்குட்பட்ட நாமல் ஓயா பகுதியில் நேற்று சனிக்கிழமை (28) புதையல் அகழ்வில் ஈடுபட்ட இரு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-தம்பகல்ல பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் இந்த சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் தம்பகல்ல பகுதியைச் சேர்ந்த 43 மற்றும் 50 வயதுடையவர்கள் ஆவர்.
-
-◼️
-
-[Data](articles/24b4382c.json)
-
----
-
-### அளுத்கமவில் கேரள கஞ்சாவுடன் ஒருவர் கைது
-
-*2024-12-29 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202491) · `ta`
-
-அளுத்கம பொலிஸ் பிரிவுக்குட்பட்ட கனேகம பிரதேசத்தில் கேரள கஞ்சாவுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (28) கைது செய்யப்பட்டுள்ளார்.
-
-பொலிஸ் விசேட அதிரடிப்படையின் அளுத்கம முகாமின் அதிகாரிகள் குழுவுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் 42 வயதான கனேகம, அளுத்கம பிரதேசத்தை சேர்ந்தவர் ஆவார்.
-
-◼️
-
-[Data](articles/a6f58fa7.json)
-
----
-
-### Arrested for illegally carrying sand in Kinniya
-
-*2024-12-29 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202484) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Kinniya: 50-year-old caught transporting illegal sand in a tipper truck. Police seized 3 sand cubes and the vehicle. Incident occurred on Saturday in Echantivu area.
-
-🟩
-
-A person who illegally transported sand in a tipper vehicle in Echantivu area of ​​the Kinniya Police Division has been arrested by the Special Task Force Officers of the Trincomalee Police on Saturday (28).
-
-The arrested suspect is a 50 -year -old from Kinniya.
-
-03 sand cubes and tipper vehicle from the suspect have been seized by the police.
-
-◼️
-
-[Data](articles/b2c10ce8.json)
-
-[Extended Data](ext_articles/b2c10ce8.ext.json)
-
----
-
-### 'Should I report my final message?SMS from a South Korean plane crash
-
-*2024-12-29 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/202493) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Plane crashes in South Korea, killing 179. Witnesses report seeing fire and hearing explosions. SMS from family member mentions finding a bird near the wing. Travelers rush to airport seeking information about loved ones.
-
-🟩
-
-A peaceful environment of South Korea has spread to South Korea as 179 people have been killed when a plane crashed into a fire on Sunday morning.
-
-Travelers' disturbed relatives gathered at the Muan International Airport in a hurry to search for their loved ones.
-
-A few minutes before the crash, a family member of the airport sent a short message that a bird had been found in a part of the wings of the plane.
-
-The news is from the passenger whether I want to express my final words.
-
-South Korea's Yonhap news agency said that local people said they had seen the fire in the plane and heard the explosions.
-
-I saw the plane landing and I thought it was going to land, and then heard a massive noise and then heard a smoke in the sky, and then heard a series of explosions, said a man who was found in the airport 4.5 kilometers from the airport.
-
-◼️
-
-[Data](articles/255053de.json)
-
-[Extended Data](ext_articles/255053de.ext.json)
-
----
-
-### Two arrested with domestic guns in Vaharai
-
-*2024-12-29 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202479) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Two men, ages 48 & 51, from Kathiraveli, arrested in Tonitandamadu, Vaharai, with domestic guns."
-
-🟩
-
-Two suspects were arrested by police on Saturday (28) with two domestic guns in the Tonitandamadu area of ​​the Vaharai police division.
-
-They have been arrested during two other rounds of police officers of the Police Special Task Force Camp.
-
-The suspects are from Kathiraveli, aged 48 and 51.
-
-◼️
-
-[Data](articles/f2785d73.json)
-
-[Extended Data](ext_articles/f2785d73.ext.json)
-
----
-
-### கொள்கைகளை பாதுகாப்பதற்காக அரச அதிகாரிகளுடன் போராடுகிறோம் - அமைச்சர் சுனில் ஹந்துன்நெத்தி
-
-*2024-12-29 18:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/202460) · `ta`
-
-ஆட்சியில் அமர்வதற்கு முன்னதாக மக்களின் உரிமைகளுக்காக வீதியில் இறங்கிப் போராடவேண்டியிருந்த தேசிய மக்கள் சக்தி அரசாங்கத்துக்கு தற்போது தனது கொள்கைகளைப் பாதுகாப்பதற்காக அரச அதிகாரிகளுடன் போராடவேண்டியுள்ளது என்று கைத்தொழில் மற்றும் தொழில்முயற்சி அபிவிருத்தி அமைச்சர் சுனில் ஹந்துன்நெத்தி தெரிவித்தார்.
-
-கொழும்பில் நடைபெற்ற ‘ஷில்பாபிமானி’ ஜனாதிபதி விருதுகளை வழங்கும் நிகழ்வில் கலந்துகொண்டு உரையாற்றியபோதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-நாங்கள் ஆட்சியைப் பிடிப்பதற்கு முன்பதாக மக்களின் உரிமைகளுக்காக, வீண்விரயம், கொள்ளை, மோசடி மற்றும் ஊழலுக்கு எதிராகவும், அரசாங்கத்தின் தவறான செயல்களை விமர்சித்தும் வீதிகளில் இறங்கிப் போராட்டங்களை நடத்தினோம். இப்போது, மக்களுக்கு எதிராக செயற்பட்டு, நிவாரணம் வழங்காமல், அவர்களின் உரிமைகளை மீறும் வகையில், முன்னாள் அரசாங்கங்களின் கொள்கைகளின்படி செயற்பட்டு முடிவுகளை எடுக்கும் அரச அதிகாரிகளுக்கு எதிராக போராட வேண்டியுள்ளது.
-
-...
-
-[Data](articles/56a94b79.json)
-
----
-
-### South Korea's tragedy who lost their lives for 179
-
-*2024-12-29 17:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204831) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-South Korean tragedy: 179 fatalities. Two survivors killed. 175 passengers, 6 staff on board. 84 women, 82 boys among dead. Ages ranged from 3 to 78. Over 1,500 employees involved. Plane landed at Bangkok airport due to bird strike. Black box voice recordings obtained for expert analysis.
-
-🟩
-
-Authorities have analytized that the two survivors were killed in the accident in South Korea.
-
-Also, 177 people have died in danger.
-
-At the time of the accident 175 passengers and six staff members were present.
-
-Out of the deceased, 84 bodies of women, 82 boys bodies and 11 others who cannot identify the bodies and 11 others uncovered.
-
-Five of the deceased have been children under 10 years of age.
-
-According to the authorities, the youngest passenger is a three-year-old boy, and the oldest person is 78 years old.
-
-Foreign media reports that more than 1,500 employees are participating in the accident.
-
-The June of the June of the June of the June of South Korea, from Bangkok, to the Mua Korea in Bangkok, was in danger of landing at the airport.
-
-When the aircraft landed due to the birds of the plane, the running out of the road was in danger.
-
-It is reported that the voice recordings of the plane's black box and the pilot chamber have been obtained and specialists will be inspected by experts.
-
-◼️
-
-[Data](articles/a4d04fd2.json)
-
-[Extended Data](ext_articles/a4d04fd2.ext.json)
-
----
-
-### அரசாங்கத்தின் மீதான மக்கள் நம்பிக்கையை பலவீனப்படுத்த போவதில்லை - சுனில் வடகல
-
-*2024-12-29 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/202492) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான தேசிய மக்கள் சக்தியை பலவீனப்படுத்துவதற்கு ஒரு தரப்பினர் திட்டமிட்ட வகையில் செயற்படுகின்றனர். கிடைக்கப் பெற்றுள்ள மக்களாணையை ஒருபோதும் பலவீனப்படுத்த போவதில்லை என பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் பிரதி அமைச்சர் சட்டத்தரணி சுனில் வடகல தெரிவித்தார்.
-
-கொழும்பில் ஞாயிற்றுக்கிழமை (29) நடைபெற்ற நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான அரசாங்கம் பதவிக்கு வந்து மூன்று மாதங்கள் நிறைவடைந்துள்ள நிலையில் மக்கள் எதிர்பார்த்த மாற்றங்களுக்கான அடிப்படை நடவடிக்கைகள் எடுக்கப்பட்டுள்ளன. அரச செலவுகளை குறைத்து ஒட்டுமொத்த மக்களுக்கும் ஜனாதிபதி சிறந்த எடுத்துக்காட்டாக செயற்பட்டுள்ளார்.
-
-முன்னாள் ஜனாதிபதிகளின் பாதுகாப்பு குறைக்கப்பட்டுள்ளமை தொடர்பில் அரசியல் தரப்பினல் மாறுப்பட்ட கருத்தை குறிப்பிட்டுக் கொள்கிறார்கள். தேசிய பாதுகாப்பை உறுதிப்படுத்தினால் முன்னாள் ஜனாதிபதிகளுக்கு மாத்திரம் பிரத்தியேகமாக பாதுகாப்பளிக்க வேண்டிய அவசியம் கிடையாது.
-
-...
-
-[Data](articles/ac043b80.json)
-
----
-
-### மருந்துகளின் விலைகளை ஒழுங்குபடுத்துவதில் சட்ட சிக்கல்கள் ; சட்டமா அதிபரின் ஆலோசனையைப் பெற NMRA நடவடிக்கை
-
-*2024-12-29 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202467) · `ta`
-
-இலங்கையில் மருந்துகளின் விலைகளை ஒழுங்குபடுத்துவதற்கான முயற்சிகளுக்கு இடையூறாக இருக்கும் சட்ட சவால்களைத் தீர்ப்பதற்காக சட்டமா அதிபரின் ஆலோசனைகளைப் பெறுவதற்கு தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை நடவடிக்கைகளை முன்னெடுத்துள்ளது.
-
-மருந்து இறக்குமதியாளர்கள் மற்றும் உற்பத்தியாளர்கள் விடயத்தில் நிர்ணய விலைகள் விடயங்களில் சட்ட நடவடிக்கைகளை முன்னெடுப்பதற்கு உரிய ஏற்பாடுகள் போதாமையின் காரணமாகவே தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை இந்த முயற்சியில் இறங்கியுள்ளது.
-
-எவ்வாறாயினும் புதிய சட்டமொன்றை இயற்றுவதா, இல்லை தற்போதுள்ள ஏற்பாடுகளை திருத்தியமைத்து முன்னெடுப்பதா என்பது தொடர்பில் இன்னமும் உறுதியான தீர்மானம் எடுக்கப்படவில்லை என்பது குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/5da4354a.json)
-
----
-
-### அனுராதபுரத்தில் கேரள கஞ்சாவுடன் ஒருவர் கைது
-
-*2024-12-29 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/202477) · `ta`
-
-அனுராதபுரம் பொலிஸ் பிரிவுக்குட்பட்ட ஹல்பான பகுதியில் கேரள கஞ்சாவுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (28) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-பொலிஸ் விசேட அதிரடிப்படையின் அனுராதபுரம் முகாமைச் சேர்ந்த அதிகாரிகள் குழுவொன்று மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபரிடமிருந்து 32 கிராம் 72 மில்லிகிராம் கேரள கஞ்சா பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/8cbf2490.json)
-
----
-
-### Baby death in small grandfather's lorry
-
-*2024-12-29 17:37:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-தாத்தாவின்-லொறியில்-மோதி-குழந்தை-மரணம்/175-349454) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-8-year-old Senushi Sihansa dies in lorry accident. Mother ran errand while father worked. Neighbors found baby but couldn't revive her. Police investigating; suspect arrested. Incident occurred in Hasalawa, Matara district.
-
-🟩
-
-Senushi Sihansa, an eight -year -old girl, died on Saturday evening (28) in a lorry driver in the child's little grandfather.. The incident took place in the mini, Hasala, Kinabalasa area.
-
-The mother died at home in Matara, and when he was running a lorry to carry water, she died of the lorry.
-
-Though the neighbors rescued the baby in the lorry, the child was unable to save the life of the child.
-
-Hasalawa police are investigating the incident and the little grandfather of the deceased child who was paying the lorry has been arrested.
-
-◼️
-
-[Data](articles/41a6c2cc.json)
-
-[Extended Data](ext_articles/41a6c2cc.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 21:02:09**
+As of **2024-12-30 21:13:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,955 (98.7%) of 62,773 articles have been extended.
+61,956 (98.7%) of 62,773 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,23 +86,31 @@ In the meantime, the names of Heri Brooke (England), Jasprit Bumrah (India) and 
 
 ---
 
-### இலங்கையை கவர்ச்சிகரமான சுற்றுலாத் தலமாக மாற்றுவதற்குத் தேவையான திட்டங்களை அவசரமாக நடைமுறைப்படுத்த வேண்டும் - ஜனாதிபதி
+### Urgently implement the necessary plans to make Sri Lanka an attractive tourist destination -President
 
 *2024-12-30 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202581) · `ta`
 
-இலங்கையை சுற்றுலாப் பயணிகளின் கவரக்கூடிய இடமாக மாற்றுவதற்குத் தேவையான திட்டங்களை விரைவாக நடைமுறைப்படுத்துமாறு ஜனாதிபதி அநுரகுமார திசாநாயக்க அதிகாரிகளுக்கு பணிப்புரை விடுத்தார்.
+Sri Lanka aims to boost tourism under "Clean Sri Lanka" initiative. President directs officials to implement plans swiftly, focusing on environmental and cultural development. Key stakeholders from Buddha Sasana, Religious Affairs, Culture, Environment, Tourism, and Wildlife departments attend meeting.
 
-"Clean Sri Lanka"(கிளீன் ஶ்ரீலங்கா) திட்டத்தை மீளமைப்பதன் ஊடாக  சுற்றுலாத்துறையை மேம்படுத்துவது தொடர்பான செயற்பாடுகள் வலுவடையும் என ஜனாதிபதி மேலும் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் திங்கட்கிழமை (30) இடம்பெற்ற கலந்துரையாடலில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே ஜனாதிபதி அநுரகுமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+President Anura Kumara Dissanayake has directed the officials to quickly implement the necessary plans to make Sri Lanka a tourist destination.
 
-ஆசியாவின் மிகவும் பெறுமதிமிக்க மற்றும் பசுமையான தீவாக இலங்கையை நிலைநிறுத்துவது பற்றியும் இதன்போது  விரிவாக ஆராயப்பட்டது.
+The President added that the "Clean Sri Lanka" (Clean Sri Lanka) program will strengthen the development of tourism.
 
-சுற்றாடல் மற்றும் கலாசாரத் துறைகள் மூலம் சுற்றுலாவை மேம்படுத்துவது குறித்தும் இந்நாட்டில் சுற்றுலாவை மேம்படுத்துவதில் முறையான மற்றும் முறைசாரா துறைகளில் உள்ள அனைத்து தரப்பினர்களையும் ஒன்றிணைப்பது குறித்தும் கவனம் செலுத்தப்பட்டது.
+President Anura Kumara Dissanayake said this while participating in a discussion held on Monday (30) at the Presidential Office.
 
-...
+The establishment of Sri Lanka as the most valuable and lush island of Asia has been exploited in detail.
+
+The focus was on the development of tourism through the environment and cultural sectors and the merger of all parties in the systematic and informal sectors in the country.
+
+Buddha Sasana, Religious Affairs and Cultural Minister Professor Hiniduma Sunil Senil, Environment Minister Dr. Dhammika Thamikandi, Chairman of the Tourism Promotion Bureau, Buddhika Hewawasam, Director General of Wildlife Suriyapandara, Director General of the Central Cultural Fund.
+
+◼️
 
 [Data](articles/452121a4.json)
+
+[Extended Data](ext_articles/452121a4.ext.json)
 
 ---
 

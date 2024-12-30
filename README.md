@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 14:03:02**
+As of **2024-12-30 14:16:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,943 (98.8%) of 62,708 articles have been extended.
+61,944 (98.8%) of 62,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,21 +110,27 @@ All the inappropriate words in the video have been removed to comply with social
 
 ---
 
-### පොහොර සහනාධාරය ඉල්ලා ගොවියෙකු බස් නැවතුම්පළක වහලයට නගියි
+### A farmer climbs a bus stop for fertilizer subsidy
 
 *2024-12-30 12:14:45* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-ඉල්ලා-ගොවියෙකු-බස්-නැවතුම්පළක-වහලයට-නගියි/11-413910) · `si`
 
-රජය පොරොන්දු වූ පොහොර සහනාධාරය ලබා දෙන ලෙස ඉල්ලා මහවිලච්චිය ප්‍රදේශයේ ගොවියෙකු ⁣අද (30දා) මහවිලච්චිය -  පේමඩුව බස් නැවතුම්පොළක වහලයක් මතට නැග විරෝධතාවයක නිරත විය.
+Farmer protests at bus stop over fertilizer subsidy in Mahawilachchiya. Demands government fulfill promise. Will continue until issue resolved.
 
-මෙසේ විරෝධතාවයක යෙදී සිටියේ විලච්චිය පේමඩුව ප්‍රදේශයේ ගොවිතැන් කටයුතුවල නිරතව සිටින  ආර් . අනුර බණ්ඩාර මහතාය.
+🟩
 
-කන්න රැස්වීමේ තීන්දු තීරණ මත මෙම ප්‍රදේශයේ ගොවි ජනතාව වගාව ආරම්භ කළ බවත් ජනාධිපතිවරයා පොරොන්දු වූ පොහොර සහනාධාරය මෙම ප්‍රදේශවල ජනතාවට නිසියාකාරව මෙතෙක් ලැබී නැති බව ද එම ගොවි මහතා පවසයි .
+A farmer in the Mahawilachchiya area has come to a roof of the Mahawilachchiya bus station, demanding the government's promised fertilizer subsidy.
 
-මෙම පොහොර සානාධාරය සම්බන්ධයෙන් නිසි විසඳුමක් ලබාදෙන තෙක් තමන් මෙම විරෝධතාවය අත් නොහරින බවද පවසන මෙම ගොවි මහතා පවසයි.
+Protest was engaged in farming activities in Pamadaduwa area in Wiladuwa area. Anura Bandara is.
+
+The farmers said that the farmers in the area began to cultivate the cultivation of the fertilizer and the people who had promised the President's promised subsidy in these areas.
+
+The farmer says he will not give up the protest until he is given a proper solution to the smanishment of the fertilizer.
 
 ◼️
 
 [Data](articles/1e39b669.json)
+
+[Extended Data](ext_articles/1e39b669.ext.json)
 
 ---
 

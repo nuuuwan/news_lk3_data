@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 09:28:16**
+As of **2024-12-30 09:16:46**
 
 ## Newspaper Stats
 
@@ -26,35 +26,21 @@ adaderanasinhalalk | 10,824
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,934 (98.8%) of 62,662 articles have been extended.
+61,933 (98.8%) of 62,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### Public opinion in Uva Province from today
+### විදුලි ගාස්තු සංශෝධනය ගැන ඌව පළාතේ මහජන අදහස් විමසීම අද සිට
 
 *2024-12-30 09:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204844) · `si`
 
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Public Utilities Commission of Ceylon Electricity Board (CEB) to consult public views today in Uva Province."
-
-
-
-This summary captures the main points of the original text while staying within the character limit. It mentions the organization (Public Utilities Commission), the entity involved (Ceylon Electricity Board), the action being taken (consulting public views), the location (Uva Province), and the date (today). The summary is concise yet informative, providing a clear overview of the event described in the original text.
-
-🟩
-
-The Public Utilities Commission of Ceylon Electricity Board (CEB) is about to consult public views today (30) today.
+ලංකා විදුලි බල මණ්ඩලය ඉදිරිපත් කර ඇති විදුලි ගාස්තු සංශෝධන යෝජනාව පිළිබඳ මහජන උපයෝගිතා කොමිෂන් සභාව විසින් මහජන අදහස් විමසීම අද (30) ඌව පළාත කේන්ද්‍ර කරගනිමින් සිදුකිරීමට නියමිතව තිබේ.
 
 ◼️
 
 [Data](articles/ae4bb250.json)
-
-[Extended Data](ext_articles/ae4bb250.ext.json)
 
 ---
 

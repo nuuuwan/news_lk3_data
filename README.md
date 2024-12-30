@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 11:27:34**
+As of **2024-12-30 11:44:25**
 
 ## Newspaper Stats
 
-*Scraped **62,675** Articles*
+*Scraped **62,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 460
 colombotelegraphcom | 636
 bbccomsinhala | 659
-economynextcom | 3,805
+economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,983
+adalk | 5,984
 adaderanalk | 7,651
-tamilmirrorlk | 8,991
+tamilmirrorlk | 8,992
 virakesarilk | 10,413
 adaderanasinhalalk | 10,827
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 10,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,938 (98.8%) of 62,675 articles have been extended.
+61,939 (98.8%) of 62,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### “Land positions should no longer be limited to the same lineage”
+
+*2024-12-30 11:34:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிலமே-பதவிகள்-இனி-ஒரே-பரம்பரைக்கு-மட்டுப்படுத்தப்படக்கூடாது/175-349492) · `ta`
+
+"End hereditary limits on religious land positions. New government breaks generational political ties. Appoint based on merit, not lineage."
+
+🟩
+
+Jathika Paripokika Peramuna (JPP) Chairman Asela Sampath said that as parliamentary access to professionals under the National People's Power (NPP) government is common to any citizen in the Buddhist temple of Sri Lanka.
+
+Speaking to the media, he said the appointment of the new government has broken the political heritage that has been a generation.
+
+"Therefore, the posts of Basnayaka land and Divadana land in Buddhist Vihara and church organizations should no longer be limited to the same lineage or generations," he added.
+
+He also urged the government to evaluate their income, as Sampath has reported a lot of problems with the financial management of churches.
+
+◼️
+
+[Data](articles/3775c2c1.json)
+
+[Extended Data](ext_articles/3775c2c1.ext.json)
+
+---
 
 ### முதலாம் திகதியில் இருந்து  “தூய்மையான இலங்கை”
 
@@ -109,6 +133,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4d652aa8.json)
+
+---
+
+### රුපියල් මිලියන 168,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක්
+
+*2024-12-30 10:10:14* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-168-000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-413906) · `si`
+
+රුපියල් මිලියන එක්ලක්ෂ හැට අට දහසක්  වටිනා භාණ්ඩාගාර බිල්පත් නිකුතු  වෙන්දේසියක්  2025 ජනවාරි 01     දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+දින 91 න් කල් පිරෙන රුපියල් මිලියන 43,000  ක  භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 60,000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 65,000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව සඳහන් කරයි.
+
+වෙන්දේසිය සඳහා ලංසු භාර ගැනීම ජනවාරි 01 දා  දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.
+
+මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම ජනවාරි 03   දා සිදුකිරීමට නියමිතය .
+
+◼️
+
+[Data](articles/7bb490ed.json)
 
 ---
 
@@ -194,6 +236,54 @@ Senior police official said that although six people were reported to have arriv
 
 ---
 
+### Elon Musk stirs up controversy over AfD boss Alice Weidel’s Sri Lanka partner
+
+*2024-12-30 09:25:00* · [`economynextcom`](https://economynext.com/elon-musk-stirs-up-controversy-over-afd-boss-alice-weidels-sri-lanka-partner-196891/) · `en`
+
+ECONOMYNEXT – Donald Trump supporter Elon Musk has stirred up a controversy over his remarks about the partner of Alice Weidel, a top leader of Alternative for Germany (AfD) party, which has been promoting nationalism.
+
+Musk in an op-ed published in Germany’s  Welt am Sonntag newspaper said that AfD is not as extreme as claimed by critics as its co-chair had a same sex partner.
+
+Nationalists are usually against the gay community, as was Hitler’s Nazi party.
+
+“The portrayal of the AfD as right-wing extremist is clearly false, considering that Alice Weidel, the party’s leader, has a same-sex partner from Sri Lanka! Does that sound like Hitler to you? Please!” Musk wrote in the op-ed, according to the German broadcaster Deutshe Welle.
+
+Wiedel is said to have a same-sex partner in Switzeraland who is a migrant from Sri Lanka.
+
+The Welt’s opinion editor had resigned shortly after the publication, the report said.
+
+...
+
+[Data](articles/5c5362d4.json)
+
+---
+
+### Sri Lanka rupee opens flat at 292.40/60 to US dollar, bonds steady
+
+*2024-12-30 09:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-40-60-to-us-dollar-bonds-steady-196896/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 292.40/60 to the US dollar in the spot market, broadly unchanged from 292.40/70 on Friday, while bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 9.75/90 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.42/48 percent, down from 10.08/18 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.65/75 percent.
+
+An auction of Rs. 80,000 million Treasury Bonds was ongoing.
+
+The central bank announced an auction of Rs 168,000 million of Treasury bills will be held Wednesday.
+
+In equities, the All Share Price Index was up 1.21 percent or 188.74 points, at 15,724.
+
+The more liquid S&P SL20 was up 1.69 percent, or 78.81 points, at 4,745.
+
+◼️
+
+[Data](articles/8ed28d8c.json)
+
+---
+
 ### Will increase the weather with the rain again
 
 *2024-12-30 09:14:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-மழையுடனான-வானிலை-அதிகரிக்கும்/175-349479) · `ta`
@@ -250,6 +340,34 @@ The Public Utilities Commission of Ceylon Electricity Board (CEB) is about to co
 
 ---
 
+### Sri Lanka budget deficit down 31-pct, taxes up 36-pct in October
+
+*2024-12-30 08:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-31-pct-taxes-up-36-pct-in-october-196880/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit contracted absolutely by 31 percent to 1,060.8 billion rupees in the 10 months to October 2024 from 1,547 billion a year ago, while tax revenues went up 34 percent to 3,000 billion rupees.
+
+Non tax revenues went up 20 percent to 255.5 billion rupees.
+
+There was as revenue gain of 1.6 percent to 10.4 percent of projected gross domestic in the 10 months to October from 8.8 percent last year.
+
+Recurrent spending including interest went up 7 percent to 3,796 billion rupees.
+
+The current account deficit of the budget fell to 540.3 billion rupees from 1,107.4 billion rupees.
+
+Capital spending went up 18 percent to 531.7 billion rupees.
+
+Overall deficit fell 31 percent to 1,060 billion rupees from 1,547 billion rupees.
+
+The primary balance (before interest costs) was a surplus of 830 billion rupees, up from 225.4 billion rupees last year.
+
+Foreign borrowings rose to 274.5 billion rupees from 69.5 billion rupees.
+
+...
+
+[Data](articles/e1c08f42.json)
+
+---
+
 ### Former US president and Nobel Peace Prize winner Jimmy Carter dies at 100
 
 *2024-12-30 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104573/former-us-president-and-nobel-peace-prize-winner-jimmy-carter-dies-at-100) · `en`
@@ -287,6 +405,24 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa, Centra
 [Data](articles/8fc49398.json)
 
 [Extended Data](ext_articles/8fc49398.ext.json)
+
+---
+
+### Sri Lanka’s Ambeon Holdings ups stake in Seylan Bank to 8.61-pct
+
+*2024-12-30 08:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ambeon-holdings-ups-stake-in-seylan-bank-to-8-61-pct-196909/) · `en`
+
+ECONOMYNEXT – Ambeon Holdings Plc has acquired 3 million ordinary voting shares of Seylan Bank, or 0.98 percent, increasing its stake in the Sri Lankan bank to 8.61 percent.
+
+The company paid 70 rupees a share in the transaction that took place Friday, a stock exchange filing said.
+
+“Ambeon Holdings PLC now holds 8.61% of the total shareholding in Seylan Bank PLC,” according to the filing.
+
+Ambeon Holdings and its subsidiaries have been investing in the financial services sector. The group has also acquired 9 percent voting shares of DFCC Bank. (Colombo/ Dec30 /2024)
+
+◼️
+
+[Data](articles/1a7cbb31.json)
 
 ---
 
@@ -329,6 +465,30 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa, Centra
 ◼️
 
 [Data](articles/79e2bc14.json)
+
+---
+
+### Sri Lanka slaps price controls on canned fish despite raw rice disappearing
+
+*2024-12-30 07:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-slaps-price-controls-on-canned-fish-despite-raw-rice-disappearing-196884/) · `en`
+
+ECONOMYNEXT – Sri Lanka has slapped price controls on canned fish despite the raw rice going off the shelves due to price ceiling set by the Consumer Affairs Authority.
+
+The CAA has set a 380 rupee price on a tuna tin and 420 rupee for mackerel.
+
+Sri Lanka’s CAA has earlier made tinned fish go off the shelves with its price controls.
+
+It price controls on raw rice has has led to a backlash against the current administration as it did against previous administrations.
+
+Price controls may lead to lower quality goods being imported.
+
+Sri Lanka has taxed imports heavily to give protectionist profits to nationalist domestic producers.
+
+Many locally produced protectionist canned fish taste bad, according to some consumers. (Colombo/Dec30/2024)
+
+◼️
+
+[Data](articles/4d0eb7ec.json)
 
 ---
 
@@ -1963,135 +2123,5 @@ Hasalawa police are investigating the incident and the little grandfather of the
 ◼️
 
 [Data](articles/3eab1065.json)
-
----
-
-### Chamari nominated for ICC Women’s T20I and ODI Cricketer of the Year awards
-
-*2024-12-29 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104568/chamari-nominated-for-icc-womens-t20i-and-odi-cricketer-of-the-year-awards) · `en`
-
-Sri Lanka’s sensational skipper Chamari Athapaththu has been nominated for both ICC Women’s T20I Cricketer of the Year and ICC Women’s ODI Cricketer of the Year awards.
-
-It wouldn’t be an overstatement to brand Chamari Athapaththu as the most prolific female cricketer from Sri Lanka of all-time given her stellar record for the island nation, but the southpaw managed to go one further in 2024.
-
-Despite encountering an unexpected slump in the Women’s T20 World Cup, Athapaththu was the second-highest run-getter in a calendar year in women’s T20Is. Her 720 runs included two hundreds and four half-centuries, with 86 fours and 32 sixes to her name.
-
-Apart from her exploits with the willow, Athapaththu also picked 21 wickets in the period. Her best with the bat and the ball in T20Is came in 2024.
-
-Amidst a series of remarkable performances, including the two centuries in Women’s T20 World Cup Qualifier, it was Athapaththu’s brilliant 61 against India in Dambulla on July 28 that stood out.
-
-...
-
-[Data](articles/97996387.json)
-
----
-
-### පාකිස්තානය පරාජය කළ ද.අප්‍රිකාව ලෝක ටෙස්ට් ශූරතාවලියේ අවසන් මහා තරගයට
-
-*2024-12-29 17:20:30* · [`adalk`](https://www.ada.lk/sports/පාකිස්තානය-පරාජය-කළ-ද-අප්‍රිකාව-ලෝක-ටෙස්ට්-ශූරතාවලියේ-අවසන්-මහා-තරගයට/9-413895) · `si`
-
-ලෝක ටෙස්ට් ශූරතාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලබා ගැනීමට දකුණු අප්‍රිකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
-
-ඒ පාකිස්තානා කණ්ඩායම සමග පැවති පළමු ටෙස්ට් ක්‍රිකට් තරගයෙන් කඩුලු 2ක ජයක් වාර්තා කිරීමත් සමගියි.
-
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම සිය පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 211ක් රැස් කළ අතර, ඊට පිළිතුරු ඉනිම දකුණු අප්‍රිකා කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 301ක් රැස් කළේය.
-
-අනතුරු දෙවන ඉනිම ක්‍රීඩා කළ පාකිස්තාන කණ්ඩායම දෙවන ඉනිමට සියලුදෙනා දැවී ලකුණු 237ක් රැස් කළ අතර, ඒ අනුව දකුණු අප්‍රිකා කණ්ඩායමට ජයග්‍රහණයට ලකුණු 148ක ඉලක්කයක් හිමි විය.
-
-එම ඉලක්කය සාර්ථකව හඹා ගිය දකුණු අප්‍රිකා කණ්ඩායම කඩුලු 08ක් දැවී ලකුණු 150ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
-
-◼️
-
-[Data](articles/a7fdc3f0.json)
-
----
-
-### 75,000 metric ton of rice imported
-
-*2024-12-29 17:18:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/75-000-மெற்றிக்-தொன்-அரிசி-இறக்குமதி/175-349453) · `ta`
-
-Sri Lanka allows 75,000 metric tons of rice import without permit until Dec 29. Includes 32,000 tons of samba rice and 43,000 tons of other varieties. Decision made on Dec 3, 2024 to combat climate-induced local shortage.
-
-🟩
-
-Sri Lanka Customs has allowed 75,000 metric tonnes of imported rice until December 29, following the government's decision to allow rice imports without a permit.
-
-Customs Media Spokesperson and Additional Director General Sewali Arukkoda said that this includes 32,000 metric tonnes of samba rice and 43,000 metric tons of rice.
-
-The decision to allow rice imports without permits was implemented on December 3, 2024 to address the shortage of adverse climate that affect local production.
-
-◼️
-
-[Data](articles/8e69c0ac.json)
-
-[Extended Data](ext_articles/8e69c0ac.ext.json)
-
----
-
-### தகுதி வாய்ந்த மருந்தாளர்கள் இல்லாத நிலையில் புதிய மருந்தகங்களுக்கான விண்ணப்பங்கள் வருகின்றன - என்.எம்.ஆர்.ஏ தலைவர்
-
-*2024-12-29 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/202457) · `ta`
-
-புதிய மருந்தகங்களை திறப்பதற்கான விண்ணப்பங்களின் எண்ணிக்கை அதிகரித்து வருகின்ற நிலையில் தகுதிவாய்ந்த மருந்தாளர்கள் இல்லாமல் மருந்தகங்கள் பதிவு செய்யப்பட வேண்டுமா என்று தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபையின் தலைவர் வைத்தியர் ஆனந்த விஜேவிக்ரம கேள்வி எழுப்பியுள்ளார்.
-
-மருந்தாளர்களுக்கு பயிற்சி அளிப்பதற்கு தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை பொறுப்பல்ல என்றும் அதன் தலைவர் வைத்தியர் ஆனந்த விஜேவிக்ரம சுட்டிக்காட்டினார்.
-
-சில சந்தர்ப்பங்களில், மருந்தாளர்கள் போதுமான ஊதியம் இல்லாததால் மருந்தகங்களில் அவர்கள் பணியாற்றுவதில்லை. புதிய மருந்தகங்களை நிறுவுவதற்கு அடிக்கடி விண்ணப்பங்கள் வருவதற்கு இதுவே காரணமாக இருக்கின்றன.
-
-தரநிலைகளைப் பராமரிக்கவும், பொதுப் பாதுகாப்பை உறுதி செய்யவும் மருந்தகங்கள் தகுதி வாய்ந்த நிபுணர்களைக் கொண்டிருப்பதை உறுதி செய்வது மிகவும் முக்கியமானதாகும் என்றார்.
-
-◼️
-
-[Data](articles/2283e571.json)
-
----
-
-### மத்திய வங்கியின் ஓரிரவு கொள்கை வீதக் குறைப்பின் வரி கொள்கை தாக்கங்கள்
-
-*2024-12-29 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202480) · `ta`
-
-இலங்கை மத்திய வங்கியின் ஓரிரவு கொள்கை வீதம் 8.00% ஆக குறைக்கப்பட்டதன் மூலம், அது பொருளாதார மற்றும் வரி கொள்கைகளில் பல தாக்கங்களை ஏற்படுத்தும். குறைந்த வட்டி வீதம், வணிகங்கள் மற்றும் தனிநபர்களுக்கு கடன் பெறுதல் எளிதாக்குவதோடு, வரி செலுத்தும் திறனை மேம்படுத்தும் வாய்ப்புகளை உருவாக்குகின்றது. இதன் மூலம், சிறு மற்றும் நடுத்தர வணிகங்கள் (MSMEs), பொதுமக்கள் மற்றும் முதலீட்டாளர்களுக்கு புதிய வாய்ப்புகள் அதிகரிக்கும்.
-
-◼️
-
-[Data](articles/5501c154.json)
-
----
-
-### ஐந்து மாதங்களில் 60 மருந்தகங்களின் உரிமங்கள் இடைநிறுத்தம்
-
-*2024-12-29 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/202455) · `ta`
-
-கடந்த 5 மாதங்களில் 60 மருந்தகங்களின் உரிமங்கள் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை தெரிவித்துள்ளது.
-
-நாடளாவிய ரீதியில் மருந்தகங்களின் செயற்பாடுகள் மற்றும் ஏனைய தர விடயங்களை ஆராய்ந்த நிலையிலேயே இந்த நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாகவும் தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை தெரிவித்துள்ளது.
-
-அத்துடன், குறித்த மருந்தகங்களின் குறைபாடுகள் மீண்டும் பூர்த்தி செய்யப்படும் வரையில் செயற்பாடுகளுக்கான அனுமதி வழங்கப்பட மாட்டாது என்றும் தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை குறிப்பிட்டுள்ளது.
-
-இதேவேளை, அனைத்து மருந்தகங்களினதும் நிலைமைகள் தொடர்பில் அண்மைய நாட்களில் தீவிரமான கண்காணிப்பு ஆய்வுகள் நடத்தப்படுவதாக தேசிய மருந்துகள் ஒழுங்குபடுத்தும் அதிகார சபை மேலும் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/c4ee1435.json)
-
----
-
-### பொலன்னறுவையில் புதையல் தோண்டிய நால்வர் கைது
-
-*2024-12-29 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202454) · `ta`
-
-பொலன்னறுவை நகர் பகுதியில் அமைந்துள்ள தொல்பொருள் பெறுமதிமிக்க இடமொன்றில் புதையல் தோண்டலில் ஈடுபட்டுக்கொண்டிருந்த 4 சந்தேக நபர்களை பொலன்னறுவை வலய குற்றத்தடுப்பு பிரிவு பொலிஸார் நேற்று சனிக்கிழமை (28) கைது செய்துள்ளனர்.
-
-வலய குற்றத்தடுப்புப் பிரிவு பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்கள் 33 - 69 வயதுக்கு இடைப்பட்ட பொலன்னறுவை பகுதியை  சேர்ந்தவர்கள் ஆவர்.
-
-சந்தேக நபர்களிடமிருந்து புதையல் தோண்டுவதற்கு பயன்படுத்தப்பட்ட உபகரணங்கள் மற்றும் பூஜைப் பொருட்களை பொலிஸார் கைப்பற்றியுள்ளனர்.
-
-இச்சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பொலன்னறுவை வலய குற்றத்தடுப்பு பிரிவு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/8352145e.json)
 
 ---

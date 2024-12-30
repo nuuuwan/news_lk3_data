@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 18:04:25**
+As of **2024-12-30 18:24:36**
 
 ## Newspaper Stats
 
-*Scraped **62,742** Articles*
+*Scraped **62,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,993
+adalk | 5,994
 adaderanalk | 7,664
-tamilmirrorlk | 9,000
+tamilmirrorlk | 9,001
 virakesarilk | 10,428
 adaderanasinhalalk | 10,840
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,840
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,951 (98.7%) of 62,742 articles have been extended.
+61,951 (98.7%) of 62,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### விமான விபத்தில்   தப்பிய இருவர் கேட்டது என்ன?
+
+*2024-12-30 17:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்தில்-தப்பிய-இருவர்-கேட்டது-என்ன/50-349517) · `ta`
+
+தாய்லாந்தின் பாங்காக்கில் இருந்து, 175 பயணிகள், 6 ஊழியர்கள் என 181 பேருடன் தென்கொரியாவுக்கு புறப்பட்ட பயணியர் விமானம், அந்நாட்டின் முவான் விமான நிலையத்தில் தரையிறங்கும் போது, ஓடுபாதையில் இருந்து விலகி, கான்கிரீட் தடுப்புச் சுவர் மீது மோதி விபத்துக்கு உள்ளானதில், 179 பேர் உயிரிழந்தனர். இந்த விபத்தில் 32 வயதான லீ மற்றும் 25 வயதான குவான் ஆகிய இரு விமானப் பணிப்பெண்கள் மட்டும் அதிர்ஷ்டவசமாக உயிர் தப்பினர்.
+
+இவர்கள் இருவரும் இடிபாடுகளில் வால் பகுதியில், பயணிகளுக்கு உதவி செய்ய பணியில் இருந்துள்ளனர். என்ன நடந்தது? நான் ஏன் இங்கே இருக்கிறேன்?' என தென்கொரியா விமான விபத்தில் உயிர் தப்பிய பயணிகள் இருவர் டாக்டரிடம் கேட்டுள்ளனர். இவர்கள் இருவரால் விபத்தை நினைவுப்படுத்த முடியவில்லை. இவர்கள் இருவரிடம் உடல்நிலை குறித்து விசாரித்த போது அவர்கள் சுயநினைவை இழந்தது தெரியவந்தது. 'அவர்கள் பயத்தில் இருக்கிறார்கள்.
+
+...
+
+[Data](articles/a01e79cf.json)
+
+---
 
 ### Legal action against 413 people
 
@@ -57,6 +71,26 @@ In addition, legal action has been taken against 7,676 drivers for crimes includ
 [Data](articles/6f095a74.json)
 
 [Extended Data](ext_articles/6f095a74.ext.json)
+
+---
+
+### සබරගමුවේ ඉහළම පුටු දෙකම කාන්තාවන්ට
+
+*2024-12-30 17:23:29* · [`adalk`](https://www.ada.lk/breaking_news/සබරගමුවේ-ඉහළම-පුටු-දෙකම-කාන්තාවන්ට/11-413918) · `si`
+
+සබරගමු පළාත් සභාවේ නව ප්‍රධාන ලේකම් ලෙස ඊ.කේ.ඒ. සුනිතා මහත්මිය 30දා වැඩ බාරගත්තාය. ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් මෙම පත්වීම සිදුකර ඇත. පසුගිය 26දා ජනාධිපති ලේකම් ආචාර්ය නන්දික සමන් කුමානායක මහතා විසින් සුනීතා මහත්මියට අදාල පත්විම් ලිපිය ප්‍රදානය කර තිබුණි. ඇය සබරගමු පළාත් සභාවේ දහසය වන ප්‍රධාන ලේකම්වරියද වෙයි.
+
+සුනීතා මහත්මිය ප්‍රදාන ලේකම් තනතුරට පත්වීමත් සමගම සබරගමු පළාතේ ඉහළම තනතුරු දෙකම හොබවන්නේ කාන්තාවන් දෙදෙනෙක්ය. සබරගමුවේ ආණ්ඩුකාරධුරය හොබවන්නේද කාන්තාවකි. ඇය චම්පා ජානකී මහත්මියයි.
+
+හිටපු ප්‍රධාන ලේකම් මහින්ද එස් වීරසුරිය මහතා විශ්‍රාම යාමට නියමිතය.
+
+රුහුණු විශ්ව විද්‍යාලයේ සිංහල විශේෂවේදී දෙවන පෙළ සාමාර්ථයක් සහිතව ප්‍රථම උපාධිය සම්පුර්ණ කර ඇති සුනීතා මහත්මිය පසුව කැළණිය විශ්ව විද්‍යාලයේ සමාජ විද්‍යාව පිළිබදව ශාස්ත්‍රපති උපාධිය හදාරා ඇත.
+
+ඇය ශ්‍රීලංකා පරිපාලන සේවයට මුලින්ම එක්ව ඇත්තේ 1998 වර්ෂයේ දීය. සොරණාතොට, කැනමල්පල සහ ලුණුගම්වෙහෙර සහකාර ප්‍රාදේශීය ලේකම්වරිය ලෙස කටයුතු කර ඇති ඇය පසුව ලුණුගම්වෙහෙර, ඔකේවෙල සහ හම්බන්තොට ප්‍රාදේශීය ලේකම්වරිය ලෙසද කටයුතු කරනු ලැබීය.
+
+...
+
+[Data](articles/5136771d.json)
 
 ---
 
@@ -2035,43 +2069,5 @@ Resus Energy Founder and Managing Director Kishan Nanayakkara was recognised at 
 ...
 
 [Data](articles/91cfd472.json)
-
----
-
-### DIMO strengthens regional growth with new DIMO CAREHUB in Marawila, Puttalam District
-
-*2024-12-30 02:03:41* · [`dailyftlk`](https://www.ft.lk/business/DIMO-strengthens-regional-growth-with-new-DIMO-CAREHUB-in-Marawila-Puttalam-District/34-771142) · `en`
-
-DIMO, the diversified conglomerate in Sri Lanka, recently opened its latest DIMO CAREHUB located at Chilaw Road, Horagolla, Marawila, in Puttalam District. The company’s dedication to strengthening the North Western Province’s economy and improving community access to top-notch services and solutions is demonstrated by this strategic expansion.
-
-Located in Sri Lanka’s west coast between Negombo and Chilaw, the new DIMO CAREHUB in Marawila is well-poised to play a significant role in the development of the area and support the expansion of the local economy by providing local communities and companies with a wide choice of automotive, agricultural, and household solutions.
-
-...
-
-[Data](articles/0441e2d8.json)
-
-[Extended Data](ext_articles/0441e2d8.ext.json)
-
----
-
-### ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
-
-*2024-12-30 01:36:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4g3488wlv1o) · `si`
-
-ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
-
-මෙරට ආරක්ෂක අංශයේ ඉහළ නිලධාරීන් කිහිප දෙනෙකු 2025 ජනවාරි මස 01 වැනිදා සිට විශ්‍රාම ගැනීමට නියමිතව තිබේ.
-
-ඒ අනුව ආරක්ෂක මාණ්ඩලික ප්‍රධානී ජෙනරාල් ශවේන්ද්‍ර සිල්වා, යුද්ධ හමුදාපති ලුතිනන් ජෙනරාල් විකුම් ලියනගේ සහ නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා එලෙස විශ්‍රාම ගැනීමට නියමිතව ඇති බව වාර්තා වෙයි.
-
-ශ්‍රී ලංකා යුද්ධ හමුදාවේ 23 වන යුද හමුදාපතිවරයා ලෙස 2019 වසරේ අගෝස්තු මස 18 වැනිදා පත් කෙරුණි.
-
-1984 මාර්තු 5 වන දින යුද හමුදාවේ නිත්‍ය බඳවා ගැනීම් 19 යටතේ හමුදා පුහුණුවට එක්වූ ඔහු සිය පුහුණුවීම් වලින් අනතුරුව 1985 වසරේ නොවැම්බර් මස 16 වැනිදා ගජබා රෙජිමේන්තුවට අනුයුක්තව හමුදා සේවයට එක්විය.
-
-එල්.ටි.ටි.ඊ. සංවිධානයට එරෙහිව පැවති හමුදා මෙහෙයුම් රැසකට සක්‍රීය දායකත්වය ලබා දුන් ඔහු මෙරට ජනතාව අතර ප්‍රසිද්ධියට පත්වන්නේ 2007 -2009  යුද සමයේදී 58 වන සේනාකාංධිපති බ්‍රිගේඩියර් ශවේන්ද්‍ර සිල්වා ලෙස කටයුතු කළ සමයේදී යි.
-
-...
-
-[Data](articles/55976d3b.json)
 
 ---

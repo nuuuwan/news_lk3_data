@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 00:17:27**
+As of **2024-12-31 00:28:13**
 
 ## Newspaper Stats
 
-*Scraped **62,798** Articles*
+*Scraped **62,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 636
 bbccomsinhala | 659
 islandlk | 3,810
 economynextcom | 3,818
-dailyftlk | 4,344
+dailyftlk | 4,351
 dailymirrorlk | 4,733
 adalk | 6,000
 adaderanalk | 7,674
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,960 (98.7%) of 62,798 articles have been extended.
+61,960 (98.7%) of 62,805 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -110,6 +110,34 @@ In the morning, some parts of the upper, Sabaragamuwa, Central and Southern Prov
 
 ---
 
+### From visitors to ambassadors: Enhancing customer retention in Sri Lanka’s tourism sector
+
+*2024-12-30 22:36:27* · [`dailyftlk`](https://www.ft.lk/columns/From-visitors-to-ambassadors-Enhancing-customer-retention-in-Sri-Lanka-s-tourism-sector/4-771170) · `en`
+
+In Sri Lanka’s tourism sector, customer retention can be considered as one important strategy which transforms one-time visitors into lifelong advocates of our island’s charm
+
+Sri Lanka needs to have a future focus in terms of tourism and there should be some long-term strategies in this context. If you have more loyal customers with better retention then you might have more competitive advantage than other players (countries) in the market. In Sri Lankan tourism there should be separate strategies to retain customers. We need to see the best practices of other countries as well. The authentic “smile” of Sri Lankans can be considered as one attraction to retain customers
+
+...
+
+[Data](articles/27c8f7d0.json)
+
+---
+
+### Forensic auditing
+
+*2024-12-30 22:31:09* · [`dailyftlk`](https://www.ft.lk/columns/Forensic-auditing/4-771169) · `en`
+
+The continuous development of forensic auditing is essential to keep pace with evolving fraud techniques and emerging risks
+
+Forensic auditing or investigation plays a very important role in the fight against fraud, corruption and other financial malpractices in not only business companies and non-governmental organisations but also mainstream government departments. The employment of experts in forensic auditing or investigation as internal or public anti-economic crime consultants go a long way in fostering operational efficiency
+
+...
+
+[Data](articles/1107e71e.json)
+
+---
+
 ### President directs to swiftly implement plans to make Sri Lanka an attractive tourist destination
 
 *2024-12-30 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104598/president-directs-to-swiftly-implement-plans-to-make-sri-lanka-an-attractive-tourist-destination) · `en`
@@ -125,6 +153,66 @@ Additionally, discussions focused on promoting the tourism sector through enviro
 ...
 
 [Data](articles/cf64458f.json)
+
+---
+
+### Preventing corruption at bureaucratic level
+
+*2024-12-30 22:21:43* · [`dailyftlk`](https://www.ft.lk/columns/Preventing-corruption-at-bureaucratic-level/4-771168) · `en`
+
+To effectively combat corruption at the official level, it is crucial to address its root causes and close the channels that enable unethical practices
+
+Corruption is recognised worldwide as a cancerous force that erodes good governance and hinders national development. For decades, the people of this country have dreamed of a government dedicated to eradicating corruption. This dream has come true in the form of the new NPP Government, whose primary focus is to combat corruption that is rampant in both the political and bureaucratic spheres.
+
+The overwhelming and unprecedented support for the NPP Government comes with high expectations. However, this support is a double-edged sword—high expectations mean that, as recent history has shown, any failure to meet them can lead to a strong public backlash.
+
+Corruption can be classified into two main types based on its origin:
+
+...
+
+[Data](articles/4cf8a983.json)
+
+---
+
+### Sri Lanka’s crisis: Short and long run
+
+*2024-12-30 22:10:37* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-crisis-Short-and-long-run/4-771166) · `en`
+
+If there is one big lesson to be learned, it is that there are no shortcuts to carving out a real path out of the depression
+
+The problem, however, cannot be resolved simply by critiquing the IMF. Rather, a new macroeconomic framework is required to identify and resolve the specific aspects of the depression in Sri Lanka. This approach requires thinking the short run solutions of relief and stimulus together with a long run development vision. Historically, of course, the field of development economics has held that poor countries need to generate enough of a surplus that can be invested in sectors of the economy capable of producing robust growth, especially industry
+
+...
+
+[Data](articles/e1836dea.json)
+
+---
+
+### Case for smart sizing public service
+
+*2024-12-30 22:06:05* · [`dailyftlk`](https://www.ft.lk/columns/Case-for-smart-sizing-public-service/4-771165) · `en`
+
+Smart sizing offers Sri Lanka a strategic pathway to modernising its public sector
+
+The public service is a major employer in Sri Lanka, engaging approximately 1.3 million people. Recently, Presidential Advisor Duminda Hulangamuwa remarked that the country would need to downsize its State sector employee pool from its existing 1.3 million to 750,000. Sri Lanka’s public sector has historically served as a cornerstone of governance and public service delivery. However, persistent challenges such as inefficiency, overspending, and a lack of accountability have significantly hindered its performance.
+
+...
+
+[Data](articles/b1a7a7e3.json)
+
+---
+
+### Truth about nation brand building campaigns
+
+*2024-12-30 21:52:09* · [`dailyftlk`](https://www.ft.lk/columns/Truth-about-nation-brand-building-campaigns/4-771164) · `en`
+
+People within and outside the country must talk good of Sri Lanka
+
+There has been much discussion recently in the media that Sri Lanka will be developing a ‘Unified Campaign’ that will be based on the core values of the country. The campaign will cut across tea, exports, Sri Lanka cricket and tourism and each of these items will reflect the core values of Sri Lanka. The media reports also shared the benefits that such a campaign can bring into a country. It’s great that the current administration, who has educated policy makers, is thinking of such game changing strategies.
+
+...
+
+[Data](articles/5d915869.json)
 
 ---
 
@@ -187,6 +275,22 @@ The top priority for now is identifying the victims, supporting their families a
 ◼️
 
 [Data](articles/d979bd62.json)
+
+---
+
+### Revival of trade promotion office by NPP essential
+
+*2024-12-30 21:41:14* · [`dailyftlk`](https://www.ft.lk/columns/Revival-of-trade-promotion-office-by-NPP-essential/4-771163) · `en`
+
+The manifesto of the NPP was launched last August by its leader Anura Kumara Dissanayake
+
+National People’s Power (NPP) that came to power with a landslide victory, in its manifesto has clearly noted the necessity of export development and even key members of the NPP in various fora highlighted that priority would be given to export development.
+
+Since the latter part of the 1970s Sri Lanka has been following the market-oriented economy or so called open economic policy. The main objective of the founders of this open economy was to create an export-oriented economy to produce products and services to the mass global market. Even the major partner of the new Government Janatha Vimukthi Peramuna (JVP), a Marxist party and NPP commonly believes in the need of the existing economic policy which is based on a market-oriented economy. The NPP Government accordingly may consider to continue the same economic policy with strategic changes introduced for the benefit of the people as needed.
+
+...
+
+[Data](articles/edb6d7d7.json)
 
 ---
 
@@ -1871,147 +1975,5 @@ The farmer says he will not give up the protest until he is given a proper solut
 [Data](articles/1e39b669.json)
 
 [Extended Data](ext_articles/1e39b669.ext.json)
-
----
-
-### Notice of the Yala Season's Cultivation
-
-*2024-12-30 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204850) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Compensation for crop damage during Yala Season 2023: 80% of farmers received ~Rs. 80 million. Payments completed by Jan 5, 2024. Direct bank transfers ensured. Next payment for Maha Season 2024/25 expected early Feb 2024.
-
-🟩
-
-Arrangements have been made to pay back on January 5, before the vessel, drought and wild elephant suffers from the Yala Season.
-
-The Ministry of Agriculture and Agrarian Insurance issued a statement.
-
-On March, 2024, from March 2024 to the Yala season, including paddy, and other crops were destroyed. Especially drought, floods and wild elephants were special.
-
-The statement has also been able to reduce the cultivated in all districts by January 5, and nearly 80% of the farmers have been able to pay nearly Rs. 80 million.
-
-All the victims have been paid to all the previous farmers in the relevant compensation by 5th January.
-
-It also arises that the compensation has been taken directly to the farmer's bank account and that the compensation will be taken carefully and that they have been paid with the most cautious and destroyed.
-
-The statement has also stated that the compensation paid to the Maha Season 2024/2025 will be paid by the beginning of February.
-
-◼️
-
-[Data](articles/c0b4bc52.json)
-
-[Extended Data](ext_articles/c0b4bc52.ext.json)
-
----
-
-### Treasury pays stationery allowance for schoolchildren through ‘Aswesuma’ bank accounts
-
-*2024-12-30 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104582/treasury-pays-stationery-allowance-for-schoolchildren-through-aswesuma-bank-accounts) · `en`
-
-The Ministry of Finance, Planning and Economic Development states that the ‘Household Survey on the Impact of the Economic Crisis – 2023,’ conducted by the Department of Census and Statistics, revealed that the adverse effects of the economic crisis have significantly impacted children’s education.
-
-The survey has disclosed that 55% of schoolchildren have been adversely affected, with this percentage being higher in rural and estate areas. Furthermore, it was found that 53.2% of the affected children have either reduced or completely stopped purchasing school stationery, while 26.1% have resorted to re-using previously used stationery.
-
-The Finance Ministry said that accordingly, to mitigate the adverse effects on the education of vulnerable schoolchildren, the government decided to provide an allowance to assist with the purchase of school stationery at the beginning of the 2025 school year.
-
-...
-
-[Data](articles/9dd7848d.json)
-
----
-
-### Major General Lasantha Rodrigo appointed as New Army Commander
-
-*2024-12-30 12:08:18* · [`adalk`](https://www.ada.lk/breaking_news/නව-යුධ-හමුදාපති-ලෙස-මේජර්-ජනරල්-ලසන්ත-රොද්‍රිගෝ-පත්-කරයි/11-413909) · `si`
-
-Major General Lasantha Rodrigo named 25th Army Commander by President Anura Kumara Dissanayake.
-
-🟩
-
-Major General Lasantha Rodrigo has been appointed as the 25th Army Commander of this country.
-
-The appointment has been made by President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/80bbfd7f.json)
-
-[Extended Data](ext_articles/80bbfd7f.ext.json)
-
----
-
-### கர்தினால் ரஞ்சித் பற்றிய ஒலிப்பதிவால் சர்ச்சை
-
-*2024-12-30 12:03:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கர்தினால்-ரஞ்சித்-பற்றிய-ஒலிப்பதிவால்-சர்ச்சை/175-349495) · `ta`
-
-ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதலின் பின்னர் பிரபலமாகிய நாமல் குமார, கொழும்பு பேராயர் கர்தினால் ரஞ்சித் குறித்து சமூக ஊடகங்களில் வெளியான செய்திகள் தொடர்பில் ஜனாதிபதி செயலகத்தில் முறைப்பாடு செய்ததையடுத்து மீண்டும் சர்ச்சைக்குள்ளாகியுள்ளார்.
-
-தேசிய கத்தோலிக்க தொடர்பாடல் பணிப்பாளர் அருட்தந்தை ஜூட் கிரிசாந்த சமூக ஊடகங்களில் வெளியான தகவல் தொடர்பில் கொழும்பு குற்றத்தடுப்பு பிரிவில் (சிஐடி) முறைப்பாடு செய்துள்ளார்.
-
-இது தொடர்பில் டெய்லி மிரர் அருட்தந்தை ஜூட் கிரிசாந்தவை வினவிய போது, கர்தினாலிடம் CID வாக்குமூலம் பதிவு செய்ததாக அவர் உறுதிப்படுத்தினார்.
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் ரஞ்சன் ராமநாயக்கவின் வசம் உள்ள ஒரு ஒலிப்பதிவு கார்டினல் ரஞ்சித்தின் நடத்தை குறித்து விமர்சிப்பதாக நாமல் குமார கடந்த வாரம் ஊடகவியலாளர்களிடம் தெரிவித்தார். இது தொடர்பில் ஜனாதிபதி செயலகத்தில் முறைப்பாடு செய்த போதே அவர் மேற்கண்டவாறு தெரிவித்தார். “எனது இச் செயற்பாடு கர்தினாலைப் பாதுகாப்பதே தவிர, அவர் மீது சேறு பூசுவது அல்ல,” என்று அவர் மேலும் கூறினார்.
-
-...
-
-[Data](articles/0fd37988.json)
-
----
-
-### பாணந்துறையில் 10 இலட்சம் ரூபா பெறுமதியான போதைப்பொருட்களுடன் இளைஞன் கைது!
-
-*2024-12-30 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202525) · `ta`
-
-பாணந்துறை, மாலமுல்ல, கொங்கஹகொட்டுவ பிரதேசத்தில் போதை மாத்திரைகள் மற்றும் ஐஸ் போதைப்பொருட்களுடன் இளைஞன் ஒருவன் கைது செய்யப்பட்டுள்ளதாக ஹிரண பொலிஸார் தெரிவித்தனர்.
-
-ஹிரண பொலிஸாருக்குக் கிடைத்த தகவலின் பேரில் கொங்கஹகொட்டுவ பிரதேசத்தில் உள்ள வீடொன்றில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-இதன்போது, குறித்த வீட்டினுள் அட்டைப்பெட்டியில் மிகவும் சூட்சுமமான முறையில் மறைத்து வைக்கப்பட்டிருந்த 11,080 மில்லிகிராம் ஐஸ் போதைப்பொருளும் 5,000 போதை மாத்திரைகளும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/24552bcb.json)
-
----
-
-### 2024දී වන අලි මරණ 350ක්
-
-*2024-12-30 11:54:01* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-වන-අලි-මරණ-350ක්/11-413908) · `si`
-
-2024 වසර තුළ මේ දක්වා වන අලි මරණ 350ක් සිදුවී ඇති බව වනජීවී දෙපාර්තමේන්තුව සඳහන් කරයි. පසුගිය වසර තුළදී අලි මරණ 450ක් සිදුව තිබූ අතර මේ වර්ෂයේදී එම ප්‍රමාණය 100කින් අඩුවී ඇති බව වනජීවී දෙපාර්තමේන්තුව පෙන්වා දෙයි.
-
-වනජීවී දෙපාර්තමේන්තුවත් ,පරිසර සංවිධානත් ,වෙනත් විවිධ සංවිධානත් අලින්ගේ ආරක්ෂාව සඳහා සිදු කරන  ලද ක්‍රියාදාම හේතුවෙන් මෙම තත්ත්වය ඇති වී ඇති බවද වනජීවි දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
-
-2024 වසර තුළ මියගිය අලින් 350 දෙනාගෙන් වැඩි ප්‍රමාණයක් මිය ගොස් ඇත්තේ වෙඩි තැබීම් හේතුවෙන්ය. එලෙස වෙඩි තබා මරා දමන ලද අලින් සංඛ්‍යාව 70ක් වන අතර විදුලිසැර වැදීමෙන් මිය ගිය අලි සංඛ්‍යාව 50 ක් බව වාර්තා වෙයි.
-
-මිනිසුන් හක්කපටස් යොදා, මරා දමා ඇති අලි සංඛ්‍යාව 35ක් ලෙස සඳහන් වෙයි. මීට අමතරව දුම්රියවල ගැටීමෙන් අලින් 10 දෙනකු මියගොස් තිබිණි.
-
-මෙවන විට ශ්‍රී ලංකාවේ ජීවත්වන අලින් සංඛ්‍යාව 5879ක් වන අතර මිනිසුන්ගේ විවිධ ක්‍රියාකාරකම් නිසා වාර්ෂිකව මේ ලෙසින් අලින් මිය යෑමට සිදු වුවහොත් අලි ගහනය ඉක්මනින්ම මෙරටින් වඳ වී යා හැකි බව  වනජීවී දෙපාර්තමේන්තුව පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/8ee7b64e.json)
-
----
-
-### சிகிரியாவை பாதுகாக்கும் விசேட திட்டம் - கொரியாவிடமிருந்து நிதி உதவி
-
-*2024-12-30 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202519) · `ta`
-
-உலகப் பாரம்பரியச் சின்னமாக விளங்கும் சிகிரியாவைப் பாதுகாக்கும் விசேட திட்டத்திற்காக 2.4 பில்லியன் ரூபா நிதி உதவி வழங்குவதற்கு கொரியா சர்வதேச ஒத்துழைப்பு நிறுவனம் விருப்பம் தெரிவித்துள்ளது.
-
-சிகிரியா பாறைக்கு செல்வதற்கான பாதை மேம்பாடு, மாற்று பாதை அமைத்தல், சிகிரியா அருங்காட்சியகம், உணவகம் மற்றும் பற்றுச்சீட்டு பெறும் இடம் உள்ளிட்ட பல திட்டங்கள் இதனுள் உள்ளடங்குகின்றது.
-
-இதற்காக, புத்தசாசன, சமய கலாசார அலுவல்கள் அமைச்சின் அறிவுறுத்தலின்படி, மத்திய கலாசார நிதியம் மற்றும் கொரியா சர்வதேச ஒத்துழைப்பு முகவர் நிறுவனங்களுக்கு இடையில் புரிந்துணர்வு ஒப்பந்தம் ஒன்று கைச்சாத்திடப்பட உள்ளது.
-
-இத்திட்டம் தொடர்பான கலந்துரையாடல் பௌத்த, சமய மற்றும் கலாசார அலுவல்கள் பிரதி அமைச்சர் சுனில் செனவி தலைமையில் அமைச்சில் இடம்பெற்றதுடன், கொரியா சர்வதேச ஒத்துழைப்பு முகவரகத்தின் பிரதிநிதிகள் , அதன் உள்ளூர் இயக்குனர் யுங்ஜின் கிம், துணை உள்ளூர் இயக்குனர் யோங் வான் கிம், அமைச்சக செயலாளர் ஏ.எம்.பி.எம்.பி. அதபத்து மற்றும் மத்திய கலாசார நிதியத்தின் பணிப்பாளர் நாயகம் கலாநிதி நிலான் குரே உள்ளிட்டோர் கலந்துகொண்டனர்.
-
-◼️
-
-[Data](articles/c770eeee.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 16:02:22**
+As of **2024-12-30 16:16:10**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 10,838
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,948 (98.7%) of 62,735 articles have been extended.
+61,949 (98.7%) of 62,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### எல்பிட்டிய பட்ஜெட் ஏகமனதாக நிறைவேற்றம்
+### Elpitiya Budget Unanimously
 
 *2024-12-30 15:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-பட்ஜெட்-ஏகமனதாக-நிறைவேற்றம்/175-349508) · `ta`
 
-எல்பிட்டிய பிரதேச சபையின் 2025ஆம் ஆண்டுக்கான முதலாவது வரவு-செலவுத் திட்டம்  எவ்வித விவாதமும் இன்றி ஏகமனதாக, திங்கட்கிழமை (30) நிறைவேற்றப்பட்டது.
+Here's a summary of 200 characters:
 
-தேசிய மக்கள் சக்தியின் தவிசாளர் சனத் சுமனசிறியினால் சமர்ப்பிக்கப்பட்ட    இந்த வரவு- செலவுத் திட்டம் ஸ்ரீலங்கா பொதுஜன பெரமுன உறுப்பினர் நளீன் பிரியதர்ஷனவின் முன்மொழிவுடன் பொதுஜன ஐக்கிய சுதந்திரக் கூட்டமைப்பின்  உறுப்பினர் சரத் அல்விஸின் வழிமொழிவுடன்  நிறைவேற்றப்பட்டமை விசேட அம்சமாகும்.
 
-தேசிய மக்கள் சக்தியின் தவிசாளர் உட்பட 15 உறுப்பினர்கள்,  பிற கட்சிகளில் இருந்து தேர்ந்தெடுக்கப்பட்ட 11 உறுப்பினர்கள் அடங்களாக, 26 உறுப்பினர்கள் இந்த விசேட கூட்டத்தில் பங்கேற்றனர்.
+
+Elpitiya Pradeshiya Sabha passed first budget unanimously. Presented by National People's Power Chairman Sanath Sumanasiri. 26 members participated in special meeting. Budget proposal includes features suggested by Sri Lanka PA Member Nalin Priyadarshana.
+
+🟩
+
+The first budget of the Elpitiya Pradeshiya Sabha was unanimously passed on Monday (30) without any debate.
+
+The budget, which was presented by the National People's Power Chairman Sanath Sumanasiri, was a special feature of the proposal of Sri Lanka's PA, Member Nalin Priyadarshana, with the proposal of PA.
+
+At least 15 members, including the Chairman of the National People's Power, were elected from other parties, 26 members participated in the special meeting.
 
 ◼️
 
 [Data](articles/55182d6b.json)
+
+[Extended Data](ext_articles/55182d6b.ext.json)
 
 ---
 

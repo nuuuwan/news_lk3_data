@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 23:27:31**
+As of **2024-12-30 23:43:55**
 
 ## Newspaper Stats
 
-*Scraped **62,786** Articles*
+*Scraped **62,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 462
 colombotelegraphcom | 636
 bbccomsinhala | 659
-economynextcom | 3,810
 islandlk | 3,810
+economynextcom | 3,818
 dailyftlk | 4,344
 dailymirrorlk | 4,733
 adalk | 6,000
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,853
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,960 (98.7%) of 62,786 articles have been extended.
+61,960 (98.7%) of 62,794 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -504,6 +504,28 @@ Speaking further on this matter, the Minister also mentioned that they expect to
 
 ---
 
+### Sri Lanka president appoints new army, navy chief
+
+*2024-12-30 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-new-army-navy-chief-197022/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed new commanders for army and navy on Monday.
+
+“I appointed Major General Lasantha Rodrigo as the new Army Commander and Rear Admiral Kanchana Banagoda as the new Navy Commander,” Dissanayake said in his X platform.
+
+The move comes after the former commanders went on retirement.
+
+Major General Rodrigo is the 25th Commander of the Sri Lanka Army and has succeeded retiring Lieutenant General Vikum Liyanage on December 31.
+
+Rear Admiral Banagoda, who is the Chief of Staff of the Sri Lanka Navy will be taking over as the 26th Commander of the Sri Lanka Navy from January 1, 2025, succeeding Vice Admiral Priyantha Perera.
+
+The official appointment letters were presented to the newly appointed commanders on Monday (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat.
+
+...
+
+[Data](articles/5b47aeec.json)
+
+---
+
 ### මඩකලපුවෙන් අල්ලාගත් යෝධ කිඹුලා
 
 *2024-12-30 18:09:17* · [`adalk`](https://www.ada.lk/breaking_news/මඩකලපුවෙන්-අල්ලාගත්-යෝධ-කිඹුලා/11-413921) · `si`
@@ -740,6 +762,24 @@ In addition, legal action has been taken against 7,676 drivers for crimes includ
 
 ---
 
+### Sri Lanka rupee closes weaker at 292.55/75 to dollar, bonds steady
+
+*2024-12-30 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-55-75-to-dollar-bonds-steady-197018/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 292.55/75 to the US dollar on Monday from 292.40/70 on Friday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.40/55 percent, up from up 9.40/50 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.65/75 percent.
+
+A bond maturing on 15.05.2030 closed at 10.95/11.10 percent, from 11.00/10 percent. (Colombo/Dec307/2024)
+
+◼️
+
+[Data](articles/a0d74d63.json)
+
+---
+
 ### Colombo Chief Magistrate requests to transfer bribery case against ‘brother’ to another court
 
 *2024-12-30 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104591/colombo-chief-magistrate-requests-to-transfer-bribery-case-against-brother-to-another-court) · `en`
@@ -755,6 +795,26 @@ On Saturday (28), the Colombo Additional Magistrate ordered the two accused incl
 ...
 
 [Data](articles/f24447ba.json)
+
+---
+
+### Sri Lanka stocks close at fresh record high, financials lead
+
+*2024-12-30 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-at-fresh-record-high-financials-lead-197016/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange ended at a new record closing high on Monday led by financials in strong turnover, data on its site showed.
+
+The broader ASPI closed up 1.88 percent, or 291.79 points, at 15,827.39; while the more liquid S&P SL20 Index closed up 3.14 percent, or 146.79 points, at 4,813.38.
+
+“It is the bullish trend and we believe that trend to continue because the uncertainties that were there are being removed one by one,” Dimantha Mathew, Chief Research & Strategy Officer at First Capital Holdings PLC, told EconomyNext.
+
+“Interest rates are on further decline and investors are on the lookout for alternative investment. This is why we see heavy demand coming for equities. There is also expectation on foreigners coming into the market in the near future. So there is a huge boom in the market.”
+
+Bank and financial shares led the market gain and the turnover which was 10.2 billion rupees.
+
+...
+
+[Data](articles/3db84fde.json)
 
 ---
 
@@ -777,6 +837,26 @@ On Saturday (28), the Colombo Additional Magistrate ordered the two accused incl
 ...
 
 [Data](articles/3a343ac0.json)
+
+---
+
+### Sri Lanka Human Rights Commission denied access to Myanmar asylum seekers
+
+*2024-12-30 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-human-rights-commission-denied-access-to-myanmar-asylum-seekers-197000/) · `en`
+
+ECONOMYNEXT- Sri Lanka Human Rights Commission has complained to President Anura Kumara Dissanayake that it was denied access to asylum seekers from Myanmar who were rescued from a boat.
+
+“On 26 December 2024, a team of officials from the HRCSL, including a director, attempted to monitor the detention conditions of these asylum seekers at the Sri Lanka Air Force Camp in Mullaitivu in the Northern Province,” the HRC said.
+
+According to section 11(d) of Hurman Rights Commission of Sri Lanka Act it had access to ‘any person’ detained in Sri Lanka and not just citizens.
+
+“Therefore, the Commission has the statutory authority to access the said Air Force Camp and monitor the detention conditions of all asylum seekers, including the children present,” the HRC said.
+
+On December 27, the HRC had written to President Dissanayake requesting an issuance of directives to institutions to facilitate access to the asylum seekers.
+
+...
+
+[Data](articles/dd443fe1.json)
 
 ---
 
@@ -988,6 +1068,24 @@ It is because of his intervention, the Camp David Peace Agreement.
 
 ---
 
+### Sri Lanka sells Rs80bn in 2028 and 2033 bonds
+
+*2024-12-30 16:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs80bn-in-2028-and-2033-bonds-196994/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 80 billion rupees in 2028 and 2033 bonds, data from the state debt office showed.
+
+All offered 45 billion rupees of 15 October 2028 (LKB00428J159) bonds were sold at an average yield of 10.42 percent.
+
+All offered 35 the billion rupees of 01 June 2033 (LKB02033F013) bonds were sold at a weighted average yield of 11.47 percent.
+
+The LKB00428J159 bond was available on tap after the auction. (Colombo/Dec30/2024)
+
+◼️
+
+[Data](articles/0070e9e8.json)
+
+---
+
 ### வீட்டுக் காவலில் வைக்கப்பட்ட  முன்னாள் பிரெஞ்சு ஜனாதிபதி சார்கோஸி
 
 *2024-12-30 16:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202565) · `ta`
@@ -1017,6 +1115,26 @@ It is because of his intervention, the Camp David Peace Agreement.
 ...
 
 [Data](articles/12e892c0.json)
+
+---
+
+### Sri Lanka tea production up 5.45-pct in November, exports down 6.4-pct
+
+*2024-12-30 15:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-up-5-45-pct-in-november-exports-down-6-4-pct-196989/) · `en`
+
+ECONOMYNEXT – Sri Lanka tea production rose 5.45 percent from a year ago to 22.3 million kilograms in November while exports fell 6.46 percent to 20 million kilograms, industry data showed.
+
+Sri Lanka had exported 223.23 million kilograms in the 11 months to November 2024, down 0.9 percent from a year ago.
+
+In the 11 months to November production, 240 million kilograms, up 3.7 percent from a year ago.
+
+In November 2024 low grown production was 12.87 million kilograms, up from 11.7 million kilograms last year.
+
+In November bulk tea was down at 8.29 million, from 8.9 million last year.
+
+◼️
+
+[Data](articles/ab011c04.json)
 
 ---
 
@@ -1147,6 +1265,26 @@ In addition to his batting exploits, Root also provided an extra spin option, an
 ◼️
 
 [Data](articles/c3aca66c.json)
+
+---
+
+### China donates food packs for flood-hit Sri Lankans in East
+
+*2024-12-30 15:27:00* · [`economynextcom`](https://economynext.com/china-donates-food-packs-for-flood-hit-sri-lankans-in-east-196986/) · `en`
+
+ECONOMYNEXT – China donated 2,470 food packages worth 16 million rupees ($55,172 at 1$ = 290) to the people who are affected by the recent floods in Sri Lanka’s Eastern province, where India has been eyeing port and energy deals.
+
+China’s latest move comes weeks after Chinese Ambassador Qi Zhenhong went to the island nation’s North and made some similar donations.
+
+“We hope that with our assistance, you can overcome these challenges and restore normal life as soon as possible,” Zhenhong said while addressing the people when he visited on Sunday (29).
+
+Since election of President Anura Kumara Dissanayake in September, Chinese Ambassador has been frequently visiting Sri Lanka’s Northern and Eastern provinces, which have been dominated by Indian projects.
+
+Tamils in Sri Lanka’s Northern and Eastern provinces are more close to India’s Southern state of Tamil Nadu due to similarity in the language and culture, analysts say.
+
+...
+
+[Data](articles/bd7a60fe.json)
 
 ---
 
@@ -1528,6 +1666,28 @@ The people of the area staged a protest at around 07.00 am this morning and show
 
 ---
 
+### Sri Lanka promotes advanced textile recycling technology
+
+*2024-12-30 12:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-promotes-advanced-textile-recycling-technology-196981/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Joint Apparel Association Forum said it has trained around 90 persons to boost knowledge of textile recycling and re-used partnering with several international organizations to orient the island towards global demands.
+
+The program began with a training-of-trainers session attended by 19 Sri Lankan academics, textile professionals, and government representatives, JAAF said.
+
+Called the GTEX initiative it is organized by the International Trade Centre (ITC) and funded by the Swiss State Secretariat for Economic Affairs (SECO).
+
+“Key sessions focused on designing for circularity, enhancing reverse logistics for reuse and recycling, and exploring advanced textile recycling technologies and quality standards,” JAAF said.
+
+“These insights aim to position Sri Lanka as a frontrunner in the global sustainable textile movement.
+
+In 2025, GTEX Sri Lanka plans to train approximately 500 industry professionals and students, enabling wider adoption of circular business models.
+
+...
+
+[Data](articles/96b00f5e.json)
+
+---
+
 ### Harin engaged in an argument at the club; video
 
 *2024-12-30 12:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-ல்-வாக்குவாதத்தில்-ஈடுபட்டார்-ஹரின்-காணொளி/175-349497) · `ta`
@@ -1871,143 +2031,5 @@ He also urged the government to evaluate their income, as Sampath has reported a
 [Data](articles/3775c2c1.json)
 
 [Extended Data](ext_articles/3775c2c1.ext.json)
-
----
-
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
-
-*2024-12-30 11:28:22* · [`adalk`](https://www.ada.lk/breaking_news/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/11-413907) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර දෙවැනි විස්සයි 20 තරගය අද (30දා) පැවැත්වේ.
-
-තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
-
-මෙම තරගය මෙරට වේලාවෙන් පෙරවරු 11.45ට ආරම්භ කිරීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/ba6b7752.json)
-
----
-
-### நாட்டின் இரு வெவ்வேறு பகுதிகளில் போதைப்பொருட்களுடன் இருவர் கைது!
-
-*2024-12-30 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/202518) · `ta`
-
-நாட்டின் இரு வெவ்வேறு பகுதிகளில் நேற்று ஞாயிற்றுக்கிழமை (29) பொலிஸாரினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது  ஐஸ் போதைப்பொருள் மற்றும் ஹெரோயின் போதைப்பொருளுடன் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-கல்கிசை பொலிஸ் பிரிவிற்கு உட்பட்ட  கல்கிசை ரயில் நிலையத்திற்கு அருகில் 10 கிராம் 200 ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் களுத்துறை மில்லனிய பகுதியைச் சேர்ந்த 40 வயதுடையவராவார்.
-
-இதேவேளை,கொழும்பு, கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் 04 கிராம் 470 மில்லிகிராம் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு 14 பகுதியைச் சேர்ந்த 31 வயதுடையவராவார்.
-
-◼️
-
-[Data](articles/fc71c588.json)
-
----
-
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
-
-*2024-12-30 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204848) · `si`
-
-ශ්‍රී ලංකාව සහ නවසීලන්තය අතර දෙවැනි 20යි 20 ජාත්‍යන්තර තරගය අද පැවැත්වෙයි.
-
-එම තරගයේ කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
-
-ඒ අනූව ඔවුන් තීරණය කළේ පළමුව පන්දුවට පහරදීම සඳහා නවසීලන්තය ට ආරාධනා කිරීමට ය.
-
-අද දිනයේ භානුක රාජපක්ෂ වෙනුවට ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් අවිෂ්ක ප්‍රනාන්දු ක්‍රීඩා කරයි.
-
-දෙරට අතර පසුගිය සෙනසුරාදා පැවති පළමු 20යි 20 තරගය ලකුණු 8කින් ජයගැනීමට නවසීලන්තය සමත්විය.
-
-◼️
-
-[Data](articles/cb0b8b45.json)
-
----
-
-### பொகவந்தலாவையில் சட்டவிரோதமாக மாணிக்கக் கல் அகழ்வு பணியில் ஈடுபட்ட ஒருவர்  கைது !
-
-*2024-12-30 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202522) · `ta`
-
-நுவரெலியா, பொகவந்தலாவை பொலிஸ் பிரிவுக்கு உட்பட்ட கொட்டியாகல தோட்டப் பகுதியில் சட்டவிரோதமாக மாணிக்கக் கல் அகழ்வு பணியில் ஈடுபட்ட சந்தேக நபர் ஒருவர் பொகவந்தலாவை பொலிஸாரால்  நேற்று ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
-
-பொகவந்தலாவை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் நுவரெலியா, பொகவந்தலாவை பகுதியைச் சேர்ந்த 32 வயதுடையவராவார்.
-
-◼️
-
-[Data](articles/5c5db6dd.json)
-
----
-
-### President Dissanayake offers condolences after Jimmy Carter’s death
-
-*2024-12-30 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104580/president-dissanayake-offers-condolences-after-jimmy-carters-death) · `en`
-
-Sri Lanka’s President Anura Kumara Dissanayake has extended his deepest condolences to the family and loved ones of former U.S. President Jimmy Carter, who passed away at the age of 100.
-
-Posting on ‘X’ (formerly Twitter), Dissanayake said former U.S. President Carter’s extraordinary life was marked by an unwavering commitment to peace, human rights and humanitarian  affairs in recognition of which he received the Nobel Peace Prize in 2002.
-
-“May his legacy live on as a beacon of hope to build a better world for all”, he added.
-
-Jimmy Carter, the earnest Georgia peanut farmer who as U.S. president struggled with a bad economy and the Iran hostage crisis but brokered peace between Israel and Egypt and later received the Nobel Peace Prize for his humanitarian work, died at his home in Plains, Georgia, on Sunday.
-
-Carter lived longer than any U.S. president and, after leaving the White House, earned a reputation as a committed humanitarian.
-
-...
-
-[Data](articles/89fb95f4.json)
-
----
-
-### முதலாம் திகதியில் இருந்து  “தூய்மையான இலங்கை”
-
-*2024-12-30 10:58:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாம்-திகதியில்-இருந்து-தூய்மையான-இலங்கை/175-349490) · `ta`
-
-ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலைமையில் இந்த வேலைத்திட்டம் இடம்பெறவுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-ஜனாதிபதியின் செயலாளர் டாக்டர் என். எஸ். குமாநாயக்க, பதில் பொலிஸ் மா அதிபர் மற்றும் முப்படைகளின் தளபதிகள் உட்பட 18 பேர் ஜனாதிபதி செயலணியில் உள்ளடக்கப்பட்டுள்ளனர்.
-
-இந்த ஜனாதிபதி செயலணியின் பொறுப்புகள், "தூய்மையான இலங்கை" திட்டத்தை திட்டமிடல், வழிகாட்டுதல், நடைமுறைப்படுத்துதல், முன்னேற்றத்தை மீளாய்வு செய்தல் மற்றும் குறிப்பிட்ட கால எல்லைக்குள் நிறைவு செய்தல் என்பனவாகும்.
-
-◼️
-
-[Data](articles/0a58a9f4.json)
-
----
-
-### ජිමි කාටර්ගේ අභාවය ගැන ජනපති අනුරගෙන් ශෝක පණිවුඩයක්
-
-*2024-12-30 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204847) · `si`
-
-අමෙරිකානු හිටපු ජනාධිපති ජිමී කාටර්ගේ අභාවය සම්බන්ධයෙන් ඔහුගේ පවුලේ පිරිසට සහ ඥාතීන්ට, ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය බලවත් ශෝකය ප්‍රකාශ කර තිබේ.
-
-ජිමි කාටර් මහතා සිය ජීවිතය පුරා මානව හිමිකම් සහ මානුෂීය කටයුතු වෙනුවෙන් නොසැලෙන කැපවීමකින් කටයුතු කර ඇති අතර, ඒ වෙනුවෙන් ඔහුට 2002 දී නොබෙල් සාම ත්‍යාගය හිමි වූ බව ද ජනාධිපතිවරයා සිහිපත් කර තිබේ.
-
-◼️
-
-[Data](articles/e06842a6.json)
-
----
-
-### පොහොර සහනාධාරය ඉල්ලා ගොවියෙක් වහලය මත විරෝධයක
-
-*2024-12-30 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204846) · `si`
-
-පොහොර සහනාධාරය ඉල්ලා මහවිලච්චිය ගොවියකු පේමඩුව බස් නැවතුම්පළේ වහලය මත නැඟ විරෝධතාවයක් ආරම්භ කර තිබේ.
-
-කන්න රැස්වීමේ තීන්දු තීරණ මත මෙම ප්‍රදේශයේ ගොවි ජනතාව වගාව ආරම්භ කළ බවත් ජනාධිපතිවරයා පොරොන්දු වූ පොහොර සහනාධාරය ජනතාවට නිසියාකාරව මෙතෙක් ලැබී නොමැති බව ද විරෝධතාවයේ නියැලෙන ගොවි මහතා පවසයි.
-
-මෙම පොහොර සහනාධාරය සම්බන්ධයෙන් නිසි විසඳුමක් ලබාදෙන තෙක් තමන් විරෝධතාවය අත්නොහරින බව ද ඔහු වැඩිදුරටත් සඳහන් කරයි.
-
-◼️
-
-[Data](articles/9f3604fd.json)
 
 ---

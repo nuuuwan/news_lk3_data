@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 11:44:25**
+As of **2024-12-30 12:03:36**
 
 ## Newspaper Stats
 
-*Scraped **62,682** Articles*
+*Scraped **62,683** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 460
+dbsjeyarajcom | 461
 colombotelegraphcom | 636
 bbccomsinhala | 659
 economynextcom | 3,810
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,827
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,939 (98.8%) of 62,682 articles have been extended.
+61,939 (98.8%) of 62,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -936,6 +936,38 @@ Located in Sri Lanka’s west coast between Negombo and Chilaw, the new DIMO CAR
 
 ---
 
+### 2024  டிசம்பர் 16 ஆம் திகதி இந்திய — இலங்கை  கூட்டறிக்கையில் 13 வது திருத்தம் குறித்து வெளிப்படையாக குறிப்பிடப்படாதது அரசியலமைப்புக்கான 13  வது திருத்தத்துக்கு நேரப்போகும் கதிக்கான முன்னறிவிப்பு ?
+
+*2024-12-30 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85262) · `en`
+
+” விரும்பத்தகாத விளைவு நேரப்போகிறது என்பதற்கான முன்னறிவிப்பு  ” ( The Writing on the Wall) என்பது பைபிளின் பழைய ஏற்பாட்டில் டானியலின் கதையில் இருந்து வந்த ஒரு உருவகமான மொழிநடையாகும். பாபிலோனிய சாம்ராச்சியத்தின் மன்னர் பெல்ஷாசாரும் அவரது நண்பர்கள் பரிவாரமும் உண்டுகுடித்து கும்மாளம் அடித்துக்கொண்டிருந்தவேளையில், வியக்கத்தக்க முறையில் கையொன்று தோன்றி அங்கிருந்த சுவரில் சில வரிகளை எழுதியதைப் பற்றி டானியல் பற்றிய நூலின் ஐந்தாவது அத்தியாயம் கூறுகிறது.
+
+அச்சமடைந்த மன்னராலும் நண்பர்களினாலும் அந்த கை எழுதியதை வாசித்து விளங்கக்கூடியதாக இருக்கவில்லை. அறிவுக்கும் ஞானத்துக்கும் பிரபல்யமான டானியலை அழைத்துவர மன்னர் ஆளை அனுப்பினார். டானியல் வந்து சுவரில் எழுதியிருப்பதை வாசித்துவிட்டு மன்னரின் நாட்களை கடவுள் எண்ணியிருக்கிறார் என்றும் இராச்சியம் வேறு ஒருவரிடம் கையளிக்கப்படப் போகிறது என்று கூறினார்.சுவரில் எழுதியிருந்த வரிகளை பற்றிய டானியலின் வியாக்கியானம் இறுதியில் உண்மை மாறியது.பெல்ஷாசார் அன்றிரவே கொல்லப்பட்டு இராச்சியம் டேறியஸினால் கைப்பற்றப்பட்டது.
+
+...
+
+[Data](articles/c6d41fb9.json)
+
+---
+
+### 
+
+*2024-12-30 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85268) · `en`
+
+Chabad House is a religious space belonging to the Chabad-Lubavitch Hasidic Movement which is deeply aligned with Israel’s ultra-right and the IDF.
+
+“Israel today is dynamiting the edifice of the global norms built after 1945.” Pankaj Mishra (The Shoah after Gaza – London Review of Books – 21.3.2014)
+
+In the second decade of the 21st Century, genocide is being televised.
+
+72 Virgins – Uncensored was a Telegraph channel run by the Israeli Defence Forces’ Influencing Department (Orwellian by name and by deed). According to an expose by Israeli newspaper Haaretz, the channel promises Israeli audiences “exclusive content from Gaza” – gory videos of death and destruction visited on Palestinians recorded by their IDF perpetrators. An example: “Burning their mother…” exults an October 11, 2023 post; “You won’t believe the video we got! You can hear the crunch of their bones. We’ll upload it right away, get ready”.
+
+...
+
+[Data](articles/ba5b35a9.json)
+
+---
+
 ### Elephant death in Ottamavadi
 
 *2024-12-30 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202501) · `ta`
@@ -1405,20 +1437,6 @@ The Chairman of the Authority, K. Makeswaran, has announced that its driver, con
 [Data](articles/1a3adbed.json)
 
 [Extended Data](ext_articles/1a3adbed.ext.json)
-
----
-
-### 2024  டிசம்பர் 16 ஆம் திகதி இந்திய — இலங்கை  கூட்டறிக்கையில் 13 வது திருத்தம் குறித்து வெளிப்படையாக குறிப்பிடப்படாதது அரசியலமைப்புக்கான 13  வது திருத்தத்துக்கு நேரப்போகும் கதிக்கான முன்னறிவிப்பு ?
-
-*2024-12-29 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85262) · `en`
-
-” விரும்பத்தகாத விளைவு நேரப்போகிறது என்பதற்கான முன்னறிவிப்பு  ” ( The Writing on the Wall) என்பது பைபிளின் பழைய ஏற்பாட்டில் டானியலின் கதையில் இருந்து வந்த ஒரு உருவகமான மொழிநடையாகும். பாபிலோனிய சாம்ராச்சியத்தின் மன்னர் பெல்ஷாசாரும் அவரது நண்பர்கள் பரிவாரமும் உண்டுகுடித்து கும்மாளம் அடித்துக்கொண்டிருந்தவேளையில், வியக்கத்தக்க முறையில் கையொன்று தோன்றி அங்கிருந்த சுவரில் சில வரிகளை எழுதியதைப் பற்றி டானியல் பற்றிய நூலின் ஐந்தாவது அத்தியாயம் கூறுகிறது.
-
-அச்சமடைந்த மன்னராலும் நண்பர்களினாலும் அந்த கை எழுதியதை வாசித்து விளங்கக்கூடியதாக இருக்கவில்லை. அறிவுக்கும் ஞானத்துக்கும் பிரபல்யமான டானியலை அழைத்துவர மன்னர் ஆளை அனுப்பினார். டானியல் வந்து சுவரில் எழுதியிருப்பதை வாசித்துவிட்டு மன்னரின் நாட்களை கடவுள் எண்ணியிருக்கிறார் என்றும் இராச்சியம் வேறு ஒருவரிடம் கையளிக்கப்படப் போகிறது என்று கூறினார்.சுவரில் எழுதியிருந்த வரிகளை பற்றிய டானியலின் வியாக்கியானம் இறுதியில் உண்மை மாறியது.பெல்ஷாசார் அன்றிரவே கொல்லப்பட்டு இராச்சியம் டேறியஸினால் கைப்பற்றப்பட்டது.
-
-...
-
-[Data](articles/c6d41fb9.json)
 
 ---
 
@@ -2107,21 +2125,5 @@ Hasalawa police are investigating the incident and the little grandfather of the
 [Data](articles/41a6c2cc.json)
 
 [Extended Data](ext_articles/41a6c2cc.ext.json)
-
----
-
-### ICC සම්මාන සඳහා කුසල්, වනිඳු හා චමරි නිර්දේශ කෙරේ
-
-*2024-12-29 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204830) · `si`
-
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් 2024 වසරේ 'වසරේ එක්දින ක්‍රිකට් ක්‍රීඩකයා' සම්මානය සඳහා ශ්‍රී ලංකාවේ වනිඳු හසරංග සහ කුසල් මෙන්ඩිස් නිර්දේශ කර ඇත.
-
-ඔවුන් දෙදෙනාට අමතරව මෙම සම්මානය සඳහා නිර්දේශ කර ඇති අනෙක් දෙදෙනා වන්නේ ඇෆ්ගනිස්තානයේ අස්මතුල්ලාහ් ඔමර්සායි හා බ.ඉ. කොදෙව් දූපත්හි ෂර්ෆාන් රදර්ෆර්ඩ්ය.
-
-මේ අතර චමරි අතපත්තු 2024 වසරේ 'වසරේ එක්දින' හා 'වසරේ විස්සයි20' ක්‍රීඩිකාව යන සම්මාන දෙකටම අයි. සී. සී. ය විසින් නිර්දේශ කර තිබේ.
-
-◼️
-
-[Data](articles/3eab1065.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 12:28:56**
+As of **2024-12-30 12:43:51**
 
 ## Newspaper Stats
 
-*Scraped **62,702** Articles*
+*Scraped **62,703** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 461
+dbsjeyarajcom | 462
 colombotelegraphcom | 636
 bbccomsinhala | 659
 economynextcom | 3,810
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,939 (98.8%) of 62,702 articles have been extended.
+61,939 (98.8%) of 62,703 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1326,6 +1326,20 @@ In the second decade of the 21st Century, genocide is being televised.
 
 ---
 
+### It would be useful to consider how far Gajendrakumar Ponnambalam, who has been an MP for a long time has been able to move forward and reach  his goals by adopting his ideologically stubborn political stance so far.
+
+*2024-12-30 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85273) · `en`
+
+There was a stir in political circles when Indian Prime Minister Narendra Modi, who met with Sri Lankan President Anura Kumara Dissanayake during his recent official visit to India and had a joint press meeting in New Delhi after talks with him, failed to say anything about the 13th Amendment (13A) to the Sri Lankan Constitution.
+
+Sri Lankan Tamil political parties and their leaders did not show as much concern about it as the media and political observers did. Modi, who had always emphasised the need for the Sri Lankan Government to fully implement the 13th Amendment to the Constitution in his press conferences with previous Sri Lankan Presidents, avoided it this time, which seemed particularly different.
+
+...
+
+[Data](articles/52ed1146.json)
+
+---
+
 ### Elephant death in Ottamavadi
 
 *2024-12-30 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202501) · `ta`
@@ -2015,29 +2029,5 @@ Gusal Mendis has amassed 742 runs with an average of 53.00 in 17 innings this ye
 ◼️
 
 [Data](articles/0970559f.json)
-
----
-
-### Manushe's brother remanded
-
-*2024-12-29 19:34:04* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්--මනූෂගේ-සොහොයුරා-රිමාන්ඩ්/11-413899) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Manusha Nanayakkara's brother was remanded until Jan 6th after being arrested for cheating. The incident occurred at the Gampaha Magistrate's Court.
-
-🟩
-
-The brother of the Gampaha Magistrate's Court (UNP) was ordered to be remanded until January 6, former Minister Manusha Nanayakkara.
-
-The suspect was arrested yesterday on the cheating of Rs.
-
-◼️
-
-[Data](articles/cc751196.json)
-
-[Extended Data](ext_articles/cc751196.ext.json)
 
 ---

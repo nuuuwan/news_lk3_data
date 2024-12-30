@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 01:12:59**
+As of **2024-12-31 01:43:54**
 
 ## Newspaper Stats
 
-*Scraped **62,808** Articles*
+*Scraped **62,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 636
 bbccomsinhala | 659
 islandlk | 3,810
 economynextcom | 3,818
-dailyftlk | 4,353
+dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,000
 adaderanalk | 7,674
@@ -26,25 +26,145 @@ adaderanasinhalalk | 10,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,961 (98.7%) of 62,808 articles have been extended.
+61,963 (98.6%) of 62,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
 
-### ශ්‍රී ලංකා පොලීසියේ නිල යූටියුබ් නාලිකාවට සයිබර් ප්‍රහාරයක්
+### NMSJ applauds Govt. plans to abolish Executive Presidency
+
+*2024-12-31 01:25:34* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-applauds-Govt-plans-to-abolish-Executive-Presidency/56-771200) · `en`
+
+Urges all political parties and civil society to support effort, highlighting need for collective action
+
+Says abolishing Executive Presidency is a monumental opportunity to rectify governance failures
+
+Calls on NPP Govt. to establish specific timeline for enacting constitutional reforms
+
+The National Movement for Social Justice (NMSJ) has issued a press release appreciating recent reports of the Government’s intention to abolish the Executive Presidency.
+
+The organisation has called on all political parties and civil society groups to unite in support of this transformative effort, which it believes will pave the way for a stronger democracy in Sri Lanka.
+
+Signed by NMSJ General Secretary Sunil Jayasekara, the press release expressed the movement’s optimism over the Government’s plans to introduce a constitutional amendment following the upcoming local Government Elections. The NMSJ not only offers its blessings but also pledged its full support to this endeavour.
+
+...
+
+[Data](articles/cd530c10.json)
+
+---
+
+### New Commanders for Army and Navy
+
+*2024-12-31 01:24:51* · [`dailyftlk`](https://www.ft.lk/news/New-Commanders-for-Army-and-Navy/56-771199) · `en`
+
+President Anura Kumara Dissanayake has appointed Major General Lasantha Rodrigo as the new Commander of the Army and Rear Admiral Kanchana Banagoda as the new Commander of the Navy.
+
+The official appointment letters were presented to the newly appointed Commanders yesterday by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat.
+
+Commander of the Army Lieutenant General Vikum Liyanage and Commander of the Navy Vice Admiral Priyantha Perera are scheduled to retire from their respective positions today.
+
+◼️
+
+[Data](articles/41aefa4b.json)
+
+---
+
+### Dehiwala Police apologise for refusing teen to contact family after being apprehended
+
+*2024-12-31 01:22:26* · [`dailyftlk`](https://www.ft.lk/news/Dehiwala-Police-apologise-for-refusing-teen-to-contact-family-after-being-apprehended/56-771198) · `en`
+
+The Officer-in-Charge (OIC) of the Dehiwala Police Station, Chief Inspector (CI) Anuradha Herath, has apologised to the parents of a 17-year-old boy after he was taken into custody and held without their knowledge, causing significant distress.
+
+The apology followed the intervention of International Human Rights Activist Muheed Jeeran, who brought attention to the incident on social media.
+
+The boy, a student, had been returning home from early morning prayers at the mosque on 29 December when a police officer had approached him. Startled, the boy had run into a nearby bakery, where the shop owner vouched for him as a local resident who regularly visited after prayers. Despite this, the Police had taken him to the Police station and confiscated his mobile phone.
+
+...
+
+[Data](articles/67fb20cc.json)
+
+---
+
+### EDB hosts workshop on “Dry Rubber Compounding and Plant Management”
+
+*2024-12-31 01:20:50* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-workshop-on-Dry-Rubber-Compounding-and-Plant-Management/34-771197) · `en`
+
+The Sri Lanka Export Development Board (EDB), in collaboration with the Sri Lanka Automotive Component Manufacturers Association (SLACMA) and Technobiz Lanka, successfully conducted a two-day workshop on “Dry Rubber Compounding Technology and Plant Management”. The event, held on 20 to 21 December 2024, at the EDB headquarters, aimed to enhance the skills and knowledge of technical professionals in the rubber manufacturing industry, including those serving the automotive sector.
+
+The workshop was initiated following a request from SLACMA on 4 November 2024, highlighting the importance of equipping industry personnel with the latest advancements in rubber compounding techniques, machinery, and plant management practices.
+
+...
+
+[Data](articles/ebdda32e.json)
+
+---
+
+### Three Sinha Group of Companies wins at Western Province – Entrepreneur Awards 2024
+
+*2024-12-31 01:18:17* · [`dailyftlk`](https://www.ft.lk/business/Three-Sinha-Group-of-Companies-wins-at-Western-Province-Entrepreneur-Awards-2024/34-771196) · `en`
+
+Three Sinha Group of Companies became the Large-Scale winner in the manufacturing sector at the Entrepreneur Awards 2024 for the Western Province. The event, organised by the National Enterprise Development Authority (NEDA) and the National Chamber of Commerce of Sri Lanka (NCCSL), was recently held in Colombo.
+
+Managing Director Manjula Ariyakumara accepted the award on behalf of the company. Having begun as a small-scale business, Three Sinha has now grown into a leading name in Sri Lanka’s construction industry. The company has earned both local and international recognition for its commitment to quality and innovation. Over the past, the company has received several local and international quality certifications. Their latest achievements include Gold and Silver awards at the CNCI Achiever Awards.
+
+...
+
+[Data](articles/110ef419.json)
+
+---
+
+### JAAF partners GTEX to drive textile innovation and competitiveness in Sri Lanka
+
+*2024-12-31 01:16:42* · [`dailyftlk`](https://www.ft.lk/business/JAAF-partners-GTEX-to-drive-textile-innovation-and-competitiveness-in-Sri-Lanka/34-771195) · `en`
+
+Sri Lanka took another significant step toward textile circularity with a four-day program under the GTEX Phase II initiative, organised by the International Trade Centre (ITC) and funded by the Swiss State Secretariat for Economic Affairs (SECO). The event, which combined a two-day training-of-trainers session with a workshop on Circular Economy Business Models for the Textile and Clothing Industry, reflects the nation’s ongoing commitment to a sustainable textile future.
+
+...
+
+[Data](articles/0aa00621.json)
+
+---
+
+### EDB hosts networking session for women entrepreneurs
+
+*2024-12-31 01:13:35* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-networking-session-for-women-entrepreneurs/34-771194) · `en`
+
+From left: Akbar Brothers General Manager – Tea Adrian Gabriel, Business Consultant/Sustainability Practitioner Priyadarshinie Karunarathne, Orel Academy Head of Operations Priyanka Perera, University of Colombo Human Resource Management Chair Prof. Arosha Adikaram, Ceylon Natural Rubber Managing Director Mano Sheriff, and Malwatte Valley Plantations Executive Director Christopher Fernando
+
+From  left: EDB Director General Champika Dharmasena, Chairman and Chief Executive Mangala Wijesinghe, Director – Trade Facilitation and Trade Information Division Dr. Sanjeewa Rathnasekara,  and British Cosmetics Managing Director Nirosha Jagoda
+
+The Export Development Board (EDB) successfully conducted a networking and knowledge sharing session for the women entrepreneurs registered under the ‘Women Entrepreneurship Development Program’ recently.
+
+It addressed one of the key barriers faced by women entrepreneurs – the lack of networking opportunities with industry leaders.
+
+...
+
+[Data](articles/118b59af.json)
+
+[Extended Data](ext_articles/118b59af.ext.json)
+
+---
+
+### Cyber ​​attack on the official UTUB channel of the Sri Lankan police
 
 *2024-12-31 00:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204875) · `si`
 
-ශ්‍රී ලංකා පොලීසියේ නිල යූටියුබ් නාලිකාව සයිබර් ප්‍රහාරයකට ලක්ව තිබේ.
+Sri Lankan police YouTube channel hacked. Administrators lost control. Police made Facebook announcement about the incident.
 
-මේ වන විට එහි පාලනය සම්පූර්ණයෙන් එහි පරිපාලකයින් අතින් ගිලිහී ගොස් ඇත.
+🟩
 
-සිය මුහුණු පොතේ විශේෂ නිවේදනයක් නිකුත් කරමින් පොලීසිය පැවසුමේ මේ වන විට එය කඩිනමින් යථාවත් කිරීමට අවශ්‍ය කටයුතු සිදුකරමින් පවතින බවය.
+The official youtube channel of the Sri Lankan police had undermined cyber attack.
+
+The control of its administration has completely lost its administrators.
+
+The police said that the police were in a special announcement in the face book.
 
 ◼️
 
 [Data](articles/71209dff.json)
+
+[Extended Data](ext_articles/71209dff.ext.json)
 
 ---
 
@@ -1829,143 +1949,5 @@ He said the international community has accepted that Sri Lanka is moving on the
 [Data](articles/02077a14.json)
 
 [Extended Data](ext_articles/02077a14.ext.json)
-
----
-
-### இன்றைய நாணயமாற்று விகிதம்
-
-*2024-12-30 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202537) · `ta`
-
-இன்று திங்கட்கிழமை (30) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.3393 ரூபா  ஆகவும்  விற்பனை விலை 297.0686 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/48dd51d7.json)
-
----
-
-### Ex-President Mahinda appoints new Spokesman
-
-*2024-12-30 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104584/ex-president-mahinda-appoints-new-spokesman-) · `en`
-
-Former President Mahinda Rajapaksa has appointed Attorney-at-Law Raveendra Manoj Gamage as his official media spokesman.
-
-Gamage obtained his appointment letter at the former President’s official residence in Colombo today (30).
-
-◼️
-
-[Data](articles/ed13552a.json)
-
----
-
-### නව නාවික හමුදාපති රියර් අද්මිරාල් කාංචන බානගොඩ
-
-*2024-12-30 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204852) · `si`
-
-නව නාවික හමුදාපතිවරයා ලෙස රියර් අද්මිරාල් කාංචන බානගොඩ මහතා පත් කර තිබේ.
-
-◼️
-
-[Data](articles/a782bdeb.json)
-
----
-
-### Fight against wild elephants
-
-*2024-12-30 12:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டு-யானைகளுக்கெதிராக-போராட்டம்/175-349498) · `ta`
-
-Wild elephants invade villages, protesters demand action. Residents stage demonstration near Anuradhapura, showcasing damaged crops and banners.
-
-🟩
-
-Some people are protesting in the Anuradhapura Tandrimalai road, Oyamaduwa, demanding a solution to the problem of wild elephants entering the villages.
-
-Protesters say that an elephant has been displaced and caused severe damage to the crops.
-
-The people of the area staged a protest at around 07.00 am this morning and showcased banners and various crops destroyed by elephants.
-
-◼️
-
-[Data](articles/f6f2a9e5.json)
-
-[Extended Data](ext_articles/f6f2a9e5.ext.json)
-
----
-
-### Sri Lanka promotes advanced textile recycling technology
-
-*2024-12-30 12:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-promotes-advanced-textile-recycling-technology-196981/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Joint Apparel Association Forum said it has trained around 90 persons to boost knowledge of textile recycling and re-used partnering with several international organizations to orient the island towards global demands.
-
-The program began with a training-of-trainers session attended by 19 Sri Lankan academics, textile professionals, and government representatives, JAAF said.
-
-Called the GTEX initiative it is organized by the International Trade Centre (ITC) and funded by the Swiss State Secretariat for Economic Affairs (SECO).
-
-“Key sessions focused on designing for circularity, enhancing reverse logistics for reuse and recycling, and exploring advanced textile recycling technologies and quality standards,” JAAF said.
-
-“These insights aim to position Sri Lanka as a frontrunner in the global sustainable textile movement.
-
-In 2025, GTEX Sri Lanka plans to train approximately 500 industry professionals and students, enabling wider adoption of circular business models.
-
-...
-
-[Data](articles/96b00f5e.json)
-
----
-
-### Harin engaged in an argument at the club; video
-
-*2024-12-30 12:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-ல்-வாக்குவாதத்தில்-ஈடுபட்டார்-ஹரின்-காணொளி/175-349497) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Tourism Minister Harin Fernando argued at CH&FC club in Colombo. Residents reported he shouted and caused a commotion. No police complaint filed. Inappropriate words removed from video.
-
-🟩
-
-Former Tourism Minister Harin Fernando recently engaged in an argument at the CH&FC club in Colombo.
-
-Residents at the scene reported that Harin shouted out of the scene and was involved in an argument. They added that his actions caused a stir in the club.
-
-However, no complaints have been lodged at the police station regarding the incident, the police said.
-
-All the inappropriate words in the video have been removed to comply with social media standards.
-
-◼️
-
-[Data](articles/3c32a6dd.json)
-
-[Extended Data](ext_articles/3c32a6dd.ext.json)
-
----
-
-### Harin engaged in arguing at the club; video
-
-*2024-12-30 12:31:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளப்-இல்-வாக்குவாதத்தில்-ஈடுபட்டார்-ஹரின்-காணொளி/175-349497) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Harin Fernando argued at CH&FC club in Colombo. Witnesses report he shouted and caused a disturbance. No police complaint filed. Inappropriate content removed from video.
-
-🟩
-
-Former Tourism Minister Harin Fernando recently engaged in an argument at the CH&FC club in Colombo.
-
-Residents at the scene reported that Harin shouted out of the scene and was involved in an argument. They added that his actions caused a stir in the club.
-
-However, no complaints have been lodged at the police station regarding the incident, the police said.
-
-All the inappropriate words in the video have been removed to comply with social media standards.
-
-◼️
-
-[Data](articles/d5ee1b65.json)
-
-[Extended Data](ext_articles/d5ee1b65.ext.json)
 
 ---

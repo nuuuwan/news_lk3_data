@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 06:15:36**
+As of **2024-12-30 06:49:03**
 
 ## Newspaper Stats
 
-*Scraped **62,648** Articles*
+*Scraped **62,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,344
 dailymirrorlk | 4,733
 adalk | 5,979
 adaderanalk | 7,649
-tamilmirrorlk | 8,985
+tamilmirrorlk | 8,986
 virakesarilk | 10,409
 adaderanasinhalalk | 10,818
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,928 (98.9%) of 62,648 articles have been extended.
+61,929 (98.9%) of 62,649 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,22 @@ The crocodile, which has been seen in the Batticaloa River for the past few days
 [Data](articles/1a1f47ab.json)
 
 [Extended Data](ext_articles/1a1f47ab.ext.json)
+
+---
+
+### 8000 பேருக்கு எதிராக சட்ட நடவடிக்கை
+
+*2024-12-30 03:00:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8000-பேருக்கு-எதிராக-சட்ட-நடவடிக்கை/175-349475) · `ta`
+
+போக்குவரத்து விதிகளை மீறிய குற்றச்சாட்டில் 8 ஆயிரத்துக்கும் அதிகமானோருக்கு எதிராக சட்டநடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் பேச்சாளர் அலுவலகம் தெரிவித்துள்ளது
+
+பண்டிகை காலத்தில் வீதி விபத்துக்களைக் குறைத்துக் கொள்ளும் நோக்கில் பொலிஸாரால் விசேட போக்குவரத்து சோதனை நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+அதன்படி, நேற்று காலை 6 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் 8068 பேருக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் பேச்சாளர் புத்திக மனதுங்க தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/8a48c936.json)
 
 ---
 
@@ -241,6 +257,8 @@ He was a Director of the Sri Lanka Banks’ Association (SLBA) and its Chairman 
 ...
 
 [Data](articles/6cd12f2a.json)
+
+[Extended Data](ext_articles/6cd12f2a.ext.json)
 
 ---
 
@@ -2023,27 +2041,5 @@ After the end of Christmas every year, vegetable prices can be cheap, and it is 
 [Data](articles/d3f1336c.json)
 
 [Extended Data](ext_articles/d3f1336c.ext.json)
-
----
-
-### Sri Lanka industries minister says fighting for more protection
-
-*2024-12-29 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-industries-minister-says-fighting-for-more-protection-196800/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Industries Minister Sunil Handunetthi says he is fighting with the Finance Ministry to give more protection to local businessmen and stop cheaper imports from being available to consumers.
-
-“Today we have had to fight with the Finance Ministry to protect local industries,” Minister Handunetthi said in remarks broadcast over Sri Lanka’s Derana Television.
-
-“I am telling the truth. We have fight for tax policy. We now have to fight with low costs imports (thu-tt-too dekay). We have to fight with officials.”
-
-Finance Ministry officials are today standing for agreements signed during previous administrations and gazettes issued during previous administrations, decisions taken and cabinet papers, he alledged.
-
-“They are not stand for strengthening the national economy, not strengthen domestic industries, but stands for importers for multinational companies.
-
-“So they are arguing and clashing with us, for old decisions they have taken.”
-
-...
-
-[Data](articles/ab3c0f4b.json)
 
 ---

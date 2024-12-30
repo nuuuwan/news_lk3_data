@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 15:27:30**
+As of **2024-12-30 15:43:58**
 
 ## Newspaper Stats
 
-*Scraped **62,730** Articles*
+*Scraped **62,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,81 @@ adalk | 5,990
 adaderanalk | 7,662
 tamilmirrorlk | 8,997
 virakesarilk | 10,428
-adaderanasinhalalk | 10,836
+adaderanasinhalalk | 10,838
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,946 (98.8%) of 62,730 articles have been extended.
+61,947 (98.7%) of 62,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### 'ஒருங்கிணைந்த அரசியல்'  அரசியல் தீர்வுக்கு மட்டும் உரியதல்ல
+### නවසීලන්තයට සුපිරි ජයක්
+
+*2024-12-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204859) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම හා නවසීලන්ත කණ්ඩායම අතර අද (30) පැවැති දෙවන 20යි 20 තරගය ලකුණු 45කින් ජයගැනීමට නවසීලන්ත කණ්ඩායම සමත්විය.
+
+තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දු යැවීමට තීරණය කළේය.
+
+ඒ අනුව පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 5ක් දැවී ලකුණු 186ක් රැස්කිරීමට සමත් විය.
+
+නවසීලන්ත පිල වෙනුවෙන් වැඩිම ලකුණුලාභියා වූ මාක් චැප්මන් ලකුණු 42ක් ලබා ගැනීමට සමත් වූ අතර ටිම් රොබින්සන් හා මිචෙල් හේ ලකුණු 41ක බැගින් ලබාගත්හ.
+
+පන්දු යැවීමේ දී වනිඳු හසරංග කඩුලු 2ක් දවා ගැනීමට සමත් විය. මීට අමතරව නුවන් තුෂාර සහ මතීෂ පතිරණ අතර එක් කඩුල්ල බැගින් බෙදී යන ලදී.
+
+ලකුණු 187ක ජයග්‍රාහි ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19යි එක් පන්දුවක් අවසානයේ සියලුදෙනා දැවි රැස්කර ගත හැකි වූයේ ලකුණු 141ක් පමණි.
+
+ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් කුසල් පෙරේරා ලකුණු 48ක් රැස්කළ අතර පැතුම් නිස්සංක ලකුණු 37ක් රැස්කළේය.
+
+ඒ අනුව තවත් එක් තරගයක් ඉතිරිව තිබියදී තරග තුනකකින් සමන්විත 20යි 20 තරගාවලිය ජයගැනීමට නවසීලන්ත කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/2c996c03.json)
+
+---
+
+### ජනාධිපති අරමුදල නව වසරේ සිට නව නිවහනකට
+
+*2024-12-30 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204858) · `si`
+
+ජනාධිපති අරමුදල නව ස්ථානයකට ගෙන යාම පිළිබඳ ජනාධිපති මාධ්‍ය අංශය නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් ව ඇත්තේ මෙතෙක් කොළඹ 10, ඩී.ආර්. විජේවර්ධන මාවතේ, ලේක්හවුස් ගොඩනැගිල්ලේ 3 වන මහලේ පවත්වාගෙන ගිය ජනාධිපති අරමුදලේ කාර්යාලය  එළැඹෙන 2025 නව වසරේ ජනවාරි 01 වන දා සිට නව ස්ථානයක ස්ථාපිත කිරීමට නියමිතය බවය.
+
+ඒ අනුව, ජනාධිපති අරමුදලේ නව කාර්යාල පරිශ්‍රය කොළඹ 01, ජනාධිපති මාවතේ, ජනාධිපති මන්දිරය ඉදිරිපිට පිහිටා ඇති ස්ටෑන්ඩඩ් චාර්ටඩ් ගොඩනැගිල්ලේ බිම් මහලේ ස්ථාපිත කිරීමට නියමිතව තිබේ.
+
+ජනාධිපති අරමුදලෙහි සේවා ලබා ගැනීම සඳහා පැමිණෙන මහජනතාවට 2025 ජනවාරි 01වන දා සිට කොළඹ 01, ජනාධිපති මාවතේ, ජනාධිපති මන්දිරය ඉදිරිපිට පිහිටා ඇති ස්ටෑන්ඩඩ් චාර්ටඩ් ගොඩනැගිල්ලේ බිම් මහලේ කාර්යාල පරිශ්‍රය වෙත පැමිණ සිය සේවා ලබා ගැනීමට හැකියාව ඇති බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/77e06589.json)
+
+---
+
+### 'Integrated Politics' is not just a political solution
 
 *2024-12-30 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202558) · `ta`
 
-கஜேந்­தி­ர­கு­மாரின் முயற்­சிக்கு பலத்த எதிர்ப்பு தமி­ழ­ரசு கட்­சியின் சுமந்­திரன் பிரி­வி­ட­மி­ருந்து எழலாம். சுமந்­திரன் தற்­போதும் 'ஏக்­கி­ய­ராஜ்­ஜிய' என அழைக்­கப்­ப­டு­கின்ற மைத்­திரி கால தீர்வு யோச­னையே தூசி தட்டி மேலே கொண்டு வரு­வ­தற்கே முயற்­சிக்­கின்றார். வடக்கு - கிழக்கு பிரிக்­கப்­பட்ட, சமஷ்டி, கூட்­டாட்சி என்­கின்ற வார்த்­தை­க­ளையே பயன்­ப­டுத்­தாத தீர்வு யோச­னையை அது. இத் தீர்வுத் திட்டம் சுமந்­தி­ரனும் இணைந்து தயாரித்த திட்டமாக இருப்பதனால் அதனை முன் கொண்டு செல்ல அவர் முனையக்கூடும்.
+Here's a summary of 200 characters:
+
+
+
+"Integrated Politics" isn't just a political solution. Gajendrakumar's protests may stem from Sumanthiran's Tamil National Party approach. Sumanthiran seeks to revive "Akirajjiya," a solution avoiding terms like "North-East" and "federal." This co-produced plan might be presented.
+
+🟩
+
+The protest of Gajendrakumar's efforts may arise from the Sumanthiran section of the Tamil National Party. Sumanthiran is still trying to bring up the dust of the Maithri time solution, also known as 'Akirajjiya'.. It is the idea of ​​a solution that does not use the words of the North - East, the federal, the federal. This solution plan is a co -produced plan, and he may be able to bring it forward.
 
 ◼️
 
 [Data](articles/64bfd3a2.json)
+
+[Extended Data](ext_articles/64bfd3a2.ext.json)
 
 ---
 
@@ -1951,37 +2005,5 @@ Gahanath Pandithage (Group Managing Director/CEO) and Suresh Gooneratne (Executi
 ...
 
 [Data](articles/4e8a0890.json)
-
----
-
-### Digital marketing in high gear to increase tourist arrivals to Sri Lanka
-
-*2024-12-29 23:41:00* · [`islandlk`](http://island.lk/digital-marketing-in-high-gear-to-increase-tourist-arrivals-to-sri-lanka/) · `en`
-
-Sri Lanka recently played host to four Australian-based social media influencers in a groundbreaking digital marketing initiative aimed at rejuvenating the country’s tourism industry.
-
-This carefully curated campaign, organized by the Sri Lanka Tourism Promotion Bureau (SLTPB), concluded successfully on December 16th, 2024, as the influencers returned to their home countries, leaving a trail of mesmerizing content that has already garnered global attention.
-
-During their 12-day journey, these influencers explored Sri Lanka’s breathtaking landscapes, vibrant culture, and warm hospitality. From the golden beaches of Mirissa to the ancient majesty of Sigiriya, and from the tranquil hills of Nuwara Eliya to the wildlife spectacle at Yala National Park, their content vividly captured the island’s rich diversity. Real-time updates, immersive stories, and high-quality imagery flooded social media, offering their millions of followers a virtual taste of Sri Lanka.
-
-...
-
-[Data](articles/5945b07f.json)
-
----
-
-### CEAT Kelani presents traffic management tools to police and SLCMP
-
-*2024-12-29 23:39:00* · [`islandlk`](http://island.lk/ceat-kelani-presents-traffic-management-tools-to-police-and-slcmp/) · `en`
-
-CEAT Kelani Holdings has broadened the scope of its flagship community initiative promoting road safety around schools by engaging with the Police and the Sri Lanka Corps of Military Police (SLCMP) of the Sri Lanka Army, two institutions that play lead roles in this domain.
-
-The company recently presented stocks of traffic management-related signboards and traffic cones to these institutions, as one of its community commitments that makes up the ‘CEAT Cares’ portfolio of community projects.
-
-The signboards and traffic cones presented to the Cinnamon Gardens Police Station are to be strategically placed on main roads to facilitate traffic management near schools, government institutions, and other high-traffic areas within the station’s jurisdiction, supporting CEAT’s efforts to help improve road safety and aid law enforcement maintain smooth traffic flows.
-
-...
-
-[Data](articles/8f299426.json)
 
 ---

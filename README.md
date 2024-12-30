@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 16:16:10**
+As of **2024-12-30 16:27:40**
 
 ## Newspaper Stats
 
-*Scraped **62,735** Articles*
+*Scraped **62,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
 adalk | 5,991
-adaderanalk | 7,662
+adaderanalk | 7,664
 tamilmirrorlk | 8,999
 virakesarilk | 10,428
-adaderanasinhalalk | 10,838
+adaderanasinhalalk | 10,840
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,949 (98.7%) of 62,735 articles have been extended.
+61,949 (98.7%) of 62,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### රට කජු ව්‍යාපාරිකයා අමෙරිකාවේ ජනාධිපති පුටුවට ආ හැටි
+
+*2024-12-30 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204861) · `si`
+
+අමෙරිකාවේ 39 වැනි ජනාධිපතිවරයා වූ නොබෙල් සාම ත්‍යාගලාභී ජිමී කාටර් අභාවප්‍රාප්ත වී තිබේ.
+
+ජිමී කාටර් ඉතිහාසයට එක්වන්නේ අමෙරිකානු ඉතිහාසයේ වැඩිම කාලයක් ජීවත් වූ ජනාධිපතිවරයා ලෙසය.
+
+ජේම්ස් අර්ල් කාටර් ජූනියර් 1924 ඔක්තෝබර් පළමුවැනිදා උපත ලැබුවේ අමෙරිකාවේ ජෝර්ජියා හි ප්ලේන්ස් ගම්මානයේදීය.
+
+ඔහුගේ පියා රටකජු වගාකරුවෙක් වූ ජේම්ස් කාටර් වන අතර මව ලිලියන් නම් වූ හෙදියක්.
+
+පාසලේ ජනප්‍රිය පැසි පන්දු ක්‍රීඩකයෙක් වූ කාටර් අමෙරිකානු නාවික හමුදා සෙබළෙක් ලෙසද සේවය කළේය.
+
+සිය සොහොයුරියගේ මිතුරිය වන රොසලින් සමඟ විවාපත් වූ ඔහු, රටකජු වගාකරුවෙක් ලෙස වෘත්තිය දිවිය ඇරඹුවේ සිය පියාගේ අභාවයෙන් පසුව ඔහුගේ අඩිපාරේම යමින්.
+
+නමුත් නොසිතූ ලෙස ලියැවී තිබූ අනාගතය භාරගනිමින් ප්‍රාදේශීය මට්ටමේ දේශපාලනයට පිවිසුණු කාටර්, ප්‍රාන්ත සෙනෙට් සභිකයෙක් ලෙස කටයුතු කරමින්, ඉන් අනතුරුව ජෝර්ජියා ආණ්ඩුකාරවරයා ලෙස පත්වුණි.
+
+ඉන් ලද පන්නරයෙන් ජනාධිපති සිහිනය දුටු ජිමී කාටර්, 1976 අමෙරිකානු ජනාධිපතිවරණයට පිවිසියේ ඩිමොක්‍රොටික් පක්ෂය නියෝජනය කරමින්.
+
+...
+
+[Data](articles/c8ebe69f.json)
+
+---
 
 ### Elpitiya Budget Unanimously
 
@@ -58,6 +84,44 @@ At least 15 members, including the Chairman of the National People's Power, were
 
 ---
 
+### හිටපු CCD අධ්‍යක්ෂ නෙවිල් ට ඇප
+
+*2024-12-30 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204860) · `si`
+
+අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි කොළඹ අපරාධ කොට්ඨාසයේ හිටපු අධ්‍යක්ෂ සහකාර පොලිස් අධිකාරී නෙවිල් ද සිල්වා මහතාට ඇප නියම ව තිබේ.
+
+අද (30) රත්නපුර මහෙස්ත්‍රාත් අධිකරණයයේදී මීට අදාළ නඩුව විභාගයට ගැනීමෙන් අනතුරුව රත්නපුර මහෙස්ත්‍රාත් සමන් ඩි. කේ. බරණලියනගේ මහතා විසින් මෙම ඇප නියම කර තිබේ.
+
+රුපියල් පනස්දහසක ඇප මුදලක් සහ ලක්ෂ පනහ බැගින් වූ ශරීර ඇප තුනක් නියම කළ මහෙස්ත්‍රාත්වරයා සෑම මසකම අවසන් ඉරු දින උදේ 9-12ත් අතර කොළඹ සමූහ මංකොල්ල අපරාධ අංශයට වාර්තා කළ යුතු බවත් නියම කළේය.
+
+තවද විමර්ශන කටයුතුවලට සහ සාක්ෂිකරුවන්ට බාදා කිරීම තහනම් කළ මහෙස්ත්‍රාත්වරයා නඩුව යළි ජනවාරි 31 විභාගයට ගැනීමටත් නියෝග කළේය.
+
+රුපියල් කෝටි 14ක් වටිනා මැණික්, වාහන ඇතුළු දේපොළ තොගයක් බලහත්කාරයෙන් ලබාගත් බව කියන සිද්ධියක් ගැන කොළඹ අපරාධ කොට්ඨාසයට කළ පැමිණිල්ලකට අනුව එම දේපොළ ඒක පාර්ශ්විකව පැමිණිලිකරුට ලබාදිම සම්බන්ධයෙන් ඔහුව පසුගියදා අත්අඩංගුවට ගැනුණි.
+
+◼️
+
+[Data](articles/befd13da.json)
+
+---
+
+### Over 7,600 drivers penalized for traffic offenses within 24 hours
+
+*2024-12-30 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104587/over-7600-drivers-penalized-for-traffic-offenses-within-24-hours) · `en`
+
+In a 24-hour special traffic operation that concluded at 6.00 a.m. today (30), Sri Lanka Police have enforced the law against 413 drunk drivers.
+
+Additionally, 49 drivers were charged for reckless and dangerous driving, 110 for speeding, and 1,086 for other traffic violations.
+
+In addition, another 694 drivers were penalized for license-related offenses, while 5,324 others faced fines for various other traffic offenses.
+
+In total, 7,676 drivers have been penalized for traffic violations.
+
+◼️
+
+[Data](articles/c98214ba.json)
+
+---
+
 ### புத்தாண்டிலிருந்து புதிய  இடத்தில் ஜனாதிபதி நிதியம்
 
 *2024-12-30 15:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டிலிருந்து-புதிய-இடத்தில்-ஜனாதிபதி-நிதியம்/175-349506) · `ta`
@@ -71,6 +135,26 @@ At least 15 members, including the Chairman of the National People's Power, were
 ◼️
 
 [Data](articles/5dcbe7ef.json)
+
+---
+
+### Kamindu Mendis among nominees for ICC Men’s Test Cricketer of the Year
+
+*2024-12-30 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104586/kamindu-mendis-among-nominees-for-icc-mens-test-cricketer-of-the-year) · `en`
+
+Two England batting mainstays, India’s pace spearhead, and a new star in Sri Lankan ranks make for a glittering list of nominees for ICC Men’s Test Cricketer of The Year.
+
+2024 saw the former England captain continue his impressive run in the longest format of the game.
+
+Across 17 Tests, Joe Root compiled his second-best annual run-tally in Tests - second only to his 1708 runs from 2021. It was also the fifth instance of Root scoring over 1000 Test runs in a calendar year.
+
+With six Test hundreds to go alongside five half-centuries, Root was a consistent performer for England - both home and away. His impressive run with the bat saw Root amass joint-fifth highest tons in Tests (36) alongside Rahul Dravid.
+
+In addition to his batting exploits, Root also provided an extra spin option, and impressed with a four-wicket haul in the marquee series against India.
+
+...
+
+[Data](articles/58a99359.json)
 
 ---
 
@@ -162,15 +246,17 @@ The protest of Gajendrakumar's efforts may arise from the Sumanthiran section of
 
 *2024-12-30 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204857) · `si`
 
-නල්ලතන්නිය මස්කෙලිය ප්‍රධාන මාර්ගයේ මස්කෙලිය බ්‍රවුන්ලෝ වත්ත ප්‍රදේශයේදී කැබ් රථයක් මාර්ගයෙන් ඉවතට ලිස්සා ගොස් සිදුවූ අනතුරකින් පස්දෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+නල්ලතන්නිය මස්කෙලිය ප්‍රධාන මාර්ගයේ මස්කෙලිය බ්‍රවුන්ලෝ වත්ත ප්‍රදේශයේදී කැබ් රථයක් මාර්ගයෙන් ඉවතට ලිස්සා ගොස් සිදුවූ අනතුරකින් පස්දෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
 
-මෙම කැබ් රථය ඊයේ (29) ශ්‍රී පාද වන්දනාවේ පැමිණ අද (30) ආපසු ගොඩකවෙල දක්වා ජිප් රථය ධාවනය කරන අවස්තාවේ මෙම අනතුර සිදුව තිබුණි.
+මෙම කැබ් රථයේ පැමිණි පිරිස ඊයේ ශ්‍රී පාද වන්දනාවේ පැමිණ අද ආපසු ගොඩකවෙල දක්වා යමින් සිටියදී මෙම අනතුර සිදුව තිබුණා.
 
-මෙම කැබ් රථයේ එකම පවුලේ ඥාතින් පිරිසක් ගමන්කර ඇති අතර අනතුරට පත්වන අවස්තාවේ කැබ් රථය තුළ හත්දෙනෙකු ගමන් කර ඇත.
+මෙම කැබ් රථයේ එකම පවුලේ ඥාතින් පිරිසක් ගමන්කර ඇති අතර අනතුරට පත්වන අවස්ථාවේ කැබ් රථය තුළ හත්දෙනෙකු ගමන් කර තිබේ.
 
-ඉන් පස්දෙනෙකු තුවාල ලබා මස්කෙලිය ප්‍රාදේශීය රෝහල වෙත ඇතුළත් කිරීමෙන් පසු තුවාලකරුවන්ගේ තත්ත්වය බරපතළ විම හේතුවෙන් තුවාලකරුවන් දික්ඔය මුලික රෝහල වෙත මාරු කර යැවූ බව අද දෙරණ වාර්තාකරු පැවසීය.
+ඉන් පස්දෙනෙකු තුවාල ලබා මස්කෙලිය ප්‍රාදේශීය රෝහල වෙත ඇතුළත් කිරීමෙන් පසු තුවාලකරුවන්ගේ තත්ත්වය බරපතළ විම හේතුවෙන් දික්ඔය මුලික රෝහල වෙත මාරු කර යැවූ බව අද දෙරණ වාර්තාකරු සඳහන් කළේය.
 
-කැබ් රථයේ රියදුරුට නින්ද යාමෙන් එම අනතුර සිදුව ඇති බවත්, අනතුරෙන් කැබ් රථයට දැඩි අලාභ හානි සිදු වි ඇති බව පොලීසිය පැවසීය.
+කැබ් රථයේ ගමන්කළ කුඩා ළමයෙකු සහ රියදුරා සුළු තුවාල ලබා තිබේ.
+
+කැබ් රථයේ රියදුරුට නින්ද යාමෙන් එම අනතුර සිදුව ඇති බවත්, අනතුරෙන් කැබ් රථයට දැඩි අලාභ හානි සිදු වි ඇති බවත් පොලීසිය සඳහන් කළේය.
 
 ◼️
 
@@ -558,11 +644,11 @@ Meanwhile, the new Commander of the Sri Lanka Navy, Rear Admiral Kanchana Banago
 
 ---
 
-### නව යුද හමුදාපති ධුරයට මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු
+### යුද හමුදාපති ධුරයට මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු
 
 *2024-12-30 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204851) · `si`
 
-නව යුද හමුදාපතිවරයා ලෙස මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු මහතා පත්කර තිබේ.
+යුද හමුදාපතිවරයා ලෙස මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු මහතා පත්කර තිබේ.
 
 ඒ අනුව ඔහු ශ්‍රී ලංකා යුද හමුදාවේ 25 වන යුද හමුදාපතිවරයා වනු ඇත.
 
@@ -1953,75 +2039,5 @@ Sri Lankan Tamil political parties and their leaders did not show as much concer
 ...
 
 [Data](articles/52ed1146.json)
-
----
-
-### Elephant death in Ottamavadi
-
-*2024-12-30 00:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202501) · `ta`
-
-Elephant dies in Ottamavadi field. Found Sunday morning, treated by wildlife department but couldn't stand. Cause unknown.
-
-🟩
-
-An elephant died on Sunday evening (29) evening in the Kavathamunai -Round field in the Koralaipattu West Ottamavadi Pradeshiya Sabha division.
-
-Farmers said the elephant was lying in the field on Sunday morning (29).
-
-The elephant has died after the authorities have been treating the Department of Wildlife to treat the elephant that have been unable to get up.
-
-◼️
-
-[Data](articles/8738cf89.json)
-
-[Extended Data](ext_articles/8738cf89.ext.json)
-
----
-
-### 2024-12-29 (Sunday)
-
-### Lanka Hospitals wins Gold at TAGS Annual Report Awards for second consecutive Year
-
-*2024-12-29 23:48:00* · [`islandlk`](http://island.lk/lanka-hospitals-wins-gold-at-tags-annual-report-awards-for-second-consecutive-year/) · `en`
-
-Lanka Hospitals has secured the Gold Award for the second consecutive year at the prestigious TAGS Annual Report Awards Competition, organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka).
-
-This accolade underscores Lanka Hospitals’ steadfast commitment to upholding the core values of Transparency, Accountability, Governance, and Sustainability (TAGS). The TAGS Awards serve as a benchmark for corporate excellence in both financial and non-financial reporting, promoting enhanced corporate governance practices and ESG (Environmental, Social, and Governance) compliance.
-
-With a legacy spanning over 56 years, the Annual Report Awards Competition was rebranded and reconceptualized as the TAGS Awards in 2022. The new format reflects the growing demands of stakeholders, including investors and shareholders, by focusing on contemporary reporting practices that go beyond financial disclosures.
-
-...
-
-[Data](articles/d284c273.json)
-
----
-
-### EDB hosts networking session for women entrepreneurs
-
-*2024-12-29 23:47:00* · [`islandlk`](http://island.lk/edb-hosts-networking-session-for-women-entrepreneurs-2/) · `en`
-
-The Export Development Board (EDB) successfully conducted a networking and knowledge sharing session for the women entrepreneurs registered under the “Women Entrepreneurship Development Program” recently at the EDB-NDB Tower, Colombo 02. The event addressed one of the key barriers faced by women entrepreneurs, lack of networking opportunities with industry leaders.
-
-This exclusive session brought together 50 women entrepreneurs registered with EDB, including SME direct exporters and indirect exporters, along with leading exporters and academics. Designed to inspire and educate, the event fostered connections, facilitated knowledge sharing, and encouraged collaboration to help women entrepreneurs navigate international markets. The event featured a distinguished panel of speakers who shared their expertise on various topics critical to succeeding in the global marketplace:
-
-...
-
-[Data](articles/0e00a3f9.json)
-
----
-
-### Ranil recalls how India overtook Sri Lanka in economic reforms journey while latter was hesitant at policy wheel
-
-*2024-12-29 23:45:00* · [`islandlk`](http://island.lk/ranil-recalls-how-india-overtook-sri-lanka-in-economic-reforms-journey-while-latter-was-hesitant-at-policy-wheel/) · `en`
-
-During the Atal Bihari Vajpayee Memorial Lecture delivered by former president Ranil Wickremesinghe in India recently, he recalled that his first visit to India was as a young boy of 18 years to Chennai to sit for the London GCE A-level Examination — as was the practice in Sri Lanka at the time.
-
-Referring to multiple interactions with Indian leaders over the decades which started in his role as an assistant to former president J.R. Jayawardene, he said,” When you have been in politics as long as I have, you end up knowing everyone – at some point or the other.”
-
-“I have also been an eyewitness to the pivotal and sweeping economic metamorphosis of India from the late 1990s onwards.”
-
-...
-
-[Data](articles/21b773ce.json)
 
 ---

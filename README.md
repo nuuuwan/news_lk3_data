@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 04:01:51**
+As of **2024-12-31 04:14:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,964 (98.6%) of 62,816 articles have been extended.
+61,965 (98.6%) of 62,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,8 @@ Commander of the Army Lieutenant General Vikum Liyanage and Commander of the Nav
 ◼️
 
 [Data](articles/41aefa4b.json)
+
+[Extended Data](ext_articles/41aefa4b.ext.json)
 
 ---
 

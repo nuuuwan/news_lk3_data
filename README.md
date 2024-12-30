@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 22:43:12**
+As of **2024-12-30 23:01:14**
 
 ## Newspaper Stats
 
-*Scraped **62,782** Articles*
+*Scraped **62,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,344
 dailymirrorlk | 4,733
 adalk | 6,000
 adaderanalk | 7,672
-tamilmirrorlk | 9,003
+tamilmirrorlk | 9,004
 virakesarilk | 10,438
 adaderanasinhalalk | 10,852
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,852
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,959 (98.7%) of 62,782 articles have been extended.
+61,959 (98.7%) of 62,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
+
+### அடுத்த சில நாட்களில் ஏற்படவுள்ள மாற்றம்
+
+*2024-12-30 22:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-சில-நாட்களில்-ஏற்படவுள்ள-மாற்றம்/175-349520) · `ta`
+
+இன்றிலிருந்து அடுத்த சில நாட்களில் வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களில் மழை நிலைமை சற்று அதிகரிக்கக் கூடிய சாத்தியம் காணப்படுகின்றதாக வளிமண்டலவியல் திணைக்களம் தற்போது அறிவித்துள்ளது.
+
+வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் மாத்தளை மாவட்டத்திலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் மாத்தளை மற்றும் பொலன்னறுவை மாவட்டங்களிலும் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களில் சில இடங்களில் 50 மி.மீ அளவான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+வடக்கு, கிழக்கு மற்றும் வடமத்திய மாகாணங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-35 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடும் என எதிர்பார்க்கப்படுகின்றது.
+
+...
+
+[Data](articles/1962296a.json)
+
+---
 
 ### A discussion between electronic broadcastkers' union and the Minister of Mass Media
 
@@ -1985,25 +2007,5 @@ The suspects, aged 22, 24, and 25, are residents of the Mawanella area.
 ◼️
 
 [Data](articles/4d652aa8.json)
-
----
-
-### Govt. to launch ‘Clean Sri Lanka’ program on Jan. 1
-
-*2024-12-30 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104578/govt-to-launch-clean-sri-lanka-program-on-jan-1) · `en`
-
-The government is set to launch the “Clean Sri Lanka” initiative on January 1, 2025.
-
-The program will commence under the patronage of President Anura Kumara Dissanayake, according to the President’s Media Division (PMD).
-
-A Presidential Task Force has recently been established to oversee the implementation of this initiative.
-
-The Task Force consists of 18 members, including the Secretary to the President, Dr. Nandika Sanath Kumanayake, the Acting Inspector General of Police, and the Commanders of the three armed forces.
-
-This Task Force is entrusted with the responsibility of planning, guiding, executing, monitoring progress, and ensuring the completion of the “Clean Sri Lanka” program within the specified timeline.
-
-◼️
-
-[Data](articles/9347c279.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 00:28:13**
+As of **2024-12-31 00:59:47**
 
 ## Newspaper Stats
 
-*Scraped **62,805** Articles*
+*Scraped **62,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,75 @@ colombotelegraphcom | 636
 bbccomsinhala | 659
 islandlk | 3,810
 economynextcom | 3,818
-dailyftlk | 4,351
+dailyftlk | 4,353
 dailymirrorlk | 4,733
 adalk | 6,000
 adaderanalk | 7,674
 tamilmirrorlk | 9,005
 virakesarilk | 10,441
-adaderanasinhalalk | 10,853
+adaderanasinhalalk | 10,854
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,960 (98.7%) of 62,805 articles have been extended.
+61,961 (98.7%) of 62,808 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-12-31 (Tuesday)
+
+### ශ්‍රී ලංකා පොලීසියේ නිල යූටියුබ් නාලිකාවට සයිබර් ප්‍රහාරයක්
+
+*2024-12-31 00:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204875) · `si`
+
+ශ්‍රී ලංකා පොලීසියේ නිල යූටියුබ් නාලිකාව සයිබර් ප්‍රහාරයකට ලක්ව තිබේ.
+
+මේ වන විට එහි පාලනය සම්පූර්ණයෙන් එහි පරිපාලකයින් අතින් ගිලිහී ගොස් ඇත.
+
+සිය මුහුණු පොතේ විශේෂ නිවේදනයක් නිකුත් කරමින් පොලීසිය පැවසුමේ මේ වන විට එය කඩිනමින් යථාවත් කිරීමට අවශ්‍ය කටයුතු සිදුකරමින් පවතින බවය.
+
+◼️
+
+[Data](articles/71209dff.json)
+
+---
+
+### Delmege – Sri Lanka excels at Kellogg’s Asia Expansion Markets Meet 2024
+
+*2024-12-31 00:23:22* · [`dailyftlk`](https://www.ft.lk/business/Delmege-Sri-Lanka-excels-at-Kellogg-s-Asia-Expansion-Markets-Meet-2024/34-771183) · `en`
+
+Vallibel One/Delmege Managing Director Dinusha Bhaskaran (seventh from left) and  team from Delmege Consumer with award presented by Kellogg’s
+
+Wins prestigious ‘Best Country’ and ‘Best General Trade’ awards at awards ceremony held in Kathmandu
+
+At the highly anticipated Kellogg’s Asia Expansion Markets Annual Meet 2024, held in Kathmandu, Delmege took centre stage by winning two of the most coveted awards – the ‘Best Country’ and ‘Best General Trade’ awards which were received by Vallibel One/Delmege Ltd. Managing Director Dinusha Bhaskaran. This remarkable achievement underscores Delmege’s exceptional performance and commitment to excellence in the global business arena.
+
+...
+
+[Data](articles/94736185.json)
+
+[Extended Data](ext_articles/94736185.ext.json)
+
+---
+
+### MV. Navios Unite marks maiden call at JCT SLPA
+
+*2024-12-31 00:21:41* · [`dailyftlk`](https://www.ft.lk/business/MV-Navios-Unite-marks-maiden-call-at-JCT-SLPA/34-771182) · `en`
+
+SLPA Vice Chairman Eng. Herath M. P. Jayawardhana (left) presents plaque to the ship’s Master Capt. L. Bautista joined by SLPA Additional Managing Director (Operations) Lal Weerasinghe, Director (Operations) G. Zavia Miskin, Director (Marketing and BD) H.J.K.U. Kumara, Harbour Master Capt. Nirmal P. Silva, Executive Officials from both SLPA and Unifeeder Lanka, the local agent for Unifeeder
+
+MV. Navios Unite being operated at the Jaya Container Terminal of Sri Lanka Ports Authority
+
+Unifeeder’s MV. Navios Unite operating the Asia Gulf India (AGI) service recently made her maiden call at the Port of Colombo.
+
+To mark its arrival at the Jaya Container Terminal (JCT) of the Sri Lanka Ports Authority (SLPA), a plaque exchange was held on-board the vessel between SLPA Vice Chairman Eng. Herath M.P. Jayawardhana, and the ship’s Master Capt. L. Bautista.
+
+...
+
+[Data](articles/f64776e5.json)
+
+---
 
 ### 2024-12-30 (Monday)
 
@@ -1913,67 +1967,5 @@ All the inappropriate words in the video have been removed to comply with social
 [Data](articles/d5ee1b65.json)
 
 [Extended Data](ext_articles/d5ee1b65.ext.json)
-
----
-
-### New Commanders appointed to Sri Lanka Army and Navy
-
-*2024-12-30 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104583/new-commanders-appointed-to-sri-lanka-army-and-navy) · `en`
-
-Major General Lasantha Rodrigo has been appointed as the Commander of the Sri Lanka Army, while Rear Admiral Kanchana Banagoda was appointed Commander of the Sri Lanka Navy, Ministry of Defence announced.
-
-The official appointment letters were presented to the newly appointed commanders today (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat.
-
-Commander of the Army Lieutenant General Vikum Liyanage and Commander of the Navy Vice Admiral Priyantha Perera are scheduled to retire from their respective positions tomorrow (31).
-
-Accordingly, Major General Lasantha Rodrigo takes over as the 25th Commander of the Sri Lanka Army, as the Army Chief, Lieutenant General Vikum Liyanage retires from active service.
-
-A seasoned military officer, Major General Rodrigo previously served as the Deputy Chief of Staff of the Sri Lanka Army, demonstrating a distinguished career in leadership and service.
-
-...
-
-[Data](articles/2baa809e.json)
-
----
-
-### යුද හමුදාපති ධුරයට මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු
-
-*2024-12-30 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204851) · `si`
-
-යුද හමුදාපතිවරයා ලෙස මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු මහතා පත්කර තිබේ.
-
-ඒ අනුව ඔහු ශ්‍රී ලංකා යුද හමුදාවේ 25 වන යුද හමුදාපතිවරයා වනු ඇත.
-
-මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු මහතා ශ්‍රී ලංකා යුද හමුදාවේ නියෝජ්‍ය මාණ්ඩලික ප්‍රධානීවරයා ලෙස කටයුතු කරමින් සිටියේය.
-
-වත්මන් යුද හමුදාපති මේජර් ජෙනරාල් විකුම් ලියනගේ මහතා අද වනතුරු ඔහුගේ දෙවන සේවා දිගුවේ කටයුතු කරමින් සිටියේය.
-
-◼️
-
-[Data](articles/cef5c042.json)
-
----
-
-### A farmer climbs a bus stop for fertilizer subsidy
-
-*2024-12-30 12:14:45* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-ඉල්ලා-ගොවියෙකු-බස්-නැවතුම්පළක-වහලයට-නගියි/11-413910) · `si`
-
-Farmer protests at bus stop over fertilizer subsidy in Mahawilachchiya. Demands government fulfill promise. Will continue until issue resolved.
-
-🟩
-
-A farmer in the Mahawilachchiya area has come to a roof of the Mahawilachchiya bus station, demanding the government's promised fertilizer subsidy.
-
-Protest was engaged in farming activities in Pamadaduwa area in Wiladuwa area. Anura Bandara is.
-
-The farmers said that the farmers in the area began to cultivate the cultivation of the fertilizer and the people who had promised the President's promised subsidy in these areas.
-
-The farmer says he will not give up the protest until he is given a proper solution to the smanishment of the fertilizer.
-
-◼️
-
-[Data](articles/1e39b669.json)
-
-[Extended Data](ext_articles/1e39b669.ext.json)
 
 ---

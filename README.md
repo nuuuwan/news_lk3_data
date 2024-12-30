@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 21:44:03**
+As of **2024-12-30 22:02:47**
 
 ## Newspaper Stats
 
-*Scraped **62,773** Articles*
+*Scraped **62,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,997
+adalk | 5,999
 adaderanalk | 7,671
 tamilmirrorlk | 9,003
 virakesarilk | 10,436
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,849
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,958 (98.7%) of 62,773 articles have been extended.
+61,958 (98.7%) of 62,775 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -208,6 +208,22 @@ Allegations of certain officials’ involvement in irregular activities within p
 
 ---
 
+### උතුරු පළාත් භාර පොලිස්පති හැම්පර්ස් එපා කියයි
+
+*2024-12-30 18:52:24* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-පළාත්-භාර-පොලිස්පති-හැම්පර්ස්-එපා-කියයි/11-413924) · `si`
+
+නව වසර උදාවත් සමගම ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් සතුටු කිරීම සඳහා තුටු පඬුරු (hampers) ලබාදීමේ ක්‍රමවේදයෙන් බැහැර වන ලෙස උතුරු පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා දක්වන අදහස අනෙකුත් පළාත්වලද ක්‍රියාත්මක කරන ලෙස කනිෂ්ඨ පොලිස් නිලධාරීහු ඉල්ලා සිටිති.
+
+උතුරු පළාත ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති තිලක්. සී . ඒ.ධනපාල මහතාගේ මහතාගේ අත්සනින් යුත් පොලිස් පණිවිඩයක සඳහන් කර ඇත්තේ නව වසර උදාව සිංහල හා හින්දු අලුත් අවුරුද්ද වැනි විශේෂ අවස්ථාවලදී ඇතැම් පොලිස් නිලධාරීන් ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් වෙත තුටු පඬුරු (hampers) ලබාදීම සිදුකරන බවයි .
+
+මින් ඉදිරියට එවැනි අවස්ථාවල හෝ වෙනත් කිසිදු අවස්ථාවක තමා ඇතුළු උතුරු පළාතේ කිසිදු ජ්‍යෙෂ්ඨ නිලධාරියකුට තුටු පඬුරු ලබාදීව සිදු නොකරන ලෙස මෙයින් දන්වන බව ඔහු එහි සඳහන් කරයි.තවද නව වසර උදාවන දිනයේදී කිසිදු නිලධාරියකු පුද්ගලිකව තමා හමුවීමට පැමිණ සුබ පැතීම අවශ්‍ය නොවන අතර සුබපැතීමට අවශ්‍ය වන්නේ නම් ඒ සඳහා දුරකථන ඇමතුමක් ලබාදීම හෝ වට්සැප් මගින් කෙටි පණිවිඩයක් යොමු කිරීම ප්‍රමාණවත් බවද ඔහු කියයි.
+
+...
+
+[Data](articles/ea77d667.json)
+
+---
+
 ### අද සිට වැසි තත්ත්වයේ වැඩිවීමක්
 
 *2024-12-30 18:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204868) · `si`
@@ -249,6 +265,18 @@ Speaking further on this matter, the Minister also mentioned that they expect to
 ◼️
 
 [Data](articles/369617e7.json)
+
+---
+
+### 2025 වසර ​පිළිගන්න කොළඹට එන්න ඉන්න අයට දැනුම් දීමක්
+
+*2024-12-30 18:26:56* · [`adalk`](https://www.ada.lk/breaking_news/2025-වසර-​පිළිගන්න-කොළඹට-එන්න-ඉන්න-අයට-දැනුම්-දීමක්/11-413922) · `si`
+
+2025 වසර සැමරිම වෙනුවෙන් කොළඹට පැමිණීමට නියමිත සියලු දෙනා දැනුවත් කරමින් පොලිස් මාධ්‍ය ප්‍රකාශක කොට්ඨාසය නිවේදනයක් නිකුත් කර තිබේ. ඒ අනුව කොළඹ, ගාලුමුවදොර පිටිය ආසන්නයේ විශේෂ රථ වාහන ධාවන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලිස් මූලස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/9a5ef06a.json)
 
 ---
 
@@ -1969,53 +1997,5 @@ The budget airline used a Boeing 737-800 on the route and it is the same model i
 ◼️
 
 [Data](articles/f2b51ef1.json)
-
----
-
-### Elon Musk stirs up controversy over AfD boss Alice Weidel’s Sri Lanka partner
-
-*2024-12-30 09:25:00* · [`economynextcom`](https://economynext.com/elon-musk-stirs-up-controversy-over-afd-boss-alice-weidels-sri-lanka-partner-196891/) · `en`
-
-ECONOMYNEXT – Donald Trump supporter Elon Musk has stirred up a controversy over his remarks about the partner of Alice Weidel, a top leader of Alternative for Germany (AfD) party, which has been promoting nationalism.
-
-Musk in an op-ed published in Germany’s  Welt am Sonntag newspaper said that AfD is not as extreme as claimed by critics as its co-chair had a same sex partner.
-
-Nationalists are usually against the gay community, as was Hitler’s Nazi party.
-
-“The portrayal of the AfD as right-wing extremist is clearly false, considering that Alice Weidel, the party’s leader, has a same-sex partner from Sri Lanka! Does that sound like Hitler to you? Please!” Musk wrote in the op-ed, according to the German broadcaster Deutshe Welle.
-
-Wiedel is said to have a same-sex partner in Switzeraland who is a migrant from Sri Lanka.
-
-The Welt’s opinion editor had resigned shortly after the publication, the report said.
-
-...
-
-[Data](articles/5c5362d4.json)
-
----
-
-### Sri Lanka rupee opens flat at 292.40/60 to US dollar, bonds steady
-
-*2024-12-30 09:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-40-60-to-us-dollar-bonds-steady-196896/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 292.40/60 to the US dollar in the spot market, broadly unchanged from 292.40/70 on Friday, while bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 9.75/90 percent.
-
-A bond maturing on 15.10.2028 was quoted at 10.42/48 percent, down from 10.08/18 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.65/75 percent.
-
-An auction of Rs. 80,000 million Treasury Bonds was ongoing.
-
-The central bank announced an auction of Rs 168,000 million of Treasury bills will be held Wednesday.
-
-In equities, the All Share Price Index was up 1.21 percent or 188.74 points, at 15,724.
-
-The more liquid S&P SL20 was up 1.69 percent, or 78.81 points, at 4,745.
-
-◼️
-
-[Data](articles/8ed28d8c.json)
 
 ---

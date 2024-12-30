@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 02:28:07**
+As of **2024-12-31 02:43:15**
 
 ## Newspaper Stats
 
-*Scraped **62,815** Articles*
+*Scraped **62,816** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 462
-colombotelegraphcom | 636
+colombotelegraphcom | 637
 bbccomsinhala | 659
 islandlk | 3,810
 economynextcom | 3,818
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,963 (98.6%) of 62,815 articles have been extended.
+61,964 (98.6%) of 62,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Signed by NMSJ General Secretary Sunil Jayasekara, the press release expressed t
 ...
 
 [Data](articles/cd530c10.json)
+
+[Extended Data](ext_articles/cd530c10.ext.json)
 
 ---
 
@@ -497,6 +499,16 @@ Accordingly, the Food (Labelling and Advertising) Regulations 2022, published in
 ◼️
 
 [Data](articles/1903a6eb.json)
+
+---
+
+### AKD/NPP Government: COPA, COPE, And MAFIA(s)
+
+*2024-12-30 20:52:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akd-npp-government-copa-cope-and-mafias/) · `en`
+
+...
+
+[Data](articles/a4288fa6.json)
 
 ---
 
@@ -1921,33 +1933,5 @@ CR450 අංක දරන එම දුම්රියෙහි ධාවන ව
 ◼️
 
 [Data](articles/c1d234e4.json)
-
----
-
-### “Many projects have been resumed”
-
-*2024-12-30 13:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-திட்டங்கள்-மீள-ஆரம்பிக்கப்பட்டுள்ளன/175-349499) · `ta`
-
-"New govt resumes intl & foreign investment schemes. Foreign diplomats regain confidence. Stock market performs well. Stability path accepted by int'l community."
-
-🟩
-
-Government spokesman Minister Nalinda Jayatissa says that several international and foreign investment schemes have been resumed by the new government.
-
-Jayatissa made these comments after taking over the duties as the Chairman of the Kalutara District Development Committee.
-
-He added that discussions have begun to bring foreign investments, and that Sri Lanka can expect a prosperous start at the beginning of next year.
-
-“Foreign diplomats have once again gained confidence and have started working with Sri Lanka,” he said.
-
-Minister Jayatissa further pointed out that the stock market has begun to perform well in the short term.
-
-He said the international community has accepted that Sri Lanka is moving on the path towards stability.
-
-◼️
-
-[Data](articles/02077a14.json)
-
-[Extended Data](ext_articles/02077a14.ext.json)
 
 ---

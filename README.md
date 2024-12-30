@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 15:43:58**
+As of **2024-12-30 16:02:22**
 
 ## Newspaper Stats
 
-*Scraped **62,732** Articles*
+*Scraped **62,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,990
+adalk | 5,991
 adaderanalk | 7,662
-tamilmirrorlk | 8,997
+tamilmirrorlk | 8,999
 virakesarilk | 10,428
 adaderanasinhalalk | 10,838
 
@@ -26,35 +26,73 @@ adaderanasinhalalk | 10,838
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,947 (98.7%) of 62,732 articles have been extended.
+61,948 (98.7%) of 62,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-30 (Monday)
 
-### නවසීලන්තයට සුපිරි ජයක්
+### எல்பிட்டிய பட்ஜெட் ஏகமனதாக நிறைவேற்றம்
+
+*2024-12-30 15:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எல்பிட்டிய-பட்ஜெட்-ஏகமனதாக-நிறைவேற்றம்/175-349508) · `ta`
+
+எல்பிட்டிய பிரதேச சபையின் 2025ஆம் ஆண்டுக்கான முதலாவது வரவு-செலவுத் திட்டம்  எவ்வித விவாதமும் இன்றி ஏகமனதாக, திங்கட்கிழமை (30) நிறைவேற்றப்பட்டது.
+
+தேசிய மக்கள் சக்தியின் தவிசாளர் சனத் சுமனசிறியினால் சமர்ப்பிக்கப்பட்ட    இந்த வரவு- செலவுத் திட்டம் ஸ்ரீலங்கா பொதுஜன பெரமுன உறுப்பினர் நளீன் பிரியதர்ஷனவின் முன்மொழிவுடன் பொதுஜன ஐக்கிய சுதந்திரக் கூட்டமைப்பின்  உறுப்பினர் சரத் அல்விஸின் வழிமொழிவுடன்  நிறைவேற்றப்பட்டமை விசேட அம்சமாகும்.
+
+தேசிய மக்கள் சக்தியின் தவிசாளர் உட்பட 15 உறுப்பினர்கள்,  பிற கட்சிகளில் இருந்து தேர்ந்தெடுக்கப்பட்ட 11 உறுப்பினர்கள் அடங்களாக, 26 உறுப்பினர்கள் இந்த விசேட கூட்டத்தில் பங்கேற்றனர்.
+
+◼️
+
+[Data](articles/55182d6b.json)
+
+---
+
+### புத்தாண்டிலிருந்து புதிய  இடத்தில் ஜனாதிபதி நிதியம்
+
+*2024-12-30 15:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டிலிருந்து-புதிய-இடத்தில்-ஜனாதிபதி-நிதியம்/175-349506) · `ta`
+
+இதுவரை கொழும்பு 10, டி.ஆர். விஜேவர்தன மாவத்தை, லேக்ஹவுஸ் கட்டிடத்தின் 3வது மாடியில்  இயங்கி வந்த ஜனாதிபதி நிதியத்தின் அலுவலகம் 2025 ஜனவரி 01 ஆம் திகதி முதல் புதிய இடத்தில் நிறுவப்பட உள்ளது.
+
+இதன்படி, ஜனாதிபதி நிதியத்தின் புதிய அலுவலக வளாகம் கொழும்பு 01, ஜனாதிபதி மாளிகைக்கு முன்பாக அமைந்துள்ள ஸ்டேண்டர்ட் சார்டர்ட் கட்டிடத்தின் தரைத்தளத்தில் நிறுவப்படுகிறது.
+
+ஜனாதிபதி நிதியத்தின் சேவைகளைப் பெற்றுக் கொள்வதற்காக வரும் பொதுமக்கள், 2025 ஜனவரி 1 முதல்,  கொழும்பு 01, ஜனாதிபதி மாவத்தை,  ஜனாதிபதி மாளிகைக்கு முன்பாக அமைந்துள்ள ஸ்டேண்டர்ட் சார்டர்ட் கட்டிடத்தின் தரைத்தளத்தில் உள்ள அலுவலக வளாகத்திற்குச் சென்று சேவைகளைப்  பெற்றுக்கொள்ள முடியும்.
+
+◼️
+
+[Data](articles/5dcbe7ef.json)
+
+---
+
+### Super win to New Zealand
 
 *2024-12-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204859) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම හා නවසීලන්ත කණ්ඩායම අතර අද (30) පැවැති දෙවන 20යි 20 තරගය ලකුණු 45කින් ජයගැනීමට නවසීලන්ත කණ්ඩායම සමත්විය.
+N
 
-තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්වූ අතර ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දු යැවීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 5ක් දැවී ලකුණු 186ක් රැස්කිරීමට සමත් විය.
+New Zealand beat New Zealand by 45 runs between the Sri Lanka team and New Zealand.
 
-නවසීලන්ත පිල වෙනුවෙන් වැඩිම ලකුණුලාභියා වූ මාක් චැප්මන් ලකුණු 42ක් ලබා ගැනීමට සමත් වූ අතර ටිම් රොබින්සන් හා මිචෙල් හේ ලකුණු 41ක බැගින් ලබාගත්හ.
+Sri Lanka decided to win the advantage of the match and Sri Lanka captain Charith was first bowled.
 
-පන්දු යැවීමේ දී වනිඳු හසරංග කඩුලු 2ක් දවා ගැනීමට සමත් විය. මීට අමතරව නුවන් තුෂාර සහ මතීෂ පතිරණ අතර එක් කඩුල්ල බැගින් බෙදී යන ලදී.
+Accordingly, New Zealand scored 186 runs for the loss of 5 wickets in the 20 overs.
 
-ලකුණු 187ක ජයග්‍රාහි ඉලක්කයක් හඹාගිය ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 19යි එක් පන්දුවක් අවසානයේ සියලුදෙනා දැවි රැස්කර ගත හැකි වූයේ ලකුණු 141ක් පමණි.
+Mark Chapman, the highest number of mark for New Zealand was 42 runs while Tim Robinson and Michelle Hay scored 41 runs.
 
-ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් කුසල් පෙරේරා ලකුණු 48ක් රැස්කළ අතර පැතුම් නිස්සංක ලකුණු 37ක් රැස්කළේය.
+Fannel Hasaranga scored 2 wickets in bowling. In addition, one wicket was divided among Nuwan Thushara and Matha Pathirana.
 
-ඒ අනුව තවත් එක් තරගයක් ඉතිරිව තිබියදී තරග තුනකකින් සමන්විත 20යි 20 තරගාවලිය ජයගැනීමට නවසීලන්ත කණ්ඩායම සමත්විය.
+Chasing a target of 187 runs, Sri Lanka won only 141 runs in one ball.
+
+Kusal Perera scored 48 runs and the wishes were scored 37 runs.
+
+Accordingly, New Zealand were able to win the 20th 20th tournament with another match.
 
 ◼️
 
 [Data](articles/2c996c03.json)
+
+[Extended Data](ext_articles/2c996c03.ext.json)
 
 ---
 
@@ -73,6 +111,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77e06589.json)
+
+---
+
+### 2025 ට වීශ්‍රාම වැටුප් ගෙවන දිනයන්
+
+*2024-12-30 15:17:40* · [`adalk`](https://www.ada.lk/breaking_news/2025-ට-වීශ්‍රාම-වැටුප්-ගෙවන-දිනයන්/11-413913) · `si`
+
+2025 වර්ෂය සදහා මාසික වීශ්‍රාම වැටුප් ගෙවීම් කරනු ලබන දිනයන් චක්‍රලේකයක් මගින් නිකුත් කර ඇත. අදාල චක්‍රලේඛය විශ්‍රම වැටුප් දෙපාර්ථමේන්තුව මගින් සියළුම දිස්ත්‍රික් ලේකම්වරුන් වෙත හා සියළුම ප්‍රාදේශීය ලේකම්වරුන් වෙත නිතුත් කොට ඇතිබව ඉන් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/2861b1c9.json)
 
 ---
 
@@ -1963,47 +2013,5 @@ Referring to multiple interactions with Indian leaders over the decades which st
 ...
 
 [Data](articles/21b773ce.json)
-
----
-
-### Astonishing Levels Of Corruption
-
-*2024-12-29 23:44:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/astonishing-levels-of-corruption/) · `en`
-
-Unless the scourge of corruption is at least controlled, if not eliminated, our country is doomed. In the absence of genuine effort, no amount of big talk of “Yahapalanaya”, “Eradication of Beeshanaya and Dhooshanaya”, “Vistas of Splendour,” are all hollow deceptions, and an insult to our collective intelligence. Let us demand that the currently pledged ”System change” is truly meant, and will not merely join the lengthy queue of deceptive treachery.
-
-There is much excitement that at long last, some action will be forthcoming. The early signs are very positive. May this continue as a sustained battle against grave injustice. The people deserve this; and are tired of hoodwinking slogans and pretended “Cleanliness”. Times and moods have changed and the “Aragalaya” was a mild fore taste of what determined and disciplined, massive public protests can do. All beware!
-
-...
-
-[Data](articles/6793fa8d.json)
-
----
-
-### Nations Trust Bank’s urban forestry initiative takes root for a greener tomorrow
-
-*2024-12-29 23:43:00* · [`islandlk`](http://island.lk/nations-trust-banks-urban-forestry-initiative-takes-root-for-a-greener-tomorrow/) · `en`
-
-Nations Trust Bank recently launched an Urban Forestry Initiative, a multi-phase tree-planting project that is aimed at increasing greener spaces in Colombo city while encouraging environmental stewardship.
-
-The initiative demonstrates Nations Trust Bank’s commitment to environmental sustainability and its aim to reach the Global Sustainable Development Goals (SDGs). Twenty-four trees of the variants Mee, Karanda, and Koboleela, were planted along Union Place and Staple Street in Colombo during the project’s initial phase, and another sixteen Ehala and Rath Koboleela trees will be planted on Sir James Pieris Mawatha during the second phase. The project will be further divided into multiple stages, reaching more areas within urban Colombo.
-
-...
-
-[Data](articles/4627bf39.json)
-
----
-
-### DIMO shines at TAGS Awards 2024, clinching Overall Silver Award
-
-*2024-12-29 23:41:00* · [`islandlk`](http://island.lk/dimo-shines-at-tags-awards-2024-clinching-overall-silver-award/) · `en`
-
-DIMO triumphed at the TAGS Awards 2024, winning the prestigious Silver Award for Overall Excellence in Corporate Reporting. The company also earned a Gold Award and four Silver Awards, highlighting its commitment to Transparency, Accountability, Governance, and Sustainability. The accolades included a Gold Award for Diversified Holdings (Group Turnover Up to 100bn) and Silver Awards for Integrated Reporting, Corporate Governance Disclosure – Non-Financial Services, Sustainability Reporting, and Digitally Transformative Reporting.
-
-Gahanath Pandithage (Group Managing Director/CEO) and Suresh Gooneratne (Executive Director/CFO) received the Overall Silver Award on behalf of the company. DIMO’s 2023/24 Annual Report, themed ‘Agile By Nature’ with a Dragonfly metaphor, introduced an innovative braille synopsis for the visually impaired and featured a dedicated microsite, enhancing its digital engagement.
-
-...
-
-[Data](articles/4e8a0890.json)
 
 ---

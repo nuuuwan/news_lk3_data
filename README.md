@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 14:16:20**
+As of **2024-12-30 14:28:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,944 (98.8%) of 62,708 articles have been extended.
+61,945 (98.8%) of 62,708 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -168,17 +168,23 @@ The statement has also stated that the compensation paid to the Maha Season 2024
 
 ---
 
-### නව යුධ හමුදාපති ලෙස මේජර් ජනරල් ලසන්ත රොද්‍රිගෝ පත් කරයි
+### Major General Lasantha Rodrigo appointed as New Army Commander
 
 *2024-12-30 12:08:18* · [`adalk`](https://www.ada.lk/breaking_news/නව-යුධ-හමුදාපති-ලෙස-මේජර්-ජනරල්-ලසන්ත-රොද්‍රිගෝ-පත්-කරයි/11-413909) · `si`
 
-මෙරට 25 වැනි යුධ හමුදාපතිවරයා ලෙස මේජර් ජනරල් ලසන්ත රොද්‍රිගෝ මහතා අද(30දා) පත් කර තිබේ.
+Major General Lasantha Rodrigo named 25th Army Commander by President Anura Kumara Dissanayake.
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් මෙම පත් කිරීම සිදු කර ඇත.
+🟩
+
+Major General Lasantha Rodrigo has been appointed as the 25th Army Commander of this country.
+
+The appointment has been made by President Anura Kumara Dissanayake.
 
 ◼️
 
 [Data](articles/80bbfd7f.json)
+
+[Extended Data](ext_articles/80bbfd7f.ext.json)
 
 ---
 

@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 05:12:37**
+As of **2024-12-30 05:52:16**
 
 ## Newspaper Stats
 
-*Scraped **62,638** Articles*
+*Scraped **62,648** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 459
-colombotelegraphcom | 634
+colombotelegraphcom | 636
 bbccomsinhala | 658
-islandlk | 3,802
 economynextcom | 3,805
+islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
 adalk | 5,979
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,818
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,926 (98.9%) of 62,638 articles have been extended.
+61,928 (98.9%) of 62,648 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,6 +204,8 @@ The accolade highlights CBL’s dedication to empowering small and medium-sized 
 
 [Data](articles/00fce44e.json)
 
+[Extended Data](ext_articles/00fce44e.ext.json)
+
 ---
 
 ### Anil Dias appointed to Dilmah Ceylon Tea Board
@@ -219,6 +221,8 @@ Much of his career was with Coats PLC of the UK, a FTSE 250 company with a wide 
 ...
 
 [Data](articles/ef6f278e.json)
+
+[Extended Data](ext_articles/ef6f278e.ext.json)
 
 ---
 
@@ -325,6 +329,126 @@ The elephant has died after the authorities have been treating the Department of
 ---
 
 ### 2024-12-29 (Sunday)
+
+### Lanka Hospitals wins Gold at TAGS Annual Report Awards for second consecutive Year
+
+*2024-12-29 23:48:00* · [`islandlk`](http://island.lk/lanka-hospitals-wins-gold-at-tags-annual-report-awards-for-second-consecutive-year/) · `en`
+
+Lanka Hospitals has secured the Gold Award for the second consecutive year at the prestigious TAGS Annual Report Awards Competition, organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka).
+
+This accolade underscores Lanka Hospitals’ steadfast commitment to upholding the core values of Transparency, Accountability, Governance, and Sustainability (TAGS). The TAGS Awards serve as a benchmark for corporate excellence in both financial and non-financial reporting, promoting enhanced corporate governance practices and ESG (Environmental, Social, and Governance) compliance.
+
+With a legacy spanning over 56 years, the Annual Report Awards Competition was rebranded and reconceptualized as the TAGS Awards in 2022. The new format reflects the growing demands of stakeholders, including investors and shareholders, by focusing on contemporary reporting practices that go beyond financial disclosures.
+
+...
+
+[Data](articles/d284c273.json)
+
+---
+
+### EDB hosts networking session for women entrepreneurs
+
+*2024-12-29 23:47:00* · [`islandlk`](http://island.lk/edb-hosts-networking-session-for-women-entrepreneurs-2/) · `en`
+
+The Export Development Board (EDB) successfully conducted a networking and knowledge sharing session for the women entrepreneurs registered under the “Women Entrepreneurship Development Program” recently at the EDB-NDB Tower, Colombo 02. The event addressed one of the key barriers faced by women entrepreneurs, lack of networking opportunities with industry leaders.
+
+This exclusive session brought together 50 women entrepreneurs registered with EDB, including SME direct exporters and indirect exporters, along with leading exporters and academics. Designed to inspire and educate, the event fostered connections, facilitated knowledge sharing, and encouraged collaboration to help women entrepreneurs navigate international markets. The event featured a distinguished panel of speakers who shared their expertise on various topics critical to succeeding in the global marketplace:
+
+...
+
+[Data](articles/0e00a3f9.json)
+
+---
+
+### Ranil recalls how India overtook Sri Lanka in economic reforms journey while latter was hesitant at policy wheel
+
+*2024-12-29 23:45:00* · [`islandlk`](http://island.lk/ranil-recalls-how-india-overtook-sri-lanka-in-economic-reforms-journey-while-latter-was-hesitant-at-policy-wheel/) · `en`
+
+During the Atal Bihari Vajpayee Memorial Lecture delivered by former president Ranil Wickremesinghe in India recently, he recalled that his first visit to India was as a young boy of 18 years to Chennai to sit for the London GCE A-level Examination — as was the practice in Sri Lanka at the time.
+
+Referring to multiple interactions with Indian leaders over the decades which started in his role as an assistant to former president J.R. Jayawardene, he said,” When you have been in politics as long as I have, you end up knowing everyone – at some point or the other.”
+
+“I have also been an eyewitness to the pivotal and sweeping economic metamorphosis of India from the late 1990s onwards.”
+
+...
+
+[Data](articles/21b773ce.json)
+
+---
+
+### Astonishing Levels Of Corruption
+
+*2024-12-29 23:44:11* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/astonishing-levels-of-corruption/) · `en`
+
+Unless the scourge of corruption is at least controlled, if not eliminated, our country is doomed. In the absence of genuine effort, no amount of big talk of “Yahapalanaya”, “Eradication of Beeshanaya and Dhooshanaya”, “Vistas of Splendour,” are all hollow deceptions, and an insult to our collective intelligence. Let us demand that the currently pledged ”System change” is truly meant, and will not merely join the lengthy queue of deceptive treachery.
+
+There is much excitement that at long last, some action will be forthcoming. The early signs are very positive. May this continue as a sustained battle against grave injustice. The people deserve this; and are tired of hoodwinking slogans and pretended “Cleanliness”. Times and moods have changed and the “Aragalaya” was a mild fore taste of what determined and disciplined, massive public protests can do. All beware!
+
+...
+
+[Data](articles/6793fa8d.json)
+
+---
+
+### Nations Trust Bank’s urban forestry initiative takes root for a greener tomorrow
+
+*2024-12-29 23:43:00* · [`islandlk`](http://island.lk/nations-trust-banks-urban-forestry-initiative-takes-root-for-a-greener-tomorrow/) · `en`
+
+Nations Trust Bank recently launched an Urban Forestry Initiative, a multi-phase tree-planting project that is aimed at increasing greener spaces in Colombo city while encouraging environmental stewardship.
+
+The initiative demonstrates Nations Trust Bank’s commitment to environmental sustainability and its aim to reach the Global Sustainable Development Goals (SDGs). Twenty-four trees of the variants Mee, Karanda, and Koboleela, were planted along Union Place and Staple Street in Colombo during the project’s initial phase, and another sixteen Ehala and Rath Koboleela trees will be planted on Sir James Pieris Mawatha during the second phase. The project will be further divided into multiple stages, reaching more areas within urban Colombo.
+
+...
+
+[Data](articles/4627bf39.json)
+
+---
+
+### DIMO shines at TAGS Awards 2024, clinching Overall Silver Award
+
+*2024-12-29 23:41:00* · [`islandlk`](http://island.lk/dimo-shines-at-tags-awards-2024-clinching-overall-silver-award/) · `en`
+
+DIMO triumphed at the TAGS Awards 2024, winning the prestigious Silver Award for Overall Excellence in Corporate Reporting. The company also earned a Gold Award and four Silver Awards, highlighting its commitment to Transparency, Accountability, Governance, and Sustainability. The accolades included a Gold Award for Diversified Holdings (Group Turnover Up to 100bn) and Silver Awards for Integrated Reporting, Corporate Governance Disclosure – Non-Financial Services, Sustainability Reporting, and Digitally Transformative Reporting.
+
+Gahanath Pandithage (Group Managing Director/CEO) and Suresh Gooneratne (Executive Director/CFO) received the Overall Silver Award on behalf of the company. DIMO’s 2023/24 Annual Report, themed ‘Agile By Nature’ with a Dragonfly metaphor, introduced an innovative braille synopsis for the visually impaired and featured a dedicated microsite, enhancing its digital engagement.
+
+...
+
+[Data](articles/4e8a0890.json)
+
+---
+
+### Digital marketing in high gear to increase tourist arrivals to Sri Lanka
+
+*2024-12-29 23:41:00* · [`islandlk`](http://island.lk/digital-marketing-in-high-gear-to-increase-tourist-arrivals-to-sri-lanka/) · `en`
+
+Sri Lanka recently played host to four Australian-based social media influencers in a groundbreaking digital marketing initiative aimed at rejuvenating the country’s tourism industry.
+
+This carefully curated campaign, organized by the Sri Lanka Tourism Promotion Bureau (SLTPB), concluded successfully on December 16th, 2024, as the influencers returned to their home countries, leaving a trail of mesmerizing content that has already garnered global attention.
+
+During their 12-day journey, these influencers explored Sri Lanka’s breathtaking landscapes, vibrant culture, and warm hospitality. From the golden beaches of Mirissa to the ancient majesty of Sigiriya, and from the tranquil hills of Nuwara Eliya to the wildlife spectacle at Yala National Park, their content vividly captured the island’s rich diversity. Real-time updates, immersive stories, and high-quality imagery flooded social media, offering their millions of followers a virtual taste of Sri Lanka.
+
+...
+
+[Data](articles/5945b07f.json)
+
+---
+
+### CEAT Kelani presents traffic management tools to police and SLCMP
+
+*2024-12-29 23:39:00* · [`islandlk`](http://island.lk/ceat-kelani-presents-traffic-management-tools-to-police-and-slcmp/) · `en`
+
+CEAT Kelani Holdings has broadened the scope of its flagship community initiative promoting road safety around schools by engaging with the Police and the Sri Lanka Corps of Military Police (SLCMP) of the Sri Lanka Army, two institutions that play lead roles in this domain.
+
+The company recently presented stocks of traffic management-related signboards and traffic cones to these institutions, as one of its community commitments that makes up the ‘CEAT Cares’ portfolio of community projects.
+
+The signboards and traffic cones presented to the Cinnamon Gardens Police Station are to be strategically placed on main roads to facilitate traffic management near schools, government institutions, and other high-traffic areas within the station’s jurisdiction, supporting CEAT’s efforts to help improve road safety and aid law enforcement maintain smooth traffic flows.
+
+...
+
+[Data](articles/8f299426.json)
+
+---
 
 ### Billions Of Tsunami Aid Disappeared Without A Trace; Corruption Even In Human Misery
 
@@ -1001,6 +1125,20 @@ We had to fight on the street for the people before we took over the government.
 [Data](articles/830e8dee.json)
 
 [Extended Data](ext_articles/830e8dee.ext.json)
+
+---
+
+### ELEVATE Filmmakers: Building Confidence To Speak Up & Drive Change
+
+*2024-12-29 18:39:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/elevate-filmmakers-building-confidence-to-speak-up-drive-change/) · `en`
+
+In Sri Lanka, discussions surrounding Sexual and Reproductive Health Rights (SRHR) and Cyber Gender-Based Violence (CGBV) often remain shrouded in silence due to deep-seated cultural taboos. This silence is particularly prevalent in government universities, where many female students are hesitant to address these sensitive topics due to stigma and fear of backlash. The ELEVATE Project, launched by the Centre for Media and Information Literacy, sought to break this silence by empowering 50 young female undergraduates, giving them the tools and confidence to speak out and advocate for change.
+
+Through creative expression in filmmaking, the ELEVATE Project has not only provided participants with valuable technical skills, but it has also played a critical role in elevating their confidence. These young women, once too shy to discuss SRHR and CGBV, have grown into outspoken advocates, using their films as powerful tools for social change.
+
+...
+
+[Data](articles/a0cb6b92.json)
 
 ---
 
@@ -1907,217 +2045,5 @@ Finance Ministry officials are today standing for agreements signed during previ
 ...
 
 [Data](articles/ab3c0f4b.json)
-
----
-
-### கண்டியில் போக்குவரத்து விதிகளை மீறிய 543 சாரதிகள் கைது
-
-*2024-12-29 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202443) · `ta`
-
-கடந்த சில தினங்களில் கண்டி பிரதேசத்தில் மட்டும் போக்குவரத்து விதிகளை மீறிய 543 சாரதிகள் கைது செய்யப்பட்டுள்ளனர்.
-
-கண்டியில் 14 பொலிஸ் நிலையங்களைச் சேர்ந்த போக்குவரத்துப் பொலிஸ் அதிகாரிகள் வாகனங்களை கண்காணிக்கும் நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
-
-கண்டி சிரேஷ்ட  பொலிஸ் அத்தியட்சகர் அனுருத்த பண்டாரநாயக்காவின் வழிகாட்டலில் பல்வேறு இடங்களிலும் இந்த சோதனைகள் இடம்பெற்றன.
-
-போதையில் வாகனம் செலுத்தல், அனுமதிப்பத்திரம் இன்றி வாகனம் செலுத்துதல் உட்பட பல்வேறு போக்குவரத்து விதிகளை மீறிய குற்றங்களுக்காக இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-இந்த சாரதிகளுக்கு எதிராக வழக்குத் தொடுக்கப்படவுள்ளதாக கண்டி தலைமையகப் பொலிஸ் நிலையப் பொறுப்பதிகாரி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/90948335.json)
-
----
-
-### மாறப் போகும் படைத் தலைமைகள்
-
-*2024-12-29 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202452) · `ta`
-
-இந்த வருட இறுதியுடன் மூன்று முக்கிய தளபதிகளினதும், ஜனவரியில் ஒருவரினதும் ஆக, நான்கு பிரதான படைத்தளபதிகளின் பதவிக்காலம் முடிவடைய போகிறது.ஜனாதிபதியாக கோட்டாபய ராஜபக் ஷ இருந்த காலகட்டத்தில், ஜனாதிபதி, மற்றும் பாதுகாப்பு அமைச்சர், பாதுகாப்புச் செயலாளர், பாதுகாப்பு அதிகாரிகளின் பிரதானி, இராணுவ தளபதி என எல்லோருமே, கஜபாக்கள் என ஒரு சூழல் இருந்தது.
-
-◼️
-
-[Data](articles/2ff0ae69.json)
-
----
-
-### Human Rights Commission (HRC) to join President on Myanmar's refugees
-
-*2024-12-29 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204825) · `si`
-
-Human Rights Commission requests meeting with Myanmar refugees in Sri Lanka. President asked to intervene due to immigration restrictions. Over 40 refugees, mostly children, need assistance. Commission seeks orders from Armed Forces and Defense Minister to address situation.
-
-🟩
-
-The President of the Human Rights Commission has requested the President to meet the status of Myanmar refugees in the country.
-
-Human Rights Commission Chairman Judge L. T. It is reported that Mr. B Degnondeniya has made the request in writing to President Anura Kumara Dissanayake.
-
-Sri Lanka Navy was rescued by 115 refugees in the sea at Myanmar recently.
-
-The staff of the vessel remanded after being produced before court and were remanded.
-
-The Sri Lanka Human Rights Commission officials had gone to the Mullaitivu on the 26th to investigate these refugees.
-
-However, SLAF officials have said that the refugees cannot be permitted without the approval of the Department of Immigration and Emigration.
-
-The Human Rights Commission of Sri Lanka has requested the Department of Immigration and Emigration General, as the Controller of Immigration and Emigration has ordered that no person is allowed to meet those refugees.
-
-...
-
-[Data](articles/6f7783c3.json)
-
-[Extended Data](ext_articles/6f7783c3.ext.json)
-
----
-
-### Nuwara Eliya Fills with Travel Travelers
-
-*2024-12-29 13:28:04* · [`adalk`](https://www.ada.lk/picture_story/නුවරඑළිය-දෙස්-විදෙස්-සංචාරකයන්ගෙන්-පිරෙයි/10-413891) · `si`
-
-Nuwara Eliya hotels fill with travelers. Official says allocation increased due to good weather and tourist attractions. Rooms booked for upcoming New Year celebrations.
-
-🟩
-
-The Nuwara Eliya tourist hotel owners association official said that with chronicity and tourists in Nuwara Eliya, the Nuwara Eliya had been allocated to the Nuwara Eliya.
-
-The official said that the tourist destinations with the good weather in Nuwara Eliya have visited the tourist attraction in the Nuwara Eliya.
-
-The official added that the rooms have been allocated for living in the New Year next to the next New Year.
-
-◼️
-
-[Data](articles/26a7b409.json)
-
-[Extended Data](ext_articles/26a7b409.ext.json)
-
----
-
-### Will the opportunity last?
-
-*2024-12-29 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202451) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government stability threatened when diverse voices express differing opinions. Leaders aware that free speech could undermine ruling party's power.
-
-🟩
-
-When different voices, when they reveal different positions, a government faces problems.. The national people's leadership understands that if they seek to open their mouths as they see, it will endanger the power of the ruling party.
-
-◼️
-
-[Data](articles/02e05f7e.json)
-
-[Extended Data](ext_articles/02e05f7e.ext.json)
-
----
-
-### The government
-
-*2024-12-29 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202449) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Governments leveraging international opportunities avoid regrettable outcomes. History shows nations failing to capitalize on global platforms often face negative consequences."
-
-🟩
-
-Governments that do not use such opportunities in the international arena have a history of regret.
-
-◼️
-
-[Data](articles/ea1a9b02.json)
-
-[Extended Data](ext_articles/ea1a9b02.ext.json)
-
----
-
-### The man who ate the pan is sudden death
-
-*2024-12-29 13:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பாண்-சாப்பிட்டவர்-திடீர்-மரணம்/71-349439) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man eats pan, chokes, dies at 62 in Jaffna. Difficulty breathing during meal leads to sudden death. Asthma suspected cause.
-
-🟩
-
-62 -year -old Kasipillai Kuvendran, a father of four children, who was eating food in Urumpirai, Jaffna, died on Saturday (28).
-
-He was having difficulty breathing while he was eating pan.  குறித்த நபரை கோப்பாய் வைத்தியசாலைக்கு கொண்டு சென்ற போது, அவர் ஏற்கெனவே, உயிரிழந்துள்ளார்.
-
-Sudden Death Investigation Officer Namasivayam Premkumar carried out the death investigation into his body and the body was handed over to relatives after an anatomical examination.. The death investigation reports that the death of asthma has been died.
-
-◼️
-
-[Data](articles/edfddd66.json)
-
-[Extended Data](ext_articles/edfddd66.ext.json)
-
----
-
-### 2 years old, unexpected fate
-
-*2024-12-29 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204824) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Child dies after ingesting unknown substance. Parents take child to private clinic, then hospital. Child transferred to another hospital but dies en route. Post-mortem concludes death due to poisoning.
-
-🟩
-
-A young child was killed, a child who was drunk with a loud suffer from a mother's leg was killed.
-
-The victims were the youngest children of a family of three children, named SA A කාර් nuu Matestd, who had been resident in Puttalam Kalard.
-
-When the parents were prepared to go to a cousin, the young child had taken the liquid with the liquid that had been brought to the mother's foot, unaware of anyone.
-
-The father was taken away and removed and removed and removed and removed.
-
-Later, the parents had not confirmed that the child had had a pestictor of the pain.
-
-However, the parents had taken the child at a private medical center in the Palvana area.
-
-The doctor has said that the disappearance of the pain is that the child will not be like.
-
-However, the doctor has said that if the child becomes allergic to someone, immediate hospitalization.
-
-However, the parents had taken a child and was in the face of a mother of Madampe at the same time and had a disease of the child at once.
-
-...
-
-[Data](articles/94d1d8fc.json)
-
-[Extended Data](ext_articles/94d1d8fc.ext.json)
-
----
-
-### S. Korea funds Rs. 2.4 Bn project to boost tourism in Sigiriya
-
-*2024-12-29 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104562/s-korea-funds-rs-24-bn-project-to-boost-tourism-in-sigiriya) · `en`
-
-The Korea International Cooperation Agency (KOICA) has proposed a special initiative to enhance conservation efforts at Sigiriya, a UNESCO World Heritage site, and boost its tourism attraction.
-
-Proposed under the supervision of Sri Lanka’s Central Cultural Fund and with the full approval of the Department of Archaeology, this project includes several initiatives, such as upgrading the access road to Sigiriya Lion Rock, constructing an alternative access route, and developing facilities such as the Sigiriya Museum, restaurant, and ticket counter.
-
-The total cost of this project is estimated at Rs. 2.4 billion.
-
-Furthermore, it has been suggested that a Memorandum of Understanding (MoU) be signed between the Central Cultural Fund and KOICA, as directed by the Ministry of Buddhasasana, Religious, and Cultural Affairs for the purpose.
-
-...
-
-[Data](articles/2524aea5.json)
-
-[Extended Data](ext_articles/2524aea5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-30 12:18:06**
+As of **2024-12-30 12:28:56**
 
 ## Newspaper Stats
 
-*Scraped **62,701** Articles*
+*Scraped **62,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,810
 islandlk | 3,810
 dailyftlk | 4,344
 dailymirrorlk | 4,733
-adalk | 5,985
+adalk | 5,986
 adaderanalk | 7,659
 tamilmirrorlk | 8,993
 virakesarilk | 10,418
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,830
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,939 (98.8%) of 62,701 articles have been extended.
+61,939 (98.8%) of 62,702 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/24552bcb.json)
+
+---
+
+### 2024දී වන අලි මරණ 350ක්
+
+*2024-12-30 11:54:01* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-වන-අලි-මරණ-350ක්/11-413908) · `si`
+
+2024 වසර තුළ මේ දක්වා වන අලි මරණ 350ක් සිදුවී ඇති බව වනජීවී දෙපාර්තමේන්තුව සඳහන් කරයි. පසුගිය වසර තුළදී අලි මරණ 450ක් සිදුව තිබූ අතර මේ වර්ෂයේදී එම ප්‍රමාණය 100කින් අඩුවී ඇති බව වනජීවී දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+වනජීවී දෙපාර්තමේන්තුවත් ,පරිසර සංවිධානත් ,වෙනත් විවිධ සංවිධානත් අලින්ගේ ආරක්ෂාව සඳහා සිදු කරන  ලද ක්‍රියාදාම හේතුවෙන් මෙම තත්ත්වය ඇති වී ඇති බවද වනජීවි දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+2024 වසර තුළ මියගිය අලින් 350 දෙනාගෙන් වැඩි ප්‍රමාණයක් මිය ගොස් ඇත්තේ වෙඩි තැබීම් හේතුවෙන්ය. එලෙස වෙඩි තබා මරා දමන ලද අලින් සංඛ්‍යාව 70ක් වන අතර විදුලිසැර වැදීමෙන් මිය ගිය අලි සංඛ්‍යාව 50 ක් බව වාර්තා වෙයි.
+
+මිනිසුන් හක්කපටස් යොදා, මරා දමා ඇති අලි සංඛ්‍යාව 35ක් ලෙස සඳහන් වෙයි. මීට අමතරව දුම්රියවල ගැටීමෙන් අලින් 10 දෙනකු මියගොස් තිබිණි.
+
+මෙවන විට ශ්‍රී ලංකාවේ ජීවත්වන අලින් සංඛ්‍යාව 5879ක් වන අතර මිනිසුන්ගේ විවිධ ක්‍රියාකාරකම් නිසා වාර්ෂිකව මේ ලෙසින් අලින් මිය යෑමට සිදු වුවහොත් අලි ගහනය ඉක්මනින්ම මෙරටින් වඳ වී යා හැකි බව  වනජීවී දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/8ee7b64e.json)
 
 ---
 
@@ -2019,31 +2039,5 @@ The suspect was arrested yesterday on the cheating of Rs.
 [Data](articles/cc751196.json)
 
 [Extended Data](ext_articles/cc751196.ext.json)
-
----
-
-### The first of January is the pledge of public servants
-
-*2024-12-29 19:30:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-පළමුවැනිදා-රාජ්‍ය-සේවක-ප්‍රතිඥාව-වෙනස්-වෙයි/11-413898) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Public servants' oath changes Jan 1. 'Clean Sri Lanka' initiative launches same day, led by Pres. Dissanayake. Program aims to digitize anti-corruption efforts."
-
-🟩
-
-It is reported that the promise of public servants will be changing on the first day of January first January.
-
-Creating a proper hygiene environment, the innovative program including digitizing corruption is already planned to implement the concept of 'Clean Sri Lanka' concept.President Anura Kumara Dissanayake is scheduled to be officially launched by President Anura Kumara Dissanayake on January 1, 2025.
-
-The Presidential Secretariat officials are given the 'Clean Sri Lanka' program this year's 'Clean Sri Lanka' program this year's 'Clean Sri Lanka' program this year.. Ministers also participate in this initial ceremony and a number of guest guests.
-
-◼️
-
-[Data](articles/47411187.json)
-
-[Extended Data](ext_articles/47411187.ext.json)
 
 ---

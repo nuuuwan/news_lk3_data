@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 10:27:29**
+As of **2024-12-31 10:43:28**
 
 ## Newspaper Stats
 
-*Scraped **62,860** Articles*
+*Scraped **62,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,109 @@ dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,002
 adaderanalk | 7,681
-tamilmirrorlk | 9,014
+tamilmirrorlk | 9,016
 virakesarilk | 10,444
-adaderanasinhalalk | 10,863
+adaderanasinhalalk | 10,865
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,968 (98.6%) of 62,860 articles have been extended.
+61,968 (98.6%) of 62,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
 
+### නව හමුදාපති වැඩභාරගනී
+
+*2024-12-31 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204890) · `si`
+
+නව හමුදාපති මේජර් ජෙනරාල් ලසන්ත රොද්‍රිගු මහතා අද (31) උදෑසන සිය ධුරයේ වැඩභාරගෙන තිබේ.
+
+◼️
+
+[Data](articles/8c136121.json)
+
+---
+
+### மருந்தகங்கள் மூடப்படும் அபாயம்
+
+*2024-12-31 10:28:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்தகங்கள்-மூடப்படும்-அபாயம்/175-349546) · `ta`
+
+தேசிய ஔடதங்கள் ஒழுங்குபடுத்தும் அதிகாரசபையின் புதிய சட்டதிட்டங்கள் காரணமாக நாடு முழுவதும் பல்வேறு தனியார் மருந்தகங்கள் மூடப்படும் அபாய நிலை ஏற்பட்டுள்ளது.
+
+இலங்கையில் சுமார் ஐயாயிரத்து நூறு தனியார் மருந்தகங்கள் செயற்படுகின்றன. இதுவரை காலமும் தனியார் மருந்தகம் ஒன்றை பதிவு செய்வதற்கு மட்டுமே தகுதிவாய்ந்த மருந்தாளர் ஒருவரின் பதிவு சான்றிதழ் தேவைப்பட்டிருந்தது.
+
+இந்நிலையில், தேசிய ஔடதங்கள் ஒழுங்குபடுத்தும் அதிகாரசபையானது மருந்தகங்களின் செயற்பாட்டிற்கு தகுதிவாய்ந்த மருந்தாளரின் முழுநேர இருப்பை கட்டாயமாக்கியுள்ளது.
+
+அதன் காரணமாக நாடு முழுவதும் உள்ள மருந்தகங்கள் மூடப்படும் அபாயத்தை எதிர்கொள்கின்றன என்று அகில இலங்கை தனியார் மருந்தக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+இது தொடர்பில் அகில இலங்கை தனியார் மருந்தக உரிமையாளர்கள் சங்கத்தின் தலைவர் சண்டிக கங்கந்த தெரிவிக்கையில்,
+
+“தேசிய ஔடதங்கள் ஒழுங்குபடுத்தும் அதிகாரசபையின் அறிவிப்பால் ஏற்பட்டுள்ள நிலைமையைப் பற்றி கலந்துரையாடுவதற்காக அமைச்சர் மற்றும் தொடர்புடையவர்களை நாங்கள் கோரி வருகிறோம், ஆனால் எங்களுக்கு இன்னும் பதில் கிடைக்கவில்லை.
+
+...
+
+[Data](articles/206d3ea2.json)
+
+---
+
+### “புத்தாண்டை முஸ்லிம்கள் கொண்டாடுவது தவறு”
+
+*2024-12-31 10:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டை-முஸ்லிம்கள்-கொண்டாடுவது-தவறு/175-349545) · `ta`
+
+ஆங்கிலப் புத்தாண்டை முஸ்லிம்கள் கொண்டாடுவது தவறு என அகில இந்திய முஸ்லிம் ஜமாத்தின் தலைவர் மவுலானா முப்தி ஷகாபுத்தீன் ரிஜ்வீ கூறியுள்ளார்.
+
+உத்தரபிரதேச மாநிலம் பரேலியின் உலாமாவாகவும் இருக்கும் இவர், ஷரீயத் சட்டத்தை ஆராய்ந்து ஃபத்வாக்களையும் வெளியிட்டு வருகிறார்.
+
+2025 ஆங்கிலப் புத்தாண்டை கொண்டாட இந்தியா உள்ளிட்ட உலக நாடுகள் தயாராகி வரும் வேளையில், இவரிடம் முஸ்லிம்கள் ஆங்கிலப் புத்தாண்டை கொண்டாடலாமா என விளக்கம் கேட்டுள்ளனர்.
+
+இதற்கு ஷரீயத் முறைப்படி அவர் சட்டவிளக்கம் அளித்துள்ளார். ரிஜ்வீ தனது ஃபத்வாவில், "ஜனவரி 1-ல் வரும் புத்தாண்டு, பிரிட்டிஷ் மற்றும் கிறிஸ்தவர்களின் பண்டிகை நாள் ஆகும். இந்த நிகழ்ச்சிகளில் முஸ்லிம்கள் கலந்துகொள்ளக் கூடாது. இந்த புத்தாண்டை கொண்டாடுவது ஷரீயத் சட்டப்படி குற்றமாகும். இதை கொண்டாடுவோர் பாவம் செய்தவர் ஆவர்.
+
+...
+
+[Data](articles/3272fd4a.json)
+
+---
+
+### මාරක අනතුරු කිහිපයක් - සිව්දෙනෙක් මරුට
+
+*2024-12-31 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204889) · `si`
+
+ගතවූ පැය 24 තුළ දිවයිනේ විවිධ ප්‍රදේශවල සිදුවූ රිය අනතුරු 04කින් තරුණයින් දෙදෙනෙක් ඇතුළු සිව්දෙනෙකු මියගොස් තිබේ.
+
+ඊයේ (30) එම අනතුරු සිදුව තිබුණේ දෙයියන්දර, ගලේවෙල, නාල්ල සහ පේරාදෙණිය යන පොලිස්වසම්වලය.
+
+හක්මණ - මුලටියන මාර්ගයේ පල්ලාවල විදුහල ආසන්නයේදී බස් රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදියක ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් පැදිකරු බස් රථයේ ඉදිරි දකුණු පස රෝදයට යටවී බරපතළ තුවාල ලබා දෙයියන්දර රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, ගොම්බද්දල, මාතර ප්‍රදේශයේ පදිංචිව සිටි 37 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර අඹේපුස්ස - ත්‍රිකුණාමලය මාර්ගයේ තලකිරියාගම ප්‍රදේශයේදී යතුරුපැදියක් සිමෙන්ති පැටවූ ලොරි රථයක පසුපස ගැටී සිදුවූ අනතුරකින් 22 හැවිරිදි තරුණයෙක් ජීවිත්කෂයට පත්ව තිබේ.
+
+මේ අතර මීරිගම ගිරිඋල්ල මාර්ගයේ ලෝලුවාගොඩ ප්‍රදේශයේදී යතුරු පැදියක් මාර්ගය අයිනේ ගමන් කරමින් සිටි පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
+
+අනතුරින් තුවාල ලැබු පදිකයා සහ යතුරු පැදිකරු මීරිගම රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී පදිකයා මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, ලෝලුවාගොඩ ප්‍රදේශයේ පදිංචිව සිටි 48 හැවිරිදි පුද්ගලයෙකි.
+
+...
+
+[Data](articles/540ded58.json)
+
+---
+
 ### தந்தை தாக்கியதில் மகன் பலி
 
 *2024-12-31 10:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தந்தை-தாக்கியதில்-மகன்-பலி/76-349543) · `ta`
 
-பூண்டுலோயா  டன்சினன்  கீழ் பிரிவு தோட்டத்தில்  தந்தை தாக்கியதில்  25 வயதுடைய மகன் உயிரிழந்துள்ளதாக பூண்டு லோயா பொலிஸார் தெரிவித்துள்ளனர்.
+பூண்டுலோயா  டன்சினன்  கீழ் பிரிவு தோட்டத்தில்  தந்தை தாக்கியதில்  25 வயதுடைய மகன் உயிரிழந்துள்ளதாக பூண்டுலோயா பொலிஸார் தெரிவித்துள்ளனர்.
 
 இச்சம்பவம் செவ்வாய்க்கிழமை (30) இரவு நிகழ்ந்துள்ளது. சம்பவம் தொடர்பில் மேலும் தெரியவருவதாவது: குடும்பத்தில் ஏற்பட்ட வாய்த்தர்க்கம் கைகலப்பாக மாறியதால்  தந்தையின் தாக்குதலுக்கு மகன் பலியாகியதாக தெரிய வருகிறது.
 
-இச் சம்பவம் அரிந்த தோட்ட மக்கள் பொலிஸாருக்கு தகவல் தெரிவித்ததையடுத்து,  சம்பவத்தால் காயமடைந்த தந்தை மற்றும் 18 வயதுடைய மகனும் கொத்மலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளாக தெரிவிக்ப்பட்டுள்ளது.
+இச் சம்பவம் அரிந்த தோட்ட மக்கள் பொலிஸாருக்கு தகவல் தெரிவித்ததையடுத்து, சம்பவத்தால் காயமடைந்த தந்தை மற்றும் 18 வயதுடைய மகனும் கொத்மலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளாக தெரிவிக்ப்பட்டுள்ளது.
 
 ◼️
 
@@ -1845,79 +1925,5 @@ Bank and financial shares led the market gain and the turnover which was 10.2 bi
 ...
 
 [Data](articles/3db84fde.json)
-
----
-
-### මහෙස්ත්‍රාත් තිළිණ ගමගේගෙන් අධිකරණ සේවා කොමිසමට ලිපියක්
-
-*2024-12-30 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204863) · `si`
-
-කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා විසින් අධිකරණ සේවා කොමිෂන් සභාවෙන් ඉල්ලීමක් කර තිබේ.
-
-එම ඉල්ලීම තිළිණ ගමගේ මහතා විසින් ලිඛිතව යොමු කර ඇති බව "අද දෙරණ අධිකරණ වාර්තාකරු" සඳහන් කළේය.
-
-එම ලිපියේ දැක්වෙන්නේ, අල්ලසක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් හිටපු පළාත් සභා මන්ත්‍රී සලෝචන ගමගේ ඇතුළු දෙදෙනෙකුට එරෙහිව ගොනු කර ඇති නඩුව වෙනත් අධිකරණයට මාරු කරන ලෙසය.
-
-සළෝචන ගමගේ මහතා සිය සහෝදරයකු වන අතර එම නඩුකරය තම අධිකරණයට විමසීමට හැකියාවක් නොමැති බවත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා සිය ලිපියේ පෙන්වාදී තිබේ.
-
-ඒ අනුව, අදාළ නඩුව විභාග කිරීම සඳහා සුදුසු මහෙස්ත්‍රාත්වරයකු පත් කරන ලෙසත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා එහිදි වැඩිදුරටත් ඉල්ලා ඇති බව සඳහන්ය.
-
-නාගරික සංවර්ධන අධිකාරිය විසින් පවරා ගනු ලැබූ ඉඩමකට අදාළ වන්දිය  කඩිනමින් ලබාදීම සඳහා ව්‍යාපාරිකයෙකුගෙන් රුපියල් ලක්ෂ 90ක අල්ලසක් ලබා ගැනීමේ සිද්ධියකට අදාළව සලෝචන ගමගේ සහ තවත් පුද්ගලයෙකු පසුගිදා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගනු ලැබීය.
-
-...
-
-[Data](articles/3a343ac0.json)
-
----
-
-### Sri Lanka Human Rights Commission denied access to Myanmar asylum seekers
-
-*2024-12-30 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-human-rights-commission-denied-access-to-myanmar-asylum-seekers-197000/) · `en`
-
-ECONOMYNEXT- Sri Lanka Human Rights Commission has complained to President Anura Kumara Dissanayake that it was denied access to asylum seekers from Myanmar who were rescued from a boat.
-
-“On 26 December 2024, a team of officials from the HRCSL, including a director, attempted to monitor the detention conditions of these asylum seekers at the Sri Lanka Air Force Camp in Mullaitivu in the Northern Province,” the HRC said.
-
-According to section 11(d) of Hurman Rights Commission of Sri Lanka Act it had access to ‘any person’ detained in Sri Lanka and not just citizens.
-
-“Therefore, the Commission has the statutory authority to access the said Air Force Camp and monitor the detention conditions of all asylum seekers, including the children present,” the HRC said.
-
-On December 27, the HRC had written to President Dissanayake requesting an issuance of directives to institutions to facilitate access to the asylum seekers.
-
-...
-
-[Data](articles/dd443fe1.json)
-
----
-
-### South Korean authorities seek warrant to detain impeached President Yoon
-
-*2024-12-30 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104590/south-korean-authorities-seek-warrant-to-detain-impeached-president-yoon) · `en`
-
-South Korean law enforcement officials requested a court warrant on Monday to detain impeached President Yoon Suk Yeol as they investigate whether his short-lived martial law decree on Dec. 3 amounted to rebellion.
-
-The Corruption Investigation Office for High-Ranking Officials, which leads a joint investigation with police and military authorities into the power grab that lasted only a few hours, confirmed it requested the warrant from the Seoul Western District Court. They plan to question Yoon on charges of abuse of authority and orchestrating a rebellion.
-
-Yoon Kap-keun, the president’s lawyer, denounced the detention attempt and filed a challenge with the same court, arguing that the warrant request was invalid. He also claimed the anti-corruption agency lacked the legal authority to investigate rebellion charges. Still, he evaded answering how the legal team would respond if the court approved the warrant for the president’s detainment.
-
-...
-
-[Data](articles/8a9a78c5.json)
-
----
-
-### ஆட்சியாளர்களின்   அனுபவமின்மையே அரிசி பிரச்சினைக்கு காரணம்  -  ஐ,தே.க. தவிசாளர் வஜிர அபேவர்த்தன குற்றச்சாட்டு
-
-*2024-12-30 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202571) · `ta`
-
-நாட்டில் அரிசி, தேங்காய் போன்ற அடிப்படை பொருட்களின் தட்டுப்பாடு மற்றும் விலை அதிகரிப்புக்கு, ஆட்சியாளர்களின் அனுபவமின்மை மற்றும் முகாமைத்துவம் செய்துகொள்ள முடியாமையே காரணமாகும். இந்த நிலை ஏற்படும் என்பதாலே அனுபவமுள்ளவர்களை பாராளுமன்றத்துக்கு அனுப்புமாறு முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்து வந்தார். ரணில் விக்ரமசிங்க தெரிவித்த விடயம் தற்போது உண்மையாகியுள்ளது என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்த்தன தெரிவித்தார்.
-
-காலியிலுள்ள ஐக்கிய தேசிய கட்சி காரியாலயத்தில் திங்கட்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
-
-நாட்டை ஆட்சி செய்யக்கூடிய ஆட்சியாளர்களுக்கு அனுபவம் மிக முக்கியமாகும் என முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க தொடர்ந்து தெரிவித்து வந்திருந்தார். அனுபவமுள்ளவர்களை பாராளுமன்றத்துக்கு அனுப்புமாறு கடந்த பொதுத் தேர்தலின்போது அவர் தெரிவித்து வந்தபோது அவரை கேலி செய்தார்கள்.
-
-...
-
-[Data](articles/653181b3.json)
 
 ---

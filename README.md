@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 01:13:01**
+As of **2025-01-01 01:27:37**
 
 ## Newspaper Stats
 
-*Scraped **63,011** Articles*
+*Scraped **63,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
 economynextcom | 3,835
-dailyftlk | 4,366
+dailyftlk | 4,372
 dailymirrorlk | 4,733
 adalk | 6,018
 adaderanalk | 7,705
@@ -26,11 +26,115 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,011 articles have been extended.
+61,970 (98.3%) of 63,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Restoring efficiency and integrity: Reforming board practices in State Owned Agencies
+
+*2025-01-01 01:07:39* · [`dailyftlk`](https://www.ft.lk/columns/Restoring-efficiency-and-integrity-Reforming-board-practices-in-State-Owned-Agencies/4-771226) · `en`
+
+Their effectiveness is often undermined by politicisation in board appointments, inefficiency, and a lack of
+
+Introduce legal provisions to hold boards collectively responsible for institutional failures
+
+Effective governance is the cornerstone of any successful organisation, and Government-appointed boards play a pivotal role in steering public institutions toward success. In Sri Lanka, however, the appointment process for board members has become increasingly politicised, often lacking the transparency, accountability, and professionalism necessary for good governance. This has led to persistent issues such as mismanagement, inefficiency, and corruption, particularly within State Owned Agencies (SOA) which are a significant contributor to the nation’s ongoing economic crisis for decades.
+
+...
+
+[Data](articles/e0249524.json)
+
+---
+
+### CCPI-based headline inflation remains negative in December
+
+*2025-01-01 00:55:09* · [`dailyftlk`](https://www.ft.lk/business/CCPI-based-headline-inflation-remains-negative-in-December/34-771224) · `en`
+
+In line with the Central Bank’s near term projections, headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index (CCPI) remained in the negative territory for the fourth consecutive month, recording a deflation of 1.7% in December 2024 compared to the deflation of 2.1% in November 2024.
+
+Central Bank said non-food deflation (Y-o-Y) moderated to 3.0% in December 2024 from 3.3% in November 2024. Food inflation (Y-o-Y) showed a marginal uptick recording 0.8% in December 2024 from 0.6% November 2024.
+
+On a month-on-month basis, the CCPI recorded an increase of 1.19% in December 2024 due to the combined effect of 1.24% increase in the prices of items in the Food category and 0.06% reduction in the prices of items in the non-food category.
+
+CBSL also said core inflation (Y-o-Y), which reflects the underlying inflation trends in the economy, remained unchanged at 2.7% in December 2024.
+
+...
+
+[Data](articles/d373c7cb.json)
+
+---
+
+### Govt. extends further support to small and medium paddy mill owners
+
+*2025-01-01 00:54:40* · [`dailyftlk`](https://www.ft.lk/business/Govt-extends-further-support-to-small-and-medium-paddy-mill-owners/34-771223) · `en`
+
+In a bid to support the small and medium scale paddy mill owners and ensure fair prices for paddy harvest, the Government has decided to continue the Pledge Loan Scheme under subsidised interest rates.
+
+The decision to this effect was taken at the Cabinet of Ministers meeting on Monday.
+
+“The approved program will be rolled out from the 2024/2025 Maha cultivation season and beyond, with loans capped at a maximum of Rs. 50 million,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the post-Cabinet meeting media briefing yesterday.
+
+He said the State and private banks will extend the loans to eligible mill owners with a daily mailing capacity of up to 25 tons. “Cooperative societies operating paddy mills will also be included under the scheme,” he added.
+
+Dr. Jayatissa said the scheme initially introduced during 2023 has shown significant progress in strengthening the operations of small and medium scale millers and stabilising paddy prices.
+
+...
+
+[Data](articles/9f89d0d6.json)
+
+---
+
+### Cabinet clears amendment to Electricity Act to ensure sustainable power
+
+*2025-01-01 00:54:10* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-amendment-to-Electricity-Act-to-ensure-sustainable-power/34-771222) · `en`
+
+The Cabinet of Ministers at its meeting on Monday approved reviewing and amending the Sri Lanka Electricity Act No. 36 of 2024 in response to concerns raised by stakeholders regarding its effectiveness in achieving the intended objectives.
+
+Since its implementation on 27 June 2024, various parties have pointed out that the provisions of the Act as well as the roles and responsibilities of proposed institutions may fall short of creating a secure, sustainable and efficient power sector.
+
+“Acknowledging these concerns the Cabinet decided to reconsider the Act’s objectives,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said yesterday.
+
+Speaking at the weekly post-Cabinet meeting media briefing, he said to facilitate this, a Committee comprising key stakeholders and experts in the field of power and energy will be appointed.
+
+...
+
+[Data](articles/d795de68.json)
+
+---
+
+### Two new operators for branded clothing shops at BIA
+
+*2025-01-01 00:53:45* · [`dailyftlk`](https://www.ft.lk/business/Two-new-operators-for-branded-clothing-shops-at-BIA/34-771221) · `en`
+
+The Cabinet of Ministers approved awarding contracts to three new operators for branded clothing shops in the departure and transit areas of the Bandaranaike International Airport (BIA) in Katunayake for three to four years.
+
+The approved operators are Odel PLC and Insomn Ltd., chosen based on the recommendations of the Standing Procurement Committee appointed by the Cabinet of Ministers.
+
+Following an international competitive bidding process, the selection process attracted bids from three companies, with two successful bidders securing the opportunity to operate branded men’s and women’s outlets for a duration of three to four years.
+
+The Cabinet of Ministers also approved the recall of bids for additional shops, ensuring that future opportunities align with the strategic development goals of the airport’s commercial offerings.
+
+◼️
+
+[Data](articles/1b13ac02.json)
+
+---
+
+### Centrum Marine Consultancy wins prestigious award for empowering women in maritime with “She Can Sail the Seas” initiative
+
+*2025-01-01 00:52:09* · [`dailyftlk`](https://www.ft.lk/business/Centrum-Marine-Consultancy-wins-prestigious-award-for-empowering-women-in-maritime-with-She-Can-Sail-the-Seas-initiative/34-771220) · `en`
+
+Centrum Marine Consultancy Managing Director Kalinga De Silva along with team, receiving “Empowering Diversified Maritime Education” award at 5th annual Maritime SheEO Conference
+
+Centrum Marine Consultancy Ltd., a leader in maritime HR and a strong advocate for gender diversity, has been awarded the prestigious “Empowering Diversified Maritime Education” accolade at the 5th annual Maritime SheEO Conference. This recognition celebrates their groundbreaking initiative, “She Can Sail the Seas”, Sri Lanka’s first female cadetship program, launched in partnership with Peter Döhle Schiffahrts-KG. This award reaffirms Centrum Marine Consultancy’s commitment to bridging the gender gap in maritime and creating equal opportunities for women at sea.
+
+...
+
+[Data](articles/95dfc237.json)
+
+---
 
 ### Everbolt Engineering wins three titles at Western Province – Entrepreneur Awards 2024
 
@@ -1681,115 +1785,5 @@ Tenders will be called again for the other outlets. (Colombo/Dec31/2024)
 ◼️
 
 [Data](articles/0e9c379d.json)
-
----
-
-### அரிசி தட்டுப்பாடு ; பாற்சோற்றுக்கு ஆபத்து
-
-*2024-12-31 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202604) · `ta`
-
-இந்நிலையில், நாளை 2025 ஆம் ஆண்டு புத்தாண்டை வரவேற்க மக்கள் ஆவலுடன் காத்துக் கொண்டுடிருக்கும் சூழ்நிலையில்,  சந்தையில் நாட்டு அரிசி மற்றும் வெள்ளை பச்சை அரிசி வகைகளுக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-பாற்சோறு தயாரிப்பதற்கு வெள்ளை பச்சை அரிசியே அநேகமாக பயன்படுகின்ற நிலையில், சந்தையில் இத்தகைய உள்நாட்டு அரிசி வகைகளுக்கு கடும் தட்டுப்பாடு நிலவுவுதாக மரதகஹமுல அரிசி வியாபாரிகள் சங்கத்தின் உறுப்பினர் எஸ்.எஸ்.ரணசிங்க தெரிவித்துள்ளார்.
-
-அரிசி தட்டுப்பாடு மற்றும் அரிசி உற்பத்தியாளர்கள் கையிருப்புகளை மறைத்து வைத்திருப்பதாக எழுந்த குற்றச்சாட்டுக்களை அடுத்து, ஜனாதிபதி அனுரகுமார திஸாநாயக்க அரிசி வியாபாரிகளுக்கு நாட்டு அரிசியை கிலோ ஒன்றுக்கு மொத்த விலையில் 225 ரூபாவிற்கும் சில்லறை விலையாக 230 ரூபாவிற்கும் நுகர்வோருக்கு விற்குமாறு பணிப்புரை விடுத்தார்.
-
-இந்த இரண்டு வகைகளும் நாட்டில் அதிகம் பயன்படுத்தப்படுவதோடு,  இலங்கையின் பிரதான உணவாக அரிசி உள்ளது.
-
-அத்துடன், இறக்குமதி மீதான கட்டுப்பாடுகளையும் அரசாங்கம் நீக்கியதோடு, 75,000 தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது.
-
-...
-
-[Data](articles/7d1c5c1a.json)
-
----
-
-### දූෂණ විරෝධී පනත වෙනස් කිරීමට කළ යෝජනාවට කැබිනට් අනුමැතිය
-
-*2024-12-31 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204898) · `si`
-
-දූෂණ විරෝධි පනත සංශෝධනය කිරීම සඳහා ජනාධිපතිවරයා විසින් ඉදිරිපත් කළ යෝජනාවක් සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
-
-එම පනතට අනුව විමර්ශන, නඩු පැවරීම, පරිපාලනමය සහ අධිකරණමය කටයුතු සිදු කිරීමට යාමේදී අල්ලස් කොමිසමට සැලකිය යුතු නෛතික අර්ථ නිරූපණ හා තාක්ෂණික ගැටලුවලට මුහුණ දීමට සිදුව තිබේ.
-
-ඒ අනුව දූෂණ විරෝධි පනතේ ඇතැම් වගන්ති සංශෝධනය කිරීමට සහ අලුතින් වගන්ති කිහිපයක් ඇතුළත් කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් යෝජනා කර තිබේ.
-
-ඒ අනුව අත්‍යවශ්‍ය ලෙස සංශෝධනය කළ යුතු වගන්ති හා ඇතුළත් කළ යුතු නව වගන්ති පිළබඳව නිර්දේශ සහිත සවිස්තරාත්මක වාර්තාවක් ඉදිරිපත් කිරීම පිණිස කමිටුවක් පත් කිරීමට නියමිතය.
-
-මේ සඳහා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ කොමසාරිස්වරයෙකුගේ ප්‍රධානත්වයෙන් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය, නීතිපති දෙපාර්තමේන්තුව හා නීති කෙටුම්පත් සම්පාදක දෙපාර්තමේන්තුව යන ආයතවල ජ්‍යෙෂ්ඨ නිලධාරීන්ගෙන් සමන්විත කමිටුවක් පත් කිරීමට  ජනාධිපතිවරා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
-
-◼️
-
-[Data](articles/450c13a6.json)
-
----
-
-### நாளை புலரும் பொழுது புத்தாண்டு
-
-*2024-12-31 13:08:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/சிறப்பு-கட்டுரைகள்/நாளை-புலரும்-பொழுது-புத்தாண்டு/91-349561) · `ta`
-
-உலக நாடுகள்  புதிய 2025ஆம் ஆண்டினை வரவேற்பதற்கு தம்மைத்  தயார்ப்படுத்திக் கொண்டிருக்கின்றன.  2024ஆம் ஆண்டானது சர்வதேச ரீதியில் எண்ணற்ற நிகழ்வுகளைச் சந்தித்துள்ளது. அந்த வகையில், 2024ஆம் ஆண்டு உலகில் இடம் பெற்ற சில முக்கிய நிகழ்வுகளை மீட்டுப் பார்ப்பதே இந்தப் பதிவின் நோக்கமாகும்.
-
-2024ஆம் வருடமானது உலகளவில் மிகப் பெரிய தேர்தல் வருடமாகத் திகழ்ந்தது. சுமார் அறுபதுக்கும் மேற்பட்ட நாடுகளில் வசிக்கும் மக்கள் அதாவது உலக சனத் தொகையில் 50 சதவீதத்துக்கு மேற்பட்ட மக்களைப் பிரதிநிதித்துவப்படுத்தும் நாடுகள் 2024ஆம் ஆண்டு பொதுத் தேர்தலுக்கு  முகங் கொடுத்தன.
-
-அமெரிக்கா, பிரிட்டன், மெக்சிகோ, பாகிஸ்தான், இந்தியா, ஸ்ரீலங்கா, இந்தோனேசியா,  தென்னாபிரிக்கா உள்ளிட்ட பல நாடுகள் புதிய தலைவர்களைத் தெரிவு செய்தன.
-
-இந்தத் தேர்தல்கள் உலக ரீதியாக ஒரு மாறுபாட்டினை வெளிப்படுத்தியதோடு, தேசியம், பொருளாதார  சீர்திருத்தங்கள், ஆகியவற்றை முன்னிலைப்படுத்துவதாக அமைந்திருந்தது.
-
-...
-
-[Data](articles/f50c0c2a.json)
-
----
-
-### Sri Lanka to establish ministerial level investigation units to ensure accountability
-
-*2024-12-31 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104617/sri-lanka-to-establish-ministerial-level-investigation-units-to-ensure-accountability) · `en`
-
-The Cabinet of Ministers has approved to establish investigation units in every ministry to ensure accountability of public institutions.
-
-During today’s Cabinet press briefing, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa emphasized that currently, a large number of complaints regarding the public service are being received daily, both nominally and anonymously, by the President’s Office, the Prime Minister’s Office and the public representatives.
-
-In order to protect the public trust in the government and, in particular, to bring about the desired positive changes in the public service, an impartial and scientific investigation into such complaints should be conducted, Dr. Jayatissa noted.
-
-...
-
-[Data](articles/c8d0f4b7.json)
-
----
-
-### முதலாம் தர மாணவர்களுக்கு 30ஆம்  திகதி பாடசாலை ஆரம்பம் - கல்வி அமைச்சு
-
-*2024-12-31 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202607) · `ta`
-
-அரச மற்றும் அரச அங்கீகாரம் பெற்ற சகல பாடசாலைகளிலும் புதிதாக உள்வாங்கப்பட்டுள்ள முதலாம் வகுப்பு மாணவர்களுக்கான கற்பித்தல் செயற்பாடுகள் இம்மாதம் 30 ஆம் திகதி ஆரம்பமாகும் என்று கல்வி அமைச்சு தெரிவித்துள்ளது.
-
-இன்று செவ்வாய்கிழமை (31) அறிக்கையொன்றை வெளியிட்டு கல்வி அமைச்சு இதனைத் தெரிவித்துள்ளது. அதற்கமைய அனைத்து சிங்கள, தமிழ் மற்றும் முஸ்லிம் அரச பாடசாலைகளின் புதிய தரம் ஒன்று மாணவர்களுக்கு ஜனவரி 30 ஆம் திகதி வகுப்புகள் ஆரம்பமாகவுள்ளன.
-
-இதேவேளை விடுமுறையின் பின்னர் நாளை வியாழக்கிழமை மீள பாடசாலைகள் ஆரம்பிக்கப்படவுள்ளன. சகல பாடசாலைகளிலும் மூன்றாம் தவணையின் இரண்டாம் கட்ட கற்றல், கற்பித்தல் செயற்பாடுகள் வியாழக்கிழமை (02) ஆரம்பமாகி, எதிர்வரும் 24ஆம் திகதியுடன் நிறைவடையவுள்ளன.
-
-இதேவேளை இவ்வாண்டுக்கான கல்விப் பொதுத் தராதர சாதாரண தர பரீட்சைகள் 2025 மார்ச் 17ஆம் திகதி முதல் 26ஆம் திகதி வரை ஆரம்பமாகவுள்ளதாக பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார். பரீட்சை நேர அட்டவணை என்பதை விரைவில் வெளியிடப்படும் என்றும் அவர் மேலும் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/9d2ef18f.json)
-
----
-
-### Govt. to make amendments to Sri Lanka Electricity Act 2024
-
-*2024-12-31 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104616/govt-to-make-amendments-to-sri-lanka-electricity-act-2024) · `en`
-
-The Cabinet of Ministers has granted approval to reconsider the provisions of the Sri Lanka Electricity Act No. 36 of 2024, which came into force from June 27, and to make appropriate amendments.
-
-The provisions of the Sri Lanka Electricity Act No. 36 of 2024 came into force from June 27, 2024.
-
-Various parties have pointed out that the provisions of the said Act, the proposed institutions and their roles and their responsibilities will fail to achieve the objectives intended by the said Act and that therefore will impose an additional burden on the electricity industry and consumers in establishing a secure and clean electricity sector.
-
-The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa noted that therefore, it has become essential to reconsider the objectives of the Electricity Act, taking into account the views of all relevant stakeholders interested in establishing a sustainable and secure electricity sector.
-
-...
-
-[Data](articles/df66286b.json)
 
 ---

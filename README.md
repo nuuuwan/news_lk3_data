@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 14:02:59**
+As of **2024-12-31 14:16:10**
 
 ## Newspaper Stats
 
-*Scraped **62,913** Articles*
+*Scraped **62,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,009
 adaderanalk | 7,690
-tamilmirrorlk | 9,029
+tamilmirrorlk | 9,030
 virakesarilk | 10,448
 adaderanasinhalalk | 10,874
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,913 articles have been extended.
+61,969 (98.5%) of 62,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### மாணவனை மிரட்டி 67,000 ரூபாய் கொள்ளை
+
+*2024-12-31 13:51:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவனை-மிரட்டி-67-000-ரூபாய்-கொள்ளை/175-349563) · `ta`
+
+தனியார் வகுப்புக்கு வந்த மாணவனை கத்தியை காட்டி கொலை மிரட்டல் விட்டு, அவரை காரில் பலவந்தமாக  ஏற்றிச் சென்று 67,000 ரூபாயை கொள்ளையடித்த சம்பவத்துடன் தொடர்புடைய இருவர்  காருடன் திங்கட்கிழமை (30) கைது செய்யப்பட்டதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+கஹட்டகஸ்திகிலிய பிரதேசத்தில் இருந்து அனுராதபுரத்திற்கு தனியார் வகுப்புக்கு வந்த மாணவனிடம் இருந்தே, பணத்தை கொள்ளையடித்துள்ளனர்.
+
+விஜய புர பிரதேசத்தை சேர்ந்த 29 வயதுடைய ஒருவரும், ஹிடோகம பஹல் தருவில பிரதேசத்தை சேர்ந்த 35 வயதான ஒருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+தனியார் வகுப்புகள் முடிந்ததும் அநுராதபுரம் புதிய நகரில் பஸ்ஸூக்காக காத்திருந்த 18 வயதுடைய மாணவன் அருகில் காரில் வந்த நின்றுள்ளது. அதில் இருந்த நான்கு பேர் கத்தியைக் காட்டி மாணவனை, காருக்குள் பலவந்தமாக ஏற்றிக்கொண்டு, ஆள் நடமாட்டமற்ற இடத்திற்கு அழைத்துச் சென்று, அவரிடமிருந்த 2000 ரூபாய் பணத்தை அபகரித்ததுடன், வங்கி அட்டையையும் கைப்பற்றினர். .
+
+...
+
+[Data](articles/535895cc.json)
+
+---
 
 ### வாகரை கடற்கரையில் இந்தோனேசிய படகு
 
@@ -1839,19 +1857,5 @@ Sri Lanka needs to have a future focus in terms of tourism and there should be s
 ...
 
 [Data](articles/27c8f7d0.json)
-
----
-
-### Forensic auditing
-
-*2024-12-30 22:31:09* · [`dailyftlk`](https://www.ft.lk/columns/Forensic-auditing/4-771169) · `en`
-
-The continuous development of forensic auditing is essential to keep pace with evolving fraud techniques and emerging risks
-
-Forensic auditing or investigation plays a very important role in the fight against fraud, corruption and other financial malpractices in not only business companies and non-governmental organisations but also mainstream government departments. The employment of experts in forensic auditing or investigation as internal or public anti-economic crime consultants go a long way in fostering operational efficiency
-
-...
-
-[Data](articles/1107e71e.json)
 
 ---

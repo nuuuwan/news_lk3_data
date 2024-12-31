@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 00:43:07**
+As of **2025-01-01 00:59:25**
 
 ## Newspaper Stats
 
-*Scraped **63,005** Articles*
+*Scraped **63,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
 economynextcom | 3,835
-dailyftlk | 4,361
+dailyftlk | 4,366
 dailymirrorlk | 4,733
 adalk | 6,018
 adaderanalk | 7,705
@@ -26,11 +26,81 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.4%) of 63,005 articles have been extended.
+61,970 (98.3%) of 63,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Everbolt Engineering wins three titles at Western Province – Entrepreneur Awards 2024
+
+*2025-01-01 00:48:04* · [`dailyftlk`](https://www.ft.lk/business/Everbolt-Engineering-wins-three-titles-at-Western-Province-Entrepreneur-Awards-2024/34-771219) · `en`
+
+Everbolt Engineering Ltd., a leading electrical engineering service provider in Sri Lanka, has won three awards at the Western Province – Entrepreneur Awards 2024 organised by the National Chamber of Commerce of Sri Lanka (NCCSL) and National Enterprise Development Authority (NEDA).
+
+It won the Silver award for the ‘Best Entrepreneur of the Year’ (Overall winner), Gold award for ‘Best Innovative Enterprise’, and Gold award for ‘Best Enterprise of the Service Sector’ under the Medium category.
+
+Since its inception, Everbolt has made significant strides in the industrial automation and engineering sector. The company offers a wide range of electrical products and engineering services, such as electrical panel fabrication and installation, soft starters, VFD panels, industrial wiring, lighting arrester and earthing systems, capacitor banks, vision-based applications, web-based applications, online data monitoring, and machine controlling.
+
+...
+
+[Data](articles/d2ff9756.json)
+
+---
+
+### Iranian Ambassador meets Finance Ministry Secretary
+
+*2025-01-01 00:46:14* · [`dailyftlk`](https://www.ft.lk/business/Iranian-Ambassador-meets-Finance-Ministry-Secretary/34-771218) · `en`
+
+Iranian Ambassador Alireza Delkhosh met with Finance Ministry Secretary Mahinda Siriwardana yesterday discussing several important matters with the Ministry Secretary. Department of External Resource of the Finance Ministry Director General R.M.S.P.S. Bandara and Chamber of Tourism and Industry President A. M. Jaufer also attended this meeting.
+
+◼️
+
+[Data](articles/dbe95d7a.json)
+
+---
+
+### Twenty-five thoughts for 2025: Essentials for excellence
+
+*2025-01-01 00:43:41* · [`dailyftlk`](https://www.ft.lk/columns/Twenty-five-thoughts-for-2025-Essentials-for-excellence/4-771217) · `en`
+
+A refreshing 31,557,600 seconds in 2025 are with us. The sparkling spirit of a new year invites us not only to have brand new thoughts but to convert them into grand actions. As usual, people tend to have New Year resolutions. My suggestion is to go beyond scant resolutions, to have specific reinforcements. As an appetiser for a productive new year, I would like to share twenty five thoughts for 2025 as essentials for excellence, especially with the Sri Lankan managers in mind.
+
+We all complain about lack of time. Even though there are seminars, workshops, trainings, and lectures on “time management,” we really cannot manage time. It is finite and fixed. Instead, what we can do is to “manage ourselves” in getting the best out of the given limited time. Only way to do that is to be efficient in our tasks. It involves minimising the wastages, reducing the defects, curtailing the deviations etc. Let us be efficient in the year 2025.
+
+...
+
+[Data](articles/c60b3aaa.json)
+
+---
+
+### AKD: Expedient Marxist?
+
+*2025-01-01 00:36:31* · [`dailyftlk`](https://www.ft.lk/columns/AKD-Expedient-Marxist/4-771216) · `en`
+
+“From Pandora’s box, where all the ills of humanity swarmed, the Greeks drew out hope after all the others, as the most dreadful of all. I know no more stirring symbol; for contrary to the general belief, hope equals resignation. And to live is not to resign oneself.”
+
+‘A break from the past, A new beginning in Sri Lanka’ was the arresting caption of an Op-Ed piece that appeared on 25 September in the Hindu. It was just four days after President AKD was sworn in. It had been penned by Emeritus Professor of Political Science University of Colombo Jayadeva Uyangoda.
+
+...
+
+[Data](articles/3a408819.json)
+
+---
+
+### Call for immediate action and presidential leadership: Chaotic indiscipline among Sri Lankan drivers
+
+*2025-01-01 00:31:21* · [`dailyftlk`](https://www.ft.lk/columns/Call-for-immediate-action-and-presidential-leadership-Chaotic-indiscipline-among-Sri-Lankan-drivers/4-771215) · `en`
+
+Many drivers operate without proper training or valid licenses, undermining road safety
+
+Sri Lanka’s roads have long been a scene of organised chaos, where three-wheeler drivers, motorcyclists, and bus operators play a prominent role in shaping the traffic landscape. The indiscipline among these drivers not only exacerbates congestion but also contributes significantly to road accidents and fatalities. Addressing this pressing issue requires a multi-faceted approach that combines stricter law enforcement, systemic reforms, driver education, public awareness campaigns, and technological advancements. A collaborative effort involving the government, law enforcement agencies, and the public is crucial to fostering a disciplined and safe driving culture in Sri Lanka.
+
+...
+
+[Data](articles/535cec61.json)
+
+---
 
 ### Berlin Wall, Rajapaksa rule and Lanka’s road from bankruptcy
 
@@ -1723,89 +1793,5 @@ The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa noted that therefore, it h
 ◼️
 
 [Data](articles/c87c7c9d.json)
-
----
-
-### Sri Lanka to set up state investment review committee
-
-*2024-12-31 12:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-set-up-state-investment-review-committee-197127/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to set up a committee to decide on the implementation of investment projects, spokesman minister Nalinda Jayatissa said.
-
-The state investment supervision and evaluation committee will consist of 11 members including two ministry secretaries.
-
-“In the last decade, the government has not seen expected returns commensurate with the costs it incurred during investment projects, so targeted development didn’t take place,” Jayatissa told reporters.
-
-“On the other hand, various problems affecting the implementation of development projects have arisen especially around project oversight and management.”
-
-The committee will be able to make decisions related to the implementation of investment projects, planning, resource allocation, budgeting, finance, and monitoring based on information provided by Chief Enumeration Officers. (Colombo/Dec31/2024)
-
-◼️
-
-[Data](articles/842c43db.json)
-
----
-
-### Govt. to review recruitment process in public institutions
-
-*2024-12-31 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104615/govt-to-review-recruitment-process-in-public-institutions) · `en`
-
-The Government of Sri Lanka will appoint an Officers’ Committee chaired by the Secretary to the Prime Minister to review the recruitment process and personnel management in the public service.
-
-The proposal related to the matter, submitted to the Cabinet of Ministers by President Anura Kumara Dissanayake has received approval during the Cabinet meeting held on Monday (Dec. 30).
-
-Accordingly, the staff of Commissions, Ministries, Departments and Statutory Boards as well as Provincial Councils will be reviewed by the said committee and take necessary steps to make essential recruitments and redeploy staff according to service requirements to ensure maximum and efficient service.
-
-◼️
-
-[Data](articles/a71fc257.json)
-
----
-
-### இந்தோனோசியா நாட்டு படகு மீட்பு
-
-*2024-12-31 12:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இந்தோனோசியா-நாட்டு-படகு-மீட்பு/73-349559) · `ta`
-
-மட்டக்களப்பு வாகரை பொலிஸ் பிரிவிலுள்ள பால்சேனை கடற்கரையில் ஆளில்லா இந்தோனோசியா நாட்டு படகு ஒன்று கரையடைந்த நிலையில்  செவ்வாய்க்கிழமை (31)  பொலிஸாரால் மீட்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/ab2e7760.json)
-
----
-
-### மருமகனின் கத்தி குத்தில் மாமா பலி
-
-*2024-12-31 12:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகனின்-கத்தி-குத்தில்-மாமா-பலி/175-349558) · `ta`
-
-மதுரங்குளி பொலிஸ் பிரிவுக்குட்பட்ட கடையாமோட்டை கிலவமடுச்சேனை பிரதேசத்தில் குடும்பஸ்தர் ஒருவர் திங்கட்கிழமை  (30) அன்று கூரிய அயுதத்தினால் குத்தி கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மைத்துனர்கள் இருவருக்கிடையில் ஏற்பட்ட வாக்குவாதம் முற்றி, அது பெரும் கைகலப்பாக மாறியதுடன், அதனை சமரசத்திற்கு கொண்டு வர முயற்சி செய்த மாமாவே, மருமகனின் கத்திக் குத்துக்கு இலக்காகி உயிழந்துள்ளதாக தெரயவந்துள்ளது.
-
-மதுரங்குளி - கிலவமடுச்சேனைப் பிரதேசத்தைச் சேர்ந்த நான்கு பிள்ளைகளின் தந்தையான தொம்பகஹ பத்திரனகே டைட்டஸ் ரோஹன் பீரிஸ் ( வயது 56) என்பவரே உயிரிழந்துள்ளார்.
-
-சம்பவம் இடம்பெற்ற போது, தனது சிறிய மகனின் வீட்டுக்கு மதுபோதையில் சென்ற மைத்துனர், அங்கு கடும் வாய்த்தர்க்கத்திலும் , மோதலிலும் ஈடுபட்டுள்ளார் எனத் தெரிவிக்கப்படுகிறது.
-
-...
-
-[Data](articles/4801b643.json)
-
----
-
-### மருமகனின் கத்திக் குத்துக்கு இலக்காகி மாமா பலி
-
-*2024-12-31 12:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகனின்-கத்திக்-குத்துக்கு-இலக்காகி-மாமா-பலி/175-349558) · `ta`
-
-மதுரங்குளி பொலிஸ் பிரிவுக்குட்பட்ட கடையாமோட்டை கிலவமடுச்சேனை பிரதேசத்தில் குடும்பஸ்தர் ஒருவர் திங்கட்கிழமை  (30) அன்று கூரிய அயுதத்தினால் குத்தி கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மைத்துனர்கள் இருவருக்கிடையில் ஏற்பட்ட வாக்குவாதம் முற்றி, அது பெரும் கைகலப்பாக மாறியதுடன், அதனை சமரசத்திற்கு கொண்டு வர முயற்சி செய்த மாமாவே, மருமகனின் கத்திக் குத்துக்கு இலக்காகி உயிழந்துள்ளதாக தெரயவந்துள்ளது.
-
-மதுரங்குளி - கிலவமடுச்சேனைப் பிரதேசத்தைச் சேர்ந்த தொம்பகஹ பத்திரனகே டைட்டஸ் ரோஹன் பீரிஸ் ( வயது 56) எனும் நான்கு பிள்ளைகளின் தந்தையே இவ்வாறு உயிரிழந்துள்ளார்.
-
-சம்பவம் இடம்பெற்ற போது, தனது சிறிய மகனின் வீட்டுக்கு மதுபோதையில் சென்ற மைத்துனர், அங்கு கடும் வாய்தர்க்கத்திலும் , மோதிலிலும் ஈடுபட்டுள்ளார் எனத் தெரிவிக்கப்படுகிறது.
-
-...
-
-[Data](articles/494be7a1.json)
 
 ---

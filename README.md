@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 18:04:17**
+As of **2024-12-31 18:24:33**
 
 ## Newspaper Stats
 
@@ -308,9 +308,9 @@ Banks (Rs3.6bn), diversified financials (Rs1bn) and capital goods (Rs1bn) sector
 
 This was predominantly led by locals, with retail and high net worth investors taking positions.
 
-Top positive contributors to the ASPI were NDB (up at 113.25), DFCC Holdings (up at 113.75), Commercial Bank (up at 144.75), Hayleys (up at 131.25), and Central Finance (up at 190.00).
+Top foreign buying was seen in Aitken Spence (up at 145.00), Lanka Milk Foods (down at 46.80), L B Finance (up at 89.50), The Kingsbury (down at 12.00), Browns Investments (flat at 7.10), LOLC Holdings (up at 690.25).
 
-◼️
+...
 
 [Data](articles/0e973a82.json)
 

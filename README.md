@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 13:01:49**
+As of **2024-12-31 13:13:08**
 
 ## Newspaper Stats
 
-*Scraped **62,897** Articles*
+*Scraped **62,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,008
 adaderanalk | 7,682
-tamilmirrorlk | 9,026
+tamilmirrorlk | 9,027
 virakesarilk | 10,447
 adaderanasinhalalk | 10,871
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,871
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,897 articles have been extended.
+61,969 (98.5%) of 62,898 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c87c7c9d.json)
+
+---
+
+### மருமகனின் கத்தி குத்தில் மாமா பலி
+
+*2024-12-31 12:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருமகனின்-கத்தி-குத்தில்-மாமா-பலி/175-349558) · `ta`
+
+மதுரங்குளி பொலிஸ் பிரிவுக்குட்பட்ட கடையாமோட்டை கிலவமடுச்சேனை பிரதேசத்தில் குடும்பஸ்தர் ஒருவர் திங்கட்கிழமை  (30) அன்று கூரிய அயுதத்தினால் குத்தி கொலை செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மைத்துனர்கள் இருவருக்கிடையில் ஏற்பட்ட வாக்குவாதம் முற்றி, அது பெரும் கைகலப்பாக மாறியதுடன், அதனை சமரசத்திற்கு கொண்டு வர முயற்சி செய்த மாமாவே, மருமகனின் கத்திக் குத்துக்கு இலக்காகி உயிழந்துள்ளதாக தெரயவந்துள்ளது.
+
+மதுரங்குளி - கிலவமடுச்சேனைப் பிரதேசத்தைச் சேர்ந்த நான்கு பிள்ளைகளின் தந்தையான தொம்பகஹ பத்திரனகே டைட்டஸ் ரோஹன் பீரிஸ் ( வயது 56) என்பவரே உயிரிழந்துள்ளார்.
+
+சம்பவம் இடம்பெற்ற போது, தனது சிறிய மகனின் வீட்டுக்கு மதுபோதையில் சென்ற மைத்துனர், அங்கு கடும் வாய்த்தர்க்கத்திலும் , மோதலிலும் ஈடுபட்டுள்ளார் எனத் தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/4801b643.json)
 
 ---
 
@@ -1823,29 +1841,5 @@ After the incident, MP Basnayake who described the experience said the angry ind
 ...
 
 [Data](articles/3202847f.json)
-
----
-
-### Special Transport Plan in Colombo Tomorrow
-
-*2024-12-30 19:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-நாளை-விசேட-போக்குவரத்து-திட்டம்/175-349519) · `ta`
-
-Colombo traffic plan: Police restricts vehicle parking at Galle Face Center Road. Free/private parking available in Beta, Colombo Fort, Kombani Road, Maradana, Kaluppitti, Bambalapitiya, Cinnamon areas. Special measures for New Year 2025 celebrations.
-
-🟩
-
-The Sri Lankan police will implement a special traffic plan to manage the expected traffic congestion on the road to Colombo and Galle Muhammad on the New Year of 2025.
-
-Since people gather to celebrate the coming of 2025, significant traffic congestion is expected from Colombo and its surrounding areas.
-
-To address this, the police have set up a special traffic project including Beta, Colombo Fort, Kombani Road, Maradana, Kaluppitti, Bambalapitiya and Cinnamon.
-
-Possible parking in vehicles designated at Galle Face Center Road will be prohibited. All vehicles will be sent to free or private parking facilities within the above police units.
-
-◼️
-
-[Data](articles/7c87df79.json)
-
-[Extended Data](ext_articles/7c87df79.ext.json)
 
 ---

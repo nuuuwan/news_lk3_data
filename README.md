@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 15:27:39**
+As of **2024-12-31 15:43:48**
 
 ## Newspaper Stats
 
-*Scraped **62,927** Articles*
+*Scraped **62,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 464
 colombotelegraphcom | 637
 bbccomsinhala | 660
 islandlk | 3,822
-economynextcom | 3,829
+economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,010
+adalk | 6,011
 adaderanalk | 7,692
 tamilmirrorlk | 9,034
 virakesarilk | 10,449
@@ -26,11 +26,37 @@ adaderanasinhalalk | 10,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,927 articles have been extended.
+61,969 (98.5%) of 62,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### Sri Lanka stocks end 2024 in green
+
+*2024-12-31 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-2024-in-green-197108/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on the last day of 2024, data on its site showed.
+
+The broader ASPI closed up 0.77 percent, or 121.71 points, at 15,949.10; while the more liquid S&P SL20 Index closed up 1.00 percent, or 48.21 points, at 4,861.59.
+
+The ASPI inched closer to the 16,000 mark in morning trade before some profit taking mid-morning brought it down.
+
+“This has been an unusual December, usually it’s more quiet,” Softlogic Stockbrokers said.
+
+Tentative figures showed the market had gained around 50 percent year-to-date.
+
+Banks (Rs3.6bn), diversified financials (Rs1bn) and capital goods (Rs1bn) sectors saw the most investor interest.
+
+This was predominantly led by locals, with retail and high net worth investors taking positions.
+
+Top positive contributors to the ASPI were NDB (up at 113.25), DFCC Holdings (up at 113.75), Commercial Bank (up at 144.75), Hayleys (up at 131.25), and Central Finance (up at 190.00). (Colombo/Dec31/2024)
+
+◼️
+
+[Data](articles/0e973a82.json)
+
+---
 
 ### தமிழ்நாட்டு பெண்களிடம் 6,720 தொன் தங்கம்
 
@@ -887,6 +913,24 @@ He also previously served as the Commandant of the Defence Services Command and 
 ◼️
 
 [Data](articles/336efd39.json)
+
+---
+
+### පියාගේ හා මල්ලිගේ පහරදිමෙන් අයියා මරුට
+
+*2024-12-31 10:38:21* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-හා-මල්ලිගේ-පහරදිමෙන්-අයියා-මරුට/11-413931) · `si`
+
+පුඩලු ඔය, ඩන්සිනන්වත්ත ප්‍ර දේශයේදි පියාගේ හා තම බාලසහෝදරයාගෙන් පහර කෑ29 හැවැරිදි පුද්ගලයෙක් ජිවිතක්ෂයට පත්ව ඇතැයි පොලීසිය කියයි.
+
+ඊයේ රාත්‍රි කාලයේදි මෙම පහරදිම සිදුව තිබේ. මරණකරු ඔහුගේ දියණිය, පියා හා බාලසහෝදරයා සමග එකම නිවසක පදිංචිව සිට ඇත.
+
+තම පියා හා සහෝදරයා සමග ඇතිකරගත් ආරවුලකින් අතුරුව පියාගේ හා බාල සහෝදරයාගේ පොලු පහරවල් හා ගල් ප්‍රහාර හේතුවෙන් මෙසේ ඔහු මියගොස් තිබේ.
+
+ඝාතනයට සම්බන්ධ අවුරුදු 46ක් වන පියා හා අවුරුදු 18ක් වන බාල සහෝදරයා අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/16e675f8.json)
 
 ---
 
@@ -1835,39 +1879,5 @@ Sri Lanka took another significant step toward textile circularity with a four-d
 ...
 
 [Data](articles/0aa00621.json)
-
----
-
-### EDB hosts networking session for women entrepreneurs
-
-*2024-12-31 01:13:35* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-networking-session-for-women-entrepreneurs/34-771194) · `en`
-
-From left: Akbar Brothers General Manager – Tea Adrian Gabriel, Business Consultant/Sustainability Practitioner Priyadarshinie Karunarathne, Orel Academy Head of Operations Priyanka Perera, University of Colombo Human Resource Management Chair Prof. Arosha Adikaram, Ceylon Natural Rubber Managing Director Mano Sheriff, and Malwatte Valley Plantations Executive Director Christopher Fernando
-
-From  left: EDB Director General Champika Dharmasena, Chairman and Chief Executive Mangala Wijesinghe, Director – Trade Facilitation and Trade Information Division Dr. Sanjeewa Rathnasekara,  and British Cosmetics Managing Director Nirosha Jagoda
-
-The Export Development Board (EDB) successfully conducted a networking and knowledge sharing session for the women entrepreneurs registered under the ‘Women Entrepreneurship Development Program’ recently.
-
-It addressed one of the key barriers faced by women entrepreneurs – the lack of networking opportunities with industry leaders.
-
-...
-
-[Data](articles/118b59af.json)
-
-[Extended Data](ext_articles/118b59af.ext.json)
-
----
-
-### Past and Present India -Sri Lanka Relations ; 1987 Rajiv-JR Accord and the 2024 Modi-AKD Meeting.
-
-*2024-12-31 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85279) · `en`
-
-Sri Lanka’s newly elected President Anura Kumara Dissanayake  has successfully concluded his first state visit to  India from December 15 to 17. The optics of the three day visit to New Delhi has been hailed positively. President Dissanayake known popularly as AKD is the leader of the Janatha Vimukthi Peramuna as well as the JVP-led National People’s Power(NPP).
-
-The successful passage to India  has brought into focus the “mismatch” between JVP past and JVP present. The Janatha Vimukthi Peramuna’s  hard line regarding India in the past and its current soft line towards our big neighbour are being compared and contrasted.The successful state visit seems to indicate that the JVP’s relationship with India has  taken a positive “U”turn.
-
-...
-
-[Data](articles/71af3e8b.json)
 
 ---

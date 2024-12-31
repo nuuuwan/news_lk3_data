@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 17:00:05**
+As of **2024-12-31 17:12:50**
 
 ## Newspaper Stats
 
-*Scraped **62,948** Articles*
+*Scraped **62,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,012
-adaderanalk | 7,694
+adaderanalk | 7,698
 tamilmirrorlk | 9,036
 virakesarilk | 10,456
 adaderanasinhalalk | 10,880
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,880
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,948 articles have been extended.
+61,969 (98.4%) of 62,952 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Kiribati becomes first country to enter New Year 2025
+
+*2024-12-31 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104624/kiribati-becomes-first-country-to-enter-new-year-2025) · `en`
+
+As most of the world awaits 2025, the tiny island nation of Kiribati has already taken the lead, becoming the first to welcome the New Year. Kiritimati Island, also known as Christmas Island, located in the central Pacific Ocean, marks the dawn of January 1, 2025, as clocks struck midnight there earlier today.
+
+The island is precisely 8.5 hours ahead of India and 14 hours ahead of Greenwich Mean Time. So when India clocked 3.30 pm today (Dec 31 2024), it was midnight, Wednesday, Jan 1, 2025, in Kiritimati. This momentous occasion in Kiribati signifies the beginning of the global New Year celebrations, as the island nation marks the very first moments of 2025, long before the rest of the world follows suit.
+
+Locals in Kiritimati welcome the fresh dawn of the new year, creating an atmosphere of excitement and celebration that spread across the small island with residents ringing in with New Year fireworks, music, and joyful festivities.
+
+...
+
+[Data](articles/fee42037.json)
+
+---
+
 ### 2025 නව වසර උදාවූ පළමු රට මෙන්න
 
 *2024-12-31 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204907) · `si`
@@ -64,6 +80,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### 2024 A/L results expected by April
+
+*2024-12-31 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104623/2024-al-results-expected-by-april) · `en`
+
+The Commissioner General of Examinations, Amith Jayasundara announced that the results of the G.C.E. Advanced Level examination are expected to be released by April next year.
+
+He shared this update during a special press conference held today (Dec. 31).
+
+Speaking on the evaluation process, Jayasundara stated, “We have implemented a phased approach to conducting evaluation activities, ensuring that the students’ ongoing studies are not disrupted.”
+
+He further elaborated on the timeline, noting that the standard process for finalizing Advanced Level examination results typically takes about four months. However, he added that efforts are underway to expedite the process.
+
+“Our aim is to release the results by April, and we are striving to reduce the time required for the evaluation,” he expressed.
+
+◼️
+
+[Data](articles/9cbe0584.json)
+
+---
+
 ### 2024இல் கவனம் ஈர்த்தவர்களில் அனுரவும் இடம்​பிடிப்பு
 
 *2024-12-31 16:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/2024இல்-கவனம்-ஈர்த்தவர்களில்-அனுரவும்-இடம்-பிடிப்பு/50-349574) · `ta`
@@ -75,6 +111,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/e3a0f1a3.json)
+
+---
+
+### Colombo inflation increases in December 2024
+
+*2024-12-31 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104622/colombo-inflation-increases-in-december-2024) · `en`
+
+The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on Year-on-Year basis, has increased to -1.7% in December 2024, compared to -2.1% in November 2024, according to the latest data released by the Department of Census and Statistics.
+
+The CCPI for all items for the month of December 2024 was 191.7 and it records an increase of 2.3 index points compared to the month of November 2024 for which the index was 189.4.
+
+The Y-on-Y inflation of Food Group increased to 0.8% in December 2024 from 0.6% in November 2024 and the Y-on-Y inflation of Non Food Group increased to -3.0% in December 2024 from -3.3% in November 2024.
+
+◼️
+
+[Data](articles/23a1caf4.json)
 
 ---
 
@@ -135,6 +187,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/884d137d.json)
+
+---
+
+### Exams chief responds to SC verdict on 2024 Grade 05 Scholarship Exam issue
+
+*2024-12-31 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104621/exams-chief-responds-to-sc-verdict-on-2024-grade-05-scholarship-exam-issue) · `en`
+
+The Commissioner General of Examinations, Amith Jayasundara says that a final decision regarding the 2024 Grade 05 Scholarship Examination issue will be made immediately following a study into the Supreme Court verdict which was issued today (31) pertaining to the matter.
+
+Speaking during a press briefing held today, Jayasundara acknowledged that there are over 3,000 primary schools in Sri Lanka and that the academic year 2025 is slated to begin on January 27, 2025, emphasizing that an immediate decision will be communicated as soon as possible considering the fact that the children in question have to enter the Grade 06 based on the cut-off marks of this examination.
+
+He stated that the process of evaluation of answer sheets of the examination will be expedited for the prompt release of cut-off marks once the department reaches a final decision regarding the issue.
+
+...
+
+[Data](articles/10d92a6d.json)
 
 ---
 
@@ -1771,77 +1839,5 @@ It is also reported that the Constitutional Council has not yet approved the app
 ◼️
 
 [Data](articles/33a885d5.json)
-
----
-
-### Sri Lanka Printing Dept’s website hacked
-
-*2024-12-31 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104601/sri-lanka-printing-depts-website-hacked) · `en`
-
-The official website of the Sri Lanka Department of Government Printing has been hacked and its data has been altered.
-
-Accordingly, the Sri Lanka Computer Emergency Readiness Team (SLCERT) is presently investigating into the incident.
-
-Meanwhile, it is reported that the official YouTube channel of the Sri Lanka Police Department has also been hacked.
-
-The Police Media Spokesperson said that efforts are currently underway to promptly restore access to the channel.
-
-◼️
-
-[Data](articles/9f8024e6.json)
-
----
-
-### பல பகுதிகளில் 75 மில்லி மீற்றருக்கும் அதிக மழை
-
-*2024-12-31 07:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளில்-75-மில்லி-மீற்றருக்கும்-அதிக-மழை/175-349537) · `ta`
-
-இன்று முதல் அடுத்துவரும் சில நாட்களுக்கு நாட்டின் வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா ஆகிய மாகாணங்களில் நிலவும் மழையுடனான வானிலை சற்று அதிகரிக்குமென வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-இதன்படி, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும், மாத்தளை மற்றும் பொலன்னறுவை மாவட்டங்களிலும் 75 மில்லி மீற்றருக்கும் அதிக மழை பெய்யக்கூடும் என அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
-
-மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களின் சில இடங்களில் 50 மில்லி மீற்றருக்கும் அதிகமான மழை பெய்யக்கூடும் எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-அத்துடன், வடக்கு, கிழக்கு மற்றும் வடமத்திய மாகாணங்களில் இடைக்கிடையே மணித்தியாலத்திற்கு 30 முதல் 35 கிலோ மீற்றர் வேகத்தில் காற்று வீசக்கூடுமெனக் குறிப்பிடப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/c85c1be8.json)
-
----
-
-### Sri Lanka Police’s YouTube channel hacked
-
-*2024-12-31 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104600/sri-lanka-polices-youtube-channel-hacked) · `en`
-
-The official YouTube channel of the Sri Lanka Police Department has been hacked, Police said.
-
-Efforts are currently underway to promptly restore access to the channel, the Police Media Spokesperson said.
-
-◼️
-
-[Data](articles/a42b9a6a.json)
-
----
-
-### Showery weather condition to enhance over several provinces
-
-*2024-12-31 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104599/showery-weather-condition-to-enhance-over-several-provinces) · `en`
-
-The Meteorology Department says showery weather condition is expected to continue further over Northern, North-central, Eastern and Uva provinces for next few days.
-
-Showers or thundershowers will occur at times in Northern, North-Central, Eastern and Uva provinces and in Matale district. Fairly heavy showers above 75 mm can be expected at some places in Eastern and Uva provinces and in Matale and Polonnaruwa districts.
-
-Showers or thundershowers will occur at several places elsewhere during the afternoon or night, the Met Department said.
-
-Fairly heavy showers above 75 mm can be expected at some places in Western, Sabaragamuwa and Southern provinces.
-
-Fairly strong winds of 30-35 kmph can be expected at times over Northern, Eastern, North-central and North-western provinces, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Southern provinces during the morning.
-
-...
-
-[Data](articles/910d92e6.json)
 
 ---

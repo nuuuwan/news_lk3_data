@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 10:02:49**
+As of **2024-12-31 10:15:35**
 
 ## Newspaper Stats
 
-*Scraped **62,856** Articles*
+*Scraped **62,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,002
 adaderanalk | 7,681
-tamilmirrorlk | 9,011
+tamilmirrorlk | 9,013
 virakesarilk | 10,443
 adaderanasinhalalk | 10,863
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,863
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,968 (98.6%) of 62,856 articles have been extended.
+61,968 (98.6%) of 62,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### பெண்கள் புழங்கும் இடங்களில் ஜன்னல் வைக்க தலிபான் தடை
+
+*2024-12-31 09:59:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெண்கள்-புழங்கும்-இடங்களில்-ஜன்னல்-வைக்க-தலிபான்-தடை/50-349542) · `ta`
+
+ஆப்கானிஸ்தானில் பெண்கள் பயன்படுத்தும் இடங்களில் உள்ள ஜன்னல்களுக்கு தடை விதித்துள்ளது தலிபான் அரசு. அதன்படி புதிதாக கட்டப்படும் வீடுகளில் பெண்கள் அதிகம் பயன்படுத்தும் இடங்களில் ஜன்னல்கள் கட்டக்கூடாது. மேலும், தற்போது உள்ள ஜன்னல்களை அடைக்கவும் உத்தரவு பிறப்பிக்கப்பட்டது.
+
+ஆப்கானிஸ்தானில் இருந்து அமெரிக்க படைகள் கடந்த 2021-ல் வெளியேறின. அதன் பின்னர் தலிபான்கள் ஆட்சியைக் கைப்பற்றினர். அதே நேரத்தில் கடந்த முறையைப் போல் தங்கள் ஆட்சி இருக்காது என்று அப்போது அவர்களே சொல்லி இருந்தனர்.
+
+பெண் கல்வி, பெண் சுதந்திரம் பேணப்படும் என்றும், உலக நாடுகளுடன் நட்புறவு ஏற்படுத்தப்படும் என்றும் அவர்கள் உறுதியளித்தனர். ஆனால், அந்த அறிவிப்புக்கு மாறாகவே அவர்களது செயல்பாடு இதுவரை இருந்து வருகிறது.
+
+...
+
+[Data](articles/691e8252.json)
+
+---
 
 ### அச்சக திணைக்களத்தின் இணையத்தளமும் முடக்கம்
 
@@ -185,6 +201,24 @@ The court issued the warrant due to the likelihood that Yoon will not respond to
 ...
 
 [Data](articles/40eaf32c.json)
+
+---
+
+### மாணவர்களுக்கும்  ரூ 6,000
+
+*2024-12-31 08:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கும்-ரூ-6-000/175-349538) · `ta`
+
+அஸ்வெசும திட்டத்தில் உள்வாங்கப்படாத ஏனைய தகுதியுடைய பாடசாலை மாணவர்களுக்கும் தலா 6,000 ரூபாவை வழங்குவது தொடர்பில் நிதியமைச்சு கவனம் செலுத்தி வருகிறது.
+
+இதன்படி, கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சு தேவையான நடவடிக்கைகளை முன்னெடுக்கும் என எதிர்பார்க்கப்படுவதாக நிதியமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அஸ்வெசும பயனாளிகளின் பிள்ளைகளுக்குப் பாடசாலை உபகரணங்களைக் கொள்வனவு செய்ய 6,000 ரூபாய் உதவித்தொகை வழங்கப்பட்டு வரும் நிலையில், அதனை அனைத்து பாடசாலை மாணவர்களுக்கும் வழங்குமாறு கடந்த சில நாட்களாக பல்வேறு தரப்பினரும் கோரிக்கை விடுத்து வருகின்றனர்.
+
+இந்த நிலையிலே, ஏனைய மாணவர்களுக்கும் குறித்த உதவித்தொகையினை வழங்குவது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/00246a9c.json)
 
 ---
 
@@ -1887,47 +1921,5 @@ Yoon Kap-keun, the president’s lawyer, denounced the detention attempt and fil
 ...
 
 [Data](articles/ddfefc7c.json)
-
----
-
-### මුහුදේ ගසාගෙනන ගිය 154 කුගේ දිවි බේරා ගෙන
-
-*2024-12-30 16:46:49* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-ගසාගෙනන-ගිය-154-කුගේ-දිවි-බේරා-ගෙන/11-413915) · `si`
-
-දිවයින වටා පිහිටි මුහුදු වෙරලේ විනෝදයට දිය නාමින් සිටියදී රල පහරට හසුව ගසාගෙන යමින් සිටි පුද්ගලයන් 154 කුගේ ජීවිත මෙම වසර තුළදී බේරා ගැනීමට හැකි වූ  බව ශ්‍රී ලංකා පොලිස් ජීවිත ආරක්ෂක නාවික කොට්ඨාසයේ ස්ථානාධිපති පොලිස් පරීක්ෂක ප්‍රභාත් විජේසිරි මහතා පැවසීය.
-
-ඉකුත්  ජනවාරි මස සිට මේ දක්වා මෙරට කුඩා දරුවන් 15 කු ඇතුළු පුද්ගලයන්  78 කු , මෙන්ම විදේශීය කුඩා දරුවන් 5 වෙනකු ඇතුළු 76 දෙනෙකුගේ දිවි එලෙස බේරාගෙන ඇතැයි  හෙතෙම පැවසීය.
-
-එම පිරිසගේ දිවි බේරා ගැනීමට දිවයින පුරා පිහිටි පොලිස් ජීවිත ආරක්ෂක  ඒකක 68 ක නිලධාරීන් 268 කු දිවි පරදුවට තබා කටයුතු කර ස්ථානාධිපතිවරයා වැඩිදුරටත් පැවසීය.
-
-පොලිස් ජීවිත ආරක්ෂක නාවික කොට්ඨාසයේ අධ්‍යක්ෂක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කමල් එන් ගුණවර්ධන මහතාගේ පූර්ණ උපදෙස් මත ස්ථානාධිපති පොලිස් පරීක්ෂක ප්‍රභාත් විජේසිරි මහත්වරුන්ගේ මග පෙන්වීම  අනුව  මෙම නිලධාරීන් කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/b991cd2c.json)
-
----
-
-### Chamari among nominees for ICC Women’s Cricketer of the Year 2024
-
-*2024-12-30 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104589/chamari-among-nominees-for-icc-womens-cricketer-of-the-year-2024) · `en`
-
-Three stylish all-rounders and a batting stalwart who enjoyed a stellar 2024 across formats make it to the nominees for the Rachael Heyhoe Flint Trophy for Women’s Cricketer of the Year.
-
-458 runs across nine ODIs, averaging 65.42, Highest score 195; 9 wickets, Best figures 3/15*
-
-720 runs across 21 T20Is, Averaging 40, Highest score 119; 21 wickets, Best figures 4/29*
-
-Sri Lanka’s all-format captain has been producing the goods with the bat for a long time now for her country.
-
-Athapathu is ranked among the top 10 players in the ICC Women’s rankings for batters and all-rounders in ODIs as well as T20Is, proving her mettle with both bat and ball.
-
-A stellar year with over 1000 runs across formats, picking up 30 wickets as well along the way has underlined her position as one of the most impactful players in women’s cricket.
-
-The 34-year-old was the Player of the Tournament for her 304 runs and three wickets at the Women’s Asia Cup in July, leading her side to their maiden crown.
-
-...
-
-[Data](articles/b10b304e.json)
 
 ---

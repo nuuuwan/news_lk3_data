@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 14:43:31**
+As of **2024-12-31 15:02:16**
 
 ## Newspaper Stats
 
-*Scraped **62,917** Articles*
+*Scraped **62,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,822
 economynextcom | 3,824
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,009
+adalk | 6,010
 adaderanalk | 7,692
-tamilmirrorlk | 9,030
+tamilmirrorlk | 9,031
 virakesarilk | 10,449
 adaderanasinhalalk | 10,874
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,917 articles have been extended.
+61,969 (98.5%) of 62,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### முல்லைத்தீவு முகாம் தடுப்பு மையமானது
+
+*2024-12-31 14:20:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லைத்தீவு-முகாம்-தடுப்பு-மையமானது/175-349565) · `ta`
+
+இலங்கை விமானப்படை முல்லைத்தீவு முகாமை "தடுப்பு மையமாக" பிரகடனப்படுத்தும் அதிவிசேட வர்த்தமானி அறிவித்தல் திங்கட்கிழமை (30) வெளியிடப்பட்டுள்ளது.
+
+இந்த வர்த்தமானி அறிவித்தல் பொது பாதுகாப்பு அமைச்சர்  ஆனந்த விஜேபாலவின் கையொப்பத்துடன் வெளியிடப்பட்டது.முல்லைத்தீவு விமானப்படைத் தளம் தடுப்பு முகாமாக செவ்வாய்க்கிழமை (31) முதல் இயங்கவுள்ளது.
+
+கடற்படையினரால் அண்மையில் மீட்கப்பட்ட 103 மியான்மர் அகதிகள் முல்லைத்தீவில் உள்ள விமானப்படை முகாமுக்கு தற்காலிக காவலில் வைக்கப்பட்டுள்ளனர்.
+
+நீதிமன்ற உத்தரவுக்கமைய மிரிஹான தடுப்பு முகாமில் தங்க வைக்கப்பட்டிருந்த போதிலும், மிரிஹான தடுப்பு முகாமில் போதிய தங்குமிட வசதிகள் இல்லாததால், இந்த அகதிகளை முல்லைத்தீவு விமானப்படைத் தளத்திற்கு அனுப்ப நடவடிக்கை எடுக்கப்பட்டது.
+
+◼️
+
+[Data](articles/1a60be58.json)
+
+---
 
 ### மாணவனை மிரட்டி 67,000 ரூபாய் கொள்ளை
 
@@ -940,6 +958,26 @@ Fort: Wimaladharmasuriya Clock Tower – Charmans car park, Rasik Farid Mawatha 
 
 ---
 
+### අවුරුදු 12ට අඩු ළමුන් වෙළඳ ප්‍රචාරණයට ගැනිම තහනම්
+
+*2024-12-31 09:57:08* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-12ට-අඩු-ළමුන්-වෙළඳ-ප්‍රචාරණයට-ගැනිම-තහනම්/11-413930) · `si`
+
+අවුරුදු 12ට අඩු ළමුන් වෙළඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරමින් ඊයේ (30දා) විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර ඇත.
+
+ඒ අනුව වයස අවුරුදු  12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරන බව එහි සඳහන් කර තිබේ.
+
+මේ අනුව 2025 ජනවාරි 01වනදා සිට ආරම්භ ළදරු ආහාර වට්ටෝරු, පසුව ලබා දෙන ආහාර ළදරු ආහාර වට්ටෝරු, ළදරුවන් සඳහා ලබා දෙන ආහාර නිෂ්පාදන, කුඩා දරුවන් සඳහා වන කිරි සහ කිරි ආශ්‍රිත නිෂ්පාදන ගැන ප්‍රචාරණය තහනම් වේ.
+
+එමෙන්ම ආහාර  ගැන සෘජුව හෝ වක්‍රව ගැබිණි මවක් හෝ කිරිදෙන මවක්, ළදරුවෙක් හෝ අවුරුදු 12 ට අඩු ළමයෙක් නියෝජනය වන ශ්‍රව්‍ය දෘශ්‍ය හෝ පින්තූර සහිත යම් ප්‍රචාරණයක්, නිෂ්පාදන ලේබලයක, මුද්‍රිත, ඉලෙක්ට්‍රොනික, සමාජ මාධ්‍ය හෝ වෙනයම් අයුරකින් ප්‍රචාරණය තහනම් වේ.
+
+...
+
+[Data](articles/d7d970b7.json)
+
+---
+
 ### அச்சக திணைக்களத்தின் இணையத்தளமும் முடக்கம்
 
 *2024-12-31 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202589) · `ta`
@@ -1839,31 +1877,5 @@ Themed ‘Empowering Lives through Insurance’, the conference focused on forti
 ...
 
 [Data](articles/4eff1203.json)
-
----
-
-### LKI – ICRC seminar discusses Contemporary Challenges Concerning AI and Autonomous Weapons Systems
-
-*2024-12-30 22:46:00* · [`islandlk`](http://island.lk/lki-icrc-seminar-discusses-contemporary-challenges-concerning-ai-and-autonomous-weapons-systems/) · `en`
-
-The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), in collaboration with the International Committee of the Red Cross (ICRC) hosted a panel discussion titled, ‘Artificial Intelligence (AI), Autonomous Weapons Systems (AWS) and Contemporary Challenges’ at the LKI Lighthouse Auditorium on 19 December 2024. It was attended by diplomats, representatives of International Organizations, senior officials of relevant Ministries and agencies, military personnel, leading researchers and university students.
-
-...
-
-[Data](articles/b064f81e.json)
-
----
-
-### Cleantech revolutionizes recycling with electric-powered E-Bikes
-
-*2024-12-30 22:44:00* · [`islandlk`](http://island.lk/cleantech-revolutionizes-recycling-with-electric-powered-e-bikes/) · `en`
-
-Cleantech (Pvt) Ltd, a leading provider of integrated waste management solutions, recently launched a ground-breaking project to encourage recycling and environmental sustainability in the suburban areas surrounding Rajagiriya, Angoda, Battaramulla, Narahenpita, and Kolonnawa.
-
-The main impact on these areas is a lack of recycling facilities and inappropriate waste dumping, which is a significant waste management issue. Taking this into account, Cleantech (Pvt) Ltd introduced an innovative electric bicycle fitted with a carriage, which is part of a pilot project, to deal with this matter. This e-bike will collect recyclable materials such as PET, plastic, electronic waste, and paper, directly from households and businesses in the area, which in turn, would help reduce pollution and promote a healtheir planet for future generations.
-
-...
-
-[Data](articles/08921520.json)
 
 ---

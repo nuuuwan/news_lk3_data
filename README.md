@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 05:27:34**
+As of **2024-12-31 05:51:50**
 
 ## Newspaper Stats
 
-*Scraped **62,816** Articles*
+*Scraped **62,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 462
 colombotelegraphcom | 637
 bbccomsinhala | 659
-islandlk | 3,810
 economynextcom | 3,818
+islandlk | 3,821
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,000
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,966 (98.6%) of 62,816 articles have been extended.
+61,966 (98.6%) of 62,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -226,6 +226,30 @@ To mark its arrival at the Jaya Container Terminal (JCT) of the Sri Lanka Ports 
 
 ---
 
+### Big scene for Ishini & The Branch
+
+*2024-12-30 23:01:00* · [`islandlk`](http://island.lk/big-scene-for-ishini-the-branch/) · `en`
+
+The festive season has been extra special for Ishini & The Branch as the spotlight has been focused on them on numerous occasions…and now they are in the Maldives, keeping the folks in that part of the world entertained.
+
+This is what the group’s dynamic female vocalist, Ishini Fonseka, had to say about their Christmas Eve performance: “What a beautiful audience! What a beautiful country.”
+
+They had to travel by seaplane to their destination (tourist resort) in the Maldives.
+
+Before their departure for the Maldives, Ishini & The Branch were seen and heard at most of the top venues, in Colombo.
+
+In addition to Ishini & The Branch, singer Sajith Gunaratna is in the Maldives, as well, with his band N-Chord, performing at Mercure Maldives Kooddoo Resort.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/4eed27c1.json)
+
+---
+
 ### The change in the next few days
 
 *2024-12-30 22:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-சில-நாட்களில்-ஏற்படவுள்ள-மாற்றம்/175-349520) · `ta`
@@ -267,6 +291,46 @@ In the morning, some parts of the upper, Sabaragamuwa, Central and Southern Prov
 ...
 
 [Data](articles/c08fdda6.json)
+
+---
+
+### Union Assurance triumphs with record-breaking wins
+
+*2024-12-30 22:46:00* · [`islandlk`](http://island.lk/union-assurance-triumphs-with-record-breaking-wins/) · `en`
+
+Union Assurance, Sri Lanka’s premier Life Insurer, achieved a monumental milestone at the 15th National Forum for Life Insurance Advisers (NAFLIA) Conference held recently at the Monarch Imperial. The prestigious event, organised by the Marketing and Sales Forum of the Insurance Association of Sri Lanka (IASL), brought together over 680 top professionals from the Life Insurance industry.
+
+Themed ‘Empowering Lives through Insurance’, the conference focused on fortitude and resilience in these challenging times, offering knowledge-sharing sessions designed to inspire and empower professionals within the Life Insurance sector.
+
+...
+
+[Data](articles/4eff1203.json)
+
+---
+
+### LKI – ICRC seminar discusses Contemporary Challenges Concerning AI and Autonomous Weapons Systems
+
+*2024-12-30 22:46:00* · [`islandlk`](http://island.lk/lki-icrc-seminar-discusses-contemporary-challenges-concerning-ai-and-autonomous-weapons-systems/) · `en`
+
+The Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI), in collaboration with the International Committee of the Red Cross (ICRC) hosted a panel discussion titled, ‘Artificial Intelligence (AI), Autonomous Weapons Systems (AWS) and Contemporary Challenges’ at the LKI Lighthouse Auditorium on 19 December 2024. It was attended by diplomats, representatives of International Organizations, senior officials of relevant Ministries and agencies, military personnel, leading researchers and university students.
+
+...
+
+[Data](articles/b064f81e.json)
+
+---
+
+### Bourse’s bullish exuberance sustained by banking sector
+
+*2024-12-30 22:42:00* · [`islandlk`](http://island.lk/bourses-bullish-exuberance-sustained-by-banking-sector/) · `en`
+
+The stock market was extremely bullish yesterday and banking sector counters drove the market due to prevailing market- friendly economic conditions.
+
+Both indices moved upwards. The All- Share Price Index went up by 291 points while S and P SL20 rose by 163 points.
+
+...
+
+[Data](articles/5e1cbb48.json)
 
 ---
 
@@ -1871,71 +1935,5 @@ CR450 අංක දරන එම දුම්රියෙහි ධාවන ව
 ◼️
 
 [Data](articles/eb0cd1b4.json)
-
----
-
-### முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ ஊடகப் பேச்சாளராக ரவீந்திர மனோஜ் கமகே நியமனம்
-
-*2024-12-30 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202533) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ ஊடகப் பேச்சாளராக கடந்த 20ஆம் திகதி சட்டத்தரணி ரவீந்திர மனோஜ் கமகே நியமிக்கப்பட்டுள்ளார்.
-
-இதற்கான நியமனக் கடிதம் இன்று திங்கட்கிழமை (30) விஜயராமவிலுள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் வைத்து சட்டத்தரணி ரவீந்திர மனோஜ் கமகேவிடம் கையளிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/7794d42f.json)
-
----
-
-### கொட்டாஞ்சேனையில் கேரள கஞ்சா, ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
-
-*2024-12-30 13:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202538) · `ta`
-
-கொழும்பு, கொட்டாஞ்சேனை பொலிஸ் பிரிவுக்கு உட்பட்ட சங்கமித்த மாவத்தை பகுதியில் கேரள கஞ்சா மற்றும் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் பொலிஸ் விசேட அதிரடிப்படையினரால் நேற்று ஞாயிற்றுக்கிழமை (29) கைது செய்யப்பட்டுள்ளார்.
-
-பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு கொட்டாஞ்சேனை பிரதேசத்தை சேர்ந்த 41 வயதுடையவர் ஆவார்.
-
-சந்தேக நபரிடமிருந்து 410 கிராம் கேரள கஞ்சா மற்றும் 08 கிராம் 60 மில்லி கிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
-
-இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக விசாரணைகளுக்காக கொட்டாஞ்சேனை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/e3dbafae.json)
-
----
-
-### මනෝජ් ගමගේ හිටපු ජනපති මහින්දගේ නිල මාධ්‍ය ප්‍රකාශක තනතුරට
-
-*2024-12-30 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204853) · `si`
-
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ නිල මාධ්‍ය ප්‍රකාශක ලෙස නීතිඥ රවින්ද්‍ර මනෝජ් ගමගේ මහතා පත්කර තිබේ.
-
-එම පත්වීම පසුගිය දෙසැම්බර් මස 20 වනදා සිට ක්‍රියාත්මක කර ඇති අතර, ඊට අදාළ පත්වීමේ ලිපිය අද (30) දින නීතිඥ මනෝජ් ගමගේ මහතා වෙත භාරදී ඇත.
-
-◼️
-
-[Data](articles/262cabf0.json)
-
----
-
-### மன்னாரில் அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி கையெழுத்துப் போராட்டம்
-
-*2024-12-30 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202531) · `ta`
-
-அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி மன்னாரில் கையெழுத்து போராட்டம் இன்று திங்கட்கிழமை (30) நடைபெற்றது.
-
-போராளிகள் நலன்புரி சங்கத்தின் ஏற்பாட்டில் மன்னார் பேருந்து தரிப்பிடத்தின் முன்பாக கையெழுத்துப் போராட்டம் நடைபெற்றது.
-
-பயங்கரவாத தடை சட்டத்தின் கீழ் கைது செய்யப்பட்டு நீண்ட காலமாக தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளையும் புனர்வாழ்வு அளிக்கப்பட்டு சமூகமயப்படுத்தப்பட்ட பின்னர் நீதி மன்றத்தினால் விடுதலை செய்யப்பட்ட பின்பும் மீண்டும் கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டுள்ள போராளிகளையும்  புதிய அரசாங்கம் விடுவிக்க வேண்டும் என வலியுறுத்தி கையெழுத்துப் போராட்டம் நடைபெற்றது.
-
-இதில் அருட்தந்தையர்கள், பொது அமைப்புகளின் பிரதிநிதிகள், மீனவ அமைப்புகளின் பிரதிநிதிகள், சமூக அமைப்புகளின் பிரதிநிதிகள் பொதுமக்கள் என பலரும் கலந்து கொண்டு கையெழுத்திட்டனர்.
-
-◼️
-
-[Data](articles/c1d234e4.json)
 
 ---

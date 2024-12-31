@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 10:43:28**
+As of **2024-12-31 11:02:10**
 
 ## Newspaper Stats
 
-*Scraped **62,864** Articles*
+*Scraped **62,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,818
 islandlk | 3,822
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,002
+adalk | 6,003
 adaderanalk | 7,681
-tamilmirrorlk | 9,016
+tamilmirrorlk | 9,018
 virakesarilk | 10,444
 adaderanasinhalalk | 10,865
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,865
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,968 (98.6%) of 62,864 articles have been extended.
+61,968 (98.6%) of 62,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### ஜனவரி 30 முதல் ஆரம்பம்
+
+*2024-12-31 10:51:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-30-முதல்-ஆரம்பம்/175-349549) · `ta`
+
+அரச பாடசாலைகள் மற்றும் அரசினால் அங்கீகரிக்கப்பட்ட தனியார் பாடசாலைகளில் (சிங்கள, தமிழ் மற்றும் முஸ்லிம் பாடசாலைகள்)  2025 ஆம் ஆண்டு முதலாம் வகுப்பில் சேரும் புதிய மாணவர்களுக்கான வகுப்புகள் 2025 ஜனவரி 30 (வியாழக்கிழமை) அன்று ஆரம்பமாகவுள்ளது.
+
+◼️
+
+[Data](articles/09959a7d.json)
+
+---
+
+### தாய் அருகில் உறங்கிய சிறுமி, பாலியல் பலாத்காரம்
+
+*2024-12-31 10:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தாய்-அருகில்-உறங்கிய-சிறுமி-பாலியல்-பலாத்காரம்/76-349548) · `ta`
+
+மொனராகலை , அம்பிட்டிய பிரதேசத்தில் குடும்பத்துடன்  உறங்கிக் கொண்டிருந்த 15  வயதுடைய  சிறுமியை பாலியல் பலாத்காரம் செய்த 35 வயதுடைய ஒருவர் திங்கட்கிழமை (30)  கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த சிறுமி, தனது தந்தை கொழும்பு பகுதியில் பணிபுரிந்து வரும் நிலையில் ஞாயிற்றுக்கிழமை( 29) இரவு தாய் மற்றும் சகோதரியுடன் ஒரே அறையில் கட்டில் ஓரத்தில் உறங்கிக் கொண்டிருந்துள்ளதுடன் அதிகாலையில் எழுந்த போது அவள் அருகில்  யாரோ அமர்ந்திருப்பதை உணர்ந்துள்ளார்.
+
+இதன்போது சந்தேக நபர்  வெள்ளைத் துணியால் முகத்தை மறைத்து இருந்த நிலையில் குறித்த சிறுமி சந்தேக நபரின் கையைப் பிடித்துக் கொண்டு கூச்சலிட்டுள்ளார்.
+
+அப்போது சந்தேக நபர், "கையை விடு" என்று கூறியதும், அவரது குரலில் இருந்து அவர் பந்துல என்ற நபர் என சிறுமி அடையாளம் கண்டதையடுத்து சந்தேக நபர் தப்பியோடி உள்ளார்.
+
+இது தொடர்பில் பொலிஸாருக்கு வழங்கப்பட்ட முறைப்பாட்டிற்கமைய வீட்டைச் சோதனையிட்டபோது, ​​சந்தேகநபர் சமையல் அறையின் கதவைத் திறந்து உள்ளே நுழைந்தது தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/ec0a177d.json)
+
+---
 
 ### නව හමුදාපති වැඩභාරගනී
 
@@ -1520,6 +1552,20 @@ Allegations of certain officials’ involvement in irregular activities within p
 
 ---
 
+### අමාත්‍යාංශ 24ක් සඳහා විමර්ශන කමිටු
+
+*2024-12-30 18:45:34* · [`adalk`](https://www.ada.lk/breaking_news/අමාත්‍යාංශ-24ක්-සඳහා-විමර්ශන-කමිටු/11-413923) · `si`
+
+අමාත්‍යාංශ 24 සඳහා විමර්ශන කමිටු පත් කිරීමේ යෝජනාවක් කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇතැයි වාර්තා වේ. ඒ අනුව පෙර ආණ්ඩුවල දී එම අමාත්‍යාංශවල සිදුව ඇති දූෂණ වංචා පිළිබඳව විමර්ශනය කිරීම සිදු කිරීමට නියමිතය.
+
+අදාළ අමාත්‍යාංශවල ඇති තොරතුරු මත පදනම්ව එම විමර්ශන සිදු කිරීමට නියමිත බවද වාර්තා වේ. එම යෝජනාවට ඊයේ (30දා) පැවති කැබිනට් මණ්ඩල රැස්වීමේ දී අනුමැතිය හිමිව ඇතැයි ද වාර්තා විය.
+
+◼️
+
+[Data](articles/7001216a.json)
+
+---
+
 ### අද සිට වැසි තත්ත්වයේ වැඩිවීමක්
 
 *2024-12-30 18:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204868) · `si`
@@ -1869,61 +1915,5 @@ In addition, legal action has been taken against 7,676 drivers for crimes includ
 ...
 
 [Data](articles/5df81c0d.json)
-
----
-
-### Sri Lanka rupee closes weaker at 292.55/75 to dollar, bonds steady
-
-*2024-12-30 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-55-75-to-dollar-bonds-steady-197018/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 292.55/75 to the US dollar on Monday from 292.40/70 on Friday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.40/55 percent, up from up 9.40/50 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.65/75 percent.
-
-A bond maturing on 15.05.2030 closed at 10.95/11.10 percent, from 11.00/10 percent. (Colombo/Dec307/2024)
-
-◼️
-
-[Data](articles/a0d74d63.json)
-
----
-
-### Colombo Chief Magistrate requests to transfer bribery case against ‘brother’ to another court
-
-*2024-12-30 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104591/colombo-chief-magistrate-requests-to-transfer-bribery-case-against-brother-to-another-court) · `en`
-
-Colombo Chief Magistrate Thilina Gamage has requested the Judicial Services Commission (JSC) to transfer to another court the hearings of the case filed by the Bribery Commission against two individuals including former Western Provincial Councilor Salochana Gamage for allegedly soliciting a bribe of Rs. 9 million.
-
-The Colombo Chief Magistrate has reportedly emphasized that his court is unable to proceed with the hearings of the said bribery case as Salochana Gamage, one of the defendants, is his brother and thereby poses a conflict of interest.
-
-Accordingly, he has requested the Judicial Services Commission in writing to appoint another suitable magistrate to proceed with the hearings related to the case.
-
-On Saturday (28), the Colombo Additional Magistrate ordered the two accused including former member of Western Provincial Council Salochana Gamage, who were arrested while accepting a bribe, to be remanded in custody until January 06, 2025.
-
-...
-
-[Data](articles/f24447ba.json)
-
----
-
-### Sri Lanka stocks close at fresh record high, financials lead
-
-*2024-12-30 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-at-fresh-record-high-financials-lead-197016/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange ended at a new record closing high on Monday led by financials in strong turnover, data on its site showed.
-
-The broader ASPI closed up 1.88 percent, or 291.79 points, at 15,827.39; while the more liquid S&P SL20 Index closed up 3.14 percent, or 146.79 points, at 4,813.38.
-
-“It is the bullish trend and we believe that trend to continue because the uncertainties that were there are being removed one by one,” Dimantha Mathew, Chief Research & Strategy Officer at First Capital Holdings PLC, told EconomyNext.
-
-“Interest rates are on further decline and investors are on the lookout for alternative investment. This is why we see heavy demand coming for equities. There is also expectation on foreigners coming into the market in the near future. So there is a huge boom in the market.”
-
-Bank and financial shares led the market gain and the turnover which was 10.2 billion rupees.
-
-...
-
-[Data](articles/3db84fde.json)
 
 ---

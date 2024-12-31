@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 09:27:34**
+As of **2024-12-31 09:43:52**
 
 ## Newspaper Stats
 
-*Scraped **62,844** Articles*
+*Scraped **62,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,002
 adaderanalk | 7,674
-tamilmirrorlk | 9,010
+tamilmirrorlk | 9,011
 virakesarilk | 10,442
 adaderanasinhalalk | 10,860
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,968 (98.6%) of 62,844 articles have been extended.
+61,968 (98.6%) of 62,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### மற்றுமொரு அரச இணையத்தளம் மீது சைபர் தாக்குதல்
+
+*2024-12-31 09:28:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-அரச-இணையத்தளம்-மீது-சைபர்-தாக்குதல்/175-349540) · `ta`
+
+இலங்கை அச்சகத் திணைக்களத்தின் இணையத்தளம் மீது சைபர் தாக்குதல் மேற்கொள்ளப்பட்டு அதன் தரவுகள் மாற்றப்பட்டுள்ளதாக  தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த சம்பவம் குறித்து இலங்கை கணினி அவசர பதிலளிப்பு மன்றம் விசாரணைகளை ஆரம்பித்துள்ளது.
+
+அச்சகத் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்தில் அனுமதியின்றி ஒருவர் பிரவேசித்துள்ளதாக அதன் பிரதான தகவல் பாதுகாப்பு அதிகாரி நிரோஷ் ஆனந்த தெரிவித்துள்ளார்.
+
+இதேவேளை, இலங்கை பொலிஸின் யூடியூப் சேனல் மீதும் சைபர் தாக்குதல் நடத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/1992113b.json)
+
+---
 
 ### 6,000 rupees for students: Finance Ministry Focus
 
@@ -1933,23 +1951,5 @@ At least 15 members, including the Chairman of the National People's Power, were
 ◼️
 
 [Data](articles/befd13da.json)
-
----
-
-### Over 7,600 drivers penalized for traffic offenses within 24 hours
-
-*2024-12-30 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104587/over-7600-drivers-penalized-for-traffic-offenses-within-24-hours) · `en`
-
-In a 24-hour special traffic operation that concluded at 6.00 a.m. today (30), Sri Lanka Police have enforced the law against 413 drunk drivers.
-
-Additionally, 49 drivers were charged for reckless and dangerous driving, 110 for speeding, and 1,086 for other traffic violations.
-
-In addition, another 694 drivers were penalized for license-related offenses, while 5,324 others faced fines for various other traffic offenses.
-
-In total, 7,676 drivers have been penalized for traffic violations.
-
-◼️
-
-[Data](articles/c98214ba.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 08:46:10**
+As of **2024-12-31 09:03:06**
 
 ## Newspaper Stats
 
-*Scraped **62,841** Articles*
+*Scraped **62,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,818
 islandlk | 3,822
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,001
+adalk | 6,002
 adaderanalk | 7,674
-tamilmirrorlk | 9,009
+tamilmirrorlk | 9,010
 virakesarilk | 10,442
 adaderanasinhalalk | 10,860
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,967 (98.6%) of 62,841 articles have been extended.
+61,967 (98.6%) of 62,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### மாணவர்களுக்கும் 6,000 ரூபாய்: நிதியமைச்சு கவனம்
+
+*2024-12-31 08:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கும்-6-000-ரூபாய்-நிதியமைச்சு-கவனம்/175-349538) · `ta`
+
+அஸ்வெசும திட்டத்தில் உள்வாங்கப்படாத ஏனைய தகுதியுடைய பாடசாலை மாணவர்களுக்கும் தலா 6,000 ரூபாவை வழங்குவது தொடர்பில் நிதியமைச்சு கவனம் செலுத்தி வருகிறது.
+
+இதன்படி, கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சு தேவையான நடவடிக்கைகளை முன்னெடுக்கும் என எதிர்பார்க்கப்படுவதாக நிதியமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அஸ்வெசும பயனாளிகளின் பிள்ளைகளுக்குப் பாடசாலை உபகரணங்களைக் கொள்வனவு செய்ய 6,000 ரூபாய் உதவித்தொகை வழங்கப்பட்டு வரும் நிலையில், அதனை அனைத்து பாடசாலை மாணவர்களுக்கும் வழங்குமாறு கடந்த சில நாட்களாக பல்வேறு தரப்பினரும் கோரிக்கை விடுத்து வருகின்றனர்.
+
+இந்த நிலையிலே, ஏனைய மாணவர்களுக்கும் குறித்த உதவித்தொகையினை வழங்குவது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/469d69a6.json)
+
+---
 
 ### රජයේ මුද්‍රණ දෙපාර්තමේන්තු නිල වෙබ් අඩවියටත් සයිබර් ප්‍රහාරයක්
 
@@ -1440,6 +1458,24 @@ In addition, legal action has been taken against 7,676 drivers for crimes includ
 
 ---
 
+### අකිලගේ පත්වීම් මහනුවරට ගැටලුවක් වී ඇති අයුරු
+
+*2024-12-30 17:16:15* · [`adalk`](https://www.ada.lk/breaking_news/අකිලගේ-පත්වීම්-මහනුවරට-ගැටලුවක්-වී-ඇති-අයුරු/11-413917) · `si`
+
+මහනුවර දිස්ත්‍රික්කයේ ඇති පළාත් සභා පාසල් වලට එකදු හෝ කම්කරු සේවකයෙකු නොමැතිව සිටියදී මහනුවර ඇති ජාතික පාසල්වල කම්කරු සේවකයන් 10-25 ත් අතර පිරිසක් සිටින බව පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව කියයි.
+
+මෙම කම්කරු සේවකයන් පසුගිය යහපාලන ආණ්ඩුව කාලයේදී අකිල විරාජ් කාරියවසම් මහතා අධ්‍යාපන ඇමතිවරයා වශයෙන් සිටියදී කුලියාපිටිය ඇතුළු ප්‍රදේශවලින් කම්කරු සේවයට බඳවාගෙන මහනුවර ජාතික පාසල් වලට අනුයුක්ත කොට ඇති බව පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව චෝදනා කරයි.
+
+මෙම කම්කරුවන්ට මහනුවර දක්වා පැමිණ සේවයට වාර්තා කිරීමට ලංගම බස් රථයක්ද  යෙදවීමට එවකට සිටි පාලකයන් ක්‍රියාකොට තිබූ අතර ඔවුන් බොහෝ දෙනා දේශපාලන හිතවත්කම් මත එසේ පත්වීම් ලද අය බවද කියයි.
+
+මෙම කම්කරු සේවකයන්බොහෝ දෙනෙකු මේ වන විට අනධ්‍යයන සේවක අනුයුක්ත පදනම මත කුරුණෑගල දිස්ත්‍රික්කයේ පාසල්වල සේවය කරමින් සිටින අතරඔ වුන් වැටුප් ලබා ගැනීම මහනුවර දිස්ත්‍රික්කයේ පත්වීම ලද පාසලෙන් සිදු කරන බවද පළාත් අධ්‍යාපන කාර්යාලය කියයි.
+
+...
+
+[Data](articles/5df81c0d.json)
+
+---
+
 ### Sri Lanka rupee closes weaker at 292.55/75 to dollar, bonds steady
 
 *2024-12-30 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-55-75-to-dollar-bonds-steady-197018/) · `en`
@@ -1911,37 +1947,5 @@ In total, 7,676 drivers have been penalized for traffic violations.
 ◼️
 
 [Data](articles/5dcbe7ef.json)
-
----
-
-### Kamindu Mendis among nominees for ICC Men’s Test Cricketer of the Year
-
-*2024-12-30 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104586/kamindu-mendis-among-nominees-for-icc-mens-test-cricketer-of-the-year) · `en`
-
-Two England batting mainstays, India’s pace spearhead, and a new star in Sri Lankan ranks make for a glittering list of nominees for ICC Men’s Test Cricketer of The Year.
-
-2024 saw the former England captain continue his impressive run in the longest format of the game.
-
-Across 17 Tests, Joe Root compiled his second-best annual run-tally in Tests - second only to his 1708 runs from 2021. It was also the fifth instance of Root scoring over 1000 Test runs in a calendar year.
-
-With six Test hundreds to go alongside five half-centuries, Root was a consistent performer for England - both home and away. His impressive run with the bat saw Root amass joint-fifth highest tons in Tests (36) alongside Rahul Dravid.
-
-In addition to his batting exploits, Root also provided an extra spin option, and impressed with a four-wicket haul in the marquee series against India.
-
-...
-
-[Data](articles/58a99359.json)
-
----
-
-### பாராளுமன்ற உறுப்பினர்களின் கள விஜயங்கள்
-
-*2024-12-30 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202561) · `ta`
-
-ஒரு நாட்டு மக்­க­ளுக்கு சுகா­தா­ரமும், கல்­வியும் சிறப்­பாக அமைய வேண்டும். ஆனால், இவை சிறப்­பாக இருக்­கின்­றதா? அதற்­கு­ரிய நட­வ­டிக்­கைகள் எடுக்­கப்­பட்­டுள்­ளதா? என்றால் எது­வு­மில்லை. வைத்­தி­ய­சா­லை­களில் கட­மை­யாற்­று­கின்ற வைத்­தி­யர்கள், தாதிகள் மற்றும் ஏனைய உத்­தி­யோ­கத்­தர்கள், ஊழி­யர்கள் போன்­ற­வர்­களை பொருத்­த­வரை குறை­பா­டுகள் உள்ள போதிலும் சேவைகள் நடை­பெற்றுக் கொண்­டி­ருக்­கின்­றன.
-
-◼️
-
-[Data](articles/704e2b05.json)
 
 ---

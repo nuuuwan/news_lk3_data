@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 05:51:50**
+As of **2024-12-31 06:13:34**
 
 ## Newspaper Stats
 
-*Scraped **62,827** Articles*
+*Scraped **62,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 462
 colombotelegraphcom | 637
 bbccomsinhala | 659
 economynextcom | 3,818
-islandlk | 3,821
+islandlk | 3,822
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,000
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,854
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,966 (98.6%) of 62,827 articles have been extended.
+61,966 (98.6%) of 62,828 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -240,11 +240,11 @@ Before their departure for the Maldives, Ishini & The Branch were seen and heard
 
 In addition to Ishini & The Branch, singer Sajith Gunaratna is in the Maldives, as well, with his band N-Chord, performing at Mercure Maldives Kooddoo Resort.
 
+Preserving Ruhuna’s legacy: Suriya Jayalath Perera’s vision for Sri Lanka’s wilderness
+
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
 
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
+...
 
 [Data](articles/4eed27c1.json)
 
@@ -317,6 +317,20 @@ The Lakshman Kadirgamar Institute of International Relations and Strategic Studi
 ...
 
 [Data](articles/b064f81e.json)
+
+---
+
+### Cleantech revolutionizes recycling with electric-powered E-Bikes
+
+*2024-12-30 22:44:00* · [`islandlk`](http://island.lk/cleantech-revolutionizes-recycling-with-electric-powered-e-bikes/) · `en`
+
+Cleantech (Pvt) Ltd, a leading provider of integrated waste management solutions, recently launched a ground-breaking project to encourage recycling and environmental sustainability in the suburban areas surrounding Rajagiriya, Angoda, Battaramulla, Narahenpita, and Kolonnawa.
+
+The main impact on these areas is a lack of recycling facilities and inappropriate waste dumping, which is a significant waste management issue. Taking this into account, Cleantech (Pvt) Ltd introduced an innovative electric bicycle fitted with a carriage, which is part of a pilot project, to deal with this matter. This e-bike will collect recyclable materials such as PET, plastic, electronic waste, and paper, directly from households and businesses in the area, which in turn, would help reduce pollution and promote a healtheir planet for future generations.
+
+...
+
+[Data](articles/08921520.json)
 
 ---
 
@@ -1919,21 +1933,5 @@ CR450 අංක දරන එම දුම්රියෙහි ධාවන ව
 ◼️
 
 [Data](articles/9b6dea35.json)
-
----
-
-### නවසීලන්තයෙන් ශ්‍රී ලංකාවට ලකුණු 187ක ඉලක්කයක්
-
-*2024-12-30 13:36:54* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයෙන්-ශ්‍රී-ලංකාවට-ලකුණු-187ක-ඉලක්කයක්/9-413911) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර දෙවැනි විස්සයි 20 තරගය දැන් පැවැත්වේ.
-
-ඒ අනුව තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 186ක් රැස් කළේය.
-
-ඒ අනුව තරගය ජයග්‍රහණය කිරීමට නම් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 187ක් රැස් කරගත යුතු වේ.
-
-◼️
-
-[Data](articles/eb0cd1b4.json)
 
 ---

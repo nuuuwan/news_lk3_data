@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 22:16:24**
+As of **2024-12-31 22:28:26**
 
 ## Newspaper Stats
 
-*Scraped **62,986** Articles*
+*Scraped **62,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,018
-adaderanalk | 7,702
+adaderanalk | 7,703
 tamilmirrorlk | 9,040
 virakesarilk | 10,469
-adaderanasinhalalk | 10,887
+adaderanasinhalalk | 10,888
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,986 articles have been extended.
+61,969 (98.4%) of 62,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### 2024 වසරේ මතක එක පෙළට
+
+*2024-12-31 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204915) · `si`
+
+සෑම අලුත් අවුරුද්දක්ම ආරම්භ වන්නේ පෙර වසරේ විශේෂ සිදුවීම්වල මතකත් ද සමගිනි.
+
+2025 වසර උදාවීමට ළං වෙද්දී 2024 අවුරුද්දේ විශේෂ සිදුවීම් එක පෙළට ඉහතින් නරඹන්න.
+
+◼️
+
+[Data](articles/57b85ee2.json)
+
+---
 
 ### எரிபொருட்களின் விலையில் மாற்றம்?
 
@@ -50,13 +64,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Kerosene price reduced; other fuels unchanged
+
+*2024-12-31 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104629/kerosene-price-reduced-other-fuels-unchanged) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has announced a revision of Kerosene price effective from midnight today (31).
+
+Accordingly, the price of Kerosene has been reduced by Rs. 05 to Rs. 183 per litre.
+
+However, the prices of Petrol 92 Octane, Petrol 95 Octane, Auto Diesel and Lanka Super Diesel will remain unchanged, according to Ceypetco.
+
+UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have decided to follow the same fuel price revisions as the CEYPETCO, to match the state-owned oil company’s prices.
+
+◼️
+
+[Data](articles/29931ad7.json)
+
+---
+
 ### ඉන්ධන මිල සංශෝධනය ගැන දැනුම්දෙයි - භූමිතෙල් මිල අඩු කෙරේ
 
 *2024-12-31 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204914) · `si`
 
-අද (31) මධ්‍යම රාත්‍රි 12 සිට බලපැවැත්වෙන පරිදි ක්‍රියාත්මක ඉන්ධන මිල ගණන් සම්බන්ධයෙන්  ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනයක් නිකුත් කර තිබේ.
+අද (31) මධ්‍යම රාත්‍රි 12 සිට බලපැවැත්වෙන පරිදි ක්‍රියාත්මක ඉන්ධන මිල ගණන් සම්බන්ධයෙන් ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනයක් නිකුත් කර තිබේ.
 
 භූමිතෙල් මිල රුපියල් 5කින් පහත දමා ඇති අතර එහි නව මිල රුපියල් 183ක් වේ.
+
+මේ අතර ලංකා IOC සහ සයිනොපෙක් සමාගම් ද දැනුම් දී ඇත්තේ සිපෙට්කෝ ඉන්ධන මිල සංශෝධනය අනුව කටයුතු කරන බවය.
 
 ◼️
 
@@ -78,7 +112,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ ට මාරුවීමක්
+### කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ ට මාරුවක්
 
 *2024-12-31 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204913) · `si`
 
@@ -1751,37 +1785,5 @@ As part of this plan, parking on Galle Middle Road will be prohibited on Decembe
 ...
 
 [Data](articles/44353d5e.json)
-
----
-
-### සයිබර් ප්‍රහාරයක්
-
-*2024-12-31 11:19:34* · [`adalk`](https://www.ada.lk/breaking_news/සයිබර්-ප්‍රහාරයක්/11-413932) · `si`
-
-රජයේ මුද්‍රණ දෙපාර්ථමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක් එල්ල වී ඇති බව වර්ථා වනවා.
-
-මුද්‍රණ දෙපාර්ථමේන්තුවේ නිල වෙබ් අඩවියට කිසියම් පුද්ගලයකු විසින් අනවසරයෙන් පිවිස ඇතිබව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ප්‍රධාන ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා ප්‍රකාශ කර සිටියේය.
-
-මේ වන විට ඒ් පිලිබඳ පුළුල් විමර්ශණයක් ආරම්භකොට ඇති බව වැඩි දුරටත් ඒ මහතා පැවසීය.
-
-◼️
-
-[Data](articles/0d2e94b3.json)
-
----
-
-### SC delivers verdict in petitions against govt’s decision on 2024 Scholarship Exam
-
-*2024-12-31 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104610/sc-delivers-verdict-in-petitions-against-govts-decision-on-2024-scholarship-exam) · `en`
-
-The Supreme Court has declared that the fundamental human rights have been violated through the government’s decision to award free marks to all students for the three questions of the 2024 Grade 05 Scholarship Examination which are alleged to have been leaked.
-
-Accordingly, the court also ordered the Commissioner General of Examinations to immediately implement a suitable recommendation out of the three recommendations made by the experts’ committee appointed to look into the matter.
-
-Additionally, the judge bench also ordered the suspects who have allegedly assisted in leaking the three questions of the question paper ii of the 2024 Grade 05 Scholarship Examination to pay compensation to the government.
-
-...
-
-[Data](articles/9db5438b.json)
 
 ---

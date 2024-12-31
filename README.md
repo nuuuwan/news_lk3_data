@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 17:27:46**
+As of **2024-12-31 17:44:59**
 
 ## Newspaper Stats
 
-*Scraped **62,952** Articles*
+*Scraped **62,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 3,822
 economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,012
+adalk | 6,013
 adaderanalk | 7,698
 tamilmirrorlk | 9,036
 virakesarilk | 10,456
-adaderanasinhalalk | 10,880
+adaderanasinhalalk | 10,881
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,952 articles have been extended.
+61,969 (98.4%) of 62,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### 2024 වැඩිම පිරිසක් විදෙස් රැකියා සඳහා ගිය වසර බවට පත්වෙයි
+
+*2024-12-31 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204908) · `si`
+
+2024 වර්ෂය මෙරට ඉතිහාසයේ වැඩිම පිරිසක් රැකියා සඳහා විදේශ ගත වූ වසර බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.
+
+මේ වසර තුළ පුද්ගලයින්  312,836 දෙනෙකු රැකියා සඳහා විදේශ ගතව ඇති බව එම කාර්යාංශය සඳහන් කළේය.
+
+ඒ අතර පිරිමි ශ්‍රමිකයින් 185,162 හා කාන්තාවන් 127,674 ක් වන බව සඳහන් වේ.
+
+මීට පෙර වැඩිම පිරිසක් විදේශ ගතවී ඇත්තේ 2022 වර්ෂයේ වන අතර, පසුගිය වසර 6 තුළ ශ්‍රී ලාංකිකයින් ලක්ෂ 13ක් රැකියා සඳහා විදෙස් ගතවී තිබේ.
+
+◼️
+
+[Data](articles/b4a9da54.json)
+
+---
 
 ### ஏப்ரல் மாதத்திற்குள் A/L பெறுபேறுகள் வெளியீடு
 
@@ -61,6 +79,20 @@ Locals in Kiritimati welcome the fresh dawn of the new year, creating an atmosph
 ...
 
 [Data](articles/fee42037.json)
+
+---
+
+### ශ්‍රේෂ්ඨාධිකරණ තීන්දුවත් සමග ශිෂ්‍යත්ව විභාගය ගැන විභාග දෙපාර්තමේන්තුව ගන්න යන තීරණය
+
+*2024-12-31 16:14:39* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-තීන්දුවත්-සමග-ශිෂ්‍යත්ව-විභාගය-ගැන-විභාග-දෙපාර්තමේන්තුව-ගන්න-යන-තීරණය/11-413936) · `si`
+
+05 වසර ශිෂ්‍යත්ව විභාගය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් නියෝගය අනුව විකල්ප 03 අතරින් වඩාත්ම සුදුසු විකල්පය කුමක්ද යන්න පිළිබඳ තවදුරයත් අධ්‍යනය කර තීරණයක් ලබා දෙන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
+
+අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/045b0d08.json)
 
 ---
 
@@ -1801,43 +1833,5 @@ In this case, focus on providing scholarships to other students. (A)
 [Data](articles/469d69a6.json)
 
 [Extended Data](ext_articles/469d69a6.ext.json)
-
----
-
-### Constitutional Council to convene at Parliament today
-
-*2024-12-31 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104602/constitutional-council-to-convene-at-parliament-today-) · `en`
-
-The Constitutional Council (CC) is scheduled to meet at 11.00 a.m. today (31) at the Parliament complex, chaired by Speaker Dr. Jagath Wickramaratne.
-
-This will be the second meeting of the Constitutional Council since the new Parliament was elected.
-
-During the session, the council is expected to review the proposals it has received.
-
-It is also reported that the Constitutional Council has not yet approved the appointment of Acting IGP Priyantha Weerasooriya, and this matter will be addressed in today’s meeting.
-
-◼️
-
-[Data](articles/de547f7b.json)
-
----
-
-### රජයේ මුද්‍රණ දෙපාර්තමේන්තු නිල වෙබ් අඩවියටත් සයිබර් ප්‍රහාරයක්
-
-*2024-12-31 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204884) · `si`
-
-රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට ද සයිබර් ප්‍රහාරයක් එල්ල වී තිබේ.
-
-ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා සඳහන් කළේ, කිසියම් පුද්ගලයෙකු මුද්‍රණ දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට අනවසරයෙන් පිවිස ඇති බවය.
-
-මේ වන විට එම වෙබ් අඩවිය වෙනත් බාහිර පාර්ශවයක් විසින් භාවිත කරමින් සිටින බවට නිරීක්ෂණය වන බව ද ඔහු සඳහන් කළේය.
-
-කෙසේවෙතත් මේ වනවිට එම සිදුවීම සම්බන්ධයෙන් විමර්ශනයක් ආරම්භ කර ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා පැවසුවේය.
-
-මේ අතර ශ්‍රී ලංකා පොලීසියේ යූ ටියුබ් නාළිකාවට ද සයිබර් ප්‍රහාරයක් එල්ල වී තිබේ.
-
-◼️
-
-[Data](articles/33a885d5.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 16:02:19**
+As of **2024-12-31 16:15:33**
 
 ## Newspaper Stats
 
-*Scraped **62,929** Articles*
+*Scraped **62,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,108 @@ economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,011
-adaderanalk | 7,692
-tamilmirrorlk | 9,034
-virakesarilk | 10,449
+adaderanalk | 7,694
+tamilmirrorlk | 9,035
+virakesarilk | 10,456
 adaderanasinhalalk | 10,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,929 articles have been extended.
+61,969 (98.5%) of 62,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### 2024இல் கவனம் ஈர்த்தவர்களில் அனுரவும் இடம்​பிடிப்பு
+
+*2024-12-31 16:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/2024இல்-கவனம்-ஈர்த்தவர்களில்-அனுரவும்-இடம்-பிடிப்பு/50-349574) · `ta`
+
+சபதம் வென்ற டிரம்ப்: 2020 ஜனாதிபதித் தேர்தலில் தோல்வியடைந்து, அதிருப்தியுடனும் ஆர்ப்பாட்டத்துடனும் வெள்ளை மாளிகையிலிருந்து வெளியேறிய டொனால்டு டிரம்ப், “மீண்டும் ஜனாதிபதியாவேன்” எனச் சபதமிட்டு, 2024இல் அதை நிறைவேற்றியும் காட்டிவிட்டார். குடியேற்றக் கொள்கையில் மாற்றம், இறக்குமதி வரி அதிகரிப்பு என இப்போதே உலக நாடுகளுக்குக் குடைச்சலும் கொடுக்கத் தொடங்கிவிட்டார்.
+
+அண்டை சண்டை: இந்தியாவின் அண்டை நாடான வங்கதேசத்தில், ஷேக் ஹசீனா தலைமையிலான அரசு கடந்த ஆகஸ்ட் மாதம் கவிழ்ந்தது. வங்கதேச விடுதலைப் போரில் ஈடுபட்டவர்களின் உறவினர்களுக்கு இடஒதுக்கீடு வழங்கப்படும் என்கிற அறிவிப்புக்கு எதிராக மாணவர்கள் நடத்திய போராட்டம் அந்நாட்டின் தலையெழுத்தையே மாற்றிவிட்டது. அது இந்துக்கள் உள்ளிட்ட சிறுபான்மையினரையும் பாதித்திருக்கிறது. ஹசீனா இந்தியாவில் தஞ்சம் புகுந்திருக்கிறார்.
+
+...
+
+[Data](articles/e3a0f1a3.json)
+
+---
+
+### உண்மை சம்பவத்தை தழுவி தயாராகும் 'துணிந்தவன்'
+
+*2024-12-31 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202624) · `ta`
+
+புதுமுக குழந்தை நட்சத்திரம் காஷ்மீரா கதையின் நாயகியாக முக்கியமான வேடத்தில் நடித்திருக்கும் 'துணிந்தவன்' எனும் திரைப்படம்- உண்மை சம்பவத்தை தழுவி தயாராகி இருக்கிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
+
+இயக்குநர்கள் சுஜீஷ் தக்ஷணா காசி, ஹரி நாராயணன் ஆகியோர் இணைந்து இயக்கி வரும் 'துணிந்தவன்' எனும் திரைப்படத்தில் இந்திரன், ஜாபர், ஜோனி ஆண்டனி, ஐ. என். விஜயன், சுதீஷ், டயானா ஹமீத், அபர்ணா சிவதாஸ் இவர்களுடன் அறிமுக குழந்தை நட்சத்திரம் காஷ்மீரா ஆகியோர் நடித்துள்ளனர்.
+
+செல்வகுமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு உன்னி நம்பியார் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை  தெக்ஷணா காசி புரொடக்ஷன்ஸ் எனும் நிறுவனம் தயாரித்திருக்கிறது.
+
+படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' பெண்களுக்கு எதிரான பாலியல் குற்றங்கள் தொடர்ந்து அதிகரித்த வண்ணம் உள்ளது.
+
+அண்மையில் பத்து வயது பெண்ணிற்கு ஏற்பட்ட பாலியல் அத்துமீறல் கொடுமையை மையமாகக் கொண்டு இப்படத்தின் கதை உருவாக்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/b6ba9a45.json)
+
+---
+
+### பாடகி சைந்தவியின் குரலில் ஒலிக்கும் 'மெஸன்ஜர் ' பட பாடல்
+
+*2024-12-31 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202630) · `ta`
+
+'கன்னி மாடம்' பட புகழ் நடிகர் ஸ்ரீ ராம் கார்த்திக் கதையின் நாயகனாக நடிக்கும் 'மெஸன்ஜர்' எனும் திரைப்படத்தில் இடம்பெற்ற ' ஒன் சைடா வளர்த்தேன் உள்ளே.. ' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் ரமேஷ் இளங்காமணி இயக்கத்தில் உருவாகி வரும் 'மெஸன்ஜர் 'எனும் திரைப்படத்தில் ஸ்ரீ ராம் கார்த்திக் , மனிஷா ஜெஷ்வானி, பாத்திமா நஹும், லிவிங்ஸ்டன் , ஜீவா ரவி , கூல் சுரேஷ் , பிரியதர்ஷினி ராஜ்குமார் , ஆர். கோதண்டன், வைஷாலி ரவிச்சந்திரன், ராஜேஸ்வரி, யமுனா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+ஆர். பால கணேசன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எம். அபுபக்கர் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை பி வி கே ஃபிலிம் ஃபேக்டரி நிறுவனம் சார்பில் தயாரிப்பாளர் பி. விஜயன் தயாரித்திருக்கிறார்.
+
+அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருக்கும் இந்தத் திரைப்படத்தில் இடம்பெற்ற  '' ஒன் சைடா வளர்த்தேன் உள்ளே  இதை எப்படி நானும் சொல்லஎன் ஆசைக்கு இருக்கு எல்ல
+
+அத கண்டேனே உனக்குள்ள...''  எனும்  புதிய பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/98e3c371.json)
+
+---
+
+### சிகிரியாவுக்கு வருகை தரும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கை அதிகரிப்பு!
+
+*2024-12-31 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202615) · `ta`
+
+சிகிரியா பிரதேசத்திற்கு விடுமுறைகாலமான இந்த நாட்களில் உள்நாட்டு மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் அதிக எண்ணிக்கையில்  வருகை தருவதாக மத்திய கலாசார நிதியத்தின் சிகிரியா திட்ட முகாமையாளர் துசித ஹேரத் தெரிவிக்கின்றார்.
+
+கடந்த 22ஆம் திகதி முதல் நாளாந்தம் இலங்கைக்கு வரும் வெளிநாட்டு சுற்றுலாப் பயணிகளின் எண்ணிக்கை தொடர்ச்சியாக 10 ஆயிரத்தைக் கடந்துள்ளதாக சுற்றுலாத்துறை அமைச்சு தெரிவித்துள்ளது.
+
+இலங்கை, சுற்றுலாப் பயணிகளை ஈர்க்கும் நிலப்பரப்பையும், உயிர் பல்வகைமை மற்றும் மத, கலாசார விழுமியங்களைக் கொண்ட ஒரு நாடாக இருப்பதால் இங்கு அதிகளவு சுற்றுலாத் துறையினர் வௌியில் இருந்து வருவதாகவும் தெரிவிக்கப்படுகிறது.
+
+பல நாடுகளில் குளிர் காலநிலை நிலவுகின்ற நிலையில், பூமத்திய ரேகைக்கு அருகில் இலங்கை அமைந்துள்ள காரணத்தால்  இந்த நாட்டில் சிறந்த காலநிலை, வானிலை போன்றன காணப்படுகிறது. இதனால் அதிக சுற்றுலாப் பயணிகளை ஈர்த்துள்ளது.
+
+...
+
+[Data](articles/faa86b5d.json)
+
+---
+
+### நெல் ஆலை உரிமையாளர்களுக்கு நெற் கொள்வனவுக்கான  50 மில்லியன் அடகுக் கடன் முறைமை - அரசாங்கம்
+
+*2024-12-31 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/202619) · `ta`
+
+நெற் கொள்வனவுக்கான அடகுக் கடன் முறைமை 2024/2025  ஐ பெரும்போகத்திலிருந்து வருடாந்த வேலைத்திட்டமாக நடைமுறைப்படுத்தும் யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+நெல் அறுவடைக்கான நியாயமான விலையை உறுதிப்படுத்தல் மற்றும் சிறு,  நடுத்தர நெல் ஆலை உரிமையாளர்களை பலப்படுத்தும் நோக்கில் சலுகை வட்டி வீதத்தில் அரச வங்கிகள் மூலமாக அடகுக் கடன் முறையொன்று கடந்த 2023ஆம் ஆண்டு ஆகஸ்ட் 14ஆம் திகதி இடம்பெற்ற அமைச்சரவைக் கூட்டத்தில் தீர்மானிக்கப்பட்டுள்ளது.
+
+கடந்த போகங்களில் இவ்வேலைத்திட்டம் சிறந்த பெறுபேறுகளை அடைந்துள்ளமையை அவதானிக்கக் கூடியதாகவுள்ளமையால், 2024/25 பெரும்போகம் தொடக்கம் ஒவ்வொரு போகத்திலும் இவ்வேலைத்திட்டத்தை நடைமுறைப்படுத்துவது பொருத்தமானதெனக் கண்டறிப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c7be48fe.json)
+
+---
 
 ### Sri Lanka stocks end 2024 in green
 
@@ -116,6 +204,66 @@ Under the agreement signed with political leadership the agency can create up to
 
 ---
 
+### Sri Lanka Customs clears 79,000 MT of imported rice
+
+*2024-12-31 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104620/sri-lanka-customs-clears-79000-mt-of-imported-rice) · `en`
+
+Sri Lanka Customs has reported that as of 12 noon today (31), a total of 79,000 metric tonnes of imported rice have been cleared through customs.
+
+Sri Lanka Customs Media Spokesperson and Additional Director General, Seevali Arukgoda, stated that out of this total, 31,000 MT are raw rice, while 48,000 MT are parboiled rice.
+
+Additionally, this stock includes 780 metric tonnes of rice imported by the Sri Lanka State Trading Corporation, according to Sri Lanka Customs.
+
+◼️
+
+[Data](articles/f944fe3a.json)
+
+---
+
+### தெல்தெனியவில் சூதாட்ட நிலையம் சுற்றிவளைப்பு ; 13 வர்த்தகர்கள் கைது !
+
+*2024-12-31 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202617) · `ta`
+
+தெல்தெனிய பிரதேசத்தில் உள்ள திகன என்ற இடத்தில் மிகவும் பாதுகாப்பான முறையில் கட்டிடம் ஒன்றை அமைத்து வர்த்தகர்கள் பலர் இணைந்து நடத்தி வந்த சூதாட்ட நிலையம் ஒன்றை மெனிக்கின்ன பொலிஸார் இன்று செவ்வாய்க்கிழமை (31) முற்றுகையிட்டு 13 வர்த்தகர்களைக் கைது செய்துள்ளனர்.
+
+மேற்படி சூதாட்ட நிலையம் சுற்றி வர மதிற் சவர் கட்டப்பட்டு பிரதான வாயிலில் இரும்பு கடவை போடப்பட்டு யாரும் உற்பிரவேசிக்க முடியாத நிலையில் அமைக்கப்பட்டு இரகசியமான முறையில் சூதாட்டம் இடம் பெற்று வந்துள்ளது.
+
+மேற்படி கைதின் போது சூதாட்டத்தில் பயன் படுத்தப்பட்ட 31 ஆயிரம் ரூபா ரொக்கப்பணமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+தெல்தெனிய பொலிஸ் அத்தியட்சகர் ரொசான் அமரசிங்கவிற்கு கிடைத்த முறைப்பாட்டின் படி மெனிக்கின்ன பொலிஸ் நிலையப் பொறுப்பதிகாி பிரதான பொலிஸ் பரிசோதகர் டி.எம். சந்திரபால தலைமையிலான குழுவினரே மேற்படி முற்றுகையை மேற்கொண்டனர்.
+
+◼️
+
+[Data](articles/5e8cf9ca.json)
+
+---
+
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2024-12-31 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202618) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (31) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.3293 ரூபா  ஆகவும்  விற்பனை விலை 297.0162 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a3881dbe.json)
+
+---
+
+### அநுராதபுரத்தில் மதுபோதையில் வாகனம் செலுத்திய 78 பேர் கைது !
+
+*2024-12-31 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202614) · `ta`
+
+அநுராதபுரம் பொலிஸ் வலயத்தில் மேற்கொள்ளப்பட்ட விசேட வாகன பரிசோதனையின் போது மதுபோதையில் வாகனம் செலுத்திய 78 பேரை பொலிஸார் கைது செய்துள்ளனர் என வலய போக்குவரத்து பிரிவின் உயர் பொலிஸ்  அதிகாரி ஒருவர் தெரிவித்தார்.
+
+பண்டிகைக் காலத்தில் விபத்துக்களை கட்டுப்படுத்தும் நோக்கில் பதில் பொலிஸ் மா அதிபர் அவர்களின் ஆலோசனைக்கு அமைவாக  நாடளாவிய ரீதியில் மேற்கொள்ளப்படும் விசேட வாகன பரிசோதனைக்கு அமைவாக கடந்த 24 ஆம் திகதி தொடக்கம் 30 ஆம் திகதி வரையான காலப்பகுதியில் அநுராதபுரம் பொலிஸ் வலயத்தின் 28 பொலிஸ் நிலையங்களை மையப்படுத்தி மேற்கொள்ளப்பட்ட விசேட வாகன பரிசோதனையின் போதே மதுபோதையில் வாகனம் செலுத்திய 78 சாரதிகளை பொலிஸார் கைது செய்துள்ளனர்.
+
+...
+
+[Data](articles/6eeaeebc.json)
+
+---
+
 ### Sri Lanka to continue loan scheme for small paddy millers
 
 *2024-12-31 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-continue-loan-scheme-for-small-paddy-millers-197145/) · `en`
@@ -151,6 +299,26 @@ Those who do not will not be eligible for this or similar concessionary schemes 
 ◼️
 
 [Data](articles/1a60be58.json)
+
+---
+
+### World’s largest pumped storage hydropower plant in full operation in China
+
+*2024-12-31 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104618/worlds-largest-pumped-storage-hydropower-plant-in-full-operation-in-china) · `en`
+
+The Fengning pumped storage hydropower plant, the largest of its kind globally, has commenced full operation in the city of Chengde, north China’s Hebei Province.
+
+Operated by the State Grid Corporation of China, the facility boasts a total installed capacity of 3.6 million kilowatts and is designed to generate 6.61 billion kilowatt hours of electricity annually.
+
+The company said that since its initial units began operating in 2021, the plant has generated approximately 8.62 billion kilowatt hours of electricity.
+
+As a leading renewable energy storage technology, pumped storage plays a key role in advancing the country’s green energy transition.
+
+The Fengning plant is expected to save 480,800 tonnes of standard coal and reduce carbon dioxide emissions by 1.2 million tonnes annually, marking a significant contribution to the country’s energy efficiency and environmental sustainability goals, the company said.
+
+◼️
+
+[Data](articles/c83f7311.json)
 
 ---
 
@@ -1707,177 +1875,5 @@ They could also go down. As a result, they are somewhat difficult to price, as s
 ...
 
 [Data](articles/f42d3107.json)
-
----
-
-### Sri Lanka Department of Government Printing website hacked
-
-*2024-12-31 06:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-department-of-government-printing-website-hacked-197041/) · `en`
-
-ECONOMYNEXT- Messages have been posted on some pages of the website of Sri Lanka’s Department of Government Printing claiming that it had been hacked.
-
-The pages included the pages carrying extra gazette notices and tenders.
-
-“This is my instagram:- stockmarket5783 Contact me if anyone needs help,” read one message in in the space where descriptions usually appear.
-
-“Website don’t have ssl certificate that’s why I’m here. update ssl certificate to secure the database,” admonished another message.
-
-There was also a message claiming that an ‘esoft’ student had hacked the website.
-
-◼️
-
-[Data](articles/df9fa70d.json)
-
----
-
-### இலங்கை பொலிஸின் உத்தியோகபூர்வ யூடியூப் சேனல் மீது சைபர் தாக்குதல்
-
-*2024-12-31 06:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202587) · `ta`
-
-இதனை விரைவில் மீட்டெடுக்க தேவையான பணிகளை தற்போது மேற்கொண்டு வருவதாகவும் காவல்துறை தனது முகநூல் பக்கத்தில் சிறப்பு அறிவிப்பை வெளியிட்டுள்ளது.
-
-◼️
-
-[Data](articles/04f70d29.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
-
-*2024-12-31 05:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204878) · `si`
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල පවතින වැසි තත්ත්වය ඉදිරි දින කිහිපයේදීත් තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වලත් මාතලේ දිස්ත්‍රික්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
-
-නැගෙනහිර සහ ඌව පළාත්වලත් මාතලේ සහ පොළොන්නරුව දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකියි.
-
-සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
-
-බස්නාහිර, සබරගමුව සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බව සඳහන් වේ.
-
-උතුරු, නැගෙනහිර, උතුරු-මැද සහ වයඹ පළාත්වල විටින් විට හමන පැ.කි.මී. 30-35ක පමණ තරමක තද සුළං ඇතිවිය හැකියි.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-...
-
-[Data](articles/f5a59419.json)
-
----
-
-### ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
-
-*2024-12-31 01:27:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0lgypel6nxo) · `si`
-
-ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
-
-දුෂණයට, වංචාවට එරෙහිව අති විශාල මහජන මනාපයක් ලබා ගනිමින් ඓතිහාසික ජයක් ලැබු ජාතික ජන බලවේගය ආණ්ඩුවට එම ජයග්‍රහණයේ උණුසුම මැකී යන්නටත් මත්තෙන් සිය මන්ත්‍රීවරුන් දෙපළක් කප්පම් ලබා ගැනීමට උත්සාහ දැරූ බවට චෝදනා එල්ල කරමින් නිකුත් කරන ලද වීඩියෝ පටයක් සමාජ මාධ්‍ය තුළ අන්දෝලනයක් ඇති කර තිබේ.
-
-බිංගිරිය - විලත්තව පිහිටි පෞද්ගලික ඇඟලුම් කර්මාන්ත ශාලාවක් වෙත (දෙසැම්බර් 30 වැනිදා)  ගිය ජාතික ජන බලවේගයේ කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී විජේසිරි බස්නායක සහ පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අජිත් ගිහාන්ට අදාළ චෝදනාව එල්ල වී ඇත.
-
-...
-
-[Data](articles/715523d0.json)
-
----
-
-### NMSJ applauds Govt. plans to abolish Executive Presidency
-
-*2024-12-31 01:25:34* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-applauds-Govt-plans-to-abolish-Executive-Presidency/56-771200) · `en`
-
-Urges all political parties and civil society to support effort, highlighting need for collective action
-
-Says abolishing Executive Presidency is a monumental opportunity to rectify governance failures
-
-Calls on NPP Govt. to establish specific timeline for enacting constitutional reforms
-
-The National Movement for Social Justice (NMSJ) has issued a press release appreciating recent reports of the Government’s intention to abolish the Executive Presidency.
-
-The organisation has called on all political parties and civil society groups to unite in support of this transformative effort, which it believes will pave the way for a stronger democracy in Sri Lanka.
-
-Signed by NMSJ General Secretary Sunil Jayasekara, the press release expressed the movement’s optimism over the Government’s plans to introduce a constitutional amendment following the upcoming local Government Elections. The NMSJ not only offers its blessings but also pledged its full support to this endeavour.
-
-...
-
-[Data](articles/cd530c10.json)
-
-[Extended Data](ext_articles/cd530c10.ext.json)
-
----
-
-### New Commanders for Army and Navy
-
-*2024-12-31 01:24:51* · [`dailyftlk`](https://www.ft.lk/news/New-Commanders-for-Army-and-Navy/56-771199) · `en`
-
-President Anura Kumara Dissanayake has appointed Major General Lasantha Rodrigo as the new Commander of the Army and Rear Admiral Kanchana Banagoda as the new Commander of the Navy.
-
-The official appointment letters were presented to the newly appointed Commanders yesterday by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat.
-
-Commander of the Army Lieutenant General Vikum Liyanage and Commander of the Navy Vice Admiral Priyantha Perera are scheduled to retire from their respective positions today.
-
-◼️
-
-[Data](articles/41aefa4b.json)
-
-[Extended Data](ext_articles/41aefa4b.ext.json)
-
----
-
-### Dehiwala Police apologise for refusing teen to contact family after being apprehended
-
-*2024-12-31 01:22:26* · [`dailyftlk`](https://www.ft.lk/news/Dehiwala-Police-apologise-for-refusing-teen-to-contact-family-after-being-apprehended/56-771198) · `en`
-
-The Officer-in-Charge (OIC) of the Dehiwala Police Station, Chief Inspector (CI) Anuradha Herath, has apologised to the parents of a 17-year-old boy after he was taken into custody and held without their knowledge, causing significant distress.
-
-The apology followed the intervention of International Human Rights Activist Muheed Jeeran, who brought attention to the incident on social media.
-
-The boy, a student, had been returning home from early morning prayers at the mosque on 29 December when a police officer had approached him. Startled, the boy had run into a nearby bakery, where the shop owner vouched for him as a local resident who regularly visited after prayers. Despite this, the Police had taken him to the Police station and confiscated his mobile phone.
-
-...
-
-[Data](articles/67fb20cc.json)
-
-[Extended Data](ext_articles/67fb20cc.ext.json)
-
----
-
-### EDB hosts workshop on “Dry Rubber Compounding and Plant Management”
-
-*2024-12-31 01:20:50* · [`dailyftlk`](https://www.ft.lk/business/EDB-hosts-workshop-on-Dry-Rubber-Compounding-and-Plant-Management/34-771197) · `en`
-
-The Sri Lanka Export Development Board (EDB), in collaboration with the Sri Lanka Automotive Component Manufacturers Association (SLACMA) and Technobiz Lanka, successfully conducted a two-day workshop on “Dry Rubber Compounding Technology and Plant Management”. The event, held on 20 to 21 December 2024, at the EDB headquarters, aimed to enhance the skills and knowledge of technical professionals in the rubber manufacturing industry, including those serving the automotive sector.
-
-The workshop was initiated following a request from SLACMA on 4 November 2024, highlighting the importance of equipping industry personnel with the latest advancements in rubber compounding techniques, machinery, and plant management practices.
-
-...
-
-[Data](articles/ebdda32e.json)
-
----
-
-### Three Sinha Group of Companies wins at Western Province – Entrepreneur Awards 2024
-
-*2024-12-31 01:18:17* · [`dailyftlk`](https://www.ft.lk/business/Three-Sinha-Group-of-Companies-wins-at-Western-Province-Entrepreneur-Awards-2024/34-771196) · `en`
-
-Three Sinha Group of Companies became the Large-Scale winner in the manufacturing sector at the Entrepreneur Awards 2024 for the Western Province. The event, organised by the National Enterprise Development Authority (NEDA) and the National Chamber of Commerce of Sri Lanka (NCCSL), was recently held in Colombo.
-
-Managing Director Manjula Ariyakumara accepted the award on behalf of the company. Having begun as a small-scale business, Three Sinha has now grown into a leading name in Sri Lanka’s construction industry. The company has earned both local and international recognition for its commitment to quality and innovation. Over the past, the company has received several local and international quality certifications. Their latest achievements include Gold and Silver awards at the CNCI Achiever Awards.
-
-...
-
-[Data](articles/110ef419.json)
-
----
-
-### JAAF partners GTEX to drive textile innovation and competitiveness in Sri Lanka
-
-*2024-12-31 01:16:42* · [`dailyftlk`](https://www.ft.lk/business/JAAF-partners-GTEX-to-drive-textile-innovation-and-competitiveness-in-Sri-Lanka/34-771195) · `en`
-
-Sri Lanka took another significant step toward textile circularity with a four-day program under the GTEX Phase II initiative, organised by the International Trade Centre (ITC) and funded by the Swiss State Secretariat for Economic Affairs (SECO). The event, which combined a two-day training-of-trainers session with a workshop on Circular Economy Business Models for the Textile and Clothing Industry, reflects the nation’s ongoing commitment to a sustainable textile future.
-
-...
-
-[Data](articles/0aa00621.json)
 
 ---

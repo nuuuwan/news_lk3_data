@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 20:27:33**
+As of **2024-12-31 20:43:38**
 
 ## Newspaper Stats
 
-*Scraped **62,980** Articles*
+*Scraped **62,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,822
 economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,015
+adalk | 6,016
 adaderanalk | 7,702
 tamilmirrorlk | 9,039
 virakesarilk | 10,469
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,885
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,980 articles have been extended.
+61,969 (98.4%) of 62,981 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -315,6 +315,20 @@ Thereafter, the vote on the second reading of the bill is scheduled to be held o
 ...
 
 [Data](articles/9d5ec441.json)
+
+---
+
+### රාජ්‍ය සේවයේ කප්පාදුව ගැන රජයේ මතය
+
+*2024-12-31 17:32:56* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවයේ-කප්පාදුව-ගැන-රජයේ-මතය/11-413939) · `si`
+
+රාජ්‍ය සේවකයන්ගේ කප්පාදුවක් සිදු කිරීමට බලාපොරොත්තු නොවන බව කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+අද(31දා) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ecaa254f.json)
 
 ---
 
@@ -1765,25 +1779,5 @@ Accordingly, the Education Ministry noted that the Grade 01 classes of all Sinha
 ◼️
 
 [Data](articles/f1b77cf4.json)
-
----
-
-### New Sri Lanka Army Commander assumes duties
-
-*2024-12-31 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104607/new-sri-lanka-army-commander-assumes-duties) · `en`
-
-Lieutenant General Lasantha Rodrigo has officially assumed duties as the 25th Commander of the Sri Lanka Army at the Army Headquarters, a short while ago.
-
-The official appointment letter of the new Army Commander was presented to him on Monday (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat in Colombo.
-
-Accordingly, Major General Lasantha Rodrigo takes over as the 25th Commander of the Sri Lanka Army, following the retirement of Lieutenant General Vikum Liyanage from active service today (31).
-
-A seasoned military officer, Major General Rodrigo previously served as the Deputy Chief of Staff of the Sri Lanka Army, demonstrating a distinguished career in leadership and service.
-
-He also previously served as the Commandant of the Defence Services Command and Staff College.
-
-◼️
-
-[Data](articles/336efd39.json)
 
 ---

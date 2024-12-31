@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 15:02:16**
+As of **2024-12-31 15:12:58**
 
 ## Newspaper Stats
 
-*Scraped **62,919** Articles*
+*Scraped **62,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 464
 colombotelegraphcom | 637
 bbccomsinhala | 660
 islandlk | 3,822
-economynextcom | 3,824
+economynextcom | 3,829
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,010
 adaderanalk | 7,692
-tamilmirrorlk | 9,031
+tamilmirrorlk | 9,033
 virakesarilk | 10,449
 adaderanasinhalalk | 10,874
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 10,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,919 articles have been extended.
+61,969 (98.5%) of 62,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### Sri Lanka Central Bank report to parliament on inflation falling below 3-pct
+
+*2024-12-31 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-report-to-parliament-on-inflation-falling-below-3-pct-197170/) · `en`
+
+ECONOMYNEXT – A report from the central bank in inflation falling below the lower limit of its 5 percent inflation targeting will be presented to the parliament through the Finance Minister, cabinet spokesman Nalinda Jayatissa said.
+
+Sri Lanka’s central bank has persuaded then President Ranil Wickremesinghe who was elected by parliament following an inflation crisis created by rate cuts and ousted in the ensuing stabilization crisis, to allow a 5 percent inflation target plus or minus 2 percent.
+
+Unlike countries with monetary stability which have and achieve inflation of 2 percent or below, Sri Lanka was hit by four currency crises since the end of a civil war while targeting 5 percent inflation and eventually defaulted.
+
+Under the agreement signed with political leadership the agency can create up to 7 percent inflation.
+
+...
+
+[Data](articles/efa4f6d7.json)
+
+---
+
+### சிகரெட் மற்றும் விஸ்கி கடத்திய வர்த்தகர் கைது
+
+*2024-12-31 14:58:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-மற்றும்-விஸ்கி-கடத்திய-வர்த்தகர்-கைது/175-349572) · `ta`
+
+10 மில்லியன் ரூபாய் பெறுமதிமிக்க வெளிநாட்டு சிகரெட் மற்றும் விஸ்கியை கடத்தியதற்காக 45 வயதுடைய வர்த்தகர் ஒருவர் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் (BIA) இன்று காலை விமான நிலைய பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+சந்தேகநபர் கொழும்பு 14, பிரின்ஸ் ஒப் வேல்ஸ் வீதியை வசிப்பிடமாகக் கொண்டவர் என்பதுடன் வர்த்தக நோக்கத்திற்காக அடிக்கடி விமானப் பயணத்தில் ஈடுபடுபவர்ஆவார்.
+
+அவர் இன்று (டிசம்பர் 31 ஆம் திகதி) அதிகாலை 3:50 மணிக்கு இந்தியாவின் பெங்களூரில் இருந்து இண்டிகோ ஏர்லைன்ஸ் விமானத்தில் (6E-1164) கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
+
+சந்தேக நபர் ஐந்து பயணப் பைகளுக்குள் வெளிநாட்டில் தயாரிக்கப்பட்ட சிகரெட் பிராண்டுகளை மறைத்து வைத்திருந்ததை அதிகாரிகள் கண்டுபிடித்துள்ளனர்.
+
+மேலும், அதே பொதியில் 125 போத்தல்கள் இறக்குமதி செய்யப்பட்ட மது வகைகளும் மறைத்து வைக்கப்பட்டிருந்தன.
+
+இதேவேளை, எதிர்வரும் பண்டிகைக் காலத்தில் இலங்கையின் பல்வேறு மாகாணங்களில் உள்ள மதுபானக் கடைகள் மற்றும் உணவகங்களில் இந்தப் பொருட்கள் விற்பனை செய்யப்படவிருந்தன.
+
+...
+
+[Data](articles/dbd6e802.json)
+
+---
+
+### Sri Lanka to continue loan scheme for small paddy millers
+
+*2024-12-31 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-continue-loan-scheme-for-small-paddy-millers-197145/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved continuing a scheme to give pledge loans for small millers to buy paddy in 2025, Minister Nalinda Jayatissa said.
+
+The loans will be subjected to a maximum of 50 million rupees.
+
+They will be available to small and medium millers who can process 25 metric tonnes a day.
+
+The millers, however, will have to purchase paddy at guaranteed prices.
+
+Those who do not will not be eligible for this or similar concessionary schemes in the future, the minister told reporters. (Colombo/Dec31/2024)
+
+◼️
+
+[Data](articles/fadb90ac.json)
+
+---
 
 ### முல்லைத்தீவு முகாம் தடுப்பு மையமானது
 
@@ -83,6 +143,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4505535d.json)
+
+---
+
+### Sri Lanka cabinet approves Appropriation Bill for 2025
+
+*2024-12-31 13:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-appropriation-bill-for-2025-197139/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has approved for publication the Appropriation Bill for 2025, which was cleared by the Attorney General, Spokesman Nalinda Jayatissa said.
+
+The bill will be published in the government gazette and presented to parliament on January 09, he said.
+
+The Appropriation Bill sets out spending allocation for various ministries and is considered the first reading of the budget for 2025.
+
+The full budget with tax proposals, is expected in February.
+
+Sri Lanka’s parliament has already approved a vote-on-account to continue state activities until the formal passage of the budget for 2025. (Colombo/Dec31/2024)
+
+◼️
+
+[Data](articles/64910a9c.json)
 
 ---
 
@@ -153,6 +233,24 @@ Fengning විදුලි බලාගාරය චීනයේ Hebei පළ�
 ...
 
 [Data](articles/cf9f1c8d.json)
+
+---
+
+### Sri Lanka’s Odel, Insomnia to operate branded clothing outlets at BIA
+
+*2024-12-31 13:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-odel-insomnia-to-operate-branded-clothing-outlets-at-bia-197137/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Odel Plc and Insomnia (Pvt) Ltd have been awarded tenders to operate branded apparel outlets in the departure/transit area of ​​the Bandaranaike International Airport, Katunayake, a cabinet statement said.
+
+Bids were invited from operators for 4 clothing stores of well-known brands in the BIA’s departure/transit area.
+
+Odel and Insomnia were selected as operators for two outlets based on the recommendations of the cabinet Standing Procurement Committee.
+
+Tenders will be called again for the other outlets. (Colombo/Dec31/2024)
+
+◼️
+
+[Data](articles/0e9c379d.json)
 
 ---
 
@@ -284,6 +382,26 @@ The Cabinet Spokesman, Minister Dr. Nalinda Jayatissa noted that therefore, it h
 
 ---
 
+### Sri Lanka to set up state investment review committee
+
+*2024-12-31 12:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-set-up-state-investment-review-committee-197127/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to set up a committee to decide on the implementation of investment projects, spokesman minister Nalinda Jayatissa said.
+
+The state investment supervision and evaluation committee will consist of 11 members including two ministry secretaries.
+
+“In the last decade, the government has not seen expected returns commensurate with the costs it incurred during investment projects, so targeted development didn’t take place,” Jayatissa told reporters.
+
+“On the other hand, various problems affecting the implementation of development projects have arisen especially around project oversight and management.”
+
+The committee will be able to make decisions related to the implementation of investment projects, planning, resource allocation, budgeting, finance, and monitoring based on information provided by Chief Enumeration Officers. (Colombo/Dec31/2024)
+
+◼️
+
+[Data](articles/842c43db.json)
+
+---
+
 ### Govt. to review recruitment process in public institutions
 
 *2024-12-31 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104615/govt-to-review-recruitment-process-in-public-institutions) · `en`
@@ -297,6 +415,18 @@ Accordingly, the staff of Commissions, Ministries, Departments and Statutory Boa
 ◼️
 
 [Data](articles/a71fc257.json)
+
+---
+
+### இந்தோனோசியா நாட்டு படகு மீட்பு
+
+*2024-12-31 12:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/இந்தோனோசியா-நாட்டு-படகு-மீட்பு/73-349559) · `ta`
+
+மட்டக்களப்பு வாகரை பொலிஸ் பிரிவிலுள்ள பால்சேனை கடற்கரையில் ஆளில்லா இந்தோனோசியா நாட்டு படகு ஒன்று கரையடைந்த நிலையில்  செவ்வாய்க்கிழமை (31)  பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ab2e7760.json)
 
 ---
 
@@ -1743,139 +1873,5 @@ The police said that the police were in a special announcement in the face book.
 [Data](articles/71209dff.json)
 
 [Extended Data](ext_articles/71209dff.ext.json)
-
----
-
-### Delmege – Sri Lanka excels at Kellogg’s Asia Expansion Markets Meet 2024
-
-*2024-12-31 00:23:22* · [`dailyftlk`](https://www.ft.lk/business/Delmege-Sri-Lanka-excels-at-Kellogg-s-Asia-Expansion-Markets-Meet-2024/34-771183) · `en`
-
-Vallibel One/Delmege Managing Director Dinusha Bhaskaran (seventh from left) and  team from Delmege Consumer with award presented by Kellogg’s
-
-Wins prestigious ‘Best Country’ and ‘Best General Trade’ awards at awards ceremony held in Kathmandu
-
-At the highly anticipated Kellogg’s Asia Expansion Markets Annual Meet 2024, held in Kathmandu, Delmege took centre stage by winning two of the most coveted awards – the ‘Best Country’ and ‘Best General Trade’ awards which were received by Vallibel One/Delmege Ltd. Managing Director Dinusha Bhaskaran. This remarkable achievement underscores Delmege’s exceptional performance and commitment to excellence in the global business arena.
-
-...
-
-[Data](articles/94736185.json)
-
-[Extended Data](ext_articles/94736185.ext.json)
-
----
-
-### MV. Navios Unite marks maiden call at JCT SLPA
-
-*2024-12-31 00:21:41* · [`dailyftlk`](https://www.ft.lk/business/MV-Navios-Unite-marks-maiden-call-at-JCT-SLPA/34-771182) · `en`
-
-SLPA Vice Chairman Eng. Herath M. P. Jayawardhana (left) presents plaque to the ship’s Master Capt. L. Bautista joined by SLPA Additional Managing Director (Operations) Lal Weerasinghe, Director (Operations) G. Zavia Miskin, Director (Marketing and BD) H.J.K.U. Kumara, Harbour Master Capt. Nirmal P. Silva, Executive Officials from both SLPA and Unifeeder Lanka, the local agent for Unifeeder
-
-MV. Navios Unite being operated at the Jaya Container Terminal of Sri Lanka Ports Authority
-
-Unifeeder’s MV. Navios Unite operating the Asia Gulf India (AGI) service recently made her maiden call at the Port of Colombo.
-
-To mark its arrival at the Jaya Container Terminal (JCT) of the Sri Lanka Ports Authority (SLPA), a plaque exchange was held on-board the vessel between SLPA Vice Chairman Eng. Herath M.P. Jayawardhana, and the ship’s Master Capt. L. Bautista.
-
-...
-
-[Data](articles/f64776e5.json)
-
----
-
-### 2024-12-30 (Monday)
-
-### சிறுவர்களுக்குத் தடை : வெளியானது வர்த்தமானி
-
-*2024-12-30 23:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்குத்-தடை-வெளியானது-வர்த்தமானி/175-349533) · `ta`
-
-2025 ஜனவரி முதலாம் திகதி முதல் அமுலுக்கு வரும் வகையில் உணவுப் பொருட்களின் விளம்பரங்களில் 12 வயதுக்குட்பட்ட சிறுவர்கள் இடம்பெறுவதைத் தடைசெய்து சுகாதார அமைச்சர் வைத்தியர் நலிந்த ஜயதிஸ்ஸவினால் வர்த்தமானி அறிவித்தல் வௌியிடப்பட்டுள்ளது.
-
-கடந்த 6ஆம் திகதி நடைபெற்ற பாராளுமன்ற அமர்வில், ஜனவரி முதலாம் திகதி முதல் 12 வயதுக்குட்பட்ட சிறுவர்களை விளம்பரங்களில் பயன்படுத்துவது தடைசெய்யப்படும் என சுகாதார பிரதி அமைச்சர் வைத்தியர் ஹசங்க விஜேமுனி தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.R
-
-◼️
-
-[Data](articles/1c106e36.json)
-
----
-
-### Big scene for Ishini & The Branch
-
-*2024-12-30 23:01:00* · [`islandlk`](http://island.lk/big-scene-for-ishini-the-branch/) · `en`
-
-The festive season has been extra special for Ishini & The Branch as the spotlight has been focused on them on numerous occasions…and now they are in the Maldives, keeping the folks in that part of the world entertained.
-
-This is what the group’s dynamic female vocalist, Ishini Fonseka, had to say about their Christmas Eve performance: “What a beautiful audience! What a beautiful country.”
-
-They had to travel by seaplane to their destination (tourist resort) in the Maldives.
-
-Before their departure for the Maldives, Ishini & The Branch were seen and heard at most of the top venues, in Colombo.
-
-In addition to Ishini & The Branch, singer Sajith Gunaratna is in the Maldives, as well, with his band N-Chord, performing at Mercure Maldives Kooddoo Resort.
-
-Preserving Ruhuna’s legacy: Suriya Jayalath Perera’s vision for Sri Lanka’s wilderness
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/4eed27c1.json)
-
----
-
-### The change in the next few days
-
-*2024-12-30 22:51:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-சில-நாட்களில்-ஏற்படவுள்ள-மாற்றம்/175-349520) · `ta`
-
-Rainfall increase forecasted in Northern, Eastern, and Uva provinces. Thunderstorms possible in these regions. Heavy rainfall expected in Eastern and Uva provinces. Rainfall/thundershowers predicted for other areas in evenings/nights. Wind speeds up to 30-35 km/h in Northern, Eastern, and North Central provinces. Snowfall anticipated in upper, Sabaragamuwa, Central, and Southern provinces. Public advised to take precautions against lightning.
-
-🟩
-
-The Department of Meteorology has announced that the rain situation is likely to increase slightly in the North, North Central, Eastern and Uva provinces over the next few days.
-
-It is possible to occasionally rain or thunderstorms in the Northern, North Central, Eastern and Uva provinces and Matale district.
-
-Heavy rainfall is expected in some places in the Eastern and Uva provinces and Matale and Polonnaruwa districts.
-
-In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-50 mm of heavy rainfall is expected in some places in the upper, Sabaragamuwa and Southern Provinces.
-
-In the North, Eastern and North Central Provinces, there is a period of time to speed up to 30-35 kilometers per hour.
-
-In the morning, some parts of the upper, Sabaragamuwa, Central and Southern Provinces are expected to be snowy.
-
-...
-
-[Data](articles/1962296a.json)
-
-[Extended Data](ext_articles/1962296a.ext.json)
-
----
-
-### ඇති වූ විරෝධයට මාලිමා මන්ත්‍රී දුන් පිළිතුර
-
-*2024-12-30 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204874) · `si`
-
-කුරුණෑගල, බිංගිරිය ප්‍රදේශයේ පිහිටි ඇගලුම් කම්හලකට පැමිණි අවස්ථාවේදී පාර්ලිමේන්තු මන්ත්‍රී විජේසිරි බස්නායක මහතාට එල්ලවූ චෝදනාව සම්බන්ධව ඔහු අදහස් ප්‍රකාශ කර තිබේ.
-
-එහිදී ඔහු පැවසුවේ මෙම සිද්ධිය පිටුපස ඇත්තේ පැරදුණු දේශපාලනඥයින්ගේ අතකොළු බවය.
-
-...
-
-[Data](articles/c08fdda6.json)
-
----
-
-### Union Assurance triumphs with record-breaking wins
-
-*2024-12-30 22:46:00* · [`islandlk`](http://island.lk/union-assurance-triumphs-with-record-breaking-wins/) · `en`
-
-Union Assurance, Sri Lanka’s premier Life Insurer, achieved a monumental milestone at the 15th National Forum for Life Insurance Advisers (NAFLIA) Conference held recently at the Monarch Imperial. The prestigious event, organised by the Marketing and Sales Forum of the Insurance Association of Sri Lanka (IASL), brought together over 680 top professionals from the Life Insurance industry.
-
-Themed ‘Empowering Lives through Insurance’, the conference focused on fortitude and resilience in these challenging times, offering knowledge-sharing sessions designed to inspire and empower professionals within the Life Insurance sector.
-
-...
-
-[Data](articles/4eff1203.json)
 
 ---

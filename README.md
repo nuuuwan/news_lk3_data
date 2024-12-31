@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 01:43:46**
+As of **2025-01-01 02:02:13**
 
 ## Newspaper Stats
 
-*Scraped **63,018** Articles*
+*Scraped **63,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
 economynextcom | 3,835
-dailyftlk | 4,373
+dailyftlk | 4,376
 dailymirrorlk | 4,733
 adalk | 6,018
 adaderanalk | 7,705
@@ -26,11 +26,67 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,018 articles have been extended.
+61,970 (98.3%) of 63,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Debate on 2025 Appropriation Bill begins on Feb. 18
+
+*2025-01-01 01:47:38* · [`dailyftlk`](https://www.ft.lk/news/Debate-on-2025-Appropriation-Bill-begins-on-Feb-18/56-771239) · `en`
+
+The Committee on Parliamentary Business chaired by Speaker Dr. Jagath Wickramaratne yesterday decided that the debate on the Appropriation Bill for the year 2025 (Budget Debate) will be held from 18 February to 21 March.
+
+This was communicated by the Secretary General of Parliament Kushani Rohanadeera.
+
+Meanwhile, it has also been decided to present the Appropriation Bill for the year 2025 to Parliament for the first reading on 09 January 2025.
+
+Accordingly, the second reading (Budget Speech) of the Appropriation Bill is scheduled to be held on 17 February and the second reading debate is scheduled to be held for 7 days from 18 to 25 February.
+
+Thereafter, the vote on the second reading of the bill is scheduled to be held on 25 February at 6.00 p.m.
+
+...
+
+[Data](articles/9a2dd552.json)
+
+---
+
+### Cabinet nod to gazette and table Appropriation Bill for 2025 for Parliamentary approval
+
+*2025-01-01 01:47:10* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-gazette-and-table-Appropriation-Bill-for-2025-for-Parliamentary-approval/56-771238) · `en`
+
+The Cabinet of Ministers on Monday approved publishing the Appropriation Bill for the financial year 2025 in the Government Gazette and submit the same for Parliamentary approval.
+
+“The Attorney General’s clearance was received for the said Appropriation Bill prepared by the Legal Draftsman. The first reading of the Budget 2025 will be held on 9 January,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
+
+The second reading, also known as the Budget speech is set for 17 February, while the third reading and debate will take place from 27 February to 21 March 2025.
+
+On 25 November 2024, the Cabinet of Ministers approved to instruct the Legal Draftsman to prepare the Appropriation Bill for the Financial Year 2025.
+
+The proposal to this effect submitted by President Anura Kumara Dissanayake in his capacity as the Finance, Planning and Economic Development Minister was approved by the Cabinet of Ministers on Monday.
+
+◼️
+
+[Data](articles/11918a0b.json)
+
+---
+
+### K.P.G. Pushpa Kumara appointed as Govt. Printer
+
+*2025-01-01 01:46:44* · [`dailyftlk`](https://www.ft.lk/news/K-P-G-Pushpa-Kumara-appointed-as-Govt-Printer/56-771237) · `en`
+
+The Cabinet of Ministers at their meeting on Monday approved the appointment of K.G.P. Pushpa Kumara, a senior Sri Lanka Administrative Service officer, as the new Government Printer.
+
+This follows the conclusion of G.K.D. Liyanage’s term which ended on 24 December 2024.
+
+Pushpa Kumara, who is serving as an additional Director General of the Department of National Budget, is suitable to be appointed to the said post.
+
+◼️
+
+[Data](articles/744f43c8.json)
+
+---
 
 ### Why didn’t Sri Lanka end up like Bangladesh?
 
@@ -1727,59 +1783,5 @@ Sri Lanka’s parliament has already approved a vote-on-account to continue stat
 ◼️
 
 [Data](articles/97150ac0.json)
-
----
-
-### வாகரை கடற்கரையில் இந்தோனேசிய படகு
-
-*2024-12-31 13:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகரை-கடற்கரையில்-இந்தோனேசிய-படகு/175-349562) · `ta`
-
-மட்டக்களப்பு வாகரை பொலிஸ் பிரிவிலுள்ள பால்சேனை கடற்கரையில் ஆளில்லா இந்தோனேசியா நாட்டு படகு ஒன்று கரையொதுங்கிய நிலையில் செவ்வாய்க்கிழமை (31) மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்
-
-குறித்த படகு கடலில் மிதந்து வந்து கரை தட்டியதை அடுத்து அதனை மீட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/4959898e.json)
-
----
-
-### රාජ්‍ය සේවක කප්පාදුව ගැන රජයේ ස්ථාවරය
-
-*2024-12-31 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204900) · `si`
-
-රාජ්‍ය සේවක කප්පදුවක් සිදුකිරීමට බලාපොරොත්තුවක් නොමැති බව අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අද (31) පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවට එක්වෙමින් අමාත්‍යවරයා පවසා සිටියේ, රාජ්‍ය සේවයේ සිටින පිරිස ඵලදායි ලෙස හා කාර්යක්ෂමව සේවයේ යෙදවීම රජයේ අපේක්ෂාව බවය.
-
-බඳවා ගත්  පිරිස රටේ ජනතාවට සේවය සපයන ආකාරයට විදිමත්ව ස්ථානගත කිරීමට බලාපොරොත්තු වන බව ද පැවසු අමාත්‍යවරයා සෞඛ්‍ය අමාත්‍යාංශයේ පහළ ශ්‍රේණිවල බොහෝමයක් බඳවා ගැනීම් සිදුකර ඇත්තේ සේවා අවශ්‍යතාවයට වඩා දේශපාලන උවමනාවට බවය.
-
-මින් ඉදිරියට අත්‍යාවශය බඳවා ගැනීම් සිදුකරන බවත් අමාත්‍යවරයා මෙහිදී කියාසිටියේය.
-
-...
-
-[Data](articles/7fe3b707.json)
-
----
-
-### ලොව විශාලතම පොම්ප කරන ලද ජල විදුලි බලාගාරයේ කටයුතු ඇරඹේ
-
-*2024-12-31 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204899) · `si`
-
-ලොව විශාලතම පොම්ප කරන ලද ජල විදුලි බලාගාරයේ විදුලි උත්පාදන කටයුතු සම්පූර්ණයෙන් ආරම්භ කළ බව චීන ජල විදුලි සංවර්ධන සමාගම අද (31) නිවේදනය කළේය.
-
-වර්තමානයේ ලෝකයේ විශාලතම පොම්ප කරන ලද බලශක්ති සංචිත ජල විදුලි බලාගාරය වන චීනයේ Hebei Fengning බලාගාරයේ අවසන් විචල්‍ය වේග මාපක යන්ත්‍රය නිල වශයෙන් වාණිජ මෙහෙයුම් ක්‍රියාත්මක කිරීමත් සමග එම විදුලි බලාගාරය විදුලි බල උත්පාදන කටයුතු සම්පූර්ණයෙන් ක්‍රියාත්මක කර තිබේ.
-
-Fengning විදුලි බලාගාරය චීනයේ Hebei පළාතේ Chengde නගරයේ Fengning Man ජාතික ස්වායත්තයේ පිහිටා තිබේ.
-
-එම විදුලි බලාගාරය චීනයේ බෙයිජිං නගරය, ටියැන්ජිං නගරය හා Hebei පළාත යන ප්‍රදේශවල විදුලි බල සැපයුම් මධ්‍යස්ථානය මෙන්ම උතුරු Hebei පළාතේ කිලෝවොට් මිලියන 10ක මට්ටමේ නව බලශක්ති මධ්‍යස්ථානයට ද ආසන්නව පිහිටා ඇත.
-
-එම විදුලි බලාගාරයේ ස්ථාපිත ධාරිතාවය කිලෝවොට් මිලියන 3.6ක් වන අතර සැලසුම් කරන ලද වාර්ෂික විදුලි බල උත්පාදනය කිලෝවොට් පැය බිලියන 6.612කි.
-
-එමෙන්ම වාර්ෂිකව පොම්ප කරන ලද බලශක්ති උත්පාදනය කිලෝවොට් පැය බිලියන 8.716කි.
-
-...
-
-[Data](articles/cf9f1c8d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 02:02:13**
+As of **2025-01-01 02:12:57**
 
 ## Newspaper Stats
 
-*Scraped **63,021** Articles*
+*Scraped **63,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
 economynextcom | 3,835
-dailyftlk | 4,376
+dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,018
 adaderanalk | 7,705
@@ -26,11 +26,65 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,021 articles have been extended.
+61,970 (98.3%) of 63,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Cabinet green lights review of Anti-Corruption Act amid implementation challenges
+
+*2025-01-01 01:53:34* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-review-of-Anti-Corruption-Act-amid-implementation-challenges/56-771242) · `en`
+
+The Cabinet of Ministers on Monday gave its green light for the formation of a committee to address loopholes in legal and technical issues arising from the implementation of the Anti-Corruption Act No. 9 of 2023.
+
+The Act which aims to strengthen anti-corruption measures has presented significant issues for the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) in conducting investigations, prosecutions and judicial and administrative activities.
+
+In response to these challenges, the CIABOC has proposed amendments to certain sections of the Act and the inclusion of new provisions to facilitate smoother enforcement.
+
+The committee will be chaired by the CIABOC Chairperson and will comprise senior officials from the Nation Integration Ministry, Department of the Attorney General and the Department of Legal Draftsman.
+
+...
+
+[Data](articles/539dc178.json)
+
+---
+
+### CPC reduces Kerosene price; other fuels unchanged
+
+*2025-01-01 01:50:54* · [`dailyftlk`](https://www.ft.lk/news/CPC-reduces-Kerosene-price-other-fuels-unchanged/56-771241) · `en`
+
+The Ceylon Petroleum Corporation (CPC) has announced a revision of Kerosene price with immediate effect.
+
+The price of Kerosene has been reduced by Rs. 5 to Rs. 183 per litre.
+
+However, the prices of Petrol 92 Octane, Petrol 95 Octane, Auto Diesel and Lanka Super Diesel will remain unchanged, according to Ceypetco.
+
+◼️
+
+[Data](articles/903c0855.json)
+
+---
+
+### Govt. to optimise development projects
+
+*2025-01-01 01:49:46* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-optimise-development-projects/56-771240) · `en`
+
+Cabinet approves setting up of Public Investment Supervision and Evaluation Committee
+
+The Cabinet of Ministers at its meeting on Monday approved establishing a ‘Public Investment Supervision and Evaluation Committee’ under the provisions of Section 44(3) of the Public Financial Management Act No. 44 of 2024.
+
+This initiative aims to address inefficiencies in public capital investments and ensure greater returns and development outcomes.
+
+The newly formed Committee will consist of 11 members including two Ministry Secretaries appointed by the Secretary to the President and the Senior Additional Secretary of the President.
+
+Its primary responsibilities include strategic decision-making, planning, resource allocation, budgeting, financing and supervision of public investment projects. The Committee will act based on inputs from Chief Accounting Officers and Accounting Officers to ensure informed and efficient oversight.
+
+...
+
+[Data](articles/d46b9883.json)
+
+---
 
 ### Debate on 2025 Appropriation Bill begins on Feb. 18
 
@@ -1723,65 +1777,5 @@ The Fengning plant is expected to save 480,800 tonnes of standard coal and reduc
 ◼️
 
 [Data](articles/18a1e8a5.json)
-
----
-
-### டெங்கு நோயினை கட்டுப்படுத்துவதற்கு நடவடிக்கை எடுங்கள் - ஹிஸ்புல்லாஹ்
-
-*2024-12-31 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202610) · `ta`
-
-அண்மையில் ஏற்பட்ட வெள்ள அனர்த்தத்தின் பின்னர் மட்டக்களப்பு மாவட்டத்தில் டெங்கு நோய் மிக வேகமாக பரவிவருவதை அவதானிக்கக்கூடியதாக இருக்கிறது.
-
-இதுவரையில் பலர் நோயாளிகளாக அடையாளம் காணப்பட்டுள்ளதுடன் நோயாளிகளின் எண்ணிக்கை  இன்னும் அதிகரிக்கலாம் என அச்சம் காணப்படுகிறது.
-
-இதனை கருதிற்கொண்டு டெங்கு நுளம்பினை ஒழிப்பதற்கு தேவையான நடவடிக்கைகளை அவரசமாக மேற்கொள்ளுமாறு பாராளுமன்ற உறுப்பினர் எம்.எல்.ஏ.எம் ஹிஸ்புல்லாஹ், நேற்று திங்கட்கிழமை  (30) மட்டக்களப்பு மாவட்ட அபிவிருத்திக்குழு கூட்டத்தில் பிரஸ்தாபித்தார்.
-
-இதனை ஏற்றுக்கொண்ட மாவட்ட சுகாதார வைத்திய பணிப்பாளர் மற்றும் பிரதேச சுகாதார வைத்திய  அதிகாரிகள் தேவையான நடவடிக்கைகளை உடனடியாக மேற்கொள்வதாக தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/4505535d.json)
-
----
-
-### Sri Lanka cabinet approves Appropriation Bill for 2025
-
-*2024-12-31 13:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-appropriation-bill-for-2025-197139/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has approved for publication the Appropriation Bill for 2025, which was cleared by the Attorney General, Spokesman Nalinda Jayatissa said.
-
-The bill will be published in the government gazette and presented to parliament on January 09, he said.
-
-The Appropriation Bill sets out spending allocation for various ministries and is considered the first reading of the budget for 2025.
-
-The full budget with tax proposals, is expected in February.
-
-Sri Lanka’s parliament has already approved a vote-on-account to continue state activities until the formal passage of the budget for 2025. (Colombo/Dec31/2024)
-
-◼️
-
-[Data](articles/64910a9c.json)
-
----
-
-### பூண்டுலோயா பகுதியில் மூவருக்கிடையில் தகராறு ; ஒருவர் பலி ; இருவர் கைது
-
-*2024-12-31 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/202590) · `ta`
-
-தந்தையும், இளைய மகனும் இணைந்து மூத்த மகனை நேற்று திங்கட்கிழமை (30) பொல்லால் அடித்துக் கொலை செய்துள்ளதாக பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
-
-பூண்டுலோயா பொலிஸ் பிரிவிற்குட்பட்ட டன்சினன் தோட்டத்தின் கீழ் பிரிவு பகுதியில் வசிக்கும்  25 வயதுடைய ஒரு பிள்ளையின் தந்தையே இவ்வாறு தாக்கப்பட்டு உயிரிழந்துள்ளார்.
-
-உயிரிழந்தவர் தனது மகள், தந்தை மற்றும் இளைய சகோதரருடன் குறித்த பகுதியில் வசித்து வந்துள்ளார்.
-
-நேற்றையதினம் மாலை, தந்தையும், மகனும் மது அருந்திவிட்டு வீட்டிற்கு வந்தபோது, மூத்த மகன் வீட்டில் அதிக ஒலியில் பாடல்களைக் கேட்டுக் கொண்டிருந்துள்ளதுடன் தந்தை மகனிடம் ஒலியைக் குறைக்கச் சொல்ல, கோபமடைந்த மகன் தந்தையை தாக்கியுள்ளார்.
-
-இந்நிலையில், தந்தை மற்றும் சகோதரனும் இணைந்து  குறித்த நபரை பொல்லால் மற்றும் கற்களால் தாக்கி கொலை செய்துள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
-
-சம்பவத்துடன் தொடர்புடைய 46 வயதுடைய  தந்தையும் 18 வயதுடைய சகோதரனும் கைது செய்யப்பட்டு பொலிஸ் பாதுகாப்பில் கொத்மலை பிரதேச வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும் பொலிஸார் மேலும் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/97150ac0.json)
 
 ---

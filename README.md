@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 19:27:25**
+As of **2024-12-31 19:43:53**
 
 ## Newspaper Stats
 
-*Scraped **62,969** Articles*
+*Scraped **62,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,44 @@ economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,014
-adaderanalk | 7,698
+adaderanalk | 7,701
 tamilmirrorlk | 9,037
-virakesarilk | 10,466
+virakesarilk | 10,467
 adaderanasinhalalk | 10,884
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,969 articles have been extended.
+61,969 (98.4%) of 62,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### இலங்கையில்  கால்பந்தாட்ட மறுமலர்ச்சிக்கு  FIFA மற்றும் FFSL  ஆகியன வித்திட்டுள்ளன
+
+*2024-12-31 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202665) · `ta`
+
+இலங்கை கால்பந்தாட்ட தேசிய அணியினர் 2024இல் சர்வதேச அரங்கில் வெளிப்படுத்திய ஒப்பற்ற ஆற்றல்கள் பாராட்டுக்குரியதாகும்.
+
+சர்வதேச அரங்கில்  2024இல்  மிகவும் அவசியமான வெற்றிகளை ஈட்டி இலங்கை வரலாறு படைத்ததை யாரும் இலகுவில் மறந்துவிட முடியாது.
+
+இந்த வெற்றிகளை அடுத்து சர்வதேச கால்பந்தாட்ட அணிகளுக்கான தரவரிசையில் இலங்கை ஐந்து இடங்கள் முன்னேறி 200ஆவது இடத்தை அடைந்துள்ளது.
+
+மூன்று சர்வதேச போட்டிகளில் இலங்கை ஈட்டிய அற்புதமான வெற்றிகளுடன் 3 போட்டிகளை வெற்றிதோல்வியின்றி முடித்துக்கொண்டதன் மூலம் அதன் முன்னேற்றம் எத்தகையது என்பது புலப்படுகிறது.
+
+தெற்காசிய கால்பந்தாட்ட  சம்மேளனத்தில் அங்கம் வகிக்கும் மற்றைய 5 நாடுகள் இந்தளவு சிறந்த பெறுபேறுகளை கடந்த வருடம் ஈட்டவில்லை.
+
+மிகவும் அற்புதமாக விளையாடிய இலங்கை, சர்வதேச கால்பந்தாட்ட அரங்கில் பிரகாசமான எதிர்காலத்திற்கான அடித்தளத்தை இட்டுக்கொண்டுள்ளது.
+
+இலங்கை கால்பந்தாட்ட சம்மேளனத் (FFSL) தலைவர் ஜஸ்வர் உமரை சந்தித்த பீபா தலைவர் ஜியானி இன்ஃபன்டீனோ, இலங்கை கால்பந்தாட்டத்தின் வளர்ச்சியையும் அதன் பெரு முன்னேற்றைதயும்  பாராட்டினார்.
+
+...
+
+[Data](articles/a0083706.json)
+
+---
 
 ### YouTube தவிர ஏனைய வலைத்தளங்கள் கட்டுப்பாட்டுக்குள் வந்தன
 
@@ -77,6 +101,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1e932ac4.json)
+
+---
+
+### Debate on 2025 Appropriation Bill begins on Feb. 18
+
+*2024-12-31 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104627/debate-on-2025-appropriation-bill-begins-on-feb-18) · `en`
+
+It has been decided at the meeting of the Committee on Parliamentary Business held in Parliament today (31) under the patronage of the Speaker Dr. Jagath Wickramaratne that the debate on the Appropriation Bill for the year 2025 (Budget Debate) will be held from February 18 to March 21, 2025.
+
+This was communicated by the Secretary General of Parliament, Mrs. Kushani Rohanadeera.
+
+Meanwhile, it has also been decided to present the Appropriation Bill for the year 2025 to Parliament for the first reading on 09 January 2025.
+
+Accordingly, the second reading (Budget Speech) of the Appropriation Bill is scheduled to be held on February 17 and the second reading debate is scheduled to be held for 7 days from February 18 to 25.
+
+Thereafter, the vote on the second reading of the bill is scheduled to be held on February 25 at 6.00 p.m.
+
+...
+
+[Data](articles/779d4092.json)
 
 ---
 
@@ -238,6 +282,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Two remanded for ‘criminally intimidating’ two NPP MPs
+
+*2024-12-31 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104626/two-remanded-for-criminally-intimidating-two-npp-mps) · `en`
+
+Two persons have been arrested for criminally intimidating two MPs of the National People’s Power (NPP) at a garment factory premises in Bingiriya yesterday (30).
+
+Meanwhile, the two suspects have been ordered to be remanded until January 7, after being produced before Hettipola Magistrates Court, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/b856a13b.json)
+
+---
+
 ### பெருந்தோட்ட அமைச்சின்  உத்தரவின்படியே  தொழிலாளர்கள்  பல  காரணங்களுக்காக  வெளியேற்றப்படுகின்றனர்…!     தகவல் அறியும் சட்டம் மூலம் அம்பலமான உண்மைகள்
 
 *2024-12-31 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202638) · `ta`
@@ -305,6 +363,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4861cb91.json)
+
+---
+
+### Highest number of Sri Lankans left for foreign employment in 2024
+
+*2024-12-31 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104625/highest-number-of-sri-lankans-left-for-foreign-employment-in-2024) · `en`
+
+The year 2024 has set a historic record for the highest number of Sri Lankans migrating for work, with 312,836 individuals leaving the country for employment opportunities overseas.
+
+This surpasses the previous record set in 2022 and highlights a significant trend of labor migration in recent years.
+
+Over the past six years (2019–2024), 1.3 million Sri Lankans have pursued employment abroad.
+
+Of those who departed this year, 185,162 were male workers, and 127,674 were female workers.
+
+Kuwait emerged as the top destination for Sri Lankan workers in 2024, with 77,546 individuals securing employment there. The United Arab Emirates followed as the second-most popular destination, attracting 51,550 Sri Lankan workers.
+
+...
+
+[Data](articles/6531d684.json)
 
 ---
 
@@ -1711,93 +1789,5 @@ He also previously served as the Commandant of the Defence Services Command and 
 ...
 
 [Data](articles/3272fd4a.json)
-
----
-
-### Govt. urged to reduce VAT on salmon
-
-*2024-12-31 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104606/govt-urged-to-reduce-vat-on-salmon) · `en`
-
-The Canned Fish Manufacturers’ Association of Sri Lanka (CFMASL) has requested the government to reduce the Value Added Tax (VAT) imposed on salmon.
-
-CFMASL President Shiran Fernando stated that although imposing a controlled price for salmon is not a problem, the government should take immediate steps to reduce the VAT imposed on them.
-
-Fernando further said that if the VAT is not reduced, the country’s fishermen are likely to suffer the consequences.
-
-In response, the Consumer Affairs Authority (CAA) Chairman, Hemantha Samarakoon noted that the controlled price for canned fish was implemented after an agreement was reached with all relevant parties.
-
-◼️
-
-[Data](articles/23b0fccf.json)
-
----
-
-### මාරක අනතුරු කිහිපයක් - සිව්දෙනෙක් මරුට
-
-*2024-12-31 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204889) · `si`
-
-ගතවූ පැය 24 තුළ දිවයිනේ විවිධ ප්‍රදේශවල සිදුවූ රිය අනතුරු 04කින් තරුණයින් දෙදෙනෙක් ඇතුළු සිව්දෙනෙකු මියගොස් තිබේ.
-
-ඊයේ (30) එම අනතුරු සිදුව තිබුණේ දෙයියන්දර, ගලේවෙල, නාල්ල සහ පේරාදෙණිය යන පොලිස්වසම්වලය.
-
-හක්මණ - මුලටියන මාර්ගයේ පල්ලාවල විදුහල ආසන්නයේදී බස් රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදියක ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් පැදිකරු බස් රථයේ ඉදිරි දකුණු පස රෝදයට යටවී බරපතළ තුවාල ලබා දෙයියන්දර රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
-
-එලෙස මියගොස් ඇත්තේ, ගොම්බද්දල, මාතර ප්‍රදේශයේ පදිංචිව සිටි 37 හැවිරිදි පුද්ගලයෙකි.
-
-මේ අතර අඹේපුස්ස - ත්‍රිකුණාමලය මාර්ගයේ තලකිරියාගම ප්‍රදේශයේදී යතුරුපැදියක් සිමෙන්ති පැටවූ ලොරි රථයක පසුපස ගැටී සිදුවූ අනතුරකින් 22 හැවිරිදි තරුණයෙක් ජීවිත්කෂයට පත්ව තිබේ.
-
-මේ අතර මීරිගම ගිරිඋල්ල මාර්ගයේ ලෝලුවාගොඩ ප්‍රදේශයේදී යතුරු පැදියක් මාර්ගය අයිනේ ගමන් කරමින් සිටි පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.
-
-අනතුරින් තුවාල ලැබු පදිකයා සහ යතුරු පැදිකරු මීරිගම රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී පදිකයා මියගොස් තිබේ.
-
-එලෙස මියගොස් ඇත්තේ, ලෝලුවාගොඩ ප්‍රදේශයේ පදිංචිව සිටි 48 හැවිරිදි පුද්ගලයෙකි.
-
-...
-
-[Data](articles/540ded58.json)
-
----
-
-### Jimmy Carter, in death, becomes symbol of lost political ‘decency’ in US
-
-*2024-12-31 10:20:00* · [`economynextcom`](https://economynext.com/jimmy-carter-in-death-becomes-symbol-of-lost-political-decency-in-us-197052/) · `en`
-
-(Washington, USA) The death of Jimmy Carter has brought to the fore a defining characteristic of the late US president’s life: his “decency,” seen as a product of a bygone era in today’s caustic political
-
-Joe Biden on Monday repeated the word three times while speaking to reporters about his late White House predecessor.
-
-Biden, who will be replaced in the White House by Donald Trump on January 20, added: “Can you imagine Jimmy Carter referring to someone by the way they look or the way they talk?”
-
-Despite the struggles he faced during his single term in office — from economic malaise to the Iran hostage crisis — Carter has emerged as a nostalgic figure.
-
-He spent his years after the White House advocating for global democracy, fighting neglected public health scourges and teaching Sunday school.
-
-...
-
-[Data](articles/d05bb612.json)
-
----
-
-### Sri Lanka Police announce traffic plan for New Year’s Eve
-
-*2024-12-31 10:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-announce-traffic-plan-for-new-years-eve-197069/) · `en`
-
-ECONOMYNEXT – Sri Lanka Police said they are expecting a large number of people arriving in Colombo’s Galle Face area for the new year’s dawn, and announced a traffic plan to minimise congestion.
-
-A large number of people and vehicles are expected to come in to Galle Face premises from outside Colombo to celebrate the dawn of New Year 2025,” Sri Lanka Police said in a statement.
-
-Large crowds and congestion were seen in the area during Christmas.
-
-“Therefore, the Sri Lanka Police is going to implement a special traffic plan to reduce the traffic congestion in Pettah, Fort, Kompanya Veediya, Maradana, Kollupitiya, Bambalapitiya and Kurunduwatta Police divisions in Colombo city.”
-
-No parking will be allowed at the parking lots located on Galle Face road and all traffic will be diverted to public and private parking lots located around the city, it said.
-
-Fort: Wimaladharmasuriya Clock Tower – Charmans car park, Rasik Farid Mawatha – Hemas car park, D R Wijewardena Mawatha – Lake House car park
-
-...
-
-[Data](articles/5a4d2b41.json)
 
 ---

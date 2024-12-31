@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 01:27:37**
+As of **2025-01-01 01:43:46**
 
 ## Newspaper Stats
 
-*Scraped **63,017** Articles*
+*Scraped **63,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
 economynextcom | 3,835
-dailyftlk | 4,372
+dailyftlk | 4,373
 dailymirrorlk | 4,733
 adalk | 6,018
 adaderanalk | 7,705
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,017 articles have been extended.
+61,970 (98.3%) of 63,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Why didn’t Sri Lanka end up like Bangladesh?
+
+*2025-01-01 01:18:34* · [`dailyftlk`](https://www.ft.lk/columns/Why-didn-t-Sri-Lanka-end-up-like-Bangladesh/4-771227) · `en`
+
+The mostly peaceful three-month period leading up to the President’s ouster allowed the building of relationships and trust in mainstream political actors and institutions among at least a subset of protesting groups that made them refuse calls to violence
+
+A Nepali colleague asked why Sri Lanka turned out differently from Bangladesh (and he was not implying our outcome was worse). This is a considered answer, within the limits of my observations. Like much of history, this account cannot establish definitive causes for observable effects such as the continued adherence to the Constitution and the economic recovery. Given the complexity of the phenomenon, no one person can know all that happened. So, the account is necessarily incomplete.
+
+...
+
+[Data](articles/ddee3e11.json)
+
+---
 
 ### Restoring efficiency and integrity: Reforming board practices in State Owned Agencies
 
@@ -1767,23 +1781,5 @@ Fengning විදුලි බලාගාරය චීනයේ Hebei පළ�
 ...
 
 [Data](articles/cf9f1c8d.json)
-
----
-
-### Sri Lanka’s Odel, Insomnia to operate branded clothing outlets at BIA
-
-*2024-12-31 13:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-odel-insomnia-to-operate-branded-clothing-outlets-at-bia-197137/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Odel Plc and Insomnia (Pvt) Ltd have been awarded tenders to operate branded apparel outlets in the departure/transit area of ​​the Bandaranaike International Airport, Katunayake, a cabinet statement said.
-
-Bids were invited from operators for 4 clothing stores of well-known brands in the BIA’s departure/transit area.
-
-Odel and Insomnia were selected as operators for two outlets based on the recommendations of the cabinet Standing Procurement Committee.
-
-Tenders will be called again for the other outlets. (Colombo/Dec31/2024)
-
-◼️
-
-[Data](articles/0e9c379d.json)
 
 ---

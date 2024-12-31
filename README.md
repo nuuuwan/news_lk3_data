@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 09:03:06**
+As of **2024-12-31 09:15:36**
 
 ## Newspaper Stats
 
-*Scraped **62,843** Articles*
+*Scraped **62,844** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 462
+dbsjeyarajcom | 463
 colombotelegraphcom | 637
 bbccomsinhala | 660
 economynextcom | 3,818
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,967 (98.6%) of 62,843 articles have been extended.
+61,967 (98.6%) of 62,844 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -837,6 +837,22 @@ Accordingly, the Food (Labelling and Advertising) Regulations 2022, published in
 ◼️
 
 [Data](articles/1903a6eb.json)
+
+---
+
+### 
+
+*2024-12-30 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85279) · `en`
+
+Past and Present India -Sri Lanka Relations ; 1987 Rajiv-JR Accord and the 2024 Modi-AKD Meeting.
+
+Sri Lanka’s newly elected President Anura Kumara Dissanayake  has successfully concluded his first state visit to  India from December 15 to 17. The optics of the three day visit to New Delhi has been hailed positively. President Dissanayake known popularly as AKD is the leader of the Janatha Vimukthi Peramuna as well as the JVP-led National People’s Power(NPP).
+
+The successful passage to India  has brought into focus the “mismatch” between JVP past and JVP present. The Janatha Vimukthi Peramuna’s  hard line regarding India in the past and its current soft line towards our big neighbour are being compared and contrasted.The successful state visit seems to indicate that the JVP’s relationship with India has  taken a positive “U”turn.
+
+...
+
+[Data](articles/71af3e8b.json)
 
 ---
 
@@ -1931,21 +1947,5 @@ In total, 7,676 drivers have been penalized for traffic violations.
 ◼️
 
 [Data](articles/c98214ba.json)
-
----
-
-### புத்தாண்டிலிருந்து புதிய  இடத்தில் ஜனாதிபதி நிதியம்
-
-*2024-12-30 15:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டிலிருந்து-புதிய-இடத்தில்-ஜனாதிபதி-நிதியம்/175-349506) · `ta`
-
-இதுவரை கொழும்பு 10, டி.ஆர். விஜேவர்தன மாவத்தை, லேக்ஹவுஸ் கட்டிடத்தின் 3வது மாடியில்  இயங்கி வந்த ஜனாதிபதி நிதியத்தின் அலுவலகம் 2025 ஜனவரி 01 ஆம் திகதி முதல் புதிய இடத்தில் நிறுவப்பட உள்ளது.
-
-இதன்படி, ஜனாதிபதி நிதியத்தின் புதிய அலுவலக வளாகம் கொழும்பு 01, ஜனாதிபதி மாளிகைக்கு முன்பாக அமைந்துள்ள ஸ்டேண்டர்ட் சார்டர்ட் கட்டிடத்தின் தரைத்தளத்தில் நிறுவப்படுகிறது.
-
-ஜனாதிபதி நிதியத்தின் சேவைகளைப் பெற்றுக் கொள்வதற்காக வரும் பொதுமக்கள், 2025 ஜனவரி 1 முதல்,  கொழும்பு 01, ஜனாதிபதி மாவத்தை,  ஜனாதிபதி மாளிகைக்கு முன்பாக அமைந்துள்ள ஸ்டேண்டர்ட் சார்டர்ட் கட்டிடத்தின் தரைத்தளத்தில் உள்ள அலுவலக வளாகத்திற்குச் சென்று சேவைகளைப்  பெற்றுக்கொள்ள முடியும்.
-
-◼️
-
-[Data](articles/5dcbe7ef.json)
 
 ---

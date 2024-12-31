@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 11:27:25**
+As of **2024-12-31 11:44:18**
 
 ## Newspaper Stats
 
-*Scraped **62,872** Articles*
+*Scraped **62,881** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 463
+dbsjeyarajcom | 464
 colombotelegraphcom | 637
 bbccomsinhala | 660
-economynextcom | 3,818
 islandlk | 3,822
+economynextcom | 3,824
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,003
+adalk | 6,004
 adaderanalk | 7,682
-tamilmirrorlk | 9,020
+tamilmirrorlk | 9,021
 virakesarilk | 10,444
 adaderanasinhalalk | 10,867
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,867
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,968 (98.6%) of 62,872 articles have been extended.
+61,968 (98.5%) of 62,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### ஆர்ப்பாட்டத்தில் ஈடுபட்டவர்களைக் கைது செய்ய நடவடிக்கை
+
+*2024-12-31 11:31:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-ஈடுபட்டவர்களைக்-கைது-செய்ய-நடவடிக்கை/175-349552) · `ta`
+
+பிங்கிரிய பிரதேசத்தில் உள்ள தனியார் ஆடைத் தொழிற்சாலைக்கு நேற்று தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களான விஜேசிறி பஸ்நாயக்க மற்றும் அஜித் கிஹான் ஆகியோர் விஜயம் செய்த போது அவர்களுக்கு எதிராக முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் பங்கேற்றவர்களில் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+சம்பவத்துடன் தொடர்புடைய மேலும் எட்டு சந்தேக நபர்களை கைது செய்வதற்கான விசாரணைகள் முன்னெடுக்கப்பட்டு வருவதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
+
+பாராளுமன்ற உறுப்பினர்களான விஜேசிறி பஸ்நாயக்க மற்றும் அஜித் கிஹான் ஆகியோர் ஆடைத்தொழிற்சாலைக்கு விஜயம் செய்த போது கப்பம் பெற்றதாக குற்றம் சுமத்தப்பட்ட வீடியோ காட்சிகள் வெளிவந்ததை அடுத்து இந்த கைது இடம்பெற்றுள்ளது.
+
+எம்.பி.க்கள் தொழிற்சாலைக்கு வந்தவுடன் அவர்கள் கப்பம் பெற்றதாக குற்றஞ்சாட்டி ஒரு குழுவினர் அவர்களுக்கெதிராக ஆர்ப்பாட்டத்தில் ஈடுபடுவதை, ஐக்கிய மக்கள் சக்தி உறுப்பினர் நளின் பண்டார பகிர்ந்த காணொளி காட்டுகிறது.
+
+...
+
+[Data](articles/749828f1.json)
+
+---
 
 ### அதிகாரிகளுக்கு பரிசுகளை வழங்க வேண்டாம்;IGP அதிரடி
 
@@ -234,6 +252,48 @@ In response, the Consumer Affairs Authority (CAA) Chairman, Hemantha Samarakoon 
 
 ---
 
+### Jimmy Carter, in death, becomes symbol of lost political ‘decency’ in US
+
+*2024-12-31 10:20:00* · [`economynextcom`](https://economynext.com/jimmy-carter-in-death-becomes-symbol-of-lost-political-decency-in-us-197052/) · `en`
+
+(Washington, USA) The death of Jimmy Carter has brought to the fore a defining characteristic of the late US president’s life: his “decency,” seen as a product of a bygone era in today’s caustic political
+
+Joe Biden on Monday repeated the word three times while speaking to reporters about his late White House predecessor.
+
+Biden, who will be replaced in the White House by Donald Trump on January 20, added: “Can you imagine Jimmy Carter referring to someone by the way they look or the way they talk?”
+
+Despite the struggles he faced during his single term in office — from economic malaise to the Iran hostage crisis — Carter has emerged as a nostalgic figure.
+
+He spent his years after the White House advocating for global democracy, fighting neglected public health scourges and teaching Sunday school.
+
+...
+
+[Data](articles/d05bb612.json)
+
+---
+
+### Sri Lanka Police announce traffic plan for New Year’s Eve
+
+*2024-12-31 10:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-announce-traffic-plan-for-new-years-eve-197069/) · `en`
+
+ECONOMYNEXT – Sri Lanka Police said they are expecting a large number of people arriving in Colombo’s Galle Face area for the new year’s dawn, and announced a traffic plan to minimise congestion.
+
+A large number of people and vehicles are expected to come in to Galle Face premises from outside Colombo to celebrate the dawn of New Year 2025,” Sri Lanka Police said in a statement.
+
+Large crowds and congestion were seen in the area during Christmas.
+
+“Therefore, the Sri Lanka Police is going to implement a special traffic plan to reduce the traffic congestion in Pettah, Fort, Kompanya Veediya, Maradana, Kollupitiya, Bambalapitiya and Kurunduwatta Police divisions in Colombo city.”
+
+No parking will be allowed at the parking lots located on Galle Face road and all traffic will be diverted to public and private parking lots located around the city, it said.
+
+Fort: Wimaladharmasuriya Clock Tower – Charmans car park, Rasik Farid Mawatha – Hemas car park, D R Wijewardena Mawatha – Lake House car park
+
+...
+
+[Data](articles/5a4d2b41.json)
+
+---
+
 ### தந்தை தாக்கியதில் மகன் பலி
 
 *2024-12-31 10:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தந்தை-தாக்கியதில்-மகன்-பலி/76-349543) · `ta`
@@ -321,6 +381,32 @@ In response, the Consumer Affairs Authority (CAA) Chairman, Hemantha Samarakoon 
 ◼️
 
 [Data](articles/97797712.json)
+
+---
+
+### Sri Lanka rupee opens flat at 292.50/80 to US dollar, bonds steady
+
+*2024-12-31 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-50-80-to-us-dollar-bonds-steady-197054/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 292.50/80 to the US dollar in the spot market, broadly unchanged from 292.55/75 on Monday, while bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2027 was quoted stable at 9.75/90 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.08/20 percent, down from 10.05/15 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.25/35 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.60/70 percent, down from 10.65/75 percent.
+
+The central bank announced an auction of Rs 168,000 million of Treasury bills will be held Wednesday.
+
+In equities, the All Share Price Index was up 0.49 percent or 77.66 points, at 15,905.
+
+The more liquid S&P SL20 was up 0.74 percent, or 35.39 points, at 4,848.
+
+◼️
+
+[Data](articles/1c9265c2.json)
 
 ---
 
@@ -656,6 +742,26 @@ The police media unit has announced that the official YouTeep hacked by the Sri 
 
 ---
 
+### Fitch rates Sri Lanka’s governance bonds, but not macro-linked bonds
+
+*2024-12-31 07:21:00* · [`economynextcom`](https://economynext.com/fitch-rates-sri-lankas-governance-bonds-but-not-macro-linked-bonds-197050/) · `en`
+
+ECONOMYNEXT – Fitch has rated Sri Lanka’s Governance Linked bonds CCC+ in line with the sovereign rating but said it was not rating the bonds which are tied to changes in gross domestic product, where the principal payout also changes.
+
+A 2035, bond which the government can pay in rupees, was given a CCC+ local currency rating.
+
+“Fitch does not rate the macro-linked bonds, which would not be in line with its sovereign rating criteria,” the rating agency said.
+
+The new bonds were issued to restructure defaulted sovereign bonds.
+
+Fitch upgraded Sri Lanka from restricted default to CCC+ after the completion of a debt restructuring.
+
+...
+
+[Data](articles/0ebfd9e2.json)
+
+---
+
 ### சயனைட் அருந்தி நகைத் தொழிலாளி உயிரிழப்பு
 
 *2024-12-31 07:12:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சயனைட்-அருந்தி-நகைத்-தொழிலாளி-உயிரிழப்பு/175-349534) · `ta`
@@ -737,6 +843,48 @@ The police media unit has announced that the official YouTeep hacked by the Sri 
 ◼️
 
 [Data](articles/cffa2cbc.json)
+
+---
+
+### Sri Lanka 4-pct sovereign bond quoted around 6.0-pct, governance bond highest
+
+*2024-12-31 06:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-4-pct-sovereign-bond-quoted-around-6-0-pct-governance-bond-highest-197030/) · `en`
+
+ECONOMYNEXT – A plain sovereign bond paying a coupon of 4.0 percent due to mature in 2028 was quoted around 6.0 percent in the first week after issue, according to data published by the central bank.
+
+A rate of 6 percent for the 2028 compared with around 4.0 to 4.1 percent for 3 and 5-year yields indicating a risk premium of only 200 basis points for despite Sri Lanka having a rating of CCC+.
+
+At those levels Sri Lanka would be able to roll-over debt, analysts say.
+
+Sri Lanka issued a number of bonds with lower coupons than US Treasuries, which would go up later.
+
+Under so-called macro linked bonds, the principal would also go up, if gross domestic product grows faster than expected.
+
+They could also go down. As a result, they are somewhat difficult to price, as several contingencies have to be taken into account, dealers said. However closer to maturing their yields could go down.
+
+...
+
+[Data](articles/f42d3107.json)
+
+---
+
+### Sri Lanka Department of Government Printing website hacked
+
+*2024-12-31 06:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-department-of-government-printing-website-hacked-197041/) · `en`
+
+ECONOMYNEXT- Messages have been posted on some pages of the website of Sri Lanka’s Department of Government Printing claiming that it had been hacked.
+
+The pages included the pages carrying extra gazette notices and tenders.
+
+“This is my instagram:- stockmarket5783 Contact me if anyone needs help,” read one message in in the space where descriptions usually appear.
+
+“Website don’t have ssl certificate that’s why I’m here. update ssl certificate to secure the database,” admonished another message.
+
+There was also a message claiming that an ‘esoft’ student had hacked the website.
+
+◼️
+
+[Data](articles/df9fa70d.json)
 
 ---
 
@@ -909,6 +1057,20 @@ It addressed one of the key barriers faced by women entrepreneurs – the lack o
 [Data](articles/118b59af.json)
 
 [Extended Data](ext_articles/118b59af.ext.json)
+
+---
+
+### Past and Present India -Sri Lanka Relations ; 1987 Rajiv-JR Accord and the 2024 Modi-AKD Meeting.
+
+*2024-12-31 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85279) · `en`
+
+Sri Lanka’s newly elected President Anura Kumara Dissanayake  has successfully concluded his first state visit to  India from December 15 to 17. The optics of the three day visit to New Delhi has been hailed positively. President Dissanayake known popularly as AKD is the leader of the Janatha Vimukthi Peramuna as well as the JVP-led National People’s Power(NPP).
+
+The successful passage to India  has brought into focus the “mismatch” between JVP past and JVP present. The Janatha Vimukthi Peramuna’s  hard line regarding India in the past and its current soft line towards our big neighbour are being compared and contrasted.The successful state visit seems to indicate that the JVP’s relationship with India has  taken a positive “U”turn.
+
+...
+
+[Data](articles/71af3e8b.json)
 
 ---
 
@@ -1344,17 +1506,21 @@ Accordingly, the Food (Labelling and Advertising) Regulations 2022, published in
 
 ---
 
-### Past and Present India -Sri Lanka Relations ; 1987 Rajiv-JR Accord and the 2024 Modi-AKD Meeting.
+### Angry Mob   Surrounds Vehicles of NPP Govt’s Kurunegala MP Wijesiri Basanayake and Puttalam MP Ajith Gihan  at Bingiriya and Attempts to Assault them while using abusive language.
 
-*2024-12-30 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85279) · `en`
+*2024-12-30 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85284) · `en`
 
-Sri Lanka’s newly elected President Anura Kumara Dissanayake  has successfully concluded his first state visit to  India from December 15 to 17. The optics of the three day visit to New Delhi has been hailed positively. President Dissanayake known popularly as AKD is the leader of the Janatha Vimukthi Peramuna as well as the JVP-led National People’s Power(NPP).
+Two ruling party MPs- Wijesiri Basnayake of Kurunegala and Ajith Gihan of Puttalam- came under mob violence when they came out in their separate vehicles after a meeting with the management of an apparel factory in the Bingiriya area.
 
-The successful passage to India  has brought into focus the “mismatch” between JVP past and JVP present. The Janatha Vimukthi Peramuna’s  hard line regarding India in the past and its current soft line towards our big neighbour are being compared and contrasted.The successful state visit seems to indicate that the JVP’s relationship with India has  taken a positive “U”turn.
+According to video footage of the scene now doing the rounds on social media, the angry crowd of people who thronged at the gate of the factory hurled abuses at the two MPs while banging on their vehicles. The video footage that captures the intensity of the moment shows members of the mob using abusive language.
+
+The situation worsened further as some members of the mob attempted to forcibly pull the MPs out of their vehicles. The vehicles bore the brunt of the mob’s fury.
+
+After the incident, MP Basnayake who described the experience said the angry individuals first laid siege to the vehicles of his colleague and then to his one.
 
 ...
 
-[Data](articles/71af3e8b.json)
+[Data](articles/d0b2930d.json)
 
 ---
 
@@ -1511,6 +1677,28 @@ President Anura Kumara Dissanayake has issued a directive to the relevant author
 [Data](articles/270c337e.json)
 
 [Extended Data](ext_articles/270c337e.ext.json)
+
+---
+
+### සහල් ටොන් 154000ක් ආනයනය කරලා
+
+*2024-12-30 19:13:49* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-ටොන්-154000ක්-ආනයනය-කරලා/11-413927) · `si`
+
+සහල් ආනයනය කිරීම යටතේ දින 20ක කාලය තුළදී සහල් මෙට්‍රික් ටොන්  එක්ලක්ෂ පනස් හතර දහසක් ආනයනය කර තිබේ.
+
+සහල් ගෙන්වීමේ දෙවන අදියර මේ මස 24වන දින සිට ආරම්භ වූ අතර, මේ අනුව මෙරටට වරායෙන් ගොඩබෑ සහල් මෙට්‍රික් ටොන් 75,000ක් රේගුව විසින් මුදාහැර  තිබේ.
+
+මෙම සහල් තොගයෙන් මෙට්‍රික් ටොන් 32,000ක් කැකුළු සහල් වන අතර, මෙට්‍රික් ටොන් 43,000ක් නාඩු සහල් වේ. මීට අමතරව තවත් සහල් මෙට්‍රික් ටොන් 12,000ක් නැව් මගින් පැමිණ තිබෙන අතර, එම තොගයත් කඩිනමින් නිදහස් කිරීමට නියමිතය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා මුදල් අමාත්‍යවරයා ලෙස සහල් ගෙන්වීමට අදාළ ගැසට් නිවේදනය පසුගිය 24වැනි දින නිකුත් කළ අතර, මේ අනුව ලබන මස 10වැනි දින දක්වා සහල් ගෙන්වීමට අවසර හිමි වේ.
+
+සහල් ගෙන්වීමේ පළමු අදියර යටතේ මේ මස 10වැනි දින සිට 20වන දින දක්වා කාලයෙහි සහල් මෙට්‍රික් ටොන් 67,000ක් මෙරටට ගෙන්වීමට කටයුතු කර තිබේ.
+
+ආනයනය කරන සහල් ඉක්මනින් නිදහස් කිරීම සඳහා රේගුව ආහාර පරීක්ෂකවරුන් හා ශාක නිරෝධායන නිලධාරීන්ගේ සහයෝගයෙන් විශේෂ ක්‍රමවේදයක්ද ක්‍රියාත්මක කර තිබේ.
+
+◼️
+
+[Data](articles/f2752f5f.json)
 
 ---
 
@@ -1729,177 +1917,5 @@ Speaking further on this matter, the Minister also mentioned that they expect to
 ◼️
 
 [Data](articles/fde9c355.json)
-
----
-
-### Sri Lanka president appoints new army, navy chief
-
-*2024-12-30 18:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-new-army-navy-chief-197022/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed new commanders for army and navy on Monday.
-
-“I appointed Major General Lasantha Rodrigo as the new Army Commander and Rear Admiral Kanchana Banagoda as the new Navy Commander,” Dissanayake said in his X platform.
-
-The move comes after the former commanders went on retirement.
-
-Major General Rodrigo is the 25th Commander of the Sri Lanka Army and has succeeded retiring Lieutenant General Vikum Liyanage on December 31.
-
-Rear Admiral Banagoda, who is the Chief of Staff of the Sri Lanka Navy will be taking over as the 26th Commander of the Sri Lanka Navy from January 1, 2025, succeeding Vice Admiral Priyantha Perera.
-
-The official appointment letters were presented to the newly appointed commanders on Monday (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat.
-
-...
-
-[Data](articles/5b47aeec.json)
-
----
-
-### මඩකලපුවෙන් අල්ලාගත් යෝධ කිඹුලා
-
-*2024-12-30 18:09:17* · [`adalk`](https://www.ada.lk/breaking_news/මඩකලපුවෙන්-අල්ලාගත්-යෝධ-කිඹුලා/11-413921) · `si`
-
-කලක සිට මහජනතාවට විශාල හිංසා  කරමින් එළුවන්, එළදෙනුන්, කුකුළන් මිනිසුන් රැසක් මරා දැමූ අඩි 20ක් පමණ දිග යෝධ කිඹුලෙකු අද අලුයම මඩකලපුව  මුලස්ථාන පොලිස් වසමට අයත් පුලියන්තීවු වාවිකරේ පාර 2 ප්‍රදේශයේදී පණපිටින් අල්ලාගෙන තිබේ.
-
-පසුගිය දින කිහිපයේ මඩකලපුව ප්‍රදේශයේ ගඟේ දක්නට ලැබුණු මෙම කිඹුලා අද අලුයම 13.00 ට පමණ ගොඩබිමට පැමිණියා.   එවිටම මහජනතාව කිඹුලා අල්ලා ගත්හ.
-
-කිඹුලා ඇල්ලීමෙන් පසු කිඹුලා බැලීමට විශාල පිරිසක් රැස්ව සිටි අතර මඩකලපුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ප්‍රභූ කන්දසාමි මහතාද එම ස්ථානයට පැමිණියේය.
-
-අල්ලා ගත් කිඹුලා දිස්ත්‍රික් වනජීවී  දෙපාර්තමේන්තු නිලධාරීන් වෙත භාර දෙන ලදී.
-
-පසුගිය දා ඇති වූ ගංවතුර තත්ත්වයත් සමඟ මඩකලපුව ජල පෝෂක ප්‍රදේශයේ කිඹුලන් බෝවීම ඉහළ ගොස් තිබීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/6f2e8515.json)
-
----
-
-### கொழும்பு சுதந்திர சதுக்கத்தில் நாட்டின் 77 ஆவது தேசிய சுதந்திர தின நிகழ்வு - அமைச்சர் சந்தன அபயரத்ன
-
-*2024-12-30 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202580) · `ta`
-
-நாட்டின் 77 ஆவது தேசிய சுதந்திர தின நிகழ்வு கொழும்பு சுதந்திர சதுக்கத்தில் இடம்பெறவுள்ளதாக அரச பரிபாலனம், உள்ளூராட்சி மற்றும் மாகாண சபைகள் அமைச்சு அறிவித்துள்ளது.
-
-நாட்டின் கௌரவத்தை மேலோங்க செய்யும் வகையில் வெகுவிமர்சையாகவும் செலவுகளை கட்டுப்படுத்தும் வகையிலும் இம்முறை சுதந்திர தினநிகழ்வை நடத்த எதிர்பார்த்துள்ளதாக அரச பரிபாலனம் உள்ளூராட்சி மற்றும் மாகாண சபைகள் அமைச்சர் பேராசிரியர் சந்தன அபயரத்ன தெரிவித்தார்.
-
-தேசிய சுதந்திர தின நிகழ்வு ஏற்பாட்டுக் குழு கூட்டம் திங்கட்கிழமை (30) அமைச்சர் பேராசிரியர் சந்தன அபயரத்னவின் தலைமையில் உள்நாட்டு அலுவல்கள் அமைச்சில் இடம்பெற்றது. அதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/797e5cfe.json)
-
----
-
-### What did the two men who escaped in a plane crash?
-
-*2024-12-30 17:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/விமான-விபத்தில்-தப்பிய-இருவர்-கேட்டது-என்ன/50-349517) · `ta`
-
-Two flight attendants survive plane crash at Muan Airport. Lee has shoulder and head injuries, Guan has ankle fracture and abdominal injury. Both unconscious, unable to recall accident details.
-
-🟩
-
-From Thailand's Bangkok, 175 passengers and 6 employees, with 181 passengers and 181 people, were killed when a passenger plane crashed into a concrete barrier when landing at Muan Airport in the country's Muan Airport, killing 179 people.. Only two flight attendants, 32 -year -old Lee and 25 -year -old Guan, survived the crash.
-
-Both of them are on the job of helping travelers in the Wall area in the wreckage. What happened?Why am I here? 'Two passengers who survived the South Korea plane crash have asked the doctor. They could not recall the accident by the two. When they inquired about their health, they revealed that they lost their consciousness. 'They are in fear.
-
-...
-
-[Data](articles/a01e79cf.json)
-
-[Extended Data](ext_articles/a01e79cf.ext.json)
-
----
-
-### மஸ்கெலியாவில் டிப்பர் வாகனம் விபத்து  ; ஒரே குடும்பத்தைச் சேர்ந்த ஐவர் காயம்
-
-*2024-12-30 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202577) · `ta`
-
-மஸ்கெலியா பிரவுன்லோ தோட்டப் பகுதியில் இன்று திங்கட்கிழமை (30) சிறிய ரக வாகனம் ஒன்று வீதியை விட்டு விலகி கவிழ்ந்ததில் 5 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
-
-விபத்துக்குள்ளான வாகனத்தில் ஒரே குடும்பத்தைச் சேர்ந்த உறவினர்கள் உட்பட 7 பேர் பயணித்துள்ளனர்.
-
-இவர்கள் நேற்றைய தினம் சிவனொளிபாத மலைக்கு சென்று இன்று (30) கொடகவெலவிற்கு நோக்கி சென்று கொண்டிருந்த போதே இந்த விபத்து இடம்பெற்றுள்ளது.
-
-வாகனத்தில் இருந்த ஏழு பேரில் ஐந்து பேர் காயங்களுக்கு உள்ளாகி மஸ்கெலியா பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் , டிக்கோயா மாவட்ட ஆதார வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்கள்.
-
-◼️
-
-[Data](articles/0609bc32.json)
-
----
-
-### මාධ්‍යයට වාරණ පැනවීමට රජයට කිසිදු අදහසක් නෑ
-
-*2024-12-30 17:45:00* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍යයට-වාරණ-පැනවීමට-රජයට-කිසිදු-අදහසක්-නෑ/11-413920) · `si`
-
-මාධ්‍යයට වාරණ පැනවීමට නව රජයට කිසිදු අදහසක් නොමැති බවත්, ජනතාව වෙනුවෙන් මාධ්‍ය නිසිලෙස මෙහෙයවීමේ වගකීම රජය ඉටු කරන බවත් සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා මෙම අදහස් පළ කරනු ලැබුවේ  ශ්‍රී ලංකා විද්‍යුත් විකාශකයින්ගේ සංගම‍යේ නියෝජිතයින් පිරිසක් සමග පසුගිය දා ජනමාධ්‍ය අමාත්‍යාංශයේ දී පැවැති සාකච්ඡාවකට එක්වෙමිනි.
-
-ශ්‍රී ලංකා විද්‍යුත් විකාශකයින්ගේ සංගම‍යේ අදහස් සහ යෝජනා  අමාත්‍යවරයා වෙත ඉදිරිපත් කිරීමත්, ඉල්ලීම් කිහිපයක් පිළිබදව සාකච්ඡා කිරීමත් අරබයා එම සංගමය ජනමාධ්‍ය අමාත්‍යවරයාගෙන් කළ ඉල්ලීමක් අනුව මෙම සාකච්ඡාව කැඳවා තිබුණි. එහි දී එම සංගමයට බලපාන්නා වූ දැනට කෙටුම්පත් කර ඇති පනතක් සහ ක්‍රියාත්මක වන පනත්වල යම් යම් අඩුපාඩු පිළිබදව අමාත්‍යවරයා දැනුවත් කිරීමත්, සංගමයේ නියෝජිතයින්ට බලපානු ලබන පොදු කරුණු කිහිපයක් පිළිබදව සාකච්ඡා කිරීමත් සිදුවිය.
-
-...
-
-[Data](articles/4bebb04c.json)
-
----
-
-### මාලිමා මන්ත්‍රීට එල්ලවූ විරෝධය
-
-*2024-12-30 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204866) · `si`
-
-ජාතික ජන බලවේගයේ කුරුණෑගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී විජේසිරි බස්නායක මහතාට බිංගිරියේදී විරෝධතාවක් එල්ල වී තිබේ.
-
-ඒ එම ප්‍රදේශයේ කර්මාන්ත ශාලාවක ප්‍රවාහන සේවා කොන්ත්‍රාත්තුවක් ලබාගැනීම සම්බන්ධයෙන් තවත් පුද්ගලයෙකු හා එම ස්ථානයට පැමිණි අවස්ථාවේදීය.
-
-කුරුණෑගල බිංගිරිය ප්‍රදේශයේ පිහිටි ඇගලුම් කම්හලක සේවකයින්ට අවශ්‍ය ප්‍රවාහන පහසුකම් සපයන්නේ කම්හල අවට සිටින පිරිස විසින් බව වාර්තා වෙයි.
-
-ජාතික ජන බලවේගයේ කුරුණෑගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී විජේසිරි බස්නායක මහතා අද එම කම්හල පිහිටි ස්ථානයට පැමිණියේ එහි සේවකයින්ට අවශ්‍ය ප්‍රවාහන සේවා ලබාදීමට හැකි වෙනත් පාර්ශ්වයක් පිළිබඳ සාකච්ඡා කිරීමට බව එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
-
-තවත් පුද්ගලයෙකු සමඟ පැමිණි විජේසිරි බස්නායක මහතාට දැනට ප්‍රවාහන පහසුම් සපයන පිරිසගෙන් එල්ල වූයේ දැඩි විරෝධයකි.
-
-◼️
-
-[Data](articles/90e656ef.json)
-
----
-
-### හෙට කොළඹ විශේෂ රථවාහන සැලැස්මක්
-
-*2024-12-30 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204865) · `si`
-
-2025 නව වසර උදාව නිමිත්තනේ හෙට (31) දිනයේ ගාලු මුවදොර පරිශය ආශ්‍රිතව ක්‍රියාත්මක කරනු ලබන විශේෂ රථ වාහන සැලැස්මක් පිළිබඳව පොලීසිය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
-
-එහි සඳහක්ව ඇත්තේ හෙට දිනයේ කොළඹ නගරය වෙත පිට පළාත්වලින් නව වසර උදාව සැමරීම සඳහා විශාල ජනතාවක් සහ රථ වාහන ප්‍රමාණයක් ගාලු මුවදොර පරිශ්‍රය වෙත පැමිණෙතැයි අපේක්ෂා කරන බවය.
-
-මේ හේතවෙන් කොළඹ නගරය කේන්ද්‍ර කරගනිමින් පිටකොටුව, කොම්පඥවීදිය, මරදාන, කොල්ලුපිටිය, බම්බලපිටිය හා කුරුඳුවත්ත යන පොලිස් වසම්වල අධික රථවාහන තදබදයක් ඇති විය හැකි බැවින් ඒ සඳහා විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාවට නංවා ඇති බවය.
-
-ඒ අනුව හෙට දින ගාලු මැද පාර පිහිටි නැවතුම් ස්ථානවල රථවාහන නැවැත්වීමට ඉඩ ලබා නොදෙන අතර සියලුම රථවාහන පහත සඳහන් පොලිස් වසම්වල පිහිටි නිදහස් රථ ගාල් සහ පුද්ගලික රථගාල් වෙත යොමු කිරීමට සැලමුම් කර තිබේ.
-
-කොම්පඤ්ඤ වීදිය - යුනියන් පෙදෙස ඩෝසන් වීදිය හන්දිය ඇක්සස් ටවර් රථගාල
-
-පහත සඳහන් නිදහස් රථගාල් සහ මාර්ග දෙපස, මුදල් අයකිරීමකින් තොරව අවහිරතා ඇති නොවන පරිදි රථවාහන ගාල් කිරීම සඳහා අවස්ථාව සලසා ඇත.
-
-...
-
-[Data](articles/401d44ee.json)
-
----
-
-### Special traffic plan in Colombo for New Year’s Eve
-
-*2024-12-30 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104592/special-traffic-plan-in-colombo-for-new-years-eve-) · `en`
-
-Sri Lanka Police announced that a special traffic plan will be implemented in Colombo for New Year’s Eve as a large number of people and vehicles are expected to arrive at the Galle Face Green premises tomorrow (December 31) to celebrate the dawn of 2025.
-
-Accordingly, the special traffic plan will be implemented to reduce the severe traffic congestion expected in Colombo city including in areas such as Pettah, Fort, Kompanna Vidiya, Maradana, Kollupitiya, Bambalapitiya and Cinnamon Garden police areas.
-
-Sri Lanka Police further said that vehicles will not be allowed to be parked in the parking areas located on Galle Central Road while all vehicles will be directed to the following free parking areas and private parking lots:
-
-Special Traffic Plan in Colombo for New Year’s Eve by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/ef8af1a3.json)
 
 ---

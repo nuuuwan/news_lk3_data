@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 13:27:37**
+As of **2024-12-31 13:44:10**
 
 ## Newspaper Stats
 
-*Scraped **62,899** Articles*
+*Scraped **62,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,824
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,008
-adaderanalk | 7,682
+adaderanalk | 7,690
 tamilmirrorlk | 9,028
-virakesarilk | 10,447
-adaderanasinhalalk | 10,871
+virakesarilk | 10,448
+adaderanasinhalalk | 10,874
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,899 articles have been extended.
+61,969 (98.5%) of 62,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### රාජ්‍ය සේවක කප්පාදුව ගැන රජයේ ස්ථාවරය
+
+*2024-12-31 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204900) · `si`
+
+රාජ්‍ය සේවක කප්පදුවක් සිදුකිරීමට බලාපොරොත්තුවක් නොමැති බව අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+◼️
+
+[Data](articles/7fe3b707.json)
+
+---
+
+### ලොව විශාලතම පොම්ප කරන ලද ජල විදුලි බලාගාරයේ කටයුතු ඇරඹේ
+
+*2024-12-31 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204899) · `si`
+
+ලොව විශාලතම පොම්ප කරන ලද ජල විදුලි බලාගාරයේ විදුලි උත්පාදන කටයුතු සම්පූර්ණයෙන් ආරම්භ කළ බව චීන ජල විදුලි සංවර්ධන සමාගම අද (31) නිවේදනය කළේය.
+
+වර්තමානයේ ලෝකයේ විශාලතම පොම්ප කරන ලද බලශක්ති සංචිත ජල විදුලි බලාගාරය වන චීනයේ Hebei Fengning බලාගාරයේ අවසන් විචල්‍ය වේග මාපක යන්ත්‍රය නිල වශයෙන් වාණිජ මෙහෙයුම් ක්‍රියාත්මක කිරීමත් සමග එම විදුලි බලාගාරය විදුලි බල උත්පාදන කටයුතු සම්පූර්ණයෙන් ක්‍රියාත්මක කර තිබේ.
+
+Fengning විදුලි බලාගාරය චීනයේ Hebei පළාතේ Chengde නගරයේ Fengning Man ජාතික ස්වායත්තයේ පිහිටා තිබේ.
+
+එම විදුලි බලාගාරය චීනයේ බෙයිජිං නගරය, ටියැන්ජිං නගරය හා Hebei පළාත යන ප්‍රදේශවල විදුලි බල සැපයුම් මධ්‍යස්ථානය මෙන්ම උතුරු Hebei පළාතේ කිලෝවොට් මිලියන 10ක මට්ටමේ නව බලශක්ති මධ්‍යස්ථානයට ද ආසන්නව පිහිටා ඇත.
+
+එම විදුලි බලාගාරයේ ස්ථාපිත ධාරිතාවය කිලෝවොට් මිලියන 3.6ක් වන අතර සැලසුම් කරන ලද වාර්ෂික විදුලි බල උත්පාදනය කිලෝවොට් පැය බිලියන 6.612කි.
+
+එමෙන්ම වාර්ෂිකව පොම්ප කරන ලද බලශක්ති උත්පාදනය කිලෝවොට් පැය බිලියන 8.716කි.
+
+...
+
+[Data](articles/cf9f1c8d.json)
+
+---
+
+### அரிசி தட்டுப்பாடு ; பாற்சோற்றுக்கு ஆபத்து
+
+*2024-12-31 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202604) · `ta`
+
+இந்நிலையில், நாளை 2025 ஆம் ஆண்டு புத்தாண்டை வரவேற்க மக்கள் ஆவலுடன் காத்துக் கொண்டுடிருக்கும் சூழ்நிலையில்,  சந்தையில் நாட்டு அரிசி மற்றும் வெள்ளை பச்சை அரிசி வகைகளுக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+பாற்சோறு தயாரிப்பதற்கு வெள்ளை பச்சை அரிசியே அநேகமாக பயன்படுகின்ற நிலையில், சந்தையில் இத்தகைய உள்நாட்டு அரிசி வகைகளுக்கு கடும் தட்டுப்பாடு நிலவுவுதாக மரதகஹமுல அரிசி வியாபாரிகள் சங்கத்தின் உறுப்பினர் எஸ்.எஸ்.ரணசிங்க தெரிவித்துள்ளார்.
+
+அரிசி தட்டுப்பாடு மற்றும் அரிசி உற்பத்தியாளர்கள் கையிருப்புகளை மறைத்து வைத்திருப்பதாக எழுந்த குற்றச்சாட்டுக்களை அடுத்து, ஜனாதிபதி அனுரகுமார திஸாநாயக்க அரிசி வியாபாரிகளுக்கு நாட்டு அரிசியை கிலோ ஒன்றுக்கு மொத்த விலையில் 225 ரூபாவிற்கும் சில்லறை விலையாக 230 ரூபாவிற்கும் நுகர்வோருக்கு விற்குமாறு பணிப்புரை விடுத்தார்.
+
+இந்த இரண்டு வகைகளும் நாட்டில் அதிகம் பயன்படுத்தப்படுவதோடு,  இலங்கையின் பிரதான உணவாக அரிசி உள்ளது.
+
+அத்துடன், இறக்குமதி மீதான கட்டுப்பாடுகளையும் அரசாங்கம் நீக்கியதோடு, 75,000 தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது.
+
+...
+
+[Data](articles/7d1c5c1a.json)
+
+---
+
+### දූෂණ විරෝධී පනත වෙනස් කිරීමට කළ යෝජනාවට කැබිනට් අනුමැතිය
+
+*2024-12-31 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204898) · `si`
+
+දූෂණ විරෝධි පනත සංශෝධනය කිරීම සඳහා ජනාධිපතිවරයා විසින් ඉදිරිපත් කළ යෝජනාවක් සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+එම පනතට අනුව විමර්ශන, නඩු පැවරීම, පරිපාලනමය සහ අධිකරණමය කටයුතු සිදු කිරීමට යාමේදී අල්ලස් කොමිසමට සැලකිය යුතු නෛතික අර්ථ නිරූපණ හා තාක්ෂණික ගැටලුවලට මුහුණ දීමට සිදුව තිබේ.
+
+ඒ අනුව දූෂණ විරෝධි පනතේ ඇතැම් වගන්ති සංශෝධනය කිරීමට සහ අලුතින් වගන්ති කිහිපයක් ඇතුළත් කිරීමට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් යෝජනා කර තිබේ.
+
+ඒ අනුව අත්‍යවශ්‍ය ලෙස සංශෝධනය කළ යුතු වගන්ති හා ඇතුළත් කළ යුතු නව වගන්ති පිළබඳව නිර්දේශ සහිත සවිස්තරාත්මක වාර්තාවක් ඉදිරිපත් කිරීම පිණිස කමිටුවක් පත් කිරීමට නියමිතය.
+
+මේ සඳහා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ කොමසාරිස්වරයෙකුගේ ප්‍රධානත්වයෙන් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය, නීතිපති දෙපාර්තමේන්තුව හා නීති කෙටුම්පත් සම්පාදක දෙපාර්තමේන්තුව යන ආයතවල ජ්‍යෙෂ්ඨ නිලධාරීන්ගෙන් සමන්විත කමිටුවක් පත් කිරීමට  ජනාධිපතිවරා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/450c13a6.json)
+
+---
 
 ### நாளை புலரும் பொழுது புத்தாண்டு
 
@@ -50,11 +124,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### தரம் ஒன்றுக்கு மாணவர்களை உள்வாங்கும் நடவடிக்கை ஜனவரி 30 ஆம் திகதி
+### முதலாம் தர மாணவர்களுக்கு 30ஆம்  திகதி பாடசாலை ஆரம்பம் - கல்வி அமைச்சு
 
-*2024-12-31 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202607) · `ta`
+*2024-12-31 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202607) · `ta`
 
-2025 ஆம் ஆண்டுக்கான அரச பாடசாலைகள் மற்றும் சிங்களம், தமிழ் மற்றும் முஸ்லிம் பாடசாலைகள் உட்பட அரச மற்றும் அரச  அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளில் தரம் ஒன்றுக்கு மாணவர்களை உள்வாங்கும் நடவடிக்கை ஜனவரி 30 ஆம் திகதி  முதல் ஆரம்பிக்கப்படவுள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+அரச மற்றும் அரச அங்கீகாரம் பெற்ற சகல பாடசாலைகளிலும் புதிதாக உள்வாங்கப்பட்டுள்ள முதலாம் வகுப்பு மாணவர்களுக்கான கற்பித்தல் செயற்பாடுகள் இம்மாதம் 30 ஆம் திகதி ஆரம்பமாகும் என்று கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+இன்று செவ்வாய்கிழமை (31) அறிக்கையொன்றை வெளியிட்டு கல்வி அமைச்சு இதனைத் தெரிவித்துள்ளது. அதற்கமைய அனைத்து சிங்கள, தமிழ் மற்றும் முஸ்லிம் அரச பாடசாலைகளின் புதிய தரம் ஒன்று மாணவர்களுக்கு ஜனவரி 30 ஆம் திகதி வகுப்புகள் ஆரம்பமாகவுள்ளன.
+
+இதேவேளை விடுமுறையின் பின்னர் நாளை வியாழக்கிழமை மீள பாடசாலைகள் ஆரம்பிக்கப்படவுள்ளன. சகல பாடசாலைகளிலும் மூன்றாம் தவணையின் இரண்டாம் கட்ட கற்றல், கற்பித்தல் செயற்பாடுகள் வியாழக்கிழமை (02) ஆரம்பமாகி, எதிர்வரும் 24ஆம் திகதியுடன் நிறைவடையவுள்ளன.
+
+இதேவேளை இவ்வாண்டுக்கான கல்விப் பொதுத் தராதர சாதாரண தர பரீட்சைகள் 2025 மார்ச் 17ஆம் திகதி முதல் 26ஆம் திகதி வரை ஆரம்பமாகவுள்ளதாக பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார். பரீட்சை நேர அட்டவணை என்பதை விரைவில் வெளியிடப்படும் என்றும் அவர் மேலும் தெரிவித்துள்ளார்.
 
 ◼️
 
@@ -77,6 +157,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c87c7c9d.json)
+
+---
+
+### Govt. to review recruitment process in public institutions
+
+*2024-12-31 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104615/govt-to-review-recruitment-process-in-public-institutions) · `en`
+
+The Government of Sri Lanka will appoint an Officers’ Committee chaired by the Secretary to the Prime Minister to review the recruitment process and personnel management in the public service.
+
+The proposal related to the matter, submitted to the Cabinet of Ministers by President Anura Kumara Dissanayake has received approval during the Cabinet meeting held on Monday (Dec. 30).
+
+Accordingly, the staff of Commissions, Ministries, Departments and Statutory Boards as well as Provincial Councils will be reviewed by the said committee and take necessary steps to make essential recruitments and redeploy staff according to service requirements to ensure maximum and efficient service.
+
+◼️
+
+[Data](articles/a71fc257.json)
 
 ---
 
@@ -116,6 +212,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### SME paddy businesses to get pledge loans at concessional rates every cultivation season
+
+*2024-12-31 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104614/sme-paddy-businesses-to-get-pledge-loans-at-concessional-rates-every-cultivation-season) · `en`
+
+The Cabinet of Ministers has greenlighted the proposal to implement the Pledge Loan Scheme provided to small and medium scale paddy mill owners for purchasing paddy as an annual programme.
+
+Speaking during the Cabinet press briefing held today (31), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that with the aim of ensuring a fair price for the paddy harvest and strengthening small and medium scale paddy mill owners, the implementation of the Pledge Loan Scheme for small and medium scale paddy mill owners through state banks at a concessional interest rate was decided at the Cabinet meeting held on August 14, 2023.
+
+Since it has been observed that this program has achieved high progress in previous seasons, it has been identified as appropriate to implement the said program in every season from the 2024/25 Maha season, the Minister noted.
+
+...
+
+[Data](articles/d2a115dc.json)
+
+---
+
 ### වී මිලදී ගැනීම සඳහා සහනදායී ණය ක්‍රමයක්
 
 *2024-12-31 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204896) · `si`
@@ -136,6 +248,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Appropriation Bill for 2025 receives Cabinet approval
+
+*2024-12-31 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104613/appropriation-bill-for-2025-receives-cabinet-approval) · `en`
+
+The Cabinet of Ministers has granted approval to table the Appropriation Bill (Budget) for the Financial Year 2025 to the Parliament.
+
+During the Cabinet meeting held on November 25, approval was granted to instruct the legal draftsman to prepare the Appropriation Bill for the Financial Year 2025.
+
+The Attorney General’s clearance has been received for the Appropriation Bill for the Financial Year 2025 prepared by the Legal Draftsman.
+
+Thus, the Cabinet of Ministers has approved the proposal made by President Anura Kumara Dissanayake in his capacity as the Minister of Finance, Planning and Economic Development to publish the said Bill in the Government Gazette and thereafter table it in the Parliament for approval.
+
+◼️
+
+[Data](articles/58310304.json)
+
+---
+
 ### 2025 අයවැය කතාව ජනවාරි 09 වැනිදා
 
 *2024-12-31 12:15:47* · [`adalk`](https://www.ada.lk/breaking_news/2025-අයවැය-කතාව-ජනවාරි-09-වැනිදා/11-413935) · `si`
@@ -147,6 +277,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/61f075c2.json)
+
+---
+
+### New Sri Lanka Navy Commander assumes duties
+
+*2024-12-31 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104612/new-sri-lanka-navy-commander-assumes-duties) · `en`
+
+Vice Admiral Kanchana Banagoda has assumed duties as the new Commander of the Sri Lanka Navy at Navy Headquarters today (31).
+
+The official appointment letter of the new Navy Commander was presented to him on Monday (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat in Colombo.
+
+The new Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda served as the Chief of Staff of Sri Lanka Navy since August 2024.
+
+He has had the privilege of commanding various Fast Attack Craft, Ships and Establishments in the Sri Lanka Navy. Among some of the other appointments he held; Director Naval Training, Commander Southeastern Naval Area, Commander North Central Naval Area and Commander Northern Naval Area stood prominent.
+
+Prior to being appointed as Chief of Staff of the Sri Lanka Navy, he was discharging duties as Commander Eastern Naval Area.
+
+...
+
+[Data](articles/d1ec5ebe.json)
 
 ---
 
@@ -239,6 +389,26 @@ A senior police official said that a group of Bingiriya police officers had take
 ◼️
 
 [Data](articles/89e51c20.json)
+
+---
+
+### Special traffic and parking plan in Colombo on New Year’s eve
+
+*2024-12-31 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104611/special-traffic-and-parking-plan-in-colombo-on-new-years-eve-) · `en`
+
+Sri Lanka Police has announced a special traffic plan to minimize congestion in Colombo city on New Year’s Eve, December 31, 2024.
+
+With large crowds and vehicles expected to gather at the Galle Face green for celebrations, the alternative routes and parking arrangements were introduced to ease traffic flow, the Police Media Division said.
+
+Accordingly, given the likelihood of heavy traffic congestion in Pettah, Colombo Fort, Kompanna Veediya, Maradana, Kollupitiya, Bambalapitiya, and Cinnamon Gardens police divisions in Colombo, the Sri Lanka Police will implement the special traffic plan to mitigate the anticipated gridlock, it added.
+
+As part of this plan, parking on Galle Middle Road will be prohibited on December 31, 2024, with vehicles redirected to designated free and private parking areas in nearby police divisions.
+
+- Heavy vehicles and buses: From Ceramic Junction to Regal Junction via D.R. Wijewardena Mawatha and Chithappalam A. Garden Mawatha towards Kompanna Veediya Junction.
+
+...
+
+[Data](articles/bf2f63ac.json)
 
 ---
 
@@ -336,6 +506,22 @@ A senior police official said that a group of Bingiriya police officers had take
 
 ---
 
+### SC delivers verdict in petitions against govt’s decision on 2024 Scholarship Exam
+
+*2024-12-31 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104610/sc-delivers-verdict-in-petitions-against-govts-decision-on-2024-scholarship-exam) · `en`
+
+The Supreme Court has declared that the fundamental human rights have been violated through the government’s decision to award free marks to all students for the three questions of the 2024 Grade 05 Scholarship Examination which are alleged to have been leaked.
+
+Accordingly, the court also ordered the Commissioner General of Examinations to immediately implement a suitable recommendation out of the three recommendations made by the experts’ committee appointed to look into the matter.
+
+Additionally, the judge bench also ordered the suspects who have allegedly assisted in leaking the three questions of the question paper ii of the 2024 Grade 05 Scholarship Examination to pay compensation to the government.
+
+...
+
+[Data](articles/9db5438b.json)
+
+---
+
 ### அதிகாரிகளுக்கு பரிசுகளை வழங்க வேண்டாம்;IGP அதிரடி
 
 *2024-12-31 11:04:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகளுக்கு-பரிசுகளை-வழங்க-வேண்டாம்-IGP-அதிரடி/175-349550) · `ta`
@@ -372,6 +558,22 @@ A senior police official said that a group of Bingiriya police officers had take
 
 ---
 
+### Notice for students entering Grade 01 in 2025
+
+*2024-12-31 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104608/notice-for-students-entering-grade-01-in-2025) · `en`
+
+The school days for the students newly enrolled to the Grade 01 classes of all government and government-approved private schools for the academic year 2025 will commence on January 30, 2025.
+
+This was communicated by the Ministry of Education in a special announcement made today (Dec. 31).
+
+Accordingly, the Education Ministry noted that the Grade 01 classes of all Sinhala, Tamil and Muslim government and government-approved private schools will commence on January 30, 2025.
+
+◼️
+
+[Data](articles/280e9179.json)
+
+---
+
 ### ஜனவரி 30 முதல் ஆரம்பம்
 
 *2024-12-31 10:51:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-30-முதல்-ஆரம்பம்/175-349549) · `ta`
@@ -393,6 +595,26 @@ A senior police official said that a group of Bingiriya police officers had take
 ◼️
 
 [Data](articles/f1b77cf4.json)
+
+---
+
+### New Sri Lanka Army Commander assumes duties
+
+*2024-12-31 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104607/new-sri-lanka-army-commander-assumes-duties) · `en`
+
+Lieutenant General Lasantha Rodrigo has officially assumed duties as the 25th Commander of the Sri Lanka Army at the Army Headquarters, a short while ago.
+
+The official appointment letter of the new Army Commander was presented to him on Monday (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat in Colombo.
+
+Accordingly, Major General Lasantha Rodrigo takes over as the 25th Commander of the Sri Lanka Army, following the retirement of Lieutenant General Vikum Liyanage from active service today (31).
+
+A seasoned military officer, Major General Rodrigo previously served as the Deputy Chief of Staff of the Sri Lanka Army, demonstrating a distinguished career in leadership and service.
+
+He also previously served as the Commandant of the Defence Services Command and Staff College.
+
+◼️
+
+[Data](articles/336efd39.json)
 
 ---
 
@@ -1637,203 +1859,5 @@ Corruption can be classified into two main types based on its origin:
 ...
 
 [Data](articles/4cf8a983.json)
-
----
-
-### Sri Lanka’s crisis: Short and long run
-
-*2024-12-30 22:10:37* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-crisis-Short-and-long-run/4-771166) · `en`
-
-If there is one big lesson to be learned, it is that there are no shortcuts to carving out a real path out of the depression
-
-The problem, however, cannot be resolved simply by critiquing the IMF. Rather, a new macroeconomic framework is required to identify and resolve the specific aspects of the depression in Sri Lanka. This approach requires thinking the short run solutions of relief and stimulus together with a long run development vision. Historically, of course, the field of development economics has held that poor countries need to generate enough of a surplus that can be invested in sectors of the economy capable of producing robust growth, especially industry
-
-...
-
-[Data](articles/e1836dea.json)
-
----
-
-### Case for smart sizing public service
-
-*2024-12-30 22:06:05* · [`dailyftlk`](https://www.ft.lk/columns/Case-for-smart-sizing-public-service/4-771165) · `en`
-
-Smart sizing offers Sri Lanka a strategic pathway to modernising its public sector
-
-The public service is a major employer in Sri Lanka, engaging approximately 1.3 million people. Recently, Presidential Advisor Duminda Hulangamuwa remarked that the country would need to downsize its State sector employee pool from its existing 1.3 million to 750,000. Sri Lanka’s public sector has historically served as a cornerstone of governance and public service delivery. However, persistent challenges such as inefficiency, overspending, and a lack of accountability have significantly hindered its performance.
-
-...
-
-[Data](articles/b1a7a7e3.json)
-
----
-
-### Truth about nation brand building campaigns
-
-*2024-12-30 21:52:09* · [`dailyftlk`](https://www.ft.lk/columns/Truth-about-nation-brand-building-campaigns/4-771164) · `en`
-
-People within and outside the country must talk good of Sri Lanka
-
-There has been much discussion recently in the media that Sri Lanka will be developing a ‘Unified Campaign’ that will be based on the core values of the country. The campaign will cut across tea, exports, Sri Lanka cricket and tourism and each of these items will reflect the core values of Sri Lanka. The media reports also shared the benefits that such a campaign can bring into a country. It’s great that the current administration, who has educated policy makers, is thinking of such game changing strategies.
-
-...
-
-[Data](articles/5d915869.json)
-
----
-
-### A discussion between electronic broadcastkers' union and the Minister of Mass Media
-
-*2024-12-30 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204873) · `si`
-
-Sri Lanka Electronic Broadcasters' Union meets Health & Mass Media Minister Dr. Nalinda Jayatissa. Minister denies plans to restrict media freedom, emphasizes government's responsibility to guide media effectively. Discussion focuses on improving media environment, addressing journalist safety concerns.
-
-🟩
-
-Health and Mass Media Media Minister Dr. Nalinda Jayatissa says that the new government has no intention of imposing injuries.
-
-The Minister further stated that the Government fulfills the responsibility of the media to properly direct the media for the public.
-
-A meeting between representatives of the Sri Lanka Electric Armurs and Dr. Nalinda Jayatissa was held at the Ministry of Mass Media recently.
-
-The discussion had been called on a request made by the Minister to present the views and proposals of the Sri Lanka Electric Armurs Association to the Minister and discussing several demands.
-
-The discussion has been discussed at the discussion of some of the shortcomings of the Association and the shortcomings of the Association.
-
-The Minister also said that the media and the government should be aware of the responsibility of the government and the government is responsible for the people.
-
-The Minister further stated that the government had no idea to impose injustice to the media.
-
-...
-
-[Data](articles/614a4072.json)
-
-[Extended Data](ext_articles/614a4072.ext.json)
-
----
-
-### South Korea orders airline safety probe after worst domestic crash kills 179
-
-*2024-12-30 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104597/south-korea-orders-airline-safety-probe-after-worst-domestic-crash-kills-179) · `en`
-
-South Korea’s acting President Choi Sang-mok on Monday ordered an emergency safety inspection of the country’s entire airline operation as investigators worked to identify victims and find out what caused the deadliest air disaster on South Korean soil.
-
-All 175 passengers and four of the six crew were killed when a Jeju Air  Boeing  737-800 belly-landed and skidded off the end of the runway at Muan International Airport, erupting in a fireball as it slammed into a wall. Two crew members were pulled out alive.
-
-The top priority for now is identifying the victims, supporting their families and treating the two survivors, Choi told a disaster management meeting in Seoul.
-
-“Even before the final results are out, we ask that officials transparently disclose the accident investigation process and promptly inform the bereaved families,” he said.
-
-...
-
-[Data](articles/a0a18f3e.json)
-
----
-
-### 12 வயதுக்குட்பட்ட சிறுவர்களை விளம்பரங்களில் பயன்படுத்துவதற்கு தடை - விசேட வர்த்தமானி அறிவித்தல்
-
-*2024-12-30 21:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202584) · `ta`
-
-12 வயதுக்குட்பட்ட சிறுவர்களை விளம்பரங்களில் பயன்படுத்துவதை தடை செய்யும் விசேட வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
-
-கடந்த 6ஆம் திகதி நடைபெற்ற நாடாளுமன்ற அமர்வில், ஜனவரி முதலாம் திகதி முதல் 12 வயதுக்குட்பட்ட சிறுவர்களை விளம்பரங்களில் பயன்படுத்துவது தடைசெய்யப்படும் என சுகாதார பிரதி அமைச்சர் டொக்டர் ஹசங்க விஜேமுனி தெரிவித்திருத்திருந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/d979bd62.json)
-
----
-
-### Revival of trade promotion office by NPP essential
-
-*2024-12-30 21:41:14* · [`dailyftlk`](https://www.ft.lk/columns/Revival-of-trade-promotion-office-by-NPP-essential/4-771163) · `en`
-
-The manifesto of the NPP was launched last August by its leader Anura Kumara Dissanayake
-
-National People’s Power (NPP) that came to power with a landslide victory, in its manifesto has clearly noted the necessity of export development and even key members of the NPP in various fora highlighted that priority would be given to export development.
-
-Since the latter part of the 1970s Sri Lanka has been following the market-oriented economy or so called open economic policy. The main objective of the founders of this open economy was to create an export-oriented economy to produce products and services to the mass global market. Even the major partner of the new Government Janatha Vimukthi Peramuna (JVP), a Marxist party and NPP commonly believes in the need of the existing economic policy which is based on a market-oriented economy. The NPP Government accordingly may consider to continue the same economic policy with strategic changes introduced for the benefit of the people as needed.
-
-...
-
-[Data](articles/edb6d7d7.json)
-
----
-
-### අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරමින් ගැසට් නිවේදනයක්
-
-*2024-12-30 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204872) · `si`
-
-අවුරුදු 12ට අඩු ළමුන් වෙළඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරමින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
-
-සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර තිබේ.
-
-පසුගිය 6 වැනිදා රැස්වූ පාර්ලිමේන්තු සභාවාරයේදී සෞඛ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හසංක විජේමුණි මහතා පැවසුවේ ජනවාරි 01 වැනිදා සිට අවුරුදු 12ට අඩු ළමුන් වෙළෙඳ ප්‍රචාරණයට යොදා ගැනීම තහනම් කරන බවය.
-
-◼️
-
-[Data](articles/bcfab214.json)
-
----
-
-### Sri Lanka bans featuring children under 12 in ads for food
-
-*2024-12-30 21:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104596/sri-lanka-bans-featuring-children-under-12-in-ads-for-food) · `en`
-
-A Gazette notification has been issued by the Minister of Health and Mass Media Dr. Nalinda Jayatissa prohibiting the featuring of children under the age of 12 years in advertising of food items with effect from January 01, 2025.
-
-The regulations have been made by the Minister of Health and Mass Media, in consultation with the Food Advisory Committee under Section 32 of the Food Act, No. 26 of 1980.
-
-Accordingly, the Food (Labelling and Advertising) Regulations 2022, published in Gazette Extraordinary, No. 2319/40 of February 14, 2023, as amended by Gazette Extraordinary, No. 2364/24 of 27th December, 2023 has been further amended.
-
-◼️
-
-[Data](articles/1903a6eb.json)
-
----
-
-### Angry Mob   Surrounds Vehicles of NPP Govt’s Kurunegala MP Wijesiri Basanayake and Puttalam MP Ajith Gihan  at Bingiriya and Attempts to Assault them while using abusive language.
-
-*2024-12-30 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85284) · `en`
-
-Two ruling party MPs- Wijesiri Basnayake of Kurunegala and Ajith Gihan of Puttalam- came under mob violence when they came out in their separate vehicles after a meeting with the management of an apparel factory in the Bingiriya area.
-
-According to video footage of the scene now doing the rounds on social media, the angry crowd of people who thronged at the gate of the factory hurled abuses at the two MPs while banging on their vehicles. The video footage that captures the intensity of the moment shows members of the mob using abusive language.
-
-The situation worsened further as some members of the mob attempted to forcibly pull the MPs out of their vehicles. The vehicles bore the brunt of the mob’s fury.
-
-After the incident, MP Basnayake who described the experience said the angry individuals first laid siege to the vehicles of his colleague and then to his one.
-
-...
-
-[Data](articles/d0b2930d.json)
-
----
-
-### AKD/NPP Government: COPA, COPE, And MAFIA(s)
-
-*2024-12-30 20:52:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/akd-npp-government-copa-cope-and-mafias/) · `en`
-
-...
-
-[Data](articles/a4288fa6.json)
-
----
-
-### டஃபியின் பந்துவீச்சில் பணிந்தது இலங்கை; ரி20 தொடரைக் கைப்பற்றியது நியூஸிலாந்து
-
-*2024-12-30 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202583) · `ta`
-
-மவுன்ட் மௌங்கானுய், பே ஓவல் விளையாட்டரங்கில் திங்கட்கிழமை (30) நடைபெற்ற 2ஆவது சர்வதேச ரி20 கிரிக்கெட் போட்டியில் ஜேக்கப் டஃபியின் அற்புதமான பந்துவீச்சின் உதவியுடன் இலங்கையை 45 ஓட்டங்களால் நியூஸிலாந்து இலகுவாக வெற்றி கொண்டது.
-
-இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரை, ஒரு போட்டி மீதிமிருக்க 2 - 0 என்ற ஆட்டங்கள் வித்தியாசத்தில் நியூஸிலாந்து கைப்பற்றியது.
-
-இதே மைதானத்தில் நடைபெற்ற முதலாவது போட்டியில் போன்று இந்தப் போட்டியிலும் மத்திய வரிசை வீரர்கள் ஒற்றை இலக்க எண்ணிக்கைகளுடன் அல்லது ஓட்டம் பெறாமல் ஆட்டம் இழந்ததால் இலங்கை படுதோல்வி அடைந்து தொடரையும் பறிகொடுத்தது.
-
-இந்த மைதானத்தில் முதலில் துடுப்பெடுத்தாடும் அணிக்கு சாதகமான முடிவு கிடைக்கும் என்பதை அறிந்திருந்தும் இலங்கை அணித் தலைவர் சரித் அசலன்க, முதல் இரண்டு போட்டிகளிலும் களத்தடுப்பை தெரிவுசெய்தது ஆச்சரியத்தை தோற்றுவித்துள்ளது.
-
-...
-
-[Data](articles/486ffa33.json)
 
 ---

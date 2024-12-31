@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 00:27:54**
+As of **2025-01-01 00:43:07**
 
 ## Newspaper Stats
 
-*Scraped **63,004** Articles*
+*Scraped **63,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
 economynextcom | 3,835
-dailyftlk | 4,360
+dailyftlk | 4,361
 dailymirrorlk | 4,733
 adalk | 6,018
 adaderanalk | 7,705
@@ -26,9 +26,25 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.4%) of 63,004 articles have been extended.
+61,970 (98.4%) of 63,005 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-01-01 (Wednesday)
+
+### Berlin Wall, Rajapaksa rule and Lanka’s road from bankruptcy
+
+*2025-01-01 00:18:22* · [`dailyftlk`](https://www.ft.lk/opinion/Berlin-Wall-Rajapaksa-rule-and-Lanka-s-road-from-bankruptcy/14-771214) · `en`
+
+The dilemma is simple. If taxes are reduced for one set of people, there will have to be a corresponding tax increase affecting another set of people
+
+The Kitchen Debate was an impromptu set of exchanges (via interpreters) between US vice president Richard Nixon and Soviet premier Nikita Khrushchev, on the relative merits of capitalism and socialism. The two leaders were attending the 1959 American National Exhibition in Moscow. Their exchange took place inside a replica of a suburban American kitchen complete with all the mod-cons which would soon become staples of American middle class life.
+
+...
+
+[Data](articles/43d7e1db.json)
+
+---
 
 ### 2024-12-31 (Tuesday)
 
@@ -1791,21 +1807,5 @@ Accordingly, the staff of Commissions, Ministries, Departments and Statutory Boa
 ...
 
 [Data](articles/494be7a1.json)
-
----
-
-### SME paddy businesses to get pledge loans at concessional rates every cultivation season
-
-*2024-12-31 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104614/sme-paddy-businesses-to-get-pledge-loans-at-concessional-rates-every-cultivation-season) · `en`
-
-The Cabinet of Ministers has greenlighted the proposal to implement the Pledge Loan Scheme provided to small and medium scale paddy mill owners for purchasing paddy as an annual programme.
-
-Speaking during the Cabinet press briefing held today (31), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa stated that with the aim of ensuring a fair price for the paddy harvest and strengthening small and medium scale paddy mill owners, the implementation of the Pledge Loan Scheme for small and medium scale paddy mill owners through state banks at a concessional interest rate was decided at the Cabinet meeting held on August 14, 2023.
-
-Since it has been observed that this program has achieved high progress in previous seasons, it has been identified as appropriate to implement the said program in every season from the 2024/25 Maha season, the Minister noted.
-
-...
-
-[Data](articles/d2a115dc.json)
 
 ---

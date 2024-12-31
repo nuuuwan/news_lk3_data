@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 09:15:36**
+As of **2024-12-31 09:27:34**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 10,860
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,967 (98.6%) of 62,844 articles have been extended.
+61,968 (98.6%) of 62,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
 
-### மாணவர்களுக்கும் 6,000 ரூபாய்: நிதியமைச்சு கவனம்
+### 6,000 rupees for students: Finance Ministry Focus
 
 *2024-12-31 08:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கும்-6-000-ரூபாய்-நிதியமைச்சு-கவனம்/175-349538) · `ta`
 
-அஸ்வெசும திட்டத்தில் உள்வாங்கப்படாத ஏனைய தகுதியுடைய பாடசாலை மாணவர்களுக்கும் தலா 6,000 ரூபாவை வழங்குவது தொடர்பில் நிதியமைச்சு கவனம் செலுத்தி வருகிறது.
+Finance Ministry allocates 6000 rupees for students. Focus on education support and scholarships.
 
-இதன்படி, கல்வி, உயர்கல்வி மற்றும் தொழிற்கல்வி அமைச்சு தேவையான நடவடிக்கைகளை முன்னெடுக்கும் என எதிர்பார்க்கப்படுவதாக நிதியமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-அஸ்வெசும பயனாளிகளின் பிள்ளைகளுக்குப் பாடசாலை உபகரணங்களைக் கொள்வனவு செய்ய 6,000 ரூபாய் உதவித்தொகை வழங்கப்பட்டு வரும் நிலையில், அதனை அனைத்து பாடசாலை மாணவர்களுக்கும் வழங்குமாறு கடந்த சில நாட்களாக பல்வேறு தரப்பினரும் கோரிக்கை விடுத்து வருகின்றனர்.
+The Finance Ministry is paying attention to the provision of Rs.
 
-இந்த நிலையிலே, ஏனைய மாணவர்களுக்கும் குறித்த உதவித்தொகையினை வழங்குவது தொடர்பில் கவனம் செலுத்தப்பட்டுள்ளது. (a)
+According to a statement issued by the Ministry of Education, Higher Education and Vocational Education, the Ministry of Finance is expected to carry out the necessary measures.
+
+Over the past few days, various parties have been demanding that the children of Aswesa beneficiaries have been paid Rs 6,000 to buy school equipment.
+
+In this case, focus on providing scholarships to other students. (A)
 
 ◼️
 
 [Data](articles/469d69a6.json)
+
+[Extended Data](ext_articles/469d69a6.ext.json)
 
 ---
 
@@ -840,11 +846,9 @@ Accordingly, the Food (Labelling and Advertising) Regulations 2022, published in
 
 ---
 
-### 
+### Past and Present India -Sri Lanka Relations ; 1987 Rajiv-JR Accord and the 2024 Modi-AKD Meeting.
 
 *2024-12-30 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85279) · `en`
-
-Past and Present India -Sri Lanka Relations ; 1987 Rajiv-JR Accord and the 2024 Modi-AKD Meeting.
 
 Sri Lanka’s newly elected President Anura Kumara Dissanayake  has successfully concluded his first state visit to  India from December 15 to 17. The optics of the three day visit to New Delhi has been hailed positively. President Dissanayake known popularly as AKD is the leader of the Janatha Vimukthi Peramuna as well as the JVP-led National People’s Power(NPP).
 

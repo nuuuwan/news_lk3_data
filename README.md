@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 18:38:10**
+As of **2024-12-31 18:49:16**
 
 ## Newspaper Stats
 
-*Scraped **62,954** Articles*
+*Scraped **62,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,822
 economynextcom | 3,830
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,013
+adalk | 6,014
 adaderanalk | 7,698
 tamilmirrorlk | 9,036
 virakesarilk | 10,456
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,881
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,954 articles have been extended.
+61,969 (98.4%) of 62,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### 2025 නව වසර උදා වූ පළමු රට මෙන්න
+
+*2024-12-31 17:23:21* · [`adalk`](https://www.ada.lk/breaking_news/2025-නව-වසර-උදා-වූ-පළමු-රට-මෙන්න/11-413937) · `si`
+
+ඒ අනුව මෙරට වේලාවෙන් පස්වරු 3.30ට නව වසර එම දූපතට නව වසර උදාවී ඇත.
+
+◼️
+
+[Data](articles/7d6bbaf6.json)
+
+---
 
 ### 2024 වැඩිම පිරිසක් විදෙස් රැකියා සඳහා ගිය වසර බවට පත්වෙයි
 
@@ -1809,29 +1821,5 @@ The court issued the warrant due to the likelihood that Yoon will not respond to
 ◼️
 
 [Data](articles/00246a9c.json)
-
----
-
-### 6,000 rupees for students: Finance Ministry Focus
-
-*2024-12-31 08:28:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கும்-6-000-ரூபாய்-நிதியமைச்சு-கவனம்/175-349538) · `ta`
-
-Finance Ministry allocates 6000 rupees for students. Focus on education support and scholarships.
-
-🟩
-
-The Finance Ministry is paying attention to the provision of Rs.
-
-According to a statement issued by the Ministry of Education, Higher Education and Vocational Education, the Ministry of Finance is expected to carry out the necessary measures.
-
-Over the past few days, various parties have been demanding that the children of Aswesa beneficiaries have been paid Rs 6,000 to buy school equipment.
-
-In this case, focus on providing scholarships to other students. (A)
-
-◼️
-
-[Data](articles/469d69a6.json)
-
-[Extended Data](ext_articles/469d69a6.ext.json)
 
 ---

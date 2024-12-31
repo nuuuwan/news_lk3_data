@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 23:27:46**
+As of **2024-12-31 23:44:01**
 
 ## Newspaper Stats
 
-*Scraped **62,996** Articles*
+*Scraped **63,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 464
 colombotelegraphcom | 637
 bbccomsinhala | 661
 islandlk | 3,822
-economynextcom | 3,830
+economynextcom | 3,835
 dailyftlk | 4,360
 dailymirrorlk | 4,733
 adalk | 6,018
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.4%) of 62,996 articles have been extended.
+61,969 (98.4%) of 63,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -224,6 +224,26 @@ UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have 
 
 ---
 
+### Sri Lanka shares up 49-pct in 2024, stock values rise Rs1.4 trillion
+
+*2024-12-31 20:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-up-49-pct-in-2024-stock-values-rise-rs1-4-trillion-197339/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks rose 49 percent measured by the Colombo All Share Index in 2024 as the economy recovered from a currency crisis, companies posted higher nominal profits and costs and interest rates fell amid deflationary policy.
+
+Stock values rose by 1.4 trillion to 5.6 trillion rupees, inclusive of capital raisings by several companies, exceeding a 5.4 trillion level reached in 2021 as the central bank cut rates and pumped money market full of excess liquidity.
+
+Sri Lanka’s currency collapsed in 2022, from around 184 in 2020 to 360 in 2022 and is now back at around 295 to the US dollar inflating the nominal value of economic activities.
+
+Sri Lanka’s central bank tightened monetary policy in 2022, after the worst currency crisis in its history as macro-economists triggered a textbook ‘barber boom’ involving rate and tax cuts that
+
+Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 1970s.
+
+...
+
+[Data](articles/e49dcc2b.json)
+
+---
+
 ### අරගලයට වෙඩි නොතැබූ හේතුව ජෙනරාල් ශවේන්ද්‍ර සිල්වා හෙළිකරයි
 
 *2024-12-31 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204912) · `si`
@@ -333,6 +353,24 @@ UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have 
 ◼️
 
 [Data](articles/4af6dd30.json)
+
+---
+
+### Sri Lanka new govt establishes ministerial investigation units amid criticism
+
+*2024-12-31 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-establishes-ministerial-investigation-units-amid-criticism-197334/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government has decided to establish investigation units in each ministry to hold public officials accountable amid large number of complaints against those officials and criticism of trade unions dictating terms in ministries.
+
+President Anura Kumara Dissanayake-led ruling National People’s Power (NPP) has promised an overhaul in the governance to ensure accountability and transparency while eliminating corruption.
+
+Tens of thousands of Sri Lankans demanded a system change in the governance to hold rulers accountable for their actions during 2022 mass protests which led to oust then President Gotabaya Rajapaksa and his government which declared bankruptcy in April that year.
+
+However, top NPP officials have said the “system change” is not as easy as they had thought earlier, given public officials have been doing the same thing what they are used to, including long delays in the discharging their duties in the public service.
+
+...
+
+[Data](articles/4a60b7b5.json)
 
 ---
 
@@ -496,6 +534,24 @@ Thereafter, the vote on the second reading of the bill is scheduled to be held o
 
 ---
 
+### Sri Lanka leader to appoint panel to amend 2023 anti-corruption law amid flaws
+
+*2024-12-31 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-to-appoint-panel-to-amend-2023-anti-corruption-law-amid-flaws-197126/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s proposal to appoint a committee to look for amendments in the island nation’s Anti-Corruption Act passed in 2023 by the previous government over legal ad technical loopholes when carrying out investigations.
+
+The Anti-Corruption Act, which was passed in mid 2023, was expected to help Sri Lanka rank higher in global transparency and ease-of-doing business indices.
+
+However, the new government has found some loopholes which have been delaying investigation process by the country’s independent anti-graft body.
+
+With the new Anti-Corruption Act coming into force, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has encountered significant legal interpretations and technical problems in carrying out investigations, prosecutions, and administrative and judicial activities in accordance with the Act, the government said in an official document.
+
+...
+
+[Data](articles/4a216ad5.json)
+
+---
+
 ### youtube හැර අනෙක් සමාජ මාධ්‍ය ගිණුම් පොලිස් පාලනයට ගනී
 
 *2024-12-31 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204910) · `si`
@@ -515,6 +571,28 @@ Thereafter, the vote on the second reading of the bill is scheduled to be held o
 ◼️
 
 [Data](articles/f842fe4b.json)
+
+---
+
+### Sri Lanka sees deflation of 1.7-pct by Dec 2024
+
+*2024-12-31 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-deflation-of-1-7-pct-by-dec-2024-197295/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Consumer Prices fell 1.7 percent in the year to December 2024, the fifth straight month where 12-month deflation was recorded, data from the state statistics office showed.s.
+
+Sri Lanka’s central bank has operated broadly deflationary policy since September 2022 allowing it to collect foreign reserves and also appreciate the exchange rate.
+
+Governor Nandalal Weerasinghe is credited with preventing possible hyperinflation and laying stable monetary foundation for growth.
+
+However there have been warnings that the central bank printing money in the last quarter of the year, in a bid to push down interest rates, at a time when markets were already flushed with liquidity.
+
+By the beginning of December excess liquidity was up to 246 billion rupees with about 30 billion rupees being printed overnight and more money on term deals.
+
+The central bank was at one time injecting as much as 100 billion rupees through overnight and term operations.
+
+...
+
+[Data](articles/88c0a3a2.json)
 
 ---
 
@@ -539,6 +617,32 @@ Thereafter, the vote on the second reading of the bill is scheduled to be held o
 ...
 
 [Data](articles/9d5ec441.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 293.25/75 to dollar, bonds steady
+
+*2024-12-31 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-25-75-to-dollar-bonds-steady-197280/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.25/75 to the US dollar on Tuesday from 292.55/75 on Monday, dealers said, while bond yields were broadly steady.
+
+The rupee has appreciated from 322.20/40 on January 1, 2024.
+
+A bond maturing on 15.12.2026 closed stable at 9.40/55 percent.
+
+A bond maturing on 15.12.2027 closed at 9.75/90 percent, up from 9.70/90 percent.
+
+A bond maturing on 15.02.2028 closed stable at 10.05/15 percent.
+
+A bond maturing on 15.09.2029 closed at 10.60/70 percent, down from 10.65/75 percent.
+
+A bond maturing on 15.05.2030 closed at 10.95/11.05 percent, from 10.95/11.10 percent.
+
+Bond yields are down from the beginning of the year, when a bond maturing on 01.02.2026, was quoted at 13.80/90 percent, and a bond maturing on 01.07.2028 was quoted at 14.15/25 percent.
+
+◼️
+
+[Data](articles/2d6304b1.json)
 
 ---
 
@@ -1701,105 +1805,5 @@ Thus, the Cabinet of Ministers has approved the proposal made by President Anura
 ◼️
 
 [Data](articles/61f075c2.json)
-
----
-
-### New Sri Lanka Navy Commander assumes duties
-
-*2024-12-31 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104612/new-sri-lanka-navy-commander-assumes-duties) · `en`
-
-Vice Admiral Kanchana Banagoda has assumed duties as the new Commander of the Sri Lanka Navy at Navy Headquarters today (31).
-
-The official appointment letter of the new Navy Commander was presented to him on Monday (30) by Secretary to the President Dr. Nandika Sanath Kumanayake, at the Presidential Secretariat in Colombo.
-
-The new Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda served as the Chief of Staff of Sri Lanka Navy since August 2024.
-
-He has had the privilege of commanding various Fast Attack Craft, Ships and Establishments in the Sri Lanka Navy. Among some of the other appointments he held; Director Naval Training, Commander Southeastern Naval Area, Commander North Central Naval Area and Commander Northern Naval Area stood prominent.
-
-Prior to being appointed as Chief of Staff of the Sri Lanka Navy, he was discharging duties as Commander Eastern Naval Area.
-
-...
-
-[Data](articles/d1ec5ebe.json)
-
----
-
-### Dissolve MPs attack on two: Initial of trial
-
-*2024-12-31 11:58:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திசைக்காட்டி-எம்-பிக்கள்-இருவர்-மீது-தாக்குதல்-விசாரணை-ஆரம்பம்/175-349556) · `ta`
-
-Attack on 2 MPs in Bingiriya: Summary (200 chars)
-
-🟩
-
-There was a tense situation in the area on Monday afternoon as a group of people surrounded two national people's parliamentarians who visited a garment factory in Bingiriya.
-
-Kurunegala District Parliamentarian Wijesiri Basnayake and Puttalam District Parliamentarian Ajith Kihan have been attacked.
-
-According to police sources, the two MPs were facing discussion with the garment factory officials.
-
-Police said the people who surrounded the two vehicles that the MPs had gone.
-
-When the two officials of the garment were attempting to evacuate a group of officials, a group was reportedly around for about half an hour and had fought against them and began to engage in violence.
-
-It seems that the national people voted for power and why they are doing this.
-
-A senior police official said that a group of Bingiriya police officers had taken steps to send two MPs safely.
-
-...
-
-[Data](articles/5b73966a.json)
-
-[Extended Data](ext_articles/5b73966a.ext.json)
-
----
-
-### වැඩි කළ වකුගඩු රෝගී දීමනාව ජනවාරියේ සිට
-
-*2024-12-31 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204895) · `si`
-
-වකුගඩු රෝගීන්ට ලබා දෙන දීමනාව සම්බන්ධව ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබලගැන්වීමේ අමාත්‍යංශය නිවේදනයක් නිකුත් කර තිබේ.
-
-එහි සඳහන් ව ඇත්තේ දෙසැම්බර් මාසයෙන් පසුව එම දීමනාව කප්පාදු කිරීමට සූදානම් බවට පලවී ඇති වාර්තා සම්පූර්ණයෙන් අසත්‍ය කරුණු මත පදනම් ව ඇති බවය.
-
-වකුගඩු රෝගීන්ට රුපියල් 7,500ක දීමනාව රුපියල් 10,000 දක්වා වැඩි කිරීමට රජයේ තීරණය එළැඹෙන ජනවාරි මාසයේ සිට ක්‍රියාත්මක කිරීමට මේ වන විට සියලු කටයුතු සූදානම් කර ඇති බවත් එම නිවේදනයේ සඳහන් වේ.
-
-රජය මගින් ක්‍රියාත්මක කරන සංවර්ධන වැඩසටහන්, සවිබලගැන්වීමේ වැඩසටහන් සහ සමාජ ආරක්ෂණ වැඩසටහන් සඳහා ප්‍රාදේශීය ලේකම් කාර්යාල මට්ටමින් තොරතුරු යාවත්කාලීන කිරීම්ක් මේ දිනවල සිදුකරන නමුත් එමගින් ජනතාවට ලැබෙන කිසිදු ප්‍රතිලාභයක් කිසිදු අයුරකින් අහිමි කිරීමක් සිදු නොවන බවත් එමගින් දන්වා තිබේ.
-
-ආබාධ සහිත තැනැත්තන් සඳහා වූ ජාතික මහලේකම් කාර්යාලයේ තොරතුරු අනුව දැනට වකුගඩු රෝගීන් 47,244ක් මෙරට සිටින බවත් එම සංඛ්‍යාව මීට වඩා වැඩි විය හැකි බැවින් මෙම තොරතුරු යාවත්කාලීන කිරීම ඉතා වැදගත් බවත් එම නිවේදනයේ සඳහන් ව තිබේ.
-
-...
-
-[Data](articles/42a6b2ae.json)
-
----
-
-### அஹுங்கல்ல கடலில் மூழ்கிய ரஷ்ய பிரஜை மீட்பு!
-
-*2024-12-31 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/202595) · `ta`
-
-அஹுங்கல்ல கடலில் மூழ்கி உயிருக்குப் போராடிக் கொண்டிருந்த ரஷ்ய பிரஜை ஒருவர் பொலிஸ் உயிர்காப்பு பிரிவினரால் காப்பாற்றப்பட்டுள்ளதாக அஹுங்கல்ல பொலிஸார் தெரிவித்தனர்.
-
-அஹுங்கல்ல பொலிஸ் நிலையத்தின் பொலிஸ் பரிசோதகர், பொலிஸ் கான்ஸ்டபிள், மற்றும் அஹுங்கல்ல பொலிஸ் உயிர்காப்பு பிரிவினர் ஆகியோர் இணைந்து இந்த ரஷ்ய பிரஜையை காப்பாற்றியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/8f48e56b.json)
-
----
-
-### டிக்கட் முன்பதிவு செய்வோருக்கு முக்கிய அறிவிப்பு
-
-*2024-12-31 11:54:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்கட்-முன்பதிவு-செய்வோருக்கு-முக்கிய-அறிவிப்பு/175-349554) · `ta`
-
-புகையிரத இருக்கைகளை முன்பதிவு செய்யும் போது பயணிகள் தமது தேசிய அடையாள அட்டை  இலக்கம் அல்லது கடவுச்சீட்டு இலக்கத்தை உள்ளிட வேண்டும் என இலங்கை புகையிரத திணைக்களம் அறிவித்துள்ளது.
-
-புகையிரத நிலையத்திற்குள் உட்பிரவேசிக்கும் போதும், புகையிரதத்திற்குள் அனுமதி சீட்டுகளை சரிபார்க்கும் போதும், ​​அனுமதி சீட்டில் குறிப்பிடப்பட்டுள்ள தேசிய அடையாள அட்டை எண் அல்லது வெளிநாட்டு கடவுச்சீட்டு எண் ஆகியவற்றை சரிபார்த்து உறுதிப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-இதன்படி நாளை முதல் முன்பதிவு செய்யப்பட்ட இருக்கைகளுக்கான பயணச்சீட்டு பணத்தைத் திரும்பப் பெற விண்ணப்பிக்கும் போது பயணச்சீட்டு உரிமையாளரின் அடையாளத்தை உறுதிப்படுத்த பயணிகளின் தேசிய அடையாள அட்டை அல்லது வெளிநாட்டு கடவுச்சீட்டின் நகலைத் புகையிரத நிலையத்தில் சமர்ப்பிக்க வேண்டும் என குறிப்பிடப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/1008c68c.json)
 
 ---

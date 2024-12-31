@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-12-31 13:44:10**
+As of **2024-12-31 14:02:59**
 
 ## Newspaper Stats
 
-*Scraped **62,911** Articles*
+*Scraped **62,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,822
 economynextcom | 3,824
 dailyftlk | 4,360
 dailymirrorlk | 4,733
-adalk | 6,008
+adalk | 6,009
 adaderanalk | 7,690
-tamilmirrorlk | 9,028
+tamilmirrorlk | 9,029
 virakesarilk | 10,448
 adaderanasinhalalk | 10,874
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,874
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,969 (98.5%) of 62,911 articles have been extended.
+61,969 (98.5%) of 62,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-12-31 (Tuesday)
+
+### வாகரை கடற்கரையில் இந்தோனேசிய படகு
+
+*2024-12-31 13:37:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகரை-கடற்கரையில்-இந்தோனேசிய-படகு/175-349562) · `ta`
+
+மட்டக்களப்பு வாகரை பொலிஸ் பிரிவிலுள்ள பால்சேனை கடற்கரையில் ஆளில்லா இந்தோனேசியா நாட்டு படகு ஒன்று கரையொதுங்கிய நிலையில் செவ்வாய்க்கிழமை (31) மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்
+
+குறித்த படகு கடலில் மிதந்து வந்து கரை தட்டியதை அடுத்து அதனை மீட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/4959898e.json)
+
+---
 
 ### රාජ්‍ය සේවක කප්පාදුව ගැන රජයේ ස්ථාවරය
 
@@ -871,6 +885,22 @@ Fort: Wimaladharmasuriya Clock Tower – Charmans car park, Rasik Farid Mawatha 
 ◼️
 
 [Data](articles/319dde10.json)
+
+---
+
+### ජනාධිපති අරමුදල නව ස්ථානයකට
+
+*2024-12-31 09:44:17* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදල-නව-ස්ථානයකට/11-413929) · `si`
+
+ජනාධිපති අරමුදල් කාර්යාලය 2025 ජනවාරි 01 දින සිට නව ස්ථානයක ස්ථාපිත කිරීමට රජය තීරණය කොට තිබේ.
+
+ඒ අනුව කොළඹ 10 ,ඩී. ආර් .විජේවර්ධන මාවතේ ලේක්හවුස් ගොඩනැගිල්ලේ 3 වැනි මහලේ දැනට පවත්වාගෙන යන ජනාධිපති අරමුදල් කාර්යාලය කොළඹ 01, ජනාධිපති මාවතේ, ජනාධිපති මන්දිරය පිහිටා ඇති චාර්ටඩ් ගොඩනැගිල්ලේ බිම් මහලේ ස්ථාපිත කරනු ලැබේ.
+
+නව වසරේ පළමු දිනයේ සිට ජනාධිපති අරමුදලින් සේවා ලබා ගැනීමට පැමිණෙන අයට එම ස්ථානයට ගොස් තම අවශ්‍යතා ඉටුකර ගැනීමට හැකිවෙයි.
+
+◼️
+
+[Data](articles/ac2e0283.json)
 
 ---
 
@@ -1823,41 +1853,5 @@ Forensic auditing or investigation plays a very important role in the fight agai
 ...
 
 [Data](articles/1107e71e.json)
-
----
-
-### President directs to swiftly implement plans to make Sri Lanka an attractive tourist destination
-
-*2024-12-30 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104598/president-directs-to-swiftly-implement-plans-to-make-sri-lanka-an-attractive-tourist-destination) · `en`
-
-President Anura Kumara Disanayake has instructed officials to promptly implement the necessary plans to position Sri Lanka as an attractive destination for tourists, the President’s Media Division (PMD) reported.
-
-He further emphasized that the successful implementation of the “Clean Sri Lanka” initiative would strengthen efforts to promote the tourism industry.
-
-The President made these remarks during a meeting held at the Presidential Secretariat today (30), where discussions were held on positioning Sri Lanka as one of Asia’s most valuable and environmentally sustainable islands, the PMD said.
-
-Additionally, discussions focused on promoting the tourism sector through environmental and cultural avenues. Special attention was given to uniting all stakeholders from both the formal and informal sectors to advance the country’s tourism industry, it added.
-
-...
-
-[Data](articles/cf64458f.json)
-
----
-
-### Preventing corruption at bureaucratic level
-
-*2024-12-30 22:21:43* · [`dailyftlk`](https://www.ft.lk/columns/Preventing-corruption-at-bureaucratic-level/4-771168) · `en`
-
-To effectively combat corruption at the official level, it is crucial to address its root causes and close the channels that enable unethical practices
-
-Corruption is recognised worldwide as a cancerous force that erodes good governance and hinders national development. For decades, the people of this country have dreamed of a government dedicated to eradicating corruption. This dream has come true in the form of the new NPP Government, whose primary focus is to combat corruption that is rampant in both the political and bureaucratic spheres.
-
-The overwhelming and unprecedented support for the NPP Government comes with high expectations. However, this support is a double-edged sword—high expectations mean that, as recent history has shown, any failure to meet them can lead to a strong public backlash.
-
-Corruption can be classified into two main types based on its origin:
-
-...
-
-[Data](articles/4cf8a983.json)
 
 ---

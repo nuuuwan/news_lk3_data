@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 03:43:25**
+As of **2025-01-02 04:01:52**
 
 ## Newspaper Stats
 
-*Scraped **63,198** Articles*
+*Scraped **63,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,395
+dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,198 articles have been extended.
+61,971 (98.1%) of 63,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### SAGT surpasses two million TEU milestone again in 2024
+
+*2025-01-02 03:34:41* · [`dailyftlk`](https://www.ft.lk/news/SAGT-surpasses-two-million-TEU-milestone-again-in-2024/56-771302) · `en`
+
+The South Asia Gateway Terminals Ltd. (SAGT) said yesterday it has reached a significant milestone yet again by achieving two million TEU in 2024.
+
+In its 25-year history, the SAGT has twice before reached the two million mark in 2018 and 2019, but this is the first time post-pandemic and Sri Lanka’s economic crisis, highlighting the company’s resilience and operational strength. The SAGT is Sri Lanka’s first public private partnership (PPP) and flagship venture of the Board of Investment (BOI).
+
+...
+
+[Data](articles/4d9a02a3.json)
+
+---
 
 ### New Thai envoy calls for greater diversification of Sri Lanka’s export industry to benefit from FTA
 
@@ -1785,27 +1799,5 @@ Speaking at the launch of the ‘Clean Sri Lanka’ national initiative, the Pre
 ...
 
 [Data](articles/47d6fd66.json)
-
----
-
-### Sri Lanka rupee opens weaker at 293.60/85 to US dollar, bonds steady
-
-*2025-01-01 11:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-60-85-to-us-dollar-bonds-steady-197392/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.60/85 to the US dollar in the spot market, from 293.25/75 on Tuesday, while bond yields were steady, dealers said.
-
-A bond maturing on 15.12.2027 was quoted at 9.85/95 percent, up from 9.75/90 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, up from 10.05/15 percent.
-
-A bond maturing on 01.05.2028 was quoted at 10.20/30 percent, down from 10.25/35 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 10.60/70 percent, down from 10.65/75 percent.
-
-An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/2025)
-
-◼️
-
-[Data](articles/7fdc27ff.json)
 
 ---

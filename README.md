@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 18:37:47**
+As of **2025-01-01 18:49:27**
 
 ## Newspaper Stats
 
-*Scraped **63,140** Articles*
+*Scraped **63,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 465
 colombotelegraphcom | 637
 bbccomsinhala | 664
-islandlk | 3,835
+islandlk | 3,836
 economynextcom | 3,844
 dailyftlk | 4,379
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,906
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,140 articles have been extended.
+61,971 (98.1%) of 63,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1520,6 +1520,20 @@ Trust and respect are fundamental to establishing mutually beneficial partnershi
 
 ---
 
+### Sri Lanka hosts world’s first Meditation Conference
+
+*2025-01-01 03:21:00* · [`islandlk`](http://island.lk/sri-lanka-hosts-worlds-first-meditation-conference/) · `en`
+
+Unknown to many, Sri Lanka has made history. Few in the country were likely aware that the UN General Assembly had declared December 21st as World Meditation Day. On December 6th, a momentous occasion took place. According to the Permanent Mission of Sri Lanka to the United Nations in New York, the draft resolution L.27, titled “World Meditation Day,” was presented to the UN General Assembly.
+
+A core group of six countries, including Liechtenstein, Andorra, Mexico, Nepal, and India, worked alongside Sri Lanka, which played a pivotal role in this achievement. Seventy-one member states from diverse geographical regions and cultural backgrounds co-sponsored the resolution, which was adopted by consensus without the need for a vote. The resolution acknowledges meditation’s universal contribution to health and well-being. Sri Lanka’s leadership in facilitating negotiations was instrumental in its adoption, marking a historic moment for the nation.
+
+...
+
+[Data](articles/64256844.json)
+
+---
+
 ### Buoyed by rating agencies’ positive assessments, CSE increases in bullishness
 
 *2025-01-01 03:17:00* · [`islandlk`](http://island.lk/buoyed-by-rating-agencies-positive-assessments-cse-increases-in-bullishness/) · `en`
@@ -1817,29 +1831,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/beae4754.json)
-
----
-
-### ජනපති අනුරගේ පළමු දින 100 තුළ කළ නොකළ දේ මොනවා ද?
-
-*2025-01-01 01:33:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgp7j91342o) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක 2024 සැප්තැම්බර් 23 වන දා ජනාධිපති ධූරයේ වැඩ භාරගත් දින සිට මේ වන විට දින 100ක් ගෙවී ගොස් තිබේ.
-
-අනුර කුමාර දිසානායක ශ්‍රී ලංකාවේ 9 වන විධායක ජනාධිපති ලෙස තේරී පත්වෙයි
-
-ජනාධිපතිවරණයට පෙර ජනාධිපතිවරයා බීබීසී සිංහල සමග කළ සම්මුඛ සාකච්ඡාවේදී ඔහුගේ පළමු දින 100 තුළ කිරීමට බලාපොරොත්තු වන කරුණු 5ක් ඉදිරිපත් කළේ ය.
-
-ඊට අමතරව ඔහු ඇතුළු ජාතික ජන බලවේග ආණ්ඩුව විසින් මේ වන විට ඉටු කරනු ලැබ ඇති කාර්යයන් ප්‍රමාණයක් තිබෙන අතර, ඔවුන්ගේ ජනාධිපතිවරණ ප්‍රතිපත්ති ප්‍රකාශය තුළ තවත් පොරොන්දු රැසක් අන්තර්ගත විය.
-
-ජනාධිපතිවරයාගේ පළමු දින 100 කාලය තුළ ඔහු සිදු කර ඇත්තේ මොනවා ද? මේ ඒ සම්බන්ධයෙන් බීබීසී සිංහල කළ සොයාබැලීමකි.
-
-ජනාධිපතිවරණයට පෙර ජනාධිපති අනුර කුමාර දිසානායක බීබීසී සිංහල සමග සම්මුඛ සාකච්ඡාවකට එක් වූ අතර, එහි දී බීබීසී  සිංහල විමසූ පැනයකට පිළිතුරු දෙමින් ජනාධිපතිවරයා පළමු දින 100 තුළ ඉහත කාර්යයන් කරන බව පැවසුවේ ය.
-
-ජනාධිපතිවරයා බලයට පත් වීමෙන් පසු නොවැම්බර් 14 වන දා මහමැතිවරණය පවත්වා තුනෙන් දෙකක පාර්ලිමේන්තු බලයක් හිමි කර ගැනීමට ජාතික ජනබලවේගය සමත් විය.
-
-...
-
-[Data](articles/74ba867e.json)
 
 ---

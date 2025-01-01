@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 21:02:14**
+As of **2025-01-01 21:13:26**
 
 ## Newspaper Stats
 
-*Scraped **63,159** Articles*
+*Scraped **63,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 6,038
 adaderanalk | 7,722
 tamilmirrorlk | 9,059
-virakesarilk | 10,506
+virakesarilk | 10,507
 adaderanasinhalalk | 10,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,159 articles have been extended.
+61,971 (98.1%) of 63,160 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -333,6 +333,24 @@ This special traffic operation, launched from December 23 under the directives o
 ◼️
 
 [Data](articles/bd9c90d0.json)
+
+---
+
+### குறுகிய பேதங்களுக்கு அப்பாற்பட்டு நாட்டைக் கட்டியெழுப்ப ஒன்றிணைவோம் - சஜித் பிரேமதாச
+
+*2025-01-01 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202716) · `ta`
+
+குறுகிய பேதங்களுக்கு அப்பாற்பட்டு நாட்டைக் கட்டியெழுப்பும் தேசியப் பணிக்கு ஆயத்தமாகும் அதேவேளை, வெளிப்படைத்தன்மையுடன் நாட்டுக்கும் மக்களுக்கும் பொறுப்புக்கூறக்கூடிய உன்னத சேவையை வழங்க நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+புத்தாண்டில்  கடமைகளை ஆரம்பிக்கும் முகமாக புதன்கிழமை (01) எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் ஏற்பாடு செய்யப்பட்ட நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.  நிகழ்வில் தொடர்ந்தும் உரையாற்றிய எதிர்க்கட்சி தலைவர்,
+
+குறுகிய பேதங்களுக்கு அப்பாற்பட்டு நாட்டைக் கட்டியெழுப்பும் தேசியப் பணிக்கு ஆயத்தமாக வேண்டும். வெளிப்படைத்தன்மையுடன் நாட்டுக்கும் மக்களுக்கும் பொறுப்புக்கூறக்கூடிய உன்னத சேவையை வழங்க நடவடிக்கை எடுக்க வேண்டும்.
+
+அரசியல் தலைவர்கள் மற்றும் அரச ஊழியர்கள் ஒன்றிணைந்து இதனை ஒரு பொறுப்பாகவும் கடமையாகவும் கருத வேண்டும்.
+
+...
+
+[Data](articles/def5ebb1.json)
 
 ---
 
@@ -1847,17 +1865,5 @@ Celebrating its 17th anniversary in Public Relations, Premier PR will now suppor
 ...
 
 [Data](articles/b5ba6796.json)
-
----
-
-### Buoyed by rating agencies’ positive assessments, CSE increases in bullishness
-
-*2025-01-01 03:17:00* · [`islandlk`](http://island.lk/buoyed-by-rating-agencies-positive-assessments-cse-increases-in-bullishness/) · `en`
-
-Two main rating agencies, Fitch and Moody’s, upgraded the government of Sri Lanka’s Long-Term Foreign Currency Issuer Rating, thus creating a rally on banking sector counters yesterday. Amid those developments the market was extremely bullish, driven by banking sector counters, market analysts said.
-
-...
-
-[Data](articles/2c48e295.json)
 
 ---

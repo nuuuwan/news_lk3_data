@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 20:27:37**
+As of **2025-01-01 20:43:47**
 
 ## Newspaper Stats
 
-*Scraped **63,157** Articles*
+*Scraped **63,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 6,037
 adaderanalk | 7,722
 tamilmirrorlk | 9,059
 virakesarilk | 10,506
-adaderanasinhalalk | 10,908
+adaderanasinhalalk | 10,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,157 articles have been extended.
+61,971 (98.1%) of 63,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### සංගා හා මහේල ජනපතිට දුන් ශක්තිය
+
+*2025-01-01 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204939) · `si`
+
+'ක්ලීන් ශ්‍රී ලංකා' සරල ලෙසින් අර්ථකථනය කළත් එය ඉතා ගැඹුරු අදහසක් තිබෙන ක්‍රියාවලියක් බව ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක කුමාර් සංගක්කාර මහතා පවසයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ සංකල්පයක් මත ක්‍රියාත්මකවන මෙම ජාතික වැඩසටහනේ සමාරම්භක උත්සවයට එක්වෙමින් සංගක්කාර මහතා මේ බව පවසා සිටියේය.
+
+'ක්ලීන් ශ්‍රී ලංකා' ජාතික ව්‍යාපෘතියේ සමාරම්භක උත්සවය ජනාධිපති ලේකම් කාර්යාලයේ දී අද (1) පෙරවරුවේදී පැවැත්විණි.
+
+මෙම අවස්ථාවට හිටපු නායකයින් දෙපළක් වන කුමාර් සංගක්කාර හා මහේල ජයවර්ධන මහත්වරුන්ද සහභාගි වූහ.
+
+මෙහිදී සංගක්කාර මහතා වැඩිදුරටත් පවසා සිටියේ, මෙම වැඩසටහන ඉතාම කාලීන වූත් වැදගත් ක්‍රියාවලියක් බවයි.
+
+එමෙන්ම මෙම මානසිකත්වය වෙනස්කිරීම තුළින් යහපත් වටිනාකම්, හරයන් එදිනෙදා ජීවිතයටත් පරිපාලනයටත් එක්කිරීම තුළින් රටේ දියුණුවට මෙන්ම ජනතාවගේ දියුණුවට ද විශාල රැකුළක් බවද හෙතෙම පැවසීය.
+
+...
+
+[Data](articles/27b557d4.json)
+
+---
 
 ### ’கிளீன் ஸ்ரீலங்கா’ பொலிஸாரின் அதிரடி நடவடிக்கை
 
@@ -1206,8 +1228,6 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 
 ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
 
-ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
-
 ◼️
 
 [Data](articles/9508d450.json)
@@ -1835,21 +1855,5 @@ The Maritime SheEO Conference, held at the TAJ Santacruz in Mumbai under the the
 ...
 
 [Data](articles/8b5f3d3a.json)
-
----
-
-### AKD faces challenging year ahead
-
-*2025-01-01 03:07:00* · [`islandlk`](http://island.lk/akd-faces-challenging-year-ahead/) · `en`
-
-Senior lecturer in economics and head of the IT Department at the University of Colombo, Professor Priyanga Dunusinghe, recently declared that the new National People’s Power (NPP) administration had neither a clear economic policy nor a tangible action plan to address the plethora of serious issues facing the nation.
-
-Prof. Dunusinghe warned of dire consequences unless the government took meaningful measures to overcome the challenges.
-
-Appearing on Derana, the outspoken academic claimed that the investors and the public were in the dark as to the overall government economic policy. Asserting that the NPP government now primarily addressed the day-to-day issues, Prof. Dunusinghe alleged that economic reforms required to stabilize, consolidate and strengthen the economy weren’t being implemented. Therefore, the government seemed to be already late in that regard.
-
-...
-
-[Data](articles/746a2ef8.json)
 
 ---

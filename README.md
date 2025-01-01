@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 00:16:44**
+As of **2025-01-02 00:27:51**
 
 ## Newspaper Stats
 
-*Scraped **63,178** Articles*
+*Scraped **63,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,849
 dailyftlk | 4,380
 dailymirrorlk | 4,733
 adalk | 6,039
-adaderanalk | 7,724
+adaderanalk | 7,725
 tamilmirrorlk | 9,061
 virakesarilk | 10,509
 adaderanasinhalalk | 10,915
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,178 articles have been extended.
+61,971 (98.1%) of 63,179 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/46825d2f.json)
+
+---
+
+### Inmate dead, 10 injured after tree falls in Matara Prison
+
+*2025-01-01 23:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104654/inmate-dead-10-injured-after-tree-falls-in-matara-prison) · `en`
+
+One prison inmate is reported dead while at least 10 others have been injured and hospitalized after a large ‘Bo Tree’ had fallen within the Matara Prison premises.
+
+◼️
+
+[Data](articles/7cbb3f6b.json)
 
 ---
 
@@ -1837,23 +1849,5 @@ Investment goods and base metals were have been gradually picking up over 2023 a
 ...
 
 [Data](articles/b509b82b.json)
-
----
-
-### අස්වැසුම ප්‍රතිලාභී නොවන පවුල්වල දරුවන්ට රු. 6000 දිමේ බලය විදුහල්පතිවරුන්ට
-
-*2025-01-01 08:41:21* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ප්‍රතිලාභී-නොවන-පවුල්වල-දරුවන්ට-රු--6000-දිමේ-බලය-විදුහල්පතිවරුන්ට/11-413950) · `si`
-
-අස්වැසුම ප්‍රතිලාභී නොවන පවුල්වල දරුවන් සඳහා පාසල් උපකරණ සහ ලිපිද්‍රව්‍ය මිලදී ගැනීම සඳහා රුපි‍යල් 6,000 ක දීමනාව ලබාදීමේදී ඒ සඳහා සුදුසු දරුවන් තෝරා ගැනීම දිවයිනේ පාසල් වල විදුහල්පතිවරුන්ට පවරා ඇත.
-
-එවැනි දරුවන් තෝරාගැනීම පාසල් මට්ටමින් සිදුකරන බවත්, තම පාසලේ සිටින මෙම සහනය ලැබිය යුතු දරුවන් සම්බන්ධයෙන් සොයාබලා ලේඛන සකස් කරන ලෙස පාසල්වල විදුහල්පතිවරුන්ට අවස්ථාව ලබා දී ඇති බවත් කැබිනට් ප්‍රකාශක අමාත්‍ය  වෛද්‍ය නලින්ද ජයතිස්ස මහතා ප්‍රකාශ කරයි.
-
-විදුහල්පතිවරු  තෝරාගන්නා සුදුසුකම්  ඇති ළමයින්ගේ ලේඛනය අධ්‍යාපන අමාත්‍යාංශයට යොමු කිරීමෙන් පසුව එම දරුවන්ට ද රුපියල් 6,000 දීමනාව ලබාදීමට රජය තීරණය කොට තිබේ.
-
-එහිදී හිමිවන්නේ වවුචර් පතක් ද, නැතහොත් ගිණුමකට මුදල් බැරවන්නේ ද යන්න මුදල් අමාත්‍යංශය ඉදිරියේදී දැනුම් දෙන බව ද කැබිනට් ප්‍රකාශක ජනමාධ්‍ය අමාත්‍ය  වෛද්‍ය නලින්ද ජයතිස්ස මහතා ප්‍රකාශ කරයි.
-
-◼️
-
-[Data](articles/e3422a51.json)
 
 ---

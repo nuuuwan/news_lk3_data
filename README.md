@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 08:52:16**
+As of **2025-01-01 09:06:06**
 
 ## Newspaper Stats
 
-*Scraped **63,057** Articles*
+*Scraped **63,059** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 464
+dbsjeyarajcom | 465
 colombotelegraphcom | 637
 bbccomsinhala | 662
 islandlk | 3,835
 economynextcom | 3,835
 dailyftlk | 4,379
 dailymirrorlk | 4,733
-adalk | 6,020
+adalk | 6,021
 adaderanalk | 7,705
 tamilmirrorlk | 9,043
 virakesarilk | 10,489
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,892
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,057 articles have been extended.
+61,970 (98.3%) of 63,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### ජනවරමේ වගවීම හා වගකීම ඉටු කිරීමට යුහුසුළුව කටයුතු කරනවා
+
+*2025-01-01 07:45:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනවරමේ-වගවීම-හා-වගකීම-ඉටු-කිරීමට-යුහුසුළුව-කටයුතු-කරනවා/11-413948) · `si`
+
+ජනතාව අපේක්ෂා කරන යහපත් රාජ්‍යය ගොඩනැගිම වෙනුවෙන් පැවති දේශපාලන සංස්කෘතියේ විසල් පරිවර්තනයක් සිදු කරමින් ජනවරමේ වගවීම හා වගකීම ඉටු කිරීමට මේ වන විට යුහුසුළුව කටයුතු කරමින් සිටින බව ජනපති අනුර කුමාර දිසානායක මහතා නව වසර වෙනුවෙන් සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් පවසයි.
+
+ශ්‍රී ලාංකික අප 2025 නව වසරට පා තබන්නේ රටත්, ජනතාවත් දශක ගණනාවක් පුරා දුටු සුබ සිහින මල්ඵල ගැන්වෙන නව යුගයක උදාවත් සමගිනි.
+
+දිවයිනේ උතුර, නැගෙනහිර, බටහිර හා දකුණ යන සතර දිසාවන් යා කරමින්, සියලු ජනතාවගේ විශ්වාසය දිනා ගෙන පාර්ලිමේන්තුවේ බහුතර බලයක් සහිත ආණ්ඩුවක් ගොඩනැගීමට 2024 පාර්ලිමේන්තු මැතිවරණයේදී අපට හැකි විය. ඒ අනුව ජනතාව අපේක්ෂා කරන යහපත් රාජ්‍යය ගොඩනැගිම වෙනුවෙන් පැවති දේශපාලන සංස්කෘතියේ විසල් පරිවර්තනයක් සිදු කරමින් ජනවරමේ වගවීම හා වගකීම ඉටු කිරීමට මේ වන විට අපි යුහුසුළුව කටයුතු කරමින් සිටිමු.
+
+...
+
+[Data](articles/7ef9ec9b.json)
+
+---
 
 ### ක්ලීන් ශ්‍රී ලංකා ජාතික වැඩසටහන අදින් ඇරඹේ
 
@@ -795,6 +811,24 @@ In a detailed statement issued ahead of his retirement, General Silva reflected 
 ◼️
 
 [Data](articles/518ab55c.json)
+
+---
+
+### “Jehovah, Thou hast promised,,The isles shall wait for Thee,” – A Hymn for Ceylon-            By Rev.W.S. Senior
+
+*2024-12-31 21:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=75548) · `en`
+
+Compliments of the Season everyone and best wishes for a bright and blessed  2025.
+
+I am  beginning the new year by re-posting “The Hymn of Ceylon” on my Blog.
+
+The “hymn of Ceylon” was written by by Rev. W. S. Senior. Walter Stanley Senior was a scholar, pastor, teacher and poet who served in Sri Lanka for many years as Vice Principal of Trinity College, Kandy and Vicar at Christ Church, Galle Face.
+
+Rev. W.S. Senior’s  ‘Hymn of Ceylon’. was always sung at the annual prize giving event of St. Thomas’ Preparatory School in Kollupitiya where I studied from 1959 to ’64. It is a Christian hymn and was set to the melody of ‘Danno Budunge’ by Devar Surya Sena as requested by Senior himself.
+
+...
+
+[Data](articles/a079e16a.json)
 
 ---
 
@@ -1729,35 +1763,5 @@ Kuwait emerged as the top destination for Sri Lankan workers in 2024, with 77,54
 ◼️
 
 [Data](articles/7f2f7fdd.json)
-
----
-
-### Kiribati becomes first country to enter New Year 2025
-
-*2024-12-31 16:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104624/kiribati-becomes-first-country-to-enter-new-year-2025) · `en`
-
-As most of the world awaits 2025, the tiny island nation of Kiribati has already taken the lead, becoming the first to welcome the New Year. Kiritimati Island, also known as Christmas Island, located in the central Pacific Ocean, marks the dawn of January 1, 2025, as clocks struck midnight there earlier today.
-
-The island is precisely 8.5 hours ahead of India and 14 hours ahead of Greenwich Mean Time. So when India clocked 3.30 pm today (Dec 31 2024), it was midnight, Wednesday, Jan 1, 2025, in Kiritimati. This momentous occasion in Kiribati signifies the beginning of the global New Year celebrations, as the island nation marks the very first moments of 2025, long before the rest of the world follows suit.
-
-Locals in Kiritimati welcome the fresh dawn of the new year, creating an atmosphere of excitement and celebration that spread across the small island with residents ringing in with New Year fireworks, music, and joyful festivities.
-
-...
-
-[Data](articles/fee42037.json)
-
----
-
-### ශ්‍රේෂ්ඨාධිකරණ තීන්දුවත් සමග ශිෂ්‍යත්ව විභාගය ගැන විභාග දෙපාර්තමේන්තුව ගන්න යන තීරණය
-
-*2024-12-31 16:14:39* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රේෂ්ඨාධිකරණ-තීන්දුවත්-සමග-ශිෂ්‍යත්ව-විභාගය-ගැන-විභාග-දෙපාර්තමේන්තුව-ගන්න-යන-තීරණය/11-413936) · `si`
-
-05 වසර ශිෂ්‍යත්ව විභාගය පිළිබඳ ශ්‍රේෂ්ඨාධිකරණය ලබා දුන් නියෝගය අනුව විකල්ප 03 අතරින් වඩාත්ම සුදුසු විකල්පය කුමක්ද යන්න පිළිබඳ තවදුරයත් අධ්‍යනය කර තීරණයක් ලබා දෙන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසීය.
-
-අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/045b0d08.json)
 
 ---

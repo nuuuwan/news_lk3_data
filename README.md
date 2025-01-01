@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 06:17:38**
+As of **2025-01-01 06:49:13**
 
 ## Newspaper Stats
 
-*Scraped **63,046** Articles*
+*Scraped **63,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,019
 adaderanalk | 7,705
-tamilmirrorlk | 9,041
+tamilmirrorlk | 9,042
 virakesarilk | 10,486
 adaderanasinhalalk | 10,888
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,046 articles have been extended.
+61,970 (98.3%) of 63,047 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,22 @@ Appearing on Derana, the outspoken academic claimed that the investors and the p
 ...
 
 [Data](articles/746a2ef8.json)
+
+---
+
+### ஜனாதிபதியின் புத்தாண்டு வாழ்த்துச் செய்தி
+
+*2025-01-01 02:43:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-புத்தாண்டு-வாழ்த்துச்-செய்தி/175-349596) · `ta`
+
+மக்கள் ஆணையின் பொறுப்புக்கூறல் மற்றும் பொறுப்பை நிறைவேற்றுவதற்கு நாம் தற்போது துரிதமாக செயற்பட்டு வருகின்றோம் என்று ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது புத்தாண்டு வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
+
+நாடும் நாட்டு மக்களும் பல தசாப்த காலமாகக் கண்ட நல்ல கனவுகள் நனவாகும் புதிய யுகத்தின் உதயத்துடன், 2025 புத்தாண்டில் இலங்கையர்களாகிய நாம் அடியெடுத்து வைக்கின்றோம்.
+
+வடக்கு, கிழக்கு, மேற்கு, தெற்கு ஆகிய நான்கு திசைகளையும் இணைத்து அனைத்து மக்களின் நம்பிக்கையையும் பெற்று 2024 ஆம் ஆண்டு நடைபெற்ற பாராளுமன்றத் தேர்தலில் பெரும்பான்மை பலத்துடன் ஆட்சியமைக்க எம்மால் முடிந்தது. அதற்கிணங்க, மக்கள் எதிர்பார்க்கும் சிறந்த ஆட்சியொன்றை உருவாக்கும் நோக்கில் அன்றிருந்த அரசியல் கலாசாரத்தில் பாரிய மாற்றத்தை மேற்கொண்டு, மக்கள் ஆணையின் பொறுப்புக்கூறல் மற்றும் பொறுப்பை நிறைவேற்றுவதற்கு நாம் தற்போது துரிதமாக செயற்பட்டு வருகின்றோம்.
+
+...
+
+[Data](articles/2b56d55b.json)
 
 ---
 
@@ -724,7 +740,7 @@ UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have 
 
 ---
 
-### Sri Lanka shares up 49-pct in 2024, stock values rise Rs1.4 trillion
+### Sri Lanka shares up 49-pct in 2024, stock values rise Rs1.4 trillion: analysis
 
 *2024-12-31 20:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-up-49-pct-in-2024-stock-values-rise-rs1-4-trillion-197339/) · `en`
 
@@ -1727,23 +1743,5 @@ He stated that the process of evaluation of answer sheets of the examination wil
 ...
 
 [Data](articles/c7be48fe.json)
-
----
-
-### උසස් පෙළ විභාගයේ ප්‍රතිඵල නිකුත් කිරීම අප්‍රේල්
-
-*2024-12-31 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204905) · `si`
-
-උසස් පෙළ විභාගයේ ප්‍රතිඵල එළඹෙන අප්‍රේල් මාසය වනවිට නිකුත් කිරීමට බලාපොරොත්තු වෙන බව විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පවසයි.
-
-අද (31) පැවැති විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකදී ඒ මහතා මේ බව පැවසීය.
-
-"දරුවන්ගේ ඉගෙනීම් කටයුතු සිදුවෙන අතරතුර අදියර කිහිපයකින් ඇගයීම් කටයුතු සිදුකරන්න පියවර ගෙන තිබෙනවා."
-
-"උසස් පෙළ විභායේ අවසන් ප්‍රතිඵල ලබාදීමට මාස 4ක විතර කාලයක් ගමවෙනවා. ඒක තවදුරටත් අඩුකරගන්න කටයුතු කරනවා."
-
-◼️
-
-[Data](articles/31f5307c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 22:16:29**
+As of **2025-01-01 22:28:14**
 
 ## Newspaper Stats
 
-*Scraped **63,161** Articles*
+*Scraped **63,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,844
 dailyftlk | 4,380
 dailymirrorlk | 4,733
 adalk | 6,039
-adaderanalk | 7,722
+adaderanalk | 7,723
 tamilmirrorlk | 9,059
-virakesarilk | 10,507
+virakesarilk | 10,508
 adaderanasinhalalk | 10,909
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,161 articles have been extended.
+61,971 (98.1%) of 63,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### e-Traffic என்ற புதிய செயலியை அறிமுகப்படுத்திய பொலிஸ்!
+
+*2025-01-01 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/202738) · `ta`
+
+'கிளீன் ஸ்ரீலங்கா' திட்டத்துடன் இணைந்து, இலங்கை பொலிஸினால் e-Traffic என்ற கையடக்க தொலைபேசி செயலி அறிமுகப்படுத்தப்பட்டுள்ளது.
+
+பொலிஸ் தலைமையகத்தில் வைத்து பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரியவினால் இந்த செயலி 01ஆம் திகதி புதன்கிழமை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்பட்டிருந்தது.
+
+இந்த செயலி மூலம் பொதுமக்கள், போக்குவரத்து விதிமீறல்கள் குறித்து உடனடியாக முறைப்பாடு தெரிவிக்கலாம்.
+
+இலங்கை பொலிஸின் உத்தியோகபூர்வ இணையத்தளமான www.police.lk ஊடாக E-servicesக்குள் பிரவேசிப்பதன் மூலம் e-Traffic கையடக்கத் தொலைபேசி செயலியை உங்கள் கையடக்கத் தொலைபேசியில் இலகுவாகப் பதிவிறக்கம் செய்ய முடியும் என பொலிஸார்  ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+இதன் ஊடாக உங்களது முறைப்பாடுகளை உடனடியாக பொலிஸ் தலைமையகத்திற்கு அனுப்பி வைக்க முடியும் என தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/ebf1c5ce.json)
+
+---
+
+### Sri Lanka Police launches e-Traffic mobile app to combat traffic violations
+
+*2025-01-01 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104652/sri-lanka-police-launches-e-traffic-mobile-app-to-combat-traffic-violations-) · `en`
+
+Sri Lanka Police have launched the e-Traffic mobile application, a cutting-edge tool aimed at reducing traffic violations and improving road safety in line with the ‘Clean Sri Lanka’ initiative.
+
+The app was officially launched today (January 01) by Acting Inspector General of Police (IGP), Attorney-at-Law Priyantha Weerasuriya, at a ceremony held at the Police Headquarters.
+
+The e-Traffic app empowers the public to report traffic violations and related incidents in real-time. Users can upload photos or videos of offenses using the app’s Camera and Video options. These submissions will be forwarded directly to the Police Headquarters for immediate action.
+
+How to Download: The app is available through the E-services section of the official Sri Lanka Police website, [www.police.lk](http://www.police.lk).
+
+Reporting Violations: Users can document and report traffic violations, enabling swift responses from relevant authorities.
+
+...
+
+[Data](articles/64f42720.json)
+
+---
 
 ### සංගා හා මහේල ජනපතිට දුන් ශක්තිය
 
@@ -1837,33 +1877,5 @@ The Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of S
 ...
 
 [Data](articles/d103e5c2.json)
-
----
-
-### British Council’s South Asia Deep Dialogues event in Colombo
-
-*2025-01-01 03:22:00* · [`islandlk`](http://island.lk/british-councils-south-asia-deep-dialogues-event-in-colombo/) · `en`
-
-The British Council’s South Asia Deep Dialogues event took place from 10-11 December in Colombo. With the theme of: “‘Widening access to quality tertiary education through transnational education’, Deep Dialogues brought leading experts, policymakers, and education sector professionals from the UK and South Asia to discuss the potential of transnational education (TNE), particularly as a significant driver of educational transformation, the knowledge economy and sustainable development goals.
-
-Trust and respect are fundamental to establishing mutually beneficial partnerships that will significantly improve the quality of teaching, curricula, policies, and, ultimately, the student experience.
-
-...
-
-[Data](articles/5c248e44.json)
-
----
-
-### Sri Lanka hosts world’s first Meditation Conference
-
-*2025-01-01 03:21:00* · [`islandlk`](http://island.lk/sri-lanka-hosts-worlds-first-meditation-conference/) · `en`
-
-Unknown to many, Sri Lanka has made history. Few in the country were likely aware that the UN General Assembly had declared December 21st as World Meditation Day. On December 6th, a momentous occasion took place. According to the Permanent Mission of Sri Lanka to the United Nations in New York, the draft resolution L.27, titled “World Meditation Day,” was presented to the UN General Assembly.
-
-A core group of six countries, including Liechtenstein, Andorra, Mexico, Nepal, and India, worked alongside Sri Lanka, which played a pivotal role in this achievement. Seventy-one member states from diverse geographical regions and cultural backgrounds co-sponsored the resolution, which was adopted by consensus without the need for a vote. The resolution acknowledges meditation’s universal contribution to health and well-being. Sri Lanka’s leadership in facilitating negotiations was instrumental in its adoption, marking a historic moment for the nation.
-
-...
-
-[Data](articles/64256844.json)
 
 ---

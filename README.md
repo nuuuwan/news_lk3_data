@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 11:27:36**
+As of **2025-01-01 11:44:33**
 
 ## Newspaper Stats
 
-*Scraped **63,081** Articles*
+*Scraped **63,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 465
 colombotelegraphcom | 637
 bbccomsinhala | 663
 islandlk | 3,835
-economynextcom | 3,835
+economynextcom | 3,840
 dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,024
 adaderanalk | 7,711
-tamilmirrorlk | 9,048
+tamilmirrorlk | 9,049
 virakesarilk | 10,492
 adaderanasinhalalk | 10,896
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 10,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,081 articles have been extended.
+61,970 (98.2%) of 63,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### வெளிநாட்டு வேலைவாய்ப்பு;அதிகளவான வெளியேற்றம் பதிவு
+
+*2025-01-01 11:18:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-அதிகளவான-வெளியேற்றம்-பதிவு/175-349604) · `ta`
+
+இலங்கையின் வரலாற்றில் 2024ஆம் ஆண்டில் அதிகளவான வெளிநாட்டு வேலை வாய்ப்புக்காகப் புறப்பட்டவர்கள் பதிவாகியுள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் (SLBFE) தெரிவித்துள்ளது.
+
+இதற்கு முன்னர் 2022 இல் அதிக எண்ணிக்கையிலான வெளிநாட்டு வேலைவாய்ப்புப் புறப்பாடுகள் பதிவாகியிருந்ததாகவும், கடந்த 2019 முதல் 2024 வரையான ஆறு வருடங்களில் மொத்தம் 1.3 மில்லியன் பேர் வெளிநாட்டு வேலைகளுக்காக வெளியேறியுள்ளதாக SLBFE தெரிவித்துள்ளது.
+
+2024 ஆம் ஆண்டில், மொத்தம் 185,162 ஆண்களும் 127,674 பெண்களும் வெளிநாட்டு வேலைகளுக்காக வெளியேறியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அதிக எண்ணிக்கையிலான இலங்கைத் தொழிலாளர்கள் குவைத்துக்கு (77,546) சென்றுள்ளதுடன், 51,550 பேர் ஐக்கிய அரபு இராச்சியத்திற்கு (UAE) சென்றுள்ளனர்.
+
+கடந்த ஆண்டுகளுடன் ஒப்பிடுகையில், தென் கொரியா (7098), இஸ்ரேல் (9665), ஜப்பான் (8665) ஆகிய நாடுகளுக்கு அதிக எண்ணிக்கையிலான இலங்கையர்கள் தொழில் நிமித்தம் வெளியேறியுள்ளனர்.
+
+...
+
+[Data](articles/6c0ef381.json)
+
+---
+
+### 484 elephants, 148 humans killed in Sri Lanka conflict in 2023
+
+*2025-01-01 10:45:00* · [`economynextcom`](https://economynext.com/484-elephants-148-humans-killed-in-sri-lanka-conflict-in-2023-197398/) · `en`
+
+ECONOMYNEXT – A human elephant conflict has left 182 humans and 484 pachyderms killed in 2023, President Anura Dissanayake said launching an initiative called Clean Sri Lanka.
+
+He said that a main focus of the Clean Sri Lanka initiative is to restore the country’s environment.
+
+Sri Lanka has around 7,000 elephants based on the last count, but some estimate that the actual population maybe higher.
+
+Increasing numbers of elephants are raiding farms and houses, and farmers have retaliated with electric fences and gun traps.
+
+Dissanayake pointed out that 595 people died from drowning last year. (Colombo/Jan1/2024)
+
+◼️
+
+[Data](articles/e34fd952.json)
+
+---
 
 ### Colombo Stock Market achieves nearly 50% growth in 2024
 
@@ -217,6 +257,26 @@ The launch of the ‘Clean Sri Lanka’ national initiative commenced under the 
 ◼️
 
 [Data](articles/582c739a.json)
+
+---
+
+### Sri Lanka current dollar inflows exceed imports by $604mn in November
+
+*2025-01-01 08:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-dollar-inflows-exceed-imports-by-604mn-in-november-197372/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current foreign exchange inflows of 2,101 million US dollars in November 2024, have exceeded imports by 604 million US dollars, data released by the central bank shows.
+
+Current inflows were made up of 994.1 million US dollars of exports 576 million dollars of services including tourism of 272 million US dollars (estimated) and official worker remittances of 530 million US dollars.
+
+Since most private citizens are net savers for inflows to turn into outflows, the banking system has to give credit for investments to spend the money which will turn into imports.
+
+As only earned dollars can be spent unless there are foreign loans, inflows and outflows will match, unless the central bank prints money to cut rates.
+
+Investment goods and base metals were have been gradually picking up over 2023 and 2024 after sharply falling along with a private credit contraction.
+
+...
+
+[Data](articles/b509b82b.json)
 
 ---
 
@@ -591,6 +651,24 @@ Appearing on Derana, the outspoken academic claimed that the investors and the p
 ...
 
 [Data](articles/5ca5814f.json)
+
+---
+
+### Sri Lanka in 2024, inflation falls but government ousted in stabilization crisis
+
+*2025-01-01 02:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-2024-inflation-falls-but-government-ousted-in-stabilization-crisis-197106/) · `en`
+
+ECONOMYNEXT – In 2024 Sri Lanka started to recover from a currency crisis triggered by rate cuts four years ago and the leaders who carried out the corrective policies with tax hikes were ousted in an election in September.
+
+Sri Lanka’s first stabilization crisis after rates were controlled with printed money took place in 1954, which saw the ouster of a government which brought the budget into surplus.
+
+That year also saw the rise of nationalism. Ironically the nationalists were wiped out in the 2024 elections.
+
+The 2022 currency crisis, triggered by extreme macro-economic policy carried out using liquidity injections made including through statistical models developed with International Monetary Fund technical advice according some critics (potential output/flexible inflation targeting/data driven monetary policy) ended in default.
+
+...
+
+[Data](articles/34855caf.json)
 
 ---
 
@@ -1292,6 +1370,26 @@ Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 
 
 ---
 
+### Sri Lanka stocks up 49-pct in 2024, share values rise Rs1.4 trillion: analysis
+
+*2024-12-31 20:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-49-pct-in-2024-share-values-rise-rs1-4-trillion-analysis-197339/) · `en`
+
+ECONOMYNEXT – Sri Lanka stocks rose 49 percent measured by the Colombo All Share Index in 2024 as the economy recovered from a currency crisis, companies posted higher nominal profits and costs and interest rates fell amid deflationary policy.
+
+Stock values rose by 1.4 trillion to 5.6 trillion rupees, inclusive of capital raisings by several companies, exceeding a 5.4 trillion level reached in 2021 as the central bank cut rates and pumped money market full of excess liquidity.
+
+Sri Lanka’s currency collapsed in 2022, from around 184 in 2020 to 360 in 2022 and is now back at around 295 to the US dollar inflating the nominal value of economic activities.
+
+Sri Lanka’s central bank tightened monetary policy in 2022, after the worst currency crisis in its history as macro-economists triggered a textbook ‘barber boom’ involving rate and tax cuts that
+
+Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 1970s.
+
+...
+
+[Data](articles/f0fc2f1d.json)
+
+---
+
 ### අරගලයට වෙඩි නොතැබූ හේතුව ජෙනරාල් ශවේන්ද්‍ර සිල්වා හෙළිකරයි
 
 *2024-12-31 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204912) · `si`
@@ -1677,107 +1775,5 @@ Thereafter, the vote on the second reading of the bill is scheduled to be held o
 ◼️
 
 [Data](articles/7aecb699.json)
-
----
-
-### Sri Lanka leader to appoints panel to amend flaws anti-corruption law
-
-*2024-12-31 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-to-appoint-panel-to-amend-2023-anti-corruption-law-amid-flaws-197126/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s proposal to appoint a committee to look for amendments in the island nation’s Anti-Corruption Act passed in 2023 by the previous government over legal ad technical loopholes when carrying out investigations.
-
-The Anti-Corruption Act, which was passed in mid 2023, was expected to help Sri Lanka rank higher in global transparency and ease-of-doing business indices.
-
-However, the new government has found some loopholes which have been delaying investigation process by the country’s independent anti-graft body.
-
-With the new Anti-Corruption Act coming into force, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has encountered significant legal interpretations and technical problems in carrying out investigations, prosecutions, and administrative and judicial activities in accordance with the Act, the government said in an official document.
-
-...
-
-[Data](articles/4a216ad5.json)
-
----
-
-### youtube හැර අනෙක් සමාජ මාධ්‍ය ගිණුම් පොලිස් පාලනයට ගනී
-
-*2024-12-31 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204910) · `si`
-
-ශ්‍රී ලංකා පොලීසියේ youtube චැනලය ඇතුළු නිල සමාජ මාධ්‍ය ගිණුම් කිහිපයක් සයිබර් ප්‍රහාරයකට ලක්වීම සම්බන්ධව පවතින අලුත්ම තත්ත්වය පිළිබඳව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කර තිබේ.
-
-ශ්‍රී ලංකා පොලීසියේ නිල facebook, TikTok, instagram, youtube සහ x යන ගිණුම් 2024.12.30 වන දින සවස් කාලයේ සිට සයිබර් ප්‍රහාරයකට ලක්විය.
-
-අදාළ නිවේදනයේ දැක්වෙන්නේ මේ වනවිට නිල facebook, TikTok, instagram, x  යන ගිණුම් නැවත ශ්‍රී ලංකා පොලීසියේ පාලනය යටතට ගෙන ඇති බවය.
-
-පොලිස් youtube නාලිකාව මෙතෙක් ශ්‍රී ලංකා පොලීසියේ පාලනයට නතුවී නොමැත.
-
-එය යථාතත්ත්වයට පත් කරගැනීම සඳහා තොරතුරු තාක්ෂණ කොට්ඨාසයේ නිලධාරීන් කටයුතු කරමින් සිටි.
-
-මෙම සයිබර් ප්‍රහාරය සම්බන්ධයෙන් පරිගණක අපරාධ විමර්ශන කොට්ඨාසය විසින් විමර්ශනයක් ද ආරම්භ කර ඇත.
-
-◼️
-
-[Data](articles/f842fe4b.json)
-
----
-
-### ஊடகங்களுக்கு தடை விதிக்கும் எண்ணம் புதிய அரசாங்கத்திற்கு இல்லை - சுகாதார அமைச்சர்
-
-*2024-12-31 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202660) · `ta`
-
-ஊடகங்களுக்கு தடை விதிக்கும் எண்ணம் புதிய அரசாங்கத்திடம் இல்லை. நாட்டு மக்களுக்காக ஊடகங்களை முறையாக நிர்வகிக்கும் பொறுப்பை உரிய முறையில் எமது அரசாங்கம் நிறைவேற்றி வருவதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ குறிப்பிட்டார்.
-
-இலங்கை ஒலிபரப்பாளர்கள் சங்க பிரதிநிதி குழுவுடன் கடந்த ஞாயிற்றுக்கிழமை ஊடக அமைச்சில் இடம்பெற்ற கலந்துரையாடலின் போதே சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் இதனைத் தெரிவித்தார்.
-
-ஊடகம் மற்றும் அரசாங்கம் ஆகிய இரண்டும் அவதானமாகவும், புரிந்துணர்வுடனும் செயற்படுவது அவசியம். இந்நாட்டு மக்களுக்காக ஊடகங்களை முறையாக நிர்வகிக்கும் பொறுப்பை அரசாங்கம் நிறைவேற்றி வருகிறது. ஒருபோதும் ஊடகங்கள் மீது தடைவிதிக்கும் எண்ணம் எமது அரசாங்கத்துக்கு இல்லை. இலங்கையின் வெகுசன ஊடக அமைச்சு கடந்த அரசாங்கத்தில் கடமையாற்றி ஆட்சியாளர்களினால் பொறுப்பற்ற செயலற்ற ஓர் துறையாக மாற்றப்பட்டுள்ளது.
-
-...
-
-[Data](articles/e60e5f9a.json)
-
----
-
-### Sri Lanka sees deflation of 1.7-pct by Dec 2024
-
-*2024-12-31 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-deflation-of-1-7-pct-by-dec-2024-197295/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Consumer Prices fell 1.7 percent in the year to December 2024, the fifth straight month where 12-month deflation was recorded, data from the state statistics office showed.s.
-
-Sri Lanka’s central bank has operated broadly deflationary policy since September 2022 allowing it to collect foreign reserves and also appreciate the exchange rate.
-
-Governor Nandalal Weerasinghe is credited with preventing possible hyperinflation and laying stable monetary foundation for growth.
-
-However there have been warnings that the central bank printing money in the last quarter of the year, in a bid to push down interest rates, at a time when markets were already flushed with liquidity.
-
-By the beginning of December excess liquidity was up to 246 billion rupees with about 30 billion rupees being printed overnight and more money on term deals.
-
-The central bank was at one time injecting as much as 100 billion rupees through overnight and term operations.
-
-...
-
-[Data](articles/88c0a3a2.json)
-
----
-
-### බිංගිරියේදී මාලිමාවේ මන්ත්‍රීවරුන්ට බාධා කළ සැකකරුවන් රිමාන්ඩ්
-
-*2024-12-31 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204909) · `si`
-
-බිංගිරිය කම්හල් පරිශ්‍රයක් තුළ ඊයේ (30) දින ජාතික ජන බලවේගයේ මන්ත්‍රීවරුන් දෙදෙනා මුහුණ දුන් සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා රක්ෂිත බන්ධනාගාරගත කර තිබේ.
-
-එහිදී සැකකරුවන් දෙදෙනා හෙට්ටිපොළ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරුණු අතර වැඩබලන මහෙස්ත්‍රාත් ඒ. සී. ඒ. සලාම් මහතා නියෝග කර ඇත්තේ සැකකරුවන් දෙදෙනා ජනාවාරි මස 7වන දින දක්වා රක්ෂිත බණ්ධනාගාරගත කිරීමටය.
-
-එම දිනයේ දී සැකකරුවන් හඳුනාගැනීමේ පෙරට්ටුවකට ද ඉදිරිපත් කිරීමට නියමිතය.
-
-පාර්ලිමේන්තු මන්ත්‍රී විජේසිරි බස්නායක මහතා කුලියාපිටිය කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශයට කළ පැමිණිල්ලකට අනුව සැකකරුවන් අත්අඩංගුවට ගෙන තිබුණි.
-
-මෙම සිද්ධිය ඇතිවී තිබුණේ, ඊයේ පස්වරුවේ කුරුණෑගල බිංගිරිය ප්‍රදේශයේ පිහිටි ඇගලුම් කම්හල් පරිශ්‍රයක දීය.
-
-ජාතික ජන බලවේගයේ පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අජිත් ගිහාන් ප්‍රනාන්දු සහ එහි කුරුණෑගල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී විජේසිරි බස්නායක යන ඊයේ පස්වරුවේ එහි ගොස් තිබුණි.
-
-ඒ අදාළ කර්මාන්ත ශාලාවේ සේවකයින්ගේ ප්‍රවාහන පහසුකම් සම්බන්ධයෙන් වූ ගැටලුවක් පිළිබඳ සාකච්ඡා කිරීමටය.
-
-...
-
-[Data](articles/9d5ec441.json)
 
 ---

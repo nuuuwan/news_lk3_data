@@ -1,36 +1,116 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 18:49:27**
+As of **2025-01-01 20:01:52**
 
 ## Newspaper Stats
 
-*Scraped **63,141** Articles*
+*Scraped **63,150** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 465
 colombotelegraphcom | 637
-bbccomsinhala | 664
+bbccomsinhala | 665
 islandlk | 3,836
 economynextcom | 3,844
-dailyftlk | 4,379
+dailyftlk | 4,380
 dailymirrorlk | 4,733
-adalk | 6,035
-adaderanalk | 7,718
+adalk | 6,036
+adaderanalk | 7,722
 tamilmirrorlk | 9,058
 virakesarilk | 10,503
-adaderanasinhalalk | 10,906
+adaderanasinhalalk | 10,908
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,141 articles have been extended.
+61,971 (98.1%) of 63,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Exams Dept. takes final decision on 2024 Scholarship Exam paper leak
+
+*2025-01-01 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104651/exams-dept-takes-final-decision-on-2024-scholarship-exam-paper-leak) · `en`
+
+The Commissioner General of Examinations, Amith Jayasundara says a decision has been made to award free marks to all students for the three questions which were alleged to have been leaked in the 2024 Grade 05 Scholarship Examination, as per the recent Supreme Court order.
+
+On Tuesday (31), the Supreme Court declared that the fundamental human rights have been violated through the Cabinet of Ministers’ decision to award free marks to all students for the three questions of the 2024 Grade 05 Scholarship Examination which are alleged to have been leaked.
+
+Accordingly, the court also ordered the Commissioner General of Examinations to immediately implement a suitable recommendation out of the three recommendations made by the experts’ committee appointed to look into the matter.
+
+2. Awarding free marks for all the candidates for the compromised questions
+
+...
+
+[Data](articles/0a2b4391.json)
+
+---
+
+### 5 ශිෂ්‍යත්වයේ අර්බුදය අවසන්
+
+*2025-01-01 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204938) · `si`
+
+5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ පිට වූ බවට සඳහන් වූ ප්‍රශ්න තුන වෙනුවෙන් සියලුම විභාග අපේක්ෂකයින් හට නිදහස් ලකුණු ප්‍රදානය කිරීමට තීරණය කර තිබේ.
+
+මාධ්‍ය වෙත නිවේදනයක් නිකුත් කරමින් විභාග කොමසාරිස් ජනරාල් එච්. ජේ. එම්. සී. අමිත් ජයසුන්දර මහතා අද (1) පස්වරුවේ මේ බව පවසා සිටියේය.
+
+ඉකුත් සැප්තැම්බර් මස 15 වනදින පැවති 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ I ප්‍රශ්න පත්‍රයේ ඇතුළත් ප්‍රශ්න 03ක් විභාගයට පෙර පිට වී ඇති බව පවසමින් ශ්‍රේෂ්ඨාධිකරණයේ විභාග වූ නඩුවේ තීන්දුව ඊයේ (31) ප්‍රකාශයට පත් කළේය.
+
+එම තීන්දුව ප්‍රකාරව විභාග කොමසාරිස් ජනරාල්වරයා වෙත ක්‍රියාත්මක කිරීම සඳහා නිර්දේශ තුනක් ලබා දුන්නේය.
+
+1 පිළිතුරු පත්‍ර සඳහා ලකුණු ලබා දීමේදී මතභේදාත්මක ප්‍රශ්න තුන ඉවත් කර ඇගයීම් සිදු කිරීම.
+
+2 අදාළ ප්‍රශ්න තුන සඳහා සියලුම විභාග අපේක්ෂකයින් හට නිදහස් ලකුණු ප්‍රදානය කිරීම.
+
+මෙම නිර්දේශ අතරින් සුදුසුම ක්‍රියාමාර්ගය අනුගමනය කරන ලෙස විභාග කොමසාරිස් ජනරාල්වරයා වෙත නියෝග කර තිබුණි.
+
+...
+
+[Data](articles/858a8ade.json)
+
+---
+
+### අමෙරිකාවේ ට්‍රක් රථයක ගැටී 10 දෙනෙකුට දිවි අහිමි වෙයි
+
+*2025-01-01 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204937) · `si`
+
+අමෙරිකාවේ ඕර්ලින්ස් නගරයේ බර්බන් වීදියේ සිදු වූ අනතුරකින් පුද්ගලයන් 10 දෙනෙකු මියගොස් තවත් විශාල පිරිසක් තුවාල ලබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඕර්ලින්ස් යනු ලුසියානා ප්‍රාන්තයට අයත් නගරයක් වන අතර, එහි බර්බන් වීදියේ ජනතාව අතරට ට්‍රක් රථයක් කඩාවැදීමෙන් මෙම අනතුර සිදුව ඇත.
+
+අමෙරිකාවේ වේලාවෙන් අද (1) අළුයම සිදු වූ මෙම අනතුරින් අවම වශයෙන් පුද්ගලයන් 10 දෙනෙකු මියයන්නට ඇති බව නගර බලධාරීන් පවසයි.
+
+අදාළ ට්‍රක් රථය අධික වේගයෙන් ජනතාව අතරට කඩාවැදී ඇති අතර, පසුව එහි රියදුරු රථයෙන් පිටතට ගොස් වෙඩි තැබීමට ද උත්සාහ දරා තිබේ.
+
+කෙසේ නමුත් ඊට ප්‍රතිචාර ලෙසින් පොලීසිය ද ඔහු දෙසට වෙඩිතබා ඇත.
+
+◼️
+
+[Data](articles/a1dcbe76.json)
+
+---
+
+### At least 10 dead after truck crashes into New Orleans crowd, city authorities say
+
+*2025-01-01 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104650/at-least-10-dead-after-truck-crashes-into-new-orleans-crowd-city-authorities-say) · `en`
+
+At least 10 people were killed and 30 injured when a truck drove into a large crowd on Bourbon Street in New Orleans’ French Quarter early on Wednesday, a city government agency said.
+
+Earlier CBS News, citing witnesses, reported that a truck had crashed into the crowd at high speed, and then the driver got out and started firing a weapon, with police returning fire.
+
+"Initial reports show a car may have plowed into a group of people. Injuries are unknown but there are reported fatalities," New Orleans Police Department spokesperson told CBS News.
+
+The police department did not immediately respond to a Reuters’ request for comment.
+
+◼️
+
+[Data](articles/b18c8532.json)
+
+---
 
 ### நடிகர் சிபி சத்யராஜ் நடிக்கும் 'டென் ஹவர்ஸ் ' படத்தின்  ஃபர்ஸ்ட் லுக் வெளியீடு
 
@@ -52,15 +132,59 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2025-01-01 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204936) · `si`
 
-කොළඹ අපරාධ කොට්ඨාසය විසින් අද (01) දහවල් අත්අඩංගුවට ගනු ලැබූ සමාජ ක්‍රියාකාරිකයෙකු වන නාමල් කුමාර ජනවාරි 15වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+අත්අඩංගුවට ගනු ලැබූ සමාජ ක්‍රියාකාරිකයෙකු වන නාමල් කුමාර එළැඹෙන ජනවාරි 15 වනදා ​​දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර තිබේ.
 
-කොළඹ කොටුව අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+ඔහු කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කර ඇත.
 
-කොළඹ අපරාධ කොට්ඨාසය වෙත ප්‍රකාශයක් ලබාදීමට පැමිණි අවස්ථාවේදී ඔහු අත්අඩංගුවට පත්විය.
+කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන්ගේ කීර්ති නාමයට අපහාස වන අයුරින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වන හඬපටය සම්බන්ධයෙන් මෙම අත්අඩංගුවට ගැනීම සිදුකළ බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග මහතා පැවසීය.
+
+එම හඬපටය සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන ලෙස කතෝලික සභාව විසින් කොළඹ අපරාධ කොට්ඨාසය වෙත කරනු ලැබූ පැමිණිල්ලට අදාළව සිදුකළ විමර්ශනයකින් අනතුරුව මෙම අත්අඩංගුවට ගැනීම සිදුකළ බවද හෙතෙම පැවසීය.
+
+නාමල් කුමාර කොළඹ අපරාධ කොට්ඨාසය වෙත ප්‍රකාශයක් ලබාදීමට පැමිණි අවස්ථාවේදී අද (01) දහවල් අත්අඩංගුවට ගනු ලැබීය.
 
 ◼️
 
 [Data](articles/52585107.json)
+
+---
+
+### Social activist Namal Kumara remanded
+
+*2025-01-01 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104649/social-activist-namal-kumara-remanded) · `en`
+
+Social activist Namal Kumara has been ordered to be remanded until January 15, 2025.
+
+This order has been issued after he was produced before the Fort Magistrate’s Court.
+
+He was arrested by the Colombo Crimes Division (CCD) earlier today (01).
+
+Police said that the arrest was made in connection with the audio recording being circulated in social media which allegedly defames the reputation of the Archbishop of Colombo, His Eminence Malcolm Cardinal Ranjith.
+
+Recently, the Archdiocese of Colombo had requested for a probe into the incident. The Media Director of the Archdiocese, Rev. Fr. Jude Krishantha alleged that activist Namal Kumara is an abettor of the Easter Sunday massacres and asserted that Kumara is plotting another scene at the request of a certain third party.
+
+Police Media Spokesman SSP Buddhika Manathunga confirmed that the arrest followed an extended investigation into the incident, based on a complaint made by Rev. Fr. Jude Krishantha to the CCD regarding the matter.
+
+◼️
+
+[Data](articles/f8575220.json)
+
+---
+
+### Over 7,000 motorists penalized for traffic offenses in 24 hours
+
+*2025-01-01 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104647/over-7000-motorists-penalized-for-traffic-offenses-in-24-hours) · `en`
+
+In a 24-hour operation that concluded at 6.00 a.m. today (01), Sri Lanka Police have enforced the law against 529 drunk drivers as part of a nationwide effort to minimize traffic accidents during the festive season.
+
+According to the Police Media Division, a total of 7,264 drivers were penalized for various traffic violations during this period. Among these, 1,057 drivers were charged for breaching traffic rules, 614 for license-related offenses, 54 for speeding, 57 for reckless driving and 4,953 over other traffic-related offenses.
+
+Meanwhile, the Police Media Division stated that this is the highest number of drunk drivers arrested in a 24-hour window since the launch of this special traffic operation.
+
+This special traffic operation, launched from December 23 under the directives of the Acting Inspector General of Police, is aimed at enhancing road safety across the island. The initiative comes amidst the festive season, a time typically marked by an increase in traffic incidents.
+
+◼️
+
+[Data](articles/b94ff018.json)
 
 ---
 
@@ -249,6 +373,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a61a7a20.json)
+
+---
+
+### උද්ධමනය තවදුරටත් සෘණ අගයක
+
+*2025-01-01 15:57:37* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-තවදුරටත්-සෘණ-අගයක/11-413962) · `si`
+
+කොළඹ පාරිභෝගික මිල දර්ශකයෙහි (කො.පා.මි.ද., 2021=100)1 වාර්ෂික ලක්ෂ්‍යමය වෙනස මගින් මනිනු ලබන මතුපිට උද්ධමනය, ශ්‍රී ලංකා මහ බැංකුව විසින් සිදු කරන ලද කෙටි කාලීන උද්ධමන පුරෝකථන හා අනුකූලව, අඛණ්ඩව සිව්වන මාසයටත් ඍණ අගයක පවතිමින් 2024 නොවැම්බර් මාසයේ දී වාර්තා වූ සියයට 2.1ක අවධමනයට සාපේක්ෂව 2024 දෙසැම්බර් මාසයේ දී සියයට 1.7ක අවධමනයක් වාර්තා කළේය.
+
+වාර්ෂික ලක්ෂ්‍යමය පදනම මත, ආහාර නොවන කාණ්ඩයෙහි අවධමනය, 2024 නොවැම්බර් මාසයේ වාර්තා වූ සියයට 3.3හි සිට 2024 දෙසැම්බර් මාසයේදී සියයට 3.0ක් දක්වා සුළු වශයෙන් පහළ ගොස් තිබේ.  වාර්ෂික ලක්ෂයමය පදනම මත, ආහාර කාණ්ඩයේ උද්ධමනය, 2024 නොවැම්බර් මාසයේදී වාර්තා වූ සියයට 0.6හි සිට 2024 දෙසැම්බර් මාසයේදී සියයට සියයට 0.8ක් දක්වො සුළු ඉහළ යෑමක් පෙන්නුම් කළේය.
+
+◼️
+
+[Data](articles/0642d377.json)
 
 ---
 
@@ -723,6 +861,32 @@ Sri Lanka Customs attributed this success to the government’s tax policies, an
 ◼️
 
 [Data](articles/f42fcb98.json)
+
+---
+
+### 2024 වසරේ වැඩි අවධානයක් යොමු වූ මරණ
+
+*2025-01-01 13:20:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1el1pj1e52o) · `si`
+
+ගෙවී ගිය 2024 වසරේදී ලෝකයේ මෙන් ම ශ්‍රී ලංකාවේ ද කැපී පෙනෙන පුද්ගලයන් කිහිප දෙනෙක් ම ජීවිතයට සමුදුන්හ.
+
+කලාකරුවන්, ලේඛකයන්, දේශපාලනඥයන් ඇතුළු විවිධ ක්ෂේත්‍රවලට සිදු වූ මෙම අහිමි වීම් පිළිබඳව මහජනතාවගේ ද විශාල අවධානයක් යොමු විය.
+
+මේ එලෙස මෙම වසරේදී ශ්‍රී ලංකාවේ සහ ලෝකයේ සිදු වූ මරණ කිහිපයකි.
+
+හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත ජනවාරි මස 25 වන දා කටුනායක - කොළඹ අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් ජීවිතක්ෂයට පත් විය.
+
+ඔහු මෙරට දේශපාලනයේ ආන්දෝලනාත්මක චරිතයක් මෙන් ම රාජපක්ෂ කඳවුරේ ප්‍රබලයෙකු ද විය.
+
+සුළු වාරිමාර්ග හා ගොවිජන සංවර්ධන අමාත්‍ය, ජල සම්පාදන රාජ්‍ය අමාත්‍ය සහ ධීවර හා මිරිදිය මත්ස්‍ය කර්මාන්ත රාජ්‍ය අමාත්‍ය යන තනතුරු ඔහු විසින් හොඹවනු ලැබූ  අතර ඔහු මිය යන විටත් ඔහුට විරුද්ධව අධිකරණයේ නඩු කිහිපයක් විභාග විය.
+
+මීට දශක කිහිපයකට පෙර ශ්‍රී ලාංකික ගුවන් විදුලි ශ්‍රාවකයින්ට ප්‍රවෘත්ති ඉදරිපත් කළ, රම්‍යා වනිගසේකර මාර්තු 8 වන දින දිවි ගමනට සමු දුන්නා ය.
+
+කලක් අසනීප තත්ත්වයෙන් පසුවූ ඇය අභාවප්‍රාප්ත වූයේ, කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ය.
+
+...
+
+[Data](articles/d3662b5c.json)
 
 ---
 
@@ -1691,145 +1855,5 @@ The committee will be chaired by the CIABOC Chairperson and will comprise senior
 ...
 
 [Data](articles/539dc178.json)
-
----
-
-### CPC reduces Kerosene price; other fuels unchanged
-
-*2025-01-01 01:50:54* · [`dailyftlk`](https://www.ft.lk/news/CPC-reduces-Kerosene-price-other-fuels-unchanged/56-771241) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has announced a revision of Kerosene price with immediate effect.
-
-The price of Kerosene has been reduced by Rs. 5 to Rs. 183 per litre.
-
-However, the prices of Petrol 92 Octane, Petrol 95 Octane, Auto Diesel and Lanka Super Diesel will remain unchanged, according to Ceypetco.
-
-◼️
-
-[Data](articles/903c0855.json)
-
----
-
-### Govt. to optimise development projects
-
-*2025-01-01 01:49:46* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-optimise-development-projects/56-771240) · `en`
-
-Cabinet approves setting up of Public Investment Supervision and Evaluation Committee
-
-The Cabinet of Ministers at its meeting on Monday approved establishing a ‘Public Investment Supervision and Evaluation Committee’ under the provisions of Section 44(3) of the Public Financial Management Act No. 44 of 2024.
-
-This initiative aims to address inefficiencies in public capital investments and ensure greater returns and development outcomes.
-
-The newly formed Committee will consist of 11 members including two Ministry Secretaries appointed by the Secretary to the President and the Senior Additional Secretary of the President.
-
-Its primary responsibilities include strategic decision-making, planning, resource allocation, budgeting, financing and supervision of public investment projects. The Committee will act based on inputs from Chief Accounting Officers and Accounting Officers to ensure informed and efficient oversight.
-
-...
-
-[Data](articles/d46b9883.json)
-
----
-
-### Debate on 2025 Appropriation Bill begins on Feb. 18
-
-*2025-01-01 01:47:38* · [`dailyftlk`](https://www.ft.lk/news/Debate-on-2025-Appropriation-Bill-begins-on-Feb-18/56-771239) · `en`
-
-The Committee on Parliamentary Business chaired by Speaker Dr. Jagath Wickramaratne yesterday decided that the debate on the Appropriation Bill for the year 2025 (Budget Debate) will be held from 18 February to 21 March.
-
-This was communicated by the Secretary General of Parliament Kushani Rohanadeera.
-
-Meanwhile, it has also been decided to present the Appropriation Bill for the year 2025 to Parliament for the first reading on 09 January 2025.
-
-Accordingly, the second reading (Budget Speech) of the Appropriation Bill is scheduled to be held on 17 February and the second reading debate is scheduled to be held for 7 days from 18 to 25 February.
-
-Thereafter, the vote on the second reading of the bill is scheduled to be held on 25 February at 6.00 p.m.
-
-...
-
-[Data](articles/9a2dd552.json)
-
----
-
-### Cabinet nod to gazette and table Appropriation Bill for 2025 for Parliamentary approval
-
-*2025-01-01 01:47:10* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-gazette-and-table-Appropriation-Bill-for-2025-for-Parliamentary-approval/56-771238) · `en`
-
-The Cabinet of Ministers on Monday approved publishing the Appropriation Bill for the financial year 2025 in the Government Gazette and submit the same for Parliamentary approval.
-
-“The Attorney General’s clearance was received for the said Appropriation Bill prepared by the Legal Draftsman. The first reading of the Budget 2025 will be held on 9 January,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
-
-The second reading, also known as the Budget speech is set for 17 February, while the third reading and debate will take place from 27 February to 21 March 2025.
-
-On 25 November 2024, the Cabinet of Ministers approved to instruct the Legal Draftsman to prepare the Appropriation Bill for the Financial Year 2025.
-
-The proposal to this effect submitted by President Anura Kumara Dissanayake in his capacity as the Finance, Planning and Economic Development Minister was approved by the Cabinet of Ministers on Monday.
-
-◼️
-
-[Data](articles/11918a0b.json)
-
----
-
-### பாராளுமன்ற உறுப்பினர் நிலாந்தி கோட்டஹச்சியின் நற்பெயருக்கு சமூக வலைதளங்களில் களங்கம்;  குற்றப்புலனாய்வு திணைக்களத்தில் முறைப்பாடு
-
-*2025-01-01 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202674) · `ta`
-
-தேசிய மக்கள் சக்தியின் களுத்துறை மாவட்ட பாராளுமன்ற உறுப்பினர் சட்டத்தரணி நிலாந்தி கோட்டஹச்சியின் நற்பெயருக்கு களங்கம் விளைவிக்கும் வகையில் சமூக வலைதளங்களில் தவறான தகவல்கள் பகிரப்படுவதாகத்தெரிவித்து அது தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் செவ்வாய்க்கிழமை (31) முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
-
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் செயற்பாட்டாளர் ஒருவரினால் இந்த போலியான பிரசாரம் முன்னெடுக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் கோட்டஹச்சி சார்பில் முறைப்பாட்டை பதிவு செய்த சட்டத்தரணி நாமல் ராஜபக்ஷ தெரிவித்தார்.
-
-பாராளுமன்ற உறுப்பினர் சட்டத்தரணி நிலாந்தி கோட்டஹச்சியின் நற்பெயருக்கு களங்கம் விளைவிக்கும் வகையில் சமூக வலைத்தளங்களில் தவறான தகவல்கள் பகிரப்பட்டு வருகின்றன.குறிப்பாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் செயற்பாட்டாளர் ஒருவராலேயே இவ்வாறான பொய்யான தகவல்கள் பகிரப்பட்டு வருகின்றன.
-
-குறித்த நபர் பாராளுமன்ற உறுப்பினர் நிலாந்தி கோட்டஹச்சியுடன் பல்வேறு விடுதிகளுக்கு சென்றுள்ளதாக குறிப்பிட்டுள்ளார்.
-
-...
-
-[Data](articles/74e554f9.json)
-
----
-
-### K.P.G. Pushpa Kumara appointed as Govt. Printer
-
-*2025-01-01 01:46:44* · [`dailyftlk`](https://www.ft.lk/news/K-P-G-Pushpa-Kumara-appointed-as-Govt-Printer/56-771237) · `en`
-
-The Cabinet of Ministers at their meeting on Monday approved the appointment of K.G.P. Pushpa Kumara, a senior Sri Lanka Administrative Service officer, as the new Government Printer.
-
-This follows the conclusion of G.K.D. Liyanage’s term which ended on 24 December 2024.
-
-Pushpa Kumara, who is serving as an additional Director General of the Department of National Budget, is suitable to be appointed to the said post.
-
-◼️
-
-[Data](articles/744f43c8.json)
-
----
-
-### மஹிந்த பிரபுக்கள் புலிகளுடன் நெருக்கமாக செயற்பட்டவர்கள்; பாதுகாப்பு வழங்குவது அவசியமற்றது -  சரத் பொன்சேகா
-
-*2025-01-01 01:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/202673) · `ta`
-
-மஹிந்த ராஜபக்ஷ விடுதலை புலிகளுடன் தனிப்பட்ட முறையிலா போரிட்டார் இன்றும் அவருக்கு உயிரச்சுறுத்தல் இருப்பதற்கு, விடுதலை புலிகளுடன் நெருக்கமாக செயற்பட்டார் ஆகவே அவர் மீது புலிகள் அமைப்பினர் தாக்குதல் நடத்த போவதில்லை. நாட்டை வங்குரோத்து நிலைக்கு தள்ளிய மஹிந்தவுக்கு பிரபுக்கள் பாதுகாப்பு வழங்குவது அவசியமற்றது என முன்னாள் இராணுவ தளபதி பீல்ட் மார்ஷல் சரத் பொன்சேகா தெரிவித்தார்.
-
-கொழும்பில் செவ்வாய்க்கிழமை (31) நடைபெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-யுத்த காலத்திலும் மஹிந்த ராஜபக்ஷவுக்கு உயிரச்சுறுத்தல் காணப்படவில்லை.பயங்கரவாதிகள் எவரும் மஹிந்த ராஜபக்ஷவை படுகொலை செய்யவும், குண்டுத்தாக்குதல்களை நடத்தவும் முயற்சிக்கவில்லை.இவர் தனியாக சென்றா யுத்தக் களத்தில் போரிட்டார். நாங்கள் போரிடவில்லையா,
-
-...
-
-[Data](articles/84cf2fdd.json)
-
----
-
-### Ringing-in a New Year
-
-*2025-01-01 01:34:00* · [`islandlk`](http://island.lk/ringing-in-a-new-year/) · `en`
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/beae4754.json)
 
 ---

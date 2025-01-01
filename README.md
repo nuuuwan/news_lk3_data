@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 13:44:16**
+As of **2025-01-01 14:03:08**
 
 ## Newspaper Stats
 
-*Scraped **63,100** Articles*
+*Scraped **63,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,835
 economynextcom | 3,840
 dailyftlk | 4,379
 dailymirrorlk | 4,733
-adalk | 6,028
+adalk | 6,029
 adaderanalk | 7,713
-tamilmirrorlk | 9,051
+tamilmirrorlk | 9,052
 virakesarilk | 10,493
 adaderanasinhalalk | 10,900
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,100 articles have been extended.
+61,970 (98.2%) of 63,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### ரயிலில் மோதுண்டு தாயும் மகனும் காயம்
+
+*2025-01-01 13:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதுண்டு-தாயும்-மகனும்-காயம்/175-349613) · `ta`
+
+புத்தாண்டை கொண்டாடிய பின்னர் வீடு திரும்பிய 39 வயதுடைய தாயும் அவரது ஆறு வயது மகனும் ரயிலில் மோதுண்டு படுகாயமடைந்த நிலையில் பெந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பெந்தோட்டை பொலிஸார்  தெரிவித்துள்ளனர்.
+
+பெந்தோட்டை பகுதியில் வசிக்கும் தாயும் மகனும் செவ்வாய்க்கிழமை (31) இரவு பெந்தோட்டை கடற்கரையில் இடம்பெற்ற வாணவேடிக்கையை கண்டுகளிக்கத்துவிட்டு குடும்பத்துடன் வீடு திரும்பிக் கொண்டிருந்த போதே இவ்விபத்து இடம்பெற்றுள்ளதாக பொலிஸார்  குறிப்பிட்டுள்ளனர்.
+
+விபத்தில் படுகாயமடைந்த ஆறு வயது குழந்தையின் இடது கை பகுதி காயமடைந்த நிலையில் பெந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் பொலிஸ் தரப்பில் தெரிவிக்கப்படுகினிறது.
+
+சிகிச்சையின் பின்னர் தாயும் மகனும் களுத்துறை நாகொட வைத்தியசாலைக்கு மாற்றப்பட்டதாக பெந்தோட்டை வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/51568bf9.json)
+
+---
 
 ### இலங்கை - இந்திய கப்பல் சேவை நாளை முதல் மீண்டும் ஆரம்பம்
 
@@ -421,6 +439,18 @@ The return flight departs Colombo at 10:05 PM, reaching Dubai at 1:05 AM the nex
 ◼️
 
 [Data](articles/105ba876.json)
+
+---
+
+### දෙසැම්බරයේ මුල් දින 29ට සංචාරකයන් 233000ක් ඇවිත්
+
+*2025-01-01 09:15:41* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මුල්-දින-29ට-සංචාරකයන්-233000ක්-ඇවිත්/11-413952) · `si`
+
+දෙසැම්බර් මාසයේ පළමු වැනිදා සිට 29 වැනිදා දක්වා සංචාරකයන් 233087ක් පැමිණ ඇතැයි ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය කියයි. මෙම සංචාරකයන් සංඛ්‍යාවද සමගින් 2024 වසරේ දෙසැම්බර් 29 දා වන විට ශ්‍රී ලංකාවට පැමිණ ඇති සමස්ත සංචාරකයන් සංඛ්‍යාව 2 037 960ක් දක්වා වර්ධනය වි තිබේ.
+
+◼️
+
+[Data](articles/13855fe4.json)
 
 ---
 
@@ -1753,43 +1783,5 @@ Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 
 ◼️
 
 [Data](articles/4af6dd30.json)
-
----
-
-### Sri Lanka new govt establishes ministerial investigation units amid criticism
-
-*2024-12-31 19:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-establishes-ministerial-investigation-units-amid-criticism-197334/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government has decided to establish investigation units in each ministry to hold public officials accountable amid large number of complaints against those officials and criticism of trade unions dictating terms in ministries.
-
-President Anura Kumara Dissanayake-led ruling National People’s Power (NPP) has promised an overhaul in the governance to ensure accountability and transparency while eliminating corruption.
-
-Tens of thousands of Sri Lankans demanded a system change in the governance to hold rulers accountable for their actions during 2022 mass protests which led to oust then President Gotabaya Rajapaksa and his government which declared bankruptcy in April that year.
-
-However, top NPP officials have said the “system change” is not as easy as they had thought earlier, given public officials have been doing the same thing what they are used to, including long delays in the discharging their duties in the public service.
-
-...
-
-[Data](articles/4a60b7b5.json)
-
----
-
-### Colombo Chief Magistrate Thilina Gamage transferred
-
-*2024-12-31 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104628/colombo-chief-magistrate-thilina-gamage-transferred) · `en`
-
-The Judicial Services Commission has transferred Colombo Chief Magistrate Thilina Gamage to Moratuwa District and Magistrate’s Court.
-
-Meanwhile, it was reported that Colombo Fort Magistrate Thanuja Lakmali has been appointed as the Colombo Chief Magistrate by the Judicial Services Commission.
-
-However on Monday (30), Magistrate Thilina Gamage had requested the Judicial Services Commission to transfer to another court the hearings of the case filed by the Bribery Commission against two individuals including former Western Provincial Councilor Salochana Gamage for allegedly soliciting a bribe of Rs. 9 million.
-
-The Magistrate had reportedly emphasized that his court is unable to proceed with the hearings of the said bribery case as Salochana Gamage, one of the defendants, is his brother and thereby poses a conflict of interest.
-
-Accordingly, he had requested the Judicial Services Commission in writing to appoint another suitable magistrate to proceed with the hearings related to the case.
-
-◼️
-
-[Data](articles/0e0e6993.json)
 
 ---

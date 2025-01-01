@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 05:27:18**
+As of **2025-01-01 05:53:02**
 
 ## Newspaper Stats
 
-*Scraped **63,034** Articles*
+*Scraped **63,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 464
 colombotelegraphcom | 637
 bbccomsinhala | 661
-islandlk | 3,824
+islandlk | 3,826
 economynextcom | 3,835
 dailyftlk | 4,379
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,034 articles have been extended.
+61,970 (98.3%) of 63,036 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -194,6 +194,20 @@ Pushpa Kumara, who is serving as an additional Director General of the Departmen
 
 ---
 
+### Ringing-in a New Year
+
+*2025-01-01 01:34:00* · [`islandlk`](http://island.lk/ringing-in-a-new-year/) · `en`
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/beae4754.json)
+
+---
+
 ### உயர்தர பரீட்சை பெறுபேறுகள் ஏப்ரலில் வெளியாகும்; புலமைப் பரிசில் பரீட்சை குறித்து துரித நடவடிக்கை - பரீட்சை ஆணையாளர் அமித் ஜயசுதந்தர
 
 *2025-01-01 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/202672) · `ta`
@@ -225,6 +239,22 @@ Pushpa Kumara, who is serving as an additional Director General of the Departmen
 ...
 
 [Data](articles/898fa5dc.json)
+
+---
+
+### The Second Term of Donald Trump: What could we expect?
+
+*2025-01-01 01:26:00* · [`islandlk`](http://island.lk/the-second-term-of-donald-trump-what-could-we-expect/) · `en`
+
+(This article is based on a talk given to the members of the Sri Lanka Foreign Service Association on the 10th of December, 2024).
+
+I was invited to address you today on the topic of what the second coming of Donald Trump, as President of the United States holds for the United States and the wider world outside of its shores. I was also requested to explain to you the Electoral College process by which a president is elected in the United States. This is a process that baffles even those familiar with the United States and the way its institutions function, as it is markedly different from the way in which other democracies elect their presidents and prime ministers.
+
+I shall try my very best to not confuse you in my attempt to explain the manner in which the POTUS, to use the abbreviation for the President of the United States first used by telegraphic code operators in the 1890s, is elected.
+
+...
+
+[Data](articles/54528cdf.json)
 
 ---
 
@@ -1739,43 +1769,5 @@ Under the agreement signed with political leadership the agency can create up to
 ...
 
 [Data](articles/efa4f6d7.json)
-
----
-
-### சிகரெட் மற்றும் விஸ்கி கடத்திய வர்த்தகர் கைது
-
-*2024-12-31 14:58:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-மற்றும்-விஸ்கி-கடத்திய-வர்த்தகர்-கைது/175-349572) · `ta`
-
-10 மில்லியன் ரூபாய் பெறுமதிமிக்க வெளிநாட்டு சிகரெட் மற்றும் விஸ்கியை கடத்தியதற்காக 45 வயதுடைய வர்த்தகர் ஒருவர் பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் (BIA) இன்று காலை விமான நிலைய பொலிஸாரால் கைது செய்யப்பட்டார்.
-
-சந்தேகநபர் கொழும்பு 14, பிரின்ஸ் ஒப் வேல்ஸ் வீதியை வசிப்பிடமாகக் கொண்டவர் என்பதுடன் வர்த்தக நோக்கத்திற்காக அடிக்கடி விமானப் பயணத்தில் ஈடுபடுபவர்ஆவார்.
-
-அவர் இன்று (டிசம்பர் 31 ஆம் திகதி) அதிகாலை 3:50 மணிக்கு இந்தியாவின் பெங்களூரில் இருந்து இண்டிகோ ஏர்லைன்ஸ் விமானத்தில் (6E-1164) கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்தார்.
-
-சந்தேக நபர் ஐந்து பயணப் பைகளுக்குள் வெளிநாட்டில் தயாரிக்கப்பட்ட சிகரெட் பிராண்டுகளை மறைத்து வைத்திருந்ததை அதிகாரிகள் கண்டுபிடித்துள்ளனர்.
-
-மேலும், அதே பொதியில் 125 போத்தல்கள் இறக்குமதி செய்யப்பட்ட மது வகைகளும் மறைத்து வைக்கப்பட்டிருந்தன.
-
-இதேவேளை, எதிர்வரும் பண்டிகைக் காலத்தில் இலங்கையின் பல்வேறு மாகாணங்களில் உள்ள மதுபானக் கடைகள் மற்றும் உணவகங்களில் இந்தப் பொருட்கள் விற்பனை செய்யப்படவிருந்தன.
-
-...
-
-[Data](articles/dbd6e802.json)
-
----
-
-### Sri Lanka Customs clears 79,000 MT of imported rice
-
-*2024-12-31 14:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104620/sri-lanka-customs-clears-79000-mt-of-imported-rice) · `en`
-
-Sri Lanka Customs has reported that as of 12 noon today (31), a total of 79,000 metric tonnes of imported rice have been cleared through customs.
-
-Sri Lanka Customs Media Spokesperson and Additional Director General, Seevali Arukgoda, stated that out of this total, 31,000 MT are raw rice, while 48,000 MT are parboiled rice.
-
-Additionally, this stock includes 780 metric tonnes of rice imported by the Sri Lanka State Trading Corporation, according to Sri Lanka Customs.
-
-◼️
-
-[Data](articles/f944fe3a.json)
 
 ---

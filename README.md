@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 05:53:02**
+As of **2025-01-01 06:17:38**
 
 ## Newspaper Stats
 
-*Scraped **63,036** Articles*
+*Scraped **63,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 464
 colombotelegraphcom | 637
 bbccomsinhala | 661
-islandlk | 3,826
+islandlk | 3,835
 economynextcom | 3,835
 dailyftlk | 4,379
 dailymirrorlk | 4,733
-adalk | 6,018
+adalk | 6,019
 adaderanalk | 7,705
 tamilmirrorlk | 9,041
 virakesarilk | 10,486
@@ -26,11 +26,67 @@ adaderanasinhalalk | 10,888
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.3%) of 63,036 articles have been extended.
+61,970 (98.3%) of 63,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### British Council’s South Asia Deep Dialogues event in Colombo
+
+*2025-01-01 03:22:00* · [`islandlk`](http://island.lk/british-councils-south-asia-deep-dialogues-event-in-colombo/) · `en`
+
+The British Council’s South Asia Deep Dialogues event took place from 10-11 December in Colombo. With the theme of: “‘Widening access to quality tertiary education through transnational education’, Deep Dialogues brought leading experts, policymakers, and education sector professionals from the UK and South Asia to discuss the potential of transnational education (TNE), particularly as a significant driver of educational transformation, the knowledge economy and sustainable development goals.
+
+Trust and respect are fundamental to establishing mutually beneficial partnerships that will significantly improve the quality of teaching, curricula, policies, and, ultimately, the student experience.
+
+...
+
+[Data](articles/5c248e44.json)
+
+---
+
+### Buoyed by rating agencies’ positive assessments, CSE increases in bullishness
+
+*2025-01-01 03:17:00* · [`islandlk`](http://island.lk/buoyed-by-rating-agencies-positive-assessments-cse-increases-in-bullishness/) · `en`
+
+Two main rating agencies, Fitch and Moody’s, upgraded the government of Sri Lanka’s Long-Term Foreign Currency Issuer Rating, thus creating a rally on banking sector counters yesterday. Amid those developments the market was extremely bullish, driven by banking sector counters, market analysts said.
+
+...
+
+[Data](articles/2c48e295.json)
+
+---
+
+### Empowering women in maritime with ‘She Can Sail the Seas’ initiative
+
+*2025-01-01 03:12:00* · [`islandlk`](http://island.lk/empowering-women-in-maritime-with-she-can-sail-the-seas-initiative/) · `en`
+
+Centrum Marine Consultancy (Pvt) Ltd., a leader in maritime HR and a strong advocate for gender diversity, has been awarded the prestigious “Empowering Diversified Maritime Education” accolade at the 5th annual Maritime SheEO Conference. This recognition celebrates their groundbreaking initiative, She Can Sail the Seas, Sri Lanka’s first female cadetship program, launched in partnership with Peter Döhle Schiffahrts-KG. This award reaffirms Centrum Marine Consultancy’s commitment to bridging the gender gap in maritime and creating equal opportunities for women at sea.
+
+The Maritime SheEO Conference, held at the TAJ Santacruz in Mumbai under the theme “Setting Sail for Equality: Empowering Women Leaders,” brought together global CXOs to champion diversity and inclusivity in the maritime industry. Centrum Marine Consultancy stood out for its innovative approach to promoting gender diversity and fostering a more inclusive workforce.
+
+...
+
+[Data](articles/8b5f3d3a.json)
+
+---
+
+### AKD faces challenging year ahead
+
+*2025-01-01 03:07:00* · [`islandlk`](http://island.lk/akd-faces-challenging-year-ahead/) · `en`
+
+Senior lecturer in economics and head of the IT Department at the University of Colombo, Professor Priyanga Dunusinghe, recently declared that the new National People’s Power (NPP) administration had neither a clear economic policy nor a tangible action plan to address the plethora of serious issues facing the nation.
+
+Prof. Dunusinghe warned of dire consequences unless the government took meaningful measures to overcome the challenges.
+
+Appearing on Derana, the outspoken academic claimed that the investors and the public were in the dark as to the overall government economic policy. Asserting that the NPP government now primarily addressed the day-to-day issues, Prof. Dunusinghe alleged that economic reforms required to stabilize, consolidate and strengthen the economy weren’t being implemented. Therefore, the government seemed to be already late in that regard.
+
+...
+
+[Data](articles/746a2ef8.json)
+
+---
 
 ### திடீரென மயங்கிய குடும்பஸ்தர் உயிரிழப்பு
 
@@ -551,6 +607,18 @@ In a detailed statement issued ahead of his retirement, General Silva reflected 
 ...
 
 [Data](articles/e99771dd.json)
+
+---
+
+### භූමිතෙල් මිල පමණක් අඩුවෙයි
+
+*2024-12-31 21:43:50* · [`adalk`](https://www.ada.lk/breaking_news/භූමිතෙල්-මිල-පමණක්-අඩුවෙයි/11-413942) · `si`
+
+ඉන්ධන මිල සූත්‍රය අනුව මෙම මාසයේදි භූමිතෙල් මිල පමණක් රුපියල් පහකින් අඩු කර ඇති බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.මේ අනුව අනෙක් ඉන්ධන මිල ගණන් වෙනස් නොවෙයි.
+
+◼️
+
+[Data](articles/73211e84.json)
 
 ---
 
@@ -1677,97 +1745,5 @@ He stated that the process of evaluation of answer sheets of the examination wil
 ◼️
 
 [Data](articles/31f5307c.json)
-
----
-
-### Sri Lanka stocks end 2024 in green
-
-*2024-12-31 15:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-2024-in-green-197108/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on the last day of 2024, data on its site showed.
-
-The broader ASPI closed up 0.74 percent, or 117.22 points, at 15,944.61; while the more liquid S&P SL20 Index closed up 1.01 percent, or 48.72 points, at 4,862.10.
-
-The ASPI inched closer to the 16,000 mark in morning trade before some profit taking mid-morning brought it down.
-
-“This has been an unusual December, usually it’s more quiet,” Softlogic Stockbrokers said.
-
-Tentative figures showed the market had gained around 50 percent year-to-date.
-
-Banks (Rs3.6bn), diversified financials (Rs1bn) and capital goods (Rs1bn) sectors saw the most investor interest.
-
-This was predominantly led by locals, with retail and high net worth investors taking positions.
-
-Top foreign buying was seen in Aitken Spence (up at 145.00), Lanka Milk Foods (down at 46.80), L B Finance (up at 89.50), The Kingsbury (down at 12.00), Browns Investments (flat at 7.10), LOLC Holdings (up at 690.25).
-
-...
-
-[Data](articles/0e973a82.json)
-
----
-
-### විභාග දෙපාර්තමේන්තුවෙන් විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක්
-
-*2024-12-31 15:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204904) · `si`
-
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතාගේ ප්‍රධානත්වයෙන් මේ වනවිට විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පැවැත්වෙයි.
-
-◼️
-
-[Data](articles/1494d69a.json)
-
----
-
-### කොළඹ උද්ධමනයේ වෙනසක්
-
-*2024-12-31 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204903) · `si`
-
-2024 දෙසැම්බර් මාසය සඳහා කොළඹ පාරිභෝගික මිල දර්ශකය සහ කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය  ප්‍රකාශයට පත්කර තිබේ.
-
-ඒ අනුව කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය   2024  දෙසැම්බර් මාසය සඳහා -1.7%ක් දක්වා වැඩිවී ඇති බව ජනලේඛන සහ සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව අද (31) නිකුත් කළ නිවේදනයේ දැක්වෙයි.
-
-2024  දෙසැම්බර් මාසයේදී ආහාර කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය)  0.8% දක්වා වැඩිවී ඇති අතර 2024 නොවැම්බර් මාසයේ දී එය වාර්තා වුයේ 0.6%ක්  ලෙසය.
-
-එමෙන්ම,  2024 දෙසැම්බර් මාසය සඳහා ආහාර නොවන කාණ්ඩයේ වාර්ෂික උද්ධමනය (ලක්‍ෂ්‍යමය)  -3.0%  ක් දක්වා වැඩි වී ඇති අතර එය 2024 නොවැම්බර් මාසයේ දී -3.3%ක් ලෙස වාර්තා විය.
-
-◼️
-
-[Data](articles/785288ff.json)
-
----
-
-### தமிழ்நாட்டு பெண்களிடம் 6,720 தொன் தங்கம்
-
-*2024-12-31 15:04:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்நாட்டு-பெண்களிடம்-6-720-தொன்-தங்கம்/175-349573) · `ta`
-
-தமிழ்நாட்டு பெண்களிடம் 6,720 தொன் தங்கம் இருப்பதாக உலக கோல்டு கவுன்சில் தெரிவித்துள்ளது.
-
-இதுகுறித்து உலக கோல்டு கவுன்சில் வெளியிட்டுள்ள அறிக்கையில் கூறியிருப்பதாவது: இந்தியாவில் செல்வம் மற்றும் செழிப்பின் அடையாளங்களில் ஒன்றாக தங்கம் கருதப்படுகிறது. இது இந்தியாவின் கலாச்சாரம் மற்றும் பாரம்பரியத்தில் முக்கிய பங்கு வகிக்கிறது.
-
-இந்திய பெண்கள் சுமார் 24,000 தொன் தங்கம் வைத்துள்ளனர். எந்த நாடும் வைத்திருக்கும் தங்கத்தை விட இது மிக அதிகமாகும். இந்த தங்கத்தின் அளவு ஒவ்வொரு ஆண்டும் அதிகரித்து வருகிறது. உலகின் தங்கத்தில் 11% இந்தியப் பெண்களிடம் உள்ளது. உலகின் முதல் 5 நாடுகளின் தங்கத்தை விட இது அதிகம். அமெரிக்கா 8,000 தொன், ஜெர்மனி 3,300 தொன், இத்தாலி 2,450 தொன், பிரான்ஸ் 2,400 ரஷ்யா 1,900 தொன் என தங்கம் வைத்துள்ளன.
-
-இந்தியாவில் இருக்கும் தங்கத்தில் 40% தென்னிந்தியப் பெண்களிடம் உள்ளது. குறிப்பாக தமிழ்நாட்டு பெண்களிடம் மட்டும் 6,720 தொன் தங்கம் உள்ளது. இது இந்தியாவின் கையிருப்பில் 28% ஆகும்.
-
-...
-
-[Data](articles/1ce2e341.json)
-
----
-
-### Sri Lanka Central Bank report to parliament on inflation falling below 3-pct
-
-*2024-12-31 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-report-to-parliament-on-inflation-falling-below-3-pct-197170/) · `en`
-
-ECONOMYNEXT – A report from the central bank in inflation falling below the lower limit of its 5 percent inflation targeting will be presented to the parliament through the Finance Minister, cabinet spokesman Nalinda Jayatissa said.
-
-Sri Lanka’s central bank has persuaded then President Ranil Wickremesinghe who was elected by parliament following an inflation crisis created by rate cuts and ousted in the ensuing stabilization crisis, to allow a 5 percent inflation target plus or minus 2 percent.
-
-Unlike countries with monetary stability which have and achieve inflation of 2 percent or below, Sri Lanka was hit by four currency crises since the end of a civil war while targeting 5 percent inflation and eventually defaulted.
-
-Under the agreement signed with political leadership the agency can create up to 7 percent inflation.
-
-...
-
-[Data](articles/efa4f6d7.json)
 
 ---

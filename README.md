@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 20:13:59**
+As of **2025-01-01 20:27:37**
 
 ## Newspaper Stats
 
-*Scraped **63,155** Articles*
+*Scraped **63,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 465
 colombotelegraphcom | 637
 bbccomsinhala | 665
-islandlk | 3,836
+islandlk | 3,838
 economynextcom | 3,844
 dailyftlk | 4,380
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,908
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,155 articles have been extended.
+61,971 (98.1%) of 63,157 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1206,6 +1206,8 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 
 ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
 
+ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
+
 ◼️
 
 [Data](articles/9508d450.json)
@@ -1756,6 +1758,18 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa and Cen
 
 ---
 
+### ‘Invest Sri Lanka’ forum to be held in March 2025 in Colombo
+
+*2025-01-01 03:23:00* · [`islandlk`](http://island.lk/invest-sri-lanka-forum-to-be-held-in-march-2025-in-colombo/) · `en`
+
+The Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of Sri Lanka (SEC) in association with the Stock Broker industry, will host the “Invest Sri Lanka” Capital Market Investor Forum on March 27th and 28th 2025, at the Shangri-La Hotel in Colombo. The event is aimed at promoting investment in the Sri Lankan capital market among institutional investors and fund managers based both locally and internationally.
+
+...
+
+[Data](articles/d103e5c2.json)
+
+---
+
 ### British Council’s South Asia Deep Dialogues event in Colombo
 
 *2025-01-01 03:22:00* · [`islandlk`](http://island.lk/british-councils-south-asia-deep-dialogues-event-in-colombo/) · `en`
@@ -1781,6 +1795,20 @@ A core group of six countries, including Liechtenstein, Andorra, Mexico, Nepal, 
 ...
 
 [Data](articles/64256844.json)
+
+---
+
+### Premier PR expands services to social media marketing
+
+*2025-01-01 03:21:00* · [`islandlk`](http://island.lk/premier-pr-expands-services-to-social-media-marketing/) · `en`
+
+Premier PR, the premier public relations and marketing communications company, has expanded its services portfolio from public relations to social media marketing. Furthermore, Premier PR will also publish news releases of other corporates on its newly designed website.
+
+Celebrating its 17th anniversary in Public Relations, Premier PR will now support its clients to design and execute their social media marketing campaigns to the target groups via social media platforms such as Instagram, Fb, and LinkedIn. Premier PR’s clients range from multinationals and blue-chip companies to SME and family businesses in diverse industries such as IT & technology, education and HR, retail, manufacturing, pharmaceuticals, print, automotive after-market, leisure, mobile and telecommunications, healthcare, fashion, tea, and beverages.
+
+...
+
+[Data](articles/b5ba6796.json)
 
 ---
 
@@ -1823,37 +1851,5 @@ Appearing on Derana, the outspoken academic claimed that the investors and the p
 ...
 
 [Data](articles/746a2ef8.json)
-
----
-
-### எதிர்க்கட்சித் தலைவர் புத்தாண்டு வாழ்த்துச் செய்தி
-
-*2025-01-01 02:50:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவர்-புத்தாண்டு-வாழ்த்துச்-செய்தி/175-349597) · `ta`
-
-நமது நாட்டின் தற்போதைய சவால்களை சரியாக அடையாளம் கண்டு எதிர்காலத்தை வலுப்படுத்துவோம் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச புத்தாண்டு வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
-
-நமது தாய்நாடு தற்போது எதிர்கொள்ளும் சவால்களை சரியாக அடையாளம் கண்டு, அவற்றை வெற்றிகொள்ளத் தேவையான ஆற்றல், வலிமை மற்றும் தொலைநோக்குடன் செயல்பட புது வருடத்தில் நாம் அனைவரும் உறுதி பூண வேண்டும். இலங்கை தேசத்தை கட்டியெழுப்புவதற்கான திட்டத்தை நாம் மேலும் வலுப்படுத்த வேண்டும்.
-
-கடந்த காலத்தைப் போல குறுகிய இன, மத கருத்துக்களால் பிளவுபட்ட அரசியல் திட்டங்கள் மீண்டும் தலைதூக்காமல் இருப்பது மிக முக்கியம். அத்துடன் கடந்த நான்கு வருடங்களாக நாட்டு மக்கள் எதிர்கொண்ட நிச்சயமற்ற தன்மை, ஏமாற்றங்களை முடிவுக்கு கொண்டுவந்து, மக்கள் தாய்நாட்டில் தங்கியிருக்க ஏதுவான பொருளாதார, அரசியல், சமூக சூழலை உருவாக்குவதே எமது எதிர்பார்ப்பாகும்.
-
-...
-
-[Data](articles/180a7300.json)
-
----
-
-### எதிர்க்கட்சித் தலைவரின் புத்தாண்டு வாழ்த்து
-
-*2025-01-01 02:50:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சித்-தலைவரின்-புத்தாண்டு-வாழ்த்து/175-349597) · `ta`
-
-நமது நாட்டின் தற்போதைய சவால்களை சரியாக அடையாளம் கண்டு எதிர்காலத்தை வலுப்படுத்துவோம் என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச புத்தாண்டு வாழ்த்துச் செய்தியில் குறிப்பிட்டுள்ளார்.
-
-நமது தாய்நாடு தற்போது எதிர்கொள்ளும் சவால்களை சரியாக அடையாளம் கண்டு, அவற்றை வெற்றிகொள்ளத் தேவையான ஆற்றல், வலிமை மற்றும் தொலைநோக்குடன் செயல்பட புது வருடத்தில் நாம் அனைவரும் உறுதி பூண வேண்டும். இலங்கை தேசத்தை கட்டியெழுப்புவதற்கான திட்டத்தை நாம் மேலும் வலுப்படுத்த வேண்டும்.
-
-கடந்த காலத்தைப் போல குறுகிய இன, மத கருத்துக்களால் பிளவுபட்ட அரசியல் திட்டங்கள் மீண்டும் தலைதூக்காமல் இருப்பது மிக முக்கியம். அத்துடன் கடந்த நான்கு வருடங்களாக நாட்டு மக்கள் எதிர்கொண்ட நிச்சயமற்ற தன்மை, ஏமாற்றங்களை முடிவுக்கு கொண்டுவந்து, மக்கள் தாய்நாட்டில் தங்கியிருக்க ஏதுவான பொருளாதார, அரசியல், சமூக சூழலை உருவாக்குவதே எமது எதிர்பார்ப்பாகும்.
-
-...
-
-[Data](articles/e00b6f3c.json)
 
 ---

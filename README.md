@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 11:02:04**
+As of **2025-01-01 11:14:37**
 
 ## Newspaper Stats
 
-*Scraped **63,080** Articles*
+*Scraped **63,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,835
 dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,024
-adaderanalk | 7,710
+adaderanalk | 7,711
 tamilmirrorlk | 9,048
 virakesarilk | 10,492
 adaderanasinhalalk | 10,896
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,896
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,080 articles have been extended.
+61,970 (98.2%) of 63,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Colombo Stock Market achieves nearly 50% growth in 2024
+
+*2025-01-01 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104637/colombo-stock-market-achieves-nearly-50-growth-in-2024) · `en`
+
+The Colombo Stock Market has achieved a 49.66% growth in the year 2024.
+
+This includes the All Share Price Index rising from 10,654.16 to 15,944.61 points.
+
+Meanwhile, the market capitalization has reached its highest-ever value of Rs. 5.69 trillion this year.
+
+◼️
+
+[Data](articles/0c10dc87.json)
+
+---
 
 ### කොටස් වෙළෙඳපොළේ සුවිශේෂී වර්ධනයක්
 
@@ -1763,31 +1779,5 @@ The central bank was at one time injecting as much as 100 billion rupees through
 ...
 
 [Data](articles/9d5ec441.json)
-
----
-
-### Sri Lanka rupee closes weaker at 293.25/75 to dollar, bonds steady
-
-*2024-12-31 17:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-25-75-to-dollar-bonds-steady-197280/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.25/75 to the US dollar on Tuesday from 292.55/75 on Monday, dealers said, while bond yields were broadly steady.
-
-The rupee has appreciated from 322.20/40 on January 1, 2024.
-
-A bond maturing on 15.12.2026 closed stable at 9.40/55 percent.
-
-A bond maturing on 15.12.2027 closed at 9.75/90 percent, up from 9.70/90 percent.
-
-A bond maturing on 15.02.2028 closed stable at 10.05/15 percent.
-
-A bond maturing on 15.09.2029 closed at 10.60/70 percent, down from 10.65/75 percent.
-
-A bond maturing on 15.05.2030 closed at 10.95/11.05 percent, from 10.95/11.10 percent.
-
-Bond yields are down from the beginning of the year, when a bond maturing on 01.02.2026, was quoted at 13.80/90 percent, and a bond maturing on 01.07.2028 was quoted at 14.15/25 percent.
-
-◼️
-
-[Data](articles/2d6304b1.json)
 
 ---

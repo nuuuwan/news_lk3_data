@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 03:27:44**
+As of **2025-01-02 03:43:25**
 
 ## Newspaper Stats
 
-*Scraped **63,191** Articles*
+*Scraped **63,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,389
+dailyftlk | 4,395
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
-tamilmirrorlk | 9,061
+tamilmirrorlk | 9,062
 virakesarilk | 10,511
 adaderanasinhalalk | 10,915
 
@@ -26,11 +26,125 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,191 articles have been extended.
+61,971 (98.1%) of 63,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### New Thai envoy calls for greater diversification of Sri Lanka’s export industry to benefit from FTA
+
+*2025-01-02 03:18:31* · [`dailyftlk`](https://www.ft.lk/business/New-Thai-envoy-calls-for-greater-diversification-of-Sri-Lanka-s-export-industry-to-benefit-from-FTA/34-771298) · `en`
+
+Seated (from left): Secretary Priyantha Kolonnage, Counsellor Prangtip Kongridhisuksakorn, Immediate Past President Lalith Kumarage,Founder and Past President Lional Fernando, President Dushyantha Basnayake, Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, Founder and Past President Risan Nazeer, Vice President Kamil Weerasekara, Vice President A.M. Musajee
+
+Standing (from left): Committee Member Abdul Saliheen, Assistant Secretary Asitha Panabokke, Committee Member Deepal Abeysekara, Treasurer Asim Mukthar, Committee Member Rohan Elgiriyawithana, Committee Member Dishan Shaminda, and Assistant Treasurer Yashodha Peiris
+
+New Ambassador of Thailand Paitoon Mahapannaporn recently called for greater diversification of Sri Lanka’s export industry to benefit from the Free Trade Agreement between two countries.
+
+...
+
+[Data](articles/6fc76d32.json)
+
+---
+
+### Abbotsleigh Tea Estate produces and sells highest quantity
+
+*2025-01-02 03:16:26* · [`dailyftlk`](https://www.ft.lk/business/Abbotsleigh-Tea-Estate-produces-and-sells-highest-quantity/34-771297) · `en`
+
+Abbotsleigh Tea Estate has produced and sold the highest quantity of 2,029,990 kilograms for the year 2024.
+
+This is the highest quantity sold by a factory which is operating in the High/Medium category.
+
+Abbotsleigh Estate is situated in the Central Province and the overall factory operations are spearheaded by Deputy General Manager Suranga Dela.
+
+Abbotsleigh Estate is the prime property of Hatton Plantations PLC led by Managing Director Menaka Athukorala.
+
+This estate sells its production of prime CTC high grown teas, under the selling mark of “Florence” which is well known and established among local and international consumers.
+
+◼️
+
+[Data](articles/6468434f.json)
+
+---
+
+### போதையில் வாகனம் செலுத்திய 529 சாரதிகள் கைது
+
+*2025-01-02 03:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-வாகனம்-செலுத்திய-529-சாரதிகள்-கைது/175-349640) · `ta`
+
+கடந்த 24 மணித்தியாலத்திற்குள் மேற்கொள்ளப்பட்ட விசேட போக்குவரத்து நடவடிக்கையில் மதுபோதையில் வாகனம் செலுத்திய 529 சாரதிகள் கைது செய்யப்பட்டுள்ளனர் எனப் பொலிஸார் தெரிவித்துள்ளனர்.
+
+விசேட போக்குவரத்து நடவடிக்கை ஆரம்பிக்கப்பட்டு 24 மணித்தியாலங்களில் மேற்கொள்ளப்பட்ட அதிகூடிய எண்ணிக்கையான கைதுகள் இவையென பொலிஸார் தெரிவித்தனர்.
+
+போக்குவரத்து விதிமீறல்கள் தொடர்பில் சட்டத்தை அமுல்படுத்தி தற்போது வரை 7,264 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/f014f5ea.json)
+
+---
+
+### Taj Lanka Hotels announces two additions to Board of Directors
+
+*2025-01-02 03:13:29* · [`dailyftlk`](https://www.ft.lk/business/Taj-Lanka-Hotels-announces-two-additions-to-Board-of-Directors/34-771296) · `en`
+
+Taj Lanka Hotels PLC has announced the appointment of Chandrasekaran Subramanian and Niloo Jayatilake as the Non -Executive Independent Directors.
+
+Chandrasekaran Subramanian is a qualified Chartered Accountant (CA) and holds an intermediate certification in Company Secretarial (CS), bringing over 40 years of diverse experience in organisational development, resulting in tangible outcomes. He possesses a unique combination of technical accounting expertise, operations management, and leadership skills, bolstered by advanced finance studies. Known as an entrepreneurial change agent, Chandrasekaran Subramanian is recognised for his balanced judgment, stability, and ability to build consensus across various business disciplines with differing agendas and visions.
+
+...
+
+[Data](articles/69ab5a4c.json)
+
+---
+
+### Singer opens first-ever Samsung  AI-powered smart store in Sri Lanka
+
+*2025-01-02 03:11:44* · [`dailyftlk`](https://www.ft.lk/business/Singer-opens-first-ever-Samsung-AI-powered-smart-store-in-Sri-Lanka/34-771295) · `en`
+
+In a ground-breaking move to revolutionise the technological landscape of Sri Lanka, Singer Sri Lanka has unveiled the country’s first AI-powered smart electronics in partnership with Samsung. This Samsung SmartThings store by Singer, located on Level 3 of the One Galle Face Mall, is set to redefine how Sri Lankans experience AI-powered technology and smart living solutions.
+
+The opening, held on 17 December 2024, marks a significant milestone in the longstanding partnership between Singer Sri Lanka and Samsung. The event was graced by Hayleys PLC Chairman Mohan Pandithage, Samsung Sri Lanka Managing Director SangHwa Song, CE Biz, Samsung Sri Lanka Director and Head Sabry Ansar, MX Biz, Samsung Sri Lanka Deputy General Manager and Head Thushara Rathnaweera, and Singer Group CEO Mahesh Wijewardene. Their presence underscored the shared commitment of both companies toward innovation and excellence.
+
+...
+
+[Data](articles/b4c10a28.json)
+
+---
+
+### DIMO wins two prestigious awards at the 2025 Weichai Lovol Global Partners Conference
+
+*2025-01-02 03:10:06* · [`dailyftlk`](https://www.ft.lk/business/DIMO-wins-two-prestigious-awards-at-the-2025-Weichai-Lovol-Global-Partners-Conference/34-771294) · `en`
+
+As the authorised distributor for Lovol Harvesters in Sri Lanka, DIMO received two prestigious accolades at the 2025 Weichai Lovol Global Partners Conference, held recently at the Lovol Centre in China.
+
+DIMO was honoured with the Loyal Partner Award, recognising its enduring partnership and commitment to fostering mutual growth with Lovol. Additionally, the company was presented with the Outstanding Marketing Activity Planning Award for its innovative and impactful marketing strategies that have significantly elevated the Lovol brand in the region.
+
+Agri Machinery Sales Division Deputy General Manager Amila De Silva, and Agri Machinery Assistant Marketing Manager Malith Rodrigo represented DIMO at this landmark event, which welcomed over 400 participants from more than 70 countries.
+
+These accolades underscore DIMO’s contribution to advancing agriculture in Sri Lanka.
+
+◼️
+
+[Data](articles/2f384f72.json)
+
+---
+
+### New CEO at Durdans Healthcare Group
+
+*2025-01-02 03:08:33* · [`dailyftlk`](https://www.ft.lk/business/New-CEO-at-Durdans-Healthcare-Group/34-771293) · `en`
+
+Ceylon Hospitals PLC – Durdans Healthcare Group yesterday announced a leadership transition effective 1 January 2025.
+
+Dr. Lasantha Karunasena will assume the role of Chief Executive Officer (CEO) and Director of Medical Services (DMS).
+
+“This strategic redefinition of our senior management structure marks a significant step forward in our operational management, positioning the Healthcare Group for enhanced performance and improved healthcare delivery,” the Company said in a statement.
+
+◼️
+
+[Data](articles/07021f52.json)
+
+---
 
 ### FSP blames negligence, conspiracy for rejected Govt. rice import tenders
 
@@ -1693,141 +1807,5 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 ◼️
 
 [Data](articles/7fdc27ff.json)
-
----
-
-### வெளிநாட்டு வேலைவாய்ப்பு;அதிகளவான வெளியேற்றம் பதிவு
-
-*2025-01-01 11:18:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-வேலைவாய்ப்பு-அதிகளவான-வெளியேற்றம்-பதிவு/175-349604) · `ta`
-
-இலங்கையின் வரலாற்றில் 2024ஆம் ஆண்டில் அதிகளவான வெளிநாட்டு வேலை வாய்ப்புக்காகப் புறப்பட்டவர்கள் பதிவாகியுள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் (SLBFE) தெரிவித்துள்ளது.
-
-இதற்கு முன்னர் 2022 இல் அதிக எண்ணிக்கையிலான வெளிநாட்டு வேலைவாய்ப்புப் புறப்பாடுகள் பதிவாகியிருந்ததாகவும், கடந்த 2019 முதல் 2024 வரையான ஆறு வருடங்களில் மொத்தம் 1.3 மில்லியன் பேர் வெளிநாட்டு வேலைகளுக்காக வெளியேறியுள்ளதாக SLBFE தெரிவித்துள்ளது.
-
-2024 ஆம் ஆண்டில், மொத்தம் 185,162 ஆண்களும் 127,674 பெண்களும் வெளிநாட்டு வேலைகளுக்காக வெளியேறியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-அதிக எண்ணிக்கையிலான இலங்கைத் தொழிலாளர்கள் குவைத்துக்கு (77,546) சென்றுள்ளதுடன், 51,550 பேர் ஐக்கிய அரபு இராச்சியத்திற்கு (UAE) சென்றுள்ளனர்.
-
-கடந்த ஆண்டுகளுடன் ஒப்பிடுகையில், தென் கொரியா (7098), இஸ்ரேல் (9665), ஜப்பான் (8665) ஆகிய நாடுகளுக்கு அதிக எண்ணிக்கையிலான இலங்கையர்கள் தொழில் நிமித்தம் வெளியேறியுள்ளனர்.
-
-...
-
-[Data](articles/6c0ef381.json)
-
----
-
-### නාමල් කුමාර අත්අඩංගුවට ගත්තේ ඇයි?
-
-*2025-01-01 10:56:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c745g8l20jeo) · `si`
-
-නාමල් කුමාර නමැත්තා කොළඹ අපරාධ කොට්ඨාසය විසින් අද (ජනවාරි 01) අත්අඩංගුවට ගනු ලැබූ බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග බීබීසී සිංහල සේවයට පැවසීය.
-
-ප්‍රකාශයක් ලබාදීම සඳහා කොළඹ අපරාධ කොට්ඨාසය වෙත වාර්තා කිරීමෙන් අනතුරුව ඔහු අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසුවේ ය.
-
-කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් සම්බන්ධයෙන් නාමල් කුමාර නමැත්තා කළ ප්‍රකාශයක් සම්බන්ධව සිදුකරන විමර්ශනයකට අදාළව මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති බව ද පොලිසිය පැවසීය.
-
-කාදිනල් හිමිපාණන් සම්බන්ධයෙන් හුවමාරු වන දුරකතන හඬ පටයක් සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන ලෙස කොළඹ අගරදගුරු පදවිය මීට පෙර පොලිසියෙන් ඉල්ලීමක් කර තිබිණි.
-
-ජනපති අනුරගේ ප්‍රධානත්වයෙන් ඇරඹුණු Clean Sri Lanka වැඩසටහන ගැන ඔබ දැනුවත් ද?
-
-ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
-
-◼️
-
-[Data](articles/9508d450.json)
-
----
-
-### Sri Lanka conflict sees 484 elephants, 148 humans killed in year
-
-*2025-01-01 10:45:00* · [`economynextcom`](https://economynext.com/484-elephants-148-humans-killed-in-sri-lanka-conflict-in-2023-197398/) · `en`
-
-ECONOMYNEXT – A human elephant conflict has left 182 humans and 484 pachyderms killed in 2023, President Anura Dissanayake said launching an initiative called Clean Sri Lanka.
-
-He said that a main focus of the Clean Sri Lanka initiative is to restore the country’s environment.
-
-Sri Lanka has around 7,000 elephants based on the last count, but some estimate that the actual population maybe higher.
-
-Increasing numbers of elephants are raiding farms and houses, and farmers have retaliated with electric fences and gun traps.
-
-Dissanayake pointed out that 595 people died from drowning last year. (Colombo/Jan1/2024)
-
-◼️
-
-[Data](articles/e34fd952.json)
-
----
-
-### Sri Lanka conflict sees 484 elephants, 148 humans killed in year
-
-*2025-01-01 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-conflict-sees-484-elephants-148-humans-killed-in-year-197398/) · `en`
-
-ECONOMYNEXT – A human elephant conflict has left 182 humans and 484 pachyderms killed in 2023, President Anura Dissanayake said launching an initiative called Clean Sri Lanka.
-
-He said that a main focus of the Clean Sri Lanka initiative is to restore the country’s environment.
-
-Sri Lanka has around 7,000 elephants based on the last count, but some estimate that the actual population maybe higher.
-
-Increasing numbers of elephants are raiding farms and houses, and farmers have retaliated with electric fences and gun traps.
-
-Dissanayake pointed out that 595 people died from drowning last year. (Colombo/Jan1/2024)
-
-◼️
-
-[Data](articles/fd3a5400.json)
-
----
-
-### Colombo Stock Market achieves nearly 50% growth in 2024
-
-*2025-01-01 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104637/colombo-stock-market-achieves-nearly-50-growth-in-2024) · `en`
-
-The Colombo Stock Market has achieved a 49.66% growth in the year 2024.
-
-This includes the All Share Price Index rising from 10,654.16 to 15,944.61 points.
-
-Meanwhile, the market capitalization has reached its highest-ever value of Rs. 5.69 trillion this year.
-
-◼️
-
-[Data](articles/0c10dc87.json)
-
----
-
-### කොටස් වෙළෙඳපොළේ සුවිශේෂී වර්ධනයක්
-
-*2025-01-01 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204925) · `si`
-
-කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය 2024 වසරේ දී 49.66%ක සුවිශේෂී වර්ධනයක් අත්පත් කරගැනීමට සමත් වී තිබේ.
-
-2024 වසර ආරම්භයේ දී ඒකක 10,654.16ක් ලෙසින් සටහන්ව තිබූ සියලු කොටස් මිල දර්ශක අගය වසර අවසානය වන විට ඒකක 15,944.61ක් දක්වා ඒ අනුව ඉහළ ගොස් ඇත.
-
-මේ අතර S&P SL20 දර්ශකයට අනුව 2024 වසරේ දී කොළඹ කොටස් වෙළෙඳපොළේ වර්ධනය 58.46%කි.
-
-සියලු කොටස් මිල දර්ශකයේ සහ S&P SL20 දර්ශකයේ මෙම අගයයන් මෙතෙක් ඉතිහාසයේ වාර්තා වී ඇති ඉහළම අගයන් වීම විශේෂත්වයකි.
-
-මේ අතර ඉතිහාසයේ පළමු වරට මේ වන විට කොළඹ කොටස් වෙළෙඳපොළ, වෙළෙඳපොළ ප්‍රාග්ධනීකරණ වටිනාකම රු. ට්‍රිලියන 5.69ක් දක්වා ඉහළ ගොස් ඇත.
-
-◼️
-
-[Data](articles/da42c33a.json)
-
----
-
-### அனலைதீவு மக்களின் அடிப்படை பிரச்சினைகளை தீர்த்து வையுங்கள்  - தேசிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர்களிடம் கோரிக்கை
-
-*2025-01-01 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202679) · `ta`
-
-அனலைதீவு மக்களின் அடிப்படை பிரச்சினைகளை தீர்த்துதாருங்கள் என்று  அனலைதீவு மக்கள் தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்களிடம் கோரிக்கை முன்வைத்துள்ளார்கள்.
-
-தேசிய மக்கள் சக்தியின் யாழ் கிளிநொச்சி மாவட்ட  பாராளுமன்ற உறுப்பினர்களான  வைத்தியர் சிறீபவானந்தராஜா மற்றும் ஜெயச்சந்திரமூர்த்தி றஜீவன் ஆகியோர்  தீவக பகுதி மக்களை சந்தித்து அவர்களுடைய தேவைகள், மக்கள் பிரச்சினைகள்  ஆராய்ந்து வருகிறார்கள்.
-
-அந்த வகையில் அனலைதீவிற்கு விஜயம் மேற்கொண்டிருந்த போது, அங்கு கூடியிருந்த மக்கள் தமது தேவைகள் குறித்து தெரிவித்தார்கள். குறிப்பாக, வீதிகள் புனரமைப்பு  செய்யப்பட வேண்டும் என்ற தமது நீண்ட கால கோரிக்கையை அவா்கள் மீண்டும் முன்வைத்தார்கள். இந்த விடயத்தில் அரசாங்கம் சாதகமாகச் செயற்படவில்லை என்பதையும் அவா்கள் சுட்டிக் காட்டினார்கள்.
-
-அவரச நோயாளர்களை ஊர்காவற்றுறைக்கு கொண்டு செல்வதற்கு ஏற்ப அம்புலன்ஸ் படகு ஒன்றும் அனலைதீவுக்குத் தேவையுள்ளது. இதனையும் பெற்றுத்தர நடவடிக்கை எடுக்க வேண்டும் என்றும் மக்கள் தெரிவித்தார்கள்.
-
-...
-
-[Data](articles/ac51af9b.json)
 
 ---

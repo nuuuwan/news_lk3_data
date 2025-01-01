@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 16:43:22**
+As of **2025-01-01 17:00:15**
 
 ## Newspaper Stats
 
-*Scraped **63,114** Articles*
+*Scraped **63,115** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 465
 colombotelegraphcom | 637
-bbccomsinhala | 663
+bbccomsinhala | 664
 islandlk | 3,835
 economynextcom | 3,844
 dailyftlk | 4,379
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.2%) of 63,114 articles have been extended.
+61,971 (98.2%) of 63,115 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -482,7 +482,33 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 
 ---
 
-### 484 elephants, 148 humans killed in Sri Lanka conflict in 2023
+### නාමල් කුමාර අත්අඩංගුවට ගත්තේ ඇයි?
+
+*2025-01-01 10:56:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c745g8l20jeo) · `si`
+
+නාමල් කුමාර නමැත්තා කොළඹ අපරාධ කොට්ඨාසය විසින් අද (ජනවාරි 01) අත්අඩංගුවට ගනු ලැබූ බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග බීබීසී සිංහල සේවයට පැවසීය.
+
+ප්‍රකාශයක් ලබාදීම සඳහා කොළඹ අපරාධ කොට්ඨාසය වෙත වාර්තා කිරීමෙන් අනතුරුව ඔහු අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසුවේ ය.
+
+කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන් සම්බන්ධයෙන් නාමල් කුමාර නමැත්තා කළ ප්‍රකාශයක් සම්බන්ධව සිදුකරන විමර්ශනයකට අදාළව මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති බව ද පොලිසිය පැවසීය.
+
+කාදිනල් හිමිපාණන් සම්බන්ධයෙන් හුවමාරු වන දුරකතන හඬ පටයක් සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන ලෙස කොළඹ අගරදගුරු පදවිය මීට පෙර පොලිසියෙන් ඉල්ලීමක් කර තිබිණි.
+
+ජනපති අනුරගේ ප්‍රධානත්වයෙන් ඇරඹුණු Clean Sri Lanka වැඩසටහන ගැන ඔබ දැනුවත් ද?
+
+ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
+
+ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
+
+නව වසරට උපදෙස්: ව්‍යායාම ඇරඹීමට ඔබ ජනවාරි වන තෙක් ම බලා ඉන්නේ ඇයි?
+
+◼️
+
+[Data](articles/9508d450.json)
+
+---
+
+### Sri Lanka conflict sees 484 elephants, 148 humans killed in year
 
 *2025-01-01 10:45:00* · [`economynextcom`](https://economynext.com/484-elephants-148-humans-killed-in-sri-lanka-conflict-in-2023-197398/) · `en`
 
@@ -1771,21 +1797,5 @@ UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have 
 ◼️
 
 [Data](articles/29931ad7.json)
-
----
-
-### ඉන්ධන මිල සංශෝධනය ගැන දැනුම්දෙයි - භූමිතෙල් මිල අඩු කෙරේ
-
-*2024-12-31 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204914) · `si`
-
-අද (31) මධ්‍යම රාත්‍රි 12 සිට බලපැවැත්වෙන පරිදි ක්‍රියාත්මක ඉන්ධන මිල ගණන් සම්බන්ධයෙන් ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනයක් නිකුත් කර තිබේ.
-
-භූමිතෙල් මිල රුපියල් 5කින් පහත දමා ඇති අතර එහි නව මිල රුපියල් 183ක් වේ.
-
-මේ අතර ලංකා IOC සහ සයිනොපෙක් සමාගම් ද දැනුම් දී ඇත්තේ සිපෙට්කෝ ඉන්ධන මිල සංශෝධනය අනුව කටයුතු කරන බවය.
-
-◼️
-
-[Data](articles/9b492945.json)
 
 ---

@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 01:43:46**
+As of **2025-01-02 02:02:24**
 
 ## Newspaper Stats
 
-*Scraped **63,180** Articles*
+*Scraped **63,182** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 465
+dbsjeyarajcom | 466
 colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,381
+dailyftlk | 4,382
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,180 articles have been extended.
+61,971 (98.1%) of 63,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### STI: Tri forces for 2025
+
+*2025-01-02 01:35:16* · [`dailyftlk`](https://www.ft.lk/columns/STI-Tri-forces-for-2025/4-771269) · `en`
+
+Let’s in 2025 start scientific decision making, technological interventions and innovative executions
+
+Sri Lanka has to understand we have only temporarily postponed another 2021. 2021 happening again in 2029 is possible if we continue all our businesses as usual during the respite gained. In the world of STI this is the year we expect a singularity event of computing abilities to surpass brain function to take place. If in the breathing space secured a BAU approach is taken all would be lost in a while and the next generation would not be kind to us. Overall as we are all living on a planet with an existential issue lots more are at stake if we live without a higher-order purpose
+
+...
+
+[Data](articles/fad3c820.json)
+
+---
 
 ### NPP’s great U-turn, India-China implications, emergent new left, SJB’s self-sabotage
 
@@ -1586,6 +1600,8 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 
 ජනපති අනුරගේ ප්‍රධානත්වයෙන් ඇරඹුණු Clean Sri Lanka වැඩසටහන ගැන ඔබ දැනුවත් ද?
 
+ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
+
 ◼️
 
 [Data](articles/9508d450.json)
@@ -1831,19 +1847,5 @@ The launch of the ‘Clean Sri Lanka’ national initiative commenced under the 
 ...
 
 [Data](articles/ac55841d.json)
-
----
-
-### ක්ලීන් ශ්‍රී ලංකා ජාතික වැඩසටහනේ සමාරම්භය
-
-*2025-01-01 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204923) · `si`
-
-'ක්ලීන් ශ්‍රී ලංකා' ජාතික වැඩසටහන ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ආරම්භ විය.
-
-ජනාධිපති ලේකම් කාර්යාලයේ පැවැත්වෙන එහි සමාරම්භක වැඩසටහනේ සජීවි දර්ශන ඉහතින්,
-
-◼️
-
-[Data](articles/582c739a.json)
 
 ---

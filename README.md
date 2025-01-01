@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 17:00:15**
+As of **2025-01-01 17:12:48**
 
 ## Newspaper Stats
 
-*Scraped **63,115** Articles*
+*Scraped **63,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,137 @@ islandlk | 3,835
 economynextcom | 3,844
 dailyftlk | 4,379
 dailymirrorlk | 4,733
-adalk | 6,032
+adalk | 6,033
 adaderanalk | 7,713
 tamilmirrorlk | 9,057
-virakesarilk | 10,493
-adaderanasinhalalk | 10,900
+virakesarilk | 10,499
+adaderanasinhalalk | 10,905
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.2%) of 63,115 articles have been extended.
+61,971 (98.2%) of 63,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### OrphanCare காப்பாளர்களில் ஒருவராக கஸ்தூரி செல்லராஜா வில்சன்
+
+*2025-01-01 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202722) · `ta`
+
+புகழ்பெற்ற வர்த்தக பிரமுகரான கஸ்தூரி செல்லராஜா வில்சன், OrphanCare இன் காப்பாளர் சபை அங்கத்தவர்களில் ஒருவராக அண்மையில் இணைந்தார். அநாதரவான சிறுவர்கள் சிறுவர் பாதுகாப்பு இல்லங்களிலிருந்து வயது வந்த பருவத்தை எய்தும் நிலையில், தமது வாழ்வில் இரண்டாவது கைவிடப்படலை தவிர்த்துக் கொள்வதற்கு உதவும் வகையில் முன்னெடுக்கப்படும் திட்டமாக OrphanCare அமைந்துள்ளது.
+
+சிறுவர்களுக்கான உரிமைகள் தொடர்பான ஐக்கிய நாடுகள் மாநாட்டின் 2ஆம் ஆக்கத்தை பின்பற்றி செயலாற்றும் OrphanCare இனால் சகல சிறுவர்களும் தமது இனம், மதம், நிறம் அல்லது தேசியம் ஆகிய பாகுபாடின்றி இந்தத் திட்டத்தில் இணைந்து கொள்ளும் வசதி வழங்கப்படுகின்றது.
+
+ஐக்கிய அமெரிக்கா மற்றும் சிங்கப்பூர் ஆகிய நாடுகளின் முன்னணி சக்தியூட்டும் பான வகையான 5-hour International Corporation இன் பிரதம செயற்பாட்டு அதிகாரியாக கஸ்தூரி தற்போது செயலாற்றுகின்றார்.
+
+இலங்கையின் பொதுப் பட்டியலிடப்பட்ட பன்முகப்படுத்தப்பட்ட நிறுவனமொன்றில் நியமிக்கப்பட்ட முதலாவது பெண் குழும பிரதம நிறைவேற்று அதிகாரி எனும் கீர்த்தி நாமத்தை கஸ்தூரி பெற்றுள்ளார்.
+
+...
+
+[Data](articles/bb53a726.json)
+
+---
+
+### රථ වාහන පැමිණිලි ක්ෂණිකව දැනුම්දෙන්න පොලීසියෙන් e-Traffic
+
+*2025-01-01 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204935) · `si`
+
+'ක්ලීන් ශ්‍රී ලංකා' වැඩ සටහනට සමගාමීව ශ්‍රී ලංකා පොලීසිය විසින් e-Traffic ජංගම දුරකථන යෙදුම හඳුන්වා දී තිබේ.
+
+එම ජංගම දුරකථන යෙදවුම අද (01) පොලිස් මූලස්ථානයේදී වැඩබලන පොලිස්පති නීතීඥ ප්‍රියන්ත වීරසූරිය මහතා විසින් හඳුන්වා දීමට පියවර ගෙන තිබුණි.
+
+මෙම ජංගම දුරකථන යෙදවුම හරහා මාර්ග ආශ්‍රිතව සිදුවන රථ වාහන වැරදි හා මාර්ග නීති උල්ලංඝණය කිරීම් සම්බන්ධව මහජනතාවට ක්ෂණිකව පැමිණිලි කිරීම හැකිය.
+
+ශ්‍රී ලංකා පොලිසියේ නිල වෙබ් අඩවිය වන www.police.lk ඔස්සේ E-services වෙත පිවිස e-Traffic ජංගම දුරකථන යෙදවුම ඔබගේ ජංගම දුරකථනය වෙත පහසුවෙන් බාගත කර ගැනීමට හැකියාව ඇති බව පොලීසිය පවසයි.
+
+ඒ මඟින් ඔබගේ පැමිණිලි ක්ෂණිකව පොලිස් මූලස්ථානය වෙත යොමු කළ හැකි බවද පොලීසිය සඳහන් කළේය.
+
+දිවයිනේ සියලුම පොලිස් කොට්ඨාස ආවරණය වන පරිදි පොලිස් ස්ථාන 607ක රථවාහන නිලධාරීන් රාජකාරි යෙදී සිටින අතර දෛනිකව සිදුවන රිය අනතුරු අවම කර ගැනීමට මහජනයාගේ සහාය ලබා ගැනීම මෙම e-Traffic ජංගම දුරකථන යෙදවුම හඳුන්වා දීම මඟින් අපේක්ෂා කෙරේ.
+
+...
+
+[Data](articles/c5dfa15e.json)
+
+---
+
+### පැය 24ක් තුළදී වාර්තා වූ වැඩිම බීමත් රියදුරන් සංඛ්‍යාව
+
+*2025-01-01 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204934) · `si`
+
+අද (01) දින පෙරවරු 06න් අවසන් වූ පැය 24ක කාලය තුළ සිදුකළ විශේෂ රථවාහන මෙහෙයුමේදී අත්අඩංගුවට ගන්නා ලද බීමත් රියදුරන් සංඛ්‍යාව 529ක් බව පොලීසිය පවසයි.
+
+එය, විශේෂ රථවාහන මෙහෙයුම ආරම්භ කිරීමෙන් පසු පැය 24ක් තුළ අත්අඩංගුවට ගත් වැඩිම සංඛ්‍යාව බව ද පොලීසිය පවසයි.
+
+නීතිය ක්‍රියාත්මක කළ සමස්ත රියදුරන් සංඛ්‍යාව 7,264 ක් බව පොලිස් මාධ්‍ය අංශය පවසයි.
+
+එහිදී, බීමත් රියදුරන් 529ක්, අපරීක්ෂාකාරී හා අන්තරාදායක ලෙස රිය පැදවූ රියදුරන් 57ක්, අධික වේගයෙන් රිය පැදවූ රියදුරන් 54ක්, මාර්ග නීති උල්ලංඝණය කළ රියදුරන් 1,057 ක්, බලපත්‍ර වැරදි සම්බන්ධ රියදුරන් 614ක් සහ වෙනත් රථවාහන වැරදි සම්බන්ධයෙන් රියදුරන් 4,953 ක් වශයෙන් නීතිය ක්‍රියාත්මක කර තිබේ.
+
+මෙම විශේෂ රථවාහන මෙහෙයුම උත්සව සමයේ රථවාහන අනතුරු අවම කරගැනීමේ අරමුණින් වැඩබලන පොලිස්පතිගේ උපදෙස් පරිදි පසුගිය මස 23 වනදා සිට දිවයිනම ආවරණය වන පරිදි ආරම්භ කෙරුණි.
+
+...
+
+[Data](articles/028c115a.json)
+
+---
+
+### தொல்லியல் திணைக்களத்தினால் காணிகள் கையகப்படுத்தும் நடவடிக்கைக்கு மக்கள் எதிர்ப்பு
+
+*2025-01-01 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202713) · `ta`
+
+தொல்லியல் திணைக்களத்தினால் காணிகள் கையகப்படுத்தும் நடவடிக்கைக்கு எதிர்ப்பு தெரிவித்து குச்சவெளி பிரதேச செயலகத்திற்கு முன்பாக இன்று புதன்கிழமை (01) காலை மக்கள் எதிர்ப்பில் ஈடுபட்டனர்.
+
+திருகோணமலை குச்சவெளி பிரதேசத்தில் தொல்லியல் சின்னங்கள் இல்லாத தனியாருக்கு சொந்தமான காணிகளையும், பிரதேச சபைக்கு சொந்தமான காணிகளையும் தொல்லியல் திணைக்களம் கையகப்படுத்தும் நடவடிக்கைக்கு எதிர்ப்பு தெரிவித்தே அப்பகுதி மக்கள் இன்று  எதிர்ப்பு நடவடிக்கையில் ஈடுபட்டனர்.
+
+இதன்போது “புதைபொருள் திணைக்களமே குச்சவெளி சந்தைக்கட்டட காணியை புதைக்காதே”, “தொல்பொருள் திணைக்களமே குச்சவெளி நெற்களஞ்சிய கட்டடத்திற்கு தொல்லை தராதே”இ “தொல்பொருள் அதிகாரிகளே சிங்கள, தமிழ், முஸ்லீம் மக்களிடையே வேற்றுமையை உண்டாக்காதே”, போன்ற வாசகங்கள் அடங்கிய பதாதைகளை ஏந்தியும், கோசங்களையும் எழுப்பியும் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தார்கள். குறித்த ஆர்ப்பாட்டத்தில் குச்சவெளி கிராம சங்கங்கள், பொதுமக்கள் மற்றும் அயல் கிராமங்களைச் சேர்ந்த மக்களும் கலந்து கொண்டிருந்தார்கள்.
+
+...
+
+[Data](articles/6f1c500c.json)
+
+---
+
+### உற்பத்திப் பொருளாதாரத்தை அதிகரிக்க அர்ப்பணிப்புடன் செயற்படுவோம் : விஜித்த ஹேரத்
+
+*2025-01-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202699) · `ta`
+
+பொருளாதார ரீதியில் வீழ்ச்சியடைந்திருக்கும் நாட்டை கட்டியெழுப்ப பிறந்திருக்கும் புதுவருடத்தில் அனைவரும் உறுதியுடன் செயற்படுவோம். அதற்காக உற்பத்தி பொருளாதாரத்தை அதிகரிப்பதற்கு அர்ப்பணிப்புடன் செயற்படுவோம் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
+
+எமது நாடு பொருளாதார ரீதியில் கஷ்ட நிலைமையில் இருக்கிறது. வரலாற்று ரீதியில் எமது கொள்கையில் இருந்து வந்த குறைபாடுகள் காரணமாக இந்த நிலை ஏற்பட்டுள்ளது. அதனால்  வீழ்ந்த இடத்தில் இருந்து நாட்டை கட்டியெழுப்ப நாங்கள் உறுதி பூணவேண்டும். நாட்டை கட்டியெழுப்பும் கனவு எம்மனைவரிடமும் இருக்கவேண்டும்.
+
+நாட்டை பொருளாதார ரீதியில் பலப்படுத்துவதாக இருந்தால் அதற்கான ஸ்திரமான முறைதான் உற்பத்தியை அடிப்படையாகக்கொண்ட பொருளாதாரத்தை நாட்டுக்குள் ஏற்படுத்துவதாகும்.
+
+நாங்கள் இன, மத, அரசியல் ரீதியில் வேறுபட்டு இருந்தாலும் நாட்டை கட்டியெழுப்பும் பணியில் ஒரு குடும்பமாக செயற்பட்ட வேண்டும். ஒரு குடும்பமாக செயற்படும் போது குடும்பத்தின் அபிவிருத்திக்காக ஒரு சில தீர்மானங்களை எடுக்க வேண்டி ஏற்படுகிறது என்றார்.
+
+...
+
+[Data](articles/9a3cf00d.json)
+
+---
+
+### තලාවේ මව සහ දැරිය මියයෑමේ සිද්ධිය ගැන පොලිස් විමර්ශන
+
+*2025-01-01 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204933) · `si`
+
+මවක් විසින් කුඩා දැරියක් ඝාතනය කර ඇය ද සියදිවි නසාගැනීමේ පුවතක් තලාව පොලිස් වසමේ බිදුන්කඩ ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+පොලීසිය පැවසුවේ සැකකාර මව විසින් තම කුඩා දැරියට පෙට්‍රල් දමා ගිනි තබා ඝාතනය කර ඇයද සිරුරට පෙට්‍රල් දමාගෙන ගිනි තබා ගෙන සිය දිවි නසා ගෙන තිබේ.
+
+එලෙස මියගොස් ඇත්තේ වයස අවුරුදු 39ක් වන මව සහ අවුරුදු 02යි මාස 09ක් වූ දැරියකි.
+
+අදාළ සිද්ධිය සමබන්ධයෙන් ඊයේ (31) තලාව පොලීසියට ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර තිබුණි.
+
+මරණකාරිය බිදුන්කඩ ප්‍රදේශයේ කාන්තා සමිතියක භාණ්ඩාගාරික වශයෙන් කටයුතු කර ඇති බවත්, එහිදී ඇති වූ මුදල් ගැටලුවක් මත සිත් තැවුලෙන් දැරිය ඝාතනය කර ඇය ද සියදිවි නසාගෙන ඇති බවට සැකකරන බව ඇයගේ ස්වාමිපුරුෂයා විසින් පොලීසියට කරන ලද පැමිණිල්ලේ වැඩිදුරටත් සඳහන් කර ඇත.
+
+මෘත ශරීර අනුරාධපුර රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර, තලාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/a61a7a20.json)
+
+---
 
 ### Namal Kumara arrested
 
@@ -100,6 +216,24 @@ The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 
 ---
 
+### නාමල් කුමාර අත්අඩංගුවට
+
+*2025-01-01 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204932) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසය විසින් අද (01) දහවල් සමාජ ක්‍රියාකාරියෙකු වන නාමල් කුමාර ව අත්අඩංගුවට ගෙන තිබේ.
+
+කොළඹ අපරාධ කොට්ඨාසය වෙත ප්‍රකාශයක් ලබාදීමට පැමිණි අවස්ථාවේදී ඔහුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+කාදිනල් හිමිගේ ප්‍රතිරූපයට හානි වන අන්දමේ හඬපටයක් පිළිබඳව නාමල් කුමාර නමැත්තා පසුගියදා ජනාධිපති ලේකම් කාර්යාලය හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
+
+එම පැමිණිල්ල පිළිබඳ විමර්ශනයක් සිදුකර සාධාරණය ඉටුකරන ලෙස කතෝලික සභාව ද පොලිස්පතිවරයාගෙන් ඉල්ලා තිබුණි.
+
+◼️
+
+[Data](articles/fffaad02.json)
+
+---
+
 ### அசெம்பிள் செய்யப்பட்ட வாகனங்களுடன் சிக்கிய சந்தேகநபர்
 
 *2025-01-01 15:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசெம்பிள்-செய்யப்பட்ட-வாகனங்களுடன்-சிக்கிய-சந்தேகநபர்/175-349615) · `ta`
@@ -119,6 +253,24 @@ The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 ...
 
 [Data](articles/60566623.json)
+
+---
+
+### නිවසක් තුළ පුරාවස්තු සෙවූ අයෙක් අත්අඩංගුවට
+
+*2025-01-01 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204931) · `si`
+
+පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කළ පුද්ගලයෙකු ඇඹිලිපිටිය ප්‍රදේශයේ දී අත්අඩංගුට ගෙන තිබේ.
+
+ඇඹිලිපිටිය, උඩගම ප්‍රදේශයේ නිවසක් තුළ පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් සිදුකිරීමක් සම්බන්ධයෙන් ලද තොරතුරක් මත සිදුකළ වැටලීමක දී මෙම අත්අඩංගුවට ගැනීම සිදුකළ බව පොලීසිය පැවසීය.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 55ක් වූ ගල්බොරැල්ල, කැලණිය ප්‍රදේශයේ පදිංචිකරුවෙක්ය.
+
+වැටලීම සිදුකළ ස්ථානයේ තිබී රන් ආලේපිත බුදු පිළිම 02ක්, කළු පැහැති ගල් මංජුසාවක්, නිල් පැහැති මැණික් බවට සැකකරන ගල් 03ක්ද පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/a7e5ef06.json)
 
 ---
 
@@ -142,6 +294,46 @@ The event “fostered connections, facilitated knowledge sharing, and encouraged
 
 ---
 
+### ප්‍රීති පද්මන් සූරසේන මහතා අධිකරණ සේවා කොමිෂමේ සාමාජිකයෙක් කරයි
+
+*2025-01-01 14:26:27* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රීති-පද්මන්-සූරසේන-මහතා-අධිකරණ-සේවා-කොමිෂමේ-සාමාජිකයෙක්-කරයි/11-413959) · `si`
+
+අධිකරණ සේවා කොමිසමේ සාමාජිකයකු වශයෙන් ශ්‍රේෂ්ඨාධිකරණයේ ජේ්‍යෂ්ඨතම විනිසුරුවරයා වන ප්‍රීතී පද්මන් සුරසේන මහතා ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පත් කරන ලදී.
+
+ව්‍යවස්ථාදායක සභාවේ අනුමැතිය යටතේ සුරසේන මහතා අධිකරණ සේවා කොමිසමේ සාමාජිකයකු වශයෙන් පත්කර ඇත.
+
+අගවිනිසුරු ජයන්ත ජයසුරිය මහතා විශ්‍රාම යෑමෙන් අනතුරුව කොමිසමේ සාමාජිකයකු වශයෙන් කටයුතු කළ මුර්දු ප්‍රනාන්දු මහත්මිය එහි සභාපතිවරිය වශයෙන් පත්කරන ලද අතර ඉන් හිස්වු පුරප්පාඩුව සඳහා ශ්‍රේෂ්ඨාධිකරණයේ ජේ්‍යෂ්ඨතම විනිසුරුවරයා වන ප්‍රීතී පද්මන් සුරසේන මහතා පත් කර ඇත.
+
+අගවිනිසුරු මුර්දු ප්‍රනාන්දු මහත්මිය කොමිසමේ සභාපතවරිය වශයෙන් කටයුතු කරන අතර එහි සාමාජිකයින් වශයෙන් ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන ප්‍රීතී පද්මන් සුරසේන මහතා සහ ගාමිණී අමරසේකර මහතා කටයුතු කරයි.
+
+◼️
+
+[Data](articles/cdfeedde.json)
+
+---
+
+### எல்லையில்  பாக்- தலிபான் மோதல் -முழுமையான யுத்தம் குறித்து அச்சம்
+
+*2025-01-01 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202701) · `ta`
+
+பாக்கிஸ்தானிய படையினரை இலக்குவைத்து ஆப்கானின் தலிபான்கள் மேற்கொண்டுள்ள தாக்குதல்கள் காரணமாக முழுமையான யுத்தம் குறித்து அச்சநிலையேற்பட்டுள்ளது.
+
+பாக்ஆப்கான் எல்லையில் உள்ள பாக்கிஸ்தானின் பலநிலைகளை அழித்துள்ளதாக தெரிவித்துள்ள தலிபான் பாக்கிஸ்தான் பதில் நடவடிக்கை எடுக்கலாம் என எதிர்பார்த்து எல்லைக்கு தனது ஆயுதமேந்திய உறுப்பினர்களை அனுப்பிவைத்துள்ளது.
+
+ஆப்கானின் தலிபானிற்கு நெருக்கமான தெஹ்கீரீக் ஈ தலிபான் என்ற அமைப்பின் தளங்கள் மீது பாக்கிஸ்தான் வான்தாக்குதல்களை மேற்கொண்டுள்ளதை தொடர்ந்தே எல்லையில் பதற்ற நிலை மூண்டுள்ளது.
+
+பாக்கிஸ்தானின் இந்த தாக்குதல்களால் பெண்கள் குழந்தைகள் உட்பட 46 பேர் கொல்லப்பட்டுள்ளனர் என தலிபான் தெரிவித்துள்ளது.
+
+ஆப்கானை அமெரிக்கா தனது கட்டுப்பாட்டின் கீழ் வைத்திருந்து தலிபானிற்கு எதிரான நடவடிக்கைகளில் ஈடுபட்டவேளை பாக்கிஸ்தான் இரகசியமாக தலிபானிற்கு ஆதரவளித்து வந்தமை குறிப்பிடத்தக்கது.
+
+இதேவேளை பாக்கிஸ்தான் படைவீரர்கள் மீது தாக்குதல்களை மேற்கொண்டுவரும் தலிபானிற்கு நெருக்கமான டிடிபி அமைப்பிற்கு எதிராக பாக்கிஸ்தான் தாக்குதல்களை மேற்கொண்டுள்ளது.
+
+...
+
+[Data](articles/aa5d738a.json)
+
+---
+
 ### උතුරු මැද පළාතේ 2024 තුන්වන වාර විභාග ප්‍රශ්න පත්‍ර පිටවෙලා
 
 *2025-01-01 14:19:52* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-පළාතේ-2024-තුන්වන-වාර-විභාග-ප්‍රශ්න-පත්‍ර-පිටවෙලා/11-413958) · `si`
@@ -159,6 +351,32 @@ The event “fostered connections, facilitated knowledge sharing, and encouraged
 ...
 
 [Data](articles/cfa9e837.json)
+
+---
+
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2025-01-01 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202700) · `ta`
+
+இன்று ஜனவரி  புதன்கிழமை (01) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0808 ரூபா  ஆகவும்  விற்பனை விலை 297.6536 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/edd0995b.json)
+
+---
+
+### புத்தாண்டை வாண வேடிக்கையால் வரவேற்ற கொழும்பு துறைமுக நகரம்
+
+*2025-01-01 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202698) · `ta`
+
+2025 ஆம் ஆண்டு ஆங்கில புத்தாண்டை வாணவேடிக்கையுடன் கொழும்பு துறைமுக நகரம் (போர்ட் சிட்டி) வரவேற்றது.
+
+இதேவேளை, காலி முகத்திடல் மற்றும் கொழும்பு நகரத்தை சுற்றியுள்ள ஹோட்டல்களில் வண்ணமயமான வாணவேடிக்கைகள் நிகழ்த்தப்பட்டது.
+
+◼️
+
+[Data](articles/6a1ba142.json)
 
 ---
 
@@ -209,6 +427,30 @@ Date of settlement of the above issuance is 1 January 2025. (Colombo/Jan1/2025)
 ...
 
 [Data](articles/67ec1c38.json)
+
+---
+
+### கடந்த ஆண்டு வேலைவாய்ப்புக்காக வெளிநாடு சென்ற இலங்கையர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2025-01-01 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/202680) · `ta`
+
+இது கடந்த 2023 ஆம் ஆண்டை விட அதிகரித்துள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம்  தெரிவித்துள்ளது.
+
+அதன்படி, 2024 ஆம் ஆண்டில், 185,162 ஆண் தொழிலாளர்கள் மற்றும் 127,674 பெண் தொழிலாளர்கள் வேலைக்காக வெளிநாடு சென்றுள்ளனர்.
+
+அதிகளாவான தொழிலார்களில் குவைத்துக்கு 77,546 பேரும், ஐக்கிய அரபு எமிரேட்ஸ் 51,550 பேரும் சென்றுள்ளனர்.
+
+இதேவேளை, தென் கொரியா, இஸ்ரேல் மற்றும் ஜப்பான் போன்ற நாடுகளில் வேலை தேடும் இலங்கையர்களின் போக்கு அதிகரித்து வருவதை புள்ளிவிபரங்கள் வெளிப்படுத்துகின்றன.
+
+2024 ஆம் ஆண்டில், 7,098 இலங்கையர்கள் தென் கொரியாவிற்கும், 9,665 பேர் இஸ்ரேலுக்கும், 8,665 பேர் ஜப்பானுக்கும் சென்றுள்ளனர்.
+
+இதன் மூலம் கடந்த ஆண்டு இறுதிக்குள் இலங்கைக்கு 6,462 மில்லியன் அமெரிக்க டொலர்கள் கிடைத்துள்ள நிலையில், வெளிநாட்டு ஊழியர்களின் அந்நிய செலாவணி வருமானமும் கணிசமாக அதிகரித்துள்ளது.
+
+ஒப்பிடுகையில், 2023 இல் 164,680 ஆண் மற்றும் 132,904 பெண் தொழிலாளர்கள் உட்பட 297,584 இலங்கையர்கள் வேலைக்காக வெளிநாடு சென்றுள்ளனர்.
+
+◼️
+
+[Data](articles/505a8cd2.json)
 
 ---
 
@@ -323,30 +565,6 @@ The Minister expressed his appreciation for South Korea’s continued support to
 ...
 
 [Data](articles/945088d8.json)
-
----
-
-### கடந்த ஆண்டு வேலைவாய்ப்புக்காக வெளிநாடு சென்ற இலங்கையர்களின் எண்ணிக்கை அதிகரிப்பு
-
-*2025-01-01 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/202680) · `ta`
-
-இது கடந்த 2023 ஆம் ஆண்டை விட அதிகரித்துள்ளதாக இலங்கை வெளிநாட்டு வேலைவாய்ப்புப் பணியகம்  தெரிவித்துள்ளது.
-
-அதன்படி, 2024 ஆம் ஆண்டில், 185,162 ஆண் தொழிலாளர்கள் மற்றும் 127,674 பெண் தொழிலாளர்கள் வேலைக்காக வெளிநாடு சென்றுள்ளனர்.
-
-அதிகளாவான தொழிலார்களில் குவைத்துக்கு 77,546 பேரும், ஐக்கிய அரபு எமிரேட்ஸ் 51,550 பேரும் சென்றுள்ளனர்.
-
-இதேவேளை, தென் கொரியா, இஸ்ரேல் மற்றும் ஜப்பான் போன்ற நாடுகளில் வேலை தேடும் இலங்கையர்களின் போக்கு அதிகரித்து வருவதை புள்ளிவிபரங்கள் வெளிப்படுத்துகின்றன.
-
-2024 ஆம் ஆண்டில், 7,098 இலங்கையர்கள் தென் கொரியாவிற்கும், 9,665 பேர் இஸ்ரேலுக்கும், 8,665 பேர் ஜப்பானுக்கும் சென்றுள்ளனர்.
-
-இதன் மூலம் கடந்த ஆண்டு இறுதிக்குள் இலங்கைக்கு 6,462 மில்லியன் அமெரிக்க டொலர்கள் கிடைத்துள்ள நிலையில், வெளிநாட்டு ஊழியர்களின் அந்நிய செலாவணி வருமானமும் கணிசமாக அதிகரித்துள்ளது.
-
-ஒப்பிடுகையில், 2023 இல் 164,680 ஆண் மற்றும் 132,904 பெண் தொழிலாளர்கள் உட்பட 297,584 இலங்கையர்கள் வேலைக்காக வெளிநாடு சென்றுள்ளனர்.
-
-◼️
-
-[Data](articles/505a8cd2.json)
 
 ---
 
@@ -1597,205 +1815,5 @@ We all complain about lack of time. Even though there are seminars, workshops, t
 ...
 
 [Data](articles/c60b3aaa.json)
-
----
-
-### AKD: Expedient Marxist?
-
-*2025-01-01 00:36:31* · [`dailyftlk`](https://www.ft.lk/columns/AKD-Expedient-Marxist/4-771216) · `en`
-
-“From Pandora’s box, where all the ills of humanity swarmed, the Greeks drew out hope after all the others, as the most dreadful of all. I know no more stirring symbol; for contrary to the general belief, hope equals resignation. And to live is not to resign oneself.”
-
-‘A break from the past, A new beginning in Sri Lanka’ was the arresting caption of an Op-Ed piece that appeared on 25 September in the Hindu. It was just four days after President AKD was sworn in. It had been penned by Emeritus Professor of Political Science University of Colombo Jayadeva Uyangoda.
-
-...
-
-[Data](articles/3a408819.json)
-
----
-
-### Call for immediate action and presidential leadership: Chaotic indiscipline among Sri Lankan drivers
-
-*2025-01-01 00:31:21* · [`dailyftlk`](https://www.ft.lk/columns/Call-for-immediate-action-and-presidential-leadership-Chaotic-indiscipline-among-Sri-Lankan-drivers/4-771215) · `en`
-
-Many drivers operate without proper training or valid licenses, undermining road safety
-
-Sri Lanka’s roads have long been a scene of organised chaos, where three-wheeler drivers, motorcyclists, and bus operators play a prominent role in shaping the traffic landscape. The indiscipline among these drivers not only exacerbates congestion but also contributes significantly to road accidents and fatalities. Addressing this pressing issue requires a multi-faceted approach that combines stricter law enforcement, systemic reforms, driver education, public awareness campaigns, and technological advancements. A collaborative effort involving the government, law enforcement agencies, and the public is crucial to fostering a disciplined and safe driving culture in Sri Lanka.
-
-...
-
-[Data](articles/535cec61.json)
-
----
-
-### Berlin Wall, Rajapaksa rule and Lanka’s road from bankruptcy
-
-*2025-01-01 00:18:22* · [`dailyftlk`](https://www.ft.lk/opinion/Berlin-Wall-Rajapaksa-rule-and-Lanka-s-road-from-bankruptcy/14-771214) · `en`
-
-The dilemma is simple. If taxes are reduced for one set of people, there will have to be a corresponding tax increase affecting another set of people
-
-The Kitchen Debate was an impromptu set of exchanges (via interpreters) between US vice president Richard Nixon and Soviet premier Nikita Khrushchev, on the relative merits of capitalism and socialism. The two leaders were attending the 1959 American National Exhibition in Moscow. Their exchange took place inside a replica of a suburban American kitchen complete with all the mod-cons which would soon become staples of American middle class life.
-
-...
-
-[Data](articles/43d7e1db.json)
-
----
-
-### 2024-12-31 (Tuesday)
-
-### The world begins welcoming 2025 with light shows, embraces and ice plunges
-
-*2024-12-31 22:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104631/the-world-begins-welcoming-2025-with-light-shows-embraces-and-ice-plunges) · `en`
-
-From Sydney to Vladivostok, communities around the world have begun welcoming 2025 with spectacular light shows, embraces and ice plunges.
-
-Auckland became the first major city to celebrate, as thousands thronged downtown or climbed the city’s ring of volcanic peaks for a fireworks vantage point. A light display recognized Indigenous people.
-
-Countries in the South Pacific Ocean are the first to ring in the New Year, with midnight in New Zealand striking 18 hours before the ball drop in Times Square in New York.
-
-Conflict muted acknowledgements of the new year in places like the Middle East, Sudan and Ukraine.
-
-Fireworks blasted off the Sydney Harbor Bridge and across the bay. More than a million Australians and others gathered at iconic Sydney Harbor for the celebration. British pop star Robbie Williams led a singalong with the crowd.
-
-The celebration also featured Indigenous ceremonies and performances that acknowledged the land’s first people.
-
-...
-
-[Data](articles/6e5fdc03.json)
-
-[Extended Data](ext_articles/6e5fdc03.ext.json)
-
----
-
-### அரசியலமைப்பு பேரவையில் மூன்று விடயங்கள் ஆராய்வு
-
-*2024-12-31 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202670) · `ta`
-
-இலஞ்சம் அல்லது ஊழல் பற்றிய குற்றச்சாட்டுக்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுக்கான அங்கத்தவர்களை நியமனம் செய்தல், மேன்முறையீட்டு நீதிமன்றத்துக்கான இரண்டு நீதிபதிகளுக்கான அங்கீகாரத்தினை அளித்தல், வலிந்து காணாமலாக்கப்பட்டவர்கள் பற்றிய அலுவலகத்துக்கான இரண்டு வெற்றிடங்களை நிரப்புதல் தொடர்பில் அரசியலமைப்பு பேரவையில் ஆராயப்பட்டுள்ள போதும் இறுதியான தீர்மானம் எடுக்கப்படவில்லை.
-
-இந்நிலையில் அரசியலமைப்பு பேரவை மீண்டும் எதிர்வரும் வெள்ளிக்கிழமை கூடி மேற்படி விடயங்கள் சம்பந்தமாக தீர்மானங்கள் எடுப்பதென இணக்கம் காணப்பட்டுள்ளது.
-
-சபாநாயகர் (வைத்தியகலாநிதி) ஜகத் விக்கிரமரத்ன தலைமையில் செவ்வாய்க்கிழமை ( 31) அரசியலமைப்பு பேரவை கூடியிருந்தது.
-
-இதன்போது பிரதமர் ஹரிணி அமசூரிய, எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச உட்பட ஏனைய அங்கத்தவர்களும் பங்கேற்றிருந்தனர்.
-
-◼️
-
-[Data](articles/a416be1f.json)
-
----
-
-### 2024 වසරේ මතක එක පෙළට
-
-*2024-12-31 22:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204915) · `si`
-
-සෑම අලුත් අවුරුද්දක්ම ආරම්භ වන්නේ පෙර වසරේ විශේෂ සිදුවීම්වල මතකයන් ද සමගිනි.
-
-2025 වසර උදාවීමට ළං වෙද්දී 2024 අවුරුද්දේ විශේෂ සිදුවීම් එක පෙළට ඉහතින් නරඹන්න.
-
-◼️
-
-[Data](articles/57b85ee2.json)
-
----
-
-### எரிபொருட்களின் விலையில் மாற்றம்?
-
-*2024-12-31 21:53:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருட்களின்-விலையில்-மாற்றம்/175-349594) · `ta`
-
-மாதாந்த எரிபொருள் விலை திருத்தத்தின் படி இன்று (31) நள்ளிரவு முதல் நடைமுறைக்கு வரும் வகையில் எரிபொருட்களின் விலைகளில் மாற்றம் ஏற்பட்டுள்ளது.
-
-அதன்படி, மண்ணெண்ணெய் 05 ரூபாவினால் குறைக்கப்பட்டுள்ளதாக இலங்கை பெற்றோலிய கூட்டுத்தாபனம் குறிப்பிட்டுள்ளது. இதற்கமைய அதன் புதிய விலை 183 ரூபாவாகும்.
-
-இதேவேளை, பெற்றோல் மற்றும் டீசல்  விலைகளில் எவ்விதமான மாற்றமும் மேற்கொள்ளப்படவில்லை என இலங்கை பெற்றோலியக் கூட்டத்தாபனம் அறிவித்துள்ளது.
-
-இதேவேளை, லங்கா ஐஓசி மற்றும் சினோபெக் ஆகிய நிறுவனங்களும் தமது எரிபொருளின் விலைகளை மாற்றமின்றி தொடர தீர்மானித்துள்ளன. R
-
-◼️
-
-[Data](articles/3bdc1298.json)
-
----
-
-### Gen. Shavendra Silva speaks out on ‘Aragalaya’ controversy after retiring
-
-*2024-12-31 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104630/gen-shavendra-silva-speaks-out-on-aragalaya-controversy-after-retiring-) · `en`
-
-The former Army Commander and Chief of Defence Staff (CDS), General Shavendra Silva, has officially retired from the service today (31), concluding a remarkable 41-year career dedicated to safeguarding Sri Lanka’s security and sovereignty.
-
-A formal ceremony marking his retirement was held this afternoon (31) at the Bandaranaike Memorial International Conference Hall (BMICH).
-
-In a detailed statement issued ahead of his retirement, General Silva reflected on certain significant events that transpired during his tenure, including the civil unrest of 2022, also known as the ‘Aragalaya’ protest movement.
-
-“The civil unrest in the country in 2022 was a complex process in my military career that revealed who my true friends and true enemies are. The state army is an official armed force that stands ready to protect the people in the event of a threat to the state, whether external or internal,” he stated.
-
-...
-
-[Data](articles/e99771dd.json)
-
----
-
-### භූමිතෙල් මිල පමණක් අඩුවෙයි
-
-*2024-12-31 21:43:50* · [`adalk`](https://www.ada.lk/breaking_news/භූමිතෙල්-මිල-පමණක්-අඩුවෙයි/11-413942) · `si`
-
-ඉන්ධන මිල සූත්‍රය අනුව මෙම මාසයේදි භූමිතෙල් මිල පමණක් රුපියල් පහකින් අඩු කර ඇති බව ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාව පවසයි.මේ අනුව අනෙක් ඉන්ධන මිල ගණන් වෙනස් නොවෙයි.
-
-◼️
-
-[Data](articles/73211e84.json)
-
----
-
-### எரிபொருள் விலை திருத்த அறிவிப்பு; மண்ணெண்ணெய் விலை குறைக்கப்படும்
-
-*2024-12-31 21:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/202669) · `ta`
-
-31ஆம் திகதி செவ்வாய்க்கிழமை நள்ளிரவு 12 மணி முதல் அமுலுக்கு வரும் வகையில் எரிபொருள் விலை திருத்தம் தொடர்பான அறிவிப்பை இலங்கை பெற்றோலியம் கூட்டுத்தாபனம் வெளியிட்டுள்ளது.
-
-ஏனைய எரிபொருள் விலைகளில் மாற்றம் இல்லை என இலங்கை பெற்றோலியக் கூட்டுத்தாபனம் தெரிவித்துள்ளது.
-
-மண்ணெண்ணெய் விலை 5 ரூபாவால் குறைக்கப்பட்டு அதன் புதிய விலை 183 ரூபாவாகும்.
-
-◼️
-
-[Data](articles/518ab55c.json)
-
----
-
-### “Jehovah, Thou hast promised,,The isles shall wait for Thee,” – A Hymn for Ceylon-            By Rev.W.S. Senior
-
-*2024-12-31 21:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=75548) · `en`
-
-Compliments of the Season everyone and best wishes for a bright and blessed  2025.
-
-I am  beginning the new year by re-posting “The Hymn of Ceylon” on my Blog.
-
-The “hymn of Ceylon” was written by by Rev. W. S. Senior. Walter Stanley Senior was a scholar, pastor, teacher and poet who served in Sri Lanka for many years as Vice Principal of Trinity College, Kandy and Vicar at Christ Church, Galle Face.
-
-Rev. W.S. Senior’s  ‘Hymn of Ceylon’. was always sung at the annual prize giving event of St. Thomas’ Preparatory School in Kollupitiya where I studied from 1959 to ’64. It is a Christian hymn and was set to the melody of ‘Danno Budunge’ by Devar Surya Sena as requested by Senior himself.
-
-...
-
-[Data](articles/a079e16a.json)
-
----
-
-### Kerosene price reduced; other fuels unchanged
-
-*2024-12-31 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104629/kerosene-price-reduced-other-fuels-unchanged) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has announced a revision of Kerosene price effective from midnight today (31).
-
-Accordingly, the price of Kerosene has been reduced by Rs. 05 to Rs. 183 per litre.
-
-However, the prices of Petrol 92 Octane, Petrol 95 Octane, Auto Diesel and Lanka Super Diesel will remain unchanged, according to Ceypetco.
-
-UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have decided to follow the same fuel price revisions as the CEYPETCO, to match the state-owned oil company’s prices.
-
-◼️
-
-[Data](articles/29931ad7.json)
 
 ---

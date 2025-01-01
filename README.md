@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 23:44:25**
+As of **2025-01-02 00:03:25**
 
 ## Newspaper Stats
 
-*Scraped **63,172** Articles*
+*Scraped **63,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 465
 colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
-economynextcom | 3,844
+economynextcom | 3,849
 dailyftlk | 4,380
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,724
-tamilmirrorlk | 9,060
+tamilmirrorlk | 9,061
 virakesarilk | 10,509
 adaderanasinhalalk | 10,915
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,172 articles have been extended.
+61,971 (98.1%) of 63,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### சிறைச்சாலையில் மரம் முறிந்து விழுந்ததில் ஒருவர் பலி
+
+*2025-01-01 23:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலையில்-மரம்-முறிந்து-விழுந்ததில்-ஒருவர்-பலி/175-349639) · `ta`
+
+மாத்தறை சிறைச்சாலை வளாகத்தினுள் இருந்த போ மரம் முறிந்து வீழ்ந்ததில் 10 கைதிகள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் ஒருவர் உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/faa9c69e.json)
+
+---
 
 ### මාතර බන්ධනාගාර බෝ ගසක් කඩා වැටි අයෙක් මරුට
 
@@ -530,6 +542,42 @@ This special traffic operation, launched from December 23 under the directives o
 
 ---
 
+### Sri Lanka in discussion with IMF on SOE restructuring; says privatization is not first option
+
+*2025-01-01 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-discussion-with-imf-on-soe-restructuring-says-privatization-is-not-first-option-197457/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government led by ruling National People’s Power (NPP) is in discussions with the International Monetary Fund (IMF) on the restructuring of state owned enterprises (SOE) and it will not opt for privatization as the first option, Cabinet Spokesman Nalinda Jayatissa said.
+
+Soon after the election of President Anura Kumara Dissanayake, his interim government said it would not privatize state-owned national carrier SriLankan Airlines. Later, it said a decision would be taken after the November 14 parliamentary election.
+
+It is not clear what will be done with SriLankan which also has a defaulted bond and other loans. The last administration was also planning the privatize several state ventures which were hit by procedural delays.
+
+...
+
+[Data](articles/03346514.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 293.10/30 to dollar, bonds steady
+
+*2025-01-01 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-10-30-to-dollar-bonds-steady-197450/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 293.10/30 to the US dollar on Wednesday from 293.25/75 on Tuesday, dealers said, while bond yields were broadly steady.
+
+The rupee has appreciated from 322.20/40 on January 1, 2024.
+
+A bond maturing on 15.12.2026 closed down at 9.35/50 percent, from 9.40/55 percent.
+
+A bond maturing on 15.12.2027 closed at 9.85/95 percent, up from 9.75/90 percent.
+
+A bond maturing on 15.09.2029 closed stable at 10.60/70 percent.
+
+◼️
+
+[Data](articles/fd83602a.json)
+
+---
+
 ### 2025දී සංචාරකයන් ලක්ෂ 25ක ඉලක්කයක්
 
 *2025-01-01 17:08:37* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-සංචාරකයන්-ලක්ෂ-25ක-ඉලක්කයක්/11-413964) · `si`
@@ -692,6 +740,24 @@ This special traffic operation, launched from December 23 under the directives o
 
 ---
 
+### Sri Lanka planing reforms to cut poverty, bring benefits to rural communities: President
+
+*2025-01-01 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-planing-reforms-to-cut-poverty-bring-benefits-to-rural-communities-president-197441/) · `en`
+
+ECONOMYNEXT – Sri Lanka is making economic reforms to bring economic benefits to rural communities, President Anura Kumara Dissanayake said.
+
+“Economic reforms are being formulated to ensure that economic benefits reach rural communities, as an economy concentrated in the hands of a small group can never bring stability to society,” President Dissanayake said launching a ‘Clear Sri Lanka’ initiative.
+
+“Such an imbalanced economy fosters instability for the nation and its people. Therefore, achieving economic stability requires extending economic benefits to rural populations.”
+
+Sri Lanka has emerged from a default and severe crisis with the contribution of Finance Ministry, Central Bank officials and the political leadership, but much more needs to be done he said.
+
+...
+
+[Data](articles/e721b5c5.json)
+
+---
+
 ### உற்பத்திப் பொருளாதாரத்தை அதிகரிக்க அர்ப்பணிப்புடன் செயற்படுவோம் : விஜித்த ஹேரத்
 
 *2025-01-01 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202699) · `ta`
@@ -729,6 +795,26 @@ This special traffic operation, launched from December 23 under the directives o
 ◼️
 
 [Data](articles/a61a7a20.json)
+
+---
+
+### Sri Lanka sells Rs168bn in treasury bills, yields down across maturities
+
+*2025-01-01 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs168bn-in-treasury-bills-yields-down-across-maturities-197440/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 168 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield was down 7 basis points 8.55 percent, with all offered 43 billion rupees of bills sold.
+
+The 6-month yield was down 5 basis points at 8.72 percent, with all offered 60 billion rupees of bills sold.
+
+The 12-month bills was down 2 basis point at 8.94 percent, with all offered 65 billion rupees of bills sold.
+
+All three maturities were offered on tap after the auction. (Colombo/Jan1/2025)
+
+◼️
+
+[Data](articles/fe4f1c53.json)
 
 ---
 
@@ -1472,6 +1558,8 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 
 ජනපති අනුරගේ ප්‍රධානත්වයෙන් ඇරඹුණු Clean Sri Lanka වැඩසටහන ගැන ඔබ දැනුවත් ද?
 
+ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
+
 ◼️
 
 [Data](articles/9508d450.json)
@@ -1495,6 +1583,26 @@ Dissanayake pointed out that 595 people died from drowning last year. (Colombo/J
 ◼️
 
 [Data](articles/e34fd952.json)
+
+---
+
+### Sri Lanka conflict sees 484 elephants, 148 humans killed in year
+
+*2025-01-01 10:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-conflict-sees-484-elephants-148-humans-killed-in-year-197398/) · `en`
+
+ECONOMYNEXT – A human elephant conflict has left 182 humans and 484 pachyderms killed in 2023, President Anura Dissanayake said launching an initiative called Clean Sri Lanka.
+
+He said that a main focus of the Clean Sri Lanka initiative is to restore the country’s environment.
+
+Sri Lanka has around 7,000 elephants based on the last count, but some estimate that the actual population maybe higher.
+
+Increasing numbers of elephants are raiding farms and houses, and farmers have retaliated with electric fences and gun traps.
+
+Dissanayake pointed out that 595 people died from drowning last year. (Colombo/Jan1/2024)
+
+◼️
+
+[Data](articles/fd3a5400.json)
 
 ---
 
@@ -1749,113 +1857,5 @@ Investment goods and base metals were have been gradually picking up over 2023 a
 ◼️
 
 [Data](articles/e3422a51.json)
-
----
-
-### කොකේන් සමග ස්පාඤ්ඤ ජාතිකයෙක් අත්අඩංගුවට
-
-*2025-01-01 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204922) · `si`
-
-පොලීසිය පැවසුවේ ලද තොරතුරකට අනුව පොලිස් මත්ද්‍රව්‍ය කාර්යංශයේ ගාල්ල ඒකකයේ නිලධාරීන් විසින් එම වැටලීම සිදුකර ඇති බවයි.
-
-සැකකරු සතුව තිබී කොකෙන් මත්ද්‍රව්‍ය ග්‍රෑම් 4ක් සහ ග්‍රෑම් 06ක් බරුති මත්පෙති 12 ක් සොයාගෙන තිබේ.
-
-මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ සැකකරු තැපැල් මඟින් අදාළ මත්ද්‍රව්‍ය මෙරටට ආනයනය කර මෙම ජාවාරම සිදුකරන බවය.
-
-අත්අඩංගුවට ගෙන ඇත්තේ 38 හැවිරිදි ස්පාඤ්ඤ ජාතිකයෙකු බව පොලීසිය පැවසුවේ.
-
-◼️
-
-[Data](articles/ed36ae5f.json)
-
----
-
-### Prime Minister Harini calls for unity and progress in 2025
-
-*2025-01-01 08:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104634/prime-minister-harini-calls-for-unity-and-progress-in-2025) · `en`
-
-As Sri Lanka enters 2025, Prime Minister Harini Amarasuriya highlighted the transformative journey of the past year and the renewed hope for the nation’s future.
-
-She emphasized the collective decision by citizens to embrace change, unity, and a people-centered political culture.
-
-“The citizens of this country have chosen change: a clean and people-centered political culture and empathetic society, unity as opposed to division,” she stated.
-
-The Prime Minister reaffirmed her government’s commitment to uplifting the nation in critical areas such as the economy, industry, and education. “Our vision is to create a future where every citizen can live a peaceful, free, dignified, and fulfilling life, transcending barriers of race, gender, ethnicity, or religion,” she said.
-
-...
-
-[Data](articles/ea4bd8a7.json)
-
----
-
-### President hails 2025 as dawn of a new era for Sri Lanka
-
-*2025-01-01 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104633/president-hails-2025-as-dawn-of-a-new-era-for-sri-lanka) · `en`
-
-As Sri Lanka ushers in 2025, President Anura Kumara Dissanayake has expressed optimism about the nation’s future, calling it the dawn of a new era where the long-cherished dreams of prosperity are beginning to materialize.
-
-Reflecting on the achievements of 2024, the President stated, “The parliamentary elections of 2024 enabled us to establish a government with a strong majority, earning the trust of people across the North, East, West, and South. With this mandate, we have initiated a transformative political shift, fulfilling our democratic responsibilities to build the good governance our citizens aspire to.”
-
-Highlighting key developmental priorities for 2025, President Dissanayake emphasized the importance of eradicating rural poverty, implementing the “Clean Sri Lanka” initiative, and building a digital economy. “The ‘Clean Sri Lanka’ initiative, launched alongside the New Year, aims to uplift society to greater heights through social, environmental, and ethical revival,” he said.
-
-...
-
-[Data](articles/620d1a40.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2025-01-01 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104632/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Eastern and Uva provinces and in Matale, Nuwara-Eliya, Polonnaruwa, Hambantota and Matara districts.
-
-Heavy showers above 100 mm can be expected at some places in Eastern and Uva provinces and in Matale, Nuwara-Eliya and Hambantota districts.
-
-Several spells of showers may occur in the Northern provinceand in Anuradhapura district, the Met. Department said.
-
-Showers or thundershowers will occur at several places elsewhere during the afternoon or night.
-
-Fairly heavy showers above 75 mm can be expected at some places in Western, Sabaragamuwa provinces and in Galle district.
-
-Fairly strong winds of 30-40 kmph can be expected at times over Northern, Eastern, North-central, North-western and Southern provinces,it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces during the morning.
-
-...
-
-[Data](articles/dd887693.json)
-
----
-
-### 2024 තෙවන වාරයේ දෙවන අදියරට පාසල් හෙට ඇරඹේ
-
-*2025-01-01 08:03:41* · [`adalk`](https://www.ada.lk/breaking_news/2024-තෙවන-වාරයේ-දෙවන-අදියරට-පාසල්-හෙට-ඇරඹේ/11-413949) · `si`
-
-රජයේ පාසල් සහ රජයේ අනුමත පෞද්ගලික පාසල්වල 2024 අධ්‍යයන වර්ෂයේ  තෙවන පාසල් වාරයේ දෙවන අදියර සඳහා හෙට (2) පාසල් ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
-
-එමෙන්ම  සියලුම පාසල්වල තෙවන පාසල් වාරය මෙම මස 24 සිකුරාදා  දිනෙන් අවසන් වන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
-
-2025  අධ්‍යයන   වර්ෂය සඳහා  පාසල්වල පළමු වාරයේ පළමු අදියර මෙම මස 27 සඳුදා ආරම්භවී මාර්තු 24 සිකුරාදා අවසන් වන බවද අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
-
-◼️
-
-[Data](articles/5226cc3b.json)
-
----
-
-### ජනවරමේ වගවීම හා වගකීම ඉටු කිරීමට යුහුසුළුව කටයුතු කරනවා
-
-*2025-01-01 07:45:53* · [`adalk`](https://www.ada.lk/breaking_news/ජනවරමේ-වගවීම-හා-වගකීම-ඉටු-කිරීමට-යුහුසුළුව-කටයුතු-කරනවා/11-413948) · `si`
-
-ජනතාව අපේක්ෂා කරන යහපත් රාජ්‍යය ගොඩනැගිම වෙනුවෙන් පැවති දේශපාලන සංස්කෘතියේ විසල් පරිවර්තනයක් සිදු කරමින් ජනවරමේ වගවීම හා වගකීම ඉටු කිරීමට මේ වන විට යුහුසුළුව කටයුතු කරමින් සිටින බව ජනපති අනුර කුමාර දිසානායක මහතා නව වසර වෙනුවෙන් සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් පවසයි.
-
-ශ්‍රී ලාංකික අප 2025 නව වසරට පා තබන්නේ රටත්, ජනතාවත් දශක ගණනාවක් පුරා දුටු සුබ සිහින මල්ඵල ගැන්වෙන නව යුගයක උදාවත් සමගිනි.
-
-දිවයිනේ උතුර, නැගෙනහිර, බටහිර හා දකුණ යන සතර දිසාවන් යා කරමින්, සියලු ජනතාවගේ විශ්වාසය දිනා ගෙන පාර්ලිමේන්තුවේ බහුතර බලයක් සහිත ආණ්ඩුවක් ගොඩනැගීමට 2024 පාර්ලිමේන්තු මැතිවරණයේදී අපට හැකි විය. ඒ අනුව ජනතාව අපේක්ෂා කරන යහපත් රාජ්‍යය ගොඩනැගිම වෙනුවෙන් පැවති දේශපාලන සංස්කෘතියේ විසල් පරිවර්තනයක් සිදු කරමින් ජනවරමේ වගවීම හා වගකීම ඉටු කිරීමට මේ වන විට අපි යුහුසුළුව කටයුතු කරමින් සිටිමු.
-
-...
-
-[Data](articles/7ef9ec9b.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 17:27:33**
+As of **2025-01-01 17:44:55**
 
 ## Newspaper Stats
 
-*Scraped **63,128** Articles*
+*Scraped **63,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 3,835
 economynextcom | 3,844
 dailyftlk | 4,379
 dailymirrorlk | 4,733
-adalk | 6,033
-adaderanalk | 7,713
+adalk | 6,034
+adaderanalk | 7,718
 tamilmirrorlk | 9,058
-virakesarilk | 10,499
-adaderanasinhalalk | 10,905
+virakesarilk | 10,503
+adaderanasinhalalk | 10,906
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.2%) of 63,128 articles have been extended.
+61,971 (98.2%) of 63,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### நடிகர் சிபி சத்யராஜ் நடிக்கும் 'டென் ஹவர்ஸ் ' படத்தின்  ஃபர்ஸ்ட் லுக் வெளியீடு
+
+*2025-01-01 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202727) · `ta`
+
+தமிழின் முன்னணி நடிகரான சிபி சத்யராஜ் சிறிய இடைவெளிக்குப் பிறகு கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'டென் ஹவர்ஸ் 'எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் இளையராஜா கலியபெருமாள் இயக்கத்தில் உருவாகி வரும் ' டென் ஹவர்ஸ் 'எனும் திரைப்படத்தில் சிபி சத்யராஜ் கதையின் நாயகனாக நடித்திருக்கிறார். இந்தப் படத்தில் அவருடன் நடித்திருக்கும் ஏனைய நடிகர்கள், நடிகைகள் பற்றிய விவரங்களை படக்குழுவினர் அதிகாரப்பூர்வமாக வெளியிடவில்லை.
+
+ஜெய் கார்த்திக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே. எஸ். சுந்தரமூர்த்தி இசையமைத்திருக்கிறார்.‌ பயணத்தை அடிப்படையாகக் கொண்ட இந்த திரைப்படத்தை டுவின் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் லதா பாலு மற்றும் துர்காயினி வினோத் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/d0c07d4d.json)
+
+---
+
+### නාමල් කුමාර රක්ෂිත බන්ධනාගාර ගත කෙරේ
+
+*2025-01-01 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204936) · `si`
+
+කොළඹ අපරාධ කොට්ඨාසය විසින් අද (01) දහවල් අත්අඩංගුවට ගනු ලැබූ සමාජ ක්‍රියාකාරිකයෙකු වන නාමල් කුමාර ජනවාරි 15වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකර තිබේ.
+
+කොළඹ කොටුව අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+කොළඹ අපරාධ කොට්ඨාසය වෙත ප්‍රකාශයක් ලබාදීමට පැමිණි අවස්ථාවේදී ඔහු අත්අඩංගුවට පත්විය.
+
+◼️
+
+[Data](articles/52585107.json)
+
+---
+
+### நடிகர் ஷாம் நடிக்கும் ' அஸ்திரம்' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2025-01-01 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202725) · `ta`
+
+தென்னிந்திய திரையுலகில் புகழ்பெற்ற நட்சத்திர நடிகரான ஷாம் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'அஸ்திரம் ' எனும் திரைப்படத்தின் வெளியீட்டு திகதி பிரத்யேக புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.‌
+
+இயக்குநர் அரவிந்த் ராஜகோபால் இயக்கத்தில் உருவாகி இருக்கும் 'அஸ்திரம் 'எனும் திரைப்படத்தில் ஷாம், நிரஞ்சனி ,  நிழல்கள் ரவி , ஜீவா ரவி, அருள் டி. சங்கர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கல்யாண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே. எஸ். சுந்தரமூர்த்தி இசையமைத்திருக்கிறார்.
+
+கிரைம் வித் இன்வெஸ்டிகேஷன் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை பெஸ்ட் மூவிஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் தனசண்முகமணி தயாரித்திருக்கிறார்.
+
+அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருந்த இந்த திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+அந்த வகையில் இந்த படம் எதிர்வரும் பெப்ரவரி மாதம் 21 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியாகிறது.
+
+...
+
+[Data](articles/dec9f765.json)
+
+---
 
 ### OrphanCare காப்பாளர்களில் ஒருவராக கஸ்தூரி செல்லராஜா வில்சன்
 
@@ -67,6 +119,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/79103458.json)
+
+---
+
+### மீட்சி தொடங்கிவிட்டது
+
+*2025-01-01 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/202721) · `ta`
+
+கிறிஸ்மஸ் பிறந்த நள்ளிரவில் கொழும்பிலும் குறிப்பாக வசதிபடைத்த உயர்வர்த்தக பகுதிகளிலும் தொடங்கிய ஜொலிப்பு புத்தாண்டு பிறப்பையும் கடந்து தொடருகிறது. தலைநகரின் இந்த இரவு வெளிச்சத்தில்  மூன்று வருடங்களுக்கு முன்னர் அது படுமோசமான பொருளாதார வீழ்ச்சியை  கண்டது என்பதற்கான எந்த அறிகுறியையும் காணமுடியவில்லை.
+
+அரசாங்கத்தை பதவி கவிழ்த்து ஜனாதிபதியை  நாட்டைவிட்டு தப்பியோட வைத்த 'அறகலய ' போராட்டத்தின் குவிமையமாக அன்று விளங்கிய கொழும்பு கோட்டை காலிமுகத்திடல் புத்தாண்டு கொண்டாட்டங்களின் மையமாக மாறியது. அந்த மையத்தை நோக்கி ய வீதிகளின்  வாகன நெரிசல் அன்று எரிபொருட்களை பெறுவதற்காக  பெட்ரோல் விற்பனை  நிலையங்களுக்கு வெளியே காணப்பட்ட நீண்ட வரிசைகளை கிரகணம் செய்துவிட்டது.
+
+...
+
+[Data](articles/19e07b2f.json)
 
 ---
 
@@ -125,6 +191,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6f1c500c.json)
+
+---
+
+### கடந்த கால அரசாங்கங்களை விமர்சிக்காது வாக்குறுதியை நிறைவேற்றுங்கள் - நாமல்
+
+*2025-01-01 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202708) · `ta`
+
+நாட்டு மக்களுக்கு பல வாக்குறுதிகளை வழங்கியே தேசிய மக்கள் சக்தி அரசாங்கம் ஆட்சிக்கு வந்தது. ஆகவே கடந்த கால அரசாங்கங்களை விமர்வித்துக் கொண்டிருக்காமல் நாட்டு மக்களுக்கு வழங்கிய வாக்குறுதிகளை அரசாங்கம் முறையாக நிறைவேற்ற வேண்டும் என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+ராஜபக்ஷர்களுக்கு வழங்கப்பட்டுள்ள சிறப்புரிமைகளை குறைப்பதால் பொருளாதார நெருக்கடிக்கு தீர்வு காண முடியும் என்று அரசாங்கம் கருதினால் அதற்கும் முழுமையான ஒத்துழைப்பு வழங்குவோம்.
+
+கடந்த அரசாங்கங்களை விமர்சித்துக் கொண்டிருக்காமல் மக்களுக்கு வழங்கிய வாக்குறுதிகளை அரசாங்கம் இந்த ஆண்டு நிறைவேற்ற வேண்டும்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் இன்று புதன்கிழமை (1)  நடைபெற்ற கலந்துரையாடலின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/f2a7714d.json)
 
 ---
 
@@ -236,6 +320,44 @@ The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 
 ---
 
+### Suspect arrested with illegally assembled vehicles worth over Rs. 50 mln
+
+*2025-01-01 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104645/suspect-arrested-with-illegally-assembled-vehicles-worth-over-rs-50-mln) · `en`
+
+The Police Fraud Investigation Bureau has successfully dismantled a criminal network involved in illegally assembling and selling vehicles.
+
+Accordingly, the Police Fraud Investigation Bureau has arrested an individual involved in the crime in the Matale area.
+
+The arrest follows an investigation conducted by the Senior Superintendent of Police (SSP) in charge of the Illegal Assets Investigation Division on the instructions of the Acting Inspector General of Police (IGP) Priyantha Weerasooriya and the Deputy Inspector General of Police (DIG) in charge of the Criminal Investigations Department (CID) DIG P. Ampavila.
+
+Meanwhile, eight illegally assembled vehicles have been found in the suspect’s possession, and the police suspect that the chassis numbers of those vehicles with their number plates had been altered.
+
+Six of the vehicles are in operational condition, while two others are severely damaged.
+
+...
+
+[Data](articles/b4e2b299.json)
+
+---
+
+### Namal Kumara arrested
+
+*2025-01-01 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104644/namal-kumara-arrested) · `en`
+
+Social activist Namal Kumara has been arrested by the Colombo Crimes Division (CCD) today (01), the police said.
+
+Police said that the arrest was made in connection with the audio recording being circulated in social media which allegedly defames the reputation of the Archbishop of Colombo, His Eminence Malcolm Cardinal Ranjith.
+
+Recently, the Archdiocese of Colombo had requested for a probe into the incident. The Media Director of the Archdiocese, Rev. Fr. Jude Krishantha alleged that activist Namal Kumara is an abettor of the Easter Sunday massacres and asserted that Kumara is plotting another scene at the request of a certain third party.
+
+Police Media Spokesman SSP Buddhika Manathunga confirmed that the arrest followed an extended investigation into the incident, based on a complaint made by Rev. Fr. Jude Krishantha to the CCD regarding the matter.
+
+◼️
+
+[Data](articles/bd3eef60.json)
+
+---
+
 ### නාමල් කුමාර අත්අඩංගුවට
 
 *2025-01-01 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204932) · `si`
@@ -251,6 +373,24 @@ The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 ◼️
 
 [Data](articles/fffaad02.json)
+
+---
+
+### Spaniard arrested with cocaine and ecstasy pills
+
+*2025-01-01 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104643/spaniard-arrested-with-cocaine-and-ecstasy-pills) · `en`
+
+The officers of the Galle Unit of the Police Narcotics Bureau (PNB) have arrested a foreign national while in the possession of a stock of narcotics intended for trafficking.
+
+The arrest has been made during a raid carried out by the police officers acting on a tip-off received.
+
+Accordingly, the PNB officials have seized 4 grams of cocaine and 12 ecstasy pills weighing 6 grams from the suspect’s possession.
+
+Preliminary investigations have revealed that the suspect has been trafficking these narcotics which were imported into the country through mail.
+
+◼️
+
+[Data](articles/670c9740.json)
 
 ---
 
@@ -291,6 +431,28 @@ The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 ◼️
 
 [Data](articles/a7e5ef06.json)
+
+---
+
+### රිය අනතුරකින් පසු පළාගිය ප්‍රධාන පොලිස් පරීක්ෂක අල්ලයි
+
+*2025-01-01 14:59:51* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-පසු-පළාගිය-ප්‍රධාන-පොලිස්-පරීක්ෂක-අල්ලයි/11-413960) · `si`
+
+කළුතර උතුර ගාලු පාරේ කොස්ගස් හන්දිය ප්‍රදේශයේදී  පෞද්ගලික බස් රථයක පිටුපස ගැටි මෝටර් රථය අනතුරකට ලක්වීමෙන් අනතුරුව මෝටර් රථයේ එම ස්ථානයේ දමා පලා ගිය ප්‍රධාන පොලිස් පරීක්ෂකවරයෙකු අත්අඩංගුවට ගත් බව කළුතර උතුර පොලිසිය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොස්ගොඩ පොලිසියට අනුයුක්ත ප්‍රධාන පොලිස් පරීක්ෂකවරයෙකි.
+
+සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයා කළුතර සිට කොළඹ දෙසට  මෝටර් රථයක්  ධාවනය කරමින් සිටියදී එම දිශාවටම ඉදිරියෙන් ධාවනය වූ මතුගම සිට කොළඹ දක්වා  ධාවනය වන පෞද්ගලික බස් රථයේ පිටුපස ගැටී අනතුරට ලක්වී ඇතැයි පොලිසිය කියයි.
+
+එම අවස්ථාවේදී මෝටර් රථයෙන් පිටතට පැමිණ ඇති ප්‍රධාන පොලිස් පරීක්ෂකවරයා සිදුවූ අනතුරට රියදුරුගෙන් අලාභ ඉල්ලා  ඔහු  සමඟ බහින් බස් වීමක් හටගෙන ඇති අතර අනතුරුව මෝටර් රථය එම ස්ථානයේ දමා පලා ගොස් තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයා  කළුතර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට  නියමිතය.
+
+කළුතර උතුර පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ.
+
+◼️
+
+[Data](articles/9b94f0da.json)
 
 ---
 
@@ -383,6 +545,28 @@ The event “fostered connections, facilitated knowledge sharing, and encouraged
 ◼️
 
 [Data](articles/edd0995b.json)
+
+---
+
+### 20 Indian fishermen released by Sri Lanka return home
+
+*2025-01-01 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104642/20-indian-fishermen-released-by-sri-lanka-return-home) · `en`
+
+The 20 Indian fishermen, who were released from jails in Sri Lanka, reached Chennai by flight, said officials in Chennai on Wednesday (Jan. 01).
+
+The fishermen were arrested by the Sri Lankan Navy a year ago. They are residents of the Tamil Nadu districts of Pudukkottai, Ramanathapuram, and Tuticorin, and were in Sri Lankan judicial custody.
+
+After negotiations between the Indian and Sri Lankan governments, the latter released the 20 fishermen.
+
+They were handed over to Indian embassy officials, who provided them with temporary citizenship certificates. The fishermen were then flown from Colombo to Chennai airport.
+
+Upon arrival at Chennai airport, the fishermen underwent citizenship verification, customs checks, and other formalities before being released.
+
+They were then greeted by fisheries department officials, who arranged for them to be taken to their hometowns in separate vehicles.
+
+...
+
+[Data](articles/ca18b696.json)
 
 ---
 
@@ -505,6 +689,24 @@ The Minister expressed his appreciation for South Korea’s continued support to
 ◼️
 
 [Data](articles/affc5265.json)
+
+---
+
+### Sri Lanka Customs records historic revenue over Rs 1.5 trillion in 2024
+
+*2025-01-01 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104641/sri-lanka-customs-records-historic-revenue-over-rs-15-trillion-in-2024) · `en`
+
+Sri Lanka Customs has achieved a landmark revenue of Rs. 1.515 trillion in the year 2024, according to its Media Spokesperson and Additional Director General, Seevali Arukgoda.
+
+This figure represents the highest revenue ever recorded by the department in a single year.
+
+It is reported that the recorded revenue reflects significant progress towards meeting the government’s target of Rs. 1.533 trillion for 2024.
+
+Sri Lanka Customs attributed this success to the government’s tax policies, an increase in imports, and improvements in the efficiency of the tax collection processes implemented by its management.
+
+◼️
+
+[Data](articles/f42fcb98.json)
 
 ---
 
@@ -737,6 +939,8 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
 
 ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
+
+නව වසරට උපදෙස්: ව්‍යායාම ඇරඹීමට ඔබ ජනවාරි වන තෙක් ම බලා ඉන්නේ ඇයි?
 
 ◼️
 
@@ -1641,183 +1845,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ...
 
 [Data](articles/b97012ea.json)
-
----
-
-### தும்புதடியினுள் போதைப்பொருளை மறைத்து சிறைச்சாலைக்குள் கொண்டுசெல்ல முற்பட்ட பெண் கைது
-
-*2025-01-01 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/202671) · `ta`
-
-10 இலட்சம் ரூபா பெறுமதியான போதைப்பொருள் தும்புதடியினுள் மறைத்து சிறைச்சாலைக்குள் கொண்டுசெல்ல முற்பட்ட பெண் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-களுத்துறை சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள சந்தேகநபர் ஒருவரை திங்கட்கிழமை (30) பார்வையிட சென்றிருந்த பெண் ஒருவரே இவ்வாறு பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-சிறைச்சாலையில் தடுத்து வைக்கப்பட்டு தனது கணவரை பார்வையிட சென்ற பெண் உணவு மற்றும் பானங்களை கொண்டு சென்று வழங்கியுள்ளதுடன், சிறைச்சாலை வளாகத்தை சுத்தம் செய்வதற்கென கூறி பிளாஸ்டிக் தும்புத்தடி ஒன்றையும் கொண்டு வந்து சிறைக்கைதியிடம் வழங்க முற்பட்டுள்ளார். இதன்போது அங்கிருந்த அதிகாரிகள் சந்தேகத்தின் பேரில் தும்புத்தடியை பரிசோதித்த நிலையில் மறைத்து வைக்கப்பட்டிருந்த பெருமளவான போதைப்பொருள் சிறைச்சாலை அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளது.
-
-...
-
-[Data](articles/898fa5dc.json)
-
----
-
-### The Second Term of Donald Trump: What could we expect?
-
-*2025-01-01 01:26:00* · [`islandlk`](http://island.lk/the-second-term-of-donald-trump-what-could-we-expect/) · `en`
-
-(This article is based on a talk given to the members of the Sri Lanka Foreign Service Association on the 10th of December, 2024).
-
-I was invited to address you today on the topic of what the second coming of Donald Trump, as President of the United States holds for the United States and the wider world outside of its shores. I was also requested to explain to you the Electoral College process by which a president is elected in the United States. This is a process that baffles even those familiar with the United States and the way its institutions function, as it is markedly different from the way in which other democracies elect their presidents and prime ministers.
-
-I shall try my very best to not confuse you in my attempt to explain the manner in which the POTUS, to use the abbreviation for the President of the United States first used by telegraphic code operators in the 1890s, is elected.
-
-...
-
-[Data](articles/54528cdf.json)
-
----
-
-### Why didn’t Sri Lanka end up like Bangladesh?
-
-*2025-01-01 01:18:34* · [`dailyftlk`](https://www.ft.lk/columns/Why-didn-t-Sri-Lanka-end-up-like-Bangladesh/4-771227) · `en`
-
-The mostly peaceful three-month period leading up to the President’s ouster allowed the building of relationships and trust in mainstream political actors and institutions among at least a subset of protesting groups that made them refuse calls to violence
-
-A Nepali colleague asked why Sri Lanka turned out differently from Bangladesh (and he was not implying our outcome was worse). This is a considered answer, within the limits of my observations. Like much of history, this account cannot establish definitive causes for observable effects such as the continued adherence to the Constitution and the economic recovery. Given the complexity of the phenomenon, no one person can know all that happened. So, the account is necessarily incomplete.
-
-...
-
-[Data](articles/ddee3e11.json)
-
----
-
-### Restoring efficiency and integrity: Reforming board practices in State Owned Agencies
-
-*2025-01-01 01:07:39* · [`dailyftlk`](https://www.ft.lk/columns/Restoring-efficiency-and-integrity-Reforming-board-practices-in-State-Owned-Agencies/4-771226) · `en`
-
-Their effectiveness is often undermined by politicisation in board appointments, inefficiency, and a lack of
-
-Introduce legal provisions to hold boards collectively responsible for institutional failures
-
-Effective governance is the cornerstone of any successful organisation, and Government-appointed boards play a pivotal role in steering public institutions toward success. In Sri Lanka, however, the appointment process for board members has become increasingly politicised, often lacking the transparency, accountability, and professionalism necessary for good governance. This has led to persistent issues such as mismanagement, inefficiency, and corruption, particularly within State Owned Agencies (SOA) which are a significant contributor to the nation’s ongoing economic crisis for decades.
-
-...
-
-[Data](articles/e0249524.json)
-
----
-
-### CCPI-based headline inflation remains negative in December
-
-*2025-01-01 00:55:09* · [`dailyftlk`](https://www.ft.lk/business/CCPI-based-headline-inflation-remains-negative-in-December/34-771224) · `en`
-
-In line with the Central Bank’s near term projections, headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index (CCPI) remained in the negative territory for the fourth consecutive month, recording a deflation of 1.7% in December 2024 compared to the deflation of 2.1% in November 2024.
-
-Central Bank said non-food deflation (Y-o-Y) moderated to 3.0% in December 2024 from 3.3% in November 2024. Food inflation (Y-o-Y) showed a marginal uptick recording 0.8% in December 2024 from 0.6% November 2024.
-
-On a month-on-month basis, the CCPI recorded an increase of 1.19% in December 2024 due to the combined effect of 1.24% increase in the prices of items in the Food category and 0.06% reduction in the prices of items in the non-food category.
-
-CBSL also said core inflation (Y-o-Y), which reflects the underlying inflation trends in the economy, remained unchanged at 2.7% in December 2024.
-
-...
-
-[Data](articles/d373c7cb.json)
-
----
-
-### Govt. extends further support to small and medium paddy mill owners
-
-*2025-01-01 00:54:40* · [`dailyftlk`](https://www.ft.lk/business/Govt-extends-further-support-to-small-and-medium-paddy-mill-owners/34-771223) · `en`
-
-In a bid to support the small and medium scale paddy mill owners and ensure fair prices for paddy harvest, the Government has decided to continue the Pledge Loan Scheme under subsidised interest rates.
-
-The decision to this effect was taken at the Cabinet of Ministers meeting on Monday.
-
-“The approved program will be rolled out from the 2024/2025 Maha cultivation season and beyond, with loans capped at a maximum of Rs. 50 million,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the post-Cabinet meeting media briefing yesterday.
-
-He said the State and private banks will extend the loans to eligible mill owners with a daily mailing capacity of up to 25 tons. “Cooperative societies operating paddy mills will also be included under the scheme,” he added.
-
-Dr. Jayatissa said the scheme initially introduced during 2023 has shown significant progress in strengthening the operations of small and medium scale millers and stabilising paddy prices.
-
-...
-
-[Data](articles/9f89d0d6.json)
-
----
-
-### Cabinet clears amendment to Electricity Act to ensure sustainable power
-
-*2025-01-01 00:54:10* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-amendment-to-Electricity-Act-to-ensure-sustainable-power/34-771222) · `en`
-
-The Cabinet of Ministers at its meeting on Monday approved reviewing and amending the Sri Lanka Electricity Act No. 36 of 2024 in response to concerns raised by stakeholders regarding its effectiveness in achieving the intended objectives.
-
-Since its implementation on 27 June 2024, various parties have pointed out that the provisions of the Act as well as the roles and responsibilities of proposed institutions may fall short of creating a secure, sustainable and efficient power sector.
-
-“Acknowledging these concerns the Cabinet decided to reconsider the Act’s objectives,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said yesterday.
-
-Speaking at the weekly post-Cabinet meeting media briefing, he said to facilitate this, a Committee comprising key stakeholders and experts in the field of power and energy will be appointed.
-
-...
-
-[Data](articles/d795de68.json)
-
----
-
-### Two new operators for branded clothing shops at BIA
-
-*2025-01-01 00:53:45* · [`dailyftlk`](https://www.ft.lk/business/Two-new-operators-for-branded-clothing-shops-at-BIA/34-771221) · `en`
-
-The Cabinet of Ministers approved awarding contracts to three new operators for branded clothing shops in the departure and transit areas of the Bandaranaike International Airport (BIA) in Katunayake for three to four years.
-
-The approved operators are Odel PLC and Insomn Ltd., chosen based on the recommendations of the Standing Procurement Committee appointed by the Cabinet of Ministers.
-
-Following an international competitive bidding process, the selection process attracted bids from three companies, with two successful bidders securing the opportunity to operate branded men’s and women’s outlets for a duration of three to four years.
-
-The Cabinet of Ministers also approved the recall of bids for additional shops, ensuring that future opportunities align with the strategic development goals of the airport’s commercial offerings.
-
-◼️
-
-[Data](articles/1b13ac02.json)
-
----
-
-### Centrum Marine Consultancy wins prestigious award for empowering women in maritime with “She Can Sail the Seas” initiative
-
-*2025-01-01 00:52:09* · [`dailyftlk`](https://www.ft.lk/business/Centrum-Marine-Consultancy-wins-prestigious-award-for-empowering-women-in-maritime-with-She-Can-Sail-the-Seas-initiative/34-771220) · `en`
-
-Centrum Marine Consultancy Managing Director Kalinga De Silva along with team, receiving “Empowering Diversified Maritime Education” award at 5th annual Maritime SheEO Conference
-
-Centrum Marine Consultancy Ltd., a leader in maritime HR and a strong advocate for gender diversity, has been awarded the prestigious “Empowering Diversified Maritime Education” accolade at the 5th annual Maritime SheEO Conference. This recognition celebrates their groundbreaking initiative, “She Can Sail the Seas”, Sri Lanka’s first female cadetship program, launched in partnership with Peter Döhle Schiffahrts-KG. This award reaffirms Centrum Marine Consultancy’s commitment to bridging the gender gap in maritime and creating equal opportunities for women at sea.
-
-...
-
-[Data](articles/95dfc237.json)
-
----
-
-### Everbolt Engineering wins three titles at Western Province – Entrepreneur Awards 2024
-
-*2025-01-01 00:48:04* · [`dailyftlk`](https://www.ft.lk/business/Everbolt-Engineering-wins-three-titles-at-Western-Province-Entrepreneur-Awards-2024/34-771219) · `en`
-
-Everbolt Engineering Ltd., a leading electrical engineering service provider in Sri Lanka, has won three awards at the Western Province – Entrepreneur Awards 2024 organised by the National Chamber of Commerce of Sri Lanka (NCCSL) and National Enterprise Development Authority (NEDA).
-
-It won the Silver award for the ‘Best Entrepreneur of the Year’ (Overall winner), Gold award for ‘Best Innovative Enterprise’, and Gold award for ‘Best Enterprise of the Service Sector’ under the Medium category.
-
-Since its inception, Everbolt has made significant strides in the industrial automation and engineering sector. The company offers a wide range of electrical products and engineering services, such as electrical panel fabrication and installation, soft starters, VFD panels, industrial wiring, lighting arrester and earthing systems, capacitor banks, vision-based applications, web-based applications, online data monitoring, and machine controlling.
-
-...
-
-[Data](articles/d2ff9756.json)
-
----
-
-### Iranian Ambassador meets Finance Ministry Secretary
-
-*2025-01-01 00:46:14* · [`dailyftlk`](https://www.ft.lk/business/Iranian-Ambassador-meets-Finance-Ministry-Secretary/34-771218) · `en`
-
-Iranian Ambassador Alireza Delkhosh met with Finance Ministry Secretary Mahinda Siriwardana yesterday discussing several important matters with the Ministry Secretary. Department of External Resource of the Finance Ministry Director General R.M.S.P.S. Bandara and Chamber of Tourism and Industry President A. M. Jaufer also attended this meeting.
-
-◼️
-
-[Data](articles/dbe95d7a.json)
 
 ---

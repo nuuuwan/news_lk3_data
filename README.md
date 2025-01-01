@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 23:01:08**
+As of **2025-01-01 23:12:53**
 
 ## Newspaper Stats
 
-*Scraped **63,163** Articles*
+*Scraped **63,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,380
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,723
-tamilmirrorlk | 9,059
+tamilmirrorlk | 9,060
 virakesarilk | 10,508
 adaderanasinhalalk | 10,909
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,163 articles have been extended.
+61,971 (98.1%) of 63,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### புலமைப்பரிசில் பரீட்சை ; இறுதித் தீர்மானம் வெளியானது
+
+*2025-01-01 23:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-இறுதித்-தீர்மானம்-வெளியானது/175-349638) · `ta`
+
+தரம் 5 புலமைப்பரிசில் பரீட்சையில் கசிந்த 3 வினாக்களுக்கு 'இலவச மதிப்பெண்' வழங்குவதற்கு பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர விடுத்துள்ள ஊடக அறிக்கையில் இதனைத் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/861b0f0f.json)
+
+---
 
 ### e-Traffic என்ற புதிய செயலியை அறிமுகப்படுத்திய பொலிஸ்!
 
@@ -1865,17 +1877,5 @@ Misty conditions can be expected at some places in Western, Sabaragamuwa and Cen
 ...
 
 [Data](articles/bb3c700e.json)
-
----
-
-### ‘Invest Sri Lanka’ forum to be held in March 2025 in Colombo
-
-*2025-01-01 03:23:00* · [`islandlk`](http://island.lk/invest-sri-lanka-forum-to-be-held-in-march-2025-in-colombo/) · `en`
-
-The Colombo Stock Exchange (CSE) and the Securities and Exchange Commission of Sri Lanka (SEC) in association with the Stock Broker industry, will host the “Invest Sri Lanka” Capital Market Investor Forum on March 27th and 28th 2025, at the Shangri-La Hotel in Colombo. The event is aimed at promoting investment in the Sri Lankan capital market among institutional investors and fund managers based both locally and internationally.
-
-...
-
-[Data](articles/d103e5c2.json)
 
 ---

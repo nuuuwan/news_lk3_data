@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 15:43:34**
+As of **2025-01-01 16:02:14**
 
 ## Newspaper Stats
 
-*Scraped **63,109** Articles*
+*Scraped **63,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,031
 adaderanalk | 7,713
-tamilmirrorlk | 9,053
+tamilmirrorlk | 9,057
 virakesarilk | 10,493
 adaderanasinhalalk | 10,900
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 10,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,109 articles have been extended.
+61,970 (98.2%) of 63,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### நாமல் குமார கைது
+
+*2025-01-01 15:52:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-குமார-கைது/175-349619) · `ta`
+
+சமூக ஆர்வலர் நாமல் குமாரவை கொழும்பு குற்றத்தடுப்பு பிரிவினர் கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3f13698e.json)
+
+---
+
+### நாமல் குமார கைது
+
+*2025-01-01 15:51:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-குமார-கைது/175-349618) · `ta`
+
+சமூக ஆர்வலர் நாமல் குமாரவை கொழும்பு குற்றத்தடுப்பு பிரிவினர் கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/644caacd.json)
+
+---
+
+### இலங்கையில் வருடாந்த பிறப்பு வீதம் வீழ்ச்சி
+
+*2025-01-01 15:49:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-வருடாந்த-பிறப்பு-வீதம்-வீழ்ச்சி/175-349617) · `ta`
+
+இலங்கையில் வருடாந்த பிறப்பு வீதம் கணிசமான வீழ்ச்சியை பதிவு செய்துள்ளதாக குழந்தை நல மருத்துவ ஆலோசகர் வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+இலங்கையின் வருடாந்த பிறப்பு வீதம் 350,000 இலிருந்து 250,000 ஆக குறைந்துள்ளதாக தீபால் பெரேரா தெரிவித்தார்.
+
+ஆட்டிசம் மட்டுமின்றி புற்றுநோய், நீரிழிவு நோய் போன்ற நோய்களும் குழந்தைகளை அதிகம் பாதிப்பதாக தெரிய வந்துள்ளது என அவர் தெரிவித்தார்.
+
+எனவே தற்போதைய சூழ்நிலையில் சிறுவர்கள் பாதுகாக்கப்பட வேண்டும் என தீபால் பெரேரா வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/626db962.json)
+
+---
+
+### ’’பஸ் கட்டணத்தை உயர்த்த வேண்டிய நிலை ஏற்படும்’’
+
+*2025-01-01 15:40:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-கட்டணத்தை-உயர்த்த-வேண்டிய-நிலை-ஏற்படும்/175-349616) · `ta`
+
+எரிபொருள் விலை திருத்தம் தொடர்பான அரசாங்கத்தின் தீர்மானங்களினால் பஸ் கட்டணத்தை குறைப்பது மக்களின் தொலைதூர கனவாக மாறியுள்ளதாக லங்கா தனியார் பஸ் உரிமையாளர்கள் சங்கத்தின் (LPBOA) தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், புதிய அரசாங்கத்தின் நிர்வாகத்தை தொடர்ந்து எரிபொருள் விலை குறையும் என பொதுமக்கள் எதிர்பார்த்துள்ளதாக குறிப்பிட்டார்.
+
+இந்த புத்தாண்டின் தொடக்கத்தில் எரிபொருள் விலை குறையும் என எதிர்பார்த்தோம், ஆனால் அந்த நம்பிக்கை தற்போது கனவாக மாறியுள்ளது.
+
+“பஸ் கட்டணம் குறைக்கப்பட வேண்டுமானால், கொள்கை கணக்கீட்டின்படி டீசல் விலையை குறைந்தது ரூ.30 ஆல் குறைக்க வேண்டும்.
+
+மேலும், எரிபொருள் விலை மட்டுமின்றி, உதிரி பாகங்கள் மற்றும் இதர உபகரணங்களின் விலையும் குறைய வேண்டும். தனியார் பஸ் சேவை தற்போது நெருக்கடியான நிலையில் உள்ளது. எனவே, இந்த ஆண்டு ஜூலை மாதத்திற்கு பின், செலவுகளை நிர்வகிக்க பஸ் கட்டணத்தை கணிசமாக உயர்த்த வேண்டிய நிலை ஏற்படும்" என்றார்.
+
+...
+
+[Data](articles/bf888fd7.json)
+
+---
 
 ### அசெம்பிள் செய்யப்பட்ட வாகனங்களுடன் சிக்கிய சந்தேகநபர்
 
@@ -1713,83 +1775,5 @@ UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have 
 ◼️
 
 [Data](articles/9e3e6146.json)
-
----
-
-### කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ ට මාරුවක්
-
-*2024-12-31 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204913) · `si`
-
-කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතාට අධිකරණ සේවා කොමිසම විසින් ස්ථාන මාරුවක් ලබාදී තිබෙන බව වාර්තා වෙයි.
-
-අද දෙරණ අධිකරණ වාර්තාකරු සඳහන් කළේ, ඒ අනුව තිළිණ ගමගේ මහතාට මොරටුව දිසා අධිකරණය වෙත මාරුවීමක් ලබාදී තිබෙන බව වාර්තාවී ඇති බවය.
-
-රුපියල් ලක්ෂ 90ක අල්ලසක් ලබාගැනීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු බස්නාහිර පළාත් සභා මන්ත්‍රී සලෝචන ගමගේ ඇතුළු සැකකරුවන් දෙදෙනෙකුට අදාළ නඩුව විභාග කිරීම සඳහා වෙනත් මහෙස්ත්‍රාත්වරයෙකු පත් කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා ලෙස කටයුතු කළ තිළිණ ගමගේ මහතා ඊයේ අධිකරණ සේවා කොමිසම වෙත ලිඛිත ඉල්ලීමක් යොමු කර තිබුණි.
-
-◼️
-
-[Data](articles/7bdb17ca.json)
-
----
-
-### உலகிலேயே முதல் நாடாக நியூசிலாந்தில் விடைபெற்றது 2024! பிறந்தது புத்தாண்டு!
-
-*2024-12-31 20:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202668) · `ta`
-
-உலகிலேயே முதல் நாடாக நியூசிலாந்தில், 2024ஆம் ஆண்டு முடிந்து 2025ஆம் ஆண்டு பிறந்தது.
-
-இந்தியா உள்ளிட்ட நாடுகளில் இன்னும் ஒரு சில மணி நேரங்களில் புத்தாண்டு பிறக்கவிருக்கிறது. பல நகரங்களில் டிசம்பர் 31ஆம் தேதி மாலை முதலே புத்தாண்டுக் கொண்டாட்டங்கள் களைகட்டத் தொடங்கிவிடும்.
-
-2024ஆம் ஆண்டு முடிந்து 2025ஆம் ஆண்டு தொடங்கவிருக்கும் நிகழ்வை உலகமே கொண்டாடத் தயாராகி வருகிறது. பலரும் அவரவருக்கு உரிய முறையில் புத்தாண்டை வரவேற்கத் தயாராவார்கள்.
-
-உலகிலேயே முதல் நாடாக நியூசிலாந்தின் ஆக்லாந்தில் புத்தாண்டு பிறந்துள்ளது. இலங்கை நேரப்படி செவ்வாய்க்கிழமை மாலை 4.40 மணிக்கு, நியூசிலாந்தில் நள்ளிரவு 12 மணி.
-
-புத்தாண்டு பிறப்பை முன்னிட்டு, மக்கள் வாண வேடிக்கைகளுடன் புத்தாண்டு வாழ்த்துகளை பரிமாறி ஆரவாரத்துடன் புத்தாண்டை வரவேற்றனர்.
-
-உலக நேரக் கணக்கின்படி, கிரிபாட்டி தீவுக்கு அடுத்த நியூசிலாந்து நாட்டில்தான் புத்தாண்டு பிறந்துள்ளது. புத்தாண்டைக் கொண்டாடும் வகையில் ஆக்லாந்த நாட்டின் ஸ்கை டவரில் வாண வேடிக்கைகள் நிகழ்த்தப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/de28fc87.json)
-
----
-
-### Sri Lanka stocks up 49-pct in 2024, share values rise Rs1.4 trillion: analysis
-
-*2024-12-31 20:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-up-49-pct-in-2024-stock-values-rise-rs1-4-trillion-197339/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks rose 49 percent measured by the Colombo All Share Index in 2024 as the economy recovered from a currency crisis, companies posted higher nominal profits and costs and interest rates fell amid deflationary policy.
-
-Stock values rose by 1.4 trillion to 5.6 trillion rupees, inclusive of capital raisings by several companies, exceeding a 5.4 trillion level reached in 2021 as the central bank cut rates and pumped money market full of excess liquidity.
-
-Sri Lanka’s currency collapsed in 2022, from around 184 in 2020 to 360 in 2022 and is now back at around 295 to the US dollar inflating the nominal value of economic activities.
-
-Sri Lanka’s central bank tightened monetary policy in 2022, after the worst currency crisis in its history as macro-economists triggered a textbook ‘barber boom’ involving rate and tax cuts that
-
-Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 1970s.
-
-...
-
-[Data](articles/e49dcc2b.json)
-
----
-
-### Sri Lanka stocks up 49-pct in 2024, share values rise Rs1.4 trillion: analysis
-
-*2024-12-31 20:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-49-pct-in-2024-share-values-rise-rs1-4-trillion-analysis-197339/) · `en`
-
-ECONOMYNEXT – Sri Lanka stocks rose 49 percent measured by the Colombo All Share Index in 2024 as the economy recovered from a currency crisis, companies posted higher nominal profits and costs and interest rates fell amid deflationary policy.
-
-Stock values rose by 1.4 trillion to 5.6 trillion rupees, inclusive of capital raisings by several companies, exceeding a 5.4 trillion level reached in 2021 as the central bank cut rates and pumped money market full of excess liquidity.
-
-Sri Lanka’s currency collapsed in 2022, from around 184 in 2020 to 360 in 2022 and is now back at around 295 to the US dollar inflating the nominal value of economic activities.
-
-Sri Lanka’s central bank tightened monetary policy in 2022, after the worst currency crisis in its history as macro-economists triggered a textbook ‘barber boom’ involving rate and tax cuts that
-
-Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 1970s.
-
-...
-
-[Data](articles/f0fc2f1d.json)
 
 ---

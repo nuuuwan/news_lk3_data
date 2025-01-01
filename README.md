@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 16:15:38**
+As of **2025-01-01 16:27:37**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 10,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,114 articles have been extended.
+61,971 (98.2%) of 63,114 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
 
-### நாமல் குமார கைது
+### Namal Kumara arrested
 
 *2025-01-01 15:52:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமல்-குமார-கைது/175-349619) · `ta`
 
-சமூக ஆர்வலர் நாமல் குமாரவை கொழும்பு குற்றத்தடுப்பு பிரிவினர் கைது செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Namal Kumara, a social activist, was arrested by the Colombo Crime Branch, according to police reports.
+
+🟩
+
+The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 
 ◼️
 
 [Data](articles/3f13698e.json)
+
+[Extended Data](ext_articles/3f13698e.ext.json)
 
 ---
 

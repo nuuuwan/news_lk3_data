@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 12:03:32**
+As of **2025-01-01 12:18:23**
 
 ## Newspaper Stats
 
-*Scraped **63,089** Articles*
+*Scraped **63,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 6,025
 adaderanalk | 7,711
 tamilmirrorlk | 9,050
 virakesarilk | 10,492
-adaderanasinhalalk | 10,896
+adaderanasinhalalk | 10,898
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,089 articles have been extended.
+61,970 (98.2%) of 63,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### බස් රථයකට යටවී කුඩා දරුවෙක් මරුට
+
+*2025-01-01 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204927) · `si`
+
+බස් රථයකට යටවීමෙන් වයස අවුරුදු හතක දරුවෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ (31) සවස වව්නියාව, පාවක්කුලම, යුනිට් 02 ප්‍රදේශයේදී  එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+පාපැදියකින් මිතුරන් පිරිසක් සමඟ ගමන්ගත් දරුවෙකුගේ පාපැදිය බස් රථයේ ගැටී ඇති අතර, අනතුරුව දරුවා පසුපස රෝදයේ ගැටී ඇති බව වාර්තා වෙයි.
+
+අනතුරින් තුවාල ලැබූ දරුවා වව්නියාව සෙට්ටිකුලම රෝහලට ඇතුළත් කිරීමේදී ජිවිතක්ෂයට පත්ව ඇති බවද පොලීසිය පවසයි.
+
+මියගිය දරුවාගේ මරණය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ වව්නියාව සෙට්ටිකුලම රෝහල් මෘත ශරීරාගාරයේදී පැවැත්වීමට නියමිතය.
+
+අනතුර සම්බන්ධයෙන් බස් රථ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර, සිද්ධිය සම්බන්ධයෙන් උළුක්කුලම පොලීසිය වැඩිදුර පරීක්ෂණ මෙහෙයවයි.
+
+◼️
+
+[Data](articles/a691d256.json)
+
+---
+
+### ශ්‍රී ලංකා රේගුවෙන් වාර්තාගත ආදායමක්
+
+*2025-01-01 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204926) · `si`
+
+‍ශ්‍රී ලංකා රේගුව විසින් පසුගිය වසරේදී රුපියල් ට්‍රිලියන 1.5ක් ඉක්ම වු ආදායමක් වාර්තා කර තිබේ.
+
+ඒ අනුව රුපියල් ට්‍රිලියන 1.515ක ආදායමක් පසුගිය වසරේ දී වාර්තා වී ඇති බව රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා පැවසුවේය.
+
+රජය විසින් 2024 වසර සඳහා ලබා දී තිබූ රුපියල් ට්‍රිලියන 1.533ක ආදායම් ඉලක්කය ආසන්නය දක්වා පැමිණීමට ශ්‍රී ලංකා රේගුවට හැකිවී ඇති බව සඳහන්ය.
+
+රජයේ බදු ප්‍රතිපත්තිය, ආනයන ප්‍රමාණය ඉහළ යාම හා රේගු කළමනාකාරිත්වය විසින් සිදුකරන ලද බදු එකතුකිරීමේ ක්‍රියාවලිය කාර්යක්ශම කිරීම මේ සඳහා බලපා ඇති බව ශ්‍රී ලංකා රේගුව වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c64881c6.json)
+
+---
 
 ### ”நான் அரசைக் காட்டிக் கொடுக்க முற்படவில்லை”
 
@@ -1741,39 +1781,5 @@ Accordingly, he had requested the Judicial Services Commission in writing to app
 ...
 
 [Data](articles/be3adf2c.json)
-
----
-
-### மறைந்த இந்திய பிரதமருக்கு எதிர்க்கட்சித் தலைவர் இரங்கல் தெரிவிப்பு
-
-*2024-12-31 18:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202647) · `ta`
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்றைய தினம் செவ்வாய்க்கிழமை (31) கொழும்பிலுள்ள இந்திய உயர்ஸ்தானிகராலயத்தில் மறைந்த இந்தியாவின் முன்னாள் பிரதமர் கலாநிதி மன்மோகன் சிங் அவர்களுக்கு தனது இரங்கலைத் தெரிவித்துள்ளார்.
-
-மறைந்த கலாநிதி மன்மோகன் சிங்கின் குடும்பத்தினருக்கும், இந்திய அரசாங்கத்திற்கும் தனது இரங்கலை இதன்போது தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/1e932ac4.json)
-
----
-
-### Debate on 2025 Appropriation Bill begins on Feb. 18
-
-*2024-12-31 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104627/debate-on-2025-appropriation-bill-begins-on-feb-18) · `en`
-
-It has been decided at the meeting of the Committee on Parliamentary Business held in Parliament today (31) under the patronage of the Speaker Dr. Jagath Wickramaratne that the debate on the Appropriation Bill for the year 2025 (Budget Debate) will be held from February 18 to March 21, 2025.
-
-This was communicated by the Secretary General of Parliament, Mrs. Kushani Rohanadeera.
-
-Meanwhile, it has also been decided to present the Appropriation Bill for the year 2025 to Parliament for the first reading on 09 January 2025.
-
-Accordingly, the second reading (Budget Speech) of the Appropriation Bill is scheduled to be held on February 17 and the second reading debate is scheduled to be held for 7 days from February 18 to 25.
-
-Thereafter, the vote on the second reading of the bill is scheduled to be held on February 25 at 6.00 p.m.
-
-...
-
-[Data](articles/779d4092.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 03:01:45**
+As of **2025-01-02 03:12:48**
 
 ## Newspaper Stats
 
-*Scraped **63,185** Articles*
+*Scraped **63,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,385
+dailyftlk | 4,389
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,11 +26,73 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,185 articles have been extended.
+61,971 (98.1%) of 63,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### FSP blames negligence, conspiracy for rejected Govt. rice import tenders
+
+*2025-01-02 03:03:39* · [`dailyftlk`](https://www.ft.lk/news/FSP-blames-negligence-conspiracy-for-rejected-Govt-rice-import-tenders/56-771292) · `en`
+
+FSP’s Pubudu Jayagoda calls for immediate investigation into rejection of Govt. tenders for rice imports
+
+Alleges possible negligence by officials or deliberate conspiracy aimed at destabilising Govt.
+
+Criticises Govt.’s inability to manage rice market effectively, despite surplus production
+
+Reiterates its demand for Govt. to break monopoly of large-scale rice mill owners and investigate them
+
+Frontline Socialist Party (FSP) Education Secretary Pubudu Jayagoda has called for an immediate investigation into the rejection of Government tenders for rice imports amidst the ongoing rice shortage in Sri Lanka. Speaking at a special media briefing held at the FSP’s office in Nugegoda yesterday, Jayagoda alleged possible negligence by officials or a deliberate conspiracy aimed at destabilising the Government.
+
+...
+
+[Data](articles/85a2f0d7.json)
+
+---
+
+### President AKD greets Archbishop of Colombo
+
+*2025-01-02 03:02:27* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-greets-Archbishop-of-Colombo/56-771291) · `en`
+
+President Anura Kumara Dissanayake greets Archbishop of Colombo Cardinal Malcolm Ranjith, who was among the clergy invited for the launch of the ‘Clean Sri Lanka’ program yesterday at the Presidential Secretariat premises.
+
+◼️
+
+[Data](articles/e8202e1b.json)
+
+---
+
+### Namal Kumara remanded until 15 Jan.
+
+*2025-01-02 03:00:46* · [`dailyftlk`](https://www.ft.lk/news/Namal-Kumara-remanded-until-15-Jan/56-771290) · `en`
+
+Self-proclaimed activist Namal Kumara has been remanded until 15 January by the Colombo Fort Magistrate. Kumara was taken into custody when he arrived at the Colombo Crime Division (CCD) to provide a statement yesterday.
+
+The arrest follows a complaint lodged by Namal Kumara with the Presidential Secretariat and the Criminal Investigation Department (CID) regarding an audio recording that allegedly tarnished the reputation of the Archbishop of Colombo Malcolm Cardinal Ranjith.
+
+The Catholic Church has since urged authorities to investigate the matter thoroughly. The Colombo Archdiocese, through its Media Director Rev. Fr. Jude Krishantha, has expressed concerns about Kumara’s alleged involvement in controversial activities. Rev. Fr. Krishantha said that Kumara was reportedly a supporter of the 2019 Easter Sunday attack and was allegedly orchestrating another drama under the influence of a third party.
+
+...
+
+[Data](articles/905743f7.json)
+
+---
+
+### Govt. says funding needy school children  to purchase stationery ensures education for all
+
+*2025-01-02 03:00:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-says-funding-needy-school-children-to-purchase-stationery-ensures-education-for-all/56-771289) · `en`
+
+The Finance Ministry yesterday said the Government expects the scheme to fund purchase of stationery for needy school children will provide big relief to both parents and students apart from ensuring education for all.
+
+In a statement, the Finance Ministry said the “Household Survey on the Impact of the Economic Crisis – 2023,” conducted by the Department of Census and Statistics, states that the adverse effects of the economic crisis have significantly impacted children’s education. The survey reveals that 55% of school children have been adversely affected, with this percentage being higher in rural and estate areas. Furthermore, it was found that 53.2% of the affected children have either reduced or completely stopped purchasing school stationery, while 26.1% have resorted to re-using previously used stationery.
+
+...
+
+[Data](articles/15762323.json)
+
+---
 
 ### Oya Madu debacle – authorities gone mad?
 
@@ -1783,73 +1845,5 @@ The return flight departs Colombo at 10:05 PM, reaching Dubai at 1:05 AM the nex
 ...
 
 [Data](articles/1c643f1e.json)
-
----
-
-### දූෂණය, වාංචාව නැති කරන්න දේශපාලන අධිකාරිය මෙන්ම රාජ්‍ය ආයතනත් වගකීම් ඉටු කරන්න ඕනෑ
-
-*2025-01-01 09:38:07* · [`adalk`](https://www.ada.lk/breaking_news/දූෂණය--වාංචාව-නැති-කරන්න-දේශපාලන-අධිකාරිය-මෙන්ම-රාජ්‍ය-ආයතනත්-වගකීම්-ඉටු-කරන්න-ඕනෑ/11-413953) · `si`
-
-දූෂණය, වාංචාව නැති කරන්න දේශපාලන අධිකාරිය මෙන්ම රාජ්‍ය ආයතනත් වගකීම් ඉටු කිරීම අවශ්‍ය වන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-දැන් පැවත්වෙන CLEAN SRI LANKA වැඩසටහනේ සමාරම්භක අවස්ථාවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“දේශපාලන අධිකාරිය හැටියට අපි ආදර්ශයෙනුත්, ක්‍රියාමාර්ග වලිනුත් මේ දූෂණය නතර කරන්නත් , වංචාව නතර කරන්නත් අපි ආදර්ශය සපයනවා. ඒත් දේශපාලන අධිකාරියේ ආදර්ශය සහ මැතිහත්වීම පමණක් ප්‍රමාණවත් වන්නේ නෑ. ඊට අවශ්‍ය වන රාජ්‍ය ආයතනයන් තමන්ට පැවරී තිබෙන වගකීම නිසි පරිදි තේරුම්ගෙන , නිසි බරෙන් තේරුම්ගෙන ඒ වෙනස් කිරීම සඳහා දායකත්වය, සහය ලබා දෙන්නේ නැතිනම් ඒ අදාළ ආයතන වලින් ඉල්ලා සිටින්න ලෑස්තියි ඒ අදාළ අයාතනයන්ගෙන් සහය අපිට අවශ්‍යයි.”
-
-◼️
-
-[Data](articles/4460149c.json)
-
----
-
-### ’’க்ளீன் ஶ்ரீலங்கா’’ தேசிய வேலைத்திட்டம் ஆரம்பம்
-
-*2025-01-01 09:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க்ளீன்-ஶ்ரீலங்கா-தேசிய-வேலைத்திட்டம்-ஆரம்பம்/175-349600) · `ta`
-
-அரச துறை மற்றும் தனியார் துறையினரால் முன்னெடுக்கப்படும் “க்ளீன் ஶ்ரீலங்கா” (தூய்மையான இலங்கை) வேலைத்திட்டத்தின் ஆரம்ப நிகழ்வு ஜனாதிபதி அநுர குமார திசாநாயக்கவின் தலைமையில் இன்று (1) ஜனாதிபதி அலுவலகத்தில் இடம்பெறுகின்றது.
-
-பொது நிறுவனங்களின் தலைவர்கள் உள்ளிட்டவர்களின் பங்கேற்புடன் ஜனாதிபதி அலுவலகத்தில் இடம்பெறும் நிகழ்வுகளுக்கு நிகராக ஒரே நேரத்தில் தமது பணியிடங்களில் பணிகளை ஆரம்பிக்க வேண்டும் என பொது நிர்வாகம், மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சு தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/457d5095.json)
-
----
-
-### இலங்கைக்குடியரசிற்கும் அதன் மக்களுக்கும் நன்மைபயக்கும் ஆண்டாக அமையட்டும் :  புத்தாண்டு வாழ்த்துச் செய்தியில் சவூதி அரேபியத்தூதுவர்
-
-*2025-01-01 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202678) · `ta`
-
-எனது சார்பிலும், இலங்கை குடியரசில் உள்ள சவூதி அரேபிய தூதரகத்தில்  பணியாற்றும் எனது சக ஊழியர்களின் சார்பிலும், இலங்கை நட்பு அரசாங்கத்திற்கும் அதன் மக்களுக்கும் எனது மனமார்ந்த  புத்தாண்டு நல்வாழ்த்துக்களைத் தெரிவிப்பதில் பெருமகிழ்ச்சி அடைகிறேன் என இலங்கைக்கான சவூதி அரேபியத்தூதுவர் காலித் பின் ஹமூத் அல் - கஹ்தானி தெரிவித்துள்ளார்.
-
-இலங்கைக்கான சவூதி அபேியத்தூதுவர் காலித் பின் ஹமூத் அல் - கஹ்தானி அனுப்பி வைத்துள்ள வாழ்த்துச் செய்தியில் மேலும் குறிப்பிடப்பட்டுள்ளதாவது,
-
-இவ் ஆண்டு இலங்கைக்குடியரசிற்கும் அதன் மேன்மைமிகு மக்களுக்கும் நன்மை, அமைதி மற்றும் செழிப்பு நிறைந்த ஆண்டாக இருக்க வேண்டும் என்றும், எமது இரு நாடுகளுக்கும் இடையிலான ஒத்துழைப்பு மற்றும் உறவு அனைவருக்கும் நன்மை பயக்கும் வகையில் தொடர வேண்டும் என்று எல்லாம் வல்ல இறையவனிடம் பிரார்த்திக்கிறோம்.
-
-புத்தாண்டு நல்வாழ்த்துகள்! முழு உலகமும் அமைதியும் செழிப்பும் அடைய இறைவன் அருள் புரியட்டும் என குறிப்பிடப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/d1b49bce.json)
-
----
-
-### புத்தாண்டு அன்பையும் மகிழ்ச்சியையும் அனைவரிடத்திலும் பகிர்ந்து கொள்ளும் ஆண்டாக அமைய வேண்டும்! - இ.தொ.கா தலைவர் செந்தில் தொண்டமான்
-
-*2025-01-01 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202676) · `ta`
-
-மலர்ந்துள்ள இந்த புதுவருடம் அனைத்து மக்களுக்கும் செழிப்பானதும் மகிழ்ச்சிகரமானதுமாக அமையட்டும் என இ.தொ.காவின் தலைவர் செந்தில் தொண்டமான் வெளியிட்டுள்ள புத்தாண்டு வாழ்த்து செய்தியில் குறிப்பிட்டுள்ளார்.
-
-“ஒரு புதிய வருடத்திற்குள் காலடி எடுத்து வைக்கும் இத்தருணத்தில் இவ்வருடமானது மக்களுக்கு நம்பிக்கையையும் எதிர்பார்ப்பினையும் கொண்டு வருகிற ஆண்டாக அமைய எல்லோருக்கும் பொதுவான இறைவனைப் பிராத்திக்கின்றேன்.
-
-கடந்த வருடத்தில் நாம் கற்றுக்கொண்ட சாதக, பாதக விடயங்களை இந்த ஆண்டின் படிப்பினைகளாக கொண்டு எமது வாழ்வினை வளப்படுத்திக்கொள்வதற்கு பயனாக்கிக் கொள்ளும் அதேவேளை மற்றவர்களின் வாழ்விலும் நன்மையை கொண்டுவருமுகமாகவும் பயன்படுத்திக் கொள்வோமாக.
-
-மேலும் சமூகத்தில் அனைவரும் அன்பையும் மகிழ்ச்சியையும் இவ்வருடத்தில் பகிர்ந்து கொள்ள வேண்டும் என நான் பிரார்த்தனை செய்கிறேன்.
-
-நீதி மற்றும் சமத்துவம் என்பவற்றின் அடிப்படையில் பிரிக்க முடியாத பிளவுபடாத ஒருமித்த நாட்டிற்குள் ஒற்றுமையாகவும்,நல்லிணக்கத்துடனும் இருந்திட இப் புத்தாண்திலிருந்து அரசியல் தலைவர்கள், சமய தலைவர்கள் மற்றும் மக்கள் ஆகிய நாம் ஒன்றிணைந்து செயற்படுவோம்.
-
-◼️
-
-[Data](articles/105ba876.json)
 
 ---

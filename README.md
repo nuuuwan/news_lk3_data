@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 20:43:47**
+As of **2025-01-01 21:02:14**
 
 ## Newspaper Stats
 
-*Scraped **63,158** Articles*
+*Scraped **63,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,838
 economynextcom | 3,844
 dailyftlk | 4,380
 dailymirrorlk | 4,733
-adalk | 6,037
+adalk | 6,038
 adaderanalk | 7,722
 tamilmirrorlk | 9,059
 virakesarilk | 10,506
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,158 articles have been extended.
+61,971 (98.1%) of 63,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -169,6 +169,24 @@ Accordingly, the court also ordered the Commissioner General of Examinations to 
 ◼️
 
 [Data](articles/a1dcbe76.json)
+
+---
+
+### පැය 24කදී බීමත් රියදුරන් 529ක් අල්ලයි
+
+*2025-01-01 18:22:26* · [`adalk`](https://www.ada.lk/breaking_news/පැය-24කදී-බීමත්-රියදුරන්-529ක්-අල්ලයි/11-413966) · `si`
+
+උත්සව සමයේ රථවාහන අනතුරු අවම කර ගැනීම සඳහා සිදුකරන පොලිස් මෙහෙයුම් යටතේ අද (01දා) උදේ 6.00 අවසන් වූ පැය 24ක කාලය තුළදී  රියදුරන් හත්දහස් දෙසිය හැට හතරකට නීතිය ක්‍රියාත්මක කර තිබේ.
+
+මෙම පිරිසෙන් 529ක් බිමත්ව රිය පැදවීම නිසා අත්අඩංගුවට ගෙන තිබෙන අතර,  අපරික්ෂාකාරී හා අන්තරාදායක ලෙස රිය පැදවූ 57කට හා අධික වේගයෙන් රිය පැදවූ 54කට හා මාර්ග නීති උල්ලංඝනය කළ 1,057කට හා බලපත්‍ර වැරදි සම්බන්ධයෙන් 614කට හා වෙනත් වැරදි සම්බන්ධයෙන් 4,953කට නීතිය ක්‍රියාත්මක කර ඇත.
+
+මෙම මෙහෙයුම් පසුගිය 20වන දින ආරම්භ කළ අතර, මේ අනුව පැය 24කාලයක් තුළදී බීමත්ව අත්අඩංගුවට ගත් වැඩිම රියදුරන් ප්‍රමාණය ඊයේ (01දා) උදේ 6.00 අවසන් වූ පැය 24ක කාලය තුළදී අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම විශේෂ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මක කරන බවත්, මේ නිසා මාර්ග නීති පිළිපදිමින් රථවාහන නීති උල්ලංඝනය නොකර රථ ධාවනය කරන ලෙස පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/c39bbc81.json)
 
 ---
 
@@ -1841,19 +1859,5 @@ Two main rating agencies, Fitch and Moody’s, upgraded the government of Sri La
 ...
 
 [Data](articles/2c48e295.json)
-
----
-
-### Empowering women in maritime with ‘She Can Sail the Seas’ initiative
-
-*2025-01-01 03:12:00* · [`islandlk`](http://island.lk/empowering-women-in-maritime-with-she-can-sail-the-seas-initiative/) · `en`
-
-Centrum Marine Consultancy (Pvt) Ltd., a leader in maritime HR and a strong advocate for gender diversity, has been awarded the prestigious “Empowering Diversified Maritime Education” accolade at the 5th annual Maritime SheEO Conference. This recognition celebrates their groundbreaking initiative, She Can Sail the Seas, Sri Lanka’s first female cadetship program, launched in partnership with Peter Döhle Schiffahrts-KG. This award reaffirms Centrum Marine Consultancy’s commitment to bridging the gender gap in maritime and creating equal opportunities for women at sea.
-
-The Maritime SheEO Conference, held at the TAJ Santacruz in Mumbai under the theme “Setting Sail for Equality: Empowering Women Leaders,” brought together global CXOs to champion diversity and inclusivity in the maritime industry. Centrum Marine Consultancy stood out for its innovative approach to promoting gender diversity and fostering a more inclusive workforce.
-
-...
-
-[Data](articles/8b5f3d3a.json)
 
 ---

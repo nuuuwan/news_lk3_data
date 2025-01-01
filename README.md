@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 02:02:24**
+As of **2025-01-02 02:13:12**
 
 ## Newspaper Stats
 
-*Scraped **63,182** Articles*
+*Scraped **63,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,382
+dailyftlk | 4,383
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,182 articles have been extended.
+61,971 (98.1%) of 63,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### Policies to uplift construction industry with sustainability
+
+*2025-01-02 01:55:37* · [`dailyftlk`](https://www.ft.lk/columns/Policies-to-uplift-construction-industry-with-sustainability/4-771273) · `en`
+
+To place the country on a trajectory of rapid economic growth and be in a position to settle the foreign loans confidently without further borrowing, the Government has to take drastic policy measures, learning from the mistakes in the past
+
+As we step into 2025, based on the performance of the construction industry during the period January to September 2024, we can hopefully look forward to a period of positive development. During the first three quarters of 2024, the construction industry recorded satisfactory positive growths of 14.2%, 15.5% and 23.8% respectively. This is a strong indication that we have overcome the recession the industry faced during 2020-2023.
+
+...
+
+[Data](articles/4b7bc77f.json)
+
+---
 
 ### STI: Tri forces for 2025
 
@@ -1831,21 +1845,5 @@ The launch of the ‘Clean Sri Lanka’ national initiative commenced under the 
 ◼️
 
 [Data](articles/94dfe38b.json)
-
----
-
-### මාඳු ගඟ අභය භූමිය බලන්න එන අයගෙන් මුදල් අරගෙන නෑ
-
-*2025-01-01 09:03:42* · [`adalk`](https://www.ada.lk/breaking_news/මාඳු-ගඟ-අභය-භූමිය-බලන්න-එන-අයගෙන්-මුදල්-අරගෙන-නෑ/11-413951) · `si`
-
-බළපිටියේ මාදුගග අභය භූමියක් ලෙස ප්‍රසිද්ධියට පත්කරන ලද 2006 වර්ෂයේ සිට වසර 18 කට අධික කාලයක් එය නැරඹීමට පැමිණෙන සංචාරකයින්ගෙන් ප්‍රවේශපත්‍ර ගාස්තුවක් අය කිරීමට කටයුතු කර නොමැති බවත් මාදුගග අභය භූමියක් ලෙස ප්‍රකාශයට පත් කිරීමට අදාල 2006 ජූලි 17 දිනැති 1454/7 දරණ අති විශේෂ ගැසට් පත්‍රය මගින් මාදුගග ගාල්ල ප්‍රාදේශීය ලේකම් කොට්ඨාශය තුල පිහිටා තිබෙන බවට වූ වරද නිවැරදි කිරීමට කටයුතු කර නොමැති බවත් ජාතික විගණන මහ ලේකම් කාර්යාලය මගින් කරන ලද විගණන පරීක්ෂණයකදී තහවුරු වී තිබේ.
-
-එම ගැසට් නිවේදනය මගින් උපදෙස් ලබා දී ඇති පරිදි මාදුගගේ මායිම් සලකුණු කිරීම මෙන්ම අභය භූමිය නැවැරදිව සිතියම් ගත කිරීමද 2023 දෙසැම්බර් 31 දක්වා වසර 18 කට අධික කාලයක් සිදු කර නොතිබූ බවද අදාල විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
-
-2018 අංක 19 දරණ ජාතික විගණන පනත සහ 1971 අංක 38 දරණ මුදල් පනත අනුව ජාතික විගණන මහ ලේකම් කාර්යාලය වනජීවී දෙපාර්තමේන්තුවේ 2023 වර්ෂයේ කටයුතු සම්බන්ධයෙන් සිදු කරන ලද විගණනයට අදාල විගණන මූල්‍ය ප්‍රකාශනයේ මේ බව සදහන් වේ.
-
-...
-
-[Data](articles/ac55841d.json)
 
 ---

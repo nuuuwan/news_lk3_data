@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 02:43:44**
+As of **2025-01-02 03:01:45**
 
 ## Newspaper Stats
 
-*Scraped **63,184** Articles*
+*Scraped **63,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,384
+dailyftlk | 4,385
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,184 articles have been extended.
+61,971 (98.1%) of 63,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### Oya Madu debacle – authorities gone mad?
+
+*2025-01-02 02:49:04* · [`dailyftlk`](https://www.ft.lk/columns/Oya-Madu-debacle-authorities-gone-mad/4-771288) · `en`
+
+Because they damage crops and cause other numerous damage, everyone blames the elephants and other wildlife. Many now want these animals (thankfully not the wild elephants) slaughtered. This shows our lack of fresh thinking and compassion. We do not seem to have other solutions than the easy method available – slaughter. It is the humans that encroached into jungle land, not vice versa. Today there is very little jungle area left for the wild elephants and other animals to roam. It could be around 12% of the country’s total land mass
+
+At the moment, at least 60 elephants are stranded in the Oya Madu area including in the NLDB farm.
+
+These elephants are the subjects of a drive from Thalawa, Galgamuwa, Thambuththegama areas. To please the villagers in those areas, the authorities chased them out of there.
+
+They are mainly female elephants that live in herds with calves.
+
+...
+
+[Data](articles/bd6d8f51.json)
+
+---
 
 ### Sri Lanka’s private sector needs to rethink ESG
 
@@ -1833,17 +1851,5 @@ The return flight departs Colombo at 10:05 PM, reaching Dubai at 1:05 AM the nex
 ◼️
 
 [Data](articles/105ba876.json)
-
----
-
-### දෙසැම්බරයේ මුල් දින 29ට සංචාරකයන් 233000ක් ඇවිත්
-
-*2025-01-01 09:15:41* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-මුල්-දින-29ට-සංචාරකයන්-233000ක්-ඇවිත්/11-413952) · `si`
-
-දෙසැම්බර් මාසයේ පළමු වැනිදා සිට 29 වැනිදා දක්වා සංචාරකයන් 233087ක් පැමිණ ඇතැයි ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය කියයි. මෙම සංචාරකයන් සංඛ්‍යාවද සමගින් 2024 වසරේ දෙසැම්බර් 29 දා වන විට ශ්‍රී ලංකාවට පැමිණ ඇති සමස්ත සංචාරකයන් සංඛ්‍යාව 2 037 960ක් දක්වා වර්ධනය වි තිබේ.
-
-◼️
-
-[Data](articles/13855fe4.json)
 
 ---

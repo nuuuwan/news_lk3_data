@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 02:13:12**
+As of **2025-01-02 02:27:47**
 
 ## Newspaper Stats
 
-*Scraped **63,183** Articles*
+*Scraped **63,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,383
+dailyftlk | 4,384
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,183 articles have been extended.
+61,971 (98.1%) of 63,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### Sri Lanka’s private sector needs to rethink ESG
+
+*2025-01-02 02:06:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-private-sector-needs-to-rethink-ESG/4-771274) · `en`
+
+Aligning business and finance with climate and biodiversity targets requires deep engagement from the private sector. Sri Lanka has seen a rise in ESG (environmental, social, and governance) initiatives in recent years – from special conferences and workshops discussing ESG, to consulting firms setting up dedicated teams to offer ESG advisory services. But will relying on ESG alone effect change? The answer, as ever, is – it’s not that straightforward.
+
+...
+
+[Data](articles/4fcfbb14.json)
+
+---
 
 ### Policies to uplift construction industry with sustainability
 
@@ -88,7 +100,7 @@ The dualistic character of contemporary Sri Lanka is best evidenced by the contr
 
 ---
 
-### මාතර බන්ධනාගාර බෝ ගසක් කඩා වැටි අයෙක් මරුට
+### මාතර බන්ධනාගාරයේ බෝ ගසක් කඩාවැටී අයෙක් මරුට
 
 *2025-01-01 23:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204945) · `si`
 
@@ -1833,17 +1845,5 @@ The return flight departs Colombo at 10:05 PM, reaching Dubai at 1:05 AM the nex
 ◼️
 
 [Data](articles/13855fe4.json)
-
----
-
-### Launch of ‘Clean Sri Lanka’ national initiative
-
-*2025-01-01 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104635/launch-of-clean-sri-lanka-national-initiative) · `en`
-
-The launch of the ‘Clean Sri Lanka’ national initiative commenced under the patronage of President Anura Kumara Dissanayake at the Presidential Secretariat, a short while ago.
-
-◼️
-
-[Data](articles/94dfe38b.json)
 
 ---

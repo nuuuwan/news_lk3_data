@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 14:28:18**
+As of **2025-01-01 14:43:53**
 
 ## Newspaper Stats
 
-*Scraped **63,103** Articles*
+*Scraped **63,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 465
 colombotelegraphcom | 637
 bbccomsinhala | 663
 islandlk | 3,835
-economynextcom | 3,840
+economynextcom | 3,844
 dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,030
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,900
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,970 (98.2%) of 63,103 articles have been extended.
+61,970 (98.2%) of 63,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-01 (Wednesday)
+
+### Sri Lanka’s women entrepreneurs lack networking opportunities: EDB
+
+*2025-01-01 14:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-women-entrepreneurs-lack-networking-opportunities-edb-197427/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s women entrepreneurs lack networking opportunities with industry leaders, the country’s Export Development Board (EDB) has said.
+
+The trade body recently conducted a networking and knowledge sharing session for women entrepreneurs registered under the Women Entrepreneurship Development Program.
+
+“The event addressed one of the key barriers faced by women entrepreneurs, lack of networking opportunities with industry leaders,” the EDB said.
+
+This session brought together 50 women entrepreneurs, including SME direct exporters and indirect exporters, along with leading exporters and academics.
+
+The event “fostered connections, facilitated knowledge sharing, and encouraged collaboration to help women entrepreneurs navigate international markets,” and featured a panel of speakers who shared their expertise on various topics critical to succeeding in the global marketplace, the trade body said.
+
+...
+
+[Data](articles/fe071de6.json)
+
+---
+
+### Sri Lanka sells extra Rs4.5bn Treasury bonds after auction
+
+*2025-01-01 13:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs4-5bn-treasury-bonds-after-auction-197417/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 4.5 billion rupees of bonds offered on tap at the average rate set at an auction earlier this week, data from the state debt office showed.
+
+The debt office sold a 15 October 2028 maturity bond (LKB00428J159) at a weighted average yield rate of 10.42 percent.
+
+“Further to the Treasury bond auction held on 30 December 2024, Rs. 4,500 million, being the maximum amount offered, was raised out of the total market subscription of Rs. 17,474 million via the Direct Issuance Window from the Treasury bond bearing the International Securities Identification Number LKB00428J159 at the Weighted Average Yield Rate of 10.42% determined at the auction.”
+
+Date of settlement of the above issuance is 1 January 2025. (Colombo/Jan1/2025)
+
+◼️
+
+[Data](articles/7d87ddfd.json)
+
+---
 
 ### ரயிலில் மோதுண்டு தாயும் மகனும் காயம்
 
@@ -61,6 +99,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9a412416.json)
+
+---
+
+### Sri Lanka looks to send fishermen for South Korea jobs
+
+*2025-01-01 13:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-send-fishermen-for-south-korea-jobs-197409/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Fisheries, Aquatic and Ocean Resources Ramalingam Chandrasekar has requested the South Korean Government to provide job opportunities for local fishermen.
+
+Chandrasekar met the South Korean ambassador Miyon Lee this week to discuss strengthening bilateral ties.
+
+Increasing employment opportunities for Sri Lankan fishermen in the South Korean job market and increasing training opportunities were discussed, a government statement said.
+
+“The discussion focused on further improving bilateral relationships and collaboration for fisheries and aquatic resources management.”
+
+The Minister expressed his appreciation for South Korea’s continued support to Sri Lanka and also expressed his condolences over the tragic plane crash in South Korea this week. (Colombo/Jan1/2025)
+
+◼️
+
+[Data](articles/affc5265.json)
 
 ---
 
@@ -255,6 +313,28 @@ Speaking at the launch of the ‘Clean Sri Lanka’ national initiative, the Pre
 ...
 
 [Data](articles/47d6fd66.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 293.60/85 to US dollar, bonds steady
+
+*2025-01-01 11:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-60-85-to-us-dollar-bonds-steady-197392/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.60/85 to the US dollar in the spot market, from 293.25/75 on Tuesday, while bond yields were steady, dealers said.
+
+A bond maturing on 15.12.2027 was quoted at 9.85/95 percent, up from 9.75/90 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.10/15 percent, up from 10.05/15 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.20/30 percent, down from 10.25/35 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 10.60/70 percent, down from 10.65/75 percent.
+
+An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/2025)
+
+◼️
+
+[Data](articles/7fdc27ff.json)
 
 ---
 
@@ -1711,77 +1791,5 @@ Oxford educated Chancellor of the Exchequer Anthony Barber did to the UK in the 
 ◼️
 
 [Data](articles/66fd075d.json)
-
----
-
-### youtube தவிர மற்ற சமூக ஊடக கணக்குகள் மீண்டும் கட்டுப்பாட்டில் - பொலிஸ் ஊடகப் பிரிவு
-
-*2024-12-31 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202667) · `ta`
-
-இலங்கை காவல்துறையின் youtube சேனல் உட்பட பல உத்தியோகபூர்வ சமூக ஊடக கணக்குகள் மீதான சைபர் தாக்குதல் தொடர்பான சமீபத்திய நிலைமை குறித்து பொலிஸ் ஊடகப் பிரிவு அறிவிப்பு ஒன்றை வெளியிட்டுள்ளது.
-
-இலங்கை காவல்துறையின் உத்தியோகபூர்வ Facebook, TikTok, Instagram, YouTube மற்றும் x கணக்குகள் கடந்த 30ஆம் திகதி அன்று மாலை சைபர் தாக்குதலுக்கு உள்ளானது.
-
-உத்தியோகபூர்வ Facebook, TikTok, Instagram மற்றும் x கணக்குகள் தற்போது மீண்டும் இலங்கை காவல்துறையின் கட்டுப்பாட்டின் கீழ் கொண்டுவரப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவின் அறிவிப்பில் மேலும் குறிப்பிடப்பட்டுள்ளது.
-
-தகவல் தொழில்நுட்ப பிரிவு அதிகாரிகள் அதை மீண்டும் கட்டுப்பாட்டில் கொண்டும்வரும் பணியில் ஈடுபட்டுள்ளனர்.
-
-இந்த இணையத் தாக்குதல் தொடர்பில் கணினி குற்றப் புலனாய்வுப் பிரிவினரும் விசாரணைகளை ஆரம்பித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/f72e4a1d.json)
-
----
-
-### வரவு செலவுத்திட்டம் குறித்து எடுக்கப்பட்ட தீர்மானம்
-
-*2024-12-31 19:55:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரவு-செலவுத்திட்டம்-குறித்து-எடுக்கப்பட்ட-தீர்மானம்/175-349579) · `ta`
-
-2025ஆம் ஆண்டுக்கான வரவு செலவுத் திட்ட விவாதத்தை 2025 பெப்ரவரி 18ஆம் திகதி முதல் மார்ச் 21ஆம் திகதி வரை நடத்துவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
-
-சபாநாயகர் வைத்திய கலாநிதி ஜகத் விக்ரமரத்ன தலைமையில் பாராளுமன்றத்தில் இன்று (31) நடைபெற்ற பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்தில் இத்தீர்மானம் எடுக்கப்பட்டதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர தெரிவித்தார்.
-
-2025ஆம் ஆண்டுக்கான வரவு செலவுத்திட்டம் முதலாவது மதிப்பீட்டுக்காக 2025 ஜனவரி 09ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிப்பதற்கும் தீர்மானிக்கப்பட்டது.  R
-
-◼️
-
-[Data](articles/94221b99.json)
-
----
-
-### கொழும்பு பிரதான நீதவான் திலின கமகேவுக்கு இடமாற்றம்
-
-*2024-12-31 19:43:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-பிரதான-நீதவான்-திலின-கமகேவுக்கு-இடமாற்றம்/175-349578) · `ta`
-
-கொழும்பு பிரதான நீதவான் திலின கமகேவை மொரட்டுவ மாவட்ட நீதிபதி பதவிக்கு இடமாற்றம் செய்து நீதிச்சேவை ஆணைக்குழு உத்தரவிட்டுள்ளது.
-
-புதிய கொழும்பு பிரதான நீதவானாக கோட்டை பிரதான நீதவான் தனுஜா லக்மாலி நியமிக்கப்பட்டுள்ள நிலையில், கொழும்பு கோட்டை நீதவான் நீதிமன்றில் ஏற்பட்ட வெற்றிடத்திற்கு கல்கிசை நீதவானை நியமிக்க நீதிச்சேவை ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது.
-
-ரூபாய் 8 மில்லியன் இலஞ்சம் தொடர்பான வழக்கை நடத்துவதற்கு மற்றுமொரு நீதவானை நியமிக்குமாறு கோரி திலின கமகே நீதிச்சேவை ஆணைக்குழுவிடம் சமர்ப்பித்த எழுத்துமூல கோரிக்கையை அடுத்து இந்த இடமாற்றம் வழங்கப்பட்டுள்ளது.
-
-இந்த வழக்கு, தற்போது விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் மேல் மாகாண சபை உறுப்பினர் சலோச்சன கமகே தொடர்பானது.
-
-சலோச்சன கமகே தனது உடன்பிறந்தவர் என்பதால், திலின கமகே, குறித்த வழக்கை தான் விசாரிப்பதில் உள்ள முரண்பாட்டை கோரிக்கைக் கடிதத்தில் மேற்கோள் காட்டியுள்ளார்.
-
-◼️
-
-[Data](articles/d1dd73fc.json)
-
----
-
-### வவுனியா - பாவற்குளத்தில் இடம்பெற்ற விபத்தில் 7 வயது சிறுவன் பலி
-
-*2024-12-31 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202666) · `ta`
-
-வவுனியா, பாவற்குளம் பகுதியில் துவிச்சக்கரவண்டி மீது பேரூந்து மோதியதில் 7 வயது சிறுவன் ஒருவர் மரணமடைந்துள்ளதாக உளுக்குளம் பொலிசார் தெரிவித்தனர்.
-
-வவுனியா, பாவற்குளம், படிவம் இரண்டு பகுதியில் சாரதி பேரூந்தை நிறுத்தி விட்டு மீண்டும் சேவையில் ஈடுபடுவதற்காக பேரூந்தை செலுத்திய போது துவிச்சக்கர வண்டியில் பயணித்த இரு சிறுவர்கள் வீதியை ஊடறுக்க முற்பட்ட போது பேரூந்துடன் மோதி விபத்துக்குள்ளானார்கள்.
-
-இதில் துவிச்சக்கர வண்டியில் பயணித்த 7 வயதுடைய அப்துல் மஜித் உமர் என்ற சிறுவன் மரணமடைந்துள்ளார். சம்பவம் தொடர்பில் உளுக்குளம் பொலிசார் விசாரணைகளை மேற்கொண்டு வருகிறார்கள்.
-
-◼️
-
-[Data](articles/c144899c.json)
 
 ---

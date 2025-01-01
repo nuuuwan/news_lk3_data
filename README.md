@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 21:43:54**
+As of **2025-01-01 22:02:56**
 
 ## Newspaper Stats
 
-*Scraped **63,160** Articles*
+*Scraped **63,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,838
 economynextcom | 3,844
 dailyftlk | 4,380
 dailymirrorlk | 4,733
-adalk | 6,038
+adalk | 6,039
 adaderanalk | 7,722
 tamilmirrorlk | 9,059
 virakesarilk | 10,507
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,909
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,160 articles have been extended.
+61,971 (98.1%) of 63,161 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -149,6 +149,20 @@ Accordingly, the court also ordered the Commissioner General of Examinations to 
 ...
 
 [Data](articles/858a8ade.json)
+
+---
+
+### ගාලුමුවදොර ජාතික ධජය එසවීම ඉදිරි මාස තුනට නාවික හමුදාවට
+
+*2025-01-01 18:30:22* · [`adalk`](https://www.ada.lk/breaking_news/ගාලුමුවදොර-ජාතික-ධජය-එසවීම-ඉදිරි-මාස-තුනට-නාවික-හමුදාවට/11-413967) · `si`
+
+ගාලු මුවදොර ජාතික ධජය එසවීම හා කොළඹ ජනාධිපති මන්දිරයේ විශේෂ චාරිත්‍ර සම්මාන මුරය සම්බන්ධ රාජකාරීන් ශ්‍රී ලංකා යුද්ධ හමුදාව වෙතින් නාවික හමුදාව වෙත භාර ගැනීම 2024 දෙසැම්බර් මස 31 වැනි දින සහ අද දින (01) කොළඹ ගාලු මුවදොරදී සහ නාවික හමුදා මූලස්ථානයේදී සිදු කෙරිණි.
+
+ඒ අනුව, ඉදිරි මාස 03 ක කාලසීමාවක් මෙම ගාලු මුවදොර ජාතික ධජය එසවීමේ හා ආචාර සමාචාර සිදු කිරීමේ රාජකාරීන් සහ ජනාධිපති මන්දිරයේ විශේෂ චාරිත්‍ර සම්මාන මුරයේ රාජකාරීන් ශ්‍රී ලංකා‍ නාවික හමුදාව විසින් සිදු කරනු ලබන අතර, මෙම විශේෂ රාජකාරීන් අධීක්‍ෂණය ශ්‍රී ලංකා‍ නාවික නෞකා පරාක්‍රම ආයතනයේ අණදෙන නිලධාරී විසින් සිදු කෙරෙනු ඇත.
+
+◼️
+
+[Data](articles/a4145e76.json)
 
 ---
 
@@ -1851,19 +1865,5 @@ A core group of six countries, including Liechtenstein, Andorra, Mexico, Nepal, 
 ...
 
 [Data](articles/64256844.json)
-
----
-
-### Premier PR expands services to social media marketing
-
-*2025-01-01 03:21:00* · [`islandlk`](http://island.lk/premier-pr-expands-services-to-social-media-marketing/) · `en`
-
-Premier PR, the premier public relations and marketing communications company, has expanded its services portfolio from public relations to social media marketing. Furthermore, Premier PR will also publish news releases of other corporates on its newly designed website.
-
-Celebrating its 17th anniversary in Public Relations, Premier PR will now support its clients to design and execute their social media marketing campaigns to the target groups via social media platforms such as Instagram, Fb, and LinkedIn. Premier PR’s clients range from multinationals and blue-chip companies to SME and family businesses in diverse industries such as IT & technology, education and HR, retail, manufacturing, pharmaceuticals, print, automotive after-market, leisure, mobile and telecommunications, healthcare, fashion, tea, and beverages.
-
-...
-
-[Data](articles/b5ba6796.json)
 
 ---

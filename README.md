@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 01:12:56**
+As of **2025-01-02 01:27:20**
 
 ## Newspaper Stats
 
-*Scraped **63,179** Articles*
+*Scraped **63,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 637
 bbccomsinhala | 665
 islandlk | 3,838
 economynextcom | 3,849
-dailyftlk | 4,380
+dailyftlk | 4,381
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
@@ -26,9 +26,25 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,179 articles have been extended.
+61,971 (98.1%) of 63,180 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-01-02 (Thursday)
+
+### NPP’s great U-turn, India-China implications, emergent new left, SJB’s self-sabotage
+
+*2025-01-02 01:10:13* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-great-U-turn-India-China-implications-emergent-new-left-SJB-s-self-sabotage/4-771267) · `en`
+
+The AKD-led NPP government reminds me of two previous Sri Lankan governments rolled into one: the United Front coalition of 1970-1975 and the Yahapalanaya Government of 2015-2019. The LSSP-style leftist arrogance comes from the former, the UNP-style neoliberal agenda from the latter. (The only difference is that the academic and professional qualifications of the LSSP-CPSL parliamentarians were unquestionably authentic, not pretensions). Nothing in my observation of Lankan politics for 60 years tells me the current administration will be more than a one-term wonder.
+
+The dualistic character of contemporary Sri Lanka is best evidenced by the contrast between positive (41%) economic sentiment in the latest LMD poll of corporate executives and negative social sentiment (59%) that the country is headed is the wrong direction in the last IHP public opinion poll.
+
+...
+
+[Data](articles/643c0da0.json)
+
+---
 
 ### 2025-01-01 (Wednesday)
 
@@ -1831,25 +1847,5 @@ The launch of the ‘Clean Sri Lanka’ national initiative commenced under the 
 ◼️
 
 [Data](articles/582c739a.json)
-
----
-
-### Sri Lanka current dollar inflows exceed imports by $604mn in November
-
-*2025-01-01 08:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-dollar-inflows-exceed-imports-by-604mn-in-november-197372/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current foreign exchange inflows of 2,101 million US dollars in November 2024, have exceeded imports by 604 million US dollars, data released by the central bank shows.
-
-Current inflows were made up of 994.1 million US dollars of exports 576 million dollars of services including tourism of 272 million US dollars (estimated) and official worker remittances of 530 million US dollars.
-
-Since most private citizens are net savers for inflows to turn into outflows, the banking system has to give credit for investments to spend the money which will turn into imports.
-
-As only earned dollars can be spent unless there are foreign loans, inflows and outflows will match, unless the central bank prints money to cut rates.
-
-Investment goods and base metals were have been gradually picking up over 2023 and 2024 after sharply falling along with a private credit contraction.
-
-...
-
-[Data](articles/b509b82b.json)
 
 ---

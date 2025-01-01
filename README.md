@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-01 17:12:48**
+As of **2025-01-01 17:27:33**
 
 ## Newspaper Stats
 
-*Scraped **63,127** Articles*
+*Scraped **63,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,379
 dailymirrorlk | 4,733
 adalk | 6,033
 adaderanalk | 7,713
-tamilmirrorlk | 9,057
+tamilmirrorlk | 9,058
 virakesarilk | 10,499
 adaderanasinhalalk | 10,905
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,905
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.2%) of 63,127 articles have been extended.
+61,971 (98.2%) of 63,128 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bb53a726.json)
+
+---
+
+### “மக்களின் வினைத்திறனான பங்களிப்புடன்  வெற்றியடைய முடியும்”
+
+*2025-01-01 16:59:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-வினைத்திறனான-பங்களிப்புடன்-வெற்றியடைய-முடியும்/175-349621) · `ta`
+
+பொது மக்களின் வினைத்திறனான பங்களிப்புடன் மாத்திரமே தூய்மையான இலங்கை வேலைத்திட்டம் வெற்றியடைய முடியும் என ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+ஜனாதிபதி அலுவலகத்தில் இருந்து “தூய்மையான இலங்கை” வேலைத்திட்டம் 2025 ஜனவரி 1ஆம் திகதி புதன்கிழமை  ஆரம்பித்து வைக்கப்பட்டது. அதில் கலந்துகொண்டு உரையாற்றும் போதே மேற்கண்டவாறு குறிபிட்டார்.
+
+சகல அரச நிறுவனங்களிலும் “க்ளீன் ஶ்ரீலங்கா” (தூய்மையான இலங்கை) தேசிய வேலைத்திட்டத்துடன் உத்தியோகபூர்வ செயற்பாடுகள் ஆரம்பிக்கப்பட்டன.
+
+எமது பொருளாதாரக் கட்டமைப்பில் ஏற்பட்டுள்ள பிரச்சினைகளுக்கு தீர்வு காண தேவையான பொருளாதார நிகழ்ச்சி நிரலை இந்த புத்தாண்டில் நடைமுறைப்படுத்த தயாராக உள்ளோம்.
+
+கணிசமான அளவிற்கு எங்களது ஆரம்ப பிரவேசத்தை வெற்றிகரமாக நிறைவு செய்துள்ளோம். இந்த நாட்டின் மீட்சிக்கு தேவையான அடித்தளத்தை நாம் தயார் செய்துள்ளோம்.
+
+...
+
+[Data](articles/79103458.json)
 
 ---
 
@@ -717,8 +737,6 @@ An auction of Rs 168,000 million of Treasury bills was ongoing. (Colombo/Jan1/20
 ඇඟලුම් කර්මාන්ත ශාලාවකට ගිය මාලිමාවේ මන්ත්‍රීවරුන්ට විරෝධයක් එල්ල වුණේ ඇයි?
 
 ජෙනරාල් ශවේන්ද්‍ර සිල්වා: 'මම විශ්‍රාම යන්නේ වැඩිම කාලයක් සේවයේ යෙදුණු හමුදා නිලධාරියා විදිහට'
-
-නව වසරට උපදෙස්: ව්‍යායාම ඇරඹීමට ඔබ ජනවාරි වන තෙක් ම බලා ඉන්නේ ඇයි?
 
 ◼️
 
@@ -1801,19 +1819,5 @@ Iranian Ambassador Alireza Delkhosh met with Finance Ministry Secretary Mahinda 
 ◼️
 
 [Data](articles/dbe95d7a.json)
-
----
-
-### Twenty-five thoughts for 2025: Essentials for excellence
-
-*2025-01-01 00:43:41* · [`dailyftlk`](https://www.ft.lk/columns/Twenty-five-thoughts-for-2025-Essentials-for-excellence/4-771217) · `en`
-
-A refreshing 31,557,600 seconds in 2025 are with us. The sparkling spirit of a new year invites us not only to have brand new thoughts but to convert them into grand actions. As usual, people tend to have New Year resolutions. My suggestion is to go beyond scant resolutions, to have specific reinforcements. As an appetiser for a productive new year, I would like to share twenty five thoughts for 2025 as essentials for excellence, especially with the Sri Lankan managers in mind.
-
-We all complain about lack of time. Even though there are seminars, workshops, trainings, and lectures on “time management,” we really cannot manage time. It is finite and fixed. Instead, what we can do is to “manage ourselves” in getting the best out of the given limited time. Only way to do that is to be efficient in our tasks. It involves minimising the wastages, reducing the defects, curtailing the deviations etc. Let us be efficient in the year 2025.
-
-...
-
-[Data](articles/c60b3aaa.json)
 
 ---

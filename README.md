@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 14:28:08**
+As of **2025-01-02 14:43:44**
 
 ## Newspaper Stats
 
-*Scraped **63,287** Articles*
+*Scraped **63,289** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,20 +19,20 @@ dailymirrorlk | 4,733
 adalk | 6,051
 adaderanalk | 7,737
 tamilmirrorlk | 9,077
-virakesarilk | 10,525
+virakesarilk | 10,527
 adaderanasinhalalk | 10,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,287 articles have been extended.
+61,971 (97.9%) of 63,289 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
 
-### ත්‍රිකුණාමල මුහුදේ තිබී හමු වූ ඩ්‍රෝන යානය යලි ලබා දෙන්න අවධානය
+### ත්‍රිකුණාමල මුහුදේ තිබී හමු වූ ඩ්‍රෝන යානය යළි ලබා දෙන්න අවධානය
 
 *2025-01-02 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204965) · `si`
 
@@ -51,6 +51,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0c6cd92f.json)
+
+---
+
+### காட்டுப்பகுதியில் மீன் கழிவுகளை வீசி சென்ற வாகனம் ; தக்க பதிலடி கொடுத்த மக்கள்
+
+*2025-01-02 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/202777) · `ta`
+
+மீன் வியாபார  கடைகளில் இருந்து அகற்றப்படும் மீன் பொருட்களுடன் லொறி ஒன்றை  புதன்கிழமை (01) கம்பளை அம்புலாவ பகுதியில் உள்ள இளைஞர்கள் மடக்கி பிடித்துள்ளனர்.
+
+மீன்கடை உரிமையாளர் ஒருவர் அவர் கடையில் வெட்டிய மீன்கழிவுகளை வீதியோர காட்டுப்பகுதியில் வீசிவிட்டுச் சென்ற போது அதனை அவதானித்த அப்பிரதேசமக்கள் வாகனத்தினை மடக்கிபிடித்து அவர்கள் வீசிய  மீன் கழிவுகளை அள்ளி வாகனத்துக்குள்ளே போட்டடுள்ளனர். பின்னர் பொது மக்கள் அவர்களை பொலிஸாரிடம் ஒப்படைத்தனர்.
+
+◼️
+
+[Data](articles/29134e4d.json)
 
 ---
 
@@ -105,6 +119,24 @@ On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., fo
 ...
 
 [Data](articles/010d0601.json)
+
+---
+
+### கடவுச்சீட்டு வரிசை மேலும் நீடிக்கலாம்
+
+*2025-01-02 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202767) · `ta`
+
+நாட்டில் கடவுசீட்டை பெற்றுக்கொள்வதற்காக மக்கள் நீண்ட வரிசையில் காத்திருக்கும் நிலை  மேலும் நீடிக்கலாம் என தெரிவிக்கப்படுகிறது.
+
+ஆண்டின் முதல் பாதிக்கு மட்டுமே போதிய கையிருப்பு இருப்பதாகவும், புதிய கடவுச்சீட்டு நகல்களைப் பெறுவதற்கு விலை மனு கோருவதற்கு  அரசாங்கத்திடம் நிதி இல்லாமல் இருப்பதும்  கடவுச்சீட்டு நெருக்கடி  மேலும் நீடிக்கும் என தெரிவிக்கப்படுகிறது.
+
+ஆனால் Thales DIS Finland OY மற்றும் அதன் இலங்கைப் பங்காளியான Just In Time (JIT) Technologies (Pvt) Ltd-க்கு வழங்கப்பட்ட விலை மனு கோரலை ஏலம் எடுத்த எபிக் லங்கா (பிரைவேட்) சரியாக செயல்படுத்தாமையினால் வழங்கு தொடரப்பட்டுள்ளது.
+
+இந்நிலையில்,  இலத்திரனியல் கடவுச்சீட்டு தொடர்பான நீதிமன்ற வழக்கு முடிவடைவதற்குள் நெருக்கடியை நிவர்த்தி செய்வதற்காக பி-சீரிஸின் புதிய கடவுச்சீட்டுகளை பாதுகாக்க அரசாங்கம் விண்ணப்பங்களை கோருவதாக பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b3a6afa3.json)
 
 ---
 
@@ -1721,45 +1753,5 @@ One prison inmate is reported dead while at least 10 others have been injured an
 ◼️
 
 [Data](articles/c97000cf.json)
-
----
-
-### Vindhya Jayasekera appointed new CEO Designate to CSE
-
-*2025-01-01 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104653/vindhya-jayasekera-appointed-new-ceo-designate-to-cse) · `en`
-
-The Colombo Stock Exchange (CSE) announced the appointment of Ms. Vindhya Jayasekera as the Chief Executive Officer (CEO) Designate, effective from 01 January 2025.
-
-Accordingly, Ms. Jayasekera will succeed the incumbent CEO, Mr. Rajeeva Bandaranaike, who is due to retire during the course of 2025 after serving for 11 years in that capacity.
-
-Issuing a statement, the CSE stated that Ms. Jayasekera brings over two decades of extensive experience in capital markets, encompassing both buy-side and sell-side expertise across the investment banking and asset management industries.
-
-Prior to her appointment at the CSE, she served as the Chief Investment Officer at NDB Wealth Management Limited, where she led the asset management division overseeing assets under management exceeding LKR 380 billion (approx.).
-
-...
-
-[Data](articles/87da72e8.json)
-
----
-
-### විශිෂ්ටත්වයේ 20 වැනි වසරට පා තබන TV දෙරණ
-
-*2025-01-01 22:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204942) · `si`
-
-අලුත් බලාපොරොත්තු සමග උදා වුණු 2025 නව වසර රටම ආදරෙන් පිළිගනිද්දි, මේ අවුරුද්ද දෙරණ අපිටත් වැදගත් වසරකි.
-
-මෙරට ප්‍රේක්ෂකයා රූපවාහිනී මාධ්‍යයේ එක් රාමුවකට කොටුවී සිටි කාලයක, වෙනසක පෙරළියක් ඇති කරමින් බිහිවුණු අපේ "දෙරණ" ,  සිය අති සාර්ථක ගමනේ විසි වැනි වසරට අද (01) පා තැබීය.
-
-රූප මාධ්‍ය කලාවේ පෙළහර පාන අතරේ හුදෙක් රූපවාහිනී නාලිකාවක් පමණක් නොවෙමින්, ජනතාවට අවැසිම මොහොතේ ඔවුන් අතර රැඳෙමින් දෙරණ ආ සහෘද ගමන් මඟ ඉදිරියටත් ඔබ හා එක්වී යන්නට අප සූදානමින් සිටියි.
-
-මෙරට රූපවාහිනී මාධ්‍යයට නවමු සංකල්ප අවැසිව සිටි යුගයක අපේ උරුමය රැගත් නවමු රූපවාහිනී නාලිකාවක් ලෙස දෙරණ සම්ප්‍රාප්තිය සිදු වූයේ 2005 වර්ෂයේ ඔක්තෝබර් 11 වනදාය.
-
-දෙරණ අද වන විට ප්‍රේක්ෂක විශ්වාසයේ කිරුළ දරමින් ටෙලිනාට්‍ය, විනෝදාත්මක වැඩසටහන්, ප්‍රවෘත්ති, කාලීන හා දේශපාලන වැඩසටහන් මෙන්ම මෙරට රියැලිටි ටෙලිවිෂන් කලාවද අතික්‍රමණය කර අවසන්ය.
-
-ශ්‍රී ලාංකේය ළමා පරපුරේ කුසලතා ජාතික මට්ටමට ගෙනඒම සඳහා ' දෙරණ ලිට්ල් ස්ටාර්' හඳුන්වා දුනී.
-
-...
-
-[Data](articles/83f395de.json)
 
 ---

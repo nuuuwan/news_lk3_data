@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 16:43:20**
+As of **2025-01-02 17:00:49**
 
 ## Newspaper Stats
 
-*Scraped **63,309** Articles*
+*Scraped **63,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,054
 adaderanalk | 7,745
-tamilmirrorlk | 9,082
+tamilmirrorlk | 9,084
 virakesarilk | 10,529
 adaderanasinhalalk | 10,935
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 10,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,309 articles have been extended.
+61,971 (97.9%) of 63,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### புதிய வட்ஸ்அப் எண் அறிமுகப்படுத்தப்பட்டது
+
+*2025-01-02 16:41:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-வட்ஸ்அப்-எண்-அறிமுகப்படுத்தப்பட்டது/175-349681) · `ta`
+
+மக்களின் தேவைகளை நிறைவேற்றும்வகையில் தொழில் அமைச்சால் 0707 22 78 77 என்ற புதிய வட்ஸ்அப் எண் அறிமுகப்படுத்தப்பட்டுள்ளது.
+
+தொழில் அமைச்சு மற்றும் தொழில் திணைக்களம் மூலம் மக்கள் எதிர்பார்க்கும் நிவாரணங்களும், தலையீடுகளும் இதன்மூலம் விரைவாக மேற்கொள்ளப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+தனியார் மற்றும் அரை-அரசு ஊழியர்களின் சேவை பிரச்சனைகளுக்கு உடனடி பதிலளிப்பதே இந்த புதிய வட்ஸ்அப் எண்ணை அறிமுகப்படுத்தியதன் மற்றொரு நோக்கமாகும் என்று தொழில் அமைச்சு வெளியிட்டுள்ள அறிவிப்பில் மேலும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/907b6049.json)
+
+---
+
+### ”விடுதலைப் புலிகள் மஹிந்தவைக் கொல்ல முயற்சிக்கவில்லை”
+
+*2025-01-02 16:38:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதலைப்-புலிகள்-மஹிந்தவைக்-கொல்ல-முயற்சிக்கவில்லை/175-349680) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவுக்கு உயிருக்கு அச்சுறுத்தல் விடுக்கப்படலாம் என்ற வதந்திகளுக்குப் பதிலளித்த பீல்ட் மார்ஷல் சரத் பொன்சேகா, ஆளில்லா விமானங்களைப் பயன்படுத்தி அவரைக் கொல்லும் அளவுக்கு முட்டாள்கள் யாரும் இல்லை என்று தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த பொன்சேகா, ஆளில்லா விமானங்கள் விலையுயர்ந்த உபகரணங்கள் என்றும், ஆளில்லா விமானங்களை பயன்படுத்தி அவரைத் தாக்க யாரும் தயாராக இல்லை என்றும் கூறினார்.
+
+“யுத்தம் உச்சக்கட்டத்தில் நடந்த காலத்திலும் மகிந்தவுக்கு அச்சுறுத்தல் இருக்கவில்லை, விடுதலைப் புலிகள் ஒருபோதும் அவரைக் கொல்ல முயற்சிக்கவில்லை.
+
+2010 ஆம் ஆண்டு தேர்தல் வெற்றியின் பின்னர் மஹிந்தவினால் எனது இராணுவப் பாதுகாப்பு எவ்வாறு முற்றாக விலக்கிக் கொள்ளப்பட்டது என்பதை நான் நினைவுகூர விரும்புகின்றேன். அப்போது நான் அச்சுறுத்தலுக்கு உள்ளாகவில்லையா? என்று கேள்வி எழுப்பினார்.
+
+◼️
+
+[Data](articles/36281c57.json)
+
+---
 
 ### பாடசாலை உபகரணங்களின் விலை 20 சதவீதம் குறைப்பு
 
@@ -1795,37 +1829,5 @@ Chandrasekaran Subramanian is a qualified Chartered Accountant (CA) and holds an
 ...
 
 [Data](articles/69ab5a4c.json)
-
----
-
-### Singer opens first-ever Samsung  AI-powered smart store in Sri Lanka
-
-*2025-01-02 03:11:44* · [`dailyftlk`](https://www.ft.lk/business/Singer-opens-first-ever-Samsung-AI-powered-smart-store-in-Sri-Lanka/34-771295) · `en`
-
-In a ground-breaking move to revolutionise the technological landscape of Sri Lanka, Singer Sri Lanka has unveiled the country’s first AI-powered smart electronics in partnership with Samsung. This Samsung SmartThings store by Singer, located on Level 3 of the One Galle Face Mall, is set to redefine how Sri Lankans experience AI-powered technology and smart living solutions.
-
-The opening, held on 17 December 2024, marks a significant milestone in the longstanding partnership between Singer Sri Lanka and Samsung. The event was graced by Hayleys PLC Chairman Mohan Pandithage, Samsung Sri Lanka Managing Director SangHwa Song, CE Biz, Samsung Sri Lanka Director and Head Sabry Ansar, MX Biz, Samsung Sri Lanka Deputy General Manager and Head Thushara Rathnaweera, and Singer Group CEO Mahesh Wijewardene. Their presence underscored the shared commitment of both companies toward innovation and excellence.
-
-...
-
-[Data](articles/b4c10a28.json)
-
----
-
-### DIMO wins two prestigious awards at the 2025 Weichai Lovol Global Partners Conference
-
-*2025-01-02 03:10:06* · [`dailyftlk`](https://www.ft.lk/business/DIMO-wins-two-prestigious-awards-at-the-2025-Weichai-Lovol-Global-Partners-Conference/34-771294) · `en`
-
-As the authorised distributor for Lovol Harvesters in Sri Lanka, DIMO received two prestigious accolades at the 2025 Weichai Lovol Global Partners Conference, held recently at the Lovol Centre in China.
-
-DIMO was honoured with the Loyal Partner Award, recognising its enduring partnership and commitment to fostering mutual growth with Lovol. Additionally, the company was presented with the Outstanding Marketing Activity Planning Award for its innovative and impactful marketing strategies that have significantly elevated the Lovol brand in the region.
-
-Agri Machinery Sales Division Deputy General Manager Amila De Silva, and Agri Machinery Assistant Marketing Manager Malith Rodrigo represented DIMO at this landmark event, which welcomed over 400 participants from more than 70 countries.
-
-These accolades underscore DIMO’s contribution to advancing agriculture in Sri Lanka.
-
-◼️
-
-[Data](articles/2f384f72.json)
 
 ---

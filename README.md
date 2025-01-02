@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 04:14:53**
+As of **2025-01-03 04:27:32**
 
 ## Newspaper Stats
 
-*Scraped **63,382** Articles*
+*Scraped **63,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,61 @@ colombotelegraphcom | 639
 bbccomsinhala | 667
 islandlk | 3,850
 economynextcom | 3,863
-dailyftlk | 4,396
+dailyftlk | 4,398
 dailymirrorlk | 4,733
 adalk | 6,061
 adaderanalk | 7,752
 tamilmirrorlk | 9,088
-virakesarilk | 10,558
+virakesarilk | 10,560
 adaderanasinhalalk | 10,946
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,382 articles have been extended.
+61,971 (97.8%) of 63,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### Mass shooting in New York nightclub leaves 11 people injured
+
+*2025-01-03 04:15:40* · [`dailyftlk`](https://www.ft.lk/news/Mass-shooting-in-New-York-nightclub-leaves-11-people-injured/56-771313) · `en`
+
+At least 10 people have been shot after multiple gunmen opened fire outside a nightclub in Queens, New York on Wednesday.
+
+According to reports, three to four gunmen opened fire on a group standing outside of Amazura Nightclub. The venue was hosting a private event at the time of the shooting. 90 people were in attendance at the event, and roughly 15 people were waiting to get inside.
+
+Roughly 90 people were inside, upstairs at a private venue. The venue was at capacity, and about 15 were waiting to get in.
+
+Authorities say 3-4 men who are believed to be in their mid-to-late-teens to early 20s, opened fire on the group standing outside the club. 30 shots were reportedly fired, and at least 10 people were hit.
+
+“There’s zero tolerance for these senseless shootings,” NYPD’s Chief of Transportation Philip Rivera, said at a press conference. “These horrible acts of violence on our streets, and those responsible for this crime, will be apprehended and brought to justice.”
+
+◼️
+
+[Data](articles/645749f2.json)
+
+---
+
+### Vehicle attack on pedestrians in New Orleans kills 14
+
+*2025-01-03 04:14:51* · [`dailyftlk`](https://www.ft.lk/news/Vehicle-attack-on-pedestrians-in-New-Orleans-kills-14/56-771312) · `en`
+
+14 people were killed and dozens injured when a man plowed into a crowd on Bourbon Street in a pickup truck, in New Orleans’ bustling French Quarter district early on New Year’s Day.
+
+Shamsud-Din Jabbar, the suspect in the New Year’s Day attack in New Orleans acted alone, the FBI said Thursday, describing the deadly event as “an act of terrorism.”
+
+Before the attack, the FBI says Jabbar posted videos online proclaiming his allegiance to the Islamic State group.
+
+Investigators found guns and what appeared to be an improvised explosive device in the vehicle — which bore the flag of the Islamic State group — along with other explosive devices elsewhere in the French Quarter.
+
+...
+
+[Data](articles/0e949336.json)
+
+---
 
 ### ஜனவரி 7 இல் இந்த ஆண்டின் கன்னி அமர்வு
 
@@ -50,6 +88,54 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### இவ்வருட வரவு செலவுத் திட்டத்திலேயே மிகப்பெரிய தொகை நிதி ஒதுக்கீடு - சுகாதார அமைச்சர்
+
+*2025-01-03 03:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202830) · `ta`
+
+கதிர்காம கந்தன் மாத்திரமல்ல 33 கோடி தேவர்கள் தரும் நிதியைவிட அதிகளவான தொகை, சுகாதாரத் துறைக்காக வருடாந்தம் திரைசேரியிலிருந்து விடுவிக்கப்படுகிறது. வரலாற்றில் சுகாதார அமைச்சுக்கா, இவ்வருட வரவு செலவுத் திட்டத்திலேயே மிகப்பெரிய தொகை நிதி ஒதுக்கீடு செய்யப்பட்டுள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+மஹரகம புற்றுநோய் வைத்தியசாலையில் சிறுவர் புற்று நோயாளர்களுக்கான எலும்பு மஜ்ஜை மற்றும் இரத்த அணுக்கள் மாற்று  சிகிச்சைப் பிரிவு நேற்று சுகாதார அமைச்சரால் திறந்து வைக்கப்பட்டுள்ளது. இலங்கை விமானப்படையின் பங்களிப்புடனும் கதிர்காமம் முருகன் ஆலயத்தின் நிதி உதவியுடன் மேற்படி விசேட அலகு புற்றுநோய் வைத்தியசாலையில் ஸ்தாபிக்கப்பட்டுள்ளது. சிறுவர் புற்றுநோயாளர்களுக்காக இலங்கை அரச வைத்தியசாலைகளில் முதன் முறையாக நிர்மாணிக்கப்பட்ட எலும்பு மஜ்ஜை மற்றும் இரத்த அணுக்கள் மாற்று  சிகிச்சைப் பிரிவு இதுவாகும்.
+
+...
+
+[Data](articles/5f4068d8.json)
+
+---
+
+### கொழும்பு பங்குச்சந்தையின் பிரதம நிறைவேற்று அதிகாரியாக விந்தியா ஜயசேகர நியமனம்
+
+*2025-01-03 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/202833) · `ta`
+
+இம்மாதம் முதலாம் திகதியிலிருந்து அமுலுக்கு வரும் வகையில் கொழும்பு பங்குச்சந்தையின் பிரதம நிறைவேற்று அதிகாரியாக விந்தியா ஜயசேகர நியமிக்கப்பட்டுள்ளார்.
+
+கொழும்பு பங்குச்சந்தையின் பிரதம நிறைவேற்று அதிகாரியாக கடந்த 11 வருடங்கள் பதவி வகித்த ரஜீவ பண்டாரநாயக்க ஓய்வுபெறும் நிலையிலேயே அப்பதவிக்கு விந்தியா ஜயசேகர நியமிக்கப்பட்டுள்ளார்.
+
+விந்தியா ஜயசேகர கொள்முதல் மற்றும் விற்பனை சந்தை உள்ளிட்ட நிதிச்சந்தையிலும், முதலீட்டு வங்கிச்சேவை மற்றும் சொத்து முகாமைத்துவத்துறையிலும் பல வருடகால அனுபவமுடையவராவார்.
+
+இதற்கு முன்னர் என்.டி.பி சொத்து முகாமைத்துவ லிமிடெட் நிறுவனத்தின் சிரேஷ்ட முதலீட்டு அதிகாரியாகப் பணியாற்றிய விந்தியா ஜயசேகர, அக்காலப்பகுதியில் சுமார் 380 பில்லியன் ரூபாவுக்கும் மேற்பட்ட சொத்துக்களை திறம்பட முகாமை செய்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d44ed1c5.json)
+
+---
+
+### முன்னாள் பாராளுமன்ற உறுப்பினர் ஜே.ஆர்.பி.சூரியப்பெரும காலமானார்
+
+*2025-01-03 03:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/202832) · `ta`
+
+மூத்த அரசியல்வாதியும், ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினருமான ஜே.ஆர்.பி.சூரியப்பெரும 96 ஆவது வயதில் வியாழக்கிழமை (02) காலமானார்.
+
+ஜே.ஆர்.பி.சூரியப்பெரும 2010 - 2015 ஆம் ஆண்டு வரையான காலப்பகுதியில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பாராளுமன்ற உறுப்பினராகப் பதவி வகித்தார்.
+
+அத்தோடு அக்கட்சியின் கேகாலை மாவட்ட டெடிகம தேர்தல் தொகுதியின் சிரேஷ்ட அமைப்பாளராகவும் அவர் பதவி வகித்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8e5cdb32.json)
+
+---
+
 ### உத்தேச தேர்தல்களில் சு.க.கதிரை சின்னத்தில் போட்டியிடும் - துமிந்த திஸாநாயக்க
 
 *2025-01-03 03:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202831) · `ta`
@@ -65,20 +151,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/03974fb5.json)
-
----
-
-### இவ்வருட வரவு செலவுத் திட்டத்திலேயே மிகப்பெரிய தொகை நிதி ஒதுக்கீடு - சுகாதார அமைச்சர்
-
-*2025-01-03 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202830) · `ta`
-
-கதிர்காம கந்தன் மாத்திரமல்ல 33 கோடி தேவர்கள் தரும் நிதியைவிட அதிகளவான தொகை, சுகாதாரத் துறைக்காக வருடாந்தம் திரைசேரியிலிருந்து விடுவிக்கப்படுகிறது. வரலாற்றில் சுகாதார அமைச்சுக்கா, இவ்வருட வரவு செலவுத் திட்டத்திலேயே மிகப்பெரிய தொகை நிதி ஒதுக்கீடு செய்யப்பட்டுள்ளதாக சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-மஹரகம புற்றுநோய் வைத்தியசாலையில் சிறுவர் புற்று நோயாளர்களுக்கான எலும்பு மஜ்ஜை மற்றும் இரத்த அணுக்கள் மாற்று  சிகிச்சைப் பிரிவு நேற்று சுகாதார அமைச்சரால் திறந்து வைக்கப்பட்டுள்ளது. இலங்கை விமானப்படையின் பங்களிப்புடனும் கதிர்காமம் முருகன் ஆலயத்தின் நிதி உதவியுடன் மேற்படி விசேட அலகு புற்றுநோய் வைத்தியசாலையில் ஸ்தாபிக்கப்பட்டுள்ளது. சிறுவர் புற்றுநோயாளர்களுக்காக இலங்கை அரச வைத்தியசாலைகளில் முதன் முறையாக நிர்மாணிக்கப்பட்ட எலும்பு மஜ்ஜை மற்றும் இரத்த அணுக்கள் மாற்று  சிகிச்சைப் பிரிவு இதுவாகும்.
-
-...
-
-[Data](articles/5f4068d8.json)
 
 ---
 
@@ -1755,81 +1827,5 @@ Jayaweera began by acknowledging the educational background of many of the curre
 ...
 
 [Data](articles/2dbcf19d.json)
-
----
-
-### පාර්ලිමේන්තුව ජනවාරි 7 සිට 10 දක්වා රැස්වෙයි
-
-*2025-01-02 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204961) · `si`
-
-පාර්ලිමේන්තුව 2025 ජනවාරි 7 වැනිදා සිට 10 වැනිදා දක්වා රැස්වීමට තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
-
-කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් 2024.12.31 දින පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභා රැස්වීමේදී මේ බව තීරණය වී තිබේ.
-
-මේ අනුව ජනවාරි 7 වැනි අඟහරුවාදා පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇත.
-
-අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.30 දක්වා රජය විසින් ගෙනෙනු ලබන "2024 වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව" සම්බන්ධව සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වූ බව මහලේකම්වරිය පැවසුවාය.
-
-ජනවාරි 8 වැනි බදාදා පෙ.ව 9.30 - පෙ.ව 10.00 කාලය අග්‍රාමාත්‍යවරියගෙන් අසනු ලබන ප්‍රශ්න සඳහා (ප්‍රශ්න 4ක්) වෙන් කර ඇත.
-
-අනතුරුව පෙ.ව 10.00 පෙ.ව 10.30 කාලය කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා (ප්‍රශ්න 5ක්) වෙන් කර තිබේ.
-
-...
-
-[Data](articles/f5445ce0.json)
-
----
-
-### සේනානායක සමුද්‍රය වාන් දැමීමට ආසන්නයි
-
-*2025-01-02 12:55:30* · [`adalk`](https://www.ada.lk/breaking_news/සේනානායක-සමුද්‍රය-වාන්-දැමීමට-ආසන්නයි/11-413977) · `si`
-
-සේනානායක සමුද්‍රයේ ජලපෝෂක ප්‍රදේශය වන මොනරාගල බිබිල දොරපොතකන්ද ප්‍රදේශයට මේ දිනවල ඇදහැලෙන වර්ෂාවත් සමඟ මොනරාගල දිස්ත්‍රික්කයේ පිහිටි ඉගිණියාගල සේනානායක සමුද්‍රය ජනවාරි (02) වෙනිදා වන විට ජලයෙන් පිරී වාන් දැමීමට ආසන්නව පවතින බව වාරිමාර්ග නිලධාරීහු පවසති.
-
-සේනානායක සමුද්‍රයේ ජලධාරිතාව අක්කර අඩි  7,70, 000 වන අතර මේවන විට එය අක්කර අඩි 6,13,200 ලඟාවී ඇත.  ජල මට්ටමේ උස අඩි 101.20 වන අතර උපරිම මට්ටම 110 කි.අඩි 104 වන විට ජලාශයේ ගේට්ටු විවෘතකිරීමට නියමිතය.
-
-සේනානායක ජලාශය යටතේ අම්පාර දිස්ත්‍රික්කයේ කුඹුරු අක්කර එක්ලක්ෂ විසිදහසක මහ කන්නයේ වී වගාකෙරේ.
-
-පසුගිය වසරේ ඇදහැළුණු මහ වැස්සත් සමඟ වගාවන්ට හානි සිදුවූ අතර ඇලවේලි සහ පිටවාන ස්ථාන 751 කින් කැඩී බිඳී ගොස් තිබූ අතර මේ වන විට රුපියල් මිලියන 15 වැයකර ඒවා පිළිසකර කර තිබේ.
-
-◼️
-
-[Data](articles/0342bece.json)
-
----
-
-### මාතර සිටි රැඳවියන් පිරිසක් අඟුණුකොළපැලැස්සට
-
-*2025-01-02 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204960) · `si`
-
-මාතර බන්ධනාගාරයේ බෝ ගසක අත්තක් කඩා වැටිමෙන් සිදුවු අනතුරෙන් පසුව 54 වගන්තිය යටතේ රඳවා සිටින රැඳවියන් අඟුණුකොළපැලැස්ස බන්ධානාගරය වෙත මාරුකිරීමට අවශ්‍ය කටයුතු මේ වන විට සුදානම් කරමින් පවතින බව මාතර බන්ධනාගාර අධිකාරි මංගල වැලිවිට මහතා පවසයි.
-
-ඔහු පැවසුවේ මාතර බන්ධනාගාරය තුළ පවතින් ඉඩකඩ සීමාවීම හේතුවෙන් මෙම පියවර ගත් බවය.
-
-බෝ ගසේ අත්ත කඩා වැටිමෙන් සිදුවු අනතුරෙන් G හා F යන වාට්ටු දෙකට දැඩි හානි සිදුව තිබේ.
-
-මේ අතර, අනතුරෙන් මියගිය රැඳවියා මත්ද්‍රව්‍ය ජවාරම් කිරීම සම්බන්ධයෙන් රුපියල් 20,000ක දඩයක් නියම වී එම දඩය නොගෙවීම හේතුවෙන් බන්ධනාගාරගතව සිටි මිදිගම තුර්කි ගම්මානයේ පදිංචිව සිටි අයෙක් බව සඳහන් වේ.
-
-මෙවන විට බන්ධනාගාරය අවට ආරක්ෂාව පොලීසිය හා පොලිස් විශේෂ කාර්ය බළකාය විසින් ද බන්ධනාගාරය තුළ ආරක්ෂාව ගාල්ල හා මාතර බන්ධනාගාරයේ බන්ධනාගාර නිලධාරින් විසින්ද තහවුරු කොට ඇති අතර බන්ධනාගාරය තුළ කටයුතු සාමන්‍ය පරිදි සිදු වෙමින් පවතින බව මංගල වැලිවිට මහතා පවසයි.
-
-තුවාල ලැබු රැඳවියන් 11 දෙනා මේ වනවිට මාතර මහා රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර ඉන් එක් අයෙකුගේ තත්ත්වය බරපතළ වාර්තා වේ.
-
-...
-
-[Data](articles/56e1cfe1.json)
-
----
-
-### Academic Standards At Theological College Of Lanka: Bogus Accreditation
-
-*2025-01-02 12:37:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/academic-standards-at-theological-college-of-lanka-bogus-accreditation/) · `en`
-
-I refer to the letters from Rev. Dr. Albert Jebanesan and Rev. Nadarajah Arulnathan, and deny their charge that my article is inaccurate. It is funny that the former should write a protest letter with misleading and untrue statements and then append an opinionated  letter from the latter to buttress his accusations with no facts in support.
-
-I was on the UGC at one time and many foreign graduates seeking employment in Sri Lanka would come to us for a letter certifying that their degree is accredited. Given that there are tens of thousands of universities, and we lacked the means to examine each one, our policy was simple. If that university was a British Commonwealth University and was listed in the Commonwealth Universities Year Book, then it was recognized and we issued a letter of certification.
-
-...
-
-[Data](articles/b1718dae.json)
 
 ---

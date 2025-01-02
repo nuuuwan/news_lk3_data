@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 19:03:09**
+As of **2025-01-02 19:14:09**
 
 ## Newspaper Stats
 
-*Scraped **63,333** Articles*
+*Scraped **63,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,057
-adaderanalk | 7,747
+adaderanalk | 7,750
 tamilmirrorlk | 9,084
 virakesarilk | 10,539
-adaderanasinhalalk | 10,940
+adaderanasinhalalk | 10,941
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,333 articles have been extended.
+61,971 (97.8%) of 63,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### ශ්‍රී ලංකා සංචාරය කමින්ස්ට අහිමි වෙයි
+
+*2025-01-02 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204974) · `si`
+
+ඔස්ට්‍රේලියානු කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිත ශ්‍රී ලංකා ටෙස්ට් තරග සංචාරය ඔවුන්ගේ නිත්‍ය නායක පැට් කමින්ස්ට අහිමිවනු ඇති බව වාර්තා වේ.
+
+මේ හේතුවෙන් ඔස්ට්‍රේලියානු කණ්ඩායමේ වැඩබලන නායක ලෙස ස්ටීවන් ස්මිත් කටයුතු කරනු ඇති බව වාර්තා වේ.
+
+වෝන් - මුරලි කුසලානය වෙනුවෙන් තරග 2කින් යුත් ටෙස්ට් තරගාවලියක් සඳහා ඔස්ට්‍රේලියානු කණ්ඩායම මෙම මස ශ්‍රී ලංකාවට පැමිණීමට නියමිතව ඇත.
+
+දෙරට අතර පළමු ටෙස්ට් තරගය ජනවාරි 29වනදා ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වේ.
+
+◼️
+
+[Data](articles/e2e3ed77.json)
+
+---
 
 ### ජේ ආර් පී සූරියප්පෙරුම අභාවප්‍රාප්ත වෙයි
 
@@ -41,6 +59,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7cd84c3b.json)
+
+---
+
+### Former MP J.R.P. Suriyapperuma passes away
+
+*2025-01-02 18:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104681/former-mp-jrp-suriyapperuma-passes-away) · `en`
+
+Veteran Sri Lankan politician and former Member of Parliament J. R. P. Suriyapperuma has passed away.
+
+Suriyapperuma has previously served as the chief organiser of the the Sri Lanka Freedom Party (SLFP) for the Dedigama electorate in the Kegalle District.
+
+◼️
+
+[Data](articles/ff92ebfb.json)
+
+---
+
+### India funds rehabilitation of Sri Lanka’s Karainagar Boatyard
+
+*2025-01-02 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104680/india-funds-rehabilitation-of-sri-lankas-karainagar-boatyard) · `en`
+
+A Memorandum of Understanding (MoU) has been signed between India and Sri Lanka for rehabilitation of the Karainagar Boatyard in Northern Province of Sri Lanka with grant assistance from the Government of India to the tune of LKR 290 million.
+
+The MoU was signed and exchanged by High Commissioner of India to Sri Lanka Santosh Jha and the then High Commissioner of Sri Lanka to India Kshenuka Dhireni Senewiratne on December 16, 2024.
+
+Issuing a statement, the Indian High Commission in Colombo said the project envisages rehabilitation of Karainagar Boatyard of the Cey-Nor Foundation Ltd, incorporated under the Ministry of Finance, Planning and Economic Development and operating under the Ministry of Fisheries, Aquatic and Ocean Resources.
+
+...
+
+[Data](articles/269802e8.json)
 
 ---
 
@@ -129,6 +177,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f9ae2553.json)
+
+---
+
+### PM calls for in-depth study on low school attendance of A/L students
+
+*2025-01-02 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104679/pm-calls-for-in-depth-study-on-low-school-attendance-of-al-students) · `en`
+
+The Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya has called for an in-depth investigation into the growing trend of students pursuing Advanced Level education staying away from school.
+
+During an observation tour of the Maharagama National Institute of Education, the Prime Minister expressed concern over the significant decline in classroom attendance, particularly among boys. She emphasized that addressing this issue is crucial to ensuring equal educational opportunities for all children.
+
+Furthermore, Dr. Amarasuriya noted that it is unacceptable for children to miss out on their education due to social or economic factors, while stressing the importance of creating an environment where every child has access to 13 years of schooling and the possibility of pursuing higher education.
+
+...
+
+[Data](articles/f26a1115.json)
 
 ---
 
@@ -1729,75 +1793,5 @@ At the time of the incident, nearly 100 inmates were housed in Wards G and F. Pr
 ◼️
 
 [Data](articles/5faa4453.json)
-
----
-
-### Final phase of 2024 third school term begins today
-
-*2025-01-02 08:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104657/final-phase-of-2024-third-school-term-begins-today) · `en`
-
-The final phase of the third school term for 2024 in government schools and government-approved private schools commenced today (January 2).
-
-Education authorities have announced that schools will be held from today until January 24 to complete the term.
-
-Furthermore, arrangements have been made to conduct the final school term examinations starting from tomorrow (January 3).
-
-The new school term for 2025 is planned to commence on January 27 and will continue until March 14.
-
-Meanwhile, the commencement of school for Grade 01 students in government and government-approved private schools for the year 2025 is scheduled to take place on Thursday, January 30.
-
-The second phase of the first school term for 2025 will be conducted from April 1 to April 11, with the final phase scheduled from April 21 to May 9.
-
-◼️
-
-[Data](articles/135149f5.json)
-
----
-
-### Body found at floating market in Pettah
-
-*2025-01-02 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104656/body-found-at-floating-market-in-pettah) · `en`
-
-An unidentified body has been discovered at the Floating Market in Pettah, the police said.
-
-The body is that of a male person and was found in the lake near the Floating Market in Pettah.
-
-◼️
-
-[Data](articles/dbc62b0a.json)
-
----
-
-### පිටකොටුවේ පාවෙන වෙළෙඳ සංකීර්ණයේ නාඳුනන මළ සිරුරක්
-
-*2025-01-02 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204954) · `si`
-
-පිටකොටුවේ පාවෙන වෙළෙඳ සංකීර්ණය අසල තිබෙන ජලාශයේ තිබී නාඳුනන පිරිමි මළ සිරුරක් හමුවී තිබේ.
-
-අද (02) උදෑසන එම මළ සිරුර සොයාගෙන ඇති අතර, වැඩිදුර පරීක්ෂණ මරදාන පොලීසිය විසින් සිදුකරයි.
-
-◼️
-
-[Data](articles/96aa0433.json)
-
----
-
-### සයිබර් ප්‍රහාරයට ලක්වූ මුද්‍රණ දෙපාර්තමේන්තු වෙබ් අඩවිය අද යථා තත්ත්වයට
-
-*2025-01-02 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204953) · `si`
-
-සයිබර් ප්‍රහාරයට ලක්වු රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ වෙබ් අඩවිය සහ පොලීසියේ යුටියුබ් නාළිකාව මේ වන විට යථා තත්ත්වයට පත් කරමින් සිටින බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
-
-එහි ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා සඳහන් කළේ, අද (02) දිනය තුළ එම කටයුතු යථා තත්ත්වයට පත් කිරීමේ හැකියාව පවතින බවය.
-
-කෙසේවෙතත් අදාළ සයිබර් ප්‍රහාර කුමන පාර්ශවයක් සිදුක‍ළේ ද යන්න සම්බන්ධයෙන් මෙතෙක් නිශ්චිත තොරතුරු අනාවරණය වී නොමැති බව සඳහන්ය.
-
-පසුගිය දෙසැම්බර් මස 30 වන දින රාත්‍රී පොලීසියේ සමාජ මාධ්‍ය ජාලාවලට සයිබර් ප්‍රහාරයක් එල්ල වූ අතර රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ වෙබ් අඩවියට ද එවැනිම ප්‍රහාරයක් එල්ල වී තිබුණි.
-
-අදාළ සයිබර් ප්‍රහාර යථා තත්ත්වයට පත් කිරීම් සම්බන්ධයෙන් ශ්‍රී ලංකා පරිගනක හදිසි ප්‍රතිචාර සංසදයේ ප්‍රධාන තොරතුරු ආරක්ෂණ නිලධාරී නිරෝෂ් ආනන්ද මහතා "අද දෙරණ" සමග අදහස් පළ කළේය.
-
-◼️
-
-[Data](articles/bb06eff8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 13:01:55**
+As of **2025-01-02 13:12:53**
 
 ## Newspaper Stats
 
-*Scraped **63,269** Articles*
+*Scraped **63,270** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,050
 adaderanalk | 7,734
-tamilmirrorlk | 9,076
+tamilmirrorlk | 9,077
 virakesarilk | 10,522
 adaderanasinhalalk | 10,924
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,924
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,269 articles have been extended.
+61,971 (97.9%) of 63,270 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### மூன்று வாகனங்கள் சிக்கின
+
+*2025-01-02 13:05:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-வாகனங்கள்-சிக்கின/175-349666) · `ta`
+
+சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்டு, போலியான முறையில் ஆவணங்களை தயாரித்து, மோட்டார் திணைக்களத்தின் ஊடாக போலி இலக்கங்களுடன் பதிவு செய்யப்பட்டு பயன்படுத்திய வாகனங்கள் மூன்று கைப்பற்றப்பட்டுள்ளன.
+
+பின்வத்த பொலிஸ் பிரிவில் முன்னாள் மாகாண சபை உறுப்பினர் பயன்படுத்துவதாக கிடைத்த தகவலுக்கு அமைய வலான மோசடி தடுப்பு பிரிவுக்கு கிடைத்த தகவல்களின் அடிப்படையில், அந்த அதிகாரிகள் குழு 2024 டிசெம்பர் 31ஆம் திகதியன்று இராணுவம் பயன்படுத்தும் வாகனத்தை போன்ற Mitsubishi வாகனத்தை தமது பொறுப்பின் கீழ் கொண்டு வந்தனர்.
+
+அதன் பின்னர் மேற்கொள்ளப்பட்ட மேலதிக விசாரணைகளின் பிரகாரம், Land Rover ஜீப் வாகனங்கள் இரண்டு, ரத்மலானை பிரதேசத்தில் வைத்து 2025.01.01 அன்று பொலிஸாரின் பொறுப்பின் கீழ் கொண்டுவரப்பட்டது.
+
+இந்த மூன்று வாகனங்களும் மோட்டார் பதிவு திணைக்களத்தின் ஊடாக, அரச நிறுவனங்களுக்கு பதியப்படும் இலக்கங்களின் கீழ், போலியான ஆவணங்களை தயாரித்து பெற்றுக்கொள்ளப்பட்டுள்ளது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dd8ad3fd.json)
+
+---
 
 ### කිලිනෙච්චියේ පාලමක් යටින් පිරිමි මළසිරුරු දෙකක් හමුවෙයි
 
@@ -1737,23 +1755,5 @@ Mangata is conveniently-located in the historic city of Galle and offers the per
 ...
 
 [Data](articles/86f54fcf.json)
-
----
-
-### Exams Dept. takes final decision on 2024 Scholarship Exam paper leak
-
-*2025-01-01 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104651/exams-dept-takes-final-decision-on-2024-scholarship-exam-paper-leak) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara says a decision has been made to award free marks to all students for the three questions which were alleged to have been leaked in the 2024 Grade 05 Scholarship Examination, as per the recent Supreme Court order.
-
-On Tuesday (31), the Supreme Court declared that the fundamental human rights have been violated through the Cabinet of Ministers’ decision to award free marks to all students for the three questions of the 2024 Grade 05 Scholarship Examination which are alleged to have been leaked.
-
-Accordingly, the court also ordered the Commissioner General of Examinations to immediately implement a suitable recommendation out of the three recommendations made by the experts’ committee appointed to look into the matter.
-
-2. Awarding free marks for all the candidates for the compromised questions
-
-...
-
-[Data](articles/0a2b4391.json)
 
 ---

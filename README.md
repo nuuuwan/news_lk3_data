@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 11:44:28**
+As of **2025-01-02 12:03:34**
 
 ## Newspaper Stats
 
-*Scraped **63,252** Articles*
+*Scraped **63,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,047
-adaderanalk | 7,730
+adaderanalk | 7,734
 tamilmirrorlk | 9,072
-virakesarilk | 10,516
+virakesarilk | 10,522
 adaderanasinhalalk | 10,924
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,252 articles have been extended.
+61,971 (98.0%) of 63,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### கொழும்பில் சொகுசு அடுக்குமாடியிலிருந்து விழுந்து உயிரிழந்த மாணவன் ; தாயார் பாடசாலை மீது சட்ட நடவடிக்கை
+
+*2025-01-02 11:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202746) · `ta`
+
+கொழும்பு கொம்பனித்தெருவில் உள்ள அல்டெயார் சொகுசு அடுக்குமாடிக் குடியிருப்பின் 67வது மாடியில் இருந்து தவறி விழுந்த மாணவன் மற்றும் மாணவனின் மரணம் கடந்த சில மாதங்களாக பெரும் சர்ச்சையைக் கிளப்பியது.
+
+இந்நிலையில், உயிரிழந்த மாணவனின் தாயார் மகனின் மரணத்திற்கு நீதி கேட்டு தொடர்ந்து போராடி வருகின்றார்.
+
+பாடசாலையின் கவனக்குறைவு மற்றும் பொறுப்பற்ற செயற்பாடே மாணவனின் மரணத்திற்குக் காரணம் எனக் குற்றம் சாட்டியுள்ளார்.
+
+மாணவன் உயிரிழந்த அன்று  நடந்த சம்பவங்கள் குறித்து விளக்கம் கோரி பாடசாலை மற்றும் அதன் உயர் அதிகாரிகளுக்குப் பல கடிதங்கள் எழுதியிருந்தார். ஆனால் சுமத்தப்பட்ட அனைத்து உரிமைகோரல்களையும் குற்றச்சாட்டுகளையும் மறுத்து பாடசாலை நிர்வாகம் பதிலளித்துள்ளது.
+
+அவர் பாடசாலைக்கு அனுப்பிய கடிதத்தில் 500,000,000 ரூபாய் நட்ட ஈடு கோரியுள்ளார். பாடசாலையின் கவனக்குறைவு மற்றும் பொறுப்பற்ற செயற்பாடே மாணவனின் மரணத்திற்குக் காரணம் என அந்தக் கடிதத்தில் குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c1a37e5c.json)
+
+---
+
+### விபத்தில் சிக்கிய பல்கலைக்கழக மாணவன் யாழில் உயிரிழப்பு!
+
+*2025-01-02 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/202754) · `ta`
+
+மோட்டார் சைக்கிள் - கார் விபத்தில் சிக்கிய கொழும்பு பல்கலைக்கழக இறுதியாண்டு மாணவன் ஒருவர் செவ்வாய்க்கிழமை (31) யாழ்ப்பாணம் போதனா வைத்தியசாலையில் உயிரிழந்துள்ளார்.
+
+ரயில் நிலைய வீதி, வைரவபுளியங்குளம், வவுனியாவைச் சேர்ந்த சந்திரபோஸ் சஜீகாந் (வயது 23) என்ற மாணவனே இவ்வாறு உயிரிழந்துள்ளார்.
+
+இவர் கடந்த 25ஆம் திகதி தனது வீட்டில் இருந்து நண்பரின் வீடு நோக்கி மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்தார். இதன்போது, குருமன்காடு பகுதியில் வீதியில் நிறுத்தி வைத்திருந்த காருடன் அவரது மோட்டார் சைக்கிள் மோதி விபத்து சம்பவித்துள்ளது.
+
+இந்நிலையில், சிகிச்சைக்காக வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டார். பின்னர் மேலதிக சிகிச்சைக்காக 26ஆம் திகதி யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார். இருப்பினும் சிகிச்சை பலனின்றி நேற்று முன்தினம் உயிரிழந்துள்ளார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் மேற்கொண்டார்.
+
+◼️
+
+[Data](articles/d72264c0.json)
+
+---
 
 ### சிறுநீரக நோயாளர் கொடுப்பனவு அதிகரிப்பு
 
@@ -48,6 +88,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### அநுராதபுரத்தில் ஹெரோயினுடன் ஒருவர் கைது !
+
+*2025-01-02 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202750) · `ta`
+
+அநுராதபுர பொலிஸ் பிரிவில், மோட்டார் சைக்கிளில் ஹெரோயின் போதைப் பொருளினை எடுத்துச் சென்ற சந்தேக நபர் ஒருவரை அநுராதபுரம் வலய குற்றத்தடுப்பு பிரிவு பொலிஸார் நேற்று புதன்கிழமை (01) கைது செய்துள்ளனர்.
+
+வலய குற்றத்தடுப்பு பிரிவு பொலிஸாருக்கு கிடைத்த தகவலுக்கு அமைய அநுராதபுரம் நகரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டவரிடம் இருந்து, 30 கிராமுக்கும் அதிகமான ஹெரோயின் போதைப்பொருள் மற்றும் சந்தேக நபர் பயணித்த மோட்டார் சைக்கிள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகளை அநுராதபுரம் வலய குற்றத்தடுப்பு பிரிவு பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/4e2e5733.json)
+
+---
+
 ### காதலனுக்கு தொலைபேசியை பரிசளித்த பெண் கைது
 
 *2025-01-02 11:31:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதலனுக்கு-தொலைபேசியை-பரிசளித்த-பெண்-கைது/76-349655) · `ta`
@@ -61,6 +119,114 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6ef07c12.json)
+
+---
+
+### புறக்கோட்டையில் 40 இலட்சம் ரூபாவுக்கு அதிக பெறுமதியான போதை மாத்திரைகளுடன் வியாபாரி கைது
+
+*2025-01-02 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/202747) · `ta`
+
+கொழும்பு, புறக்கோட்டை பொலிஸ் பிரிவிற்கு உட்பட்ட பகுதியில்  40 இலட்சம் ரூபாவுக்கு அதிக பெறுமதியான போதை மாத்திரைகளுடன் ஆடை வியாபாரி ஒருவர் நேற்று புதன்கிழமை (01) காலை கைது செய்யப்பட்டுள்ளதாக புறக்கோட்டை பொலிஸார் தெரிவித்தனர்.
+
+புறக்கோட்டை பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது ஆடை களஞ்சியசாலை ஒன்றில் வைத்து சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் வத்தளை ஹுனுபிட்டிய பிரதேசத்தை சேர்ந்த 34 வயதுடையவர் ஆவார்.
+
+புத்தாண்டு கொண்டாட்டங்களுக்காக விற்பனை செய்வதற்கும், கொழும்பை சுற்றியுள்ள களியாட்ட விடுதிகளுக்கு விநியோகம் செய்வதற்கும் சந்தேக நபர் இந்த போதை மாத்திரைகளை வைத்திருந்ததாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/117f35a3.json)
+
+---
+
+### Sri Lanka’s first govt pediatric bone marrow transplant unit opens at Apeksha Hospital
+
+*2025-01-02 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104663/sri-lankas-first-govt-pediatric-bone-marrow-transplant-unit-opens-at-apeksha-hospital-) · `en`
+
+The first and only Bone Marrow and Hematopoietic Stem Cell Transplant (HSCT) Unit in a government hospital for children with cancer in Sri Lanka was inaugurated at the Apeksha Cancer Hospital in Maharagama today (Jan. 02).
+
+This landmark achievement was made possible through the financial support of the Ruhunu Maha Kataragama Devalaya and the dedicated labor contribution of the Sri Lanka Air Force (SLAF).
+
+The inauguration ceremony was graced by the Minister of Health and Mass Media, Dr. Nalinda Jayatissa, Secretary to the Ministry of Health, Dr. Anil Jasinghe, Commander of the Air Force Air Marshal Udeni Rajapaksa, and the ‘Basnayake Nilame’ of the Kataragama Devalaya, Dishan Gunasekara.
+
+The project began in response to the increasing need for space for children receiving residential treatment at the Maharagama Apeksha Hospital. In 2023, the Basnayake Nilame of Ruhunu Maha Kataragama Devalaya pledged financial resources from the Kataragama Devalaya Fund for the project.
+
+...
+
+[Data](articles/7c6d133f.json)
+
+---
+
+### நடுக்கடலில் தத்தளித்த பயணிகள் படகு பாதுகாப்பாக மீட்பு !
+
+*2025-01-02 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202752) · `ta`
+
+யாழ்.நெடுந்தீவிலிருந்து - குறிகாட்டுவான் நோக்கி பயணித்த பயணிகள் படகு இயந்திரக் கோளாறு காரணமாக நடுக்கடலில் தத்தளித்தபோது பயணிகள் பாதுகாப்பாக மீட்கப்பட்டுள்ளனர்.
+
+நெடுந்தீவில் இருந்து நேற்று புதன்கிழமை(01) பகல் 11:30 மணிக்கு குறிகாட்டுவான் நோக்கி சேவையில் ஈடுபட்ட பயணிகள் படகானது நடுக்கடலில் இயந்திர கோளாறு ஏற்பட்டு இயங்காமல் நின்றுள்ளது.
+
+இதன்போது குறித்த படகில் வெளிநாட்டு சுற்றுலா பயணிகள், தென்பகுதி மக்கள் மற்றும் உள்ளூர் மக்கள் என சுமார் 60 பேருக்கும் அதிகமானோர் இருந்துள்ளனர்.
+
+படகு கடல் கொந்தளிப்பினால் தத்தளித்த நிலையில் இதனை அவதானித்த மீன்பிடி படகுகள் கரைக்கு தகவல் கொடுத்த நிலையில், நெடுந்தீவு ப.நோ.கூட்டுறவு சங்கத்திற்கு சொந்தமான படகின் உதவியுடன் பயணிகள் படகு மீட்கப்பட்டு பாதுகாப்பாக கரைக்கு கொண்டுவரப்பட்டுள்ளது. பயணிகளுக்கும் எந்தவொரு பாதிப்பும் ஏற்படவில்லை.
+
+குறித்த பகுதிக்கு நெடுந்தீவு பிரதேச செயலாளர் மற்றும் ஊழியர்களும் விரைந்து சென்று நிலைமைகளை அவதானித்தனர். சம்பவத்தால் படகில் பயணித்த மக்கள் பதற்றமடைந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/777e1e79.json)
+
+---
+
+### Armed man kills 10 including 2 children in shooting rampage in Montenegro
+
+*2025-01-02 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104662/armed-man-kills-10-including-2-children-in-shooting-rampage-in-montenegro) · `en`
+
+At least 10 people, including two children, were killed and four others were seriously wounded on Wednesday in a shooting rampage that followed a bar brawl in a western Montenegrin city, officials said. The shooter was on the run.
+
+Police identified the attacker as 45-year-old Aco Martinovic. He killed the owner of the bar in the city of Cetinje, the bar owner’s children and his own family members, Interior Minister Danilo Saranovic said at a news conference.
+
+“At this moment, we are focused on arresting him,” Saranovic told reporters.
+
+Police dispatched special troops to search for the attacker in Cetinje, located some 30 kilometers (18 miles) northwest of the capital, Podgorica. All the roads in and out of the city have been blocked as police swarmed the streets.
+
+Saranovic described the suspect as dangerous and appealed on the residents to stay indoors.
+
+...
+
+[Data](articles/2fa104da.json)
+
+---
+
+### Two unidentified bodies found in reservoir in Kilinochchi
+
+*2025-01-02 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104661/two-unidentified-bodies-found-in-reservoir-in-kilinochchi) · `en`
+
+The bodies of two unidentified men have been discovered in a reservoir in Puliyampokkanai area along the A35 main road in Kilinochchi, the police reported.
+
+◼️
+
+[Data](articles/b3e9d607.json)
+
+---
+
+### ஐஎஸ் அமைப்பின் கொடியுடன் வாகனத்தை செலுத்தி பொதுமக்கள் மீது தாக்குதல் - நியுஓர்லியன்ஸ் சம்பவம் குறித்து அதிகாரிகள் தகவல்
+
+*2025-01-02 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/202751) · `ta`
+
+நியு ஓர்லியன்சில் வாகனத்தை கண்மூடித்தனமாக செலுத்தி பொதுமக்கள்மீது மோதிய நபர் ஐஎஸ்ஐஎஸ் அமைப்பின் கொடியுடன் தனது வாகனத்தை செலுத்தினார் என விசாரணைகளின் போது தகவல்கள் வெளியாகியுள்ளன
+
+முன்னாள் அமெரிக்க இராணுவீரரானநபர் ஒருவர் ஐஎஸ்; அமைப்பின் கொடியுடன் தனது வாகனத்தை  மிக வேகமாக செலுத்தி தற்காலிக வீதிதடைகளை கடந்து வந்து புதுவருடத்தன்று பொதுமக்கள் மீது மோதினார் என தெரிவித்துள்ள அதிகாரிகள் இவர்  ஏனையவர்களின் உதவியுடனேயே செயற்பட்டிருக்கவேண்டும் என தெரிவித்துள்ளனர்.
+
+சந்தேகநபர் அமெரிக்காவின் டெக்ஸாஸை சேர்ந்த 42 வயது சம்சுட் டின் ஜபார் என அடையாளம் காணப்பட்டுள்ளார்.இவர் தனது வாகனத்தினால் பொதுமக்களை தாக்கியதை தொடர்ந்து இவர் மீது நடத்தப்பட்ட  துப்பாக்கி பிரயோகத்தில் உயிரிழந்தார்.
+
+இரண்டு பொலிஸார் உட்பட 30 பேர் காயமடைந்துள்ளனர், பொலிஸார் மீது சந்தேகநபர் துப்பாக்கி பிரயோகத்தினை மேற்கொண்டுள்ளார்.
+
+இசைநிகழ்வுகள் மதுபானசாலைகளிற்கு பிரபலமான சுற்றுலாப்பயணிகள் அதிகம் காணப்படும் இப்பகுதியில் புதுவருட கொண்டாட்டங்கள் இடம்பெற்றுக்கொண்டிருந்தவேளை இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+...
+
+[Data](articles/048c88fc.json)
 
 ---
 
@@ -121,6 +287,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/69031bdb.json)
+
+---
+
+### SLCERT working to restore hacked Sri Lanka Police YouTube channel and Printing Dept’s website
+
+*2025-01-02 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104660/slcert-working-to-restore-hacked-sri-lanka-police-youtube-channel-and-printing-depts-website) · `en`
+
+The Sri Lanka Computer Emergency Readiness Team (SLCERT) has revealed that efforts are currently underway to restore the official website of the Sri Lanka Department of Government Printing and the official YouTube channel of the Sri Lanka Police Department, both of which were subjected to recent cyber-attacks.
+
+Chief Information Security Officer Nirosh Ananda stated that there is a strong likelihood of restoring them within today (January 2).
+
+However, no specific information has been disclosed yet regarding the identity of the parties responsible for the cyber attacks.
+
+The cyber-attacks occurred on the night of December 30, 2024, targeting the social media accounts of Sri Lanka Police and the website of the Government Printing Department.
+
+Speaking to “Ada Derana,” SLCERT’s Chief Information Security Officer, Nirosh Ananda, provided updates on the ongoing restoration process.
+
+◼️
+
+[Data](articles/c57b1867.json)
 
 ---
 
@@ -1569,193 +1755,5 @@ Accordingly, the court also ordered the Commissioner General of Examinations to 
 ◼️
 
 [Data](articles/c39bbc81.json)
-
----
-
-### சட்டத்தின் ஆட்சியை பாதுகாப்பதில் நீதி அமைச்சுக்கு பாரிய பொறுப்பு இருக்கிறது - நீதி அமைச்சர் ஹர்ஷன நாணயக்கார
-
-*2025-01-01 18:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202733) · `ta`
-
-மக்கள் கோரிய மாற்றத்தை மேற்கொள்வது இந்த அரசாங்கத்தின் பொறுப்பாகும். அந்த மாற்றத்தை ஏற்படுத்தும்போது பாரிய பொறுப்பு அரச ஊழியர்களுக்கே இருக்கிறது. அதனால் பொது மக்களுக்காக நாங்கள் இந்த மாற்றத்தை ஏற்படுத்த வேண்டும் என நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
-
-புதுவருடத்தில் நீதி மற்றும் ஒருமைப்பாடு அமைச்சின் கடமைகளை  ஆரம்பிக்கும் நிகழ்வு புதன்கிழமை (01) நீதி அமைச்சு வளாகத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-பல வருடங்களாக மக்கள் எதிர்பார்த்திருந்த மாற்றம் ஏற்பட்டு தற்போது புதிய அரசாங்கம் அதிகாரத்துக்கு வந்திருக்கிறது. புதிய அரசாங்கம் அதிகாரத்துக்கு வந்து புதிய அமைச்சரவை நியமிக்கப்பட்டது. புதிய பாராளுமன்ற உறுப்பினர்கள் நியமிக்கப்பட்டுள்ளனர். ஆனால் அரச சேவை புதிதாக நியமிக்கப்படவில்லை. என்றாலும் இந்த அரசாங்கத்தை அதிகாரத்துக்கு கொண்டுவர அரச ஊழியர்கள் பாரியளவில் அர்ப்பணித்தார்கள். தபால் மூல வாக்குகளில் அது தெளிவாகியுள்ளது.
-
-...
-
-[Data](articles/d497427e.json)
-
----
-
-### At least 10 dead after truck crashes into New Orleans crowd, city authorities say
-
-*2025-01-01 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104650/at-least-10-dead-after-truck-crashes-into-new-orleans-crowd-city-authorities-say) · `en`
-
-At least 10 people were killed and 30 injured when a truck drove into a large crowd on Bourbon Street in New Orleans’ French Quarter early on Wednesday, a city government agency said.
-
-Earlier CBS News, citing witnesses, reported that a truck had crashed into the crowd at high speed, and then the driver got out and started firing a weapon, with police returning fire.
-
-"Initial reports show a car may have plowed into a group of people. Injuries are unknown but there are reported fatalities," New Orleans Police Department spokesperson told CBS News.
-
-The police department did not immediately respond to a Reuters’ request for comment.
-
-◼️
-
-[Data](articles/b18c8532.json)
-
----
-
-### நடிகர் சிபி சத்யராஜ் நடிக்கும் 'டென் ஹவர்ஸ் ' படத்தின்  ஃபர்ஸ்ட் லுக் வெளியீடு
-
-*2025-01-01 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202727) · `ta`
-
-தமிழின் முன்னணி நடிகரான சிபி சத்யராஜ் சிறிய இடைவெளிக்குப் பிறகு கதையின் நாயகனாக அழுத்தமான வேடத்தில் நடித்திருக்கும் 'டென் ஹவர்ஸ் 'எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
-
-அறிமுக இயக்குநர் இளையராஜா கலியபெருமாள் இயக்கத்தில் உருவாகி வரும் ' டென் ஹவர்ஸ் 'எனும் திரைப்படத்தில் சிபி சத்யராஜ் கதையின் நாயகனாக நடித்திருக்கிறார். இந்தப் படத்தில் அவருடன் நடித்திருக்கும் ஏனைய நடிகர்கள், நடிகைகள் பற்றிய விவரங்களை படக்குழுவினர் அதிகாரப்பூர்வமாக வெளியிடவில்லை.
-
-ஜெய் கார்த்திக் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே. எஸ். சுந்தரமூர்த்தி இசையமைத்திருக்கிறார்.‌ பயணத்தை அடிப்படையாகக் கொண்ட இந்த திரைப்படத்தை டுவின் ஸ்டுடியோஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் லதா பாலு மற்றும் துர்காயினி வினோத் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
-
-...
-
-[Data](articles/d0c07d4d.json)
-
----
-
-### නාමල් කුමාර රක්ෂිත බන්ධනාගාර ගත කෙරේ
-
-*2025-01-01 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204936) · `si`
-
-අත්අඩංගුවට ගනු ලැබූ සමාජ ක්‍රියාකාරිකයෙකු වන නාමල් කුමාර එළැඹෙන ජනවාරි 15 වනදා ​​දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර තිබේ.
-
-ඔහු කොටුව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කර ඇත.
-
-කොළඹ අගරදගුරු අතිඋතුම් මැල්කම් කාදිනල් රංජිත් හිමිපාණන්ගේ කීර්ති නාමයට අපහාස වන අයුරින් සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වන හඬපටය සම්බන්ධයෙන් මෙම අත්අඩංගුවට ගැනීම සිදුකළ බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී බුද්ධික මනතුංග මහතා පැවසීය.
-
-එම හඬපටය සම්බන්ධයෙන් පරීක්ෂණයක් පවත්වන ලෙස කතෝලික සභාව විසින් කොළඹ අපරාධ කොට්ඨාසය වෙත කරනු ලැබූ පැමිණිල්ලට අදාළව සිදුකළ විමර්ශනයකින් අනතුරුව මෙම අත්අඩංගුවට ගැනීම සිදුකළ බවද හෙතෙම පැවසීය.
-
-නාමල් කුමාර කොළඹ අපරාධ කොට්ඨාසය වෙත ප්‍රකාශයක් ලබාදීමට පැමිණි අවස්ථාවේදී අද (01) දහවල් අත්අඩංගුවට ගනු ලැබීය.
-
-◼️
-
-[Data](articles/52585107.json)
-
----
-
-### Social activist Namal Kumara remanded
-
-*2025-01-01 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104649/social-activist-namal-kumara-remanded) · `en`
-
-Social activist Namal Kumara has been ordered to be remanded until January 15, 2025.
-
-This order has been issued after he was produced before the Fort Magistrate’s Court.
-
-He was arrested by the Colombo Crimes Division (CCD) earlier today (01).
-
-Police said that the arrest was made in connection with the audio recording being circulated in social media which allegedly defames the reputation of the Archbishop of Colombo, His Eminence Malcolm Cardinal Ranjith.
-
-Recently, the Archdiocese of Colombo had requested for a probe into the incident. The Media Director of the Archdiocese, Rev. Fr. Jude Krishantha alleged that activist Namal Kumara is an abettor of the Easter Sunday massacres and asserted that Kumara is plotting another scene at the request of a certain third party.
-
-Police Media Spokesman SSP Buddhika Manathunga confirmed that the arrest followed an extended investigation into the incident, based on a complaint made by Rev. Fr. Jude Krishantha to the CCD regarding the matter.
-
-◼️
-
-[Data](articles/f8575220.json)
-
----
-
-### බිත්තරයක තොග මිල රු. 35ක් දක්වා ඉහළට
-
-*2025-01-01 17:22:15* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරයක-තොග-මිල-රු--35ක්-දක්වා-ඉහළට/11-413965) · `si`
-
-බිත්තරයක තොග මිල ඊයේ (01දා) රුපියල් 34ත් රුපියල් 35ත් අතර මිලක් ගෙන තිබූ අතර, මේ අනුව සිල්ලර මිල රුපියල් 40 දක්වා ඉහළ ගොස් තිබුණි.
-
-පසුගිය සතියේදී කුඩා ප්‍රමාණයේ බිත්තරයක තොග මිල රුපියල් 20 දක්වා පහත වැටී තිබූ අතර, මේ අනුව සිල්ලර මිල රුපියල් 28ත් 30ත් අතර මිලක පැවතිණි.
-
-ඉල්ලුමට සරිලන ලෙස බිත්තර තොග නොලැබීම නිසා මේ වන විට බිත්තර මිල  ඉහළ ගොස් තිබෙන බවද බිත්තර තොග වෙළඳුන් සඳහන් කරති.
-
-පසුගිය සතියේදී දෛනික බිත්තර ඉල්ලුම බිත්තර ලක්ෂ අසූවක පමණ මට්ටමේ පැවැති බවත්, එම කාලය තුළදී දෛනිකව බිත්තර ලක්ෂ අසූපහකට ආසන්න ප්‍රමාණයක් වෙළෙඳ පොළට ලැබුණු බවට ව්‍යාපාරිකයෝ පෙන්වා දෙති.
-
-එහෙත් මේ වන විට දෛනික බිත්තර සැපයුම් ලක්ෂ හැත්තෑවක් මට්ටමට පහත වැටී තිබෙන බවත්, මේ නිසා ඉල්ලුමට සරිලන ලෙස සැපයුම් නොමැති වීම නිසා බිත්තර මිල ඉහළ ගොස් තිබෙන බවද සඳහන් කරති.
-
-බිත්තර මිල පහළ යාමට සාපේක්ෂව පසුගිය දිනවල කුකුල් මස් කිලෝවක (දෛනික කුකුල් මස්) මිල රුපියල්  දහසක් දක්වා අඩු වී තිබූ අතර, බිත්තර මිල ඉහළ යාමට සාපේක්ෂව ඉදිරියේදී කුකුල් මස් මිල ඉහළ යාමේ අවදානමක් පවතින බවද ව්‍යාපාරිකයෝ පෙන්වා දෙති.
-
-◼️
-
-[Data](articles/69654496.json)
-
----
-
-### Over 7,000 motorists penalized for traffic offenses in 24 hours
-
-*2025-01-01 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104647/over-7000-motorists-penalized-for-traffic-offenses-in-24-hours) · `en`
-
-In a 24-hour operation that concluded at 6.00 a.m. today (01), Sri Lanka Police have enforced the law against 529 drunk drivers as part of a nationwide effort to minimize traffic accidents during the festive season.
-
-According to the Police Media Division, a total of 7,264 drivers were penalized for various traffic violations during this period. Among these, 1,057 drivers were charged for breaching traffic rules, 614 for license-related offenses, 54 for speeding, 57 for reckless driving and 4,953 over other traffic-related offenses.
-
-Meanwhile, the Police Media Division stated that this is the highest number of drunk drivers arrested in a 24-hour window since the launch of this special traffic operation.
-
-This special traffic operation, launched from December 23 under the directives of the Acting Inspector General of Police, is aimed at enhancing road safety across the island. The initiative comes amidst the festive season, a time typically marked by an increase in traffic incidents.
-
-◼️
-
-[Data](articles/b94ff018.json)
-
----
-
-### நடிகர் ஷாம் நடிக்கும் ' அஸ்திரம்' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
-
-*2025-01-01 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202725) · `ta`
-
-தென்னிந்திய திரையுலகில் புகழ்பெற்ற நட்சத்திர நடிகரான ஷாம் கதையின் நாயகனாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'அஸ்திரம் ' எனும் திரைப்படத்தின் வெளியீட்டு திகதி பிரத்யேக புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.‌
-
-இயக்குநர் அரவிந்த் ராஜகோபால் இயக்கத்தில் உருவாகி இருக்கும் 'அஸ்திரம் 'எனும் திரைப்படத்தில் ஷாம், நிரஞ்சனி ,  நிழல்கள் ரவி , ஜீவா ரவி, அருள் டி. சங்கர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கல்யாண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கே. எஸ். சுந்தரமூர்த்தி இசையமைத்திருக்கிறார்.
-
-கிரைம் வித் இன்வெஸ்டிகேஷன் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை பெஸ்ட் மூவிஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் தனசண்முகமணி தயாரித்திருக்கிறார்.
-
-அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருந்த இந்த திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
-
-அந்த வகையில் இந்த படம் எதிர்வரும் பெப்ரவரி மாதம் 21 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகைகளில் வெளியாகிறது.
-
-...
-
-[Data](articles/dec9f765.json)
-
----
-
-### Sri Lanka in discussion with IMF on SOE restructuring; says privatization is not first option
-
-*2025-01-01 17:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-in-discussion-with-imf-on-soe-restructuring-says-privatization-is-not-first-option-197457/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government led by ruling National People’s Power (NPP) is in discussions with the International Monetary Fund (IMF) on the restructuring of state owned enterprises (SOE) and it will not opt for privatization as the first option, Cabinet Spokesman Nalinda Jayatissa said.
-
-Soon after the election of President Anura Kumara Dissanayake, his interim government said it would not privatize state-owned national carrier SriLankan Airlines. Later, it said a decision would be taken after the November 14 parliamentary election.
-
-It is not clear what will be done with SriLankan which also has a defaulted bond and other loans. The last administration was also planning the privatize several state ventures which were hit by procedural delays.
-
-...
-
-[Data](articles/03346514.json)
-
----
-
-### Sri Lanka rupee closes stronger at 293.10/30 to dollar, bonds steady
-
-*2025-01-01 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-10-30-to-dollar-bonds-steady-197450/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 293.10/30 to the US dollar on Wednesday from 293.25/75 on Tuesday, dealers said, while bond yields were broadly steady.
-
-The rupee has appreciated from 322.20/40 on January 1, 2024.
-
-A bond maturing on 15.12.2026 closed down at 9.35/50 percent, from 9.40/55 percent.
-
-A bond maturing on 15.12.2027 closed at 9.85/95 percent, up from 9.75/90 percent.
-
-A bond maturing on 15.09.2029 closed stable at 10.60/70 percent.
-
-◼️
-
-[Data](articles/fd83602a.json)
 
 ---

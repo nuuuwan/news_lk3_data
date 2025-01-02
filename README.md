@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 15:44:07**
+As of **2025-01-02 16:02:26**
 
 ## Newspaper Stats
 
-*Scraped **63,302** Articles*
+*Scraped **63,306** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,052
-adaderanalk | 7,742
+adaderanalk | 7,745
 tamilmirrorlk | 9,081
 virakesarilk | 10,529
-adaderanasinhalalk | 10,934
+adaderanasinhalalk | 10,935
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,302 articles have been extended.
+61,971 (97.9%) of 63,306 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### කොටස් වෙළෙඳපොළේ ලොකු පිම්මක්
+
+*2025-01-02 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204967) · `si`
+
+කොළඹ කොටස් වෙළෙඳපොළ සියලු කොටස් මිල දර්ශකය අද (02) දිනයේ දී ඒකක 16,000 සීමාව ඉක්මවා ගියේය.
+
+ශ්‍රී ලංකා ප්‍රාග්ධන වෙළෙඳපොළ ඉතිහාසයේ මෙවන්නක් සිදු වූ පළමු අවස්ථාව මෙය ලෙසින් සැලකෙයි.
+
+ඒ අනුව අද දිනය තුළ සියලු කොටස් මිල දර්ශකය ඒකක 403.94කින් ඉහළ ගොස්, ඒකක 16,348.55ක් ලෙස සටහන් විය.
+
+මේ අතර අද දින රු. බිලියන 12.86ක දැවැන්ත ගනුදෙනු පිරිවැටුමක් වාර්තා වීම විශේෂත්වයක්ය.
+
+◼️
+
+[Data](articles/08f9cf15.json)
+
+---
 
 ### “உயர் கல்வி பிள்ளைகள்  விலகுவதை  ஆராயவும்”
 
@@ -45,6 +63,48 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3904632e.json)
+
+---
+
+### ASPI surpasses 16,000 points mark for first time ever
+
+*2025-01-02 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104674/aspi-surpasses-16000-points-mark-for-firsttimeever) · `en`
+
+The Colombo Stock Exchange (CSE) reached a historic milestone today (January 02) as the All Share Price Index (ASPI) surpassed the 16,000-points mark for the first time in the capital market’s history.
+
+The ASPI surged by 403.94 points, closing at 16,348.55, which is an increase of 2.53% compared to the previous close.
+
+Meanwhile, the S&P SL20 has gained 111.99 points to close at 4,974.09 points, an increase by 2.30%.
+
+Additionally, the day has witnessed an exceptional transaction turnover of over Rs. 12.86 billion.
+
+◼️
+
+[Data](articles/c3698fe1.json)
+
+---
+
+### Sri Lanka clears ‘suspicious’ drone found in seas off Trinco, prepares for return
+
+*2025-01-02 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104673/sri-lanka-clears-suspicious-drone-found-in-seas-off-trinco-prepares-for-return-) · `en`
+
+A jet-powered target drone found by local fishermen in the sea area off Trincomalee has been confirmed to pose no threat to the country’s security.
+
+This was confirmed as per the final report submitted by the committee appointed to investigate the matter.
+
+The report, which has been handed over to the Sri Lanka Air Force (SLAF) Commander, outlines the findings while clearing any concerns regarding the drone’s presence.
+
+The investigation revealed that the drone, which was discovered by a group of fishermen on December 27, belongs to an Indian company and was being used for training purposes.
+
+The report further confirms that the drone had been adrift at sea for nearly two weeks before being located.
+
+It has also emphasized that the incident does not have any impact on Sri Lanka’s security and poses no risk to the country.
+
+Accordingly, the drone will be handed over to the relevant company, according to SLAF sources.
+
+◼️
+
+[Data](articles/036689b4.json)
 
 ---
 
@@ -75,6 +135,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9e7cdd2f.json)
+
+---
+
+### Labour Ministry introduces WhatsApp number to streamline services
+
+*2025-01-02 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104672/labour-ministry-introduces-whatsapp-number-to-streamlineservices) · `en`
+
+The Ministry of Labor has introduced a new WhatsApp number, 070 7227877, to speed up the responses by the Ministry of Labour and the Labour Department to the issues faced by State and private sector employees.
+
+This initiative aims to streamline services and enable the public to submit their requests easily, while enhancing the efficiency and to facilitate public communication.
+
+The Ministry expects both the Ministry of Labour and the Department of Labour to provide prompt relief and interventions in response to employee needs.
+
+Additionally, the Ministry stated that this WhatsApp number is intended to address service-related issues faced by private and semi-government employees promptly.
+
+◼️
+
+[Data](articles/d10738b8.json)
 
 ---
 
@@ -270,7 +348,7 @@ On December 19, 2024, the Cabinet of Ministers granted approval for the import o
 
 පසුගිය 27 වනදා ත්‍රිකුණාමලයට ආසන්න මුහුදේ තිබී මෙම ඩ්‍රෝන යානය ධීවරයින් පිරිසකට හමුව තිබුණි.
 
-මෙම යානය සති දෙකකට ආසන්න කාලයක් මුහුදේ තිබී ඇති බවද එම වාර්තාව මගන් පෙන්වා දී ඇති අතර එය නැවතත් ආදාළ සමාගමට භාරදීම සම්බන්ධයෙන් අවධාරනය යොමු කර තිබේ.
+මෙම යානය සති දෙකකට ආසන්න කාලයක් මුහුදේ තිබී ඇති බවද එම වාර්තාව මගන් පෙන්වා දී ඇති අතර එය නැවතත් ආදාළ සමාගමට භාරදීම සම්බන්ධයෙන් අවධානය යොමු කර තිබේ.
 
 ◼️
 
@@ -310,15 +388,15 @@ On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., fo
 
 ---
 
-### ලුණු මෙට්‍රික්ටොන් 30000ක් ආනයනයට හෙට සිට ටෙන්ඩර්
+### ලුණු මෙට්‍රික්ටොන් 20000ක් ආනයනයට හෙට සිට ටෙන්ඩර් විවෘත කරයි
 
 *2025-01-02 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204964) · `si`
 
-ලුණු මෙට්‍රික්ටොන් 30,000ක් ආනයනය කිරීම සඳහා රජය හෙට (03) සිට ටෙන්ඩර් විවෘත කිරීමට පියවර ගෙන තිබේ.
+ශ්‍රී ලංකා රාජ්‍ය වාණිජ (විවිධ) නීතිගත සංස්ථාව (STC) හරහා ලුණු මෙට්‍රික්ටොන් 20,000ක් ආනයනය කිරීම සඳහා හෙට (03) සිට ටෙන්ඩර් විවෘත කිරීමට පියවර ගෙන තිබේ.
 
 අදියර 2ක් යටතේ එලෙස ලුණු ආනයනය කිරීමට පියවර ගන්නා අතර පළමු අදියර යටතේ මෙට්‍රික්ටොන් 20,000ක් සහ දෙවන අදියර යටතේ මෙට්‍රික්ටොන් 10,000ක් ආනයනය කෙරෙනු ඇත.
 
-ඒ අනුව පළමු අදියට යටතේ ලුණු මෙට්‍රික්ටොන් 20,000ක් ආනයනය කිරීම සඳහා හෙට දිනයේ මෙලෙස ටෙන්ඩර් විවාත කිරීමට නියමිතය.
+ඒ අනුව පළමු අදියර යටතේ ලුණු මෙට්‍රික්ටොන් 20,000ක් ආනයනය කිරීම සඳහා හෙට දිනයේ මෙලෙස ටෙන්ඩර් විවාත කිරීමට නියමිතය.
 
 මෙලෙස ආනයනය කෙරෙන ලුණු කර්මාන්ත අමාත්‍යාංශය යටතේ බෙදාහැරීමට කටයුතු යොදා තිබේ.
 
@@ -1745,67 +1823,5 @@ President Anura Kumara Dissanayake greets Archbishop of Colombo Cardinal Malcolm
 ◼️
 
 [Data](articles/e8202e1b.json)
-
----
-
-### Namal Kumara remanded until 15 Jan.
-
-*2025-01-02 03:00:46* · [`dailyftlk`](https://www.ft.lk/news/Namal-Kumara-remanded-until-15-Jan/56-771290) · `en`
-
-Self-proclaimed activist Namal Kumara has been remanded until 15 January by the Colombo Fort Magistrate. Kumara was taken into custody when he arrived at the Colombo Crime Division (CCD) to provide a statement yesterday.
-
-The arrest follows a complaint lodged by Namal Kumara with the Presidential Secretariat and the Criminal Investigation Department (CID) regarding an audio recording that allegedly tarnished the reputation of the Archbishop of Colombo Malcolm Cardinal Ranjith.
-
-The Catholic Church has since urged authorities to investigate the matter thoroughly. The Colombo Archdiocese, through its Media Director Rev. Fr. Jude Krishantha, has expressed concerns about Kumara’s alleged involvement in controversial activities. Rev. Fr. Krishantha said that Kumara was reportedly a supporter of the 2019 Easter Sunday attack and was allegedly orchestrating another drama under the influence of a third party.
-
-...
-
-[Data](articles/905743f7.json)
-
----
-
-### Govt. says funding needy school children  to purchase stationery ensures education for all
-
-*2025-01-02 03:00:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-says-funding-needy-school-children-to-purchase-stationery-ensures-education-for-all/56-771289) · `en`
-
-The Finance Ministry yesterday said the Government expects the scheme to fund purchase of stationery for needy school children will provide big relief to both parents and students apart from ensuring education for all.
-
-In a statement, the Finance Ministry said the “Household Survey on the Impact of the Economic Crisis – 2023,” conducted by the Department of Census and Statistics, states that the adverse effects of the economic crisis have significantly impacted children’s education. The survey reveals that 55% of school children have been adversely affected, with this percentage being higher in rural and estate areas. Furthermore, it was found that 53.2% of the affected children have either reduced or completely stopped purchasing school stationery, while 26.1% have resorted to re-using previously used stationery.
-
-...
-
-[Data](articles/15762323.json)
-
----
-
-### Oya Madu debacle – authorities gone mad?
-
-*2025-01-02 02:49:04* · [`dailyftlk`](https://www.ft.lk/columns/Oya-Madu-debacle-authorities-gone-mad/4-771288) · `en`
-
-Because they damage crops and cause other numerous damage, everyone blames the elephants and other wildlife. Many now want these animals (thankfully not the wild elephants) slaughtered. This shows our lack of fresh thinking and compassion. We do not seem to have other solutions than the easy method available – slaughter. It is the humans that encroached into jungle land, not vice versa. Today there is very little jungle area left for the wild elephants and other animals to roam. It could be around 12% of the country’s total land mass
-
-At the moment, at least 60 elephants are stranded in the Oya Madu area including in the NLDB farm.
-
-These elephants are the subjects of a drive from Thalawa, Galgamuwa, Thambuththegama areas. To please the villagers in those areas, the authorities chased them out of there.
-
-They are mainly female elephants that live in herds with calves.
-
-...
-
-[Data](articles/bd6d8f51.json)
-
----
-
-### e-Traffic என்ற புதிய செயலியை அறிமுகப்படுத்திய பொலிஸ்!
-
-*2025-01-02 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202738) · `ta`
-
-கிளீன் ஸ்ரீலங்கா - 2025 திட்டத்திற்கு அமைய போக்குவரத்து முறைகேடுகள் மற்றும் போக்குவரத்து விதிமீறல்களில் ஈடுபடும் வாகனங்கள் தொடர்பில் பொதுமக்கள் துரிதமாக புகாரளிக்க ஈ- டிராபிக் (e-Traffic) என்னும் கையடக்கத் தொலைபேசி செயலி அறிமுகப்படுத்தப்பட்டுள்ளதாக பதில் பொலிஸ்மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய தெரிவித்தார்.
-
-பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவினால் புதன்கிழமை (1) பொலிஸ் தலைமையகத்தில் வைத்து, ஈ-டிராபிக் (e-Traffic)  கையடக்கத் தொலைபேசி செயலி அறிமுகப்படுத்தும் நிகழ்வு இடம்பெற்றிருந்தது. இதன்போது கருத்து தெரிவிக்கையிலேயே அவர் இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/ebf1c5ce.json)
 
 ---

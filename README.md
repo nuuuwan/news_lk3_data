@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 13:44:29**
+As of **2025-01-02 14:03:12**
 
 ## Newspaper Stats
 
-*Scraped **63,279** Articles*
+*Scraped **63,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,849
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,050
+adalk | 6,051
 adaderanalk | 7,734
 tamilmirrorlk | 9,077
 virakesarilk | 10,525
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,279 articles have been extended.
+61,971 (97.9%) of 63,280 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -197,6 +197,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6a6883d1.json)
+
+---
+
+### නව ජාතික බුද්ධි ප්‍රධානී වැඩ අරඹයි
+
+*2025-01-02 11:57:20* · [`adalk`](https://www.ada.lk/breaking_news/නව-ජාතික-බුද්ධි-ප්‍රධානී-වැඩ-අරඹයි/11-413974) · `si`
+
+ජාතික බුද්ධි ප්‍රධානී මේජර් ජෙනරල් රුවන් වනිගසූරිය (විශ්‍රාමික) මහතා සිය ධුරයේ ඊයේ (01)දින වැඩ ආරම්භ කරනු ලැබීය.  ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) මහතා අතින් මේජර් ජෙනරල් රුවන් වනිගසූරිය (විශ්‍රාමික) මහතා සිය පත්වීම් ලිපිය ලබා ගත්තේය.
+
+ඉන් අනතුරුව ඒ මහතා ශ්‍රී ජයවර්ධනපුර කෝට්ටේ පිහිටි ආරක්‍ෂක අමාත්‍යාංශයේ සිය කාර්යාලයේදී නව පත්වීමෙහි රාජකාරී ආරම්භ කළේය.
+
+ජාතික බුද්ධි අංශ ප්‍රධානි ලෙස කටයුතු කළ මේජර් ජෙනරාල් රුවන් කුලතුංග මහතා විශ්‍රාම ගැනීමෙන් අනතුරුව පුරප්පාඩු වු ජාතික බුද්ධි ප්‍රධානී ධුරය සඳහා මේජර් ජෙනරල් රුවන් වනිගසූරිය (විශ්‍රාමික) මහතාව මෙලෙස පත්කර තිබේ.
+
+◼️
+
+[Data](articles/6c0fc396.json)
 
 ---
 
@@ -1753,17 +1769,5 @@ Mix the juice from 01 medium-sized potato with a tablespoon of olive oil.
 ...
 
 [Data](articles/49c8feef.json)
-
----
-
-### ‘ A new asset class – the Cryptos’
-
-*2025-01-01 20:48:00* · [`islandlk`](http://island.lk/a-new-asset-class-the-cryptos/) · `en`
-
-Blockchain technology or platform has many real world applications in terms of transparent and efficient delivery of public services not to mention endless commercial applications/possibilities (Web3 is nothing short of an upgrade of the internet itself which enables secure exchange of value). For an example, the land registry or the vehicle registry (or any other Registry for that matter) can be on Blockchain allowing easy public access, swift and low cost transactions, transparency etc. etc.
-
-...
-
-[Data](articles/db54ae9c.json)
 
 ---

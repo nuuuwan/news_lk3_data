@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 17:00:49**
+As of **2025-01-02 17:12:52**
 
 ## Newspaper Stats
 
-*Scraped **63,311** Articles*
+*Scraped **63,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,849
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,054
+adalk | 6,055
 adaderanalk | 7,745
 tamilmirrorlk | 9,084
 virakesarilk | 10,529
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,311 articles have been extended.
+61,971 (97.9%) of 63,312 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -457,6 +457,20 @@ On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., fo
 ◼️
 
 [Data](articles/a151b76a.json)
+
+---
+
+### කොටස් වෙළඳපොළේ දැවැන්ත වර්ධනයක් - ඒකක 16000 පන්නයි - පිරිවැටුම රු.බි. 10යි
+
+*2025-01-02 13:47:38* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළේ-දැවැන්ත-වර්ධනයක්---ඒකක-16000-පන්නයි---පිරිවැටුම-රු-බි--10යි/11-413980) · `si`
+
+කොළඹ කොටස් හුවමාරුවේ සුවිශේෂී සංධිෂ්ඨානයක් පසුකරමින් අද දිනයේදී සියලු කොටස් මිල දර්ශකය ඒකක 16000 සීමාව ඉක්මවා ගියේය. දිනය අවසානයේදී සියලු කොටස් මිල දර්ශකය ඒකක 403.9 කින් ඉහළ ගොස් ඒකක 16 348.5ක් දක්වා ඉහළ ගියේය.
+
+එසේම එස්. ඇන්ඩ් පී. දර්ශකයද ඒකක 111.9කින් ඉහළ ගොස් ඒකක 4974.0ක් දක්වා ඉහළ ගියේය. එසේම අද දිනයේදී වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 12. 8ක් විය.
+
+◼️
+
+[Data](articles/0abc8ce4.json)
 
 ---
 
@@ -1815,19 +1829,5 @@ This estate sells its production of prime CTC high grown teas, under the selling
 ◼️
 
 [Data](articles/f014f5ea.json)
-
----
-
-### Taj Lanka Hotels announces two additions to Board of Directors
-
-*2025-01-02 03:13:29* · [`dailyftlk`](https://www.ft.lk/business/Taj-Lanka-Hotels-announces-two-additions-to-Board-of-Directors/34-771296) · `en`
-
-Taj Lanka Hotels PLC has announced the appointment of Chandrasekaran Subramanian and Niloo Jayatilake as the Non -Executive Independent Directors.
-
-Chandrasekaran Subramanian is a qualified Chartered Accountant (CA) and holds an intermediate certification in Company Secretarial (CS), bringing over 40 years of diverse experience in organisational development, resulting in tangible outcomes. He possesses a unique combination of technical accounting expertise, operations management, and leadership skills, bolstered by advanced finance studies. Known as an entrepreneurial change agent, Chandrasekaran Subramanian is recognised for his balanced judgment, stability, and ability to build consensus across various business disciplines with differing agendas and visions.
-
-...
-
-[Data](articles/69ab5a4c.json)
 
 ---

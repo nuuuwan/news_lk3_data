@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 13:12:53**
+As of **2025-01-02 13:28:09**
 
 ## Newspaper Stats
 
-*Scraped **63,270** Articles*
+*Scraped **63,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ dailymirrorlk | 4,733
 adalk | 6,050
 adaderanalk | 7,734
 tamilmirrorlk | 9,077
-virakesarilk | 10,522
-adaderanasinhalalk | 10,924
+virakesarilk | 10,525
+adaderanasinhalalk | 10,929
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,270 articles have been extended.
+61,971 (97.9%) of 63,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### நேபாள பிரதமரை சந்தித்தார் முன்னாள் ஜனாதிபதி ரணில்
+
+*2025-01-02 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202769) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க நேபாள பிரதமர் கே.பி சர்மா ஒலியைச் சந்தித்துள்ளார்.
+
+ஒரு வார கால விஜயத்தை மேற்கொண்டு கடந்த டிசம்பர் மாதம் இந்தியா சென்ற ரணில் விக்கிரமசிங்க, அங்கிருந்து நேபாளத்திற்கு சென்று அந்நாட்டுப் பிரதமரை சந்தித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/23b9801c.json)
+
+---
 
 ### மூன்று வாகனங்கள் சிக்கின
 
@@ -47,6 +61,68 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dd8ad3fd.json)
+
+---
+
+### கல்கிசை - படோவிட்ட பகுதியில் புதிய பொலிஸ் நிலையம் திறப்பு
+
+*2025-01-02 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202760) · `ta`
+
+கல்கிசை பொலிஸ் பிரிவிற்குட்பட்ட படோவிட்ட பகுதியில் அமைக்கப்பட்டுள்ள புதிய பொலிஸ் நிலையத்தை திறந்து வைக்கும் நிகழ்வு வியாழக்கிழமை (01) நடைபெற்றது.
+
+பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சின் செயலாளர் ரவி சேனவிரத்ன மற்றும்  பதில் பொலிஸ் மா அதிபர்  சட்டத்தரணி பிரியந்த வீரசூரிய ஆகியோர் பொலிஸ் நிலையத்தை திறந்து வைத்தனர்.
+
+புதிய பொலிஸ் நிலையம் அமைந்துள்ள கட்டுகுருந்துவத்தை கிராம சேவக பிரிவில் சுமார் 3,250 வீடுகள் அமைந்துள்ளதுடன், சுமார் 12,990 பேர் வசிக்கின்றனர்.
+
+இந்நிலையில், பொதுமக்களுக்கு சிறந்த சேவையை வழங்குவதோடு, போதைப்பொருள் மற்றும் குற்றச்செயல்களை தடுப்பதற்காகவே புதிய பொலிஸ் நிலையம் அமைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/ef257454.json)
+
+---
+
+### පාර්ලිමේන්තුව ජනවාරි 7 සිට 10 දක්වා රැස්වෙයි
+
+*2025-01-02 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204961) · `si`
+
+පාර්ලිමේන්තුව 2025 ජනවාරි 7 වැනිදා සිට 10 වැනිදා දක්වා රැස්වීමට තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් 2024.12.31 දින පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභා රැස්වීමේදී මේ බව තීරණය වී තිබේ.
+
+මේ අනුව ජනවාරි 7 වැනි අඟහරුවාදා පෙ.ව 9.30 - පෙ.ව 10.30 කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇත.
+
+අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.30 දක්වා රජය විසින් ගෙනෙනු ලබන "2024 වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව" සම්බන්ධව සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වූ බව මහලේකම්වරිය පැවසුවාය.
+
+ජනවාරි 8 වැනි බදාදා පෙ.ව 9.30 - පෙ.ව 10.00 කාලය අග්‍රාමාත්‍යවරියගෙන් අසනු ලබන ප්‍රශ්න සඳහා (ප්‍රශ්න 4ක්) වෙන් කර ඇත.
+
+අනතුරුව පෙ.ව 10.00 පෙ.ව 10.30 කාලය කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා (ප්‍රශ්න 5ක්) වෙන් කර තිබේ.
+
+...
+
+[Data](articles/f5445ce0.json)
+
+---
+
+### මාතර සිටි රැඳවියන් පිරිසක් අඟුණුකොළපැලැස්සට
+
+*2025-01-02 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204960) · `si`
+
+මාතර බන්ධනාගාරයේ බෝ ගසක අත්තක් කඩා වැටිමෙන් සිදුවු අනතුරෙන් පසුව 54 වගන්තිය යටතේ රඳවා සිටින රැඳවියන් අඟුණුකොළපැලැස්ස බන්ධානාගරය වෙත මාරුකිරීමට අවශ්‍ය කටයුතු මේ වන විට සුදානම් කරමින් පවතින බව මාතර බන්ධනාගාර අධිකාරි මංගල වැලිවිට මහතා පවසයි.
+
+ඔහු පැවසුවේ මාතර බන්ධනාගාරය තුළ පවතින් ඉඩකඩ සීමාවීම හේතුවෙන් මෙම පියවර ගත් බවය.
+
+බෝ ගසේ අත්ත කඩා වැටිමෙන් සිදුවු අනතුරෙන් G හා F යන වාට්ටු දෙකට දැඩි හානි සිදුව තිබේ.
+
+මේ අතර, අනතුරෙන් මියගිය රැඳවියා මත්ද්‍රව්‍ය ජවාරම් කිරීම සම්බන්ධයෙන් රුපියල් 20,000ක දඩයක් නියම වී එම දඩය නොගෙවීම හේතුවෙන් බන්ධනාගාරගතව සිටි මිදිගම තුර්කි ගම්මානයේ පදිංචිව සිටි අයෙක් බව සඳහන් වේ.
+
+මෙවන විට බන්ධනාගාරය අවට ආරක්ෂාව පොලීසිය හා පොලිස් විශේෂ කාර්ය බළකාය විසින් ද බන්ධනාගාරය තුළ ආරක්ෂාව ගාල්ල හා මාතර බන්ධනාගාරයේ බන්ධනාගාර නිලධාරින් විසින්ද තහවුරු කොට ඇති අතර බන්ධනාගාරය තුළ කටයුතු සාමන්‍ය පරිදි සිදු වෙමින් පවතින බව මංගල වැලිවිට මහතා පවසයි.
+
+තුවාල ලැබු රැඳවියන් 11 දෙනා මේ වනවිට මාතර මහා රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර ඉන් එක් අයෙකුගේ තත්ත්වය බරපතළ වාර්තා වේ.
+
+...
+
+[Data](articles/56e1cfe1.json)
 
 ---
 
@@ -85,6 +161,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/99e95b37.json)
+
+---
+
+### தரம் 5 புலமைப்பரிசில் பரீட்சை : கசிந்த 3 வினாக்களுக்கும் இலவச புள்ளிகள் வழங்கப்படும் !
+
+*2025-01-02 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202759) · `ta`
+
+உச்ச நீதிமன்ற உத்தரவுக்கு அமைய, அண்மையில் நடைபெற்ற 2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளின் மூன்று வினாக்களுக்கு இலவச புள்ளிகள் வழங்கப்படும் என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+பரீட்சைகள் ஆணையாளர் நாயகம் எச். ஜே. எம். சி.அமித் ஜயசுந்தர நேற்று புதன்கிழமை (1) மாலை அறிக்கை ஒன்றை வௌியிட்டு இதனைக் குறிப்பிட்டுள்ளார்.
+
+கடந்த செப்டெம்பர் மாதம் 15ஆம் திகதி நடைபெற்ற தரம் 5 புலமைப்பரிசில் பரீட்சை வினாத்தாளின் மூன்று வினாக்கள் கசியப்பட்டிருந்தது.
+
+இந்த சர்ச்சைக்கு தீர்வு காணும் வகையில் இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/72f19302.json)
+
+---
+
+### යළි කරළියට ආ රන්වල
+
+*2025-01-02 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204959) · `si`
+
+රජයට, සමාජයට සහ ප්‍රතිලාභින්ට මෙහෙවරක් සිදුකළ හැක්කේ ශක්තිමත් ව්‍යාපාරිකයන් විසින් නිසි පරිදි බදු ගෙවන්නේ නම් පමණක් බව හිටපු කථානායක පාර්ලිමේන්තු මන්ත්‍රී අශෝක රන්වල මහතා පවසයි.
+
+නමුත් පසුගිය කාලසීමාව තුළ බදු මුදල් එකතුකර ගැනීමට නොහැකිව රජය ඉතා බරපතළ ඛේදවාචකයකට මුහුණදුන් බවත් එවැනි අවස්ථාවලදී යම් ව්‍යාපරිකයෙක් තමන්ගේ මුදලින් සුබසාධන කටයුතු කරන්නේ නම් එවැනි ව්‍යාපාරිකයන්ව පැසසුමට ලක්කළ යුතු බව මන්ත්‍රීවරයා වැඩදුරටත් පැහැදිලි කළේය.
+
+මන්ත්‍රීවරයා මේ බව පැවසුවේ ජයකිරණ සමූහ ව්‍යාපාරය 23 වන වරටත් පාසල් ළමුන්ට, ගැබිනි මාතාවන්ට සහ වැඩිහිටියන්ට සුබසාධනය සැලසීමේ අරමුණින් සංවිධානය කර තිබූ වැඩසටහනට ඊයේ (01) සහභිගී වු අවස්ථාවේ දීය.
+
+"ශක්තිමත් ව්‍යාපාරිකයන් බදු මුදල් ලබා දුන්නොත් පමණයි සමාජයට ප්‍රතිලාභයක්, මෙහෙවරක් කරන්න පුළුවන් වෙන්නේ. නමුත් මෙම බදු මුදල් එකතු කරගන්න බැරුව ඉතා බරපතළ ඛේදවාචකයකට පසුගිය කාලසීමාව තුළ මුහුණදුන්නා. ඒක තමයි අපේ අත්දැකීම."
+
+...
+
+[Data](articles/6a6883d1.json)
 
 ---
 
@@ -324,6 +436,24 @@ The project began in response to the increasing need for space for children rece
 
 ---
 
+### කතරගම දේවාලයේ පඬුරුවලින් ඉඳිකළ මෙරට ප්‍රථම ඇටමිදුළු බද්ද කිරීමේ ඒකකය විවෘත වෙයි
+
+*2025-01-02 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204958) · `si`
+
+ශ්‍රී ලංකා ගුවන් හමුදා ශ්‍රම දායකත්වයෙන් හා රුහුණු කතරගම මහා දේවාලයේ මුල්‍ය අනුග්‍රාහකත්වයෙන් පිළිකා රෝගි දරුවන් වෙනුවෙන් ඇටමිදුළු හා රුධිර ජනන සෛල බද්ද කිරීමේ ඒකකයක් මහරගම අපේක්ෂා රෝහලේ දී අද (02) විවෘත කෙරුණි.
+
+පිළිකා රෝගි දරුවන් වෙනුවෙන් රජයේ රෝහලක් තුළ ඉදිකරනු ලැබු පළමු හා එකම ඇටමිදුළු හා රුධිර ජනන සෛල බද්ධකිරීමේ ඒකකය ද මෙය වේ.
+
+සෞඛ්‍ය හා ජනමාධ්‍යය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස, සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම් වෛද්‍ය අනිල් ජාසිංහ, ගුවන් හමුදාධිපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ හා කතරගම දේවාලයේ බස්නායක නිළමේ ඩිෂාන් ගුණසේකර යන මහත්වරුන් මහරගම අපේක්ෂා රෝහල් පරිශ්‍රයේ දී විවෘත කිරීමේ අවස්ථාවට එක්ව තිබුණි.
+
+මහරගම අපේක්ෂා රෝහලේ ළමා වාට්ටු තුළ නේවාසිකව ප්‍රතිකාර ලබාගන්නා ළමුන් සඳහා පවතින ඉඩ පහසුකම් අවම වීම හේතුවෙන් රුහුණු මහා කතරගම දේවාලයේ බස්නායක නිළමේ ඩිෂාන් ගුණසේකර මහතා, විසින් කතරගම දෙවියන්ට පිං පිණිස රුහුණු මහා කතරගම දේවාල අරමුදලේ මුල්‍යමය අනුග්‍රාහකත්වයෙන් 2023 වසරේ දී මහරගම අපේක්ෂා රෝහලේ තෙමහල් වාට්ටු සංකිර්ණයක් ඉදිකිරීමට ඉදිරිපත් වුණි.
+
+...
+
+[Data](articles/cbeeb8c5.json)
+
+---
+
 ### Armed man kills 10 including 2 children in shooting rampage in Montenegro
 
 *2025-01-02 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104662/armed-man-kills-10-including-2-children-in-shooting-rampage-in-montenegro) · `en`
@@ -391,6 +521,20 @@ The bodies of two unidentified men have been discovered in a reservoir in Puliya
 ◼️
 
 [Data](articles/1b78fbef.json)
+
+---
+
+### A - 35 මාර්ගයේ නාඳුනන මළ සිරුරු දෙකක්
+
+*2025-01-02 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204957) · `si`
+
+කිළිනොච්චිය ඒ - 35 ප්‍රධාන මාර්ගයේ පුලියම්පොක්කනේ ප්‍රදේශයේ පාලමක් අසල ජලයේ පාවෙමින් තිබූ නාඳුනන පිරිමි පුද්ගලයින් දෙදෙනෙකුගේ මළ සිරුරු සොයාගෙන තිබේ.
+
+අප වාර්තාකරු පැවසුවේ මළ සිරුරු සම්බන්ධයෙන් පොලීසිය මේ වනවිට වැඩිදුර පරීක්ෂණ පවත්වන බවය.
+
+◼️
+
+[Data](articles/9622ff22.json)
 
 ---
 
@@ -1621,139 +1765,5 @@ About the Launch, Sam Huang, Business Development Manager, ASUS Sri Lanka, said,
 ...
 
 [Data](articles/a7a2b692.json)
-
----
-
-### Sri Lanka speedster Matheesha Pathirana to bowl for ComBank
-
-*2025-01-01 20:44:00* · [`islandlk`](http://island.lk/sri-lanka-speedster-matheesha-pathirana-to-bowl-for-combank/) · `en`
-
-Matheesha Pathirana, one of Sri Lanka’s most talented young cricket stars, has been appointed Brand Ambassador for Commercial Bank, the largest private sector bank in the country.
-
-Matheesha will specifically represent the ComBank Debit Card brand, the biggest debit card base in the country, reflecting the speed and agility of the brand, qualities that he is famous for. At Just 22, the right-arm fast bowler is already a household name in Sri Lanka as well as India. The Bank said the young cricketer embodies excellence, dedication, and resilience—qualities that align perfectly with the values of Commercial Bank, Sri Lanka’s most awarded financial institution.
-
-...
-
-[Data](articles/4a32f6d2.json)
-
----
-
-### LankaPay clinches Gold at CA Sri Lanka TAGS Awards 2024
-
-*2025-01-01 20:44:00* · [`islandlk`](http://island.lk/lankapay-clinches-gold-at-ca-sri-lanka-tags-awards-2024/) · `en`
-
-LankaPay is humbled by winning the coveted Gold Award under the SME category at the prestigious TAGS Awards 2024. Organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), TAGS Awards recognizes organizations that exemplify the highest standards in Transparency, Accountability, Governance, and Sustainability (TAGS). This accolade further solidifies LankaPay’s reputation as a trailblazer in the financial and technological landscape of Sri Lanka and our commitment for transparency, good governance and excellence.
-
-...
-
-[Data](articles/d5fb3d96.json)
-
----
-
-### Singer opens 1st ever Samsung AI powered smart store in Sri Lanka
-
-*2025-01-01 20:41:00* · [`islandlk`](http://island.lk/singer-opens-1st-ever-samsung-ai-powered-smart-store-in-sri-lanka/) · `en`
-
-In a groundbreaking move to revolutionize the technological landscape of Sri Lanka, Singer Sri Lanka has unveiled the country’s first AI-powered smart electronics in partnership with Samsung. This Samsung SmartThings store by Singer, located on Level 3 of the One Galle Face Mall, is set to redefine how Sri Lankans experience AI-powered technology and smart living solutions.
-
-The opening, held on December 17, 2024, marks a significant milestone in the longstanding partnership between Singer Sri Lanka and Samsung. The event was graced by Mohan Pandithage, Chairman of Hayleys PLC, and SangHwa Song, Managing Director of Samsung Sri Lanka, Sabry Ansar – Director and Head of CE Biz, Samsung Sri Lanka, Thushara Rathnaweera – Deputy General Manager and Head of MX Biz, Samsung Sri Lanka and Mahesh Wijewardene, CEO of Singer Group. Their presence underscored the shared commitment of both companies toward innovation and excellence.
-
-...
-
-[Data](articles/21088d95.json)
-
----
-
-### CCPI-based headline inflation continued to remain in negative territory in December 2024
-
-*2025-01-01 20:41:00* · [`islandlk`](http://island.lk/ccpi-based-headline-inflation-continued-to-remain-in-negative-territory-in-december-2024/) · `en`
-
-In line with the Central Bank’s near term projections, headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index (CCPI, 2021=100)1 remained in the negative territory for the fourth consecutive month, recording a deflation of 1.7% in December 2024 compared to the deflation of 2.1% in November 2024.
-
-Non-Food deflation (Y-o-Y) moderated to 3.0% in December 2024 from 3.3% in November 2024.
-
-Meanwhile, Food inflation (Y-o-Y) showed a marginal uptick recording 0.8% in December 2024 from 0.6% November 2024.
-
-On a month-on-month basis, the CCPI recorded an increase of 1.19% in December 2024 due to the combined effect of 1.24% increase in the prices of items in the Food category and 0.06% reduction in the prices of items in the Non-Food category. Meanwhile, core inflation (Y-o-Y), which reflects the underlying inflation trends in the economy, emained unchanged at 2.7% in December 2024.
-
-...
-
-[Data](articles/60c29b0e.json)
-
----
-
-### ‘Mangata Galle combines personalised Ayurveda and bespoke luxury’
-
-*2025-01-01 20:41:00* · [`islandlk`](http://island.lk/mangata-galle-combines-personalised-ayurveda-and-bespoke-luxury/) · `en`
-
-Mangata Galle has been unveiled as the latest jewel in the Adhitya Ayurveda family, adding a new dimension of wellness and luxury to the historic city of Galle. This expansion is a significant achievement for the company in meeting its goal of spreading the essence of Ayurveda and traditional medicine across Sri Lanka.
-
-Mangata is conveniently-located in the historic city of Galle and offers the perfect blend of privacy and adventure to guests looking to combine Ayurveda, culture and exploration. While the retreat provides an oasis of peace and tranquillity, its proximity to the Dutch Galle Fort, a UNESCO-World Heritage site, allows guests to delve into the region’s cultural richness, creating a balanced experience of relaxation and adventure.
-
-...
-
-[Data](articles/a0357ef3.json)
-
----
-
-### සංගා හා මහේල ජනපතිට දුන් ශක්තිය
-
-*2025-01-01 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204939) · `si`
-
-'ක්ලීන් ශ්‍රී ලංකා' සරල ලෙසින් අර්ථකථනය කළත් එය ඉතා ගැඹුරු අදහසක් තිබෙන ක්‍රියාවලියක් බව ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක කුමාර් සංගක්කාර මහතා පවසයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ සංකල්පයක් මත ක්‍රියාත්මකවන මෙම ජාතික වැඩසටහනේ සමාරම්භක උත්සවයට එක්වෙමින් සංගක්කාර මහතා මේ බව පවසා සිටියේය.
-
-'ක්ලීන් ශ්‍රී ලංකා' ජාතික ව්‍යාපෘතියේ සමාරම්භක උත්සවය ජනාධිපති ලේකම් කාර්යාලයේ දී අද (1) පෙරවරුවේදී පැවැත්විණි.
-
-මෙම අවස්ථාවට හිටපු නායකයින් දෙපළක් වන කුමාර් සංගක්කාර හා මහේල ජයවර්ධන මහත්වරුන්ද සහභාගි වූහ.
-
-මෙහිදී සංගක්කාර මහතා වැඩිදුරටත් පවසා සිටියේ, මෙම වැඩසටහන ඉතාම කාලීන වූත් වැදගත් ක්‍රියාවලියක් බවයි.
-
-එමෙන්ම මෙම මානසිකත්වය වෙනස්කිරීම තුළින් යහපත් වටිනාකම්, හරයන් එදිනෙදා ජීවිතයටත් පරිපාලනයටත් එක්කිරීම තුළින් රටේ දියුණුවට මෙන්ම ජනතාවගේ දියුණුවට ද විශාල රැකුළක් බවද හෙතෙම පැවසීය.
-
-...
-
-[Data](articles/27b557d4.json)
-
----
-
-### ’கிளீன் ஸ்ரீலங்கா’ பொலிஸாரின் அதிரடி நடவடிக்கை
-
-*2025-01-01 19:59:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிளீன்-ஸ்ரீலங்கா-பொலிஸாரின்-அதிரடி-நடவடிக்கை/175-349624) · `ta`
-
-'கிளீன் ஸ்ரீலங்கா' திட்டத்துடன் இணைந்து, இலங்கை பொலிஸினால் e-Traffic என்ற கையடக்க தொலைபேசி செயலி அறிமுகப்படுத்தப்பட்டுள்ளது.
-
-பொலிஸ் தலைமையகத்தில் வைத்து பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரியவினால் இந்த செயலி இன்று (01)  அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்பட்டிருந்தது.
-
-இந்த செயலி மூலம் பொதுமக்கள், போக்குவரத்து விதிமீறல்கள் குறித்து உடனடியாக முறைப்பாடு தெரிவிக்கலாம்.
-
-இலங்கை பொலிஸின் உத்தியோகபூர்வ இணையத்தளமான www.police.lk ஊடாக E-servicesக்குள் பிரவேசிப்பதன் மூலம் e-Traffic கையடக்கத் தொலைபேசி செயலியை உங்கள் கையடக்கத் தொலைபேசியில் இலகுவாகப் பதிவிறக்கம் செய்ய முடியும் என பொலிஸார்  ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-இதன் ஊடாக உங்களது முறைப்பாடுகளை உடனடியாக பொலிஸ் தலைமையகத்திற்கு அனுப்பி வைக்க முடியும் என தெரிவிக்கப்படுகிறது.
-
-...
-
-[Data](articles/eb940237.json)
-
----
-
-### බස් ගෙන්වද්දී බදු අඩු නොකළොත් අවම ගාස්තුව රු. 50ක් වේවි
-
-*2025-01-01 19:10:55* · [`adalk`](https://www.ada.lk/breaking_news/බස්-ගෙන්වද්දී-බදු-අඩු-නොකළොත්-අවම-ගාස්තුව-රු--50ක්-වේවි/11-413969) · `si`
-
-බස් රථවල පනවා තිබෙන බදු ඉවත් නොකර, බස් රථ ගෙන්වීමට සිදුවුවහොත් අවම බස් ගාස්තුව රුපියල් පනහක් බවට පත්කර, එතැන් පටන් ගාස්තුව ඉහළ දැමිය යුතු බව බස් හිමියෝ සඳහන් කරති.
-
-ආසන 54 සාමාන්‍ය සේවා  බස් රථයක් 2020 වසර වන විට රුපියල් ලක්ෂ හැත්තෑවත්, රුපියල් ලක්ෂ අසූවත් අතර මුදලක පැවති බවත් මේ වන විට බස් රථයක මිල එක්කෝටි හැත්ත ලක්ෂයක් දක්වා ඉහළ ගොස් තිබෙන බවද බස් හිමියෝ පෙන්වා දෙති.
-
-බස් රථයක මිල ඉහළ යාමට එක් හේතුවක් වී තිබෙන්නේ වැට් බද්ද හා වෙනත් බදු නිසා බවත්, මෙම මුදලට බස් රථ රැගෙනවිත් වර්තමාන බස් ගාස්තුවට ධාවනය කිරීම තුළින් කිසිදු ලාභයක් ලබා ගැනීමට නොහැකි වන බවද සඳහන් කරයි.
-
-වාහන ගෙන්වීම 2020 වසරින් පසු සීමා කර තිබූ බවත්, එහෙත් වාහන ගෙන්වීමට අවසර ලබා දීමට වර්තමාන ආණ්ඩුව තීරණය කර තිබෙන බවත්, මේ අනුව ඉදිරියේදී බස් රථ ගෙන්වීමට හැකි වන බවද පෙන්වා දෙයි.
-
-වාර්ෂික බස් ගාස්තු තීරණය කිරීමේදී බස් රථයේ මිල, අමතර කොටස් මිල, ඉන්ධන මිල ඇතුළු කරුණු සලකා බලන බවත්, මේ අනුව වර්තමානයේ පවතින මිලටම බස් රථ මිලදී ගැනීමට සිදුවුවහොත් වාර්ෂික ගාස්තු සංශෝධනයේදී පවා ගාස්තුව ඉහළ යන බවද සඳහන් කරයි.
-
-...
-
-[Data](articles/86f54fcf.json)
 
 ---

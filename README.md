@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 21:44:10**
+As of **2025-01-02 22:03:18**
 
 ## Newspaper Stats
 
-*Scraped **63,362** Articles*
+*Scraped **63,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 3,863
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,060
-adaderanalk | 7,750
+adaderanalk | 7,751
 tamilmirrorlk | 9,087
-virakesarilk | 10,545
+virakesarilk | 10,547
 adaderanasinhalalk | 10,943
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,362 articles have been extended.
+61,971 (97.8%) of 63,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### கடற்படைப் புதிய தளபதியுடன்  பாதுகாப்பு பிரதி அமைச்சர் சந்திப்பு
+
+*2025-01-02 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/202817) · `ta`
+
+கடற்படையின் புதிய தளபதியான வைஸ் அட்மிரல் காஞ்சன பனாகொடக்கும் பாதுகாப்பு பிரதி அமைச்சர் மேஜர் ஜெனரல் அருண ஜெயசேகரவுக்கும் இடையில் சந்திப்பொன்று நடைபெற்றுள்ளது.
+
+இச் சந்திப்பு பாதுகாப்பு அமைச்சின் அலுவலகத்தில் நடைபெற்றிருந்ததோடு, கடற்படைத் தளபதியாக பனாகொட நியமிக்கப்பட்டதன் பின்னர் நடைபெற்ற உத்தியோக பூர்வமான சந்திப்பாகும்.
+
+இதன்போது தேசிய மற்றும் கடல்சார் பாதுகாப்பில் கடற்படையின் வகிபாகம் தொடர்பில் அவதானம் செலுத்தப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ffd918e6.json)
+
+---
+
+### திருகோணமலையில் 5 மாணவர்கள் படுகொலை நினைவேந்தல்
+
+*2025-01-02 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202824) · `ta`
+
+திருகோணமலையில் 2016ம் ஆண்டு படுகொலை செய்யப்பட 05 மாணவர்களின் 19 ஆவது நினைவு நா‌ள் 02ஆம் திகதி  மாலை திருகோணமலை கடற்கரையில் இடம் பெற்றது. குறித்த நினைவேந்தலானது இராவணன் சேனா அமைப்பின் தலைவர் கு. செந்தூரன் தலைமையில் இடம்பெற்றது. இதன் போது மெழுகுவர்த்தி ஏற்றப்பட்டு உணர்வு பூர்வமாக அஞ்சலி செலுத்தினர்.
+
+திருகோணமலை டொக்யார்ட் வீதி, பெரிய கடற்கரைச் சந்தியிலுள்ள காந்தி சிலைக்கு அருகாமையாக மாலைப் பொழுதில் தினமும் இளைஞர்கள் நின்று கதைப்பது வழக்கம். 02.01.2006 அன்றைய மாலைப் பொழுதும் மாணவர்கள் பலர் அவ்விடத்தில் கூடிநின்று கதைத்துக்கொண்டிருந்தனர்.
+
+அப்போது ஆட்டோ ஒன்றில் வந்த இனம் தெரியாத நபர்கள் அந்த இளைஞர்கள் மீது கைக்குண்டை வீசிவிட்டுக் கோட்டைப் பக்கமாகச் சென்றனர். கைக்குண்டு வெடித்ததில் திருமலை புனிதஜோசப் கல்லூரி மாணவரான யோகராஜா பூங்குழலோன் என்பவர் காயமடைந்தார்.
+
+இவரை ஏனைய மாணவர்கள் வைத்தியசாலைக்கு கொண்டுசெல்ல முற்பட்டபோது அப்பகுதிக்கு வந்த கடற்படையினர் அங்கு சுமார் 10 நிமிடங்கள் வரை துப்பாக்கிப் பிரயோகம் செய்தனர்.
+
+...
+
+[Data](articles/1cf74058.json)
+
+---
+
+### Ceylon Chamber hails Sri Lanka’s landmark food & beverage regulations
+
+*2025-01-02 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104682/ceylon-chamber-hails-sri-lankas-landmark-food-beverage-regulations) · `en`
+
+The Sri Lankan government has announced new restrictions on marketing food and beverages to children, effective January 1, 2025, under the Food (Labelling & Advertising) Regulations 2022.
+
+The Ceylon Chamber of Commerce, through its Food & Beverage Steering Committee, was a key partner in shaping these regulations by providing inputs on food science, nutrition, international regulatory practices, and legal frameworks during an over decade-long consultation process with the Ministry of Health.
+
+Under the new rules, the industry must ensure that children under 12 are not featured in advertisements for F&B products. Further, the industry must ensure that F&B products are not advertised or promoted to children below 12 years without prior approval from the Ministry of Health.
+
+...
+
+[Data](articles/207ced51.json)
+
+---
 
 ### පුංචි ඡන්දයට පදක්කමේ සූදානම
 
@@ -103,22 +153,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6bcf1053.json)
-
----
-
-### கடற்படைப் புதிய தளபதியுடன்  பாதுகாப்பு பிரதி அமைச்சர் சந்திப்பு
-
-*2025-01-02 20:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202817) · `ta`
-
-கடற்படையின் புதிய தளபதியான வைஸ் அட்மிரல் காஞ்சன பனாகொடக்கும் பாதுகாப்பு பிரதி அமைச்சர் மேஜர் ஜெனரல் அருண ஜெயசேகரவுக்கும் இடையில் சந்திப்பொன்று நடைபெற்றுள்ளது.
-
-இச் சந்திப்பு பாதுகாப்பு அமைச்சின் அலுவலகத்தில் நடைபெற்றிருந்ததோடு, கடற்படைத் தளபதியாக பனாகொட நியமிக்கப்பட்டதன் பின்னர் நடைபெற்ற உத்தியோக பூர்வமான சந்திப்பாகும்.
-
-இதன்போது தேசிய மற்றும் கடல்சார் பாதுகாப்பில் கடற்படையின் வகிபாகம் தொடர்பில் அவதானம் செலுத்தப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/ffd918e6.json)
 
 ---
 
@@ -435,6 +469,26 @@ Furthermore, Dr. Amarasuriya noted that it is unacceptable for children to miss 
 ...
 
 [Data](articles/f26a1115.json)
+
+---
+
+### பாற்சோறு சமைக்க அரிசியற்ற சூழலை இந்த அரசாங்கம் உருவாக்கியுள்ளது - பிரதான எதிர்க்கட்சி
+
+*2025-01-02 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202808) · `ta`
+
+சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாட்டிலுள்ள வேலைத்திட்டங்களை மேலும் பலப்படுத்துவதை தவிர இந்த அரசாங்கம் நாட்டு மக்களுக்காக என்ன செய்திருக்கிறது ? 2025ஆம் ஆண்டை வரவேற்பதற்கு பாற்சோறு சமைப்பதற்கு அரிசியற்ற சூழலை மாத்திரமே இந்த அரசாங்கம் உருவாக்கியிருக்கிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கயந்த கருணாதிலக தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் வியாழக்கிழமை (02) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+புதிய அரசாங்கம் ஆட்சியைப் பொறுப்பேற்று 100 நாட்கள் நிறைவடைந்துள்ளன. இந்த 100 நாட்களில் தோல்வியடைந்த ஒரு அரசாங்கமாக இதனை மக்கள் எண்ண ஆரம்பித்துவிட்டனர்.
+
+24 மணித்தியாலங்களில் அத்தியாவசிய பொருட்களின் விலைகளைக் குறைப்பதாகக் கூறியவர்கள் 100 நாட்கள் கடந்தும் எவ்வித நடவடிக்கையையும் முன்னெடுக்கவில்லை.
+
+மூன்றில் இரண்டுக்கும் அதிக பெரும்பான்மையுடைய இந்த அரசாங்கத்தால் செய்ய முடியாததை, சிறு பெரும்பான்மையைக் கொண்டிருந்த நல்லாட்சி அரசாங்கத்தில் 100 நாள் வேலைத்திட்டத்தில் நாம் செய்து காட்டினோம்.
+
+...
+
+[Data](articles/f61ee2e5.json)
 
 ---
 
@@ -1785,61 +1839,5 @@ New orders index declined, down at 47.2 in November from 54.3 in October, due to
 ◼️
 
 [Data](articles/117f35a3.json)
-
----
-
-### Sri Lanka’s first govt pediatric bone marrow transplant unit opens at Apeksha Hospital
-
-*2025-01-02 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104663/sri-lankas-first-govt-pediatric-bone-marrow-transplant-unit-opens-at-apeksha-hospital-) · `en`
-
-The first and only Bone Marrow and Hematopoietic Stem Cell Transplant (HSCT) Unit in a government hospital for children with cancer in Sri Lanka was inaugurated at the Apeksha Cancer Hospital in Maharagama today (Jan. 02).
-
-This landmark achievement was made possible through the financial support of the Ruhunu Maha Kataragama Devalaya and the dedicated labor contribution of the Sri Lanka Air Force (SLAF).
-
-The inauguration ceremony was graced by the Minister of Health and Mass Media, Dr. Nalinda Jayatissa, Secretary to the Ministry of Health, Dr. Anil Jasinghe, Commander of the Air Force Air Marshal Udeni Rajapaksa, and the ‘Basnayake Nilame’ of the Kataragama Devalaya, Dishan Gunasekara.
-
-The project began in response to the increasing need for space for children receiving residential treatment at the Maharagama Apeksha Hospital. In 2023, the Basnayake Nilame of Ruhunu Maha Kataragama Devalaya pledged financial resources from the Kataragama Devalaya Fund for the project.
-
-...
-
-[Data](articles/7c6d133f.json)
-
----
-
-### நடுக்கடலில் தத்தளித்த பயணிகள் படகு பாதுகாப்பாக மீட்பு !
-
-*2025-01-02 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202752) · `ta`
-
-யாழ்.நெடுந்தீவிலிருந்து - குறிகாட்டுவான் நோக்கி பயணித்த பயணிகள் படகு இயந்திரக் கோளாறு காரணமாக நடுக்கடலில் தத்தளித்தபோது பயணிகள் பாதுகாப்பாக மீட்கப்பட்டுள்ளனர்.
-
-நெடுந்தீவில் இருந்து நேற்று புதன்கிழமை(01) பகல் 11:30 மணிக்கு குறிகாட்டுவான் நோக்கி சேவையில் ஈடுபட்ட பயணிகள் படகானது நடுக்கடலில் இயந்திர கோளாறு ஏற்பட்டு இயங்காமல் நின்றுள்ளது.
-
-இதன்போது குறித்த படகில் வெளிநாட்டு சுற்றுலா பயணிகள், தென்பகுதி மக்கள் மற்றும் உள்ளூர் மக்கள் என சுமார் 60 பேருக்கும் அதிகமானோர் இருந்துள்ளனர்.
-
-படகு கடல் கொந்தளிப்பினால் தத்தளித்த நிலையில் இதனை அவதானித்த மீன்பிடி படகுகள் கரைக்கு தகவல் கொடுத்த நிலையில், நெடுந்தீவு ப.நோ.கூட்டுறவு சங்கத்திற்கு சொந்தமான படகின் உதவியுடன் பயணிகள் படகு மீட்கப்பட்டு பாதுகாப்பாக கரைக்கு கொண்டுவரப்பட்டுள்ளது. பயணிகளுக்கும் எந்தவொரு பாதிப்பும் ஏற்படவில்லை.
-
-குறித்த பகுதிக்கு நெடுந்தீவு பிரதேச செயலாளர் மற்றும் ஊழியர்களும் விரைந்து சென்று நிலைமைகளை அவதானித்தனர். சம்பவத்தால் படகில் பயணித்த மக்கள் பதற்றமடைந்தமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/777e1e79.json)
-
----
-
-### නව වසර සැමරිමට පැවැත්වූ සාදයෙන් පසු තරුණයා හෘදයාබාධයකින් ජීවිතක්ෂයට
-
-*2025-01-02 11:12:42* · [`adalk`](https://www.ada.lk/breaking_news/නව-වසර-සැමරිමට-පැවැත්වූ-සාදයෙන්-පසු-තරුණයා-හෘදයාබාධයකින්-ජීවිතක්ෂයට/11-413972) · `si`
-
-නව වසර උදාව සමරමින් පැවැත් වූ මත් පැන් සාදයකදී අසාත්මිකතාවයකට පත්වීමෙන් රෝහල්ගත කළ තරුණයා  හෘදයාබාධයකින් මියගොස් ඇති බවට පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ බව  හෝමාගම හදිසි මරණ පරීක්ෂක සාම විනිසුරු චින්තක උදය කුමාර මහතා පවසයි.
-
-මෙසේ මියගොස් ඇත්තේ පොල්ගස්ඕවිට පාලගම බැද්දවත්ත අංක 757 හි පදිංචි කොළඹගේ කසුන් කල්හාර පෙරේරා නමැති (19) හැවිරිදි තරුණයකු බව පොලීසිය කියයි.
-
-මෙම තරුණයා තවත් මිතුරන් දස දෙනෙකු සමග පොල්ගස්ඕවිට හල්පිට ප්‍රදේශයේ නිවසකට ගොස් නව වසර උදාව සමරමින්  මත්පැන් සාදයක් පවත්වා ඇති අතර සාදය රාත්‍රී  10 සිට අලුයම 3 දක්වා පවත්වා තිබේ. එය අවසානයේදී මිතුරන් හත් දෙනකු ඉන් පිටව ගොස් නිවසේ තරුණයා සහ තවත් තරුණයෙන් දෙදෙනකු පමණක් එහි රැදී සිට තිබේ.
-
-මේ අතරතුරදි එහි සිටි එක් තරුණයෙකු (01) දා අලුයම වමනය කරමින් ක්ලාන්තව බිම ඇද වැටී  අසාත්මිකතාවයකට පත්ව ඇති බවත් පසුව එහි සිටි මිතුරන් දෙදෙනා ප්‍රතිකාර සඳහා මිතුරා වෑතර දිසා රෝහලට ඇතුළත් කිරීමට යාමේදී මෙසේ මියගොස් ඇති බව පොලිසිය පවසයි.
-
-...
-
-[Data](articles/0d6362bc.json)
 
 ---

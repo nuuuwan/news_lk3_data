@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 09:28:17**
+As of **2025-01-02 09:43:53**
 
 ## Newspaper Stats
 
-*Scraped **63,229** Articles*
+*Scraped **63,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,042
 adaderanalk | 7,727
-tamilmirrorlk | 9,064
+tamilmirrorlk | 9,065
 virakesarilk | 10,511
 adaderanasinhalalk | 10,922
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,229 articles have been extended.
+61,971 (98.0%) of 63,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### யூடியூப் மீட்டெடுக்கப்பட்டது
+
+*2025-01-02 09:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்-மீட்டெடுக்கப்பட்டது/175-349643) · `ta`
+
+சைபர் தாக்குதல்களால் தாக்கப்பட்ட அரசாங்க அச்சகத் திணைக்களத்தின் இணையத்தளமும், பொலிஸாரின் யூடியூப் சேனலும் தற்போது மீட்டெடுக்கப்பட்டுள்ளதாக இலங்கை கணினி அவசர பதிலளிப்பு குழு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/46c02bc6.json)
+
+---
 
 ### Body found at floating market in Pettah
 
@@ -1749,23 +1761,5 @@ Police Media Spokesman SSP Buddhika Manathunga confirmed that the arrest followe
 ◼️
 
 [Data](articles/bd3eef60.json)
-
----
-
-### නාමල් කුමාර අත්අඩංගුවට
-
-*2025-01-01 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204932) · `si`
-
-කොළඹ අපරාධ කොට්ඨාසය විසින් අද (01) දහවල් සමාජ ක්‍රියාකාරියෙකු වන නාමල් කුමාර ව අත්අඩංගුවට ගෙන තිබේ.
-
-කොළඹ අපරාධ කොට්ඨාසය වෙත ප්‍රකාශයක් ලබාදීමට පැමිණි අවස්ථාවේදී ඔහුව මෙලෙස අත්අඩංගුවට ගෙන ඇත.
-
-කාදිනල් හිමිගේ ප්‍රතිරූපයට හානි වන අන්දමේ හඬපටයක් පිළිබඳව නාමල් කුමාර නමැත්තා පසුගියදා ජනාධිපති ලේකම් කාර්යාලය හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කර තිබුණි.
-
-එම පැමිණිල්ල පිළිබඳ විමර්ශනයක් සිදුකර සාධාරණය ඉටුකරන ලෙස කතෝලික සභාව ද පොලිස්පතිවරයාගෙන් ඉල්ලා තිබුණි.
-
-◼️
-
-[Data](articles/fffaad02.json)
 
 ---

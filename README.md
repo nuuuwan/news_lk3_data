@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 15:13:17**
+As of **2025-01-02 15:27:40**
 
 ## Newspaper Stats
 
-*Scraped **63,293** Articles*
+*Scraped **63,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,849
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,051
-adaderanalk | 7,737
-tamilmirrorlk | 9,078
+adalk | 6,052
+adaderanalk | 7,742
+tamilmirrorlk | 9,080
 virakesarilk | 10,529
 adaderanasinhalalk | 10,934
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,934
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,293 articles have been extended.
+61,971 (97.9%) of 63,301 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/b22979e0.json)
+
+---
+
+### ரணில் - கே.பி ஷர்மா ஒலி சந்திப்பு
+
+*2025-01-02 14:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கே-பி-ஷர்மா-ஒலி-சந்திப்பு/175-349674) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் நேபாள நாட்டின்  பிரதமர்  கே.பி ஷர்மா ஒலி இடையிலான சந்திப்பு நேபாளின் காத்மாண்டுவில் வியாழக்கிழமை (02)  இடம்பெற்றது.
+
+◼️
+
+[Data](articles/9e7cdd2f.json)
+
+---
+
+### தேர்தல்களில் ‘கை’ சின்னத்தில் சு.க. குதிக்கும்
+
+*2025-01-02 14:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களில்-கை-சின்னத்தில்-சு-க-குதிக்கும்/175-349672) · `ta`
+
+உள்ளூராட்சி மற்றும் மாகாண சபைத் தேர்தல்கள் உட்பட எதிர்வரும் தேர்தல்களில் ஸ்ரீலங்கா சுதந்திரக் கட்சி ‘கதிரை’ சின்னத்தில் போட்டியிடும் என ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொதுச் செயலாளர் துமிந்த திஸாநாயக்க  தெரிவித்துள்ளார்.
+
+2025 ஆம் ஆண்டு தேர்தல் ஆண்டாக இருக்கும் எனவும், ஸ்ரீலங்கா சுதந்திரக் கட்சியுடன் கைகோர்க்குமாறு இடதுசாரி குழுக்களுக்கு அழைப்பு விடுத்துள்ளதாகவும் அவர் புத்தாண்டுக்கான பணிகளை ஆரம்பித்த பின்னர் ஊடகங்களுக்கு தெரிவித்தார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சிக்குள் ஏற்பட்டுள்ள பல்வேறு முரண்பாடுகளை சுமுகமாக தீர்த்து கட்சியை பலப்படுத்தும் வகையில் புதிய பயணத்தை புத்தாண்டில் ஆரம்பிக்கவுள்ளதாக கட்சியின் தலைவர் நிமல் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியை வலுப்படுத்த விசேட வேலைத்திட்டமொன்றை முன்னெடுக்க திட்டமிட்டுள்ளதாகவும், பல்வேறு காரணங்களால் அரசியலில் இருந்து விலகிய அல்லது வேறு கட்சிகளில் இணைந்துள்ள அனைத்து ஸ்ரீலங்கா சுதந்திரக் கட்சியினரையும் இந்த முயற்சியில் கட்சியுடன் கைகோர்க்குமாறு அழைப்பு விடுப்பதாகவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/15e1c5c2.json)
 
 ---
 
@@ -105,6 +135,108 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8aa8bd46.json)
+
+---
+
+### Former president Ranil meets Nepal’s prime minister
+
+*2025-01-02 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104671/former-president-ranil-meets-nepals-prime-minister) · `en`
+
+Nepalese Prime Minister KP Sharma Oli and former President of Sri Lanka, Ranil Wickremesinghe, held a meeting today at the Prime Minister’s official residence in Baluwatar, Kathmandu.
+
+During the meeting, they discussed matters concerning Nepal-Sri Lanka bilateral relations and mutual interests, foreign media reported.
+
+According to the Nepalese Prime Minister’s Secretariat, House of Representatives (HoR) member and industrialist Binod Chaudhary was also present.
+
+Wickremesinghe, a long-time friend of Prime Minister Oli, arrived in Nepal on December 28 for a private visit and is returning to Sri Lanka today, the report said.
+
+Wickremesinghe, who has served as the Prime Minister of Sri Lanka, arrived in Nepal on December 28, 2024, and his visit comes as part of his continued diplomatic and personal ties with Nepal.
+
+The discussions are expected to further enhance the cooperation and friendship between the two nations.
+
+◼️
+
+[Data](articles/3771c4a7.json)
+
+---
+
+### Police enforce law against over 5,400 traffic offenders in 24 hours
+
+*2025-01-02 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104670/police-enforce-law-against-over-5400-traffic-offenders-in-24-hours) · `en`
+
+Sri Lanka Police have taken legal action against a total of 509 individuals for driving under the influence of alcohol, within the 24-hour period ending at 6 a.m. today (January 2).
+
+This enforcement was part of a special operation conducted from 6 a.m. yesterday (Jan.01) to 6 a.m. today (Jan. 02).
+
+During the same period, legal action was also taken against:
+
+In total, the police have enforced the law against 5,415 drivers for various traffic violations within the 24-hour timeframe.
+
+Sri Lanka Police continues to appeal to the public to refrain from driving under the influence of alcohol and adhere strictly to traffic laws.
+
+This special traffic operation, initiated on December 23, 2024, under the instructions of the Acting Inspector General of Police, aims to reduce road accidents during the festive season.
+
+◼️
+
+[Data](articles/1a051d3d.json)
+
+---
+
+### Matara Prison inmates transferred to Angunukolapelessa
+
+*2025-01-02 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104669/matara-prison-inmates-transferred-to-angunukolapelessa) · `en`
+
+Steps have been taken to transfer inmates held under Section 54 at the Matara Prison to the Angunukolapelessa Prison following the tragic incident which occurred at the prison premises due to the falling of a large tree branch last night (01).
+
+Matara Prison Superintendent Mangala Weliwita said that the decision was prompted by the limited space in the Matara Prison and the need to manage the aftermath of the accident.
+
+Meanwhile, the prison authorities have ensured heightened security at the prison following the incident, with the police and Police Special Task Force (STF) providing external security, while officers from the Galle and Matara prisons are overseeing internal security. Despite the tragic event, Weliwita confirmed that regular prison activities are continuing as usual.
+
+...
+
+[Data](articles/48c8f71c.json)
+
+---
+
+### Tesla cybertruck explodes outside Trump hotel in Las Vegas, killing one
+
+*2025-01-02 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104668/tesla-cybertruck-explodes-outside-trump-hotel-in-las-vegas-killing-one) · `en`
+
+At least one person was killed and seven wounded when a Tesla Cybertruck exploded outside a hotel belonging to US President-elect Donald Trump in Las Vegas, police said Wednesday.
+
+The electric vehicle pulled up to the Trump International Hotel’s glass entrance before a “large explosion,” Las Vegas Sheriff Kevin McMahill told reporters.
+
+Video footage shows the stainless steel truck parked at the hotel entrance before bursting into flames, followed by smaller explosions that appeared similar to fireworks.
+
+McMahill said there was “one deceased individual inside the Cybertruck” while seven people received “minor” injuries. He said the hotel had been evacuated.
+
+US President Joe Biden said authorities were investigating any possible link between the blast and an attack earlier Wednesday in New Orleans, in which a truck rammed a crowd, killing at least 15 people and wounding dozens.
+
+“Thus far, there’s nothing to report on that score,” Biden said.
+
+...
+
+[Data](articles/4976b27a.json)
+
+---
+
+### Sri Lanka to import salt starting tomorrow
+
+*2025-01-02 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104667/sri-lanka-to-import-salt-starting-tomorrow) · `en`
+
+The Government of Sri Lanka has taken steps to open tenders for the import of 30,000 Metric Tonnes of salt from tomorrow (03).
+
+The import of salt will take place under two phases, where 20,000 Metric Tonnes of salt will be imported under the first phase and 10,000 Metric Tonnes of salt will be imported to the island under its second phase.
+
+Accordingly, the tenders will be opened for the import of 20,000 Metric Tonnes of salt from tomorrow.
+
+Meanwhile, it was reported that the imported salt will be distributed under the supervision of the Ministry of Industries and that the imported salt will only be utilised for the industrial purposes.
+
+On December 19, 2024, the Cabinet of Ministers granted approval for the import of up to 30,000 metric tons of non-iodized salt by the State Trading Corporation to address the ongoing salt shortage in the market.
+
+...
+
+[Data](articles/e8017a5a.json)
 
 ---
 
@@ -339,6 +471,24 @@ Jayaweera began by acknowledging the educational background of many of the curre
 ...
 
 [Data](articles/f5445ce0.json)
+
+---
+
+### සේනානායක සමුද්‍රය වාන් දැමීමට ආසන්නයි
+
+*2025-01-02 12:55:30* · [`adalk`](https://www.ada.lk/breaking_news/සේනානායක-සමුද්‍රය-වාන්-දැමීමට-ආසන්නයි/11-413977) · `si`
+
+සේනානායක සමුද්‍රයේ ජලපෝෂක ප්‍රදේශය වන මොනරාගල බිබිල දොරපොතකන්ද ප්‍රදේශයට මේ දිනවල ඇදහැලෙන වර්ෂාවත් සමඟ මොනරාගල දිස්ත්‍රික්කයේ පිහිටි ඉගිණියාගල සේනානායක සමුද්‍රය ජනවාරි (02) වෙනිදා වන විට ජලයෙන් පිරී වාන් දැමීමට ආසන්නව පවතින බව වාරිමාර්ග නිලධාරීහු පවසති.
+
+සේනානායක සමුද්‍රයේ ජලධාරිතාව අක්කර අඩි  7,70, 000 වන අතර මේවන විට එය අක්කර අඩි 6,13,200 ලඟාවී ඇත.  ජල මට්ටමේ උස අඩි 101.20 වන අතර උපරිම මට්ටම 110 කි.අඩි 104 වන විට ජලාශයේ ගේට්ටු විවෘතකිරීමට නියමිතය.
+
+සේනානායක ජලාශය යටතේ අම්පාර දිස්ත්‍රික්කයේ කුඹුරු අක්කර එක්ලක්ෂ විසිදහසක මහ කන්නයේ වී වගාකෙරේ.
+
+පසුගිය වසරේ ඇදහැළුණු මහ වැස්සත් සමඟ වගාවන්ට හානි සිදුවූ අතර ඇලවේලි සහ පිටවාන ස්ථාන 751 කින් කැඩී බිඳී ගොස් තිබූ අතර මේ වන විට රුපියල් මිලියන 15 වැයකර ඒවා පිළිසකර කර තිබේ.
+
+◼️
+
+[Data](articles/0342bece.json)
 
 ---
 
@@ -1657,121 +1807,5 @@ They are mainly female elephants that live in herds with calves.
 ...
 
 [Data](articles/dc8edaac.json)
-
----
-
-### கடந்த 24 மணி நேர காலப்பகுதியில் மதுபோதையில் வாகனம் செலுத்திய குற்றச்சாட்டில் 529 பேர் உள்ளடங்களாக 7,264 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை
-
-*2025-01-02 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/202739) · `ta`
-
-பண்டிகை காலத்தை முன்னிட்டு நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் விசேட போக்குவரத்து நடவடிக்கைக்கு அமைய 01ஆம் திகதி புதன்கிழமை காலை 6.00 மணியுடன் நிறைவடைந்த 24 மணி நேர காலப்பகுதியில் மாத்திரம் மதுபோதையில் வாகனம் செலுத்திய குற்றச்சாட்டில் 529 பேர் உள்ளடங்களாக 7,264 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் அத்தியட்சகர் பொலிஸ் ஊடகப் பேச்சாளர் சட்டத்தரணி புத்திக மனதுங்க தெரிவித்தார்.
-
-பண்டிகைக் காலங்களில் வாகன விபத்துகளை குறைக்கும் நோக்கில் பதில் பொலிஸ் மா அதிபரின் பணிப்புரைக்கமைய கடந்த 23 ஆம் திகதி முதல் நாடளாவிய ரீதியில் விசேட போக்குவரத்து நடவடிக்கை அமுல்படுத்தப்பட்டுள்ளது. இந்நிலையில் நேற்று காலை 6.00 மணியுடன் நிறைவடைந்த 24 மணி நேர காலப்பகுதியில் மாத்திரம் மதுபோதையில் வாகனம் செலுத்திய குற்றச்சாட்டின் பேரில் 529 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/0b4a6aff.json)
-
----
-
-### Sri Lanka’s private sector needs to rethink ESG
-
-*2025-01-02 02:06:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-private-sector-needs-to-rethink-ESG/4-771274) · `en`
-
-Aligning business and finance with climate and biodiversity targets requires deep engagement from the private sector. Sri Lanka has seen a rise in ESG (environmental, social, and governance) initiatives in recent years – from special conferences and workshops discussing ESG, to consulting firms setting up dedicated teams to offer ESG advisory services. But will relying on ESG alone effect change? The answer, as ever, is – it’s not that straightforward.
-
-...
-
-[Data](articles/4fcfbb14.json)
-
----
-
-### Policies to uplift construction industry with sustainability
-
-*2025-01-02 01:55:37* · [`dailyftlk`](https://www.ft.lk/columns/Policies-to-uplift-construction-industry-with-sustainability/4-771273) · `en`
-
-To place the country on a trajectory of rapid economic growth and be in a position to settle the foreign loans confidently without further borrowing, the Government has to take drastic policy measures, learning from the mistakes in the past
-
-As we step into 2025, based on the performance of the construction industry during the period January to September 2024, we can hopefully look forward to a period of positive development. During the first three quarters of 2024, the construction industry recorded satisfactory positive growths of 14.2%, 15.5% and 23.8% respectively. This is a strong indication that we have overcome the recession the industry faced during 2020-2023.
-
-...
-
-[Data](articles/4b7bc77f.json)
-
----
-
-### ආණ්ඩුවේ මැති ඇමැතිවරුන් කිහිප දෙනෙකුට CID යන්න වුණේ ඇයි?
-
-*2025-01-02 01:35:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckgxp9gxrx9o) · `si`
-
-ඉතිහාසය අලුත් කරමින් වාර්තාගත බලයක් ලබා ගත් වත්මන් ආණ්ඩුවේ ඇමතිවරුන් සහ මන්ත්‍රීවරුන් කිහිපදෙනෙකුට ම බලය ලබාගත් දින සිට ම තමන්ට සිදුවූ විවිධ අකටයුතුකම් සම්බන්ධයෙන් නීතිමය ක්‍රියාමාර්ග වෙත යොමු වීමට සිදුවිය.
-
-වත්මන් රජය බලයට පත්ව මාසයකුත් දින කිහිපයක් පමණක් ගත වන විට තමන්ට සිදුවුයේ යැයි කියන අකටයුතුකම්වලට එරෙහිව ආණ්ඩු පක්ෂයේ මහජන නියෝජිතයන් කිහිප දෙනෙකුට අපරාධ පරික්ෂණ දෙපාර්තුමේන්තුවේ සහ පොලීසියේ පිහිට පතන්නට සිදු විය.
-
-තමන්ට සිදු වූ බව කියන අකටයුතුකම්‍, අසාධාරණ හා කුමන්ත්‍රණවලට එරෙහිව ආණ්ඩුවේ ඇමැතිවරු හතර දෙනෙක් හා මන්ත්‍රීවරියන් දෙදෙනෙක් පොලිසියට පැමිණිලි කළ අය අතර වෙති.
-
-අමාත්‍ය හර්ෂණ නානායක්කාරගේ නමට ඉදිරියෙන් "ආචාර්ය" යනුවෙන් පාර්ලිමේන්තු වෙබ් අඩවියේ යොදා තිබුණු අතර පසුව එය ඉවත් කරන ලදී.
-
-එම තනතුරු නාමය ඉවත් කරමින් නිවේදනයක් නිකුත් කරමින් එය තමන් අතින් සිදුවු වැරදීමක් බව පාර්ලිමේන්තු සන්නිවේදන අංශය නිවේදනය කළේ ය.
-
-එහෙත් එයින් සෑහීමකට පත් නොවුන අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍ය හර්ෂණ නානායක්කාර ඒ පිළිබඳව සොයා බලන්නැයි අපරාධ පරික්ෂණ දෙපාර්තුමේන්තුවට පැමිණිළි කළේ ය.
-
-...
-
-[Data](articles/dd82a134.json)
-
----
-
-### STI: Tri forces for 2025
-
-*2025-01-02 01:35:16* · [`dailyftlk`](https://www.ft.lk/columns/STI-Tri-forces-for-2025/4-771269) · `en`
-
-Let’s in 2025 start scientific decision making, technological interventions and innovative executions
-
-Sri Lanka has to understand we have only temporarily postponed another 2021. 2021 happening again in 2029 is possible if we continue all our businesses as usual during the respite gained. In the world of STI this is the year we expect a singularity event of computing abilities to surpass brain function to take place. If in the breathing space secured a BAU approach is taken all would be lost in a while and the next generation would not be kind to us. Overall as we are all living on a planet with an existential issue lots more are at stake if we live without a higher-order purpose
-
-...
-
-[Data](articles/fad3c820.json)
-
----
-
-### NPP’s great U-turn, India-China implications, emergent new left, SJB’s self-sabotage
-
-*2025-01-02 01:10:13* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-great-U-turn-India-China-implications-emergent-new-left-SJB-s-self-sabotage/4-771267) · `en`
-
-The AKD-led NPP government reminds me of two previous Sri Lankan governments rolled into one: the United Front coalition of 1970-1975 and the Yahapalanaya Government of 2015-2019. The LSSP-style leftist arrogance comes from the former, the UNP-style neoliberal agenda from the latter. (The only difference is that the academic and professional qualifications of the LSSP-CPSL parliamentarians were unquestionably authentic, not pretensions). Nothing in my observation of Lankan politics for 60 years tells me the current administration will be more than a one-term wonder.
-
-The dualistic character of contemporary Sri Lanka is best evidenced by the contrast between positive (41%) economic sentiment in the latest LMD poll of corporate executives and negative social sentiment (59%) that the country is headed is the wrong direction in the last IHP public opinion poll.
-
-...
-
-[Data](articles/643c0da0.json)
-
----
-
-### 2025-01-01 (Wednesday)
-
-### சிறைச்சாலையில் மரம் முறிந்து விழுந்ததில் ஒருவர் பலி
-
-*2025-01-01 23:32:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலையில்-மரம்-முறிந்து-விழுந்ததில்-ஒருவர்-பலி/175-349639) · `ta`
-
-மாத்தறை சிறைச்சாலை வளாகத்தினுள் இருந்த போ மரம் முறிந்து வீழ்ந்ததில் 10 கைதிகள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் ஒருவர் உயிரிழந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
-
-◼️
-
-[Data](articles/faa9c69e.json)
-
----
-
-### මාතර බන්ධනාගාරයේ බෝ ගසක අත්තක් කඩාවැටී අයෙක් මරුට
-
-*2025-01-01 23:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204945) · `si`
-
-බන්ධනාගාර පරිශ්‍රයේ බෝ ගසක අත්තක් කඩා වැටීමෙන් රැඳවියන් 10 දෙනෙකු තුවාල ලබා එක් අයෙක් මියගොස් තිබේ.
-
-◼️
-
-[Data](articles/46825d2f.json)
 
 ---

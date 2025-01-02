@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 17:12:52**
+As of **2025-01-02 17:28:03**
 
 ## Newspaper Stats
 
-*Scraped **63,312** Articles*
+*Scraped **63,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,055
-adaderanalk | 7,745
+adaderanalk | 7,747
 tamilmirrorlk | 9,084
-virakesarilk | 10,529
-adaderanasinhalalk | 10,935
+virakesarilk | 10,537
+adaderanasinhalalk | 10,937
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,312 articles have been extended.
+61,971 (97.9%) of 63,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### පාසල් මගහරින උසස් පෙළ සිසුන් ගැන සොයයි
+
+*2025-01-02 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204969) · `si`
+
+උසස් පෙළ අධ්‍යාපනය හදාරන සිසුන් පාසලෙන් ඈත් වීම පිළිබඳ සොයාබැලිය යුතු බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+
+අග්‍රාමාත්‍යවරිය පෙන්වා දෙන්නේ කුමන හේතුවක් මත හෝ දරුවන්ට අධ්‍යාපන අවස්ථා මගහැරීම නතර විය යුතු බවය.
+
+මහරගම ජාතික අධ්‍යාපන ආයතනයේ නිරීක්ෂණ චාරිකාවකට  එක්වෙමින් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මේ බව සඳහන් කළාය.
+
+වර්තමානයේ පාසල්වල උසස් පෙළ පන්ති කාමර තුළ දරුවන්‍ රැඳී සිටින්නේ ඉතා අඩුවෙන් බවද අග්‍රාමාත්‍යවරිය එහිදී සඳහන් කළාය.
+
+විශේෂයෙන් පිරිමි දරුවන් අධ්‍යාපන කටයුතුවලින් බොහෝදුරට ඈත්වෙමින් සිටින බව අග්‍රාමාත්‍යවරිය සඳහන් කරයි.
+
+කුමන සමාජ, ආර්ථික හේතුවක් පදනම් කරගෙන හෝ දරුවන්ට අධ්‍යාපනය මගහැරීමට ඉඩ නොදිය යුතු අතර පූර්ව ළමාවිය සංවර්ධනයේ සිට 13 වසරක පාසල් අධ්‍යාපනය මෙන්ම උසස් අධ්‍යාපනය සඳහා ඉඩ ප්‍රස්ථා සෑම දරුවෙකුටම විවර වී තිබිය යුතු බව අග්‍රාමාත්‍යවරිය තවදුරටත් සඳහන් කළාය.
+
+◼️
+
+[Data](articles/403b8ded.json)
+
+---
+
+### தமிழ் அரசியல் கைதிகளை விடுவிக்குமாறு கோரி மல்லாவி நகரில் கையெழுத்து போராட்டம்
+
+*2025-01-02 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202782) · `ta`
+
+நீண்டகாலமாக சிறையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி மல்லாவி நகரில் கையெழுத்து போராட்டம் இன்று வியாழக்கிழமை (02) இடம்பெற்றது.
+
+போராளிகள் நலன்புரி சங்கத்தின் ஏற்பாட்டில் மல்லாவி  நகரில் குறித்த  கையெழுத்துப் போராட்டம்  இடம்பெற்றது.
+
+பயங்கரவாத தடை சட்டத்தின் கீழ் கைது செய்யப்பட்டு நீண்ட காலமாக தடுத்து வைக்கப்பட்டுள்ள தமிழ்  அரசியல் கைதிகளையும்
+
+புனர்வாழ்வு அளிக்கப்பட்டு சமூகமயப்படுத்தப்பட்ட பின்னர் நீதி மன்றத்தினால் விடுதலை செய்யப்பட்ட பின்பும் மீண்டும் கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டுள்ள போராளிகளையும்  புதிய அரசாங்கம் விடுவிக்க வேண்டும் என வலியுறுத்தி குறித்த  கையெழுத்துப் போராட்டம்  இடம்பெற்றது.
+
+இதில் மத தலைவர்கள்,பொது அமைப்புகளின் பிரதிநிதிகள், சமூக பட்ட   அமைப்புகளின் பிரதிநிதிகள் பொதுமக்கள் சமூக ஆர்வலர்கள் என பலரும் கலந்து கொண்டு கையெழுத்திட்டனர்.
+
+நீண்டகாலமாக சிறையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி சேகரிக்கப்படும் குறித்த கையெழுத்துக்கள் சேகரிக்கப்பட்டு மகஜராக ஜனாதிபதி அவர்களிடம் கையளிக்கப்படவுள்ளது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/97092501.json)
+
+---
+
+### சமஷ்டி கோரிக்கை  தமிழரசுக் கட்சியின்  அஸ்தமித்துபோன கனவா?
+
+*2025-01-02 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202773) · `ta`
+
+சமஷ்டி  என்ற கருத்தை துணிச்­ச­லோடு முன்­வைத்­தவர் வேறு யாரு­மல்ல, இலங்­கையின் முன்னாள் பிர­தமர் எஸ்.டபிள்யூ.ஆர்.டி. பண்­டா­ர­நா­யக்கா. அதே பண்­டா­ர­நா­யக்கா 1956 ஆண்டு தனிச்­சிங்­களச் சட்­டதை கொண்டு வந்­தது மட்­டு­மல்ல, 1957 ஆம் ஆண்டு சிங்­கள ஸ்ரீ வாக­னங்­களை யாழ்ப்­பா­ணத்­துக்கு அனுப்பி குழப்­பத்தை உண்­டாக்­கி­யதும்,  1958 ஆம் ஆண்டு தமி­ழர்­களுக்கெதி­ரான முத­லா­வது இனக்­க­ல­வ­ரத்தை தூண்­டி­யதும்  இதன் எதிர் விளை­வாக  தமி­ழர்கள் சமஷ்டி ஆட்சி கோரிக்­கையை முன்­வைத்து போரா­ட­வேண்­டிய சூழ்­நி­லைக்கு தள்­ளப்­பட்­டதும்  அதன் இன்­னொரு விஸ்­வ­ரூ­ப­மாக  ஆயு­தப்­போ­ராட்டம். வெடித்­ததும்  தமி­ழர்கள் அர­சியல் பய­ணத்தில் முக்­கிய சம்­ப­வங்­க­ளாகும்.
+
+...
+
+[Data](articles/c82ccbe1.json)
+
+---
+
+### காரைநகர் படகு கட்டுமான தளத்தை புனரமைக்க இந்தியா உதவி
+
+*2025-01-02 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202788) · `ta`
+
+யாழ். மாவட்டத்தில் காரைநகர் படகு கட்டுமான தளத்தை புனரமைப்பதற்கு இந்தியா - இலங்கை இடையே புரிந்துணர்வு ஒப்பந்தம் கைச்சாத்திடப்பட்டுள்ளது.
+
+காரைநகர் படகு கட்டுமானத் தளத்தை புனரமைப்பதற்கு இந்தியா 290 மில்லியன்  ரூபாவை நிதியாக வழங்குகிறது.
+
+இதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் எச்.ஈ. சந்தோஷ் ஜா மற்றும் இந்தியாவிற்கான இலங்கையின் முன்னாள் உயர்ஸ்தானிகர் எச்.இ.க்ஷேனுகா திரேனி செனவிரத்ன ஆகியயோர் டிசம்பர் மாதம் 16 ஆம் திகதி கையெழுத்திட்டுள்ளனர்.
+
+வரையறுக்கப்பட்ட சீனோர் நிறுவனத்திற்குரிய காரைநகர் படகு கட்டுமான நிலையத்தின் புனரமைப்பிற்காக நடவடிக்கைகளைப் பூர்த்தி செய்தல், தேவையான இயந்திர உபகரணங்கள் மற்றும் அலுவலக உபகரணங்களை பெறுகை செய்தல் போன்றவற்றுக்காக நிதியொதுக்கீடுகளை வழங்குவதற்கு இந்திய அரசு உடன்பாடு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/bf631d88.json)
+
+---
 
 ### புதிய வட்ஸ்அப் எண் அறிமுகப்படுத்தப்பட்டது
 
@@ -66,6 +140,126 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஹொரணையில் கார் மோதி முதியவர் உயிரிழப்பு!
+
+*2025-01-02 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202794) · `ta`
+
+ஹொரணை பொலிஸ் பிரிவுக்குட்பட்ட ஹொரணை -  கொழும்பு வீதியில் பொக்குனுவிட பகுதியில் நேற்று புதன்கிழமை (01) இடம்பெற்ற விபத்தில் முதியவர் ஒருவர் உயிரிழந்து்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொக்குனுவிடவிலிருந்து கொழும்பு நோக்கிப் பயணித்த கார் ஒன்று விதியை கடக்க முற்பட்ட முதியவர் ஒருவர் மீது மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் படுகாயமடைந்த முதியவர், ஹொரணை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதனையடுத்து, காரின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், ஹொரணை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/405b709f.json)
+
+---
+
+### ව්‍යවසාය සංවර්ධන අධිකාරියට නව සභාපතිවරයෙක්
+
+*2025-01-02 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204968) · `si`
+
+කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය යටතේ ක්‍රියාත්මකවන ජාතික ව්‍යවසාය සංවර්ධන අධිකාරියේ ( NEDA ) නව සභාපතිවරයා ලෙස ලක්ෂ්මන් අබේසේකර මහතා පත්කර තිබේ.
+
+පුද්ගලික අංශය හා රාජ්‍ය අංශය යන දෙකෙහිම වසර 35කට අධික කළමණාකරන අත්දැකීම් සහිත ජ්‍යෙෂ්ඨ නිලධාරියෙක් වන අබේසේකර මහතා, වරලත් ගණකාධිකාරීවරයෙකු ලෙස ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ පශ්චාත් කළමනාකරණය ආයතනයෙන් කළමනාකරණය පිළිබඳ පශ්චාත් උපාධිය හිමි කරගෙන ඇත.
+
+◼️
+
+[Data](articles/68fc75f9.json)
+
+---
+
+### வீதி விதிமுறைகளை மீறிய 5,415 பேருக்கு எதிராக நடவடிக்கை
+
+*2025-01-02 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202792) · `ta`
+
+பண்டிகை காலத்தை முன்னிட்டு நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வரும் விசேட போக்குவரத்து கண்காணிப்பு நடவடிக்கைக்கு அமைய மதுபோதையில் வாகனம் செலுத்தியமை உள்ளிட்ட போக்குவரத்து வீதி விதிமுறைகளை மீறிய குற்றச்சாட்டில் 5,415 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+அத்தோடு வீதி விபத்துக்களை தடுக்கும் வகையில் விசேட கண்காணிப்பு  நடவடிக்கைகள் தொடர்ச்சியாக முன்னெடுக்கப்படும். ஆகையால் பொதுமக்களும், சாரதிகளும் வீதி விதிமுறை சட்டங்களை முறையாக பின்பற்றுமாறு பொலிஸார் வலியுறுத்தியுள்ளனர்.
+
+பண்டிகை காலங்களில் ஏற்படும் வீதி விபத்துக்களை தடுக்கும் வகையில் பொலிஸாரினால் விசேட கண்காணிப்பு  நடவடிக்கைகள் பதில் பொலிஸ் மா அதிபர் பிரியந்த வீரசூரியவின் பணிப்புரைக்கு அமைய நாடளாவிய ரீதியில் கடந்த 23 ஆம் திகதி முதல் முன்னெடுக்கப்பட்டு வருகிறது.
+
+...
+
+[Data](articles/3e02eac3.json)
+
+---
+
+### தனியார் மற்றும் அரச சார்பு துறை ஊழியர்களின் முறைப்பாடுகளுக்கு பதிலளிக்க வட்ஸ்அப் இலக்கம் அறிமுகம்
+
+*2025-01-02 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/202791) · `ta`
+
+தனியார் மற்றும் அரச சார்ப்பு துறையின் ஊழியர்களின் சேவைகளை மிகவும் விரைவாக மேற்கொள்ளவதற்காக தொழில் அமைச்சினால் புதிய வட்ஸ்அப் இலக்கம் ஒன்றை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்துள்ளார்.
+
+அதன் பிரகாரம் தொழில் அமைச்சு மற்றும் தொழில் திணைக்களத்திடம் நிவாரணம் மற்றும் தலையீடு கோரி பொது மக்களால் சமர்ப்பிக்கப்படும் மகஜர்கள் தொடர்பில் விரைவாக நடவடிக்கை எடுப்பதற்காக 0707227877 என்ற வட்ஸ் அப் இலக்கத்தை அறிமுகப்படுத்தியுள்ளது.
+
+தொழில் திணைக்களத்தின் பிரதான நோக்கம் தொழில் அமைதியை பேணிச்செல்வது மற்றும் அதனை மேலும் பலப்படுத்துவதாகும். அத்துடன் இந்த நாட்டின் தனியார் மற்றும் அரச சார்பு துறை ஊழியர்களின் சேவை பிரச்சினைகளுக்கு விரைவாக நிவாரணம் பெற்றுக்கொடுப்பதாகும்.
+
+அதன் பிரகாரம் பாெது மக்களின் காலம் மற்றும் செலவை கட்டுப்படுத்தல் மற்றும் விரைவாக பதில் அளிப்பதை மேன்படுத்துவதற்கும் அதிகாரிகளின் கால நேரத்தை முகாமைத்துவம் செய்துகொள்ளும் வசதிக்காகவும் இந்த வட்ஸ் அப் இலக்கம் அறிமுகப்படுத்தப்படு்ள்ளதாகவும் தொழில் பிரதி அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/694bf989.json)
+
+---
+
+### Govt Printing Dept’s website restored after cyber attack
+
+*2025-01-02 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104677/govt-printing-depts-website-restored-after-cyber-attack-) · `en`
+
+The official website of the Department of Government Printing which was hacked on Tuesday (Dec. 31) has now been restored, according to Sri Lanka Computer Emergency Readiness Team (SLCERT).
+
+The official website of the Department of Government Printing which was hacked on Tuesday (Dec. 31) has now been restored, according to Sri Lanka Computer Emergency Readiness Team (SLCERT).
+
+On Friday (Dec. 31), it was reported that the official website of the Sri Lanka Department of Government Printing was hacked and its data had been altered.
+
+Meanwhile, the official YouTube channel of the Sri Lanka Police Department had also been subjected to a cyber-attack since Friday.
+
+SLCERT stated that efforts are still underway to restore the official YouTube channel of Sri Lanka Police.
+
+◼️
+
+[Data](articles/3987f641.json)
+
+---
+
+### Health sector to get highest-ever fund allocation through 2025 Budget – Minister
+
+*2025-01-02 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104675/health-sector-to-get-highest-ever-fund-allocation-through-2025-budget-minister-) · `en`
+
+Minister of Health and Mass Media Dr. Nalinda Jayatissa said the highest-ever allocation of funds for the health sector will be made in this year’s budget proposal.
+
+Dr. Jayatissa revealed this today (02), while speaking at the inauguration of the first and only bone marrow and hematopoietic stem cell transplant unit in a government hospital, established at the Apeksha Cancer Hospital in Maharagama.
+
+This was made possible through the financial support of the Ruhunu Maha Kataragama Devalaya and the dedicated labor contribution of the Sri Lanka Air Force (SLAF).
+
+“The Ministry of Health is usually a place where any government will provide funds if asked. More funds are allocated from the Treasury every year to the Health Ministry than even the ‘Kataragama Deviyo’. But this year, the highest amount of funds ever allocated for the Ministry of Health in history will be set aside in the budget”, the Minister noted.
+
+...
+
+[Data](articles/05db9a1d.json)
+
+---
+
+### நேபாள பிரதமரை சந்தித்தார் முன்னாள் ஜனாதிபதி ரணில்
+
+*2025-01-02 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202769) · `ta`
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் நேபாளப் பிரதமர் கே.பி.ஷர்மா ஒலி ஆகியோருக்கிடையில் நேற்று வியாழக்கிழமை சந்திப்பொன்று நேபாளம் - காத்மண்டு நகரில் இடம்பெற்றது. இந்திய விஜயத்துக்கு மத்தியில் கடந்த திங்களன்று முன்னாள் ஜனாதிபதி நேபாளத்துக்கும் விஜயத்தை மேற்கொண்டிருந்தார்.
+
+இதன் போதே முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க நேபாளப் பிரதமரை சந்தித்திருந்தார். இருவருக்குமிடையில் சுமார் ஒரு மணித்தியாலம் கலந்துரையாடல் இடம்பெற்றுள்ளது. குறிப்பாக நேபாளத்தின் அரசியல் நெருக்கடிகள் தொடர்பில் இதன் போது விசேட அவதானம் செலுத்தப்பட்டுள்ளது.
+
+நேபாளம் கடும் நிலநடுக்கத்தை சந்திக்க நேரிட்ட போது இலங்கையில் இருந்து கிடைத்த உதவிக்கு நன்றி தெரிவித்துக் கொள்வதாக நேபாள பிரதமர் குறிப்பிட்டுள்ளார். எதிர்காலத்தில் இலங்கைக்கும் நேபாளத்துக்கும் இடையிலான இருதரப்பு உறவுகளை மேலும் வலுப்படுத்த எதிர்பார்ப்பதாகவும் நேபாள பிரதமர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/23b9801c.json)
+
+---
+
 ### பாடசாலை உபகரணங்களின் விலை 20 சதவீதம் குறைப்பு
 
 *2025-01-02 15:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-உபகரணங்களின்-விலை-20-சதவீதம்-குறைப்பு/175-349679) · `ta`
@@ -81,6 +275,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/0c5225db.json)
+
+---
+
+### சிறுநீரக நோயாளர்களுக்கான கொடுப்பனவு அதிகரிப்பு !
+
+*2025-01-02 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202771) · `ta`
+
+சிறுநீரக நோயாளர்களுக்கு வழங்கப்படும் கொடுப்பனவை நிறுத்துவதற்கு நடவடிக்கை எடுக்கப்படுவதாக வெளியான செய்தி போலியானது எனவும்  சிறுநீரக நோயாளர்களுக்கு வழங்கப்படும் கொடுப்பனவு 10 ஆயிரம் ரூபாவாக அதிகரிக்கப்படும் எனவும் கிராம அபிவிருத்தி, சமூக பாதுகாப்பு மற்றும் சமூக வலுவூட்டல் அமைச்சு தெரிவித்துள்ளது.
+
+பிரதேச செயலக மட்டத்தில் அரசாங்கத்தினால் முன்னெடுக்கப்படும் சமூக வலுவூட்டல் செயற்றிட்டங்கள் தொடர்பான தரவுகளை புதுப்பித்தல் செய்து வருவதாகவும், இதன் மூலம் மக்களுக்கு வழங்கப்படும் எந்தவொரு சலுகையும் இல்லாதொழிக்கப்பட மாட்டாது எனவும் அமைச்சு தெரிவித்துள்ளது.
+
+சிறுநீரக நோயாளர்களுக்கான கொடுப்பனவை தற்போதுள்ள 7000 ரூபாவிலிருந்து 10,000 ரூபாவாக அதிகரிக்க அடுத்த வரவு செலவுத் திட்டத்தில் முன்வைக்கப்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/24d75aa2.json)
+
+---
+
+### பின்தெனிய பகுதியில் வாகன விபத்து ; ஒருவர் பலி ; இருவர் காயம்
+
+*2025-01-02 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/202790) · `ta`
+
+பின்தெனிய பொலிஸ் பிரிவிற்குட்பட்ட  கேகாலை - அவிசாவளை வீதியின் 12 கிலோமீற்றர் மைல்கல் அருகில், நேற்று புதன்கிழமை (01)  கேகாலையிலிருந்து அவிசாவளை நோக்கிச் சென்ற வேன் எதிர்திசையில் வந்த முச்சக்கரவண்டியுடன் நேருக்கு நேர் மோதிய விபத்தில்  ஒருவர் உயிரிழந்துள்ளதுடன் இருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+படுகாயமடைந்த முச்சக்கரவண்டியின் சாரதி மற்றும் இரண்டு பெண் பயணிகளும் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், பெண் ஒருவர் உயிரிழந்துள்ளார்.
+
+காயமடைந்த முச்சக்கரவண்டியின் சாரதியும் மற்றைய பெண் பயணியும் மேலதிக சிகிச்சைக்காக கேகாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/f7396ba7.json)
 
 ---
 
@@ -557,20 +783,6 @@ Speaking during an event held yesterday (Jan.1), he also explained that the gove
 ...
 
 [Data](articles/7f19b67b.json)
-
----
-
-### நேபாள பிரதமரை சந்தித்தார் முன்னாள் ஜனாதிபதி ரணில்
-
-*2025-01-02 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202769) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க நேபாள பிரதமர் கே.பி சர்மா ஒலியைச் சந்தித்துள்ளார்.
-
-ஒரு வார கால விஜயத்தை மேற்கொண்டு கடந்த டிசம்பர் மாதம் இந்தியா சென்ற ரணில் விக்கிரமசிங்க, அங்கிருந்து நேபாளத்திற்கு சென்று அந்நாட்டுப் பிரதமரை சந்தித்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/23b9801c.json)
 
 ---
 
@@ -1603,231 +1815,5 @@ Speaking at the Special Committee on COVID-19 Prevention meeting held at the Pre
 ...
 
 [Data](articles/10745045.json)
-
----
-
-### තෙවන පාසල් වාරයේ අවසන් අදියර අදින් ඇරඹේ
-
-*2025-01-02 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204950) · `si`
-
-2024 වර්ෂයේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරයේ අවසන් අදියර අද (02) සිට ආරම්භ වේ.
-
-ඒ අනුව සියලුම පාසල් අද සිට ජනවාරි මස 24 වන දින දක්වා පැවැත්වීමට අධ්‍යාපන බලධාරීන් තීරණය කර තිබේ.
-
-පාසල් ආරම්භයෙන් අනතුරුව හෙට (03) සිට අවසන් පාසල් වාර විභාගයන් පැවැත්වීමට කටයුතු සුදානම් කර ඇත.
-
-2025 වසරේ නව පාසල් වාරය ජනවාරි මස 27 වන දින ආරම්භ වීමට නියමිත අතර එය මාර්තු මස 14 වන දින තෙක් පැවැත්වේ.
-
-මේ අතර රජයේ හා රජයේ අනුමත පෞද්ගලික පාසල්වල 2025 වසර සඳහා පළමු ශ්‍රේණියේ සිසුන් සඳහා පාසල් ආරම්භය ජනවාරි මස 30 වන බ්‍රහස්පතින්දා දින සිදුකිරීමට නියමිතය.
-
-2025 වසරේ පළමු වාරයේ දෙවැනි අදියර පාසල් වාරය අප්‍රේල් 1 වනදා සිට අප්‍රේල් 11 වන දින තෙක් පැවැත්වෙන අතර අවසන් අදියර අප්‍රේල් මස 21 වන දින සිට මැයි මස 9 වන දා දක්වා පැවැත් වේ.
-
-◼️
-
-[Data](articles/784a9b35.json)
-
----
-
-### මාතර බන්ධනාගාරයේ සිදුවු ඛේදවාචකය ගැන තවත් තොරතුරු
-
-*2025-01-02 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204949) · `si`
-
-මාතර බන්ධනාගාරයේ ගොඩනැගිලල්ලක් මතට ගසක අත්තක් කඩාවැටීමෙන් තුවාල සිදු වූ 11 දෙනෙකු තවමත් මාතර රොහලේ ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
-
-ඊයේ (01) රාත්‍රියේ 10.14 ට පමණ සිදු වූ මෙම අනතුරෙන් රැඳවියන් 12 දෙනෙකු තුවාල ලබා මාතර රෝහලට ඇතුලත් කිරීමෙන් පසුව එක් රැඳවියෙකු මියගියේය.
-
-පොලීසිය පැවසුවේ රැඳවියන් රඳවා තිබූ G හා F යන වාට්ටු මතට ඒ ආසන්නයේ තිබූ බෝ ගසක අත්තක් මෙලෙස කඩා වැටී ඇති බවය.
-
-තුවලා ලැබූ රැඳවියන් 25, 27, 32, 34, 35 39, 41 සහ 52 යන වයස් වල පසුවන දෙනිපිටිය, මිරිස්ස , වැලිගම , ගාල්ල , මාතර , ගන්දර, බටපොල, දෙයියන්දර හා ගල්ගමුව යන ප්‍රදේශ වල පදිංචිකරුවන් බව සඳහන් වේ.
-
-අනතුර සිදුව වන අවස්ථාව වන විට G හා F වාට්ටු දෙකෙහි රැඳවියන් 100කට ආසන්න පිරිසක් රඳවා සිට තිබේ.
-
-මේ වන විට අනෙක් රැඳවියන් සියලුදෙනා වෙනත් ගොඩනැඟිල්ලක ආරක්ෂතව රැඳවීමට බන්ධනාගාර නිලධාරින් කටයුතු කොට ඇත.
-
-එමෙන්ම මාතර බන්ධනාගාරයේ සිටින රැඳවියන් සියලුදෙනා හෝ කොටසක් වෙනත් බන්ධනාගාරයකට ආරක්ෂිතව මාරුකර යැවීමට නියමිත ව ඇති බව අප කළ විමසීමකදී බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/8ae1c9d4.json)
-
----
-
-### අද කාලගුණය
-
-*2025-01-02 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204946) · `si`
-
-මධ්‍යම, ඌව සහ දකුණු පළාත්වලත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලසවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
-
-උතුරු, නැගෙනහිර, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව සඳහන් වේ.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී  තිබේ.
-
-◼️
-
-[Data](articles/aa2bca33.json)
-
----
-
-### Sri Lanka stockholders US$6.3bn and Rs1.4 trillion richer by end 2024
-
-*2025-01-02 06:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stockholders-us6-3bn-and-rs1-4-trillion-richer-by-end-2024-197505/) · `en`
-
-ECONOMYNEXT – Sri Lanka stockholders were 1.4 trillion rupees richer by the end of 2024, with the dollar value of listed stocks up by 6.3 billion US dollars, an analysis of year-end data show.
-
-According to Colombo Stock Exchange data the market value of listed stocks were 5,695 billion at the end of 2024, up 1,446 billion from lasts year.
-
-The value includes new shares issued to raise capital in 2024.
-
-During the year inflation was largely absent allowing consumer spending to recover and companies to cut costs and retail prices, in sharp contrast to the age-of-inflation doctrine of Anglophone macro-economists that falling prices (deflation) is somehow bad.
-
-Backed by falling interest rates, stocks roared in 2024 with margin backed trading also coming into play, analysts said.
-
-...
-
-[Data](articles/be67ac89.json)
-
----
-
-### Vindhya Jayasekera next CEO of Sri Lanka’s Colombo Stock Exchange
-
-*2025-01-02 05:34:00* · [`economynextcom`](https://economynext.com/vindhya-jayasekera-next-ceo-of-sri-lankas-colombo-stock-exchange-197502/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange said Vindhya Jayasekera, was appointed as Chief Executive Officer (CEO) Designate, with effect from January 01, 2025
-
-Chief Executive Rajeeva Bandaranaike, is due to retire during 2025 after serving for 11 years.
-
-Jayasekera was the Chief Investment Officer at NDB Wealth Management Limited, where she led the asset management division overseeing assets under management exceeding 380 billion rupees, the CSE said in a statement.
-
-Jayasekera is a CFA Charter holder and a certified Financial Risk Manager (FRM) accredited by the Global Association of Risk Professionals.
-
-She is also an Associate Member of the Chartered Institute of Management Accountants (ACMA) and holds the Chartered Global Management Accountant (CGMA) designation.
-
-She was a Fulbright Scholar, under which she earned her Master of Science in Finance from the University of Illinois at Urbana-Champaign, USA, graduating with a medal for academic excellence.
-
-...
-
-[Data](articles/a0bb3ac9.json)
-
----
-
-### Sri Lanka Port City firework display for New Year: In Pictures
-
-*2025-01-02 05:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-firework-display-for-new-year-in-pictures-197496/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Colombo Port City has welcomed 2025 with a fireworks display.
-
-The pictures released by the Port City shows fireworks over its Marina Bridge.
-
-The Colombo Port City is a dollarized special economic zone, where people will be protected from depreciation through currency competition.
-
-◼️
-
-[Data](articles/6aea35d4.json)
-
----
-
-### விபத்தில் காயமடைந்த பல்கலை மாணவன் உயிரிழப்பு
-
-*2025-01-02 03:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-காயமடைந்த-பல்கலை-மாணவன்-உயிரிழப்பு/175-349642) · `ta`
-
-வவுனியா குருமன்காடு பகுதியில் இடம்பெற்ற விபத்தில் படுகாயமடைந்த கொழும்பு பல்கலைக்கழக இறுதியாண்டு மாணவர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-வைரவபுளியங்குளம், வவுனியாவைச் சேர்ந்த சந்திரபோஸ் ஸ்ரீகாந்தன் (வயது- 23) என்ற இறுதி ஆண்டு மாணவராவார்.
-
-கடந்த 25 ஆம் திகதி நண்பர் வீட்டுக்கு மோட்டார் சைக்கிளில் சென்று கொண்டிருந்தபோது நிறுத்தி வைக்கப்பட்டிருந்த கார் ஒன்றுடன் மோதி விபத்துக்குள்ளானார்.
-
-இதில் படுகாயம் அடைந்தவர் வவுனியா வைத்தியசாலையில் அமைக்கப்பட்டு பின்னர் யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்டு இருந்த நிலையில் நேற்று முன்தினம்  செவ்வாய்க்கிழமை (31) இரவு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டார். சாட்சிகளை வவுனியா பொலிஸார் நெறிப்படுத்தினர். (a)
-
-◼️
-
-[Data](articles/30e923b9.json)
-
----
-
-### SAGT surpasses two million TEU milestone again in 2024
-
-*2025-01-02 03:34:41* · [`dailyftlk`](https://www.ft.lk/news/SAGT-surpasses-two-million-TEU-milestone-again-in-2024/56-771302) · `en`
-
-The South Asia Gateway Terminals Ltd. (SAGT) said yesterday it has reached a significant milestone yet again by achieving two million TEU in 2024.
-
-In its 25-year history, the SAGT has twice before reached the two million mark in 2018 and 2019, but this is the first time post-pandemic and Sri Lanka’s economic crisis, highlighting the company’s resilience and operational strength. The SAGT is Sri Lanka’s first public private partnership (PPP) and flagship venture of the Board of Investment (BOI).
-
-...
-
-[Data](articles/4d9a02a3.json)
-
----
-
-### New Thai envoy calls for greater diversification of Sri Lanka’s export industry to benefit from FTA
-
-*2025-01-02 03:18:31* · [`dailyftlk`](https://www.ft.lk/business/New-Thai-envoy-calls-for-greater-diversification-of-Sri-Lanka-s-export-industry-to-benefit-from-FTA/34-771298) · `en`
-
-Seated (from left): Secretary Priyantha Kolonnage, Counsellor Prangtip Kongridhisuksakorn, Immediate Past President Lalith Kumarage,Founder and Past President Lional Fernando, President Dushyantha Basnayake, Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, Founder and Past President Risan Nazeer, Vice President Kamil Weerasekara, Vice President A.M. Musajee
-
-Standing (from left): Committee Member Abdul Saliheen, Assistant Secretary Asitha Panabokke, Committee Member Deepal Abeysekara, Treasurer Asim Mukthar, Committee Member Rohan Elgiriyawithana, Committee Member Dishan Shaminda, and Assistant Treasurer Yashodha Peiris
-
-New Ambassador of Thailand Paitoon Mahapannaporn recently called for greater diversification of Sri Lanka’s export industry to benefit from the Free Trade Agreement between two countries.
-
-...
-
-[Data](articles/6fc76d32.json)
-
----
-
-### இந்திய மீனவர்களுக்கு விளக்கமறியல் நீடிப்பு
-
-*2025-01-02 03:16:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களுக்கு-விளக்கமறியல்-நீடிப்பு/175-349641) · `ta`
-
-எல்லை தாண்டி வடமராட்சி கடற்பரப்பில் மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்கள், கடற்படையினரின் கடமையின் போது இடையூறு விளைவித்த குற்றச்சாட்டில் கைதாகியவர்களுக்கு மேலும் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
-
-இழுவைப் படகில் தடைசெய்யப்பட்ட இழுவைமடியைப் பயன்படுத்தி எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட போது கடந்த வருடம் நவம்பர் 11 ஆம் திகதி  வடமராட்சி கடற்பகுதியில் வைத்து கடற்படையினரால் 12 காரைக்கால் மீனவர்கள் கைதுசெய்யப்பட்டு நவம்பர் 13 ஆம் திகதி பருத்தித்துறை நீதிமன்றில் நீரியல்வளத் துறை அதிகாரிகளினால் முற்படுத்தப்பட்டனர்.
-
-குறித்த கைதின் போது கடற்படை அதிகாரிகளைத் தாக்கி கடமைக்கு இடையூறு விளைவித்தமை மற்றும் படகிற்கு சேதம் ஏற்படுத்தியிருந்தமை தொடர்பில் கடற்படையினரால், பருத்தித்துறை காவல் நிலையத்தில் பிறிதொரு முறைப்பாடு பதிவுசெய்யப்பட்டது.
-
-...
-
-[Data](articles/82a4fa92.json)
-
----
-
-### Abbotsleigh Tea Estate produces and sells highest quantity
-
-*2025-01-02 03:16:26* · [`dailyftlk`](https://www.ft.lk/business/Abbotsleigh-Tea-Estate-produces-and-sells-highest-quantity/34-771297) · `en`
-
-Abbotsleigh Tea Estate has produced and sold the highest quantity of 2,029,990 kilograms for the year 2024.
-
-This is the highest quantity sold by a factory which is operating in the High/Medium category.
-
-Abbotsleigh Estate is situated in the Central Province and the overall factory operations are spearheaded by Deputy General Manager Suranga Dela.
-
-Abbotsleigh Estate is the prime property of Hatton Plantations PLC led by Managing Director Menaka Athukorala.
-
-This estate sells its production of prime CTC high grown teas, under the selling mark of “Florence” which is well known and established among local and international consumers.
-
-◼️
-
-[Data](articles/6468434f.json)
-
----
-
-### போதையில் வாகனம் செலுத்திய 529 சாரதிகள் கைது
-
-*2025-01-02 03:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதையில்-வாகனம்-செலுத்திய-529-சாரதிகள்-கைது/175-349640) · `ta`
-
-கடந்த 24 மணித்தியாலத்திற்குள் மேற்கொள்ளப்பட்ட விசேட போக்குவரத்து நடவடிக்கையில் மதுபோதையில் வாகனம் செலுத்திய 529 சாரதிகள் கைது செய்யப்பட்டுள்ளனர் எனப் பொலிஸார் தெரிவித்துள்ளனர்.
-
-விசேட போக்குவரத்து நடவடிக்கை ஆரம்பிக்கப்பட்டு 24 மணித்தியாலங்களில் மேற்கொள்ளப்பட்ட அதிகூடிய எண்ணிக்கையான கைதுகள் இவையென பொலிஸார் தெரிவித்தனர்.
-
-போக்குவரத்து விதிமீறல்கள் தொடர்பில் சட்டத்தை அமுல்படுத்தி தற்போது வரை 7,264 சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/f014f5ea.json)
 
 ---

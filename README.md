@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 09:02:58**
+As of **2025-01-02 09:16:17**
 
 ## Newspaper Stats
 
-*Scraped **63,224** Articles*
+*Scraped **63,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 466
 colombotelegraphcom | 637
 bbccomsinhala | 666
 islandlk | 3,849
-economynextcom | 3,849
+economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,041
+adalk | 6,042
 adaderanalk | 7,727
 tamilmirrorlk | 9,064
 virakesarilk | 10,511
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,224 articles have been extended.
+61,971 (98.0%) of 63,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,44 @@ Maj. Gen. Wanigasooriya (Retd) has been appointed to the position of Chief of Na
 ◼️
 
 [Data](articles/4ee1f946.json)
+
+---
+
+### වසර 14ට පසු ශ්‍රී ලංකා පිතිකරුවෙක්ගෙන් T20 ශතකයක් - නවසීලන්තයට ලකුණු 219 ඉලක්කයක්
+
+*2025-01-02 08:05:58* · [`adalk`](https://www.ada.lk/sports/වසර-14ට-පසු-ශ්‍රී-ලංකා-පිතිකරුවෙක්ගෙන්-T20-ශතකයක්---නවසීලන්තයට-ලකුණු-219-ඉලක්කයක්/9-413970) · `si`
+
+වසර 14ට පසුව ශ්‍රී ලංකා පිතිකරුවෙකු විස්සයි 20 ක්‍රිකට් ශතකයක් වාර්තා කිරීමට අද(02දා) සමත් විය.
+
+ඒ අනුව දැන් පැවැත්වෙන ශ්‍රී ලංකා - නවසීලන්ත තෙවන විස්සයි 20 ක්‍රිකට් තරගයේදී ශ්‍රී ලංකාව වෙනුවෙන් කුසල් ජනිත් පෙරේරා එම දක්ෂතාවය දැක්වීමට සමත් විය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 218ක් රැස් කළේය.
+
+එහිදී කුසල් ජනිත් පෙරේරා 101(46​) සහ නායක චරිත් අසලංක 46(24) රැස් කළේය.
+
+◼️
+
+[Data](articles/69f6e7a0.json)
+
+---
+
+### Sri Lanka’s SAGT says handled container twice design capacity in 2024
+
+*2025-01-02 08:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sagt-says-handled-container-twice-design-capacity-in-2024-197518/) · `en`
+
+ECONOMYNEXT – South Asia Gateway Terminals, a unit of Sri Lanka’s John Keells Holdings said it handled more than two million containers in 2024, which was twice its original design capacity of 1.1 million boxes.
+
+The terminal is able to handle two million twenty foot equivalent units (TEUs), due to the investments in technology and people, Chief Executive Romesh David said in a statement.
+
+SAGT’s said the marine and other divisions of Sri Lanka Ports Authority internal and external providers of trucking and lashing services, have contributed to reaching the target.
+
+The two million throughput has ranked SAGT among the best terminals in the world on the productivity indicator of TEU per Hectare of Yard, the firm said.
+
+SAGT is planning to introduce a vehicle booking systemto improve truck turnaround times, which it says are already at globally competitive levels, and help to reduce congestion in the entire port.
+
+...
+
+[Data](articles/c7676761.json)
 
 ---
 
@@ -201,6 +239,64 @@ Maj. Gen. Wanigasooriya (Retd) has been appointed to the position of Chief of Na
 ◼️
 
 [Data](articles/aa2bca33.json)
+
+---
+
+### Sri Lanka stockholders US$6.3bn and Rs1.4 trillion richer by end 2024
+
+*2025-01-02 06:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stockholders-us6-3bn-and-rs1-4-trillion-richer-by-end-2024-197505/) · `en`
+
+ECONOMYNEXT – Sri Lanka stockholders were 1.4 trillion rupees richer by the end of 2024, with the dollar value of listed stocks up by 6.3 billion US dollars, an analysis if year-end data show.
+
+According to Colombo Stock Exchange data the market value of listed stocks was 5,695 billion at the end of 2024, up 1,446 billion from lasts year.
+
+The value includes new shares issued to raise capital in 2024.
+
+During the year inflation was largely absent allowing consumer spending to recover and companies to cut costs and retail prices, in sharp contrast to the  age-of-inflation doctrine of Anglophone macro-economists that falling prices (deflation) is somehow bad.
+
+Backed by falling interest rates, stocks roared in 2024 with margin backed trading also coming into play, analysts said.
+
+...
+
+[Data](articles/be67ac89.json)
+
+---
+
+### Vindhya Jayasekera next CEO of Sri Lanka’s Colombo Stock Exchange
+
+*2025-01-02 05:34:00* · [`economynextcom`](https://economynext.com/vindhya-jayasekera-next-ceo-of-sri-lankas-colombo-stock-exchange-197502/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Stock Exchange said Vindhya Jayasekera, was appointed as Chief Executive Officer (CEO) Designate, with effect from January 01, 2025
+
+Chief Executive Rajeeva Bandaranaike, is due to retire during 2025 after serving for 11 years.
+
+Jayasekera was the Chief Investment Officer at NDB Wealth Management Limited, where she led the asset management division overseeing assets under management exceeding 380 billion rupees, the CSE said in a statement.
+
+Jayasekera is a CFA Charter holder and a certified Financial Risk Manager (FRM) accredited by the Global Association of Risk Professionals.
+
+She is also an Associate Member of the Chartered Institute of Management Accountants (ACMA) and holds the Chartered Global Management Accountant (CGMA) designation.
+
+She was a Fulbright Scholar, under which she earned her Master of Science in Finance from the University of Illinois at Urbana-Champaign, USA, graduating with a medal for academic excellence.
+
+...
+
+[Data](articles/a0bb3ac9.json)
+
+---
+
+### Sri Lanka Port City firework display for New Year: In Pictures
+
+*2025-01-02 05:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-city-firework-display-for-new-year-in-pictures-197496/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Colombo Port City has welcomed 2025 with a fireworks display.
+
+The pictures released by the Port City shows fireworks over its Marina Bridge.
+
+The Colombo Port City is a dollarized special economic zone, where people will be protected from depreciation through currency competition.
+
+◼️
+
+[Data](articles/6aea35d4.json)
 
 ---
 
@@ -1671,105 +1767,5 @@ Police Media Spokesman SSP Buddhika Manathunga confirmed that the arrest followe
 ◼️
 
 [Data](articles/fffaad02.json)
-
----
-
-### Spaniard arrested with cocaine and ecstasy pills
-
-*2025-01-01 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104643/spaniard-arrested-with-cocaine-and-ecstasy-pills) · `en`
-
-The officers of the Galle Unit of the Police Narcotics Bureau (PNB) have arrested a foreign national while in the possession of a stock of narcotics intended for trafficking.
-
-The arrest has been made during a raid carried out by the police officers acting on a tip-off received.
-
-Accordingly, the PNB officials have seized 4 grams of cocaine and 12 ecstasy pills weighing 6 grams from the suspect’s possession.
-
-Preliminary investigations have revealed that the suspect has been trafficking these narcotics which were imported into the country through mail.
-
-◼️
-
-[Data](articles/670c9740.json)
-
----
-
-### அசெம்பிள் செய்யப்பட்ட வாகனங்களுடன் சிக்கிய சந்தேகநபர்
-
-*2025-01-01 15:11:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அசெம்பிள்-செய்யப்பட்ட-வாகனங்களுடன்-சிக்கிய-சந்தேகநபர்/175-349615) · `ta`
-
-சட்டவிரோதமான முறையில் வாகனங்களை அசெம்பிள் செய்துவந்த கும்பலொன்றை குற்றப் புலனாய்வு பிரிவினர் மடக்கிப் பிடித்துள்ளனர்.
-
-இந்த மோசடியில் ஈடுபட்ட நபர் ஒருவர் மாத்தளை பிரதேசத்தில் வைத்து குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேகநபர் வசம் இருந்த 8 அசெம்பிள் செய்யப்பட்ட வாகனங்கள் கண்டுபிடிக்கப்பட்டதுடன், இலக்கத் தகடுடன் குறித்த வாகனங்களின் Chassis எண்கள் மாற்றப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகம் வௌியிட்டனர்.
-
-சந்தேகநபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது பிலியந்தலை பகுதியில் மறைத்து வைக்கப்பட்டிருந்த மற்றுமொரு வாகனம் தொடர்பில் தகவல் வெளியாகியுள்ளதுடன் அதன் Chassis எண்கள் மற்றும் இயந்திரங்கள் அனைத்தும் மாற்றப்பட்டுள்ளமை தெரியவந்துள்ளது.
-
-இதற்கிடையில், சந்தேக நபருடன் வலையமைப்பொன்று இயங்கி வருவதாகவும், நிதி நிறுவனம் ஒன்றில் பணிபுரியும் நபரும் அதில் அங்கம் வகித்துள்ளதாகவும் பொலிஸார் கண்டுபிடித்துள்ளனர்.
-
-அசெம்பிள் செய்யப்பட்ட வாகனங்களை கொள்வனவு செய்பவர்களுக்கு நிதி வசதி செய்து கொடுத்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-...
-
-[Data](articles/60566623.json)
-
----
-
-### නිවසක් තුළ පුරාවස්තු සෙවූ අයෙක් අත්අඩංගුවට
-
-*2025-01-01 15:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204931) · `si`
-
-පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කළ පුද්ගලයෙකු ඇඹිලිපිටිය ප්‍රදේශයේ දී අත්අඩංගුට ගෙන තිබේ.
-
-ඇඹිලිපිටිය, උඩගම ප්‍රදේශයේ නිවසක් තුළ පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් සිදුකිරීමක් සම්බන්ධයෙන් ලද තොරතුරක් මත සිදුකළ වැටලීමක දී මෙම අත්අඩංගුවට ගැනීම සිදුකළ බව පොලීසිය පැවසීය.
-
-අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 55ක් වූ ගල්බොරැල්ල, කැලණිය ප්‍රදේශයේ පදිංචිකරුවෙක්ය.
-
-වැටලීම සිදුකළ ස්ථානයේ තිබී රන් ආලේපිත බුදු පිළිම 02ක්, කළු පැහැති ගල් මංජුසාවක්, නිල් පැහැති මැණික් බවට සැකකරන ගල් 03ක්ද පොලිස් භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/a7e5ef06.json)
-
----
-
-### රිය අනතුරකින් පසු පළාගිය ප්‍රධාන පොලිස් පරීක්ෂක අල්ලයි
-
-*2025-01-01 14:59:51* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-පසු-පළාගිය-ප්‍රධාන-පොලිස්-පරීක්ෂක-අල්ලයි/11-413960) · `si`
-
-කළුතර උතුර ගාලු පාරේ කොස්ගස් හන්දිය ප්‍රදේශයේදී  පෞද්ගලික බස් රථයක පිටුපස ගැටි මෝටර් රථය අනතුරකට ලක්වීමෙන් අනතුරුව මෝටර් රථයේ එම ස්ථානයේ දමා පලා ගිය ප්‍රධාන පොලිස් පරීක්ෂකවරයෙකු අත්අඩංගුවට ගත් බව කළුතර උතුර පොලිසිය කියයි.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොස්ගොඩ පොලිසියට අනුයුක්ත ප්‍රධාන පොලිස් පරීක්ෂකවරයෙකි.
-
-සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයා කළුතර සිට කොළඹ දෙසට  මෝටර් රථයක්  ධාවනය කරමින් සිටියදී එම දිශාවටම ඉදිරියෙන් ධාවනය වූ මතුගම සිට කොළඹ දක්වා  ධාවනය වන පෞද්ගලික බස් රථයේ පිටුපස ගැටී අනතුරට ලක්වී ඇතැයි පොලිසිය කියයි.
-
-එම අවස්ථාවේදී මෝටර් රථයෙන් පිටතට පැමිණ ඇති ප්‍රධාන පොලිස් පරීක්ෂකවරයා සිදුවූ අනතුරට රියදුරුගෙන් අලාභ ඉල්ලා  ඔහු  සමඟ බහින් බස් වීමක් හටගෙන ඇති අතර අනතුරුව මෝටර් රථය එම ස්ථානයේ දමා පලා ගොස් තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
-
-සැකකාර ප්‍රධාන පොලිස් පරීක්ෂකවරයා  කළුතර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට  නියමිතය.
-
-කළුතර උතුර පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ.
-
-◼️
-
-[Data](articles/9b94f0da.json)
-
----
-
-### Sri Lanka’s women entrepreneurs lack networking opportunities: EDB
-
-*2025-01-01 14:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-women-entrepreneurs-lack-networking-opportunities-edb-197427/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s women entrepreneurs lack networking opportunities with industry leaders, the country’s Export Development Board (EDB) has said.
-
-The trade body recently conducted a networking and knowledge sharing session for women entrepreneurs registered under the Women Entrepreneurship Development Program.
-
-“The event addressed one of the key barriers faced by women entrepreneurs, lack of networking opportunities with industry leaders,” the EDB said.
-
-This session brought together 50 women entrepreneurs, including SME direct exporters and indirect exporters, along with leading exporters and academics.
-
-The event “fostered connections, facilitated knowledge sharing, and encouraged collaboration to help women entrepreneurs navigate international markets,” and featured a panel of speakers who shared their expertise on various topics critical to succeeding in the global marketplace, the trade body said.
-
-...
-
-[Data](articles/fe071de6.json)
 
 ---

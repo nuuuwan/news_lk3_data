@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 09:43:53**
+As of **2025-01-02 10:03:01**
 
 ## Newspaper Stats
 
-*Scraped **63,230** Articles*
+*Scraped **63,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,849
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,042
+adalk | 6,043
 adaderanalk | 7,727
-tamilmirrorlk | 9,065
+tamilmirrorlk | 9,066
 virakesarilk | 10,511
 adaderanasinhalalk | 10,922
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 10,922
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,230 articles have been extended.
+61,971 (98.0%) of 63,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### புறக்கோட்டையில் சடலம் ஒன்று மீட்பு
+
+*2025-01-02 09:51:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-சடலம்-ஒன்று-மீட்பு/175-349644) · `ta`
+
+கொழும்பு - புறக்கோட்டை மிதக்கும் வணிக வளாகத்தில் இன்று காலை ஆண் ஒருவரின் சடலம் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/1789e5bb.json)
+
+---
 
 ### யூடியூப் மீட்டெடுக்கப்பட்டது
 
@@ -1422,6 +1434,24 @@ A bond maturing on 15.09.2029 closed stable at 10.60/70 percent.
 
 ---
 
+### ’අභ්‍යාස පොත්මිල සියයට 20කින් අඩු කළා’
+
+*2025-01-01 17:01:48* · [`adalk`](https://www.ada.lk/breaking_news/’අභ්‍යාස-පොත්මිල-සියයට-20කින්-අඩු-කළා’/11-413963) · `si`
+
+ඩොලරයේ වටිනාකම අඩු වෙමින් තිබෙන නිසා අහ්‍යාස පොත් ඇතුළුව පාසල් උපකරණවල මිල 20%කින් අඩු කිරීමට කටයුතු කර තිබෙන බව සමස්ත ලංකා කුඩා කර්මාන්තකරුවන්ගේ සංගමය සඳහන් කරයි.
+
+කඩදාසි මත 18%ක වැට් බද්ද හා 2.5%ක සමාජ ආරක්ෂණ බද්ද පවතින බවත්,  මෙම බදු දෙක ඉවත් කිරීමට කටයුතු කළහොත් අභ්‍යාස පොත් හා පාසල් උපකරණවල මිල තවදුරටත් අඩු කළ හැකි බවද එම සංගමයේ සභාපති නිරුක්ෂ කුමාර මහතා සඳහන් කළේය.
+
+නව වසරේ පාසල් ආරම්භය මේ මස අවසන් සතියේදී සිදුවන බවත්, මේ අනුව දෙමාපියන්ට අඩු මිලට පාසල් උපකරණ හා අභ්‍යාස පොත් මිලදී ගැනීමට අවස්ථාව හිමිවන බවත්, පාසල් ඇඳුම් රෙදි මිල පවා 2023 වසරේ දෙසැම්බර් මාසයට සාපේක්ෂව මෙවර 20%කින් පමණ අඩු වී තිබෙන බවද පැවසීය.
+
+පසුගිය ආණ්ඩුව විසින් වැට් බදු ඉහළ දැමීම හා සමහර භාණ්ඩවලට අලුතින් වැට් බදු එකතු කිරීම නිසා මධ්‍ය පරිමාණ හා කුඩා පරිමාණ කර්මාන්තකරුවන් දැඩි දුෂ්කරතාවන්ට මුහුණ දී සිටින බවත්, මේ පිළිබඳව වර්තමාන ආණ්ඩුව අවධානය යොමුකර අවශ්‍ය කටයුතු සිදුකළ යුතු බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/19260f41.json)
+
+---
+
 ### OrphanCare காப்பாளர்களில் ஒருவராக கஸ்தூரி செல்லராஜா வில்சன்
 
 *2025-01-01 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202722) · `ta`
@@ -1723,43 +1753,5 @@ The Colombo Crime Branch has arrested social activist Namal Kumara, police said.
 ◼️
 
 [Data](articles/cdaf8908.json)
-
----
-
-### Suspect arrested with illegally assembled vehicles worth over Rs. 50 mln
-
-*2025-01-01 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104645/suspect-arrested-with-illegally-assembled-vehicles-worth-over-rs-50-mln) · `en`
-
-The Police Fraud Investigation Bureau has successfully dismantled a criminal network involved in illegally assembling and selling vehicles.
-
-Accordingly, the Police Fraud Investigation Bureau has arrested an individual involved in the crime in the Matale area.
-
-The arrest follows an investigation conducted by the Senior Superintendent of Police (SSP) in charge of the Illegal Assets Investigation Division on the instructions of the Acting Inspector General of Police (IGP) Priyantha Weerasooriya and the Deputy Inspector General of Police (DIG) in charge of the Criminal Investigations Department (CID) DIG P. Ampavila.
-
-Meanwhile, eight illegally assembled vehicles have been found in the suspect’s possession, and the police suspect that the chassis numbers of those vehicles with their number plates had been altered.
-
-Six of the vehicles are in operational condition, while two others are severely damaged.
-
-...
-
-[Data](articles/b4e2b299.json)
-
----
-
-### Namal Kumara arrested
-
-*2025-01-01 15:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104644/namal-kumara-arrested) · `en`
-
-Social activist Namal Kumara has been arrested by the Colombo Crimes Division (CCD) today (01), the police said.
-
-Police said that the arrest was made in connection with the audio recording being circulated in social media which allegedly defames the reputation of the Archbishop of Colombo, His Eminence Malcolm Cardinal Ranjith.
-
-Recently, the Archdiocese of Colombo had requested for a probe into the incident. The Media Director of the Archdiocese, Rev. Fr. Jude Krishantha alleged that activist Namal Kumara is an abettor of the Easter Sunday massacres and asserted that Kumara is plotting another scene at the request of a certain third party.
-
-Police Media Spokesman SSP Buddhika Manathunga confirmed that the arrest followed an extended investigation into the incident, based on a complaint made by Rev. Fr. Jude Krishantha to the CCD regarding the matter.
-
-◼️
-
-[Data](articles/bd3eef60.json)
 
 ---

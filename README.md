@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 16:02:26**
+As of **2025-01-02 16:15:52**
 
 ## Newspaper Stats
 
-*Scraped **63,306** Articles*
+*Scraped **63,308** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,849
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,052
+adalk | 6,053
 adaderanalk | 7,745
-tamilmirrorlk | 9,081
+tamilmirrorlk | 9,082
 virakesarilk | 10,529
 adaderanasinhalalk | 10,935
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,306 articles have been extended.
+61,971 (97.9%) of 63,308 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### பாடசாலை உபகரணங்களின் விலை 20 சதவீதம் குறைப்பு
+
+*2025-01-02 15:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-உபகரணங்களின்-விலை-20-சதவீதம்-குறைப்பு/175-349679) · `ta`
+
+டொலரின் பெறுமதி வீழ்ச்சியடைந்து வருவதால் அப்பியாசக் கொப்பிகள் உள்ளிட்ட பாடசாலை உபகரணங்களின் விலை 20% குறைக்கப்பட்டுள்ளதாக அகில இலங்கை சிறு கைத்தொழில் சங்கம் தெரிவித்துள்ளது.
+
+காகிதங்களுக்கு 18 சதவீத VAT மற்றும் 2.5 சதவீத சமூக பாதுகாப்பு வரி இருப்பதாகவும், இந்த இரண்டு வரிகளையும் நீக்கினால், பயிற்சி புத்தகங்கள் மற்றும் பாடசாலை உபகரணங்களின் விலையை மேலும் குறைக்க முடியும் என்றும் சங்கத்தின் தலைவர்  நிருக்ஷ குமார தெரிவித்தார்.
+
+புதிய கல்வியாண்டு ஆரம்பமாகியுள்ள நிலையில், பாடசாலை உபகரணங்கள், பயிற்சிப் புத்தகங்களை பெற்றோர்கள் குறைந்த விலையில் கொள்வனவு செய்யும் வாய்ப்புள்ளதாகவும், பாடசாலை ஆடைகளின் விலை கூட 20 ஆக குறைந்துள்ளதாகவும் தெரிவித்தார்.
+
+கடந்த அரசாங்கம் வற் வரி அதிகரிப்பு மற்றும் சில பொருட்களுக்கு புதிய வற் வரியை சேர்த்தமையினால் நடுத்தர மற்றும் சிறு கைத்தொழில்துறையினர் கடும் சிரமங்களை எதிர்நோக்கி வருவதாகவும், தற்போதைய அரசாங்கம் இது தொடர்பில் கவனம் செலுத்தி தேவையான நடவடிக்கைகளை மேற்கொள்ள வேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0c5225db.json)
+
+---
 
 ### කොටස් වෙළෙඳපොළේ ලොකු පිම්මක්
 
@@ -1412,6 +1430,24 @@ Maj. Gen. Wanigasooriya (Retd) has been appointed to the position of Chief of Na
 
 ---
 
+### වසර 13ට පසු ශ්‍රී ලංකා පිතිකරුවෙක්ගෙන් T20 ශතකයක්
+
+*2025-01-02 08:05:58* · [`adalk`](https://www.ada.lk/sports/වසර-13ට-පසු-ශ්‍රී-ලංකා-පිතිකරුවෙක්ගෙන්-T20-ශතකයක්/9-413970) · `si`
+
+වසර 13ට පසුව ශ්‍රී ලංකා පිතිකරුවෙකු විස්සයි 20 ක්‍රිකට් ශතකයක් වාර්තා කිරීමට අද(02දා) සමත් විය.
+
+ඒ අනුව දැන් පැවැත්වෙන ශ්‍රී ලංකා - නවසීලන්ත තෙවන විස්සයි 20 ක්‍රිකට් තරගයේදී ශ්‍රී ලංකාව වෙනුවෙන් කුසල් ජනිත් පෙරේරා එම දක්ෂතාවය දැක්වීමට සමත් විය.
+
+මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 218ක් රැස් කළේය.
+
+එහිදී කුසල් ජනිත් පෙරේරා 101(46​) සහ නායක චරිත් අසලංක 46(24) රැස් කළේය.
+
+◼️
+
+[Data](articles/2b65247b.json)
+
+---
+
 ### වසර 14ට පසු ශ්‍රී ලංකා පිතිකරුවෙක්ගෙන් T20 ශතකයක් - නවසීලන්තයට ලකුණු 219 ඉලක්කයක්
 
 *2025-01-02 08:05:58* · [`adalk`](https://www.ada.lk/sports/වසර-14ට-පසු-ශ්‍රී-ලංකා-පිතිකරුවෙක්ගෙන්-T20-ශතකයක්---නවසීලන්තයට-ලකුණු-219-ඉලක්කයක්/9-413970) · `si`
@@ -1791,37 +1827,5 @@ Dr. Lasantha Karunasena will assume the role of Chief Executive Officer (CEO) an
 ◼️
 
 [Data](articles/07021f52.json)
-
----
-
-### FSP blames negligence, conspiracy for rejected Govt. rice import tenders
-
-*2025-01-02 03:03:39* · [`dailyftlk`](https://www.ft.lk/news/FSP-blames-negligence-conspiracy-for-rejected-Govt-rice-import-tenders/56-771292) · `en`
-
-FSP’s Pubudu Jayagoda calls for immediate investigation into rejection of Govt. tenders for rice imports
-
-Alleges possible negligence by officials or deliberate conspiracy aimed at destabilising Govt.
-
-Criticises Govt.’s inability to manage rice market effectively, despite surplus production
-
-Reiterates its demand for Govt. to break monopoly of large-scale rice mill owners and investigate them
-
-Frontline Socialist Party (FSP) Education Secretary Pubudu Jayagoda has called for an immediate investigation into the rejection of Government tenders for rice imports amidst the ongoing rice shortage in Sri Lanka. Speaking at a special media briefing held at the FSP’s office in Nugegoda yesterday, Jayagoda alleged possible negligence by officials or a deliberate conspiracy aimed at destabilising the Government.
-
-...
-
-[Data](articles/85a2f0d7.json)
-
----
-
-### President AKD greets Archbishop of Colombo
-
-*2025-01-02 03:02:27* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-greets-Archbishop-of-Colombo/56-771291) · `en`
-
-President Anura Kumara Dissanayake greets Archbishop of Colombo Cardinal Malcolm Ranjith, who was among the clergy invited for the launch of the ‘Clean Sri Lanka’ program yesterday at the Presidential Secretariat premises.
-
-◼️
-
-[Data](articles/e8202e1b.json)
 
 ---

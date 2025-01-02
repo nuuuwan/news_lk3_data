@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 16:27:36**
+As of **2025-01-02 16:43:20**
 
 ## Newspaper Stats
 
-*Scraped **63,308** Articles*
+*Scraped **63,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,849
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,053
+adalk | 6,054
 adaderanalk | 7,745
 tamilmirrorlk | 9,082
 virakesarilk | 10,529
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,935
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,308 articles have been extended.
+61,971 (97.9%) of 63,309 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -493,6 +493,22 @@ Speaking during an event held yesterday (Jan.1), he also explained that the gove
 ...
 
 [Data](articles/d0afe585.json)
+
+---
+
+### නව වසරේ පළමු පාර්ලිමේන්තු රැස්වීම ජනවාරි 7 වැනිදා
+
+*2025-01-02 13:17:29* · [`adalk`](https://www.ada.lk/breaking_news/නව-වසරේ-පළමු-පාර්ලිමේන්තු-රැස්වීම-ජනවාරි-7-වැනිදා/11-413979) · `si`
+
+පාර්ලිමේන්තුව 2025 ජනවාරි 7 වැනිදා සිට 10 වැනිදා දක්වා රැස්වීමට තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+මේ අනුව ජනවාරි 7 වැනි අගහරුවාදා පෙ.ව 9.30 - පෙ.ව 10.30  කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ‍ප.ව 5.30 දක්වා රජය විසින් ගෙනෙනු ලබන “2024 වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව” සම්බන්ධව සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වූ බව මහලේකම්වරිය පැවසුවාය.
+
+ජනවාරි 8 වැනි බදාදා පෙ.ව 9.30 - පෙ.ව 10.00  කාලය අග්‍රාමාත්‍යවරියගෙන් අසනු ලබන ප්‍රශ්න සඳහා (ප්‍රශ්න 4ක්) වෙන් කර ඇත. අනතුරුව පෙ.ව 10.00 පෙ.ව 10.30 කාලය කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා (ප්‍රශ්න 5ක්) වෙන් කර තිබේ.
+
+...
+
+[Data](articles/7f19b67b.json)
 
 ---
 
@@ -1811,21 +1827,5 @@ These accolades underscore DIMO’s contribution to advancing agriculture in Sri
 ◼️
 
 [Data](articles/2f384f72.json)
-
----
-
-### New CEO at Durdans Healthcare Group
-
-*2025-01-02 03:08:33* · [`dailyftlk`](https://www.ft.lk/business/New-CEO-at-Durdans-Healthcare-Group/34-771293) · `en`
-
-Ceylon Hospitals PLC – Durdans Healthcare Group yesterday announced a leadership transition effective 1 January 2025.
-
-Dr. Lasantha Karunasena will assume the role of Chief Executive Officer (CEO) and Director of Medical Services (DMS).
-
-“This strategic redefinition of our senior management structure marks a significant step forward in our operational management, positioning the Healthcare Group for enhanced performance and improved healthcare delivery,” the Company said in a statement.
-
-◼️
-
-[Data](articles/07021f52.json)
 
 ---

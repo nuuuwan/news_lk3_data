@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 14:16:16**
+As of **2025-01-02 14:28:08**
 
 ## Newspaper Stats
 
-*Scraped **63,280** Articles*
+*Scraped **63,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,132 @@ economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,051
-adaderanalk | 7,734
+adaderanalk | 7,737
 tamilmirrorlk | 9,077
 virakesarilk | 10,525
-adaderanasinhalalk | 10,929
+adaderanasinhalalk | 10,933
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,280 articles have been extended.
+61,971 (97.9%) of 63,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### ත්‍රිකුණාමල මුහුදේ තිබී හමු වූ ඩ්‍රෝන යානය යලි ලබා දෙන්න අවධානය
+
+*2025-01-02 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204965) · `si`
+
+ත්‍රිකුණාමලයට ආසන්න මුහුදේ තිබී හමු වූ ඉන්දීය සමාගමකට අයත් ඩ්‍රෝන යානයෙන් මෙරටට කිසිදු බලපෑමක් නොමැති බව හෙළි වී තිබේ.
+
+ඒ සම්බන්ධයෙන් සේවීම සඳහා පත්කළ කමිටුව විසින් සිදුකළ අවසන් වාර්තාව ගුවන් හමුදාපති වෙත භාර දී ඇත.
+
+එම වාර්තාවෙන් පවසා ඇත්තේ මෙම ඩ්‍රෝන යානයෙන් ලංකාවට කිසිදු බලපෑමක් ඇති ව නොමැති බවය.
+
+එමෙන්ම මෙම ඩ්‍රෝන යානය,  ඉන්දීය සමාගමකට අයත් එකක් බවටද තොරතුරු අනාවරණය වී තිබේ.
+
+පසුගිය 27 වනදා ත්‍රිකුණාමලයට ආසන්න මුහුදේ තිබී මෙම ඩ්‍රෝන යානය ධීවරයින් පිරිසකට හමුව තිබුණි.
+
+මෙම යානය සති දෙකකට ආසන්න කාලයක් මුහුදේ තිබී ඇති බවද එම වාර්තාව මගන් පෙන්වා දී ඇති අතර එය නැවතත් ආදාළ සමාගමට භාරදීම සම්බන්ධයෙන් අවධාරනය යොමු කර තිබේ.
+
+◼️
+
+[Data](articles/0c6cd92f.json)
+
+---
+
+### 2025’s first Parliament sitting to be held on Jan. 7
+
+*2025-01-02 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104666/2025s-first-parliament-sitting-to-be-held-on-jan-7) · `en`
+
+The Secretary-General of Parliament, Mrs. Kushani Rohanadeera stated that Parliament is scheduled to convene from January 7 to January 10, 2025.
+
+This decision was reached at the Committee on Parliamentary Business held recently (31), under the Chairmanship of the Speaker, Dr. Jagath Wickramaratne.
+
+Accordingly, on Tuesday, January 7, time has been allotted from 9:30 a.m. to 10:30 a.m. for Questions for Oral Answers. Subsequently, from 10:30 a.m. to 5:30 p.m., the Adjournment Debate on “Mid-Year Fiscal Position Report – 2024” by the Government has been scheduled as decided during the meeting held, the Secretary-General said.
+
+On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., for Questions to be asked from the Prime Minister (4 questions). From 10:00 a.m. to 10:30 a.m., time has been allotted for 5 Questions for Oral Answers.
+
+...
+
+[Data](articles/b3403029.json)
+
+---
+
+### ලුණු මෙට්‍රික්ටොන් 30000ක් ආනයනයට හෙට සිට ටෙන්ඩර්
+
+*2025-01-02 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204964) · `si`
+
+ලුණු මෙට්‍රික්ටොන් 30,000ක් ආනයනය කිරීම සඳහා රජය හෙට (03) සිට ටෙන්ඩර් විවෘත කිරීමට පියවර ගෙන තිබේ.
+
+අදියර 2ක් යටතේ එලෙස ලුණු ආනයනය කිරීමට පියවර ගන්නා අතර පළමු අදියර යටතේ මෙට්‍රික්ටොන් 20,000ක් සහ දෙවන අදියර යටතේ මෙට්‍රික්ටොන් 10,000ක් ආනයනය කෙරෙනු ඇත.
+
+ඒ අනුව පළමු අදියට යටතේ ලුණු මෙට්‍රික්ටොන් 20,000ක් ආනයනය කිරීම සඳහා හෙට දිනයේ මෙලෙස ටෙන්ඩර් විවාත කිරීමට නියමිතය.
+
+මෙලෙස ආනයනය කෙරෙන ලුණු කර්මාන්ත අමාත්‍යාංශය යටතේ බෙදාහැරීමට කටයුතු යොදා තිබේ.
+
+වැඩිදුරටත් වාර්තා වෙන්නේ මෙලෙස ආනයනය කෙරෙන ලුණු කර්මාන්තවල අවශ්‍යතාවය සඳහා පමණක් භාවිත කරන බවත් සාමාන්‍ය ජනතාවගේ පරිභෝජනය සඳහා ලබානොදෙන බවත්ය.
+
+◼️
+
+[Data](articles/a151b76a.json)
+
+---
+
+### දානපතියන්ට සෞඛ්‍ය ඇමති කී දේ
+
+*2025-01-02 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204963) · `si`
+
+සෞඛ්‍ය වෙනුවෙන් ඉතිහාසයේ වෙන් කරන වැඩිම මුදල මෙවර අයවැයෙන් වෙන්කරන බව සෞඛය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව සඳහන් කළේ, මෙරට රජයේ රෝහලක් තුළ ඉදි කරනු ලැබූ පළමු හා එකම ඇටමිදුළු හා රුධිර ජනන සෛල බද්ධ කිරීමේ ඒකකය අද (02) මහරගම අපේක්ෂා රෝහලේදි විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+
+"සෞඛ්‍ය අමාත්‍යාංශය කියන්නේ සාමාන්‍යයෙන් ඕනෑම රජයක් ඉල්ලුවොත් මුදල් දෙන තැනක්. කතරගම දෙයියෝ නෙමෙයි තිස්තුන් කෝටියක් දෙවිවරු දෙනවාට වඩා වැඩි මුදලක් භාණ්ඩාගාරයෙන් හැම වසරකම වෙන් කරනවා. එතෙක් මෙතෙක් ඉතිහාසයේ සෞඛ්‍ය අමාත්‍යාංශය වෙනුවෙන් වෙන් කරන ලද වැඩිම මුදල මෙවර අයවැයෙන් වෙන් කරනවා.
+
+...
+
+[Data](articles/010d0601.json)
+
+---
+
+### තවත් බීමත් රියදුරන් 509ක් හසුවෙයි
+
+*2025-01-02 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204962) · `si`
+
+අද (02) පෙරවරු 6න් අවසන් වූ පැය 24ක කාලය තුළ විශේෂ රථවාහන මෙහෙයුම මගින් බීමත් රියදුරන් 509 දෙනෙකු සම්බන්ධයෙන් පොලීසිය නීතිය ක්‍රියාත්මක කර තිබේ.
+
+ඒ, ඊයේ (01) පෙරවරු 6 සිට අද පෙරවරු 6 දක්වා වූ පැය 24ක කාලය තුළදී ය.
+
+එහිදී, අපරීක්ෂාකාරී හා අන්තරාදායක ලෙස රිය පැදවීමට අදාළ රියදුරන් 29 දෙනෙකු, අධික වේගයෙන් රිය පැදවීම සම්බන්ධව රියදුරන් 59 දෙනෙකු, මාර්ග නීති උල්ලංඝණය කිරීම සම්බන්ධයෙන් රියදුරන් 762ක්, බලපත්‍ර වැරදි සම්බන්ධ රියදුරන් 345ක් සහ වෙනත් රථවාහන වැරදි සම්බන්ධයෙන් රියදුරන් 3,711ක් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කර ඇත.
+
+පොලීසිය වැඩිදුරටත් දැනුම්දෙන්නේ අදාළ පැය 24ක කාලය තුළ සමස්ත රථවාහන වැරදිවලට අදාළව රියදුරන් 5,415ක් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කර ඇති බවය.
+
+මෙම විශේෂ මෙහෙයුම තවදුරටත් ක්‍රියාත්මක කිරීමට කටයුතු කරනු ලබන අතර බීමත්ව රිය ධාවනය නොකිරීමටත්, මාර්ග නීති උල්ලංඝණය ඇතුළු අනෙකුත් රථවාහන නීතී රීති උල්ලංඝණය නොකරන ලෙසටත් ශ්‍රී ලංකා පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
+
+...
+
+[Data](articles/d5d4cb4e.json)
+
+---
+
+### MP Asoka Ranwala highlights importance of proper tax payments by businessmen
+
+*2025-01-02 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104665/mp-asoka-ranwala-highlights-importance-of-proper-tax-payments-by-businessmen) · `en`
+
+Former Speaker and Member of Parliament Asoka Ranwala emphasized that the government can only provide proper benefits to the society and beneficiaries if successful businessmen pay taxes properly.
+
+Speaking during an event held yesterday (Jan.1), he also explained that the government faced a serious crisis in the past due to the inability to collect tax revenue. He further added that businessmen who use their own money for welfare activities should be praised.
+
+“Only when successful businessmen contribute their fair share of tax can society truly benefit. However, we have experienced a significant tragedy in the past due to the inability to collect these taxes,” he stated.
+
+...
+
+[Data](articles/d0afe585.json)
+
+---
 
 ### நேபாள பிரதமரை சந்தித்தார் முன்னாள் ஜனாதிபதி ரணில்
 
@@ -79,6 +191,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ef257454.json)
+
+---
+
+### ‘Education qualifications alone won’t fix governance’ - Dilith calls for fresh perspectives in politics
+
+*2025-01-02 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104664/education-qualifications-alone-wont-fix-governance-dilith-calls-for-fresh-perspectives-in-politics) · `en`
+
+The ‘Sarvajana Balaya’ Member of Parliament Dilith Jayaweera underscored the urgency for innovation, creativity, and strategic planning in terms of both governance and economic stability in order to provide pragmatic solutions to the country’s deep-rooted issues.
+
+Joining Ada Derana’s current affairs programme “State of the Nation”, MP Jayaweera argued that while political leadership may change, the fundamental challenges of governance and national strategy remain constant.
+
+He noted that the key to overcoming these challenges lies in fostering motivation, creativity, and a strategic vision that aligns with the nation’s long-term goals, while underscoring the importance of creativity in politics and decision-making.
+
+Jayaweera began by acknowledging the educational background of many of the current Parliamentarians, particularly those who were elected with the promise of bringing a fresh perspective to the nation’s politics.
+
+...
+
+[Data](articles/2dbcf19d.json)
 
 ---
 
@@ -1631,143 +1761,5 @@ Prior to her appointment at the CSE, she served as the Chief Investment Officer 
 ...
 
 [Data](articles/83f395de.json)
-
----
-
-### සිසුවෙකු පැදවූ වෑන් රථයට යටවී දෙදරු පියෙකු මරුට
-
-*2025-01-01 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204941) · `si`
-
-හලාවත වෙරළ මාර්ගයේ වැලිහේන ප්‍රදේශයේදී අද (1) පස්වරුවේ වෑන් රථයක් හා යතුරුපැදියක් ගැටී සිදු වූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
-
-අනතුර සිදුකළ වෑන් රථය පදවා ඇත්තේ වයස අවුරුදු 15ක සිසුවෙකු වන අතර, ඔහු අනතුර සිදුවීමත් සමග පලාගොස් තිබේ.
-
-කෙසේ වෙතත් එම අවස්ථාවේ ගම්මාන දෙකක ගම්වැසියන් පොලීසියට පැමිණ ඉල්ලා ඇත්තේ වහාම වාහනය පැද වූ සැකකරු අත්අඩංගුවට ගන්නා ලෙසයි.
-
-කෙසේ නමුත් මේ වනවිට වාහනය පැදවූ දරුවා ද පොලිස් භාරයට ගෙන තිබෙන බව පොලීසිය පැවසීය.
-
-අනතුර සිදුවන අවස්ථාවේ වාහනය වේගයෙන් පදවා ඇති අතර, ඒ වනවිට වාහනය පැදවූ සිසුවාගේ ළඟම ඥාතීන් පිරිසක්ද සිට ඇති බව සඳහන්.
-
-◼️
-
-[Data](articles/fe7d5fc1.json)
-
----
-
-### நாட்டு மக்களின் எதிர்பார்ப்பை நிறைவேற்றுவதற்கு அனைவரும் அர்ப்பணிப்புடன் செயற்பட வேண்டும் ; மஹிந்த சிறிவர்தன
-
-*2025-01-01 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/202714) · `ta`
-
-பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு எடுக்கப்பட்ட தீர்மானங்கள் 2023 மற்றும் 2024 ஆம் ஆண்டு காலப்பகுதியில் வெற்றிப் பெற்றன. இருப்பினும் அவதான நிலையில் இருந்து மீளவில்லை. நாட்டு மக்களின் எதிர்பார்ப்பை நிறைவேற்றுவதற்கு அனைவரும் அர்ப்பணிப்புடன் செயற்பட வேண்டும் என திறைசேரியின் செயலாளர் மஹிந்த சிறிவர்தன தெரிவித்தார்.
-
-புது வருட பிறப்பை முன்னிட்டு இன்று காலை நிதியமைச்சில் சுப நேரத்தில் பணிகளை ஆரம்பித்ததன் பின்னர் நிதியமைச்சின் அதிகாரிகள் மற்றும் உத்தியோகஸ்த்தர்களுடன் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-2022 ஆம் ஆண்டு காலப்பகுதியில் நாடு எவ்வாறு இருந்தது, தற்போது எந்நிலையில் உள்ளோம் என்பதை ஆராய வேண்டும். பொருளாதார நெருக்கடியில் இருந்து மீள்வதற்கு எடுக்கப்பட்ட தீர்மானங்கள் 2023 மற்றும் 2024 ஆம் ஆண்டு காலப்பகுதியில் வெற்றிப் பெற்றுள்ளன.
-
-பொருளாதார நெருக்கடியில் இருந்து மீட்சிப் பெறும் திட்டங்கள் வெற்றிப் பெற்றிருந்தாலும் அவதான நிலையில் இருந்து மீளவில்லை. ஆகவே அனைவரும் அவதானத்துடன் செயற்பட வேண்டும்.
-
-...
-
-[Data](articles/ea3085dd.json)
-
----
-
-### 2025 සිට 2024 ගිය කාලතරණ ගමන
-
-*2025-01-01 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204940) · `si`
-
-2025 වසරේ ගමන් අරඹා, 2024 වසරට ගමන් කළ ගුවන් ගමනක් ගැන පුවතක් බොහෝ දෙනාගේ වැඩි අවධානයට ලක්වී තිබුණි.
-
-2025 වසර ආරම්භයෙන් අනතුරුව හොංකොං සිට ගමන් ආරම්භ කළ කැතේ පැසිෆික් ගුවන් සේවයට අයත් ගුවන් යානයක් අමෙරිකාවේ ලොස් ඇන්ජලීස් වෙත ළඟා වන විටත් නව වසර උදාවී තිබුණේ නැත.
-
-ඒ අනුව මේ ගුවන් ගමන බොහෝ දෙනා හැඳින්වූයේ අනාගතයේ සිට පැමිණි කාලතරණ ගමනක් ලෙසිනි.
-
-තම ගුවන් ගමන අතරතුර ජාත්‍යන්තර දින රේඛාව (IDL) තරණය කිරීම හේතුවෙන් මෙලෙස මෙම ගුවන් යානයේ සිටි මගීන් හට දෙවතාවක් අලුත් අවුරුදු උදාව සැමරීමට අවස්ථාව හිමිව ඇත.
-
-ජාත්‍යන්තර දින රේඛාව (IDL) යනු පැසිෆික් සාගරය හරහා නිර්මාණය වී ඇති මනඃකල්පිත රේඛාවක් වන අතර එය අඛණ්ඩ දින දර්ශන දින දෙකක් සලකුණු කරයි.
-
-එනම් ජාත්‍යන්තර දින රේඛාව හරහා නැගෙනහිරින් දෙසට ගමන් කරන ඕනෑම කෙනෙකු කාලය හරහා එක් දිනක් ආපස්සට ගමන් කරන අතර බටහිරට දෙසට ගමන් කරන ඕනෑම කෙනෙකු කාලය හරහා එක් දිනක් ඉදිරියට ගමන් කරයි.
-
-...
-
-[Data](articles/597def13.json)
-
----
-
-### Sri Lanka Police launches e-Traffic mobile app to combat traffic violations
-
-*2025-01-01 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104652/sri-lanka-police-launches-e-traffic-mobile-app-to-combat-traffic-violations-) · `en`
-
-Sri Lanka Police have launched the e-Traffic mobile application, a cutting-edge tool aimed at reducing traffic violations and improving road safety in line with the ‘Clean Sri Lanka’ initiative.
-
-The app was officially launched today (January 01) by Acting Inspector General of Police (IGP), Attorney-at-Law Priyantha Weerasuriya, at a ceremony held at the Police Headquarters.
-
-The e-Traffic app empowers the public to report traffic violations and related incidents in real-time. Users can upload photos or videos of offenses using the app’s Camera and Video options. These submissions will be forwarded directly to the Police Headquarters for immediate action.
-
-How to Download: The app is available through the E-services section of the official Sri Lanka Police website, [www.police.lk](http://www.police.lk).
-
-Reporting Violations: Users can document and report traffic violations, enabling swift responses from relevant authorities.
-
-...
-
-[Data](articles/64f42720.json)
-
----
-
-### Reducing big power rivalries should be top priority in 2025
-
-*2025-01-01 21:07:00* · [`islandlk`](http://island.lk/reducing-big-power-rivalries-should-be-top-priority-in-2025/) · `en`
-
-At present big power tensions are working out mainly at the level of rhetoric but if the international community fails to reduce these antagonisms substantially, going forward, there is every possibility of rhetoric giving way to ground-level military confrontations. Of course, it will be in no-one’s interest if the latter development occurs.
-
-There is a tendency on the part of publics and polities to view the international community and the UN system as synonymous but this is a somewhat limited perspective. Among more reflective sections, the phrase, ‘international community’, while meaning mainly the UN system, also refers to all those parties that have a stake in the world’s wellbeing and are actively promoting it, such as peace campaigners and people-centred organizations. Accordingly, international peace-building in the substantive sense refers to a globe-wide collective effort.
-
-...
-
-[Data](articles/3a18bf69.json)
-
----
-
-### They, too, had a ball …Down Under
-
-*2025-01-01 20:58:00* · [`islandlk`](http://island.lk/they-too-had-a-ball-down-under/) · `en`
-
-Sri Lankans, in Australia, had plenty to look forward to during the festive season, with entertainment taking the top spot.
-
-They not only enjoyed the music, provided by the Sri Lankans, now living in that part of the world, but were also given the opportunity to checkout artistes, especially flown in from Colombo, for the festive season.
-
-Reports indicate that music lovers in Melbourne were treated to an unforgettable evening of soulful tunes and lively performances on Sunday, 15th December, as Damian Wickremathilleke rocked the stage at Epicurex in Mulgrave. Backed by the dynamic band Replay 6, Damian captivated an enthusiastic audience of over 100 friends, family, and fans.
-
-...
-
-[Data](articles/aef39848.json)
-
----
-
-### The right start for 2025…
-
-*2025-01-01 20:57:00* · [`islandlk`](http://island.lk/the-right-start-for-2025/) · `en`
-
-Hi! Wish you all a Super-Duper New Year, with lots of Love, Happiness, and Excitement. And…may your dreams of having a wonderful complexion, and everything connected with beauty, come true in 2025.
-
-This is one of the easiest potato face-packs to prep. Honey moisturises the skin, and potato lightens.
-
-Mix 03 tablespoons of potato juice with 02 tablespoons of honey, and apply the mixture all over your face and neck.
-
-Wait for 10 minutes for the pack to dry before rinsing it off.
-
-This potato face mask evens out your skin tone and reinstates the softness of your skin.
-
-Mix the juice from 01 potato with 02 teaspoons of milk and a few drops of glycerin.
-
-Apply the mixture all over your face, and let it sit for a while before rinsing it off.
-
-It’s clear that the benefits of potato juice on the face are innumerable. If your skin is dry and scarred, this face-mask is the answer to your woes.
-
-Mix the juice from 01 medium-sized potato with a tablespoon of olive oil.
-
-...
-
-[Data](articles/49c8feef.json)
 
 ---

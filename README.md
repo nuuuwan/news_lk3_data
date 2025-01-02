@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 05:51:31**
+As of **2025-01-02 06:13:29**
 
 ## Newspaper Stats
 
-*Scraped **63,199** Articles*
+*Scraped **63,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 637
 bbccomsinhala | 665
-islandlk | 3,838
+islandlk | 3,842
 economynextcom | 3,849
 dailyftlk | 4,396
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,199 articles have been extended.
+61,971 (98.1%) of 63,203 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -537,6 +537,64 @@ Reporting Violations: Users can document and report traffic violations, enabling
 ...
 
 [Data](articles/64f42720.json)
+
+---
+
+### Reducing big power rivalries should be top priority in 2025
+
+*2025-01-01 21:07:00* · [`islandlk`](http://island.lk/reducing-big-power-rivalries-should-be-top-priority-in-2025/) · `en`
+
+At present big power tensions are working out mainly at the level of rhetoric but if the international community fails to reduce these antagonisms substantially, going forward, there is every possibility of rhetoric giving way to ground-level military confrontations. Of course, it will be in no-one’s interest if the latter development occurs.
+
+There is a tendency on the part of publics and polities to view the international community and the UN system as synonymous but this is a somewhat limited perspective. Among more reflective sections, the phrase, ‘international community’, while meaning mainly the UN system, also refers to all those parties that have a stake in the world’s wellbeing and are actively promoting it, such as peace campaigners and people-centred organizations. Accordingly, international peace-building in the substantive sense refers to a globe-wide collective effort.
+
+...
+
+[Data](articles/3a18bf69.json)
+
+---
+
+### They, too, had a ball …Down Under
+
+*2025-01-01 20:58:00* · [`islandlk`](http://island.lk/they-too-had-a-ball-down-under/) · `en`
+
+Sri Lankans, in Australia, had plenty to look forward to during the festive season, with entertainment taking the top spot.
+
+They not only enjoyed the music, provided by the Sri Lankans, now living in that part of the world, but were also given the opportunity to checkout artistes, especially flown in from Colombo, for the festive season.
+
+Reports indicate that music lovers in Melbourne were treated to an unforgettable evening of soulful tunes and lively performances on Sunday, 15th December, as Damian Wickremathilleke rocked the stage at Epicurex in Mulgrave. Backed by the dynamic band Replay 6, Damian captivated an enthusiastic audience of over 100 friends, family, and fans.
+
+...
+
+[Data](articles/aef39848.json)
+
+---
+
+### The right start for 2025…
+
+*2025-01-01 20:57:00* · [`islandlk`](http://island.lk/the-right-start-for-2025/) · `en`
+
+Hi! Wish you all a Super-Duper New Year, with lots of Love, Happiness, and Excitement. And…may your dreams of having a wonderful complexion, and everything connected with beauty, come true in 2025.
+
+This is one of the easiest potato face-packs to prep. Honey moisturises the skin, and potato lightens.
+
+Mix 03 tablespoons of potato juice with 02 tablespoons of honey, and apply the mixture all over your face and neck.
+
+Wait for 10 minutes for the pack to dry before rinsing it off.
+
+This potato face mask evens out your skin tone and reinstates the softness of your skin.
+
+Mix the juice from 01 potato with 02 teaspoons of milk and a few drops of glycerin.
+
+Apply the mixture all over your face, and let it sit for a while before rinsing it off.
+
+It’s clear that the benefits of potato juice on the face are innumerable. If your skin is dry and scarred, this face-mask is the answer to your woes.
+
+Mix the juice from 01 medium-sized potato with a tablespoon of olive oil.
+
+...
+
+[Data](articles/49c8feef.json)
 
 ---
 
@@ -1741,63 +1799,5 @@ Speaking at the launch of the ‘Clean Sri Lanka’ national initiative, the Pre
 ...
 
 [Data](articles/1e32f5be.json)
-
----
-
-### බස් රථයකට යටවී කුඩා දරුවෙක් මරුට
-
-*2025-01-01 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204927) · `si`
-
-බස් රථයකට යටවීමෙන් වයස අවුරුදු හතක දරුවෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඊයේ (31) සවස වව්නියාව, පාවක්කුලම, යුනිට් 02 ප්‍රදේශයේදී  එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
-
-පාපැදියකින් මිතුරන් පිරිසක් සමඟ ගමන්ගත් දරුවෙකුගේ පාපැදිය බස් රථයේ ගැටී ඇති අතර, අනතුරුව දරුවා පසුපස රෝදයේ ගැටී ඇති බව වාර්තා වෙයි.
-
-අනතුරින් තුවාල ලැබූ දරුවා වව්නියාව සෙට්ටිකුලම රෝහලට ඇතුළත් කිරීමේදී ජිවිතක්ෂයට පත්ව ඇති බවද පොලීසිය පවසයි.
-
-මියගිය දරුවාගේ මරණය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණ වව්නියාව සෙට්ටිකුලම රෝහල් මෘත ශරීරාගාරයේදී පැවැත්වීමට නියමිතය.
-
-අනතුර සම්බන්ධයෙන් බස් රථ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර, සිද්ධිය සම්බන්ධයෙන් උළුක්කුලම පොලීසිය වැඩිදුර පරීක්ෂණ මෙහෙයවයි.
-
-◼️
-
-[Data](articles/a691d256.json)
-
----
-
-### ශ්‍රී ලංකා රේගුවෙන් වාර්තාගත ආදායමක්
-
-*2025-01-01 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204926) · `si`
-
-‍ශ්‍රී ලංකා රේගුව විසින් පසුගිය වසරේදී රුපියල් ට්‍රිලියන 1.5ක් ඉක්ම වු ආදායමක් වාර්තා කර තිබේ.
-
-ඒ අනුව රුපියල් ට්‍රිලියන 1.515ක ආදායමක් පසුගිය වසරේ දී වාර්තා වී ඇති බව රේගු මාධ්‍ය ප්‍රකාශක, අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලී අරුක්ගොඩ මහතා පැවසුවේය.
-
-රජය විසින් 2024 වසර සඳහා ලබා දී තිබූ රුපියල් ට්‍රිලියන 1.533ක ආදායම් ඉලක්කය ආසන්නය දක්වා පැමිණීමට ශ්‍රී ලංකා රේගුවට හැකිවී ඇති බව සඳහන්ය.
-
-රජයේ බදු ප්‍රතිපත්තිය, ආනයන ප්‍රමාණය ඉහළ යාම හා රේගු කළමනාකාරිත්වය විසින් සිදුකරන ලද බදු එකතුකිරීමේ ක්‍රියාවලිය කාර්යක්ශම කිරීම මේ සඳහා බලපා ඇති බව ශ්‍රී ලංකා රේගුව වැඩිදුරටත් සඳහන් කළේය.
-
-◼️
-
-[Data](articles/c64881c6.json)
-
----
-
-### ”நான் அரசைக் காட்டிக் கொடுக்க முற்படவில்லை”
-
-*2025-01-01 11:41:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்-அரசைக்-காட்டிக்-கொடுக்க-முற்படவில்லை/175-349605) · `ta`
-
-2022 ஆம் ஆண்டு 'அரகலய' காலப்பகுதியில் இராணுவத் துப்பாக்கிச் சூட்டில் பொதுமக்கள் உயிரிழப்பைத் தவிர்க்க விரும்பியதாகவும், ஆனால் தனது உத்தியை ஆட்சியாளர்கள் அவரைத் தவறாகப் புரிந்து கொண்டதாகவும், அது தன்னை ஒரு பாதகமான நிலைக்கு தள்ளியதாகவும் நேற்று ஓய்வு பெற்ற பாதுகாப்புப் படைகளின் பிரதானி (சிடிஎஸ்) ஜெனரல் சவேந்திர சில்வா நேற்று வலியுறுத்தினார்.
-
-இலங்கையின் 8வது சி.டி.எஸ்., ஜெனரல் ஷவேந்திர சில்வா, இலங்கை இராணுவத்தில் தனது பதவி மற்றும் செயலில் சேவையில் இருந்து நேற்று ஓய்வு பெற்றார்.
-
-ஜெனரல் ஷவேந்திர சில்வா 2022 ஆம் ஆண்டு ஜூன் 01 ஆம் திகதி முதல் அமுலுக்கு வரும் வகையில் 8ஆவது பாதுகாப்புப் படைகளின் பிரதானியாக நியமிக்கப்பட்டார்.
-
-ஜெனரல் சில்வா இலங்கை இராணுவத்தில் 40 வருடங்களுக்கும் மேலான களங்கமற்ற, புகழ்பெற்ற மற்றும் வெற்றிகரமான சேவையை நிறைவு செய்துள்ளதுடன் இலங்கை இராணுவத்தின் பதில் பாதுகாப்புப் படைத் தளபதியாகவும் 23 ஆவது தளபதியாகவும் பணியாற்றியுள்ளார்.
-
-...
-
-[Data](articles/47d6fd66.json)
 
 ---

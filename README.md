@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 19:27:34**
+As of **2025-01-02 19:43:46**
 
 ## Newspaper Stats
 
-*Scraped **63,339** Articles*
+*Scraped **63,341** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 639
-bbccomsinhala | 666
+bbccomsinhala | 667
 islandlk | 3,850
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,058
 adaderanalk | 7,750
-tamilmirrorlk | 9,085
+tamilmirrorlk | 9,086
 virakesarilk | 10,539
 adaderanasinhalalk | 10,941
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,339 articles have been extended.
+61,971 (97.8%) of 63,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### இலங்கையிலிருந்து குடிபெயர்ந்தார் சுசந்திகா
+
+*2025-01-02 19:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையிலிருந்து-குடிபெயர்ந்தார்-சுசந்திகா/175-349686) · `ta`
+
+இலங்கையின் நட்சத்திர தடகள வீராங்கனையும், 2000 சிட்னி ஒலிம்பிக்கில் வெள்ளிப் பதக்கம் வென்றவருமான சுசந்திகா ஜெயசிங்க, தனது இரண்டு குழந்தைகளுடன் அவுஸ்திரேலியாவின் மெல்போர்னில் குடியேறத் தீர்மானித்துள்ளார்.
+
+இரண்டு மாதங்களுக்கு முன்பு இலங்கையை விட்டு வெளியேறிய அவர், நாடு திரும்புவது குறித்து நிச்சயமற்ற நிலையில் இருப்பதாக நண்பர்களுடன் பகிர்ந்து கொண்டார். அவுஸ்திரேலியாவிற்கு அவர் இடம்பெயர்வது, அவரது குழந்தைகளின் கல்வி மற்றும் எதிர்காலத்திற்கு முன்னுரிமை அளிப்பதை நோக்கமாகக் கொண்டுள்ளதாக அவர் தெரிவித்தார்.
+
+சுசந்திகாவின் சமகால தடகள வீராங்கனையும், ஆசியப் பதக்கம் வென்றவரும், ஒலிம்பியனுமான தமயந்தி தர்ஷாவும் சில ஆண்டுகளுக்கு முன்பு தனது குடும்பத்துடன் அவுஸ்திரேலியாவுக்குச் சென்றார்.
+
+49 வயதான சுசந்திகா ஜயசிங்க 100 மற்றும் 200 மீற்றர் போட்டிகளில் நிபுணத்துவம் பெற்ற ஓய்வு பெற்ற இலங்கை ஓட்டப்பந்தய வீராங்கனை ஆவார்.
+
+...
+
+[Data](articles/406e643c.json)
+
+---
 
 ### முன்னாள் பாராளுமன்ற உறுப்பினர் காலமானார்
 
@@ -930,6 +948,26 @@ On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., fo
 
 ---
 
+### දිගන ප්‍රචණ්ඩ ක්‍රියා: වසර 6ක් තිස්සේ ප්‍රසිද්ධ නොකළ මානව හිමිකම් වාර්තාව තවමත් ප්‍රමාද ඇයි?
+
+*2025-01-02 13:30:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyxmg10r19o) · `si`
+
+දිගන ප්‍රචණ්ඩ ක්‍රියා: වසර 6ක් තිස්සේ ප්‍රසිද්ධ නොකළ මානව හිමිකම් වාර්තාව තවමත් ප්‍රමාද ඇයි?
+
+දිගන මුස්ලිම්වරුන්ට එරෙහි ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධ මානව හිමිකම් වාර්තාව 2024 වසරේදී ප්‍රසිද්ධියට පත් කරන බවට ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාව මේ වසරේ ජූලි මාසයේදී බීබීසි සිංහල සේවයට පැවසීය.
+
+කෙසේ වෙතත්, 2024 දෙසැම්බර් 31 වන දා වන විටත් එම වාර්තාව ප්‍රසිද්ධියට පත් කර නොතිබීම සම්බන්ධයෙන් අපි ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාවෙන් විමසීමක් කළෙමු.
+
+"තාම ඒක ෆයිනලයිස් කරන්න බැරි වෙලා තියෙන්නේ. මම හිතන්නේ ජනවාරි මාසයේ ඒක අනිවාර්යෙන් ම පබ්ලිෂ් වෙයි," ලංකා මානව හිමිකම් කොමිෂන් සභාවේ කොමසාරිස් ගෙහාන් ගුණතිලක සඳහන් කළේ ය.
+
+කන්ද උඩරට මුස්ලිම් වැසියන් පිරිසකට එරෙහි ප්‍රචණ්ඩ ක්‍රියා සිදුවී 2025 වසරේ මාර්තු මාසය වන විට වසර 7ක් සපිරේ.
+
+...
+
+[Data](articles/b1ec5c3b.json)
+
+---
+
 ### கடவுச்சீட்டு வரிசை மேலும் நீடிக்கலாம்
 
 *2025-01-02 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202767) · `ta`
@@ -1741,45 +1779,5 @@ The attack injured about 30 other people, including two police officers wounded 
 ◼️
 
 [Data](articles/46c02bc6.json)
-
----
-
-### More details emerge on ‘Bo Tree’ accident at Matara Prison
-
-*2025-01-02 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104658/more-details-emerge-on-bo-tree-accident-at-matara-prison) · `en`
-
-One prison inmate has been reported dead, and at least 11 others have been injured and hospitalized following an incident involving a large ‘Bo tree’ branch falling within the Matara Prison premises last night (January 1).
-
-Police confirm that 11 of the injured inmates are still receiving treatment at Matara Hospital.
-
-The incident occurred at approximately 10:14 p.m. when a neraby large ‘Bo Tree’ branch fell onto Wards G and F at the prison, injuring 12 inmates while one of them succumbed to his injuries upon admission to the hospital.
-
-The deceased, a 34-year-old inmate, was a resident of Turkish Village in Midigama.
-
-The injured inmates, aged between 25 and 52 are residents of various areas, including Denipitiya, Mirissa, Weligama, Galle, Matara, Gandara, Batapola, Deiyandara, and Galgamuwa.
-
-At the time of the incident, nearly 100 inmates were housed in Wards G and F. Prison officials have since relocated the remaining inmates to a safer building.
-
-...
-
-[Data](articles/b8222f3e.json)
-
----
-
-### தேசிய புலனாய்வுப் பிரிவின் பிரதானி மேஜர் ஜெனரல் ருவான் வணிகசூரிய கடமைகளை பொறுப்பேற்றார்
-
-*2025-01-02 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/202744) · `ta`
-
-புதிதாக நியமிக்கப்பட்டுள்ள தேசிய புலனாய்வுப் பிரிவின் பிரதானி மேஜர் ஜெனரல் ருவான் வணிகசூரிய நேற்று புதன்கிழமை (01)  தமது கடமைகளை பொறுப்பேற்றுள்ளார்.
-
-மேஜர் ஜெனரல் ருவான்  எயார் வைஸ் மார்ஷல் சம்பத் துய்யகொந்தாவிடமிருந்து நியமனக் கடிதத்தைப் பெற்றுக்கொண்டார்.
-
-இதனையடுத்து, மேஜர் ஜெனரல் வணிகசூரிய ஸ்ரீ ஜயவர்தனபுர கோட்டையிலுள்ள பாதுகாப்பு அமைச்சில் அவரது அலுவலகத்தில்  தனது கடமைகளை உத்தியோகபூர்வமாக பொறுப்பேற்றுள்ளார்.
-
-தேசிய புலனாய்வுப் பிரிவின் தலைவராக கடமையாற்றிய மேஜர் ஜெனரல் ருவான் குலதுங்க ஓய்வுபெற்றதையடுத்து, வெற்றிடமான தேசிய புலனாய்வு பிரிவின் பிரதானி பதவிக்கு மேஜர் ஜெனரல் ருவான் வணிகசூரிய நியமிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/bb999bec.json)
 
 ---

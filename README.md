@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 20:27:43**
+As of **2025-01-02 20:43:39**
 
 ## Newspaper Stats
 
-*Scraped **63,351** Articles*
+*Scraped **63,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,850
 economynextcom | 3,863
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,058
+adalk | 6,059
 adaderanalk | 7,750
-tamilmirrorlk | 9,086
+tamilmirrorlk | 9,087
 virakesarilk | 10,539
 adaderanasinhalalk | 10,941
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,351 articles have been extended.
+61,971 (97.8%) of 63,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### மர்மமான ஆளில்லா விமானம் ; இறுதி அறிக்கை வெளியானது
+
+*2025-01-02 20:28:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மர்மமான-ஆளில்லா-விமானம்-இறுதி-அறிக்கை-வெளியானது/175-349687) · `ta`
+
+திருகோணமலையை அண்மித்த கடலில் கண்டெடுக்கப்பட்ட ஆளில்லா விமானம், இலங்கைக்கு எந்த தாக்கத்தையும் ஏற்படுத்தவில்லை இது தொடர்பில் ஆராய்வதற்காக நியமிக்கப்பட்ட குழுவினால் இறுதி அறிக்கை விமானப்படை தளபதியிடம் கையளிக்கப்பட்டுள்ளது.
+
+கடந்த 27ஆம் திகதி திருகோணமலைக்கு அருகில் உள்ள கடலில் இந்த ஆளில்லா விமானத்தை மீனவர்கள் குழு கண்டுபிடித்தது.
+
+ஏறக்குறைய இரண்டு வாரங்களாக இந்த ஆளில்லா விமானம் கடலில் இருந்ததாகவும், அதனை மீண்டும் தொடர்புடைய நிறுவனத்திடம் ஒப்படைப்பது குறித்து கவனம் செலுத்தப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/1012b2ed.json)
+
+---
 
 ### இலங்கையிலிருந்து குடிபெயர்ந்தார் சுசந்திகா
 
@@ -1366,6 +1382,20 @@ New orders index declined, down at 47.2 in November from 54.3 in October, due to
 
 ---
 
+### නව මුද්‍රණාලාධිපති වැඩ අරඹයි
+
+*2025-01-02 12:17:38* · [`adalk`](https://www.ada.lk/breaking_news/නව-මුද්‍රණාලාධිපති-වැඩ-අරඹයි/11-413975) · `si`
+
+රජයේ නව මුද්‍රණාලාධිපති ලෙස පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරියෙකු වන කේ.ජී.පී. පුෂ්ප කුමාර මහතා පත්කොට ඇත. ඔහු අද පෙරවරුවේ රජයේ මුද්‍රණාලයට ගොස් ධූරයේ රාජකාරී කටයුතු බාරගනු ලැබීය.
+
+මීට පෙර රජයේ මුද්‍රණාලාධිපති ලෙස කටයුතු කළ ගංගානි කල්පනී ලියනගේ මහත්මිය විශ්‍රාම යෑමෙන් පසු පුරප්පාඩු මෙම තනතුර සඳහා පුෂ්පකුමාර මහතා පත්කොට තිබේ.
+
+◼️
+
+[Data](articles/48e284c9.json)
+
+---
+
 ### යළි කරළියට ආ රන්වල
 
 *2025-01-02 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204959) · `si`
@@ -1777,41 +1807,5 @@ The bodies of two unidentified men have been discovered in a reservoir in Puliya
 ...
 
 [Data](articles/69031bdb.json)
-
----
-
-### SLCERT working to restore hacked Sri Lanka Police YouTube channel and Printing Dept’s website
-
-*2025-01-02 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104660/slcert-working-to-restore-hacked-sri-lanka-police-youtube-channel-and-printing-depts-website) · `en`
-
-The Sri Lanka Computer Emergency Readiness Team (SLCERT) has revealed that efforts are currently underway to restore the official website of the Sri Lanka Department of Government Printing and the official YouTube channel of the Sri Lanka Police Department, both of which were subjected to recent cyber-attacks.
-
-Chief Information Security Officer Nirosh Ananda stated that there is a strong likelihood of restoring them within today (January 2).
-
-However, no specific information has been disclosed yet regarding the identity of the parties responsible for the cyber attacks.
-
-The cyber-attacks occurred on the night of December 30, 2024, targeting the social media accounts of Sri Lanka Police and the website of the Government Printing Department.
-
-Speaking to “Ada Derana,” SLCERT’s Chief Information Security Officer, Nirosh Ananda, provided updates on the ongoing restoration process.
-
-◼️
-
-[Data](articles/c57b1867.json)
-
----
-
-### நியூசிலாந்தை வென்ற இலங்கை
-
-*2025-01-02 10:16:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நியூசிலாந்தை-வென்ற-இலங்கை/44-349648) · `ta`
-
-மூன்று போட்டிகள் கொண்ட இத்தொடரின் முதலிரண்டு போட்டிகளில் வென்ற நியூசிலாந்து தொடரை ஏற்கெனவே கைப்பற்றியுள்ள நிலையில், நெல்சனில் இன்று நடைபெற்ற மூன்றாவது போட்டியின் நாணயச் சுழற்சியில் வென்ற அவ்வணியின் தலைவர் மிற்செல் சான்ட்னெர் தமதணி முதலில் களத்தடுப்பிலீடுபடுமென தெரிவித்தார்.
-
-அந்தவகையில் முதலில் துடுப்பெடுத்தாடிய இலங்கை, குசல் பெரேராவின் 101 (46), அணித்தலைவர் சரித் அசலங்கவின் 46 (24) ஓட்டங்களோடு 20 ஓவர்களில் 5 விக்கெட்டுகளை இழந்து 218 ஓட்டங்களைப் பெற்றது. பந்துவீச்சில், டரைல் மிற்செல் 1-0-6-1, ஜேக்கப் டஃபி 4-0-30-1 என்ற பெறுதிகளைக் கொண்டிருந்தார்.
-
-பதிலுக்கு 219 ஓட்டங்களை வெற்றியிலக்காகக் கொண்டு துடுப்பெடுத்தாடிய நியூசிலாந்து, றஷின் றவீந்திரவின் 68 (39), டிம் றொபின்சனின் 37 (21) ஓட்டங்கள் மூலம் வேகமான் ஆரம்பத்தைப் பெற்றதுடன், டரைல் மிற்செல் 35 (17) ஓட்டங்களைப் பெற்றபோதும் 20 ஓவர்களில் 7 விக்கெட்டுகளை இழந்து 211 ஓட்டங்களையே பெற்று ஏழு ஓட்டங்களால் தோல்வியடைந்தது.
-
-◼️
-
-[Data](articles/786dcef1.json)
 
 ---

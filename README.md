@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 20:01:50**
+As of **2025-01-02 20:14:35**
 
 ## Newspaper Stats
 
-*Scraped **63,341** Articles*
+*Scraped **63,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 466
 colombotelegraphcom | 639
 bbccomsinhala | 667
 islandlk | 3,850
-economynextcom | 3,853
+economynextcom | 3,863
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,058
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,941
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,341 articles have been extended.
+61,971 (97.8%) of 63,351 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/406e643c.json)
+
+---
+
+### Outflows from Sri Lankans travelling abroad jump to $675 mln in Jan-Nov
+
+*2025-01-02 19:10:00* · [`economynextcom`](https://economynext.com/outflows-from-sri-lankans-travelling-abroad-jump-to-675-mln-in-jan-nov-197621/) · `en`
+
+ECONOMYNEXT –Foreign outflows due to Sri Lankans travelling abroad has jumped nearly four-folds to $675 million in the first 11 months of last year compared to $141 million during the same period in the previous year, official Central Bank data showed.
+
+Analysts cited the rise to more Sri Lankans travelling abroad amid economic recovery after the island nation’s sovereign debt default in 2022.
+
+The Central Bank latest data on the service-related foreign outflows showed the island nation has spent $516 million on air transport services during Jan-Nov period, compared to $405 million in the same period of 2023. (Colombo/January 2/2024)
+
+◼️
+
+[Data](articles/d40f72dc.json)
 
 ---
 
@@ -122,6 +138,26 @@ Issuing a statement, the Indian High Commission in Colombo said the project envi
 
 ---
 
+### Foreign investors buy over $100 mln worth govt securities in 15 weeks
+
+*2025-01-02 18:25:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-over-100-mln-worth-govt-securities-in-15-weeks-197617/) · `en`
+
+ECONOMYNEXT – Foreigners investors bought more than $100 million worth Sri Lanka government securities in last 15 weeks of 2024, though they net sold in the year, the Central Bank data showed.
+
+Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
+
+“There is an expectation of the Central Bank reducing the policy rates by further 100 basis points. Foreign investors are buying because of this,” a Colombo-based currency dealer said.
+
+Sri Lanka saw 2.71 billion rupees ($9.3 million at 1 US dollar = 290 LKR) of inflows into government securities in the week ended on December 26. The government has seen total inflows of 29.9 billion rupees ($103.1 mln) into treasury bonds and bills in the 15 weeks through December 26, the official data showed.
+
+The value of government securities held by foreign investors was at 69,262 million rupees by December 26.
+
+...
+
+[Data](articles/4c771302.json)
+
+---
+
 ### புலம்பெயர், கைதிகளின் வாக்குரிமை ஜனாதிபதிக்கு மீண்டும் கடிதம் அனுப்புவதற்கு தேர்தல்கள் ஆணைக்குழு நடவடிக்ககை
 
 *2025-01-02 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202820) · `ta`
@@ -171,6 +207,26 @@ Issuing a statement, the Indian High Commission in Colombo said the project envi
 ◼️
 
 [Data](articles/4dc08a70.json)
+
+---
+
+### Sri Lanka records third highest annual tourists in 2024 after missing target
+
+*2025-01-02 17:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-records-third-highest-annual-tourists-in-2024-after-missing-target-197614/) · `en`
+
+ECONOMYNEXT – Sri Lanka missed the island nation’s 2024 tourist target of 2.3 million, but recorded its third highest annual arrival in the year with a 38.1 percent growth led by Indians and Russians, the official data showed.
+
+The Indian Ocean island nation located south of India received 2,053,465 in the last year, compared to 1,487,303 in the previous year.
+
+Sri Lanka’s record high tourism arrival of 2,333,796 has been recorded in 2018 followed by 2,116,407 in the previous year.
+
+The island is popular for nature with beaches and tropical climate, with most European and Western tourists choosing it as the key destination during their winter season falling from November to February.
+
+Analysts said confusion over the visa process from April-September this year could have slowed down arrivals, though the monthly arrivals have shown strong growth compared to the same month last year, but from a lower base.
+
+...
+
+[Data](articles/6b55730e.json)
 
 ---
 
@@ -226,6 +282,28 @@ Furthermore, Dr. Amarasuriya noted that it is unacceptable for children to miss 
 
 ---
 
+### Sri Lanka stocks close up 2-pct, boosted by banks
+
+*2025-01-02 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-2-pct-boosted-by-banks-197576/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on the first day of business for 2025, data on its site showed.
+
+The broader ASPI closed up 2.53 percent, or 403.94 points, at 16,348.55; while the more liquid S&P SL20 Index closed up 2.26 percent, or 109.77 points, at 4,971.
+
+The ASPI hit the 16,000 mark in morning trade, while the S&P SL20 also edged closer to the 5,000 mark.
+
+“The market is extremely bullyish because liquidity is high, rates are bottoming out, and there’s funds coming into equity,” market participants said.
+
+There was also interest in stocks with an exposure to the tourism sector, with the tourist numbers floating around being positive, they said.
+
+Top positive contributors to the ASPI were John Keells Holdings (up at 23.60), Browns Investments Plc (up at 8.10), Sampath Bank (up at 121.75), Aitken Spence Plc (up at 155.25), and LOLC Plc (up at 716.00). (Colombo/Jan2/2024)
+
+◼️
+
+[Data](articles/bdd3e766.json)
+
+---
+
 ### පාසල් මගහරින උසස් පෙළ සිසුන් ගැන සොයයි
 
 *2025-01-02 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204969) · `si`
@@ -267,6 +345,28 @@ Furthermore, Dr. Amarasuriya noted that it is unacceptable for children to miss 
 ◼️
 
 [Data](articles/97092501.json)
+
+---
+
+### Sri Lanka rupee closes flat at 293.15/40 to dollar, bonds steady
+
+*2025-01-02 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-15-40-to-dollar-bonds-steady-197578/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly unchanged at 293.15/40 to the US dollar on Thursday from 293.10/30 on Wednesday, dealers said, while bond yields were stable.
+
+A bond maturing on 15.12.2026 closed at 9.40/50 percent, from 9.35/50 percent.
+
+A bond maturing on 15.02.2028 closed stable at 10.10/15 percent.
+
+A bond maturing on 15.09.2029 closed at 10.60/75 percent, from 10.60/70 percent.
+
+A bond maturing on 15.05.2030 closed stable at 10.95/11.05 percent.
+
+A bond maturing on 01.12.2031 closed at 11.20/35 percent. (Colombo/Jan2/2025)
+
+◼️
+
+[Data](articles/f5efe5ea.json)
 
 ---
 
@@ -764,6 +864,28 @@ The discussions are expected to further enhance the cooperation and friendship b
 
 ---
 
+### Sri Lanka’s Hunas Holdings divests subsidiary Rainforest Tea Factory
+
+*2025-01-02 14:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-hunas-holdings-divests-subsidiary-rainforest-tea-factory-197557/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hunas Holdings said it has sold its subsidiary Rainforest Tea Factory (Pvt) Ltd for 1.215 billion rupees.
+
+This consists approximately 256 million rupees in cash proceeds and the transfer of approximately 960 million rupees in associated debt liabilities, the company said in a stock exchange filing.
+
+“The disposal of Rainforest Tea Factory (Pvt) Ltd represents a strategic milestone in the company’s focused expansion into the thriving leisure sector.”
+
+The divestment will enable a financial restructuring “that will strengthen the group’s balance sheet enhancing its financial resilience”.
+
+The shares of Rainforest Tea Factory (Pvt) Ltd were sold to Nanayakkara Appuge Udayanga Ranmal, (80 percent) and Rupasinghe Arachchige Nelka Rupasinghe (10 percent).
+
+The company said the transaction will sharpen its focus on core growth areas, optimize resource allocation, and position the business for sustained value creation.
+
+...
+
+[Data](articles/d848cb4e.json)
+
+---
+
 ### Police enforce law against over 5,400 traffic offenders in 24 hours
 
 *2025-01-02 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104670/police-enforce-law-against-over-5400-traffic-offenders-in-24-hours) · `en`
@@ -1203,6 +1325,26 @@ I was on the UGC at one time and many foreign graduates seeking employment in Sr
 ...
 
 [Data](articles/99e95b37.json)
+
+---
+
+### Sri Lanka construction expands in November 2024: PMI
+
+*2025-01-02 12:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-construction-expands-in-november-2024-pmi-197540/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector expanded at a slower rate in November registering an index value of 51.4, from 54.3 in October, hampered by severe weather conditions disrupting scheduled work, according to a Purchasing Managers Index compiled by the central bank.
+
+“Several respondents mentioned that the severe weather conditions that prevailed during the month somewhat disrupted their scheduled work,” the statement said.
+
+All the sub-indices, except for Suppliers’ Delivery Time, remained either on the neutral threshold or below in November.
+
+Employment decreased on a month-on-month basis in November. “Firms remain cautious about expanding their workforce, as reflected by the continuous decline in the Employment index.”
+
+New orders index declined, down at 47.2 in November from 54.3 in October, due to a delay in the tender evaluation process.
+
+...
+
+[Data](articles/3d0dbdbf.json)
 
 ---
 
@@ -1671,113 +1813,5 @@ Speaking to “Ada Derana,” SLCERT’s Chief Information Security Officer, Nir
 ◼️
 
 [Data](articles/786dcef1.json)
-
----
-
-### කුසල්ගේ ශතකය හමුවේ වසරේ පළමු T20 ජය ශ්‍රී ලංකාවට
-
-*2025-01-02 09:56:30* · [`adalk`](https://www.ada.lk/sports/කුසල්ගේ-ශතකය-හමුවේ-වසරේ-පළමු-T20-ජය-ශ්‍රී-ලංකාවට/9-413971) · `si`
-
-නවසීලන්ත කණ්ඩායමට එරෙහි තෙවන හා අවසන් විස්සයි 20 තරගයෙන් ලකුණු 7ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතක​ට පෙර සමත් විය.
-
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 218ක් රැස් කළේය.
-
-ඒ අනුව ලකුණු 219ක ඉලක්කයක් හඹා ගිය නවසීලන්ත කණ්ඩායමට පන්දුවාර 20 අවසානයේ කඩුලු 7ක් දැවී රැස් කරගත හැකි වූයේ ලකුණු 211ක් පමණී.
-
-තරග 3කින් සමන්විත විස්සයි 20 ක්‍රිකට් තරගාවලිය තරග 2-1ක් ලෙස ජයග්‍රහණය කරනු ලැබුවේ නවසීලන්ත කණ්ඩායමයි.
-
-◼️
-
-[Data](articles/b79dc8e1.json)
-
----
-
-### முட்டை விலையில் மீண்டும் மாற்றம்
-
-*2025-01-02 09:54:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முட்டை-விலையில்-மீண்டும்-மாற்றம்/175-349645) · `ta`
-
-சந்தையில் முட்டை ஒன்றின் விலை 36 ரூபாயாக அதிகரித்துள்ளதாக சந்தை வட்டாரங்கள் தெரிவிக்கின்றன.
-
-கடந்த சில நாட்களாக முட்டை விலை 28 ரூபாய் முதல் 30 ரூபாய் வரை விற்பனை செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
-
-◼️
-
-[Data](articles/ea42a394.json)
-
----
-
-### புறக்கோட்டையில் சடலம் ஒன்று மீட்பு
-
-*2025-01-02 09:51:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புறக்கோட்டையில்-சடலம்-ஒன்று-மீட்பு/175-349644) · `ta`
-
-கொழும்பு - புறக்கோட்டை மிதக்கும் வணிக வளாகத்தில் இன்று காலை ஆண் ஒருவரின் சடலம் கண்டெடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/1789e5bb.json)
-
----
-
-### மாத்தறை சிறையில் மரம் முறிந்து விழுந்ததில் கைதியொருவர் பலி : 11 கைதிகள் காயம்
-
-*2025-01-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202745) · `ta`
-
-மாத்தறை சிறைச்சாலை வளாகத்தில் உள்ள அரச மரம் முறிந்து விழுந்ததில் கைதியொருவர் உயிரிழந்துள்ளதுடன் 11 கைதிகள் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-நேற்று புதன்கிழமை  (01) இரவு 10 மணியளவில் இடம்பெற்ற இந்த அனர்த்தத்தில் 12 கைதிகள் காயமடைந்துள்ள நிலையில், மாத்தறை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் கைதி ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-காயமடைந்த கைதிகள் 25, 27, 32, 34, 35, 39, 41 மற்றும் 52 வயதுடைய தெனிபிட்டிய, மிரிஸ்ஸ, வெலிகம, காலி, மாத்தறை, கந்தர, படபொல, தெய்யந்தர மற்றும் கல்கமுவ பகுதிகளைச் சேர்ந்தவர்களாவர்.
-
-இந்நிலையில் ஏனைய கைதிகள் அனைவரையும் வேறு கட்டிடத்தில் பாதுகாப்பாக தங்க வைக்க சிறைச்சாலை அதிகாரிகள் ஏற்பாடு செய்யப்பட்டுள்ளதுடன், மாத்தறை சிறைச்சாலையில் உள்ள கைதிகளில் ஒரு பகுதியினர் பாதுகாப்பாக வேறு சிறைக்கு மாற்றப்படவுள்ளதாக சிறைச்சாலை திணைக்களம் குறிப்பிட்டுள்ளது.
-
-மேலும், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மாத்தறை பொலிஸார் மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/cb39b3cf.json)
-
----
-
-### ශ්‍රී ලංකාවට විශිෂ්ට ජයක්
-
-*2025-01-02 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204956) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම හා නවසීලන්ත කණ්ඩායම අතර අද පැවති තෙවැනි විස්සයි විස්ස ක්‍රිකට් තරඟයේ දී ලකුණු 07ක තියුණු ජයක් ලබා ගැනීමට ශ්‍රී ලංකා පිල සමත් විය.
-
-පළමුවෙන් පන්දුවට පහර දුන් ශ්‍රී ලංකා පිල කඩුලු 5 ක් දැවී ලකුණු 218 ක් රැස් කළ අතර එහිදී විශිෂ්ට පිතිහරඹයක නිරත වෙමින් කුසල් ජනිත් පෙරේරා ශතකයක් වාර්තා කළේය.
-
-ලකුණු 219 ක ජයග්‍රාහී ඉලක්කයක් හඹා ගිය නවසීලන්ත පිලට සිය පන්දුවාර 20 අවසානයේ දී ලබා ගැනීමට හැකිවූයේ කඩුලු 7ක් දැවී ලකුණු 211 ක් පමණි.
-
-◼️
-
-[Data](articles/fab81ecb.json)
-
----
-
-### Driver in fatal New Orleans truck ramming may not have acted alone, had Islamic State flag
-
-*2025-01-02 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104659/driver-in-fatal-new-orleans-truck-ramming-may-not-have-acted-alone-had-islamic-state-flag) · `en`
-
-A US Army veteran with an Islamic State flag on his truck swerved around makeshift barriers and ploughed into New Orleans’ crowded French Quarter on New Year’s Day, killing 15 people in an attack officials believe was carried out with the help of others.
-
-The suspect, identified as Shamsud-Din Jabbar, 42, a US citizen from Texas who once served in Afghanistan, was killed in a shootout with police after ramming the crowd.
-
-The attack injured about 30 other people, including two police officers wounded by gunfire from the suspect. It took place around 3.15 am (5.15pm, Singapore time), near the intersection of Canal and Bourbon Streets, a historic tourist destination known for its music and bars where crowds were celebrating the new year.
-
-...
-
-[Data](articles/f5fdc7bf.json)
-
----
-
-### யூடியூப் மீட்டெடுக்கப்பட்டது
-
-*2025-01-02 09:34:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யூடியூப்-மீட்டெடுக்கப்பட்டது/175-349643) · `ta`
-
-சைபர் தாக்குதல்களால் தாக்கப்பட்ட அரசாங்க அச்சகத் திணைக்களத்தின் இணையத்தளமும், பொலிஸாரின் யூடியூப் சேனலும் தற்போது மீட்டெடுக்கப்பட்டுள்ளதாக இலங்கை கணினி அவசர பதிலளிப்பு குழு தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/46c02bc6.json)
 
 ---

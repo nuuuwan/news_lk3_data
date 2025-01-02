@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 14:43:44**
+As of **2025-01-02 15:02:30**
 
 ## Newspaper Stats
 
-*Scraped **63,289** Articles*
+*Scraped **63,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,051
 adaderanalk | 7,737
-tamilmirrorlk | 9,077
+tamilmirrorlk | 9,078
 virakesarilk | 10,527
 adaderanasinhalalk | 10,933
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,933
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,289 articles have been extended.
+61,971 (97.9%) of 63,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### பாலத்தின் அடியில் இருந்து இரண்டு சடலங்கள் மீட்பு
+
+*2025-01-02 14:42:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலத்தின்-அடியில்-இருந்து-இரண்டு-சடலங்கள்-மீட்பு/175-349671) · `ta`
+
+கிளிநொச்சி. பரந்தன் முல்லைத்தீவு ஏ- 35 வீதியில் அமைந்துள்ள புளியம்பொக்கணை 10ஆம் கட்டை பாலத்திற்கு அடியில் இருந்து  இரு ஆண்களின் சடலங்கள்  மீட்கப்பட்டுள்ளன. அத்துடன் அவர்கள் பயணித்த மோட்டார் சைக்கிள் ஒன்றும் மீட்கப்பட்டுள்ளது
+
+இவ்வாறு  மீட்கப்பட்ட இரண்டு சடலங்களையும் மீட்கப்பட்ட  இடத்திற்கு சென்ற  கிளிநொச்சி மாவட்ட நீதிமன்ற நீதவான்  ஸ்மாத் ஜெமில்
+
+அத்துடன் அவர்கள் பயணித்த மோட்டார் சைக்கிளும் இறந்தவர்களிடமிருந்து 71, 100ஆயிரத்து நூறு ரூபாய் பணமும்  பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+திருகோணமலை நோக்கி பயணித்த  மோட்டார் சைக்கிள் புனரமைப்பு பணிகள் இடைநிறுத்தப்பட்ட பாலத்தின் உட்பகுதியில் விழுந்ததன் காரணமாக இருவரும் உயிரிழந்திருக்கலாம்  என நம்பப்படுகிறது. இச் சம்பவம் தொடர்பில் தருமபுரம்  பொலிஸார் விசாரணைகளை  மேற்கொண்டு வருகின்றனர்
+
+ஜெய்க்கா வீட்டுத்திட்டம் இக்பால் நகர் நிலாவளி பகுதியைச் சேர்ந்த அன்ரன் சாந்தன் (23 வயது) அதே பகுதியைச் சேர்ந்த சசிகரன் சிம்புரதன் (வயது 21)  ஆகிய  இருவரின் சடலங்களே மீட்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/ed2443b4.json)
+
+---
 
 ### ත්‍රිකුණාමල මුහුදේ තිබී හමු වූ ඩ්‍රෝන යානය යළි ලබා දෙන්න අවධානය
 
@@ -1256,13 +1276,13 @@ Speaking at the Special Committee on COVID-19 Prevention meeting held at the Pre
 
 *2025-01-02 06:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stockholders-us6-3bn-and-rs1-4-trillion-richer-by-end-2024-197505/) · `en`
 
-ECONOMYNEXT – Sri Lanka stockholders were 1.4 trillion rupees richer by the end of 2024, with the dollar value of listed stocks up by 6.3 billion US dollars, an analysis if year-end data show.
+ECONOMYNEXT – Sri Lanka stockholders were 1.4 trillion rupees richer by the end of 2024, with the dollar value of listed stocks up by 6.3 billion US dollars, an analysis of year-end data show.
 
-According to Colombo Stock Exchange data the market value of listed stocks was 5,695 billion at the end of 2024, up 1,446 billion from lasts year.
+According to Colombo Stock Exchange data the market value of listed stocks were 5,695 billion at the end of 2024, up 1,446 billion from lasts year.
 
 The value includes new shares issued to raise capital in 2024.
 
-During the year inflation was largely absent allowing consumer spending to recover and companies to cut costs and retail prices, in sharp contrast to the  age-of-inflation doctrine of Anglophone macro-economists that falling prices (deflation) is somehow bad.
+During the year inflation was largely absent allowing consumer spending to recover and companies to cut costs and retail prices, in sharp contrast to the age-of-inflation doctrine of Anglophone macro-economists that falling prices (deflation) is somehow bad.
 
 Backed by falling interest rates, stocks roared in 2024 with margin backed trading also coming into play, analysts said.
 
@@ -1739,19 +1759,5 @@ One prison inmate is reported dead while at least 10 others have been injured an
 ◼️
 
 [Data](articles/724e5028.json)
-
----
-
-### අමල් සිල්වාට අයත් බව කියන මෝටර් රථ 3ක් පොලිස් භාරයට
-
-*2025-01-01 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204943) · `si`
-
-හිටපු පළාත් සභා මන්ත්‍රී අමල් සිල්වා නමැත්තාට අයත් බවට පැවසෙන නීතිවිරෝධීව එකලස් කරන ලද ඩිෆෙන්ඩර් රථ දෙකක් ඇතුළු ජීප් රථ 3ක් වලාන මධ්‍යම දූෂණ මර්ධන ප්‍රහාරක ඒකකය මගින් අද (01) සිය භාරයට ගනු ලැබීය.
-
-රජයේ ආයතනවලින් භාවිතයට නුසුදුසු ලෙස සඳහන් කරමින් ඉවත්කරන ලද වාහනවල අංක තහඩු යොදා අදාළ වාහන තුන භාවිත කර ඇති බවට සැක කරන බව පොලීසිය පැවසීය.
-
-◼️
-
-[Data](articles/c97000cf.json)
 
 ---

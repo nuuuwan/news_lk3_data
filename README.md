@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 18:50:50**
+As of **2025-01-02 19:03:09**
 
 ## Newspaper Stats
 
-*Scraped **63,332** Articles*
+*Scraped **63,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,850
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,056
+adalk | 6,057
 adaderanalk | 7,747
 tamilmirrorlk | 9,084
 virakesarilk | 10,539
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,940
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,332 articles have been extended.
+61,971 (97.8%) of 63,333 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -483,6 +483,24 @@ Accordingly, the drone will be handed over to the relevant company, according to
 ...
 
 [Data](articles/b22979e0.json)
+
+---
+
+### ආණ්ඩුව පත්වී දින 100කින් අසාර්ථකම ආණ්ඩුව වෙලා
+
+*2025-01-02 15:00:48* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-පත්වී-දින-100කින්-අසාර්ථකම-ආණ්ඩුව-වෙලා/11-413982) · `si`
+
+වත්මන් ආණ්ඩුවට සහ ජනාධිපතිවරයා බලයට පත්ව දින 100ක් සම්පූර්ණ කර ඇති බවත්, එම දින 100 තුළ අසාර්ථකම රජය ලෙස ජනතාව මෙම රජය දැකීමට පටන් ගෙන ඇති බවත්, සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී, විපක්ෂයේ ප්‍රධාන සංවිධායක ගයන්ත කරුණාතිලක මහතා පැවසීය.
+
+සමගි ජන බලවේගයේ ප්‍රධාන කාර්යාලයේ අද (02දා) පැවති මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“මේ වන විට ආණ්ඩුව, ජනාධිපතිවරයා දින 100ක් සම්පූර්ණ කරලා තියෙනවා. දින 100ක් ඇතුළත අසාර්ථකම රජය හැටියට මේ රජය අද ජනතාව දකින්න පටන් අරන් තිබෙනවා. එක පැත්තකින් 24 පැයෙන්, එක පෑන් පහරින් කඩිනමින් ජනතාවට සහන දෙන හැටි තමයි මැතිවරණ වේදිකාවල දිගින් දිගටම පැවසුවේ. ජනතාව පිට පටවා තිබෙන අසාධාරණ බදු ඉවත් කරන හැටි දිගටම කතා කළා. තෙල් මිල අසීමිතව අඩු කරන හැටි විස්තරාත්මකව පැහැදිලි කරමින් කතා කළා.
+
+...
+
+[Data](articles/c37280a0.json)
 
 ---
 
@@ -1781,23 +1799,5 @@ The body is that of a male person and was found in the lake near the Floating Ma
 ◼️
 
 [Data](articles/bb06eff8.json)
-
----
-
-### New Chief of National Intelligence appointed
-
-*2025-01-02 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104655/new-chief-of-national-intelligence-appointed) · `en`
-
-The Defence Ministry has announced the appointment of Major General (Retired) Ruwan Wanigasooriya as the Chief of National Intelligence, effective from yesterday (January 1).
-
-He received his letter of appointment from Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd), yesterday (Jan 01).
-
-Subsequently Maj. Gen. Wanigasooriya (Retd) has assumed duties in his new position at his office at the Defence Ministry in Sri Jayawardenepura Kotte.
-
-Maj. Gen. Wanigasooriya (Retd) has been appointed to the position of Chief of National Intelligence, which fell vacant following the retirement of Major General Ruwan Kulatunga, who served as the Chief of National Intelligence.
-
-◼️
-
-[Data](articles/4ee1f946.json)
 
 ---

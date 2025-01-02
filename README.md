@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 18:04:39**
+As of **2025-01-02 18:24:40**
 
 ## Newspaper Stats
 
-*Scraped **63,328** Articles*
+*Scraped **63,330** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 466
-colombotelegraphcom | 638
+colombotelegraphcom | 639
 bbccomsinhala | 666
 islandlk | 3,850
 economynextcom | 3,853
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,055
+adalk | 6,056
 adaderanalk | 7,747
 tamilmirrorlk | 9,084
 virakesarilk | 10,538
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,939
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,328 articles have been extended.
+61,971 (97.9%) of 63,330 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -504,6 +504,24 @@ Additionally, the Ministry stated that this WhatsApp number is intended to addre
 
 ---
 
+### පෞද්ගලික හා අර්ධ රාජ්‍ය සේවකයන්ගේ සේවා කඩිනමින් ඉටු කර දීමට අංකයක්
+
+*2025-01-02 14:46:43* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-අර්ධ-රාජ්‍ය-සේවකයන්ගේ-සේවා-කඩිනමින්-ඉටු-කර-දීමට-අංකයක්/11-413981) · `si`
+
+පෞද්ගලික හා අර්ධ රාජ්‍ය අංශයේ සේවකයන්ගේ සේවාවන් කඩිනමින් ඉටුකර දීම  සඳහා වට්ස්ඇප් අංකයක් හඳුන්වා දී තිබෙන බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා සඳහන් කරයි.
+
+මේ අනුව 0707227877 යන අංකයට ජනතාව ඉදිරිපත් කරන තොරතුරු ඇතුළත් ලිපි යොමු කළ හැකි බවද පෙන්වා දෙයි.
+
+කම්කරු දෙපාර්තමේන්තුවේ ප්‍රධාන අරමුණ වී තිබෙන්නේ කාර්මික සාමය පවත්වාගෙන යාම හා එය තවදුරටත් ශක්තිමත් කිරීමත්, පෞද්ගලික හා අර්ධ රාජ්‍ය අංශයේ සේවකයන්ගේ සේවා ගැටලුවට කඩිනමින් සහන සැලසීමත් බවද  පෙන්වා දෙයි.
+
+මේ අනුව මහජනතාවගේ කාලය කළමනාකරණය කර ගැනීමේ පහසුව සඳහා හා කඩිනමින් ප්‍රතිචාර දැක්වීම වර්ධනය කිරීමටත්, නිලධාරීන්ගේ කාලය කළමනාකරණය ගැනීමේ පහසුව සඳහාත් මෙම අංකය හඳුන්වා දී තිබෙන බවද මහින්ද ජයසිංහ මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5463a811.json)
+
+---
+
 ### மாற்றுத்திறனாளிகளின் உரிமைகள் மறுக்கப்படுகிறது - யாழ்ப்பாணம் பிராந்திய இணைப்பாளர் தெரிவிப்பு!
 
 *2025-01-02 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202780) · `ta`
@@ -951,6 +969,20 @@ Jayaweera began by acknowledging the educational background of many of the curre
 ...
 
 [Data](articles/56e1cfe1.json)
+
+---
+
+### Academic Standards At Theological College Of Lanka: Bogus Accreditation
+
+*2025-01-02 12:37:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/academic-standards-at-theological-college-of-lanka-bogus-accreditation/) · `en`
+
+I refer to the letters from Rev. Dr. Albert Jebanesan and Rev. Nadarajah Arulnathan, and deny their charge that my article is inaccurate. It is funny that the former should write a protest letter with misleading and untrue statements and then append an opinionated  letter from the latter to buttress his accusations with no facts in support.
+
+I was on the UGC at one time and many foreign graduates seeking employment in Sri Lanka would come to us for a letter certifying that their degree is accredited. Given that there are tens of thousands of universities, and we lacked the means to examine each one, our policy was simple. If that university was a British Commonwealth University and was listed in the Commonwealth Universities Year Book, then it was recognized and we issued a letter of certification.
+
+...
+
+[Data](articles/b1718dae.json)
 
 ---
 
@@ -1773,43 +1805,5 @@ Maj. Gen. Wanigasooriya (Retd) has been appointed to the position of Chief of Na
 ◼️
 
 [Data](articles/2b65247b.json)
-
----
-
-### වසර 14ට පසු ශ්‍රී ලංකා පිතිකරුවෙක්ගෙන් T20 ශතකයක් - නවසීලන්තයට ලකුණු 219 ඉලක්කයක්
-
-*2025-01-02 08:05:58* · [`adalk`](https://www.ada.lk/sports/වසර-14ට-පසු-ශ්‍රී-ලංකා-පිතිකරුවෙක්ගෙන්-T20-ශතකයක්---නවසීලන්තයට-ලකුණු-219-ඉලක්කයක්/9-413970) · `si`
-
-වසර 14ට පසුව ශ්‍රී ලංකා පිතිකරුවෙකු විස්සයි 20 ක්‍රිකට් ශතකයක් වාර්තා කිරීමට අද(02දා) සමත් විය.
-
-ඒ අනුව දැන් පැවැත්වෙන ශ්‍රී ලංකා - නවසීලන්ත තෙවන විස්සයි 20 ක්‍රිකට් තරගයේදී ශ්‍රී ලංකාව වෙනුවෙන් කුසල් ජනිත් පෙරේරා එම දක්ෂතාවය දැක්වීමට සමත් විය.
-
-මෙම තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 20 අවසානයේ කඩුලු 05ක් දැවී ලකුණු 218ක් රැස් කළේය.
-
-එහිදී කුසල් ජනිත් පෙරේරා 101(46​) සහ නායක චරිත් අසලංක 46(24) රැස් කළේය.
-
-◼️
-
-[Data](articles/69f6e7a0.json)
-
----
-
-### Sri Lanka’s SAGT says handled container twice design capacity in 2024
-
-*2025-01-02 08:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sagt-says-handled-container-twice-design-capacity-in-2024-197518/) · `en`
-
-ECONOMYNEXT – South Asia Gateway Terminals, a unit of Sri Lanka’s John Keells Holdings said it handled more than two million containers in 2024, which was twice its original design capacity of 1.1 million boxes.
-
-The terminal is able to handle two million twenty foot equivalent units (TEUs), due to the investments in technology and people, Chief Executive Romesh David said in a statement.
-
-SAGT’s said the marine and other divisions of Sri Lanka Ports Authority internal and external providers of trucking and lashing services, have contributed to reaching the target.
-
-The two million throughput has ranked SAGT among the best terminals in the world on the productivity indicator of TEU per Hectare of Yard, the firm said.
-
-SAGT is planning to introduce a vehicle booking systemto improve truck turnaround times, which it says are already at globally competitive levels, and help to reduce congestion in the entire port.
-
-...
-
-[Data](articles/c7676761.json)
 
 ---

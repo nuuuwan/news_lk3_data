@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 13:28:09**
+As of **2025-01-02 13:44:29**
 
 ## Newspaper Stats
 
-*Scraped **63,278** Articles*
+*Scraped **63,279** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 466
-colombotelegraphcom | 637
+colombotelegraphcom | 638
 bbccomsinhala | 666
 islandlk | 3,849
 economynextcom | 3,853
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,929
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.9%) of 63,278 articles have been extended.
+61,971 (97.9%) of 63,279 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -994,6 +994,20 @@ SAGT is planning to introduce a vehicle booking systemto improve truck turnaroun
 
 ---
 
+### Dr Nalinda Jayatissa Here Is A Top Evidence For Corrupt Covid-19 Vaccine Deals
+
+*2025-01-02 07:37:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/dr-nalinda-jayatissa-here-is-a-top-evidence-for-corrupt-covid-19-vaccine-deals/) · `en`
+
+In response to the question raised in the parliament on the18 December, last week, by the opposition M.P. Rauff Hakeem regarding alleged government corruption involving a Covid-19 vaccine deals, Minister of Health Dr Nalinda Jayatissa promised to reveal them soon.  Here is a top evidence for the minister and the government.
+
+Speaking at the Special Committee on COVID-19 Prevention meeting held at the Presidential Secretariat under the chairmanship of President Gotabaya Rajapaksa, State Pharmaceuticals Corporation Chairman Dr. Prasanna Gunasena said that the government had spent Rs. 76 billion 2021 year alone to import COVID-19 vaccines – source Daily News 12 June 2021.
+
+...
+
+[Data](articles/10745045.json)
+
+---
+
 ### තෙවන පාසල් වාරයේ අවසන් අදියර අදින් ඇරඹේ
 
 *2025-01-02 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204950) · `si`
@@ -1751,19 +1765,5 @@ Blockchain technology or platform has many real world applications in terms of t
 ...
 
 [Data](articles/db54ae9c.json)
-
----
-
-### ASUS ushers in a new era of Copilot+ AI computing solutions with their latest launches
-
-*2025-01-01 20:45:00* · [`islandlk`](http://island.lk/asus-ushers-in-a-new-era-of-copilot-ai-computing-solutions-with-their-latest-launches/) · `en`
-
-ASUS announced the launch of new laptop models. Zenbook S 14 powered by latest Intel® Core™ Ultra processors (Series 2) & AMD AI 300 Series-powered TUF Gaming A16, feature integrated NPU (Neural Processing Units) delivering up to 50 TOPS (Tera Operation Per Second). These next-generation ASUS Copilot+ PCs are aimed at working professionals, creators, and gamers. The products will be accessible at the ASUS Exclusive Stores & selected multi-brand stores across Sri Lanka. The Zenbook S 14 UX5406 starts from LKR 668,990 and the TUF Gaming A14 FA608 will starts from LKR 699,990.
-
-About the Launch, Sam Huang, Business Development Manager, ASUS Sri Lanka, said, “We at ASUS pride ourselves on being pioneers in bringing the latest technology & innovations in the country. Comprehending how AI will become a driving factor in laptops for learning, working, gaming & creating, I am elated to introduce our latest innovation that delivers optimum performance in exquisite designs.”
-
-...
-
-[Data](articles/a7a2b692.json)
 
 ---

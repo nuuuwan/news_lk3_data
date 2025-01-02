@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 06:48:58**
+As of **2025-01-02 07:30:19**
 
 ## Newspaper Stats
 
-*Scraped **63,211** Articles*
+*Scraped **63,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
-tamilmirrorlk | 9,063
+tamilmirrorlk | 9,064
 virakesarilk | 10,511
 adaderanasinhalalk | 10,915
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,211 articles have been extended.
+61,971 (98.0%) of 63,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### விபத்தில் காயமடைந்த பல்கலை மாணவன் உயிரிழப்பு
+
+*2025-01-02 03:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-காயமடைந்த-பல்கலை-மாணவன்-உயிரிழப்பு/175-349642) · `ta`
+
+வவுனியா குருமன்காடு பகுதியில் இடம்பெற்ற விபத்தில் படுகாயமடைந்த கொழும்பு பல்கலைக்கழக இறுதியாண்டு மாணவர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+வைரவபுளியங்குளம், வவுனியாவைச் சேர்ந்த சந்திரபோஸ் ஸ்ரீகாந்தன் (வயது- 23) என்ற இறுதி ஆண்டு மாணவராவார்.
+
+கடந்த 25 ஆம் திகதி நண்பர் வீட்டுக்கு மோட்டார் சைக்கிளில் சென்று கொண்டிருந்தபோது நிறுத்தி வைக்கப்பட்டிருந்த கார் ஒன்றுடன் மோதி விபத்துக்குள்ளானார்.
+
+இதில் படுகாயம் அடைந்தவர் வவுனியா வைத்தியசாலையில் அமைக்கப்பட்டு பின்னர் யாழ். போதனா வைத்தியசாலைக்கு மாற்றப்பட்டு இருந்த நிலையில் நேற்று முன்தினம்  செவ்வாய்க்கிழமை (31) இரவு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+இம் மரணம் தொடர்பில் யாழ். போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேம்குமார் விசாரணைகளை மேற்கொண்டார். சாட்சிகளை வவுனியா பொலிஸார் நெறிப்படுத்தினர். (a)
+
+◼️
+
+[Data](articles/30e923b9.json)
+
+---
 
 ### SAGT surpasses two million TEU milestone again in 2024
 
@@ -1737,25 +1757,5 @@ Date of settlement of the above issuance is 1 January 2025. (Colombo/Jan1/2025)
 ◼️
 
 [Data](articles/9a412416.json)
-
----
-
-### Sri Lanka looks to send fishermen for South Korea jobs
-
-*2025-01-01 13:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-send-fishermen-for-south-korea-jobs-197409/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Fisheries, Aquatic and Ocean Resources Ramalingam Chandrasekar has requested the South Korean Government to provide job opportunities for local fishermen.
-
-Chandrasekar met the South Korean ambassador Miyon Lee this week to discuss strengthening bilateral ties.
-
-Increasing employment opportunities for Sri Lankan fishermen in the South Korean job market and increasing training opportunities were discussed, a government statement said.
-
-“The discussion focused on further improving bilateral relationships and collaboration for fisheries and aquatic resources management.”
-
-The Minister expressed his appreciation for South Korea’s continued support to Sri Lanka and also expressed his condolences over the tragic plane crash in South Korea this week. (Colombo/Jan1/2025)
-
-◼️
-
-[Data](articles/affc5265.json)
 
 ---

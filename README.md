@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 08:05:00**
+As of **2025-01-02 08:26:02**
 
 ## Newspaper Stats
 
-*Scraped **63,214** Articles*
+*Scraped **63,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,113 @@ adalk | 6,040
 adaderanalk | 7,725
 tamilmirrorlk | 9,064
 virakesarilk | 10,511
-adaderanasinhalalk | 10,915
+adaderanasinhalalk | 10,920
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,214 articles have been extended.
+61,971 (98.0%) of 63,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### නවසීලන්තයට ලකුණු 219ක දැවැන්ත ඉලක්කයක්
+
+*2025-01-02 07:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204952) · `si`
+
+සංචාරක ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම සහ නවසීලන්ත පිල අතර පැවැත්වෙන තෙවන විස්සයි විස්ස ක්‍රිකට් තරඟයේ දී පළමුවෙන් පන්දුවට දුන් ශ්‍රී ලංකා පිල සිය පන්දු වාර 20 අවසානයේ දී කඩුලු 5ක් දැවී ලකුණු 218ක් රැස් කර ගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/e49ee366.json)
+
+---
+
+### නව ජාතික බුද්ධි ප්‍රධානී ධුරයේ වැඩ අරඹයි
+
+*2025-01-02 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204951) · `si`
+
+අභිනවයෙන් පත් වූ ජාතික බුද්ධි ප්‍රධානී මේජර් ජෙනරල් රුවන් වනිගසූරිය (විශ්‍රාමික) මහතා සිය ධුරයේ වැඩ ආරම්භ කර තිබේ.
+
+ඊයේ (01) දින ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) මහතා අතින් මේජර් ජෙනරල් රුවන් වනිගසූරිය (විශ්‍රාමික) මහතා සිය පත්වීම් ලිපිය ලබා ගත්තේය.
+
+ඉන් අනතුරුව ඒ මහතා ශ්‍රී ජයවර්ධනපුර කෝට්ටේ පිහිටි ආරක්‍ෂක අමාත්‍යාංශයේ සිය කාර්යාලයේදී නව පත්වීමෙහි රාජකාරී ආරම්භ කළේය.
+
+ජාතික බුද්ධි අංශ ප්‍රධානි ලෙස කටයුතු කළ මේජර් ජෙනරාල් රුවන් කුලතුංග මහතා විශ්‍රාම ගැනීමෙන් අනතුරුව පුරප්පාඩු වු ජාතික බුද්ධි ප්‍රධානී ධුරය සඳහා මේජර් ජෙනරල් රුවන් වනිගසූරිය (විශ්‍රාමික) මහතාව මෙලෙස පත්කර තිබේ.
+
+◼️
+
+[Data](articles/f1c1dd62.json)
+
+---
+
+### තෙවන පාසල් වාරයේ අවසන් අදියර අදින් ඇරඹේ
+
+*2025-01-02 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204950) · `si`
+
+2024 වර්ෂයේ රජයේ පාසල් හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරයේ අවසන් අදියර අද (02) සිට ආරම්භ වේ.
+
+ඒ අනුව සියලුම පාසල් අද සිට ජනවාරි මස 24 වන දින දක්වා පැවැත්වීමට අධ්‍යාපන බලධාරීන් තීරණය කර තිබේ.
+
+පාසල් ආරම්භයෙන් අනතුරුව හෙට (03) සිට අවසන් පාසල් වාර විභාගයන් පැවැත්වීමට කටයුතු සුදානම් කර ඇත.
+
+2025 වසරේ නව පාසල් වාරය ජනවාරි මස 27 වන දින ආරම්භ වීමට නියමිත අතර එය මාර්තු මස 14 වන දින තෙක් පැවැත්වේ.
+
+මේ අතර රජයේ හා රජයේ අනුමත පෞද්ගලික පාසල්වල 2025 වසර සඳහා පළමු ශ්‍රේණියේ සිසුන් සඳහා පාසල් ආරම්භය ජනවාරි මස 30 වන බ්‍රහස්පතින්දා දින සිදුකිරීමට නියමිතය.
+
+2025 වසරේ පළමු වාරයේ දෙවැනි පාසල් වාරය අප්‍රේල් 1 වනදා සිට අප්‍රේල් 11 වන දින තෙක් පැවැත්වෙන අතර අවසන් අදියර අප්‍රේල් මස 21 වන දින සිට මැයි මස 9 වන දා දක්වා පැවැත් වේ.
+
+◼️
+
+[Data](articles/784a9b35.json)
+
+---
+
+### මාතර බන්ධනාගාරයේ සිදුවු ඛේදවාචකය ගැන තවත් තොරතුරු
+
+*2025-01-02 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204949) · `si`
+
+මාතර බන්ධනාගාරයේ ගොඩනැගිලල්ලක් මතට ගසක අත්තක් කඩාවැටීමෙන් තුවාල සිදු වූ 11 දෙනෙකු තවමත් මාතර රොහලේ ප්‍රතිකාර ලබමින් සිටින බව පොලීසිය පවසයි.
+
+ඊයේ (01) රාත්‍රියේ 10.14 ට පමණ සිදු වූ මෙම අනතුරෙන් රැඳවියන් 12 දෙනෙකු තුවාල ලබා මාතර රෝහලට ඇතුලත් කිරීමෙන් පසුව එක් රැඳවියෙකු මියගියේය.
+
+පොලීසිය පැවසුවේ රැඳවියන් රඳවා තිබූ G හා F යන වාට්ටු මතට ඒ ආසන්නයේ තිබූ බෝ ගසක අත්තක් මෙලෙස කඩා වැටී ඇති බවය.
+
+තුවලා ලැබූ රැඳවියන් 25, 27, 32, 34, 35 39, 41 සහ 52 යන වයස් වල පසුවන දෙනිපිටිය, මිරිස්ස , වැලිගම , ගාල්ල , මාතර , ගන්දර, බටපොල, දෙයියන්දර හා ගල්ගමුව යන ප්‍රදේශ වල පදිංචිකරුවන් බව සඳහන් වේ.
+
+අනතුර සිදුව වන අවස්ථාව වන විට G හා F වාට්ටු දෙකෙහි රැඳවියන් 100කට ආසන්න පිරිසක් රඳවා සිට තිබේ.
+
+මේ වන විට අනෙක් රැඳවියන් සියලුදෙනා වෙනත් ගොඩනැඟිල්ලක ආරක්ෂතව රැඳවීමට බන්ධනාගාර නිලධාරින් කටයුතු කොට ඇත.
+
+එමෙන්ම මාතර බන්ධනාගාරයේ සිටින රැඳවියන් සියලුදෙනා හෝ කොටසක් වෙනත් බන්ධනාගාරයකට ආරක්ෂිතව මාරුකර යැවීමට නියමිත ව ඇති බව අප කළ විමසීමකදී බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8ae1c9d4.json)
+
+---
+
+### අද කාලගුණය
+
+*2025-01-02 06:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204946) · `si`
+
+මධ්‍යම, ඌව සහ දකුණු පළාත්වලත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුන විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලසවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+උතුරු, නැගෙනහිර, උතුරු-මැද, වයඹ සහ දකුණු පළාත්වල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැක.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව සඳහන් වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී  තිබේ.
+
+◼️
+
+[Data](articles/aa2bca33.json)
+
+---
 
 ### விபத்தில் காயமடைந்த பல்கலை மாணவன் உயிரிழப்பு
 
@@ -410,11 +506,11 @@ The dualistic character of contemporary Sri Lanka is best evidenced by the contr
 
 ---
 
-### මාතර බන්ධනාගාරයේ බෝ ගසක් කඩාවැටී අයෙක් මරුට
+### මාතර බන්ධනාගාරයේ බෝ ගසක අත්තක් කඩාවැටී අයෙක් මරුට
 
 *2025-01-01 23:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204945) · `si`
 
-මාතර බන්ධනාගාර පරිශ්‍රයේ බෝ ගසක් කඩා වැටීමෙන් රැඳවියන් 10 දෙනෙකු තුවාල ලබා එක් අයෙක් මියගොස් තිබේ.
+බන්ධනාගාර පරිශ්‍රයේ බෝ ගසක අත්තක් කඩා වැටීමෙන් රැඳවියන් 10 දෙනෙකු තුවාල ලබා එක් අයෙක් මියගොස් තිබේ.
 
 ◼️
 
@@ -1671,91 +1767,5 @@ The event “fostered connections, facilitated knowledge sharing, and encouraged
 ◼️
 
 [Data](articles/edd0995b.json)
-
----
-
-### 20 Indian fishermen released by Sri Lanka return home
-
-*2025-01-01 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104642/20-indian-fishermen-released-by-sri-lanka-return-home) · `en`
-
-The 20 Indian fishermen, who were released from jails in Sri Lanka, reached Chennai by flight, said officials in Chennai on Wednesday (Jan. 01).
-
-The fishermen were arrested by the Sri Lankan Navy a year ago. They are residents of the Tamil Nadu districts of Pudukkottai, Ramanathapuram, and Tuticorin, and were in Sri Lankan judicial custody.
-
-After negotiations between the Indian and Sri Lankan governments, the latter released the 20 fishermen.
-
-They were handed over to Indian embassy officials, who provided them with temporary citizenship certificates. The fishermen were then flown from Colombo to Chennai airport.
-
-Upon arrival at Chennai airport, the fishermen underwent citizenship verification, customs checks, and other formalities before being released.
-
-They were then greeted by fisheries department officials, who arranged for them to be taken to their hometowns in separate vehicles.
-
-...
-
-[Data](articles/ca18b696.json)
-
----
-
-### புத்தாண்டை வாண வேடிக்கையால் வரவேற்ற கொழும்பு துறைமுக நகரம்
-
-*2025-01-01 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/202698) · `ta`
-
-2025 ஆம் ஆண்டு ஆங்கில புத்தாண்டை வாணவேடிக்கையுடன் கொழும்பு துறைமுக நகரம் (போர்ட் சிட்டி) வரவேற்றது.
-
-இதேவேளை, காலி முகத்திடல் மற்றும் கொழும்பு நகரத்தை சுற்றியுள்ள ஹோட்டல்களில் வண்ணமயமான வாணவேடிக்கைகள் நிகழ்த்தப்பட்டது.
-
-◼️
-
-[Data](articles/6a1ba142.json)
-
----
-
-### Sri Lanka sells extra Rs4.5bn Treasury bonds after auction
-
-*2025-01-01 13:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs4-5bn-treasury-bonds-after-auction-197417/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 4.5 billion rupees of bonds offered on tap at the average rate set at an auction earlier this week, data from the state debt office showed.
-
-The debt office sold a 15 October 2028 maturity bond (LKB00428J159) at a weighted average yield rate of 10.42 percent.
-
-“Further to the Treasury bond auction held on 30 December 2024, Rs. 4,500 million, being the maximum amount offered, was raised out of the total market subscription of Rs. 17,474 million via the Direct Issuance Window from the Treasury bond bearing the International Securities Identification Number LKB00428J159 at the Weighted Average Yield Rate of 10.42% determined at the auction.”
-
-Date of settlement of the above issuance is 1 January 2025. (Colombo/Jan1/2025)
-
-◼️
-
-[Data](articles/7d87ddfd.json)
-
----
-
-### ரயிலில் மோதுண்டு தாயும் மகனும் காயம்
-
-*2025-01-01 13:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதுண்டு-தாயும்-மகனும்-காயம்/175-349613) · `ta`
-
-புத்தாண்டை கொண்டாடிய பின்னர் வீடு திரும்பிய 39 வயதுடைய தாயும் அவரது ஆறு வயது மகனும் ரயிலில் மோதுண்டு படுகாயமடைந்த நிலையில் பெந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பெந்தோட்டை பொலிஸார்  தெரிவித்துள்ளனர்.
-
-பெந்தோட்டை பகுதியில் வசிக்கும் தாயும் மகனும் செவ்வாய்க்கிழமை (31) இரவு பெந்தோட்டை கடற்கரையில் இடம்பெற்ற வாணவேடிக்கையை கண்டுகளிக்கத்துவிட்டு குடும்பத்துடன் வீடு திரும்பிக் கொண்டிருந்த போதே இவ்விபத்து இடம்பெற்றுள்ளதாக பொலிஸார்  குறிப்பிட்டுள்ளனர்.
-
-விபத்தில் படுகாயமடைந்த ஆறு வயது குழந்தையின் இடது கை பகுதி காயமடைந்த நிலையில் பெந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் பொலிஸ் தரப்பில் தெரிவிக்கப்படுகினிறது.
-
-சிகிச்சையின் பின்னர் தாயும் மகனும் களுத்துறை நாகொட வைத்தியசாலைக்கு மாற்றப்பட்டதாக பெந்தோட்டை வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளன.
-
-◼️
-
-[Data](articles/51568bf9.json)
-
----
-
-### අධිකරණ සේවා නිලධාරිනය නඩු භාණ්ඩ කාමරයේ දුරකතනය සොරා ගෙන පෙම්වතාට දීලා
-
-*2025-01-01 13:43:09* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-සේවා-නිලධාරිනය-නඩු-භාණ්ඩ-කාමරයේ-දුරකතනය-සොරා-ගෙන-පෙම්වතාට-දීලා/11-413956) · `si`
-
-නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ කාමරයේ වටිනා දුරකථනයත් අස්ථානගතවීම සම්බන්ධව නුවරඑළිය පොලිසියට ලද පැමිණිල්ලකට අනුව සිදුකළ විමර්ශනයේදී එම දුරකථනය සොරාගත් එම අධිකරණයේ සේවය කරන නිලධාරිනිය අත්අඩංගුවට ගෙන (30) දින නුවරඑලිය මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරිමෙන් අනතුරුව සැකකාරිනිය මේ මස (09) දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරිමට මහෙස්ත්රාැත් ප්ර බුද්ධිකා ලංකාංගනී මෙනවිය නියෝග කෙරිණ.
-
-සැකකාර අධිකරණ නිලධාරිනිය නුවරඑළිය මහේස්ත්‍රාත් අධිකරණයේ නඩු භාණ්ඩ ගබඩාවේ අධිකරණය භාරයේ තිබු වටිනා ජංගම දුරකථනයක් සොරාගෙන සිය පෙම්වතාට තෑගි වශයෙන් ලබා දී තිබු බවට පොලිසිය විසින් සිදු කල මුලික විමර්ෂණවලදි අනාවරණය වි තිබුණි.
-
-...
-
-[Data](articles/67ec1c38.json)
 
 ---

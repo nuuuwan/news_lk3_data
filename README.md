@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 06:13:29**
+As of **2025-01-02 06:48:58**
 
 ## Newspaper Stats
 
-*Scraped **63,203** Articles*
+*Scraped **63,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 637
 bbccomsinhala | 665
-islandlk | 3,842
+islandlk | 3,849
 economynextcom | 3,849
 dailyftlk | 4,396
 dailymirrorlk | 4,733
 adalk | 6,039
 adaderanalk | 7,725
-tamilmirrorlk | 9,062
+tamilmirrorlk | 9,063
 virakesarilk | 10,511
 adaderanasinhalalk | 10,915
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,915
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.1%) of 63,203 articles have been extended.
+61,971 (98.0%) of 63,211 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,22 @@ New Ambassador of Thailand Paitoon Mahapannaporn recently called for greater div
 ...
 
 [Data](articles/6fc76d32.json)
+
+---
+
+### இந்திய மீனவர்களுக்கு விளக்கமறியல் நீடிப்பு
+
+*2025-01-02 03:16:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களுக்கு-விளக்கமறியல்-நீடிப்பு/175-349641) · `ta`
+
+எல்லை தாண்டி வடமராட்சி கடற்பரப்பில் மீன்பிடியில் ஈடுபட்ட இந்திய மீனவர்கள், கடற்படையினரின் கடமையின் போது இடையூறு விளைவித்த குற்றச்சாட்டில் கைதாகியவர்களுக்கு மேலும் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+இழுவைப் படகில் தடைசெய்யப்பட்ட இழுவைமடியைப் பயன்படுத்தி எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட போது கடந்த வருடம் நவம்பர் 11 ஆம் திகதி  வடமராட்சி கடற்பகுதியில் வைத்து கடற்படையினரால் 12 காரைக்கால் மீனவர்கள் கைதுசெய்யப்பட்டு நவம்பர் 13 ஆம் திகதி பருத்தித்துறை நீதிமன்றில் நீரியல்வளத் துறை அதிகாரிகளினால் முற்படுத்தப்பட்டனர்.
+
+குறித்த கைதின் போது கடற்படை அதிகாரிகளைத் தாக்கி கடமைக்கு இடையூறு விளைவித்தமை மற்றும் படகிற்கு சேதம் ஏற்படுத்தியிருந்தமை தொடர்பில் கடற்படையினரால், பருத்தித்துறை காவல் நிலையத்தில் பிறிதொரு முறைப்பாடு பதிவுசெய்யப்பட்டது.
+
+...
+
+[Data](articles/82a4fa92.json)
 
 ---
 
@@ -595,6 +611,104 @@ Mix the juice from 01 medium-sized potato with a tablespoon of olive oil.
 ...
 
 [Data](articles/49c8feef.json)
+
+---
+
+### ‘ A new asset class – the Cryptos’
+
+*2025-01-01 20:48:00* · [`islandlk`](http://island.lk/a-new-asset-class-the-cryptos/) · `en`
+
+Blockchain technology or platform has many real world applications in terms of transparent and efficient delivery of public services not to mention endless commercial applications/possibilities (Web3 is nothing short of an upgrade of the internet itself which enables secure exchange of value). For an example, the land registry or the vehicle registry (or any other Registry for that matter) can be on Blockchain allowing easy public access, swift and low cost transactions, transparency etc. etc.
+
+...
+
+[Data](articles/db54ae9c.json)
+
+---
+
+### ASUS ushers in a new era of Copilot+ AI computing solutions with their latest launches
+
+*2025-01-01 20:45:00* · [`islandlk`](http://island.lk/asus-ushers-in-a-new-era-of-copilot-ai-computing-solutions-with-their-latest-launches/) · `en`
+
+ASUS announced the launch of new laptop models. Zenbook S 14 powered by latest Intel® Core™ Ultra processors (Series 2) & AMD AI 300 Series-powered TUF Gaming A16, feature integrated NPU (Neural Processing Units) delivering up to 50 TOPS (Tera Operation Per Second). These next-generation ASUS Copilot+ PCs are aimed at working professionals, creators, and gamers. The products will be accessible at the ASUS Exclusive Stores & selected multi-brand stores across Sri Lanka. The Zenbook S 14 UX5406 starts from LKR 668,990 and the TUF Gaming A14 FA608 will starts from LKR 699,990.
+
+About the Launch, Sam Huang, Business Development Manager, ASUS Sri Lanka, said, “We at ASUS pride ourselves on being pioneers in bringing the latest technology & innovations in the country. Comprehending how AI will become a driving factor in laptops for learning, working, gaming & creating, I am elated to introduce our latest innovation that delivers optimum performance in exquisite designs.”
+
+...
+
+[Data](articles/a7a2b692.json)
+
+---
+
+### Sri Lanka speedster Matheesha Pathirana to bowl for ComBank
+
+*2025-01-01 20:44:00* · [`islandlk`](http://island.lk/sri-lanka-speedster-matheesha-pathirana-to-bowl-for-combank/) · `en`
+
+Matheesha Pathirana, one of Sri Lanka’s most talented young cricket stars, has been appointed Brand Ambassador for Commercial Bank, the largest private sector bank in the country.
+
+Matheesha will specifically represent the ComBank Debit Card brand, the biggest debit card base in the country, reflecting the speed and agility of the brand, qualities that he is famous for. At Just 22, the right-arm fast bowler is already a household name in Sri Lanka as well as India. The Bank said the young cricketer embodies excellence, dedication, and resilience—qualities that align perfectly with the values of Commercial Bank, Sri Lanka’s most awarded financial institution.
+
+...
+
+[Data](articles/4a32f6d2.json)
+
+---
+
+### LankaPay clinches Gold at CA Sri Lanka TAGS Awards 2024
+
+*2025-01-01 20:44:00* · [`islandlk`](http://island.lk/lankapay-clinches-gold-at-ca-sri-lanka-tags-awards-2024/) · `en`
+
+LankaPay is humbled by winning the coveted Gold Award under the SME category at the prestigious TAGS Awards 2024. Organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), TAGS Awards recognizes organizations that exemplify the highest standards in Transparency, Accountability, Governance, and Sustainability (TAGS). This accolade further solidifies LankaPay’s reputation as a trailblazer in the financial and technological landscape of Sri Lanka and our commitment for transparency, good governance and excellence.
+
+...
+
+[Data](articles/d5fb3d96.json)
+
+---
+
+### Singer opens 1st ever Samsung AI powered smart store in Sri Lanka
+
+*2025-01-01 20:41:00* · [`islandlk`](http://island.lk/singer-opens-1st-ever-samsung-ai-powered-smart-store-in-sri-lanka/) · `en`
+
+In a groundbreaking move to revolutionize the technological landscape of Sri Lanka, Singer Sri Lanka has unveiled the country’s first AI-powered smart electronics in partnership with Samsung. This Samsung SmartThings store by Singer, located on Level 3 of the One Galle Face Mall, is set to redefine how Sri Lankans experience AI-powered technology and smart living solutions.
+
+The opening, held on December 17, 2024, marks a significant milestone in the longstanding partnership between Singer Sri Lanka and Samsung. The event was graced by Mohan Pandithage, Chairman of Hayleys PLC, and SangHwa Song, Managing Director of Samsung Sri Lanka, Sabry Ansar – Director and Head of CE Biz, Samsung Sri Lanka, Thushara Rathnaweera – Deputy General Manager and Head of MX Biz, Samsung Sri Lanka and Mahesh Wijewardene, CEO of Singer Group. Their presence underscored the shared commitment of both companies toward innovation and excellence.
+
+...
+
+[Data](articles/21088d95.json)
+
+---
+
+### CCPI-based headline inflation continued to remain in negative territory in December 2024
+
+*2025-01-01 20:41:00* · [`islandlk`](http://island.lk/ccpi-based-headline-inflation-continued-to-remain-in-negative-territory-in-december-2024/) · `en`
+
+In line with the Central Bank’s near term projections, headline inflation, as measured by the year-on-year (Y-o-Y) change in the Colombo Consumer Price Index (CCPI, 2021=100)1 remained in the negative territory for the fourth consecutive month, recording a deflation of 1.7% in December 2024 compared to the deflation of 2.1% in November 2024.
+
+Non-Food deflation (Y-o-Y) moderated to 3.0% in December 2024 from 3.3% in November 2024.
+
+Meanwhile, Food inflation (Y-o-Y) showed a marginal uptick recording 0.8% in December 2024 from 0.6% November 2024.
+
+On a month-on-month basis, the CCPI recorded an increase of 1.19% in December 2024 due to the combined effect of 1.24% increase in the prices of items in the Food category and 0.06% reduction in the prices of items in the Non-Food category. Meanwhile, core inflation (Y-o-Y), which reflects the underlying inflation trends in the economy, emained unchanged at 2.7% in December 2024.
+
+...
+
+[Data](articles/60c29b0e.json)
+
+---
+
+### ‘Mangata Galle combines personalised Ayurveda and bespoke luxury’
+
+*2025-01-01 20:41:00* · [`islandlk`](http://island.lk/mangata-galle-combines-personalised-ayurveda-and-bespoke-luxury/) · `en`
+
+Mangata Galle has been unveiled as the latest jewel in the Adhitya Ayurveda family, adding a new dimension of wellness and luxury to the historic city of Galle. This expansion is a significant achievement for the company in meeting its goal of spreading the essence of Ayurveda and traditional medicine across Sri Lanka.
+
+Mangata is conveniently-located in the historic city of Galle and offers the perfect blend of privacy and adventure to guests looking to combine Ayurveda, culture and exploration. While the retreat provides an oasis of peace and tranquillity, its proximity to the Dutch Galle Fort, a UNESCO-World Heritage site, allows guests to delve into the region’s cultural richness, creating a balanced experience of relaxation and adventure.
+
+...
+
+[Data](articles/a0357ef3.json)
 
 ---
 
@@ -1643,161 +1757,5 @@ The Minister expressed his appreciation for South Korea’s continued support to
 ◼️
 
 [Data](articles/affc5265.json)
-
----
-
-### Sri Lanka Customs records historic revenue over Rs 1.5 trillion in 2024
-
-*2025-01-01 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104641/sri-lanka-customs-records-historic-revenue-over-rs-15-trillion-in-2024) · `en`
-
-Sri Lanka Customs has achieved a landmark revenue of Rs. 1.515 trillion in the year 2024, according to its Media Spokesperson and Additional Director General, Seevali Arukgoda.
-
-This figure represents the highest revenue ever recorded by the department in a single year.
-
-It is reported that the recorded revenue reflects significant progress towards meeting the government’s target of Rs. 1.533 trillion for 2024.
-
-Sri Lanka Customs attributed this success to the government’s tax policies, an increase in imports, and improvements in the efficiency of the tax collection processes implemented by its management.
-
-◼️
-
-[Data](articles/f42fcb98.json)
-
----
-
-### 2024 වසරේ වැඩි අවධානයක් යොමු වූ මරණ
-
-*2025-01-01 13:20:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1el1pj1e52o) · `si`
-
-ගෙවී ගිය 2024 වසරේදී ලෝකයේ මෙන් ම ශ්‍රී ලංකාවේ ද කැපී පෙනෙන පුද්ගලයන් කිහිප දෙනෙක් ම ජීවිතයට සමුදුන්හ.
-
-කලාකරුවන්, ලේඛකයන්, දේශපාලනඥයන් ඇතුළු විවිධ ක්ෂේත්‍රවලට සිදු වූ මෙම අහිමි වීම් පිළිබඳව මහජනතාවගේ ද විශාල අවධානයක් යොමු විය.
-
-මේ එලෙස මෙම වසරේදී ශ්‍රී ලංකාවේ සහ ලෝකයේ සිදු වූ මරණ කිහිපයකි.
-
-හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත ජනවාරි මස 25 වන දා කටුනායක - කොළඹ අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් ජීවිතක්ෂයට පත් විය.
-
-ඔහු මෙරට දේශපාලනයේ ආන්දෝලනාත්මක චරිතයක් මෙන් ම රාජපක්ෂ කඳවුරේ ප්‍රබලයෙකු ද විය.
-
-සුළු වාරිමාර්ග හා ගොවිජන සංවර්ධන අමාත්‍ය, ජල සම්පාදන රාජ්‍ය අමාත්‍ය සහ ධීවර හා මිරිදිය මත්ස්‍ය කර්මාන්ත රාජ්‍ය අමාත්‍ය යන තනතුරු ඔහු විසින් හොඹවනු ලැබූ  අතර ඔහු මිය යන විටත් ඔහුට විරුද්ධව අධිකරණයේ නඩු කිහිපයක් විභාග විය.
-
-මීට දශක කිහිපයකට පෙර ශ්‍රී ලාංකික ගුවන් විදුලි ශ්‍රාවකයින්ට ප්‍රවෘත්ති ඉදරිපත් කළ, රම්‍යා වනිගසේකර මාර්තු 8 වන දින දිවි ගමනට සමු දුන්නා ය.
-
-කලක් අසනීප තත්ත්වයෙන් පසුවූ ඇය අභාවප්‍රාප්ත වූයේ, කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී ය.
-
-...
-
-[Data](articles/d3662b5c.json)
-
----
-
-### මල් වෙඩි බලන්න ආ මව හා පුතා දුම්රියක ගැටෙයි
-
-*2025-01-01 13:13:44* · [`adalk`](https://www.ada.lk/breaking_news/මල්-වෙඩි-බලන්න-ආ-මව-හා-පුතා-දුම්රියක-ගැටෙයි/11-413955) · `si`
-
-කොළඹ සිට ගාල්ල බලා ගමන්ගත් දුම්රියක බෙන්තොට දුම්රිය ස්ථානය අසලදී ගැටීමෙන් තුනටිය ප්‍රදේශයයට බරපතළ  තුවාල ලැබූ   39 හැවිරිදි  මවක  සහ වමතේ කොටසක් වෙන්වන පරිදි බරපතළ තුවාල ලද ඇයගේ හය හැවිරිදි පුත්‍රයා බෙන්තොට රෝහලට ඇතුළත් කළ බව බෙන්තොට පොලීසිය පැවසිය.
-
-බෙන්තොට වෙරළේ ඊයේ (31)රාත්‍රියේ පැවති මල් වෙඩි සංදර්ශන නැරඹීම සඳහා  පවුලේ අය සමග පැමිණ ආපසු නිවෙස වෙත යමින් සිටි   බෙන්තොට ඉහල  මාලවල පදිංචි  මෙම  මව සහ පුත්‍රයා අනාරක්ෂිත තැනකින් දුම්රිය මාර්ගය හරහා මාරුවීමට යාමේදී මෙම අනතුර සිදුවී ඇතැයි පොලීසිය කියයි.
-
-මෙම අනතුරින් තුවාල ලද හය හැවිරිදි දරුවාගේ වම් අතේ වැලමිටට පහළින් වෙන්වී තිබූ කොටස සුරක්ෂිතව  බෙන්තොට රෝහලට බාරදුන් බව පොලීසිය පැවසීය.
-
-මූලික ප්‍රතිකාර ලබා දීමෙන් පසු මව හා පුත්‍රයා කළුතර නාගොඩ රෝහලට මාරුකළ බව බෙන්තොට රෝහල් ආරංචිමාර්ග පැවසීය.
-
-◼️
-
-[Data](articles/f0de7bd2.json)
-
----
-
-### ඉන්දු ලංකා මගී නැව් සේවාව යළි හෙට සිට ඇරඹෙයි
-
-*2025-01-01 13:03:40* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දු-ලංකා-මගී-නැව්-සේවාව-යළි-හෙට-සිට-ඇරඹෙයි/11-413954) · `si`
-
-උතුරු මුහුදු සීමාවේ පසුගිය කාලයේ පැවති අයහපත් කලගුණික බලපෑම් හේතුවෙන් නවතා තිබූ ඉන්දියාව සහ කන්කසන්තුරෙයි අතර මගී නැව් සේවාව හෙට (02) දිනයේ සිට යළි ක්‍රියාත්මක කරන බවට සිව ගංගී නැව් සමාගම නිවේදනය කරයි.
-
-පසුගිය වසරේ (2024) ආරම්භ වූ නැව් සේවාව ඔක්තෝම්බර්, නොවැම්බර් සහ දෙසැම්බර් මාසයන්වලදී උතුරු මුහුදු සීමාවට බලපෑ අධික සුලිසුලං සහ කුණාටු තත්වයන් මෙන්ම ගංවතුර බලපෑම් හේතුවෙන් නවතා දැමීමට තීරණය කරන ලදි.
-
-කෙසේ වෙතත් මෙම නැව් සේවාවට මෝසම් වර්ෂාව මගින් දැඩි බලපෑමක් එල්ල කිරීමෙන් නැව් සේවව නවතා දැමීමට සිදුවීම පිළිබඳව අවධානය යොමු කොට ඊට විකල්පයක් සෙවීම සඳහා අවශ්‍ය තාක්ෂණික උපදෙස් ලබගැනීමටද නැව් සමාගම විසින් කටයුත කොට ඇත.
-
-හෙට (02) දිනයේදී නැවත ඇරඹෙන මගී නැව් සේවව සඳහා මගීන්ට අවශ්‍ය කෙරෙන ආසන වෙන්කරවා ගැනීම සඳහා සතියකට පෙර අවස්ථාව ලබා දී තිබූ අතර ඉන්දියාවේ නාගපට්නම් සිට කන්කසන්තුරෙයි දක්වා ගමන් කිරීමේ ගාස්තුව වශයෙන් රුපියල් 35,000 ක් බවට දක්වා ඇත.
-
-එමෙන්ම සතියේ ඉරිදා දින හැර සෙසු සියලුම දිනයන්හි නැව් සේවා සමාගම මගී ගමනාගමනය සිදුකිරීමටද බලාපොරොත්තුවෙන් ඇත.
-
-◼️
-
-[Data](articles/909341fc.json)
-
----
-
-### ශ්‍රී ලංකා - ඔස්ට්‍රේලියා තරග කාලසටහන මෙන්න
-
-*2025-01-01 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204929) · `si`
-
-ඔස්ට්‍රේලියා කණ්ඩායමේ ශ්‍රී ලංකා තරග සංචාරයට අදාළ තරග කාලසටහන ශ්‍රී ලංකා ක්‍රිකට් ආයතනය ප්‍රකාශයට පත්කර තිබේ.
-
-ඒ අනුව එහිදී ටෙස්ට් තරග 2ක් සහ එක්දින තරගයක් පැවැත්වීමට නියමිතව ඇත.
-
-පළමු ටෙස්ට් තරගය ආරම්භ වන්නේ, ජනවාරි 29 වනදා වන අතර දෙවැනි ටෙස්ට් තරගය පෙබරවාරි 06 වනදා ඇරඹෙයි.
-
-දෙරට අතර පැවැත්වෙන එක්දින ජාත්‍යන්තර තරගය දිවා-රාත්‍රී තරගයක් ලෙස පෙබරවාරි 13 වනදා පැවැත්වෙයි.
-
-◼️
-
-[Data](articles/5988009b.json)
-
----
-
-### කොටස් එකලස්කළ රු කෝටි 05ක වාහන සමග සැකකරුවෙක් මාට්ටු
-
-*2025-01-01 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204928) · `si`
-
-වාහන එකලස් කර අලෙවිකිරීමේ ජාවාරමක් නීතියේ රැහැනට හසුකරගැනීමට පොලිස් අපරාධ විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය සමත් වුණි.
-
-එහිදී එම ජාවාරමේ නිරත පුද්ගලයෙකු ජාලගත වංචා විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගැනුණේ  මාතලේ ප්‍රදේශයේදීය.
-
-වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති පී.අම්පාවිල යන මහත්වරුන්ගේ උපදෙස් මත නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරයාගේ මෙහෙයවීමෙන් සිදුකළ විමර්ශනයකින් අනතුරුවය.
-
-එකලස් කරන ලද වාහන 8ක් සැකකරු සන්තකයේ තිබී හමුවූ අතර, අංක තහඩු සහිත එම වාහනවල චැසි අංක වෙනස්කර ඇති බවට පොලීසිය සැක පළකරයි.
-
-ඒ, අතරින් වාහන 06 භාවිතයට ගතහැකි මට්ටමේ පවතින අතර වාහන දෙකක් පවතින්නේ අබලන් තත්ත්වයකයි.
-
-සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීම්වලදී,  පිළියන්දල ප්‍රදේශයේ සඟවා ඇති තවත් වාහනයක් ගැන තොරතුරු අනාවරණය වී ඇති අතර එහි චැසි අංක, එන්ජින් සියල්ල වෙනස් කර ඇති බවද අනාවරණය වී තිබේ.
-
-මේ අතර සැකකරු සමග ක්‍රියාත්මක වන ජාලයක් පවතින බවට පොලීසිය අනාවරණය කරගෙන ඇති අතර, මූල්‍ය ආයතනයක සේවය කරන පුද්ගලයෙක්ද ඊට අයත්ය.
-
-...
-
-[Data](articles/945088d8.json)
-
----
-
-### US imposes sanctions on Russian and Iranian groups over disinformation targeting American voters
-
-*2025-01-01 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104639/us-imposes-sanctions-on-russian-and-iranian-groups-over-disinformation-targeting-american-voters) · `en`
-
-The United States has imposed sanctions on two groups linked to Iranian and Russian efforts to target American voters with disinformation ahead of this year’s election.
-
-Treasury officials announced the sanctions Tuesday, alleging that the two organizations sought to stoke divisions among Americans before November’s vote. U.S. intelligence has accused both governments of spreading disinformation, including fake videos, news stories and social media posts, designed to manipulate voters and undermine trust in U.S. elections.
-
-“The governments of Iran and Russia have targeted our election processes and institutions and sought to divide the American people through targeted disinformation campaigns,” Bradley T. Smith, Treasury’s acting undersecretary for terrorism and financial intelligence, said in a statement.
-
-...
-
-[Data](articles/a7a050b2.json)
-
----
-
-### New year, new political culture: President Dissanayake outlines vision for Sri Lanka
-
-*2025-01-01 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104638/new-year-new-political-culture-president-dissanayake-outlines-vision-for-sri-lanka) · `en`
-
-President Anura Kumara Dissanayake emphasized that the challenge of giving the new year a new transformation lies squarely with the government.
-
-Speaking at the launch of the ‘Clean Sri Lanka’ national initiative, the President highlighted that the entire political establishment is committed to meeting that challenge and added that the new year has begun with a new political culture.
-
-“Starting any strong endeavor requires a very strong foundation,” President Dissanayake said, adding, “Our country, our nation, has lost its foundation. Therefore, we are completing the initial steps to a significant extent. We have prepared the necessary groundwork to restore this country—political authority, state machinery, the rule of law, respect and protection of the constitution, and the elimination of fraud and corruption. Now, we must take this foundation forward.”
-
-...
-
-[Data](articles/1e32f5be.json)
 
 ---

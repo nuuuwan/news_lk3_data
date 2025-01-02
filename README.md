@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-02 08:26:02**
+As of **2025-01-02 08:46:30**
 
 ## Newspaper Stats
 
-*Scraped **63,219** Articles*
+*Scraped **63,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 3,849
 economynextcom | 3,849
 dailyftlk | 4,396
 dailymirrorlk | 4,733
-adalk | 6,040
+adalk | 6,041
 adaderanalk | 7,725
 tamilmirrorlk | 9,064
 virakesarilk | 10,511
-adaderanasinhalalk | 10,920
+adaderanasinhalalk | 10,921
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (98.0%) of 63,219 articles have been extended.
+61,971 (98.0%) of 63,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-02 (Thursday)
+
+### සයිබර් ප්‍රහාරයට ලක්වූ මුද්‍රණ දෙපාර්තමේන්තු වෙබ් අඩවිය අද යථා තත්ත්වයට
+
+*2025-01-02 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204953) · `si`
+
+සයිබර් ප්‍රහාරයට ලක්වු රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ වෙබ් අඩවිය සහ පොලීසියේ යුටියුබ් නාළිකාව මේ වන විට යථා තත්ත්වයට පත් කරමින් සිටින බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+
+◼️
+
+[Data](articles/bb06eff8.json)
+
+---
 
 ### නවසීලන්තයට ලකුණු 219ක දැවැන්ත ඉලක්කයක්
 
@@ -1755,17 +1767,5 @@ The event “fostered connections, facilitated knowledge sharing, and encouraged
 ...
 
 [Data](articles/cfa9e837.json)
-
----
-
-### இன்றைய நாணயமாற்று விகிதம்
-
-*2025-01-01 14:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/202700) · `ta`
-
-இன்று ஜனவரி  புதன்கிழமை (01) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 289.0808 ரூபா  ஆகவும்  விற்பனை விலை 297.6536 ரூபா  ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/edd0995b.json)
 
 ---

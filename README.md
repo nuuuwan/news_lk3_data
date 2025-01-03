@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 06:13:46**
+As of **2025-01-03 06:49:05**
 
 ## Newspaper Stats
 
-*Scraped **63,405** Articles*
+*Scraped **63,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 639
 bbccomsinhala | 667
 islandlk | 3,860
 economynextcom | 3,863
-dailyftlk | 4,407
+dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,061
 adaderanalk | 7,752
-tamilmirrorlk | 9,088
+tamilmirrorlk | 9,089
 virakesarilk | 10,560
 adaderanasinhalalk | 10,946
 
@@ -26,11 +26,203 @@ adaderanasinhalalk | 10,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,405 articles have been extended.
+61,971 (97.7%) of 63,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### Leadership transition at Good Life X: Strategic leap into future
+
+*2025-01-03 06:26:18* · [`dailyftlk`](https://www.ft.lk/business/Leadership-transition-at-Good-Life-X-Strategic-leap-into-future/34-771343) · `en`
+
+From left: Christina Gunasinghe, Randhula de Silva, Emma de Silva and Vihangun Ariyaratne
+
+Good Life X (GLX) has announced a new chapter in its journey as it welcomes key leadership changes that strategically position the organisation for expanded impact and growth.
+
+Effective 2 January 2025, Emma de Silva will assume the role of Chief Executive Officer (CEO), and Christina Gunasinghe will take on the role of Chief Operating Officer (COO). Alongside these appointments, GLX Founder and outgoing CEO Randhula de Silva, will transition into the roles of Chairperson and Director of Innovation and Thought Leadership, while Vihangun Ariyaratne the outgoing COO, will step into the role of Director of Strategy and Sustainable Growth.
+
+This carefully planned evolution underscores GLX’s commitment to fostering regenerative innovation. Over the past six months, the leadership team has worked diligently to ensure a seamless transition, reinforcing GLX’s role as a catalyst for positive change.
+
+...
+
+[Data](articles/bdc90596.json)
+
+---
+
+### Advocata Institute to hold #ResetNow Conference on 22-23 January
+
+*2025-01-03 06:25:25* · [`dailyftlk`](https://www.ft.lk/business/Advocata-Institute-to-hold-ResetNow-Conference-on-22-23-January/34-771342) · `en`
+
+Independent policy think-tank, the Advocata Institute has announced the upcoming conference, “Ignite Growth: Pathways to Sustainable Economic Growth” scheduled for 22 and 23 January.
+
+This #ResetNow Conference will delve into innovative approaches to accelerate productivity and drive economic growth, setting the stage for a brighter and a sustainable future for Sri Lanka.
+
+This landmark event will spotlight the transformative potential of productivity efficiency through evolving business models, lean management practices, and operational improvements. It will also serve as a platform to mainstream productivity-enhancing ideas across political parties, the media, and the general public.
+
+...
+
+[Data](articles/e6e70563.json)
+
+---
+
+### Labour Ministry launches WhatsApp hotline to address grievances
+
+*2025-01-03 06:25:10* · [`dailyftlk`](https://www.ft.lk/business/Labour-Ministry-launches-WhatsApp-hotline-to-address-grievances/34-771341) · `en`
+
+The Ministry of Labour has announced the introduction of a dedicated hotline to address issues faced by employees in both the public and private sectors.
+
+The newly launched WhatsApp number, 070 7227877, aims to provide a platform for workers to lodge complaints and raise concerns about service-related matters efficiently.
+
+In a move to enhance responsiveness, the Ministry stated that the initiative seeks to expedite the handling of grievances by both the Ministry and the Department of Labour. Employees can now report their issues directly via WhatsApp, ensuring quick and direct communication with the relevant authorities.
+
+The initiative is expected to improve the Ministry’s commitment to improving its services and creating a more accessible channel for addressing workplace challenges.
+
+◼️
+
+[Data](articles/d6d6d36c.json)
+
+---
+
+### Ranil Pathirana joins Access Engineering Board
+
+*2025-01-03 06:24:56* · [`dailyftlk`](https://www.ft.lk/business/Ranil-Pathirana-joins-Access-Engineering-Board/34-771340) · `en`
+
+Ranil Pathirana has joined the Board of Access Engineering PLC as an Independent Non-Executive Director.
+
+Pathirana has extensive experience in finance and management in the financial, apparel, and energy sectors. He currently serves as the Group Director of the Hirdaramani Group of Companies and its Holdings companies, namely Hirdaramani Apparel Holdings Ltd., Hirdaramani Investment Holdings Ltd., and Hirdaramani Leisure Holdings Ltd. He is also the Managing Director for Hirdaramani International Exports Ltd., and the Managing Director of the Apparel Sector Executive Committee.
+
+Pathirana serves as a Non-Executive Director of several listed entities, namely WindForce PLC, Hemas Holdings PLC, BPPL Holdings PLC, Dankotuwa Porcelain PLC, Odel PLC, and Ceylon Hotels Corporation PLC.
+
+Pathirana is a Fellow Member of the Chartered Institute of Management Accountants, UK (FCMA – UK) and holds a Bachelor of Commerce degree from the University of Sri Jayewardenepura.
+
+◼️
+
+[Data](articles/48450abf.json)
+
+---
+
+### Sampath IT partners with Cargills Bank, marking milestone in their banking history
+
+*2025-01-03 06:23:51* · [`dailyftlk`](https://www.ft.lk/business/Sampath-IT-partners-with-Cargills-Bank-marking-milestone-in-their-banking-history/34-771339) · `en`
+
+From left: Sampath IT Manager – Risk and Compliance Rashini Kulasekara, Assistant Manager – Public Relations Olindi Kiriella, Senior Manager – Software Solutions Gayani Randeniya, CEO Mangala Rodrigo, Cargills Bank Managing Director/CEO Senarath Bandara, CIO Indika Fernando, Assistant General Manager – Retail and SME Business Lasantha Mahendrarajah, Assistant General Manager – Legal Sajeewanie Solangaarachchi, Manager – IT Chulanga Wellawa
+
+Cargills Bank has partnered with Sampath Information Technology Solutions (SITS) to introduce gold loans and pawning services for the first time in its history. This collaboration, powered by SITS’s flagship product, Prime, marks a significant milestone in enhancing financial accessibility and driving business growth through innovative technology.
+
+...
+
+[Data](articles/3bfdb4c0.json)
+
+---
+
+### CEAT team meets EDB Chairman to discuss trade expansion opportunities in Sri Lanka
+
+*2025-01-03 06:21:29* · [`dailyftlk`](https://www.ft.lk/business/CEAT-team-meets-EDB-Chairman-to-discuss-trade-expansion-opportunities-in-Sri-Lanka/34-771338) · `en`
+
+A delegation from CEAT, an RPG India company, led by Managing Director and CEO Arnab Banerjee, met with Sri Lanka Export Development Board (EDB) Chairman and CEO Mangala Wijesinghe recently at the EDB Head Office in Colombo.
+
+During the meeting, Banerjee provided an overview of RPG’s operations across various sectors, including agriculture, engineering, and rubber. The delegation expressed interest in expanding CEAT’s presence in Sri Lanka by diversifying its product portfolio in the rubber sector. Highlighting the company’s recent acquisition, Banerjee elaborated on the CAMSO brand, which is produced in Sri Lanka under RPG’s ownership.
+
+Congratulating the team on their expansion initiatives, Mangala Wijesinghe underscored additional investment opportunities in Sri Lanka, particularly in sectors such as pharmaceuticals, ICT, agriculture, and logistics.
+
+...
+
+[Data](articles/3e3f1b56.json)
+
+---
+
+### Nimal announces exit from NGage Strategic Alliance, entrusting legacy to Sheron
+
+*2025-01-03 06:20:35* · [`dailyftlk`](https://www.ft.lk/business/Nimal-announces-exit-from-NGage-Strategic-Alliance-entrusting-legacy-to-Sheron/34-771337) · `en`
+
+Nimal Gunewardena, the visionary founder of Sri Lanka’s pioneering Integrated Marketing Communications (IMC) and Public Relations (PR) agency, yesterday announced his exit from the agency he founded in 1993, now rebranded as NGage Strategic Alliance (formerly Bates Strategic Alliance).
+
+In a strategic move to ensure continuity and growth, Gunewardena has transferred his equity in the business to the current CEO, Sheron Jayasundara, entrusting her with the mantle to carry forward the agency’s distinguished legacy for the benefit of its talented team and valued clients.
+
+...
+
+[Data](articles/77f3c6aa.json)
+
+---
+
+### Multi-stakeholder SME development workshop in Central Province
+
+*2025-01-03 06:19:32* · [`dailyftlk`](https://www.ft.lk/business/Multi-stakeholder-SME-development-workshop-in-Central-Province/34-771336) · `en`
+
+National Chamber of Commerce, Pan Asia Bank and Central Province Chamber of Entrepreneurs in collaborative effort for entrepreneur empowerment
+
+The National Chamber of Commerce of Sri Lanka (NCCSL), Pan Asia Bank, and the Central Province Chamber of Entrepreneurs joined hands to conduct a full-day SME development workshop on 19 December 2024. The event was held at the Auditorium of the Central Province Chamber of Entrepreneurs, attracting a large audience of Micro, Small, and Medium Enterprise (MSME) sector entrepreneurs from Kandy, Matale, Nuwara Eliya, and nearby regions.
+
+The workshop aimed to equip entrepreneurs with critical skills and knowledge to enhance their business operations. The program featured four focused impactful sessions for upskilling the MSMEs:
+
+Financial literacy and banking requirements – Strengthening financial management and understanding banking processes
+
+...
+
+[Data](articles/1a5fc852.json)
+
+---
+
+### MMBL-Pathfinder presents long-service awards
+
+*2025-01-03 06:18:14* · [`dailyftlk`](https://www.ft.lk/business/MMBL-Pathfinder-presents-long-service-awards/34-771335) · `en`
+
+The MMBL-Pathfinder Group began work for the New Year 2025 at Group Headquarters in Peliyagoda by conducting its annual service awards to staff members who have served a long period.
+
+L. Lalith (30 years) Sunil Wijesinghe (25 years) were awarded by the management. T. A. B. Gunasekara and K. N. J. K. Perera were also awarded for 15 years of service. R. P. Prasanna and A. Pathmasiri Peiris both are over 10 years’ members of MMBL-Pathfinder family.
+
+Founder Milinda Moragoda, Jennifer Moragoda, CEO MMBL-PF, K. Balasundram, Pathfinder Foundation Chairman Bernard Goonetilleke and Director Admin Upul Pushpakumara presented mementos to these staff members recognising their long service.
+
+◼️
+
+[Data](articles/707f1e90.json)
+
+---
+
+### Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation
+
+*2025-01-03 06:16:26* · [`dailyftlk`](https://www.ft.lk/columns/Unintentional-setbacks-How-bureaucracies-can-contribute-to-policy-failures-during-implementation/4-771334) · `en`
+
+Without employing effective negotiations, the act of passing blame between policymakers and implementers will only exacerbate these games
+
+Not surprisingly, civilians place a lot of faith in the government to improve their living conditions. These expectations encompass multiple aspects, ranging from basic needs to more luxurious desires for a better life. Governments have, of course, played a major role in the development journeys of countries that have already achieved advanced economic status, and that role will be critical for economies aiming to follow their path. We often hear grand promises from politicians on stages and various political platforms. These promises are often well-articulated and compelling enough to create visions of a luxurious future in the minds of voters. Unfortunately, the pleasure of most of such dreams is, in most circumstances, limited to the imagination.
+
+...
+
+[Data](articles/94ed0e9b.json)
+
+---
+
+### Do they know it’s Christmas?
+
+*2025-01-03 06:11:52* · [`dailyftlk`](https://www.ft.lk/columns/Do-they-know-it-s-Christmas/4-771333) · `en`
+
+The UK’s Daily Telegraph offered its selection of the best Christmas images from around the world. There was Cookie, a cockapoo running around Peterborough dressed as doggie Santa, and from New York City, the Radio City Rockettes dressed as toy soldiers in their Christmas spectacle. Santa was everywhere, surfing in Sydney, on the International Space station and dancing in Nairobi.
+
+It’s a holiday and a lot of people are having fun today. Fun and laughter are a good thing – they reduce stress and increase serotonin levels; that’s really good for our health. I hate to be a killjoy, but there is a startling absurdity in all this. Just a couple of years ago in 2022, we were reeling in the aftermath of a pandemic. COVID dramatically exposed the fragility of civilisation. Remember when our panic at the power of a coronavirus one billionth of a metre in size induced fear at the prospect of touching someone? When 100 human corpses were found rotting in U-Haul trucks in New York?
+
+...
+
+[Data](articles/3baaa480.json)
+
+---
+
+### Psychological toll of online child sexual abuse: Call for rights-based approaches
+
+*2025-01-03 06:07:31* · [`dailyftlk`](https://www.ft.lk/columns/Psychological-toll-of-online-child-sexual-abuse-Call-for-rights-based-approaches/4-771331) · `en`
+
+Dr. Najat Maalla M’jid in conversation with WeProtect Global Alliance Executive Director Iain Drennan
+
+Dr. Najat Maalla M’jid, the United Nations Special Representative of the Secretary-General on Violence Against Children, recently highlighted a crucial, yet often overlooked issue: the psychological toll of online child sexual abuse (OCSA). Speaking at the Global Summit 2024 in Abu Dhabi, Dr. Maalla M’jid emphasised that while child protection efforts predominantly focus on physical safety and legal measures, the emotional and psychological consequences of online abuse are equally profound, often lingering long after the abuse itself.
+
+She called for a comprehensive approach that addresses both the prevention of harm and the mental health of survivors. This call for action challenges us to prioritise psychological support alongside protective measures.
+
+...
+
+[Data](articles/539dc1b3.json)
+
+---
 
 ### For a working people’s Budget in 2025
 
@@ -231,6 +423,24 @@ Investigators found guns and what appeared to be an improvised explosive device 
 ◼️
 
 [Data](articles/760befce.json)
+
+---
+
+### விபத்தில் பெண் உயிரிழப்பு
+
+*2025-01-03 03:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பெண்-உயிரிழப்பு/175-349689) · `ta`
+
+கிளிநொச்சியில் இடம்பெற்ற டிப்பர் - மோட்டார் சைக்கிள் விபத்தில் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த இளம் குடும்பப் பெண் நேற்று (02) உயிரிழந்துள்ளார்.
+
+அன்னை இல்ல வீதி, கனகாம்பிகைக்குளம் பகுதியைச் சேர்ந்த கஜன் சாளினி (வயது 34) என்ற இளம் குடும்பப் பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்.
+
+கடந்த நத்தார் தினத்தன்று கிளிநொச்சி வலயக் கல்வி அலுவலகத்துக்கு அண்மையில் இடம்பெற்ற விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த கணவன், மனைவி மற்றும் இரண்டு பிள்ளைகள் என நால்வர் படுகாயமடைந்தனர். பின்னர் அவர்களைச் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதித்த வேளை இரண்டு வயது குழந்தை உயிரிழந்தது.
+
+இந்நிலையில் கணவனும், மனைவியும், ஒரு பிள்ளையும் தொடர்ந்து சிகிச்சை பெற்று வந்தனர். மேலதிக சிகிச்சைக்காக மனைவி யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார். அவர் அங்கு சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி நேற்று உயிரிழந்தார். (a)
+
+◼️
+
+[Data](articles/3f6eb453.json)
 
 ---
 
@@ -1545,255 +1755,5 @@ Additionally, the day has witnessed an exceptional transaction turnover of over 
 ...
 
 [Data](articles/e749d542.json)
-
----
-
-### Sri Lanka clears ‘suspicious’ drone found in seas off Trinco, prepares for return
-
-*2025-01-02 15:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104673/sri-lanka-clears-suspicious-drone-found-in-seas-off-trinco-prepares-for-return-) · `en`
-
-A jet-powered target drone found by local fishermen in the sea area off Trincomalee has been confirmed to pose no threat to the country’s security.
-
-This was confirmed as per the final report submitted by the committee appointed to investigate the matter.
-
-The report, which has been handed over to the Sri Lanka Air Force (SLAF) Commander, outlines the findings while clearing any concerns regarding the drone’s presence.
-
-The investigation revealed that the drone, which was discovered by a group of fishermen on December 27, belongs to an Indian company and was being used for training purposes.
-
-The report further confirms that the drone had been adrift at sea for nearly two weeks before being located.
-
-It has also emphasized that the incident does not have any impact on Sri Lanka’s security and poses no risk to the country.
-
-Accordingly, the drone will be handed over to the relevant company, according to SLAF sources.
-
-◼️
-
-[Data](articles/036689b4.json)
-
----
-
-### யாழில் முச்சக்கரவண்டியில் சாகசம் புரிந்து, வன்முறையில் ஈடுபட்ட மூவர் கைது !
-
-*2025-01-02 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202786) · `ta`
-
-யாழ். நகர் பகுதியில் இரவு வேளை முச்சக்கரவண்டியில் சாகசம் புரிந்து, வன்முறையில் ஈடுபட்ட குற்றச்சாட்டில் மூன்று இளைஞர்கள் பொலிஸாரால் கைது செய்யப்பட்டதுடன் இரண்டு முச்சக்கரவண்டிகளும் கைப்பற்றப்பட்டுள்ளன.
-
-அரியாலை மற்றும் பொம்மைவெளி பகுதியை சேர்ந்த மூவர் யாழ். பொலிஸ் புலனாய்வு பிரிவினரால் இன்று வியாழக்கிழமை (02) கைது செய்யப்பட்டனர்.
-
-யாழ் நகரில் புத்தாண்டுக்காக செவ்வாய்க்கிழமை (31) இரவு வேளை ஒன்றுகூடிய இளைஞர்கள் குழுவினர் முச்சக்கரவண்டியில் சாகசம் காட்டியதுடன் இளைஞர் ஒருவரை கடுமையாக தாக்கியுள்ளனர்.
-
-இது தொடர்பான காணொளி சமூக வலைத்தளங்களில் பரவிய நிலையில்  சம்பவம் தொடர்பில் சம்பந்தப்பட்டவர்கள் மீது உடன் நடவடிக்கை எடுக்கக்கோரி பல்வேறு தரப்பில் இருந்தும் அழுத்தங்கள் ஏற்பட்டதையடுத்து, குறித்த காணொளியை அடிப்படையாக கொண்டு யாழ்ப்பாணம் பொலிஸ் புலனாய்வு பிரிவினர் முன்னெடுத்த விசாரணையின் போது அடையாளம் காணப்பட்டவர்கள் கைது செய்யப்பட்டனர்.
-
-...
-
-[Data](articles/b22979e0.json)
-
----
-
-### ආණ්ඩුව පත්වී දින 100කින් අසාර්ථකම ආණ්ඩුව වෙලා
-
-*2025-01-02 15:00:48* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-පත්වී-දින-100කින්-අසාර්ථකම-ආණ්ඩුව-වෙලා/11-413982) · `si`
-
-වත්මන් ආණ්ඩුවට සහ ජනාධිපතිවරයා බලයට පත්ව දින 100ක් සම්පූර්ණ කර ඇති බවත්, එම දින 100 තුළ අසාර්ථකම රජය ලෙස ජනතාව මෙම රජය දැකීමට පටන් ගෙන ඇති බවත්, සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී, විපක්ෂයේ ප්‍රධාන සංවිධායක ගයන්ත කරුණාතිලක මහතා පැවසීය.
-
-සමගි ජන බලවේගයේ ප්‍රධාන කාර්යාලයේ අද (02දා) පැවති මාධ්‍ය හමුවට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
-
-“මේ වන විට ආණ්ඩුව, ජනාධිපතිවරයා දින 100ක් සම්පූර්ණ කරලා තියෙනවා. දින 100ක් ඇතුළත අසාර්ථකම රජය හැටියට මේ රජය අද ජනතාව දකින්න පටන් අරන් තිබෙනවා. එක පැත්තකින් 24 පැයෙන්, එක පෑන් පහරින් කඩිනමින් ජනතාවට සහන දෙන හැටි තමයි මැතිවරණ වේදිකාවල දිගින් දිගටම පැවසුවේ. ජනතාව පිට පටවා තිබෙන අසාධාරණ බදු ඉවත් කරන හැටි දිගටම කතා කළා. තෙල් මිල අසීමිතව අඩු කරන හැටි විස්තරාත්මකව පැහැදිලි කරමින් කතා කළා.
-
-...
-
-[Data](articles/c37280a0.json)
-
----
-
-### ரணில் - கே.பி ஷர்மா ஒலி சந்திப்பு
-
-*2025-01-02 14:59:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-கே-பி-ஷர்மா-ஒலி-சந்திப்பு/175-349674) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் நேபாள நாட்டின்  பிரதமர்  கே.பி ஷர்மா ஒலி இடையிலான சந்திப்பு நேபாளின் காத்மாண்டுவில் வியாழக்கிழமை (02)  இடம்பெற்றது.
-
-◼️
-
-[Data](articles/9e7cdd2f.json)
-
----
-
-### Labour Ministry introduces WhatsApp number to streamline services
-
-*2025-01-02 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104672/labour-ministry-introduces-whatsapp-number-to-streamlineservices) · `en`
-
-The Ministry of Labor has introduced a new WhatsApp number, 070 7227877, to speed up the responses by the Ministry of Labour and the Labour Department to the issues faced by State and private sector employees.
-
-This initiative aims to streamline services and enable the public to submit their requests easily, while enhancing the efficiency and to facilitate public communication.
-
-The Ministry expects both the Ministry of Labour and the Department of Labour to provide prompt relief and interventions in response to employee needs.
-
-Additionally, the Ministry stated that this WhatsApp number is intended to address service-related issues faced by private and semi-government employees promptly.
-
-◼️
-
-[Data](articles/d10738b8.json)
-
----
-
-### தேர்தல்களில் ‘கை’ சின்னத்தில் சு.க. குதிக்கும்
-
-*2025-01-02 14:51:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களில்-கை-சின்னத்தில்-சு-க-குதிக்கும்/175-349672) · `ta`
-
-உள்ளூராட்சி மற்றும் மாகாண சபைத் தேர்தல்கள் உட்பட எதிர்வரும் தேர்தல்களில் ஸ்ரீலங்கா சுதந்திரக் கட்சி ‘கதிரை’ சின்னத்தில் போட்டியிடும் என ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பொதுச் செயலாளர் துமிந்த திஸாநாயக்க  தெரிவித்துள்ளார்.
-
-2025 ஆம் ஆண்டு தேர்தல் ஆண்டாக இருக்கும் எனவும், ஸ்ரீலங்கா சுதந்திரக் கட்சியுடன் கைகோர்க்குமாறு இடதுசாரி குழுக்களுக்கு அழைப்பு விடுத்துள்ளதாகவும் அவர் புத்தாண்டுக்கான பணிகளை ஆரம்பித்த பின்னர் ஊடகங்களுக்கு தெரிவித்தார்.
-
-ஸ்ரீலங்கா சுதந்திரக் கட்சிக்குள் ஏற்பட்டுள்ள பல்வேறு முரண்பாடுகளை சுமுகமாக தீர்த்து கட்சியை பலப்படுத்தும் வகையில் புதிய பயணத்தை புத்தாண்டில் ஆரம்பிக்கவுள்ளதாக கட்சியின் தலைவர் நிமல் சிறிபால டி சில்வா தெரிவித்துள்ளார்.
-
-ஸ்ரீலங்கா சுதந்திரக் கட்சியை வலுப்படுத்த விசேட வேலைத்திட்டமொன்றை முன்னெடுக்க திட்டமிட்டுள்ளதாகவும், பல்வேறு காரணங்களால் அரசியலில் இருந்து விலகிய அல்லது வேறு கட்சிகளில் இணைந்துள்ள அனைத்து ஸ்ரீலங்கா சுதந்திரக் கட்சியினரையும் இந்த முயற்சியில் கட்சியுடன் கைகோர்க்குமாறு அழைப்பு விடுப்பதாகவும் அவர் கூறினார்.
-
-◼️
-
-[Data](articles/15e1c5c2.json)
-
----
-
-### පෞද්ගලික හා අර්ධ රාජ්‍ය සේවකයන්ගේ සේවා කඩිනමින් ඉටු කර දීමට අංකයක්
-
-*2025-01-02 14:46:43* · [`adalk`](https://www.ada.lk/breaking_news/පෞද්ගලික-හා-අර්ධ-රාජ්‍ය-සේවකයන්ගේ-සේවා-කඩිනමින්-ඉටු-කර-දීමට-අංකයක්/11-413981) · `si`
-
-පෞද්ගලික හා අර්ධ රාජ්‍ය අංශයේ සේවකයන්ගේ සේවාවන් කඩිනමින් ඉටුකර දීම  සඳහා වට්ස්ඇප් අංකයක් හඳුන්වා දී තිබෙන බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා සඳහන් කරයි.
-
-මේ අනුව 0707227877 යන අංකයට ජනතාව ඉදිරිපත් කරන තොරතුරු ඇතුළත් ලිපි යොමු කළ හැකි බවද පෙන්වා දෙයි.
-
-කම්කරු දෙපාර්තමේන්තුවේ ප්‍රධාන අරමුණ වී තිබෙන්නේ කාර්මික සාමය පවත්වාගෙන යාම හා එය තවදුරටත් ශක්තිමත් කිරීමත්, පෞද්ගලික හා අර්ධ රාජ්‍ය අංශයේ සේවකයන්ගේ සේවා ගැටලුවට කඩිනමින් සහන සැලසීමත් බවද  පෙන්වා දෙයි.
-
-මේ අනුව මහජනතාවගේ කාලය කළමනාකරණය කර ගැනීමේ පහසුව සඳහා හා කඩිනමින් ප්‍රතිචාර දැක්වීම වර්ධනය කිරීමටත්, නිලධාරීන්ගේ කාලය කළමනාකරණය ගැනීමේ පහසුව සඳහාත් මෙම අංකය හඳුන්වා දී තිබෙන බවද මහින්ද ජයසිංහ මහතා සඳහන් කරයි.
-
-◼️
-
-[Data](articles/5463a811.json)
-
----
-
-### மாற்றுத்திறனாளிகளின் உரிமைகள் மறுக்கப்படுகிறது - யாழ்ப்பாணம் பிராந்திய இணைப்பாளர் தெரிவிப்பு!
-
-*2025-01-02 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202780) · `ta`
-
-இலங்கை அரசியலமைப்பு மற்றும் சுற்றுநிருபங்களில் மாற்றுத்திறனாளிகளுக்கான உரிமைகள் வழங்கப்பட்ட போதிலும் நடைமுறையில் அது மறுக்கப்படுவதாக இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணம் பிராந்திய இணைப்பாளர் ரி. கனகராஜ் தெரிவித்தார்.
-
-அண்மையில், சர்வதேச மனித உரிமைகள் தினத்தை முன்னிட்டு இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணம் பிராந்திய அலுவலகத்தினால் ஏற்பாடு செய்யப்பட்ட நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-இலங்கை மனித உரிமைகள் ஆணைக்குழு மனித உரிமைகளை பாதுகாக்கும் முகமாக உரிமைகளை இழக்கும் விளிம்பில் உள்ளவர்களுக்கு உதவிக்கரம் நீட்டி வருகிறது.
-
-அந்தவகையில்  இலங்கை மனித உரிமைகள் ஆணைக்குழு சர்வதேச மனித உரிமைகள் தினத்தை முன்னிட்டு இலங்கையில் மாற்றுத்திறனாளிகளின் உரிமைகளை பாதுகாக்கும் பொருட்டு விசேட வேலைத் திட்டத்தினை ஆரம்பித்துள்ளது.
-
-மாற்றுத்திறனாளிகள் கல்வி கற்பதிலிருந்து தொழில் வாய்ப்பினை பெற்றுக் கொள்வது வரை அவர்களுக்கான ஏற்பாடுகள் அரசியலமைப்பு மற்றும் சுற்றறிக்கைகள் மூலம் வழங்கப்பட்டும் அவர்கள் நடைமுறையில் பல்வேறு பிரச்சனைகளை எதிர் நோக்குகின்றனர்.
-
-...
-
-[Data](articles/06339894.json)
-
----
-
-### பாலத்தின் அடியில் இருந்து இரண்டு சடலங்கள் மீட்பு
-
-*2025-01-02 14:42:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலத்தின்-அடியில்-இருந்து-இரண்டு-சடலங்கள்-மீட்பு/175-349671) · `ta`
-
-கிளிநொச்சி. பரந்தன் முல்லைத்தீவு ஏ- 35 வீதியில் அமைந்துள்ள புளியம்பொக்கணை 10ஆம் கட்டை பாலத்திற்கு அடியில் இருந்து  இரு ஆண்களின் சடலங்கள்  மீட்கப்பட்டுள்ளன. அத்துடன் அவர்கள் பயணித்த மோட்டார் சைக்கிள் ஒன்றும் மீட்கப்பட்டுள்ளது
-
-இவ்வாறு  மீட்கப்பட்ட இரண்டு சடலங்களையும் மீட்கப்பட்ட  இடத்திற்கு சென்ற  கிளிநொச்சி மாவட்ட நீதிமன்ற நீதவான்  ஸ்மாத் ஜெமில்
-
-அத்துடன் அவர்கள் பயணித்த மோட்டார் சைக்கிளும் இறந்தவர்களிடமிருந்து 71, 100ஆயிரத்து நூறு ரூபாய் பணமும்  பொலிஸாரால் மீட்கப்பட்டுள்ளது.
-
-திருகோணமலை நோக்கி பயணித்த  மோட்டார் சைக்கிள் புனரமைப்பு பணிகள் இடைநிறுத்தப்பட்ட பாலத்தின் உட்பகுதியில் விழுந்ததன் காரணமாக இருவரும் உயிரிழந்திருக்கலாம்  என நம்பப்படுகிறது. இச் சம்பவம் தொடர்பில் தருமபுரம்  பொலிஸார் விசாரணைகளை  மேற்கொண்டு வருகின்றனர்
-
-ஜெய்க்கா வீட்டுத்திட்டம் இக்பால் நகர் நிலாவளி பகுதியைச் சேர்ந்த அன்ரன் சாந்தன் (23 வயது) அதே பகுதியைச் சேர்ந்த சசிகரன் சிம்புரதன் (வயது 21)  ஆகிய  இருவரின் சடலங்களே மீட்கப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/ed2443b4.json)
-
----
-
-### සේවකයන්ගේ ගැටලු කියන්න WhatsApp අංකයක්
-
-*2025-01-02 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204966) · `si`
-
-කඩිනමින් ප්‍රතිචාර දැක්වීම සඳහා කම්කරු අමාත්‍යාංශයෙන් නව WhatsApp අංකයක් හඳුන්වා දී තිබේ.
-
-තම සේවාවන් කාර්යක්ෂම කිරීමේ අරමුණින් සහ මහජනතාවට ද ඔවුන්ගේ ඉල්ලීම් ඉදිරිපත් කිරීම සඳහා  0707 22 78 77 යන මෙම නව whatsApp අංකය හඳුන්වා දුන් බව කම්කරු අමාත්‍යාංශය පවසයි.
-
-කම්කරු අමාත්‍යංශය සහ කම්කරු දෙපාර්තමේන්තුව මගින් ජනතාව අපේක්ෂා කරනු ලබන සහන සහ මැදිහත්වීම් කඩිනමින් සිදුකිරීම මෙමගින් අපේක්ෂා කෙරේ.
-
-එමෙන්ම පෞද්ගලික සහ අර්ධ රාජ්‍ය සේවකයන්ගේ සේවා ගැටලු සඳහා කඩිනමින් ප්‍රතිචාර දැක්වීමත් මෙම නව whatsApp අංකය හඳුන්වා දීමේ තවත් එක් අරමුණක් බව කම්කරු අමාත්‍යාංශය  නිකුත් කළ නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/8aa8bd46.json)
-
----
-
-### Former president Ranil meets Nepal’s prime minister
-
-*2025-01-02 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104671/former-president-ranil-meets-nepals-prime-minister) · `en`
-
-Nepalese Prime Minister KP Sharma Oli and former President of Sri Lanka, Ranil Wickremesinghe, held a meeting today at the Prime Minister’s official residence in Baluwatar, Kathmandu.
-
-During the meeting, they discussed matters concerning Nepal-Sri Lanka bilateral relations and mutual interests, foreign media reported.
-
-According to the Nepalese Prime Minister’s Secretariat, House of Representatives (HoR) member and industrialist Binod Chaudhary was also present.
-
-Wickremesinghe, a long-time friend of Prime Minister Oli, arrived in Nepal on December 28 for a private visit and is returning to Sri Lanka today, the report said.
-
-Wickremesinghe, who has served as the Prime Minister of Sri Lanka, arrived in Nepal on December 28, 2024, and his visit comes as part of his continued diplomatic and personal ties with Nepal.
-
-The discussions are expected to further enhance the cooperation and friendship between the two nations.
-
-◼️
-
-[Data](articles/3771c4a7.json)
-
----
-
-### Sri Lanka’s Hunas Holdings divests subsidiary Rainforest Tea Factory
-
-*2025-01-02 14:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-hunas-holdings-divests-subsidiary-rainforest-tea-factory-197557/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hunas Holdings said it has sold its subsidiary Rainforest Tea Factory (Pvt) Ltd for 1.215 billion rupees.
-
-This consists approximately 256 million rupees in cash proceeds and the transfer of approximately 960 million rupees in associated debt liabilities, the company said in a stock exchange filing.
-
-“The disposal of Rainforest Tea Factory (Pvt) Ltd represents a strategic milestone in the company’s focused expansion into the thriving leisure sector.”
-
-The divestment will enable a financial restructuring “that will strengthen the group’s balance sheet enhancing its financial resilience”.
-
-The shares of Rainforest Tea Factory (Pvt) Ltd were sold to Nanayakkara Appuge Udayanga Ranmal, (80 percent) and Rupasinghe Arachchige Nelka Rupasinghe (10 percent).
-
-The company said the transaction will sharpen its focus on core growth areas, optimize resource allocation, and position the business for sustained value creation.
-
-...
-
-[Data](articles/d848cb4e.json)
-
----
-
-### Police enforce law against over 5,400 traffic offenders in 24 hours
-
-*2025-01-02 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104670/police-enforce-law-against-over-5400-traffic-offenders-in-24-hours) · `en`
-
-Sri Lanka Police have taken legal action against a total of 509 individuals for driving under the influence of alcohol, within the 24-hour period ending at 6 a.m. today (January 2).
-
-This enforcement was part of a special operation conducted from 6 a.m. yesterday (Jan.01) to 6 a.m. today (Jan. 02).
-
-During the same period, legal action was also taken against:
-
-In total, the police have enforced the law against 5,415 drivers for various traffic violations within the 24-hour timeframe.
-
-Sri Lanka Police continues to appeal to the public to refrain from driving under the influence of alcohol and adhere strictly to traffic laws.
-
-This special traffic operation, initiated on December 23, 2024, under the instructions of the Acting Inspector General of Police, aims to reduce road accidents during the festive season.
-
-◼️
-
-[Data](articles/1a051d3d.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 17:12:57**
+As of **2025-01-03 17:27:47**
 
 ## Newspaper Stats
 
@@ -892,13 +892,13 @@ The appointment has been made by former President and UNP leader Ranil Wickremes
 
 ---
 
-### Dr Lasantha Karunasekara appointed CEO of Sri Lanka’s Durdans hospital
+### Lasantha Karunasekara appointed CEO of Sri Lanka’s Durdans hospital
 
 *2025-01-03 11:07:00* · [`economynextcom`](https://economynext.com/dr-lasantha-karunasekara-appointed-ceo-of-sri-lankas-durdans-hospital-197758/) · `en`
 
-ECONOMYNEXT – Dr Lasantha Karunasekara has been appointed chief executive officer of Ceylon Hospitals PLC, as well as Durdans Medical and Surgical Hospital (Pvt) Ltd, effective January 1, the company said.
+ECONOMYNEXT – Lasantha Karunasekara has been appointed chief executive officer of Ceylon Hospitals PLC, as well as Durdans Medical and Surgical Hospital (Pvt) Ltd, effective January 1, the company said.
 
-Dr Karunasekara has a professional career spanning over 22 years with over a decade of C-suite experience, the company said in a stock exchange filing.
+Karunasekara has a professional career spanning over 22 years with over a decade of C-suite experience, the company said in a stock exchange filing.
 
 He was previously Deputy CEO/Director Medical Services of Lanka Hospitals PLC.
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 16:43:25**
+As of **2025-01-03 17:00:58**
 
 ## Newspaper Stats
 
-*Scraped **63,498** Articles*
+*Scraped **63,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,068
-adaderanalk | 7,764
+adaderanalk | 7,768
 tamilmirrorlk | 9,101
-virakesarilk | 10,581
+virakesarilk | 10,583
 adaderanasinhalalk | 10,964
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,498 articles have been extended.
+61,971 (97.6%) of 63,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### கிளிநொச்சியில் தொடரும் தமிழ் அரசியல் கைதிகளை விடுவிக்குமாறு கோரிய  கையெழுத்து போராட்டம்
+
+*2025-01-03 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202899) · `ta`
+
+நீண்டகாலமாக சிறையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி கிளிநொச்சி நகரில் பொதுச் சந்தைக்கு அருகில் கையெழுத்து போராட்டம்  ஒன்று இன்று வெள்ளிக்கிழமை (03) ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+போராளிகள் நலன்புரி சங்கத்தின் ஏற்பாட்டில் கிளிநொச்சி  நகரில்  பொதுச் சந்தைக்கு அருகில் குறித்த  கையெழுத்துப் போராட்டம்  மேற்கொள்ள தயாரான போது அங்குவந்த கிளிநொச்சி போக்குவரத்து பொலிஸார் ஒலிபெருக்கி அனுமதி பெற்று குறித்த கையெழுத்து போராட்டத்தை மேற்கொள்ளுமாறு தெரிவித்து போராட்டத்தை தடுத்து  நிறுத்தினர்.
+
+...
+
+[Data](articles/fc094d09.json)
+
+---
+
+### ஜனாதிபதியின் சீன விஜயத்துக்கான தயார்படுத்தல் குறித்து சபாநாயகருக்கு தெளிவுபடுத்திய சீனத் தூதுவர்
+
+*2025-01-03 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202895) · `ta`
+
+இலங்கைக்கான சீனத் தூதுவர் கீ சென்ஹொங் மற்றும்  சபாநாயகர் வைத்திய கலாநிதி ஜகத் விக்ரமரத்னவுக்குமிடையிலான சந்திப்பு புதன்கிழமை (01) பாராளுமன்றத்தில் இடம்பெற்றது.
+
+இதன்போது சீன தேசிய மக்கள் காங்கிரசின் நிலைக்குழுவின் தலைவர் ஸாவோ லெஜிவின் (Zhao Leji) வாழ்த்துக் கடிதத்தை சீனத் தூதுவர் புதிய சபாநாயகரிடம் கையளித்தார்.
+
+சீனத் தூதுவர் புதுவருட வாழ்த்துக்களை தெரிவித்ததுடன் இரு நாடுகளுக்கும் இடையிலான நீண்டகால ஒத்துழைப்பை சுட்டிக்காட்டியதுடன் எதிர்காலத்தில், குறிப்பாக பரிமாற்றத் நிகழ்ச்சித் திட்டங்கள் மூலம் இரண்டு சட்டவாக்க நிறுவனங்களுக்கும் இடையேயான உறவுகளை வலுப்படுத்துவதன் முக்கியத்துவத்தையும் வலியுறுத்தியுள்ளார்.
+
+பொலன்னறுவையில் உள்ள சீன – இலங்கை நட்புறவு தேசிய சிறுநீரகவியல் சிறப்பு  வைத்தியசாலையின் பிரதி பணிப்பாளராக தனது முன் அனுபவத்தைப் பகிர்ந்துகொண்ட சபாநாயகர் வைத்தியகலாநிதி ஜகத் விக்ரமரத்ன,
+
+...
+
+[Data](articles/56b06e15.json)
+
+---
 
 ### දකුණු කොරියාවේ වෙළෙඳ ගොඩනැගිල්ලක දරුණු ගින්නක්
 
@@ -107,6 +139,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ce03de7f.json)
+
+---
+
+### Acting IGP orders special traffic operations in every police division
+
+*2025-01-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104699/acting-igp-orders-special-traffic-operations-in-every-police-division) · `en`
+
+Acting Inspector General of Police (IGP), Priyantha Weerasooriya, has directed all police stations to initiate special traffic operations across every police division, effective from yesterday (2) and continuing until further notice, to enhance traffic control and ensure road safety while protecting lives on the roads.
+
+This initiative is part of the broader ‘Clean Sri Lanka’ project, implemented under the new government’s policy, ‘A Thriving Nation - A Beautiful Life.’
+
+The directive emphasizes particular attention to vehicles with various horns, additional flashing lights of different colors, illegal modifications, loud horns, loud silencers, and additional parts that could contribute to accidents and road hazards.
+
+As part of the operation, it has been instructed that two traffic operations are to be conducted within each police division for three hours daily.
+
+...
+
+[Data](articles/c64a1ed0.json)
 
 ---
 
@@ -218,6 +268,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Badulla sees uptick in dog bites with nearly 6,700 cases in 2024
+
+*2025-01-03 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104698/badulla-sees-uptick-in-dog-bites-with-nearly-6700-cases-in-2024) · `en`
+
+Hospital records indicate that nearly 6,700 individuals were treated for dog bites at the Badulla Teaching Hospital within last year.
+
+Hospital authorities point out that foreign tourists are also among those frequently affected by such attacks, while a significant number of the victims being young children.
+
+Dr. Palitha Rajapaksa of the Emergency Treatment Unit at the Badulla Teaching Hospital, commenting on this matter, stated, “The situation has worsened due to bites from dogs and cats that have not been vaccinated for rabies and are kept as pets at homes. On average, around 25,000 to 30,000 individuals reportedly seek human rabies vaccines from across the Uva Province.”
+
+In addition to this, hospital records also reveal that foreign tourists, particularly those bitten by toque macaque monkeys and dogs in the Ella area, have also sought medical treatment at the Badulla Teaching Hospital.
+
+...
+
+[Data](articles/6e1ccd93.json)
+
+---
+
 ### ලාෆ්ස් ගෑස් මිල සංශෝධනය ගැන දැනුම්දීමක්
 
 *2025-01-03 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204995) · `si`
@@ -277,6 +345,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/644c9901.json)
+
+---
+
+### Sri Lanka on alert over new virus outbreak in China
+
+*2025-01-03 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104697/sri-lanka-on-alert-over-new-virus-outbreak-in-china) · `en`
+
+The Epidemiology Unit of the Ministry of Health in Sri Lanka has announced that it is closely monitoring the situation regarding a virus that is reportedly spreading in China.
+
+In a statement issued today (03), the unit confirmed that it had received information about the virus and emphasized that further details will be shared with the public after a thorough study and analysis of the situation.
+
+China is reportedly dealing with an outbreak of the human metapneumovirus (HMPV), five years after the Covid-19 pandemic.
+
+Reports and social media posts suggest that the virus is spreading rapidly, with some claiming that hospitals and crematories are overwhelmed.
+
+Videos shared online show crowded hospitals, with some users saying that multiple viruses, including influenza A, HMPV, Mycoplasma pneumoniae, and Covid-19, are circulating.
+
+HMPV is known to cause flu-like symptoms and can also present symptoms similar to Covid-19. Health officials are closely monitoring the situation as the virus spreads.
+
+◼️
+
+[Data](articles/22402e79.json)
 
 ---
 
@@ -411,6 +501,20 @@ Human metapneumovirus (HMPV) ලෙස පැවසෙන වෛරස තත්
 ◼️
 
 [Data](articles/5340a043.json)
+
+---
+
+### Yoshitha Rajapaksa leaves CID after recording statement
+
+*2025-01-03 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104696/yoshitha-rajapaksa-leaves-cid-after-recording-statement) · `en`
+
+Yoshitha Rajapaksa, the second son of former President Mahinda Rajapaksa, has left the Criminal Investigation Department (CID), a short while ago, after recording a statement for around two hours.
+
+Yoshitha Rajapaksa arrived at the CID at around 10.00 a.m. this morning (03) to provide a statement regarding the alleged ownership of a government-owned land in Kataragama.
+
+◼️
+
+[Data](articles/99a14f69.json)
 
 ---
 
@@ -1661,111 +1765,5 @@ The discussions are expected to further enhance the cooperation and friendship b
 ◼️
 
 [Data](articles/7d6669f5.json)
-
----
-
-### India grants Rs. 290 m to rehabilitate Karainagar Boatyard
-
-*2025-01-03 05:45:48* · [`dailyftlk`](https://www.ft.lk/news/India-grants-Rs-290-m-to-rehabilitate-Karainagar-Boatyard/56-771321) · `en`
-
-A Memorandum of Understanding (MoU) has been signed between India and Sri Lanka for rehabilitation of the Karainagar Boatyard in the Northern Province of Sri Lanka with grant assistance from the Government of India to the tune of Rs. 290 million.
-
-The MoU was signed and exchanged by High Commissioner of India to Sri Lanka Santosh Jha and the then High Commissioner of Sri Lanka to India Kshenuka Dhireni Senewiratne on 16 December 2024.
-
-...
-
-[Data](articles/6b64eb55.json)
-
----
-
-### 2025’s first Parliament sitting begins on 7 January
-
-*2025-01-03 05:44:17* · [`dailyftlk`](https://www.ft.lk/news/2025-s-first-Parliament-sitting-begins-on-7-January/56-771320) · `en`
-
-The first Parliament sittings for 2025 is scheduled for 7 and 10 January, according to Secretary-General of Parliament Kushani Rohanadeera.
-
-This decision was reached at the Committee on Parliamentary Business held recently under the Chairmanship of the Speaker, Dr. Jagath Wickramaratne.
-
-Accordingly, on Tuesday, 7 January, time has been allotted from 9:30 a.m. to 10:30 a.m. for Questions for Oral Answers. Subsequently, from 10:30 a.m. to 5:30 p.m., the Adjournment Debate on “Mid-Year Fiscal Position Report – 2024” by the Government has been scheduled as decided during the meeting held, the Secretary-General said.
-
-On Wednesday, 8 January, time has been allotted from 9:30 a.m. to 10:00 a.m., for Questions to be asked from the Prime Minister (4 questions). From 10:00 a.m. to 10:30 a.m., time has been allotted for 5 Questions for Oral Answers.
-
-...
-
-[Data](articles/0cb3a60b.json)
-
----
-
-### Mass shooting in New York nightclub leaves 11 people injured
-
-*2025-01-03 04:15:40* · [`dailyftlk`](https://www.ft.lk/news/Mass-shooting-in-New-York-nightclub-leaves-11-people-injured/56-771313) · `en`
-
-At least 10 people have been shot after multiple gunmen opened fire outside a nightclub in Queens, New York on Wednesday.
-
-According to reports, three to four gunmen opened fire on a group standing outside of Amazura Nightclub. The venue was hosting a private event at the time of the shooting. 90 people were in attendance at the event, and roughly 15 people were waiting to get inside.
-
-Roughly 90 people were inside, upstairs at a private venue. The venue was at capacity, and about 15 were waiting to get in.
-
-Authorities say 3-4 men who are believed to be in their mid-to-late-teens to early 20s, opened fire on the group standing outside the club. 30 shots were reportedly fired, and at least 10 people were hit.
-
-“There’s zero tolerance for these senseless shootings,” NYPD’s Chief of Transportation Philip Rivera, said at a press conference. “These horrible acts of violence on our streets, and those responsible for this crime, will be apprehended and brought to justice.”
-
-◼️
-
-[Data](articles/645749f2.json)
-
----
-
-### Vehicle attack on pedestrians in New Orleans kills 14
-
-*2025-01-03 04:14:51* · [`dailyftlk`](https://www.ft.lk/news/Vehicle-attack-on-pedestrians-in-New-Orleans-kills-14/56-771312) · `en`
-
-14 people were killed and dozens injured when a man plowed into a crowd on Bourbon Street in a pickup truck, in New Orleans’ bustling French Quarter district early on New Year’s Day.
-
-Shamsud-Din Jabbar, the suspect in the New Year’s Day attack in New Orleans acted alone, the FBI said Thursday, describing the deadly event as “an act of terrorism.”
-
-Before the attack, the FBI says Jabbar posted videos online proclaiming his allegiance to the Islamic State group.
-
-Investigators found guns and what appeared to be an improvised explosive device in the vehicle — which bore the flag of the Islamic State group — along with other explosive devices elsewhere in the French Quarter.
-
-...
-
-[Data](articles/0e949336.json)
-
----
-
-### ஜனவரி 7 இல் இந்த ஆண்டின் கன்னி அமர்வு
-
-*2025-01-03 03:48:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-7-இல்-இந்த-ஆண்டின்-கன்னி-அமர்வு/175-349690) · `ta`
-
-பாராளுமன்றத்தை ஜனவரி 7ஆம் திகதி முதல் 10 ஆம் திகதி வரை கூட்டுவதற்குத் தீர்மானிக்கப்பட்டுள்ளது.
-
-சபாநாயகர் வைத்திய கலாநிதி ஜகத் விக்ரமரத்ன தலைமையில் அண்மையில் நடைபெற்ற பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்திலேயே இந்த தீர்மானம் எடுக்கப்பட்டது.
-
-இதற்கு அமைய ஜனவரி 7ஆம் திகதி செவ்வாய்க் கிழமை காலை 9.30 முதல் காலை 10.30 வரை வாய்மூல விடைக்கான கேள்விக்காக நேரம் ஒதுக்கப்பட்டுள்ளது.
-
-இதனைத் தொடர்ந்து காலை 10.30 முதல் மாலை 5.30 வரை 'மத்திய ஆண்டு நிதி நிலை அறிக்கை 2024' தொடர்பில் ஆளும் கட்சியினால் கொண்டுவரப்படும் சபை ஒத்திவைப்பு பிரேரணை மீதான விவாதம் நடைபெறவிருப்பதாக பாராளுமன்ற செயலாளர் நாயகம் தெரிவித்தார். (a)
-
-◼️
-
-[Data](articles/760befce.json)
-
----
-
-### விபத்தில் பெண் உயிரிழப்பு
-
-*2025-01-03 03:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-பெண்-உயிரிழப்பு/175-349689) · `ta`
-
-கிளிநொச்சியில் இடம்பெற்ற டிப்பர் - மோட்டார் சைக்கிள் விபத்தில் படுகாயமடைந்த நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த இளம் குடும்பப் பெண் நேற்று (02) உயிரிழந்துள்ளார்.
-
-அன்னை இல்ல வீதி, கனகாம்பிகைக்குளம் பகுதியைச் சேர்ந்த கஜன் சாளினி (வயது 34) என்ற இளம் குடும்பப் பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்.
-
-கடந்த நத்தார் தினத்தன்று கிளிநொச்சி வலயக் கல்வி அலுவலகத்துக்கு அண்மையில் இடம்பெற்ற விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த கணவன், மனைவி மற்றும் இரண்டு பிள்ளைகள் என நால்வர் படுகாயமடைந்தனர். பின்னர் அவர்களைச் சிகிச்சைக்காக வைத்தியசாலையில் அனுமதித்த வேளை இரண்டு வயது குழந்தை உயிரிழந்தது.
-
-இந்நிலையில் கணவனும், மனைவியும், ஒரு பிள்ளையும் தொடர்ந்து சிகிச்சை பெற்று வந்தனர். மேலதிக சிகிச்சைக்காக மனைவி யாழ்ப்பாணம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார். அவர் அங்கு சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி நேற்று உயிரிழந்தார். (a)
-
-◼️
-
-[Data](articles/3f6eb453.json)
 
 ---

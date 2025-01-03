@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 23:27:48**
+As of **2025-01-03 23:44:19**
 
 ## Newspaper Stats
 
-*Scraped **63,536** Articles*
+*Scraped **63,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 466
 colombotelegraphcom | 640
 bbccomsinhala | 668
 islandlk | 3,862
-economynextcom | 3,870
+economynextcom | 3,876
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,071
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,536 articles have been extended.
+61,971 (97.5%) of 63,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/f7da678b.json)
+
+---
+
+### Sri Lanka appoints committee to review Electricity Act
+
+*2025-01-03 21:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-committee-to-review-electricity-act-197885/) · `en`
+
+ECONOMYNEXT – A 10 member committee has been appointed to study the newly passed Sri Lanka Electricity Act, following a cabinet decision to review the law, state-run Ceylon Electricity Board said.
+
+The 10 member committee has been appointed by the Ministry of Energy, “for a comprehensive review towards the amendment of the Sri Lanka Electricity Act and to submit the recommendations within one month period”.
+
+Udayanga Hemapala, Secretary to the Ministry of Energy will chair and Pubudu Niroshan Hedigallage, Director General of Power Sector Reforms Secretariat will act as the General Secretary of the Committee.
+
+Chandana Wijayasinghe, Additional Secretary to the Ministry of Energy has been appointed as the Convener of the Committee.
+
+Tilak Siyambalapitiya Chairman of Ceylon Electricity Board and Janaka Aluthge, LECO have been appointed as members to the committee.
+
+Athula Rajapakse, Professor at the Department of Electrical and Computer Engineering, University of Manitoba is also member.
+
+...
+
+[Data](articles/b67dd5d1.json)
 
 ---
 
@@ -126,6 +148,24 @@ The former President returned to Sri Lanka last night (02) following his visit t
 
 ---
 
+### Sri Lanka Police in process to bring back criminals living abroad
+
+*2025-01-03 21:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-in-process-to-bring-back-criminals-living-abroad-197852/) · `en`
+
+ECONOMYNEXT – Sri Lanka Police is in the process of bringing back criminals who are living in other countries in a move to curb crimes, newly appointed Police Spokesman K.B. Manathunga said.
+
+“We have started a gradual process to tackle crime in the country. We are also in the process of bringing back criminals who are in foreign countries. We are in the process of issuing red notices and using bilateral agreements for this,” Manathunga told reporters at a media briefing on Friday (03) in Colombo.
+
+He said the Police want to use President Anura Kumara Dissanayake’s Clean Sri Lanka concept to improve implementation of the country’s rule of law with the participation of people,
+
+His statement comes after media reports of police evicting street vendors under Clean Sri Lanka, an ambitious move by President Anura Kumara Dissanayake to systematically change the country’s existing governance.
+
+...
+
+[Data](articles/f4da4014.json)
+
+---
+
 ### හිටපු ජනපති රනිල් නව වසරේ වැඩ අරඹයි
 
 *2025-01-03 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205007) · `si`
@@ -141,6 +181,26 @@ The former President returned to Sri Lanka last night (02) following his visit t
 ◼️
 
 [Data](articles/09c91477.json)
+
+---
+
+### Sri Lanka Minister issues warning against media reports
+
+*2025-01-03 20:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-issues-warning-against-media-reports-197845/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Media Minister Nalinda Jayatissa warned action against media reporting which he said was not accurate and was said to have been made with malicious intentions.
+
+“While protecting the freedom of expression, the government has the right to take actions against these kinds of malicious acts,” Minister Jayatissa told reporters in Colombo on Friday.
+
+“We will protect the media freedom at its highest level, but I would like to say don’t do dirty media tricks while hiding behind the media freedom. We will not allow that.”
+
+“As a government, we will protect media freedom at its highest level. We are a government which will provide high opportunities for journalists to disseminate information to the public. We are not ready to touch media freedom by any means.”
+
+Most political parties in Sri Lanka have  had their own newspapers historically, and they now have websites and social media channels.
+
+...
+
+[Data](articles/e8ea5f45.json)
 
 ---
 
@@ -510,6 +570,26 @@ According to an official announcement from the department, the total revenue col
 
 ---
 
+### Sri Lanka rupee closes weaker at 293.95/294.15 to dollar, bonds steady
+
+*2025-01-03 17:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-95-294-15-to-dollar-bonds-steady-197837/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 293.95/294.15 to the US dollar on Friday from 293.15/40 on Thursday, dealers said, while bond yields were stable.
+
+A bond maturing on 15.12.2026 closed at 9.45/55 percent, up from 9.40/50 percent.
+
+A bond maturing on 15.02.2028 closed stable at 10.10/15 percent.
+
+A bond maturing on 15.09.2029 closed at 10.70/80 percent, up from 10.60/75 percent.
+
+A bond maturing on 15.05.2030 closed stable at 10.95/11.05 percent. (Colombo/Jan3/2025)
+
+◼️
+
+[Data](articles/8883ea83.json)
+
+---
+
 ### மஹரகம புற்றுநோய் வைத்தியசாலையில்  லீனியர் ஆக்சிலேட்டர் இயந்திரம் செயலிழப்பு !
 
 *2025-01-03 17:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/202896) · `ta`
@@ -571,6 +651,26 @@ The downturn was attributed to falling share prices in Sampath Bank, Commercial 
 ◼️
 
 [Data](articles/eb29a39c.json)
+
+---
+
+### Sri Lanka stocks close down as profit taking sets in
+
+*2025-01-03 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-profit-taking-sets-in-197823/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+“In general there was a bit of profit taking, but the market recovered in the last half hour of trading,” market participants said.
+
+The broader ASPI closed down 1.83 percent, or 299.13 points, at 16,049.42; while the more liquid S&P SL20 Index closed down 2.24 percent, or 111.54 points, at 4,860.33.
+
+The market has been steadily rising over the last month and was analysts expected a correction.
+
+Top positive contributors to the ASPI were John Keells Holdings (up at 23.80), Aitken Spence Plc (up at 157.75), The Bukit Darah Company limited (up at 619.50), Lanka IOC (up at 129.75) and Nawaloka Hospitals Plc (up at 6.30). (Colombo/Jan3/2025)
+
+◼️
+
+[Data](articles/60d275bd.json)
 
 ---
 
@@ -1482,6 +1582,28 @@ Ceylon Hospitals shares were trading up at 123.50, and non-voting shares were tr
 
 ---
 
+### Lasantha Karunasekara appointed CEO of Sri Lanka’s Durdans hospital
+
+*2025-01-03 11:07:00* · [`economynextcom`](https://economynext.com/lasantha-karunasekara-appointed-ceo-of-sri-lankas-durdans-hospital-197758/) · `en`
+
+ECONOMYNEXT – Lasantha Karunasekara has been appointed chief executive officer of Ceylon Hospitals PLC, as well as Durdans Medical and Surgical Hospital (Pvt) Ltd, effective January 1, the company said.
+
+Karunasekara has a professional career spanning over 22 years with over a decade of C-suite experience, the company said in a stock exchange filing.
+
+He was previously Deputy CEO/Director Medical Services of Lanka Hospitals PLC.
+
+He also served as the Director General Manager of Hemas Hospitals.
+
+An alumnus of St Thomas’ College, Mount Lavinia He holds a Doctor of Medicine (MD) from Russian state medical university and advanced diversified qualifications across many areas to include an MBA (UK), CMA (Aus.), Lean Practitioner (ILM), and Certified Professional Coach (ICF).
+
+Ceylon Hospitals shares were trading up at 123.50, and non-voting shares were trading down at 99.00. (Colombo/Jan3/2025)
+
+◼️
+
+[Data](articles/f648e279.json)
+
+---
+
 ### Ex-PS member arrested for defamatory social media posts on MP Kottahachchi
 
 *2025-01-03 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104691/ex-ps-member-arrested-for-defamatory-social-media-posts-on-mp-kottahachchi) · `en`
@@ -1663,119 +1785,5 @@ There are even claims that China has declared a state of emergency, though this 
 ...
 
 [Data](articles/4a508c3a.json)
-
----
-
-### කොවිඩ් වසංගතයෙන් පසු චීනයේ තවත් වෛරසයක්
-
-*2025-01-03 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204984) · `si`
-
-කොවිඩ්-19 වසංගතයෙන් වසර 5කට පසු චීනය තුළ තවත් වෛරස කිහිපයක් පැතිර යමින් පවතින බව විදෙස් මාධ්‍ය පවසයි.
-
-Human metapneumovirus (HMPV) ලෙස පැවසෙන වෛරස තත්ත්වයක් ප්‍රධාන වශයෙන් පැතිර යමින් පවතින අතර, කොවිඩ් 19 රෝගීන්ද ඒ අතර සිටින බව විදෙස් වාර්තා පෙනවා දෙයි.
-
-එමෙන්ම ඉන්ෆුවෙන්සා වෛරසයද චීනයේ පැතිර යමින් පවතින බවද වාර්තා වේ.
-
-වෛරස තත්ත්වය චීනය තුළ සීඝ්‍රයෙන් ව්‍යාප්ත වෙමින් පවතින බව වාර්තා වන අතර, සමාජ මාධ්‍ය ඔස්සේ චීනයේ පවතින තත්ත්වය පිළිබඳ අදහසක් ලබාගත හැකි බව ද විදෙස් මාධ්‍ය පෙන්වා දෙයි.
-
-පවතින තත්ත්වය හමුවේ චීනය තුළ හදිසි තත්ත්වයක් පනවා ඇතැයි පැවසෙන නමුත්, මෙතෙක් ඒ සම්බන්ධයෙන් නිල වශයෙන් වාර්තා පළවී නොමැත.
-
-රෝග තත්ත්වය සම්බන්ධයෙන් ද චීන බලධාරින් ද මේ වනතෙක් කිසිදු ප්‍රකාශයක් සිදු කර නොමැත.
-
-◼️
-
-[Data](articles/95082a52.json)
-
----
-
-### ඊ ට්‍රැෆික් යෙදවුමට පැය 24 කදී ට්‍රැෆික් පැමිණිලි 120 ක්
-
-*2025-01-03 09:39:09* · [`adalk`](https://www.ada.lk/breaking_news/ඊ-ට්‍රැෆික්-යෙදවුමට-පැය-24-කදී-ට්‍රැෆික්-පැමිණිලි-120-ක්/11-413988) · `si`
-
-පොලිස් මූලස්ථානයේ  "ඊ ට්‍රැෆික්" ජංගම දුරකථන යෙදවුම සඳහා  පැය 24 ක පමණ කාලයක් තුළදී රථ වාහන වැරදි  සම්බන්ධයෙන් පැමිණිලි 120 ක් ලැබි ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී නීතිවේදී බුද්ධික මනතුංග මහතා පැවසීය.
-
-ඒ යටතේ වීඩියෝ දර්ශන පැමිණිලි හා ඡායාරූප පැමිණිලි ද  මහජනතාව ගෙන් ලැබී ඇතැයි මාධ්‍ය ප්‍රකාශකවරයා කීය
-
-ක්ලීන් ශ්‍රී ලංකා වැඩසටහන හා සමගාමීව ශ්‍රී ලංකා පොලිසිය විසින් ක්‍රියාත්මක කරන ලද වැඩපිළිවෙලෙහි පළමු අංගය  ලෙස    රථවාහන වැරදි අවම කර ගැනීම සඳහා මහජන සහභාගිත්වය ලබා ගැනීම අරමුණු කරගෙන "ඊ ට්‍රැෆික්" නැමැති  ජංගම  දුරකථන යෙදවුම පොලිස් මූලස්ථානයේ දි වැඩ බලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ ප්‍රධානත්වයෙන් පෙරේදා (1) එය එළි දක්වනු ලැබීය.
-
-පොලිස් මූලස්ථානයේ ස්ථාපිත කර ඇති මෙහෙයුම් මැදිරිය මගින් එම ඡායාරූප හෝ වීඩියෝ පට අධ්‍යයනය කිරීමෙන් අනතුරුව විමර්ශන සඳහා අදාළ ආයතන වෙත යොමු කරන බව මාධ්‍ය ප්‍රකාශකවරයා කීය.
-
-...
-
-[Data](articles/1c6e2bbb.json)
-
----
-
-### Sri Lanka rupee opens weaker at 293.30/60 to US dollar, bonds steady
-
-*2025-01-03 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-30-60-to-us-dollar-bonds-steady-197732/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.30/60 to the US dollar in the spot market, from 293.15/40 on Thursday, while bond yields remained stable, dealers said.
-
-A bond maturing on 15.09.2027 was quoted at 9.75/85 percent, up from 9.75/82 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.12/15 percent, down from 10.10/15 percent.
-
-A bond maturing on 15.09.2029 was quoted at 10.70/75 percent, up from 10.60/75 percent.
-
-In equities, the All Share Price Index was up 0.52 percent, or 85.53 points, at 16,434.
-
-The more liquid S&P SL20 was up 0.49 percent, or 24.29 points, at 4,996.
-
-◼️
-
-[Data](articles/cda77937.json)
-
----
-
-### ’கைதிகளை மிருகங்களை போல் நடத்த வேண்டாம்’
-
-*2025-01-03 09:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளை-மிருகங்களை-போல்-நடத்த-வேண்டாம்/175-349696) · `ta`
-
-கைதிகளும் மனிதர்களே என்ற வாசகத்தை நினைவு கூர்ந்த கொழும்பு மேலதிக நீதவான் பசன் அமரசேன, கைதிகளை மிருகங்களைப் போன்று நடத்த வேண்டாம் எனவும், சிறைச்சாலை அதிகாரிகளுக்கு உத்தரவிட்டுள்ளார்.
-
-நீண்ட இரும்புச் சங்கிலியுடன் கைவிலங்கிடப்பட்ட சந்தேகநபர்களை நீதிமன்ற அறையில் வரிசையாக ஆஜர்படுத்தியமைக்காக சிறைச்சாலை அதிகாரிகளை குற்றம் சுமத்திய போதே, நீதவான் இந்த உத்தரவை வழங்கினார்.
-
-சந்தேகநபர்களை மனிதர்களைப் போன்று நடத்த வேண்டும் என வலியுறுத்திய நீதவான், இனிமேல் அவ்வாறு செய்ய வேண்டாம் எனவும் சிறைச்சாலை அதிகாரிகளுக்கு தெரிவித்துள்ளார்.
-
-நீதிமன்றம் விடுமுறை என்பதால், கொழும்பு நீதவான் நீதிமன்றத்தின் நீதிமன்றப் பெயரின் வழக்கு எண் 03 நீதிமன்றில் அழைக்கப்பட்டது.
-
-விளக்கமறியலில் ஆஜர்படுத்தப்பட்ட சுமார் 40 சந்தேக நபர்கள் ஒரே சங்கிலியில் கைவிலங்குகளுடன் நீதிமன்ற அறைக்கு அழைத்து வரப்பட்டனர்.
-
-நீதிமன்ற இலக்கம் 03 இன் சிறைச்சாலையில் சந்தேக நபர்களின் எண்ணிக்கையை அனுமதிக்க முடியாது என்பதால், சந்தேக நபர்களை ஒரே இடத்தில் கைவிலங்கிட்டு நீதிமன்ற அறையில் ஆஜர்படுத்த அதிகாரிகள் ஏற்பாடு செய்திருந்தனர்.
-
-...
-
-[Data](articles/da553d54.json)
-
----
-
-### பனாமுர பகுதியில் உள்நாட்டு துப்பாக்கியுடன் சந்தேகநபர் கைது!
-
-*2025-01-03 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/202840) · `ta`
-
-பனாமுர பொலிஸ் பிரிவிற்குட்பட்ட 07 மைல்கல் பகுதியில் நேற்று வியாழக்கிழமை (02) உள்நாட்டு துப்பாக்கியுடன் சந்தேகநபர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிளைப்பின் போதே குறித்த கைது நடவடிக்கை நடைபெற்றுள்ளது.
-
-◼️
-
-[Data](articles/35326511.json)
-
----
-
-### Sri Lanka Ports Authority achieves record high throughput
-
-*2025-01-03 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104688/sri-lanka-ports-authority-achieves-record-high-throughput) · `en`
-
-The Sri Lanka Ports Authority (SLPA) reached a historic 2.41 million Twenty-foot Equivalent Units (TEUs) in throughput, marking its highest-ever performance.
-
-The Port of Colombo, including terminals like South Asia Gateway Terminals (SAGT) and Colombo International Container Terminal (CICT), recorded a total of 7.78 million TEUs.
-
-Ongoing infrastructure developments, including the partial operation of the Colombo East Container Terminal and the upcoming Colombo West International Terminal, are set to further enhance the port’s capacity and efficiency.
-
-◼️
-
-[Data](articles/d754a333.json)
 
 ---

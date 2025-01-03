@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 19:03:09**
+As of **2025-01-03 19:14:25**
 
 ## Newspaper Stats
 
-*Scraped **63,514** Articles*
+*Scraped **63,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailymirrorlk | 4,733
 adalk | 6,070
 adaderanalk | 7,771
 tamilmirrorlk | 9,101
-virakesarilk | 10,583
+virakesarilk | 10,584
 adaderanasinhalalk | 10,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,514 articles have been extended.
+61,971 (97.6%) of 63,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### அனுபவமில்லாத அணியின் செயற்பாடு பாதிப்பை ஏற்படுத்தினால் நாட்டையும் மக்களையும் பாதுகாக்க ஐக்கிய தேசியக் கட்சி தயார் - வஜிர
+
+*2025-01-03 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/202912) · `ta`
+
+நாட்டினதும் மக்களினதும் எதிர்காலத்தை அனுபவமில்லாத அணியொன்றுக்கு மக்கள் பொறுப்புக் கொடுத்திருக்கிறார்கள். இதன் பெறுபேறு மிகவும் பயங்கரமானதாகும். இது பாரிய பாதிப்பை ஏற்படுத்தும்போது ஐக்கிய தேசியக் கட்சி சவால்களை ஏற்றுக்கொண்டு நாட்டையும் மக்களையும் பாதுகாக்க தயாராக இருக்கின்றதென ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் உத்தியோகபூர்வ காரியாலயத்தில் வெள்ளிக்கிழமை (3) இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க வங்குராேத்து அடைந்த இந்த நாட்டை பொறுப்பேற்று, குறுகிய காலத்துக்குள் ஸ்திர நிலைக்கு கொண்டுவந்தார். நாட்டின் பொருளாதாரத்தை கட்டியெழுப்ப அவர் சர்வதேச நாணய நிதியத்துடன் கலந்துரையாடடுவதற்கு முன்னர் அதற்கு தேவையான சட்ட திட்டங்களை பாராளுமன்றத்தில் அனுமதித்துக்கொண்டார். அதன் பின்னரே நாணய நிதியத்துடன் கலந்துரையாடி அதன் உதவியை பெற்றுக்கொள்ள நடவடிக்கை எடுக்கப்பட்டது.
+
+...
+
+[Data](articles/43ed6060.json)
+
+---
 
 ### කැලිෆෝනියාවේ ගුවන් අනතුරක් - 2ක් මරුට
 
@@ -132,6 +148,20 @@ According to an official announcement from the department, the total revenue col
 
 ---
 
+### கிளிநொச்சியில் தொடரும் தமிழ் அரசியல் கைதிகளை விடுவிக்குமாறு கோரிய  கையெழுத்து போராட்டம்
+
+*2025-01-03 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202899) · `ta`
+
+நீண்டகாலமாக சிறையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி கிளிநொச்சி நகரில் பொதுச் சந்தைக்கு அருகில் கையெழுத்து போராட்டம்  ஒன்று இன்று வெள்ளிக்கிழமை (03) ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+போராளிகள் நலன்புரி சங்கத்தின் ஏற்பாட்டில் கிளிநொச்சி  நகரில்  பொதுச் சந்தைக்கு அருகில் குறித்த  கையெழுத்துப் போராட்டம்  மேற்கொள்ள தயாரான போது அங்குவந்த கிளிநொச்சி போக்குவரத்து பொலிஸார் ஒலிபெருக்கி அனுமதி பெற்று குறித்த கையெழுத்து போராட்டத்தை மேற்கொள்ளுமாறு தெரிவித்து போராட்டத்தை தடுத்து  நிறுத்தினர்.
+
+...
+
+[Data](articles/fc094d09.json)
+
+---
+
 ### දේශීය ආදායම් දෙපාර්තමේන්තුව ඉතිහාසයේ ඉහළම බදු ආදායම රැස් කරයි
 
 *2025-01-03 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205001) · `si`
@@ -187,20 +217,6 @@ The downturn was attributed to falling share prices in Sampath Bank, Commercial 
 ◼️
 
 [Data](articles/c421baa9.json)
-
----
-
-### கிளிநொச்சியில் தொடரும் தமிழ் அரசியல் கைதிகளை விடுவிக்குமாறு கோரிய  கையெழுத்து போராட்டம்
-
-*2025-01-03 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202899) · `ta`
-
-நீண்டகாலமாக சிறையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி கிளிநொச்சி நகரில் பொதுச் சந்தைக்கு அருகில் கையெழுத்து போராட்டம்  ஒன்று இன்று வெள்ளிக்கிழமை (03) ஏற்பாடு செய்யப்பட்டிருந்தது.
-
-போராளிகள் நலன்புரி சங்கத்தின் ஏற்பாட்டில் கிளிநொச்சி  நகரில்  பொதுச் சந்தைக்கு அருகில் குறித்த  கையெழுத்துப் போராட்டம்  மேற்கொள்ள தயாரான போது அங்குவந்த கிளிநொச்சி போக்குவரத்து பொலிஸார் ஒலிபெருக்கி அனுமதி பெற்று குறித்த கையெழுத்து போராட்டத்தை மேற்கொள்ளுமாறு தெரிவித்து போராட்டத்தை தடுத்து  நிறுத்தினர்.
-
-...
-
-[Data](articles/fc094d09.json)
 
 ---
 
@@ -1765,21 +1781,5 @@ Financial literacy and banking requirements – Strengthening financial manageme
 ...
 
 [Data](articles/1a5fc852.json)
-
----
-
-### MMBL-Pathfinder presents long-service awards
-
-*2025-01-03 06:18:14* · [`dailyftlk`](https://www.ft.lk/business/MMBL-Pathfinder-presents-long-service-awards/34-771335) · `en`
-
-The MMBL-Pathfinder Group began work for the New Year 2025 at Group Headquarters in Peliyagoda by conducting its annual service awards to staff members who have served a long period.
-
-L. Lalith (30 years) Sunil Wijesinghe (25 years) were awarded by the management. T. A. B. Gunasekara and K. N. J. K. Perera were also awarded for 15 years of service. R. P. Prasanna and A. Pathmasiri Peiris both are over 10 years’ members of MMBL-Pathfinder family.
-
-Founder Milinda Moragoda, Jennifer Moragoda, CEO MMBL-PF, K. Balasundram, Pathfinder Foundation Chairman Bernard Goonetilleke and Director Admin Upul Pushpakumara presented mementos to these staff members recognising their long service.
-
-◼️
-
-[Data](articles/707f1e90.json)
 
 ---

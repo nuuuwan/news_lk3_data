@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 08:47:30**
+As of **2025-01-03 09:16:49**
 
 ## Newspaper Stats
 
-*Scraped **63,425** Articles*
+*Scraped **63,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,863
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,062
-adaderanalk | 7,753
-tamilmirrorlk | 9,090
+adaderanalk | 7,755
+tamilmirrorlk | 9,091
 virakesarilk | 10,561
 adaderanasinhalalk | 10,948
 
@@ -26,17 +26,57 @@ adaderanasinhalalk | 10,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,425 articles have been extended.
+61,971 (97.7%) of 63,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
 
+### Sri Lanka among 25 nations with high religious restrictions, India tops list: Data
+
+*2025-01-03 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104686/sri-lanka-among-25-nations-with-high-religious-restrictions-india-tops-list-data) · `en`
+
+On an index measuring religion-related hostilities for 2022, India scored the highest among 198 nations, according to a report recently published by the Pew Research Center.
+
+A higher score on the social hostilities index (SHI) indicates greater levels of religion-related harassment, mob violence, terrorism, militant activity, and conflicts over religious conversions or the use of religious symbols and attire. India scored 9.3 on a scale of 10 on the SHI. Scores above 7.2 are considered ‘very high’.
+
+The report also assessed countries based on the government’s restrictions on religion, using the government restrictions index (GRI).The GRI measures laws, policies, and actions that regulate or limit religious beliefs and practices.
+
+...
+
+[Data](articles/9443a2aa.json)
+
+---
+
+### இஸ்ரேலின் வான்வழித் தாக்குதல்: 10 பேர் பலி
+
+*2025-01-03 08:26:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேலின்-வான்வழித்-தாக்குதல்-10-பேர்-பலி/50-349694) · `ta`
+
+காசாவில் இஸ்ரேல் நடத்திய வான்வழித் தாக்குதலில் மூன்று குழந்தைகள் உட்பட 10 இற்கும் மேற்பட்டோர் உயிரிழந்திருப்பதாக பாலஸ்தீன அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+ஹமாஸ்-இஸ்ரேல் இடையிலான போரில் காசாவில் 45 ஆயிரத்துக்கும் மேற்பட்டோர் உயிரிழந்துள்ளனர். ஆனால் இன்னும் போரின் தாக்கம் குறையவில்லை. இதனால் பலர் தெற்கு காசாவில் உள்ள பாதுகாப்பான பகுதி என அறிவிக்கப்பட்டுள்ள இடங்களுக்கு இடம்பெயர்ந்தனர்.
+
+இந்நிலையில், நேற்று மக்கள் தங்கியிருந்த தற்காலிக கூடாரங்கள் மீது இஸ்ரேல் வான்வழித் தாக்குதல் நடத்தியது. அதில், மூன்று குழந்தைகள் உட்பட 10 இற்கும் மேற்பட்டோர் உயிரிழந்திருப்பதாக பாலஸ்தீன அதிகாரிகள் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/799a1cc7.json)
+
+---
+
 ### බෝ අත්ත කඩා වැටීමෙන් තවත් රැදවියෙක් මිය යයි
 
 *2025-01-03 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204983) · `si`
 
-මාතර බන්ධනාගාරයේ බෝ අත්තක් කඩා වැටීමෙන් තුවාල ලබා දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් අනෙක් රැඳවියා ද ජීවිතක්ෂයට පත්ව තිබේ.
+මාතර බන්ධනාගාරයේ බෝ අත්තක් කඩා වැටීමෙන් තුවාල ලබා දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් අනෙක් රැඳවියා ද අද (3) අළුයම ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස මිය ගොස් ඇත්තේ දෙවිනුවර ප්‍රදේශයේ පදිංචි 43 හැවිරිදි පුද්ගලයෙක්ය.
+
+ඔහු දික්කසාද නඩුවක නඩත්තු නොගෙවීම හේතුවෙන් මාස 05 බැගින් මාස 10ක සිරදඩුවම් නියම වී සිරගතව සිටි අයෙක් බව වාර්තා වේ.
+
+එමෙන්ම මොහුට විරුද්ධව විසඳීමට තවත් නඩු 06ක් පවතින බවත් සඳහන්.
+
+ඒ අනුව බෝ අත්ත කඩා වැටීමෙන් සිදු වූ මෙම අනතුරෙන් මියගිය ගණන 2ක් දක්වා ඉහළ ගියේය.
 
 පෙරේරා (01) රාත්‍රියේ සිදු වූ මෙම අනතුරෙන් රැදවියන් 12 දෙනෙකු තුවාල ලැබූ අතර, ඔවුන් සියලු දෙනා මාතර මහ රෝහලට ඇතුළත් කරනු ලැබීය.
 
@@ -61,6 +101,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/1dbf16d9.json)
+
+---
+
+### 2 dead and 18 injured in small plane crash in Southern California
+
+*2025-01-03 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104685/2-dead-and-18-injured-in-small-plane-crash-in-southern-california) · `en`
+
+Two people were killed and 18 injured when a small plane crashed through the rooftop of a commercial building in Southern California on Thursday, police said.
+
+Police got a report at 2:09 p.m. about the crash in the Orange County city of Fullerton, said Kristy Wells, a Fullerton police spokesperson.
+
+Firefighters and police arrived on scene and battled a blaze that broke out, and evacuated surrounding businesses, Wells said.
+
+The fire damaged the warehouse, which appeared to contain sewing machines and textile stock. The building was occupied by Michael Nicholas Designs, a furniture upholstery manufacturer, according to a sign on a door.
+
+Ten people were taken to the hospital, while eight were treated and released at the scene, police said. There were two confirmed deaths, according to Wells.
+
+It was not immediately known what type of plane it was or whether those injured were in the aircraft or on the ground, Wells said.
+
+...
+
+[Data](articles/603c89aa.json)
 
 ---
 
@@ -1709,53 +1771,5 @@ This was made possible through the financial support of the Ruhunu Maha Kataraga
 ...
 
 [Data](articles/05db9a1d.json)
-
----
-
-### நேபாள பிரதமரை சந்தித்தார் முன்னாள் ஜனாதிபதி ரணில்
-
-*2025-01-02 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202769) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் நேபாளப் பிரதமர் கே.பி.ஷர்மா ஒலி ஆகியோருக்கிடையில் நேற்று வியாழக்கிழமை சந்திப்பொன்று நேபாளம் - காத்மண்டு நகரில் இடம்பெற்றது. இந்திய விஜயத்துக்கு மத்தியில் கடந்த திங்களன்று முன்னாள் ஜனாதிபதி நேபாளத்துக்கும் விஜயத்தை மேற்கொண்டிருந்தார்.
-
-இதன் போதே முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க நேபாளப் பிரதமரை சந்தித்திருந்தார். இருவருக்குமிடையில் சுமார் ஒரு மணித்தியாலம் கலந்துரையாடல் இடம்பெற்றுள்ளது. குறிப்பாக நேபாளத்தின் அரசியல் நெருக்கடிகள் தொடர்பில் இதன் போது விசேட அவதானம் செலுத்தப்பட்டுள்ளது.
-
-நேபாளம் கடும் நிலநடுக்கத்தை சந்திக்க நேரிட்ட போது இலங்கையில் இருந்து கிடைத்த உதவிக்கு நன்றி தெரிவித்துக் கொள்வதாக நேபாள பிரதமர் குறிப்பிட்டுள்ளார். எதிர்காலத்தில் இலங்கைக்கும் நேபாளத்துக்கும் இடையிலான இருதரப்பு உறவுகளை மேலும் வலுப்படுத்த எதிர்பார்ப்பதாகவும் நேபாள பிரதமர் குறிப்பிட்டுள்ளார்.
-
-◼️
-
-[Data](articles/23b9801c.json)
-
----
-
-### මත්ද්‍රව්‍යට එරෙහිව යුධ හමුදාවේ දැල පළල් කරයි
-
-*2025-01-02 15:58:58* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍යට-එරෙහිව-යුධ-හමුදාවේ-දැල-පළල්-කරයි/11-413985) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායකගේ සංකල්පයක් අනුව ක්‍රියාත්මක ක්ලීන් ශ්‍රී ලංකා වැඩසටහනට සමගාමීව  යුද හමුදාපති ලුතිනන් ජෙනරල් ලසන්ත රොද්‍රිගෝ මහතාගේ මෙහෙයවීමෙන් නීති විරෝධී මත්ද්‍රව්‍ය සම්බන්ධයෙන් සිදු කරන වැටලීම් සහ බුද්ධි ආවේක්ෂණ රාජකාරිය 2025 ජනවාරි 01 සිට පුළුල් කොට තිබේ. යුද හමුදාපතිවරයා විසින් ඒ පිළිබඳව  සේනා ආඥාපතිවරුන්ට සහ අදාළ සියලුම පාර්ශවයන්ට උපදෙස් ලබා දී ඇත.
-
-2024 වසර තුළ ශ්‍රී ලංකා යුද හමුදාව ,විශේෂ කාර්ය බළකාය සහ පොලිසිය සිදුකළ විශේෂ වැටලීම්වලදී නීතිවිරෝධී මත්ද්‍රව්‍ය ජාවාරම් කිරීම සම්බන්ධයෙන් අවස්ථා 370කදී පුද්ගලයින් 451 දෙනෙකු අත්අඩංගුවට ගෙන ඇත. මෙම වැටලීම් සිදුකොට ඇත්තේ ශ්‍රී ලංකා යුද හමුදා බුද්ධි අංශ වෙත ලැබුණු තොරතුරු මතය.අදාළ වැටලීම්වලදී ගංජා කිලෝග්‍රෑම් 3570ක්, කේරළ ගංජා කිලෝග්‍රෑම් 1040 ක් අයිස් කිලෝග්‍රෑම් 11ක් හෙරොයින් කිලෝ ග්‍රෑම්61ක් අත්අඩංගුවට ගැනීමට හැකි වී තිබේ. නීතිවිරෝධී මත්ද්‍රව්‍ය සමඟින් සැකකරුවන් 451 දෙනෙකු අත්අඩංගුවට ගෙන නීතිය ක්‍රියාත්මක කිරීම සඳහා ශ්‍රී ලංකා පොලීසිය වෙත භාර දී ඇත.
-
-...
-
-[Data](articles/87357c83.json)
-
----
-
-### பாடசாலை உபகரணங்களின் விலை 20 சதவீதம் குறைப்பு
-
-*2025-01-02 15:49:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-உபகரணங்களின்-விலை-20-சதவீதம்-குறைப்பு/175-349679) · `ta`
-
-டொலரின் பெறுமதி வீழ்ச்சியடைந்து வருவதால் அப்பியாசக் கொப்பிகள் உள்ளிட்ட பாடசாலை உபகரணங்களின் விலை 20% குறைக்கப்பட்டுள்ளதாக அகில இலங்கை சிறு கைத்தொழில் சங்கம் தெரிவித்துள்ளது.
-
-காகிதங்களுக்கு 18 சதவீத VAT மற்றும் 2.5 சதவீத சமூக பாதுகாப்பு வரி இருப்பதாகவும், இந்த இரண்டு வரிகளையும் நீக்கினால், பயிற்சி புத்தகங்கள் மற்றும் பாடசாலை உபகரணங்களின் விலையை மேலும் குறைக்க முடியும் என்றும் சங்கத்தின் தலைவர்  நிருக்ஷ குமார தெரிவித்தார்.
-
-புதிய கல்வியாண்டு ஆரம்பமாகியுள்ள நிலையில், பாடசாலை உபகரணங்கள், பயிற்சிப் புத்தகங்களை பெற்றோர்கள் குறைந்த விலையில் கொள்வனவு செய்யும் வாய்ப்புள்ளதாகவும், பாடசாலை ஆடைகளின் விலை கூட 20 ஆக குறைந்துள்ளதாகவும் தெரிவித்தார்.
-
-கடந்த அரசாங்கம் வற் வரி அதிகரிப்பு மற்றும் சில பொருட்களுக்கு புதிய வற் வரியை சேர்த்தமையினால் நடுத்தர மற்றும் சிறு கைத்தொழில்துறையினர் கடும் சிரமங்களை எதிர்நோக்கி வருவதாகவும், தற்போதைய அரசாங்கம் இது தொடர்பில் கவனம் செலுத்தி தேவையான நடவடிக்கைகளை மேற்கொள்ள வேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/0c5225db.json)
 
 ---

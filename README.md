@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 14:28:10**
+As of **2025-01-03 14:43:45**
 
 ## Newspaper Stats
 
-*Scraped **63,482** Articles*
+*Scraped **63,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,862
 economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
-adalk | 6,067
+adalk | 6,068
 adaderanalk | 7,764
 tamilmirrorlk | 9,101
 virakesarilk | 10,573
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,482 articles have been extended.
+61,971 (97.6%) of 63,483 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,20 @@ Wijesinghe congratulated the team on their expansion initiatives and “undersco
 ◼️
 
 [Data](articles/b5554f7b.json)
+
+---
+
+### යොෂිත රාජපක්ෂ CID යට
+
+*2025-01-03 12:38:41* · [`adalk`](https://www.ada.lk/breaking_news/යොෂිත-රාජපක්ෂ-CID-යට/11-413992) · `si`
+
+හිටපු ජනපතිගේ පුත්‍රයකු වන යෝෂිත රාජපක්ෂ අද (03) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්ථමේන්තුවට පැමිණ තිබෙනවා.
+
+කතරගම ප්‍රදේශයේ පිහිටි ඉඩමක හිමිකාරීත්වය සම්බන්ධ ප්‍රකාශයක් ලබාගැනීම සඳහා ඔහුව අපරාධ පරීක්ෂණ දෙපාර්ථමේන්තුව වෙත කැධවා ඇතිබව වාර්ථා වනවා.
+
+◼️
+
+[Data](articles/cf8a00db.json)
 
 ---
 
@@ -1725,15 +1739,5 @@ Amid those developments both indices moved upwards. All Share Price Index  was 
 ...
 
 [Data](articles/d565be39.json)
-
----
-
-### PayMedia achieves ISO/IEC 27001:2022 certification
-
-*2025-01-03 01:55:00* · [`islandlk`](http://island.lk/paymedia-achieves-iso-iec-270012022-certification/) · `en`
-
-...
-
-[Data](articles/9816fd10.json)
 
 ---

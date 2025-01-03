@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 05:28:01**
+As of **2025-01-03 05:51:47**
 
 ## Newspaper Stats
 
-*Scraped **63,386** Articles*
+*Scraped **63,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 639
 bbccomsinhala | 667
-islandlk | 3,850
+islandlk | 3,860
 economynextcom | 3,863
 dailyftlk | 4,398
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,386 articles have been extended.
+61,971 (97.8%) of 63,396 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -188,6 +188,72 @@ Investigators found guns and what appeared to be an improvised explosive device 
 
 ---
 
+### NTB and JKCG Auto introduce eco-friendly vehicle financing solutions
+
+*2025-01-03 02:43:00* · [`islandlk`](http://island.lk/ntb-and-jkcg-auto-introduce-eco-friendly-vehicle-financing-solutions/) · `en`
+
+Nations Trust Bank has partnered with John Keells CG Auto Pvt Ltd (JKCG Auto), the authorized distributor of BYD passenger vehicles in Sri Lanka, to introduce specialized vehicle financing solutions for New Energy Vehicles (NEVs). This collaboration aims to make sustainable transportation more affordable and caters to environmentally-conscious customers and the adoption of eco-friendly vehicles.
+
+The vehicle financing solutions offered through this partnership are designed to provide unmatched flexibility and convenience. With financing of up to 90% of the vehicle’s value and flexible balloon repayment plans, Nations Trust Bank ensures greater affordability and ease for its premier clientele. Additionally, customers can benefit from flexible payment plans and 0% installment options on approved solar panel purchases for American Express Cardmembers, delivering further value and convenience.
+
+...
+
+[Data](articles/c3b452fe.json)
+
+---
+
+### HDFC Bank’s 2025 goal calls for growth
+
+*2025-01-03 02:42:00* · [`islandlk`](http://island.lk/hdfc-banks-2025-goal-calls-for-growth/) · `en`
+
+HDFC Bank commenced the first working day of the new year 2025 with series of multi-religious activities held at the bank’s head office building to invoke blessings for valued customers, employees and all the other stakeholders for a prosperous and successful year.
+
+The event was held at the bank’s head office building with the patronage of the Chairman P.J.Jayasinghe, the Acting GM/CEO C,R,P,Balasuriya, Corporate and executive management, staff and valued customers in a spirit of the unity.
+
+Slashed interest rates continue to be a blessing for the stock market
+
+Allianz Lanka supporting teenagers to thrive in an increasingly interconnected digital world
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/f5b9225d.json)
+
+---
+
+### Allianz Lanka supporting teenagers to thrive in an increasingly interconnected digital world
+
+*2025-01-03 02:41:00* · [`islandlk`](http://island.lk/allianz-lanka-supporting-teenagers-to-thrive-in-an-increasingly-interconnected-digital-world/) · `en`
+
+Allianz Lanka’s Women in Leadership (WIL) hosted an insightful programme at Allianz Lanka’s Head office for teenage children of Allianz Lanka employees, focusing on the theme “Preparing Teens for Life in a Digital Generation”. This initiative is aimed at equipping teenage children with the knowledge and skills necessary to navigate the complexities of the digital age.
+
+The event commenced with an engaging session by Manoj Samarasekara, Chief Inspector of Police, Officer in Charge Community Policing Division, Colombo, who emphasized the importance of online safety, responsible digital behavior, and protecting personal information in the online space. Following this, Maya Dissanayake, a Counseling Psychologist, Certified Parent coach, & Corporate Trainer, provided practical guidance on managing stress and maintaining a healthy balance between screen time and other aspects of life.
+
+...
+
+[Data](articles/19915655.json)
+
+---
+
+### CSE appoints Vindhya Jayasekera as CEO Designate
+
+*2025-01-03 02:41:00* · [`islandlk`](http://island.lk/cse-appoints-vindhya-jayasekera-as-ceo-designate/) · `en`
+
+The Colombo Stock Exchange (CSE) has announced the appointment of Vindhya Jayasekera as Chief Executive Officer (CEO) Designate, effective 1st January 2025. Ms. Jayasekera will succeed the incumbent CEO, Rajeeva Bandaranaike, who is due to retire during the course of 2025 after serving for 11 years in that capacity.
+
+Ms. Jayasekera brings over two decades of extensive experience in capital markets, encompassing both buy-side and sell-side expertise across the investment banking and asset management industries.
+
+Prior to her appointment at the CSE, she served as the Chief Investment Officer at NDB Wealth Management Limited, where she led the asset management division overseeing assets under management exceeding LKR 380 billion (approx.). During her tenure, she managed over LKR 100 billion (approx.) in mutual fund assets across eight funds with diverse risk-return profiles, incorporating investments in treasury bills, bonds, debentures, corporate debt, and equity instruments.
+
+...
+
+[Data](articles/330b925a.json)
+
+---
+
 ### வியாபாரிகள் அல்லது தனிப்பட்ட நலனை முன்னிறுத்தியமையால் பொருளாதார மத்திய நிலையத்தினை ஆரம்பிக்க முடியாமல் உள்ளது - உப்பாலி சமரசிங்க
 
 *2025-01-03 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202827) · `ta`
@@ -233,6 +299,82 @@ Investigators found guns and what appeared to be an improvised explosive device 
 ...
 
 [Data](articles/d565be39.json)
+
+---
+
+### PayMedia achieves ISO/IEC 27001:2022 certification
+
+*2025-01-03 01:55:00* · [`islandlk`](http://island.lk/paymedia-achieves-iso-iec-270012022-certification/) · `en`
+
+...
+
+[Data](articles/9816fd10.json)
+
+---
+
+### CEAT holds discussions with EDB on trade expansion opportunities in Sri Lanka
+
+*2025-01-03 01:52:00* · [`islandlk`](http://island.lk/ceat-holds-discussions-with-edb-on-trade-expansion-opportunities-in-sri-lanka/) · `en`
+
+A delegation from CEAT, an RPG India company, led by Managing Director and CEO Arnab Banerjee, met with Mangala Wijesinghe, Chairman and CEO of the Sri Lanka Export Development Board (EDB), recently at the EDB Head Office in Colombo.
+
+During the meeting, Banerjee provided an overview of RPG’s operations across various sectors, including agriculture, engineering, and rubber. The delegation expressed interest in expanding CEAT’s presence in Sri Lanka by diversifying its product portfolio in the rubber sector. Highlighting the company’s recent acquisition, Mr. Banerjee elaborated on the CAMSO brand, which is produced in Sri Lanka under RPG’s ownership.
+
+Congratulating the team on their expansion initiatives, Mangala Wijesinghe underscored additional investment opportunities in Sri Lanka, particularly in sectors such as pharmaceuticals, ICT, agriculture, and logistics.
+
+The meeting was attended by senior officials from CEAT, including Vipul Vaid, Chief Financial Officer; Amit Tolani,
+
+...
+
+[Data](articles/afc7df28.json)
+
+---
+
+### Three Sinha Group named large-scale winner in manufacturing sector
+
+*2025-01-03 01:51:00* · [`islandlk`](http://island.lk/three-sinha-group-named-large-scale-winner-in-manufacturing-sector/) · `en`
+
+Three Sinha Group of Companies became the Large-Scale Winner in the Manufacturing Sector at the Entrepreneur Awards 2024 for the Western Province. The event, organised by the National Enterprise Development Authority and the National Chamber of Commerce of Sri Lanka, was recently held in Colombo. Managing Director Manjula Ariyakumara accepted the award on behalf of the company.
+
+Having begun as a small-scale business, Three Sinha has now grown into a leading name in Sri Lanka’s construction industry. The company has earned both local and international recognition for its commitment to quality and innovation. Over the past, the Company has received several local and international quality certifications. Their latest achievements include Gold and Silver Awards at the CNCI Achievers’ Awards.
+
+Three Sinha offers a wide range of products and services, including roller doors, shutters, and fire-resistant doors. They also specialise in aluminum fabrications, sensor doors, and automatic barriers.
+
+...
+
+[Data](articles/143a8d89.json)
+
+---
+
+### Hidden Marvels of Moths
+
+*2025-01-03 01:42:00* · [`islandlk`](http://island.lk/hidden-marvels-of-moths/) · `en`
+
+In the world of insects, moths often remain in the shadows—both literally and figuratively. While butterflies are celebrated for their beauty and vibrancy, moths are frequently dismissed as dull or even bothersome.
+
+Yet, as Nuwan Chaturanga, a Lepidoptera expert who is also specialising in Sri Lanka’s ecosystems, reveals, moths are far from ordinary. These nocturnal insects possess fascinating adaptations, play pivotal ecological roles, and carry cultural significance that deserves a closer look.
+
+Moths have evolved into masters of survival, developing traits that enable them to navigate, evade predators, and thrive in diverse environments.
+
+Chaturanga highlights some of the most remarkable adaptations: “Moths have developed nocturnal vision and ultrasonic hearing, allowing them to evade predators like bats effectively.” These features place moths among the most specialised creatures in the animal kingdom.
+
+...
+
+[Data](articles/2392edb3.json)
+
+---
+
+### Cynicism; new tricks by petty criminals
+
+*2025-01-03 01:29:00* · [`islandlk`](http://island.lk/cynicism-new-tricks-by-petty-criminals/) · `en`
+
+“For last year’s words belong to last year’s language. And next year’s words await another voice.”
+
+Cassandra feels that T S Eliot has translated her thoughts to words and written them down, her thought being the writing of her column – Cassandra Cry. Her column language changed after the presidential election – tentatively – and in confirmed manner after the dust of the general election settled down with a Cabinet of Ministers and other officials sworn in to guide Sri Lanka in the next five years; critically in the first year 2025.
+
+...
+
+[Data](articles/32eda6cc.json)
 
 ---
 
@@ -1669,163 +1811,5 @@ On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., fo
 ...
 
 [Data](articles/010d0601.json)
-
----
-
-### දිගන ප්‍රචණ්ඩ ක්‍රියා: වසර 6ක් තිස්සේ ප්‍රසිද්ධ නොකළ මානව හිමිකම් වාර්තාව තවමත් ප්‍රමාද ඇයි?
-
-*2025-01-02 13:30:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwyxmg10r19o) · `si`
-
-දිගන ප්‍රචණ්ඩ ක්‍රියා: වසර 6ක් තිස්සේ ප්‍රසිද්ධ නොකළ මානව හිමිකම් වාර්තාව තවමත් ප්‍රමාද ඇයි?
-
-දිගන මුස්ලිම්වරුන්ට එරෙහි ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධ මානව හිමිකම් වාර්තාව 2024 වසරේදී ප්‍රසිද්ධියට පත් කරන බවට ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාව පසුගිය වසරේ ජූලි මාසයේදී බීබීසි සිංහල සේවයට පැවසීය.
-
-කෙසේ වෙතත්, 2024 දෙසැම්බර් 31 වන දා වන විටත් එම වාර්තාව ප්‍රසිද්ධියට පත් කර නොතිබීම සම්බන්ධයෙන් අපි ශ්‍රී ලංකා මානව හිමිකම් කොමිෂන් සභාවෙන් විමසීමක් කළෙමු.
-
-"තාම ඒක ෆයිනලයිස් කරන්න බැරි වෙලා තියෙන්නේ. මම හිතන්නේ ජනවාරි මාසයේ ඒක අනිවාර්යෙන් ම පබ්ලිෂ් වෙයි," ලංකා මානව හිමිකම් කොමිෂන් සභාවේ කොමසාරිස් ගෙහාන් ගුණතිලක සඳහන් කළේ ය.
-
-කන්ද උඩරට මුස්ලිම් වැසියන් පිරිසකට එරෙහි ප්‍රචණ්ඩ ක්‍රියා සිදුවී 2025 වසරේ මාර්තු මාසය වන විට වසර 7ක් සපිරේ.
-
-...
-
-[Data](articles/b1ec5c3b.json)
-
----
-
-### கடவுச்சீட்டு வரிசை மேலும் நீடிக்கலாம்
-
-*2025-01-02 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202767) · `ta`
-
-நாட்டில் கடவுசீட்டை பெற்றுக்கொள்வதற்காக மக்கள் நீண்ட வரிசையில் காத்திருக்கும் நிலை  மேலும் நீடிக்கலாம் என தெரிவிக்கப்படுகிறது.
-
-ஆண்டின் முதல் பாதிக்கு மட்டுமே போதிய கையிருப்பு இருப்பதாகவும், புதிய கடவுச்சீட்டு நகல்களைப் பெறுவதற்கு விலை மனு கோருவதற்கு  அரசாங்கத்திடம் நிதி இல்லாமல் இருப்பதும்  கடவுச்சீட்டு நெருக்கடி  மேலும் நீடிக்கும் என தெரிவிக்கப்படுகிறது.
-
-ஆனால் Thales DIS Finland OY மற்றும் அதன் இலங்கைப் பங்காளியான Just In Time (JIT) Technologies (Pvt) Ltd-க்கு வழங்கப்பட்ட விலை மனு கோரலை ஏலம் எடுத்த எபிக் லங்கா (பிரைவேட்) சரியாக செயல்படுத்தாமையினால் வழங்கு தொடரப்பட்டுள்ளது.
-
-இந்நிலையில்,  இலத்திரனியல் கடவுச்சீட்டு தொடர்பான நீதிமன்ற வழக்கு முடிவடைவதற்குள் நெருக்கடியை நிவர்த்தி செய்வதற்காக பி-சீரிஸின் புதிய கடவுச்சீட்டுகளை பாதுகாக்க அரசாங்கம் விண்ணப்பங்களை கோருவதாக பாதுகாப்பு அமைச்சர் ஆனந்த விஜேபால தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/b3a6afa3.json)
-
----
-
-### තවත් බීමත් රියදුරන් 509ක් හසුවෙයි
-
-*2025-01-02 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204962) · `si`
-
-අද (02) පෙරවරු 6න් අවසන් වූ පැය 24ක කාලය තුළ විශේෂ රථවාහන මෙහෙයුම මගින් බීමත් රියදුරන් 509 දෙනෙකු සම්බන්ධයෙන් පොලීසිය නීතිය ක්‍රියාත්මක කර තිබේ.
-
-ඒ, ඊයේ (01) පෙරවරු 6 සිට අද පෙරවරු 6 දක්වා වූ පැය 24ක කාලය තුළදී ය.
-
-එහිදී, අපරීක්ෂාකාරී හා අන්තරාදායක ලෙස රිය පැදවීමට අදාළ රියදුරන් 29 දෙනෙකු, අධික වේගයෙන් රිය පැදවීම සම්බන්ධව රියදුරන් 59 දෙනෙකු, මාර්ග නීති උල්ලංඝණය කිරීම සම්බන්ධයෙන් රියදුරන් 762ක්, බලපත්‍ර වැරදි සම්බන්ධ රියදුරන් 345ක් සහ වෙනත් රථවාහන වැරදි සම්බන්ධයෙන් රියදුරන් 3,711ක් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කර ඇත.
-
-පොලීසිය වැඩිදුරටත් දැනුම්දෙන්නේ අදාළ පැය 24ක කාලය තුළ සමස්ත රථවාහන වැරදිවලට අදාළව රියදුරන් 5,415ක් සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කර ඇති බවය.
-
-මෙම විශේෂ මෙහෙයුම තවදුරටත් ක්‍රියාත්මක කිරීමට කටයුතු කරනු ලබන අතර බීමත්ව රිය ධාවනය නොකිරීමටත්, මාර්ග නීති උල්ලංඝණය ඇතුළු අනෙකුත් රථවාහන නීතී රීති උල්ලංඝණය නොකරන ලෙසටත් ශ්‍රී ලංකා පොලීසිය මහජනතාවගෙන් ඉල්ලා සිටී.
-
-...
-
-[Data](articles/d5d4cb4e.json)
-
----
-
-### MP Asoka Ranwala highlights importance of proper tax payments by businessmen
-
-*2025-01-02 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104665/mp-asoka-ranwala-highlights-importance-of-proper-tax-payments-by-businessmen) · `en`
-
-Former Speaker and Member of Parliament Asoka Ranwala emphasized that the government can only provide proper benefits to the society and beneficiaries if successful businessmen pay taxes properly.
-
-Speaking during an event held yesterday (Jan.1), he also explained that the government faced a serious crisis in the past due to the inability to collect tax revenue. He further added that businessmen who use their own money for welfare activities should be praised.
-
-“Only when successful businessmen contribute their fair share of tax can society truly benefit. However, we have experienced a significant tragedy in the past due to the inability to collect these taxes,” he stated.
-
-...
-
-[Data](articles/d0afe585.json)
-
----
-
-### නව වසරේ පළමු පාර්ලිමේන්තු රැස්වීම ජනවාරි 7 වැනිදා
-
-*2025-01-02 13:17:29* · [`adalk`](https://www.ada.lk/breaking_news/නව-වසරේ-පළමු-පාර්ලිමේන්තු-රැස්වීම-ජනවාරි-7-වැනිදා/11-413979) · `si`
-
-පාර්ලිමේන්තුව 2025 ජනවාරි 7 වැනිදා සිට 10 වැනිදා දක්වා රැස්වීමට තීරණය වූ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
-
-මේ අනුව ජනවාරි 7 වැනි අගහරුවාදා පෙ.ව 9.30 - පෙ.ව 10.30  කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ‍ප.ව 5.30 දක්වා රජය විසින් ගෙනෙනු ලබන “2024 වසර මැද රාජ්‍ය මූල්‍ය තත්ත්වය පිළිබඳ වාර්තාව” සම්බන්ධව සභාව කල්තැබීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වූ බව මහලේකම්වරිය පැවසුවාය.
-
-ජනවාරි 8 වැනි බදාදා පෙ.ව 9.30 - පෙ.ව 10.00  කාලය අග්‍රාමාත්‍යවරියගෙන් අසනු ලබන ප්‍රශ්න සඳහා (ප්‍රශ්න 4ක්) වෙන් කර ඇත. අනතුරුව පෙ.ව 10.00 පෙ.ව 10.30 කාලය කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සඳහා (ප්‍රශ්න 5ක්) වෙන් කර තිබේ.
-
-...
-
-[Data](articles/7f19b67b.json)
-
----
-
-### மூன்று வாகனங்கள் சிக்கின
-
-*2025-01-02 13:05:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்று-வாகனங்கள்-சிக்கின/175-349666) · `ta`
-
-சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்டு, போலியான முறையில் ஆவணங்களை தயாரித்து, மோட்டார் திணைக்களத்தின் ஊடாக போலி இலக்கங்களுடன் பதிவு செய்யப்பட்டு பயன்படுத்திய வாகனங்கள் மூன்று கைப்பற்றப்பட்டுள்ளன.
-
-பின்வத்த பொலிஸ் பிரிவில் முன்னாள் மாகாண சபை உறுப்பினர் பயன்படுத்துவதாக கிடைத்த தகவலுக்கு அமைய வலான மோசடி தடுப்பு பிரிவுக்கு கிடைத்த தகவல்களின் அடிப்படையில், அந்த அதிகாரிகள் குழு 2024 டிசெம்பர் 31ஆம் திகதியன்று இராணுவம் பயன்படுத்தும் வாகனத்தை போன்ற Mitsubishi வாகனத்தை தமது பொறுப்பின் கீழ் கொண்டு வந்தனர்.
-
-அதன் பின்னர் மேற்கொள்ளப்பட்ட மேலதிக விசாரணைகளின் பிரகாரம், Land Rover ஜீப் வாகனங்கள் இரண்டு, ரத்மலானை பிரதேசத்தில் வைத்து 2025.01.01 அன்று பொலிஸாரின் பொறுப்பின் கீழ் கொண்டுவரப்பட்டது.
-
-இந்த மூன்று வாகனங்களும் மோட்டார் பதிவு திணைக்களத்தின் ஊடாக, அரச நிறுவனங்களுக்கு பதியப்படும் இலக்கங்களின் கீழ், போலியான ஆவணங்களை தயாரித்து பெற்றுக்கொள்ளப்பட்டுள்ளது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/dd8ad3fd.json)
-
----
-
-### 2024 දී ලංකාවට සංචාරකයන් 2 053 465ක් ඇවිත්
-
-*2025-01-02 13:03:44* · [`adalk`](https://www.ada.lk/breaking_news/2024-දී-ලංකාවට-සංචාරකයන්-2-053-465ක්-ඇවිත්/11-413978) · `si`
-
-2024 වසරේ ජනවාරි මස 01 දින සිට දෙසැම්බර් මස 31 දින දක්වා ශ්‍රී ලංකාවට විදේශීය සංචාරකයන් 20, 53, 465 (විසි ලක්ෂ පනස් තුන් දහස් හාර සිය හැට පහක්) දෙනෙකු පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන කාර්යාංශයේ ප්‍රකාශකවරයෙකු පැවසීය.
-
-එසේ මෙරටට පැමිණි සංචාරකයන් අතරින් වැඩිම පිරිසක් එනම් 416,974 ක් ඉන්දියාවේ සිට පැමිණ තිබුණි . ඊට අමතරව පිළිවෙළින් රුසියානු ෆෙඩරේෂයෙන් 201,920 ක් ද , එක්සත් රාජධානියෙන් 178,339 ක් ද , ජර්මනියෙන් 136,084 ක්  සහ චීනයෙන් 131,681 ක් වශයෙන් ඉහත  රටවලින් ද ශ්‍රී ලංකාවට සංචාරකයන් පැමිණ තිබුණි .
-
-◼️
-
-[Data](articles/6db52532.json)
-
----
-
-### கல்கிசை - படோவிட்ட பகுதியில் புதிய பொலிஸ் நிலையம் திறப்பு
-
-*2025-01-02 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202760) · `ta`
-
-கல்கிசை பொலிஸ் பிரிவிற்குட்பட்ட படோவிட்ட பகுதியில் அமைக்கப்பட்டுள்ள புதிய பொலிஸ் நிலையத்தை திறந்து வைக்கும் நிகழ்வு வியாழக்கிழமை (01) நடைபெற்றது.
-
-பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சின் செயலாளர் ரவி சேனவிரத்ன மற்றும்  பதில் பொலிஸ் மா அதிபர்  சட்டத்தரணி பிரியந்த வீரசூரிய ஆகியோர் பொலிஸ் நிலையத்தை திறந்து வைத்தனர்.
-
-புதிய பொலிஸ் நிலையம் அமைந்துள்ள கட்டுகுருந்துவத்தை கிராம சேவக பிரிவில் சுமார் 3,250 வீடுகள் அமைந்துள்ளதுடன், சுமார் 12,990 பேர் வசிக்கின்றனர்.
-
-இந்நிலையில், பொதுமக்களுக்கு சிறந்த சேவையை வழங்குவதோடு, போதைப்பொருள் மற்றும் குற்றச்செயல்களை தடுப்பதற்காகவே புதிய பொலிஸ் நிலையம் அமைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-...
-
-[Data](articles/ef257454.json)
-
----
-
-### ‘Education qualifications alone won’t fix governance’ - Dilith calls for fresh perspectives in politics
-
-*2025-01-02 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104664/education-qualifications-alone-wont-fix-governance-dilith-calls-for-fresh-perspectives-in-politics) · `en`
-
-The ‘Sarvajana Balaya’ Member of Parliament Dilith Jayaweera underscored the urgency for innovation, creativity, and strategic planning in terms of both governance and economic stability in order to provide pragmatic solutions to the country’s deep-rooted issues.
-
-Joining Ada Derana’s current affairs programme “State of the Nation”, MP Jayaweera argued that while political leadership may change, the fundamental challenges of governance and national strategy remain constant.
-
-He noted that the key to overcoming these challenges lies in fostering motivation, creativity, and a strategic vision that aligns with the nation’s long-term goals, while underscoring the importance of creativity in politics and decision-making.
-
-Jayaweera began by acknowledging the educational background of many of the current Parliamentarians, particularly those who were elected with the promise of bringing a fresh perspective to the nation’s politics.
-
-...
-
-[Data](articles/2dbcf19d.json)
 
 ---

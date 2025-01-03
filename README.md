@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 10:43:39**
+As of **2025-01-03 11:02:07**
 
 ## Newspaper Stats
 
-*Scraped **63,446** Articles*
+*Scraped **63,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 3,866
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,063
-adaderanalk | 7,757
+adaderanalk | 7,759
 tamilmirrorlk | 9,095
-virakesarilk | 10,565
+virakesarilk | 10,568
 adaderanasinhalalk | 10,950
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,446 articles have been extended.
+61,971 (97.7%) of 63,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### பல்கலைக்கழக கட்டமைப்பு விரி­வு­ரை­யா­ளர்கள் பற்றாக்குறையால் பாதிப்பு
+
+*2025-01-03 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202841) · `ta`
+
+நாட்டில் பல்கலைக்கழக கட்டமைப்பு விரி­வு­ரை­யா­ளர்கள் பற்றாக்குறையால் பாதிக்கப்பட்டுள்ளது. அத்தோடு, வெற்றிடமாக உள்ள சில பதவிகளுக்கு தகுதியான நபர்களைக் நியமிக்க அதிகாரிகள் கடுமையாகப் போராடி வருவதாகவும் பொதுநிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் பேராசிரியர் சந்தன அபேரத்ன தெரிவித்துள்ளார்.
+
+கடந்த காலங்களில் ஏற்பட்ட  பொருளாதார நெருக்கடி மற்றும்  ஊதி­யத்தில் விதிக்­கப்­பட்ட தனியாள் வரி போன்ற காரணங்களினால் 1,000 பல்கலைக்கழக விரி­வு­ரை­யா­ளர்கள் நாட்டை விட்டு வெளியேறியுள்ளார்கள்.
+
+சில பதவிகளுக்கு தகுதியானவர்களை நியமிக்க முடியவில்லை. நாங்கள் நேர்காணலை நடத்தும் போது தகுதியானவர்கள் வருவதில்லை. ஏனெனில் அவர்களுக்கு பல்கலைக்கழக கட்டமைப்புக்கு வெளியே சிறந்த ஊதியம் வழங்கப்படுகிறது. உதாரணமாக, சில மருத்துவ பீடங்களில் பேராசிரியர்கள் பற்றாக்குறை உள்ளது. கடந்த அரசாங்கம் அதிக வரி விதித்ததால் பல்கலைக்கழக விரி­வு­ரை­யா­ளர்கள் பாதிக்கப்பட்டனர். இதனால் இளம் விரிவுரையாளர்கள் நாட்டை விட்டு வெளியேறினர்.
+
+...
+
+[Data](articles/fc64df89.json)
+
+---
+
+### யோஷித ராஜபக்ஷ சிஐடியில் ஆஜர்
+
+*2025-01-03 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/202846) · `ta`
+
+முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவின் மகன் யோஷித ராஜபக்ஷ குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளார்.
+
+கதிர்காமம் பிரதேசத்தில் காணி ஒன்றின் உரிமை தொடர்பில் வாக்குமூலம் வழங்குவதற்காகவே அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/89afa613.json)
+
+---
 
 ### சீனாவில் வேகமாக பரவும் புதிய வைரஸ்… அச்சத்தில் உலக நாடுகள்
 
@@ -49,6 +79,38 @@ Human metapneumovirus (HMPV) (HMPV) எனப்படும் ஒரு வை
 ◼️
 
 [Data](articles/22edcb8a.json)
+
+---
+
+### சாவகச்சேரியில் கிணற்றிலிருந்து வயோதிப பெண்ணின் சடலம் மீட்பு!
+
+*2025-01-03 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202842) · `ta`
+
+சாவகச்சேரிப் பொலிஸ் பிரிவுக்குட்பட்ட கிராம்புவில் பகுதியில் உள்ள வயல் கிணறொன்றில் இருந்து நேற்று வியாழக்கிழமை (02) பிற்பகல் வயோதிபப் பெண் ஒருவருடைய சடலம் உருக்குலைந்த நிலையில் மீட்கப்பட்டுள்ளது.
+
+வயலுக்கு பசளை இடச் சென்றவர்கள் மேற்படி சடலத்தை கண்ட நிலையில் இது தொடர்பாக பொலிஸாருக்கு தகவல் வழங்கியுள்ளனர்.
+
+இந்நிலையில் சடலம் மீட்கப்பட்டு பிரேத பரிசோதனை மற்றும் மரண விசாரணைகளுக்காக சாவகச்சேரி ஆதார வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/778c7fa8.json)
+
+---
+
+### Yoshitha Rajapaksa arrives at CID
+
+*2025-01-03 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104690/yoshitha-rajapaksa-arrives-at-cid) · `en`
+
+Yoshitha Rajapaksa, the second son of former President Mahinda Rajapaksa, arrived at the Criminal Investigation Department (CID) this morning (January 3).
+
+He had been summoned by the CID to provide a statement regarding the ownership of a government-owned land in Kataragama.
+
+Accordingly, Yoshitha Rajapaksa was notified to appear before the CID today.
+
+◼️
+
+[Data](articles/f14178f1.json)
 
 ---
 
@@ -119,6 +181,22 @@ These updates address gaps in the regulations established in 2005 and align the 
 ◼️
 
 [Data](articles/55bb9237.json)
+
+---
+
+### China faces new virus outbreak five years after Covid Crisis
+
+*2025-01-03 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104689/china-faces-new-virus-outbreak-five-years-after-covid-crisis) · `en`
+
+China is dealing with an outbreak of the human metapneumovirus (HMPV), five years after the Covid-19 pandemic.
+
+Reports and social media posts suggest that the virus is spreading rapidly, with some claiming that hospitals and crematories are overwhelmed. Videos shared online show crowded hospitals, with some users saying that multiple viruses, including influenza A, HMPV, Mycoplasma pneumoniae, and Covid-19, are circulating.
+
+There are even claims that China has declared a state of emergency, though this has not been confirmed. HMPV is known to cause flu-like symptoms and can also present symptoms similar to Covid-19. Health officials are closely monitoring the situation as the virus spreads.
+
+...
+
+[Data](articles/4a508c3a.json)
 
 ---
 
@@ -1689,95 +1767,5 @@ The value of government securities held by foreign investors was at 69,262 milli
 ...
 
 [Data](articles/db90bb2f.json)
-
----
-
-### தனியார் மற்றும் அரச சார்பு துறை ஊழியர்களின் முறைப்பாடுகளுக்கு பதிலளிக்க வட்ஸ்அப் இலக்கம் அறிமுகம்
-
-*2025-01-02 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202791) · `ta`
-
-தனியார் மற்றும் அரச சார்பு துறையின் ஊழியர்களின் சேவைகளை மிகவும் விரைவாக மேற்கொள்ளவதற்காக தொழில் அமைச்சினால் புதிய வட்ஸ்அப் இலக்கம் ஒன்றை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தொழில் பிரதி அமைச்சர் மஹிந்த ஜயசிங்க தெரிவித்துள்ளார்.
-
-அதன் பிரகாரம் தொழில் அமைச்சு மற்றும் தொழில் திணைக்களத்திடம் நிவாரணம் மற்றும் தலையீடு கோரி பொது மக்களால் சமர்ப்பிக்கப்படும் மகஜர்கள் தொடர்பில் விரைவாக நடவடிக்கை எடுப்பதற்காக 0707227877 என்ற வட்ஸ் அப் இலக்கத்தை அறிமுகப்படுத்தியுள்ளது.
-
-தொழில் திணைக்களத்தின் பிரதான நோக்கம் தொழில் அமைதியை பேணிச்செல்வது மற்றும் அதனை மேலும் பலப்படுத்துவதாகும். அத்துடன் இந்த நாட்டின் தனியார் மற்றும் அரச சார்பு துறை ஊழியர்களின் சேவை பிரச்சினைகளுக்கு விரைவாக நிவாரணம் பெற்றுக்கொடுப்பதாகும்.
-
-அதன் பிரகாரம் பாெது மக்களின் காலம் மற்றும் செலவை கட்டுப்படுத்தல் மற்றும் விரைவாக பதில் அளிப்பதை மேன்படுத்துவதற்கும் அதிகாரிகளின் கால நேரத்தை முகாமைத்துவம் செய்துகொள்ளும் வசதிக்காகவும் இந்த வட்ஸ் அப் இலக்கம் அறிமுகப்படுத்தப்பட்டுள்ளதாகவும் தொழில் பிரதி அமைச்சர் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/694bf989.json)
-
----
-
-### දියවඩන නිලමේවරයාගේ ධුර කාලය සැප්තැම්බර් අවසන්
-
-*2025-01-02 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204972) · `si`
-
-මහනුවර ශ්‍රී දළදා මාලිගාවේ වත්මන් දියවඩන නිලමේවරයාගේ ධුර කාලය මෙම වසරේ සැප්තැම්බර් මා⁣සයෙන් අවසන් වීමට නියමිතව ඇත.
-
-ඒ අනුව නව දියවඩන නිලමේවරයෙකු තෝරා පත් කරගැනීමේ ජන්ද විමසීම මෙම වසරේ දෙසැම්බර් මාසයේදී පැවැත්වීමට නියමිතය.
-
-ඉන් අනතුරුව අවස්ථා 02 කදී ඔහු දියවඩන නිලමේවරයා ලෙස ජන්දයෙන් තේරී පත් වී ඇති බව සඳහන් ය.
-
-◼️
-
-[Data](articles/4dc08a70.json)
-
----
-
-### Sri Lanka records third highest annual tourists in 2024 after missing target
-
-*2025-01-02 17:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-records-third-highest-annual-tourists-in-2024-after-missing-target-197614/) · `en`
-
-ECONOMYNEXT – Sri Lanka missed the island nation’s 2024 tourist target of 2.3 million, but recorded its third highest annual arrival in the year with a 38.1 percent growth led by Indians and Russians, the official data showed.
-
-The Indian Ocean island nation located south of India received 2,053,465 in the last year, compared to 1,487,303 in the previous year.
-
-Sri Lanka’s record high tourism arrival of 2,333,796 has been recorded in 2018 followed by 2,116,407 in the previous year.
-
-The island is popular for nature with beaches and tropical climate, with most European and Western tourists choosing it as the key destination during their winter season falling from November to February.
-
-Analysts said confusion over the visa process from April-September this year could have slowed down arrivals, though the monthly arrivals have shown strong growth compared to the same month last year, but from a lower base.
-
-...
-
-[Data](articles/6b55730e.json)
-
----
-
-### මුද්‍රණ දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය යථා තත්ත්වයට
-
-*2025-01-02 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204970) · `si`
-
-සයිබර් ප්‍රහාරයට ලක්වූ රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවිය මේ වනවිට යථා තත්ත්වයට පත් කර තිබේ.
-
-කෙසේවෙතත් අදාළ සයිබර් ප්‍රහාරය කුමන පාර්ශ්වයක් සිදුක‍ළේ ද යන්න සම්බන්ධයෙන් මෙතෙක් නිශ්චිත තොරතුරු අනාවරණය වී නොමැති බව සඳහන්ය.
-
-පසුගිය දෙසැම්බර් මස 30 වන දින රාත්‍රියේ පොලීසියේ සමාජ මාධ්‍ය ජාලාවලට ද සයිබර් ප්‍රහාරයක් එල්ල වූ අතර, රජයේ මුද්‍රණ දෙපාර්තමේන්තුවේ වෙබ් අඩවියට ද එවැනිම ප්‍රහාරයක් එල්ල වී තිබුණි.
-
-◼️
-
-[Data](articles/9b8e2aa7.json)
-
----
-
-### யாழ். நீதிமன்றுக்கு முன்னால் வைத்து சாட்சியை வாளால் வெட்ட முயன்ற பிரதான சந்தேகநபர் கைது!
-
-*2025-01-02 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/202804) · `ta`
-
-யாழ்ப்பாணம் நீதிமன்றத்தில் உள்ள வழக்கு ஒன்றுக்கு சாட்சிக்காக வந்த நபரை வாளால் வெட்ட முயற்சித்த பிரதான சந்தேகநபர் ஒருவர் இன்று வியாழக்கிழமை (02) கைது செய்யப்பட்டுள்ளார்.
-
-வாள்வெட்டு வழக்கு ஒன்றின் சாட்சிக்காக கடந்த 2024.05.30 அன்று யாழ்ப்பாணம் நீதிமன்றத்திற்கு வந்த நபரை, நீதிமன்றத்துக்கு முன்னால் வைத்து வாளால் வெட்டி தாக்க முற்பட்ட மூவரில் இருவர் அன்றையதினம் பொலிஸாரால் கைது செய்யப்பட்டனர்.
-
-யாழ்ப்பாணம் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கீழ் இயங்கும் பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் யாழ்ப்பாணம் - ஆரியகுளத்தக்கு அருகாமையில் வைத்து குறித்த சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்டவருக்கு வாள்வெட்டு தொடர்பாக மூன்று திறந்த பிடியாணை உள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மேலதிக விசாரணைகளின் பின்னர் அவரை யாழ்ப்பாணம் நீதிமன்றத்தில் முற்படுத்துவதற்கான நடவடிக்கைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/f9ae2553.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 00:17:15**
+As of **2025-01-04 00:28:18**
 
 ## Newspaper Stats
 
-*Scraped **63,542** Articles*
+*Scraped **63,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 640
 bbccomsinhala | 668
 islandlk | 3,862
 economynextcom | 3,876
-dailyftlk | 4,419
+dailyftlk | 4,421
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,773
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,542 articles have been extended.
+61,971 (97.5%) of 63,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### System change and ushering value-based society
+
+*2025-01-03 23:38:42* · [`dailyftlk`](https://www.ft.lk/columns/System-change-and-ushering-value-based-society/4-771369) · `en`
+
+A society devoid of values will always be engaged in trying to expose truths as lies and vice versa
+
+Political leaders, religious leaders and civil society leaders should strive to live, practice and promote values and be examples to others in a society. The cause for propagating lies as truth, and truth as lies, are manifestation of a society without values. If a society has moral values, ethical behaviour, fairness, honesty, and integrity, and people live a value-based life, truth will always prevail as lying will have a very limited use in such a society
+
+“You have the complete right to convince any truth as a lie and any lie as a truth. That is your democratic right. You have the right to see the negative side when the government is doing something good. And also, you have the right to praise when a leader, government, institution or an individual is doing something harmful to society” – NPP Member of Parliament Nilanthi Kottahachchi
+
+...
+
+[Data](articles/7f35f994.json)
+
+---
+
+### Portable speakers problem of Sri Lanka tourism
+
+*2025-01-03 23:36:17* · [`dailyftlk`](https://www.ft.lk/opinion/Portable-speakers-problem-of-Sri-Lanka-tourism/14-771368) · `en`
+
+Offering foreigners who visit Sri Lanka a good night’s sleep is the least we can do
+
+20 to 31 December was a unique time where both locals and tourists flocked to holiday destinations in numbers. We are a small hotel and we were mostly booked by foreigners about five to six months ahead of the Christmas season. Surrounding us are places that mostly cater to Sri Lankans where they mostly advertise on Facebook. People who run them are very nice, cordial and we have no problem with them. We are happy that they get business.
+
+However, most of their local parties come with giant speakers and they make it a point to play immediately on arrival and it goes on until very late and on some days even until 2 a.m. Foreigners, specially Europeans get mad even if a dog barks outside; they want total silence. IT IS IMPOSSIBLE FOR ANY SANE PERSON TO SLEEP with that kind of noise. And no amount of sound proofing can fix these problems.
+
+...
+
+[Data](articles/cb1c832e.json)
+
+---
 
 ### கெஹலியவின் வங்கிக் கணக்குகளை முடக்கும் காலம் நீடிப்பு
 
@@ -1751,39 +1783,5 @@ These updates address gaps in the regulations established in 2005 and align the 
 ...
 
 [Data](articles/cf2072b7.json)
-
----
-
-### பெண் அதிகாரிகளின் அறைக்குள் நுழைந்த பொலிஸ் கான்ஸ்டபிள்
-
-*2025-01-03 09:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-அதிகாரிகளின்-அறைக்குள்-நுழைந்த-பொலிஸ்-கான்ஸ்டபிள்/175-349698) · `ta`
-
-பெண் பொலிஸ் உத்தியோகத்தர்கள் தங்கியிருக்கும் அறைக்குள் அதிகாலையில் பிரவேசித்ததாக கூறப்படும் பொலிஸ் கான்ஸ்டபிள் ஒருவர் நுரைச்சோலை பொலிஸ் நிலைய கட்டளைத் தளபதியினால் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேகநபர் அண்மையில பொலிஸில் இணைந்து கொண்ட பயிலுனர் பொலிஸ் கான்ஸ்டபிள் என தெரிவிக்கப்பட்டுள்ளது.
-
-நேற்றைய தினம் (2ம் திகதி) நுரைச்சோலை பெண் பொலிஸ் உத்தியோகத்தர்கள் தங்கியிருந்த இடத்திற்குள் ஒருவர் நுழைந்துள்ளதாக நிலையத் தளபதிக்கு தகவல் கிடைத்த நிலையில், அவர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட பொலிஸ் கான்ஸ்டபிள் தொடர்பில் கல்பிட்டி உதவி பொலிஸ் அத்தியட்சகருக்கும் அறிவிக்கப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/55bb9237.json)
-
----
-
-### China faces new virus outbreak five years after Covid Crisis
-
-*2025-01-03 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104689/china-faces-new-virus-outbreak-five-years-after-covid-crisis) · `en`
-
-China is dealing with an outbreak of the human metapneumovirus (HMPV), five years after the Covid-19 pandemic.
-
-Reports and social media posts suggest that the virus is spreading rapidly, with some claiming that hospitals and crematories are overwhelmed. Videos shared online show crowded hospitals, with some users saying that multiple viruses, including influenza A, HMPV, Mycoplasma pneumoniae, and Covid-19, are circulating.
-
-There are even claims that China has declared a state of emergency, though this has not been confirmed. HMPV is known to cause flu-like symptoms and can also present symptoms similar to Covid-19. Health officials are closely monitoring the situation as the virus spreads.
-
-...
-
-[Data](articles/4a508c3a.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 23:13:24**
+As of **2025-01-03 23:27:48**
 
 ## Newspaper Stats
 
-*Scraped **63,534** Articles*
+*Scraped **63,536** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 466
-colombotelegraphcom | 639
+colombotelegraphcom | 640
 bbccomsinhala | 668
 islandlk | 3,862
 economynextcom | 3,870
@@ -18,7 +18,7 @@ dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,773
-tamilmirrorlk | 9,105
+tamilmirrorlk | 9,106
 virakesarilk | 10,591
 adaderanasinhalalk | 10,974
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,534 articles have been extended.
+61,971 (97.5%) of 63,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### கெஹலியவின் வங்கிக் கணக்குகளை முடக்கும் காலம் நீடிப்பு
+
+*2025-01-03 23:11:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-வங்கிக்-கணக்குகளை-முடக்கும்-காலம்-நீடிப்பு/175-349710) · `ta`
+
+முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் மனைவி மற்றும் குடும்ப உறுப்பினர்களின் வங்கிக் கணக்குகள், ஆயுள் காப்புறுதி திட்டங்கள் ஆகியவற்றை செயற்படுத்துவதை தடுக்கும் உத்தரவை மேலும் 3 மாதங்களுக்கு நீடித்துக் கொழும்பு மேல்நீதிமன்றம் இன்று உத்தரவிட்டுள்ளது.
+
+கையூட்டல் மற்றும் ஊழல் ஒழிப்பு ஆணைக்குழுவினால் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கு அமைய, கெஹெலிய ரம்புக்வெல்லவின் மனைவி, மகள்கள் மற்றும் உறவினர்களின் 97 மில்லியன் ரூபாயுக்கும் அதிக பெறுமதியான நிலையான வங்கி வைப்புக்கள் மற்றும் ஆயுள் காப்புறுதி திட்டங்கள் என்பவற்றை செயற்படுத்துவதற்கு தடை விதித்து கொழும்பு மேல்நீதிமன்றம் முன்னதாக உத்தரவு பிறப்பித்திருந்தது.
+
+இதன்படி, குறித்த உத்தரவு இன்றுடன் நிறைவடையும் நிலையில், அதனை மேலும் நீடிக்குமாறு ஆணைக்குழு கோரிக்கை விடுத்துள்ளது.
+
+இந்த கோரிக்கையை பரிசீலித்த கொழும்பு மேல்நீதிமன்றம் இந்த உத்தரவை எதிர்வரும் ஏப்ரல் மாதம் 02ஆம் திகதி வரை நீடிக்குமாறு உத்தரவிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c991b69e.json)
+
+---
 
 ### අපනයන වෙළෙඳපොළ වෙනුවෙන් කාබනික සීනි නිෂ්පාදනය කිරීමට අවධානය
 
@@ -391,6 +409,18 @@ The former PS member was arrested this morning (3) at his residence in Batagoda.
 ◼️
 
 [Data](articles/0f1a82d8.json)
+
+---
+
+### Children First – Road Map For The New Government Of Sri Lanka
+
+*2025-01-03 17:40:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/children-first-road-map-for-the-new-government-of-sri-lanka/) · `en`
+
+Stop Child Cruelty Trust (SCCT) and Child Protection Alliance (CPA) comprising thirteen credible organizations committed to protect and promote the rights of children have appealed to The President, Anura Kumara Dissanayake and the newly elected Government of Sri Lanka (GOSL) to  elevate child welfare to the heart of national governance ushering a new dawn firmly focusing on the true beneficiaries of the future, our children first.
+
+...
+
+[Data](articles/36719b15.json)
 
 ---
 
@@ -1747,37 +1777,5 @@ Ongoing infrastructure developments, including the partial operation of the Colo
 ◼️
 
 [Data](articles/d754a333.json)
-
----
-
-### சிறைச்சாலையில் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
-
-*2025-01-03 09:15:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலையில்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-349695) · `ta`
-
-மாத்தறை சிறைச்சாலையில் மரமொன்று முறிந்து விழுந்ததில் காயமடைந்து தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த மற்றொரு கைதியும் உயிரிழந்ததாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்தார்.
-
-இந்த விபத்தில் 11 பேர் காயமடைந்த நிலையில் மாத்தறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், ஆபத்தான நிலையிலிருந்த ஒருவரே இவ்வாறு உயிரிழந்ததாகத் தெரிவிக்கப்படுகின்றது. R
-
-◼️
-
-[Data](articles/33efd5f0.json)
-
----
-
-### மெதகம பகுதியில் புதையல் தோண்டிய 4 சந்தேகநபர்கள் கைது!
-
-*2025-01-03 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202838) · `ta`
-
-மெதகம பொலிஸ் பிரிவுக்குட்பட்ட ஹெல அராவ பகுதியில்  நேற்று வியாழக்கிழமை (02) சட்டவிரோதமாக புதையல் தோண்டிய சந்தேகநபர்கள் நால்வர் கைது செய்யப்பட்டுள்ளனர்.
-
-புதையல் தோண்டும் நடவடிக்கை  மேற்கொள்ளப்பட்டு வருவதாக பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பில் சந்தேக நபர்கள் செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேகநபர்கள் 18, 39, 46 மற்றும் 58 வயதுடைய ஆனமடுவ, மெதகம மற்றும் மடுகல்ல பகுதிகளைச் சேர்ந்தவர்களாவர்.
-
-கைது செய்யப்பட்ட சந்தேகநபர்கள் உட்பட புதையல் தோண்டும் நடவடிக்கைக்காக பயன்படுத்தப்பட்ட உபகரணங்கள்  பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/865b56b4.json)
 
 ---

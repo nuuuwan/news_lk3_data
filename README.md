@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 02:27:51**
+As of **2025-01-04 02:44:05**
 
 ## Newspaper Stats
 
-*Scraped **63,561** Articles*
+*Scraped **63,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 640
 bbccomsinhala | 668
 islandlk | 3,864
 economynextcom | 3,876
-dailyftlk | 4,428
+dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,774
@@ -26,11 +26,49 @@ adaderanasinhalalk | 10,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,561 articles have been extended.
+61,971 (97.5%) of 63,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Govt. denies claims of suppressing street hawkers under Clean Sri Lanka program
+
+*2025-01-04 02:20:19* · [`dailyftlk`](https://www.ft.lk/news/Govt-denies-claims-of-suppressing-street-hawkers-under-Clean-Sri-Lanka-program/56-771387) · `en`
+
+Emphasises citizens have the right to lodge complaints against media organisations that disseminate false information
+
+Claims publication in question has repeatedly published inaccurate reports that have harmed SL
+
+Cabinet Spokesperson and Minister of Mass Media Dr. Nalinda Jayatissa
+
+The Government has strongly denied a news report published in a Sinhala daily, which alleged that street hawkers are being prevented from conducting business under the Clean Sri Lanka national initiative.
+
+Addressing the media yesterday, Cabinet Spokesperson and Minister of Mass Media Dr. Nalinda Jayatissa, dismissed the claims as baseless and criticised what he termed “unethical media practices.” He reiterated the Government’s commitment to upholding freedom of expression while asserting its authority to act against media outlets engaging in misleading and malicious reporting.
+
+...
+
+[Data](articles/9d34b1b6.json)
+
+---
+
+### Rehan resigns from SJB and Weligama organiser role
+
+*2025-01-04 02:18:25* · [`dailyftlk`](https://www.ft.lk/news/Rehan-resigns-from-SJB-and-Weligama-organiser-role/56-771386) · `en`
+
+Says his vision for future no longer aligns with SJB’s direction
+
+Expresses belief that his decision is in best interest of both himself and party
+
+Stresses after consecutive election defeats he must now prioritise family and business commitments
+
+Rehan Jayawickreme has officially stepped down from the Samagi Jana Balawegaya (SJB) and relinquished his position as the party’s Weligama Organiser. In a letter addressed to the party’s General Secretary, Ranjith Maddumabandara, dated 1 January 2025, Jayawickreme cited both personal and professional reasons for his decision, marking a significant juncture in his political career.
+
+...
+
+[Data](articles/fb46cba9.json)
+
+---
 
 ### Police website was not hacked: SSP Manatunga
 
@@ -1739,39 +1777,5 @@ The restraining order, which was set to expire today, has now been extended unti
 ◼️
 
 [Data](articles/ef95dc2f.json)
-
----
-
-### Sri Lanka S&P SL20 hits 5,000 mark
-
-*2025-01-03 11:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-sp-sl20-hits-5000-mark-197767/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange’s more liquid index, the S&P SL20, which tracks the top 20 largest and most liquid stocks, went beyond the 5,000 mark during mid-morning trade Friday.
-
-The Index was up 0.60 percent, or 29.87 percent, at 5,001.74, after reaching an all-time high on Thursday.
-
-The broader ASPI was up 0.64 percent, or 104.43 points at 16,452.
-
-Constituents such as diversified John Keells Holdings was up at 24.20 rupees, while LOLC Holdings was down at 713.50; of the banks Commercial Bank was down at 145.25, Sampath Bank was down at 121.25.
-
-Sri Lanka stocks have been on a bull run amid low interest rates and banks awash in excess liquidity in the last quarter making margin loans cheap.
-
-The market also has had positive news, with improvements in banking sector, conclusion of debt restructuring.
-
-...
-
-[Data](articles/79a37510.json)
-
----
-
-### පහේ ශිෂ්‍යත්වය නැති කරනවාද නැද්ද ?
-
-*2025-01-03 11:39:18* · [`adalk`](https://www.ada.lk/breaking_news/පහේ-ශිෂ්‍යත්වය-නැති-කරනවාද-නැද්ද--/11-413991) · `si`
-
-පසුගිය ජනවාරි 02 දින අරලියගහ මන්දිරයේදී අග්‍රමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පලාත් අධ්‍යාපන ප්‍රධානීන් හමුවෙමින් රටේ ඉදිරි අධ්‍යපන සැලසුම් ප්‍රථිපත්ති පිලිබඳ සාඛච්චාවක නිරතවී තිබෙනවා. ඒහිදී සිදුකරන පරිවර්ථනීය වෙනස්කම් වලදී අවබොධයෙන් හා ඒකඟතාවෙන් කටයුතු කල යුතු බවඉතාමත් අවධාරණයෙන් අදහස් දක්වා තිබෙනවා. ඒසේ ාවුනහොත් අර්බුධයක් ඇතිවීමට ඉඩකඩ ඇතිබවත් අධ්‍යපනය යනු ඉතාමත් සංවේදී මාතෘකවක් බවත් ප්‍රකාශ කොට තිබෙනවා. ඒහදී අදහස් දැක්වූ ඒතුමිය පහේ ශිෂ්‍යත්වය පිලිබඳ දක්වා ඇත්තේ මෙවන් අදහසක්.
-
-...
-
-[Data](articles/f748611d.json)
 
 ---

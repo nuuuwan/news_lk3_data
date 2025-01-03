@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 02:02:47**
+As of **2025-01-04 02:27:51**
 
 ## Newspaper Stats
 
-*Scraped **63,552** Articles*
+*Scraped **63,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 640
 bbccomsinhala | 668
-islandlk | 3,862
+islandlk | 3,864
 economynextcom | 3,876
-dailyftlk | 4,422
+dailyftlk | 4,428
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,774
-tamilmirrorlk | 9,106
+tamilmirrorlk | 9,107
 virakesarilk | 10,597
 adaderanasinhalalk | 10,974
 
@@ -26,11 +26,121 @@ adaderanasinhalalk | 10,974
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,552 articles have been extended.
+61,971 (97.5%) of 63,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Police website was not hacked: SSP Manatunga
+
+*2025-01-04 02:16:34* · [`dailyftlk`](https://www.ft.lk/news/Police-website-was-not-hacked-SSP-Manatunga/56-771385) · `en`
+
+The Sri Lanka Police yesterday confirmed that its official website was not compromised during the recent cyber-attack on its social media accounts.
+
+Addressing a media briefing organised by the Government Information Department, Police Media Spokesman SSP Buddhika Manatunga explained that while the Police’s YouTube, Facebook and Twitter accounts were targeted, the website remained secure. “We were able to recover all four social media accounts within four to five hours. Additional time was needed to recover the YouTube account, but the website was neither hacked nor compromised,” he said.
+
+He said the initial investigations into the cyber attack have revealed that it was conducted from overseas targeting multiple entities. “It was not an isolated attack on Sri Lanka Police, there were similar incidents reported from India. The Police Cyber Crimes Division is conducting further investigation into the incident,” he added.
+
+...
+
+[Data](articles/27e51c91.json)
+
+---
+
+### கடந்த ஆண்டில் அதிகளவான வரி வருமானம்
+
+*2025-01-04 02:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடந்த-ஆண்டில்-அதிகளவான-வரி-வருமானம்/175-349711) · `ta`
+
+இலங்கை வரலாற்றில் 2024 ஆம் ஆண்டிலேயே அதிக வரிவருமானம் ஈட்டப்பட்டுள்ளதாக உள்நாட்டு இறைவரித்திணைக்களம் தெரிவித்துள்ளது.
+
+2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில், 2024 ஆம் ஆண்டில் வரி வருமானம் 25.1 சதவீதத்தால் அதிகரித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இதன்படி, 2023 ஆம் ஆண்டில் 1.56 ரில்லியன் ரூபா வரி வருமானமாக ஈட்டப்பட்டுள்ளது.
+
+குறிப்பாக, 2024ஆம் ஆண்டில் வருமான வரியாக 112.1 பில்லியன் ரூபா ஈட்டப்பட்டுள்ளதுடன் வற் வரியினுடாக 245.5 பில்லியன் ரூபாய் வருமானம் ஈட்டப்பட்டுள்ளதாக உள்நாட்டு இறைவரித் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/48ffbfad.json)
+
+---
+
+### UNP appoints Thalatha Athukorala as new General Secretary
+
+*2025-01-04 02:14:23* · [`dailyftlk`](https://www.ft.lk/news/UNP-appoints-Thalatha-Athukorala-as-new-General-Secretary/56-771384) · `en`
+
+Former MP Thalatha Athukorala has been appointed as the General Secretary of the United National Party (UNP).
+
+UNP Chairman Wajira Abeywardana said that the appointment was made by Party Leader Ranil Wickremesinghe.
+
+Prior to the 2024 Presidential Election, Athukorala stepped down from the Samagi Jana Balawegaya (SJB) citing differences of opinion within the party. She extended her support to former President Ranil Wickremesinghe in the 2024 Presidential Election, during a rally in Welimada.
+
+◼️
+
+[Data](articles/239c29e8.json)
+
+---
+
+### Sri Lanka holds trade, investment and tourism promotion forum at Eastern Province of Saudi Arabia
+
+*2025-01-04 02:11:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-holds-trade-investment-and-tourism-promotion-forum-at-Eastern-Province-of-Saudi-Arabia/34-771383) · `en`
+
+The Embassy of Sri Lanka in Riyadh under the Economic Diplomacy Initiative of the Ministry of Foreign Affairs of Sri Lanka successfully organised a trade, investment, and tourism promotion forum at Ashqariya Chamber of Commerce in the Eastern Province of the Kingdom of Saudi Arabia on 18 December 2024. The forum was followed by a catalogue exhibition showcasing Sri Lanka’s export products and services as well as investment opportunities and places of tourist attractions to Saudi market.
+
+Ashqariya Chamber Vice Chairman Hamad Alamar made a welcome address expressing appreciation to the Sri Lanka Embassy initiative and reaffirming the Chamber’s commitment to fostering stronger private sector ties between Sri Lanka and Saudi Arabia.
+
+...
+
+[Data](articles/89fb7859.json)
+
+---
+
+### Ceylon Chamber wins Gold and multiple honours at TAGS and CMA Awards 2024
+
+*2025-01-04 02:08:55* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-wins-Gold-and-multiple-honours-at-TAGS-and-CMA-Awards-2024/34-771382) · `en`
+
+Ceylon Chamber with the Gold Award at TAGS Annual Report Awards 2024
+
+The Ceylon Chamber of Commerce has announced it was recognised for outstanding commitment to excellence in reporting and governance, winning the Gold Award in the Not-for-Profit/Non-Governmental Organisations Category at the TAGS Annual Report Awards 2024, organised by the Chartered Accountants Sri Lanka.
+
+Additionally, the Ceylon Chamber was also awarded the Sector Award and a Certificate of Compliance at the Annual Report Awards 2024, hosted by the Institute of Certified Management Accountants of Sri Lanka (CMA).
+
+These accolades underscore the Ceylon Chamber’s dedication to upholding the highest standards of transparency, accountability, and governance in its operations and reporting. The recognition highlights the Chamber’s commitment to ensuring benchmark levels of service to the business community while aligning with international best practices.
+
+...
+
+[Data](articles/e1b9b3d3.json)
+
+---
+
+### Beam Hela Osu Lanka honoured at Entrepreneur Awards
+
+*2025-01-04 02:07:13* · [`dailyftlk`](https://www.ft.lk/business/Beam-Hela-Osu-Lanka-honoured-at-Entrepreneur-Awards/34-771381) · `en`
+
+Beam Hela Osu Lanka Chairman Dr. R.A.B.R. Piyarathna receiving the award
+
+Beam Hela Osu Lanka Ltd., a renowned Ayurvedic product manufacturer in Sri Lanka, was recognised with a Merit award in the Industry Manufacturing Sector – Medium category at the Entrepreneur Awards 2024 for the Western Province. Organised by the National Enterprise Development Authority and The National Chamber of Commerce of Sri Lanka, the award ceremony was recently held in Colombo. Founded in 1984, Beam Hela Osu Lanka has been a pioneer in the production of genuine herbal products, offering a wide range of trusted items. Popular products include Jeewa Syrup and Kapparawalliya Paniya for Herbal Child Care, Beam Suwa Dharani and herbal teas for Herbal Drinks, Beam Balm and Camphor Cream for Herbal Medicated Balms, and immunity boosters like Sudarshana Capsules and Suwoda Peyawa. These products are widely available through western and Ayurvedic pharmacies, supermarkets, and doctors across Sri Lanka.
+
+...
+
+[Data](articles/a7bb12df.json)
+
+---
+
+### Allianz Lanka’s Women in Leadership hosts program for teenagers – “Preparing for Life in a Digital Generation”
+
+*2025-01-04 02:05:14* · [`dailyftlk`](https://www.ft.lk/business/Allianz-Lanka-s-Women-in-Leadership-hosts-program-for-teenagers-Preparing-for-Life-in-a-Digital-Generation/34-771380) · `en`
+
+Allianz Lanka’s Women in Leadership (WIL) hosted an insightful program at Allianz Lanka’s Head Office for teenage children of Allianz Lanka employees, focusing on the theme “Preparing Teens for Life in a Digital Generation”. This initiative is aimed at equipping teenage children with the knowledge and skills necessary to navigate the complexities of the digital age.
+
+The event commenced with an engaging session by Colombo Community Policing Division Officer in Charge and Chief Inspector of Police Manoj Samarasekara, who emphasised the importance of online safety, responsible digital behaviour, and protecting personal information in the online space. Following this, Counseling Psychologist, Certified Parent Coach, and Corporate Trainer Maya Dissanayake, provided practical guidance on managing stress and maintaining a healthy balance between screen time and other aspects of life.
+
+...
+
+[Data](articles/dc003432.json)
+
+---
 
 ### சீனாவில் பரவி வரும் எச்.எம்.பி.வி வைரஸ் தொற்றுக் குறித்து சுகாதாரத் துறை கவனம் செலுத்தியுள்ளது -  சுகாதார அமைச்சு
 
@@ -1663,131 +1773,5 @@ The market also has had positive news, with improvements in banking sector, conc
 ...
 
 [Data](articles/f748611d.json)
-
----
-
-### බැඳුම්කර ගිවිසුම් කඩකල ආචාර්යවරු 35 ක්  කොළඹ සරසවියට රු. කෝටි 16 ක පොලු තියලා
-
-*2025-01-03 11:35:51* · [`adalk`](https://www.ada.lk/breaking_news/බැඳුම්කර-ගිවිසුම්-කඩකල-ආචාර්යවරු-35-ක්--කොළඹ-සරසවියට-රු--කෝටි-16-ක-පොලු-තියලා/11-413990) · `si`
-
-කොළඹ විශ්ව විද්‍යාලයේ බැඳුම්කර ගිවිසුම් කඩකළ ආචාර්යවරුන් 35 දෙනෙකුගෙන් රුපියල් 159,907,138 ක මුදලක් එම විශ්ව විද්‍යාලයට අයවිය යුතුව ඇතැයි ජාතික විගණන කාර්යාලය කොළඹ විශ්ව ව්ද්‍යාලය සම්බන්ධයෙන් නිකුත් කළ විගණන වාර්තාවක්  මගින්  අනාවරණය කරයි.
-
-වසර 01 සිට වසර 34 දක්වා කාලපරිච්ඡේදයක් ගතවී තිබුණත් එම මුදල්  ආපසු අයකර ගැනීමට විශ්ව ව්ද්‍යාලය අපොහොසත් වී ඇති බවද විගණනයෙන් පෙන්වා දී ඇත.
-
-විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ  නීති රීති රෙගුලාසි අනුව අදාළ ආචාර්යවරුන්ගෙන් මෙම  මුදල් අයකර ගැනීමට කටයුතු කළ යුතු බවට  විගණන කාර්යාලය මගින් විශ්ව විද්‍යාලය වෙත  නිර්දේශ ලබා දී තිබේ.
-
-මේ පිළිබඳව අවශ්‍ය කටයුතු සිදුකරමින් පවතින බව විශ්ව ව්ද්‍යාලයේ කළමනාකාරිත්වය  විසින් විගණනයට දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/99430e4a.json)
-
----
-
-### Thalatha Athukorala appointed UNP General Secretary
-
-*2025-01-03 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/104692/thalatha-athukorala-appointed-unp-general-secretary) · `en`
-
-Former Member of Parliament Thalatha Athukorala has been appointed as the General Secretary of the United National Party (UNP).
-
-The appointment has been made by former President and UNP leader Ranil Wickremesinghe, according to UNP Chairman Wajira Abeywardane.
-
-◼️
-
-[Data](articles/24f591a7.json)
-
----
-
-### එජාපයේ මහ ලේකම් ධුරයට තලතා අතුකෝරල
-
-*2025-01-03 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204987) · `si`
-
-එක්සත් ජාතික පක්ෂයේ මහ ලේකම් ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රිනි තලතා අතුකෝරල මහත්මිය පත්කර තිබේ.
-
-අදාළ පත්වීම හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක, රනිල් වික්‍රමසිංහ මහතා විසින් සිදුකළ බව එම පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා පැවසීය.
-
-◼️
-
-[Data](articles/5784ca31.json)
-
----
-
-### ගුවන් හමුදාවේ ගුවන් යානා ඇණිය ශක්තිමත් කිරිමට යයි
-
-*2025-01-03 11:07:30* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදාවේ-ගුවන්-යානා-ඇණිය-ශක්තිමත්-කිරිමට-යයි/11-413989) · `si`
-
-ශ්‍රි ලංකා ගුවන් හමුදාව 2025 වසරේ අලුතෙන් ගුවන් යානා නවයක් ලබා ගැනීමට නියමිතය. එක්සත් ජනපදයෙන් බෙල් 206 හෙලිකොප්ටර් යානා අටක් සහ පාකිස්ථානයෙන් FT-7 පුහුණු ගුවන් යානයක්  ලබා ගනියි.
-
-2025 පළමු කාර්තුවේදී එක්සත් ජනපදය විසින් TH-57 සී රේන්ජර් බෙල් 206 හෙලිකොප්ටර් යානා අටක් ගුවන් හමුදාව වෙත ලබා දෙන බව ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා පවසයි.
-
-ශ්‍රී ලංකාව සහ එක්සත් ජනපදය අතර දිගුකාලීන සාකච්ඡාවලින් පසුව මෙම හෙලිකොප්ටර් යානා ලබාදෙන්නේ ශ්‍රී ලංකා ගුවන් හමුදාවේ ගුවන් හැකියාවන් ඉහළ නැංවීම අරමුණිනි.
-
-ගුවන් හමුදා බලඇණිය තවදුරටත් ශක්තිමත් කරමින් නුදුරු අනාගතයේ දී ගුවන් හමුදාවට පාකිස්තාන ජෙට් යානයද ලැබෙනු ඇති බව ගුවන් හමුදාපතිවරයා පැවසීය.
-
-පසුගිය වර්ෂයේ සැප්තැම්බර් මාසයේදී ශ්‍රී ලංකා ගුවන් හමුදාවට එක්සත් ජනපදයෙන් Beechcraft King Air 360ER ගුවන් යානයක් ලැබුණු අතර, දෙසැම්බර් මාසයේදී ඕස්ට්‍රේලියාවෙන් Beechcraft King Air 350 ගුවන් යානයක් ලැබිණි.
-
-◼️
-
-[Data](articles/ea8d1588.json)
-
----
-
-### Lasantha Karunasekara appointed CEO of Sri Lanka’s Durdans hospital
-
-*2025-01-03 11:07:00* · [`economynextcom`](https://economynext.com/dr-lasantha-karunasekara-appointed-ceo-of-sri-lankas-durdans-hospital-197758/) · `en`
-
-ECONOMYNEXT – Lasantha Karunasekara has been appointed chief executive officer of Ceylon Hospitals PLC, as well as Durdans Medical and Surgical Hospital (Pvt) Ltd, effective January 1, the company said.
-
-Karunasekara has a professional career spanning over 22 years with over a decade of C-suite experience, the company said in a stock exchange filing.
-
-He was previously Deputy CEO/Director Medical Services of Lanka Hospitals PLC.
-
-He also served as the Director General Manager of Hemas Hospitals.
-
-An alumnus of St Thomas’ College, Mount Lavinia He holds a Doctor of Medicine (MD) from Russian state medical university and advanced diversified qualifications across many areas to include an MBA (UK), CMA (Aus.), Lean Practitioner (ILM), and Certified Professional Coach (ICF).
-
-Ceylon Hospitals shares were trading up at 123.50, and non-voting shares were trading down at 99.00. (Colombo/Jan3/2025)
-
-◼️
-
-[Data](articles/b7a6e7dc.json)
-
----
-
-### Lasantha Karunasekara appointed CEO of Sri Lanka’s Durdans hospital
-
-*2025-01-03 11:07:00* · [`economynextcom`](https://economynext.com/lasantha-karunasekara-appointed-ceo-of-sri-lankas-durdans-hospital-197758/) · `en`
-
-ECONOMYNEXT – Lasantha Karunasekara has been appointed chief executive officer of Ceylon Hospitals PLC, as well as Durdans Medical and Surgical Hospital (Pvt) Ltd, effective January 1, the company said.
-
-Karunasekara has a professional career spanning over 22 years with over a decade of C-suite experience, the company said in a stock exchange filing.
-
-He was previously Deputy CEO/Director Medical Services of Lanka Hospitals PLC.
-
-He also served as the Director General Manager of Hemas Hospitals.
-
-An alumnus of St Thomas’ College, Mount Lavinia He holds a Doctor of Medicine (MD) from Russian state medical university and advanced diversified qualifications across many areas to include an MBA (UK), CMA (Aus.), Lean Practitioner (ILM), and Certified Professional Coach (ICF).
-
-Ceylon Hospitals shares were trading up at 123.50, and non-voting shares were trading down at 99.00. (Colombo/Jan3/2025)
-
-◼️
-
-[Data](articles/f648e279.json)
-
----
-
-### Ex-PS member arrested for defamatory social media posts on MP Kottahachchi
-
-*2025-01-03 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104691/ex-ps-member-arrested-for-defamatory-social-media-posts-on-mp-kottahachchi) · `en`
-
-The Criminal Investigation Department (CID) has arrested former SLPP member of the Millaniya Pradeshiya Sabha, Raveendra Rammuni.
-
-He has been arrested for allegedly sharing defamatory statements on social media about National People’s Power (NPP) Member of Parliament Nilanthi Kottahachchi.
-
-The arrest was made this morning (3) at his residence in Batagoda.
-
-◼️
-
-[Data](articles/838441ea.json)
 
 ---

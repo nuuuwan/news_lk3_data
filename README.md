@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 17:27:47**
+As of **2025-01-03 17:45:11**
 
 ## Newspaper Stats
 
-*Scraped **63,504** Articles*
+*Scraped **63,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,862
 economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
-adalk | 6,068
+adalk | 6,069
 adaderanalk | 7,768
 tamilmirrorlk | 9,101
 virakesarilk | 10,583
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,964
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,504 articles have been extended.
+61,971 (97.6%) of 63,505 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -345,6 +345,22 @@ In addition to this, hospital records also reveal that foreign tourists, particu
 ...
 
 [Data](articles/644c9901.json)
+
+---
+
+### මන්ත්‍රි කොට්ටහච්චිට සමාජ මාධ්‍යයේ අපහාස කළ හිටපු මන්ත්‍රි අල්ලයි
+
+*2025-01-03 14:23:34* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-කොට්ටහච්චිට-සමාජ-මාධ්‍යයේ-අපහාස-කළ-හිටපු-මන්ත්‍රි-අල්ලයි/11-413993) · `si`
+
+ජාතික ජන බලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නිලන්ති කොට්ටහච්චි මහත්මියගේ කීර්ති නාමයට හානි වන පරිදි මුහුණු පොතේ පෝස්ටුවක් පළ කළ බව කියන මිල්ලදෙනිය ප්‍රාදේශීය සභා හිටපු මන්ත්‍රීවරයකු වන ද රවීන්ද්‍ර රම්මුතු  නොහොත් කෝකිල නමැති අය අද(3)දා පෙරවරුවේ කොළඹ අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව විසින් ඔහුගේ නිවස පිහිටි බටගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+නිලන්ති කොට්ටහච්චි මන්ත්‍රීවරිය කොළඹ ප්‍රසිද්ධ හෝටල් වෙත රැගෙන යන මන්ත්‍රීවරු සමග ඇය මුදලට යහන්ගත වන බවට  හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයා මුහුණු පොත හරහා පෝස්ටුවක් පළ කර තිබුණි. මේ පිළිබඳව මන්ත්‍රීවරියගේ නීතිඥවරු කොළඹ අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ ඒකකය වෙත පැමිණිල්ලක් කොට ඇයගේ කීර්ති නාමයට හානි පැමිණවීමට එරෙහිව නීතිමය පියවර ගන්නා ලෙස ඉල්ලා තිබුණි.
+
+ඒ අනුව මේ තැනැත්තා අත්අඩංගුවට ගැනීමට ඊයේ (2)දා ඔහු පදිංචි නිවසට ගිය අවස්ථාවේ ඔහු නිවසේ නොසිටි බව පවසන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පසුව බටගොඩ ප්‍රදේශයේදී අද ඔහු අත්අඩංගුවට ගත් බව ප්‍රකාශ කරයි.
+
+◼️
+
+[Data](articles/09185a8a.json)
 
 ---
 
@@ -1747,23 +1763,5 @@ This landmark achievement was made possible through the financial support of the
 ...
 
 [Data](articles/bee9d953.json)
-
----
-
-### Ranil meets Nepal’s Prime Minister in private visit
-
-*2025-01-03 05:46:46* · [`dailyftlk`](https://www.ft.lk/news/Ranil-meets-Nepal-s-Prime-Minister-in-private-visit/56-771322) · `en`
-
-Nepalese Prime Minister KP Sharma Oli and former President of Sri Lanka, Ranil Wickremesinghe, held a meeting this week at the Prime Minister’s official residence in Baluwatar, Kathmandu.
-
-During the meeting, they discussed matters concerning Nepal-Sri Lanka bilateral relations and mutual interests, foreign media reported.
-
-According to the Nepalese Prime Minister’s Secretariat, House of Representatives (HoR) member and industrialist Binod Chaudhary was also present. Wickremesinghe, a long-time friend of Prime Minister Oli, arrived in Nepal on 28 December for a private visit and is returning to Sri Lanka today, the report said. Wickremesinghe, who has served as the Prime Minister of Sri Lanka, arrived in Nepal on 28 December and his visit comes as part of his continued diplomatic and personal ties with Nepal.
-
-The discussions are expected to further enhance the cooperation and friendship between the two nations.
-
-◼️
-
-[Data](articles/7d6669f5.json)
 
 ---

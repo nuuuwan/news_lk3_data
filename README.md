@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 00:28:18**
+As of **2025-01-04 00:43:19**
 
 ## Newspaper Stats
 
-*Scraped **63,544** Articles*
+*Scraped **63,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ colombotelegraphcom | 640
 bbccomsinhala | 668
 islandlk | 3,862
 economynextcom | 3,876
-dailyftlk | 4,421
+dailyftlk | 4,422
 dailymirrorlk | 4,733
 adalk | 6,071
-adaderanalk | 7,773
+adaderanalk | 7,774
 tamilmirrorlk | 9,106
-virakesarilk | 10,591
+virakesarilk | 10,596
 adaderanasinhalalk | 10,974
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,544 articles have been extended.
+61,971 (97.5%) of 63,551 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,6 +82,76 @@ However, most of their local parties come with giant speakers and they make it a
 
 ---
 
+### Climate-smart start-ups and entrepreneurship in Sri Lanka
+
+*2025-01-03 22:55:03* · [`dailyftlk`](https://www.ft.lk/columns/Climate-smart-start-ups-and-entrepreneurship-in-Sri-Lanka/4-771367) · `en`
+
+Climate-smart entrepreneurship can play a significant role for Sri Lanka’s blue and green economic growth and long-term resilience
+
+The dawn of 2025 provides an opportunity to contemplate about Sri Lanka’s way forward in the context of multiple planetary crises and the need for economic recovery and growth. Climate-smart entrepreneurship can play a significant role in this regard not only by addressing the impacts of the climate and biodiversity crises but also in the context of blue and green economies, sustainable development, finance, innovation, and frontier technologies.
+
+...
+
+[Data](articles/a06ce927.json)
+
+---
+
+### வரலாற்றுப் புகழ்மிக்க காலிமுகத் திடலில் 97ஆவது தேசிய குத்துச்சண்டை சம்பியன்ஷிப்
+
+*2025-01-03 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202920) · `ta`
+
+இலங்கை குத்துச்சண்டை சங்கம் (BASL) ஏற்பாடு செய்துள்ள  97ஆவது  தேசிய குத்துச்சண்டை சம்பியன்ஷிப் முதல் தடவையாக வரலாற்றுப் புகழ்மிக்க காலிமுகத் திடலில் எதிர்வரும் 23ஆம் திகதியிலிருந்து 26ஆம் திகதிவரை நடைபெறவுள்ளது.
+
+குத்துச்சண்டை விளையாட்டை மக்கள் மத்தியில் பிரபல்யம் அடையச் செய்வதை நோக்காகக் கொண்டு இம்முறை திறந்த அரங்கில் போட்டிகளை நடத்த இலங்கை குத்துச்சண்டை சங்கம் தீர்மானித்துள்ளது.
+
+நீர்கொழும்பு கடற்கரை மற்றும் கண்டி ஆகிய இடங்களில் திறந்த அரங்குகளில் நடத்தப்பட்ட போட்டிகளின் தொடர்ச்சியாக காலிமுகத்திடலில் இருபாலாருக்குமான தேசிய குத்துச்சண்டை சம்பியன்ஷிப் அரங்கேற்றப்படவுள்ளது.
+
+25 எடைப் பிரிவுகளில் (13 ஆண்கள் மற்றும் 12 பெண்கள்) முப்படை மற்றும் பொலிஸ் பிரிவைச் சேர்ந்த வீர,வீராங்கனைகள் உட்பட நாடு முழுவதிலுமிருந்து 125 முன்னணி குத்துச்சண்டை  வீர,வீராங்கனைகள்   பங்கேற்பதால் இந்த வருட சாம்பியன்ஷிப் ஒரு முக்கியம்வாய்ந்த போட்டியாக அமையவுள்ளது.
+
+...
+
+[Data](articles/441c091a.json)
+
+---
+
+### ரிக்ல்டன் 176 ஆ.இ., புவுமா 106; பலமான நிலையில் தென் ஆபிரிக்கா
+
+*2025-01-03 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202919) · `ta`
+
+கேப் டவுன், நியூலண்டஸ் விளையாட்டரங்கில் வெள்ளிக்கிழமை (3) ஆரம்பமான பாகிஸ்தானுக்கு எதிரான 2ஆவது டெஸ்ட் கிரிக்கெட் போட்டியில் தென் ஆபிரிக்கா பலம்வாய்ந்த நிலையை அடைந்துள்ளது.
+
+ரெயான் ரிக்ல்டன், அணித் தலைவர் டெம்பா பவுமா ஆகிய இருவரும் குவித்த சதங்களின் உதவியுடன் முதலாம் நாள் ஆட்ட நேர முடிவில் தென் ஆபிரிக்கா அதன் முதல் இன்னிங்ஸில் 4 விக்கெட்களை இழந்து 316 ஓட்டங்களைக் குவித்து பலமான நிலையில் இருக்கிறது.
+
+ஏய்டன் மார்க்ராம் (17), வியான் முல்டர் (5), ட்ரைஸ்டன் ஸ்டப்ஸ் (0) ஆகிய மூவரும் 11 ஓட்டங்கள் வித்தியாசத்தில் ஆட்டம் இழந்தனர். (72 - 3 விக்)
+
+அதன் பின்னர் ஜோடி சேர்ந்த ரெயான் ரிக்ல்டன், டெம்பா பவுமா ஆகிய இருவரும் பொறுப்புடன் துடுப்பெடுத்தாடி 4ஆவது விக்கெட்டில் 235 ஓட்டங்களைப் பகிர்ந்து தென் ஆபிரிக்காவை பலமான நிலையில் இட்டனர்.
+
+டெம்பா பவுமா தனது 4ஆவது டெஸ்ட் சதத்தைப் பூர்த்தி செய்த சிறிது நேரத்தில் 106 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
+
+...
+
+[Data](articles/4e9f16d9.json)
+
+---
+
+### மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்பட்டுகின்ற காற்றாலை மின் உற்பத்தி மற்றும் கனிய மணல் அகழ்வு தற்காலிகமாக நிறுத்த தீர்மானம் - மன்னார் பிரதேச ஒருங்கிணைப்புக் குழு
+
+*2025-01-03 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202918) · `ta`
+
+மன்னார் பகுதியில் மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்பட்டு வருகின்ற காற்றாலை மின் உற்பத்தி மற்றும் கனிய மணல் அகழ்வு போன்றவை உடனடியாக தற்காலிகமாக நிறுத்தப்பட வேண்டும் மன்னார் பிரதேச ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் முடி வெடுக்கப்பட்டதோடு,குறித்த அறிவிப்பை   ஒருங்கிணைப்பு குழு தலைவரும் பிரதி அமைச்சருமான உபாலி சமரசிங்க விடுத்துள்ளார்.
+
+மன்னார் பிரதேச ஒருங்கிணைப்புக்குழு கூட்டம் வெள்ளிக்கிழமை (03) பிற்பகல் 2 மணியளவில் மன்னார் பிரதேச செயலகத்தில் நடைபெற்றது.
+
+குறித்த கூட்டத்தில் மன்னார் ரயில் போக்குவரத்து சேவைகள், திண்மக் கழிவு  அகற்றுதலில் உள்ள சிக்கல்கள், காற்றாலை மின்சார திட்டம், மற்றும் கனியவள மண்ணகழ்வு போன்ற பிரச்சனைகள் குறித்து விவாதிக்கப்பட்டது.
+
+இதன் போது சபையில் சலசலப்பு ஏற்பட்டது. இலங்கை மின்சார சபையினால் மேற்கொள்ளப்பட்டு வரும் இந்த காற்றாலை திட்டத்தினை விளக்குவதற்கு அத்திட்டத்தின் முகாமையாளர்  முயன்ற போது கிராம மட்ட பிரதிநிதிகள், பொது அமைப்புகளின் பிரதிநிதிகள், மீனவ அமைப்புகளின் பிரதிநிதிகள் ஒன்று சேர்ந்து பாரிய எதிர்ப்பை வெளிப்படுத்தினர்.
+
+...
+
+[Data](articles/0526b174.json)
+
+---
+
 ### අපනයන වෙළෙඳපොළ වෙනුවෙන් කාබනික සීනි නිෂ්පාදනය කිරීමට අවධානය
 
 *2025-01-03 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205009) · `si`
@@ -97,6 +167,24 @@ However, most of their local parties come with giant speakers and they make it a
 ...
 
 [Data](articles/f7da678b.json)
+
+---
+
+### Israeli strikes kill at least 30 in Gaza as ceasefire talks set to resume in Qatar
+
+*2025-01-03 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104706/israeli-strikes-kill-at-least-30-in-gaza-as-ceasefire-talks-set-to-resume-in-qatar) · `en`
+
+Israeli strikes killed at least 30 people in Gaza, including children, overnight and into Friday, hospital staff said, as often-stalled ceasefire talks to end the Israel-Hamas war were set to resume in Qatar.
+
+Staff at the Al-Aqsa Martyrs Hospital said that more than a dozen women and children were killed in strikes in central Gaza, including in Nuseirat, Zawaida, Maghazi and Deir al-Balah. Dozens of people were killed across the enclave the previous day, bringing the total killed in the past 24 hours to 56.
+
+“We woke up to the missile strike. We found the whole house disintegrated,” Abdul Rahman Al-Nabrisi said in the Maghazi refugee camp.
+
+The Israeli army said in a statement Friday that during the past day, it had struck dozens of Hamas gathering points and command centers throughout Gaza. The army asserted that measures were taken to mitigate civilian harm, such as using aerial surveillance.
+
+...
+
+[Data](articles/e4b24892.json)
 
 ---
 
@@ -349,6 +437,22 @@ Most political parties in Sri Lanka have  had their own newspapers historically,
 ...
 
 [Data](articles/ea7e2aa0.json)
+
+---
+
+### வீதியோர சிறு வியாபாரங்கள் அகற்றப்படுவதாக வெளியான செய்தியில் உண்மை இல்லை -  நளிந்த ஜயதிஸ்ஸ
+
+*2025-01-03 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202904) · `ta`
+
+“கிளீன் ஸ்ரீலங்கா” தேசிய வேலைத்திட்டத்துக்கமைய வீதியோர சிறு வியாபாரங்கள் அகற்றப்படுவதாகவும், அவ்வாறு வியாபார நடவடிக்கைகளை மேற்கொள்பவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் வெளியாகியுள்ள செய்தியில் எவ்வித உண்மையும் இல்லை என சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+அரசாங்க தகவல் திணைக்களத்தில் வெள்ளிக்கிழமை (03) இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+பெரும்பான்மையான மக்களின் விருப்பிற்கு மதிப்பளித்து ஆட்சியமைத்துள்ள புதிய அரசாங்கம், ஜனாதிபதியின் தலைமைத்துவத்தின் கீழ் புதிய தேசிய வேலைத்திட்டம் ஒன்றை முன்னெடுத்துள்ளது. 24 அமைச்சுக்களையும் உள்ளடக்கிய வகையில் நாட்டிற்கு சிறந்த அடித்தளத்தை இடும் நோக்குடன் புதிய வரவு - செலவு திட்டம் சமர்ப்பிக்கப்பட உள்ளது. நாட்டின் சமூக, பொருளாதார, கலாச்சாரம் என்ற அனைத்துப் அலகுகளையும் மீள கட்டியெழுப்புவதற்கு ஓர் உணர்வுபூர்வமான தேசிய திட்டத்துக்கமைய எமது கடமைகளை முன்னெடுத்துள்ளோம்.
+
+...
+
+[Data](articles/87bf3f99.json)
 
 ---
 
@@ -727,6 +831,22 @@ Top positive contributors to the ASPI were John Keells Holdings (up at 23.80), A
 ◼️
 
 [Data](articles/c421baa9.json)
+
+---
+
+### மக்களின் பிரச்சினைகளுக்கு தீர்வு வழங்கும் இடமாக அரச சேவையை மாற்ற வேண்டும்  -  பிரதமர் ஹரிணி
+
+*2025-01-03 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/202875) · `ta`
+
+அரச சேவை தொடர்பில் காணப்படும் மோசமான நிலைப்பாட்டை மாற்றி நல்லதொரு சித்தரிப்பை ஏற்படுத்துவதற்கு மக்களின் பிரச்சினைகளுக்கு தீர்வு வழங்கும் இடமாக அரச சேவையை மாற்றியமைக்க வேண்டும். அரச ஊழியர்களாக வழங்கிய வாக்குறுதிக்கமைய பணியாற்றி 2025ம் ஆண்டினை மக்களின் எதிர்பார்ப்புக்கள் நிறைவேறும் ஆண்டாக மாற்ற வேண்டும் என கல்வி ,உயர்கல்வி மற்றும் தொழிற் கல்வி அமைச்சர் பிரதமர் ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+
+கல்வி, உயர்கல்வி மற்றும் தொழிற் கல்வி அமைச்சு மற்றும் அதன் கீழ் செயற்படும் தொழிற்கல்வி பிரிவு உட்பட பல்கலைக்கழக மானியங்கள் ஆணைக்குழு என்பவற்றில் இடம்பெற்ற புதிய வருடத்திற்கான பணிகளை ஆரம்பிக்கும் நிகழ்வில் கலந்து கொண்ட போதே அவர் இதனைத் தெரிவித்துள்ளார்.
+
+பிரதியமைச்சர் மதுர செனவிரத்ன, கல்வி, உயர் கல்வி மற்றும் தொழிற் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவ, அமைச்சின் மேலதிக செயலாளர்கள் உள்ளிட்ட நிறுவன பிரதானிகள் மற்றும் அதிகாரிகள் பலரும் இந்த நிகழ்வில் பங்கேற்றிருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/5d6c9e24.json)
 
 ---
 
@@ -1663,125 +1783,5 @@ The arrest was made this morning (3) at his residence in Batagoda.
 ◼️
 
 [Data](articles/207dbf56.json)
-
----
-
-### பல்கலைக்கழக கட்டமைப்பு விரி­வு­ரை­யா­ளர்கள் பற்றாக்குறையால் பாதிப்பு
-
-*2025-01-03 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/202841) · `ta`
-
-நாட்டில் பல்கலைக்கழக கட்டமைப்பு விரி­வு­ரை­யா­ளர்கள் பற்றாக்குறையால் பாதிக்கப்பட்டுள்ளது. அத்தோடு, வெற்றிடமாக உள்ள சில பதவிகளுக்கு தகுதியான நபர்களைக் நியமிக்க அதிகாரிகள் கடுமையாகப் போராடி வருவதாகவும் பொதுநிர்வாக, மாகாண சபைகள் மற்றும் உள்ளூராட்சி அமைச்சர் பேராசிரியர் சந்தன அபேரத்ன தெரிவித்துள்ளார்.
-
-கடந்த காலங்களில் ஏற்பட்ட  பொருளாதார நெருக்கடி மற்றும்  ஊதி­யத்தில் விதிக்­கப்­பட்ட தனியாள் வரி போன்ற காரணங்களினால் 1,000 பல்கலைக்கழக விரி­வு­ரை­யா­ளர்கள் நாட்டை விட்டு வெளியேறியுள்ளார்கள்.
-
-சில பதவிகளுக்கு தகுதியானவர்களை நியமிக்க முடியவில்லை. நாங்கள் நேர்காணலை நடத்தும் போது தகுதியானவர்கள் வருவதில்லை. ஏனெனில் அவர்களுக்கு பல்கலைக்கழக கட்டமைப்புக்கு வெளியே சிறந்த ஊதியம் வழங்கப்படுகிறது. உதாரணமாக, சில மருத்துவ பீடங்களில் பேராசிரியர்கள் பற்றாக்குறை உள்ளது. கடந்த அரசாங்கம் அதிக வரி விதித்ததால் பல்கலைக்கழக விரி­வு­ரை­யா­ளர்கள் பாதிக்கப்பட்டனர். இதனால் இளம் விரிவுரையாளர்கள் நாட்டை விட்டு வெளியேறினர்.
-
-...
-
-[Data](articles/fc64df89.json)
-
----
-
-### சீனாவில் வேகமாக பரவும் புதிய வைரஸ்… அச்சத்தில் உலக நாடுகள்
-
-*2025-01-03 10:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-வேகமாக-பரவும்-புதிய-வைரஸ்-அச்சத்தில்-உலக-நாடுகள்/50-349699) · `ta`
-
-கொவிட் -19 வைரஸ் பரவலுக்குப் பின் சுமார் 5 வருடங்களுக்குப் பிறகு, சீனாவில் பல வைரஸ்கள் பரவி வருவதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
-
-Human metapneumovirus (HMPV) (HMPV) எனப்படும் ஒரு வைரஸ் நிலை பரவலாக இருப்பதாகவும், அவர்களில் கொவிட்-19 தொற்றுக்குள்ளானவர்களும் இருப்பதாகவும் வெளிநாட்டு ஊடகங்களில் தகவல்கள் வௌியாகியுள்ளன. மேலும், இன்ஃபுளுவென்சா (influenza) வைரஸூம் பரவி வருகிறது.
-
-சீனாவில் பல வைரஸ்களின் தாக்கம் வேகமாக பரவி வருவதாக வெளிநாட்டு ஊடகங்கள் தெரிவித்துள்ளன.
-
-தற்போதைய நிலவரத்தை கருத்திற் கொண்டு சீனாவில் அவசரகால சட்டம் அமுல்படுத்தப்பட்டுள்ளதாக கூறப்படுகின்ற போதிலும், இது தொடர்பில் இதுவரை அதிகாரபூர்வ தகவல்கள் வெளியாகவில்லை.
-
-இந்த வைரஸ் பரவல் நிலை குறித்து சீன அதிகாரிகள் இதுவரை எந்த அறிக்கையும் வெளியிடவில்லை. R
-
-◼️
-
-[Data](articles/22edcb8a.json)
-
----
-
-### சாவகச்சேரியில் கிணற்றிலிருந்து வயோதிப பெண்ணின் சடலம் மீட்பு!
-
-*2025-01-03 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202842) · `ta`
-
-சாவகச்சேரிப் பொலிஸ் பிரிவுக்குட்பட்ட கிராம்புவில் பகுதியில் உள்ள வயல் கிணறொன்றில் இருந்து நேற்று வியாழக்கிழமை (02) பிற்பகல் வயோதிபப் பெண் ஒருவருடைய சடலம் உருக்குலைந்த நிலையில் மீட்கப்பட்டுள்ளது.
-
-வயலுக்கு பசளை இடச் சென்றவர்கள் மேற்படி சடலத்தை கண்ட நிலையில் இது தொடர்பாக பொலிஸாருக்கு தகவல் வழங்கியுள்ளனர்.
-
-இந்நிலையில் சடலம் மீட்கப்பட்டு பிரேத பரிசோதனை மற்றும் மரண விசாரணைகளுக்காக சாவகச்சேரி ஆதார வைத்தியசாலையில் ஒப்படைக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/778c7fa8.json)
-
----
-
-### Yoshitha Rajapaksa arrives at CID
-
-*2025-01-03 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104690/yoshitha-rajapaksa-arrives-at-cid) · `en`
-
-Yoshitha Rajapaksa, the second son of former President Mahinda Rajapaksa, arrived at the Criminal Investigation Department (CID) this morning (January 3).
-
-He had been summoned by the CID to provide a statement regarding the ownership of a government-owned land in Kataragama.
-
-Accordingly, Yoshitha Rajapaksa was notified to appear before the CID today.
-
-◼️
-
-[Data](articles/f14178f1.json)
-
----
-
-### යෝෂිත රාජපක්ෂ CIDයට පැමිණෙයි
-
-*2025-01-03 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204985) · `si`
-
-හිටපු ජනධිපති මහින්ද රාපක්ෂ මහාතගේ පුත් යෝෂිත රාජපක්ෂ අද (3) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ ඇත.
-
-ඒ කතරගම ප්‍රදේශයේ පිහිටි ඉඩමක හිමිකාරිත්වය සම්බන්ධයෙන් ප්‍රකාශයක් ලබාදීම සඳහා බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/8d54067b.json)
-
----
-
-### அவுஸ்திரேலியாவுக்கு குடிபெயரும் சுசந்திகா
-
-*2025-01-03 10:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202837) · `ta`
-
-இலங்கையின் நட்சத்திர தடகள வீராங்கனையும் 2000 ஆம் ஆண்டு சிட்னி ஒலிம்பிக்கில் வெள்ளிப் பதக்கம் வென்றவருமான சுசந்திகா ஜெயசிங்க அவுஸ்திரேலியாவின் மெல்பேர்ன் நகரில் குடியேறத் திட்டமிட்டுள்ளார்.
-
-சுசந்திகா ஜெயசிங்க இரண்டு மாதங்களுக்கு முன்பு அவுஸ்திரேலியாவுக்கு சென்றுள்ள நிலையில் நாடு திரும்புவது குறித்து நிச்சயமற்ற நிலையில் இருப்பதாக நண்பர்களிடம் தெரிவித்துள்ளார்.
-
-இதேவேளை,  அவுஸ்திரேலியாவுக்கு குடியேறும் திட்டம் அவரது குழந்தைகளின் கல்வி மற்றும் எதிர்காலத்திற்கு முன்னுரிமை அளிப்பதை நோக்கமாகக் கொண்டுள்ளது எனவும் தெரிவித்துள்ளார்.
-
-சமகால தடகள வீராங்கனையும், ஆசியப் பதக்கம் வென்றவரும், ஒலிம்பியனுமான தமயந்தி தர்ஷாவும் சில ஆண்டுகளுக்கு முன்பு தனது குடும்பத்துடன் அவுஸ்திரேலியாவில் குடியேறியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/7e44b91f.json)
-
----
-
-### Sri Lanka trade body commends new food labelling and advertising regulations
-
-*2025-01-03 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-commends-new-food-labelling-and-advertising-regulations-197627/) · `en`
-
-ECONOMYNEXT – Sri Lanka has imposed restrictions on marketing food and beverages to children, effective January 1, under its Food (Labelling and Advertising) Regulations 2022.
-
-The industry must now ensure children under 12 are not featured in advertisements for F&B products, and F&B products are not advertised or promoted to children below 12 years without prior approval from the Ministry of Health.
-
-Updated food labelling requirements, effective July 1, will provide consumers with essential information, including nutritional values and detailed ingredient lists, to make informed food choices.
-
-These updates address gaps in the regulations established in 2005 and align the framework with international standards, the Ceylon Chamber of Commerce said in a statement.
-
-“Transitioning entrenched industry practices will be challenging for businesses, from SMEs to large-scale operators,” CCC CEO Buwanekabahu Perera said.
-
-...
-
-[Data](articles/cf2072b7.json)
 
 ---

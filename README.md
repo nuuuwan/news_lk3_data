@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 11:44:32**
+As of **2025-01-03 12:03:39**
 
 ## Newspaper Stats
 
-*Scraped **63,452** Articles*
+*Scraped **63,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,181 @@ islandlk | 3,862
 economynextcom | 3,866
 dailyftlk | 4,419
 dailymirrorlk | 4,733
-adalk | 6,064
-adaderanalk | 7,759
-tamilmirrorlk | 9,095
-virakesarilk | 10,568
-adaderanasinhalalk | 10,950
+adalk | 6,065
+adaderanalk | 7,760
+tamilmirrorlk | 9,097
+virakesarilk | 10,570
+adaderanasinhalalk | 10,954
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,452 articles have been extended.
+61,971 (97.7%) of 63,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### මහින්ද සමරසිංහගේ තානාපති ධුරය ගැන තීරණයක්
+
+*2025-01-03 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204989) · `si`
+
+ජාත්‍යන්තර මුල්‍ය අරමුදල සමග පැවැත්වෙන සාකච්ඡා හේතුවෙන් අමෙරිකාවේ ශ්‍රී ලංකා තානාපති මහින්ද සමරසිංහ මහතා තවදුරටත් එම තනතුරේ කටයුතු කරන බව විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+
+පසුගිය කාලසීමාවේ දී දේශපාලන පත්වීම් ලැබු තානාපතිවරු සහ මහ කොමසාරිස්වරු 16 දෙනෙකු යළි කැඳවීමට රජය තීරණය කළේය.
+
+කෙසේවෙතත් මහින්ද සමරසිංහ මහතාව එම තනතුරේ තවදුරටත් රැඳවා තැබීමට රජය තීරණය කළ බව "අද දෙරණ" කළ විමසීමක දී විදේශ කටයුතු අමාත්‍යාංශය පැවසීය.
+
+කෙසේ වෙතත් විදෙස් ධුත සේවය සක්‍රීය සේවයක් කිරීමේ අරමුණින් ඇතැමුන් නැවත ශ්‍රී ලංකාවට ගෙන්වා ගැනීමට කටයුතු කළ බව ද විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b921a84a.json)
+
+---
+
+### மில்லனிய பிரதேச சபையின் முன்னாள் உறுப்பினர் கைது
+
+*2025-01-03 11:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மில்லனிய-பிரதேச-சபையின்-முன்னாள்-உறுப்பினர்-கைது/175-349701) · `ta`
+
+மில்லனிய பிரதேச சபையின் முன்னாள் உறுப்பினர் ரவீந்திர நம்முனி, படகொடவிலுள்ள அவரது இல்லத்தில் வைத்து இன்று (3) காலை குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நிலந்தி கொட்டஹச்சி தொடர்பில் சமூக ஊடகங்களில் அவதூறான கருத்துக்களை பகிர்ந்தமைக்காகவே இவர் கைது செய்யப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/7d551523.json)
+
+---
+
+### ஐ.தே.கவின் பொதுச் செயலாளராக தலதா அத்துக்கோரள நியமனம்
+
+*2025-01-03 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/202857) · `ta`
+
+முன்னாள் ஜனாதிபதியும் ஐக்கிய தேசியக் கட்சியின் தலைவருமான ரணில் விக்கிரமசிங்கவினால் இந்த நியமனம் வழங்கப்பட்டுள்ளதாக ஐக்கிய தேசியக் கட்சியின் தலைவர் வஜிர அபேவர்தன தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/148a6beb.json)
+
+---
+
+### කෙහෙළියගේ පවුලේ අයට පැන වූ තහනමක් දීර්ඝ කෙරේ
+
+*2025-01-03 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204988) · `si`
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ බිරිඳ ඇතුළු පවුලේ සාමාජිකයින්ගේ බැංකු ගිණුම් හා ජීවිත රක්ෂණ ඔප්පු ක්‍රියාත්මක වීම වළක්වාලමින් පනවා තිබූ තහනම් නියෝගය තවත් මාස තුනක් දීර්ඝ කිරීමට කොළඹ මහාධිකරණය අද (3) නියෝග කළේය.
+
+අල්ලස් කොමිසම විසින් කරන ලද ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කර ඇත.
+
+එම කොමිසම සිදු කරනු ලබන විමර්ශනයකට අදාළව කෙහෙළිය රඹුක්වැල්ල මහතාගේ බිරිඳ, දියණියන් ඇතුළු ඥාතීන්ගේ රුපියල් මිලියන 97කට අධික වටිනාකමකින් යුත් බැංකු ස්ථාවර තැන්පතු සහ ජීවිත රක්ෂණ ඔප්පු ක්‍රියාත්මක වීම වළක්වාලමින් කොළඹ මහාධිකරණය විසින් මීට පෙර නියෝගයක් නිකුත් කර තිබුණි.
+
+එම නියෝගය අදින් අවසන් වීමට නියමිතව තිබූ අතර, අල්ලස් කොමිසම විසින් එය තවදුරටත් දීර්ඝ කරන ලෙස කරන ලද ඉල්ලීමක් සලකා බැලූ කොළඹ මහාධිකරණය අදාළ නියෝගය අප්‍රේල් මස 02 වනදා දක්වා තවදුරටත් දීර්ඝ කිරීමට නියෝග කළේය.
+
+◼️
+
+[Data](articles/6ffa61c4.json)
+
+---
+
+### களுத்துறையில் போதைப்பொருட்களுடன் இருவர் கைது !
+
+*2025-01-03 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202858) · `ta`
+
+களுத்துறை தெற்கு பொலிஸ் பிரிவுக்குட்பட்ட உக்வத்தை அதிவேக வீதிப் பாலத்திற்கு அருகில் நேற்று வியாழக்கிழமை  (02) களுத்துறை பிரதேச குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகளினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில்  ஐஸ் போதைப்பொருள் மற்றும் ஹெரோயின் போதைப்பொருளுடன் இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+களுத்துறை தெற்கு பகுதியைச் சேர்ந்த  33 வயதுடைய பெண்ணொருவரும்  24 வயதுடைய ஆணொருவரும் கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்களிடமிருந்து 52 கிராம் 850 மில்லி கிராம்  ஐஸ் போதைப்பொருள் மற்றும் 05 கிராம் 950 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+மோட்டார் சைக்கிளில் சந்தேகத்திற்கிடமான முறையில் குறித்த  சந்தேக நபர்கள் இருவரும் பயணித்த போது மோட்டார் சைக்கிளுடன் கைது செய்யப்பட்டு களுத்துறை தெற்கு பொலிஸ் நிலையத்தில் ஆஜர்படுத்தப்பட்டுள்ளனர்.
+
+பொலிஸார் மேற்கொண்ட விசாரணையில், சந்தேகநபர்கள் இருவரும் குற்றச்செயல் புரியும்  ஒருவருடன் இணைந்து  போதைப்பொருள் கடத்தலில் ஈடுபட்டுள்ளதாக தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/6ee235c5.json)
+
+---
+
+### CIDயில் முன்னிலையானார் யோஷித ராஜபக்ஷ
+
+*2025-01-03 11:46:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CIDயில்-முன்னிலையானார்-யோஷித-ராஜபக்ஷ/175-349700) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் மகன் யோஷித ராஜபக்ஷ குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளார்.
+
+கதிர்காமம் பிரதேசத்தில் காணி ஒன்றின் உரிமை தொடர்பில் வாக்குமூலம் வழங்குவதற்காகவே அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/ef95dc2f.json)
+
+---
+
+### එජාපයේ මහ ලේකම් ධුරයට තලතා අතුකෝරල
+
+*2025-01-03 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204987) · `si`
+
+එක්සත් ජාතික පක්ෂයේ මහ ලේකම් ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රිනි තලතා අතුකෝරල මහත්මිය පත්කර තිබේ.
+
+අදාළ පත්වීම හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂ නායක, රනිල් වික්‍රමසිංහ මහතා විසින් සිදුකළ බව එම පක්ෂයේ සභාපති වජිර අබේවර්ධන මහතා පැවසීය.
+
+◼️
+
+[Data](articles/5784ca31.json)
+
+---
+
+### ගුවන් හමුදාවේ ගුවන් යානා ඇණිය ශක්තිමත් කිරිමට යයි
+
+*2025-01-03 11:07:30* · [`adalk`](https://www.ada.lk/breaking_news/ගුවන්-හමුදාවේ-ගුවන්-යානා-ඇණිය-ශක්තිමත්-කිරිමට-යයි/11-413989) · `si`
+
+ශ්‍රි ලංකා ගුවන් හමුදාව 2025 වසරේ අලුතෙන් ගුවන් යානා නවයක් ලබා ගැනීමට නියමිතය. එක්සත් ජනපදයෙන් බෙල් 206 හෙලිකොප්ටර් යානා අටක් සහ පාකිස්ථානයෙන් FT-7 පුහුණු ගුවන් යානයක්  ලබා ගනියි.
+
+2025 පළමු කාර්තුවේදී එක්සත් ජනපදය විසින් TH-57 සී රේන්ජර් බෙල් 206 හෙලිකොප්ටර් යානා අටක් ගුවන් හමුදාව වෙත ලබා දෙන බව ගුවන් හමුදාපති එයාර් මාර්ෂල් උදේනි රාජපක්ෂ මහතා පවසයි.
+
+ශ්‍රී ලංකාව සහ එක්සත් ජනපදය අතර දිගුකාලීන සාකච්ඡාවලින් පසුව මෙම හෙලිකොප්ටර් යානා ලබාදෙන්නේ ශ්‍රී ලංකා ගුවන් හමුදාවේ ගුවන් හැකියාවන් ඉහළ නැංවීම අරමුණිනි.
+
+ගුවන් හමුදා බලඇණිය තවදුරටත් ශක්තිමත් කරමින් නුදුරු අනාගතයේ දී ගුවන් හමුදාවට පාකිස්තාන ජෙට් යානයද ලැබෙනු ඇති බව ගුවන් හමුදාපතිවරයා පැවසීය.
+
+පසුගිය වර්ෂයේ සැප්තැම්බර් මාසයේදී ශ්‍රී ලංකා ගුවන් හමුදාවට එක්සත් ජනපදයෙන් Beechcraft King Air 360ER ගුවන් යානයක් ලැබුණු අතර, දෙසැම්බර් මාසයේදී ඕස්ට්‍රේලියාවෙන් Beechcraft King Air 350 ගුවන් යානයක් ලැබිණි.
+
+◼️
+
+[Data](articles/ea8d1588.json)
+
+---
+
+### Ex-PS member arrested for defamatory social media posts on MP Kottahachchi
+
+*2025-01-03 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104691/ex-ps-member-arrested-for-defamatory-social-media-posts-on-mp-kottahachchi) · `en`
+
+The Criminal Investigation Department (CID) has arrested former SLPP member of the Millaniya Pradeshiya Sabha, Raveendra Nammuni.
+
+He has been arrested for allegedly sharing defamatory statements on social media about National People’s Power (NPP) Member of Parliament Nilanthi Kottahachchi.
+
+The arrest was made this morning (3) at his residence in Batagoda.
+
+◼️
+
+[Data](articles/838441ea.json)
+
+---
+
+### නිලන්ති කොට්ටහච්චිට අපහාස කළ හිටපු මන්ත්‍රී අත්අඩංගුවට
+
+*2025-01-03 10:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204986) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී නිලන්ති කොට්ටහච්චි මහත්මියට අපහාසවන ආකාරයෙන් සමාජ මාධ්‍ය ඔස්සේ පෝස්ටුවක් පලකිරීමේ චෝදනාවක් සම්බන්ධයෙන් මිල්ලනිය ප්‍රදේශීය සභාවේ හිටපු මන්ත්‍රීවරයෙකු වන රවීන්ද්‍ර නවමුණි අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද (3) පෙරවරුවේ බටගොඩ පිහිටි ඒ මහතාගේ නිවසේ දී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/207dbf56.json)
+
+---
 
 ### பல்கலைக்கழக கட்டமைப்பு விரி­வு­ரை­யா­ளர்கள் பற்றாக்குறையால் பாதிப்பு
 
@@ -1358,7 +1518,7 @@ Cassandra feels that T S Eliot has translated her thoughts to words and written 
 
 *2025-01-02 22:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204978) · `si`
 
-සමාජ මාධ්‍ය ජාලා ක්‍රියාකාරිනියක වන ජීන් ප්‍රිම්රෝස් නතානියෙල්ස් නොහොත් ජීන් ඇන්ටිට පුද්ගලයින් දෙදෙනෙකු නිවසට පැන පහර දී තිබේ.
+සමාජ ක්‍රියාකාරිනියක වන ජීන් ප්‍රිම්රෝස් නතානියෙල්ස් නොහොත් ජීන් ඇන්ටිට පුද්ගලයින් දෙදෙනෙකු නිවසට පැන පහර දී තිබේ.
 
 එම පහරදීමෙන් ඇයට සහ ඇගේ සැමියාට තුවාල සිදුව ඇති අතර, දෙදෙනාම රාගම ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
 
@@ -1601,171 +1761,5 @@ Under the new rules, the industry must ensure that children under 12 are not fea
 ...
 
 [Data](articles/8c24ab7f.json)
-
----
-
-### 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணிக்கு மீண்டும் மனுதி நாணயக்கார தலைவி
-
-*2025-01-02 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202823) · `ta`
-
-மலேசியாவில் இம் மாதம் நடைபெறவுள்ள 19 வயதுக்குட்பட்ட மகளிர் ரி20 உலகக் கிண்ணப் போட்டியில் பங்குபற்றவுள்ள இலங்கை மகளிர் அணி அதற்கு முன்னோடியாக இளையோர் சர்வதேச ரி20 கிரிக்கெட் தொடரில் பங்களாதேஷ் மகளிர் அணியை எதிர்த்தாடவுள்ளது.
-
-இந்தத் தொடரை முன்னிட்டு மொறட்டுவை, பிறின்சஸ் ஒவ் வேல்ஸ் கல்லூரி வீராங்கனை மனுதி நாணயக்கார தலைமையிலான 15 வீராங்கனைகளைக் கொண்ட 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணி பெயரிடப்பட்டுள்ளது.
-
-மலேசியாவில் நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டிக்கான இலங்கை குழாத்தில் இடம்பெற்ற அதே வீராங்கனைகள் பங்களாதேஷுக்கு எதிரான தொடரிலும் விளையாடவுள்ளனர்.
-
-அணியின் உப தலைவியாக மாத்தறை அனுரா கல்லூரி வீராங்கனை ரஷ்மிக்கா செவ்வந்தி நியமிக்கப்பட்டுள்ளார்.
-
-19 வயதுக்குட்பட்ட இலங்கை மகளிர் குழாத்தில் ரத்கமை, தேவபத்திராஜ கல்லூரியைச் சேர்ந்த 6 வீராங்கனைகள் இடம்பெறுகின்றமை விசேட அம்சமாகும்.
-
-19 வயதுக்குட்பட்ட இலங்கை மற்றும் பங்களாதேஷின் 19 வயதுக்குட்பட்ட மகளிர் அணிகள் 4 போட்டிகள் கொண்ட சர்வதேச இளையோர் ரி20 கிரிக்கெட் தொடரில் விளையாடவுள்ளன.
-
-...
-
-[Data](articles/5be65a9c.json)
-
----
-
-### இலங்கையிலிருந்து குடிபெயர்ந்தார் சுசந்திகா
-
-*2025-01-02 19:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையிலிருந்து-குடிபெயர்ந்தார்-சுசந்திகா/175-349686) · `ta`
-
-இலங்கையின் நட்சத்திர தடகள வீராங்கனையும், 2000 சிட்னி ஒலிம்பிக்கில் வெள்ளிப் பதக்கம் வென்றவருமான சுசந்திகா ஜெயசிங்க, தனது இரண்டு குழந்தைகளுடன் அவுஸ்திரேலியாவின் மெல்போர்னில் குடியேறத் தீர்மானித்துள்ளார்.
-
-இரண்டு மாதங்களுக்கு முன்பு இலங்கையை விட்டு வெளியேறிய அவர், நாடு திரும்புவது குறித்து நிச்சயமற்ற நிலையில் இருப்பதாக நண்பர்களுடன் பகிர்ந்து கொண்டார். அவுஸ்திரேலியாவிற்கு அவர் இடம்பெயர்வது, அவரது குழந்தைகளின் கல்வி மற்றும் எதிர்காலத்திற்கு முன்னுரிமை அளிப்பதை நோக்கமாகக் கொண்டுள்ளதாக அவர் தெரிவித்தார்.
-
-சுசந்திகாவின் சமகால தடகள வீராங்கனையும், ஆசியப் பதக்கம் வென்றவரும், ஒலிம்பியனுமான தமயந்தி தர்ஷாவும் சில ஆண்டுகளுக்கு முன்பு தனது குடும்பத்துடன் அவுஸ்திரேலியாவுக்குச் சென்றார்.
-
-49 வயதான சுசந்திகா ஜயசிங்க 100 மற்றும் 200 மீற்றர் போட்டிகளில் நிபுணத்துவம் பெற்ற ஓய்வு பெற்ற இலங்கை ஓட்டப்பந்தய வீராங்கனை ஆவார்.
-
-...
-
-[Data](articles/406e643c.json)
-
----
-
-### 30,000 மெற்றிக் தொன் உப்பு இறக்குமதிக்கான டெண்டர் 03ஆம் திகதி முதல் திறக்கப்படவுள்ளது
-
-*2025-01-02 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/202822) · `ta`
-
-இலங்கை அரச வர்த்தக (இதர) சட்டப்பூர்வ கூட்டுத்தாபனத்தின் (STC) ஊடாக 20,000 மெற்றிக் தொன் உப்பை இறக்குமதி செய்வதற்கான டெண்டர் 03ஆம் திகதி வெள்ளிக்கிழமை முதல் திறக்க நடவடிக்கை எடுக்கப்பட்டுள்ளது.
-
-இவ்வாறு 2 கட்டங்களாக உப்பு இறக்குமதி செய்ய நடவடிக்கை எடுக்கப்பட்டு முதல் கட்டமாக 20,000 மெட்ரிக் டன்களும், இரண்டாம் கட்டத்தின் கீழ் 10,000 மெட்ரிக் டன்களும் இறக்குமதி செய்யப்படும்.
-
-அதன்படி, முதற்கட்டமாக 20,000 மெட்ரிக் தொன் உப்பு இறக்குமதி செய்வதற்கான ஒப்பந்தப்புள்ளிகள் வெள்ளிக்கிழமை (3) நடைபெறவுள்ளது.
-
-இறக்குமதி செய்யப்படும் உப்பு தொழிற்சாலைகளின் தேவைக்கே பயன்படுத்தப்படுவதாகவும், சாதாரண மக்களின் பாவனைக்கு வழங்கப்படுவதில்லை எனவும் மேலும் தெரிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/cb5b8629.json)
-
----
-
-### Outflows from Sri Lankans travelling abroad jump to $675 mln in Jan-Nov
-
-*2025-01-02 19:10:00* · [`economynextcom`](https://economynext.com/outflows-from-sri-lankans-travelling-abroad-jump-to-675-mln-in-jan-nov-197621/) · `en`
-
-ECONOMYNEXT –Foreign outflows due to Sri Lankans travelling abroad has jumped nearly four-folds to $675 million in the first 11 months of last year compared to $141 million during the same period in the previous year, official Central Bank data showed.
-
-Analysts cited the rise to more Sri Lankans travelling abroad amid economic recovery after the island nation’s sovereign debt default in 2022.
-
-The Central Bank latest data on the service-related foreign outflows showed the island nation has spent $516 million on air transport services during Jan-Nov period, compared to $405 million in the same period of 2023. (Colombo/January 2/2024)
-
-◼️
-
-[Data](articles/d40f72dc.json)
-
----
-
-### முன்னாள் பாராளுமன்ற உறுப்பினர் காலமானார்
-
-*2025-01-02 19:08:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-பாராளுமன்ற-உறுப்பினர்-காலமானார்/175-349685) · `ta`
-
-அவர் கேகாலை மாவட்டத்தில் தெதிகம தேர்தல் தொகுதியின் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் (SLFP) பிரதான அமைப்பாளராக இருந்தார்.
-
-◼️
-
-[Data](articles/c4e35703.json)
-
----
-
-### ශ්‍රී ලංකා සංචාරය කමින්ස්ට අහිමි වෙයි
-
-*2025-01-02 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204974) · `si`
-
-ඔස්ට්‍රේලියානු කණ්ඩායම ඉදිරියේදී සිදුකිරීමට නියමිත ශ්‍රී ලංකා ටෙස්ට් තරග සංචාරය ඔවුන්ගේ නිත්‍ය නායක පැට් කමින්ස්ට අහිමිවනු ඇති බව වාර්තා වේ.
-
-මේ හේතුවෙන් ඔස්ට්‍රේලියානු කණ්ඩායමේ වැඩබලන නායක ලෙස ස්ටීවන් ස්මිත් කටයුතු කරනු ඇති බව වාර්තා වේ.
-
-වෝන් - මුරලි කුසලානය වෙනුවෙන් තරග 2කින් යුත් ටෙස්ට් තරගාවලියක් සඳහා ඔස්ට්‍රේලියානු කණ්ඩායම මෙම මස ශ්‍රී ලංකාවට පැමිණීමට නියමිතව ඇත.
-
-දෙරට අතර පළමු ටෙස්ට් තරගය ජනවාරි 29වනදා ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී ආරම්භ වේ.
-
-◼️
-
-[Data](articles/e2e3ed77.json)
-
----
-
-### ජේ ආර් පී සූරියප්පෙරුම අභාවප්‍රාප්ත වෙයි
-
-*2025-01-02 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204973) · `si`
-
-හිටපු පාර්ලිමේන්තු මන්ත්‍රිවරයෙක් මෙන්ම විද්වතෙකු වන ජේ. ආර්. පී. සූරියප්පෙරුම මහතා අභාවප්‍රාප්ත වී තිබේ.
-
-◼️
-
-[Data](articles/7cd84c3b.json)
-
----
-
-### Former MP J.R.P. Suriyapperuma passes away
-
-*2025-01-02 18:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104681/former-mp-jrp-suriyapperuma-passes-away) · `en`
-
-Veteran Sri Lankan politician and former Member of Parliament J. R. P. Suriyapperuma has passed away.
-
-Suriyapperuma has previously served as the chief organiser of the the Sri Lanka Freedom Party (SLFP) for the Dedigama electorate in the Kegalle District.
-
-◼️
-
-[Data](articles/ff92ebfb.json)
-
----
-
-### India funds rehabilitation of Sri Lanka’s Karainagar Boatyard
-
-*2025-01-02 18:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/104680/india-funds-rehabilitation-of-sri-lankas-karainagar-boatyard) · `en`
-
-A Memorandum of Understanding (MoU) has been signed between India and Sri Lanka for rehabilitation of the Karainagar Boatyard in Northern Province of Sri Lanka with grant assistance from the Government of India to the tune of LKR 290 million.
-
-The MoU was signed and exchanged by High Commissioner of India to Sri Lanka Santosh Jha and the then High Commissioner of Sri Lanka to India Kshenuka Dhireni Senewiratne on December 16, 2024.
-
-Issuing a statement, the Indian High Commission in Colombo said the project envisages rehabilitation of Karainagar Boatyard of the Cey-Nor Foundation Ltd, incorporated under the Ministry of Finance, Planning and Economic Development and operating under the Ministry of Fisheries, Aquatic and Ocean Resources.
-
-...
-
-[Data](articles/269802e8.json)
-
----
-
-### Foreign investors buy over $100 mln worth govt securities in 15 weeks
-
-*2025-01-02 18:25:00* · [`economynextcom`](https://economynext.com/foreign-investors-buy-over-100-mln-worth-govt-securities-in-15-weeks-197617/) · `en`
-
-ECONOMYNEXT – Foreigners investors bought more than $100 million worth Sri Lanka government securities in last 15 weeks of 2024, though they net sold in the year, the Central Bank data showed.
-
-Sri Lanka has been maintaining deflationary policies and import curbs amid declining interest rates after the inflation hit record high of over 70 percent in 2022.
-
-“There is an expectation of the Central Bank reducing the policy rates by further 100 basis points. Foreign investors are buying because of this,” a Colombo-based currency dealer said.
-
-Sri Lanka saw 2.71 billion rupees ($9.3 million at 1 US dollar = 290 LKR) of inflows into government securities in the week ended on December 26. The government has seen total inflows of 29.9 billion rupees ($103.1 mln) into treasury bonds and bills in the 15 weeks through December 26, the official data showed.
-
-The value of government securities held by foreign investors was at 69,262 million rupees by December 26.
-
-...
-
-[Data](articles/4c771302.json)
 
 ---

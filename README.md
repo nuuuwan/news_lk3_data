@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 20:14:37**
+As of **2025-01-03 20:28:17**
 
 ## Newspaper Stats
 
-*Scraped **63,519** Articles*
+*Scraped **63,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,771
-tamilmirrorlk | 9,104
-virakesarilk | 10,584
-adaderanasinhalalk | 10,969
+tamilmirrorlk | 9,105
+virakesarilk | 10,588
+adaderanasinhalalk | 10,971
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,519 articles have been extended.
+61,971 (97.6%) of 63,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### ’தூதுவர்களை நியமிக்க கால அவகாசம் தேவை’
+
+*2025-01-03 20:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூதுவர்களை-நியமிக்க-கால-அவகாசம்-தேவை/175-349709) · `ta`
+
+புதிய அரசாங்கம் பதவியேற்றதன் பின்னர் பல தூதுவர் மற்றும் உயர்ஸ்தானிகராலயங்களுக்கான அரசியல் நியமனங்கள் நிறுத்தப்பட்டதன் காரணமாக பல அலுவலகங்களில் வெற்றிடங்கள் ஏற்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+ஆனால், தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களை நியமிப்பது ஒரு சிக்கலான செயல் என்றும், அதற்கு நியாயமான கால அவகாசம் தேவை என்றும் வெளியுறவு அமைச்சு தெரிவித்துள்ளது.
+
+அரசியலமைப்பின் பிரகாரம், வெளிநாடுகளில் உள்ள இலங்கை தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்கள் ஜனாதிபதியினால் நியமிக்கப்படுவதாக, வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+
+இலங்கையை பிரதிநிதித்துவப்படுத்தும் தூதுவர் அல்லது உயர்ஸ்தானிகர் ஒருவரை ஜனாதிபதி நியமிக்கும் போது, அந்த நியமனத்திற்கு அந்த நாட்டின் சம்மதத்தை பெற்றுக்கொள்ள வேண்டும் எனவும், வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.AN
+
+◼️
+
+[Data](articles/695ce86f.json)
+
+---
+
+### සතොස හරහා වී මිලදී ගැනීමට රජය සැරසෙයි
+
+*2025-01-03 20:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205006) · `si`
+
+මෙවර මාස් කන්නයේ වී අස්වැන්න සතොස හා වී අලෙවි මණ්ඩලය හරහා මිලදී ගැනීමට හා සහල් නිෂ්පාදනය කර බෙදා හැරීම රජයේ අරමුණ බව වෙළෙඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා පවසයි.
+
+ඔහු පැවසුවේ වරින්වර රට තුළ සිදුවන සහල් හිඟය අවසන් කිරීමට සහ මිල පාලනය කිරීම සඳහා රජය මැදිහත් වී ගොවියාට සහතික මිලක් ලබා දීමට කටයුතු කරන බවය.
+
+අනුරාධපුර ඔයා මඩුව ප්‍රදේශයේ ඉදිකර ඇති රජයේ වී ගබඩා පිළිබඳව සොයා ලැබීම සඳහා සිදුකළ නිරීක්ෂණ චාරිකාවෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව පැවසීය.
+
+අමාත්‍යවරයා එහිදී පැවසුවේ වෙළෙඳපොළ තුළ පවතින බරපතළ විශමතාවයන් ප්‍රයෝජනයට ගනිමින් ඇතැම් සහල් මෝල් හිමියන් අසාමාන්‍ය ලෙස ලාභ ලබමින් සිටින බවත් එම අසාමාන්‍යතා රජය විසින් හඳුනාගෙන ඊට පිළිතුරු සෙවීමට කටයුතු කරන බවත්ය.
+
+රටේ වී නිෂ්පාදනයෙන් සියයට තිහකට ආසන්න ප්‍රමාණයක් මහ මෝල් හිමියන් මිලදී ගන්නා බවත් ඉතිරි නිෂ්පාදන මිලදී ගනු ලබන්නේ සුළු හා මධ්‍යම ප්‍රමාණයේ සහල් මෝල් හිමියන් බවත් පැවසූ අමාත්‍යවරයා මෙහිදී පැවසුවේ වෙළෙඳපොළ තුළ පවතින අසාමාන්‍යතා අවම කිරීම සඳහා රජයද වී මිලදී ගැනීමට කටයුතු කරන බවද පැවසීය.
+
+...
+
+[Data](articles/f3dc577c.json)
+
+---
 
 ### ஏப்ரலில் உள்ளூராட்சி மன்ற தேர்தல் நடைபெறும்?
 
@@ -52,6 +90,64 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ஒபெல்காவிடம் அதிர்ச்சி தோல்வி அடைந்து பிறிஸ்பேன் டென்னிஸ்ஸிலிருந்து வெளியேறினார் ஜோகோவிச்
+
+*2025-01-03 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/202916) · `ta`
+
+பிறிஸ்பேனில் நடைபெற்றுவரும் வருடத்தின் முதலாவது ஏரிபி பிறிஸ்பேன் சர்வதேச டென்னிஸ் சம்பியன்ஷிப்பில் ஆடவருக்கான ஒற்றையர் கால் இறுதிப் போட்டியில் அமெரிக்கா வீரர் ரெய்லி ஒபெல்காவிடம் முதல் நிலை வீரர் நோவாக் ஜோகோவிச் அதிர்ச்சி தோல்வி அடைந்து வெளியேறினார்.
+
+உலக தரவரிசையில் 293ஆவது இடத்தில் இருக்கும் வீரர் ஒருவரிடம் ஜோகோவிச் தனது டென்னிஸ் வாழ்க்கையில் தோல்வி அடைந்தது இதுவே முதல் தடவையாகும்.
+
+ஜோகோவிச் தனது 100ஆவது ஏரிபி சம்பியன் பட்டத்திற்கு குறிவைத்து பிறிஸ்பேன் சர்வதேச டென்னிஸ் போட்டியில் பங்குபற்றிவந்தார்.
+
+கால் இறுதிப் போட்டியின் முதல் செட்டில் ஒபெல்காவும் ஜோகோவிச்சும் ஒருவருக்கொருவர் சளைக்காமல் விளையாடி கடும் போட்டித்தன்மையை ஏற்படுத்தினர்.
+
+இறுதியில் சமநிலை முறிப்பு முறையில் 7 (8) - 6 (6) என்ற புள்ளிகள் கணக்கில் ஒபெல்கா வெற்றிபெற்றார்.
+
+முதல் செட்டில் தோல்வி அடைந்ததால் ஜோகோவிச், இரண்டாவது செட்டில் சிறு தடுமாற்றத்துடன் விளையாடினார்.
+
+...
+
+[Data](articles/1be1dc1b.json)
+
+---
+
+### இந்திய ரோலரைக் கட்டுப்படுத்துங்கள் - இல்லையேல் நெடுந்தீவை இந்தியாக்கு வழங்குங்கள்!
+
+*2025-01-03 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202915) · `ta`
+
+நெடுந்தீவு கடற்பரப்பில்  இந்திய அத்து மீறிய ரோலர் படகுகளை  தடுத்து நிறுத்துவதற்கு இயலாது விட்டால் எம்மை வேறொரு பிரதேசத்திற்கு மாற்றி விட்டு நெடுந்தீவை இந்தியாவுக்கு வழங்கி விடுங்கள் என நெடுந்தீவு இளம்பிறை கடற்தொழிலாளர் கூட்டுறவு சங்கத்தின் தலைவரும் சமாச பிரதிநிதியுமான சத்தியாம்பிள்ளை தோமாஸ் தெரிவித்தார்.
+
+வெள்ளிக்கிழமை (3) யாழ்ப்பாணம் மாவட்ட கடற்தொழிலாளர் கூட்டுறவு சங்க சமாசத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில், நெடுந்தீவு கடற்பரப்பில் பல வருட காலமாக இந்தியா அத்து மீறிய இழுவை படகுகளினால் எமது மீனவர்கள் பாரிய இன்னல்களை அனுபவித்து வருகின்றனர்.
+
+கடந்த 29 ஆம் திகதியும் இந்தியா அத்துமீறிய இழுவைப் படகுகளினால், எமது 30 மீனவர்களின் சுமார் நாற்பதாயிரம் ரூபாய் பெறுமதியான வலைகள் அறுத்துச் செல்லப்பட்டுள்ளது.
+
+எமது மீனவர்கள் தமது வாழ்வாதாரத்தை கொண்டு செல்ல முடியாத அளவிற்கு இந்திய ரோலர்களினால் துன்பங்களை அனுபவித்து வருகின்றனர்.
+
+...
+
+[Data](articles/133e3fd3.json)
+
+---
+
+### தேசிய இனப்பிரச்சினைக்கு ஏற்புடைய தீர்வை வழங்காதவரை தமிழ் மக்கள் தேசிய மக்கள் சக்தியை நம்பப்போவதில்லை - சி.வி.விக்னேஸ்வரன்
+
+*2025-01-03 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202914) · `ta`
+
+தேர்தல் முடிவுகள் எமது மக்கள் தமிழ்த்தேசியத்தை நிராகரித்திருக்கிறார்கள் என்பதைக் காண்பிக்கவில்லை. இம்முறை வடக்கில் தமிழ் தரப்பினருக்கு அளிக்கப்பட்ட வாக்குகளில் வீழ்ச்சி ஏற்படவில்லை. இருப்பினும் அவ்வாக்குகள் தமிழ்க்கட்சிகள் மற்றும் சுயேட்சைக்குழுக்களுக்குப் பகிர்ந்தளிக்கப்பட்டிருக்கின்றன.
+
+இந்நிலையில் எதிர்வருங்காலங்களில் தமிழ் மக்களின் அரசியல் பிரச்சினைகளை தேசிய மக்கள் சக்தி அரசாங்கம் எவ்வாறு கையாளப்போகிறது என்பதிலேயே அதற்கான ஆதரவு தங்கியிருக்கிறது. இனப்பிரச்சினைக்கு ஏற்றுக்கொள்ளத்தக்க நியாயமான தீர்வு வழங்கப்படாதவரை, தமிழர்கள் தேசிய மக்கள் சக்தியை நம்பப்போவதில்லை என தமிழ் மக்கள் கூட்டணியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+
+வாராந்த கேள்வி - பதில் பகுதியில் அண்மையில் நடைபெற்றுமுடிந்த பொதுத்தேர்தலில் வட, கிழக்கு மாகாணங்களில் தேசிய மக்கள் சக்தியின் வெற்றிக்கு என்ன காரணம் என எழுப்பப்பட்டிருக்கும் கேள்விக்கு மேற்கண்டவாறு பதிலளித்திருக்கும் விக்னேஸ்வரன், அதுபற்றி மேலும் கூறியிருப்பதாவது:
+
+...
+
+[Data](articles/ea7e2aa0.json)
+
+---
+
 ### “சாரதி அனுமதிப்பத்திரம்” ஒரு மாதத்திற்குள் வழங்கப்படும்
 
 *2025-01-03 19:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிப்பத்திரம்-ஒரு-மாதத்திற்குள்-வழங்கப்படும்/175-349707) · `ta`
@@ -68,6 +164,30 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ටෙස්ලා අලෙවියට අභියෝග කළ BYD
+
+*2025-01-03 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205005) · `si`
+
+ලෝකයේ විද්‍යුත් වාහන අතර ප්‍රමුඛයා වන ඊලොන් මස්ක්ගේ ටෙස්ලා සමාගමේ මෝටර් රථවල ගෝලීය අලෙවිය ගතවූ 2024 වසරේදී ප්‍රථම වරට පහත වැටෙද්දී, චීන වෙළෙඳපොළ තුළ ටෙස්ලා වාහන අලෙවිය 2024 වසරේදී වාර්තාගත ලෙස ඉහළ ගොස් තිබේ.
+
+2024 වසරේදී ටෙස්ලා විද්‍යුත් වාහන 6,57,000ක් චීනයේ අලෙවි වී තිබෙන්නේ 8.8%ක කැපී පෙනෙන වර්ධනයක් සලකුණු කරමිනි.
+
+අමෙරිකාව හැරුණුකොට ටෙස්ලා විද්‍යුත් වාහන වැඩිම ප්‍රමාණයක් අලෙවි වන්නේ චීනයෙනි.
+
+2024 වසරේ ටෙස්ලා ලොව පුරා අලෙවිකළ වාහනවලින් 36.7%ක් අලෙවි කර තිබෙන්නේ චීන පාරිභෝගිකයන්ටය.
+
+එහෙත් චීන BYD සමාගම ඇතුළු EV නිෂ්පාදකයන්ගෙන් එල්ල වන තරගකාරී අභියෝගය, මෙන්ම යුරෝපයේ සහ අමෙරිකාවේ අලෙවිය අඩුවීම නිසා 2024 වසරේ ටෙස්ලා ගෝලීය වාහන අලෙවිය 2023ට සාපේක්ෂව 1.1%කින් පහත වැටී තිබේ.
+
+කෙසේ නමුත් නැවතත් EV වෙළෙඳපොළ ප්‍රමුඛයා ලෙස ටෙස්ලා වාහන මිලියන 1.79ක් 2024 වසරේදී ලොව පුරා අලෙවි කර තිබේ.
+
+ගෝලීය EV අලෙවිය අතින් දෙවැනි තැන ගන්නා BYD වාහන මිලියන 1.76ක් 2024 වසරේදී අලෙවි විය.
+
+...
+
+[Data](articles/7533359d.json)
+
+---
+
 ### சீனாவின் புது வைரஸ் தொடர்பில் இலங்கை அவதானம்
 
 *2025-01-03 19:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-புது-வைரஸ்-தொடர்பில்-இலங்கை-அவதானம்/50-349706) · `ta`
@@ -81,6 +201,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/af0f5228.json)
+
+---
+
+### செஸ் வீர, வீராங்கனைகள் நாலவர் பாராட்டிக் கௌரவிப்பு
+
+*2025-01-03 19:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202913) · `ta`
+
+செஸ் விளையாட்டில் அர்ப்பணிப்புடன் பங்குபற்றி அசாத்திய திறமைகளை வெளிப்படுத்தி இலங்கைக்கு பெயரும் புகழும் ஈட்டிக்கொடுத்த நான்கு பேரை லங்கா செஸ் மார்ட் நிறுவனம் பாராட்டி கௌரவித்தது.
+
+உள்ளூர் செஸ் மன்னர்கள் என வருணிக்கப்படும் IM ரனிந்து லியனகே, தெஹாஸ் ரிஹ்மித்த கிரிங்கொட ஆகியோரும் செஸ் இராணிகள் என வருணிக்கப்படும் WIM தேவிந்த்யா ஓஷினி குணவர்தன, WCM தஹம்தி சனுதுலா ஆகிய நால்வரும் சர்வதேச செஸ் அரங்கில் இலங்கையை பெருமை அடையச் செய்தமைக்காக இந்தப் பாராட்டு விழா நடத்தப்பட்டது.
+
+இந்த பாராட்டு விழாவில் ரஷ்ய இல்லத் தலைவரும் ரஷ்ய தூதரக முதலாவது செயலாளருமான மரியா பொப்போவா, ரஷ்ய இல்லத்தின் பிரதம நிறைவேற்று அதிகாரி புத்தப்ரிய ராமநாயக்க ஆகியோர் பிரதம அதிதிகளாகக் கலந்து கொண்டு விருதுகளை வழங்கினர்.
+
+செஸ் விளையாட்டில் மிகச் சிறந்த பெறுபேறுகளை ஈட்டிவரும் இந்த நால்வரின் செஸ் கிராண்ட் மாஸ்டர்ஸ் பயணம் வெற்றிகரமாக அமையவேண்டும் என செஸ் தீம் நிறுவனம் மற்றும் உயர்தர செஸ் உபகரணங்கள் விற்பனை நிலைய அதிகாரி வாழ்த்தினார்.
+
+◼️
+
+[Data](articles/14fcd813.json)
 
 ---
 
@@ -1649,141 +1787,5 @@ It was not immediately known what type of plane it was or whether those injured 
 ...
 
 [Data](articles/603c89aa.json)
-
----
-
-### Sri Lanka current account surplus in 3Q with deficit financial account
-
-*2025-01-03 07:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-account-surplus-in-3q-with-deficit-financial-account-197636/) · `en`
-
-ECONOMYNEXT – Sri Lanka continued to record a surplus in the current account in the third quarter of 2024, central bank data show as new borrowings were halted by bilateral lenders and debt repayments continue to multilateral lenders and foreign reserves were built.
-
-Sri Lanka recorded a 303 million dollar surplus in the current account in the third quarter, down from 432 million dollars (revised) in the second quarter.
-
-The financial account was and Capital Accounts were 303 million dollars negative (subject to errors and omissions).
-
-A country will run a current account deficit if its get foreign investments and borrows abroad for domestic investments.
-
-A country will run a current account surplus if debts are repaid in on a net basis or foreign reserves are built (or outward investments are made) turning the financial account into a deficit.
-
-Sri Lanka got the ability to repay debt on a net basis in the third quarter of 2022, after rates were hiked and domestic credit was reduced.
-
-...
-
-[Data](articles/c726e76e.json)
-
----
-
-### Showery condition expected to reduce temporarily from today
-
-*2025-01-03 07:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/104684/showery-condition-expected-to-reduce-temporarily-from-today) · `en`
-
-The Meteorology Department says that the prevailing showery condition in the Northern, North-central, Eastern, and Uva provinces is expected to reduce temporarily from today (03).
-
-Several spells of showers will occur in Uva province and in Ampara and Hambantota districts, it said.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the afternoon or night.
-
-Fairly strong winds of 30-40 kmph can be expected at times over Northern, Eastern, North-central and North-western provinces and in Hambantota district.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/738e392b.json)
-
----
-
-### Leadership transition at Good Life X: Strategic leap into future
-
-*2025-01-03 06:26:18* · [`dailyftlk`](https://www.ft.lk/business/Leadership-transition-at-Good-Life-X-Strategic-leap-into-future/34-771343) · `en`
-
-From left: Christina Gunasinghe, Randhula de Silva, Emma de Silva and Vihangun Ariyaratne
-
-Good Life X (GLX) has announced a new chapter in its journey as it welcomes key leadership changes that strategically position the organisation for expanded impact and growth.
-
-Effective 2 January 2025, Emma de Silva will assume the role of Chief Executive Officer (CEO), and Christina Gunasinghe will take on the role of Chief Operating Officer (COO). Alongside these appointments, GLX Founder and outgoing CEO Randhula de Silva, will transition into the roles of Chairperson and Director of Innovation and Thought Leadership, while Vihangun Ariyaratne the outgoing COO, will step into the role of Director of Strategy and Sustainable Growth.
-
-This carefully planned evolution underscores GLX’s commitment to fostering regenerative innovation. Over the past six months, the leadership team has worked diligently to ensure a seamless transition, reinforcing GLX’s role as a catalyst for positive change.
-
-...
-
-[Data](articles/bdc90596.json)
-
----
-
-### වර්ෂාවේ වෙනස්වීමක් ගැන කාලගුණයෙන් දැනුම්දීමක්
-
-*2025-01-03 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204980) · `si`
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල පැවති වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් අද (03) දින සිට බලාපොරොත්තු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-කෙසේ නමුත් ඌව පළාතෙත් අම්පාර සහ හම්බන්තොට දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
-
-එමෙන්ම බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-උතුරු, නැගෙනහිර, උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකිය.
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පැවසීය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද ඔවුන් මහජනතාවගෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/bfdd93ef.json)
-
----
-
-### Advocata Institute to hold #ResetNow Conference on 22-23 January
-
-*2025-01-03 06:25:25* · [`dailyftlk`](https://www.ft.lk/business/Advocata-Institute-to-hold-ResetNow-Conference-on-22-23-January/34-771342) · `en`
-
-Independent policy think-tank, the Advocata Institute has announced the upcoming conference, “Ignite Growth: Pathways to Sustainable Economic Growth” scheduled for 22 and 23 January.
-
-This #ResetNow Conference will delve into innovative approaches to accelerate productivity and drive economic growth, setting the stage for a brighter and a sustainable future for Sri Lanka.
-
-This landmark event will spotlight the transformative potential of productivity efficiency through evolving business models, lean management practices, and operational improvements. It will also serve as a platform to mainstream productivity-enhancing ideas across political parties, the media, and the general public.
-
-...
-
-[Data](articles/e6e70563.json)
-
----
-
-### Labour Ministry launches WhatsApp hotline to address grievances
-
-*2025-01-03 06:25:10* · [`dailyftlk`](https://www.ft.lk/business/Labour-Ministry-launches-WhatsApp-hotline-to-address-grievances/34-771341) · `en`
-
-The Ministry of Labour has announced the introduction of a dedicated hotline to address issues faced by employees in both the public and private sectors.
-
-The newly launched WhatsApp number, 070 7227877, aims to provide a platform for workers to lodge complaints and raise concerns about service-related matters efficiently.
-
-In a move to enhance responsiveness, the Ministry stated that the initiative seeks to expedite the handling of grievances by both the Ministry and the Department of Labour. Employees can now report their issues directly via WhatsApp, ensuring quick and direct communication with the relevant authorities.
-
-The initiative is expected to improve the Ministry’s commitment to improving its services and creating a more accessible channel for addressing workplace challenges.
-
-◼️
-
-[Data](articles/d6d6d36c.json)
-
----
-
-### Ranil Pathirana joins Access Engineering Board
-
-*2025-01-03 06:24:56* · [`dailyftlk`](https://www.ft.lk/business/Ranil-Pathirana-joins-Access-Engineering-Board/34-771340) · `en`
-
-Ranil Pathirana has joined the Board of Access Engineering PLC as an Independent Non-Executive Director.
-
-Pathirana has extensive experience in finance and management in the financial, apparel, and energy sectors. He currently serves as the Group Director of the Hirdaramani Group of Companies and its Holdings companies, namely Hirdaramani Apparel Holdings Ltd., Hirdaramani Investment Holdings Ltd., and Hirdaramani Leisure Holdings Ltd. He is also the Managing Director for Hirdaramani International Exports Ltd., and the Managing Director of the Apparel Sector Executive Committee.
-
-Pathirana serves as a Non-Executive Director of several listed entities, namely WindForce PLC, Hemas Holdings PLC, BPPL Holdings PLC, Dankotuwa Porcelain PLC, Odel PLC, and Ceylon Hotels Corporation PLC.
-
-Pathirana is a Fellow Member of the Chartered Institute of Management Accountants, UK (FCMA – UK) and holds a Bachelor of Commerce degree from the University of Sri Jayewardenepura.
-
-◼️
-
-[Data](articles/48450abf.json)
 
 ---

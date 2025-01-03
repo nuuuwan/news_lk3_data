@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 13:44:11**
+As of **2025-01-03 14:03:08**
 
 ## Newspaper Stats
 
-*Scraped **63,478** Articles*
+*Scraped **63,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 466
 colombotelegraphcom | 639
 bbccomsinhala | 668
 islandlk | 3,862
-economynextcom | 3,866
+economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,067
@@ -26,11 +26,29 @@ adaderanasinhalalk | 10,957
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,478 articles have been extended.
+61,971 (97.6%) of 63,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### Kosala M Dissanayake appointed chairman of Union Chemicals Lanka
+
+*2025-01-03 13:45:00* · [`economynextcom`](https://economynext.com/kosala-m-dissanayake-appointed-chairman-of-union-chemicals-lanka-197799/) · `en`
+
+ECONOMYNEXT – Kosala M Dissanayake has been appointed chairman of Union Chemicals Lanka with effect from December 31, 2024, the company said.
+
+Dissanayake is a fellow member of the Institute of Chartered Accountants of Sri Lanka (FCA), Society of Certified Management Accountants of Sri Lanka (FCMA), Institute of Certified Professional Managers (FCPM), and a member of the Sri Lankan institute of Marketing (MSLIM), according to the stock exchange filing.
+
+He was previously the Chairman/Managing Director of GlaxoSmithKline Consumer Health Care, and the Managing Director of Delmage Forsyth Company Ltd, and Group Director Administration for Asiri Group of Hospitals.
+
+The Union Chemicals share was flat at 729.75 on Friday. (Colombo/Jan3/2025)
+
+◼️
+
+[Data](articles/803c51f1.json)
+
+---
 
 ### බන්ධනාගාර නිලධාරීන්ට දැඩි අවවාද
 
@@ -103,6 +121,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5340a043.json)
+
+---
+
+### CEAT India team, EDB discuss trade expansion in Sri Lanka
+
+*2025-01-03 12:44:00* · [`economynextcom`](https://economynext.com/ceat-india-team-edb-discuss-trade-expansion-in-sri-lanka-197806/) · `en`
+
+ECONOMYNEXT – A delegation from CEAT, an RPG India company, has met with Sri Lanka’s Export Development Board to discuss expanding CEAT’s presence in the island by diversifying its product portfolio in the rubber sector.
+
+CEAT CEO Arnab Banerjee met EDB chairman Mangala Wijesinghe, recently at the EDB Head Office in Colombo.
+
+“The delegation expressed interest in expanding CEAT’s presence in Sri Lanka by diversifying its product portfolio in the rubber sector,” EDB said.
+
+“Highlighting the company’s recent acquisition, Banerjee elaborated on the CAMSO brand, which is produced in Sri Lanka under RPG’s ownership.”
+
+Banerjee provided an overview of RPG’s operations across various sectors, including agriculture, engineering, and rubber.
+
+Wijesinghe congratulated the team on their expansion initiatives and “underscored additional investment opportunities in Sri Lanka, particularly in sectors such as pharmaceuticals, ICT, agriculture, and logistics”.
+
+...
+
+[Data](articles/35107a53.json)
 
 ---
 
@@ -344,6 +384,28 @@ The restraining order, which was set to expire today, has now been extended unti
 
 ---
 
+### Sri Lanka S&P SL20 hits 5,000 mark
+
+*2025-01-03 11:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-sp-sl20-hits-5000-mark-197767/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange’s more liquid index, the S&P SL20, which tracks the top 20 largest and most liquid stocks, went beyond the 5,000 mark during mid-morning trade Friday.
+
+The Index was up 0.60 percent, or 29.87 percent, at 5,001.74, after reaching an all-time high on Thursday.
+
+The broader ASPI was up 0.64 percent, or 104.43 points at 16,452.
+
+Constituents such as diversified John Keells Holdings was up at 24.20 rupees, while LOLC Holdings was down at 713.50; of the banks Commercial Bank was down at 145.25, Sampath Bank was down at 121.25.
+
+Sri Lanka stocks have been on a bull run amid low interest rates and banks awash in excess liquidity in the last quarter making margin loans cheap.
+
+The market also has had positive news, with improvements in banking sector, conclusion of debt restructuring.
+
+...
+
+[Data](articles/79a37510.json)
+
+---
+
 ### පහේ ශිෂ්‍යත්වය නැති කරනවාද නැද්ද ?
 
 *2025-01-03 11:39:18* · [`adalk`](https://www.ada.lk/breaking_news/පහේ-ශිෂ්‍යත්වය-නැති-කරනවාද-නැද්ද--/11-413991) · `si`
@@ -419,6 +481,28 @@ The appointment has been made by former President and UNP leader Ranil Wickremes
 ◼️
 
 [Data](articles/ea8d1588.json)
+
+---
+
+### Dr Lasantha Karunasekara appointed CEO of Sri Lanka’s Durdans hospital
+
+*2025-01-03 11:07:00* · [`economynextcom`](https://economynext.com/dr-lasantha-karunasekara-appointed-ceo-of-sri-lankas-durdans-hospital-197758/) · `en`
+
+ECONOMYNEXT – Dr Lasantha Karunasekara has been appointed chief executive officer of Ceylon Hospitals PLC, as well as Durdans Medical and Surgical Hospital (Pvt) Ltd, effective January 1, the company said.
+
+Dr Karunasekara has a professional career spanning over 22 years with over a decade of C-suite experience, the company said in a stock exchange filing.
+
+He was previously Deputy CEO/Director Medical Services of Lanka Hospitals PLC.
+
+He also served as the Director General Manager of Hemas Hospitals.
+
+An alumnus of St Thomas’ College, Mount Lavinia He holds a Doctor of Medicine (MD) from Russian state medical university and advanced diversified qualifications across many areas to include an MBA (UK), CMA (Aus.), Lean Practitioner (ILM), and Certified Professional Coach (ICF).
+
+Ceylon Hospitals shares were trading up at 123.50, and non-voting shares were trading down at 99.00. (Colombo/Jan3/2025)
+
+◼️
+
+[Data](articles/b7a6e7dc.json)
 
 ---
 
@@ -1651,79 +1735,5 @@ Amid those developments both indices moved upwards. All Share Price Index  was 
 ...
 
 [Data](articles/9816fd10.json)
-
----
-
-### CEAT holds discussions with EDB on trade expansion opportunities in Sri Lanka
-
-*2025-01-03 01:52:00* · [`islandlk`](http://island.lk/ceat-holds-discussions-with-edb-on-trade-expansion-opportunities-in-sri-lanka/) · `en`
-
-A delegation from CEAT, an RPG India company, led by Managing Director and CEO Arnab Banerjee, met with Mangala Wijesinghe, Chairman and CEO of the Sri Lanka Export Development Board (EDB), recently at the EDB Head Office in Colombo.
-
-During the meeting, Banerjee provided an overview of RPG’s operations across various sectors, including agriculture, engineering, and rubber. The delegation expressed interest in expanding CEAT’s presence in Sri Lanka by diversifying its product portfolio in the rubber sector. Highlighting the company’s recent acquisition, Mr. Banerjee elaborated on the CAMSO brand, which is produced in Sri Lanka under RPG’s ownership.
-
-Congratulating the team on their expansion initiatives, Mangala Wijesinghe underscored additional investment opportunities in Sri Lanka, particularly in sectors such as pharmaceuticals, ICT, agriculture, and logistics.
-
-The meeting was attended by senior officials from CEAT, including Vipul Vaid, Chief Financial Officer; Amit Tolani,
-
-...
-
-[Data](articles/afc7df28.json)
-
----
-
-### Three Sinha Group named large-scale winner in manufacturing sector
-
-*2025-01-03 01:51:00* · [`islandlk`](http://island.lk/three-sinha-group-named-large-scale-winner-in-manufacturing-sector/) · `en`
-
-Three Sinha Group of Companies became the Large-Scale Winner in the Manufacturing Sector at the Entrepreneur Awards 2024 for the Western Province. The event, organised by the National Enterprise Development Authority and the National Chamber of Commerce of Sri Lanka, was recently held in Colombo. Managing Director Manjula Ariyakumara accepted the award on behalf of the company.
-
-Having begun as a small-scale business, Three Sinha has now grown into a leading name in Sri Lanka’s construction industry. The company has earned both local and international recognition for its commitment to quality and innovation. Over the past, the Company has received several local and international quality certifications. Their latest achievements include Gold and Silver Awards at the CNCI Achievers’ Awards.
-
-Three Sinha offers a wide range of products and services, including roller doors, shutters, and fire-resistant doors. They also specialise in aluminum fabrications, sensor doors, and automatic barriers.
-
-...
-
-[Data](articles/143a8d89.json)
-
----
-
-### පොලිසියේ අලුත් ඇප් එක ඔබේ පෞද්ගලිකත්වය අවදානමේ හෙළනවා ද?
-
-*2025-01-03 01:48:40* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2exll4dx3eo) · `si`
-
-ජනාධිපතිවරයාගේ සංකල්පයකට අනුව නව වසරේ සිට ක්‍රියාත්මක වන "ක්ලීන් ශ්‍රී ලංකා" වැඩසටහනට සමගාමීව මාර්ග වැරදි පිළිබඳව පැමිණිලි කිරිමට පොලිසිය විසින් ජංගම දුරකතන යෙදුමක් (Mobile App) හඳුන්වා දෙනු ලැබීය.
-
-තවමත් පොලිස් වෙබ් අඩවියෙන් පමණක් බාගත කළ හැකි eTraffic නම් ඇප් එක මගින් රියදුරන් සිදුකරන රථ වාහන වැරදි ඡායාරූප හෝ වීඩියෝ ගත කර පොලිසිය වෙත ඉදිරිපත් කළ හැකිය.
-
-එසේ ලැබෙන පැමිණිළි විමර්ශන කර අවශ්‍ය නීතිමය කටයුතු කරන බව ඇප් එක හඳුන්වා දෙමින් පොලිසිය නිවේදනය කළේය.
-
-කෙසේ වෙතත් ඇප් එක මගින් පුද්ගලිකත්වයට මෙන්ම පුද්ගලික දත්ත අවදානමකට පත් වන බවට මතබේදාත්මක කතා බහක් සමාජ මාධ්‍ය තුළ පවතින අතර ඩිජිටල් තාක්ෂණය පිළිබඳ විද්වතුන් ද එය මතුකර තිබේ.
-
-සමාජ මාධ්‍ය පර්යේෂකයෙකු වන ආචාර්ය සංජන හත්තොටුව උපදෙස් දෙනුයේ ගවේෂණාත්මක මාධ්‍යවේදීන්, මානව හිමිකම් ක්‍රියාධරයන් මෙන්ම තම පුද්ගලිකත්වය සම්බන්ධව සැලකිලිමත් වන ඕනෑම කෙනෙකු මෙම ඇප් එක බාගත කර නොගැනීම සුදුසු බව ය.
-
-ඉහළ යන රිය අනතුරු නිසා රටේ ආර්ථිකයට ඇතිවන බලපෑම ගැන ඔබ දන්නවා ද?
-
-...
-
-[Data](articles/fae4e0cb.json)
-
----
-
-### Hidden Marvels of Moths
-
-*2025-01-03 01:42:00* · [`islandlk`](http://island.lk/hidden-marvels-of-moths/) · `en`
-
-In the world of insects, moths often remain in the shadows—both literally and figuratively. While butterflies are celebrated for their beauty and vibrancy, moths are frequently dismissed as dull or even bothersome.
-
-Yet, as Nuwan Chaturanga, a Lepidoptera expert who is also specialising in Sri Lanka’s ecosystems, reveals, moths are far from ordinary. These nocturnal insects possess fascinating adaptations, play pivotal ecological roles, and carry cultural significance that deserves a closer look.
-
-Moths have evolved into masters of survival, developing traits that enable them to navigate, evade predators, and thrive in diverse environments.
-
-Chaturanga highlights some of the most remarkable adaptations: “Moths have developed nocturnal vision and ultrasonic hearing, allowing them to evade predators like bats effectively.” These features place moths among the most specialised creatures in the animal kingdom.
-
-...
-
-[Data](articles/2392edb3.json)
 
 ---

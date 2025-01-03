@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 09:16:49**
+As of **2025-01-03 09:27:52**
 
 ## Newspaper Stats
 
-*Scraped **63,428** Articles*
+*Scraped **63,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,062
 adaderanalk | 7,755
-tamilmirrorlk | 9,091
+tamilmirrorlk | 9,092
 virakesarilk | 10,561
 adaderanasinhalalk | 10,948
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 10,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,428 articles have been extended.
+61,971 (97.7%) of 63,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### சிறைச்சாலையில் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2025-01-03 09:15:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலையில்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-349695) · `ta`
+
+மாத்தறை சிறைச்சாலையில் மரமொன்று முறிந்து விழுந்ததில் காயமடைந்து தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த மற்றொரு கைதியும் உயிரிழந்ததாக சிறைச்சாலை ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+இந்த விபத்தில் 11 பேர் காயமடைந்த நிலையில் மாத்தறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், ஆபத்தான நிலையிலிருந்த ஒருவரே இவ்வாறு உயிரிழந்ததாகத் தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/33efd5f0.json)
+
+---
 
 ### Sri Lanka among 25 nations with high religious restrictions, India tops list: Data
 
@@ -1753,23 +1767,5 @@ SLCERT stated that efforts are still underway to restore the official YouTube ch
 ◼️
 
 [Data](articles/3987f641.json)
-
----
-
-### Health sector to get highest-ever fund allocation through 2025 Budget – Minister
-
-*2025-01-02 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104675/health-sector-to-get-highest-ever-fund-allocation-through-2025-budget-minister-) · `en`
-
-Minister of Health and Mass Media Dr. Nalinda Jayatissa said the highest-ever allocation of funds for the health sector will be made in this year’s budget proposal.
-
-Dr. Jayatissa revealed this today (02), while speaking at the inauguration of the first and only bone marrow and hematopoietic stem cell transplant unit in a government hospital, established at the Apeksha Cancer Hospital in Maharagama.
-
-This was made possible through the financial support of the Ruhunu Maha Kataragama Devalaya and the dedicated labor contribution of the Sri Lanka Air Force (SLAF).
-
-“The Ministry of Health is usually a place where any government will provide funds if asked. More funds are allocated from the Treasury every year to the Health Ministry than even the ‘Kataragama Deviyo’. But this year, the highest amount of funds ever allocated for the Ministry of Health in history will be set aside in the budget”, the Minister noted.
-
-...
-
-[Data](articles/05db9a1d.json)
 
 ---

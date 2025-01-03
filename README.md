@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 05:51:47**
+As of **2025-01-03 06:13:46**
 
 ## Newspaper Stats
 
-*Scraped **63,396** Articles*
+*Scraped **63,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 639
 bbccomsinhala | 667
 islandlk | 3,860
 economynextcom | 3,863
-dailyftlk | 4,398
+dailyftlk | 4,407
 dailymirrorlk | 4,733
 adalk | 6,061
 adaderanalk | 7,752
@@ -26,11 +26,157 @@ adaderanasinhalalk | 10,946
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.8%) of 63,396 articles have been extended.
+61,971 (97.7%) of 63,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### For a working people’s Budget in 2025
+
+*2025-01-03 05:59:24* · [`dailyftlk`](https://www.ft.lk/opinion/For-a-working-people-s-Budget-in-2025/14-771328) · `en`
+
+The exclusion of informal sector workers from essential social safety nets like the EPF and ETF is a grave injustice
+
+The United Federation of Labour, a federation of nine trade unions representing diverse sectors, presents the following proposals for the 2025 Budget, with the aim of laying the foundations for a just and equitable economy for the people of Sri Lanka.
+
+...
+
+[Data](articles/46b65282.json)
+
+---
+
+### Office to beaches: Rise of digital nomads and Japanese-style workation
+
+*2025-01-03 05:57:55* · [`dailyftlk`](https://www.ft.lk/columns/Office-to-beaches-Rise-of-digital-nomads-and-Japanese-style-workation/4-771327) · `en`
+
+Digital nomads, the epitome of freedom and flexibility, traverse the globe, living a nomadic lifestyle, often working remotely. They are location independent and use technology for their work. They may be self-employed or work for companies like software developers, marketers, designers, financial analysts or researchers. These individuals, who value their independence, may live out of their suitcases while immersing themselves in different cultures, enjoying the sights and scenery, and trying out unique gastronomical delights while allocating time for their work on laptops. They may be out of their homes for months, but they are never out of options.
+
+...
+
+[Data](articles/ea6ae225.json)
+
+---
+
+### 525 youth empowered with employability skills in tourism sector
+
+*2025-01-03 05:54:13* · [`dailyftlk`](https://www.ft.lk/business/525-youth-empowered-with-employability-skills-in-tourism-sector/34-771326) · `en`
+
+FCCISL and NAITA partner for initiative supported by ILO and Government of Japan
+
+Five hundred and twenty five young Sri Lankans have successfully completed the work-based learning program in the tourism sector, a collaborative effort led by the National Apprentice and Industrial Training Authority (NAITA) and the Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL).
+
+The latest batch of trainees were awarded their certificates at a recent ceremony held in Nuwara Eliya, with the participation of Ambassador of Japan to Sri Lanka Isomata Akio, as chief guest.
+
+...
+
+[Data](articles/349c5f74.json)
+
+---
+
+### Gayantha criticises AKD Govt.’s 100-day performance
+
+*2025-01-03 05:50:45* · [`dailyftlk`](https://www.ft.lk/news/Gayantha-criticises-AKD-Govt-s-100-day-performance/56-771325) · `en`
+
+Says Govt. promised to deliver relief to people such as reducing fuel prices and electricity tariffs within 24 hours
+
+Accuses Govt. of failing to fulfil these pledges despite enjoying two thirds majority
+
+Slams Govt. for prioritising personal agendas over public welfare and calls for urgent measures to address growing economic and social challenges
+
+Samagi Jana Balawegaya (SJB) MP Gayantha Karunathilaka yesterday lambasted the National People’s Power (NPP) Government, claiming it has failed to deliver on its promises within its first 100 days in office.
+
+“The NPP had assured the public during election campaigns that relief measures such as reducing fuel prices, lowering electricity bills, and eliminating unfair taxes would be implemented immediately. They even said these could be achieved with the stroke of a pen in just 24 hours. Yet, despite enjoying over two-thirds parliamentary power, the Government has not fulfilled these pledges,” Karunathilaka said addressing a press conference.
+
+...
+
+[Data](articles/d26ef24d.json)
+
+---
+
+### New Chief of National Intelligence
+
+*2025-01-03 05:49:31* · [`dailyftlk`](https://www.ft.lk/news/New-Chief-of-National-Intelligence/56-771324) · `en`
+
+Major General Ruwan Wanigasooriya has been appointed as the Chief of National Intelligence by President Anura Kumara Dissanayake.
+
+The newly appointed Chief of National Intelligence Major General Ruwan Wanigasooriya (Retd.) received his letter of appointment from Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd.) on 1 January. Wanigasooriya succeeds Major General Ruwan Kulatunga.
+
+Major Gen. Wanigasooriya began his military career when he was commissioned into the Artillery Regiment in 1986.
+
+During the humanitarian operation, he was assigned to command two brigades in the North and was appointed as the Volunteer Force Commander in 2020.
+
+Major General Wanigasooriya retired from the Army in October, 2020.
+
+◼️
+
+[Data](articles/b457ea44.json)
+
+---
+
+### First Govt. pediatric bone marrow transplant unit opens at Apeksha Hospital
+
+*2025-01-03 05:48:35* · [`dailyftlk`](https://www.ft.lk/news/First-Govt-pediatric-bone-marrow-transplant-unit-opens-at-Apeksha-Hospital/56-771323) · `en`
+
+The first and only Bone Marrow and Hematopoietic Stem Cell Transplant (HSCT) Unit in a Government hospital for children with cancer in Sri Lanka was inaugurated at the Apeksha Cancer Hospital in Maharagama yesterday.
+
+This landmark achievement was made possible through the financial support of the Ruhunu Maha Kataragama Devalaya and the dedicated labour contribution of the Sri Lanka Air Force (SLAF). The inauguration ceremony was graced by the Health Minister Dr. Nalinda Jayatissa, Health Secretary Dr. Anil Jasinghe, and Air Force Commander Air Marshal Udeni Rajapaksa and ‘Basnayake Nilame’ of the Kataragama Devalaya, Dishan Gunasekara. The project began in response to the increasing need for space for children receiving residential treatment at the Maharagama Apeksha Hospital. In 2023, the Basnayake Nilame of Ruhunu Maha Kataragama Devalaya pledged financial resources from the Kataragama Devalaya Fund for the project.
+
+...
+
+[Data](articles/bee9d953.json)
+
+---
+
+### Ranil meets Nepal’s Prime Minister in private visit
+
+*2025-01-03 05:46:46* · [`dailyftlk`](https://www.ft.lk/news/Ranil-meets-Nepal-s-Prime-Minister-in-private-visit/56-771322) · `en`
+
+Nepalese Prime Minister KP Sharma Oli and former President of Sri Lanka, Ranil Wickremesinghe, held a meeting this week at the Prime Minister’s official residence in Baluwatar, Kathmandu.
+
+During the meeting, they discussed matters concerning Nepal-Sri Lanka bilateral relations and mutual interests, foreign media reported.
+
+According to the Nepalese Prime Minister’s Secretariat, House of Representatives (HoR) member and industrialist Binod Chaudhary was also present. Wickremesinghe, a long-time friend of Prime Minister Oli, arrived in Nepal on 28 December for a private visit and is returning to Sri Lanka today, the report said. Wickremesinghe, who has served as the Prime Minister of Sri Lanka, arrived in Nepal on 28 December and his visit comes as part of his continued diplomatic and personal ties with Nepal.
+
+The discussions are expected to further enhance the cooperation and friendship between the two nations.
+
+◼️
+
+[Data](articles/7d6669f5.json)
+
+---
+
+### India grants Rs. 290 m to rehabilitate Karainagar Boatyard
+
+*2025-01-03 05:45:48* · [`dailyftlk`](https://www.ft.lk/news/India-grants-Rs-290-m-to-rehabilitate-Karainagar-Boatyard/56-771321) · `en`
+
+A Memorandum of Understanding (MoU) has been signed between India and Sri Lanka for rehabilitation of the Karainagar Boatyard in the Northern Province of Sri Lanka with grant assistance from the Government of India to the tune of Rs. 290 million.
+
+The MoU was signed and exchanged by High Commissioner of India to Sri Lanka Santosh Jha and the then High Commissioner of Sri Lanka to India Kshenuka Dhireni Senewiratne on 16 December 2024.
+
+...
+
+[Data](articles/6b64eb55.json)
+
+---
+
+### 2025’s first Parliament sitting begins on 7 January
+
+*2025-01-03 05:44:17* · [`dailyftlk`](https://www.ft.lk/news/2025-s-first-Parliament-sitting-begins-on-7-January/56-771320) · `en`
+
+The first Parliament sittings for 2025 is scheduled for 7 and 10 January, according to Secretary-General of Parliament Kushani Rohanadeera.
+
+This decision was reached at the Committee on Parliamentary Business held recently under the Chairmanship of the Speaker, Dr. Jagath Wickramaratne.
+
+Accordingly, on Tuesday, 7 January, time has been allotted from 9:30 a.m. to 10:30 a.m. for Questions for Oral Answers. Subsequently, from 10:30 a.m. to 5:30 p.m., the Adjournment Debate on “Mid-Year Fiscal Position Report – 2024” by the Government has been scheduled as decided during the meeting held, the Secretary-General said.
+
+On Wednesday, 8 January, time has been allotted from 9:30 a.m. to 10:00 a.m., for Questions to be asked from the Prime Minister (4 questions). From 10:00 a.m. to 10:30 a.m., time has been allotted for 5 Questions for Oral Answers.
+
+...
+
+[Data](articles/0cb3a60b.json)
+
+---
 
 ### Mass shooting in New York nightclub leaves 11 people injured
 
@@ -1649,167 +1795,5 @@ This special traffic operation, initiated on December 23, 2024, under the instru
 ◼️
 
 [Data](articles/1a051d3d.json)
-
----
-
-### Matara Prison inmates transferred to Angunukolapelessa
-
-*2025-01-02 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104669/matara-prison-inmates-transferred-to-angunukolapelessa) · `en`
-
-Steps have been taken to transfer inmates held under Section 54 at the Matara Prison to the Angunukolapelessa Prison following the tragic incident which occurred at the prison premises due to the falling of a large tree branch last night (01).
-
-Matara Prison Superintendent Mangala Weliwita said that the decision was prompted by the limited space in the Matara Prison and the need to manage the aftermath of the accident.
-
-Meanwhile, the prison authorities have ensured heightened security at the prison following the incident, with the police and Police Special Task Force (STF) providing external security, while officers from the Galle and Matara prisons are overseeing internal security. Despite the tragic event, Weliwita confirmed that regular prison activities are continuing as usual.
-
-...
-
-[Data](articles/48c8f71c.json)
-
----
-
-### Tesla cybertruck explodes outside Trump hotel in Las Vegas, killing one
-
-*2025-01-02 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/104668/tesla-cybertruck-explodes-outside-trump-hotel-in-las-vegas-killing-one) · `en`
-
-At least one person was killed and seven wounded when a Tesla Cybertruck exploded outside a hotel belonging to US President-elect Donald Trump in Las Vegas, police said Wednesday.
-
-The electric vehicle pulled up to the Trump International Hotel’s glass entrance before a “large explosion,” Las Vegas Sheriff Kevin McMahill told reporters.
-
-Video footage shows the stainless steel truck parked at the hotel entrance before bursting into flames, followed by smaller explosions that appeared similar to fireworks.
-
-McMahill said there was “one deceased individual inside the Cybertruck” while seven people received “minor” injuries. He said the hotel had been evacuated.
-
-US President Joe Biden said authorities were investigating any possible link between the blast and an attack earlier Wednesday in New Orleans, in which a truck rammed a crowd, killing at least 15 people and wounding dozens.
-
-“Thus far, there’s nothing to report on that score,” Biden said.
-
-...
-
-[Data](articles/4976b27a.json)
-
----
-
-### Sri Lanka to import salt starting tomorrow
-
-*2025-01-02 14:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104667/sri-lanka-to-import-salt-starting-tomorrow) · `en`
-
-The Government of Sri Lanka has taken steps to open tenders for the import of 30,000 Metric Tonnes of salt from tomorrow (03).
-
-The import of salt will take place under two phases, where 20,000 Metric Tonnes of salt will be imported under the first phase and 10,000 Metric Tonnes of salt will be imported to the island under its second phase.
-
-Accordingly, the tenders will be opened for the import of 20,000 Metric Tonnes of salt from tomorrow.
-
-Meanwhile, it was reported that the imported salt will be distributed under the supervision of the Ministry of Industries and that the imported salt will only be utilised for the industrial purposes.
-
-On December 19, 2024, the Cabinet of Ministers granted approval for the import of up to 30,000 metric tons of non-iodized salt by the State Trading Corporation to address the ongoing salt shortage in the market.
-
-...
-
-[Data](articles/e8017a5a.json)
-
----
-
-### ත්‍රිකුණාමල මුහුදේ තිබී හමු වූ ඩ්‍රෝන යානය යළි ලබා දෙන්න අවධානය
-
-*2025-01-02 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204965) · `si`
-
-ත්‍රිකුණාමලයට ආසන්න මුහුදේ තිබී හමු වූ ඉන්දීය සමාගමකට අයත් ඩ්‍රෝන යානයෙන් මෙරටට කිසිදු බලපෑමක් නොමැති බව හෙළි වී තිබේ.
-
-ඒ සම්බන්ධයෙන් සේවීම සඳහා පත්කළ කමිටුව විසින් සිදුකළ අවසන් වාර්තාව ගුවන් හමුදාපති වෙත භාර දී ඇත.
-
-එම වාර්තාවෙන් පවසා ඇත්තේ මෙම ඩ්‍රෝන යානයෙන් ලංකාවට කිසිදු බලපෑමක් ඇති ව නොමැති බවය.
-
-එමෙන්ම මෙම ඩ්‍රෝන යානය,  ඉන්දීය සමාගමකට අයත් එකක් බවටද තොරතුරු අනාවරණය වී තිබේ.
-
-පසුගිය 27 වනදා ත්‍රිකුණාමලයට ආසන්න මුහුදේ තිබී මෙම ඩ්‍රෝන යානය ධීවරයින් පිරිසකට හමුව තිබුණි.
-
-මෙම යානය සති දෙකකට ආසන්න කාලයක් මුහුදේ තිබී ඇති බවද එම වාර්තාව මගන් පෙන්වා දී ඇති අතර එය නැවතත් ආදාළ සමාගමට භාරදීම සම්බන්ධයෙන් අවධානය යොමු කර තිබේ.
-
-◼️
-
-[Data](articles/0c6cd92f.json)
-
----
-
-### காட்டுப்பகுதியில் மீன் கழிவுகளை வீசி சென்ற வாகனம் ; தக்க பதிலடி கொடுத்த மக்கள்
-
-*2025-01-02 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/202777) · `ta`
-
-மீன் வியாபார  கடைகளில் இருந்து அகற்றப்படும் மீன் பொருட்களுடன் லொறி ஒன்றை  புதன்கிழமை (01) கம்பளை அம்புலாவ பகுதியில் உள்ள இளைஞர்கள் மடக்கி பிடித்துள்ளனர்.
-
-மீன்கடை உரிமையாளர் ஒருவர் அவர் கடையில் வெட்டிய மீன்கழிவுகளை வீதியோர காட்டுப்பகுதியில் வீசிவிட்டுச் சென்ற போது அதனை அவதானித்த அப்பிரதேசமக்கள் வாகனத்தினை மடக்கிபிடித்து அவர்கள் வீசிய  மீன் கழிவுகளை அள்ளி வாகனத்துக்குள்ளே போட்டடுள்ளனர். பின்னர் பொது மக்கள் அவர்களை பொலிஸாரிடம் ஒப்படைத்தனர்.
-
-◼️
-
-[Data](articles/29134e4d.json)
-
----
-
-### 2025’s first Parliament sitting to be held on Jan. 7
-
-*2025-01-02 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104666/2025s-first-parliament-sitting-to-be-held-on-jan-7) · `en`
-
-The Secretary-General of Parliament, Mrs. Kushani Rohanadeera stated that Parliament is scheduled to convene from January 7 to January 10, 2025.
-
-This decision was reached at the Committee on Parliamentary Business held recently (31), under the Chairmanship of the Speaker, Dr. Jagath Wickramaratne.
-
-Accordingly, on Tuesday, January 7, time has been allotted from 9:30 a.m. to 10:30 a.m. for Questions for Oral Answers. Subsequently, from 10:30 a.m. to 5:30 p.m., the Adjournment Debate on “Mid-Year Fiscal Position Report – 2024” by the Government has been scheduled as decided during the meeting held, the Secretary-General said.
-
-On Wednesday, January 8, time has been allotted from 9:30 a.m. to 10:00 a.m., for Questions to be asked from the Prime Minister (4 questions). From 10:00 a.m. to 10:30 a.m., time has been allotted for 5 Questions for Oral Answers.
-
-...
-
-[Data](articles/b3403029.json)
-
----
-
-### ලුණු මෙට්‍රික්ටොන් 20000ක් ආනයනයට හෙට සිට ටෙන්ඩර් විවෘත කරයි
-
-*2025-01-02 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204964) · `si`
-
-ශ්‍රී ලංකා රාජ්‍ය වාණිජ (විවිධ) නීතිගත සංස්ථාව (STC) හරහා ලුණු මෙට්‍රික්ටොන් 20,000ක් ආනයනය කිරීම සඳහා හෙට (03) සිට ටෙන්ඩර් විවෘත කිරීමට පියවර ගෙන තිබේ.
-
-අදියර 2ක් යටතේ එලෙස ලුණු ආනයනය කිරීමට පියවර ගන්නා අතර පළමු අදියර යටතේ මෙට්‍රික්ටොන් 20,000ක් සහ දෙවන අදියර යටතේ මෙට්‍රික්ටොන් 10,000ක් ආනයනය කෙරෙනු ඇත.
-
-ඒ අනුව පළමු අදියර යටතේ ලුණු මෙට්‍රික්ටොන් 20,000ක් ආනයනය කිරීම සඳහා හෙට දිනයේ මෙලෙස ටෙන්ඩර් විවාත කිරීමට නියමිතය.
-
-මෙලෙස ආනයනය කෙරෙන ලුණු කර්මාන්ත අමාත්‍යාංශය යටතේ බෙදාහැරීමට කටයුතු යොදා තිබේ.
-
-වැඩිදුරටත් වාර්තා වෙන්නේ මෙලෙස ආනයනය කෙරෙන ලුණු කර්මාන්තවල අවශ්‍යතාවය සඳහා පමණක් භාවිත කරන බවත් සාමාන්‍ය ජනතාවගේ පරිභෝජනය සඳහා ලබානොදෙන බවත්ය.
-
-◼️
-
-[Data](articles/a151b76a.json)
-
----
-
-### කොටස් වෙළඳපොළේ දැවැන්ත වර්ධනයක් - ඒකක 16000 පන්නයි - පිරිවැටුම රු.බි. 10යි
-
-*2025-01-02 13:47:38* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළේ-දැවැන්ත-වර්ධනයක්---ඒකක-16000-පන්නයි---පිරිවැටුම-රු-බි--10යි/11-413980) · `si`
-
-කොළඹ කොටස් හුවමාරුවේ සුවිශේෂී සංධිෂ්ඨානයක් පසුකරමින් අද දිනයේදී සියලු කොටස් මිල දර්ශකය ඒකක 16000 සීමාව ඉක්මවා ගියේය. දිනය අවසානයේදී සියලු කොටස් මිල දර්ශකය ඒකක 403.9 කින් ඉහළ ගොස් ඒකක 16 348.5ක් දක්වා ඉහළ ගියේය.
-
-එසේම එස්. ඇන්ඩ් පී. දර්ශකයද ඒකක 111.9කින් ඉහළ ගොස් ඒකක 4974.0ක් දක්වා ඉහළ ගියේය. එසේම අද දිනයේදී වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 12. 8ක් විය.
-
-◼️
-
-[Data](articles/0abc8ce4.json)
-
----
-
-### දානපතියන්ට සෞඛ්‍ය ඇමති කී දේ
-
-*2025-01-02 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204963) · `si`
-
-සෞඛ්‍ය වෙනුවෙන් ඉතිහාසයේ වෙන් කරන වැඩිම මුදල මෙවර අයවැයෙන් වෙන්කරන බව සෞඛය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අමාත්‍යවරයා මේ බව සඳහන් කළේ, මෙරට රජයේ රෝහලක් තුළ ඉදි කරනු ලැබූ පළමු හා එකම ඇටමිදුළු හා රුධිර ජනන සෛල බද්ධ කිරීමේ ඒකකය අද (02) මහරගම අපේක්ෂා රෝහලේදි විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
-
-"සෞඛ්‍ය අමාත්‍යාංශය කියන්නේ සාමාන්‍යයෙන් ඕනෑම රජයක් ඉල්ලුවොත් මුදල් දෙන තැනක්. කතරගම දෙයියෝ නෙමෙයි තිස්තුන් කෝටියක් දෙවිවරු දෙනවාට වඩා වැඩි මුදලක් භාණ්ඩාගාරයෙන් හැම වසරකම වෙන් කරනවා. එතෙක් මෙතෙක් ඉතිහාසයේ සෞඛ්‍ය අමාත්‍යාංශය වෙනුවෙන් වෙන් කරන ලද වැඩිම මුදල මෙවර අයවැයෙන් වෙන් කරනවා.
-
-...
-
-[Data](articles/010d0601.json)
 
 ---

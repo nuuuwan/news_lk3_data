@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 20:02:20**
+As of **2025-01-03 20:14:37**
 
 ## Newspaper Stats
 
-*Scraped **63,518** Articles*
+*Scraped **63,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,771
-tamilmirrorlk | 9,103
+tamilmirrorlk | 9,104
 virakesarilk | 10,584
 adaderanasinhalalk | 10,969
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,518 articles have been extended.
+61,971 (97.6%) of 63,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### ஏப்ரலில் உள்ளூராட்சி மன்ற தேர்தல் நடைபெறும்?
+
+*2025-01-03 19:59:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரலில்-உள்ளூராட்சி-மன்ற-தேர்தல்-நடைபெறும்/175-349708) · `ta`
+
+உள்ளூராட்சி மன்ற தேர்தல் பெரும்பாலும் ஏப்ரலில் நடைபெறும் என்று, தேர்தல்கள் ஆணைக்குழு வட்டாரங்கள் தெரிவிக்கின்றன.
+
+உள்ளூராட்சி மன்ற தேர்தலுக்கான விசேட ஏற்பாடுகள் சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ள போதிலும், எதிர்வரும் மார்ச் மாதம் சாதாரண தர பரீட்சை நடைபெறவுள்ளதால் அந்த மாதத்தில் தேர்தலை நடத்த முடியாது என தெரியவந்துள்ளது.
+
+உள்ளூராட்சி மன்ற தேர்தலுக்கான புதிய வேட்புமனுக்களை கோருவதற்கான உள்ளூராட்சி மன்ற தேர்தல்கள் (விசேட ஏற்பாடுகள்) சட்டமூலம் தொடர்பான வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இந்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டு ஒரு வாரத்தின் பின்னர் பாராளுமன்றத்தில் (முதல் வாசிப்பு) சமர்ப்பிக்க முடியும்.
+
+ஆட்சேபனைகள் எதுவும் தெரிவிக்கப்படாவிட்டால், இரண்டு வாரங்களுக்குப் பிறகு பிரேரணை மீது விவாதம் நடத்தப்படும். ஆட்சேபனைகள் எழுந்தால், அது தொடர்பாக முடிவெடுக்க மேலும் ஒரு வார கால அவகாசம் வழங்கப்படும்.
+
+...
+
+[Data](articles/d93d900f.json)
+
+---
 
 ### “சாரதி அனுமதிப்பத்திரம்” ஒரு மாதத்திற்குள் வழங்கப்படும்
 
@@ -1765,19 +1785,5 @@ Pathirana is a Fellow Member of the Chartered Institute of Management Accountant
 ◼️
 
 [Data](articles/48450abf.json)
-
----
-
-### Sampath IT partners with Cargills Bank, marking milestone in their banking history
-
-*2025-01-03 06:23:51* · [`dailyftlk`](https://www.ft.lk/business/Sampath-IT-partners-with-Cargills-Bank-marking-milestone-in-their-banking-history/34-771339) · `en`
-
-From left: Sampath IT Manager – Risk and Compliance Rashini Kulasekara, Assistant Manager – Public Relations Olindi Kiriella, Senior Manager – Software Solutions Gayani Randeniya, CEO Mangala Rodrigo, Cargills Bank Managing Director/CEO Senarath Bandara, CIO Indika Fernando, Assistant General Manager – Retail and SME Business Lasantha Mahendrarajah, Assistant General Manager – Legal Sajeewanie Solangaarachchi, Manager – IT Chulanga Wellawa
-
-Cargills Bank has partnered with Sampath Information Technology Solutions (SITS) to introduce gold loans and pawning services for the first time in its history. This collaboration, powered by SITS’s flagship product, Prime, marks a significant milestone in enhancing financial accessibility and driving business growth through innovative technology.
-
-...
-
-[Data](articles/3bfdb4c0.json)
 
 ---

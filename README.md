@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 19:43:57**
+As of **2025-01-03 20:02:20**
 
 ## Newspaper Stats
 
-*Scraped **63,517** Articles*
+*Scraped **63,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,862
 economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
-adalk | 6,070
+adalk | 6,071
 adaderanalk | 7,771
 tamilmirrorlk | 9,103
 virakesarilk | 10,584
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,517 articles have been extended.
+61,971 (97.6%) of 63,518 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/43ed6060.json)
+
+---
+
+### බැසිල්ගේ වත්කම් ගැන කියන්න විමල් සී.අයි.ඩි. යයි
+
+*2025-01-03 18:40:08* · [`adalk`](https://www.ada.lk/breaking_news/බැසිල්ගේ-වත්කම්-ගැන-කියන්න-විමල්-සී-අයි-ඩි--යයි/11-413995) · `si`
+
+පොදු ජන පෙරමුණු රජයේ හිටපු මුදල් අමාත්‍යවරයකු වන බැසිල් රාජපක්ෂ මහතාගේ වත්කම් ,දේපළ පිළිබඳව තමා කළ ප්‍රකාශයත් සම්බන්ධයෙන් ලිඛිත තොරතුරු ලබාදීම සඳහා අද (3) දින හිටපු අමාත්‍යවරයකු වන විමල් වීරවංශ මහතා කොළඹ අපරාධ පරීක්ෂණ කොට්ඨාසය වෙත පැමිණියේය. ඔහු සමග  නීතිඥ සහය ලබාදීම සඳහා හිටපු ඇමතිවරයකු වන නීතිඥ උදය ගම්මන්පිල මහතා සමග පැමිණ තිබේ.
+
+හිටපු අමාත්‍ය විමල් වීරවංශ මහතා හෙළිකරන ලද හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතාගේ වත්කම් දේපල පිළිබඳව ලිඛිත තොරතුරු එහිදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබා දී ඇති අතර ඔහුගේ ඇමරිකාවේ ඇති දේපළ පිළිබඳව එරටින් තොරතුරු ලබාගත හැකි බවද හෙතෙම ප්‍රකාශ කොට තිබේ.
+
+◼️
+
+[Data](articles/92b52f3d.json)
 
 ---
 
@@ -1765,21 +1779,5 @@ Cargills Bank has partnered with Sampath Information Technology Solutions (SITS)
 ...
 
 [Data](articles/3bfdb4c0.json)
-
----
-
-### CEAT team meets EDB Chairman to discuss trade expansion opportunities in Sri Lanka
-
-*2025-01-03 06:21:29* · [`dailyftlk`](https://www.ft.lk/business/CEAT-team-meets-EDB-Chairman-to-discuss-trade-expansion-opportunities-in-Sri-Lanka/34-771338) · `en`
-
-A delegation from CEAT, an RPG India company, led by Managing Director and CEO Arnab Banerjee, met with Sri Lanka Export Development Board (EDB) Chairman and CEO Mangala Wijesinghe recently at the EDB Head Office in Colombo.
-
-During the meeting, Banerjee provided an overview of RPG’s operations across various sectors, including agriculture, engineering, and rubber. The delegation expressed interest in expanding CEAT’s presence in Sri Lanka by diversifying its product portfolio in the rubber sector. Highlighting the company’s recent acquisition, Banerjee elaborated on the CAMSO brand, which is produced in Sri Lanka under RPG’s ownership.
-
-Congratulating the team on their expansion initiatives, Mangala Wijesinghe underscored additional investment opportunities in Sri Lanka, particularly in sectors such as pharmaceuticals, ICT, agriculture, and logistics.
-
-...
-
-[Data](articles/3e3f1b56.json)
 
 ---

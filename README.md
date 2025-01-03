@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 17:45:11**
+As of **2025-01-03 18:24:44**
 
 ## Newspaper Stats
 
-*Scraped **63,505** Articles*
+*Scraped **63,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,069
-adaderanalk | 7,768
+adaderanalk | 7,769
 tamilmirrorlk | 9,101
 virakesarilk | 10,583
-adaderanasinhalalk | 10,964
+adaderanasinhalalk | 10,968
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,505 articles have been extended.
+61,971 (97.6%) of 63,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### කොට්ටහච්චිට අපහාස කළ හිටපු මන්ත්‍රීට ඇප
+
+*2025-01-03 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205003) · `si`
+
+ජාතික ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රිනී නිලන්ති කොට්ටහච්චි මහත්මියට අපහාස කළ බව කියන මිල්ලනිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී රවීන්ද්‍ර නම්මුනි මහතා ඇප මත මුදා හරින ලෙස අධිකරණය නියෝග කර තිබේ.
+
+සැකකරු අද (03) කොළඹ අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී සැකකරු ලක්ෂ 5ක ශරීර ඇපයක් මත මුදාහැරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි මහත්මියට අපහාසාත්මක වන ආකාරයේ සටහනක් සමාජ මාධ්‍යයේ පළ කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් සැකකරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/515379e0.json)
+
+---
+
+### මුද්‍රණය ප්‍රමාද වූ රියදුරු බලපත්‍ර 130,000 ගැන තීරණයක්
+
+*2025-01-03 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205002) · `si`
+
+මෙතෙක් කල් මුද්‍රණය ප්‍රමාද වීම හේතුවෙන් ආයතනය තුළ එක් රැස්වී ඇති රියදුරු බලපත්‍ර මසක් ඇතුළත මුද්‍රණය කර නිකුත් කිරීමට පියවර ගන්නා බව ප්‍රවාහන, මහාමාර්ග නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න කුමාර ගුණසේන මහතා පවසයි.
+
+ඔහු පැවසුවේ ඒ අනුව මුද්‍රණය ප්‍රමාද වී ඇති රියදුරු බලපත්‍ර 130,000ක් පමණ ජනවාරි මස ඇතුළත නිකුත් කිරීමට පියවර ගන්නා බවය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ වේරහැර පරිශ්‍රයේ හදිසි නිරීක්ෂණ චාරිකාවකට එක් වෙමිනි.
+
+මෙම අවස්ථාව සඳහා වරාය සහ ගුවන්සේවා නියෝජ්‍ය අමාත්‍ය ජනිත රුවන් කොඩිතුවක්කු මහතා ද සහභාගී විය.
+
+එහිදී ආයතනය තුළ සේවාවන් මාර්ගගත ක්‍රමවේදය ඔස්සේ පවත්වාගෙන යාමට අවශ්‍ය පියවර ගන්නා ලෙසද අමාත්‍යවරයා නිලධාරීන්ට උපදෙස් දෙනු ලැබීය.
+
+මෙහිදී ආයතනයේ ව්‍යුහය සහ ක්‍රියාකාරීත්වය පිළිබඳව සොයා බැලූ අමාත්‍යවරුන් දෙපළ ආයතන තුළ මේ වනවිටත් ක්‍රියාත්මක වන තාක්ෂණික ක්‍රමවේදයන් වෙනුවට වඩාත් කාර්යක්ෂම සහ නවීන ක්‍රමවේදයන් යොදා ගනිමින් ආයතනය වඩාත් කාර්යක්ෂම මහජන සේවයක් ලබා දෙන රාජ්‍ය ආයතනයක් බවට පත් කිරීමට අවශ්‍ය පියවර ගන්නා බවද පැවසීය.
+
+◼️
+
+[Data](articles/4b2eb0bc.json)
+
+---
+
+### දේශීය ආදායම් දෙපාර්තමේන්තුව ඉතිහාසයේ ඉහළම බදු ආදායම රැස් කරයි
+
+*2025-01-03 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205001) · `si`
+
+දේශීය ආදයම් දෙපාර්තමේන්තු ඉතිහාසයේ මෙතෙක් රැස් කරන ලද ඉහළම බදු ආදායම පසුගිය 2024 වසරේදී රැස් කිරීමට සමත්ව තිබේ.
+
+දේශීය අදායම් දෙපාර්තමේන්තුව විසින් නිකුත් කළ නිවේදනයේ දැක්වෙනුයේ එය රුපියල් මිලියන 1,958,088ක් බවය.
+
+මෙය 2023 වසරට සාපේක්ෂව රුපියල් මිලියන 392,229ක වැඩි වීමක් වන අතර එහි වර්ධන වේගය සියයට 25.1ක් බවද එම නිවේදනයේ සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/13aa09a2.json)
+
+---
+
+### Colombo stock market dips after 26-day historic growth run
+
+*2025-01-03 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104701/colombo-stock-market-dips-after-26-day-historic-growth-run) · `en`
+
+Following an unprecedented 26-day rally, the Colombo Stock Exchange (CSE) faced a significant decline today (03), with the key indices recording sharp drops.
+
+The All Share Price Index (ASPI) declined by 299.13 points to close at 16,049.42, while the S&P SL20 Index fell by 46.05 points, ending the session at 4,925.82.
+
+A turnover of Rs. 11.48 billion was recorded during the day, with Browns Investments contributing Rs. 1.03 billion, followed by John Keells Holdings (Rs. 882 million), HNB (Rs. 401 million), Sampath Bank (Rs. 350 million), and LOLC Holdings (Rs. 305 million).
+
+The downturn was attributed to falling share prices in Sampath Bank, Commercial Bank, LOLC Holdings, Melstacorp, and Hayleys. In total, 189 companies recorded lower share prices compared to the previous trading day.
+
+◼️
+
+[Data](articles/eb29a39c.json)
+
+---
+
+### කොටස් වෙළෙඳපොළේ දරුණු පසුබැස්මක්
+
+*2025-01-03 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205000) · `si`
+
+කොළඹ කොටස් වෙළෙඳපොළ මිල දර්ශකවල දැවැන්ත පහළ යාමක් අද දිනයේ දී වාර්තා විය.
+
+එහිදී සියලු කොටස් මිල දර්ශක අගය ඒකක 299.13 කින් පහළ ගිය අතර දිනයේ ගනුදෙනු අවසානයේ දී එය ඒකක 16,049.42 ක් ලෙසින් සටහන් වුණි.
+
+මේ අතර S&P SL 20 දර්ශකය දිනය තුළ ඒකක 46.05 කින් පහළ ගොස් ඒකක 4,925.82 ක් ලෙසින් වාර්තා විය.
+
+රු. බිලියන 11.48 ක ගනුදෙනු පිරිවැටුමක් අද දින වාර්තා වී තිබුණි.
+
+මෙලෙස අද දිනයේ දී සියලු කොටස් මිල දර්ශකයේ පහළ යාමක් වාර්තා වූයේ අඛණ්ඩව දින 27ක් පුරාවට එහි වර්ධනයක් දැකිය හැකි වූ පසුබිමක වීම විශේෂත්වයකි.
+
+ප්‍රධාන වශයෙන් අද දිනයේ දී සම්පත් බැංකුව, කොමර්ෂල් බැංකුව, LOLC හෝල්ඩිංග්ස්, මෙල්ස්ටාකෝප් සහ හේලීස් යන සමාගම්වල කොටස් මිල ගණන් පහළ යාම්, සියලු කොටස් මිල දර්ශකයේ කඩාවැටීමට බෙහෙවින් බලපෑ අතර දිනය තුළ සමාගම් 189ක කොටස් මිල ගණන් පෙර දිනයට සාපේක්ෂව පහළ ගොස් තිබුණි.
+
+බ්‍රවුන්ස් ඉන්වෙස්ට්මන්ට්ස් රු. බිලියන 1.03ක්, ජෝන් කීල්ස් හෝල්ඩිංග්ස් රු.මිලියන 882 ක්, HNB රු. මිලියන 401 ක්, සම්පත් බැංකුව රු. මිලියන 350 ක් සහ LOLC හෝල්ඩිංග්ස් රු. මිලියන 305 ක් ලෙසින් අද දිනයේ දී ඉහළ පරිවැටුම් වාර්තා කළ සමාගම් අතර පෙරමුණේ විය.
+
+◼️
+
+[Data](articles/c421baa9.json)
+
+---
 
 ### கிளிநொச்சியில் தொடரும் தமிழ் அரசியல் கைதிகளை விடுவிக்குமாறு கோரிய  கையெழுத்து போராட்டம்
 
@@ -1681,87 +1777,5 @@ The United Federation of Labour, a federation of nine trade unions representing 
 ...
 
 [Data](articles/46b65282.json)
-
----
-
-### Office to beaches: Rise of digital nomads and Japanese-style workation
-
-*2025-01-03 05:57:55* · [`dailyftlk`](https://www.ft.lk/columns/Office-to-beaches-Rise-of-digital-nomads-and-Japanese-style-workation/4-771327) · `en`
-
-Digital nomads, the epitome of freedom and flexibility, traverse the globe, living a nomadic lifestyle, often working remotely. They are location independent and use technology for their work. They may be self-employed or work for companies like software developers, marketers, designers, financial analysts or researchers. These individuals, who value their independence, may live out of their suitcases while immersing themselves in different cultures, enjoying the sights and scenery, and trying out unique gastronomical delights while allocating time for their work on laptops. They may be out of their homes for months, but they are never out of options.
-
-...
-
-[Data](articles/ea6ae225.json)
-
----
-
-### 525 youth empowered with employability skills in tourism sector
-
-*2025-01-03 05:54:13* · [`dailyftlk`](https://www.ft.lk/business/525-youth-empowered-with-employability-skills-in-tourism-sector/34-771326) · `en`
-
-FCCISL and NAITA partner for initiative supported by ILO and Government of Japan
-
-Five hundred and twenty five young Sri Lankans have successfully completed the work-based learning program in the tourism sector, a collaborative effort led by the National Apprentice and Industrial Training Authority (NAITA) and the Federation of Chambers of Commerce and Industry of Sri Lanka (FCCISL).
-
-The latest batch of trainees were awarded their certificates at a recent ceremony held in Nuwara Eliya, with the participation of Ambassador of Japan to Sri Lanka Isomata Akio, as chief guest.
-
-...
-
-[Data](articles/349c5f74.json)
-
----
-
-### Gayantha criticises AKD Govt.’s 100-day performance
-
-*2025-01-03 05:50:45* · [`dailyftlk`](https://www.ft.lk/news/Gayantha-criticises-AKD-Govt-s-100-day-performance/56-771325) · `en`
-
-Says Govt. promised to deliver relief to people such as reducing fuel prices and electricity tariffs within 24 hours
-
-Accuses Govt. of failing to fulfil these pledges despite enjoying two thirds majority
-
-Slams Govt. for prioritising personal agendas over public welfare and calls for urgent measures to address growing economic and social challenges
-
-Samagi Jana Balawegaya (SJB) MP Gayantha Karunathilaka yesterday lambasted the National People’s Power (NPP) Government, claiming it has failed to deliver on its promises within its first 100 days in office.
-
-“The NPP had assured the public during election campaigns that relief measures such as reducing fuel prices, lowering electricity bills, and eliminating unfair taxes would be implemented immediately. They even said these could be achieved with the stroke of a pen in just 24 hours. Yet, despite enjoying over two-thirds parliamentary power, the Government has not fulfilled these pledges,” Karunathilaka said addressing a press conference.
-
-...
-
-[Data](articles/d26ef24d.json)
-
----
-
-### New Chief of National Intelligence
-
-*2025-01-03 05:49:31* · [`dailyftlk`](https://www.ft.lk/news/New-Chief-of-National-Intelligence/56-771324) · `en`
-
-Major General Ruwan Wanigasooriya has been appointed as the Chief of National Intelligence by President Anura Kumara Dissanayake.
-
-The newly appointed Chief of National Intelligence Major General Ruwan Wanigasooriya (Retd.) received his letter of appointment from Defence Secretary Air Vice Marshal Sampath Thuyacontha (Retd.) on 1 January. Wanigasooriya succeeds Major General Ruwan Kulatunga.
-
-Major Gen. Wanigasooriya began his military career when he was commissioned into the Artillery Regiment in 1986.
-
-During the humanitarian operation, he was assigned to command two brigades in the North and was appointed as the Volunteer Force Commander in 2020.
-
-Major General Wanigasooriya retired from the Army in October, 2020.
-
-◼️
-
-[Data](articles/b457ea44.json)
-
----
-
-### First Govt. pediatric bone marrow transplant unit opens at Apeksha Hospital
-
-*2025-01-03 05:48:35* · [`dailyftlk`](https://www.ft.lk/news/First-Govt-pediatric-bone-marrow-transplant-unit-opens-at-Apeksha-Hospital/56-771323) · `en`
-
-The first and only Bone Marrow and Hematopoietic Stem Cell Transplant (HSCT) Unit in a Government hospital for children with cancer in Sri Lanka was inaugurated at the Apeksha Cancer Hospital in Maharagama yesterday.
-
-This landmark achievement was made possible through the financial support of the Ruhunu Maha Kataragama Devalaya and the dedicated labour contribution of the Sri Lanka Air Force (SLAF). The inauguration ceremony was graced by the Health Minister Dr. Nalinda Jayatissa, Health Secretary Dr. Anil Jasinghe, and Air Force Commander Air Marshal Udeni Rajapaksa and ‘Basnayake Nilame’ of the Kataragama Devalaya, Dishan Gunasekara. The project began in response to the increasing need for space for children receiving residential treatment at the Maharagama Apeksha Hospital. In 2023, the Basnayake Nilame of Ruhunu Maha Kataragama Devalaya pledged financial resources from the Kataragama Devalaya Fund for the project.
-
-...
-
-[Data](articles/bee9d953.json)
 
 ---

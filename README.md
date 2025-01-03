@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 20:28:17**
+As of **2025-01-03 20:44:07**
 
 ## Newspaper Stats
 
-*Scraped **63,526** Articles*
+*Scraped **63,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,071
-adaderanalk | 7,771
+adaderanalk | 7,772
 tamilmirrorlk | 9,105
 virakesarilk | 10,588
 adaderanasinhalalk | 10,971
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,971
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,526 articles have been extended.
+61,971 (97.6%) of 63,527 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -185,6 +185,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/7533359d.json)
+
+---
+
+### South Korean presidential guards prevent arrest of impeached Yoon after tense stand-off
+
+*2025-01-03 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104704/south-korean-presidential-guards-prevent-arrest-of-impeached-yoon-after-tense-stand-off) · `en`
+
+South Korea’s presidential guards and military troops prevented the authorities from arresting impeached President Yoon Suk Yeol on Jan 3 in a tense six-hour stand-off inside his compound in the heart of Seoul.
+
+Mr Yoon is under criminal investigation for insurrection over his Dec 3 martial law bid that stunned South Korea and led to the first arrest warrant being issued for a sitting president.
+
+“It was judged that it was virtually impossible to execute the arrest warrant due to the ongoing stand-off,” the Corruption Investigation Office for High-ranking Officials (CIO) said in a statement.
+
+The CIO officials and police evaded hundreds of Mr Yoon’s supporters who gathered in the pre-dawn hours near his residence on Jan 3, vowing to block the arrest “with our lives”. Some chanted “President Yoon Suk Yeol will be protected by the people”, and called for the head of the CIO to be arrested.
+
+...
+
+[Data](articles/92e599db.json)
 
 ---
 
@@ -1765,27 +1783,5 @@ The report also assessed countries based on the government’s restrictions on r
 ◼️
 
 [Data](articles/1dbf16d9.json)
-
----
-
-### 2 dead and 18 injured in small plane crash in Southern California
-
-*2025-01-03 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104685/2-dead-and-18-injured-in-small-plane-crash-in-southern-california) · `en`
-
-Two people were killed and 18 injured when a small plane crashed through the rooftop of a commercial building in Southern California on Thursday, police said.
-
-Police got a report at 2:09 p.m. about the crash in the Orange County city of Fullerton, said Kristy Wells, a Fullerton police spokesperson.
-
-Firefighters and police arrived on scene and battled a blaze that broke out, and evacuated surrounding businesses, Wells said.
-
-The fire damaged the warehouse, which appeared to contain sewing machines and textile stock. The building was occupied by Michael Nicholas Designs, a furniture upholstery manufacturer, according to a sign on a door.
-
-Ten people were taken to the hospital, while eight were treated and released at the scene, police said. There were two confirmed deaths, according to Wells.
-
-It was not immediately known what type of plane it was or whether those injured were in the aircraft or on the ground, Wells said.
-
-...
-
-[Data](articles/603c89aa.json)
 
 ---

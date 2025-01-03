@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 10:16:08**
+As of **2025-01-03 10:28:05**
 
 ## Newspaper Stats
 
-*Scraped **63,439** Articles*
+*Scraped **63,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 639
 bbccomsinhala | 668
-islandlk | 3,860
-economynextcom | 3,863
+islandlk | 3,862
+economynextcom | 3,866
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,063
 adaderanalk | 7,757
-tamilmirrorlk | 9,093
+tamilmirrorlk | 9,095
 virakesarilk | 10,565
 adaderanasinhalalk | 10,950
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,950
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,439 articles have been extended.
+61,971 (97.7%) of 63,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### சீனாவில் வேகமாக பரவும் புதிய வைரஸ்… அச்சத்தில் உலக நாடுகள்
+
+*2025-01-03 10:11:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-வேகமாக-பரவும்-புதிய-வைரஸ்-அச்சத்தில்-உலக-நாடுகள்/50-349699) · `ta`
+
+கொவிட் -19 வைரஸ் பரவலுக்குப் பின் சுமார் 5 வருடங்களுக்குப் பிறகு, சீனாவில் பல வைரஸ்கள் பரவி வருவதாக வெளிநாட்டு ஊடகங்கள் தெரிவிக்கின்றன.
+
+Human metapneumovirus (HMPV) (HMPV) எனப்படும் ஒரு வைரஸ் நிலை பரவலாக இருப்பதாகவும், அவர்களில் கொவிட்-19 தொற்றுக்குள்ளானவர்களும் இருப்பதாகவும் வெளிநாட்டு ஊடகங்களில் தகவல்கள் வௌியாகியுள்ளன. மேலும், இன்ஃபுளுவென்சா (influenza) வைரஸூம் பரவி வருகிறது.
+
+சீனாவில் பல வைரஸ்களின் தாக்கம் வேகமாக பரவி வருவதாக வெளிநாட்டு ஊடகங்கள் தெரிவித்துள்ளன.
+
+தற்போதைய நிலவரத்தை கருத்திற் கொண்டு சீனாவில் அவசரகால சட்டம் அமுல்படுத்தப்பட்டுள்ளதாக கூறப்படுகின்ற போதிலும், இது தொடர்பில் இதுவரை அதிகாரபூர்வ தகவல்கள் வெளியாகவில்லை.
+
+இந்த வைரஸ் பரவல் நிலை குறித்து சீன அதிகாரிகள் இதுவரை எந்த அறிக்கையும் வெளியிடவில்லை. R
+
+◼️
+
+[Data](articles/22edcb8a.json)
+
+---
 
 ### යෝෂිත රාජපක්ෂ CIDයට පැමිණෙයි
 
@@ -64,6 +84,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka trade body commends new food labelling and advertising regulations
+
+*2025-01-03 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-body-commends-new-food-labelling-and-advertising-regulations-197627/) · `en`
+
+ECONOMYNEXT – Sri Lanka has imposed restrictions on marketing food and beverages to children, effective January 1, under its Food (Labelling and Advertising) Regulations 2022.
+
+The industry must now ensure children under 12 are not featured in advertisements for F&B products, and F&B products are not advertised or promoted to children below 12 years without prior approval from the Ministry of Health.
+
+Updated food labelling requirements, effective July 1, will provide consumers with essential information, including nutritional values and detailed ingredient lists, to make informed food choices.
+
+These updates address gaps in the regulations established in 2005 and align the framework with international standards, the Ceylon Chamber of Commerce said in a statement.
+
+“Transitioning entrenched industry practices will be challenging for businesses, from SMEs to large-scale operators,” CCC CEO Buwanekabahu Perera said.
+
+...
+
+[Data](articles/cf2072b7.json)
+
+---
+
+### பெண் அதிகாரிகளின் அறைக்குள் நுழைந்த பொலிஸ் கான்ஸ்டபிள்
+
+*2025-01-03 09:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-அதிகாரிகளின்-அறைக்குள்-நுழைந்த-பொலிஸ்-கான்ஸ்டபிள்/175-349698) · `ta`
+
+பெண் பொலிஸ் உத்தியோகத்தர்கள் தங்கியிருக்கும் அறைக்குள் அதிகாலையில் பிரவேசித்ததாக கூறப்படும் பொலிஸ் கான்ஸ்டபிள் ஒருவர் நுரைச்சோலை பொலிஸ் நிலைய கட்டளைத் தளபதியினால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபர் அண்மையில பொலிஸில் இணைந்து கொண்ட பயிலுனர் பொலிஸ் கான்ஸ்டபிள் என தெரிவிக்கப்பட்டுள்ளது.
+
+நேற்றைய தினம் (2ம் திகதி) நுரைச்சோலை பெண் பொலிஸ் உத்தியோகத்தர்கள் தங்கியிருந்த இடத்திற்குள் ஒருவர் நுழைந்துள்ளதாக நிலையத் தளபதிக்கு தகவல் கிடைத்த நிலையில், அவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட பொலிஸ் கான்ஸ்டபிள் தொடர்பில் கல்பிட்டி உதவி பொலிஸ் அத்தியட்சகருக்கும் அறிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/55bb9237.json)
+
+---
+
 ### කොවිඩ් වසංගතයෙන් පසු චීනයේ තවත් වෛරසයක්
 
 *2025-01-03 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204984) · `si`
@@ -83,6 +141,28 @@ Human metapneumovirus (HMPV) ලෙස පැවසෙන වෛරස තත්
 ◼️
 
 [Data](articles/95082a52.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 293.30/60 to US dollar, bonds steady
+
+*2025-01-03 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-30-60-to-us-dollar-bonds-steady-197732/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.30/60 to the US dollar in the spot market, from 293.15/40 on Thursday, while bond yields remained stable, dealers said.
+
+A bond maturing on 15.09.2027 was quoted at 9.75/85 percent, up from 9.75/82 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.12/15 percent, down from 10.10/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.70/75 percent, up from 10.60/75 percent.
+
+In equities, the All Share Price Index was up 0.52 percent, or 85.53 points, at 16,434.
+
+The more liquid S&P SL20 was up 0.49 percent, or 24.29 points, at 4,996.
+
+◼️
+
+[Data](articles/cda77937.json)
 
 ---
 
@@ -319,6 +399,28 @@ It was not immediately known what type of plane it was or whether those injured 
 ...
 
 [Data](articles/603c89aa.json)
+
+---
+
+### Sri Lanka current account surplus in 3Q with deficit financial account
+
+*2025-01-03 07:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-current-account-surplus-in-3q-with-deficit-financial-account-197636/) · `en`
+
+ECONOMYNEXT – Sri Lanka continued to record a surplus in the current account in the third quarter of 2024, central bank data show as new borrowings were halted by bilateral lenders and debt repayments continue to multilateral lenders and foreign reserves were built.
+
+Sri Lanka recorded a 303 million dollar surplus in the current account in the third quarter, down from 432 million dollars (revised) in the second quarter.
+
+The financial account was and Capital Accounts were 303 million dollars negative (subject to errors and omissions).
+
+A country will run a current account deficit if its get foreign investments and borrows abroad for domestic investments.
+
+A country will run a current account surplus if debts are repaid in on a net basis or foreign reserves are built (or outward investments are made) turning the financial account into a deficit.
+
+Sri Lanka got the ability to repay debt on a net basis in the third quarter of 2022, after rates were hiked and domestic credit was reduced.
+
+...
+
+[Data](articles/c726e76e.json)
 
 ---
 
@@ -878,6 +980,22 @@ Investigators found guns and what appeared to be an improvised explosive device 
 
 ---
 
+### MP Asoka Ranwala emphasises importance of paying taxes with integrity
+
+*2025-01-03 02:44:00* · [`islandlk`](http://island.lk/mp-asoka-ranwala-emphasises-importance-of-paying-taxes-with-integrity/) · `en`
+
+Former Speaker and Member of Parliament Asoka Ranwala has emphasised that the government can only provide proper benefits to the society and beneficiaries if successful businessmen paid their taxes properly.
+
+Speaking at an event held on Jan.1, he said that the government had faced a financial crisis in the past due to the inability to collect tax revenue. He, however, said that businessmen who donate their own money for welfare activities should be praised.
+
+“Only when successful businessmen contribute their fair share of tax can the society truly benefit. However, we experienced a great predicament in the past due to the inability to collect taxes properly,” he said.
+
+...
+
+[Data](articles/a023a974.json)
+
+---
+
 ### NTB and JKCG Auto introduce eco-friendly vehicle financing solutions
 
 *2025-01-03 02:43:00* · [`islandlk`](http://island.lk/ntb-and-jkcg-auto-introduce-eco-friendly-vehicle-financing-solutions/) · `en`
@@ -941,6 +1059,24 @@ Prior to her appointment at the CSE, she served as the Chief Investment Officer 
 ...
 
 [Data](articles/330b925a.json)
+
+---
+
+### Slashed interest rates continue to be a blessing for the stock market
+
+*2025-01-03 02:39:00* · [`islandlk`](http://island.lk/slashed-interest-rates-continue-to-be-a-blessing-for-the-stock-market/) · `en`
+
+Trading on the Colombo Stock Exchange (CSE) was bullish yesterday with the All Share Price Index going beyond the 16,000 mark.
+
+“The lower interest rates in the banking sector mainly contributed to this dynamic performance”, market analysts said.
+
+The stocks have been on a bull run amid low interest rates and banks were awash in excess liquidity in the last quarter making margin loans cheap. The market also has had positive news with improvements in the banking sector after the conclusion of debt restructuring.
+
+Amid those developments both indices moved upwards. All Share Price Index  was up 0.91 percent, or 14349 points in the first half hour of trading at 16,089. The more liquid S&P SL20 Index was up 111 points
+
+...
+
+[Data](articles/540300e7.json)
 
 ---
 
@@ -1643,135 +1779,5 @@ Analysts said confusion over the visa process from April-September this year cou
 ◼️
 
 [Data](articles/f9ae2553.json)
-
----
-
-### PM calls for in-depth study on low school attendance of A/L students
-
-*2025-01-02 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104679/pm-calls-for-in-depth-study-on-low-school-attendance-of-al-students) · `en`
-
-The Minister of Education, Higher Education and Vocational Education, Prime Minister Dr. Harini Amarasuriya has called for an in-depth investigation into the growing trend of students pursuing Advanced Level education staying away from school.
-
-During an observation tour of the Maharagama National Institute of Education, the Prime Minister expressed concern over the significant decline in classroom attendance, particularly among boys. She emphasized that addressing this issue is crucial to ensuring equal educational opportunities for all children.
-
-Furthermore, Dr. Amarasuriya noted that it is unacceptable for children to miss out on their education due to social or economic factors, while stressing the importance of creating an environment where every child has access to 13 years of schooling and the possibility of pursuing higher education.
-
-...
-
-[Data](articles/f26a1115.json)
-
----
-
-### பாற்சோறு சமைக்க அரிசியற்ற சூழலை இந்த அரசாங்கம் உருவாக்கியுள்ளது - பிரதான எதிர்க்கட்சி
-
-*2025-01-02 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202808) · `ta`
-
-சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாட்டிலுள்ள வேலைத்திட்டங்களை மேலும் பலப்படுத்துவதை தவிர இந்த அரசாங்கம் நாட்டு மக்களுக்காக என்ன செய்திருக்கிறது ? 2025ஆம் ஆண்டை வரவேற்பதற்கு பாற்சோறு சமைப்பதற்கு அரிசியற்ற சூழலை மாத்திரமே இந்த அரசாங்கம் உருவாக்கியிருக்கிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கயந்த கருணாதிலக தெரிவித்தார்.
-
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் வியாழக்கிழமை (02) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-புதிய அரசாங்கம் ஆட்சியைப் பொறுப்பேற்று 100 நாட்கள் நிறைவடைந்துள்ளன. இந்த 100 நாட்களில் தோல்வியடைந்த ஒரு அரசாங்கமாக இதனை மக்கள் எண்ண ஆரம்பித்துவிட்டனர்.
-
-24 மணித்தியாலங்களில் அத்தியாவசிய பொருட்களின் விலைகளைக் குறைப்பதாகக் கூறியவர்கள் 100 நாட்கள் கடந்தும் எவ்வித நடவடிக்கையையும் முன்னெடுக்கவில்லை.
-
-மூன்றில் இரண்டுக்கும் அதிக பெரும்பான்மையுடைய இந்த அரசாங்கத்தால் செய்ய முடியாததை, சிறு பெரும்பான்மையைக் கொண்டிருந்த நல்லாட்சி அரசாங்கத்தில் 100 நாள் வேலைத்திட்டத்தில் நாம் செய்து காட்டினோம்.
-
-...
-
-[Data](articles/f61ee2e5.json)
-
----
-
-### இறக்குமதி செய்யப்பட்ட 85 ஆயிரம் மெட்ரிக்தொன் அரிசி சந்தைக்கு விடுவிப்பு
-
-*2025-01-02 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202798) · `ta`
-
-இறக்குமதி அனுமதி பத்திரம் இல்லாமல்  அரிசி இறக்குமதி செய்வதற்கு அனுமதி அளித்ததன் பின்னர் நேற்று வரை இறக்குமதி செய்யப்பட்ட 85ஆயிரம் மெற்றிக் தொன் அரிசி பரிசோதனை செய்து துறைமுகத்தில் இருந்து வெளியேற்றப்பட்டுள்ளதாக  சுங்க ஊடக பேச்சாளரும் சுங்க மேலதி பணிப்பாளர் நாயகமுமான சீவலி அருக்கொட தெரிவித்துள்ளார்.
-
-இறக்குமதி செய்யப்பட்ட 85ஆயிரம் மெற்றிக் தொன் அரிசியில் பச்சை அரிசி 33ஆயிரம் மெட்ரிக்தொன் மற்றும் அவித்த அரிசி 52ஆயிரம் மெட்ரிக் தொன் அடங்குகிறது. சுங்கத்துக்கு மேலும் அனுப்பப்படும் இறக்குமதி செய்யப்படும் அரிசி மிக விரைவாக விடுவிக்கப்படும்.
-
-இந்த 85ஆயிரம் மெற்றிக் தொன் அரிசியில் அரச நிறுவனமான அரச வாணிப கூட்டுத்தாபனம் இறக்குமதி செய்த 780 மெற்றிக் தொன் அரிசியும் உள்ளடங்குகுவதாகவும் அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/c39f02da.json)
-
----
-
-### நாடு திரும்பியதும் அதிரடியாக ஐ.தே.க.  மறுசீரமைப்பினை ஆரம்பித்த ரணில்
-
-*2025-01-02 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202800) · `ta`
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க இந்தியா மற்றும் நேபாளத்துக்கான தனிப்பட்ட விஜயங்களை நிறைவு செய்து கொண்டு வியாழக்கிழமை (02)  நாடு திரும்பினார்.
-
-நாடு திரும்பியவுடனேயே ஐக்கிய தேசிய கட்சியின் மறுசீரமைப்புக்கான நடவடிக்கைகளை ஆரம்பித்துள்ளார். இது தொடர்பில் இன்று  அவர் கட்சியின் சிரேஷ்ட உறுப்பினர்களுடன் சிறு கலந்துரையாடலிலும் ஈடுபட்டுள்ளார்.
-
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த டிசம்பர் 21ஆம் திகதி டில்லிக்கு விஜயம் செய்திருந்தார். கடந்த 27ஆம் திகதி டில்லியிலுள்ள இந்திய ஹாபிடேட் சென்டர் கேட்போர் கூடத்தில் நடைபெற்ற இந்தியாவின் மறைந்த முன்னாள் பிரதமர் அடல் பிஹாரி வாஜ்பாய் நினைவேந்தல் உரையை ஆற்றுவதற்காக அவர் இந்த விஜயத்தை மேற்கொண்டிருந்தார்.
-
-இவ்விஜயத்துக்கு மத்தியில் இந்தியாவின் முன்னாள் பிரதமர் மன்மோகன் சிங்கிற்கும் அவர் இறுதி அஞ்சலி செலுத்தியிருந்தார்.
-
-...
-
-[Data](articles/d8b06421.json)
-
----
-
-### Sri Lanka stocks close up 2-pct, boosted by banks
-
-*2025-01-02 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-2-pct-boosted-by-banks-197576/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on the first day of business for 2025, data on its site showed.
-
-The broader ASPI closed up 2.53 percent, or 403.94 points, at 16,348.55; while the more liquid S&P SL20 Index closed up 2.26 percent, or 109.77 points, at 4,971.
-
-The ASPI hit the 16,000 mark in morning trade, while the S&P SL20 also edged closer to the 5,000 mark.
-
-“The market is extremely bullyish because liquidity is high, rates are bottoming out, and there’s funds coming into equity,” market participants said.
-
-There was also interest in stocks with an exposure to the tourism sector, with the tourist numbers floating around being positive, they said.
-
-Top positive contributors to the ASPI were John Keells Holdings (up at 23.60), Browns Investments Plc (up at 8.10), Sampath Bank (up at 121.75), Aitken Spence Plc (up at 155.25), and LOLC Plc (up at 716.00). (Colombo/Jan2/2024)
-
-◼️
-
-[Data](articles/bdd3e766.json)
-
----
-
-### පාසල් මගහරින උසස් පෙළ සිසුන් ගැන සොයයි
-
-*2025-01-02 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204969) · `si`
-
-උසස් පෙළ අධ්‍යාපනය හදාරන සිසුන් පාසලෙන් ඈත් වීම පිළිබඳ සොයාබැලිය යුතු බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
-
-අග්‍රාමාත්‍යවරිය පෙන්වා දෙන්නේ කුමන හේතුවක් මත හෝ දරුවන්ට අධ්‍යාපන අවස්ථා මගහැරීම නතර විය යුතු බවය.
-
-මහරගම ජාතික අධ්‍යාපන ආයතනයේ නිරීක්ෂණ චාරිකාවකට  එක්වෙමින් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මේ බව සඳහන් කළාය.
-
-වර්තමානයේ පාසල්වල උසස් පෙළ පන්ති කාමර තුළ දරුවන්‍ රැඳී සිටින්නේ ඉතා අඩුවෙන් බවද අග්‍රාමාත්‍යවරිය එහිදී සඳහන් කළාය.
-
-විශේෂයෙන් පිරිමි දරුවන් අධ්‍යාපන කටයුතුවලින් බොහෝදුරට ඈත්වෙමින් සිටින බව අග්‍රාමාත්‍යවරිය සඳහන් කරයි.
-
-කුමන සමාජ, ආර්ථික හේතුවක් පදනම් කරගෙන හෝ දරුවන්ට අධ්‍යාපනය මගහැරීමට ඉඩ නොදිය යුතු අතර පූර්ව ළමාවිය සංවර්ධනයේ සිට 13 වසරක පාසල් අධ්‍යාපනය මෙන්ම උසස් අධ්‍යාපනය සඳහා ඉඩ ප්‍රස්ථා සෑම දරුවෙකුටම විවර වී තිබිය යුතු බව අග්‍රාමාත්‍යවරිය තවදුරටත් සඳහන් කළාය.
-
-◼️
-
-[Data](articles/403b8ded.json)
-
----
-
-### சட்டம் என்பது கல்லில் செதுக்கப்பட்ட எழுத்தோ அல்லது சேற்றில் புதைக்கப்பட்ட குச்சியோ அல்ல - சுனில் வட்டகல
-
-*2025-01-02 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202785) · `ta`
-
-சட்டம் என்பது கல்லில் செதுக்கப்பட்ட எழுத்தோ அல்லது சேற்றில் புதைக்கப்பட்ட குச்சியோ அல்ல. எனவே அரச திணைக்களங்களில் சேவை பெற்றுக்கொள்ள வருகை தரும் ஒருவரை வெற்றுக்கையோடு மீள அனுப்பக்கூடாது.அதிகாரிகள் தமக்குள்ள அதிகாரங்களை பயன்படுத்தி நியாயத்தை பெற்றுக்கொடுக்க வேண்டும் என பொதுமக்கள் மற்றும் பாராளுமன்ற விவகாரங்கள் தொடர்பான பிரதி அமைச்சர் சட்டத்தரணி சுனில் வட்டகல தெரிவித்தார்.
-
-கொழும்பு பத்தரமுல்லையில் அமைந்துள்ள பொதுமக்கள் பாதுகாப்பு அமைச்சில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-ஜனாதிபதியின் 'கிளீன் ஸ்ரீலங்கா' தேசிய வேலைத்திட்டத்துக்கு அமைய எமது அமைச்சின் பொறுப்புக்களை நாம் சரிவர நிறைவேற்ற உறுதி கொள்ள வேண்டும். நாட்டின் பொருளாதாரம் உள்ளிட்ட ஏனைய அனைத்து துறைகளுக்கும் பொறுப்புக்கூறல் எமது அமைச்சின் ஊடாகவே இடம்பெறுகிறது. குறிப்பாக தேசிய அடையாள அட்டை மற்றும் கடவுச்சீட்டு அதற்கு சிறந்த உதாரணமாகும்.அவை எந்த அளவு முக்கியமானது என்பதை நாம் அறிவோம்.
-
-...
-
-[Data](articles/a7ac466c.json)
 
 ---

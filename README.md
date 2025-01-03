@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 18:38:34**
+As of **2025-01-03 18:51:01**
 
 ## Newspaper Stats
 
-*Scraped **63,510** Articles*
+*Scraped **63,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,97 @@ islandlk | 3,862
 economynextcom | 3,870
 dailyftlk | 4,419
 dailymirrorlk | 4,733
-adalk | 6,069
-adaderanalk | 7,769
+adalk | 6,070
+adaderanalk | 7,771
 tamilmirrorlk | 9,101
 virakesarilk | 10,583
-adaderanasinhalalk | 10,968
+adaderanasinhalalk | 10,969
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,510 articles have been extended.
+61,971 (97.6%) of 63,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
 
+### කැලිෆෝනියාවේ ගුවන් අනතුරක් - 2ක් මරුට
+
+*2025-01-03 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205004) · `si`
+
+අමෙරිකාවේ කැලිෆෝනියා ප්‍රාන්තයේ දී කුඩා ගුවන් යානයක් ගෘහ භාණ්ඩ නිෂ්පාදන කර්මාන්තශාලාවක වහලයක් මතට කඩා වැටී අනතුරක් සිදුව තිබේ.
+
+ඉන් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති අතර ඒ සමග ගොඩනැගිල්ලේ ගින්නක්ද හටගෙන තිබුණි.
+
+◼️
+
+[Data](articles/67f1c8ff.json)
+
+---
+
+### Ex-PS member arrested over defamatory posts about NPP MP granted bail
+
+*2025-01-03 17:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104703/ex-ps-member-arrested-over-defamatory-posts-about-npp-mp-granted-bail) · `en`
+
+Former SLPP member of the Millaniya Pradeshiya Sabha, Raveendra Rammuni, has been granted bail by the Colombo Magistrate’s Court.
+
+He was arrested by the Criminal Investigation Department (CID) this morning for allegedly sharing defamatory statements on social media about National People’s Power (NPP) Member of Parliament Nilanthi Kottahachchi.
+
+The former PS member was arrested this morning (3) at his residence in Batagoda.
+
+◼️
+
+[Data](articles/0f1a82d8.json)
+
+---
+
 ### කොට්ටහච්චිට අපහාස කළ හිටපු මන්ත්‍රීට ඇප
 
 *2025-01-03 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205003) · `si`
 
-ජාතික ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රිනී නිලන්ති කොට්ටහච්චි මහත්මියට අපහාස කළ බව කියන මිල්ලනිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී රවීන්ද්‍ර නම්මුනි මහතා ඇප මත මුදා හරින ලෙස අධිකරණය නියෝග කර තිබේ.
+ජාතික ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රිනී නිලන්ති කොට්ටහච්චි මහත්මියට අපහාස කළ බව කියන මිල්ලනිය ප්‍රාදේශීය සභාවේ හිටපු මන්ත්‍රී රවීන්ද්‍ර නම්මුනි මහතා ඇප මත මුදා හරින ලෙස අධිකරණය නියෝග කළේය.
 
-සැකකරු අද (03) කොළඹ අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී සැකකරු ලක්ෂ 5ක ශරීර ඇපයක් මත මුදාහැරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+සැකකරු අද (03) කොළඹ අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේදී මහෙස්ත්‍රාත්වරයා මෙලෙස නියෝග කළේය.
 
-පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි මහත්මියට අපහාසාත්මක වන ආකාරයේ සටහනක් සමාජ මාධ්‍යයේ පළ කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් සැකකරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය විසින් මෙම සැකකරු අත්අඩංගුවට ගෙන ඉදිරිපත් කර තිබුණි.
+පාර්ලිමේන්තු මන්ත්‍රීනි නිලන්ති කොට්ටහච්චි මහත්මියට අපහාසාත්මක වන ආකාරයේ සටහනක් සමාජ මාධ්‍යයේ පළ කළේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් සැකකරු අද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය විසින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+එහිදී එම නිලධාරීන් අධිකරණය හමුවේ කරුණු දක්වමින් පැවසුවේ සැකකරු විසින් ලිංගික අඩම්තේට්ටම් සිදුවන ආකාරයෙක් පළ කරනු ලැබූ ප්‍රකාශ හේතුවෙන් පැමිණිලිකාරිය දැඩි මානසික පීඩාවට ලක්ව  සායනවලට පවා යොමු වීමට සිදුව ඇති බවය.
+
+තවද සැකකරු පැමිණිලිකාරිය සම්බන්ධයෙන් සමාජ මාධ්‍යයේ සටහන් පළ කළ ප්‍රථම අවස්ථාව මෙය නොවන බවත් මින් පෙර කිහිප වතාවක් මේ ආකාරයෙන් කටයුතු කර ඇති බවය.
+
+...
+
+[Data](articles/515379e0.json)
+
+---
+
+### IRD records highest-ever tax revenue collection in 2024
+
+*2025-01-03 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104702/ird-records-highest-ever-tax-revenue-collection-in-2024) · `en`
+
+The Inland Revenue Department (IRD) has recorded its highest-ever tax revenue collection in 2024, amounting to Rs. 1,958,088 million.
+
+This includes Rs. 1,023,207 million collected as income taxes and Rs. 714,684 million as Value Added Tax (VAT).
+
+According to an official announcement from the department, the total revenue collection for last year represents an increase of Rs. 392,229 million compared to 2023, reflecting a growth rate of 25.1 percent.
 
 ◼️
 
-[Data](articles/515379e0.json)
+[Data](articles/e262bca3.json)
+
+---
+
+### එජාප මහ ලේකම් තලතා අතුකෝරාළ
+
+*2025-01-03 17:16:14* · [`adalk`](https://www.ada.lk/breaking_news/එජාප-මහ-ලේකම්-තලතා-අතුකෝරාළ/11-413994) · `si`
+
+එක්සත් ජාතික පක්ෂයේ නව මහලේකම් ධූරය සඳහා හිටපු පාර්ලිමේන්තු මන්ත්‍රීනි තලතා අතුකෝරාල මහත්මිය පත්කොට තිබේ. හිටපු ජනාධිපති එක්සත් ජාතික පක්ෂයේ නායක රනිල් වික්‍රමසිංහ මහතා විසින් අද (3)දා මෙම පත්වීම සිදුකොට තිබේ. මීට ඉහත මෙම තනතුර දැරුවේ පාර්ලිමේන්තු මන්ත්‍රී රංග බණ්ඩාර මහතාය.
+
+◼️
+
+[Data](articles/b9e6a36a.json)
 
 ---
 
@@ -1030,7 +1092,7 @@ Ceylon Hospitals shares were trading up at 123.50, and non-voting shares were tr
 
 *2025-01-03 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104691/ex-ps-member-arrested-for-defamatory-social-media-posts-on-mp-kottahachchi) · `en`
 
-The Criminal Investigation Department (CID) has arrested former SLPP member of the Millaniya Pradeshiya Sabha, Raveendra Nammuni.
+The Criminal Investigation Department (CID) has arrested former SLPP member of the Millaniya Pradeshiya Sabha, Raveendra Rammuni.
 
 He has been arrested for allegedly sharing defamatory statements on social media about National People’s Power (NPP) Member of Parliament Nilanthi Kottahachchi.
 
@@ -1719,63 +1781,5 @@ Founder Milinda Moragoda, Jennifer Moragoda, CEO MMBL-PF, K. Balasundram, Pathfi
 ◼️
 
 [Data](articles/707f1e90.json)
-
----
-
-### Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation
-
-*2025-01-03 06:16:26* · [`dailyftlk`](https://www.ft.lk/columns/Unintentional-setbacks-How-bureaucracies-can-contribute-to-policy-failures-during-implementation/4-771334) · `en`
-
-Without employing effective negotiations, the act of passing blame between policymakers and implementers will only exacerbate these games
-
-Not surprisingly, civilians place a lot of faith in the government to improve their living conditions. These expectations encompass multiple aspects, ranging from basic needs to more luxurious desires for a better life. Governments have, of course, played a major role in the development journeys of countries that have already achieved advanced economic status, and that role will be critical for economies aiming to follow their path. We often hear grand promises from politicians on stages and various political platforms. These promises are often well-articulated and compelling enough to create visions of a luxurious future in the minds of voters. Unfortunately, the pleasure of most of such dreams is, in most circumstances, limited to the imagination.
-
-...
-
-[Data](articles/94ed0e9b.json)
-
----
-
-### Do they know it’s Christmas?
-
-*2025-01-03 06:11:52* · [`dailyftlk`](https://www.ft.lk/columns/Do-they-know-it-s-Christmas/4-771333) · `en`
-
-The UK’s Daily Telegraph offered its selection of the best Christmas images from around the world. There was Cookie, a cockapoo running around Peterborough dressed as doggie Santa, and from New York City, the Radio City Rockettes dressed as toy soldiers in their Christmas spectacle. Santa was everywhere, surfing in Sydney, on the International Space station and dancing in Nairobi.
-
-It’s a holiday and a lot of people are having fun today. Fun and laughter are a good thing – they reduce stress and increase serotonin levels; that’s really good for our health. I hate to be a killjoy, but there is a startling absurdity in all this. Just a couple of years ago in 2022, we were reeling in the aftermath of a pandemic. COVID dramatically exposed the fragility of civilisation. Remember when our panic at the power of a coronavirus one billionth of a metre in size induced fear at the prospect of touching someone? When 100 human corpses were found rotting in U-Haul trucks in New York?
-
-...
-
-[Data](articles/3baaa480.json)
-
----
-
-### Psychological toll of online child sexual abuse: Call for rights-based approaches
-
-*2025-01-03 06:07:31* · [`dailyftlk`](https://www.ft.lk/columns/Psychological-toll-of-online-child-sexual-abuse-Call-for-rights-based-approaches/4-771331) · `en`
-
-Dr. Najat Maalla M’jid in conversation with WeProtect Global Alliance Executive Director Iain Drennan
-
-Dr. Najat Maalla M’jid, the United Nations Special Representative of the Secretary-General on Violence Against Children, recently highlighted a crucial, yet often overlooked issue: the psychological toll of online child sexual abuse (OCSA). Speaking at the Global Summit 2024 in Abu Dhabi, Dr. Maalla M’jid emphasised that while child protection efforts predominantly focus on physical safety and legal measures, the emotional and psychological consequences of online abuse are equally profound, often lingering long after the abuse itself.
-
-She called for a comprehensive approach that addresses both the prevention of harm and the mental health of survivors. This call for action challenges us to prioritise psychological support alongside protective measures.
-
-...
-
-[Data](articles/539dc1b3.json)
-
----
-
-### For a working people’s Budget in 2025
-
-*2025-01-03 05:59:24* · [`dailyftlk`](https://www.ft.lk/opinion/For-a-working-people-s-Budget-in-2025/14-771328) · `en`
-
-The exclusion of informal sector workers from essential social safety nets like the EPF and ETF is a grave injustice
-
-The United Federation of Labour, a federation of nine trade unions representing diverse sectors, presents the following proposals for the 2025 Budget, with the aim of laying the foundations for a just and equitable economy for the people of Sri Lanka.
-
-...
-
-[Data](articles/46b65282.json)
 
 ---

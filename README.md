@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 13:12:50**
+As of **2025-01-03 13:27:35**
 
 ## Newspaper Stats
 
-*Scraped **63,471** Articles*
+*Scraped **63,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,22 +17,96 @@ economynextcom | 3,866
 dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,067
-adaderanalk | 7,761
-tamilmirrorlk | 9,099
+adaderanalk | 7,764
+tamilmirrorlk | 9,101
 virakesarilk | 10,573
-adaderanasinhalalk | 10,955
+adaderanasinhalalk | 10,957
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,471 articles have been extended.
+61,971 (97.6%) of 63,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
 
-### CIDයට  ආ යෝෂිත එළියට එයි
+### බන්ධනාගාර නිලධාරීන්ට දැඩි අවවාද
+
+*2025-01-03 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204992) · `si`
+
+යකඩ දම්වැලක සවිකළ මාංචු සැකකරුවන්ගේ දෑත්වලට දමා අධිකරණයට ඉදිරිපත් කිරීම සම්බන්ධයෙන් කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා බන්ධනාගාර නිලධාරීන්ට ඊයේ (2) තරයේ අවවාද කර තිබේ.
+
+සිරකරුවෝද මනුෂ්‍යයෝ යන වදන සිහිපත් කරමින් මහෙස්ත්‍රාත්වරයා පවසා ඇත්තේ, ඔවුන්ට සතුන් ලෙස නොසැළකිය යුතු බවයි.
+
+අධිකරණ නිවාඩු සමය බැවින් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේදී අධිකරණ ශාලා නවයක ඇති සියලු නඩු කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා අංක 03 අධිකරණයේදී ඊයේ (2) කැඳවා තිබුණි.
+
+එහිදී එම නඩුවලට අදාළ රිමාන්ඩ් භාරයට පත්කර සිටින සැකකරුවන් 40ක පමණ පිරිසක් බන්ධනාගාර නිලධාරීන් විසින් අධිකරණය ශාලාවට රැගෙනවිත් තිබුණේ යකඩ දම්වැලක සවිකළ මාංචු ආධාරයෙන්.
+
+අංක 03 අධිකරණයේ රැඳවියන් රඳවා තබන සිරමැදිරිය තුළ සැකකරුවන් 20කට වැඩි පිරිසක් රඳවා තැබීමට නොහැකි හෙයින් එක දම්වැලක සවිකළ මාංචු සැකකරුවන්ගේ දෑත්වලට දමා සැකකරුවන් 40ක් පමණ විවෘත අධිකරණය තුළම රඳවා තැබීමට බන්ධනාගාර නිලධාරීන් කටයුතු කර ඇත.
+
+එය නිරීක්ෂණ වූ කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා බන්ධනාගාර නිලධාරීන්ට තරයේ අවවාද කර තිබුණේ ' සිරකරුවෝද මනුෂ්‍යයෝය' යන වදන සිහිපත් කරමින්.
+
+...
+
+[Data](articles/dc0a24ad.json)
+
+---
+
+### எம்.பிகளிடம் உணவு கட்டணத்தை அதிகரிக்க நடவடிக்கை
+
+*2025-01-03 13:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பிகளிடம்-உணவு-கட்டணத்தை-அதிகரிக்க-நடவடிக்கை/175-349705) · `ta`
+
+பாராளுமன்றத்தில் உணவு உண்ணும் எம்.பி.க்களிடம் வசூலிக்கும் தொகையை அதிகரிப்பது குறித்து அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+
+இதுவரை காலமும் எம்.பி.க்களிடம் இருந்து காலை உணவுக்கு 100 ரூபாயும், மதியம் 300 ரூபாயும் மட்டுமே வசூலிக்கப்பட்டது.
+
+எனினும் அந்தத் தொகை போதாது என, தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் தேவானந்த சுரவீர தெரிவித்தார். AN
+
+◼️
+
+[Data](articles/5d8c257a.json)
+
+---
+
+### மரக்கறிகளின் விலை குறைவடைந்தன
+
+*2025-01-03 13:05:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலை-குறைவடைந்தன/175-349704) · `ta`
+
+அண்மைய நாட்களில் அதிகரித்துள்ள மரக்கறிகளின் விலை தற்போது குறைவடைந்துள்ளதாக, தம்புள்ளை விசேட பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது.
+
+அண்மைய நாட்களாக நிலவும் மழையினால் மரக்கறிகளின் விலை அதிகரித்துள்ளதாக, வர்த்தக சங்கத்தின் தலைவர் சி.சிறிவர்தன தெரிவித்தார்.
+
+◼️
+
+[Data](articles/aa59d3e7.json)
+
+---
+
+### වසරක් තුළ බදුල්ලේ සුනඛ සපාකෑම් 6,700ක්
+
+*2025-01-03 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204991) · `si`
+
+2024 වසරේදී  බදුල්ලේ පුද්ගලයින් 6,700ක් පමණ සුනඛ සපාකෑම්වලට ලක්ව බදුල්ල ශික්ෂණ රෝහලෙන් ප්‍රතිකාර ලබා ඇතැයි රෝහල් වාර්තා අනාවරණ කරයි.
+
+රෝහල් බලධාරීන් පෙන්වා දෙන්නේ, සපාකෑම්වලට ලක්වූවන් අතර විදෙස් සංචාරකයින්ද වන බවයි.
+
+මේ සම්බන්ධයෙන් අදහස් දැක්වු බදුල්ල ශික්ෂණ රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ, වෛද්‍ය පාලිත රාජපක්ෂ මහතා,
+
+"බොහෝ වෙලාවට එන්නේ එන්නත්කරණයට ලක්නොකර ගෙදර ඉන්න බල්ලො සහ පූසෝ සපාකෑමෙන් තමා මේ තත්ත්වය වැඩිවෙලා තියෙන්නේ. සමස්තයක් විදියට ඌව පළාතේ 25,000ක් 30,000ක් විතර ප්‍රමාණයක් වාර්තා වෙනවා එන්නත් ලබාගන්න එන රෝගීන් ප්‍රමාණය."
+
+ඊට අමතරව ඇල්ල ප්‍රදේශයේ රිලා සපාකෑම්වලට සහ සුනඛ සපැකෑම්වලට ලක්වූ විදෙස් සංචාරකයින්ද බදුල්ල රෝහලෙන් ප්‍රතිකාර ලබා ඇතැයි රෝහල් වාර්තා අනාවරණ කරයි.
+
+මෙවැනි පසුබිමක බදුල්ල නගරාශ්‍රිතව ආයාලේ හැසිරෙන සුනඛයින් ප්‍රදේශවාසීන්ට තවදුරටත් තර්ජනයක් වී තිබේ.
+
+◼️
+
+[Data](articles/5340a043.json)
+
+---
+
+### CIDයට ආ යෝෂිත එළියට එයි
 
 *2025-01-03 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204990) · `si`
 
@@ -61,6 +135,60 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a6231d11.json)
+
+---
+
+### New Navy Commander calls on Deputy Minister of Defence
+
+*2025-01-03 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104695/new-navy-commander-calls-on-deputy-minister-of-defence-) · `en`
+
+The newly appointed Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda has paid a courtesy call on the Deputy Minister of Defence, Major General Aruna Jayasekara (Retd), yesterday (02 Jan) at his office.
+
+This marks Vice Admiral Banagoda’s first official meeting with the Deputy Minister since assuming command as the 26th Commander of the Navy, the Ministry of Defence said in a statement.
+
+During the meeting, the Deputy Minister congratulated Vice Admiral Banagoda on his appointment and emphasized several key priorities for the Navy under his leadership.
+
+These priorities focus on maintaining operational excellence while adhering to the highest standards of governance and accountability, the statement added.
+
+...
+
+[Data](articles/a84063c3.json)
+
+---
+
+### Mahinda Samarasinghe to continue as Sri Lanka’s Ambassador to US
+
+*2025-01-03 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104694/mahinda-samarasinghe-to-continue-as-sri-lankas-ambassador-to-us) · `en`
+
+The Ministry of Foreign Affairs announced that Sri Lanka’s Ambassador to the United States, Mahinda Samarasinghe, will continue to serve in that position due to ongoing discussions with the International Monetary Fund (IMF).
+
+The government had decided to recall 16 ambassadors and high commissioners who received political appointments in the past.
+
+However, when inquired by “Ada Derana,” the Ministry of Foreign Affairs said that the government has decided to retain Mahinda Samarasinghe in that position.
+
+Nevertheless, the Ministry of Foreign Affairs further stated that steps have been taken to recall certain diplomats and officials back to Sri Lanka with the aim of making the diplomatic service an active service.
+
+◼️
+
+[Data](articles/b338e4b0.json)
+
+---
+
+### Colombo HC extends suspension on Keheliya and family’s assets
+
+*2025-01-03 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104693/colombo-hc-extends-suspension-on-keheliya-and-familys-assets) · `en`
+
+The Colombo High Court today (3) extended the suspension order issued on the bank accounts and life insurance policies of former Health Minister Keheliya Rambukwella and his family members, for an additional three months.
+
+The extension was granted following a request from the Bribery Commission.
+
+Previously, the court had issued an order suspending the fixed deposits and life insurance policies valued at over Rs. 97 million, belonging to Rambukwella, his wife, daughters, and relatives, as part of an ongoing investigation by the Commission.
+
+The restraining order, which was set to expire today, has now been extended until April 2 by the court.
+
+◼️
+
+[Data](articles/0846b10c.json)
 
 ---
 
@@ -1597,139 +1725,5 @@ Chaturanga highlights some of the most remarkable adaptations: “Moths have dev
 ...
 
 [Data](articles/2392edb3.json)
-
----
-
-### Cynicism; new tricks by petty criminals
-
-*2025-01-03 01:29:00* · [`islandlk`](http://island.lk/cynicism-new-tricks-by-petty-criminals/) · `en`
-
-“For last year’s words belong to last year’s language. And next year’s words await another voice.”
-
-Cassandra feels that T S Eliot has translated her thoughts to words and written them down, her thought being the writing of her column – Cassandra Cry. Her column language changed after the presidential election – tentatively – and in confirmed manner after the dust of the general election settled down with a Cabinet of Ministers and other officials sworn in to guide Sri Lanka in the next five years; critically in the first year 2025.
-
-...
-
-[Data](articles/32eda6cc.json)
-
----
-
-### 2025-01-02 (Thursday)
-
-### නව වසරේ අමෙරිකාව සලිත කළ ඛේදවාචක තුනක්
-
-*2025-01-02 23:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204979) · `si`
-
-අමෙරිකා එක්සත් ජනපදයට 2025 නව වසර උදාවූයේ ඉතාමත් ඛේදනීය සිදුවීම් පෙළකින්.
-
-ඉන් එක් සිද්ධියක් නිව් ඕලියන්ස් ප්‍රදේශයෙන් වාර්තා වූ අතර, තවත් සිද්ධි දෙකක් නිව්යෝර්ක් සහ ලාස් වේගාස් නුවරින් වාර්තා විය.
-
-2025 නව වසර මහත් හරසරින් පිළිගැනීම සඳහා අමෙරිකානුවන් විවිධ ප්‍රදේශවලදී උත්සව සංවිධානය කර තිබුණි.
-
-ඒ අනුව නිව් ඕලියන්ස්හි ප්‍රකට සංචාරක කලාපය ද ජනතාවගෙන් පිරී ඉතිරී ගියේය.
-
-කෙසේ වෙතත් කිසිවකුත් අපේක්ෂා නොකළ ආකාරයෙන් කැබ් රථයක් වේගයෙන් ඉදිරියට ධාවනය වන්නේ පුද්ගලයින් රැසක් යටකර දමමින්ය.
-
-මෙම අනතුරින් පුද්ගලයින් 15 දෙනෙකු මියගොස් ඇති අතර තුවාල ලැබූ පිරිස 35කට අධිකය.
-
-අනතුර සිදුකළ කැබ් රථයේ රියදුරු පසුව ජනතාව සහ පොලීසිය දෙසට වෙඩි ප්‍රහාර ද එල්ල කර තිබේ.
-
-නමුත් පොලිසිය එල්ල කළ වෙඩි ප්‍රහාරයකින් කැබ් රියේ රියදුරු මරණයට පත්විය.
-
-"මුළු වීථිය පුරාම හැමතැනම මළ සිරුරු. මිනිස්සු කෑ ගහනවා. අඬනවා. සමහර අය කෘතිම ශ්වසනය දෙනවා. මිනිස්සු පාරේ අඬනවා"'.
-
-සිද්ධිය පිළිබඳ අමෙරිකානු ෆෙඩරල් විමර්ශන කාර්යංශය සිදුකළ පරීක්ෂණවලදී අනාවරණ වී ඇත්තේ, සැකකරු  ටෙක්සාස්හි උපන් 42 හැවිරිදි සම්සුද් ඩීන් ජබ්බාර් නම් අමෙරිකානු ජාතිකයෙකු බවයි.
-
-...
-
-[Data](articles/25b6cd8a.json)
-
----
-
-### ජීන් ඇන්ටිට මැර ප්‍රහාරයක්
-
-*2025-01-02 22:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204978) · `si`
-
-සමාජ ක්‍රියාකාරිනියක වන ජීන් ප්‍රිම්රෝස් නතානියෙල්ස් නොහොත් ජීන් ඇන්ටිට පුද්ගලයින් දෙදෙනෙකු නිවසට පැන පහර දී තිබේ.
-
-එම පහරදීමෙන් ඇයට සහ ඇගේ සැමියාට තුවාල සිදුව ඇති අතර, දෙදෙනාම රාගම ශික්ෂණ රෝහලට ඇතුළත් කර ඇත.
-
-◼️
-
-[Data](articles/9420116a.json)
-
----
-
-### මාතර රැදවියන් 55ක් අගුණු⁣කොලපැලැස්සට
-
-*2025-01-02 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204977) · `si`
-
-මාතර බන්ධනාගාරයේ රැදවියන් 55 දෙනෙකු අද (02) රාත්‍රියේ අගුණුකොලපැලැස්ස බන්ධනාගාරය වෙත මාරුකර යැවීමට තීරණය කළ බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක, බන්ධනාගාර කොමසාරිස් ගාමිණී බී. දිසානායක මහතා පැවසීය.
-
-මාතර බන්ධනාගාරය තුළ පිහිටි බෝ ගසක අත්තක් G හා F යන වාට්ටු දෙකට කඩාවැටී හානි සිදුවීම හේතුවෙන් එම බන්ධනාගාරයේ ඉඩකඩ සීමාවීම නිසා මෙම තීරණය ගෙන ඇත.
-
-දැඩි ආරක්ෂාව යට⁣තේ මෙම කටයුතු සිදුවන අතර, ඉඩකඩ සීමාවීම හේතුවෙන් සිය කැමැත්තෙන් මාතර බන්ධනාගාරයෙන් ඉවත්වීමට කැමති රැදවියන් මෙලෙස ඉවත් කිරිමට පියවරගෙන ඇත.
-
-ඊයේ (01) රාත්‍රියේ සිදු වූ මෙම අනතුරෙන් එක් අයෙකු මියගිය අතර, තුවාල ලැබූ 11 දෙනෙකු මාතර මහ රෝහලට ඇතුළත් කරනු ලැබීය.
-
-තවත් තිදෙනෙකු සාමාන්‍ය වාට්ටුවල සිටින අතර, එක් අයෙකු දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ගනිමින් සිටියි.
-
-◼️
-
-[Data](articles/4dd0f213.json)
-
----
-
-### At least 27 die, dozens rescued as two migrant boats sink off Tunisia
-
-*2025-01-02 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104683/at-least-27-die-dozens-rescued-as-two-migrant-boats-sink-off-tunisia) · `en`
-
-Tunisia’s coast guard has recovered the bodies of 27 African migrants after two boats they were attempting to cross the Mediterranean in sank off the coast, the national guard said on Thursday.
-
-The boats sank in waters off the city of Sfax, a departure point often used by African migrants.
-
-Last month, Tunisia’s coast guard recovered the bodies of about 30 other migrants in two separate incidents, after their boat sank while they were sailing towards Europe.
-
-The national guard said on Thursday that the coast guard rescued 87 people who were on the same two boats that sank off Sfax.
-
-Tunisia is grappling with an unprecedented migration crisis and has replaced Libya as the major departure point for both Tunisians and people from elsewhere in Africa seeking a better life in Europe.
-
-◼️
-
-[Data](articles/57ce5c20.json)
-
----
-
-### கடற்படைப் புதிய தளபதியுடன்  பாதுகாப்பு பிரதி அமைச்சர் சந்திப்பு
-
-*2025-01-02 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/202817) · `ta`
-
-கடற்படையின் புதிய தளபதியான வைஸ் அட்மிரல் காஞ்சன பனாகொடக்கும் பாதுகாப்பு பிரதி அமைச்சர் மேஜர் ஜெனரல் அருண ஜெயசேகரவுக்கும் இடையில் சந்திப்பொன்று நடைபெற்றுள்ளது.
-
-இச் சந்திப்பு பாதுகாப்பு அமைச்சின் அலுவலகத்தில் நடைபெற்றிருந்ததோடு, கடற்படைத் தளபதியாக பனாகொட நியமிக்கப்பட்டதன் பின்னர் நடைபெற்ற உத்தியோக பூர்வமான சந்திப்பாகும்.
-
-இதன்போது தேசிய மற்றும் கடல்சார் பாதுகாப்பில் கடற்படையின் வகிபாகம் தொடர்பில் அவதானம் செலுத்தப்பட்டமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/ffd918e6.json)
-
----
-
-### திருகோணமலையில் 5 மாணவர்கள் படுகொலை நினைவேந்தல்
-
-*2025-01-02 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/202824) · `ta`
-
-திருகோணமலையில் 2016ம் ஆண்டு படுகொலை செய்யப்பட 05 மாணவர்களின் 19 ஆவது நினைவு நா‌ள் 02ஆம் திகதி  மாலை திருகோணமலை கடற்கரையில் இடம் பெற்றது. குறித்த நினைவேந்தலானது இராவணன் சேனா அமைப்பின் தலைவர் கு. செந்தூரன் தலைமையில் இடம்பெற்றது. இதன் போது மெழுகுவர்த்தி ஏற்றப்பட்டு உணர்வு பூர்வமாக அஞ்சலி செலுத்தினர்.
-
-திருகோணமலை டொக்யார்ட் வீதி, பெரிய கடற்கரைச் சந்தியிலுள்ள காந்தி சிலைக்கு அருகாமையாக மாலைப் பொழுதில் தினமும் இளைஞர்கள் நின்று கதைப்பது வழக்கம். 02.01.2006 அன்றைய மாலைப் பொழுதும் மாணவர்கள் பலர் அவ்விடத்தில் கூடிநின்று கதைத்துக்கொண்டிருந்தனர்.
-
-அப்போது ஆட்டோ ஒன்றில் வந்த இனம் தெரியாத நபர்கள் அந்த இளைஞர்கள் மீது கைக்குண்டை வீசிவிட்டுக் கோட்டைப் பக்கமாகச் சென்றனர். கைக்குண்டு வெடித்ததில் திருமலை புனிதஜோசப் கல்லூரி மாணவரான யோகராஜா பூங்குழலோன் என்பவர் காயமடைந்தார்.
-
-இவரை ஏனைய மாணவர்கள் வைத்தியசாலைக்கு கொண்டுசெல்ல முற்பட்டபோது அப்பகுதிக்கு வந்த கடற்படையினர் அங்கு சுமார் 10 நிமிடங்கள் வரை துப்பாக்கிப் பிரயோகம் செய்தனர்.
-
-...
-
-[Data](articles/1cf74058.json)
 
 ---

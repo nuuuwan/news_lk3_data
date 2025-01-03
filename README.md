@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 19:27:52**
+As of **2025-01-03 19:43:57**
 
 ## Newspaper Stats
 
-*Scraped **63,515** Articles*
+*Scraped **63,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,070
 adaderanalk | 7,771
-tamilmirrorlk | 9,101
+tamilmirrorlk | 9,103
 virakesarilk | 10,584
 adaderanasinhalalk | 10,969
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 10,969
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.6%) of 63,515 articles have been extended.
+61,971 (97.6%) of 63,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### “சாரதி அனுமதிப்பத்திரம்” ஒரு மாதத்திற்குள் வழங்கப்படும்
+
+*2025-01-03 19:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிப்பத்திரம்-ஒரு-மாதத்திற்குள்-வழங்கப்படும்/175-349707) · `ta`
+
+கால தாமதம் ஆகியுள்ள 130,000 சாரதி அனுமதிப்பத்திர அட்டைகள் ஒரு மாதத்திற்குள் வழங்கப்படும் என போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் பிரதி அமைச்சர் பிரசன்ன குமார குணசேன தெரிவித்துள்ளார்.
+
+வேரஹெர மோட்டார் வாகன போக்குவரத்து திணைக்களத்திற்கு இன்று கண்காணிப்பு விஜயம் மேற்கொண்டு ஊடகங்களுக்கு கருத்துரைத்த போதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+அத்துடன், இணையவழி முறையினூடாக குறித்த நிறுவனத்தின் சேவைகளை மேற்கொள்வதற்கு நடவடிக்கை எடுக்கப்படும் எனவும் போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் பிரதி அமைச்சர் பிரசன்ன குமார குணசேன தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/06a62f77.json)
+
+---
+
+### சீனாவின் புது வைரஸ் தொடர்பில் இலங்கை அவதானம்
+
+*2025-01-03 19:21:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவின்-புது-வைரஸ்-தொடர்பில்-இலங்கை-அவதானம்/50-349706) · `ta`
+
+சீனாவில் பரவி வருவதாக கூறப்படும் வைரஸ் தொடர்பில் அவதானம் செலுத்தி வருவதாக தொற்று நோய் தடுப்பு பிரிவு தெரிவித்துள்ளது.
+
+இது தொடர்பான தகவல்களை இன்று (03) அறிந்து கொண்டதாகவும், அதற்கான ஆய்வின் பின்னர் ஊடகங்களுக்கு தகவல்களை வழங்கவுள்ளதாகவும் தொற்றுநோய் தடுப்புப் பிரிவு சுட்டிக்காட்டியுள்ளது.
+
+கொவிட் -19 வைரஸ் பரவலுக்குப் பின் சுமார் 5 வருடங்களுக்குப் பிறகு, சீனாவில் Human metapneumovirus (HMPV) (HMPV) எனப்படும் ஒரு வைரஸ் நிலை பரவலாக இருப்பதாகவும், அவர்களில் கொவிட்-19 தொற்றுக்குள்ளானவர்களும் இருப்பதாகவும் வெளிநாட்டு ஊடகங்களில் தகவல்கள் வௌியாகியுள்ளன. மேலும், இன்ஃபுளுவென்சா (influenza) வைரஸூம் பரவி வருகிறதாக தெரிவிக்கப்படுகின்றமை குறிப்பிடத்தக்கது.R
+
+◼️
+
+[Data](articles/af0f5228.json)
+
+---
 
 ### அனுபவமில்லாத அணியின் செயற்பாடு பாதிப்பை ஏற்படுத்தினால் நாட்டையும் மக்களையும் பாதுகாக்க ஐக்கிய தேசியக் கட்சி தயார் - வஜிர
 
@@ -1749,37 +1781,5 @@ Congratulating the team on their expansion initiatives, Mangala Wijesinghe under
 ...
 
 [Data](articles/3e3f1b56.json)
-
----
-
-### Nimal announces exit from NGage Strategic Alliance, entrusting legacy to Sheron
-
-*2025-01-03 06:20:35* · [`dailyftlk`](https://www.ft.lk/business/Nimal-announces-exit-from-NGage-Strategic-Alliance-entrusting-legacy-to-Sheron/34-771337) · `en`
-
-Nimal Gunewardena, the visionary founder of Sri Lanka’s pioneering Integrated Marketing Communications (IMC) and Public Relations (PR) agency, yesterday announced his exit from the agency he founded in 1993, now rebranded as NGage Strategic Alliance (formerly Bates Strategic Alliance).
-
-In a strategic move to ensure continuity and growth, Gunewardena has transferred his equity in the business to the current CEO, Sheron Jayasundara, entrusting her with the mantle to carry forward the agency’s distinguished legacy for the benefit of its talented team and valued clients.
-
-...
-
-[Data](articles/77f3c6aa.json)
-
----
-
-### Multi-stakeholder SME development workshop in Central Province
-
-*2025-01-03 06:19:32* · [`dailyftlk`](https://www.ft.lk/business/Multi-stakeholder-SME-development-workshop-in-Central-Province/34-771336) · `en`
-
-National Chamber of Commerce, Pan Asia Bank and Central Province Chamber of Entrepreneurs in collaborative effort for entrepreneur empowerment
-
-The National Chamber of Commerce of Sri Lanka (NCCSL), Pan Asia Bank, and the Central Province Chamber of Entrepreneurs joined hands to conduct a full-day SME development workshop on 19 December 2024. The event was held at the Auditorium of the Central Province Chamber of Entrepreneurs, attracting a large audience of Micro, Small, and Medium Enterprise (MSME) sector entrepreneurs from Kandy, Matale, Nuwara Eliya, and nearby regions.
-
-The workshop aimed to equip entrepreneurs with critical skills and knowledge to enhance their business operations. The program featured four focused impactful sessions for upskilling the MSMEs:
-
-Financial literacy and banking requirements – Strengthening financial management and understanding banking processes
-
-...
-
-[Data](articles/1a5fc852.json)
 
 ---

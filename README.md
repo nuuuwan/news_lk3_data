@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-03 09:27:52**
+As of **2025-01-03 09:44:33**
 
 ## Newspaper Stats
 
-*Scraped **63,429** Articles*
+*Scraped **63,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,419
 dailymirrorlk | 4,733
 adalk | 6,062
 adaderanalk | 7,755
-tamilmirrorlk | 9,092
+tamilmirrorlk | 9,093
 virakesarilk | 10,561
 adaderanasinhalalk | 10,948
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 10,948
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.7%) of 63,429 articles have been extended.
+61,971 (97.7%) of 63,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-03 (Friday)
+
+### ’கைதிகளை மிருகங்களை போல் நடத்த வேண்டாம்’
+
+*2025-01-03 09:29:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகளை-மிருகங்களை-போல்-நடத்த-வேண்டாம்/175-349696) · `ta`
+
+கைதிகளும் மனிதர்களே என்ற வாசகத்தை நினைவு கூர்ந்த கொழும்பு மேலதிக நீதவான் பசன் அமரசேன, கைதிகளை மிருகங்களைப் போன்று நடத்த வேண்டாம் எனவும், சிறைச்சாலை அதிகாரிகளுக்கு உத்தரவிட்டுள்ளார்.
+
+நீண்ட இரும்புச் சங்கிலியுடன் கைவிலங்கிடப்பட்ட சந்தேகநபர்களை நீதிமன்ற அறையில் வரிசையாக ஆஜர்படுத்தியமைக்காக சிறைச்சாலை அதிகாரிகளை குற்றம் சுமத்திய போதே, நீதவான் இந்த உத்தரவை வழங்கினார்.
+
+சந்தேகநபர்களை மனிதர்களைப் போன்று நடத்த வேண்டும் என வலியுறுத்திய நீதவான், இனிமேல் அவ்வாறு செய்ய வேண்டாம் எனவும் சிறைச்சாலை அதிகாரிகளுக்கு தெரிவித்துள்ளார்.
+
+நீதிமன்றம் விடுமுறை என்பதால், கொழும்பு நீதவான் நீதிமன்றத்தின் நீதிமன்றப் பெயரின் வழக்கு எண் 03 நீதிமன்றில் அழைக்கப்பட்டது.
+
+விளக்கமறியலில் ஆஜர்படுத்தப்பட்ட சுமார் 40 சந்தேக நபர்கள் ஒரே சங்கிலியில் கைவிலங்குகளுடன் நீதிமன்ற அறைக்கு அழைத்து வரப்பட்டனர்.
+
+நீதிமன்ற இலக்கம் 03 இன் சிறைச்சாலையில் சந்தேக நபர்களின் எண்ணிக்கையை அனுமதிக்க முடியாது என்பதால், சந்தேக நபர்களை ஒரே இடத்தில் கைவிலங்கிட்டு நீதிமன்ற அறையில் ஆஜர்படுத்த அதிகாரிகள் ஏற்பாடு செய்திருந்தனர்.
+
+...
+
+[Data](articles/da553d54.json)
+
+---
 
 ### சிறைச்சாலையில் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
 
@@ -1747,25 +1769,5 @@ A bond maturing on 01.12.2031 closed at 11.20/35 percent. (Colombo/Jan2/2025)
 ...
 
 [Data](articles/3e02eac3.json)
-
----
-
-### Govt Printing Dept’s website restored after cyber attack
-
-*2025-01-02 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104677/govt-printing-depts-website-restored-after-cyber-attack-) · `en`
-
-The official website of the Department of Government Printing which was hacked on Tuesday (Dec. 31) has now been restored, according to Sri Lanka Computer Emergency Readiness Team (SLCERT).
-
-The official website of the Department of Government Printing which was hacked on Tuesday (Dec. 31) has now been restored, according to Sri Lanka Computer Emergency Readiness Team (SLCERT).
-
-On Friday (Dec. 31), it was reported that the official website of the Sri Lanka Department of Government Printing was hacked and its data had been altered.
-
-Meanwhile, the official YouTube channel of the Sri Lanka Police Department had also been subjected to a cyber-attack since Friday.
-
-SLCERT stated that efforts are still underway to restore the official YouTube channel of Sri Lanka Police.
-
-◼️
-
-[Data](articles/3987f641.json)
 
 ---

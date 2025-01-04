@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 22:02:52**
+As of **2025-01-04 22:16:16**
 
 ## Newspaper Stats
 
-*Scraped **63,658** Articles*
+*Scraped **63,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
-adaderanalk | 7,788
+adaderanalk | 7,790
 tamilmirrorlk | 9,123
 virakesarilk | 10,617
 adaderanasinhalalk | 10,994
@@ -26,11 +26,45 @@ adaderanasinhalalk | 10,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,658 articles have been extended.
+61,971 (97.3%) of 63,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Russia vows retaliation after saying it downed eight US-made long-range missiles
+
+*2025-01-04 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104722/russia-vows-retaliation-after-saying-it-downed-eight-us-made-long-range-missiles) · `en`
+
+Russia has vowed retaliation after claiming to have shot down eight US-made ATACMS missiles fired by Ukraine on Saturday morning.
+
+Moscow sees the use of such missiles, which have a range of up to 300 kilometers (186 miles), as a major escalation.
+
+The country’s air defenses shot down the eight ballistic missiles alongside 72 aircraft-type unmanned aerial vehicles (UAVs), Russia’s Ministry of Defense said. It added that “these actions by the Kyiv regime, which is supported by Western curators, will be met with retaliation.”
+
+The statement said several drones were destroyed in the Leningrad region in the north-west and one in Kursk, where Ukraine launched a surprise attack late last summer.
+
+The outgoing US President Joe Biden approved Kyiv’s use of ATACMS in November – saying in part it was in response to Russia expanding the conflict by deploying North Korean troops.
+
+...
+
+[Data](articles/45387157.json)
+
+---
+
+### 2024 Scholarship Exam paper marking to resume from Jan 8
+
+*2025-01-04 20:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104721/2024-scholarship-exam-paper-marking-to-resume-from-jan-8) · `en`
+
+The Department of Examinations has announced that the paper marking process for the 2024 Grade 05 Scholarship Examination, which was the subject of recent controversy, will resume next week.
+
+Accordingly, the Commissioner General of Examinations, Amith Jayasundara, stated that the paper marking process will take place from January 08 to January 12.
+
+◼️
+
+[Data](articles/155f31cf.json)
+
+---
 
 ### වැලිගම වෙඩිතැබීම පිටුපස හරක් කටාගේ සම්බන්ධයක්?
 
@@ -1827,37 +1861,5 @@ The government has announced new restrictions on marketing food and beverages fo
 ...
 
 [Data](articles/27eeb8e8.json)
-
----
-
-### சீனாவில் பரவி வரும் எச்.எம்.பி.வி வைரஸ் தொற்றுக் குறித்து சுகாதாரத் துறை கவனம் செலுத்தியுள்ளது -  சுகாதார அமைச்சு
-
-*2025-01-04 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202921) · `ta`
-
-சீனாவில் பரவி வரும் எச்.எம்.பி.வி வைரஸ் தொற்றுக் குறித்து சுகாதாரத் துறை கவனம் செலுத்தி வருவதாக சுகாதார அமைச்சின் தொற்றுநோய் பிரிவு தெரிவித்துள்ளது.
-
-மேற்படி புதிய வகை வைரஸ் தொற்று பரவல் குறித்து வெள்ளிக்கிழமை (3) சுகாதார அமைச்சின் தொற்றுநோய் பிரிவு விடுத்திருந்த விசேட அறிக்கையில் இவ்விடயம் குறிப்பிடப்பட்டிருந்தது.
-
-மேற்படி வைரஸ் தொற்றுக் குறித்து தற்போது சுகாதார அமைச்சின் தொற்றுநோய் பிரிவுக்கு தகவல்கள் கிடைக்கப்பெற்றுள்ளன. இது தொடர்பில் உரிய பகுப்பாய்வுகளை மேற்கொண்டதன் பின்னர் பொதுமக்களுக்கு உறுதிப்படுத்தப்பட்ட தகவல்களை வெளியிட தயாராக உள்ளோம். ஆகையால் பொதுமக்கள் வீன் அச்சம் கொள்ளத் தேவையில்லை என தொற்றுநோய் பிரிவு தெரிவித்துள்ளது.
-
-இதேவேளை 2019 ஆம் ஆண்டு கோவிட் -19 தொற்று ஏற்பட்டதன் பின்னர் சுமார் ஐந்து வருடங்களுக்கு பிறகு மீண்டும் சீனாவின் பல பகுதிகளில் புதிய வகை வைரஸ் இனம் பரவி வருவதை காணக்கூடியதாக உள்ளது. ”மனித மெட்டாப்நியூமோ வைரஸ்” (எச் எம் பி வி) என குறித்த வைரஸ் தொற்று சீன ஆய்வாளர்களால் அடையாளப்படுத்தப்பட்டுள்ளது.
-
-...
-
-[Data](articles/ea458dd0.json)
-
----
-
-### தேசிய மக்கள் சக்தி அரசாங்கத்தின் உத்தேச அரசியலமைப்பும் 13 வது திருத்தமும்: 13 வது திருத்தத்தில் உள்ள அதிகாரப்பரவலாக்கல் அளவு புதிய அரசியலமைப்பில் சேர்த்துக் கொள்ளப்படுமா இல்லையா என்பதே முக்கியமான கேள்வியாகும்.
-
-*2025-01-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85298) · `en`
-
-இலங்கையின் புதிய ஜனாதிபதி அநுரா குமார திசாநாயக்க டிசம்பர் 15 — 17 இந்தியாவுக்கு தனது முதலாவது உத்தியோகபூர்வ விஜயத்தை வெற்றிகரமாக முடித்துக்காண்டு நாடுதிரும்பினார். புதுடில்லிக்கான அவரின் மூன்று நாள்விஜயத்தின் காட்சிகள் நேர்மறையாக பாராட்டப்பட்டிருக்கின்றன. ஜனாதிபதி திசாநாயக்க ஜனதா விமுக்தி பெரமுனவினதும் ( ஜே.வி.பி.) அதன் தலைமையிலான தேசிய மக்கள் சக்தியினதும் தலைவராக இருக்கிறார்.
-
-அவரின் வெற்றிகரமான இந்திய பயணம் ஜே.வி.பி.யின் கடந்த காலத்துக்கும் நிகழ்காலத்துக்கும் இடையிலான ” பொருத்தமின்மை ” மீது கவனத்தைக் குவிக்க வைத்திருக்கிறது. இந்தியா தொடர்பிலான ஜே.வி.பி.யின் கடந்தகால கடும் போக்கும் தற்போதைய மென்போக்கும் ஒப்பிடப்படுவதுடன் வேறுபடுத்தியும் காட்டப்படுகின்றன. ஜனாதிபதியின் வெற்றிகரமான விஜயம் இந்தியாவுடனான ஜே.வி.பி.யின் உறவு ஒரு ” மறுதலையான ” நேர்மறைத் திருப்பத்தை எடுத்திருக்கிறது என்பதை காட்டுகிறது.
-
-...
-
-[Data](articles/d0aa4ff8.json)
 
 ---

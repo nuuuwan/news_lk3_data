@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 14:02:56**
+As of **2025-01-04 14:15:36**
 
 ## Newspaper Stats
 
-*Scraped **63,613** Articles*
+*Scraped **63,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 467
 colombotelegraphcom | 641
 bbccomsinhala | 669
-islandlk | 3,871
+islandlk | 3,874
 economynextcom | 3,878
 dailyftlk | 4,430
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,613 articles have been extended.
+61,971 (97.4%) of 63,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1004,6 +1004,18 @@ For more than four decades, SOS Children’s Villages Sri Lanka has supported vu
 
 ---
 
+### Saving children from corporate greed
+
+*2025-01-04 01:39:00* · [`islandlk`](http://island.lk/saving-children-from-corporate-greed/) · `en`
+
+The government has announced new restrictions on marketing food and beverages for children under the Food (Labelling & Advertising) Regulations 2022. A long-felt need has been fulfilled, but much more remains to be done, given the increasing incidence of obesity, diabetes, etc., among children. Food and beverage manufacturers stand accused of using excessive levels of sugar, salt, oil and food additives to catch them young.
+
+...
+
+[Data](articles/27eeb8e8.json)
+
+---
+
 ### சீனாவில் பரவி வரும் எச்.எம்.பி.வி வைரஸ் தொற்றுக் குறித்து சுகாதாரத் துறை கவனம் செலுத்தியுள்ளது -  சுகாதார அமைச்சு
 
 *2025-01-04 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202921) · `ta`
@@ -1773,21 +1785,5 @@ A bond maturing on 15.05.2030 closed stable at 10.95/11.05 percent. (Colombo/Jan
 ...
 
 [Data](articles/fc094d09.json)
-
----
-
-### දේශීය ආදායම් දෙපාර්තමේන්තුව ඉතිහාසයේ ඉහළම බදු ආදායම රැස් කරයි
-
-*2025-01-03 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205001) · `si`
-
-දේශීය ආදයම් දෙපාර්තමේන්තු ඉතිහාසයේ මෙතෙක් රැස් කරන ලද ඉහළම බදු ආදායම පසුගිය 2024 වසරේදී රැස් කිරීමට සමත්ව තිබේ.
-
-දේශීය අදායම් දෙපාර්තමේන්තුව විසින් නිකුත් කළ නිවේදනයේ දැක්වෙනුයේ එය රුපියල් මිලියන 1,958,088ක් බවය.
-
-මෙය 2023 වසරට සාපේක්ෂව රුපියල් මිලියන 392,229ක වැඩි වීමක් වන අතර එහි වර්ධන වේගය සියයට 25.1ක් බවද එම නිවේදනයේ සඳහන් ව තිබේ.
-
-◼️
-
-[Data](articles/13aa09a2.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 19:02:46**
+As of **2025-01-04 19:13:23**
 
 ## Newspaper Stats
 
-*Scraped **63,645** Articles*
+*Scraped **63,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 467
 colombotelegraphcom | 642
 bbccomsinhala | 669
 islandlk | 3,874
-economynextcom | 3,881
+economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,075
+adalk | 6,076
 adaderanalk | 7,784
 tamilmirrorlk | 9,122
 virakesarilk | 10,615
@@ -26,11 +26,31 @@ adaderanasinhalalk | 10,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,645 articles have been extended.
+61,971 (97.4%) of 63,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Sri Lanka president calls for gem and jewellery exports to exceed USD1bn
+
+*2025-01-04 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-gem-and-jewellery-exports-to-exceed-usd1bn-197967/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s president has urged gem and jewellery exporters to work to exceed 1 billion dollars in gem and jewellery exports.
+
+“Let’s work together to exceed USD 1 billion in gem and jewellery exports!” President Anura Dissanayake said after inaugurating the ‘FACETS Sri Lanka – 2025’ gem and jewellery exhibition.
+
+He said he was “thrilled to see local entrepreneurs showcasing their exceptional craftsmanship alongside global industry professionals”.
+
+Sri Lanka made 477,686,953 dollars from gem and jewellery exports in 2023, according to the National Gem and Jewellery Authority.
+
+The Indian Ocean island nation has a long traditional association with the international gem and jewellery trade. (Colombo/Jan4/2025)
+
+◼️
+
+[Data](articles/775fa0b4.json)
+
+---
 
 ### மாணவர்களுக்கு போதைப்பொருளை விநியோகித்த இருவர் கைது
 
@@ -167,6 +187,22 @@ Farmgate prices in Kurunegala were 125,000 to 130,000 per 1,000 nuts.
 ◼️
 
 [Data](articles/e950a622.json)
+
+---
+
+### ජපුර රෝහලේ සියලු සේවා නව්‍යකරණයට
+
+*2025-01-04 15:49:48* · [`adalk`](https://www.ada.lk/breaking_news/ජපුර-රෝහලේ-සියලු-සේවා-නව්‍යකරණයට/11-414000) · `si`
+
+ශ්‍රී ජයවර්ධනපුර  මහ රෝහලේ සියලු සේවාවන් නව්‍යකරණයට ලක්කර ප්‍රතිකාර සේවාවන් විධිමත්ව හා කාර්යක්ෂමව  වඩාත් පුළුල් කිරීමට නව සැලැස්මක් යටතේ පියවර ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා ශ්‍රී ජයවර්ධනපුර මහ රෝහලේ පාලන අධිකාරිය සමග පසුගියදා දීර්ඝ සාකච්ඡාවක නිරත විය.
+
+අමාත්‍ය වරයා මෙම සාකච්ඡාවට එක්වූයේ ශ්‍රී ජයවර්ධනපුර මහ රෝහලට වසර 40 ක් පිරීම නිමිත්තෙන් හා රෝහලේ සියලු  සේවාවන්   වඩාත් පුළුල් කර ප්‍රතිකාර සේවාවන් තවදුරත් ඵලදායී ලෙස ඉදිරියට ක්‍රියාත්මක කිරීම පිළිබදව සොයා බැලීම සදහා පසුගියදා එම රෝහලේ  සිදුකල විශේෂ නිරීක්ෂණ චාරිකාවකදීය.
+
+1984 වර්ෂයේ දී ඇඳන් 1001 ක ධාරිතාවයකින් යුතුව ආරම්භ වූ ශ්‍රී ජයවර්ධනපුර මහ රෝහල ජපන් රජයෙන් මෙරටට ලැබුණු පරිත්‍යාගයකි. ජපන් ගෘහ නිර්මාණ ශිල්පයට අනුව මෙම රෝහලක් ඉදිකර ඇත.
+
+...
+
+[Data](articles/46442adc.json)
 
 ---
 
@@ -1803,43 +1839,5 @@ Athula Rajapakse, Professor at the Department of Electrical and Computer Enginee
 ...
 
 [Data](articles/15c05e24.json)
-
----
-
-### விபத்துக்களை கட்டுப்படுத்தவும், உயிரிழந்த தாய்க்கும், சேய்க்கும் நீதி கோரி கவனயீர்ப்பு போராட்டம்!
-
-*2025-01-03 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202917) · `ta`
-
-விபத்துக்களை கட்டுப்படுத்தவும், உயிரிழந்த தாய்க்கும், சேய்க்கும் நீதி கோரி கவனயீர்ப்பு போராட்டம் ஒன்று வெள்ளிக்கிழமை (3) முன்னெடுக்கப்பட்டது.
-
-கடந்த மாதம் 25ம் திகதி கிளிநொச்சி நகரில் இடம்பெற்ற கோர விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த நால்லர் தீவிர சிகிச்சைப்பிரிவில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்ற நிலையில் குழந்தை உயிரிழந்தது.
-
-சம்பவத்தில் படுகாயமடைந்த நிலையில் சிகிச்சை பெற்று வந்த குறித்த குழந்தையின் தாய் நேற்றைய தினம் வியாளக்கிழமை உயிரிழந்தார்.
-
-குறித்த குழந்தையின் இறுதிக் கிரியைகள் கடந்த 1ம் திகதி இடம்பெற்ற நிலையில், வெள்ளிக்கிழமை (3) 34 வயதுடைய குறித்த குடும்பப் பெண்ணின் இறுதிக் கிரியைகள் இடம்பெற்றது.
-
-இந்த நிலையில், விபத்துக்களை கட்டுப்படுத்தவும், உயிரிழந்த தாய்க்கும், சேய்க்கும் நீதி கோரி கவனயீர்ப்பு போராட்டம் ஒன்று பிரதேச மக்களால் முன்னெடுக்கப்பட்டது.
-
-மது போதையில் வாகனம் செலுத்துதல், அதிக வேகம் உள்ளிட்டவற்றை கட்டுப்படுத்தி கடும் சட்ட நடவடிக்கை எடுக்குமாறும், பாதசாரிக் கடவைகளில் வீதி மின் விளக்குகளை அமைக்குமாறும் மக்களால் வலியுறுத்தப்பட்டது.
-
-...
-
-[Data](articles/1051e88f.json)
-
----
-
-### Ex-President Ranil commences activities in New Year
-
-*2025-01-03 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104705/ex-president-ranil-commences-activities-in-new-year) · `en`
-
-United National Party (UNP) leader and former President Ranil Wickremesinghe has officially commenced the New Year’s activities today (03) at the UNP headquarters - Sirikotha in Pitakotte and the New Democratic Front (NDF) main office in Flower Road, Colombo.
-
-The event was attended by UNP Deputy Leader Ruwan Wijewardene and party Chairman Wajira Abeywardana, among other notable party members.
-
-The former President returned to Sri Lanka last night (02) following his visit to India and marked the beginning of 2025’s activities with these gatherings.
-
-◼️
-
-[Data](articles/b2141c44.json)
 
 ---

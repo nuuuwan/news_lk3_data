@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 23:01:03**
+As of **2025-01-04 23:13:01**
 
 ## Newspaper Stats
 
-*Scraped **63,660** Articles*
+*Scraped **63,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
-adaderanalk | 7,790
+adaderanalk | 7,791
 tamilmirrorlk | 9,123
 virakesarilk | 10,617
-adaderanasinhalalk | 10,994
+adaderanasinhalalk | 10,996
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,660 articles have been extended.
+61,971 (97.3%) of 63,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Sri Lanka targets 3 million tourists in 2025 amid economic recovery
+
+*2025-01-04 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104723/sri-lanka-targets-3-million-tourists-in-2025-amid-economic-recovery) · `en`
+
+Sri Lanka is poised to make a significant leap in its tourism industry, aiming for 3 million tourist arrivals in 2025. This ambitious target comes on the heels of a projected 2.1 million visitors in 2024 as the nation steadily recovers from the economic challenges it faced in recent years.
+
+The Sri Lanka Tourism Development Authority (SLTDA), under the leadership of its newly appointed chairman, Buddhika Hewawasam, is spearheading several reforms and initiatives to strengthen the sector and attract more international visitors.
+
+To streamline and enhance the industry’s operations, a National Tourism Commission is being established. This new governing body will consolidate four state agencies currently overseeing tourism, including a hotel school.
+
+The commission will ensure cohesive policy implementation and foster industry growth.
+
+...
+
+[Data](articles/557e12d2.json)
+
+---
+
+### 2036 ඔලිම්පික් ක්‍රීඩා උලෙළ ඉලක්ක කර ගනිමින් ඇරඹුණු  ''ලයන් වෝරියර්ස්''
+
+*2025-01-04 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205035) · `si`
+
+2036 ඔලිම්පික් ක්‍රීඩා උලෙළ ඉලක්ක කර ගනිමින් ක්‍රීඩක ක්‍රීඩිකාවන් සූදානම් කිරීමේ දස අවුරුදු වැඩසටහනක් ක්‍රියාවට නැංවීමට මෙරට ක්‍රීඩා ක්ෂේත්‍රයේ ප්‍රවීණයින් කණ්ඩායමක් පසුගියදා වැඩසටහනක් ආරම්භ කළේය.
+
+ලොව බොහෝ රටවල් ඔලිම්පික් ක්‍රීඩා උළෙල ඉලක්ක කරමින් පදක්කම් දිනාගැනීම වෙනුවෙන් දිගුකාලීන සැලසුම් ක්‍රියාත්මක කිරීම සිදු කෙරෙන අතර, ඒ ක්‍රීඩක ක්‍රීඩිකාවන්ට අවශ්‍ය පෝෂණ අවශ්‍යතා, පුහුණුවීම් ඇතුළු සියලු පහසුකම් සපයමිනි.
+
+කෙසේ වෙතත්, මෙරට ක්‍රීඩා බලධාරීන් ඔලිම්පික් ක්‍රීඩා උළෙල සඳහා ක්‍රීඩක ක්‍රීඩිකාවන් සූදානම් කරනු ලබන්නේ, ඔලිම්පික් ක්‍රීඩා උළෙලකට වසර දෙක තුනකටත් අඩුකාලයක් තිබියදීය.
+
+එවන් පසුබිමක වසරින් වසර අගාධයට යන මෙරට ක්‍රීඩාවට නව පණක් දීමට සහ 2036 ඔලිම්පික් ක්‍රීඩා උළෙලේදී ශ්‍රී ලංකවට පදක්කම් 10ක් දිනාදීමේ අරමුණ ඇතිව මෙරට ක්‍රීඩා ක්ෂේත්‍රෙයේ ප්‍රවීණයින් පිරිසක් ''ලයන් වෝරියර්ස් '' නමින්  දිගුකාලීන සැලසුමක් මේ වන විට ක්‍රියාවට නංවා තිබේ.
+
+මෙම වැඩසටනේ නිර්මාතෘ වන්නේ, කවපෙත්ත සහ යගුලිය ඉසවේ ජාතික වාර්තාවට කිහිප වරක් හිමිකරගත් තලවොව් අලයිලීමායි.
+
+...
+
+[Data](articles/c11f0f65.json)
+
+---
 
 ### Russia vows retaliation after saying it downed eight US-made long-range missiles
 
@@ -49,6 +87,30 @@ The outgoing US President Joe Biden approved Kyiv’s use of ATACMS in November 
 ...
 
 [Data](articles/45387157.json)
+
+---
+
+### මාධ්‍යවේදිනියගේ සැමියා අබිරහස් ලෙස දෙහිවලදී මරුට
+
+*2025-01-04 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205034) · `si`
+
+දෙහිවල ප්‍රදේශයේදී අබිරහස් අන්දමින් මියගිය පුද්ගලයෙකු සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+ඒලෙස ජීවිතක්ෂයට පත්ව තිබුණේ දෙහිවල පදිංචි මාධ්‍යවේදිනියකගේ සැමියා වන වෘත්තියෙන් ත්‍රිරෝද රථ රියැදුරෙකි.
+
+දෙහිවල, වෛද්‍ය පාරේ පදිංචි 60 හැවිරිදි දෙදරු පියෙකු වන ඒ. සමරජීව නැමැති පුද්ගලයා පසුගිය ජනවාරි 1 වැනිදා පෙරවරුවේ සුපුරුදු පරිදි රැකියාව සඳහා පිටත්ව ගොස් තිබුණි.
+
+නමුත්, රැකියාව අවසන් කොට පස්වරුවේ නිවසට නොපැමිණීම හේතුවෙන් ඔහුගේ බිරිඳවන මාධ්‍යවේදිනී ශ්‍රියානි විජේසිංහ මහත්මිය සිය සැමියාට රාත්‍රියේ දුරකථන ඇමතුමක් ලබාදී තිබුණත් ඔහු ඊට ප්‍රතිචාර දක්වා තිබුණේ තැති බව වාර්තා වෙයි.
+
+යළි යළිත් දුරකථන ඇමතුම් ලබාදීමේදී එක් අවස්ථාවක පොලීසිය දුරකථන ඇමතුමට ප්‍රතිචාර දක්වා තිබුණි.
+
+මේ අතර, ත්‍රිරෝද රථය තිබූ ස්ථානය ආසන්නයේ දෙහිවල, හිල් වීදියේ පිහිටි නිවසක සිටි නීතිඥවරියක් ජනවාරි මස 1 වැනිදා රාත්‍රියේ දෙහිවල පොලීසියට ඇමතුමක් දි තිබුණේ තම නිවස ඉදිරිපිට කිසියම් අයෙකු වැටී සිටින බවටය.
+
+ඒ අනුව, රාත්‍රී මුර සංචාරයේ යෙදී සිටි පොලිස් නිලධාරීන් කණ්ඩායමක් ත්‍රිරෝද රථයකින් අදාළ ස්ථානයට ගොස් තිබුණි.
+
+...
+
+[Data](articles/3832e567.json)
 
 ---
 
@@ -1821,45 +1883,5 @@ Beam Hela Osu Lanka Ltd., a renowned Ayurvedic product manufacturer in Sri Lanka
 ...
 
 [Data](articles/a7bb12df.json)
-
----
-
-### Allianz Lanka’s Women in Leadership hosts program for teenagers – “Preparing for Life in a Digital Generation”
-
-*2025-01-04 02:05:14* · [`dailyftlk`](https://www.ft.lk/business/Allianz-Lanka-s-Women-in-Leadership-hosts-program-for-teenagers-Preparing-for-Life-in-a-Digital-Generation/34-771380) · `en`
-
-Allianz Lanka’s Women in Leadership (WIL) hosted an insightful program at Allianz Lanka’s Head Office for teenage children of Allianz Lanka employees, focusing on the theme “Preparing Teens for Life in a Digital Generation”. This initiative is aimed at equipping teenage children with the knowledge and skills necessary to navigate the complexities of the digital age.
-
-The event commenced with an engaging session by Colombo Community Policing Division Officer in Charge and Chief Inspector of Police Manoj Samarasekara, who emphasised the importance of online safety, responsible digital behaviour, and protecting personal information in the online space. Following this, Counseling Psychologist, Certified Parent Coach, and Corporate Trainer Maya Dissanayake, provided practical guidance on managing stress and maintaining a healthy balance between screen time and other aspects of life.
-
-...
-
-[Data](articles/dc003432.json)
-
----
-
-### Uber Eats joins hands with SOS Children’s Villages Sri Lanka to support child nutrition
-
-*2025-01-04 01:52:00* · [`islandlk`](http://island.lk/uber-eats-joins-hands-with-sos-childrens-villages-sri-lanka-to-support-child-nutrition/) · `en`
-
-Uber Eats, Sri Lanka’s leading food and grocery delivery platform, has partnered with SOS Children’s Villages Sri Lanka, a renowned international non-governmental organization, to support vulnerable children across the country. Uber Eats has donated LKR 1 million to provide daily meals and essential care to children without parental support. Additionally, the partnership empowers Sri Lankans to make a difference by donating meals through the Uber Eats app.
-
-For more than four decades, SOS Children’s Villages Sri Lanka has supported vulnerable children by providing them the care, relationships and support they need to become their strongest selves. More than 4000 children in Sri Lanka have benefited from one or more programs offered by the organization. It will use the funds contributed by Uber Eats to provide daily meals and maintain the facilities on ground.
-
-...
-
-[Data](articles/cf80e7d6.json)
-
----
-
-### Saving children from corporate greed
-
-*2025-01-04 01:39:00* · [`islandlk`](http://island.lk/saving-children-from-corporate-greed/) · `en`
-
-The government has announced new restrictions on marketing food and beverages for children under the Food (Labelling & Advertising) Regulations 2022. A long-felt need has been fulfilled, but much more remains to be done, given the increasing incidence of obesity, diabetes, etc., among children. Food and beverage manufacturers stand accused of using excessive levels of sugar, salt, oil and food additives to catch them young.
-
-...
-
-[Data](articles/27eeb8e8.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 03:01:43**
+As of **2025-01-05 03:12:57**
 
 ## Newspaper Stats
 
-*Scraped **63,663** Articles*
+*Scraped **63,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
 adaderanalk | 7,791
-tamilmirrorlk | 9,123
+tamilmirrorlk | 9,124
 virakesarilk | 10,617
 adaderanasinhalalk | 10,996
 
@@ -26,9 +26,27 @@ adaderanasinhalalk | 10,996
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,663 articles have been extended.
+61,971 (97.3%) of 63,664 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-01-05 (Sunday)
+
+### இலங்கையில் தென்னாபிரிக்க கிரிக்கெட் ஜாம்பவான்
+
+*2025-01-05 03:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தென்னாபிரிக்க-கிரிக்கெட்-ஜாம்பவான்/175-349752) · `ta`
+
+தென்னாப்பிரிக்காவின் முன்னாள் கிரிக்கெட் வீரர் ஜொன்டி ரோட்ஸ் தனது குடும்பத்தினருடன் இலங்கைக்கு சுற்றுலா வந்துள்ளார்.
+
+முன்னாள் கிரிக்கெட் வீரர் ஜொன்டி ரோட்ஸ் தனது குடும்பத்தினருடன் முச்சக்கரவண்டியில் இலங்கையில் உள்ள சுற்றுலாத்தலங்களுக்கு செல்லவுள்ளார்.
+
+ஜொன்டி ரோட்ஸ் தனது குடும்பத்தினருடன் முச்சக்கரவண்டியில் பயணம் செய்யும் புகைப்படம் தற்போது சமூக ஊடகங்களில் வைரலாகி வருகின்றது. (a)
+
+◼️
+
+[Data](articles/c97818a9.json)
+
+---
 
 ### 2025-01-04 (Saturday)
 
@@ -1869,19 +1887,5 @@ These accolades underscore the Ceylon Chamber’s dedication to upholding the hi
 ...
 
 [Data](articles/e1b9b3d3.json)
-
----
-
-### Beam Hela Osu Lanka honoured at Entrepreneur Awards
-
-*2025-01-04 02:07:13* · [`dailyftlk`](https://www.ft.lk/business/Beam-Hela-Osu-Lanka-honoured-at-Entrepreneur-Awards/34-771381) · `en`
-
-Beam Hela Osu Lanka Chairman Dr. R.A.B.R. Piyarathna receiving the award
-
-Beam Hela Osu Lanka Ltd., a renowned Ayurvedic product manufacturer in Sri Lanka, was recognised with a Merit award in the Industry Manufacturing Sector – Medium category at the Entrepreneur Awards 2024 for the Western Province. Organised by the National Enterprise Development Authority and The National Chamber of Commerce of Sri Lanka, the award ceremony was recently held in Colombo. Founded in 1984, Beam Hela Osu Lanka has been a pioneer in the production of genuine herbal products, offering a wide range of trusted items. Popular products include Jeewa Syrup and Kapparawalliya Paniya for Herbal Child Care, Beam Suwa Dharani and herbal teas for Herbal Drinks, Beam Balm and Camphor Cream for Herbal Medicated Balms, and immunity boosters like Sudarshana Capsules and Suwoda Peyawa. These products are widely available through western and Ayurvedic pharmacies, supermarkets, and doctors across Sri Lanka.
-
-...
-
-[Data](articles/a7bb12df.json)
 
 ---

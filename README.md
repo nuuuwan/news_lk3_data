@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 09:44:05**
+As of **2025-01-04 10:03:06**
 
 ## Newspaper Stats
 
-*Scraped **63,587** Articles*
+*Scraped **63,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,776
-tamilmirrorlk | 9,111
+tamilmirrorlk | 9,113
 virakesarilk | 10,604
 adaderanasinhalalk | 10,976
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,587 articles have been extended.
+61,971 (97.5%) of 63,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### உழைக்கும் ஊடகவியலாளர்கள் சங்கம் விடுத்த கோரிக்கை
+
+*2025-01-04 09:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/உழைக்கும்-ஊடகவியலாளர்கள்-சங்கம்-விடுத்த-கோரிக்கை/73-349729) · `ta`
+
+சம்மாந்துறை நைனாகாடு பிரதேசத்தில் உள்ளூர் ஊடகவியலாளர் ஒருவர் தாக்கப்பட்ட சம்பவம் தொடர்பில் கடுமையான சட்ட நடவடிக்கைகளை முன்னெடுக்குமாறு இலங்கை உழைக்கும் ஊடகவியலாளர்கள் சங்கம் பொலிஸ் மா அதிபருக்கு அவசர கடிதம் ஒன்றை அனுப்பி வைத்துள்ளது
+
+இது தொடர்பாக இலங்கை உழைக்கும் ஊடகவியலாளர்கள் சங்கத்தின் தலைவர் துமிந்த சம்பத் மற்றும் செயலாளர் ஆகியவர்கள் ஒப்பமிட்டு அனுப்பி வைத்துள்ள கடிதத்தில்,
+
+அம்பாறை, சம்மாந்துறை பிரதேசத்தில் அம்பாறை பிராந்திய ஊடகவியலாளர்கள் சங்கத்தின் தலைவர் அச்சல உபேந்திரா மீது சிலர் தாக்குதல் நடத்தியதுடன், அவரது கெமரா உபகரணங்களும் சேதப்படுத்தப்பட்ட சம்பவம் தொடர்பில் எமக்கு தகவல் கிடைத்துள்ளது.
+
+குறித்த பிரதேசத்தில் இடம்பெற்று வரும் மணல் அகழ்வு மோசடி தொடர்பில் ஊடகங்களுக்கு கருத்து வெளியிடும் தொழில்சார் கடமையில் ஈடுபட்டிருந்த போதே அவர் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+இலங்கை நிபுணத்துவ ஊடகவியலாளர்கள் சங்கம் இச்சம்பவத்தை வெறுப்புடன் கண்டிப்பதோடு, ஊடகவியலாளர்களை குறிவைத்து தொடரும் இவ்வாறான செயற்பாடுகள் ஜனநாயக சமூகத்தில் மிகவும் இழிவான நிலையாகும் என்பதை வருத்தத்துடன் தெரிவித்துக் கொள்கிறது.
+
+...
+
+[Data](articles/daeb8166.json)
+
+---
+
+### புதிய வைரஸ் குறித்து சீனா வெளியிட்ட அறிவிப்பு
+
+*2025-01-04 09:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/புதிய-வைரஸ்-குறித்து-சீனா-வெளியிட்ட-அறிவிப்பு/50-349728) · `ta`
+
+சீனாவில் பரவி வரும் வைரஸ் காய்ச்சல் குறித்து தேவையற்ற அச்சம் தேவையில்லை என அந்நாட்டு சுகாதாரத்துறை அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இதற்கிடையில், பல நாடுகள் சீனாவுக்கு பயணம் செய்வதைத் தவிர்க்குமாறு தங்கள் குடிமக்களுக்கு அறிவித்துள்ளன.
+
+எவ்வாறாயினும், இது தொடர்பில் சீன அரசாங்கம், தமது நாட்டுக்கு வரும் வெளிநாட்டினரின் சுகாதார நிலை குறித்து உத்தரவாதம் வழங்க முடியும் எனவும், சீனாவிற்கு விஜயம் செய்வதால் எவ்வித ஆபத்தும் இல்லை எனவும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/a1a5cfb5.json)
+
+---
 
 ### இடியுடன் கூடிய பலத்த மழைக்கு வாய்ப்பு
 
@@ -1765,45 +1801,5 @@ HMPV is known to cause flu-like symptoms and can also present symptoms similar t
 ◼️
 
 [Data](articles/8a9d6684.json)
-
----
-
-### Kosala M Dissanayake appointed chairman of Union Chemicals Lanka
-
-*2025-01-03 13:45:00* · [`economynextcom`](https://economynext.com/kosala-m-dissanayake-appointed-chairman-of-union-chemicals-lanka-197799/) · `en`
-
-ECONOMYNEXT – Kosala M Dissanayake has been appointed chairman of Union Chemicals Lanka with effect from December 31, 2024, the company said.
-
-Dissanayake is a fellow member of the Institute of Chartered Accountants of Sri Lanka (FCA), Society of Certified Management Accountants of Sri Lanka (FCMA), Institute of Certified Professional Managers (FCPM), and a member of the Sri Lankan institute of Marketing (MSLIM), according to the stock exchange filing.
-
-He was previously the Chairman/Managing Director of GlaxoSmithKline Consumer Health Care, and the Managing Director of Delmage Forsyth Company Ltd, and Group Director Administration for Asiri Group of Hospitals.
-
-The Union Chemicals share was flat at 729.75 on Friday. (Colombo/Jan3/2025)
-
-◼️
-
-[Data](articles/803c51f1.json)
-
----
-
-### චීනයේ පැතිර යන නව වෛරසය ගැන ලංකාව අවධානයෙන්
-
-*2025-01-03 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204993) · `si`
-
-චීනය තුළ පැතිර යමින් පවතින බව කියන වෛරස් තත්ත්වයක් සම්බන්ධයෙන් අවධානයෙන් පසුවන බව වසංගත රෝග විද්‍යා අංශය පවසයි.
-
-අද (03) දිනයේදී මේ සම්බන්ධයෙන් තොරතුරු දැන ගැනීමට ලැබුණු බවත් නිසි අධ්‍යයනයකින් පසු මාධ්‍ය වෙත තොරතුරු ලබා දීමට කටයුතු කරන බවත් වසංගත රෝග විද්‍යා ඒකකය පෙන්වා දෙයි.
-
-කොවිඩ් -19 වසංගතයෙන් වසර 5කට පසු චීනය තුළ තවත් වෛරස කිහිපයක් පැතිර යමින් පවතින බව විදෙස් මාධ්‍ය පවසයි.
-
-Human metapneumovirus (HMPV) ලෙස පැවසෙන වෛරස තත්ත්වයක් ප්‍රධාන වශයෙන් පැතිර යමින් පවතින අතර, කොවිඩ් -19 රෝගීන්ද ඒ අතර සිටින බව විදෙස් වාර්තා පෙනවා දෙයි.
-
-එමෙන්ම ඉන්ෆුවෙන්සා වෛරසයද චීනයේ පැතිර යමින් පවතින බවද වාර්තා වේ.
-
-වෛරස තත්ත්වය චීනය තුළ  ශීඝ්‍රයෙන් ව්‍යාප්ත වෙමින් පවතින බව වාර්තා වන අතර, සමාජ මාධ්‍ය ඔස්සේ චීනයේ පවතින තත්ත්වය පිළිබඳ අදහසක් ලබාගත හැකි බව ද විදෙස් මාධ්‍ය පෙන්වා දෙයි.
-
-◼️
-
-[Data](articles/7ddf8512.json)
 
 ---

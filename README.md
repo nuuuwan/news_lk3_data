@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 20:01:30**
+As of **2025-01-04 20:13:37**
 
 ## Newspaper Stats
 
-*Scraped **63,656** Articles*
+*Scraped **63,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 6,076
 adaderanalk | 7,787
 tamilmirrorlk | 9,123
 virakesarilk | 10,617
-adaderanasinhalalk | 10,993
+adaderanasinhalalk | 10,994
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,656 articles have been extended.
+61,971 (97.4%) of 63,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### වැලිගම වෙඩිතැබීම පිටුපස හරක් කටාගේ සම්බන්ධයක්?
+
+*2025-01-04 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205033) · `si`
+
+පසුගියදා මාතර අවන්හලක පැවැති DJ සාදායක ඇති වූ ආරවුලක් මාතර, වැලිගමදී සිදුකළ අද අලුයම සිදුකළ වෙඩිතැබීමේ සිද්ධියට මුල් වී ඇතැයි පොලීසිය සැකකරයි.
+
+එමෙන්ම හරක් කටාගේ පාර්ශ්වය එම ඝාතනයට සම්බන්ධ බවටද සැක පළ කරයි.
+
+ඝාතනයට ලක් වූ තරුණයාට මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් චෝදනා පවතින බවද පොලීසිය පවසයි.
+
+මේ අතර වෙඩික්කරුවන් පැමිණි බවට සැකකරන යතුරුපැදියක් වැලිගම මූනමල්පේ ප්‍රදේශයේ වැවක දමාගොස් තිබියදී පොලීසිය විසින් අද (04) සොයාගෙන තිබේ.
+
+මාතර, වැලිගම දී අද අලුයම සිදුකළ වෙඩි තැබීමකින් 26 හැවිරිදි තරුණයෙකු මියගොස් තවත් තරුණයෙකු තුවාල ලබා තිබුණි.
+
+පොලීසිය පැවසුවේ, යතුරුපැදි තුනකින් පැමිණි වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත්තේ, පසුගියදා මාතර බන්ධනාගාරයේදී බෝ ගසක අත්තක් කඩාවැටී මියගිය සිරකරුවාගේ අවමංගල්‍යයට සහභාගී වී නැවත පැමිණෙමින් සිටි පිරිසක් බවය.
+
+මාතර බන්ධනාගරයේ සිරකරුවන් රඳවා සිටින වාට්ටුවක් මතට බෝ අත්තක් කඩා වැටීමෙන් මියගිය සිරකරුවාගේ දේහය තැම්පත් කර ඇති තුර්කි ගම්මානයේ පිහිටි නිවසට පස් දෙනෙකුගෙන් යුත් පිරිසක් ඊයේ රාත්‍රියේ ගොස් තිබුණි.
+
+...
+
+[Data](articles/69c7a555.json)
+
+---
 
 ### விடைத்தாள் திருத்தும் பணிகள் அடுத்த வாரம் ஆரம்பம்
 
@@ -1829,21 +1853,5 @@ Political leaders, religious leaders and civil society leaders should strive to 
 ...
 
 [Data](articles/7f35f994.json)
-
----
-
-### Portable speakers problem of Sri Lanka tourism
-
-*2025-01-03 23:36:17* · [`dailyftlk`](https://www.ft.lk/opinion/Portable-speakers-problem-of-Sri-Lanka-tourism/14-771368) · `en`
-
-Offering foreigners who visit Sri Lanka a good night’s sleep is the least we can do
-
-20 to 31 December was a unique time where both locals and tourists flocked to holiday destinations in numbers. We are a small hotel and we were mostly booked by foreigners about five to six months ahead of the Christmas season. Surrounding us are places that mostly cater to Sri Lankans where they mostly advertise on Facebook. People who run them are very nice, cordial and we have no problem with them. We are happy that they get business.
-
-However, most of their local parties come with giant speakers and they make it a point to play immediately on arrival and it goes on until very late and on some days even until 2 a.m. Foreigners, specially Europeans get mad even if a dog barks outside; they want total silence. IT IS IMPOSSIBLE FOR ANY SANE PERSON TO SLEEP with that kind of noise. And no amount of sound proofing can fix these problems.
-
-...
-
-[Data](articles/cb1c832e.json)
 
 ---

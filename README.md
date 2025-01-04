@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 14:27:48**
+As of **2025-01-04 14:43:38**
 
 ## Newspaper Stats
 
-*Scraped **63,616** Articles*
+*Scraped **63,617** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 467
-colombotelegraphcom | 641
+colombotelegraphcom | 642
 bbccomsinhala | 669
 islandlk | 3,874
 economynextcom | 3,878
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,616 articles have been extended.
+61,971 (97.4%) of 63,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -471,6 +471,18 @@ Then the appointed Ambassador or High Commissioner must appear before the Commit
 ...
 
 [Data](articles/ad045da0.json)
+
+---
+
+### President Dissanayake’s Agenda For 2025
+
+*2025-01-04 08:59:01* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-dissanayakes-agenda-for-2025/) · `en`
+
+The reassertion of democratic polity in Sri Lanka during the year 2024 is the signal achievement of the people of the country, more than its political class. They had shown that the Aragalaya protests, which toppled President Gotabaya Rajapaksa and the Rajapaksa clan from power, mattered in deciding the winners in both presidential and parliamentary elections. They not only elected the National People’s Power (NPP) leader Anura Kumara Dissanayake (aka AKD) as President, but also gave the NPP two-thirds majority in parliament
+
+...
+
+[Data](articles/d7e6e55c.json)
 
 ---
 
@@ -1771,19 +1783,5 @@ A bond maturing on 15.05.2030 closed stable at 10.95/11.05 percent. (Colombo/Jan
 ...
 
 [Data](articles/e3ed71e2.json)
-
----
-
-### கிளிநொச்சியில் தொடரும் தமிழ் அரசியல் கைதிகளை விடுவிக்குமாறு கோரிய  கையெழுத்து போராட்டம்
-
-*2025-01-03 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/202899) · `ta`
-
-நீண்டகாலமாக சிறையில் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி கிளிநொச்சி நகரில் பொதுச் சந்தைக்கு அருகில் கையெழுத்து போராட்டம்  ஒன்று இன்று வெள்ளிக்கிழமை (03) ஏற்பாடு செய்யப்பட்டிருந்தது.
-
-போராளிகள் நலன்புரி சங்கத்தின் ஏற்பாட்டில் கிளிநொச்சி  நகரில்  பொதுச் சந்தைக்கு அருகில் குறித்த  கையெழுத்துப் போராட்டம்  மேற்கொள்ள தயாரான போது அங்குவந்த கிளிநொச்சி போக்குவரத்து பொலிஸார் ஒலிபெருக்கி அனுமதி பெற்று குறித்த கையெழுத்து போராட்டத்தை மேற்கொள்ளுமாறு தெரிவித்து போராட்டத்தை தடுத்து  நிறுத்தினர்.
-
-...
-
-[Data](articles/fc094d09.json)
 
 ---

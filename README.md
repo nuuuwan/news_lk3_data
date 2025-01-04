@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 08:51:35**
+As of **2025-01-04 09:02:56**
 
 ## Newspaper Stats
 
-*Scraped **63,582** Articles*
+*Scraped **63,585** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 641
-bbccomsinhala | 668
+bbccomsinhala | 669
 islandlk | 3,871
 economynextcom | 3,876
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,071
-adaderanalk | 7,774
+adaderanalk | 7,776
 tamilmirrorlk | 9,109
 virakesarilk | 10,604
 adaderanasinhalalk | 10,976
@@ -26,11 +26,55 @@ adaderanasinhalalk | 10,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,582 articles have been extended.
+61,971 (97.5%) of 63,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Heavy showers expected in parts of the island
+
+*2025-01-04 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104708/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says a few showers will occur in Uva province.
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the afternoon or night.
+
+Heavy showers about 100 mm can be expected at some places, the Met. Department said.
+
+Fairly strong winds of about 30-40 kmph can be expected at times over Northern, Eastern, North-central and North-western provinces and in Hambantota district.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3b7db270.json)
+
+---
+
+### Youth killed, another injured in shooting in Weligama
+
+*2025-01-04 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104707/youth-killed-another-injured-in-shooting-in-weligama) · `en`
+
+A 26-year-old male has reportedly been killed, and another individual sustained injuries in a shooting incident at Kapparathota in Weligama early this morning (4).
+
+Five individuals walking on the Kapparathota-Walliwela road in the Weligama Police Division were targeted in a shooting early this morning (4), police reported.
+
+An unidentified group arrived on three motorcycles at approximately 1 a.m., opened fire, and fled the scene.
+
+Of the five, two were struck by the gunfire. Among those two, a 26-year-old resident of Kapparathota succumbed to his injuries, while the other, a 29-year-old also from the same area, sustained injuries.
+
+The injured individual was initially treated at the Weligama Walana Hospital and later transferred to the Matara District General Hospital.
+
+The motive behind the shooting remains unknown, and Weligama Police are carrying out further investigations into the incident.
+
+◼️
+
+[Data](articles/ba6859cf.json)
+
+---
 
 ### CSE’s 26-day bull-run ends; indices slump into negativity
 
@@ -257,6 +301,30 @@ Nimal Gunewardena, the visionary founder of Sri Lanka’s pioneering Integrated 
 ...
 
 [Data](articles/128758b6.json)
+
+---
+
+### Clean Sri Lanka රථවාහන මෙහෙයුමෙන් බස් සැරසිලි ගැලවෙයි ද?
+
+*2025-01-04 03:22:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2057639kdzo) · `si`
+
+ජනවාරි 01 වනදායින් ආරම්භ වූ Clean Sri  Lanka වැඩසටහනට සමගාමීව විශේෂ රථවාහන මෙහෙයුමක් සිදු කරන ලෙස වැඩබලන පොලිස්පතිවරයාගේ අත්සනින් යුතුව වගකිවයුතු ආයතනවලට ලිපියක් යොමු කර තිබේ.
+
+එහි දී සළකා බැලිය යුතු කරුණු සම්බන්ධයෙන් උපදෙස් ද ලිපියේ ඇතුළත් කර තිබේ.
+
+මහා මාර්ගයේ ගමන් කරන වාහනවල එම කරුණු සම්බන්ධයෙන් සැලකිලිමත් වන ලෙස වැඩබලන පොලිස්පතිවරයා උපදෙස් විසින් එයින් උපදෙස් ලබා දෙයි.
+
+2025 ජනවාරි 02 දිනැති ලිපියෙන් වැඩබලන පොලිස්පති නීතිඥ ප්‍රියන්ත වීරසුරිය විසින් මෙම රථවාහන මෙහෙයුමේදී පරික්ෂා කළ යුතු කරුණු සම්බන්ධයෙන් අවධාරණය කර තිබේ.
+
+මෙම මෙහෙයුම ජනවාරි 02 සිට නැවත දැනුම්දෙන තුරු ක්‍රියාත්මක ය.
+
+මෙම මෙහෙයුමේ දී විවිධ නාද රටා, නිවි නිවි  දැල්වෙන සහ විවධ වර්ණවලින් යුතු අමතර පහන් සවි කර ධාවනය වන වාහන, ඝෝෂාකාරී නලා, අධික ශබ්දයෙන් යුතු සයිලන්සර් පිළිබඳව සොයා බැලීමට නියමිත ය.
+
+එමෙන් ම බොහෝ බස් රථවල ඉදිරිපස ජනේලය අසල තබා තිබෙන ඉෂ්ඨ රූප(පිළිම) සමග ධාවනය පිළිබඳව ද අවධානය යොමු කරන ලෙස එහි සඳහන් ය.
+
+...
+
+[Data](articles/ac6a23ec.json)
 
 ---
 
@@ -1745,55 +1813,5 @@ Human metapneumovirus (HMPV) ලෙස පැවසෙන වෛරස තත්
 ◼️
 
 [Data](articles/5d8c257a.json)
-
----
-
-### மரக்கறிகளின் விலை குறைவடைந்தன
-
-*2025-01-03 13:05:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலை-குறைவடைந்தன/175-349704) · `ta`
-
-அண்மைய நாட்களில் அதிகரித்துள்ள மரக்கறிகளின் விலை தற்போது குறைவடைந்துள்ளதாக, தம்புள்ளை விசேட பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது.
-
-அண்மைய நாட்களாக நிலவும் மழையினால் மரக்கறிகளின் விலை அதிகரித்துள்ளதாக, வர்த்தக சங்கத்தின் தலைவர் சி.சிறிவர்தன தெரிவித்தார்.
-
-◼️
-
-[Data](articles/aa59d3e7.json)
-
----
-
-### වසරක් තුළ බදුල්ලේ සුනඛ සපාකෑම් 6,700ක්
-
-*2025-01-03 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204991) · `si`
-
-2024 වසරේදී  බදුල්ලේ පුද්ගලයින් 6,700ක් පමණ සුනඛ සපාකෑම්වලට ලක්ව බදුල්ල ශික්ෂණ රෝහලෙන් ප්‍රතිකාර ලබා ඇතැයි රෝහල් වාර්තා අනාවරණ කරයි.
-
-රෝහල් බලධාරීන් පෙන්වා දෙන්නේ, සපාකෑම්වලට ලක්වූවන් අතර විදෙස් සංචාරකයින්ද වන බවයි.
-
-මේ සම්බන්ධයෙන් අදහස් දැක්වු බදුල්ල ශික්ෂණ රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ, වෛද්‍ය පාලිත රාජපක්ෂ මහතා,
-
-"බොහෝ වෙලාවට එන්නේ එන්නත්කරණයට ලක්නොකර ගෙදර ඉන්න බල්ලො සහ පූසෝ සපාකෑමෙන් තමා මේ තත්ත්වය වැඩිවෙලා තියෙන්නේ. සමස්තයක් විදියට ඌව පළාතේ 25,000ක් 30,000ක් විතර ප්‍රමාණයක් වාර්තා වෙනවා එන්නත් ලබාගන්න එන රෝගීන් ප්‍රමාණය."
-
-ඊට අමතරව ඇල්ල ප්‍රදේශයේ රිලා සපාකෑම්වලට සහ සුනඛ සපැකෑම්වලට ලක්වූ විදෙස් සංචාරකයින්ද බදුල්ල රෝහලෙන් ප්‍රතිකාර ලබා ඇතැයි රෝහල් වාර්තා අනාවරණ කරයි.
-
-මෙවැනි පසුබිමක බදුල්ල නගරාශ්‍රිතව ආයාලේ හැසිරෙන සුනඛයින් ප්‍රදේශවාසීන්ට තවදුරටත් තර්ජනයක් වී තිබේ.
-
-◼️
-
-[Data](articles/5340a043.json)
-
----
-
-### Yoshitha Rajapaksa leaves CID after recording statement
-
-*2025-01-03 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104696/yoshitha-rajapaksa-leaves-cid-after-recording-statement) · `en`
-
-Yoshitha Rajapaksa, the second son of former President Mahinda Rajapaksa, has left the Criminal Investigation Department (CID), a short while ago, after recording a statement for around two hours.
-
-Yoshitha Rajapaksa arrived at the CID at around 10.00 a.m. this morning (03) to provide a statement regarding the alleged ownership of a government-owned land in Kataragama.
-
-◼️
-
-[Data](articles/99a14f69.json)
 
 ---

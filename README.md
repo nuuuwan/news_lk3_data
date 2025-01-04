@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 12:43:26**
+As of **2025-01-04 13:01:18**
 
 ## Newspaper Stats
 
-*Scraped **63,611** Articles*
+*Scraped **63,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,871
 economynextcom | 3,878
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,072
+adalk | 6,073
 adaderanalk | 7,780
 tamilmirrorlk | 9,117
 virakesarilk | 10,609
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,611 articles have been extended.
+61,971 (97.4%) of 63,612 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -217,6 +217,24 @@ Dr. Guruge also highlighted that over Rs. 600 million is spent annually on human
 ◼️
 
 [Data](articles/bc0b7f0e.json)
+
+---
+
+### වැලිගම පුද්ගලයන් 5 දෙනෙකුට වෙඩි තැබීමක් - අයෙක් මරුට
+
+*2025-01-04 10:50:11* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-පුද්ගලයන්-5-දෙනෙකුට-වෙඩි-තැබීමක්---අයෙක්-මරුට/11-413997) · `si`
+
+වැලිගම පොලිස් වසමේ කප්පරතොට වල්ලිවෙල මාර්ගයේ පා ගමනින් ගමන්කරමින් සිටි පුද්ගලයන් පස් දෙනෙකුට වෙඩිතබා ඇති බව පොලීසිය පවසයි. මෙයින් පුද්ගලයන් දෙදෙනෙකුට වෙඩි වැදී ඇති අතර එයින් එක් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+තුවාල ලැබූ පුද්ගලයා වලාන රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා මාතර රෝහලට යවා තිබේ.
+
+යතුරුපැදි තුනකින් පැමිණි නාඳුනන පිරිසක් විසින් අද (4) අළුයම 1ට පමණ මෙම වෙඩි තැබීම සිදුකර පලාගොස් ඇත.
+
+වෙඩි වැදීමෙන් මියගොස් ඇත්තේ කප්පරතොට ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි පුද්ගලයෙකු වන අතර, තුවාල ලැබූ පුද්ගලයා ද එම ප්‍රදේශයේම පදිංචි 29 හැවිරිදි පුද්ගලයෙක් බව පොලීසිය පවසයි. මෙම වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වි නොමැත.
+
+◼️
+
+[Data](articles/f30ecc03.json)
 
 ---
 
@@ -1775,25 +1793,5 @@ The downturn was attributed to falling share prices in Sampath Bank, Commercial 
 ◼️
 
 [Data](articles/eb29a39c.json)
-
----
-
-### Sri Lanka stocks close down as profit taking sets in
-
-*2025-01-03 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-profit-taking-sets-in-197823/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-“In general there was a bit of profit taking, but the market recovered in the last half hour of trading,” market participants said.
-
-The broader ASPI closed down 1.83 percent, or 299.13 points, at 16,049.42; while the more liquid S&P SL20 Index closed down 2.24 percent, or 111.54 points, at 4,860.33.
-
-The market has been steadily rising over the last month and was analysts expected a correction.
-
-Top positive contributors to the ASPI were John Keells Holdings (up at 23.80), Aitken Spence Plc (up at 157.75), The Bukit Darah Company limited (up at 619.50), Lanka IOC (up at 129.75) and Nawaloka Hospitals Plc (up at 6.30). (Colombo/Jan3/2025)
-
-◼️
-
-[Data](articles/60d275bd.json)
 
 ---

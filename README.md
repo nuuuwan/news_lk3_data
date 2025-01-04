@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 04:01:48**
+As of **2025-01-05 04:13:58**
 
 ## Newspaper Stats
 
-*Scraped **63,664** Articles*
+*Scraped **63,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 6,076
 adaderanalk | 7,791
 tamilmirrorlk | 9,124
 virakesarilk | 10,617
-adaderanasinhalalk | 10,996
+adaderanasinhalalk | 10,997
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,664 articles have been extended.
+61,971 (97.3%) of 63,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### කාසියේ වාසිය නවසීලන්තයට
+
+*2025-01-05 03:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205036) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (05) පැවැත්වෙයි.
+
+ඒ අනූව ඔවුන් තීරණය කළේ පළමුව පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා  කණ්ඩායමට ආරාධනා කිරීමට ය.
+
+◼️
+
+[Data](articles/97ae58e7.json)
+
+---
 
 ### இலங்கையில் தென்னாபிரிக்க கிரிக்கெட் ஜாம்பவான்
 
@@ -1869,23 +1883,5 @@ Ashqariya Chamber Vice Chairman Hamad Alamar made a welcome address expressing a
 ...
 
 [Data](articles/89fb7859.json)
-
----
-
-### Ceylon Chamber wins Gold and multiple honours at TAGS and CMA Awards 2024
-
-*2025-01-04 02:08:55* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-wins-Gold-and-multiple-honours-at-TAGS-and-CMA-Awards-2024/34-771382) · `en`
-
-Ceylon Chamber with the Gold Award at TAGS Annual Report Awards 2024
-
-The Ceylon Chamber of Commerce has announced it was recognised for outstanding commitment to excellence in reporting and governance, winning the Gold Award in the Not-for-Profit/Non-Governmental Organisations Category at the TAGS Annual Report Awards 2024, organised by the Chartered Accountants Sri Lanka.
-
-Additionally, the Ceylon Chamber was also awarded the Sector Award and a Certificate of Compliance at the Annual Report Awards 2024, hosted by the Institute of Certified Management Accountants of Sri Lanka (CMA).
-
-These accolades underscore the Ceylon Chamber’s dedication to upholding the highest standards of transparency, accountability, and governance in its operations and reporting. The recognition highlights the Chamber’s commitment to ensuring benchmark levels of service to the business community while aligning with international best practices.
-
-...
-
-[Data](articles/e1b9b3d3.json)
 
 ---

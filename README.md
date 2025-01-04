@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 19:13:23**
+As of **2025-01-04 19:27:53**
 
 ## Newspaper Stats
 
-*Scraped **63,647** Articles*
+*Scraped **63,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
-adaderanalk | 7,784
+adaderanalk | 7,787
 tamilmirrorlk | 9,122
-virakesarilk | 10,615
-adaderanasinhalalk | 10,990
+virakesarilk | 10,617
+adaderanasinhalalk | 10,993
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,647 articles have been extended.
+61,971 (97.4%) of 63,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම 8 වැනිදායින් නැවත ඇරඹෙයි
+
+*2025-01-04 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205032) · `si`
+
+මතභේදයට තුඩුදුන් මෙවර 5 ශ්‍රේණිය  ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම් කටයුතු නැවත ආරම්භ කරන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසුවේ ඒ අනුව ලබන 08 වැනිදා සිට 12 වැනිදා දක්වා පිළිතුරු පත්‍ර ඇගයීමේ කටයුතු යළි ආරම්භ කරන බවය.
+
+◼️
+
+[Data](articles/681fc511.json)
+
+---
 
 ### Sri Lanka president calls for gem and jewellery exports to exceed USD1bn
 
@@ -52,6 +66,30 @@ The Indian Ocean island nation has a long traditional association with the inter
 
 ---
 
+### 14 හැවිරිදි පාසල් සිසුවියක් මරුට
+
+*2025-01-04 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205031) · `si`
+
+විදුලි සැර වැදී මියගිය බව කියන 14 හැවිරිදි පාසල් සිසුවියක් පිළිබඳව හසලක, තෝරපිටිය ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+ඊයේ (03) සවස එම සිදුවීම වාර්තා වූ බව "අද දෙරණ" වාර්තකරු පැවසීය.
+
+එලෙස මියගොස් ඇත්තේ, හසලක තෝරපිටිය ප්‍රදේශයේ පදිංචිව සිටි මෙත්මි  සිතුම් කුමාරි නැමැති පාසල් ශිෂ්‍යාවකි.
+
+ඇය මවගෙන් දුරකථනය ඉල්ලාගෙන ඇගේ කාමරයට ගොස් ඇති අතර ඊට සුළු මොහොතකට පසු ඇගේ කාමරයෙන් කෑගසන හඬක් ඇසී තිබේ.
+
+එම හඬ ඇසුණු ඇගේ මව සහ පියාත්, වැඩිමහල් සහෝදරියත් කාමරයට ගොස් බලන විට ඇය නිදාගන්නා යකඩ ඇඳ අල්ලාගෙන කෑ ගසමින් සිටිනු දැක ඇත.
+
+පසුව මරණකාරියගේ සීයා ඇඳ ළඟ තිබූ විදුලි සම්බන්ධතාව විසන්ධිකර තිබේ.
+
+ඉන්පසු ඇය හසලක රෝහලට රැගෙන ගොස් ඇති අතර එහිදී මහියංගන රෝහල වෙත මාරුකර යවා තිබුණි.
+
+◼️
+
+[Data](articles/55887901.json)
+
+---
+
 ### மாணவர்களுக்கு போதைப்பொருளை விநியோகித்த இருவர் கைது
 
 *2025-01-04 18:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/மாணவர்களுக்கு-போதைப்பொருளை-விநியோகித்த-இருவர்-கைது/74-349738) · `ta`
@@ -65,6 +103,128 @@ The Indian Ocean island nation has a long traditional association with the inter
 ◼️
 
 [Data](articles/6fb0d63f.json)
+
+---
+
+### More details revealed on Weligama shooting incident
+
+*2025-01-04 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104719/more-details-revealed-on-weligama-shooting-incident) · `en`
+
+Police have recovered a motorcycle suspected to have been used by the suspects who carried out the shooting incident that took place at Weligama, Matara this morning (04).
+
+The motorcycle was found abandoned near a lake in the Moonamalpe area of Weligama.
+
+A group of five persons had gone to a house in Turkish Village last night (03) where the funeral was being held for the prisoner who died when a “Bo Tree” branch fell on a ward where prisoners were being detained in the Matara Prison.
+
+Later, the group was returning home on foot at around 1.00 a.m. this morning (04) when they were shot at on the Valliwela road at Kapparathota in Weligama, the police said.
+
+Police suspect that an unknown group of individuals who arrived on three motorcycles had opened fire on them using a revolver and a T-56 assault rifle before fleeing the scene.
+
+Two of the five people walking on the road were injured in the shooting and were later admitted to the Walana Hospital in Matara.
+
+...
+
+[Data](articles/f969c436.json)
+
+---
+
+### ලෝලෙවල් මාර්ගයේ රථ වාහන ධාවනය සීමා කිරීමක් ගැන දැනුම්දීමක්
+
+*2025-01-04 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205028) · `si`
+
+කොළඹ අවිස්සාවේල්ල මාර්ගයේ රථ වාහන ධාවනය සීමා කිරීමක් සම්බන්ධව පොලීසිය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+හංවැල්ල පොලිස් වසමේ ඇඹුල්ගම රජමහා විහාරස්ථානයේ පවත්වනු ලබන ශ්‍රී සම්බුද්ධ ජයන්ති ආශිර්වාද වාර්ෂික මහා පෙරහැර විඨී සංචාරය කිරීමට නියමිත බැවින් අද සහ හෙට දිනයේදී එම මාර්ගයේ රථ වාහන ධාවනය සීමා කරන බව පොලීසිය නිකුත් කළ එම නිවේදනයේ සඳහන් කර තිබේ.
+
+පොලීසිය පැවසුවේ එබැවින් කොලඹ - අවිස්සාවේල්ල මාර්ගයේ ගමන් ගන්නා රියදුරන් විකල්ප මාර්ග භාවිත කරන ලෙසය.
+
+◼️
+
+[Data](articles/b0feb988.json)
+
+---
+
+### நாட்டில் இரு வெவ்வேறு பகுதிகளில் ஹெரோயினுடன் மூவர் கைது !
+
+*2025-01-04 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202978) · `ta`
+
+நாட்டில் இரு வெவ்வேறு பகுதிகளில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்புக்களின் போது ஹெரோயின் போதைப்பொருளுடன் மூன்று சந்தேக நபர்கள் நேற்று வெள்ளிக்கிழமை (03) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இங்கிரிய பொலிஸ் பிரிவிற்கு உட்பட்ட  தீரானந்த மாவத்தை பகதியில் ஹெரோயினுடன் சந்தேக நபர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+இங்கிரிய பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடம் இருந்து 06 கிராம் 300 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+இதேவேளை, மொரட்டுவை பொலிஸ் பிரிவிற்கு உட்பட்ட லுனாவ மற்றும் மாதங்கவத்தை பிரதேசங்களில் ஹெரோயின் போதைப்பொருளுடன் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மொரட்டுவை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் மொரட்டுவை பிரதேசத்தைச் சேர்ந்த 36 மற்றும் 41 வயதுடையவர்கள் ஆவர்.
+
+...
+
+[Data](articles/860ba8a5.json)
+
+---
+
+### Navy seizes over 11kg of gold being smuggled by boat
+
+*2025-01-04 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104718/navy-seizes-over-11kg-of-gold-being-smuggled-by-boat) · `en`
+
+A special search operation conducted by the Navy in the sea area off the Baththalangunduwa Island, Kalpitiya on Saturday (4), has led to the interception of a dinghy with 03 suspects who were smuggling around 11kg and 300g of gold.
+
+The Sri Lanka Navy said a team of Special Boat Squadron attached to SLNS Vijaya was pressed into action, on receipt of information by the Northwestern Naval Command regarding a gold smuggling racket.
+
+Accordingly, naval personnel intercepted the suspicious dinghy off Baththalangunduwa Island and recovered about 11kg and 300g of gold being smuggled from the country, concealed in the dinghy.
+
+The operation also led to the apprehension of 03 suspects in connection to the racket while they have been identified as residents of Kalpitiya.
+
+Meanwhile, the suspects along with gold will be handed over to the Customs Preventive Office, Katunayake for onward legal action, the navy said.
+
+◼️
+
+[Data](articles/318e1225.json)
+
+---
+
+### Fire at food market in northern China kills at least 8 and injures 15
+
+*2025-01-04 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104717/fire-at-food-market-in-northern-china-kills-at-least-8-and-injures-15) · `en`
+
+A fire at a food market Saturday in northern China killed at least eight people and injured 15 others, state media said.
+
+The fire at the Liguang market in the city of Zhangjiakou broke out midday Saturday and was mostly extinguished by 2:00 p.m. (0600 GMT), Xinhua News Agency reported, citing a government official in Qiaoxi District where the market is located.
+
+The cause of the fire is under investigation, the report said.
+
+Such traditional markets are often tightly packed with shoppers seeking prices lower than at supermarket chains.
+
+Fire sources can range from gas bottles to charcoal used to roast meat and discarded cigarettes while aging infrastructure, such as underground gas lines, has also been blamed for fires and explosions.
+
+Zhangjiakou, located in Hebei province bordering Beijing, hosted events during the 2022 Winter Olympic Games.
+
+◼️
+
+[Data](articles/bcecb556.json)
+
+---
+
+### துமிந்த சில்வாவுக்கு விசேட வசதிகள் பெற்றுக்கொடுக்கப்படவில்லை - சிறைச்சாலை ஊடகப் பேச்சாளர்
+
+*2025-01-04 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202971) · `ta`
+
+அண்மையில் உயர்நீதிமன்றத்தினால் மரண தண்டனை உறுதி செய்யப்பட்டு சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள துமிந்த சில்வாவுக்கு சிறைச்சாலை அதிகாரிகளால் விசேட வசதிகள் பெற்றுக்கொடுக்கப்படுவதாக  முன்வைக்கப்பட்டுள்ள குற்றச்சாட்டுக்கள் உண்மைக்கு புறம்பானவையென சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பி.திஸாநாயக்க தெரிவித்துள்ளார்.
+
+அத்துடன் பூஸா அதிஉயர் பாதுகாப்பு சிறையில் தடுத்து வைக்கப்பட்டுள்ள சிறைக்கைதிகளுக்கு தடை செய்யப்பட்ட பொருட்களை வழங்கியமை தொடர்பாக மேற்கொள்ளப்பட்ட விசாரணைக்கு அமைய சிறைச்சாலையின் பாதுகாப்பு அதிகாரிகள் மற்றும் பொலிஸ் விசேட அதிரடிப்படையின் உறுப்பினர்கள் சிலர் கைது செய்யப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர்  மேலும் குறிப்பிட்டார்.
+
+சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள சில சிறைக்கைதிகளுக்கு விசேட வசதிகள் பெற்றுக்கொடுக்கபட்டுள்ளதாக சிறைக் கைதிகளின் உரிமைகளை பாதுகாக்கும் அமைப்பு அண்மையில் குற்றச்சாட்டியிருந்தது.
+
+இந்நிலையில் இது தொடர்பில் வினவிய போதே சிறைச்சாலைகள் ஊடக பேச்சாளர் காமினி பி.திசாநாயக்க மேற்கண்டவாறு குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/d339ad4b.json)
 
 ---
 
@@ -1691,153 +1851,5 @@ However, most of their local parties come with giant speakers and they make it a
 ◼️
 
 [Data](articles/c991b69e.json)
-
----
-
-### Climate-smart start-ups and entrepreneurship in Sri Lanka
-
-*2025-01-03 22:55:03* · [`dailyftlk`](https://www.ft.lk/columns/Climate-smart-start-ups-and-entrepreneurship-in-Sri-Lanka/4-771367) · `en`
-
-Climate-smart entrepreneurship can play a significant role for Sri Lanka’s blue and green economic growth and long-term resilience
-
-The dawn of 2025 provides an opportunity to contemplate about Sri Lanka’s way forward in the context of multiple planetary crises and the need for economic recovery and growth. Climate-smart entrepreneurship can play a significant role in this regard not only by addressing the impacts of the climate and biodiversity crises but also in the context of blue and green economies, sustainable development, finance, innovation, and frontier technologies.
-
-...
-
-[Data](articles/a06ce927.json)
-
----
-
-### வரலாற்றுப் புகழ்மிக்க காலிமுகத் திடலில் 97ஆவது தேசிய குத்துச்சண்டை சம்பியன்ஷிப்
-
-*2025-01-03 22:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202920) · `ta`
-
-இலங்கை குத்துச்சண்டை சங்கம் (BASL) ஏற்பாடு செய்துள்ள  97ஆவது  தேசிய குத்துச்சண்டை சம்பியன்ஷிப் முதல் தடவையாக வரலாற்றுப் புகழ்மிக்க காலிமுகத் திடலில் எதிர்வரும் 23ஆம் திகதியிலிருந்து 26ஆம் திகதிவரை நடைபெறவுள்ளது.
-
-குத்துச்சண்டை விளையாட்டை மக்கள் மத்தியில் பிரபல்யம் அடையச் செய்வதை நோக்காகக் கொண்டு இம்முறை திறந்த அரங்கில் போட்டிகளை நடத்த இலங்கை குத்துச்சண்டை சங்கம் தீர்மானித்துள்ளது.
-
-நீர்கொழும்பு கடற்கரை மற்றும் கண்டி ஆகிய இடங்களில் திறந்த அரங்குகளில் நடத்தப்பட்ட போட்டிகளின் தொடர்ச்சியாக காலிமுகத்திடலில் இருபாலாருக்குமான தேசிய குத்துச்சண்டை சம்பியன்ஷிப் அரங்கேற்றப்படவுள்ளது.
-
-25 எடைப் பிரிவுகளில் (13 ஆண்கள் மற்றும் 12 பெண்கள்) முப்படை மற்றும் பொலிஸ் பிரிவைச் சேர்ந்த வீர,வீராங்கனைகள் உட்பட நாடு முழுவதிலுமிருந்து 125 முன்னணி குத்துச்சண்டை  வீர,வீராங்கனைகள்   பங்கேற்பதால் இந்த வருட சாம்பியன்ஷிப் ஒரு முக்கியம்வாய்ந்த போட்டியாக அமையவுள்ளது.
-
-...
-
-[Data](articles/441c091a.json)
-
----
-
-### ரிக்ல்டன் 176 ஆ.இ., புவுமா 106; பலமான நிலையில் தென் ஆபிரிக்கா
-
-*2025-01-03 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/202919) · `ta`
-
-கேப் டவுன், நியூலண்டஸ் விளையாட்டரங்கில் வெள்ளிக்கிழமை (3) ஆரம்பமான பாகிஸ்தானுக்கு எதிரான 2ஆவது டெஸ்ட் கிரிக்கெட் போட்டியில் தென் ஆபிரிக்கா பலம்வாய்ந்த நிலையை அடைந்துள்ளது.
-
-ரெயான் ரிக்ல்டன், அணித் தலைவர் டெம்பா பவுமா ஆகிய இருவரும் குவித்த சதங்களின் உதவியுடன் முதலாம் நாள் ஆட்ட நேர முடிவில் தென் ஆபிரிக்கா அதன் முதல் இன்னிங்ஸில் 4 விக்கெட்களை இழந்து 316 ஓட்டங்களைக் குவித்து பலமான நிலையில் இருக்கிறது.
-
-ஏய்டன் மார்க்ராம் (17), வியான் முல்டர் (5), ட்ரைஸ்டன் ஸ்டப்ஸ் (0) ஆகிய மூவரும் 11 ஓட்டங்கள் வித்தியாசத்தில் ஆட்டம் இழந்தனர். (72 - 3 விக்)
-
-அதன் பின்னர் ஜோடி சேர்ந்த ரெயான் ரிக்ல்டன், டெம்பா பவுமா ஆகிய இருவரும் பொறுப்புடன் துடுப்பெடுத்தாடி 4ஆவது விக்கெட்டில் 235 ஓட்டங்களைப் பகிர்ந்து தென் ஆபிரிக்காவை பலமான நிலையில் இட்டனர்.
-
-டெம்பா பவுமா தனது 4ஆவது டெஸ்ட் சதத்தைப் பூர்த்தி செய்த சிறிது நேரத்தில் 106 ஓட்டங்களுடன் ஆட்டம் இழந்தார்.
-
-...
-
-[Data](articles/4e9f16d9.json)
-
----
-
-### மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்பட்டுகின்ற காற்றாலை மின் உற்பத்தி மற்றும் கனிய மணல் அகழ்வு தற்காலிகமாக நிறுத்த தீர்மானம் - மன்னார் பிரதேச ஒருங்கிணைப்புக் குழு
-
-*2025-01-03 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202918) · `ta`
-
-மன்னார் பகுதியில் மக்களின் எதிர்ப்பை மீறி முன்னெடுக்கப்பட்டு வருகின்ற காற்றாலை மின் உற்பத்தி மற்றும் கனிய மணல் அகழ்வு போன்றவை உடனடியாக தற்காலிகமாக நிறுத்தப்பட வேண்டும் மன்னார் பிரதேச ஒருங்கிணைப்புக் குழுக் கூட்டத்தில் முடி வெடுக்கப்பட்டதோடு,குறித்த அறிவிப்பை   ஒருங்கிணைப்பு குழு தலைவரும் பிரதி அமைச்சருமான உபாலி சமரசிங்க விடுத்துள்ளார்.
-
-மன்னார் பிரதேச ஒருங்கிணைப்புக்குழு கூட்டம் வெள்ளிக்கிழமை (03) பிற்பகல் 2 மணியளவில் மன்னார் பிரதேச செயலகத்தில் நடைபெற்றது.
-
-குறித்த கூட்டத்தில் மன்னார் ரயில் போக்குவரத்து சேவைகள், திண்மக் கழிவு  அகற்றுதலில் உள்ள சிக்கல்கள், காற்றாலை மின்சார திட்டம், மற்றும் கனியவள மண்ணகழ்வு போன்ற பிரச்சனைகள் குறித்து விவாதிக்கப்பட்டது.
-
-இதன் போது சபையில் சலசலப்பு ஏற்பட்டது. இலங்கை மின்சார சபையினால் மேற்கொள்ளப்பட்டு வரும் இந்த காற்றாலை திட்டத்தினை விளக்குவதற்கு அத்திட்டத்தின் முகாமையாளர்  முயன்ற போது கிராம மட்ட பிரதிநிதிகள், பொது அமைப்புகளின் பிரதிநிதிகள், மீனவ அமைப்புகளின் பிரதிநிதிகள் ஒன்று சேர்ந்து பாரிய எதிர்ப்பை வெளிப்படுத்தினர்.
-
-...
-
-[Data](articles/0526b174.json)
-
----
-
-### අපනයන වෙළෙඳපොළ වෙනුවෙන් කාබනික සීනි නිෂ්පාදනය කිරීමට අවධානය
-
-*2025-01-03 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205009) · `si`
-
-කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍ය සුනිල් හඳුන්නෙත්ති මහතා අද (03) ලංකා සීනි සමාගමට අයත් පැල්වත්ත හා සෙවනගල සීනි කර්මාන්ත ශාලා නිරීක්ෂණයට එක් විය.
-
-එහිදී මෙම කර්මාන්තශාලාවල මේ වනවිටත් ඇති සංචාරක බංගලා යොදා ගනිමින් Eco Tourism ප්‍රවර්ධනය කිරීමටත් දැනට ලංකාව තුළ සිදුවන නීති විරෝධී මත්පැන් භාවිතය අවම කිරීමට විසඳුමක් ලෙස ලංකා සීනි සමාගමේ නිෂ්පාදනය වන සීනිවල ප්‍රධාන අතුරුඑලය වන එතනෝල් යොදාගනිමින් නිශ්පාදනය කළ හැකි මිල අඩු සහ ප්‍රමිතියෙන් ඉහළ මත්පැන් වෙළෙඳපොළට හඳුන්වාදීම පිළිබඳවත් අමාත්‍යවරයා විසින් මෙහිදී සොයා බලන ලදි.
-
-එමෙන්ම කාබනික පොහොර හා අපනයන වෙළෙඳපොළ ඉලක්ක කරගනිමින් කාබනික සීනි නිෂ්පාදනය හා අපනයන වෙළෙඳපොළ ඉලක්ක කරගනිමින් කාබනික සීනි නිෂ්පාදනය කිරීම පිළිබඳවත් මෙහිදී අවධානය යොමුව තිබේ.
-
-තවද සීනි නිෂ්පාදනය බෙදාහැරීම සඳහා ක්‍රමවත් බෙදාහැරීම් ජාලයක් ඇති කිරීමටත් සේවකයන්ගේ ඵලදායීතාව වැඩි කිරීම සඳහා කාර්ය දර්ශක සකස් කිරීමටත් මෙහිදි සාකච්ඡාවට ලක්ව තිබේ.
-
-...
-
-[Data](articles/f7da678b.json)
-
----
-
-### Israeli strikes kill at least 30 in Gaza as ceasefire talks set to resume in Qatar
-
-*2025-01-03 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104706/israeli-strikes-kill-at-least-30-in-gaza-as-ceasefire-talks-set-to-resume-in-qatar) · `en`
-
-Israeli strikes killed at least 30 people in Gaza, including children, overnight and into Friday, hospital staff said, as often-stalled ceasefire talks to end the Israel-Hamas war were set to resume in Qatar.
-
-Staff at the Al-Aqsa Martyrs Hospital said that more than a dozen women and children were killed in strikes in central Gaza, including in Nuseirat, Zawaida, Maghazi and Deir al-Balah. Dozens of people were killed across the enclave the previous day, bringing the total killed in the past 24 hours to 56.
-
-“We woke up to the missile strike. We found the whole house disintegrated,” Abdul Rahman Al-Nabrisi said in the Maghazi refugee camp.
-
-The Israeli army said in a statement Friday that during the past day, it had struck dozens of Hamas gathering points and command centers throughout Gaza. The army asserted that measures were taken to mitigate civilian harm, such as using aerial surveillance.
-
-...
-
-[Data](articles/e4b24892.json)
-
----
-
-### Sri Lanka appoints committee to review Electricity Act
-
-*2025-01-03 21:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-committee-to-review-electricity-act-197885/) · `en`
-
-ECONOMYNEXT – A 10 member committee has been appointed to study the newly passed Sri Lanka Electricity Act, following a cabinet decision to review the law, state-run Ceylon Electricity Board said.
-
-The 10 member committee has been appointed by the Ministry of Energy, “for a comprehensive review towards the amendment of the Sri Lanka Electricity Act and to submit the recommendations within one month period”.
-
-Udayanga Hemapala, Secretary to the Ministry of Energy will chair and Pubudu Niroshan Hedigallage, Director General of Power Sector Reforms Secretariat will act as the General Secretary of the Committee.
-
-Chandana Wijayasinghe, Additional Secretary to the Ministry of Energy has been appointed as the Convener of the Committee.
-
-Tilak Siyambalapitiya Chairman of Ceylon Electricity Board and Janaka Aluthge, LECO have been appointed as members to the committee.
-
-Athula Rajapakse, Professor at the Department of Electrical and Computer Engineering, University of Manitoba is also member.
-
-...
-
-[Data](articles/b67dd5d1.json)
-
----
-
-### ශ්‍රී පාද වන්දනාවට පැමිණි රථවාහන හදිසි පරික්ෂාවකට
-
-*2025-01-03 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205008) · `si`
-
-ශ්‍රී පාද වන්දනාකරුවන් රැගෙන එන වාහන සහ මස්කෙලිය සිට නල්ලතන්නිය දක්වා ධාවනය කරන මගී ප්‍රවාහන බස් රථ සහ වෑන් රථ නල්ලතන්නිය පොලිස් නිලධාරීන් විසින් අද (03) හදිසියේ පරීක්ෂා කරනු ලැබීය.
-
-එහිදී වාහනවල මගීන්ට අනතුරු සිදුවිය හැකි අන්තරාදායක ලෙස සවි කර තිබූ අමතර කොටස් ගලවා ඉවත් කිරීමටත්‍, අත් තිරිංග, සංඥා ලාම්පු, ප්‍රධාන ලාම්පු ඇතුළු මෝටර් රථ ආඥා පනතේ වාහනයක් ධාවනය කිරීමට පනවා ඇති කරුණු 21ක් කෙරෙහි මෙහිදී අවධානයට ලක් කෙරිණී.
-
-එහිදී අඩුපාඩුකම් සහිත වාහන කිහිපයක් පොලිස් අවධානයට ලක් වූ අතර එම අඩුපාඩුකම් සපුරා ගැනීමට රියදුරන්ට දින 14ක කාලයක් ද ලබා දෙනු ලැබීය.
-
-එම කාලය අතරතුරු එම වාහනය ධාවන කිරීම සම්පූර්ණයෙන්ම තහනම් කරමින් වාහනවල ආදායම් බලපත්‍රය පොලිස් භාරයට ගැණිනි.
-
-නල්ලතන්නිය පොලීසිය පැවසුවේ ශ්‍රී පාද වන්දනාකරුවන් ප්‍රවාහනය කළ වාහනවල අඩුපාඩුකම් සපුරාගෙන ඔවුන් පදිංචි පොලිස් බල ප්‍රදේශයේ පොලිස් ස්ථානයේ රථ වාහන අංශයේ නිලධාරීන් වෙත ඉදිරිපත් කර එහි වාර්තාවක් නල්ලතන්නිය පොලීසිය වෙත යොමු කළ යුතු බවය.
-
-...
-
-[Data](articles/15c05e24.json)
 
 ---

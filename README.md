@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 18:23:48**
+As of **2025-01-04 18:37:05**
 
 ## Newspaper Stats
 
-*Scraped **63,644** Articles*
+*Scraped **63,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,075
 adaderanalk | 7,784
-tamilmirrorlk | 9,121
+tamilmirrorlk | 9,122
 virakesarilk | 10,615
 adaderanasinhalalk | 10,990
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 10,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,644 articles have been extended.
+61,971 (97.4%) of 63,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### மாணவர்களுக்கு போதைப்பொருளை விநியோகித்த இருவர் கைது
+
+*2025-01-04 18:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/மாணவர்களுக்கு-போதைப்பொருளை-விநியோகித்த-இருவர்-கைது/74-349738) · `ta`
+
+அம்பாறையில் நீண்டகாலமாக பாடசாலை மாணவர்களிற்கு போதைப்பொருட்களை விநியோகித்து வந்த சந்தேகநபர்கள் இருவருடமிருந்து ஐஸ் போதைப்பொருட்கள் மீட்கப்பட்டுள்ளன.
+
+கல்முனை விசேட அதிரடிப் படையினரால், 20 மற்றும் 19 வயதுடைய மருதமுனை பகுதியை சேர்ந்த இவர்கள் நேற்று இரவு ஐஸ் போதைப்பொருளுடன்  கைது செய்யப்பட்டுள்ளனர்.
+
+அத்துடன், கைதான சந்தேகநபர்கள் உள்ளிட்ட சான்றுப்பொருட்கள் என்பன சட்ட நடவடிக்கைக்காக கல்முனை தலைமையக பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை கல்முனை விசேட அதிரடிப்படையினர் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/6fb0d63f.json)
+
+---
 
 ### Sri Lanka coconut prices rise 18-pct, hit all time high
 
@@ -1825,23 +1841,5 @@ The former President returned to Sri Lanka last night (02) following his visit t
 ◼️
 
 [Data](articles/b2141c44.json)
-
----
-
-### Sri Lanka Police in process to bring back criminals living abroad
-
-*2025-01-03 21:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-in-process-to-bring-back-criminals-living-abroad-197852/) · `en`
-
-ECONOMYNEXT – Sri Lanka Police is in the process of bringing back criminals who are living in other countries in a move to curb crimes, newly appointed Police Spokesman K.B. Manathunga said.
-
-“We have started a gradual process to tackle crime in the country. We are also in the process of bringing back criminals who are in foreign countries. We are in the process of issuing red notices and using bilateral agreements for this,” Manathunga told reporters at a media briefing on Friday (03) in Colombo.
-
-He said the Police want to use President Anura Kumara Dissanayake’s Clean Sri Lanka concept to improve implementation of the country’s rule of law with the participation of people,
-
-His statement comes after media reports of police evicting street vendors under Clean Sri Lanka, an ambitious move by President Anura Kumara Dissanayake to systematically change the country’s existing governance.
-
-...
-
-[Data](articles/f4da4014.json)
 
 ---

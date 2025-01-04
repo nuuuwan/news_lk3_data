@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 12:17:27**
+As of **2025-01-04 12:28:25**
 
 ## Newspaper Stats
 
-*Scraped **63,594** Articles*
+*Scraped **63,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,170 @@ economynextcom | 3,878
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,072
-adaderanalk | 7,776
-tamilmirrorlk | 9,115
+adaderanalk | 7,780
+tamilmirrorlk | 9,117
 virakesarilk | 10,604
-adaderanasinhalalk | 10,976
+adaderanasinhalalk | 10,982
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,594 articles have been extended.
+61,971 (97.4%) of 63,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### மாணவர்களிடையே சுவாச நோய்கள் பரவும் அபாயம்
+
+*2025-01-04 12:16:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களிடையே-சுவாச-நோய்கள்-பரவும்-அபாயம்/175-349733) · `ta`
+
+புதிய கல்வியாண்டின் தொடக்கத்தில், மாணவர்களிடையே சுவாச நோய்கள் பரவும் சாத்தியம் குறித்து சுகாதார அதிகாரிகள் கவலை தெரிவித்துள்ளனர்.
+
+லேடி ரிட்ஜ்வே வைத்தியசாலையின் குழந்தைகளுக்கான சுவாச நோய்களுக்கான விசேட வைத்திய நிபுணர் டொக்டர் சன்ன டி சில்வா கூறுகையில், பல்வேறு வைரஸ் சுவாச நோய்கள் பாடசாலைகளில் பரவக்கூடும்.
+
+மாணவர்களின் ஆரோக்கியத்தில் பெற்றோர்கள், ஆசிரியர்கள் மற்றும் பாடசாலை அதிகாரிகள் மிகுந்த கவனம் செலுத்த வேண்டும் என்று, அவர் கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/2e322c94.json)
+
+---
+
+### எரிவாயு விலையில் மாற்றம் இல்லை
+
+*2025-01-04 12:10:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றம்-இல்லை/175-349732) · `ta`
+
+லிட்ரோ எரிவாயு விலைச் சூத்திரத்தின் பிரகாரம் லிட்ரோ உள்நாட்டு எரிவாயு விலை இம்மாதம் (ஜனவரி) திருத்தப்படாது என, லிட்ரோ எரிவாயு நிறுவனத்தின் தலைவர் சன்ன குணவர்தன, இன்று (4) தெரிவித்தார்.
+
+இதன்படி, கடந்த டிசெம்பர் மாதம் நிர்ணயிக்கப்பட்ட லிட்ரோ எரிவாயுவின் விலையே தற்போதும் செல்லுபடியாகும் எனவும் குணவர்தன குறிப்பிட்டார்.
+
+12.5 கிலோகிராம் லிட்ரோ உள்நாட்டு எரிவாயு சிலிண்டரின் விலை ரூ.3,690 ஆகவும், 5 கிலோகிராம் சிலிண்டரின் விலை ரூ.1,482 ஆகவும், 2.3 கிலோ சிலிண்டரின் விலை ரூ.694 ஆகவும் உள்ளது என, அவர் மேலும் தெரிவித்தார்.AN
+
+◼️
+
+[Data](articles/eb76584b.json)
+
+---
+
+### මෙරටින් පිට කිරීමට උත්සාහ කළ රත්‍රන් තොගයක් හසුවෙයි
+
+*2025-01-04 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205017) · `si`
+
+ශ්‍රී ලංකාවෙන් පිට කිරීමට උත්සහකළ රත්‍රන් තොගයක් සමග සැකකරුවන් තිදෙනෙකු බත්තලංගුන්ඩුවට ආසන්න මුහුදේ දී ශ්‍රී ලංකා නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන ඇත.
+
+නාවික හමුදා බුද්ධි අංශවලට ලද තොරතුරක් මත සිදුකළ මෙම වැටලීමෙන් රත්‍රරං කිලෝ 11යි ග්‍රෑම් 300ක තොගයක් සොයාගැනීමට හැකිවී තිබේ.
+
+◼️
+
+[Data](articles/3baa690f.json)
+
+---
+
+### No change in Litro Gas prices for January
+
+*2025-01-04 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104712/no-change-in-litro-gas-prices-for-january) · `en`
+
+The Litro Gas Company says that the prices of its domestic LP Gas cylinders will remain unchanged for the month of January 2025.
+
+◼️
+
+[Data](articles/57e4d295.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල වෙනස් නොවෙයි
+
+*2025-01-04 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205016) · `si`
+
+ජනවාරි මාසයේදී පාරිභෝගික ජනතාවට සහන සැලසීමේ අරමුණින් ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල වැඩි නොකිරීමට තීරණය කළ බව ලිට්‍රෝ ගෑස් ලංකා සමාගම දැනුම්දෙයි.
+
+මේ අනුව 2025 ජනවාරි මාසයට අදාළව දැනට පවතින මිල ගණන් වලංගු වෙයි.
+
+12.5Kg ගෑස් සිලින්ඩරයක මිල රුපියල් 3,690ක් ද 5Kg ගෑස් සිලින්ඩරයක මිල රුපියල් 1,482ක් ද 2.3Kg ගෑස් සිලින්ඩරයක මිල රුපියල් 694ක් ද වෙයි.
+
+◼️
+
+[Data](articles/4bbaad37.json)
+
+---
+
+### Nearly 300,000 dog bites reported annually in Sri Lanka
+
+*2025-01-04 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104711/nearly-300000-dog-bites-reported-annually-in-sri-lanka) · `en`
+
+The Public Health Veterinary Service reports that nearly 300,000 dog bites are recorded annually in Sri Lanka, leading to the administration of approximately 200,000 human rabies vaccines last year.
+
+According to Dr. Yeshan Guruge, Medical Officer of the Public Health Veterinary Service, 20 people succumbed to rabies last year.
+
+Among these fatalities, 11 were attributed to dog bites, one to a Golden palm civet bite, while in eight cases, the animal responsible could not be properly identified.
+
+Middle-aged individuals are the primary victims of animal bites, with men accounting for half of the cases.
+
+Despite dog bites being the most common cause, their frequency has shown a gradual decline over the past decade. However, bites from toque macaque monkeys have increased during this period.
+
+Dr. Guruge also highlighted that over Rs. 600 million is spent annually on human rabies vaccines in Sri Lanka.
+
+◼️
+
+[Data](articles/e6643e51.json)
+
+---
+
+### චීනයේ පැතිරෙන වෛරසයේ අලුත්ම තත්ත්වය
+
+*2025-01-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205015) · `si`
+
+චීනයේ මේ වනවිට පැතිර යන හියුමන් මෙටානියුමෝනියා (HMPV) වෛරසය සම්බන්ධයෙන් පැහැදිලි කරමින් චීන බලධාරීන් වාර්තාවක් නිකුත් කර තිබේ.
+
+චීනය පවසන්නේ එම වෛරසය සම්බන්ධයෙන් අනියත බියක් ඇතිකර ගත යුතු නොමැති බවයි.
+
+ශීත සමයේ දී මෙවැනි වෛරස පැතිරයාම සාමාන්‍ය කරුණක් බවත්, මෙවර ශීත සමයේ දී එහි යම් අවම වීමක් දක්නට ඇති බවත් චීනය පවසයි.
+
+එමෙන්ම චීනයට සංචාරය කිරීමේ කිසිදු අවදානමක් නොමැති බවත් විදෙස් සංචාරකයින්ගේ සෞඛ්‍ය පිළිබඳව තමන් සහතික වන බවත් චීනය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/dc1480eb.json)
+
+---
+
+### සූරියප්පෙරුම මහතාගේ අවසන් කටයුතු හෙට
+
+*2025-01-04 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205014) · `si`
+
+අභාවප්‍රාප්ත ආචාර්ය ජේ. ආර්. පී. සූරියප්පෙරුම මහතාගේ අවසන් කටයුතු හෙට (5) බොරැල්ල පොදු සුසාන භූමියේ සිදුකිරීමට නියමිතව ඇත.
+
+ඒ මහතාගේ දේහය මේ වනවිට බොරැල්ල ජයරත්න මල් ශාලාවේ තැන්පත් කර තිබේ.
+
+සූරියප්පෙරුම මහතා පසුගිය 2වනදා අභාවප්‍රාප්ත වූ අතර, මිය යනවිට 96 වියේ පසුවිය.
+
+◼️
+
+[Data](articles/327de895.json)
+
+---
+
+### Sri Lankan leaders express solidarity with Cuba
+
+*2025-01-04 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104710/sri-lankan-leaders-express-solidarity-with-cuba) · `en`
+
+Representatives of Sri Lankan organizations visited the Cuban embassy to express their solidarity with the Caribbean nation and greet it on the 66th anniversary of the Triumph of the Revolution, diplomatic sources informed yesterday.
+
+Ambassador Andres Gonzalez received the leaders of the Friendship Association, the Communist Party (CPSL), and the Sama Samaja Party (LSSP) at the diplomatic mission.
+
+Also, congratulations messages have been sent from Sri Lanka to Cuba on the 66th anniversary of the Cuban revolutionary process.
+
+At a previous event, chaired by the Cuban Ambassador, the Minister of Commerce, Food Security and Cooperative Development, Wasantha Samarasinghe, thanked Cuba for its example and fraternity and wished its government and people success.
+
+Meanwhile, Sri Lanka’s Democratic Left Front (LDF) reiterated its call to end the US blockade against Cuba in a message signed by its general secretary Vasudeva Nanayakakara.
+
+...
+
+[Data](articles/e1bfd2aa.json)
+
+---
 
 ### அதிக ஒளி, ஒலி எழுப்பும் வாகனங்களுக்கு எதிராக நடவடிக்கை
 
@@ -45,6 +195,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7cbf6627.json)
+
+---
+
+### Trump must be sentenced in hush money case, judge signals no jail
+
+*2025-01-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104709/trump-must-be-sentenced-in-hush-money-case-judge-signals-no-jail) · `en`
+
+President-elect Donald Trump will be sentenced on Jan. 10 in the criminal case in which he was convicted on charges involving hush money paid to a porn star, but is unlikely to face jail time or other penalties, a judge said on Friday.
+
+Justice Juan Merchan’s ruling means Trump will be required to appear at a court hearing just 10 days before his Jan. 20 inauguration - an unprecedented scenario in U.S. history. Before Trump, no U.S. president - former or sitting - had been charged with or convicted of a crime.
+
+The judge said Trump, 78, may appear at his sentencing either in person or virtually.
+
+He wrote that he was not inclined to sentence Trump to jail, and that a sentence of “unconditional discharge” - meaning no custody, monetary fine, or probation - would be “the most viable solution.”
+
+The imposition of the sentence would pave the way for Trump to appeal. Merchan acknowledged in his ruling that Trump has made clear he intends to appeal.
+
+...
+
+[Data](articles/fd25e089.json)
+
+---
+
+### සත්ත්ව සපාකෑම් ගැන භය හිතෙන අනාවරණයක්
+
+*2025-01-04 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205013) · `si`
+
+සුනඛ සපාකෑම් ලක්ෂ 3කට ආසන්න සංඛ්‍යාවක් වර්ෂිකව සිදුවන බව මහජන සෞඛ්‍ය පශු වෛද්‍ය සේවාව පවසයි.
+
+මේ හේතුවෙන් පසුගිය වසරේ පමණක් මානව ජලභීතිකා එන්නත් ලක්ෂ දෙකට ආසන්න ප්‍රමාණයක් භාවිතා කර තිබේ.
+
+මහජන සෞඛ්‍ය පශු වෛද්‍ය සේවාවේ වෛද්‍ය නිළධාරී වෛද්‍ය යේෂාන් ගුරුගේ මහතා පවසා සිටියේ, පසුගිය වසරේ ජලභීතිකා රෝගය හේතුවෙන් පුද්ගලයින් 20 දෙනෙකු මියගොස් ඇති බවයි.
+
+කෙසේ නමුත් තවත් අයෙකු මියගොස් ඇත්තේ කලවැද්දෙක් සපාකෑමෙන් බවද හඳුනාගෙන ඇත.
+
+මෙලෙස සත්ත්ව සපාකෑම්වලට වැඩි වශයෙන් ගොදුරුවන්නේ මැදි වයස් පුද්ගලයන්වන අතර, ඔවුන්ගෙන් 2ට 1ක් පිරිමි පුද්ගලයන්ය.
+
+සුනඛ සපාකෑම් වැඩි වශයෙන් වාර්තා වුවත්, පසුගිය වසර දහයක කාලය තුළ එය ක්‍රමයෙන් අඩුවී ඇත‍. කෙසේ නමුත් රිළවු සපාකෑම් වැඩි වී ඇත.
+
+මෙහිදී වෛද්‍ය යේෂාන් ගුරුගේ මහතා පවසා සිටියේ, මානව ජලභීතිකා එන්නත් සඳහා වාර්ෂිකව රුපියල් මිලියන 600කට අධික මුදලක් වැය කරන බවයි.
+
+◼️
+
+[Data](articles/537fc933.json)
 
 ---
 
@@ -147,6 +341,30 @@ Then the appointed Ambassador or High Commissioner must appear before the Commit
 ◼️
 
 [Data](articles/5b308668.json)
+
+---
+
+### නැතිව වූ වාලම්පුරිය පන්සලේ ළිඳෙන් මතුවෙයි
+
+*2025-01-04 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205012) · `si`
+
+වසර එකහමාරකට පමණ පෙර දොඩංගොඩ ඇළදූව ප්‍රදේශයේ විහාරස්ථානයකින් සොරකම් කරන ලද වාලම්පුරියක් එම විහාරස්ථානයේම ළිඳක තිබී හමු වී ඇත.
+
+ඉතා වටිනාකමකින් යුතු මෙම වාලම්පුරිය සොරකම් කර ඇති බවට මීට වසර එකමහාරකට පමණ පෙර කළුතර කොට්ඨාස අපරාධ විමර්ශන අංශයට පැමිණිල්ලක් ලැබී තිබේ.
+
+ඒ සම්බන්ධයෙන් කාලයක් තිස්සේ සිදුකරන ලද විමර්ශනයේදී එම වාලම්පුරිය සොරකම් කරන ලද පුද්ගලයා පිළිබඳව තොරතුරක් සොයාගැනීමට පොලීසියට හැකිව ඇත.
+
+ඔහු පිළිබඳව අධීක්ෂණයෙන් සිටි පොලිස් නිලධාරින් ඔහු අත්අඩංගුවට ගැනීමට යාමේදී එම පුද්ගලයා ප්‍රදේශයෙන් පලාගොස් තිබේ.
+
+එම පුද්ගලයා පදිංචි නිවස අවස්ථා කිහිපයකදීම පොලිස් නිලධාරීන් පරීක්ෂා කළද වාලම්පුරිය සොයා ගැනීමට නොහැකි විය.
+
+ඒ අතරවාරයේ ඊයේ කළුතර කොට්ඨාස අපරාධ විමර්ශන අංශයට ලද දුරකථන ඇමතුමකට අනුව අනාවරණය වී ඇත්තේ වාලම්පූරියක් අදාළ විහාරස්ථානයේම ළිං පතුල තුළ දක්නට ලැබෙන බවයි.
+
+ඒ අනුව එම වාලම්පුරිය ගොඩගෙන ඇති අතර, විහාරස්ථානයේ නායක ස්වාමීන් වහන්සේ විසින් එය තම විහාරස්ථානයෙන් දැනට වසර එකහමාරකට පමණ පෙර සොරකම් කරන ලද වාලම්පුරිය බවට හඳුනාගෙන ඇත.
+
+...
+
+[Data](articles/ad045da0.json)
 
 ---
 
@@ -1587,217 +1805,5 @@ Top positive contributors to the ASPI were John Keells Holdings (up at 23.80), A
 ◼️
 
 [Data](articles/95c7d1e4.json)
-
----
-
-### அநுராதபுரத்தில் வீடொன்றில் புதையல் தோண்டிய நால்வர் கைது !
-
-*2025-01-03 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202877) · `ta`
-
-அநுராதபுரம், மிஹிதுபுர பிரதேசத்தில் உள்ள வீடொன்றில் புதையல் தோண்டியதாக கூறப்படும் வீட்டின் பெண் உரிமையாளர் உட்பட நால்வர் நேற்று வியாழக்கிழமை (02) கைது செய்யப்பட்டுள்ளதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
-
-பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சோதனையில் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-மிஹிதுபுர பிரதேசத்தை சேர்ந்த 61 வயதுடைய பெண் ஒருவரும், குருணாகல், கிரிமெட்டியாவ மற்றும் பதவிய ஆகிய பிரதேசங்களில் வசிக்கும் 26 முதல் 35 வயதுக்குட்பட்ட மூவருமே கைது செய்யப்பட்டுள்ளனர்.
-
-இந்த வீட்டின் கீழ் உள்ள தரையில் புதையல் இருப்பதாக வீட்டின் பெண் உரிமையாளரிடம் ஒருவர் கூறியதையடுத்து, சந்தேக நபர்கள் நால்வரும் இணைந்து பெரும் பணத்தை செலவிட்டு வீட்டின் தரையை தோண்டியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் நால்வரும் இன்று வெள்ளிக்கிழமை (03) நீதிமன்றத்தில் ஆஜர்படுத்தப்படவுள்ளனர்.
-
-◼️
-
-[Data](articles/6de9f1bd.json)
-
----
-
-### எக்ஸ்ட்ரீம் - திரைப்பட விமர்சனம்
-
-*2025-01-03 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202893) · `ta`
-
-நடிகர்கள் : ராஜ்குமார் நாகராஜ், ஆனந்த் நாக், அம்ரிதா ஹல்தர், ரச்சிதா மகாலட்சுமி, அபி நட்சத்திரா மற்றும் பலர்.
-
-சின்னத்திரை லேடி சுப்பர் ஸ்டார் ரட்சிதா மகாலட்சுமி காவல்துறை அதிகாரியாக நடித்திருக்கும் திரைப்படம் மற்றும் 'பிழை ',' தூவல் ' ஆகிய திரைப்படங்களை இயக்கிய இயக்குநர் ராஜவேல் கிருஷ்ணா இயக்கத்தில் உருவாகி இருக்கும் 'எக்ஸ்ட்ரீம்' திரைப்படம் - ரசிகர்களின் எதிர்பார்ப்பை பூர்த்தி செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
-
-சென்னையின் புறநகர் பகுதி ஒன்றில் ஒரு வீட்டின் கட்டுமான பணி நடைபெறுகிறது. ஒரு இளம் பெண் கொலை செய்யப்பட்டு, அந்த வீட்டின் கட்டுமானத்திற்காக கட்டப்பட்ட கான்கிரீட் தூண் ஒன்றில் புதைக்கப்பட்டிருக்கிறார். அதனை தொழிலாளிகள் கண்டு அதிர்ச்சி அடைகிறார்கள்.
-
-காவல்துறையின் விசாரணை தொடங்குகிறது. அந்த கான்கிரீட் தூணில் கொலை செய்யப்பட்ட இளம் பெண் யார்? என காவல்துறை அதிகாரியான ராஜ்குமார் விசாரணையை தொடங்குகிறார். அவர் அருகிலுள்ள அடுக்குமாடி குடியிருப்பில் ஒன்றில் பணிப்பெண்ணாக பணியாற்றும் அபி நட்சத்திரா என தெரிய வருகிறது.
-
-...
-
-[Data](articles/ce03de7f.json)
-
----
-
-### Acting IGP orders special traffic operations in every police division
-
-*2025-01-03 15:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/104699/acting-igp-orders-special-traffic-operations-in-every-police-division) · `en`
-
-Acting Inspector General of Police (IGP), Priyantha Weerasooriya, has directed all police stations to initiate special traffic operations across every police division, effective from yesterday (2) and continuing until further notice, to enhance traffic control and ensure road safety while protecting lives on the roads.
-
-This initiative is part of the broader ‘Clean Sri Lanka’ project, implemented under the new government’s policy, ‘A Thriving Nation - A Beautiful Life.’
-
-The directive emphasizes particular attention to vehicles with various horns, additional flashing lights of different colors, illegal modifications, loud horns, loud silencers, and additional parts that could contribute to accidents and road hazards.
-
-As part of the operation, it has been instructed that two traffic operations are to be conducted within each police division for three hours daily.
-
-...
-
-[Data](articles/c64a1ed0.json)
-
----
-
-### சசிகுமார் நடிக்கும் 'டூரிஸ்ட் ஃபேமிலி' படத்தின் படப்பிடிப்பு நிறைவு
-
-*2025-01-03 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/202892) · `ta`
-
-அயோத்தி- கருடன்- நந்தன்- என ஹாட்ரிக் வெற்றியை அளித்த வெற்றி நாயகனான நடிகர்  சசிகுமார் கதையின் நாயகனாக நடித்து வரும் 'டூரிஸ்ட் ஃபேமிலி ' எனும் திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்ததாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் தெரிவித்துள்ளனர்.
-
-அறிமுக இயக்குநர் அபிஷன் ஜீவீந் இயக்கத்தில் உருவாகி வரும் 'டூரிஸ்ட் ஃபேமிலி' எனும் திரைப்படத்தில் சசிகுமார், சிம்ரன், யோகி பாபு ,மிதுன் ஜெய்சங்கர் ,கமலேஷ், எம். எஸ். பாஸ்கர், ரமேஷ் திலக், பக்ஸ், இளங்கோ குமரவேல், ஸ்ரீஜா ரவி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-இந்த திரைப்படத்தை மில்லியன் டொலர் ஸ்டுடியோஸ் மற்றும் எம் ஆர் பி என்டர்டெய்ன்மென்ட் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் நாசரேத் பஸ்லியான்- மகேஷ் ராஜ் பஸ்லியான் , யுவராஜ் கணேசன் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
-
-இப்படத்தின் முதல் தோற்றப் பார்வை மற்றும் பிரத்யேக காணொளி வெளியாகி, ரசிகர்களின் கவனத்தை ஈர்த்தது. மேலும் அந்த காணொளியில் சசிகுமார் உள்ளிட்ட கதாபாத்திரங்கள் ஈழத் தமிழில் பேசியதால் உலகத் தமிழர்களின் ஆர்வத்தை அதிகரித்தது.
-
-...
-
-[Data](articles/1a8bd82b.json)
-
----
-
-### மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்ட' ட்ராமா' படத்தின் ஃபர்ஸ்ட் லுக்
-
-*2025-01-03 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/202891) · `ta`
-
-நடிகர் விவேக் பிரசன்னா முதன்மையான வேடத்தில் நடித்திருக்கும் ' ட்ராமா ' எனும் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை 'மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
-
-அறிமுக இயக்குநர் தம்பிதுரை மாரியப்பன் இயக்கத்தில் உருவாகி வரும்' ட்ராமா 'எனும் திரைப்படத்தில் விவேக் பிரசன்னா ,ஆனந்த் நாக், சாந்தினி தமிழரசன்,  பூர்ணிமா ரவி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-அஜித் சீனிவாசன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஆர் .எஸ் . ராஜ் பிரதாப் இசையமைத்திருக்கிறார்.  மெடிக்கல் கிரைம் திரில்லராக தயாராகி இருக்கும் இந்த திரைப்படத்தை டர்ம் புரொடக்ஷன்ஸ்  ஹவுஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் எஸ். உமா மகேஸ்வரி தயாரித்திருக்கிறார்.
-
-இப்படத்தின் இறுதி கட்டப் பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்நிலையில் இதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. வைத்தியசாலை பின்னணியிலான இப்படத்தின் பர்ஸ்ட் லுக்கில் ' பெய்ன் நெவர் எண்ட்ஸ் ' என்ற ஆங்கில வாசகம் குறிப்பிடப்பட்டிருப்பதால் ரசிகர்களை வெகுவாக கவர்ந்திருக்கிறது.
-
-◼️
-
-[Data](articles/ea173dc4.json)
-
----
-
-### சட்டவிரோதமான முறையில் துப்பாக்கியை பயன்படுத்தி பறவைகளைக் கொலை செய்த நபர்கள் கைது
-
-*2025-01-03 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/202888) · `ta`
-
-கிளீன் சிறிலங்கா வேண்டுகோளின் கீழ் சட்ட நிர்வாக நடவடிக்கைகள் கிழக்கு மாகாணத்தில் தொடர்ச்சியாக முன்னெடுக்கப்பட்டு வருகின்றன. இதன் ஒரு கட்டமாக  மட்டக்களப்பு மாவட்டம் கடுக்காமுனைப் பகுதியில்  சட்டவிரோதமாக பறவைகளை கொலை செய்த  சந்தேக நபர்கள் கொக்கட்டிசோலை பொலிஸாரால் வியாழக்கிழமை (02) பிற்பகல் கைது செய்யப்பட்டுள்ளனர்.
-
-காலநிலை மாற்றத்தால் இடம் பெயர்ந்து வரும் வெளிநாட்டு அரிய  வகை சுற்றுலா பறவைகள் இலங்கையின் பல்வேறு இடங்களில் தமது வாழ்க்கையை கழிப்பது வழக்கம். இவ்வாறு இடம்பெயர்ந்து வரும் பறவைகளை சட்டவிரோதமாக கொலை செய்து வியாபாரப்படுத்தும் பல சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
-
-கொக்கடிச்சோலை பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் பயணித்த வாகனங்கள் பரிசோதனை செய்யப்பட்ட நிலையில் சந்தேகத்திற்கிடமான கார் ஒன்றினுள் தடை செய்யப்பட்ட துப்பாக்கிகளும் கொலை செய்யப்பட்ட பறவைகளும்  மீட்கப்பட்ட நிலையில் பொலிஸார் சந்தேகநபர்களை உடனடியாக கைது செய்தனர்.
-
-...
-
-[Data](articles/5891062a.json)
-
----
-
-### තානාපතිවරු සහ මහකොමසාරිස්වරු  පත්කිරීම ගැන රජයෙන් නිවේදනයක්
-
-*2025-01-03 15:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204997) · `si`
-
-තානාපතිවරු සහ මහකොමසාරිස්වරු පත්කිරීම සම්බන්ධයෙන් විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කර තිබේ.
-
-තානාපති කාර්යාල කිහිපයක සිදුකර තිබූ දේශපාලන පත්වීම් නව රජය පත්වීමෙන් අනතුරුව අවසන් කිරීම හේතුවෙන් කාර්යාල කිහිපයකම පුරප්පාඩු පවතින බව එම නිවේදනයේ දැක්වේ.
-
-එම පුරප්පාඩු පිරවීමේ ක්‍රියාවලිය අවසන් වීමට සාධාරණ කාල අවකාශයක් ගත වෙන අතර එම ක්‍රියාවලිය සම්බන්ධයෙන් අදාළ නිවේදනයේ මෙලෙස දැක්වේ.
-
-◼️
-
-[Data](articles/d782e8f6.json)
-
----
-
-### ஷேன் நிஹாம் நடிக்கும் ' மெட்ராஸ்காரன்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
-
-*2025-01-03 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202889) · `ta`
-
-மலையாள திரையுலகில் இளம் நம்பிக்கை நட்சத்திர நடிகரான ஷேன் நிஹாம் கதையின் நாயகர்களில் ஒருவராக அழுத்தமான வேடத்தில் நடித்திருக்கும் ' மெட்ராஸ்காரன் 'எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
-
-இயக்குநர் வாலி மோகன் தாஸ் இயக்கத்தில் உருவாகி இருக்கும் 'மெட்ராஸ்காரன் 'எனும் திரைப்படத்தில் ஷேன் நிஹாம் , கலையரசன், நிகாரிஹா,  ஐஸ்வர்யா தத்தா , கருணாஸ் , பாண்டியராஜன் , சுப்பர் சுப்பராயன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-பிரசன்னா எஸ். குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ் . இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை எஸ் ஆர் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பி. ஜெகதீஷ் தயாரித்திருக்கிறார்.
-
-அனைத்து பணிகளும் நிறைவடைந்து கடந்த ஆண்டு வெளியாகும் என அறிவிக்கப்பட்ட இந்த திரைப்படம் வணிக ரீதியான குளறுபடிகளால் வெளியாகவில்லை.
-
-இந்நிலையில் இந்தத் திரைப்படம் எதிர்வரும் பத்தாம் திகதியன்று உலகம் முழுவதும் தமிழ் மற்றும் மலையாள மொழிகளில் பட மாளிகைகளில் வெளியாகிறது.
-
-...
-
-[Data](articles/c22caeba.json)
-
----
-
-### ප්‍රධාන ජලාශ වල ජල ධාරිතාව 86% ඉක්මවයි
-
-*2025-01-03 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204996) · `si`
-
-පසුගිය දින කිහිපයේ දිවයිනේ ප්‍රදේශ කිහිපයකට ඇති වූ වර්ෂාපතනය හේතුවෙන් දිවයිනේ ප්‍රධාන වැව් බොහොමයක් වාන් දමමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව පැවසුවේ මේ වනවිට දිවයිනේ ප්‍රධාන ජලාශ 73න් 33ක් වාන් දමමින් පවතින බවය.
-
-දිවයිනේ ප්‍රධාන ජලාශවල ජල ධාරිතාව අනුව අම්පාර දිස්ත්‍රික්කයේ 79%ක්, අනුරාධපුර දිස්ත්‍රික්කයේ 95%ක්, බදුල්ල දිස්ත්‍රික්කයේ 71%ක්, මඩකළපුව, මොණරාගල, ත්‍රිකුණාමලය සහ මන්නාරම දිස්ත්‍රික්කවල 82%ක්, හම්බන්තොට දිස්ත්‍රික්කයේ 91%, ගාල්ල, මහනුවර, කුරුණෑගල, පොළොන්නරුව, පුත්තලම යන දිස්ත්‍රික්ක 98%ක් ලෙස වශයෙන් සටහන් වී ඇති බව එම දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් ව තිබේ.
-
-මේ අනුව දිවයිනේ සමස්ත ප්‍රධාන ජලාශවල ජල ධාරිතාවය 87.6%ක් බවට පත්ව ඇති බවත් එම දෙපාර්තමේන්තුව පවසයි.
-
-එමෙන්ම මේ වන විට දිවයිනේ ප්‍රධාන ජලාශ කිහිපයක් වාන් දමමින් පවතින බැවින් එම ජලාශ ආශ්‍රිතව පහත් බිම්වල වෙසෙන ජනතාව ආපදා කළමනාකරණ අංශ විසින් නිකුත් කරන නිවේදන සම්බන්ධව අවධානය යොමු කරන ලෙසද එම දෙපාර්තමේන්තුව නිකුත් කර ඇති නිවේදනයේ දැක්වේ.
-
-◼️
-
-[Data](articles/7d3bfdcc.json)
-
----
-
-### Badulla sees uptick in dog bites with nearly 6,700 cases in 2024
-
-*2025-01-03 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104698/badulla-sees-uptick-in-dog-bites-with-nearly-6700-cases-in-2024) · `en`
-
-Hospital records indicate that nearly 6,700 individuals were treated for dog bites at the Badulla Teaching Hospital within last year.
-
-Hospital authorities point out that foreign tourists are also among those frequently affected by such attacks, while a significant number of the victims being young children.
-
-Dr. Palitha Rajapaksa of the Emergency Treatment Unit at the Badulla Teaching Hospital, commenting on this matter, stated, “The situation has worsened due to bites from dogs and cats that have not been vaccinated for rabies and are kept as pets at homes. On average, around 25,000 to 30,000 individuals reportedly seek human rabies vaccines from across the Uva Province.”
-
-In addition to this, hospital records also reveal that foreign tourists, particularly those bitten by toque macaque monkeys and dogs in the Ella area, have also sought medical treatment at the Badulla Teaching Hospital.
-
-...
-
-[Data](articles/6e1ccd93.json)
-
----
-
-### ලාෆ්ස් ගෑස් මිල සංශෝධනය ගැන දැනුම්දීමක්
-
-*2025-01-03 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204995) · `si`
-
-මේ මාසය සඳහා ලාෆ්ස් ගෑස් මිල සංශෝධනය සම්බන්ධයෙන් වන තීරණය එළැඹෙන සඳුදා දිනයේ දී ප්‍රකාශයට පත්කරන බව එම සමාගම දැනුම්දෙයි.
-
-බොහෝවිට මෙම මාසය සඳහා ගෑස් මිල නොවෙනස්ව පැවතිය හැකි බව ද එම සමාගම සඳහන් කළේය.
-
-මිල ඉහළ දැමීමේ අවශ්‍යතාවක් නොමැති බව ද ඔවුන් වැඩිදුරටත් පැවසීය.
-
-◼️
-
-[Data](articles/75e005e1.json)
-
----
-
-### யோஷித ராஜபக்ஷ சிஐடியில் ஆஜர்
-
-*2025-01-03 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/202846) · `ta`
-
-முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவின் மகன் யோஷித ராஜபக்ஷ குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளார்.
-
-கதிர்காமம் பிரதேசத்தில் காணி ஒன்றின் உரிமை தொடர்பில் வாக்குமூலம் வழங்குவதற்காகவே அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/89afa613.json)
 
 ---

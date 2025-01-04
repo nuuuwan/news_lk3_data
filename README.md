@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 16:27:50**
+As of **2025-01-04 16:43:13**
 
 ## Newspaper Stats
 
-*Scraped **63,635** Articles*
+*Scraped **63,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 3,878
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,075
-adaderanalk | 7,780
+adaderanalk | 7,784
 tamilmirrorlk | 9,120
-virakesarilk | 10,614
+virakesarilk | 10,615
 adaderanasinhalalk | 10,990
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,635 articles have been extended.
+61,971 (97.4%) of 63,640 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### கிரிபத்கொடையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2025-01-04 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202967) · `ta`
+
+கிரிபத்கொடை பொலிஸ் பிரிவிற்கு உட்பட்ட மித்ரானந்த மாவத்தை பகுதியில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (03) கிரிபத்கொடை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கிரிபத்கொடை பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மாதம்பே பிரதேசத்தைச் சேர்ந்த 34 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து 11 கிராம் 550 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/19cf425c.json)
+
+---
 
 ### වයස්ගතම ඔලිම්පික් රන් පදක්කම්ලාභිනිය මියයයි
 
@@ -127,6 +145,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/c9bdf2d9.json)
+
+---
+
+### President inaugurates ‘FACETS Sri Lanka – 2025’: International Gem and Jewellery Exhibition
+
+*2025-01-04 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104716/president-inaugurates-facets-sri-lanka-2025-international-gem-and-jewellery-exhibition) · `en`
+
+“FACETS Sri Lanka - 2025 International Gem and Jewellery Exhibition” was inaugurated under the patronage of President Anura Kumara Dissanayake at the Cinnamon Grand, Colombo today (04).
+
+The President also visited and inspected the gem and jewellery stalls featured at the exhibition, the President’s Media Division (PMD) stated.
+
+Organized by the Sri Lanka Gem and Jewellery Association (SLGJA) in collaboration with the National Gem and Jewellery Authority (NGJA) and the Export Development Board (EDB), this year marks the 31st edition of Asia’s leading gem and jewellery exhibition. The event will continue until January 6.
+
+Delegations from China, India, the United States, Europe, and several other countries, along with representatives from globally renowned gem and jewellery companies visiting Sri Lanka for the first time, are participating in the event, the PMD said.
+
+...
+
+[Data](articles/3a462540.json)
 
 ---
 
@@ -302,6 +338,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Police launch probe into false audio clip on ‘Clean Sri Lanka’ program
+
+*2025-01-04 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104715/police-launch-probe-into-false-audio-clip-on-clean-sri-lanka-program) · `en`
+
+Sri Lanka Police have confirmed that an audio clip currently circulating on social media, claiming to be a “special announcement in line with the government’s Clean Sri Lanka – 2025 program”, is a fake.
+
+The audio clip, allegedly citing a section of the Police Ordinance, instructs the public to maintain cleanliness in front of their residences and warns of legal action against non-compliance after January 15, 2025.
+
+In an official statement, Sri Lanka Police emphasized that no such announcement has been released by the department.
+
+Authorities have initiated an investigation to identify the individual responsible for creating and disseminating the false audio clip. Legal action will be taken against the perpetrator, the statement further clarified.
+
+◼️
+
+[Data](articles/a13181e2.json)
+
+---
+
 ### கல்கிசையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது
 
 *2025-01-04 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202947) · `ta`
@@ -394,6 +448,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Navy seizes 11.3 kg of gold, arrests three suspects
+
+*2025-01-04 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104714/navy-seizes-113-kg-of-gold-arrests-three-suspects) · `en`
+
+The Sri Lanka Navy has arrested three suspects with 11.3 kg of gold who were attempting to smuggle it out of Sri Lanka at the sea area off Baththalangunduwa.
+
+The raid was conducted based on information received by naval units.
+
+◼️
+
+[Data](articles/1c157dea.json)
+
+---
+
 ### மாணவர்களிடையே சுவாச நோய்கள் பரவும் அபாயம்
 
 *2025-01-04 12:16:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களிடையே-சுவாச-நோய்கள்-பரவும்-அபாயம்/175-349733) · `ta`
@@ -463,6 +531,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/3baa690f.json)
+
+---
+
+### Prof. Jeewandara addresses concerns over new virus outbreak in China
+
+*2025-01-04 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104713/prof-jeewandara-addresses-concerns-over-new-virus-outbreak-in-china) · `en`
+
+Prof. Chandima Jeewandara, the Director of the Allergy, Immunology and Cell Biology Unit of the University of Sri Jayawardenapura, has addressed the rising concerns over a new wave of respiratory infections in China.
+
+Posting on ‘X’ (formerly Twitter), Prof. Jeewandara shared his insights after receiving numerous calls on the topic, emphasizing that respiratory infections are common during winter and typically not a cause for alarm.
+
+He explained, “While HMPV (Human Metapneumovirus) is driving a rise in respiratory infections, it is neither a new virus nor a looming pandemic threat. Seasonal spikes are expected, particularly as people reacclimate to common pathogens after Covid-19 lockdowns.”
+
+Prof. Jeewandara further added, “HMPV typically clears up within a week, but it’s important for young children, older adults, and those with existing health conditions to stay cautious. Following preventive measures can reduce the risk of infections.”
+
+◼️
+
+[Data](articles/f1331186.json)
 
 ---
 
@@ -1745,99 +1831,5 @@ Most political parties in Sri Lanka have  had their own newspapers historically,
 ...
 
 [Data](articles/f3dc577c.json)
-
----
-
-### ஏப்ரலில் உள்ளூராட்சி மன்ற தேர்தல் நடைபெறும்?
-
-*2025-01-03 19:59:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரலில்-உள்ளூராட்சி-மன்ற-தேர்தல்-நடைபெறும்/175-349708) · `ta`
-
-உள்ளூராட்சி மன்ற தேர்தல் பெரும்பாலும் ஏப்ரலில் நடைபெறும் என்று, தேர்தல்கள் ஆணைக்குழு வட்டாரங்கள் தெரிவிக்கின்றன.
-
-உள்ளூராட்சி மன்ற தேர்தலுக்கான விசேட ஏற்பாடுகள் சட்டமூலம் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டுள்ள போதிலும், எதிர்வரும் மார்ச் மாதம் சாதாரண தர பரீட்சை நடைபெறவுள்ளதால் அந்த மாதத்தில் தேர்தலை நடத்த முடியாது என தெரியவந்துள்ளது.
-
-உள்ளூராட்சி மன்ற தேர்தலுக்கான புதிய வேட்புமனுக்களை கோருவதற்கான உள்ளூராட்சி மன்ற தேர்தல்கள் (விசேட ஏற்பாடுகள்) சட்டமூலம் தொடர்பான வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
-
-இந்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டு ஒரு வாரத்தின் பின்னர் பாராளுமன்றத்தில் (முதல் வாசிப்பு) சமர்ப்பிக்க முடியும்.
-
-ஆட்சேபனைகள் எதுவும் தெரிவிக்கப்படாவிட்டால், இரண்டு வாரங்களுக்குப் பிறகு பிரேரணை மீது விவாதம் நடத்தப்படும். ஆட்சேபனைகள் எழுந்தால், அது தொடர்பாக முடிவெடுக்க மேலும் ஒரு வார கால அவகாசம் வழங்கப்படும்.
-
-...
-
-[Data](articles/d93d900f.json)
-
----
-
-### ஒபெல்காவிடம் அதிர்ச்சி தோல்வி அடைந்து பிறிஸ்பேன் டென்னிஸ்ஸிலிருந்து வெளியேறினார் ஜோகோவிச்
-
-*2025-01-03 19:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/202916) · `ta`
-
-பிறிஸ்பேனில் நடைபெற்றுவரும் வருடத்தின் முதலாவது ஏரிபி பிறிஸ்பேன் சர்வதேச டென்னிஸ் சம்பியன்ஷிப்பில் ஆடவருக்கான ஒற்றையர் கால் இறுதிப் போட்டியில் அமெரிக்கா வீரர் ரெய்லி ஒபெல்காவிடம் முதல் நிலை வீரர் நோவாக் ஜோகோவிச் அதிர்ச்சி தோல்வி அடைந்து வெளியேறினார்.
-
-உலக தரவரிசையில் 293ஆவது இடத்தில் இருக்கும் வீரர் ஒருவரிடம் ஜோகோவிச் தனது டென்னிஸ் வாழ்க்கையில் தோல்வி அடைந்தது இதுவே முதல் தடவையாகும்.
-
-ஜோகோவிச் தனது 100ஆவது ஏரிபி சம்பியன் பட்டத்திற்கு குறிவைத்து பிறிஸ்பேன் சர்வதேச டென்னிஸ் போட்டியில் பங்குபற்றிவந்தார்.
-
-கால் இறுதிப் போட்டியின் முதல் செட்டில் ஒபெல்காவும் ஜோகோவிச்சும் ஒருவருக்கொருவர் சளைக்காமல் விளையாடி கடும் போட்டித்தன்மையை ஏற்படுத்தினர்.
-
-இறுதியில் சமநிலை முறிப்பு முறையில் 7 (8) - 6 (6) என்ற புள்ளிகள் கணக்கில் ஒபெல்கா வெற்றிபெற்றார்.
-
-முதல் செட்டில் தோல்வி அடைந்ததால் ஜோகோவிச், இரண்டாவது செட்டில் சிறு தடுமாற்றத்துடன் விளையாடினார்.
-
-...
-
-[Data](articles/1be1dc1b.json)
-
----
-
-### இந்திய ரோலரைக் கட்டுப்படுத்துங்கள் - இல்லையேல் நெடுந்தீவை இந்தியாக்கு வழங்குங்கள்!
-
-*2025-01-03 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/202915) · `ta`
-
-நெடுந்தீவு கடற்பரப்பில்  இந்திய அத்து மீறிய ரோலர் படகுகளை  தடுத்து நிறுத்துவதற்கு இயலாது விட்டால் எம்மை வேறொரு பிரதேசத்திற்கு மாற்றி விட்டு நெடுந்தீவை இந்தியாவுக்கு வழங்கி விடுங்கள் என நெடுந்தீவு இளம்பிறை கடற்தொழிலாளர் கூட்டுறவு சங்கத்தின் தலைவரும் சமாச பிரதிநிதியுமான சத்தியாம்பிள்ளை தோமாஸ் தெரிவித்தார்.
-
-வெள்ளிக்கிழமை (3) யாழ்ப்பாணம் மாவட்ட கடற்தொழிலாளர் கூட்டுறவு சங்க சமாசத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின்போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-அவர் மேலும் தெரிவிக்கையில், நெடுந்தீவு கடற்பரப்பில் பல வருட காலமாக இந்தியா அத்து மீறிய இழுவை படகுகளினால் எமது மீனவர்கள் பாரிய இன்னல்களை அனுபவித்து வருகின்றனர்.
-
-கடந்த 29 ஆம் திகதியும் இந்தியா அத்துமீறிய இழுவைப் படகுகளினால், எமது 30 மீனவர்களின் சுமார் நாற்பதாயிரம் ரூபாய் பெறுமதியான வலைகள் அறுத்துச் செல்லப்பட்டுள்ளது.
-
-எமது மீனவர்கள் தமது வாழ்வாதாரத்தை கொண்டு செல்ல முடியாத அளவிற்கு இந்திய ரோலர்களினால் துன்பங்களை அனுபவித்து வருகின்றனர்.
-
-...
-
-[Data](articles/133e3fd3.json)
-
----
-
-### தேசிய இனப்பிரச்சினைக்கு ஏற்புடைய தீர்வை வழங்காதவரை தமிழ் மக்கள் தேசிய மக்கள் சக்தியை நம்பப்போவதில்லை - சி.வி.விக்னேஸ்வரன்
-
-*2025-01-03 19:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/202914) · `ta`
-
-தேர்தல் முடிவுகள் எமது மக்கள் தமிழ்த்தேசியத்தை நிராகரித்திருக்கிறார்கள் என்பதைக் காண்பிக்கவில்லை. இம்முறை வடக்கில் தமிழ் தரப்பினருக்கு அளிக்கப்பட்ட வாக்குகளில் வீழ்ச்சி ஏற்படவில்லை. இருப்பினும் அவ்வாக்குகள் தமிழ்க்கட்சிகள் மற்றும் சுயேட்சைக்குழுக்களுக்குப் பகிர்ந்தளிக்கப்பட்டிருக்கின்றன.
-
-இந்நிலையில் எதிர்வருங்காலங்களில் தமிழ் மக்களின் அரசியல் பிரச்சினைகளை தேசிய மக்கள் சக்தி அரசாங்கம் எவ்வாறு கையாளப்போகிறது என்பதிலேயே அதற்கான ஆதரவு தங்கியிருக்கிறது. இனப்பிரச்சினைக்கு ஏற்றுக்கொள்ளத்தக்க நியாயமான தீர்வு வழங்கப்படாதவரை, தமிழர்கள் தேசிய மக்கள் சக்தியை நம்பப்போவதில்லை என தமிழ் மக்கள் கூட்டணியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
-
-வாராந்த கேள்வி - பதில் பகுதியில் அண்மையில் நடைபெற்றுமுடிந்த பொதுத்தேர்தலில் வட, கிழக்கு மாகாணங்களில் தேசிய மக்கள் சக்தியின் வெற்றிக்கு என்ன காரணம் என எழுப்பப்பட்டிருக்கும் கேள்விக்கு மேற்கண்டவாறு பதிலளித்திருக்கும் விக்னேஸ்வரன், அதுபற்றி மேலும் கூறியிருப்பதாவது:
-
-...
-
-[Data](articles/ea7e2aa0.json)
-
----
-
-### வீதியோர சிறு வியாபாரங்கள் அகற்றப்படுவதாக வெளியான செய்தியில் உண்மை இல்லை -  நளிந்த ஜயதிஸ்ஸ
-
-*2025-01-03 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202904) · `ta`
-
-“கிளீன் ஸ்ரீலங்கா” தேசிய வேலைத்திட்டத்துக்கமைய வீதியோர சிறு வியாபாரங்கள் அகற்றப்படுவதாகவும், அவ்வாறு வியாபார நடவடிக்கைகளை மேற்கொள்பவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் வெளியாகியுள்ள செய்தியில் எவ்வித உண்மையும் இல்லை என சுகாதார மற்றும் வெகுசன ஊடக அமைச்சர் வைத்தியர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-அரசாங்க தகவல் திணைக்களத்தில் வெள்ளிக்கிழமை (03) இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பின் போதே அவர் இவ்வாறு குறிப்பிட்டார்.
-
-பெரும்பான்மையான மக்களின் விருப்பிற்கு மதிப்பளித்து ஆட்சியமைத்துள்ள புதிய அரசாங்கம், ஜனாதிபதியின் தலைமைத்துவத்தின் கீழ் புதிய தேசிய வேலைத்திட்டம் ஒன்றை முன்னெடுத்துள்ளது. 24 அமைச்சுக்களையும் உள்ளடக்கிய வகையில் நாட்டிற்கு சிறந்த அடித்தளத்தை இடும் நோக்குடன் புதிய வரவு - செலவு திட்டம் சமர்ப்பிக்கப்பட உள்ளது. நாட்டின் சமூக, பொருளாதார, கலாச்சாரம் என்ற அனைத்துப் அலகுகளையும் மீள கட்டியெழுப்புவதற்கு ஓர் உணர்வுபூர்வமான தேசிய திட்டத்துக்கமைய எமது கடமைகளை முன்னெடுத்துள்ளோம்.
-
-...
-
-[Data](articles/87bf3f99.json)
 
 ---

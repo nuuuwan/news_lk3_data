@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 07:30:01**
+As of **2025-01-04 08:03:49**
 
 ## Newspaper Stats
 
-*Scraped **63,576** Articles*
+*Scraped **63,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 640
 bbccomsinhala | 668
-islandlk | 3,866
+islandlk | 3,868
 economynextcom | 3,876
 dailyftlk | 4,430
 dailymirrorlk | 4,733
@@ -26,11 +26,35 @@ adaderanasinhalalk | 10,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,576 articles have been extended.
+61,971 (97.5%) of 63,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Abbotsleigh Tea Estate in landmark achievement
+
+*2025-01-04 07:00:00* · [`islandlk`](http://island.lk/abbotsleigh-tea-estate-in-landmark-achievement/) · `en`
+
+Abbotsleigh estate is situated in the central province and the overall factory operations are spearheaded by Mr. Suranga Dela – Deputy General Manager.
+
+Abbotsleigh estate is the prime property of Hatton Plantations PLC managed by Mr. Menaka Athukorala – Managing Director.
+
+This Estate sells its production of prime CTC high grown teas, under the selling mark of “Florence” which is well known and established among local and international consumers.
+
+Abbotsleigh tea estate produced and sold the highest quantity of 2,029,990 Kgs for the year 2024. This is the highest quantity sold by a factory which is operating in the High / Medium category.
+
+Uber Eats joins hands with SOS Children’s Villages Sri Lanka to support child nutrition
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/d9a47c59.json)
+
+---
 
 ### වැලිගම පස් දෙනෙකුට වෙඩි තැබීමක්
 
@@ -1785,23 +1809,5 @@ Wijesinghe congratulated the team on their expansion initiatives and “undersco
 ◼️
 
 [Data](articles/a6231d11.json)
-
----
-
-### New Navy Commander calls on Deputy Minister of Defence
-
-*2025-01-03 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104695/new-navy-commander-calls-on-deputy-minister-of-defence-) · `en`
-
-The newly appointed Commander of the Sri Lanka Navy, Vice Admiral Kanchana Banagoda has paid a courtesy call on the Deputy Minister of Defence, Major General Aruna Jayasekara (Retd), yesterday (02 Jan) at his office.
-
-This marks Vice Admiral Banagoda’s first official meeting with the Deputy Minister since assuming command as the 26th Commander of the Navy, the Ministry of Defence said in a statement.
-
-During the meeting, the Deputy Minister congratulated Vice Admiral Banagoda on his appointment and emphasized several key priorities for the Navy under his leadership.
-
-These priorities focus on maintaining operational excellence while adhering to the highest standards of governance and accountability, the statement added.
-
-...
-
-[Data](articles/a84063c3.json)
 
 ---

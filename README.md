@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 06:49:13**
+As of **2025-01-04 07:30:01**
 
 ## Newspaper Stats
 
-*Scraped **63,572** Articles*
+*Scraped **63,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,45 @@ newsfirstlk | 363
 dbsjeyarajcom | 466
 colombotelegraphcom | 640
 bbccomsinhala | 668
-islandlk | 3,864
+islandlk | 3,866
 economynextcom | 3,876
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,774
-tamilmirrorlk | 9,108
+tamilmirrorlk | 9,109
 virakesarilk | 10,604
-adaderanasinhalalk | 10,975
+adaderanasinhalalk | 10,976
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,572 articles have been extended.
+61,971 (97.5%) of 63,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### වැලිගම පස් දෙනෙකුට වෙඩි තැබීමක්
+
+*2025-01-04 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205011) · `si`
+
+වැලිගම පොලිස් වසමේ කප්පරතොට වල්ලිවෙල මාර්ගයේ පා ගමනින් ගමන්කරමින් සිටි පුද්ගලයන් පස් දෙනෙකුට වෙඩිතබා ඇති බව පොලීසිය පවසයි.
+
+යතුරුපැදි තුනකින් පැමිණි නාඳුනන පිරිසක් විසින් අද (4) අළුයම 1ට පමණ මෙම වෙඩි තැබීම සිදුකර පලාගොස් ඇත.
+
+කෙසේ නමුත් මින් වෙඩි වැදී ඇත්තේ පුද්ගලයන් දෙදෙනෙකුට පමණක් වන අතර, ඉන් එක් පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+තුවාල ලැබූ පුද්ගලයා වැලිගම වලාන රෝහල වෙත රැගෙන ගොස්, පසුව මාතර මහ රෝහල වෙත මාරුකර යවා තිබේ.
+
+වෙඩි වැදීමෙන් මියගොස් ඇත්තේ කප්පරතොට ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි පුද්ගලයෙකු වන අතර, තුවාල ලැබූ පුද්ගලයා ද එම ප්‍රදේශයේම පදිංචි 29 හැවිරිදි පුද්ගලයෙක් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/13a9838a.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට අද රාත්‍රියේ තද වැසි
 
@@ -171,6 +191,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/128758b6.json)
+
+---
+
+### மின்சாரம் தாக்கி குடும்பஸ்தர் பலி
+
+*2025-01-04 02:43:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-தாக்கி-குடும்பஸ்தர்-பலி/175-349713) · `ta`
+
+இந்தச் சம்பவம் வவுனியா குடியிருப்பு பிள்ளையார் ஆலயத்தில் நேற்று (03) மாலை இடம்பெற்றுள்ளது.
+
+குறித்த ஆலயத்தில் அமைந்துள்ள கேணியைத் துப்புரவாக்கும் பணியில் தொண்டர்கள் ஈடுபட்டிருந்தனர். இதன்போது நீர் இறைக்கும் இயந்திரத்தில் இருந்து மின்கசிவு ஏற்பட்டமையால் குடும்பஸ்தர் ஒருவர் படுகாயமடைந்தார்.
+
+அவர் உடனடியாக மீட்கப்பட்டு வவுனியா மாவட்ட பொது வைத்தியசாலையில் சேர்க்கப்பட்டார். எனினும், அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/50ac568a.json)
 
 ---
 
@@ -341,6 +377,20 @@ The event commenced with an engaging session by Colombo Community Policing Divis
 ...
 
 [Data](articles/dc003432.json)
+
+---
+
+### Uber Eats joins hands with SOS Children’s Villages Sri Lanka to support child nutrition
+
+*2025-01-04 01:52:00* · [`islandlk`](http://island.lk/uber-eats-joins-hands-with-sos-childrens-villages-sri-lanka-to-support-child-nutrition/) · `en`
+
+Uber Eats, Sri Lanka’s leading food and grocery delivery platform, has partnered with SOS Children’s Villages Sri Lanka, a renowned international non-governmental organization, to support vulnerable children across the country. Uber Eats has donated LKR 1 million to provide daily meals and essential care to children without parental support. Additionally, the partnership empowers Sri Lankans to make a difference by donating meals through the Uber Eats app.
+
+For more than four decades, SOS Children’s Villages Sri Lanka has supported vulnerable children by providing them the care, relationships and support they need to become their strongest selves. More than 4000 children in Sri Lanka have benefited from one or more programs offered by the organization. It will use the funds contributed by Uber Eats to provide daily meals and maintain the facilities on ground.
+
+...
+
+[Data](articles/cf80e7d6.json)
 
 ---
 
@@ -1753,55 +1803,5 @@ These priorities focus on maintaining operational excellence while adhering to t
 ...
 
 [Data](articles/a84063c3.json)
-
----
-
-### Mahinda Samarasinghe to continue as Sri Lanka’s Ambassador to US
-
-*2025-01-03 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104694/mahinda-samarasinghe-to-continue-as-sri-lankas-ambassador-to-us) · `en`
-
-The Ministry of Foreign Affairs announced that Sri Lanka’s Ambassador to the United States, Mahinda Samarasinghe, will continue to serve in that position due to ongoing discussions with the International Monetary Fund (IMF).
-
-The government had decided to recall 16 ambassadors and high commissioners who received political appointments in the past.
-
-However, when inquired by “Ada Derana,” the Ministry of Foreign Affairs said that the government has decided to retain Mahinda Samarasinghe in that position.
-
-Nevertheless, the Ministry of Foreign Affairs further stated that steps have been taken to recall certain diplomats and officials back to Sri Lanka with the aim of making the diplomatic service an active service.
-
-◼️
-
-[Data](articles/b338e4b0.json)
-
----
-
-### Colombo HC extends suspension on Keheliya and family’s assets
-
-*2025-01-03 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104693/colombo-hc-extends-suspension-on-keheliya-and-familys-assets) · `en`
-
-The Colombo High Court today (3) extended the suspension order issued on the bank accounts and life insurance policies of former Health Minister Keheliya Rambukwella and his family members, for an additional three months.
-
-The extension was granted following a request from the Bribery Commission.
-
-Previously, the court had issued an order suspending the fixed deposits and life insurance policies valued at over Rs. 97 million, belonging to Rambukwella, his wife, daughters, and relatives, as part of an ongoing investigation by the Commission.
-
-The restraining order, which was set to expire today, has now been extended until April 2 by the court.
-
-◼️
-
-[Data](articles/0846b10c.json)
-
----
-
-### விமல் வீரவன்ச சிஐடியில் ஆஜர்
-
-*2025-01-03 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/202865) · `ta`
-
-முன்னாள் அமைச்சர் விமல் வீரவன்ச இன்று வெள்ளிக்கிழமை (03) குற்றப்புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளார்.
-
-2022 ஆம் ஆண்டு மார்ச் 3 ஆம் திகதி தொலைக்காட்சி நிகழ்ச்சியொன்றில் தெரிவித்த கருத்துக்கள் தொடர்பில் வாக்குமூலம் வழங்குவதற்காக அவர் குற்றப் புலனாய்வு திணைக்களத்தில் முன்னிலையாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/dcef5cbc.json)
 
 ---

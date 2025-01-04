@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 08:40:11**
+As of **2025-01-04 08:51:35**
 
 ## Newspaper Stats
 
-*Scraped **63,578** Articles*
+*Scraped **63,582** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 466
-colombotelegraphcom | 640
+colombotelegraphcom | 641
 bbccomsinhala | 668
-islandlk | 3,868
+islandlk | 3,871
 economynextcom | 3,876
 dailyftlk | 4,430
 dailymirrorlk | 4,733
@@ -26,11 +26,41 @@ adaderanasinhalalk | 10,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,578 articles have been extended.
+61,971 (97.5%) of 63,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### CSE’s 26-day bull-run ends; indices slump into negativity
+
+*2025-01-04 07:06:00* · [`islandlk`](http://island.lk/cses-26-day-bull-run-ends-indices-slump-into-negativity/) · `en`
+
+The stock market kicked off on a positive note yesterday but later noted profit- takings following a 26- day bull- run. Consequently, both indices became negative, stock market analysts said.
+
+The stocks were on a bull run amid low interest rates and banks were awash with excess liquidity in the last quarter making margin loans cheap. The market also has had positive news, in the form of improvements in the banking sector and the conclusion of debt restructuring.
+
+All stocks in the S&P Sri Lanka 20 are classified according to the Global Industry Classification Standard, which was co-developed by S&P Dow Jones Indices and MCSI and is widely used by market participants throughout the world.
+
+...
+
+[Data](articles/a7a59e3d.json)
+
+---
+
+### Browns Hotels & Resorts wins International Gold Accolade at Green Apple Environment Awards 2024
+
+*2025-01-04 07:01:00* · [`islandlk`](http://island.lk/browns-hotels-resorts-wins-international-gold-accolade-at-green-apple-environment-awards-2024/) · `en`
+
+Browns Hotels & Resorts (BHR) was recently awarded the prestigious International Gold Winner title in the Hospitality & Travel: Conservation & Wildlife category at the Green Apple Environment Awards 2024, held at Kensington Palace, London. This recognition celebrates BHR’s exemplary mangrove conservation efforts, particularly its Ratha Milla (Lumnitzera littorea) project, spearheaded by Thaala Bentota Resort in collaboration with the Department of Wildlife Conservation.
+
+The Ratha Milla, a critically endangered mangrove species native to Sri Lanka, was rediscovered in the Bentota estuary and Dedduwa lagoon after being unrecorded for over a century. Previously believed to be limited to the Madu River Ramsar Wetland, recent ecological studies have identified over 100 young plants, aged 10 to 20 years, marking a significant milestone in biodiversity conservation.
+
+...
+
+[Data](articles/b139764a.json)
+
+---
 
 ### Abbotsleigh Tea Estate in landmark achievement
 
@@ -53,6 +83,18 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/d9a47c59.json)
+
+---
+
+### Nimal Gunewardena announces exit from NGage Strategic Alliance, entrusting legacy to Sheron Jayasundara
+
+*2025-01-04 06:59:00* · [`islandlk`](http://island.lk/nimal-gunewardena-announces-exit-from-ngage-strategic-alliance-entrusting-legacy-to-sheron-jayasundara/) · `en`
+
+Nimal Gunewardena, the visionary founder of Sri Lanka’s pioneering Integrated Marketing Communications (IMC) and Public Relations (PR) agency, announced his exit from the Agency he founded in 1993, now rebranded as NGage Strategic Alliance (formerly Bates Strategic Alliance). In a strategic move to ensure continuity and growth, Gunewardena has transferred his equity in the business to the current CEO, Sheron Jayasundara, entrusting her with the mantle to carry forward the agency’s distinguished legacy for the benefit of its talented team and valued clients.
+
+...
+
+[Data](articles/6e16b2c9.json)
 
 ---
 
@@ -215,6 +257,18 @@ Save my name, email, and website in this browser for the next time I comment.
 ...
 
 [Data](articles/128758b6.json)
+
+---
+
+### Promoting Local Private University Education
+
+*2025-01-04 03:06:12* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/promoting-local-private-university-education/) · `en`
+
+A recent flare up by the university students which appeared in the media is causing alarm about a possible new campaign to be started by student organizations against the establishment of Private Universities. This country has experienced such agitations over a long period of time emerging off and on. The agitators while opposing the setting up of any private University in the country categorically demonstrated their opposition to the Kotelawala Defense University now engaged in higher Medical Education. This sudden outburst after a long silence immediately arising in the wake of the formation of a new government, the leaders of which were very much in control of the university student movement of the country, adds to the consternation.
+
+...
+
+[Data](articles/2ca9ad94.json)
 
 ---
 
@@ -1741,73 +1795,5 @@ Yoshitha Rajapaksa arrived at the CID at around 10.00 a.m. this morning (03) to 
 ◼️
 
 [Data](articles/99a14f69.json)
-
----
-
-### CEAT India team, EDB discuss trade expansion in Sri Lanka
-
-*2025-01-03 12:44:00* · [`economynextcom`](https://economynext.com/ceat-india-team-edb-discuss-trade-expansion-in-sri-lanka-197806/) · `en`
-
-ECONOMYNEXT – A delegation from CEAT, an RPG India company, has met with Sri Lanka’s Export Development Board to discuss expanding CEAT’s presence in the island by diversifying its product portfolio in the rubber sector.
-
-CEAT CEO Arnab Banerjee met EDB chairman Mangala Wijesinghe, recently at the EDB Head Office in Colombo.
-
-“The delegation expressed interest in expanding CEAT’s presence in Sri Lanka by diversifying its product portfolio in the rubber sector,” EDB said.
-
-“Highlighting the company’s recent acquisition, Banerjee elaborated on the CAMSO brand, which is produced in Sri Lanka under RPG’s ownership.”
-
-Banerjee provided an overview of RPG’s operations across various sectors, including agriculture, engineering, and rubber.
-
-Wijesinghe congratulated the team on their expansion initiatives and “underscored additional investment opportunities in Sri Lanka, particularly in sectors such as pharmaceuticals, ICT, agriculture, and logistics”.
-
-...
-
-[Data](articles/35107a53.json)
-
----
-
-### CIDයට ආ යෝෂිත එළියට එයි
-
-*2025-01-03 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204990) · `si`
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට අද (3) පෙරවරුවේ පැමිණි හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ දෙවැනි පුත් යෝෂිත රාජපක්ෂ මහතා ඉන් පිටව ගොස් තිබේ.
-
-කතරගම පිහිටි රජයේ ඉඩමක හිමිකාරීත්වය සම්බන්ධයෙන් ප්‍රකාශයක් ලබා ගැනීම ඔහු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවනු ලැබූ අතර, ඒ සඳහා ඔහු අද උදෑසන 10ට පමණ පැමිණියේය.
-
-◼️
-
-[Data](articles/b5554f7b.json)
-
----
-
-### යොෂිත රාජපක්ෂ CID යට
-
-*2025-01-03 12:38:41* · [`adalk`](https://www.ada.lk/breaking_news/යොෂිත-රාජපක්ෂ-CID-යට/11-413992) · `si`
-
-හිටපු ජනපතිගේ පුත්‍රයකු වන යෝෂිත රාජපක්ෂ අද (03) පෙරවරුවේ අපරාධ පරීක්ෂණ දෙපාර්ථමේන්තුවට පැමිණ තිබෙනවා.
-
-කතරගම ප්‍රදේශයේ පිහිටි ඉඩමක හිමිකාරීත්වය සම්බන්ධ ප්‍රකාශයක් ලබාගැනීම සඳහා ඔහුව අපරාධ පරීක්ෂණ දෙපාර්ථමේන්තුව වෙත කැධවා ඇතිබව වාර්ථා වනවා.
-
-◼️
-
-[Data](articles/cf8a00db.json)
-
----
-
-### இலங்கையில் வருடாந்த பிறப்பு வீதம் கணிசமாக வீழ்ச்சி!
-
-*2025-01-03 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202863) · `ta`
-
-இலங்கையில் வருடாந்த பிறப்பு வீதம் கணிசமான வீழ்ச்சியை பதிவு செய்துள்ளதாக குழந்தை நல மருத்துவ ஆலோசகர் வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
-
-இலங்கையின் வருடாந்த பிறப்பு வீதம் 350,000  இருந்து 250,000 ஆக குறைந்துள்ளதாக அவர் தெரிவித்துள்ளார்.
-
-ஆட்டிசம் மட்டுமின்றி புற்றுநோய், நீரிழிவு நோய் போன்ற நோய்களும் குழந்தைகளை அதிகம் பாதிப்பதாக தெரியவந்துள்ளதாக அவர்  தெரிவித்துள்ளார்.
-
-எனவே தற்போதைய சூழ்நிலையில் சிறுவர்கள் பாதுகாக்கப்பட வேண்டும் எனவும் அவர் மேலும் வலியுறுத்தியுள்ளார்.
-
-◼️
-
-[Data](articles/a6231d11.json)
 
 ---

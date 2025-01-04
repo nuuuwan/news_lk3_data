@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 20:13:37**
+As of **2025-01-04 20:27:43**
 
 ## Newspaper Stats
 
-*Scraped **63,657** Articles*
+*Scraped **63,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
-adaderanalk | 7,787
+adaderanalk | 7,788
 tamilmirrorlk | 9,123
 virakesarilk | 10,617
 adaderanasinhalalk | 10,994
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,994
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,657 articles have been extended.
+61,971 (97.3%) of 63,658 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/681fc511.json)
+
+---
+
+### World’s oldest person Tomiko Itooka dies at 116 in Japan
+
+*2025-01-04 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104720/worlds-oldest-person-tomiko-itooka-dies-at-116-in-japan) · `en`
+
+A Japanese woman, recognised as the world’s oldest person by Guinness World Records, has died aged 116.
+
+Tomiko Itooka died in a nursing home in the city of Ashiya, Hyogo Prefecture, according to officials.
+
+She became the oldest person in the world after Spain’s Maria Branyas Morera passed away in August 2024 at age 117.
+
+“Ms Itooka gave us courage and hope through her long life,” Ashiya’s 27-year-old mayor Ryosuke Takashima said in a statement.
+
+Ms Itooka was born in May 1908 – six years before the World War One and the same year that the Ford Model T car was launched in the US.
+
+She was verified as the world’s oldest person in September 2024 and was presented with the official GWR certificate on the Respect for the Aged Day, which is a Japanese public holiday celebrated annually to honour the country’s elderly citizens.
+
+Ms Itooka, who was one of three siblings, lived through world wars and pandemics as well as technological breakthroughs.
+
+...
+
+[Data](articles/7f47147c.json)
 
 ---
 
@@ -1835,23 +1859,5 @@ The government has announced new restrictions on marketing food and beverages fo
 ...
 
 [Data](articles/d0aa4ff8.json)
-
----
-
-### 2025-01-03 (Friday)
-
-### System change and ushering value-based society
-
-*2025-01-03 23:38:42* · [`dailyftlk`](https://www.ft.lk/columns/System-change-and-ushering-value-based-society/4-771369) · `en`
-
-A society devoid of values will always be engaged in trying to expose truths as lies and vice versa
-
-Political leaders, religious leaders and civil society leaders should strive to live, practice and promote values and be examples to others in a society. The cause for propagating lies as truth, and truth as lies, are manifestation of a society without values. If a society has moral values, ethical behaviour, fairness, honesty, and integrity, and people live a value-based life, truth will always prevail as lying will have a very limited use in such a society
-
-“You have the complete right to convince any truth as a lie and any lie as a truth. That is your democratic right. You have the right to see the negative side when the government is doing something good. And also, you have the right to praise when a leader, government, institution or an individual is doing something harmful to society” – NPP Member of Parliament Nilanthi Kottahachchi
-
-...
-
-[Data](articles/7f35f994.json)
 
 ---

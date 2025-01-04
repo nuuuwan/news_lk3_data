@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 13:01:18**
+As of **2025-01-04 13:12:58**
 
 ## Newspaper Stats
 
-*Scraped **63,612** Articles*
+*Scraped **63,613** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 466
+dbsjeyarajcom | 467
 colombotelegraphcom | 641
 bbccomsinhala | 669
 islandlk | 3,871
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,982
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,612 articles have been extended.
+61,971 (97.4%) of 63,613 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1022,6 +1022,20 @@ For more than four decades, SOS Children’s Villages Sri Lanka has supported vu
 
 ---
 
+### 
+
+*2025-01-04 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85298) · `en`
+
+தேசிய மக்கள் சக்தி அரசாங்கத்தின் உத்தேச அரசியலமைப்பும் 13 வது திருத்தமும்: 13 வது திருத்தத்தில் உள்ள அதிகாரப்பரவலாக்கல் அளவு புதிய அரசியலமைப்பில் சேர்த்துக் கொள்ளப்படுமா இல்லையா என்பதே முக்கியமான கேள்வியாகும்.
+
+இலங்கையின் புதிய ஜனாதிபதி அநுரா குமார திசாநாயக்க டிசம்பர் 15 — 17 இந்தியாவுக்கு தனது முதலாவது உத்தியோகபூர்வ விஜயத்தை வெற்றிகரமாக முடித்துக்காண்டு நாடுதிரும்பினார். புதுடில்லிக்கான அவரின் மூன்று நாள்விஜயத்தின் காட்சிகள் நேர்மறையாக பாராட்டப்பட்டிருக்கின்றன. ஜனாதிபதி திசாநாயக்க ஜனதா விமுக்தி பெரமுனவினதும் ( ஜே.வி.பி.) அதன் தலைமையிலான தேசிய மக்கள் சக்தியினதும் தலைவராக இருக்கிறார்.
+
+...
+
+[Data](articles/d0aa4ff8.json)
+
+---
+
 ### 2025-01-03 (Friday)
 
 ### System change and ushering value-based society
@@ -1775,23 +1789,5 @@ A bond maturing on 15.05.2030 closed stable at 10.95/11.05 percent. (Colombo/Jan
 ◼️
 
 [Data](articles/13aa09a2.json)
-
----
-
-### Colombo stock market dips after 26-day historic growth run
-
-*2025-01-03 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104701/colombo-stock-market-dips-after-26-day-historic-growth-run) · `en`
-
-Following an unprecedented 26-day rally, the Colombo Stock Exchange (CSE) faced a significant decline today (03), with the key indices recording sharp drops.
-
-The All Share Price Index (ASPI) declined by 299.13 points to close at 16,049.42, while the S&P SL20 Index fell by 46.05 points, ending the session at 4,925.82.
-
-A turnover of Rs. 11.48 billion was recorded during the day, with Browns Investments contributing Rs. 1.03 billion, followed by John Keells Holdings (Rs. 882 million), HNB (Rs. 401 million), Sampath Bank (Rs. 350 million), and LOLC Holdings (Rs. 305 million).
-
-The downturn was attributed to falling share prices in Sampath Bank, Commercial Bank, LOLC Holdings, Melstacorp, and Hayleys. In total, 189 companies recorded lower share prices compared to the previous trading day.
-
-◼️
-
-[Data](articles/eb29a39c.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 17:27:38**
+As of **2025-01-04 17:47:03**
 
 ## Newspaper Stats
 
-*Scraped **63,641** Articles*
+*Scraped **63,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 467
 colombotelegraphcom | 642
 bbccomsinhala | 669
 islandlk | 3,874
-economynextcom | 3,878
+economynextcom | 3,881
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,075
@@ -26,11 +26,39 @@ adaderanasinhalalk | 10,990
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.4%) of 63,641 articles have been extended.
+61,971 (97.4%) of 63,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Sri Lanka coconut prices rise 18-pct, hit all time high
+
+*2025-01-04 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-rise-18-pct-hit-all-time-high-197754/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices were up 18.32 percent, recording the highest price for a coconut in the weekly auction, data from the Coconut Development Authority showed.
+
+The weekly auction was not held in a month due to a lack of nuts.
+
+Average coconut prices were up to 129,699.00 for 1,000 nuts at the auction held on January 2, from 109,615.80 at the auction in November last year.
+
+The highest price was 130,000 for 1,000 nuts while the lowest was 120,000 for 1,000 nuts.
+
+A total of 279,102 coconuts were offered at the auction and 267,138 were sold.
+
+Coconuts are retailing 174 to 190 rupees a nut at supermarkets.
+
+Wholesale prices for large nuts were 155-175 and 125-145 rupees for small nuts on January 2.
+
+Coconut oil local wholesale price was 850,000 to 880,000.00 rupees per metric ton.
+
+Farmgate prices in Kurunegala were 125,000 to 130,000 per 1,000 nuts.
+
+◼️
+
+[Data](articles/06e0554b.json)
+
+---
 
 ### சீனாவில் உள்ள இலங்கை மாணவர்களின் விபரங்கள் சேகரிப்பு
 
@@ -340,6 +368,28 @@ Delegations from China, India, the United States, Europe, and several other coun
 
 ---
 
+### Sri Lanka government firm can make a lower cost arrack for people: Minister
+
+*2025-01-04 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-firm-can-make-a-lower-cost-arrack-for-people-minister-197946/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state sugar company can produce a lower cost alcohol for the people using ethanol made as a by product, and wean the people away from illegal tipples, Industries Minister Sunil Handunetti said.
+
+Lanka Sugar, a state firm built a Rajapaksa regime by expropriating private citizens, have ended up with large stocks of unsold ethanol after tax hikes in the wake of an economic collapse led to a fall in sales of for legal arrack.
+
+“We discussed with the management, we discussed with the staff,” Minister Handunetti told reporters.
+
+“As government institute at Lanka Sugar as a lower cost product for the people – becuase if we can make up to ethanol, there is no difficultly in making an alcohol for the people.”
+
+At Lanka sugar the cost of making a litre of ethanol was about 800 to 1000 rupees, he said.
+
+“When ethanol is made with third grade maize it costs about 173 rupees a litre,” Minister Handunetti claimed.
+
+...
+
+[Data](articles/9dfbc8ec.json)
+
+---
+
 ### மாணவர்களிடையே சுவாச நோய்கள் பரவும் அபாயம்! - சுகாதார அதிகாரிகள் எச்சரிக்கை
 
 *2025-01-04 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202949) · `ta`
@@ -447,6 +497,28 @@ Authorities have initiated an investigation to identify the individual responsib
 ...
 
 [Data](articles/46de8a92.json)
+
+---
+
+### Sri Lanka rice millers are not hiding stocks: CAA Official
+
+*2025-01-04 12:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-millers-are-not-hiding-stocks-caa-official-197924/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Consumer Affairs Authority, has not found hidden stocks among millers after regular investigations conducted by the agency from around October 2024, its Acting Director General Tillekeratne Bandara said.
+
+Rice prices had tended to go up towards the end of the year in many years. Sri Lanka operates extreme nationalist autarky policies on rice and some other foods.
+
+Curtailed food freedoms of the people, particular the poor, through licensing and imports taxes, has made prices of rice about 50 percent higher than the rest of the world.
+
+“From around October the branded rice supplies reduced as I recall,” Bandara told Sri Lanka’s Derana Television.
+
+“Then our Minister and President’s attention was focused on whether there was a case of hiding stocks and we started giving weekly reports.
+
+From the around November 05, reports on rice stocks were provided, he said. Every two weeks reports are now provided to the Ministry and Presidential Secretariat.
+
+...
+
+[Data](articles/5cd0db48.json)
 
 ---
 
@@ -1771,61 +1843,5 @@ His statement comes after media reports of police evicting street vendors under 
 ...
 
 [Data](articles/f4da4014.json)
-
----
-
-### හිටපු ජනපති රනිල් නව වසරේ වැඩ අරඹයි
-
-*2025-01-03 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205007) · `si`
-
-එක්සත් ජාතික පක්ෂ නායක හා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නව වසරේ වැඩ කටයුතු අද (03) ආරම්භ කරනු ලැබීය.
-
-ඒ පිටකෝට්ටේ පිහිටි සිරිකොත පක්ෂ මූලස්ථානයේ දී සහ කොළඹ මල් පාරේ පිහිටි නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණු කාර්යාලයේදීය.
-
-මෙම අවස්ථාවට එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක රුවන් විජයවර්ධන පක්ෂ සභාපති වජිර අබේවර්ධන මහතා ඇතුලු පිරිසක් එක්ව සිටියේය.
-
-හිටපු ජනාධිපතිවරයා සිය ඉන්දීය සංචාරය අවසන් කරමින් ඊයේ (02) රාත්‍රියේ දිවයිනට පැමිණි අතර ඒ අනුව ඔහු සිය නව වසරේ කටයුතු මෙලෙස ආරම්භ කරනු ලැබීය.
-
-◼️
-
-[Data](articles/09c91477.json)
-
----
-
-### Sri Lanka Minister issues warning against media reports
-
-*2025-01-03 20:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-issues-warning-against-media-reports-197845/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Media Minister Nalinda Jayatissa warned action against media reporting which he said was not accurate and was said to have been made with malicious intentions.
-
-“While protecting the freedom of expression, the government has the right to take actions against these kinds of malicious acts,” Minister Jayatissa told reporters in Colombo on Friday.
-
-“We will protect the media freedom at its highest level, but I would like to say don’t do dirty media tricks while hiding behind the media freedom. We will not allow that.”
-
-“As a government, we will protect media freedom at its highest level. We are a government which will provide high opportunities for journalists to disseminate information to the public. We are not ready to touch media freedom by any means.”
-
-Most political parties in Sri Lanka have  had their own newspapers historically, and they now have websites and social media channels.
-
-...
-
-[Data](articles/e8ea5f45.json)
-
----
-
-### ’தூதுவர்களை நியமிக்க கால அவகாசம் தேவை’
-
-*2025-01-03 20:05:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூதுவர்களை-நியமிக்க-கால-அவகாசம்-தேவை/175-349709) · `ta`
-
-புதிய அரசாங்கம் பதவியேற்றதன் பின்னர் பல தூதுவர் மற்றும் உயர்ஸ்தானிகராலயங்களுக்கான அரசியல் நியமனங்கள் நிறுத்தப்பட்டதன் காரணமாக பல அலுவலகங்களில் வெற்றிடங்கள் ஏற்பட்டுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
-
-ஆனால், தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களை நியமிப்பது ஒரு சிக்கலான செயல் என்றும், அதற்கு நியாயமான கால அவகாசம் தேவை என்றும் வெளியுறவு அமைச்சு தெரிவித்துள்ளது.
-
-அரசியலமைப்பின் பிரகாரம், வெளிநாடுகளில் உள்ள இலங்கை தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்கள் ஜனாதிபதியினால் நியமிக்கப்படுவதாக, வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
-
-இலங்கையை பிரதிநிதித்துவப்படுத்தும் தூதுவர் அல்லது உயர்ஸ்தானிகர் ஒருவரை ஜனாதிபதி நியமிக்கும் போது, அந்த நியமனத்திற்கு அந்த நாட்டின் சம்மதத்தை பெற்றுக்கொள்ள வேண்டும் எனவும், வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.AN
-
-◼️
-
-[Data](articles/695ce86f.json)
 
 ---

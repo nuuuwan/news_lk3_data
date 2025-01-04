@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-04 10:03:06**
+As of **2025-01-04 10:15:11**
 
 ## Newspaper Stats
 
-*Scraped **63,589** Articles*
+*Scraped **63,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 466
 colombotelegraphcom | 641
 bbccomsinhala | 669
 islandlk | 3,871
-economynextcom | 3,876
+economynextcom | 3,878
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,071
 adaderanalk | 7,776
-tamilmirrorlk | 9,113
+tamilmirrorlk | 9,114
 virakesarilk | 10,604
 adaderanasinhalalk | 10,976
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 10,976
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.5%) of 63,589 articles have been extended.
+61,971 (97.5%) of 63,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-04 (Saturday)
+
+### Sri Lanka explains delay in appointing ambassadors
+
+*2025-01-04 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-explains-delay-in-appointing-ambassadors-197887/) · `en`
+
+ECONOMYNEXT – Sri Lanka has yet not appointed ambassadors to some countries from where political appointees were recalled due to the long process take to fill vacancies, a statement from the foreign minister’s office said.
+
+According to Sri Lanka’s Constitution, Sri Lankan ambassadors and high commissioners in foreign countries are appointed by the President.
+
+Then the host country’s approval, or agrément, must be obtained.
+
+Requests for obtaining that agreement will be submitted by the Ministry of Foreign Affairs to the government of that state through the Sri Lankan mission there.
+
+Various countries may take different periods to approve the nominee. “Some countries take three to four months to give that consent according to their internal procedures, while other countries do not take that much time to give that consent, requiring a month or so.”
+
+Then the appointed Ambassador or High Commissioner must appear before the Committee on High Posts of the Parliament of Sri Lanka.
+
+...
+
+[Data](articles/b7058a3f.json)
+
+---
+
+### ’சவாலை ஏற்கத் தயார்’
+
+*2025-01-04 09:57:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சவாலை-ஏற்கத்-தயார்/175-349730) · `ta`
+
+ஐக்கிய தேசிய கட்சியை பலப்படுத்துவதற்கு அர்ப்பணிப்புடன் இருப்பதாக, முன்னாள் பாராளுமன்ற உறுப்பினர்  தலதா அத்துகோரள தெரிவித்துள்ளார்.
+
+செயற்குழு தன்னை ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பதவிக்கு நியமித்தால் சவாலை ஏற்கத் தயார் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a21ffaf2.json)
+
+---
 
 ### உழைக்கும் ஊடகவியலாளர்கள் சங்கம் விடுத்த கோரிக்கை
 
@@ -139,6 +175,28 @@ The motive behind the shooting remains unknown, and Weligama Police are carrying
 ◼️
 
 [Data](articles/ba6859cf.json)
+
+---
+
+### Sri Lanka’s Inland Revenue collects Rs1,958bn in 2024, up 25-pct
+
+*2025-01-04 07:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-inland-revenue-collects-rs1958bn-in-2024-up-25-pct-197915/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Inland Revenue has collected 1,958.08 billion rupees in 2024, up 25.1 percent from, a year ago, 1,565 million, with the most coming from income and value added tax, a media report said.
+
+The department had collected 1,023.2 million rupees as income tax, up from 911.097 million in 2023, state-run Daily News quoted Commissioner General of Inland Revenue, Sepali Chandrasekera as saying.
+
+Sri Lanka had collected 714.68 billion rupees as value added tax, up from 469.1 billion rupees.
+
+Collections from the Betting and Gaming Levy was 14,923 million in 2024 up from 7,422 million rupees, which is double.
+
+Sri Lanka had also collected 3,128 million as Share Transaction Levy from stock market transactions up from 2,478 million in 2023.
+
+Sri Lanka’s Customs had said it also collected 1,500 billion rupees, in 2024, a record. (Colombo/Jan04/2024)
+
+◼️
+
+[Data](articles/83c9fde5.json)
 
 ---
 
@@ -1743,63 +1801,5 @@ In addition to this, hospital records also reveal that foreign tourists, particu
 ...
 
 [Data](articles/644c9901.json)
-
----
-
-### මන්ත්‍රි කොට්ටහච්චිට සමාජ මාධ්‍යයේ අපහාස කළ හිටපු මන්ත්‍රි අල්ලයි
-
-*2025-01-03 14:23:34* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රි-කොට්ටහච්චිට-සමාජ-මාධ්‍යයේ-අපහාස-කළ-හිටපු-මන්ත්‍රි-අල්ලයි/11-413993) · `si`
-
-ජාතික ජන බලවේගයේ කළුතර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නිලන්ති කොට්ටහච්චි මහත්මියගේ කීර්ති නාමයට හානි වන පරිදි මුහුණු පොතේ පෝස්ටුවක් පළ කළ බව කියන මිල්ලදෙනිය ප්‍රාදේශීය සභා හිටපු මන්ත්‍රීවරයකු වන ද රවීන්ද්‍ර රම්මුතු  නොහොත් කෝකිල නමැති අය අද(3)දා පෙරවරුවේ කොළඹ අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව විසින් ඔහුගේ නිවස පිහිටි බටගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
-
-නිලන්ති කොට්ටහච්චි මන්ත්‍රීවරිය කොළඹ ප්‍රසිද්ධ හෝටල් වෙත රැගෙන යන මන්ත්‍රීවරු සමග ඇය මුදලට යහන්ගත වන බවට  හිටපු ප්‍රාදේශීය සභා මන්ත්‍රීවරයා මුහුණු පොත හරහා පෝස්ටුවක් පළ කර තිබුණි. මේ පිළිබඳව මන්ත්‍රීවරියගේ නීතිඥවරු කොළඹ අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ ඒකකය වෙත පැමිණිල්ලක් කොට ඇයගේ කීර්ති නාමයට හානි පැමිණවීමට එරෙහිව නීතිමය පියවර ගන්නා ලෙස ඉල්ලා තිබුණි.
-
-ඒ අනුව මේ තැනැත්තා අත්අඩංගුවට ගැනීමට ඊයේ (2)දා ඔහු පදිංචි නිවසට ගිය අවස්ථාවේ ඔහු නිවසේ නොසිටි බව පවසන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පසුව බටගොඩ ප්‍රදේශයේදී අද ඔහු අත්අඩංගුවට ගත් බව ප්‍රකාශ කරයි.
-
-◼️
-
-[Data](articles/09185a8a.json)
-
----
-
-### Sri Lanka on alert over new virus outbreak in China
-
-*2025-01-03 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104697/sri-lanka-on-alert-over-new-virus-outbreak-in-china) · `en`
-
-The Epidemiology Unit of the Ministry of Health in Sri Lanka has announced that it is closely monitoring the situation regarding a virus that is reportedly spreading in China.
-
-In a statement issued today (03), the unit confirmed that it had received information about the virus and emphasized that further details will be shared with the public after a thorough study and analysis of the situation.
-
-China is reportedly dealing with an outbreak of the human metapneumovirus (HMPV), five years after the Covid-19 pandemic.
-
-Reports and social media posts suggest that the virus is spreading rapidly, with some claiming that hospitals and crematories are overwhelmed.
-
-Videos shared online show crowded hospitals, with some users saying that multiple viruses, including influenza A, HMPV, Mycoplasma pneumoniae, and Covid-19, are circulating.
-
-HMPV is known to cause flu-like symptoms and can also present symptoms similar to Covid-19. Health officials are closely monitoring the situation as the virus spreads.
-
-◼️
-
-[Data](articles/22402e79.json)
-
----
-
-### රටම ඉල්ලන විශේෂ මෙහෙයුම අරඹයි
-
-*2025-01-03 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/204994) · `si`
-
-මහමග ජීවිත සුරක්ෂිත කරමින් රථවාහන පාලනය හා මාර්ග ආරක්ෂාව සැලසීමේ අරමුණින් සෑම පොලිස් වසමක්ම ආවරණය කරමින් ඊයේ (2) සිට නැවත දැනුම්දෙන තුරු විශේෂ රථවාහන මෙහෙයුම් සිදුකරන ලෙස වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා සියලුම පොලිස් ස්ථාන වෙත දැනුම් දී ඇත‍.
-
-නව රජයේ ප්‍රතිපත්තියක් අනුව ක්‍රියාත්මක වන 'පොහොසත් රටක් ලස්සන ජීවිතයක් උදෙසා ක්‍රියාත්මක වන 'Clean SriLanka'ව්‍යාපෘතියට සමගාමීව මෙය සිදු වේ.
-
-එහි දැක්වෙන්නේ විවිධ නාද රටා, නිවි නිවි දැල්වෙන සවිරාම වූ විවිධ වර්ණ සහිත අමතර පහන් සවිකර ධාවනය, නීති විරෝධී සවිකිරීම, ඝෝෂාකාරී නළා සවි කිරීම්, අධික ශබ්ද සහිත සයිලන්සර්, අනතුරු, අලාභ ඉහළ යන ආකාරයෙන් අන්ත්‍රාදායක ලෙස අමතර කොටස් සවිකර ඇති රථවාහන සම්බන්ධයෙන් වැඩි අවධානයක් යොමු කළ යුතු බවයි.
-
-ඒ අනුව සෑම පොලිස් බල ප්‍රදේශයකම දිනකට පැය 03 බැගින් මෙහෙයුම් 02 ක් සිදුකළ යුතු යැයි සඳහන් කර ඇත.
-
-එමෙන්ම පොදු ප්‍රවාහන සේවා රථ පරීක්ෂා කිරීමේදී මගීන් අපහසුතාවට පත්නොවන ආකාරයෙන් කටයුතු කරන්නැයිද වැඩබලන පොලිස්පතිවරයා උපදෙස් ලබා දී තිබේ.
-
-◼️
-
-[Data](articles/8a9d6684.json)
 
 ---

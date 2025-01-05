@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 12:17:30**
+As of **2025-01-05 12:28:15**
 
 ## Newspaper Stats
 
-*Scraped **63,701** Articles*
+*Scraped **63,707** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 467
+dbsjeyarajcom | 468
 colombotelegraphcom | 642
 bbccomsinhala | 669
-islandlk | 3,874
+islandlk | 3,878
 economynextcom | 3,884
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,082
 adaderanalk | 7,794
-tamilmirrorlk | 9,137
+tamilmirrorlk | 9,138
 virakesarilk | 10,623
 adaderanasinhalalk | 11,003
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,701 articles have been extended.
+61,971 (97.3%) of 63,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### ஊதா நிற கொய்யா இனம்…
+
+*2025-01-05 12:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஊதா-நிற-கொய்யா-இனம்/76-349778) · `ta`
+
+பொகவந்தலாவ ஆரியபுர பிரதேசத்தில் வசிக்கும் கெலும் பிரதீப் என்பவரின் வீட்டில், ஊதா நிற கொய்யா வகை பழம் தருகிறது.
+
+கொய்யா மரத்தில் ஊதா நிறம், பூக்கள் மற்றும் பழங்கள் இருப்பதாகவும், வட்டவளை கிராமத்தில் வசிக்கும் தனது சகோதரியின் வீட்டில் இருந்து இந்த கொய்யா மரத்தை கொண்டு வந்து இரண்டு ஆண்டுகளுக்குப் முன்னர் நடவு செய்ததாகவும் கூறினார்.
+
+இந்தக் கொய்யா மரத்தைப் பார்ப்பதற்காக அக்கம்பக்கத்தினர் தினமும் தனது வீட்டிற்கு வருவார்கள் கெலும் பிரதீப் கூறினார்.
+
+◼️
+
+[Data](articles/2a2e98c9.json)
+
+---
+
+### Ukraine and Israel: The two flashpoints of 2024
+
+*2025-01-05 12:06:00* · [`islandlk`](http://island.lk/ukraine-and-israel-the-two-flashpoints-of-2024/) · `en`
+
+US president-elect Donald Trump recently gave a press briefing on Ukraine and Israel. On both issues he has refused to be concrete, and on both he has polarised his critics.
+
+This is somewhat unsettling in a context where Ukraine and Israel have already become, in the post-2022 conjuncture, the two most explosive geopolitical issues of our time. The world has been close to a global conflagration many times before, even after the end of the Cold War. But it has arguably never been this close. Eurasia and West Asia have been the centres of global conflict for the longest time. But now, we are seeing both on fire, and under siege, encircling each other and, with that, the rest of the world too.
+
+...
+
+[Data](articles/f45f3a67.json)
+
+---
+
+### The United States mourns the death of former President Jimmy Carter
+
+*2025-01-05 11:52:00* · [`islandlk`](http://island.lk/the-united-states-mourns-the-death-of-former-president-jimmy-carter/) · `en`
+
+An already dreadful year for the United States of America ended with more tragedy, with the death of one of the finest human beings ever to have adorned the White House. The 39th President James Earl (Jimmy) Carter Jr passed away peacefully at his home in Plains, Georgia on Sunday, December 29, surrounded by his family. He was 100-years old, the longest-lived president in US history.
+
+Born and raised in the predominantly Republican state of Georgia, Carter graduated from the US Naval Academy in 1946, and joined the Navy’s submarine service. At the end of his military service, he retuned to his home in Plains, Georgia, and revived his family’s peanut farm. He married Rosalynn Smith in 1946, with whom he enjoyed a blessed, loving union until her death, at age 96, last year.
+
+...
+
+[Data](articles/d55c0e11.json)
+
+---
 
 ### ”அகதிகளை நாடு கடத்தும் தீர்மானத்தை மீள்பரிசீலனை செய்யவும்”
 
@@ -157,6 +201,32 @@ There were almost 700 replies to the post, with almost all pointing out that it 
 ◼️
 
 [Data](articles/141cb155.json)
+
+---
+
+### SUSPICIOUS IN SICILY
+
+*2025-01-05 11:05:00* · [`islandlk`](http://island.lk/suspicious-in-sicily/) · `en`
+
+(Excerpted from Falling Leaves, an anthology of memoirs by LC Arulpragasam)
+
+Having lived in Italy for many years, we planned a trip to Sicily in April 1975. The idea was met with some alarm among our Sri Lankan friends, since Sicily at that time was cursed with mafia kidnaps and killing. I replied laughingly: ‘what self-respecting mafioso would waste his time kidnapping a poor Sri Lankan?’ We planned to travel with our two younger children (aged 10 and 8 years) in our caravan (trailer/roulotte) to be towed by our trusty old Peugeot 404 station wagon. It was to be a long drive – a total of around 1,000 miles, including travel within Sicily. We reckoned that the countryside would be green, with the fields fresh with the flowers of spring. What we left out of our calculation was the powerful scirocco, the scorching wind that comes blistering out of the deserts of Africa, bringing the sand of the desert even into Sicily.
+
+...
+
+[Data](articles/83df09e8.json)
+
+---
+
+### Requiem for Jimmy Carter
+
+*2025-01-05 11:03:00* · [`islandlk`](http://island.lk/requiem-for-jimmy-carter/) · `en`
+
+Prior to American presidential elections on November 5 last year, Jimmy Carter said he wanted to live to vote for Kamala Harris. His wife Rosalyn had died November 19, 2023, aged 96. They lived, invalided, in a recently furbished hospice in their modest home in Plains. He did live and must have voted. At age one hundred he died on December 29, 2024, with his three sons and daughter Amy beside him, so also 22 grandchildren and great grandchildren.
+
+...
+
+[Data](articles/56661350.json)
 
 ---
 
@@ -641,6 +711,20 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/c97818a9.json)
+
+---
+
+### 
+
+*2025-01-05 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85304) · `en`
+
+Life and Times of  Former  Tiger Jaffna Commander Krishnakumar alias  “Col” Kittu.
+
+Nowadays the 33 year long war between the armed forces of Sri Lanka and the Liberation Tigers of Tamil Eelam(LTTE) is slowly receding into memory. The LTTE ,known generally as the tigers,was formed officially on 5 May 1976. After three decades of conflict the LTTE met its waterloo by the waters of Nandhikkadal lagoon on May 18th 2009. The war  waged against the Sri Lankan state by the  Veluppilai Prabhakaran -led LTTE is an important and integral part of Sri Lanka’s post-independence history.
+
+...
+
+[Data](articles/4603a0a1.json)
 
 ---
 
@@ -1757,109 +1841,5 @@ Dr. Guruge also highlighted that over Rs. 600 million is spent annually on human
 ◼️
 
 [Data](articles/327de895.json)
-
----
-
-### கிளிநொச்சியில் காணாமல்போன மனநலம் பாதிக்கப்பட்ட நபரின் சடலம் கண்டுபிடிப்பு!
-
-*2025-01-04 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202934) · `ta`
-
-மனநலம் பாதிக்கப்பட்ட நபர் ஒருவர் காணாமல்போனதாக கிளிநொச்சி பொலிஸ் நிலையத்துக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில், தேடப்பட்டு வந்த நபரின் சடலம்  இன்று சனிக்கிழமை (04) முறிப்பு குளத்தில் கண்டுபிடிக்கப்பட்டது.
-
-முறிப்புக் குளத்தின் தடுப்பு அணையில் அந்த நபரின் துவிச்சக்கரவண்டி மற்றும் செருப்பு ஆகியன கண்டுபிடிக்கப்பட்டதைத் தொடர்ந்து முறிப்பு குளத்தில் தேடுதல் நடவடிக்கைகள் முன்னெடுக்கப்பட்டபோதே சடலம் கண்டுபிடிக்கப்பட்டுள்ளது.
-
-கிளிநொச்சி - கோணாவில் மத்தியை சேர்ந்த மனநலம் பாதிக்கப்பட்ட நபர் காணாமல் போனதாக கிளிநொச்சி பொலிஸ் நிலையத்தில் நேற்றுமுன்தினம் முறைப்பாடு பதிவு செய்யப்பட்டது.
-
-அந்த முறைப்பாட்டின் பிரகாரம் மேற்கொண்ட தேடுதல் நடவடிக்கையின்போது கிளிநொச்சி முறிப்புக் குளத்தின் தடுப்பு அணையில், காணாமல்போன நபரின் துவிச்சக்கரவண்டியும் அவரது செருப்பும் கண்டுபிடிக்கப்பட்டது.
-
-இந்நிலையில் குறித்த நபரை முறிப்பு குளத்தில் தேடும் பணிகள் நேற்றையதினம் முன்னெடுக்கப்பட்டன. இருப்பினும் அவரது சடலம் மீட்கப்படவில்லை. இந்நிலையில் இன்று (04) அக்குளத்தில் மிதந்த நிலையில் அவரது சடலம் கண்டுபிடிக்கப்பட்டது.
-
-◼️
-
-[Data](articles/bc0b7f0e.json)
-
----
-
-### වැලිගම පුද්ගලයන් 5 දෙනෙකුට වෙඩි තැබීමක් - අයෙක් මරුට
-
-*2025-01-04 10:50:11* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-පුද්ගලයන්-5-දෙනෙකුට-වෙඩි-තැබීමක්---අයෙක්-මරුට/11-413997) · `si`
-
-වැලිගම පොලිස් වසමේ කප්පරතොට වල්ලිවෙල මාර්ගයේ පා ගමනින් ගමන්කරමින් සිටි පුද්ගලයන් පස් දෙනෙකුට වෙඩිතබා ඇති බව පොලීසිය පවසයි. මෙයින් පුද්ගලයන් දෙදෙනෙකුට වෙඩි වැදී ඇති අතර එයින් එක් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-තුවාල ලැබූ පුද්ගලයා වලාන රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා මාතර රෝහලට යවා තිබේ.
-
-යතුරුපැදි තුනකින් පැමිණි නාඳුනන පිරිසක් විසින් අද (4) අළුයම 1ට පමණ මෙම වෙඩි තැබීම සිදුකර පලාගොස් ඇත.
-
-වෙඩි වැදීමෙන් මියගොස් ඇත්තේ කප්පරතොට ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි පුද්ගලයෙකු වන අතර, තුවාල ලැබූ පුද්ගලයා ද එම ප්‍රදේශයේම පදිංචි 29 හැවිරිදි පුද්ගලයෙක් බව පොලීසිය පවසයි. මෙම වෙඩිතැබීමට හේතුව මෙතෙක් අනාවරණය වි නොමැත.
-
-◼️
-
-[Data](articles/f30ecc03.json)
-
----
-
-### நெடுந்தாரகை படகின் நங்கூரத்தை காணவில்லை!
-
-*2025-01-04 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/202933) · `ta`
-
-கடந்த தாழமுக்க காலத்தில் படகின் பாதுகாப்பைக் கருத்திற்கொண்டு, நெடுந்தீவின் மற்றொரு பகுதியில் தரித்து நிறுத்துவதற்காக இந்த படகு கொண்டு செல்லப்பட்டது.
-
-இந்த நெடுந்தாரகைப் படகானது குறிகட்டுவானிலிருந்து நெடுந்தீவு வரையான பயணிகள் போக்குவரத்து சேவைக்கு ஈடுபடுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/df24ddbf.json)
-
----
-
-### ஊர்காவற்றுறை படகு திருத்தும் நிலையத்துக்கு அமைச்சர் சந்திரசேகர் கள விஜயம்
-
-*2025-01-04 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/202935) · `ta`
-
-யாழ். ஊர்காவற்றுறை பகுதிக்கு நேற்று வெள்ளிக்கிழமை (03) விஜயம் செய்த கடற்றொழில் அமைச்சர் சந்திரசேகர் மற்றும் தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் இளங்குமரன் ஆகியோர் ஊர்காவற்துறை இறங்கு துறையை பார்வையிட்டதுடன் ஊர்காவற்றுறையில் அமைந்துள்ள படகு திருத்தும் நிலையத்தையும் பார்வையிட்டனர்.
-
-அந்த படகு திருத்தும் நிலையமானது கடந்த அரசாங்கத்தினால் 2021ஆம் ஆண்டு திறந்துவைக்கப்பட்ட நிலையில் செயலிழந்து காணப்படுகிறது.
-
-அதில் இதுவரை ஒரு படகு மட்டுமே ஏற்றப்பட்டு காணப்படுவதாகவும், அந்த படகு திருத்தும் நிலையத்தை இயங்க வைப்பதற்கு தகுந்த நடவடிக்கைகளை எடுப்பதாவும் அவர்கள் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/315744b2.json)
-
----
-
-### Sri Lankan leaders express solidarity with Cuba
-
-*2025-01-04 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104710/sri-lankan-leaders-express-solidarity-with-cuba) · `en`
-
-Representatives of Sri Lankan organizations visited the Cuban embassy to express their solidarity with the Caribbean nation and greet it on the 66th anniversary of the Triumph of the Revolution, diplomatic sources informed yesterday.
-
-Ambassador Andres Gonzalez received the leaders of the Friendship Association, the Communist Party (CPSL), and the Sama Samaja Party (LSSP) at the diplomatic mission.
-
-Also, congratulations messages have been sent from Sri Lanka to Cuba on the 66th anniversary of the Cuban revolutionary process.
-
-At a previous event, chaired by the Cuban Ambassador, the Minister of Commerce, Food Security and Cooperative Development, Wasantha Samarasinghe, thanked Cuba for its example and fraternity and wished its government and people success.
-
-Meanwhile, Sri Lanka’s Democratic Left Front (LDF) reiterated its call to end the US blockade against Cuba in a message signed by its general secretary Vasudeva Nanayakakara.
-
-...
-
-[Data](articles/e1bfd2aa.json)
-
----
-
-### அதிக ஒளி, ஒலி எழுப்பும் வாகனங்களுக்கு எதிராக நடவடிக்கை
-
-*2025-01-04 10:14:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/அதிக-ஒளி-ஒலி-எழுப்பும்-வாகனங்களுக்கு-எதிராக-நடவடிக்கை/73-349731) · `ta`
-
-சம்மாந்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதிகளில் அதிக ஒளி மற்றும் ஒலி எழுப்பும் மோட்டார் சைக்கிள், முச்சக்கர வண்டிகளை பயன்படுத்தும் நபர்களுக்கு எதிராக கடுமையான சட்ட நடவடிக்கை எடுக்கப்படும் என பொலிஸார் தெரிவித்துள்ளனர்.
-
-அத்துடன், குறித்த மோட்டார் சைக்கிள் மற்றும் முச்சக்கர வண்டியால் பெண் பிள்ளைகளுக்கு தொந்தரவு செய்யும் நபர்கள் பற்றிய தகவல்கள் தெரிந்தால் சம்மாந்துறை பொலிஸ் நிலையத்துக்கு தகவல் வழங்கவுமாறும் குறித்த விடயம் தொடர்பில்  தகவல் தருபவரின் இரகசியம் பாதுகாக்கப்படும் எனவும் பொலிஸார் குறிப்பிட்டுள்ளனர்.
-
-மேலும்  சம்மாந்துறை பொலிஸ் நிலையம் 0672 260 222 எண்ணை தொடர்பு கொண்டு குறித்த நபர்கள் பற்றிய தகவலை   அறிவிக்குமாறும் கேட்டுள்ளனர். R
-
-◼️
-
-[Data](articles/7cbf6627.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 03:43:29**
+As of **2025-01-06 04:02:02**
 
 ## Newspaper Stats
 
-*Scraped **63,833** Articles*
+*Scraped **63,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,886
 islandlk | 3,890
-dailyftlk | 4,439
+dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,096
 adaderanalk | 7,809
@@ -26,11 +26,199 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,833 articles have been extended.
+61,971 (97.1%) of 63,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### HMPV in China no cause for alarm says Prof. Jeewandara
+
+*2025-01-06 03:49:42* · [`dailyftlk`](https://www.ft.lk/news/HMPV-in-China-no-cause-for-alarm-says-Prof-Jeewandara/56-771456) · `en`
+
+University of Sri Jayewardenepura Immunology, Allergy and Molecular Medicine Department Director Prof. Chandima Jeewandara
+
+University of Sri Jayewardenepura Immunology, Allergy and Molecular Medicine Department Director Prof. Chandima Jeewandara confirmed that the new wave of respiratory infection – human metapneumovirus (HMPV) – spreading in China is not a cause for alarm.
+
+While foreign media warning of another health crisis with China facing a rapid spread of HMPV and hospitals overwhelmed with patients, Prof. Jeewandara claimed it as a ‘winter occurrence.’
+
+HMPV, a respiratory illness with flu-like symptoms, similar to Coronavirus and first reported in 2001, has emerged five years after the COVID-19 pandemic.
+
+Videos and social media posts showing people wearing masks and protective gear similar to during the COVID-19 pandemic and crowded hospitals in China circulated widely, making people panic over the spread of another global health disaster.
+
+...
+
+[Data](articles/7108e5ab.json)
+
+---
+
+### FUTA demands Govt. investigation into banning of anti-IMF seminar at UoP
+
+*2025-01-06 03:46:53* · [`dailyftlk`](https://www.ft.lk/news/FUTA-demands-Govt-investigation-into-banning-of-anti-IMF-seminar-at-UoP/56-771455) · `en`
+
+The Federation of University Teachers’ Associations (FUTA) has called on the Government to investigate an incident involving the alleged obstruction of academic freedom at the University of Peradeniya (UoP).
+
+The FUTA condemned the actions of the University’s Vice Chancellor Terrence Madhujith, who reportedly intervened to prevent a seminar on the International Monetary Fund’s (IMF) impact on Sri Lanka from taking place as scheduled.
+
+The seminar, organised by the Political Science Students’ Union in collaboration with the International Students and Youth for Social Equality, was planned for 3 January, on University premises. According to the FUTA, the Vice Chancellor instructed the organisers to either change the title of the event or cancel it entirely.
+
+...
+
+[Data](articles/86c5b472.json)
+
+---
+
+### Chinese Foreign Minister makes transit stop in Sri Lanka
+
+*2025-01-06 03:46:17* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Foreign-Minister-makes-transit-stop-in-Sri-Lanka/56-771454) · `en`
+
+Chinese Foreign Minister and CPC Central Committee Political Bureau Member Wang Yi arrived at Bandaranaike International Airport (BIA) yesterday evening for a transit stop en route to Namibia.
+
+The 18-member Chinese delegation was warmly received by Chinese Ambassador to Sri Lanka Qi Zhenhong, Airport and Aviation Services (Sri Lanka) (AASL) Chairman (Retd.) Air Chief Marshal Harsha Abeywickrama, and AASL Vice Chairman Cyril Wannigama.
+
+The delegation’s flight departed from the BIA at 4:23 p.m. following the brief stopover.
+
+◼️
+
+[Data](articles/b5b27fcb.json)
+
+---
+
+### Mujibur requests AKD to reconsider deporting Rohingya refugees
+
+*2025-01-06 03:44:03* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-requests-AKD-to-reconsider-deporting-Rohingya-refugees/56-771452) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has requested President Anura Kumara Dissanayake to reconsider the Government’s decision to deport 103 Rohingya refugees, including over 40 children, who arrived at the coast of Mullivaikkal in Mullaitivu, on 19 December 2024.
+
+“We are deeply saddened by the Government’s decision to deport these Rohingya people who fled their war-torn country due to fear. The Sri Lanka Human Rights Commission has stated that there are over 40 children among them and their desire is to seek political asylum in a safer country,” Rahman said in his letter to the President.
+
+He has also mentioned that deporting those refugees back to war-torn Myanmar, as said by Public Security and Parliamentary Affairs Minister Ananda Wijepala, would put their lives in danger and will also violate international principles that prohibit sending people to a country where they face threats of persecution.
+
+...
+
+[Data](articles/524cace4.json)
+
+---
+
+### Major reshuffle in Police leadership imminent
+
+*2025-01-06 03:41:40* · [`dailyftlk`](https://www.ft.lk/news/Major-reshuffle-in-Police-leadership-imminent/56-771450) · `en`
+
+In a significant development, nearly all Senior Deputy Inspector Generals (Senior DIGs) of Police, except for the Northern Province Senior DIG, are set to be reassigned to new posts, according to sources from Police Headquarters.
+
+The reshuffle will impact Senior DIGs managing administrative divisions including the Western, North Western, Eastern, Southern, Uva, and Sabaragamuwa Provinces. Among the notable changes, Senior DIG Ajith Rohana, formerly the Police Spokesman and currently overseeing the Eastern Province, is expected to be transferred to the Wayamba Province.
+
+Reports also indicate that this reshuffle will extend beyond Senior DIGs, affecting Deputy Inspector Generals (DIG) of Police and several Senior Superintendents of Police (SSP) across various divisions.
+
+...
+
+[Data](articles/07c54e32.json)
+
+---
+
+### SJB condemns Media Minister’s threatening statement
+
+*2025-01-06 03:40:58* · [`dailyftlk`](https://www.ft.lk/news/SJB-condemns-Media-Minister-s-threatening-statement/56-771449) · `en`
+
+Says in 1988/89, media personalities who went against JVP were answered through bullets
+
+Main Opposition Samagi Jana Balawegaya (SJB) yesterday vehemently condemned the threatening statement made by Health and Media Minister Dr. Nalinda Jayatissa based on a news article published in a national newspaper.
+
+“The Government, which has pledged to protect media freedom, is now exerting pressure on media institutions that overlook the Government’s ideology,” the SJB said in a statement.
+
+During the 1988/89 regime, the Janatha Vimukthi Peramuna (JVP) answered to those media personalities – Themis Guruge, Sagarika Gomas, Kulasiri Amaratunga, and Premakeerthi de Alwis – who didn’t follow JVP’s orders through bullets. Although the Media Minister does not reply through bullets, he is putting pressure on the media as usual through threatening statements.
+
+...
+
+[Data](articles/3e5d0a14.json)
+
+---
+
+### Justice Preethi Padman Surasena appointed to JSC
+
+*2025-01-06 03:40:14* · [`dailyftlk`](https://www.ft.lk/news/Justice-Preethi-Padman-Surasena-appointed-to-JSC/56-771448) · `en`
+
+Supreme Court Justice Preethi Padman Surasena has been appointed as a member of the Judicial Service Commission (JSC).
+
+The appointment was made by President Anura Kumara Dissanayake with the approval of the Constitutional Council.
+
+Justice Surasena, one of the senior-most judges of the Supreme Court, fills the vacancy created by the retirement of former Chief Justice Jayantha Jayasuriya. The JSC plays a crucial role in ensuring the independence and accountability of the judiciary in Sri Lanka.
+
+This development follows the recent appointment of Chief Justice Murdu Fernando as the Chairman of the JSC, succeeding retired Chief Justice Jayasuriya.
+
+◼️
+
+[Data](articles/5941a4a4.json)
+
+---
+
+### CPC Chairperson seeks Rs. 500 m from SJB TU Leader
+
+*2025-01-06 03:39:34* · [`dailyftlk`](https://www.ft.lk/news/CPC-Chairperson-seeks-Rs-500-m-from-SJB-TU-Leader/56-771447) · `en`
+
+Ceylon Petroleum Corporation (CPC) Chairperson D.J.A.S. Rajakaruna has sent a Letter of Demand (LoD) seeking Rs. 500 million in compensation from Ananda Palitha, the Convenor of the Samagi Jana Balawegaya (SJB) aligned United Trade Union Alliance (UTUA), for what he has claimed to be deliberate and false propaganda against him.
+
+The LoD, sent by Counsel Sampath Yalewatte on 24 December 2024, has accused Palitha of making malicious and defamatory statements on 13 December 2024 against Rajakaruna. These statements, according to the letter, were broadcast widely across mainstream electronic media, print newspapers, television news, and social media platforms, resulting in reputational damage to the CPC Chairperson.
+
+...
+
+[Data](articles/339425ea.json)
+
+---
+
+### Industries and Entrepreneurship Development Ministry goes public with focus areas, progress
+
+*2025-01-06 03:38:19* · [`dailyftlk`](https://www.ft.lk/business/Industries-and-Entrepreneurship-Development-Ministry-goes-public-with-focus-areas-progress/34-771446) · `en`
+
+Industries and Entrepreneurship Development Minister Sunil Handunneththi (centre) flanked by Deputy Minister Chathuranga Abeysinghe (left) and Secretary Thilaka Jayasundara
+
+The Ministry of Industries and Entrepreneurship Development says it is at the forefront of driving industrialisation and fostering entrepreneurship in the country and has updated some of the measures taken thus far and announced future plans.
+
+Following is the notice issued by Deputy Minister Chathuranga Abeysinghe listing its objectives, spanning key areas to support and grow industries and businesses.
+
+Core objectives: Policy Development; Industrial Support; New Business Creation; Entrepreneurship Support; Traditional Industry Development; SME Development; Export Promotion, and SOE Management.
+
+The Ministry oversees 29 institutions, including prominent entities such as the IDB, SED, NEDA, NPS, NCC, EDB, NDC, SLITA, and SOEs related to minerals, sugar, salt, ceramics, oil, textiles, and crafts.
+
+...
+
+[Data](articles/359686fb.json)
+
+---
+
+### Ogilvy’s Geometry Global, only Lankan agency to win at Global Epica Awards 2024
+
+*2025-01-06 03:35:14* · [`dailyftlk`](https://www.ft.lk/business/Ogilvy-s-Geometry-Global-only-Lankan-agency-to-win-at-Global-Epica-Awards-2024/34-771445) · `en`
+
+Geometry Global, a strategic business unit of the Ogilvy Group Sri Lanka, has achieved a significant milestone as Sri Lanka’s only agency to be recognised at the prestigious Epica Awards 2024.
+
+The agency secured a Bronze in the ‘Public Interest – Social Advocacy’ category for its meaningful ‘Books that Keep on Giving’ campaign for ProMate (Printxcel), a leading stationery manufacturer in Sri Lanka.
+
+The Epica Awards are the only global creative awards judged by journalists from the marketing and communications industry, with the 2024 winners being evaluated in Paris by a jury of editors and media personnel from across Europe and the United States.
+
+...
+
+[Data](articles/31052c20.json)
+
+---
+
+### Renganathan, Manil join Lanka IOC Board
+
+*2025-01-06 03:34:38* · [`dailyftlk`](https://www.ft.lk/business/Renganathan-Manil-join-Lanka-IOC-Board/34-771444) · `en`
+
+Lanka IOC PLC has announced the appointment of S. Renganathan and Manil Jayesinghe as Independent Non-Executive Directors with effect from 1 January 2025.
+
+Renganathan was the former Managing Director/ Chief Executive Officer of Commercial Bank of Ceylon PLC and had held several key positions in the Bank. In addition, he served as the Managing Director and a Board Member of the Commercial Development Company PLC, and as the Deputy Chairman of Commercial Bank of Maldives Ltd.
+
+He is a senior banker counting over 41 years and has led Commercial Bank’s acquisition of the banking operations of Credit Agricole Indosuez in Bangladesh. He was the first Chief Risk Officer of the Bank and has held positions as the Deputy General Manager in charge of Bank’s Island wide branch network and Chief Operating Officer.
+
+He served as an Executive Director in the Board of Directors of the Commercial Bank of Ceylon PLC for nearly eight years.
+
+...
+
+[Data](articles/39af8a58.json)
+
+---
 
 ### Lights, Camera, Action: The Golden Globes 2025 Exclusively on Dialog Television and ViU App!
 
@@ -1523,165 +1711,5 @@ Highlighting the lack of a formal, targeted program by previous administrations,
 ◼️
 
 [Data](articles/8ce85840.json)
-
----
-
-### රාජ්‍ය සේවකයින්ගේ වැටුප් රහිත නිවාඩුව ගැන දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් මාලාවක්
-
-*2025-01-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205051) · `si`
-
-විශ්‍රාම වැටුපට හානියක් නොවන පරිදි රාජ්‍ය නිලධාරීන්ට දේශීය විදේශීය වැටුප් රහිත නිවාඩු ලබාදීම සම්බන්ධයෙන් රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍යංශය විසින් සියලු දිස්ත්‍රික් ලේකම්වරුන් වෙත විශේෂ දැනුම් දීමක් සිදුකර තිබේ.
-
-අදාළ නිවාඩු අනුමත කිරීමේ දී දිස්ත්‍රික් ලේකම්වරුන් විසින් පිළිපැදිය යුතු උපදෙස් මාලාවක් එමගින් නිකුත් කර ඇති බව වාර්තා වෙයි.
-
-2022 වසරේ ජුනි මස 22 වන දින රාජ්‍ය පරිපාලන චක්‍රලේඛයට අනුව වැටුප් රහිත නිවාඩු ලබාදීමේ දී සිදුවන අක්‍රමිකතා මඟහරවා ගැනීම සඳහා එම උපදෙස් මාලාව නිකුත් කර තිබේ.
-
-ඇතැම් රාජ්‍ය නිලධාරීන් වසර 05ක් සඳහා දේශීය නිවාඩු ලබාගෙන එම නිවාඩු අවලංගු කිරීමකින් තොරව විදේශ නිවාඩු අයදුම් කිරීමේ සිදුවීම් ද වාර්තා වන බැවින් ඒ පිළිබඳව නිවාඩු අනුමත කිරීමට පෙර සලකාබලන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය දිස්ත්‍රික් ලේකම්වරුන්ට දැනුම් දී ඇති බව සඳහන්ය.
-
-විදේශ නිවාඩු අයදුම්පත් යොමු කිරීමේ දී නිලධාරීන් විසින් මීට පෙර ලබා ඇති දේශීය හා විදේශීය නිවාඩු පරීක්ෂා කර ආවරණ ලිපිවල ඒ පිළිබඳව පැහැදිලිව සටහන් කළ යුතු බව අමාත්‍යංශය වැඩිදුරටත් දැනුම් දී ඇත.
-
-◼️
-
-[Data](articles/c0a7e45d.json)
-
----
-
-### ත්‍රිපෝෂ සමාගම ඈවර නොකිරීමට තීරණයක්
-
-*2025-01-05 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205050) · `si`
-
-කඳානේ පිහිටි ත්‍රිපෝෂ සමාගම මෙරට ජනතාවගේ පෝෂණ අවශ්‍යතා සම්පූර්ණ කිරීම වෙනුවෙන් නව්‍යකරණයට ලක්කර සංවර්ධනය කරමින් රජය සතු ආයතනයක් ලෙස අඛණ්ඩව පවත්වාගෙන යාමට රජය තීරණය කර තිබේ.
-
-ඒ ඊයේ (04) සෞඛ්‍ය අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් ත්‍රිපෝෂ සමාගමේ වත්මන් තත්ත්වය සහ එහි ඉදිරි සංවර්ධන කටයුතු පිළිබඳ අදාළ නිලධාරීන් සමග පැවැත්වූ සාකච්ඡාවකදීය.
-
-අමාත්‍යවරයා මෙහිදී පැවසුවේ පැවැති රජයන් මෙම ත්‍රිපෝෂ සමාගම සංවර්ධනය කර එහි ප්‍රතිලාභ ජනතාවට ලබා දීමට විධිමත් සහ ඉලක්කගත වැඩපිළිවෙළක් ක්‍රියාත්මක නොකිරීම මත එහි ප්‍රතිලාභ ජනතාවට අහිමි වන තත්ත්වයක් උදාවෙමින් පැවැති බවය.
-
-එම තත්ත්වය වෙනස් කර නැවත මෙරට ජනතාවගේ පෝෂණ අවශ්‍යතා සපයන සක්‍රීය ආයතනයක් බවට ත්‍රිපෝෂ සමාගම පත් කිරීමටත් රජය කටයුතු කරන බව අමාත්‍යරයා පැවසීය.
-
-එමෙන්ම ත්‍රිපෝෂ සමාගම ඈවර කිරීමට වෙනුවට එය රටේ ජනතාවගේ උන්නතිය සහ පෝෂණ අවශ්‍යතා වෙනුවෙන් ලාභ ලබන ආයතනයක් බවට පත් කරමින් විධිමත් සංවර්ධන වැඩපිළිවෙළක් යටතේ රජය සතු දියුණු ආයතනයක් ලෙස අඛණ්ඩව පවත්වාගෙන යාමට කටයුතු කරන බවත් ඔහු මෙහිදී පැවසීය.
-
-...
-
-[Data](articles/8c15aa8e.json)
-
----
-
-### கிளீன் ஸ்ரீலங்கா சிக்­க­லான பயணம்
-
-*2025-01-05 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203015) · `ta`
-
-ஊழல், மோச­டி­களில் ஈடு­ப­டு­வது ஒரு குற்றம் அல்ல என்று சிந்­திக்­கின்ற அள­வுக்கு பரந்­து­பட்­ட­ளவில் இது ஊறிப் போயி­ருக்­கி­றது. பல­ருக்கு இது குற்ற உணர்ச்­சியை கூட ஏற்­ப­டுத்­து­வ­தில்லை. இவ்­வா­றான நிலையில் தாங்கள் செய்­வது குற்றம் என்று உணர முடி­யா­த­வர்­களால், இத்­த­கைய பழக்­க­வ­ழக்­கங்­களை விளங்கிக் கொள்ள முடி­யாது.  முதலில் அத்­த­கைய தவ­று­களை குற்­றங்­க­ளாக உணர வைக்க வேண்டும்.
-
-◼️
-
-[Data](articles/bdd3dd1b.json)
-
----
-
-### யாரை பாதுகாத்தனர்  முன்னாள் ஜனாதிபதிகள் ?
-
-*2025-01-05 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/203012) · `ta`
-
-மக்களை கடன்காரர்களாக்கி விட்டு அவர்களின் பணத்திலேயே பாதுகாப்பாகவும் சொகுசாகவும் காலத்தை கடத்துவது எந்த வகையில் நியாயம் என்பது புரியவில்லை.பயங்கரவாதத்திலிருந்து நாட்டை பாதுகாத்தோம் என்று தொடர்ச்சியாக கூறியே, மறுபக்கம் ஊழல்வாதிகளையும் பாதுகாத்து நாட்டை இக்கட்டான சூழலுக்கு தள்ளி விட்டவர்கள் மஹிந்த  தரப்பினர்.   அவர்களின் பாதுகாப்பிற்காக செலவு செய்யப்படும் கோடிக்கணக்கான பணமும் மக்களுடையதாகும். மக்களை கடன்காரர்களாக்கி விட்டு அவர்களின் பணத்திலேயே பாதுகாப்பாகவும் சொகுசாகவும் காலத்தை கடத்துவது எந்த வகையில் நியாயம் என்பது புரியவில்லை. மேலும், பொருளாதார நெருக்கடி காலங்களிலும் முன்னாள் ஜனாதிபதிகள் எவருமே தமது பாதுகாப்பு செலவீனங்களையும் சலுகைகளையும்  குறைத்துக்கொள்ள முன்வரவில்லையென்பது முக்கிய விடயம்.
-
-◼️
-
-[Data](articles/972485d1.json)
-
----
-
-### அபத்­தமும் ஆபத்தும்
-
-*2025-01-05 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/203011) · `ta`
-
-13ஆவது திருத்தச் சட்­டத்­திற்கு எதி­ரான கருத்­து­டைய, தென்­னி­லங்­கையின் சிங்­கள பௌத்த பேரி­ன­வாத சக்­திகள் மத்­தியில் இருந்தே, இந்த சிந்­தனை உரு­வா­கி­யி­ருக்­கி­றது. 13ஆவது திருத்தச் சட்­டமும் மாகாண சபை­களும் தேவை­யில்லை, அவற்றை இல்­லாமல் செய்ய வேண்டும் என வலி­யு­றுத்­து­கின்ற சரத் வீர­சே­கர, உதய கம்­மன்­பில போன்­ற­வர்கள் இந்­த­ளவு காலமும் மாகாண சபைகள் இல்­லாமல், அரச நிர்­வா­கங்கள் நடை­பெ­ற­வில்­லையா?  எதற்கு வீணாக பணத்தை செல­விட்டு மாகாண சபை­களை தெரிவு செய்ய வேண்டும் என முன்னர் கேள்வி எழுப்பி இருந்­தார்கள்.
-
-◼️
-
-[Data](articles/d014130d.json)
-
----
-
-### President and AG to discuss progress of controversial cases
-
-*2025-01-05 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104732/president-and-ag-to-discuss-progress-of-controversial-cases-) · `en`
-
-President Anura Kumara Dissanayake will reportedly meet with the Attorney General (AG) tomorrow (06).
-
-It is reported that the discussion will focus on the progress of several high-profile controversial cases.
-
-Additionally, the challenges faced in handling criminal cases will also be addressed during the meeting, as per reports.
-
-◼️
-
-[Data](articles/ad96d962.json)
-
----
-
-### தமி­ழ­ரசில் களை­யெ­டுப்பு
-
-*2025-01-05 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/203008) · `ta`
-
-தமிழரசுக் கட்சியில் உருவாகி இருக்கும் நெருக்கடிகள் தீர்க்கப்பட்டால்தான் தமிழர் பிரச்சினைக்கான தீர்வைத் ஒருமித்த கருத்துடன் - ஒருமித்த நிலைப்பாட்டுடன் வலுவான ஒரு தரப்பாக முன்னெடுக்கக் கூடிய சாத்தியம் ஏற்படும். ஆனால், தமிழரசுக் கட்சி உள்கட்சி மோதல்களையும் முரண்பாடுகளையும் நீட்டிக்கொண்டே செல்வது,  தமிழர் பிரச்சினையை தீர்ப்பதற்கான முயற்சிகளைத் தட்டிக் கழிப்பதற்கான வாய்ப்புகளையே சிங்கள ஆட்சியாளர்களுக்கு விட்டு வைக்கப் போகிறது.
-
-◼️
-
-[Data](articles/9f3b7011.json)
-
----
-
-### Speech writing for Mrs. B, mischievous Felix and 1965 general election
-
-*2025-01-05 12:41:00* · [`islandlk`](http://island.lk/speech-writing-for-mrs-b-mischievous-felix-and-1965-general-election/) · `en`
-
-Making speeches and preparing for them, was a constant occupational hazard for the prime minister and her staff. The international speeches were clearly the most important from a personal as well as country’s image-building point of view. Sirimavo gained immense credit from a statement she made in Belgrade at the Nonaligned Summit in 1961, when as the first woman prime minister of the world she used the phrase — As a woman and a mother, I call upon the nations of the world to desist from violence in their dealings with each other …’This phrase,was unique as no other world leader up to then could have used it, and was carried in headlines across the world giving Sirimavo and Ceylon a tremendous boost.
-
-...
-
-[Data](articles/5734d9cc.json)
-
----
-
-### Tax evasion by top earners to blame for revenue shortfalls: Experts
-
-*2025-01-05 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104731/tax-evasion-by-top-earners-to-blame-for-revenue-shortfalls-experts-) · `en`
-
-Tax expert N.R. Gajendran says Sri Lanka’s inability to meet tax revenue targets despite tax hikes is due to the tax leakages spurred by tax evasion.
-
-Joining Ada Derana’s current affairs program “@HydePark”, Gajendran further expressed that digitalization of proceedings of the Inland Revenue Department (IRD) will significantly contribute to bolstering efficiency while also eradicating loopholes which facilitate tax evasion.
-
-“All the taxes have gone up, but we’re still struggling to achieve 13.9% to 14% tax revenue. Next year, 2025, we’re hoping to reach 15%, which is still below what we achieved in the early 90s, 22% tax to GDP ratio. Most of the countries, even developing countries achieve 18% - 22% taxes”, Gajendran mentioned.
-
-...
-
-[Data](articles/4611ef04.json)
-
----
-
-### தம்புத்தேகமவில் கேரள கஞ்சாவுடன் ஒருவர் கைது
-
-*2025-01-05 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/203005) · `ta`
-
-புத்தளம் - தம்புத்தேகம பொலிஸ் பிரிவுக்குட்பட்ட யாய 04 பகுதியில் கேரள கஞ்சா வைத்திருந்த ஒருவர் நேற்று சனிக்கிழமை (04) பொலிஸாரால் கைது செய்யப்பட்டார்.
-
-சந்தேக நபரிடமிருந்து 10 கிராம் 325 கிராம் கேரள கஞ்சா பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-இதனையடுத்து, கைது செய்யப்பட்ட நபர் மேலதிக விசாரணைகளுக்காக தம்புத்தேகம பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டார்.
-
-◼️
-
-[Data](articles/9304f5ce.json)
-
----
-
-### வலுப்படுத்தப்படும் அதிகாரம்
-
-*2025-01-05 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/203006) · `ta`
-
-இப்பொழுது நாட்டின் பிரதான மூன்று புலனாய்வு கட்டமைப்புகளின் தலைமைப் பதவிகளிலும் அரசாங்கம் மாற்றத்தை செய்திருக்கிறது.அதேபோல, பதவியிலிருந்து விலகிச் செல்லும் இராணுவ அதிகாரிகளை வெளிநாடுகளில் தூதுவர்களாக நியமிக்கின்ற வழக்கத்தையும் பின்பற்றுவதில்லை என அரசாங்கம் தீர்மானித்திருக்கிறது.
-
-◼️
-
-[Data](articles/e69c596b.json)
 
 ---

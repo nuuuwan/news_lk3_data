@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 11:02:02**
+As of **2025-01-05 11:14:49**
 
 ## Newspaper Stats
 
-*Scraped **63,690** Articles*
+*Scraped **63,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,080
 adaderanalk | 7,794
-tamilmirrorlk | 9,130
+tamilmirrorlk | 9,131
 virakesarilk | 10,623
 adaderanasinhalalk | 11,003
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,690 articles have been extended.
+61,971 (97.3%) of 63,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### வைத்தியராக வேடமணிந்து நகைகளை திருடிய ஆண் தாதி கைது
+
+*2025-01-05 10:55:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியராக-வேடமணிந்து-நகைகளை-திருடிய-ஆண்-தாதி-கைது/175-349767) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையில் தங்கியிருந்து  சிகிச்சை பெற்று வரும் தனது தாயாரை பார்க்க வந்த பெண்ணிடம் இருந்து தங்கப் பொருட்களை, வைத்தியர் எனக்கூறி மோசடி செய்து அபகரித்த ஆண் தாதி  ஒருவரை மருதானை பொலிஸார் கைது செய்துள்ளனர்.
+
+கொழும்பு தேசிய வைத்தியசாலையில் தாதியாகப் பணிபுரியும் பொலன்னறுவையைச் சேர்ந்த 42 வயதுடைய நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+தங்கத்தை பறிகொடுத்த பெண்ணின் தாயார் கடந்த ஒரு மாத காலமாக கொழும்பு தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்ற நிலையில் குறித்த பெண்ணும் அவரது மூத்த சகோதரியும் நோயாளியை பார்க்க வந்துள்ளனர்.
+
+அதன்போது, ​​நோயாளர்களை பார்வையிடும் வைத்தியர் போல் வந்த சந்தேகநபர், முறைப்பாட்டாளரின் தாயின் பதிவுகளை சரிபார்த்து, அவரின் உடல்நிலைக்கு ஏற்ப இரத்தம் வழங்க விரும்புவதாக தெரிவித்ததாக பொலிஸார் தெரிவித்தனர்.
+
+பின்னர், சந்தேக நபர் இந்த இரண்டு பெண்களில் ஒருவரிடமிருந்து இரத்தம் எடுக்க விரும்புவதாகக் கூறி அவர்களை ஒரு வார்டுக்கு அழைத்துச் சென்று ஸ்கேன் செய்ய அனைத்து தங்கப் பொருட்களையும் கழற்றச் சொன்னதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/5e758a1a.json)
+
+---
 
 ### சிறுமிக்கு ஆபாச காணொளி அனுப்பிய சிப்பாய் கைது
 
@@ -1837,27 +1857,5 @@ The reassertion of democratic polity in Sri Lanka during the year 2024 is the si
 ...
 
 [Data](articles/d7e6e55c.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2025-01-04 08:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/104708/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says a few showers will occur in Uva province.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the afternoon or night.
-
-Heavy showers about 100 mm can be expected at some places, the Met. Department said.
-
-Fairly strong winds of about 30-40 kmph can be expected at times over Northern, Eastern, North-central and North-western provinces and in Hambantota district.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/3b7db270.json)
 
 ---

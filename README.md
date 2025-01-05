@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 17:27:50**
+As of **2025-01-05 17:45:00**
 
 ## Newspaper Stats
 
-*Scraped **63,770** Articles*
+*Scraped **63,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,884
 islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,087
+adalk | 6,088
 adaderanalk | 7,804
 tamilmirrorlk | 9,144
 virakesarilk | 10,639
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,770 articles have been extended.
+61,971 (97.2%) of 63,771 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,20 @@ Fukahori was only 14 when the U.S. dropped the bomb on Nagasaki on Aug. 9, 1945,
 ...
 
 [Data](articles/3bc72e3b.json)
+
+---
+
+### ස්මාර්ට් යූත් නයිට් ප්‍රසංගවල දී වූ වංචාව පිළිබදව විධිමත් පරීක්ෂණයක් කරනවා
+
+*2025-01-05 15:47:43* · [`adalk`](https://www.ada.lk/breaking_news/ස්මාර්ට්-යූත්-නයිට්-ප්‍රසංගවල-දී-වූ-වංචාව-පිළිබදව-විධිමත්-පරීක්ෂණයක්-කරනවා/11-414013) · `si`
+
+ජාතික තරුණ සේවා සභාව මගින් පැවැත් වූ Smart Youth Night ප්‍රදර්ශන සහ ප්‍රසංග මාලාවේ දී සිදු ව ඇති මූල්‍ය වංචා සහ අක්‍රමිකතා පිළිබඳව විධිමත් පරීක්ෂණයක් ආරම්භ කර ඇති බව තරුණ කටයුතු නියෝජ්‍ය අමාත්‍ය එරංග ගුණසේකර පැවසීය. මේ වන විට විගණන වාර්තාවක් මගින් සහ තවත් තොරතුරු මත පදනම්ව මෙම පරීක්ෂණ කටයුතු සිදු කෙරෙමින් පවතින බව ද නියෝජ්‍ය අමාත්‍යවරයා ප්‍රකාශ කළේය.
+
+සැලසුම්කරණයේ දී සිදුව ඇති අක්‍රමිකතා, විධිමත් ප්‍රසම්පාදන ක්‍රියාවලියක් සිදු නොකිරීම, බිල්පත් පියවීමේ අවිධිමත් ක්‍රමවේදයක් අනුගමනය කිරීම, සංගීත ශිල්පීන්ට ගෙවීම් සිදු කිරීමේ දී අක්‍රමිතා සිදුව ඇති බව ද නියෝජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/d6407c9b.json)
 
 ---
 
@@ -1709,19 +1723,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/ec33b39d.json)
-
----
-
-### කාසියේ වාසිය නවසීලන්තයට
-
-*2025-01-05 03:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205036) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පැවැත්වෙන පළමු එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (05) පැවැත්වෙයි.
-
-ඒ අනූව ඔවුන් තීරණය කළේ පළමුව පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා  කණ්ඩායමට ආරාධනා කිරීමට ය.
-
-◼️
-
-[Data](articles/97ae58e7.json)
 
 ---

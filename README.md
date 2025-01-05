@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 05:13:07**
+As of **2025-01-06 05:27:52**
 
 ## Newspaper Stats
 
-*Scraped **63,845** Articles*
+*Scraped **63,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 468
 colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,886
-islandlk | 3,890
+islandlk | 3,895
 dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,096
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,845 articles have been extended.
+61,971 (97.1%) of 63,850 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -471,6 +471,34 @@ While decades of decay will necessarily take time and a generational shift to ac
 ...
 
 [Data](articles/a7e100fb.json)
+
+---
+
+### IMC Campus holds Annual Graduation Ceremony at BMICH
+
+*2025-01-05 21:52:00* · [`islandlk`](http://island.lk/imc-campus-holds-annual-graduation-ceremony-at-bmich/) · `en`
+
+IMC Campus held its Annual GraduationCeremony on the 14th of December 2024, at the Bandaranaike Memorial International Conference Hall (BMICH) in affiliation with the IIC University of Technology. The ceremony was honored by the presence of the Chief Guest Prof. (Mrs) G.A.Sanjeewanie Ginigaddara (Former Vice Chancellor of Rajarata University, Dr. Kavya Jayakody (Founder/Director of IMC Campus), Dr. Engineer. Priyantha Morapitiya (Senior Lecturer), Dr. Pradeep Edward (Director/General Manager of Hemas Capital Hospital), Dr Dhanushka Wickramarathne (Head of Business Development, Internaional Relations, Climate & Geospatial EngineerinG of CESL) and Dr. Keerthi Nawarathne (Deputy Director General of Sri Lanka Institute of Advance Technological Education)
+
+Over 160 students were awarded their Bachelors, Masters and Doctoral Studies by the dignitaries present.
+
+...
+
+[Data](articles/e74064f2.json)
+
+---
+
+### Ogilvy’s Geometry Global becomes only SL agency to win at global Epica Awards 2024
+
+*2025-01-05 21:51:00* · [`islandlk`](http://island.lk/ogilvys-geometry-global-becomes-only-sl-agency-to-win-at-global-epica-awards-2024/) · `en`
+
+Geometry Global, a Strategic Business Unit of the Ogilvy Group Sri Lanka, achieved a significant milestone as Sri Lanka’s only agency to be recognised at the prestigious Epica Awards 2024. The agency secured a Bronze in the ‘Public Interest – Social Advocacy’ category for its meaningful ‘Books that Keep on Giving’ campaign for ProMate (Printxcel), a leading stationery manufacturer in Sri Lanka.
+
+The Epica Awards are the only global creative awards judged by journalists from the marketing and communications industry, with the 2024 winners being evaluated in Paris by a jury of editors and media personnel from across Europe and the United States.
+
+...
+
+[Data](articles/f2c68ee6.json)
 
 ---
 
@@ -1580,6 +1608,22 @@ Accordingly, the District Secretaries have been instructed to follow a detailed 
 
 ---
 
+### ComBank tops banking sector in LMD’s first Corporate Happiness Index
+
+*2025-01-05 14:34:00* · [`islandlk`](http://island.lk/combank-tops-banking-sector-in-lmds-first-corporate-happiness-index-2/) · `en`
+
+The Commercial Bank of Ceylon has been ranked No 1 among Sri Lankan banks in the inaugural Corporate Happiness Index (CHI) just released by LMD magazine.The Bank has also been ranked one of Sri Lanka’s “happiest second homes” taking fifth place overall in the ranking, following the high positions it achieved in the 16 attributes that made up the survey conducted by PepperCube Consultants for this pioneering initiative.
+
+Remarkably, Commercial Bank was the highest-ranked bank in 14 of the 16 attributes, leading the banking sector in several fundamentally-important aspects related to employees, such as ‘Remuneration scales,’ ‘Rewards & Perks,’ ‘Career progression,’ ‘Work environment,’ ‘Gender balance,’ ‘Health & wellbeing,’ ‘Work-life balance,’ ‘Workplace diversity,’ and ‘Workplace flexibility.’
+
+Commercial Bank was also ranked No 1 in the banking sector for ‘Financial stability,’ ‘Corporate leadership,’ ‘Workplace camaraderie,’ ‘Open culture’ and ‘Recreational facilities.’
+
+...
+
+[Data](articles/f562d4b4.json)
+
+---
+
 ### Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
 
 *2025-01-05 14:32:00* · [`islandlk`](http://island.lk/telecom-itea-skills-for-vocational-institute-students-by-exeo-global-and-sala-enterprises/) · `en`
@@ -1589,6 +1633,36 @@ Students in Sri Lanka seeking overseas employment now have a unique opportunity 
 ...
 
 [Data](articles/3ff08f40.json)
+
+---
+
+### Queen’s Hospital Medical Centre Opens in Ratmalana, Offering Affordable and Advanced Healthcare
+
+*2025-01-05 14:22:00* · [`islandlk`](http://island.lk/queens-hospital-medical-centre-opens-in-ratmalana-offering-affordable-and-advanced-healthcare/) · `en`
+
+The newly opened Queen’s Hospital Medical Centre in Ratmalana is revolutionizing private healthcare with state-of-the-art facilities and compassionate services. Equipped with advanced medical technologies, including ultrasound, echo, and X-ray machines, the hospital ensures accurate and timely diagnoses for patients. A team of experienced medical officers, nurses, and healthcare professionals is dedicated to providing exceptional care, said a release.
+
+Patients can access OPD treatments for just Rs. 550, and until 31 January 2025, enjoy a 50% discount on X-rays and hospital charges for ultrasound or echo tests. On 29 January, the hospital will host a special medical camp offering free screenings for cholesterol, diabetes, and heart conditions. Pre-registration is required to secure a spot.
+
+...
+
+[Data](articles/f1f5d82c.json)
+
+---
+
+### Ceylinco Life closes 2024 with 13 awards for financial reporting and brand excellence
+
+*2025-01-05 14:21:00* · [`islandlk`](http://island.lk/ceylinco-life-closes-2024-with-13-awards-for-financial-reporting-and-brand-excellence/) · `en`
+
+Sri Lanka’s life insurance market leader Ceylinco Life has brought 2024 to a close on a victorious note, winning a total of 13 awards, 11 for distinction in financial reporting and two for brand excellence.
+
+The company’s annual report for 2023 received accolades from four prestigious local and international bodies – CMA Sri Lanka, CA Sri Lanka, the South Asian Federation of Accountants (SAFA) and MerComm Inc., the presenter of the prized ARC Awards.
+
+Titled ‘The Core of Trust,’ Ceylinco Life’s integrated annual report for 2023 was recognised as one of the ‘Top 10 Excellent Integrated Reports’ in Sri Lanka at the CMA Excellence in Integrated Reporting Awards 2024, and was adjudged the first runner-up in the Insurance category. CMA Sri Lanka is the national professional management accounting body.
+
+...
+
+[Data](articles/1b0c5f75.json)
 
 ---
 
@@ -1637,83 +1711,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ◼️
 
 [Data](articles/5171a0fc.json)
-
----
-
-### நீதிபதிகளை நியமிக்க அரசியலமைப்பு பேரவை அங்கீகாரம்
-
-*2025-01-05 14:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிபதிகளை-நியமிக்க-அரசியலமைப்பு-பேரவை-அங்கீகாரம்/175-349782) · `ta`
-
-மேல் நீதிமன்ற நீதிபதிகளான கே.எம்.சரத் திசாநாயக்க மற்றும் பிரதீப் ஹெட்டியாராச்சி ஆகியோரை மேன்முறையீட்டு நீதிமன்றத்திற்கு நியமிப்பதற்கு அரசியலமைப்பு பேரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-மேல் நீதிமன்ற நீதிபதிகளான திஸாநாயக்க மற்றும் ஹெட்டியாராச்சி ஆகியோர் அடுத்த வாரம் மேன்முறையீட்டு நீதிமன்ற நீதிபதிகளாக பதவிப் பிரமாணம் செய்ய உள்ளனர்.
-
-◼️
-
-[Data](articles/2bdc93dd.json)
-
----
-
-### நீதியரசர்களை நியமிக்க அரசியலமைப்பு பேரவை அங்கீகாரம்
-
-*2025-01-05 14:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதியரசர்களை-நியமிக்க-அரசியலமைப்பு-பேரவை-அங்கீகாரம்/175-349782) · `ta`
-
-மேல் நீதிமன்ற நீதிபதிகளான கே.எம்.சரத் திசாநாயக்க மற்றும் பிரதீப் ஹெட்டியாராச்சி ஆகியோரை மேன்முறையீட்டு நீதிமன்ற நீதியரசர்களாக நியமிப்பதற்கு அரசியலமைப்பு பேரவை அங்கீகாரம் வழங்கியுள்ளது.
-
-மேல் நீதிமன்ற நீதிபதிகளான திஸாநாயக்க மற்றும் ஹெட்டியாராச்சி ஆகியோர் அடுத்த வாரம் மேன்முறையீட்டு நீதிமன்ற நீதியரசர்களாக பதவிப் பிரமாணம் செய்ய உள்ளனர்.
-
-◼️
-
-[Data](articles/583eb968.json)
-
----
-
-### Govt. decides not to liquidate ‘Thriposha’ Company
-
-*2025-01-05 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104733/govt-decides-not-to-liquidate-thriposha-company) · `en`
-
-The government has announced its commitment to continue operating the ‘Thriposha’ Company in Kandana as a state-owned institution, with plans to renovate and develop the facility to better serve the nutritional needs of the people.
-
-The decision has been made during a discussion chaired by the Minister of Health Dr. Nalinda Jayatissa on January 04, focusing on the current status and future development of the ‘Thriposha’ Company.
-
-Highlighting the lack of a formal, targeted program by previous administrations, the Minister pointed out that this had led to the public missing out on the full benefits of the company. In response, the Minister assured that the government is determined to transform the company into a thriving entity that actively contributes to addressing the nation’s nutritional challenges.
-
-...
-
-[Data](articles/d1f070c4.json)
-
----
-
-### ஐஸ் விற்ற பட்டதாரி யுவதி கைது
-
-*2025-01-05 14:03:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-விற்ற-பட்டதாரி-யுவதி-கைது/175-349781) · `ta`
-
-டுபாயில் தலைமறைவாகி இருக்கும் ஒழுங்கமைக்கப்பட்ட குற்றவாளி மற்றும் போதைப்பொருள் கடத்தல்காரரின் போதைப்பொருட்களை   விநியோகத்தில் ஈடுபட்டிருந்த 20 வயதுடைய பட்டதாரி யுவதியொருவர் ஐஸ் போதைப்பொருளுடன் கைது செய்யப்பட்டதாக ஹன்வெல்ல பொலிஸார் தெரிவித்தனர்.
-
-இந்தயுவதி, இரண்டு தனியார் பல்கலைக்கழகங்களில் இரண்டு பட்டங்களை பெற்றுள்ளதாகவும், வெளிநாடு செல்வதற்கு தேவையான பணத்தை திரட்டுவதற்காக போதைப்பொருள் விற்பனையில் ஈடுபட்டு வந்தது தெரியவந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
-
-ஹன்வெல்ல நகரில் யுவதியொருவர் ஐஸ் போதைப்பொருள் விநியோகம் செய்வதாக ஹன்வெல்ல பொலிஸ் நிலைய பொறுப்பதிகாரி ஆர்.எஸ். இராஜசிங்கத்திற்கு கிடைத்த தகவலின் அடிப்படையில் அதிகாரிகள் குழுவொன்று சென்று சந்தேக நபரான யுவதியை கைது செய்தது.
-
-ஹங்வெல்ல பிரதேசத்தில் உள்ள துபாய் குற்றவாளியின் போதைப்பொருள் வலையமைப்பின் பொறுப்பாளருடன் அவரது உறவினருக்கு நெருங்கிய தொடர்பு இருப்பதால், சந்தேக நபர் அந்த உறவின் அடிப்படையில் ஐஸ் போதைப்பொருளை பெற்று விற்பனை செய்துள்ளார் விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாக ஹங்வெல்ல பொலிஸ் உயர் அதிகாரி தெரிவித்தார்.
-
-...
-
-[Data](articles/bf21ff01.json)
-
----
-
-### ටෙස්ට ලකුණු 10,000 එක් ලකුණකින් අහිමි වූ ස්මිත්
-
-*2025-01-05 13:54:29* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට-ලකුණු-10-000-එක්-ලකුණකින්-අහිමි-වූ-ස්මිත්/9-414010) · `si`
-
-ඉන්දීය කණ්ඩායම සමග පැවති අවසන් ටෙස්ට් තරගයේ දෙවන ඉනිමේදී ඕස්ට්‍රේලියානු කණ්ඩායමේ පිතිකරු ස්ටීව් ස්මිත්ට  සුවිශේෂී කඩයිමක් පෙනි පෙනී දැවී ගියේය.
-
-ටෙස්ලට් ලකුණු  10,000 සීමාව ලගටම පැමිණ ලකුණු 9999ලබා සිටියදී දැවී ගි​යේය.
-
-ඉන්දීය කණ්ඩායම සහ ඕස්ට්‍රේලියානු කණ්ඩායම අතර පැවති අවසන් ටෙස්ට් ක්‍රිකට් තරගයේදී මෙම කටයිම පසු කිරීමට ඔහුට නොහැකි වූ අතර, එලැඹෙන ශ්‍රී ලංක සංචාරයේදී මෙම කඩයිම පසු කිරීමට ඔහුට අවස්ථාව හිමිවේ.
-
-◼️
-
-[Data](articles/f2f7f8ed.json)
 
 ---

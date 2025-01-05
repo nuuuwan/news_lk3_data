@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 22:28:10**
+As of **2025-01-05 22:43:44**
 
 ## Newspaper Stats
 
-*Scraped **63,815** Articles*
+*Scraped **63,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,884
 islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,094
+adalk | 6,095
 adaderanalk | 7,808
 tamilmirrorlk | 9,153
 virakesarilk | 10,660
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,815 articles have been extended.
+61,971 (97.1%) of 63,816 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -303,6 +303,22 @@ Furthermore, the Office of the Prime Minister and Minister of Education has assu
 ...
 
 [Data](articles/f7b3d451.json)
+
+---
+
+### කොටගල වෙළෙන්දෝ සහල් අලෙවියෙන් ඉවත් වෙති
+
+*2025-01-05 18:51:55* · [`adalk`](https://www.ada.lk/breaking_news/කොටගල-වෙළෙන්දෝ-සහල්-අලෙවියෙන්-ඉවත්-වෙති/11-414023) · `si`
+
+පාලන මිලට සහල් අලෙවි කිරිමට තමන්ට සහල් තොග නොලැබෙන නිසා පාලන මිලට සහල් අලෙවි කිරිමට නොහැකි තත්ත්වයක් උද්ගත විම හමුවේ සහල් අලෙවියෙන් කොටගල එක්සත් වෙළඳ සංගමය ඉවත් විමට තිරණය කර ඇති බව එම සංගමයේ සභාපති පුෂ්පා විශ්වනාත් මහතා කියා සිටියේය.
+
+අද (05) දින පස්වරුවේ හැටන් කොටගල නගරයේදි මාධ්‍ය හමුවක් පවත්වමින් එම සංගමයේ සභාපතිවරයා කියා සිටියේ පාරිභෝගික සේවා අධිකාරිය මගින් පාලන මිලට සහල් අලෙවි කරන ලෙසට කොටගල නගරයේ සියළුම වෙලදසැල් හිමියන්ව ලිඛිතව දැනුවත් කර ඇති බවයි.
+
+පාලන මිලට සහල් අලෙවි නොකරන වෙලෙදුන්ට රු ලක්ෂයේ සිට ලක්ෂ පහ දක්වා දඩ මුදල් නියම කරන බවත්, එවන් තත්ත්වයක් මත තමන්ට සහල් අලෙවි කිරිමට නොහැකි තත්ත්වයක් උද්ගල විම හමුවේ කොටගල එක්සත් වෙලද සංගමය මෙම තිරණය ගත් බවද සභාපතිවරයා සදහන් කළේය.
+
+...
+
+[Data](articles/7be4d6a1.json)
 
 ---
 
@@ -1667,19 +1683,5 @@ Born and raised in the predominantly Republican state of Georgia, Carter graduat
 ◼️
 
 [Data](articles/faf9d8d7.json)
-
----
-
-### Santiago of Maradana
-
-*2025-01-05 11:32:00* · [`islandlk`](http://island.lk/santiago-of-maradana/) · `en`
-
-During a recent visit to the pearl of the Indian Ocean, I was keen for my grandsons to visit my old school by the Beira. They had heard so much from me about the college chapel with its soaring dome shaped ceiling with the solar monstrance at the top, which they dismissed as a figment of seeya’s imagination.
-
-Many facts and figures such as architect Booth, of Booth, Edward, and Reid, claiming it was the most beautiful chapel in Ceylon, or that it was modelled on the arch-basilica of St John Lateran in Rome, did not cut any ice with them. I had fond memories of 1,500 boys raising the roof with their lusty rendition of “We stand for God”, and I insisted on a visit.
-
-...
-
-[Data](articles/38fc7ea7.json)
 
 ---

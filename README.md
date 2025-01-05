@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 00:27:50**
+As of **2025-01-06 00:43:38**
 
 ## Newspaper Stats
 
-*Scraped **63,826** Articles*
+*Scraped **63,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,886
 islandlk | 3,890
-dailyftlk | 4,433
+dailyftlk | 4,434
 dailymirrorlk | 4,733
 adalk | 6,096
 adaderanalk | 7,809
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,826 articles have been extended.
+61,971 (97.1%) of 63,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -147,6 +147,20 @@ Literarily, the cleaning of Sri Lanka means conscious efforts taken to rid the p
 ...
 
 [Data](articles/1afa18ef.json)
+
+---
+
+### Clean minds essential for a Clean Sri Lanka
+
+*2025-01-05 22:00:37* · [`dailyftlk`](https://www.ft.lk/columns/Clean-minds-essential-for-a-Clean-Sri-Lanka/4-771407) · `en`
+
+The first and most important phase of the renaissance of the country must be the cleansing of the minds of the people
+
+While decades of decay will necessarily take time and a generational shift to achieve the President’s ultimate vision, the immediate picking of low hanging fruit is a promising start. Such pickings could take the form of keeping the physical environment clean, instilling road traffic and pedestrian discipline, practicing courteous behaviour towards each other and even improving public hygiene. Even something simple as a pleasant smile can evoke a sense of national wellbeing. Constant and reinforced messaging regarding bribery and corruption at the low levels supported by processes and mechanisms for bringing such acts to public attention and shaming the perpetrators
+
+...
+
+[Data](articles/a7e100fb.json)
 
 ---
 
@@ -1661,17 +1675,5 @@ in the era in which Mahatma Gandhi played such an important role in Indian and W
 ◼️
 
 [Data](articles/f4a7f84d.json)
-
----
-
-### ஒப்­புக்­கொள்ளும் உண்­மைகள்
-
-*2025-01-05 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/203004) · `ta`
-
-சமா­தானப் பேச்­சு­வார்த்­தை­களில் வெற்­றி­பெற முடி­யாது என்­பது பிர­பா­க­ர­னுக்குத் தெரியும் என்றால், பேச்­சு­வார்த்­தை­மூலம் இலங்கை அர­சாங்கம் தீர்வு ஒன்றை வழங்கப் போவ­தில்லை, அதற்­கான வாய்ப்பு இல்லை என்­பது அவ­ருக்கு தெரிந்­தி­ருக்­கி­றது என்று தான் அர்த்தம்.
-
-◼️
-
-[Data](articles/0c902ac2.json)
 
 ---

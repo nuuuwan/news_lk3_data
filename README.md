@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 14:43:43**
+As of **2025-01-05 15:02:12**
 
 ## Newspaper Stats
 
-*Scraped **63,717** Articles*
+*Scraped **63,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,64 @@ economynextcom | 3,884
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,084
-adaderanalk | 7,794
+adaderanalk | 7,800
 tamilmirrorlk | 9,142
 virakesarilk | 10,623
-adaderanasinhalalk | 11,003
+adaderanasinhalalk | 11,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,717 articles have been extended.
+61,971 (97.2%) of 63,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### වනඅලින්ට GPS කරපටි
+
+*2025-01-05 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205053) · `si`
+
+අනුරාධපුර ප්‍රදේශ කිහිපයක සිටින වනඅලි විල්පත්තුව දක්වා පන්නා දැමීමේ මෙහෙයුම් සඳහා GPS තාක්ෂණය යොදාගැනීමට වනජීවී දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+ඒ අනුව වනඅලින්ට GPS තාක්ෂණය සහිත කරපටියක් පැළඳීමේ මෙහෙයුමක් ඔයාමඩුවෙන් ආරම්භ කර ඇත.
+
+මෙම මෙහෙයුම සඳහා වනජීවි නිලධාරීන්, ශ්‍රී ලංකා නාවික හමුදාව සහ ප්‍රදේශවාසීන් එක්ව සිටි බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+ඒ වනඅලි සිටින ස්ථාන හඳුනාගැනීම සහ ඔවුන්ගේ ගමන් මාර්ග අධ්‍යයනය කිරීමේ අරමුණින්ය.
+
+සමීක්ෂණවලට අනුව මෙරට භෝග වගාවන්ට හානි පමුණුවන සතුන් අතර වන අලියාට හිමිවන්නේ ප්‍රමුඛස්ථානයකි.
+
+දිවයිනේ ප්‍රදේශ රැසකින් දෛනිකව වනඅලි හානි වාර්තාවන්නේ ඒ බව තවදුරටත් තහවුරු කරමිනි.
+
+එලෙස වගා හානි බහුලව සිදුවන අනුරාධපුර දිස්ත්‍රික්කයේ වනඅලි, රක්ෂිත වෙත පළවා හැරීමේ මෙහෙයුමක් පසුගියදා ආරම්භ කෙරුණේ ඒ අනුවය.
+
+අනුරාධපුර වනඅලි විල්පත්තුව ජාතික වනෝද්‍යානය දක්වා පන්නා දැමීමේ කටයුතු ඒ අනුව ආරම්භ කෙරුණත්, ප්‍රදේශවාසීන් චෝදනා කළේ එම කටයුතු අතරමග නවතාදැමීමෙන් ප්‍රදේශ කිහිපයක වනඅලි ගැටලුව තීව්‍ර වී ඇති බවය.
+
+◼️
+
+[Data](articles/8cbef55e.json)
+
+---
+
+### ආනන්ද පාලිතට එරෙහිව මිලියන 500ක එන්තරවාසියක්
+
+*2025-01-05 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205052) · `si`
+
+සමගි ජන බලවේගයේ වෘත්තීය සමිති නායකයකු වන ආනන්ද පාලිත මහතා විසින් සිදුකර ඇති ප්‍රකාශයක් හේතුවෙන් සිය කීර්ති නාමයට හානි සිදුවූ බව කියමින් රුපියල් මිලියන 500ක එන්තරවාසියක් යොමු කිරීමට ලංකා ඛනිජ තෙල් සංස්ථාවේ සභාපති, ඩී ජේ රාජකරුණා මහතා පියවර ගෙන ඇතැයි වාර්තා වේ.
+
+හිතාමතා, සැලසුම් සහගතව කරන ලද අසත්‍ය සහ ද්වේශසගහගත ප්‍රචාරයන් සම්බන්ධයෙන් මෙලෙස වන්දි ඉල්ලා සභාපතිවරයා විසින් නීතිඥවරුන් මාර්ගයෙන් මෙම එන්තරවාසිය යොමු කර තිබේ.
+
+මෙම එන්තරවාසිය පසුගිය දෙසැම්බර් මස 24 වැනි දින නීතිඥ සම්පත් යාලේවත්ත මඟින් යවා ඇති බවද සඳහන් වේ.
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ලෙස වගකීම් දැරීම සම්බන්ධයෙන් පසුගිය 2024 දෙසැම්බර්මස 13 වැනි දින හෝ ඊට ආසන්න දිනයක දී ආනන්ද පාලිත විසින් අසත්‍ය සහ ද්වේෂසහගත ප්‍රකාශයක් තමන්ට එරෙහිව සිදුකර ඇතැයි ලංකා ඛණිජ තෙල් සංස්ථාවේ සභාපති, ඩී. ජේ රාජකරුණා තම නීතිඥයන් මඟින් අවධාරණයකර ඇත.
+
+...
+
+[Data](articles/c02ff9ff.json)
+
+---
 
 ### நீதிபதிகளை நியமிக்க அரசியலமைப்பு பேரவை அங்கீகாரம்
 
@@ -60,6 +104,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Govt. decides not to liquidate ‘Thriposha’ Company
+
+*2025-01-05 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104733/govt-decides-not-to-liquidate-thriposha-company) · `en`
+
+The government has announced its commitment to continue operating the ‘Thriposha’ Company in Kandana as a state-owned institution, with plans to renovate and develop the facility to better serve the nutritional needs of the people.
+
+The decision has been made during a discussion chaired by the Minister of Health Dr. Nalinda Jayatissa on January 04, focusing on the current status and future development of the ‘Thriposha’ Company.
+
+Highlighting the lack of a formal, targeted program by previous administrations, the Minister pointed out that this had led to the public missing out on the full benefits of the company. In response, the Minister assured that the government is determined to transform the company into a thriving entity that actively contributes to addressing the nation’s nutritional challenges.
+
+...
+
+[Data](articles/d1f070c4.json)
+
+---
+
 ### ஐஸ் விற்ற பட்டதாரி யுவதி கைது
 
 *2025-01-05 14:03:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐஸ்-விற்ற-பட்டதாரி-யுவதி-கைது/175-349781) · `ta`
@@ -75,6 +135,78 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bf21ff01.json)
+
+---
+
+### රාජ්‍ය සේවකයින්ගේ වැටුප් රහිත නිවාඩුව ගැන දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් මාලාවක්
+
+*2025-01-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205051) · `si`
+
+විශ්‍රාම වැටුපට හානියක් නොවන පරිදි රාජ්‍ය නිලධාරීන්ට දේශීය විදේශීය වැටුප් රහිත නිවාඩු ලබාදීම සම්බන්ධයෙන් රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන අමාත්‍යංශය විසින් සියලු දිස්ත්‍රික් ලේකම්වරුන් වෙත විශේෂ දැනුම් දීමක් සිදුකර තිබේ.
+
+අදාළ නිවාඩු අනුමත කිරීමේ දී දිස්ත්‍රික් ලේකම්වරුන් විසින් පිළිපැදිය යුතු උපදෙස් මාලාවක් එමගින් නිකුත් කර ඇති බව වාර්තා වෙයි.
+
+2022 වසරේ ජුනි මස 22 වන දින රාජ්‍ය පරිපාලන චක්‍රලේඛයට අනුව වැටුප් රහිත නිවාඩු ලබාදීමේ දී සිදුවන අක්‍රමිකතා මඟහරවා ගැනීම සඳහා එම උපදෙස් මාලාව නිකුත් කර තිබේ.
+
+ඇතැම් රාජ්‍ය නිලධාරීන් වසර 05ක් සඳහා දේශීය නිවාඩු ලබාගෙන එම නිවාඩු අවලංගු කිරීමකින් තොරව විදේශ නිවාඩු අයදුම් කිරීමේ සිදුවීම් ද වාර්තා වන බැවින් ඒ පිළිබඳව නිවාඩු අනුමත කිරීමට පෙර සලකාබලන ලෙස රාජ්‍ය පරිපාලන අමාත්‍යංශය දිස්ත්‍රික් ලේකම්වරුන්ට දැනුම් දී ඇති බව සඳහන්ය.
+
+විදේශ නිවාඩු අයදුම්පත් යොමු කිරීමේ දී නිලධාරීන් විසින් මීට පෙර ලබා ඇති දේශීය හා විදේශීය නිවාඩු පරීක්ෂා කර ආවරණ ලිපිවල ඒ පිළිබඳව පැහැදිලිව සටහන් කළ යුතු බව අමාත්‍යංශය වැඩිදුරටත් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/c0a7e45d.json)
+
+---
+
+### ත්‍රිපෝෂ සමාගම ඈවර නොකිරීමට තීරණයක්
+
+*2025-01-05 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205050) · `si`
+
+කඳානේ පිහිටි ත්‍රිපෝෂ සමාගම මෙරට ජනතාවගේ පෝෂණ අවශ්‍යතා සම්පූර්ණ කිරීම වෙනුවෙන් නව්‍යකරණයට ලක්කර සංවර්ධනය කරමින් රජය සතු ආයතනයක් ලෙස අඛණ්ඩව පවත්වාගෙන යාමට රජය තීරණය කර තිබේ.
+
+ඒ ඊයේ (04) සෞඛ්‍ය අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් ත්‍රිපෝෂ සමාගමේ වත්මන් තත්ත්වය සහ එහි ඉදිරි සංවර්ධන කටයුතු පිළිබඳ අදාළ නිලධාරීන් සමග පැවැත්වූ සාකච්ඡාවකදීය.
+
+අමාත්‍යවරයා මෙහිදී පැවසුවේ පැවැති රජයන් මෙම ත්‍රිපෝෂ සමාගම සංවර්ධනය කර එහි ප්‍රතිලාභ ජනතාවට ලබා දීමට විධිමත් සහ ඉලක්කගත වැඩපිළිවෙළක් ක්‍රියාත්මක නොකිරීම මත එහි ප්‍රතිලාභ ජනතාවට අහිමි වන තත්ත්වයක් උදාවෙමින් පැවැති බවය.
+
+එම තත්ත්වය වෙනස් කර නැවත මෙරට ජනතාවගේ පෝෂණ අවශ්‍යතා සපයන සක්‍රීය ආයතනයක් බවට ත්‍රිපෝෂ සමාගම පත් කිරීමටත් රජය කටයුතු කරන බව අමාත්‍යරයා පැවසීය.
+
+එමෙන්ම ත්‍රිපෝෂ සමාගම ඈවර කිරීමට වෙනුවට එය රටේ ජනතාවගේ උන්නතිය සහ පෝෂණ අවශ්‍යතා වෙනුවෙන් ලාභ ලබන ආයතනයක් බවට පත් කරමින් විධිමත් සංවර්ධන වැඩපිළිවෙළක් යටතේ රජය සතු දියුණු ආයතනයක් ලෙස අඛණ්ඩව පවත්වාගෙන යාමට කටයුතු කරන බවත් ඔහු මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/8c15aa8e.json)
+
+---
+
+### President and AG to discuss progress of controversial cases
+
+*2025-01-05 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104732/president-and-ag-to-discuss-progress-of-controversial-cases-) · `en`
+
+President Anura Kumara Dissanayake will reportedly meet with the Attorney General (AG) tomorrow (06).
+
+It is reported that the discussion will focus on the progress of several high-profile controversial cases.
+
+Additionally, the challenges faced in handling criminal cases will also be addressed during the meeting, as per reports.
+
+◼️
+
+[Data](articles/ad96d962.json)
+
+---
+
+### Tax evasion by top earners to blame for revenue shortfalls: Experts
+
+*2025-01-05 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104731/tax-evasion-by-top-earners-to-blame-for-revenue-shortfalls-experts-) · `en`
+
+Tax expert N.R. Gajendran says Sri Lanka’s inability to meet tax revenue targets despite tax hikes is due to the tax leakages spurred by tax evasion.
+
+Joining Ada Derana’s current affairs program “@HydePark”, Gajendran further expressed that digitalization of proceedings of the Inland Revenue Department (IRD) will significantly contribute to bolstering efficiency while also eradicating loopholes which facilitate tax evasion.
+
+“All the taxes have gone up, but we’re still struggling to achieve 13.9% to 14% tax revenue. Next year, 2025, we’re hoping to reach 15%, which is still below what we achieved in the early 90s, 22% tax to GDP ratio. Most of the countries, even developing countries achieve 18% - 22% taxes”, Gajendran mentioned.
+
+...
+
+[Data](articles/4611ef04.json)
 
 ---
 
@@ -103,6 +235,22 @@ in the era in which Mahatma Gandhi played such an important role in Indian and W
 ...
 
 [Data](articles/5f85f9b8.json)
+
+---
+
+### ජනපති සහ නීතිපති අතර හමුවක්?
+
+*2025-01-05 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205049) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානයක මහතා සහ නීතිපතිවරයා අතර සාකච්ඡාවක් හෙට (06) පැවැත්වීමට නියමිතව තිබේ.
+
+එහිදී පසුගිය සමයේ ආන්දෝලනයට තුඩු දුන් නඩුවල ප්‍රගතිය සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිතව ඇතැයි වාර්තා වෙයි.
+
+මෙ අතර අපරාධ නඩු පවත්වාගෙන යෑමේදී සිදුවන අපහසුතා පිළිබඳවද මෙහිදී අවධානයට ලක් වනු ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/d893476b.json)
 
 ---
 
@@ -188,6 +336,28 @@ Born and raised in the predominantly Republican state of Georgia, Carter graduat
 
 ---
 
+### මාරක අනතුරු කිහිපයකින් පස්දෙනෙක් මරුට
+
+*2025-01-05 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205048) · `si`
+
+ගතවූ පැය 24 තුළ දිවයිනේ විවිධ ප්‍රදේශවල සිදුවූ රිය අනතුරු 05කින් තරුණයෙක් සහ කාන්තාවක් ඇතුළු පස්දෙනෙකු මියගොස් තිබේ.
+
+ඊයේ (04) එම අනතුරු සිදුව තිබුණේ ඇඹිලිපිටිය, ආනමඩුව, පොතුහැර, කටුවන සහ නිට්ටඹුව යන පොලිස්වසම්වලය.
+
+රත්නපුරය - ඇඹිලිපිටිය ප්‍රධාන මාර්ගයේ ගල්වංගුව ප්‍රදේශයේදී උඩවලව දෙස සිට ඇඹිලිපිටිය දෙසට ධාවනය වූ බස් රථයක් බස් නැවතුමේ නවතා මගීන් රැගෙන එම නැවතුමෙන් යළි ධාවනය කිරීමේදී එහි සිටි මගී කාන්තාවක් බස් රථයේ පිටුපස රෝදයට හසු වීමෙන් අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ මගී කාන්තාව ඇඹිලිපිටිය රෝහලට ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇති බව වාර්තා වෙයි.
+
+එමෙන්ම ආනමඩුව, ආඩිගම - කිරියන්කල්ලිය මාර්ගයේ කට්ටුව ප්‍රදේශයේදී ආඩිගම දෙස සිට කිරියන්කල්ලිය දෙසට ධාවනය වූ යතුරු පැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගය අයිනේ ගමන් කළ පදික පුද්ගලයෙකුගේ ගැටී අනතුරක් සිදුව තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පැදිකරු හා පදික පුද්ගලයා ආනමඩුව රෝහලට ඇතුලත් කර ප්‍රථිකාර ලබමින් සිටියදී පදික පුද්ගලයා මියගොස් ඇති බව සඳහන් වෙයි.
+
+...
+
+[Data](articles/b3c25da0.json)
+
+---
+
 ### ”அகதிகளை நாடு கடத்தும் தீர்மானத்தை மீள்பரிசீலனை செய்யவும்”
 
 *2025-01-05 11:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகதிகளை-நாடு-கடத்தும்-தீர்மானத்தை-மீள்பரிசீலனை-செய்யவும்/175-349776) · `ta`
@@ -237,6 +407,24 @@ Many facts and figures such as architect Booth, of Booth, Edward, and Reid, clai
 ...
 
 [Data](articles/38fc7ea7.json)
+
+---
+
+### Sri Lanka Police launch special two-week traffic operations
+
+*2025-01-05 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104729/sri-lanka-police-launch-special-two-week-traffic-operations) · `en`
+
+Sri Lanka Police have taken steps to implement two traffic operations aimed at reducing road accidents and easing traffic congestion, in line with the ‘Clean Sri Lanka’ national initiative.
+
+The first operation targets vehicles with various horns, additional flashing lights of different colors, illegal modifications, loud horns, loud silencers, and additional parts that could contribute to accidents and road hazards.
+
+The second operation will involve deploying police officers dressed in civil clothing to identify traffic violations committed by drivers of public transport buses and enforce law for those violations, according to police.
+
+These operations were implemented as a two-week pilot project from yesterday (January 4) until January 19, with the objective of raising awareness among motorists and the public.
+
+...
+
+[Data](articles/6ed924eb.json)
 
 ---
 
@@ -368,6 +556,48 @@ Prior to American presidential elections on November 5 last year, Jimmy Carter s
 
 ---
 
+### Two arrested in Seenigama with grenades, pistol and ammunition
+
+*2025-01-05 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104728/two-arrested-in-seenigama-with-grenades-pistol-and-ammunition) · `en`
+
+Two persons have been arrested by the Police Narcotics Bureau (PNB) in the Seenigama area for the possession of two grenades, an 8mm pistol, 66 rounds of T-56 ammunition and 55 rounds for 9mm ammunition.
+
+Police stated that the suspects were arrested based on a tip-off received from the Director of the Police Narcotics Bureau (PNB).
+
+Meanwhile, the police have urged the public to report information on possessing any illegal firearms by contacting the Intelligence and Surveillance Officer of the PNB. The relevant officer can be reached via the contact number 071 8596476.
+
+In the meantime, the police have arrested a suspect in the Tangalle area yesterday (04), who was in the possession of a locally-manufactured firearm.
+
+The arrest took place during a raid conducted in the Wathumulla area of Okewela by a team of officers attached to Tangalle Police Special Task Force (STF), according to police.
+
+◼️
+
+[Data](articles/7768fdfb.json)
+
+---
+
+### ගිනිඅවියක් සමග පුද්ගලයින් දෙදෙනෙක් සීනිගමදී අත්අඩංගුවට
+
+*2025-01-05 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205047) · `si`
+
+මෙරට නිෂ්පාදිත මිලිමීටර් 8  පිස්තෝල අවියක් සහ ජීව උණ්ඩ තොගයක් සමග සැකකරුවන් දෙදෙනක් සීනිගම ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (04) පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ අධ්‍යක්ෂවරයාට ලද තොරතුරක් මත අදාළ සැකකරුවන අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සතුව තිබී මිලිමීටර් 9 ගිනි අවි සඳහා භාවිත කරනු ලබන උණ්ඩ 50කට අධික ප්‍රමාණයක්, අත්බෝම්බ 02ක් සහ ටී - 56 ගිනි අවිය සඳහා භාවිත කරනු ලබන පතොරම් 80කට අධික ප්‍රමාණයක් පොලීසිය විසින් මෙහිදී සොයාගෙන තිබේ.
+
+මේ අතර මෙවැනි නීනිවිරෝධී ගිනිඅවි සම්බන්ධයෙන් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ බුද්ධි හා ආවේක්ෂණ ස්ථානාධිපතිවරයාගේ දුරකථන අංකයට දැනුම් දෙන ලෙස පොලීසිය විසින් ඉල්ලීමක් කර තිබේ.
+
+ඒ අනුව 071 8596476 යන දුරකථන අංකයෙන් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ බුද්ධි හා ආවේක්ෂණ ස්ථානාධිපතිවරයා සම්බන්ධ කරගත හැකි බවද පොලීසිය පැවසීය.
+
+මේ අතර ඊයේ (04) තංගල්ල ප්‍රදේශයේදී ද මෙරට නිෂ්පාදිත ගිනි අවියක් සමග සැකකරුවෙක් අත්අඩංගුවට ගැනීමට පොලීසිය සමත් ව තිබේ.
+
+...
+
+[Data](articles/955adebd.json)
+
+---
+
 ### ණය උගුල්වල පැටලුණ කාන්තාවන් 200ක් දිවි නසාගෙන
 
 *2025-01-05 10:56:53* · [`adalk`](https://www.ada.lk/breaking_news/ණය-උගුල්වල-පැටලුණ-කාන්තාවන්-200ක්-දිවි-නසාගෙන/11-414007) · `si`
@@ -403,6 +633,28 @@ Prior to American presidential elections on November 5 last year, Jimmy Carter s
 ...
 
 [Data](articles/5e758a1a.json)
+
+---
+
+### Biden plans to send $8bn arms shipment to Israel
+
+*2025-01-05 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/104727/biden-plans-to-send-8bn-arms-shipment-to-israel) · `en`
+
+The US Department of State has notified Congress of a planned $8bn (£6.4bn) arms sale to Israel, an American official has confirmed to the BBC.
+
+The weapons consignment, which needs approval from House and Senate committees, includes missiles, shells and other munitions.
+
+The move comes just over a fortnight before President Joe Biden leaves office. Washington has rejected calls to suspend military backing for Israel because of the number of civilians killed during the war in Gaza.
+
+In August, the US approved the sale of $20bn in fighter jets and other military equipment to Israel.
+
+The latest planned shipment contains air-to-air missiles, Hellfire missiles, artillery shells and bombs, the US official said.
+
+A source familiar with the sale told the BBC on Saturday: “The president has made clear Israel has a right to defend its citizens, consistent with international law and international humanitarian law, and to deter aggression from Iran and its proxy organisations.
+
+...
+
+[Data](articles/7820c8a3.json)
 
 ---
 
@@ -458,6 +710,28 @@ Prior to American presidential elections on November 5 last year, Jimmy Carter s
 
 ---
 
+### මිලියන 50ක කෘෂි රසායන නීතිවිරෝධීව ගෙන්වූ 4ක් කොටුවෙයි
+
+*2025-01-05 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205045) · `si`
+
+ඉන්දියාවේ සිට නීතිවිරෝධී අයුරින් ගෙන්වූ කෘෂි රසායනික ද්‍රව්‍ය තොගයක් සමග පුද්ගලයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම පිරිස ඊයේ (04) යාපනය වේලනෙයි, තුරේයුර් ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+නීතිවිරෝධීව කෘෂි රසායනික ද්‍රව්‍ය තොගයක් ගෙන්වූ බවට යුධ හමුදා බුද්ධි තොරතුරක් මත පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් විසින් අදාළ වැටලීම සිදුකර තිබේ.
+
+පොලීසිය පැවසුවේ එහිදී නිලධාරීන් භාරයට ගත් කෘමි නාශක ඇතුළු කෘෂි රසායනික ද්‍රව්‍ය තොගය රුපියල් මිලියන 50කට ආසන්න බවය.
+
+සැකකරුවන් හා කෘෂි රසායන ද්‍රව්‍ය තොගය යාපනය කයිට්ස් මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+සිද්ධිය සම්බන්ධයෙන් කයිට්ස් පොලිසිය හා යාපනය පොලිස් විශේෂ කාර්ය බළකාය වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/4799dda4.json)
+
+---
+
 ### அகதிகளாக எல்லோரும் வர முற்பட்டால் இலங்கைக்கு நெருக்கடி ; ரோஹிங்கியா அகதிகளை மீள அனுப்புவது குறித்து அவதானம்  - அரசாங்கம்
 
 *2025-01-05 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202988) · `ta`
@@ -489,6 +763,30 @@ Prior to American presidential elections on November 5 last year, Jimmy Carter s
 ◼️
 
 [Data](articles/7276e1ae.json)
+
+---
+
+### නවසීලන්තයට පහසු ජයක්
+
+*2025-01-05 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205044) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක නවසීලන්ත කණ්ඩායම අතර අද (05) පැවැති පළමු එක්දින තරගය කඩුලු 09කින් ජයගැනීමට නවසීලන්ත කණ්ඩායම සමත්විය.
+
+කාසියේ වාසිය දිනාගත් නවසීලන්ත එක්දින නායක මිචෙල් සැන්ටර් විසින් පළමුවෙන් පන්දුවට පහර දීම සඳහා ශ්‍රී ලංකා පිලට ආරාධනය කළේය.
+
+ඒ අනුව, පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 43යි පන්දු 4ක් අවසානයේ දී සියලුදෙනා දැවී ලබා ගැනීමට හැකිවූයේ ලකුණු 178ක් පමණි.
+
+එක් අවස්ථාවක ලකුණු 23ක් ඇතුළත මුල් පෙළේ කඩුලු 4ක් බිඳ වැටී ශ්‍රී ලංකා පිල දැඩි අසීරු අඩියකට පත්ව සිටි අතර එහි දී ආරම්භක පිතිකරු අවිශ්ක ප්‍රනාන්දු (56) සහ ජනිත් ලියනගේ (36) එක්ව ගොඩනගන ලද ලකුණු 87 ක් සම්බන්ධතාවය හරහා යම්කිසි අස්වැසිල්ලක් ශ්‍රී ලංකා පිලට ලබා දීමට සමත්වුණි.
+
+මීට අමතර මැදපෙළ පිතිකරුවන් ලෙසින් වනිඳු හසරංග ලකුණු 35 ක් සහ චමිඳු වික්‍රමසිංහ ලකුණු 22 ක් බැගින් ලබා ගැනීමට සමත්විය.
+
+සෙසු එකදු පිතිකරුවකු හෝ ලකුණු 10 සීමාව ඉක්මවා යාමට සමත් නොවීම ශ්‍රී ලංකා පිලේ දුර්වල පිතිහරඹය මොනවට කියාපාන්නකි.
+
+අද දින ශ්‍රී ලංකා පිල වෙනුවෙන් ඒෂාන් මාලිංග එක්දින වරම් දිනාගැනීමට සමත්වීම විශේෂ සිදුවීමකි.
+
+...
+
+[Data](articles/cde54a6c.json)
 
 ---
 
@@ -1527,295 +1825,5 @@ Delegations from China, India, the United States, Europe, and several other coun
 ◼️
 
 [Data](articles/dbaf6209.json)
-
----
-
-### වැලිගම වෙඩිතැබීමේ සිද්ධිය ගැන තවත් තොරතුරු
-
-*2025-01-04 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205022) · `si`
-
-අද (04) අලුයම මාතර, වැලිගමදී සිදුකළ වෙඩිතැබීමේ සිද්ධියේ වෙඩික්කරුවන් පැමිණි බවට සැකකරන යතුරුපැදියක් පොලීසිය විසින් සොයාගෙන තිබේ.
-
-එම යතුරුපැදිය සොයාගෙන ඇත්තේ, වැලිගම මූනමල්පේ ප්‍රදේශයේ වැවක දමාගොස් තිබියදීය.
-
-මාතර බන්ධනාගරයේ සිරකරුවන් රඳවා සිටින වාට්ටුවක් මතට බෝ අත්තක් කඩා වැටීමෙන් මියගිය සිරකරුවාගේ දේහය තැන්පත් කර ඇති තුර්කි ගම්මානයේ පිහිටි නිවසට පස්දෙනෙකුගෙන් යුත් පිරිසක් ඊයේ (03) රාත්‍රියේ ගොස් තිබුණි.
-
-අනතුරුව අද (04) අලුයම එකට පමණ එම පිරිස නැවත නිවෙස්වෙත පා ගමනින් පැමිණෙමින් සිටියදී වැලිගම, කප්පරතොට, වල්ලිවෙල මාර්ගයේදී වෙඩි ප්‍රහාරයකට ලක්වී ඇති බව පොලීසිය සඳහන් කළේය.
-
-යතුරුපැදි තුනකින් පැමිණි නාඳුනන පිරිසක් රිවෝල්වරයකින් හා ටී 56 වර්ගයේ ගිනිඅවියකින් එම වෙඩි ප්‍රහාරය එල්ල කර පලාගොස් ඇති බව පොලීසිය සැකකරයි.
-
-එහිදී පාගමනින් ගමන්කරමින් සිටි පස්දෙනාගෙන් දෙදෙනෙකුට තුවාල සිදුව ඇති අතර පසුව ඔවුන් දෙදෙනාව මාතර, වලාන රෝහලට ඇතුළත් කරනු ලැබීය.
-
-රෝහල්ගත කිරීමේදී එක් අයෙක් මියගොස් ඇති බවත් අනෙක් පුද්ගලයා වැඩිදුර ප්‍රතිකාර සඳහා මාතර රෝහලවෙත මාරුකර ඇති බවත් පොලීසිය සඳහන් කළේය.
-
-...
-
-[Data](articles/09911b19.json)
-
----
-
-### රු. මි. 102 ,000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් 08 දා
-
-*2025-01-04 14:51:29* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--102--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-08-දා/11-413999) · `si`
-
-රුපියල් මිලියන එක්ලක්ෂ දෙදහසක් වටිනා භාණ්ඩාගාර බිල්පත් නිකුතු වෙන්දේසියක් ජනවාරි 08 දා පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
-
-දින 91 න් කල් පිරෙන රුපියල් මිලියන 30,000  ක  භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 30,000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන  42,000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව සඳහන් කරයි.
-
-වෙන්දේසිය සඳහා ලංසු භාර ගැනීම ජනවාරි 08 දා  දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.
-
-මේ භාණ්ඩාගාර බිල්පත් සඳහා   ගෙවීම්  ජනවාරි  10 දා සිදුකිරීමට නියමිතය .
-
-◼️
-
-[Data](articles/9e3ca1ae.json)
-
----
-
-### கடலில் கிடைத்த 11 கிலோ தங்கம்...
-
-*2025-01-04 14:38:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-கிடைத்த-11-கிலோ-தங்கம்/175-349734) · `ta`
-
-கற்பிட்டி - பத்தலண்குண்டுவ கடற் பகுதியில் 11 கிலோ 300 கிராம் நிறையுடைய தங்கத்துடன் சந்தேக நபர்கள் மூவர் இன்று கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்களிடமிருந்து கைப்பற்றப்பட்ட தங்கம் 28 கோடி ரூபாவுக்கும் அதிக பெறுமதியுடையது எனத் தெரிவிக்கப்படுகிறது.
-
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் 40 இற்கும் 45 இற்கும் இடைப்பட்டவர்கள் என்றும் கற்பிட்டி பகுதியைச் சேர்ந்தவர்கள் எனவும் கடற்படையினர் தெரிவித்தனர்.
-
-கற்பிட்டி - பத்தலண்குண்டுவ கடற் பகுதியில் சந்தேகத்திற்கு இடமான டிங்கி இயந்திர படகு ஒன்றினை கடற்படையினர் சோதனை செய்தனர்.
-
-இதன்போதே, குறித்த இயந்திர படகில் தங்கம் கடத்தப்பட்டமை தெரியவந்துள்ளது. இதன்போது குறித்த தங்கத்தை பறிமுதல் செய்த கடற்படையினர், அந்த இயந்திர படகில் பயணித்த மூவர் சந்தேகத்தின் பெயரில் கைது செய்யப்பட்டனர்.
-
-அத்துடன், குறித்த தங்கம் கடத்துவதற்கு பயன்படுத்தப்பட்டதாக தெரிவிக்கப்படும் இயந்திர படகு ஒன்றும் கடற்படையினரால் கைப்பற்றப்பட்டுள்ளது.
-
-...
-
-[Data](articles/1bd4bf7e.json)
-
----
-
-### බස් රථවලින් වැඩි මුදල් ගන්න වේලාසටහන්කරුවන්ට වැඩ වරදියි
-
-*2025-01-04 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205021) · `si`
-
-පෞද්ගලික බස්රථ වලින් වේලාසටහන්කරුවන් අධික මුදලක් ලබාගැනීම සම්බන්ධයෙන් දැඩි ක්‍රියාමාර්ග ගැනීමට බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ පියවර ගෙන ඇත.
-
-වේලාසටහන්කරුවන් හා බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියේ සභාපතිවරයා අතර ඊයේ (03) පැවැත්වූ සාකච්ඡාවකින් අනතුරුව සභාපතිවරයා මේ බව පවසා ඇත.
-
-වේලාසටහන්කරුවන් පෞද්ගලික බස්රථ වලින් අධික මුදලක් ලබාගැනීම සම්බන්ධයෙන් බස්රථ සංගම් දැඩි අප්‍රසාදය පළකරයි.
-
-මේ සම්බන්ධයෙන් බස් සංගම් අවස්ථා කිහිපයකදී බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරියට පැමිණිලි කර ඇතත්, පසුගිය වසර කිහිපය තුළ ඊට නිසි ක්‍රියාමාර්ග ගැනීමට නොහැකි වී ඇත.
-
-කෙටිදුර බස් රථයක් වේලාසටහන්කරුවන්ට දිනකට රුපියල් 500ක මුදලක් ලබා දියයුතු අතර, දුර ගමන්සේවා බස් රථයක් රුපියල් 1000ක මුදලක් දෛනිව ලබාදෙන බව සඳහන්.
-
-ඒ අනුව වේලාසටහන්කරුවෙකුගෙ අමතර දෛනික අදායම රුපියල් 7,000ත් 10,000 අතර අගයක් ගන්නා බව වාර්තා වේ.
-
-බස් සංගම් පෙන්වා දෙන්නේ, රජය ඉන්ධන මිල ඉහළ දැමූ වහාම බස් ගාස්තු ද ඉහළ දැමීමට සිදුවන්නේ වේලාසටහන්කරුවන්ට අමතර මුදල් ලබාදීමට සිදුවන නිසා බවයි.
-
-◼️
-
-[Data](articles/aa808a53.json)
-
----
-
-### லொறி - மோட்டார் சைக்கிள் மோதி விபத்து ; ஒருவர் படுங்காயம்
-
-*2025-01-04 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/202951) · `ta`
-
-மோட்டார் சைக்கிளும், லொறியும் நேருக்கு நேர் மோதியதில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயமடைந்து கொட்டகலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக திம்புள்ள பத்தனை பொலிஸார் தெரிவித்தனர்.
-
-ஹட்டன் நுவரெலியா பிரதான வீதியின் கொட்டகலை மேபீல்ட் பகுதியில் இன்று சனிக்கிழமை (04) இந்த விபத்து இடம்பெற்றுள்ளது.
-
-கொட்டகலை பகுதியில் இருந்து ஹட்டன் நோக்கிப் பயணித்த லொறியும் ஹட்டனிலிருந்து கொட்டகலை பகுதியை நோக்கி சென்ற மோட்டார் சைக்கிளுமே இவ்வாறு மோதி விபத்துக்குள்ளாகியுள்ளது.
-
-விபத்தில் மோட்டார் சைக்கிள் பலத்த சேதமடைந்துள்ளதாகவும், லொறி சாரதி கவனக்குறைவாக வாகனம் செலுத்தியமையே விபத்துக்குக் காரணம் எனவும் பொலிஸார் தெரிவித்தனர்.
-
-இந்த விபத்து அப்பகுதியில் உள்ள வாகனங்கள் பழுது பார்க்கும் இடத்தில் பொருத்தப்பட்டிருந்த பாதுகாப்பு கேமராவில் பதிவாகியுள்ளது.
-
-◼️
-
-[Data](articles/7874d738.json)
-
----
-
-### Sri Lanka government firm can make a lower cost arrack for people: Minister
-
-*2025-01-04 14:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-firm-can-make-a-lower-cost-arrack-for-people-minister-197946/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state sugar company can produce a lower cost alcohol for the people using ethanol made as a by product, and wean the people away from illegal tipples, Industries Minister Sunil Handunetti said.
-
-Lanka Sugar, a state firm built a Rajapaksa regime by expropriating private citizens, have ended up with large stocks of unsold ethanol after tax hikes in the wake of an economic collapse led to a fall in sales of for legal arrack.
-
-“We discussed with the management, we discussed with the staff,” Minister Handunetti told reporters.
-
-“As government institute at Lanka Sugar as a lower cost product for the people – becuase if we can make up to ethanol, there is no difficultly in making an alcohol for the people.”
-
-At Lanka sugar the cost of making a litre of ethanol was about 800 to 1000 rupees, he said.
-
-“When ethanol is made with third grade maize it costs about 173 rupees a litre,” Minister Handunetti claimed.
-
-...
-
-[Data](articles/9dfbc8ec.json)
-
----
-
-### மாணவர்களிடையே சுவாச நோய்கள் பரவும் அபாயம்! - சுகாதார அதிகாரிகள் எச்சரிக்கை
-
-*2025-01-04 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/202949) · `ta`
-
-புதிய கல்வியாண்டின் தொடக்கத்தில் மாணவர்களிடையே சுவாச நோய்கள் பரவும் அபாயம் உள்ளதாக சுகாதார அதிகாரிகள் தெரிவித்தனர்.
-
-அதன்படி, பல்வேறு வைரஸ் சுவாச நோய்கள் பாடசாலைகளில் பரவக்கூடும் என்று தெரிவிக்கும் சுகாதார அதிகாரிகள் மாணவர்களின் உடல்நிலை குறித்து பெற்றோர்கள், ஆசிரியர்கள் மற்றும் பாடசாலை அதிகாரிகள் மிகுந்த கவனம் செலுத்துமாறும் கேட்டுக்கொண்டனர்.
-
-◼️
-
-[Data](articles/ae3efdfe.json)
-
----
-
-### Police launch probe into false audio clip on ‘Clean Sri Lanka’ program
-
-*2025-01-04 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104715/police-launch-probe-into-false-audio-clip-on-clean-sri-lanka-program) · `en`
-
-Sri Lanka Police have confirmed that an audio clip currently circulating on social media, claiming to be a “special announcement in line with the government’s Clean Sri Lanka – 2025 program”, is a fake.
-
-The audio clip, allegedly citing a section of the Police Ordinance, instructs the public to maintain cleanliness in front of their residences and warns of legal action against non-compliance after January 15, 2025.
-
-In an official statement, Sri Lanka Police emphasized that no such announcement has been released by the department.
-
-Authorities have initiated an investigation to identify the individual responsible for creating and disseminating the false audio clip. Legal action will be taken against the perpetrator, the statement further clarified.
-
-◼️
-
-[Data](articles/a13181e2.json)
-
----
-
-### கல்கிசையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது
-
-*2025-01-04 13:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202947) · `ta`
-
-கல்கிசை பொலிஸ் பிரிவுக்குட்பட்ட வடரப்பல வீதியில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (03) கைது செய்யப்பட்டுள்ளார்.
-
-கல்கிசை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபரிடமிருந்து 10 கிராம் 800 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/f57c6776.json)
-
----
-
-### සමාජ මාධ්‍යයේ අසත්‍ය හඬපටයක්
-
-*2025-01-04 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205019) · `si`
-
-සමාජ මාධ්‍ය ඔස්සේ සංසරණය වන අසත්‍ය හඬපටයක් සම්බන්ධයෙන් පොලිස් මූලස්ථානය විසින් කරුණු පැහැදිලි කිරීමක් සිදුකර තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් පොලිස් මාධ්‍ය කොට්ඨාසය පවසන්නේ, රජය මගින් ක්‍රියාත්මක කරනු ලබන 'Clean sri lanka – 2025 වැඩසටහනට සමගාමීව ශ්‍රී ලංකා පොලීසිය මගින් මහජනතාව වෙත සිදු කරන විශේෂ දැනුම් දීමයි' යනුවෙන් කිසියම් පුද්ගලයෙකු විසින් සිදුකළ අසත්‍ය හඬපටයක් සමාජ මාධ්‍ය ඔස්සේ සංසරණය වෙමින් පවතින බවයි.
-
-පොලිස් ආඥා පනතේ වගන්තියක් සඳහන් කරමින් මහජනතාව විසින් තම නිවෙස් ඉදිරිපිට ප්‍රදේශ පිරිසිදුව තබා ගැනීම ඇතුළු තවත් කරුණු සම්බන්ධයෙන් අවධාරණය කර ඇති බවටත්, එසේ ක්‍රියානොකරන පුද්ගලයින්ට එරෙහිව 2025.01.15 වන දිනෙන් පසු නෛතික ක්‍රියාමාර්ග ගන්නා බවටත් එම හඬ පටයේ සඳහන් කර ඇත.
-
-කෙසේ නමුත් එම හඬ පටය අසත්‍ය හඬ පටයක් බවත්, එවැනි හඬ පටයක් ශ්‍රී ලංකා පොලීසිය විසින් නිකුත් කර නොමැති බවටත් පොලීසිය මෙම නිවේදනයෙන් අවධාරණය කර සිටියි.
-
-ඒ අනුව අදාළ හඬ පටය නිකුත් කල පුද්ගලයාට එරෙහිව නෛතික ක්‍රියාමාර්ග ගැනීම සඳහා ශ්‍රී ලංකා පොලීසිය මේ වනවිට  විමර්ශනයක් ආරම්භ කර ඇති බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වේ.
-
-◼️
-
-[Data](articles/ad404572.json)
-
----
-
-### HMPV වෛරසය අවදානම් ද ?
-
-*2025-01-04 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205018) · `si`
-
-හියුමන් මෙටානියුමෝනියා නොහොත් HMPV වෛරසය බිය වියයුතු කරුණක් නොවන බව ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ ආසාත්මිකතා, ප්‍රතිශක්තිවේද සහ සෛල ජෛව විද්‍යා අංශයේ අධ්‍යක්ෂ, මහාචාර්ය චන්දිම ජීවන්දර මහතා පවසයි.
-
-සිය 'X' ගිණුමේ සටහනක් තබමින් ඔහු පවසන්නේ, චීනයේ නව ශ්වසන ආසාදන රැල්ල ශීත ඍතුවේ දී බහුලව දක්නට ලැබෙන්නක් බවයි.
-
-මෙම වෛරසයෙන් ශ්වසන අපහසුතාවල වැඩිවීමක් ඇති කළත්, එය නව වෛරසයක් හෝ වසංගත තර්ජනයක් නොවන බව හෙතෙම පවසයි.
-
-කොවිඩ් වසංගතයෙන් පසු මිනිසුන් ශීත කාලයේදී රෝගකාරකවලට ගොදුරුවීමේ වැඩි හැකියාවක් තිබෙන බවද ඔහු වැඩිදුරටත් පෙන්වා දේ.
-
-කෙසේ නමුත් මෙම  HMPV වෛරස තත්ත්වය සාමාන්‍යයෙන් සතියක් ඇතුළත පහව යන බව හෙතෙම පවසයි.
-
-එහෙත් කුඩා දරුවන්, වැඩිහිටියන් මෙන්ම විශේෂයෙන් වෙනත් රෝගී තත්ත්වයන්ගෙන් පෙළෙන පුද්ගලයන් ප්‍රවේශම් වීම වඩා වැදගත් බව ඔහු සිය 'X' ගිණුමේ වැඩිදුරටත් දක්වා ඇත.
-
-◼️
-
-[Data](articles/fcd5e5e6.json)
-
----
-
-### ලක්ෂ 59ක දුම්වැටි කටුනායකින් පන්නන්න බැරිවෙයි
-
-*2025-01-04 12:51:45* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-59ක-දුම්වැටි-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-413998) · `si`
-
-රුපියල් පනස් නව ලක්ෂ හතලිස් දහසක් පමණ වටිනා විදේශීය නිෂ්පාදිත දුම්වැටි තොගයක් නීතිවිරෝධී ලෙස රැගෙන , කටුනායක ගුවන් තොටුපොළෙන් පිට වී යාමට තැත් කළ ගුවන් මගීන් දෙදෙනෙකු 01/03 දින අලුයම පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
-
-මොවුන් අතරින් එක් අයෙකු ගෝනපොළ ප්‍රදේශයේ පදිංචි 24 හැවිරිදි පුද්ගලයෙකි . ඔහු ඩුබායි හි සමාගමක සේවය කළ ශ්‍රී ලාංකිකයෙකි.
-
-අනෙක් ගුවන් මගියා බණ්ඩාරගම ප්‍රදේශයේ පදිංචි 23 හැවිරිදි තරුණියකි .
-
-ඔවුන් දෙදෙනා 01/03 දින අලුයම 05.15 ට ඕමානයේ මස්කට් නුවර සිට , ඕමාන් ගුවන් සේවයේ ඕ.වී.- 437 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
-
-ඔවුන්  සියලුම නිශ්කාශන කටයුතු නිමා කර , ගුවන් තොටුපොළෙන් පිට වී යමින් සිටියදී , පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් විසින් , ඔවුන් ගමන් මලු තුළ සගවා ගෙන තිබූ " ප්ලැටිනම් " වර්ගයේ දුම්වැටි 39,600 ක් අඩංගු දුම්වැටි කාටූන් 198 ක් අත් අඩංගුවට ගැනීමට සමත් වී තිබුණි .
-
-...
-
-[Data](articles/46de8a92.json)
-
----
-
-### Sri Lanka rice millers are not hiding stocks: CAA Official
-
-*2025-01-04 12:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rice-millers-are-not-hiding-stocks-caa-official-197924/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Consumer Affairs Authority, has not found hidden stocks among millers after regular investigations conducted by the agency from around October 2024, its Acting Director General Tillekeratne Bandara said.
-
-Rice prices had tended to go up towards the end of the year in many years. Sri Lanka operates extreme nationalist autarky policies on rice and some other foods.
-
-Curtailed food freedoms of the people, particular the poor, through licensing and imports taxes, has made prices of rice about 50 percent higher than the rest of the world.
-
-“From around October the branded rice supplies reduced as I recall,” Bandara told Sri Lanka’s Derana Television.
-
-“Then our Minister and President’s attention was focused on whether there was a case of hiding stocks and we started giving weekly reports.
-
-From the around November 05, reports on rice stocks were provided, he said. Every two weeks reports are now provided to the Ministry and Presidential Secretariat.
-
-...
-
-[Data](articles/5cd0db48.json)
-
----
-
-### யாழில் வன்முறைக் கும்பலின் ஆண்டு நிறைவுக்கு கேக் வெட்டி கொண்டாட்டம் - இளைஞன் கைது
-
-*2025-01-04 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/202945) · `ta`
-
-யாழ்ப்பாணத்தில் இயங்கி வரும் வன்முறைக் கும்பல் ஒன்றின் 10ஆவது ஆண்டு நிறைவையொட்டி கேக் வெட்டி கொண்டாட்டத்தில் ஈடுபட்ட காணொளியை சமூக வலைத்தளத்தில் பகிர்ந்த இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-நவாலி பகுதியை சேர்ந்த 22 வயதான இளைஞனே மானிப்பாய் பொலிஸாரினால் நேற்று வெள்ளிக்கிழமை (03) கைது செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/b149ece9.json)
-
----
-
-### Navy seizes 11.3 kg of gold, arrests three suspects
-
-*2025-01-04 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/104714/navy-seizes-113-kg-of-gold-arrests-three-suspects) · `en`
-
-The Sri Lanka Navy has arrested three suspects with 11.3 kg of gold who were attempting to smuggle it out of Sri Lanka at the sea area off Baththalangunduwa.
-
-The raid was conducted based on information received by naval units.
-
-◼️
-
-[Data](articles/1c157dea.json)
 
 ---

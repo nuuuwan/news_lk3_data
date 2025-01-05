@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 16:59:40**
+As of **2025-01-05 17:12:52**
 
 ## Newspaper Stats
 
-*Scraped **63,761** Articles*
+*Scraped **63,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,087
-adaderanalk | 7,800
-tamilmirrorlk | 9,143
+adaderanalk | 7,804
+tamilmirrorlk | 9,144
 virakesarilk | 10,639
-adaderanasinhalalk | 11,012
+adaderanasinhalalk | 11,016
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,761 articles have been extended.
+61,971 (97.2%) of 63,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමේ ව්‍යාපාර කටයුතු ගැන දැනුම්දීමක්
+
+*2025-01-05 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205058) · `si`
+
+පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමෙහි ව්‍යාපාර කටයුතු අත්හිටුවීමට ගෙන ඇති තීරණය තවත් මාස 6කින් දීර්ඝ කිරීමට ශ්‍රී ලංකා මහ බැංකුවට පියවර ගෙන ඇත.
+
+ශ්‍රී ලංකා මහා බැංකුවේ බැංකු නොවන මූල්‍ය ආයතන අධීක්ෂණ දෙපාර්තමේන්තුව අද (5) පස්වරුවේ මාධ්‍ය වෙන නිවේදනයක් යොමුකරමින් මේ බව දන්වා සිටියේය.
+
+ඒ අනුව පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමෙහි ව්‍යාපාර කටයුතු අත්හිටුවීමට ගෙන ඇති තීරණය 2025 ජනවාරි මස 05වන දින ප.ව. 4.30 සිට බලපැවැත්වෙන පරිදි තවත් මාස 6කින් දීර්ඝ කිරීමට ශ්‍රී ලංකා මහ බැංකුවට පියවර ගෙන ඇත.
+
+◼️
+
+[Data](articles/53445951.json)
+
+---
+
+### தவறுதலாக கிணற்றில் விழுந்த  குடும்பஸ்தர் உயிரிழப்பு
+
+*2025-01-05 16:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறுதலாக-கிணற்றில்-விழுந்த-குடும்பஸ்தர்-உயிரிழப்பு/175-349795) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் வெல்லாவெளி பொலிஸ் பிரிவுக்குட்பட்ட தும்பங்கேணி பகுதியில் ஞாயிற்றுக்கிழமை (05) காலை குளிக்கும் போது தவறுதலாக கிணற்றில் விழுந்து குடும்பஸ்தர் ஒருவர் உயிரிழந்துள்ளார்.
+
+தும்பங்கேணி கிராமத்தை சேர்ந்த 5 பிள்ளைகளின் தந்தையான 50 வயதுடைய தங்கராசா பரமானந்தம் என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+நீர்நிலையில் வீழ்ந்து சனிக்கிழமை (04)  உயிரிழந்த குழந்தையின் மரண வீட்டுக்கு சென்றுவிட்டு வந்து குளித்துக்கொண்டிருந்தபோது கிணற்றுக்குள் தவறி விழுந்துள்ளதாக உறவினர்கள் தெரிவித்தனர்.
+
+உடனடியாக பிரதேசவாசிகளின் உதவியுடன் அவர் பழுகாமம் பிரதேச வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போதிலும் அவர் ஏற்கனவே உயிரிழந்துவிட்டதாக  வைத்தியசாலையில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/358d41b3.json)
+
+---
+
+### මහේලගේ අතීතයක් මතක්කළ ස්මිත්
+
+*2025-01-05 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205057) · `si`
+
+ටෙස්ට් ක්‍රිකට් පිතිකරුවෙකුට සිය ක්‍රීඩා දිවියේ සම්පූර්ණ කරගැනීමට ලැබෙන ගෞරවාන්විත කඩඉමකි ලකුණු 10,000 සීමාව.
+
+මෙම සුවිශේෂී අවස්ථාව තවත් තරගයකට නොගොස් අද (5) දිනයේදීම සම්පූර්ණ කරගැනීමට තිබූ අවස්ථාවක් ඔස්ට්‍රේලියාවේ ස්ටීවන් ස්මිත්ට අහිමිව ගියේය.
+
+ඉන්දියාව හා ඔස්ට්‍රේලියාව අතර 5වන හා අවසන් ටෙස්ට් තරගය සිඩ්නිහිදී අද අවසන් විය.
+
+මෙම තරගයේ ලකුණු දසදහසේ සීමා සම්පූර්ණ කරගැනීමට ඔස්ට්‍රේලියානු දෙවැනි ඉනිමේදී ස්මිත්ට අවශ්‍යව තිබුණේ ලකුණු 5ක් පමණි.
+
+කෙසේ නමුත් ඔහු ලකුණු 4ක් රැස්කරගෙන සිටියදී අවාසනාවන්ත ලෙස දැවී ගියේය.
+
+ඒ අනුව ඔහුගේ ටෙස්ට් ලකුණු සංඛ්‍යාව 9,999 ලෙස තිබියදී පිටියෙන් ඉවත් යාමට සිදුවිය.
+
+එම ලකුණත් ඔහු රැස්කරගත්තා නම් ලෝක ටෙස්ට් ක්‍රිකට් පිටියේ ලකුණු 10,000 සීමාව පසුකළ 15වන පිතිකරුවා ලෙසත්, එවැනි දස්කමක් දැක්වූ 4වැනි ඔස්ට්‍රේලියානු පිතිකරුවා වීමට ඔහුට අවස්ථාව තිබුණි.
+
+මෙලෙස ටෙස්ට් ලකුණු දසදහසේ සීමාව ආසන්නයේදී එනම් 9990 සීමාව පසුකර සිටියදී දැවීගිය තෙවැනි පිතිකරුවා ස්මිත්ය.
+
+ඉන් එක් පිතිකරුවෙකු වන්නේ ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක මහේල ජයවර්ධනය.
+
+...
+
+[Data](articles/fa553535.json)
+
+---
+
+### Nagasaki atomic bomb survivor, who devoted his life for peace, dies at 93
+
+*2025-01-05 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104737/nagasaki-atomic-bomb-survivor-who-devoted-his-life-for-peace-dies-at-93) · `en`
+
+Shigemi Fukahori, a survivor of the 1945 Nagasaki atomic bombing, who devoted his life to advocating for peace has died. He was 93.
+
+Fukahori died at a hospital in Nagasaki, southwestern Japan, on Jan. 3, the Urakami Catholic Church, where he prayed almost daily until last year, said on Sunday. Local media reported he died of old age.
+
+The church, located about 500 meters from ground zero and near the Nagasaki Peace Park, is widely seen as a symbol of hope and peace, as its bell tower and some statues and survived the nuclear bombing.
+
+Fukahori was only 14 when the U.S. dropped the bomb on Nagasaki on Aug. 9, 1945, killing tens of thousands of people, including his family. That came three days after the nuclear attack on Hiroshima, which killed 140,000 people. Japan surrendered days later, ending World War II and the country’s nearly half-century of aggression across Asia.
+
+...
+
+[Data](articles/3bc72e3b.json)
+
+---
 
 ### உல்லாசமாக இருந்த எட்டு பேர் கைது
 
@@ -48,6 +128,20 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### බානගල උපතිස්ස නාහිමි 75 වැනි ජන්මාභිශේක පුණ්‍ය මහෝත්සවය‍
+
+*2025-01-05 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205055) · `si`
+
+ජපානයේ ප්‍රධාන සංඝනායක, ශ්‍රී ලංකා මහා බෝධි සංගමයේ සභාපති පූජ්‍ය බානගල උපතිස්ස නා හිමියන්ගේ අදට යෙදී තිබෙන 75 වන ජන්ම දිනය වෙනුවෙන් සංවිධාන කළ ජන්මාභිශේක පුණ්‍ය මහෝත්සවය අද (05) පැවැත්වුණි.
+
+ඡන්මාභිශේක පුණ්‍ය මහෝත්සවයට හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ, හිටපු අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන, විපක්ෂ නායක සජිත් ප්‍රේමදාස, සර්වජන බලයේ නායක පාර්ලිමේන්තු මන්ත්‍රී ව්‍යවසායක දිලිත් ජයවීර ඇතුළු ආරාධිතයින් රැසක් සහභාගි වූහ.
+
+◼️
+
+[Data](articles/2d6bac38.json)
+
+---
+
 ### මිල අඩු, ප්‍රමිතියෙන් ඉහළ මත්වතුර බෝතලයක්
 
 *2025-01-05 15:14:52* · [`adalk`](https://www.ada.lk/breaking_news/මිල-අඩු--ප්‍රමිතියෙන්-ඉහළ-මත්වතුර-බෝතලයක්/11-414012) · `si`
@@ -61,6 +155,62 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/abe69027.json)
+
+---
+
+### Sri Lanka deploys GPS technology to address human-elephant conflict
+
+*2025-01-05 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104736/sri-lanka-deploys-gps-technology-to-address-human-elephant-conflict-) · `en`
+
+The Department of Wildlife Conservation has initiated an operation to use GPS technology in managing the movement of wild elephants from several areas in Anuradhapura to the Wilpattu National Park.
+
+The operation, which began in Oyamaduwa, involves fitting GPS collars on wild elephants to track their locations and study their migration routes. This effort aims to better understand elephant movements and mitigate the human-elephant conflict, a persistent issue in many parts of Sri Lanka.
+
+Wildlife officials, local residents, and the Sri Lanka Navy are collaborating in this initiative.
+
+According to surveys, wild elephants are among the leading causes of crop damage in the country, with incidents reported daily from various regions.
+
+In response to this growing problem, a program to relocate wild elephants to designated reserves was recently launched in Anuradhapura, a district severely affected by crop damage caused by elephants.
+
+...
+
+[Data](articles/48ec475e.json)
+
+---
+
+### එංගලන්තයේ ගුවන්තොටුපොළ රැසක් තාවකාලිකව වැසෙයි
+
+*2025-01-05 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205054) · `si`
+
+පවතින අධික හිමපතනය හේතුවෙන් එංගලන්තයේ ගුවන්තොටුපොළ රැසක් තාවකාලිකව වසාදමා තිබේ.
+
+මෙලෙස තාවකාලිකව වසා දැමූ ගුවන්තොටුපොළ අතරට මැන්චෙස්ටර්, ලිවර්පූල් සහ බර්මින්හැම් ගුවන්තොටුපොළ අයත්ය.
+
+එරට පළාත් රැසකට මේ දිනවල අධික හිමපතනය සම්බන්ධ අනතුරු ඇඟවීම් නිකුත් කර ඇති අතර, රටපුරා ස්ථාන රැසක උෂ්ණත්වය සෙල්සියස් අංශක සෘණ 11ක මට්ටමේ පවතින බව වාර්තා වෙයි.
+
+මේ අතර එක්සත් රාජධානියට අයත් එංගලන්තය, වේල්සය සහ ස්කොට්ලන්තය යන රටවලට ඇම්බර් අනතුරු ඇඟවීම් නිකුත් කර ඇති අතර, ගමනාගමන සීමා සහ විදුලිය බි﻿ඳවැටීම් ද බලපවත්වා තිබේ.
+
+◼️
+
+[Data](articles/6b2911c0.json)
+
+---
+
+### CPC chairman files Rs. 500M defamation case against Ananda Palitha
+
+*2025-01-05 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104735/cpc-chairman-files-rs-500m-defamation-case-against-ananda-palitha) · `en`
+
+The Chairman of the Ceylon Petroleum Corporation (CPC), D.J. Rajakaruna has initiated legal action against Ananda Palitha, a trade union leader affiliated with the Samagi Jana Balawegaya (SJB), over defamation.
+
+Accordingly, the CPC chairman has reportedly sent a letter of demand to Ananda Palitha seeking Rs. 500 million in compensation, alleging that Palitha caused damage to his reputation through a statement he made.
+
+The letter of demand, sent through Attorney-at-Law Sampath Yalewatte on December 24, accuses Palitha of engaging in a deliberate and planned campaign of false and defamatory propaganda against the CPC Chairman.
+
+According to reports, the statement in question contained allegations that Rajakaruna believes were designed to harm his personal and professional reputation. The legal notice seeks restitution for the damages caused by what has been described as ‘hateful and baseless’ accusations.
+
+◼️
+
+[Data](articles/cef995b9.json)
 
 ---
 
@@ -143,6 +293,24 @@ Telecom ITEA skills for vocational institute students by EXEO Global and SALA En
 ...
 
 [Data](articles/56a54777.json)
+
+---
+
+### New guidelines issued on unpaid leaves for public officials
+
+*2025-01-05 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104734/new-guidelines-issued-on-unpaid-leaves-for-public-officials) · `en`
+
+The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government of Sri Lanka has issued a special notice to all District Secretaries , outlining the guidelines for approving domestic and foreign unpaid leave for public officials without affecting their pension entitlements.
+
+The Ministry has also provided a set of guidelines for District Secretaries to follow when granting unpaid leave.
+
+The directive aims to address irregularities observed in the leave approval process and ensure compliance with the Public Administration Circular dated June 22, 2022.
+
+Accordingly, the District Secretaries have been instructed to follow a detailed set of procedures when processing unpaid leave applications. The Ministry emphasized the need for vigilance, citing instances where some officials had taken domestic leave for up to five years and subsequently applied for foreign leave without properly canceling their prior leave arrangements.
+
+...
+
+[Data](articles/b59f576f.json)
 
 ---
 
@@ -1555,169 +1723,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/97ae58e7.json)
-
----
-
-### இலங்கையில் தென்னாபிரிக்க கிரிக்கெட் ஜாம்பவான்
-
-*2025-01-05 03:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-தென்னாபிரிக்க-கிரிக்கெட்-ஜாம்பவான்/175-349752) · `ta`
-
-தென்னாப்பிரிக்காவின் முன்னாள் கிரிக்கெட் வீரர் ஜொன்டி ரோட்ஸ் தனது குடும்பத்தினருடன் இலங்கைக்கு சுற்றுலா வந்துள்ளார்.
-
-முன்னாள் கிரிக்கெட் வீரர் ஜொன்டி ரோட்ஸ் தனது குடும்பத்தினருடன் முச்சக்கரவண்டியில் இலங்கையில் உள்ள சுற்றுலாத்தலங்களுக்கு செல்லவுள்ளார்.
-
-ஜொன்டி ரோட்ஸ் தனது குடும்பத்தினருடன் முச்சக்கரவண்டியில் பயணம் செய்யும் புகைப்படம் தற்போது சமூக ஊடகங்களில் வைரலாகி வருகின்றது. (a)
-
-◼️
-
-[Data](articles/c97818a9.json)
-
----
-
-### Life and Times of  Jaffna’s Former Tiger  Commander  Sathasivampillai Krishnakumar alias  “Col” Kittu.
-
-*2025-01-05 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85304) · `en`
-
-Nowadays the 33 year long war between the armed forces of Sri Lanka and the Liberation Tigers of Tamil Eelam(LTTE) is slowly receding into memory. The LTTE ,known generally as the tigers,was formed officially on 5 May 1976. After three decades of conflict the LTTE met its waterloo by the waters of Nandhikkadal lagoon on May 18th 2009. The war  waged against the Sri Lankan state by the  Veluppilai Prabhakaran -led LTTE is an important and integral part of Sri Lanka’s post-independence history.
-
-A key turning point in the long war was the metamorphosis of the LTTE  from  that of  a guerilla  organization into an outfit  engaging in positional  warfare. It was in 1985 that the LTTE established control over  substantial areas of the Jaffna peninsula.  Policing  ceased in practice. The army was essentially confined to barracks. Soldiers would however break out of their camps occasionally , get embroiled in skirmishes and  return to camp.
-
-...
-
-[Data](articles/4603a0a1.json)
-
----
-
-### 2025-01-04 (Saturday)
-
-### Sri Lanka targets 3 million tourists in 2025 amid economic recovery
-
-*2025-01-04 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104723/sri-lanka-targets-3-million-tourists-in-2025-amid-economic-recovery) · `en`
-
-Sri Lanka is poised to make a significant leap in its tourism industry, aiming for 3 million tourist arrivals in 2025. This ambitious target comes on the heels of a projected 2.1 million visitors in 2024 as the nation steadily recovers from the economic challenges it faced in recent years.
-
-The Sri Lanka Tourism Development Authority (SLTDA), under the leadership of its newly appointed chairman, Buddhika Hewawasam, is spearheading several reforms and initiatives to strengthen the sector and attract more international visitors.
-
-To streamline and enhance the industry’s operations, a National Tourism Commission is being established. This new governing body will consolidate four state agencies currently overseeing tourism, including a hotel school.
-
-The commission will ensure cohesive policy implementation and foster industry growth.
-
-...
-
-[Data](articles/557e12d2.json)
-
----
-
-### 2036 ඔලිම්පික් ක්‍රීඩා උලෙළ ඉලක්ක කර ගනිමින් ඇරඹුණු  ''ලයන් වෝරියර්ස්''
-
-*2025-01-04 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205035) · `si`
-
-2036 ඔලිම්පික් ක්‍රීඩා උලෙළ ඉලක්ක කර ගනිමින් ක්‍රීඩක ක්‍රීඩිකාවන් සූදානම් කිරීමේ දස අවුරුදු වැඩසටහනක් ක්‍රියාවට නැංවීමට මෙරට ක්‍රීඩා ක්ෂේත්‍රයේ ප්‍රවීණයින් කණ්ඩායමක් පසුගියදා වැඩසටහනක් ආරම්භ කළේය.
-
-ලොව බොහෝ රටවල් ඔලිම්පික් ක්‍රීඩා උළෙල ඉලක්ක කරමින් පදක්කම් දිනාගැනීම වෙනුවෙන් දිගුකාලීන සැලසුම් ක්‍රියාත්මක කිරීම සිදු කෙරෙන අතර, ඒ ක්‍රීඩක ක්‍රීඩිකාවන්ට අවශ්‍ය පෝෂණ අවශ්‍යතා, පුහුණුවීම් ඇතුළු සියලු පහසුකම් සපයමිනි.
-
-කෙසේ වෙතත්, මෙරට ක්‍රීඩා බලධාරීන් ඔලිම්පික් ක්‍රීඩා උළෙල සඳහා ක්‍රීඩක ක්‍රීඩිකාවන් සූදානම් කරනු ලබන්නේ, ඔලිම්පික් ක්‍රීඩා උළෙලකට වසර දෙක තුනකටත් අඩුකාලයක් තිබියදීය.
-
-එවන් පසුබිමක වසරින් වසර අගාධයට යන මෙරට ක්‍රීඩාවට නව පණක් දීමට සහ 2036 ඔලිම්පික් ක්‍රීඩා උළෙලේදී ශ්‍රී ලංකවට පදක්කම් 10ක් දිනාදීමේ අරමුණ ඇතිව මෙරට ක්‍රීඩා ක්ෂේත්‍රෙයේ ප්‍රවීණයින් පිරිසක් ''ලයන් වෝරියර්ස් '' නමින්  දිගුකාලීන සැලසුමක් මේ වන විට ක්‍රියාවට නංවා තිබේ.
-
-මෙම වැඩසටනේ නිර්මාතෘ වන්නේ, කවපෙත්ත සහ යගුලිය ඉසවේ ජාතික වාර්තාවට කිහිප වරක් හිමිකරගත් තලවොව් අලයිලීමායි.
-
-...
-
-[Data](articles/c11f0f65.json)
-
----
-
-### Russia vows retaliation after saying it downed eight US-made long-range missiles
-
-*2025-01-04 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104722/russia-vows-retaliation-after-saying-it-downed-eight-us-made-long-range-missiles) · `en`
-
-Russia has vowed retaliation after claiming to have shot down eight US-made ATACMS missiles fired by Ukraine on Saturday morning.
-
-Moscow sees the use of such missiles, which have a range of up to 300 kilometers (186 miles), as a major escalation.
-
-The country’s air defenses shot down the eight ballistic missiles alongside 72 aircraft-type unmanned aerial vehicles (UAVs), Russia’s Ministry of Defense said. It added that “these actions by the Kyiv regime, which is supported by Western curators, will be met with retaliation.”
-
-The statement said several drones were destroyed in the Leningrad region in the north-west and one in Kursk, where Ukraine launched a surprise attack late last summer.
-
-The outgoing US President Joe Biden approved Kyiv’s use of ATACMS in November – saying in part it was in response to Russia expanding the conflict by deploying North Korean troops.
-
-...
-
-[Data](articles/45387157.json)
-
----
-
-### මාධ්‍යවේදිනියගේ සැමියා අබිරහස් ලෙස දෙහිවලදී මරුට
-
-*2025-01-04 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205034) · `si`
-
-දෙහිවල ප්‍රදේශයේදී අබිරහස් අන්දමින් මියගිය පුද්ගලයෙකු සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
-
-ඒලෙස ජීවිතක්ෂයට පත්ව තිබුණේ දෙහිවල පදිංචි මාධ්‍යවේදිනියකගේ සැමියා වන වෘත්තියෙන් ත්‍රිරෝද රථ රියැදුරෙකි.
-
-දෙහිවල, වෛද්‍ය පාරේ පදිංචි 60 හැවිරිදි දෙදරු පියෙකු වන ඒ. සමරජීව නැමැති පුද්ගලයා පසුගිය ජනවාරි 1 වැනිදා පෙරවරුවේ සුපුරුදු පරිදි රැකියාව සඳහා පිටත්ව ගොස් තිබුණි.
-
-නමුත්, රැකියාව අවසන් කොට පස්වරුවේ නිවසට නොපැමිණීම හේතුවෙන් ඔහුගේ බිරිඳවන මාධ්‍යවේදිනී ශ්‍රියානි විජේසිංහ මහත්මිය සිය සැමියාට රාත්‍රියේ දුරකථන ඇමතුමක් ලබාදී තිබුණත් ඔහු ඊට ප්‍රතිචාර දක්වා තිබුණේ තැති බව වාර්තා වෙයි.
-
-යළි යළිත් දුරකථන ඇමතුම් ලබාදීමේදී එක් අවස්ථාවක පොලීසිය දුරකථන ඇමතුමට ප්‍රතිචාර දක්වා තිබුණි.
-
-මේ අතර, ත්‍රිරෝද රථය තිබූ ස්ථානය ආසන්නයේ දෙහිවල, හිල් වීදියේ පිහිටි නිවසක සිටි නීතිඥවරියක් ජනවාරි මස 1 වැනිදා රාත්‍රියේ දෙහිවල පොලීසියට ඇමතුමක් දි තිබුණේ තම නිවස ඉදිරිපිට කිසියම් අයෙකු වැටී සිටින බවටය.
-
-ඒ අනුව, රාත්‍රී මුර සංචාරයේ යෙදී සිටි පොලිස් නිලධාරීන් කණ්ඩායමක් ත්‍රිරෝද රථයකින් අදාළ ස්ථානයට ගොස් තිබුණි.
-
-...
-
-[Data](articles/3832e567.json)
-
----
-
-### 2024 Scholarship Exam paper marking to resume from Jan 8
-
-*2025-01-04 20:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/104721/2024-scholarship-exam-paper-marking-to-resume-from-jan-8) · `en`
-
-The Department of Examinations has announced that the paper marking process for the 2024 Grade 05 Scholarship Examination, which was the subject of recent controversy, will resume next week.
-
-Accordingly, the Commissioner General of Examinations, Amith Jayasundara, stated that the paper marking process will take place from January 08 to January 12.
-
-◼️
-
-[Data](articles/155f31cf.json)
-
----
-
-### වැලිගම වෙඩිතැබීම පිටුපස හරක් කටාගේ සම්බන්ධයක්?
-
-*2025-01-04 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205033) · `si`
-
-පසුගියදා මාතර අවන්හලක පැවැති DJ සාදායක ඇති වූ ආරවුලක් මාතර, වැලිගමදී සිදුකළ අද අලුයම සිදුකළ වෙඩිතැබීමේ සිද්ධියට මුල් වී ඇතැයි පොලීසිය සැකකරයි.
-
-එමෙන්ම හරක් කටාගේ පාර්ශ්වය එම ඝාතනයට සම්බන්ධ බවටද සැක පළ කරයි.
-
-ඝාතනයට ලක් වූ තරුණයාට මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් චෝදනා පවතින බවද පොලීසිය පවසයි.
-
-මේ අතර වෙඩික්කරුවන් පැමිණි බවට සැකකරන යතුරුපැදියක් වැලිගම මූනමල්පේ ප්‍රදේශයේ වැවක දමාගොස් තිබියදී පොලීසිය විසින් අද (04) සොයාගෙන තිබේ.
-
-මාතර, වැලිගම දී අද අලුයම සිදුකළ වෙඩි තැබීමකින් 26 හැවිරිදි තරුණයෙකු මියගොස් තවත් තරුණයෙකු තුවාල ලබා තිබුණි.
-
-පොලීසිය පැවසුවේ, යතුරුපැදි තුනකින් පැමිණි වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත්තේ, පසුගියදා මාතර බන්ධනාගාරයේදී බෝ ගසක අත්තක් කඩාවැටී මියගිය සිරකරුවාගේ අවමංගල්‍යයට සහභාගී වී නැවත පැමිණෙමින් සිටි පිරිසක් බවය.
-
-මාතර බන්ධනාගරයේ සිරකරුවන් රඳවා සිටින වාට්ටුවක් මතට බෝ අත්තක් කඩා වැටීමෙන් මියගිය සිරකරුවාගේ දේහය තැම්පත් කර ඇති තුර්කි ගම්මානයේ පිහිටි නිවසට පස් දෙනෙකුගෙන් යුත් පිරිසක් ඊයේ රාත්‍රියේ ගොස් තිබුණි.
-
-...
-
-[Data](articles/69c7a555.json)
-
----
-
-### விடைத்தாள் திருத்தும் பணிகள் அடுத்த வாரம் ஆரம்பம்
-
-*2025-01-04 19:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடைத்தாள்-திருத்தும்-பணிகள்-அடுத்த-வாரம்-ஆரம்பம்/175-349739) · `ta`
-
-2024ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் விடைத்தாள்களைத் திருத்தும் பணிகள் எதிர்வரும் ஜனவரி 8ஆம் திகதி ஆரம்பமாகவுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் தெரிவித்துள்ளார்.  R
-
-◼️
-
-[Data](articles/73640d79.json)
 
 ---

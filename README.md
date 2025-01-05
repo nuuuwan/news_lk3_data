@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 19:43:24**
+As of **2025-01-05 20:01:17**
 
 ## Newspaper Stats
 
-*Scraped **63,802** Articles*
+*Scraped **63,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,61 @@ economynextcom | 3,884
 islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,091
-adaderanalk | 7,806
-tamilmirrorlk | 9,151
-virakesarilk | 10,657
+adalk | 6,092
+adaderanalk | 7,807
+tamilmirrorlk | 9,153
+virakesarilk | 10,658
 adaderanasinhalalk | 11,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,802 articles have been extended.
+61,971 (97.1%) of 63,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
 
+### வங்கிக்கு முன்னால் நிறுத்தப்பட்ட காரில் துப்பாக்கி
+
+*2025-01-05 19:39:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கிக்கு-முன்னால்-நிறுத்தப்பட்ட-காரில்-துப்பாக்கி/175-349805) · `ta`
+
+பத்தரமுல்லை - தலாஹேன பகுதியில் உள்ள தனியார் வங்கி ஒன்றுக்கு முன்பாக நிறுத்தி வைக்கப்பட்டு இருந்த கார் ஒன்று பொலிஸாரினால் மீட்கப்பட்டுள்ளது.
+
+குறித்த வங்கிக்கு முன்பாக கார் ஒன்று நிறுத்தி வைக்கப்பட்டிருந்ததை இன்று காலை அங்கிருந்த பாதுகாப்பு அதிகாரிகள் பார்வையிட்டுள்ளனர், மதியம் வரையும் அந்த கார் அங்கிருந்து அகற்றப்படாததால் பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+
+இந்தநிலையில், பொலிஸாரும், பொலிஸ் விசேட அதிரடிப்படையினரும் இணைந்து காரை சோதனையிட்ட போது அதில் போலி துப்பாக்கி ஒன்று மீட்கப்பட்டதாக பொலிஸார்  தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/3fe503d7.json)
+
+---
+
+### பிணைக்கு இலஞ்சம் வாங்கிய கான்ஸ்டபிள் கைது
+
+*2025-01-05 19:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணைக்கு-இலஞ்சம்-வாங்கிய-கான்ஸ்டபிள்-கைது/175-349804) · `ta`
+
+மனித படுகொலை குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டுள்ள சந்தேகநபர்கள் மூவருக்கு பிணை வழங்குவதற்காக, நீதவானுக்கு பணம் கொடுக்க வேண்டும் எனக் கூறி, ​பெண்கள் மூவரிடம் இருந்து 60 ஆயிரம் ரூபாய் பணத்தை பெற்றுக்​கொண்டார் என்ற குற்றச்சாட்டின் கீழ் களுவாஞ்சிகுடி நீதவானின் பாதுகாப்பு அதிகாரியாக கடமையாற்றும் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளார் என மட்டக்களப்பு சிரேஷ்ட பொலிஸ் அதிகாரி காரியாலயம் தெரிவித்துள்ளது.
+
+எனினும்,  விளக்கமறியலில் வைக்கப்பட்டிருந்த மூவரும் முன்னார் உறுதியளிக்கப்பட்டவாறு  நீதிமன்ற தினத்தன்று,  பிணை வழங்காமை காரணமாக, அந்த பெண்கள் மூவரும், வழக்கு விசாரணை நிறைவில், அது தொடர்பில் நீதவானிடம் வினவியுள்ளனர். சந்தேகநபரான அந்த கான்ஸ்டபிள், தங்களிடமிருந்து 60 ஆயிரம் ரூபாய் பணத்தை பெற்றுக்​கொண்டுள்ளதாக நீதவானிடம் அந்த பெண்கள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/716aba49.json)
+
+---
+
 ### 'க்ளீன் ஸ்ரீலங்கா' செயற்திட்டத்துக்கமைய பொலிஸாரினால் விசேட நடவடிக்கைககள்
 
-*2025-01-05 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/203061) · `ta`
+*2025-01-05 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203061) · `ta`
 
 'க்ளீன் ஸ்ரீலங்கா' செயற்திட்டத்துக்கமைய வீதி விபத்துக்களையும், போக்குவரத்து நெரிசலையும் கட்டுப்படுத்தும் வகையில் இரு விசேட போக்குவரத்து நடவடிக்கைககள் பொலிஸாரினால் முன்னெடுக்கப்பட்டுள்ளன.
 
 வாகனங்களில் பொருத்தப்பட்டுள்ள பொருத்தமற்ற உதிரிபாகங்கள் நீக்கப்படுவதுடன், வீதி விதிமுறைகளை மீறி செயற்படும் சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும். இந்த நடவடிக்கை எதிர்வரும் 19 ஆம் திகதி வரை முன்னெடுக்கப்படும் என பொலிஸ் ஊடகப் பேச்சாளாரும் சிரேஷ்ட பொலிஸ் அத்தியட்சகருமான சட்டத்தரணி புத்திக்க மனதுங்க தெரிவித்தார்.
 
-இரு விசேட போக்குவரத்து நடவடிக்கைககள் பொலிஸாரினால் முன்னெடுக்கப்பட்டுள்ளன. பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரியவின் பணிப்புரைக்கு அமைய இந்த விசேடத்திட்டம் முன்னெடுக்கப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் புத்திக மனதுங்க தெரிவித்தார்.
-
-இதன் முதற்கட்டமாக வாகனங்களில் பொருத்தப்பட்டுள்ள விசேட ஒலி எழுப்பும் கருவிகள், கண்கவர் மின்விளக்குகள், பொருத்தமற்ற மற்றும் உயிர் ஆபத்துக்களை ஏற்படுத்தக்கூடிய உதிரிபாகங்கள் தொடர்பில் அவதானம் செலுத்தப்படவுள்ளது.
+'க்ளீன் ஸ்ரீலங்கா' செயற்திட்டத்துக்கமைய வீதி விபத்துக்களையும் ,போக்குவரத்து நெரிசலையும் கட்டுப்படுத்தும் வகையில் இரு விசேட போக்குவரத்து நடவடிக்கைககள் பொலிஸாரினால் முன்னெடுக்கப்பட்டுள்ளன. பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரியவின் பணிப்புரைக்கு அமைய இந்த விசேடத்திட்டம் முன்னெடுக்கப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் புத்திக மனதுங்க தெரிவித்தார்.
 
 ...
 
@@ -71,6 +99,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/dec19dab.json)
+
+---
+
+### PM Harini denies involvement in cancelling lecture at Peradeniya Uni.
+
+*2025-01-05 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104740/pm-harini-denies-involvement-in-cancelling-lecture-at-peradeniya-uni) · `en`
+
+The Office of the Prime Minister and Minister of Education, Dr. Harini Amarasuriya, has categorically denied any involvement in the cancellation of the scheduled lecture organized by the International Youth and Students for Social Equality (IYSSE) at Peradeniya University.
+
+Issuing a statement, the Prime Minister’s Office said that Dr. Amarasuriya has consistently championed academic freedom and democratic engagement, values fundamental to fostering critical discourse in educational institutions.
+
+The allegations suggesting that the Prime Minister and Minister of Education influenced the university’s decision to cancel the lecture are entirely baseless and misleading, the statement highlighted.
+
+Furthermore, the Office of the Prime Minister and Minister of Education has assured that no directive or instruction was issued from this office regarding the event, noting that the autonomy of academic institutions is a principle that the government is committed to upholding.
+
+...
+
+[Data](articles/24645b92.json)
+
+---
+
+### දුමින්ද සිල්වාට විශේෂ පහසුකම් දෙන්නේ නෑ
+
+*2025-01-05 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/දුමින්ද-සිල්වාට-විශේෂ-පහසුකම්-දෙන්නේ-නෑ/11-414026) · `si`
+
+දුමින්ද සිල්වා නමැති සිරකරුට විශේෂ පහසුකම් ලබාදීමක් සම්බන්ධයෙන් පසුගිය කාලයේ විවිධ  පුවත් ප්‍රචාරය වුවත් එම ප්‍රචාර දැඩිව ප්‍රතික්ෂේප කරන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එවැනි ආකාරයේ කිසිදු විශේෂ පහසුකමක් මෙම සිරකරු හට ලබා දී නොමැති බවත්, මේ පිළිබඳව කරුණු සොයාබැලීමට මූලික විමර්ශන දෙකක් සිදු කළ  බවත් දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+
+එහිදී  ස්ථාන පරීක්ෂා හා මූලික විමර්ශන වාර්තා අනුව අදාළ සිරකරුට වෙනම වැසිකිළියක් හෝ විශේෂ පහසුකමක් ලබා දී නොමැති බවට අනාවරණය කර තිබෙන බවද සඳහන් කරයි.
+
+බන්ධනාගාර රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින දුමින්ද සිල්වා සිරකරු සම්බන්ධයෙන්  බන්ධනාගාර දෙපාර්තමෙන්තුව මාධ්‍ය නිවේදනයක් නිකුත් තරමින් මේ බව සඳහන් කළේය.
+
+එම නිවේදනයේ සඳහන් වන්නේ දුමින්ද සිල්වා නමැති සිරකරු බන්ධනාගාර රෝහලේ අංක 3 වාට්ටුවේ  නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අතර, එහි නේවාසික ප්‍රතිකාර ලබන රැඳවියන් 50කට වැඩි පිරිසක් සමග රඳවා සිටින බවය.
+
+...
+
+[Data](articles/4bc90a1b.json)
 
 ---
 
@@ -281,6 +347,24 @@ Trump, who has announced plans to attend Carter’s memorial service in Washingt
 ...
 
 [Data](articles/21bd8910.json)
+
+---
+
+### உலக வங்கியின் அனுசரணையுடன் முன்னெடுக்கப்பட்ட கல்வி வேலைத்திட்டங்களின் முன்னேற்றம் தொடர்பில் பிரதமர் கவனம்
+
+*2025-01-05 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/203039) · `ta`
+
+நாட்டின் பாடசாலை கல்வியை நவீனமயப்படுத்தும் வேலைத்திட்டத்தின் கீழ் உலக வங்கியின் அனுசரணையுடன் முன்னெடுக்கப்பட்ட வேலைத்திட்டங்களின் தற்போதைய முன்னேற்றம் தொடர்பிலான கலந்துரையாடல் ஒன்று பிரதமர்  ஹரிணி அமரசூரிய தலைமையில் அண்மையில் கல்வி அமைச்சில் இடம்பெற்றது.
+
+கடந்த பல வருடங்களாக பாடசாலை மாணவர்கள் மற்றும் பாடசாலைகளை முன்னிட்டு முன்னெடுக்கப்பட்ட வேலைத்திட்டங்களின் தற்போதைய முன்னேற்றம் தொடர்பில் விரிவாக கலந்துரையாடப்பட்டதுடன் விசேடமாக பாடசாலை மாணவர்களின் சுகாதாரத்தை கட்டியெழுப்புதல் தொடர்பில் பிரதமர் இதன்போது தனது விசேட அவதானத்தை செலுத்தினார்.
+
+அத்துடன் நாட்டின் இரண்டாம் நிலைக் கல்வியை முன்னிட்டு தகவல் தொழில்நுட்பத் துறையை மேம்படுத்துவது தொடர்பிலும் இங்கு கலந்துரையாடப்பட்டது.
+
+கல்வி உயர் கல்வி பிரதியமைச்சர் வைத்தியர் மதுர செனவிரத்ன கல்வி உயர் கல்வி மற்றும் தொழிற் கல்வி அமைச்சின் செயலாளர் நாலக கலுவெவ உள்ளிட்ட அதிகாரிகள் இந்த கலந்துரையாடலில் பங்கேற்றிருந்தனர்.
+
+◼️
+
+[Data](articles/0cf2998a.json)
 
 ---
 
@@ -1585,91 +1669,5 @@ Today is a very emotional day for me. Oxford brings back many fond memories that
 ...
 
 [Data](articles/cbcfc274.json)
-
----
-
-### “காதலர்கள் காதலிக்கட்டும்”
-
-*2025-01-05 11:08:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலர்கள்-காதலிக்கட்டும்/175-349769) · `ta`
-
-”காதலர்கள் காதலிக்கட்டும்! மற்றவர்கள் ஏன் அதைப் பற்றி கவலைப்பட வேண்டும்? சமூக ஊடகங்களுக்கும் இதற்கும் என்ன சம்பந்தம்?" என விவசாய அமைச்சர் கே.டி.லால்காந்த ஒரு நிகழ்வின் பின்னர் ஊடகவியலாளர்களிடம் கேள்வி எழுப்பினார்.
-
-ஒரு சந்தர்ப்பத்தில் தனது சக பாராளுமன்ற உறுப்பினர் நிலாந்தி கோட்டஹச்சியின் விமர்சனங்கள் குறித்து பதிலளிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
-
-தனது மகள் கனடாவில் உள்ள பல்கலைக்கழகத்தில் படிக்கிறார் என்று சமூக ஊடகங்களில் ஒரு கதை  கூட புனையப்பட்டதாக அவர் கூறினார்.
-
-“அப்போது அரச ஊடகம் கூட அதனை  செய்தியாக வெளியிட்டது.நானும் எனது மகளும் இந்தச் செய்தியைப் பார்த்துக்கொண்டிருந்தோம்.எனக்குத் தெரியாமல் கனடாவில் எனக்கு ஒரு மகள் இருக்கிறாரா என்று விசாரிக்க வேண்டும் என்று நினைத்தேன்.கோட்டஹச்சிக்கு பிரச்சினை என்றால். மற்றவர்களை ஏன் வம்பு செய்கிறார்கள். அது அவளுடைய குடும்பத்தின் விஷயமா என்று கேட்டார்.
-
-◼️
-
-[Data](articles/141cb155.json)
-
----
-
-### SUSPICIOUS IN SICILY
-
-*2025-01-05 11:05:00* · [`islandlk`](http://island.lk/suspicious-in-sicily/) · `en`
-
-(Excerpted from Falling Leaves, an anthology of memoirs by LC Arulpragasam)
-
-Having lived in Italy for many years, we planned a trip to Sicily in April 1975. The idea was met with some alarm among our Sri Lankan friends, since Sicily at that time was cursed with mafia kidnaps and killing. I replied laughingly: ‘what self-respecting mafioso would waste his time kidnapping a poor Sri Lankan?’ We planned to travel with our two younger children (aged 10 and 8 years) in our caravan (trailer/roulotte) to be towed by our trusty old Peugeot 404 station wagon. It was to be a long drive – a total of around 1,000 miles, including travel within Sicily. We reckoned that the countryside would be green, with the fields fresh with the flowers of spring. What we left out of our calculation was the powerful scirocco, the scorching wind that comes blistering out of the deserts of Africa, bringing the sand of the desert even into Sicily.
-
-...
-
-[Data](articles/83df09e8.json)
-
----
-
-### Requiem for Jimmy Carter
-
-*2025-01-05 11:03:00* · [`islandlk`](http://island.lk/requiem-for-jimmy-carter/) · `en`
-
-Prior to American presidential elections on November 5 last year, Jimmy Carter said he wanted to live to vote for Kamala Harris. His wife Rosalyn had died November 19, 2023, aged 96. They lived, invalided, in a recently furbished hospice in their modest home in Plains. He did live and must have voted. At age one hundred he died on December 29, 2024, with his three sons and daughter Amy beside him, so also 22 grandchildren and great grandchildren.
-
-...
-
-[Data](articles/56661350.json)
-
----
-
-### Two arrested in Seenigama with grenades, pistol and ammunition
-
-*2025-01-05 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104728/two-arrested-in-seenigama-with-grenades-pistol-and-ammunition) · `en`
-
-Two persons have been arrested by the Police Narcotics Bureau (PNB) in the Seenigama area for the possession of two grenades, an 8mm pistol, 66 rounds of T-56 ammunition and 55 rounds for 9mm ammunition.
-
-Police stated that the suspects were arrested based on a tip-off received from the Director of the Police Narcotics Bureau (PNB).
-
-Meanwhile, the police have urged the public to report information on possessing any illegal firearms by contacting the Intelligence and Surveillance Officer of the PNB. The relevant officer can be reached via the contact number 071 8596476.
-
-In the meantime, the police have arrested a suspect in the Tangalle area yesterday (04), who was in the possession of a locally-manufactured firearm.
-
-The arrest took place during a raid conducted in the Wathumulla area of Okewela by a team of officers attached to Tangalle Police Special Task Force (STF), according to police.
-
-◼️
-
-[Data](articles/7768fdfb.json)
-
----
-
-### ගිනිඅවියක් සමග පුද්ගලයින් දෙදෙනෙක් සීනිගමදී අත්අඩංගුවට
-
-*2025-01-05 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205047) · `si`
-
-මෙරට නිෂ්පාදිත මිලිමීටර් 8  පිස්තෝල අවියක් සහ ජීව උණ්ඩ තොගයක් සමග සැකකරුවන් දෙදෙනක් සීනිගම ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
-
-ඊයේ (04) පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ අධ්‍යක්ෂවරයාට ලද තොරතුරක් මත අදාළ සැකකරුවන අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි.
-
-අත්අඩංගුවට ගත් සැකකරුවන් සතුව තිබී මිලිමීටර් 9 ගිනි අවි සඳහා භාවිත කරනු ලබන උණ්ඩ 50කට අධික ප්‍රමාණයක්, අත්බෝම්බ 02ක් සහ ටී - 56 ගිනි අවිය සඳහා භාවිත කරනු ලබන පතොරම් 80කට අධික ප්‍රමාණයක් පොලීසිය විසින් මෙහිදී සොයාගෙන තිබේ.
-
-මේ අතර මෙවැනි නීනිවිරෝධී ගිනිඅවි සම්බන්ධයෙන් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ බුද්ධි හා ආවේක්ෂණ ස්ථානාධිපතිවරයාගේ දුරකථන අංකයට දැනුම් දෙන ලෙස පොලීසිය විසින් ඉල්ලීමක් කර තිබේ.
-
-ඒ අනුව 071 8596476 යන දුරකථන අංකයෙන් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ බුද්ධි හා ආවේක්ෂණ ස්ථානාධිපතිවරයා සම්බන්ධ කරගත හැකි බවද පොලීසිය පැවසීය.
-
-මේ අතර ඊයේ (04) තංගල්ල ප්‍රදේශයේදී ද මෙරට නිෂ්පාදිත ගිනි අවියක් සමග සැකකරුවෙක් අත්අඩංගුවට ගැනීමට පොලීසිය සමත් ව තිබේ.
-
-...
-
-[Data](articles/955adebd.json)
 
 ---

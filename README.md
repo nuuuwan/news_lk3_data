@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 15:43:41**
+As of **2025-01-05 16:02:16**
 
 ## Newspaper Stats
 
-*Scraped **63,758** Articles*
+*Scraped **63,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,884
 islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,085
+adalk | 6,086
 adaderanalk | 7,800
-tamilmirrorlk | 9,142
+tamilmirrorlk | 9,143
 virakesarilk | 10,639
 adaderanasinhalalk | 11,012
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,758 articles have been extended.
+61,971 (97.2%) of 63,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### உல்லாசமாக இருந்த எட்டு பேர் கைது
+
+*2025-01-05 15:36:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உல்லாசமாக-இருந்த-எட்டு-பேர்-கைது/76-349793) · `ta`
+
+உல்லாசமாக இருந்தனர் என்ற குற்றச்சாட்டில்  எட்டு பேரை நல்லத்தண்ணி வனத் துறை அதிகாரிகள் மற்றும் அதிரடி படையினர், ஞாயிற்றுக்கிழமை (05) கைது செய்துள்ளனர்.
+
+இச்சம்பவம், காட்மோர் பகுதியில் உள்ள வனப் பகுதியில் இருந்து கவரவில பகுதிக்குச் செல்லும் சமவெளி வன பகுதியில் வைத்து கைது செய்து உள்ளனர்.
+
+இது குறித்து மேலும் தெரியவந்தது 25 க்கும் 30 க்கும் வயது மதிக்கத்தக்க இரண்டு பெண்கள் 25 வயது முதல் 60 வயதுக்கு உட்பட்ட ஆறு ஆண்கள், வனப்பகுதியில் உல்லாசமாக இருப்பதாக கிடைக்க பெற்ற இரகசிய தகவல்களை தொடர்ந்து சம்பவ இடத்திற்கு விரைந்து சென்ற நல்லத்தண்ணி வனத் துறை அதிகாரிகள் மற்றும் அதிரடி படையினர் சந்தேகத்தின் பேரில் சாலாவ பகுதியில் உள்ள எட்டு பேரை கைது செய்து விசாரணை நடத்தி வருகின்றனர்.
+
+◼️
+
+[Data](articles/6407f3e1.json)
+
+---
 
 ### கம்பஹாவில் ஐஸ், ஹெரோயின் போதைப்பொருட்களுடன் இளைஞன் கைது
 
@@ -47,6 +63,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2d072072.json)
+
+---
+
+### ත්‍රිපෝෂ සමාගම ගැන රජයේ තීරණය මෙන්න
+
+*2025-01-05 15:00:21* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිපෝෂ-සමාගම-ගැන-රජයේ-තීරණය-මෙන්න/11-414011) · `si`
+
+ත්‍රිපෝෂ සමාගම මෙරට ජනතාවගේ පෝෂණ අවශ්‍යතා සම්පූර්ණ කිරීම වෙනුවෙන් නව්‍යකරණයට ලක්කර සංවර්ධනය කරමින් රජය සතු ආයතනයක් ලෙස අඛණ්ඩව පවත්වාගෙන යාමට රජය තීරණය කර තිබේ.
+
+සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතාගේ  ප්‍රධානත්වයෙන් ඊයේ(04දා)  ත්‍රිපෝෂ සමාගමේ වත්මන් තත්ත්වය සහ එහි ඉදිරි සංවර්ධන කටයුතු පිළිබඳ අදාළ නිලධාරීන් සමග පැවැත්වූ සාකච්ඡාවකදී මේ බව සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/a11653c6.json)
 
 ---
 
@@ -1689,43 +1719,5 @@ Accordingly, the Commissioner General of Examinations, Amith Jayasundara, stated
 ...
 
 [Data](articles/41f3cdcc.json)
-
----
-
-### ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම 8 වැනිදායින් නැවත ඇරඹෙයි
-
-*2025-01-04 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205032) · `si`
-
-මතභේදයට තුඩුදුන් මෙවර 5 ශ්‍රේණිය  ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම් කටයුතු නැවත ආරම්භ කරන බව විභාග දෙපාර්තමේන්තුව පවසයි.
-
-විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසුවේ ඒ අනුව ලබන 08 වැනිදා සිට 12 වැනිදා දක්වා පිළිතුරු පත්‍ර ඇගයීමේ කටයුතු යළි ආරම්භ කරන බවය.
-
-◼️
-
-[Data](articles/681fc511.json)
-
----
-
-### World’s oldest person Tomiko Itooka dies at 116 in Japan
-
-*2025-01-04 19:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104720/worlds-oldest-person-tomiko-itooka-dies-at-116-in-japan) · `en`
-
-A Japanese woman, recognised as the world’s oldest person by Guinness World Records, has died aged 116.
-
-Tomiko Itooka died in a nursing home in the city of Ashiya, Hyogo Prefecture, according to officials.
-
-She became the oldest person in the world after Spain’s Maria Branyas Morera passed away in August 2024 at age 117.
-
-“Ms Itooka gave us courage and hope through her long life,” Ashiya’s 27-year-old mayor Ryosuke Takashima said in a statement.
-
-Ms Itooka was born in May 1908 – six years before the World War One and the same year that the Ford Model T car was launched in the US.
-
-She was verified as the world’s oldest person in September 2024 and was presented with the official GWR certificate on the Respect for the Aged Day, which is a Japanese public holiday celebrated annually to honour the country’s elderly citizens.
-
-Ms Itooka, who was one of three siblings, lived through world wars and pandemics as well as technological breakthroughs.
-
-...
-
-[Data](articles/7f47147c.json)
 
 ---

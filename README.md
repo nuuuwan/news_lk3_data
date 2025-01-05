@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 12:28:15**
+As of **2025-01-05 12:43:35**
 
 ## Newspaper Stats
 
-*Scraped **63,707** Articles*
+*Scraped **63,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 468
 colombotelegraphcom | 642
 bbccomsinhala | 669
-islandlk | 3,878
+islandlk | 3,881
 economynextcom | 3,884
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,082
+adalk | 6,083
 adaderanalk | 7,794
-tamilmirrorlk | 9,138
+tamilmirrorlk | 9,139
 virakesarilk | 10,623
 adaderanasinhalalk | 11,003
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,707 articles have been extended.
+61,971 (97.3%) of 63,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### Lost in the Death Valley in Chile
+
+*2025-01-05 12:31:00* · [`islandlk`](http://island.lk/lost-in-the-death-valley-in-chile/) · `en`
+
+In 2016, Shyamala and I visited Peru and Chile in South America. We flew from Miami in the USA nine hours before landing at Santiago Airport in Chile. The sky was blue, and a mild cool breeze engulfed us when we exited the airport. An elderly man was waiting for us, holding a board that said “Shyamala.” He greeted us warmly when we approached him. He introduced himself, welcomed us to Chile, took our two suitcases, and led us to a large van. He drove us to the hotel we had booked. It was an old mansion converted into a boutique hotel. It reminded me of old cottages in Goa in India with large verandas, narrow doors, and dark interiors. It was 11 am, and we had to wait about one hour before checking in. The hotel staff invited us to the coffee bar. While sipping wonderful coffee, I saw a poem on a wooden frame.
+
+...
+
+[Data](articles/2a4bcbc5.json)
+
+---
+
+### போலி நாணயத்தாள்களுடன் மூவர் கைது
+
+*2025-01-05 12:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-நாணயத்தாள்களுடன்-மூவர்-கைது/175-349779) · `ta`
+
+தமன, வனகமுவ பிரதேசத்தில் கையடக்க தொலைபேசி விற்பனை நிலையம் என்ற போர்வையில் வீடொன்றில் இயங்கி வந்த 5,000 ரூபாய் போலி நாணயத்தாள் தயாரிக்கும் தொழிற்சாலையை சுற்றிவளைத்து மூன்று சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+அத்துடன், போலி நாணயத்தாள்கள் தயாரிக்கப் பயன்படுத்தப்படும் மடிக்கணினி உள்ளிட்ட பல உபகரணங்களையும் கைப்பற்றியுள்ளதாக தமன பொலிஸார் தெரிவிக்கின்றனர்.
+
+கைது செய்யப்பட்ட மூன்று இளைஞர்களும் 29-20 வயதுக்கு இடைப்பட்டவர்கள் எனவும், அவர்கள் போதைப்பொருள் பாவனைக்கு அடிமையானவர்கள் எனவும் தகவல் வெளியாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+அந்த இடத்தில் ஏ4 அளவு தாள்கள் , மூன்று அச்சடிக்கப்பட்ட பிறகும் வெட்டி அகற்றப்படாத 10 போலியான  5000 ரூபாய் பெறுமதியான நோட்டுகளை அதிகாரிகள் கைப்பற்றியுள்ளனர்.
+
+◼️
+
+[Data](articles/f4a7f84d.json)
+
+---
 
 ### ஊதா நிற கொய்யா இனம்…
 
@@ -59,6 +89,26 @@ This is somewhat unsettling in a context where Ukraine and Israel have already b
 ...
 
 [Data](articles/f45f3a67.json)
+
+---
+
+### සිංහයන්ගේ බලාපොරොත්තු සුන් කරමින් කැන්ගරුවන් ලෝක ටෙස්ට් ශූරතාවයේ අවසන් මහා තරගයට
+
+*2025-01-05 12:00:46* · [`adalk`](https://www.ada.lk/sports/සිංහයන්ගේ-බලාපොරොත්තු-සුන්-කරමින්-කැන්ගරුවන්-ලෝක-ටෙස්ට්-ශූරතාවයේ-අවසන්-මහා-තරගයට/9-414009) · `si`
+
+සංචාරක ඉන්දීය කණ්ඩායමට එරෙහිව පැවති පස්වන හා අවසන් ටෙස්ට් ක්‍රිකට් තරගය ජයග්‍රහණය කළ ඕස්ට්‍රේලියානු කණ්ඩාය ලෝක ටෙස්ට් ශූරතාවයේ අවසන් මහා තරගයට සුදුසුකම්කම් ලබා ගැනීමට අද(05දා) සමත් විය.
+
+මෙම තරගය ජයග්‍රහණයත් සමත තරග 3-1ක් ලෙස තරගාවලියද ඕස්ට්‍රේලියානු කණ්ඩායම ජයග්‍රහණය කළේය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඉන්දීය කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 185ක් රැස් කළ අතර ඊට පිළිතුරු ඉනිම ඕස්ට්‍රේලියානු කණ්ඩායම පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 181ක් රැස් කළේය.
+
+අනතුරු දෙවන ඉනිම ක්‍රීඩා කළ ඉන්දීය කණ්ඩායම සියලු දෙනා දැවී ලකුණු 157ක් රැස් කළ අතර, ජයග්‍රාහී ලකුණු 158ක ඉලක්කයක් හඹා ගිය ඕස්ට්‍රේලියානු කණ්ඩායම කඩුලු 4ක් දැවී ලකුණු 162ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+ඕස්ට්‍රේලියානු කණ්ඩායම මෙම තරගය ජයග්‍රහණය කිරීම හේතුවෙන් ශ්‍රී ලංකා කණ්ඩායමට අවසන් මහා තරගයට පිවිසීමට තිබූ අවස්ථාවද අහිමි විය.
+
+◼️
+
+[Data](articles/19e9d755.json)
 
 ---
 
@@ -111,6 +161,20 @@ Born and raised in the predominantly Republican state of Georgia, Carter graduat
 ◼️
 
 [Data](articles/faf9d8d7.json)
+
+---
+
+### Santiago of Maradana
+
+*2025-01-05 11:32:00* · [`islandlk`](http://island.lk/santiago-of-maradana/) · `en`
+
+During a recent visit to the pearl of the Indian Ocean, I was keen for my grandsons to visit my old school by the Beira. They had heard so much from me about the college chapel with its soaring dome shaped ceiling with the solar monstrance at the top, which they dismissed as a figment of seeya’s imagination.
+
+Many facts and figures such as architect Booth, of Booth, Edward, and Reid, claiming it was the most beautiful chapel in Ceylon, or that it was modelled on the arch-basilica of St John Lateran in Rome, did not cut any ice with them. I had fond memories of 1,500 boys raising the roof with their lusty rendition of “We stand for God”, and I insisted on a visit.
+
+...
+
+[Data](articles/38fc7ea7.json)
 
 ---
 
@@ -183,6 +247,18 @@ There were almost 700 replies to the post, with almost all pointing out that it 
 ...
 
 [Data](articles/844c772c.json)
+
+---
+
+### “Sun cannot set in the world of English speaking people”
+
+*2025-01-05 11:10:00* · [`islandlk`](http://island.lk/sun-cannot-set-in-the-world-of-english-speaking-people/) · `en`
+
+Today is a very emotional day for me. Oxford brings back many fond memories that I cherish. For this reason, as much as for the intrinsic value of the honour you bestow upon me, I am truly overwhelmed. I am grateful to you, Mr. Chancellor, and to your colleagues, for this honour. I have had the good fortune of receiving several honorary degrees. However, there can be nothing more valuable or precious than receiving an honorary degree from one’s own alma mater. To be so honoured by a university where one has burnt the proverbial midnight oil to earn a regular degree, is a truly most fulfilling experience. I thank you for it. This is a day I will truly cherish.
+
+...
+
+[Data](articles/cbcfc274.json)
 
 ---
 
@@ -714,13 +790,13 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
-### 
+### Life and Times of  Jaffna’s Former Tiger  Commander  Sathasivampillai Krishnakumar alias  “Col” Kittu.
 
 *2025-01-05 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85304) · `en`
 
-Life and Times of  Former  Tiger Jaffna Commander Krishnakumar alias  “Col” Kittu.
-
 Nowadays the 33 year long war between the armed forces of Sri Lanka and the Liberation Tigers of Tamil Eelam(LTTE) is slowly receding into memory. The LTTE ,known generally as the tigers,was formed officially on 5 May 1976. After three decades of conflict the LTTE met its waterloo by the waters of Nandhikkadal lagoon on May 18th 2009. The war  waged against the Sri Lankan state by the  Veluppilai Prabhakaran -led LTTE is an important and integral part of Sri Lanka’s post-independence history.
+
+A key turning point in the long war was the metamorphosis of the LTTE  from  that of  a guerilla  organization into an outfit  engaging in positional  warfare. It was in 1985 that the LTTE established control over  substantial areas of the Jaffna peninsula.  Policing  ceased in practice. The army was essentially confined to barracks. Soldiers would however break out of their camps occasionally , get embroiled in skirmishes and  return to camp.
 
 ...
 
@@ -1751,95 +1827,5 @@ Prof. Jeewandara further added, “HMPV typically clears up within a week, but i
 ◼️
 
 [Data](articles/f1331186.json)
-
----
-
-### No change in Litro Gas prices for January
-
-*2025-01-04 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104712/no-change-in-litro-gas-prices-for-january) · `en`
-
-The Litro Gas Company says that the prices of its domestic LP Gas cylinders will remain unchanged for the month of January 2025.
-
-Accordingly, the current prices of LP gas cylinders will continue to apply throughout January 2025.
-
-The price for domestic LP Gas cylinders in the Colombo District is as follows:
-
-No LP gas price revision took place last month as well, and the most recent price revision was in October.
-
-◼️
-
-[Data](articles/57e4d295.json)
-
----
-
-### ලිට්‍රෝ ගෑස් මිල වෙනස් නොවෙයි
-
-*2025-01-04 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205016) · `si`
-
-ජනවාරි මාසයේදී පාරිභෝගික ජනතාවට සහන සැලසීමේ අරමුණින් ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල වැඩි නොකිරීමට තීරණය කළ බව ලිට්‍රෝ ගෑස් ලංකා සමාගම දැනුම්දෙයි.
-
-මේ අනුව 2025 ජනවාරි මාසයට අදාළව දැනට පවතින මිල ගණන් වලංගු වෙයි.
-
-12.5Kg ගෑස් සිලින්ඩරයක මිල රුපියල් 3,690ක් ද 5Kg ගෑස් සිලින්ඩරයක මිල රුපියල් 1,482ක් ද 2.3Kg ගෑස් සිලින්ඩරයක මිල රුපියල් 694ක් ද වෙයි.
-
-◼️
-
-[Data](articles/4bbaad37.json)
-
----
-
-### Nearly 300,000 dog bites reported annually in Sri Lanka
-
-*2025-01-04 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104711/nearly-300000-dog-bites-reported-annually-in-sri-lanka) · `en`
-
-The Public Health Veterinary Service reports that nearly 300,000 dog bites are recorded annually in Sri Lanka, leading to the administration of approximately 200,000 human rabies vaccines last year.
-
-According to Dr. Yeshan Guruge, Medical Officer of the Public Health Veterinary Service, 20 people succumbed to rabies last year.
-
-Among these fatalities, 11 were attributed to dog bites, one to a Golden palm civet bite, while in eight cases, the animal responsible could not be properly identified.
-
-Middle-aged individuals are the primary victims of animal bites, with men accounting for half of the cases.
-
-Despite dog bites being the most common cause, their frequency has shown a gradual decline over the past decade. However, bites from toque macaque monkeys have increased during this period.
-
-Dr. Guruge also highlighted that over Rs. 600 million is spent annually on human rabies vaccines in Sri Lanka.
-
-◼️
-
-[Data](articles/e6643e51.json)
-
----
-
-### චීනයේ පැතිරෙන වෛරසයේ අලුත්ම තත්ත්වය
-
-*2025-01-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205015) · `si`
-
-චීනයේ මේ වනවිට පැතිර යන හියුමන් මෙටානියුමෝනියා (HMPV) වෛරසය සම්බන්ධයෙන් පැහැදිලි කරමින් චීන බලධාරීන් වාර්තාවක් නිකුත් කර තිබේ.
-
-චීනය පවසන්නේ එම වෛරසය සම්බන්ධයෙන් අනියත බියක් ඇතිකර ගත යුතු නොමැති බවයි.
-
-ශීත සමයේ දී මෙවැනි වෛරස පැතිරයාම සාමාන්‍ය කරුණක් බවත්, මෙවර ශීත සමයේ දී එහි යම් අවම වීමක් දක්නට ඇති බවත් චීනය පවසයි.
-
-එමෙන්ම චීනයට සංචාරය කිරීමේ කිසිදු අවදානමක් නොමැති බවත් විදෙස් සංචාරකයින්ගේ සෞඛ්‍ය පිළිබඳව තමන් සහතික වන බවත් චීනය වැඩිදුරටත් පවසයි.
-
-◼️
-
-[Data](articles/dc1480eb.json)
-
----
-
-### සූරියප්පෙරුම මහතාගේ අවසන් කටයුතු හෙට
-
-*2025-01-04 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205014) · `si`
-
-අභාවප්‍රාප්ත ආචාර්ය ජේ. ආර්. පී. සූරියප්පෙරුම මහතාගේ අවසන් කටයුතු හෙට (5) බොරැල්ල පොදු සුසාන භූමියේ සිදුකිරීමට නියමිතව ඇත.
-
-ඒ මහතාගේ දේහය මේ වනවිට බොරැල්ල ජයරත්න මල් ශාලාවේ තැන්පත් කර තිබේ.
-
-සූරියප්පෙරුම මහතා පසුගිය 2වනදා අභාවප්‍රාප්ත වූ අතර, මිය යනවිට 96 වියේ පසුවිය.
-
-◼️
-
-[Data](articles/327de895.json)
 
 ---

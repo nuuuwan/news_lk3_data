@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 19:02:34**
+As of **2025-01-05 19:12:55**
 
 ## Newspaper Stats
 
-*Scraped **63,779** Articles*
+*Scraped **63,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,884
 islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,089
+adalk | 6,090
 adaderanalk | 7,806
-tamilmirrorlk | 9,149
+tamilmirrorlk | 9,151
 virakesarilk | 10,639
 adaderanasinhalalk | 11,016
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,779 articles have been extended.
+61,971 (97.2%) of 63,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### தேயிலை கூடையுடன் குடை
+
+*2025-01-05 18:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-கூடையுடன்-குடை/76-349803) · `ta`
+
+தேயிலை கொழுந்து பறிக்கும் தோட்டத் தொழிலாளர்களுக்கு குடை ஒன்றை அறிமுகப்படுத்த ஹொரண தோட்ட கம்பனியின் கட்டுப்பாட்டில் உள்ள ஸ்டோக்ஹோம் தோட்டத்தின் தோட்ட முகாமைத்துவ அதிகார சபை,  நடவடிக்கை எடுத்துள்ளது.
+
+தேயிலை தொழிலில் ஈடுபட்டுள்ள தோட்ட தொழிலாளர்கள் வெயிலிலும் மழையிலும் தேயிலை கொய்து வருவதாக தோட்டத்தின் தோட்ட அத்தியட்சகர் நதீரா குணசேகர தெரிவித்தார்.
+
+தனது தோட்ட நிறுவனத்தின் பிரதம நிறைவேற்று அதிகாரி   ஜே. ரொட்ரிகோ மற்றும் இணைப் பணிப்பாளர்   வசந்த குணவர்தன ஆகியோரின் கருத்தின் அடிப்படையில் தனது தோட்டத்தின் தொழிநுட்ப உத்தியோகத்தர்களுடன் இணைந்து இந்த குடையை முன்னோடி திட்டமாக அறிமுகப்படுத்தியதாக தோட்ட அத்தியட்சகர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/8abac693.json)
+
+---
+
+### ‘தூய்மையான இலங்கை’க்கு எதிராக ​பணிப்புறக்கணிப்பு?
+
+*2025-01-05 18:54:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூய்மையான-இலங்கை-க்கு-எதிராக-பணிப்புறக்கணிப்பு/175-349802) · `ta`
+
+தனியார் பேரூந்துகளுக்கு இடையூறு ஏற்படுத்துவதாக குற்றம் சுமத்தி, அரசாங்கத்தின் ‘தூய்மையான இலங்கை’ வேலைத்திட்டத்தின் கீழ் பஸ் உரிமையாளர்கள் பணிப்புறக்கணிப்புக்கு தயாராகி வருவதாக தனியார் பஸ் சங்கங்கள் ஞாயிற்றுக்கிழமை (5) பிற்பகல் தெரிவித்தன.
+
+இந்த அவலநிலையை வேலைநிறுத்தம் இன்றி சமாளிக்க பொலிஸ் மா அதிபரிடம் பேச்சுவார்த்தை நடத்துமாறு கோரிய போதிலும் இதுவரையில் பேச்சுவார்த்தைக்கு சந்தர்ப்பம் கிடைக்கவில்லை எனவும் அந்த சந்தர்ப்பம்   அடுத்த சில நாட்களில். கிடைக்குமென நம்புவதாகவும் தனியார் பஸ் சங்கத்தின் தலைவர் ஒருவர் தெரிவித்தார்.
+
+பேருந்துகளின் துணைக்கருவிகளை பொலிஸார் அண்மைய நாட்களில் கையாளும் விதம் மற்றும் பல விடயங்கள் தொடர்பில் பேருந்து சாரதிகள் மற்றும் உதவியாளர்கள் மத்தியில் கடும் எதிர்ப்பு காணப்படுவதாகவும் பேருந்து சங்கங்களின் எதிர்ப்பை கட்டுப்படுத்த முடியாத நிலை ஏற்பட்டுள்ளதாகவும் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/f7b3d451.json)
+
+---
 
 ### Perpetual Tessaries தடை மேலும் நீடிப்பு
 
@@ -185,6 +217,24 @@ PTL has been under scrutiny for its alleged involvement in irregularities within
 ◼️
 
 [Data](articles/39172aff.json)
+
+---
+
+### වී අලෙවි මණ්ඩලය නැවත සක්‍රීය කරනවා
+
+*2025-01-05 16:42:47* · [`adalk`](https://www.ada.lk/breaking_news/වී-අලෙවි-මණ්ඩලය-නැවත-සක්‍රීය-කරනවා/11-414015) · `si`
+
+කෘෂිකාර්මික ක්ෂේත්‍රයට අදාළ රාජ්‍ය සේවයේ පුරප්පාඩු කඩිනමින් පිරවීමට පියවර ගන්නා බවත්  එම පුරප්පාඩු පුරවා ගොවි ජනතාව ඇතුළු කෘෂිකාර්මික ක්ෂේත්‍රෙය් ව්‍යවසායකයන් වෙනුවෙන් උපරීම සේවය ලබා දෙන බවත්  කෘෂෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී ලාල් කාන්ත අමාත්‍යවරයා පවසයි.
+
+විශේෂයෙන්ම රජයට සම්බන්ධ පශු වෛද්‍යවරුන් සහ වනජීවී නිලධාරීන්ගේ හිගය කැපී පෙනෙන බැවින් හැකි ඉක්මනින් ඒ සඳහා කටයුතු කරන බව පසුගියදා මහනුවර පැවති කෘෂිකාර්මික ක්ෂේත්‍රයට අදාළ ප්‍රගති සමාලෝචනයකට සහභාගී වීමෙන් අනතුරුරව මාධ්‍යට අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+ගොවි ජනයා රැක ගැනීම වත්මන් රජයේ මූලික අරමුණ බවත්, එ වෙනුවෙන් රජය සෑම විටම කටයුතු කරන බවත් පැවසූ අමාත්‍යවරයා, ලංකාවේ කෘෂිකාර්මික ක්ෂේත්‍රය යළි ගොඩ නැංවිය යුතු බවද පැවසුවේය.
+
+විටින් විට විවිධ ගැටලු මතු වුවත් මෙරට ජනතාව කුසගින්නේ නොතියන්නට ගොවි ජනතාව කටයුතු කර ඇති බව පෙන්වා දුන් අමාත්‍යවරය අඩුපාඩු තිබුණත් කෘෂිකර්ම ක්ෂේත්‍රයේ නිලධාරීන් ඒ වෙනුවෙන් සැලකිය යුතු දායකත්වයක් ලබා දී ඇති බව පැවසීය.
+
+...
+
+[Data](articles/1d7e2417.json)
 
 ---
 
@@ -1675,55 +1725,5 @@ After ratification Sri Lanka’s Geological Survey and Mines Bureau (GSMB) had s
 ...
 
 [Data](articles/d7c4729b.json)
-
----
-
-### சுற்றுலா விசாவில் வர்த்தக நடவடிக்கைகளில் ஈடுபடும் வெளிநாட்டவருக்கு எதிராக நடவடிக்கை
-
-*2025-01-05 08:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/202984) · `ta`
-
-சுற்றுலா விசாவில் இலங்கைக்கு வருகை தந்து பல்வேறு வர்த்தக நடவடிக்கைகளில் ஈடுபடும் வெளிநாட்டு சுற்றுலா பயணிகள் குறித்து உரிய நடவடிக்கைகளை முன்னெடுக்காவிடின் தேசிய தொழிற்றுறையினர் பாதிக்கப்படுவார்கள். காலி மாவட்டத்தில் உக்ரேன், ரஷ்யா நாட்டு பிரஜைகள் முறையற்ற தொழில் நடவடிக்கைகளில் ஈடுபடுகிறார்கள் என சிறு மற்றும் நடுத்தர சுற்றுலா கைத்தொழில் ஒன்றியத்தின் தலைவர் சமீர சேனக டி சில்வா தெரிவித்தார்.
-
-சுற்றுலா விசா ஊடாக இலங்கைக்கு வருகைத் தரும் வெளிநாட்டு சுற்றுலா பயணிகள் முறையற்ற தொழில் நடவடிக்கைகளில் ஈடுபடுகிறார்கள். குறிப்பாக தெற்கு மாகாணத்தில் காலி மாவட்டம் சுற்றுலா மையங்களில் சுற்றுலா பயணிகள் பல வர்த்தக நடவடிக்கைகளில் ஈடுபடுகிறார்கள். இவர்களினால் அரசாங்கத்துக்கு எவ்வித வருமானமும் கிடைப்பதில்லை.
-
-...
-
-[Data](articles/3bea78c9.json)
-
----
-
-### Sri Lanka to review Adani’s energy projects tomorrow
-
-*2025-01-05 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104725/sri-lanka-to-review-adanis-energy-projects-tomorrow) · `en`
-
-A proposal to appoint a committee to evaluate Adani Group’s wind energy projects in Sri Lanka is slated to be tabled at the Cabinet meeting scheduled for tomorrow (06), according to a spokesperson from the Ministry of Energy.
-
-The proposed projects focus on constructing wind power plants in the Mannar and Poonaryn areas.
-
-Under an agreement approved by the previous administration, a tariff of 8.26 US cents per unit of electricity was agreed upon for the wind energy generated by these projects.
-
-Accordingly, the new proposal aims to reconsider this agreement by appointing a committee to thoroughly review its terms and conditions.
-
-◼️
-
-[Data](articles/d95b3b43.json)
-
----
-
-### Misty conditions expected during the morning
-
-*2025-01-05 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104724/misty-conditions-expected-during-the-morning) · `en`
-
-The Meteorological Department said that showers or thundershowers will occur at several places in Sabaragamuwa, Southern and Uva provinces and in Kaluthara, Kandy and Nuwara-Eliya districts during the afternoon or night today (05).
-
-Mainly fair weather will prevail in the other areas of the island, it added.
-
-Meanwhile, misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, the Met. Department stated.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/2b0463fc.json)
 
 ---

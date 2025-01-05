@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 00:16:52**
+As of **2025-01-06 00:27:50**
 
 ## Newspaper Stats
 
-*Scraped **63,823** Articles*
+*Scraped **63,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,886
 islandlk | 3,890
-dailyftlk | 4,430
+dailyftlk | 4,433
 dailymirrorlk | 4,733
 adalk | 6,096
 adaderanalk | 7,809
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,823 articles have been extended.
+61,971 (97.1%) of 63,826 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -94,6 +94,18 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Leaders need to be groomed
+
+*2025-01-05 22:15:27* · [`dailyftlk`](https://www.ft.lk/columns/Leaders-need-to-be-groomed/4-771410) · `en`
+
+Sri Lanka is experiencing the lack of leadership not only in politics but in all other areas including sports. It happened to the sport that we love most, that had become almost a religion in many parts of South Asia – “the game of cricket”. The sport that gave Sri Lankans the edge over many world cricket-playing nations is now on a fast declining state. We have seen the worst leadership being demonstrated at the recently concluded T 20 World Cup tournament. This poor leadership resulted in Sri Lanka failing in all departments of the game.
+
+...
+
+[Data](articles/deff3453.json)
+
+---
+
 ### Sacred rituals halted at ‘Sabaragamuwa Saman Devalaya’ amid protests against Acting Basnayake Nilame
 
 *2025-01-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104742/sacred-rituals-halted-at-sabaragamuwa-saman-devalaya-amid-protests-against-acting-basnayake-nilame) · `en`
@@ -107,6 +119,34 @@ However, the board claims the appointment disregards established customs and all
 ◼️
 
 [Data](articles/a54a84e3.json)
+
+---
+
+### Are we doing the right thing ?
+
+*2025-01-05 22:09:32* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-doing-the-right-thing/4-771409) · `en`
+
+I was getting ready to pay my bill at the counter at a supermarket and had a few goodies in my basket when I noticed a middle-aged person in a sarong just behind me with only one item he had picked up waiting to pay after me. Without hesitation I gestured to him to go ahead and pay before me, and he was very reluctant though he accepted the offer with thanks. When he walked out of the supermarket having paid his bill the grateful expression on his face when he looked back at me gave me a lot of happiness.
+
+Having left the supermarket I was driving back home which is about 300 metres along the main road before I have to take a right turn on to the lane where I reside.
+
+...
+
+[Data](articles/e9f15d1f.json)
+
+---
+
+### AKD and Clean Sri Lanka project: Good start but much more needed to done at ground level
+
+*2025-01-05 22:05:31* · [`dailyftlk`](https://www.ft.lk/columns/AKD-and-Clean-Sri-Lanka-project-Good-start-but-much-more-needed-to-done-at-ground-level/4-771408) · `en`
+
+AKD says the first step is by helping people to appreciate the value of their own life so that they will learn to value the lives of others
+
+Literarily, the cleaning of Sri Lanka means conscious efforts taken to rid the physical environment of hazardous polluting matters. But the project proposed by AKD is much more than this literary meaning. According to him, the project, in addition to cleaning the environment, aspires to inculcate a new value system among Sri Lankans. But how should that be done? AKD says the first step is by helping people to appreciate the value of their own life so that they will learn to value the lives of others. Then, each one in society will develop empathy, concern, and consideration for one another
+
+...
+
+[Data](articles/1afa18ef.json)
 
 ---
 
@@ -1633,59 +1673,5 @@ in the era in which Mahatma Gandhi played such an important role in Indian and W
 ◼️
 
 [Data](articles/0c902ac2.json)
-
----
-
-### இலங்கை வரும் உலக நாடுகளின் ஆய்வுக் கப்பல்களுக்கு நிலையான மூலோபாய ஒத்துழைப்பு விதிமுறை - அரசாங்கம் தீர்மானம்
-
-*2025-01-05 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202997) · `ta`
-
-இலங்கை வருவதற்கு அனுமதி கோரும் உலக நாடுகளின் ஆய்வுக் கப்பல்களுக்கு நிலையான மூலோபாய ஒத்துழைப்பு விதிமுறையின் கீழ் அனுமதியளிப்பது குறித்து அரசாங்கம் அவதானம் செலுத்தியுள்ளது. இதற்கு அமைவாக விசேட விதிமுறை ஒன்றை உருவாக்குவதற்கு வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் தலைமையில் விசேட குழு ஒன்றும் நியமிக்கப்பட்டுள்ளது.
-
-இலங்கை கடற்பரப்புக்குள் வரும் உலக நாடுகளின் ஆய்வுக்கப்பல்களுக்கு விதிக்கப்பட்டிருந்த தற்காலிக தடை கடந்த டிசெம்பர் மாதம் 31ஆம் திகதியுடன் நிறைவடைந்துள்ளது.
-
-இந்த தடையை முந்தைய அரசாங்கம் விதித்திருந்தது. எவ்வாறாயினும் உலக நாடுகளின் ஆய்வுக்கப்பல்கள் இலங்கைக்கு வருவதால் ஏற்பட கூடிய இராஜதந்திர நெருக்கடிகளை தவிர்க்கும் வகையில் பொதுவானதொரு மூலோபாய ஒத்துழைப்பு விதிமுறையை உருவாக்குவதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க நடவடிக்கை எடுத்துள்ளார்.
-
-இதற்காக வெளிவிவகார அமைச்சர் விஜித்த ஹேராத் தலைமையிலான சிறப்பு குழுவை ஜனாதிபதி அநுரகுமார திசாநாயக்க நியமித்துள்ளார்.
-
-...
-
-[Data](articles/d57b2a3a.json)
-
----
-
-### ஊதா நிற கொய்யா இனம்…
-
-*2025-01-05 12:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஊதா-நிற-கொய்யா-இனம்/76-349778) · `ta`
-
-பொகவந்தலாவ ஆரியபுர பிரதேசத்தில் வசிக்கும் கெலும் பிரதீப் என்பவரின் வீட்டில், ஊதா நிற கொய்யா வகை பழம் தருகிறது.
-
-கொய்யா மரத்தில் ஊதா நிறம், பூக்கள் மற்றும் பழங்கள் இருப்பதாகவும், வட்டவளை கிராமத்தில் வசிக்கும் தனது சகோதரியின் வீட்டில் இருந்து இந்த கொய்யா மரத்தை கொண்டு வந்து இரண்டு ஆண்டுகளுக்குப் முன்னர் நடவு செய்ததாகவும் கூறினார்.
-
-இந்தக் கொய்யா மரத்தைப் பார்ப்பதற்காக அக்கம்பக்கத்தினர் தினமும் தனது வீட்டிற்கு வருவார்கள் கெலும் பிரதீப் கூறினார்.
-
-◼️
-
-[Data](articles/2a2e98c9.json)
-
----
-
-### மீன்பிடிக் கப்பல் மூலம் இலங்கைக்கு போதைப்பொருள் கொண்டுவரப்பட்ட சம்பவம் - இருவர் கைது!
-
-*2025-01-05 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202995) · `ta`
-
-மீன்பிடிக் கப்பல் மூலம் இலங்கைக்கு போதைப்பொருள் கொண்டுவரப்பட்டமை தொடர்பில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகத்தின் பணிப்பாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஹேமல் பிரசாந்தவின் பணிப்புரையின் பேரில் கடந்த ஒக்டோபர் மாதம் 31ஆம் திகதி விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
-
-அந்த விசாரணைகளின் பின்னர், மீன்பிடி கப்பலின் உரிமையாளரிடம் மேற்கொள்ளப்பட்ட மேலதிக விசாரணைகளில் இச்சந்தேக நபரால் வீட்டில் மறைத்து வைக்கப்பட்டிருந்த வெளிநாட்டில் தயாரிக்கப்பட்ட மைக்ரோ ரக கைத்துப்பாக்கி, துப்பாக்கியின் மகசீன் மற்றும் 04 தோட்டாக்கள் ஆகியவற்றை பொலிஸார் அண்மையில் கைப்பற்றியுள்ளனர்.
-
-இதேவேளை, அவருக்கு துப்பாக்கியை வழங்கியதாக சந்தேகிக்கப்படும் மற்றுமொரு நபரும் ஹிக்கடுவ பிரதேசத்தில் உள்ள பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியக அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 30 மற்றும் 33 வயதுடைய வெரல்லான மற்றும் கிந்தோட்ட பிரதேசங்களை சேர்ந்தவர்கள் ஆவர்.
-
-இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவினர் மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/5e349ec3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 13:44:18**
+As of **2025-01-05 14:03:02**
 
 ## Newspaper Stats
 
-*Scraped **63,712** Articles*
+*Scraped **63,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 468
 colombotelegraphcom | 642
 bbccomsinhala | 669
-islandlk | 3,881
+islandlk | 3,882
 economynextcom | 3,884
 dailyftlk | 4,430
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,712 articles have been extended.
+61,971 (97.3%) of 63,713 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,22 @@ In 2016, Shyamala and I visited Peru and Chile in South America. We flew from Mi
 ...
 
 [Data](articles/2a4bcbc5.json)
+
+---
+
+### Of Gandhi and Ahimsa
+
+*2025-01-05 12:21:00* · [`islandlk`](http://island.lk/of-gandhi-and-ahimsa/) · `en`
+
+Ahimsa (Non-violence) is one of the cardinal principles of my life. I am a great admirer of Mahatma Gandhi’s life and work. Ahimsa was a cardinal principle of his life too. I met him on several occasions and studied his writings carefully. In November 1989, I delivered a lecture in London on Ahimsa to a meeting of the Joint Commonwealth Societies. On October 2, 1991, 1 spoke about Gandhi and Ahimsa, at a commemoration meeting bell in Colombo on Gandhi’s birth anniversary. But here, I would like to present what I said about Gandhi first, and then what I said about Ahimsa.
+
+It was indeed very gracious on the part of the India-Sri Lanka Society to have invited me to speak a few words on this occasion, commemorating the birthday of Mahatma Gandhi. It may be because very few in Sri Lanka, and even very few among the politician of India are alive, who lived
+
+in the era in which Mahatma Gandhi played such an important role in Indian and World History.
+
+...
+
+[Data](articles/5f85f9b8.json)
 
 ---
 
@@ -1809,23 +1825,5 @@ The raid was conducted based on information received by naval units.
 ◼️
 
 [Data](articles/3baa690f.json)
-
----
-
-### Prof. Jeewandara addresses concerns over new virus outbreak in China
-
-*2025-01-04 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104713/prof-jeewandara-addresses-concerns-over-new-virus-outbreak-in-china) · `en`
-
-Prof. Chandima Jeewandara, the Director of the Allergy, Immunology and Cell Biology Unit of the University of Sri Jayawardenapura, has addressed the rising concerns over a new wave of respiratory infections in China.
-
-Posting on ‘X’ (formerly Twitter), Prof. Jeewandara shared his insights after receiving numerous calls on the topic, emphasizing that respiratory infections are common during winter and typically not a cause for alarm.
-
-He explained, “While HMPV (Human Metapneumovirus) is driving a rise in respiratory infections, it is neither a new virus nor a looming pandemic threat. Seasonal spikes are expected, particularly as people reacclimate to common pathogens after Covid-19 lockdowns.”
-
-Prof. Jeewandara further added, “HMPV typically clears up within a week, but it’s important for young children, older adults, and those with existing health conditions to stay cautious. Following preventive measures can reduce the risk of infections.”
-
-◼️
-
-[Data](articles/f1331186.json)
 
 ---

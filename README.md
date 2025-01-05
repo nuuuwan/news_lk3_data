@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 23:44:16**
+As of **2025-01-06 00:03:28**
 
 ## Newspaper Stats
 
-*Scraped **63,822** Articles*
+*Scraped **63,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 6,096
 adaderanalk | 7,809
 tamilmirrorlk | 9,154
-virakesarilk | 10,661
+virakesarilk | 10,662
 adaderanasinhalalk | 11,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,822 articles have been extended.
+61,971 (97.1%) of 63,823 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/84264d6a.json)
+
+---
+
+### தென் ஆபிரிக்காவுடனான 2ஆவது டெஸ்ட்டில் பாகிஸ்தான் பலோ ஒன் னில் 213 - 1 விக்.
+
+*2025-01-05 23:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203066) · `ta`
+
+தென் ஆபிரிக்காவுக்கு எதிராக கேப் டவுடன், நியூலண்ட்ஸ் விளையாட்டரங்கில் நடைபெற்றுவரும் இரண்டாவது டெஸ்ட் கிரிக்கெட் போட்டியில் முதல் இன்னிங்ஸில் 194 ஓட்டங்களுக்கு சுருண்ட பாகிஸ்தான், பலோ ஒன்னில் இரண்டாவது இன்னிங்ஸில் ஒரு விக்கெட்டை இழந்து 213 ஓட்டங்களைப் பெற்றிருந்தது.
+
+இப் போட்டியில் இன்னிங்ஸ் தோல்வியைத் தவிர்ப்பதற்கு பாகிஸ்தான் மேலும் 208 ஓட்டங்களைப் பெறவேண்டும்.
+
+போட்டியில் மேலும் இரண்டு தினங்கள் இருப்பதால் பாகிஸ்தான் தோல்வியைத் தவிர்க்கும் என எதிர்பார்க்க முடியாது.
+
+வெள்ளிக்கிழமை ஆரம்பமான இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய தென் ஆபிரிக்கா முதல் இன்னிங்ஸில் 615 ஓட்டங்களைக் குவித்தது.
+
+பதிலுக்கு துடுப்பெடுத்தாடிய பாகிஸ்தான் 3ஆம் நாளான இன்று அதன் முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 194 ஓட்டங்களை மாத்திரம் பெற்றது.
+
+பந்துவீச்சில் கெகிசோ ரபாடா 53 ஓட்டங்களுக்கு 3 விக்கெட்களையும் கேஷவ் மஹராஜ் 14 ஓட்டங்களுக்கு 2 விக்கெட்களையும் அறிமுக வீரர் க்வேனா மஃபாக்கா 43 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
+
+...
+
+[Data](articles/3f56001f.json)
 
 ---
 
@@ -1665,19 +1687,5 @@ in the era in which Mahatma Gandhi played such an important role in Indian and W
 ◼️
 
 [Data](articles/5e349ec3.json)
-
----
-
-### Ukraine and Israel: The two flashpoints of 2024
-
-*2025-01-05 12:06:00* · [`islandlk`](http://island.lk/ukraine-and-israel-the-two-flashpoints-of-2024/) · `en`
-
-US president-elect Donald Trump recently gave a press briefing on Ukraine and Israel. On both issues he has refused to be concrete, and on both he has polarised his critics.
-
-This is somewhat unsettling in a context where Ukraine and Israel have already become, in the post-2022 conjuncture, the two most explosive geopolitical issues of our time. The world has been close to a global conflagration many times before, even after the end of the Cold War. But it has arguably never been this close. Eurasia and West Asia have been the centres of global conflict for the longest time. But now, we are seeing both on fire, and under siege, encircling each other and, with that, the rest of the world too.
-
-...
-
-[Data](articles/f45f3a67.json)
 
 ---

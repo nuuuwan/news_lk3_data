@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 20:27:57**
+As of **2025-01-05 20:43:32**
 
 ## Newspaper Stats
 
-*Scraped **63,807** Articles*
+*Scraped **63,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailymirrorlk | 4,733
 adalk | 6,092
 adaderanalk | 7,807
 tamilmirrorlk | 9,153
-virakesarilk | 10,658
+virakesarilk | 10,659
 adaderanasinhalalk | 11,017
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,807 articles have been extended.
+61,971 (97.1%) of 63,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### தைப்பொங்கல் பண்டிகைக்கு பொங்கல் தயார் செய்ய அரிசி தட்டுப்பாடு - புறக்கோட்டை அரிசி மொத்த வியாபாரிகள்
+
+*2025-01-05 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/203063) · `ta`
+
+இன்னும் ஒரு வாரத்துக்குப் பிறகு வரும் தைப்பொங்கல் பண்டிகைக்கு பொங்கல் தயார் செய்ய முடியாமல் சந்தையில் அரிசி தட்டுப்பாடு ஏற்பட்டுள்ளதாக புறக்கோட்டை அரிசி மொத்த வியாபாரிகள் குற்றம் சாட்டுகின்றனர்.
+
+அரிசி தட்டுப்பாட்டுக்கு தீர்வாக அரிசிக்கான கட்டுப்பாட்டு விலையை விதித்தல், அரிசியை இறக்குமதி செய்தல், அரிசி விற்பனை செய்பவர்கள் மற்றும் கட்டுப்பாட்டு விலைக்கு அப்பால் கையிருப்பு பதுக்கி வைத்திருப்பவர்களை கண்டறிய விசாரணைகளை ஆரம்பிக்க அரசாங்கம் நடவடிக்கை எடுத்தது.
+
+மேலும், அரிசியை இறக்குமதி செய்வதற்கு அரசாங்கம் நடவடிக்கை எடுத்ததுடன், அதற்கேற்ப 88,000 மெற்றிக் தொன் அரிசி இன்றுவரை இறக்குமதி செய்யப்பட்டுள்ளது.
+
+எவ்வாறாயினும், கடந்த பண்டிகை காலத்தை போன்று இன்றும் சந்தையில் அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாக வியாபாரிகள் தெரிவித்தனர்.
+
+இதேவேளை, நாட்டின் சில பகுதிகளில் உள்ளுர் கச்சா மற்றும் நாட்டு அரிசிக்கு தட்டுப்பாடு நிலவுவதாக வர்த்தகர்களும் நுகர்வோரும் குற்றம் சுமத்துகின்றனர்.
+
+...
+
+[Data](articles/ce59c9b0.json)
+
+---
 
 ### வங்கிக்கு முன்னால் நிறுத்தப்பட்ட காரில் துப்பாக்கி
 
@@ -84,7 +104,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 පසුගිය වසර 5ක් ඇතුළත සිදු වූ රිය අනතුරු හේතුවෙන් වටිනා මිනිස් ජීවිත 12,140ක් රටට අහිමි වී ඇති බව පොලීසිය පවසයි.
 
-2020, 2021, 2022, 2023, 2024 වසරවල සිදු වූ රිය අනතුරු සම්බන්ධයෙන් රථවාහන පාලන හා මාර්ග ආරක්ෂාව අධ්‍යක්ෂක, නියෝජ්‍ය පොලිස්පති එච්.ඒ.කේ.ඒ. ඉන්දික හපුගොඩ මහතාගේ අධීක්ෂණ යටතේ සිදුකළ සමීක්ෂණයකින් මේ බව ගණනය කර තිබේ.
+2020, 2021, 2022, 2023, 2024 වසරවල සිදු වූ රිය අනතුරු සම්බන්ධව, වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ උපදෙස් මත රථවාහන පාලන හා මාර්ග ආරක්ෂාව අධ්‍යක්ෂක, නියෝජ්‍ය පොලිස්පති එච්.ඒ.කේ.ඒ. ඉන්දික හපුගොඩ මහතාගේ අධීක්ෂණ යටතේ සිදුකළ සමීක්ෂණයකින් මේ බව ගණනය කර තිබේ.
 
 ඒ අනුව, 2020 වසරේ දී  2,363 දෙනෙක්, 2021 වසරේදී  2,557 දෙනෙක්, 2022 වසරේදී  2,540 දෙනෙක්,  2023 වසරේදී  2,321 දෙනෙක් සහ 2024 වසරේදී 2,359 දෙනෙක් වශයෙන් මියගිය පිරිස ගණනය කර ඇත.
 
@@ -1657,17 +1677,5 @@ There were almost 700 replies to the post, with almost all pointing out that it 
 ...
 
 [Data](articles/844c772c.json)
-
----
-
-### “Sun cannot set in the world of English speaking people”
-
-*2025-01-05 11:10:00* · [`islandlk`](http://island.lk/sun-cannot-set-in-the-world-of-english-speaking-people/) · `en`
-
-Today is a very emotional day for me. Oxford brings back many fond memories that I cherish. For this reason, as much as for the intrinsic value of the honour you bestow upon me, I am truly overwhelmed. I am grateful to you, Mr. Chancellor, and to your colleagues, for this honour. I have had the good fortune of receiving several honorary degrees. However, there can be nothing more valuable or precious than receiving an honorary degree from one’s own alma mater. To be so honoured by a university where one has burnt the proverbial midnight oil to earn a regular degree, is a truly most fulfilling experience. I thank you for it. This is a day I will truly cherish.
-
-...
-
-[Data](articles/cbcfc274.json)
 
 ---

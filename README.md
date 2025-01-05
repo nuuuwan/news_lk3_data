@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 14:27:53**
+As of **2025-01-05 14:43:43**
 
 ## Newspaper Stats
 
-*Scraped **63,716** Articles*
+*Scraped **63,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,084
 adaderanalk | 7,794
-tamilmirrorlk | 9,141
+tamilmirrorlk | 9,142
 virakesarilk | 10,623
 adaderanasinhalalk | 11,003
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,716 articles have been extended.
+61,971 (97.3%) of 63,717 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/2bdc93dd.json)
+
+---
+
+### நீதியரசர்களை நியமிக்க அரசியலமைப்பு பேரவை அங்கீகாரம்
+
+*2025-01-05 14:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதியரசர்களை-நியமிக்க-அரசியலமைப்பு-பேரவை-அங்கீகாரம்/175-349782) · `ta`
+
+மேல் நீதிமன்ற நீதிபதிகளான கே.எம்.சரத் திசாநாயக்க மற்றும் பிரதீப் ஹெட்டியாராச்சி ஆகியோரை மேன்முறையீட்டு நீதிமன்ற நீதியரசர்களாக நியமிப்பதற்கு அரசியலமைப்பு பேரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+மேல் நீதிமன்ற நீதிபதிகளான திஸாநாயக்க மற்றும் ஹெட்டியாராச்சி ஆகியோர் அடுத்த வாரம் மேன்முறையீட்டு நீதிமன்ற நீதியரசர்களாக பதவிப் பிரமாணம் செய்ய உள்ளனர்.
+
+◼️
+
+[Data](articles/583eb968.json)
 
 ---
 
@@ -1803,21 +1817,5 @@ The raid was conducted based on information received by naval units.
 ◼️
 
 [Data](articles/1c157dea.json)
-
----
-
-### மாணவர்களிடையே சுவாச நோய்கள் பரவும் அபாயம்
-
-*2025-01-04 12:16:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களிடையே-சுவாச-நோய்கள்-பரவும்-அபாயம்/175-349733) · `ta`
-
-புதிய கல்வியாண்டின் தொடக்கத்தில், மாணவர்களிடையே சுவாச நோய்கள் பரவும் சாத்தியம் குறித்து சுகாதார அதிகாரிகள் கவலை தெரிவித்துள்ளனர்.
-
-லேடி ரிட்ஜ்வே வைத்தியசாலையின் குழந்தைகளுக்கான சுவாச நோய்களுக்கான விசேட வைத்திய நிபுணர் டொக்டர் சன்ன டி சில்வா கூறுகையில், பல்வேறு வைரஸ் சுவாச நோய்கள் பாடசாலைகளில் பரவக்கூடும்.
-
-மாணவர்களின் ஆரோக்கியத்தில் பெற்றோர்கள், ஆசிரியர்கள் மற்றும் பாடசாலை அதிகாரிகள் மிகுந்த கவனம் செலுத்த வேண்டும் என்று, அவர் கேட்டுக்கொண்டார்.
-
-◼️
-
-[Data](articles/2e322c94.json)
 
 ---

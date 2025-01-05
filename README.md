@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 15:12:54**
+As of **2025-01-05 15:27:57**
 
 ## Newspaper Stats
 
-*Scraped **63,756** Articles*
+*Scraped **63,758** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 468
-colombotelegraphcom | 642
+colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,884
 islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,084
+adalk | 6,085
 adaderanalk | 7,800
 tamilmirrorlk | 9,142
 virakesarilk | 10,639
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,012
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,756 articles have been extended.
+61,971 (97.2%) of 63,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,22 @@ Highlighting the lack of a formal, targeted program by previous administrations,
 ...
 
 [Data](articles/bf21ff01.json)
+
+---
+
+### ටෙස්ට ලකුණු 10,000 එක් ලකුණකින් අහිමි වූ ස්මිත්
+
+*2025-01-05 13:54:29* · [`adalk`](https://www.ada.lk/sports/ටෙස්ට-ලකුණු-10-000-එක්-ලකුණකින්-අහිමි-වූ-ස්මිත්/9-414010) · `si`
+
+ඉන්දීය කණ්ඩායම සමග පැවති අවසන් ටෙස්ට් තරගයේ දෙවන ඉනිමේදී ඕස්ට්‍රේලියානු කණ්ඩායමේ පිතිකරු ස්ටීව් ස්මිත්ට  සුවිශේෂී කඩයිමක් පෙනි පෙනී දැවී ගියේය.
+
+ටෙස්ලට් ලකුණු  10,000 සීමාව ලගටම පැමිණ ලකුණු 9999ලබා සිටියදී දැවී ගි​යේය.
+
+ඉන්දීය කණ්ඩායම සහ ඕස්ට්‍රේලියානු කණ්ඩායම අතර පැවති අවසන් ටෙස්ට් ක්‍රිකට් තරගයේදී මෙම කටයිම පසු කිරීමට ඔහුට නොහැකි වූ අතර, එලැඹෙන ශ්‍රී ලංක සංචාරයේදී මෙම කඩයිම පසු කිරීමට ඔහුට අවස්ථාව හිමිවේ.
+
+◼️
+
+[Data](articles/f2f7f8ed.json)
 
 ---
 
@@ -1156,6 +1172,18 @@ A source familiar with the sale told the BBC on Saturday: “The president has m
 
 ---
 
+### BRICS Countries’ Effort To Dedollarization Is Just Wishful Thinking
+
+*2025-01-05 09:33:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/brics-countries-effort-to-dedollarization-is-just-wishful-thinking/) · `en`
+
+Mr. Trump who has been elected to be the next president of the United States has said that he would impose 100% import tax on BRICS countries if they continue their effort to dedollarize international trade and payment mechanism. This is a discussion now taking place in global financial capitals. It is quite normal because if President Trump continues with his “threat” there could be a huge mess in many economies which export to the United States. But it is not normal if a person with average intelligence who lives in a small village of Kahathuduwa, a few miles away from Colombo in Sri Lanka, nearly eight thousand miles away from New York, shows some visionary opinion on the subject. That led me to write this essay.
+
+...
+
+[Data](articles/cc8af369.json)
+
+---
+
 ### Suspect arrested at BIA for smuggling gold
 
 *2025-01-05 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104726/suspect-arrested-at-bia-for-smuggling-gold-) · `en`
@@ -1699,41 +1727,5 @@ Ms Itooka, who was one of three siblings, lived through world wars and pandemics
 ...
 
 [Data](articles/7f47147c.json)
-
----
-
-### அரசாங்கத்தின் புதிய அணுகுமுறை மிகவும் கவலைக்குரியது - திஸ்ஸ அத்தநாயக்க விசனம்
-
-*2025-01-04 19:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202980) · `ta`
-
-மக்களுக்கு விஷத்தை வழங்கியாவது வருமானத்தை அதிகரித்துக் கொள்ள வேண்டும் என்பது தான் தேசிய மக்கள் சக்தி அரசாங்கத்தின் கொள்கையா? சட்ட விரோத மதுபானத்துக்கு பதிலாக குறைந்த விலையில் மதுபானத்தை தயாரிக்கப் போவதாக அமைச்சரொருவர் தெரிவித்துள்ளமை எந்தவகையில் ஏற்றுக் கொள்ள கூடிய கருத்தாகுமென ஐக்கிய மக்கள் சக்தியின் தேசிய அமைப்பாளர் திஸ்ஸ அத்தநாயக்க கேள்வியெழுப்பினார்.
-
-அரசாங்கத்தின் புதிய அணுகுமுறை மிகவும் கவலைக்குரியதாகவுள்ளது. குறைந்த விலையில் மதுபானத்தை பெற்றுக் கொள்வதற்காக சீனியில் உற்பத்தி செய்யப்படும் எதனோல் மூலம் மதுபானத்தை தயாரிக்கவுள்ளதாக அமைச்சர் சுனில் ஹந்துன்நெத்தி கூறுகின்றார்.
-
-சட்டவிரோத மதுபானங்களை ஒழிப்பதற்காக குறைந்த விலையில் பெற்றுக் கொள்ளக் கூடிய மதுபானத்தை அரசாங்கமே தயாரிப்பது தான் மாற்று வழியா? இதுவா அரசாங்கத்தின் கொள்கை? மக்களின் அத்தியாவசிய தேவை இதுவல்ல. மக்களின் வருமான வழியை அதிகரித்து, அவர்களின் வாழ்க்கை செலவை குறைப்தே அரசாங்கத்தின் பிரதான கடமையாகும்.
-
-...
-
-[Data](articles/8a21d5f7.json)
-
----
-
-### Sri Lanka president calls for gem and jewellery exports to exceed USD1bn
-
-*2025-01-04 19:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-calls-for-gem-and-jewellery-exports-to-exceed-usd1bn-197967/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s president has urged gem and jewellery exporters to work to exceed 1 billion dollars in gem and jewellery exports.
-
-“Let’s work together to exceed USD 1 billion in gem and jewellery exports!” President Anura Dissanayake said after inaugurating the ‘FACETS Sri Lanka – 2025’ gem and jewellery exhibition.
-
-He said he was “thrilled to see local entrepreneurs showcasing their exceptional craftsmanship alongside global industry professionals”.
-
-Sri Lanka made 477,686,953 dollars from gem and jewellery exports in 2023, according to the National Gem and Jewellery Authority.
-
-The Indian Ocean island nation has a long traditional association with the international gem and jewellery trade. (Colombo/Jan4/2025)
-
-◼️
-
-[Data](articles/775fa0b4.json)
 
 ---

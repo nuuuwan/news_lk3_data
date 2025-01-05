@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 08:08:40**
+As of **2025-01-05 08:30:52**
 
 ## Newspaper Stats
 
-*Scraped **63,668** Articles*
+*Scraped **63,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
 adaderanalk | 7,791
-tamilmirrorlk | 9,126
+tamilmirrorlk | 9,127
 virakesarilk | 10,617
 adaderanasinhalalk | 10,998
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,668 articles have been extended.
+61,971 (97.3%) of 63,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b9ee0ba5.json)
+
+---
+
+### காசா மீது இஸ்ரேல் தாக்குதல்: 28 பேர் பலி
+
+*2025-01-05 03:25:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-மீது-இஸ்ரேல்-தாக்குதல்-28-பேர்-பலி/50-349755) · `ta`
+
+கடந்த இரண்டு நாள்களில் மாத்திரம் காசாவில் இஸ்ரேல் நடத்திய தாக்குதலில் 130 இற்கும் மேற்பட்டோர் உயிரிழந்துள்ளனர் என அந்நாட்டு ஊடகங்கள் தெரிவித்துள்ளன.
+
+அத்துடன், காசா பகுதியிலுள்ள 27 சுகாதார நிலையங்கள் மீது 136 தாக்குதல்கள் மேற்கொள்ளப்பட்டுள்ளன என குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/2d04032a.json)
 
 ---
 
@@ -1871,21 +1885,5 @@ Rehan Jayawickreme has officially stepped down from the Samagi Jana Balawegaya (
 ...
 
 [Data](articles/fb46cba9.json)
-
----
-
-### Police website was not hacked: SSP Manatunga
-
-*2025-01-04 02:16:34* · [`dailyftlk`](https://www.ft.lk/news/Police-website-was-not-hacked-SSP-Manatunga/56-771385) · `en`
-
-The Sri Lanka Police yesterday confirmed that its official website was not compromised during the recent cyber-attack on its social media accounts.
-
-Addressing a media briefing organised by the Government Information Department, Police Media Spokesman SSP Buddhika Manatunga explained that while the Police’s YouTube, Facebook and Twitter accounts were targeted, the website remained secure. “We were able to recover all four social media accounts within four to five hours. Additional time was needed to recover the YouTube account, but the website was neither hacked nor compromised,” he said.
-
-He said the initial investigations into the cyber attack have revealed that it was conducted from overseas targeting multiple entities. “It was not an isolated attack on Sri Lanka Police, there were similar incidents reported from India. The Police Cyber Crimes Division is conducting further investigation into the incident,” he added.
-
-...
-
-[Data](articles/27e51c91.json)
 
 ---

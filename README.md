@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 05:53:13**
+As of **2025-01-05 06:17:47**
 
 ## Newspaper Stats
 
-*Scraped **63,665** Articles*
+*Scraped **63,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,076
 adaderanalk | 7,791
-tamilmirrorlk | 9,124
+tamilmirrorlk | 9,125
 virakesarilk | 10,617
-adaderanasinhalalk | 10,997
+adaderanasinhalalk | 10,998
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,665 articles have been extended.
+61,971 (97.3%) of 63,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### අද කාලගුණය
+
+*2025-01-05 05:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205037) · `si`
+
+සබරගමුව, දකුණු සහ ඌව පළාත්වලත් කළුතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් අද (05) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පැවතිය හැකි බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකියි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/b9ee0ba5.json)
+
+---
+
+### யாழில் நிமோனியாவால் குடும்பஸ்தர் உயிரிழப்பு
+
+*2025-01-05 03:11:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-நிமோனியாவால்-குடும்பஸ்தர்-உயிரிழப்பு/175-349753) · `ta`
+
+புன்னாலைக்கட்டுவன் வடக்கு பகுதியைச் சேர்ந்த யுவானிஸ் நேசராசா (வயது 42) என்ற மூன்று பிள்ளைகளின் தந்தையே உயிரிழந்துள்ளார்.
+
+இவர் கடந்த 30ஆம் திகதி முதல் காய்ச்சலால் பீடிக்கப்பட்டிருந்தார். இந்நிலையில் நேற்றுமுன்தினம் வெள்ளிக்கிழமை இரவு திடீரென உடல்நிலை மோசமடைந்ததால் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சைக்காகச் சேர்ப்பிக்கப்பட்டார்.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.
+
+◼️
+
+[Data](articles/ec33b39d.json)
+
+---
 
 ### කාසියේ වාසිය නවසීලන්තයට
 
@@ -1853,35 +1887,5 @@ He said the initial investigations into the cyber attack have revealed that it w
 ◼️
 
 [Data](articles/48ffbfad.json)
-
----
-
-### UNP appoints Thalatha Athukorala as new General Secretary
-
-*2025-01-04 02:14:23* · [`dailyftlk`](https://www.ft.lk/news/UNP-appoints-Thalatha-Athukorala-as-new-General-Secretary/56-771384) · `en`
-
-Former MP Thalatha Athukorala has been appointed as the General Secretary of the United National Party (UNP).
-
-UNP Chairman Wajira Abeywardana said that the appointment was made by Party Leader Ranil Wickremesinghe.
-
-Prior to the 2024 Presidential Election, Athukorala stepped down from the Samagi Jana Balawegaya (SJB) citing differences of opinion within the party. She extended her support to former President Ranil Wickremesinghe in the 2024 Presidential Election, during a rally in Welimada.
-
-◼️
-
-[Data](articles/239c29e8.json)
-
----
-
-### Sri Lanka holds trade, investment and tourism promotion forum at Eastern Province of Saudi Arabia
-
-*2025-01-04 02:11:11* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-holds-trade-investment-and-tourism-promotion-forum-at-Eastern-Province-of-Saudi-Arabia/34-771383) · `en`
-
-The Embassy of Sri Lanka in Riyadh under the Economic Diplomacy Initiative of the Ministry of Foreign Affairs of Sri Lanka successfully organised a trade, investment, and tourism promotion forum at Ashqariya Chamber of Commerce in the Eastern Province of the Kingdom of Saudi Arabia on 18 December 2024. The forum was followed by a catalogue exhibition showcasing Sri Lanka’s export products and services as well as investment opportunities and places of tourist attractions to Saudi market.
-
-Ashqariya Chamber Vice Chairman Hamad Alamar made a welcome address expressing appreciation to the Sri Lanka Embassy initiative and reaffirming the Chamber’s commitment to fostering stronger private sector ties between Sri Lanka and Saudi Arabia.
-
-...
-
-[Data](articles/89fb7859.json)
 
 ---

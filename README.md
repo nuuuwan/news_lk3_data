@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 18:47:17**
+As of **2025-01-05 19:02:34**
 
 ## Newspaper Stats
 
-*Scraped **63,775** Articles*
+*Scraped **63,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,089
-adaderanalk | 7,804
-tamilmirrorlk | 9,147
+adaderanalk | 7,806
+tamilmirrorlk | 9,149
 virakesarilk | 10,639
 adaderanasinhalalk | 11,016
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 11,016
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,775 articles have been extended.
+61,971 (97.2%) of 63,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### Perpetual Tessaries தடை மேலும் நீடிப்பு
+
+*2025-01-05 18:49:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Perpetual-Tessaries-தடை-மேலும்-நீடிப்பு/175-349801) · `ta`
+
+Perpetual Tessaries நிறுவனத்தின் செயற்பாடுகளை மேலும் ஆறு மாதங்களுக்கு இலங்கை மத்திய வங்கி இடைநிறுத்தியுள்ளது.
+
+ஞாயிற்றுக்கிழமை (05)  பிற்பகல் முதல் 6 மாத கால தடை விதிக்கப்பட்டுள்ளதாகவும், நிறுவனத்தின் மேலதிக விசாரணைகள் காரணமாகவே இந்த தடை நீடிக்கப்பட்டுள்ளதாகவும் இலங்கை மத்திய வங்கி தெரிவித்துள்ளது.
+
+இந்த நிறுவனம் பிணைமுறி மோசடியில் ஈடுபட்டதாக குற்றம் சுமத்தப்பட்டு நிறுவனத்தின் தடையை ஆறு மாதங்களுக்கு ஒரு தடவை பல வருடங்களாக, இலங்கை மத்திய வங்கி நீடித்து வருகிறது.
+
+◼️
+
+[Data](articles/f84d4d4c.json)
+
+---
+
+### பண்டாரவளை விபத்தில் மூவர் படுகாயம்: நிலைமை கவலைக்கிடம்
+
+*2025-01-05 18:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பண்டாரவளை-விபத்தில்-மூவர்-படுகாயம்-நிலைமை-கவலைக்கிடம்/76-349800) · `ta`
+
+பண்டாரவளை- தியத்தலாவ வீதியில் அபதென்ன வத்த பகுதியில் ஞாயிற்றுக்கிழமை (05)  பிற்பகல் கெப் வண்டியொன்று வீதியை விட்டு விலகி 200 அடி பள்ளத்தில் விழுந்ததில் மூவர் காயமடைந்து தியத்தலாவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பண்டாரவளை பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரவளை அவல்லபிட்டிய பிரதேசத்தைச் சேர்ந்த 44, 36 மற்றும் 14 வயதுடைய மூவரே விபத்தில் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பண்டாரவளை நகருக்கு வந்து வண்டியை பண்டாரவளை தியத்தலாவ வீதியின் அம்பத்தன்ன பகுதியில் வீதிக்கு அருகில் நிறுத்தி வைத்திருந்தபோது மண்மேடு சரிந்ததில், அந்த கெப், பள்ளத்தில் விழுந்து விபத்துக்கு உள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/c6adc8cd.json)
+
+---
 
 ### திரிபோஷா குறித்து புதிய தீர்மானம்
 
@@ -64,6 +96,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Trump complains that US flags will be half-staff on his inauguration day
+
+*2025-01-05 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104739/trump-complains-that-us-flags-will-be-half-staff-on-his-inauguration-day) · `en`
+
+President-elect Donald Trump complained on Friday that American flags would still be lowered to half-staff in honor of the late President Jimmy Carter during Trump’s Jan. 20 inauguration.
+
+President Joe Biden ordered flags lowered to half-staff for 30 days from the day of Carter’s death on Dec. 29, as is custom when a U.S. president dies.
+
+Trump, who has announced plans to attend Carter’s memorial service in Washington on Jan. 9, took issue in a Truth Social post on Friday with the flags remaining in the mourning position during his swearing-in ceremony.
+
+“The Democrats are all ‘giddy’ about our magnificent American Flag potentially being at ‘half mast’ during my Inauguration,” Trump said, employing a term frequently used for the lowered position when the flag is on a ship.
+
+“They think it’s so great, and are so happy about it because, in actuality, they don’t love our Country, they only think about themselves,” Trump said.
+
+...
+
+[Data](articles/82a118d0.json)
+
+---
+
 ### உயிர் தப்பிக்க ஆற்றில் குதித்த தந்தை மாயம்: மகன் தப்பினார்
 
 *2025-01-05 17:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிர்-தப்பிக்க-ஆற்றில்-குதித்த-தந்தை-மாயம்-மகன்-தப்பினார்/175-349797) · `ta`
@@ -84,15 +136,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමේ ව්‍යාපාර කටයුතු ගැන දැනුම්දීමක්
+### පර්පෙචුවල් ට්‍රෙෂරීස් සමාගම ගැන මහ බැංකුවෙන් දැනුම්දීමක්
 
 *2025-01-05 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205058) · `si`
 
-පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමෙහි ව්‍යාපාර කටයුතු අත්හිටුවීමට ගෙන ඇති තීරණය තවත් මාස 6කින් දීර්ඝ කිරීමට ශ්‍රී ලංකා මහ බැංකුවට පියවර ගෙන ඇත.
+පර්පෙචුවල් ට්‍රෙෂරීස් සමාගම ප්‍රාථමික අලෙවිකරුවෙකු වශයෙන් කරනු ලබන ව්‍යාපාර කටයුතු සහ ක්‍රියාකාරකම් අත්හිටුවීම ගෙන ඇති තීරණය තවත් මාස 6කින් දීර්ඝ කිරීමට ශ්‍රී ලංකා මහ බැංකුව පියවර ගෙන ඇත.
 
-ශ්‍රී ලංකා මහා බැංකුවේ බැංකු නොවන මූල්‍ය ආයතන අධීක්ෂණ දෙපාර්තමේන්තුව අද (5) පස්වරුවේ මාධ්‍ය වෙන නිවේදනයක් යොමුකරමින් මේ බව දන්වා සිටියේය.
+මහ බැංකුවේ බැංකු නොවන මූල්‍ය ආයතන අධීක්ෂණ දෙපාර්තමේන්තුව අද (5) පස්වරුවේ මාධ්‍ය වෙන නිවේදනයක් යොමුකරමින් මේ බව දන්වා සිටියේය.
 
-ඒ අනුව පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමෙහි ව්‍යාපාර කටයුතු අත්හිටුවීමට ගෙන ඇති තීරණය 2025 ජනවාරි මස 05වන දින ප.ව. 4.30 සිට බලපැවැත්වෙන පරිදි තවත් මාස 6කින් දීර්ඝ කිරීමට ශ්‍රී ලංකා මහ බැංකුවට පියවර ගෙන ඇත.
+ඒ අනුව පර්පෙචුවල් ට්‍රෙෂරීස් සමාගමෙහි ව්‍යාපාර කටයුතු අත්හිටුවීමට ගෙන ඇති තීරණය 2025 ජනවාරි මස 05වන දින එනම් අද ප.ව. 4.30 සිට බලපැවැත්වෙන පරිදි තවත් මාස 6කින් දීර්ඝ කර ඇත.
+
+ලියාපදිංචි ස්කන්ධ හා සුරැකුම්පත් ආඥාපනත හා දේශීය භාණ්ඩාගාර බිල්පත් ආඥාපනත යටතේ නිකුත් කරන ලද නියෝගයන්ට අනුව, ශ්‍රී ලංකා මහ බැංකුව විසින් කරනු ලබන විමර්ශන කටයුතු තවදුරටන් සිදුකරගෙන යාමේ අරමුණින් මෙම නියෝගය ක්‍රියාත්මක කරනු ලබයි.
 
 ◼️
 
@@ -115,6 +169,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/358d41b3.json)
+
+---
+
+### CBSL extends suspension on Perpetual Treasuries
+
+*2025-01-05 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104738/cbsl-extends-suspension-on-perpetual-treasuries) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has decided to extend the suspension of Perpetual Treasuries Limited (PTL) from carrying on the business and activities of a Primary Dealer for a further period of six months.
+
+The suspension, effective from 4.30 p.m. on January 5, 2025, comes as investigations into the company’s activities continue under the Registered Stocks and Securities Ordinance and the Local Treasury Bills Ordinance.
+
+PTL has been under scrutiny for its alleged involvement in irregularities within the government securities market, prompting the Central Bank to take measures to safeguard public confidence and market stability.
+
+◼️
+
+[Data](articles/39172aff.json)
 
 ---
 
@@ -1655,77 +1725,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/2b0463fc.json)
-
----
-
-### අවුරුදු එකහමාරක් වයසැති දරුවෙකුට අත්වූ ඛේදජනක ඉරණම
-
-*2025-01-05 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205042) · `si`
-
-අවුරුදු එකහමාරක් වයසැති කුඩා දරුවෙකු ඇළකට වැටි මිය ගොස් තිබේ.
-
-දරුවා ඇළ අසල නිවසේ සිට ඇවිද යමින් සිට ඇති අතර එහිදී එක්වරම ජලයට වැටී තිබේ.
-
-එහිදී ඇළට වැටුණු දරුවා කඩිනමින් පළුකාමම් ප්‍රාදේශීය රෝහල වෙත ගෙන ගියද රෝහලට ඇතුළත් කිරීමට පෙර දරුවා මියගොස් තිබේ.
-
-පශ්චාත් මරණ පරීක්ෂණය සඳහා දරුවාගේ සිරුර කළුවන්චිකුඩි මූලික රෝහල වෙත රැගෙන ගොස් තිබේ.
-
-◼️
-
-[Data](articles/6209df02.json)
-
----
-
-### අදානි ව්‍යාපෘතිය ගැන යෝජනාවක් හෙට කැබිනෙට්ටුවට
-
-*2025-01-05 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205041) · `si`
-
-අදානි සමාගමේ මෙරට බලශක්ති ව්‍යාපෘති පිළිබඳ සලකා බැලීම සඳහා කමිටුවක් පත් කිරීමට අදාළ යෝජනාවක් අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කිරීමට නියමිතව තිබේ.
-
-බලශක්ති අමාත්‍යශයේ ප්‍රකාශකයෙකු පැවසුවේ එළැඹෙන හෙට (06) රැස්වීමට නියමිත අමාත්‍ය මණ්ඩල රැස්වීම සඳහා මෙම යෝජනාව ඉදිරිපත් කිරීමට නියමිත බවය.
-
-මන්නාරම හා පූනරීන් ප්‍රදේශවල ඉදිකිරීමට යෝජිත එම සුළං විදුලි ව්‍යාපෘති සම්බන්ධයෙන් මෙම යෝජනාව ඉදිරිපත් කිරීමට නියමිතව තිබේ.
-
-මන්නාරම හා පූනරීන් ප්‍රදේශවල ඉදිකිරීමට යෝජිත සුළං විදුලි ව්‍යාපෘති මගින් ජනනය කරන විදුලි ඒකකයක් සඳහා පසුගිය රජයේ කැබිනට් මණ්ඩලය විසින් ඩොලර් ශත 8.26කට ආසන්න මුදලක්  ගෙවීමට එකඟවී තිබුණි.
-
-අදාළ එකඟතාවය යළි සලකා බැලීම සඳහා මෙම කමිටුව පත්කරන බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/20a73e8d.json)
-
----
-
-### ශ්‍රී ලංකා පිල ලකුණු 178කට දැවීයයි
-
-*2025-01-05 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205040) · `si`
-
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ සත්කාරක නවසීලන්ත කණ්ඩායම අතර තරග 3කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් පළමු එක්දින තරගය අද (05) නවසීලන්තයේ වෙලිංටන් හිදී ආරම්භ විය.
-
-කාසියේ වාසිය දිනාගත් නවසීලන්ත එක්දින නායක මිචෙල් සැන්ටර් විසින් පළමුවෙන් පන්දුවට පහර දීම සඳහා ශ්‍රී ලංකා පිලට ආරාධනය කළ අතර එහි දී ශ්‍රී ලංකා පිලට පන්දුවාර 43 යි පන්දු 4 ක් අවසානයේ දී සියලු දෙනා දැවී ලබා ගැනීමට හැකිවූයේ ලකුණු 178 ක් පමණි.
-
-එක් අවස්ථාවක ලකුණු 23 ක් ඇතුළත මුල් පෙළේ කඩුළු 4 ක් බිඳ වැටී ශ්‍රී ලංකා පිල දැඩි අසීරු අඩියකට පත්ව සිටි අතර එහි දී ආරම්භක පිතිකරු අවිශ්ක ප්‍රනාන්දු (56) සහ ජනිත් ලියනගේ (36) එක්ව ගොඩනගන ලද ලකුණු 87 ක් සම්බන්ධතාවය හරහා යම්කිසි අස්වැසිල්ලක් ශ්‍රී ලංකා පිලට ලබා දීමට සමත්වුණි.
-
-මීට අමතර මැදපෙළ පිතිකරුවන් ලෙසින් වනිඳු හසරංග ලකුණු 35 ක් සහ චමිඳු වික්‍රමසිංහ ලකුණු 22 ක් බැගින් ලබා ගැනීමට සමත්විය. සෙසු එකදු පිතිකරුවකු හෝ ලකුණු 10 සීමාව ඉක්මවා යාමට සමත් නොවීම ශ්‍රී ලංකා පිලේ දුර්වල පිතිහරඹය මොනවට කියාපාන්නකි.
-
-...
-
-[Data](articles/70b86786.json)
-
----
-
-### රන් භාණ්ඩ සමග සැකකරුවෙක් ගුවන්තොටේ දී අත්අඩංගුවට
-
-*2025-01-05 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205039) · `si`
-
-නීතිවිරෝධී ලෙස මෙරටට රැගෙන ලද රන් භාණ්ඩ සමග සැකකරුවෙකු ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
-
-අබුඩාබි සිට මෙරටට පැමිණි ගුවන් මගියෙකු පිළිබඳ බුද්ධි අංශ නිලධාරීන්ගෙන් ලද තොරතුරක් මත ගුවන්තොටුපොළ පොලීසිය විසින් ඊයේ (04) රාත්‍රීයේ එම සැකකරු අත්අඩංගුවට ගෙන ඇත.
-
-සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔහු සන්තකයේ තිබී රන් මාල 04ක්, පෙන්ඩන්ට් 01ක්, අත් පලඳනා 02ක්, රන් වළලු 01ක් සහ රන් මුදුවක් පොලිස් භාරයට ගෙන ඇත.
-
-◼️
-
-[Data](articles/886858d4.json)
 
 ---

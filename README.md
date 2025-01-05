@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 10:27:42**
+As of **2025-01-05 10:43:34**
 
 ## Newspaper Stats
 
-*Scraped **63,682** Articles*
+*Scraped **63,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,874
 economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,078
-adaderanalk | 7,793
+adalk | 6,079
+adaderanalk | 7,794
 tamilmirrorlk | 9,128
-virakesarilk | 10,620
+virakesarilk | 10,623
 adaderanasinhalalk | 11,003
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,682 articles have been extended.
+61,971 (97.3%) of 63,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### அகதிகளாக எல்லோரும் வர முற்பட்டால் இலங்கைக்கு நெருக்கடி ; ரோஹிங்கியா அகதிகளை மீள அனுப்புவது குறித்து அவதானம்  - அரசாங்கம்
+
+*2025-01-05 10:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/202988) · `ta`
+
+முல்லைத்தீவு விமானப்படை முகாமில் தடுத்து வைக்கப்பட்டுள்ள ரோஹிங்கியா அகதிகள் விடயத்தில் நீதிமன்றத்தின் தீரப்புக்கு அமைய நடவடிக்கை எடுக்கப்படும். அந்த அகதிகள் நாட்டில் தங்கியிருக்கும் வரை தேவையான உதவிகளை மனிதாபிமான அடிப்படையில் வழங்கப்படும் என தெரிவித்த கடற்றொழில், நீரியல்வளங்கள் மற்றும் கடல் வள அமைச்சர் இராமலிங்கம் சந்திரசேகர், எவ்வாறாயினும் ரோஹிங்கியா அகதிகளை தொடர்ந்தும் நாட்டில் வைத்திருக்க தீர்மானத்தில் அதற்கு பின்னர் ஏற்பட கூடிய விளைவுகள் குறித்து அவதானம் செலுத்த வேணடும் எனவும் குறிப்பிட்டார்.
+
+முல்லைத்தீவுக்கு வந்த ரோஹிங்கியா அகதிகள் நாட்டில் தங்க வைத்திருக்கும் வரையில் அவர்களின் அத்தியாவசிய தேவைகளை பூர்த்தி செய்ய வேண்டும் என்பதே அரசாங்கத்தின் நிலைப்பாடாக உள்ளது.
+
+ரோஹிங்கியா அகதிகளை நிரந்தரமாக நாட்டில் வைத்துக்கொள்வதா, இல்லையா என்பது குறித்து நீதிமன்றத்தில் முன்னெடுக்கப்படுகின்ற வழக்கு தீர்ப்பின் பின்னரே தீர்மானிக்கப்படும். எவ்வாறாயினும் இலங்கையின் தீர்மானத்துக்கு அமைவாகவே ஐக்கிய நாடுகள் சபையின் ஒத்துழைப்புகள் எமக்கு கிடைக்கும்.
+
+...
+
+[Data](articles/97e3d0c5.json)
+
+---
 
 ### அமைச்சரவைக்கு செல்லும் அதானி திட்டம்
 
@@ -45,6 +61,78 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/6ff9e9f0.json)
+
+---
+
+### Suspect arrested at BIA for smuggling gold
+
+*2025-01-05 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104726/suspect-arrested-at-bia-for-smuggling-gold-) · `en`
+
+The Airport Police have arrested a suspect at Bandaranaike International Airport (BIA) in Katunayake for illegally smuggling gold into the country.
+
+The arrest was made last night (04), following a tip-off from intelligence officials regarding a passenger arriving from Abu Dhabi.
+
+Upon his arrest, several gold items, including four necklaces, a pendant, two bracelets, a bangle, and a ring were taken into police custody.
+
+The arrested suspect is a 25-year-old resident of the Welamboda area.
+
+The Airport police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/8c05b81f.json)
+
+---
+
+### ඇළට වැටී අවුරුදු එකහමාරක දරුවෙකු මිය යයි
+
+*2025-01-05 09:00:46* · [`adalk`](https://www.ada.lk/breaking_news/ඇළට-වැටී-අවුරුදු-එකහමාරක-දරුවෙකු-මිය-යයි/11-414003) · `si`
+
+දෙමාපියන්ගේ නොසැලකිලිමත්කම හේතුවෙන් අවුරුදු එක හමාරක කුඩා දරුවෙකු ඇළකට වැටී මිය යාමේ සිද්ධියක් ඊයේ (4) සවස මඩකලපුව වැල්ලාවේලි පොලිස් වසමේ  සිදුවුණි
+
+එම සිදුවීම ප්‍රදේශයේ මහත් ශෝකයට හේතු වී තිබේ. මඩකලපුව දිස්ත්‍රික්කයේ  පෝරදීවුඅත්තු යොවුන් ගොවිතැන් ව්‍යාපෘතියේ දී අවුරුදු එකහමාරක් වයසැති මුරුගේසු විකාන් නමැති පිරිමි දරුවා ඇළට වැටී ජීවිතක්ෂයට පත්ව්ය
+
+මෙම දරුවා නිවස අසළ ඇළේ සෙල්ලම් කරමින් සිටියදී ඇළට වැටී ඇත. ඇළට වැටුණු දරුවා කඩිනමින් පළුකාමම් ප්‍රාදේශීය වෛද්‍ය රෝහලට ඇතුලත් කිරීමට පෙර දරුවා මිය ගිය බව වෛද්‍යවරු පවසයි
+
+පශ්චාත් මරණ පරීක්ෂණය සඳහා දරුවා කළුවන්චිකුඩි මුලික රෝහල වෙත රැගෙන ගොස් ඇත. මේ සම්බන්ධයෙන් වෙල්ලාවේලි පොලිසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/e3cf2d11.json)
+
+---
+
+### சிறைக்கைதிகளை நீதிமன்றங்களுக்கு  அழைத்துவருவதில் புதிய நடைமுறை  சிறைச்சாலைகள் ஊடகப் பேச்சாளர்
+
+*2025-01-05 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202986) · `ta`
+
+சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டுள்ள சிறைக்கைதிகளை இரும்பு சங்கிலியால் பிணைத்து நீதிமன்றத்துக்கு அழைத்து வருவதற்கு பதிலாக அவர்களின் பாதுகாப்பை உறுதி செய்து புதிய நடைமுறையை பின்பற்ற எதிர்பார்த்துள்ளதாக சிறைச்சாலைகள் ஊடகப் பேச்சாளர் காமினி பி.திசாநாயக்க தெரிவித்தார்.
+
+சிறைச்சாலைகளில் தடுத்து வைக்கபட்டுள்ளவர்களும் மனிதர்கள் எனவும் அவர்களை விலங்குகளை போன்று சங்கிலியால் பிணைத்து நீதிமன்றத்திற்கு அழைத்து வர வேண்டாம் என்றும் கொழும்பு மேலதிக நீதவான் பசன் அமரசேன சிறைச்சாலை அதிகாரிகளுக்கு அண்மையில் கடுமையாக எச்சரிக்கை விடுத்திருந்தார்.
+
+அவ்வாறு சந்தேகநபர்களை நீதிமன்றத்துக்கு அழைத்து வந்து மன்றில் முன்னிலைப்படுத்துவதை தாம் விரும்பவில்லை என்றும் அவர்களை மனிதர்களாகவும் மதித்து செயற்படுங்கள் என்றும் நீதவான் சிறைச்சாலை அதிகாரிகளை வலியுறுத்தியிருந்தார்.
+
+இந்நிலையில் எதிர்காலத்தில் சிறைக்கைதிகளை மன்றில் முன்னிலைப்படுத்தும் போது பின்பற்றப்படவுள்ள வழிமுறை தொடர்பில் வினவிய போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/08408f23.json)
+
+---
+
+### கஜேந்திரகுமாரின் தீர்வுத்திட்ட பேச்சுவார்த்தை முயற்சிகள்  தமிழரசுக்கட்சியை மலினப்படுத்தும் நோக்கிலானவையாகும் - தமிழரசுக்கட்சியின் கொழும்புக்கிளை தலைவர் பதில் பொதுச்செயலாளர் ப.சத்தியலிங்கத்துக்குக் கடிதம்
+
+*2025-01-05 08:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/202985) · `ta`
+
+தமிழ் மக்கள் பேரவையினால் தயாரிக்கப்பட்ட தீர்வுத்திட்ட வரைவு குறித்து கஜேந்திரகுமார் பொன்னம்பலத்தினால் முன்னெடுக்கப்பட்டுவரும் பேச்சுவார்த்தைகள் அவரை முன்னிலைப்படுத்துவதையும், தமிழரசுக்கட்சியைப் பலவீனப்படுத்துவதையும் இலக்காகக்கொண்ட உபாயம் மாத்திரமேயாகும்.
+
+ஆகவே இவ்விடயம் தொடர்பில் அவருடன் சிறிதரன் மற்றும் ஏனைய பாராளுமன்ற உறுப்பினர்கள் பேச்சுவார்த்தைகளை முன்னெடுப்பது தமிழர் நலனுக்கோ, கட்சிக்கோ உகந்ததல்ல எனக் குறிப்பிட்டு இலங்கைத் தமிழரசுக்கட்சியின் கொழும்புக்கிளை தலைவர் சி.இரத்தினவடிவேல் கட்சியின் பதில்  பொதுச்செயலாளர் ப.சத்தியலிங்கத்துக்குக் கடிதமொன்றை அனுப்பிவைத்துள்ளார்.
+
+கடந்த 2015 - 2020 ஆம் ஆண்டு வரையான காலப்பகுதியில் அனைத்துக் கட்சிகளும் 84 தடவைகள் கூடி ஒரு அரசியலமைப்பு வரைவைத் தயாரித்தன.
+
+...
+
+[Data](articles/c387a048.json)
 
 ---
 
@@ -1783,97 +1871,5 @@ All stocks in the S&P Sri Lanka 20 are classified according to the Global Indust
 ...
 
 [Data](articles/a7a59e3d.json)
-
----
-
-### Browns Hotels & Resorts wins International Gold Accolade at Green Apple Environment Awards 2024
-
-*2025-01-04 07:01:00* · [`islandlk`](http://island.lk/browns-hotels-resorts-wins-international-gold-accolade-at-green-apple-environment-awards-2024/) · `en`
-
-Browns Hotels & Resorts (BHR) was recently awarded the prestigious International Gold Winner title in the Hospitality & Travel: Conservation & Wildlife category at the Green Apple Environment Awards 2024, held at Kensington Palace, London. This recognition celebrates BHR’s exemplary mangrove conservation efforts, particularly its Ratha Milla (Lumnitzera littorea) project, spearheaded by Thaala Bentota Resort in collaboration with the Department of Wildlife Conservation.
-
-The Ratha Milla, a critically endangered mangrove species native to Sri Lanka, was rediscovered in the Bentota estuary and Dedduwa lagoon after being unrecorded for over a century. Previously believed to be limited to the Madu River Ramsar Wetland, recent ecological studies have identified over 100 young plants, aged 10 to 20 years, marking a significant milestone in biodiversity conservation.
-
-...
-
-[Data](articles/b139764a.json)
-
----
-
-### Abbotsleigh Tea Estate in landmark achievement
-
-*2025-01-04 07:00:00* · [`islandlk`](http://island.lk/abbotsleigh-tea-estate-in-landmark-achievement/) · `en`
-
-Abbotsleigh estate is situated in the central province and the overall factory operations are spearheaded by Mr. Suranga Dela – Deputy General Manager.
-
-Abbotsleigh estate is the prime property of Hatton Plantations PLC managed by Mr. Menaka Athukorala – Managing Director.
-
-This Estate sells its production of prime CTC high grown teas, under the selling mark of “Florence” which is well known and established among local and international consumers.
-
-Abbotsleigh tea estate produced and sold the highest quantity of 2,029,990 Kgs for the year 2024. This is the highest quantity sold by a factory which is operating in the High / Medium category.
-
-Uber Eats joins hands with SOS Children’s Villages Sri Lanka to support child nutrition
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/d9a47c59.json)
-
----
-
-### Nimal Gunewardena announces exit from NGage Strategic Alliance, entrusting legacy to Sheron Jayasundara
-
-*2025-01-04 06:59:00* · [`islandlk`](http://island.lk/nimal-gunewardena-announces-exit-from-ngage-strategic-alliance-entrusting-legacy-to-sheron-jayasundara/) · `en`
-
-Nimal Gunewardena, the visionary founder of Sri Lanka’s pioneering Integrated Marketing Communications (IMC) and Public Relations (PR) agency, announced his exit from the Agency he founded in 1993, now rebranded as NGage Strategic Alliance (formerly Bates Strategic Alliance). In a strategic move to ensure continuity and growth, Gunewardena has transferred his equity in the business to the current CEO, Sheron Jayasundara, entrusting her with the mantle to carry forward the agency’s distinguished legacy for the benefit of its talented team and valued clients.
-
-...
-
-[Data](articles/6e16b2c9.json)
-
----
-
-### වැලිගම පස් දෙනෙකුට වෙඩි තැබීමක්
-
-*2025-01-04 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205011) · `si`
-
-වැලිගම පොලිස් වසමේ කප්පරතොට වල්ලිවෙල මාර්ගයේ පා ගමනින් ගමන්කරමින් සිටි පුද්ගලයන් පස් දෙනෙකුට වෙඩිතබා ඇති බව පොලීසිය පවසයි.
-
-යතුරුපැදි තුනකින් පැමිණි නාඳුනන පිරිසක් විසින් අද (4) අළුයම 1ට පමණ මෙම වෙඩි තැබීම සිදුකර පලාගොස් ඇත.
-
-කෙසේ නමුත් මින් වෙඩි වැදී ඇත්තේ පුද්ගලයන් දෙදෙනෙකුට පමණක් වන අතර, ඉන් එක් පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
-
-තුවාල ලැබූ පුද්ගලයා වැලිගම වලාන රෝහල වෙත රැගෙන ගොස්, පසුව මාතර මහ රෝහල වෙත මාරුකර යවා තිබේ.
-
-වෙඩි වැදීමෙන් මියගොස් ඇත්තේ කප්පරතොට ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි පුද්ගලයෙකු වන අතර, තුවාල ලැබූ පුද්ගලයා ද එම ප්‍රදේශයේම පදිංචි 29 හැවිරිදි පුද්ගලයෙක් බව පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/13a9838a.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට අද රාත්‍රියේ තද වැසි
-
-*2025-01-04 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205010) · `si`
-
-අද (4) දිනයේ ඌව පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ඊට අමතරව බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-එමෙන්ම ඇතැම් ස්ථානවලට මි.මී. 100ක පමණ තද වැසි ඇතිවීමේ හැකියාවක් ඇති බව ද එම දෙපාර්තමේන්තුව පවසයි.
-
-උතුරු, නැගෙනහිර, උතුරු-මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. 30-40ත් අතර තරමක තද සුළං ඇතිවිය හැක.
-
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටියි.
-
-◼️
-
-[Data](articles/4644ad8f.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 10:43:34**
+As of **2025-01-05 11:02:02**
 
 ## Newspaper Stats
 
-*Scraped **63,687** Articles*
+*Scraped **63,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,874
 economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,079
+adalk | 6,080
 adaderanalk | 7,794
-tamilmirrorlk | 9,128
+tamilmirrorlk | 9,130
 virakesarilk | 10,623
 adaderanasinhalalk | 11,003
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,687 articles have been extended.
+61,971 (97.3%) of 63,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### சிறுமிக்கு ஆபாச காணொளி அனுப்பிய சிப்பாய் கைது
+
+*2025-01-05 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமிக்கு-ஆபாச-காணொளி-அனுப்பிய-சிப்பாய்-கைது/175-349765) · `ta`
+
+பதின்மூன்று வயதுடைய பாடசாலை மாணவியான சிறுமியை அச்சுறுத்தி தனது கையடக்கத் தொலைபேசியில் ஆபாசமான குறுஞ்செய்திகள் மற்றும் காணொளிகளை அனுப்பிய இராணுவ சிப்பாய் ஒருவர் ஞாயிற்றுக்கிழமை (5) கைது செய்யப்பட்டதாக சிறிபுர பொலிஸார் தெரிவித்தனர்.
+
+தந்திரிமலை இராணுவ முகாமிற்குட்பட்ட பதவி பராக்கிரமபுர பிரதேசத்தில் வசிக்கும் 28 வயதுடைய இராணுவ சிப்பாய் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸாருக்கு கிடைத்த முறைப்பாட்டின் பிரகாரம் விசாரணைகள் மேற்கொள்ளப்பட்டு கைது செய்யப்பட்ட சந்தேகநபர் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார். சிறிபுர பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/4840d0fb.json)
+
+---
+
+### வியாழேந்திரனின் வீட்டுக்கு முன் துப்பாக்கிச் சூடு:  சாரதிக்கு விளக்கமறியல்
+
+*2025-01-05 10:39:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/வியாழேந்திரனின்-வீட்டுக்கு-முன்-துப்பாக்கிச்-சூடு-சாரதிக்கு-விளக்கமறியல்/73-349762) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் எஸ்.வியாழேந்திரனின் மட்டக்களப்பு வீட்டின் முன்பாக, கடந்த 2021 இடம்பெற்ற துப்பாக்கி  சூட்டு சம்பவத்தில் இளைஞன் ஒருவர் உயிரிழந்த சம்பவம் தொடர்பாக, கொலை குற்றத்தின் பேரில் சந்தேகத்தின் அடிப்படையில் குற்றப்புலனாய்வு திணைக்களத்தினரால் (சிஐடி) கைது செய்யப்பட்ட வியாழேந்திரனின் வாகன சாரதியை எதிர்வரும் 17 ம் திகதி வரை விளக்கமறியலில் வைக்குமாறு மட்டக்களப்பு நீதவான் நீதிமன்ற நீதவான் வெள்ளிக்கிழமை (03)  உத்தரவிட்டார்.
+
+கடந்த 2021 ஆம் ஆண்டு ஜூன் 21 ம் திகதி இராஜாங்க அமைச்சர்  எஸ்.வியாழேந்திரன் வீட்டிற்கு முன்பாக அமைச்சரின் மெய் பாதுகாப்பு உத்தியோகத்தர்  மேற்கொண்ட துப்பாக்கி சூட்டு சம்பவத்தில் 28 வயதுடைய  பாலேந்திரன் என்ற இளைஞன்  உயிரிழந்ததை அடுத்து மெய் பாதுகாப்பு உத்தியோகத்தரை கைது செய்தனர்.
+
+...
+
+[Data](articles/3b35326b.json)
+
+---
 
 ### அகதிகளாக எல்லோரும் வர முற்பட்டால் இலங்கைக்கு நெருக்கடி ; ரோஹிங்கியா அகதிகளை மீள அனுப்புவது குறித்து அவதானம்  - அரசாங்கம்
 
@@ -81,6 +111,24 @@ The Airport police are conducting further investigations into the incident.
 ◼️
 
 [Data](articles/8c05b81f.json)
+
+---
+
+### ක්ලීන් ශ්‍රි ලංකා වැඩසටහනට හමුදාව කරන්න යන දේ
+
+*2025-01-05 09:25:13* · [`adalk`](https://www.ada.lk/breaking_news/ක්ලීන්-ශ්‍රි-ලංකා-වැඩසටහනට-හමුදාව-කරන්න-යන-දේ/11-414004) · `si`
+
+ක්ලීන් ශ්‍රී ලංකා වැඩසටහනට සමගාමීව මහජන ආරක්ෂාව වෙනුවෙන් වැඩසටහන් කීපයක් දියත් කරන බව නව යුද හමුදාපති ලුතින් ජනරාල් ලසන්ත රොද්‍රිගෝ මහතා පවසයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ සංකල්පයක් මත ක්‍රියාත්මක වන එම වැඩසටහන යටතේ පරිසර සුරක්ෂිතතාවය සහ මහජන සුරක්ෂාව තහවුරු කිරීම ශ්‍රී ලංකා යුද හමුදාවේ ඉලක්කයක් වී තිබෙන බවද ඒ මහතා පවසයි.
+
+නව යුද හමුදාපතිවරයා ඊයේ (04) මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මල්වතු මහා විහාරයට ගොස් මල්වතු මහනාහිමියන් බැහැදක ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් වැඩිදුරටත් යුද හමුදාපතිවරයා අවධාරණය කර සිටියේ ශ්‍රී ලංකා යුද හමුදාවේ බඳවා ගැනීම් සහ පුහුණුවීම් සාමාන්‍ය පරිදි සිදු කෙරෙන බවත් යුද්ධයක් නොමැති වුවද ස්වභාවික ආපදා ආදියේ දී යුද හමුදාවේ දායකත්වය ලබාදිය යුතුව තිබෙන බවයි.
+
+දේශයේ මුර දේවතාවන් වැනි යුද හමුදාව ඕනෑම අවස්ථාවක සේවය කිරීමට සූදානම් බවකී නව යුද හමුදාපතිවරයා ඒ වෙනුවෙන් යුද හමුදාව සෑම විටම පුහුණුවෙන් යුක්ත වී සිටින බවද අවධාරණය කළේය.
+
+◼️
+
+[Data](articles/f825b3b0.json)
 
 ---
 
@@ -1811,65 +1859,5 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/3b7db270.json)
-
----
-
-### Youth killed, another injured in shooting in Weligama
-
-*2025-01-04 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104707/youth-killed-another-injured-in-shooting-in-weligama) · `en`
-
-A 26-year-old male has reportedly been killed, and another individual sustained injuries in a shooting incident at Kapparathota in Weligama early this morning (4).
-
-Five individuals walking on the Kapparathota-Walliwela road in the Weligama Police Division were targeted in a shooting early this morning (4), police reported.
-
-An unidentified group arrived on three motorcycles at approximately 1 a.m., opened fire, and fled the scene.
-
-Of the five, two were struck by the gunfire. Among those two, a 26-year-old resident of Kapparathota succumbed to his injuries, while the other, a 29-year-old also from the same area, sustained injuries.
-
-The injured individual was initially treated at the Weligama Walana Hospital and later transferred to the Matara District General Hospital.
-
-The motive behind the shooting remains unknown, and Weligama Police are carrying out further investigations into the incident.
-
-◼️
-
-[Data](articles/ba6859cf.json)
-
----
-
-### Sri Lanka’s Inland Revenue collects Rs1,958bn in 2024, up 25-pct
-
-*2025-01-04 07:49:00* · [`economynextcom`](https://economynext.com/sri-lankas-inland-revenue-collects-rs1958bn-in-2024-up-25-pct-197915/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Inland Revenue has collected 1,958.08 billion rupees in 2024, up 25.1 percent from, a year ago, 1,565 million, with the most coming from income and value added tax, a media report said.
-
-The department had collected 1,023.2 million rupees as income tax, up from 911.097 million in 2023, state-run Daily News quoted Commissioner General of Inland Revenue, Sepali Chandrasekera as saying.
-
-Sri Lanka had collected 714.68 billion rupees as value added tax, up from 469.1 billion rupees.
-
-Collections from the Betting and Gaming Levy was 14,923 million in 2024 up from 7,422 million rupees, which is double.
-
-Sri Lanka had also collected 3,128 million as Share Transaction Levy from stock market transactions up from 2,478 million in 2023.
-
-Sri Lanka’s Customs had said it also collected 1,500 billion rupees, in 2024, a record. (Colombo/Jan04/2024)
-
-◼️
-
-[Data](articles/83c9fde5.json)
-
----
-
-### CSE’s 26-day bull-run ends; indices slump into negativity
-
-*2025-01-04 07:06:00* · [`islandlk`](http://island.lk/cses-26-day-bull-run-ends-indices-slump-into-negativity/) · `en`
-
-The stock market kicked off on a positive note yesterday but later noted profit- takings following a 26- day bull- run. Consequently, both indices became negative, stock market analysts said.
-
-The stocks were on a bull run amid low interest rates and banks were awash with excess liquidity in the last quarter making margin loans cheap. The market also has had positive news, in the form of improvements in the banking sector and the conclusion of debt restructuring.
-
-All stocks in the S&P Sri Lanka 20 are classified according to the Global Industry Classification Standard, which was co-developed by S&P Dow Jones Indices and MCSI and is widely used by market participants throughout the world.
-
-...
-
-[Data](articles/a7a59e3d.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 08:30:52**
+As of **2025-01-05 08:50:43**
 
 ## Newspaper Stats
 
-*Scraped **63,669** Articles*
+*Scraped **63,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,874
 economynextcom | 3,882
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,076
+adalk | 6,077
 adaderanalk | 7,791
 tamilmirrorlk | 9,127
 virakesarilk | 10,617
@@ -26,7 +26,7 @@ adaderanasinhalalk | 10,998
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,669 articles have been extended.
+61,971 (97.3%) of 63,670 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -317,6 +317,22 @@ The Indian Ocean island nation has a long traditional association with the inter
 ◼️
 
 [Data](articles/775fa0b4.json)
+
+---
+
+### ශිෂ්‍යත්ව උත්තර පත්‍ර ඇගයිම ජන 8 දා
+
+*2025-01-04 18:58:49* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-උත්තර-පත්‍ර-ඇගයිම-ජන-8-දා/11-414001) · `si`
+
+2024 වර්ෂයේ පැවැති පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම ජනවාරි මස 8 වෙනි දින සිට12 වැනි දින දක්වා පැවැත්වීමට සූදානම් කොට ඇති බව විභාග කොමසාරිස් අමිත් ජයසුන්දර මහතා සඳහන් කරයි.
+
+මෙම විභාගයේ ප්‍රශ්න පත්‍ර කලින් පිට වූවේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් මතු වූ අර්බුදය නිසා පිළිතුරු පත්‍ර ඇගයීම  විභාග කොමසාරිස්වරයා විසින් කල් තබා තිබුණි. මතභේදයට තුඩුදුන් ප්‍රශ්න තුනක් වෙනුවෙන් පොදුවේ සැමට ලකුණු ලබාදීමට විභාග කොමසාරිස්වරයා ගත් තීරණයට එරෙහිව මවුපියන් පිරිසක් විසින් අධිකරණය හමුවේ නඩු පවරා තිබූ අතර අධිකරණයෙන් ලද නියෝගයට අනුව ප්‍රශ්නය සමතයකට පත් කරමින් අධිකරණය පෙන්වා දුන් යෝජනා තුන අනුව දෙවැනි යෝජනාව ක්‍රියාත්මක කරමින් කලින් පිට වූයේ යැයි කියූ ප්‍රශ්න තුන සඳහා සියලු දරුවන්ට පොදුවේ ලකුණු ලබාදීමට විභාග කොමසාරිස්වරයා කටයුතු කළේය.
+
+ඒ අනුව විභාගයට පෙනී සිටි සියලු දරුවන්ගේ පිළිතුරු පත්‍ර ඇගයීම ආරම්භ කිරීමට විභාග කොමසාරිස්වරයා ඉහත දිනවල කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/bb450296.json)
 
 ---
 
@@ -1867,23 +1883,5 @@ Addressing the media yesterday, Cabinet Spokesperson and Minister of Mass Media 
 ...
 
 [Data](articles/9d34b1b6.json)
-
----
-
-### Rehan resigns from SJB and Weligama organiser role
-
-*2025-01-04 02:18:25* · [`dailyftlk`](https://www.ft.lk/news/Rehan-resigns-from-SJB-and-Weligama-organiser-role/56-771386) · `en`
-
-Says his vision for future no longer aligns with SJB’s direction
-
-Expresses belief that his decision is in best interest of both himself and party
-
-Stresses after consecutive election defeats he must now prioritise family and business commitments
-
-Rehan Jayawickreme has officially stepped down from the Samagi Jana Balawegaya (SJB) and relinquished his position as the party’s Weligama Organiser. In a letter addressed to the party’s General Secretary, Ranjith Maddumabandara, dated 1 January 2025, Jayawickreme cited both personal and professional reasons for his decision, marking a significant juncture in his political career.
-
-...
-
-[Data](articles/fb46cba9.json)
 
 ---

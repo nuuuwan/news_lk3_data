@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 12:03:36**
+As of **2025-01-05 12:17:30**
 
 ## Newspaper Stats
 
-*Scraped **63,700** Articles*
+*Scraped **63,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,874
 economynextcom | 3,884
 dailyftlk | 4,430
 dailymirrorlk | 4,733
-adalk | 6,081
+adalk | 6,082
 adaderanalk | 7,794
 tamilmirrorlk | 9,137
 virakesarilk | 10,623
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,003
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.3%) of 63,700 articles have been extended.
+61,971 (97.3%) of 63,701 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,24 @@ There were almost 700 replies to the post, with almost all pointing out that it 
 ...
 
 [Data](articles/97e3d0c5.json)
+
+---
+
+### කැප්පෙටිපොළට එළවළු තොග වැඩිවෙයි - මිළ පහළට, අලෙවිය අඩුවෙයි
+
+*2025-01-05 09:50:18* · [`adalk`](https://www.ada.lk/picture_story/කැප්පෙටිපොළට-එළවළු-තොග-වැඩිවෙයි---මිළ-පහළට--අලෙවිය-අඩුවෙයි/10-414005) · `si`
+
+කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට ඊයේ ( 04 දා) විශාල වශයෙන් එළවළු තොග ලැබීම නිසා එළවළු තොග අලෙවි කර ගැනීමට නොහැකිව ගොවින් අසීරුවට පත්ව ඇති බවත් බොහෝ එළවළු වර්ග වල මිල පහත වැටී ඇති බවත් ආර්ථික මධ්‍යස්ථනයෙ වෙලෙදුන් මෙන්ම ගොවින්ද කියා සිටී.
+
+පසුගිය දින කිහිපයේ කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයට එළවළු තොග එතරම් නොලැබුණ අතර එක වරම මෙලෙස විශාල වශයෙන් එළවළු තොග නැවත ලැබීම නිසා මෙම තත්වය උද්ගතව ඇති බව කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග වෙළෙදුන් පවසති.  ගොවින් කියා සිටින්නේ ගෝවා , කැරට් වැනි එළවළු  විකුණා ගැනීමට පවා නොහැකි තත්වයක් ද ඇතිව තිබේන බවයි.
+
+පිට පළාත් වලින් පැමිණි වෙළදුන් ඔවුන් අපේක්ෂාවෙන් පැමිණි එළවළු තොග මිලදී ගත් පසු මෙලෙස වැඩිපුර ආර්ථික මධ්‍යස්ථානයට ගොවින් ගෙනා එළවළු ඉතිරි වී විකුණා ගැනීමට නොහැකිව ගොවින් අපහසුතාවයට පත්ව සිටියහ.
+
+කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ පැවති 2025.01.05 දින පැවති එළවළු තොග මිල
+
+◼️
+
+[Data](articles/7276e1ae.json)
 
 ---
 
@@ -1843,25 +1861,5 @@ Meanwhile, Sri Lanka’s Democratic Left Front (LDF) reiterated its call to end 
 ◼️
 
 [Data](articles/7cbf6627.json)
-
----
-
-### Trump must be sentenced in hush money case, judge signals no jail
-
-*2025-01-04 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/104709/trump-must-be-sentenced-in-hush-money-case-judge-signals-no-jail) · `en`
-
-President-elect Donald Trump will be sentenced on Jan. 10 in the criminal case in which he was convicted on charges involving hush money paid to a porn star, but is unlikely to face jail time or other penalties, a judge said on Friday.
-
-Justice Juan Merchan’s ruling means Trump will be required to appear at a court hearing just 10 days before his Jan. 20 inauguration - an unprecedented scenario in U.S. history. Before Trump, no U.S. president - former or sitting - had been charged with or convicted of a crime.
-
-The judge said Trump, 78, may appear at his sentencing either in person or virtually.
-
-He wrote that he was not inclined to sentence Trump to jail, and that a sentence of “unconditional discharge” - meaning no custody, monetary fine, or probation - would be “the most viable solution.”
-
-The imposition of the sentence would pave the way for Trump to appeal. Merchan acknowledged in his ruling that Trump has made clear he intends to appeal.
-
-...
-
-[Data](articles/fd25e089.json)
 
 ---

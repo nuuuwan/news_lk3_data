@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 03:28:07**
+As of **2025-01-06 03:43:29**
 
 ## Newspaper Stats
 
-*Scraped **63,828** Articles*
+*Scraped **63,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,886
 islandlk | 3,890
-dailyftlk | 4,434
+dailyftlk | 4,439
 dailymirrorlk | 4,733
 adalk | 6,096
 adaderanalk | 7,809
@@ -26,11 +26,93 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,828 articles have been extended.
+61,971 (97.1%) of 63,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### Lights, Camera, Action: The Golden Globes 2025 Exclusively on Dialog Television and ViU App!
+
+*2025-01-06 03:30:52* · [`dailyftlk`](https://www.ft.lk/business/Lights-Camera-Action-The-Golden-Globes-2025-Exclusively-on-Dialog-Television-and-ViU-App/34-771443) · `en`
+
+Step into the world of glitz and glamour as Dialog Television exclusively brings you the 82nd Annual Golden Globe Awards, streaming live and on HITS NOW (Channel 113). Tune in on January 6, 2025, at 5:30 AM, with a repeat telecast at 4:30 PM, and witness the magic of Hollywood’s most prestigious celebration of film and television.
+
+This year’s Golden Globes promises to captivate audiences with its dazzling showcase of cinematic brilliance and unforgettable moments. From awe-inspiring performances to the year’s most celebrated movies and shows, this iconic event delivers the best of entertainment to your home. With family-friendly animated features and edge-of-your-seat dramas among the highlights, the Golden Globes truly offers something for everyone.
+
+...
+
+[Data](articles/e6d04e32.json)
+
+---
+
+### SJB calls on Govt. to revoke agreement with Adani
+
+*2025-01-06 03:27:04* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-on-Govt-to-revoke-agreement-with-Adani/56-771442) · `en`
+
+Former MP and Power and Renewable Energy Deputy Minister Ajith P. Perera
+
+Questions President Anura Kumara Dissanayake’s silence over Adani Group’s power agreement after recent visit to India
+
+Says Cabinet had approved purchase of renewable energy resources from Adani Group without a tender, competitive procedure, or transparency
+
+Claims CEB had signed MoU with Adani, which is not an Indian State-owned company
+
+Asks why Adani in India provides unit of electricity to Indian Government at $ 0.04, wind power unit to Sri Lanka for $ 0.08
+
+The Samagi Jana Balawegaya (SJB) yesterday called on the Government to terminate the Memorandum of Understanding (MoU) signed with the Adani Group in Sri Lanka to purchase renewable energy sources to provide a competitive opportunity, which will be opened to any local or foreign companies to invest in.
+
+...
+
+[Data](articles/3a0c8b64.json)
+
+---
+
+### Malta strengthens ties with SL through establishment of consulate
+
+*2025-01-06 03:24:55* · [`dailyftlk`](https://www.ft.lk/news/Malta-strengthens-ties-with-SL-through-establishment-of-consulate/56-771441) · `en`
+
+The Republic of Malta has taken a significant step in its diplomatic journey by inaugurating a new Honorary Consulate in Colombo. This milestone underscores Malta’s commitment to strengthening its ties with Sri Lanka as the two nations approach the 25th anniversary of their diplomatic relationship in January 2025.
+
+The official inauguration ceremony was held at the Kingsbury Hotel, Colombo, on 26 December 2024. The event was graced by the presence of Malta’s High Commissioner to India and Sri Lanka Reuben Gauci, who is based in New Delhi, and Sri Lanka’s Deputy Minister of Foreign Affairs Arun Hemachandra, who served as the Chief Guest.
+
+...
+
+[Data](articles/90c38b13.json)
+
+---
+
+### SLGJA kicks off Asia’s premier gem and jewellery exhibition ‘FACETS Sri Lanka 2025’
+
+*2025-01-06 03:24:22* · [`dailyftlk`](https://www.ft.lk/business/SLGJA-kicks-off-Asia-s-premier-gem-and-jewellery-exhibition-FACETS-Sri-Lanka-2025/34-771440) · `en`
+
+The Sri Lanka Gem and Jewellery Association (SLGJA), in collaboration with the National Gem and Jewellery Authority (NGJA), on Saturday inaugurated the 31st edition of ‘FACETS Sri Lanka,’ Asia’s premier gem and jewellery exhibition, at the Cinnamon Grand Hotel, Colombo.
+
+This three-day event showcases the brilliance and diversity of Sri Lanka’s gem and jewellery industry to a global audience. The exhibition ends today.
+
+The inauguration ceremony was graced by President Anura Kumara Dissanayake, who declared FACETS Sri Lanka 2025 officially open. Joining him were distinguished Ministers, industry leaders, and international delegations from key markets, including China, India, the United States, Europe, and beyond. The event also welcomed representatives from globally renowned gem and jewellery companies, many of whom are visiting Sri Lanka for the first time.
+
+...
+
+[Data](articles/34ea3d78.json)
+
+---
+
+### Professor H.A. de S. Gunasekera Memorial Oration 2025 on Friday
+
+*2025-01-06 03:17:18* · [`dailyftlk`](https://www.ft.lk/news/Professor-H-A-de-S-Gunasekera-Memorial-Oration-2025-on-Friday/56-771439) · `en`
+
+The Professor H.A. de S. Gunasekera Memorial Oration 2025 will be held on Friday, 10 January
+
+It will be delivered by University of Peradeniya Department of Economics and Statistics Former Associate Professor Sumanasiri Liyanage on the topic, ‘Contingence, Conjuncture and Structure: The Economic Crisis in Sri Lanka: A Political Economy Critique.’
+
+Prof. Gunasekera was Professor of Economics and Head of the Department of Economics and Political Science of the University of Ceylon, Peradeniya. He succeeded Prof. Das Gupta to become the second occupant of the Chair (and the first Sri Lankan) in the Department in 1961. He also served as the Dean of the Faculty of Arts at Peradeniya (1963-1969) and later on as the Secretary, Ministry of Planning (1970-1977) under Prime Minister Sirimavo Bandaranaike. He was a much respected academic and public servant. A large number of his students have made outstanding contributions to both academic and public life in Sri Lanka and overseas.
+
+...
+
+[Data](articles/c0348bd1.json)
+
+---
 
 ### நெற்பயிர்ச் செய்கையை சேதப்படுத்தும் இனந்தெரியாத புழு பூச்சிகள்
 
@@ -1601,83 +1683,5 @@ Joining Ada Derana’s current affairs program “@HydePark”, Gajendran furthe
 ◼️
 
 [Data](articles/e69c596b.json)
-
----
-
-### ஜெனிவா பொறுப்புக்கூறல் குற்றச்சாட்டுக்களுக்கு பதிலளிக்க விசேட இராஜதந்திர குழுவை நியமிக்க அரசாங்கம் நடவடிக்கை
-
-*2025-01-05 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/203002) · `ta`
-
-ஜெனிவா மனித உரிமைகள் பேரவையின் பொறுப்புக்கூறல் குற்றச்சாட்டுக்களுக்கு பதிலளிக்கும் வகையில், விசேட இராஜதந்திர குழு ஊடாக நடவடிக்கை எடுக்கப்படவுள்ளதுடன், 58ஆவது அமர்வுக்கு முன்னர் சிறப்பறிக்கையை வெளியிடவும் அரசாங்கம் தீர்மானித்துள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்தது.
-
-மேலும், ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 58ஆவது கூட்டத்தொடர் எதிர்வரும் பெப்ரவரி மாதம் 24ஆம் திகதி ஆரம்பமாகவுள்ள நிலையில், மனித உரிமை பேரவையின் அமர்வில் சமர்ப்பிக்கப்படும் எந்த தீர்மானத்தின் 51/1 நகல்வடிவையும் இலங்கை தொடர்ந்து எதிர்க்கும்.
-
-இலங்கையில் இடம்பெற்ற போர் குற்றங்கள் குறித்த ஆதாரங்களை சேகரிக்கும் வெளிப்புற  பொறிமுறைக்கான அதிகாரங்களை நீடிக்கும் எந்த தீர்மானத்தையும் ஏற்றுக்கொள்ள முடியாது.
-
-ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் இறுதி அமர்வில்  சமர்ப்பிக்கப்பட்ட  தீர்மானத்தின் நகல்வடிவை நிராகரிப்பதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் கடந்த ஒக்டோபர் மாதம் 7ஆம் திகதி இடம்பெற்ற அமைச்சரவை கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டது.
-
-...
-
-[Data](articles/5004bda7.json)
-
----
-
-### Lost in the Death Valley in Chile
-
-*2025-01-05 12:31:00* · [`islandlk`](http://island.lk/lost-in-the-death-valley-in-chile/) · `en`
-
-In 2016, Shyamala and I visited Peru and Chile in South America. We flew from Miami in the USA nine hours before landing at Santiago Airport in Chile. The sky was blue, and a mild cool breeze engulfed us when we exited the airport. An elderly man was waiting for us, holding a board that said “Shyamala.” He greeted us warmly when we approached him. He introduced himself, welcomed us to Chile, took our two suitcases, and led us to a large van. He drove us to the hotel we had booked. It was an old mansion converted into a boutique hotel. It reminded me of old cottages in Goa in India with large verandas, narrow doors, and dark interiors. It was 11 am, and we had to wait about one hour before checking in. The hotel staff invited us to the coffee bar. While sipping wonderful coffee, I saw a poem on a wooden frame.
-
-...
-
-[Data](articles/2a4bcbc5.json)
-
----
-
-### ஹிக்கடுவையில் உள்நாட்டுத் துப்பாக்கி, தோட்டாக்களுடன் இருவர் கைது!
-
-*2025-01-05 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202999) · `ta`
-
-ஹிக்கடுவை - சீனிகம பிரதேசத்தில் உள்நாட்டில் தயாரிக்கப்பட்ட 8 மில்லிமீற்றர் அளவுடைய கைத்துப்பாக்கி மற்றும் தோட்டாக்கள் என்பவற்றுடன் இரண்டு சந்தேக நபர்கள் பொலிஸாரால் இன்று ஞாயிற்றுக்கிழமை (05) கைது செய்யப்பட்டுள்ளனர்.
-
-பொலிஸ் போதைப்பொருள் ஒழிப்பு பணியகத்தின் பணிப்பாளரிடமிருந்து கிடைத்த தகவலின் அடிப்படையில் சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
-
-சந்தேக நபர்களிடமிருந்து துப்பாக்கிக்கு பயன்படுத்தப்படும் 55 தோட்டாக்கள், 02 கைக்குண்டுகள் மற்றும் T-56 துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 66 தோட்டாக்கள் என்பனவும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-◼️
-
-[Data](articles/e97535ed.json)
-
----
-
-### Of Gandhi and Ahimsa
-
-*2025-01-05 12:21:00* · [`islandlk`](http://island.lk/of-gandhi-and-ahimsa/) · `en`
-
-Ahimsa (Non-violence) is one of the cardinal principles of my life. I am a great admirer of Mahatma Gandhi’s life and work. Ahimsa was a cardinal principle of his life too. I met him on several occasions and studied his writings carefully. In November 1989, I delivered a lecture in London on Ahimsa to a meeting of the Joint Commonwealth Societies. On October 2, 1991, 1 spoke about Gandhi and Ahimsa, at a commemoration meeting bell in Colombo on Gandhi’s birth anniversary. But here, I would like to present what I said about Gandhi first, and then what I said about Ahimsa.
-
-It was indeed very gracious on the part of the India-Sri Lanka Society to have invited me to speak a few words on this occasion, commemorating the birthday of Mahatma Gandhi. It may be because very few in Sri Lanka, and even very few among the politician of India are alive, who lived
-
-in the era in which Mahatma Gandhi played such an important role in Indian and World History.
-
-...
-
-[Data](articles/5f85f9b8.json)
-
----
-
-### ජනපති සහ නීතිපති අතර හමුවක්?
-
-*2025-01-05 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205049) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානයක මහතා සහ නීතිපතිවරයා අතර සාකච්ඡාවක් හෙට (06) පැවැත්වීමට නියමිතව තිබේ.
-
-එහිදී පසුගිය සමයේ ආන්දෝලනයට තුඩු දුන් නඩුවල ප්‍රගතිය සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිතව ඇතැයි වාර්තා වෙයි.
-
-මෙ අතර අපරාධ නඩු පවත්වාගෙන යෑමේදී සිදුවන අපහසුතා පිළිබඳවද මෙහිදී අවධානයට ලක් වනු ඇති බව සඳහන්ය.
-
-◼️
-
-[Data](articles/d893476b.json)
 
 ---

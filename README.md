@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 23:13:14**
+As of **2025-01-05 23:27:45**
 
 ## Newspaper Stats
 
-*Scraped **63,816** Articles*
+*Scraped **63,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,095
-adaderanalk | 7,808
+adaderanalk | 7,809
 tamilmirrorlk | 9,153
-virakesarilk | 10,660
+virakesarilk | 10,661
 adaderanasinhalalk | 11,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,816 articles have been extended.
+61,971 (97.1%) of 63,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### 19 வயதின் கீழ் மகளிர் சர்வதேச ரி20: பங்களாதேஷை 5 விக்கெட்களால் வீழ்த்தியது இலங்கை
+
+*2025-01-05 22:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/203065) · `ta`
+
+19 வயதுக்குட்பட்ட இலங்கை மற்றும் பங்களாதேஷ் மகளிர் அணிகளுக்கு இடையில் தேர்ஸ்டன் கல்லூரி மைதானத்தில் இன்று நடைபெற்ற முதலாவது இளையோர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணி 5 விக்கெட்களால் வெற்றிபெற்றது.
+
+மலேசியாவில் இந்த மாதம் ஆரம்பமாகவுள்ள 19 வயதுக்குட்பட்ட மகளிர் ரி20 உலகக் கிண்ணப் போட்டிக்கு தங்களைத் தயார் படுத்தும் பொருட்டு இரண்டு அணிகளும் 4 போட்டிகள் கொண்ட இளையோர் ரி20 கிரிக்கெட் தொடரில் விளையாடுகின்றன.
+
+முதலாவது போட்டியில் 19 வயதுக்குட்பட்ட பங்களாதேஷ் மகளிர் அணியினால் நிர்ணயிக்கப்பட்ட 110 ஓட்டங்கள் என்ற வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணி 7 பந்துகள் மீதமிருக்க 5 விக்கெட்களை இழந்து 112 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+தஹாமி செனெத்மா 3 வெவ்வேறு விக்கெட்களில் பகிர்ந்த இணைப்பாட்டங்கள் 19 வயதுக்குட்பட்ட இலங்கை மகளிர் அணியை வெற்றி அடையச் செய்தன.
+
+சஞ்சனா காவிந்தி, விமோக்ஷா பாலசூரிய ஆகியோர் முதலாவது விக்கெட்டில் 24 ஓட்டங்களைப் பகிர்ந்து சிறந்த ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+...
+
+[Data](articles/4740e037.json)
+
+---
+
+### Sacred rituals halted at ‘Sabaragamuwa Saman Devalaya’ amid protests against Acting Basnayake Nilame
+
+*2025-01-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104742/sacred-rituals-halted-at-sabaragamuwa-saman-devalaya-amid-protests-against-acting-basnayake-nilame) · `en`
+
+The board of duty (Rajakari Mandalaya) of the ‘Sabaragamuwa Maha Saman Devalaya’ has launched a strike by withdrawing from sacred pooja and rituals of the devalaya today (05), citing their objection to the appointment of an acting Basnayake Nilame, which they allege violates long-standing traditions and was influenced by political considerations.
+
+The strike followed the appointment of S.V. Chandrasinghe as acting Basnayake Nilame by the Commissioner for Buddhist Affairs. The appointment is intended to fill the position temporarily until a permanent Basnayake Nilame is named, following the expiration of the previous officeholder’s term.
+
+However, the board claims the appointment disregards established customs and alleges that Chandrasinghe has close ties to the current government. In protest, the temple officials staged a silent demonstration at the entrance of the Saman Devalaya.
+
+◼️
+
+[Data](articles/a54a84e3.json)
+
+---
 
 ### අස්වැන්නට හානි කරන පණු උවදුරක්
 
@@ -1645,43 +1681,5 @@ Born and raised in the predominantly Republican state of Georgia, Carter graduat
 ...
 
 [Data](articles/b3c25da0.json)
-
----
-
-### ”அகதிகளை நாடு கடத்தும் தீர்மானத்தை மீள்பரிசீலனை செய்யவும்”
-
-*2025-01-05 11:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகதிகளை-நாடு-கடத்தும்-தீர்மானத்தை-மீள்பரிசீலனை-செய்யவும்/175-349776) · `ta`
-
-முல்லைத்தீவு கடற்பகுதியில் கடந்த டிசம்பர் 19ஆம் திகதி மீட்கப்பட்ட 40க்கும் மேற்பட்ட சிறுவர்கள் உட்பட 103 ரோஹிங்கியா அகதிகளை நாடு கடத்துவதற்கான அரசாங்கத்தின் தீர்மானத்தை மீள்பரிசீலனை செய்யுமாறு ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்ற உறுப்பினர் முஜீபுர் ரகுமான் ஜனாதிபதி அனுர திஸாநாயக்கவிடம் வேண்டுகோள் விடுத்துள்ளார்.
-
-மியான்மருக்கு அகதிகளைத் திருப்பி அனுப்புவது அவர்களின் உயிருக்கு ஆபத்தை விளைவிக்கும் என்றும், துன்புறுத்தல் அச்சுறுத்தல்களை எதிர்கொள்ளும் நாட்டிற்கு தனிநபர்களை அனுப்புவதைத் தடைசெய்யும் சர்வதேச மறுசீரமைப்பு கொள்கைகளை மீறுவதாகவும் முஜீபுர் ரகுமான் ஜனாதிபதிக்கு எழுதிய கடிதத்தில் கவலை தெரிவித்தார்.
-
-அகதிகள் பாதுகாப்பான நாட்டில் மீள்குடியேற்றம் செய்யப்படும் வரை அவர்களின் பாதுகாப்பை உறுதி செய்வதன் மூலம் மனித உரிமைகள் மற்றும் இன நல்லிணக்கத்திற்கான இலங்கையின் அர்ப்பணிப்பை வெளிப்படுத்துமாறு அவர் ஜனாதிபதியிடம் வலியுறுத்தினார்.
-
-ரகுமான், உலகளாவிய மனித உரிமைகள் தரநிலைகளுக்கு இணங்க, இரக்கம் மற்றும் விருந்தோம்பலை வெளிப்படுத்த இது இலங்கைக்கு ஒரு சிறந்த வாய்ப்பு எனவும் எடுத்துரைத்தார்.
-
-◼️
-
-[Data](articles/40ddf780.json)
-
----
-
-### துமிந்த சில்வாவின் உடல்நிலையை மதிப்பிட குழு நியமனம்
-
-*2025-01-05 11:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்த-சில்வாவின்-உடல்நிலையை-மதிப்பிட-குழு-நியமனம்/175-349773) · `ta`
-
-தற்போது சிறைச்சாலை வைத்தியசாலையில் சிகிச்சை பெற்று வரும் கொலைக் குற்றவாளி துமிந்த சில்வாவின் உடல்நிலையை மதிப்பிடுவதற்கு மருத்துவ குழுவொன்று நியமிக்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க தெரிவித்துள்ளார்.
-
-சிறைச்சாலைகள் திணைக்களத்தின் வேண்டுகோளுக்கு இணங்க சுகாதார சேவைகள் பணிப்பாளர் நாயகத்தினால் உருவாக்கப்பட்ட குழு, மரண தண்டனை விதிக்கப்பட்டுள்ள சில்வாவுக்கு தொடர்ந்தும் சிகிச்சை தேவையா என்பதை மதிப்பீடு செய்யும்.
-
-சிறைச்சாலைகள் திணைக்களத்திற்கு அறிக்கை சமர்ப்பிக்கப்படவுள்ள நிலையில், எதிர்வரும் நாட்களில் இந்த மதிப்பீடு இடம்பெறும் என எதிர்பார்க்கப்படுகிறது.
-
-சில்வாவுக்கு தனியான கழிவறை வசதி செய்து கொடுக்கப்பட்டதாக சுமத்தப்படும் குற்றச்சாட்டையும் திஸாநாயக்க நிராகரித்தார்.
-
-சில்வாவின் வளாகத்தில் மேற்கொள்ளப்பட்ட முன்னைய சோதனைகளில் கையடக்கத் தொலைபேசிகள் அல்லது தடைசெய்யப்பட்ட ஏனைய சாதனங்கள் எதுவும் கண்டறியப்படவில்லை எனவும் அவர் மேலும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/faf9d8d7.json)
 
 ---

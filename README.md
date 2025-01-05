@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 15:02:12**
+As of **2025-01-05 15:12:54**
 
 ## Newspaper Stats
 
-*Scraped **63,732** Articles*
+*Scraped **63,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,93 @@ newsfirstlk | 363
 dbsjeyarajcom | 468
 colombotelegraphcom | 642
 bbccomsinhala | 669
-islandlk | 3,882
 economynextcom | 3,884
+islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,084
 adaderanalk | 7,800
 tamilmirrorlk | 9,142
-virakesarilk | 10,623
+virakesarilk | 10,639
 adaderanasinhalalk | 11,012
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.2%) of 63,732 articles have been extended.
+61,971 (97.2%) of 63,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### கம்பஹாவில் ஐஸ், ஹெரோயின் போதைப்பொருட்களுடன் இளைஞன் கைது
+
+*2025-01-05 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/203013) · `ta`
+
+கம்பஹா பொலிஸ் பிரிவுக்குட்பட்ட கொடுகொட பகுதியில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருட்களுடன் இளைஞர் ஒருவர் நேற்று சனிக்கிழமை (04) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் விசேட அதிரடிப்படையின் கொனஹேன முகாமின் அதிகாரிகள் குழுவினால் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கொடுகொட பிரதேசத்தைச் சேர்ந்த 21 வயது இளைஞர் ஆவார்.
+
+சந்தேக நபரிடமிருந்து 07 கிராம் 160 மில்லிகிராம் ஐஸ் போதைப்பொருள் மற்றும் 05 கிராம் 600 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/2d072072.json)
+
+---
+
+### IIHS launches new degree programs to empower healthcare professionals
+
+*2025-01-05 14:55:00* · [`islandlk`](http://island.lk/iihs-launches-new-degree-programs-to-empower-healthcare-professionals/) · `en`
+
+The International Institute of Health Sciences (IIHS)has introduced a range of new degree courses for health professionals, including nurses and midwives, said a release.
+
+These programmes, in partnership with Asia e University in Malaysia, offer locally and internationally recognized qualifications in fields such as nursing, pharmaceuticals, public health, dental therapy, and food and environmental science.
+
+...
+
+[Data](articles/e2ac33fa.json)
+
+---
+
+### Lanka speedster Matheesha Pathirana to bowl for ComBank
+
+*2025-01-05 14:54:00* · [`islandlk`](http://island.lk/lanka-speedster-matheesha-pathirana-to-bowl-for-combank/) · `en`
+
+Matheesha Pathirana, one of Sri Lanka’s most talented young cricket stars, has been appointed Brand Ambassador for Commercial Bank, the largest private sector bank in the country.
+
+Matheesha will specifically represent the ComBank Debit Card brand, the biggest debit card base in the country, reflecting the speed and agility of the brand, qualities that he is famous for. “We are excited to welcome Matheesha Pathirana as a brand ambassador for Commercial Bank,” the Bank’s Managing Director/CEO Sanath Manatunge said. “He is an internationally renowned fast bowler and a game changer. Together, we aim to inspire confidence and commitment to excellence, not only within Sri Lanka but also on the global stage.”
+
+Queen’s Hospital Medical Centre Opens in Ratmalana, Offering Affordable and Advanced Healthcare
+
+Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
+
+...
+
+[Data](articles/a568d375.json)
+
+---
+
+### The Residencies Kotte by ICC redefines apartment living with expansive recreational area
+
+*2025-01-05 14:53:00* · [`islandlk`](http://island.lk/the-residencies-kotte-by-icc-redefines-apartment-living-with-expansive-recreational-area/) · `en`
+
+The Residencies Kotte by ICC is set to revolutionize apartment living with the near-completion of its vast podium-level recreational area, said a release.
+
+It said: Spanning over an acre, this elevated space is designed to foster community engagement and well-being, combining leisure, fitness, and social spaces. Key features include an infinity pool, jogging track, community hall, and curated sports and relaxation zones. The development emphasizes connectivity, offering residents a dynamic hub for interaction, bonding, and building friendships.
+
+Located in the serene Kotte area, yet close to urban amenities, The Residencies Kotte balances tranquillity with accessibility. As construction nears completion, it promises not only modern homes but a thoughtfully designed lifestyle that elevates everyday living. This innovative development is setting new standards for urban living in Sri Lanka.
+
+Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
+
+...
+
+[Data](articles/56a54777.json)
+
+---
 
 ### වනඅලින්ට GPS කරපටි
 
@@ -58,6 +126,36 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
+
+*2025-01-05 14:32:00* · [`islandlk`](http://island.lk/telecom-itea-skills-for-vocational-institute-students-by-exeo-global-and-sala-enterprises/) · `en`
+
+Students in Sri Lanka seeking overseas employment now have a unique opportunity to gain a competitive edge in the Japanese telecommunications construction industry. EXEO Global Pte Ltd., in partnership with SALA Enterprises, has launched a series of seminars aimed at equipping young adults with the necessary ITEA (Information & Telecommunications Engineering Association) telecommunications skills. These seminars, conducted in collaboration with the Tertiary and Vocational Education Commission of Sri Lanka, focus on the opportunities available in Japan’s telecommunications sector and the steps required to secure a Specified Skilled Worker (SSW) visa.
+
+...
+
+[Data](articles/3ff08f40.json)
+
+---
+
+### CEAT Kelani presents traffic management tools to Police and SLCMP
+
+*2025-01-05 14:18:00* · [`islandlk`](http://island.lk/ceat-kelani-presents-traffic-management-tools-to-police-and-slcmp-2/) · `en`
+
+CEAT Kelani Holdings has broadened the scope of its flagship community initiative promoting road safety around schools by engaging with the Police and the Sri Lanka Corps of Military Police (SLCMP) of the Sri Lanka Army, two institutions that play lead roles in this domain.
+
+The company recently presented stocks of traffic management-related signboards and traffic cones to these institutions, as one of its community commitments that makes up the ‘CEAT Cares’ portfolio of community projects.
+
+The signboards and traffic cones presented to the Police and the Military police are to be strategically placed on main roads to facilitate traffic management near schools, government institutions, and other high-traffic areas within the station’s jurisdiction, supporting CEAT’s efforts to help improve road safety and aid law enforcement maintain smooth traffic flows.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/423f2361.json)
+
+---
+
 ### ආනන්ද පාලිතට එරෙහිව මිලියන 500ක එන්තරවාසියක්
 
 *2025-01-05 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205052) · `si`
@@ -73,6 +171,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/c02ff9ff.json)
+
+---
+
+### கொழும்பு மைய அரசியலா?  தாயக மைய அரசியலா?
+
+*2025-01-05 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/203019) · `ta`
+
+சிவமோகன் கடைசி மத்திய குழுக் கூட்டத்திற்கும் சென்றிருந்தார். பொதுத்தேர்தல் காலத்தில் கட்சியின் வேட்பாளருக்கு எதிராக செயல்பட்டிருந்தார் எனக் கூறியே அவர் நீக்கம் செய்யப்பட்டிருக்கின்றார் அவ்வாறு செயல்பட்டிருந்தால் கடைசிக் கூட்டம் வரை மத்திய குழுக் கூட்டத்திற்கு ஏன் அவரை அனுமதித்திருந்தீர்கள்?  இதற்கு சுமந்திரனிடம் பதில் ஏதும் இல்லை. மொத்தத்தில் கட்சியில் ஒரு சுத்திகரிப்பு வேலையை சுமந்திரன் தொடங்கியிருக்கின்றார். தன்னுடைய அரசியல் நிலைப்பாட்டிற்கு எதிரானவர்களை அதாவது கொழும்பு மைய அரசியலுக்கு எதிரானவர்களை கட்சியில் இருந்து அகற்றுவதே அவரின் இலக்காகும். இது ஒரு வகையில் சிறிதரனை தனிமைப்படுத்தி அகற்றும் நோக்கத்தையும் உள்ளடக்கியதாகும்.
+
+◼️
+
+[Data](articles/5171a0fc.json)
 
 ---
 
@@ -138,6 +248,20 @@ Highlighting the lack of a formal, targeted program by previous administrations,
 
 ---
 
+### காலாவதியான  கட்டமைப்புகள்
+
+*2025-01-05 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/203018) · `ta`
+
+இறுதி கட்டப் போரின் போது அவர் மக்களுக்கு எதிராக துப்பாக்கிகளை நீட்டத் தயார் இல்லை என்று கூறியதாக தெரியவில்லை.  ஏனென்றால் அது தமிழ் மக்கள்.
+
+ஆனால், கொழும்பில் ‘அரகலய’ போராட்டத்தின் போது அவர் மக்களுக்கு எதிராக துப்பாக்கிகளை பயன்படுத்த தான் தயாராக இல்லை என்று கூறி இருக்கிறார். ஏனென்றால், அவர்கள் சிங்கள மக்கள்.பாதுகாப்பு அதிகாரிகளின் பிரதானி பதவியில் இருந்து  இவர் ஓய்வு பெற்றிருக்கும் நிலையில், புதிதாக அந்த பதவிக்கு மற்றொருவர் நியமிக்கப்படுவதற்கான சாத்தியங்கள் தென்படவில்லை.
+
+◼️
+
+[Data](articles/8ce85840.json)
+
+---
+
 ### රාජ්‍ය සේවකයින්ගේ වැටුප් රහිත නිවාඩුව ගැන දිස්ත්‍රික් ලේකම්වරුන්ට උපදෙස් මාලාවක්
 
 *2025-01-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205051) · `si`
@@ -178,6 +302,42 @@ Highlighting the lack of a formal, targeted program by previous administrations,
 
 ---
 
+### கிளீன் ஸ்ரீலங்கா சிக்­க­லான பயணம்
+
+*2025-01-05 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/203015) · `ta`
+
+ஊழல், மோச­டி­களில் ஈடு­ப­டு­வது ஒரு குற்றம் அல்ல என்று சிந்­திக்­கின்ற அள­வுக்கு பரந்­து­பட்­ட­ளவில் இது ஊறிப் போயி­ருக்­கி­றது. பல­ருக்கு இது குற்ற உணர்ச்­சியை கூட ஏற்­ப­டுத்­து­வ­தில்லை. இவ்­வா­றான நிலையில் தாங்கள் செய்­வது குற்றம் என்று உணர முடி­யா­த­வர்­களால், இத்­த­கைய பழக்­க­வ­ழக்­கங்­களை விளங்கிக் கொள்ள முடி­யாது.  முதலில் அத்­த­கைய தவ­று­களை குற்­றங்­க­ளாக உணர வைக்க வேண்டும்.
+
+◼️
+
+[Data](articles/bdd3dd1b.json)
+
+---
+
+### யாரை பாதுகாத்தனர்  முன்னாள் ஜனாதிபதிகள் ?
+
+*2025-01-05 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/203012) · `ta`
+
+மக்களை கடன்காரர்களாக்கி விட்டு அவர்களின் பணத்திலேயே பாதுகாப்பாகவும் சொகுசாகவும் காலத்தை கடத்துவது எந்த வகையில் நியாயம் என்பது புரியவில்லை.பயங்கரவாதத்திலிருந்து நாட்டை பாதுகாத்தோம் என்று தொடர்ச்சியாக கூறியே, மறுபக்கம் ஊழல்வாதிகளையும் பாதுகாத்து நாட்டை இக்கட்டான சூழலுக்கு தள்ளி விட்டவர்கள் மஹிந்த  தரப்பினர்.   அவர்களின் பாதுகாப்பிற்காக செலவு செய்யப்படும் கோடிக்கணக்கான பணமும் மக்களுடையதாகும். மக்களை கடன்காரர்களாக்கி விட்டு அவர்களின் பணத்திலேயே பாதுகாப்பாகவும் சொகுசாகவும் காலத்தை கடத்துவது எந்த வகையில் நியாயம் என்பது புரியவில்லை. மேலும், பொருளாதார நெருக்கடி காலங்களிலும் முன்னாள் ஜனாதிபதிகள் எவருமே தமது பாதுகாப்பு செலவீனங்களையும் சலுகைகளையும்  குறைத்துக்கொள்ள முன்வரவில்லையென்பது முக்கிய விடயம்.
+
+◼️
+
+[Data](articles/972485d1.json)
+
+---
+
+### அபத்­தமும் ஆபத்தும்
+
+*2025-01-05 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/203011) · `ta`
+
+13ஆவது திருத்தச் சட்­டத்­திற்கு எதி­ரான கருத்­து­டைய, தென்­னி­லங்­கையின் சிங்­கள பௌத்த பேரி­ன­வாத சக்­திகள் மத்­தியில் இருந்தே, இந்த சிந்­தனை உரு­வா­கி­யி­ருக்­கி­றது. 13ஆவது திருத்தச் சட்­டமும் மாகாண சபை­களும் தேவை­யில்லை, அவற்றை இல்­லாமல் செய்ய வேண்டும் என வலி­யு­றுத்­து­கின்ற சரத் வீர­சே­கர, உதய கம்­மன்­பில போன்­ற­வர்கள் இந்­த­ளவு காலமும் மாகாண சபைகள் இல்­லாமல், அரச நிர்­வா­கங்கள் நடை­பெ­ற­வில்­லையா?  எதற்கு வீணாக பணத்தை செல­விட்டு மாகாண சபை­களை தெரிவு செய்ய வேண்டும் என முன்னர் கேள்வி எழுப்பி இருந்­தார்கள்.
+
+◼️
+
+[Data](articles/d014130d.json)
+
+---
+
 ### President and AG to discuss progress of controversial cases
 
 *2025-01-05 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/104732/president-and-ag-to-discuss-progress-of-controversial-cases-) · `en`
@@ -191,6 +351,30 @@ Additionally, the challenges faced in handling criminal cases will also be addre
 ◼️
 
 [Data](articles/ad96d962.json)
+
+---
+
+### தமி­ழ­ரசில் களை­யெ­டுப்பு
+
+*2025-01-05 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/203008) · `ta`
+
+தமிழரசுக் கட்சியில் உருவாகி இருக்கும் நெருக்கடிகள் தீர்க்கப்பட்டால்தான் தமிழர் பிரச்சினைக்கான தீர்வைத் ஒருமித்த கருத்துடன் - ஒருமித்த நிலைப்பாட்டுடன் வலுவான ஒரு தரப்பாக முன்னெடுக்கக் கூடிய சாத்தியம் ஏற்படும். ஆனால், தமிழரசுக் கட்சி உள்கட்சி மோதல்களையும் முரண்பாடுகளையும் நீட்டிக்கொண்டே செல்வது,  தமிழர் பிரச்சினையை தீர்ப்பதற்கான முயற்சிகளைத் தட்டிக் கழிப்பதற்கான வாய்ப்புகளையே சிங்கள ஆட்சியாளர்களுக்கு விட்டு வைக்கப் போகிறது.
+
+◼️
+
+[Data](articles/9f3b7011.json)
+
+---
+
+### Speech writing for Mrs. B, mischievous Felix and 1965 general election
+
+*2025-01-05 12:41:00* · [`islandlk`](http://island.lk/speech-writing-for-mrs-b-mischievous-felix-and-1965-general-election/) · `en`
+
+Making speeches and preparing for them, was a constant occupational hazard for the prime minister and her staff. The international speeches were clearly the most important from a personal as well as country’s image-building point of view. Sirimavo gained immense credit from a statement she made in Belgrade at the Nonaligned Summit in 1961, when as the first woman prime minister of the world she used the phrase — As a woman and a mother, I call upon the nations of the world to desist from violence in their dealings with each other …’This phrase,was unique as no other world leader up to then could have used it, and was carried in headlines across the world giving Sirimavo and Ceylon a tremendous boost.
+
+...
+
+[Data](articles/5734d9cc.json)
 
 ---
 
@@ -210,6 +394,52 @@ Joining Ada Derana’s current affairs program “@HydePark”, Gajendran furthe
 
 ---
 
+### தம்புத்தேகமவில் கேரள கஞ்சாவுடன் ஒருவர் கைது
+
+*2025-01-05 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/203005) · `ta`
+
+புத்தளம் - தம்புத்தேகம பொலிஸ் பிரிவுக்குட்பட்ட யாய 04 பகுதியில் கேரள கஞ்சா வைத்திருந்த ஒருவர் நேற்று சனிக்கிழமை (04) பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+சந்தேக நபரிடமிருந்து 10 கிராம் 325 கிராம் கேரள கஞ்சா பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+இதனையடுத்து, கைது செய்யப்பட்ட நபர் மேலதிக விசாரணைகளுக்காக தம்புத்தேகம பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டார்.
+
+◼️
+
+[Data](articles/9304f5ce.json)
+
+---
+
+### வலுப்படுத்தப்படும் அதிகாரம்
+
+*2025-01-05 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/203006) · `ta`
+
+இப்பொழுது நாட்டின் பிரதான மூன்று புலனாய்வு கட்டமைப்புகளின் தலைமைப் பதவிகளிலும் அரசாங்கம் மாற்றத்தை செய்திருக்கிறது.அதேபோல, பதவியிலிருந்து விலகிச் செல்லும் இராணுவ அதிகாரிகளை வெளிநாடுகளில் தூதுவர்களாக நியமிக்கின்ற வழக்கத்தையும் பின்பற்றுவதில்லை என அரசாங்கம் தீர்மானித்திருக்கிறது.
+
+◼️
+
+[Data](articles/e69c596b.json)
+
+---
+
+### ஜெனிவா பொறுப்புக்கூறல் குற்றச்சாட்டுக்களுக்கு பதிலளிக்க விசேட இராஜதந்திர குழுவை நியமிக்க அரசாங்கம் நடவடிக்கை
+
+*2025-01-05 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/203002) · `ta`
+
+ஜெனிவா மனித உரிமைகள் பேரவையின் பொறுப்புக்கூறல் குற்றச்சாட்டுக்களுக்கு பதிலளிக்கும் வகையில், விசேட இராஜதந்திர குழு ஊடாக நடவடிக்கை எடுக்கப்படவுள்ளதுடன், 58ஆவது அமர்வுக்கு முன்னர் சிறப்பறிக்கையை வெளியிடவும் அரசாங்கம் தீர்மானித்துள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்தது.
+
+மேலும், ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவையின் 58ஆவது கூட்டத்தொடர் எதிர்வரும் பெப்ரவரி மாதம் 24ஆம் திகதி ஆரம்பமாகவுள்ள நிலையில், மனித உரிமை பேரவையின் அமர்வில் சமர்ப்பிக்கப்படும் எந்த தீர்மானத்தின் 51/1 நகல்வடிவையும் இலங்கை தொடர்ந்து எதிர்க்கும்.
+
+இலங்கையில் இடம்பெற்ற போர் குற்றங்கள் குறித்த ஆதாரங்களை சேகரிக்கும் வெளிப்புற  பொறிமுறைக்கான அதிகாரங்களை நீடிக்கும் எந்த தீர்மானத்தையும் ஏற்றுக்கொள்ள முடியாது.
+
+ஐக்கிய நாடுகள் மனித உரிமை பேரவையின் இறுதி அமர்வில்  சமர்ப்பிக்கப்பட்ட  தீர்மானத்தின் நகல்வடிவை நிராகரிப்பதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் கடந்த ஒக்டோபர் மாதம் 7ஆம் திகதி இடம்பெற்ற அமைச்சரவை கூட்டத்தில் அங்கீகாரம் வழங்கப்பட்டது.
+
+...
+
+[Data](articles/5004bda7.json)
+
+---
+
 ### Lost in the Death Valley in Chile
 
 *2025-01-05 12:31:00* · [`islandlk`](http://island.lk/lost-in-the-death-valley-in-chile/) · `en`
@@ -219,6 +449,22 @@ In 2016, Shyamala and I visited Peru and Chile in South America. We flew from Mi
 ...
 
 [Data](articles/2a4bcbc5.json)
+
+---
+
+### ஹிக்கடுவையில் உள்நாட்டுத் துப்பாக்கி, தோட்டாக்களுடன் இருவர் கைது!
+
+*2025-01-05 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202999) · `ta`
+
+ஹிக்கடுவை - சீனிகம பிரதேசத்தில் உள்நாட்டில் தயாரிக்கப்பட்ட 8 மில்லிமீற்றர் அளவுடைய கைத்துப்பாக்கி மற்றும் தோட்டாக்கள் என்பவற்றுடன் இரண்டு சந்தேக நபர்கள் பொலிஸாரால் இன்று ஞாயிற்றுக்கிழமை (05) கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸ் போதைப்பொருள் ஒழிப்பு பணியகத்தின் பணிப்பாளரிடமிருந்து கிடைத்த தகவலின் அடிப்படையில் சந்தேக நபர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர்களிடமிருந்து துப்பாக்கிக்கு பயன்படுத்தப்படும் 55 தோட்டாக்கள், 02 கைக்குண்டுகள் மற்றும் T-56 துப்பாக்கிகளுக்கு பயன்படுத்தப்படும் 66 தோட்டாக்கள் என்பனவும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/e97535ed.json)
 
 ---
 
@@ -272,6 +518,36 @@ in the era in which Mahatma Gandhi played such an important role in Indian and W
 
 ---
 
+### ஒப்­புக்­கொள்ளும் உண்­மைகள்
+
+*2025-01-05 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/203004) · `ta`
+
+சமா­தானப் பேச்­சு­வார்த்­தை­களில் வெற்­றி­பெற முடி­யாது என்­பது பிர­பா­க­ர­னுக்குத் தெரியும் என்றால், பேச்­சு­வார்த்­தை­மூலம் இலங்கை அர­சாங்கம் தீர்வு ஒன்றை வழங்கப் போவ­தில்லை, அதற்­கான வாய்ப்பு இல்லை என்­பது அவ­ருக்கு தெரிந்­தி­ருக்­கி­றது என்று தான் அர்த்தம்.
+
+◼️
+
+[Data](articles/0c902ac2.json)
+
+---
+
+### இலங்கை வரும் உலக நாடுகளின் ஆய்வுக் கப்பல்களுக்கு நிலையான மூலோபாய ஒத்துழைப்பு விதிமுறை - அரசாங்கம் தீர்மானம்
+
+*2025-01-05 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/202997) · `ta`
+
+இலங்கை வருவதற்கு அனுமதி கோரும் உலக நாடுகளின் ஆய்வுக் கப்பல்களுக்கு நிலையான மூலோபாய ஒத்துழைப்பு விதிமுறையின் கீழ் அனுமதியளிப்பது குறித்து அரசாங்கம் அவதானம் செலுத்தியுள்ளது. இதற்கு அமைவாக விசேட விதிமுறை ஒன்றை உருவாக்குவதற்கு வெளிவிவகார அமைச்சர் விஜித்த ஹேரத் தலைமையில் விசேட குழு ஒன்றும் நியமிக்கப்பட்டுள்ளது.
+
+இலங்கை கடற்பரப்புக்குள் வரும் உலக நாடுகளின் ஆய்வுக்கப்பல்களுக்கு விதிக்கப்பட்டிருந்த தற்காலிக தடை கடந்த டிசெம்பர் மாதம் 31ஆம் திகதியுடன் நிறைவடைந்துள்ளது.
+
+இந்த தடையை முந்தைய அரசாங்கம் விதித்திருந்தது. எவ்வாறாயினும் உலக நாடுகளின் ஆய்வுக்கப்பல்கள் இலங்கைக்கு வருவதால் ஏற்பட கூடிய இராஜதந்திர நெருக்கடிகளை தவிர்க்கும் வகையில் பொதுவானதொரு மூலோபாய ஒத்துழைப்பு விதிமுறையை உருவாக்குவதற்கு ஜனாதிபதி அநுரகுமார திசாநாயக்க நடவடிக்கை எடுத்துள்ளார்.
+
+இதற்காக வெளிவிவகார அமைச்சர் விஜித்த ஹேராத் தலைமையிலான சிறப்பு குழுவை ஜனாதிபதி அநுரகுமார திசாநாயக்க நியமித்துள்ளார்.
+
+...
+
+[Data](articles/d57b2a3a.json)
+
+---
+
 ### ஊதா நிற கொய்யா இனம்…
 
 *2025-01-05 12:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஊதா-நிற-கொய்யா-இனம்/76-349778) · `ta`
@@ -285,6 +561,26 @@ in the era in which Mahatma Gandhi played such an important role in Indian and W
 ◼️
 
 [Data](articles/2a2e98c9.json)
+
+---
+
+### மீன்பிடிக் கப்பல் மூலம் இலங்கைக்கு போதைப்பொருள் கொண்டுவரப்பட்ட சம்பவம் - இருவர் கைது!
+
+*2025-01-05 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/202995) · `ta`
+
+மீன்பிடிக் கப்பல் மூலம் இலங்கைக்கு போதைப்பொருள் கொண்டுவரப்பட்டமை தொடர்பில் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியகத்தின் பணிப்பாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஹேமல் பிரசாந்தவின் பணிப்புரையின் பேரில் கடந்த ஒக்டோபர் மாதம் 31ஆம் திகதி விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+அந்த விசாரணைகளின் பின்னர், மீன்பிடி கப்பலின் உரிமையாளரிடம் மேற்கொள்ளப்பட்ட மேலதிக விசாரணைகளில் இச்சந்தேக நபரால் வீட்டில் மறைத்து வைக்கப்பட்டிருந்த வெளிநாட்டில் தயாரிக்கப்பட்ட மைக்ரோ ரக கைத்துப்பாக்கி, துப்பாக்கியின் மகசீன் மற்றும் 04 தோட்டாக்கள் ஆகியவற்றை பொலிஸார் அண்மையில் கைப்பற்றியுள்ளனர்.
+
+இதேவேளை, அவருக்கு துப்பாக்கியை வழங்கியதாக சந்தேகிக்கப்படும் மற்றுமொரு நபரும் ஹிக்கடுவ பிரதேசத்தில் உள்ள பொலிஸ் போதைப்பொருள் ஒழிப்புப் பணியக அதிகாரிகளால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 30 மற்றும் 33 வயதுடைய வெரல்லான மற்றும் கிந்தோட்ட பிரதேசங்களை சேர்ந்தவர்கள் ஆவர்.
+
+இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸ் போதைப்பொருள் தடுப்புப் பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5e349ec3.json)
 
 ---
 
@@ -428,6 +724,24 @@ These operations were implemented as a two-week pilot project from yesterday (Ja
 
 ---
 
+### சிறைக்கைதிகளை நீதிமன்றங்களுக்கு  அழைத்துவருவதில் புதிய நடைமுறை -  சிறைச்சாலைகள் ஊடகப் பேச்சாளர்
+
+*2025-01-05 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202986) · `ta`
+
+சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டுள்ள சிறைக்கைதிகளை இரும்பு சங்கிலியால் பிணைத்து நீதிமன்றத்துக்கு அழைத்து வருவதற்கு பதிலாக அவர்களின் பாதுகாப்பை உறுதி செய்து புதிய நடைமுறையை பின்பற்ற எதிர்பார்த்துள்ளதாக சிறைச்சாலைகள் ஊடகப் பேச்சாளர் காமினி பி.திசாநாயக்க தெரிவித்தார்.
+
+சிறைச்சாலைகளில் தடுத்து வைக்கபட்டுள்ளவர்களும் மனிதர்கள் எனவும் அவர்களை விலங்குகளை போன்று சங்கிலியால் பிணைத்து நீதிமன்றத்திற்கு அழைத்து வர வேண்டாம் என்றும் கொழும்பு மேலதிக நீதவான் பசன் அமரசேன சிறைச்சாலை அதிகாரிகளுக்கு அண்மையில் கடுமையாக எச்சரிக்கை விடுத்திருந்தார்.
+
+அவ்வாறு சந்தேகநபர்களை நீதிமன்றத்துக்கு அழைத்து வந்து மன்றில் முன்னிலைப்படுத்துவதை தாம் விரும்பவில்லை என்றும் அவர்களை மனிதர்களாகவும் மதித்து செயற்படுங்கள் என்றும் நீதவான் சிறைச்சாலை அதிகாரிகளை வலியுறுத்தியிருந்தார்.
+
+இந்நிலையில் எதிர்காலத்தில் சிறைக்கைதிகளை மன்றில் முன்னிலைப்படுத்தும் போது பின்பற்றப்படவுள்ள வழிமுறை தொடர்பில் வினவிய போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/08408f23.json)
+
+---
+
 ### நாய்களுடன் அரிசி: சாரதி கைது
 
 *2025-01-05 11:23:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்களுடன்-அரிசி-சாரதி-கைது/76-349771) · `ta`
@@ -461,6 +775,24 @@ There were almost 700 replies to the post, with almost all pointing out that it 
 ...
 
 [Data](articles/ff883a71.json)
+
+---
+
+### அம்பாறையில் 5000 ரூபா போலி நாணயத்தாள்களுடன் மூன்று இளைஞர்கள் கைது
+
+*2025-01-05 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202991) · `ta`
+
+அம்பாறை - தமன, வனகமுவ பிரதேசத்தில் தொலைப்பேசி விற்பனை செய்யும் இடம் என்ற போர்வையில் 5000 ரூபா போலி நாணயத்தாள்களை அச்சடிக்கும் நிலையமாக இயங்கிவரும் வீடொன்று சுற்றிவளைக்கப்பட்டு, மூன்று சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட மூன்று இளைஞர்களும் 29 - 20 வயதுக்குட்பட்டவர்கள் எனவும், அவர்கள் போதைப்பொருள் பாவனைக்கு அடிமையானவர்கள் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+போலி நாணயத்தாள்களை அச்சடிப்பதற்கு பயன்படுத்தப்பட்ட மடிக்கணினி உட்பட பல உபகரணங்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+மேலும், அவ்வீட்டில் மூன்று ஏ4 அளவிலான கடதாசிகள், அச்சடிக்கப்பட்டு கத்தரிக்கப்படாத 10 போலியான 5000 ரூபா நாணயத்தாள்கள் முதலியவற்றையும் அதிகாரிகள் கண்டெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/0382d598.json)
 
 ---
 
@@ -595,6 +927,24 @@ The arrest took place during a raid conducted in the Wathumulla area of Okewela 
 ...
 
 [Data](articles/955adebd.json)
+
+---
+
+### வாகன விபத்துக்கள், போக்குவரத்து நெரிசலை குறைக்க பொலிஸார் தீவிர நடவடிக்கை!
+
+*2025-01-05 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/202994) · `ta`
+
+"கிளீன் ஸ்ரீலங்கா" திட்டத்துடன் இணைத்து இலங்கை பொலிஸாரினால்  வாகன விபத்துக்கள் மற்றும் போக்குவரத்து நெரிசலை குறைக்கும் இரண்டு போக்குவரத்துத் திட்டங்களையும் நடைமுறைப்படுத்துவதற்கு பொலிஸ் மா அதிபர் பணிப்புரை வழங்கியுள்ளார்.
+
+இதன் முதற்கட்ட நடவடிக்கையாக, பல்வேறு விதமான வாகன ஒலிகள், அதிக சத்தத்தில் ஒலி சமிக்ஞை எழுப்புதல், ஒலி எழுப்பும் சைலன்சர்களை பொருத்துதல், விபத்துக்கள் மற்றும் ஆபத்தை விளைவிக்கும் வகையில் பல வண்ண மின்விளக்குகளை பொருத்துதல், வாகனங்களில் சட்டவிரோதமாக பாகங்களை பொருத்துதல் தொடர்பாக கண்காணிக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இரண்டாவது நடவடிக்கையாக, பொதுப் போக்குவரத்தின்போது பஸ் சாரதிகள் செய்யும் போக்குவரத்து விதிமீறல்களைக் கண்டறிந்து, அக்குற்றங்களுக்கான சட்ட நடவடிக்கை மேற்கொள்ளப்படும் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+நேற்று சனிக்கிழமை (04) முதல் எதிர்வரும் 19ஆம் திகதி வரை இரண்டு வாரங்களுக்கு இந்தச் செயற்பாடுகள் முன்னெடுக்கப்படும் என வாகன சாரதிகள் உட்பட பொதுமக்களுக்கு அறிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/3d3648cb.json)
 
 ---
 
@@ -859,24 +1209,6 @@ The Airport police are conducting further investigations into the incident.
 ◼️
 
 [Data](articles/e3cf2d11.json)
-
----
-
-### சிறைக்கைதிகளை நீதிமன்றங்களுக்கு  அழைத்துவருவதில் புதிய நடைமுறை  சிறைச்சாலைகள் ஊடகப் பேச்சாளர்
-
-*2025-01-05 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/202986) · `ta`
-
-சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டுள்ள சிறைக்கைதிகளை இரும்பு சங்கிலியால் பிணைத்து நீதிமன்றத்துக்கு அழைத்து வருவதற்கு பதிலாக அவர்களின் பாதுகாப்பை உறுதி செய்து புதிய நடைமுறையை பின்பற்ற எதிர்பார்த்துள்ளதாக சிறைச்சாலைகள் ஊடகப் பேச்சாளர் காமினி பி.திசாநாயக்க தெரிவித்தார்.
-
-சிறைச்சாலைகளில் தடுத்து வைக்கபட்டுள்ளவர்களும் மனிதர்கள் எனவும் அவர்களை விலங்குகளை போன்று சங்கிலியால் பிணைத்து நீதிமன்றத்திற்கு அழைத்து வர வேண்டாம் என்றும் கொழும்பு மேலதிக நீதவான் பசன் அமரசேன சிறைச்சாலை அதிகாரிகளுக்கு அண்மையில் கடுமையாக எச்சரிக்கை விடுத்திருந்தார்.
-
-அவ்வாறு சந்தேகநபர்களை நீதிமன்றத்துக்கு அழைத்து வந்து மன்றில் முன்னிலைப்படுத்துவதை தாம் விரும்பவில்லை என்றும் அவர்களை மனிதர்களாகவும் மதித்து செயற்படுங்கள் என்றும் நீதவான் சிறைச்சாலை அதிகாரிகளை வலியுறுத்தியிருந்தார்.
-
-இந்நிலையில் எதிர்காலத்தில் சிறைக்கைதிகளை மன்றில் முன்னிலைப்படுத்தும் போது பின்பற்றப்படவுள்ள வழிமுறை தொடர்பில் வினவிய போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/08408f23.json)
 
 ---
 
@@ -1403,427 +1735,5 @@ The Indian Ocean island nation has a long traditional association with the inter
 ◼️
 
 [Data](articles/775fa0b4.json)
-
----
-
-### ශිෂ්‍යත්ව උත්තර පත්‍ර ඇගයිම ජන 8 දා
-
-*2025-01-04 18:58:49* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-උත්තර-පත්‍ර-ඇගයිම-ජන-8-දා/11-414001) · `si`
-
-2024 වර්ෂයේ පැවැති පහ ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම ජනවාරි මස 8 වෙනි දින සිට12 වැනි දින දක්වා පැවැත්වීමට සූදානම් කොට ඇති බව විභාග කොමසාරිස් අමිත් ජයසුන්දර මහතා සඳහන් කරයි.
-
-මෙම විභාගයේ ප්‍රශ්න පත්‍ර කලින් පිට වූවේ යැයි කියන සිද්ධිය සම්බන්ධයෙන් මතු වූ අර්බුදය නිසා පිළිතුරු පත්‍ර ඇගයීම  විභාග කොමසාරිස්වරයා විසින් කල් තබා තිබුණි. මතභේදයට තුඩුදුන් ප්‍රශ්න තුනක් වෙනුවෙන් පොදුවේ සැමට ලකුණු ලබාදීමට විභාග කොමසාරිස්වරයා ගත් තීරණයට එරෙහිව මවුපියන් පිරිසක් විසින් අධිකරණය හමුවේ නඩු පවරා තිබූ අතර අධිකරණයෙන් ලද නියෝගයට අනුව ප්‍රශ්නය සමතයකට පත් කරමින් අධිකරණය පෙන්වා දුන් යෝජනා තුන අනුව දෙවැනි යෝජනාව ක්‍රියාත්මක කරමින් කලින් පිට වූයේ යැයි කියූ ප්‍රශ්න තුන සඳහා සියලු දරුවන්ට පොදුවේ ලකුණු ලබාදීමට විභාග කොමසාරිස්වරයා කටයුතු කළේය.
-
-ඒ අනුව විභාගයට පෙනී සිටි සියලු දරුවන්ගේ පිළිතුරු පත්‍ර ඇගයීම ආරම්භ කිරීමට විභාග කොමසාරිස්වරයා ඉහත දිනවල කටයුතු කර තිබේ.
-
-◼️
-
-[Data](articles/bb450296.json)
-
----
-
-### 14 හැවිරිදි පාසල් සිසුවියක් මරුට
-
-*2025-01-04 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205031) · `si`
-
-විදුලි සැර වැදී මියගිය බව කියන 14 හැවිරිදි පාසල් සිසුවියක් පිළිබඳව හසලක, තෝරපිටිය ප්‍රදේශයෙන් වාර්තා වෙයි.
-
-ඊයේ (03) සවස එම සිදුවීම වාර්තා වූ බව "අද දෙරණ" වාර්තකරු පැවසීය.
-
-එලෙස මියගොස් ඇත්තේ, හසලක තෝරපිටිය ප්‍රදේශයේ පදිංචිව සිටි මෙත්මි  සිතුම් කුමාරි නැමැති පාසල් ශිෂ්‍යාවකි.
-
-ඇය මවගෙන් දුරකථනය ඉල්ලාගෙන ඇගේ කාමරයට ගොස් ඇති අතර ඊට සුළු මොහොතකට පසු ඇගේ කාමරයෙන් කෑගසන හඬක් ඇසී තිබේ.
-
-එම හඬ ඇසුණු ඇගේ මව සහ පියාත්, වැඩිමහල් සහෝදරියත් කාමරයට ගොස් බලන විට ඇය නිදාගන්නා යකඩ ඇඳ අල්ලාගෙන කෑ ගසමින් සිටිනු දැක ඇත.
-
-පසුව මරණකාරියගේ සීයා ඇඳ ළඟ තිබූ විදුලි සම්බන්ධතාව විසන්ධිකර තිබේ.
-
-ඉන්පසු ඇය හසලක රෝහලට රැගෙන ගොස් ඇති අතර එහිදී මහියංගන රෝහල වෙත මාරුකර යවා තිබුණි.
-
-◼️
-
-[Data](articles/55887901.json)
-
----
-
-### மாணவர்களுக்கு போதைப்பொருளை விநியோகித்த இருவர் கைது
-
-*2025-01-04 18:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/மாணவர்களுக்கு-போதைப்பொருளை-விநியோகித்த-இருவர்-கைது/74-349738) · `ta`
-
-அம்பாறையில் நீண்டகாலமாக பாடசாலை மாணவர்களிற்கு போதைப்பொருட்களை விநியோகித்து வந்த சந்தேகநபர்கள் இருவருடமிருந்து ஐஸ் போதைப்பொருட்கள் மீட்கப்பட்டுள்ளன.
-
-கல்முனை விசேட அதிரடிப் படையினரால், 20 மற்றும் 19 வயதுடைய மருதமுனை பகுதியை சேர்ந்த இவர்கள் நேற்று இரவு ஐஸ் போதைப்பொருளுடன்  கைது செய்யப்பட்டுள்ளனர்.
-
-அத்துடன், கைதான சந்தேகநபர்கள் உள்ளிட்ட சான்றுப்பொருட்கள் என்பன சட்ட நடவடிக்கைக்காக கல்முனை தலைமையக பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை கல்முனை விசேட அதிரடிப்படையினர் மேற்கொண்டு வருகின்றனர். R
-
-◼️
-
-[Data](articles/6fb0d63f.json)
-
----
-
-### More details revealed on Weligama shooting incident
-
-*2025-01-04 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/104719/more-details-revealed-on-weligama-shooting-incident) · `en`
-
-Police have recovered a motorcycle suspected to have been used by the suspects who carried out the shooting incident that took place at Weligama, Matara this morning (04).
-
-The motorcycle was found abandoned near a lake in the Moonamalpe area of Weligama.
-
-A group of five persons had gone to a house in Turkish Village last night (03) where the funeral was being held for the prisoner who died when a “Bo Tree” branch fell on a ward where prisoners were being detained in the Matara Prison.
-
-Later, the group was returning home on foot at around 1.00 a.m. this morning (04) when they were shot at on the Valliwela road at Kapparathota in Weligama, the police said.
-
-Police suspect that an unknown group of individuals who arrived on three motorcycles had opened fire on them using a revolver and a T-56 assault rifle before fleeing the scene.
-
-Two of the five people walking on the road were injured in the shooting and were later admitted to the Walana Hospital in Matara.
-
-...
-
-[Data](articles/f969c436.json)
-
----
-
-### ලෝලෙවල් මාර්ගයේ රථ වාහන ධාවනය සීමා කිරීමක් ගැන දැනුම්දීමක්
-
-*2025-01-04 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205028) · `si`
-
-කොළඹ අවිස්සාවේල්ල මාර්ගයේ රථ වාහන ධාවනය සීමා කිරීමක් සම්බන්ධව පොලීසිය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
-
-හංවැල්ල පොලිස් වසමේ ඇඹුල්ගම රජමහා විහාරස්ථානයේ පවත්වනු ලබන ශ්‍රී සම්බුද්ධ ජයන්ති ආශිර්වාද වාර්ෂික මහා පෙරහැර විඨී සංචාරය කිරීමට නියමිත බැවින් අද සහ හෙට දිනයේදී එම මාර්ගයේ රථ වාහන ධාවනය සීමා කරන බව පොලීසිය නිකුත් කළ එම නිවේදනයේ සඳහන් කර තිබේ.
-
-පොලීසිය පැවසුවේ එබැවින් කොලඹ - අවිස්සාවේල්ල මාර්ගයේ ගමන් ගන්නා රියදුරන් විකල්ප මාර්ග භාවිත කරන ලෙසය.
-
-◼️
-
-[Data](articles/b0feb988.json)
-
----
-
-### நாட்டில் இரு வெவ்வேறு பகுதிகளில் ஹெரோயினுடன் மூவர் கைது !
-
-*2025-01-04 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/202978) · `ta`
-
-நாட்டில் இரு வெவ்வேறு பகுதிகளில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்புக்களின் போது ஹெரோயின் போதைப்பொருளுடன் மூன்று சந்தேக நபர்கள் நேற்று வெள்ளிக்கிழமை (03) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-இங்கிரிய பொலிஸ் பிரிவிற்கு உட்பட்ட  தீரானந்த மாவத்தை பகதியில் ஹெரோயினுடன் சந்தேக நபர் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-இங்கிரிய பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபரிடம் இருந்து 06 கிராம் 300 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-இதேவேளை, மொரட்டுவை பொலிஸ் பிரிவிற்கு உட்பட்ட லுனாவ மற்றும் மாதங்கவத்தை பிரதேசங்களில் ஹெரோயின் போதைப்பொருளுடன் இரண்டு சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-மொரட்டுவை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின் போதே இவர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் மொரட்டுவை பிரதேசத்தைச் சேர்ந்த 36 மற்றும் 41 வயதுடையவர்கள் ஆவர்.
-
-...
-
-[Data](articles/860ba8a5.json)
-
----
-
-### Navy seizes over 11kg of gold being smuggled by boat
-
-*2025-01-04 17:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104718/navy-seizes-over-11kg-of-gold-being-smuggled-by-boat) · `en`
-
-A special search operation conducted by the Navy in the sea area off the Baththalangunduwa Island, Kalpitiya on Saturday (4), has led to the interception of a dinghy with 03 suspects who were smuggling around 11kg and 300g of gold.
-
-The Sri Lanka Navy said a team of Special Boat Squadron attached to SLNS Vijaya was pressed into action, on receipt of information by the Northwestern Naval Command regarding a gold smuggling racket.
-
-Accordingly, naval personnel intercepted the suspicious dinghy off Baththalangunduwa Island and recovered about 11kg and 300g of gold being smuggled from the country, concealed in the dinghy.
-
-The operation also led to the apprehension of 03 suspects in connection to the racket while they have been identified as residents of Kalpitiya.
-
-Meanwhile, the suspects along with gold will be handed over to the Customs Preventive Office, Katunayake for onward legal action, the navy said.
-
-◼️
-
-[Data](articles/318e1225.json)
-
----
-
-### Fire at food market in northern China kills at least 8 and injures 15
-
-*2025-01-04 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104717/fire-at-food-market-in-northern-china-kills-at-least-8-and-injures-15) · `en`
-
-A fire at a food market Saturday in northern China killed at least eight people and injured 15 others, state media said.
-
-The fire at the Liguang market in the city of Zhangjiakou broke out midday Saturday and was mostly extinguished by 2:00 p.m. (0600 GMT), Xinhua News Agency reported, citing a government official in Qiaoxi District where the market is located.
-
-The cause of the fire is under investigation, the report said.
-
-Such traditional markets are often tightly packed with shoppers seeking prices lower than at supermarket chains.
-
-Fire sources can range from gas bottles to charcoal used to roast meat and discarded cigarettes while aging infrastructure, such as underground gas lines, has also been blamed for fires and explosions.
-
-Zhangjiakou, located in Hebei province bordering Beijing, hosted events during the 2022 Winter Olympic Games.
-
-◼️
-
-[Data](articles/bcecb556.json)
-
----
-
-### துமிந்த சில்வாவுக்கு விசேட வசதிகள் பெற்றுக்கொடுக்கப்படவில்லை - சிறைச்சாலை ஊடகப் பேச்சாளர்
-
-*2025-01-04 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/202971) · `ta`
-
-அண்மையில் உயர்நீதிமன்றத்தினால் மரண தண்டனை உறுதி செய்யப்பட்டு சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள துமிந்த சில்வாவுக்கு சிறைச்சாலை அதிகாரிகளால் விசேட வசதிகள் பெற்றுக்கொடுக்கப்படுவதாக  முன்வைக்கப்பட்டுள்ள குற்றச்சாட்டுக்கள் உண்மைக்கு புறம்பானவையென சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பி.திஸாநாயக்க தெரிவித்துள்ளார்.
-
-அத்துடன் பூஸா அதிஉயர் பாதுகாப்பு சிறையில் தடுத்து வைக்கப்பட்டுள்ள சிறைக்கைதிகளுக்கு தடை செய்யப்பட்ட பொருட்களை வழங்கியமை தொடர்பாக மேற்கொள்ளப்பட்ட விசாரணைக்கு அமைய சிறைச்சாலையின் பாதுகாப்பு அதிகாரிகள் மற்றும் பொலிஸ் விசேட அதிரடிப்படையின் உறுப்பினர்கள் சிலர் கைது செய்யப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர்  மேலும் குறிப்பிட்டார்.
-
-சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ள சில சிறைக்கைதிகளுக்கு விசேட வசதிகள் பெற்றுக்கொடுக்கபட்டுள்ளதாக சிறைக் கைதிகளின் உரிமைகளை பாதுகாக்கும் அமைப்பு அண்மையில் குற்றச்சாட்டியிருந்தது.
-
-இந்நிலையில் இது தொடர்பில் வினவிய போதே சிறைச்சாலைகள் ஊடக பேச்சாளர் காமினி பி.திசாநாயக்க மேற்கண்டவாறு குறிப்பிட்டார்.
-
-◼️
-
-[Data](articles/d339ad4b.json)
-
----
-
-### Sri Lanka coconut prices rise 18-pct, hit all time high
-
-*2025-01-04 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-rise-18-pct-hit-all-time-high-197754/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices were up 18.32 percent, recording the highest price for a coconut in the weekly auction, data from the Coconut Development Authority showed.
-
-The weekly auction was not held in a month due to a lack of nuts.
-
-Average coconut prices were up to 129,699.00 for 1,000 nuts at the auction held on January 2, from 109,615.80 at the auction in November last year.
-
-The highest price was 130,000 for 1,000 nuts while the lowest was 120,000 for 1,000 nuts.
-
-A total of 279,102 coconuts were offered at the auction and 267,138 were sold.
-
-Coconuts are retailing 174 to 190 rupees a nut at supermarkets.
-
-Wholesale prices for large nuts were 155-175 and 125-145 rupees for small nuts on January 2.
-
-Coconut oil local wholesale price was 850,000 to 880,000.00 rupees per metric ton.
-
-Farmgate prices in Kurunegala were 125,000 to 130,000 per 1,000 nuts.
-
-◼️
-
-[Data](articles/06e0554b.json)
-
----
-
-### சீனாவில் உள்ள இலங்கை மாணவர்களின் விபரங்கள் சேகரிப்பு
-
-*2025-01-04 16:46:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவில்-உள்ள-இலங்கை-மாணவர்களின்-விபரங்கள்-சேகரிப்பு/175-349737) · `ta`
-
-சீனாவில் உயர் கல்வி மற்றும் மேற்படிப்புக்காக தங்கியுள்ள இலங்கை மாணவர்கள் தங்கள் விபரங்களைப் பகிர்ந்துகொள்ளுமாறு சீனாவில் உள்ள இலங்கைத் தூதரகம் கோரியுள்ளது.
-
-தற்போது, தூதரகத்தில் அரச உதவித்தொகை பெறும் மாணவர்களின் பதிவுகள் மட்டுமே உள்ள நிலையில் இயற்கை பேரழிவுகள் போன்ற அவசரநிலைகளின்போது உதவி வழங்குவதே இந்த நடவடிக்கையின் நோக்கமாகும் என்றும் தூதரகம் தனது அறிவிப்பில் குறிப்பிட்டுள்ளது.
-
-இதேவேளை, தற்போது சீனாவில் புதிய வைரஸ் ஒன்று பரவி வரும் நிலையில், சீனாவில் தங்கியுள்ள இலங்கை மாணவர்களின் விபரங்கள் சேகரிக்கப்படுகின்றன.  R
-
-◼️
-
-[Data](articles/73509cd9.json)
-
----
-
-### கிரிபத்கொடையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
-
-*2025-01-04 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/202967) · `ta`
-
-கிரிபத்கொடை பொலிஸ் பிரிவிற்கு உட்பட்ட மித்ரானந்த மாவத்தை பகுதியில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (03) கிரிபத்கொடை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-கிரிபத்கொடை பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் மாதம்பே பிரதேசத்தைச் சேர்ந்த 34 வயதுடையவர் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து 11 கிராம் 550 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/19cf425c.json)
-
----
-
-### වයස්ගතම ඔලිම්පික් රන් පදක්කම්ලාභිනිය මියයයි
-
-*2025-01-04 16:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205027) · `si`
-
-ලොව වයස්ගතම ඔලිම්පික් රන් පදක්කම්ලාභිනිය වන ඇග්නස් කෙලෙටි මියගොස් තිබේ.
-
-හංගේරියාවේ බූඩපෙස්ට්හි හමුදා රෝහලක ප්‍රතිකාර ලබමින් සිටිදී පසුගිය බ්‍රහස්පතින්දා ඇය මියගොස් තිබුණි.
-
-මියයන විට ඇය  103 හැවිරිදි වියෙහි පසුවු බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-හංගේරියානු ජිම්නාස්ටික් ක්‍රීඩිකාවක් වන ඇය පස් වතාවක් රන්පදක්ම් දිනා තිබේ.
-
-ඇග්නස් කෙලෙටි 1921 ජනවාරි 09 වනදා බුඩාපෙස්ට් හි උපත ලැබූ අතර ලබන ජනවාරි 9 වැනිදාට ඇගේ 104 වන උපන්දිනය යෙදී තිබුණි.
-
-ඇග්නස් කෙලෙටි පළමු ඔලිම්පික් රන් පදක්කම දිනාගනු ලැබුවේ 1952 වසරේදී හෙල්සින්කි හි පැවති ක්‍රීඩා උළෙලේ දීය.
-
-ජිම්නාස්ටික් ශූරියක වූ ඇය ඔලිම්පික් රන් පදක්කම් 05ක් ද ඇතුළුව දිනා සිටි සමස්ත ඔලිම්පික් පදක්කම් ගණන 10කි.
-
-◼️
-
-[Data](articles/64c4e227.json)
-
----
-
-### சர்வதேச  "FACETS Sri Lanka - 2025" இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சியில் ஜனாதிபதி பங்கேற்பு
-
-*2025-01-04 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/202953) · `ta`
-
-சர்வதேச  "FACETS Sri Lanka - 2025" இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சி ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் இன்று சனிக்கிழமை (04) சினமன் கிராண்ட் ஹோட்டலில் ஆரம்பமானது.
-
-இதன்போது ஜனாதிபதி அநுரகுமார திசாநாயக்க, காட்சிக்கு வைக்கப்பட்டிருந்த இரத்தினக்கல் மற்றும் ஆபரணக் கூடங்களை பார்வையிட்டார்.
-
-இலங்கை இரத்தினக்கல் மற்றும் ஆபரணச் சங்கம் (SLGJA), தேசிய இரத்தினக்கல் மற்றும் ஆபரண அதிகாரசபை மற்றும் ஏற்றுமதி ஊக்குவிப்புச் சபை (EDB)  என்பன இணைந்து ஏற்பாடு செய்திருக்கும் FACETS Sri Lanka சர்வதேச இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சி இன்று முதல் (06) திகதி வரை நடைபெறவுள்ளது.
-
-ஆசியாவின் முதன்மை இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சியான FACETS Sri Lanka இம்முறை 31 ஆவது தடவையாக ஏற்பாடு செய்யப்பட்டுள்ளதுடன், சீனா,இந்தியா, ஐக்கிய அமெரிக்கா, ஐரோப்பா மற்றும் பல நாடுகளின் பிரதிநிதிகளும் இந்த கண்காட்சியில் கலந்துகொண்டுள்ளனர்.
-
-...
-
-[Data](articles/a76b456f.json)
-
----
-
-### ஆண்டுக்கு 3 இலட்சம் நாய்க்கடி சம்பவங்கள்
-
-*2025-01-04 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/202944) · `ta`
-
-ஆண்டுக்கு கிட்டத்தட்ட 3 இலட்சம் நாய்க்கடி சம்பவங்கள் பதிவாகியுள்ளதாக பொது சுகாதார கால்நடை சேவை தெரிவித்துள்ளது.
-
-கடந்த 2024 ஆண்டில் மட்டும் கிட்டத்தட்ட இரண்டு இலட்சம் விசர் நாய்க்கடி தடுப்பூசிகள் பயன்படுத்தப்பட்டுள்ளன.
-
-கடந்த வருடம் ரேபிஸ் நோயினால் 20 பேர் உயிரிழந்துள்ளதாக பொது சுகாதார கால்நடை சேவையின் வைத்திய அதிகாரி டொக்டர் யேஷான் குருகே தெரிவித்துள்ளார். அவர்களில் 11 பேர் நாய்க்கடியால் உயிரிழந்துள்ளனர்.
-
-மேலும், விசர்நாய்க்கடி தடுப்பூசிகளுக்காக வருடாந்தம் 600 மில்லியன் ரூபாவுக்கும் அதிகமான பணம் செலவிடப்படுவதாக வைத்தியர் யேஷான் குருகே தெரிவித்தார்.
-
-◼️
-
-[Data](articles/e950a622.json)
-
----
-
-### ජපුර රෝහලේ සියලු සේවා නව්‍යකරණයට
-
-*2025-01-04 15:49:48* · [`adalk`](https://www.ada.lk/breaking_news/ජපුර-රෝහලේ-සියලු-සේවා-නව්‍යකරණයට/11-414000) · `si`
-
-ශ්‍රී ජයවර්ධනපුර  මහ රෝහලේ සියලු සේවාවන් නව්‍යකරණයට ලක්කර ප්‍රතිකාර සේවාවන් විධිමත්ව හා කාර්යක්ෂමව  වඩාත් පුළුල් කිරීමට නව සැලැස්මක් යටතේ පියවර ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා ශ්‍රී ජයවර්ධනපුර මහ රෝහලේ පාලන අධිකාරිය සමග පසුගියදා දීර්ඝ සාකච්ඡාවක නිරත විය.
-
-අමාත්‍ය වරයා මෙම සාකච්ඡාවට එක්වූයේ ශ්‍රී ජයවර්ධනපුර මහ රෝහලට වසර 40 ක් පිරීම නිමිත්තෙන් හා රෝහලේ සියලු  සේවාවන්   වඩාත් පුළුල් කර ප්‍රතිකාර සේවාවන් තවදුරත් ඵලදායී ලෙස ඉදිරියට ක්‍රියාත්මක කිරීම පිළිබදව සොයා බැලීම සදහා පසුගියදා එම රෝහලේ  සිදුකල විශේෂ නිරීක්ෂණ චාරිකාවකදීය.
-
-1984 වර්ෂයේ දී ඇඳන් 1001 ක ධාරිතාවයකින් යුතුව ආරම්භ වූ ශ්‍රී ජයවර්ධනපුර මහ රෝහල ජපන් රජයෙන් මෙරටට ලැබුණු පරිත්‍යාගයකි. ජපන් ගෘහ නිර්මාණ ශිල්පයට අනුව මෙම රෝහලක් ඉදිකර ඇත.
-
-...
-
-[Data](articles/46442adc.json)
-
----
-
-### லொறி - மோட்டார் சைக்கிள் விபத்து - ஒருவர் படுகாயம்
-
-*2025-01-04 15:49:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொறி-மோட்டார்-சைக்கிள்-விபத்து-ஒருவர்-படுகாயம்/175-349736) · `ta`
-
-ஹட்டன் - நுவரெலியா பிரதான வீதியின் கொட்டகலை மேபீல்ட் பகுதியில் இன்று காலை
-
-மோட்டார் சைக்கிளும், லொறியும் நேருக்கு நேர் மோதியதில் மோட்டார் சைக்கிளில் பயணித்தவர் படுகாயமடைந்து கொட்டகலை பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக திம்புள்ள பத்தனை பொலிஸார் தெரிவித்தனர்.
-
-கொட்டகலை பகுதியில் இருந்து ஹட்டன் நோக்கி பயணித்த லொறியும், ஹட்டனிலிருந்து கொட்டகலை பகுதியை நோக்கி சென்ற மோட்டார் சைக்கிளும் மோதி விபத்துக்கு ஏற்பட்டுள்ளது.
-
-விபத்தில் மோட்டார் சைக்கிள் பலத்த சேதமடைந்துள்ளதாகவும், லொறி சாரதி கவனக்குறைவாக வாகனம் செலுத்தியமையே விபத்துக்குக் காரணம் எனவும், எனவே சாரதி சந்தேகத்தின் பேரில் கைது செய்யப்பட்டதாகவும் திம்புள்ள பத்தனை பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
-
-இந்த விபத்து அந்த பகுதியில் இருந்த கேரேஜில் பொருத்தப்பட்டிருந்த பாதுகாப்பு கேமராவில் பதிவாகியுள்ளது. R
-
-◼️
-
-[Data](articles/d484c14f.json)
-
----
-
-### සහල් මෙට්‍රික් ටොන් 88,000ක් දිවයිනට
-
-*2025-01-04 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205025) · `si`
-
-ඊයේ (03) දින දහවල් 12 වන වන විට ආනයනය කර රේගුවෙන් නිශ්කාෂනය කර ඇති සමස්ත සහල් ප්‍රමාණය මෙට්‍රික් ටොන් 88,000 ඉක්මවා තිබේ.
-
-රේගු මාධ්‍ය ප්‍රකාශක අතිරේක රේගු අධ්‍යක්ෂ ජනරාල් සීවලි අරුක්ගොඩ මහතා පැවසුවේ ගෙන්වා ඇති මෙම සහල් තොගය අතරට කැකුලු සහල් ටොන් 34,000ක් සහ තැම්බූ සහල් ටොන් 54,000ක් වන බවයි.
-
-සහල් ආනයනය එළැඹෙන ජනවාරි 10 දින දක්වා දීර්ඝ කිරීමට පසුගියදා කැබිනට් අනුමැතිය ලැබුණි.
-
-මේ අතර වෙළෙඳ හා වාණිජ අමාත්‍ය වසන්ත සමරසිංහ මහතා ඊයේ අනුරාධපුර ඔයා මඩුව ප්‍රදේශයේ ඉදිකර ඇති රජයේ වී ගබඩා පිළිබඳ සොයා බැලීකදී මාධ්‍ය වෙත අදහස් දක්වමින් පැවසුවේ මෙම මස 10 වැනි දිනෙන් පසු සහල් ආනයනය කිරීමේ නිදහස් සීමාව ඉවත් කරන බවය.
-
-◼️
-
-[Data](articles/c9bdf2d9.json)
-
----
-
-### President inaugurates ‘FACETS Sri Lanka – 2025’: International Gem and Jewellery Exhibition
-
-*2025-01-04 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104716/president-inaugurates-facets-sri-lanka-2025-international-gem-and-jewellery-exhibition) · `en`
-
-“FACETS Sri Lanka - 2025 International Gem and Jewellery Exhibition” was inaugurated under the patronage of President Anura Kumara Dissanayake at the Cinnamon Grand, Colombo today (04).
-
-The President also visited and inspected the gem and jewellery stalls featured at the exhibition, the President’s Media Division (PMD) stated.
-
-Organized by the Sri Lanka Gem and Jewellery Association (SLGJA) in collaboration with the National Gem and Jewellery Authority (NGJA) and the Export Development Board (EDB), this year marks the 31st edition of Asia’s leading gem and jewellery exhibition. The event will continue until January 6.
-
-Delegations from China, India, the United States, Europe, and several other countries, along with representatives from globally renowned gem and jewellery companies visiting Sri Lanka for the first time, are participating in the event, the PMD said.
-
-...
-
-[Data](articles/3a462540.json)
-
----
-
-### சர்வதேச இரத்தினக்கல், ஆபரண கண்காட்சி
-
-*2025-01-04 15:33:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-இரத்தினக்கல்-ஆபரண-கண்காட்சி/175-349735) · `ta`
-
-சர்வதேச  "FACETS Sri Lanka - 2025" இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சி, ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில், இன்று (04), சினமன் கிராண்ட் ஹோட்டலில் ஆரம்பமானது.
-
-இதன்போது ஜனாதிபதி அநுரகுமார திசாநாயக்க, காட்சிக்கு வைக்கப்பட்டிருந்த இரத்தினக்கல் மற்றும் ஆபரணக் கூடங்களை பார்வையிட்டார்.
-
-இலங்கை இரத்தினக்கல் மற்றும் ஆபரணச் சங்கம் (SLGJA), தேசிய இரத்தினக்கல் மற்றும் ஆபரண அதிகாரசபை மற்றும் ஏற்றுமதி ஊக்குவிப்புச் சபை (EDB)  என்பன இணைந்து ஏற்பாடு செய்திருக்கும் FACETS Sri Lanka இந்த சர்வதேச இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சி, இன்று முதல் 06ஆம் திகதி வரை நடைபெறவுள்ளது.
-
-ஆசியாவின் முதன்மை இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சியான FACETS Sri Lanka இம்முறை 31ஆவது தடவையாக ஏற்பாடு செய்யப்பட்டுள்ளதுடன், சீனா,இந்தியா, ஐக்கிய அமெரிக்கா, ஐரோப்பா மற்றும் பல நாடுகளின் பிரதிநிதிகளும் இந்த கண்காட்சியில் கலந்துகொண்டுள்ளனர்.
-
-...
-
-[Data](articles/ce9a4125.json)
-
----
-
-### ජාත්‍යන්තර මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනයට ජනපති එක්වෙයි
-
-*2025-01-04 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205024) · `si`
-
-ජාත්‍යන්තර "FACETS Sri Lanka - 2025"   මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය  ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් කොළඹ පුද්ගලික හෝටලයේදී අද (04) ආරම්භ විය.
-
-ශ්‍රී ලංකා මැණික් හා ස්වර්ණාභරණ සංගමය (SLGJA), ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරිය හා අපනයන සංවර්ධන මණ්ඩලය (EDB) සමඟ එක්ව සංවිධානය කරනු ලබන FACETS Sri Lanka අන්තර්ජාතික මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය අද සිට  06 වැනිදා දක්වා පැවැත්වේ.
-
-ආසියාවේ ප්‍රමුඛතම මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය වන FACETS Sri Lanka මෙවර පැවැත්වෙන්නේ 31වන වරට වන අතර චීනය, ඉන්දියාව, එක්සත් ජනපදය, යුරෝපය සහ තවත් බොහෝ රටවල නියෝජිතයින් ඊට එක්වී සිටී.
-
-ශ්‍රී ලංකාවට ප්‍රථමවරට පැමිණෙන ලොව පුරා කීර්තිමත් මැණික් හා ස්වර්ණාභරණ සමාගම්වල නියෝජිතයන් රැසක් ද ප්‍රදර්ශනයට සහභාගී වී සිටින අතර රත්නපුර, ඇළහැර, බේරුවල, ඇහැලියගොඩ, ගාල්ල සහ කොළඹ වැනි දේශීය කර්මාන්ත මැණික් ගැරුම්කරුවන් රැසක්ද මේ සහභාගි වී සිටියි.
-
-...
-
-[Data](articles/4cc668fe.json)
-
----
-
-### එල්ලවන චෝදනාවලට බන්ධනාගාරයෙන් ප්‍රතිචාර
-
-*2025-01-04 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205023) · `si`
-
-බූස්ස අධිආරක්ෂිත බන්ධනාගාරයේ රැඳවියන්ට තහනම් ද්‍රව්‍ය ලබාදීම සම්බන්ධයෙන් බන්ධනාගාර නිලධාරීන් මෙන්ම පොලිස් විශේෂ කාර්ය බලකා නිලධාරීන්ද අත්අඩංගුවට ගෙන ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ගාමිණි.බී. දිසානායක මහතා පවසයි.
-
-මේ අතර බන්ධනාගාරගතව සිටින ඇතැම් රැඳවියන්ට විශේෂ පහසුකම් සලසා ඇති බවට සිරකරු අයිතිවාසිකම් සුරැකීමේ කමිටුව ඊයේ සිදුකළ චෝදනාව සම්බන්ධයෙන් සහ යකඩ දම්වැලක සවිකළ මාංචු සැකකරුවන්ගේ දෑත්වලට දමා අධිකරණයට ඉදිරිපත් කිරීම සම්බන්ධයෙන්ද ඔහු මෙහිදී අදහස් දැක්වීය.
-
-◼️
-
-[Data](articles/dbaf6209.json)
 
 ---

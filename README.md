@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-05 22:02:54**
+As of **2025-01-05 22:16:25**
 
 ## Newspaper Stats
 
-*Scraped **63,810** Articles*
+*Scraped **63,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,116 @@ islandlk | 3,890
 dailyftlk | 4,430
 dailymirrorlk | 4,733
 adalk | 6,094
-adaderanalk | 7,807
+adaderanalk | 7,808
 tamilmirrorlk | 9,153
-virakesarilk | 10,659
-adaderanasinhalalk | 11,017
+virakesarilk | 10,660
+adaderanasinhalalk | 11,020
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,810 articles have been extended.
+61,971 (97.1%) of 63,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-05 (Sunday)
+
+### අස්වැන්නට හානි කරන පණු උවදුරක්
+
+*2025-01-05 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205062) · `si`
+
+පසුගිය සමයේ ස්වභාවික ආපදා ඇතුළු අර්බුද රැසකින් පීඩාවට පත්ව සිටි වී ගොවීන්ට අද වනවිට තවත් උවදුරකට මුහුණ දීමට සිදුව තිබේ.
+
+ඒ, ප්‍රදේශ රැසක වී වගාවට හඳුනානොගත් පණුවන් විශේෂයකින් හානි වීම හේතුවෙනි.
+
+අනුරාධපුරය දිස්ත්‍රික්කයේ, අනුරාධපුරය, ඔයාමඩුව, විලච්චිය වැනි ප්‍රදේශවල කඹුරුවලට මෙම පණු උවදුර හේතුවෙන් දැඩි බලපෑම් එල්ල වී ඇත.
+
+ගොවීන් පෙන්වා දෙන්නේ, විවිධ කෘමිනාශක භාවිත කළද පණු උවදුර මර්දනය කළ නොහැකි බවය.
+
+එමෙන්ම ගොවීන් පවසන්නේ පණු උවදුර හේතුවෙන් සිය අස්වැන්න ශීඝ්‍රයෙන් පහළ යාමේ අවදානමක් ඇති බවය.
+
+මෙම පණු උවදුර මැඩපැවැත්වීමට වගකිවයුතු අංශ කඩිනමින් ක්‍රියාත්මක නොවුණහොත් එය සෙසු ප්‍රදේශවලටද ව්‍යාප්ත විය හැකියාවක් පවතී.
+
+◼️
+
+[Data](articles/82dcd07b.json)
+
+---
+
+### Paddy farmers face new crisis as unidentified worm species devastate crops
+
+*2025-01-05 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104741/paddy-farmers-face-new-crisis-as-unidentified-worm-species-devastate-crops) · `en`
+
+Sri Lanka’s paddy farmers, already reeling from a series of crises, including recent heavy rainfall and wildlife intrusions, are now grappling with a new and alarming threat—an outbreak of an unidentified species of worms devastating their crops.
+
+This pest infestation has been reported in several areas, compounding the woes of farmers who were already struggling to recover from the destruction caused by recent floods.
+
+The flooding left many paddy fields buried under layers of sand, forcing farmers to undertake the arduous task of clearing their lands while navigating a cumbersome process to claim compensation for their losses.
+
+Adding to their plight, wild elephants have been reported to cause significant damage to crops in various parts of the island, further jeopardizing livelihoods.
+
+...
+
+[Data](articles/2cf3abb9.json)
+
+---
+
+### இந்த வருடத்தில் சுற்றுலா பயணிகளின் எண்ணிக்கையை மூன்று மில்லியனாக அதிகரிப்பதே எமது திட்டம் - அமைச்சர் விஜித்த ஹேரத் தெரிவிப்பு
+
+*2025-01-05 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/203064) · `ta`
+
+சுற்றுலாத்துறை என்பது வெறுமனே கைத்தொழில் மாத்திரமல்ல. அது எமது நாட்டின் கலை, கலாசாரத்தை உலகுக்கு கொண்டுசெல்லும் மத்திய நிலையமாகும். அதனால் சுற்றுலா துறையை கிராமிய மக்களுடனும் தொடர்புபடுத்துவதே எமது திட்டமாகும். அதேநேரம் இந்த வருடத்தில் மூன்று மில்லியன் சுற்றுலா பயணிகளை நாட்டுக்கு கொண்டுவருவதே எமது இலக்காகும் என வெளிவிவகார, சுற்றுலாத்துறை மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
+
+பெந்தொட்டை பிரதேசத்தில் நிர்மாணிக்கப்பட்டுள்ள ஆயுர்வேத நிலையம் ஒன்றை சனிக்கிழமை (4)  ஆரம்பித்துவைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+நாட்டின சுற்றுலாத்துறை வேகமாக முன்னேறிச் செல்கிறது. கடந்த டிசம்பர் 31ஆம் திகதி, இந்த வருடத்தின் சுற்றுலா பயணிகளின் வருகை இலக்கான 2மில்லியனை பூரணப்படுத்தியுள்ளோம். அதனால் இந்த வருடம் அந்த எண்ணிக்கையை 3மில்லியன் வரை அதிகரித்துக்கொள்னவே நாங்கள் எதிர்பார்க்கிறோம்.
+
+...
+
+[Data](articles/b80c42e2.json)
+
+---
+
+### අතරමග නතර වුණ දේවාලේ දේව කාර්යය
+
+*2025-01-05 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205061) · `si`
+
+සබරගමුව මහ සමන් දේවාලයට වැඩබලන බස්නායක නිලමේවරයෙක් පත්කිරීම සම්බන්ධයෙන් එම දේවාලයේ රාජකාරි මණ්ඩලයෙන් විරෝධයක් එල්ල විය.
+
+ඔවුන් පවසන්නේ සම්ප්‍රදායට එරෙහිව, දේශපාලන වුවමනාව මත එම පත්කිරීම සිදුකර ඇති බවටය.
+
+හිටපු බස්නායක නිලමේවරයාගේ ධුර කාලය අවසන් වීමෙන් පසු ස්ථිර බස්නායක නිලමේවරයෙක් පත්කරන තෙක් එස්.වී. චන්ද්‍රසිංහ මහතා වැඩබලන බස්නායක නිලමේ ලෙස පත්කිරීමට බෞද්ධ කටයුතු කොමසාරිස්වරයා පියවර ගෙන තිබුණි.
+
+එම පත්කිරීම සම්ප්‍රදායට එරෙහි බවටත් , එම පුද්ගලයා වත්මන් ආණ්ඩුවේ හිතවතෙකු බවටත් චෝදනා කරමින් දේවාලයේ කපු මහත්වරුන් ප්‍රමුඛ රාජකාරී මණ්ඩලය තේවා ඇතුළු රාජකාරී කටයුතු වලින් අද ඉවත් විය.
+
+අනතුරුව ඔවුන් සමන් දේවාලයේ පිවිසුම් දොරකඩ අසලට පැමිණ නිහඬ විරෝධතාවක නිරත විය.
+
+◼️
+
+[Data](articles/3399d455.json)
+
+---
+
+### උකුස්සා හෙළිකළ කළුගඟ ඉස්මත්තේ ජාවාරම
+
+*2025-01-05 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205060) · `si`
+
+හොරණ වගවත්ත ප්‍රදේශය කළුගඟ අසළ පිහිටා තිබෙන ස්වභාවික සම්පත්වලින් අනූන වූ භූමි ප්‍රදේශයක්.
+
+එය කෙතරම් සුන්දර වුවත් එහි ඇති ස්වභාවික සම්පත්වල වටිනාකම් පිළිබඳ කිසිදු තැකීමක් නොමැතිව ඉතා අවිධිමත් අයුරින් සිදුකරන පස් ජාවාරමක් සම්බන්ධයෙන් 'අද දෙරණ උකුස්සාට' තොරතුරු අනාවරණ විය.
+
+පසුව 'අද දෙරණ උකුස්සා', භූ විද්‍යා හා පතල් කාර්යාංශයේ නිලධාරින් සහ පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් ද සමඟ එම භූමි ප්‍රදේශය පිහිටා ඇති හොරණ වගවත්තට ගියේ මෙම ජාවාරම එය සිදුවන අවස්ථාවේදීම නීතියේ රැහැනට හසුකර ගැනීම සඳහාය.
+
+ඒ අනුව අක්කර 50කට ආසන්න භූමි ප්‍රදේශයේ එක් කොටසකට ඇතුළුවන විට අපට දක්නට ලැබුණේ ඉතා විශාල පස්කඳු එහි ගොඩගසා ඇති ආකාරයයි.
+
+එහිදී භූ විද්‍යා හා පතල් කැණීම් කාර්යාංශයේ නිලධාරින් අදාළ පිරිසේ කැණීම් බලපත්‍රය පරීක්ෂා කළ විට අනාවරණ වුණේ මැණික් ගැරීම සිදුකර අදාළ වළවල් එම පස් මගින්ම වසා දැමිය යුතුයි යන කොන්දේසිය මුල් කරගනිමින් ඔවුන්ට මැණික් ගැරීම සඳහා පමණක් බලපත්‍රයක් ලබාදී ඇති බවයි.
+
+...
+
+[Data](articles/a5bc04e8.json)
+
+---
 
 ### தைப்பொங்கல் பண்டிகைக்கு பொங்கல் தயார் செய்ய அரிசி தட்டுப்பாடு - புறக்கோட்டை அரிசி மொத்த வியாபாரிகள்
 
@@ -1585,95 +1681,5 @@ Many facts and figures such as architect Booth, of Booth, Edward, and Reid, clai
 ...
 
 [Data](articles/38fc7ea7.json)
-
----
-
-### Sri Lanka Police launch special two-week traffic operations
-
-*2025-01-05 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104729/sri-lanka-police-launch-special-two-week-traffic-operations) · `en`
-
-Sri Lanka Police have taken steps to implement two traffic operations aimed at reducing road accidents and easing traffic congestion, in line with the ‘Clean Sri Lanka’ national initiative.
-
-The first operation targets vehicles with various horns, additional flashing lights of different colors, illegal modifications, loud horns, loud silencers, and additional parts that could contribute to accidents and road hazards.
-
-The second operation will involve deploying police officers dressed in civil clothing to identify traffic violations committed by drivers of public transport buses and enforce law for those violations, according to police.
-
-These operations were implemented as a two-week pilot project from yesterday (January 4) until January 19, with the objective of raising awareness among motorists and the public.
-
-...
-
-[Data](articles/6ed924eb.json)
-
----
-
-### சிறைக்கைதிகளை நீதிமன்றங்களுக்கு  அழைத்துவருவதில் புதிய நடைமுறை -  சிறைச்சாலைகள் ஊடகப் பேச்சாளர்
-
-*2025-01-05 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/202986) · `ta`
-
-சிறைச்சாலைகளில் தடுத்து வைக்கப்பட்டுள்ள சிறைக்கைதிகளை இரும்பு சங்கிலியால் பிணைத்து நீதிமன்றத்துக்கு அழைத்து வருவதற்கு பதிலாக அவர்களின் பாதுகாப்பை உறுதி செய்து புதிய நடைமுறையை பின்பற்ற எதிர்பார்த்துள்ளதாக சிறைச்சாலைகள் ஊடகப் பேச்சாளர் காமினி பி.திசாநாயக்க தெரிவித்தார்.
-
-சிறைச்சாலைகளில் தடுத்து வைக்கபட்டுள்ளவர்களும் மனிதர்கள் எனவும் அவர்களை விலங்குகளை போன்று சங்கிலியால் பிணைத்து நீதிமன்றத்திற்கு அழைத்து வர வேண்டாம் என்றும் கொழும்பு மேலதிக நீதவான் பசன் அமரசேன சிறைச்சாலை அதிகாரிகளுக்கு அண்மையில் கடுமையாக எச்சரிக்கை விடுத்திருந்தார்.
-
-அவ்வாறு சந்தேகநபர்களை நீதிமன்றத்துக்கு அழைத்து வந்து மன்றில் முன்னிலைப்படுத்துவதை தாம் விரும்பவில்லை என்றும் அவர்களை மனிதர்களாகவும் மதித்து செயற்படுங்கள் என்றும் நீதவான் சிறைச்சாலை அதிகாரிகளை வலியுறுத்தியிருந்தார்.
-
-இந்நிலையில் எதிர்காலத்தில் சிறைக்கைதிகளை மன்றில் முன்னிலைப்படுத்தும் போது பின்பற்றப்படவுள்ள வழிமுறை தொடர்பில் வினவிய போதே அவர் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/08408f23.json)
-
----
-
-### நாய்களுடன் அரிசி: சாரதி கைது
-
-*2025-01-05 11:23:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நாய்களுடன்-அரிசி-சாரதி-கைது/76-349771) · `ta`
-
-இரண்டு நாய்களுடன் அரிசி மூடைகளை கொண்டு வந்த போது பலாங்கொடை பொது பாதுகாப்பு பரிசோதகர்கள் உதவியாளருடன் சாரதி கைது செய்யப்பட்டார். லொறியும் தடுத்துவைக்கப்பட்டுள்ளது.பலாங்கொடை நகரில் உள்ள கடைகளுக்கு விநியோகம் செய்வதற்காகவே இந்த அரிசி மூடைகள் கொண்டுவரப்பட்டுள்ளன.
-
-.பலாங்கொடை நகரின் பிரதான பேருந்து நிலையத்திற்கு அருகில் உள்ள கடையொன்றிற்கு அருகில் லொறி நிறுத்தி அரிசி மூட்டைகளை இறக்க முற்பட்ட போது, ​​லொறியில் அரிசி மூட்டைகளுக்கு இடையில் இரண்டு நாய்கள் இருப்பதை கண்ட நகரை சேர்ந்த நபர் ஒருவர் அதனை தனது கைத்தொலைபேசியில் வீடியோ எடுத்து பொது பாதுகாப்பு பரிசோதர்களுக்கு அனுப்பியுள்ளார்.
-
-இந்த லொறியில் இருபத்தி ஒரு இலட்சம் ரூபாவிற்கும் அதிக விலைக்கு விற்கப்படும்  அரிசி கையிருப்பு இருந்ததாகவும், இந்த லொறி திஸ்ஸமஹாராமவில் உள்ள அரிசி ஆலைக்கு சொந்தமானது எனவும் விசாரணைகளை மேற்கொண்ட அதிகாரிகள் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/d7a8479d.json)
-
----
-
-### Sri Lanka tyre maker plan slammed after minister reveals import control demand
-
-*2025-01-05 11:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-tyre-maker-plan-slammed-after-minister-reveals-import-control-request-198000/) · `en`
-
-ECONOMYNEXT – Hundreds of online followers of Trade Minister Wasantha Samarasinghe slammed domestic tyre producers after he revealed a request to further control imports, saying it will lead to a Rajapaksa administration style exploitation of consumers by protectionist businessmen.
-
-Local tyre makers had asked for import controls as there were ‘more than enough’ locally made products, and after that prices would be brought down, Minister Samarasinghe said in a facebook.com post.
-
-Local tyre producers had also claimed that, “millions of dollars” were being spent on imported tyres.
-
-Sri Lanka has forex shortages since the setting up of a central bank with a flawed operating framework (OF) in 1951 which had led to both import and exchange controls, analysts have said.
-
-There were almost 700 replies to the post, with almost all pointing out that it was a typical plan of vested interests to limit competition and exploit consumers.
-
-...
-
-[Data](articles/ff883a71.json)
-
----
-
-### அம்பாறையில் 5000 ரூபா போலி நாணயத்தாள்களுடன் மூன்று இளைஞர்கள் கைது
-
-*2025-01-05 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/202991) · `ta`
-
-அம்பாறை - தமன, வனகமுவ பிரதேசத்தில் தொலைப்பேசி விற்பனை செய்யும் இடம் என்ற போர்வையில் 5000 ரூபா போலி நாணயத்தாள்களை அச்சடிக்கும் நிலையமாக இயங்கிவரும் வீடொன்று சுற்றிவளைக்கப்பட்டு, மூன்று சந்தேக நபர்கள் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட மூன்று இளைஞர்களும் 29 - 20 வயதுக்குட்பட்டவர்கள் எனவும், அவர்கள் போதைப்பொருள் பாவனைக்கு அடிமையானவர்கள் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
-
-போலி நாணயத்தாள்களை அச்சடிப்பதற்கு பயன்படுத்தப்பட்ட மடிக்கணினி உட்பட பல உபகரணங்கள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-மேலும், அவ்வீட்டில் மூன்று ஏ4 அளவிலான கடதாசிகள், அச்சடிக்கப்பட்டு கத்தரிக்கப்படாத 10 போலியான 5000 ரூபா நாணயத்தாள்கள் முதலியவற்றையும் அதிகாரிகள் கண்டெடுத்துள்ளனர்.
-
-◼️
-
-[Data](articles/0382d598.json)
 
 ---

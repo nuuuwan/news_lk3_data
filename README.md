@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 07:32:17**
+As of **2025-01-06 08:07:54**
 
 ## Newspaper Stats
 
-*Scraped **63,864** Articles*
+*Scraped **63,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,886
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,096
+adalk | 6,097
 adaderanalk | 7,809
-tamilmirrorlk | 9,156
+tamilmirrorlk | 9,157
 virakesarilk | 10,663
 adaderanasinhalalk | 11,023
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.0%) of 63,864 articles have been extended.
+61,971 (97.0%) of 63,866 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -87,6 +87,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/22f32e74.json)
+
+---
+
+### கஞ்சாவுடன் 3 இளைஞர்கள் கைது
+
+*2025-01-06 04:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சாவுடன்-3-இளைஞர்கள்-கைது/175-349822) · `ta`
+
+யாழ். வல்வெட்டித்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கஞ்சாவுடன் மூன்று இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+காங்கேசன்துறை குற்றத் தடுப்புப் பிரிவு பொறுப்பதிகாரி மு.உதயானந்தன் தலைமையிலான குழுவினர் மேற்கொண்ட நடவடிக்கையின்போதே அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களில் ஒருவர் சில தினங்களுக்கு முன்னர் அதே பொலிஸாரால் அதே பகுதியில் வைத்து கஞ்சாவுடன் கைது செய்யப்பட்டிருந்த நிலையில், நீதிமன்றத்தால் பிணையில் விடுவிக்கப்பட்டிருந்தார் என்பது குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/0ec3696c.json)
 
 ---
 
@@ -459,6 +475,24 @@ Prof. Gunasekera was Professor of Economics and Head of the Department of Econom
 ...
 
 [Data](articles/3f56001f.json)
+
+---
+
+### උතුරු පළාතෙන් අත්අඩංගුවට ගත් විශාලම නීතිවිරෝධී කෘමිනාශක තොගය
+
+*2025-01-05 23:22:00* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-පළාතෙන්-අත්අඩංගුවට-ගත්-විශාලම-නීතිවිරෝධී-කෘමිනාශක-තොගය/11-414027) · `si`
+
+ශ්‍රී ලංකාවේ භාවිතයට නුසුදුසු ශ්‍රී ලංකාවේ ලියාපදිංචි නොකරන ලද විදේශීය රටක නිශ්පාදිත රුපියල් මිලියන 50ක් පමණ වටිනා කෘමිනාශක තොගයක් යුද හමුදා බුද්ධි අංශයට ලද තොරතුරක් අනුව අත්අඩංගුවට ගෙන තිබේ.
+
+උතුරු පළාතෙන් මෙතෙක් අත්අඩංගුවට ගන්නා ලද විශාලම කමිනාශක තොගය ලෙස මෙම අත්අඩංගුවට ගනිම සැලකෙයි.
+
+යුද හමුදා බුද්ධි අංශය හා පොලිස් විශේෂ කාර්ය බලකාය ඒක්ව කළ වැටලිමකදි වෙලනේ හතරවන කොටසේදි පෙරේදා මෙම අත්අඩංගුවට ගැනිම සිදුකර තිබේ.
+
+අත්අඩංගුවට ගත් කමිනාශක තොගය හා සැකකරුවන් තිදෙනෙක් වැඩිදුර පරික්ෂණ සඳහා කයිට්ස් පොලිසියට භාර දි තිබේ.
+
+◼️
+
+[Data](articles/9a25a4a3.json)
 
 ---
 
@@ -1681,33 +1715,5 @@ According to reports, the statement in question contained allegations that Rajak
 ◼️
 
 [Data](articles/2d072072.json)
-
----
-
-### ත්‍රිපෝෂ සමාගම ගැන රජයේ තීරණය මෙන්න
-
-*2025-01-05 15:00:21* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිපෝෂ-සමාගම-ගැන-රජයේ-තීරණය-මෙන්න/11-414011) · `si`
-
-ත්‍රිපෝෂ සමාගම මෙරට ජනතාවගේ පෝෂණ අවශ්‍යතා සම්පූර්ණ කිරීම වෙනුවෙන් නව්‍යකරණයට ලක්කර සංවර්ධනය කරමින් රජය සතු ආයතනයක් ලෙස අඛණ්ඩව පවත්වාගෙන යාමට රජය තීරණය කර තිබේ.
-
-සෞඛ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතාගේ  ප්‍රධානත්වයෙන් ඊයේ(04දා)  ත්‍රිපෝෂ සමාගමේ වත්මන් තත්ත්වය සහ එහි ඉදිරි සංවර්ධන කටයුතු පිළිබඳ අදාළ නිලධාරීන් සමග පැවැත්වූ සාකච්ඡාවකදී මේ බව සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/a11653c6.json)
-
----
-
-### IIHS launches new degree programs to empower healthcare professionals
-
-*2025-01-05 14:55:00* · [`islandlk`](http://island.lk/iihs-launches-new-degree-programs-to-empower-healthcare-professionals/) · `en`
-
-The International Institute of Health Sciences (IIHS)has introduced a range of new degree courses for health professionals, including nurses and midwives, said a release.
-
-These programmes, in partnership with Asia e University in Malaysia, offer locally and internationally recognized qualifications in fields such as nursing, pharmaceuticals, public health, dental therapy, and food and environmental science.
-
-...
-
-[Data](articles/e2ac33fa.json)
 
 ---

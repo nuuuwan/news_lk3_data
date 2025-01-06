@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 13:27:44**
+As of **2025-01-06 13:45:08**
 
 ## Newspaper Stats
 
-*Scraped **63,936** Articles*
+*Scraped **63,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 670
-economynextcom | 3,890
+economynextcom | 3,892
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,103
+adalk | 6,104
 adaderanalk | 7,820
-tamilmirrorlk | 9,172
+tamilmirrorlk | 9,173
 virakesarilk | 10,684
 adaderanasinhalalk | 11,034
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,936 articles have been extended.
+61,971 (96.9%) of 63,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### பௌர்ணமி இரவில் சிகிரியாவைப் பார்வையிடலாம்
+
+*2025-01-06 13:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌர்ணமி-இரவில்-சிகிரியாவைப்-பார்வையிடலாம்/175-349855) · `ta`
+
+வரலாற்றுச் சிறப்புமிக்க சிகிரியா குன்றை போயா பௌர்ணமி இரவுகளில் சுற்றுலாப் பயணிகளுக்காக திறக்க சுற்றுலா அமைச்சு தீர்மானித்துள்ளது.
+
+பௌர்ணமி தினத்தை இலக்காகக் கொண்டு மாதத்திற்கு ஐந்து நாட்கள் 'நிலவில் சிகிரியா' என்ற வேலைத்திட்டம் அமுல்படுத்தப்படவுள்ளது.
+
+அதன்படி, சுற்றுலாப் பயணிகள் பௌர்ணமி தினத்திற்கு இரண்டு நாட்களுக்கு முன், பௌர்ணமி தினத்தன்று மற்றும் அதற்கு 2 நாட்களுக்குப் பின் என சீகிரியாவை இரவு நேரத்தில் பார்வையிட முடியும்.
+
+◼️
+
+[Data](articles/27938905.json)
+
+---
 
 ### மற்றொரு வினாத்தாளும் கசிவு - எடுக்கப்பட்ட அதிரடி நடவடிக்கை
 
@@ -186,6 +202,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka’s Advocata Institute conference to discuss driving economic growth
+
+*2025-01-06 12:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-advocata-institute-conference-to-discuss-driving-economic-growth-198222/) · `en`
+
+ECONOMYNEXT – The Advocata Institute conference ‘Ignite Growth: Pathways to Sustainable Economic Growth’ is set to discuss innovative approaches to accelerate productivity and drive economic growth, the policy think-tank said.
+
+“Sri Lanka stands at a pivotal moment, transitioning from crisis to growth. Early signs of stabilisation offer a promising outlook for economic recovery, but significant challenges remain,” Advocata said.
+
+The #ResetNow Conference scheduled for January 22 and 23 will focus on the transformative potential of productivity efficiency through evolving business models, lean management practices, and operational improvements.
+
+It will also serve as a platform to mainstream productivity-enhancing ideas across political parties, the media, and the general public.
+
+“Economic growth is not just an aspiration; it is the only viable path to overcoming the current crisis and ensuring sustainable debt management.”
+
+...
+
+[Data](articles/204e46db.json)
+
+---
+
 ### ஈழத்தமிழர் பிரச்சினைகளை தீர்ப்பதற்கான அரசியல் நல்லெண்ணத்தை எடுத்துக்காட்டும் சமிக்ஞைகளை தேசிய மக்கள் சக்தி இதுவரை வெளியிடவில்லை - குமார் பொன்னம்பலம் நினைவுப்பேருரையில் பேராசிரியர் ரகுராம்
 
 *2025-01-06 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/203097) · `ta`
@@ -201,6 +237,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d1059ea9.json)
+
+---
+
+### WHO commends Sri Lanka deinstitutionalization approach on mental health
+
+*2025-01-06 12:07:00* · [`economynextcom`](https://economynext.com/who-commends-sri-lanka-deinstitutionalization-approach-on-mental-health-198209/) · `en`
+
+ECONOMYNEXT – The World Health Organization has commended Sri Lanka’s focus on expanding community-based networks
+
+In its 2024 annual report, the world health body said Sri Lanka’s focus on expanding community-based networks and deinstitutionalization is a notable action.
+
+“By transitioning from long-stay institutional care to community-based services, Sri Lanka aims to provide individuals with greater autonomy and support within their communities.”
+
+In 2024, WHO launched several country support initiatives aimed at enhancing mental health services across the region.
+
+The WHO’s Paro Declaration on universal access to people-centred mental health care and services, which advocates for revolutionary changes in mental health care, prioritizes wellbeing over disease-centred approaches.
+
+– Person-centred care: shifting the focus from diagnosis and treatment to prevention, lifestyle and early interventions
+
+...
+
+[Data](articles/63e7d662.json)
 
 ---
 
@@ -393,6 +451,20 @@ The North Central Province Education Secretary further stated that the examinati
 ...
 
 [Data](articles/8c8544a9.json)
+
+---
+
+### 2024දී නාවික හමුදාව රු. මි. 28158 ක මත්ද්‍රව්‍ය සහ මත්පෙති අල්ලලා
+
+*2025-01-06 11:08:21* · [`adalk`](https://www.ada.lk/breaking_news/2024දී-නාවික-හමුදාව-රු--මි--28158-ක-මත්ද්‍රව්‍ය-සහ-මත්පෙති-අල්ලලා/11-414030) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව මෙරට නීතිය ක්‍රියාත්මක කිරීමේ ආයතන සහ කලාපීය සමුද්‍රීය පාර්ශවකරුවන් හා එක්ව පසුගිය වර්ෂය තුල (2024) සිදුකල මෙහෙයුම් මඟින් මත්ද්‍රව්‍ය හා මත්පෙති ජාවාරම්, අනවසර භාණ්ඩ ජාවාරම් සහ අනවසර සංක්‍රමණ ඇතුළු නීති විරෝධී කටයුතු සිදුකල දේශීය හා විදේශීය පුද්ගලයින් 407 ක් සමඟ, රුපියල් මිලියන 28158 කට අධික දළ වීථි වටිනාකමකින් යුත් මත්ද්‍රව්‍ය හා මත්පෙති ඇතුළු අනවසරයෙන් මෙරටට රැගෙන ඒමට උත්සහ කල භාණ්ඩ විශාල තොගයක් නීතියේ රැහැනට හසුකරදීමට සමත් විය.
+
+මෙරට සාගර කලාපය ඔස්සේ සිදුකෙරෙන මත්ද්‍රව්‍ය ජාවාරම ඇතුළු නීති විරෝධී කටයුතු මැඩපැවැත්වීම උදෙසා ශ්‍රි ලංකා නාවික හමුදාව, කලාපීය සමුද්‍රීය පාර්ශවයන් හා එක්ව සාගර කලාපය නිරන්තර ආවේක්‍ෂණය කරමින් මෙහෙයුම් සිදුකරනු ලබයි.
+
+...
+
+[Data](articles/5a1e05a0.json)
 
 ---
 
@@ -1771,61 +1843,5 @@ Having left the supermarket I was driving back home which is about 300 metres al
 ...
 
 [Data](articles/e9f15d1f.json)
-
----
-
-### AKD and Clean Sri Lanka project: Good start but much more needed to done at ground level
-
-*2025-01-05 22:05:31* · [`dailyftlk`](https://www.ft.lk/columns/AKD-and-Clean-Sri-Lanka-project-Good-start-but-much-more-needed-to-done-at-ground-level/4-771408) · `en`
-
-AKD says the first step is by helping people to appreciate the value of their own life so that they will learn to value the lives of others
-
-Literarily, the cleaning of Sri Lanka means conscious efforts taken to rid the physical environment of hazardous polluting matters. But the project proposed by AKD is much more than this literary meaning. According to him, the project, in addition to cleaning the environment, aspires to inculcate a new value system among Sri Lankans. But how should that be done? AKD says the first step is by helping people to appreciate the value of their own life so that they will learn to value the lives of others. Then, each one in society will develop empathy, concern, and consideration for one another
-
-...
-
-[Data](articles/1afa18ef.json)
-
----
-
-### Clean minds essential for a Clean Sri Lanka
-
-*2025-01-05 22:00:37* · [`dailyftlk`](https://www.ft.lk/columns/Clean-minds-essential-for-a-Clean-Sri-Lanka/4-771407) · `en`
-
-The first and most important phase of the renaissance of the country must be the cleansing of the minds of the people
-
-While decades of decay will necessarily take time and a generational shift to achieve the President’s ultimate vision, the immediate picking of low hanging fruit is a promising start. Such pickings could take the form of keeping the physical environment clean, instilling road traffic and pedestrian discipline, practicing courteous behaviour towards each other and even improving public hygiene. Even something simple as a pleasant smile can evoke a sense of national wellbeing. Constant and reinforced messaging regarding bribery and corruption at the low levels supported by processes and mechanisms for bringing such acts to public attention and shaming the perpetrators
-
-...
-
-[Data](articles/a7e100fb.json)
-
----
-
-### IMC Campus holds Annual Graduation Ceremony at BMICH
-
-*2025-01-05 21:52:00* · [`islandlk`](http://island.lk/imc-campus-holds-annual-graduation-ceremony-at-bmich/) · `en`
-
-IMC Campus held its Annual GraduationCeremony on the 14th of December 2024, at the Bandaranaike Memorial International Conference Hall (BMICH) in affiliation with the IIC University of Technology. The ceremony was honored by the presence of the Chief Guest Prof. (Mrs) G.A.Sanjeewanie Ginigaddara (Former Vice Chancellor of Rajarata University, Dr. Kavya Jayakody (Founder/Director of IMC Campus), Dr. Engineer. Priyantha Morapitiya (Senior Lecturer), Dr. Pradeep Edward (Director/General Manager of Hemas Capital Hospital), Dr Dhanushka Wickramarathne (Head of Business Development, Internaional Relations, Climate & Geospatial EngineerinG of CESL) and Dr. Keerthi Nawarathne (Deputy Director General of Sri Lanka Institute of Advance Technological Education)
-
-Over 160 students were awarded their Bachelors, Masters and Doctoral Studies by the dignitaries present.
-
-...
-
-[Data](articles/e74064f2.json)
-
----
-
-### Ogilvy’s Geometry Global becomes only SL agency to win at global Epica Awards 2024
-
-*2025-01-05 21:51:00* · [`islandlk`](http://island.lk/ogilvys-geometry-global-becomes-only-sl-agency-to-win-at-global-epica-awards-2024/) · `en`
-
-Geometry Global, a Strategic Business Unit of the Ogilvy Group Sri Lanka, achieved a significant milestone as Sri Lanka’s only agency to be recognised at the prestigious Epica Awards 2024. The agency secured a Bronze in the ‘Public Interest – Social Advocacy’ category for its meaningful ‘Books that Keep on Giving’ campaign for ProMate (Printxcel), a leading stationery manufacturer in Sri Lanka.
-
-The Epica Awards are the only global creative awards judged by journalists from the marketing and communications industry, with the 2024 winners being evaluated in Paris by a jury of editors and media personnel from across Europe and the United States.
-
-...
-
-[Data](articles/f2c68ee6.json)
 
 ---

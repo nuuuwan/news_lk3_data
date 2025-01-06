@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 03:02:10**
+As of **2025-01-07 03:13:09**
 
 ## Newspaper Stats
 
-*Scraped **64,040** Articles*
+*Scraped **64,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
 islandlk | 3,906
-dailyftlk | 4,459
+dailyftlk | 4,467
 dailymirrorlk | 4,733
 adalk | 6,119
 adaderanalk | 7,838
@@ -26,11 +26,147 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,040 articles have been extended.
+61,971 (96.8%) of 64,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### President, AG discuss expediting controversial legal cases
+
+*2025-01-07 02:54:34* · [`dailyftlk`](https://www.ft.lk/news/President-AG-discuss-expediting-controversial-legal-cases/56-771504) · `en`
+
+President Anura Kumara Dissanayake yesterday held a discussion with the Attorney General and his officials on the need to expedite controversial and high profile legal cases.
+
+During the discussion, the President emphasised the importance of coordinated efforts among all institutions working towards the effective enforcement of the law.
+
+...
+
+[Data](articles/132c8c62.json)
+
+---
+
+### FSP urges Govt. to stop dancing to IMF’s tunes
+
+*2025-01-07 02:52:55* · [`dailyftlk`](https://www.ft.lk/news/FSP-urges-Govt-to-stop-dancing-to-IMF-s-tunes/56-771503) · `en`
+
+FSP Propaganda Secretary and People’s Struggle Alliance National Executive Member Duminda Nagamuwa
+
+Claims elders have an income reduction of 55% due to adhoc taxes
+
+Questions why Govt. allowed IMF to open offices in Ministry of Finance, Central Bank, and Department of Income Tax
+
+Alleging the National People’s Power (NPP) Government is exerting a huge burden on ordinary people, including the pensioners through its adhoc tax policies, the Frontline Socialist Party (FSP) is urging the Government to implement a people-friendly economic policy as pledged at NPP’s election platforms.
+
+“It is very clear that the Government has overlooked people’s interests and is dancing to the tune of the International Monetary Fund (IMF) while putting people of this country out of the frying pan into the fire by imposing unfair tax policies,” FSP Propaganda Secretary and People’s Struggle Alliance National Executive Member Duminda Nagamuwa said.
+
+...
+
+[Data](articles/5cc1fcd2.json)
+
+---
+
+### New Chairman and members appointed to Official Languages Commission
+
+*2025-01-07 02:50:40* · [`dailyftlk`](https://www.ft.lk/news/New-Chairman-and-members-appointed-to-Official-Languages-Commission/56-771502) · `en`
+
+President Anura Kumara Dissanayake has appointed Nimal R. Ranawaka as the new Chairman of the Official Languages Commission.
+
+The other members of the commission include Professor R.M.W. Rajapaksha, Professor Stanislaus Joseph Yogarajah, and Lareena Abdul Haq. The appointment letters were presented yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+◼️
+
+[Data](articles/2b59e7c6.json)
+
+---
+
+### Two new Directors appointed to Lankem Ceylon, E.B. Creasy and Laxapana Boards
+
+*2025-01-07 02:47:59* · [`dailyftlk`](https://www.ft.lk/business/Two-new-Directors-appointed-to-Lankem-Ceylon-E-B-Creasy-and-Laxapana-Boards/34-771501) · `en`
+
+Kamal Punchihewa and Shrihan Perera have been appointed as Independent Non-Executive Directors to the Boards of Lankem Ceylon PLC., E.B. Creasy and Company PLC, Lankem Developments PLC and Laxapana PLC.
+
+Kamal Punchihewa started his career at B.R. De Silva & Co. Chartered Accountants, in 1983 and was appointed as a partner in 1991.
+
+He moved to the mercantile sector as the Financial Controller of Kotagala Plantations Ltd., under George Steuarts Management Services in 1992 and in 1997 he was promoted as the Group Financial Controller of the George Steuarts Group of Companies and also as the Director Finance of George Steuart Auto Supplies Ltd.
+
+He re-joined the Plantation Sector as the General Manager – Finance of Kahawatte Plantations Ltd., in 2002.
+
+...
+
+[Data](articles/1961e4bf.json)
+
+---
+
+### Mohan and Dinesh appointed to Swisstek Board
+
+*2025-01-07 02:44:42* · [`dailyftlk`](https://www.ft.lk/business/Mohan-and-Dinesh-appointed-to-Swisstek-Board/34-771500) · `en`
+
+Swisstek (Ceylon) PLC has announced the appointment of Mohan Ratnayake and Dinesh Mendis to its Board as Independent Non-Executive Directors.
+
+Ratnayake is a Fellow member of the Chartered Institute of Management Accountants UK and has read for an MBA. He was the Chairman of the Committee which issued Sri Lanka’s first internationally listed USD Bond by a corporate entity for Sri Lanka Telecom PLC (SLT), which traded on the Singapore Stock Exchange, for the expansion of SLT and Mobitel. This was when the sovereign had not been rated by International Rating Agencies.
+
+Ratnayake currently serves as the Managing Director of Colonial Motors CeyIon Ltd., and as the Chairman of Lanka Reality Investment PLC. He is also an Independent Non-Executive Director of ACL Plastics PLC.
+
+...
+
+[Data](articles/60b49fa7.json)
+
+---
+
+### Ex-JKH Kehelpannala joins Marawila Resorts, Sigiriya Village Boards
+
+*2025-01-07 02:41:12* · [`dailyftlk`](https://www.ft.lk/business/Ex-JKH-Kehelpannala-joins-Marawila-Resorts-Sigiriya-Village-Boards/34-771499) · `en`
+
+Former John Keells Holdings’ top industry Executive Jayantissa Kehelpannala has joined the Boards of Marawila Resorts PLC., Sigiriya Village Hotels PLC and Beruwala Resorts PLC as an Independent Non-Executive Director.
+
+These companies are part of the Colombo Fort Hotels Ltd., and Marawila Resorts PLC owns Club Palm Bay.
+
+Kehelpannala counts over 40 years of experience in the Leisure Sector in Destination Management Business and Hoteliering in the John Keells Group. He was the former Executive Vice President of John Keells Group and the former Senior Vice President of Cinnamon Hotels and Resorts, overseeing the entire operation of Cinnamon properties in Maldives and the Cinnamon Group expansion. He has served on many of the Boards of John Keells leisure sector in Sri Lanka and in Maldives. He was a Board member of John Keells Hotels PLC until his retirement in December 2022. He was responsible for expansion/refurbishment of John Keells Hotels in Sri Lanka and in Maldives.
+
+...
+
+[Data](articles/5dcf2ee1.json)
+
+---
+
+### EY Sri Lanka welcomes Talal Rafi
+
+*2025-01-07 02:39:09* · [`dailyftlk`](https://www.ft.lk/business/EY-Sri-Lanka-welcomes-Talal-Rafi/34-771498) · `en`
+
+EY Sri Lanka has announced the appointment of economist and global thought leader Talal Rafi as a Director, Business Consulting.
+
+His expertise in economic policy, public finance, and ESG operations aligns with EY Sri Lanka’s focus on providing future-ready solutions to clients in a rapidly changing world.
+
+Talal’s illustrious career spans contributions as a Consultant at the Asian Development Bank and as a regular columnist for the International Monetary Fund (IMF). As a member of the Expert Network of the World Economic Forum, he has actively shaped global economic discussions while also serving as a member of the Global ESG Operations Team at one of the Big Four. His academic contributions include his role as a visiting lecturer at the Centre for Banking Studies, Central Bank of Sri Lanka.
+
+...
+
+[Data](articles/ddc09e76.json)
+
+---
+
+### CA Sri Lanka unveils comprehensive implementation roadmap for sustainability standards
+
+*2025-01-07 02:35:50* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-unveils-comprehensive-implementation-roadmap-for-sustainability-standards/34-771497) · `en`
+
+CA Sri Lanka President Heshana Kuruppu (right) at a session on sustainability standards
+
+A session on sustainability standards organised by CA Sri Lanka in progress
+
+To introduce readiness maturity assessment model in early 2025 along with the Application Guideline book Will assess adoption status of the top 100 listed companies on CSE
+
+At annual TAGS Awards ceremony, CA Sri Lanka will further evaluate and recognise companies demonstrating exemplary implementation of sustainability standards
+
+The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), in March last year unveiled a comprehensive implementation roadmap to support the adoption of the International Sustainability Standards Board’s (ISSB) global sustainability disclosure standards.
+
+The roadmap aims to guide Sri Lankan businesses in integrating these critical standards, reflecting a commitment to enhancing transparency and aligning with global sustainability requirements.
+
+...
+
+[Data](articles/7eb2449d.json)
+
+---
 
 ### Star Garments Group wins Gold at NCE Export Awards 2024
 
@@ -1643,147 +1779,5 @@ The session’s keynote address will be delivered by Dr Kyungjin Song, Country R
 ◼️
 
 [Data](articles/88e37610.json)
-
----
-
-### චීනයේ  HMPV වෛරසය ඉන්දියාවට -  ආසාදනය වූ බිළින්ඳන් දෙදෙනෙක් සොයා ගැනේ
-
-*2025-01-06 13:53:59* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ--HMPV-වෛරසය-ඉන්දියාවට----ආසාදනය-වූ-බිළින්ඳන්-දෙදෙනෙක්-සොයා-ගැනේ/11-414034) · `si`
-
-චීනයේ ව්‍යාප්ත වෙමින් පවතින HMPV වෛරසය ආසාදනය වූ දෙදෙනෙකු ඉන්දියාවෙන් සොයාගෙන තිබේ.
-
-කර්නාටක ප්‍රාන්තයේ රෝහලක සුවය ලබමින් සිටි මාස 03න් වයසැති බිළිඳෙකු සහ මාස 08ක් පමණ එම රෝහලෙන් පිටව ගිය බිළි​ඳෙකු මෙලෙස මෙම වෛරසය අසාධනය වීමෙන් සොයාගෙන ඇත.
-
-මෙලෙස අසාදනයට ලක්වූ ළදරුවන් දෙදෙනාගේ පවුල්වල සාමාජිකයින් වෙනත් කලාපවල හෝ රටවල් වල මෑත කාලීනව සංචාරය කර නොමැති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
-
-◼️
-
-[Data](articles/5f31a6b3.json)
-
----
-
-### නව පැකේජ හඳුන්වා දීම හරහා දුරකතන සමාගම් පාරිභෝගිකයින්ගේ මුදල් 'ගසා කනවා' ද?
-
-*2025-01-06 13:36:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy8wz4wr8zo) · `si`
-
-නව පැකේජ හඳුන්වා දීම හරහා දුරකතන සමාගම් පාරිභෝගිකයින්ගේ මුදල් 'ගසා කනවා' ද?
-
-මලීෂ තම මවගේ ජංගම දුරකතනය සඳහා පැකේජයක් සක්‍රීය කර තිබුණේ මීට වසර දෙකකට පමණ පෙර ය. ඒ, එවකට ඔහුගේ මව භාවිත කරමින් සිටි දුරකතන ජාලය විසින් හඳුන්වා දෙනු ලැබ තිබුණු පැකේජයකි.
-
-මෙම පැකේජය හරහා ඕනෑ ම ජාලයක් වෙත මසක කාලයක් නොමිලේ දුරකතන ඇමතුම් ලබා ගැනීමට සහ සමාජ මාධ්‍ය වෙත නොමිලේ පිවිසීමට හැකි වූ අතර, දිනකට ගිගාබයිට් එක බැගින් මසකට ගිගාබයිට් 30ක ප්‍රමාණයක් ලබා දී තිබිණි.
-
-එහි මුදල් අවසන් වූ පසු පැකේජය යළි සක්‍රීය කර ගැනීමට ඔහුට වැය කිරීමට සිදුවූ මුදල 2024 ජනවාරි 1 වන දා 15% සිට 18% දක්වා ඉහළ දැමූ එකතු කළ අගය මත බද්ද අනුව ඉහළ ගියේ ය.
-
-"මම දවස් දෙක තුනකට කලින් ගියා පැකේජ් එක දාන්න කොමියුනිකේෂන් එකට. එතකොට එතන ඉන්න කෙනා කියනවා දැන් ඒ පැකේජ් එක නැහැ, වෙනස් වෙලා තියෙන්නේ, ඒකෙ ගාණ වැඩියි කියලා," මලීෂ බීබීසී සිංහල සමග පැවසීය.
-
-ඔහු මෙම පැකේජය මීට පෙර තම මවට සක්‍රීය කර දී තිබුණේ රු. 769ක මුදලකට ය.
-
-...
-
-[Data](articles/b30099e7.json)
-
----
-
-### Parliament of Sri Lanka clarifies increased tea reception costs for inaugural session
-
-*2025-01-06 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104757/parliament-of-sri-lanka-clarifies-increased-tea-reception-costs-for-inaugural-session) · `en`
-
-The Parliament of Sri Lanka has issued a clarification regarding a recent media report claiming the “actual expenses of the tea receptions” held after the inaugural session of the Tenth Parliament.
-
-Issuing the clarification, the Parliamentary Communications Department noted that the media report highlighted that Rs. 287,340 was spent on tea receptions following the inaugural session of the Ninth Parliament on August 20, 2020, while Rs. 339,628.55 was incurred for the same event after the Tenth Parliament’s inaugural session on November 21, 2024.
-
-In response, the Parliament of Sri Lanka addressed the differences in expenditure, citing the following reasons:
-
-The four-year period between the two inaugural sessions witnessed significant market price fluctuations, the  Parliamentary Communications Department highlighted, adding that the cost of goods and services in 2024 had risen substantially, leading to a nearly 100% increase in food preparation costs compared to 2020.
-
-...
-
-[Data](articles/0295e3d3.json)
-
----
-
-### රාජ්‍ය භාෂා කොමිෂන් සභාවට නව සභාපතිවරයෙක්
-
-*2025-01-06 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205079) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් රාජ්‍ය භාෂා කොමිෂන් සභාවේ නව සභාපතිවරයා ලෙස නිමල් ආර්. රණවක මහතා පත් කර තිබේ.
-
-රාජ්‍ය භාෂා කොමිෂන් සභාවේ සෙසු සාමාජිකයින් ලෙස මහාචාර්ය ආර්. එම්. ඩ්බ්ලිව්. රාජපක්ෂ, මහාචාර්ය ජෝසප් යෝගරාජා (Stanislaus Joseph Yogarajah) යන මහත්වරු සහ ලරීනා අබ්දුල් හක් (Lareena Abdul Haq) මහත්මිය පත් කර ඇත.
-
-මීට අදාළ පත්වීම් ලිපි ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා විසින් ජනාධිපති කාර්යාලයේ දී ලබාදුනි.
-
-◼️
-
-[Data](articles/4ff20bbf.json)
-
----
-
-### මනූෂගේ සොහොයුරා යළි රක්ෂිත බන්ධනාගාර ගත කෙරේ
-
-*2025-01-06 13:31:32* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂගේ-සොහොයුරා-යළි-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-414033) · `si`
-
-හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ සොහොයුරා ලබන ජනවාරි 17 වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට ගම්පහ මහේස්ත්‍රාත් අධිකරණය අද(06දා) නියෝග කර තිබේ.
-
-ෆින්ලන්තයේ රැකියා ලබා දෙන බවට පවසා රුපියල් ලක්ෂ 30ක මූල්‍ය වංචාවක් සිදු කිරීම සම්බන්ධයෙන් හිටපු අමාත්‍යවරයාගේ සොහොයුරා වන ඉරෝෂණ නානායක්කාර පසුගියද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගනු ලැබිණි.
-
-◼️
-
-[Data](articles/2dc870c8.json)
-
----
-
-### පළමුවරට ඉන්දියාවෙන් HMPV වෛරස ආසාදිතයෙකු හමුවෙයි
-
-*2025-01-06 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205078) · `si`
-
-චීනයේ ව්‍යාප්ත වෙමින් පවතින HMPV වෛරස ආසාදිතයෙකු පළමුවරට ඉන්දියාවෙන් හඳුනාගෙන තිබේ.
-
-ඉන්දියාවේ බැංගලෝර් හි මාස 08ක් වයසැති බිළිඳෙකුට මෙම වෛරසය ආසාධනය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-පෙනහලු සහ ශ්වසන මාර්ගයට බලපාන මෙම වෛරස තත්ත්වය කුඩා දරුවන්ට වැඩිහිටියන්ට සහ ප්‍රතිශක්තිකරණය දුර්වල පුද්ගලයින්ට බලපාන බව වෛද්‍යවරුන් පෙන්වා දී ඇත.
-
-කෙසෙවෙතත් ඉන්දීය සෞඛ්‍ය විශේෂඥයින් පෙන්වා දෙන්නේ මෙම වෛරස තත්ත්වය එතරම් බරපතළ නොවනු ඇති බවය.
-
-◼️
-
-[Data](articles/6c5be854.json)
-
----
-
-### பௌர்ணமி இரவில் சிகிரியாவைப் பார்வையிடலாம்
-
-*2025-01-06 13:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌர்ணமி-இரவில்-சிகிரியாவைப்-பார்வையிடலாம்/175-349855) · `ta`
-
-வரலாற்றுச் சிறப்புமிக்க சிகிரியா குன்றை போயா பௌர்ணமி இரவுகளில் சுற்றுலாப் பயணிகளுக்காக திறக்க சுற்றுலா அமைச்சு தீர்மானித்துள்ளது.
-
-பௌர்ணமி தினத்தை இலக்காகக் கொண்டு மாதத்திற்கு ஐந்து நாட்கள் 'நிலவில் சிகிரியா' என்ற வேலைத்திட்டம் அமுல்படுத்தப்படவுள்ளது.
-
-அதன்படி, சுற்றுலாப் பயணிகள் பௌர்ணமி தினத்திற்கு இரண்டு நாட்களுக்கு முன், பௌர்ணமி தினத்தன்று மற்றும் அதற்கு 2 நாட்களுக்குப் பின் என சீகிரியாவை இரவு நேரத்தில் பார்வையிட முடியும்.
-
-◼️
-
-[Data](articles/27938905.json)
-
----
-
-### மற்றொரு வினாத்தாளும் கசிவு - எடுக்கப்பட்ட அதிரடி நடவடிக்கை
-
-*2025-01-06 13:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றொரு-வினாத்தாளும்-கசிவு-எடுக்கப்பட்ட-அதிரடி-நடவடிக்கை/175-349853) · `ta`
-
-வட மத்திய மாகாணத்தில் 11ஆம் தர தவணைப் பரீட்சை தொடர்பான சிங்கள இலக்கிய வினாத்தாள், சமூக வலைத்தளங்கள் ஊடாக வெளியிடப்பட்டுள்ளமை உறுதிப்படுத்தப்பட்டுள்ளது.
-
-இதன் காரணமாக இன்று (06) நடைபெறவிருந்த இறுதிப் பரீட்சை பிற்போடப்பட்டதாக  வடமத்திய மாகாண கல்விச் செயலாளர் சிறிமேவன் தர்மசேன தெரிவித்தார்.
-
-அதன்படி இன்று காலை 8.00 மணியளவில் 08 வலயங்களில் உள்ள 30 பிரிவுகளைச் சேர்ந்த 600க்கும் மேற்பட்ட பாடசாலைகளில் உரிய வினாத்தாள் விநியோகம் நிறுத்தப்பட்டுள்ளது.
-
-அதேநேரம், பரீட்சை தற்காலிகமாக இடைநிறுத்தப்பட்டு மற்றுமொரு வினாத்தாள் வழங்கப்படும் என சிறிமேவன் தர்மசேன மேலும் தெரிவித்தார்.
-
-சம்பவம் தொடர்பில் அநுராதபுரம் தலைமையக பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளதாகவும், இந்த முறைகேடு எவ்வாறு இடம்பெற்றது என்பதை கண்டறிய நடவடிக்கை எடுத்து வருவதாகவும் அவர் தெரிவித்தார்.
-
-இதேவேளை, வடமத்திய மாகாணத்தில் மூன்றாம் தவணை பரீட்சையின் புவியியல் வினாத்தாளுக்கான விடைத்தாளும் முன்னதாக வெளியாகி இருந்தமை குறிப்பிடத்தக்கது.
-
-...
-
-[Data](articles/e0ff5439.json)
 
 ---

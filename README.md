@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 12:43:58**
+As of **2025-01-06 13:02:27**
 
 ## Newspaper Stats
 
-*Scraped **63,928** Articles*
+*Scraped **63,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,102
 adaderanalk | 7,820
-tamilmirrorlk | 9,168
+tamilmirrorlk | 9,169
 virakesarilk | 10,682
 adaderanasinhalalk | 11,033
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,033
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,928 articles have been extended.
+61,971 (96.9%) of 63,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### அரசாங்கத்தை வலியுறுத்துகிறார் கர்தினால்
+
+*2025-01-06 12:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தை-வலியுறுத்துகிறார்-கர்தினால்/175-349848) · `ta`
+
+தேசிய ஒருமைப்பாட்டைக் கொண்டுவரும் புதிய அரசியலமைப்பை அறிமுகப்படுத்துமாறு கொழும்பு பேராயர் மல்கம் கர்தினால் ரஞ்சித் அரசாங்கத்தை வலியுறுத்தியுள்ளார்.
+
+"அரசாங்கம் அதன் பதவிக்காலம் முடியும் வரை காத்திருக்காமல் உடனடியாக புதிய அரசியலமைப்பிற்கு அடித்தளம் அமைக்க வேண்டும்," என்று அவர் வலியுறுத்தினார்.
+
+“புதிய அரசாங்கம் தனது பதவிக்காலம் முடியும் வரை காத்திருக்காமல், புதிய அரசியலமைப்புக்கான அடித்தளத்தை அமைக்க வேண்டும்” என சபாநாயகர் ஜகத் விக்ரமரத்னவை வாரயிறுதியில் மரியாதை நிமித்தமாகச் சந்தித்த பின்னர் கர்தினால் ஊடகவியலாளர்களிடம் கூறினார்.
+
+◼️
+
+[Data](articles/f4f97393.json)
+
+---
 
 ### அத்துருகிரியவில் ஹெரோயினுடன் ஒருவர் கைது !
 
@@ -1795,23 +1811,5 @@ Sri Lanka, which suffered from crippling power blackouts and fuel shortages duri
 ...
 
 [Data](articles/7adf2f0a.json)
-
----
-
-### Sri Lankan gempreneurs in international spotlight at FACETS Sri Lanka 2025
-
-*2025-01-05 21:38:00* · [`islandlk`](http://island.lk/sri-lankan-gempreneurs-in-international-spotlight-at-facets-sri-lanka-2025/) · `en`
-
-The Sri Lanka Gem and Jewellery Association (SLGJA), in collaboration with the National Gem and Jewellery Authority (NGJA), inaugurated the 31st edition of FACETS Sri Lanka, Asia’s premier gem and jewellery exhibition, on January 4, 2025, at the Cinnamon Grand Hotel, Colombo.
-
-This three-day event, running from January 4 to 6, showcases the brilliance and diversity of Sri Lanka’s gem and jewellery industry to a global audience.
-
-President Anura Kumara Dissanayake, officially inaugurat FACETS Sri Lanka in the company of ministers, industry leaders, and international delegations from key markets including China, India, the United States and Europe.
-
-FACETS Sri Lanka 2025 shines a spotlight on Sri Lanka’s local gempreneurs, hailing from iconic gem-producing regions such as Ratnapura, Beruwela, Galle, Ehiliyagoda and Colombo.
-
-...
-
-[Data](articles/40a1787f.json)
 
 ---

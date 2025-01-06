@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 02:02:51**
+As of **2025-01-07 02:13:37**
 
 ## Newspaper Stats
 
-*Scraped **64,036** Articles*
+*Scraped **64,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
 islandlk | 3,906
-dailyftlk | 4,455
+dailyftlk | 4,456
 dailymirrorlk | 4,733
 adalk | 6,119
 adaderanalk | 7,838
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,036 articles have been extended.
+61,971 (96.8%) of 64,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### How to reform public sector:  Essential asset management solution
+
+*2025-01-07 01:57:58* · [`dailyftlk`](https://www.ft.lk/columns/How-to-reform-public-sector-Essential-asset-management-solution/4-771487) · `en`
+
+Just reducing numbers would not make the public sector a better one, without introducing structural reforms
+
+Soft changes to the Sri Lankan public sector would not work. The typical approach in Sri Lanka is to appoint a group of human resources, administrative and finance professionals to lead a reform plan. It has not worked previously, and it would not work in the future either. There is a secret how the Australian public sector became so good. They implemented an Asset Management Strategy for all public sector organisations around 40 years ago and continually refined its process and execution. This is the only solution for Sri Lankan public sector revival as well
+
+...
+
+[Data](articles/24d29f0f.json)
+
+---
 
 ### I was 10 years old when Lasantha Wickrematunge was assassinated
 
@@ -1781,21 +1795,5 @@ The duo had allegedly solicited the bribe on the promise of expediting compensat
 ◼️
 
 [Data](articles/34a13021.json)
-
----
-
-### සලෝචන ගමගේ සහ ව්‍යාපාරිකයා යළි රිමාන්ඩ්
-
-*2025-01-06 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205077) · `si`
-
-රුපියල් ලක්ෂ අනුවක අල්ලසක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් බස්නාහිර පළාත් සභාවේ හිටපු පළාත් සභා මන්ත්‍රී සලෝචන ගමගේ ඇතුළු සැකකරුවන් දෙදෙනා තවදුරටත් ලබන 17 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
-
-සැකකරුවන්ගේ ඇප ඉල්ලීම් පිළිබඳ නියෝගය ඉදිරියේදී ප්‍රකාශයට පත්කරන බවත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී මහත්මිය නියෝග කළාය.
-
-නාගරික සංවර්ධන අධිකාරිය විසින් කොළඹ, ටොරින්ටන් ඇවනිව් හී පිහිටි ඉඩමක් පවරා ගැනීම වෙනුවෙන් ගෙවිය යුතු වන්දි මුදලින් කොටසක් කඩිනමින් ලබාදීම සඳහා රුපියල් ලක්ෂ අනූවක අල්ලසක් ලබා ගත් අවස්ථාවේදී මෙම සැකකරුවන් දෙදෙනා ඉකුත්දා අල්ලස් කොමිසම විසින් අත් අඩංගුවට ගෙන තිබුණි.
-
-◼️
-
-[Data](articles/835912eb.json)
 
 ---

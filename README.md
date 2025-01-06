@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 02:43:39**
+As of **2025-01-07 03:02:10**
 
 ## Newspaper Stats
 
-*Scraped **64,037** Articles*
+*Scraped **64,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
 islandlk | 3,906
-dailyftlk | 4,456
+dailyftlk | 4,459
 dailymirrorlk | 4,733
 adalk | 6,119
 adaderanalk | 7,838
@@ -26,11 +26,59 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,037 articles have been extended.
+61,971 (96.8%) of 64,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### Star Garments Group wins Gold at NCE Export Awards 2024
+
+*2025-01-07 02:32:47* · [`dailyftlk`](https://www.ft.lk/business/Star-Garments-Group-wins-Gold-at-NCE-Export-Awards-2024/34-771496) · `en`
+
+Star Garments Group, a powerhouse in Sri Lanka’s apparel industry and the only group of apparel companies to be certified as carbon neutral across all its processes, recently emerged victorious at the 32nd edition of the NCE Export Awards, taking home the Gold award for Textile and Garment Sector, under the Extra-Large Category.
+
+The National Chamber of Exporters of Sri Lanka (NCE) organises this flagship event annually and this time around with the theme “Embrace innovation and digitalisation”. The event took place on 6 December at Shangri-La Colombo.
+
+This stands out as a remarkable achievement for Star amidst the various challenges faced in 2023 due to global market fluctuations. Star continued to grow its footprint in Sri Lanka despite a challenging operating environment through new acquisitions including the acquisition of Kolonna Manufacturing Ltd., marking the group’s twelfth factory.
+
+...
+
+[Data](articles/e5bcb5eb.json)
+
+---
+
+### DIMO shines at TAGS Awards 2024, clinches prestigious Overall Silver award
+
+*2025-01-07 02:30:37* · [`dailyftlk`](https://www.ft.lk/business/DIMO-shines-at-TAGS-Awards-2024-clinches-prestigious-Overall-Silver-award/34-771495) · `en`
+
+DIMO triumphed at the TAGS Awards 2024, winning the prestigious Silver award for Overall Excellence in Corporate Reporting. The company also earned a Gold award and four Silver awards, highlighting its commitment to Transparency, Accountability, Governance, and Sustainability. The accolades included a Gold award for Diversified Holdings (Group turnover up to Rs. 100 billion) and Silver Awards for Integrated Reporting, Corporate Governance Disclosure – Non-Financial Services, Sustainability Reporting, and Digitally Transformative Reporting.
+
+Group Managing Director/CEO Gahanath Pandithage and Executive Director/CFO Suresh Gooneratne received the Overall Silver award on behalf of the company. DIMO’s 2023/24 Annual Report, themed “Agile by nature” with a dragonfly metaphor, introduced an innovative braille synopsis for the visually impaired and featured a dedicated microsite, enhancing its digital engagement.
+
+◼️
+
+[Data](articles/ad4c5798.json)
+
+---
+
+### Spotlight on key reforms at Sri Lanka Economic Summit
+
+*2025-01-07 02:26:53* · [`dailyftlk`](https://www.ft.lk/business/Spotlight-on-key-reforms-at-Sri-Lanka-Economic-Summit/34-771494) · `en`
+
+The Sri Lanka Economic Summit organised by The Ceylon Chamber of Commerce will be inaugurated on 28 January at the Shangri La Hotel Colombo, under the theme "Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies."
+
+On day 2 of the Summit on 29 January one of the key sessions will examine “The Right Reforms for Transformational Growth”.
+
+The session will centre on the Korean story of economic transformation, and potential applications to Sri Lanka’s development trajectory. It will explore medium-term opportunities for Sri Lanka and leverage the expertise of a high-profile panel representing leading multinational corporations, local conglomerates, the energy, ports and capital market sectors, and multilateral agencies.
+
+Discussions will also focus on the potential for public-private partnerships to drive Sri Lanka’s growth.
+
+...
+
+[Data](articles/2ac86095.json)
+
+---
 
 ### How to reform public sector:  Essential asset management solution
 
@@ -1737,63 +1785,5 @@ The four-year period between the two inaugural sessions witnessed significant ma
 ...
 
 [Data](articles/e0ff5439.json)
-
----
-
-### அரச ஊழியர்களின் விடுப்பு;புதிய வழிகாட்டல் வெளியீடு
-
-*2025-01-06 13:14:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களின்-விடுப்பு-புதிய-வழிகாட்டல்-வெளியீடு/175-349852) · `ta`
-
-அரச அதிகாரிகளுக்கு உள்நாட்டு மற்றும் வெளிநாட்டு சம்பளமில்லாத விடுமுறையை அங்கீகரிக்கும் போது பின்பற்ற வேண்டிய வழிகாட்டுதல்களை பொது நிர்வாக அமைச்சு வெளியிட்டுள்ளது.
-
-அனைத்து மாவட்டச் செயலர்களுக்கும் வெளியிடப்பட்டுள்ள சிறப்பு அறிவிப்பின்படி, அரசு அலுவலர்களுக்கு அவர்களின் ஓய்வூதிய உரிமைகள் பாதிக்கப்படாமல் ஊதியம் இல்லாத விடுப்பு வழங்கப்பட வேண்டும் எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-சில அதிகாரிகள் ஐந்து வருடங்கள் வரை உள்நாட்டு விடுமுறைக்கு விண்ணப்பித்துள்ளதுடன், தமது முன்கூட்டிய உள்நாட்டு விடுமுறையை உரிய முறையில் ரத்து செய்யாமல் வெளிநாட்டு விடுமுறைக்கும் விண்ணப்பித்திருந்தமை கண்டறியப்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
-
-புதிய வழிகாட்டுதல்கள் வெளிநாட்டு விடுப்புக்கான விண்ணப்பங்களுக்கு விண்ணப்பதாரரின் விடுப்பு வரலாற்றின் விரிவான மதிப்பாய்வைச் சேர்ப்பது கட்டாயமாக்குகிறது.
-
-விண்ணப்பங்களுடன் உள்ள கவர் கடிதங்களில் ஏற்கனவே பெறப்பட்ட உள்நாட்டு மற்றும் வெளிநாட்டு விடுப்பு விவரங்களை சரிபார்க்கவும் ஆவணப்படுத்தவும் மாவட்ட செயலாளர்கள் பணிபுரிகின்றனர்.
-
-...
-
-[Data](articles/e7998315.json)
-
----
-
-### சீனாவின் புதிய வைரஸ்  இலங்கையைப் பாதிக்குமா?
-
-*2025-01-06 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவின்-புதிய-வைரஸ்-இலங்கையைப்-பாதிக்குமா/175-349849) · `ta`
-
-சீனாவில் ஏற்பட்டுள்ள ஒரு மர்மமான வைரஸ் வெடிப்பை அடுத்து, இது COVID-19 தொற்றுநோயைப் போல உலகளவில் பாரிய வெடிப்புக்கு வழிவகுக்கும் என்று சுகாதார அதிகாரிகள் இன்னும் சந்தேகத்தில் உள்ளனர்.
-
-சீனாவில் பரவும் வைரஸ் மனித மெட்டாப்நியூமோவைரஸ் (HMPV) என்று அழைக்கப்படுகிறது, மேலும் இது குறிப்பாக சீனாவின் வடக்கு மாகாணங்களில் 14 வயதிற்குட்பட்டவர்களிடையே பரவுவதுடன் அதன் அறிகுறிகள் பெரும்பாலும் கொவிட்-19 நோயின் அறிகுறிகளைப் போலவே இருக்கும் என சுகாதார நிபுணர்கள் தெரிவிக்கின்றனர்.
-
-உடல்நலம் குறித்த பயத்திற்கு மத்தியில், இந்த வைரஸ் மற்ற நாடுகளை பாதிக்குமா அல்லது கொவிட்-19 நாட்களைப் போல் மீண்டும் தனிமைப்படுத்தல் மற்றும் லொக்டவுன் போன்றவற்றுக்கான தேவை வருமா என்ற ஊகங்கள் உள்ளன.
-
-டெய்லி மிரரிடம் பேசிய சுகாதார அமைச்சின் மூத்த அதிகாரி ஒருவர், இதுவரை சீனாவில் மட்டுமே இந்நோயின் வழக்குகள் பதிவாகியுள்ளன. இதுவரையில் இது எச்சரிக்கைக்கான ஒரு நிலையாகவில்லை, ஆனால் இது குறித்து ஒரு நெருக்கமான கண்காணிப்பு தேவை என்றார்.
-
-...
-
-[Data](articles/dd7caf05.json)
-
----
-
-### Two including ex-provincial councilor further remanded
-
-*2025-01-06 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104756/two-including-ex-provincial-councilor-further-remanded-) · `en`
-
-The Colombo Magistrate’s Court has ordered the two individuals including former member of Western Provincial Council Salochana Gamage, who were arrested while accepting a bribe, to be further remanded in custody until January 17, 2025.
-
-The officers of the Bribery Commission arrested a businessman and the former Western Provincial Council member while accepting a bribe of Rs. 09 million from another businessman at Pita Kotte.
-
-This arrest was made based on a complaint lodged by a resident of the Madiwela area of Kotte, the Bribery Commission said.
-
-Subsequently, he was produced before Colombo Additional Magistrate and was ordered to be remanded until today (06).
-
-The duo had allegedly solicited the bribe on the promise of expediting compensation for a land of the complainant’s relative in Torington Avenue, which was acquired by the Urban Development Authority (UDA), according the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-◼️
-
-[Data](articles/34a13021.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 05:52:48**
+As of **2025-01-06 06:16:18**
 
 ## Newspaper Stats
 
-*Scraped **63,850** Articles*
+*Scraped **63,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 468
 colombotelegraphcom | 643
 bbccomsinhala | 669
 economynextcom | 3,886
-islandlk | 3,895
+islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,096
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,020
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.1%) of 63,850 articles have been extended.
+61,971 (97.0%) of 63,860 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -524,6 +524,20 @@ The Epica Awards are the only global creative awards judged by journalists from 
 
 ---
 
+### Bajaj motorcycles fuel local industry growth and job creation in Sri Lanka
+
+*2025-01-05 21:47:00* · [`islandlk`](http://island.lk/bajaj-motorcycles-fuel-local-industry-growth-and-job-creation-in-sri-lanka/) · `en`
+
+Despite the challenges posed by vehicle import restrictions due to the COVID-19 pandemic, the Sri Lankan automotive sector has witnessed remarkable growth, particularly with assembling Bajaj motorcycles using locally manufactured components. This is a direct result of the Local Value Addition (LVA) programme initiated by the Ministry of Industries in 2021, which has propelled innovation, job creation and the growth of the local vehicle component manufacturing industry.
+
+When vehicle import restrictions were introduced in 2020 to safeguard the economy, the Ministry of Industries introduced a Standard Operating Procedure (SOP) in 2021 to encourage the local assembly of motorcycles using domestically produced parts. David Pieris Motor Company (Lanka) Limited (DPMC Lanka) responded quickly and became the first company to release motorcycles under this program, showcasing the ability to adapt and thrive even in challenging times.
+
+...
+
+[Data](articles/6d36e530.json)
+
+---
+
 ### Paddy farmers face new crisis as unidentified worm species devastate crops
 
 *2025-01-05 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104741/paddy-farmers-face-new-crisis-as-unidentified-worm-species-devastate-crops) · `en`
@@ -539,6 +553,98 @@ Adding to their plight, wild elephants have been reported to cause significant d
 ...
 
 [Data](articles/2cf3abb9.json)
+
+---
+
+### Shangri-La clinches the highest number of awards at SL Tourism Awards 2024
+
+*2025-01-05 21:44:00* · [`islandlk`](http://island.lk/shangri-la-clinches-the-highest-number-of-awards-at-sl-tourism-awards-2024/) · `en`
+
+In a night of celebration and achievement, Shangri-La Colombo and Shangri-La Hambantota stood out as shining stars at the Sri Lanka Tourism Awards 2024. Collectively, the two properties secured the highest number of accolades, underscoring their unwavering commitment to excellence in hospitality.
+
+Shang Palace, renowned for its authentic Chinese cuisine, once again proved its mettle by winning the “Best Themed Cuisine Restaurant” award. Complementing this achievement, Shangri-La Colombo’s recognition as the “Best Convention Hotel” highlights its exceptional facilities and services that make it a premier destination for meetings, incentives, conferences and exhibitions (MICE).
+
+Best Conservationist Naturalist – Chamara Amarasinghe, CSR & Sustainability Manager, Shangri-La Hambantota
+
+Shangri-La Hambantota’s picturesque setting and world-class amenities earned it the coveted “Best Five-Star Resort” award.
+
+...
+
+[Data](articles/3077507c.json)
+
+---
+
+### Global Stanford Campus graduates 500 students
+
+*2025-01-05 21:42:00* · [`islandlk`](http://island.lk/global-stanford-campus-graduates-500-students/) · `en`
+
+The recent graduation ceremony of Global Stanford Campus saw 500 of its students receiving their degrees.
+
+The graduates pursued their studies through classroom, online and blended methodologies, covering fields such as Education, Management, Information Technology, and Nursing. The Global Stanford Campus, in collaboration with IIC University of Technology, Cambodia—a foreign university recognized by the University Grants Commission—offers degree programs tailored to Sri Lankan students.
+
+...
+
+[Data](articles/e2835752.json)
+
+---
+
+### Ministry of Power to review Adani energy solutions in Sri Lanka
+
+*2025-01-05 21:40:00* · [`islandlk`](http://island.lk/ministry-of-power-to-review-adani-energy-solutions-in-sri-lanka/) · `en`
+
+The Ministry of Power and Energy has decided to appoint a committee to review the study of the Adani Group’s energy projects in Sri Lanka. The relevant proposal will be presented to the upcoming Cabinet meeting.
+
+The Ministry said that the committee would review factors including estimated costs for the projects. Previously, a committee appointed by the ministry examined the wind power plant projects planned by the Adani Group in Sri Lanka.
+
+The wind power projects proposed for Mannar and Pooneryn are expected to generate a total of 484 megawatts of electricity.
+
+Sri Lanka, which suffered from crippling power blackouts and fuel shortages during an economic crisis in 2022, has enacted a new legislation to revamp the country’s power sector and attract investment in renewable energy.
+
+...
+
+[Data](articles/7adf2f0a.json)
+
+---
+
+### Sri Lankan gempreneurs in international spotlight at FACETS Sri Lanka 2025
+
+*2025-01-05 21:38:00* · [`islandlk`](http://island.lk/sri-lankan-gempreneurs-in-international-spotlight-at-facets-sri-lanka-2025/) · `en`
+
+The Sri Lanka Gem and Jewellery Association (SLGJA), in collaboration with the National Gem and Jewellery Authority (NGJA), inaugurated the 31st edition of FACETS Sri Lanka, Asia’s premier gem and jewellery exhibition, on January 4, 2025, at the Cinnamon Grand Hotel, Colombo.
+
+This three-day event, running from January 4 to 6, showcases the brilliance and diversity of Sri Lanka’s gem and jewellery industry to a global audience.
+
+President Anura Kumara Dissanayake, officially inaugurat FACETS Sri Lanka in the company of ministers, industry leaders, and international delegations from key markets including China, India, the United States and Europe.
+
+FACETS Sri Lanka 2025 shines a spotlight on Sri Lanka’s local gempreneurs, hailing from iconic gem-producing regions such as Ratnapura, Beruwela, Galle, Ehiliyagoda and Colombo.
+
+...
+
+[Data](articles/40a1787f.json)
+
+---
+
+### Nestlé Coconut Development Plan supports 500 more rural families in Northern Province
+
+*2025-01-05 21:38:00* · [`islandlk`](http://island.lk/nestle-coconut-development-plan-supports-500-more-rural-families-in-northern-province/) · `en`
+
+The Nestlé Coconut Development Plan was expanded recently, benefiting 500 rural families in the Northern Province. Conducted for the eighth year running in collaboration with the Coconut Cultivation Board of Sri Lanka (CCB), the programme has supported approximately 5,000 home-growers with hybrid coconut plantlets and other resources with the ambition of expanding coconut cultivation in Sri Lanka. This programme has also taken measures to train beneficiaries on best practices of coconut cultivation by conducting on-ground training programmes and providing fertilizer for cultivation.
+
+...
+
+[Data](articles/d3bd2894.json)
+
+---
+
+### Brandix redefining the strategic pillars of its Smart Factory journey
+
+*2025-01-05 21:36:00* · [`islandlk`](http://island.lk/brandix-redefining-the-strategic-pillars-of-its-smart-factory-journey/) · `en`
+
+One of Sri Lanka’s leading proponents of technology solutions in manufacturing, Brandix, took stock of its transformative journey and discussed new innovative solutions to propel the business forward at the ‘Digital Horizon 2024’, the second edition of Brandix’s own digital keynote session held at Trace Expert City in Colombo.
+
+...
+
+[Data](articles/9174967f.json)
 
 ---
 
@@ -1605,111 +1711,5 @@ Accordingly, the District Secretaries have been instructed to follow a detailed 
 ◼️
 
 [Data](articles/8cbef55e.json)
-
----
-
-### ComBank tops banking sector in LMD’s first Corporate Happiness Index
-
-*2025-01-05 14:34:00* · [`islandlk`](http://island.lk/combank-tops-banking-sector-in-lmds-first-corporate-happiness-index-2/) · `en`
-
-The Commercial Bank of Ceylon has been ranked No 1 among Sri Lankan banks in the inaugural Corporate Happiness Index (CHI) just released by LMD magazine.The Bank has also been ranked one of Sri Lanka’s “happiest second homes” taking fifth place overall in the ranking, following the high positions it achieved in the 16 attributes that made up the survey conducted by PepperCube Consultants for this pioneering initiative.
-
-Remarkably, Commercial Bank was the highest-ranked bank in 14 of the 16 attributes, leading the banking sector in several fundamentally-important aspects related to employees, such as ‘Remuneration scales,’ ‘Rewards & Perks,’ ‘Career progression,’ ‘Work environment,’ ‘Gender balance,’ ‘Health & wellbeing,’ ‘Work-life balance,’ ‘Workplace diversity,’ and ‘Workplace flexibility.’
-
-Commercial Bank was also ranked No 1 in the banking sector for ‘Financial stability,’ ‘Corporate leadership,’ ‘Workplace camaraderie,’ ‘Open culture’ and ‘Recreational facilities.’
-
-...
-
-[Data](articles/f562d4b4.json)
-
----
-
-### Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
-
-*2025-01-05 14:32:00* · [`islandlk`](http://island.lk/telecom-itea-skills-for-vocational-institute-students-by-exeo-global-and-sala-enterprises/) · `en`
-
-Students in Sri Lanka seeking overseas employment now have a unique opportunity to gain a competitive edge in the Japanese telecommunications construction industry. EXEO Global Pte Ltd., in partnership with SALA Enterprises, has launched a series of seminars aimed at equipping young adults with the necessary ITEA (Information & Telecommunications Engineering Association) telecommunications skills. These seminars, conducted in collaboration with the Tertiary and Vocational Education Commission of Sri Lanka, focus on the opportunities available in Japan’s telecommunications sector and the steps required to secure a Specified Skilled Worker (SSW) visa.
-
-...
-
-[Data](articles/3ff08f40.json)
-
----
-
-### Queen’s Hospital Medical Centre Opens in Ratmalana, Offering Affordable and Advanced Healthcare
-
-*2025-01-05 14:22:00* · [`islandlk`](http://island.lk/queens-hospital-medical-centre-opens-in-ratmalana-offering-affordable-and-advanced-healthcare/) · `en`
-
-The newly opened Queen’s Hospital Medical Centre in Ratmalana is revolutionizing private healthcare with state-of-the-art facilities and compassionate services. Equipped with advanced medical technologies, including ultrasound, echo, and X-ray machines, the hospital ensures accurate and timely diagnoses for patients. A team of experienced medical officers, nurses, and healthcare professionals is dedicated to providing exceptional care, said a release.
-
-Patients can access OPD treatments for just Rs. 550, and until 31 January 2025, enjoy a 50% discount on X-rays and hospital charges for ultrasound or echo tests. On 29 January, the hospital will host a special medical camp offering free screenings for cholesterol, diabetes, and heart conditions. Pre-registration is required to secure a spot.
-
-...
-
-[Data](articles/f1f5d82c.json)
-
----
-
-### Ceylinco Life closes 2024 with 13 awards for financial reporting and brand excellence
-
-*2025-01-05 14:21:00* · [`islandlk`](http://island.lk/ceylinco-life-closes-2024-with-13-awards-for-financial-reporting-and-brand-excellence/) · `en`
-
-Sri Lanka’s life insurance market leader Ceylinco Life has brought 2024 to a close on a victorious note, winning a total of 13 awards, 11 for distinction in financial reporting and two for brand excellence.
-
-The company’s annual report for 2023 received accolades from four prestigious local and international bodies – CMA Sri Lanka, CA Sri Lanka, the South Asian Federation of Accountants (SAFA) and MerComm Inc., the presenter of the prized ARC Awards.
-
-Titled ‘The Core of Trust,’ Ceylinco Life’s integrated annual report for 2023 was recognised as one of the ‘Top 10 Excellent Integrated Reports’ in Sri Lanka at the CMA Excellence in Integrated Reporting Awards 2024, and was adjudged the first runner-up in the Insurance category. CMA Sri Lanka is the national professional management accounting body.
-
-...
-
-[Data](articles/1b0c5f75.json)
-
----
-
-### CEAT Kelani presents traffic management tools to Police and SLCMP
-
-*2025-01-05 14:18:00* · [`islandlk`](http://island.lk/ceat-kelani-presents-traffic-management-tools-to-police-and-slcmp-2/) · `en`
-
-CEAT Kelani Holdings has broadened the scope of its flagship community initiative promoting road safety around schools by engaging with the Police and the Sri Lanka Corps of Military Police (SLCMP) of the Sri Lanka Army, two institutions that play lead roles in this domain.
-
-The company recently presented stocks of traffic management-related signboards and traffic cones to these institutions, as one of its community commitments that makes up the ‘CEAT Cares’ portfolio of community projects.
-
-The signboards and traffic cones presented to the Police and the Military police are to be strategically placed on main roads to facilitate traffic management near schools, government institutions, and other high-traffic areas within the station’s jurisdiction, supporting CEAT’s efforts to help improve road safety and aid law enforcement maintain smooth traffic flows.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/423f2361.json)
-
----
-
-### ආනන්ද පාලිතට එරෙහිව මිලියන 500ක එන්තරවාසියක්
-
-*2025-01-05 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205052) · `si`
-
-සමගි ජන බලවේගයේ වෘත්තීය සමිති නායකයකු වන ආනන්ද පාලිත මහතා විසින් සිදුකර ඇති ප්‍රකාශයක් හේතුවෙන් සිය කීර්ති නාමයට හානි සිදුවූ බව කියමින් රුපියල් මිලියන 500ක එන්තරවාසියක් යොමු කිරීමට ලංකා ඛනිජ තෙල් සංස්ථාවේ සභාපති, ඩී ජේ රාජකරුණා මහතා පියවර ගෙන ඇතැයි වාර්තා වේ.
-
-හිතාමතා, සැලසුම් සහගතව කරන ලද අසත්‍ය සහ ද්වේශසගහගත ප්‍රචාරයන් සම්බන්ධයෙන් මෙලෙස වන්දි ඉල්ලා සභාපතිවරයා විසින් නීතිඥවරුන් මාර්ගයෙන් මෙම එන්තරවාසිය යොමු කර තිබේ.
-
-මෙම එන්තරවාසිය පසුගිය දෙසැම්බර් මස 24 වැනි දින නීතිඥ සම්පත් යාලේවත්ත මඟින් යවා ඇති බවද සඳහන් වේ.
-
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ සභාපති ලෙස වගකීම් දැරීම සම්බන්ධයෙන් පසුගිය 2024 දෙසැම්බර්මස 13 වැනි දින හෝ ඊට ආසන්න දිනයක දී ආනන්ද පාලිත විසින් අසත්‍ය සහ ද්වේෂසහගත ප්‍රකාශයක් තමන්ට එරෙහිව සිදුකර ඇතැයි ලංකා ඛණිජ තෙල් සංස්ථාවේ සභාපති, ඩී. ජේ රාජකරුණා තම නීතිඥයන් මඟින් අවධාරණයකර ඇත.
-
-...
-
-[Data](articles/c02ff9ff.json)
-
----
-
-### கொழும்பு மைய அரசியலா?  தாயக மைய அரசியலா?
-
-*2025-01-05 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/203019) · `ta`
-
-சிவமோகன் கடைசி மத்திய குழுக் கூட்டத்திற்கும் சென்றிருந்தார். பொதுத்தேர்தல் காலத்தில் கட்சியின் வேட்பாளருக்கு எதிராக செயல்பட்டிருந்தார் எனக் கூறியே அவர் நீக்கம் செய்யப்பட்டிருக்கின்றார் அவ்வாறு செயல்பட்டிருந்தால் கடைசிக் கூட்டம் வரை மத்திய குழுக் கூட்டத்திற்கு ஏன் அவரை அனுமதித்திருந்தீர்கள்?  இதற்கு சுமந்திரனிடம் பதில் ஏதும் இல்லை. மொத்தத்தில் கட்சியில் ஒரு சுத்திகரிப்பு வேலையை சுமந்திரன் தொடங்கியிருக்கின்றார். தன்னுடைய அரசியல் நிலைப்பாட்டிற்கு எதிரானவர்களை அதாவது கொழும்பு மைய அரசியலுக்கு எதிரானவர்களை கட்சியில் இருந்து அகற்றுவதே அவரின் இலக்காகும். இது ஒரு வகையில் சிறிதரனை தனிமைப்படுத்தி அகற்றும் நோக்கத்தையும் உள்ளடக்கியதாகும்.
-
-◼️
-
-[Data](articles/5171a0fc.json)
 
 ---

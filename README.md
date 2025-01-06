@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 23:27:56**
+As of **2025-01-06 23:44:49**
 
 ## Newspaper Stats
 
-*Scraped **64,019** Articles*
+*Scraped **64,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 671
-economynextcom | 3,892
+economynextcom | 3,899
 islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,119
-adaderanalk | 7,837
+adaderanalk | 7,838
 tamilmirrorlk | 9,183
-virakesarilk | 10,697
-adaderanasinhalalk | 11,056
+virakesarilk | 10,700
+adaderanasinhalalk | 11,057
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,019 articles have been extended.
+61,971 (96.8%) of 64,031 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/355b6cd2.json)
+
+---
+
+### කැනඩාවේ අගමැති ජස්ටින් ටෘෘඩෝ පක්ෂ නායකත්වය අත්හරී
+
+*2025-01-06 22:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205102) · `si`
+
+කැනේඩියානු අගමැති ජස්ටින් ටෘෘඩෝ ඔහු නියෝජනය කරන ලිබරල් පක්ෂ නායකත්වයෙන් ඉවත් වී තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තාකර තිබුණේ  ලිබරල් පක්ෂට නායකයෙක් පත්වන තුරු ඔහු අගමැති ධුරයේ සිටින බවය
+
+කැනේඩියානු අගමැති ජස්ටින් ටෘෘඩෝ මේ සතිය තුළ විශ්‍රාම යනු ඇතැයි එරට මාධ්‍ය වාර්තා කර තිබුණි.
+
+ඒ අනුව ඔහු අද හෝ ඉදිරි දින කිහිපය තුළ එරට පාලක ලිබරල් පක්ෂ නායකත්වයෙන් ඉවත්වීමට නියමිත බව වාර්තා වෙයි.
+
+ගෙවුණු දින කිහිපය තුළ කැනේඩියානු දේශපාලන දැඩි අර්බුදකාරී තත්ත්වයකට පත්වූ අතර, ඔහුගේ මුදල් අමාත්‍යවරිය වූ ක්‍රිස්ටියා ෆ්‍රීලන්ඩ්, ඔහු සමඟ විරසකව ධුරයෙන් ඉල්ලා අස්වීමෙන් අනතුරුව එම තත්ත්වය තීව්‍ර වුණි.
+
+ඒ සමඟ ටෘෘඩෝගේ ජනප්‍රියත්වය තවත් තීව්‍ර වූ අතර එතැන් සිට ඔහු මහජන ඒකරාශීවීම් රැසක් මඟහැරි බව වාර්තා වුණි.
+
+අගමැතිවරයා, ඔහු නියෝජනය කරන පක්ෂ නායකත්වයෙන් ඉල්ලා අස්වන බවට වාර්තා පළවන්නේ එවන් පසුබිමකය.
+
+ලිබරල් පක්ෂය දැඩි අසීරුතාවකට පත්ව සිටි 2013 වසරේදී කරලියට පැමිණි හිටපු අගමැති පුත්‍රයෙක් වන ජස්ටින් ටෘෘඩෝ එම පක්ෂය ජයග්‍රහණය කරා මෙහෙයවීමට සමත්වුණි.
+
+◼️
+
+[Data](articles/e174bc6e.json)
+
+---
+
+### Canada’s Prime Minister Justin Trudeau resigns
+
+*2025-01-06 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104774/canadas-prime-minister-justin-trudeau-resigns) · `en`
+
+Under growing pressure from his own party, Canadian Prime Minister Justin Trudeau has announced he will step down and end his nine-year stretch as leader.
+
+Trudeau said he would stay on in office until his Liberal Party can choose a new leader, and that parliament would be prorogued - or suspended - until 24 March.
+
+“This country deserves a real choice in the next election and it has become clear to me that if I’m having to fight internal battles, I cannot be the best option in that election,” he said during a press conference Monday.
+
+Trudeau’s personal unpopularity with Canadians had become an increasing drag on his party’s fortunes in advance of federal elections later this year.
+
+◼️
+
+[Data](articles/5f635385.json)
 
 ---
 
@@ -165,6 +209,40 @@ Sources told the Globe and Mail that they did not know definitely when Trudeau w
 ...
 
 [Data](articles/0ca279be.json)
+
+---
+
+### ஓமானில் மரணித்துள்ள யுவதியின் மரணம் கொலையா? தற்கொலையா ? - தூதரகம் மற்றும் வெளிவிவகார அமைச்சு விசாரணை
+
+*2025-01-06 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/203124) · `ta`
+
+ஓமானில் மரணித்துள்ள அம்பாந்தோட்டை யுவதி மற்றும் அவரது சகோதரியை ஏமாற்றி சுற்றுலா விசாவில் தொழிலுக்கு அனுப்பியதாக தெரிவித்து சந்தேகத்தின் பேரில் மூன்று பேர் கைதுசெய்யப்பட்டுள்ளனர்.
+
+குறித்த யுவதியின் மரணம் கொலையா ? தற்கொலையா ? என ஓமானின் இலங்கை தூதரக காரியாலயம் மற்றும் இலங்கை வெளிவிவகார அமைச்சு இணைந்து விசாரணைகளை மேற்கொண்டு வருகின்றன என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகம் தெரிவித்துள்ளது.
+
+ஓமான் நாட்டுக்கு வீட்டுப்பணிப்பெண் தொழிலுக்கு அழைத்துச் சென்று, அந்த நாட்டில் பல்வேறு துன்புறுத்தல்களுக்கு இலக்காகி மரணித்த அம்பாந்தோட்டை சுசீ கிராமத்தைச்சேர்ந்த 22 வயதுடைய யுவதி மற்றும் அவரது மூத்த சகோதரியை ஏமாற்றி நயவஞ்சகமான முறையில் மனித கடத்தலில் ஈடுபட்டுவந்த அம்பாந்தோட்டை சமுர்தி அபிவிருத்தி அதிகாரி உள்ளிட்ட மூன்று சந்தேக நபர்கள் கைதுசெய்யப்பட்டுள்ளனர்.
+
+இலங்கை வெளிவாய்ப்பு பணியகத்தின் தலைவர்  கோஷல விக்ரமசிங்கவின் ஆலோசனையின் பேரில் பணியகத்தின் விசேட விசாரணை பிரிவு அதிகாரிகளின் விசேட நடவடிக்கையின் மூலம் இவர்கள் கைதுசெய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/dc21f7db.json)
+
+---
+
+### 5 இலட்சம் தொன் அரிசியை மறைத்து வைத்திருப்பது யார் ?  ஐக்கிய மக்கள் சக்தி கேள்வி
+
+*2025-01-06 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203152) · `ta`
+
+நாட்டின் வருடாந்த அரிசி தேவை 23 இலட்சம் தொன் ஆகும். ஆனால் கடந்த போகத்தில் அறுவடை செய்யப்பட்ட 42 இலட்சம் தொன் நெல்லிலிருந்து 28 இலட்சம் தொன் அரிசி பெறப்பட்டுள்ளது. அவ்வாறெனில் எஞ்சிய 5 இலட்சம் தொன் அரிசியை மறைத்து வைத்திருப்பது யார் என்று ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார கேள்வியெழுப்பினார்.
+
+ஞாயிற்றுக்கிழமை கொழும்பில் இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+க்ளீன் ஸ்ரீலங்கா வேலைத்திட்டம் மூலம் இனிவரும் காலங்களில் பல்வேறு விடயங்கள் தூய்மையடையவுள்ளன. அண்மையில் முன்னாள் சபாநாயகர் க்ளீன் செய்யப்பட்டார். அதேபோன்று மேலும் பலர் களீன் செய்யப்படவுள்ளதாக தெரிகிறது. உத்தேச தேர்தல்களை எதிர்கொள்வதற்கான செயற்திட்டங்களை ஐக்கிய மக்கள் சக்தி ஏற்கவே ஆரம்பித்துவிட்டது.
+
+...
+
+[Data](articles/0a45d867.json)
 
 ---
 
@@ -393,6 +471,24 @@ Meanwhile, India has reported two cases of human metapneumovirus (HMPV). Two inf
 ...
 
 [Data](articles/472886a1.json)
+
+---
+
+### Sri Lanka President discusses restoring public confidence in justice system
+
+*2025-01-06 18:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-discusses-restoring-public-confidence-in-justice-system-198340/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake discussed restoring public confidence in the island nation’s justice system when he met the Attorney General of officials from the Attorney General’s Department amid the new government’s efforts to speed up high profile legal cases.
+
+The government is in the move to resume high profile legal cases including the Easter Sunday attack and legal cases related to former President Mahinda Rajapaksa and his family members. Most of these cases faced delays due to lack of evidence and some corruption cases had been withdrawn on technical grounds.
+
+President Anura Kumara Dissanayake’s ruling National People’s Power has promised to ensure justice for the victims in the high-profile cases.
+
+“During the discussion, the President emphasized the importance of coordinated efforts among all institutions working towards the effective enforcement of the law,” the President’s Media Division said in a statement on Monday (06).
+
+...
+
+[Data](articles/3031d393.json)
 
 ---
 
@@ -639,6 +735,28 @@ The President reiterated the government’s commitment to avoiding any actions t
 ◼️
 
 [Data](articles/297582c9.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 295.20/296.00 to dollar, bonds up
+
+*2025-01-06 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-295-20-296-00-to-dollar-bonds-up-198267/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated further to close at 295.20/296.00 to the US dollar on Monday from 293.95/294.15 on Friday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 9.40/55 percent, down from 9.45/55 percent.
+
+A bond maturing on 15.02.2028 closed at 10.15/25 percent, up from 10.10/15 percent.
+
+A bond maturing on 15.10.2028 closed at 10.45/55 percent, up from 10.40/45 percent.
+
+A bond maturing on 15.09.2029 closed at 10.75/85 percent, up from 10.70/80 percent.
+
+A bond maturing on 15.05.2030 closed at 11.00/15 percent, up from 10.95/11.05 percent. (Colombo/Jan6/2025)
+
+◼️
+
+[Data](articles/725acaf6.json)
 
 ---
 
@@ -914,6 +1032,26 @@ Accordingly, the following trains will be operated in addition to the regular lo
 
 ---
 
+### Sri Lanka sees 8,665 new active credit cards in November 2024
+
+*2025-01-06 16:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-8665-new-active-credit-cards-in-november-2024-198265/) · `en`
+
+ECONOMYNEXT – New active credit cards in Sri Lanka rose by 8,665 in November last year, the latest Central Bank data showed, with promotions by banks for credit cards with the key fast moving consumer goods (FMCG) vendors amid falling interest rates.
+
+The number of active credit cards recorded 1,951,654 by end November, compared to 1,942,989 by end October, showing an increase of 8,665.
+
+The number of monthly new active credit cards stood at 6,653 in October and 7,958 in September.
+
+Analysts said most banks have tied up with super markets and other vendors to promote credit cards in the falling interest rate regime.
+
+The number of active credit cards has risen by 1.8 percent or 34,569 in the first 11 months of 2024 from 1,917,085 by the end of last year, the official data showed.
+
+...
+
+[Data](articles/aa0b225e.json)
+
+---
+
 ### බදුල්ල සහ කන්කසන්තුරේ දක්වා විශේෂ දුම්රිය කාලසටහනක්
 
 *2025-01-06 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205086) · `si`
@@ -925,6 +1063,24 @@ Accordingly, the following trains will be operated in addition to the regular lo
 ◼️
 
 [Data](articles/aa1fa5dd.json)
+
+---
+
+### வடமத்திய மாகாணத்தில் சிங்கள மொழியும் இலக்கியமும் வினாத்தாள் கசிவு ; தற்காலிகமாக பரீட்சை இடைநிறுத்தம்
+
+*2025-01-06 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/203127) · `ta`
+
+புலமைப் பரிசில் பரீட்சை வினாத்தாளில் வினாக்கள் வெளியாகியதால் ஏற்பட்ட சர்ச்சை நிறைவுக்கு வந்து ஒரு வாரம் கடந்துள்ள நிலையில், தற்போது மீண்டுமொரு பரீட்சை வினாத்தாளிலுள்ள கேள்விகள் வெளியாகியுள்ளன. கடந்த 2ஆம் திகதி 2024ஆம் ஆண்டுக்கான மூன்றாம் தவணையின் இறுதிகட்ட கல்வி செயற்பாடுகள் ஆரம்பமாகியதையடுத்து, மூன்றாம் தவணைப் பரீட்சைகள் இடம்பெற்று வருகின்றன.
+
+இந்நிலையில் வடமத்திய மாகாணத்தில் 11ஆம் தர மாணவர்களுக்கான சிங்கள மொழியும் இலக்கியமும் பரீட்சை வினாத்தாளிலுள்ள வினாக்கள் பரீட்சைக்கு முன்னதாகவே கசிந்துள்ளமை தெரியவந்துள்ளது.
+
+இதன் காரணமாக திங்கட்கிழமை (06) வடமத்திய மாகாண பாடசாலைகளில் பரீட்சையை தற்காலிகமாக இடைநிறுத்துவதற்கு மாகாண கல்வி திணைக்களம் நடவடிக்கை எடுத்துள்ளது.
+
+இதனால் இன்று (06) பரீட்சைக்காக பாடசாலைகளுக்கு சென்ற மாணவர்களுக்கு திரும்பிச் செல்ல நேரிட்டது.
+
+...
+
+[Data](articles/76cf418b.json)
 
 ---
 
@@ -1066,6 +1222,30 @@ Police had arrested 34 individuals including Stalin during a protest staged by t
 
 ---
 
+### Sri Lanka stocks close down amid profit taking, bargain hunting seen
+
+*2025-01-06 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-profit-taking-bargain-hunting-seen-198259/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader ASPI closed down 1.06 percent, or 170.82 points, at 15878.60; while the more liquid S&P SL20 Index closed down 1.10 percent, or 53.70 points, at 4,806.63.
+
+The ASPI and S&P SL20 climbed up in morning trade before dropping.
+
+“Market was very volatile today; it opened up, then there was a massive decline, before coming back later.
+
+“There was profit taking in all counters across the board,” they said “but buying interest persists, and bargain hunters were coming in.”
+
+The market has been steadily rising over the last month and analysts were expecting a correction.
+
+“Most investors are booking profits at the moment, and selling pressure is likely to slow down as the week progresses.”
+
+...
+
+[Data](articles/028c5086.json)
+
+---
+
 ### බදුල්ලේ සිට මහනුවර බලා ධාවන වූ දුම්රියක් පීලී පනියි
 
 *2025-01-06 15:37:25* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-මහනුවර-බලා-ධාවන-වූ-දුම්රියක්-පීලී-පනියි/11-414035) · `si`
@@ -1093,6 +1273,22 @@ Police had arrested 34 individuals including Stalin during a protest staged by t
 ...
 
 [Data](articles/882fce61.json)
+
+---
+
+### Sri Lanka appoints new chairman, members to Official Languages Commission
+
+*2025-01-06 15:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-chairman-members-to-official-languages-commission-198257/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Disanayake has appointed Nimal R Ranawaka as the new chairman of the Official Languages Commission.
+
+Other members of the commission include Professor R M W Rajapaksha, Professor Stanislaus Joseph Yogarajah, and Lareena Abdul Haq.
+
+Their appointment letters were presented on Monday at the Presidential Secretariat by President’s Secretary Nandika Kumanayake. (Colombo/Jan6/2024)
+
+◼️
+
+[Data](articles/47aa1893.json)
 
 ---
 
@@ -1273,6 +1469,26 @@ The appointment letters were presented by Secretary to the President Dr. Nandika
 ◼️
 
 [Data](articles/7099ab7a.json)
+
+---
+
+### Sri Lanka Economic Summit organised by Ceylon Chamber to focus on PPPs
+
+*2025-01-06 14:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-summit-organised-by-ceylon-chamber-to-focus-on-ppps-198252/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Economic Summit organised by The Ceylon Chamber of Commerce will focus on the potential for public-private partnerships to drive Sri Lanka’s growth, the trade body said.
+
+The event on ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies’ starts on January 28 at the Shangri La Hotel Colombo.
+
+A January 29 session will examine ‘The Right Reforms for Transformational Growth’ focusing on the South Korean story of economic transformation, and potential applications to Sri Lanka’s development trajectory.
+
+It will explore medium-term opportunities for Sri Lanka, the chamber said, and “leverage the expertise of a high-profile panel representing leading multinational corporations, local conglomerates, the energy, ports and capital market sectors, and multilateral agencies.”
+
+The session’s keynote address will be delivered by Dr Kyungjin Song, Country Representative for Korea at The Asia Foundation.
+
+...
+
+[Data](articles/188fbd82.json)
 
 ---
 
@@ -1607,193 +1823,5 @@ It will also serve as a platform to mainstream productivity-enhancing ideas acro
 ...
 
 [Data](articles/204e46db.json)
-
----
-
-### Seven CCTV cameras go missing from old Police Headquarters
-
-*2025-01-06 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104755/seven-cctv-cameras-go-missing-from-old-police-headquarters) · `en`
-
-Seven CCTV cameras installed at the old Police Headquarters in Colombo Fort have been reported missing.
-
-The Police Headquarters, now operating from the old Air Force Base in Kompanna Veediya, has lodged a complaint with the Fort Police regarding the disappearance.
-
-According to reports, the CCTV cameras were mounted on the 5th floor of the old Police Headquarters building. The exact timing of their disappearance remains unclear, but it is suspected that the cameras went missing after the police headquarters relocated to its new premises.
-
-The total value of the missing cameras is yet to be determined, and investigations are underway to trace their whereabouts.
-
-◼️
-
-[Data](articles/9dc5d71d.json)
-
----
-
-### ஈழத்தமிழர் பிரச்சினைகளை தீர்ப்பதற்கான அரசியல் நல்லெண்ணத்தை எடுத்துக்காட்டும் சமிக்ஞைகளை தேசிய மக்கள் சக்தி இதுவரை வெளியிடவில்லை - குமார் பொன்னம்பலம் நினைவுப்பேருரையில் பேராசிரியர் ரகுராம்
-
-*2025-01-06 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/203097) · `ta`
-
-ஈழத்தமிழர் பிரச்சினைகளை தீர்ப்பதற்கான ஒரு ஆக்கபூர்வமான அல்லது மனச்சுத்தியுடனான செயற்பாடுகளில் ஈடுபடுவதற்கான அறிகுறிகளை தேசிய மக்கள் சக்தி அரசாங்கம் வெளிப்படுத்தவேண்டும் என பேராசிரியர் ரகுராம் வேண்டுகோள் விடுத்துள்ளார்.
-
-யாழ்ப்பாணத்தில் ஞாயிற்றுக்கிழமை  மாமனிதர் குமார் பொன்னம்பலம் நினைவுப்பேருரையை ஆற்றிய பேராசிரியர் ரகுராம்  இதனை தெரிவித்துள்ளார்.
-
-இன்றைக்கு எங்களின் மிக முக்கியமான பிரச்சினைகளாகயிருக்கின்ற வலிந்து காணாமலாக்கபட்டோர்,தொடர்பான நிலை, படைகளிடம் கையளிக்கப்பட்டோர் தொடர்பான நிலை,பற்றிய வெளிப்படையான பிரகடனம் தேசிய மக்கள் சக்தி அரசாங்கத்தினாலே வெளிப்படுத்தப்படவேண்டும்.
-
-இன்றைக்கு மீதமாகவுள்ள அரசியல் கைதிகள் விடுதலை செய்யப்படவேண்டும்.பயங்கரவாத தடைச்சட்டம் நீக்கப்படவேண்டும் என தெரிவித்துள்ள பேராசிரியர் ரகுராம் தனது உரையில் மேலும் தெரிவித்துள்ளதாவது.
-
-...
-
-[Data](articles/d1059ea9.json)
-
----
-
-### WHO commends Sri Lanka deinstitutionalization approach on mental health
-
-*2025-01-06 12:07:00* · [`economynextcom`](https://economynext.com/who-commends-sri-lanka-deinstitutionalization-approach-on-mental-health-198209/) · `en`
-
-ECONOMYNEXT – The World Health Organization has commended Sri Lanka’s focus on expanding community-based networks and deinstitutionalization aimed at enhancing its mental health services.
-
-In its 2024 annual report, the world health body said Sri Lanka’s focus on expanding community-based networks and deinstitutionalization is a notable action.
-
-“By transitioning from long-stay institutional care to community-based services, Sri Lanka aims to provide individuals with greater autonomy and support within their communities.”
-
-In Sri Lanka, as in other south east Asian states, mental health services are not accessible to some. There is also considerable stigma attached to mental health issues.
-
-“Mental health conditions are the leading cause of years of healthy life lost to disability, with depression being the largest contributor, and schizophrenia the single most disabling condition.”
-
-...
-
-[Data](articles/63e7d662.json)
-
----
-
-### පැරණි පොලිස් මූලස්ථානයේ තිබූ CCTV කැමරා 7ක් අතුරුදන්
-
-*2025-01-06 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205076) · `si`
-
-කොළඹ කොටුව පැරණි පොලිස් මූලස්ථානයේ සවිකර තිබූ cctv කැමරා 07 ක් අතුරුදහන්ව තිබේ.
-
-පොලිස් මූලස්ථානය විසින් මේ සම්බන්ධයෙන් ⁣  කොටුව පොලීසියේ පැමිණිල්ලක් ද සිදුකර ඇත.
-
-මේ වන විට පොලිස් මූලස්ථානය කොම්පඤ්ඤ වීදියේ පැරණි ගුවන් හමුදා කඳවුරේ ස්ථාපිත කර තිබේ.
-
-එම ස්ථානයට පොලිස් මූලස්ථානය රැගෙන යෑමෙන් අනතුරුව මෙම cctv අතුරුදහන් ව ඇති බව සඳහන් වේ.
-
-⁣පැරණි පොලිස් මූලස්ථානයේ 05වන මහලේ මෙම cctv කැමරා සවි කර තිබී ඇති අතර ඒවායේ වටිනාකම මේ වන තෙක් ගණනය කර නොමැති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/6425ee72.json)
-
----
-
-### 8 மாத குழந்தைக்கு எச்எம்பிவி தொற்று
-
-*2025-01-06 11:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8-மாத-குழந்தைக்கு-எச்எம்பிவி-தொற்று/50-349845) · `ta`
-
-பெங்களூருவில் 8 மாத குழந்தைக்கு எச்எம்பிவி தொற்று ஏற்பட்டதாக தகவல் வெளியான நிலையில் அது தொடர்பாக கர்நாடக சுகாதார துறை விளக்கம் அளித்துள்ளது. சீனாவில் ஹியூமன் மெட்டாநியூமோவைரஸ் (எச்எம்பிவி) வேகமாக பரவி வருகிறது. இதனை தீவிரமாக கண்காணித்து வருவதாகவும், இப்போதைக்கு இது குறித்து அச்சம் கொள்ளத் தேவையில்லை என்றும் மத்திய அரசு தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/3dd576c3.json)
-
----
-
-### India detects first suspected HMPV case, 8-month-old baby infected
-
-*2025-01-06 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104753/india-detects-first-suspected-hmpv-case-8-month-old-baby-infected) · `en`
-
-India has detected its first suspected Human Metapneumovirus (HMPV) case in Bengaluru in an eight-month old baby.
-
-Sources from the Bruhat Bengaluru Mahanagara Palike (BBMP) said that the suspected case was detected through a private laboratory, and that the patient and its family have no travel history.
-
-“The case has come from Hunasanahalli in Bengaluru Rural district. The child has been admitted to the Bengaluru Baptist Hospital,” the source said, adding the child will be discharged today.  HMPV is a viral respiratory infection that causes symptoms resembling the common cold. It spreads via droplets, direct contact, and possibly airborne particles. Symptoms range from mild, such as a runny nose, to severe, including breathing difficulties and chest pain.
-
-...
-
-[Data](articles/877823d4.json)
-
----
-
-### No direct talks with foreign missions: New circular tightens Sri Lanka’s diplomatic protocols
-
-*2025-01-06 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104752/no-direct-talks-with-foreign-missions-new-circular-tightens-sri-lankas-diplomatic-protocols-) · `en`
-
-The government has introduced a comprehensive set of guidelines aimed at streamlining and ensuring coordinated communication between the state institutions and foreign entities.
-
-Accordingly, the government has issued a circular, effective from January 1, 2025, in order to safeguard national interests and prevent diplomatic complications.
-
-As per the new circular, the Ministry of Foreign Affairs will serve as the lead institution for all international relations while making it compulsory to obtain the President’s pre-approval for all foreign visits by government officials.
-
-The guidelines emphasize strengthening the role of the Ministry of Foreign Affairs, ensuring clarity in communication protocols, and establishing a clear framework for international agreements, foreign financing, and diplomatic protocols.
-
-...
-
-[Data](articles/bdc0a286.json)
-
----
-
-### துப்பாக்கியைக் காட்டி மிரட்டி பழ வியாபாரியிடம் கொள்ளை ; பண்டாரகமையில் சம்பவம்!
-
-*2025-01-06 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203090) · `ta`
-
-களுத்துறை, பண்டாரகம, மெதகம, ஹந்துன்வென்ன பிரதேசத்திற்கு மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர், தங்களை பொலிஸ் உத்தியோகத்தர்கள் என அடையாளப்படுத்தி பழ வியாபாரி ஒருவரிடம் துப்பாக்கியைக் காட்டி மிரட்டி 150,000 ரூபா பணத்தை கொள்ளையிட்டு தப்பிச் சென்றுள்ளதாக பண்டாரகம பொலிஸார் தெரிவித்தனர்.
-
-லுணுகம்வெஹர பிரதேசத்தில் வசிக்கும் பழ வியாபாரி ஒருவர் பேருவளை மற்றும் களுத்துறை ஆகிய பிரதேசங்களில் உள்ள கடைகளுக்கு வாழைப்பழங்களை விற்பனை செய்யவதற்காக நேற்று ஞாயிற்றுக்கிழமை காலை (5) தனது லொறியில்  சென்றுள்ளார்.
-
-பின்னர், இந்த பழ வியாபாரி மாலை நேரத்தில் பண்டாரகம பிரதேசத்திற்கு சென்று ஹந்துன்வன்ன பிரதேசத்தில் உள்ள பழ கடை ஒன்றிற்கு முன்பாக லொறியை நிறுத்திவிட்டு, அந்த கடைக்கு வாழைப்பழங்களை விற்பனை செய்து, மீண்டும் லொறியில் ஏற முயன்ற போது, மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் பழ வியாபாரியிடம் துப்பாக்கியைக் காட்டி மிரட்டி பணத்தை கொள்ளையிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/2d050ccd.json)
-
----
-
-### இராணுவத் தளபதிக்கு வௌிநாட்டுப் பெண்ணின் சல்யூட்
-
-*2025-01-06 11:31:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்-தளபதிக்கு-வௌிநாட்டுப்-பெண்ணின்-சல்யூட்/175-349843) · `ta`
-
-இலங்கையின் 25வது இராணுவத் தளபதியாக லெப்டினன்ட் ஜெனரல் லசந்த ரொட்ரிகோ பதவியேற்றதன் பின்னர் கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகைக்கு விஜயம் செய்து வழிபாடுகளில் ஈடுபட்டுள்ளார்
-
-அவரை, தியவடன நிலமே பிரதீப் நிலங்க வரவேற்றுள்ள நிலையில் தலதா மாளிகைக்கு வந்திருந்த வெளிநாட்டு சுற்றுலாப் பயணியான இளம் பெண் ஒருவர் புதிய இராணுவத் தளபதிக்கு சல்யூட் செய்து மரியாதை செலுத்தியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/79bbbca2.json)
-
----
-
-### අතිරික්ත රාජ්‍ය සේවකයන් අඩු කරන ලෙස අයි.එම්.එෆ්. දනුමී දිලා
-
-*2025-01-06 11:30:56* · [`adalk`](https://www.ada.lk/breaking_news/අතිරික්ත-රාජ්‍ය-සේවකයන්-අඩු-කරන-ලෙස-අයි-එම්-එෆ්--දනුමී-දිලා/11-414032) · `si`
-
-මෙරට රාජ්‍ය සේවය තුළ ලක්ෂ පහළොවක පමණ පිරිසක් සිටියද පසුගිය කාලයේ රාජ්‍ය සේවයට අදාළව විවිධ පත්වීම් ලබාදීී ඇතත් ඒවා ලබාදී ඇත්තේ දේශපාලන අරමුණු පෙරදැරි කරගමින් මිස මහජන සේවය අරමුණු කරගෙන නොවන බව කෘෂිකර්ම පශු සම්පත් ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී ලාල් කාන්ත මහතා පවසයි.
-
-එම රාජ්‍ය සේවකයන් අතරින් අතිරික්ත සේවකයන් රැසක් සිටින බවත් ඔවුන් අඩු කරනලෙස ජාත්‍යන්තර මූල්‍ය අරමුදල පෙන්වා දී ඇති බව පැවසූ අමාත්‍යවරයා රාජ්‍ය සේවයෙන් උපරිම සේවයක් ලබා ගැනීම සඳහා සැලසුම් සකස් කර තිබෙන බවද පවසයි.
-
-අමාත්‍යවරයා මෙම අදහස් පල කර සිටියේ මහනුවරදී පැවති කෘෂිකර්ම ක්ෂේත්‍රයට අදාළ ප්‍රගති සමාලෝචනයකට සහභාගිවීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි.
-
-එහිදී  අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ කෘෂිකර්ම ක්ෂේත්‍රයට අදාළව වෘත්තිකයන් ඇතුළු අත්‍යාවශ්‍ය සේවාවන් සපයන නිලධාරීන්ගේ සැලකිය යුතු හිඟයක් පවතින බවයි. විශේෂයෙන් රජයට සම්බන්ධ පශු වෛද්‍යවරුන් සහ වනජීවි නිලධාරීන්ගේ හිගයක් ඒ අතරින් කැපී පෙනෙන බවද පැවසීය.
-
-...
-
-[Data](articles/2a3de1c0.json)
-
----
-
-### சுதந்திர வர்த்தக ஒப்பந்தத்தை புதுப்பிக்க இலங்கை - பாக்கிஸ்தான் அவதானம் ; விசா கெடுபிடிகளை தளர்த்தவும் கோரிக்கை
-
-*2025-01-06 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/203094) · `ta`
-
-பாக்கிஸ்தானுக்கும் இலங்கைக்கும் இடையிலான சுதந்திர வர்த்தக ஒப்பந்தத்தை புதுப்பிப்பது தொடர்பில் இருதரப்பு பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளதுடன், பாக்கிஸ்தானில் உள்ள பௌத்த மரபுரிமை ஸ்தலங்களை இலங்கையின் பௌத்த பீடங்களுக்கு வழங்குதல், போதைப்பொருள் கடத்தலை காரணமாக கொண்டு பாக்கிஸ்தானியர்களுக்கு விதிக்கப்பட்டுள்ள விசா கட்டுப்பாடுகளை தளர்த்தல் உள்ளிட்ட விடயங்கள் குறித்தும் அவதானம் செலுத்தப்பட்டுள்ளது.
-
-இலங்கைக்காக பாக்கிஸ்தான் உயர்ஸ்தாணிகர் மேஜர் ஜெனரல் (ஓய்வு) பாஹிம் அஜீஸ், வெளிவிவகார அமைச்சர் விஜித்த ஹேராத்தை சந்தித்து கலந்துரையாடிய போதே மேற்குறிப்பிட்ட விடயங்கள் தொடர்பில் அவதானம் செலுத்தப்பட்டன.
-
-பாக்கிஸ்தானில் உள்ள பௌத்த மரபுரிமை ஸ்தலங்களை இலங்கையின் பௌத்த பீடங்களுக்கு பொறுப்பளிப்பது தொடர்பான யோசனையை முன்வைத்து அரசாங்கத்துடன் பேச்சுவார்த்தைகள் முன்னெடுக்கப்பட்டுள்ளன.
-
-அதே வேளை இலங்கைக்கும் பாக்கிஸ்தானுக்கும் இடையிலான சுதந்திர வர்த்தக ஒப்பந்தத்தை புதுப்பிக்கும் யோசனையையும் பாக்கிஸ்தான் முன்வைத்துள்ளது.
-
-...
-
-[Data](articles/b23ca37d.json)
 
 ---

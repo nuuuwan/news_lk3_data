@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 12:29:53**
+As of **2025-01-06 12:43:58**
 
 ## Newspaper Stats
 
-*Scraped **63,919** Articles*
+*Scraped **63,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,102
-adaderanalk | 7,815
+adaderanalk | 7,820
 tamilmirrorlk | 9,168
-virakesarilk | 10,679
-adaderanasinhalalk | 11,032
+virakesarilk | 10,682
+adaderanasinhalalk | 11,033
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.0%) of 63,919 articles have been extended.
+61,971 (96.9%) of 63,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### அத்துருகிரியவில் ஹெரோயினுடன் ஒருவர் கைது !
+
+*2025-01-06 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/203098) · `ta`
+
+அத்துருகிரிய பொலிஸ் பிரிவுக்கு உட்பட்ட முல்லேரிகம பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் பெண் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (05) அதுருகிரிய பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+அத்துருகிரிய பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் தெடிகமுவ பிரதேசத்தைச் சேர்ந்த 35 வயதுடைய பெண் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து 06 கிராம் 300 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/41acbe1b.json)
+
+---
+
+### ஈழத்தமிழர் பிரச்சினைகளை தீர்ப்பதற்கான அரசியல் நல்லெண்ணத்தை எடுத்துக்காட்டும் சமிக்ஞைகளை தேசிய மக்கள் சக்தி இதுவரை வெளியிடவில்லை - குமார் பொன்னம்பலம் நினைவுப்பேருரையில் பேராசிரியர் ரகுராம்
+
+*2025-01-06 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/203097) · `ta`
+
+ஈழத்தமிழர் பிரச்சினைகளை தீர்ப்பதற்கான ஒரு ஆக்கபூர்வமான அல்லது மனச்சுத்தியுடனான செயற்பாடுகளில் ஈடுபடுவதற்கான அறிகுறிகளை தேசிய மக்கள் சக்தி அரசாங்கம் வெளிப்படுத்தவேண்டும் என பேராசிரியர் ரகுராம் வேண்டுகோள் விடுத்துள்ளார்.
+
+யாழ்ப்பாணத்தில் ஞாயிற்றுக்கிழமை  மாமனிதர் குமார் பொன்னம்பலம் நினைவுப்பேருரையை ஆற்றிய பேராசிரியர் ரகுராம்  இதனை தெரிவித்துள்ளார்.
+
+இன்றைக்கு எங்களின் மிக முக்கியமான பிரச்சினைகளாகயிருக்கின்ற வலிந்து காணாமலாக்கபட்டோர்,தொடர்பான நிலை, படைகளிடம் கையளிக்கப்பட்டோர் தொடர்பான நிலை,பற்றிய வெளிப்படையான பிரகடனம் தேசிய மக்கள் சக்தி அரசாங்கத்தினாலே வெளிப்படுத்தப்படவேண்டும்.
+
+இன்றைக்கு மீதமாகவுள்ள அரசியல் கைதிகள் விடுதலை செய்யப்படவேண்டும்.பயங்கரவாத தடைச்சட்டம் நீக்கப்படவேண்டும் என தெரிவித்துள்ள பேராசிரியர் ரகுராம் தனது உரையில் மேலும் தெரிவித்துள்ளதாவது.
+
+...
+
+[Data](articles/d1059ea9.json)
+
+---
+
+### පැරණි පොලිස් මූලස්ථානයේ තිබූ cctv කැමරා 7ක් අතුරුදන්
+
+*2025-01-06 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205076) · `si`
+
+කොළඹ කොටුව පැරණි පොලිස් මූලස්ථානයේ සවිකර තිබූ cctv කැමරා 07 ක් අතුරුදහන්ව තිබේ.
+
+පොලිස් මූලස්ථානය විසින් මේ සම්බන්ධයෙන් ⁣  කොටුව පොලීසියේ පැමිණිල්ලක් ද සිදුකර ඇත.
+
+මේ වන විට පොලිස් මූලස්ථානය කොම්පඤ්ඤ වීදියේ පැරණි ගුවන් හමුදා කඳවුරේ ස්ථාපිත කර තිබේ.
+
+එම ස්ථානයට පොලිස් මූලස්ථානය රැගෙන යෑමෙන් අනතුරුව මෙම cctv අතුරුදහන් ව ඇති බව සඳහන් වේ.
+
+⁣පැරණි පොලිස් මූලස්ථානයේ 05වන මහලේ මෙම cctv කැමරා සවි කර තිබී ඇති අතර ඒවායේ වටිනාකම මේ වන තෙක් ගණනය කර නොමැති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/6425ee72.json)
+
+---
 
 ### 8 மாத குழந்தைக்கு எச்எம்பிவி தொற்று
 
@@ -41,6 +97,56 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/3dd576c3.json)
+
+---
+
+### India detects first suspected HMPV case, 8-month-old baby infected
+
+*2025-01-06 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104753/india-detects-first-suspected-hmpv-case-8-month-old-baby-infected) · `en`
+
+India has detected its first suspected Human Metapneumovirus (HMPV) case in Bengaluru in an eight-month old baby.
+
+Sources from the Bruhat Bengaluru Mahanagara Palike (BBMP) said that the suspected case was detected through a private laboratory, and that the patient and its family have no travel history.
+
+“The case has come from Hunasanahalli in Bengaluru Rural district. The child has been admitted to the Bengaluru Baptist Hospital,” the source said, adding the child will be discharged today.  HMPV is a viral respiratory infection that causes symptoms resembling the common cold. It spreads via droplets, direct contact, and possibly airborne particles. Symptoms range from mild, such as a runny nose, to severe, including breathing difficulties and chest pain.
+
+...
+
+[Data](articles/877823d4.json)
+
+---
+
+### No direct talks with foreign missions: New circular tightens Sri Lanka’s diplomatic protocols
+
+*2025-01-06 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104752/no-direct-talks-with-foreign-missions-new-circular-tightens-sri-lankas-diplomatic-protocols-) · `en`
+
+The government has introduced a comprehensive set of guidelines aimed at streamlining and ensuring coordinated communication between the state institutions and foreign entities.
+
+Accordingly, the government has issued a circular, effective from January 1, 2025, in order to safeguard national interests and prevent diplomatic complications.
+
+As per the new circular, the Ministry of Foreign Affairs will serve as the lead institution for all international relations while making it compulsory to obtain the President’s pre-approval for all foreign visits by government officials.
+
+The guidelines emphasize strengthening the role of the Ministry of Foreign Affairs, ensuring clarity in communication protocols, and establishing a clear framework for international agreements, foreign financing, and diplomatic protocols.
+
+...
+
+[Data](articles/bdc0a286.json)
+
+---
+
+### துப்பாக்கியைக் காட்டி மிரட்டி பழ வியாபாரியிடம் கொள்ளை ; பண்டாரகமையில் சம்பவம்!
+
+*2025-01-06 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203090) · `ta`
+
+களுத்துறை, பண்டாரகம, மெதகம, ஹந்துன்வென்ன பிரதேசத்திற்கு மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர், தங்களை பொலிஸ் உத்தியோகத்தர்கள் என அடையாளப்படுத்தி பழ வியாபாரி ஒருவரிடம் துப்பாக்கியைக் காட்டி மிரட்டி 150,000 ரூபா பணத்தை கொள்ளையிட்டு தப்பிச் சென்றுள்ளதாக பண்டாரகம பொலிஸார் தெரிவித்தனர்.
+
+லுணுகம்வெஹர பிரதேசத்தில் வசிக்கும் பழ வியாபாரி ஒருவர் பேருவளை மற்றும் களுத்துறை ஆகிய பிரதேசங்களில் உள்ள கடைகளுக்கு வாழைப்பழங்களை விற்பனை செய்யவதற்காக நேற்று ஞாயிற்றுக்கிழமை காலை (5) தனது லொறியில்  சென்றுள்ளார்.
+
+பின்னர், இந்த பழ வியாபாரி மாலை நேரத்தில் பண்டாரகம பிரதேசத்திற்கு சென்று ஹந்துன்வன்ன பிரதேசத்தில் உள்ள பழ கடை ஒன்றிற்கு முன்பாக லொறியை நிறுத்திவிட்டு, அந்த கடைக்கு வாழைப்பழங்களை விற்பனை செய்து, மீண்டும் லொறியில் ஏற முயன்ற போது, மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் பழ வியாபாரியிடம் துப்பாக்கியைக் காட்டி மிரட்டி பணத்தை கொள்ளையிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2d050ccd.json)
 
 ---
 
@@ -94,6 +200,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka Navy seized narcotics valued nearly Rs. 3,000M during operations in 2024
+
+*2025-01-06 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104751/sri-lanka-navy-seized-narcotics-valued-nearly-rs-3000m-during-operations-in-2024) · `en`
+
+Sri Lanka Navy’s operations in 2024 have yielded impressive results, bringing to justice 407 persons, both local and foreign, involved in a wide array of illegal acts such as smuggling of narcotics, prescription drugs, and contraband as well as apprehending those involved in human smuggling.
+
+Issuing a statement, Sri Lanka Navy stated that these operations were conducted in close coordination with law enforcement agencies and maritime partners in the region.
+
+Meanwhile, the gross street value of narcotics and prescription drugs seized in these operations has been valued at over Rs. 28,158 million of street value, Sri Lanka Navy said.
+
+The Sri Lanka Navy consistently carries out operations in partnership with regional maritime partners, to address an assortment of illicit activities, including drug trafficking, within the ocean region.
+
+...
+
+[Data](articles/a816fbd8.json)
+
+---
+
+### Term test question paper ‘leaked’ in NCP; Exam suspended
+
+*2025-01-06 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/104750/term-test-question-paper-leaked-in-ncp-exam-suspended) · `en`
+
+The Sinhala Literature question paper for the Grade 11 term test in the North Central Province (NCP) has been confirmed to have leaked on social media, prompting authorities to take immediate action.
+
+The Education Secretary to the North Central Province, Sirimevan Dharmasena stated that as a result, the final term test, scheduled for today (January 6), has been postponed.
+
+As of this morning, the distribution of the compromised question paper was halted across more than 600 schools in the province. These schools span 30 educational divisions across eight zones, according to Dharmasena.
+
+The North Central Province Education Secretary further stated that the examination will be temporarily suspended accordingly. A new question paper will be prepared and distributed to ensure the continuation of the examination process without compromising its integrity, he noted.
+
+◼️
+
+[Data](articles/d26b079f.json)
+
+---
+
 ### තිසර නානායක්කාර යළි රිමන්ඩ්
 
 *2025-01-06 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205075) · `si`
@@ -135,6 +277,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5fa4232d.json)
+
+---
+
+### Ex-Minister Manusha Nanayakkara’s brother remanded further
+
+*2025-01-06 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104749/ex-minister-manusha-nanayakkaras-brother-remanded-further) · `en`
+
+The brother of former Foreign Employment Minister Manusha Nanayakkara has been ordered to be remanded further until January 11, 2025, after being produced before the Gampaha Magistrate’s Court.
+
+The ex-Minister’s brother, Thisara Iroshana Nanayakkara, was arrested by the Criminal Investigation Department (CID) on December 28, 2025 in connection with a complaint related to alleged financial fraud.
+
+The arrest was made in the Bibile area, according to police. He was later produced before the Gampaha Magistrate’s Court where he was ordered to be remanded in custody until today (06).
+
+Police said that the arrested suspect, Thisara Iroshana Nanayakkara, has allegedly defrauded around Rs. 3 million from individuals after promising employment opportunities in Finland.
+
+◼️
+
+[Data](articles/82baaa6e.json)
 
 ---
 
@@ -1653,151 +1813,5 @@ FACETS Sri Lanka 2025 shines a spotlight on Sri Lanka’s local gempreneurs, hai
 ...
 
 [Data](articles/40a1787f.json)
-
----
-
-### Nestlé Coconut Development Plan supports 500 more rural families in Northern Province
-
-*2025-01-05 21:38:00* · [`islandlk`](http://island.lk/nestle-coconut-development-plan-supports-500-more-rural-families-in-northern-province/) · `en`
-
-The Nestlé Coconut Development Plan was expanded recently, benefiting 500 rural families in the Northern Province. Conducted for the eighth year running in collaboration with the Coconut Cultivation Board of Sri Lanka (CCB), the programme has supported approximately 5,000 home-growers with hybrid coconut plantlets and other resources with the ambition of expanding coconut cultivation in Sri Lanka. This programme has also taken measures to train beneficiaries on best practices of coconut cultivation by conducting on-ground training programmes and providing fertilizer for cultivation.
-
-...
-
-[Data](articles/d3bd2894.json)
-
----
-
-### Brandix redefining the strategic pillars of its Smart Factory journey
-
-*2025-01-05 21:36:00* · [`islandlk`](http://island.lk/brandix-redefining-the-strategic-pillars-of-its-smart-factory-journey/) · `en`
-
-One of Sri Lanka’s leading proponents of technology solutions in manufacturing, Brandix, took stock of its transformative journey and discussed new innovative solutions to propel the business forward at the ‘Digital Horizon 2024’, the second edition of Brandix’s own digital keynote session held at Trace Expert City in Colombo.
-
-...
-
-[Data](articles/9174967f.json)
-
----
-
-### இந்த வருடத்தில் சுற்றுலா பயணிகளின் எண்ணிக்கையை மூன்று மில்லியனாக அதிகரிப்பதே எமது திட்டம் - அமைச்சர் விஜித்த ஹேரத் தெரிவிப்பு
-
-*2025-01-05 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/203064) · `ta`
-
-சுற்றுலாத்துறை என்பது வெறுமனே கைத்தொழில் மாத்திரமல்ல. அது எமது நாட்டின் கலை, கலாசாரத்தை உலகுக்கு கொண்டுசெல்லும் மத்திய நிலையமாகும். அதனால் சுற்றுலா துறையை கிராமிய மக்களுடனும் தொடர்புபடுத்துவதே எமது திட்டமாகும். அதேநேரம் இந்த வருடத்தில் மூன்று மில்லியன் சுற்றுலா பயணிகளை நாட்டுக்கு கொண்டுவருவதே எமது இலக்காகும் என வெளிவிவகார, சுற்றுலாத்துறை மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் விஜித்த ஹேரத் தெரிவித்தார்.
-
-பெந்தொட்டை பிரதேசத்தில் நிர்மாணிக்கப்பட்டுள்ள ஆயுர்வேத நிலையம் ஒன்றை சனிக்கிழமை (4)  ஆரம்பித்துவைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-நாட்டின சுற்றுலாத்துறை வேகமாக முன்னேறிச் செல்கிறது. கடந்த டிசம்பர் 31ஆம் திகதி, இந்த வருடத்தின் சுற்றுலா பயணிகளின் வருகை இலக்கான 2மில்லியனை பூரணப்படுத்தியுள்ளோம். அதனால் இந்த வருடம் அந்த எண்ணிக்கையை 3மில்லியன் வரை அதிகரித்துக்கொள்னவே நாங்கள் எதிர்பார்க்கிறோம்.
-
-...
-
-[Data](articles/b80c42e2.json)
-
----
-
-### අතරමග නතර වුණ දේවාලේ දේව කාර්යය
-
-*2025-01-05 20:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205061) · `si`
-
-සබරගමුව මහ සමන් දේවාලයට වැඩබලන බස්නායක නිලමේවරයෙක් පත්කිරීම සම්බන්ධයෙන් එම දේවාලයේ රාජකාරි මණ්ඩලයෙන් විරෝධයක් එල්ල විය.
-
-ඔවුන් පවසන්නේ සම්ප්‍රදායට එරෙහිව, දේශපාලන වුවමනාව මත එම පත්කිරීම සිදුකර ඇති බවටය.
-
-හිටපු බස්නායක නිලමේවරයාගේ ධුර කාලය අවසන් වීමෙන් පසු ස්ථිර බස්නායක නිලමේවරයෙක් පත්කරන තෙක් එස්.වී. චන්ද්‍රසිංහ මහතා වැඩබලන බස්නායක නිලමේ ලෙස පත්කිරීමට බෞද්ධ කටයුතු කොමසාරිස්වරයා පියවර ගෙන තිබුණි.
-
-එම පත්කිරීම සම්ප්‍රදායට එරෙහි බවටත් , එම පුද්ගලයා වත්මන් ආණ්ඩුවේ හිතවතෙකු බවටත් චෝදනා කරමින් දේවාලයේ කපු මහත්වරුන් ප්‍රමුඛ රාජකාරී මණ්ඩලය තේවා ඇතුළු රාජකාරී කටයුතු වලින් අද ඉවත් විය.
-
-අනතුරුව ඔවුන් සමන් දේවාලයේ පිවිසුම් දොරකඩ අසලට පැමිණ නිහඬ විරෝධතාවක නිරත විය.
-
-◼️
-
-[Data](articles/3399d455.json)
-
----
-
-### උකුස්සා හෙළිකළ කළුගඟ ඉස්මත්තේ ජාවාරම
-
-*2025-01-05 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205060) · `si`
-
-හොරණ වගවත්ත ප්‍රදේශය කළුගඟ අසළ පිහිටා තිබෙන ස්වභාවික සම්පත්වලින් අනූන වූ භූමි ප්‍රදේශයක්.
-
-එය කෙතරම් සුන්දර වුවත් එහි ඇති ස්වභාවික සම්පත්වල වටිනාකම් පිළිබඳ කිසිදු තැකීමක් නොමැතිව ඉතා අවිධිමත් අයුරින් සිදුකරන පස් ජාවාරමක් සම්බන්ධයෙන් 'අද දෙරණ උකුස්සාට' තොරතුරු අනාවරණ විය.
-
-පසුව 'අද දෙරණ උකුස්සා', භූ විද්‍යා හා පතල් කාර්යාංශයේ නිලධාරින් සහ පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් ද සමඟ එම භූමි ප්‍රදේශය පිහිටා ඇති හොරණ වගවත්තට ගියේ මෙම ජාවාරම එය සිදුවන අවස්ථාවේදීම නීතියේ රැහැනට හසුකර ගැනීම සඳහාය.
-
-ඒ අනුව අක්කර 50කට ආසන්න භූමි ප්‍රදේශයේ එක් කොටසකට ඇතුළුවන විට අපට දක්නට ලැබුණේ ඉතා විශාල පස්කඳු එහි ගොඩගසා ඇති ආකාරයයි.
-
-එහිදී භූ විද්‍යා හා පතල් කැණීම් කාර්යාංශයේ නිලධාරින් අදාළ පිරිසේ කැණීම් බලපත්‍රය පරීක්ෂා කළ විට අනාවරණ වුණේ මැණික් ගැරීම සිදුකර අදාළ වළවල් එම පස් මගින්ම වසා දැමිය යුතුයි යන කොන්දේසිය මුල් කරගනිමින් ඔවුන්ට මැණික් ගැරීම සඳහා පමණක් බලපත්‍රයක් ලබාදී ඇති බවයි.
-
-...
-
-[Data](articles/a5bc04e8.json)
-
----
-
-### தைப்பொங்கல் பண்டிகைக்கு பொங்கல் தயார் செய்ய அரிசி தட்டுப்பாடு - புறக்கோட்டை அரிசி மொத்த வியாபாரிகள்
-
-*2025-01-05 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/203063) · `ta`
-
-இன்னும் ஒரு வாரத்துக்குப் பிறகு வரும் தைப்பொங்கல் பண்டிகைக்கு பொங்கல் தயார் செய்ய முடியாமல் சந்தையில் அரிசி தட்டுப்பாடு ஏற்பட்டுள்ளதாக புறக்கோட்டை அரிசி மொத்த வியாபாரிகள் குற்றம் சாட்டுகின்றனர்.
-
-அரிசி தட்டுப்பாட்டுக்கு தீர்வாக அரிசிக்கான கட்டுப்பாட்டு விலையை விதித்தல், அரிசியை இறக்குமதி செய்தல், அரிசி விற்பனை செய்பவர்கள் மற்றும் கட்டுப்பாட்டு விலைக்கு அப்பால் கையிருப்பு பதுக்கி வைத்திருப்பவர்களை கண்டறிய விசாரணைகளை ஆரம்பிக்க அரசாங்கம் நடவடிக்கை எடுத்தது.
-
-மேலும், அரிசியை இறக்குமதி செய்வதற்கு அரசாங்கம் நடவடிக்கை எடுத்ததுடன், அதற்கேற்ப 88,000 மெற்றிக் தொன் அரிசி இன்றுவரை இறக்குமதி செய்யப்பட்டுள்ளது.
-
-எவ்வாறாயினும், கடந்த பண்டிகை காலத்தை போன்று இன்றும் சந்தையில் அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாக வியாபாரிகள் தெரிவித்தனர்.
-
-இதேவேளை, நாட்டின் சில பகுதிகளில் உள்ளுர் கச்சா மற்றும் நாட்டு அரிசிக்கு தட்டுப்பாடு நிலவுவதாக வர்த்தகர்களும் நுகர்வோரும் குற்றம் சுமத்துகின்றனர்.
-
-...
-
-[Data](articles/ce59c9b0.json)
-
----
-
-### வங்கிக்கு முன்னால் நிறுத்தப்பட்ட காரில் துப்பாக்கி
-
-*2025-01-05 19:39:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கிக்கு-முன்னால்-நிறுத்தப்பட்ட-காரில்-துப்பாக்கி/175-349805) · `ta`
-
-பத்தரமுல்லை - தலாஹேன பகுதியில் உள்ள தனியார் வங்கி ஒன்றுக்கு முன்பாக நிறுத்தி வைக்கப்பட்டு இருந்த கார் ஒன்று பொலிஸாரினால் மீட்கப்பட்டுள்ளது.
-
-குறித்த வங்கிக்கு முன்பாக கார் ஒன்று நிறுத்தி வைக்கப்பட்டிருந்ததை இன்று காலை அங்கிருந்த பாதுகாப்பு அதிகாரிகள் பார்வையிட்டுள்ளனர், மதியம் வரையும் அந்த கார் அங்கிருந்து அகற்றப்படாததால் பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது.
-
-இந்தநிலையில், பொலிஸாரும், பொலிஸ் விசேட அதிரடிப்படையினரும் இணைந்து காரை சோதனையிட்ட போது அதில் போலி துப்பாக்கி ஒன்று மீட்கப்பட்டதாக பொலிஸார்  தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/3fe503d7.json)
-
----
-
-### பிணைக்கு இலஞ்சம் வாங்கிய கான்ஸ்டபிள் கைது
-
-*2025-01-05 19:38:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணைக்கு-இலஞ்சம்-வாங்கிய-கான்ஸ்டபிள்-கைது/175-349804) · `ta`
-
-மனித படுகொலை குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டுள்ள சந்தேகநபர்கள் மூவருக்கு பிணை வழங்குவதற்காக, நீதவானுக்கு பணம் கொடுக்க வேண்டும் எனக் கூறி, ​பெண்கள் மூவரிடம் இருந்து 60 ஆயிரம் ரூபாய் பணத்தை பெற்றுக்​கொண்டார் என்ற குற்றச்சாட்டின் கீழ் களுவாஞ்சிகுடி நீதவானின் பாதுகாப்பு அதிகாரியாக கடமையாற்றும் கான்ஸ்டபிள் கைது செய்யப்பட்டுள்ளார் என மட்டக்களப்பு சிரேஷ்ட பொலிஸ் அதிகாரி காரியாலயம் தெரிவித்துள்ளது.
-
-எனினும்,  விளக்கமறியலில் வைக்கப்பட்டிருந்த மூவரும் முன்னார் உறுதியளிக்கப்பட்டவாறு  நீதிமன்ற தினத்தன்று,  பிணை வழங்காமை காரணமாக, அந்த பெண்கள் மூவரும், வழக்கு விசாரணை நிறைவில், அது தொடர்பில் நீதவானிடம் வினவியுள்ளனர். சந்தேகநபரான அந்த கான்ஸ்டபிள், தங்களிடமிருந்து 60 ஆயிரம் ரூபாய் பணத்தை பெற்றுக்​கொண்டுள்ளதாக நீதவானிடம் அந்த பெண்கள் தெரிவித்துள்ளனர்.
-
-...
-
-[Data](articles/716aba49.json)
-
----
-
-### 'க்ளீன் ஸ்ரீலங்கா' செயற்திட்டத்துக்கமைய பொலிஸாரினால் விசேட நடவடிக்கைககள்
-
-*2025-01-05 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203061) · `ta`
-
-'க்ளீன் ஸ்ரீலங்கா' செயற்திட்டத்துக்கமைய வீதி விபத்துக்களையும், போக்குவரத்து நெரிசலையும் கட்டுப்படுத்தும் வகையில் இரு விசேட போக்குவரத்து நடவடிக்கைககள் பொலிஸாரினால் முன்னெடுக்கப்பட்டுள்ளன.
-
-வாகனங்களில் பொருத்தப்பட்டுள்ள பொருத்தமற்ற உதிரிபாகங்கள் நீக்கப்படுவதுடன், வீதி விதிமுறைகளை மீறி செயற்படும் சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும். இந்த நடவடிக்கை எதிர்வரும் 19 ஆம் திகதி வரை முன்னெடுக்கப்படும் என பொலிஸ் ஊடகப் பேச்சாளாரும் சிரேஷ்ட பொலிஸ் அத்தியட்சகருமான சட்டத்தரணி புத்திக்க மனதுங்க தெரிவித்தார்.
-
-'க்ளீன் ஸ்ரீலங்கா' செயற்திட்டத்துக்கமைய வீதி விபத்துக்களையும் ,போக்குவரத்து நெரிசலையும் கட்டுப்படுத்தும் வகையில் இரு விசேட போக்குவரத்து நடவடிக்கைககள் பொலிஸாரினால் முன்னெடுக்கப்பட்டுள்ளன. பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரியவின் பணிப்புரைக்கு அமைய இந்த விசேடத்திட்டம் முன்னெடுக்கப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் புத்திக மனதுங்க தெரிவித்தார்.
-
-...
-
-[Data](articles/60d1851b.json)
 
 ---

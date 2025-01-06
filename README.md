@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 14:03:35**
+As of **2025-01-06 14:17:27**
 
 ## Newspaper Stats
 
-*Scraped **63,941** Articles*
+*Scraped **63,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,892
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,105
+adalk | 6,106
 adaderanalk | 7,820
 tamilmirrorlk | 9,173
 virakesarilk | 10,684
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,941 articles have been extended.
+61,971 (96.9%) of 63,942 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -258,17 +258,15 @@ It will also serve as a platform to mainstream productivity-enhancing ideas acro
 
 *2025-01-06 12:07:00* · [`economynextcom`](https://economynext.com/who-commends-sri-lanka-deinstitutionalization-approach-on-mental-health-198209/) · `en`
 
-ECONOMYNEXT – The World Health Organization has commended Sri Lanka’s focus on expanding community-based networks
+ECONOMYNEXT – The World Health Organization has commended Sri Lanka’s focus on expanding community-based networks and deinstitutionalization aimed at enhancing its mental health services.
 
 In its 2024 annual report, the world health body said Sri Lanka’s focus on expanding community-based networks and deinstitutionalization is a notable action.
 
 “By transitioning from long-stay institutional care to community-based services, Sri Lanka aims to provide individuals with greater autonomy and support within their communities.”
 
-In 2024, WHO launched several country support initiatives aimed at enhancing mental health services across the region.
+In Sri Lanka, as in other south east Asian states, mental health services are not accessible to some. There is also considerable stigma attached to mental health issues.
 
-The WHO’s Paro Declaration on universal access to people-centred mental health care and services, which advocates for revolutionary changes in mental health care, prioritizes wellbeing over disease-centred approaches.
-
-– Person-centred care: shifting the focus from diagnosis and treatment to prevention, lifestyle and early interventions
+“Mental health conditions are the leading cause of years of healthy life lost to disability, with depression being the largest contributor, and schizophrenia the single most disabling condition.”
 
 ...
 
@@ -387,6 +385,22 @@ The guidelines emphasize strengthening the role of the Ministry of Foreign Affai
 ...
 
 [Data](articles/b23ca37d.json)
+
+---
+
+### මාතලේට නව සුරාසැල් බෑ කියා නි. ඇමති ඉදිරිපිටදීම යෝජනා සම්මතයක්
+
+*2025-01-06 11:25:24* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේට-නව-සුරාසැල්-බෑ-කියා-නි--ඇමති-ඉදිරිපිටදීම-යෝජනා-සම්මතයක්/11-414031) · `si`
+
+මාතලේ දිස්ත්‍රික්කය තුළ නව සුරාසල් විවෘත කිරීමට ඉඩ නොදෙන බවට මාතලේ සාසනාරක්ෂක බල මණ්ඩලයට සමස්ත ලංකා සාසනාරක්ෂක බල මණ්ඩලයේ ලේඛකාධිකාරී මුගුණුවෙල අනුරුද්ධ හිමිපාණන්  ගෙන ආ යෝජනාව ඒකඒකමතිකව සම්මත කෙරුනි.
+
+මුගුණුවෙල අනුරුද්ධ හිමි  විසින් එම යෝජනාව  ගෙන එනු ලැබුවේ බුද්ධ ශාසන ආගමික කටයුතු හා සංස්කෘතික නියෝජ්‍ය අමාත්‍ය ගමගෙදර දිසානායක මහතාගේ සහභාගිත්වයෙන් මාතලේ දිස්ත්‍රික් ලේකම් කාර්යාලයේදී  පැවති මාතලේ සාසනාරක්ෂක බල මණ්ඩලයේ  වාර්ෂික මහ සභාව රැස්වූ අවස්ථාවේදීය.
+
+මාතලේ පොලිස් ස්ථානයට යාබද දිය බුබුල ප්‍රදේශයේ නව  සුරාසැලක් විවෘත කිරීමට සූදානම් වන බවත් එම ස්ථානයට යාබදව පාසල් කිහිපයක් හා ආගමික ස්ථාන පැවතීම හේතුවෙන් මෙම ස්ථානයේ සුරාසැලක් විවෘත කිරීමට ඉඩ ලබා නොදෙන ලෙස සාසනාරක්ෂක බල මණ්ඩලයෙන් කළ ඉල්ලීමකට අනුව  මෙම යෝජනාව මුගුණුවෙල අනුරුද්ධ හිමිපාණන් විසින් සාසනාරක්ෂක බලමණ්ඩලයට ගෙන එනු ලැබීය.
+
+...
+
+[Data](articles/0108c8cd.json)
 
 ---
 
@@ -1827,21 +1841,5 @@ Sri Lanka is experiencing the lack of leadership not only in politics but in all
 ...
 
 [Data](articles/deff3453.json)
-
----
-
-### Sacred rituals halted at ‘Sabaragamuwa Saman Devalaya’ amid protests against Acting Basnayake Nilame
-
-*2025-01-05 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104742/sacred-rituals-halted-at-sabaragamuwa-saman-devalaya-amid-protests-against-acting-basnayake-nilame) · `en`
-
-The board of duty (Rajakari Mandalaya) of the ‘Sabaragamuwa Maha Saman Devalaya’ has launched a strike by withdrawing from sacred pooja and rituals of the devalaya today (05), citing their objection to the appointment of an acting Basnayake Nilame, which they allege violates long-standing traditions and was influenced by political considerations.
-
-The strike followed the appointment of S.V. Chandrasinghe as acting Basnayake Nilame by the Commissioner for Buddhist Affairs. The appointment is intended to fill the position temporarily until a permanent Basnayake Nilame is named, following the expiration of the previous officeholder’s term.
-
-However, the board claims the appointment disregards established customs and alleges that Chandrasinghe has close ties to the current government. In protest, the temple officials staged a silent demonstration at the entrance of the Saman Devalaya.
-
-◼️
-
-[Data](articles/a54a84e3.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 13:02:27**
+As of **2025-01-06 13:13:03**
 
 ## Newspaper Stats
 
-*Scraped **63,929** Articles*
+*Scraped **63,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,102
 adaderanalk | 7,820
-tamilmirrorlk | 9,169
-virakesarilk | 10,682
-adaderanasinhalalk | 11,033
+tamilmirrorlk | 9,170
+virakesarilk | 10,684
+adaderanasinhalalk | 11,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,929 articles have been extended.
+61,971 (96.9%) of 63,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### சீனாவின் புதிய வைரஸ்  இலங்கையைப் பாதிக்குமா?
+
+*2025-01-06 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனாவின்-புதிய-வைரஸ்-இலங்கையைப்-பாதிக்குமா/175-349849) · `ta`
+
+சீனாவில் ஏற்பட்டுள்ள ஒரு மர்மமான வைரஸ் வெடிப்பை அடுத்து, இது COVID-19 தொற்றுநோயைப் போல உலகளவில் பாரிய வெடிப்புக்கு வழிவகுக்கும் என்று சுகாதார அதிகாரிகள் இன்னும் சந்தேகத்தில் உள்ளனர்.
+
+சீனாவில் பரவும் வைரஸ் மனித மெட்டாப்நியூமோவைரஸ் (HMPV) என்று அழைக்கப்படுகிறது, மேலும் இது குறிப்பாக சீனாவின் வடக்கு மாகாணங்களில் 14 வயதிற்குட்பட்டவர்களிடையே பரவுவதுடன் அதன் அறிகுறிகள் பெரும்பாலும் கொவிட்-19 நோயின் அறிகுறிகளைப் போலவே இருக்கும் என சுகாதார நிபுணர்கள் தெரிவிக்கின்றனர்.
+
+உடல்நலம் குறித்த பயத்திற்கு மத்தியில், இந்த வைரஸ் மற்ற நாடுகளை பாதிக்குமா அல்லது கொவிட்-19 நாட்களைப் போல் மீண்டும் தனிமைப்படுத்தல் மற்றும் லொக்டவுன் போன்றவற்றுக்கான தேவை வருமா என்ற ஊகங்கள் உள்ளன.
+
+டெய்லி மிரரிடம் பேசிய சுகாதார அமைச்சின் மூத்த அதிகாரி ஒருவர், இதுவரை சீனாவில் மட்டுமே இந்நோயின் வழக்குகள் பதிவாகியுள்ளன. இதுவரையில் இது எச்சரிக்கைக்கான ஒரு நிலையாகவில்லை, ஆனால் இது குறித்து ஒரு நெருக்கமான கண்காணிப்பு தேவை என்றார்.
+
+...
+
+[Data](articles/dd7caf05.json)
+
+---
+
+### සුලෝචන ගමගේ සහ ව්‍යාපාරිකයා යළි රිමාන්ඩ්
+
+*2025-01-06 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205077) · `si`
+
+රුපියල් ලක්ෂ අනුවක අල්ලසක් ලබා ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් බස්නාහිර පළාත් සභාවේ හිටපු පළාත් සභා මන්ත්‍රී සලෝචන ගමගේ ඇතුළු සැකකරුවන් දෙදෙනා තවදුරටත් ලබන 17 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+සැකකරුවන්ගේ ඇප ඉල්ලීම් පිළිබඳ නියෝගය ඉදිරියේදී ප්‍රකාශයට පත්කරන බවත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලී මහත්මිය නියෝග කළාය.
+
+නාගරික සංවර්ධන අධිකාරිය විසින් කොළඹ, ටොරින්ටන් ඇවනිව් හී පිහිටි ඉඩමක් පවරා ගැනීම වෙනුවෙන් ගෙවිය යුතු වන්දි මුදලින් කොටසක් කඩිනමින් ලබාදීම සඳහා රුපියල් ලක්ෂ අනූවක අල්ලසක් ලබා ගත් අවස්ථාවේදී මෙම සැකකරුවන් දෙදෙනා ඉකුත්දා අල්ලස් කොමිසම විසින් අත් අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/835912eb.json)
+
+---
 
 ### அரசாங்கத்தை வலியுறுத்துகிறார் கர்தினால்
 
@@ -45,6 +79,50 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f4f97393.json)
+
+---
+
+### அமெரிக்காவில் கடும் பனிப்பொழிவு, குளிர் ;  ஏழு மாநிலங்களில் அவசரகால நிலை பிரகடனம்
+
+*2025-01-06 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/203101) · `ta`
+
+அமெரிக்காவில் 30க்கும் மேற்பட்ட மாநிலங்களில் 6 கோடி பேர் கடுமையான பனிப்பொழிவு மற்றும் குளிரினால் பாதிக்கப்பட்டுள்ளனர்.
+
+பல பகுதிகளில் மழை, பனி, பலத்த காற்று மற்றும் இடியுடன் கூடிய மழை பொழிந்த வண்ணம் உள்ளது.
+
+ஆயிரக்கணக்கான விமானங்கள் இரத்து செய்யப்பட்டுள்ளன, பல பாடசாலைகள் மூடப்பட்டுள்ளதோடு, வீதிகளில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+
+ஞாயிற்றுக்கிழமை  கன்சாஸ் மற்றும் மிசோரி ஆகிய பகுதிகள்  மிகவும் மோசமாக பாதிக்கப்பட்டுள்ளன. அங்கு சில இடங்களில் சுமார் ஒரு அடிக்கு (30 செமீ) பனி பொழிந்து காணப்பட்டுள்ளது.
+
+இதனை அடுத்து, கன்சாஸ் மற்றும் மிசோரி, கென்டக்கி, வேர்ஜீனியா, மேற்கு வேர்ஜீனியா, ஆர்கன்சாஸ் மற்றும் நியூ ஜெர்சி ஆகிய பகுதிகளுக்கு அவரகால நிலை பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+திங்கட்கிழமை காலை வேர்ஜீனியா, மேரிலாந்து, வொஷிங்டன் டிசி மற்றும் டெலாவேர் ஆகிய பகுதிகளுடன் கிழக்கு கடற்கரையை நோக்கி புயல் நகரத் தொடங்கியுள்ளது.
+
+◼️
+
+[Data](articles/5e73a5c1.json)
+
+---
+
+### அம்பலாங்கொடை பகுதியில் துப்பாக்கி, போதைப்பொருளுடன் இருவர் கைது!
+
+*2025-01-06 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/203100) · `ta`
+
+அம்பலாங்கொடை பொலிஸ் பிரிவிற்குட்பட்ட  ஹோட்டல் ஒன்றில் தங்கியிருந்த இரு நபர்கள் துப்பாக்கி மற்றும் போதைப்பொருளுடன் நேற்று ஞாயிற்றுக்கிழமை (05) பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+
+களனி மற்றும் அம்பலாங்கொட பகுதிகளைச் சேர்ந்த 32 மற்றும் 39 வயதுடைய சந்தேகநபர்கள் இருவரே  கைது செய்யப்பட்டுள்ளனர்.
+
+அம்பலாங்கொடை பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் அடிப்படையில், சுற்றிவளைப்பு மேற்கொள்ளப்பட்டபோதே குறித்த கைது நடவடிக்கை இடம்பெற்றுள்ளது.
+
+கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து, கைத்துப்பாக்கி, 09 தோட்டாக்கள், ஒரு பை வெடிமருந்து, 23 கிராம் 620 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் என்பன பொலிஸாரினாரினால் கைப்பற்றப்பட்டுள்ளன.
+
+அத்தோடு, சந்தேகநபர்களிடமிருந்து 152 அமெரிக்க டொலர்கள், 05 அவுஸ்திரேலிய டொலர்கள் மற்றும் 112,500 ரூபா பணமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+மேலும், கைது செய்யப்பட்ட சந்தேகநபர்கள் இருவரும் அம்பலாங்கொடை பொலிஸ் நிலையத்தில் பலப்பிட்டிய நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டு மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/e7216a3d.json)
 
 ---
 
@@ -84,7 +162,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### පැරණි පොලිස් මූලස්ථානයේ තිබූ cctv කැමරා 7ක් අතුරුදන්
+### පැරණි පොලිස් මූලස්ථානයේ තිබූ CCTV කැමරා 7ක් අතුරුදන්
 
 *2025-01-06 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205076) · `si`
 
@@ -1743,73 +1821,5 @@ When vehicle import restrictions were introduced in 2020 to safeguard the econom
 ...
 
 [Data](articles/6d36e530.json)
-
----
-
-### Paddy farmers face new crisis as unidentified worm species devastate crops
-
-*2025-01-05 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/104741/paddy-farmers-face-new-crisis-as-unidentified-worm-species-devastate-crops) · `en`
-
-Sri Lanka’s paddy farmers, already reeling from a series of crises, including recent heavy rainfall and wildlife intrusions, are now grappling with a new and alarming threat—an outbreak of an unidentified species of worms devastating their crops.
-
-This pest infestation has been reported in several areas, compounding the woes of farmers who were already struggling to recover from the destruction caused by recent floods.
-
-The flooding left many paddy fields buried under layers of sand, forcing farmers to undertake the arduous task of clearing their lands while navigating a cumbersome process to claim compensation for their losses.
-
-Adding to their plight, wild elephants have been reported to cause significant damage to crops in various parts of the island, further jeopardizing livelihoods.
-
-...
-
-[Data](articles/2cf3abb9.json)
-
----
-
-### Shangri-La clinches the highest number of awards at SL Tourism Awards 2024
-
-*2025-01-05 21:44:00* · [`islandlk`](http://island.lk/shangri-la-clinches-the-highest-number-of-awards-at-sl-tourism-awards-2024/) · `en`
-
-In a night of celebration and achievement, Shangri-La Colombo and Shangri-La Hambantota stood out as shining stars at the Sri Lanka Tourism Awards 2024. Collectively, the two properties secured the highest number of accolades, underscoring their unwavering commitment to excellence in hospitality.
-
-Shang Palace, renowned for its authentic Chinese cuisine, once again proved its mettle by winning the “Best Themed Cuisine Restaurant” award. Complementing this achievement, Shangri-La Colombo’s recognition as the “Best Convention Hotel” highlights its exceptional facilities and services that make it a premier destination for meetings, incentives, conferences and exhibitions (MICE).
-
-Best Conservationist Naturalist – Chamara Amarasinghe, CSR & Sustainability Manager, Shangri-La Hambantota
-
-Shangri-La Hambantota’s picturesque setting and world-class amenities earned it the coveted “Best Five-Star Resort” award.
-
-...
-
-[Data](articles/3077507c.json)
-
----
-
-### Global Stanford Campus graduates 500 students
-
-*2025-01-05 21:42:00* · [`islandlk`](http://island.lk/global-stanford-campus-graduates-500-students/) · `en`
-
-The recent graduation ceremony of Global Stanford Campus saw 500 of its students receiving their degrees.
-
-The graduates pursued their studies through classroom, online and blended methodologies, covering fields such as Education, Management, Information Technology, and Nursing. The Global Stanford Campus, in collaboration with IIC University of Technology, Cambodia—a foreign university recognized by the University Grants Commission—offers degree programs tailored to Sri Lankan students.
-
-...
-
-[Data](articles/e2835752.json)
-
----
-
-### Ministry of Power to review Adani energy solutions in Sri Lanka
-
-*2025-01-05 21:40:00* · [`islandlk`](http://island.lk/ministry-of-power-to-review-adani-energy-solutions-in-sri-lanka/) · `en`
-
-The Ministry of Power and Energy has decided to appoint a committee to review the study of the Adani Group’s energy projects in Sri Lanka. The relevant proposal will be presented to the upcoming Cabinet meeting.
-
-The Ministry said that the committee would review factors including estimated costs for the projects. Previously, a committee appointed by the ministry examined the wind power plant projects planned by the Adani Group in Sri Lanka.
-
-The wind power projects proposed for Mannar and Pooneryn are expected to generate a total of 484 megawatts of electricity.
-
-Sri Lanka, which suffered from crippling power blackouts and fuel shortages during an economic crisis in 2022, has enacted a new legislation to revamp the country’s power sector and attract investment in renewable energy.
-
-...
-
-[Data](articles/7adf2f0a.json)
 
 ---

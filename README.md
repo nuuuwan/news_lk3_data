@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 03:43:49**
+As of **2025-01-07 04:02:14**
 
 ## Newspaper Stats
 
-*Scraped **64,048** Articles*
+*Scraped **64,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
 islandlk | 3,906
-dailyftlk | 4,467
+dailyftlk | 4,470
 dailymirrorlk | 4,733
 adalk | 6,119
 adaderanalk | 7,838
-tamilmirrorlk | 9,183
+tamilmirrorlk | 9,184
 virakesarilk | 10,700
 adaderanasinhalalk | 11,057
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,048 articles have been extended.
+61,971 (96.8%) of 64,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### வடமத்திய மாகாணத்தில் 11 ஆம் தரப் பரீட்சைகள் இரத்து
+
+*2025-01-07 03:50:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமத்திய-மாகாணத்தில்-11-ஆம்-தரப்-பரீட்சைகள்-இரத்து/175-349885) · `ta`
+
+வடமத்திய மாகாணத்தில் உள்ள அனைத்து அரச பாடசாலைகளிலும் 11ஆம் தர தவணைப் பரீட்சைகள் மறு அறிவித்தல் வரை இரத்துச் செய்யப்பட்டுள்ளதாக, வடமத்திய மாகாண கல்விச் செயலாளர் சிறிமெவன் தர்மசேன தெரிவித்துள்ளார்.
+
+தவணைப் பரீட்சை தொடர்பான சகோதர மொழி இலக்கிய வினாத்தாள் சமூக ஊடகங்கள் ஊடாக வெளியாகியுள்ளமை உறுதிப்படுத்தப்பட்ட நிலையில் இந்த தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
+
+வடமத்திய மாகாண கல்வி செயலாளரின் பணிப்புரைக்கமையவே 2024 ஆம் ஆண்டு 11 ஆம் தர இறுதிப் பரீட்சை மறு அறிவித்தல் வரை தற்காலிகமாக இடைநிறுத்தப்படுவதாகத் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/b95056d5.json)
+
+---
+
+### Foreign Ministry sets up digital platform to facilitate SL expats
+
+*2025-01-07 03:19:45* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Ministry-sets-up-digital-platform-to-facilitate-SL-expats/56-771516) · `en`
+
+New digital facility supports Sri Lankan expats to obtain birth certificates, marriage certificates and death certificates without delay
+
+In a move to support Sri Lankan expatriates to obtain their necessary documents without a delay, the Foreign Affairs, Foreign Employment and Tourism Ministry has launched a digital platform, which will be operated through respective foreign missions.
+
+This digital initiative, which was launched today under President Anura Kumara Dissanayake’s concept of digitising the State administrative system, will enable Sri Lankans abroad to obtain birth certificates, marriage certificates and death certificates without delay through their respective embassies.
+
+...
+
+[Data](articles/edb8dacd.json)
+
+---
+
+### Supreme Television partners Channel NewsAsia to expand global broadcasting reach
+
+*2025-01-07 03:17:58* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Television-partners-Channel-NewsAsia-to-expand-global-broadcasting-reach/56-771515) · `en`
+
+Supreme Television yesterday announced a significant partnership with Channel NewsAsia (CNA), a leading 24-hour English-language Asian TV news channel known for its in-depth reporting and programing that bridges Asia with global developments.
+
+This collaboration represents a transformative step in Supreme Television’s mission to provide high-quality programing and enhance its global presence.
+
+This partnership with CNA enables Supreme Television to deliver a rich blend of news and information from Asia and beyond, connecting Sri Lankan viewers to the heart of global conversations. CNA’s renowned expertise in news, business, and current affairs ensures that audiences receive credible, timely, and culturally nuanced content.
+
+...
+
+[Data](articles/7ad5e8a1.json)
+
+---
+
+### New Board appointed to 1990 Suwa  Seriya Foundation
+
+*2025-01-07 03:17:24* · [`dailyftlk`](https://www.ft.lk/news/New-Board-appointed-to-1990-Suwa-Seriya-Foundation/56-771514) · `en`
+
+President Anura Kumara Dissanayake has appointed a new Chairman and Board Members to the 1990 Suwa Seriya Foundation.
+
+A.M.N. Ratnayake was appointed as the new Chairman of the 1990 Suwa Seriya Foundation, while R.J.M.A.P. Sampath and Nalin Perera were appointed as Board Members.
+
+The appointment letters were presented by Secretary to the President Dr. Nandika Sanath Kumanayake yesterday.
+
+◼️
+
+[Data](articles/6f2f56ba.json)
+
+---
 
 ### President, AG discuss expediting controversial legal cases
 
@@ -1705,79 +1769,5 @@ Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe ol
 ...
 
 [Data](articles/b6e6c8c6.json)
-
----
-
-### New Chairman appointed to Official Languages Commission
-
-*2025-01-06 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104759/new-chairman-appointed-to-official-languages-commission) · `en`
-
-President Anura Kumara Dissanayake has appointed Nimal R. Ranawake as the new Chairman of the Official Languages Commission of Sri Lanka.
-
-Additionally, Professor Emeritus R.M.W. Rajapakshe, Professor Joseph Yogarajah Stanislaus, and Mrs. Lareena Abdul Haq have been appointed as members of the Commission.
-
-The appointment letters were presented today (06) at the Presidential Secretariat by the Secretary to the President, Dr. Nandika Sanath Kumanayake.
-
-◼️
-
-[Data](articles/1d6631eb.json)
-
----
-
-### New chairman and board members appointed to 1990 ‘Suwa Seriya’ Foundation
-
-*2025-01-06 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104758/new-chairman-and-board-members-appointed-to-1990-suwa-seriya-foundation) · `en`
-
-President Anura Kumara Dissanayake has appointed a new Chairman and Board Members to the 1990 ‘Suwa Seriya’ Foundation.
-
-Accordingly, A.M.N. Ratnayake has been appointed as the new Chairman of the 1990 Suwa Seriya Foundation, the President’s Media Division (PMD) reported.
-
-Meanwhile, R.J.M.A.P. Sampath and Nalin Perera have been appointed as Board Members of the 1990 Suwa Seriya Foundation.
-
-The appointment letters were presented by Secretary to the President Dr. Nandika Sanath Kumanayake today (06) at the Presidential Secretariat, the PMD added,
-
-◼️
-
-[Data](articles/7099ab7a.json)
-
----
-
-### Sri Lanka Economic Summit organised by Ceylon Chamber to focus on PPPs
-
-*2025-01-06 14:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-summit-organised-by-ceylon-chamber-to-focus-on-ppps-198252/) · `en`
-
-ECONOMYNEXT – The Sri Lanka Economic Summit organised by The Ceylon Chamber of Commerce will focus on the potential for public-private partnerships to drive Sri Lanka’s growth, the trade body said.
-
-The event on ‘Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies’ starts on January 28 at the Shangri La Hotel Colombo.
-
-A January 29 session will examine ‘The Right Reforms for Transformational Growth’ focusing on the South Korean story of economic transformation, and potential applications to Sri Lanka’s development trajectory.
-
-It will explore medium-term opportunities for Sri Lanka, the chamber said, and “leverage the expertise of a high-profile panel representing leading multinational corporations, local conglomerates, the energy, ports and capital market sectors, and multilateral agencies.”
-
-The session’s keynote address will be delivered by Dr Kyungjin Song, Country Representative for Korea at The Asia Foundation.
-
-...
-
-[Data](articles/188fbd82.json)
-
----
-
-### පාසල් සිසුවියක් අතුරුදන්
-
-*2025-01-06 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205080) · `si`
-
-16 හැවිරිදි පාසල් සිසුවියක් අතුරුදන් වී ඇති බවට ඇටම්පිටිය පොලීසියට පැමිණිල්ලක් ලැබී තිබේ.
-
-නිවේදනයක් නිකුත් කරමින් පොලිස් මූලස්ථානය සඳහන් කළේ, අදාළ දැරිය පසුගිය ජනවාරි 3 වනදා සිට අතුරුදන්ව ඇති බවය.
-
-දැරියගේ මව විසින් අදාළ පැමිණිල්ල ඉදිරිපත් කර ඇති අතර, අතුරුදන් වූ දැරිය උඩ අඩි 5යි අඟල් 2ක් පමණ උසැති තලෙළු සාමාන්‍ය සිරුරක් සහිත අයෙකි.
-
-ඇය අවසන් වරට ළා කොළ පැහැයට හුරු දිග ගවුමක් ඇඳ මිට ඇති අතර, වම් අතෙහි වැලමිට ආසන්නයේ සුළු කැපුම් තුවාලයක් දක්නට ලැබේ.
-
-අතුරුදන් වු අදාළ දැරිය සම්බන්ධයෙන් වැඩි විස්තරයක් වෙතොත් පහත දුරකථන අංකයන්ට දැනුම්දෙන ලෙස පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/88e37610.json)
 
 ---

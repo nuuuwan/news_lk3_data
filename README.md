@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 01:13:16**
+As of **2025-01-07 01:28:07**
 
 ## Newspaper Stats
 
-*Scraped **64,035** Articles*
+*Scraped **64,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
 islandlk | 3,906
-dailyftlk | 4,454
+dailyftlk | 4,455
 dailymirrorlk | 4,733
 adalk | 6,119
 adaderanalk | 7,838
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,035 articles have been extended.
+61,971 (96.8%) of 64,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### I was 10 years old when Lasantha Wickrematunge was assassinated
+
+*2025-01-07 00:33:57* · [`dailyftlk`](https://www.ft.lk/opinion/I-was-10-years-old-when-Lasantha-Wickrematunge-was-assassinated/14-771480) · `en`
+
+The year was 2009. On 8 January, the army recaptured Palaly from the Tamil Tigers in efforts to reach the Jaffna Peninsula. I was a 10-year-old girl growing up in Colombo then and I was in year five.
+
+That morning, I was sitting behind my desk when a teacher dashed into our classroom with terror across her face and loudly told my English teacher that Lasantha Wickrematunge had been shot. I recall my teacher being in discomfort for the remainder of the class. At the time, I didn’t quite understand the impact his death had on Sri Lanka and what his assassination was going to mean for the future of dissent in the nation.
+
+...
+
+[Data](articles/10638b5b.json)
+
+---
 
 ### Restore functioning of postal services in original building of Colombo General Post Office
 
@@ -1783,21 +1797,5 @@ The duo had allegedly solicited the bribe on the promise of expediting compensat
 ◼️
 
 [Data](articles/835912eb.json)
-
----
-
-### அரசாங்கத்தை வலியுறுத்துகிறார் கர்தினால்
-
-*2025-01-06 12:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தை-வலியுறுத்துகிறார்-கர்தினால்/175-349848) · `ta`
-
-தேசிய ஒருமைப்பாட்டைக் கொண்டுவரும் புதிய அரசியலமைப்பை அறிமுகப்படுத்துமாறு கொழும்பு பேராயர் மல்கம் கர்தினால் ரஞ்சித் அரசாங்கத்தை வலியுறுத்தியுள்ளார்.
-
-"அரசாங்கம் அதன் பதவிக்காலம் முடியும் வரை காத்திருக்காமல் உடனடியாக புதிய அரசியலமைப்பிற்கு அடித்தளம் அமைக்க வேண்டும்," என்று அவர் வலியுறுத்தினார்.
-
-“புதிய அரசாங்கம் தனது பதவிக்காலம் முடியும் வரை காத்திருக்காமல், புதிய அரசியலமைப்புக்கான அடித்தளத்தை அமைக்க வேண்டும்” என சபாநாயகர் ஜகத் விக்ரமரத்னவை வாரயிறுதியில் மரியாதை நிமித்தமாகச் சந்தித்த பின்னர் கர்தினால் ஊடகவியலாளர்களிடம் கூறினார்.
-
-◼️
-
-[Data](articles/f4f97393.json)
 
 ---

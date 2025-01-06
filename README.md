@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 09:29:17**
+As of **2025-01-06 09:44:10**
 
 ## Newspaper Stats
 
-*Scraped **63,869** Articles*
+*Scraped **63,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,098
 adaderanalk | 7,809
-tamilmirrorlk | 9,158
+tamilmirrorlk | 9,159
 virakesarilk | 10,663
 adaderanasinhalalk | 11,023
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,023
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.0%) of 63,869 articles have been extended.
+61,971 (97.0%) of 63,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### யானையிடமிருந்து தப்பிக்க ஆற்றில் குதித்தவர் மரணம்
+
+*2025-01-06 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானையிடமிருந்து-தப்பிக்க-ஆற்றில்-குதித்தவர்-மரணம்/175-349828) · `ta`
+
+யானையின் தாக்குதலில் இருந்து உயிரைக் காப்பாற்றிக்கொள்ள ஆற்றில் குதித்த குடும்பஸ்தர் ஒருவர் நீரில் மூழ்கி உயிரிழந்த சம்பவம் மட்டக்களப்பு கரடியனாறு பொலிஸ் பிரிவிலுள்ள மயில வெட்டுவான் வீரகட்டு பகுதியில் ஞாயிற்றுக்கிழமை (05) மாலை இடம்பெற்றுள்ளது.
+
+இச்சம்பவத்தில் மட்டக்களப்பு மயில வெட்டுவான் உப்போடை வீதியைச் சேர்ந்த ஆறு பிள்ளைகளின் தந்தையான 50 வயதுடைய கணபதிப்பிள்ளை கருணாகரன் என்பவரே உயிரிழந்துள்ளார்.
+
+சம்பவ தினத்தில் காலை தனது 14 வயதுடைய மகனுடன் விறகு வெட்டுவதற்காக தோணியில் விரகட்டுமுனை பகுதிக்குச் சென்று விறகு வெட்டி வரும் வழியில் காட்டு யானை துரத்தி உள்ளது யானை தாக்குதலுக்கு பயந்து தந்தையும் மகனும் ஆற்றில் பாய்ந்துள்ளனர். மகன் நீந்தி ஆற்றை கடந்த நிலையில் தந்தை ஆற்றில் நீர் அடித்துச் செல்லப்பட்டுள்ளார்.
+
+பிரதேச மக்கள் பல மணி நேரம் ஆற்றில் தேடிய நிலையில் மாலை வேளை சடலமாக மீட்கப்பட்டார்.
+
+ஏறாவூர்  திடீர் மரண விசாரணை அதிகாரி எம்.எஸ்.எம். நசீர் கரடியனாறு பொலிஸாருடன் சம்பவ இடத்திற்கு சென்று  சடலத்தை பார்வையிட்டு முதற்கட்ட விசாரணையில் விசாரணைகளை முன்னெடுத்தனர்.
+
+...
+
+[Data](articles/f0f05b82.json)
+
+---
 
 ### இன்று மழையுடனான வானிலை
 
@@ -1258,7 +1278,7 @@ Trump, who has announced plans to attend Carter’s memorial service in Washingt
 
 ECONOMYNEXT – Sri Lanka’s central bank has bought 2,841 million US dollars from banks on a net basis in 2024, official data showed, as the agency operated largely deflationary policy at an appropriate interest rate.
 
-The central bank bought 3,137.7 million dollars to prevent the exchange rate from going up as a result of deflationary policy (strong side convertibility) and sold 183 million dollars (weak side convertibility) to prevent a fall in the exchange rate.
+The central bank bought 3,137.7 million dollars to prevent the exchange rate from appreciating as a result of deflationary policy (strong side convertibility) and sold 183 million dollars (weak side convertibility) to prevent a fall in the exchange rate.
 
 The International Monetary Fund has classified Sri Lanka’s soft-peg or flexible exchange rate as ‘other, managed’.
 
@@ -1697,25 +1717,5 @@ Fukahori was only 14 when the U.S. dropped the bomb on Nagasaki on Aug. 9, 1945,
 ◼️
 
 [Data](articles/453f9d93.json)
-
----
-
-### Sri Lanka deploys GPS technology to address human-elephant conflict
-
-*2025-01-05 15:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104736/sri-lanka-deploys-gps-technology-to-address-human-elephant-conflict-) · `en`
-
-The Department of Wildlife Conservation has initiated an operation to use GPS technology in managing the movement of wild elephants from several areas in Anuradhapura to the Wilpattu National Park.
-
-The operation, which began in Oyamaduwa, involves fitting GPS collars on wild elephants to track their locations and study their migration routes. This effort aims to better understand elephant movements and mitigate the human-elephant conflict, a persistent issue in many parts of Sri Lanka.
-
-Wildlife officials, local residents, and the Sri Lanka Navy are collaborating in this initiative.
-
-According to surveys, wild elephants are among the leading causes of crop damage in the country, with incidents reported daily from various regions.
-
-In response to this growing problem, a program to relocate wild elephants to designated reserves was recently launched in Anuradhapura, a district severely affected by crop damage caused by elephants.
-
-...
-
-[Data](articles/48ec475e.json)
 
 ---

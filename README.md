@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 13:45:08**
+As of **2025-01-06 14:03:35**
 
 ## Newspaper Stats
 
-*Scraped **63,940** Articles*
+*Scraped **63,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,892
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,104
+adalk | 6,105
 adaderanalk | 7,820
 tamilmirrorlk | 9,173
 virakesarilk | 10,684
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,940 articles have been extended.
+61,971 (96.9%) of 63,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### මනූෂගේ සොහොයුරා යළි රක්ෂිත බන්ධනාගාර ගත කෙරේ
+
+*2025-01-06 13:31:32* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂගේ-සොහොයුරා-යළි-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-414033) · `si`
+
+හිටපු අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ සොහොයුරා ලබන ජනවාරි 17 වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කිරීමට ගම්පහ මහේස්ත්‍රාත් අධිකරණය අද(06දා) නියෝග කර තිබේ.
+
+ෆින්ලන්තයේ රැකියා ලබා දෙන බවට පවසා රුපියල් ලක්ෂ 30ක මූල්‍ය වංචාවක් සිදු කිරීම සම්බන්ධයෙන් හිටපු අමාත්‍යවරයාගේ සොහොයුරා වන ඉරෝෂණ නානායක්කාර පසුගියද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගනු ලැබිණි.
+
+◼️
+
+[Data](articles/2dc870c8.json)
+
+---
 
 ### பௌர்ணமி இரவில் சிகிரியாவைப் பார்வையிடலாம்
 
@@ -1829,19 +1843,5 @@ However, the board claims the appointment disregards established customs and all
 ◼️
 
 [Data](articles/a54a84e3.json)
-
----
-
-### Are we doing the right thing ?
-
-*2025-01-05 22:09:32* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-doing-the-right-thing/4-771409) · `en`
-
-I was getting ready to pay my bill at the counter at a supermarket and had a few goodies in my basket when I noticed a middle-aged person in a sarong just behind me with only one item he had picked up waiting to pay after me. Without hesitation I gestured to him to go ahead and pay before me, and he was very reluctant though he accepted the offer with thanks. When he walked out of the supermarket having paid his bill the grateful expression on his face when he looked back at me gave me a lot of happiness.
-
-Having left the supermarket I was driving back home which is about 300 metres along the main road before I have to take a right turn on to the lane where I reside.
-
-...
-
-[Data](articles/e9f15d1f.json)
 
 ---

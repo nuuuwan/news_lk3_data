@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 12:03:53**
+As of **2025-01-06 12:19:13**
 
 ## Newspaper Stats
 
-*Scraped **63,917** Articles*
+*Scraped **63,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,890
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,101
+adalk | 6,102
 adaderanalk | 7,815
-tamilmirrorlk | 9,167
+tamilmirrorlk | 9,168
 virakesarilk | 10,679
 adaderanasinhalalk | 11,032
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,032
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.0%) of 63,917 articles have been extended.
+61,971 (97.0%) of 63,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### 8 மாத குழந்தைக்கு எச்எம்பிவி தொற்று
+
+*2025-01-06 11:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/8-மாத-குழந்தைக்கு-எச்எம்பிவி-தொற்று/50-349845) · `ta`
+
+பெங்களூருவில் 8 மாத குழந்தைக்கு எச்எம்பிவி தொற்று ஏற்பட்டதாக தகவல் வெளியான நிலையில் அது தொடர்பாக கர்நாடக சுகாதார துறை விளக்கம் அளித்துள்ளது. சீனாவில் ஹியூமன் மெட்டாநியூமோவைரஸ் (எச்எம்பிவி) வேகமாக பரவி வருகிறது. இதனை தீவிரமாக கண்காணித்து வருவதாகவும், இப்போதைக்கு இது குறித்து அச்சம் கொள்ளத் தேவையில்லை என்றும் மத்திய அரசு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/3dd576c3.json)
+
+---
 
 ### இராணுவத் தளபதிக்கு வௌிநாட்டுப் பெண்ணின் சல்யூட்
 
@@ -747,6 +759,22 @@ To stop low quality rice from being imported, taxes have to be reduced. However 
 ◼️
 
 [Data](articles/1e5504cc.json)
+
+---
+
+### කොන්ක්‍රිට් බැම්මකින් වැටි පුද්ගලයෙක් ජීවිතක්ෂයට
+
+*2025-01-06 07:05:13* · [`adalk`](https://www.ada.lk/breaking_news/කොන්ක්‍රිට්-බැම්මකින්-වැටි-පුද්ගලයෙක්-ජීවිතක්ෂයට/11-414028) · `si`
+
+හගුරන්කෙත රිකිල්ලගස්කඩ ප්‍රදේශයේදි කොන්ක්‍රීට් බැම්මකින් ඇඳ වැටුණ පුද්ගලයෙක් ජීවිතක්ෂයක්ට පත්ව තිබේ.
+
+ඊයේ රාත්‍රි මෙම අනතුර සිදුව තිබේ. අනතුරින් අවුරුදු 49ක් වන මතුරට පදිංචි පුද්ගලයෙක් ජිවිතක්ෂයට පත්ව තිබේත
+
+කොන්ක්‍රිට් බැම්මෙන් වැටුණ හේතුව මෙතෙක් අණාවරණය වි නොමැත. හඟුරන්කෙත පොලිසිය වැඩිදුර පරික්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/e1229dd9.json)
 
 ---
 
@@ -1771,47 +1799,5 @@ One of Sri Lanka’s leading proponents of technology solutions in manufacturing
 ...
 
 [Data](articles/60d1851b.json)
-
----
-
-### නොසැලකිල්ල නිසා වසර 5ක දී රටට අහිමි වූ වටිනා ජීවිත
-
-*2025-01-05 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205059) · `si`
-
-පසුගිය වසර 5ක් ඇතුළත සිදු වූ රිය අනතුරු හේතුවෙන් වටිනා මිනිස් ජීවිත 12,140ක් රටට අහිමි වී ඇති බව පොලීසිය පවසයි.
-
-2020, 2021, 2022, 2023, 2024 වසරවල සිදු වූ රිය අනතුරු සම්බන්ධව, වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතාගේ උපදෙස් මත රථවාහන පාලන හා මාර්ග ආරක්ෂාව අධ්‍යක්ෂක, නියෝජ්‍ය පොලිස්පති එච්.ඒ.කේ.ඒ. ඉන්දික හපුගොඩ මහතාගේ අධීක්ෂණ යටතේ සිදුකළ සමීක්ෂණයකින් මේ බව ගණනය කර තිබේ.
-
-ඒ අනුව, 2020 වසරේ දී  2,363 දෙනෙක්, 2021 වසරේදී  2,557 දෙනෙක්, 2022 වසරේදී  2,540 දෙනෙක්,  2023 වසරේදී  2,321 දෙනෙක් සහ 2024 වසරේදී 2,359 දෙනෙක් වශයෙන් මියගිය පිරිස ගණනය කර ඇත.
-
-එම වසර 5 අතුළත සිදු වූ අනතුරු සම්බන්ධ සවිස්තරාත්මක සටහනක් පහතින් දැක්වේ.
-
-මීට අමතරව, 2024 වසරේ ජනවාරි පළමුවදා සිට නොවැම්බර් 30 වනදා දක්වා බස්රථ අනතුරු සම්බන්ධයෙන්ද තොරතුරු ඉදිරිපත් කර ඇත.
-
-ඒ අනුව, පසුගිය මාස 11ක් අතුළත මාරක බස්රථ අනතුරු 198ක් වාර්තා වී තිබේ.
-
-ඒ අතර ලංගම බස්රථ අනතුරු 50ක් සහ පුද්ගලික බස්රථ 148ක් අයත් බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/dec19dab.json)
-
----
-
-### PM Harini denies involvement in cancelling lecture at Peradeniya Uni.
-
-*2025-01-05 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/104740/pm-harini-denies-involvement-in-cancelling-lecture-at-peradeniya-uni) · `en`
-
-The Office of the Prime Minister and Minister of Education, Dr. Harini Amarasuriya, has categorically denied any involvement in the cancellation of the scheduled lecture organized by the International Youth and Students for Social Equality (IYSSE) at Peradeniya University.
-
-Issuing a statement, the Prime Minister’s Office said that Dr. Amarasuriya has consistently championed academic freedom and democratic engagement, values fundamental to fostering critical discourse in educational institutions.
-
-The allegations suggesting that the Prime Minister and Minister of Education influenced the university’s decision to cancel the lecture are entirely baseless and misleading, the statement highlighted.
-
-Furthermore, the Office of the Prime Minister and Minister of Education has assured that no directive or instruction was issued from this office regarding the event, noting that the autonomy of academic institutions is a principle that the government is committed to upholding.
-
-...
-
-[Data](articles/24645b92.json)
 
 ---

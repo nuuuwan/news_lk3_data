@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 19:27:42**
+As of **2025-01-06 19:43:48**
 
 ## Newspaper Stats
 
-*Scraped **63,959** Articles*
+*Scraped **63,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,892
 islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,114
+adalk | 6,115
 adaderanalk | 7,820
 tamilmirrorlk | 9,181
 virakesarilk | 10,684
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,959 articles have been extended.
+61,971 (96.9%) of 63,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### රියදුරන් දෙදෙනෙක් රිමාන්ඩ් කරන්න කළ ඉල්ලීම අධිකරණය ඉවත දමයි
+
+*2025-01-06 19:06:30* · [`adalk`](https://www.ada.lk/breaking_news/රියදුරන්-දෙදෙනෙක්-රිමාන්ඩ්-කරන්න-කළ-ඉල්ලීම-අධිකරණය-ඉවත-දමයි/11-414047) · `si`
+
+‘ක්ලීන් ශ්‍රී ලංකා’ වැඩසටහනට සමගාමීව වීරඹු ගෙදර ජය වඩනගම ප්‍රදේශයේ මාර්ග බාධකයක වාහන සෝදිසි කරමින් සිටි පොලිස් නිලධාරීන් පිරිසකගේ රාජකාරියට බාධා කර, එම පොලිස් නිලධාරීන්ට පහර දුන් බව කියන සිද්ධියක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කළ ලොරි රථ රියදුරෙකු සහ යතුරු පැදිකරුවෙකු රිමාන්ඩ් කරන ලෙස පොලීසිය කළ ඉල්ලීමක් කුරුණෑගල ප්‍රධාන මහේස්ත්‍රාත් බන්දුල ගුණරත්න මහතා ප්‍රතික්ෂේප කළේය.
+
+ඒ අනුව  මහේස්ත්‍රාත්වරයා, සැකකරුවන් දෙදෙනාට වෙන් වෙන් වශයෙන් මුදලින් රුපියල් 2,000 බැගින් මුදල් ඇප මෙන්ම, වෙන් වෙන් වශයෙන් ලක්ෂ දෙකක් වටිනා ශරීර ඇප එක බැගින් නියම කළේය. ඔවුන්ට ලබන මාර්තු මස 19 දින යළි අධිකරණය හමුවේ පෙනී සිටින ලෙසද එහිදී මහේස්ත්‍රාත්වරයා නියෝග කරනු ලැබීය.
+
+මෙසේ ඇප මත මුදා හැරියේ වීරඹු ගෙදර පොලිස් වසමේ කළුගමුව ජයවඩනගම පදිංචිකරුවන් වන කේ.ඒ. චමිදු හංසික ජයසිංහ සහ අයි.ඒ. ඉරේෂ් චන්දන කරුණාරත්න යන සැකකරුවන්ය.
+
+...
+
+[Data](articles/af442afd.json)
+
+---
 
 ### සහල් මාෆියාවේ නායකයා ඇමති වසන්ත සමරසිංහයි
 
@@ -1789,23 +1805,5 @@ Reports also indicate that this reshuffle will extend beyond Senior DIGs, affect
 ...
 
 [Data](articles/07c54e32.json)
-
----
-
-### SJB condemns Media Minister’s threatening statement
-
-*2025-01-06 03:40:58* · [`dailyftlk`](https://www.ft.lk/news/SJB-condemns-Media-Minister-s-threatening-statement/56-771449) · `en`
-
-Says in 1988/89, media personalities who went against JVP were answered through bullets
-
-Main Opposition Samagi Jana Balawegaya (SJB) yesterday vehemently condemned the threatening statement made by Health and Media Minister Dr. Nalinda Jayatissa based on a news article published in a national newspaper.
-
-“The Government, which has pledged to protect media freedom, is now exerting pressure on media institutions that overlook the Government’s ideology,” the SJB said in a statement.
-
-During the 1988/89 regime, the Janatha Vimukthi Peramuna (JVP) answered to those media personalities – Themis Guruge, Sagarika Gomas, Kulasiri Amaratunga, and Premakeerthi de Alwis – who didn’t follow JVP’s orders through bullets. Although the Media Minister does not reply through bullets, he is putting pressure on the media as usual through threatening statements.
-
-...
-
-[Data](articles/3e5d0a14.json)
 
 ---

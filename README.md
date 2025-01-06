@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 11:44:51**
+As of **2025-01-06 12:03:53**
 
 ## Newspaper Stats
 
-*Scraped **63,913** Articles*
+*Scraped **63,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 670
-economynextcom | 3,886
+economynextcom | 3,890
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,032
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.0%) of 63,913 articles have been extended.
+61,971 (97.0%) of 63,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,6 +175,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/5e4ac342.json)
+
+---
+
+### Sri Lanka minister wants price controls on maize ethanol to protect state enterprise
+
+*2025-01-06 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-wants-price-controls-on-maize-ethanol-to-protect-state-enterprise-198198/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s Industries Minister Sunil Handuneththi has called for a floor price on ethanol made from maize to push up prices and help a state enterprise get rid of stocks of unsold ethanol.
+
+The cost of making cane ethanol at state-run Lanka Sugar, which was expropriated from private citizens during a Rajapaksa regime, is around 800 to 1000 rupees a litre, Minister Handunetthi said.
+
+But parties are making ethanol from maize for around 173 rupees a litre, he told reporters after going on a inspection visit to Lanka Sugar.
+
+“When they buy third grade maize they can make ethanol for 173 rupees a litre,” he said. “Today there is no maize for chicken feed. So, the egg yolk is no longer yellow.
+
+“From can only ethanol can be made. So we have suggested to the relevant sections of the government to set a minimum price (floor price) for those who use maize to make ethanol.”
+
+...
+
+[Data](articles/6741d550.json)
 
 ---
 
@@ -345,6 +365,32 @@ A meeting between the Speaker of Parliament, Dr. Jagath Wickramaratne, and the A
 ◼️
 
 [Data](articles/37fc08b1.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 294.30/60 to US dollar, bonds up
+
+*2025-01-06 09:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-294-30-60-to-us-dollar-bonds-up-198188/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 294.30/60 to the US dollar in the spot market, from 293.95/294.15 on Friday, while bond yields were up, dealers said.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.45/55 percent.
+
+A bond maturing on 15.09.2027 was quoted at 9.80/90 percent, up from 9.75/85 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.15/20 percent, up from 10.10/15 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.80/85 percent, up from 10.70/80 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.00/10 percent, up from 10.95/11.05 percent.
+
+In equities, the All Share Price Index was up 0.96 percent, or 154.64 points, at 16,204.
+
+The more liquid S&P SL20 was up 1.27 percent, or 61.69 points, at 4,922.
+
+◼️
+
+[Data](articles/842777ad.json)
 
 ---
 
@@ -639,6 +685,28 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ...
 
 [Data](articles/98efa77a.json)
+
+---
+
+### How to avoid Sri Lanka’s rice crises made by government controls
+
+*2025-01-06 08:02:00* · [`economynextcom`](https://economynext.com/how-to-avoid-sri-lankas-rice-crises-made-by-government-controls-198119/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s red rice shortage was created by the government through its price controls and import controls, by trying to interfere with the price signals, in a deterioration of policy seen over several years.
+
+The lack of food security and shortages is a direct result of self-sufficiency policies which had made exports impossible.
+
+The only way to prevent a similar crisis next year, is to avoid repeating the same mistake again.
+
+Price controls have a severe negative impact on perceptions of economic management skills of a government, when shortages emerge.
+
+The two key initiatives are to allow red rice prices to move up gradually, moving people to other substitutes and avoid price controls and allow imports of other rice.
+
+To stop low quality rice from being imported, taxes have to be reduced. However the frequent crises in Sri Lanka’s rice, maize and poultry sectors are due to excessive government controls.
+
+...
+
+[Data](articles/fbbdf3bc.json)
 
 ---
 
@@ -1745,59 +1813,5 @@ Furthermore, the Office of the Prime Minister and Minister of Education has assu
 ...
 
 [Data](articles/24645b92.json)
-
----
-
-### දුමින්ද සිල්වාට විශේෂ පහසුකම් දෙන්නේ නෑ
-
-*2025-01-05 19:11:06* · [`adalk`](https://www.ada.lk/breaking_news/දුමින්ද-සිල්වාට-විශේෂ-පහසුකම්-දෙන්නේ-නෑ/11-414026) · `si`
-
-දුමින්ද සිල්වා නමැති සිරකරුට විශේෂ පහසුකම් ලබාදීමක් සම්බන්ධයෙන් පසුගිය කාලයේ විවිධ  පුවත් ප්‍රචාරය වුවත් එම ප්‍රචාර දැඩිව ප්‍රතික්ෂේප කරන බව බන්ධනාගාර දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-එවැනි ආකාරයේ කිසිදු විශේෂ පහසුකමක් මෙම සිරකරු හට ලබා දී නොමැති බවත්, මේ පිළිබඳව කරුණු සොයාබැලීමට මූලික විමර්ශන දෙකක් සිදු කළ  බවත් දෙපාර්තමේන්තුව පෙන්වා දෙයි.
-
-එහිදී  ස්ථාන පරීක්ෂා හා මූලික විමර්ශන වාර්තා අනුව අදාළ සිරකරුට වෙනම වැසිකිළියක් හෝ විශේෂ පහසුකමක් ලබා දී නොමැති බවට අනාවරණය කර තිබෙන බවද සඳහන් කරයි.
-
-බන්ධනාගාර රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින දුමින්ද සිල්වා සිරකරු සම්බන්ධයෙන්  බන්ධනාගාර දෙපාර්තමෙන්තුව මාධ්‍ය නිවේදනයක් නිකුත් තරමින් මේ බව සඳහන් කළේය.
-
-එම නිවේදනයේ සඳහන් වන්නේ දුමින්ද සිල්වා නමැති සිරකරු බන්ධනාගාර රෝහලේ අංක 3 වාට්ටුවේ  නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අතර, එහි නේවාසික ප්‍රතිකාර ලබන රැඳවියන් 50කට වැඩි පිරිසක් සමග රඳවා සිටින බවය.
-
-...
-
-[Data](articles/4bc90a1b.json)
-
----
-
-### උතුරු චීනයේ ශ්වසන රෝග රැල්ලෙන් ලංකාවට බලපෑමක් නෑ
-
-*2025-01-05 19:06:40* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-චීනයේ-ශ්වසන-රෝග-රැල්ලෙන්-ලංකාවට-බලපෑමක්-නෑ/11-414025) · `si`
-
-උතුරු චීනයේ ශ්වසන රෝග රැල්ල සාමාන්‍ය ශ්වසන රෝග පැතිරීමට සමාන වන බවත්, ඉන් ශ්‍රී ලංකාවේ මහජන සෞඛ්‍යයට සැලකිය යුතු බලපෑමක් නොමැති බවත් සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය ප්‍රකාශ කරයි.
-
-එම කාර්යාංශය පෙන්වා දෙන්නේ මින් පෙර හඳුනාගත් වෛරසයන් චීනයේ ශ්වසන රෝග වැඩිවීමට හේතුව වී ඇති බවයි. නව හෝ අසාමාන්‍ය වෛරස හඳුනාගෙන නොමැති බවත්, මෙම තත්ත්වය සාමාන්‍ය ශ්වසන රෝග පැතිරීමට සමාන වන බවත් සඳහන්ය.
-
-මෙරට සෞඛ්‍ය බලධාරීන් මේ පිළිබඳ අවධානයෙන් පසුවන අතර මහජන ආරක්ෂාව සහතික කිරීම සඳහා ගෝලීය සෞඛ්‍ය තත්වයන් පිළිබඳ අඛණ්ඩව අධීක්ෂණය කරමින් පසුවන බවද අවධාරණය කර සිටී.තත්ත්වය පිළිබඳ වැඩිදුරටත් දැනුම්වත් කරන සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය මෙසේද පැහැදිලි කරයි.
-
-...
-
-[Data](articles/3c90a6fa.json)
-
----
-
-### பெர்பச்சுவல் ட்ரசரீஸ் நிறுவனத்தின் வர்த்தக நடவடிக்கை மீதான தடை ஆறு மாதங்களுக்கு நீட்டிப்பு - இலங்கை மத்திய வங்கி
-
-*2025-01-05 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/203057) · `ta`
-
-பெர்பச்சுவல் ட்ரசரீஸ் நிறுவனத்தின் வர்த்தக நடவடிக்கைகளை இடைநிறுத்துவதற்கு எடுக்கப்பட்ட தீர்மானத்தை ஞாயிற்றுக்கிழமை (5) முதல் அமுலுக்கு வரும் வகையில் ஆறு மாதங்களுக்கு நீட்டிப்பதற்கு இலங்கை மத்திய வங்கி தீர்மானித்துள்ளது.
-
-இலங்கை மத்திய வங்கியின் வங்கியல்லாத நிதி நிறுவன கண்காணிப்பு திணைக்களம் ஞாயிற்றுக்கிழமை (5) விசேட ஊடக அறிக்கையை வெளியிட்டுள்ளது.
-
-பதிவு செய்யப்பட்ட பங்குத்தொகுதி மற்றும் பிணையங்கள் கட்டளைச் சட்டம் மற்றும் உள்நாட்டு திறைசேரி உண்டியல்கள் கட்டளைச் சட்டம் என்பவற்றின் கீழான ஒழுங்கு விதிகளின் நியதிகளுக்கு அமையவும்,
-
-மத்திய வங்கியினால் மேற்கொள்ளப்பட்டுவரும் புலனாய்வுகளைத் தொடரும் வகையிலும் பெர்பெட்சுவர் ட்ரசரீஸ் லிமிடெட் அதன் வர்த்தக நடவடிக்கைகளை மேற்கொள்வதற்கும், முதனிலை வணிக நடவடிக்கைகளை மேற்கொள்வதற்கும் விதிக்கப்பட்டிருந்த இடை நிறுத்த தீர்மானத்தை ஞாயிற்றுக்கிழமை (5) மாலை 04.30 மணியிலிருந்து நடைமுறைக்கு வரும் வகையில் மேலும் ஆறு மாத காலப்பகுதிக்கு நீட்டிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/59e14f44.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 13:13:03**
+As of **2025-01-06 13:27:44**
 
 ## Newspaper Stats
 
-*Scraped **63,933** Articles*
+*Scraped **63,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,890
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,102
+adalk | 6,103
 adaderanalk | 7,820
-tamilmirrorlk | 9,170
+tamilmirrorlk | 9,172
 virakesarilk | 10,684
 adaderanasinhalalk | 11,034
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,933 articles have been extended.
+61,971 (96.9%) of 63,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### மற்றொரு வினாத்தாளும் கசிவு - எடுக்கப்பட்ட அதிரடி நடவடிக்கை
+
+*2025-01-06 13:15:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றொரு-வினாத்தாளும்-கசிவு-எடுக்கப்பட்ட-அதிரடி-நடவடிக்கை/175-349853) · `ta`
+
+வட மத்திய மாகாணத்தில் 11ஆம் தர தவணைப் பரீட்சை தொடர்பான சிங்கள இலக்கிய வினாத்தாள், சமூக வலைத்தளங்கள் ஊடாக வெளியிடப்பட்டுள்ளமை உறுதிப்படுத்தப்பட்டுள்ளது.
+
+இதன் காரணமாக இன்று (06) நடைபெறவிருந்த இறுதிப் பரீட்சை பிற்போடப்பட்டதாக  வடமத்திய மாகாண கல்விச் செயலாளர் சிறிமேவன் தர்மசேன தெரிவித்தார்.
+
+அதன்படி இன்று காலை 8.00 மணியளவில் 08 வலயங்களில் உள்ள 30 பிரிவுகளைச் சேர்ந்த 600க்கும் மேற்பட்ட பாடசாலைகளில் உரிய வினாத்தாள் விநியோகம் நிறுத்தப்பட்டுள்ளது.
+
+அதேநேரம், பரீட்சை தற்காலிகமாக இடைநிறுத்தப்பட்டு மற்றுமொரு வினாத்தாள் வழங்கப்படும் என சிறிமேவன் தர்மசேன மேலும் தெரிவித்தார்.
+
+சம்பவம் தொடர்பில் அநுராதபுரம் தலைமையக பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளதாகவும், இந்த முறைகேடு எவ்வாறு இடம்பெற்றது என்பதை கண்டறிய நடவடிக்கை எடுத்து வருவதாகவும் அவர் தெரிவித்தார்.
+
+இதேவேளை, வடமத்திய மாகாணத்தில் மூன்றாம் தவணை பரீட்சையின் புவியியல் வினாத்தாளுக்கான விடைத்தாளும் முன்னதாக வெளியாகி இருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/e0ff5439.json)
+
+---
+
+### அரச ஊழியர்களின் விடுப்பு;புதிய வழிகாட்டல் வெளியீடு
+
+*2025-01-06 13:14:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களின்-விடுப்பு-புதிய-வழிகாட்டல்-வெளியீடு/175-349852) · `ta`
+
+அரச அதிகாரிகளுக்கு உள்நாட்டு மற்றும் வெளிநாட்டு சம்பளமில்லாத விடுமுறையை அங்கீகரிக்கும் போது பின்பற்ற வேண்டிய வழிகாட்டுதல்களை பொது நிர்வாக அமைச்சு வெளியிட்டுள்ளது.
+
+அனைத்து மாவட்டச் செயலர்களுக்கும் வெளியிடப்பட்டுள்ள சிறப்பு அறிவிப்பின்படி, அரசு அலுவலர்களுக்கு அவர்களின் ஓய்வூதிய உரிமைகள் பாதிக்கப்படாமல் ஊதியம் இல்லாத விடுப்பு வழங்கப்பட வேண்டும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+சில அதிகாரிகள் ஐந்து வருடங்கள் வரை உள்நாட்டு விடுமுறைக்கு விண்ணப்பித்துள்ளதுடன், தமது முன்கூட்டிய உள்நாட்டு விடுமுறையை உரிய முறையில் ரத்து செய்யாமல் வெளிநாட்டு விடுமுறைக்கும் விண்ணப்பித்திருந்தமை கண்டறியப்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது.
+
+புதிய வழிகாட்டுதல்கள் வெளிநாட்டு விடுப்புக்கான விண்ணப்பங்களுக்கு விண்ணப்பதாரரின் விடுப்பு வரலாற்றின் விரிவான மதிப்பாய்வைச் சேர்ப்பது கட்டாயமாக்குகிறது.
+
+விண்ணப்பங்களுடன் உள்ள கவர் கடிதங்களில் ஏற்கனவே பெறப்பட்ட உள்நாட்டு மற்றும் வெளிநாட்டு விடுப்பு விவரங்களை சரிபார்க்கவும் ஆவணப்படுத்தவும் மாவட்ட செயலாளர்கள் பணிபுரிகின்றனர்.
+
+...
+
+[Data](articles/e7998315.json)
+
+---
 
 ### சீனாவின் புதிய வைரஸ்  இலங்கையைப் பாதிக்குமா?
 
@@ -1785,41 +1827,5 @@ The Epica Awards are the only global creative awards judged by journalists from 
 ...
 
 [Data](articles/f2c68ee6.json)
-
----
-
-### අස්වැන්නට හානි කරන පණු උවදුරක්
-
-*2025-01-05 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205062) · `si`
-
-පසුගිය සමයේ ස්වභාවික ආපදා ඇතුළු අර්බුද රැසකින් පීඩාවට පත්ව සිටි වී ගොවීන්ට අද වනවිට තවත් උවදුරකට මුහුණ දීමට සිදුව තිබේ.
-
-ඒ, ප්‍රදේශ රැසක වී වගාවට හඳුනානොගත් පණුවන් විශේෂයකින් හානි වීම හේතුවෙනි.
-
-අනුරාධපුරය දිස්ත්‍රික්කයේ, අනුරාධපුරය, ඔයාමඩුව, විලච්චිය වැනි ප්‍රදේශවල කඹුරුවලට මෙම පණු උවදුර හේතුවෙන් දැඩි බලපෑම් එල්ල වී ඇත.
-
-ගොවීන් පෙන්වා දෙන්නේ, විවිධ කෘමිනාශක භාවිත කළද පණු උවදුර මර්දනය කළ නොහැකි බවය.
-
-එමෙන්ම ගොවීන් පවසන්නේ පණු උවදුර හේතුවෙන් සිය අස්වැන්න ශීඝ්‍රයෙන් පහළ යාමේ අවදානමක් ඇති බවය.
-
-මෙම පණු උවදුර මැඩපැවැත්වීමට වගකිවයුතු අංශ කඩිනමින් ක්‍රියාත්මක නොවුණහොත් එය සෙසු ප්‍රදේශවලටද ව්‍යාප්ත විය හැකියාවක් පවතී.
-
-◼️
-
-[Data](articles/82dcd07b.json)
-
----
-
-### Bajaj motorcycles fuel local industry growth and job creation in Sri Lanka
-
-*2025-01-05 21:47:00* · [`islandlk`](http://island.lk/bajaj-motorcycles-fuel-local-industry-growth-and-job-creation-in-sri-lanka/) · `en`
-
-Despite the challenges posed by vehicle import restrictions due to the COVID-19 pandemic, the Sri Lankan automotive sector has witnessed remarkable growth, particularly with assembling Bajaj motorcycles using locally manufactured components. This is a direct result of the Local Value Addition (LVA) programme initiated by the Ministry of Industries in 2021, which has propelled innovation, job creation and the growth of the local vehicle component manufacturing industry.
-
-When vehicle import restrictions were introduced in 2020 to safeguard the economy, the Ministry of Industries introduced a Standard Operating Procedure (SOP) in 2021 to encourage the local assembly of motorcycles using domestically produced parts. David Pieris Motor Company (Lanka) Limited (DPMC Lanka) responded quickly and became the first company to release motorcycles under this program, showcasing the ability to adapt and thrive even in challenging times.
-
-...
-
-[Data](articles/6d36e530.json)
 
 ---

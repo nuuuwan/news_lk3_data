@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 20:02:26**
+As of **2025-01-06 20:15:35**
 
 ## Newspaper Stats
 
-*Scraped **63,960** Articles*
+*Scraped **63,962** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
-bbccomsinhala | 670
+bbccomsinhala | 671
 economynextcom | 3,892
 islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,115
+adalk | 6,116
 adaderanalk | 7,820
 tamilmirrorlk | 9,181
 virakesarilk | 10,684
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,960 articles have been extended.
+61,971 (96.9%) of 63,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### විදෙස් ගත ලාංකිකයන්ට ලැබෙන අලුත්ම සහනය
+
+*2025-01-06 19:14:46* · [`adalk`](https://www.ada.lk/breaking_news/විදෙස්-ගත-ලාංකිකයන්ට-ලැබෙන-අලුත්ම-සහනය/11-414049) · `si`
+
+විදේශගත ශ්‍රී ලාංකිකයන්ට ඒ රටවල පිහිටි තානාපති කාර්යාල හරහා ප්‍රමාදයකින් තොරව උප්පැන්න සහතික, විවාහ සහතික හා මරණ සහතික කඩිනමින් ලබා ගැනීමට හැකි වෙබ් අඩවිය විදේශ කටයුතු, විදේශ රැකියා, සංචාරක අමාත්‍යාංශය විසින් අද (06දා) ආරම්භ කෙරිණ.
+
+තානාපති කාර්යාල 07ක් වෙනුවෙන් මෙම නියමු ව්‍යාපෘතිය ක්‍රියාත්මක වන අතර ජපානය, කටාර්, කුවේට් තානාපති කාර්යාල මිලානෝ, ටොරොන්ටෝ, මෙල්බර්න් සහ ඩුබායි කොන්සල් කාර්යාල මගින් ඒ රටවල්වල සිටින ශ්‍රී ලාංකිකයන්ට මින් ඉදිරියට ප්‍රමාදයකින් තොරව උප්පැන්න සහතික, විවාහ සහතික හා මරණ සහතික සහතික ලබා ගැනීමේ අවස්ථාව උදා වනු ඇත.මෙම ව්‍යාපෘතිය ඉදිරි කාලයේ දී සියලු තානාපති කාර්යාල ආවරණය වන පරිදි ක්‍රියාත්මක කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/77cb5afe.json)
+
+---
 
 ### රියදුරන් දෙදෙනෙක් රිමාන්ඩ් කරන්න කළ ඉල්ලීම අධිකරණය ඉවත දමයි
 
@@ -351,6 +365,28 @@ Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe ol
 ◼️
 
 [Data](articles/5f31a6b3.json)
+
+---
+
+### නව පැකේජ හඳුන්වා දීම හරහා දුරකතන සමාගම් පාරිභෝගිකයින්ගේ මුදල් 'ගසා කනවා' ද?
+
+*2025-01-06 13:36:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy8wz4wr8zo) · `si`
+
+නව පැකේජ හඳුන්වා දීම හරහා දුරකතන සමාගම් පාරිභෝගිකයින්ගේ මුදල් 'ගසා කනවා' ද?
+
+මලීෂ තම මවගේ ජංගම දුරකතනය සඳහා පැකේජයක් සක්‍රීය කර තිබුණේ මීට වසර දෙකකට පමණ පෙර ය. ඒ, එවකට ඔහුගේ මව භාවිත කරමින් සිටි දුරකතන ජාලය විසින් හඳුන්වා දෙනු ලැබ තිබුණු පැකේජයකි.
+
+මෙම පැකේජය හරහා ඕනෑ ම ජාලයක් වෙත මසක කාලයක් නොමිලේ දුරකතන ඇමතුම් ලබා ගැනීමට සහ සමාජ මාධ්‍ය වෙත නොමිලේ පිවිසීමට හැකි වූ අතර, දිනකට ගිගාබයිට් එක බැගින් මසකට ගිගාබයිට් 30ක ප්‍රමාණයක් ලබා දී තිබිණි.
+
+එහි මුදල් අවසන් වූ පසු පැකේජය යළි සක්‍රීය කර ගැනීමට ඔහුට වැය කිරීමට සිදුවූ මුදල 2024 ජනවාරි 1 වන දා 15% සිට 18% දක්වා ඉහළ දැමූ එකතු කළ අගය මත බද්ද අනුව ඉහළ ගියේ ය.
+
+"මම දවස් දෙක තුනකට කලින් ගියා පැකේජ් එක දාන්න කොමියුනිකේෂන් එකට. එතකොට එතන ඉන්න කෙනා කියනවා දැන් ඒ පැකේජ් එක නැහැ, වෙනස් වෙලා තියෙන්නේ, ඒකෙ ගාණ වැඩියි කියලා," මලීෂ බීබීසී සිංහල සමග පැවසීය.
+
+ඔහු මෙම පැකේජය මීට පෙර තම මවට සක්‍රීය කර දී තිබුණේ රු. 769ක මුදලකට ය.
+
+...
+
+[Data](articles/b30099e7.json)
 
 ---
 
@@ -1773,37 +1809,5 @@ He has also mentioned that deporting those refugees back to war-torn Myanmar, as
 ...
 
 [Data](articles/524cace4.json)
-
----
-
-### ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும், சட்டமா அதிபருக்கும் இடையிலான விசேட கலந்துரையாடல்
-
-*2025-01-06 03:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/203069) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கும், சட்டமா அதிபருக்கும் இடையிலான விசேட கலந்துரையாடல் திங்கட்கிழமை (6) இடம்பெறவுள்ளது. கடந்த காலங்களில் மக்கள் மத்தியில் கடும் சர்ச்சையை ஏற்படுத்திய வழக்குகளின் முன்னேற்றத்தன்மை குறித்து இச்சந்திப்பின் கலந்துரையாடப்படவுள்ளதாக அறிய முடிகிறது.
-
-அரசாங்கத்துக்கும், சட்டமா அதிபர் திணைக்களத்துக்கும் இடையில் பரஸ்பர வேறுபாடுகள் காணப்படுவதாக ஒருசில ஊடகங்கள் செய்தி வெளியிட்டுள்ள பின்னணியில் ஜனாதிபதிக்கும், சட்டமா அதிபருக்கும் இடையில் இந்த சந்திப்பு இடம்பெறவுள்ளது.
-
-மக்கள் மத்தியில் கடும் சர்ச்சையையும், எதிர்ப்பையும் ஏற்படுத்திய வழக்குகள் குறித்து சட்டமா அதிபர் திணைக்களம் முன்னெடுத்துள்ள நடவடிக்கைகள் மற்றும் அவற்றின் முன்னேற்றத்தன்மை குறித்து இதன்போது அவதானம் செலுத்தப்படவுள்ளது.
-
-...
-
-[Data](articles/6d1275ac.json)
-
----
-
-### Major reshuffle in Police leadership imminent
-
-*2025-01-06 03:41:40* · [`dailyftlk`](https://www.ft.lk/news/Major-reshuffle-in-Police-leadership-imminent/56-771450) · `en`
-
-In a significant development, nearly all Senior Deputy Inspector Generals (Senior DIGs) of Police, except for the Northern Province Senior DIG, are set to be reassigned to new posts, according to sources from Police Headquarters.
-
-The reshuffle will impact Senior DIGs managing administrative divisions including the Western, North Western, Eastern, Southern, Uva, and Sabaragamuwa Provinces. Among the notable changes, Senior DIG Ajith Rohana, formerly the Police Spokesman and currently overseeing the Eastern Province, is expected to be transferred to the Wayamba Province.
-
-Reports also indicate that this reshuffle will extend beyond Senior DIGs, affecting Deputy Inspector Generals (DIG) of Police and several Senior Superintendents of Police (SSP) across various divisions.
-
-...
-
-[Data](articles/07c54e32.json)
 
 ---

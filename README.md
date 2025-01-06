@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 20:44:08**
+As of **2025-01-06 21:04:19**
 
 ## Newspaper Stats
 
-*Scraped **63,962** Articles*
+*Scraped **63,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,116
-adaderanalk | 7,820
-tamilmirrorlk | 9,181
-virakesarilk | 10,684
+adaderanalk | 7,835
+tamilmirrorlk | 9,182
+virakesarilk | 10,696
 adaderanasinhalalk | 11,034
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,962 articles have been extended.
+61,971 (96.8%) of 63,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### ”வாகன சோதனையை யாராலும் தடுக்க முடியாது”
+
+*2025-01-06 20:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-சோதனையை-யாராலும்-தடுக்க-முடியாது/175-349869) · `ta`
+
+அண்மையில் ஆரம்பிக்கப்பட்ட விசேட வாகனச் சோதனை நடவடிக்கையைத் தொடர்ந்து விபத்துக்கள் குறைவடைந்துள்ளதாக இலங்கை பொலிஸார் தெரிவித்துள்ளனர்.
+
+இன்று ஊடகங்களுக்கு கருத்து தெரிவித்த பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மானதுங்க, 2024 டிசம்பர் 22 ஆம் திகதி ஆரம்பிக்கப்பட்ட இந்த விசேட நடவடிக்கை மிகவும் வெற்றிகரமானதாக இருப்பதாக தெரிவித்தார்.
+
+உயிரிழக்கும் வீதி விபத்துக்கள் நாளொன்றுக்கு 04 முதல் 05 சம்பவங்கள் வரை குறைந்துள்ளதுடன், பாரதூரமான விபத்துக்கள் அல்லது கடுமையான காயங்களுக்கு உள்ளானவை 08-10 சம்பவங்களாக குறைந்துள்ளதாகவும் அவர் கூறினார்.
+
+வாகனங்களின் சாரதிகள் மற்றும் உரிமையாளர்கள் தமது வாகனங்களில் உள்ள அனைத்து சட்டவிரோத பாகங்களையும் அகற்றுமாறு சிரேஷ்ட பொலிஸ் அத்தியட்சகர் புத்திக மனதுங்க மேலும் கோரியுள்ளார்.
+
+இந்த வாகன நடவடிக்கையை பல்வேறு தரப்பினர் தடுக்க முற்பட்டாலும், இலங்கை பொலிஸ் அதனை தொடர்ந்து முன்னெடுத்துச் செல்லும் எனவும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e24f5629.json)
+
+---
+
+### வாதுவையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2025-01-06 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/203153) · `ta`
+
+வாதுவை பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில், ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (05) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+வாதுவை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர், பேருவளை பகுதியைச் சேர்ந்த 40 வயதுடைய ஒருவர் ஆவார்.
+
+◼️
+
+[Data](articles/82d3cdc5.json)
+
+---
+
+### சமஷ்டிக்கோரிக்கை தமிழரசுக்கட்சியின் அஸ்தமித்துப்போன கனவா?
+
+*2025-01-06 20:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/203155) · `ta`
+
+முன்னர் ஒற்றையாட்சியை கொண்ட நாடுகளாக இருந்தவை சமஷ்டி நாடுகளாக மாறிய வரலாறுமுண்டு. பெல்ஜியம், எத்தோப்பியா, மற்றும் ஸ்பெயின் ஆகிய நாடுகளை இதற்கு உதாரணமாக குறிப்பிடலாம்.  சமஷ்டி முறைகள் அதன் பொருளாதார சமூக தொகுப்பின் அடிப்படையில் அவற்றின் நிறுவன அடிப்படையிலும் பாரிய அளவில் வித்தியாசம் கொண்டவை. குறிப்பாக, பல்லின சமூகம் கொண்ட நாடுகளில் இது பெரிதும் வரவேற்கப்படுகின்றன.  இந்தியா, சுவிட்ஸர்லாந்து, அமெரிக்கா போன்ற நாடுகளை இதற்கு உதாரணமாக  எடுத்துக் கொள்ள முடியும்.
+
+◼️
+
+[Data](articles/8b8ca404.json)
+
+---
+
+### ரஷ்யப்படையில் வலிந்து இணைக்கப்பட்டுள்ள உறவுகளை மீட்டுத்தாருங்கள் : கொழும்பில் கவனயீர்ப்பு போராட்டம்
+
+*2025-01-06 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/203157) · `ta`
+
+ரஷ்யப்படையில் வலிந்து இணைக்கப்பட்டுள்ள தமது உறவுகளை மீட்டுத் தருமாறு ஜனாதிபதி செயலகத்துக்கு முன்பாகவும், வெளிவிவகார அமைச்சுக்கு முன்பாகவும் கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+இன்று திங்கட்கிழமை (06) ஜனாதிபதி செயலகத்துக்கு முன்பாக ரஷ்யப் படையில் வலிந்து இணைக்கப்பட்டுள்ள யாழ்ப்பாணத்தைச் சேர்ந்த இரு இளைஞர்களின் தாய்மாரும், வென்னப்புவவைச் சேர்ந்த தாயொருவரும், குறித்த வலிந்து இணைக்கப்பட்ட நிலையில் காயமடைந்துள்ள கணவருக்காக முல்லைத்தீவைச் சேர்ந்த துணைவியார் ஒருவருமான ஐவர் கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+இந்தப்போராட்டத்தில் சிவில் மற்றும் மனித உரிமைகள் செயற்பாட்டாளர்களான ஷெரீன் சரூர், சட்டத்தரணி சுவஸ்திகா அருளிங்கம், ராஜ்குமார் ரஜீவ்காந் உள்ளிட்டவர்கள் பங்கேற்றிருந்தனர்.
+
+இந்நிலையில் குறித்த கவனயீர்ப்பு போராட்டம் இடம்பெற்ற பகுதிக்கு வருகை தந்திருந்த ஜனாதிபதி செயலக பாதுகாப்பு பிரிவின் பிரதான போராட்டத்துக்கான காரணத்தினைக் கேட்டறிந்ததோடு, ஜனாதிபதியின் பொதுமக்கள் தொடர்பாடல் பணிப்பாளரான கமகேவுடனான சந்திப்பொன்றுக்கு ஏற்பாடு செய்து கொடுத்திருந்தார்.
+
+...
+
+[Data](articles/1db2e8e7.json)
+
+---
+
+### Grade 11 Term Tests suspended in NCP schools
+
+*2025-01-06 19:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104771/grade-11-term-tests-suspended-in-ncp-schools) · `en`
+
+The Grade 11 Term Tests in all government schools within the North-Central Province have been cancelled until further notice.
+
+This was announced by Education Secretary of the North Central Province.
+
+Earlier today, it was revealed that the Sinhala Literature question paper for the Grade 11 term test in the North Central Province (NCP) has been confirmed to have leaked on social media, prompting authorities to take immediate action.
+
+As of this morning, the distribution of the compromised question paper was halted across more than 600 schools in the province. These schools span 30 educational divisions across eight zones, according to Education Secretary to the North Central Province, Sirimevan Dharmasena.
+
+◼️
+
+[Data](articles/9f9a201d.json)
+
+---
 
 ### විදෙස් ගත ලාංකිකයන්ට ලැබෙන අලුත්ම සහනය
 
@@ -43,6 +127,30 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/77cb5afe.json)
+
+---
+
+### மஞ்சி தேசிய சுப்பர் லீக் கரப்பந்தாட்டப் போட்டி: ஆடவர் பிரிவில் துறைமுக அதிகார சபையும் மகளிர் பிரிவில் விமானப்படையும் சம்பியனாகின
+
+*2025-01-06 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203166) · `ta`
+
+இலங்கை கரப்பந்தாட்ட சம்மேளனத்தினால் நடத்தப்பட்ட மஞ்சி  தேசிய  சுப்பர் லீக் கரப்பந்தாட்டப் போட்டியில் ஆடவர் பிரிவில் இலங்கை துறைமுக அதிகார சபை அணியும் மகளிர் பிரிவில் இலங்கை விமானப்படை அணியும் சம்பியன் பட்டங்களை சுவீகரித்தன.
+
+வெண்ணப்புவை சேர் அல்பர்ட் பீரிஸ் உள்ளக அரங்கில் இறுதிப் போட்டிகள் கடந்த வார இறுதியில் நடத்தப்பட்டது.
+
+ஆடவருக்கான இறுதிப் போட்டியில் இலங்கை மின்சார சபை அணியும் இலங்கை துறைமுக அதிகார சபை அணியும் மோதின.
+
+அப் போட்டியில் மிகத் திறமையாக விளையாடிய இலங்கை துறைமுக அதிகார சபை அணி  3 நேர் செட்களில் வெற்றிபெற்று சம்பியனானது.
+
+முதலாவது செட்டில் ஓரளவு ஆதிக்கம் செலுத்திய இலங்கை துறைமுக அதிகார சபை 25 - 19 என்ற புள்ளிகள் அடிப்படையில் வெற்றிபெற்று முன்னிலை பெற்றது.
+
+அடுத்த செட்டில் துறைமுக அதிகார சபை அணியிடம் சிறு சவாலை எதிர்கொண்டபோதிலும் 25 - 22 என்ற புள்ளிகள் கணக்கில் இலங்கை துறைமுக அதிகார சபை வெற்றிபெற்றது.
+
+தொடர்ந்து நடைபெற்ற 3ஆவது செட்டில் இரண்டு அணிகளும் சம அளவில் மோதிக்கொண்டன. இறதியில் 25 - 21 என்ற புள்ளிகள் அடிப்படையில் இலங்கை துறைமுக அதிகார சபை வெற்றிபெற்று சம்பியன் பட்டத்தை சூடியது.
+
+...
+
+[Data](articles/c7036699.json)
 
 ---
 
@@ -59,6 +167,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/af442afd.json)
+
+---
+
+### விசர்நாய் கடிக்குள்ளாவோரின் எண்ணிக்கை அதிகம் என்கிறார் வைத்தியர் பாலித்த ராஜபக்ஷ
+
+*2025-01-06 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/203159) · `ta`
+
+கடந்த வருடம் பதுளை போதனா வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் சிகிச்சைக்காக அனுமதிக்கப்பட்ட நோயாளர்களில் சுமார் 6,700 பேர் விசர்நாய் கடிக்கு ஆளானவர்கள் என அவசர சிகிச்சைப் பிரிவின் தலைவரும் அரச வைத்தியர் சங்கத்தின் உதவிச் செயலாளரும் ஊடக குழு உறுப்பினருமான வைத்தியர் பாலித்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+அண்மையில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது இது தொடர்பில் கருத்துத் தெரிவித்த வைத்தியர் பாலித்த ராஜபக்ஷ மேலும் குறிப்பிடுகையில்,
+
+கடந்த வருடம் பதுளை போதனா வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் மாத்திரம் 42,700 நோயாளர்கள் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளனர். அவர்களில் 6,700 பேர் விசர்நாய் கடி நோய்க்கு ஆளாகியவர்கள் என  வைத்தியசாலை தரவுகள் சுட்டிக்காட்டுகின்றன.
+
+அவ்வாறு விசர்நாய் கடி நோய்க்கு ஆளாகிய 6,700 நோயாளர்களில் சுமார் 95 சதவீதமானோர் தாம் வாழும் வீட்டை அண்டிய பகுதிகளில் ஏற்பட்ட விபத்து காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். வளர்ப்பு பிராணிகள் மூலம் விசர்நாய் கடி நோய்க்கு ஆளாகுவோரின் எண்ணிக்கையும் அதிகரித்துச் செல்வதைக் காணக் கூடியதாக உள்ளது.
+
+...
+
+[Data](articles/0f7144a6.json)
+
+---
+
+### HMPV cases surge in Malaysia, India and Hong Kong: Is it a new disease?
+
+*2025-01-06 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/104770/hmpv-cases-surge-in-malaysia-india-and-hong-kong-is-it-a-new-disease-) · `en`
+
+The HMPV cases are now reportedly rising in Malaysia. In 2024, 327 HMPV cases were reported in the country, a 45% increase compared to 225 cases in 2023. This increase comes amidst reports of rising respiratory illnesses in other countries, including China.
+
+According to the Straits Times, Malaysia’s Health Ministry urged the public to practice preventive measures, including frequent handwashing with soap, wearing face masks, and covering the mouth and nose when coughing or sneezing.
+
+“The public is advised to proactively take care of their health and prevent infection to others, especially in enclosed and crowded areas,” the ministry stated. “This includes those planning to travel to countries at risk.”
+
+Meanwhile, India has reported two cases of human metapneumovirus (HMPV). Two infants were infected with the virus in Karnataka’s Bengaluru, the Union Health Ministry said on Monday (January 6). One case is also suspected in Gujarat.
+
+...
+
+[Data](articles/cb591c56.json)
 
 ---
 
@@ -92,6 +236,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Syrian caretaker government to hike public sector salaries by 400% next month
+
+*2025-01-06 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104769/syrian-caretaker-government-to-hike-public-sector-salaries-by-400-next-month) · `en`
+
+Syria’s finance minister said on Sunday the government would hike salaries for many public sector employees by 400% next month after completing an administrative restructuring of ministries to boost efficiency and accountability.
+
+The increase, estimated to cost 1.65 trillion Syrian pounds, or about $127 million at current rates, will be financed by existing state resources plus a combination of regional aid, new investments, and efforts to unfreeze Syrian assets held abroad.
+
+“(This is) the first step towards an emergency solution to the economic reality in the country,” Mohammed Abazeed, the finance minister in Syria’s caretaker government, told Reuters, adding that this month’s wages for public sector staff would be paid out this week.
+
+These measures are part of a broader strategy by Syria’s new caretaker government to stabilize the country’s economy following 13 years of conflict and sanctions.
+
+...
+
+[Data](articles/27f4c8a9.json)
+
+---
+
 ### පාර්ලිමේන්තු මංගල සැසියේ තේ පැන් සංග්‍රහයේ වියදම ගැන පැහැදිලි කිරීමක්
 
 *2025-01-06 17:53:00* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මංගල-සැසියේ-තේ-පැන්-සංග්‍රහයේ-වියදම-ගැන-පැහැදිලි-කිරීමක්/11-414039) · `si`
@@ -107,6 +269,38 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/aad9f6bb.json)
+
+---
+
+### President and Attorney General discuss on controversial legal proceedings
+
+*2025-01-06 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104768/president-and-attorney-general-discuss-on-controversial-legal-proceedings) · `en`
+
+President Anura Kumara Disanayake has held a discussion with the Attorney General and officials from the Attorney General’s Department at the Presidential Secretariat today (06).
+
+During the discussion, the President emphasized the importance of coordinated efforts among all institutions working towards the effective enforcement of the law, the President’s Media Division (PMD) said.
+
+President Disanayake highlighted the critical responsibility of the Attorney General’s Department to restore public confidence in the judicial system. He further stressed that public perception regarding political interference must be transformed to ensure trust in the legal process, the PMD added.
+
+The President reiterated the government’s commitment to avoiding any actions that could erode public expectations. He assured that efforts are being made to re-establish confidence in the justice system and restore the principles of fairness and equity in the eyes of the people.
+
+...
+
+[Data](articles/63a1081b.json)
+
+---
+
+### புதிய இராணுவத் தளபதி லசந்த ரொட்ரிகோ ஶ்ரீ தலதா மாளிகைக்கு விஜயம்
+
+*2025-01-06 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/203149) · `ta`
+
+இலங்கையின் 25 வது இராணுவத் தளபதி லெப்டினன் ஜெனரல் லசந்த ரொட்ரிகோ பதவி ஏற்பின் பின் கண்டி ஶ்ரீ தலதா மாளிகைக்கு விஜயம் செய்து வழிபாடுகளில் ஈடுபட்டு ஆசிர்வாதம் பெற்றுக் கொண்டார்.
+
+அதேநேரம் ஶ்ரீ தலதா மாளிகைக்கு வழிபாட்டிற்காக வருகை தந்திருந்த வௌிநாட்டு யுவதி ஒருவர் இராணுவத் தளபதி சல்யூட் அடித்து மரியாதை தெரிவித்து அங்கு குழுமி இருந்தவர்களுக்கு ஆச்சரியத்தை ஏற்படுத்தியது.
+
+◼️
+
+[Data](articles/67d98b64.json)
 
 ---
 
@@ -141,6 +335,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/866ae729.json)
+
+---
+
+### பேலியகொடையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2025-01-06 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/203141) · `ta`
+
+பேலியகொடை பொலிஸ் பிரிவுக்கு உட்பட்ட களு பாலத்திற்கு அருகில்  ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (05) பேலியகொடை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+பேலியகொடை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் களனி பிரதேசத்தைச் சேர்ந்த 32 வயதுடையவர் ஆவார்.
+
+சந்தேக நபரிடம் இருந்து 11 கிராம் 600 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/297582c9.json)
 
 ---
 
@@ -182,6 +394,26 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Colombo Stock Exchange declines for second consecutive day
+
+*2025-01-06 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/104767/colombo-stock-exchange-declines-for-second-consecutive-day) · `en`
+
+The Colombo Stock Exchange (CSE) recorded a decline for the second straight day today (06), reflecting a slowdown after a historic rally.
+
+At the close of trading, the All Share Price Index (ASPI) dropped by 170.82 points, settling at 15,878.60 points.
+
+This follows a sharp dip last Friday (03), when the ASPI fell by 299.13 points, ending a remarkable 26-day streak of uninterrupted growth.
+
+The recent crossing of the 16,000-point mark by the ASPI was a notable milestone, underscoring the market’s robust performance prior to the downturn.
+
+Despite the decline, the market maintained a strong turnover of Rs. 8.57 billion today.
+
+◼️
+
+[Data](articles/ae35c816.json)
+
+---
+
 ### හන්තාන අධි සංවේදී කලාපයේ අක්කර 250ක වටිනා ගස් 1200ක් කපා ඉවත් කරලා
 
 *2025-01-06 17:04:32* · [`adalk`](https://www.ada.lk/picture_story/හන්තාන-අධි-සංවේදී-කලාපයේ-අක්කර-250ක-වටිනා-ගස්-1200ක්-කපා-ඉවත්-කරලා/10-414036) · `si`
@@ -213,6 +445,174 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/69430a2b.json)
+
+---
+
+### பாராளுமன்ற தேநீர் விருந்தின் செலவு விபரம் குறித்து விளக்கம்
+
+*2025-01-06 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/203143) · `ta`
+
+“பாராளுமன்றத்தின் முதலாவது நாள் அமர்வின் பின்னர் நடத்தப்பட்ட தேநீர் விருந்தின் உண்மையான செலவு” என்ற தலைப்பில் 2024.12.29 ஆம் திகதி ஞாயிறு சிங்கள மொழிப் பத்திரிகையில் வெளியான செய்தி தொடர்பில் பாராளுமன்றம் விளக்கம் அளித்துள்ளது.
+
+பாராளுமன்ற செலவுத் தலைப்பின் கீழ் சம்பிரதாயமாக நடத்தப்படும் நிகழ்வுகள் மற்றும் தேநீர் விருந்துபசாரத்திற்காக ஒன்பதாவது பாராளுமன்றத்தின் முதலாவது நாள் அமர்வில் 287,340 ரூபாவும், பத்தாவது பாராளுமன்றத்தின் முதலாவது நாள் அமர்வின் பின்னர் நடத்தப்பட்ட தேநீர் விருந்துபசராத்திற்கு 339,628.55 ரூபாவும் செலவு செய்யப்பட்டிருப்பதாக குறித்த ஊடகச் செய்தியில் குறிப்பிடப்பட்டிருந்தது.
+
+ஒன்பதாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடர் ஆரம்பம் 2020.08.20ஆம் திகதியும், பத்தாவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடர் ஆரம்பம் 2024.11.21ஆம் திகதியும் இடம்பெற்றன.
+
+...
+
+[Data](articles/04113e85.json)
+
+---
+
+### Traffic DIG clarifies modifications permitted for three-wheelers
+
+*2025-01-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104765/traffic-dig-clarifies-modifications-permitted-for-three-wheelers) · `en`
+
+Sri Lanka Police reiterated that modifications and decorations to three-wheelers are only permitted if they adhere to the guidelines approved by the Department of Motor Traffic.
+
+Joining Ada Derana’s current affairs programme”Big Focus”, Deputy Inspector General (DIG) of Police for Traffic Control and Road Safety Indika Hapugoda emphasized that any alterations to a three-wheeler must be recorded in the vehicle’s registration book without altering its original model.
+
+“This allows police officers to easily verify approved modifications through the Department of Motor Traffic, ensuring compliance and revenue for the government,” he stated.
+
+The Department of Motor Traffic has been authorizing specific modifications to three-wheelers since July 7, 2023, based on criteria developed in response to requests from three-wheeler associations and the general public, DIG Hapugoda noted.
+
+...
+
+[Data](articles/788f7021.json)
+
+---
+
+### India to offer unconditional support for Sri Lanka’s sports development
+
+*2025-01-06 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104764/india-to-offer-unconditional-support-for-sri-lankas-sports-development) · `en`
+
+Indian High Commissioner to Sri Lanka Santosh Jha has expressed India’s commitment to offer unconditional support for the development of sports in Sri Lanka.
+
+He shared these views during a meeting held today (06) with Sri Lanka’s Minister of Youth Affairs and Sports, Sunil Kumara Gamage, at the ministry premises.
+
+The High Commissioner emphasized that India would provide support for conducting sports development programs across Sri Lanka, particularly to promote cricket and other sports activities.
+
+Additionally, he has expressed hopes for strengthening bilateral relations between the two countries in the field of youth affairs.
+
+Posting on ‘X’ (formerly Twitter) regarding the meeting, the Indian High Commission stated that that the discussion was focused on the shared potential of a young demography and potential areas of deepening cooperation between the two countries in youth affairs and sports.
+
+◼️
+
+[Data](articles/4b63d4a1.json)
+
+---
+
+### Additional trains in operation for upcoming long weekends
+
+*2025-01-06 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104763/additional-trains-in-operation-for-upcoming-long-weekends) · `en`
+
+Sri Lanka Railways says additional trains will be deployed in the months of January and February in order to reduce congestion in the upcoming long weekends.
+
+Accordingly, the following trains will be operated in addition to the regular long-distance trains during the aforesaid period.
+
+◼️
+
+[Data](articles/bfc4f241.json)
+
+---
+
+### திருமணத்திற்கு பிறகும் தொடர்ந்து நடிப்பேன்- சாக்ஷி அகர்வால்
+
+*2025-01-06 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203135) · `ta`
+
+சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் வெளியான 'காலா', அஜித் குமார் நடிப்பில் வெளியான 'விஸ்வாசம் ' ஆகிய படங்களில் நடித்து பிரபலமான நடிகை சாக்ஷி அகர்வால் தன்னுடைய பால்ய காலத்து நண்பரும், நீண்ட நாள் காதலருமான நவ்நீத்தை பெற்றோர்களின் சம்மதத்துடன் அண்மையில் திருமணம் செய்து கொண்டார். இதனைத் தொடர்ந்து தம்பதிகள் சென்னையில் பத்திரிக்கையாளர்களை சந்தித்தனர்.
+
+இந்நிகழ்வில் பேசிய சாக்ஷி அகர்வால், '' நான் கலை உலகில் நடிகையாக வேண்டும் என்று கனவு கண்டேன். அந்தக் கனவிற்கு ஆதரவு அளித்தவர் நவ்நீத். அதன் பிறகு தான் பெற்றோர்கள் சம்மதம் தெரிவித்தனர்.
+
+நட்பாக தொடங்கிய எங்களின் பயணம் காதலாகி, தற்போது திருமண பந்தத்தில் இணைந்து இருக்கிறது. திருமணத்திற்கு பிறகும் தொடர்ந்து நடிப்பதற்கான ஆதரவை அவர் வழங்கியிருக்கிறார்.
+
+அதனால் திருமணத்திற்கு பிறகும் தொடர்ந்து திரைப்படங்களில் நடிப்பேன் தற்போது பல நடிகைகள் திருமணத்திற்கு பிறகும் தங்களது திறமையை வெளிப்படுத்தி வருகிறார்கள். தற்போது மலையாளம்- கன்னடம் ஆகிய மொழிகளில் தலா ஒரு படங்களில் நடித்திருக்கிறேன்.
+
+...
+
+[Data](articles/e8e3f99b.json)
+
+---
+
+### தமிழ் திரைப்பட இயக்குநர்களுக்கு வழங்கப்பட்ட 'வீதி' விருது
+
+*2025-01-06 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/203131) · `ta`
+
+வேலம்மாள் நெக்சஸ் - மாற்று ஊடக மையம் இணைந்து நடத்திய பன்னிரண்டாவது வீதி விருது வழங்கும் நிகழ்வில், தமிழக பாரம்பரிய கலைகளை முதன்மைப்படுத்தி படைப்புகளை உருவாக்கிய திரையுலக இயக்குநர்களுக்கு 'வீதி' விருது வழங்கி கௌரவிக்கப்பட்டனர்.
+
+தமிழ்நாட்டில் தற்போது பாரம்பரிய கலை வடிவங்கள் கொண்டாடப்பட்டு வருகிறது. இந்தத் தருணத்தில் வேலம்மாள் நெக்சஸ் -  மாற்று ஊடக மையம் இணைந்து 'வீதி விருது விழா 2025 ' எனும் பெயரில் மாபெரும் கலைத்  திருவிழாவை சென்னையில் ஜனவரி 4 மற்றும் 5 ஆகிய இரண்டு திகதிகளில் நடத்தியது.
+
+இந்நிகழ்வில் தமிழகத்தின் அனைத்து பகுதிகளிலிருந்தும் ஐயாயிரத்திற்கும் மேற்பட்ட நாட்டுப்புற கலைஞர்கள் பங்கு பற்றி தங்களின் கலைத்திறனை வெளிப்படுத்தினர்.  இந்த நிகழ்வில் தமிழ்நாடு டொக்டர் அம்பேத்கார் சட்ட பல்கலைக்கழகத்தின் துணை வேந்தர் கலாநிதி கர்னல் என்.எஸ். சந்தோஷ் குமார், வேலம்மாள் நெக்சஸ் குழுமத்தின் தாளாளர் எம் வீ எம் வேல் மோகன், மாற்று ஊடக மையத்தின் நிறுவனர் கலாநிதி ஆர். காளீஸ்வரன், தென்னிந்திய நடிகர் சங்கத்தின் தலைவர் நாசர் ஆகியோர் சிறப்பு அதிதியாக பங்கு பற்றினர்.
+
+...
+
+[Data](articles/8927acf4.json)
+
+---
+
+### மலேசிய நடிகர் கதிரவென் நடிக்கும் ' கண்நீரா ' படத்தின் இசை வெளியீடு
+
+*2025-01-06 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/203133) · `ta`
+
+மலேசியா வாழ் தமிழரான நடிகர் கதிரவென் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் ' கண்நீரா ' எனும் திரைப்படத்தின் இசை வெளியீடு சென்னையில் சிறப்பாக நடைபெற்றது. இந்நிகழ்வில் நடிகர் ரோபோ சங்கர் இயக்குநர்கள் பேரரசு ,ஆர். வி. உதயகுமார் -தயாரிப்பாளர்/ விநியோகஸ்தர் கே .ராஜன் ஆகியோர் சிறப்பு அதிதிகளாக பங்கு பற்றினர்.
+
+அறிமுக இயக்குநர் கதிரவென் இயக்கத்தில் உருவாகி இருக்கும் ' கண்நீரா' எனும் திரைப்படத்தின் கதிரவென், சாந்தினி கவுர், மாயா கிளம்மி, நந்தகுமார், என் கே ஆர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஏகணேஷ் நாயர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஹரி மாறன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை உத்ரா புரொடக்ஷன்ஸ் மற்றும் மோர் ஃபோர் புரொடக்ஷன் நிறுவனம் சார்பில் நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+விரைவில் வெளியாகவிருக்கும் இந்த திரைப்படத்தின் இசை வெளியீட்டு விழா நிகழ்வில் பங்கு பற்றி படத்தின் இயக்குநர் பேசுகையில், '' இந்த திரைப்படத்தை முழுவதும் மலேசியாவில் உருவாக்கியிருக்கிறோம்.
+
+...
+
+[Data](articles/a2872b9f.json)
+
+---
+
+### இசை ரசிகர்கள் கொண்டாடும் நடிகை ஸ்ருதிஹாசனின் குரலில் வெளியான 'இட்ஸ் எ பிரேக் அப் டா'
+
+*2025-01-06 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/203134) · `ta`
+
+தமிழின் முன்னணி நட்சத்திர நடிகரான ஜெயம் ரவி நடிப்பில் தயாராகி இருக்கும்  'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தில் இடம்பெற்ற 'இட்ஸ் எ பிரேக் அப் டா 'எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி, இசை ரசிகர்களின் கவனத்தை ஈர்த்திருக்கிறது. இந்த இதன் காரணமாக இந்தப் பாடல் வெளியான குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+
+இயக்குநர் கிருத்திகா உதயநிதி இயக்கத்தில் உருவாகி வரும்' காதலிக்க நேரமில்லை 'எனும் திரைப்படத்தில் ஜெயம் ரவி, நித்யா மேனன், யோகி பாபு, வினய் ராய் , டி ஜே பானு, லால் , லக்ஷ்மி ராமகிருஷ்ணன், மனோ , வினோதினி,  ரோஹன் சிங் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கேவ்மிக் ஆரே ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசைப்புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார். ரொமான்டிக் காமெடி ஜேனரிலான இந்த திரைப்படத்தை ரெட் ஜெயன்ட் மூவிஸ் நிறுவனம் தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/bacf8e7e.json)
+
+---
+
+### Another train derails disrupting services on up-country line
+
+*2025-01-06 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/104762/another-train-derails-disrupting-services-on-up-country-line) · `en`
+
+A mixed train traveling from Badulla to Kandy has derailed in the Demodara area this afternoon (06).
+
+The Department of Railways said that the train number 596, which transports both goods and passengers, has experienced the derailment this way.
+
+As a result, the train operations between Badulla and Kandy have been disrupted, according to the Department of Railways.
+
+Earlier this morning, a train was derailed near the Kalutara South Railway Station, disrupting several trains including office trains on the coastal line.
+
+◼️
+
+[Data](articles/194c84c5.json)
+
+---
+
+### CTU Secretary Stalin and 33 others freed from quarantine rules violation case
+
+*2025-01-06 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/104761/ctu-secretary-stalin-and-33-others-freed-from-quarantine-rules-violation-case) · `en`
+
+The Colombo Magistrate’s Court has ordered the release of 34 individuals including the Secretary of the Ceylon Teachers’ Union (CTU) Joseph Stalin from a case filed over staging protest violating quarantine rules in 2021.
+
+This case was taken up before Colombo Additional Magistrate Manjula Rathnayake today (06).
+
+Police had arrested 34 individuals including Stalin during a protest staged by the Inter University Students’ Federation (IUSF), the Ceylon Teachers’ Union (CTU) and the Frontline Socialist Party (FSP) against the General Sir John Kotelawala National Defence University Bill on July 08, 2021, under the provisions of Quarantine and Prevention of Diseases Ordinance.
+
+◼️
+
+[Data](articles/1989f4ac.json)
 
 ---
 
@@ -352,6 +752,40 @@ Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe ol
 
 ---
 
+### New Chairman appointed to Official Languages Commission
+
+*2025-01-06 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104759/new-chairman-appointed-to-official-languages-commission) · `en`
+
+President Anura Kumara Dissanayake has appointed Nimal R. Ranawake as the new Chairman of the Official Languages Commission of Sri Lanka.
+
+Additionally, Professor Emeritus R.M.W. Rajapakshe, Professor Joseph Yogarajah Stanislaus, and Mrs. Lareena Abdul Haq have been appointed as members of the Commission.
+
+The appointment letters were presented today (06) at the Presidential Secretariat by the Secretary to the President, Dr. Nandika Sanath Kumanayake.
+
+◼️
+
+[Data](articles/1d6631eb.json)
+
+---
+
+### New chairman and board members appointed to 1990 ‘Suwa Seriya’ Foundation
+
+*2025-01-06 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104758/new-chairman-and-board-members-appointed-to-1990-suwa-seriya-foundation) · `en`
+
+President Anura Kumara Dissanayake has appointed a new Chairman and Board Members to the 1990 ‘Suwa Seriya’ Foundation.
+
+Accordingly, A.M.N. Ratnayake has been appointed as the new Chairman of the 1990 Suwa Seriya Foundation, the President’s Media Division (PMD) reported.
+
+Meanwhile, R.J.M.A.P. Sampath and Nalin Perera have been appointed as Board Members of the 1990 Suwa Seriya Foundation.
+
+The appointment letters were presented by Secretary to the President Dr. Nandika Sanath Kumanayake today (06) at the Presidential Secretariat, the PMD added,
+
+◼️
+
+[Data](articles/7099ab7a.json)
+
+---
+
 ### චීනයේ  HMPV වෛරසය ඉන්දියාවට -  ආසාදනය වූ බිළින්ඳන් දෙදෙනෙක් සොයා ගැනේ
 
 *2025-01-06 13:53:59* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ--HMPV-වෛරසය-ඉන්දියාවට----ආසාදනය-වූ-බිළින්ඳන්-දෙදෙනෙක්-සොයා-ගැනේ/11-414034) · `si`
@@ -387,6 +821,24 @@ Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe ol
 ...
 
 [Data](articles/b30099e7.json)
+
+---
+
+### Parliament of Sri Lanka clarifies increased tea reception costs for inaugural session
+
+*2025-01-06 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104757/parliament-of-sri-lanka-clarifies-increased-tea-reception-costs-for-inaugural-session) · `en`
+
+The Parliament of Sri Lanka has issued a clarification regarding a recent media report claiming the “actual expenses of the tea receptions” held after the inaugural session of the Tenth Parliament.
+
+Issuing the clarification, the Parliamentary Communications Department noted that the media report highlighted that Rs. 287,340 was spent on tea receptions following the inaugural session of the Ninth Parliament on August 20, 2020, while Rs. 339,628.55 was incurred for the same event after the Tenth Parliament’s inaugural session on November 21, 2024.
+
+In response, the Parliament of Sri Lanka addressed the differences in expenditure, citing the following reasons:
+
+The four-year period between the two inaugural sessions witnessed significant market price fluctuations, the  Parliamentary Communications Department highlighted, adding that the cost of goods and services in 2024 had risen substantially, leading to a nearly 100% increase in food preparation costs compared to 2020.
+
+...
+
+[Data](articles/0295e3d3.json)
 
 ---
 
@@ -477,6 +929,26 @@ Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe ol
 ...
 
 [Data](articles/dd7caf05.json)
+
+---
+
+### Two including ex-provincial councilor further remanded
+
+*2025-01-06 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/104756/two-including-ex-provincial-councilor-further-remanded-) · `en`
+
+The Colombo Magistrate’s Court has ordered the two individuals including former member of Western Provincial Council Salochana Gamage, who were arrested while accepting a bribe, to be further remanded in custody until January 17, 2025.
+
+The officers of the Bribery Commission arrested a businessman and the former Western Provincial Council member while accepting a bribe of Rs. 09 million from another businessman at Pita Kotte.
+
+This arrest was made based on a complaint lodged by a resident of the Madiwela area of Kotte, the Bribery Commission said.
+
+Subsequently, he was produced before Colombo Additional Magistrate and was ordered to be remanded until today (06).
+
+The duo had allegedly solicited the bribe on the promise of expediting compensation for a land of the complainant’s relative in Torington Avenue, which was acquired by the Urban Development Authority (UDA), according the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+◼️
+
+[Data](articles/34a13021.json)
 
 ---
 
@@ -591,6 +1063,24 @@ It will also serve as a platform to mainstream productivity-enhancing ideas acro
 ...
 
 [Data](articles/204e46db.json)
+
+---
+
+### Seven CCTV cameras go missing from old Police Headquarters
+
+*2025-01-06 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104755/seven-cctv-cameras-go-missing-from-old-police-headquarters) · `en`
+
+Seven CCTV cameras installed at the old Police Headquarters in Colombo Fort have been reported missing.
+
+The Police Headquarters, now operating from the old Air Force Base in Kompanna Veediya, has lodged a complaint with the Fort Police regarding the disappearance.
+
+According to reports, the CCTV cameras were mounted on the 5th floor of the old Police Headquarters building. The exact timing of their disappearance remains unclear, but it is suspected that the cameras went missing after the police headquarters relocated to its new premises.
+
+The total value of the missing cameras is yet to be determined, and investigations are underway to trace their whereabouts.
+
+◼️
+
+[Data](articles/9dc5d71d.json)
 
 ---
 
@@ -1303,511 +1793,5 @@ Similarly, in the way the outbreak was prevented in the Jaffna district, all nec
 ...
 
 [Data](articles/afa0364d.json)
-
----
-
-### මගීන්ගේ ආරක්ෂාවට අයිතිවාසිකම් ලැයිස්තුවක්
-
-*2025-01-06 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205070) · `si`
-
-බස් රථවල ගමන් ගන්නා මගීන්ගේ ආරක්ෂාව වෙනුවෙන් මගී අයිතිවාසිකම් ලැයිස්තුවක් පිළියෙල කිරීමට කටයුතු ආරම්භ කර ඇති බව ජාතික ගමනා ගමන කොමිෂන් සභාව පවසයි.
-
-ඒ අනූව බස් රථ සඳහා ජාතික ගමනා ගමන කොමිෂන් සභාව විසින් ලබාදෙන ධාවන බලපත්‍ර වල අඩංගු කොන්දේසි මෙන්ම පළාත් සභා වලින් බස් රථ ධාවන බලපත්‍ර නිකුත් කිරීමේ දී අඩංගු කොන්දේසි සියල්ල එක්කර ගනිමින් මෙම  මගී අයිතිවාසිකම් ලැයිස්තුව පිළියෙළ කිරීමට කටයුතු කෙරෙන බව වාර්තා වේ.
-
-අද දෙරණ කළ විමසීමක දී ජාතික ගමනා ගමන කොමිෂන් සභාවේ සභාපති ආචාර්ය දිලීප විතාරණ මහතා සඳහන් කළේ මෙම කරුණු සම්බන්ධයෙන් බස් රථ සංගම් සහ මගී සංගම් සමග සාකච්ඡා කර අවසන් තීරණයකට එළඹීමට නියමිත බවය.
-
-පෞද්ගලික බස් රථ රියදුරන්ගේ සහ කොන්දස්තරවරුන්ගේ රැකියා සුරක්ෂිතභාවය ඇති කිරීම සඳහා අවශ්‍ය වන කටයුතු ද මේ වන විට සකස්කරමින් පවතින බව ජාතික ගමනා ගමන කොමිෂන් සභාවේ සභාපති ආචාර්ය දිලීප විතාරණ මහතා සඳහන් කළේය.
-
-◼️
-
-[Data](articles/71c7f457.json)
-
----
-
-### முச்சக்கரவண்டி வீதியில் கவிழ்ந்து எதிரே வந்த பஸ்ஸுடன் மோதியதில் சிறுவன் பலி!
-
-*2025-01-06 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/203077) · `ta`
-
-ராஜாங்கனை, அநுராதபுரம் - புத்தளம் பிரதான வீதியில் புத்தளத்திலிருந்து அநுராதபுரம் நோக்கி பயணித்த முச்சக்கரவண்டி ஒன்று நேற்று ஞாயிற்றுக்கிழமை (05) வீதியில் கவிழ்ந்து எதிரே வந்த பஸ்ஸுடன் மோதியதில் சிறுவன் ஒருவன் உயிரிழந்தார்.
-
-பொலிஸார் மேற்கொண்ட விசாரணையில், வீதியைக் கடக்க முற்பட்ட நாயுடன் முச்சக்கரவண்டி மோதுவதைத் தவிர்க்க முற்பட்ட வேளையில் முச்சக்கரவண்டி கவிழ்ந்துள்ளதாக தெரியவந்துள்ளது.
-
-விபத்தில் முச்சக்கரவண்டியின் சாரதியும் பின் இருக்கையில் பயணித்த சிறுவனும் காயமடைந்து நொச்சியாகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில்  சிறுவன் சிகிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளளனர்.
-
-மேலும்,பஸ்ஸின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், ராஜாங்கனை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/247f8001.json)
-
----
-
-### ரயில் தடம் புரள்வு ; கரையோர ரயில் சேவைகள் பாதிப்பு
-
-*2025-01-06 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/203076) · `ta`
-
-தெற்கு களுத்துறை ரயில் நிலையத்திற்கு அருகில் நேற்று ஞாயிற்றுக்கிழமை (05) ரயில் ஒன்று தடம் புரண்டதன் காரணமாக ரயில் சேவைகள் பாதிக்கப்பட்டுள்ளன.
-
-மருதானையிலிருந்து தெற்கு களுத்துறைக்கு நோக்கி பயணித்து ரயில் முனையத்திற்கு சென்ற போதே தடம்புரண்டுள்ளதாக ரயிர்வே திணைக்களம் தெரிவித்துள்ளது.
-
-தடம் புரண்ட ரயிலை ரயில்வே ஊழியர்கள் மீள் தடமேற்றியுள்ளதுடன், இன்று திங்கட்கிழமை (06) காலை வரை ஒரு ரயில் மார்க்கத்தின் சேவை தடைப்பட்டுள்ளதாக ரயிர்வே திணைக்களம் தெரிவித்துள்ளது.
-
-அத்தோடு, தெற்கு களுத்துறை ரயில் நிலையத்திலிருந்து இயங்கும் அனைத்து ரயில்களும் ஒரு ரயில் மார்க்கத்திற்கு மாத்திரம் மட்டுப்படுத்தப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/ea745ccb.json)
-
----
-
-### Special investigation into land allocations since 2015
-
-*2025-01-06 08:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104745/special-investigation-into-land-allocations-since-2015) · `en`
-
-Deputy Minister of Land and Irrigation, Dr Susil Ranasinghe, has stated that steps have been taken to launch a special place investigation into lands allocated for various purposes since 2015.
-
-The Deputy Minister also mentioned that necessary legal action would be taken following the investigation.
-
-Dr Ranasinghe made these remarks while speaking to the media after a ceremony in the Anuradhapura area.
-
-“Land is being allocated to industries and agriculture through the LRC. However, in the past, there have been many issues with land distribution and land transfers. Recently, the Cabinet decided to suspend land allocations through the LRC until an investigation is carried out to determine who has been granted land by the Land Reform Commission since 2015.”
-
-“For those projects, and on what grounds? We aim to conduct this investigation promptly to examine to whom the land has been allocated and whether any corruption or irregularities have occurred,” the Deputy Minister added.
-
-◼️
-
-[Data](articles/f848e17a.json)
-
----
-
-### Heaviest snowfall in a decade is possible as wintry blast roils parts of US
-
-*2025-01-06 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/104744/heaviest-snowfall-in-a-decade-is-possible-as-wintry-blast-roils-parts-of-us) · `en`
-
-A blast of snow, ice, wind and plunging temperatures stirred up dangerous travel conditions in parts of the central U.S. on Sunday, as a disruptive winter storm brought the possibility of the heaviest snowfall in a decade to some areas.
-
-Snow and ice blanketed major roadways in nearly all of Kansas, western Nebraska and parts of Indiana, where the state’s National Guard was activated to help any motorists who were stuck. At least 8 inches (20 centimeters) of snow were expected, particularly north of Interstate 70, as the National Weather Service issued winter storm warnings for Kansas and Missouri, where blizzard conditions brought wind gusts of up to 45 mph (72 kph). The warning extended to New Jersey for Monday and into early Tuesday.
-
-“For locations in this region that receive the highest snow totals, it may be the heaviest snowfall in at least a decade,” the weather service said.
-
-...
-
-[Data](articles/75ef457b.json)
-
----
-
-### இன்று மழையுடனான வானிலை
-
-*2025-01-06 08:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-மழையுடனான-வானிலை/175-349824) · `ta`
-
-நாட்டின் சில பகுதிகளில் இன்று (06) மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-இதன்படி கிழக்கு மாகாணம் மற்றும் முல்லைத்தீவு மாவட்டத்தின் சில இடங்களில் இன்று மழை பெய்யக்கூடும்.
-
-அத்துடன் சபரகமுவ மாகாணத்திலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் குறிப்பிட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/1fe6182f.json)
-
----
-
-### Showers expected in parts of the country
-
-*2025-01-06 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104743/showers-expected-in-parts-of-the-country) · `en`
-
-The Department of Meteorology showers may occur at a few places in Eastern province and in Mullaittivu district.
-
-Showers or thundershowers may occur at several places in Sabaragamuwa province and in Galle, Matara, Kandy and Nuwara-Eliya districts during the afternoon or night.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Southern and Uva provinces during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/59beb000.json)
-
----
-
-### 2015 සිට ලබාදුන් ඉඩම් ගැන විමර්ශනයක්
-
-*2025-01-06 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205068) · `si`
-
-2015 වසරේ සිට මේ දක්වා විවිධ අවශ්‍යතා සඳහා ලබා දුන් ඉඩම් සම්බන්ධයෙන් විශේෂ විමර්ශනයක් ආරම්භ කිරීමට පියවර ගෙන ඇති බව ඉඩම් හා වාරිමාර්ග නියෝජ්‍ය අමාත්‍ය වෛද්‍ය සුසිල් රණසිංහ මහතා පවසයි.
-
-විමර්ශනයෙන් අනතුරුව ඒ සඳහා අවශ්‍ය නීතිමය ක්‍රියාමාර්ග ගැනීමට කටයුතු කරන බව නියෝජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
-
-අනුරාධපුර ප්‍රදේශයේ පැවති උත්සවයකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඉඩම් හා වාරිමාර්ග නියෝජ්‍ය අමාත්‍ය වෛද්‍ය සුසිල් රණසිංහ මහතා මෙම අදහස් පළ කළේය.
-
-"කර්මාන්තවලට, කෘෂිකර්මාන්තවලට ඉඩම් නිකුත් කරනවා LRC එක හරහා. නමුත් පහුගිය කාලයේ ඉඩම් බෙදා දුන්න ඒවා සහ ඉඩම් පවරපු ඒවා සම්බන්ධයෙන් විශාල ගැටලු තොගයක් තිබුණා. පහුගිය දවසක කැබිනට් එකෙන් තීරණයක් ගත්තා 2015 ඉඳලා මේ දක්වා ඉඩම් ප්‍රතිසංස්කරණ කොමිෂන් සභාවෙන් ඉඩම් ලබාදී තිබෙන්නේ කාටද ? මොන ව්‍යාපෘතිවලටද ? මොන පදනම යටතේ  ද? යන්න සම්බන්ධයෙන් පරීක්ෂණයක් කරන තුරු LRC එකෙන් ඉඩම් දීම නවත්තන්න. අපි කඩිනමින් මේ පරීක්ෂණය කරලා, කාට ද මේ ඉඩම් දීලා තියෙන්නේ කියලා මේ සම්බන්ධයෙන් දුෂණ අක්‍රමිතා සිදුවෙලා ද කියලා පරීක්ෂණයක් කරන්න බලාපොරොත්තු වෙනවා."
-
-◼️
-
-[Data](articles/56f65ef0.json)
-
----
-
-### දශකයකට පසුව සිදුවන දරුණුතම හිම පතනය
-
-*2025-01-06 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205069) · `si`
-
-අමෙරිකාවේ මධ්‍යම ප්‍රදේශයට බලපෑ හිම කුණාටු තත්ත්වය ඉදිරි දින කිහිපය තුළ නැගෙනහිර ප්‍රදේශය කරා ගමන් කරනු ඇති බවට එරට ජාතික කාලගුණ සේවය නිවේදනය කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-හිම කුණාටුවේ අවදානම හේතුවෙන් වර්ජිනියා ඇතුළු ප්‍රදේශ කිහිපයකට හදිසි තත්ත්වයක් ද ප්‍රකාශයට පත් කර ඇති බව සඳහන්ය.
-
-හිම කුණාටුවත් සමග ඇතිවන හිම පතනය, දශකයකට පමණ පසුව සිදුවන දරුණුතම හිම පතනය විය හැකි බව අමෙරිකානු කාලගුණ බලධාරීන් සඳහන් කර ඇත.
-
-මේ අතර පවතින ශීතාධික කාලගුණ තත්ත්වයෙන් බ්‍රිතාන්‍යයේ ද ප්‍රදේශ රැසකටම බලපෑම් එල්ල වී ඇති අතර ඇතැම් ප්‍රදේශවල උෂ්ණත්වය සෙල්සියස් අංශක ඍණ 11ක පමණ අගයක් ගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
-
-අධික හිමපතනය හේතුවෙන් එංගලන්තයේ ගුවන්තොටුපොළ කිහිපයක මෙහෙයුම් කටයුතුවලට බලපෑම් එල්ල වී ඇති බව වාර්තා වේ.
-
-මේ හේතුවෙන් මැන්චෙස්ටර්, බර්මින්හැම් ඇතුළු ගුවන්තොටුපොළ කිහිපයකම ධාවන පථ තාවකාලිකව වසා දැමීමට ද සිදුව ඇති බව සඳහන්ය.
-
-උතුරු දිග එංගලන්තයේ ඇතැම් ප්‍රදේශවලට සෙන්ටිමීටර 25ක පමණ හිමපතනයක් සිදුවීම හේතුවෙන් රථවාහන ගමනාගමනයට ද බාධා පැමිණ ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-...
-
-[Data](articles/98efa77a.json)
-
----
-
-### How to avoid Sri Lanka’s rice crises made by government controls
-
-*2025-01-06 08:02:00* · [`economynextcom`](https://economynext.com/how-to-avoid-sri-lankas-rice-crises-made-by-government-controls-198119/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s red rice shortage was created by the government through its price controls and import controls, by trying to interfere with the price signals, in a deterioration of policy seen over several years.
-
-The lack of food security and shortages is a direct result of self-sufficiency policies which had made exports impossible.
-
-The only way to prevent a similar crisis next year, is to avoid repeating the same mistake again.
-
-Price controls have a severe negative impact on perceptions of economic management skills of a government, when shortages emerge.
-
-The two key initiatives are to allow red rice prices to move up gradually, moving people to other substitutes and avoid price controls and allow imports of other rice.
-
-To stop low quality rice from being imported, taxes have to be reduced. However the frequent crises in Sri Lanka’s rice, maize and poultry sectors are due to excessive government controls.
-
-...
-
-[Data](articles/fbbdf3bc.json)
-
----
-
-### කළුතර දුම්රියක් පීලි පනී
-
-*2025-01-06 08:00:29* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-දුම්රියක්-පීලි-පනී/11-414029) · `si`
-
-කළුතර දකුණ දුම්රිය ස්ථානය ආසන්නයේ දුම්රියක් පීලි පැනීම හේතුවෙන් අද (06) පෙරවරුවේ මුහුදු බඩ මාර්ගයේ එක් දුම්රිය මාර්ගයක් අවහිරව තිබුණි.
-
-ඊයේ රාත්‍රි මරදාන සිට දකුණු කළුතර බලා ධාවනය වූ අංක දරණ දුම්රිය,  දුම්රිය අංගනයට යොමු කිරීමේදී මෙසේ පීලි පැන ඇති බව සදහන් වේ.
-
-දුම්රිය පීලිපැනීම හේතුවෙන් කළුතර දකුණ දුම්රිය ස්ථානය ආසන්නයේ  එක් මාර්ගයක දුම්රිය ධාවනය අවහිර වී ඇති බව දැකගත හැකිවිය.
-
-පීලි පැන ඇති දුම්රිය අද උදෑසන හතට මරදාන බලා ධාවනය වීමට නියමිතව තිබූ අතර, එය අවලංගු කරන ලදී.
-
-එක්මං තීරුවක් අවහිර වී ඇතත්, අනෙක් මං තීරුවෙන් දුම්රිය සාමාන්‍ය පරිදි ධාවනය වූ සුළු ප්‍රමාදයක් දැක ගත හැකිවිය.
-
-◼️
-
-[Data](articles/07d681bc.json)
-
----
-
-### සුනඛයෙකු නිසා සිදු වූ අනතුරකින් කුඩා දරුවෙක් ට දිවි අහිමි වෙයි
-
-*2025-01-06 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205067) · `si`
-
-රාජාංගනය, අනුරාධපුර - පුත්තලම ප්‍රධාන මාර්ගයේ දී පුත්තලම දෙස සිට අනුරාධපුර දෙසට ධාවනය වූ ත්‍රිරෝද රථයක් මාර්ගයේ පෙරළී ගොස් ඉදිරියෙන් පැමිණි බස් රථයක ගැටී සිදු වූ අනතුරකින් ත්‍රිරෝද රථයේ සිටි කුඩා දරුවෙකු මියගොස් තිබේ.
-
-පොලීසිය පැවසුවේ, ඊයේ (05) රාත්‍රියේ ත්‍රිරෝද රථය මෙලෙස පෙරළී ඇත්තේ මාර්ගය හරහා ගිය සුනඛයකුගේ ගැටීම වැළැක්වීමට යාමේදී බවය.
-
-ත්‍රිරෝද රථයේ රියදුරු හා පිටුපස අසුනේ ගමන් කළ දරුවා අනතුරෙන් තුවාල ලබා නොච්චියාගම රෝහල වෙත ඇතුළත් කිරීමේදී දරුවා මියගොස් ඇත.
-
-මියගොස් ඇත්තේ අවුරුදු 12ක් වයසැති වැලිහේන, හලාවත ප්‍රදේශයේ පදිංචිව සිටි දරුවෙකි.
-
-බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර රාජාංගනය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/1e5504cc.json)
-
----
-
-### කොන්ක්‍රිට් බැම්මකින් වැටි පුද්ගලයෙක් ජීවිතක්ෂයට
-
-*2025-01-06 07:05:13* · [`adalk`](https://www.ada.lk/breaking_news/කොන්ක්‍රිට්-බැම්මකින්-වැටි-පුද්ගලයෙක්-ජීවිතක්ෂයට/11-414028) · `si`
-
-හගුරන්කෙත රිකිල්ලගස්කඩ ප්‍රදේශයේදි කොන්ක්‍රීට් බැම්මකින් ඇඳ වැටුණ පුද්ගලයෙක් ජීවිතක්ෂයක්ට පත්ව තිබේ.
-
-ඊයේ රාත්‍රි මෙම අනතුර සිදුව තිබේ. අනතුරින් අවුරුදු 49ක් වන මතුරට පදිංචි පුද්ගලයෙක් ජිවිතක්ෂයට පත්ව තිබේත
-
-කොන්ක්‍රිට් බැම්මෙන් වැටුණ හේතුව මෙතෙක් අණාවරණය වි නොමැත. හඟුරන්කෙත පොලිසිය වැඩිදුර පරික්ෂණ සිදුකරයි.
-
-◼️
-
-[Data](articles/e1229dd9.json)
-
----
-
-### දකුණු කළුතර දුම්රිය පීලිැපනීමක්
-
-*2025-01-06 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205066) · `si`
-
-දකුණු කළුතර දුම්රිය ස්ථානය ආසන්නයේදී දුම්රිය පීලිපැනීම හේතුවෙන් දුම්රිය ගමනට බාධා සිදුව තිබේ.
-
-ඊයේ (05) රාත්‍රියේ මරදාන සිට දකුණු කළුතර දක්වා පැමිණ ඉන් අනතුරුව දුම්රිය අංගනය වෙත ගමන් කළ දුම්රියක් මෙලෙස පීලිපැනීමට ලක්ව ඇත.
-
-පීලිපැනීමෙන් අනතුරුව මුහුදුබඩ දුම්රිය මාර්ගයේ එක් දුම්රිය මන්තීරුවක් සම්පූර්ණයෙන්ම අවහිර වී තිබුණි.
-
-මේ වන විට දුම්රිය සේවකයින් එම පීලිපැනීමකට ලක්වූ දුම්රිය ඉවත්කොට ඇති අතර, උදෑසන වනතෙක් එක් දුම්රිය මාර්ගයක් අවහිරව පවතින බව වාර්තා වේ.
-
-ඒ අනුව දකුණු කළුතර දුම්රිය ස්ථානයෙන් ධාවනය වන සියලුම දුම්රියන් එක් මන්තිරුවකට සීමා වී ඇති බව අප වාර්තාකරු පැවසීය.
-
-◼️
-
-[Data](articles/2775c56c.json)
-
----
-
-### වවුනියාවේ මී උණ ශීඝ්‍ර ව්‍යාප්තියක
-
-*2025-01-06 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205065) · `si`
-
-ගතවු වසරක කාලය තුළ වවුනියාව දිස්ත්‍රික්කයේ පුද්ගලයින් 41 දෙනෙකු මී උණ රෝගයට ගොදුරු වී ඇති බව වවුනියාව ප්‍රාදේශීය සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය පවසයි.
-
-සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය විසින් මී උණ රෝගය වළක්වා ගැනීම වෙනුවෙන් කළ දැනුවත් කිරීමේ වැඩසටහනකදී එලෙස සඳහන් කළේය.
-
-පසුගිය වසරේ මහ කන්නය හා යල කන්නය තුළ ගොවීන් 41 දෙනෙකු එලෙස මී උණ රෝගයට ගොදුරුව ඇති බවද සෞඛ්‍ය වෛද්‍ය කාර්යාලය පැවසීය.
-
-මහ කන්නයේ හා යල කන්නයේ වගා කටයුතුවලට පෙර මී උණ රෝගය වෙනුවෙන් ලබාගන්න ප්‍රතිජිවක ඖෂධ ලබා ගැනීම තුළින් මී උණ රෝගයෙන් වැළකි සිටීමට හැකි බවද සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය සඳහන් කළේය.
-
-යාපනය දිස්ත්‍රික්කය තුළ පැතිරී ගිය ආකාරයට මී උණ පැතිරයාම වළක්වා ගැනීමට අවශ්‍ය සියලු පියවර ගෙන ඇති අතර, ගොවි ජනතාව දැනුවත් කිරීම සිදුකිරීමට සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය පියවර ගෙන තිබිණි.
-
-◼️
-
-[Data](articles/4547d5d8.json)
-
----
-
-### நீர்நிலைக்குள் வீழ்ந்து குழந்தை உயிரிழப்பு : விசாரணைகளின் பின் நல்லடக்கம் !
-
-*2025-01-06 06:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/203073) · `ta`
-
-மட்டக்களப்பு மாவட்டத்தின் வெல்லாவெளிப் பொலிஸ் பிரிவுக்குட்பட்ட இளைஞர் விவசாயத்திட்டக் கிராமத்தில் சனிக்கிழமை (04.01.2025)  நீரோடையில் விழுந்து ஒன்றரை வயதுடைய ஆண் குழந்தை பரிதாபகரமாக உயிரிழந்துள்ளது.
-
-நீர் நிலையில் விழுந்த குழந்தையை மீட்டு பழுகாமம் பிரதேச வைத்தியசாலைக்கு கொண்டு சென்ற போதும் குழந்தை வைத்தியசாலையில் அனுமதிக்க முன்னரே உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரம் தெரிவித்துள்ளது.
-
-பிரேத பரிசோதனைகளுக்காக குழந்தையின் சடலம் களுவாஞ்சிக்குடி ஆதார வைத்தியசாலைக்கு கொன்டுசெல்லப்பட்டு, விசாரணைகளின் பின்னர் பெற்றோரிடம் ஒப்படைக்கப்பட்டு ஞாயிற்றுக்கிழமை (05) நல்லடக்கம் செய்யப்பட்டது.
-
-◼️
-
-[Data](articles/6437bfdd.json)
-
----
-
-### පළාත් කිහිපයකට වැසි
-
-*2025-01-06 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205064) · `si`
-
-නැගෙනහිර පළාතේත් මුලතිව් දිස්ත්‍රික්කයේත් ස්ථාන ස්වල්පයක වැසි ඇති විය හැක.
-
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සබරගමුව පළාතේත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම,දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/22f32e74.json)
-
----
-
-### யானையிடமிருந்து உயிர் தப்ப ஆற்றில் குதித்த தந்தையும் மகனும் - மட்டக்களப்பில் சம்பவம்
-
-*2025-01-06 06:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/203074) · `ta`
-
-காட்டுபகுதியில் விறகு வெட்ட சென்ற தந்தையும் 14 வயது மகனும்  யானையிடமிருந்து உயிரை காப்பாற்ற தப்பி ஓடி ஆற்றில் வீழ்ந்து நிலையில் தந்தை நீரில் இழுத்துச் செல்லப்பட்டு காணாமல் போன சம்பவம் ஒன்று ஞாயிற்றுக்கிழமை (05) காலையில்  மட்டக்களப்பு கரடியனாறு பொலிஸ் பிரிவிலுள்ள முந்தனையாற்று பகுதியில் இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
-
-மயிலவெட்டுவான் ஊப்போடை வீதியைச் சோந்த 49 வயதுடைய ஞானப்பிள்ளை அரணாகரன் என்பவரே இவ்வாறு நீரில் இழுத்துச் செல்லப்பட்டு காணாமல் போயுள்ளார்.
-
-குறித்த பிரதேசத்தை சேர்ந்த தந்தையும் அவரது 14 வயதுடைய மகனும் காட்டையண்டிய பகுதியில் விறகு வெட்டி வருவதற்காக சம்பவதினமான காலை 9 மணியளவில் சென்றுள்ளனர்.
-
-இதன்போது அங்கு யானையை கண்டு அதில் இருந்து தங்களின் உயிரை காப்பாற்றுவதற்காக அங்கிருந்து தப்பி ஓடி அருகிலுள்ள முந்தனையாற்றில் குதித்துள்ளனர்.
-
-இதனையடுத்து நீரில் மூழ்கிய 14 வயது சிறுவன் வெளியில் வந்த நிலையில் தந்தை நீரில் இருந்து வெளிவராததையிட்டு அவரை தேடிய நிலையில் அவரை ஆற்று நீர் இழுத்து சென்றுள்ளதையடுத்து அங்கிருந்து சிறுவன் வீட்டிற்கு சென்று நடந்த சம்பவத்தை தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/929544d9.json)
-
----
-
-### கஞ்சாவுடன் 3 இளைஞர்கள் கைது
-
-*2025-01-06 04:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சாவுடன்-3-இளைஞர்கள்-கைது/175-349822) · `ta`
-
-யாழ். வல்வெட்டித்துறை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கஞ்சாவுடன் மூன்று இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-காங்கேசன்துறை குற்றத் தடுப்புப் பிரிவு பொறுப்பதிகாரி மு.உதயானந்தன் தலைமையிலான குழுவினர் மேற்கொண்ட நடவடிக்கையின்போதே அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-அவர்களில் ஒருவர் சில தினங்களுக்கு முன்னர் அதே பொலிஸாரால் அதே பகுதியில் வைத்து கஞ்சாவுடன் கைது செய்யப்பட்டிருந்த நிலையில், நீதிமன்றத்தால் பிணையில் விடுவிக்கப்பட்டிருந்தார் என்பது குறிப்பிடத்தக்கது. (a)
-
-◼️
-
-[Data](articles/0ec3696c.json)
-
----
-
-### இன்று கையெழுத்து வேட்டை
-
-*2025-01-06 04:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-கையெழுத்து-வேட்டை/175-349821) · `ta`
-
-சிறைச்சாலைகளில் நீண்ட காலமாகத் தடுத்து வைக்கப்பட்டுள்ள தமிழ் அரசியல் கைதிகளை விடுதலை செய்யக் கோரி யாழ்ப்பாணத்தில் இன்று திங்கட்கிழமை கையெழுத்துப் போராட்டம் ஆரம்பிக்கப்படவுள்ளது.
-
-விசாரணை எனும் பெயரில் நீண்ட காலமாகச் சிறைகளில் வாடும் தமிழ் அரசியல் கைதிகளின் விடுதலையை வலியுறுத்தி போராளிகள் நலன்புரிச் சங்கம் பல்வேறு இடங்களிலும் கையெழுத்துப் போராட்டத்தை மேற்கொண்டு வருகின்றது.
-
-இதன் தொடராக இன்று காலை 10 மணியளவில் யாழ்ப்பாணத்தில் இந்தப் போராட்டத்தை  ஆரம்பிக்கவுள்ளது.
-
-இதற்கமைய யாழ். ஆயர் இல்லத்துக்கு அருகாமையில் இன்று ஆரம்பிக்கப்படுகின்ற இந்தக் கையெழுத்துப் போராட்டம் நாளையும் நாளைமறுதினமும் யாழ்ப்பாணத்தின் பல்வேறு இடங்களிலும் முன்னெடுக்கப்படவுள்ளது.
-
-சிறையில் வாடும் உறவுகளின் விடுதலையை வலியுறுத்தி முன்னெடுக்கப்படுகின்ற இந்தப் போராட்டத்தில் அரசியல் பேதங்களைக் கடந்து அனைவரையும் கலந்துகொள்ளுமாறு போராளிகள் நலன்புரிச் சங்கம் அழைப்பு விடுத்துள்ளது. (a)
-
-◼️
-
-[Data](articles/14fa969c.json)
-
----
-
-### குஜராத்தில் ஹெலிக்கொப்டர் விபத்து: 3 பேர் பலி
-
-*2025-01-06 04:09:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குஜராத்தில்-ஹெலிக்கொப்டர்-விபத்து-3-பேர்-பலி/175-349820) · `ta`
-
-குஜராத் மாநிலம் போர்பந்தர் விமான நிலையத்தில் நேற்று (05) விபத்து ஒன்று ஏற்பட்டது. வழக்கமான பயிற்சியின் போது கடலோர காவல்படைக்கு சொந்தமான இலகுரக துருவ் ஹெலிக்கொப்டர் திடீரென்று கீழே விழுந்து நொறுங்கி தீப்பிடித்தது. இந்த விபத்தில், ஹெலிக்கொப்டரில் பயணித்த 2 பைலட்டுகள் உள்ளிட்ட 3 பேர் உயிரிழந்துள்ளனர்.
-
-போர்பந்தர் விமான நிலையம், தற்போது பயணிகள் விமானங்களை இயக்கவில்லை. அங்கு இந்திய விமானப்படை மற்றும் ஏனைய படைப்பிரிவுகளின் விமானங்கள், ஹெலிக்கொப்டர்கள் பயன்படுத்துகின்றன. கடலோர காவல்படைக்கு சொந்தமான ஹெலிக்கொப்டர்களும் இதே விமான நிலையத்தை பயன்படுத்துகின்றன.
-
-மேலும் திடீரென ஹெலிக்கொப்டர் விபத்துக்குள்ளானதை அறிந்ததும், தீயணைப்பு வீரர்கள் மற்றும் மருத்துவ குழுவினர் சம்பவ இடத்திற்கு விரைந்து சென்று மீட்பு பணிகளை தொடங்கினர்.
-
-அதேபோல், இந்திய கடலோர காவல்படை விபத்தை தொடர்புடைய தகவல்களை உறுதிப்படுத்தியது. இந்திய கடலோர காவல்படைக்கு சொந்தமான இலகுரக துருவ் ஹெலிக்கொப்டர், குஜராத்தின் போர்பந்தரில் பயிற்சி பணியின்போது விபத்தில் சிக்கியது. இதில் 3 பேர் பலியாகினர் என்று கடலோர காவல்படை தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/fbcb0e4d.json)
-
----
-
-### ஊடகங்களை அச்சுறுத்தும் செயற்பாடுகளை அமைச்சர் நலிந்த ஜயதிஸ்ஸ தவிர்த்துக் கொள்ள வேண்டும் - ஐக்கிய மக்கள் சக்தி வலியுறுத்தல்
-
-*2025-01-06 04:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/203072) · `ta`
-
-ஊடகவியலாளர்களின் உரிமைகளையும் பாதுகாப்பையும் உறுதிப்படுத்த வேண்டிய ஊடகத்துறை அமைச்சர் நலிந்த ஜயதிஸ்ஸ, அவற்றை அச்சுறுத்தும் வகையில் செயற்படுவதை உடனடியாக நிறுத்த வேண்டும் என பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி வலியுறுத்தியுள்ளது.
-
-அறிக்கையொன்றை வெளியிட்டு அக்கட்சி இதனை வலியுறுத்தியுள்ளது. அந்த அறிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது :
-
-தேசிய பத்திரிகை ஒன்றில் வெளியான செய்தியின் அடிப்படையில் சுகாதார மற்றும் ஊடகத்துறை அமைச்சர் நலிந்த ஜயதிஸ்ஸ விடுத்த அச்சுறுத்தலை வன்மையாகக் கண்டிக்கிறோம்.  ஊடக சுதந்திரத்தை பாதுகாப்பதாக உறுதியளித்த தற்போதைய அரசாங்கம், அவர்களின் கருத்துக்கு மதிப்பளிக்காத ஊடக நிறுவனங்களுக்கு அழுத்தங்களை பிரயோகித்து வருகின்றது.
-
-...
-
-[Data](articles/0f20b3dd.json)
-
----
-
-### பொதுத் தேர்தலில் தோல்வியடைந்த சிரேஷ்ட அரசியல்வாதிகள் ; மாகாணசபைத் தேர்தலில் போட்டியிட கலந்துரையாடல்
-
-*2025-01-06 03:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/203071) · `ta`
-
-பாராளுமன்றத் தேர்தலில் தோல்வியடைந்த சிரேஷ்ட அரசியல்வாதிகளில் 60 இற்கும் அதிகமானோர் உத்தேச மாகாண சபைத் தேர்தலில் போட்டியிட கட்சி மட்டத்தில் பேச்சுவார்த்தையில் ஈடுபட்டுள்ளனர். உள்ளூராட்சிமன்றத் தேர்தலைத் தொடர்ந்து மாகாண சபைத் தேர்தலை நடத்துவது குறித்து அரசாங்கத்துடன் கலந்துரையாடுமாறு கட்சிகளுக்கு வலியுறுத்தியுள்ளதாக அறிய முடிகிறது.
-
-ஐக்கிய தேசியக் கட்சி, ஐக்கிய மக்கள் சக்தி மற்றும் புதிய ஜனநாயக முன்னணி உள்ளிட்ட பிரதான அரசியல் கட்சிகளில் போட்டியிட்டு பொதுத்தேர்தலில் தோல்வியடைந்த சுமார் 60 இற்கும் மேற்பட்டோர் மாகாண சபைத் தேர்தலில் போட்டியிட தீர்மானித்து கட்சி மட்டத்தில் ஆரம்பக்கட்ட பேச்சுவார்த்தையில் ஈடுபட்டுள்ளனர்.
-
-முன்னாள் பாராளுமன்ற உறுப்பினர்கள் உள்ளுராட்சி மன்றத் தேர்தலில் போட்டியிடுவதில் பல சிக்கல்கள் காணப்படுகின்ற நிலையில் மாகாண சபைத் தேர்தலில் போட்டியிட உத்தேசித்துள்ளனர். இவர்களில் பெரும்பாலானோர் முன்னாள் கடந்த காலங்களில் மாகாண சபை முதலமைச்சர் பதவிகளை வகித்துள்ளனர்.
-
-...
-
-[Data](articles/8a406f7a.json)
-
----
-
-### HMPV in China no cause for alarm says Prof. Jeewandara
-
-*2025-01-06 03:49:42* · [`dailyftlk`](https://www.ft.lk/news/HMPV-in-China-no-cause-for-alarm-says-Prof-Jeewandara/56-771456) · `en`
-
-University of Sri Jayewardenepura Immunology, Allergy and Molecular Medicine Department Director Prof. Chandima Jeewandara
-
-University of Sri Jayewardenepura Immunology, Allergy and Molecular Medicine Department Director Prof. Chandima Jeewandara confirmed that the new wave of respiratory infection – human metapneumovirus (HMPV) – spreading in China is not a cause for alarm.
-
-While foreign media warning of another health crisis with China facing a rapid spread of HMPV and hospitals overwhelmed with patients, Prof. Jeewandara claimed it as a ‘winter occurrence.’
-
-HMPV, a respiratory illness with flu-like symptoms, similar to Coronavirus and first reported in 2001, has emerged five years after the COVID-19 pandemic.
-
-Videos and social media posts showing people wearing masks and protective gear similar to during the COVID-19 pandemic and crowded hospitals in China circulated widely, making people panic over the spread of another global health disaster.
-
-...
-
-[Data](articles/7108e5ab.json)
-
----
-
-### எந்தவொரு விசாரணை நடவடிக்கைகள் தவறான முறையிலோ அல்லது அரசியல் பழிவாங்களை மேற்கொள்ளும் நோக்கிலோ இடம்பெறாது - பதில் பொலிஸ் மா அதிபர்
-
-*2025-01-06 03:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/203070) · `ta`
-
-கடந்த வருடத்தில் செயற்பட்டதை விடவும் இந்த வருடம் அதிக வினைத்திறனுடன் செயல்பட நாம் எதிர்பார்த்துள்ளோம். அதேபோன்று கடந்த காலங்களில் இடம்பெற்றதாகக் கூறப்படும் குற்றச்செயல்கள் மற்றும் கொடுக்கல் வாங்கல் தொடர்பில் உரிய முறையில் விசாரணைகள் முன்னெடுக்கப்படும்.இந்த விசாரணைகள் எந்தவொரு சந்தர்ப்பத்திலும் தவறான முறையிலோ அல்லது அரசியல் பழிவாங்களை மேற்கொள்ளும் நோக்கிலோ இடம்பெறாது என பதில் பொலிஸ் மா அதிபர் சட்டத்தரணி பிரியந்த வீரசூரிய தெரிவித்தார்.
-
-வடக்கு மாகாணத்தில் பொலிஸ் பிரிவுகளில் இயங்கும் பொலிஸ் பிராஜ குழுக்களுக்கு கிளீன் ஸ்ரீலங்கா தேசிய வேலைத்திட்டம் தொடர்பில் தெளிவுப்படுத்தும் நிகழ்வில் அண்மையில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அமைச்சர் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-[Data](articles/cd5798a8.json)
-
----
-
-### FUTA demands Govt. investigation into banning of anti-IMF seminar at UoP
-
-*2025-01-06 03:46:53* · [`dailyftlk`](https://www.ft.lk/news/FUTA-demands-Govt-investigation-into-banning-of-anti-IMF-seminar-at-UoP/56-771455) · `en`
-
-The Federation of University Teachers’ Associations (FUTA) has called on the Government to investigate an incident involving the alleged obstruction of academic freedom at the University of Peradeniya (UoP).
-
-The FUTA condemned the actions of the University’s Vice Chancellor Terrence Madhujith, who reportedly intervened to prevent a seminar on the International Monetary Fund’s (IMF) impact on Sri Lanka from taking place as scheduled.
-
-The seminar, organised by the Political Science Students’ Union in collaboration with the International Students and Youth for Social Equality, was planned for 3 January, on University premises. According to the FUTA, the Vice Chancellor instructed the organisers to either change the title of the event or cancel it entirely.
-
-...
-
-[Data](articles/86c5b472.json)
-
----
-
-### Chinese Foreign Minister makes transit stop in Sri Lanka
-
-*2025-01-06 03:46:17* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Foreign-Minister-makes-transit-stop-in-Sri-Lanka/56-771454) · `en`
-
-Chinese Foreign Minister and CPC Central Committee Political Bureau Member Wang Yi arrived at Bandaranaike International Airport (BIA) yesterday evening for a transit stop en route to Namibia.
-
-The 18-member Chinese delegation was warmly received by Chinese Ambassador to Sri Lanka Qi Zhenhong, Airport and Aviation Services (Sri Lanka) (AASL) Chairman (Retd.) Air Chief Marshal Harsha Abeywickrama, and AASL Vice Chairman Cyril Wannigama.
-
-The delegation’s flight departed from the BIA at 4:23 p.m. following the brief stopover.
-
-◼️
-
-[Data](articles/b5b27fcb.json)
-
----
-
-### Mujibur requests AKD to reconsider deporting Rohingya refugees
-
-*2025-01-06 03:44:03* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-requests-AKD-to-reconsider-deporting-Rohingya-refugees/56-771452) · `en`
-
-Samagi Jana Balawegaya (SJB) MP Mujibur Rahman has requested President Anura Kumara Dissanayake to reconsider the Government’s decision to deport 103 Rohingya refugees, including over 40 children, who arrived at the coast of Mullivaikkal in Mullaitivu, on 19 December 2024.
-
-“We are deeply saddened by the Government’s decision to deport these Rohingya people who fled their war-torn country due to fear. The Sri Lanka Human Rights Commission has stated that there are over 40 children among them and their desire is to seek political asylum in a safer country,” Rahman said in his letter to the President.
-
-He has also mentioned that deporting those refugees back to war-torn Myanmar, as said by Public Security and Parliamentary Affairs Minister Ananda Wijepala, would put their lives in danger and will also violate international principles that prohibit sending people to a country where they face threats of persecution.
-
-...
-
-[Data](articles/524cace4.json)
 
 ---

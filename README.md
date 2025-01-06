@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 18:05:45**
+As of **2025-01-06 18:25:20**
 
 ## Newspaper Stats
 
-*Scraped **63,955** Articles*
+*Scraped **63,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,892
 islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,110
+adalk | 6,111
 adaderanalk | 7,820
 tamilmirrorlk | 9,181
 virakesarilk | 10,684
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,955 articles have been extended.
+61,971 (96.9%) of 63,956 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/22f5a83f.json)
+
+---
+
+### කොටස් වෙළඳපොළ අදත් දැවැන්ත කඩා වැටීමක
+
+*2025-01-06 17:26:20* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-දැවැන්ත-කඩා-වැටීමක/11-414037) · `si`
+
+කොටස් වෙළඳපොළ අද දිනයේදීද දැවැන්ත කඩා වැටීමකට ලක්විය. ඒ අනුව අද දිනයේදී සමස්ත කොටස් දර්ශකය ඒකක 170.8කින් පහළට ගොස් ඒකක 15 878ක් විය.
+
+ඒ අනුව පසුගිය සතියේදී ඒකක 16000 සීමාව පසුකර ගියත් යළිත් වරක් එම සීමාවෙන් පහළට ගියේය.
+
+මේ අතර එස්. ඇන්ඩ් පී. දර්ශකයද 55.39කින් පහළ ගොස් ඒකක 4804ක් දක්වා පහළට පැමිණියේය. අද දිනයේදී වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 8.5ක් විය.
+
+◼️
+
+[Data](articles/866ae729.json)
 
 ---
 
@@ -1793,25 +1809,5 @@ The LoD, sent by Counsel Sampath Yalewatte on 24 December 2024, has accused Pali
 ...
 
 [Data](articles/cacb69ec.json)
-
----
-
-### Industries and Entrepreneurship Development Ministry goes public with focus areas, progress
-
-*2025-01-06 03:38:19* · [`dailyftlk`](https://www.ft.lk/business/Industries-and-Entrepreneurship-Development-Ministry-goes-public-with-focus-areas-progress/34-771446) · `en`
-
-Industries and Entrepreneurship Development Minister Sunil Handunneththi (centre) flanked by Deputy Minister Chathuranga Abeysinghe (left) and Secretary Thilaka Jayasundara
-
-The Ministry of Industries and Entrepreneurship Development says it is at the forefront of driving industrialisation and fostering entrepreneurship in the country and has updated some of the measures taken thus far and announced future plans.
-
-Following is the notice issued by Deputy Minister Chathuranga Abeysinghe listing its objectives, spanning key areas to support and grow industries and businesses.
-
-Core objectives: Policy Development; Industrial Support; New Business Creation; Entrepreneurship Support; Traditional Industry Development; SME Development; Export Promotion, and SOE Management.
-
-The Ministry oversees 29 institutions, including prominent entities such as the IDB, SED, NEDA, NPS, NCC, EDB, NDC, SLITA, and SOEs related to minerals, sugar, salt, ceramics, oil, textiles, and crafts.
-
-...
-
-[Data](articles/359686fb.json)
 
 ---

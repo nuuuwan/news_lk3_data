@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 06:49:36**
+As of **2025-01-06 07:32:17**
 
 ## Newspaper Stats
 
-*Scraped **63,861** Articles*
+*Scraped **63,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,75 @@ adalk | 6,096
 adaderanalk | 7,809
 tamilmirrorlk | 9,156
 virakesarilk | 10,663
-adaderanasinhalalk | 11,020
+adaderanasinhalalk | 11,023
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (97.0%) of 63,861 articles have been extended.
+61,971 (97.0%) of 63,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### දකුණු කළුතර දුම්රිය පීලිැපනීමක්
+
+*2025-01-06 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205066) · `si`
+
+දකුණු කළුතර දුම්රිය ස්ථානය ආසන්නයේදී දුම්රිය පීලිපැනීම හේතුවෙන් දුම්රිය ගමනට බාධා සිදුව තිබේ.
+
+ඊයේ (05) රාත්‍රියේ මරදාන සිට දකුණු කළුතර දක්වා පැමිණ ඉන් අනතුරුව දුම්රිය අංගනය වෙත ගමන් කළ දුම්රියක් මෙලෙස පීලිපැනීමට ලක්ව ඇත.
+
+පීලිපැනීමෙන් අනතුරුව මුහුදුබඩ දුම්රිය මාර්ගයේ එක් දුම්රිය මන්තීරුවක් සම්පූර්ණයෙන්ම අවහිර වී තිබුණි.
+
+මේ වන විට දුම්රිය සේවකයින් එම පීලිපැනීමකට ලක්වූ දුම්රිය ඉවත්කොට ඇති අතර, උදෑසන වනතෙක් එක් දුම්රිය මාර්ගයක් අවහිරව පවතින බව වාර්තා වේ.
+
+ඒ අනුව දකුණු කළුතර දුම්රිය ස්ථානයෙන් ධාවනය වන සියලුම දුම්රියන් එක් මන්තිරුවකට සීමා වී ඇති බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/2775c56c.json)
+
+---
+
+### වවුනියාවේ මී උණ ශීඝ්‍ර ව්‍යාප්තියක
+
+*2025-01-06 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205065) · `si`
+
+ගතවු වසරක කාලය තුළ වවුනියාව දිස්ත්‍රික්කයේ පුද්ගලයින් 41 දෙනෙකු මී උණ රෝගයට ගොදුරු වී ඇති බව වවුනියාව ප්‍රාදේශීය සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය පවසයි.
+
+සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය විසින් මී උණ රෝගය වළක්වා ගැනීම වෙනුවෙන් කළ දැනුවත් කිරීමේ වැඩසටහනකදී එලෙස සඳහන් කළේය.
+
+පසුගිය වසරේ මහ කන්නය හා යල කන්නය තුළ ගොවීන් 41 දෙනෙකු එලෙස මී උණ රෝගයට ගොදුරුව ඇති බවද සෞඛ්‍ය වෛද්‍ය කාර්යාලය පැවසීය.
+
+මහ කන්නයේ හා යල කන්නයේ වගා කටයුතුවලට පෙර මී උණ රෝගය වෙනුවෙන් ලබාගන්න ප්‍රතිජිවක ඖෂධ ලබා ගැනීම තුළින් මී උණ රෝගයෙන් වැළකි සිටීමට හැකි බවද සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය සඳහන් කළේය.
+
+යාපනය දිස්ත්‍රික්කය තුළ පැතිරී ගිය ආකාරයට මී උණ පැතිරයාම වළක්වා ගැනීමට අවශ්‍ය සියලු පියවර ගෙන ඇති අතර, ගොවි ජනතාව දැනුවත් කිරීම සිදුකිරීමට සෞඛ්‍ය වෛද්‍ය අධිකාරි කාර්යාලය පියවර ගෙන තිබිණි.
+
+◼️
+
+[Data](articles/4547d5d8.json)
+
+---
+
+### පළාත් කිහිපයකට වැසි
+
+*2025-01-06 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205064) · `si`
+
+නැගෙනහිර පළාතේත් මුලතිව් දිස්ත්‍රික්කයේත් ස්ථාන ස්වල්පයක වැසි ඇති විය හැක.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, සබරගමුව පළාතේත් ගාල්ල, මාතර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම,දකුණු සහ ඌව පළාත්වල ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/22f32e74.json)
+
+---
 
 ### இன்று கையெழுத்து வேட்டை
 
@@ -1651,59 +1709,5 @@ These programmes, in partnership with Asia e University in Malaysia, offer local
 ...
 
 [Data](articles/e2ac33fa.json)
-
----
-
-### Lanka speedster Matheesha Pathirana to bowl for ComBank
-
-*2025-01-05 14:54:00* · [`islandlk`](http://island.lk/lanka-speedster-matheesha-pathirana-to-bowl-for-combank/) · `en`
-
-Matheesha Pathirana, one of Sri Lanka’s most talented young cricket stars, has been appointed Brand Ambassador for Commercial Bank, the largest private sector bank in the country.
-
-Matheesha will specifically represent the ComBank Debit Card brand, the biggest debit card base in the country, reflecting the speed and agility of the brand, qualities that he is famous for. “We are excited to welcome Matheesha Pathirana as a brand ambassador for Commercial Bank,” the Bank’s Managing Director/CEO Sanath Manatunge said. “He is an internationally renowned fast bowler and a game changer. Together, we aim to inspire confidence and commitment to excellence, not only within Sri Lanka but also on the global stage.”
-
-Queen’s Hospital Medical Centre Opens in Ratmalana, Offering Affordable and Advanced Healthcare
-
-Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
-
-...
-
-[Data](articles/a568d375.json)
-
----
-
-### The Residencies Kotte by ICC redefines apartment living with expansive recreational area
-
-*2025-01-05 14:53:00* · [`islandlk`](http://island.lk/the-residencies-kotte-by-icc-redefines-apartment-living-with-expansive-recreational-area/) · `en`
-
-The Residencies Kotte by ICC is set to revolutionize apartment living with the near-completion of its vast podium-level recreational area, said a release.
-
-It said: Spanning over an acre, this elevated space is designed to foster community engagement and well-being, combining leisure, fitness, and social spaces. Key features include an infinity pool, jogging track, community hall, and curated sports and relaxation zones. The development emphasizes connectivity, offering residents a dynamic hub for interaction, bonding, and building friendships.
-
-Located in the serene Kotte area, yet close to urban amenities, The Residencies Kotte balances tranquillity with accessibility. As construction nears completion, it promises not only modern homes but a thoughtfully designed lifestyle that elevates everyday living. This innovative development is setting new standards for urban living in Sri Lanka.
-
-Telecom ITEA skills for vocational institute students by EXEO Global and SALA Enterprises
-
-...
-
-[Data](articles/56a54777.json)
-
----
-
-### New guidelines issued on unpaid leaves for public officials
-
-*2025-01-05 14:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104734/new-guidelines-issued-on-unpaid-leaves-for-public-officials) · `en`
-
-The Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government of Sri Lanka has issued a special notice to all District Secretaries , outlining the guidelines for approving domestic and foreign unpaid leave for public officials without affecting their pension entitlements.
-
-The Ministry has also provided a set of guidelines for District Secretaries to follow when granting unpaid leave.
-
-The directive aims to address irregularities observed in the leave approval process and ensure compliance with the Public Administration Circular dated June 22, 2022.
-
-Accordingly, the District Secretaries have been instructed to follow a detailed set of procedures when processing unpaid leave applications. The Ministry emphasized the need for vigilance, citing instances where some officials had taken domestic leave for up to five years and subsequently applied for foreign leave without properly canceling their prior leave arrangements.
-
-...
-
-[Data](articles/b59f576f.json)
 
 ---

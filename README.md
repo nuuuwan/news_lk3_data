@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 00:18:33**
+As of **2025-01-07 00:29:02**
 
 ## Newspaper Stats
 
-*Scraped **64,031** Articles*
+*Scraped **64,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
 islandlk | 3,906
-dailyftlk | 4,450
+dailyftlk | 4,454
 dailymirrorlk | 4,733
 adalk | 6,119
 adaderanalk | 7,838
@@ -26,9 +26,27 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,031 articles have been extended.
+61,971 (96.8%) of 64,035 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-01-07 (Tuesday)
+
+### Restore functioning of postal services in original building of Colombo General Post Office
+
+*2025-01-07 00:05:22* · [`dailyftlk`](https://www.ft.lk/opinion/Restore-functioning-of-postal-services-in-original-building-of-Colombo-General-Post-Office/14-771479) · `en`
+
+The Colombo General Post Office is functioning in a private building owned by the Islamic Cultural Centre on exorbitant rent while the original building is being earmarked for sale by the previous Government.
+
+The original structure was designed by a British architect H.F. Tomalin of the Public Works Department in the year 1890. Construction was done by the famous Avasi Marikkar Wapachi Marikkar who constructed the National Museum building and the Colombo Fort Clock Tower. He was Sir Razik Fareed’s grandfather. The cost of the building was originally estimated at Rs. 300,000, but ultimately it costed a little over Rs. 370,000. The building has two floors containing 18,522 sq. feet in each floor.
+
+The building is really majestic in appearance, just opposite of the President’s Palace. There is an underground tunnel connecting the GPO with the President’s Palace and during the British period the mail was delivered to the Governor immediately after the mail was sorted out.
+
+...
+
+[Data](articles/0039fd76.json)
+
+---
 
 ### 2025-01-06 (Monday)
 
@@ -47,6 +65,46 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/355b6cd2.json)
+
+---
+
+### Mahaweli Water Security Project: AKD’s first failure in the making?
+
+*2025-01-06 23:02:28* · [`dailyftlk`](https://www.ft.lk/columns/Mahaweli-Water-Security-Project-AKD-s-first-failure-in-the-making/4-771478) · `en`
+
+Although the ADB’s Board has the power to extend the MWSIP funding window beyond the 2025 deadline, this will happen only if the Government makes a forceful high-level request. To allow this extension, the ADB will have to break its own rule of a 10-year limit on projects of this kind. The External Resources Department has made a formal request to extend the project, but that’s been routinely turned down. But the ADB’s board granted an extension beyond the 10-year limit for a project in Mongolia after a high-level request was made
+
+...
+
+[Data](articles/99fa5cf1.json)
+
+---
+
+### Promoting local private university education
+
+*2025-01-06 22:56:17* · [`dailyftlk`](https://www.ft.lk/columns/Promoting-local-private-university-education/4-771477) · `en`
+
+Sri Lanka must embrace a transformative approach to its higher education system
+
+A recent flare up by the university students which appeared in the media is causing alarm about a possible new campaign to be started by student organisations against the establishment of private universities. This country has experienced such agitations over a long period of time emerging off and on. The agitators while opposing the setting up of any private university in the country categorically demonstrated their opposition to the Kotelawala Defence University now engaged in higher medical education. This sudden outburst after a long silence immediately arising in the wake of the formation of a new Government, the leaders of which were very much in control of the university student movement of the country, adds to the consternation.
+
+...
+
+[Data](articles/aa989967.json)
+
+---
+
+### Forcible repatriation of Rohingiyans to persecuting State will violate customary international law
+
+*2025-01-06 22:51:56* · [`dailyftlk`](https://www.ft.lk/columns/Forcible-repatriation-of-Rohingiyans-to-persecuting-State-will-violate-customary-international-law/4-771476) · `en`
+
+HRCSL must be allowed by the authorities to intervene without any  further delay
+
+The Sri Lankan Government must not violate international laws by seeking to forcibly ‘refoul’ or repatriate the 103 Rohingyans back to Myanmar where the military junta stands accused by the international community of continuously persecuting and unleashing targeted violence on the Rohingyan minority, who have been forced thereby to leave Myanmar, across borders and high seas risking their lives. Any such irresponsible move will be akin to throwing the Rohingyans back into the lion’s den!
+
+...
+
+[Data](articles/11f0fea1.json)
 
 ---
 
@@ -1741,87 +1799,5 @@ The duo had allegedly solicited the bribe on the promise of expediting compensat
 ◼️
 
 [Data](articles/f4f97393.json)
-
----
-
-### அமெரிக்காவில் கடும் பனிப்பொழிவு, குளிர் ;  ஏழு மாநிலங்களில் அவசரகால நிலை பிரகடனம்
-
-*2025-01-06 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/203101) · `ta`
-
-அமெரிக்காவில் 30க்கும் மேற்பட்ட மாநிலங்களில் 6 கோடி பேர் கடுமையான பனிப்பொழிவு மற்றும் குளிரினால் பாதிக்கப்பட்டுள்ளனர்.
-
-பல பகுதிகளில் மழை, பனி, பலத்த காற்று மற்றும் இடியுடன் கூடிய மழை பொழிந்த வண்ணம் உள்ளது.
-
-ஆயிரக்கணக்கான விமானங்கள் இரத்து செய்யப்பட்டுள்ளன, பல பாடசாலைகள் மூடப்பட்டுள்ளதோடு, வீதிகளில் போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
-
-ஞாயிற்றுக்கிழமை  கன்சாஸ் மற்றும் மிசோரி ஆகிய பகுதிகள்  மிகவும் மோசமாக பாதிக்கப்பட்டுள்ளன. அங்கு சில இடங்களில் சுமார் ஒரு அடிக்கு (30 செமீ) பனி பொழிந்து காணப்பட்டுள்ளது.
-
-இதனை அடுத்து, கன்சாஸ் மற்றும் மிசோரி, கென்டக்கி, வேர்ஜீனியா, மேற்கு வேர்ஜீனியா, ஆர்கன்சாஸ் மற்றும் நியூ ஜெர்சி ஆகிய பகுதிகளுக்கு அவரகால நிலை பிரகடனப்படுத்தப்பட்டுள்ளது.
-
-திங்கட்கிழமை காலை வேர்ஜீனியா, மேரிலாந்து, வொஷிங்டன் டிசி மற்றும் டெலாவேர் ஆகிய பகுதிகளுடன் கிழக்கு கடற்கரையை நோக்கி புயல் நகரத் தொடங்கியுள்ளது.
-
-◼️
-
-[Data](articles/5e73a5c1.json)
-
----
-
-### அம்பலாங்கொடை பகுதியில் துப்பாக்கி, போதைப்பொருளுடன் இருவர் கைது!
-
-*2025-01-06 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/203100) · `ta`
-
-அம்பலாங்கொடை பொலிஸ் பிரிவிற்குட்பட்ட  ஹோட்டல் ஒன்றில் தங்கியிருந்த இரு நபர்கள் துப்பாக்கி மற்றும் போதைப்பொருளுடன் நேற்று ஞாயிற்றுக்கிழமை (05) பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
-
-களனி மற்றும் அம்பலாங்கொட பகுதிகளைச் சேர்ந்த 32 மற்றும் 39 வயதுடைய சந்தேகநபர்கள் இருவரே  கைது செய்யப்பட்டுள்ளனர்.
-
-அம்பலாங்கொடை பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் அடிப்படையில், சுற்றிவளைப்பு மேற்கொள்ளப்பட்டபோதே குறித்த கைது நடவடிக்கை இடம்பெற்றுள்ளது.
-
-கைது செய்யப்பட்ட சந்தேகநபர்களிடமிருந்து, கைத்துப்பாக்கி, 09 தோட்டாக்கள், ஒரு பை வெடிமருந்து, 23 கிராம் 620 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் என்பன பொலிஸாரினாரினால் கைப்பற்றப்பட்டுள்ளன.
-
-அத்தோடு, சந்தேகநபர்களிடமிருந்து 152 அமெரிக்க டொலர்கள், 05 அவுஸ்திரேலிய டொலர்கள் மற்றும் 112,500 ரூபா பணமும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-மேலும், கைது செய்யப்பட்ட சந்தேகநபர்கள் இருவரும் அம்பலாங்கொடை பொலிஸ் நிலையத்தில் பலப்பிட்டிய நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டு மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/e7216a3d.json)
-
----
-
-### அத்துருகிரியவில் ஹெரோயினுடன் ஒருவர் கைது !
-
-*2025-01-06 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/203098) · `ta`
-
-அத்துருகிரிய பொலிஸ் பிரிவுக்கு உட்பட்ட முல்லேரிகம பிரதேசத்தில் ஹெரோயின் போதைப்பொருளுடன் பெண் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (05) அதுருகிரிய பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-அத்துருகிரிய பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் தெடிகமுவ பிரதேசத்தைச் சேர்ந்த 35 வயதுடைய பெண் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து 06 கிராம் 300 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/41acbe1b.json)
-
----
-
-### Sri Lanka’s Advocata Institute conference to discuss driving economic growth
-
-*2025-01-06 12:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-advocata-institute-conference-to-discuss-driving-economic-growth-198222/) · `en`
-
-ECONOMYNEXT – The Advocata Institute conference ‘Ignite Growth: Pathways to Sustainable Economic Growth’ is set to discuss innovative approaches to accelerate productivity and drive economic growth, the policy think-tank said.
-
-“Sri Lanka stands at a pivotal moment, transitioning from crisis to growth. Early signs of stabilisation offer a promising outlook for economic recovery, but significant challenges remain,” Advocata said.
-
-The #ResetNow Conference scheduled for January 22 and 23 will focus on the transformative potential of productivity efficiency through evolving business models, lean management practices, and operational improvements.
-
-It will also serve as a platform to mainstream productivity-enhancing ideas across political parties, the media, and the general public.
-
-“Economic growth is not just an aspiration; it is the only viable path to overcoming the current crisis and ensuring sustainable debt management.”
-
-...
-
-[Data](articles/204e46db.json)
 
 ---

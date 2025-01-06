@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 15:44:12**
+As of **2025-01-06 16:02:48**
 
 ## Newspaper Stats
 
-*Scraped **63,947** Articles*
+*Scraped **63,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,892
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,107
+adalk | 6,108
 adaderanalk | 7,820
 tamilmirrorlk | 9,177
 virakesarilk | 10,684
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,947 articles have been extended.
+61,971 (96.9%) of 63,948 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/882fce61.json)
+
+---
+
+### A statesman and his stance on the merits, if any, of British colonialism
+
+*2025-01-06 14:57:00* · [`islandlk`](http://island.lk/a-statesman-and-his-stance-on-the-merits-if-any-of-british-colonialism/) · `en`
+
+I overcame the thought it was inauspicious to write about a death as Nan’s first column for the New Year. But it is a tribute to a great man and a life lived well and successfully, turning a huge country from economic depression to prosperity. Hence, presenting an inspiring human beacon to be followed to our country, now struggling to get out of economic difficulties with new leaders at the helm, is good. May there emerge statesmen from among them (of either gender) in the year 2025 and after.
+
+was born on September 26, 1932, to a Sikh trading family in Gah in the Punjab, which area fell within what is now Pakistan. His mother died when he was very young and he was brought up by his paternal grandmother. They moved during Partition in 1947 to Haldwani. His grandfather was brutally killed which traumatized him for life and thus his refusal to invitations to visit his birthplace.
+
+...
+
+[Data](articles/a2670a3d.json)
 
 ---
 
@@ -97,6 +111,18 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/46ba51a0.json)
+
+---
+
+### World apart in time and space, they stood apart for honesty and high conduct
+
+*2025-01-06 14:49:00* · [`islandlk`](http://island.lk/world-apart-in-time-and-space-they-stood-apart-for-honesty-and-high-conduct/) · `en`
+
+Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe old age of 100 years, in Plains, a small, rural town in Georgia, where he was born and lived his pre and post political life. Three days prior and across the world, Manmohan Singh, India’s 13th Prime Minister, passed away in New Delhi. Dr. Singh was 92 years old. Carter served as President for four years from 1977 to 1981, 23 years before Manmohan Singh began his two-term tenure (2004-2014) as India’s Prime Minister.
+
+...
+
+[Data](articles/b6e6c8c6.json)
 
 ---
 
@@ -451,6 +477,24 @@ The guidelines emphasize strengthening the role of the Ministry of Foreign Affai
 ◼️
 
 [Data](articles/79bbbca2.json)
+
+---
+
+### අතිරික්ත රාජ්‍ය සේවකයන් අඩු කරන ලෙස අයි.එම්.එෆ්. දනුමී දිලා
+
+*2025-01-06 11:30:56* · [`adalk`](https://www.ada.lk/breaking_news/අතිරික්ත-රාජ්‍ය-සේවකයන්-අඩු-කරන-ලෙස-අයි-එම්-එෆ්--දනුමී-දිලා/11-414032) · `si`
+
+මෙරට රාජ්‍ය සේවය තුළ ලක්ෂ පහළොවක පමණ පිරිසක් සිටියද පසුගිය කාලයේ රාජ්‍ය සේවයට අදාළව විවිධ පත්වීම් ලබාදීී ඇතත් ඒවා ලබාදී ඇත්තේ දේශපාලන අරමුණු පෙරදැරි කරගමින් මිස මහජන සේවය අරමුණු කරගෙන නොවන බව කෘෂිකර්ම පශු සම්පත් ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී ලාල් කාන්ත මහතා පවසයි.
+
+එම රාජ්‍ය සේවකයන් අතරින් අතිරික්ත සේවකයන් රැසක් සිටින බවත් ඔවුන් අඩු කරනලෙස ජාත්‍යන්තර මූල්‍ය අරමුදල පෙන්වා දී ඇති බව පැවසූ අමාත්‍යවරයා රාජ්‍ය සේවයෙන් උපරිම සේවයක් ලබා ගැනීම සඳහා සැලසුම් සකස් කර තිබෙන බවද පවසයි.
+
+අමාත්‍යවරයා මෙම අදහස් පල කර සිටියේ මහනුවරදී පැවති කෘෂිකර්ම ක්ෂේත්‍රයට අදාළ ප්‍රගති සමාලෝචනයකට සහභාගිවීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි.
+
+එහිදී  අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කර සිටියේ කෘෂිකර්ම ක්ෂේත්‍රයට අදාළව වෘත්තිකයන් ඇතුළු අත්‍යාවශ්‍ය සේවාවන් සපයන නිලධාරීන්ගේ සැලකිය යුතු හිඟයක් පවතින බවයි. විශේෂයෙන් රජයට සම්බන්ධ පශු වෛද්‍යවරුන් සහ වනජීවි නිලධාරීන්ගේ හිගයක් ඒ අතරින් කැපී පෙනෙන බවද පැවසීය.
+
+...
+
+[Data](articles/2a3de1c0.json)
 
 ---
 
@@ -1777,59 +1821,5 @@ XEC කොවිඩ් නව ප්‍රභේදය: රෝග ලක්ෂ�
 ...
 
 [Data](articles/95168ff6.json)
-
----
-
-### Life and Times of  Jaffna’s Former Tiger  Commander  Sathasivampillai Krishnakumar alias  “Col” Kittu.
-
-*2025-01-06 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85304) · `en`
-
-Nowadays the 33 year long war between the armed forces of Sri Lanka and the Liberation Tigers of Tamil Eelam(LTTE) is slowly receding into memory. The LTTE ,known generally as the tigers,was formed officially on 5 May 1976. After three decades of conflict the LTTE met its waterloo by the waters of Nandhikkadal lagoon on May 18th 2009. The war  waged against the Sri Lankan state by the  Veluppilai Prabhakaran -led LTTE is an important and integral part of Sri Lanka’s post-independence history.
-
-A key turning point in the long war was the metamorphosis of the LTTE  from  that of  a guerilla  organization into an outfit  engaging in positional  warfare. It was in 1985 that the LTTE established control over  substantial areas of the Jaffna peninsula.  Policing  ceased in practice. The army was essentially confined to barracks. Soldiers would however break out of their camps occasionally , get embroiled in skirmishes and  return to camp.
-
-...
-
-[Data](articles/4603a0a1.json)
-
----
-
-### Graveside memorial service to mark  16th  anniversary  of Lasantha’s assassination On Wednesday 8 January 9 a.m. at Borella Kanatte
-
-*2025-01-06 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85308) · `en`
-
-The 16th anniversary of the assassination of The Sunday Leader founder Editor-in-Chief Lasantha Wickrematunge, which falls on 8 January, will be marked with a service at his graveside.
-
-Family, friends, former colleagues and others will gather at Borella Kanatte at 9 a.m. to mark the anniversary and remember Lasantha.
-
-Assassinated on 8 January 2009, Lasantha was one of Sri Lanka’s leading journalists and an outspoken critic of the then Rajapaksa Government. He was attacked as he drove to work and later died of his injuries.
-
-The brazen attack was carried out by two gunmen on motorcycles in the middle of morning-rush-hour traffic.
-
-The investigation into Lasantha’s murder has yielded no tangible results thus far and his killers still roam free, 16 years later.
-
-◼️
-
-[Data](articles/2a1a4bfd.json)
-
----
-
-### நெற்பயிர்ச் செய்கையை சேதப்படுத்தும் இனந்தெரியாத புழு பூச்சிகள்
-
-*2025-01-06 00:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/203067) · `ta`
-
-கடந்த காலங்களில் இயற்கை அனர்த்தங்கள் உட்பட பல நெருக்கடிகளால் பாதிக்கப்பட்ட நெல் விவசாயிகள் இன்று மற்றுமொரு அச்சுறுத்தலை எதிர்கொள்ள வேண்டியுள்ளது.
-
-பல்வேறு பூச்சிக்கொல்லிகளை பயன்படுத்தினாலும் புழுக்களின் தொல்லையை கட்டுப்படுத்த முடியவில்லை என விவசாயிகள் சுட்டிக்காட்டுகின்றனர்.
-
-அநுராதபுரம் மாவட்டத்தில் அநுராதபுரம், ஓயாமடுவ, விளாச்சியா போன்ற பிரதேசங்களில் இந்த புழுத் தொல்லையால் வயல்வெளிகள் கடுமையாகப் பாதிக்கப்பட்டுள்ளன.
-
-மேலும் புழுக்களின் தொல்லையால் விளைச்சல் வேகமாக குறையும் அபாயம் உள்ளதாகவும் விவசாயிகள் தெரிவிக்கின்றனர்.
-
-இந்த புழு தொல்லையை தடுக்க, சம்பந்தப்பட்ட துறையினர் விரைந்து நடவடிக்கை எடுக்காவிட்டால், மற்ற பகுதிகளுக்கும் பரவும் அபாயம் உள்ளது.
-
-◼️
-
-[Data](articles/e0ccf8a6.json)
 
 ---

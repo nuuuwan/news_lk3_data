@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 17:27:57**
+As of **2025-01-06 17:47:24**
 
 ## Newspaper Stats
 
-*Scraped **63,948** Articles*
+*Scraped **63,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,892
 islandlk | 3,905
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,108
+adalk | 6,110
 adaderanalk | 7,820
-tamilmirrorlk | 9,177
+tamilmirrorlk | 9,180
 virakesarilk | 10,684
 adaderanasinhalalk | 11,034
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,948 articles have been extended.
+61,971 (96.9%) of 63,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### சர்ச்சைக்குரிய வழக்குகள்: சட்டமா அதிபருக்கு ஜனாதிபதி ஆலோசனை
+
+*2025-01-06 17:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-வழக்குகள்-சட்டமா-அதிபருக்கு-ஜனாதிபதி-ஆலோசனை/175-349867) · `ta`
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் சட்டமா அதிபர்  உள்ளிட்ட சட்டமா அதிபர் திணைக்கள அதிகாரிகளுக்கும் இடையிலான சந்திப்பு  திங்கட்கிழமை (06) ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+சட்டத்தை அமுல்படுத்துவதற்காக செயற்படும் அனைத்து நிறுவனங்களுடனும் இணைந்து செயற்படுவதன் முக்கியத்துவத்தையும் ஜனாதிபதி இதன் போது சுட்டிக்காட்டினார்.
+
+நீதித்துறை கட்டமைப்பின்  மீது மக்களுக்கு நம்பிக்கையை ஏற்படுத்துவது சட்டமா அதிபர் திணைக்களத்தின் பொறுப்பாகும் எனவும், அரசியல் அதிகாரத்தின் மீதான மக்களின் அபிப்பிராயங்களை மாற்றி நம்பிக்கையை ஏற்படுத்த வேண்டும் எனவும், மக்களின் எதிர்பார்ப்புகள் வீழ்ச்சியடைய ஒருபோதும் இடமளிக்கக் கூடாது எனவும்  ஜனாதிபதி அநுர குமார திசாநாயக்க இங்கு  மேலும் தெரிவித்தார்.
+
+அவ்வாறு மக்களின் எதிர்பார்ப்புகளை வீழ்ச்சியடையச் செய்யும்  வகையில் அரசாங்கம் செயற்படாது என்றும், சட்டத்தை நிலைநாட்டுவது தொடர்பில் மக்களின் நம்பிக்கை வீழ்ச்சியடைந்துள்ளதோடு அதனை மீளமைக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி இங்கு வலியுறுத்தினார்.
+
+...
+
+[Data](articles/c0b3ae72.json)
+
+---
+
+### இவரைக் கண்டால் உடன் அறிவிக்கவும்
+
+*2025-01-06 17:12:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவரைக்-கண்டால்-உடன்-அறிவிக்கவும்/175-349866) · `ta`
+
+கடந்த வருடம் நவம்பர் மாதம் காணாமல் போன 16 வயது சிறுமியைக் கண்டுபிடிப்பதற்கான விசாரணைகளை அடம்பிட்டிய பொலிஸார் தொடர்ந்தும் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+2024 ஆம் ஆண்டு நவம்பர் மாதம் 3 ஆம் திகதி முதல் தனது மகள் ரத்நாயக்க முதியன்சலாகே கவிஷா தேவ்மிணி காணாமல் போயுள்ளதாக சிறுமியின் தாயாரின் முறைப்பாட்டையடுத்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+அண்ணளவாக 5 அடி 2 அங்குல உயரம் கொண்ட வெண்ணிறமான கவிஷா, கடைசியாக வெளிர் பச்சை நிற ஆடை அணிந்திருந்தார், மேலும் அவரது இடது கையில் முழங்கைக்கு அருகில் சிறிய வெட்டு காயம் ஒன்றும் உள்ளது.
+
+காணாமல் போன சிறுமியின் புகைப்படத்தை வெளியிட்டுள்ள பொலிஸார், அவரைக் கண்டுபிடிக்க பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+தகவல் தெரிந்தவர்கள் அடம்பிட்டிய OIC யை 071-8591528 அல்லது அடம்பிட்டிய பொலிஸ் நிலையத்தை 055-2295466 என்ற இலக்கத்திற்கு தொடர்பு கொண்டு அறிவிக்குமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/44094dbf.json)
+
+---
+
+### හන්තාන අධි සංවේදී කලාපයේ අක්කර 250ක වටිනා ගස් 1200ක් කපා ඉවත් කරලා
+
+*2025-01-06 17:04:32* · [`adalk`](https://www.ada.lk/picture_story/හන්තාන-අධි-සංවේදී-කලාපයේ-අක්කර-250ක-වටිනා-ගස්-1200ක්-කපා-ඉවත්-කරලා/10-414036) · `si`
+
+මහනුවර හන්තාන පරිසර අධි සංවේදී කලාපයේ අක්කර 250ක පමණ භූමි ප්‍රදේශයක වටිනා ගස් 1200 ක් පමණ කපා මහා පරිසර විනාශයක් සිදු කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මහනුවර කොට්ඨාශ අපරාධ විමර්ශන ඒකකය මගින් විමර්ශනයක් ආරම්භ කොට තිබේ.
+
+ජනතා වතු සංවර්ධන මණ්ඩලයට අයත් එම භූමි ප්‍රදේශයේ මැරුණු ගස් සහ වැටුණු ගස් ඉවත් කිරීමට යැයි ටෙන්ඩරයක් ලබාගෙන මෙම මහා පරිසර විනාශය සිදුකොට ඇති බව හන්තාන සුරැකීමේ සංවිධානයේ ප්‍රධාන ලේකම් අමිත් සේනානායක මහතා පවසයි.
+
+ඒ මහතාගෙන් සිදුකළ විමසීමකදී අවධාරණය කර සිටියේ එම භූමි ප්‍රදේශයේ වැටී ඇති ගස් සහ මැරුණු ගස් ඉවත් කිරීම සඳහා පසුගිය ජුනි මස 11 වැනි දින ටෙන්ඩරයක් නිකුත් කොට ඇති බවත් එම ටෙන්ඩරයේ නියමයන්ට අනුව මාස 03ක් ඇතුළත ගස් ඉවත් කිරීමට නියම කොට තිබුණත් ගස් ඉවත් කිරීම ආරම්භ කොට ඇත්තේ 2024-09-27 දින බවයි.
+
+එතැන් සිට පරිසර නීති සියල්ලක්ම උල්ලංඝනය කරමින් 2024-12-27 වැනි දින දක්වා වතු යායේ තිබූ හොඳම ගස් සියල්ලක්ම කපා ඉවත් කොට ඇති බවට ද සේනානායක මහතා පවසයි.
+
+...
+
+[Data](articles/e551f59b.json)
+
+---
+
+### கருக்கலைப்பு மாத்திரைகளை விற்றவர் கைது
+
+*2025-01-06 17:04:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கருக்கலைப்பு-மாத்திரைகளை-விற்றவர்-கைது/76-349865) · `ta`
+
+நுவரெலியாவில் கருக்கலைப்பு மாத்திரைகளை விற்பனை செய்த மருந்தகத்தின் உரிமையாளர் நுவரெலியா பிரிவு ஊழல் தடுப்பு பிரிவின் அதிகாரிகள் மற்றும் நுவரெலியா சுகாதார வைத்திய அதிகாரியினால் திங்கட்கிழமை (06) கைது செய்யப்பட்டார்.
+
+சட்ட விரோத கருக்கலைப்பு மாத்திரையை 15,000 ரூபாய்க்கு மருந்தக உரிமையாளர் விற்பனை செய்வதாக பிரதேச ஊழல் தடுப்பு பிரிவு அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் இலஞ்ச ஒழிப்பு பிரிவின் நிலைய அதிகாரி மேனன் தெரிவித்தார். நுவரெலியா சுகாதார வைத்திய அதிகாரியுடன் இணைந்து உத்தியை பயன்படுத்தி சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரின் மருந்தகத்தில் விற்பனைக்காக ஏராளமான கருக்கலைப்பு மாத்திரைகளை பொலிஸார் கைப்பற்றியுள்ளதாகவும், சட்டவிரோதமாக நாட்டிற்கு இறக்குமதி செய்யப்பட்ட கருக்கலைப்பு மாத்திரைகளை விற்பனை செய்வது முற்றாக தடைசெய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/69430a2b.json)
+
+---
+
+### බදුල්ලේ සිට මහනුවර බලා ධාවන වූ දුම්රියක් පීලී පනියි
+
+*2025-01-06 15:37:25* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-මහනුවර-බලා-ධාවන-වූ-දුම්රියක්-පීලී-පනියි/11-414035) · `si`
+
+බදුල්ල සිට මහනුවර බලා ධාවනය වූ මිශ්‍ර දුම්රිය පීලි පැනීමකට ලක්ව තිබේ.
+
+දෙමෝදර ප්‍රදේශයේදී මෙම දුම්රිය පීලිපැනීමකට ලක්ව ඇති බව දුම්රිය පාලක මැදිරිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5c14be20.json)
+
+---
 
 ### விருந்துபசார செலவு: பாராளுமன்றம் விளக்கம்
 
@@ -1729,97 +1815,5 @@ This year’s Golden Globes promises to captivate audiences with its dazzling sh
 ...
 
 [Data](articles/e6d04e32.json)
-
----
-
-### SJB calls on Govt. to revoke agreement with Adani
-
-*2025-01-06 03:27:04* · [`dailyftlk`](https://www.ft.lk/news/SJB-calls-on-Govt-to-revoke-agreement-with-Adani/56-771442) · `en`
-
-Former MP and Power and Renewable Energy Deputy Minister Ajith P. Perera
-
-Questions President Anura Kumara Dissanayake’s silence over Adani Group’s power agreement after recent visit to India
-
-Says Cabinet had approved purchase of renewable energy resources from Adani Group without a tender, competitive procedure, or transparency
-
-Claims CEB had signed MoU with Adani, which is not an Indian State-owned company
-
-Asks why Adani in India provides unit of electricity to Indian Government at $ 0.04, wind power unit to Sri Lanka for $ 0.08
-
-The Samagi Jana Balawegaya (SJB) yesterday called on the Government to terminate the Memorandum of Understanding (MoU) signed with the Adani Group in Sri Lanka to purchase renewable energy sources to provide a competitive opportunity, which will be opened to any local or foreign companies to invest in.
-
-...
-
-[Data](articles/3a0c8b64.json)
-
----
-
-### Malta strengthens ties with SL through establishment of consulate
-
-*2025-01-06 03:24:55* · [`dailyftlk`](https://www.ft.lk/news/Malta-strengthens-ties-with-SL-through-establishment-of-consulate/56-771441) · `en`
-
-The Republic of Malta has taken a significant step in its diplomatic journey by inaugurating a new Honorary Consulate in Colombo. This milestone underscores Malta’s commitment to strengthening its ties with Sri Lanka as the two nations approach the 25th anniversary of their diplomatic relationship in January 2025.
-
-The official inauguration ceremony was held at the Kingsbury Hotel, Colombo, on 26 December 2024. The event was graced by the presence of Malta’s High Commissioner to India and Sri Lanka Reuben Gauci, who is based in New Delhi, and Sri Lanka’s Deputy Minister of Foreign Affairs Arun Hemachandra, who served as the Chief Guest.
-
-...
-
-[Data](articles/90c38b13.json)
-
----
-
-### SLGJA kicks off Asia’s premier gem and jewellery exhibition ‘FACETS Sri Lanka 2025’
-
-*2025-01-06 03:24:22* · [`dailyftlk`](https://www.ft.lk/business/SLGJA-kicks-off-Asia-s-premier-gem-and-jewellery-exhibition-FACETS-Sri-Lanka-2025/34-771440) · `en`
-
-The Sri Lanka Gem and Jewellery Association (SLGJA), in collaboration with the National Gem and Jewellery Authority (NGJA), on Saturday inaugurated the 31st edition of ‘FACETS Sri Lanka,’ Asia’s premier gem and jewellery exhibition, at the Cinnamon Grand Hotel, Colombo.
-
-This three-day event showcases the brilliance and diversity of Sri Lanka’s gem and jewellery industry to a global audience. The exhibition ends today.
-
-The inauguration ceremony was graced by President Anura Kumara Dissanayake, who declared FACETS Sri Lanka 2025 officially open. Joining him were distinguished Ministers, industry leaders, and international delegations from key markets, including China, India, the United States, Europe, and beyond. The event also welcomed representatives from globally renowned gem and jewellery companies, many of whom are visiting Sri Lanka for the first time.
-
-...
-
-[Data](articles/34ea3d78.json)
-
----
-
-### Professor H.A. de S. Gunasekera Memorial Oration 2025 on Friday
-
-*2025-01-06 03:17:18* · [`dailyftlk`](https://www.ft.lk/news/Professor-H-A-de-S-Gunasekera-Memorial-Oration-2025-on-Friday/56-771439) · `en`
-
-The Professor H.A. de S. Gunasekera Memorial Oration 2025 will be held on Friday, 10 January
-
-It will be delivered by University of Peradeniya Department of Economics and Statistics Former Associate Professor Sumanasiri Liyanage on the topic, ‘Contingence, Conjuncture and Structure: The Economic Crisis in Sri Lanka: A Political Economy Critique.’
-
-Prof. Gunasekera was Professor of Economics and Head of the Department of Economics and Political Science of the University of Ceylon, Peradeniya. He succeeded Prof. Das Gupta to become the second occupant of the Chair (and the first Sri Lankan) in the Department in 1961. He also served as the Dean of the Faculty of Arts at Peradeniya (1963-1969) and later on as the Secretary, Ministry of Planning (1970-1977) under Prime Minister Sirimavo Bandaranaike. He was a much respected academic and public servant. A large number of his students have made outstanding contributions to both academic and public life in Sri Lanka and overseas.
-
-...
-
-[Data](articles/c0348bd1.json)
-
----
-
-### චීනයේ පැතිරෙන වෛරසයෙන් ශ්‍රී ලංකාවට අවදානමක් නැද්ද?
-
-*2025-01-06 02:20:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdek86nkzexo) · `si`
-
-ලොවපුරා ලක්ෂ ගණනකගේ ජීවිත අහිමි කළ කොරෝනා වසංගතය ආරම්භ වු බවට සැක කෙරෙන චීනයේ මේ දිනවල යළි පැතිරන යන වෛරස් රෝගී තත්ත්වයක් සම්බන්ධව ලෝකයේම අවධානය යොමුව තිබේ.
-
-චීන සෞඛ්‍ය බලධාරීන් තහවුරු කරන අන්දමට මෙම රෝගී තත්වයන්ට හේතුව ඉන්ෆ්ලුවෙන්සා (Influenza), රෙස්පිරේටරි සින්සිටියල් වෛරසය (Respiratory Syncytial Virus- RSV) සහ මානව මෙටානියුමෝ වෛරසය (Human Metapneumovirus - HMPV) යන හඳුනාගත් සාමාන්‍ය ස්වසන රෝග වෛරසයන් බව මෙරට සෞඛ්‍ය ප්‍රවර්ධන කාර්යංශය සඳහන් කළේය.
-
-මෙම රෝග තත්ත්වය පිළිබඳව ලෝකයේම අවධානය යොමුව ඇත්තේ කොරෝනා වසංගතය නිසා ඇති වූ බලපෑම හේතුවෙනි.
-
-චීනයේ පැතිරන යන වෛරසය සම්බන්ධව මෙන්ම එහි බලපෑම් සම්බන්ධව බීබීසී සිංහල විමසා බැලීමක් කළේය.
-
-XEC කොවිඩ් නව ප්‍රභේදය: රෝග ලක්ෂණ මොනවා ද? එහි ව්‍යාප්තිය කෙබඳු ද?
-
-චීනයේ පැතිර යන හියුමන් මෙටානියුමෝනියා නොහොත් HMPV වෛරසය බිය විය යුතු කරුණක් නොවන බව ශ්‍රී ජයවර්ධනපුර විශ්වවිද්‍යාලයේ ආසාත්මිකතා, ප්‍රතිශක්තිවේද සහ සෛල ජෛව විද්‍යා අංශයේ අධ්‍යක්ෂ, මහාචාර්ය චන්දිම ජීවන්දර පවසයි.
-
-"ශීත ඍතුවේ දී ස්වසන ආසාදන බහුලව දක්නට ලැබෙන අතර එය අනතුරු ඇඟවීමට හේතුවක් නොවේ."
-
-...
-
-[Data](articles/95168ff6.json)
 
 ---

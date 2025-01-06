@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 17:47:24**
+As of **2025-01-06 18:05:45**
 
 ## Newspaper Stats
 
-*Scraped **63,953** Articles*
+*Scraped **63,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 670
 economynextcom | 3,892
-islandlk | 3,905
+islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
 adalk | 6,110
 adaderanalk | 7,820
-tamilmirrorlk | 9,180
+tamilmirrorlk | 9,181
 virakesarilk | 10,684
 adaderanasinhalalk | 11,034
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,953 articles have been extended.
+61,971 (96.9%) of 63,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### ”இலங்கை மக்களின் பொது பாதுகாப்பு பெரும் ஆபத்தில் உள்ளது”
+
+*2025-01-06 17:26:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மக்களின்-பொது-பாதுகாப்பு-பெரும்-ஆபத்தில்-உள்ளது/175-349868) · `ta`
+
+இலங்கை பிரஜைகளுக்கான டிஜிட்டல் அடையாள அட்டைகளை வழங்குவதை இந்திய நிறுவனத்திடம் ஒப்படைக்கும் அரசாங்கத்தின் முடிவு குறித்து மக்கள் போராட்ட முன்னணி கவலை வெளியிட்டுள்ளது.
+
+அமைச்சர் விஜித ஹேரத்துக்கு எழுதிய கடிதத்தில், தற்போதைய ஜனாதிபதியின் இந்திய அரச சுற்றுப்பயணத்தின் போது செய்து கொள்ளப்பட்ட உடன்படிக்கையின் பிரகாரம், இலங்கை பிரஜைகளுக்கு டிஜிட்டல் அடையாள அட்டைகளை வழங்கும் அதிகாரம் இந்திய நிறுவனத்திடம் ஒப்படைக்கப்படும் என்றும், இது தொடர்பிலான இரு நாடுகளுக்குமிடையிலான புரிந்துணர்வு ஒப்பந்தத்தை அரசாங்கம் 2025 ஜனவரியில் இறுதி செய்யும் அவர் அண்மையில் கூறியதை கட்சி முன்னிலைப்படுத்தியுள்ளது.
+
+“இந்த ஒப்பந்தம் ஜனநாயக உரிமைகள், தேசிய பாதுகாப்பு, பொதுப் பாதுகாப்பு, தேசத்தின் பொருளாதாரம் மற்றும் அரசு மற்றும் அதன் மக்களின் இறையாண்மைக்கு தவிர்க்க முடியாத ஆபத்தை ஏற்படுத்துகிறது என்பதை நாங்கள் வலியுறுத்துகிறோம்.
+
+ஒரு இந்திய நிறுவனம் டிஜிட்டல் அடையாள அட்டைகளை வழங்க அனுமதித்த வரலாற்றை மறு ஆய்வு செய்வது மிகவும் முக்கியமானது,” என்று கட்சி மேலும் கூறியது.
+
+...
+
+[Data](articles/22f5a83f.json)
+
+---
 
 ### சர்ச்சைக்குரிய வழக்குகள்: சட்டமா அதிபருக்கு ஜனாதிபதி ஆலோசனை
 
@@ -131,6 +149,34 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/882fce61.json)
+
+---
+
+### Gaddafi’s armed bodyguards create a scene at the Non-Aligned Conference
+
+*2025-01-06 15:00:00* · [`islandlk`](http://island.lk/gaddafis-armed-bodyguards-create-a-scene-at-the-non-aligned-conference/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+I shall not deal with the day to day work of the Non-Aligned Conference in plenary sessions and in committees and the substantive issues that were discussed and debated. I was not directly involved in these aspects, and there would be others more competent than I to write about such matters. My job was one of co-ordination, troubleshooting, and the prevention or resolution of any issue that could mar the proceedings of the conference.
+
+Additionally, I had to schedule the large number of one on one meetings between the Prime Minister and Heads of State and Government, Foreign Ministers and other Heads of Delegations, and sit in at many of these. I had already referred to the able team that assisted me in these matters.
+
+...
+
+[Data](articles/e90d3baa.json)
+
+---
+
+### Speech writing for Mrs. B, mischievous Felix and 1965 general election
+
+*2025-01-06 14:59:00* · [`islandlk`](http://island.lk/speech-writing-for-mrs-b-mischievous-felix-and-1965-general-election/) · `en`
+
+Making speeches and preparing for them, was a constant occupational hazard for the prime minister and her staff. The international speeches were clearly the most important from a personal as well as country’s image-building point of view. Sirimavo gained immense credit from a statement she made in Belgrade at the Nonaligned Summit in 1961, when as the first woman prime minister of the world she used the phrase — As a woman and a mother, I call upon the nations of the world to desist from violence in their dealings with each other …’This phrase,was unique as no other world leader up to then could have used it, and was carried in headlines across the world giving Sirimavo and Ceylon a tremendous boost.
+
+...
+
+[Data](articles/5734d9cc.json)
 
 ---
 
@@ -1767,53 +1813,5 @@ The Ministry oversees 29 institutions, including prominent entities such as the 
 ...
 
 [Data](articles/359686fb.json)
-
----
-
-### Ogilvy’s Geometry Global, only Lankan agency to win at Global Epica Awards 2024
-
-*2025-01-06 03:35:14* · [`dailyftlk`](https://www.ft.lk/business/Ogilvy-s-Geometry-Global-only-Lankan-agency-to-win-at-Global-Epica-Awards-2024/34-771445) · `en`
-
-Geometry Global, a strategic business unit of the Ogilvy Group Sri Lanka, has achieved a significant milestone as Sri Lanka’s only agency to be recognised at the prestigious Epica Awards 2024.
-
-The agency secured a Bronze in the ‘Public Interest – Social Advocacy’ category for its meaningful ‘Books that Keep on Giving’ campaign for ProMate (Printxcel), a leading stationery manufacturer in Sri Lanka.
-
-The Epica Awards are the only global creative awards judged by journalists from the marketing and communications industry, with the 2024 winners being evaluated in Paris by a jury of editors and media personnel from across Europe and the United States.
-
-...
-
-[Data](articles/31052c20.json)
-
----
-
-### Renganathan, Manil join Lanka IOC Board
-
-*2025-01-06 03:34:38* · [`dailyftlk`](https://www.ft.lk/business/Renganathan-Manil-join-Lanka-IOC-Board/34-771444) · `en`
-
-Lanka IOC PLC has announced the appointment of S. Renganathan and Manil Jayesinghe as Independent Non-Executive Directors with effect from 1 January 2025.
-
-Renganathan was the former Managing Director/ Chief Executive Officer of Commercial Bank of Ceylon PLC and had held several key positions in the Bank. In addition, he served as the Managing Director and a Board Member of the Commercial Development Company PLC, and as the Deputy Chairman of Commercial Bank of Maldives Ltd.
-
-He is a senior banker counting over 41 years and has led Commercial Bank’s acquisition of the banking operations of Credit Agricole Indosuez in Bangladesh. He was the first Chief Risk Officer of the Bank and has held positions as the Deputy General Manager in charge of Bank’s Island wide branch network and Chief Operating Officer.
-
-He served as an Executive Director in the Board of Directors of the Commercial Bank of Ceylon PLC for nearly eight years.
-
-...
-
-[Data](articles/39af8a58.json)
-
----
-
-### Lights, Camera, Action: The Golden Globes 2025 Exclusively on Dialog Television and ViU App!
-
-*2025-01-06 03:30:52* · [`dailyftlk`](https://www.ft.lk/business/Lights-Camera-Action-The-Golden-Globes-2025-Exclusively-on-Dialog-Television-and-ViU-App/34-771443) · `en`
-
-Step into the world of glitz and glamour as Dialog Television exclusively brings you the 82nd Annual Golden Globe Awards, streaming live and on HITS NOW (Channel 113). Tune in on January 6, 2025, at 5:30 AM, with a repeat telecast at 4:30 PM, and witness the magic of Hollywood’s most prestigious celebration of film and television.
-
-This year’s Golden Globes promises to captivate audiences with its dazzling showcase of cinematic brilliance and unforgettable moments. From awe-inspiring performances to the year’s most celebrated movies and shows, this iconic event delivers the best of entertainment to your home. With family-friendly animated features and edge-of-your-seat dramas among the highlights, the Golden Globes truly offers something for everyone.
-
-...
-
-[Data](articles/e6d04e32.json)
 
 ---

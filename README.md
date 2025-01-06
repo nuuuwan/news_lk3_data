@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-06 19:06:56**
+As of **2025-01-06 19:16:48**
 
 ## Newspaper Stats
 
-*Scraped **63,956** Articles*
+*Scraped **63,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,892
 islandlk | 3,906
 dailyftlk | 4,450
 dailymirrorlk | 4,733
-adalk | 6,111
+adalk | 6,114
 adaderanalk | 7,820
 tamilmirrorlk | 9,181
 virakesarilk | 10,684
@@ -26,11 +26,59 @@ adaderanasinhalalk | 11,034
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.9%) of 63,956 articles have been extended.
+61,971 (96.9%) of 63,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-06 (Monday)
+
+### සහල් මාෆියාවේ නායකයා ඇමති වසන්ත සමරසිංහයි
+
+*2025-01-06 18:57:23* · [`adalk`](https://www.ada.lk/breaking_news/සහල්-මාෆියාවේ-නායකයා-ඇමති-වසන්ත-සමරසිංහයි/11-414046) · `si`
+
+වෙළෙඳ අමාත්‍ය වසන්ත සමරසිංහ මහතා සහල් මාෆියාවේ නායකයා යැයි පිවිතුරු හෙළ උරුමය නායක උදය ගම්මන්පිල මහතා අද (06දා) පැවසීය. එම පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය. එහිදී වැඩිදුරටත් අදහස් දක්වමින් ඔහු පවසා සිටියේ,
+
+“ජනාධිපතිතුමා මේසයට ගහලා නාඩු කිලෝවක උපරිම මිල රුපියල් 230ට නියම කළත් ඊයේ වෙළඳපොළේ නාඩු කිලෝවක් අපි ගත්තේ රුපියල් 240ට. පසුගිය කන්නය කපන විට නාඩු කිලෝවක මිල රු.170යි. එතකොට වී මිලදී ගත්තෙත් රුපියල් පහකවත් ලාභයක් තබා ගෙන විකුණන්නයි. එහෙම බලන විට රු. 230 විකිණෙන විට මෝල් හිමියන්ට රු.65ක ලාභයක් තිබෙනවා. එහෙම නම් ආණ්ඩුව සහල් ආනයනයෙන් බලාපොරොත්තු විය යුත්තේ සහල් මිල රු.230 සිට 170දක්වා පහත හෙලීමයි.
+
+අතීතයේ දී ආණ්ඩු සහල් ආනයනය කරලා අඩු මිලට වෙළඳපොළට හඳුන්වා දීමෙන් තමයි මෝල්හිමියන් මට්ටු කරලා සහල් මිල පහත දැම්මේ. නමුත් මේ ආණ්ඩුව මොකද කළේ? ආනයන කරන සහල් මත රු. 65ක බද්දක් දාලා එම සහල් මිල දේශීය සහල් මිලට සමාන කළා. ඒකෙන් මේ අසාධාරණ සහල් මිල දිගින් දිගටම පවත්වා ගෙන යෑමට ආණ්ඩුවත් දායක වුණා.
+
+...
+
+[Data](articles/76f458ad.json)
+
+---
+
+### ජෝෂප් ස්ටාලින් ඇතුළු 34ක් නිදොස් කොට නිදහස් කරයි
+
+*2025-01-06 17:58:01* · [`adalk`](https://www.ada.lk/breaking_news/ජෝෂප්-ස්ටාලින්-ඇතුළු-34ක්-නිදොස්-කොට-නිදහස්-කරයි/11-414040) · `si`
+
+කොතලාවල ආරක්ෂක විශ්ව විද්‍යාල පනත හකුලා ගන්නා ලෙස බලකරමින් පාර්ලිමේන්තු වටරවුමේ පැවති උද්ඝෝෂණයේදී අයුතු ජනරාසියක සාමාජිකයින් වී ,නිරෝධායන නීති උල්ලංඝනය කළ බවට චෝදනා ලැබ සිටි ලංකා ගුරු සංගමය ලේකම් ජෝෂප් ස්ටාලින්, රැකියා විරහිත උපාධිධාරී සංගමයේ තැන්නේ ඤාණානන්ද හිමි, අන්තර් විශ්වවිද්‍යාල  බල මණ්ඩලයේ කැඳවුම්කරු ඇතුළු 34 දෙනෙකු කොළඹ මහේස්ත්‍රාත් මංජුල රත්නායක මහතා සියළු චෝදනාවලින් අද (06) නිදහස් කළේය.
+
+වසර 04කට පෙර සිදුවු මෙම සිද්ධියට අදාළ සාක්ෂි විභාග කිරීමට හෝ නඩුව පවත්වාගෙන යන්නේද? යන්න පිළිබඳව වැලිකඩ පොලිසිය නිසි ස්ථාවරයක් ඉදිරිපත්  නොකිරීම යන්න පිළිබඳ සළකා බැලීමෙන් අනතුරුව සැකකරුවනන් සිය`ථදෙනා චෝදනාවලින් නිදහස් කිරීමට මහෙස්ත්‍රාත්වරයා තීරණය කළේය.
+
+...
+
+[Data](articles/9685f2d9.json)
+
+---
+
+### පාර්ලිමේන්තු මංගල සැසියේ තේ පැන් සංග්‍රහයේ වියදම ගැන පැහැදිලි කිරීමක්
+
+*2025-01-06 17:53:00* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-මංගල-සැසියේ-තේ-පැන්-සංග්‍රහයේ-වියදම-ගැන-පැහැදිලි-කිරීමක්/11-414039) · `si`
+
+පාර්ලිමේන්තු වැය ශිර්ෂ යටතේ චාරිත්‍රානුකූලව පවත්වන උත්සව කටයුතු සහ තේ පැන් සංග්‍රහ කටයුතු වෙනුවෙන් නවවැනි පාර්ලිමේන්තුවේ මංගල සැසියේදී රුපියල් 287,340/= ක මුදලක්ද දසවැනි පාර්ලිමේන්තුවේ මංගල සැසිවාරයෙන් පසුව ලබාදුන් තේ පැන් සංග්‍රහය වෙනුවෙන්  රුපියල් 339,628.55ක මුදලක් වැය වී ඇති බව සඳහන් කරමින් මාධ්‍ය පළකළ වාර්තා ගැන පාර්ලිමේන්තුවෙන් පැහැදිලි කිරීමක් සිදුකර තිබේ.
+
+මේ පිළිබඳව පාර්ලිමේන්තුව නිකුත් කළ නිවේදනයේ උපුටා ගැනීම පහත පරිදි වෙයි
+
+‘නවවැනි පාර්ලිමේන්තුවේ මංගල සැසිවාරය 2020.08.20 වැනි දිනද දසවැනි පාර්ලිමේන්තුවේ මංගල සැසිවාරය 2024.11.21 යන දිනයන්හිදී පවත්වා ඇත.
+
+ඒ අනුව නවවැනි සහ දසවැනි පාර්ලිමේන්තුව වල  මංගල සැසිවාරයන්  වෙනුවෙන් පවත්වනු ලැබූ තේ පැන් සංග්‍රහ කටයුතු වෙනුවෙන් දරන ලද වියදම අතර වෙනසට පහත කරුණු හේතුපාදක වී ඇති බව දන්වනු කැමැත්තෙමි .
+
+...
+
+[Data](articles/aad9f6bb.json)
+
+---
 
 ### ”இலங்கை மக்களின் பொது பாதுகாப்பு பெரும் ஆபத்தில் உள்ளது”
 
@@ -1759,55 +1807,5 @@ During the 1988/89 regime, the Janatha Vimukthi Peramuna (JVP) answered to those
 ...
 
 [Data](articles/3e5d0a14.json)
-
----
-
-### Justice Preethi Padman Surasena appointed to JSC
-
-*2025-01-06 03:40:14* · [`dailyftlk`](https://www.ft.lk/news/Justice-Preethi-Padman-Surasena-appointed-to-JSC/56-771448) · `en`
-
-Supreme Court Justice Preethi Padman Surasena has been appointed as a member of the Judicial Service Commission (JSC).
-
-The appointment was made by President Anura Kumara Dissanayake with the approval of the Constitutional Council.
-
-Justice Surasena, one of the senior-most judges of the Supreme Court, fills the vacancy created by the retirement of former Chief Justice Jayantha Jayasuriya. The JSC plays a crucial role in ensuring the independence and accountability of the judiciary in Sri Lanka.
-
-This development follows the recent appointment of Chief Justice Murdu Fernando as the Chairman of the JSC, succeeding retired Chief Justice Jayasuriya.
-
-◼️
-
-[Data](articles/5941a4a4.json)
-
----
-
-### CPC Chairperson seeks Rs. 500 m from SJB TU Leader
-
-*2025-01-06 03:39:34* · [`dailyftlk`](https://www.ft.lk/news/CPC-Chairperson-seeks-Rs-500-m-from-SJB-TU-Leader/56-771447) · `en`
-
-Ceylon Petroleum Corporation (CPC) Chairperson D.J.A.S. Rajakaruna has sent a Letter of Demand (LoD) seeking Rs. 500 million in compensation from Ananda Palitha, the Convenor of the Samagi Jana Balawegaya (SJB) aligned United Trade Union Alliance (UTUA), for what he has claimed to be deliberate and false propaganda against him.
-
-The LoD, sent by Counsel Sampath Yalewatte on 24 December 2024, has accused Palitha of making malicious and defamatory statements on 13 December 2024 against Rajakaruna. These statements, according to the letter, were broadcast widely across mainstream electronic media, print newspapers, television news, and social media platforms, resulting in reputational damage to the CPC Chairperson.
-
-...
-
-[Data](articles/339425ea.json)
-
----
-
-### இறக்குமதி செய்யப்பட்டிருக்கும் சிவப்பு பச்சை அரிசி மிருகங்கள் கூட ஆகாரத்துக்கு எடுத்துக்கொள்ள முடியாத நிலை - அசேல சம்பத் தெரிவிப்பு
-
-*2025-01-06 03:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/203068) · `ta`
-
-நாட்டில் சிவப்பு பச்சை அரிசிக்கு தட்டுப்பாடு நிவலி வருகிறது. அதேநேரம் இறக்குமதி செய்திருக்கும் சிவப்பு பச்சை அரிசி மக்களுக்கு பயன்படுத்த முடியாத நிலையிலேயே இருக்கிறது. வர்த்தக அமைச்சர் இந்த அரிசி சமைத்து சாப்பிட்டு காட்டட்டும் என தேசிய நுகர்வோர் முன்னணியின் ஏற்பாட்டாளர் அசேல சம்பத் தெரிவித்தார்.
-
-நாட்டில் சந்தையில் மரக்கறி விலை பாரியளவில் அதிகரித்துள்ளது. ஆனால் விவசாயிகளிடமிருந்து குறைந்த விலைக்கே மரக்கறி வகைகள் பெற்றுக்கொள்ளப்படுகின்றன. அதேபோன்று வர்த்தக மத்திய நிலையங்களில் விற்பனை செய்யப்படும் மரக்கறி விலையைவிட அதிக விலைக்கே வெளிப்பிரதேசங்களில் விற்பனை செய்யப்படுகிறது.
-
-பல வருடங்களாக இந்த மாபியா இடம்பெற்று வருகிறது. நுகர்வோரை உரிஞ்சும் மாபியாவை கட்டுப்படுத்த அரசாங்கத்துக்கு முடியாமல் போயிருக்கிறது.
-
-அதேபோன்று சிவப்பு பச்சை அரிசி இன்று சந்தையில் இல்லை. அதேநேரம் சந்தையில் இருக்கும் இறக்குமதி செய்திருக்கும் சிவப்பு பச்சை அரிசி மிருகங்களுக்கும் சாப்பிட முடியாத நிலையிலேயே இருக்கிறது. வர்த்தக அமைச்சர் முடியுமானால் இந்த அரிசியை சமைத்து சாப்பிட்டு காட்டட்டும்.
-
-...
-
-[Data](articles/cacb69ec.json)
 
 ---

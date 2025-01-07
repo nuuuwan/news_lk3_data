@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 02:13:55**
+As of **2025-01-08 02:27:56**
 
 ## Newspaper Stats
 
@@ -836,17 +836,13 @@ At the Cabinet meeting held on Monday, President Dissanayake’s ruling National
 
 *2025-01-07 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104807/stray-dog-first-to-cross-border-as-romania-bulgaria-join-schengen-zone) · `en`
 
+NEW: Stray dog accidentally becomes the first to cross the Romania-Hungary border after Romania became a full member of the European Union’s Schengen area.The dog perfectly timed the enterance as the checkpoint barrier lifted up.The animal received a warm welcome as border… pic.twitter.com/hKl4jv39Ii— Collin Rugg (@CollinRugg) January 5, 2025
+
 When Bulgaria and Romania finally joined the Schengen Area, marking the end of border checks, a historic moment unfolded at the border. Officials gathered to celebrate the milestone, commemorating the first time crossings could happen freely between the two nations.
 
 But it wasn’t a dignitary or a vehicle that made the inaugural crossing—it was an unexpected traveller.
 
 A stray dog, seemingly unaware of the fanfare, trotted across the border as the checkpoint lifted, becoming the first to step into this new era of open movement.
-
-The moment, captured in a now-viral video, showed the dog casually making its way across while the assembled officials broke into applause and cheers.
-
-One user wrote, “I need this welcome every time I cross a border.” Another user quipped, “He shall be named King of Romania.”
-
-A third user commented, “The good boy knew what he was doing.” A fourth person added, “Most positive thing I’ve seen today.”
 
 ...
 

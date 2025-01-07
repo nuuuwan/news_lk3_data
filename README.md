@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 17:28:01**
+As of **2025-01-07 17:45:26**
 
 ## Newspaper Stats
 
-*Scraped **64,141** Articles*
+*Scraped **64,142** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,904
 islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
-adalk | 6,133
+adalk | 6,134
 adaderanalk | 7,840
 tamilmirrorlk | 9,211
 virakesarilk | 10,701
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.6%) of 64,141 articles have been extended.
+61,971 (96.6%) of 64,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/441eb063.json)
+
+---
+
+### ජපානයෙන් ලංකාවට සුබ ආරංචියක්
+
+*2025-01-07 16:31:50* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-සුබ-ආරංචියක්/11-414070) · `si`
+
+ශ්‍රී ලංකාවට ලබා දෙන මූල්‍ය සහ තාක්ෂණික සහාය අඛණ්ඩව ලබා දෙන බව ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ (JICA)  උප සභාපති හාරා ෂෝහෙයි (HARA Shohei) මහතා පවසයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ (JICA) ජ්‍යෙෂ්ඨ උප සභාපති හාරා ෂෝහෙයි මහතා අතර ජනාධිපති කාර්යාලයේ අද (07) පැවති හමුවේදී මේ බව සඳහන් කෙරිණි.
+
+ජපාන ආධාර යටතේ ක්‍රියාත්මක කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ පර්යන්තයේ  සංවර්ධන කටයුතු පිළිබඳව ද මෙහිදී සාකච්ඡා කෙරිණි. ජයිකා ආධාර යටතේ  මෙරට ක්‍රියාත්මක සියලු ව්‍යාපෘති කඩිනමින් අවසන් කිරීමට සැලසුම් කර ඇති බව ද  සඳහන් විය.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය ශ්‍රී ලංකාවට ලබා දුන් සහාය මෙන්ම ඉදිරියේදී ශ්‍රී ලංකාවට අවශ්‍ය මූල්‍ය ආධාර ලබාදීමට  ජයිකා සංවිධානය බලාපොරොත්තු වන බව හාරා ෂෝහෙයි මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+මෙරට ක්‍රියාත්මක ප්‍රමුඛ ව්‍යාපෘතියක් වන  "Clean Sri Lanka"  වැඩසටහන පිළිබඳව සිය ප්‍රසාදය පළ කළ උප සභාපතිවරයා  එම ව්‍යාපෘතිය සඳහා අවශ්‍ය මූල්‍ය හා තාක්ෂණික සහාය ලබාදීමට සූදානම් බව පැවසීය.
+
+...
+
+[Data](articles/23212fad.json)
 
 ---
 
@@ -1731,19 +1751,5 @@ A recent flare up by the university students which appeared in the media is caus
 ...
 
 [Data](articles/aa989967.json)
-
----
-
-### Forcible repatriation of Rohingiyans to persecuting State will violate customary international law
-
-*2025-01-06 22:51:56* · [`dailyftlk`](https://www.ft.lk/columns/Forcible-repatriation-of-Rohingiyans-to-persecuting-State-will-violate-customary-international-law/4-771476) · `en`
-
-HRCSL must be allowed by the authorities to intervene without any  further delay
-
-The Sri Lankan Government must not violate international laws by seeking to forcibly ‘refoul’ or repatriate the 103 Rohingyans back to Myanmar where the military junta stands accused by the international community of continuously persecuting and unleashing targeted violence on the Rohingyan minority, who have been forced thereby to leave Myanmar, across borders and high seas risking their lives. Any such irresponsible move will be akin to throwing the Rohingyans back into the lion’s den!
-
-...
-
-[Data](articles/11f0fea1.json)
 
 ---

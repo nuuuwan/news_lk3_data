@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 14:16:42**
+As of **2025-01-07 14:29:00**
 
 ## Newspaper Stats
 
-*Scraped **64,126** Articles*
+*Scraped **64,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,904
 islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
-adalk | 6,127
+adalk | 6,128
 adaderanalk | 7,840
 tamilmirrorlk | 9,202
 virakesarilk | 10,701
@@ -26,11 +26,23 @@ adaderanasinhalalk | 11,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.6%) of 64,126 articles have been extended.
+61,971 (96.6%) of 64,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### චීනයේ භූ කම්පනයකින් 53ක් මරුට
+
+*2025-01-07 13:17:02* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-භූ-කම්පනයකින්-53ක්-මරුට/11-414059) · `si`
+
+චීනයේ අද(07දා) අලුයහ හටගත් රික්ටර් මාපක 7.1ක භූ කම්පනයක් හේතුවෙන් පුද්ගලයන් 53 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/58049e12.json)
+
+---
 
 ### புதிய இராஜதந்திரிகள் ஜவர் நியமனம்
 
@@ -1751,23 +1763,5 @@ As of this morning, the distribution of the compromised question paper was halte
 ◼️
 
 [Data](articles/9f9a201d.json)
-
----
-
-### උතුරු මැද රජයේ පාසල්වල 11 වන ශ්‍රේණියේ විභාග කටයුතු අත්හිටුවයි
-
-*2025-01-06 19:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205098) · `si`
-
-උතුරු මැද පළාතේ සියලුම රජයේ පාසල්වල 11 වන ශ්‍රේණියේ විභාග කටයුතු යළි දැනුම් දෙනතුරු අවලංගු කර තිබේ.
-
-ඒ එම වාර විභාගයට අදාළ සිංහල සාහිත්‍ය ප්‍රශ්න පත්‍රය සමාජ මාධ්‍ය ඔස්සේ පිටවී ඇතැයි තහවුරු වීමත් සමගය.
-
-ප්‍රශ්න පත්‍රය පිටවීමත් සමග උතුරු මැද පළාතේ පාසල්වල අද (06) දින පැවැත්වීමට තිබූ අවසන් වාර විභාගය කල්දැමීමට කටයුතු කළ බව උතුරු මැද පළාත් අධ්‍යාපන සහ ප්‍රධාන අමාත්‍යාංශ ලේකම් සිරිමෙවන් ධර්මසේන මහතා පැවසීය මින් පෙර පැවසීය.
-
-ඒ අනුව අද උදෑසන වනවිට කලාප 8ක කොට්ඨාස 30කට අයත් පාසල් 600කට අධික ප්‍රමාණයක අදාළ ප්‍රශ්න පත්‍රය බෙදාහැරීම නවත්වා තිබුණි.
-
-◼️
-
-[Data](articles/a87436b7.json)
 
 ---

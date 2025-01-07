@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 07:31:44**
+As of **2025-01-07 08:06:46**
 
 ## Newspaper Stats
 
-*Scraped **64,068** Articles*
+*Scraped **64,070** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
-bbccomsinhala | 671
+bbccomsinhala | 672
 economynextcom | 3,899
 islandlk | 3,918
 dailyftlk | 4,470
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 6,120
 adaderanalk | 7,838
 tamilmirrorlk | 9,186
-virakesarilk | 10,700
+virakesarilk | 10,701
 adaderanasinhalalk | 11,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,068 articles have been extended.
+61,971 (96.7%) of 64,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -341,6 +341,28 @@ Soft changes to the Sri Lankan public sector would not work. The typical approac
 ...
 
 [Data](articles/24d29f0f.json)
+
+---
+
+### අනුරගේ 'Clean Sri  Lanka' සහ ලී ක්වාන් යූගේ 'Keep Singapore Clean' අතර සමානකම් තිබේ ද?
+
+*2025-01-07 01:43:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c785p38rj4jo) · `si`
+
+අනුරගේ 'Clean Sri  Lanka' සහ ලී ක්වාන් යූගේ 'Keep Singapore Clean' අතර සමානකම් තිබේ ද?
+
+වර්තමාන ජනාධිපති අනුර කුමාර දිසානායක ජනාධිපති ධූරයේ වැඩ භාරගෙන දින 100ක් ගත වීමත් සමග මෙම වසරේ ජනවාරි 01 වනදා ජනාධිපති මූලිකත්වයෙන් ආරම්භ වූ Clean  Sri Lanka ව්‍යාපෘතිය සම්බන්ධයෙන් මේ වන විට බොහෝ දෙනෙකුගේ අවධානය යොමුව තිබේ.
+
+ජනපති අනුරගේ ප්‍රධානත්වයෙන් ඇරඹුණු Clean Sri Lanka වැඩසටහන ගැන ඔබ දැනුවත් ද?
+
+'පොහොසත් රටක් ලස්සන ජීවිතයක්' යන තේමාව යටතේ ක්‍රියාත්මක කෙරෙන රජයේ වැඩපිළිවෙළ අනුව රටේ පරිසරය පිරිසිදු කිරීමට අමතරව ලොව දියුණු රටවල ජනතාව භුක්ති විඳින ආකාරයේ ඉහළ සමාජ ආර්ථික තත්ත්වයක් සහ නිදහසක් උරුම කර දීමේ අරමුණින් ක්‍රියාත්මක වන මෙම වැඩපිළිවෙල, වරක් සිංගප්පුරුවේ හිටපු අගමැතිවරයෙකු වන ලී ක්වාන් යූ විසින් ක්‍රියාත්මක කරනු ලැබූ 'Keep Singapore Clean' වැඩසටහනේ අනුකරණයක්දැයි මේ වන විට අදහස් මතුව තිබේ.
+
+ව්‍යාපෘති දෙකම අධ්‍යනය කිරීමේදී ඒවායේ යම් යම් සමානකම් පවතින බව බීබීසී සිංහල වෙත නිරීක්ෂණය විය.
+
+'Keep Singapore Clean' ව්‍යාපෘතිය නිදහස් ජාතියක් ලෙස සිංගප්පූරුවේ ආරම්භ වූ පළමු ජාතික ව්‍යාපාරයයි.
+
+...
+
+[Data](articles/b2a23323.json)
 
 ---
 
@@ -913,6 +935,18 @@ As of this morning, the distribution of the compromised question paper was halte
 ...
 
 [Data](articles/0f7144a6.json)
+
+---
+
+### சிறிதரன், செல்வத்தை சந்திக்கிறார் கஜேந்திரகுமார் : தமிழ்த்தேசியக்கட்சி உறுப்பினர்களுடனான சந்திப்புக்குத் திகதி குறிக்கவும் உத்தேசம்
+
+*2025-01-06 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203160) · `ta`
+
+புதிய அரசியலமைப்பு உருவாக்க விடயத்தில் தமிழ்த்தேசியக்கட்சிகளை ஒன்றிணைக்கும் நோக்கில் முன்னெடுக்கப்பட்டுவரும் முயற்சிகளின் அடுத்தகட்டமாக செவ்வாய்க்கிழமை (7) பாராளுமன்றத்தில் சிவஞானம் சிறிதரன் மற்றும் செல்வம் அடைக்கலநாதன் ஆகியோரைச் சந்தித்து, அடுத்தகட்டப் பேச்சுவார்த்தைக்கான திகதியை நிர்ணயிப்பதற்கு தமிழ்த்தேசிய மக்கள் முன்னணியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம் உத்தேசித்திருக்கிறார்.
+
+...
+
+[Data](articles/a7e36f0b.json)
 
 ---
 
@@ -1733,43 +1767,5 @@ Police had arrested 34 individuals including Stalin during a protest staged by t
 ◼️
 
 [Data](articles/6fe4842e.json)
-
----
-
-### Sri Lanka stocks close down amid profit taking, bargain hunting seen
-
-*2025-01-06 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amid-profit-taking-bargain-hunting-seen-198259/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader ASPI closed down 1.06 percent, or 170.82 points, at 15878.60; while the more liquid S&P SL20 Index closed down 1.10 percent, or 53.70 points, at 4,806.63.
-
-The ASPI and S&P SL20 climbed up in morning trade before dropping.
-
-“Market was very volatile today; it opened up, then there was a massive decline, before coming back later.
-
-“There was profit taking in all counters across the board,” they said “but buying interest persists, and bargain hunters were coming in.”
-
-The market has been steadily rising over the last month and analysts were expecting a correction.
-
-“Most investors are booking profits at the moment, and selling pressure is likely to slow down as the week progresses.”
-
-...
-
-[Data](articles/028c5086.json)
-
----
-
-### බදුල්ලේ සිට මහනුවර බලා ධාවන වූ දුම්රියක් පීලී පනියි
-
-*2025-01-06 15:37:25* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ලේ-සිට-මහනුවර-බලා-ධාවන-වූ-දුම්රියක්-පීලී-පනියි/11-414035) · `si`
-
-බදුල්ල සිට මහනුවර බලා ධාවනය වූ මිශ්‍ර දුම්රිය පීලි පැනීමකට ලක්ව තිබේ.
-
-දෙමෝදර ප්‍රදේශයේදී මෙම දුම්රිය පීලිපැනීමකට ලක්ව ඇති බව දුම්රිය පාලක මැදිරිය සඳහන් කළේය.
-
-◼️
-
-[Data](articles/5c14be20.json)
 
 ---

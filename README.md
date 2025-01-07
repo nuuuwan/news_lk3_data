@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 19:06:05**
+As of **2025-01-07 19:24:46**
 
 ## Newspaper Stats
 
-*Scraped **64,194** Articles*
+*Scraped **64,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ dailymirrorlk | 4,733
 adalk | 6,137
 adaderanalk | 7,865
 tamilmirrorlk | 9,212
-virakesarilk | 10,714
-adaderanasinhalalk | 11,089
+virakesarilk | 10,716
+adaderanasinhalalk | 11,090
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.5%) of 64,194 articles have been extended.
+61,971 (96.5%) of 64,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### மீளாய்வு குழுவின் அறிக்கைக்கு அமையவே அதானி குறித்து அடுத்த கட்ட தீர்மானம் - அமைச்சரவை பேச்சாளர்
+
+*2025-01-07 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203261) · `ta`
+
+இந்தியாவின் அதானி நிறுவனத்துடனான அபிவிருத்தி திட்டங்கள் குறித்து முன்னெடுக்கப்பட்ட ஆய்வினை மீளாய்வு செய்வதற்காக நியமிக்கப்பட்ட குழுவின் அறிக்கைக்கு அமையவே இது குறித்து அடுத்த கட்ட தீர்மானங்கள் எடுக்கப்படும் என்று அமைச்சரவை பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+செவ்வாய்கிழமை (7) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் அவர் இதனைத் தெரிவித்தார். இலங்கையில் அதானி குழுமத்தின் வலுசக்தி திட்டங்கள் குறித்த ஆய்வை மீளாய்வு செய்வதற்கு குழுவொன்றை நியமிக்க மின்சக்தி மற்றும் வலுசக்தி அமைச்சு தீர்மானித்துள்ளது. இது தொடர்பான முன்மொழிவு அமைச்சரவையில் சமர்ப்பிக்கப்பட்டுள்ளது.
+
+திட்டங்களுக்கான மதிப்பிடப்பட்ட செலவுகள் உள்ளிட்ட காரணிகளை இந்தக் குழு மதிப்பாய்வு செய்யும் என்று அமைச்சு தெரிவித்துள்ளது. முன்னதாக, இலங்கையில் அதானி குழுமத்தால் திட்டமிடப்பட்ட காற்றாலை மின் நிலைய திட்டங்கள் குறித்து மின் மற்றும் வலுசக்தி அமைச்சால் நியமிக்கப்பட்ட குழு ஆய்வு செய்தது.
+
+...
+
+[Data](articles/e7e858aa.json)
+
+---
+
+### மாதத்தின் அதி சிறந்த வீரருக்கான ஐசிசி விருதுக்கு பும்ரா உட்பட மூவர் பரிந்துரை
+
+*2025-01-07 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/203258) · `ta`
+
+2024ஆம் ஆண்டு டிசம்பர் மாதத்திற்கான அதி சிறந்த வீரருக்கான ஐசிசி விருதுக்கு மூன்று கண்டங்களைச் சேர்ந்த மூன்று வேகப்பந்துவிச்சாளர்களின் பெயர்கள் பரிந்துரைக்கப்பட்டுள்ளது.
+
+உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டியில் விளையாடவுள்ள அவுஸ்திரேலிய அணித் தலைவர் பெட் கமின்ஸ், இந்தியாவின் உதவி அணித் தலைவர் ஜஸ்ப்ரிட் பும்ரா, தென் ஆபிரிக்காவின் டேன் பெட்டர்சன் ஆகிய மூவரின் பெயர்களே மாதத்தின் அதிசிற்த வீரருக்கான ஐசிசி விருதுக்கு பரிந்துரைக்கப்பட்டுள்ளது.
+
+இந்தியாவுக்கு எதிராக நடைபெற்ற போர்டர் - காவஸ்கர் டெஸ்ட் தொடரில் துடுப்பாட்டம், பந்துவீச்சு ஆகிய இரண்டு துறைகளிலும் பெட் கமின்ஸ் அதிசிறந்த ஆற்றல்களை வெளிப்படுத்தியிருந்தார்.
+
+இந்தியாவுக்கு எதிரான 5 போட்டிகள் கொண்ட டெஸ்ட் தொடரில் கடந்த மாதம் நடைபெற்ற 3 டெஸ்ட் போட்டிகளில் ஒரு ஐந்து விக்கட் குவியல் உட்பட 17 விக்கெட்களை பெட் கமின்ஸ் மொத்தமாக வீழ்த்தியிருந்தார். அவரது பந்துவீச்சு சராசரி 17.64 ஆகும். அடிலெய்ட் டெஸ்ட் போட்டியில் 57 ஓட்டங்களுக்கு 5 விக்கெட்கள் என்ற பந்துவீச்சுப் பெறுதி அவரது அதிசிறந்த பந்துவீச்சுப் பெறுதியாக இருந்தது.
+
+...
+
+[Data](articles/e607eeef.json)
+
+---
+
+### ජනවාරි සහ පෙබරවාරි මාස සඳහා විශේෂ දුම්රිය ධාවනයක්
+
+*2025-01-07 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205139) · `si`
+
+මෙම වසරේ (2025) ජනවාරි සහ පෙබරවාරි මාස සඳහා විශේෂ දුම්රිය ධාවනය කිරීමට ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව සැලසුම් කර තිබේ.
+
+තෛපොංගල් උත්සවය, නිදහස් උත්සවය සහ සතිඅන්ත නිවාඩු වෙනුවෙන් කොළඹ කොටුව සිට බදුල්ල දක්වා ද කොළඹ කොටුව සිට කන්කසන්තුරේ දක්වා ද මෙම විශේෂ දුම්රිය ධාවනය සිදුකිරීමට නියමිතය.
+
+ධාවනය කරනු ලබන දින -  ජනවාරි 10, 12, 14, 17, 19, 24, 26, 31 සහ පෙබරවාරි 02, 04 යන දිනයන්.
+
+ධාවනය කරනු ලබන දින - ජනවාරි 10, 12, 14, 17, 19, 24, 26, 31 සහ පෙබරවාරි 02, 04 යන දිනයන්.
+
+3) විශේෂ නගරාන්තර දුම්රිය (4021 4022) කොළඹ කොටුව සහ කන්කසන්තුරේ අතර
+
+ධාවනය කරනු ලබන දින - ජනවාරි10, 13, 14, 15, 17, 20, 24, 27,31 සහ පෙබරවාරි 03, 04 යන දිනයන්.
+
+◼️
+
+[Data](articles/92fb5fad.json)
+
+---
 
 ### அரிசி பிரச்சினைக்கான தீர்வினையே நாமும் தேடிக் கொண்டிருக்கின்றோம் - அரசாங்கம்
 
@@ -286,13 +342,17 @@ Efforts are also underway to release compensation payments in districts where th
 
 *2025-01-07 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104807/stray-dog-first-to-cross-border-as-romania-bulgaria-join-schengen-zone) · `en`
 
-NEW: Stray dog accidentally becomes the first to cross the Romania-Hungary border after Romania became a full member of the European Union’s Schengen area.The dog perfectly timed the enterance as the checkpoint barrier lifted up.The animal received a warm welcome as border… pic.twitter.com/hKl4jv39Ii— Collin Rugg (@CollinRugg) January 5, 2025
-
 When Bulgaria and Romania finally joined the Schengen Area, marking the end of border checks, a historic moment unfolded at the border. Officials gathered to celebrate the milestone, commemorating the first time crossings could happen freely between the two nations.
 
 But it wasn’t a dignitary or a vehicle that made the inaugural crossing—it was an unexpected traveller.
 
 A stray dog, seemingly unaware of the fanfare, trotted across the border as the checkpoint lifted, becoming the first to step into this new era of open movement.
+
+The moment, captured in a now-viral video, showed the dog casually making its way across while the assembled officials broke into applause and cheers.
+
+One user wrote, “I need this welcome every time I cross a border.” Another user quipped, “He shall be named King of Romania.”
+
+A third user commented, “The good boy knew what he was doing.” A fourth person added, “Most positive thing I’ve seen today.”
 
 ...
 
@@ -1777,59 +1837,5 @@ A bond maturing on 15.05.2030 was quoted at 11.00/10 percent, also unchanged. (C
 ◼️
 
 [Data](articles/38de850f.json)
-
----
-
-### நாட்டின் சில பகுதிகளில் இன்று மழை
-
-*2025-01-07 08:24:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்று-மழை/175-349891) · `ta`
-
-நாட்டின் சில பகுதிகளில் இன்று மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-இதன்படி வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் மழை பெய்யக்கூடும்.
-
-அத்துடன் தென் மற்றும் சபரகமுவ மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய சாத்தியம் காணப்படுவதாக அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/d9f41fd8.json)
-
----
-
-### Sri Lanka can build reserves, pay debt, with vehicle imports of $1.5bn: CB Governor
-
-*2025-01-07 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-build-reserves-pay-debt-with-vehicle-imports-of-1-5bn-cb-governor-198351/) · `en`
-
-ECONOMYNEXT – Sri Lanka can build reserves and repay debt even if vehicle imports go up to 1.5 billion US dollars a year, Central Bank Governor Nandalal Weerasinghe has said.
-
-In 2024 the central bank has projected that relaxing commercial vehicle imports would result in forex needs of about 500 million dollars and private vehicle imports may require another billion US dollars a year.
-
-“Even if vehicle imports cost 1.5 billion US dollars, we can maintain reserves, and make the required payments after completing debt restructuring, and also increase government revenues and balance the requirements,” Governor Weerasinghe told Derana television in a talk show.
-
-“There could be a small deficit in the current account deficit.”
-
-In the past the current account deficit had been much higher, he said
-
-...
-
-[Data](articles/f5f726ad.json)
-
----
-
-### கல்கிஸ்சையில் துப்பாக்கிச் சூடு: ஒருவர் பலி
-
-*2025-01-07 08:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்கிஸ்சையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-349890) · `ta`
-
-கல்கிஸ்சை – வட்டரப்பல பகுதியில் இன்று (07) அதிகாலை நடத்தப்பட்ட துப்பாக்கிச் சூட்டில் ஒருவர் பலியாகியுள்ளார்.
-
-சம்பவத்தில் காயமடைந்த ஒருவர் கொழும்பு தெற்கு போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸ்  ஊடகப் பேச்சாளர் சிரேஷ்ட அத்தியட்சகர் புத்திக மனதுங்க தெரிவித்துள்ளார்.
-
-36 வயதுடைய கல்கிஸ்சை வட்டரப்பல பகுதியைச் சேர்ந்த ஒருவர் இந்த சம்பவத்தில் பலியாகியுள்ளார் என அவர் குறிப்பிட்டுள்ளார்.
-
-மோட்டார் சைக்கிளில் வந்த இருவர் துப்பாக்கிச் சூட்டை நடத்தி விட்டுத் தப்பிச் சென்றுள்ளனர் என பொலிஸ் ஊடகப் பேச்சாளர் தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/fccc63ea.json)
 
 ---

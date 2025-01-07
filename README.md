@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 17:01:00**
+As of **2025-01-07 17:13:13**
 
 ## Newspaper Stats
 
-*Scraped **64,139** Articles*
+*Scraped **64,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,471
 dailymirrorlk | 4,733
 adalk | 6,133
 adaderanalk | 7,840
-tamilmirrorlk | 9,209
+tamilmirrorlk | 9,210
 virakesarilk | 10,701
 adaderanasinhalalk | 11,079
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.6%) of 64,139 articles have been extended.
+61,971 (96.6%) of 64,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### ஒரே சீனா கொள்கையைத் தொடர அனுமதி
+
+*2025-01-07 16:46:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரே-சீனா-கொள்கையைத்-தொடர-அனுமதி/175-349930) · `ta`
+
+ஜனாதிபதி அனுரகுமார திஸாநாயக்கவின் சீன விஜயத்தை முன்னிட்டு, இலங்கை ஒரே சீனா கொள்கையை தொடர்ந்து கடைப்பிடிக்க வேண்டும் என வெளிவிவகார மற்றும் சுற்றுலா அமைச்சர் விஜித ஹேரத் முன்வைத்த யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+தைவான் தனது பிரதேசத்தில் பிரிக்க முடியாத பகுதியாகக் கருதப்படுவதைக் கொண்டு, சீனா முழுவதையும் பிரதிநிதித்துவப்படுத்தும் ஒரே சட்டப்பூர்வ அரசாங்கமாக சீன மக்கள் குடியரசின் அரசாங்கத்தை அங்கீகரித்து, இந்தக் கொள்கைக்கான தனது வலுவான உறுதிப்பாட்டை இலங்கை மீண்டும் உறுதிப்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/441eb063.json)
+
+---
 
 ### பார்வை பாதித்த  17 பேருக்கு  நஷ்டஈடு
 
@@ -1739,23 +1753,5 @@ The Sri Lankan Government must not violate international laws by seeking to forc
 ◼️
 
 [Data](articles/e174bc6e.json)
-
----
-
-### Canada’s Prime Minister Justin Trudeau resigns
-
-*2025-01-06 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/104774/canadas-prime-minister-justin-trudeau-resigns) · `en`
-
-Under growing pressure from his own party, Canadian Prime Minister Justin Trudeau has announced he will step down and end his nine-year stretch as leader.
-
-Trudeau said he would stay on in office until his Liberal Party can choose a new leader, and that parliament would be prorogued - or suspended - until 24 March.
-
-“This country deserves a real choice in the next election and it has become clear to me that if I’m having to fight internal battles, I cannot be the best option in that election,” he said during a press conference Monday.
-
-Trudeau’s personal unpopularity with Canadians had become an increasing drag on his party’s fortunes in advance of federal elections later this year.
-
-◼️
-
-[Data](articles/5f635385.json)
 
 ---

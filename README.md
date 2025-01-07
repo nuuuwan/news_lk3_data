@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 10:15:26**
+As of **2025-01-07 10:28:45**
 
 ## Newspaper Stats
 
-*Scraped **64,089** Articles*
+*Scraped **64,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 672
-economynextcom | 3,900
+economynextcom | 3,903
 islandlk | 3,918
 dailyftlk | 4,470
 dailymirrorlk | 4,733
 adalk | 6,122
 adaderanalk | 7,840
-tamilmirrorlk | 9,192
+tamilmirrorlk | 9,193
 virakesarilk | 10,701
 adaderanasinhalalk | 11,066
 
@@ -26,11 +26,55 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,089 articles have been extended.
+61,971 (96.7%) of 64,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### 04 விமானங்கள் திருப்பிவிடப்பட்டன
+
+*2025-01-07 10:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/04-விமானங்கள்-திருப்பிவிடப்பட்டன/175-349898) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தை சுற்றியுள்ள பகுதிகளில் செவ்வாய்க்கிழமை (07)  தரையிறங்க வந்த 04 விமானங்கள், அடர்ந்த கடும் பனிமூட்டம் காரணமாக  கட்டுநாயக்க விமான நிலைய ஓடுபாதையை சரியாக பார்க்க முடியாததால் மத்தள மற்றும் திருவனந்தபுரம் விமான நிலையங்களுக்கு விமானங்கள் அனுப்பி வைக்கப்பட்டன.
+
+அதன்படி, துபாயிலிருந்து ஸ்ரீலங்கன் ஏர்லைன்ஸ் UL-226     காலை 05.00 மணிக்கு கட்டுநாயக்க விமான நிலையத்தில் தரையிறங்க, சீனாவின் Guangzhou இல் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் UL-881 மற்றும்   இந்தியாவின் பெங்களூரில் இருந்து 05.05 க்கு வந்த ஸ்ரீலங்கன் எயார்லைன்ஸ். UL-174 ரக 03 விமானங்களை மத்தள விமான நிலையத்திற்கு திருப்பிவிடப்பட்டன.
+
+மேலும், துருக்கியின் இஸ்தான்புல்லில் இருந்து   காலை 06.00 மணியளவில் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்த துருக்கிய ஏர்லைன்ஸ் விமானம் TK-730, இந்தியாவின் திருவனந்தபுரம் விமான நிலையத்திற்கு திருப்பி விடப்பட்டது.
+
+மத்தள விமான நிலையத்திற்கு அனுப்பப்பட்ட இலங்கை விமானங்களுக்கு எரிபொருள் வழங்கப்பட்டுள்ளதுடன், அந்த விமானங்களில் இருந்த பயணிகள் இறக்கிவிடப்படவில்லை.
+
+...
+
+[Data](articles/4d4159ae.json)
+
+---
+
+### Sri Lanka rupee opens weaker, quoted wide at 296/297 to US dollar
+
+*2025-01-07 10:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-quoted-wide-at-296-297-to-us-dollar-198362/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted wide at 296.00/297.00 to the US dollar Tuesday. weaker from 295.20/296.00 to the US dollar dealers said, while some bond yields were marginally up.
+
+A bond maturing on 15.12.2026 was quoted at 9.45/55 percnet Tuesday up from at 9.40/55 percent.
+
+A bond maturing on 15.10.2027 was quoted 9.80/90 percent, up from 9.75/90 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.20/25 percent, up from 10.15/25 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.50/55 percent up from 10.45/55 percent.
+
+A bond maturing on 01.05.2028 was quoted at 10.35/45 up from 10.35/40 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.75/85 percent, unchanged.
+
+A bond maturing on 15.05.2030 was quoted at 11.00/10 percent, also unchanged. (Colombo/Jan6/2025)
+
+◼️
+
+[Data](articles/b0d9b1bd.json)
+
+---
 
 ### துப்பாக்கிச் சூட்டில் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
 
@@ -113,6 +157,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/d9f41fd8.json)
+
+---
+
+### Sri Lanka can build reserves, pay debt, with vehicle imports of $1.5bn: CB Governor
+
+*2025-01-07 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-build-reserves-pay-debt-with-vehicle-imports-of-1-5bn-cb-governor-198351/) · `en`
+
+ECONOMYNEXT – Sri Lanka can build reserves and repay debt even if vehicle imports go up to 1.5 billion US dollars a year, Central Bank Governor Nandalal Weerasinghe has said.
+
+In 2024 the central bank has projected that relaxing commercial vehicle imports would result in forex needs of about 500 million dollars and private vehicle imports may require another billion US dollars a year.
+
+“Even if vehicle imports cost 1.5 billion US dollars, we can maintain reserves, and make the required payments after completing debt restructuring, and also increase government revenues and balance the requirements,” Governor Weerasinghe told Derana television in a talk show.
+
+“There could be a small deficit in the current account deficit.”
+
+In the past the current account deficit had been much higher, he said
+
+...
+
+[Data](articles/f5f726ad.json)
 
 ---
 
@@ -1729,57 +1793,5 @@ Despite the decline, the market maintained a strong turnover of Rs. 8.57 billion
 ...
 
 [Data](articles/e551f59b.json)
-
----
-
-### கருக்கலைப்பு மாத்திரைகளை விற்றவர் கைது
-
-*2025-01-06 17:04:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கருக்கலைப்பு-மாத்திரைகளை-விற்றவர்-கைது/76-349865) · `ta`
-
-நுவரெலியாவில் கருக்கலைப்பு மாத்திரைகளை விற்பனை செய்த மருந்தகத்தின் உரிமையாளர் நுவரெலியா பிரிவு ஊழல் தடுப்பு பிரிவின் அதிகாரிகள் மற்றும் நுவரெலியா சுகாதார வைத்திய அதிகாரியினால் திங்கட்கிழமை (06) கைது செய்யப்பட்டார்.
-
-சட்ட விரோத கருக்கலைப்பு மாத்திரையை 15,000 ரூபாய்க்கு மருந்தக உரிமையாளர் விற்பனை செய்வதாக பிரதேச ஊழல் தடுப்பு பிரிவு அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் இலஞ்ச ஒழிப்பு பிரிவின் நிலைய அதிகாரி மேனன் தெரிவித்தார். நுவரெலியா சுகாதார வைத்திய அதிகாரியுடன் இணைந்து உத்தியை பயன்படுத்தி சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபரின் மருந்தகத்தில் விற்பனைக்காக ஏராளமான கருக்கலைப்பு மாத்திரைகளை பொலிஸார் கைப்பற்றியுள்ளதாகவும், சட்டவிரோதமாக நாட்டிற்கு இறக்குமதி செய்யப்பட்ட கருக்கலைப்பு மாத்திரைகளை விற்பனை செய்வது முற்றாக தடைசெய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/69430a2b.json)
-
----
-
-### 2024இல் 28,158 மில்லியன் பெறுமதியான போதைப்பொருட்கள் மீட்பு  - கடற்படை ஊடகப்பிரிவு
-
-*2025-01-06 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/203137) · `ta`
-
-இலங்கை கடற்படையினரால் 2024ஆம் ஆண்டு முழுவதும் முன்னெடுக்கப்பட்ட பல்வேறு சுற்றி வளைப்புக்களில் 28,158 மில்லியன் ரூபா பெறுமதியுடைய போதைப்பொருட்கள் மற்றும் போதை மாத்திரைகள் உள்ளிட்டவை கைப்பற்றப்பட்டுள்ளதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
-
-இலங்கை கடற்படை நாட்டில் சட்டத்தை நடைமுறைப்படுத்தும் நிறுவனங்கள் மற்றும் பிராந்திய கடல்சார் பங்குதாரர்களுடன் இணைந்து கடந்த ஆண்டு முன்னெடுத்த பல்வேறு சுற்றிவளைப்புக்களில் போதை மாத்திரை வியாபாரம், சட்ட விரோத பொருள் விற்பனை மற்றும் சட்டவிரோத குடியேற்றம் உள்ளிட்ட சட்ட விரோத செயற்பாடுகளில் ஈடுபட்ட உள்நாட்டு மற்றும் வெளிநாடுகளைச் சேர்ந்த 407 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-அதேவேளை 28,158 மில்லியன் ரூபாவுக்கு அதிக பெறுமதியுடைய போதைப்பொருள் மற்றும் போதை மாத்திரை உள்ளிட்ட சட்டவிரோதமாக நாட்டுக்கு கொண்டு வரப்பட்ட பல்வேறு பொருட்களும் கைப்பற்றப்பட்டுள்ளன.
-
-நாட்டின் பெருங்கடல்களில் போதைப்பொருள் கடத்தல் உள்ளிட்ட சட்டவிரோத நடவடிக்கைகளை தடுப்பதற்காக கடற்படையானது பிராந்திய கடல்சார் பங்குதாரர்களுடன் இணைந்து கடல்களில் வழக்கமான ரோந்து நடவடிக்கைகளை மேற்கொண்டு வருகிறது.
-
-...
-
-[Data](articles/bc6fb7dc.json)
-
----
-
-### මුදල් වංචා කළ අඹුසැමි යුවල නැවතත් රිමාන්ඩ්
-
-*2025-01-06 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205089) · `si`
-
-නීතිවිරෝධි ආකාරයෙන් අන්තර්ජාලය ඔස්සේ තැන්පතු මුදල් ලබාගෙන රුපියල් කෝටි 200කට අධික මුදලක් වංචා කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටි අඹුසැමි යුවලක් එලැඹෙන 16 වැනිදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද (06) නියම කළේය.
-
-එමෙන්ම මෙම සිද්ධිය සම්බන්ධයෙන් පූර්ණ පරීක්ෂණයක් පවත්වා ඊලඟ දින කරුණු වාර්තා කිරීමට පියවර ගන්නා ලෙසත් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනූජා ලක්මාලි මහත්මිය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට නියෝග කළාය.
-
-පැමිණිල්ල කැඳවූ අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙනුවෙන් පෙනී සිටි නිලධාරීන් අධිකරණය හමුවේ කරුණු දක්වමින් පැවසුවේ අන්තර්ජාලය හරහා මුදල් තැන්පතු භාරගෙන අදාළ සැකකරුවන් රුපියල් කෝටි 260කට අධික මුදලක් වංචා කර ඇතැයි අනාවරණය වූ බවය‍
-
-ඒ අනුව මෙම සැකකරුවන් ඇප මත මුදාහරිනු ලැබුවහොත් විමර්ශන කටයුතුවලට බාධා සිදුවිය හැකි හෙයින් ඇප ඉල්ලීම් ප්‍රතික්ෂේප කර සැකකරුවන් රක්ෂිත බන්ධනාගාරගත කරන ලෙසත් ඔවුන් අධිකරණයෙන් ඉල්ලා සිටියේය.
-
-...
-
-[Data](articles/e1135df0.json)
 
 ---

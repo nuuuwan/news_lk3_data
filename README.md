@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 05:53:19**
+As of **2025-01-07 06:14:57**
 
 ## Newspaper Stats
 
-*Scraped **64,064** Articles*
+*Scraped **64,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 6,119
 adaderanalk | 7,838
 tamilmirrorlk | 9,184
 virakesarilk | 10,700
-adaderanasinhalalk | 11,057
+adaderanasinhalalk | 11,058
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,064 articles have been extended.
+61,971 (96.7%) of 64,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2025-01-07 05:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205103) · `si`
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල අද (07) දිනයේ වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දකුණු සහ සබරගමුව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වලත් කුරුණෑගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/9c45bdbd.json)
+
+---
 
 ### வடமத்திய மாகாணத்தில் 11 ஆம் தரப் பரீட்சைகள் இரத்து
 
@@ -1753,21 +1771,5 @@ Their appointment letters were presented on Monday at the Presidential Secretari
 ◼️
 
 [Data](articles/24b1db9a.json)
-
----
-
-### Gaddafi’s armed bodyguards create a scene at the Non-Aligned Conference
-
-*2025-01-06 15:00:00* · [`islandlk`](http://island.lk/gaddafis-armed-bodyguards-create-a-scene-at-the-non-aligned-conference/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-I shall not deal with the day to day work of the Non-Aligned Conference in plenary sessions and in committees and the substantive issues that were discussed and debated. I was not directly involved in these aspects, and there would be others more competent than I to write about such matters. My job was one of co-ordination, troubleshooting, and the prevention or resolution of any issue that could mar the proceedings of the conference.
-
-Additionally, I had to schedule the large number of one on one meetings between the Prime Minister and Heads of State and Government, Foreign Ministers and other Heads of Delegations, and sit in at many of these. I had already referred to the able team that assisted me in these matters.
-
-...
-
-[Data](articles/e90d3baa.json)
 
 ---

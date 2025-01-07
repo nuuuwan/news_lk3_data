@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 12:18:29**
+As of **2025-01-07 12:29:25**
 
 ## Newspaper Stats
 
-*Scraped **64,108** Articles*
+*Scraped **64,109** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,904
 islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
-adalk | 6,124
+adalk | 6,125
 adaderanalk | 7,840
 tamilmirrorlk | 9,200
 virakesarilk | 10,701
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,108 articles have been extended.
+61,971 (96.7%) of 64,109 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -475,6 +475,22 @@ The motive behind the shooting is yet to be ascertained while Mount Lavinia Poli
 ◼️
 
 [Data](articles/63d53e22.json)
+
+---
+
+### උතුරු මැද 11 ශ්‍රේණියේ අවසන් වාර විභාගය අත්හිටුවයි
+
+*2025-01-07 07:05:48* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-11-ශ්‍රේණියේ-අවසන්-වාර-විභාගය-අත්හිටුවයි/11-414052) · `si`
+
+ප්‍රශ්න පත්‍ර කලින් පිටවීමේ සිද්ධියක් සම්බන්ධයෙන් උතුරු   මැද පළාතේ පාසල්වල 2024 වර්ෂයට අදාළව මේ දිනවල පැවැත්වෙන අවසන් වාර විභාගයේ, 11 ශ්‍රේණියේ විභාග කටයුතු තාවකාලිකව නතර කල බව උතුරු මැද පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව පවසයි.
+
+11 ශ්‍රේණියේ විභාගය තාවකාලිකව නතර කිරීම සම්බන්ධයෙන් උතුරු මැද පළාත් ප්‍රධාන ලේකම් සහ අධ්‍යාපන ලේකම් සිරිමෙවන් ධර්මසේන මහතාගේ උපදෙස් පරිදි පළාත් අධ්‍යාපන අධ්‍යක්ෂ එස්.එම්.ඩබ්ලිව් . සමරකෝන්   මහතා විසින් ඒ සම්බන්ධයෙන් කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරුන් හට දැනුම් දීමක් කර තිබේ.
+
+හය ශ්‍රේණියේ සිට දහය ශ්‍රේණිය දක්වා අවසන් වාර විභාග කටයුතු නියමිත කාලසටහනට අනුව පැවැත්වෙන බවද පළාත් අධ්‍යාපන දෙපාර්තමේන්තු නිවේදනයේ වැඩි දුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/a4ea79a2.json)
 
 ---
 
@@ -1753,23 +1769,5 @@ TELL IGP (පොලිස්පතිට කියන්න) ව්‍යාප�
 ...
 
 [Data](articles/9685f2d9.json)
-
----
-
-### Syrian caretaker government to hike public sector salaries by 400% next month
-
-*2025-01-06 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/104769/syrian-caretaker-government-to-hike-public-sector-salaries-by-400-next-month) · `en`
-
-Syria’s finance minister said on Sunday the government would hike salaries for many public sector employees by 400% next month after completing an administrative restructuring of ministries to boost efficiency and accountability.
-
-The increase, estimated to cost 1.65 trillion Syrian pounds, or about $127 million at current rates, will be financed by existing state resources plus a combination of regional aid, new investments, and efforts to unfreeze Syrian assets held abroad.
-
-“(This is) the first step towards an emergency solution to the economic reality in the country,” Mohammed Abazeed, the finance minister in Syria’s caretaker government, told Reuters, adding that this month’s wages for public sector staff would be paid out this week.
-
-These measures are part of a broader strategy by Syria’s new caretaker government to stabilize the country’s economy following 13 years of conflict and sanctions.
-
-...
-
-[Data](articles/27f4c8a9.json)
 
 ---

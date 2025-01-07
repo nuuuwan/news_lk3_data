@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 15:44:18**
+As of **2025-01-07 16:03:13**
 
 ## Newspaper Stats
 
-*Scraped **64,133** Articles*
+*Scraped **64,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,904
 islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
-adalk | 6,130
+adalk | 6,131
 adaderanalk | 7,840
 tamilmirrorlk | 9,206
 virakesarilk | 10,701
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.6%) of 64,133 articles have been extended.
+61,971 (96.6%) of 64,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### රජයෙන් ඉවතලන කඩදාසි වාලච්චේන කඩදාසි කම්හලට
+
+*2025-01-07 15:08:40* · [`adalk`](https://www.ada.lk/breaking_news/රජයෙන්-ඉවතලන-කඩදාසි-වාලච්චේන-කඩදාසි-කම්හලට/11-414060) · `si`
+
+රාජ්‍ය ආයතන වෙතින් ඉවතලන කඩදාසි වාලච්චේන කඩදාසි කම්හල වෙත ලබාදීමට අදාළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+වාලච්චේන කඩදාසි කම්හලේ කඩදාසි නිශ්පාදානය අඛණ්ඩව පවත්වාගෙන යාම තහවුරු කර ගැනීම වෙනුවෙන් මෙසේ ඉවත ලන කඩදාසි මෙසේ වාලච්චේන කම්හල වෙත ලබාදීමට නියමිතය.
+
+එම කම්හලේ යන්ත්‍ර දෙකෙන් එක් යන්ත්‍රයක් මේ වන විට ක්‍රියාත්මක වෙයි.
+
+◼️
+
+[Data](articles/bde7768c.json)
+
+---
 
 ### பதாகையால் பரபரப்பு
 
@@ -1747,25 +1763,5 @@ The PMB Chairman also explained that the paddy obtained in this manner will be s
 ◼️
 
 [Data](articles/e24f5629.json)
-
----
-
-### Canada PM Trudeau is likely to announce resignation, source says
-
-*2025-01-06 20:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/104772/canada-pm-trudeau-is-likely-to-announce-resignation-source-says) · `en`
-
-Canadian Prime Minister Justin Trudeau is increasingly likely to announce he intends to step down, though he has not made a final decision, a source familiar with Trudeau’s thinking said on Sunday.
-
-The source spoke to Reuters after the Globe and Mail reported that Trudeau was expected to announce as early as Monday that he would quit as leader of Canada’s ruling Liberal Party after nine years in office.
-
-The source requested anonymity because they were not authorized to speak publicly.
-
-Trudeau’s departure would leave the party without a permanent head at a time when polls show the Liberals will badly lose to the official opposition Conservatives in an election that must be held by late October.
-
-Sources told the Globe and Mail that they did not know definitely when Trudeau would announce his plans to leave but said they expect it would happen before a emergency meeting of Liberal legislators on Wednesday.
-
-...
-
-[Data](articles/0ca279be.json)
 
 ---

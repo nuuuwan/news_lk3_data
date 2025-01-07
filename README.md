@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 23:44:37**
+As of **2025-01-08 00:04:13**
 
 ## Newspaper Stats
 
-*Scraped **64,217** Articles*
+*Scraped **64,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 672
-economynextcom | 3,904
+economynextcom | 3,912
 islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.5%) of 64,217 articles have been extended.
+61,971 (96.5%) of 64,225 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -300,6 +300,30 @@ The SLBFE chairman further revealed plans to offer job opportunities in South Ko
 
 ---
 
+### Sri Lanka Cabinet grants incentives to airlines for tourism boost
+
+*2025-01-07 19:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-grants-incentives-to-airlines-for-tourism-boost-198539/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has granted tax concession for airlines which will operate flights to the island nation’s international airports with more capacity aiming to boost tourist arrivals.
+
+The move comes as Sri Lanka’s main Bandaranaike International Airport (BIA) is facing difficulties in accommodating all the arrivals.
+
+The tax concessions have been introduced by the Airport and Aviation Services (Sri
+
+Lanka) (Private) Limited with the objective of attracting international airline services for the Jaffna International Airport, Colombo International Airport (Rathmalana), and Mattala Rajapaksha
+
+However, those incentives came to an end and had to be extended.
+
+The Cabinet approved to further extend the tax relief to the three airports.
+
+The Cabinet granted “extension of concession of 50% fee waiver from the presently implemented deviation tax
+
+...
+
+[Data](articles/bdd94561.json)
+
+---
+
 ### மீளாய்வு குழுவின் அறிக்கைக்கு அமையவே அதானி குறித்து அடுத்த கட்ட தீர்மானம் - அமைச்சரவை பேச்சாளர்
 
 *2025-01-07 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203261) · `ta`
@@ -356,6 +380,46 @@ The SLBFE chairman further revealed plans to offer job opportunities in South Ko
 
 ---
 
+### Sri Lanka’s Colombo Port handles 7.7mn boxes is 2024, up 12.3-pct
+
+*2025-01-07 18:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-port-handles-7-7mn-boxes-is-2024-up-12-3-pct-198515/) · `en`
+
+ECONOMYNEXT – State-run Sri Lanka Ports Authority said Colombo Port has handled 7.7 million twenty foot equivalent units (TEU) up 12.3 percent, with the agency’s own terminals seeing a 23 percent increase.
+
+SLPA’s Jaye Container Terminal and the deep water East Container Terminal handled 2.4 million TEUs in 2024, up from 1.9 million in 2023.
+
+China-backed Colombo International Container Terminal (CICT) had handled 3.3 million TEUs.
+
+South Asia Gateway Terminal (SAGT) of John Keells Holdings had handled 2.0 million TEUs.
+
+The performance had confirmed the the port’s status as a key  hub in the South Asian region and its growing appeal to international shipping lines, SLPA said.
+
+Sri Lanka has seen more containers bound for the Middle East being transshipped via Colombo amid Red Sea troubles even as some lines by-passed the island on their journey around Africa to Europe.
+
+...
+
+[Data](articles/32b79a8a.json)
+
+---
+
+### Imran Furkan appointed director of Sri Lanka’s ODEL Plc
+
+*2025-01-07 18:23:00* · [`economynextcom`](https://economynext.com/imran-furkan-appointed-director-of-sri-lankas-odel-plc-198505/) · `en`
+
+ECONOMYNEXT –  Imran Furkan has been appointed to the board of Sri Lanka’s ODEL Plc as independent non-executive director with effect from January 06, the company said in a stock exchange filling.
+
+He is also an independent non- executive director of Maharaja Foods, The Interfaith Network and City of Greater Dandenong, Australia.
+
+Furkan is currently serving as the Chief Executive Officer of Tresync Australia and headed SLASSCOM and Sri Lanka Press Institute.
+
+ODEL stock was trading down 0.93 percent to 10.70 on Tuesday. (Colombo/Jan7/2025)
+
+◼️
+
+[Data](articles/f81be8a2.json)
+
+---
+
 ### அரிசி பிரச்சினைக்கான தீர்வினையே நாமும் தேடிக் கொண்டிருக்கின்றோம் - அரசாங்கம்
 
 *2025-01-07 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203253) · `ta`
@@ -369,6 +433,34 @@ The SLBFE chairman further revealed plans to offer job opportunities in South Ko
 ...
 
 [Data](articles/84f552e1.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 296.20/40 to US dollar
+
+*2025-01-07 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-296-20-40-to-us-dollar-198507/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee weakened to 296.20/40 to the US dollar Tuesday, dealers said while bond yields while some bond yields were marginally higher.
+
+The spot US dollar was quoted wide in intra-day trade at 296/297 rupee in early trade reflecting some uncertainty, dealers said. There was also some forward booking from importers.
+
+A bond maturing on 15.12.2026 was quoted at 9.50/60 percent Tuesday up from at 9.40/55 percent.
+
+A bond maturing on 15.10.2027 closed at 9.80/95 percent, up from 9.75/90 percent.
+
+A bond maturing on 15.02.2028 closed at at 10.17/25 percent, up from 10.15/25 percent.
+
+A bond maturing on 15.10.2028 closed at at 10.45/55 percent up from 10.45/55 percent.
+
+A bond maturing on 01.05.2028 closed at at 10.35/42 steady from 10.35/40 percent.
+
+A bond maturing on 15.09.2029 closed at 10.75/85 percent, unchanged.
+
+A bond maturing on 15.05.2030 closed at at 11.00/10 percent, also unchanged. (Colombo/Jan7/2025)
+
+◼️
+
+[Data](articles/8b0e2c8c.json)
 
 ---
 
@@ -518,6 +610,32 @@ Efforts are also underway to release compensation payments in districts where th
 
 ---
 
+### Sri Lanka stocks down for third straight session amid profit taking
+
+*2025-01-07 16:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-down-for-third-straight-session-amid-profit-taking-198454/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange fell for a third straight day on Tuesday, data on its site showed.
+
+It has been on the downward trend after peaking repeatedly following the finalization of Sri Lanka’s debt restructuring deal in mid December.
+
+The broader ASPI closed down 0.15 percent, or 23.96 points, at 15,854.64; while the more liquid S&P SL20 Index closed down 0.06 percent, or 2.73 points, at 4,802.21.
+
+“Market was very volatile today; it started off on a negative note and recovered towards the end but mostly stayed in the negative territory,” the market participant said.
+
+“Renewed buying interest is coming back to the market,” he said referring to the recovery in the day’s trade.
+
+The market has been steadily rising over the last month and analysts were expecting a correction.
+
+HNB closed down 1.4 percent to 314.25, NTB fell 0.8 percent to 176.50 and NDB ended 0.2 percent weaker at 108.75.
+
+There was a net foreign outflow of 44.3 million rupees for the day.
+
+...
+
+[Data](articles/2691b8d4.json)
+
+---
+
 ### வாகன இறக்குமதிகள் அதிகரித்தாலும் கையிருப்புக்குப் பாதிப்பு ஏற்படாது - மத்திய வங்கி ஆளுநர்
 
 *2025-01-07 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/203235) · `ta`
@@ -619,6 +737,24 @@ Efforts are also underway to release compensation payments in districts where th
 ...
 
 [Data](articles/6409adc2.json)
+
+---
+
+### Sri Lanka Cabinet approves China-related proposals ahead of President’s Beijing visit
+
+*2025-01-07 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-china-related-proposals-ahead-of-presidents-beijing-visit-198492/) · `en`
+
+ECONOMYNEXT – Sri Lanka Cabinet of Ministers approved a number of proposals related to China this week, an official government document showed, ahead of President Anura Kumara Dissanayake’s official visit to Beijing next week.
+
+President Dissanayake will visit Beijing on the invitation of Chinese leader Xi Jinping where he will meet the top leaders of the World’s second largest economy’s government.
+
+Cabinet Spokesman Nalinda Bandara said the President will be accompanied by Foreign Minister Vijitha Herath and Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake.
+
+At the Cabinet meeting held on Monday, President Dissanayake’s ruling National’s People Power administration decided to approve some proposals including reaffirming ‘One China’ policy, which recognises Taiwan as a breakaway province of China and to be unified with the mainland one day.
+
+...
+
+[Data](articles/b882f5b3.json)
 
 ---
 
@@ -857,6 +993,24 @@ Accordingly, the Cabinet’s approval has been granted to the submission made by
 ◼️
 
 [Data](articles/cf32b96f.json)
+
+---
+
+### Sri Lanka and Vietnam to ink customs co-operation agreement
+
+*2025-01-07 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-vietnam-to-ink-customs-co-operation-agreement-198466/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have approved signing a customs co-operation agreement with Vietnam, spokesman Minister Nalida Jayatissa said.
+
+Reducing transactions cost of bilateral trade, correctly calculating and collecting border taxes, limiting controlled and banned items are some of the aims of the agreement.
+
+Sri Lanka’s cabinet has approved entering into an agreement with Vietnam in November 11, 2023.
+
+The required bilateral agreement has now been cleared by the Attorney General. (Colombo/Jan07/2025)
+
+◼️
+
+[Data](articles/a7ae3c79.json)
 
 ---
 
@@ -1207,6 +1361,28 @@ The Minister said that further legal action will be taken based on the facts unc
 ◼️
 
 [Data](articles/4a312e02.json)
+
+---
+
+### Sri Lanka should not to deport Rohingiya asylum seekers: opposition leader
+
+*2025-01-07 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-to-deport-rohingiya-asylum-seekers-opposition-leader-198451/) · `en`
+
+ECONOMYNEXT – Sri Lanka should not deport a group of Rohingya asylum seekers who have arrived recently and such a move would be against the obligation of the country under international conventions, Opposition Leader Sajith Premadasa said.
+
+“We have go to know that there is an attempt by the government to deport them,” Premadasa told Parliament Tuesday.
+
+“I am requesting the government not to make such an inhuman move. Turning them back is a violation of international human rights law.
+
+“The entire world accepts that the Rohingya community is subjected to discrimination and pressures and violence.
+
+“Please follow the policy of non-refoulement. We cannot deport them by force.”
+
+Sri Lanka is bound to act under the Refugee Convention of 1951, and other international conventions, and Lanka should halt any plans to deport them, he said.
+
+...
+
+[Data](articles/0f4d85e5.json)
 
 ---
 
@@ -1659,155 +1835,5 @@ Sri Lanka’s implementation of mental health surveys was also acknowledged for 
 ...
 
 [Data](articles/eff30657.json)
-
----
-
-### Finance Ministry orders auction of state-owned V8 luxury vehicles
-
-*2025-01-07 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104787/finance-ministry-orders-auction-of-state-owned-v8-luxury-vehicles) · `en`
-
-The Secretary to the Ministry of Finance, Mahinda Siriwardena, has directed all state institutions to auction the high-capacity V8 luxury vehicles under their purview and submit revenue reports by March 01.
-
-A circular has been issued to this effect, addressing all heads of state departments, including secretaries of ministries, outlining the necessary steps to be implemented for the purpose.
-
-The circular further emphasizes that state institutions are prohibited from purchasing the vehicles being auctioned.
-
-On December 03, 2024, the Cabinet of Ministers approved a proposal to conduct a study on vehicles used in all government institutions and systematically dispose of super luxury vehicles that incur high maintenance and fuel costs in government institutions by selling them in order to reduce government spending.
-
-Accordingly, it was decided to assess and streamline the government vehicle fleet, focusing on those with higher engine capacities, which contribute to rising maintenance expenses.
-
-◼️
-
-[Data](articles/6570a783.json)
-
----
-
-### මහ මැතිවරණයේ වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයින්ටත් නඩු පැවරීමට පියවර
-
-*2025-01-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205122) · `si`
-
-මහ මැතිවරණයට අදාළව අදායම් වියදම් වාර්තා ලබා නොදුන් අපේක්ෂයින් සම්බන්ධයෙන් වන ලිපි ගොනු සම්පූර්ණ කර නීතිමය කටයුතු සඳහා හැකි ඉක්මනින් පොලීසියට ලබා දෙන ලෙස මැතිවරණ කොමිසම දිස්ත්‍රික් මැතිවරණ කාර්යාලවලට දැනුම් දී තිබේ.
-
-අදායම් වියදම් වාර්තා භාර දීම සඳහා සහන කාලයක් ලබා දී තිබූ අතර එම කාලය අවසන් ව ඇතත් අපේක්ෂකයින් පිරිසක් ආදායම් වාර්තා ලබා දී නොමැති බවත් වාර්තා වේ.
-
-ඒ අනුව ආදායම් වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයින්ට එරෙහිව නීතියම ක්‍රියාමාර්ග ගැනීමට අවශ්‍ය කටයුතු මේ වන විට සූදානම් කරමින් පවතින බව මැතිවරණ කොමිසම පැවසීය.
-
-මේ අතර ආදායම් වියදම් වාර්තා ලබා නොදුන් ජනාධිපතිවරණ අපේකෂයින් 5 දෙනෙකුට එරෙහිව එලැඹෙන සතියේදී නඩු පැවරීමට පියවර ගෙන ඇති බවද වාර්තා වේ.
-
-ජනාධිපති අපේක්ෂයින් 12 දෙනෙකු ආදායම් වියදම් වාර්තා ලබා දී නොමැති අතර ඔවුන්ගෙන් 7 දෙනෙකුට මේ වන විට නඩු පවරා තිබේ.
-
-◼️
-
-[Data](articles/a4b7da37.json)
-
----
-
-### நாடளாவிய ரீதியில் 30,000 ஆசிரியர் வெற்றிடங்கள்
-
-*2025-01-07 10:54:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-30-000-ஆசிரியர்-வெற்றிடங்கள்/175-349901) · `ta`
-
-ஆங்கிலம், விஞ்ஞானம், கணிதம் உள்ளிட்ட அனைத்து பாடங்களுக்கும் ஆசிரியர் வெற்றிடங்கள் இருப்பதாக அமைச்சின் செயலாளர் நாலக களுவெவ தெரிவித்துள்ளார்.
-
-புதிய ஆசிரியர்கள் பணியமர்த்தப்படும் வரை காத்திருக்க வேண்டிய நிலை ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
-
-◼️
-
-[Data](articles/f8b0bed1.json)
-
----
-
-### Harris certifies Trump’s US election victory
-
-*2025-01-07 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104786/harris-certifies-trumps-us-election-victory) · `en`
-
-Four years to the day after a mob of Donald Trump’s supporters violently besieged the US Capitol, Congress formally certified the incoming president’s re-election in a special session.
-
-Vice-President Kamala Harris, who Trump defeated in the 2024 election, presided over the event as required by the US Constitution.
-
-But the shadow of 6 January 2021 lingered over Monday’s proceedings, despite Trump and his allies’ campaign to recast the attack as a “day of love.”
-
-Heavy security was in place in Washington DC, and current President Joe Biden vowed there would be no repeat of the violence four years ago.
-
-Trump celebrated the moment on Truth Social, writing: “Congress certifies our great election victory today - a big moment in history.”
-
-The day was extraordinary in its normalcy, given the chaos of four years before. Harris stood at the front of the US House chamber with a sombre expression as lawmakers read out each state’s election results before formally declaring their authenticity.
-
-...
-
-[Data](articles/72c36e30.json)
-
----
-
-### Sri Lanka IMF forex reserve target US$7bn in 2025, ends 2024 with $6.1bn: CB Governor
-
-*2025-01-07 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-forex-reserve-target-us7bn-in-2025-ends-2024-with-6-1bn-cb-governor-198374/) · `en`
-
-ECONOMYNEXT – Sri Lanka has a foreign reserve target of 7.0 billion US dollars in 2025, under an International Monetary Fund program, and ended the 2024 with 6.1 billion dollars, Central Bank Governor Nandalal Weersinghe has said.
-
-Sri Lanka had a (gross) reserve target of around 5.6 billion US dollars under an IMF program in 2024, he said.
-
-“We increased it to 6.5 billion and after paying all the old debt we have 6.1 bn by the end of the year,” Governor Weerasinghe said in an interview with Sri Lanka’s Derana Television Monday night.
-
-“The 2025 target is 7.0 billion. I do not think that is a difficult task to raise the reserve to 7.0 billion dollars.”
-
-The IMF reserve target is usually expressed in terms of net international reserves, which was negative under the old program.
-
-...
-
-[Data](articles/2f29f4a1.json)
-
----
-
-### Four international flights to BIA diverted to Mattala and India
-
-*2025-01-07 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104785/four-international-flights-to-bia-diverted-to-mattala-and-india) · `en`
-
-Four international flights scheduled to land at Bandaranaike International Airport in Katunayake in the early hours of January 07 were diverted due to dense fog that significantly reduced visibility.
-
-The affected flights included three SriLankan Airlines flights—UL-226 from Dubai, UL-881 from Guangzhou, China, and UL-174 from Bangalore, India—which were redirected to Mattala Rajapaksa International Airport.
-
-Additionally, Turkish Airlines flight TK-730 from Istanbul has been diverted to Trivandrum Airport in India.
-
-The SriLankan Airlines flights refueled at Mattala but did not disembark passengers. By 9:00 a.m., all diverted flights returned to Katunayake Airport safely after the fog had cleared, Ada Derana reporter said.
-
-The fog, which began to disrupt operations in the early morning, gradually lifted by around 7:00 a.m., enabling subsequent flights to land at Katunayake Airport without incident, according to the reporter.
-
-...
-
-[Data](articles/c6c60a9e.json)
-
----
-
-### Foreign reserves robust, debt payments manageable - CBSL Governor
-
-*2025-01-07 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104784/foreign-reserves-robust-debt-payments-manageable-cbsl-governor-) · `en`
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe assured that Sri Lanka’s foreign reserves remain robust.
-
-He made this remark during his appearance on Ada Derana’s current affairs programme ‘360°’ last night (06).
-
-Speaking during the programme, the CBSL chief said: “The target was around Rs.5.6 billion, but we increased it to Rs.6.5 billion. By the end of 2024, after settling old debts, reserves stood at Rs.6.1 billion. Our aim is to raise this to Rs.7 billion by the end of this year, which is achievable.”
-
-“After debt restructuring, payments of Rs.3–4 billion annually over the next 10 years will be manageable. If we maintain Rs.8 billion in reserves, we will have a strong buffer to meet foreign debt obligations. The current reserve levels are stable to handle these challenges,” Dr. Weerasinghe elaborated.
-
-◼️
-
-[Data](articles/99402370.json)
-
----
-
-### ළඟම පාසල හොඳම පාසල ව්‍යාපෘතිය ගැන තීරණයක්
-
-*2025-01-07 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205121) · `si`
-
-"ළඟම පාසල හොඳම පාසල ව්‍යාපෘතිය" යටතේ අර්ධ වශයෙන් සම්පූර්ණ වූ පාසල් සම්බන්ධව සමාලෝචනයක් සිදු කිරීමට බලාපොරොත්තු වන බව අග්‍රාමාත්‍ය හරිනි අමරසූරිය පවසයි.
-
-"අපි ඇත්ත වශයෙන්ම මේ මොහොත් ඒ ව්‍යාපෘතිය යටතේ ඒ තොරාාගත් පාසල් පිළිබඳව සමාලෝචනයක් කරනවා. ව්‍යාපෘතියට තෝරාගත් බොහෝ පාසල් අඩක් නිමකරලා අතරමග නැවතිලා තියෙනවා.
-
-ඒ නිසා ඒ සියලු පාසල් සමාලෝචනය කරමින් අපේ සැලැස්ම අනුව සියලුම දරුවන්ට කිලෝමීටර් 3ක සීමාව ඇතුළත යන්න පුළුවන් ප්‍රාථමික පාසලක්, එහෙම පාසල් ගණනාවක් එකතු කරමින් යන්න පුළුවන් අංගසම්පූර්ණ ද්වීතික පාසලක් වෙනුවෙන් වර්ධනය කර ගැනීම සඳහා සැලසුම් කරගෙන යනවා. ඒ වගේම 80%- 90%ක් වැඩ ඉවර කරලා තියෙන පාසල්වලට අපි ප්‍රමුඛතාව ලබා දෙන්න බලාපොරොත්තු වෙනවා. "
-
-◼️
-
-[Data](articles/8a0243a2.json)
 
 ---

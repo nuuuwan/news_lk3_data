@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 10:44:00**
+As of **2025-01-07 11:02:19**
 
 ## Newspaper Stats
 
-*Scraped **64,095** Articles*
+*Scraped **64,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 672
 economynextcom | 3,903
 islandlk | 3,918
-dailyftlk | 4,470
+dailyftlk | 4,471
 dailymirrorlk | 4,733
 adalk | 6,123
 adaderanalk | 7,840
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,095 articles have been extended.
+61,971 (96.7%) of 64,096 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -771,6 +771,20 @@ That morning, I was sitting behind my desk when a teacher dashed into our classr
 ...
 
 [Data](articles/10638b5b.json)
+
+---
+
+### I was 10 years old when Lasantha Wickrematunge was assassinated
+
+*2025-01-07 00:33:57* · [`dailyftlk`](https://www.ft.lk/columns/I-was-10-years-old-when-Lasantha-Wickrematunge-was-assassinated/4-771480) · `en`
+
+The year was 2009. On 8 January, the army recaptured Palaly from the Tamil Tigers in efforts to reach the Jaffna Peninsula. I was a 10-year-old girl growing up in Colombo then and I was in year five.
+
+That morning, I was sitting behind my desk when a teacher dashed into our classroom with terror across her face and loudly told my English teacher that Lasantha Wickrematunge had been shot. I recall my teacher being in discomfort for the remainder of the class. At the time, I didn’t quite understand the impact his death had on Sri Lanka and what his assassination was going to mean for the future of dissent in the nation.
+
+...
+
+[Data](articles/ef9065b8.json)
 
 ---
 
@@ -1775,25 +1789,5 @@ A bond maturing on 15.05.2030 closed at 11.00/15 percent, up from 10.95/11.05 pe
 ◼️
 
 [Data](articles/4e1e8e53.json)
-
----
-
-### இவரைக் கண்டால் உடன் அறிவிக்கவும்
-
-*2025-01-06 17:12:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இவரைக்-கண்டால்-உடன்-அறிவிக்கவும்/175-349866) · `ta`
-
-கடந்த வருடம் நவம்பர் மாதம் காணாமல் போன 16 வயது சிறுமியைக் கண்டுபிடிப்பதற்கான விசாரணைகளை அடம்பிட்டிய பொலிஸார் தொடர்ந்தும் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
-
-2024 ஆம் ஆண்டு நவம்பர் மாதம் 3 ஆம் திகதி முதல் தனது மகள் ரத்நாயக்க முதியன்சலாகே கவிஷா தேவ்மிணி காணாமல் போயுள்ளதாக சிறுமியின் தாயாரின் முறைப்பாட்டையடுத்து விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
-
-அண்ணளவாக 5 அடி 2 அங்குல உயரம் கொண்ட வெண்ணிறமான கவிஷா, கடைசியாக வெளிர் பச்சை நிற ஆடை அணிந்திருந்தார், மேலும் அவரது இடது கையில் முழங்கைக்கு அருகில் சிறிய வெட்டு காயம் ஒன்றும் உள்ளது.
-
-காணாமல் போன சிறுமியின் புகைப்படத்தை வெளியிட்டுள்ள பொலிஸார், அவரைக் கண்டுபிடிக்க பொதுமக்களின் உதவியை நாடியுள்ளனர்.
-
-தகவல் தெரிந்தவர்கள் அடம்பிட்டிய OIC யை 071-8591528 அல்லது அடம்பிட்டிய பொலிஸ் நிலையத்தை 055-2295466 என்ற இலக்கத்திற்கு தொடர்பு கொண்டு அறிவிக்குமாறு கேட்டுக் கொள்ளப்படுகிறார்கள்.
-
-◼️
-
-[Data](articles/44094dbf.json)
 
 ---

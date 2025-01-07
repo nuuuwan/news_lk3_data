@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 17:45:26**
+As of **2025-01-07 18:05:01**
 
 ## Newspaper Stats
 
-*Scraped **64,142** Articles*
+*Scraped **64,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,471
 dailymirrorlk | 4,733
 adalk | 6,134
 adaderanalk | 7,840
-tamilmirrorlk | 9,211
+tamilmirrorlk | 9,212
 virakesarilk | 10,701
 adaderanasinhalalk | 11,079
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.6%) of 64,142 articles have been extended.
+61,971 (96.6%) of 64,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### இளைஞன் மீது கொலைவெறி தாக்குதல்: மூவர் கைது
+
+*2025-01-07 17:15:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞன்-மீது-கொலைவெறி-தாக்குதல்-மூவர்-கைது/175-349933) · `ta`
+
+யாழ் நகரில் இளைஞர் மீது கொலைவெறி தாக்குதல் நடத்தியவர்களில் தேடப்பட்டு வந்த பிரதான சந்தேக நபர்கள் என கருதப்படும் மூவர் செவ்வாய்க்கிழமை (07)  கைதுசெய்யப்பட்டனர்.
+
+தலைமறைவாக இருந்த குறித்த நபர்கள் யாழ். நகரில் நடமாடுவதாக யாழ். மாவட்ட குற்றத் தடுப்பு பிரிவு பொலிஸாருக்கு கிடைத்த இரகசிய தகவலுக்கமைய கைது நடவடிக்கை முன்னெடுக்கப்பட்டது.
+
+யாழ். நகரில் புத்தாண்டுக்கு முன்தினமான டிசெம்பர் (31) இரவு வேளை ஒன்றுகூடிய இளைஞர்கள் குழுவினர் முச்சக்கரவண்டியில் சாகசம் காட்டியதுடன் இளைஞர் ஒருவரை கடுமையாக தாக்கியிருந்தனர்.
+
+இந்நிலையில் சந்தேகத்தின் பேரில் நான்கு பேர் பொலிஸாரால் கடந்த வியாழக்கிழமை கைதுசெய்யப்பட்டு  விளக்கமறியலில் வைக்கப்பட்டுள்ளதுடன் இரண்டு முச்சக்கரவண்டிகளும் கைப்பற்றப்பட்டன.
+
+கைதான மூவரையும் யாழ்ப்பாணம் நீதிவான் நீதிமன்றத்தில் முற்படுத்த யாழ்ப்பாணம் பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/66773273.json)
+
+---
 
 ### ஜனாதிபதி அடுத்த வாரம் சீனா விஜயம்
 
@@ -1737,19 +1757,5 @@ Although the ADB’s Board has the power to extend the MWSIP funding window beyo
 ...
 
 [Data](articles/99fa5cf1.json)
-
----
-
-### Promoting local private university education
-
-*2025-01-06 22:56:17* · [`dailyftlk`](https://www.ft.lk/columns/Promoting-local-private-university-education/4-771477) · `en`
-
-Sri Lanka must embrace a transformative approach to its higher education system
-
-A recent flare up by the university students which appeared in the media is causing alarm about a possible new campaign to be started by student organisations against the establishment of private universities. This country has experienced such agitations over a long period of time emerging off and on. The agitators while opposing the setting up of any private university in the country categorically demonstrated their opposition to the Kotelawala Defence University now engaged in higher medical education. This sudden outburst after a long silence immediately arising in the wake of the formation of a new Government, the leaders of which were very much in control of the university student movement of the country, adds to the consternation.
-
-...
-
-[Data](articles/aa989967.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 05:27:52**
+As of **2025-01-07 05:53:19**
 
 ## Newspaper Stats
 
-*Scraped **64,052** Articles*
+*Scraped **64,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 671
 economynextcom | 3,899
-islandlk | 3,906
+islandlk | 3,918
 dailyftlk | 4,470
 dailymirrorlk | 4,733
 adalk | 6,119
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,057
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.8%) of 64,052 articles have been extended.
+61,971 (96.7%) of 64,064 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -325,6 +325,116 @@ The building is really majestic in appearance, just opposite of the President’
 ---
 
 ### 2025-01-06 (Monday)
+
+### Andrea doing it in Memphis
+
+*2025-01-06 23:41:00* · [`islandlk`](http://island.lk/andrea-doing-it-in-memphis/) · `en`
+
+Sri Lanka’s Andrea Marr, who now resides in Australia, and an accomplished Blues singer, is in the States, at the moment…preparing to be a part of the Women in Blues showcase, scheduled for 9th January, in Memphis.
+
+Says Andrea: “I’m in Memphis now, home of the Blues and the place that truly holds my musical heart. 2025 is certainly starting off with excitement and adventure.
+
+“Yep, very nervous to come and do the Women in Blues showcase without my band and with no rehearsal, but the house band is filled with monster female musicians and I think we can present something pretty great! Exciting times, indeed!”
+
+Before her departure from Melbourne to Memphis, Andrea had this to say:
+
+“It’s almost Memphis time! I can’t wait to walk those streets again, hear those beautiful southern voices, immerse myself in the home of Blues and Soul and marvel at the fact that I get to sing my own songs in Memphis again.
+
+...
+
+[Data](articles/8e20ad25.json)
+
+---
+
+### Festive surprise from singer Suzi…
+
+*2025-01-06 23:41:00* · [`islandlk`](http://island.lk/festive-surprise-from-singer-suzi/) · `en`
+
+Suzi Croner, of the popular Sri Lankan outfit of the ’90s, Friends, surprised everyone in the scene here by turning up, unexpectedly…and performing, as well.
+
+According to Suzi, she had no plans to checkout Colombo during the festive season. However, she was literally forced to come due to family commitments. And, when people that matter got to know about her impending arrival, they went into action to give local music lovers the opportunity to see Suzi live in action…after almost 26 years.
+
+Suzi entertained the large crowd that turned up at the CR & FC for the club’s festive celebrations and she certainly did keep everyone entertained with her vocals and stage presentation.
+
+The singer was also featured at the opening of the new Cheers Pub at the Cinnamon Grand, along with Manilal Perera, and continued her act for a few nights more.
+
+...
+
+[Data](articles/d519d0b0.json)
+
+---
+
+### Access Motors triumphs in the prestigious JLR Asia Pacific Service Advisor Competition
+
+*2025-01-06 23:35:00* · [`islandlk`](http://island.lk/access-motors-triumphs-in-the-prestigious-jlr-asia-pacific-service-advisor-competition/) · `en`
+
+Ibrahim Rahminthulla, a seasoned Service Advisor at Access Motors, has clinched the top spot in a highly competitive Asia Pacific Region Service Advisor Competition. This prestigious recognition highlights his exceptional customer service skills and technical expertise.
+
+Competing against 43 skilled service advisors from 16 countries, Ibrahim’s ability to consistently deliver outstanding service experience, his profound knowledge of JLR vehicles and his technical expertise set him apart. It earned him the highest honour in the Asia Pacific Region Service Advisor Competition.
+
+The competition, initiated by JLR’s Asia Pacific Office, aims to recognise and celebrate service advisors who exemplify excellence in their field. Ibrahim’s unwavering commitment to customer satisfaction, coupled with his deep technical knowledge, made him a standout candidate.  Customer feedback played a crucial role in Ibrahim’s victory. A few of the glowing reviews Ibrahim received were;
+
+...
+
+[Data](articles/e5f58bc3.json)
+
+---
+
+### Thilan Wijesinghe contributes to global South Blue Economy at ORF’s Cape Town Conversation
+
+*2025-01-06 23:33:00* · [`islandlk`](http://island.lk/thilan-wijesinghe-contributes-to-global-south-blue-economy-at-orfs-cape-town-conversation/) · `en`
+
+Thilan Wijesinghe, Chairman of TWC Group recently addressed global policymakers and experts at the ORF Cape Town Conversation, recently held in Cape Town, South Africa. Co-hosted by the Observer Research Foundation (ORF) and the Thabo Mbeki Foundation (TMF), the event served as a critical platform for addressing pressing global South’s challenges, including the future of the Blue Economy. ORF – a globally renowned think tank based in India, has over the last 30 years evolved from primarily looking inward and engaging with domestic reforms, to gradually forging global partnerships. ORF today plays a seminal role in building political and policy consensus that enables the global south to interact with the world.
+
+...
+
+[Data](articles/90f73182.json)
+
+---
+
+### Professor H.A. de S. Gunasekera Memorial Oration 2025
+
+*2025-01-06 23:33:00* · [`islandlk`](http://island.lk/professor-h-a-de-s-gunasekera-memorial-oration-2025/) · `en`
+
+The Professor H.A. de S. Gunasekera Memorial Oration 2025 will be held on Friday January 10th, 2025 at 3:00 p.m. at the Senate Room, University of Peradeniya. The Oration will be delivered by Sumanasiri Liyanage, Former Associate Professor, Department of Economics and Statistics, University of Peradeniya, on the topic, “Contingence, Conjuncture and Structure: The Economic Crisis in Sri Lanka: A Political Economy Critique”
+
+...
+
+[Data](articles/a830350e.json)
+
+---
+
+### Dialog brings ‘The Future.Today’ to life as Sri Lanka’s first Drone Countdown takes flight
+
+*2025-01-06 23:28:00* · [`islandlk`](http://island.lk/dialog-brings-the-future-today-to-life-as-sri-lankas-first-drone-countdown-takes-flight/) · `en`
+
+Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, hosted the country’s first-ever New Year countdown drone show, marking a groundbreaking moment in celebration of the dawn of 2025. Held at Galle Face Green in collaboration with ITN’s 31st Night celebrations, this spectacular event illuminated the Colombo skyline with 400 drones, creating an awe-inspiring visual display visible within a 5-km radius.
+
+This iconic showcase, which drew over 150,000 live attendees and engaged over 12 million Sri Lankans, underscores Dialog’s dedication to bringing innovative experiences to life, true to its brand promise of ‘The Future.Today’. The event not only captivated audiences but also sparked widespread positive sentiment, organically generating hundreds of thousands of content pieces across media and community platforms.
+
+...
+
+[Data](articles/effb39f9.json)
+
+---
+
+### Share market sets ‘optimistic tone’ for 2025; economic growth seen to be in the offing
+
+*2025-01-06 23:26:00* · [`islandlk`](http://island.lk/share-market-sets-optimistic-tone-for-2025-economic-growth-seen-to-be-in-the-offing/) · `en`
+
+The Colombo Stock Exchange (CSE) has shown robust growth in 2024. With a 49.6 percent increase in the All Share Price Index and other positive developments, an optimistic tone has been set for 2025, Senior Vice President – Marketing for CSE Niroshan Wijesundere said.
+
+“A stable political environment, low interest rates, continuation of macroeconomic reforms under the IMF program, the country’s rating upgrade and debt restructuring are positive developments that will enable economic growth and instill investor confidence, Wijesundera told The Island Financial Review.
+
+“With a focus on inclusivity, ESG integration and digital transformation strategies, the CSE has plans to expand retail participation, attract foreign inflows, encourage IPO activity, diversify product range and develop market infrastructure, he said.
+
+“These efforts will strengthen Sri Lanka’s capital market as a driver of sustainable economic growth and broader wealth creation, Wijesudenra added.
+
+...
+
+[Data](articles/7ab429b0.json)
+
+---
 
 ### மேலும் இரண்டு வினாத்தாள்கள் வௌியாகியுள்ளன
 
@@ -1659,115 +1769,5 @@ Additionally, I had to schedule the large number of one on one meetings between 
 ...
 
 [Data](articles/e90d3baa.json)
-
----
-
-### රාජ්‍යතාන්ත්‍රික කටයුතු ගැන ජනාධිපති කාර්යාලයෙන් විශේෂ චක්‍රලේඛයක්
-
-*2025-01-06 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205081) · `si`
-
-විදෙස් රාජ්‍ය, ජාත්‍යන්තර සංවිධාන, ශ්‍රී ලංකාවේ පිහිටි විදේශීය දූත මණ්ඩලය සහ එතෙර පිහිටි ශ්‍රී ලංකා දූත මණ්ඩලය සමග රජයේ අමාත්‍යාංශ සහ ආයතන පවත්වනු ලබන අන්තර් ක්‍රියා සම්බන්ධව ජනාධිපති කාර්යාලය විශේෂ චක්‍රලේඛයක් නිකුත් කර තිබේ.
-
-අමාත්‍යංශ ලේකම්වරු, පළාත් ප්‍රධාන ලේකම්වරු, පළාත් ආණ්ඩුකාර ලේකම්වරු වෙත මෙම චක්‍රලේඛය නිකුත් කර තිබේ.
-
-එහි දක්වා ඇත්තේ පසුගිය ජනවාරි 01 වැනිදා සිට ක්‍රියාත්මක වන පරිදි කොළඹ නේවාසිකව සිටින තානාපතිවරු සහ දූත මණ්ඩල ප්‍රධානීන් විසින් මෙරට සංචාරයේ නිරතවන නියෝජිත කණ්ඩායම් සඳහා මෙරට අමාත්‍යවරු ප්‍රභූවරු සහ ජ්‍යෙෂ්ඨ නිලධාරීන් හමුවීමට සෘජුව වෙලාවක් වෙන් කර ගැනීම සිදුකරන ආකාරය සම්බන්ධව අවධානයට ලක්ව ඇති බවය.
-
-එම ක්‍රියාව පිළිගත් රාජ්‍ය තාන්ත්‍රික ක්‍රියාපටිපාටියට පටහැනි බැවින් මින් පසු එම නියෝජිත කණ්ඩායම් සඳහා අවශ්‍ය වැඩසටහන් සම්බන්ධයෙන් විදේශ කටයුතු විෂය භාර අමාත්‍යාංශයේ සන්ධාන අංශයට ප්‍රථමව දැනුම් දිය යුතු බවත් එහි සඳහන් ව තිබේ.
-
-ඒ අනුව සන්ධාන අංශය විසින් මෙරට බලධාරීන්ගෙන් ඒ සඳහා සුදුසු වේලාවක් වෙන් කර ගැනීමේ කටයුතු සිදුකරනු ඇති බවත් එහි සඳහන්ව ඇත.
-
-...
-
-[Data](articles/1ef7a017.json)
-
----
-
-### Speech writing for Mrs. B, mischievous Felix and 1965 general election
-
-*2025-01-06 14:59:00* · [`islandlk`](http://island.lk/speech-writing-for-mrs-b-mischievous-felix-and-1965-general-election/) · `en`
-
-Making speeches and preparing for them, was a constant occupational hazard for the prime minister and her staff. The international speeches were clearly the most important from a personal as well as country’s image-building point of view. Sirimavo gained immense credit from a statement she made in Belgrade at the Nonaligned Summit in 1961, when as the first woman prime minister of the world she used the phrase — As a woman and a mother, I call upon the nations of the world to desist from violence in their dealings with each other …’This phrase,was unique as no other world leader up to then could have used it, and was carried in headlines across the world giving Sirimavo and Ceylon a tremendous boost.
-
-...
-
-[Data](articles/5734d9cc.json)
-
----
-
-### A statesman and his stance on the merits, if any, of British colonialism
-
-*2025-01-06 14:57:00* · [`islandlk`](http://island.lk/a-statesman-and-his-stance-on-the-merits-if-any-of-british-colonialism/) · `en`
-
-I overcame the thought it was inauspicious to write about a death as Nan’s first column for the New Year. But it is a tribute to a great man and a life lived well and successfully, turning a huge country from economic depression to prosperity. Hence, presenting an inspiring human beacon to be followed to our country, now struggling to get out of economic difficulties with new leaders at the helm, is good. May there emerge statesmen from among them (of either gender) in the year 2025 and after.
-
-was born on September 26, 1932, to a Sikh trading family in Gah in the Punjab, which area fell within what is now Pakistan. His mother died when he was very young and he was brought up by his paternal grandmother. They moved during Partition in 1947 to Haldwani. His grandfather was brutally killed which traumatized him for life and thus his refusal to invitations to visit his birthplace.
-
-...
-
-[Data](articles/a2670a3d.json)
-
----
-
-### அரிசி வாங்க வரிசை; வெறுங்கையுடன் வெளியேறிய மக்கள்
-
-*2025-01-06 14:55:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வாங்க-வரிசை-வெறுங்கையுடன்-வெளியேறிய-மக்கள்/175-349863) · `ta`
-
-கிலோகிராம் ஒன்று 220 ரூபாய் என்ற கட்டுப்பாட்டு விலையில் நபர் ஒருவருக்கு ஐந்து கிலோகிராம் அரிசி  வழங்கப்பட்டது.
-
-காலை முதலே மக்கள் நீண்ட வரிசையில் நின்று அரிசி வாங்கியதுடன், குறைந்த அளவு அரிசியே விநியோகிக்கப்பட்டுள்ளது.
-
-அம்பலாந்தோட்டை நகரம் மற்றும் அதனை அண்மித்த பகுதிகளில் சிவப்பு அரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளதாகவும், சிலர் 265 ரூபாய் வரையில் விற்பனை செய்வதாக நுகர்வோர் விசனம் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/5f520ed0.json)
-
----
-
-### “தாக்கியவர்களை கைது செய்யாவிட்டால் உயிர் மாய்ப்பேன்”
-
-*2025-01-06 14:53:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்கியவர்களை-கைது-செய்யாவிட்டால்-உயிர்-மாய்ப்பேன்/175-349862) · `ta`
-
-யாழ்ப்பாணம் - உரும்பிராய் பகுதியில் உள்ள வெதுப்பகம் ஒன்றில் உணவு வாங்க வந்தவ கூலித் தொழிலாளி ஒருவர் நிலத்தில் விழுந்துகிடந்த தங்க ஆபரணத்தை எடுத்து வெதுப்பகத்தில் வழங்கிய நிலையில் இளைஞர் குழு அவரை கட்டிவைத்து தாக்கி வீடியோ காணொளி பதிவிட்டுள்ளது.
-
-உரும்பிராய் பகுதியில் அமைந்துள்ள வெதுப்பகம்  ஒன்றுக்கு சென்ற நிலையில், தங்க நகை போன்ற ஆபரணம் கீழே விழுந்து கிடப்பதை அவதானித்தேன்.
-
-அதனை எடுத்து அந்த வெதுப்பகத்தில் ஒப்படைத்ததுடன் அது தங்க ஆபரணமா என ஆராய்ந்து உரியவர்களிடம் ஒப்படையுங்கள் என கடந்த 24ஆம் திகதி வழங்கினேன்.
-
-இரண்டு நாட்கள் கடந்த நிலையில் குறித்த வீதியில் செல்லும்போது குறித்த  வெதுப்பகத்திற்கு சென்று நான் வழங்கிய ஆபரணத்தை உரியவரிடம் ஒப்படைத்தீர்களான கேட்டேன். அதற்கு அவர்கள் இன்னும் உரியவர்களிடம் ஒப்படைக்கவில்லை என கூறினர்.
-
-மீண்டும் இரண்டு நாட்கள் கழித்து குறித்த  வெதுப்பகத்துக்கு சென்ற நிலையில் அந்தப் பொருளை உரியவர்களிடம்  ஒப்படைத்தீர்களா? என கேட்ட நிலையில்  ஒப்படைக்கவில்லை என பதில் வழங்கினர்.
-
-இந்நிலையில் குறித்த பொருளைத் தாருங்கள் ஏதாவது சிறுவர் இல்லத்திற்கு அதை வழங்கி வைப்போம் என கேட்டேன்.
-
-...
-
-[Data](articles/bf809a21.json)
-
----
-
-### ஆபரண கண்காட்சியை பார்க்கச் சென்ற சஜித்
-
-*2025-01-06 14:49:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆபரண-கண்காட்சியை-பார்க்கச்-சென்ற-சஜித்/175-349861) · `ta`
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச 2025 சர்வதேச இரத்தினக்கற்கள் மற்றும் ஆபரண கண்காட்சியை பார்வையிட இன்று சென்றிருந்தார்.
-
-கொழும்பில் உள்ள சினமன் கிராண்ட் ஹோட்டலில் நடைபெற்ற இக்கண்காட்சியில் உள்ளூர் மாணிக்கக்கல் மற்றும் ஆபரண உற்பத்தியாளர்கள் மற்றும் பல வெளிநாடுகளைச் சேர்ந்த வடிவமைப்பாளர்கள் கலந்துகொண்டுள்ளனர்.
-
-◼️
-
-[Data](articles/46ba51a0.json)
-
----
-
-### World apart in time and space, they stood apart for honesty and high conduct
-
-*2025-01-06 14:49:00* · [`islandlk`](http://island.lk/world-apart-in-time-and-space-they-stood-apart-for-honesty-and-high-conduct/) · `en`
-
-Jimmy Carter, the 39th US President, died on Sunday, December 29, at the ripe old age of 100 years, in Plains, a small, rural town in Georgia, where he was born and lived his pre and post political life. Three days prior and across the world, Manmohan Singh, India’s 13th Prime Minister, passed away in New Delhi. Dr. Singh was 92 years old. Carter served as President for four years from 1977 to 1981, 23 years before Manmohan Singh began his two-term tenure (2004-2014) as India’s Prime Minister.
-
-...
-
-[Data](articles/b6e6c8c6.json)
 
 ---

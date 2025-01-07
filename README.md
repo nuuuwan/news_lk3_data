@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 18:05:01**
+As of **2025-01-07 18:24:56**
 
 ## Newspaper Stats
 
-*Scraped **64,143** Articles*
+*Scraped **64,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ economynextcom | 3,904
 islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
-adalk | 6,134
-adaderanalk | 7,840
+adalk | 6,136
+adaderanalk | 7,865
 tamilmirrorlk | 9,212
-virakesarilk | 10,701
-adaderanasinhalalk | 11,079
+virakesarilk | 10,714
+adaderanasinhalalk | 11,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.6%) of 64,143 articles have been extended.
+61,971 (96.5%) of 64,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### அரிசி பிரச்சினைக்கான தீர்வினையே நாமும் தேடிக் கொண்டிருக்கின்றோம் - அரசாங்கம்
+
+*2025-01-07 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203253) · `ta`
+
+அரிசி பிரச்சினைக்கான தீர்வினையே நாமும் தேடிக் கொண்டிருக்கின்றோம். எவ்வாறிருப்பினும் ஒரு இலட்சத்து 6000 மெட்ரிக் தொன்னுக்கும் அதிக அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. விரைவில் இரண்டு இலட்சம் மெட்ரிக் தொன்னும் அதிக உள்நாட்டு அரிசியும் சந்தைகளுக்கு விநியோகிக்கப்படும் என்று அமைச்சரவை பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+நாட்டிலுள்ள தரவுகள் தொடர்பில் பாரிய பிரச்சினைகள் காணப்படுகின்றன. தகவல்களுக்கிடையில் பரஸ்பர தன்மை காணப்படுகிறது. அவை சரியானவையாகவும் இல்லை. தற்போது வரை ஒரு இலட்சத்து 6000 மெட்ரிக் தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. செவ்வாயக்கிழமை (7) மேலும் 10 000 மெட்ரிக் தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. இறக்குமதி செய்யப்பட்ட 60 000 மெட்ரிக் தொன் நாட்டரிசியும் காணப்படுகிறது.
+
+...
+
+[Data](articles/84f552e1.json)
+
+---
+
+### President discusses challenges surrounding vehicle imports with officials
+
+*2025-01-07 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104810/president-discusses-challenges-surrounding-vehicle-imports-with-officials) · `en`
+
+President Anura Kumara Dissanayake has held an extensive discussion with officials from the Ministry of Finance today (07) at the Presidential Secretariat focusing on issues related to vehicle imports, withholding tax, and the digitalization of VAT collection.
+
+A significant portion of the discussion addressed the challenges surrounding vehicle imports into Sri Lanka, the President’s Media Division (PMD) said.
+
+The President emphasized the need for a well-balanced approach to address these concerns, taking into account the country’s financial constraints and economic priorities, the PMD mentioned.
+
+The President also highlighted the importance of establishing a mechanism to refund withholding taxes deducted from retirees who are not subject to income tax.
+
+...
+
+[Data](articles/e59ee563.json)
+
+---
+
+### මෝටර් රථ ආනයනය සම්බන්ධයෙන් ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
+
+*2025-01-07 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205138) · `si`
+
+කාර්යක්ෂමතාව සහ විනිවිදභාවය ඉහළ නැංවීම සඳහා එකතු කළ අගය මත බදු (වැට්) එකතු කිරීමේ ක්‍රියාවලීන් ඩිජිටල්කරණය කිරීමේ ඇති අවශ්‍යතාව පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා කරුණු පෙන්වා දී තිබේ.
+
+එමෙන්ම , බදු අනුකූලතාවය සහ ආදායම් ඉපැයීම වැඩිදියුණු කිරීමට අපේක්ෂා කරන විස්තීර්ණ ඩිජිටල් පද්ධතියක් කඩිනමින් ක්‍රියාත්මක කිරීමට සැලසුම් සකස් කරන බවද ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+ජනාධිපතිවරයා මේ බව පැවසුවේ මුදල් අමාත්‍යාංශයේ නිලධාරීන් සමග අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී පැවැති සාකච්ඡාවේදීය.
+
+මෙහිදී, මෝටර් රථ ආනයනය, රඳවා ගැනීමේ බදු සහ වැට් බදු එකතු කිරීම, ඩිජිටල්කරණය පිළිබඳ ගැටලු සම්බන්ධව අවධානය යොමු වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ශ්‍රී ලංකාවට වාහන ආනයනය කිරීමේදී මුහුණ දීමට සිදුවන අභියෝග පිළිබඳව මෙහිදී  විශේෂ අවධානය යොමු කර ඇති අතර, රට තුළ පවත්නා මූල්‍ය අර්බුදය සහ ආර්ථික ප්‍රමුඛතාවන් සැළකිල්ලට ගනිමින් මෙම ගැටලු විසඳා ගැනීමේ අවශ්‍යතාව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කර ඇත.
+
+...
+
+[Data](articles/c21a52a4.json)
+
+---
+
+### Indian PM Modi to visit Sri Lanka in 2025
+
+*2025-01-07 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104809/indian-pm-modi-to-visit-sri-lanka-in-2025) · `en`
+
+Prime Minister Narendra Modi will visit Sri Lanka within this year, the Indian High Commission in Colombo announced on Tuesday (07). However, the dates are yet to be decided by the two sides.
+
+“We are in the process of working out a propitious timing for the visit,” Santosh Jha, the Indian High Commissioner, told reporters.
+
+President Anura Kumara Dissanayake had extended the invitation to Modi during his two-day visit to New Delhi in mid-December.
+
+Dissanayake made India as his first destination after being elected president in September.
+
+Indian External Affairs Minister Dr S Jaishankar was the first foreign dignitary to visit Colombo soon after Dissanayake took charge.
+
+Prime Minister Modi visited Sri Lanka twice between 2015 and 2017.
+
+Dissanayake is due to visit China soon.  The Cabinet Spokesman announced today that he is scheduled to embark on the official visit to China from January 14 to January 17, 2025.
+
+◼️
+
+[Data](articles/d780bc45.json)
+
+---
+
+### அருண் விஜய் நடிக்கும் 'வணங்கான்' பட பாடலின் காணொளி வெளியீடு
+
+*2025-01-07 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/203242) · `ta`
+
+தமிழ் திரையுலகில் கடுமையாக போராடி முன்னணி நட்சத்திர நடிகராக உயர்ந்திருக்கும் அருண் விஜய் வித்தியாசமான தோற்றத்தில் நடித்திருக்கும் ' வணங்கான் 'எனும் திரைப்படத்தில் இடம்பெற்ற ' முகிலின் மேலே..' எனத் தொடங்கும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+முத்திரை பதித்த படைப்பாளி பாலா இயக்கத்தில் உருவாகி வரும் 'வணங்கான் 'எனும் திரைப்படத்தில் அருண் விஜய், ரோஷினி பிரகாஷ்,  சமுத்திரக்கனி, ஜான் விஜய் , மிஷ்கின், ராதா ரவி ,ரிதா ,சாயா தேவி, சிங்கம் புலி, ரவி மரியா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஆர். பி. குரு தேவ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ.வி. பிரகாஷ் குமார் மற்றும் சாம் சி. எஸ். ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை பி ஸ்டுடியோஸ் மற்றும் வி ஹவுஸ் புரொடக்ஷன் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/78a86ba3.json)
+
+---
 
 ### இளைஞன் மீது கொலைவெறி தாக்குதல்: மூவர் கைது
 
@@ -49,6 +141,80 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/66773273.json)
+
+---
+
+### 2025 இந்தியத் திரைப்பட விழா இலங்கையில் ஆரம்பம்
+
+*2025-01-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/203241) · `ta`
+
+இந்தியத் திரைப்பட விழா 2025 இலங்கையில் ஆரம்பம் இந்தியத் திரைப்பட விழா 2025, பொலிவூட் வெற்றித் திரைப்படமான “83” கொழும்பில் உள்ள பி.வி.ஆர் சினிமாவில் 2025 ஜனவரி 06 ஆம் திகதி திரையிடப்பட்டு இளைஞர் விவகாரம் மற்றும் விளையாட்டுத் துறை அமைச்சர் சுனில் குமார கமகே மற்றும் இலங்கைக்கான இந்திய உயர் ஸ்தானிகர் சந்தோஷ் ஜா ஆகியோரால் ஆரம்பித்துவைக்கப்பட்டது.
+
+கிரிக்கட் உலகக் கிண்ணத்தினை 1983 ஆம் ஆண்டில் இந்தியா வெற்றிகொண்ட வரலாற்று முக்கியத்துவமிக்க வெற்றியினை விவரிக்கும் இத்திரைப்படத்தை பார்வையிட நூற்றுக்கணக்கான ரசிகர்களும் ஆர்வலர்களும் கலந்துகொண்ட அதேவேளை, 1996 இலங்கை கிரிக்கட் ஜாம்பவான்கள் விசேட விருந்தினர்களாக பங்கேற்று சிறப்பித்திருந்தனர்.
+
+இந்நிகழ்வில் கலந்துகொண்டிருந்த அமைச்சர் சுனில் குமார கமகே அவர்கள், விளையாட்டுத்துறைக்கு முக்கியத்துவமளித்து இந்தியத் திரைப்படங்கள் வழங்கும் வகிபாகத்தினை சுட்டிக்காட்டியதுடன் இந்திய திரைப்படத் துறையினை மெச்சியிருந்தார்.
+
+...
+
+[Data](articles/664482d6.json)
+
+---
+
+### 90% of compensation for 2024 ‘Yala’ season released
+
+*2025-01-07 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104808/90-of-compensation-for-2024-yala-season-released) · `en`
+
+The Agricultural and Agrarian Insurance Board says that around 90% of the compensation payments for the crop damage in the 2024 ‘Yala’ season have been disbursed.
+
+Chairman of the board, Pemasiri Jasingarachchi, stated that the compensation due to the eligible farmers is being credited directly to their bank accounts.
+
+As of now, Rs. 100 million has been allocated as compensation for a total of 6,459 farmers, covering 5,246 acres of crop damage.
+
+Jasingarachchi further noted that farmers whose compensation has not yet been credited, despite their payments being officially recommended, are encouraged to submit appeals.
+
+Efforts are also underway to release compensation payments in districts where the process remains incomplete, ensuring all eligible farmers receive their dues promptly, he said.
+
+◼️
+
+[Data](articles/4086b166.json)
+
+---
+
+### வாகன இறக்குமதிகள் அதிகரித்தாலும் கையிருப்புக்குப் பாதிப்பு ஏற்படாது - மத்திய வங்கி ஆளுநர்
+
+*2025-01-07 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/203235) · `ta`
+
+வருடமொன்றில் வாகன இறக்குமதிகள் 1.5 பில்லியன் டொலர்களாக உயர்வடைந்தாலும், அதனால் நாட்டின் கையிருப்புக்கோ அல்லது கடன் மீள்செலுத்துகைக்கோ பாதிப்பு ஏற்படாது என இலங்கை மத்திய வங்கி ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க உத்தரவாதமளித்துள்ளார்.
+
+தனியார் தொலைக்காட்சி அலைவரிசையொன்றுக்கு வழங்கியிருக்கும் நேர்காணலில் மேற்கண்டவாறு தெரிவித்திருக்கும் ஆளுநர் நந்தலால் வீரசிங்க, இந்த வாகன இறக்குமதிகள் நடைமுறைக்கணக்கு மீதியில் மிகச்சொற்பளவு பற்றாக்குறையைத் தோற்றுவித்தாலும், கடந்த காலங்களைப்போன்று மிகையான பற்றாக்குறையைத் தோற்றுவிக்காது எனச் சுட்டிக்காட்டியுள்ளார்.
+
+அதன்படி கடன்மறுசீரமைப்பு செயன்முறை முழுமையாகப் பூர்த்தியடைந்ததன் பின்னர் வாகன இறக்குமதிகள் 1.5 பில்லியன் டொலர் வரை உயர்வடைந்தாலும், அரசாங்கத்தினால் கையிருப்பைப் பேணவும், அவசியமான மீள்செலுத்துகைகளை மேற்கொள்வதற்கும், அரச வருமானத்தை அதிகரித்துக்கொள்வதற்கும் இயலும் என்றும் ஆளுநர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/76d976ea.json)
+
+---
+
+### නීතිවිරෝධීව කොරියාවේ සිටින පිරිස් ගෙන්වීමට පියවර
+
+*2025-01-07 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205137) · `si`
+
+නියමිත වීසා කාලය අවසන්ව දකුණු කොරියාවේ නීතිවිරෝධීව රැඳි සිටින ශ්‍රමිකයින් මෙරටට ගෙන්වීමට වහාම අවශ්‍ය පියවර ගන්නා බව ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ සභාපති කෝෂල වික්‍රමසිංහ මහතා අවධාරණය කරයි.
+
+ඔහු පැවසුවේ, එසේ නීතිවිරෝධිව රැඳි සිටින පුද්ගලයින්ගේ තොරතුරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ඉදිරිපත් කර අවශ්‍ය නීතිමය පියවර ගන්නා බවය.
+
+රැකියා සඳහා යොමුවන පිරිසගේ ක්‍රියාකලාපයන් හේතුවෙන් ඉදිරියේදී මෙරටට ලැබෙන රැකියා කෝටාව තීරණය වන බැවින් නියමිත වීසා කාලය අවසන් වී ඇත්නම් නීතිවිරෝධීව දකුණු කොරියාවේ රැඳි නොසිටින ලෙසට ඒ මහතා ඉල්ලා සිටියේය.
+
+ඔහු මේ බව පැවසුවේ දකුණු කොරියාවේ රැකියා සඳහා අද (07) පිටත්ව යන ලාංකිකයින් 96 දෙනෙකු සඳහා ගුවන් ටිකට්පත් පිරිනැමීමේ අවස්ථාවට කාර්යාංශයේදී එක්වෙමිනි.
+
+ඔවුන් මේ වසරේ දකුණු කොරියාවේ නිශ්පාදන ක්ෂේත්‍රයේ රැකියා සඳහා පිටත්ව යන පළමු කණ්ඩායමයි.
+
+එමෙන්ම, 2025 වසරේ ශ්‍රී ලාංකිකයින් 8,000 ට ආසන්න පිරිසකට දකුණු ‍කොරියානු රැකියා අවස්ථා ලබාදීමට පියවර ගන්නා බව ද ඒ මහතා පැවසීය.
+
+...
+
+[Data](articles/f57285e2.json)
 
 ---
 
@@ -84,6 +250,46 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனா தொடர்பில் ஆராய குழுவொன்றை அமைப்பதற்கு தீர்மானம் - சபாநாயகர்
+
+*2025-01-07 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/203226) · `ta`
+
+பாராளுமன்ற   உறுப்பினர்  இராமநாதன்  அர்ச்சுனா  தொடர்பில் ஆராய   குழுவொன்றை அமைப்பதற்கு  தீர்மானித்துள்ளதாக சபாநாயகர் ஜகத் விக்கிரமரத்ன  சபைக்கு அறிவித்தார்.
+
+பாராளுமன்றம் செவ்வாய்க்கிழமை (07) காலை 9.30  சபாநாயகர் ஜகத் விக்கிரமரத்ன தலைமையில் கூடியது இதன்போது  பாராளுமன்ற  உறுப்பினர்  இராமநாதன்  அர்ச்சுனா முன்வைத்த ஒழுங்குப்பிரச்சினை,  மற்றும் எதிர்க்கட்சிகளின்  பிரதம கொறடாவான கயந்த கருணாதிலக்க முன்வைத்த  கருத்து தொடர்பில் பதிலளிக்கையிலேயே சபாநாயகர் இவ்வாறு தெரிவித்தார்.
+
+ஒழுங்கு பிரச்சனையை முன்வைத்து உரையாற்றிய  பாராளுமன்ற உறுப்பினர் அர்ச்சுனா  ,  எனக்கு சபையில் உரையாற்ற  நேரம் ஒதுக்கப்படுவதில்லை.
+
+டிசம்பர் 18ஆம் திகதி எனது சிறப்புரிமை மீறல் சம்பந்தமாக சபாநாயகரிடம் கூறியுள்ளேன். ஆனால் இன்று வரையில் அதற்கு பதிலளிக்கப்படவில்லை. ஜனவரி 7ஆம் திகதியான இன்று வரையில் உரையாற்ற எனக்கு நேரம் ஒதுக்கப்படவில்லை.
+
+...
+
+[Data](articles/6409adc2.json)
+
+---
+
+### Stray dog first to cross border as Romania, Bulgaria join Schengen Zone
+
+*2025-01-07 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104807/stray-dog-first-to-cross-border-as-romania-bulgaria-join-schengen-zone) · `en`
+
+When Bulgaria and Romania finally joined the Schengen Area, marking the end of border checks, a historic moment unfolded at the border. Officials gathered to celebrate the milestone, commemorating the first time crossings could happen freely between the two nations.
+
+But it wasn’t a dignitary or a vehicle that made the inaugural crossing—it was an unexpected traveller.
+
+A stray dog, seemingly unaware of the fanfare, trotted across the border as the checkpoint lifted, becoming the first to step into this new era of open movement.
+
+The moment, captured in a now-viral video, showed the dog casually making its way across while the assembled officials broke into applause and cheers.
+
+One user wrote, “I need this welcome every time I cross a border.” Another user quipped, “He shall be named King of Romania.”
+
+A third user commented, “The good boy knew what he was doing.” A fourth person added, “Most positive thing I’ve seen today.”
+
+...
+
+[Data](articles/c9faac20.json)
+
+---
+
 ### ජපානයෙන් ලංකාවට සුබ ආරංචියක්
 
 *2025-01-07 16:31:50* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-සුබ-ආරංචියක්/11-414070) · `si`
@@ -101,6 +307,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/23212fad.json)
+
+---
+
+### තවත් කොටසකට රු 6000ක දීමනාව ලැබෙයි
+
+*2025-01-07 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205136) · `si`
+
+සිසුන් 300ට අඩු සියලුම පාසල්වල, අස්වැසුම ප්‍රතිලාභය හිමි නොවන සිසුන්ට පාසල් උපකරණ ලබාගැනීම සඳහා වන රුපියල් 6,000ක දීමනාව ලබාදීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවී තිබේ.
+
+එමෙන්ම ළමා සංවර්ධන මධ්‍යස්ථානවල සිටින ළමුන්ට සහ පිරිවෙන්වල ඉගෙනුම ලබන ගිහි පැවිදි සිසුන් සඳහා ද එම දීමනාව ලබාදීමට තීරණය කර ඇත.
+
+අධ්‍යාපන අමාත්‍යවරයා ලෙස අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය විසින් ඉදිරිපත් කළ යෝජනාවට මෙලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවූ බව  කැබිනට් ප්‍රකාශන අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අද (07) පැවසීය.
+
+ඒ අනුව,  දිවයින පුරා පිහිටි සමස්ත පාසල් 10,096ක් අතුරින් ළමුන් සංඛ්‍යාව 300ට අඩු පාසල් 6,576ක අස්වැසුම ප්‍රතිලාභී නොවන පවුල්වල සියලුම ළමුන්ට, ළමා සංවර්ධන මධ්‍යස්ථානවල සිට පාසල් වෙත පැමිණෙන ළමුන්ට සහ පිරිවෙන්වල ඉගෙනුම ලබන ගිහි පැවිදි සිසුන්ට රුපියල් 6,000/- ක් බැගින් වූ ලිපිද්‍රව්‍ය දීමනාව හිමිවෙයි.
+
+◼️
+
+[Data](articles/b4aca85b.json)
 
 ---
 
@@ -124,6 +348,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Sri Lanka agrees to further support “One China Policy”
+
+*2025-01-07 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104806/sri-lanka-agrees-to-further-support-one-china-policy) · `en`
+
+Sri Lanka’s Cabinet of Ministers has granted approval for the continuation of supporting the “One China Policy”.
+
+Speaking during today’s (07) Cabinet press conference, Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that the Sri Lankan Government has consistently followed the “One China Policy”, which means that it recognizes only the People’s Republic of China as the legitimate China and that Taiwan an inalienable part of China.
+
+Accordingly, the Cabinet’s approval has been granted to the submission made by the Minister of Foreign Affairs, Foreign Employment and Tourism that the Sri Lankan Government will continue to follow the said policy and act accordingly.
+
+◼️
+
+[Data](articles/5a94cd9c.json)
+
+---
+
 ### பணிப்புறக்கணிப்புக்கு தயாராகும் தனியார் பஸ் உரிமையாளர்கள்
 
 *2025-01-07 16:04:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்புக்கு-தயாராகும்-தனியார்-பஸ்-உரிமையாளர்கள்/175-349925) · `ta`
@@ -139,6 +379,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f077d06a.json)
+
+---
+
+### கவனம் ஈர்க்கும் விஷாலின் 'மத கஜ ராஜா' படத்தின் முன்னோட்டம்
+
+*2025-01-07 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/203232) · `ta`
+
+தமிழின் நட்சத்திர நடிகரான விஷால் கதையின் நாயகனாக நடித்திருக்கும் 'மத கஜ ராஜா' எனும் திரைப்படத்தின் முன்னோட்டம் மீண்டும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநரும், நடிகருமான சுந்தர் .சி இயக்கத்தில் உருவான 'மத கஜ ராஜா' எனும் திரைப்படத்தில் விஷால், அஞ்சலி, வரலட்சுமி சரத்குமார், சந்தானம், சோனு சூட் ,நிதின் சத்யா, சடகோபன் ரமேஷ், ராஜேந்திரன், அஜய் ரத்தினம், சுதா, சுவாமிநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+இவர்களுடன் மறைந்த தமிழ் திரை நட்சத்திரங்களான மணிவண்ணன் ,மனோபாலா, மயில்சாமி ,சிட்டிபாபு ,சீனு மோகன், ஆகியோர்களும் இந்த திரைப்படத்தில் நடித்திருக்கிறார்கள். ரிச்சர்ட் எம். நாதன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு விஜய் அண்டனி இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜெமினி பிலிம் சர்க்யூட் நிறுவனம் தயாரித்திருக்கிறது.
+
+கடந்த 2013 ஆம் ஆண்டில் இப்படத்தின் பணிகள் அனைத்தும் நிறைவடைந்து வெளியீட்டிற்காக தயாரானது. ஆனால் பல்வேறு நிதி சிக்கல் காரணமாக இந்த திரைப்படம் திட்டமிட்டபடி வெளியாகவில்லை.
+
+...
+
+[Data](articles/798811f4.json)
 
 ---
 
@@ -160,6 +418,196 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Starlink පැකේජ සඳහා TRCSL අනුමැතිය
+
+*2025-01-07 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205135) · `si`
+
+‘Starlink’ Lanka (Private) Ltd හරහා ක්‍රියාත්මක කිරීමට නියමිත ‘Starlink’ චන්ද්‍රිකා බ්‍රෝඩ්බෑන්ඩ් අන්තර්ජාල සේවාවේ පැකේජ සඳහා ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාව විසින් අනුමැතිය ලබා දී තිබේ.
+
+ඒ අනුව, අවමය මසකට රුපියල් 9,200 සිට උපරිමය රුපියල් මිලියන 1.8 ක් දක්වා වන පැකේජ 5කට අනුමැතිය හිමිව ඇත.
+
+◼️
+
+[Data](articles/210f23b4.json)
+
+---
+
+### ஏப்ரலில் வெளியாகும் அஜித் குமார் நடிக்கும் 'குட் பேட் அக்லி'
+
+*2025-01-07 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/203220) · `ta`
+
+அஜித் குமார் நடிப்பில் உருவாகி வரும் 'குட் பேட் அக்லி' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக பிரத்யேக புகைப்படத்துடன் அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநரும், நடிகருமான ஆதிக் ரவிச்சந்திரன் இயக்கத்தில் உருவாகி வரும் ' குட் பேட் அக்லி ' எனும் திரைப்படத்தில் அஜித் குமார், திரிஷா, பிரபு ,பிரசன்னா ,அர்ஜுன் தாஸ், சுனில், ராகுல் தேவ் ,யோகி பாபு உள்ளிட்ட பலர் நடித்து வருகிறார்கள். அபிநந்தன் ராமானுஜம் ஒளிப்பதிவு செய்து வரும் இந்த திரைப்படத்திற்கு 'இசை அசுரன்' ஜீ. வி. பிரகாஷ் குமார் இசையமைக்கிறார். எக்சன் கொமடி ஜேனரில் தயாராகும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் டி சிரீஸ் பிலிம்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரிக்கிறது.
+
+இந்த திரைப்படத்தின் படப்பிடிப்பு பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்தத் தருணத்தில் இந்த திரைப்படம் எதிர்வரும் ஏப்ரல் மாதம் பத்தாம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் அறிவித்துள்ளனர்.
+
+...
+
+[Data](articles/e06bdf67.json)
+
+---
+
+### 14 ஆம் திகதி ஜனாதிபதி சீனாவுக்கு விஜயம்
+
+*2025-01-07 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/203230) · `ta`
+
+இதனை இன்று செவ்வாய்க்கிழமை (07) அமைச்சரவை பேச்சாளர் அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/cf32b96f.json)
+
+---
+
+### 2024 යල කන්නයේ වන්දි ගෙවීම්වලින් 90%ක් අවසන්
+
+*2025-01-07 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205134) · `si`
+
+2024 යල කන්නයේ වන්දි ගෙවීම්වලින් 90%ක් මේ වනවිට නිදහස් කර අවසන් බව කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය පවසයි.
+
+එහි සභාපති පේමසිරි ජාසිං ආරච්චි මහතා පෙන්වා දෙන්නේ ඒ අනුව නිර්දේශිත වූ ගොවීන්ට හිමි වන්දි මුදල් ඔවුන්ගේ ගිණුම්වලට බැර කිරීමට පියවර ගෙන ඇති බවය.
+
+ඒ යටතේ මේ වනවිට ගොවීන් 6,459 දෙනෙකු සඳහා අක්කර 5,246ක් වෙනුවෙන් රුපියල් මිලියන 100ක මුදලක් නිදහස් කර ඇති අතර වගා හානි නිර්දේශිත වීමෙන් පසු වන්දි මුදල් ගිණුම් ගත නොවූ ගොවීන් වේ නම් ඒ පිළිබඳව අභියාචනා කිරීමට ඔවුන්ට අවකාශ පවතී.
+
+ගෙවා අවසන් නොකළ දිස්ත්‍රික්වල වන්දි මුදල කඩිනමින් නිදහස් කිරීමට කටයුතු කෙරෙමින් ඇති බවත් කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලයේ සභාපති පේමසිරි ජාසිං ආරච්චි මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/d5e95946.json)
+
+---
+
+### TRCSL approves tariff plans for ‘Starlink’
+
+*2025-01-07 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104804/trcsl-approves-tariff-plans-for-starlink) · `en`
+
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has approved the tariff plans for ‘Starlink’ satellite broadband services to be implemented through ‘Starlink’ Lanka (Private) Ltd.
+
+Accordingly, the TRCSL has granted approval for five ‘Starlink’ packages ranging from Rs. 9,200 per month to Rs. 1.8 million per month.
+
+Customer subscribes to a 1 TB,2 TB or 6 TB monthly data plan, with an additional charge of
+
+125.58/GB for Priority data above the subscribed levels as set forth in the Starlink Fair Use Policy.
+
+738.71/GB of priority data above those levels as set forth in the Starlink Fair Use Policy.
+
+Validity period of the Plan: The Plan commences on the earlier of
+
+automatically upon 30 days after shipment of kit to the customer. If a customer chooses to, they can reach out to Starlink customer service and ask for kit to not be automatically activated after 30 days of shipment. Customer may cancel service at any time with no early termination fee.
+
+...
+
+[Data](articles/8bcac161.json)
+
+---
+
+### නුවරඑළියේ අක්ෂි සැත්කම්වලින් ගැටලුවට පත්වූ 17ට වන්දි
+
+*2025-01-07 15:27:41* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියේ-අක්ෂි-සැත්කම්වලින්-ගැටලුවට-පත්වූ-17ට-වන්දි/11-414062) · `si`
+
+නුවරඑළය රෝහලේදී අක්ෂි සැත්කම් වලට භාජනය වීමෙන් අනතුරුව අන්ධභාවයට පත්වූ රෝගීන්ට රුපියල් ලක්ෂ 2.5 සිට රුපියල් ලක්ෂ 10ක් දක්වා වන්දි ප්‍රදානය කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
+
+ගැටලුකාරී තත්ත්වයට පත්වූ රෝගීන් 17ක් වෙනුවෙන් මෙම වන්දි මුදල් ලබාදීමෙන් අනතුරුව ඔවුන් සම්බන්ධයෙන් පසු විපරම් කිරීමටද නියමිතය.
+
+එසේම අදාළ බාල ඖෂධ සැපයුම් කළ සැපයුම්කරුවන්ට එරෙහිව නීතිමය පියවර ගැනීමටද කැබිනට් මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+
+◼️
+
+[Data](articles/8459ec95.json)
+
+---
+
+### President Dissanayake to visit China next week
+
+*2025-01-07 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104803/president-dissanayake-to-visit-china-next-week) · `en`
+
+President Anura Kumara Dissanayake is scheduled to embark on an official visit to China from January 14 to January 17, 2025.
+
+This was confirmed by Cabinet Spokesman, Minister Dr. Nalinda Jayatissa, in response to a question raised by a journalist during today’s (06) Cabinet press briefing.
+
+Furthermore, the Minister stated that Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnyake will accompany the President for the visit.
+
+Dissanayake’s first overseas visit as head of state was to neighbouring India, where he was given a red-carpet welcome by Prime Minister Narendra Modi on December 16.
+
+◼️
+
+[Data](articles/59e99c62.json)
+
+---
+
+### Sri Lanka to export poultry to China
+
+*2025-01-07 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104802/sri-lanka-to-export-poultry-to-china) · `en`
+
+The Cabinet of Ministers has greenlighted the signing of a protocol for the export of poultry products from Sri Lanka to China.
+
+Accordingly, it has been agreed to sign an agreement between the two countries, including inspection, quarantine and health requirements, to facilitate the export of poultry products from Sri Lanka to China, with the intervention of the Chinese Customs Administration, in accordance with a specific procedure.
+
+The proposal related to the purpose submitted by the Minister of Agriculture, Livestock, Lands and Irrigation for the signing of the said agreement between the Chinese Customs Administration and his Ministry has received the Cabinet approval.
+
+◼️
+
+[Data](articles/dd5f6647.json)
+
+---
+
+### அரசாங்க நிதிக்குழுவுக்கு உறுப்பினர்கள் நியமனம்
+
+*2025-01-07 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/203217) · `ta`
+
+அரசாங்க நிதிக் குழுவுக்கு புதிய உறுப்பினர்கள் நியமிக்கப்பட்டுள்ளதாக சபாநாயகர் ஜகத் விக்ரமரத்ன தெரிவித்தார்.
+
+புதிய வருடத்தின் முதலாவது பாராளுமன்ற அமர்வு  இன்று செவ்வாய்க்கிழமை (07) காலை செவ்வாய்க்கிழமை சபாநாயகர் ஜகத் விக்ரமரத்ன தலைமையில் கூடியது. பிரதான நடவடிக்கையாக சபாநாயகரின் அறிவிப்பு இடம்பெற்றது.
+
+அதன்போதே அரசாங்க நிதிக்குழுவுக்கு பின்வரும் உறுப்பினர்கள் தெரிவு செய்யப்படுள்ளதாக சபாநாயகர் சபைக்கு அறிவிப்பு செய்தார்.
+
+அதற்கிணங்க பாராளுமன்ற உறுப்பினர்களான  சாணக்கியன் ராசமாணிக்கம்,சதுரங்க அபேசிங்க, கலாநிதி கௌசல்யா ஆரியரத்ன, அர்கம் இல்யாஸ் ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
+
+இதேவேளை,அரசாங்க நிதிக் குழுவின் தலைவராக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா ஏற்கனவே நியமிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கதாகும்.
+
+◼️
+
+[Data](articles/8c66b653.json)
+
+---
+
+### ජනපතිගේ චීන සංචාරය 14 වනදා සිට 17 දක්වා
+
+*2025-01-07 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205133) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ චීන නිල සංචාරය එළඹෙන 14 වනදා සිට 17 වනදා දක්වා සිදු කිරීමට නියමිතය.
+
+අද (07) පැවැති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඒ බව පැවසීය.
+
+චීන සංචාරය සඳහා අමාත්‍යවරුන් වන බිමල් රත්නායක සහ විජිත හේරත් යන මහත්වරුන් ද එක්වීමට නියමිත බවද අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
+
+මේ අතර “එක් චීනයක් ප්‍රතිපත්තිය” සම්බන්ධයෙන් විදේශ රැකියා සහ සංචාරක අමාත්‍යවරයා විසින් ඉදිරිපත් කරන ලද කරුණු දැක්වීම සඳහා අමාත්‍ය මණ්ඩලයේ එකඟතාව ලබාදීමට ද තීරණය කරන ලදි.
+
+ඒ අනුව, ශ්‍රී ලංකා රජය “එක් චීනයක් ප්‍රතිපත්තිය” අඛණ්ඩව අනුගමනය කර ඇති අතර, එමඟින් නීත්‍යානුකූල චීනය ලෙස මහජන චීන සමූහාණ්ඩුව පමණක් පිළිගන්නා බවත්, තායිවානය චීනයේ එක් පළාතක් ලෙස පමණක් පිළිගන්නා බවත් අදහස් කරනු ලබයි.
+
+ශ්‍රී ලංකා රජයේ එකී ප්‍රතිපත්තිය ඵ් අයුරින්ම තවදුරටත් අනුගමනය කරමින් ඊට අනුගතව කටයුතු කරනු ඇති.
+
+◼️
+
+[Data](articles/c7e01c7c.json)
+
+---
+
+### Special announcement on stationery allowance for school children
+
+*2025-01-07 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104801/special-announcement-on-stationery-allowance-for-school-children-) · `en`
+
+The government has decided to provide the school stationery allowance granted for the children of “Aswesuma” beneficiaries to all children in 6,576 schools with less than 300 students who are from families that are not beneficiaries of the welfare scheme, children living in Child Development Centers and both lay and monastic students in all ‘Pirivenas’ across the island.
+
+Announcing the Cabinet decisions today (07), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that steps have already been taken to provide an allowance of Rs. 6,000 each to schoolchildren from “Aswesuma” beneficiary families to access school stationery.
+
+...
+
+[Data](articles/4505c8fd.json)
+
+---
+
 ### රජයෙන් ඉවතලන කඩදාසි වාලච්චේන කඩදාසි කම්හලට
 
 *2025-01-07 15:08:40* · [`adalk`](https://www.ada.lk/breaking_news/රජයෙන්-ඉවතලන-කඩදාසි-වාලච්චේන-කඩදාසි-කම්හලට/11-414060) · `si`
@@ -176,6 +624,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### New District Secretary appointed for Trincomalee
+
+*2025-01-07 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104800/new-district-secretary-appointed-for-trincomalee) · `en`
+
+The Additional Director General of the Department of Fisheries and Aquatic Resources, W.G.M. Hemantha Kumara has been appointed to the post of District Secretary of Trincomalee.
+
+The appointment of Mr. Kumara, a Special Grade Officer of the Sri Lanka Administrative Service, has received the approval of the Cabinet on Monday (06).
+
+The post of District Secretary Trincomalee fell vacant due to the appointment of Chaminda Hettiarachchi, who was the District Secretary of the Trincomalee Administrative District, to the post of Director General of the Department of Pensions with effect from 01 January 2025.
+
+◼️
+
+[Data](articles/f18030b6.json)
+
+---
+
 ### பதாகையால் பரபரப்பு
 
 *2025-01-07 15:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பதாகையால்-பரபரப்பு/73-349921) · `ta`
@@ -187,6 +651,116 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/58da28c1.json)
+
+---
+
+### பொறியியலின் அதிசயம்... அடல் சேது பாலம்
+
+*2025-01-07 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/203223) · `ta`
+
+கடந்த வாரம் (29-12-2024)  ஞாயிற்றுக்கிழமை பத்திரிகையில் 'தொழினுட்பத்தில் புரட்சி, வியக்க வைக்கும் இந்தியா" என்ற தலைப்பில் வெளியான கட்டுரையின் தொடர்ச்சியே இது.
+
+இந்தியாவில் புரட்சியை ஏற்படுத்தியுள்ள டிஜிட்டல் பணப் பரிமாற்ற சேவை தொடர்பாக கடந்தவார கட்டுரையில் விரிவாக ஆராயப்பட்டது.
+
+இந்நிலையில் இந்தவாரக் கட்டுரையில் தொழினுட்பத்தை பயன்படுத்தி கட்டுமானத்துறையில், இந்தியா செய்துள்ள சாதனை தொடர்பாக ஆராய உள்ளோம்.
+
+இந்திய வெளிவிவகார அமைச்சின் அநுசரணையுடன் 'இந்தியாவை பற்றி அறிந்து கொள்வோம்" என்ற நிகழ்சியில் நாம் சென்று பார்வையிட்ட முக்கிய இடமாக அடல் சேது பாலம் காணப்பட்டது.
+
+விந்தைகள் பல செய்யும் தொழினுட்ப உலகில் ஒவ்வொரு நாடுகளும் ஏதோ ஒரு பாதையில் பயணித்துக்கொண்டிருக்கும் நிலையில் இந்தியாவின் சில கட்டுமாணப்பணிகளானது பிரமிக்க வைக்கின்றன.
+
+இதனை பறைசாற்றும் வகையில் மும்பையில் அமைந்துள்ள அடல் சேது பாலமானது பார்ப்பவர்களுக்கு பிரமாண்டத்தை ஏற்படுத்துகின்றது.
+
+...
+
+[Data](articles/fc2c36ca.json)
+
+---
+
+### Japan pledges continuous financial and technical assistance to Sri Lanka
+
+*2025-01-07 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104799/japan-pledges-continuous-financial-and-technical-assistance-to-sri-lanka) · `en`
+
+The Japan International Cooperation Agency (JICA) will continue its financial and technical assistance to Sri Lanka without interruption, says the Senior Vice President of JICA, HARA Shohei.
+
+This assurance was revealed during a meeting held today (07) at the Presidential Secretariat between President Anura Kumara Disanayake and HARA Shohei, the President’s Media Division (PMD) reported.
+
+During the discussion, attention was drawn to the on-going development work at the Bandaranaike International Airport in Katunayake, which is being carried out under Japanese aid.
+
+It was highlighted that all projects initiated in Sri Lanka under JICA support are planned to be expedited and completed efficiently, the PMD added.
+
+Mr. HARA Shohei also reaffirmed JICA’s commitment to extending financial support to Sri Lanka in the future, similar to the assistance provided during the country’s debt restructuring process
+
+...
+
+[Data](articles/5163df67.json)
+
+---
+
+### Eye surgery complications at N’Eliya Hospital: Compensation up to Rs. 1M for patients
+
+*2025-01-07 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104798/eye-surgery-complications-at-neliya-hospital-compensation-up-to-rs-1m-for-patients) · `en`
+
+Cabinet Spokesman, Minister Dr. Nalinda Jayatissa revealed the method of granting compensation to 17 patients who had developed complications after undergoing cataract surgery at the Nuwara Eliya District Hospital.
+
+Speaking during the Cabinet press conference, Dr. Jayatissa stated that accordingly, a compensation of Rs. 1,000,000 each will be paid to 12 patients, Rs. 750,000 each to 02 patients, Rs. 700,000 for one patient and Rs. 250,000 each for 02 other patients.
+
+The Minister further explained that during the Cabinet meeting held on 12 February 2024, approval had been granted to the appointment of a Technical Committee to determine the amount of compensation to be paid to the victims.
+
+Accordingly, a Committee has been appointed under the chairmanship of an Additional Secretary to the Ministry of Health, and the said Committee has studied the relevant matters and submitted its recommendations on the compensation to be paid.
+
+...
+
+[Data](articles/6086c93f.json)
+
+---
+
+### ඇස්වලට හානි වූ රෝගීන්ට ලබාදෙන වන්දි මුදල් ප්‍රමාණය මෙන්න
+
+*2025-01-07 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205132) · `si`
+
+නුවරඑළිය දිස්ත්‍රික් මහ රෝහලේදී අක්ෂි ශල්‍යකර්මවලට භාජනය වූ රෝගීන් කිහිපදෙනෙකුගේ දෘෂ්ටිය අහිමි වීමට අදාළ ගෙවන වන්දි මුදල් ප්‍රමාණය පිළිබඳ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
+
+අදාළ සිදුවීම හේතුවෙන් බලපෑමට ලක්වී ඇති රෝගීන් 17 දෙනෙකු සඳහා පහත සඳහන් පරිදි වන්දි මුදල් ගෙවීම පිණිස සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යවරයා විසින් ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් එලෙස අනුමත කර ඇත.
+
+නුවරඑළිය දිස්ත්‍රික් මහ රෝහලේදී අක්ෂි ශල්‍යකර්මවලට භාජනය වූ රෝගීන් කිහිපදෙනෙකුගේ දෘෂ්ටිය අහිමි වීම පිළිබඳව වින්දිතයන්ට ගෙවිය යුතු වන්දි ප්‍රමාණය තීරණය කිරීම පිණිස තාක්ෂණික කමිටුවක් පත් කිරීමට 2024-02-12 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබුණි.
+
+ඵ් අනුව, සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම්වරයෙකුගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කර ඇති අතර, එකී කමිටුව විසින් අදාළ කරුණු අධ්‍යයනය කර ගෙවිය යුතු වන්දි මුදල් පිළිබඳව සිය නිර්දේශ ඉදිරිපත් කර කළේය.
+
+එකී නිර්දේශ මත පදනම්ව මෙම කැබිනට් පත්‍රිකාව ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/727d9ae0.json)
+
+---
+
+### Easter Sunday attacks: Public Security Minister reveals details on arrested suspects
+
+*2025-01-07 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104797/easter-sunday-attacks-public-security-minister-reveals-details-on-arrested-suspects) · `en`
+
+Minister of Public Security Ananda Wijepala revealed today (07) that a total of 747 suspects have been arrested in connection with the 2019 Easter Sunday terror attacks, following extensive investigations by the Criminal Investigation Department (CID) and the Terrorism Investigation Division (TID).
+
+Speaking in Parliament, Minister Wijepala disclosed that the Attorney General has filed indictments against a total of 100 suspects across 14 High Court cases.
+
+The Minister also emphasized that further investigations are ongoing and that additional probes will be conducted based on the information revealed through the documentary by the British television network ‘Channel 4’ and other investigations.
+
+The Minister said that further legal action will be taken based on the facts uncovered through this.
+
+...
+
+[Data](articles/e8693c65.json)
+
+---
+
+### කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මෙතනින්
+
+*2025-01-07 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205131) · `si`
+
+කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව අද (07) පස්වරු 2ට ආරම්භ කෙරුණි.
+
+◼️
+
+[Data](articles/cb257092.json)
 
 ---
 
@@ -224,6 +798,44 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### මගීන් බස්සවා යළි හැරී ගිය බස් රථයේ බලපත්‍රය අත්හිටුවයි
+
+*2025-01-07 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205130) · `si`
+
+ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය යටතේ සිදුකළ රථවාහන පරික්ෂාවේදී මොරටුව ප්‍රදේශයේ බස් රථයක් මගීන් අතරමග බස්සවා යළි හැරී යාම සම්බන්ධයෙන් එම බස් රථයේ ධාවන බලපත්‍රය අත්හිටුවීමට පියවර ගෙන තිබේ.
+
+ලංකා පෞද්ගලික බස් රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා මේ බව පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ සභාපතිවරයා සඳහන් කළේ ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය යටතේ පොලීසිය ගෙන යන වැඩපිළිවෙළ සම්බන්ධයෙන් බස් රථ සේවකයින් සහ බස් සංගම් නියෝජිතයින් අතර සාකච්ඡාවක් පැවැත්වීමට නියමිත බවය.
+
+එමෙන්ම පවතින තත්ත්වය සම්බන්ධයෙන් මානව හිමිකම් කොමිසම සහ ජාත්‍යන්තර මානව හිමිකම් සංවිධානයට පැමිණිලි කිරීමට බලාපොරොත්තු වන බවත් සභාපතිවරයා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+◼️
+
+[Data](articles/47abf5b7.json)
+
+---
+
+### President appoints 4 new Ambassadors and High Commissioner
+
+*2025-01-07 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104796/president-appoints-4-new-ambassadors-and-high-commissioner) · `en`
+
+President Anura Kumara Dissanayake has appointed a High Commissioner and four Ambassadors to serve in Sri Lanka’s diplomatic service.
+
+The official appointments were handed over by the President during a formal ceremony held today (07) at the Presidential Secretariat.
+
+The newly designated diplomats also engaged in a brief discussion with the President following the appointments.
+
+Mr. W. G. S. Prasanna, High Commissioner-designate for New Zealand
+
+President Dissanayake expressed his confidence in the newly appointed diplomats, emphasizing the importance of their roles in strengthening Sri Lanka’s bilateral ties and fostering mutual cooperation with the respective nations, the President’s Media Division (PMD) said.
+
+...
+
+[Data](articles/809fec99.json)
+
+---
+
 ### චීනයේ භූ කම්පනයකින් 53ක් මරුට
 
 *2025-01-07 13:17:02* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-භූ-කම්පනයකින්-53ක්-මරුට/11-414059) · `si`
@@ -233,6 +845,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/58049e12.json)
+
+---
+
+### ජපානයෙන් ශ්‍රී ලංකාවට අඛණ්ඩ මූල්‍ය සහ තාක්‍ෂණික සහාය
+
+*2025-01-07 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205129) · `si`
+
+ශ්‍රී ලංකාවට ලබා දෙන මූල්‍ය සහ තාක්ෂණික සහාය අඛණ්ඩව ලබා දෙන බව ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ උප සභාපති හාරා ෂෝහෙයි මහතා පවසයි.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ (JICA) ජ්‍යෙෂ්ඨ උප සභාපති හාරා ෂෝහෙයි මහතා අතර ජනාධිපති කාර්යාලයේ අද (07) පැවති හමුවේදී මේ බව සඳහන් කෙරිණි.
+
+ජපාන ආධාර යටතේ ක්‍රියාත්මක කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ පර්යන්තයේ  සංවර්ධන කටයුතු පිළිබඳව ද මෙහිදී සාකච්ඡා කෙරිණි.
+
+එමෙන්ම ජයිකා ආධාර යටතේ  මෙරට ක්‍රියාත්මක සියලු ව්‍යාපෘති කඩිනමින් අවසන් කිරීමට සැලසුම් කර ඇති බව ද මෙහිදී සඳහන් විය.
+
+ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය ශ්‍රී ලංකාවට ලබා දුන් සහාය මෙන්ම ඉදිරියේදී ශ්‍රී ලංකාවට අවශ්‍ය මූල්‍ය ආධාර ලබාදීමට ජයිකා සංවිධානය බලාපොරොත්තු වන බව හාරා ෂෝහෙයි මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+මෙරට ක්‍රියාත්මක ප්‍රමුඛ ව්‍යාපෘතියක් වන  "Clean Sri Lanka"  වැඩසටහන පිළිබඳව සිය ප්‍රසාදය පළ කළ උප සභාපතිවරයා  එම ව්‍යාපෘතිය සඳහා අවශ්‍ය මූල්‍ය හා තාක්ෂණික සහාය ලබාදීමට සූදානම් බවද
+
+...
+
+[Data](articles/d90bcb15.json)
 
 ---
 
@@ -251,6 +885,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/8187cbb5.json)
+
+---
+
+### EC initiates legal action against 12 presidential candidates
+
+*2025-01-07 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104795/ec-initiates-legal-action-against-12-presidential-candidates) · `en`
+
+The Election Commission has directed the District Election Offices to finalize the files of the candidates who failed to submit their income and expenditure reports related to the 2024 General Election and promptly forward them to the police for legal action.
+
+A grace period was provided for submitting these reports, but despite the deadline having passed, several candidates still have not submitted their income reports, the election regulatory body said.
+
+In response, the Election Commission announced that steps will be taken to initiate legal proceedings against those candidates who have not complied with the deadline.
+
+Meanwhile, it has been reported that legal action will be taken next week against five presidential candidates who have not submitted their income and expenditure reports.
+
+Out of the twelve presidential candidates who failed to submit the required reports, legal action has already been initiated against seven, the election commission added.
+
+...
+
+[Data](articles/c1cff2d7.json)
+
+---
+
+### ‘Sabaragamuwa Maha Saman Devalaya’ reopens
+
+*2025-01-07 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104794/sabaragamuwa-maha-saman-devalaya-reopens) · `en`
+
+Measures have been taken to reopen the ‘Sabaragamuwa Maha Saman Devalaya’ in response to requests made by the Maha Sangha and local residents.
+
+Following careful consideration of these requests, the devalaya has officially reopened today (07), allowing all rituals and activities, including the acceptance of offerings and donations.
+
+On January 05, 2025, the board of duty (Rajakari Mandalaya) of the ‘Sabaragamuwa Maha Saman Devalaya’  launched a strike by withdrawing from sacred pooja and rituals of the devalaya citing their objection to the appointment of an acting Basnayake Nilame, which they allege violates long-standing traditions and was influenced by political considerations.
+
+The strike followed the appointment of S.V. Chandrasinghe as acting Basnayake Nilame by the Commissioner for Buddhist Affairs. The appointment is intended to fill the position temporarily until a permanent Basnayake Nilame is named, following the expiration of the previous officeholder’s term.
+
+...
+
+[Data](articles/521de7d5.json)
 
 ---
 
@@ -306,7 +978,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් ගැන හෙළිදරව්වක්
+### Govt. to review ‘Nearest School is the Best School’ program
+
+*2025-01-07 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104791/govt-to-review-nearest-school-is-the-best-school-program-) · `en`
+
+The Prime Minister and the Minister of Education Dr. Harini Amarasuriya says that a review will be conducted on the partially completed schools under the “Nearest School is the Best School” (NSBS) flagship programme launched in 2016.
+
+Dr.  Amarasuriya made this remark during her address in Parliament today (07).
+
+“We are currently reviewing the schools selected for the project. Many of these schools are only partially completed and have stopped midway,” she added.
+
+The Prime Minister further added: “Therefore, we are reviewing all of these schools. According to our plan, we aim to develop a primary school that all children can attend within a 3-kilometer radius, and a fully equipped secondary school that can be joined by adding a number of such schools. We also plan to give priority to schools where 80%-90% of the work has been completed.”
+
+◼️
+
+[Data](articles/65962bee.json)
+
+---
+
+### පාස්කු ප්‍රහාරය - සැකකරුවන් 747ක් අත්අඩංගුවට
 
 *2025-01-07 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205126) · `si`
 
@@ -380,6 +1070,26 @@ V8 மாதிரிகள் உட்பட அதிக திறன் க�
 
 ---
 
+### Strong earthquake kills at least 53 people in western China
+
+*2025-01-07 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104790/strong-earthquake-kills-at-least-53-people-in-western-china) · `en`
+
+A strong earthquake killed at least 53 people in Tibet on Tuesday and left many others trapped as dozens of aftershocks shook the region of western China and across the border in Nepal.
+
+The official Xinhua News Agency said 62 other people were injured, citing the regional disaster relief headquarters.
+
+About 1,500 fire and rescue workers were deployed to search for people in the rubble, the Ministry of Emergency Management said.
+
+The U.S. Geological Survey said the earthquake measured magnitude 7.1 and was relatively shallow at a depth of about 10 kilometers (6 miles). China recorded the magnitude as 6.8.
+
+The epicenter was about 75 kilometers (50 miles) northeast of Mount Everest, which straddles the border. The area is seismically active and is where the India and Eurasia plates clash and cause uplifts in the Himalayan mountains strong enough to change the heights of some of the world’s tallest peaks.
+
+...
+
+[Data](articles/d774e86e.json)
+
+---
+
 ### ”சில மோசடிகள் இருப்பதை நான் ஒப்புக்கொள்கிறேன்’’
 
 *2025-01-07 11:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மோசடிகள்-இருப்பதை-நான்-ஒப்புக்கொள்கிறேன்/175-349907) · `ta`
@@ -395,6 +1105,24 @@ V8 மாதிரிகள் உட்பட அதிக திறன் க�
 ...
 
 [Data](articles/2f04a2cf.json)
+
+---
+
+### Compensation for patients affected by eye surgery complications at N’Eliya Hospital
+
+*2025-01-07 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104789/compensation-for-patients-affected-by-eye-surgery-complications-at-neliya-hospital) · `en`
+
+The Cabinet of Ministers has approved granting compensation to 17 patients who had developed complications after undergoing cataract surgery at the Nuwara Eliya District Hospital.
+
+Minister of Health Dr. Nalinda Jayatissa stated this during today’s (07) parliamentary session.
+
+Speaking further, the Health Minister added: “A number of patients who underwent cataract surgery at the Nuwara Eliya General Hospital lost their eyesight, with some becoming completely blind. A committee headed by an Additional Secretary to the Ministry of Health was appointed to investigate the matter, and the report from that committee has been received.
+
+“Yesterday, the Cabinet decided that the government would provide compensation to 17 patients who became disabled as a result. This type of compensation has never been provided before. As a result, we are now in the process of creating a compensation system.”
+
+...
+
+[Data](articles/e18b0d3d.json)
 
 ---
 
@@ -452,6 +1180,26 @@ V8 மாதிரிகள் உட்பட அதிக திறன் க�
 
 ---
 
+### WHO recognizes Sri Lanka’s mental health reforms
+
+*2025-01-07 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104788/who-recognizes-sri-lankas-mental-health-reforms) · `en`
+
+The World Health Organization (WHO) has recognized Sri Lanka’s focus on expanding community-based networks and de-institutionalization as a significant step toward improving mental health services.
+
+In its 2024 annual report, the WHO highlighted Sri Lanka’s commitment to transitioning from long-term institutional care to community-based services, which aims to provide individuals with more autonomy and support within their local communities.
+
+The organization advocated for the reorganization of mental health services, moving away from institutional settings toward community-based care.
+
+The WHO urged member states in the South-East Asian Region to develop multi-sectoral policies that address mental health risks and ensure that mental health services are accessible without financial hardship.
+
+Sri Lanka’s implementation of mental health surveys was also acknowledged for its role in informing policy decisions and resource allocation.
+
+◼️
+
+[Data](articles/6b5660c3.json)
+
+---
+
 ### ප්‍රශ්නගත ඖෂධ හේතුවෙන් දෑස් අන්ධ වූ පිරිසට වන්දි
 
 *2025-01-07 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205123) · `si`
@@ -502,6 +1250,26 @@ V8 மாதிரிகள் உட்பட அதிக திறன் க�
 
 ---
 
+### Finance Ministry orders auction of state-owned V8 luxury vehicles
+
+*2025-01-07 10:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/104787/finance-ministry-orders-auction-of-state-owned-v8-luxury-vehicles) · `en`
+
+The Secretary to the Ministry of Finance, Mahinda Siriwardena, has directed all state institutions to auction the high-capacity V8 luxury vehicles under their purview and submit revenue reports by March 01.
+
+A circular has been issued to this effect, addressing all heads of state departments, including secretaries of ministries, outlining the necessary steps to be implemented for the purpose.
+
+The circular further emphasizes that state institutions are prohibited from purchasing the vehicles being auctioned.
+
+On December 03, 2024, the Cabinet of Ministers approved a proposal to conduct a study on vehicles used in all government institutions and systematically dispose of super luxury vehicles that incur high maintenance and fuel costs in government institutions by selling them in order to reduce government spending.
+
+Accordingly, it was decided to assess and streamline the government vehicle fleet, focusing on those with higher engine capacities, which contribute to rising maintenance expenses.
+
+◼️
+
+[Data](articles/6570a783.json)
+
+---
+
 ### මහ මැතිවරණයේ වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයින්ටත් නඩු පැවරීමට පියවර
 
 *2025-01-07 10:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205122) · `si`
@@ -536,6 +1304,28 @@ V8 மாதிரிகள் உட்பட அதிக திறன் க�
 
 ---
 
+### Harris certifies Trump’s US election victory
+
+*2025-01-07 10:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104786/harris-certifies-trumps-us-election-victory) · `en`
+
+Four years to the day after a mob of Donald Trump’s supporters violently besieged the US Capitol, Congress formally certified the incoming president’s re-election in a special session.
+
+Vice-President Kamala Harris, who Trump defeated in the 2024 election, presided over the event as required by the US Constitution.
+
+But the shadow of 6 January 2021 lingered over Monday’s proceedings, despite Trump and his allies’ campaign to recast the attack as a “day of love.”
+
+Heavy security was in place in Washington DC, and current President Joe Biden vowed there would be no repeat of the violence four years ago.
+
+Trump celebrated the moment on Truth Social, writing: “Congress certifies our great election victory today - a big moment in history.”
+
+The day was extraordinary in its normalcy, given the chaos of four years before. Harris stood at the front of the US House chamber with a sombre expression as lawmakers read out each state’s election results before formally declaring their authenticity.
+
+...
+
+[Data](articles/72c36e30.json)
+
+---
+
 ### Sri Lanka IMF forex reserve target US$7bn in 2025, ends 2024 with $6.1bn: CB Governor
 
 *2025-01-07 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-forex-reserve-target-us7bn-in-2025-ends-2024-with-6-1bn-cb-governor-198374/) · `en`
@@ -556,6 +1346,44 @@ The IMF reserve target is usually expressed in terms of net international reserv
 
 ---
 
+### Four international flights to BIA diverted to Mattala and India
+
+*2025-01-07 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/104785/four-international-flights-to-bia-diverted-to-mattala-and-india) · `en`
+
+Four international flights scheduled to land at Bandaranaike International Airport in Katunayake in the early hours of January 07 were diverted due to dense fog that significantly reduced visibility.
+
+The affected flights included three SriLankan Airlines flights—UL-226 from Dubai, UL-881 from Guangzhou, China, and UL-174 from Bangalore, India—which were redirected to Mattala Rajapaksa International Airport.
+
+Additionally, Turkish Airlines flight TK-730 from Istanbul has been diverted to Trivandrum Airport in India.
+
+The SriLankan Airlines flights refueled at Mattala but did not disembark passengers. By 9:00 a.m., all diverted flights returned to Katunayake Airport safely after the fog had cleared, Ada Derana reporter said.
+
+The fog, which began to disrupt operations in the early morning, gradually lifted by around 7:00 a.m., enabling subsequent flights to land at Katunayake Airport without incident, according to the reporter.
+
+...
+
+[Data](articles/c6c60a9e.json)
+
+---
+
+### Foreign reserves robust, debt payments manageable - CBSL Governor
+
+*2025-01-07 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104784/foreign-reserves-robust-debt-payments-manageable-cbsl-governor-) · `en`
+
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe assured that Sri Lanka’s foreign reserves remain robust.
+
+He made this remark during his appearance on Ada Derana’s current affairs programme ‘360°’ last night (06).
+
+Speaking during the programme, the CBSL chief said: “The target was around Rs.5.6 billion, but we increased it to Rs.6.5 billion. By the end of 2024, after settling old debts, reserves stood at Rs.6.1 billion. Our aim is to raise this to Rs.7 billion by the end of this year, which is achievable.”
+
+“After debt restructuring, payments of Rs.3–4 billion annually over the next 10 years will be manageable. If we maintain Rs.8 billion in reserves, we will have a strong buffer to meet foreign debt obligations. The current reserve levels are stable to handle these challenges,” Dr. Weerasinghe elaborated.
+
+◼️
+
+[Data](articles/99402370.json)
+
+---
+
 ### ළඟම පාසල හොඳම පාසල ව්‍යාපෘතිය ගැන තීරණයක්
 
 *2025-01-07 10:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205121) · `si`
@@ -569,6 +1397,26 @@ The IMF reserve target is usually expressed in terms of net international reserv
 ◼️
 
 [Data](articles/8a0243a2.json)
+
+---
+
+### Per capita debt in Sri Lanka hits Rs. 1.3 million
+
+*2025-01-07 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104783/per-capita-debt-in-sri-lanka-hits-rs-13-million) · `en`
+
+The total public debt outstanding as of December 31, 2023, has surpassed Rs. 29,150 billion, according to the government’s financial statement.
+
+The Auditor General’s Department indicated that this marks a 6.47% increase compared to the public debt as of December 31, 2022.
+
+In 2023, the government secured foreign loans amounting to Rs. 831,951 million, while an additional Rs. 7,541,282 million was obtained through treasury bills.
+
+In combination, the domestic and foreign loans acquired in 2023 represent a significant increase of 67.4% compared to the previous year.
+
+Accordingly, the per capita debt value has also raised in 2023, reaching Rs. 1,322,793, an increase of Rs. 88,435 or 7.16%, according to the Auditor General’s Department. The value was Rs. 1,234,358 in 2022.
+
+◼️
+
+[Data](articles/9e031eb7.json)
 
 ---
 
@@ -591,6 +1439,26 @@ The IMF reserve target is usually expressed in terms of net international reserv
 ◼️
 
 [Data](articles/85625542.json)
+
+---
+
+### திபெத்தை உலுக்கியுள்ள பூகம்பம்- 35க்கும் அதிகமானவர்கள் பலி
+
+*2025-01-07 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/203187) · `ta`
+
+நேபாள திபெத்தை எல்லையில்  உள்ள பகுதிகளை உலுக்கியுள்ள   கடும் பூகம்பத்தினால் 35க்கும் அதிகமானவர்கள் உயிரிழந்துள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
+
+நேபாளம்  திபெத் எல்லையில் மையம்கொண்டிருந்த இந்த பூகம்பத்தினால் (6.8) பல கட்டிடங்கள் முற்றாக தரைமட்டமாகியுள்ளதாகவும் 35க்கும் அதிகமானவர்கள் உயிரிழந்துள்ளனர் எனவும் நேபாள சீன  ஊடகங்கள் தெரிவித்துள்ளன.
+
+திபெத்தின் இரண்டாவது மிகப்பெரிய நகரான சிகட்சேயில் பெருமளவு உயிரிழப்புகள் ஏற்பட்டுள்ளன என சீன அமெரிக்க கண்காணிப்பு குழுக்கள் தெரிவித்துள்ளன.
+
+சிகட்சோவை சுற்றியுள்ள டிங்கிரி கவுண்டியில் பல கட்டிடங்கள் இடிந்து விழுந்துள்ளன, மூன்று நகரங்களில் ஒன்பது பேர் உயிரிழந்துள்ளனர் என சீனாவின் உத்தியோகபூர்வ செய்தி நிறுவனமான ஜின்குவா தெரிவித்துள்ளது.
+
+அவை மலைப்பகுதியில் உள்ள தொலைதூர கிராமங்கள் அங்கு செல்வது கடினம் தற்போது மாரிகாலம் என்பதால் அங்கு செல்வது இன்னமும் கடினம்,இந்த கிராமங்களிற்கு அருகில் எந்த பெரிய நகரமும் இல்லை என அல்ஜசீராவின் செய்தியாளர் கட்ரினா யூ தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/23d57e7e.json)
 
 ---
 
@@ -852,6 +1720,24 @@ A bond maturing on 15.05.2030 was quoted at 11.00/10 percent, also unchanged. (C
 
 ---
 
+### தேயிலை களஞ்சியசாலைகளில் சோதனை : மனித பாவனைக்குதவாத தேயிலைத் தூள் மீட்பு !
+
+*2025-01-07 08:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/203173) · `ta`
+
+உடுநுவர, தவுலகல ஹன்டெஸ்ஸ பிரதேசத்திலுள்ள தேயிலை களஞ்சியசாலைகளில் மனித பாவனைக்குதவாத 12000 கிலோ கிராம் நிறைகொண்ட தேயிலை துாள்களை பொலிஸ் விசேட அதிரடிப்படையின் கம்பளை முகாம் அதிகாரிகளால்  கைப்பற்றப்பட்டுள்ளது.
+
+அனுமதியின்றி இரகசியமாக பதுக்கி வைக்கப்பட்டிருந்த குறித்த கழிவுத் தேயிலை துாள் 426 பொலித்தின் பைகளில் பொதியிடப்பட்டிருந்துள்ளது.
+
+கம்பளை விசேட அதிரடிப்படை முகாமின் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் நளின் உதாரம்பவுக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையில் குறித்த களஞ்சியசாலைகளில் சோதனையிடப்பட்டுள்ளது.
+
+தவுலகல, வெலம்பொட, வடதெனிய, ஹன்டெஸ்ஸ, லீமகஹகொடுவ, பூவலிகட உள்ளிட்ட உடுநுவர பிரதேசத்தில் ஆயிரத்திற்கும் மேற்பட்ட இடங்களில் பல வருடங்களாக இந்த கழிவு தேயிலை வியாபாரம் முன்னெடுக்கப்பட்டு வருவதாகவும் இதனால் சிலோன் டீயின் பெயருக்கு பாரிய சேதம் ஏற்பட்டுள்ளதாகவும் பொருளாதார நிபுணர்கள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/b213a275.json)
+
+---
+
 ### இன்று காலை ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கம்
 
 *2025-01-07 08:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-ஏற்பட்ட-சக்திவாய்ந்த-நிலநடுக்கம்/175-349893) · `ta`
@@ -951,811 +1837,5 @@ In the past the current account deficit had been much higher, he said
 ◼️
 
 [Data](articles/623cb983.json)
-
----
-
-### වැලිගම වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ පුද්ගලයෙක් අත්අඩංගුවට
-
-*2025-01-07 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205111) · `si`
-
-මාතර, වැලිගමදී සිදුකළ වෙඩිතැබීමේ සිද්ධියට ආධාර අනුබල දුන් බවට සැකකරන පුද්ගලයෙක් අත්අඩංගුවට ගෙන තිබේ.
-
-එම සැකකරු මාතර කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන් කණ්ඩායමක් විසින් වැලිගම ප්‍රදේශයේදී ඊයේ (06) රාත්‍රී කාලයේ අත්අඩංගුවට ගෙන ඇත.
-
-අත්අඩංගුවට ගත් සැකකරු වල්ලිවල, වැලිගම ප්‍රදේශයේ පදිංචි 24ක් හැවිරිදි තරුණයෙකි.
-
-සැකකරුගෙන් අනාවරණය කරගන්නා ලද තොරතුරු මත අපරාධය සිදු කිරීමට භාවිතාකළ යතුරුපැදියක්ද පොලිස් භාරයට ගෙන ඇත.
-
-මාතර, වැලිගම දී පසුගිය 04 වනදා සිදුකළ වෙඩි තැබීමකින් 26 හැවිරිදි තරුණයෙකු මියගොස් තවත් තරුණයෙකු තුවාල ලබා තිබුණි.
-
-පොලීසිය පැවසුවේ, යතුරුපැදි තුනකින් පැමිණි වෙඩික්කරුවන්ගේ ඉලක්කය වී ඇත්තේ, පසුගියදා මාතර බන්ධනාගාරයේදී බෝ ගසක අත්තක් කඩාවැටී මියගිය සිරකරුවාගේ අවමංගල්‍යයට සහභාගී වී නැවත පැමිණෙමින් සිටි පිරිසක් බවය.
-
-මාතර බන්ධනාගරයේ සිරකරුවන් රඳවා සිටින වාට්ටුවක් මතට බෝ අත්තක් කඩා වැටීමෙන් මියගිය සිරකරුවාගේ දේහය තැම්පත් කර ඇති තුර්කි ගම්මානයේ පිහිටි නිවසට පස් දෙනෙකුගෙන් යුත් පිරිසක් පසුගිය 03 වනදා රාත්‍රියේ ගොස් තිබුණි.
-
-...
-
-[Data](articles/fe1427a1.json)
-
----
-
-### Draft Bill to call for fresh nominations for LG polls gazetted
-
-*2025-01-07 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104776/draft-bill-to-call-for-fresh-nominations-for-lg-polls-gazetted) · `en`
-
-The Draft Bill for the amendment of the Local Authorities Elections Act to enable the cancellation of the nominations submitted for the 2023 polls and to call for fresh nominations has been gazette.
-
-The draft bill is to be presented to the Parliament for approval on a later date.
-
-It is reported that the Draft Bill for the amendment of the Local Authorities Elections Act to cancel the nominations called for the 2023 Local Government Elections has been published in the Government Gazette as per the order of the Minister of Public Administration, Provincial Councils and Local Government.
-
-According to the said bill, the nomination papers submitted for the Local Government Elections which was scheduled to be held on March 09, 2023 will become invalid.
-
-The bill also provides for the refund of deposits made in respect of candidates nominated by a political party or independent group.
-
-The bill is scheduled to be implemented after the relevant bill is presented to Parliament and passed.
-
-...
-
-[Data](articles/69caa5d1.json)
-
----
-
-### මෙරට ඇති තැන්පතු ගිණුම් ප්‍රමාණය ගැන හෙළිදරව්වක්
-
-*2025-01-07 07:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205110) · `si`
-
-මෙරට සමස්ත මිනිසුන් සතුව ඇති තැන්පතු ගිණුම් ප්‍රමාණය සම්බන්ධව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා ඊයේ (06) හෙළි කළේය.
-
-එම වැඩසටහනට එක්වෙමින් මහ බැංකු අධිපතිවරයා පැවසුවේ මෙරට මිලියන 20ක් වන ජනතාව සතුව මිලියන 65ක් තැන්පතු ඇති බවය.
-
-එම තැන්පතු සතුව ට්‍රිලියන 17ක මුදල් ප්‍රමාණයක් ඇති බවද අධිපතිවරයා එහිදී පැවසීය.
-
-◼️
-
-[Data](articles/8e32f705.json)
-
----
-
-### Two persons killed in shooting at Mount Lavinia
-
-*2025-01-07 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/104775/two-persons-killed-in-shooting-at-mount-lavinia) · `en`
-
-Two persons have been killed after an unidentified gunman opened fire at them at the Watarappala Road in Mount Lavinia, police said.
-
-Initially a 36-year-old man was shot dead and a 20-year-old person was injured in the shooting and hospitalized following the shooting incident.
-
-However, the injured youth had later succumbed to injuries after being admitted to the hospital.
-
-The 36-year-old victim of the shooting is a resident of Watarappala Road in Mount Lavinia.
-
-The motive behind the shooting is yet to be ascertained while Mount Lavinia Police are conducting further investigations to apprehend the suspects involved.
-
-◼️
-
-[Data](articles/ff6cd135.json)
-
----
-
-### තණකොළ කපන මැෂිමෙන් ආ මාරයා
-
-*2025-01-07 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205109) · `si`
-
-තණකොළ කැපීමට භාවිතා කරන මැෂිමක යකඩ දැත්තක් කැඩී ගොස් පුද්ගලයෙකුගේ හිසෙහි වැදී ජීවිතක්ෂයට පත්ව තිබේ.
-
-ඊයේ (07) සවස් කාලයේදී එම අනතුර සිදුව තිබුණේ ඇඹිලිපිටිය පොලිස් වසමේ ගඟේයාය ප්‍රදේශයේදීය.
-
-එලෙස මියගොස් ඇත්තේ, ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචිව සිටි 45 හැවිරිදි පුද්ගලයෙකි.
-
-ට්‍රැක්ටර් රථයක් උපයෝගී කරගෙන ක්‍රීඩාපිටියක තණකොළ කපමින් සිටියදී තණකොළ මැෂිමේ තිබූ යකඩ දැත්තක් කැඩී ගොස් ක්‍රීඩා පිටියෙහි සිටි පුද්ගලයාගේ හිසෙහි වැදී තුවාල ලබා තිබුණි.
-
-එම පුද්ගලයා ඇඹිලිපිටිය රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇතැයි පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/7aa9c674.json)
-
----
-
-### නේපාලයේ ප්‍රබල භූකම්පනයක් - ඉන්දියාව සෙලවෙයි
-
-*2025-01-07 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205108) · `si`
-
-නේපාල දේශසීමාව ආසන්නයේ පිහිටි ටිබෙටයට රික්ටර් මාපකයේ ඒකක 7.1 ක ප්‍රබලත්වයෙන් යුතු භූ කම්පනයක් ඇතිව තිබේ.
-
-ඉන්දියානු සහ යුරේසියානු භූතැටි එකිනෙක ගැටී භූකම්පනය සිදුව ඇතැයි විදෙස් වාර්තා පෙන්වා දෙයි.
-
-ඉන්දියාවේ කත්මන්ඩු, නවදිල්ලි, සිරිගුරි, පට්නා සහා බිහාර් ප්‍රාන්තයට භූකම්පනය දැනී තිබුණු අතර ජනතාව සිය නිවාස සහ මහල් නිවාසවලින් පිටතට පැමිණ තිබේ.
-
-◼️
-
-[Data](articles/63d53e22.json)
-
----
-
-### උතුරු මැද 11 ශ්‍රේණියේ අවසන් වාර විභාගය අත්හිටුවයි
-
-*2025-01-07 07:05:48* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-11-ශ්‍රේණියේ-අවසන්-වාර-විභාගය-අත්හිටුවයි/11-414052) · `si`
-
-ප්‍රශ්න පත්‍ර කලින් පිටවීමේ සිද්ධියක් සම්බන්ධයෙන් උතුරු   මැද පළාතේ පාසල්වල 2024 වර්ෂයට අදාළව මේ දිනවල පැවැත්වෙන අවසන් වාර විභාගයේ, 11 ශ්‍රේණියේ විභාග කටයුතු තාවකාලිකව නතර කල බව උතුරු මැද පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව පවසයි.
-
-11 ශ්‍රේණියේ විභාගය තාවකාලිකව නතර කිරීම සම්බන්ධයෙන් උතුරු මැද පළාත් ප්‍රධාන ලේකම් සහ අධ්‍යාපන ලේකම් සිරිමෙවන් ධර්මසේන මහතාගේ උපදෙස් පරිදි පළාත් අධ්‍යාපන අධ්‍යක්ෂ එස්.එම්.ඩබ්ලිව් . සමරකෝන්   මහතා විසින් ඒ සම්බන්ධයෙන් කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරුන් හට දැනුම් දීමක් කර තිබේ.
-
-හය ශ්‍රේණියේ සිට දහය ශ්‍රේණිය දක්වා අවසන් වාර විභාග කටයුතු නියමිත කාලසටහනට අනුව පැවැත්වෙන බවද පළාත් අධ්‍යාපන දෙපාර්තමේන්තු නිවේදනයේ වැඩි දුරටත් සඳහන් වේ.
-
-◼️
-
-[Data](articles/a4ea79a2.json)
-
----
-
-### සාවද්‍ය තොරතුරු දී ජනපති අරමුදලින් මුදල් ගත් අය ගැන විමර්ශනයක්
-
-*2025-01-07 07:00:40* · [`adalk`](https://www.ada.lk/breaking_news/සාවද්‍ය-තොරතුරු-දී-ජනපති-අරමුදලින්-මුදල්-ගත්-අය-ගැන-විමර්ශනයක්/11-414051) · `si`
-
-පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිසක් සාවද්‍ය තොරතුරු ඉදිරිපත් කර ජනාධිපති අරමුදලින් මුදල් ලබාගෙන වංචා කිරීම පිළිබඳව කරන විමර්ශනයට අදාළව සහාය අවශ්‍ය වුවහොත් ඉල්ලන ලෙස කොටුව මහේස්ත්‍රාත් නිලුපුලී ලංකාතිලක මහත්මිය රහස් පොලිසියට ඊයේ (06) දැනුම් දුන්නාය.
-
-සාවද්‍ය තොරතුරු ඉදිරිපත් කර පාර්ලිමේන්තු මන්ත්‍රීවරු පිරිසක් ජනාධිපති අරමුදලින් මුදල් ලබාගෙන වංචා කිරීම පිළිබඳව ආරම්භ කළ මෙම විමර්ශනයට අදාළ කරුණු අදාළ ආයතන වලින් හෙළිකර ගැනීම සඳහා අවශ්‍ය වන නියෝග ඉදිරියේදී ලබාගැනීමට අපේක්‍ෂා කරන බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වානිජ අපරාධ කොට්ඨාශයේ නිලධාරීන්  මහේස්ත්‍රාත්වරියට දැනුම් දුන් අවස්ථාවේදී මහේස්ත්‍රාත්වරිය එලෙස දැනුම් දුන්නාය.
-
-ජනාධිපති අරමුදල ඇතු`ථ ජනතා අරමුදල් වලින් පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් සාවද්‍ය තොරතුරු ඉදිරිපත් කර මුදල් ලබාගෙන වංචා කර ඇති බවට ලැබුණු පැමිණිල්ලකටට අනුව මෙම විමර්ශනය ආරම්භ කළ බව සිද්ධියට අදාළ වාර්තාවක් ගොනු කරමින් රහස් පොලිස් නිලධාරීන් අධිකරණයට දැනුම් දුන්හ.
-
-...
-
-[Data](articles/bd2c395d.json)
-
----
-
-### රජය වී මිලදි ගන්නසැලසුම්
-
-*2025-01-07 06:58:40* · [`adalk`](https://www.ada.lk/breaking_news/රජය-වී-මිලදි-ගන්නසැලසුම්/11-414050) · `si`
-
-රජයට අවශ්‍ය වී තොග සංචිතයක් පවත්වාගෙ යාමේ අරමුණින් ජනවාරි 03 වන සතියේ සිට වී මිලදී ගැනීම් කටයුතු ආරම්භ කිරීමට සැලසුම් කර ඇති බව වී මිලදී අලෙවි මණ්ඩලය පවසයි.
-
-ඒ අනුව අස්වනු නෙලීමට ආසන්න මහ කන්නයේ අස්වැන්නෙන් වි මෙට්‍රික්  ටොන් ලක්ෂ තුනක ප්‍රමාණයක් වී මිලදී ගැනීමට සැලසුම් කර ඇති බව වී අලෙවි මණ්ඩලය පවසයි.
-
-මෙලෙස ලබා ගන්නා වී රජයේ සංචිත වශයෙන් තබා ගන්නා අතර වෙළෙඳ පොළ තුළ සහල් හිඟවූ අවස්ථාවේදී පමණක් ඒවා නිකුත් කිරීමට බලාපොරොත්තු වන බව වී අලෙවි මණ්ඩලය පවසයි.
-
-◼️
-
-[Data](articles/ac04d86a.json)
-
----
-
-### වාහන ගෙන්වීම ගැන මහ බැංකු අධිපති දුන් නිර්දේශය
-
-*2025-01-07 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205107) · `si`
-
-ඉදිරියේදී වාහන ආනයනය සිදුකිරීම සම්බන්ධයෙන් මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා සිය මතය පැහැදිලි කළේය.
-
-ඊයේ (06) රාත්‍රියේ 'ටීවි දෙරණ' ඔස්සේ විකාශය වූ 360 කාලීන වැඩසටහන සමග එක්වෙමින් ආචාර්ය නන්දලාල් වීරසිංහ මහතා ඒ බව කියා සිටියේය.
-
-"අපි විශ්ලේෂණයක් කරලා තිබුණා 2024 මැයි ජුනි මාසයේ ඉඳලා. ඒ වෙලාවේ අවශ්‍යතාවයක් තිබුණා. වාහන අවුරුදු 05ක් තිස්සේ අපි අලුතින් ගෙන්න ඉඩදීලා නැහැ. ආර්ථිකයේ ක්‍රියාකාරීත්වය යහපත් අතට පත්වෙන්න යනකොට රටට අලුතින් වාහන අවශ්‍යයි. මගේ නිර්දේශය තමයි තියෙන වාහන වෙළෙඳපොළේ වටිනාකම ඒ මට්ටමේ තියාගනිමින් වාහනය අලුත් කරන්න ඕනේ නම් අලුත්කරන කෙනා යම් වැඩිපුර මුදලක් ගෙවලා වාහනය අලුත්කරන්න අවස්ථාවක් දෙන්න ඕනේ."
-
-...
-
-[Data](articles/9d3aa047.json)
-
----
-
-### පුංචි ඡන්දෙ නාමයෝජනා අවලංගු කිරීමේ පනත් කෙටුම්පත ගැසට් කෙරේ
-
-*2025-01-07 06:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205106) · `si`
-
-2023 මැතිවරණය සඳහා ඉදිරිපත් කරන ලද නාමයෝජනා අවලංගු කිරීමට සහ අලුතින් නාමයෝජනා කැඳවීමට හැකි වන පරිදි පළාත් පාලන ආයතන මැතිවරණ පනත සංශෝධනය කිරීම සඳහා වන කෙටුම්පත් ගැසට් කර තිබේ.
-
-පළාත් පාලන ආයතන ඡන්ද විමසීට අදාළව  කැඳවනු ලැබූ නාමයෝජනා අවලංගු කිරීම සඳහා වන පළාත් පාලන ආයතන ඡන්ද විමසීම් සංශෝධන පනත් කෙටුම්පත රාජ්‍ය පරිපාලන, පළාත් සභා සහ පළාත් පාලන අමාත්‍යවරයාගේ නියෝග පරිදි ප්‍රකාශයට පත්කර ඇති බව වාර්තා වේ.
-
-එම පනත් කෙටුම්පතට අනුව පසුගිය 2023 වර්ෂයේ මාර්තු මස 9 වන දින පැවැත්වීමට දින නියම කරන ලද පළාත් පාලන ඡන්ද විමසීම සඳහා ඉදිරිපත්කරන ලද නාමයෝජනා පත්‍ර අවංගු වනු ඇත.
-
-දේශපාලන පක්ෂයක් හෝ ස්වාධීන කණ්ඩායමක් විසින් නම් කරනු ලැබූ අපේක්ෂකයින් සම්බන්ධයෙන් සිදුකරනු ලැබූ තැන්පතු ආපසු ගෙවීමට ද මෙම පනත් කෙටුම්පත මඟින් දැනුම් දී තිබේ.
-
-අදාළ පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කර ගැනීමෙන් අනතුරුව පනත ක්‍රියාත්මක කිරීමට නියමිතය.
-
-...
-
-[Data](articles/0a676968.json)
-
----
-
-### ගල්කිස්සේ වෙඩි තැබීමක් - අයෙක් මරුට
-
-*2025-01-07 06:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205104) · `si`
-
-ගල්කිස්ස, වටරප්පල පාර ප්‍රදේශයේදී නාඳුනන තුවක්කුකරුවෙකු විසින් සිදුකළ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-පොලීසිය පැවසුවේ වෙඩි තැබීමකින් තවත් පුද්ගලයෙකු තුවාල ලබා රෝහල් ගත කර ඇති බවය‍.
-
-වෙඩි තැබීමෙන් මියගොස් ඇත්තේ වයස අවුරුදු 36ක් වූ වටරප්පල පාර, ගල්කිස්ස ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර තුවාල ලැබූ පුද්ගලයා අවුරුදු 20ක් වයසැති අයෙකු බවද සඳහන්.
-
-වෙඩි තැබීමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා ගල්කිස්ස පොලීසිය වැඩිදුර විමර්ශන පවත්වයි.
-
-◼️
-
-[Data](articles/db61a1e1.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට වැසි
-
-*2025-01-07 05:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205103) · `si`
-
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල අද (07) දිනයේ වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දකුණු සහ සබරගමුව පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ ඌව පළාත්වලත් කුරුණෑගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලත් උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකයි.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස  කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/9c45bdbd.json)
-
----
-
-### நாடாளுமன்றம் இன்று கூடுகிறது
-
-*2025-01-07 04:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடாளுமன்றம்-இன்று-கூடுகிறது/175-349887) · `ta`
-
-2025 ஆம் ஆண்டுக்கான முதல் வார நாடாளுமன்றக் கூட்டத் தொடர் இன்று செவ்வாய்க்கிழமை ஆரம்பமாகும் நிலையில், முக்கிய சில விடயங்கள் தொடர்பில் சூடான வாதப்பிரதிவாதங்கள் இடம்பெறும் என எதிர்பார்க்கப்படுகின்றது.
-
-இதன்போது உள்ளூராட்சி சபைத் தேர்தல் திருத்தச் சட்டமூலம் நாடாளுமன்றத்தில் துறைசார் அமைச்சரால் முன்வைக்கப்படவுள்ளது. (a)
-
-◼️
-
-[Data](articles/d3475bde.json)
-
----
-
-### தமிழகத்தில் இருவருக்கு எச்.எம்.பி.வி. தொற்று
-
-*2025-01-07 04:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-இருவருக்கு-எச்-எம்-பி-வி-தொற்று/175-349886) · `ta`
-
-தமிழகத்தில் இருவருக்கு எச்.எம்.பி.வி. தொற்று உறுதி செய்யப்பட்டுள்ளதாக தமிழக சுகாதாரத் துறை அறிவித்துள்ளது.
-
-'ஹியூமன் மெடாநியூமோவைரஸ்' எனப்படும் எச்.எம்.பி.வி. தொற்று புதிதல்ல என்றும், பல ஆண்டுகளாக இந்த வைரஸ் இருப்பதால் மக்கள் அச்சமடையத் தேவையில்லை எனவும் சுகாதாரத் துறை அறிவுறுத்தியுள்ளது.
-
-சீனாவில் பரவிவரும் எச்.எம்.பி.வி. தொற்று இந்தியாவில் முதல்முறையாக கர்நாடகத்தில் 2 குழந்தைகளுக்கு கண்டறியப்பட்டது. குஜராத்தில் ஒருவருக்கு உறுதி செய்யப்பட்டது.
-
-இதனிடையே தமிழ்நாட்டில் இருவருக்கு எச்.எம்.பி.வி. தொற்று உறுதி செய்யப்பட்டுள்ளதாக தமிழக சுகாதாரத் துறை அறிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/5a99c457.json)
-
----
-
-### வடமத்திய மாகாணத்தில் 11 ஆம் தரப் பரீட்சைகள் இரத்து
-
-*2025-01-07 03:50:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமத்திய-மாகாணத்தில்-11-ஆம்-தரப்-பரீட்சைகள்-இரத்து/175-349885) · `ta`
-
-வடமத்திய மாகாணத்தில் உள்ள அனைத்து அரச பாடசாலைகளிலும் 11ஆம் தர தவணைப் பரீட்சைகள் மறு அறிவித்தல் வரை இரத்துச் செய்யப்பட்டுள்ளதாக, வடமத்திய மாகாண கல்விச் செயலாளர் சிறிமெவன் தர்மசேன தெரிவித்துள்ளார்.
-
-தவணைப் பரீட்சை தொடர்பான சகோதர மொழி இலக்கிய வினாத்தாள் சமூக ஊடகங்கள் ஊடாக வெளியாகியுள்ளமை உறுதிப்படுத்தப்பட்ட நிலையில் இந்த தீர்மானம் மேற்கொள்ளப்பட்டுள்ளது.
-
-வடமத்திய மாகாண கல்வி செயலாளரின் பணிப்புரைக்கமையவே 2024 ஆம் ஆண்டு 11 ஆம் தர இறுதிப் பரீட்சை மறு அறிவித்தல் வரை தற்காலிகமாக இடைநிறுத்தப்படுவதாகத் தெரிவிக்கப்பட்டுள்ளது. (a)
-
-◼️
-
-[Data](articles/b95056d5.json)
-
----
-
-### Foreign Ministry sets up digital platform to facilitate SL expats
-
-*2025-01-07 03:19:45* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Ministry-sets-up-digital-platform-to-facilitate-SL-expats/56-771516) · `en`
-
-New digital facility supports Sri Lankan expats to obtain birth certificates, marriage certificates and death certificates without delay
-
-In a move to support Sri Lankan expatriates to obtain their necessary documents without a delay, the Foreign Affairs, Foreign Employment and Tourism Ministry has launched a digital platform, which will be operated through respective foreign missions.
-
-This digital initiative, which was launched today under President Anura Kumara Dissanayake’s concept of digitising the State administrative system, will enable Sri Lankans abroad to obtain birth certificates, marriage certificates and death certificates without delay through their respective embassies.
-
-...
-
-[Data](articles/edb8dacd.json)
-
----
-
-### Supreme Television partners Channel NewsAsia to expand global broadcasting reach
-
-*2025-01-07 03:17:58* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Television-partners-Channel-NewsAsia-to-expand-global-broadcasting-reach/56-771515) · `en`
-
-Supreme Television yesterday announced a significant partnership with Channel NewsAsia (CNA), a leading 24-hour English-language Asian TV news channel known for its in-depth reporting and programing that bridges Asia with global developments.
-
-This collaboration represents a transformative step in Supreme Television’s mission to provide high-quality programing and enhance its global presence.
-
-This partnership with CNA enables Supreme Television to deliver a rich blend of news and information from Asia and beyond, connecting Sri Lankan viewers to the heart of global conversations. CNA’s renowned expertise in news, business, and current affairs ensures that audiences receive credible, timely, and culturally nuanced content.
-
-...
-
-[Data](articles/7ad5e8a1.json)
-
----
-
-### New Board appointed to 1990 Suwa  Seriya Foundation
-
-*2025-01-07 03:17:24* · [`dailyftlk`](https://www.ft.lk/news/New-Board-appointed-to-1990-Suwa-Seriya-Foundation/56-771514) · `en`
-
-President Anura Kumara Dissanayake has appointed a new Chairman and Board Members to the 1990 Suwa Seriya Foundation.
-
-A.M.N. Ratnayake was appointed as the new Chairman of the 1990 Suwa Seriya Foundation, while R.J.M.A.P. Sampath and Nalin Perera were appointed as Board Members.
-
-The appointment letters were presented by Secretary to the President Dr. Nandika Sanath Kumanayake yesterday.
-
-◼️
-
-[Data](articles/6f2f56ba.json)
-
----
-
-### President, AG discuss expediting controversial legal cases
-
-*2025-01-07 02:54:34* · [`dailyftlk`](https://www.ft.lk/news/President-AG-discuss-expediting-controversial-legal-cases/56-771504) · `en`
-
-President Anura Kumara Dissanayake yesterday held a discussion with the Attorney General and his officials on the need to expedite controversial and high profile legal cases.
-
-During the discussion, the President emphasised the importance of coordinated efforts among all institutions working towards the effective enforcement of the law.
-
-...
-
-[Data](articles/132c8c62.json)
-
----
-
-### FSP urges Govt. to stop dancing to IMF’s tunes
-
-*2025-01-07 02:52:55* · [`dailyftlk`](https://www.ft.lk/news/FSP-urges-Govt-to-stop-dancing-to-IMF-s-tunes/56-771503) · `en`
-
-FSP Propaganda Secretary and People’s Struggle Alliance National Executive Member Duminda Nagamuwa
-
-Claims elders have an income reduction of 55% due to adhoc taxes
-
-Questions why Govt. allowed IMF to open offices in Ministry of Finance, Central Bank, and Department of Income Tax
-
-Alleging the National People’s Power (NPP) Government is exerting a huge burden on ordinary people, including the pensioners through its adhoc tax policies, the Frontline Socialist Party (FSP) is urging the Government to implement a people-friendly economic policy as pledged at NPP’s election platforms.
-
-“It is very clear that the Government has overlooked people’s interests and is dancing to the tune of the International Monetary Fund (IMF) while putting people of this country out of the frying pan into the fire by imposing unfair tax policies,” FSP Propaganda Secretary and People’s Struggle Alliance National Executive Member Duminda Nagamuwa said.
-
-...
-
-[Data](articles/5cc1fcd2.json)
-
----
-
-### New Chairman and members appointed to Official Languages Commission
-
-*2025-01-07 02:50:40* · [`dailyftlk`](https://www.ft.lk/news/New-Chairman-and-members-appointed-to-Official-Languages-Commission/56-771502) · `en`
-
-President Anura Kumara Dissanayake has appointed Nimal R. Ranawaka as the new Chairman of the Official Languages Commission.
-
-The other members of the commission include Professor R.M.W. Rajapaksha, Professor Stanislaus Joseph Yogarajah, and Lareena Abdul Haq. The appointment letters were presented yesterday at the Presidential Secretariat by Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-◼️
-
-[Data](articles/2b59e7c6.json)
-
----
-
-### Two new Directors appointed to Lankem Ceylon, E.B. Creasy and Laxapana Boards
-
-*2025-01-07 02:47:59* · [`dailyftlk`](https://www.ft.lk/business/Two-new-Directors-appointed-to-Lankem-Ceylon-E-B-Creasy-and-Laxapana-Boards/34-771501) · `en`
-
-Kamal Punchihewa and Shrihan Perera have been appointed as Independent Non-Executive Directors to the Boards of Lankem Ceylon PLC., E.B. Creasy and Company PLC, Lankem Developments PLC and Laxapana PLC.
-
-Kamal Punchihewa started his career at B.R. De Silva & Co. Chartered Accountants, in 1983 and was appointed as a partner in 1991.
-
-He moved to the mercantile sector as the Financial Controller of Kotagala Plantations Ltd., under George Steuarts Management Services in 1992 and in 1997 he was promoted as the Group Financial Controller of the George Steuarts Group of Companies and also as the Director Finance of George Steuart Auto Supplies Ltd.
-
-He re-joined the Plantation Sector as the General Manager – Finance of Kahawatte Plantations Ltd., in 2002.
-
-...
-
-[Data](articles/1961e4bf.json)
-
----
-
-### Mohan and Dinesh appointed to Swisstek Board
-
-*2025-01-07 02:44:42* · [`dailyftlk`](https://www.ft.lk/business/Mohan-and-Dinesh-appointed-to-Swisstek-Board/34-771500) · `en`
-
-Swisstek (Ceylon) PLC has announced the appointment of Mohan Ratnayake and Dinesh Mendis to its Board as Independent Non-Executive Directors.
-
-Ratnayake is a Fellow member of the Chartered Institute of Management Accountants UK and has read for an MBA. He was the Chairman of the Committee which issued Sri Lanka’s first internationally listed USD Bond by a corporate entity for Sri Lanka Telecom PLC (SLT), which traded on the Singapore Stock Exchange, for the expansion of SLT and Mobitel. This was when the sovereign had not been rated by International Rating Agencies.
-
-Ratnayake currently serves as the Managing Director of Colonial Motors CeyIon Ltd., and as the Chairman of Lanka Reality Investment PLC. He is also an Independent Non-Executive Director of ACL Plastics PLC.
-
-...
-
-[Data](articles/60b49fa7.json)
-
----
-
-### Ex-JKH Kehelpannala joins Marawila Resorts, Sigiriya Village Boards
-
-*2025-01-07 02:41:12* · [`dailyftlk`](https://www.ft.lk/business/Ex-JKH-Kehelpannala-joins-Marawila-Resorts-Sigiriya-Village-Boards/34-771499) · `en`
-
-Former John Keells Holdings’ top industry Executive Jayantissa Kehelpannala has joined the Boards of Marawila Resorts PLC., Sigiriya Village Hotels PLC and Beruwala Resorts PLC as an Independent Non-Executive Director.
-
-These companies are part of the Colombo Fort Hotels Ltd., and Marawila Resorts PLC owns Club Palm Bay.
-
-Kehelpannala counts over 40 years of experience in the Leisure Sector in Destination Management Business and Hoteliering in the John Keells Group. He was the former Executive Vice President of John Keells Group and the former Senior Vice President of Cinnamon Hotels and Resorts, overseeing the entire operation of Cinnamon properties in Maldives and the Cinnamon Group expansion. He has served on many of the Boards of John Keells leisure sector in Sri Lanka and in Maldives. He was a Board member of John Keells Hotels PLC until his retirement in December 2022. He was responsible for expansion/refurbishment of John Keells Hotels in Sri Lanka and in Maldives.
-
-...
-
-[Data](articles/5dcf2ee1.json)
-
----
-
-### EY Sri Lanka welcomes Talal Rafi
-
-*2025-01-07 02:39:09* · [`dailyftlk`](https://www.ft.lk/business/EY-Sri-Lanka-welcomes-Talal-Rafi/34-771498) · `en`
-
-EY Sri Lanka has announced the appointment of economist and global thought leader Talal Rafi as a Director, Business Consulting.
-
-His expertise in economic policy, public finance, and ESG operations aligns with EY Sri Lanka’s focus on providing future-ready solutions to clients in a rapidly changing world.
-
-Talal’s illustrious career spans contributions as a Consultant at the Asian Development Bank and as a regular columnist for the International Monetary Fund (IMF). As a member of the Expert Network of the World Economic Forum, he has actively shaped global economic discussions while also serving as a member of the Global ESG Operations Team at one of the Big Four. His academic contributions include his role as a visiting lecturer at the Centre for Banking Studies, Central Bank of Sri Lanka.
-
-...
-
-[Data](articles/ddc09e76.json)
-
----
-
-### CA Sri Lanka unveils comprehensive implementation roadmap for sustainability standards
-
-*2025-01-07 02:35:50* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-unveils-comprehensive-implementation-roadmap-for-sustainability-standards/34-771497) · `en`
-
-CA Sri Lanka President Heshana Kuruppu (right) at a session on sustainability standards
-
-A session on sustainability standards organised by CA Sri Lanka in progress
-
-To introduce readiness maturity assessment model in early 2025 along with the Application Guideline book Will assess adoption status of the top 100 listed companies on CSE
-
-At annual TAGS Awards ceremony, CA Sri Lanka will further evaluate and recognise companies demonstrating exemplary implementation of sustainability standards
-
-The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), in March last year unveiled a comprehensive implementation roadmap to support the adoption of the International Sustainability Standards Board’s (ISSB) global sustainability disclosure standards.
-
-The roadmap aims to guide Sri Lankan businesses in integrating these critical standards, reflecting a commitment to enhancing transparency and aligning with global sustainability requirements.
-
-...
-
-[Data](articles/7eb2449d.json)
-
----
-
-### Star Garments Group wins Gold at NCE Export Awards 2024
-
-*2025-01-07 02:32:47* · [`dailyftlk`](https://www.ft.lk/business/Star-Garments-Group-wins-Gold-at-NCE-Export-Awards-2024/34-771496) · `en`
-
-Star Garments Group, a powerhouse in Sri Lanka’s apparel industry and the only group of apparel companies to be certified as carbon neutral across all its processes, recently emerged victorious at the 32nd edition of the NCE Export Awards, taking home the Gold award for Textile and Garment Sector, under the Extra-Large Category.
-
-The National Chamber of Exporters of Sri Lanka (NCE) organises this flagship event annually and this time around with the theme “Embrace innovation and digitalisation”. The event took place on 6 December at Shangri-La Colombo.
-
-This stands out as a remarkable achievement for Star amidst the various challenges faced in 2023 due to global market fluctuations. Star continued to grow its footprint in Sri Lanka despite a challenging operating environment through new acquisitions including the acquisition of Kolonna Manufacturing Ltd., marking the group’s twelfth factory.
-
-...
-
-[Data](articles/e5bcb5eb.json)
-
----
-
-### DIMO shines at TAGS Awards 2024, clinches prestigious Overall Silver award
-
-*2025-01-07 02:30:37* · [`dailyftlk`](https://www.ft.lk/business/DIMO-shines-at-TAGS-Awards-2024-clinches-prestigious-Overall-Silver-award/34-771495) · `en`
-
-DIMO triumphed at the TAGS Awards 2024, winning the prestigious Silver award for Overall Excellence in Corporate Reporting. The company also earned a Gold award and four Silver awards, highlighting its commitment to Transparency, Accountability, Governance, and Sustainability. The accolades included a Gold award for Diversified Holdings (Group turnover up to Rs. 100 billion) and Silver Awards for Integrated Reporting, Corporate Governance Disclosure – Non-Financial Services, Sustainability Reporting, and Digitally Transformative Reporting.
-
-Group Managing Director/CEO Gahanath Pandithage and Executive Director/CFO Suresh Gooneratne received the Overall Silver award on behalf of the company. DIMO’s 2023/24 Annual Report, themed “Agile by nature” with a dragonfly metaphor, introduced an innovative braille synopsis for the visually impaired and featured a dedicated microsite, enhancing its digital engagement.
-
-◼️
-
-[Data](articles/ad4c5798.json)
-
----
-
-### Spotlight on key reforms at Sri Lanka Economic Summit
-
-*2025-01-07 02:26:53* · [`dailyftlk`](https://www.ft.lk/business/Spotlight-on-key-reforms-at-Sri-Lanka-Economic-Summit/34-771494) · `en`
-
-The Sri Lanka Economic Summit organised by The Ceylon Chamber of Commerce will be inaugurated on 28 January at the Shangri La Hotel Colombo, under the theme "Shaping Sri Lanka’s Future: Transformational Growth Rooted in Sound Economic Policies."
-
-On day 2 of the Summit on 29 January one of the key sessions will examine “The Right Reforms for Transformational Growth”.
-
-The session will centre on the Korean story of economic transformation, and potential applications to Sri Lanka’s development trajectory. It will explore medium-term opportunities for Sri Lanka and leverage the expertise of a high-profile panel representing leading multinational corporations, local conglomerates, the energy, ports and capital market sectors, and multilateral agencies.
-
-Discussions will also focus on the potential for public-private partnerships to drive Sri Lanka’s growth.
-
-...
-
-[Data](articles/2ac86095.json)
-
----
-
-### How to reform public sector:  Essential asset management solution
-
-*2025-01-07 01:57:58* · [`dailyftlk`](https://www.ft.lk/columns/How-to-reform-public-sector-Essential-asset-management-solution/4-771487) · `en`
-
-Just reducing numbers would not make the public sector a better one, without introducing structural reforms
-
-Soft changes to the Sri Lankan public sector would not work. The typical approach in Sri Lanka is to appoint a group of human resources, administrative and finance professionals to lead a reform plan. It has not worked previously, and it would not work in the future either. There is a secret how the Australian public sector became so good. They implemented an Asset Management Strategy for all public sector organisations around 40 years ago and continually refined its process and execution. This is the only solution for Sri Lankan public sector revival as well
-
-...
-
-[Data](articles/24d29f0f.json)
-
----
-
-### අනුරගේ 'Clean Sri  Lanka' සහ ලී ක්වාන් යූගේ 'Keep Singapore Clean' අතර සමානකම් තිබේ ද?
-
-*2025-01-07 01:43:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c785p38rj4jo) · `si`
-
-අනුරගේ 'Clean Sri  Lanka' සහ ලී ක්වාන් යූගේ 'Keep Singapore Clean' අතර සමානකම් තිබේ ද?
-
-වර්තමාන ජනාධිපති අනුර කුමාර දිසානායක ජනාධිපති ධූරයේ වැඩ භාරගෙන දින 100ක් ගත වීමත් සමග මෙම වසරේ ජනවාරි 01 වනදා ජනාධිපති මූලිකත්වයෙන් ආරම්භ වූ Clean  Sri Lanka ව්‍යාපෘතිය සම්බන්ධයෙන් මේ වන විට බොහෝ දෙනෙකුගේ අවධානය යොමුව තිබේ.
-
-ජනපති අනුරගේ ප්‍රධානත්වයෙන් ඇරඹුණු Clean Sri Lanka වැඩසටහන ගැන ඔබ දැනුවත් ද?
-
-'පොහොසත් රටක් ලස්සන ජීවිතයක්' යන තේමාව යටතේ ක්‍රියාත්මක කෙරෙන රජයේ වැඩපිළිවෙළ අනුව රටේ පරිසරය පිරිසිදු කිරීමට අමතරව ලොව දියුණු රටවල ජනතාව භුක්ති විඳින ආකාරයේ ඉහළ සමාජ ආර්ථික තත්ත්වයක් සහ නිදහසක් උරුම කර දීමේ අරමුණින් ක්‍රියාත්මක වන මෙම වැඩපිළිවෙල, වරක් සිංගප්පුරුවේ හිටපු අගමැතිවරයෙකු වන ලී ක්වාන් යූ විසින් ක්‍රියාත්මක කරනු ලැබූ 'Keep Singapore Clean' වැඩසටහනේ අනුකරණයක්දැයි මේ වන විට අදහස් මතුව තිබේ.
-
-ව්‍යාපෘති දෙකම අධ්‍යනය කිරීමේදී ඒවායේ යම් යම් සමානකම් පවතින බව බීබීසී සිංහල වෙත නිරීක්ෂණය විය.
-
-'Keep Singapore Clean' ව්‍යාපෘතිය නිදහස් ජාතියක් ලෙස සිංගප්පූරුවේ ආරම්භ වූ පළමු ජාතික ව්‍යාපාරයයි.
-
-...
-
-[Data](articles/b2a23323.json)
-
----
-
-### I was 10 years old when Lasantha Wickrematunge was assassinated
-
-*2025-01-07 00:33:57* · [`dailyftlk`](https://www.ft.lk/opinion/I-was-10-years-old-when-Lasantha-Wickrematunge-was-assassinated/14-771480) · `en`
-
-The year was 2009. On 8 January, the army recaptured Palaly from the Tamil Tigers in efforts to reach the Jaffna Peninsula. I was a 10-year-old girl growing up in Colombo then and I was in year five.
-
-That morning, I was sitting behind my desk when a teacher dashed into our classroom with terror across her face and loudly told my English teacher that Lasantha Wickrematunge had been shot. I recall my teacher being in discomfort for the remainder of the class. At the time, I didn’t quite understand the impact his death had on Sri Lanka and what his assassination was going to mean for the future of dissent in the nation.
-
-...
-
-[Data](articles/10638b5b.json)
-
----
-
-### I was 10 years old when Lasantha Wickrematunge was assassinated
-
-*2025-01-07 00:33:57* · [`dailyftlk`](https://www.ft.lk/columns/I-was-10-years-old-when-Lasantha-Wickrematunge-was-assassinated/4-771480) · `en`
-
-The year was 2009. On 8 January, the army recaptured Palaly from the Tamil Tigers in efforts to reach the Jaffna Peninsula. I was a 10-year-old girl growing up in Colombo then and I was in year five.
-
-That morning, I was sitting behind my desk when a teacher dashed into our classroom with terror across her face and loudly told my English teacher that Lasantha Wickrematunge had been shot. I recall my teacher being in discomfort for the remainder of the class. At the time, I didn’t quite understand the impact his death had on Sri Lanka and what his assassination was going to mean for the future of dissent in the nation.
-
-...
-
-[Data](articles/ef9065b8.json)
-
----
-
-### Restore functioning of postal services in original building of Colombo General Post Office
-
-*2025-01-07 00:05:22* · [`dailyftlk`](https://www.ft.lk/opinion/Restore-functioning-of-postal-services-in-original-building-of-Colombo-General-Post-Office/14-771479) · `en`
-
-The Colombo General Post Office is functioning in a private building owned by the Islamic Cultural Centre on exorbitant rent while the original building is being earmarked for sale by the previous Government.
-
-The original structure was designed by a British architect H.F. Tomalin of the Public Works Department in the year 1890. Construction was done by the famous Avasi Marikkar Wapachi Marikkar who constructed the National Museum building and the Colombo Fort Clock Tower. He was Sir Razik Fareed’s grandfather. The cost of the building was originally estimated at Rs. 300,000, but ultimately it costed a little over Rs. 370,000. The building has two floors containing 18,522 sq. feet in each floor.
-
-The building is really majestic in appearance, just opposite of the President’s Palace. There is an underground tunnel connecting the GPO with the President’s Palace and during the British period the mail was delivered to the Governor immediately after the mail was sorted out.
-
-...
-
-[Data](articles/0039fd76.json)
-
----
-
-### 2025-01-06 (Monday)
-
-### Andrea doing it in Memphis
-
-*2025-01-06 23:41:00* · [`islandlk`](http://island.lk/andrea-doing-it-in-memphis/) · `en`
-
-Sri Lanka’s Andrea Marr, who now resides in Australia, and an accomplished Blues singer, is in the States, at the moment…preparing to be a part of the Women in Blues showcase, scheduled for 9th January, in Memphis.
-
-Says Andrea: “I’m in Memphis now, home of the Blues and the place that truly holds my musical heart. 2025 is certainly starting off with excitement and adventure.
-
-“Yep, very nervous to come and do the Women in Blues showcase without my band and with no rehearsal, but the house band is filled with monster female musicians and I think we can present something pretty great! Exciting times, indeed!”
-
-Before her departure from Melbourne to Memphis, Andrea had this to say:
-
-“It’s almost Memphis time! I can’t wait to walk those streets again, hear those beautiful southern voices, immerse myself in the home of Blues and Soul and marvel at the fact that I get to sing my own songs in Memphis again.
-
-...
-
-[Data](articles/8e20ad25.json)
-
----
-
-### Festive surprise from singer Suzi…
-
-*2025-01-06 23:41:00* · [`islandlk`](http://island.lk/festive-surprise-from-singer-suzi/) · `en`
-
-Suzi Croner, of the popular Sri Lankan outfit of the ’90s, Friends, surprised everyone in the scene here by turning up, unexpectedly…and performing, as well.
-
-According to Suzi, she had no plans to checkout Colombo during the festive season. However, she was literally forced to come due to family commitments. And, when people that matter got to know about her impending arrival, they went into action to give local music lovers the opportunity to see Suzi live in action…after almost 26 years.
-
-Suzi entertained the large crowd that turned up at the CR & FC for the club’s festive celebrations and she certainly did keep everyone entertained with her vocals and stage presentation.
-
-The singer was also featured at the opening of the new Cheers Pub at the Cinnamon Grand, along with Manilal Perera, and continued her act for a few nights more.
-
-...
-
-[Data](articles/d519d0b0.json)
-
----
-
-### An overlooked priority govt. can fix
-
-*2025-01-06 23:38:00* · [`islandlk`](http://island.lk/an-overlooked-priority-govt-can-fix/) · `en`
-
-Among the important promises of the NPP government to the people has been to address the problem of corruption and waste.  This was the centre piece of the Aragalaya protests that brought down the government in 2022.    The government made many other promises too when it was in the opposition.  But unlike in the case of these other promises, such as to reduce the cost of living, the promise to reduce corruption and waste is within the power of the government to a greater extent than to bring down the cost of living which is determined by external factors more than by internal ones.  The  government has cut down on its costs considerably.  Its celebrations of its electoral victory and swearing in of the new president and parliament was on a low key.  The president took only a small delegation with him on his first official trip abroad to India.
-
-...
-
-[Data](articles/4ee0a935.json)
-
----
-
-### Access Motors triumphs in the prestigious JLR Asia Pacific Service Advisor Competition
-
-*2025-01-06 23:35:00* · [`islandlk`](http://island.lk/access-motors-triumphs-in-the-prestigious-jlr-asia-pacific-service-advisor-competition/) · `en`
-
-Ibrahim Rahminthulla, a seasoned Service Advisor at Access Motors, has clinched the top spot in a highly competitive Asia Pacific Region Service Advisor Competition. This prestigious recognition highlights his exceptional customer service skills and technical expertise.
-
-Competing against 43 skilled service advisors from 16 countries, Ibrahim’s ability to consistently deliver outstanding service experience, his profound knowledge of JLR vehicles and his technical expertise set him apart. It earned him the highest honour in the Asia Pacific Region Service Advisor Competition.
-
-The competition, initiated by JLR’s Asia Pacific Office, aims to recognise and celebrate service advisors who exemplify excellence in their field. Ibrahim’s unwavering commitment to customer satisfaction, coupled with his deep technical knowledge, made him a standout candidate.  Customer feedback played a crucial role in Ibrahim’s victory. A few of the glowing reviews Ibrahim received were;
-
-...
-
-[Data](articles/e5f58bc3.json)
-
----
-
-### Thilan Wijesinghe contributes to global South Blue Economy at ORF’s Cape Town Conversation
-
-*2025-01-06 23:33:00* · [`islandlk`](http://island.lk/thilan-wijesinghe-contributes-to-global-south-blue-economy-at-orfs-cape-town-conversation/) · `en`
-
-Thilan Wijesinghe, Chairman of TWC Group recently addressed global policymakers and experts at the ORF Cape Town Conversation, recently held in Cape Town, South Africa. Co-hosted by the Observer Research Foundation (ORF) and the Thabo Mbeki Foundation (TMF), the event served as a critical platform for addressing pressing global South’s challenges, including the future of the Blue Economy. ORF – a globally renowned think tank based in India, has over the last 30 years evolved from primarily looking inward and engaging with domestic reforms, to gradually forging global partnerships. ORF today plays a seminal role in building political and policy consensus that enables the global south to interact with the world.
-
-...
-
-[Data](articles/90f73182.json)
-
----
-
-### Professor H.A. de S. Gunasekera Memorial Oration 2025
-
-*2025-01-06 23:33:00* · [`islandlk`](http://island.lk/professor-h-a-de-s-gunasekera-memorial-oration-2025/) · `en`
-
-The Professor H.A. de S. Gunasekera Memorial Oration 2025 will be held on Friday January 10th, 2025 at 3:00 p.m. at the Senate Room, University of Peradeniya. The Oration will be delivered by Sumanasiri Liyanage, Former Associate Professor, Department of Economics and Statistics, University of Peradeniya, on the topic, “Contingence, Conjuncture and Structure: The Economic Crisis in Sri Lanka: A Political Economy Critique”
-
-...
-
-[Data](articles/a830350e.json)
-
----
-
-### Capacity-building in hotel sector, a crying need – tourism expert
-
-*2025-01-06 23:28:00* · [`islandlk`](http://island.lk/capacity-building-in-hotel-sector-a-crying-need-tourism-expert/) · `en`
-
-Sri Lanka has an immense growth potential in its travel and tourism industry, yet this rich potential has not been realized. Therefore, capacity building in the hotel sector is the need of the hour to attract more tourists into the country in the future, a top travel and tourism sector expert Chandana Amaradasa said.
-
-“At present Sri Lanka has approximately 40,000 rooms, which need to be doubled at least within the next three to five years. Apart from that the best solution would be to upgrade existing hotels which are operating to five star level, said Amaradasa who works as a Managing Director at Island Leisure Lanka, an award winning hospitality and destination management company which celebrated the 15th anniversary of its founding at Colombo Club at Hotel Taj Samudra recently.
-
-...
-
-[Data](articles/09c07c36.json)
-
----
-
-### Dialog brings ‘The Future.Today’ to life as Sri Lanka’s first Drone Countdown takes flight
-
-*2025-01-06 23:28:00* · [`islandlk`](http://island.lk/dialog-brings-the-future-today-to-life-as-sri-lankas-first-drone-countdown-takes-flight/) · `en`
-
-Dialog Axiata PLC, Sri Lanka’s #1 connectivity provider, hosted the country’s first-ever New Year countdown drone show, marking a groundbreaking moment in celebration of the dawn of 2025. Held at Galle Face Green in collaboration with ITN’s 31st Night celebrations, this spectacular event illuminated the Colombo skyline with 400 drones, creating an awe-inspiring visual display visible within a 5-km radius.
-
-This iconic showcase, which drew over 150,000 live attendees and engaged over 12 million Sri Lankans, underscores Dialog’s dedication to bringing innovative experiences to life, true to its brand promise of ‘The Future.Today’. The event not only captivated audiences but also sparked widespread positive sentiment, organically generating hundreds of thousands of content pieces across media and community platforms.
-
-...
-
-[Data](articles/effb39f9.json)
-
----
-
-### Automobiie Association ties-up with ndb Affinity Credit Card
-
-*2025-01-06 23:26:00* · [`islandlk`](http://island.lk/automobiie-association-ties-up-with-ndb-affinity-credit-card/) · `en`
-
-The Automobile Association of Ceylon (AAC) celebrated its 120th anniversary recently.
-
-The members of the Executive Committee, several other well-wishers and government and other officials participated.
-
-At the ceremony the National Development Bank launched its Affinity Credit Card to members of AAC.
-
-‘Local gem and jewellery industry at a critical juncture; its potential going untapped’
-
-Capacity-building in hotel sector, a crying need – tourism expert
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/6d9ea340.json)
-
----
-
-### Share market sets ‘optimistic tone’ for 2025; economic growth seen to be in the offing
-
-*2025-01-06 23:26:00* · [`islandlk`](http://island.lk/share-market-sets-optimistic-tone-for-2025-economic-growth-seen-to-be-in-the-offing/) · `en`
-
-The Colombo Stock Exchange (CSE) has shown robust growth in 2024. With a 49.6 percent increase in the All Share Price Index and other positive developments, an optimistic tone has been set for 2025, Senior Vice President – Marketing for CSE Niroshan Wijesundere said.
-
-“A stable political environment, low interest rates, continuation of macroeconomic reforms under the IMF program, the country’s rating upgrade and debt restructuring are positive developments that will enable economic growth and instill investor confidence, Wijesundera told The Island Financial Review.
-
-“With a focus on inclusivity, ESG integration and digital transformation strategies, the CSE has plans to expand retail participation, attract foreign inflows, encourage IPO activity, diversify product range and develop market infrastructure, he said.
-
-“These efforts will strengthen Sri Lanka’s capital market as a driver of sustainable economic growth and broader wealth creation, Wijesudenra added.
-
-...
-
-[Data](articles/7ab429b0.json)
-
----
-
-### ‘Local gem and jewellery industry at a critical juncture; its potential going untapped’
-
-*2025-01-06 23:25:00* · [`islandlk`](http://island.lk/local-gem-and-jewellery-industry-at-a-critical-juncture-its-potential-going-untapped/) · `en`
-
-Sri Lanka’s gem and jewellery industry, once a jewel of the nation’s economy, is now at a critical juncture. Against this backdrop, Deputy Minister of Industry and Entrepreneurship Development Chaturanga Abeysinghe calls for urgent reforms and collective efforts to restore the industry’s global standing and unlock its untapped potential.
-
-Highlighting the challenges, Abeysinghe remarked, “Sri Lanka has lost its gemstones in two ways – as citizens and as a country. The famed Blue Sapphire, valued at a minimum of Rs. 150,000 per carat, and other high-value gems like rubies are treasures that should place our nation on the global map. Yet, we have failed to leverage this heritage.”
-
-The deputy minister shed light on key issues plaguing the industry:
-
-...
-
-[Data](articles/42d537ce.json)
-
----
-
-### மேலும் இரண்டு வினாத்தாள்கள் வௌியாகியுள்ளன
-
-*2025-01-06 23:02:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-இரண்டு-வினாத்தாள்கள்-வௌியாகியுள்ளன/175-349884) · `ta`
-
-வடமத்திய மாகாணத்தில் உள்ள அரச பாடசாலைகளின் 11ம் தர தவணைப் பரீட்சை தொடர்பான மேலும் இரண்டு வினாத்தாள்கள் வெளியாகியுள்ளன.
-
-விஞ்ஞானம் மற்றும் ஆங்கில பாடங்கள் தொடர்பான வினாத்தாள்கள் இவ்வாறு வௌியாகியுள்ளதாக வடமத்திய மாகாண கல்விச் செயலாளர்  சிறிமெவன் தர்மசேன தெரிவித்தார்.
-
-“இன்றைய பரீட்சை வினாத்தாள் வெளியானதாக நேற்று நள்ளிரவு முதலாவது செய்தி கிடைத்தது. அதன்படி இன்று காலை அந்த பரீட்சை நடவடிக்கைகளை நிறுத்தி வைக்க முடிவு செய்தோம். இன்று பிற்பகலில், நாளை மற்றும் நாளை மறுநாள் திட்டமிடப்பட்ட விஞ்ஞானம் மற்றும் ஆங்கில வினாத்தாள்கள் வௌியானதாக தகவல் கிடைத்தது."
-
-இந்த வினாத்தாள்கள் வெளியானது தொடர்பாக அநுராதபுரம் தலைமையக பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளதாகவும், சம்பவம் எவ்வாறு இடம்பெற்றது என்பதை கண்டறிய நடவடிக்கை எடுத்து வருவதாகவும் அவர் கூறினார். R
-
-◼️
-
-[Data](articles/355b6cd2.json)
-
----
-
-### Mahaweli Water Security Project: AKD’s first failure in the making?
-
-*2025-01-06 23:02:28* · [`dailyftlk`](https://www.ft.lk/columns/Mahaweli-Water-Security-Project-AKD-s-first-failure-in-the-making/4-771478) · `en`
-
-Although the ADB’s Board has the power to extend the MWSIP funding window beyond the 2025 deadline, this will happen only if the Government makes a forceful high-level request. To allow this extension, the ADB will have to break its own rule of a 10-year limit on projects of this kind. The External Resources Department has made a formal request to extend the project, but that’s been routinely turned down. But the ADB’s board granted an extension beyond the 10-year limit for a project in Mongolia after a high-level request was made
-
-...
-
-[Data](articles/99fa5cf1.json)
 
 ---

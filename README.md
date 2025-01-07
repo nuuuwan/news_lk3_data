@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 09:17:14**
+As of **2025-01-07 09:28:19**
 
 ## Newspaper Stats
 
-*Scraped **64,082** Articles*
+*Scraped **64,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 672
-economynextcom | 3,899
+economynextcom | 3,900
 islandlk | 3,918
 dailyftlk | 4,470
 dailymirrorlk | 4,733
 adalk | 6,121
 adaderanalk | 7,840
-tamilmirrorlk | 9,187
+tamilmirrorlk | 9,190
 virakesarilk | 10,701
 adaderanasinhalalk | 11,066
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,082 articles have been extended.
+61,971 (96.7%) of 64,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### இன்று காலை ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கம்
+
+*2025-01-07 08:36:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காலை-ஏற்பட்ட-சக்திவாய்ந்த-நிலநடுக்கம்/175-349893) · `ta`
+
+நேபாளத்தில் இன்று காலை 6.50 மணியளவில் ரிக்டர் அளவுகோலில் 7.1 ஆக சக்தி வாய்ந்த நிலநடுக்கம் ஒன்று ஏற்பட்டு உள்ளது.
+
+நேபாளத்தின் லொபுசே என்ற பகுதிக்கு வடகிழக்கே 93 கி.மீ. தொலைவில் இந்நிலநடுக்கம் ஏற்பட்டுள்ளது. நேபாளம் மற்றும் சீனா எல்லையருகே சன்குவசாபா மற்றும் தேபிள்ஜங் என்ற பகுதியில் இந்த நிலநடுக்கம் உணரப்பட்டு உள்ளது.
+
+இதனால் பல பகுதிகளில் கட்டிடங்கள் குலுங்கியுள்ள நிலையில் இதனை தொடர்ந்து, இந்தியாவின் புதுடில்லி, பீகார் போன்ற மாநிலங்களிலும் மற்றும் சீனாவிலும் இந்த நிலநடுக்கம் உணரப்பட்டு உள்ளதாக தெரிவிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/0985b9e9.json)
+
+---
+
+### நேபாளத்தில் சக்திவாய்ந்த நிலநடுக்கம்
+
+*2025-01-07 08:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/நேபாளத்தில்-சக்திவாய்ந்த-நிலநடுக்கம்/50-349892) · `ta`
+
+நேபாள எல்லைக்கு அருகில் உள்ள திபெத்தில் இன்று (07) காலை 7.1 மெக்னிடியூட் அளவிலான சக்திவாய்ந்த நிலநடுக்கம் ஏற்பட்டுள்ளது.
+
+இந்த நிலநடுக்கம் அந்த நாட்டு நேரப்படி இன்று காலை 06.50 மணியளவில் 10 கிலோ மீட்டர் ஆழத்தில் ஏற்பட்டதாக காத்மாண்டுவில் உள்ள தேசிய நிலநடுக்க கண்காணிப்பு மற்றும் ஆராய்ச்சி மையம் கூறியுள்ளது.
+
+இந்த நில அதிர்வின் தாக்கம்  பீகார் மற்றும் அசாம் உள்ளிட்ட இந்தியாவின் பல பகுதிகளிலும் உணரப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/38de850f.json)
+
+---
+
+### நாட்டின் சில பகுதிகளில் இன்று மழை
+
+*2025-01-07 08:24:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்று-மழை/175-349891) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களின் சில இடங்களில் மழை பெய்யக்கூடும்.
+
+அத்துடன் தென் மற்றும் சபரகமுவ மாகாணங்களின் சில இடங்களில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய சாத்தியம் காணப்படுவதாக அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/d9f41fd8.json)
+
+---
 
 ### கல்கிஸ்சையில் துப்பாக்கிச் சூடு: ஒருவர் பலி
 
@@ -1731,57 +1779,5 @@ The Department of Motor Traffic has been authorizing specific modifications to t
 ...
 
 [Data](articles/788f7021.json)
-
----
-
-### India to offer unconditional support for Sri Lanka’s sports development
-
-*2025-01-06 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/104764/india-to-offer-unconditional-support-for-sri-lankas-sports-development) · `en`
-
-Indian High Commissioner to Sri Lanka Santosh Jha has expressed India’s commitment to offer unconditional support for the development of sports in Sri Lanka.
-
-He shared these views during a meeting held today (06) with Sri Lanka’s Minister of Youth Affairs and Sports, Sunil Kumara Gamage, at the ministry premises.
-
-The High Commissioner emphasized that India would provide support for conducting sports development programs across Sri Lanka, particularly to promote cricket and other sports activities.
-
-Additionally, he has expressed hopes for strengthening bilateral relations between the two countries in the field of youth affairs.
-
-Posting on ‘X’ (formerly Twitter) regarding the meeting, the Indian High Commission stated that that the discussion was focused on the shared potential of a young demography and potential areas of deepening cooperation between the two countries in youth affairs and sports.
-
-◼️
-
-[Data](articles/4b63d4a1.json)
-
----
-
-### Additional trains in operation for upcoming long weekends
-
-*2025-01-06 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/104763/additional-trains-in-operation-for-upcoming-long-weekends) · `en`
-
-Sri Lanka Railways says additional trains will be deployed in the months of January and February in order to reduce congestion in the upcoming long weekends.
-
-Accordingly, the following trains will be operated in addition to the regular long-distance trains during the aforesaid period.
-
-◼️
-
-[Data](articles/bfc4f241.json)
-
----
-
-### திருமணத்திற்கு பிறகும் தொடர்ந்து நடிப்பேன்- சாக்ஷி அகர்வால்
-
-*2025-01-06 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/203135) · `ta`
-
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் வெளியான 'காலா', அஜித் குமார் நடிப்பில் வெளியான 'விஸ்வாசம் ' ஆகிய படங்களில் நடித்து பிரபலமான நடிகை சாக்ஷி அகர்வால் தன்னுடைய பால்ய காலத்து நண்பரும், நீண்ட நாள் காதலருமான நவ்நீத்தை பெற்றோர்களின் சம்மதத்துடன் அண்மையில் திருமணம் செய்து கொண்டார். இதனைத் தொடர்ந்து தம்பதிகள் சென்னையில் பத்திரிக்கையாளர்களை சந்தித்தனர்.
-
-இந்நிகழ்வில் பேசிய சாக்ஷி அகர்வால், '' நான் கலை உலகில் நடிகையாக வேண்டும் என்று கனவு கண்டேன். அந்தக் கனவிற்கு ஆதரவு அளித்தவர் நவ்நீத். அதன் பிறகு தான் பெற்றோர்கள் சம்மதம் தெரிவித்தனர்.
-
-நட்பாக தொடங்கிய எங்களின் பயணம் காதலாகி, தற்போது திருமண பந்தத்தில் இணைந்து இருக்கிறது. திருமணத்திற்கு பிறகும் தொடர்ந்து நடிப்பதற்கான ஆதரவை அவர் வழங்கியிருக்கிறார்.
-
-அதனால் திருமணத்திற்கு பிறகும் தொடர்ந்து திரைப்படங்களில் நடிப்பேன் தற்போது பல நடிகைகள் திருமணத்திற்கு பிறகும் தங்களது திறமையை வெளிப்படுத்தி வருகிறார்கள். தற்போது மலையாளம்- கன்னடம் ஆகிய மொழிகளில் தலா ஒரு படங்களில் நடித்திருக்கிறேன்.
-
-...
-
-[Data](articles/e8e3f99b.json)
 
 ---

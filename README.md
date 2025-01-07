@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 00:28:41**
+As of **2025-01-08 00:44:00**
 
 ## Newspaper Stats
 
-*Scraped **64,227** Articles*
+*Scraped **64,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 3,922
 dailyftlk | 4,471
 dailymirrorlk | 4,733
 adalk | 6,142
-adaderanalk | 7,867
+adaderanalk | 7,869
 tamilmirrorlk | 9,215
 virakesarilk | 10,723
 adaderanasinhalalk | 11,095
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.5%) of 64,227 articles have been extended.
+61,971 (96.5%) of 64,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### Eleven SSPs transferred with immediate effect
+
+*2025-01-07 23:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104814/eleven-ssps-transferred-with-immediate-effect) · `en`
+
+Sri Lanka Police announced that a total of eleven Senior Superintendents of Police (SSPs) have been transferred with immediate effect.
+
+Accordingly, the following SSPs have been transferred as per a directive by the Acting IGP with the approval of the National Police Commission (NPC):
+
+◼️
+
+[Data](articles/68076ff2.json)
+
+---
 
 ### பதுளை சிறைச்சாலை அதிகாரி மீது தாக்குதல்
 
@@ -101,6 +115,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/7f0657ac.json)
+
+---
+
+### Committee on Public Finance meets for first time
+
+*2025-01-07 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104813/committee-on-public-finance-meets-for-first-time) · `en`
+
+The Committee on Public Finance met for the first time yesterday (06) under the Chairmanship of its Chair, Member of Parliament Dr. Harsha de Silva.
+
+In terms of the Standing Orders of Parliament, Member of Parliament Dr. Harsha de Silva, representing the opposition, was nominated as the Chair to the Committee on Public Finance by the Committee of Selection.
+
+Following the address by the Chair in which a brief overview of the functions and past work by the Committee was highlighted, the forum was made available for the Members of the Committee and the officials present to carry out an open discussion, a statement said.
+
+Thereafter, Ministry officials including Secretary to the Ministry of Finance, Mahinda Siriwardena and Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe, conducted a presentation on the Mid-Year Fiscal Position Report 2024 and the Recent Economic Developments and the Outlook.
+
+...
+
+[Data](articles/62f02d9d.json)
 
 ---
 
@@ -1801,43 +1833,5 @@ Speaking further, the Health Minister added: “A number of patients who underwe
 ◼️
 
 [Data](articles/f42f8615.json)
-
----
-
-### WHO recognizes Sri Lanka’s mental health reforms
-
-*2025-01-07 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/104788/who-recognizes-sri-lankas-mental-health-reforms) · `en`
-
-The World Health Organization (WHO) has recognized Sri Lanka’s focus on expanding community-based networks and de-institutionalization as a significant step toward improving mental health services.
-
-In its 2024 annual report, the WHO highlighted Sri Lanka’s commitment to transitioning from long-term institutional care to community-based services, which aims to provide individuals with more autonomy and support within their local communities.
-
-The organization advocated for the reorganization of mental health services, moving away from institutional settings toward community-based care.
-
-The WHO urged member states in the South-East Asian Region to develop multi-sectoral policies that address mental health risks and ensure that mental health services are accessible without financial hardship.
-
-Sri Lanka’s implementation of mental health surveys was also acknowledged for its role in informing policy decisions and resource allocation.
-
-◼️
-
-[Data](articles/6b5660c3.json)
-
----
-
-### ප්‍රශ්නගත ඖෂධ හේතුවෙන් දෑස් අන්ධ වූ පිරිසට වන්දි
-
-*2025-01-07 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205123) · `si`
-
-පසුගිය සමයේදී සිදුකරනු ලැබූ අක්ෂි සැත්කම් හේතුවෙන් අන්ධ භාවයට පත් වූ රෝගීන් වෙනුවෙන් වන්දි ලබා දීමට කැබිනට් මණ්ඩලය තීන්දු කළ බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
-
-අද (07) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු පැවසුවේ මීට අමතරව එම ඖෂධ ගෙන්වීමට මූලික වූ සියලු පාර්ශ්වයන්ට එරෙහිව නීතිමය කටයුතු කිරීමට කැබිනට් මණ්ඩලය තීන්දු කළ බවය.
-
-"නුවරඑළිය මහ රෝහලේ ඇසේ සුද ඉවත් කිරීමේ ශල්‍යකර්මයට භාජනය කරන ලද රෝගීන් ගණනාවකගේ ඇස් අහිමි වීමේ තත්ත්වයන් වාර්තා වුණා. සමහර කෙනෙක් පූර්ණ අන්ධ භාවයට පත් වුණා. ඒ අය සම්බන්ධයෙන් සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේඛ ලේකම්වරයෙකුගේ මූලිකත්වයෙන් කමිටුවත් පත් කරලා ඒ කමිටු වාර්තාව ලැබුණා.
-
-ඊයේ අපි කැබිනට් මණ්ඩලයේ දී තීන්දු කළා එකක් ඒ ආබාධිත තත්ත්වයට පත්වෙන ලද රෝගීන් 17 දෙනෙකුට රජය මගින් වන්දි මුදල් ලබා දෙන්න.
-
-...
-
-[Data](articles/d25cd3dd.json)
 
 ---

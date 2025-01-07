@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 11:44:34**
+As of **2025-01-07 12:03:51**
 
 ## Newspaper Stats
 
-*Scraped **64,104** Articles*
+*Scraped **64,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,471
 dailymirrorlk | 4,733
 adalk | 6,124
 adaderanalk | 7,840
-tamilmirrorlk | 9,196
+tamilmirrorlk | 9,198
 virakesarilk | 10,701
 adaderanasinhalalk | 11,066
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,104 articles have been extended.
+61,971 (96.7%) of 64,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-07 (Tuesday)
+
+### மக்களுக்கு மகிழ்ச்சியான அறிவிப்பு
+
+*2025-01-07 11:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-மகிழ்ச்சியான-அறிவிப்பு/175-349908) · `ta`
+
+இதன்படி புலம்பெயர்ந்தவர்கள் தாம் வாழு் நாடுகளில் உள்ள  ஸ்ரீ லங்கா தூதரகங்களில் தமக்குரிய பிறப்புச் சான்றிதழ், திருமணச் சான்றிதழ் மற்றும் இறப்புச் சான்றிதழ்களை தாமதமின்றி பெற்றுக்கொள்ள முடியும்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் டிஜிட்டல் மயமாக்கல் நிகழ்ச்சி நிரலின் கீழ் நடைமுறைப்படுத்தப்பட்ட திட்டத்திற்கு அமைய இந்த திட்டம் திங்கட்கிழமை (06) வெளிவிவகார அமைச்சர் விஜித ஹேரத்தால் ஆரம்பித்து வைக்கப்பட்டது.
+
+இதன்படி, 07 தூதரகங்களுக்கு இந்த முன்னோடித் திட்டம் நடைமுறைப்படுத்தப்படவுள்ளதுடன், ஜப்பான், கட்டார், குவைத் தூதரகங்கள், மிலானோ, டொறொன்டோ, மெல்பேர்ன் மற்றும் துபாய் ஆகிய நாடுகளின் துணைத் தூதரகங்கள் ஊடாக அந்த நாடுகளில் உள்ள இலங்கையர்களுக்கு மேற்படி ஆவணங்களை தாமதமின்றி பெற்றுக் கொள்ள சந்தர்ப்பம் கிடைத்துள்ளது.
+
+எதிர்வரும் காலங்களில் அனைத்து தூதரகங்களையும் உள்ளடக்கிய வகையில் இந்த திட்டம் நடைமுறைப்படுத்தப்படும் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/89433f98.json)
+
+---
+
+### ”சில மோசடிகள் இருப்பதை நான் ஒப்புக்கொள்கிறேன்’’
+
+*2025-01-07 11:41:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மோசடிகள்-இருப்பதை-நான்-ஒப்புக்கொள்கிறேன்/175-349907) · `ta`
+
+நாட்டில் பதிவு செய்யப்படாத வைத்தியர்கள் சட்டவிரோதமாக மருத்துவப் பயிற்சியில் ஈடுபடுவதை ஒப்புக்கொண்ட சுகாதார அமைச்சர் வைத்தியர் நலிந்த ஜயதிஸ்ஸ, அவர்களுக்கு எதிராக அரசாங்கம் சட்ட நடவடிக்கை எடுக்கவுள்ளதாகத் தெரிவித்துள்ளார்.
+
+சில மருத்துவப் பயிற்சியாளர்கள் தாங்கள் பதிவு செய்துள்ள மருத்துவ முறைக்குப் புறம்பாக மருத்துவ முறைகளை நடைமுறைப்படுத்த முனைகின்றனர் என்று அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் ரோஹன பண்டாரவின் கேள்விக்கு பதிலளித்த அவர், நாட்டில் பல மருத்துவ முறைமைகள் இயங்கி வருவதாகவும், வைத்திய நிபுணர்கள் உரிய மருத்துவ சபைகளில் பதிவு செய்ய வேண்டும் எனவும் தெரிவித்தார்.
+
+"சில மருத்துவ சபைகளில் சிக்கல்கள் உள்ளன. சில மருத்துவப் பயிற்சியாளர்கள் தாங்கள் பதிவு செய்த மருத்துவ முறைகளுக்குப் புறம்பாக மருத்துவ முறைகளைப் பயன்படுத்துவதாகக் கூறப்படுகிறது. நாட்டில் இதில் சுமார் 40,000 மோசடி செய்பவர்கள் இருப்பதாகக் கூறப்படுகிறது. இவ்வளவு பேர் இருப்பதாக நான் நினைக்கவில்லை. ஆனால் சில மோசடிகள் இருப்பதை நான் ஒப்புக்கொள்கிறேன்," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/2f04a2cf.json)
+
+---
 
 ### மிருகக்காட்சிசாலையின் கடைசி ஒராங்குட்டானும் உயிரிழப்பு
 
@@ -1739,41 +1775,5 @@ These measures are part of a broader strategy by Syria’s new caretaker governm
 ...
 
 [Data](articles/aad9f6bb.json)
-
----
-
-### President and Attorney General discuss on controversial legal proceedings
-
-*2025-01-06 17:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/104768/president-and-attorney-general-discuss-on-controversial-legal-proceedings) · `en`
-
-President Anura Kumara Disanayake has held a discussion with the Attorney General and officials from the Attorney General’s Department at the Presidential Secretariat today (06).
-
-During the discussion, the President emphasized the importance of coordinated efforts among all institutions working towards the effective enforcement of the law, the President’s Media Division (PMD) said.
-
-President Disanayake highlighted the critical responsibility of the Attorney General’s Department to restore public confidence in the judicial system. He further stressed that public perception regarding political interference must be transformed to ensure trust in the legal process, the PMD added.
-
-The President reiterated the government’s commitment to avoiding any actions that could erode public expectations. He assured that efforts are being made to re-establish confidence in the justice system and restore the principles of fairness and equity in the eyes of the people.
-
-...
-
-[Data](articles/63a1081b.json)
-
----
-
-### සේවක හිඟයෙන් බන්ධනාගාරයේ ගැටලු උග්‍රවෙයි
-
-*2025-01-06 17:37:57* · [`adalk`](https://www.ada.lk/breaking_news/සේවක-හිඟයෙන්-බන්ධනාගාරයේ-ගැටලු-උග්‍රවෙයි/11-414038) · `si`
-
-වසර තුනක පමණ කාලයක සිට දිවයිනේ බන්ධනාගාරවල  පවතින නිලධාරීන් 1834 දෙනෙකුගේ හිඟය නිසා රාජකාරී කටයුතු කිරීමේදී විවිධ දුෂ්කරතාවයන්ට මුහුණ පෑමට සිදුව ඇතැයි බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ගාමිණී එස්. දිසානායක මහතා සඳහන් කරයි.
-
-දිවයිනේ බන්ධනාගාරවල පවතින උග්‍ර නිලධාරී හිඟය පිළිබඳව කරුණු විමසීමේදී හෙතෙම මේ බව ප්‍රකාශ කර සිටියේය.
-
-දිවයිනේ සියලුම බන්ධනාගාරවල රාජකාරී කටයුතු කිරීම සඳහා නිලධාරීන්  7872ක්  අනුමත වී තිබේ. එහෙත් දැනට නිලධාරීන් සිටින සංඛ්‍යාව 6038 ක් වන අතර ඒ අනුව මෙම නිලධාරීන් 1834 පුරප්පාඩු වී ඇත.
-
-මෙම පුරප්පාඩු සම්පූර්ණ කිරීම සඳහා පසුගිය වර්ෂයේදී නියාමකයන් බඳවා ගැනීම සඳහා විභාග දෙපාර්තමේන්තුව  පැවති විභාගයට ආධුනිකයන් 750  පිරිසක් ඉල්ලුම් කොට තිබූ  බව බන්ධනාගාර කොමසාරිස් ගාමිණි එස්.  දිසානායක මහතා සඳහන් කරයි .මෙහිදී  347 දෙනකු බඳවා ගැනීමට බලාපොරොත්තු වුවද  මූලික පරීක්ෂණයට  පැමිණ සිටි දෙගුණයකගේ පිරිසෙන් ඒ සඳහා සම්මුඛ පරීක්ෂණයට සහභාගී වූයේ අඩු පිරිසක් බවද ඔහු වැඩිදුරටත් කියා සිටී.
-
-...
-
-[Data](articles/0bb52016.json)
 
 ---

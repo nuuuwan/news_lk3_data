@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 06:49:09**
+As of **2025-01-07 07:31:44**
 
 ## Newspaper Stats
 
-*Scraped **64,066** Articles*
+*Scraped **64,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,899
 islandlk | 3,918
 dailyftlk | 4,470
 dailymirrorlk | 4,733
-adalk | 6,119
+adalk | 6,120
 adaderanalk | 7,838
-tamilmirrorlk | 9,185
+tamilmirrorlk | 9,186
 virakesarilk | 10,700
 adaderanasinhalalk | 11,058
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,058
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,066 articles have been extended.
+61,971 (96.7%) of 64,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/9c45bdbd.json)
+
+---
+
+### நாடாளுமன்றம் இன்று கூடுகிறது
+
+*2025-01-07 04:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடாளுமன்றம்-இன்று-கூடுகிறது/175-349887) · `ta`
+
+2025 ஆம் ஆண்டுக்கான முதல் வார நாடாளுமன்றக் கூட்டத் தொடர் இன்று செவ்வாய்க்கிழமை ஆரம்பமாகும் நிலையில், முக்கிய சில விடயங்கள் தொடர்பில் சூடான வாதப்பிரதிவாதங்கள் இடம்பெறும் என எதிர்பார்க்கப்படுகின்றது.
+
+இதன்போது உள்ளூராட்சி சபைத் தேர்தல் திருத்தச் சட்டமூலம் நாடாளுமன்றத்தில் துறைசார் அமைச்சரால் முன்வைக்கப்படவுள்ளது. (a)
+
+◼️
+
+[Data](articles/d3475bde.json)
 
 ---
 
@@ -936,6 +950,26 @@ Meanwhile, India has reported two cases of human metapneumovirus (HMPV). Two inf
 
 ---
 
+### ආන්දෝලනයට තුඩු දී තිබෙන නඩු ගැන ජනපති සහ නීතිපති අතර සාකච්ඡාවක්
+
+*2025-01-06 18:45:03* · [`adalk`](https://www.ada.lk/breaking_news/ආන්දෝලනයට-තුඩු-දී-තිබෙන-නඩු-ගැන-ජනපති-සහ-නීතිපති-අතර-සාකච්ඡාවක්/11-414045) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ නීතිපතිවරයා ඇතුළු නීතිපති දෙපාර්තමේන්තු නිලධාරීන් අතර සාකච්ඡාවක් අද (06) ජනාධිපති කාර්යාලයේදී පැවැත්විණි.
+
+නීතිය පසිඳලීම සඳහා ක්‍රියා කරන සියලු ආයතන ඒකාබද්ධව කටයුතු කිරීමේ වැදගත්කම ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+
+අධිකරණ පද්ධතිය කෙරෙහි ජනතාව තුළ ඇති විශ්වාසය තහවුරු කිරීම නීතිපති දෙපාර්තමේන්තුවේ වගකීම බවත්, දේශපාලන අධිකාරීත්වය පිළිබඳව පැවති ජනතා අදහස් වෙනස් කර විශ්වාසය තහවුරු කළ යුතු බවත්, මහජන අපේක්ෂා බිඳ වැටීමට කිසිසේත්ම ඉඩ නොතැබිය යුතු බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙහිදී වැඩිදුරටත් පැවසීය.
+
+එසේ මහජන අපේක්ෂා බිඳ වැටීමට රජයක් ලෙස කටයුතු නොකරන බවත්, ජනතාවගේ සිත් තුළ බිඳ වැටී තිබුණු යුක්තිය පසිඳලීමේ ක්‍රියාවලිය නැවත ප්‍රතිස්ථාපනය කිරීමට කටයුතු කරන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+
+අධිකරණ හා ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතාද, මහජන ආරක්ෂක අමාත්‍යාංශයේ ලේකම් රවී සෙනවිරත්න සහ නීතිපති ජනාධිපති නීතිඥ පාරින්ද රණසිංහ යන මහත්වරු ඇතුළු නීතිපති දෙපාර්තමේන්තුවේ නිලධාරීන් පිරිසක්ද මෙම අවස්ථාවට එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/4dcad7cb.json)
+
+---
+
 ### උතුරු මැද 11 වසර සිංහල  ප්‍රශ්න පත්‍රය පිටවෙලා
 
 *2025-01-06 18:39:15* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-11-වසර-සිංහල--ප්‍රශ්න-පත්‍රය-පිටවෙලා/11-414044) · `si`
@@ -1737,37 +1771,5 @@ The market has been steadily rising over the last month and analysts were expect
 ◼️
 
 [Data](articles/5c14be20.json)
-
----
-
-### விருந்துபசார செலவு: பாராளுமன்றம் விளக்கம்
-
-*2025-01-06 15:25:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருந்துபசார-செலவு-பாராளுமன்றம்-விளக்கம்/175-349864) · `ta`
-
-“பாராளுமன்றத்தின் முதலாவது நாள் அமர்வின் பின்னர் நடத்தப்பட்ட தேநீர் விருந்தின் உண்மையான செலவு” என்ற தலைப்பில் வெளியான ஊடகச் செய்தி பற்றியது என்ற தலைப்பில், பாராளுமன்ற தொ​டர்பாடல் திணைக்களம் விளக்க அறிக்கை ஒன்றை விடுத்துள்ளது.
-
-“பாராளுமன்றத்தின் முதலாவது நாள் அமர்வின் பின்னர் நடத்தப்பட்ட தேநீர் விருந்தின் உண்மையான செலவு” என்ற தலைப்பில் 2024.12.29ஆம் திகதி ஞாயிறு லங்காதீப பத்திரிகையில் வெளியான செய்தி தொடர்பில் கீழ்வரும் விடயங்களைக் குறிப்பிட விரும்புகின்றோம்.
-
-பாராளுமன்ற செலவுத் தலைப்பின் கீழ் சம்பிரதாயமாக நடத்தப்படும் நிகழ்வுகள் மற்றும் தேநீர் விருந்துபசாரத்திற்காக ஒன்பதாவது பாராளுமன்றத்தின் முதலாவது நாள் அமர்வில் 287,340 ரூபாவும், பத்தாவது பாராளுமன்றத்தின் முதலாவது நாள் அமர்வின் பின்னர் நடத்தப்பட்ட தேநீர் விருந்துபசராத்திற்கு 339,628. ரூபாய் 55 சதமும் செலவு செய்யப்பட்டிருப்பதாக குறித்த ஊடகச் செய்தியில் குறிப்பிடப்பட்டிருந்தது.
-
-...
-
-[Data](articles/882fce61.json)
-
----
-
-### Sri Lanka appoints new chairman, members to Official Languages Commission
-
-*2025-01-06 15:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-appoints-new-chairman-members-to-official-languages-commission-198257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Anura Disanayake has appointed Nimal R Ranawaka as the new chairman of the Official Languages Commission.
-
-Other members of the commission include Professor R M W Rajapaksha, Professor Stanislaus Joseph Yogarajah, and Lareena Abdul Haq.
-
-Their appointment letters were presented on Monday at the Presidential Secretariat by President’s Secretary Nandika Kumanayake. (Colombo/Jan6/2024)
-
-◼️
-
-[Data](articles/47aa1893.json)
 
 ---

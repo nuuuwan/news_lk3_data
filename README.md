@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 09:28:19**
+As of **2025-01-07 09:44:19**
 
 ## Newspaper Stats
 
-*Scraped **64,086** Articles*
+*Scraped **64,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,900
 islandlk | 3,918
 dailyftlk | 4,470
 dailymirrorlk | 4,733
-adalk | 6,121
+adalk | 6,122
 adaderanalk | 7,840
 tamilmirrorlk | 9,190
 virakesarilk | 10,701
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,086 articles have been extended.
+61,971 (96.7%) of 64,087 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1136,6 +1136,26 @@ As of this morning, the distribution of the compromised question paper was halte
 
 ---
 
+### බස් රථවල සිවිල් ඇඳුමින් සැරසී ඉන්නවට වඩා මාර්ගයේ සිට නීතිය ක්‍රියාත්මක කරන්න
+
+*2025-01-06 19:10:23* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථවල-සිවිල්-ඇඳුමින්-සැරසී-ඉන්නවට-වඩා-මාර්ගයේ-සිට-නීතිය-ක්‍රියාත්මක-කරන්න/11-414048) · `si`
+
+බස් රථවල සිවිල් ඇඳුමින් සැරසී රියදුරන් සිදුකරන වැරදි නිරීක්ෂණය කිරීම නවතා දමා මාර්ගයේ සිට නීතිය ක්‍රියාත්මක කළ යුතු බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+
+රියදුරන් සිදුකරන වැරදි මාර්ගයේ සිට නිරීක්ෂණය කර නීතිය ක්‍රියාත්මක කිරීමට පොලීසියට හැකියාවක් තිබෙන බවද එම සංගමයේ සභාපති ගැමුණු විජෙරත්න මහතා සඳහන් කළේය.
+
+බස් රථවල සිට වැරදි සිදුකරන රියදුරන්ට නීතිය ක්‍රියාත්මක කිරීමට යාම පිළිබඳව රියදුරන්ගේ විරෝධයක් පළවෙමින් තිබෙන බවත්, මෙම ක්‍රියාව නවතා දැමීමට කටයුතු නොකළ හොත් බස් රථ වර්ජනයක් පවා සිදුවිය හැකි බවත් ඔහු පවසා සිටියේය.
+
+මීට අමතරව ඇතැම් රියදුරන් ශ්‍රී ලංකා මානව හිමිකම් කොමිසමට පවා පැමිණලි කිරීමට සැලසුම් කර තිබෙන බවත්, පවතින තත්ත්වය පිළිබඳ වැඩබලන පොලිස්පති තුමා සමග සාකච්ඡා කිරීමට සැලසුම් කර තිබෙන බවත් හෙතෙම සඳහන් කළේය.
+
+බස් රථවල සවිකර තිබෙන අමතර උපාංග ඉවත් කරන ලෙසට තම සංගමය පවා බස් හිමියන් දැනුවත් කරමින් තිබෙන බවද, අමතර උපාංග සවිකිරීමට පසුගිය කාලයේ සිටි බලධාරීන් අවසර පවා ලබා දී තිබූ බවද ඔහු පවසා සිටියේය.
+
+...
+
+[Data](articles/1fab408a.json)
+
+---
+
 ### සීදූව වෙඩි ප්‍රහාරයෙන් තුවාල ලැබූ පියාත් ජීවිතක්ෂයට
 
 *2025-01-06 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205096) · `si`
@@ -1761,23 +1781,5 @@ Despite the decline, the market maintained a strong turnover of Rs. 8.57 billion
 ◼️
 
 [Data](articles/a26ff802.json)
-
----
-
-### Traffic DIG clarifies modifications permitted for three-wheelers
-
-*2025-01-06 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/104765/traffic-dig-clarifies-modifications-permitted-for-three-wheelers) · `en`
-
-Sri Lanka Police reiterated that modifications and decorations to three-wheelers are only permitted if they adhere to the guidelines approved by the Department of Motor Traffic.
-
-Joining Ada Derana’s current affairs programme”Big Focus”, Deputy Inspector General (DIG) of Police for Traffic Control and Road Safety Indika Hapugoda emphasized that any alterations to a three-wheeler must be recorded in the vehicle’s registration book without altering its original model.
-
-“This allows police officers to easily verify approved modifications through the Department of Motor Traffic, ensuring compliance and revenue for the government,” he stated.
-
-The Department of Motor Traffic has been authorizing specific modifications to three-wheelers since July 7, 2023, based on criteria developed in response to requests from three-wheeler associations and the general public, DIG Hapugoda noted.
-
-...
-
-[Data](articles/788f7021.json)
 
 ---

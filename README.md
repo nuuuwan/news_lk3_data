@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-07 11:14:48**
+As of **2025-01-07 11:28:07**
 
 ## Newspaper Stats
 
-*Scraped **64,097** Articles*
+*Scraped **64,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ newsfirstlk | 363
 dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 672
-economynextcom | 3,903
-islandlk | 3,918
+economynextcom | 3,904
+islandlk | 3,921
 dailyftlk | 4,471
 dailymirrorlk | 4,733
 adalk | 6,123
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,066
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.7%) of 64,097 articles have been extended.
+61,971 (96.7%) of 64,101 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/f8b0bed1.json)
+
+---
+
+### Sri Lanka IMF forex reserve target US$7bn in 2025, ends 2024 with $6.1bn: CB Governor
+
+*2025-01-07 10:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-forex-reserve-target-us7bn-in-2025-ends-2024-with-6-1bn-cb-governor-198374/) · `en`
+
+ECONOMYNEXT – Sri Lanka has a foreign reserve target of 7.0 billion US dollars in 2025, under an International Monetary Fund program, and ended the 2024 with 6.1 billion dollars, Central Bank Governor Nandalal Weersinghe has said.
+
+Sri Lanka had a (gross) reserve target of around 5.6 billion US dollars under an IMF program in 2024, he said.
+
+“We increased it to 6.5 billion and after paying all the old debt we have 6.1 bn by the end of the year,” Governor Weerasinghe said in an interview with Sri Lanka’s Derana Television Monday night.
+
+“The 2025 target is 7.0 billion. I do not think that is a difficult task to raise the reserve to 7.0 billion dollars.”
+
+The IMF reserve target is usually expressed in terms of net international reserves, which was negative under the old program.
+
+...
+
+[Data](articles/2f29f4a1.json)
 
 ---
 
@@ -898,6 +918,20 @@ The Professor H.A. de S. Gunasekera Memorial Oration 2025 will be held on Friday
 
 ---
 
+### Capacity-building in hotel sector, a crying need – tourism expert
+
+*2025-01-06 23:28:00* · [`islandlk`](http://island.lk/capacity-building-in-hotel-sector-a-crying-need-tourism-expert/) · `en`
+
+Sri Lanka has an immense growth potential in its travel and tourism industry, yet this rich potential has not been realized. Therefore, capacity building in the hotel sector is the need of the hour to attract more tourists into the country in the future, a top travel and tourism sector expert Chandana Amaradasa said.
+
+“At present Sri Lanka has approximately 40,000 rooms, which need to be doubled at least within the next three to five years. Apart from that the best solution would be to upgrade existing hotels which are operating to five star level, said Amaradasa who works as a Managing Director at Island Leisure Lanka, an award winning hospitality and destination management company which celebrated the 15th anniversary of its founding at Colombo Club at Hotel Taj Samudra recently.
+
+...
+
+[Data](articles/09c07c36.json)
+
+---
+
 ### Dialog brings ‘The Future.Today’ to life as Sri Lanka’s first Drone Countdown takes flight
 
 *2025-01-06 23:28:00* · [`islandlk`](http://island.lk/dialog-brings-the-future-today-to-life-as-sri-lankas-first-drone-countdown-takes-flight/) · `en`
@@ -909,6 +943,30 @@ This iconic showcase, which drew over 150,000 live attendees and engaged over 12
 ...
 
 [Data](articles/effb39f9.json)
+
+---
+
+### Automobiie Association ties-up with ndb Affinity Credit Card
+
+*2025-01-06 23:26:00* · [`islandlk`](http://island.lk/automobiie-association-ties-up-with-ndb-affinity-credit-card/) · `en`
+
+The Automobile Association of Ceylon (AAC) celebrated its 120th anniversary recently.
+
+The members of the Executive Committee, several other well-wishers and government and other officials participated.
+
+At the ceremony the National Development Bank launched its Affinity Credit Card to members of AAC.
+
+‘Local gem and jewellery industry at a critical juncture; its potential going untapped’
+
+Capacity-building in hotel sector, a crying need – tourism expert
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/6d9ea340.json)
 
 ---
 
@@ -927,6 +985,22 @@ The Colombo Stock Exchange (CSE) has shown robust growth in 2024. With a 49.6 pe
 ...
 
 [Data](articles/7ab429b0.json)
+
+---
+
+### ‘Local gem and jewellery industry at a critical juncture; its potential going untapped’
+
+*2025-01-06 23:25:00* · [`islandlk`](http://island.lk/local-gem-and-jewellery-industry-at-a-critical-juncture-its-potential-going-untapped/) · `en`
+
+Sri Lanka’s gem and jewellery industry, once a jewel of the nation’s economy, is now at a critical juncture. Against this backdrop, Deputy Minister of Industry and Entrepreneurship Development Chaturanga Abeysinghe calls for urgent reforms and collective efforts to restore the industry’s global standing and unlock its untapped potential.
+
+Highlighting the challenges, Abeysinghe remarked, “Sri Lanka has lost its gemstones in two ways – as citizens and as a country. The famed Blue Sapphire, valued at a minimum of Rs. 150,000 per carat, and other high-value gems like rubies are treasures that should place our nation on the global map. Yet, we have failed to leverage this heritage.”
+
+The deputy minister shed light on key issues plaguing the industry:
+
+...
+
+[Data](articles/42d537ce.json)
 
 ---
 
@@ -1709,79 +1783,5 @@ The President reiterated the government’s commitment to avoiding any actions t
 ...
 
 [Data](articles/22f5a83f.json)
-
----
-
-### කොටස් වෙළඳපොළ අදත් දැවැන්ත කඩා වැටීමක
-
-*2025-01-06 17:26:20* · [`adalk`](https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-අදත්-දැවැන්ත-කඩා-වැටීමක/11-414037) · `si`
-
-කොටස් වෙළඳපොළ අද දිනයේදීද දැවැන්ත කඩා වැටීමකට ලක්විය. ඒ අනුව අද දිනයේදී සමස්ත කොටස් දර්ශකය ඒකක 170.8කින් පහළට ගොස් ඒකක 15 878ක් විය.
-
-ඒ අනුව පසුගිය සතියේදී ඒකක 16000 සීමාව පසුකර ගියත් යළිත් වරක් එම සීමාවෙන් පහළට ගියේය.
-
-මේ අතර එස්. ඇන්ඩ් පී. දර්ශකයද 55.39කින් පහළ ගොස් ඒකක 4804ක් දක්වා පහළට පැමිණියේය. අද දිනයේදී වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 8.5ක් විය.
-
-◼️
-
-[Data](articles/866ae729.json)
-
----
-
-### பேலியகொடையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
-
-*2025-01-06 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/203141) · `ta`
-
-பேலியகொடை பொலிஸ் பிரிவுக்கு உட்பட்ட களு பாலத்திற்கு அருகில்  ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (05) பேலியகொடை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-பேலியகொடை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே  சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் களனி பிரதேசத்தைச் சேர்ந்த 32 வயதுடையவர் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து 11 கிராம் 600 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/297582c9.json)
-
----
-
-### Sri Lanka rupee closes weaker at 295.20/296.00 to dollar, bonds up
-
-*2025-01-06 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-295-20-296-00-to-dollar-bonds-up-198267/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated further to close at 295.20/296.00 to the US dollar on Monday from 293.95/294.15 on Friday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 9.40/55 percent, down from 9.45/55 percent.
-
-A bond maturing on 15.02.2028 closed at 10.15/25 percent, up from 10.10/15 percent.
-
-A bond maturing on 15.10.2028 closed at 10.45/55 percent, up from 10.40/45 percent.
-
-A bond maturing on 15.09.2029 closed at 10.75/85 percent, up from 10.70/80 percent.
-
-A bond maturing on 15.05.2030 closed at 11.00/15 percent, up from 10.95/11.05 percent. (Colombo/Jan6/2025)
-
-◼️
-
-[Data](articles/725acaf6.json)
-
----
-
-### சர்ச்சைக்குரிய வழக்குகள்: சட்டமா அதிபருக்கு ஜனாதிபதி ஆலோசனை
-
-*2025-01-06 17:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-வழக்குகள்-சட்டமா-அதிபருக்கு-ஜனாதிபதி-ஆலோசனை/175-349867) · `ta`
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவிற்கும் சட்டமா அதிபர்  உள்ளிட்ட சட்டமா அதிபர் திணைக்கள அதிகாரிகளுக்கும் இடையிலான சந்திப்பு  திங்கட்கிழமை (06) ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
-
-சட்டத்தை அமுல்படுத்துவதற்காக செயற்படும் அனைத்து நிறுவனங்களுடனும் இணைந்து செயற்படுவதன் முக்கியத்துவத்தையும் ஜனாதிபதி இதன் போது சுட்டிக்காட்டினார்.
-
-நீதித்துறை கட்டமைப்பின்  மீது மக்களுக்கு நம்பிக்கையை ஏற்படுத்துவது சட்டமா அதிபர் திணைக்களத்தின் பொறுப்பாகும் எனவும், அரசியல் அதிகாரத்தின் மீதான மக்களின் அபிப்பிராயங்களை மாற்றி நம்பிக்கையை ஏற்படுத்த வேண்டும் எனவும், மக்களின் எதிர்பார்ப்புகள் வீழ்ச்சியடைய ஒருபோதும் இடமளிக்கக் கூடாது எனவும்  ஜனாதிபதி அநுர குமார திசாநாயக்க இங்கு  மேலும் தெரிவித்தார்.
-
-அவ்வாறு மக்களின் எதிர்பார்ப்புகளை வீழ்ச்சியடையச் செய்யும்  வகையில் அரசாங்கம் செயற்படாது என்றும், சட்டத்தை நிலைநாட்டுவது தொடர்பில் மக்களின் நம்பிக்கை வீழ்ச்சியடைந்துள்ளதோடு அதனை மீளமைக்க நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி இங்கு வலியுறுத்தினார்.
-
-...
-
-[Data](articles/c0b3ae72.json)
 
 ---

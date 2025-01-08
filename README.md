@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 05:27:51**
+As of **2025-01-08 05:52:17**
 
 ## Newspaper Stats
 
-*Scraped **64,237** Articles*
+*Scraped **64,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 672
 economynextcom | 3,912
-islandlk | 3,924
-dailyftlk | 4,471
+islandlk | 3,926
+dailyftlk | 4,477
 dailymirrorlk | 4,733
 adalk | 6,142
 adaderanalk | 7,869
@@ -26,11 +26,131 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.5%) of 64,237 articles have been extended.
+61,971 (96.5%) of 64,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### Marikkar criticises AKD Govt. over broken promises
+
+*2025-01-08 05:44:43* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-AKD-Govt-over-broken-promises/56-771534) · `en`
+
+Says increased Govt. revenue has not improved areas like reducing malnutrition, boosting consumption, improving education, or creating livelihood opportunities
+
+Criticises Govt. for failing to reduce electricity bills despite earning profits, leaving poor without relief
+
+Accuses current administration of continuing same exploitative policies as previous Govt.
+
+Questions Govt’s failure to introduce new revenue-generating measures and calls on it to admit to misleading people with false promises
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday in Parliament expressed strong criticism of the new Government’s failure to deliver on its promises and questioned the impact of its policies on the well-being of the public.
+
+Marikkar highlighted that while Government revenue and tax collection have increased significantly, this has been achieved through higher taxes and inflated bills which have negatively impacted the people. He questioned, “Has the happiness of the people increased as a result?”
+
+...
+
+[Data](articles/09a4004d.json)
+
+---
+
+### SJB to take important decisions today
+
+*2025-01-08 05:42:22* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-take-important-decisions-today/56-771533) · `en`
+
+Samagi Jana Balawegaya (SJB) is to take some important political decisions at its management committee meeting to be held in Colombo today (8 Jan).
+
+SJB General Secretary Ranjith Madduma Bandara told the Daily FT that the party will meet today to take some important political decisions including local government elections.
+
+He said that some new faces would be included in some of SJB’s posts and they would discuss on restructuring the SJB as well.
+
+However, he confirmed that there will be no change in the party leadership but several issues would be discussed at the meeting.
+
+When asked about a merger between the SJB and the United National Party, he said it was too early to comment.
+
+◼️
+
+[Data](articles/46b9b819.json)
+
+---
+
+### COPF meets for first time under chairmanship of Harsha
+
+*2025-01-08 05:40:58* · [`dailyftlk`](https://www.ft.lk/news/COPF-meets-for-first-time-under-chairmanship-of-Harsha/56-771532) · `en`
+
+The Committee on Public Finance (COPF), on Monday met for the first time under the chairmanship of MP Dr. Harsha de Silva.
+
+In terms of the Standing Orders of Parliament, MP de Silva representing the Opposition, was recently nominated as the Chair to COPF by the Committee of Selection.
+
+Following the address by the Chair in which a brief overview of the functions and past work by the Committee was highlighted, the forum was made available for the Members of the Committee and the officials present to carry out an open discussion.
+
+Thereafter, Ministry officials including Finance Ministry Secretary Mahinda Siriwardana and Central Bank Governor Dr. Nandalal Weerasinghe conducted a presentation on the Mid-Year Fiscal Position Report 2024 and the Recent Economic Developments and the Outlook. The Committee approved the Mid-Year Fiscal Position Report 2024.
+
+...
+
+[Data](articles/559aee7c.json)
+
+---
+
+### Easter attack probe enter new phase, says Public Security Minister
+
+*2025-01-08 05:39:29* · [`dailyftlk`](https://www.ft.lk/news/Easter-attack-probe-enter-new-phase-says-Public-Security-Minister/56-771531) · `en`
+
+The investigation into the 2019 Easter Sunday terrorist attacks has entered a new phase, according to Public Security Minister Ananda Wijepala.
+
+In a statement to Parliament yesterday, Minister Wijepala revealed that the ongoing investigations are focused on the findings revealed in the 2023 documentary film produced by British media channel ‘Channel 4’. The film, which covered the attacks and subsequent investigations, has prompted further legal action, with the Minister confirming that additional steps will be taken based on the facts uncovered so far.
+
+Wijepala informed Parliament that a report was filed with the Colombo Magistrate’s Court on 11 November 2024, and investigations are actively underway.
+
+To date, statements have been recorded from 48 individuals, including 12 civilian witnesses, 7 military personnel, 24 police officers, and 3 prison officers.
+
+...
+
+[Data](articles/0bc749de.json)
+
+---
+
+### Govt. approves compensation for 17 patients blinded after cataract surgery
+
+*2025-01-08 05:38:55* · [`dailyftlk`](https://www.ft.lk/news/Govt-approves-compensation-for-17-patients-blinded-after-cataract-surgery/56-771530) · `en`
+
+The Government has approved compensation for 17 patients who lost their vision following cataract surgeries at the Nuwara Eliya Hospital.
+
+The decision on Monday by the Cabinet of Ministers was made following deliberations by a technical committee tasked with investigating the issue, attributed to the use of substandard drugs during treatment.
+
+Cabinet Spokesman and Minister Nalinda Jayatissa yesterday said that compensation amounts will vary based on the severity of the cases.
+
+According to the technical committee recommendation, 12 patients will receive Rs. 1 million each, two will receive Rs. 750,000, one will receive Rs. 700,000 and two will be compensated Rs. 250,000 each.
+
+“The biggest challenge was the absence of any precedent to guide us in determining compensation for such cases,” the Minister noted.
+
+The technical committee established to investigate the incident recommended compensation ranging from Rs. 250,000 to Rs. 1 million particularly for cases involving legal blindness.
+
+...
+
+[Data](articles/757bedc9.json)
+
+---
+
+### Rishad says SL should adhere to intl. humanitarian principles regarding Rohingya refugees
+
+*2025-01-08 05:38:39* · [`dailyftlk`](https://www.ft.lk/news/Rishad-says-SL-should-adhere-to-intl-humanitarian-principles-regarding-Rohingya-refugees/56-771529) · `en`
+
+Writes to President emphasising need to follow principle of non-refoulement
+
+Says ACMC has serious concern regarding decision to repatriate Rohingya refugees
+
+Urges President to reconsider decision to forcibly return Rohingya refugees to Myanmar
+
+All Ceylon Makkal Congress (ACMC) Leader and Parliamentarian Rishad Bathiudeen has urged the Government to adhere to international humanitarian principles and consider the well-being of the Rohingya refugees from Myanmar, who have fled persecution in their homeland.
+
+Writing a letter to President Anura Kumara Dissanayeke, Bathiudeen has stated that the Government must ensure that its actions align with international laws and conventions on refugees, which emphasise the principle of non-refoulement – the prohibition of sending individuals back to places where they face threats to their lives or freedom.
+
+...
+
+[Data](articles/6587f151.json)
+
+---
 
 ### வவுனியாவில் 113 பேருக்கு டெங்கு நோய் தாக்கம்
 
@@ -97,6 +217,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/958cffa5.json)
+
+---
+
+### When Tycoons Hold the Reins
+
+*2025-01-08 01:08:00* · [`islandlk`](http://island.lk/when-tycoons-hold-the-reins/) · `en`
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/b0eade45.json)
 
 ---
 
@@ -1707,129 +1841,5 @@ The strike followed the appointment of S.V. Chandrasinghe as acting Basnayake Ni
 ...
 
 [Data](articles/7ab81ed8.json)
-
----
-
-### திபெத்தில் நிலநடுக்கம்: 50க்கும் மேற்பட்டோர் உயிரிழப்பு
-
-*2025-01-07 12:25:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திபெத்தில்-நிலநடுக்கம்-50க்கும்-மேற்பட்டோர்-உயிரிழப்பு/175-349913) · `ta`
-
-இமயமலையின் அடிவாரத்தில் உள்ள திபெத்தில் இன்று (ஜன.7) காலை ஏற்பட்ட சக்திவாய்ந்த நிலநடுக்கத்தால் 50-க்கும் மேற்பட்டோர் உயிரிழந்தனர். இது 7.1 ரிக்டராக பதிவானது. இந்நிலையில் நேபாள - திபெத் எல்லையில் தற்போது மீண்டும் நில அதிர்வு உணரப்பட்டுள்ளது. அது 4.5 ரிக்டர் என்ற அளவில் பதிவாகியுள்ளது.
-
-திபெத் பகுதியில் ஏற்பட்ட நிலநடுக்கத்தில் 53 பேர் உயிரிழந்துள்ளதாகவும் 62 பேர் காயமடைந்திருப்பதாகவும் தகவல் வெளியாகியுள்ளது. இது குறித்து சீன ஊடகங்கள் தரப்பில், திபெத்தின் டின்கிரி மற்றம் அதன் சுற்றுவட்டாரப் பகுதிகளில் சக்திவாய்ந்த நில நடுக்கம் உணரப்பட்டது. நிலநடுக்கம் ஏற்பட்ட பகுதியைச் சுற்றியுள்ள பல கட்டிடங்கள் இடிந்து விழுந்தன எனத் தெரிவிக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/222b7e2e.json)
-
----
-
-### கோப் குழுவுக்கு புதிய உறுப்பினர்கள் நியமனம்
-
-*2025-01-07 12:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-குழுவுக்கு-புதிய-உறுப்பினர்கள்-நியமனம்/175-349910) · `ta`
-
-இலங்கையின் 10வது பாராளுமன்றத்தின் பொது நிதி தொடர்பான குழுவிற்கு (COPF) புதிய உறுப்பினர்கள் நியமிக்கப்பட்டுள்ளனர்.
-
-பாராளுமன்ற உறுப்பினர்களான சத்துரங்க அபேசிங்க, சாணக்கியன் ராசமாணிக்கம், கௌசல்யா ஆரியரத்ன மற்றும் ஆர்கம் இல்யாஸ் ஆகியோர் புதிய COPF உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளனர்.
-
-2025 ஆம் ஆண்டுக்கான முதலாவது பாராளுமன்ற அமர்வு ஆரம்பமான வேளையில் சபாநாயகர் ஜகத் விக்ரமரத்ன இந்த அறிவிப்பை வெளியிட்டார்.
-
-பொது நிதி தொடர்பான குழுவின் தலைவராக ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா முன்னதாக நியமிக்கப்பட்டமையும் குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/82f6f2be.json)
-
----
-
-### Govt. to review ‘Nearest School is the Best School’ program
-
-*2025-01-07 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104791/govt-to-review-nearest-school-is-the-best-school-program-) · `en`
-
-The Prime Minister and the Minister of Education Dr. Harini Amarasuriya says that a review will be conducted on the partially completed schools under the “Nearest School is the Best School” (NSBS) flagship programme launched in 2016.
-
-Dr.  Amarasuriya made this remark during her address in Parliament today (07).
-
-“We are currently reviewing the schools selected for the project. Many of these schools are only partially completed and have stopped midway,” she added.
-
-The Prime Minister further added: “Therefore, we are reviewing all of these schools. According to our plan, we aim to develop a primary school that all children can attend within a 3-kilometer radius, and a fully equipped secondary school that can be joined by adding a number of such schools. We also plan to give priority to schools where 80%-90% of the work has been completed.”
-
-◼️
-
-[Data](articles/65962bee.json)
-
----
-
-### පාස්කු ප්‍රහාරය - සැකකරුවන් 747ක් අත්අඩංගුවට
-
-*2025-01-07 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205126) · `si`
-
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සහ ත්‍රස්ත මර්දන හා විමර්ශන කොට්ඨාසය මගින් සිදුකරන ලද විමර්ශනයන් අනුව සැකකරුවන් 747ක් මේ දක්වා අත්අඩංගුවට ගෙන ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-අද (07) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් අමාත්‍යවරයා පැවසුවේ සැකකරුවන් සහ සැකකාරියන් 100කට මහාධිකරණයේ නඩු 14ක නීතිපතිවරයා විසින් අධි චෝදනා ගොනු කර ඇති බවය.
-
-මෙන්ම මේ සම්බන්ධව තවදුරටත් පරීක්ෂණ සිදුකරමින් පවතින බවත් අමාත්‍යවරයා පැවසීය.
-
-තවද පාස්කු ප්‍රහාරය සම්බන්ධයෙන් චැනල් ෆෝ නාලිකාව තුළින් අනාවරණය වූ කරුණු ද ඊට පරිබාහිරව විමර්ශනවලදී අනාවරණය වූ කරුණු ද පදනම් කරගනිමින් තවදුරටත් මෙම ප්‍රහාරය සම්බන්ධයෙන් විමර්ශන කටයුතු සිදුකරමින් පවතිනු බවත් අමාත්‍යවරයා අද පාර්ලිමේන්තුවේදී පැවසීය.
-
-අමාත්‍යවරයා පැවසුවේ ඒ තුළින් අනාවරණය වූ කරුණු මත ඉදිරි නෛතික කටයුතු සිදු කිරීමට නියමිත බවය.
-
-...
-
-[Data](articles/7f42f181.json)
-
----
-
-### மார்ச்சுக்கு முன் அரச வாகனங்களை ஏலத்தில் விட நடவடிக்கை
-
-*2025-01-07 11:55:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மார்ச்சுக்கு-முன்-அரச-வாகனங்களை-ஏலத்தில்-விட-நடவடிக்கை/175-349909) · `ta`
-
-V8 மாதிரிகள் உட்பட அதிக திறன் கொண்ட எஞ்சினுடன் தேர்ந்தெடுக்கப்பட்ட சொகுசு வாகனங்களை ஏலம் விடவும், மார்ச் 01, 2025 க்கு முன்னர் அதில் பெறப்பட்ட வருமானம் குறித்த அறிக்கையை நிதி அமைச்சகத்திற்கு வழங்கவும் அரசாங்கம் அரச நிறுவனங்களுக்கு அறிவுறுத்தியுள்ளது.
-
-நிதி அமைச்சின் செயலாளர் மஹிந்த சிறிவர்தனவினால் அனைத்து அரச நிறுவனங்களின் தலைவர்களுக்கும் விசேட சுற்றறிக்கையின் ஊடாக இந்த அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
-
-சுற்றறிக்கையின்படி, சுங்கச் சட்டத்தின் HS 87.03 பிரிவின் கீழ் வரும் வாகனங்கள், அதாவது 1800CC க்கும் அதிகமான திறன் கொண்ட பெட்ரோல் வாகனங்கள் மற்றும் 2300CC க்கும் அதிகமான திறன் கொண்ட டீசல் வாகனங்கள், அதாவது இரட்டை கார், தனி கார் , வேன்கள், பஸ், லொரி, மற்றும் டிப்பர்கள் ஏலம் விடப்பட உள்ளன.
-
-ஏலம் விடப்படவுள்ள வாகனங்கள் எதனையும் அரச நிறுவனங்கள் கையகப்படுத்துவதற்கு நிதி அமைச்சு தடை விதித்துள்ளது.
-
-...
-
-[Data](articles/340ad6fd.json)
-
----
-
-### மக்களுக்கு மகிழ்ச்சியான அறிவிப்பு
-
-*2025-01-07 11:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-மகிழ்ச்சியான-அறிவிப்பு/175-349908) · `ta`
-
-இதன்படி புலம்பெயர்ந்தவர்கள் தாம் வாழு் நாடுகளில் உள்ள  ஸ்ரீ லங்கா தூதரகங்களில் தமக்குரிய பிறப்புச் சான்றிதழ், திருமணச் சான்றிதழ் மற்றும் இறப்புச் சான்றிதழ்களை தாமதமின்றி பெற்றுக்கொள்ள முடியும்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் டிஜிட்டல் மயமாக்கல் நிகழ்ச்சி நிரலின் கீழ் நடைமுறைப்படுத்தப்பட்ட திட்டத்திற்கு அமைய இந்த திட்டம் திங்கட்கிழமை (06) வெளிவிவகார அமைச்சர் விஜித ஹேரத்தால் ஆரம்பித்து வைக்கப்பட்டது.
-
-இதன்படி, 07 தூதரகங்களுக்கு இந்த முன்னோடித் திட்டம் நடைமுறைப்படுத்தப்படவுள்ளதுடன், ஜப்பான், கட்டார், குவைத் தூதரகங்கள், மிலானோ, டொறொன்டோ, மெல்பேர்ன் மற்றும் துபாய் ஆகிய நாடுகளின் துணைத் தூதரகங்கள் ஊடாக அந்த நாடுகளில் உள்ள இலங்கையர்களுக்கு மேற்படி ஆவணங்களை தாமதமின்றி பெற்றுக் கொள்ள சந்தர்ப்பம் கிடைத்துள்ளது.
-
-எதிர்வரும் காலங்களில் அனைத்து தூதரகங்களையும் உள்ளடக்கிய வகையில் இந்த திட்டம் நடைமுறைப்படுத்தப்படும் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/89433f98.json)
-
----
-
-### வெளிநாடுகளில் வாழும் இலங்கையர்களுக்கு இ-சேவை
-
-*2025-01-07 11:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-வாழும்-இலங்கையர்களுக்கு-இ-சேவை/175-349908) · `ta`
-
-இதன்படி புலம்பெயர்ந்தவர்கள் தாம் வாழு் நாடுகளில் உள்ள  ஸ்ரீ லங்கா தூதரகங்களில் தமக்குரிய பிறப்புச் சான்றிதழ், திருமணச் சான்றிதழ் மற்றும் இறப்புச் சான்றிதழ்களை தாமதமின்றி பெற்றுக்கொள்ள முடியும்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவின் டிஜிட்டல் மயமாக்கல் நிகழ்ச்சி நிரலின் கீழ் நடைமுறைப்படுத்தப்பட்ட திட்டத்திற்கு அமைய இந்த திட்டம் திங்கட்கிழமை (06) வெளிவிவகார அமைச்சர் விஜித ஹேரத்தால் ஆரம்பித்து வைக்கப்பட்டது.
-
-இதன்படி, 07 தூதரகங்களுக்கு இந்த முன்னோடித் திட்டம் நடைமுறைப்படுத்தப்படவுள்ளதுடன், ஜப்பான், கட்டார், குவைத் தூதரகங்கள், மிலானோ, டொறொன்டோ, மெல்பேர்ன் மற்றும் துபாய் ஆகிய நாடுகளின் துணைத் தூதரகங்கள் ஊடாக அந்த நாடுகளில் உள்ள இலங்கையர்களுக்கு மேற்படி ஆவணங்களை தாமதமின்றி பெற்றுக் கொள்ள சந்தர்ப்பம் கிடைத்துள்ளது.
-
-எதிர்வரும் காலங்களில் அனைத்து தூதரகங்களையும் உள்ளடக்கிய வகையில் இந்த திட்டம் நடைமுறைப்படுத்தப்படும் என வெளிவிவகார, வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலாத்துறை அமைச்சர் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/e26238a1.json)
 
 ---

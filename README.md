@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 15:14:09**
+As of **2025-01-08 15:28:03**
 
 ## Newspaper Stats
 
-*Scraped **64,351** Articles*
+*Scraped **64,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,495
 dailymirrorlk | 4,733
 adalk | 6,158
 adaderanalk | 7,884
-tamilmirrorlk | 9,236
+tamilmirrorlk | 9,238
 virakesarilk | 10,738
 adaderanasinhalalk | 11,115
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 11,115
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,351 articles have been extended.
+61,971 (96.3%) of 64,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### உண்டியல், ஹவாலா முறைகள் சட்டவிரோதமானவையல்ல
+
+*2025-01-08 15:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உண்டியல்-ஹவாலா-முறைகள்-சட்டவிரோதமானவையல்ல/175-349994) · `ta`
+
+உண்டியல் மற்றும் ஹவாலா பணப் பரிமாற்ற முறைகள் இலங்கையில் சட்டவிரோதமானவை அல்ல என்று பொது நிதி தொடர்பான பாராளுமன்றக் குழுவின் (COPF) தலைவர் ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.
+
+இன்று பாராளுமன்றத்தில் உரையாற்றிய அவர், எவ்வாறாயினும் இலங்கையில் எந்த வகையிலும் அம் முறைமைகள் ஒழுங்குபடுத்தப்படவில்லை.
+
+மேலும், இந்த அமைப்புகளின் மூலம் சர்வதேச பரிவர்த்தனைகளில் ஈடுபடுபவர்கள் ஜூன் 2024 முதல் மே 2025 வரையான 12 மாதங்களுக்குள் பதிவு செய்ய முன்மொழியப்பட்டதாக அவர் கூறினார்.
+
+இந்த விடயம் தொடர்பில் முழுமையான விசாரணை நடத்தி அறிக்கை சமர்ப்பிக்குமாறு இலங்கை மத்திய வங்கியிடம் COPF கோரியுள்ளதாகவும் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா வெளிப்படுத்தியுள்ளார்.
+
+உண்டியல் மற்றும் ஹவாலா முறைகள் தொடர்பான பிரேரணை அங்கீகரிக்கப்பட்டு பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/193e3333.json)
+
+---
+
+### லசந்த விக்ரமதுங்க படுகொலை;NPP அரசின் மீது நம்பிக்கை
+
+*2025-01-08 15:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லசந்த-விக்ரமதுங்க-படுகொலை-NPP-அரசின்-மீது-நம்பிக்கை/175-349993) · `ta`
+
+படுகொலை செய்யப்பட்ட இலங்கை ஊடகவியலாளர் லசந்த விக்கிரமதுங்கவின் குடும்பம், அனுரகுமார திஸாநாயக்க தலைமையிலான அரசாங்கம் இந்த சம்பவத்தின் பின்னணியில் உள்ள உண்மையைக் கண்டறிந்து நீதி வழங்கும் என நம்பிக்கை வெளியிட்டுள்ளது.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த லசந்த விக்ரமதுங்கவின் சகோதரர், லசந்த மரணித்து 16 வருடங்களுக்குள் நான்கு அரசாங்கங்கள் ஆட்சிக்கு வந்ததாகவும், ஆனால் இந்த சம்பவம் தொடர்பில் விசாரணை நடத்துவதற்கு எவருக்கும் அரசியல் உள்நோக்கம் இல்லை எனவும் தெரிவித்தார்.
+
+எவ்வாறாயினும், தேசிய மக்கள் சக்தி (NPP) அரசாங்கம் லசந்த விக்ரமதுங்கவின் மரணம் மட்டுமல்லாது மேலும் பல முக்கிய வழக்குகளையும் விசாரிப்பதாக உறுதியளித்துள்ளது.
+
+"ஆரம்பத்தில், இது புலிகளால் செய்யப்பட்டது என்ற பெரிய ஊகத்துடன் இந்த வழக்கு TID இன் கீழ் இருந்தது. எவ்வாறாயினும், 2015 ஆம் ஆண்டு ஏற்பட்ட ஆட்சி மாற்றத்தைத் தொடர்ந்து, இந்த வழக்கை குற்றப் புலனாய்வுப் பிரிவிற்கு மாற்றுமாறு எமது சட்டத்தரணி கோரினார். பின்னர் அது ஷானி அபேசேகர ஒரு பகுதியாக இருந்த சமயத்தில் சிஐடிக்கு மாற்றப்பட்டது.
+
+...
+
+[Data](articles/d0b2f75c.json)
+
+---
 
 ### பொலிஸாருடனான பேச்சுவார்த்தை வெற்றி
 
@@ -1701,43 +1739,5 @@ Marikkar highlighted that while Government revenue and tax collection have incre
 ...
 
 [Data](articles/09a4004d.json)
-
----
-
-### SJB to take important decisions today
-
-*2025-01-08 05:42:22* · [`dailyftlk`](https://www.ft.lk/news/SJB-to-take-important-decisions-today/56-771533) · `en`
-
-Samagi Jana Balawegaya (SJB) is to take some important political decisions at its management committee meeting to be held in Colombo today (8 Jan).
-
-SJB General Secretary Ranjith Madduma Bandara told the Daily FT that the party will meet today to take some important political decisions including local government elections.
-
-He said that some new faces would be included in some of SJB’s posts and they would discuss on restructuring the SJB as well.
-
-However, he confirmed that there will be no change in the party leadership but several issues would be discussed at the meeting.
-
-When asked about a merger between the SJB and the United National Party, he said it was too early to comment.
-
-◼️
-
-[Data](articles/46b9b819.json)
-
----
-
-### COPF meets for first time under chairmanship of Harsha
-
-*2025-01-08 05:40:58* · [`dailyftlk`](https://www.ft.lk/news/COPF-meets-for-first-time-under-chairmanship-of-Harsha/56-771532) · `en`
-
-The Committee on Public Finance (COPF), on Monday met for the first time under the chairmanship of MP Dr. Harsha de Silva.
-
-In terms of the Standing Orders of Parliament, MP de Silva representing the Opposition, was recently nominated as the Chair to COPF by the Committee of Selection.
-
-Following the address by the Chair in which a brief overview of the functions and past work by the Committee was highlighted, the forum was made available for the Members of the Committee and the officials present to carry out an open discussion.
-
-Thereafter, Ministry officials including Finance Ministry Secretary Mahinda Siriwardana and Central Bank Governor Dr. Nandalal Weerasinghe conducted a presentation on the Mid-Year Fiscal Position Report 2024 and the Recent Economic Developments and the Outlook. The Committee approved the Mid-Year Fiscal Position Report 2024.
-
-...
-
-[Data](articles/559aee7c.json)
 
 ---

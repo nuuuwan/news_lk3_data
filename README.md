@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 07:31:34**
+As of **2025-01-08 08:06:01**
 
 ## Newspaper Stats
 
-*Scraped **64,268** Articles*
+*Scraped **64,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,912
 islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
-adalk | 6,142
+adalk | 6,144
 adaderanalk | 7,869
-tamilmirrorlk | 9,217
+tamilmirrorlk | 9,218
 virakesarilk | 10,729
 adaderanasinhalalk | 11,095
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,268 articles have been extended.
+61,971 (96.4%) of 64,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### இன்று இடியுடன் கூடிய மழை
+
+*2025-01-08 07:45:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-349955) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி வடக்கு, வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் மாத்தளை மாவட்டத்தின் சில பகுதிகளிலும் மழை பெய்யக்கூடும்.
+
+அத்துடன் சபரகமுவ மாகாணத்திலும் காலி, மாத்தறை, கண்டி மற்றும் நுவரெலியா ஆகிய மாவட்டங்களின் சில பகுதிகளிலும் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய சாத்தியம் காணப்படுவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், இடியுடன் கூடிய மழையின் போது, பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளைக் குறைத்துக் கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களை அறிவுறுத்தியுள்ளது. (a)
+
+◼️
+
+[Data](articles/ea235276.json)
+
+---
 
 ### Sri Lanka’s gem industry eyes 2025 boom
 
@@ -1160,6 +1178,22 @@ The President also highlighted the importance of establishing a mechanism to ref
 
 ---
 
+### ගම්පහ දරුවන් මානසික අවපීඩනය නිසා කරගන්නා දිවි හානි කර ගැනීම් ඉහළට
+
+*2025-01-07 17:35:55* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-දරුවන්-මානසික-අවපීඩනය-නිසා-කරගන්නා-දිවි-හානි-කර-ගැනීම්-ඉහළට/11-414073) · `si`
+
+ගම්පහ දිස්ත්‍රික්කයේ දරුවන් අතර මානසික අවපීඩනය (Depression) මත සියදිවි නසා ගැනීමේ වැඩි වීමක් පවතින බවත්, මේ සම්බන්ධයෙන් විශේෂ අවධානයක් යොමු කිරීම විය යුතු බවත් දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී ප්‍රකාශ විය.
+
+දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙම කමිටුවේදී, දිස්ත්‍රික්කයේ සෞඛ්‍ය ක්‍ෂේත්‍රයේ ගැටලු ඉදිරිපත් කිරීම සිදුකරමින් ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂිකා විශේෂඥ වෛද්‍ය ඉන්ද්‍රා මල්වැන්න මහත්මිය මේ බව සඳහන් කළාය.
+
+“දරුවන් අතර මානසික අවපීඩනය භයානක තත්ත්වයක්. මෙහි දරුණුකම සියදිවි නසා ගැනීමයි. පසුගිය 2024 දරුවන් 290දෙනෙකු ගම්පහ දිස්ත්‍රික්කයෙන් වාර්තා වී තිබෙනවා. මෙය 2023 වර්ෂයට වඩා වැඩි වීමක්. දිවයිනෙහි ජනගහනය අනුව ගම්පහ දිස්ත්‍රික්කයේ වැඩි ජනගහන තත්ත්වය මත මෙම දිස්ත්‍රික්කයෙන් දරුවන් දිවිනසා ගැනීම වැඩි බවක් වාර්තා වෙනව. මේ සම්බන්ධයෙන් විශේෂ අවධානයක් යොමු කළ යුතුයි.
+
+...
+
+[Data](articles/164067d4.json)
+
+---
+
 ### Indian PM Modi to visit Sri Lanka in 2025
 
 *2025-01-07 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104809/indian-pm-modi-to-visit-sri-lanka-in-2025) · `en`
@@ -1672,6 +1706,24 @@ Accordingly, the Cabinet’s approval has been granted to the submission made by
 
 ---
 
+### ප්‍රධාන විෂයන් තුනට ගුරුවරු 30000ක හිඟයක්
+
+*2025-01-07 15:39:00* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-විෂයන්-තුනට-ගුරුවරු-30000ක-හිඟයක්/11-414063) · `si`
+
+රට පුරා පාසල් පද්ධතිය තුළ ඉංග්‍රීසි ,විද්‍යාව ගණිතය ,ඇතුළු ප්‍රධාන විෂයන් සඳහා ගුරුවරු  30,000කට ආසන්න සංඛ්‍යාවක පුරප්පාඩු පවතින බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි. අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරන්නේ මෙම පුරප්පාඩු සඳහා පියවරෙන් පියවර ගුරුවරු බඳවා ගැනීමට ඉදිරියේදී කටයුතු කරන බවයි.
+
+සෑම පළාත් සභාවකම ගුරු පුරප්පාඩු පවතින අතර පළාත් සභා පාසල් වලට ගුරුවරුන්ගේ පුරප්පාඩු පිරවීම පළාත් සභා අධ්‍යාපන ලේකම්වරයාට  බලතල පැවරෙයි. ඒ සඳහා අධ්‍යාපන අමාත්‍යාංශය විධිමත් ක්‍රමවේදයක් මගින් ගුරුවරු බඳවා ගැනීම සිදුකෙරේ. ජාතික පාසල් වලට ගුරුවරු සෘජුවම අධ්‍යාපන අමාත්‍යාංශය විසින් බඳවා ගැනීමෙන් පසුව ඒ පාසල් වලට පත් කිරීම සිදු කෙරේ.
+
+දිවයිනේ ඇතැම් පාසල්වල වසර ගණනාවක් පුරාවට ගුරු පුරප්පාඩු පැවතීමෙන් දරුවන්ගේ අධ්‍යාපන කටයුතු අඩාල වී ඇති බව විදුහල්පතිවරු පෙන්වා දෙති. අදාළ විෂයට ගුරු භවතා නොමැතිවීමෙන් ඇතැම් පාසල් වල සංවර්ධන නිලධාරීන්ට ද එම විෂය ඉගැන්වීමට සිදුවී තිබේ.
+
+ගුරු පුරප්පාඩු පවතින පාසල් වල දරුවන්ගේ සාධන මට්ටම් බොහෝ සේ පහළ යෑමට හේතුව නිසි ක්‍රමවේදයක් නොමැතිව ඉගැන්වීම් කටයුතු සිදු නොවීම බව දෙමව්පියෝ චෝදනා කරති.
+
+...
+
+[Data](articles/3bf37f07.json)
+
+---
+
 ### Sri Lanka and Vietnam to ink customs co-operation agreement
 
 *2025-01-07 15:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-vietnam-to-ink-customs-co-operation-agreement-198466/) · `en`
@@ -1757,59 +1809,5 @@ automatically upon 30 days after shipment of kit to the customer. If a customer 
 ◼️
 
 [Data](articles/b279a2db.json)
-
----
-
-### President Dissanayake to visit China next week
-
-*2025-01-07 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104803/president-dissanayake-to-visit-china-next-week) · `en`
-
-President Anura Kumara Dissanayake is scheduled to embark on an official visit to China from January 14 to January 17, 2025.
-
-This was confirmed by Cabinet Spokesman, Minister Dr. Nalinda Jayatissa, in response to a question raised by a journalist during today’s (06) Cabinet press briefing.
-
-Furthermore, the Minister stated that Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnyake will accompany the President for the visit.
-
-Dissanayake’s first overseas visit as head of state was to neighbouring India, where he was given a red-carpet welcome by Prime Minister Narendra Modi on December 16.
-
-◼️
-
-[Data](articles/59e99c62.json)
-
----
-
-### Sri Lanka to export poultry to China
-
-*2025-01-07 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104802/sri-lanka-to-export-poultry-to-china) · `en`
-
-The Cabinet of Ministers has greenlighted the signing of a protocol for the export of poultry products from Sri Lanka to China.
-
-Accordingly, it has been agreed to sign an agreement between the two countries, including inspection, quarantine and health requirements, to facilitate the export of poultry products from Sri Lanka to China, with the intervention of the Chinese Customs Administration, in accordance with a specific procedure.
-
-The proposal related to the purpose submitted by the Minister of Agriculture, Livestock, Lands and Irrigation for the signing of the said agreement between the Chinese Customs Administration and his Ministry has received the Cabinet approval.
-
-◼️
-
-[Data](articles/dd5f6647.json)
-
----
-
-### அரசாங்க நிதிக்குழுவுக்கு உறுப்பினர்கள் நியமனம்
-
-*2025-01-07 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/203217) · `ta`
-
-அரசாங்க நிதிக் குழுவுக்கு புதிய உறுப்பினர்கள் நியமிக்கப்பட்டுள்ளதாக சபாநாயகர் ஜகத் விக்ரமரத்ன தெரிவித்தார்.
-
-புதிய வருடத்தின் முதலாவது பாராளுமன்ற அமர்வு  இன்று செவ்வாய்க்கிழமை (07) காலை செவ்வாய்க்கிழமை சபாநாயகர் ஜகத் விக்ரமரத்ன தலைமையில் கூடியது. பிரதான நடவடிக்கையாக சபாநாயகரின் அறிவிப்பு இடம்பெற்றது.
-
-அதன்போதே அரசாங்க நிதிக்குழுவுக்கு பின்வரும் உறுப்பினர்கள் தெரிவு செய்யப்படுள்ளதாக சபாநாயகர் சபைக்கு அறிவிப்பு செய்தார்.
-
-அதற்கிணங்க பாராளுமன்ற உறுப்பினர்களான  சாணக்கியன் ராசமாணிக்கம்,சதுரங்க அபேசிங்க, கலாநிதி கௌசல்யா ஆரியரத்ன, அர்கம் இல்யாஸ் ஆகியோர் நியமிக்கப்பட்டுள்ளனர்.
-
-இதேவேளை,அரசாங்க நிதிக் குழுவின் தலைவராக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா ஏற்கனவே நியமிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கதாகும்.
-
-◼️
-
-[Data](articles/8c66b653.json)
 
 ---

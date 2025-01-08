@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 06:49:18**
+As of **2025-01-08 07:31:34**
 
 ## Newspaper Stats
 
-*Scraped **64,265** Articles*
+*Scraped **64,268** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 469
+dbsjeyarajcom | 470
 colombotelegraphcom | 643
-bbccomsinhala | 672
+bbccomsinhala | 673
 economynextcom | 3,912
 islandlk | 3,928
-dailyftlk | 4,493
+dailyftlk | 4,494
 dailymirrorlk | 4,733
 adalk | 6,142
 adaderanalk | 7,869
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,265 articles have been extended.
+61,971 (96.4%) of 64,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### Sri Lanka’s gem industry eyes 2025 boom
+
+*2025-01-08 06:39:59* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-s-gem-industry-eyes-2025-boom/34-771562) · `en`
+
+Rising recognition of Sri Lanka’s coloured gems, particularly teal, pink and blue sapphires
+
+Despite having faced challenges like global recessions and rising costs in the past few years, Sri Lanka’s gem industry remains optimistic about 2025, finding opportunities through exports, tourism and digital platforms to regain its prominence in the world market.
+
+FACETS Sri Lanka 2025 Gem and Jewellery exhibition was held from 4 to 6 January, attracting industry leaders, professionals, buyers and enthusiasts from around the globe as the event showcased the finest gems and craftsmanship the country had to offer. Daily FT spoke to exhibitors and key stakeholders to understand their views on the current state of the industry.
+
+The business leaders shared that despite challenges and drawbacks in recent years, the market was gradually regaining momentum.
+
+...
+
+[Data](articles/7ba15b9b.json)
+
+---
 
 ### Sri Lanka participates in World Furniture Expo 2024 in Mumbai
 
@@ -509,6 +527,24 @@ Writing a letter to President Anura Kumara Dissanayeke, Bathiudeen has stated th
 ...
 
 [Data](articles/0dd3218a.json)
+
+---
+
+### ඔබේ බැංකු තැන්පතුවලින් අය කෙරෙන රැඳවුම් බද්දට ආණ්ඩුව කරන්න යන්නේ කුමක් ද?
+
+*2025-01-08 01:31:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2kxlpv75k5o) · `si`
+
+ඔබේ බැංකු තැන්පතුවලින් අය කෙරෙන රැඳවුම් බද්දට ආණ්ඩුව කරන්න යන්නේ කුමක් ද?
+
+බැංකු තැන්පතු සඳහා වන රැඳවුම් බද්ද සම්බන්ධයෙන් ශ්‍රී ලාංකික ජනතාවගේ දැඩි අවධානයක් මේ වන විට යොමු වී තිබේ.
+
+ඒ, දැනට පවතින 5%ක රැඳවුම් බද්ද 10%ක් දක්වා ඉහළ දැමීමට සැලසුම් කර ඇතැයි ජනාධිපති අනුර කුමාර දිසානායක ප්‍රකාශයට පත් කිරීමත් සමග ය.
+
+බැංකු තැන්පතු සඳහා වන රැඳවුම් බද්ද සම්බන්ධයෙන් ගෙන ඇති තීරණය පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මාධ්‍යවේදීන් හමුවේ මහනුවරදී පැහැදිලි කළේ මෙසේ ය.
+
+...
+
+[Data](articles/70ab28ec.json)
 
 ---
 
@@ -1775,41 +1811,5 @@ The proposal related to the purpose submitted by the Minister of Agriculture, Li
 ◼️
 
 [Data](articles/8c66b653.json)
-
----
-
-### ජනපතිගේ චීන සංචාරය 14 වනදා සිට 17 දක්වා
-
-*2025-01-07 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205133) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ චීන නිල සංචාරය එළඹෙන 14 වනදා සිට 17 වනදා දක්වා සිදු කිරීමට නියමිතය.
-
-අද (07) පැවැති කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව එක්වෙමින් කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඒ බව පැවසීය.
-
-චීන සංචාරය සඳහා අමාත්‍යවරුන් වන බිමල් රත්නායක සහ විජිත හේරත් යන මහත්වරුන් ද එක්වීමට නියමිත බවද අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.
-
-මේ අතර “එක් චීනයක් ප්‍රතිපත්තිය” සම්බන්ධයෙන් විදේශ රැකියා සහ සංචාරක අමාත්‍යවරයා විසින් ඉදිරිපත් කරන ලද කරුණු දැක්වීම සඳහා අමාත්‍ය මණ්ඩලයේ එකඟතාව ලබාදීමට ද තීරණය කරන ලදි.
-
-ඒ අනුව, ශ්‍රී ලංකා රජය “එක් චීනයක් ප්‍රතිපත්තිය” අඛණ්ඩව අනුගමනය කර ඇති අතර, එමඟින් නීත්‍යානුකූල චීනය ලෙස මහජන චීන සමූහාණ්ඩුව පමණක් පිළිගන්නා බවත්, තායිවානය චීනයේ එක් පළාතක් ලෙස පමණක් පිළිගන්නා බවත් අදහස් කරනු ලබයි.
-
-ශ්‍රී ලංකා රජයේ එකී ප්‍රතිපත්තිය ඵ් අයුරින්ම තවදුරටත් අනුගමනය කරමින් ඊට අනුගතව කටයුතු කරනු ඇති.
-
-◼️
-
-[Data](articles/c7e01c7c.json)
-
----
-
-### Special announcement on stationery allowance for school children
-
-*2025-01-07 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/104801/special-announcement-on-stationery-allowance-for-school-children-) · `en`
-
-The government has decided to provide the school stationery allowance granted for the children of “Aswesuma” beneficiaries to all children in 6,576 schools with less than 300 students who are from families that are not beneficiaries of the welfare scheme, children living in Child Development Centers and both lay and monastic students in all ‘Pirivenas’ across the island.
-
-Announcing the Cabinet decisions today (07), Cabinet Spokesman, Minister Dr. Nalinda Jayatissa said that steps have already been taken to provide an allowance of Rs. 6,000 each to schoolchildren from “Aswesuma” beneficiary families to access school stationery.
-
-...
-
-[Data](articles/4505c8fd.json)
 
 ---

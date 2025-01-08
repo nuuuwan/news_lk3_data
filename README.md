@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 02:14:18**
+As of **2025-01-09 02:28:15**
 
 ## Newspaper Stats
 
-*Scraped **64,426** Articles*
+*Scraped **64,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,925
 islandlk | 3,930
-dailyftlk | 4,497
+dailyftlk | 4,498
 dailymirrorlk | 4,733
 adalk | 6,170
 adaderanalk | 7,891
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,426 articles have been extended.
+61,972 (96.2%) of 64,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### Sri Lanka’s economic turmoil in ‘70s: Reflections and realities through Aththa newspaper
+
+*2025-01-09 01:50:25* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-economic-turmoil-in-70s-Reflections-and-realities-through-Aththa-newspaper/14-771587) · `en`
+
+In the early 1970s, Sri Lanka found itself grappling with multiple internal and external economic factors that would culminate in an economic crisis during the Sirimavo Bandaranaike Government. Back then, daily newspapers were the main source of information available to the public, and notable among these was the Aththa (Truth) newspaper, a Sinhala-language daily published by the Communist Party of Sri Lanka (CPSL).
+
+Sirimavo’s United Front (UF) alliance won an overwhelming majority in the 1970 General Election, defeating Dudley Senanayaka’s United National Party (UNP). The UF had ministers from several leftist parties including the CPSL. Pieter Keuneman and B.Y. Tudawe both held ministerial positions in the coalition Government.
+
+...
+
+[Data](articles/b5f55cf2.json)
+
+---
 
 ### System closure, Anura’s foundation, devolution’s downfall, Namal’s challenges
 
@@ -1865,27 +1879,5 @@ Dr. Harsha also stated that the committee had requested the Central Bank to carr
 ◼️
 
 [Data](articles/6678cd9d.json)
-
----
-
-### ஜனாதிபதி அவர்களே எங்கள் குடும்பம் நீதியை எதிர்பாக்கின்றது- லால்விக்கிரமதுங்க
-
-*2025-01-08 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/203283) · `ta`
-
-16 வருடங்களிற்கு முன்னர் இதுபோன்றதொரு நாளில் ,எனது சகோதரர் லசந்தவிக்கிரமதுங்க படுகொலை செய்யப்பட்டார்.
-
-ஆம் 16 வருடங்களிற்கு முன்னர் லசந்தவின் பிள்ளைகள்  அவர்கள் இளையவர்களாகயிருந்த போதே தங்கள் தந்தையை இழந்தனர்.நாங்கள் சகோதரர் ஒருவரை இழந்தோம் எனது தந்தையும் தாயும் தங்கள் இளைய புதல்வனை புதைக்கவேண்டிய நிலையேற்பட்டது, இது எவ்வளவு ஈவிரக்கமற்ற விடயம்.
-
-விலங்குகள் ஏனைய விலங்குகளை படுகொலை செய்வதில்லை,பயங்கரமான கோழைத்தனம் மிக்க மனிதர்களே தங்கள் சக மனிதர்களிற்கு இதனை செய்வார்கள்.
-
-அனேகமான தருணங்களில் தங்களிற்குகாக கொலைகளை செய்வதற்கு ஏனையவர்களை அவர்கள் ஈடுபடுத்துவார்கள்,இதன் காரணமாகவே இது மிகுந்த கோழைத்தனம் மிக்க விடயம்.
-
-சில விசாரணையாளர்களிற்கு கொலைகாரர்கள் யார் என்பது தெரிந்துள்ள போதிலும் கொலைகாரர்கள் சுதந்திரமாக நடமாடுகின்றார்கள்.
-
-கொலைகாரர்கள் கொலைகளில் ஈடுபட்டமைக்கான தடயங்கள் ஆதாரங்களை மறைப்பதற்கு இழிவான செயல்களில் ஈடுபட்டவர்கள், பாதுகாப்பு மற்றும் பொலிஸ்  கட்டமைப்பில் உயர்நிலைகளிற்கு சென்றுகொண்டிருக்கின்றார்கள்.
-
-...
-
-[Data](articles/b7117d72.json)
 
 ---

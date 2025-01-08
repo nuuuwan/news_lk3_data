@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 21:44:41**
+As of **2025-01-08 22:03:37**
 
 ## Newspaper Stats
 
-*Scraped **64,404** Articles*
+*Scraped **64,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,495
 dailymirrorlk | 4,733
 adalk | 6,168
 adaderanalk | 7,890
-tamilmirrorlk | 9,241
+tamilmirrorlk | 9,242
 virakesarilk | 10,751
 adaderanasinhalalk | 11,127
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,404 articles have been extended.
+61,972 (96.2%) of 64,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### தேர்தல் செலவு அறிக்கையை சமர்ப்பிக்காதவர்களுக்கு எச்சரிக்கை
+
+*2025-01-08 21:48:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-செலவு-அறிக்கையை-சமர்ப்பிக்காதவர்களுக்கு-எச்சரிக்கை/175-350014) · `ta`
+
+பாராளுமன்றத் தேர்தல் தொடர்பான செலவு அறிக்கையை சமர்ப்பிக்காத வேட்பாளர்களுக்கு எதிராக சட்ட நடவடிக்கைகளை ஆரம்பிக்குமாறு பதில் பொலிஸ்மா அதிபர் அறிவுறுத்தல் வழங்கியுள்ளார்.
+
+இதன்படி, இதுவரை செலவு அறிக்கையை சமர்ப்பிக்காத 1,042 வேட்பாளர்கள் மற்றும் 197 கட்சி செயலாளர்கள் மற்றும் சுயேச்சைக் குழு தலைவர்கள் தொடர்பான விரிவான அறிக்கையை தேர்தல் ஆணைக்குழு பதில் பொலிஸ் மா அதிபருக்கு அனுப்பி வைத்துள்ளது.
+
+பிரதிப் பொலிஸ்மா அதிபர் சட்டப் பிரிவின் மேற்பார்வையின் கீழ் அந்தந்த தொகுதிகளுக்கு உட்பட்ட பொலிஸ் பிரிவுகளில் பிரதேச குற்றப் புலனாய்வுப் பிரிவினால் விசாரணைகளை ஆரம்பிக்குமாறு பொலிஸ்மா அதிபர் மேற்கண்ட பிரதிவாதிகளுக்கு பணிப்புரை விடுத்துள்ளார். R
+
+◼️
+
+[Data](articles/723b2007.json)
+
+---
 
 ### தமிழரசுக் கட்சியின் பாரளுமன்ற உறுப்பினர்களுக்கும் அமெரிக்க தூதுவர்க்குமிடையிலான சந்திப்பு!
 
@@ -208,7 +224,7 @@ This year’s exhibition features 103 booths and has attracted a significant num
 
 பாணந்துறையில் உள்ள பிரபல ஹோட்டல் ஒன்றில் இருந்து கொள்வனவு செய்யப்பட்ட பனிஸ் ஒன்றிற்குள் லைட்டரின் பாகங்கள் காணப்பட்டுள்ளன.
 
-பாணந்துறை அருக்கொட பிரதேசத்தை சேர்ந்த மஞ்சுள பெரேரா என்பவர் இன்று (08) காலை  இரண்டு கறி பனிஸ்களை ஹோட்டலில் இருந்து கொள்வனவு செய்துள்ளார்.
+பாணந்துறை அருக்கொட பிரதேசத்தை சேர்ந்த மஞ்சுள பெரேரா என்பவர் இன்று (08) காலை இரண்டு கறி பனிஸ்களை ஹோட்டலில் இருந்து கொள்வனவு செய்துள்ளார்.
 
 இது தொடர்பில் பிரதேசத்திற்குப் பொறுப்பான பொதுச் சுகாதார பரிசோதகருக்கு அறிவித்த போதிலும், இன்று விடுமுறையில் இருப்பதாக தெரிவித்த அவர், பாணந்துறை சுகாதார வைத்திய அதிகாரி காரியாலயத்திற்கு தனது பிரச்சினையை தெரிவிக்குமாறும் தெரிவித்தார்.
 
@@ -1861,25 +1877,5 @@ A bond maturing on 15.05.2030 was quoted at 11.00/10 also unchanged. (Colombo/Ja
 ◼️
 
 [Data](articles/11f3b809.json)
-
----
-
-### Teacher interdicted for leaking term test questions in North Central Province
-
-*2025-01-08 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104821/teacher-interdicted-for-leaking-term-test-questions-in-north-central-province) · `en`
-
-The teacher responsible for leaking the questions of the Grade 6 and 7 Term Test of government schools in North Central Province has been interdicted with immediate effect, the North Central Province Education Secretary said.
-
-Meanwhile, on January 6, 2025, the Sinhala Literature question paper for the Grade 11 term test in the North Central Province (NCP) was leaked on social media, prompting authorities to take immediate action.
-
-As a result, the final term test, scheduled for January 6, was postponed.
-
-Accordingly, the distribution of the compromised question paper was halted across more than 600 schools in the province. These schools span 30 educational divisions across eight zones, according to Dharmasena.
-
-The North Central Province Education Secretary further stated that the examination will be temporarily suspended accordingly. A new question paper will be prepared and distributed to ensure the continuation of the examination process without compromising its integrity, he noted.
-
-◼️
-
-[Data](articles/a5599349.json)
 
 ---

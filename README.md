@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 20:28:04**
+As of **2025-01-08 20:43:58**
 
 ## Newspaper Stats
 
-*Scraped **64,393** Articles*
+*Scraped **64,395** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ economynextcom | 3,921
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,166
+adalk | 6,167
 adaderanalk | 7,889
 tamilmirrorlk | 9,241
 virakesarilk | 10,745
-adaderanasinhalalk | 11,125
+adaderanasinhalalk | 11,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,393 articles have been extended.
+61,972 (96.2%) of 64,395 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### රථ වාහන අලංකරණයේ සීමා ගැන ඔබ දැනුම්වත්ද ?
+
+*2025-01-08 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205184) · `si`
+
+විවිධ අංග උපාංග අමතරව එක්කරමින් ධාවනය කරන බස් රථ සහ ත්‍රිරෝද රථ සම්බන්ධයෙන් මේ දිනවල දැඩි කතාබහක් රටේ මතුව තිබේ.
+
+ඒ එම අලංකරණ හා විනෝදාස්වාදය වෙනුවෙන් නවීකරණය කර ඇති උපාංග මගින්, අනතුරකදී ජනතාවට සිදුවන හානිය වැළැක්වීම සඳහා ඒවා ඉවත් කිරීමේ පොලිස් මෙහෙයුම් හේතුවෙන්.
+
+මගී ප්‍රවාහනයේ යෙදෙන බස් රථ සහ ත්‍රිරෝද රථ සඳහා කිසිදු ආකාරයේ නවීකරණයක් සිදුකළ නොහැකිද?
+
+'CLEAN SRI LANKA' වැඩසටහන ක්‍රියාත්මකවන පසුබිමක, විවිධ අලංකරණ හා අමතර උපාංග සවිකොට ධාවනය කෙරෙන බස් සහ ත්‍රිරෝද රථ සම්බන්ධයෙන් පොලීසිය සිදුකරන පරික්ෂාකිරීම් ඇතැම් පාර්ශ්වවල විවේචනයට ලක්කරයි.
+
+ඇතැම් පිරිස් පවසන්නේ නීතියෙන් අවසර ඇති අලංකරණ කොටස් පවා පොලිසීයෙන් ඉවත් කරන බවයි.
+
+මේ පිළිබඳ අපකළ සොයාබැලීමේදී දක්නට ලැබුණේ, මෝටර් වාහන පනතට සබැඳිව හා විවිධ අවස්ථාවලදී චක්‍රලේඛ මගින් ලබා දී ඇති අවසර මත බස් සහ ත්‍රිරෝද රථවල ඇතැම් අලංකරණ සිදු කිරීමට හැකියාව ඇති බවය.
+
+ඇතැම් අලංකරණ සඳහා මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවට ගාස්තුවක් ද ගෙවිය යුතු වේ.
+
+ඒ අනුව පොදු ප්‍රවාහන බස් රථ හා විනෝද චාරිකා සඳහා යොදා ගන්නා බස් රථ නවීකරණය සඳහා නිර්ණායක 22කට අවසර හිමිව ඇත.
+
+...
+
+[Data](articles/9e3b244e.json)
+
+---
 
 ### President inaugurates ‘Gem Sri Lanka – 2025’ gem and jewellery exhibition
 
@@ -207,6 +233,24 @@ The Speaker said that the Third Parliament is expected to re-establish the Sri L
 ◼️
 
 [Data](articles/272b0598.json)
+
+---
+
+### වෙළඳ හා යුද නෞකා සියල්ලම එන්නේ ජාත්‍යන්තර සම්මුතිවලට අනුවයි
+
+*2025-01-08 17:18:27* · [`adalk`](https://www.ada.lk/breaking_news/වෙළඳ-හා-යුද-නෞකා-සියල්ලම-එන්නේ-ජාත්‍යන්තර-සම්මුතිවලට-අනුවයි/11-414098) · `si`
+
+මෙරටට පැමිණෙන වෙළෙඳ නෞකා, යුද නෞකා සියල්ලක්ම පැමිණෙනුයේ ජාත්‍යන්තර සම්මුතීන්වලට අනුකූලව බවත්, එම නෞකාවලට සේවාවන් සැපයීම වෙළෙඳ කටයුත්තක් සේම, දෙරට අතර තිබෙන සම්බන්ධතා උඩ පැමිණෙන යුද නෞකා සමග සිදුකරන මෙහෙයුම් තවදුරටත් සිදුකරන බව නව නාවික හමුදාපති වයිස් අද්මිරාල් කංචන බානගොඩ මහතා පවසයි.
+
+ඒ මහතා අද (08දා) මහනුවරට පැමිණ ශ්‍රී දළදා සමිඳුන් වැඳ පුදා ගැනීමෙන් අනතුරුව මල්වතු අස්ගිරි මහනාහිමිවරුන් බැහැදැක ආශිර්වාද ලබා ගැනීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ බව අවධාරණය කළේය.
+
+එහිදී ඒ මහතා වැඩිදුරටත් අවධාරණය කර සිටියේ, එම යුද අභ්‍යාස ශ්‍රී ලංකා නාවික හමුදාවට මෙන්ම, වෙරළාරක්ෂක දෙපාර්තමේන්තුවට මුහුද හරහා සිදුකරන ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරම මැඬලීමට මහත් උපකාරී වන බවයි.
+
+මෙරට ජාතික ආරක්ෂාවේ එක් කොටසක් වන්නේ මුහුද හරහා සිදුකරන සතුරු උවදුරුවලට නිසි පියවර ගැනීම බවත්, තිස් වසරක යුද්ධය ජය ගැනීමෙන් පසු මේ වන විට තිබෙන ප්‍රධානතම අභියෝගය වී ඇත්තේ මුහුද හරහා සිදුකරන මත්ද්‍රව්‍ය ජාවාරම ඇතුළු අනෙකුත් නීතිවිරෝධී කටයුතු මැඬලීම බවද නාවික හමුදාපතිවරයා අවධාරණය කළේය.
+
+...
+
+[Data](articles/d9da2fd2.json)
 
 ---
 
@@ -1813,37 +1857,5 @@ Accordingly, the Director of the Telecommunications Commission, Mrs. H.P.M. Path
 ◼️
 
 [Data](articles/b7728fa5.json)
-
----
-
-### இலங்கை மக்களுக்கு அவசர எச்சரிக்கை
-
-*2025-01-08 08:36:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மக்களுக்கு-அவசர-எச்சரிக்கை/175-349957) · `ta`
-
-ஜனாதிபதி ஊடாக குறைந்த வருமானம் கொண்ட குடும்பங்களுக்கு 50,000 ரூபா நிதியுதவி வழங்கப்படவுள்ளதாக சமூக ஊடகங்களில் போலியான குறுஞ்செய்திகள் வெளியிடப்படுவது தொடர்பில் முறைப்பாடுகள் கிடைக்கப்பெறுவதாக இலங்கை தொலைத்தொடர்புகள் ஒழுங்குபடுத்தும் ஆணைக்குழு தெரிவித்துள்ளது.
-
-இது தொடர்பான குறுஞ்செய்திகளுக்கு தமது தனிப்பட்ட தகவல்களை வழங்குவதை தவிர்க்குமாறு தொலைத்தொடர்புகள் ஒழுங்குபடுத்தும் ஆணைக்குழுவின் பணிப்பாளர் மேனகா பத்திரன தெரிவித்துள்ளார். R
-
-◼️
-
-[Data](articles/62fcb253.json)
-
----
-
-### Wildfire rages in Los Angeles, forcing 30,000 to evacuate
-
-*2025-01-08 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104818/wildfire-rages-in-los-angeles-forcing-30000-to-evacuate) · `en`
-
-A rapidly growing wildfire raged across an upscale section of Los Angeles on Tuesday, destroying homes and creating traffic jams as 30,000 people evacuated beneath huge plumes of smoke that covered much of the metropolitan area.
-
-At least 2,921 acres (1,182 hectares) of the Pacific Palisades area between the coastal towns of Santa Monica and Malibu had burned, officials said, after they had already warned of extreme fire danger from powerful winds that arrived following extended dry weather.
-
-The fire grew rapidly as officials warned the worst wind conditions were expected to come overnight, leading to concerns that more neighborhoods could be forced to flee.
-
-Witnesses reported a number homes on fire with flames nearly scorching their cars when people fled the hills of Topanga Canyon, as the fire spread from there down to the Pacific Ocean.
-
-...
-
-[Data](articles/62506644.json)
 
 ---

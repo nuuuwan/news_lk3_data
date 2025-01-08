@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 00:44:01**
+As of **2025-01-09 01:13:08**
 
 ## Newspaper Stats
 
-*Scraped **64,424** Articles*
+*Scraped **64,426** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,925
 islandlk | 3,930
-dailyftlk | 4,495
+dailyftlk | 4,497
 dailymirrorlk | 4,733
 adalk | 6,170
 adaderanalk | 7,891
@@ -26,9 +26,45 @@ adaderanasinhalalk | 11,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,424 articles have been extended.
+61,972 (96.2%) of 64,426 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2025-01-09 (Thursday)
+
+### System closure, Anura’s foundation, devolution’s downfall, Namal’s challenges
+
+*2025-01-09 00:43:46* · [`dailyftlk`](https://www.ft.lk/columns/System-closure-Anura-s-foundation-devolution-s-downfall-Namal-s-challenges/4-771585) · `en`
+
+“…Similarly, Ambassadors and Heads of Missions residing in Colombo, as well as visiting delegations, are required to consult the Foreign Affairs Ministry for guidance on appropriate meeting levels with the President, Prime Minister, or other Ministers.” (https://www.ft.lk/front-page/Govt-issues-new-directives-to-strengthen-foreign-relations/44-771512)
+
+So, ‘System change’ begins. The creeping closure of and by the System.
+
+The Vice-Chancellor of Peradeniya University issues a fatwah against the holding of a seminar by a students’ association on the IMF program.
+
+Dr Nalinda Jayatissa, Health Minister, frowns on private donations to hospitals and asserts that everything must come under a ‘national health plan’.
+
+The Secretary to the President issues an unprecedentedly haughty 11-page edict, regulating/restricting the interface of the diplomatic and donor community including UN agencies with national leaders, local authorities and institutions-- with a Ministerial division playing Cerberus.
+
+...
+
+[Data](articles/7523e92d.json)
+
+---
+
+### From JVP to NPP: Through the eyes of a former military officer
+
+*2025-01-09 00:41:41* · [`dailyftlk`](https://www.ft.lk/columns/From-JVP-to-NPP-Through-the-eyes-of-a-former-military-officer/4-771584) · `en`
+
+The insurrection of ‘71 as well as ‘88/’89 always had underlying reasons of inequality, injustice, marginalisation, and deprivation, exacerbated when dissent was met with suppression and further oppression
+
+It is also true that the JVP reacted to the suppression and carried out many acts of violence on their own, from brutal killings to damage of public property and many other vicious attacks on those who did not acquiesce to their demands. It is creditable that the JVP has since then openly accepted and unreservedly apologised for their violent excesses pledging to follow democratic means eschewing violence. They have admirably honoured the pledge showing great patience and resilience despite many provocations
+
+...
+
+[Data](articles/73f4a295.json)
+
+---
 
 ### 2025-01-08 (Wednesday)
 
@@ -1851,45 +1887,5 @@ Dr. Harsha also stated that the committee had requested the Central Bank to carr
 ...
 
 [Data](articles/b7117d72.json)
-
----
-
-### நண்பரின் பாதத்தை துண்டாடியவர் கைது
-
-*2025-01-08 10:54:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நண்பரின்-பாதத்தை-துண்டாடியவர்-கைது/175-349972) · `ta`
-
-பாணந்துறை பின்வத்த பிரதேசத்தில் இரண்டு நண்பர்களுக்கு இடையில் ஏற்பட்ட வாய்த்தர்க்கம் கைகலப்பாக மாறியதை அடுத்து தனது நண்பரின் பாதத்தை வெட்டி துண்டாடியதாக  கூறப்படும் நபர் ஒருவர் கைது செய்யப்பட்டதாக பின்வத்த பொலிஸார் தெரிவித்தனர்.
-
-பாணந்துறை, பின்வத்த பிரதேசத்தை சேர்ந்த 42 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பாதிக்கப்பட்ட நபரும் சந்தேக நபரும் பின்வத்த புகையிரதப் பாதைக்கு அருகில் மது அருந்திக் கொண்டிருந்ததாகவும், நீண்ட நேர உரையாடலுக்குப் பின்னர் அவர் காலிலும் தோளிலும் மன்னா கத்தியால் தாக்கப்பட்டதாகவும்  விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-தாக்குதலின் பின்னர், சந்தேகநபர் கைது செய்யப்பட்டுள்ளதுடன், தாக்குதலுக்கு பயன்படுத்தப்பட்டதாக கூறப்படும் மன்னா கத்தி பொலிஸாரால் கைப்பற்றப்பட்டதுடன், காயமடைந்த நபர் பாணந்துறை  வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/7539ad44.json)
-
----
-
-### 2025 ஆம் ஆண்டிற்கான உலகின் சிறந்த ரயில் பயணம் : இலங்கையில் எது தெரியுமா ?
-
-*2025-01-08 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/203275) · `ta`
-
-2025 ஆம் ஆண்டிற்கான உலகின் சிறந்த ரயில் பயணம் பட்டியலில் கொழும்பு - பதுளை ரயில் பயணம் இடம்பிடித்துள்ளது.
-
-அதன்டி, உலகின் 7 ஆவது சிறந்த ரயில் பயணமாக கொழும்பு - பதுளை ரயில் பயணத்தை லோன்லி பிளானட் சுற்றுலா ஊடக நிறுவனம் தரவரிசைப்படுத்தியுள்ளது.
-
-இந்த அங்கீகாரம் ரயில் பாதையின்  இயற்கை அழகு மற்றும் ஆழமான கலாச்சார அனுபவத்தை பயணிகளுக்கு வழங்குவதை எடுத்துகாட்டுகின்றது.
-
-கொழும்பில் இருந்து பதுளை வரை 290 கிலோ மீட்டர் வரை இந்த ரயில் பயணம்  நீண்டுள்ளது.
-
-இந்த ரயில் பயணம் பசுமையான தேயிலை தோட்டங்கள், பனி மூடிய மலைகள் மற்றும் அழகிய நீர்வீழ்ச்சிகளின் கண்கவர் காட்சிகளுக்கு புகழ்பெற்றது.
-
-உலகின் மிகவும் அழகிய ரயில் பயணங்களில் ஒன்றாக அடிக்கடி சொல்லப்படும் இந்த பயணம், இலங்கையின் பல்வேறு நிலப்பரப்புகளையும் வளமான பாரம்பரியத்தையும் ஆராய்வதற்கான தனித்துவமான வாய்ப்பை பயணிகளுக்கு வழங்குகிறது.
-
-...
-
-[Data](articles/d7845ec4.json)
 
 ---

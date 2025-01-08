@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 19:28:19**
+As of **2025-01-08 19:43:54**
 
 ## Newspaper Stats
 
-*Scraped **64,390** Articles*
+*Scraped **64,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 3,921
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,165
-adaderanalk | 7,887
+adalk | 6,166
+adaderanalk | 7,889
 tamilmirrorlk | 9,241
 virakesarilk | 10,745
 adaderanasinhalalk | 11,125
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,390 articles have been extended.
+61,972 (96.2%) of 64,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### President inaugurates ‘Gem Sri Lanka – 2025’ gem and jewellery exhibition
+
+*2025-01-08 18:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/104834/president-inaugurates-gem-sri-lanka-2025-gem-and-jewellery-exhibition) · `en`
+
+The “Gem Sri Lanka – 2025” gem and jewellery exhibition was inaugurated this morning (08) at the Cinnamon Bentota Beach Hotel, presided over by President Anura Kumara Dissanayake.
+
+Organized annually by the Chinese Fort Gem and Jewellery Traders’ Association (CGJTA), the exhibition will be open to the public from today until January 10.
+
+Following the opening, President Dissanayake toured the exhibition booths and engaged in discussions with industry stakeholders, addressing challenges faced by gem and jewellery manufacturers while fostering a friendly dialogue with them.
+
+He also posed for a group photograph with the organizing committee of “Gem Sri Lanka – 2025.”
+
+This year’s exhibition features 103 booths and has attracted a significant number of both local and international buyers, highlighting the event’s global appeal.
+
+...
+
+[Data](articles/4c7cfb0c.json)
+
+---
 
 ### பனிஸ் ஒன்றிற்குள் இருந்த லைட்டர்
 
@@ -69,6 +89,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/ec58e38b.json)
+
+---
+
+### Tens of thousands flee as wildfires tear through Los Angeles area
+
+*2025-01-08 18:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104833/tens-of-thousands-flee-as-wildfires-tear-through-los-angeles-area) · `en`
+
+More than 30,000 people evacuated their homes as a wildfire ripped through an upscale coastal area of Los Angeles on Tuesday and into Wednesday, with Hollywood celebrities among those fleeing by car and on foot as flames engulfed homes and set hillsides ablaze.
+
+Two other fires inland were also spreading fast, officials said.
+
+Numerous buildings were destroyed and nearly 3,000 acres (1,200 hectares) burned in the Pacific Palisades area between the beach towns of Santa Monica and Malibu, officials said. The area is home to many film and music stars.
+
+Roads were jammed with people fleeing the inferno, some abandoning their cars as flames licked the edges, and plumes of smoke and flames rose in the night sky over Los Angeles and its suburbs.
+
+Firefighters has not contained the blaze by the early hours and Governor Gavin Newsom has declared a state of emergency.
+
+...
+
+[Data](articles/e659446f.json)
 
 ---
 
@@ -280,17 +320,35 @@ In this context, representatives from the bus associations held a discussion wit
 
 ---
 
+### බස් සංගම් ඉල්ලීම් දෙකෙන් එකකට වැ.බ. පොලිස්පතිගේ එකඟතාව
+
+*2025-01-08 16:51:25* · [`adalk`](https://www.ada.lk/breaking_news/බස්-සංගම්-ඉල්ලීම්-දෙකෙන්-එකකට-වැ-බ--පොලිස්පතිගේ-එකඟතාව/11-414096) · `si`
+
+ක්ලීන් ශ්‍රී ලංකා වැඩසටහනට සමගාමීව මාර්ග අනතුරු අවම කර ගැනීම වෙනුවෙන් පොලීසිය ක්‍රියාත්මක කරන රථ වාහන මෙහෙයුම හා බස් සංගම් නියෝජිතයන් අතර පැවැති සාකච්ඡාවේදී බස් සංගම් ඉදිරිපත් කළ එක් කරුණකට වැඩබලන පොලිස්පතිගේ එකඟතාව ලැබී ඇති අතර තවත් කරුණකට එකඟතාව දක්වා නොමැත.
+
+මෙහිදී බස් රථවල අලංකරණයට සකස් කර ඇති දෑ හා ඒවා මාරක අනතුරුවලට තුඩු ‍නොදෙන්නේනම් පමණක් ඒවා ඉවත් කර ගැනීමට මාස තුනක කාලයක් ලබාදෙන ලෙසට බස් රථ සංගම් නියෝජතයන් කළ ඉල්ලීමට වැඩ බලන පොලිස්පතිවරයාගේ එකඟතාව ලැබී තිබේ.
+
+ඒ අනුව අදාළ සැරසිලි මාරක අනතුරුවලට හේතු වන්නේ නම් පොලිසිය මැදිහත්වී ඒවා ඉවත් කිරීමට කටයුතු කරනු ඇති බවත් අනෙකුත් දෑ ඉවත් කිරීමට හෝ නිසි අවසර ලබා ගෙන රඳවාගෙන තබා ගැනීම වෙනුවෙන් මාස තුනක කාලයක් ලබාදෙන බව පොලිස්පතිවරයා සඳහන් කර තිබේ.
+
+මේ අතර බස් රථවල වැරදි සෙවීම වෙනුවෙන් සිවිල් ඇඳුමින් යොදවා ඇති පොලිස් නිලධාරීන් ඉවත් කරන ලෙසට බස් සංගම් කළ ඉල්ලීමට වැඩ බලන පොලිස්පතිවරයාගේ එකඟතාව ලැබී නොමැත. මහජනතාවගේ ආරක්ෂාව වෙනුවෙන් එය අඛණ්ඩව සිදුකරන බවට වැඩ බලන පොලිස්පතිවරයා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/ba45cb2e.json)
+
+---
+
 ### IGP orders probe into over 1,000 candidates over election expenditure violations
 
 *2025-01-08 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/104831/igp-orders-probe-into-over-1000-candidates-over-election-expenditure-violations) · `en`
 
-Acting Inspector General of Police (IGP) has ordered an investigation into 1,042 candidates and 197 party secretaries and independent group leaders who failed to report their income and expenditure for the 2024 general election, in violation of the Regulation of Election Expenditure Act.
-
-IGP orders probe into over 1,000 candidates over election expenditure violations
-
-Acting Inspector General of Police (IGP) has ordered an investigation into 1,042 candidates and 197 party secretaries and independent group leaders who failed to report their income and expenditure for the 2024 general election, in violation of the Regulation of Election Expenditure Act.
+The Acting Inspector General of Police (IGP) has ordered an investigation into 1,042 candidates and 197 party secretaries and independent group leaders who failed to report their income and expenditure for the 2024 general election, in violation of the Regulation of Election Expenditure Act.
 
 Under the Election Expenditure Regulation Act, No. 03 of 2023, all political parties, independent groups, or candidates are required to submit their financial reports to the District Returning Officers within 21 days of the election results being announced.
+
+Accordingly, Acting IGP Priyantha Weerasooriya has instructed police divisions in the relevant electoral districts to begin investigations.
+
+Additionally, the police chief has ordered all Senior DIGs, DIGs, and Divisional Officers to prepare reports on these investigations and submit them to the Attorney General for legal advice by January 31, 2025.
 
 ...
 
@@ -1787,53 +1845,5 @@ Witnesses reported a number homes on fire with flames nearly scorching their car
 ...
 
 [Data](articles/62506644.json)
-
----
-
-### ශ්‍රී ලංකාව පළමුව පන්දු යැවීමට තීරණය කරයි
-
-*2025-01-08 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205155) · `si`
-
-ශ්‍රී ලංකාව හා නවසීලන්තය අතර හැමිල්ටන්හිදී අද (08) පැවැත්වෙන දෙවන එක්දින තරගයේ කාසිය වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දු යැවීමට තීරණය කළේය.
-
-ශ්‍රී ලංකා වේලාවෙන් අද පෙරවරු 6.30ට ආරම්භ කිරීමට නියමිතව තිබූ මෙම තරගයට වර්ෂාවෙන් බාධා ඇති වූ හෙයින්  පැය දෙකකට ආසන්න කාලයක් ප්‍රමාද විය.
-
-ඒ හේතුවෙන් එක් ඉනිමක් පන්දුවාර 37කට සීමා කර පැවැත්වීමට තරග තීරකවරයා තීරණය කළේය.
-
-◼️
-
-[Data](articles/f75faee2.json)
-
----
-
-### බස් වර්ජනය ගැන අවසන් තීරණය අද
-
-*2025-01-08 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205154) · `si`
-
-පොලීසිය මඟින් ආරම්භ කර ඇති  බස්රථ පරීක්ෂාවට විරෝධය පළ කරමින් ආරම්භ කිරීමට සැළසුම් කර ඇති බස් රථ වර්ජනය සම්බන්ධයෙන් අද (08) අවසන් තීරණයක් ගන්නා බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය පවසයි.
-
-එහි සභාපති ගැමුණු විජේරත්න මහතා සඳහන් කළේ, අදාළ ගැටලුව පිළිබඳ සාකච්ඡා කිරීම සඳහා වැඩබලන පොලිස්පතිවරයා සමඟ අද පෙරුවරුවේ සාකච්ඡාවක් පැවැත්වෙන බවය.
-
-කෙසේවෙතත් අද දින දහවල් 12 පමණ වන විට සිය තීන්දුව ලබාදීමට කටයුතු කරන බව ද ගැමුණු විජේරත්න මහතා පැවසීය.
-
-◼️
-
-[Data](articles/092a57ab.json)
-
----
-
-### E-service for copies of birth, marriage and death certificates for overseas Sri Lankans launched
-
-*2025-01-08 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104817/e-service-for-copies-of-birth-marriage-and-death-certificates-for-overseas-sri-lankans-launched-) · `en`
-
-Foreign Minister Vijitha Herath in partnership with the Registrar General’s Department has launched the pilot project to facilitate overseas Sri Lankans to obtain certified copies of birth, marriage, and death certificates through Sri Lanka Missions abroad.
-
-The system provides Missions access to the e-BMD database (electronic - Birth, Marriage and Death certificate Database) of the Registrar General’s Department in Sri Lanka.
-
-The pilot project is initially implemented through the Sri Lanka Embassies / Consulates General in Tokyo (Japan), Kuwait, Doha (Qatar), Milan (Italy), Toronto (Canada), Melbourne (Australia), and Dubai (UAE). Building upon this, the Ministry and the Department will actively work towards periodically expanding the service to all other Sri Lankan Missions and Posts abroad, ensuring an efficient consular service to the Sri Lankan community, Sri Lanka’s foreign ministry said.
-
-...
-
-[Data](articles/35521576.json)
 
 ---

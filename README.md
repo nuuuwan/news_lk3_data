@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 22:45:08**
+As of **2025-01-08 23:14:37**
 
 ## Newspaper Stats
 
-*Scraped **64,406** Articles*
+*Scraped **64,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 470
 colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,921
-islandlk | 3,929
+islandlk | 3,930
 dailyftlk | 4,495
 dailymirrorlk | 4,733
 adalk | 6,169
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,127
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,406 articles have been extended.
+61,972 (96.2%) of 64,407 articles have been extended.
 
 ## Latest 100 Articles 
 

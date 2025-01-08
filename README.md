@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 16:16:15**
+As of **2025-01-08 16:28:03**
 
 ## Newspaper Stats
 
-*Scraped **64,361** Articles*
+*Scraped **64,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,914
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,160
+adalk | 6,161
 adaderanalk | 7,884
 tamilmirrorlk | 9,238
 virakesarilk | 10,741
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,361 articles have been extended.
+61,971 (96.3%) of 64,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/96cabc08.json)
+
+---
+
+### මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනයක් ජනපතිගේ ප්‍රධානත්වයෙන් ඇරඹෙයි
+
+*2025-01-08 15:46:09* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්-හා-ස්වර්ණාභරණ-ප්‍රදර්ශනයක්-ජනපතිගේ-ප්‍රධානත්වයෙන්-ඇරඹෙයි/11-414090) · `si`
+
+“Gem Sri Lanka – 2025” මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් සිනමන් බෙන්තොට බීච් හෝටලයේදී අද (08) පෙරවරුවේ ඉතා උත්කර්ෂවත් ලෙස ආරම්භ විය.
+
+චීන කොටුව මැණික් හා ස්වර්ණාභරණ වෙළෙඳ සංගමය (CGJTA) වාර්ෂිකව සංවිධානය කරන මෙම ප්‍රදර්ශනය අද සිට ජනවාරි 10 වෙනිදා දක්වා පැවැත්වේ.
+
+“Gem Sri Lanka – 2025” මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය විවෘත කළ ජනාධිපතිවරයා ප්‍රදර්ශන කුටි නිරීක්‍ෂණයටද එක්වූ අතර, මැණික් කර්මාන්තකරුවන් මුහුණ දී සිටින ගැටලු පිළිබඳව සාකච්ඡා කරමින් ඔවුන් සමඟ සුහද කතාබහක ද නිරත විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා “Gem Sri Lanka – 2025” ප්‍රදර්ශනයේ සංවිධායක මණ්ඩලය සමඟ සමූහ ඡායාරූපයකටද පෙනී සිටියේය.
+
+මෙවර “Gem Sri Lanka – 2025” ප්‍රදර්ශනය ප්‍රදර්ශන කුටි 103 කින් සමන්විත අතර, මේ සඳහා දෙස් විදෙස් ගැනුම්කරුවන් විශාල පිරිසක් එක්ව සිටීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/cbcad5fb.json)
 
 ---
 
@@ -1749,23 +1769,5 @@ Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday said from the two
 ◼️
 
 [Data](articles/6203cef1.json)
-
----
-
-### Cabinet nod to extend stationary allowance for non-Aswesuma beneficiary students via voucher
-
-*2025-01-08 06:10:53* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-extend-stationary-allowance-for-non-Aswesuma-beneficiary-students-via-voucher/56-771543) · `en`
-
-Recognising the need to include vulnerable groups not identified under the Aswesuma, the Cabinet of Ministers on Monday approved a broader distribution plan to arrange stationery allowance in the form of a voucher.
-
-The move comes amid absence of an updated database to identify eligible students from non-Aswesuma families.
-
-Under the latest arrangement, the stationary allowance will be provided as a voucher to students attending 6,576 schools with less than 300 students of the total 10,096 schools countrywide, children living in child development centres as well as lay and clergy students in Pirivena and education institutions.
-
-On 2 December 2024, Cabinet approved to provide a monthly allowance of Rs. 6,000 per child to help families purchase school stationery ahead of the 2025 academic year. This was aimed at minimising the adverse effects of the economic crisis on education and will benefit children of families where the Aswesuma is entitled and other vulnerable groups.
-
-...
-
-[Data](articles/c6dad73e.json)
 
 ---

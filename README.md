@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 05:52:17**
+As of **2025-01-08 06:14:41**
 
 ## Newspaper Stats
 
-*Scraped **64,245** Articles*
+*Scraped **64,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,101 @@ colombotelegraphcom | 643
 bbccomsinhala | 672
 economynextcom | 3,912
 islandlk | 3,926
-dailyftlk | 4,477
+dailyftlk | 4,482
 dailymirrorlk | 4,733
 adalk | 6,142
 adaderanalk | 7,869
 tamilmirrorlk | 9,216
-virakesarilk | 10,728
+virakesarilk | 10,729
 adaderanasinhalalk | 11,095
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.5%) of 64,245 articles have been extended.
+61,971 (96.5%) of 64,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### BRICS countries’ effort to dedollarisation just wishful thinking
+
+*2025-01-08 06:04:56* · [`dailyftlk`](https://www.ft.lk/columns/BRICS-countries-effort-to-dedollarisation-just-wishful-thinking/4-771540) · `en`
+
+Until BRICS countries increase their capability to tolerate huge trade deficit, launching a global reserve currency will be just wishful thinking
+
+Trump who has been elected to be the next President of the United States has said that he would impose 100% import tax on BRICS countries if they continue their effort to dedollarise international trade and payment mechanism. This is a discussion now taking place in global financial capitals. It is quite normal because if President Trump continues with his “threat” there could be a huge mess in many economies which export to the United States. But it is not normal if a person with average intelligence who lives in a small village of Kahathuduwa, a few miles away from Colombo in Sri Lanka, nearly 8,000 miles away from New York, shows some visionary opinion on the subject. That led me to write this essay.
+
+...
+
+[Data](articles/8975d911.json)
+
+---
+
+### Clean Sri Lanka and digital economy initiatives: New pragmatic face of NPP?
+
+*2025-01-08 06:01:45* · [`dailyftlk`](https://www.ft.lk/columns/Clean-Sri-Lanka-and-digital-economy-initiatives-New-pragmatic-face-of-NPP/4-771539) · `en`
+
+The two initiatives mark a milestone in the NPP path to consolidating its goals
+
+In his New Year message, President Anura Dissanayake outlined three development goals – namely, eradicating rural poverty, implementing the Clean Sri Lanka project, and building a digital economy.
+
+As I see it, Clean Sri Lanka and the Digital Economy are not goals, but strategies aimed at the social and economic revival of the country. What is particularly noteworthy is that they are practical strategies devoid of ideology. In the context of some ministers still thinking that the road to economic revival is through State enterprises, claiming for example, that the State distillery can produce quality alcohol at cheaper prices than private competitors, the two initiatives mark a milestone in the NPP path to consolidating its goals.
+
+...
+
+[Data](articles/14c767ff.json)
+
+---
+
+### Sri Lanka’s foreign policy balance will be key in 2025
+
+*2025-01-08 05:58:24* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-foreign-policy-balance-will-be-key-in-2025/4-771538) · `en`
+
+Former President Jimmy Carter, who passed away last week, may not have been a flamboyant US President, but he is widely respected—not for political victories, but for his unwavering dedication to service, both in and after the White House. His life serves as a profound reminder that true leadership is not defined by titles or terms but by the impact of one’s tenure. Carter’s presidency (1977–1981) and post-presidency provide valuable lessons for diplomacy, particularly in conflict resolution and principled engagement with international partners.
+
+...
+
+[Data](articles/68ae369d.json)
+
+---
+
+### Sri Lanka – Germany Business Council holds 25th AGM
+
+*2025-01-08 05:49:21* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Germany-Business-Council-holds-25th-AGM/34-771536) · `en`
+
+Executive Committee 2024/2025 – Seated from left: Vice President Roy Anthony, Immediate Past President Surendra Ediriweera, Embassy of Germany in Sri Lanka Ambassador Dr. Felix Neumann, President Asoka Hettigoda, Vice President Karim Schadlou, Ceylon Chamber of Commerce Secretariat Amanthi Silva
+
+Committee members – Standing from left: Aflal Khan Ismail, Dhilmini Palipane, Mark Francis, Sudath Tennakoon, Gayan Maddumarachchi, Suranga Ratnayake, Gerard Victoria and Nalaka Amaratunga
+
+The 25th Annual General Meeting (AGM) of the Sri Lanka – Germany Business Council (SLGBC) was held recently at Hilton Colombo Residences, Colombo 2.
+
+The Chief Guest, Federal Republic of Germany Ambassador Dr. Felix Neumann highlighted the enduring partnership between the two countries.
+
+...
+
+[Data](articles/9fa8953c.json)
+
+---
+
+### Imran Furkan joins Odel Board
+
+*2025-01-08 05:46:54* · [`dailyftlk`](https://www.ft.lk/business/Imran-Furkan-joins-Odel-Board/34-771535) · `en`
+
+Young professional Imran Furkan has been appointed to the Board of Odel PLC as an Independent Non-Executive Director.
+
+Imran is a Fellow of CPA Australia, CIMA UK, has an MBA from Australia, and a BA (Hons) Sustainable Performance Management from the UK.
+
+He advises Boards and CEOs on strategy, market expansion as well as geopolitical, economic, climate and technology risk management.
+
+He is currently serving as CEO of Tresync, Australia. Imran is passionate about one thing – fostering collaboration. Connecting people and businesses together, fostering industry partnerships, and advising on macro socio-economic technological strategy. This is evidenced by his achievements in senior management and board directorship roles in industries such as Finance, Food, Regulatory and Industry Bodies, IT/GBS, Education, Commodities, Media, and Professional Services in the Asia-Pacific region.
+
+...
+
+[Data](articles/ec1cda80.json)
+
+---
 
 ### Marikkar criticises AKD Govt. over broken promises
 
@@ -149,6 +227,22 @@ Writing a letter to President Anura Kumara Dissanayeke, Bathiudeen has stated th
 ...
 
 [Data](articles/6587f151.json)
+
+---
+
+### கிளிநொச்சி முகமாலைப் பகுதியில் நீரில் மூழ்கி ஒருவர் உயிரிழந்துள்ளார்
+
+*2025-01-08 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/203271) · `ta`
+
+கிளிநொச்சி முகமாலைப் பகுதியில் வீதியில் தேங்கிக் காணப்பட்ட வெள்ள நீரில் மூழ்கி ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த சம்பவமானது செவ்வாய்க்கிழமை (07) பகல் 9:30 மணியளவில் இடம்பெற்றுள்ளது முகமாலை வடக்கு பகுதியில் ஆட்கள் நடமாட்டம் குறைந்த வீதியினால் பயணித்தபோது வீதியில் தேங்கி காணப்பட்ட வெள்ள நீரில் விழுந்து உயிரிழந்துள்ளார்.
+
+இச்சம்பவம் தொடர்பில் பளைப் பொலிசார் விசாரணைகளை முன்னெடுத்து வருகின்றனர். முகமாலை வடக்கு பளையினை சேர்ந்த மாணிக்கம் உதயகுமார் என்பவரே இவ்வாறு உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9f54be77.json)
 
 ---
 
@@ -1731,115 +1825,5 @@ President Dissanayake expressed his confidence in the newly appointed diplomats,
 ...
 
 [Data](articles/809fec99.json)
-
----
-
-### චීනයේ භූ කම්පනයකින් 53ක් මරුට
-
-*2025-01-07 13:17:02* · [`adalk`](https://www.ada.lk/breaking_news/චීනයේ-භූ-කම්පනයකින්-53ක්-මරුට/11-414059) · `si`
-
-චීනයේ අද(07දා) අලුයහ හටගත් රික්ටර් මාපක 7.1ක භූ කම්පනයක් හේතුවෙන් පුද්ගලයන් 53 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-◼️
-
-[Data](articles/58049e12.json)
-
----
-
-### ජපානයෙන් ශ්‍රී ලංකාවට අඛණ්ඩ මූල්‍ය සහ තාක්‍ෂණික සහාය
-
-*2025-01-07 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205129) · `si`
-
-ශ්‍රී ලංකාවට ලබා දෙන මූල්‍ය සහ තාක්ෂණික සහාය අඛණ්ඩව ලබා දෙන බව ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ උප සභාපති හාරා ෂෝහෙයි මහතා පවසයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජපන් ජාත්‍යන්තර සහයෝගිතා ආයතනයේ (JICA) ජ්‍යෙෂ්ඨ උප සභාපති හාරා ෂෝහෙයි මහතා අතර ජනාධිපති කාර්යාලයේ අද (07) පැවති හමුවේදී මේ බව සඳහන් කෙරිණි.
-
-ජපාන ආධාර යටතේ ක්‍රියාත්මක කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ පර්යන්තයේ  සංවර්ධන කටයුතු පිළිබඳව ද මෙහිදී සාකච්ඡා කෙරිණි.
-
-එමෙන්ම ජයිකා ආධාර යටතේ  මෙරට ක්‍රියාත්මක සියලු ව්‍යාපෘති කඩිනමින් අවසන් කිරීමට සැලසුම් කර ඇති බව ද මෙහිදී සඳහන් විය.
-
-ණය ප්‍රතිව්‍යුහගතකරණ ක්‍රියාවලියේදී ජපානය ශ්‍රී ලංකාවට ලබා දුන් සහාය මෙන්ම ඉදිරියේදී ශ්‍රී ලංකාවට අවශ්‍ය මූල්‍ය ආධාර ලබාදීමට ජයිකා සංවිධානය බලාපොරොත්තු වන බව හාරා ෂෝහෙයි මහතා වැඩිදුරටත් සඳහන් කළේය.
-
-මෙරට ක්‍රියාත්මක ප්‍රමුඛ ව්‍යාපෘතියක් වන  "Clean Sri Lanka"  වැඩසටහන පිළිබඳව සිය ප්‍රසාදය පළ කළ උප සභාපතිවරයා  එම ව්‍යාපෘතිය සඳහා අවශ්‍ය මූල්‍ය හා තාක්ෂණික සහාය ලබාදීමට සූදානම් බවද
-
-...
-
-[Data](articles/d90bcb15.json)
-
----
-
-### புதிய இராஜதந்திரிகள் ஜவர் நியமனம்
-
-*2025-01-07 12:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-இராஜதந்திரிகள்-ஜவர்-நியமனம்/175-349917) · `ta`
-
-சர்வதேச சமூகத்தின் முன் இலங்கையின் பிம்பத்தை உயர்த்துவது தூதுவரின் பொறுப்பு என ஜனாதிபதி அநுரகுமார திசாநாயக்க வலியுறுத்தினார்.
-
-கடந்த காலங்களில் இராஜதந்திர சேவைகளில் ஈடுபட்டுள்ள அதிகாரிகள் இலங்கையின் பெயருக்கு களங்கம் ஏற்படுத்திய சந்தர்ப்பங்கள் இருந்ததாகவும், புதிய நியமனங்களை பெற்ற இராஜதந்திரிகளிடம் இருந்து அவ்வாறானவற்றை எதிர்பார்க்கவில்லை எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
-
-வெளிநாட்டு இராஜதந்திர சேவைக்கான புதிய இராஜதந்திரிகளை நியமிக்கும் நிகழ்வு ஜனாதிபதி அலுவலகத்தில் செவ்வாய்க்கிழமை (07) இடம்பெற்றது. இங்கு உரையாற்றுகையிலே ஜனாதிபதி அநுரகுமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
-
-வெளிநாடுகளில் உள்ள இலங்கையர்களுக்கு வழங்கப்படுகின்ற சேவை தொடர்பில் விசேட கவனம் செலுத்தி செயற்படுமாறும்  அந்த நாடுகளில் உள்ள அனைத்து இலங்கையர்களுக்கும் சேவைகளை வழங்குவதற்கு முன்னின்று  பாரபட்சமின்றி நியாயமாக செயற்படுமாறும் ஜனாதிபதி புதிய இராஜதந்திரிகளுக்கு பணிப்புரை வழங்கினார்.
-
-...
-
-[Data](articles/8187cbb5.json)
-
----
-
-### EC initiates legal action against 12 presidential candidates
-
-*2025-01-07 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/104795/ec-initiates-legal-action-against-12-presidential-candidates) · `en`
-
-The Election Commission has directed the District Election Offices to finalize the files of the candidates who failed to submit their income and expenditure reports related to the 2024 General Election and promptly forward them to the police for legal action.
-
-A grace period was provided for submitting these reports, but despite the deadline having passed, several candidates still have not submitted their income reports, the election regulatory body said.
-
-In response, the Election Commission announced that steps will be taken to initiate legal proceedings against those candidates who have not complied with the deadline.
-
-Meanwhile, it has been reported that legal action will be taken next week against five presidential candidates who have not submitted their income and expenditure reports.
-
-Out of the twelve presidential candidates who failed to submit the required reports, legal action has already been initiated against seven, the election commission added.
-
-...
-
-[Data](articles/c1cff2d7.json)
-
----
-
-### ‘Sabaragamuwa Maha Saman Devalaya’ reopens
-
-*2025-01-07 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/104794/sabaragamuwa-maha-saman-devalaya-reopens) · `en`
-
-Measures have been taken to reopen the ‘Sabaragamuwa Maha Saman Devalaya’ in response to requests made by the Maha Sangha and local residents.
-
-Following careful consideration of these requests, the devalaya has officially reopened today (07), allowing all rituals and activities, including the acceptance of offerings and donations.
-
-On January 05, 2025, the board of duty (Rajakari Mandalaya) of the ‘Sabaragamuwa Maha Saman Devalaya’  launched a strike by withdrawing from sacred pooja and rituals of the devalaya citing their objection to the appointment of an acting Basnayake Nilame, which they allege violates long-standing traditions and was influenced by political considerations.
-
-The strike followed the appointment of S.V. Chandrasinghe as acting Basnayake Nilame by the Commissioner for Buddhist Affairs. The appointment is intended to fill the position temporarily until a permanent Basnayake Nilame is named, following the expiration of the previous officeholder’s term.
-
-...
-
-[Data](articles/521de7d5.json)
-
----
-
-### ජාත්‍යන්තරය හමුවේ ශ්‍රී ලංකාවේ ප්‍රතිරූපය ඔසවා තැබීම තානාපතිවරු සතු වගකීමක් -ජනපති
-
-*2025-01-07 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205128) · `si`
-
-ජාත්‍යන්තරය හමුවේ ශ්‍රී ලංකාවේ ප්‍රතිරූපය ඔසවා තැබීම තානාපතිවරයා සතු වගකීමක් බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
-
-පසුගිය කාලයේ රාජතාන්ත්‍රික සේවාවන්හි නිරත නිලධාරීන් ශ්‍රී ලංකාවේ නාමය අපකීර්තියට පත් කළ අවස්ථා තිබූ බවත් නව පත්වීම් ලබා ගන්නා රාජ්‍ය තාන්ත්‍රිකයන්ගෙන් එවැන්නක් බලාපොරොත්තු නොවන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේ විදෙස් තානාපති සේවය සඳහා නව රාජ්‍ය තාන්ත්‍රිකයින් පත් කිරීම වෙනුවෙන් ජනාධිපති කාර්යාලයේ අද (07) පැවති  සාකච්ඡාවේදීය.
-
-විදේශගත ශ්‍රී ලාංකිකයින්ට සපයනු ලබන සේවාව පිළිබඳ විශේෂ අවධානයක් යොමු කර කටයුතු කරන ලෙසත් එම රටවල සිටින සියලු ශ්‍රී ලාංකිකයන්ට සේවා සැපයීමේදී ඒ සඳහා මූලිකත්වය දෙමින් කිසිදු භේදයකින් තොරව සාධාරණව කටයුතු කරන ලෙසත් ජනාධිපතිවරයා නව රාජ්‍ය තාන්ත්‍රිකයන්ට උපදෙස් ලබා දුන්නේය.
-
-ශ්‍රී ලාංකික ශ්‍රමිකයින් සිටින මැද පෙරදිග, දකුණු කොරියාව සහ ජපානය වැනි රටවල රාජ්‍යතාන්ත්‍රික සේවා සැපයීමේදී වැඩි අවධානයක් යොමු කළ යුතු බවද මෙහිදී සාකච්ඡා කෙරිණි.
-
-...
-
-[Data](articles/7ab81ed8.json)
 
 ---

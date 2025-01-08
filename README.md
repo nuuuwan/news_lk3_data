@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 17:13:20**
+As of **2025-01-08 17:28:08**
 
 ## Newspaper Stats
 
-*Scraped **64,363** Articles*
+*Scraped **64,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 470
 colombotelegraphcom | 643
 bbccomsinhala | 673
-economynextcom | 3,914
+economynextcom | 3,921
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
 adalk | 6,162
 adaderanalk | 7,884
-tamilmirrorlk | 9,238
+tamilmirrorlk | 9,240
 virakesarilk | 10,741
 adaderanasinhalalk | 11,118
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 11,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,363 articles have been extended.
+61,971 (96.3%) of 64,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### 11 டொல்பின்கள் உயிரிழந்த நிலையில்  மீட்பு
+
+*2025-01-08 17:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/11-டொல்பின்கள்-உயிரிழந்த-நிலையில்-மீட்பு/175-349999) · `ta`
+
+வில்பத்து தேசிய பூங்கா கடல் எல்லைக்குட்பட்ட கொல்லன் கனத்த பகுதியில் 11 சாதாரண குப்பி டொல்பின்கள்  உயிரிழந்த நிலையில்   செவ்வாய்க்கிழமை (7) மீட்கப்பட்டுள்ளன.
+
+முள்ளிக்குளம்  தள பாதுகாப்பு அலுவலகத்திற்கு கிடைத்த தகவலுக்கு அமைய அப்பகுதிக்குச் சென்ற வனவிலங்கு திணைக்கள அதிகாரிகள் அப்பகுதிக்குச் சென்று சோதனை செய்தனர். இதன் போது டொல்பின்கள்   இறந்து கிடந்ததை அவதானித்துள்ளனர்.
+
+பின்னர் இறந்த டொல்பின்களை மீட்டு   பரிசோதித்ததன் பின்னர் இது தொடர்பான தகவல்கள் புத்தளம் நீதிவான் நீதிமன்றில்  செவ்வாய்க்கிழமை (07)   சமர்ப்பிக்கப்பட்டது.
+
+அதன்படி அனுராதபுரம் வனவிலங்கு கால்நடை வைத்திய அலுவலக அதிகாரிகள்  உயிரிழந்த டொல்பின்களின் மரணம் தொடர்பான  பிரேத பரிசோதனையை மேற்கொண்டனர்.
+
+மேலும் அவற்றின் மரணத்தை உறுதிப்படுத்துவதற்காக டொல்பின்களில் இருந்து   எடுக்கப்பட்ட மாதிரிகள் பேராதனை கால்நடை மருத்துவ பீடத்திற்கு அனுப்பி வைக்கப்பட்டுள்ளது .
+
+◼️
+
+[Data](articles/44dc591a.json)
+
+---
+
+### Sri Lanka stocks up for first time in four sessions; banks lead
+
+*2025-01-08 16:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-for-first-time-in-four-sessions-banks-lead-198591/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange indices rose on Wednesday, bucking a falling trend in the last three sessions, data on its site showed.
+
+Market has been on the downward trend for the past three sessions through Tuesday after peaking repeatedly following the finalization of Sri Lanka’s debt restructuring deal in mid December.
+
+The broader ASPI closed up 0.63 percent or 99.37 points at 15,954.01; while the more liquid S&P SL20 Index closed up 0.57 percent or 27.12 points at 4,816.10.
+
+“Renewed buying interest is pushing the market up,” Dimantha Mathew, Chief Research & Strategy Officer at First Capital Holdings PLC, told EconomyNext.
+
+“We saw short profit taking in the last three days, but the upward trend will continue” he said referring to the market recovery.
+
+Analysts say more investors are shifting their money to stocks from fixed-income assets after President Anura Kumara Dissanayake doubled withholding tax on interest income. Returns on stock investments are tax free.
+
+...
+
+[Data](articles/53bc9c3a.json)
+
+---
 
 ### උද්ධමනය ගැන මහ බැංකු අධිපතිගෙන් සුබ ආරංචියක්
 
@@ -91,6 +133,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/cbcad5fb.json)
+
+---
+
+### Sri Lanka cabinet approves MOUs with Chinese media institutions for training
+
+*2025-01-08 15:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-mous-with-chinese-media-institutions-for-training-198594/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet this week approved proposals to enter into agreements with Chinese media institutions for capacity building ahead of President Anura Kumara Dissanayake’s January 14 official visit to Beijing.
+
+The signing of the memorandum of understanding (MOU) will see Sri Lanka officials from the Ministry and Department of Government Information as well as journalists from state media institutions going to China for capacity building through training, a government official said.
+
+The Ministry of Health and Mass Media will sign an MOU with National Radio and Television Administration (NRTA) of China, while the Associated Newspapers Ceylon Limited (Lake House) will sign with Chinese state-owned Xinhua News Agency.
+
+Similarly, the Department of Government Information will sign with Xinhua News Agency, while state-run Sri Lanka Rupavahini Corporation and Sri Lanka Broadcasting Corporation will sign the MOU with China Media Group.
+
+...
+
+[Data](articles/0ebecf81.json)
 
 ---
 
@@ -350,6 +410,28 @@ Clean Sri Lanka වැඩසටහනට සමගාමීව සිදුක�
 
 ---
 
+### Sri Lanka central bank to review SRR framework
+
+*2025-01-08 14:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-to-review-srr-framework-198588/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank is reviewing the current statutory reserve requirements of banks, Governor Nandalal Weeerasinghe said delivering the agency’s annual plans for the year.
+
+The central bank is reviewing the SRR in line with international best practices, he said.
+
+“Required changes will be implemented following stakeholder consultations to optimise the SRR framework for the benefit of effective monetary policy implementation and the overall financial system,” according to the published text of the speech.
+
+Many floating rate central banks no longer have large reserve requirements, and do not use them to tighten or loosen policy.
+
+The Fed in the run up to triggering the latest inflation bubble, dropped the concept of required reserves altogether.
+
+It could then print money without the limits of ‘excess reserves or excess liquidity’, critics say.
+
+...
+
+[Data](articles/e9f3c2ab.json)
+
+---
+
 ### “Gem Sri Lanka – 2025”  ஆரம்பம்
 
 *2025-01-08 14:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Gem-Sri-Lanka-2025-ஆரம்பம்/175-349990) · `ta`
@@ -367,6 +449,24 @@ Clean Sri Lanka වැඩසටහනට සමගාමීව සිදුක�
 ...
 
 [Data](articles/f5028b34.json)
+
+---
+
+### Sri Lanka’s lending rates for MSMEs still high: CB Chief
+
+*2025-01-08 13:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-lending-rates-for-msmes-still-high-cb-chief-198584/) · `en`
+
+ECONOMYNEXT – Lending rates for Sri Lanka’s Micro, Small and Medium Scale Enterprises (MSMEs) are still high despite lower market interest rates, the Central Bank Governor Nandalal Weerasinghe said.
+
+Announcing the policy agenda for 2025 and beyond he said the recovery in credit to the private sector has been supported by the noteworthy reduction in market lending interest rates.
+
+“However, the Central Bank observes some excessive, outlier rates of interest on facilities extended to Micro, Small and Medium Scale Enterprises (MSMEs) as well as marginal borrowers and certain credit products, which are not consistent with the prevailing relaxed monetary policy stance,” he said.
+
+“Moreover, risks associated with lending are on the decline while the credit appetite of banks and financial institutions is improving given the overall stability and recovery witnessed in the economy.”
+
+...
+
+[Data](articles/df608316.json)
 
 ---
 
@@ -453,6 +553,26 @@ The boundary is the world’s longest between two countries and it was establish
 ...
 
 [Data](articles/ba26d9ee.json)
+
+---
+
+### Sri Lanka’s 2024 GDP growth hits 7-year high of 5-pct amid deflation
+
+*2025-01-08 13:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-2024-gdp-growth-hits-7-year-high-of-5-pct-198582/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s economy is estimated to have expanded by 5 percent last year and recorded the highest growth since 2017, the Central Bank Governor Nandalal Weerasinghe said.
+
+Announcing the policy agenda for 2025 and beyond he said leading economic indicators of industry and service sectors reflect a continuation of the expansion in output in the last quarter of 2024 as well.
+
+“Accordingly, real GDP is projected to have grown by around 5 percent in 2024, registering the highest annual growth since 2017,” Weerasinghe told the policy launching event in Colombo.
+
+“This higher than-expected growth also provides evidence that deflation in recent months was not due to demand factors but mainly due to supply-side factors, including administrative price adjustments.”
+
+The island nation’s economy has been recovering from its worst crisis in 2022.
+
+...
+
+[Data](articles/dd9340a5.json)
 
 ---
 
@@ -980,6 +1100,26 @@ Clean Sri Lanka වැඩසටහන පිළිබඳ ඇතිව තිබ�
 
 ---
 
+### Sri Lanka President urges withholding tax refund mechanism for retirees
+
+*2025-01-08 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-urges-withholding-tax-refund-mechanism-for-retirees-198579/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Anura Kumara Dissanayake has discussed the setting up a mechanism of refunding withholding tax from retirees who are not subject to income tax, a statement said.
+
+Sri Lanka is to raise withholding tax on bank deposit interest from 5 to 10 percent. Withholding tax can be set off against the final tax payment.
+
+Income tax thresholds will also be raised from next year, reducing the total tax liability for lower income segments.
+
+President Dissanayake had “highlighted the importance of establishing a mechanism to refund withholding taxes deducted from retirees who are not subject to income tax,” in a meeting with Finance Ministry officials, a statement from his media office said.
+
+“The President emphasized the need for a well-balanced approach to address these concerns, taking into account the country’s financial constraints and economic priorities,” the statement said.
+
+...
+
+[Data](articles/3d623aeb.json)
+
+---
+
 ### උණ්ඩියල් - හවාලා ක්‍රම ගැන හර්ෂගෙන් අලුත් යෝජනාවක්
 
 *2025-01-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205159) · `si`
@@ -1035,6 +1175,32 @@ The event will be chaired by the Governor of the CBSL, Dr. P. Nandalal Weerasing
 ◼️
 
 [Data](articles/b68f5963.json)
+
+---
+
+### Sri Lanka rupee opens slightly weaker at 296.30/50 to US dollar
+
+*2025-01-08 09:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-slightly-weaker-at-296-30-50-to-us-dollar-198577/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee weakened to 296.20/40 to the US dollar Tuesday, dealers said with bond yields marginally higher ahead of a Treasury bill auction.
+
+A bond maturing on 15.12.2026 was quoted at 9.40/50 percent, Wednesday down from 9.50/60 percent.
+
+A bond maturing on 15.10.2027 was quoted at 9.80/90 percent unchanged from 9.80/95 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.15/20 percent higher from 10.17/25 percent.
+
+A bond maturing on 15.10.2028 was quoted at 10.50/55 percent, up from 10.45/55 percent.
+
+A bond maturing on 01.05.2028 was quoted at 35/40 percent, steady from 10.35/42 percent.
+
+A bond maturing on 15.09.2029 was quoted at 10.75/85 percent, unchanged.
+
+A bond maturing on 15.05.2030 was quoted at 11.00/10 also unchanged. (Colombo/Jan7/2025)
+
+◼️
+
+[Data](articles/0a69aa92.json)
 
 ---
 
@@ -1643,135 +1809,5 @@ The landing operation was overseen by key SLT-Mobitel officials including SLT Ch
 ...
 
 [Data](articles/e7090692.json)
-
----
-
-### Cable Solutions awarded Certificate of Ethical Trading by National Chamber of Exporters
-
-*2025-01-08 06:16:11* · [`dailyftlk`](https://www.ft.lk/business/Cable-Solutions-awarded-Certificate-of-Ethical-Trading-by-National-Chamber-of-Exporters/34-771549) · `en`
-
-Cable Solutions PLC, a prominent player in the cable manufacturing industry, specialising in a wide array of engineering solutions such as standard cables, customised cables and cable harnesses, has announced receipt of the prestigious Certificate of Ethical Trading by the National Chamber of Exporters of Sri Lanka (NCE).
-
-This distinguished recognition underscores the company’s unwavering commitment to ethical business practices, sustainability, and corporate social responsibility.
-
-...
-
-[Data](articles/bb335c41.json)
-
----
-
-### Lanka Walltiles announces three new Directors on Board
-
-*2025-01-08 06:15:55* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Walltiles-announces-three-new-Directors-on-Board/34-771548) · `en`
-
-Lanka Walltiles PLC has announced the appointment of three additions to its Board of Directors.
-
-Yogadinusha Bhaskaran has been appointed as Non-Executive Director and Dinesh Mendis and Naomal Pelpola as Independent Non-Executive Directors.
-
-Dinusha Bhaskarar is a financial and accounting professional with over 20 years of experience, who currently, serves as the Managing Director of Vallibel One PLC and Executive Director of Delmege Ltd.
-
-ln addition, she presently serves in the capacity of Non-Executive Director on the Boards of LB Finance PLC, Vallibel Power Erathne PLC, Country Energy Ltd., and as a Member of the LB Finance Audit Committee. She is also the Chairperson/Director of Greener Water Ltd.
-
-Bhaskaran has previously worked as a Financial Controller with several Australian companies in Melbourne for a number of years and was the Assistant General Manager (Finance and Planning) at Pan Asia Banking Corporation PLC.
-
-...
-
-[Data](articles/269c67b0.json)
-
----
-
-### Japan reassures financial and technical assistance to Sri Lanka
-
-*2025-01-08 06:15:14* · [`dailyftlk`](https://www.ft.lk/news/Japan-reassures-financial-and-technical-assistance-to-Sri-Lanka/56-771547) · `en`
-
-During meeting attention drawn to expedite ongoing development work at Bandaranaike International Airport
-
-The Japan International Cooperation Agency (JICA) yesterday reassured Sri Lanka of continuous financial and technical assistance without interruption. This was conveyed when Japan International Cooperation Agency (JICA) Senior Vice President Hara Shohei paid a courtesy call on President Anura Kumara Dissanayake.
-
-During the discussion, attention was drawn to the ongoing development work at the Bandaranaike International Airport in Katunayake, which is being carried out under Japanese aid.
-
-It was highlighted that all projects initiated in Sri Lanka under JICA support are planned to be expedited and completed efficiently. Hara Shohei also reaffirmed JICA’s commitment to extending financial support to Sri Lanka in the future, similar to the assistance provided during the country’s debt restructuring process.
-
-...
-
-[Data](articles/ce77b5b0.json)
-
----
-
-### SLT-MOBITEL completes historic SEA-ME-WE 6 submarine cable landing in Matara
-
-*2025-01-08 06:15:00* · [`islandlk`](http://island.lk/slt-mobitel-completes-historic-sea-me-we-6-submarine-cable-landing-in-matara/) · `en`
-
-SLT-MOBITEL has successfully landed the SEA-ME-WE 6 (Southeast Asia-Middle East-Western Europe 6) submarine cable in Matara, Sri Lanka on December 29, 2024, achieving a historic breakthrough in Sri Lanka’s telecommunications infrastructure. The cable system will be in commercial operation by mid-2026.
-
-The Matara landing was completed in collaboration with Subcom LLC, USA, and under an agreement with SEA-ME-WE 6 Consortium including Sri Lanka Telecom PLC, as the legal signatory to the consortium, further strengthening Sri Lanka’s position in global connectivity.
-
-The landing operation was overseen by key SLT-MOBITEL officials including Prabhath Ambegoda, Chief Operating Officer, SLT, Nalaka Siriwardhana, General Manager – Projects, SLT, Buddhi Manage, General Manager – Transport Networks, SLT, and Rohan Ashton, Deputy General Manager – Network Infrastructure Projects, SLT, and the SLT Operational Team.
-
-...
-
-[Data](articles/20e0cedb.json)
-
----
-
-### Heavy profit-takings plunge bourse into storm of volatility
-
-*2025-01-08 06:14:00* · [`islandlk`](http://island.lk/heavy-profit-takings-plunge-bourse-into-storm-of-volatility/) · `en`
-
-The CSE was yesterday highly volatile due to heavy profit- takings in the market following bull-runs lasting several weeks, market analysts said.Amid those developments both indices moved downwards. The All Share Price Index went down by 23.96 points, while S and P SL20 went down by 2.73 points.
-
-Turnover stood at Rs 4.5 billion with seven crossings. Those crossings were reported in Nation Finance, where 500 million shares crossed to the tune of Rs 100 million; its shares traded at 40 Cents. Amana Bank 4 million shares crossed for Rs 102 million; its shares traded at Rs 25.50, JKH 4 million shares crossed to the tune of Rs 95.7 million; its shares traded at Rs 23.90.
-
-...
-
-[Data](articles/6afc4ef1.json)
-
----
-
-### AIA Sri Lanka welcomes Biswa Prakash Misra as new chairman
-
-*2025-01-08 06:14:00* · [`islandlk`](http://island.lk/aia-sri-lanka-welcomes-biswa-prakash-misra-as-new-chairman/) · `en`
-
-AIA Sri Lanka is pleased to announce the appointment of Biswa Prakash Misra as the new Chairman of the Board of Directors, effective January 2025 – subject to approval of the Insurance Regulatory Commission of Sri Lanka.
-
-Biswa brings a wealth of experience and expertise to this role, having been a member of AIA Group’s leadership team since 2013. As part of the AIA Group Executive Committee, he is the Group Chief Technology Officer and Life Operations Officer. Biswa is also responsible for the Group’s business operating in New Zealand and a director of various companies within the Group. A seasoned technology professional with a deep understanding of the insurance industry, he has demonstrated strong leadership in driving technology, digital and analytics transformation and operational excellence across the Group.
-
-‘Local gem and jewellery industry at a critical juncture; its potential going untapped’
-
-...
-
-[Data](articles/7efe7a64.json)
-
----
-
-### Finance Ministry reviews progress of National Single Window
-
-*2025-01-08 06:13:39* · [`dailyftlk`](https://www.ft.lk/news/Finance-Ministry-reviews-progress-of-National-Single-Window/56-771546) · `en`
-
-To ensure efficient facilitation of services required by the exporters and importers of raw material for local industries, the Government has recognised the importance of the Single Window facilitation.
-
-During a recent meeting to share the progress made in this regard, Deputy Minister Finance Dr. Harshana Suriyapperuma informed the chamber representatives that the Department of Imports and Exports Control has commenced providing the required services online from 1 January 2025. Further it was noted that Sri Lanka Standard Institution was already providing online services required by exporters and importers.
-
-...
-
-[Data](articles/b0d8972d.json)
-
----
-
-### Sri Lanka and Vietnam to strengthen Customs cooperation with new agreement
-
-*2025-01-08 06:12:41* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Vietnam-to-strengthen-Customs-cooperation-with-new-agreement/56-771545) · `en`
-
-After significant delays, Sri Lanka and Vietnam are set to finalise a long-awaited agreement aimed at enhancing cooperation and mutual support in customs affairs.
-
-The move approved by the Cabinet Ministers on Monday, aims to streamline cross-border trade in areas such as reducing the costs of trade transactions between the two countries, ensuring accurate calculation and collection of border taxes, preventing the transfer of restricted goods and enforcing limitations and regulations more effectively.
-
-Originally approved by the Cabinet on 23 November 2021, the agreement has since awaited finalisation despite receiving clearance from the Attorney General and agreement by both nations.
-
-“By signing this agreement, it is anticipated to pave the way for stronger trade relations and mutual economic benefits in the years to come,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
-
-◼️
-
-[Data](articles/82082105.json)
 
 ---

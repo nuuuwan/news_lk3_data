@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 17:01:04**
+As of **2025-01-08 17:13:20**
 
 ## Newspaper Stats
 
-*Scraped **64,362** Articles*
+*Scraped **64,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,914
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,161
+adalk | 6,162
 adaderanalk | 7,884
 tamilmirrorlk | 9,238
 virakesarilk | 10,741
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,362 articles have been extended.
+61,971 (96.3%) of 64,363 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -183,6 +183,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/d0b2f75c.json)
+
+---
+
+### මාළු පාන් ගෙඩියෙන් ලයිටරයක කොටස් මතුවේ
+
+*2025-01-08 15:00:33* · [`adalk`](https://www.ada.lk/breaking_news/මාළු-පාන්-ගෙඩියෙන්-ලයිටරයක-කොටස්-මතුවේ/11-414088) · `si`
+
+පානදුර ප්‍රසිද්ධ හෝටලයක මාළු පාන් ගෙඩියකින් ලයිටරයක කොටස් මතුවූ පුවතක් පානදුර සෞඛ්‍ය වෛද්‍ය නිළධාරී කාර්යාලයෙන් වාර්ථාවේ.
+
+පානදුර අරුක්ගොඩ ප්‍රදේශයේ පදිංචි මංජුල පෙරේරා  යන අය අද (08)  උදෑසන සිය පුතුන් දෙදෙනාට ආහාරය සදහා  මාළු පාන් ගෙඩි දෙකක්  මිළදීගෙන ඇති අතර , බාල පුත්‍රයා මාළුපාන් ගෙඩියේ  කොටසක් ආහාරයට ගැනීමේදී ලයිටරයක ලෝහමය කොටස් මතුවී තිබේ.
+
+මංජුල පෙරේරා මහතා  ඒ මොහොතේම ප්‍රදේශය භාර මහජන සෞඛ්‍ය පරීක්ෂක වරයාව දැනුවත් කර ඇති අතර, ඔහු දැනුම් දී ඇත්තේ තමන් නිවාඩු බවත් , පානදුර සෞඛ්‍ය වෛද්‍ය නිළධාරී කාර්යාලය වෙත දැනුම් දෙන ලෙසත්ය.
+
+ඒ අනුව දැරියගේ පියා පානදුර සෞඛ්‍ය වෛද්‍ය නිළධාරී කාර්යාලය වෙත ගොස් ඇති අතර ,පැමිණිල්ල භාර නොගෙන ඔහුව ආපසු හරවා යැවූ බව මංජුල මහතා පැවසීය .
+
+මේ සම්බන්ධයෙන් පානදුර සෞඛ්‍ය  වෛද්‍ය නිළධාරී ඊෂා මහින්දදාස මහත්මිය පළමුව සදහන් කලේ තමන්ට සිදුවීම වාර්තාවී නොමැති බවයි. එහෙත්  ඇය පසුව සදහන් කලේ මාළු පාන් ගෙඩියක් රැගෙන  පුද්ගලයෙකු පැමිණ යලි පිටව ගොස් ඇති බවත්  ඔහු ලිඛිතව පැමිණිල්ලක් ඉදිරිපත් කල හොත් ක්‍රියාමාර්ගයක් ගතහැකි බවයි.
+
+◼️
+
+[Data](articles/d2a5a475.json)
 
 ---
 
@@ -1753,21 +1773,5 @@ Originally approved by the Cabinet on 23 November 2021, the agreement has since 
 ◼️
 
 [Data](articles/82082105.json)
-
----
-
-### Ceylex Engineering gets Anuradhapura-New Habarana 220 KV transmission line contract
-
-*2025-01-08 06:12:13* · [`dailyftlk`](https://www.ft.lk/news/Ceylex-Engineering-gets-Anuradhapura-New-Habarana-220-KV-transmission-line-contract/56-771544) · `en`
-
-Ceylex Engineering Ltd., has been awarded the contract for civil works, tower construction and laying wires for the development of the new Anuradhapura-New Habarana 220 KV transmission line of 45 km under 4A of the Power System Reliability Empowerment Project.
-
-The Cabinet of Ministers on Monday approved the proposal by the Power and Energy Minister to award the contract after international bids were called to award the contract to the said firm.
-
-Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday said from the two bids submitted for the purpose, Ceylex Engineering Ltd., was the substantially responsive lowest bidder based on the recommendations of the Technical Appraisal Committee and the standing procurement committees appointed by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/6203cef1.json)
 
 ---

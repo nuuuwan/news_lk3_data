@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 04:43:40**
+As of **2025-01-09 05:13:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,434 articles have been extended.
+61,973 (96.2%) of 64,434 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The Sri Lanka Electricity Act aims to position the power sector in Sri Lanka to 
 ...
 
 [Data](articles/c6ad6428.json)
+
+[Extended Data](ext_articles/c6ad6428.ext.json)
 
 ---
 

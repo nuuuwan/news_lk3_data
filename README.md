@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 08:26:38**
+As of **2025-01-08 08:48:05**
 
 ## Newspaper Stats
 
-*Scraped **64,272** Articles*
+*Scraped **64,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,912
 islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
-adalk | 6,144
+adalk | 6,145
 adaderanalk | 7,869
-tamilmirrorlk | 9,219
+tamilmirrorlk | 9,220
 virakesarilk | 10,729
 adaderanasinhalalk | 11,095
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,272 articles have been extended.
+61,971 (96.4%) of 64,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### இலங்கை மக்களுக்கு அவசர எச்சரிக்கை
+
+*2025-01-08 08:36:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மக்களுக்கு-அவசர-எச்சரிக்கை/175-349957) · `ta`
+
+ஜனாதிபதி ஊடாக குறைந்த வருமானம் கொண்ட குடும்பங்களுக்கு 50,000 ரூபா நிதியுதவி வழங்கப்படவுள்ளதாக சமூக ஊடகங்களில் போலியான குறுஞ்செய்திகள் வெளியிடப்படுவது தொடர்பில் முறைப்பாடுகள் கிடைக்கப்பெறுவதாக இலங்கை தொலைத்தொடர்புகள் ஒழுங்குபடுத்தும் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இது தொடர்பான குறுஞ்செய்திகளுக்கு தமது தனிப்பட்ட தகவல்களை வழங்குவதை தவிர்க்குமாறு தொலைத்தொடர்புகள் ஒழுங்குபடுத்தும் ஆணைக்குழுவின் பணிப்பாளர் மேனகா பத்திரன தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/62fcb253.json)
+
+---
 
 ### வெள்ள நீரில் மூழ்கி ஒருவர் உயிரிழப்பு
 
@@ -43,6 +57,24 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/a6fa72ac.json)
+
+---
+
+### වාහන ආනයනය ගැන තිරණාත්මක සාකච්ඡාවක්
+
+*2025-01-08 07:50:01* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-තිරණාත්මක-සාකච්ඡාවක්/11-414075) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ මුදල් අමාත්‍යාංශයේ නිලධාරීන් අතර සාකච්ඡාවක් ඊයේ (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී පැවැත්විණි.
+
+මෝටර් රථ ආනයනය, රඳවා ගැනීමේ බදු සහ වැට් බදු එකතු කිරීම, ඩිජිටල්කරණය පිළිබඳ ගැටලු සම්බන්ධව මෙහිදී අවධානය යොමු කෙරිණි.
+
+ශ්‍රී ලංකාවට වාහන ආනයනය කිරීමේදී මුහුණ දීමට සිදුවන අභියෝග පිළිබඳව මෙහිදී විශේෂ අවධානය යොමු වූ අතර, රට තුළ පවත්නා මූල්‍ය අර්බුදය සහ ආර්ථික ප්‍රමුඛතාවන් සැළකිල්ලට ගනිමින් මෙම ගැටලු විසඳා ගැනීමේ අවශ්‍යතාව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කළේය.
+
+ආදායම් බදු වලට යටත් නොවන විශ්‍රාමිකයින්ගෙන් අය කරන රඳවා ගැනීමේ බදු නැවත ඔවුන්ට ලබා දීම සඳහා පහසු ක්‍රියාවලියක් සැකසීමේ වැදගත්කම ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/3439e0db.json)
 
 ---
 
@@ -1771,45 +1803,5 @@ The required bilateral agreement has now been cleared by the Attorney General. (
 ◼️
 
 [Data](articles/d5e95946.json)
-
----
-
-### TRCSL approves tariff plans for ‘Starlink’
-
-*2025-01-07 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/104804/trcsl-approves-tariff-plans-for-starlink) · `en`
-
-The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has approved the tariff plans for ‘Starlink’ satellite broadband services to be implemented through ‘Starlink’ Lanka (Private) Ltd.
-
-Accordingly, the TRCSL has granted approval for five ‘Starlink’ packages ranging from Rs. 9,200 per month to Rs. 1.8 million per month.
-
-Customer subscribes to a 1 TB,2 TB or 6 TB monthly data plan, with an additional charge of
-
-125.58/GB for Priority data above the subscribed levels as set forth in the Starlink Fair Use Policy.
-
-738.71/GB of priority data above those levels as set forth in the Starlink Fair Use Policy.
-
-Validity period of the Plan: The Plan commences on the earlier of
-
-automatically upon 30 days after shipment of kit to the customer. If a customer chooses to, they can reach out to Starlink customer service and ask for kit to not be automatically activated after 30 days of shipment. Customer may cancel service at any time with no early termination fee.
-
-...
-
-[Data](articles/8bcac161.json)
-
----
-
-### නුවරඑළියේ අක්ෂි සැත්කම්වලින් ගැටලුවට පත්වූ 17ට වන්දි
-
-*2025-01-07 15:27:41* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියේ-අක්ෂි-සැත්කම්වලින්-ගැටලුවට-පත්වූ-17ට-වන්දි/11-414062) · `si`
-
-නුවරඑළය රෝහලේදී අක්ෂි සැත්කම් වලට භාජනය වීමෙන් අනතුරුව අන්ධභාවයට පත්වූ රෝගීන්ට රුපියල් ලක්ෂ 2.5 සිට රුපියල් ලක්ෂ 10ක් දක්වා වන්දි ප්‍රදානය කිරීමට කැබිනට් අනුමැතිය ලැබී තිබේ.
-
-ගැටලුකාරී තත්ත්වයට පත්වූ රෝගීන් 17ක් වෙනුවෙන් මෙම වන්දි මුදල් ලබාදීමෙන් අනතුරුව ඔවුන් සම්බන්ධයෙන් පසු විපරම් කිරීමටද නියමිතය.
-
-එසේම අදාළ බාල ඖෂධ සැපයුම් කළ සැපයුම්කරුවන්ට එරෙහිව නීතිමය පියවර ගැනීමටද කැබිනට් මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
-
-◼️
-
-[Data](articles/8459ec95.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 16:02:54**
+As of **2025-01-08 16:16:15**
 
 ## Newspaper Stats
 
-*Scraped **64,360** Articles*
+*Scraped **64,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,914
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,159
+adalk | 6,160
 adaderanalk | 7,884
 tamilmirrorlk | 9,238
 virakesarilk | 10,741
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,360 articles have been extended.
+61,971 (96.3%) of 64,361 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -541,6 +541,32 @@ She further highlighted that public involvement is necessary for this process an
 ...
 
 [Data](articles/86b8e5ed.json)
+
+---
+
+### භාණ්ඩ මිල අඩුවුණත් පාරිභෝගිකයාට සහනයක් නෑ
+
+*2025-01-08 11:43:06* · [`adalk`](https://www.ada.lk/breaking_news/භාණ්ඩ-මිල-අඩුවුණත්-පාරිභෝගිකයාට-සහනයක්-නෑ/11-414084) · `si`
+
+පසුගිය  2024 වසරේ  දෙසැම්බර් මාසයට වඩා2025 මාසයේ මුල් සතියේම අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය රැසක  තොග මිල පහත වැටී තිබුණත් එහි වාසිය සිල්ලර මිලදී ගන්නා පාරිභෝගික ජනතාවට ලැබී නැති බව ජනතාව පවසති
+
+බොහෝම තොග වෙළඳ සැල්වල් අත්‍යවශ්‍ය  ආහාර ද්‍රව්‍ය ‍රැසක මිල විශාල වශයෙන් පහත වැටීම ඇති බව තොග වෙළෙන්දෝ පෙන්වා දෙති , ඒ අනුව ආහාර    වර්ග කිහිපයකන් මිල ඉහළ ගොස් ඇති අයුරුත් ඇතැම් ද්‍රව්‍ය වල මිල වෙනස් නොවී ඇති බව වෙළඳපළ නිරීක්‍ෂණයේදී දැක ගැනීමට හැකි විය
+
+පහත දැක්වෙන්නේ 2024 දෙසැම්බර් මාසයේ පැවති කිලෝ එකක තොග මිල සහ 2025 වසරේ ජනවාරි 8 වන දින පැවැති තොග මිල වේ
+
+වර්ගය            2024 දෙසැම්බර් මාසය පැවැති මිල       2025 ජනවාරි මාසයේ පැවතින මිල
+
+සුදු සීනි                    235 .00                                  230.00
+
+රතු සීනි                    295/ 300                                250/260
+
+පරිප්පු                      275 / 280                                225 / 230
+
+පොල්තෙල්              800 / 830                                 790 / 795
+
+...
+
+[Data](articles/287de05c.json)
 
 ---
 
@@ -1741,21 +1767,5 @@ On 2 December 2024, Cabinet approved to provide a monthly allowance of Rs. 6,000
 ...
 
 [Data](articles/c6dad73e.json)
-
----
-
-### Govt. to repatriate Sri Lankans illegally staying in South Korea
-
-*2025-01-08 06:10:34* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-repatriate-Sri-Lankans-illegally-staying-in-South-Korea/56-771542) · `en`
-
-The Government is to take immediate actions to repatriate Sri Lankan nationals who are illegally staying in South Korea after their visas expired.
-
-Sri Lanka Bureau of Foreign Employment (SLBFE) Chairman Koshala Wickremasinghe said their details will be forwarded to the Criminal Investigation Department (CID), and legal measures will be enforced.
-
-Wickremasinghe urged individuals with expired visas not to remain in South Korea unlawfully, as the future job quotas for Sri Lankans in the country will depend on the behaviour of those already employed there. He made these comments while presenting air tickets to 96 Sri Lankans departing for South Korea yesterday for employment in the manufacturing sector. They are the first group to leave for jobs in South Korea’s manufacturing sector this year (2025).
-
-...
-
-[Data](articles/1383b23c.json)
 
 ---

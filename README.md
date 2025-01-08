@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 12:03:48**
+As of **2025-01-08 12:29:05**
 
 ## Newspaper Stats
 
-*Scraped **64,308** Articles*
+*Scraped **64,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
 adalk | 6,151
-adaderanalk | 7,871
-tamilmirrorlk | 9,230
-virakesarilk | 10,736
-adaderanasinhalalk | 11,102
+adaderanalk | 7,881
+tamilmirrorlk | 9,232
+virakesarilk | 10,738
+adaderanasinhalalk | 11,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,308 articles have been extended.
+61,971 (96.3%) of 64,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### PM Harini stresses need for public participation in social transformation
+
+*2025-01-08 12:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/104826/pm-harini-stresses-need-for-public-participation-in-social-transformation) · `en`
+
+Prime Minister Dr. Harini Amarasuriya emphasized that changing the people’s attitudes is essential for social transformation, and it is not a process that can be achieved overnight.
+
+In response to a question raised in Parliament today (08) by MP Asitha Niroshana regarding how to overcome the challenges of transforming the education and media sectors, the Prime Minister stated that the citizens voted for the government to bring about a deep transformation in the country, rather than a change of individuals.
+
+She further highlighted that public involvement is necessary for this process and stated that the government comes to power prepared to face challenges.
+
+...
+
+[Data](articles/bd1a8121.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 256ක ඉලක්කයක්
+
+*2025-01-08 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205163) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ නවසීලන්ත කණ්ඩායම අතර පැවැත්වෙන දෙවන එක්දින ක්‍රිකට් තරගය මේ වනවිට හැමිල්ටන්හිදී පැවැත්වෙයි.
+
+වර්ෂාව හේතුවෙන් තරගය ප්‍රමාද වී ආරම්භ වු අතර තරගය පන්දුවාර 37කට සීමාකර තිබුණි.
+
+තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීමේ අවස්ථාව නවසීලන්ත කණ්ඩායමට ලබා දුනි.
+
+ඒ අනුව, පන්දුවට පහර දුන් නවසීලන්ත කණ්ඩායම නියමිත පන්දුවාර 37 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 255ක් රැස්කළේය.
+
+නවසීලන්ත කණ්ඩායමේ පළමු කඩුල්ල ලකුණු 31දී දවා ගැනීම අසිත ප්‍රනාන්දු සමත් වුණි.
+
+නමුත් දෙවන කඩුල්ල වෙනුවෙන් පිටියට එක්වූ රචින් රවින්ද්‍ර සහ මාක් චැප්මන් ලකුණු 112ක සබඳතාවක් ගොඩ නගමින් නවසීලන්ත ඉනිම ශක්තිමත් කළේය.
+
+සිය එක්දින දිවියේ දෙවන අර්ධ ශතකය රැස්කළ මාක් චැප්මන් දැවීගියේ ලකුණු 62කටය.
+
+රචින් රවින්ද්‍ර සිය එක්දින දිවියේ සිව්වන වාර්තා කරමින් ලකුණු 79ක් රැස්කළේය.
+
+අනතුරුව ලකුණු 27ක් තුළ කඩුලු 3ක් දවාගනිමින් ශ්‍රී ලංකා ක්‍රීඩකයින් තරගයට අවතීර්ණ වීමට උත්සාහ දැරුවද ඩැරල් මිචෙල් සහ ග්ලෙන් පිලිප්ස් ලකුණු 47ක වේගවත් සබඳතාවක් ගොඩනගමින් නවසීලන්ත ලකුණු පුවරුව තවදුරටත් ශක්තිමත් කළේය.
+
+...
+
+[Data](articles/e1c96817.json)
+
+---
+
+### இது மனித உரிமை மீறல்;சஜித் காட்டம்
+
+*2025-01-08 11:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-மனித-உரிமை-மீறல்-சஜித்-காட்டம்/175-349980) · `ta`
+
+அண்மையில் மியன்மாரில் இருந்து இலங்கையில் புகலிடம் கோரி முல்லைத்தீவுக்கு வந்துள்ள ரோஹிங்கியா அகதிகளை உடனடியாக நாடு கடத்தும் மனிதாபிமானமற்ற செயலில் ஈடுபடுவதை அரசாங்கம் தவிர்க்க வேண்டுமென எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+
+நேற்றைய தினம் பாராளுமன்றத்தில் உரையாற்றிய பிரேமதாச, அரசாங்கம் அவர்களை உடனடியாக நாடு கடத்த முயற்சிப்பதாகவும் இது மனித உரிமை மீறல் எனவும் தெரிவித்தார்.
+
+ரோஹிங்கியா அகதிகள் தங்கள் சொந்த நாட்டில் கடுமையான தண்டனையை எதிர்கொண்டவர்கள் என்று சுட்டிக்காட்டிய பிரேமதாச, இந்த பிரச்சினைக்கு தீர்வு காணும் போது அரசாங்கம் மீள்திருத்தம் செய்யாத கொள்கையை கடைபிடிக்க வேண்டும் என்று வலியுறுத்தினார்.
+
+“அவர்களை வலுக்கட்டாயமாக நாடு கடத்த முடியாது. இந்தச் செயலை உடனடியாக நிறுத்தி, அகதிகளுக்கான ஐக்கிய நாடுகளின் உயர்ஸ்தானிகர் மற்றும் பிற தொடர்புடைய அமைப்புகளுடன் கலந்துரையாடுங்கள். ரோஹிங்கியா அகதிகளுக்கு மனிதாபிமான உதவியை வழங்க வேண்டும்” என்று அவர் மேலும் கூறினார்.
+
+...
+
+[Data](articles/86b8e5ed.json)
+
+---
+
+### பயணிகளை நடுத்தெருவில் இறக்கிவிட்ட மூவருக்கு சிக்கல்
+
+*2025-01-08 11:35:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணிகளை-நடுத்தெருவில்-இறக்கிவிட்ட-மூவருக்கு-சிக்கல்/175-349979) · `ta`
+
+அரசாங்கத்தின் ‘கிளீன் ஸ்ரீலங்கா’ திட்டத்தின் கீழ் ஆரம்பிக்கப்பட்ட பொலிஸ் வாகன சோதனை வேலைத்திட்டத்தின் மத்தியில் பயணிகளை நடுரோட்டில் இறக்கிவிட்ட பஸ்ஸின் உரிமையாளர், சாரதி மற்றும் நடத்துனர் மீது நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+வீதி விதிகளை மீறிய குற்றத்திற்காக பொலிஸார் நடவடிக்கை எடுக்க முற்பட்ட போது, ​​பாணந்துறை - புறக்கோட்டை பயணிக்கும் 100 இலக்கப் பேருந்து பயணிகளை நடுரோட்டில் இறக்கி விட்டுச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+அந்தவகையில், மேல் மாகாண வீதிப் பயணிகள் போக்குவரத்து அதிகாரசபையானது பேருந்தின் ஓட்டுனர் மற்றும் நடத்துனரை 2025 ஜனவரி 15 ஆம் திகதி வரை பணியிலிருந்து இடைநிறுத்தியுள்ளதுடன், ஓட்டுனருக்கு ரூ 2500 மற்றும் நடத்துனருக்கு ரூ. 750 என அபராதம் விதித்துள்ளது.
+
+அதற்குள் இருவரும் வேறு பேருந்தில் பணிபுரிந்தால் குறித்த பேருந்தின் அனுமதிப்பத்திரம் இரத்து செய்யப்படுமென மேல்மாகாண வீதிப் பயணிகள் போக்குவரத்து அதிகாரசபை மேலும் எச்சரித்துள்ளது.
+
+இருவரும் 21 ஜனவரி 2025 அன்று பயிற்சியில் கலந்து கொள்வதற்கான ஏற்பாடுகளும் செய்யப்பட்டுள்ளன.
+
+...
+
+[Data](articles/43f1cca3.json)
+
+---
 
 ### தேசிய மக்கள் சக்தி வேட்பாளருக்கு எதிராக ஆர்ப்பாட்டம்
 
@@ -68,6 +150,42 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### யாழ்ப்பாண சர்வதேச சட்ட மாநாடு நடாத்துவது குறித்து   தீர்மானம்
+
+*2025-01-08 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/203285) · `ta`
+
+யாழ்ப்பாணப் பல்கலைக்கழகச் சட்டத்துறையானது இந்தியாவின் சுரானா மற்றும் சுரானா சர்வதேச வழக்கறிஞர் நிறுவனத்துடன் இணைந்து இரண்டாவது தடவையாகவும் யாழ்ப்பாண சர்வதேச சட்ட மாநாட்டை எதிர்வரும் 25ம், 26ம் திகதிகளில் நடாத்துவதற்குத் தீர்மானித்துள்ளது.
+
+யாழ்ப்பாண சர்வதேச சட்ட மாநாடானது மருத்துவ பீடத்தின் ஹூவர் கலையரங்கில் காலை  9 மணி முதல் மாலை வரை இடம்பெறவுள்ளது.
+
+செயற்படல், நிலைமாற்றம் , நிலைத்திருப்பு என்னும் தொனிப்பொருளில் ஒழுங்கு செய்யப்பட்டுள்ள இவ்வருட மாநாட்டில் இலங்கை   உயர் நீதிமன்ற நீதிபதிகள் உள்ளடங்கலாக உள்நாட்டு மற்றும் வெளிநாட்டு நிபுணர்கள் பலர்   கலந்து கொண்டு மாநாட்டின் தொனிப்பொருளை சார்ந்ததான பல்வேறு விடயப்பரப்புக்கள் பற்றி உரையாடவுள்ளனர்.
+
+மாநாட்டின் ஓரங்கமாக மாற்றுப் பிணக்குத் தீர்வு முறைகள் பற்றிய குறிப்பாக மத்தியஸ்தம் தொடர்பான சிறப்பு அமர்வு  ஒன்றும்  ஒழுங்கு செய்யப்பட்டுள்ளது.
+
+இந்நிகழ்வானது தை மாதம் 24ம் திகதி பிற்பகல்  4.30  மணி  முதல் 6.30 மணி வரை யாழ்ப்பாணப் பல்கலைக்கழக நூலக கேட்போர் கூடத்தில் இடம்பெறவுள்ளது.
+
+◼️
+
+[Data](articles/43dc556a.json)
+
+---
+
+### ඊශ්‍රායල ජාතිකයින් විසින් සිදුකරන ඉදිකිරීම්වලට අවසර දීලා නැහැ - අගමැති
+
+*2025-01-08 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205162) · `si`
+
+ඊශ්‍රායල ජාතික ආගමික මධ්‍යස්ථාන හෝ ඒ සමාන ස්ථාන ගොඩනැගීම සඳහා රජයේ කිසිදු ආයතනයකින් අවසරයක් ලබාදී නොමැති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+
+පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතා අද (08) පාර්ලිමේන්තුවේදී යොමුකළ ප්‍රශ්නයක පිළිතුරු දෙමින් ඇය ඒ බව සඳහන් කළාය.
+
+"ඊශ්‍රායල ජාතිකයින් ආගමික මධ්‍යස්ථාන හෝ ඒ සමාන ස්ථාන ගොඩනැගීම සඳහා මේ දක්වා බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය හෝ ඒ යටතේ පවතින දෙපාර්තමේන්තු මගින් අවසර ලබාදීමක් සිදුකර නැහැ. නමුත් අපි දන්නවා ඔවුන් එවැනි මධ්‍යස්ථාන පවත්වාගෙන යන බවට. ඒ සම්බන්ධයෙන් අපිට තොතරු ලැබිලා තියෙනවා. ඒවා පිළිබඳව අපි නිරීක්ෂණයක් කරලා තියෙනවා. එවා අවසරයෙන් කරන ඒවා නෙමෙයි. කිසිවිටක අවසරයක් දීලා නැහැ. ඒ පිළිබඳව මොකද්ද සිදුකළ යුතුතේ කියන එක පිළිබඳව අපි සාකච්ඡා කරනවා. ඒවා නවත්නවන් කුමක්ද කළ යුත්තේ විදෙස් කටයුතු අමාත්‍යාංශය මගින් මැදිහත්වීමක් සිදුවෙනවා."
+
+...
+
+[Data](articles/21e2550a.json)
+
+---
+
 ### புலமைப்பரிசில் விடைத்தாள் மதிப்பீடு இன்று ஆரம்பம்
 
 *2025-01-08 11:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விடைத்தாள்-மதிப்பீடு-இன்று-ஆரம்பம்/175-349975) · `ta`
@@ -95,6 +213,40 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/0137e5ba.json)
+
+---
+
+### ரோகிங்ய முஸ்லிம்களில் கைதான 12 நபர்களும் விடுவிக்கப்பட்டு முல்லைத்தீவு பகுதிக்கு அனுப்பி வைப்பு
+
+*2025-01-08 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/203282) · `ta`
+
+கடந்த மாதம் இலங்கைக்குள் வந்திருந்த ரோகிங்ய  முஸ்லிம்  மக்களில் 12 நபர்கள் சட்ட விரோத குடியேற்றவாதிகளை ஏற்றி வந்தார்கள் என்ற அடிப்படையில் கைது செய்யப்பட்டு 14 நாட்கள் திருகோணமலையில் விளக்கமறியில் வைக்கப்பட்டிருந்தனர்.
+
+கடந்த வருடம் 31ஆம் திகதி மீண்டும் அவர்களை நீதிமன்றத்தில் ஆஜர் படுத்தி மீண்டும் அவர்களை 14 நாட்கள் விளக்கமறையில் வைக்க நீதிபதி உத்தரவிட்டிருந்தார்.
+
+எனினும், இன்று புதன்கிழமை (08)  அவர்கள் மீதான குற்றச்சாட்டை சிஐடியினர் வாபஸ் பெற்ற நிலையில் அவர்களும் அந்த 12 நபர்களும் விசா இன்றி உள்ளே இருந்ததாக குற்றம் சாட்டப்பட்டு முல்லைதீவில் வைக்கப்பட்டிருந்த 103 நபர்களுடன் இணைக்கும் நோக்கில் திருகோணமலையில் இருந்து விடுவிக்கப்பட்டு அவர்களையும் முல்லைதீவு நோக்கி பொலிஸார் அழைத்து சென்று உள்ளனர்.
+
+◼️
+
+[Data](articles/00d7ae83.json)
+
+---
+
+### Harsha proposes new regulations for ‘Undial’ and ‘Hawala’ systems
+
+*2025-01-08 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/104825/harsha-proposes-new-regulations-for-undial-and-hawala-systems) · `en`
+
+The Chairman of the Committee on Public Finance, MP Dr. Harsha de Silva stated that both the Undial system and the Hawala system are not illegal in Sri Lanka.
+
+He made this statement while presenting several proposals in Parliament today (08).
+
+Further commenting on the matter, he added, “The Hawala and Undial systems are not illegal in our country, but they are not regulated in any way. Therefore, a proposal has been made requiring those who conduct international transactions through these systems to register within the 12-month period from June 2024 to May 2025.”
+
+Dr. Harsha also stated that the committee had requested the Central Bank to carry out a thorough review and submit a report on the matter. He also mentioned that the proposal had been approved and submitted to Parliament.
+
+◼️
+
+[Data](articles/6678cd9d.json)
 
 ---
 
@@ -198,6 +350,36 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### ‘Clean Sri Lanka’ programme to be debated in Parliament
+
+*2025-01-08 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/104824/clean-sri-lanka-programme-to-be-debated-in-parliament-) · `en`
+
+The Government’s ‘Clean Sri Lanka’ national initiative is to be taken up for debate in Parliament on January 21 and 22, Prime Minister Dr. Harini Amarasuriya said in the Parliament today (08).
+
+Prime Minister further explained that the purpose of this debate is to help the public better understand the ‘Clean Sri Lanka’ initiative amidst the current dialogue.
+
+◼️
+
+[Data](articles/099fe96f.json)
+
+---
+
+### දැනෙන වෙනසක් ගැන කියන අගමැතිනිය
+
+*2025-01-08 10:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205161) · `si`
+
+සමාජ පරිවර්ථනයක් උදෙසා ජනතාවගේ ආකල්ප වෙනස් විය යුතු බවත් එය පැය 24කින් සිදුකළ හැකි ක්‍රියාවලියක් නොවන බවත් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසන්නීය.
+
+අද (08) පාර්ලිමේන්තුවේ දී අධ්‍යාපන හා ජනමාධ්‍ය කේෂ්ත්‍රවල නව පරිවර්ථනයක් ඇති කිරීමේ අභියෝගය ජයගන්නේ කෙසේද යනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී අසිත නිරෝෂන මහතා විසින් අසන ලද පැනයකට පිළිතුරු දෙමින් අග්‍රාමාත්‍යවරිය සඳහන් කර සිටියේ, රටේ පුරවැසියන් ආණ්ඩුවට ඡන්දය ලබාදුන්නේ පුද්ගල මාරුවකට වඩා රට තුළ ගැඹුරු පරිවර්ථනයක් උදෙසා බවය.
+
+ඒ සඳහා ජන සහභාගීත්වය ද අවශ්‍ය බව පෙන්වා දුන් අග්‍රාමාත්‍යවරිය රජය බලයට පත්වන්නේ අභියෝගවලට මුහුණදීමට සුදානමින් බව ද කියා සිටියාය.
+
+...
+
+[Data](articles/75154845.json)
+
+---
+
 ### சாரதி மீது தாக்குதல்: நால்வர் கைது
 
 *2025-01-08 10:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சாரதி-மீது-தாக்குதல்-நால்வர்-கைது/76-349966) · `ta`
@@ -211,6 +393,42 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/bbc2453c.json)
+
+---
+
+### Sri Lankan insurers to tackle profitability pressure with key shifts - Fitch
+
+*2025-01-08 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104823/sri-lankan-insurers-to-tackle-profitability-pressure-with-key-shifts-fitch) · `en`
+
+Underwriting profitability for Sri Lankan non-life insurers will gradually improve as they enhance practices and shift focus to more profitable non-motor segments, Fitch Ratings says in a new report.
+
+This shift includes adjusting policy pricing, particularly for motor and medical insurance, to better cope with inflation and rising claim costs.
+
+Motor insurance profitability faces challenges due to regulatory changes requiring full premium remittance to the National Insurance Trust Fund Board.
+
+Non-life insurers have also been diversifying into non-motor segments such as health insurance due to prolonged import restrictions on motor vehicles.
+
+This diversification led to an 11% increase in non-motor gross premiums in 2023.
+
+Fitch believes that investment and liquidity risks have decreased following the upgrade of Sri Lanka’s sovereign rating in December 2024.
+
+...
+
+[Data](articles/6e8930d6.json)
+
+---
+
+### Clean Sri Lanka ගැන දෙදින පාර්ලිමේන්තු විවාදයක්
+
+*2025-01-08 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205160) · `si`
+
+Clean Sri Lanka වැඩසටහන පිළිබඳව දින දෙකක පාර්ලිමේන්තු විවාදයක් පැවැත්වීමට තීරණය කර තිබේ.
+
+Clean Sri Lanka වැඩසටහන පිළිබඳ ඇතිව තිබෙන සංවාදය හේතුවෙන් ජනතාවට ඒ ගැන අවබෝධයක් ලබා ගැනීම සඳහා මෙම විවාදය පවත්වන බව බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මෙනවිය සඳහන් කළාය.
+
+◼️
+
+[Data](articles/5b3bfe5b.json)
 
 ---
 
@@ -230,6 +448,22 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### උණ්ඩියල් - හවාලා ක්‍රම ගැන හර්ෂගෙන් අලුත් යෝජනාවක්
+
+*2025-01-08 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205159) · `si`
+
+උණ්ඩියල් ක්‍රමය සහ හවාලා ක්‍රමය ශ්‍රී ලංකාව තුළ අනීතික නොවන බව රාජ්‍ය මුදල් පිළිබඳ කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
+
+අද (08) පාර්ලිමේන්තුවේදී යෝජනා කිහිපයක් ඉදිරිපත් කරමින් ඒ මහතා මේ බව සඳහන් කළේය.
+
+"හවාලා සහ උණ්ඩියල් කියන ක්‍රමය අපේ රට තුළ අනීතික නැහැ. නමුත් එය කිසිම විදිහකට නියාමනය වෙන්නනේ නැහැ. ඒ නිසා යෝජනාවක් කරලා තියෙනවා  2024 ජුනි සිට 2025 මැයි කියන මාස 12 ඇතුළේ මේ හවලා සහ උණ්ඩියල් ක්‍රමයට මුදල්වල වටිනාකම අන්තර් ජාතිකව ගණුදෙනු කරන අය ලියාපදිංචි වෙන්න ඕනේ කියලා ඒ සම්බන්ධයෙන් තමයි යෝජනාව තියෙන්නේ. කාරක සභාව මේ පිළිබඳව මහ බැංකුවෙන් ඉල්ලා සිටියා ගැඹුරු සමාලෝචනයක් කරලා ඉදිරිපත් කරන්න කියලා වාර්තාවක්. එය සම්මතකරලා ඉදිරිපත් කරලා තියෙනවා පාර්ලිමේන්තුවට."
+
+◼️
+
+[Data](articles/06caee4e.json)
+
+---
+
 ### குருக்கள் மீது தாக்குதல்
 
 *2025-01-08 09:56:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்கள்-மீது-தாக்குதல்/175-349962) · `ta`
@@ -237,6 +471,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8ba1b039.json)
+
+---
+
+### CBSL’s Policy Agenda for 2025 and Beyond to be unveiled today
+
+*2025-01-08 09:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/104822/cbsls-policy-agenda-for-2025-and-beyond-to-be-unveiled-today) · `en`
+
+The Central Bank of Sri Lanka (CBSL) is scheduled to hold an event on the “Central Bank’s Policy Agenda for 2025 and Beyond” today (08) at 10.00 a.m. in the Atrium of the CBSL Head Office.
+
+The event will be chaired by the Governor of the CBSL, Dr. P. Nandalal Weerasinghe.
+
+◼️
+
+[Data](articles/6e8ecb0e.json)
 
 ---
 
@@ -274,6 +522,74 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### රු මි 97ක කොකේන් තොගයක් සමග විදෙස් ජාතිකයෙක් අත්අඩංගුවට
+
+*2025-01-08 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205158) · `si`
+
+රුපියල් මිලියන 97ක් වටිනා කොකේන් මත්ද්‍රව්‍ය තොගයක්, සිය ගමන් මල්ලේ සඟවා ගෙන කටුනායක ගුවන්තොටුපොළේ 'හරිත මාවත' ඔස්සේ පිට වී යාමට තැත් කළ විදේශිකයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අද (08) අලුයම ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් 66 හැවිරිදි බොස්නියානු ජාතිකයෙක් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+ඔහු සිය ගමන් මල්ලේ, පාද පිරිසිදු කිරීමට යොදා ගන්නා, බ්‍රස් 114ක් තුළ කොකේන් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 02යි ග්‍රෑම් 759ක් සූක්ෂම ලෙස සඟවා ගෙන පැමිණ තිබුණි.
+
+මොහු මෙම මත්ද්‍රව්‍ය තොගය රැගෙන කොලොම්බියාවෙන් ගමන් ආරම්භ කර කටාර් රාජ්‍යයේ දෝහා වෙත පැමිණ තිබේ.
+
+ඉන්පසුව ඔහු එතැන් සිට අද අලුයම 02.40ට කටාර් ගුවන් සේවයේ කිව්.ආර්-662 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබුණි.
+
+අත්අඩංගුවට ගත් බොස්නියා ජාතිකයා සහ කොකේන් මත්ද්‍රව්‍ය තොගය වැඩිදුර විමර්ශන කටයුතු සඳහා කටුනායක ගුවන්තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් වෙත භාරදීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/7668262e.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2025-01-08 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205157) · `si`
+
+◼️
+
+[Data](articles/b7027ea1.json)
+
+---
+
+### උතුරු මැද විභාග ප්‍රශ්නපත්‍ර සිද්ධියට සම්බන්ධ ගුරුවරියගේ වැඩතහනම්
+
+*2025-01-08 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205156) · `si`
+
+උතුරු මැද පළාතේ 6 සහ 7 ශ්‍රේණිවල වාර විභාගයේ ප්‍රශ්න කළින් පිට කිරීමේ සිද්ධියක් සම්බන්ධයෙන් ගුරුවරියකගේ වැඩ තහනම් කර තිබේ.
+
+වහාම ක්‍රියාත්මක වන පරිදි එම වැඩතහනම් කිරීම සිදුකර ඇති බව උතුරු මැද පළාත් අධ්‍යාපන ලේකම් සිරිමෙවන් ධර්මසේන මහතා පැවසීය.
+
+එමෙන්ම වාර විභාගයේ 11 ශ්‍රේණිවල ප්‍රශ්න පත්‍ර කිහිපයක් කලින් පිටකිරීම සම්බන්ධයෙන් ද පොලීසිය පුද්ගලයින් කිහිප දෙනෙකුගෙන් ප්‍රකාශ සටහන් කර ඇති බව උතුරු මැද පළාත් අධ්‍යාපන ලේකම්වරයා වැඩිදුරටත් පැවසීය
+
+◼️
+
+[Data](articles/11f3b809.json)
+
+---
+
+### Teacher interdicted for leaking term test questions in North Central Province
+
+*2025-01-08 09:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/104821/teacher-interdicted-for-leaking-term-test-questions-in-north-central-province) · `en`
+
+The teacher responsible for leaking the questions of the Grade 6 and 7 Term Test of government schools in North Central Province has been interdicted with immediate effect, the North Central Province Education Secretary said.
+
+Meanwhile, on January 6, 2025, the Sinhala Literature question paper for the Grade 11 term test in the North Central Province (NCP) was leaked on social media, prompting authorities to take immediate action.
+
+As a result, the final term test, scheduled for January 6, was postponed.
+
+Accordingly, the distribution of the compromised question paper was halted across more than 600 schools in the province. These schools span 30 educational divisions across eight zones, according to Dharmasena.
+
+The North Central Province Education Secretary further stated that the examination will be temporarily suspended accordingly. A new question paper will be prepared and distributed to ensure the continuation of the examination process without compromising its integrity, he noted.
+
+◼️
+
+[Data](articles/a5599349.json)
+
+---
+
 ### නිවසේ වැටුණ හිටපු රාජ්‍ය ඇමති ලකි ජයවර්ධන මරුට
 
 *2025-01-08 09:08:52* · [`adalk`](https://www.ada.lk/breaking_news/නිවසේ-වැටුණ-හිටපු-රාජ්‍ය-ඇමති-ලකි-ජයවර්ධන-මරුට/11-414081) · `si`
@@ -289,6 +605,36 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/76f60ae1.json)
+
+---
+
+### Former State Minister Lucky Jayawardena passes away
+
+*2025-01-08 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/104820/former-state-minister-lucky-jayawardena-passes-away) · `en`
+
+Former State Minister Lucky Jayawardena has passed away at the age of 70, family sources said.
+
+◼️
+
+[Data](articles/4f5533f6.json)
+
+---
+
+### TRCSL warns public over fraudulent text messages
+
+*2025-01-08 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/104819/trcsl-warns-public-over-fraudulent-text-messages) · `en`
+
+The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has issued a warning, advising the public not to share their personal details in response to fraudulent text messages circulating on social media.
+
+The Commission has stated that it is receiving complaints regarding fake messages claiming that the President will offer financial assistance of Rs. 50,000 to poor families.
+
+Accordingly, the Director of the Telecommunications Commission, Mrs. H.P.M. Pathirana, has advised individuals not to provide any personal information in response to these deceptive messages.
+
+“The Telecommunications Regulatory Commission is receiving a large number of complaints regarding fake SMS messages. A message claiming that the President will provide Rs. 50,000 in assistance to poor families is rapidly circulating on social media networks. We request that you refrain from clicking on these links,” said the TRCSL Director.
+
+...
+
+[Data](articles/901f12ba.json)
 
 ---
 
@@ -374,6 +720,24 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
+### Wildfire rages in Los Angeles, forcing 30,000 to evacuate
+
+*2025-01-08 08:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/104818/wildfire-rages-in-los-angeles-forcing-30000-to-evacuate) · `en`
+
+A rapidly growing wildfire raged across an upscale section of Los Angeles on Tuesday, destroying homes and creating traffic jams as 30,000 people evacuated beneath huge plumes of smoke that covered much of the metropolitan area.
+
+At least 2,921 acres (1,182 hectares) of the Pacific Palisades area between the coastal towns of Santa Monica and Malibu had burned, officials said, after they had already warned of extreme fire danger from powerful winds that arrived following extended dry weather.
+
+The fire grew rapidly as officials warned the worst wind conditions were expected to come overnight, leading to concerns that more neighborhoods could be forced to flee.
+
+Witnesses reported a number homes on fire with flames nearly scorching their cars when people fled the hills of Topanga Canyon, as the fire spread from there down to the Pacific Ocean.
+
+...
+
+[Data](articles/62506644.json)
+
+---
+
 ### ශ්‍රී ලංකාව පළමුව පන්දු යැවීමට තීරණය කරයි
 
 *2025-01-08 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205155) · `si`
@@ -403,6 +767,22 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/092a57ab.json)
+
+---
+
+### E-service for copies of birth, marriage and death certificates for overseas Sri Lankans launched
+
+*2025-01-08 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104817/e-service-for-copies-of-birth-marriage-and-death-certificates-for-overseas-sri-lankans-launched-) · `en`
+
+Foreign Minister Vijitha Herath in partnership with the Registrar General’s Department has launched the pilot project to facilitate overseas Sri Lankans to obtain certified copies of birth, marriage, and death certificates through Sri Lanka Missions abroad.
+
+The system provides Missions access to the e-BMD database (electronic - Birth, Marriage and Death certificate Database) of the Registrar General’s Department in Sri Lanka.
+
+The pilot project is initially implemented through the Sri Lanka Embassies / Consulates General in Tokyo (Japan), Kuwait, Doha (Qatar), Milan (Italy), Toronto (Canada), Melbourne (Australia), and Dubai (UAE). Building upon this, the Ministry and the Department will actively work towards periodically expanding the service to all other Sri Lankan Missions and Posts abroad, ensuring an efficient consular service to the Sri Lankan community, Sri Lanka’s foreign ministry said.
+
+...
+
+[Data](articles/35521576.json)
 
 ---
 
@@ -1371,415 +1751,5 @@ Police allege that the attack was carried out by associates of ‘Kosmalli’, a
 ...
 
 [Data](articles/09ea2e79.json)
-
----
-
-### தமிழ்மிரருக்கு இரண்டு விருதுகள்
-
-*2025-01-07 21:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்மிரருக்கு-இரண்டு-விருதுகள்/175-349951) · `ta`
-
-கல்கிஸை மவுண்லேனியா ஹோட்டலில் இலங்கை பத்திரிகை ஸ்தாபனம் தற்போது நடத்திக்கொண்டிருக்கும் 2023 ஆண்டுக்கான சிறந்த ஊடகவியலாளர்களுக்கான விருது வழங்கள் விழாவில் தமிழ்மிரர் இரண்டு விருதுகளை தனதாக்கிக் கொண்டுள்ளது.
-
-◼️
-
-[Data](articles/aabc728f.json)
-
----
-
-### அரிசி தட்டுப்பாட்டுக்கு தீர்வு காண்போம்; அரிசி மாபியாக்களை இல்லாதொழிப்போம் - அமைச்சர் வசந்த சமரசிங்க
-
-*2025-01-07 21:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/203264) · `ta`
-
-ஜனாதிபதித் தேர்தலின் போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க 20 கிலோகிராம் சிவப்பு அரிசியை இலவசமாக வழங்கியதால் தான் தற்போது சிவப்பரிசிக்கு தட்டுப்பாடு ஏற்பட்டுள்ளது. அரிசி தட்டுப்பாட்டுக்கு தீர்வு காண்போம். அரிசி மாபியாக்களின் செயற்பாடுகளை இல்லாதொழிப்போம் என வர்த்தகம், வாணிபம் மற்றும்  உணவு பாதுகாப்பு அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
-
-சந்தையில் அரிசி தட்டுப்பாடு இல்லை என்று அமைச்சர் குறிப்பிடுகிறார். ஆனால் சந்தையில் சிவப்பு அரிசி இல்லை என்று ஸ்ரீ லங்கா பொதுஜன பெரமுனவின்  டி.வி. சானக குறிப்பிட்டார். இதன்போது அமைச்சருக்கும், டி.வி சானக்கவுக்கும் இடையில் கடும் தர்க்கம் நிலவியது. சதொச விற்பனை நிலையத்தில் அரிசி இருப்பதாக குறிப்பிடுகின்றீர்கள். ஆனால் கிராமப்புறங்களில் உள்ள சில்லறைக் கடைகளில் அரிசி இல்லை.  மக்கள் மத்தியில் சென்று பாருங்கள் என்று பாராளுமன்ற உறுப்பினர். டி. வி சானக கடுமையாக சாடினார்.
-
-...
-
-[Data](articles/9dad3635.json)
-
----
-
-### මගීන් අතරමග බැස්සූ බස් රියදුරුට සහ කොන්දොස්තරට දඩයක්
-
-*2025-01-07 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205141) · `si`
-
-පොලීසිය දියත් කරන රථවාහන මෙහෙයුම් හමුවේ නීතිය ක්‍රියාත්මක කිරීමට යාමේදී ගමනාන්තයට නොගොස් මගීන් අතරමග බස්සවා පිටත්ව ගිය මාර්ග අංක 100 පානදුර - පිටකොටුව බස් රථයේ හිමිකරු, රියදුරා සහ කොන්දොස්තරවරයාට එරෙහිව බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය පියවර ගෙන තිබේ.
-
-ඒ අනුව මෙලෙස ක්‍රියා කළ බස් රථයේ රියදුරාගේ සහ කොන්දොස්තරවරයාගේ සේවය ජනවාරි 15 වනදා දක්වා තහනම් කිරීමට පියවර ගෙන ඇති අතර, රියදුරාට රුපියල් 2,500ක දඩයක් සහ කොන්දොස්තරවරයාට රුපියල් 750ක දඩයක්ද පනවා ඇත.
-
-එම කාලය ඇතුළත ඔවුන් දෙදෙනා වෙනත් බස්රථයක සේවය කළහොත් අදාළ බස් රථයේ මාර්ග බලපත්‍රය අහෝසි කරන බවද බස්නාහිර පළාත් මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය පවසයි.
-
-එසේම, ජනවාරි 21 වනදා පුහුණුවක් සඳහා ඔවුන් දෙදෙනාව කැඳවීමටද කටයුතු කර තිබේ.
-
-ඊට අමතරව අදාළ බස් රථයේ මාර්ග බලපත්‍රය ජනවාරි 10 වනදා දක්වා පරීක්ෂණයකට යටත්ව අත්හිටුවීමටද මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය කටයුතු කර ඇත.
-
-◼️
-
-[Data](articles/aae216d3.json)
-
----
-
-### சிறந்த செய்தி இணையத்தளம், சிறந்த காணொளி கதைக்கான விருதுகளை வென்றது வீரகேசரி
-
-*2025-01-07 20:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203263) · `ta`
-
-சிறந்த செய்தி இணையத்தளத்திற்கான விருதை வீரகேசரி இணையத்தள பிரிவும் சிறந்த காணொளி கதைக்கான விருதுகளை வீரகேசரி டிஜிட்டல் பிரிவும் வென்று சாதனை படைத்துள்ளன.
-
-இலங்கை பத்திரிகை ஸ்தாபனம் மற்றும் இலங்கை பத்திரிகை ஆசிரியர் சங்கம் ஆகியவை இணைந்து 25 ஆவது வருடமாக நடத்திய 2023 ஆம் ஆண்டுக்கான விருது வழங்கும் விழா மவுன்ட்லவேனியா ஹோட்டலில் செவ்வாய்க்கிழமை (7) இடம்பெற்றது.
-
-◼️
-
-[Data](articles/9b4a087f.json)
-
----
-
-### மாதத்தின் அதி சிறந்த வீராங்கனைக்கான ஐசிசி விருதுக்கு மூன்று வீராங்கனைகள் பரிந்துரை
-
-*2025-01-07 19:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/203262) · `ta`
-
-2024ஆம் ஆண்டு டிசம்பர் மாதத்திற்கான அதி சிறந்த வீராங்கனைக்கான ஐசிசி விருதுக்கு ஆடவர் பிரிவில் போன்றே மூன்று கண்டங்களைச் சேர்ந்த வீராங்கனைகளின் பெயர்கள் பரிந்துரைக்கப்பட்டுள்ளது.
-
-ஆடவருக்கான விருதுக்கு பரிந்துரைக்கப்பட்டிருந்த இந்தியா, அவுஸ்திரேலியா, தென் ஆபிரிக்கா ஆகிய 3 நாடுகளைச் சேர்ந்தவர்களே மகளிர் விருதுக்கும் பரிந்துரைக்கப்பட்டுள்ளனர்.
-
-இந்தியாவின் அதிரடி ஆரம்பத் துடுப்பாட்ட வீராங்கனை ஸ்ம்ரித்தி மந்தனா, அவுஸ்திரேலியாவின் சகலதுறை வீராங்கனை அனாபெல் சதர்லண்ட், தென் ஆபிரிக்காவின் சுழல்பந்துவீச்சாளர் நொன்குலுலேக்கோ மலாபா ஆகியோரின் பெயர்களே டிசம்பர் மாத மகளிர் ஐசிசி விருதுக்கு பரிந்துரைக்கப்பட்டுள்ளது.
-
-அவுஸ்திரேலியாவுக்கும் மேற்கிந்தியத் தீவுகளுக்கும் எதிராக கடந்த மாதம் அவுஸ்திரேலியாவிலும் இந்தியாவிலும் நடைபெற்ற 6 மகளிர் சர்வதேச ஒருநாள் கிரிக்கெட் போட்டிகளில் ஒரு சதம், 2 அரைச் சதங்கள் உட்பட 270 ஓட்டங்களை ஸ்ம்ரித்தி மந்தனா பெற்றிருந்தார். அவரது துடுப்பாட்ட சராசரி 45.00 ஆகவும் ஸ்ட்ரைக் ரேட் 91.52 ஆகவும் இருந்தன.
-
-...
-
-[Data](articles/b97e89c5.json)
-
----
-
-### ගල්කිස්සේ වෙඩි තැබීම ගැන තොරතුරු රැසක් - CCTV දර්ශන සහිතයි
-
-*2025-01-07 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205140) · `si`
-
-ගල්කිස්ස, වටරප්පල පාර ප්‍රදේශයේදී අද (07) අලුයම නාඳුනන තුවක්කුකරුවන් දෙදෙනෙකු විසින් සිදුකළ වෙඩි තැබීමකින් පුද්ගලයන් දෙදෙනෙකු ජීවිතක්ෂයට පත්විය.
-
-ගල්කිස්ස, වටරප්පල ප්‍රදේශයේ නිවසකට අද අළුයම 4.25ට පමණ යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු වෙඩි තැබීමක් සිදුකර තිබුණි.
-
-විදෙස්ගතව සැඟව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන බඩෝවිට අසංක හා කොස්මල්ලි නැමැත්තන් අතර කලක සිට පවතින ආරවුලක ප්‍රතිඵලයක් ලෙස මෙම ද්විත්ව ඝාතනය සිදුකර ඇති බවට පොලීසිය සැක කරයි.
-
-මිලිමීටර 9 වර්ගයේ ගිනි අවියකින් හා ගල්කටස් වර්ගයේ ගිනි අවියකින් සිදුකළ වෙඩි තැබීමෙන් නිවස තුළ සිටි 36 හැවිරිදි සුදත් ගෝමස් හෙවත් මනෝ නැමැත්තා එම ස්ථානයේදීම ජීවිතක්ෂයට පත් වූ අතර චානක විමුක්ති හෙවත් සඳුන් නැමැති 20 හැවිරිදි තරුණයා ප්‍රතිකාර සඳහා කළුබෝවිල රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගිය ගොස් තිබුණි.
-
-වෙඩි තැබීමෙන් අනතුරුව පලාගිය නාඳුනන වෙඩික්කරුවන් දෙදෙනා කවුරුන්ද යන්න මෙතෙක් අනාවරණ වී නැත.
-
-අදාළ සිද්ධිය සම්බන්ධයෙන් ස්ථානීය පරීක්ෂණය අද උදෑසන ගල්කිස්ස මහෙස්ත්‍රාත් චතුරිකා සිල්වා මහත්මිය විසින් සිදුකරනු ලැබීය.
-
-...
-
-[Data](articles/51d68421.json)
-
----
-
-### அஜித்தின் ரேஸிங் கார் விபத்தில் சிக்கியது
-
-*2025-01-07 19:42:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அஜித்தின்-ரேஸிங்-கார்-விபத்தில்-சிக்கியது/54-349949) · `ta`
-
-அஜித் குமார் கார் ரேஸூக்காக பயிற்சி மேற்கொண்ட போது எதிர்பாராத விதமாக கார் விபத்தில் சிக்கியுள்ளது. எனினும் அஜித் எந்த காயமும் இன்றி அதிஷ்டவசமாக உயிர் தப்பியுள்ளார்.
-
-துபாயில் வரும் 11 மற்றும் 12 ஆம் தேதிகளில் கார் ரேஸ் போட்டி நடைபெற இருக்கிறது. இந்த கார் ரேஸில் அஜித் குமாரும் கலந்து கொள்ள இருக்கிறார். இதற்காக அவர் தனது காரை பார்த்து பார்த்து உருவாக்கியிருந்தார். இதற்காக கடந்த சில மாதங்களாக அஜித் குமார் துபாயில் இருந்தார்.
-
-மேலும், கார் ரேஸ் பயிற்சியும் மேற்கொண்டு வந்தார். இதற்கிடையில் தனது விடாமுயற்சி படத்தின் சில காட்சிகளையும், டப்பிங் பணிகளையும் முடிப்பதற்கு சென்னை வந்த அவர் விடாமுயற்சி பட காட்சிகளையும், டப்பிங் பணிகளையும் முடித்த கையோடு சில தினங்களுக்கு முன்பு துபாய் புறப்பட்டு சென்றார்.
-
-அவரை வழியனுப்பி வைக்க அவரது குடும்பத்தினர் சென்னை விமான நிலையம் வந்தனர். அப்போது எடுக்கப்பட்ட புகைப்படம் வைரலானது. இந்த நிலையில் தான் இன்று அஜித் கார் ரேஸ் பயிற்சியில் ஈடுபட்டிருந்தார்.
-
-...
-
-[Data](articles/d52e83cf.json)
-
----
-
-### Govt to repatriate Sri Lankans illegally staying in South Korea
-
-*2025-01-07 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104811/govt-to-repatriate-sri-lankans-illegally-staying-in-south-korea) · `en`
-
-The Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), Koshala Wickremasinghe emphasized that immediate actions will be taken to repatriate Sri Lankan nationals who are illegally staying in South Korea after their visas expired.
-
-He mentioned that their details will be forwarded to the Criminal Investigation Department (CID), and legal measures will be enforced.
-
-Wickremasinghe urged individuals with expired visas not to remain in South Korea unlawfully, as the future job quotas for Sri Lankans in the country will depend on the behavior of those already employed there.
-
-He made these comments while presenting air tickets to 96 Sri Lankans departing for South Korea today (07), for employment in the manufacturing sector. They are the first group to leave for jobs in South Korea’s manufacturing sector this year (2025).
-
-The SLBFE chairman further revealed plans to offer job opportunities in South Korea to nearly 8,000 Sri Lankans by the end of 2025.
-
-...
-
-[Data](articles/e136326d.json)
-
----
-
-### சட்டவிரோதமாக தென் கொரியாவில் தங்க வேண்டாம்
-
-*2025-01-07 19:23:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோதமாக-தென்-கொரியாவில்-தங்க-வேண்டாம்/175-349948) · `ta`
-
-வீசா காலம் நிறைவடைந்த பின்னரும் தென்கொரியாவில் சட்டவிரோதமாக தங்கியுள்ள தொழிலாளர்களை, இலங்கைக்கு அழைத்து வருவதற்கு தேவையான நடவடிக்கைகள் உடனடியாக மேற்கொள்ளப்படும் என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைவர் கோசல விக்கிரமசிங்க வலியுறுத்தினார்.
-
-இவ்வாறு சட்டவிரோதமாக தங்கியுள்ள நபர்களின் தகவல்கள் குற்றப் புலனாய்வு திணைக்களத்தில் சமர்ப்பிக்கப்பட்டு தேவையான சட்ட நடவடிக்கைகள் மேற்கொள்ளப்படும் என அவர் தெரிவித்துள்ளார்.
-
-தொழிலுக்காக செல்பவர்களின் செயற்பாடுகளின் காரணமாக இந்நாட்டிற்கு கிடைக்கும் வேலை ஒதுக்கீடு தீர்மானிக்கப்படும் என்பதால், நிர்ணயிக்கப்பட்ட விசா காலம் முடிவடைந்தால், சட்டவிரோதமாக தென் கொரியாவில் தங்க வேண்டாம் என்று அவர் கேட்டுக்கொண்டார். R
-
-◼️
-
-[Data](articles/abf74c8a.json)
-
----
-
-### Sri Lanka Cabinet grants incentives to airlines for tourism boost
-
-*2025-01-07 19:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-grants-incentives-to-airlines-for-tourism-boost-198539/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has granted tax concession for airlines which will operate flights to the island nation’s international airports with more capacity aiming to boost tourist arrivals.
-
-The move comes as Sri Lanka’s main Bandaranaike International Airport (BIA) is facing difficulties in accommodating all the arrivals.
-
-The tax concessions have been introduced by the Airport and Aviation Services (Sri
-
-Lanka) (Private) Limited with the objective of attracting international airline services for the Jaffna International Airport, Colombo International Airport (Rathmalana), and Mattala Rajapaksha
-
-However, those incentives came to an end and had to be extended.
-
-The Cabinet approved to further extend the tax relief to the three airports.
-
-The Cabinet granted “extension of concession of 50% fee waiver from the presently implemented deviation tax
-
-...
-
-[Data](articles/bdd94561.json)
-
----
-
-### மீளாய்வு குழுவின் அறிக்கைக்கு அமையவே அதானி குறித்து அடுத்த கட்ட தீர்மானம் - அமைச்சரவை பேச்சாளர்
-
-*2025-01-07 19:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/203261) · `ta`
-
-இந்தியாவின் அதானி நிறுவனத்துடனான அபிவிருத்தி திட்டங்கள் குறித்து முன்னெடுக்கப்பட்ட ஆய்வினை மீளாய்வு செய்வதற்காக நியமிக்கப்பட்ட குழுவின் அறிக்கைக்கு அமையவே இது குறித்து அடுத்த கட்ட தீர்மானங்கள் எடுக்கப்படும் என்று அமைச்சரவை பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-செவ்வாய்கிழமை (7) இடம்பெற்ற அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் அவர் இதனைத் தெரிவித்தார். இலங்கையில் அதானி குழுமத்தின் வலுசக்தி திட்டங்கள் குறித்த ஆய்வை மீளாய்வு செய்வதற்கு குழுவொன்றை நியமிக்க மின்சக்தி மற்றும் வலுசக்தி அமைச்சு தீர்மானித்துள்ளது. இது தொடர்பான முன்மொழிவு அமைச்சரவையில் சமர்ப்பிக்கப்பட்டுள்ளது.
-
-திட்டங்களுக்கான மதிப்பிடப்பட்ட செலவுகள் உள்ளிட்ட காரணிகளை இந்தக் குழு மதிப்பாய்வு செய்யும் என்று அமைச்சு தெரிவித்துள்ளது. முன்னதாக, இலங்கையில் அதானி குழுமத்தால் திட்டமிடப்பட்ட காற்றாலை மின் நிலைய திட்டங்கள் குறித்து மின் மற்றும் வலுசக்தி அமைச்சால் நியமிக்கப்பட்ட குழு ஆய்வு செய்தது.
-
-...
-
-[Data](articles/e7e858aa.json)
-
----
-
-### மாதத்தின் அதி சிறந்த வீரருக்கான ஐசிசி விருதுக்கு பும்ரா உட்பட மூவர் பரிந்துரை
-
-*2025-01-07 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/203258) · `ta`
-
-2024ஆம் ஆண்டு டிசம்பர் மாதத்திற்கான அதி சிறந்த வீரருக்கான ஐசிசி விருதுக்கு மூன்று கண்டங்களைச் சேர்ந்த மூன்று வேகப்பந்துவிச்சாளர்களின் பெயர்கள் பரிந்துரைக்கப்பட்டுள்ளது.
-
-உலக டெஸ்ட் சம்பியன்ஷிப் இறுதிப் போட்டியில் விளையாடவுள்ள அவுஸ்திரேலிய அணித் தலைவர் பெட் கமின்ஸ், இந்தியாவின் உதவி அணித் தலைவர் ஜஸ்ப்ரிட் பும்ரா, தென் ஆபிரிக்காவின் டேன் பெட்டர்சன் ஆகிய மூவரின் பெயர்களே மாதத்தின் அதிசிற்த வீரருக்கான ஐசிசி விருதுக்கு பரிந்துரைக்கப்பட்டுள்ளது.
-
-இந்தியாவுக்கு எதிராக நடைபெற்ற போர்டர் - காவஸ்கர் டெஸ்ட் தொடரில் துடுப்பாட்டம், பந்துவீச்சு ஆகிய இரண்டு துறைகளிலும் பெட் கமின்ஸ் அதிசிறந்த ஆற்றல்களை வெளிப்படுத்தியிருந்தார்.
-
-இந்தியாவுக்கு எதிரான 5 போட்டிகள் கொண்ட டெஸ்ட் தொடரில் கடந்த மாதம் நடைபெற்ற 3 டெஸ்ட் போட்டிகளில் ஒரு ஐந்து விக்கட் குவியல் உட்பட 17 விக்கெட்களை பெட் கமின்ஸ் மொத்தமாக வீழ்த்தியிருந்தார். அவரது பந்துவீச்சு சராசரி 17.64 ஆகும். அடிலெய்ட் டெஸ்ட் போட்டியில் 57 ஓட்டங்களுக்கு 5 விக்கெட்கள் என்ற பந்துவீச்சுப் பெறுதி அவரது அதிசிறந்த பந்துவீச்சுப் பெறுதியாக இருந்தது.
-
-...
-
-[Data](articles/e607eeef.json)
-
----
-
-### ජනවාරි සහ පෙබරවාරි මාසවලදී විශේෂ දුම්රිය ගමන් වාර කිහිපයක්
-
-*2025-01-07 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205139) · `si`
-
-මෙම වසරේ (2025) ජනවාරි සහ පෙබරවාරි මාස සඳහා විශේෂ දුම්රිය ධාවනය කිරීමට ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව සැලසුම් කර තිබේ.
-
-තෛපොංගල් උත්සවය, නිදහස් උත්සවය සහ සතිඅන්ත නිවාඩු වෙනුවෙන් කොළඹ කොටුව සිට බදුල්ල දක්වා ද කොළඹ කොටුව සිට කන්කසන්තුරේ දක්වා ද මෙම විශේෂ දුම්රිය ධාවනය සිදුකිරීමට නියමිතය.
-
-ධාවනය කරනු ලබන දින -  ජනවාරි 10, 12, 14, 17, 19, 24, 26, 31 සහ පෙබරවාරි 02, 04 යන දිනයන්.
-
-ධාවනය කරනු ලබන දින - ජනවාරි 10, 12, 14, 17, 19, 24, 26, 31 සහ පෙබරවාරි 02, 04 යන දිනයන්.
-
-3) විශේෂ නගරාන්තර දුම්රිය (4021 4022) කොළඹ කොටුව සහ කන්කසන්තුරේ අතර
-
-ධාවනය කරනු ලබන දින - ජනවාරි10, 13, 14, 15, 17, 20, 24, 27,31 සහ පෙබරවාරි 03, 04 යන දිනයන්.
-
-◼️
-
-[Data](articles/92fb5fad.json)
-
----
-
-### Sri Lanka’s Colombo Port handles 7.7mn boxes is 2024, up 12.3-pct
-
-*2025-01-07 18:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-colombo-port-handles-7-7mn-boxes-is-2024-up-12-3-pct-198515/) · `en`
-
-ECONOMYNEXT – State-run Sri Lanka Ports Authority said Colombo Port has handled 7.7 million twenty foot equivalent units (TEU) up 12.3 percent, with the agency’s own terminals seeing a 23 percent increase.
-
-SLPA’s Jaye Container Terminal and the deep water East Container Terminal handled 2.4 million TEUs in 2024, up from 1.9 million in 2023.
-
-China-backed Colombo International Container Terminal (CICT) had handled 3.3 million TEUs.
-
-South Asia Gateway Terminal (SAGT) of John Keells Holdings had handled 2.0 million TEUs.
-
-The performance had confirmed the the port’s status as a key  hub in the South Asian region and its growing appeal to international shipping lines, SLPA said.
-
-Sri Lanka has seen more containers bound for the Middle East being transshipped via Colombo amid Red Sea troubles even as some lines by-passed the island on their journey around Africa to Europe.
-
-...
-
-[Data](articles/32b79a8a.json)
-
----
-
-### Imran Furkan appointed director of Sri Lanka’s ODEL Plc
-
-*2025-01-07 18:23:00* · [`economynextcom`](https://economynext.com/imran-furkan-appointed-director-of-sri-lankas-odel-plc-198505/) · `en`
-
-ECONOMYNEXT –  Imran Furkan has been appointed to the board of Sri Lanka’s ODEL Plc as independent non-executive director with effect from January 06, the company said in a stock exchange filling.
-
-He is also an independent non- executive director of Maharaja Foods, The Interfaith Network and City of Greater Dandenong, Australia.
-
-Furkan is currently serving as the Chief Executive Officer of Tresync Australia and headed SLASSCOM and Sri Lanka Press Institute.
-
-ODEL stock was trading down 0.93 percent to 10.70 on Tuesday. (Colombo/Jan7/2025)
-
-◼️
-
-[Data](articles/f81be8a2.json)
-
----
-
-### அரிசி பிரச்சினைக்கான தீர்வினையே நாமும் தேடிக் கொண்டிருக்கின்றோம் - அரசாங்கம்
-
-*2025-01-07 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/203253) · `ta`
-
-அரிசி பிரச்சினைக்கான தீர்வினையே நாமும் தேடிக் கொண்டிருக்கின்றோம். எவ்வாறிருப்பினும் ஒரு இலட்சத்து 6000 மெட்ரிக் தொன்னுக்கும் அதிக அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. விரைவில் இரண்டு இலட்சம் மெட்ரிக் தொன்னும் அதிக உள்நாட்டு அரிசியும் சந்தைகளுக்கு விநியோகிக்கப்படும் என்று அமைச்சரவை பேச்சாளர் அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
-
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
-
-நாட்டிலுள்ள தரவுகள் தொடர்பில் பாரிய பிரச்சினைகள் காணப்படுகின்றன. தகவல்களுக்கிடையில் பரஸ்பர தன்மை காணப்படுகிறது. அவை சரியானவையாகவும் இல்லை. தற்போது வரை ஒரு இலட்சத்து 6000 மெட்ரிக் தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. செவ்வாயக்கிழமை (7) மேலும் 10 000 மெட்ரிக் தொன் அரிசி இறக்குமதி செய்யப்பட்டுள்ளது. இறக்குமதி செய்யப்பட்ட 60 000 மெட்ரிக் தொன் நாட்டரிசியும் காணப்படுகிறது.
-
-...
-
-[Data](articles/84f552e1.json)
-
----
-
-### Sri Lanka rupee closes weaker at 296.20/40 to US dollar
-
-*2025-01-07 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-296-20-40-to-us-dollar-198507/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee weakened to 296.20/40 to the US dollar Tuesday, dealers said while bond yields while some bond yields were marginally higher.
-
-The spot US dollar was quoted wide in intra-day trade at 296/297 rupee in early trade reflecting some uncertainty, dealers said. There was also some forward booking from importers.
-
-A bond maturing on 15.12.2026 was quoted at 9.50/60 percent Tuesday up from at 9.40/55 percent.
-
-A bond maturing on 15.10.2027 closed at 9.80/95 percent, up from 9.75/90 percent.
-
-A bond maturing on 15.02.2028 closed at at 10.17/25 percent, up from 10.15/25 percent.
-
-A bond maturing on 15.10.2028 closed at at 10.45/55 percent up from 10.45/55 percent.
-
-A bond maturing on 01.05.2028 closed at at 10.35/42 steady from 10.35/40 percent.
-
-A bond maturing on 15.09.2029 closed at 10.75/85 percent, unchanged.
-
-A bond maturing on 15.05.2030 closed at at 11.00/10 percent, also unchanged. (Colombo/Jan7/2025)
-
-◼️
-
-[Data](articles/8b0e2c8c.json)
-
----
-
-### President discusses challenges surrounding vehicle imports with officials
-
-*2025-01-07 17:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104810/president-discusses-challenges-surrounding-vehicle-imports-with-officials) · `en`
-
-President Anura Kumara Dissanayake has held an extensive discussion with officials from the Ministry of Finance today (07) at the Presidential Secretariat focusing on issues related to vehicle imports, withholding tax, and the digitalization of VAT collection.
-
-A significant portion of the discussion addressed the challenges surrounding vehicle imports into Sri Lanka, the President’s Media Division (PMD) said.
-
-The President emphasized the need for a well-balanced approach to address these concerns, taking into account the country’s financial constraints and economic priorities, the PMD mentioned.
-
-The President also highlighted the importance of establishing a mechanism to refund withholding taxes deducted from retirees who are not subject to income tax.
-
-...
-
-[Data](articles/e59ee563.json)
-
----
-
-### මෝටර් රථ ආනයනය සම්බන්ධයෙන් ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
-
-*2025-01-07 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205138) · `si`
-
-කාර්යක්ෂමතාව සහ විනිවිදභාවය ඉහළ නැංවීම සඳහා එකතු කළ අගය මත බදු (වැට්) එකතු කිරීමේ ක්‍රියාවලීන් ඩිජිටල්කරණය කිරීමේ ඇති අවශ්‍යතාව පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මහතා කරුණු පෙන්වා දී තිබේ.
-
-එමෙන්ම , බදු අනුකූලතාවය සහ ආදායම් ඉපැයීම වැඩිදියුණු කිරීමට අපේක්ෂා කරන විස්තීර්ණ ඩිජිටල් පද්ධතියක් කඩිනමින් ක්‍රියාත්මක කිරීමට සැලසුම් සකස් කරන බවද ජනාධිපතිවරයා ප්‍රකාශ කළේය.
-
-ජනාධිපතිවරයා මේ බව පැවසුවේ මුදල් අමාත්‍යාංශයේ නිලධාරීන් සමග අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී පැවැති සාකච්ඡාවේදීය.
-
-මෙහිදී, මෝටර් රථ ආනයනය, රඳවා ගැනීමේ බදු සහ වැට් බදු එකතු කිරීම, ඩිජිටල්කරණය පිළිබඳ ගැටලු සම්බන්ධව අවධානය යොමු වූ බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
-
-ශ්‍රී ලංකාවට වාහන ආනයනය කිරීමේදී මුහුණ දීමට සිදුවන අභියෝග පිළිබඳව මෙහිදී  විශේෂ අවධානය යොමු කර ඇති අතර, රට තුළ පවත්නා මූල්‍ය අර්බුදය සහ ආර්ථික ප්‍රමුඛතාවන් සැළකිල්ලට ගනිමින් මෙම ගැටලු විසඳා ගැනීමේ අවශ්‍යතාව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කර ඇත.
-
-...
-
-[Data](articles/c21a52a4.json)
-
----
-
-### පාකිස්තාන නාවික විද්‍යාපීඨයේ විශිෂ්ඨතම මධ්‍ය නිලධාරි සම්මානනීය අසිපත ලංකාවේ තෙන්නකෝන්ට
-
-*2025-01-07 17:43:23* · [`adalk`](https://www.ada.lk/picture_story/පාකිස්තාන-නාවික-විද්‍යාපීඨයේ-විශිෂ්ඨතම-මධ්‍ය-නිලධාරි-සම්මානනීය-අසිපත-ලංකාවේ-තෙන්නකෝන්ට/10-414074) · `si`
-
-පාකිස්තානු නාවික හමුදා විද්‍යාපීඨයේ පුහුණුව සාර්ථකව සම්පූර්ණ කළ, මධ්‍ය නිලධාරී ටීඑම්අයිවී තෙන්නකෝන්, 2025 ජනවාරි මස 04 වැනි දින පැවති විසිර යාමේ පෙළපාලියේදී, විශිෂ්ඨතම මධ්‍ය නිලධාරියාට හිමි සම්මානනීය අසිපත හිමි කර ගැනීමට සමත් විය.
-
-එම ජයග්‍රහනය ඇගයීමට ලක් කරමින් නාවික හමුදාධිපති වයිස් අද්මිරාල් කාංචන බානගොඩ විසින් මධ්‍ය නිලධාරී ටීඑම්අයිවී තෙන්නකෝන් වෙත ඊයේ දින (2025 ජනවාරි 06) නාවික හමුදා මුලස්ථානයේදී, ප්‍රශංසාත්මක ලිපියක් පිරිනමන ලද අතර, අද (2025 ජනවාරි 07) ආරක්‍ෂක අමාත්‍යාංශයේ ලේකම්, එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික) විසින් මධ්‍ය නිලධාරී ටීඑම්අයිවී තෙන්නකෝන් ලබා ගත් ජයග්‍රහනය තුලින් මව්බිමට අත්කර දුන් කීර්තිය සහ ත්‍රිවිධ හමුදා පුහුණූ වන නිලධාරීන්ට පමණක් නොව, සමස්ත ශ්‍රී ලාංකීය තරුණ ප්‍රජාවට ලබාදුන් වටිනා ආදර්ශය අගයමින් සුභාසිංශන පිරිනැමිම සිදු කෙරිණි.
-
-...
-
-[Data](articles/ca55db09.json)
-
----
-
-### ගම්පහ දරුවන් මානසික අවපීඩනය නිසා කරගන්නා දිවි හානි කර ගැනීම් ඉහළට
-
-*2025-01-07 17:35:55* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-දරුවන්-මානසික-අවපීඩනය-නිසා-කරගන්නා-දිවි-හානි-කර-ගැනීම්-ඉහළට/11-414073) · `si`
-
-ගම්පහ දිස්ත්‍රික්කයේ දරුවන් අතර මානසික අවපීඩනය (Depression) මත සියදිවි නසා ගැනීමේ වැඩි වීමක් පවතින බවත්, මේ සම්බන්ධයෙන් විශේෂ අවධානයක් යොමු කිරීම විය යුතු බවත් දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේදී ප්‍රකාශ විය.
-
-දිස්ත්‍රික් සම්බන්ධීකරණ කමිටු සභාපති නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතාගේ ප්‍රධානත්වයෙන් පැවති මෙම කමිටුවේදී, දිස්ත්‍රික්කයේ සෞඛ්‍ය ක්‍ෂේත්‍රයේ ගැටලු ඉදිරිපත් කිරීම සිදුකරමින් ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂිකා විශේෂඥ වෛද්‍ය ඉන්ද්‍රා මල්වැන්න මහත්මිය මේ බව සඳහන් කළාය.
-
-“දරුවන් අතර මානසික අවපීඩනය භයානක තත්ත්වයක්. මෙහි දරුණුකම සියදිවි නසා ගැනීමයි. පසුගිය 2024 දරුවන් 290දෙනෙකු ගම්පහ දිස්ත්‍රික්කයෙන් වාර්තා වී තිබෙනවා. මෙය 2023 වර්ෂයට වඩා වැඩි වීමක්. දිවයිනෙහි ජනගහනය අනුව ගම්පහ දිස්ත්‍රික්කයේ වැඩි ජනගහන තත්ත්වය මත මෙම දිස්ත්‍රික්කයෙන් දරුවන් දිවිනසා ගැනීම වැඩි බවක් වාර්තා වෙනව. මේ සම්බන්ධයෙන් විශේෂ අවධානයක් යොමු කළ යුතුයි.
-
-...
-
-[Data](articles/164067d4.json)
-
----
-
-### Indian PM Modi to visit Sri Lanka in 2025
-
-*2025-01-07 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/104809/indian-pm-modi-to-visit-sri-lanka-in-2025) · `en`
-
-Prime Minister Narendra Modi will visit Sri Lanka within this year, the Indian High Commission in Colombo announced on Tuesday (07). However, the dates are yet to be decided by the two sides.
-
-“We are in the process of working out a propitious timing for the visit,” Santosh Jha, the Indian High Commissioner, told reporters.
-
-President Anura Kumara Dissanayake had extended the invitation to Modi during his two-day visit to New Delhi in mid-December.
-
-Dissanayake made India as his first destination after being elected president in September.
-
-Indian External Affairs Minister Dr S Jaishankar was the first foreign dignitary to visit Colombo soon after Dissanayake took charge.
-
-Prime Minister Modi visited Sri Lanka twice between 2015 and 2017.
-
-Dissanayake is due to visit China soon.  The Cabinet Spokesman announced today that he is scheduled to embark on the official visit to China from January 14 to January 17, 2025.
-
-◼️
-
-[Data](articles/d780bc45.json)
 
 ---

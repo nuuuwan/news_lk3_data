@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 15:44:49**
+As of **2025-01-08 16:02:54**
 
 ## Newspaper Stats
 
-*Scraped **64,354** Articles*
+*Scraped **64,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,100 @@ dailymirrorlk | 4,733
 adalk | 6,159
 adaderanalk | 7,884
 tamilmirrorlk | 9,238
-virakesarilk | 10,738
-adaderanasinhalalk | 11,115
+virakesarilk | 10,741
+adaderanasinhalalk | 11,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,354 articles have been extended.
+61,971 (96.3%) of 64,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### උද්ධමනය ගැන මහ බැංකු අධිපතිගෙන් සුබ ආරංචියක්
+
+*2025-01-08 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205173) · `si`
+
+මේ වසරේ මැද භාගය වනවිට මෙරට උද්ධමනය ස්ථාවර මට්ටමකට පැමිණෙනු ඇතැයි මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+මහ බැංකු අධිපතිවරයා මේ අදහස් පළ කළේ, ශ්‍රී ලංකා මහ බැංකුවේ 2025 නව වසර සඳහා වන ප්‍රතිපත්ති මාලාව එළිදැක්වීමේ අවස්ථාවට අද (08) එක්වෙමිනි.
+
+75 වසරක් සපිරෙන ශ්‍රී ලංකා මහ බැංකුවේ 2025 නව වසර සඳහා වන ප්‍රතිපත්ති මාලාව එළිදැක්වීම අද පෙරවරුවේ සිදුකෙරුණේ මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතාගේ ප්‍රධානත්වයෙනි.
+
+"2025 මැද භාගව වනවිට උද්ධමනය නැවතත් ධානාත්මක කලාපයකට පැමිණෙයි. මුදල් අමාත්‍යංශය සමග එකඟ වූ ආකාරයට 5%ක ප්‍රතිශතයක ස්ථාවර වේවි. 2025 වසර මුල භාගයේ දී නිවැරිදි කිරීමක් ලෙස අවධමනයක් ද වාර්තා වියහැකියි. පුද්ගලික අංශයේ ණය ප්‍රකෘතිමත් වීම තවදුරටත් අඛණ්ඩව සිදුවේවි. රජයේ වාර්තාමය ප්‍රතිපත්ති ඊට සහායක් වේවි. ව්‍යාපාරික හිතවාදී වාතාවරණය ඊට බලපාන සාධකයක් දේශීය මිල ගණන්වලට බලපාන බාහිරි අවදානම් අවමවීමක් ද බලාපොරොත්තු විය හැකියි."
+
+◼️
+
+[Data](articles/15c9eea0.json)
+
+---
+
+### ලොස් ඇන්ජලීස් හි හදිසි තත්ත්වයක්
+
+*2025-01-08 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205172) · `si`
+
+බටහිර අමෙරිකාවේ ලොස් ඇන්ජලීස් ආසන්නයෙන් පැතිර යන ළැව් ගිනි තත්ත්වය හේතුවෙන් මේ වනවිට හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පැය කිහිපයකින් අක්කර 10 සිට අක්කර 2,900කට වැඩි ප්‍රදේශයකට මෙම ළැව් ගින්න පැතිරගොස් ඇති බව වාර්තා වේ.
+
+මෙම තත්ත්වය හේතුවෙන් නිවාස සහ ගොඩනැගිලි 13,000ක වෙසෙන පුද්ගලයින් 30,000කට වැඩි පිරිසක් කඩිනමින් ආරක්ෂිත ස්ථාන කර යොමු කිරීමට පියවර ගෙන තිබේ.
+
+පලාගිය ඇතැම් පිරිස් සිය රථවාහන පවා අත්හැර දමාගොස් ඇති අතර, එලෙස අත්හැර ගිය රථවාහන හේතුවෙන් ඇතිවූ මාර්ග අවහිරතා ඉවත්කිරීමට බැකෝ යන්ත්‍ර යොදාගැනීමටත් ද බලධාරීන්ට සිදුව ඇත.
+
+බටහිර අමෙරිකාවේ මෙලෙස ළැව්ගිනි ව්‍යාප්තවෙමින් පවතින්නේ, එරට නැගෙනහිර සහ මධ්‍යම කලාපවලට හිම කුණාටු තත්ත්වයක් බලපා ඇති පසුබිමක වීම විශේෂත්වයක්ය.
+
+පැසිෆික් සාගරයට මුහුණලා පිහිටි සුඛෝපභෝගී කලාපයක් වන පැසිෆික් පැලිසේඩ් හි ඇති වූ මෙම ළැව් ගින්න සැන්ටා මොනිකා සිට මාලිබූ කලාපය දක්වා ව්‍යාප්ත වී ඇත.
+
+ලොස් ඇන්ජලීස් ආසන්නයේ පවතින පැයට කිලෝ මීටර් 70ත් 100ත් අතර වේගවත් සුළං ධාරා ගින්න ව්‍යාප්ත වීමට රුකුලක් වී ඇත.
+
+...
+
+[Data](articles/96cabc08.json)
+
+---
+
+### தேராவில் மாவீரர் துயிலும் இல்ல காணியை விடுவிக்குமாறு கோரி கையெழுத்து போராட்டம்
+
+*2025-01-08 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/203305) · `ta`
+
+விசுவமடு தேராவில் மாவீரர் துயிலும் இல்ல காணியை இராணுவத்தினரிடமிருந்து விடுவித்து  மாவீரர் தினத்தில் தமது பிள்ளைகளுக்கான நினைவேந்தலை  சுதந்திரமாக அனுஷ்டிப்பதற்கான ஏற்பாடுகளை செய்வதற்கு ஜனாதிபதி அவர்கள் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என கோரி கையெழுத்து போராட்டம் ஒன்று இன்று புதன்கிழமை (08) முன்னெடுக்கப்பட்டது.
+
+தேராவில் மாவீரர் துயிலுமில்ல பணிக் குழு உறுப்பினர்கள் மாவீரர்கள் பெற்றோர்கள்  உரித்துடையவர்கள் இணைந்து குறித்த கையெழுத்து போராட்டத்தை முன்னெடுத்தனர்.
+
+தேராவில் மாவீரர் துயிலும் இல்லத்தின் காணியின் பெரும்பகுதி  இராணுவத்தினரால் அபகரிக்கப்பட்டிருக்கின்ற நிலைமையில் அந்த அபகரிக்கப்பட்ட துயிலுமில்ல காணிக்கு முன்பாக குறித்த கையெழுத்து போராட்டம் முன்னேடுக்கப்பட்டது.
+
+நாட்டினுடைய புதிய ஜனாதிபதி அனுர குமார திஸாநாயக்க அவர்கள் மாவீரர் தினத்தை அனுஷ்டிப்பதற்கு அனுமதி வழங்கியதை போன்று தங்களுடைய பிள்ளைகளின்  கல்லறைகள் இருக்கின்ற குறித்த காணியை இராணுவத்தினரிடமிருந்து விடுவித்து தருமாறு கோரி குறித்த கையெழுத்து போராட்டத்தை முன்னெடுத்திருந்தனர்.
+
+...
+
+[Data](articles/a4d1df8f.json)
+
+---
+
+### බොරතෙල් මිල ඉහළට
+
+*2025-01-08 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205171) · `si`
+
+ඒ රුසියාව සහ ඔපෙක් සාමාජික රටවල් සිය සැපයුම් සීමා කිරීම හේතුවෙනි.
+
+ඒ අනුව බ්‍රෙන්ට් බොරතෙල් බැරලයක මිල ඩොලර් 77.37 දක්වා ද වෙස්ට් ටෙක්සාස් බොරතෙල් බැරලයක මිල ඩොලර් 74.67ක් දක්වා ද ඉහළගොස් තිබුණි.
+
+ඔපෙක් රටවල් පසුගිය දෙසැම්බර් මාසයේදී සිය නිෂ්පාදන ධාරිතාව අඩුකළ අතර, පසුගිය මාසයේදී
+
+රුසියාව ද දෛනික බොරතෙල් නිෂ්පාදනය බැරල් මිලියන 8.971 දක්වා පහත දැමීමට පියවර ගත්තේය.
+
+ඒ අනුව ඒ මාසයේදි එරට දෛනික බොරතෙල් නිෂ්පාදන ධාරිතාව දැක්වුණේ බැරල් මිලියන 9.5ක් ලෙසින්ය.
+
+එවන් පසුබිමක විෂයේ ප්‍රවිණයන් පුරෝකතනය කරන්නේ, 2025 වසරේදී බොරතෙල් බැරලයක මිල ඩොලර් 76ක් දක්වා පහළ යාමේ අවස්ථාවක් ද පවතින බවය.
+
+◼️
+
+[Data](articles/00f688c6.json)
+
+---
 
 ### உண்டியல், ஹவாலா முறைகள் சட்டவிரோதமானவையல்ல
 
@@ -49,6 +131,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/193e3333.json)
+
+---
+
+### வெருகலில் தொல்லியல் திணைக்களத்தால் நில அபகரிப்பு : மக்கள் எதிர்ப்பு ஆர்ப்பாட்டம் !
+
+*2025-01-08 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/203309) · `ta`
+
+திருகோணமலை – வெருகல் பிரதேசத்தில் தொல்லியல் திணைக்களத்தின் நில அபகரிப்புக்கு எதிர்ப்பு தெரிவித்தும் பல்வேறு கோரிக்கைகளை முன்வைத்தும் பொதுமக்கள் இன்று  புதன்கிழமை (08) ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+வெருகல் - வட்டவான் பகுதியில் திருகோணமலை – மட்டக்களப்பு பிரதான வீதியின் அருகே கடந்த திங்கட்கிழமை (06) மாலை தொல்லியல் திணைக்களத்தினால் “1 KM வட்டவான் தொல்லியல் நிலையம்” என குறிப்பிட்டு பெயர் பதாகை ஒன்று நடப்பட்டுள்ளது. இதற்கு எதிர்ப்பு தெரிவித்தும் தொல்லியல் எனும் பெயரில் பௌத்தமயமாக்கல் இடம்பெறமாட்டாது என்பதை உறுதிசெய்யுமாறு கோரி எதிர்ப்பு ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/39bf4cd6.json)
 
 ---
 
@@ -253,6 +349,18 @@ The boundary is the world’s longest between two countries and it was establish
 ...
 
 [Data](articles/83554500.json)
+
+---
+
+### இன்றைய நாணயமாற்று விகிதம்
+
+*2025-01-08 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/203303) · `ta`
+
+இன்று புதன்கிழமை (08) இலங்கை மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.4663 ரூபா ஆகவும் விற்பனை விலை 300.5203  ரூபா ஆகவும் பதிவாகியுள்ளமைக் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a1adadc5.json)
 
 ---
 
@@ -1649,95 +1757,5 @@ Wickremasinghe urged individuals with expired visas not to remain in South Korea
 ...
 
 [Data](articles/1383b23c.json)
-
----
-
-### Qua Vadis Sri Lanka – where are we heading?
-
-*2025-01-08 06:09:27* · [`dailyftlk`](https://www.ft.lk/columns/Qua-Vadis-Sri-Lanka-where-are-we-heading/4-771541) · `en`
-
-The Government seems to have now realised the winning of election based on attacking previous Governments of the past 76 years was easier than governing the State. They tactically leveraged the momentum of 2022 Aragalaya to their advantage, dropping a load of garbage, filling the ears of masses with anger and hatred, assuring to fulfil the immediate unthinkable promises, pledges, expectations of the public in short term with the change of Government. During the period lapsed since the swearing in of the President the mandate NPP talks about was depleting at a significant rate.
-
-...
-
-[Data](articles/3dfe579e.json)
-
----
-
-### BRICS countries’ effort to dedollarisation just wishful thinking
-
-*2025-01-08 06:04:56* · [`dailyftlk`](https://www.ft.lk/columns/BRICS-countries-effort-to-dedollarisation-just-wishful-thinking/4-771540) · `en`
-
-Until BRICS countries increase their capability to tolerate huge trade deficit, launching a global reserve currency will be just wishful thinking
-
-Trump who has been elected to be the next President of the United States has said that he would impose 100% import tax on BRICS countries if they continue their effort to dedollarise international trade and payment mechanism. This is a discussion now taking place in global financial capitals. It is quite normal because if President Trump continues with his “threat” there could be a huge mess in many economies which export to the United States. But it is not normal if a person with average intelligence who lives in a small village of Kahathuduwa, a few miles away from Colombo in Sri Lanka, nearly 8,000 miles away from New York, shows some visionary opinion on the subject. That led me to write this essay.
-
-...
-
-[Data](articles/8975d911.json)
-
----
-
-### Clean Sri Lanka and digital economy initiatives: New pragmatic face of NPP?
-
-*2025-01-08 06:01:45* · [`dailyftlk`](https://www.ft.lk/columns/Clean-Sri-Lanka-and-digital-economy-initiatives-New-pragmatic-face-of-NPP/4-771539) · `en`
-
-The two initiatives mark a milestone in the NPP path to consolidating its goals
-
-In his New Year message, President Anura Dissanayake outlined three development goals – namely, eradicating rural poverty, implementing the Clean Sri Lanka project, and building a digital economy.
-
-As I see it, Clean Sri Lanka and the Digital Economy are not goals, but strategies aimed at the social and economic revival of the country. What is particularly noteworthy is that they are practical strategies devoid of ideology. In the context of some ministers still thinking that the road to economic revival is through State enterprises, claiming for example, that the State distillery can produce quality alcohol at cheaper prices than private competitors, the two initiatives mark a milestone in the NPP path to consolidating its goals.
-
-...
-
-[Data](articles/14c767ff.json)
-
----
-
-### Sri Lanka’s foreign policy balance will be key in 2025
-
-*2025-01-08 05:58:24* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-foreign-policy-balance-will-be-key-in-2025/4-771538) · `en`
-
-Former President Jimmy Carter, who passed away last week, may not have been a flamboyant US President, but he is widely respected—not for political victories, but for his unwavering dedication to service, both in and after the White House. His life serves as a profound reminder that true leadership is not defined by titles or terms but by the impact of one’s tenure. Carter’s presidency (1977–1981) and post-presidency provide valuable lessons for diplomacy, particularly in conflict resolution and principled engagement with international partners.
-
-...
-
-[Data](articles/68ae369d.json)
-
----
-
-### Sri Lanka – Germany Business Council holds 25th AGM
-
-*2025-01-08 05:49:21* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Germany-Business-Council-holds-25th-AGM/34-771536) · `en`
-
-Executive Committee 2024/2025 – Seated from left: Vice President Roy Anthony, Immediate Past President Surendra Ediriweera, Embassy of Germany in Sri Lanka Ambassador Dr. Felix Neumann, President Asoka Hettigoda, Vice President Karim Schadlou, Ceylon Chamber of Commerce Secretariat Amanthi Silva
-
-Committee members – Standing from left: Aflal Khan Ismail, Dhilmini Palipane, Mark Francis, Sudath Tennakoon, Gayan Maddumarachchi, Suranga Ratnayake, Gerard Victoria and Nalaka Amaratunga
-
-The 25th Annual General Meeting (AGM) of the Sri Lanka – Germany Business Council (SLGBC) was held recently at Hilton Colombo Residences, Colombo 2.
-
-The Chief Guest, Federal Republic of Germany Ambassador Dr. Felix Neumann highlighted the enduring partnership between the two countries.
-
-...
-
-[Data](articles/9fa8953c.json)
-
----
-
-### Imran Furkan joins Odel Board
-
-*2025-01-08 05:46:54* · [`dailyftlk`](https://www.ft.lk/business/Imran-Furkan-joins-Odel-Board/34-771535) · `en`
-
-Young professional Imran Furkan has been appointed to the Board of Odel PLC as an Independent Non-Executive Director.
-
-Imran is a Fellow of CPA Australia, CIMA UK, has an MBA from Australia, and a BA (Hons) Sustainable Performance Management from the UK.
-
-He advises Boards and CEOs on strategy, market expansion as well as geopolitical, economic, climate and technology risk management.
-
-He is currently serving as CEO of Tresync, Australia. Imran is passionate about one thing – fostering collaboration. Connecting people and businesses together, fostering industry partnerships, and advising on macro socio-economic technological strategy. This is evidenced by his achievements in senior management and board directorship roles in industries such as Finance, Food, Regulatory and Industry Bodies, IT/GBS, Education, Commodities, Media, and Professional Services in the Asia-Pacific region.
-
-...
-
-[Data](articles/ec1cda80.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 08:06:01**
+As of **2025-01-08 08:26:38**
 
 ## Newspaper Stats
 
-*Scraped **64,271** Articles*
+*Scraped **64,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,494
 dailymirrorlk | 4,733
 adalk | 6,144
 adaderanalk | 7,869
-tamilmirrorlk | 9,218
+tamilmirrorlk | 9,219
 virakesarilk | 10,729
 adaderanasinhalalk | 11,095
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,271 articles have been extended.
+61,971 (96.4%) of 64,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### வெள்ள நீரில் மூழ்கி ஒருவர் உயிரிழப்பு
+
+*2025-01-08 08:19:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-நீரில்-மூழ்கி-ஒருவர்-உயிரிழப்பு/175-349956) · `ta`
+
+கிளிநொச்சி, முகமாலைப் பகுதியில் வீதியில் தேங்கிக் காணப்பட்ட வெள்ள நீரில் மூழ்கி ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த  நபர் முகமாலை வடக்கு பகுதியில் ஆட்கள் நடமாட்டம் குறைந்த வீதியால் பயணித்தபோது வீதியில் தேங்கிக் காணப்பட்ட வெள்ள நீரில் வீழ்ந்து உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/a6fa72ac.json)
+
+---
 
 ### இன்று இடியுடன் கூடிய மழை
 
@@ -1797,17 +1811,5 @@ automatically upon 30 days after shipment of kit to the customer. If a customer 
 ◼️
 
 [Data](articles/8459ec95.json)
-
----
-
-### ලංකාවේ කුකුළු මස් චීන වෙළඳපොළට
-
-*2025-01-07 15:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-කුකුළු-මස්-චීන-වෙළඳපොළට/11-414061) · `si`
-
-ලංකාවේ කුකුළු මස් චීනයට අපනයනය කිරීමට අදාළ ක්‍රියාපටිපාටිය සම්බන්ධයෙන් වූ ගිවිසුම අත්සන් කිරිමට කැබිනට් අනුමැතිය ලැබී තිබේ.
-
-◼️
-
-[Data](articles/b279a2db.json)
 
 ---

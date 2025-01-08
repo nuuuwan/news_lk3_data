@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 10:15:56**
+As of **2025-01-08 10:28:19**
 
 ## Newspaper Stats
 
-*Scraped **64,294** Articles*
+*Scraped **64,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 4,494
 dailymirrorlk | 4,733
 adalk | 6,148
 adaderanalk | 7,871
-tamilmirrorlk | 9,224
+tamilmirrorlk | 9,225
 virakesarilk | 10,731
 adaderanasinhalalk | 11,102
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 11,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,294 articles have been extended.
+61,971 (96.4%) of 64,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### சாரதி மீது தாக்குதல்: நால்வர் கைது
+
+*2025-01-08 10:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சாரதி-மீது-தாக்குதல்-நால்வர்-கைது/76-349966) · `ta`
+
+ஹட்டனில் இருந்து மஸ்கெலியா- சாமிமலை நோக்கி பயணித்த தனியார் பஸ்ஸின் குறுக்கே சென்று பஸ்ஸின் சாரதியை தாக்கிய நான்கு இளைஞர்கள் சந்தேகத்தின் பேரில் செவ்வாய்க்கிழமை (07) பிற்பகல் கைது செய்யப்பட்டதாக நோர்வூட் பொலிஸ் நிலையப் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் ஆர்.எம்.எஸ்.பி.ராஜநாயக்க தெரிவித்தார்.
+
+இரண்டு முச்சக்கரவண்டிகள் மற்றும் இரண்டு மோட்டார் சைக்கிள்கள் கொண்ட குழுவொன்று செவ்வாய்க்கிழமை (07) மாலை 5  மணியளவில் ஹட்டன் நோர்வூட் பிரதான வீதியில் நோர்வூட் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில்  பஸ்ஸைப் பின்தொடர்ந்து முச்சக்கர வண்டி மற்றும் மோட்டார் சைக்கிள் பஸ்ஸைக் கடந்து சென்று வீதியின் குறுக்கே நிறுத்தி, சாரதியின் மீது தாக்குதல் நடத்தியுள்ளனர்.
+
+​​குறித்த முச்சக்கரவண்டி தனியார் பஸ்ஸுடன், திங்கட்கிழமை (06) மோதியதற்கே பதில் தாக்குதல் நடத்தப்பட்டதாக விசாரணைகளை மேற்கொண்டு வரும் நோர்வூட் பொலிஸார் தெரிவித்தனர் .
+
+...
+
+[Data](articles/bbc2453c.json)
+
+---
 
 ### குருக்கள் மீது தாக்குதல்
 
@@ -1767,23 +1783,5 @@ There was a net foreign outflow of 44.3 million rupees for the day.
 ...
 
 [Data](articles/6409adc2.json)
-
----
-
-### Sri Lanka Cabinet approves China-related proposals ahead of President’s Beijing visit
-
-*2025-01-07 16:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approves-china-related-proposals-ahead-of-presidents-beijing-visit-198492/) · `en`
-
-ECONOMYNEXT – Sri Lanka Cabinet of Ministers approved a number of proposals related to China this week, an official government document showed, ahead of President Anura Kumara Dissanayake’s official visit to Beijing next week.
-
-President Dissanayake will visit Beijing on the invitation of Chinese leader Xi Jinping where he will meet the top leaders of the World’s second largest economy’s government.
-
-Cabinet Spokesman Nalinda Bandara said the President will be accompanied by Foreign Minister Vijitha Herath and Minister of Transport, Highways, Ports and Civil Aviation Bimal Rathnayake.
-
-At the Cabinet meeting held on Monday, President Dissanayake’s ruling National’s People Power administration decided to approve some proposals including reaffirming ‘One China’ policy, which recognises Taiwan as a breakaway province of China and to be unified with the mainland one day.
-
-...
-
-[Data](articles/b882f5b3.json)
 
 ---

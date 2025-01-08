@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 14:29:10**
+As of **2025-01-08 14:45:34**
 
 ## Newspaper Stats
 
-*Scraped **64,338** Articles*
+*Scraped **64,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,914
 islandlk | 3,929
-dailyftlk | 4,494
+dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,156
+adalk | 6,157
 adaderanalk | 7,881
-tamilmirrorlk | 9,234
+tamilmirrorlk | 9,235
 virakesarilk | 10,738
 adaderanasinhalalk | 11,110
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 11,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,338 articles have been extended.
+61,971 (96.3%) of 64,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### President appoints new High Commissioner and four Ambassadors
+
+*2025-01-08 14:34:40* · [`dailyftlk`](https://www.ft.lk/news/President-appoints-new-High-Commissioner-and-four-Ambassadors/56-771576) · `en`
+
+New diplomats urged to promote image of country on international arena
+
+Calls for strengthening bilateral ties and enhancing migrant worker welfare
+
+President Anura Kumara Disanayake yesterday appointed a High Commissioner and four Ambassadors to serve in Sri Lanka’s diplomatic service.
+
+The newly appointed representatives include: Ambassador-designate to Qatar R.S. Khan Azard, High Commissioner-designate for New Zealand W.G.S. Prasanna, Ambassador-designate for Russia S.K. Gunasekera, Ambassador-designate for Kuwait L.P. Ratnayaka, and Ambassador-designate for Egypt A. S. K. Seneviratne.
+
+The newly designated diplomats also engaged in a brief discussion with the President following the appointments.
+
+President Disanayake expressed his confidence in the newly appointed diplomats, emphasising the importance of their roles in strengthening Sri Lanka’s bilateral ties and fostering mutual cooperation with the respective nations.
+
+...
+
+[Data](articles/8b5f3202.json)
+
+---
+
+### வட்டவான் தொல்லியல் நிலையத்துக்கு எதிர்ப்பு
+
+*2025-01-08 14:27:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வட்டவான்-தொல்லியல்-நிலையத்துக்கு-எதிர்ப்பு/75-349991) · `ta`
+
+திருகோணமலை,வெருகல் பிரதேச செயலகப்பிரிவின் வட்டவான் பகுதியில்,திங்களன்று(06)திடீரென தொல்லியல் திணைக்களத்தால் நடப்பட்ட " வட்டவான் தொல்லியல் நிலையம்" என்ற பெயர் பலகைக்கு ஆட்சேபம் தெரிவித்து,வெருகல் பிரதேச செயலகத்தின் முன்பாக புதன்கிழமை(08) பொதுமக்களால் ஆர்ப்பாட்டம் நடத்தப்பட்டது.
+
+வெருகல் பிரதேச செயலக பிரிவின்,திருகோணமலை-மட்டக்களப்பு பிரதான வீதியில் அமைந்துள்ள வட்டவான் பிரதேசத்திற்கு ஒரு கிலோ மீற்றர் தூரத்தில் உள்ள மலைப்பகுதி இவ்வாறு திடீர் என தொல்லியல் பகுதியாக பெயரிடப்பட்டுள்ளது.
+
+இவ் மலைப்பகுதியை சூழவுள்ள 160 ஏக்கர் நிலத்தில்,164 குடும்பங்களை சேர்ந்த விவசாயிகள் நீண்ட காலமாக பயிர்செய்கையில் ஈடுபட்டு வருகின்றனர்.
+
+கடந்த காலங்களில் தொல்லியல் பகுதியாக அடையாளப்படுத்தப்பட்ட இடங்களில் புத்தர் சிலைகள் நிறுவப்பட்டு,பொது மக்களின் விவசாய நிலங்கள் விகாரைகளுக்கு உரியது என்று சர்சைகள் ஏற்படுத்தப்பட்டது.இவ்வாறு இங்கும் தமது விவசாய நிலங்கள் அபகரிக்கப்படலாம் என பிரதேச மக்கள் கருதுகின்றனர்.
+
+◼️
+
+[Data](articles/d164ef1e.json)
+
+---
 
 ### “Gem Sri Lanka – 2025”  ஆரம்பம்
 
@@ -739,6 +779,24 @@ Accordingly, the Director of the Telecommunications Commission, Mrs. H.P.M. Path
 ◼️
 
 [Data](articles/80be53f9.json)
+
+---
+
+### ඉන්දිය අගමැති මේ වසරේදි ලංකාවේ සංචාරයකට
+
+*2025-01-08 08:44:06* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දිය-අගමැති-මේ-වසරේදි-ලංකාවේ-සංචාරයකට/11-414079) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා මේ වසරේදි ශ්‍රී ලංකාවේ සංචාරය කරනු ඇතැයි ශ්‍රි ලංකාවේ ඉන්දිය මහ කොමසාරිස් කාර්යාලය ඳසහන් කරයි.
+
+ඒ් වෙනුවෙන් වූ කටයූතු මේ වන විට සැලසුම් කරමින් පවතින බවද මහ කොමසාරිස් කාර්යාලය  පවසයි.
+
+ජනපති අනුර කුමාර දිසානායක මහතාගේ ඉන්දිය සංචාරයේදි නරේන්ද්‍ර මෝදි මහතාට ශ්‍රි ලංකාවේ සංචාරයක නිරත වන ලෙස ආරාධනා කළේය.
+
+නරේන්ද්‍ර මෝදි මහතා අවස්ථා දෙකකදි ශ්‍රි ලංකවේ සංචාරයක නිරත වි තිබේ. ඒ් 2015 වසරේදි හා 2017 වසරේදිය.
+
+◼️
+
+[Data](articles/9f8327ad.json)
 
 ---
 
@@ -1675,61 +1733,5 @@ Writing a letter to President Anura Kumara Dissanayeke, Bathiudeen has stated th
 ...
 
 [Data](articles/958cffa5.json)
-
----
-
-### When Tycoons Hold the Reins
-
-*2025-01-08 01:08:00* · [`islandlk`](http://island.lk/when-tycoons-hold-the-reins/) · `en`
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/b0eade45.json)
-
----
-
-### ஜப்பானிடமிருந்து நிதி, தொழில்நுட்ப உதவிகள்
-
-*2025-01-08 01:06:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பானிடமிருந்து-நிதி-தொழில்நுட்ப-உதவிகள்/175-349953) · `ta`
-
-ஜய்கா எனப்படும் ஜப்பான் சர்வதேச ஒத்துழைப்பு முகவரகம் இலங்கைக்கான தங்களது நிதி மற்றும் தொழில்நுட்ப உதவிகளை இடையூறு இல்லாமல் தொடர்ந்து மேற்கொள்ளும் என அதன் சிரேஷ்ட துணைத் தலைவர் ஹரா ஷொஹெய் தெரிவித்துள்ளார்.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்கவுடன் ஜனாதிபதி செயலகத்தில் நேற்று இடம்பெற்ற சந்திப்பின்போதே அவர் இந்த உறுதிமொழியை வழங்கியுள்ளார்.
-
-கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் ஜப்பானிய உதவியின் கீழ் மேற்கொள்ளப்பட்டு வரும் அபிவிருத்திப் பணிகள் தொடர்பில் அவதானம் இதன்போது, செலுத்தப்பட்டுள்ளது.
-
-ஜய்காவின் ஆதரவின் கீழ் இலங்கையில் ஆரம்பிக்கப்பட்டுள்ள அனைத்து திட்டங்களும் துரிதப்படுத்தப்பட்டு வினைத்திறனுடன் நிறைவு செய்யத் திட்டமிடப்பட்டுள்ளதாகவும் இதன்போது சுட்டிக்காட்டப்பட்டது.
-
-அதேநேரம், நாட்டின் கடன் மறுசீரமைப்பு செயல்பாட்டின் போது வழங்கப்பட்ட உதவிகளைப் போன்று, எதிர்காலத்தில் இலங்கைக்கு நிதி உதவிகளை வழங்குவதற்கான ஜய்காவின் உறுதிப்பாட்டை அதன் சிரேஷ்ட துணைத் தலைவர் ஹரா ஷொஹெய் வலியுறுத்தியுள்ளார்.
-
-...
-
-[Data](articles/13813dbf.json)
-
----
-
-### தொடரை சமப்படுத்தும் குறிக்கோளுடன் நியூஸிலாந்தை இலங்கை சந்திக்கவுள்ளது
-
-*2025-01-08 00:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/203267) · `ta`
-
-இலங்கைக்கும் நியூஸிலாந்துக்கும் இடையிலான 2ஆவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி ஹெமில்டன் செடொன் பார்க் விளையாட்டரங்கில் நாளை புதன்கிழமை நடைபெறவுள்ளது.
-
-இப் போட்டி இலங்கை நேரப்படி காலை 6.30 மணிக்கு ஆரம்பமாகவுள்ளதுடன் நியூஸிலாந்தில் பகல் இரவு போட்டியாக நடைபெறவுள்ளது.
-
-மூன்று போட்டிகள் கொண்ட தொடரில் வெலிங்டனில் நடைபெற்ற முதலாவது போட்டியில் 9 விக்கெட்களால் வெற்றியீட்டிய நியூஸிலாந்து  இன்றைய போட்டியிலும் வெற்றிபெற்று தொடரைக் கைப்பற்ற முயற்சிக்கவுள்ளது.
-
-மறுபுறத்தில் முதலாவது போட்டியில் மோசமான துடுப்பாட்டத்தால் தோல்வி அடைந்த இலங்கை, இந்தப் போட்டியில் முழுத் திறமையுடன் விளையாடி வெற்றிபெற்று தொடரை சமப்படுத்த கங்கணம் பூண்டுள்ளது.
-
-முதலாவது துடுப்பாட்டத்தில் கோட்டைவிட்ட இலங்கையின் முன்வரிசை வீரர்கள் இப் போட்டியில் மிகவும் நிதானத்துடனும் பொறுப்புணர்வுடனும் துடுப்பெடுத்தாடி அணியை வெற்றி அடையச் செய்வார்கள் என எதிர்பார்க்கப்படுகிறது.
-
-ஆரம்பப் போட்டியில் மெட் ஹென்றியின் பந்துவீச்சில் பெத்தும் நிஸ்ஸன்க ஆட்டம் இழந்ததும் அவரைத் தொடர்ந்து மேலும் 3 விக்கெட்கள் குறைந்த ஓட்டங்களுக்கு சரிந்தன.
-
-...
-
-[Data](articles/2c62c406.json)
 
 ---

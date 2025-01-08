@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 11:14:58**
+As of **2025-01-08 11:27:56**
 
 ## Newspaper Stats
 
-*Scraped **64,303** Articles*
+*Scraped **64,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 3,914
 islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
-adalk | 6,149
+adalk | 6,150
 adaderanalk | 7,871
-tamilmirrorlk | 9,227
+tamilmirrorlk | 9,228
 virakesarilk | 10,736
 adaderanasinhalalk | 11,102
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 11,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.4%) of 64,303 articles have been extended.
+61,971 (96.4%) of 64,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### புலமைப்பரிசில் விடைத்தாள் மதிப்பீடு இன்று ஆரம்பம்
+
+*2025-01-08 11:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விடைத்தாள்-மதிப்பீடு-இன்று-ஆரம்பம்/175-349975) · `ta`
+
+2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் விடைத்தாள் மதிப்பீடு இன்று (08) ஆரம்பமாகவுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+மதிப்பீடுகள் நிறைவடைந்த 40 நாட்களுக்குள் பெறுபேறுகளை வெளியிட தீர்மானிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+2024 ஆம் ஆண்டுக்கான தரம் ஐந்து புலமைப்பரிசில் பரீட்சை செப்டம்பர் 15 ஆம் திகதி நடைபெற்றது.
+
+244,092 சிங்கள மொழி மூலமும் 79,787 தமிழ் மொழி மூலமும் உட்பட மொத்தம் 323,879 மாணவர்கள் பரீட்சைக்கு பதிவு செய்திருந்தனர்.
+
+◼️
+
+[Data](articles/a6d60d31.json)
+
+---
 
 ### ஜனாதிபதி அவர்களே எங்கள் குடும்பம் நீதியை எதிர்பாக்கின்றது- லால்விக்கிரமதுங்க
 
@@ -1765,25 +1783,5 @@ Dissanayake is due to visit China soon.  The Cabinet Spokesman announced today 
 ...
 
 [Data](articles/664482d6.json)
-
----
-
-### 90% of compensation for 2024 ‘Yala’ season released
-
-*2025-01-07 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/104808/90-of-compensation-for-2024-yala-season-released) · `en`
-
-The Agricultural and Agrarian Insurance Board says that around 90% of the compensation payments for the crop damage in the 2024 ‘Yala’ season have been disbursed.
-
-Chairman of the board, Pemasiri Jasingarachchi, stated that the compensation due to the eligible farmers is being credited directly to their bank accounts.
-
-As of now, Rs. 100 million has been allocated as compensation for a total of 6,459 farmers, covering 5,246 acres of crop damage.
-
-Jasingarachchi further noted that farmers whose compensation has not yet been credited, despite their payments being officially recommended, are encouraged to submit appeals.
-
-Efforts are also underway to release compensation payments in districts where the process remains incomplete, ensuring all eligible farmers receive their dues promptly, he said.
-
-◼️
-
-[Data](articles/4086b166.json)
 
 ---

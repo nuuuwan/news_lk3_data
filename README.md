@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 12:29:05**
+As of **2025-01-08 12:44:13**
 
 ## Newspaper Stats
 
-*Scraped **64,330** Articles*
+*Scraped **64,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,914
 islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
-adalk | 6,151
+adalk | 6,153
 adaderanalk | 7,881
 tamilmirrorlk | 9,232
 virakesarilk | 10,738
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,330 articles have been extended.
+61,971 (96.3%) of 64,332 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -845,6 +845,32 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/7fffd907.json)
+
+---
+
+### පොලීසියේ ඉහළ පුටු 11ක වෙනසක්
+
+*2025-01-08 08:06:38* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ඉහළ-පුටු-11ක-වෙනසක්/11-414077) · `si`
+
+ජාතික පොලිස් කොමිෂන් සභාවේ අනුමැතිය අනුව ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරුන් 11 දෙනෙකුට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවිම් ලබාදිමට පොලිස් මූලස්ථානය කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/fb424e65.json)
+
+---
+
+### පළාත් පාලන ඡන්ද විමසීම අලුතින් පැවැත්වීමට අදාළ පනත් කෙටුම්පත ගැසට් කරයි
+
+*2025-01-08 07:59:54* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-ඡන්ද-විමසීම-අලුතින්-පැවැත්වීමට-අදාළ-පනත්-කෙටුම්පත-ගැසට්-කරයි/11-414076) · `si`
+
+ඡන්ද විමසීම 2023.03.09 දින  කැඳවනු ලැබ එදින පැවැත්වීමට නොහැකිවූ  සහ කල්තබා ඇති ඇතැම් පළාත් පාලන ආයතන සම්බන්ධයෙන් අලුතින් නාම යෝජනා කැඳවා  අලුතින් ඡන්ද විමසීම පැවැත්වීමට විධිවිධාන සැළැස්වීමට අදාළ 2024 පළාත් පාලන ආයතන ඡන්ද විමසීම (විශේෂ විධිවිධාන )පනත සඳහාවූ පනත්  කෙටුම්පත රාජ්‍ය පරිපාලන ,පළාත් සභා සහ පළාත් පාලන අමාත්‍යාංශය මගින් ගැසට් නිවේදනයක් මගින් ප්‍රකාශයට පත්කර ඇත.
+
+2024 ඡන්ද හිමි නාම ලේඛනයේ ලියාපදිංචි තැනැත්තන්ට අලුතින් ඡන්ද විමසීමේදී  ඡන්ද පාවිච්චි කිරීමේ  සහ නාම යෝජනා ඉදිරිපත් කිරීමේ අයිතිය ලබාදීමට මෙන්ම තරුණ අපේක්ෂකයන්ට නාම යෝජනා සිදුකිරීමට විධිවිධාන සැලැස්වීමට අවශ්‍ය වී ඇති හෙයින් මෙම පනත් කෙටුම්පත සකස් කර ඇති   බව මෙම  මස 01 දිනෙන් නිකුත් කර ඇති මෙම ගැසට් නිවේදනයේ සඳහන්වේ.
+
+...
+
+[Data](articles/511f787c.json)
 
 ---
 
@@ -1709,47 +1735,5 @@ Thereafter, Ministry officials including Secretary to the Ministry of Finance, M
 ...
 
 [Data](articles/62f02d9d.json)
-
----
-
-### පේපරේ පිටවී විභාගයක් කල් දමයි
-
-*2025-01-07 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205142) · `si`
-
-උතුරු මැද පළාත් පාසල්වල 11 වැනි ශ්‍රේණියේ 03 වැනි වාර පරීක්ෂණ විභාගය දින නියමයක් නොමැතිව කල්දැමීමට පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව පියවර ගෙන තිබේ.
-
-ඒ, වාර විභාගයේ එම ශ්‍රේණියේ අද (07) සහ හෙට (08) පැවැත්වීමට නියමිත විද්‍යාව සහ ඉංග්‍රීසි විභාග ප්‍රශ්න පත්‍ර ද පිටවී ඇතැයි හෙළිවීමත් සමඟය.
-
-පාසල්වල 2024 තෙවන වාර පරීක්ෂණ පළාත් මට්ටමින් මේ දිනවල පැවැත්වෙන අතර එවන් පසුබිමක උතුරු මැද පළාතේ පාසල් දරුවන් සඳහා ලබාදීමට නියමිත වූ ප්‍රශ්න පත්‍රයක් විභාගයට පෙර පිටවීමේ සිදුවීමක් ඊයේ (06) වාර්තා වුණි.
-
-එලෙස ඊයේ දිනට යෙදී තිබුණු 11 ශ්‍රේණිය සිංහල සාහිත්‍ය ප්‍රශ්න පත්‍රය සමාජ මාධ්‍ය හරහා පිටවී ඇති බවට තොරතුරක් ලැබී තිබුණේ පෙරේදා (05) මධ්‍යම රාත්‍රියේ ය.
-
-ඒ අනුව එම ප්‍රශ්න පත්‍රය අවලංගු කිරීමට උතුරු මැද පළාත් අධ්‍යාපන දෙපාර්තමේන්තුව ඊයේ පියවර ගත් අතර දරුවන්ට යළි නිවෙස් කරා යාමට සිදුවුණි.
-
-...
-
-[Data](articles/1bcacdd0.json)
-
----
-
-### More details emerge about Mount Lavinia shooting that killed 2
-
-*2025-01-07 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/104812/more-details-emerge-about-mount-lavinia-shooting-that-killed-2) · `en`
-
-Two individuals were killed in a shooting incident early this morning (07) on Watarappala Road, Mount Lavinia, which had been carried out by two unidentified gunmen.
-
-According to police, the gunmen had arrived at a residence on a motorcycle around 4:25 a.m. and opened fire using a 9mm pistol and a homemade ‘Galkatas’ handgun.
-
-The victims have been identified as Sudath Gomes alias Mano, 36, who died on the spot, and Chanaka Vimukthi alias Sandun, 20, who succumbed to his injuries after being admitted to the Colombo South Teaching Hospital, Kalubowila.
-
-The identity of the two gunmen who fled the scene after the shooting has not yet been determined.
-
-Police suspect the incident is tied to a longstanding feud between two drug traffickers infamously knowns as ‘Badowita Asanka’ and ‘Kosmalli’, both who are believed to be operating from overseas.
-
-Police allege that the attack was carried out by associates of ‘Kosmalli’, as the two victims had connections with drug trafficker ‘Badowita Asanka’.
-
-...
-
-[Data](articles/09ea2e79.json)
 
 ---

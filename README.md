@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 06:14:41**
+As of **2025-01-08 06:49:18**
 
 ## Newspaper Stats
 
-*Scraped **64,251** Articles*
+*Scraped **64,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 469
 colombotelegraphcom | 643
 bbccomsinhala | 672
 economynextcom | 3,912
-islandlk | 3,926
-dailyftlk | 4,482
+islandlk | 3,928
+dailyftlk | 4,493
 dailymirrorlk | 4,733
 adalk | 6,142
 adaderanalk | 7,869
-tamilmirrorlk | 9,216
+tamilmirrorlk | 9,217
 virakesarilk | 10,729
 adaderanasinhalalk | 11,095
 
@@ -26,11 +26,223 @@ adaderanasinhalalk | 11,095
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.5%) of 64,251 articles have been extended.
+61,971 (96.4%) of 64,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### Sri Lanka participates in World Furniture Expo 2024 in Mumbai
+
+*2025-01-08 06:37:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-in-World-Furniture-Expo-2024-in-Mumbai/34-771561) · `en`
+
+The Consulate General of Sri Lanka in Mumbai facilitated the participation of Sri Lanka in the World Furniture Expo (WOFX) 2024 from 5 to 7 December 2024 at the Bombay Exhibition Centre.
+
+Acting Consul General of Sri Lanka in Mumbai Shirani Ariyarathne attended the event as one of the special guests of the opening ceremony of the Expo.
+
+The WOFX is an international furniture and design expo, showcasing the global and domestic furniture industry. Over 200 exhibitors from India and other countries showcased their latest contemporary and luxury furniture collections.
+
+Acting Consul General Ariyarathne participated in the inaugural ceremony and a VIP tour which provided an exclusive overview of the exhibits. She engaged in discussions with prominent importers and exporters, trade body representatives, and industry experts.
+
+...
+
+[Data](articles/8e3dd1de.json)
+
+---
+
+### SLT-Mobitel completes historic SEA-ME-WE 6 submarine cable landing in Matara
+
+*2025-01-08 06:18:31* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-completes-historic-SEA-ME-WE-6-submarine-cable-landing-in-Matara/34-771550) · `en`
+
+SLT-Mobitel said yesterday it has successfully landed the SEA-ME-WE 6 (Southeast Asia-Middle East-Western Europe 6) submarine cable in Matara, on 29 December 2024, achieving a historic breakthrough in Sri Lanka’s telecommunications infrastructure.
+
+The cable system will be in commercial operation by mid-2026, it added.
+
+The Matara landing was completed in collaboration with Subcom LLC, USA, and under an agreement with SEA-ME-WE 6 Consortium including Sri Lanka Telecom PLC, as the legal signatory to the consortium, further strengthening Sri Lanka’s position in global connectivity.
+
+The landing operation was overseen by key SLT-Mobitel officials including SLT Chief Operating Officer Prabhath Ambegoda, General Manager – Projects Nalaka Siriwardhana, General Manager – Transport Networks Buddhi Manage, and Deputy General Manager – Network Infrastructure Projects Rohan Ashton and the SLT Operational Team.
+
+...
+
+[Data](articles/e7090692.json)
+
+---
+
+### Cable Solutions awarded Certificate of Ethical Trading by National Chamber of Exporters
+
+*2025-01-08 06:16:11* · [`dailyftlk`](https://www.ft.lk/business/Cable-Solutions-awarded-Certificate-of-Ethical-Trading-by-National-Chamber-of-Exporters/34-771549) · `en`
+
+Cable Solutions PLC, a prominent player in the cable manufacturing industry, specialising in a wide array of engineering solutions such as standard cables, customised cables and cable harnesses, has announced receipt of the prestigious Certificate of Ethical Trading by the National Chamber of Exporters of Sri Lanka (NCE).
+
+This distinguished recognition underscores the company’s unwavering commitment to ethical business practices, sustainability, and corporate social responsibility.
+
+...
+
+[Data](articles/bb335c41.json)
+
+---
+
+### Lanka Walltiles announces three new Directors on Board
+
+*2025-01-08 06:15:55* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Walltiles-announces-three-new-Directors-on-Board/34-771548) · `en`
+
+Lanka Walltiles PLC has announced the appointment of three additions to its Board of Directors.
+
+Yogadinusha Bhaskaran has been appointed as Non-Executive Director and Dinesh Mendis and Naomal Pelpola as Independent Non-Executive Directors.
+
+Dinusha Bhaskarar is a financial and accounting professional with over 20 years of experience, who currently, serves as the Managing Director of Vallibel One PLC and Executive Director of Delmege Ltd.
+
+ln addition, she presently serves in the capacity of Non-Executive Director on the Boards of LB Finance PLC, Vallibel Power Erathne PLC, Country Energy Ltd., and as a Member of the LB Finance Audit Committee. She is also the Chairperson/Director of Greener Water Ltd.
+
+Bhaskaran has previously worked as a Financial Controller with several Australian companies in Melbourne for a number of years and was the Assistant General Manager (Finance and Planning) at Pan Asia Banking Corporation PLC.
+
+...
+
+[Data](articles/269c67b0.json)
+
+---
+
+### Japan reassures financial and technical assistance to Sri Lanka
+
+*2025-01-08 06:15:14* · [`dailyftlk`](https://www.ft.lk/news/Japan-reassures-financial-and-technical-assistance-to-Sri-Lanka/56-771547) · `en`
+
+During meeting attention drawn to expedite ongoing development work at Bandaranaike International Airport
+
+The Japan International Cooperation Agency (JICA) yesterday reassured Sri Lanka of continuous financial and technical assistance without interruption. This was conveyed when Japan International Cooperation Agency (JICA) Senior Vice President Hara Shohei paid a courtesy call on President Anura Kumara Dissanayake.
+
+During the discussion, attention was drawn to the ongoing development work at the Bandaranaike International Airport in Katunayake, which is being carried out under Japanese aid.
+
+It was highlighted that all projects initiated in Sri Lanka under JICA support are planned to be expedited and completed efficiently. Hara Shohei also reaffirmed JICA’s commitment to extending financial support to Sri Lanka in the future, similar to the assistance provided during the country’s debt restructuring process.
+
+...
+
+[Data](articles/ce77b5b0.json)
+
+---
+
+### Heavy profit-takings plunge bourse into storm of volatility
+
+*2025-01-08 06:14:00* · [`islandlk`](http://island.lk/heavy-profit-takings-plunge-bourse-into-storm-of-volatility/) · `en`
+
+The CSE was yesterday highly volatile due to heavy profit- takings in the market following bull-runs lasting several weeks, market analysts said.Amid those developments both indices moved downwards. The All Share Price Index went down by 23.96 points, while S and P SL20 went down by 2.73 points.
+
+Turnover stood at Rs 4.5 billion with seven crossings. Those crossings were reported in Nation Finance, where 500 million shares crossed to the tune of Rs 100 million; its shares traded at 40 Cents. Amana Bank 4 million shares crossed for Rs 102 million; its shares traded at Rs 25.50, JKH 4 million shares crossed to the tune of Rs 95.7 million; its shares traded at Rs 23.90.
+
+...
+
+[Data](articles/6afc4ef1.json)
+
+---
+
+### AIA Sri Lanka welcomes Biswa Prakash Misra as new chairman
+
+*2025-01-08 06:14:00* · [`islandlk`](http://island.lk/aia-sri-lanka-welcomes-biswa-prakash-misra-as-new-chairman/) · `en`
+
+AIA Sri Lanka is pleased to announce the appointment of Biswa Prakash Misra as the new Chairman of the Board of Directors, effective January 2025 – subject to approval of the Insurance Regulatory Commission of Sri Lanka.
+
+Biswa brings a wealth of experience and expertise to this role, having been a member of AIA Group’s leadership team since 2013. As part of the AIA Group Executive Committee, he is the Group Chief Technology Officer and Life Operations Officer. Biswa is also responsible for the Group’s business operating in New Zealand and a director of various companies within the Group. A seasoned technology professional with a deep understanding of the insurance industry, he has demonstrated strong leadership in driving technology, digital and analytics transformation and operational excellence across the Group.
+
+‘Local gem and jewellery industry at a critical juncture; its potential going untapped’
+
+...
+
+[Data](articles/7efe7a64.json)
+
+---
+
+### Finance Ministry reviews progress of National Single Window
+
+*2025-01-08 06:13:39* · [`dailyftlk`](https://www.ft.lk/news/Finance-Ministry-reviews-progress-of-National-Single-Window/56-771546) · `en`
+
+To ensure efficient facilitation of services required by the exporters and importers of raw material for local industries, the Government has recognised the importance of the Single Window facilitation.
+
+During a recent meeting to share the progress made in this regard, Deputy Minister Finance Dr. Harshana Suriyapperuma informed the chamber representatives that the Department of Imports and Exports Control has commenced providing the required services online from 1 January 2025. Further it was noted that Sri Lanka Standard Institution was already providing online services required by exporters and importers.
+
+...
+
+[Data](articles/b0d8972d.json)
+
+---
+
+### Sri Lanka and Vietnam to strengthen Customs cooperation with new agreement
+
+*2025-01-08 06:12:41* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Vietnam-to-strengthen-Customs-cooperation-with-new-agreement/56-771545) · `en`
+
+After significant delays, Sri Lanka and Vietnam are set to finalise a long-awaited agreement aimed at enhancing cooperation and mutual support in customs affairs.
+
+The move approved by the Cabinet Ministers on Monday, aims to streamline cross-border trade in areas such as reducing the costs of trade transactions between the two countries, ensuring accurate calculation and collection of border taxes, preventing the transfer of restricted goods and enforcing limitations and regulations more effectively.
+
+Originally approved by the Cabinet on 23 November 2021, the agreement has since awaited finalisation despite receiving clearance from the Attorney General and agreement by both nations.
+
+“By signing this agreement, it is anticipated to pave the way for stronger trade relations and mutual economic benefits in the years to come,” Cabinet Spokesman and Minister Dr. Nalinda Jayatissa said at the weekly post-Cabinet meeting media briefing yesterday.
+
+◼️
+
+[Data](articles/82082105.json)
+
+---
+
+### Ceylex Engineering gets Anuradhapura-New Habarana 220 KV transmission line contract
+
+*2025-01-08 06:12:13* · [`dailyftlk`](https://www.ft.lk/news/Ceylex-Engineering-gets-Anuradhapura-New-Habarana-220-KV-transmission-line-contract/56-771544) · `en`
+
+Ceylex Engineering Ltd., has been awarded the contract for civil works, tower construction and laying wires for the development of the new Anuradhapura-New Habarana 220 KV transmission line of 45 km under 4A of the Power System Reliability Empowerment Project.
+
+The Cabinet of Ministers on Monday approved the proposal by the Power and Energy Minister to award the contract after international bids were called to award the contract to the said firm.
+
+Cabinet Spokesman and Minister Dr. Nalinda Jayatissa yesterday said from the two bids submitted for the purpose, Ceylex Engineering Ltd., was the substantially responsive lowest bidder based on the recommendations of the Technical Appraisal Committee and the standing procurement committees appointed by the Cabinet of Ministers.
+
+◼️
+
+[Data](articles/6203cef1.json)
+
+---
+
+### Cabinet nod to extend stationary allowance for non-Aswesuma beneficiary students via voucher
+
+*2025-01-08 06:10:53* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-extend-stationary-allowance-for-non-Aswesuma-beneficiary-students-via-voucher/56-771543) · `en`
+
+Recognising the need to include vulnerable groups not identified under the Aswesuma, the Cabinet of Ministers on Monday approved a broader distribution plan to arrange stationery allowance in the form of a voucher.
+
+The move comes amid absence of an updated database to identify eligible students from non-Aswesuma families.
+
+Under the latest arrangement, the stationary allowance will be provided as a voucher to students attending 6,576 schools with less than 300 students of the total 10,096 schools countrywide, children living in child development centres as well as lay and clergy students in Pirivena and education institutions.
+
+On 2 December 2024, Cabinet approved to provide a monthly allowance of Rs. 6,000 per child to help families purchase school stationery ahead of the 2025 academic year. This was aimed at minimising the adverse effects of the economic crisis on education and will benefit children of families where the Aswesuma is entitled and other vulnerable groups.
+
+...
+
+[Data](articles/c6dad73e.json)
+
+---
+
+### Govt. to repatriate Sri Lankans illegally staying in South Korea
+
+*2025-01-08 06:10:34* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-repatriate-Sri-Lankans-illegally-staying-in-South-Korea/56-771542) · `en`
+
+The Government is to take immediate actions to repatriate Sri Lankan nationals who are illegally staying in South Korea after their visas expired.
+
+Sri Lanka Bureau of Foreign Employment (SLBFE) Chairman Koshala Wickremasinghe said their details will be forwarded to the Criminal Investigation Department (CID), and legal measures will be enforced.
+
+Wickremasinghe urged individuals with expired visas not to remain in South Korea unlawfully, as the future job quotas for Sri Lankans in the country will depend on the behaviour of those already employed there. He made these comments while presenting air tickets to 96 Sri Lankans departing for South Korea yesterday for employment in the manufacturing sector. They are the first group to leave for jobs in South Korea’s manufacturing sector this year (2025).
+
+...
+
+[Data](articles/1383b23c.json)
+
+---
+
+### Qua Vadis Sri Lanka – where are we heading?
+
+*2025-01-08 06:09:27* · [`dailyftlk`](https://www.ft.lk/columns/Qua-Vadis-Sri-Lanka-where-are-we-heading/4-771541) · `en`
+
+The Government seems to have now realised the winning of election based on attacking previous Governments of the past 76 years was easier than governing the State. They tactically leveraged the momentum of 2022 Aragalaya to their advantage, dropping a load of garbage, filling the ears of masses with anger and hatred, assuring to fulfil the immediate unthinkable promises, pledges, expectations of the public in short term with the change of Government. During the period lapsed since the swearing in of the President the mandate NPP talks about was depleting at a significant rate.
+
+...
+
+[Data](articles/3dfe579e.json)
+
+---
 
 ### BRICS countries’ effort to dedollarisation just wishful thinking
 
@@ -297,6 +509,30 @@ Writing a letter to President Anura Kumara Dissanayeke, Bathiudeen has stated th
 ...
 
 [Data](articles/0dd3218a.json)
+
+---
+
+### பண்டிகை காலத்தில் விசேட ரயில் சேவைகள்
+
+*2025-01-08 01:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகை-காலத்தில்-விசேட-ரயில்-சேவைகள்/175-349954) · `ta`
+
+தைப்பொங்கல் பண்டிகை, சுதந்திர விழா மற்றும் வார இறுதி விடுமுறை நாள்களில் கொழும்பு கோட்டையில் இருந்து பதுளை வரையிலும், கொழும்பு கோட்டையில் இருந்து காங்கேசன்துறை வரையிலும் இந்த விசேட ரயில்கள் இயக்கப்படவுள்ளன.
+
+இந்த வருடத்தின் ஜனவரி மற்றும் பெப்ரவரி மாதங்களில் விசேட ரயில்களை இயக்குவதற்கு இலங்கை ரயில்வே திணைக்களம் திட்டமிட்டுள்ளது.
+
+1) விசேட ரயில் எண். 01 - கொழும்பு கோட்டையில் இருந்து பதுளை வரை
+
+இயங்கும் திகதிகள் - ஜனவரி 10, 12, 14, 17, 19, 24, 26, 31 மற்றும் பிப்ரவரி 02, 04.
+
+இயங்கும் திகதிகள் - ஜனவரி 10, 12, 14, 17, 19, 24, 26, 31 மற்றும் பிப்ரவரி 02, 04.
+
+3) விசேட நகரங்களுக்கு இடையேயான ரயில் சேவை (4021 4022) - கொழும்பு கோட்டை மற்றும் காங்கேசந்துறைக்கு இடையில்
+
+இயங்கும் திகதிகள் - ஜனவரி 10, 13, 14, 15, 17, 20, 24, 27, 31 மற்றும் பிப்ரவரி 03, 04. (a)
+
+◼️
+
+[Data](articles/8ba31178.json)
 
 ---
 
@@ -1575,255 +1811,5 @@ Announcing the Cabinet decisions today (07), Cabinet Spokesman, Minister Dr. Nal
 ...
 
 [Data](articles/4505c8fd.json)
-
----
-
-### රජයෙන් ඉවතලන කඩදාසි වාලච්චේන කඩදාසි කම්හලට
-
-*2025-01-07 15:08:40* · [`adalk`](https://www.ada.lk/breaking_news/රජයෙන්-ඉවතලන-කඩදාසි-වාලච්චේන-කඩදාසි-කම්හලට/11-414060) · `si`
-
-රාජ්‍ය ආයතන වෙතින් ඉවතලන කඩදාසි වාලච්චේන කඩදාසි කම්හල වෙත ලබාදීමට අදාළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ.
-
-වාලච්චේන කඩදාසි කම්හලේ කඩදාසි නිශ්පාදානය අඛණ්ඩව පවත්වාගෙන යාම තහවුරු කර ගැනීම වෙනුවෙන් මෙසේ ඉවත ලන කඩදාසි මෙසේ වාලච්චේන කම්හල වෙත ලබාදීමට නියමිතය.
-
-එම කම්හලේ යන්ත්‍ර දෙකෙන් එක් යන්ත්‍රයක් මේ වන විට ක්‍රියාත්මක වෙයි.
-
-◼️
-
-[Data](articles/bde7768c.json)
-
----
-
-### New District Secretary appointed for Trincomalee
-
-*2025-01-07 15:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/104800/new-district-secretary-appointed-for-trincomalee) · `en`
-
-The Additional Director General of the Department of Fisheries and Aquatic Resources, W.G.M. Hemantha Kumara has been appointed to the post of District Secretary of Trincomalee.
-
-The appointment of Mr. Kumara, a Special Grade Officer of the Sri Lanka Administrative Service, has received the approval of the Cabinet on Monday (06).
-
-The post of District Secretary Trincomalee fell vacant due to the appointment of Chaminda Hettiarachchi, who was the District Secretary of the Trincomalee Administrative District, to the post of Director General of the Department of Pensions with effect from 01 January 2025.
-
-◼️
-
-[Data](articles/f18030b6.json)
-
----
-
-### பதாகையால் பரபரப்பு
-
-*2025-01-07 15:03:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பதாகையால்-பரபரப்பு/73-349921) · `ta`
-
-வெருகல் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட திருகோணமலை – மட்டக்களப்பு பிரதான வீதியின் வட்டவான் பகுதியில் திங்கட்கிழமை (06) மாலை தொல்லியல் திணைக்களத்தினால் நடப்பட்டுள்ள பதாகையால் பெரும் பரபரப்பு ஏற்பட்டுள்ளது.
-
-“1 KM வட்டவான் தொல்லியல் நிலையம்” என குறிப்பிட்டு குறித்த பதாகை நடப்பட்டுள்ளது. இதனால் அப்பகுதி மக்கள் மத்தியில் இது பெரும் பரபரப்பையும், விசனத்தையும் ஏற்பட்டுள்ளது. இது குறித்து தொல்லியல் திணைக்களத்தின் பதாகை எதிர்ப்பு தெரிவித்து மக்கள் ஆர்ப்பாட்டத்தில் ஈடுபடவுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/58da28c1.json)
-
----
-
-### பொறியியலின் அதிசயம்... அடல் சேது பாலம்
-
-*2025-01-07 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/203223) · `ta`
-
-கடந்த வாரம் (29-12-2024)  ஞாயிற்றுக்கிழமை பத்திரிகையில் 'தொழினுட்பத்தில் புரட்சி, வியக்க வைக்கும் இந்தியா" என்ற தலைப்பில் வெளியான கட்டுரையின் தொடர்ச்சியே இது.
-
-இந்தியாவில் புரட்சியை ஏற்படுத்தியுள்ள டிஜிட்டல் பணப் பரிமாற்ற சேவை தொடர்பாக கடந்தவார கட்டுரையில் விரிவாக ஆராயப்பட்டது.
-
-இந்நிலையில் இந்தவாரக் கட்டுரையில் தொழினுட்பத்தை பயன்படுத்தி கட்டுமானத்துறையில், இந்தியா செய்துள்ள சாதனை தொடர்பாக ஆராய உள்ளோம்.
-
-இந்திய வெளிவிவகார அமைச்சின் அநுசரணையுடன் 'இந்தியாவை பற்றி அறிந்து கொள்வோம்" என்ற நிகழ்சியில் நாம் சென்று பார்வையிட்ட முக்கிய இடமாக அடல் சேது பாலம் காணப்பட்டது.
-
-விந்தைகள் பல செய்யும் தொழினுட்ப உலகில் ஒவ்வொரு நாடுகளும் ஏதோ ஒரு பாதையில் பயணித்துக்கொண்டிருக்கும் நிலையில் இந்தியாவின் சில கட்டுமாணப்பணிகளானது பிரமிக்க வைக்கின்றன.
-
-இதனை பறைசாற்றும் வகையில் மும்பையில் அமைந்துள்ள அடல் சேது பாலமானது பார்ப்பவர்களுக்கு பிரமாண்டத்தை ஏற்படுத்துகின்றது.
-
-...
-
-[Data](articles/fc2c36ca.json)
-
----
-
-### Japan pledges continuous financial and technical assistance to Sri Lanka
-
-*2025-01-07 14:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104799/japan-pledges-continuous-financial-and-technical-assistance-to-sri-lanka) · `en`
-
-The Japan International Cooperation Agency (JICA) will continue its financial and technical assistance to Sri Lanka without interruption, says the Senior Vice President of JICA, HARA Shohei.
-
-This assurance was revealed during a meeting held today (07) at the Presidential Secretariat between President Anura Kumara Disanayake and HARA Shohei, the President’s Media Division (PMD) reported.
-
-During the discussion, attention was drawn to the on-going development work at the Bandaranaike International Airport in Katunayake, which is being carried out under Japanese aid.
-
-It was highlighted that all projects initiated in Sri Lanka under JICA support are planned to be expedited and completed efficiently, the PMD added.
-
-Mr. HARA Shohei also reaffirmed JICA’s commitment to extending financial support to Sri Lanka in the future, similar to the assistance provided during the country’s debt restructuring process
-
-...
-
-[Data](articles/5163df67.json)
-
----
-
-### Eye surgery complications at N’Eliya Hospital: Compensation up to Rs. 1M for patients
-
-*2025-01-07 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/104798/eye-surgery-complications-at-neliya-hospital-compensation-up-to-rs-1m-for-patients) · `en`
-
-Cabinet Spokesman, Minister Dr. Nalinda Jayatissa revealed the method of granting compensation to 17 patients who had developed complications after undergoing cataract surgery at the Nuwara Eliya District Hospital.
-
-Speaking during the Cabinet press conference, Dr. Jayatissa stated that accordingly, a compensation of Rs. 1,000,000 each will be paid to 12 patients, Rs. 750,000 each to 02 patients, Rs. 700,000 for one patient and Rs. 250,000 each for 02 other patients.
-
-The Minister further explained that during the Cabinet meeting held on 12 February 2024, approval had been granted to the appointment of a Technical Committee to determine the amount of compensation to be paid to the victims.
-
-Accordingly, a Committee has been appointed under the chairmanship of an Additional Secretary to the Ministry of Health, and the said Committee has studied the relevant matters and submitted its recommendations on the compensation to be paid.
-
-...
-
-[Data](articles/6086c93f.json)
-
----
-
-### ඇස්වලට හානි වූ රෝගීන්ට ලබාදෙන වන්දි මුදල් ප්‍රමාණය මෙන්න
-
-*2025-01-07 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205132) · `si`
-
-නුවරඑළිය දිස්ත්‍රික් මහ රෝහලේදී අක්ෂි ශල්‍යකර්මවලට භාජනය වූ රෝගීන් කිහිපදෙනෙකුගේ දෘෂ්ටිය අහිමි වීමට අදාළ ගෙවන වන්දි මුදල් ප්‍රමාණය පිළිබඳ යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිවී තිබේ.
-
-අදාළ සිදුවීම හේතුවෙන් බලපෑමට ලක්වී ඇති රෝගීන් 17 දෙනෙකු සඳහා පහත සඳහන් පරිදි වන්දි මුදල් ගෙවීම පිණිස සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍යවරයා විසින් ඉදිරිපත් කළ යෝජනාව අමාත්‍ය මණ්ඩලය විසින් එලෙස අනුමත කර ඇත.
-
-නුවරඑළිය දිස්ත්‍රික් මහ රෝහලේදී අක්ෂි ශල්‍යකර්මවලට භාජනය වූ රෝගීන් කිහිපදෙනෙකුගේ දෘෂ්ටිය අහිමි වීම පිළිබඳව වින්දිතයන්ට ගෙවිය යුතු වන්දි ප්‍රමාණය තීරණය කිරීම පිණිස තාක්ෂණික කමිටුවක් පත් කිරීමට 2024-02-12 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබා දී තිබුණි.
-
-ඵ් අනුව, සෞඛ්‍ය අමාත්‍යාංශයේ අතිරේක ලේකම්වරයෙකුගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කර ඇති අතර, එකී කමිටුව විසින් අදාළ කරුණු අධ්‍යයනය කර ගෙවිය යුතු වන්දි මුදල් පිළිබඳව සිය නිර්දේශ ඉදිරිපත් කර කළේය.
-
-එකී නිර්දේශ මත පදනම්ව මෙම කැබිනට් පත්‍රිකාව ඉදිරිපත් කර තිබුණි.
-
-◼️
-
-[Data](articles/727d9ae0.json)
-
----
-
-### Easter Sunday attacks: Public Security Minister reveals details on arrested suspects
-
-*2025-01-07 14:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/104797/easter-sunday-attacks-public-security-minister-reveals-details-on-arrested-suspects) · `en`
-
-Minister of Public Security Ananda Wijepala revealed today (07) that a total of 747 suspects have been arrested in connection with the 2019 Easter Sunday terror attacks, following extensive investigations by the Criminal Investigation Department (CID) and the Terrorism Investigation Division (TID).
-
-Speaking in Parliament, Minister Wijepala disclosed that the Attorney General has filed indictments against a total of 100 suspects across 14 High Court cases.
-
-The Minister also emphasized that further investigations are ongoing and that additional probes will be conducted based on the information revealed through the documentary by the British television network ‘Channel 4’ and other investigations.
-
-The Minister said that further legal action will be taken based on the facts uncovered through this.
-
-...
-
-[Data](articles/e8693c65.json)
-
----
-
-### කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මෙතනින්
-
-*2025-01-07 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205131) · `si`
-
-කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව අද (07) පස්වරු 2ට ආරම්භ කෙරුණි.
-
-◼️
-
-[Data](articles/cb257092.json)
-
----
-
-### வெளிநாடுகளில் வாழும் இலங்கையர்களுக்கு  இ-சேவை
-
-*2025-01-07 14:13:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளில்-வாழும்-இலங்கையர்களுக்கு-இ-சேவை/175-349919) · `ta`
-
-வெளிநாடுகளில் உள்ள இலங்கைத் தூதரகங்கள் மூலம் பிறப்பு, திருமணம் மற்றும் இறப்புச் சான்றிதழ்களின் ஆன்லைன் சான்றளிக்கப்பட்ட நகல்களைப் பெறுவதற்கு வெளிநாட்டு இலங்கையர்களுக்கு உதவும் நோக்கில் ஒரு முன்னோடித் திட்டத்தை அரசாங்கம் தொடங்கியுள்ளது.
-
-வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சு, பதிவாளர் நாயகம் திணைக்களத்துடன் இணைந்து இத்திட்டம் ஆரம்பிக்கப்பட்டுள்ளது.
-
-புதிய அமைப்பு இலங்கையின் பதிவாளர் நாயகம் திணைக்களத்தால் நிர்வகிக்கப்படும் இ-பிஎம்டி (மின்னணு பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்) தரவுத்தளத்திற்கான இலங்கையின் இராஜதந்திர பணிகளுக்கு அணுகலை வழங்குகிறது.
-
-ஆரம்ப வைபவம் செவ்வாய்க்கிழமை மெய்நிகராக (07) நடைபெற்றது. வெளிவிவகார அமைச்சர் விஜித ஹேரத், வெளிவிவகார மற்றும் வெளிநாட்டு வேலைவாய்ப்பு பிரதி அமைச்சர் அருண் ஹேமச்சந்திர, அமைச்சின் செயலாளர் அருணி ரணராஜா, பதிவாளர் நாயகம் டபிள்யூ.ஆர்.ஏ.என்.எஸ். விஜயசிங்க மற்றும் ஜனாதிபதி செயலகம், பதிவாளர் நாயகம் திணைக்களம் மற்றும் அமைச்சின் உயர் அதிகாரிகள் கலந்துகொண்டனர்.
-
-...
-
-[Data](articles/a3f9c4f6.json)
-
----
-
-### எம்.பி அர்ச்சுனா குறித்து விசாரணைகளின் பின் தீர்மானிக்கப்படும்
-
-*2025-01-07 14:05:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்-பி-அர்ச்சுனா-குறித்து-விசாரணைகளின்-பின்-தீர்மானிக்கப்படும்/175-349918) · `ta`
-
-பாராளுமன்ற உறுப்பினர் இராமநாதன் அர்ச்சுனாவிடம் குழுவொன்று விசாரணைகளை மேற்கொண்டு வருவதாகவும், அதன் முடிவுகளின் அடிப்படையில் அவர் குறித்து தீர்மானிக்கப்படும் என சபாநாயகர் ஜகத் விக்ரமரத்ன இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
-
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு எதிராக, சபையில் பேசும் உரிமையை பறித்ததாகக் குற்றம் சுமத்தியுள்ள பாராளுமன்ற உறுப்பினர் அர்ச்சுனா, அதுகுறித்து வினவியபோதே சபாநாயகர் இந்தத் தகவலைத் தெரிவித்தார்.
-
-பாராளுமன்ற உறுப்பினர் அர்ச்சுனா தொடர்பில் சபாநாயகரின் ஆலோசனைக்காக எதிர்க்கட்சி காத்திருப்பதாக எதிர்க்கட்சியின் பிரதம கொறடா கயந்த கருணாதிலக்க தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/4a312e02.json)
-
----
-
-### Sri Lanka should not to deport Rohingiya asylum seekers: opposition leader
-
-*2025-01-07 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-to-deport-rohingiya-asylum-seekers-opposition-leader-198451/) · `en`
-
-ECONOMYNEXT – Sri Lanka should not deport a group of Rohingya asylum seekers who have arrived recently and such a move would be against the obligation of the country under international conventions, Opposition Leader Sajith Premadasa said.
-
-“We have go to know that there is an attempt by the government to deport them,” Premadasa told Parliament Tuesday.
-
-“I am requesting the government not to make such an inhuman move. Turning them back is a violation of international human rights law.
-
-“The entire world accepts that the Rohingya community is subjected to discrimination and pressures and violence.
-
-“Please follow the policy of non-refoulement. We cannot deport them by force.”
-
-Sri Lanka is bound to act under the Refugee Convention of 1951, and other international conventions, and Lanka should halt any plans to deport them, he said.
-
-...
-
-[Data](articles/0f4d85e5.json)
-
----
-
-### මගීන් බස්සවා යළි හැරී ගිය බස් රථයේ බලපත්‍රය අත්හිටුවයි
-
-*2025-01-07 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205130) · `si`
-
-ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය යටතේ සිදුකළ රථවාහන පරික්ෂාවේදී මොරටුව ප්‍රදේශයේ බස් රථයක් මගීන් අතරමග බස්සවා යළි හැරී යාම සම්බන්ධයෙන් එම බස් රථයේ ධාවන බලපත්‍රය අත්හිටුවීමට පියවර ගෙන තිබේ.
-
-ලංකා පෞද්ගලික බස් රථ හිමියන්ගේ සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා මේ බව පැවසීය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ සභාපතිවරයා සඳහන් කළේ ක්ලීන් ශ්‍රී ලංකා ව්‍යාපෘතිය යටතේ පොලීසිය ගෙන යන වැඩපිළිවෙළ සම්බන්ධයෙන් බස් රථ සේවකයින් සහ බස් සංගම් නියෝජිතයින් අතර සාකච්ඡාවක් පැවැත්වීමට නියමිත බවය.
-
-එමෙන්ම පවතින තත්ත්වය සම්බන්ධයෙන් මානව හිමිකම් කොමිසම සහ ජාත්‍යන්තර මානව හිමිකම් සංවිධානයට පැමිණිලි කිරීමට බලාපොරොත්තු වන බවත් සභාපතිවරයා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
-
-◼️
-
-[Data](articles/47abf5b7.json)
-
----
-
-### President appoints 4 new Ambassadors and High Commissioner
-
-*2025-01-07 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/104796/president-appoints-4-new-ambassadors-and-high-commissioner) · `en`
-
-President Anura Kumara Dissanayake has appointed a High Commissioner and four Ambassadors to serve in Sri Lanka’s diplomatic service.
-
-The official appointments were handed over by the President during a formal ceremony held today (07) at the Presidential Secretariat.
-
-The newly designated diplomats also engaged in a brief discussion with the President following the appointments.
-
-Mr. W. G. S. Prasanna, High Commissioner-designate for New Zealand
-
-President Dissanayake expressed his confidence in the newly appointed diplomats, emphasizing the importance of their roles in strengthening Sri Lanka’s bilateral ties and fostering mutual cooperation with the respective nations, the President’s Media Division (PMD) said.
-
-...
-
-[Data](articles/809fec99.json)
 
 ---

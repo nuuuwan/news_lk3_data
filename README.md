@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 13:27:50**
+As of **2025-01-08 13:44:29**
 
 ## Newspaper Stats
 
-*Scraped **64,332** Articles*
+*Scraped **64,333** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,914
 islandlk | 3,928
 dailyftlk | 4,494
 dailymirrorlk | 4,733
-adalk | 6,153
+adalk | 6,154
 adaderanalk | 7,881
 tamilmirrorlk | 9,232
 virakesarilk | 10,738
@@ -26,11 +26,25 @@ adaderanasinhalalk | 11,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,332 articles have been extended.
+61,971 (96.3%) of 64,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### 5වසර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඑළ නිකුත් කරන දිනය
+
+*2025-01-08 12:26:43* · [`adalk`](https://www.ada.lk/breaking_news/5වසර-ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඑළ-නිකුත්-කරන-දිනය/11-414085) · `si`
+
+පසුගිය වසරේ පැවැත්වූ ශිෂ්‍යත්ව විභාගයේ ප්‍රශණ කිහිපයක් විභාගයට පෙර පිටවීම හේතුවෙන් පිළිතුරුපත් බැලීම සහ ප්‍රතිඑළ නිකුත්කිරීම අත්හිටුවීමක්ට ලක්විනි. අධිකරණ නියෝගයෙන් අනතුරුව එහි පිළිතුරැපත් ඇගයීම අද (08) දින සිට ආරම්භවූ බව වාර්ථාවනවා.
+
+මෙම විභාගයේ ප්‍රතිඑළ දින 40ක් ඇතුලත නිකුත්කරන බව විභාග කොමසාරිස් ජනරාල් වරයා පවසා සිටිනවා.
+
+◼️
+
+[Data](articles/6467ad2d.json)
+
+---
 
 ### PM Harini stresses need for public participation in social transformation
 
@@ -1717,23 +1731,5 @@ Accordingly, the following SSPs have been transferred as per a directive by the 
 ◼️
 
 [Data](articles/7f0657ac.json)
-
----
-
-### Committee on Public Finance meets for first time
-
-*2025-01-07 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/104813/committee-on-public-finance-meets-for-first-time) · `en`
-
-The Committee on Public Finance met for the first time yesterday (06) under the Chairmanship of its Chair, Member of Parliament Dr. Harsha de Silva.
-
-In terms of the Standing Orders of Parliament, Member of Parliament Dr. Harsha de Silva, representing the opposition, was nominated as the Chair to the Committee on Public Finance by the Committee of Selection.
-
-Following the address by the Chair in which a brief overview of the functions and past work by the Committee was highlighted, the forum was made available for the Members of the Committee and the officials present to carry out an open discussion, a statement said.
-
-Thereafter, Ministry officials including Secretary to the Ministry of Finance, Mahinda Siriwardena and Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe, conducted a presentation on the Mid-Year Fiscal Position Report 2024 and the Recent Economic Developments and the Outlook.
-
-...
-
-[Data](articles/62f02d9d.json)
 
 ---

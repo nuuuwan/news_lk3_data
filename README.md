@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-09 04:27:56**
+As of **2025-01-09 04:43:40**
 
 ## Newspaper Stats
 
-*Scraped **64,430** Articles*
+*Scraped **64,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,925
 islandlk | 3,930
-dailyftlk | 4,498
+dailyftlk | 4,502
 dailymirrorlk | 4,733
 adalk | 6,170
 adaderanalk | 7,891
@@ -26,11 +26,73 @@ adaderanasinhalalk | 11,129
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,972 (96.2%) of 64,430 articles have been extended.
+61,972 (96.2%) of 64,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-09 (Thursday)
+
+### Sri Lanka power sector reforms: Way forward
+
+*2025-01-09 04:28:15* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-power-sector-reforms-Way-forward/4-771592) · `en`
+
+Although the underlying issues for high electricity prices are multi-faceted, the main contributing factor is the dependency on imported fossil fuel sources such as oil and coal for about 50% of electricity generation
+
+The Sri Lanka Electricity Act aims to position the power sector in Sri Lanka to benefit from the advances in renewable energy and other enabling technologies and to eliminate the dependency on imported fossil fuel sources and improve the operating efficiency of sector entities through greater transparency and accountability. This would enhance energy independence and energy security by increasing the share of renewable energy in the energy mix and phase out the fossil fuel-based electricity over the next 10 years, while ensuring the availability of electricity at an affordable price to the consumers
+
+...
+
+[Data](articles/c6ad6428.json)
+
+---
+
+### Construction industry to Government: New set of proposals for year 2025
+
+*2025-01-09 04:18:43* · [`dailyftlk`](https://www.ft.lk/opinion/Construction-industry-to-Government-New-set-of-proposals-for-year-2025/14-771591) · `en`
+
+Allocate at least 40% of foreign-funded Government projects to local contractors
+
+Sri Lanka’s construction industry, which is the fourth largest industry sector in the country’s economy, with a global value of $ 10 billion and contributing 6-7% to the country’s GDP over the past decade, has submitted a new set of proposals to the Government for implementation by 2025.
+
+The press release issued by Ceylon Institute of Builders (CIOB) President Dr. Rohan Karunaratne on behalf of the Sri Lankan construction industry further states:
+
+Restarting of halted projects: Prioritise completing partially constructed projects that are of national importance, contribute to Sri Lanka’s economic growth, and mitigate potential security or health risks posed by the hazardous nature of unfinished structures to occupants or the general public.
+
+...
+
+[Data](articles/d1155bf4.json)
+
+---
+
+### Regional cooperation is a marathon, not a sprint: Highlights from 2024
+
+*2025-01-09 04:15:34* · [`dailyftlk`](https://www.ft.lk/columns/Regional-cooperation-is-a-marathon-not-a-sprint-Highlights-from-2024/4-771590) · `en`
+
+Women construction workers, who are a part of the construction and maintenance of Western regional corridors in Bangladesh – Photo: World Bank
+
+2024 was the year of elections and political change across South Asia. From political upheaval in Bangladesh to general elections across five countries in the region, domestic issues made headlines. Amidst this, regional cooperation moved ahead with a slower pace in some areas, and in others, it continued with strong strides.
+
+Regional connectivity and cooperation in South Asia is like running a marathon—sometimes you run fast, sometimes you walk, and if need be, you even pause, but then keep moving. As we work closely with our clients and partners on solutions that deliver benefit at scale, we also recognise that the impact and results can sometimes be slow to mature.
+
+...
+
+[Data](articles/1e799d3a.json)
+
+---
+
+### Make Sri Lanka great again: Reimagining country’s future
+
+*2025-01-09 04:11:49* · [`dailyftlk`](https://www.ft.lk/columns/Make-Sri-Lanka-great-again-Reimagining-country-s-future/4-771589) · `en`
+
+Sri Lanka’s economic recovery hinges on a commitment to comprehensive and sustained reforms
+
+Targeted social safety nets will ensure inclusivity, while policies promoting innovation and sustainability will drive long-term growth. Sri Lanka’s transformation into a resilient and inclusive economy is not just a necessity but an achievable vision. With unified efforts from the Government, private sector, and international partners, the nation can emerge as a model for sustainable growth, rebuild public trust, and improve the quality of life for its citizens
+
+...
+
+[Data](articles/a393e312.json)
+
+---
 
 ### Sri Lanka’s economic turmoil in ‘70s: Reflections and realities through Aththa newspaper
 
@@ -1805,79 +1867,5 @@ She further highlighted that public involvement is necessary for this process an
 ...
 
 [Data](articles/e0d27399.json)
-
----
-
-### கலிபோர்னியாவில் காட்டுத்தீ: 30 ஆயிரம் பேர் பாதிப்பு
-
-*2025-01-08 11:24:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கலிபோர்னியாவில்-காட்டுத்தீ-30-ஆயிரம்-பேர்-பாதிப்பு/50-349977) · `ta`
-
-இந்த காட்டுத்தீ லாஸ் ஏஞ்சல்சின் மலைப்பகுதிகளுக்கு வேகமாக பரவி வருகிறது. இதனால் அங்கு கடும் புகைமூட்டம் நிலவி வருகிறது.
-
-ஏராளமான வீடுகள், வாகனங்கள் தீயில் எரிந்து நாசமாகின. காட்டுத்தீயை அணைக்க தீயணைப்பு வீரர்கள் கடுமையாக போராடி வருகிறார்கள்.
-
-ஹெலிகாப்டர்கள் மூலம் தண்ணீர் ஊற்றப்பட்டு வருகிறது. 10 ஆயிரத்துக்கும் மேற்பட்ட வீடுகளில் வசித்துவந்த 26 ஆயிரத்துக்கும் மேற்பட்டோர் தீயினால் பாதிக்கப்பட்டுள்ளதாகவும், சுமார் 30 ஆயிரம் பேர் வெளியேற்றப்பட்டுள்ளதாகவும், அந்நாட்டு தீயணைப்புத்துறை தெரிவித்துள்ளது.
-
-இதையடுத்து,மக்கள் தங்களது கார்களை ஆங்காங்கே நிறுத்தி விட்டு வேறு இடங்களுக்கு குடிபெயர்ந்து வருகின்றனர்.
-
-காற்றின் வேகம் அதிகமாக இருப்பதால், தீ பரவல் வேகமாக பரவி வருகிறது. இதனால் தீயை கட்டுப்படுத்துவதில் சிரமம் ஏற்பட்டுள்ளது. லாஸ் ஏஞ்சல்ஸ் - கவுண்டியில், 46 ஆயிரத்துக்கும் மேற்பட்டோர் மின்சாரம் இல்லாமல் பாதிக்கப்பட்டுள்ளனர்.
-
-...
-
-[Data](articles/ae45c19a.json)
-
----
-
-### யாழ்ப்பாண சர்வதேச சட்ட மாநாடு நடாத்துவது குறித்து   தீர்மானம்
-
-*2025-01-08 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/203285) · `ta`
-
-யாழ்ப்பாணப் பல்கலைக்கழகச் சட்டத்துறையானது இந்தியாவின் சுரானா மற்றும் சுரானா சர்வதேச வழக்கறிஞர் நிறுவனத்துடன் இணைந்து இரண்டாவது தடவையாகவும் யாழ்ப்பாண சர்வதேச சட்ட மாநாட்டை எதிர்வரும் 25ம், 26ம் திகதிகளில் நடாத்துவதற்குத் தீர்மானித்துள்ளது.
-
-யாழ்ப்பாண சர்வதேச சட்ட மாநாடானது மருத்துவ பீடத்தின் ஹூவர் கலையரங்கில் காலை  9 மணி முதல் மாலை வரை இடம்பெறவுள்ளது.
-
-செயற்படல், நிலைமாற்றம் , நிலைத்திருப்பு என்னும் தொனிப்பொருளில் ஒழுங்கு செய்யப்பட்டுள்ள இவ்வருட மாநாட்டில் இலங்கை   உயர் நீதிமன்ற நீதிபதிகள் உள்ளடங்கலாக உள்நாட்டு மற்றும் வெளிநாட்டு நிபுணர்கள் பலர்   கலந்து கொண்டு மாநாட்டின் தொனிப்பொருளை சார்ந்ததான பல்வேறு விடயப்பரப்புக்கள் பற்றி உரையாடவுள்ளனர்.
-
-மாநாட்டின் ஓரங்கமாக மாற்றுப் பிணக்குத் தீர்வு முறைகள் பற்றிய குறிப்பாக மத்தியஸ்தம் தொடர்பான சிறப்பு அமர்வு  ஒன்றும்  ஒழுங்கு செய்யப்பட்டுள்ளது.
-
-இந்நிகழ்வானது தை மாதம் 24ம் திகதி பிற்பகல்  4.30  மணி  முதல் 6.30 மணி வரை யாழ்ப்பாணப் பல்கலைக்கழக நூலக கேட்போர் கூடத்தில் இடம்பெறவுள்ளது.
-
-◼️
-
-[Data](articles/43dc556a.json)
-
----
-
-### ඊශ්‍රායල ජාතිකයින් විසින් සිදුකරන ඉදිකිරීම්වලට අවසර දීලා නැහැ - අගමැති
-
-*2025-01-08 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205162) · `si`
-
-ඊශ්‍රායල ජාතික ආගමික මධ්‍යස්ථාන හෝ ඒ සමාන ස්ථාන ගොඩනැගීම සඳහා රජයේ කිසිදු ආයතනයකින් අවසරයක් ලබාදී නොමැති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
-
-පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතා අද (08) පාර්ලිමේන්තුවේදී යොමුකළ ප්‍රශ්නයක පිළිතුරු දෙමින් ඇය ඒ බව සඳහන් කළාය.
-
-"ඊශ්‍රායල ජාතිකයින් ආගමික මධ්‍යස්ථාන හෝ ඒ සමාන ස්ථාන ගොඩනැගීම සඳහා මේ දක්වා බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය හෝ ඒ යටතේ පවතින දෙපාර්තමේන්තු මගින් අවසර ලබාදීමක් සිදුකර නැහැ. නමුත් අපි දන්නවා ඔවුන් එවැනි මධ්‍යස්ථාන පවත්වාගෙන යන බවට. ඒ සම්බන්ධයෙන් අපිට තොතරු ලැබිලා තියෙනවා. ඒවා පිළිබඳව අපි නිරීක්ෂණයක් කරලා තියෙනවා. එවා අවසරයෙන් කරන ඒවා නෙමෙයි. කිසිවිටක අවසරයක් දීලා නැහැ. ඒ පිළිබඳව මොකද්ද සිදුකළ යුතුතේ කියන එක පිළිබඳව අපි සාකච්ඡා කරනවා. ඒවා නවත්නවන් කුමක්ද කළ යුත්තේ විදෙස් කටයුතු අමාත්‍යාංශය මගින් මැදිහත්වීමක් සිදුවෙනවා."
-
-...
-
-[Data](articles/21e2550a.json)
-
----
-
-### புலமைப்பரிசில் விடைத்தாள் மதிப்பீடு இன்று ஆரம்பம்
-
-*2025-01-08 11:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-விடைத்தாள்-மதிப்பீடு-இன்று-ஆரம்பம்/175-349975) · `ta`
-
-2024 ஆம் ஆண்டுக்கான தரம் 5 புலமைப்பரிசில் பரீட்சையின் விடைத்தாள் மதிப்பீடு இன்று (08) ஆரம்பமாகவுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-மதிப்பீடுகள் நிறைவடைந்த 40 நாட்களுக்குள் பெறுபேறுகளை வெளியிட தீர்மானிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
-
-2024 ஆம் ஆண்டுக்கான தரம் ஐந்து புலமைப்பரிசில் பரீட்சை செப்டம்பர் 15 ஆம் திகதி நடைபெற்றது.
-
-244,092 சிங்கள மொழி மூலமும் 79,787 தமிழ் மொழி மூலமும் உட்பட மொத்தம் 323,879 மாணவர்கள் பரீட்சைக்கு பதிவு செய்திருந்தனர்.
-
-◼️
-
-[Data](articles/a6d60d31.json)
 
 ---

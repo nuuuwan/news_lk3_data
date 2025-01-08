@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 15:28:03**
+As of **2025-01-08 15:44:49**
 
 ## Newspaper Stats
 
-*Scraped **64,353** Articles*
+*Scraped **64,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 3,914
 islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
-adalk | 6,158
+adalk | 6,159
 adaderanalk | 7,884
 tamilmirrorlk | 9,238
 virakesarilk | 10,738
@@ -26,7 +26,7 @@ adaderanasinhalalk | 11,115
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,353 articles have been extended.
+61,971 (96.3%) of 64,354 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -109,6 +109,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8c0aef19.json)
+
+---
+
+### තීක්ෂණගේ කඩුලු ත්‍රිත්වය අපතේ යයි - තරගයේ ජය නවසීලන්තයට
+
+*2025-01-08 14:39:33* · [`adalk`](https://www.ada.lk/sports/තීක්ෂණගේ-කඩුලු-ත්‍රිත්වය-අපතේ-යයි---තරගයේ-ජය-නවසීලන්තයට/9-414087) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායමට එරෙහිව පැවති දෙවැනි එක්දින ක්‍රිකට් තරගයෙන් ඩක්වත් සහ ලුවිස් න්‍යායට අනුව ලකුණු 113ක ජයක් වාර්තා කිරීමට නවසීලන්ත කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+
+තරගය ආරම්භයට පෙර වර්ෂාවෙන් බාධා එල්ල වූ අතර එක් ඉනිමන් පන්දුවාර 37කට සීමා කිරීමට තරග තීරකයන් තීරණය කළේය.
+
+ඒ් අනුව තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩාය පන්දු 37 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 255ක් රැස් කළේය.
+
+මෙහිදී මහීෂ් තීක්ෂන කඩුලු ත්‍රිත්වයක් ලබා ගත් අතර, ඔහු යොමු කළ පන්දුවාර 08 අවසානයේ ලකුණු 44ට කඩුලු 4ක් බිඳ හෙළුවේය.
+
+අනතුරුව පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 30 පන්දු 2ක් අවසානයේ සියලුදෙනා දැවී රැස් කරගත හැකි වූයේ ලකුණු 142ක් පමණී.
+
+ඒ් අනුව තරග තුනකින් සමන්විත ඒක්දින ක්‍රිකට් තරගාවලිය තවත් එක් තරගයක් ඉතිරිව තිබියදී තරග 2-0ක් ලෙස නවසීලන්ත කණ්ඩායම ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/11cdd733.json)
 
 ---
 
@@ -1717,27 +1739,5 @@ He is currently serving as CEO of Tresync, Australia. Imran is passionate about 
 ...
 
 [Data](articles/ec1cda80.json)
-
----
-
-### Marikkar criticises AKD Govt. over broken promises
-
-*2025-01-08 05:44:43* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-AKD-Govt-over-broken-promises/56-771534) · `en`
-
-Says increased Govt. revenue has not improved areas like reducing malnutrition, boosting consumption, improving education, or creating livelihood opportunities
-
-Criticises Govt. for failing to reduce electricity bills despite earning profits, leaving poor without relief
-
-Accuses current administration of continuing same exploitative policies as previous Govt.
-
-Questions Govt’s failure to introduce new revenue-generating measures and calls on it to admit to misleading people with false promises
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday in Parliament expressed strong criticism of the new Government’s failure to deliver on its promises and questioned the impact of its policies on the well-being of the public.
-
-Marikkar highlighted that while Government revenue and tax collection have increased significantly, this has been achieved through higher taxes and inflated bills which have negatively impacted the people. He questioned, “Has the happiness of the people increased as a result?”
-
-...
-
-[Data](articles/09a4004d.json)
 
 ---

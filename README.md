@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 15:02:56**
+As of **2025-01-08 15:14:09**
 
 ## Newspaper Stats
 
-*Scraped **64,343** Articles*
+*Scraped **64,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ islandlk | 3,929
 dailyftlk | 4,495
 dailymirrorlk | 4,733
 adalk | 6,158
-adaderanalk | 7,881
+adaderanalk | 7,884
 tamilmirrorlk | 9,236
 virakesarilk | 10,738
-adaderanasinhalalk | 11,110
+adaderanasinhalalk | 11,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,343 articles have been extended.
+61,971 (96.3%) of 64,351 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/715b74ec.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 113ක පරාජයක්
+
+*2025-01-08 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205170) · `si`
+
+නවසීලන්ත කණ්ඩායමට එරෙහිව හැමිල්ටන්හිදී පැවැත් වූ දෙවන එක්දින ක්‍රිකට් තරගයෙන් ලකුණු 113ක දැවැන්ත පරාජයක් ලැබීමට සංචාරක ශ්‍රී ලංකා කණ්ඩායමට අද (8) සිදුවිය.
+
+ඒ අනුව තරග 3කින් යුත් මෙම තරගාවලියේ තවත් තරගයක් ඉතිරිව තිබියදීම තරගාවලියේ ජය තහවුරු කරගැනීමට නවසීලන්තයට හැකිවිය.
+
+පන්දුවාර 37කට සීමා වූ මෙම තරගයේ පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම කඩුලු 9ක් දැවී ලකුණු 255ක් රැස්කිරීමට සමත් විය.
+
+කෙසේ නමුත් පිළිතුරු ඉනිම ක්‍රීඩාකළ ශ්‍රී ලංකාවට පන්දුවාර 30.2කදී සියලු දෙනා දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 142ක් පමණි.
+
+කමිඳු මෙන්ඩිස් පන්දු 66කදී ලකුණු 64ක් රැස්කිරීම හැරෙන්න වෙනත් කිසිදු ශ්‍රී ලාංකික පිතිකරුවෙකුට සාර්ථක ඉනිමක් ක්‍රීඩාකිරීමට නොහැකි විය.
+
+නවසීලන්තය වෙනුවෙන් සාර්ථක පන්දු යැවීම නිතර වූ විල් ඕ' රුර්ක් ලකුණු 31කට කඩුලු 3ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/8c0aef19.json)
 
 ---
 
@@ -92,6 +114,46 @@ President Disanayake expressed his confidence in the newly appointed diplomats, 
 
 ---
 
+### අනවසර සංක්‍රමණිකයින් ලක්ෂයක් රටට ඇතුළුවීමේ අවදානමක්
+
+*2025-01-08 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205169) · `si`
+
+ඉදිරි දිනවලදී අනවසර සංක්‍රමණිකයින් ලක්ෂයක් රටට පැමිණීමේ අවදානමක් ඇති බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
+
+අද (08) පාර්ලිමේන්තුවේ පැවැති විවාදයට එක්වෙමින් අමාත්‍යවරයා ඒ බව හෙළි කළේය.
+
+එම අනවසර සංක්‍රමණිකයින් පැමිණීම සම්බන්ධයෙන් බුද්ධි අංශ වාර්තා කර ඇති බව මහජන ආරක්ෂක අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා,
+
+"මියන්මාර් අනවසර සංක්‍රමණිකයන් 116ක් රටට ඇතුළු වෙලා තියෙනවා. ඒ සම්බන්ධයෙන් විමර්ශනයක් සිදු කරමින් පවතිනවා. ඔවුන් මුදල් ගෙවලා තමයි මේ ජාවාරමට සම්බන්ධ වෙලා තියෙන්නේ. ඔවුන් එරට මුදලින් ලක්ෂ 500ක් පමණ ගෙවලා තියෙනවා. ඊට අමතරව මේ ගමනාගමනය සඳහා  රටේ මුදලින් ලක්ෂ 800ක් පමණ සංවිධායකවරුන්ට ගෙවලා තියෙනවා. මේ සම්බන්ධයෙන් පොලීසියෙන් විමර්ශනයක් කරගෙන යනවා."
+
+"ඔවුන් සරණාගතයින් ලෙස හඳුනාගන්නේ නම් ඒ අනුව කටයුතු කරන්න අපි බලාපොරොත්තු වෙනවා. ජාත්‍යන්තර නීතියට අනුව කටයුතු කරන්නත් අපි සූදානම්. මේ වෙනකොට ඔවුන්ට අවශ්‍ය පහසුකම් කෑම බීම ආගමන විගමන දෙපාර්තමේන්තුව හරහා අපි දීලා තියෙනවා."
+
+...
+
+[Data](articles/678c0435.json)
+
+---
+
+### බස් - පොලිස් සාකච්ඡා සාර්ථකයි - වර්ජනයක් නැහැ
+
+*2025-01-08 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205168) · `si`
+
+Clean Sri Lanka වැඩසටහනට සමගාමීව සිදුකරන රථවාහන මෙහෙයුම් සම්බන්ධයෙන් පෞද්ගලික බස් රථ සංගම් සහ වැඩබලන පොලිස්පතිවරයා අතර අද (08) පැවැති සාකච්ඡාව සාර්ථක බව බස් සංගම් පවසයි.
+
+ඒ අනුව, බස් සංගම් සැලසුම් කළ දීපව්‍යාප්ත වර්ජනය සිදු නොකිරීමට තීරණය කර තිබේ.
+
+පොලීසිය බස් රථවලට සිය සීමාව ඉක්මවා අනවශ්‍ය බලපෑම් සිදුකරන බව පවසමින් ඊට විරෝධය පළ කිරීම සඳහා මෙම දීපව්‍යාප්ත වැඩවර්ජනය දියත් කිරීමට බස් සංගම් ඊයේ එකඟතාවකට එළැඹ තිබුණි.
+
+එවන් පසුබිමක් තුළ ඊට පෙර බස් සංගම් නියෝජිතයන් අද පෙරවරුවේ වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා සමග පොලිස් මූලස්ථානයේදී සාකච්ඡාවක් පැවැත්විය.
+
+◼️
+
+[Data](articles/ee17b02d.json)
+
+---
+
 ### “Gem Sri Lanka – 2025”  ஆரம்பம்
 
 *2025-01-08 14:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Gem-Sri-Lanka-2025-ஆரம்பம்/175-349990) · `ta`
@@ -109,6 +171,48 @@ President Disanayake expressed his confidence in the newly appointed diplomats, 
 ...
 
 [Data](articles/f5028b34.json)
+
+---
+
+### Trump ramps up threats to gain control of Greenland and Panama Canal
+
+*2025-01-08 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/104829/trump-ramps-up-threats-to-gain-control-of-greenland-and-panama-canal) · `en`
+
+President-elect Donald Trump is showing no sign of letting up in his desire for the US to acquire Greenland and the Panama Canal, calling both critical to American national security.
+
+Asked if he would rule out using military or economic force in order to take over the autonomous Danish territory or the Canal, he responded: “No, I can’t assure you on either of those two.
+
+“But I can say this, we need them for economic security,” he told reporters during a wide-ranging news conference at his Mar-a-Lago estate in Florida.
+
+Both Denmark and Panama have rejected any suggestion that they would give up territory.
+
+Trump also vowed to use “economic force” when asked if he would attempt to annex Canada and called their shared border an “artificially drawn line”.
+
+The boundary is the world’s longest between two countries and it was established in treaties dating back to the founding of the US in the late 1700s.
+
+...
+
+[Data](articles/83554500.json)
+
+---
+
+### Gem Sri Lanka - 2025 ප්‍රදර්ශනය ජනපතිගේ ප්‍රධානත්වයෙන් ඇරඹෙයි
+
+*2025-01-08 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205167) · `si`
+
+"Gem Sri Lanka - 2025" මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන්  බෙන්තොට පුද්ගලික හෝටලයේදී අද (08) පෙරවරුවේ ආරම්භ විය.
+
+චීන කොටුව මැණික් හා ස්වර්ණාභරණ වෙළෙඳ සංගමය වාර්ෂිකව සංවිධානය කරන එම ප්‍රදර්ශනය අද සිට ජනවාරි 10 වෙනිදා දක්වා පැවැත්වේ.
+
+"Gem Sri Lanka - 2025" මැණික් හා ස්වර්ණාභරණ ප්‍රදර්ශනය විවෘත කළ ජනාධිපතිවරයා ප්‍රදර්ශන කුටි නිරීක්‍ෂණයටද එක්වූ අතර, මැණික් කර්මාන්තකරුවන් මුහුණ දී සිටින ගැටලු පිළිබඳව සාකච්ඡා කරමින් ඔවුන් සමඟ සුහද කතාබහක ද නිරත විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා "Gem Sri Lanka - 2025" ප්‍රදර්ශනයේ සංවිධායක මණ්ඩලය සමඟ සමූහ ඡායාරූපයකටද පෙනී සිටියේය.
+
+මෙවර "Gem Sri Lanka - 2025" ප්‍රදර්ශනය ප්‍රදර්ශන කුටි 103 කින් සමන්විත අතර, මේ සඳහා දෙස් විදෙස් ගැනුම්කරුවන් විශාල පිරිසක් එක්ව සිටීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/4934a6cf.json)
 
 ---
 
@@ -141,6 +245,58 @@ President Disanayake expressed his confidence in the newly appointed diplomats, 
 ...
 
 [Data](articles/ba26d9ee.json)
+
+---
+
+### No approval given for any Israeli religious centers in Sri Lanka – PM
+
+*2025-01-08 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/104828/no-approval-given-for-any-israeli-religious-centers-in-sri-lanka-pm-) · `en`
+
+Sri Lanka’s Prime Minister Dr. Harini Amarasuriya stated that no government institution has so far granted authorization for the construction of Israeli religious centers or any similar places.
+
+She made this comment in response to a question raised by SJB Member of Parliament Mujibur Rahman in Parliament today (08).
+
+“So far, neither the Ministry of Buddhasasana, Religious and Cultural Affairs, nor any of its departments have granted permission for the construction of religious centers or similar places by Israeli nationals. However, we are aware that such centers are being maintained. We have received information about them and have observed the situation. These activities are taking place without permission, as no such approval has ever been granted,” the Prime Minister emphasized.
+
+She further stated that they are currently discussing what actions should be taken in this regard and that the Ministry of Foreign Affairs is intervening to address the issue.
+
+...
+
+[Data](articles/8b15f141.json)
+
+---
+
+### Court order issued over IUSF protest planned in Colombo
+
+*2025-01-08 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/104827/court-order-issued-over-iusf-protest-planned-in-colombo-) · `en`
+
+The Fort Magistrate’s Court has issued an order preventing the Convenor of the Inter University Students’ Federation (IUSF), Madushan Chandrajith and others from entering the Presidential Secretariat, President’s House, Finance Ministry premises etc. during a planned protest in Colombo today.
+
+Additionally, the court order restricts them from causing any inconvenience to pedestrians or vehicular traffic on several roads in Colombo, from 1.00 p.m. to 6.00 p.m. today (08).
+
+Accordingly, this order has been issued to the convener of the IUSF, Madushan Chandrajith; the convener of the Inter-University Bhikkhu Federation (IUBF); the convener of the Medical Faculty Students’ Action Committee, Rashmika Chamod Ranasinghe; the convener of the Student Union at the Open University in Nawala, Udara Ranasinghe; and the convener of the Faculty of Allied Health Sciences Student Union, Tharushan Piyumantha Herath.
+
+...
+
+[Data](articles/6773c417.json)
+
+---
+
+### අන්තරේ කැඳවුම්කරු ඇතුළු පිරිසකට කොටුව උසාවියෙන් නියෝගයක්
+
+*2025-01-08 12:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/205164) · `si`
+
+අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බලමණ්ඩලයේ අද (08) සංවිධානය කර තිබෙන විරෝධතාවයකට අදාළව කොටුව ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝගයක් නිකුත් කර තිබේ.
+
+අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු මධුෂාන් චන්ද්‍රජිත්, පුජ්‍ය මැදිරිගිරියේ ඉස්සර ධම්ම හිමි, රශ්මික චමෝද් රණසිංහ, උදාර රණසිංහ සහ තරුෂාන් පියුමන්ත හේරත් යන අයට මෙම නියෝගය නිකුත් කර ඇත.
+
+කොටුව පොලිස් ස්ථානයේ ස්ථානාධිපති විසින් අධිකරණයට ඉදිරිපත් කරන ලද කරුණු සලකා බැලිමෙන් පසුව අධිකරණය විසින් අපරාධ නඩු විධාන සංග්‍රයයේ 106 (1) ප්‍රතිපාදන අනුව මෙම නියෝගය නිකුත්කර ඇති බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් කළේය.
+
+ඒ අනුව ඔවුන්ට අද පස්වරු 1:00ත් සවස 6:00ත් කාලය තුළ කොටුව පොලිස් වසමේ සෙරමික් හංදියේ සිට NSA වටරවුම දක්වාද NSA වටරවුමේ සිට බාලදක්ෂ මාවත දක්වා ගාලු පාරද, අවහිර නොකරන ලෙස ද මුදල් අමාත්‍යංශය, ජනාධිපති ලේකම් කාර්‍යලය, මහ බැංකුව, ජනාධිපති මන්දිරයට ඇතුළුවිම වළකින ලෙසද දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/7909de84.json)
 
 ---
 
@@ -1583,153 +1739,5 @@ Thereafter, Ministry officials including Finance Ministry Secretary Mahinda Siri
 ...
 
 [Data](articles/559aee7c.json)
-
----
-
-### Easter attack probe enter new phase, says Public Security Minister
-
-*2025-01-08 05:39:29* · [`dailyftlk`](https://www.ft.lk/news/Easter-attack-probe-enter-new-phase-says-Public-Security-Minister/56-771531) · `en`
-
-The investigation into the 2019 Easter Sunday terrorist attacks has entered a new phase, according to Public Security Minister Ananda Wijepala.
-
-In a statement to Parliament yesterday, Minister Wijepala revealed that the ongoing investigations are focused on the findings revealed in the 2023 documentary film produced by British media channel ‘Channel 4’. The film, which covered the attacks and subsequent investigations, has prompted further legal action, with the Minister confirming that additional steps will be taken based on the facts uncovered so far.
-
-Wijepala informed Parliament that a report was filed with the Colombo Magistrate’s Court on 11 November 2024, and investigations are actively underway.
-
-To date, statements have been recorded from 48 individuals, including 12 civilian witnesses, 7 military personnel, 24 police officers, and 3 prison officers.
-
-...
-
-[Data](articles/0bc749de.json)
-
----
-
-### Govt. approves compensation for 17 patients blinded after cataract surgery
-
-*2025-01-08 05:38:55* · [`dailyftlk`](https://www.ft.lk/news/Govt-approves-compensation-for-17-patients-blinded-after-cataract-surgery/56-771530) · `en`
-
-The Government has approved compensation for 17 patients who lost their vision following cataract surgeries at the Nuwara Eliya Hospital.
-
-The decision on Monday by the Cabinet of Ministers was made following deliberations by a technical committee tasked with investigating the issue, attributed to the use of substandard drugs during treatment.
-
-Cabinet Spokesman and Minister Nalinda Jayatissa yesterday said that compensation amounts will vary based on the severity of the cases.
-
-According to the technical committee recommendation, 12 patients will receive Rs. 1 million each, two will receive Rs. 750,000, one will receive Rs. 700,000 and two will be compensated Rs. 250,000 each.
-
-“The biggest challenge was the absence of any precedent to guide us in determining compensation for such cases,” the Minister noted.
-
-The technical committee established to investigate the incident recommended compensation ranging from Rs. 250,000 to Rs. 1 million particularly for cases involving legal blindness.
-
-...
-
-[Data](articles/757bedc9.json)
-
----
-
-### Rishad says SL should adhere to intl. humanitarian principles regarding Rohingya refugees
-
-*2025-01-08 05:38:39* · [`dailyftlk`](https://www.ft.lk/news/Rishad-says-SL-should-adhere-to-intl-humanitarian-principles-regarding-Rohingya-refugees/56-771529) · `en`
-
-Writes to President emphasising need to follow principle of non-refoulement
-
-Says ACMC has serious concern regarding decision to repatriate Rohingya refugees
-
-Urges President to reconsider decision to forcibly return Rohingya refugees to Myanmar
-
-All Ceylon Makkal Congress (ACMC) Leader and Parliamentarian Rishad Bathiudeen has urged the Government to adhere to international humanitarian principles and consider the well-being of the Rohingya refugees from Myanmar, who have fled persecution in their homeland.
-
-Writing a letter to President Anura Kumara Dissanayeke, Bathiudeen has stated that the Government must ensure that its actions align with international laws and conventions on refugees, which emphasise the principle of non-refoulement – the prohibition of sending individuals back to places where they face threats to their lives or freedom.
-
-...
-
-[Data](articles/6587f151.json)
-
----
-
-### கிளிநொச்சி முகமாலைப் பகுதியில் நீரில் மூழ்கி ஒருவர் உயிரிழந்துள்ளார்
-
-*2025-01-08 03:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/203271) · `ta`
-
-கிளிநொச்சி முகமாலைப் பகுதியில் வீதியில் தேங்கிக் காணப்பட்ட வெள்ள நீரில் மூழ்கி ஒருவர் உயிரிழந்துள்ளார்.
-
-குறித்த சம்பவமானது செவ்வாய்க்கிழமை (07) பகல் 9:30 மணியளவில் இடம்பெற்றுள்ளது முகமாலை வடக்கு பகுதியில் ஆட்கள் நடமாட்டம் குறைந்த வீதியினால் பயணித்தபோது வீதியில் தேங்கி காணப்பட்ட வெள்ள நீரில் விழுந்து உயிரிழந்துள்ளார்.
-
-இச்சம்பவம் தொடர்பில் பளைப் பொலிசார் விசாரணைகளை முன்னெடுத்து வருகின்றனர். முகமாலை வடக்கு பளையினை சேர்ந்த மாணிக்கம் உதயகுமார் என்பவரே இவ்வாறு உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/9f54be77.json)
-
----
-
-### வவுனியாவில் 113 பேருக்கு டெங்கு நோய் தாக்கம்
-
-*2025-01-08 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/203270) · `ta`
-
-வவுனியா மாவட்டத்தில் கடந்த 2024 ஆம் ஆண்டு 113 பேர் டெங்கு நோயினால் பாதிக்கப்பட்டுள்ளதாக பிராந்திய சுகாதார வைத்திய அதிகாரி பணிமனை தெரிவித்துள்ளது.
-
-வவுனியா மாவட்டத்தில் மழை காலங்களில் மழை நீரானது டெங்கு நுளம்பு பெருக்கும் வகையில் தேங்கி நிற்காமல் இருப்பதற்காக சுகாதார பரிசோதகர்க், பொலிசார் மற்றும் இராணுவத்தினர் இணைந்து பல்வேறு நடவடிக்கைகளை எடுத்திருந்தனர்.
-
-எனினும், 2024 ஆம் ஆண்டு ஜனவரி தொடக்கம் டிசம்பர் வரை 113 பேர் வவுனியாவில் டெங்கு நோயினால் பாதிப்படைந்தனர். அதில் வவுனியா சுகாதார வைத்திய அதிகாரி பிரிவில் 82 பேர் பாதிக்கப்பட்டிருந்தனர். அவர்கள் குணமடைந்து  தற்போது வீடுகளுக்கு சென்றுள்ளனர் எனவும் பிராந்திய சுகாதார வைத்திய அதிகாரி பணிமனை தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/b40fe756.json)
-
----
-
-### தீடிரென முளைத்த தொல்லியல் பதாகையால் வெருகல் பகுதியில் பரபரப்பு..!
-
-*2025-01-08 02:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/203269) · `ta`
-
-வெருகல் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட திருகோணமலை – மட்டக்களப்பு பிரதான வீதியின் வட்டவான் பகுதியில் திங்கட்கிழமை (06) மாலை தொல்லியல் திணைக்களத்தினால் நடப்பட்டுள்ள பதாகையால் பெரும் பரபரப்பு ஏற்பட்டுள்ளது.
-
-“1 KM வட்டவான் தொல்லியல் நிலையம்” என குறிப்பிட்டு குறித்த பதாகை நடப்பட்டுள்ளது. இதனால் அப்பகுதி மக்கள் மத்தியில் இது பெரும் பரபரப்பையும், விசனத்தையும் ஏற்பட்டுள்ளது.
-
-குறித்த பகுதியில் எவ்வளவு பகுதி தொல்லியலுக்குள் உள்வாங்கப்பட்டுள்ளது? அதற்காக வர்த்தமான அறிவித்தல் வெளியிடப்பட்டுள்ளதா? ஏதிர்காலத்தில் அப்பகுதியில் புத்த விகாரை வருமா என்ற கேள்வியும் மக்கள் மத்தியில் எழுந்துள்ளது.
-
-தொல்லியல் திணைக்களத்தின் குறித்த நடவடிக்கைக்கு எதிர்ப்பு தெரிவித்து மக்கள் ஆர்ப்பாட்டத்தில் ஈடுபடவுள்ளதாகவும் தெரியவருகின்றது.
-
-கடந்த 28.12.2024 அன்று இரவோடு இரவாக குச்சவெளி பகுதியில் தொல்லியல் திணைக்களத்தினால் பதாகை நடப்பட்டதற்கு எதிர்ப்பு தெரிவித்து  கடந்த 01ஆம் திகதியன்று மக்கள் எதிர்ப்பு தெரிவித்து ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தமை குறிப்பிடத்தக்கதாகும்.
-
-◼️
-
-[Data](articles/cbd815a6.json)
-
----
-
-### நோன்பு காலத்தில் இடம்பெற இருக்கும் க.பொ.த. சாதாரண பரீட்சை நேர அட்டவணையில் திருத்தம் மேற்கொள்ள வேண்டும் - முகம்மத் இஸ்மாயில்
-
-*2025-01-08 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/203268) · `ta`
-
-கல்வி பொதுத் தராதார சாதாரண பரீட்சை நோன்பு காலத்தில் வருவதால் முஸ்லிம் மாணவர்கள் பாதிக்கப்படுவார்கள். அதனால் அரசாங்கம் இதுதொடர்பில் கருத்திற்கொண்டு பரீட்சை நேர அட்டவணையில் திருத்தம் மேற்கொள்ள நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் முகம்மத் இஸ்மாயில் தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (7) இடம்பெற்ற வருட ஆரம்ப நிதிநிலை தொடர்பான சபை ஒத்திவைப்பு வேளை பிரேரணை மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-உள்ளூராட்சி மன்ற தேர்தலை நடத்துவதற்கு அரசாங்கம் நடவடிக்கை எடுத்து வருகிறது. இது தொடர்பில் நாங்கள் அரசாங்கத்துக்கு நன்றி செலுத்துகிறோம். ஆனால் மார்ச் மாத காலப்பகுதியிலேயே தேர்தலை நடத்துவதற்கு நடவடிக்கைஎடுக்கப்பட்டு வருகிறது.
-
-இந்த காலத்திலேயே கல்வி பொதுத் தராதர சாதாரண தர பரீட்சையை நடத்தவும் தீர்மானிக்கப்பட்டிருக்கிறது. அதேநேரம் புனித ரமழான் நோன்பும் இந்த காலப்பகுதியிலேயே ஆரம்பிக்கப்படும். அதனால் நோன்பு காலத்தில் பரீட்சை இடம்பெறும்போது முஸ்லிம் மாணவர்களுக்கு அது பாதிப்பாக அமையும். அதனால் இந்த விடயத்தை கருத்திற்கெண்டு
-
-...
-
-[Data](articles/0dd3218a.json)
-
----
-
-### ඔබේ බැංකු තැන්පතුවලින් අය කෙරෙන රැඳවුම් බද්දට ආණ්ඩුව කරන්න යන්නේ කුමක් ද?
-
-*2025-01-08 01:31:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2kxlpv75k5o) · `si`
-
-ඔබේ බැංකු තැන්පතුවලින් අය කෙරෙන රැඳවුම් බද්දට ආණ්ඩුව කරන්න යන්නේ කුමක් ද?
-
-බැංකු තැන්පතු සඳහා වන රැඳවුම් බද්ද සම්බන්ධයෙන් ශ්‍රී ලාංකික ජනතාවගේ දැඩි අවධානයක් මේ වන විට යොමු වී තිබේ.
-
-ඒ, දැනට පවතින 5%ක රැඳවුම් බද්ද 10%ක් දක්වා ඉහළ දැමීමට සැලසුම් කර ඇතැයි ජනාධිපති අනුර කුමාර දිසානායක ප්‍රකාශයට පත් කිරීමත් සමග ය.
-
-බැංකු තැන්පතු සඳහා වන රැඳවුම් බද්ද සම්බන්ධයෙන් ගෙන ඇති තීරණය පිළිබඳව ජනාධිපති අනුර කුමාර දිසානායක මාධ්‍යවේදීන් හමුවේ මහනුවරදී පැහැදිලි කළේ මෙසේ ය.
-
-...
-
-[Data](articles/70ab28ec.json)
 
 ---

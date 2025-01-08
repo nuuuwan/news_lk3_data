@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2025-01-08 14:03:37**
+As of **2025-01-08 14:17:32**
 
 ## Newspaper Stats
 
-*Scraped **64,336** Articles*
+*Scraped **64,338** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 470
 colombotelegraphcom | 643
 bbccomsinhala | 673
 economynextcom | 3,914
-islandlk | 3,928
+islandlk | 3,929
 dailyftlk | 4,494
 dailymirrorlk | 4,733
 adalk | 6,156
 adaderanalk | 7,881
-tamilmirrorlk | 9,233
+tamilmirrorlk | 9,234
 virakesarilk | 10,738
 adaderanasinhalalk | 11,110
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 11,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-61,971 (96.3%) of 64,336 articles have been extended.
+61,971 (96.3%) of 64,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2025-01-08 (Wednesday)
+
+### “Gem Sri Lanka – 2025”  ஆரம்பம்
+
+*2025-01-08 14:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Gem-Sri-Lanka-2025-ஆரம்பம்/175-349990) · `ta`
+
+“Gem Sri Lanka – 2025” இரத்தினக்கல் மற்றும் ஆபரணக் கண்காட்சி ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையில் புதன்கிழமை (08) காலை சினமன் பெந்தொட்ட பீச் ஹோட்டலில் வெகு விமர்சையாக ஆரம்பமானது.
+
+சீனங்கோட்டை இரத்தினக்கல் மற்றும் ஆபரண சங்கம் (CGJTA) ஆண்டுதோறும் ஏற்பாடு செய்து வரும் இந்தக் கண்காட்சி ஜனவரி 10ஆம் திகதி வரை நடைபெறவுள்ளது.
+
+“Gem Sri Lanka – 2025” இரத்தினக்கல் மற்றும் ஆபரண கண்காட்சியை ஆரம்பித்து வைத்த ஜனாதிபதி, கண்காட்சி கூடங்களை பார்வையிட்டதோடு இரத்தினக்கல் தொழில்துறையினர் எதிர்கொள்ளும் பிரச்சினைகள் குறித்தும் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+“Gem Sri Lanka – 2025” கண்காட்சி ஏற்பாட்டுக் குழுவுடன் ஜனாதிபதி அநுரகுமார திசாநாயக்க குழு புகைப்படத்திலும் இணைந்து கொண்டார்.
+
+இவ்வருட “Gem Sri Lanka – 2025” கண்காட்சியானது 103 கண்காட்சிக் கூடங்களை உள்ளடக்கியதுடன்இ அதிகளவான உள்நாட்டு மற்றும் வெளிநாட்டு கொள்வனவாளர்கள் இதில் இணைந்து கொண்டமை விசேட அம்சமாகும்.
+
+...
+
+[Data](articles/f5028b34.json)
+
+---
 
 ### 2026 සිට විභාග කාලසටහන සාමාන්‍ය තත්ත්වයට
 
@@ -1194,6 +1214,22 @@ It was highlighted that all projects initiated in Sri Lanka under JICA support a
 
 ---
 
+### SLT-MOBITEL completes historic SEA-ME-WE 6 submarine cable landing in Matara
+
+*2025-01-08 06:15:00* · [`islandlk`](http://island.lk/slt-mobitel-completes-historic-sea-me-we-6-submarine-cable-landing-in-matara/) · `en`
+
+SLT-MOBITEL has successfully landed the SEA-ME-WE 6 (Southeast Asia-Middle East-Western Europe 6) submarine cable in Matara, Sri Lanka on December 29, 2024, achieving a historic breakthrough in Sri Lanka’s telecommunications infrastructure. The cable system will be in commercial operation by mid-2026.
+
+The Matara landing was completed in collaboration with Subcom LLC, USA, and under an agreement with SEA-ME-WE 6 Consortium including Sri Lanka Telecom PLC, as the legal signatory to the consortium, further strengthening Sri Lanka’s position in global connectivity.
+
+The landing operation was overseen by key SLT-MOBITEL officials including Prabhath Ambegoda, Chief Operating Officer, SLT, Nalaka Siriwardhana, General Manager – Projects, SLT, Buddhi Manage, General Manager – Transport Networks, SLT, and Rohan Ashton, Deputy General Manager – Network Infrastructure Projects, SLT, and the SLT Operational Team.
+
+...
+
+[Data](articles/20e0cedb.json)
+
+---
+
 ### Heavy profit-takings plunge bourse into storm of volatility
 
 *2025-01-08 06:14:00* · [`islandlk`](http://island.lk/heavy-profit-takings-plunge-bourse-into-storm-of-volatility/) · `en`
@@ -1695,37 +1731,5 @@ Save my name, email, and website in this browser for the next time I comment.
 ...
 
 [Data](articles/2c62c406.json)
-
----
-
-### 2025-01-07 (Tuesday)
-
-### Eleven SSPs transferred with immediate effect
-
-*2025-01-07 23:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/104814/eleven-ssps-transferred-with-immediate-effect) · `en`
-
-Sri Lanka Police announced that a total of eleven Senior Superintendents of Police (SSPs) have been transferred with immediate effect.
-
-Accordingly, the following SSPs have been transferred as per a directive by the Acting IGP with the approval of the National Police Commission (NPC):
-
-◼️
-
-[Data](articles/68076ff2.json)
-
----
-
-### பதுளை சிறைச்சாலை அதிகாரி மீது தாக்குதல்
-
-*2025-01-07 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/203266) · `ta`
-
-பதுளை சிறைச்சாலை அதிகாரி ஒருவர் பலத்த வெட்டுக்காயங்களுடன் பதுளை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-சிறைச்சாலையின் மற்றுமொரு உத்தியோகத்தர் தாம் வாகன விபத்தில் சிக்கியதாக தொலைபேசியில் அழைப்பு விடுத்ததையடுத்து, குறித்த அதிகாரி பதுளை ஹல்பே பகுதிக்கு வரவழைக்கப்பட்டு இந்த தாக்குதல் நடத்தப்பட்டதாக கூறப்படுகிறது.
-
-குறித்த தாக்குதலில் 4 பேர் கொண்ட குழுவினரே சிறைச்சாலை அதிகாரியின் மீது ஆயுதங்களாலும், தலைக்கவசத்தாலும் தாக்குதல் நடத்தியதாகவும் தெரிவிக்கப்படுகின்றது.
-
-◼️
-
-[Data](articles/53988175.json)
 
 ---
